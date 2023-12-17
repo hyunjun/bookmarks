@@ -3399,6 +3399,7 @@ Programming
 * [Expert Talk: Unlocking the Power of Real-Time Analytics • Tim Berglund & Adi Polak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ee43ToXbnzI)
 * [IT TREND Google I/O & Microsoft Build 리뷰](https://tech.kakaoenterprise.com/195)
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
+* [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [calltospeakers.com](https://calltospeakers.com)
 * [DASH 2023 다녀왔습니다.. Datadog 에서 주최하는 컨퍼런스인 DASH 2023 후기를 전해… | by Jaemin Shin | Aug, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/dash-2023-%EB%8B%A4%EB%85%80%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-6123df0c99cd)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
@@ -5199,6 +5200,7 @@ Programming
   * [11월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/11/b-11-4.html)
   * [11월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/12/b-11-5.html)
   * [12월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/12/b-12-1.html)
+  * [12월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/12/b-12-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -5365,6 +5367,7 @@ Programming
   * [기술 뉴스 #233 : 23-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1692)
   * [기술 뉴스 #234 : 23-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1693)
   * [기술 뉴스 #235 : 23-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1694)
+  * [기술 뉴스 #236 : 23-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1698)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -6125,6 +6128,7 @@ Programming
 * [QA Roadmap: Learn to become a modern QA engineer](https://roadmap.sh/qa)
 * [A day in the life of a Quality Engineer (QE) - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=VEneH07itYk)
 * [나는 어떤 강점이 있는 QA 엔지니어일까? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2023/05/15/qa-skills-marktang.html)
+* [애자일 조직에서 QA팀은 어떠한 모습을 하고 있을까요? 혹은 어떠한 모습이 되도록 노력해야 할까요? 애자일 조직에서 효율적인 팀플레이를 위한 QA조직의 방향성에 대해 이야기해보고자 합니다. | 29CM TEAM](https://medium.com/29cm/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-qa%ED%8C%80%EC%9D%98-%EC%97%AD%ED%95%A0-the-role-of-the-qa-team-in-the-agile-software-development-be9c459cc86e)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
