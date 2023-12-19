@@ -1280,6 +1280,23 @@ Git
       * 모델은 강력했지만, 사용자에게 좋은 결과를 제공하기 위해서는 개선 필요, 현재 편집 중인 파일만이 아니라 더욱 정확한 결과가 나오도록 추가 컨텍스트를 제공 필요
       * 편집기 탭에서 유사한 텍스트를 가져오게 한 뒤에 수락률이 많이 증가, 파일명이나 확장자를 통해 결과를 더 개선
   * [VDIASI23 - Vlad Iliescu - Future-Proof Development with GitHub Codespaces, Copilot, and GPT-4 - YouTube](https://www.youtube.com/watch?v=dbJfnCcdA6o)
+  * [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform - The GitHub Blog](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
+    * GitHub 콘퍼런스인 Universe에서 AI 관련 기능 출시
+    * GitHub Copilot Chat이 12월 정시 출시 예정
+      * 기존 Copilot 사용자는 사용할 수 있고 GPT-4 기반이며 에디터의 코드 기반으로 질문을 하거나 /fix, /test같은 명령어 사용 가능
+      * JetBrains IDE도 지원
+    * GitHub Copilot Chat이 github.com에도 통합되어 웹에서 바로 대화를 나눌 수 있으며 GitHub 앱에도 통합될 예정
+    * GitHub Copilot Enterprise 출시
+      * 24년 2월 정식 출시 예정
+      * GitHub Copilot Enterprise 최상위 요금재로 매월 사용자당 $39(Copilot Business는 $19, 개인은 $10)
+      * 회사의 github 저장소와 연결해서 비공개 코드를 기반으로 제안 가능
+      * Pull Request 요약 생성 기능 지원
+    * GitHub Advanced Security에서 AI 기반 보안 기능 지원
+      * GitHub Copilot Chat에서 IDE에서 취약점 수정 제안
+      * Pull Request에서 JavaScript/TypeScript에 대해 코드 스캐닝을 통해 AI가 취약점 수정 사안 제안
+    * GitHub Copilot Workspace
+      * GitHub 이슈에서 워크스페이스를 열면 변경에 대한 제안을 AI가 해주고 이를 바로 코드 수정 및 실행한 후 Pull Request까지 가능
+      * 24년 출시 예정
   * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
     * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
   * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
