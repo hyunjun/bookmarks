@@ -903,7 +903,20 @@ Web
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
+* [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
+  * [PandaCSS와 함께 CSS-in-JS의 미래로 : Wonderwall Tech](https://tech.wonderwall.kr/articles/pandacss/)
+    * 기존에 styled component를 사용하고 있었지만, PandaCSS로 바꾸게 된 배경 설명
+    * styled component를 잘 사용하고 있었지만 사용하지 않는 스타일이 번들에 포함되고 동적 기능으로 인한 성능 저하 문제가 있었고 디자인 시스템을 직접 만들기는 어려움
+    * PandaCSS는 디자이너와 공유하는 토큰을 쉽게 정의할 수 있고 컴포넌트 레시피로 재사용이 쉽고 정적인 CSS를 지원해서 프레임워크를 타지 않는 장점
+      * 빌드타임에 코드를 생성하므로 토큰/레시피를 수정하면 다시 생성해 주어야 하고 다양한 방법을 지원하므로 팀에서 사용하려면 표준을 정하는 것이 좋음
 * [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/)
+* [StyleX](https://stylexjs.com/)
+  * [Introducing StyleX | StyleX](https://stylexjs.com/blog/introducing-stylex/)
+    * Meta에서 표현력, 결정성, 안정성, 확장성을 갖춘 스타일링 시스템인 StyleX를 오픈소스로 공개
+    * StyleX는 CSS-in-JS의 개발자 경험을 컴파일 도구를 사용해서 CSS 성능과 확장성을 지원할 수 있도록 설계
+      * 그래서 표현형 CSS 하위집합을 지원하며 유틸리티 클래스나 라이브러리를 학습할 필요 없이 스타일을 원자적 CSS 클래스 명으로 변환해서 최적화하며 파일/컴포넌트를 넘어서 스타일을 합칠 수 있고 타입을 지원해서 프로퍼티와 값을 세밀하게 제어 가능
+    * StyleX는 컴파일 타임과 런타임 모두에서 빠르게 설계
+    * StyleX는 Facebook.com을 React로 다시 구축할 때 스타일에 더 나은 무언가가 필요하다는 것을 깨닫고 만들기 시작했고 Meta에서 Facebook, WatsApp, Instagram, Threads 등에서 수년간 사용하면서 발전시켜 오다가 오픈소스로 공개
 * [xstyled: A utility-first CSS-in-JS framework built for React. 💅👩🎤⚡️](https://github.com/gregberge/xstyled)
 
 # Frontend
@@ -1830,6 +1843,9 @@ Web
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * Lighthouse
   * [web.dev/learn/#lighthouse](https://web.dev/learn/#lighthouse)
+    * [Learn Performance  |  web.dev](https://web.dev/learn/performance?hl=en)
+      * [Introducing Learn Performance  |  Articles  |  web.dev](https://web.dev/blog/introducing-learn-performance?hl=en)
+        * 웹 성능에 관심이 있는 사용자를 대상으로 웹페이지를 만든다는 것의 기술적 세부 사항을 설명하는 학습 코스인 Learn Performance의 초기 버전 공개
   * [Lighthouse와 ChatOps 인터페이스를 이용한 웹사이트 성능 추적하기 | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/lighthouse-slack-chatops-7e6184f5bd93)
     * [wanteddev/lighthouse: Chatbot to run Lighthouse audits from Slack](https://github.com/wanteddev/lighthouse)
   * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
