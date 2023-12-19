@@ -2846,6 +2846,10 @@ Javascript
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
 * [nextjs bundle-analyzer를 사용한 최적화 일기](https://velog.io/@pds0309/nextjs-bundle-analyzer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%BC%EA%B8%B0)
+* [Bundleless: Not Doing Things Makes You Fast | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2023/11/30/not-doing-things-makes-you-fast/)
+  * Armin Ronacher가 Guillermo Rauch의 트윗을 보고 번들링 없는 개발을 지지하는 글 작성
+    * 개발 중에 모듈이 많은 경우 이를 로드하는 데 오래 걸리므로 성능 문제를 해결하려면 번들링이 필요하다는 주장 반박
+    * 이는 접근이 잘못된 것이고 번들링을 늘리는 것이 아니라 시작 시에 코드 실행을 줄여서 로드 시간을 줄이고 필요할 때 로딩해야 하는 것이고 사용자와 프레임워크 제작자의 목표는 번들링 없이 개발할 수 있도록 하는 것을 선호해야 한다고 주장
 * [Biome](https://github.com/biomejs)
   * [Announcing Biome](https://biomejs.dev/blog/annoucing-biome)
     * 프론트엔드 툴 체인인 Rome이 공식적으로 중단되면서 커뮤니티가 포크한 프로젝트가 Biome
@@ -2989,6 +2993,21 @@ Javascript
 * [NODESCHOOL](http://nodeschool.io/ko/)
 * [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
 * [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
+* [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
+* [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
+* [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
+* [Understanding the Node.js event loop phases and how it executes the JavaScript code](https://dev.to/lunaticmonk/understanding-the-node-js-event-loop-phases-and-how-it-executes-the-javascript-code-1j9)
+* [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
+* [libuv의 이벤트 루프(Event Loop)에 대해 알아보자](https://blog.naver.com/dlaxodud2388/222218703957)
+* [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM - YouTube](https://www.youtube.com/watch?v=PNa9OMajw9w)
+* [An animated guide for Node.js event loop - DEV Community 👩💻👨💻](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
+* [**Asynchronous Engine — (1) libuv. 최근 fastapi 1.0.0 버전 출시를 앞두고 있다는 소식을 듣고… | by 달가을 | Feb, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-1-libuv-2508a4bebb42)
+* [libuv 디자인과 libuv 동작시켜보기](https://blog.naver.com/pjt3591oo/222339028273)
+* [The Node.js Event Loop](https://blog.platformatic.dev/the-nodejs-event-loop)
+  * Node.js에서 비동기 작업을 처리하는 이벤트 루프의 내부 동작 설명글
+  * 서버에 요청이 몰렸을 때 어떤 영향이 있는지를 비교하기 위해 예시 프로젝트로 부하 테스트를 하면서 Event loop utilization(ELU)를 사용해서 이벤트 루프의 여유 용량을 확인하는 방법 소개
+  * fastify/under-pressure로 이벤트 루프 사용률을 지정해서 요청이 몰렸을 때 어떤 차이가 있는지를 보여줌
+  * 이러한 결과를 통해 동기식 처리는 이벤트 루프 밖으로 빼고 비동기 호출의 수를 줄이는 방법을 모범 사례로 소개
 * [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
 * [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
 * [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
@@ -3170,7 +3189,6 @@ Javascript
 * [Node.js에서 Request.js 사용하기 네트워크 더 간결하게 작성하자!](https://medium.com/harrythegreat/node-js%EC%97%90%EC%84%9C-request-js-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-28744c52f68d)
 * [Will Node.js forever be the sluggish Golang?](https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a)
 * [How Might Serverless Impact Node.js Ecosystem?](https://blog.bitsrc.io/how-might-serverless-impact-node-js-ecosystem-b0e312036fcf)
-* [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 * [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 * [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
 * [How to build a movie bot with SAP Conversational AI and NodeJS](https://medium.freecodecamp.org/how-to-build-a-movie-bot-with-sap-conversational-ai-and-nodejs-5d7221b83267)
@@ -3186,26 +3204,17 @@ Javascript
 * [Node.js: Module wiring and dependencies explained](https://itnext.io/node-js-module-wiring-and-dependencies-explained-9fa5784c5840)
 * [Node.js Monitoring Made Easy](https://hackernoon.com/node-js-monitoring-made-easy-4d84cd229ab2)
 * [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/)
-* [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 * [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
 * [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 * [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
-* [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
 * [node-oracledb 설치 오류 해결](https://alstn2468.github.io/Node/2020-01-13-NodeOracleBugFix/)
 * [Node.js - Hello world](https://delphiforwin.blogspot.com/2020/02/nodejs-hello-world.html)
-* [Understanding the Node.js event loop phases and how it executes the JavaScript code](https://dev.to/lunaticmonk/understanding-the-node-js-event-loop-phases-and-how-it-executes-the-javascript-code-1j9)
 * [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 * [Node CPU 점유율 최적화 경험기](https://hyperconnect.github.io/2020/02/11/Node-cpu-debug.html) 최적화는 아니고 한 가지 문제 해결
 * [Code Structuring and Error Handling in Node.js](https://medium.com/better-programming/node-js-best-practices-structuring-and-error-handling-ebcf24c85547)
 * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 * [I’m now versioning my app secrets in Git, here is why you should do the same](https://medium.com/javascript-in-plain-english/im-now-versioning-my-app-secrets-in-git-here-is-why-you-should-do-the-same-2a72c1a49039)
-* [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
-* [libuv의 이벤트 루프(Event Loop)에 대해 알아보자](https://blog.naver.com/dlaxodud2388/222218703957)
-* [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM - YouTube](https://www.youtube.com/watch?v=PNa9OMajw9w)
-* [An animated guide for Node.js event loop - DEV Community 👩💻👨💻](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
-* [**Asynchronous Engine — (1) libuv. 최근 fastapi 1.0.0 버전 출시를 앞두고 있다는 소식을 듣고… | by 달가을 | Feb, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-1-libuv-2508a4bebb42)
-* [libuv 디자인과 libuv 동작시켜보기](https://blog.naver.com/pjt3591oo/222339028273)
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
 * [Simplified Oauth 2 0 -- NodeJS Tutorial - YouTube](https://www.youtube.com/watch?v=qTsqpYz5cGE)
 * [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
