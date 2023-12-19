@@ -528,6 +528,7 @@ NoSQL
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [분산디비지만 노출은 하고싶어 - mongo로 노출 전용 DB 만들기](https://d2.naver.com/helloworld/4381253)
 * [MongoDB 다양한 테스트 케이스를 커버할 수 있는 테스트 데이터 셋업 방법 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-data-mongo-test-setup/)
+* [MongoDB Update 성능 측정 및 분석 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-data-mongodb-update-performance/)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
 * Mongoose
