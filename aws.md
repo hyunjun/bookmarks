@@ -403,6 +403,7 @@ AWS
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [AWS Systems manager와 Amazon Inspector로 Amazon EC2 자산 관리 자동화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-systems-manager-amazon-inspector-amazon-ec2-automation/)
+* [Amazon Inspector agentless vulnerability assessments for Amazon EC2 now in preview](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
@@ -766,6 +767,7 @@ AWS
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #2](https://brunch.co.kr/@alden/56)
 * [아직도 Amazon GuardDuty 도입을 안 하셨다면?](https://urbanbase.github.io/dev/2020/11/01/Amazon-GuardDuty.html)
 * [GuardDuty탐지 결과를 Slack에서 자동으로 받아보기 | by MZC_Global | Cloud Villains | Medium](https://medium.com/cloudvillains/guardduty%ED%83%90%EC%A7%80-%EA%B2%B0%EA%B3%BC%EB%A5%BC-slack%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%9B%EC%95%84%EB%B3%B4%EA%B8%B0-517f149e34e0)
+* [Amazon GuardDuty, 이제 Amazon EC2의 런타임 모니터링 지원(평가판)](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/)
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
@@ -779,13 +781,14 @@ AWS
 * [CloudFront 모니터링 하기](https://jojoldu.tistory.com/666)
 * [Datadog vs Grafana vs AWS CloudWatch | by Rajith | Innovation Incubator | Apr, 2022 | Medium](https://medium.com/innovation-incubator/datadog-vs-grafana-vs-aws-cloudwatch-ad9d6063d55c)
 * [Athena로 CloudWatch Logs query 하기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/athena-cloudwatch-logs-query)
+* [Amazon CloudWatch 로그 클래스 출시 – 저비용의 자주 액세스하지 않는 로그 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
+* [Amazon CloudWatch Logs now offers automated pattern analytics and anomaly detection | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-cloudwatch-logs-now-offers-automated-pattern-analytics-and-anomaly-detection/)
 * [클라우드 워치를 통한 프로세스 모니터링 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/07/13/cloudwatch-process-monitoring/)
 * [페타바이트 트래픽 원인 분석기](https://snack.planetarium.dev/kor/2023/03/cloudwatch/)
 * [AWS IoT Core를 활용해 CloudWatch 알람을 음성으로 수신하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-core-cloudalarm/)
 * [CloudWatch Agent에서 HTTP Proxy를 통하는 모니터링 방법 | by Hedy Kim | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/cloudwatch-agent%EC%97%90%EC%84%9C-http-proxy%EB%A5%BC-%ED%86%B5%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%A9%EB%B2%95-268e7f61c29a)
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
-* [Amazon CloudWatch 로그 클래스 출시 – 저비용의 자주 액세스하지 않는 로그 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
 * [Amazon CloudWatch 기반 하이브리드, 멀티클라우드 및 온프레미스 지표 통합 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
@@ -816,6 +819,16 @@ AWS
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [The Frugal Architect](https://thefrugalarchitect.com/)
+    * 검소한 아키텍트라는 뜻으로 비용을 고려한 지속할 수 있는 현대적인 아키텍처를 구축하기 위한 법칙을 Amazon의 CTO인 Werner Vogels이 정리
+    * 법칙 1: 비용을 비기능적 요구사항으로 만들기
+    * 법칙 2: 비용과 비즈니스를 지속해서 연계하는 시스템
+    * 법칙 3: 아키텍처는 절충의 연속
+    * 법칙 4: 관찰되지 않는 시스템은 알 수 없는 비용으로 연결
+    * 법칙 5: 비용 인식 아키텍처를 통한 비용 관리 구현
+    * 법칙 6: 비용 최적화는 점진적으로 이뤄진다
+    * 법칙 7: 도전하지 않는 성공은 가정으로 이어진다
+  * [AWS re:Invent 2023 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2023/)
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
   * [클라우드 커뮤니티에서 성장하기 :: Channy's Blog](https://channy.creation.net/blog/1812)
@@ -1272,6 +1285,8 @@ AWS
 * [EKS Blue/Green 배포 1부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-1%EB%B6%80-d7e12c113300)
 * [EKS Blue/Green 배포 2부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-2%EB%B6%80-43634dca322c)
 * [Amazon EKS Pod Identity, Amazon EKS 클러스터앱의 IAM 권한 단순화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
+* [Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
+* [Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -2201,6 +2216,7 @@ AWS
       * 이를 균등하게 분산하고 복제는 이 부분에서도 도움
   * 특히 S3에 합류한 이후 소프트웨어로만 생각하는 것으로 충분치 않고 S3라는 시스템은 이를 운영하는 조직과 사용하는 고객의 코드도 포함된다는 것을 배움
 * [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11392/)
+* [Announcing the new Amazon S3 Express One Zone high performance storage class | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
@@ -2428,6 +2444,10 @@ AWS
 * [Error asking for state migration action: input is disabled](https://jybaek.tistory.com/1011)
 * [Lambda 최초 배포 시 컨테이너 이미지 처리](https://jybaek.tistory.com/1010)
 * [HashiCorp Terraform 자격증 후기](https://jybaek.tistory.com/1012)
+* [Cloud Infrastructure Management - AWS Cloud Control API - AWS](https://aws.amazon.com/ko/cloudcontrolapi/)
+  * [Managing resources with the Terraform AWS Cloud Control provider](https://www.hashicorp.com/blog/managing-resources-with-the-terraform-aws-cloud-control-provider)
+    * AWS에서 새로운 기능이 나오면 AWS Terraform 프로바이더에서 기능이 추가되어야 Terraform에서 사용할 수 있는데 AWS Cloud Control API를 이용한 Terraform에서 AWS Cloud Control 프로바이더 공개
+    * 이 프로바이더는 자동으로 생성되기 때문에, AWS에 새 기능이 나오면 바로 사용 가능
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
