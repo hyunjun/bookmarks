@@ -114,6 +114,10 @@ Monitoring
     * 사용하지 않는 메트릭이 많으면 비용도 많아지고 속도도 느려지지만, 사용하지 않는 메트릭 정리는 꽤 귀찮은 작업인데
       * Adaptive Metrics는 사용하지 않거나 부분적으로 사용하는 지표를 분석해서 권장 집계를 알려줌
     * 150개 환경에서 초기 테스트한 결과 평균적으로 20~50%의 시계열 데이터 감소
+  * [Grafana Cloud cost management tools for metrics, logs, and more](https://grafana.com/blog/2023/11/14/grafana-cloud-cost-management-tools-for-metrics-logs-and-more/)
+    * Grfana Cloud에 비용 관리 허브 추가
+    * 여기서는 누가 로그를 가장 많이 쌓았는지 카디널리티가 낮게 집계할 수 있는 권장 규칙도 제안하고 월별 비용 확인 가능
+    * 오픈소스는 아니고 그라파나 클라우드의 기능
 * [Grafana Faro OSS | Web SDK for real user monitoring (RUM)](https://grafana.com/oss/faro/)
   * Grafana Labs에서 프론트엔드 애플리케이션의 실사용자를 모니터링(RUM)할 수 있는 웹 SDK를 포함한 Grafana Faro를 오픈소스로 공개
   * 프론트앤드 애플리케이션에 Grafana Faro SDK를 포함해서 에러, 로그, 성능 메트릭을 수집해서 Grafana에서 확인 가능
