@@ -72,6 +72,8 @@ Javascript
 * [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
 * [번역 V8 Deep Dives Javascript Map을 파헤쳐보자](https://www.jiwon.me/v8-deep-dives-understanding-map-internals/)
 * [How Node.js uses the V8 JavaScript engine to run your code | Red Hat Developer](https://developers.redhat.com/articles/2021/12/09/how-nodejs-uses-v8-javascript-engine-run-your-code)
+* [Maglev - V8’s Fastest Optimizing JIT · V8](https://v8.dev/blog/maglev)
+  * 2021년까지 V8의 실행 계층은 인터프리터인 Ignition과 최적화 컴파일러인 TurboFan이 있어서 모든 JavaScript 코드를 Ignition 바이트 코드로 먼저 컴파일한 후 실행. 실행하면서 동작 방식을 추적해서 메타데이터와 바이트 코드를 최적화 컴파일러에 제공해서 인터프리터보다 훨씬 빠르게 실행되는 고성능 머신 코드를 생성. Ignition과 TurboFan 간의 속도 차이가 크기 때문에 2021년 Sparkplug라는 JIT를 도입해서 성능을 개선했지만, 한계가 있었기에 훨씬 빠른 코드를 생성할 수 있도록 최적화 JIT Maglev 도입. Maglev는 Sparkplug와 TurboFan 사이의 간극을 메우기 위해 도입
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
