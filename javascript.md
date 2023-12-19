@@ -6070,6 +6070,7 @@ Javascript
   * [typeorm join을 이용하는 3가지 방법](https://blog.naver.com/pjt3591oo/222890604047)
   * [TypeOrm 0.3.X 업그레이드. 현재 직방에선 TypeOrm 0.2.x를 사용하고 있습니다. | by 김시우 | 직방 기술 블로그 | Mar, 2023 | Medium](https://medium.com/zigbang/typeorm-0-3-x-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-fac783aca6c8)
   * [typeorm 마이그레이션 적용 시 주의사.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223061702435)
+  * [TypeORM QueryBuilder 활용 사례: 재사용성을 높이는 방법과 테스트 작성하기 | by Many(김희만) Kim | 직방 기술 블로그 | Dec, 2023 | Medium](https://medium.com/zigbang/typeorm-querybuilder-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-c604f1913920)
 * [typescript-boilerplate: A modern TypeScript project setup, for Node.js and browsers (using esbuild)](https://github.com/metachris/typescript-boilerplate)
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
