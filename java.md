@@ -1001,7 +1001,9 @@ Java
   * jdk19 이전 버전에선 최대치가 2번까지인데 스레드를 5000개나 만들면 하드웨어 자원을 엄청나게 먹기 때문에 사실상 불가능한 방식
   * 메모리를 거의 안먹는 공짜 수준의 버츄얼 스레드 + 코루틴이 병렬처리에 매우 강함
 * [The Basis of Virtual Threads: Continuations | Foojay.io Today](https://foojay.io/today/the-basis-of-virtual-threads-continuations/)
-* [**Java의 미래, Virtual Thread | 우아한형제들 기술블로그**](https://techblog.woowahan.com/15398/)
+* [**Java의 미래, Virtual Thread | 우아한형제들 기술블로그**](https://techblog.woowahan.com/15398)
+  * Virtual Thread(Project Loom)이 JDK 19부터 얼리 엑세스로 포함되고 JDK21에서 정식 기능이 되면서 스터디한 결과 공유
+  * 스레드를 사용할 때 더 많은 요청을 처리하면서 컨텍스트 스위칭 비용을 줄이기 위해 훨씬 가벼운 Virtual Thread의 구조와 동작 원리를 보여주고 Thread, Kotlin Coroutine, Reative와 비교해서 성능이 얼마나 차이 나는지도 보여줌
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
