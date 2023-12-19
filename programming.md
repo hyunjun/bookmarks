@@ -953,6 +953,11 @@ Programming
 * [토스에서 요즘 ‘애자일’하는 방법(feat. EoA) | 요즘IT](https://yozm.wishket.com/magazine/detail/2203/)
 * [일의 완료 기준을 구체적으로 적으면 얻게 되는 이득](https://brunch.co.kr/@graypool/1312) DoD, boundary
 * [Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
+* [DORA | DevOps Capabilities: Working in Small Batches](https://dora.dev/devops-capabilities/process/working-in-small-batches/)
+  * [(번역 및 정리) Working In Small Batches](https://jayden-blog-next.vercel.app/posts/from-time-to-time/article/working-in-small-batches)
+    * DORA의 Working in small batches 번역
+    * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
+    * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
