@@ -129,6 +129,10 @@ Monitoring
   * [Grafana Scenes is generally available: start building highly interactive apps today | Grafana Labs](https://grafana.com/blog/2023/09/12/grafana-scenes-is-generally-available-start-building-highly-interactive-apps-today/)
     * Grafana를 확장할 수 있는 프론트엔드 라이브러리, Grafana Scenes가 정식 출시
     * Scenes를 사용해서 Synthetic Monitoring같은 새로운 기능을 Grafana에 추가할 수 있는 Grafana 앱 작성 가능
+* Grafana SLO [Service level objectives in Grafana Cloud | Grafana SLO](https://grafana.com/products/cloud/slo/)
+  * [Set and scale service level objectives in Grafana Cloud: Introducing Grafana SLO | Grafana Labs](https://grafana.com/blog/2023/11/15/set-and-scale-service-level-objectives-in-grafana-cloud-introducing-grafana-slo/)
+    * Grafana Labs 내부에서 SLA에 맞게 알림을 설정했지만, 너무 많은 오경보가 생겼고 이를 개선한 과정을 통해 Grafana SLO를 Grafana Cloud에 출시(오픈소스 제품은 아님)
+    * SLO를 통해 UI에서 SLI를 설정하고 관리 가능
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
