@@ -937,6 +937,7 @@ Linux
     * [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
     * [Tyblog | SSH Kung Fu](https://blog.tjll.net/ssh-kung-fu/)
   * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
+  * [sshx](https://sshx.io/) 웹 기반으로 실시간 협업이 가능한 터미널
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
