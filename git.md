@@ -538,6 +538,14 @@ Git
 * [Git CLI — Basic Set of Commands](https://levelup.gitconnected.com/git-cli-basic-set-of-commands-ddb91abecb32)
 * [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 * [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/) merge, squash, rebase
+* [Merge vs. Rebase vs. Squash](https://gist.github.com/mitchellh/319019b1b8aac9110fcfb1862e0c97fb)
+  * HashiCorp의 Mitchell Hashimoto가 Git에서 Merge, Rebase, Squash에 관한 질문을 많이 받아서 자기 생각을 정리한 글
+  * 셋 중의 하나가 정답이라고 말하는 건 틀렸다고 생각하고 각 전략이 필요한 상황이 있다고 생각
+  * Merge와 Merge 커밋이 히스토리를 가장 잘 표현한다고 생각하기에 Merge를 선호하며 모든 커밋이 빌드할 수 있으면서 커밋이 많을수록 bisect가 좋아지기에 하나의 커밋에 변경이 많은 것은 싫어하고 한 커밋은 +50/-50 정도가 가장 좋다고 생각
+    * 하지만 이렇게 하려면 모두가 이 규칙을 잘 따라야 하는데 보통 쉽지 않기에 OSS에서 PR에 WIP 커밋이 많지만 대부분 작은 차이
+  * PR이 하나의 목표만 있다면 Squash를 사용하는데 이때도 Git/GitHub의 기본 스쿼시 메시지가 아니라 다시 작성하는 편
+  * 변경 사항이 많은 WIP가 많은 경우 rebase를 통해 적당히 스쿼시하고 순서도 조정해서 관리
+  * 50개 이상의 커밋을 대규모로 인터랙티브 리베이스를 할 때 GUI가 편하다는 걸 깨달아서 Tower를 사용
 * [Always Squash and Rebase your Git Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
 * [**깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법**](http://www.itworld.co.kr/news/142318)
 * [Git 명령어 중 자주 사용하는 것들 모음](https://developer88.tistory.com/290)
