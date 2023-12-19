@@ -2428,6 +2428,11 @@ AWS
 * [Error asking for state migration action: input is disabled](https://jybaek.tistory.com/1011)
 * [Lambda 최초 배포 시 컨테이너 이미지 처리](https://jybaek.tistory.com/1010)
 * [HashiCorp Terraform 자격증 후기](https://jybaek.tistory.com/1012)
+* Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+  * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
+    * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
+    * Atlantis에서 Pull Request 승인을 받지 않으면 terraform apply를 할 수 없는데 실제로는 악의적 코드를 가져올 수도 있고 승인 요건을 우회할 수도 있고 Atlantis 설정으로 허용한 프로바이더를 지정해서 관리 가능
+    * 리뷰 피로감을 줄이기 위해 Conftest와 OPA를 사용해서 일부 변경 사항은 승인 없이 할 수 있도록 하고 사람이 봐야 하는 변경만 승인이 필요하게 설정 가능
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
