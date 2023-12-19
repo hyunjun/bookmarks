@@ -1718,6 +1718,17 @@ Docker
   * [Device Plugins 2.0: How to Build a Driver for Dynamic Resource Allocation - K Klues & Alexey Fomenko - YouTube](https://www.youtube.com/watch?v=_fi9asserLE)
 * [2024년쿠버네티스표준구성](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2024)
   * [2024년쿠버네티스표준구성](https://www.linkedin.com/posts/hoonjo_2024qoktjurseqoetyyswmufytbcqvospf-kubernetes-activity-7139924213976469505-Frs7/)
+* [A Deep Dive Into CPU Requests and Limits in Kubernetes | Datadog](https://www.datadoghq.com/blog/kubernetes-cpu-requests-limits/)
+  * Kubernetes에서 CPU 스케쥴링은 기본적으로 CFS(Completely Fair Scheduler)에 의해서 이루어지고 1.10에서 Beta로 도입되고 1.26에서 Stable이 된 CPU Manager에서 기본 정책인 `none`을 사용하면 CFS가 CPU를 스케쥴링
+  * CPU Manager의 정책을 `static`으로 설정하면 Linux CPUSets 사용
+    * 이때 Guaranteed QoS 클래스에 할당된 Pod은 요청한 CPU 코어에 독점적인 엑세스를 얻게 되고 해당 코어는 공유 풀에서 제거
+    * 이 독점적 코어 사용은 다른 Pod에만 적용되고 시스템 데몬에는 적용되지 않으므로 시스템 데몬에도 따로 CPU 할당 필요
+    * 그래서 `static` 정책은 컨텍스트 전환에 민감한 워크로드에 유용하지만 다른 컨테이너에 영향을 줄 수 있음
+* [Kubernetes V1.27 : Safeguarding Pod with MemoryThrottlingFactor | by Anav Mahajan | FAUN — Developer Community 🐾](https://faun.pub/kubernetes-v1-27-safeguarding-pod-with-memorythrottlingfactor-cfbccde10de)
+  * Kubernetes 1.27에 도입된 메모리 스로틀링 기능 설명
+  * 메모리 request와 limit으로 메모리를 제한하고 관리할 수 있지만 1.27은 request와 limit 간의 차이를 기본 스로틀링 계수(기본값은 0.9)로 계산해서 `memory.high` 설정
+    * `memory.high`에 가까워지면 메모리 스로틀링이 동작해서 메모리 관리
+    * 정확히 스로틀링이 동작하는 방식은 설명이 없음
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1781,6 +1792,16 @@ Docker
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
   * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
+  * [Why We Created the Argo Project | Akuity](https://akuity.io/blog/why-we-created-the-argo-project/)
+    * Argo 프로젝트를 Jesse Suen, Alexander Matyushentsev와 시작했던 Hong Wang이 처음에 왜 Argo 프로젝트를 시작했는지를 정리
+      * 셋은 Applatix라는 스타트업에서 만났는데 2016년 Applatix에서 DevOps 솔루션을 구축해서 컨테이너와 퍼블릭 클라우드를 통해 Jenkins보다 나음 경험을 제공하고자 함
+      * Kubernetes를 알게 되고 Kuberntes 네이티브로 만들어야 한다는 것을 깨닫고는 Argo Workflows를 시작
+      * 2017년에는 Kubernetes에 CRD가 나오면서 이 CRD를 사용하기로 결정하고 Argo Workflows 2.0을 재작성
+      * Intuit가 Kubernetes로 이전하는 작업을 원활하게 수행할 팀을 찾다가 Applatix를 인수하기로 결정했고 Argo Workflows 팀은 하루 빨리 대규모로 테스트하길 원함
+      * 하지만 바로 Intuit에 Kubernetes 클러스터와 네임스페이스가 너무 많았지만 이를 관리할 도구는 없다는 걸 깨달음
+      * 처음부터 멀티 클러스터 지원이 필요, 더 쉽게 오케스트레이션 하려면 단일 컨트롤 플레인이 필요했기에 Argo CD를 만들게 되었고 플랫폼 팀과 애플리케이션 팀이 협업해서 역량을 강화하기 위해 GUI 중심으로 만들기로 결정
+      * Intuit에서 점점 Kubernetes로 운영하면서 장애의 50%정도가 배포때 발생하고 복구하는게 걸리는 시간(MTTR)을 단축하는데 실패했다는 걸 깨닫게 됨
+      * 이 문제 해결을 위해 블루/그린과 카나리 배포 전략을 소개하게 하고 Argo Rollouts 제작
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
     * [Rollout_Cheat_Sheet.png (5160×6176)](https://raw.githubusercontent.com/jangjaelee/tutorials-argo-rollouts/main/cheat_sheet/Rollout_Cheat_Sheet.png)
