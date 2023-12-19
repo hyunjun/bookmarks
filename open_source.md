@@ -108,6 +108,11 @@ Open Source
       * OpenTF가 얘기한 구체적인 기능들도 대부분 Terraform에서 긴 논의 끝에 반려된 제안
         * 이를 제대로 검토하고 하겠다고 하는지 의심스럽다는 주장
   * [OpenTF 선언문 | GeekNews](https://news.hada.io/topic?id=10372)
+* [Introducing the Functional Source License: Freedom without Free-riding | Product Blog • Sentry](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
+  * 2008년에 BSD-3 라이센스로 시작했던 Sentry가 2019년 Business Source License(BSL)로 변경
+  * 이후 오픈 소스 용어에 대한 논란이 있고 사용자의 자유와 개발자의 지속 가능성의 균형을 맞추기 위해 BSL을 발전시킨 FSL(Funtional Source License)을 적용한다고 발표
+  * BSL은 일정 시간 뒤에 오픈소스 라이센스로 변경되는데 이 비경쟁 기간인 기본 4년은 소프트웨어 업계에는 너무 긴 기간이고 BSL에 변경되는 날짜, 변경되는 라이센스 등 추가 사용이 가능하기 때문에 같은 BSL이라 부르기가 어렵다는 문제
+  * FSL은 변경 날짜가 2년이고 변경되는 라이센스는 Apache 2.0나 MIT이며 추가 사용 허가를 막아서 오픈소스와 경쟁하는 상업적 제품을 만들어서 무임승차를 막는 목표에만 집중
 * [How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)
   * 오픈소스 회사가 첫 1,000명의 커뮤니티 멤버를 모으려고 어떻게 했는지 알기 위해
     * HashiCorp의 Mitchell Hashimoto, Databricks의 Reynold Xin, Cockroach의 Peter Mattis, Confluent의 Ale Murray에게 질문해서 정리한 글
