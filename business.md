@@ -2619,6 +2619,7 @@ Business
 * [teamwork - 프로 레벨의 선수들에게 서로 책임감을 가지게 하는건 더이상 코치들이 할 일이 아니야 프로인 너희에게 달려 있어](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-teamwork-md)
 * [Fail Fast, Move On: The "5 Co's of Teamwork" maturity model](https://failfastmoveon.blogspot.com/2017/03/the-5-cos-of-teamwork-maturity-model.html)
   * [박성철 - <다섯가지 Co, 팀워크 성숙도 모델> 팀이라는 이름으로 불리우는 단위 시행 조직이 어떤 상태일 수 있는지... | Facebook](https://www.facebook.com/fupfin/posts/pfbid02nQ6voidmxkW27ziMmjHKUJkdFvF9tz5xNb96YL3sBwzghsvkX75vy993Rx3y5v5Dl)
+* [Overcoming Bias: For Better Team Performance • Beth Incognito • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=njj7FA6XxLs)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
