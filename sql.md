@@ -1147,6 +1147,10 @@ SQL
 * [PostgreSQL14 Memoize 성능 비교 (feat. 13 vs 14 Nested Loop)](https://jojoldu.tistory.com/700)
 * [PostgreSQL 소개 및 설정 방법 (Nest.js 기준) : 네이버 블로그](https://m.blog.naver.com/gi_balja/223033188093)
 * [20x faster than pgvector: introducing pg_embedding extension for vector search in Postgres and LangChain - Neon](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
+* [Why we replaced Pinecone with PGVector | by Jeffrey Ip | Nov, 2023 | Medium](https://medium.com/@jeffreyip54/why-we-replaced-pinecone-with-pgvector-2f679d253eba)
+  * LLM 평가 인프라를 만드는 ConfidentAI에서 벡터 데이터베이스인 Pinecone을 쓰다가 PostgreSQL에서 벡터 검색을 지원하는 PGVector로 갈아탄 이유 설명
+  * Pinecon은 PoC할 때는 편하지만 데이터 동기화 문제와 벡터랑 용량 제한으로 결국 확장성에 문제 발생
+  * PGVector의 경우 HNWS 도입으로 성능이 좋아져서 Pinecone 대체 가능
 * [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * [postgres json 값 가져오기 방법으로 case 절을 리팩토링 해 봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/02/postgres-json-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-case-%EC%A0%88%EC%9D%84-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [PostgreSQL 모든 View 의 접근 기록 테이블에 적재하기 (애플리케이션 변경 없이)](https://jojoldu.tistory.com/742)
