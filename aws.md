@@ -1280,6 +1280,11 @@ AWS
 * [Amazon EKS 윈클릭 배포 가이드 (’23.6.6 업데이트)](https://gasidaseo.notion.site/Amazon-EKS-23-6-6-16ed4098c3314802a1e4dbf12a9d1da8)
 * [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp/)
 * [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
+* [How Grafana Labs switched to Karpenter to reduce costs and complexities in Amazon EKS | Grafana Labs](https://grafana.com/blog/2023/11/09/how-grafana-labs-switched-to-karpenter-to-reduce-costs-and-complexities-in-amazon-eks/)
+  * AWS EKS에서 Kubernetes를 사용하는데 처음에는 Cluster Autoscaler(CA)를 사용하고 있었지만 이후 Karpenter로 변경
+  * CA는 인스턴스 유형을 여러개 선택하더라도 확장될 때 어느 인스턴스 유형이 선택될지는 제어할 수 없어서 제약이 되었고 스팟 인스턴스를 사용할 때 스팟 인스턴스가 부족하다고 온디맨드로 대신 띄우는 등의 작업이 없음
+  * 이러한 문제를 해결하기 위해 Karpenter 도입했는데 Karpenter는 Kubernetes 네이티브 리소스를 사용해서 더 유연하게 용량 관리를 할 수 있고 용량 유형도 선택 가능
+  * 적용할 때는 Karpenter가 프로비저너가 없으면 아무일도 하지 않으므로 먼저 Karpenter를 배포하고 CA를 끄면서 Karpenter의 프로비저너와 노드 템플릿을 제공해서 Karpenter로 자연스럽게 교체. 적용 이후 유휴 비율이 50% 감소
 * [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
 * [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
 * [EKS Blue/Green 배포 1부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-1%EB%B6%80-d7e12c113300)
