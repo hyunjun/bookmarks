@@ -1389,6 +1389,8 @@ Javascript
   * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
   * [design-system: Helios Design System](https://github.com/hashicorp/design-system)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
+* [Saga Design System: shaping the future of user experiences at Grafana Labs | Grafana Labs](https://grafana.com/blog/2023/11/07/saga-design-system-shaping-the-future-of-user-experiences-at-grafana-labs/)
+  * Grafana Labs에서 Grafana 내의 제품 간에 일관된 인터페이스를 제공하기 위해 디자인 시스템 Saga 공개
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
@@ -3464,6 +3466,10 @@ Javascript
   * [fresh - The next-gen web framework](https://fresh.deno.dev/)
     * [Getting started with Fresh: The New Deno Framework | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-fresh-the-new-deno-framework-47ac30545891)
     * [Deno 팀에서 만든 웹 프레임워크 Fresh :: Outsider's Dev Story](https://blog.outsider.ne.kr/1632)
+    * [A Gentle Introduction to Islands](https://deno.com/blog/intro-to-islands)
+      * Deno의 웹 프레임워크인 Fresh은 Islands 아키텍처를 사용하는데 Fresh에서 Islands가 동작하는 방법 설명
+      * 웹사이트에는 JavaScript가 전혀 필요하지 않은 사이트도 있고 아주 일부만 JavaScript가 필요한 사이트도 있는데 많은 JavaScript 프레임워크는 페이지 자체를 컴포넌트로 다루기 때문에 다수의 하이드레이션 코드 필요
+      * 아일랜드 아키텍처에서는 아일랜드를 인식해서 필요한 부분의 JavaScript 코드만 생성해서 클라이언트에 내려주게 됨
   * [The Internals of Deno - The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
     * Deno의 내부 동작을 자세히 설명하는 무료 이북, Deno 입문자를 위한 자료가 아니라 Deno 내부를 자세히 알고 싶은 사람들을 위한 자료
     * Deno의 아키텍처, 스레딩 모델, 브릿지, 기반, 임포트와 Ops를 하나씩 설명
@@ -5118,6 +5124,9 @@ Javascript
   * [How to Disable SSR for a Next.js Page](https://morioh.com/p/177629e93bb3)
   * [Adding Server-Side Rendering (SSR) in Next.js - YouTube](https://www.youtube.com/watch?v=2mif8l1QVts)
   * [환경 고민없이 개발하기](https://toss.tech/article/22443) SSR
+  * [Building towards a new default rendering model for web applications – Vercel](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model)
+    * Vercel에서 CDN을 더 활용하기 위해 엣지에서 성능을 최대화할 수 있도록 Next.14에서 Partial Prerendering(PPR)를 사용하는 방법 소개
+    * PPR은 `<Suspense>`를 기준으로 정적 쉘을 생성하고 이 정적 쉘은 엣지에서 바로 사용자에게 제공되는데 이를 통해 Incremental Static Regeneration(ISR)의 안정성과 속도, Server-Side Rendering(SSR)의 동적 기능을 통합한 기능이라고 설명
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
