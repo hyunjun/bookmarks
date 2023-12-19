@@ -351,6 +351,9 @@ Programming
 * [DevOps를 가속화하는 플랫폼 엔지니어링│인프콘 2023 미리보기 | INFCON2023 - YouTube](https://www.youtube.com/watch?v=NiTchJph9e4)
   * [Infcon 2023에서 발표한 "DevOps를 가속화하는 플랫폼 엔지니어링" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1684)
 * [Platform Engineering On Kubernetes Part 1: Operators - DEV Community](https://dev.to/thenjdevopsguy/platform-engineering-on-kubernetes-part-1-operators-2ai4)
+* [Platform Engineering Maturity Model | CNCF TAG App Delivery](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+  * CNCF에서 플랫폼 엔지니어링 성숙도 모델 공개
+  * 이 성숙도 모델은 조직마다 다를 수 있으므로 Cloud Native Maturity Model와 같이 평가해 보는 것이 좋고 각 측면에서 성숙도가 높아질 때마다 자금과 인력에 대한 요구사항도 같이 증가하므로 최고 수준에 도달하는 게 목표라기보다는 투자 여력을 고려해서 각 단계의 자질을 고려해야 함
 * [AWSKRUG 플랫폼 엔지니어링 모임 후기 (2023/11/21) — 생존과 성장 사이](https://dokdo2013.tistory.com/14)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
@@ -4334,6 +4337,7 @@ Programming
 * [Iosevka](http://be5invis.github.io/Iosevka/)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Min Sans - 민 산스, 프로덕트 디자인에 적합한 폰트를 만들어가고 있습니다](https://github.com/poposnail61/min-sans)
+* [Monaspace](https://monaspace.githubnext.com/)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
 * [noto-kr-vf-distilled: 용량을 줄인 Noto Sans 및 Noto Serif 가변폰트](https://github.com/akngs/noto-kr-vf-distilled)
@@ -5955,6 +5959,12 @@ Programming
   * [state-of-devops-2019.pdf](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p57 productivity에 영향을 미치는 요인들
 * [Developer Productivity Engineering: What's in it for me? - YouTube](https://www.youtube.com/watch?v=w9u7cIiVelc)
 * [Webinar: Best Practices for Measuring and Growing Developer Productivity - YouTube](https://www.youtube.com/watch?v=i3f1uqzaWic)
+* [Developer Productivity Engineering at Netflix - The New Stack](https://thenewstack.io/developer-productivity-engineering-at-netflix/)
+  * Netflix의 생산성 엔지니어링 디렉터인 Kathryn Koehler가 Netflix의 개발자 생산성 엔지니어링에 관해서 설명한 글
+  * Netflix의 생산성 엔지니어링 조직은 개발자의 흐름을 방해하는 모든 것을 추상화하려고 하고 있고 티어를 나누어서 지원
+  * DORA 등의 정량적 지표로 생산성을 추적하지만 The SPACE of Developer Productivity 활용해서 만족도와 효율성, 성능, 협업에 대한 정성적인 지표도 추적
+    * [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
+  * 설문조사는 어렵기 때문에 개발자들과 능동적인 커뮤니케이션을 하도록 유도하고 내부 플랫폼으로 포장된 길을 제공하려고 노력하고 있다고 함
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
@@ -6518,8 +6528,29 @@ Programming
   * 이번에 공개된 제로데이 취약점 HTTP/2 Rapid Reset가 Cloudflare뿐 아니라 Google이나 AWS에도 공격이 있었음을 알게 되고 협력해서 해당 공격에 대처
   * HTTP/2는 스트림을 동시에 여러 개 열 수 있고 클라이언트는 스트림 취소 가 가능
   * 이번 HTTP/2 Rapid Reset는 빠르게 취소 요청을 보내서 서버 쪽에서 스트림 종료 처리에 걸리는 시간을 이용해 서비스 거부 공격을 발생
-* [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+* [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage)
   * [Cloudflare 장애 관련 타임라인 정리](https://www.facebook.com/jongho.seo.5811/posts/pfbid028zC6CmdrATz7JybUeZipr3vrNQxtjq62JD31mAUYftqTEzJ2PDnQoYEReCCNUKitl)
+  * 11월 2일 데이터센터의 전력이 나가면서 11월 2일 11:44(UTC)부터 11월 4일 04:25(UTC)까지 2일 정도 지속된 Cloudflare 장애의 포스트모템
+    * 장애의 심각성 때문인지 Cloudflare의 CEO인 Matthew Prince가 복구되자마자 바로 포스트모템 작성
+  * 컨트롤 플레인과 분석 서비스는 오리건주 힐즈버러 주변의 3개 데이터 센터에서 실행, 이 3개의 데이터 센터는 자연재해로 영향받지 않도록 충분히 떨어져 있으며 액티브-액티브로 클러스터를 이중화해서 운영할 수 있도록 충분히 가깝게 선택이 돼서 서로 데이터를 동기화
+  * 이 세 곳 중 하나는 PDX-DC04라고 불렀는데 가장 큰 분석 클러스터와 고가용성 클러스터의 1/3에 해당
+  * 11월 2일 08시 50분(UTC) PDX-DC04의 유틸리티 회사인 포틀랜드 제너럴 일렉트릭(PGE)의 전력 공급 중 하나에 예기치 않은 유지보수가 발생했고 데이터센터를 운영하는 Flexential는 발전기를 돌려서 이를 보완
+  * Flexential는 이를 Cloudflare에 알리지 않았고 발전기와 유틸리티 라인을 같이 가동한 이유를 Flexential이 아직 알려주지 않음
+  * 11:40(UTC) PGE의 변압기 중 하나에 그라운드 폴트가 발생했고 첫 유지보수 작업으로 인해 발생했을 것으로 추측
+  * 이 그라운드 폴트로 인한 보호 조치로 PDX-DC04의 모든 발전기가 중단되어 데이터센터의 전력 공급원이 모두 오프라인
+  * 데이터센터에 UPS 장비가 있고 10분 동안 버틸 수 있었지만 4분 만에 UPS에 문제가 생기기 시작, 데이터센터는 10분만에 발전기를 복구하지 못함
+  * 발전기를 복구하는데 3가지 문제가 있었는데 그라운드 폴트로 인한 문제였으므로 발전기에 물리적으로 접근해서 수동으로 재시작해야 했고, Flexential의 접근제어 시스템도 전원 공급이 되지 않아 오프라인 상태였으며, 현장 야간 근무자에 전문가가 포함되어 있지 않고 보안요원과 근무한 지 일주일 된 근무자 뿐
+  * 11:44~12:01(UTC)에 UPS가 방전되어 데이터센터의 모든 전기가 끊겼지만 Flexential은 이를 Cloudflare에 알리지 않았고 전 세계를 연결하는 라우터 2대가 내려간 후 이를 알게 되었고 데이터센터에 팀 파견
+  * Flexential은 12:28(UTC)에야 처음으로 전원 문제 공지
+  * 고가용성으로 설계되어 다른 두 데이터센터에서 동작해야 했지만 Kafka와 Clickhouse 두 서비스는 고가용성 클러스터에 있지 않고 PDX-DC04에만 있었으면 고가용성 클러스터에 이 두 서비스에 의존성을 가진 서비스가 존재. 고가용성 테스트도 했었지만 PDX-DC04를 모두 오프라인으로 하는 테스트는 진행하지 않았기에 이러한 의존성이 있다는 걸 놓침
+  * 또한 새로운 제품이나 데이터베이스가 고가용성 클러스터에 통합되도록 요구하는 절차 부족
+  * 12:48(UTC) Flexential은 발전기를 재 가동하고 과부하를 막기 위해 한 회로씩 점진적으로 켜다가 Cloudflare 회로에 문제가 있음을 발견하고 회로 차단기 교체를 시도했지만 보유 차단기보다 고장난 차단기가 많았기에 차단기 조달 필요
+  * 13:40(UTC) 복구 시간을 예측할 수 없었기에 유럽에 있는 재해복구 사이트에 페일오버 요청. 다행히 대부분의 서비스는 나머지 두 데이터센터에서 운영중이었으므로 컨트롤 플레인의 일부만 복구하면 되는 상황
+  * 13:43(UTC) 재해복구 사이트에서 첫 서비스 시작. 과부하가 걸려서 속도 제한을 구현해야 했지만 17:57(UTC) 안정적으로 서비스를 제공 가능
+  * 신규 제품 등 재해복구 사이트에서 동작하지 않는 서비스가 있었고(대표적으로 동영상 스트림) 서비스 복구를 위해 1) 재해 복구 사이트에서 서비스를 다시 구현하고 2) 고가용성 클러스터로 마이그레이션하는 두 트랙을 동시에 진행
+  * 22:48(UTC) Flexential이 회로 차단기를 모두 교체하고 전력을 복구했음을 확인했지만 하루종일 비상상태로 일한 Cloudflare 팀은 바로 이동하기 보다는 휴식 후 아침에 데이터센터로 가기로 결정. 약간 복구가 늦어지지만 추가적인 실수를 줄였다고 생각
+  * 11월 3일 새벽부터 PDX-DC04에서 작업을 시작하고 서버를 재구축하는데 3시간 소요
+  * 11월 4일 04시 25분(UTC) 완전히 복구
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
