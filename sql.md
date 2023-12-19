@@ -827,6 +827,26 @@ SQL
 * [Login y Logout con NodeJS y MySQL usando jsonwebtokens - YouTube](https://www.youtube.com/watch?v=PRoTFE2RSfQ)
 * [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
 * [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
+* [Upgrading GitHub.com to MySQL 8.0 - The GitHub Blog](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
+  * GitHub.com이 성장하면서 단일 MySQL에서 아키텍처를 발전해 오고 있었는데 1,200개 이상의 MySQL 호스트를 8.0으로 업그레이드한 과정
+  * SLO에 영향을 주지 않으면서 업그레이드하기 위해 계획, 테스트, 업그레이드에 1년 넘게 소요
+  * MySQL 5.7의 수명이 거의 종료됨에 따라 8.0 으로 업그레이드 해야 했다.
+  * GitHub의 MySQL 인프라 구성
+    * 1,200개 이상의 호스트로 구성되어 있고 Azure와 베어 메탈 호스트의 조합
+    * 300TB 이상의 데이터를 저장하고 50개 이상의 데이터베이스 클러스터에서 초당 5,500만 건의 쿼리 처리
+    * 각 클러스터는 primary와 replicas를 이용한 고가용성 구성
+    * 수평/수직 샤딩을 모두 활용하여 데이터가 파티셔닝
+    * 대규모 도메인 영역을 위해 수평 샤딩 된 Vitess 클러스터도 존재
+  * SLO/SLA를 준수하면서 업그레이드해야 하지만 모든 장애를 미리 고려할 수는 없으므로 중단없이 MySQL 5.7로 롤백할 수 있어야 함. 다양한 워크로드가 있으므로 클러스터를 원자단위로 업그레이드 해야하고 혼합 버전을 오랫동안 운영해야 함
+  * 2022년 7월부터 업그레이드 준비 시작
+  * MySQL 8.0의 설정값을 결정하기 위해 벤치마크했고 두 버전을 운영해야 했기에 도구와 자동화가 두 버전 모두 처리 필요
+  * 모든 애플리케이션의 CI에 MySQL 8.0을 추가해서 CI에서 5.7과 8.0을 같이 실행
+  * 업그레이드 전략
+    * replicas를 먼저 업그레이드하고 트래픽을 받도록 한 뒤 모니터링하면서 교체해 나가고 5.7은 롤백을 위해 띄워두었지만, 트래픽은 안 가게 함
+    * Replica 토폴로지를 조정해서 8.0 primary가 5.7 primary를 복제하도록 구성, 8.0 replicas 아래에는 5.7 세트와 8.0 세트로 구성해서 8.0만 트래픽을 처리하도록 함
+    * Primary를 직접 업그레이드하지 않고 페일오버를 통해 MySQL 8.0 Replica가 Primary로 승격되도록 함
+    * 백업이나 비 프로덕션을 위한 MySQL도 모두 업그레이드
+    * 롤백할 필요가 없다는 걸 확인 후 5.7 서버 모두 제거
 * [MySQL Best of 2021](https://blogs.oracle.com/mysql/post/mysql-best-of-2021)
 * [MySQL의 변신…”이제는 분석용 클라우드 DB” - Byline Network](https://byline.network/2022/04/0406/)
 * [MySQL Command Line Interface. 요즘은 세상의 모든 컴퓨터 화면이 그래픽 인터페이스로 바뀐 것 처럼 | by Sunguck Lee | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/mysql-command-line-interface-21de489e7db5)
@@ -1369,6 +1389,7 @@ SQL
 * [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
 * [Proceedings of the VLDB Endowment](https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future)
   * [SQLite: Past, Present, and Future | GeekNews](https://news.hada.io/topic?id=7327)
+* [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [Array columns in SQLite - DEV Community](https://dev.to/fractaledmind/array-columns-in-sqlite-15i0)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
