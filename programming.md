@@ -5810,6 +5810,11 @@ Programming
   * [Application Security with Hashicorp vault( part -1) #devops #kubernetes #hashicorp - YouTube](https://www.youtube.com/watch?v=KN2sGqv_xJU)
   * [HashiCorp Vault on Windows - YouTube](https://www.youtube.com/watch?v=cA00t-fnVXg)
   * [Hashicorp vault: secret management tool introduction | by Satish Pandey | Jan, 2023 | Medium](https://medium.com/@satishpandey2013/hashicorp-vault-secret-management-tool-introduction-7d96f045ea2a)
+  * [OpenBao (Hashicorp Vault Fork effort) FAQ - Open Horizon - LF Edge Confluence](https://wiki.lfedge.org/display/OH/OpenBao+%28Hashicorp+Vault+Fork+effort%29+FAQ)
+    * [Open source forkers stick an OpenBao in the oven • The Register](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
+      * OpenTofu 운영자 중 한 명이면서 DevOps 관련 스타트업인 Scalr의 공동창업자이자 CEO인 Sebastian Stadil가 HashiCorp Vault의 포크인 OpenBao 프로젝트 공개
+      * Terraform의 라이센스 변경으로 OpenTofu가 생겼듯이 Vault도 같은 이유로 포크해서 OpenBao 작성
+      * OpenBao는 Linux 재단의 인큐베이팅을 받고 있고 IBM 개발자들이 엣지 컴퓨팅 이니셔티브인 LF Edge를 통해 프로젝트를 주도하고 있으면 아직 IBM에 공식 승인이 있었던 것은 아님
 
 # SBOM Software Bill of Materials 
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
@@ -6257,6 +6262,9 @@ Programming
 * [Spoqa 기술 블로그 | 기능 테스트 전환 이야기](https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html)
 * [테스트하기 쉬운 코드 작성법](https://f-lab.kr/blog/good-code-to-test)
 * [서버사이드 테스트 파랑새를 찾아서 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14874/)
+* [Something's been bothering me about TDD](https://www.linkedin.com/posts/olaf-thielke_systemdesign-softwareengineering-softwarearchitecture-activity-7137285276925628416-fYOH/)
+  * TDD만으로 좋은 시스템 설계를 할 수 있다고 생각하지 않는다는 글에 TDD를 만든 Kent Beck이 직접 "TDD는 디자인 필요성을 대체하지 않는다"고 설명
+  * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
