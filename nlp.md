@@ -2805,6 +2805,8 @@ NLP
 * [ai-english-tutor: Interactive AI English Tutor: Harnessing OpenAI's APIs for an Immersive Language Learning Experience](https://github.com/jasonkang14/ai-english-tutor)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
   * [annyang:  Speech recognition for your site](https://github.com/TalAter/annyang)
+* [Audiobox: Generating audio from voice and natural language prompts](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
+  * 원하는 음성이나 음향 효과에 대한 프롬프트를 입력해서 소리를 생성할 수 있는 모델인 Audiobox를 Meta에서 공개
 * [AudioCraft: A simple one-stop shop for audio modeling](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
   * [Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning](https://github.com/facebookresearch/audiocraft)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
