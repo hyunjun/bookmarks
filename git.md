@@ -1173,6 +1173,9 @@ Git
 * [Bare-Metal Chronicles: Tinkerbell, Cluster API & GitOps • Katie Gamanji • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PHrUSpEydRM)
 * [깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서 | 요즘IT](https://yozm.wishket.com/magazine/detail/2010/)
 * [Software Rollout at Scale: Using GitOps to Scale Kubernetes Rollouts • Thor Lange • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ak2TT2oHeg8)
+* [GitOps Best Practices Whitepaper | Akuity](https://akuity.io/blog/gitops-best-practices-whitepaper/)
+  * Argo CD를 만드는 Akuity에서 GitOps 베스트 프랙티스 백서 공개
+  * 24페이지의 PDF 문서로 Git 워크플로우, 레퍼지토리 디렉터리 구조, GitOps를 사용한 CI/CD, 렌더링 된 Manifests 설명
 * [kargo: Application lifecycle orchestration](https://github.com/akuity/kargo)
   * [Introducing Kargo | Akuity](https://akuity.io/blog/introducing-kargo/)
     * Argo 프로젝트를 만드는 Akuity에서 GitOps에 맞게 CD 파이프라인을 재구성, 각 스테이지를 연결해서 배포 조건, 생명 주기, 테스트를 설정 가능
