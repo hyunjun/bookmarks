@@ -1735,6 +1735,7 @@ Programming
 * [Leveling up Your Architecture Game - YouTube](https://www.youtube.com/watch?v=sARYVk9yXt8)
 * [Generic or Specific? Making Sensible Software Design Decisions • Bert Jan Schrijver • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=lh5qWwIj06s)
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
+* [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -6309,6 +6310,7 @@ Programming
 * [테스트한 만큼만 확신할 수 있다 | 웹으로 말하기](https://mytory.net/archives/14280)
 * [실험 0건인 조직에서, 가장 실험을 활발하게 하는 조직 되기 (B마트의 실험문화 빌드업 과정) | 우아한형제들 기술블로그](https://techblog.woowahan.com/13726/)
 * [오프라인과 온라인 A/B 테스트를 통해 오픈챗 추천 모델 개선하기](https://techblog.lycorp.co.jp/ko/improve-openchat-recommendation-model-with-offline-and-online-ab-test) Adhoc A/B test
+* [Why we use lenient p-value thresholds like 0.4 for A/B experiments at Agoda— Part 1 | by Agoda Engineering | Agoda Engineering & Design | Dec, 2023 | Medium](https://medium.com/agoda-engineering/why-we-use-lenient-p-value-thresholds-like-0-4-for-a-b-experiments-at-agoda-part-1-e93c7c56e666)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
