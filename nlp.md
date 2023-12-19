@@ -365,6 +365,8 @@ NLP
 * [자연어 처리](https://velog.io/@djarkdud27/NLP-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [딥러닝 공개 모델 활용 정보 수집 효율화 | Pega Devlog](https://jehyunlee.github.io/2022/11/11/Python-DS-120-eost2022/)
 * [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+* [29 Nov 2023 RLHF Lecture @ Stanford - Google Slides](https://docs.google.com/presentation/d/1T6X8ZlwrBek14wGfKljLxikwkTBDdM88r0AZ6NiodU4/)
+  * [Nathan Lambert on LinkedIn: 29 Nov 2023 RLHF Lecture @ Stanford | 12 comments](https://www.linkedin.com/posts/natolambert_29-nov-2023-rlhf-lecture-stanford-activity-7136029436520398849-LQyO)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
@@ -922,6 +924,7 @@ NLP
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
     * [GPTs 만들기 사용법 간단 설명 | Create vs Configure 모드 실사용 후기 | 나만의 챗GPT 프롬프트 만들기 | GPT4 Turbo 리뷰 - YouTube](https://www.youtube.com/watch?v=7vYWRlsmOVQ)
+    * [Top GPTs for Researchers](https://www.linkedin.com/posts/razia-aliani_research-research-academicwriting-activity-7132219385636696065-Iea2)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
   * [Hello-ChatGPT: Connect ChatGPT to Slackbot. Works via FastAPI](https://github.com/jybaek/Hello-ChatGPT)
