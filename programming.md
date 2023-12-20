@@ -711,6 +711,7 @@ Programming
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
 * [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
 * [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2106/)
+* [Bit(Binary digit) Byte 의 고찰. 최근 우리가 다루는 용량이 매우 커져서 작은 용량은 무시해도 될 수준이… | by Chase | 직방 기술 블로그 | Dec, 2023 | Medium](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 
 # Agile, Scrum
 * book
