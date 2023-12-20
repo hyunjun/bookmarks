@@ -91,6 +91,9 @@ Logging
   * 트래픽이 많은 환경에서 사용할 수 있는 아키텍처 구성 가능
   * Clymene 프로젝트는 다양한 보관 유형을 제공하므로 익숙한 보관 유형 선택 가능
   * [오픈소스 도전기(feat. Clymene 프로젝트, 공개SW 개발자 대회) – tech.kakao.com](https://tech.kakao.com/2023/06/15/opensource-challenge/)
+* [graylog: Graylog 5 setup](https://github.com/lawrencesystems/graylog)
+  * [Graylog: Your Comprehensive Guide to Getting Started Open Source Log Management - YouTube](https://www.youtube.com/watch?v=DwYwrADwCmg)
+    * [Graylog 5 Docker Tutorial Commands - Software & Web Applications - Lawrence Systems Forums](https://forums.lawrencesystems.com/t/graylog-5-docker-tutorial-commands/17611)
 * lnav [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale](https://lnav.org/)
   * [The Logfile Navigator | GeekNews](https://news.hada.io/topic?id=4606)
 * [LOGAI – AUTOMATED LOG ANALYTICS FOR VALIDATION](https://ko.hortonworks.com/blog/logai-automated-log-analytics-validation/)
