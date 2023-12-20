@@ -375,6 +375,7 @@ Monitoring
     * 마이그레이션을 원활하게 하려고 셀프서비스로 자동화 가능 필요
   * 마이그레이션은 인프라팀이 먼저 모니터링을 새로운 시스템으로 마이그레이션
     * 서비스팀에서 Prometheus 계측과 라이브러리로 엔드포인트를 변경하는 단계로 진행
+* [14. 프로메테우스 – 쿠버네티스 모니터링 시스템 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-12-20-kubernetes-14/)
 * [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
   * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
