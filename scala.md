@@ -423,6 +423,7 @@ Scala
 * [Actor implementation experiments with ZIO | A toy zio actor implementation](https://stevechy.github.io/toyzioactortest/zio/actors/2023/03/22/zio-actor-experiments.html)
 * [Zymposium - Implementing Actors With ZIO - YouTube](https://www.youtube.com/watch?v=4K1xKb92WM0)
 * [Zymposium - Distributed Actors with ZIO HTTP - YouTube](https://www.youtube.com/watch?v=5uCDCVcrci8)
+* [Zymposium - The Next Chapter Of Distributed Actors - YouTube](https://www.youtube.com/watch?v=v8jmAZXK0Rk)
 
 # Akka
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
