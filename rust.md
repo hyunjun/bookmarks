@@ -193,6 +193,7 @@
   * [Unix-like OS들의 핵심 유틸인 sudo 와 su 가 Rust로 재 작성중 | GeekNews](https://news.hada.io/topic?id=9180)
 * [XetHub Blog | NFS > FUSE: Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
   * [NFS > FUSE: 우리가 자체 NFS 서버를 Rust로 개발한 이유 | GeekNews](https://news.hada.io/topic?id=10992)
+* [Rust Dublin September 2023 - SurrealDB - YouTube](https://www.youtube.com/watch?v=k3P9BMhbjjc)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
