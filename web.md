@@ -2021,6 +2021,7 @@ Web
 * [Wasm GC: What Exactly Is It (and Why I Should Care) - Ivan Mikushin, VMware - YouTube](https://www.youtube.com/watch?v=ndJP-vmZFYk)
 * [SQLite in Wasm: A Glimpse into the Future of Shared Libraries - Carl Sverre, Amplify Partners - YouTube](https://www.youtube.com/watch?v=oLYda9jmNpk)
 * [Wasm Is Becoming the Runtime for LLMs - Michael Yuan, Second State - YouTube](https://www.youtube.com/watch?v=upNNI_b4tNY)
+* [What Actually Is WebAssembly: Taking a Look Under the Hood - YouTube](https://www.youtube.com/watch?v=WBxlLMeyE7I)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
