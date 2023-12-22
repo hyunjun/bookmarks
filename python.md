@@ -4574,6 +4574,10 @@ Python
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
   * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
+* [pixi: Package management made easy](https://github.com/prefix-dev/pixi)
+  * [prefix.dev – solving software package management](https://prefix.dev/)
+  * [Getting Started - Pixi by prefix.dev](https://pixi.sh/)
+    * [Ruben Arts - A New Way to Manage Python Environments with Pixi - YouTube](https://www.youtube.com/watch?v=P7CO25cx4CI)
 * [Poetry - Python dependency management and packaging made easy. https://poetry.eustace.io ](https://github.com/sdispater/poetry)
   * [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
   * [GitHub Action과 Poetry를 사용한 파이썬 패키지 개발](https://seonghyeon.dev/python-package-development-with-poetry-and-action)
