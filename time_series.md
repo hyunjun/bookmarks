@@ -56,6 +56,7 @@ Time Series
 * [Kishan Manani - Feature Engineering for Time Series Forecasting | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=9QtL7m3YS9I)
 * [Copulas: An Essential Guide & Applications in Time Series Forecasting | by Nikos Kafritsas | Mar, 2023 | Towards Data Science](https://towardsdatascience.com/copulas-an-essential-guide-applications-in-time-series-forecasting-f5c93dcd6e99)
 * [Timeseries dataset generation in tensorflow – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4462)
+* [Alyona Galyeva & Dr. Sebastian Werner - 5 ways to fail with time series - YouTube](https://www.youtube.com/watch?v=5jOW6baXYI4)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
