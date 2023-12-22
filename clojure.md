@@ -860,6 +860,7 @@ Clojure
 * [awesome-clojure-likes: Curated list of Clojure-like programming languages](https://github.com/chr15m/awesome-clojure-likes)
 * [aws-api: AWS, data driven](https://github.com/cognitect-labs/aws-api)
   * [Lazy Paging with the Cognitect AWS API](https://1729.org.uk/posts/lazy-paging-cognitect-aws/)
+* [balloon: Deflate a nested map into one level deep or inflate a one level into a nested map using delimited keys](https://github.com/roboli/balloon)
 * [bankster: Money Creation Made Easy](https://github.com/randomseed-io/bankster)
 * [better-cond: A version of cond that supports :let clauses, and a number of other conveniences](https://github.com/Engelberg/better-cond)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
