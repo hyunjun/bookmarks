@@ -1397,6 +1397,9 @@ Machine Learning
   * [코드로 이해하는 BentoML](https://blog.lbox.kr/model-serving-bentoml)
   * [Sean Sheng - Building an ML Application Platform from the Ground Up | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5Uoatnx387E)
   * [PyCon KR 2023 MLOps Model Serving Architecture with BentoML 김성렬 - YouTube](https://www.youtube.com/watch?v=2AjVDjR0jLM)
+* [dbt Labs | Transform Data in Your Warehouse](https://www.getdbt.com/)
+  * [Dorian Van den Heede - Your best Bet: Effortless MLOps with Python Models in dbt - YouTube](https://www.youtube.com/watch?v=AdY7xyj7a28)
+  * [mixpanel_ml](https://github.com/jigsawlabs-student/mixpanel_ml)
 * Flyte
   * [ML Pipeline에 Flyte 도입하기. ML 오픈 소스의 망망대해 항해하며, ML Pipeline 구성해… | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/ml-pipeline%EC%97%90-flyte-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1c85528df470)
   * [Flyte MLOps Pipeline 특징 정리. Kubeflow, Airflow와 비교해보는 Flyte 특징 분석과… | by Ryan Kim | Medium](https://equus3144.medium.com/flyte-mlops-pipeline-%ED%8A%B9%EC%A7%95-%EC%A0%95%EB%A6%AC-7b871eb51a40)
