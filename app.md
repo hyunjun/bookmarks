@@ -732,6 +732,7 @@ App
   * [Using Nix to Develop and Package a Scala Project | by Ralf Gueldemeister | Oct, 2023 | Zendesk Engineering](https://zendesk.engineering/using-nix-to-develop-and-package-a-scala-project-cadccd56ad06)
   * [Home Manager Manual](https://nix-community.github.io/home-manager/)
     * [Manage Your Dotfiles with Home Manager! - YouTube](https://www.youtube.com/watch?v=IiyBeR-Guqw)
+  * [SBTB 2023: Salar Rahmanian, Streamline Your Development Workflow - YouTube](https://www.youtube.com/watch?v=Qv3Y23RjJa0)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
