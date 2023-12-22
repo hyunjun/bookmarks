@@ -342,6 +342,7 @@ Vision
 * [Face Recognition](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23)
 * [데이터야놀자2021 Transfer Learning으로 효율적인 이미지 분류모델 만들기 - 박경호/정현희님 - YouTube](https://www.youtube.com/watch?v=EVCKPRmlQGA)
 * [A new, unique AI dataset for animating amateur drawings](https://ai.facebook.com/blog/ai-dataset-animating-kids-drawings/)
+* [Ariadna Kramkovska - Background removal without background knowledge - YouTube](https://www.youtube.com/watch?v=YpxZKE2aHHo)
 * [donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 * [fight_detection: Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition](https://github.com/imsoo/fight_detection)
 * [ImageBind: Holistic AI learning across six modalities](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)
