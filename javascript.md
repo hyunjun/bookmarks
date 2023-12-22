@@ -1664,6 +1664,7 @@ Javascript
   * [GraphQL과 Apollo 열네번째 이야기 - TypeScript + Nest에서 GraphQL 사용해 보기 - 실습 해보기](https://junyharang.tistory.com/527)
   * [GraphQL과 Apollo 열다섯번째 이야기 - React와 Apollo Client](https://junyharang.tistory.com/528)
   * [GraphQL과 Apollo 열 여섯번째 이야기 - Kotlin + Spring Boot에서 GraphQL 사용해 보기 - 실습 환경 구성](https://junyharang.tistory.com/533)
+  * [GraphQL과 Apollo 열 일곱번째 이야기 - Kotlin + Spring Boot에서 GraphQL 사용해 보기 - 실습 해보기](https://junyharang.tistory.com/534)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [Prisma - replaces traditional ORMs](https://www.prisma.io/)
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
