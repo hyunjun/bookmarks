@@ -1447,6 +1447,7 @@ Business
   * 로스터에서 제외되는 선수들에 대한 이야기는 '실리콘밸리의 팀장들'에서 이야기하는 '완전한 솔직함'과 일맥상통
   * 6강을 기본으로 단계적인 목표 상향, 너무 높은 목표는 희망을 갖기 어렵다는 건 나도 동감하고 선호하는 스타일
 * [리더의 유형](https://blog.daum.net/choofamily/202) 미국농구코치협회(NABC)의 성공한 코치가 되기 위한 필수적인 조건
+* [08화 농구팀을 승리로 이끄는 리더십 특성](https://brunch.co.kr/@choinuri/53)
 * [수베로 감독님, 한국 선수는 "NO"라고 잘 말하지 못합니다](https://sports.v.daum.net/v/20220513141504768) case, 문화적 배경 등에 따른 커뮤니케이션 필요성
 * [국내 유소년 훈련 지켜본 히딩크가 '충격' 받은 사연 SS현장](https://sports.v.daum.net/v/20220603184436117) 유소년 훈련만이 아니라 일반적인 업무에서도 이런 자세가 필요
 * [Golden State Warriors Coach Steve Kerr on building a culture of joy & competitiveness - YouTube](https://www.youtube.com/watch?v=1HqEYqyZnqM)
