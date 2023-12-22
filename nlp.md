@@ -1478,6 +1478,7 @@ NLP
 * [Towards Better GenAI: 5 Major Issues, and How to Fix Them - DataScienceCentral.com](https://www.datasciencecentral.com/generative-ai-five-major-issues-and-how-to-fix-them/)
 * [Open-Source LLMs vs. ChatGPT](https://www.linkedin.com/posts/sophiamyang_are-open-source-large-language-models-catching-ugcPost-7135873268930019328-8ouP/)
 * [흙수저용 무료 GPT - YouTube](https://www.youtube.com/watch?v=_tUDZdlehAk)
+* [Max Pumperla - Building & Deploying LLM Apps - YouTube](https://www.youtube.com/watch?v=Gj2_knxjVOk)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
