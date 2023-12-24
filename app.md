@@ -1465,6 +1465,7 @@ App
     * 강력한 이미지 편집/이펙트 기능
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
+* [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
