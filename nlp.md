@@ -703,6 +703,7 @@ NLP
 * [Character.AI](https://beta.character.ai/)
 * [Chatbase | ChatGPT for your website](https://www.chatbase.co/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
+* Chatbot Arena [Chat with Open Large Language Models](https://chat.lmsys.org/)
 * [ChatGPT](https://chat.openai.com/)
   * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
     * OpenAI에서 대화형으로 질문을 하면 답변을 받을 수 있는 ChatGPT 공개
