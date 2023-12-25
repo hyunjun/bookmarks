@@ -962,6 +962,11 @@ Programming
     * DORA의 Working in small batches 번역
     * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
     * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
+* [How to Survive & Thrive in Tech Leadership Through Agile Transformation • Sean Langton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=oOYddleBsuk)
+  * [Bank West의 애자일 변화와 고객 경험](https://traw.ai/collections/64a27c17-c339-413c-b7de-e809df827503/video/a16e996f-c822-4936-80b5-f89b0648898f)
+    * 🏦 Bank West의 애자일 변화와 고객 경험
+    * 📚 변화로부터 얻은 다섯 가지 교훈
+    * 🤝 효과적인 거버넌스의 역할
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -1873,6 +1878,7 @@ Programming
 * [Database Driven Development에서 진짜 DDD로의 선회, 이벤트 스토밍 -2-](https://helloworld.kurly.com/blog/event-storming/)
 * [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?. 타이어 커머스 서비스 이벤트 스토밍 적용기 | by 김승수 | 오토피디아 | Aug, 2022 | Medium](https://medium.com/autopedia/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%B0%8D-%ED%9B%84%EA%B8%B0-cb01794bff9f)
 * [EventStorming • Paul Rayner • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=nVEHGhqAvJo)
+* [이벤트 스토밍 인 액션: 이벤트 스토밍 소개와 적용 방법 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=gihxS6eE1DM)
 * [The Aggregate is dead. Long live the Aggregate! by Milan Savić and Sara Pellegrini - YouTube](https://www.youtube.com/watch?v=Q89patz4lgU)
 * [**DDD와 MSA 기반으로 좋은 서비스 개발하기 - 컬리 기술 블로그**](https://helloworld.kurly.com/blog/ddd-msa-service-development/)
 * [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
@@ -2003,6 +2009,7 @@ Programming
 * [VDBUH2023 - Daniel Oh - Event-driven autoscaling for Serverless Java - YouTube](https://www.youtube.com/watch?v=I47uwSk5cUc)
 * [회원시스템 이벤트기반 아키텍처 구축하기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=b65zIH7sDug)
 * [Building Distributed Applications with Event Driven Architecture • Eric Johnson • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=9StQpMLC-5Q)
+* [Event-Driven Integration Today & Tomorrow • James Urquhart • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=FEcRuGzrNRs)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -2446,6 +2453,7 @@ Programming
 * [마이크로서비스의 외부 API 패턴 중에서 Materialized View 와 Backend For Frontend 를 29CM 에서 어떻게 적용할 것인지를 소개하는 글입니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-2-be7888f2857e)
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
 * [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
+* [폴리글랏(polyglot) 마이크로서비스 환경에서 Node.js 시스템 안정적으로 운영하기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=apw4R9EiR6s)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
