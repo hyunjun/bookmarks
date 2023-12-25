@@ -1238,6 +1238,7 @@ Programming Books
   * [BigData Code 황세규.zip - Google Drive](https://drive.google.com/file/d/1QL8cdASpzIGJp8hjxadUUs9cRkmuki1C/view)
 * (NOT YET) [데이터 메시](https://www.hanbit.co.kr/store/books/look.php?p_code=B3517292048)
   * [다프는 왜 기존 아키텍처에서 데이터 메시로 전환하였을까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS7014530178)
+  * [중앙 집중식 데이터 관리의 문제, 해결을 위한.. : 네이버블로그](https://blog.naver.com/drvoss/223302853721)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
