@@ -837,6 +837,7 @@ Javascript
   * ["자바스크립트는 자리에서 물러날 때입니다" JSON 창시자 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1981/)
 * [마우스 따라 돌아가는 눈알 만들기 | MIRIYA](https://miriya.vercel.app/blog/NtV5JgzYpdxs4DQtr0eh)
 * [Headless 브라우저를 이용한 스냅샷 촬영 구현 | Univdev](https://univdev.page/posts/headless-browser-snapshot/)
+* [게임 자바스크립트로 지뢰찾기 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223300328033)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1295,6 +1296,8 @@ Javascript
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
 * [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
 * [WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread - YouTube](https://www.youtube.com/watch?v=0dC11DMR3fU) interaction이 발생할 때 파일을 나눠서 다운로드하도록 해서 효율 향상
+* WOOWACON2023
+  * [**모두의 웹뷰 #우아콘2023 #우아한형제들 - YouTube**](https://www.youtube.com/watch?v=LbU5E1pWfks)
 
 # CORS
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
@@ -5749,6 +5752,8 @@ Javascript
 * [ts-mockito: Mocking library for TypeScript](https://github.com/NagRock/ts-mockito)
   * [(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기](https://jojoldu.tistory.com/638)
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
+* [Vitest | Next Generation testing framework](https://vitest.dev/)
+  * [javascript 테스트 프레임워크 vi.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223301377725)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO](https://webdriver.io/)
 
