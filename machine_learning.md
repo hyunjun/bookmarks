@@ -1694,6 +1694,7 @@ Machine Learning
       * 기존 pandas는 coloums 또는 cols로 열을 표현한다면 이 라이브러리에서는 variables라는 명칭 사용
       * Feature Creation에서 combination할때 커스텀 함수 기능 부재. 현재는 사칙연산 정도만 제공
       * time-series data / text data  feature engineering이 추가된다면 확실히 범용적인 툴이 될 수 있을 것 같다는 기대
+  * [Random Forest Ensemble Method with Sklearn in Python](https://www.datasimple.education/ml-sklearn-model-tips/random-forest-ensemble-method-with-sklearn-in-python/)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [smalltrain](https://github.com/geek-guild/smalltrain)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
