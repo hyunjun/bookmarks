@@ -724,6 +724,7 @@ SQL
 * [MySQL binlog파서와 memcached plugin의 콜라보레이션! | gywndi's database](https://gywn.net/2020/08/mysql-binlog-memcached-plugin-collaboration/)
 * [Streaming MySQL Binlogs to S3 (or Any Object Storage) - Percona Database Performance Blog](https://www.percona.com/blog/streaming-mysql-binlogs-to-s3-or-any-object-storage/)
 * [MySQL binlog 사이즈(기한) 제한 | 웹으로 말하기](https://mytory.net/archives/14570)
+* [mysql binlog를 알아보자 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223302518766)
 * [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 * [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
 * [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
