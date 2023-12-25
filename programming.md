@@ -6553,6 +6553,7 @@ Programming
   * 22:48(UTC) Flexential이 회로 차단기를 모두 교체하고 전력을 복구했음을 확인했지만 하루종일 비상상태로 일한 Cloudflare 팀은 바로 이동하기 보다는 휴식 후 아침에 데이터센터로 가기로 결정. 약간 복구가 늦어지지만 추가적인 실수를 줄였다고 생각
   * 11월 3일 새벽부터 PDX-DC04에서 작업을 시작하고 서버를 재구축하는데 3시간 소요
   * 11월 4일 04시 25분(UTC) 완전히 복구
+* [결제는 계속된다: 결제 담당자가 장애에 대응하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15236/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
