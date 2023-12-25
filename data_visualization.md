@@ -236,6 +236,7 @@ Data Visualization
 * [Next, d3로 서버 사이드 지도 렌더링하기](https://zuminternet.github.io/real-estate-data-visualization/)
 * [d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기 | by Jung Han | Apr, 2021 | Medium](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
 * [CodeFlower Source code visualization](http://www.redotheweb.com/CodeFlower/)
+* [Vue.js와 D3.js를 사용하여 대시보드 만들기 Part1](https://ebay-korea.tistory.com/98)
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
