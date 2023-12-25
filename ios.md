@@ -165,6 +165,7 @@ iOS
 * [자동 문자 결합 방지하기 :: iOYES](https://green1229.tistory.com/426)
 * [SwiftUI - MagnifyGesture (Pinch Gesture) :: iOYES](https://green1229.tistory.com/427)
 * [SwiftUI로 커스텀 Context Menu 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-context-menu/)
+* [SwiftUI - trim & mask :: iOYES](https://green1229.tistory.com/432)
 * [iOS에서 OpenAI API 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-openai-gpt-api/)
 
 # Conference
