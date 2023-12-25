@@ -391,6 +391,7 @@ Scala
 * [Principles of developing applications in Scala](https://softwaremill.com/principles-of-developing-applications-in-scala/)
 * [Compare Task Processing Approaches in Scala | Bin Wang - My Personal Blog](https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html)
 * [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://blog.indoorvivants.com/2023-11-24-scala-native-from-swift)
+* [Designing a (yet another) retry API](https://softwaremill.com/designing-a-yet-another-retry-api/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -904,6 +905,7 @@ Scala
   * [Implicit Parameters, When to Use Them (Or Not)! by Julien Truffaut - YouTube](https://www.youtube.com/watch?app=desktop&v=fwu3lLpgZsg)
   * [Implicit parameters when to use them? Part 1 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-1/)
   * [Implicit parameters when to use them? Part 2 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-2/)
+  * [The compilation cost of implicits | Typo](https://oyvindberg.github.io/typo/blog/the-cost-of-implicits/)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1433,6 +1435,7 @@ Scala
 * [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
 * [Performance tips for IntelliJ Scala Plugin | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/02/09/performance-tips-for-intellij-scala-plugin/)
 * [IntelliJ Scala 플러그인의 성능 팁 | The Scala Plugin Blog](https://blog.jetbrains.com/ko/scala/2023/04/18/performance-tips-for-intellij-scala-plugin/)
+* [The X-Ray Mode | The IntelliJ Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/12/21/the-x-ray-mode/)
 
 ## IDE VS Code
 * [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
@@ -2285,6 +2288,7 @@ Scala
 * [Mastering SBT: Tips and Tricks for Using Not-So-Common Features](https://yadukrishnan.live/unlocking-the-power-of-sbt-a-beginners-guide-to-understanding-not-so-common-features)
 * [SBT WILL NEVER BE THE SAME AGAIN!!! - YouTube](https://www.youtube.com/watch?v=kyQQZxPfTlc)
 * [Krzysztof Romanowski - Complex Problems, Simple (build)tool | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=6JXCL2HVbUc)
+* [sbt 2.x remote cache · eed3si9n](https://eed3si9n.com/sbt-remote-cache/)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
