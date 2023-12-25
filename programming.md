@@ -4478,6 +4478,7 @@ Programming
 * [Spoqa 기술 블로그 | 청구/수납 서비스 개발기](https://spoqa.github.io/2023/02/24/bill-payment-development-story.html)
 * [Building a Scalable Low Latency Messaging Platform for Equities Trading Business • Alexandra Tessari - YouTube](https://www.youtube.com/watch?v=eJYBnPCEnCA)
 * [IBM MQ -> RabbitMQ -> Kafka ->Pulsar, How do message queue architectures evolve?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7114998863723130880-dV4x/)
+* [대규모 트랜잭션을 처리하는 배민 주문시스템 규모에 따른 진화 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=704qQs6KoUk)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
