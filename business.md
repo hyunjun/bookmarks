@@ -425,6 +425,7 @@ Business
 * [현직자들이 말하는 (뻔하지 않은)일잘러 특징](https://now.rememberapp.co.kr/2021/09/17/14468/) 리더십 이야기는 아님
 * [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
 * [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
+* [한빛N MSA 후기 일을 잘하는 방법](https://yeonyeon.tistory.com/321) 목표를 정하는 방법, 문서화의 목적, 우선순위를 조율하는 법, 설득에 대한 태도 바로잡기
 * [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
 * [일잘 + 일못 = 일못, 프로세스의 필요성](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid024abcvMsdRBnz7U8CwZmXDVvTQsicZMsZXSF3p1KUCc9vUabQFP1HcvWUMQ6UTEcHl)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
