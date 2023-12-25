@@ -1200,6 +1200,7 @@ Linux
 * [eBPF Summit Recap | GeekNews](https://news.hada.io/topic?id=3117)
 * [eBPF 재단 출범 | GeekNews](https://news.hada.io/topic?id=4816)
 * [eBPF: Unlocking the Kernel 공식 다큐멘터리, 30분 | GeekNews](https://news.hada.io/topic?id=11850)
+* [From Monitoring to Observability: eBPF Chaos - YouTube](https://www.youtube.com/watch?v=j81OlsF6-uo)
 * [ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/microsoft/ebpf-for-windows)
   * [eBPF on Windows | GeekNews](https://news.hada.io/topic?id=4240)
 * [ebpfsnitch: Linux Application Level Firewall based on eBPF and NFQUEUE.](https://github.com/harporoeder/ebpfsnitch)
