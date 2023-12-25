@@ -752,6 +752,7 @@ Java
 * [10분 테코톡 오리의 Intellij Debugging - YouTube](https://www.youtube.com/watch?v=JSVvhwwOvAY)
 * [JetBrains IDE AI Assistant EAP 후기 (2023.07.12)](https://jojoldu.tistory.com/726)
 * [IntelliJ & Maven 외부 라이브러리 참조 문제 (Cannot find declaration to go to)](https://velog.io/@joosing/intellij-maven-cannot-find-declaration-to-go-to)
+* [IntelliJ cannot resolve symbol 에러 해결 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-cannot-resolve-symbol/)
 * [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
@@ -1004,6 +1005,7 @@ Java
 * [**Java의 미래, Virtual Thread | 우아한형제들 기술블로그**](https://techblog.woowahan.com/15398)
   * Virtual Thread(Project Loom)이 JDK 19부터 얼리 엑세스로 포함되고 JDK21에서 정식 기능이 되면서 스터디한 결과 공유
   * 스레드를 사용할 때 더 많은 요청을 처리하면서 컨텍스트 스위칭 비용을 줄이기 위해 훨씬 가벼운 Virtual Thread의 구조와 동작 원리를 보여주고 Thread, Kotlin Coroutine, Reative와 비교해서 성능이 얼마나 차이 나는지도 보여줌
+* [JDK 21의 신기능 Virtual Thread 알아보기 / 제4회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/12/22/techmeet-virtualthread/)
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
@@ -1143,8 +1145,6 @@ Java
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
-* [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
-  * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * [JVM Architecture란? :: 당근케잌](https://yeon-kr.tistory.com/112)
 * [JVM Architecture & Class Loaders Java | Making Java Easy To Learn](https://javatechonline.com/jvm-architecture-class-loaders-java)
 * [Java Memory Model(자바 메모리 모델) :: 당근케잌](https://yeon-kr.tistory.com/114)
@@ -2122,6 +2122,7 @@ Java
 * [우아콘2020 수십억건에서 QUERYDSL 사용하기 - YouTube](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
 * [QueryDSL을 효과적으로 실무에 적용하기 위한 고민 - Dico](https://dico.me/java/articles/290/ko)
 * [Spring QueryDSL로 조건검색 API를 만들어보자(동적 쿼리)](https://velog.io/@couchcoding/Spring-QueryDSL%EB%A1%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%83%89-API%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90%EB%8F%99%EC%A0%81-%EC%BF%BC%EB%A6%AC)
+* [Spring Boot3 Kotlin JPA & Querydsl 적용하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/springboot3-jpa-querydsl/)
 * [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
 * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
 * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
@@ -2263,6 +2264,9 @@ Java
 * [어랏!! 여기에서 OOM이 발생할 줄이야…. OOM 에러 케이스와 함께 Mybatis의 캐시 정책과 GC의 동작방식… | by HAEUN JEONG | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%96%B4%EB%9E%8F-%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C-oom-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%A4%84%EC%9D%B4%EC%95%BC-503ddf286fd)
 * [How to Fix java.lang.OutOfMemoryError: GC overhead limit exceeded Error in JVM Solution](https://javarevisited.blogspot.com/2015/06/javalangoutofmemoryerror-gc-overhead-limit-exceeded-error-jvm.html)
 * [Heap 메모리 누수 이슈: 문제의 원인을 찾는 연역적 과정](https://velog.io/@joosing/heap-memory-leak-issue-the-deductive-process-of-finding-the-cause)
+* [긴 텍스트 조회로 인한 OOM 문제 추적기](https://kyucumber.tistory.com/14)
+* [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
+  * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
