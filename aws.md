@@ -761,6 +761,7 @@ AWS
 * [Using CloudFront KeyValueStore - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/kvs-with-functions.html)
   * [Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
 * [Amazon CloudFront 기반의 OTT 스트리밍에서의 QoS 가시성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/qos-observability-for-ott-streaming-using-amazon-cloudfront/)
+* [트러블슈팅기 CSR에서 동적 OG 메타태그 적용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15469/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
