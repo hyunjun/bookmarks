@@ -459,6 +459,8 @@ App
   * [워드프레스 구텐베르크 플러그인 폰트 업로드 에러 해결 – Error installing the fonts – 형우의 웹개발](https://mytory.net/archives/15495)
   * [워드프레스 Uncaught TypeError: Failed to resolve module specifier “@wordpress/interactivity”. Relative references must start with either “/”, “./”, or “../”. 에러 해결하기 – 형우의 웹개발](https://mytory.net/archives/15766)
   * [워드프레스 이미지 확대 에러 – Uncaught TypeError: el is undefined / Uncaught TypeError: items startIndex is undefined / Uncaught TypeError: swiper is undefined – 형우의 웹개발](https://mytory.net/archives/15772)
+  * [워드프레스를 PHP 프레임워크로 활용한다는 것의 의미 – 형우의 웹개발](https://mytory.net/archives/15800)
+  * [워드프레스 백업과 복원은 웹 파일과 DB를 한 쌍으로 맺어야 한다 - 넷마블 기술 블로그](https://netmarble.engineering/wordpress-backup-and-restore/)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
