@@ -523,6 +523,7 @@ Functional Programming
 * [Functional Programming is Based](https://www.inner-product.com/posts/fp-is-based/)
 * [Understanding FP: Overcoming Intuition and Ease Hurdles - YouTube](https://www.youtube.com/watch?v=VTedRObg5WM)
 * [Unveiling much Simplified Functional Programming in Scala • Afsal Thaj • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=t5tMQ0Kcq1Q)
+* [Introduction to Functional Programming (video course) | alvinalexander.com](https://alvinalexander.com/video-course/intro-fp/introduction/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
