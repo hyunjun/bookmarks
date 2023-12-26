@@ -543,6 +543,7 @@ AWS
 * [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
 * [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
+* [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1986,6 +1987,7 @@ AWS
 * [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
 * [카카오스타일의 Amazon SageMaker 분산 훈련을 활용한 카테고리 자동 분류 시스템 모델 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-distributed-training-for-automated-category-classification/)
 * [Amazon SageMaker, Amazon OpenSearch Service, Streamlit, LangChain을 사용하여 강력한 질문/답변 봇 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/)
+* [Providing a caching layer for LLM with Langchain in AWS](https://heuristicwave.github.io/LLMCache)
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
@@ -2084,6 +2086,7 @@ AWS
 * [Introducing Amazon Q, a new generative AI-powered assistant (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 * [New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
 * [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
+* [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
