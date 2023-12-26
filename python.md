@@ -2502,6 +2502,7 @@ Python
 * [Django Transaction(트랜잭션) 1편 - Request와 DB Transaction 묶기(Feat. ATOMIC_REQUESTS)](https://myjorney.tistory.com/142)
 * [Django DB Transaction 2편 - 명시적으로 transaction 활용하기. (feat. savepoint)](https://myjorney.tistory.com/146)
 * [Django DB Transaction 3편 - DB Transaction Test 코드 작성하기](https://blog.doosikbae.com/152)
+* [장고는 DB connection을 어떻게 관리할까?](https://blog.doosikbae.com/entry/Django-DB-Connection%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94%EA%B0%80)
 * [Transaction 사용하기: #1 Django와 Mysql의 transaction](https://velog.io/@yomapi/Transaction-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-Django%EC%99%80-Mysql%EC%9D%98-transaction)
 * [Transaction 사용하기: #2 Django에서 transaction 적용하기](https://velog.io/@yomapi/Transaction-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-Django%EC%97%90%EC%84%9C-transaction-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Transaction 사용하기: #3 Django에서 transaction 과 동시성 처리](https://velog.io/@yomapi/Transaction-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-3-Django%EC%97%90%EC%84%9C-transaction-%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1)
