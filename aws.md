@@ -608,6 +608,7 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 1부: 안정성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-1/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 2부: 연결성 및 조합 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-2/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 3부: 마이그레이션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-3/)
+* [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -835,6 +836,7 @@ AWS
     * 법칙 5: 비용 인식 아키텍처를 통한 비용 관리 구현
     * 법칙 6: 비용 최적화는 점진적으로 이뤄진다
     * 법칙 7: 도전하지 않는 성공은 가정으로 이어진다
+    * [The Frugal Architecture – 알뜰한 아키텍처를 위한 7가지 원칙 :: Channy's Blog](https://channy.creation.net/blog/1828)
   * [AWS re:Invent 2023 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2023/)
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
