@@ -1391,6 +1391,7 @@ Clojure
 * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
 * [rcf: turn your Rich Comment Forms into tests](https://github.com/hyperfiddle/rcf)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [test-ns-hook](https://github.com/philoskim/test-ns-hook)
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
