@@ -1433,6 +1433,7 @@ Web
   * [PyCon KR 2023 Django와 FastAPI를 사용해서 채팅 백엔드 서비스 만들어보기 김지훈 - YouTube](https://www.youtube.com/watch?v=lPS94lYwT2c)
   * [PyCon KR 2023 FastAPI Deep dive 정보람 - YouTube](https://www.youtube.com/watch?v=9Qe84CQ1XVo)
   * [Build an AI app with FastAPI and Docker - Coding Tutorial with Tips - YouTube](https://www.youtube.com/watch?v=iqrS7Q174Ac)
+  * [Mastering API Testing with FastAPI: Databases, Dependencies, and More! - YouTube](https://www.youtube.com/watch?v=9gC3Ot0LoUQ)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
