@@ -144,6 +144,7 @@ Elixir
 * [Setting up Neovim for Elixir Development - YouTube](https://www.youtube.com/watch?app=desktop&v=tOiSHHsN29Q)
 * [Elixir process management Series' Articles - DEV Community](https://dev.to/cherryramatis/series/25047)
 * [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
+* [IEx is awesome!](https://inspired.consulting/elixir/iex-is-awesome)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -215,6 +216,7 @@ Elixir
 * [ElixirScript - The goal is to convert a subset (or full set) of Elixir code to JavaScript, providing the ability to write JavaScript in Elixir](https://github.com/bryanjos/elixirscript)
 * [Elxlisp - Lisp 1.5 M-expression. Also S-expression is available with invoke option](https://github.com/sasagawa888/Elxlisp)
 * [Elixir Streams](https://www.elixirstreams.com/)
+* [eventrelay: An event streaming/storage system for the rest of us](https://github.com/eventrelay/eventrelay)
 * [GenStage - elixir로 비트코인 시세 스크랩 (feat. 업비트) 1/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-1-of-3/)
   * [JWT - elixir로 비트코인 시세 스크랩 (feat. 업비트) 2/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-2-of-3/)
   * [prometheus, grafana - elixir로 비트코인 시세 스크랩 (feat. 업비트) 3/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-3-of-3/)
