@@ -372,6 +372,7 @@ NLP
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
 * [AI 경량화: 더 빠르고 저렴한 AI 서비스](https://d2.naver.com/helloworld/4608596) LaRva
 * [중요한 것은 사용자의 의도를 꺾지 않으려는 마음 (동시편집에서 Text.Style Operation 개선 및 Multi User Undo/Redo 구현하기)](https://d2.naver.com/helloworld/6014816) peritext
+* [What's the Best Framework for Your #GenAI Project?](https://www.linkedin.com/posts/pavan-belagatti_genai-activity-7144549890780454912-v8DJ)
 
 # 띄어쓰기
 
@@ -956,6 +957,8 @@ NLP
   * [인공지능 내 노트북에서 ChatGPT 같은 오픈소스 인공지능 챗봇(ChatBot) 구축하기(GPT4All)](https://sansamlife.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%82%B4-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90%EC%84%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B1%97%EB%B4%87ChatBot)
   * [Run LLMs on Any GPU: GPT4All Universal GPU Support](https://blog.nomic.ai/posts/gpt4all-gpu-inference-with-vulkan)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
+* [gpt-crawler: Crawl a site to generate knowledge files to create your own custom GPT from a URL](https://github.com/BuilderIO/gpt-crawler)
+  * [Rod Rivera on LinkedIn: gpt-crawler - AI library of the day: gpt-crawler by Builder.io crawls… | 22 comments](https://www.linkedin.com/posts/rorcde_gpt-crawler-ai-library-of-the-day-gpt-crawler-activity-7144510534409752576-ygKa)
 * [h2ogpt: Come join the movement to make the world's best open source GPT led by H2O.ai](https://github.com/h2oai/h2ogpt)
   * [100% Offline ChatGPT Alternative? - YouTube](https://www.youtube.com/watch?v=Coj72EzmX20)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
@@ -1502,6 +1505,7 @@ NLP
 * [aviary: Ray Aviary - evaluate multiple LLMs easily](https://github.com/ray-project/aviary)
 * [awesome-korean-llm: Awesome list of Korean Large Language Models](https://github.com/NomaDamas/awesome-korean-llm)
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
+* [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
