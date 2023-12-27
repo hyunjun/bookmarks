@@ -2457,6 +2457,8 @@ Programming
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
 * [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 * [폴리글랏(polyglot) 마이크로서비스 환경에서 Node.js 시스템 안정적으로 운영하기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=apw4R9EiR6s)
+* [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
+  * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -6284,6 +6286,7 @@ Programming
 * [Something's been bothering me about TDD](https://www.linkedin.com/posts/olaf-thielke_systemdesign-softwareengineering-softwarearchitecture-activity-7137285276925628416-fYOH/)
   * TDD만으로 좋은 시스템 설계를 할 수 있다고 생각하지 않는다는 글에 TDD를 만든 Kent Beck이 직접 "TDD는 디자인 필요성을 대체하지 않는다"고 설명
   * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
+* [지속 가능한 인수 테스트 주도 개발 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=birVFRb2d-E) ATDD
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
