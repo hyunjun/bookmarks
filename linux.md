@@ -1388,6 +1388,7 @@ Linux
 
 # Log
 * [11. 로그관리, systemd-journald, rsyslogd, journalctl, syslog, journal :: 0부터 시작하는 해킹공부](https://haker.tistory.com/52)
+* [중앙집중식 syslog 설정 및 관제](https://saramin.github.io/2023-12-27-syslog/)
 * logrotate [Rotate and archive logs with the Linux logrotate command | Opensource.com](https://opensource.com/article/21/10/linux-logrotate)
   * [logrotate, copytruncate의 함정](https://brunch.co.kr/@alden/27#:~:text=logrotate%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D,%EC%9D%84%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4)
   * [How to Setup and Manage Log Rotation Using Logrotate in Linux](https://www.tecmint.com/install-logrotate-to-manage-log-rotation-in-linux/)
