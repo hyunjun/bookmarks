@@ -2551,6 +2551,7 @@ Python
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
+* [django-ddd: Apply Domain-driven Design to Django without Django Rest Framework](https://github.com/qu3vipon/django-ddd)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * [django-dynamodb-cache: Fast, safe, cost-effective DynamoDB cache backend for Django](https://github.com/xncbf/django-dynamodb-cache)
 * [django-gunicorn-nginx-docker: django gunicorn docker example](https://github.com/leopard627/django-gunicorn-nginx-docker)
