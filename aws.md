@@ -405,6 +405,7 @@ AWS
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [AWS Systems manager와 Amazon Inspector로 Amazon EC2 자산 관리 자동화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-systems-manager-amazon-inspector-amazon-ec2-automation/)
 * [Amazon Inspector agentless vulnerability assessments for Amazon EC2 now in preview](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/)
+* [Amazon Inspector 신규 기능 – 워크로드에 대한 취약성 검색 영역 확대 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/three-new-capabilities-for-amazon-inspector-broaden-the-realm-of-vulnerability-scanning-for-workloads/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
