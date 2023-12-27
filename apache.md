@@ -375,6 +375,7 @@ Apache
 * [클라우드의 데이터 지배자 '아파치 아이스버그' - ITWorld Korea](https://www.itworld.co.kr/news/251836)
 * [Fokko Driesprong - PyIceberg: Tipping your toes into the petabyte data-lake | PyData Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=1A7fFB8QTPY)
 * [Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://www.youtube.com/watch?v=x6WX_JE96bU)
+* [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg) | 김두진, 김용주 - YouTube](https://www.youtube.com/watch?v=xUpi8pXyiyk)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
