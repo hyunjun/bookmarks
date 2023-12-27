@@ -1124,6 +1124,7 @@ Programming
 * [API 메시업과 Fault Tolerance 문제 해결 전략](https://dev.gmarket.com/86)
 * [API Evolution without Versioning - YouTube](https://www.youtube.com/watch?v=dIr-16CzC4M)
 * [How to improve API performance?](https://www.linkedin.com/feed/update/urn:li:activity:7090649861280157696/)
+* [Top 5 common ways to improve API performance](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7144366633526988800-4cGQ/)
 * [오늘도 여러분의 API 는 안녕하신가요? - 인프콘2023 · Present](https://present.do/documents/64dd4b8f10ab9a5ae56909f4)
 * [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
@@ -2148,6 +2149,7 @@ Programming
 * [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server)
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
+* [Understanding the API Gateway](https://www.linkedin.com/posts/sahnlam_understanding-the-api-gateway-an-api-gateway-ugcPost-7145281251187339265-og7g/)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
