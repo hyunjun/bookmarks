@@ -1979,6 +1979,7 @@ Programming
 * [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
 * [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
 * [Event Driven hotel reservations with Kafka | by Thắng Đỗ | Altitude | Oct, 2021 | Medium](https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe)
+* [Kafka를 활용한 이벤트 기반 아키텍처 구축 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=DY3sUeGu74M)
 * [이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
 * [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
 * [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
@@ -5676,6 +5677,7 @@ Programming
 * [해외 헤드헌터한테 꾸준히 연락 오는 분야, 코딩 안하는 개발자 | 마이크로소프트 + Low Code No Code + 3년차 개발자 + 자격증 - YouTube](https://www.youtube.com/watch?v=9NmuAG-attQ)
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
 * [Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)
+* [노 코드 웹앱 빌더 만다오, 3년의 여정 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=mRuyt-Tc0TQ)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
@@ -6168,18 +6170,6 @@ Programming
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
-* [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
-* [Jeremy's Blog | Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
-  * 오랫동안 머지하지 않는 브랜치의 고통을 피하고자 피처 플래그를 이용해서 새로운 기능에 대한 피처 플래그에 대해 전반적인 내용을 설명
-  * 이 피처 플래그도 릴리스, 실험, 운영, 권한 등 목적에 따라 구분하고 피처 플래그를 사용할 때 주의할 점 등을 설명
-* [뭐 이런 것도 다 픽업 됩니다!(배민스토어 픽업 플랫폼 및 셀러서비스편) | 우아한형제들 기술블로그](https://techblog.woowahan.com/10593/) feature flag 활용 이야기
-* [실험과 기능플래그를 위한 실험플랫폼 구축하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9935/) feature toggle
-* [Jeremy's Blog | Feature Toggle 150% 활용하기](https://sungjk.github.io/2023/03/04/feature-toggle.html)
-  * 배포할 때 코드는 포함하더라고 기능의 공개 여부는 동적으로 관리하는 Martin Fowler의 Feature Toggles 글을 공부하고 이를 실제 업무에 적용해 가면서 개선한 내용
-  * 피처 토글의 설계 원칙에 따라 토글 포인트, 토글 라우터, 토글 설정을 구현하는 Java 코드를 보여주고 이를 권한 토글과 카나리 토글에 활용하는 방법을 설명
-* [매일 배포하는 팀이 되는 여정(2) — Feature Toggle 활용하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-2-feature-toggle-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-b52c4a1810cd)
-* [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
-* [Patterns & Anti-Patterns for Effective Feature Flagging • Edith Harbaugh • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DAV9BFwsqB8)
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
@@ -6346,6 +6336,19 @@ Programming
 * [실험 0건인 조직에서, 가장 실험을 활발하게 하는 조직 되기 (B마트의 실험문화 빌드업 과정) | 우아한형제들 기술블로그](https://techblog.woowahan.com/13726/)
 * [오프라인과 온라인 A/B 테스트를 통해 오픈챗 추천 모델 개선하기](https://techblog.lycorp.co.jp/ko/improve-openchat-recommendation-model-with-offline-and-online-ab-test) Adhoc A/B test
 * [Why we use lenient p-value thresholds like 0.4 for A/B experiments at Agoda— Part 1 | by Agoda Engineering | Agoda Engineering & Design | Dec, 2023 | Medium](https://medium.com/agoda-engineering/why-we-use-lenient-p-value-thresholds-like-0-4-for-a-b-experiments-at-agoda-part-1-e93c7c56e666)
+* [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
+* [Jeremy's Blog | Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
+  * 오랫동안 머지하지 않는 브랜치의 고통을 피하고자 피처 플래그를 이용해서 새로운 기능에 대한 피처 플래그에 대해 전반적인 내용을 설명
+  * 이 피처 플래그도 릴리스, 실험, 운영, 권한 등 목적에 따라 구분하고 피처 플래그를 사용할 때 주의할 점 등을 설명
+* [뭐 이런 것도 다 픽업 됩니다!(배민스토어 픽업 플랫폼 및 셀러서비스편) | 우아한형제들 기술블로그](https://techblog.woowahan.com/10593/) feature flag 활용 이야기
+* [실험과 기능플래그를 위한 실험플랫폼 구축하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9935/) feature toggle
+* [Jeremy's Blog | Feature Toggle 150% 활용하기](https://sungjk.github.io/2023/03/04/feature-toggle.html)
+  * 배포할 때 코드는 포함하더라고 기능의 공개 여부는 동적으로 관리하는 Martin Fowler의 Feature Toggles 글을 공부하고 이를 실제 업무에 적용해 가면서 개선한 내용
+  * 피처 토글의 설계 원칙에 따라 토글 포인트, 토글 라우터, 토글 설정을 구현하는 Java 코드를 보여주고 이를 권한 토글과 카나리 토글에 활용하는 방법을 설명
+* [매일 배포하는 팀이 되는 여정(2) — Feature Toggle 활용하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-2-feature-toggle-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-b52c4a1810cd)
+* [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
+* [Patterns & Anti-Patterns for Effective Feature Flagging • Edith Harbaugh • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DAV9BFwsqB8)
+* [Feature Flag, 안전하고 신뢰 가능한 배포로 나아가는 열쇠 🔑 | 전지원 - YouTube](https://www.youtube.com/watch?v=8EZZQZJTKEk)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
@@ -6356,6 +6359,8 @@ Programming
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
 * [KPI_ABTest.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/KPI_ABTest.md)
   * [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST - YouTube](https://www.youtube.com/watch?v=5Qw05CvbH1g)
+* [OpenFeature](https://openfeature.dev/) feature flag
+  * [flagd](https://flagd.dev/)
 * [Wasabi A/B Testing service is an open source project that is no longer under active development or being supported](https://github.com/intuit/wasabi)
 
 ## TDD, Test, A/B test alternatives
