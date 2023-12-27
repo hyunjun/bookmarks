@@ -1486,6 +1486,7 @@ NLP
 * [흙수저용 무료 GPT - YouTube](https://www.youtube.com/watch?v=_tUDZdlehAk)
 * [Max Pumperla - Building & Deploying LLM Apps - YouTube](https://www.youtube.com/watch?v=Gj2_knxjVOk)
 * [Jeroen Overschie - Dataset enrichment using LLM's ✨ - YouTube](https://www.youtube.com/watch?v=hJeMtABYkEQ)
+* [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
