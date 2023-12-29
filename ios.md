@@ -168,6 +168,7 @@ iOS
 * [SwiftUI - trim & mask :: iOYES](https://green1229.tistory.com/432)
 * [iOS에서 OpenAI API 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-openai-gpt-api/)
 * [STT를 이용해 음성을 텍스트로 변환해보자 🗣️ :: iOYES](https://green1229.tistory.com/433)
+* [Get started with privacy manifests (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/434)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
