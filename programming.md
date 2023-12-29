@@ -1463,6 +1463,7 @@ Programming
   * [Caching things every Programmer must know | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/caching-things-every-programmer-must-know-28d4a7e8b9b1)
   * [Dogpile effect, ft. Caching. Have you ever wondered what happens… | by Sooraj | Apr, 2023 | Medium](https://medium.com/@iSooraj/dogpile-effect-ft-caching-c2b9c4496691)
   * [스프링캠프 2019 Track 2 Session 5 : 멀티리전 가용성을 위한 글로벌 캐싱 - Hidden micro services (정윤진, 김필중) - YouTube](https://www.youtube.com/watch?v=lg_qK3zZE4g)
+  * [Caching 101: The Must-Know Caching Strategies](https://www.linkedin.com/feed/update/urn:li:activity:7146017623292395521/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
