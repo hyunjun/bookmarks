@@ -3325,6 +3325,7 @@ Javascript
 * [Node.js is a serious thing now… (2023) - YouTube](https://www.youtube.com/watch?v=_Im4_3Z1NxQ)
 * [Generating Optimized Image Formats with Node.js - DEV Community](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 * [nodejs 결제 붙이기 스트라이프(stripe) 결제](https://han-py.tistory.com/498)
+* [Event Emitter basics in Node.js | Tech Tonic](https://medium.com/deno-the-complete-reference/event-emitter-basics-in-node-js-0a047c56ed00)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
