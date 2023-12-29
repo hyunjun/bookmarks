@@ -1317,6 +1317,7 @@ Business
     * 어떤 일을 하기 위해서 혼자 희생하는 영웅적인 일을 하기도 했지만, 이는 오히려 팀에 안 좋음
     * VPE가 되면서 여유가 필요할 것으로 예상했지만 실제로 해보니 예상보다 훨씬 더 여유 시간을 확보하는 것이 도움이 된다는 것을 알게 됨
 * [Technical Leadership Matters • Dave Thomas • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=MSkRUcSPr1o)
+* [2023년 CTO 회고](https://jojoldu.tistory.com/766)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
