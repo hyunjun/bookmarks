@@ -2388,6 +2388,7 @@ Docker
   * [서버포럼 - 리눅스데스크탑을 웹으로? Webtop 소개](https://svrforum.com/svr/349515)
 * [dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager](https://github.com/louislam/dockge)
   * [Dockge: A New Way To Manage Your Docker Containers - YouTube](https://www.youtube.com/watch?v=E805XcbTzgY)
+  * [Simplify Docker Compose Management with Dockge! - YouTube](https://www.youtube.com/watch?v=ephiayS50jM)
 * [dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start](https://github.com/goodwithtech/dockle)
 * [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku ](https://github.com/dokku/dokku)
   * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
