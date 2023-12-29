@@ -6052,6 +6052,7 @@ Programming
 * [한빛N 개발 생산성 향상을 위한 체크리스트 12가지 - 기술과 환경의 변화 - YouTube](https://www.youtube.com/watch?v=kk7ujbXFaPg) joel test의 cloud version
 * [멀고도 험난했던 개발 지원이 중단된 Library 연동 과정 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/how-to-work-with-legacy-library/)
 * [Adventures in Performance: Efficiency Analysis of Large-Scale Compute - YouTube](https://www.youtube.com/watch?v=oUh2NPxE16E)
+* [표준 개발 환경 개선 되돌아보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15572/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
