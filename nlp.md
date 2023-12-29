@@ -1776,6 +1776,7 @@ NLP
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
 * [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
+* [Sakura-SOLAR-DPO: Sakura-SOLAR-DPO: Merge, SFT, and DPO](https://github.com/KyujinHan/Sakura-SOLAR-DPO)
 * [sec-insights: A real world full-stack application using LlamaIndex](https://github.com/run-llama/sec-insights)
   * [Discover LlamaIndex: SEC Insights, End-to-End Guide - YouTube](https://www.youtube.com/watch?app=desktop&v=2O52Tfj79T4)
 * [semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
