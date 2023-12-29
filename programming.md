@@ -4228,7 +4228,6 @@ Programming
     * 하지만 단일 DevOps 모델은 조직이 커가면서 교육이 부족해지고 중앙 인프라팀이 버거워지는 시점이 오면서 번아웃
     * 이를 방지하기 위해서는 SRE 모델 도입 주장
 * [당근마켓 인프라실, 새로운 비전을 소개 합니다.. 최근에 당근마켓 인프라실은 새로운 비전을 만들었습니다. 기존과는 조금… | by 강진우 | 당근마켓 팀블로그 | Jul, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%8B%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B9%84%EC%A0%84%EC%9D%84-%EC%86%8C%EA%B0%9C-%ED%95%A9%EB%8B%88%EB%8B%A4-8f22e72d46d9)
-* [Shift left vs shift right: A DevOps mystery solved | Dynatrace news](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
 * [Top DevOps Trends To Watch In 2022 | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/top-devops-trends-to-watch-in-2022-bc832b4f4d17)
 * [WhaTip | 와탭랩스 DevOps 이야기 - YouTube](https://www.youtube.com/watch?v=9KELZN8fNqM)
 * [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#)
@@ -6157,9 +6156,11 @@ Programming
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
 * [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [쏘카 QA는 무슨 일을 하고 어떻게 일하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
+* [Shift left vs shift right: A DevOps mystery solved | Dynatrace news](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
 * [QA가 Shift-left와 Shift-right 접근 방법을 통해 더 나은 품질을 확보하는 방법](https://engineering.linecorp.com/ko/blog/quality-advocator-shift-left-shift-right/)
   * QA가 'Quality Assurance'에서 'Quality Assistance', 'Quality Advocator'로 변화하게 된 과정
   * 'Shift-left'와 'Shift-right' 접근 방법을 통해 어떻게 더 나은 품질을 확보할 수 있는지 공유
+* [Shift Left의 다양한 효과들](https://goddessbest-qa.tistory.com/266)
 * [가파르게 성장하는 서비스를 담당한, 한 품질담당자의 회고 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9220/)
 * [CPaaS QA가 하는 일 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/11/01/What-CPaaS-QA-does.html)
 * [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
