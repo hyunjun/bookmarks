@@ -2152,6 +2152,8 @@ App
   * [TreeSheets - 오픈소스 프리폼 데이터 오거나이저 | GeekNews](https://news.hada.io/topic?id=4501)
 
 # Password
+* 1password
+  * [**1Password의 Service Accounts로 시크릿 관리하기 :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1700)
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
   * [비밀번호 관리 프로그램 Bitwarden 소개 및 NAS 설치법 : 클리앙](https://www.clien.net/service/board/lecture/15177864)
