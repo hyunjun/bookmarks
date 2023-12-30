@@ -825,6 +825,7 @@ AWS
 * [AWS 앱 현대화 및 개발](https://kr-resources.awscloud.com/aws-modern-applications-kr)
 * [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
 * AWS Community Day
+  * [AWS Community Day 2023 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMrFZaU4i2y4RqylcuvfVLA)
   * [AWS Community Day 2022 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
