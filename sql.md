@@ -793,6 +793,7 @@ SQL
 * [Explain의 도움을 받아 Full Scan을 방지하자 #풀스캔 방지](https://developer88.tistory.com/326)
 * [MySQL EXPLAIN ANALYZE](https://hackmysql.com/post/book-2/)
 * [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
+* [mysql 복제(replication)서버 구성](https://blog.naver.com/pjt3591oo/223307257886)
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
 * [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
