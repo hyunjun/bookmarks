@@ -1490,6 +1490,7 @@ Business
 * [심리적 안정감을 위해 우리 회사에서 실천하고 있는 것들 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/psychologicalsafety20220629)
 * [VDBUH2023 - Magda Miu - The 3As of Psychological Safety - YouTube](https://www.youtube.com/watch?v=Rt2LubG24DA)
 * [“네가 뭘 안다고?” “그럼 네가 해봐” 이런 조직이 가망 없는 이유 (황성현 대표) - YouTube](https://www.youtube.com/watch?v=VUFA51C3aOQ) 심리적 안전감(안정감X)
+* [고성과 조직에는 반드시 '이것'이 확보되어 있습니다. | 황성현 (주)퀀텀인사이트 대표 | #도전 #성공 #조직문화 | 세바시 1770회 - YouTube](https://www.youtube.com/watch?v=oH-ILouACFE) 심리적 안전감
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
