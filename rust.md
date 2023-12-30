@@ -418,6 +418,7 @@
 * [From Python to Rust - YouTube](https://www.youtube.com/watch?v=4VV-FU5u8K8)
 * [Ondřej Vostál - Async Python modules in Rust PyData Prague 2022-12-13 - YouTube](https://www.youtube.com/watch?v=yKPMP8N3-yg)
 * [How we used Rust to modernize the conda ecosystem – Bas Zalmstra | PackagingCon 2023 - YouTube](https://www.youtube.com/watch?v=z5OyF-W5Q98)
+* [An Introduction to Coding In Rust for Pythonistas - YouTube](https://www.youtube.com/watch?v=MoqtsYLGCC4)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
