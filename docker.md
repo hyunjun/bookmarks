@@ -1918,6 +1918,7 @@ Docker
 * [K8sGPT](https://k8sgpt.ai/)
   * [k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
   * [ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1990/)
+  * [Unleashing the Power of AI in Kubernetes through K8sGPT | Alex Jones - YouTube](https://www.youtube.com/watch?v=aKVDMh2ha98)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
   * [Kubernetes 운영에 사용하던 Lens 대체제로 찾은 k9s :: Outsider's Dev Story](https://blog.outsider.ne.kr/1649)
@@ -1967,6 +1968,7 @@ Docker
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
   * [Knative Serverless to architect decomposed components by Maarten Vandeperre and Dieter De Moitie - YouTube](https://www.youtube.com/watch?v=ekkwMIMVA2Y)
+  * [Knative Serverless for AI/ML Applications | Ian Lawson - YouTube](https://www.youtube.com/watch?v=UWkPkT8R5wc)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kopf: A Python framework to write Kubernetes operators in just a few lines of code](https://github.com/nolar/kopf)
   * [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
@@ -2322,6 +2324,7 @@ Docker
     * Cilium 기반 네트워크와 보안을 확장하기 위해 Cilium Mesh 도입
     * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
   * [Saying Goodbye to Ingress: Embracing the Future of Kubernetes Traffic Management with Gateway API and Cilium | by Seifeddine Rajhi | ITNEXT](https://itnext.io/saying-goodbye-to-ingress-embracing-the-future-of-kubernetes-traffic-management-with-gateway-api-6584b7b8f913)
+  * [Effortless Mutual Authentication with Cilium | Liz Rice - YouTube](https://www.youtube.com/watch?v=0t_lhV0fvQ8)
 * [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
   * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
