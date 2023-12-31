@@ -2473,6 +2473,7 @@ Docker
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
   * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
   * [videos/portainer-tutorial at main · ChristianLempa/videos](https://github.com/christianlempa/videos/tree/main/portainer-tutorial)
+  * [Yacht vs Portainer - Docker Dashboard comparison! - YouTube](https://www.youtube.com/watch?v=bsB2dvpdBYg)
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
 * [qontainer: QEMU in Docker, but in Container Native way!](https://github.com/iwanhae/qontainer)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
