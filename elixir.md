@@ -145,6 +145,7 @@ Elixir
 * [Elixir process management Series' Articles - DEV Community](https://dev.to/cherryramatis/series/25047)
 * [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
 * [IEx is awesome!](https://inspired.consulting/elixir/iex-is-awesome)
+* [Elixir Processes: Linking and Monitoring - Samuel Mullen](https://samuelmullen.com/articles/elixir-processes-linking-and-monitoring)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
