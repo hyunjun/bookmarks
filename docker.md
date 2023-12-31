@@ -2228,6 +2228,7 @@ Docker
 * [30+ Free and Open Source Kubernetes Monitoring Tools](https://www.fossmint.com/kubernetes-monitoring-tools/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [쿠버네티스의 HPA/VPA 오토스케일링을 위한 모니터링 아키텍처](https://bcho.tistory.com/1389)
+* [Beautiful Dashboards with Grafana and Prometheus - Monitoring Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=fzny5uUaAeY)
 
 ## Kubernetes Networking
 * [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
