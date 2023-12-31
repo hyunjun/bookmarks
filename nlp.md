@@ -1487,6 +1487,8 @@ NLP
 * [Max Pumperla - Building & Deploying LLM Apps - YouTube](https://www.youtube.com/watch?v=Gj2_knxjVOk)
 * [Jeroen Overschie - Dataset enrichment using LLM's ✨ - YouTube](https://www.youtube.com/watch?v=hJeMtABYkEQ)
 * [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
+* [SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels. - YouTube](https://www.youtube.com/watch?v=VxFtHqlMv8c)
+* [Chevy Chatbot Misfire: A Case Study in LLM Guardrails and Best Practices | by Branden Mcintyre | Dec, 2023 | Medium](https://medium.com/@branden.mcintyre/chevy-chatbot-misfire-a-case-study-in-llm-guardrails-and-best-practices-7ae319088e94)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1733,6 +1735,9 @@ NLP
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
+  * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
+    * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
+    * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
 * [MosaicML | Home](https://www.mosaicml.com/)
@@ -1940,6 +1945,8 @@ NLP
   * [huggingface를 이용한 한국어 BART 학습 후기](https://cosmoquester.github.io/huggingface-bart-train/)
   * [transformers에 모델 기여하기 | LASSL](https://lassl.github.io/history/contribution-to-transformers.html)
   * [Accelerate Big Model Inference: How Does it Work? - YouTube](https://www.youtube.com/watch?v=MWCSGj9jEAo)
+  * [🤗 Hub client library](https://huggingface.co/docs/huggingface_hub/index)
+    * [Programmatically manage 🤗 Inference Endpoints](https://www.philschmid.de/inference-endpoints-iac)
   * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
     * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
     * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
