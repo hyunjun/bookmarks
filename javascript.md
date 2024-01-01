@@ -1187,6 +1187,7 @@ Javascript
   * [Fetch API로 구현하는 Ajax 비동기 통신](https://wonit.tistory.com/449)
   * [Ajax 여러분은 무엇을 사용하시나요? $.ajax, axios, fetch](https://blog.naver.com/pjt3591oo/222631334203)
   * [Reactjs Fetch Api Data from Json Server - Therichpost](https://therichpost.com/reactjs-fetch-api-data-from-json-server/)
+  * [서버 transfer-Encoding: chunked로 알아보는 fetch와 axios 차이](https://blog.naver.com/pjt3591oo/223308909056)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
   * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
