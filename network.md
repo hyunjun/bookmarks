@@ -486,6 +486,7 @@ Network
   * 안전한 웹사이트 방문, 오디오비주얼 채팅, 모바일 브라우징에 가장 큰 개선 예상
 * [How Facebook Is Bringing QUIC to Billions - YouTube](https://www.youtube.com/watch?v=tJBmuSmtxRg)
 * [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
+* [QUIC & HTTP 3 이제는 현실 (rev. 2) | saturnsoft.net](https://www.saturnsoft.net/network/2023/12/31/talk-quic-http3-intro/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
 * [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
   * [Introducing s2n-quic, a new open-source QUIC protocol implementation in Rust | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/introducing-s2n-quic-open-source-protocol-rust/)
