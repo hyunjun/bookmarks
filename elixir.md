@@ -145,7 +145,7 @@ Elixir
 * [Elixir process management Series' Articles - DEV Community](https://dev.to/cherryramatis/series/25047)
 * [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
 * [IEx is awesome!](https://inspired.consulting/elixir/iex-is-awesome)
-* [Elixir Processes: Linking and Monitoring - Samuel Mullen](https://samuelmullen.com/articles/elixir-processes-linking-and-monitoring)
+* [Elixir Processes: Linking and Monitoring - Samuel Mullen](https://s-amuelmullen.com/articles/elixir-processes-linking-and-monitoring)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -296,6 +296,7 @@ Elixir
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
     * [Phoenix 1.7 with Svelte. Cybernetically enhanced Phoenix Web… | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
   * [live_svelte: Svelte inside Phoenix LiveView with seamless end-to-end reactivity](https://github.com/woutdp/live_svelte)
+    * [Rewriting Strange Leaflet in Phoenix and LiveSvelte · Strange Leaflet](https://www.strangeleaflet.com/blog/rewriting-strange-leaflet-in-phoenix-and-livesvelte)
   * [potion_shop: A vulnerable Elixir and Phoenix application for learning web security](https://github.com/securityelixir/potion_shop)
     * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
