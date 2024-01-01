@@ -5119,6 +5119,7 @@ Python
 * [pandas-ai: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational](https://github.com/gventuri/pandas-ai)
   * [PandasAI demo.ipynb - Colaboratory](https://colab.research.google.com/drive/1rKz7TudOeCeKGHekw7JFNL4sagN9hon-)
   * [PandasAI: 데이터 분석을 위한 대화형 AI 도구](https://devocean.sk.com/blog/techBoardDetail.do?ID=165102)
+  * [ChatGPT 관련 PandasAI 데이터 분석 - YouTube](https://www.youtube.com/watch?v=Fv2-vg5u_O8)
 * [pandera: A light-weight, flexible, and expressive statistical data testing library](https://github.com/unionai-oss/pandera)
   * [Pandera makes it easy to validate pandas DataFrame](https://www.linkedin.com/posts/khuyen-tran-1401_datascience-python-activity-7042493506438795264-GUYs/)
   * [How to Validate Your pandas DataFrame with Pandera - YouTube](https://www.youtube.com/watch?v=CB8D7RUM-lI)
