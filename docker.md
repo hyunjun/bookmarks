@@ -1789,10 +1789,11 @@ Docker
       * 시크릿 관리 서비스인 Infisical을 ArgoCD와 Helm을 이용해서 Kubernetes에 배포
       * 애플리케이션에 Infisical에 저장된 시크릿을 제공하는 설정 방법 설명
     * [딜라이트룸 DevOps 1탄: Argo CD 넌 뭐니?. ArgoCD란 무엇인가? | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8-devops-1%ED%83%84-argo-cd-%EB%84%8C-%EB%AD%90%EB%8B%88-59f453ceb590)
+    * [딜라이트룸 DevOps 1탄: Argo CD 넌 뭐니?. ArgoCD란 무엇인가? | by Chris Lee | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8-devops-1%ED%83%84-argo-cd-%EB%84%8C-%EB%AD%90%EB%8B%88-071547c97627)
     * [Preview Environments on Kubernetes with ArgoCD](https://piotrminkowski.com/2023/06/19/preview-environments-on-kubernetes-with-argocd/)
       * ArgoCD와 Tekton을 이용해서 프리뷰 환경을 구성하는 방법 설명
       * Argo CD를 이용해서 GitHub의 Pull Request를 모니터링하다가 새 브랜치나 커밋이 올라오면 Tekton으로 빌드하고 Argo CD의 앱을 생성해서 Kubernetes 클러스터에 프리뷰 환경을 배포하는 예시를 보여줌
-    * [딜라이트룸 DevOps 1탄: Argo CD 넌 뭐니?. ArgoCD란 무엇인가? | by Chris Lee | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8-devops-1%ED%83%84-argo-cd-%EB%84%8C-%EB%AD%90%EB%8B%88-071547c97627)
+    * [ArgoCD와 GitOps를 인터넷(IGW) 없는 환경에서 구축하기 - 정영진, LG U+AWS :: Community Day 2023 - YouTube](https://www.youtube.com/watch?v=xNdVGmYuVdA)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
   * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
@@ -1951,6 +1952,7 @@ Docker
   * [Kubernetes Event-driven Autoscaling | by Moti Malka | Jun, 2022 | Medium](https://medium.com/@moti.malka25/kubernetes-event-driven-autoscaling-d8a6dc5c18a8)
   * [이벤트 베이스 쿠버네티스 오토스케일링 KEDA](https://bcho.tistory.com/1390)
   * [KEDA. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Oct, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/keda-16204b60a388)
+  * [Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QaPbcayEicw)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
