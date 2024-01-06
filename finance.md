@@ -46,6 +46,7 @@ Finance
 * [**월급쟁이 주식투자 하는 법 (feat. 퇴직금)**](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
 * [재편집본 연금저축, IRP 잘못 가입하면 세금 토해낼 수 있습니다 - YouTube](https://www.youtube.com/watch?v=EQfK73-WaLk) 퇴직
 * [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw) 퇴직
+* [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
 * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
 * [꿀팁 대방출! 요거 모르고 멍 때리면 건강보험료 폭탄! f. 행복자산관리연구소 김현우 소장백브리핑 라이브 - YouTube](https://www.youtube.com/watch?v=ZExoRiXQkLs)
 * [Enombic - 나만의 주식 인덱스 만들기 | GeekNews](https://news.hada.io/topic?id=3817)
