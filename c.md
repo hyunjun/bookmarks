@@ -638,6 +638,7 @@ C
 * [42_CheatSheet: A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language](https://github.com/agavrel/42_CheatSheet)
 * [C Programming Tutorial - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxEagJrL8j7Uom6CYU8JE1l_)
 * [Adimission Started For C Basic Languavage#cprogramming #clanguage - YouTube](https://www.youtube.com/watch?v=jgiEByNt-Tc)
+* [CS50x 2024 - Lecture 1 - C - YouTube](https://www.youtube.com/watch?v=cwtpLIWylAw)
 
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
