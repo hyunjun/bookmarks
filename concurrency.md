@@ -104,6 +104,7 @@ Concurrency
 * [병렬프로그래밍 경북대학교 백낙훈](http://www.kocw.net/home/search/kemView.do?kemId=1322170) 강의
 * [Container NVIDIA CUDA GPU](https://ssup2.github.io/theory_analysis/Container_NVIDIA_CUDA_GPU/)
 * [CUDA on WSL :: CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
+* [Windows에 CUDA Toolkit 11.2 cuDNN 8.1.0 Tensorflow 2.10 설치하는 방법](https://webnautes.tistory.com/1875)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
