@@ -1490,6 +1490,7 @@ NLP
 * [SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels. - YouTube](https://www.youtube.com/watch?v=VxFtHqlMv8c)
 * [Chevy Chatbot Misfire: A Case Study in LLM Guardrails and Best Practices | by Branden Mcintyre | Dec, 2023 | Medium](https://medium.com/@branden.mcintyre/chevy-chatbot-misfire-a-case-study-in-llm-guardrails-and-best-practices-7ae319088e94)
 * [Debugging LLMs in prod with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=Yq2DSZswPxI)
+* [SK TECH SUMMIT 2023 AI : LLM - YouTube](https://www.youtube.com/playlist?list=PLwZwCc2PHzL89Sxf9KZE_q03wlqpm8IHu)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1542,6 +1543,7 @@ NLP
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante\_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
+* [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
 * GSLM
   * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445)
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
@@ -1604,6 +1606,8 @@ NLP
   * [LLM 애플리케이션 개발을 위한 Langchain #4 토큰 비용 관리 및 토큰카운트](https://bcho.tistory.com/1410)
   * [LLM 애플리케이션 개발을 위한 Langchain #5 캐싱을 이용한 API 비용 절감](https://bcho.tistory.com/1411?category=1133793)
   * [LLM 애플리케이션 개발을 위한 Langchain #6 Chat Model](https://bcho.tistory.com/1412)
+  * [LLM 애플리케이션 개발을 위한 Langchain #7 PromptTemplate](https://bcho.tistory.com/1413)
+  * [Langchain을 이용한 LLM 애플리케이션 개발 #8 - 프롬프트 예제 선택기](https://bcho.tistory.com/1414)
   * [Building an LLM Open-Source Search Engine in 100 Lines](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
   * [Langchain PDF를 학습한 나만의 챗봇 streamlit에 배포 하기 - 미완성의신](https://unfinishedgod.netlify.app/2023/12/16/langchain-pdf-streamlit/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
@@ -1697,6 +1701,8 @@ NLP
     * [Build A Next.JS Chatbot with Langchain and Upstash Redis - YouTube](https://www.youtube.com/watch?v=gpXXIvfSCto)
     * [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
     * [ChatGPT 플러스 결제를 중단하는 이유? - YouTube](https://www.youtube.com/watch?v=_HuQNooKRXQ)
+    * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
+      * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
   * [open\_llama](https://github.com/openlm-research/open\_llama)
     * [오픈소스로 가자! OpenLLaMA 의 등장](https://revf.tistory.com/286)
   * [WhatsApp-Llama: Finetune a LLM to speak like you based on your WhatsApp Conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
@@ -1918,6 +1924,7 @@ NLP
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen)
+* [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
 
 # LDA Latent Dirichlet Allocation
 
