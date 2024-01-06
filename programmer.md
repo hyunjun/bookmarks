@@ -84,6 +84,9 @@ Programmer
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
 * [How To Be A GREAT Programmer - YouTube](https://www.youtube.com/watch?v=X99Be8wJBMI)
+* [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
+* [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
+* [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [쉽게 살 수 있을까 ? :: 소프트웨어 개발자가 되기 위해 발을 내딛으신 분들에게](https://hl1itj.tistory.com/230)
 * [문제 해결 능력에 앞서 문제 정의 능력이 중요하다. - F-Lab](https://blog.f-lab.kr/2021/09/12/problem-definition.html)
 * [개발직군이 놓쳐서는 안될10가지 (Developer attitude)](https://www.slideshare.net/visualkhh/10-developer-attitude) 개발외에 주의해야할 점
@@ -264,6 +267,9 @@ Programmer
 * [8년차 개발자가 월 1억씩 벌게 된 이야기](https://www.jobless.blog/damon/) side hustle
 * [MODUPOP 초거대 AI시대 대체불가 개발자로 살아가기 - YouTube](https://www.youtube.com/watch?v=2-bXSTgNEtg)
 * [구글에서의 18년을 돌아보며 | GeekNews](https://news.hada.io/topic?id=11982)
+* [OKKY - 내가 창업을 한다면 어떻게 개발자의 연봉을 책정할 것인가: 비지니스 모델에 따라 다릅니다.](https://okky.kr/articles/1210093)
+* [The 3 budgets | Swizec Teller](https://swizec.com/blog/the-3-budgets/)
+  * [소프트웨어 엔지니어의 월급은 3개의 예산에서 나옵니다 | GeekNews](https://news.hada.io/topic?id=12648)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
