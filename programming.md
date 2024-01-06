@@ -1141,6 +1141,8 @@ Programming
 * [Handshake](https://handshake.org/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
+* [kiota: OpenAPI based HTTP Client code generator](https://github.com/microsoft/kiota)
+  * [Our move to generated SDKs - The GitHub Blog](https://github.blog/2024-01-03-our-move-to-generated-sdks/)
 * Microsoft
   * [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
   * [Web API 디자인 모범 사례 - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
@@ -2017,6 +2019,8 @@ Programming
 * [Event-Driven Integration Today & Tomorrow • James Urquhart • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=FEcRuGzrNRs)
 * [Bringing EDA to the Containers World • Jessica Deen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DrUFMSsCTZM)
 * [Empowering Architectural Evolution: Governing Event-Driven Solutions • Sam Dengler • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-Pv_kYflEEg)
+* [Evolving Your Containerized REST Based Microservices to Adapt to EDA • Dhiraj Mahapatro • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=kjZdKa5I-Us)
+* [A Year of Diagnosing Pediatric Cancer with Event Driven Architecture • Grant Lammi • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tpVPgGH4LfE)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -5233,6 +5237,7 @@ Programming
   * [12월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/12/b-12-2.html)
   * [12월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/12/b-12-3.html)
   * [12월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/12/b-12-4.html)
+  * [1월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/01/b-1-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -5699,6 +5704,7 @@ Programming
 * [조이 | Disquiet\*](https://disquiet.io/product/%EC%A1%B0%EC%9D%B4) 여러분의 노코드 사이트를 더 강력하게 만들어줍니다
 * [페이로드 | Disquiet\*](https://disquiet.io/product/%ED%8E%98%EC%9D%B4%EB%A1%9C%EB%93%9C) 결제 수수료 없이, 자체 간편 결제(like 쿠팡페이)를 쉽게 개발할 수 있게 해주는 핀테크 서비스
 * [코드너리 | Disquiet\*](https://disquiet.io/product/%EC%BD%94%EB%93%9C%EB%84%88%EB%A6%AC) 다른 스타트업은 어떤 기술 스택을 사용하고 있을까요?
+* AppMaster [귀하의 비즈니스를 위한 기본 모바일 앱. 코드가 필요하지 않습니다. | AppMaster](https://appmaster.io/ko/product/mobile-applications)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
   * [노코드 툴 버블 기본기 강의 (bubble.io BASICS) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1qvMYfsqD1k0xzMrNTfoBH)
