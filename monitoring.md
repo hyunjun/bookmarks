@@ -42,6 +42,14 @@ Monitoring
 * [Why the Future of Monitoring Is Agentless](https://www.infoq.com/articles/future-monitoring-agentless/)
 * [Understand Your System Like Never Before With OpenTelemetry, Grafana, Promscale - YouTube](https://www.youtube.com/watch?v=0LuLRjIP-Oc)
 * [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More - YouTube](https://www.youtube.com/watch?v=jx5hdo50a2M)
+* [The Future of Dashboards is Dashboardless | by Ravi Mistry | Medium](https://scribblr42.medium.com/the-future-of-dashboards-is-dashboardless-6f746ea7d850)
+  * Dashboardless는 "대시보드가 필요없다, 대시보드를 쓰지 않는다"는 의미라기 보다 서버 인프라 측면에서 Serverless라는 용어를 염두에 두고 이해하면 좋음
+    * Serverless는 "마치 서버가 없는 것처럼, 사용자가 필요할 때 사용하고 싶은 만큼 서버를 편리하게 사용할 수 있다"라는 의미
+    * 즉, Dashboardless는 "원하는 정보를 제약없이, 데이터 분석의 흐름에 따라 유연하게 사용할 수 있게 해준다"의 의미
+    * (대시보드는 한판에 정보를 요약해주는 장점, 그 한판에 들어있지 않는 정보는 찾아보기 힘든 단점)
+  * 대시보드를 어떻게 작성하고 관리해야 할까에 대한 인사이트를 얻을 수 있는 글
+* [Is a dashboard necessary?. As a specialist in data visualization… | by Antonio Neto | Medium](https://medium.com/@antonioneto_17307/is-a-dashboard-necessary-a3153db47219)
+  * "대시보드는 꼭 필요한 것은 아니다(오히려 잘못 만들어진 대시보드는 사용자를 오도할 수 있음). 하지만, 잘 만들어진 대시보드는 유용하다"
 * [기고 “인공지능 알고리즘의 잠재력을 결정하는 것은 측정에서 시작됩니다” < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=26454)
 * [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 * [네이버 검색 SRE 1편 - 차세대 검색 모니터링 시스템을 향한 여정](https://d2.naver.com/helloworld/5799075)
@@ -88,6 +96,7 @@ Monitoring
   * 데이터를 3차원으로 표시할 수 있는 XYZ 차트 도입. 아직은 알파버전이라 `enable_alpha=true`를 설정해야 사용 가능
 * [Grafana Labs is now a GitHub secret scanning partner | GitHub Changelog](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
 * [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
+* [15. 모니터링 대시보드 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-04-kubernetes-15/)
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
