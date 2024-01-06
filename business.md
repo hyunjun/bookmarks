@@ -215,9 +215,6 @@ Business
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
 * [얼라인먼트위크 (1) 서로 다른 악기들이 이루는 하모니](https://blog.toss.im/article/alignmentweek23-1)
 * [얼라인먼트위크 (2) 토스팀원들이 뽑은 최고의 러닝 쉐어](https://blog.toss.im/article/alignmentweek23-2)
-* [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
-* [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
-* [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
 * [“잡담 많이 나누는 회사가 경쟁력”, ‘쓸고퀄’ 치믈리에 자격시험은 그렇게 탄생했다 | 스페셜리포트 | DBR](https://dbr.donga.com/article/view/1101/article_no/9230/ac/a_view) 배달의 민족
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
