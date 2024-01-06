@@ -367,6 +367,7 @@ Android
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
 * [ADB(Android Debug Bridge)를 맥 OS에서 사용하는 방법](https://developer88.tistory.com/174)
 * [Android 디버깅 Tip에 대해서 정리해보겠습니다](https://developer88.tistory.com/228)
+* [앱 개발 시, USB 인식 안 되는 문제 / .. : 네이버블로그](https://blog.naver.com/nanotoly/223314156097)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
