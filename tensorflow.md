@@ -748,6 +748,7 @@ TensorFlow
 * [UBUNTU 18.04 설치 #3 유틸리티 설치](https://eungbean.github.io/2018/08/08/Ubuntu-Installation3/)
 * [Ubuntu 18.04, Nvidia GeForce RTX 2080 Ti, tensorflow, OpenCV, Jupyter Installation](https://github.com/jonghwan7028/tensorflow-multi-GPUs)
 * [텐서플로우를 가장 간단하게 설치하는 방법 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4423)
+* [Ubuntu 22.04에 CUDA 사용하도록 Tensorflow 설치하는 방법](https://webnautes.tistory.com/1878)
 
 ## Installation Windows
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
