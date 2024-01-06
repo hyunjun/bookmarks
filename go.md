@@ -978,7 +978,7 @@ Go
 * [Go-PostgreSQL-Database-Migration](https://github.com/mustafakraizim98/Go-PostgreSQL-Database-Migration)
 * [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
   * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
-  * [Pgx: PostgreSQL Driver and toolkit for Go](https://morioh.com/p/36f41b6fd991)
+  * [Pgx: PostgreSQL Driver and Toolkit for Go](https://morioh.com/a/c4b2fb4be76d/pgx-postgresql-driver-and-toolkit-for-go)
 
 # Machine Learning
 * [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
