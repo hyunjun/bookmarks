@@ -1250,6 +1250,7 @@ Business
 * [Modern CTO - YouTube](https://www.youtube.com/c/ModernCTO/featured)
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [**awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups**](https://github.com/kuchin/awesome-cto)
+* [Awesome CTO | awesome-cto](https://kuchin.github.io/awesome-cto/)
 * [스타트업에서 CTO의 역할 | Guruble](http://guruble.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
 * [스타트업에서 CTO의 역할 | Popit](https://www.popit.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%97%90%ec%84%9c-cto%ec%9d%98-%ec%97%ad%ed%95%a0/)
 * [디지털 변혁 위한 기술 전략을 수립… 'CTO' 직위의 이해 - CIO Korea](https://www.ciokorea.com/news/206349)
@@ -1315,6 +1316,7 @@ Business
     * 어떤 일을 하기 위해서 혼자 희생하는 영웅적인 일을 하기도 했지만, 이는 오히려 팀에 안 좋음
     * VPE가 되면서 여유가 필요할 것으로 예상했지만 실제로 해보니 예상보다 훨씬 더 여유 시간을 확보하는 것이 도움이 된다는 것을 알게 됨
 * [Technical Leadership Matters • Dave Thomas • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=MSkRUcSPr1o)
+* [What You Need To Be A CTO • Simon Raik-Allen • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=alQzU0Uob5Y)
 * [2023년 CTO 회고](https://jojoldu.tistory.com/766)
 
 # Decision making
@@ -2109,6 +2111,7 @@ Business
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
 * [임팩트에 집중했더니 생긴 일. 기대했던 변화들과 기대 못했던 긍정적 변화들까지 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EC%9E%84%ED%8C%A9%ED%8A%B8%EC%97%90-%EC%A7%91%EC%A4%91%ED%96%88%EB%8D%94%EB%8B%88-%EC%83%9D%EA%B8%B4-%EC%9D%BC-a190446b85cf)
 * [토스에서 하루 만에 제품 출시하는 법](https://toss.tech/article/launching-product-in-one-day)
+* [송금할 때 은행 이름을 꼭 입력해야 할까요?](https://toss.tech/article/toss-money-transfer-bank-recommendation)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
