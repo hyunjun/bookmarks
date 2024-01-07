@@ -56,6 +56,7 @@ PHP
 * [PHP의 문자열 처리 함수에 `mb_` 접두어가 붙은 이유 | 웹으로 말하기](https://mytory.net/archives/13813)
 * [ChatGPT? PHP guzzle로 카카오 KoGPT API 연동하기 | 웹으로 말하기](https://mytory.net/archives/13821)
 * [맥 PHP 7.4의 icu4c 관련 에러 해결 – 형우의 웹개발](https://mytory.net/archives/15155)
+* [PHP, 이 함수가 어디에서 실행되는 건지, 파일이 어디에서 인클루드되는 건지 찾아야 할 때 – 형우의 웹개발](https://mytory.net/archives/15875)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
@@ -112,6 +113,8 @@ PHP
   * [Using a Laravel REST API with a Next.js App](https://morioh.com/p/0f3d50e7fe69)
   * [라라벨에서 배열 유효성 검증하다가 타임아웃이 났다 - 이현석의 우체통](https://leehyunseok.com/?p=4135)
   * [라라벨 연관 프로퍼티에서 캐시 사용 습관을 들입시다 – 형우의 웹개발](https://mytory.net/archives/15864)
+  * [라라벨 모델 Lazy Loading 연관 속성을 필요한 경우 미리 불러오기 – 형우의 웹개발](https://mytory.net/archives/15889)
+  * [라라벨 모델 연관 속성, 중첩시에만 Eager Loading하고 싶을 때 – 형우의 웹개발](https://mytory.net/archives/15885)
   * [codexa: Codexa is a Documentation System built using the Laravel Framework](https://github.com/devoption/codexa)
 * [Leaf 3.0 - PHP 웹앱 & API 프레임워크 | GeekNews](https://news.hada.io/topic?id=5698)
 * opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
