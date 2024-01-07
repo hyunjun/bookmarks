@@ -62,6 +62,7 @@ Android
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
   * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
+* [안드로이드 개발자를 위한 MVC, MVP, MVVM, MVI 아키텍쳐 끝장정리— 1 | by Bonny | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/mvc-mvp-mvvm-mvi-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-2442a4189c79)
 * [Android Architecture Components — now with 100% more MVVM](https://android.jlelse.eu/android-architecture-components-now-with-100-more-mvvm-11629a630125)
 * [Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
 * [**Android 에서 MVVM 으로 긴 여정을…**](https://medium.com/@jsuch2362/android-%EC%97%90%EC%84%9C-mvvm-%EC%9C%BC%EB%A1%9C-%EA%B8%B4-%EC%97%AC%EC%A0%95%EC%9D%84-82494151f312)
