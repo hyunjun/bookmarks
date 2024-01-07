@@ -1452,6 +1452,7 @@ Scala
 * [Use Scala Macros and Quasiquotes to Reduce Boilerplate | Toptal](https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate)
 * [Compile-Time Time! — Data Transmogrification Macro From Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=h9hCm7GRbfE)
 * [Compile-Time Time! — Data Transmogrification Macro From Scratch — Part 2 - YouTube](https://www.youtube.com/watch?v=w7pzqHXGnf8)
+* [Scala 2 Macro Tutorial | Bin Wang - My Personal Blog](https://www.binwang.me/2023-12-29-Scala-Macro-Tutorial.html)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
@@ -1498,6 +1499,7 @@ Scala
   * [Caliban Client: a type-safe GraphQL Client for Scala and Scala.js](https://medium.com/@ghostdogpr/caliban-client-a-type-safe-graphql-client-for-scala-and-scala-js-718aa42c5ef7)
   * [Caliban: Functional GraphQL Library for Scala by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=oLvdhVNIC3k)
   * [Cost-Effective And Easy-To-Maintain GraphQL API Integration Tests With ZIO Test and Caliban - YouTube](https://www.youtube.com/watch?v=pYfWq4GmObY)
+  * [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
 * Capacitor [Cross-Platform Mobile dev with Scala and Capacitor | by Antoine Doeraene | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/cross-platform-mobile-dev-with-scala-and-capacitor-54e69b62b50c)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
