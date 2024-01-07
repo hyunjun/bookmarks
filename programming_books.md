@@ -2381,6 +2381,7 @@ Programming Books
   * 한라 005.138-강95ㄱ 탐라 문005.138-강98ㄱ
   * [graphql-book-fullstack-project: "GraphQL과 타입스크립트로 개발하는 웹 서비스" 도서의 예제 코드 저장소](https://github.com/hwasurr/graphql-book-fullstack-project)
   * [GraphQL-Study: GraphQL을 공부하고, 실습한 코드에요 😀](https://github.com/junyharang-coding-study/GraphQL-Study)
+* (NOT YET) [나는 네이버 프런트엔드 개발자입니다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/01/05/I-am-NAVER-Front-End-Developer.html)
 
 ## Angular
 
