@@ -512,6 +512,7 @@ AWS
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 * [다중 라이브 스트리밍 채널을 Amazon IVS의 썸네일기반 멀티뷰로 모니터링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-multiple-live-streams-channels-with-thumbnail-based-multiviews-on-aamazon-ivs/)
+* [Amazon IVS를 활용한 볼라의 라이브 커머스 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-live-commerce-using-ivs/)
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
 * [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
@@ -545,6 +546,7 @@ AWS
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
 * [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
 * [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
+* [AWS AI 서비스를 활용한 미디어 자막 성능 개선 및 컨텐츠 현지화 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/contents-subtitle-localization/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -611,6 +613,7 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 2부: 연결성 및 조합 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-2/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 3부: 마이그레이션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-3/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
+* [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 5부: 데이터 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-5/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -842,6 +845,7 @@ AWS
     * 법칙 6: 비용 최적화는 점진적으로 이뤄진다
     * 법칙 7: 도전하지 않는 성공은 가정으로 이어진다
     * [The Frugal Architecture – 알뜰한 아키텍처를 위한 7가지 원칙 :: Channy's Blog](https://channy.creation.net/blog/1828)
+  * [AWS Re:invent 2023 참관기와 연사자 후기! (1) | by 요기요 R&D Center | Jan, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/aws-re-invent-2023-%EC%B0%B8%EA%B4%80%EA%B8%B0%EC%99%80-%EC%97%B0%EC%82%AC%EC%9E%90-%ED%9B%84%EA%B8%B0-1-d14f9458a1c8)
   * [AWS re:Invent 2023 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2023/)
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
@@ -981,6 +985,7 @@ AWS
 * [FSx for Netapp ONTAP을 활용한 클라우드 스토리지 비용 최적화 방안 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/fsx-for-cost-optimization/)
 * [AWS 요금 계산기](https://calculator.aws/)
 * [AWS 프리 티어 사용량 확인용 API 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/check-your-aws-free-tier-usage-programmatically-with-a-new-api/)
+* [AWS Re:invent 2023 참관기와 연사자 후기! (2) | by 요기요 R&D Center | Jan, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/aws-re-invent-2023-%EC%B0%B8%EA%B4%80%EA%B8%B0%EC%99%80-%EC%97%B0%EC%82%AC%EC%9E%90-%ED%9B%84%EA%B8%B0-2-e2372aae166c)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
@@ -1995,6 +2000,7 @@ AWS
 * [Providing a caching layer for LLM with Langchain in AWS](https://heuristicwave.github.io/LLMCache)
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
+* [Multi-RAG와 Multi-Region LLM로 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/multi-rag-and-multi-region-llm-for-chatbot/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
 * [Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/falcon-180b-foundation-model-from-tii-is-now-available-via-amazon-sagemaker-jumpstart/)
 * [폐쇄 환경에서 Amazon Sagemaker노트북 인스턴스를 이용하는 경우의 데이터 보호에 관한 Tips | by MZC_Global | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/%ED%8F%90%EC%87%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-amazon-sagemaker%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8%EC%97%90-%EA%B4%80%ED%95%9C-tips-d2fdce844906)
