@@ -1418,6 +1418,7 @@ Book
 * (NOT YET) [당신이 잘 안다고 착각하는 허 찌르는 수학이야기 + 분수이야기 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305559016)
   * 한라 410-박64ㅎ
   * 한라 410-박64ㅎ-2 탐라 문410-박64ㅎ
+* (NOT YET) [수학독본 - 나무위키](https://namu.wiki/w/%EC%88%98%ED%95%99%EB%8F%85%EB%B3%B8)
 
 # Murakami Haruki
 * [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)
