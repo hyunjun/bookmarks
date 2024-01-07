@@ -180,6 +180,9 @@ Deep Learning
       * DALL·E 2의 프롬프트를 어떻게 이용할 수 있고 어떤 결과가 나오는지 정리된 PDF. DALL·E 2를 활용하기 전에 참고해 보기 좋은 문서
     * [산타 방문 증빙 feat. DALL.E | Pega Devlog](https://jehyunlee.github.io/2022/12/26/Python-General-14_santa/)
     * [Alejandro Saucedo - Industrial Strength DALLE-E:Scaling Complex Large Text & Image Models - YouTube](https://www.youtube.com/watch?v=RVUi_rAFfzU)
+    * [ChatGPT로 한글과 한자가 적힌 카드 만들기 | Pega Devlog](https://jehyunlee.github.io/2023/12/25/General-33-ChatGPT_DataAnalysis/)
+    * [DALL.E 대비가 강한 그림 그리기 | Pega Devlog](https://jehyunlee.github.io/2023/12/26/General-34-dalle_centaur/)
+    * [DALL.E로 그리는 "그리는 손" (M.C Escher) | Pega Devlog](https://jehyunlee.github.io/2024/01/04/General-36-drawinghand/)
     * [DALL·E 3](https://openai.com/dall-e-3)
       * [DALL·E 3 | GeekNews](https://news.hada.io/topic?id=10971)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
