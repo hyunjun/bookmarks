@@ -543,6 +543,7 @@
   * [spring-kotlin-postgres](https://github.com/jamesward/spring-kotlin-postgres)
 * [Kotlin으로 Spring AOP 극복하기! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/overcome-spring-aop-with-kotlin/)
 * [Reactive REST API With Spring, Kotlin and Coroutines](https://codersee.com/reactive-rest-api-with-spring-kotlin-and-coroutines/)
+* [Kotlin과 Spring Cloud Function 기반 애플리케이션을 AWS EventBridge와 Lambda에 배포하기](https://www.kazuya.io/855fa275-fc96-4310-97eb-ad0c62dd660a)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
   * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
