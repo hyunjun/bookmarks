@@ -355,6 +355,7 @@ Programming
   * CNCF에서 플랫폼 엔지니어링 성숙도 모델 공개
   * 이 성숙도 모델은 조직마다 다를 수 있으므로 Cloud Native Maturity Model와 같이 평가해 보는 것이 좋고 각 측면에서 성숙도가 높아질 때마다 자금과 인력에 대한 요구사항도 같이 증가하므로 최고 수준에 도달하는 게 목표라기보다는 투자 여력을 고려해서 각 단계의 자질을 고려해야 함
 * [AWSKRUG 플랫폼 엔지니어링 모임 후기 (2023/11/21) — 생존과 성장 사이](https://dokdo2013.tistory.com/14)
+* [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
@@ -4438,6 +4439,7 @@ Programming
   * [Shaping The Future of Developer Productivity with Spotify Backstage • Lee Mills • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ptknWtmqrZM)
   * [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
   * [GitOps Infrastructure with Backstage + Crossplane + ArgoCD - YouTube](https://www.youtube.com/watch?v=Ii-lpLuzPxw)
+  * [Demystifying Kubernetes Platforms with Backstage - YouTube](https://www.youtube.com/watch?v=g453ioC64Bw)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -6420,6 +6422,7 @@ Programming
 * [파이썬 로봇 프레임워크를 활용한 소프트웨어 자동화 테스트의 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/232029)
 * [if kakao 2022 사례로 보는 모바일 자동화 테스트를 통한 모니터링 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-mobile-automation-test-monitoring/)
 * [빠르게 진화하는 E-커머스와 RPA 그리고 테스트 자동화 | 최윤석 - YouTube](https://www.youtube.com/watch?v=pEqjCNAAugU) appium, selenium
+* [백엔드 개발자가 만들어 본 App 테스트 자동화 (feat. Appium, Jenkins, AWS DeviceFarm) :: Jay's Code Factory](https://jay-ji.tistory.com/122)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
