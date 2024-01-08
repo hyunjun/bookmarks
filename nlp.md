@@ -1520,6 +1520,7 @@ NLP
 * [dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 * [DB-GPT](http://docs.dbgpt.site/docs/overview)
   * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
+* [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
