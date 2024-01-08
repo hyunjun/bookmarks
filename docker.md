@@ -1370,6 +1370,7 @@ Docker
 * [k8s 서비스 품질 관리 (QoS) 도입으로 Pod 리소스 관리하기 | by Ryan Kim | Medium](https://equus3144.medium.com/k8s-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-qos-%EB%8F%84%EC%9E%85%EC%9C%BC%EB%A1%9C-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-36a4cab9e385)
 * [Kubernetes Pod Graceful Shutdown - How? - FoxuTech](https://foxutech.com/kubernetes-pod-graceful-shutdown-how/)
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
+* [리스와 헤이즐캐스트로 구성한 쿠버네티스 파드 클러스터링 - 넷마블 기술 블로그](https://netmarble.engineering/k8s-pod-clustering-lease-and-hazelcast/)
 * [How does Kubernetes assign QoS class to pods through OOM score?](https://cloudyuga.guru/hands_on_lab/k8s-qos-oomkilled)
   * Kubernetes에서 메모리가 부족한 경우 OOMKilled로 죽게 되는데 이는 리눅스 커널에서 OOM Killer가 시스템에 영향이 적도록 가장 적은 수의 프로세스를 죽여서 최대한의 메모리를 가져오도록 죽일 프로세스를 선택
   * 이를 위해 `oom_score`를 사용하는데 `oom_score_adj`로 이 값을 조정할 수 있으므로 Kubernetes도 `oom_score_adj` 사용
