@@ -1609,6 +1609,7 @@ NLP
   * [LLM 애플리케이션 개발을 위한 Langchain #6 Chat Model](https://bcho.tistory.com/1412)
   * [LLM 애플리케이션 개발을 위한 Langchain #7 PromptTemplate](https://bcho.tistory.com/1413)
   * [Langchain을 이용한 LLM 애플리케이션 개발 #8 - 프롬프트 예제 선택기](https://bcho.tistory.com/1414)
+  * [Langchain을 이용한 LLM 애플리케이션 개발 #9 - RAG를 이용한 문서 참조. 문서 저장하기](https://bcho.tistory.com/1415)
   * [Building an LLM Open-Source Search Engine in 100 Lines](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
   * [Langchain PDF를 학습한 나만의 챗봇 streamlit에 배포 하기 - 미완성의신](https://unfinishedgod.netlify.app/2023/12/16/langchain-pdf-streamlit/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
@@ -1797,6 +1798,7 @@ NLP
   * [Hello, Semantic Kernel! | Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
   * [Introducing Semantic Kernel](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel)
   * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
+  * [Power of Semantic Kernel and Custom Plugin with SAP Data | LinkedIn](https://www.linkedin.com/pulse/power-semantic-kernel-azure-openai-sap-data-chanjin-park-y8u3c%3FtrackingId=NOVhGXKhTUOtjl%252FOOp7%252BJg%253D%253D/)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
