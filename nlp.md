@@ -1744,6 +1744,8 @@ NLP
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+* [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
+  * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
