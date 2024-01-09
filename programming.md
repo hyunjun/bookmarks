@@ -6187,6 +6187,8 @@ Programming
 * [A day in the life of a Quality Engineer (QE) - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=VEneH07itYk)
 * [나는 어떤 강점이 있는 QA 엔지니어일까? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2023/05/15/qa-skills-marktang.html)
 * [애자일 조직에서 QA팀은 어떠한 모습을 하고 있을까요? 혹은 어떠한 모습이 되도록 노력해야 할까요? 애자일 조직에서 효율적인 팀플레이를 위한 QA조직의 방향성에 대해 이야기해보고자 합니다. | 29CM TEAM](https://medium.com/29cm/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-qa%ED%8C%80%EC%9D%98-%EC%97%AD%ED%95%A0-the-role-of-the-qa-team-in-the-agile-software-development-be9c459cc86e)
+* [You are never taught how to build quality software | Florian Bellmann | Be curious, explore and meditate.](https://www.florianbellmann.com/blog/never-taught-qa)
+  * [고품질 소프트웨어 개발 방법을 배우지 못하는 현실 | GeekNews](https://news.hada.io/topic?id=12259) QA에 대한 이야기. 스타일은 요즘은 아니고 좀 예전 것
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
