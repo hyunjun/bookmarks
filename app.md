@@ -2242,6 +2242,8 @@ App
         }
     * [grida cli 소개페이지](https://grida.co/cli)가 grida cli 로 작성
     * [code: Design to code engine. A design ✌️ code standard. Supports React, Flutter and more](https://github.com/gridaco/code)
+  * [OROR Forge: Figma to Code 도구 제작기 (1) 디자인을 코드로 만들어보자! – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-1/)
+  * [OROR Forge: Figma to Code 도구 제작기 (2) 실전용으로 만들기 – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-2/)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
