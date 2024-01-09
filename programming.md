@@ -2843,6 +2843,7 @@ Programming
 * [프라이빗 클라우드 구현 ’13억원이면 OK’…오라클, 전용 리전 진입 가격 1/6로 대폭 인하 – 테크수다](http://www.techsuda.com/archives/17459)
 * [Free Oracle Cloud Kubernetes cluster with Terraform – Arnold Galovics](https://arnoldgalovics.com/oracle-cloud-kubernetes-terraform/)
 * [오라클 클라우드 인스턴스 방화벽 허용 명령 – 형우의 웹개발](https://mytory.net/archives/15552)
+* [Oracle Cloud: Bring your own LB for self-managed clusters](https://www.loxilb.io/post/oracle-cloud-bring-your-own-lb-for-self-managed-clusters)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
