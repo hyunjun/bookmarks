@@ -118,6 +118,7 @@ Writing
 * [한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모 법 | 김익한 @ican 명지대 교수, 기록학자 #메모 #기록 #독서 - YouTube](https://www.youtube.com/watch?v=fxdPHw8vhog)
 * [효과적인 릴리즈 노트 작성 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/20/release-notes-tips/) release note
 * [테크니컬 라이팅에 프롬프트 엔지니어링 활용하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/29/tw-prompt/)
+* [브레인 오프너: 감정을 찌르는 글쓰기 기술](https://brunch.co.kr/@cliche-cliche/215)
 
 # App
 * latex
