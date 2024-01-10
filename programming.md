@@ -5999,6 +5999,7 @@ Programming
   * DORA 등의 정량적 지표로 생산성을 추적하지만 The SPACE of Developer Productivity 활용해서 만족도와 효율성, 성능, 협업에 대한 정성적인 지표도 추적
     * [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
   * 설문조사는 어렵기 때문에 개발자들과 능동적인 커뮤니케이션을 하도록 유도하고 내부 플랫폼으로 포장된 길을 제공하려고 노력하고 있다고 함
+* [The LinkedIn DPH Framework](https://linkedin.github.io/dph-framework/) Developer Productivity and Happiness Framework
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
