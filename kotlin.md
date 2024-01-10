@@ -138,6 +138,7 @@
 * [Kotlin: Write Once, Run (Actually) Everywhere](https://www.youtube.com/watch?v=ei66Fr25Y2M)
 * [Joost Heijkoop & Urs Peter - Kotlin vs Scala](https://www.youtube.com/watch?v=MsMejigb1Zk)
 * [Moving from Java to Kotlin with Scala stopover](https://medium.com/@piotrekchorocin/moving-from-java-to-kotlin-with-scala-stopover-debc4be8f295)
+* [Kotlin from Scala perspective: Advent Of Code 2023 | by Voytek Pituła | Jan, 2024 | Medium](https://medium.com/@w.pitula/kotlin-from-scala-perspective-advent-of-code-2023-f2901863ba0e)
 * [코틀린(Kotlin), 꼭 해야하나요?](https://gun0912.tistory.com/81)
 * [메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다](https://meetup.toast.com/posts/186)
 * [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007) kotlin, java, lombok을 같이 사용하는 과정에서의 문제점
