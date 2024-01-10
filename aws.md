@@ -989,6 +989,7 @@ AWS
 * [AWS Re:invent 2023 참관기와 연사자 후기! (2) | by 요기요 R&D Center | Jan, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/aws-re-invent-2023-%EC%B0%B8%EA%B4%80%EA%B8%B0%EC%99%80-%EC%97%B0%EC%82%AC%EC%9E%90-%ED%9B%84%EA%B8%B0-2-e2372aae166c)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [클라우드 비용 가시화 그렇게 어렵지 않아요! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/cloud-cost-visualization/)
+* [비용 최적화 & AWS Compute Optimizer를 이용한 EC2 Instance Right-sizing | by 백인출Cash(캐쉬) / SRE팀 | Jan, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-aws-compute-optimizer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ec2-instance-right-sizing-91c0ff837222)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
