@@ -355,6 +355,7 @@ Programming
   * CNCF에서 플랫폼 엔지니어링 성숙도 모델 공개
   * 이 성숙도 모델은 조직마다 다를 수 있으므로 Cloud Native Maturity Model와 같이 평가해 보는 것이 좋고 각 측면에서 성숙도가 높아질 때마다 자금과 인력에 대한 요구사항도 같이 증가하므로 최고 수준에 도달하는 게 목표라기보다는 투자 여력을 고려해서 각 단계의 자질을 고려해야 함
 * [AWSKRUG 플랫폼 엔지니어링 모임 후기 (2023/11/21) — 생존과 성장 사이](https://dokdo2013.tistory.com/14)
+* [AWSKRUG 플랫폼엔지니어링 모임에서 발표한 "당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1703)
 * [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
@@ -2062,6 +2063,7 @@ Programming
 * [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 * [Python 기반 대규모 마이크로 서비스에서 Circuit Breaker 도입의 여정 | by Edward J. Yoon | Mar, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-circuit-breaker-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b694d83cbf48)
 * [Fault Handling with retry and circuit breaker design patterns by Devlin Duldulao - YouTube](https://www.youtube.com/watch?v=Uxncuk-vocI)
+* [개발자 의식의 흐름대로 적용해보는 서킷브레이커 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15694/)
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
 * [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
@@ -5653,6 +5655,7 @@ Programming
 * [JS용 클래스와 CSS용 클래스는 명확히 분리돼야 합니다(관심사 분리 원칙 사례) – 형우의 웹개발](https://mytory.net/archives/15593)
 * [Gmarket Mobile Web Vip 레거시 성능 개선기](https://ebay-korea.tistory.com/97)
 * [카카오페이 온라인 결제 서비스 2.5배 성능 개선기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/improve-service-performance/)
+* [달리는 기차의 바퀴 교체하기 1. Planning](https://toss.tech/article/restructuring-planning)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
