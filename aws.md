@@ -674,6 +674,7 @@ AWS
 * [Amazon Bedrock – Amazon Titan 이미지 생성기, 다중 모드 임베딩 및 텍스트 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/)
 * [Amazon Bedrock Knowledge Bases 정식 출시 – 완전관리형 RAG 경험 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
 * [한영 동시 검색 및 인터넷 검색을 활용하여 RAG를 편리하게 활용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/rag-enhanced-searching/)
+* [Amazon Bedrock의 Claude와 Amazon Kendra로 향상된 RAG 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-claude-kendra-rag/)
 * [한글번역 AWS re:Invent 2023 아마존 Bedrock으로 생성형 AI 애플리케이션 구축하기 - YouTube](https://www.youtube.com/watch?v=g0-OAMhhQ90)
 * [AWS Step Functions 및 Amazon Bedrock을 사용하여 생성형 AI 앱 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/)
 * [Building Practical, Cost-Efficient GenAI Solutions Using Serverless • Veda Raman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-X-YHHU7p20)
