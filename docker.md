@@ -1730,6 +1730,7 @@ Docker
   * 메모리 request와 limit으로 메모리를 제한하고 관리할 수 있지만 1.27은 request와 limit 간의 차이를 기본 스로틀링 계수(기본값은 0.9)로 계산해서 `memory.high` 설정
     * `memory.high`에 가까워지면 메모리 스로틀링이 동작해서 메모리 관리
     * 정확히 스로틀링이 동작하는 방식은 설명이 없음
+* [Kubernetes Services : Achieving optimal performance is elusive | by CloudyBytes | Jan, 2024 | Medium](https://cloudybytes.medium.com/kubernetes-services-achieving-optimal-performance-is-elusive-5def5183c281)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
