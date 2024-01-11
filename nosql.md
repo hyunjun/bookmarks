@@ -330,6 +330,7 @@ NoSQL
   * [Firebase Cloud Messaging API(V1) 키 만들기 | 웹으로 말하기](https://mytory.net/2022/09/17/how-to-create-fcm-api-v1-key.html)
   * [CloudKit을 Firebase로 마이그레이션 하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/migrate-cloukit-firebase/)
   * [I tried 5 Firebase alternatives - YouTube](https://www.youtube.com/watch?v=SXmYUalHyYk)
+  * [Firebase App Distribution으로 앱 배포하기 :: iOYES](https://green1229.tistory.com/438)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
