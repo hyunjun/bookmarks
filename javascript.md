@@ -2525,6 +2525,7 @@ Javascript
         * Svelte 개발자들이 사용률을 높이는데 큰 관심이 없어 보임
         * 리액티브 선언은 디버깅이 쉽지 않아서 남용하지 말아야 함
     * [event.keyCode와 event.code, event.key - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/897)
+    * [zlog - Sveltekit에서 데이터를 다시 로딩하는 방법](https://zlog.pages.dev/posts/ee76c589-454c-42ad-9618-0adf82c384aa)
   * [Svelvet](https://svelvet.io/)
   * [Svelte Add](https://github.com/svelte-add)
     * [Svelte의 안내데스크, svelte-add - DEV Community](https://dev.to/composite/svelteyi-annaedeseukeu-svelte-add-52k7)
