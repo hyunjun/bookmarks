@@ -1715,6 +1715,7 @@ App
   * [Send Slack Notifications via NodeJS - DEV Community](https://dev.to/hrishikeshps/send-slack-notifications-via-nodejs-3ddn)
   * [슬랙봇 디자인 101](https://toss.tech/article/22439)
   * [Slack Bot in Scala and 12 Ways to Run It | by Voytek Pituła | Aug, 2023 | Medium](https://medium.com/@w.pitula/slack-bot-in-scala-and-12-ways-to-run-it-8b5f2d9f3524)
+  * [슬랙봇을 활용한 기술 블로그 배포 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/10/slack-bot/)
   * [슬랙에 ChatGPT 납치하기 #1 - 슬랙 APP 생성](https://jybaek.tistory.com/988)
   * [슬랙에 ChatGPT 납치하기 #2 - PC에서 서비스](https://jybaek.tistory.com/989)
   * [슬랙에 ChatGPT 납치하기 #3 - 클라우드에서 서비스](https://jybaek.tistory.com/990)
