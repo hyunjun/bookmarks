@@ -1251,6 +1251,9 @@ Book
 * [만화로 보는 피스톨 스토리](https://hanbit.co.kr/store/books/look.php?p_code=B1249731403)
   * ★★★☆☆ 2023.08.27
   * 탐라 문394.56-푸238ㅍ
+* 이주하는 인류 ['23년 올해의 책은 이 3권으로 정리합니다 - YouTube](https://www.youtube.com/watch?v=tCF80BMAGOs)
+  * ★★★☆☆ 2024.01.09~10 이동진 추천이라 읽음. 엄청 재미있는 건 아니지만, 사람의 이동이란 건 언제나 역사 속에 존재했던 일이고, 또 역사에 큰 영향을 주는 일이었다는 걸 의식하지 못했다가 다시 한 번 깨달을 수 있다는 점 만으로도 책의 가치는 충분하다고 생각함
+  * 우당 문331.3-밀233ㅇ 제주 909-밀233이
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
