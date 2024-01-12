@@ -449,6 +449,7 @@ Programming
 * [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+* [PKCE: What and Why? - Dropbox](https://dropbox.tech/developers/pkce--what-and-why-)
 * [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
