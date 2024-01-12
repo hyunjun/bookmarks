@@ -391,6 +391,8 @@ Artificial Intelligence
       * 이 과정의 결과물로 7-docs라는 프로젝트 공개
   * [aws-reference-architecture-pulumi: Pinecone AWS Reference Architecture](https://github.com/pinecone-io/aws-reference-architecture-pulumi)
   * [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
+* pgvector -> [sql.md](sql.md)
+* [PostgresML: Leveraging Postgres as a Vector Database for AI - YouTube](https://www.youtube.com/watch?v=D8YMMOhAeBs)
 * [Qdrant - Vector Database](https://qdrant.tech/)
   * [Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov) - YouTube](https://www.youtube.com/watch?v=bU38Ovdh3NY)
   * [Jin Hyung Park - VDB (벡터 데이터베이스)는 세그먼트 수준에서 optimize가 이루어집니다. 하기... | Facebook](https://www.facebook.com/jypthemiracle/posts/pfbid02xRkvodQhremotmkLmVJsVU4woDbWsZ1Ueiecp3Z7gPBPd5y2iGXhJp9BYmLCZUj6l)
