@@ -1528,6 +1528,8 @@ Machine Learning
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [baal - Using approximate bayesian posteriors in deep nets for active learning](https://github.com/ElementAI/baal)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
+* [dowhy: DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks](https://github.com/py-why/dowhy)
+  * [Patrick Blöbaum: Performing Root Cause Analysis with DoWhy, a Causal Machine-Learning Library - YouTube](https://www.youtube.com/watch?v=icpHrbDlGaw)
 * [easyopt: zero-code hyperparameters optimization framework](https://github.com/galatolofederico/easyopt)
 * [edenai-python: The best AI engines in one API: vision, text, speech, translation, OCR, machine learning, etc. SDK and examples for Python developers](https://github.com/edenai/edenai-python)
 * [Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
