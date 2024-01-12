@@ -185,6 +185,7 @@ Flutter
 * [flutter 화살표 다이얼로그 — 민트소프트](https://blog.mint-soft.com/32)
 * [Flutter App 실시간 CDN 이미지 변경 상태 적용 방안 :: GS Retail Engineering](https://gsretail.tistory.com/33)
 * [Flutter Timer와 Ticker. 정확히 N초 뒤 콜백이 호출되는걸 보장하지 않는… | by Cody Yun | Jan, 2024 | Medium](https://medium.com/@cody.yun/flutter-timer%EC%99%80-ticker-6a4d19f81819)
+* [Flutter Collection Package 정리 1부. Class 편 | by Sunlution | Jan, 2024 | Medium](https://medium.com/@sunlution/flutter-collection-package-%EC%A0%95%EB%A6%AC-1%EB%B6%80-class-%ED%8E%B8-96546d6ad1e8)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
