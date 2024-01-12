@@ -31,6 +31,8 @@ Programming Books
   * 아이디어 불패의 법칙: 구글 최고의 혁신 전문가가 찾아낸 비즈니스 설계와 검증의 방법론
   * 순서 파괴: 지구상 가장 스마트한 기업 아마존의 유일한 성공 원칙
   * 함께 자라기: 애자일로 가는 길
+* [개발자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/04/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
+* [데이터 과학자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/12/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
@@ -3416,6 +3418,7 @@ Programming Books
 
 # Product
 * [Best Product Management Books: A visual guide. - Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
+* [프로덕트 리더를 위한 26가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2024/01/12/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A6%AC%EB%8D%94%EB%A5%BC-%EC%9C%84%ED%95%9C-26%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
 * [제품의 탄생](https://jhrogue.blogspot.com/2022/12/blog-post.html)
   * ★★★★☆ 2022.12.29~31
   * [제품의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/all_about_product_management.md)
