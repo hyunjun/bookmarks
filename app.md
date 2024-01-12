@@ -1035,6 +1035,7 @@ App
     * [Git - Google Slides](https://docs.google.com/presentation/d/1b546zxH58lIrdYaYLufQum3ArKKF9cjW4ZvmC10jwIE)
     * [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
     * `git config --global credential.helper osxkeychain`
+    * [Visual Studio Code에서 Github에 업로드하는 방법( 연동하는 방법 )](https://webnautes.tistory.com/2008)
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
