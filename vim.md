@@ -18,6 +18,7 @@ Vim
 * [(05/30) "Vim 도대체 왜 쓰는가" 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=LckoVnyWkX0)
 * [8 Vim Tricks That Will Take You From Beginner to Expert | by Tyler Lum | The Startup | Medium](https://medium.com/swlh/8-vim-tricks-that-will-take-you-from-beginner-to-expert-817ff4870245)
 * [7 Surprising Vim Tricks That Will Save You Hours | by Tyler Lum | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
+* [au VimEnter * call Bye2023() | au VimEnter](https://au-vimenter.github.io/post/2023-12-23-au-vimenter/)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
