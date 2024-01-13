@@ -1612,6 +1612,7 @@ NLP
   * [Langchain을 이용한 LLM 애플리케이션 개발 #9 - RAG를 이용한 문서 참조. 문서 저장하기](https://bcho.tistory.com/1415)
   * [Langchain을 이용한 LLM 애플리케이션 개발 #10 - 벡터 DB 검색하기](https://bcho.tistory.com/1416)
   * [Langchain을 이용한 LLM 애플리케이션 개발 #11 - 벡터DB 검색 내용을 요약하기](https://bcho.tistory.com/1417)
+  * [Langchain Vector Store Record Delete](https://bcho.tistory.com/1418)
   * [Building an LLM Open-Source Search Engine in 100 Lines](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
   * [Langchain PDF를 학습한 나만의 챗봇 streamlit에 배포 하기 - 미완성의신](https://unfinishedgod.netlify.app/2023/12/16/langchain-pdf-streamlit/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
