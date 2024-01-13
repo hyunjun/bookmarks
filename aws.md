@@ -2297,6 +2297,7 @@ AWS
   * [LocalStack: Turbocharging dev loops and team collaboration for cloud applications by Waldemar Hummer - YouTube](https://www.youtube.com/watch?v=YIkKsnxb9eE)
   * [AWS 클라우드 환경 목킹을 위한 localstack - S3, SQS, EC2](https://blog.naver.com/pjt3591oo/223036003884)
   * [테라폼으로 구성하여 이해하는 네트워크 - VPC, Subnet, IGW, NAT](https://blog.naver.com/pjt3591oo/223042001872)
+  * [Integration testing with Weaver and Localstack - Dev notes](https://blog.michal.pawlik.dev/posts/scala/weaver-localstack/)
 
 # Terraform
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
