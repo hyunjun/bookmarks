@@ -839,6 +839,8 @@ Javascript
 * [마우스 따라 돌아가는 눈알 만들기 | MIRIYA](https://miriya.vercel.app/blog/NtV5JgzYpdxs4DQtr0eh)
 * [Headless 브라우저를 이용한 스냅샷 촬영 구현 | Univdev](https://univdev.page/posts/headless-browser-snapshot/)
 * [게임 자바스크립트로 지뢰찾기 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223300328033)
+* [You don't need JavaScript for that - HTMHell](https://www.htmhell.dev/adventcalendar/2023/2/)
+  * [번역 그것을 위해 자바스크립트를 사용할 필요는 없습니다](https://velog.io/@eunbinn/You-dont-need-JavaScript-for-that)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
