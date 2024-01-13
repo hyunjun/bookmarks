@@ -183,6 +183,7 @@ Scala
 * [비동기 프로그래밍과 Scala](https://wiki.cys.wo.tc/doku.php?id=%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC_scala) monix 포함
 * [Making asynchronous programs functional with IO.async and IO.cancelable - Scala tutorial - YouTube](https://www.youtube.com/watch?v=-Nlz5HLqneQ)
 * ["Simplifying Asynchronous Code With Scala Async" by Philipp Haller](https://meetupfeed.io/talk/simplifying-asynchronous-code-with-scala-async-by-philipp-haller)
+* [Async File IO | Concurrency Deep Dives](https://www.cmhteixeira.com/concurrency/asyncfileio.html)
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [Scala Sunday Reads: February 2018 Week 2](https://www.signifytechnology.com/blog/2018/02/scala-sunday-reads-february-2018-week-2)
@@ -873,6 +874,7 @@ Scala
   * [Implementing a CountDownLatch (async and dirty) - Alexandru Nedelcu](https://alexn.org/blog/2021/02/22/countdownlatch-async-dirty.html)
   * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=2MIkPOWSupw)
   * [How to retry a Future in Scala | ScalaJobs.com](https://scalajobs.com/blog/how-to-retry-future-in-scala/)
+  * [Scala's Future - Alexandru Nedelcu](https://alexn.org/blog/2024/01/10/scala-future/)
   * [futil: minimal utilities for Scala Futures](https://github.com/alexklibisz/futil)
 * Implicit
   * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
@@ -1436,6 +1438,7 @@ Scala
 * [Performance tips for IntelliJ Scala Plugin | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/02/09/performance-tips-for-intellij-scala-plugin/)
 * [IntelliJ Scala 플러그인의 성능 팁 | The Scala Plugin Blog](https://blog.jetbrains.com/ko/scala/2023/04/18/performance-tips-for-intellij-scala-plugin/)
 * [The X-Ray Mode | The IntelliJ Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/12/21/the-x-ray-mode/)
+* [The State of IntelliJ Scala Plugin - YouTube](https://www.youtube.com/watch?v=Ewb5nYRVlTA)
 
 ## IDE VS Code
 * [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
@@ -1500,6 +1503,7 @@ Scala
   * [Caliban: Functional GraphQL Library for Scala by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=oLvdhVNIC3k)
   * [Cost-Effective And Easy-To-Maintain GraphQL API Integration Tests With ZIO Test and Caliban - YouTube](https://www.youtube.com/watch?v=pYfWq4GmObY)
   * [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
+  * [GraphQL in Scala: Advanced Schema Generation](https://blog.pierre-ricadat.com/graphql-in-scala-advanced-schema-generation)
 * Capacitor [Cross-Platform Mobile dev with Scala and Capacitor | by Antoine Doeraene | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/cross-platform-mobile-dev-with-scala-and-capacitor-54e69b62b50c)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
@@ -1768,6 +1772,7 @@ Scala
   * [Exploring Scala CLI — the new scala runner | by Piotr Chabelski | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/exploring-scala-cli-the-new-scala-runner-4b958245c2e0)
   * [Replacing sbt with scala-cli in a simple project | wiringbits](https://wiringbits.net/blog/replacing-sbt-with-scala-cli-in-a-simple-project)
   * [How scala-cli Shines in Automation | by Tiago Mota | SwissBorg Engineering | Nov, 2023 | Medium](https://medium.com/swissborg-engineering/how-scala-cli-shines-in-automation-e14c9bc80534)
+  * [Update NextDNS with a Scala CLI script - Alexandru Nedelcu](https://alexn.org/blog/2024/01/10/update-nextdns-with-a-scala-cli-script/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -1812,6 +1817,7 @@ Scala
   * [Git hooks in Scala projects — the easy way!](https://blog.softwaremill.com/git-hooks-in-scala-projects-the-easy-way-cfca02741d33)
 * [ScalaPy - Use Python libraries from the comfort of Scala | ScalaPy](https://scalapy.dev/)
   * [Scale By The Bay 2020: Shadaj Laddad, Data Science in Scala with ScalaPy - YouTube](https://www.youtube.com/watch?v=hnlE9JQERjI)
+  * [Python/ScalaPy ⚡️ | Scala CLI](https://scala-cli.virtuslab.org/docs/guides/power/python/)
 * [ScalaReplDocCommands: Commands to see Scaladoc and source code in the Scala REPL](https://github.com/alvinj/ScalaReplDocCommands)
   * [Showing Scaladoc and source code in the Scala REPL | alvinalexander.com](https://alvinalexander.com/scala/show-scaladoc-source-code-in-scala-repl/)
 * [scala steward - A robot that helps you keeping your Scala projects up-to-date](https://github.com/fthomas/scala-steward)
@@ -2414,6 +2420,7 @@ Scala
 * [Containers - Associating items by Type Class](https://mhammons.hashnode.dev/containers)
 * [Containers - Associating items by Type Class](http://mark.hammons.fr/blog/containers.gmi)
 * [Containers Redux - Capturing Type Class information for myriad types](http://mark.hammons.fr/blog/containers-redux-2022-08-26.gmi)
+* [typeclasses.md at f53033efbf72fea2f784eb293d1a0653f4fd963e · lampepfl/dotty](https://github.com/lampepfl/dotty/blob/f53033efbf72fea2f784eb293d1a0653f4fd963e/docs/_docs/reference/experimental/typeclasses.md)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
