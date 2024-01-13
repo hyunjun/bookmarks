@@ -537,6 +537,7 @@
 * [SpringBoot Multi Module 프로젝트 구성하기 by Kotlin - Google Slides](https://docs.google.com/presentation/d/1O1ckUumBAsDNhFwPXV6jTPqlrftjwlhpo4khpWUwv08/edit)
 * [Spring Boot 3 Kotlin Router DSL - Codersee](https://codersee.com/spring-boot-3-kotlin-router-dsl)
 * [How to start with Coroutines in SpringBoot applications (part 1) | by Matthias Schenk | Towards Dev](https://towardsdev.com/how-to-start-with-coroutines-in-springboot-applications-e0da1f013dbd)
+* [Spring Boot & JPA에서 Java와 Kotlin을 함께 사용하기](https://tech.inflab.com/20240110-java-and-kotlin/)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
 * [@Transactional 은 어떻게 동작할까? - Google Slides](https://docs.google.com/presentation/d/1EY1wgPo7KjBZ2BGOHHohfcVWhkcvhUGYiZqcRO7s0kY/)
