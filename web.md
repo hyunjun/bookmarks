@@ -1095,6 +1095,7 @@ Web
     * 하지만 이 경우 전체 스크립트가 커지므로 최신 브라우저에서도 불필요한 코드를 받게 되는데
       * Polyfill.io를 이용하면 `User-agent`를 보고 동적으로 폴리필을 내려줄 수 있음
     * Toss에서는 `core-js`와 `browserslist`를 이용해서 `User-agent`로 폴리필을 만드는 스크립트를 작성, 서버에 넣거나 엣지 함수에 배포해서 운영
+  * [레몬베이스가 폴리필을 대하는 방법. 레몬베이스 프론트엔드 챕터의 피트스탑에 관하여 | by Jerome (Jaeuk Yoo) | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-%ED%8F%B4%EB%A6%AC%ED%95%84%EC%9D%84-%EB%8C%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-8c9f8c8bddc4)
 * [Polymer Project](https://www.polymer-project.org)
   * [github.com/polymer](https://github.com/polymer)
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
