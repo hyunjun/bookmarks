@@ -2471,6 +2471,7 @@ Programming
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
 * [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 * [폴리글랏(polyglot) 마이크로서비스 환경에서 Node.js 시스템 안정적으로 운영하기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=apw4R9EiR6s)
+* [Rebuilding Netflix Video Processing Pipeline with Microservices | by Netflix Technology Blog | Jan, 2024 | Netflix TechBlog](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
