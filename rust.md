@@ -194,6 +194,8 @@
 * [XetHub Blog | NFS > FUSE: Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
   * [NFS > FUSE: 우리가 자체 NFS 서버를 Rust로 개발한 이유 | GeekNews](https://news.hada.io/topic?id=10992)
 * [Rust Dublin September 2023 - SurrealDB - YouTube](https://www.youtube.com/watch?v=k3P9BMhbjjc)
+* [profit-first-income-calculator-desktop: Break up your income according to customizable Profilt First methodology, as a Desktop GUI](https://github.com/rodgtr1/profit-first-income-calculator-desktop)
+  * [you need to build a RUST desktop app!! - YouTube](https://www.youtube.com/watch?v=7aFgeUG9TK4)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
