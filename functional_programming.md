@@ -472,6 +472,7 @@ Functional Programming
 * [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
 * [Currying in Scala: A Useful Example](https://medium.com/@kadirmalak/currying-in-scala-a-useful-example-bd0e3a44195)
 * [Scala journals — Currying: The tale of a code example no one actually ever used | by Annette R. | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/scala-journals-currying-the-tale-of-that-one-code-example-no-one-actually-ever-used-d36db58e345b)
+* [Partially Applied Functions And Currying](https://www.scalamatters.io/post/partially-applied-functions-and-currying)
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
   * [Val vs Def functions in Scala - YouTube](https://www.youtube.com/watch?v=mqJ1W6w5ZZM)
   * [Function as inputs in Scala - YouTube](https://www.youtube.com/watch?v=0Gm4JvCxmBY)
