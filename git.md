@@ -632,20 +632,21 @@ Git
   * [git-flow 소개, 설치 및 사용법](https://hbase.tistory.com/60)
   * [git flow - 출시와 개발을 동시에 진행하는 방법 - YouTube](https://www.youtube.com/watch?v=w2F8O9J1keM)
   * [Gitflow-toolkit: A Simple toolkit for GitFlow](https://morioh.com/p/b80bb1f2b7aa)
+  * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
+  * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
+  * [브랜치 전략을 통한 프로젝트 관리 - gitflow](https://blog.naver.com/pjt3591oo/223321254284)
+  * [Git Flow에서 트렁크 기반 개발으로 나아가기 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
+  * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
   * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
   * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
-  * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
-  * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
-  * [Git Flow에서 트렁크 기반 개발으로 나아가기 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
   * [매일 배포하는 팀이 되는 여정(1) — 브랜치 전략 개선하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-1-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1a1df85b2cff)
     * 잦은 배포를 위해서 브랜치 전략을 공부하고 배포 과정을 개선해 나간 경험
     * Git Flow 전략을 쓰면서 정기 배포일을 정해놓고 배포하고 있었는데 한 번에 너무 많은 변경 사항이 같이 나가다 보니 추적도 어려웠고 배포도 점점 부담되어서 Git Flow의 단점이 보이기 시작해서 브랜치 전략을 공부
     * main 브랜치를 mainline으로 사용하는 GitHub Flow와 Trunk-Based 브랜치 전략을 공부
       * GitHub flow를 선택하고 배포 과정이 훨씬 나아졌다고 함
-  * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
   * [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [GIT 형상 관리 + 작업 단위와 PR 코드리뷰 + 협업 잘 하는 개발자 - YouTube](https://www.youtube.com/watch?v=su-rtXzThjE)
