@@ -4130,6 +4130,11 @@ Programming Books
   * [요즘 우아한 개발 - Jun’s Substack](https://recur.substack.com/p/f1c)
   * [요즘 우아한 개발](https://www.notion.so/1003/3390d4eaf7844da79789849ea9a05cdc)
   * [요즘 우아한 개발](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-%EA%B0%9C%EB%B0%9C)
+* [스트리트 코더](https://1003.notion.site/c73313f395fc47fabbd11bc033e556d5)
+  * ★★★☆☆ 2023.01.14 좋은 software 개발을 위해 각자 알고 실천해야 할 사항들로 참고하기 좋은 책. 팀으로서 만들법한 부분들도 많지만, 개인의 발전을 위해 필요하고 또 실천해야 할 사항들에 더 가깝다고 생각한다
+  * 한라 005.13-카892ㅅ
+  * [스트리트 코더 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003842)
+  * [gilbutITbook/080325: 스트리트 코더](https://github.com/gilbutITbook/080325)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
