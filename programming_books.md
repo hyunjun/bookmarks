@@ -4135,6 +4135,10 @@ Programming Books
   * 한라 005.13-카892ㅅ
   * [스트리트 코더 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003842)
   * [gilbutITbook/080325: 스트리트 코더](https://github.com/gilbutITbook/080325)
+  * [스트리트 코더](https://github.com/hyunjun/bookmarks/blob/master/programming_books/street_coder.md)
+  * [스트리트 코더 - Jun - Medium](https://nymets.medium.com/%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EC%BD%94%EB%8D%94-f647bda448a2)
+  * [스트리트 코더 - Jun’s Substack](https://recur.substack.com/p/7fd)
+  * [스트리트 코더](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EC%BD%94%EB%8D%94)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
