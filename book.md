@@ -1257,6 +1257,9 @@ Book
 * [난중일기 완역본](https://1003.notion.site/c0037cfb38994f21b2668362a6aa087c)
   * ★★★☆☆ 2024.01.14 이순신 장군의 (원균이나 선조로 인한) 어려움이 가장 와닿았고, 진중의 급박한 상황에서도 이렇게 꾸준하게 기록을 남기고 여러가지 일을 세세하게 적어 조선을 구했을 뿐만 아니라 후손에게도 여러 역사적 사료를 남겨주셨으니 역시 위대한 장군이란 생각이 절로 든다.
   * 우당 문911.0553-이57ㄴ
+  * [난중일기 완역본](https://github.com/hyunjun/bookmarks/blob/master/books/nanjoong_ilgi.md)
+  * [난중일기 완역본 - Jun - Medium](https://nymets.medium.com/%EB%82%9C%EC%A4%91%EC%9D%BC%EA%B8%B0-%EC%99%84%EC%97%AD%EB%B3%B8-e0aac7230f82)
+  * [난중일기 완역본](https://jh4hj.tistory.com/entry/%EB%82%9C%EC%A4%91%EC%9D%BC%EA%B8%B0-%EC%99%84%EC%97%AD%EB%B3%B8)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
