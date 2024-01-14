@@ -1157,6 +1157,7 @@ SQL
 * [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * [postgres json 값 가져오기 방법으로 case 절을 리팩토링 해 봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/02/postgres-json-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-case-%EC%A0%88%EC%9D%84-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [PostgreSQL 모든 View 의 접근 기록 테이블에 적재하기 (애플리케이션 변경 없이)](https://jojoldu.tistory.com/742)
+* [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
