@@ -57,6 +57,7 @@ PHP
 * [ChatGPT? PHP guzzle로 카카오 KoGPT API 연동하기 | 웹으로 말하기](https://mytory.net/archives/13821)
 * [맥 PHP 7.4의 icu4c 관련 에러 해결 – 형우의 웹개발](https://mytory.net/archives/15155)
 * [PHP, 이 함수가 어디에서 실행되는 건지, 파일이 어디에서 인클루드되는 건지 찾아야 할 때 – 형우의 웹개발](https://mytory.net/archives/15875)
+* [PHP로 간단한 웹사이트 만들기(회원가입, 로그인)](https://webnautes.tistory.com/1989)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
