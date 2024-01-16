@@ -361,6 +361,8 @@ Artificial Intelligence
   * [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Searc | GeekNews](https://news.hada.io/topic?id=10876)
 * [PyData Boston September Meetup Session 2: Intro to Weaviate open-source vector database. - YouTube](https://www.youtube.com/watch?v=9fMP-Ny4j4o)
 * [랭체인의 핵심, Retrieval - Vectorstores - YouTube](https://www.youtube.com/watch?v=fE4SH2vEsdk)
+* [랭체인러닝데이 문서로더부터 벡터스토어까지 쌩 파이썬으로 만들어보기](https://aifactory.space/task/2718/discussion/817)
+  * [문서로더부터 벡터스토어까지 쌩 파이썬으로 만들어보기](https://tykimos.github.io/2024/01/16/building_a_simple_vectorstore/)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
