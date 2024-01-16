@@ -1814,6 +1814,7 @@ Java
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (2)](https://woolbro.tistory.com/40)
 * [Spring JDBC](https://okdevtv.com/mib/spring/jdbc)
   * [IntelliJ MySQL을 JPA로 연결하기 - YouTube](https://www.youtube.com/watch?v=JvRTf-zeLeE)
+  * [Spring JDBC 성능 문제, 네트워크 분석으로 파악하기](https://velog.io/@tosspayments/Spring-JDBC-%EC%84%B1%EB%8A%A5-%EB%AC%B8%EC%A0%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0)
 * [mybatis $ # 차이를 알아봅시다](https://codingdog.tistory.com/entry/mybatis-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
 * [스프링 부트 MyBatis - YouTube](https://www.youtube.com/watch?v=OYVs5aBjHfM)
