@@ -2251,6 +2251,7 @@ Business
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
 * [스타트업 스토리텔링 – Chang Kim's Homepage](https://www.changkim.me/2023/12/11/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ed%85%94%eb%a7%81/)
 * [How to Build a Startup | Udacity Free Courses](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+* [Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz) - YouTube](https://www.youtube.com/watch?v=CBYhVcO4WgI)
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집 - YouTube](https://www.youtube.com/watch?v=GJ6Sw4T5gAI)
@@ -2600,6 +2601,7 @@ Business
     * 직원의 연봉을 공개하는 것은 질투를 줄이고 인종 및 성평등을 촉진하는 효과
     * cal.com도 원격 근무를 하므로 글로벌 급여를 도입할 것인지 현지화된 급여를 도입할 건인지 고민했지만, 글로벌 급여를 도입하기로 결정
 * ['장사천재 백사장'은 모든 스타트업이 꼭 봐야.. : 네이버블로그](https://blog.naver.com/madaboutit/223263393249) 본질, 고객
+* [한국 스타트업은 왜 같은 실수를 반복하는가 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/moebius20240116)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
