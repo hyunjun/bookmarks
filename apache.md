@@ -1313,6 +1313,7 @@ Apache
 * [What is Apache Pinot? (and User-Facing Analytics) | A StarTree Lightboard by Tim Berglund - YouTube](https://www.youtube.com/watch?v=_lqdfq2c9cQ)
 * [Uber Freight Carrier Metrics with Near-Real-Time Analytics | Uber Blog](https://www.uber.com/en-GB/blog/uber-freight-carrier-metrics-with-near-real-time-analytics/)
 * [An Intro to Realtime Distributed Datastores with Apache Pinot • Tim Berglund • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=FfaA30RmP2w)
+* [Introduction to Real-Time Analytics with Apache Pinot • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=mwAH6t772E4)
 
 # PredictionIO
 * [PredictionIO](http://predictionio.incubator.apache.org/)
