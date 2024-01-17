@@ -2471,7 +2471,11 @@ Programming
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
 * [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 * [폴리글랏(polyglot) 마이크로서비스 환경에서 Node.js 시스템 안정적으로 운영하기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=apw4R9EiR6s)
-* [Rebuilding Netflix Video Processing Pipeline with Microservices | by Netflix Technology Blog | Jan, 2024 | Netflix TechBlog](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
+* [Rebuilding Netflix Video Processing Pipeline with Microservices | by Netflix Technology Blog | Jan, 2024 | Netflix TechBlog](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359/)
+  * Netflix에서 2007년 스트리밍 서비스 출시 이후 동영상 처리 파이프라인을 개선
+  * 2014년부터 3세대 플랫폼인 Reloaded로 운영해 왔는데 모든 미디어 자산을 처리하는 모노리식 시스템으로 만들어졌기에 수년 동안 확장되면서 복잡도 증가, 한계 직면
+  * 기능이 결합되어 있어서 기능 추가가 어려웠고 모노리식 구조로 재사용되지 않아야 하는 코드도 재사용되며 개발 속도를 늦추고 배포 규모가 커져서 프로덕션에 나가기까지 2주에서 4주 소요
+  * 그래서 2018년부터 차세대 플랫폼인 Cosmos를 개발하면서 Reloaded의 확장성과 안정성은 유지하면서 유연성과 개발 속도를 목표로 하면서 마이크로 서비스로 만들게 되었고 2023년 9월 전환 완료
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -4462,6 +4466,11 @@ Programming
   * [Setting Up an Internal Developer Portal With IaC and Pulumi - YouTube](https://www.youtube.com/watch?v=097z9NVNC8I)
 * [Radius](https://radapp.io/)
   * [Introducing Radius: A new open-source project for teams building cloud-native apps - YouTube](https://www.youtube.com/watch?v=mT_NWFnYn0A)
+* [target-cli: A CLI tool to manage context profiles for HashiCorp tools](https://github.com/devops-rob/target-cli)
+  * [Target CLI: The context switcher for HashiCorp tools](https://www.hashicorp.com/blog/target-cli-the-context-switcher-for-hashicorp-tools)
+    * HashiCorp의 Senior Developer Advocate가 만든 Target CLI의 소개 글
+    * HashiCorp에는 Terraform, Vault, Boundary, Consul, Nomad 등의 도구가 있지만 각 클러스터 간의 전환을 위해서는 환경변수 설정 필요
+    * Target CLI는 이러한 컨텍스트 프로필의 전환을 쉽게 해주는 역할
 * [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
