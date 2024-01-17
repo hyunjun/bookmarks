@@ -682,6 +682,8 @@ Docker
   * 이 런타임은 모두 Wasm에 대한 containerd shim을 쉽게 만들 수 있는 `runwasi` 라이브러리 사용
 * [Run x86 Docker containers with Rosetta on Mac | Level Up Coding](https://levelup.gitconnected.com/docker-on-apple-silicon-mac-how-to-run-x86-containers-with-rosetta-2-4a679913a0d5)
   * macOS용 Docker Desktop 4.16 버전부터 Rosetta 지원 추가, 해당 기능을 활성화하면 애플 실리콘 맥에서도 쉽게 x86 기반 Docker 컨테이너를 빌드, 실행 가능
+* [Announcing Builds View in Docker Desktop GA | Docker](https://www.docker.com/blog/announcing-builds-view-in-docker-desktop-ga/)
+  * Docker Desktop 4.26부터 빌드 뷰 제공. 빌드뷰를 통해서 실패한 빌드의 로그를 볼 수 있고 캐싱 여부도 확인 가능
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
 * [AAAP – 작업환경 as a Service 개발기 – tech.kakao.com](https://tech.kakao.com/2022/12/15/aaap/)
 * [Docker: Its Hidden Complexity will be the Death of your Startup](https://www.derpytools.com/docker-its-hidden-complexity-will-be-the-death-of-your-startup/)
@@ -2513,6 +2515,9 @@ Docker
   * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
   * [Docker Removed from Kubernetes - How To Switch To ContainerD - YouTube](https://www.youtube.com/watch?v=MUcs5ekgtQs)
   * [Containerd Adds Support for a New Container Type: Wasm Containers](https://www.infoq.com/news/2023/02/containerd-wasi/)
+  * [Deprecation Warnings in containerd - Getting Ready for 2.0!](https://samuel.karp.dev/blog/2024/01/deprecation-warnings-in-containerd-getting-ready-for-2.0/)
+    * containerd가 2017년 1.0 릴리스 이후 6년간의 개발을 통해 2.0가 나올 예정이므로 이를 준비하라고 알리는 글
+    * `ctr deprecations list` 명령어로 사용량 기반으로 중단되는 기능을 확인 가능
 * [devbox: Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
   * [Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구 | GeekNews](https://news.hada.io/topic?id=7279)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
