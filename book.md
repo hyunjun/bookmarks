@@ -850,6 +850,14 @@ Book
   * [주켄 사람들. Tags: management Date: January 6, 2024… | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EC%A3%BC%EC%BC%84-%EC%82%AC%EB%9E%8C%EB%93%A4-aab5b5151ac3)
   * [주켄 사람들 - Jun’s Substack](https://recur.substack.com/p/0f0)
   * [주켄 사람들](https://jh4hj.tistory.com/entry/%EC%A3%BC%EC%BC%84-%EC%82%AC%EB%9E%8C%EB%93%A4)
+* [처음부터 다시 배우는 서비스 디자인 씽킹(개정판)(세종도서 선정작) - 골든래빗](https://goldenrabbit.co.kr/product/%ec%b2%98%ec%9d%8c%eb%b6%80%ed%84%b0-%eb%8b%a4%ec%8b%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%94%94%ec%9e%90%ec%9d%b8-%ec%94%bd%ed%82%b9%ea%b0%9c%ec%a0%95%ed%8c%90/)
+  * ★★★☆☆ 2024.01.15~17 product나 service를 만드는 과정 자체를 자세하게 파고들어 설명한다. 내가 이 모든 process를 자세히 알 필요는 없겠지만 이해하고 가끔 적용하는 데 참고할 수 있다면 매우 유용할 거로 생각한다.
+  * 제주 325.512-배53서
+  * [처음부터 다시 배우는 서비스 디자인 씽킹](https://1003.notion.site/8bceff53091940c897c971235042d11c)
+  * [처음부터 다시 배우는 서비스 디자인 씽킹](https://github.com/hyunjun/bookmarks/blob/master/books/service_design_thinking.md)
+  * [처음부터 다시 배우는 디자인 씽킹. ★★★☆☆ 2024.01.15~17 product나 service를… | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%94%BD%ED%82%B9-53e501695d0a)
+  * [처음부터 다시 배우는 디자인 씽킹 - Jun’s Substack](https://recur.substack.com/p/b1b)
+  * [처음부터 다시 배우는 디자인 씽킹](https://jh4hj.tistory.com/entry/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%94%BD%ED%82%B9)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
