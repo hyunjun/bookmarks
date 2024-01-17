@@ -2113,6 +2113,10 @@ Business
 * [임팩트에 집중했더니 생긴 일. 기대했던 변화들과 기대 못했던 긍정적 변화들까지 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EC%9E%84%ED%8C%A9%ED%8A%B8%EC%97%90-%EC%A7%91%EC%A4%91%ED%96%88%EB%8D%94%EB%8B%88-%EC%83%9D%EA%B8%B4-%EC%9D%BC-a190446b85cf)
 * [토스에서 하루 만에 제품 출시하는 법](https://toss.tech/article/launching-product-in-one-day)
 * [송금할 때 은행 이름을 꼭 입력해야 할까요?](https://toss.tech/article/toss-money-transfer-bank-recommendation)
+* [LukeW | The More Features You Add...](https://www.lukew.com/ff/entry.asp?2046)
+  * 여러 연구 결과에 따르면 사람들은 제품 사용 전에는 기능 수에 따라 품질을 판단하고 제품을 사용한 후에는 너무 많은 기능으로 사용성에 문제가 있다는 걸 깨닫게 된다고 함
+  * 제품의 시기에 따라 영업의 결과도 달라지는데 기업은 초기 매출을 극대화하기 위해 기능이 많은 제품을 개발하지만, 이후에는 고객 유지를 극대화하기 위해서 기능보다는 사용 편의성을 우선시해야 함
+  * 또한 기능이 많아지면 유지보수도 많아져서 속도도 느려지게 되므로 조심해야
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
