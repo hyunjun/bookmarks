@@ -510,6 +510,14 @@ Python
 * [Day 16 : Live Weather Updates with Python - YouTube](https://www.youtube.com/watch?v=DpZIA0vzT7Y)
 * [Bitbucket Server Api Python Code Example](https://www.skolaparthi.com/bitbucket-api/)
 * [Extract Table from HTML using Python - PyShark](https://pyshark.com/extract-table-from-html-using-python/)
+* [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+  * CPython 핵심 개발자인 Brandt Bucher가 Python 3.13에 copy-and-patch JIT을 추가하는 Pull Request 작성(현재 Draft 상태)
+  * 인터프리터는 실행할 때마다 opcode라 부르는 바이트 코드 이름을 if 문과 비교하는데
+    * 실행할 때마다 발생하는 오버헤드를 없애기 위해 시퀀스로 코드를 생성하는 것이 JIT이 하는 일
+  * 이번에 제안된 것은 copy-and-patch JIT
+    * 인터프리터 루프는 해석한 뒤 실행하는 두 가지 과정을 거치는데 copy-and-patch JIT은 각 명령의 인스트럭션을 복사한 뒤에 바이트 코드 인수를 채우는(patch) 방식으로 진행
+    * copy-and-patch JIT을 선택한 이유는 일반 Python 사용자가 이를 실행할 일은 없고 CPython을 빌드하고 패키징하는 CI 머신에서 LLVM JIT 도구만 설치하면 되기 때문
+    * 초기 벤치마크에서는 2~9%의 성능 향상이 있는데 이 결과가 작아 보일 수 있으나 최적화 작업의 첫 단계로 생각하면 됨
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
