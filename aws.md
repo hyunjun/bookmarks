@@ -1317,6 +1317,7 @@ AWS
 * [Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
 * [Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/)
 * ["안정적인 11st EKS 운영기" | 이무열 - YouTube](https://www.youtube.com/watch?v=Fby5Vy_9_bU)
+* [Amazon EKS extended support for Kubernetes versions pricing | Containers](https://aws.amazon.com/ko/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
