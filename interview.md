@@ -1011,6 +1011,7 @@ Interview
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
+* [cv: Print-friendly, minimalist CV page](https://github.com/bartoszjarocki/cv) 간단한 정적 파일을 통해 이력서 페이지를 만들어주는 프로젝트
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [Dopefolio 🔥 - Portfolio Template for Developers 🚀](https://github.com/rammcodes/Dopefolio)
   * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
