@@ -2245,8 +2245,13 @@ App
         }
     * [grida cli 소개페이지](https://grida.co/cli)가 grida cli 로 작성
     * [code: Design to code engine. A design ✌️ code standard. Supports React, Flutter and more](https://github.com/gridaco/code)
-  * [OROR Forge: Figma to Code 도구 제작기 (1) 디자인을 코드로 만들어보자! – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-1/)
-  * [OROR Forge: Figma to Code 도구 제작기 (2) 실전용으로 만들기 – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-2/)
+  * OROR Forge: Figma to Code 도구 제작기
+    * [(1) 디자인을 코드로 만들어보자! – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-1/)
+    * [(2) 실전용으로 만들기 – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-2/)
+    * Figma로 된 디자인을 코드로 만드는 시간을 줄이기 위해 자동화 도구를 만드는 과정
+    * 상용 Figma to Code 솔루션 중 Amplify Sudio와 Locofy를 살펴보면서 인상적인 기능이 있었지만, 각 한계점이 있었고 직접 만들기로 결정
+    * 이 OROR Forge에서 Figma의 디자인을 픽셀 퍼펙트한 코드를 생성하기 위해 Figma의 Property, Auto Layout, Constraints, Text를 CSS의 Property, Flexbox, Postions, Text로 변환한 과정 설명
+    * 이를 실제 현업에서 활용하기 위해 인라인 스타일 대신 TailwindCSS를 사용하기로 하고 인라인 스타일을 TailwindCSS로 매핑하는 빌더 함수를 구현하고 HTML 코드고 React 컴포넌트로 변환해서 코드 생성을 자동화한 과정 설명
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
