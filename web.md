@@ -865,6 +865,10 @@ Web
 * [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
   * CSS로 레이아웃을 다룰 수 있는 CSS Grid를 실제로 예제로 동작을 테스트해 보면서 설명하는 튜토리얼
   * 기본적인 Grid의 동작부터 행과 열의 지정, %와 `fr` 단위에 따라 어떻게 동작하는지, 자식 요소가 늘어날 때 Grid 레이아웃이 어떻게 동작하는지를 보여주면서 이해하기 쉽게 설명하고 다양한 레이아웃을 그리기 위한 동작 방식도 보여줌
+* [How I'm Writing CSS in 2024 | Lee Robinson](https://leerob.io/blog/css)
+  * Vercel의 Lee Robinson이 nesting, :has(), 컨테이너 쿼리 등의 크로스 브라우저 지원과 CSS 도구 등에 관한 생각을 정리한 글
+  * 이제 최신 CSS 기능이 대부분의 브라우저에서 지원되면서 Sass나 Less 없이도 최신 CSS를 작성할 수 있지만 컴파일러를 사용해서 사용하지 않는 스타일을 줄이고 고유한 파일명을 생성해서 캐싱 가능
+  * 동적인 화면을 위해서는 CSS를 스트리밍해야 하는데 이를 위해서 CSS 모듈, Tailwind CSS, StyleX를 사용 가능
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
