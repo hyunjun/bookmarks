@@ -406,3 +406,9 @@ Monitoring
 * [DEVIEW 2023 :: VictoriaMetrics: 시계열 데이터 대혼돈의 멀티버스](https://deview.kr/2023/sessions/558)
 * [VictoriaMetrics Overview](https://yang1s.tistory.com/22)
 * [What makes VictoriaMetrics the next leading choice for open-source monitoring | by Amit Karni | Israeli Tech Radar | Medium](https://medium.com/israeli-tech-radar/what-makes-victoriametrics-the-new-de-facto-standard-choice-for-open-source-monitoring-5d2b66b6e292)
+* [Prometheus Vs Victoria Metrics Load Testing | by 'Celebration of Engineering' | Jan, 2024 | Medium](https://zetablogs.medium.com/prometheus-vs-victoria-metrics-load-testing-3fa0cc782912)
+  * Prometheus와 Vitoria Metrics 성능 비교
+  * Prometheus는 압축할 때 active time series를 메모리에 저장하지만, Vitoria Metrics는 VM insert 스토리지에 저장
+    * 이런 설계의 차이는 성능에도 영향
+  * active time series, 수집률, 수집 대상의 수를 부하 테스트를 하면서 프로덕션에 운영하는 정도의 매트릭으로 둘을 비교
+    * 부하가 커지면 Prometheus는 메모리가 Vitoria Metrics는 CPU가 커지는 특징, Vitoria Metrics에 최적화한 뒤에는 전체적으로 Vitoria Metrics 리소스 사용이 훨씬 적은 것으로 확인
