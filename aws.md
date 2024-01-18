@@ -1820,7 +1820,6 @@ AWS
   * [AWS CDK로 서버없이 서비스 운영해보기 (3) - Nuxt - 완두블로그](https://wani.kr/posts/2020/02/19/aws-cdk-3-nuxt/)
   * [CDK로 EKS 클러스터 풀스택 관리하기 :: CDK로 멀티 리전 EKS 클러스터 풀스택 배포](https://cdk-eks-devops.workshop.aws/ko)
   * [CDK code snippet-1 – Jinho's journal about software engineering](https://jinhoyoo.github.io/CDK-code-snippet1/)
-  * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [AWS Amplify 애플리케이션을 AWS CDK와 함께 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-amplify-application-with-aws-cdk/)
   * [Announcing CDK for Terraform on AWS | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/announcing-cdk-for-terraform-on-aws/)
   * [Deploy a NextJS 13 application to Amplify with the AWS CDK | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/deploy-a-nextjs-13-application-to-amplify-with-the-aws-cdk/)
@@ -1828,6 +1827,8 @@ AWS
   * [데브옵스 CDK for Terraform으로 나만의 AWS Resource 정의하기 | 황성찬, AWS Community Builder - YouTube](https://www.youtube.com/watch?v=JssIKrwXeZg)
   * [AWS Cloud Development Kit(CDK)을 활용한 포티투닷(42dot)의 Fleet Management System(FMS) 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloud-development-kit-cdk-42dot-fleet-management-systemfms-automation/)
   * [AWS re:Invent 2023 - Infrastructure as code showdown: AWS CDK and declarative tools (COM213) - YouTube](https://www.youtube.com/watch?v=LtsML9ufNQs)
+  * [cdk8s](https://cdk8s.io/) helm template 대체 가능한 sdk
+    * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
