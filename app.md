@@ -961,6 +961,7 @@ App
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Visual Studio Code를 사용한 C/C++ 개발환경 만들기(Windows/Ubuntu) - 멈춤보단 천천히라도](https://webnautes.tistory.com/1158)
+    * [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/1854)
     * [코테준비 C++ 핵심 정리 - 1. 환경 설정 (윈도우, 맥OS, VSCode, Visual Studio Code, XCode, g++, gcc, clang) - YouTube](https://www.youtube.com/watch?v=uDq7woPOZ_A)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
