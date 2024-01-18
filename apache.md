@@ -478,6 +478,7 @@ Apache
   * Kafka consumer offset을 간단하게 모니터링하는 방법
   * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
 * [MONITORING KAFKA CONSUMER LAG IN SECONDS](https://hopsandthings.com/monitoring-kafka-consumer-lag-in-seconds/)
+* [Kafka Consumer: kafka broker로부터 메시지 가져오기](https://ooeunz.tistory.com/136)
 * [Apache Kafka Monitoring – Methods & Tools](https://data-flair.training/blogs/kafka-monitoring/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [Elastic Stack에는 Kafka면 충분합니다 - 2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
@@ -830,6 +831,10 @@ Apache
 * [Kafka-Sprout: Web GUI for Kafka Cluster Management](https://github.com/oslabs-beta/Kafka-Sprout)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
+* [kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
+  * [Kafka-UI Tool 을 이용하여 Kafka 관리하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163980)
+  * [kafka monitoring 2번째(kafka-ui). 안녕하세요 지난번 카프카 클러스터 모니터링 관련된 글을 작성했는데… | by Smart-JYS | Medium](https://medium.com/@jyson88/kafka-monitoring-2%EB%B2%88%EC%A7%B8-kafka-ui-25dd58aa4f7d)
+  * [UI for Apache Kafka – 카프카 모니터링 툴 :: 잡학문구](https://yooloo.tistory.com/98)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
 * [kcctl: A modern and intuitive command line client for Kafka Connect](https://github.com/kcctl/kcctl)
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
