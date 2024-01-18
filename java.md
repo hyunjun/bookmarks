@@ -318,6 +318,7 @@ Java
   * [How to use PreparedStatement in Java - JDBC Example Tutorial | Java67](https://www.java67.com/2019/08/how-to-use-preparedstatement-in-jdbc-java.html)
   * [JDBC url의 serverTimezone 속성에 대해 알아보기](https://kim-jong-hyun.tistory.com/132)
   * [10분 테코톡 코코닥의 JDBC - YouTube](https://www.youtube.com/watch?v=ONYVhJGl48U)
+  * [Spring JDBC 성능 문제, 네트워크 분석으로 파악하기](https://toss.tech/article/engineering-note-7)
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
     * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
