@@ -499,6 +499,7 @@
 * [Learn Rust!](https://gist.github.com/noxasaxon/7bf5ebf930e281529161e51cd221cf8a)
 * [2023-MatKor-Rust-Interpreter: 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기](https://github.com/utilForever/2023-MatKor-Rust-Interpreter)
 * [Rust 찍어먹기 :: GS Retail Engineering](https://gsretail.tistory.com/39)
+* [Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery - YouTube](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [Rust for Python data engineers — Karim Jedda - YouTube](https://www.youtube.com/watch?v=x2ADMZfBqa4)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
