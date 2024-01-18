@@ -694,5 +694,7 @@ Programming Language
 * [『프로그래밍 언어 속 타입』(가제) 책 소개 :: Jaemin Hong's Blog](https://blog.hjaem.info/2)
   * [타입으로 견고하게 다형성으로 유연하게 - YouTube](https://www.youtube.com/watch?v=7VGViDH9Un0)
     * [타입으로 견고하게 다형성으로 유연하게 - YouTube](https://www.youtube.com/watch?v=Xpfk5cLvnHQ)
+    * [타입으로 견고하게 다형성으로 유연하게](https://docs.google.com/presentation/d/1hBiip8L8kuImBDlm2eaienPr143zi7EmqlBFq9n9FJY)
 * [A Taste of Type Theory • Bartosz Milewski • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=--2jJwdQ5js)
 * [Why Static Typing Came Back • Richard Feldman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=Tml94je2edk)
+* [Java and Scala's type systems are unsound: the existential crisis of null pointers | Prof. Nada Amin](https://namin.seas.harvard.edu/publications/java-and-scalas-type-systems-are-unsound-existential-crisis-null-pointers)
