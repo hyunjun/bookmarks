@@ -1319,6 +1319,7 @@ Business
 * [Technical Leadership Matters • Dave Thomas • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=MSkRUcSPr1o)
 * [What You Need To Be A CTO • Simon Raik-Allen • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=alQzU0Uob5Y)
 * [2023년 CTO 회고](https://jojoldu.tistory.com/766)
+* [CTO 인터뷰 레몬베이스 엔지니어링 그룹은 기술 과제를 어떻게 해결하고 있는가 | by Jane (이다솜) | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/cto-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B7%B8%EB%A3%B9%EC%9D%80-%EA%B8%B0%EC%88%A0-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-a2f7a070199b)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -2108,6 +2109,7 @@ Business
 * [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
 * [09화 모호한 액티베이션과 아하모먼트 구별하기](https://brunch.co.kr/@cliche-cliche/211) AARRR
 * [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
+* [구독과 리텐션 밸런스 게임. 구독 전환율 2배 개선 vs D1 리텐션 10% 개선 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85%EA%B3%BC-%EB%A6%AC%ED%85%90%EC%85%98-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EA%B2%8C%EC%9E%84-1f7bd516f229)
 * [이제 구독도 빌드업 해야 할 때. 유저도 행복하고 매출도 행복한 구독 엔트리 전략 | by Stephan Seunghwan Seo | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EC%9D%B4%EC%A0%9C-%EA%B5%AC%EB%8F%85%EB%8F%84-%EB%B9%8C%EB%93%9C%EC%97%85-%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C-48dbc790fc4c)
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
 * [임팩트에 집중했더니 생긴 일. 기대했던 변화들과 기대 못했던 긍정적 변화들까지 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EC%9E%84%ED%8C%A9%ED%8A%B8%EC%97%90-%EC%A7%91%EC%A4%91%ED%96%88%EB%8D%94%EB%8B%88-%EC%83%9D%EA%B8%B4-%EC%9D%BC-a190446b85cf)
