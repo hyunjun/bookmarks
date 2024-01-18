@@ -697,4 +697,4 @@ Programming Language
     * [타입으로 견고하게 다형성으로 유연하게](https://docs.google.com/presentation/d/1hBiip8L8kuImBDlm2eaienPr143zi7EmqlBFq9n9FJY)
 * [A Taste of Type Theory • Bartosz Milewski • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=--2jJwdQ5js)
 * [Why Static Typing Came Back • Richard Feldman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=Tml94je2edk)
-* [Java and Scala's type systems are unsound: the existential crisis of null pointers | Prof. Nada Amin](https://namin.seas.harvard.edu/publications/java-and-scalas-type-systems-are-unsound-existential-crisis-null-pointers)
+* [Java and Scala's type systems are unsound: the existential crisis of null pointers | Prof. Nada Amin](https://namin.seas.harvard.edu/publications/java-and-scalas-type-systems-are-unsound-existential-crisis-null-pointers) 언어 설계부터 생긴 오류에 대한 논문
