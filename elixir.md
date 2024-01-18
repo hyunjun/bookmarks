@@ -290,6 +290,7 @@ Elixir
   * [Validate Data in a Phoenix Application for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/10/10/validate-data-in-a-phoenix-application-for-elixir.html)
   * [Setting Up a Multi-tenant Phoenix App for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/11/21/setting-up-a-multi-tenant-phoenix-app-for-elixir.html)
   * [Elixir and Phoenix can do it all! · The Phoenix Files](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
+  * [What is Phoenix LiveView? An introductory overview | Curiosum](https://curiosum.com/blog/phoenix-liveview-overview)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
