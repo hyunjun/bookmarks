@@ -1059,6 +1059,7 @@ Docker
 * [배포를 빠르게 - DIY(Deploy It Yourself)](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C/)
 * [if(kakao)dev2022 모든 것이 kubernetes인 세상에서 안전하게 배포하기](https://if.kakao.com/2022/session/59)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Blue/Green 배포하기 (scratch 버전)](https://ahnseungkyu.com/307)
+* [쿠어클-33 쿠버네티스 배포 파이프라인을 구축하는 자세](https://www.linkedin.com/posts/1pro_level1-level2-level3-activity-7153616544680304641-Htz9/)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [How to switch container runtime in a Kubernetes cluster - DEV Community](https://dev.to/stack-labs/how-to-switch-container-runtime-in-a-kubernetes-cluster-1628)
 * [CRI and ShimV2: A New Idea for Kubernetes Integrating Container Runtime - Alibaba Cloud Community](https://www.alibabacloud.com/blog/cri-and-shimv2-a-new-idea-for-kubernetes-integrating-container-runtime_594783)
