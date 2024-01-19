@@ -392,6 +392,9 @@ Book
   * [인간을 진화시키는 AI - Jun - Medium](https://nymets.medium.com/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-ai-b2ca12d54834)
   * [인간을 진화시키는 AI - Jun’s Substack](https://recur.substack.com/p/ai)
   * [인간을 진화시키는 AI](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-AI)
+* [만화로 배우는 잡학지식, 잡학툰 더 게임 오리진 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9e%a1%ed%95%99%ed%88%b0-%eb%8d%94-%ea%b2%8c%ec%9e%84-%ec%98%a4%eb%a6%ac%ec%a7%84/)
+  * ★★★☆☆ 2024.01.14
+  * 제주 691.15-돈39더
 * (NOT COMPLETED) [그렇게 인생은 이야기가 된다](https://brunch.co.kr/@sopia1357/609)
   * ★★★☆☆ 2023.12.27~28 나쁘진 않지만 너무 잔잔하게만 가는게 계속 흥미가 가진 않음
   * 한라 848-해14ㄱ 탐라 문126.504-해13ㄱ 우당 문802-해13ㄱ 제주 848-해13그
