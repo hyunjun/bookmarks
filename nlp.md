@@ -1518,6 +1518,7 @@ NLP
   * [챗GPT·빙챗·바드를 부끄럽게 만든 1등 클로드 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=151525)
   * [Anthropic's "safer" Claude 2 AI Is Here - Dataconomy](https://dataconomy.com/2023/07/12/claude-2-ai-is-out-chatgpt/)
 * [dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
+* [data-modori](https://github.com/teamreboott/data-modori/)
 * [DB-GPT](http://docs.dbgpt.site/docs/overview)
   * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
