@@ -1608,6 +1608,7 @@ Java
   * [Quarkus Community BOF - YouTube](https://www.youtube.com/watch?v=dplbadDOI0Q)
   * [Contract testing with Pact and Quarkus by Holly Cummins - YouTube](https://www.youtube.com/watch?v=4xoJmz6bWB4)
   * [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7bvQXb3Nv0E)
+  * [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble - YouTube](https://www.youtube.com/watch?v=fgo4hpUqmIk)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
