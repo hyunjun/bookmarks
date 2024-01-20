@@ -213,9 +213,6 @@ Scala
 * [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
 * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b) type safety
-* [The Unison Language and its Scala-based Runtime—Paul Chiusano](https://www.youtube.com/watch?v=knqlWboqf_U)
-  * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
-* [Trying out Unison, part 1: code as hashes](https://softwaremill.com/trying-out-unison-part-1-code-as-hashes/)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
 * [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
 * [Immutability by Example - Building a Purely Functional Data Validator | ScalaJobs.com](https://scalajobs.com/blog/immutability-by-example/)
