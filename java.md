@@ -1193,6 +1193,7 @@ Java
   * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
   * [Prepare for what "Loom"s ahead by Dr. Heinz Kabutz - YouTube](https://www.youtube.com/watch?v=kb_cLmMAff4)
   * [Coroutines and Loom behind the scenes by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=zluKcazgkV4)
+  * [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/92-Virtual-Threads-Looming-with-Adam-Warski-e2ec9d0)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
