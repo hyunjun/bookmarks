@@ -3510,6 +3510,15 @@ Programming Books
   * [프로덕트 리더의 성공을 위한 공식](https://brunch.co.kr/@graypool/1062)
   * [프로덕트의 전략적 로드맵을 만드는 균형 잡기](https://brunch.co.kr/@graypool/1279)
   * [실제 비용과 가치 검증은 프로덕트 릴리즈 이후 발생](https://brunch.co.kr/@graypool/1328)
+* [프로덕트 매니저 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/pmpo/)
+  * ★★★☆☆ 2023.01.18~19 다양한 PO, PM 출신들의 이야기를 통해 어떤 원칙을 가지고 product 만드는 일을 해야 할지 생각을 하나씩 정리해볼 수 있는 좋은 책
+  * 제주 325.571-장95프
+  * [컴퓨터 vs 책: 독서광 프로덕트 매니저 원칙](https://jhrogue.blogspot.com/2023/12/blog-post_27.html)
+  * [프로덕트 매니저 원칙](https://1003.notion.site/6b10a6cac6b2437b866ccf4f0744bc87)
+  * [프로덕트 매니저 원칙](https://github.com/hyunjun/bookmarks/blob/master/programming_books/product_manager_principle.md)
+  * [프로덕트 매니저 원칙. 프로덕트 매니저 원칙 — 골든래빗 | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9B%90%EC%B9%99-81044973bc50)
+  * [프로덕트 매니저 원칙 - Jun’s Substack](https://recur.substack.com/p/67f)
+  * [프로덕트 매니저 원칙](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9B%90%EC%B9%99)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
   * [프로페셔널 제품관리자 - YouTube](https://www.youtube.com/playlist?list=PLBNdLLaRx_rJY-EZOFHH3v9GyAvYAvKHi)

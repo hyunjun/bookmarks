@@ -9,7 +9,7 @@ Score: ★★★☆☆
 - [프로덕트 매니저 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/pmpo/)
     - ★★★☆☆ January 18, 2024 → January 19, 2024  다양한 PO, PM 출신들의 이야기를 통해 어떤 원칙을 가지고 product 만드는 일을 해야 할지 생각을 하나씩 정리해볼 수 있는 좋은 책
     - 제주 325.571-장95프
-    - [컴퓨터 vs 책: [독서광] 프로덕트 매니저 원칙](https://jhrogue.blogspot.com/2023/12/blog-post_27.html)
+    - [컴퓨터 vs 책: 독서광 프로덕트 매니저 원칙](https://jhrogue.blogspot.com/2023/12/blog-post_27.html)
 
 ![1.jpg](product_manager_principle/1.jpg)
 
@@ -17,7 +17,7 @@ Score: ★★★☆☆
 
 - `뛰어난 팀워크를 발휘하는 팀`
     - `다소 비효율적일지언정 할 말을 부담 없이 할 수 있는 문화의 집단이 더 성공적`, `잡담까지 포함`
-    - `결국 서로 소통하기 편한 상태가 갖춰여쟈 한다는 뜻`
+    - `결국 서로 소통하기 편한 상태가 갖춰져야 한다는 뜻`
     - [What Google Learned From Its Quest to Build the Perfect Team - The New York Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
     - [구글의 일 잘하는 팀은 무엇이 다른가](https://www.carnegie.co.kr/forum/view/707760)
     - [심리적 안전감이란?](https://brunch.co.kr/@younghakjang/112)
