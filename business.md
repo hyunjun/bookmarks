@@ -1810,6 +1810,7 @@ Business
 * [인간은 무엇을 위해 움직이는가 | Evans Library](https://evan-moon.github.io/2023/10/03/how-to-be-a-better-leader/)
 * [이끌거나, 따르거나, 아니면 비키거나](https://www.thestartupbible.com/2023/11/lead-follow-or-get-out-of-the-way.html)
 * [big story 좋은 리더는 '슈퍼맨' 아닌 '경청맨'](https://v.daum.net/v/20181101110658703)
+* [좋은 리더가 되는 방법](https://jojoldu.tistory.com/768)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
