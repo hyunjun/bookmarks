@@ -745,6 +745,7 @@ Scala
 * [Tail Recursive Functions (in Scala) - Alexandru Nedelcu](https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html)
 * [Ten-Step Tail-Rec Transformation Technique - YouTube](https://www.youtube.com/watch?v=E8rwsxn1iTM)
 * [How to make Insertion Sort function Tail-Recursive](https://www.linkedin.com/feed/update/urn:li:activity:7115552947224125440/)
+* [Deriving Tail Recursive Fibonacci](https://systemfw.org/posts/tailrec.html)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1914,6 +1915,8 @@ Scala
   * [Why we used Quill in RealWorld project?](https://softwaremill.com/why-we-used-quill-in-realworld-project/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
+* [scalasql: Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations](https://github.com/com-lihaoyi/scalasql)
+  * [ScalaSql: a New SQL Database Query Library for the com-lihaoyi Scala Ecosystem](https://www.lihaoyi.com/post/ScalaSqlaNewSQLDatabaseQueryLibraryforthecomlihaoyiScalaEcosystem.html)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [skunk: A data access library for Scala + Postgres](https://github.com/tpolecat/skunk)
   * [Pure Functional Database Programming‚ without JDBC - Rob Norris - YouTube](https://www.youtube.com/watch?v=NJrgj1vQeAI)
