@@ -4739,6 +4739,7 @@ Programming
 * [프리 소프트웨어로 구성한 사진작업 워크플로우 | GeekNews](https://news.hada.io/topic?id=6312)
 * [Reduce File Size of Images in Linux - CLI and GUI methods | DigitalOcean](https://www.digitalocean.com/community/tutorials/reduce-file-size-of-images-linux)
 * [SVG 진짜 정답인가? 그럼 PNG는?. 생산성과 효율성을 지향합니다. 근데 이제 퍼포먼스와 안정성을 곁들인 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/svg-%EC%A7%84%EC%A7%9C-%EC%A0%95%EB%8B%B5%EC%9D%B8%EA%B0%80-%EA%B7%B8%EB%9F%BC-png%EB%8A%94-e19d1c84aef9)
+* [고객에게 뚜렷한 경험을: 컬리의 후기 이미지 처리 기술 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly_review_image_detection/)
 * [agi-upscale: agi pic viewer](https://github.com/eviltrout/agi-upscale)
 * [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
