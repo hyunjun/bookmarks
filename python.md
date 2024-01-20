@@ -5108,6 +5108,7 @@ Python
 * [Srikanth - Use pandas in tidy style | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=AMJEnkA0YrE)
 * [Python Data Analysis Tips - How to plot many histograms in Pandas without a For loop](https://www.datasimple.education/post/python-data-analysis-tips-how-to-plot-many-histograms-in-pandas-without-a-for-loop)
 * [Matt Harrison - Testing Pandas- Shoots, leaves, and garbage! | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=Kj1WwpPFr-I)
+* [Grzegorz Kocjan - Test Driven Pandas - YouTube](https://www.youtube.com/watch?v=oaADte_9u6Q)
 * [Py) Pandas - 2버전 출시!! - Data Doctor](https://datadoctorblog.com/2023/03/24/Py-Pandas-new-version-2/)
 * [Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1 - YouTube](https://www.youtube.com/watch?v=B6fnPayCnuw)
 * [PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우 - YouTube](https://www.youtube.com/watch?v=M6YuOk4dAH4)
