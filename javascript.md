@@ -2244,6 +2244,8 @@ Javascript
   * [Building a Secure RESTful API Using NestJS and Prisma With Minimum Code - DEV Community](https://dev.to/zenstack/building-a-secure-restful-api-using-nestjs-and-prisma-with-minimum-code-45b5)
   * [SOLID Nest.js Java + Spring Interface를 활용한 결합도 분리 (Interface를 이용한 Dependency Injection - DI)](https://junyharang.tistory.com/526)
   * [우형의 새로운 백엔드 개발 표준 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=Z0d7ZrxY-i0)
+  * [JWT를 이용한 인증, 인가 그리고 Multi part 이야기 - ① 초기구성](https://junyharang.tistory.com/537)
+  * [JWT를 이용한 인증, 인가 그리고 Multi part 이야기 - ② 회원가입과 인증(feat. Access Token & Refresh Token)](https://junyharang.tistory.com/538)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
