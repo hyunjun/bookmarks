@@ -662,6 +662,7 @@ iOS
 * [SwiftUI로 커스텀 Context Menu 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-context-menu/)
 * [SwiftUI - trim & mask :: iOYES](https://green1229.tistory.com/432)
 * [SwiftUI에서 shadow와 blur 사용하기 :: iOYES](https://green1229.tistory.com/437)
+* [SwiftUI로 동적 뷰 레이아웃 구성하기 :: iOYES](https://green1229.tistory.com/440)
 * [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
