@@ -354,6 +354,7 @@ Artificial Intelligence
 # Vector DB
 * [나만의 GPT 만들기, Embedding](https://sudormrf.run/2023/06/06/owngpt/)
 * [Databricks Vector Search and Lakehouse Monitoring Demo - YouTube](https://www.youtube.com/watch?v=WAiv2wOAbRg)
+* [Introduction to Vector Search - YouTube](https://www.youtube.com/watch?v=v_RvESp1frs)
 * [Vector DB의 미래에 대한 생각](https://www.facebook.com/groups/TensorFlowKR/posts/2102734670067580)
 * [Nidhin Pattaniyil - Building a Search Engine | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=BvrOCq36SRs)
 * [What is Vector Similarity Search? | Encord](https://encord.com/blog/vector-similarity-search/)
