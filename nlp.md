@@ -1491,6 +1491,7 @@ NLP
 * [Chevy Chatbot Misfire: A Case Study in LLM Guardrails and Best Practices | by Branden Mcintyre | Dec, 2023 | Medium](https://medium.com/@branden.mcintyre/chevy-chatbot-misfire-a-case-study-in-llm-guardrails-and-best-practices-7ae319088e94)
 * [Debugging LLMs in prod with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=Yq2DSZswPxI)
 * [SK TECH SUMMIT 2023 AI : LLM - YouTube](https://www.youtube.com/playlist?list=PLwZwCc2PHzL89Sxf9KZE_q03wlqpm8IHu)
+* [Measuring Bias, Toxicity, and Truthfulness in LLMs With Python | Real Python Podcast #188 - YouTube](https://www.youtube.com/watch?v=bloZciD8oCE)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
