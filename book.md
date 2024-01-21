@@ -1676,6 +1676,14 @@ Book
 * [심리학이 조조에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305104962)
   * ★★★☆☆ 2023.05.07
   * 한라 325.211-천66ㅅ-1 탐라 문325.211-천67ㅅ-1, 2 우당 문325.211-천67ㅅ-1, 2
+* [심리학이 관우에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319151617)
+  * ★★★☆☆ 2024.01.20
+  * 제주 325.211-천67심-2
+  * [심리학이 관우에게 말하다](https://1003.notion.site/5a6938be86ae4c10a1ab9e7251d328cb)
+  * [심리학이 관우에게 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/sam_guanyu.md)
+  * [심리학이 관우에게 말하다. ★★★☆☆ January 20, 2024 | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9D%B4-%EA%B4%80%EC%9A%B0%EC%97%90%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8B%A4-f5f991f7cad6)
+  * [심리학이 관우에게 말하다 - Jun’s Substack](https://recur.substack.com/p/e3f)
+  * [심리학이 관우에게 말하다](https://jh4hj.tistory.com/entry/%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9D%B4-%EA%B4%80%EC%9A%B0%EC%97%90%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8B%A4)
 * [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
   * ★★★☆☆ 2023.05.09 전반적으로 좋은 책. 급격한 감정/생각의 변화를 가져오진 않지만 읽으면서 담담히 끄덕이게 하는 좋은 책이다. 스스로를 직면하는데서 모든 게 출발해야 한다는 점에 매우 동의하는데, 심리학 관련된 주제들의 문제는 스스로를 돌아보는 거 자체가 보통 사람들에겐 정말 쉽지 않은 일이라는 점. 사실 어느 일이나 그렇지만 현재 상태를 정확히 진단해야 고치건 발전시키건 앞으로 나아갈 수 있는데, 눈에 보이는 일들도 그러는 게 쉽지 않은데 여태 신경쓰지 않던 혹은 모르고 외면하던 자아를 돌아보는 일이 얼마나 어려운지는 점점 정신적인 부분에 관련된 사회 문제들이 증가하는 것 만으로도 간접적으로 증명된다고 생각한다. 책을 읽는다고 스스로 문제를 진단하고 치유하는 일이 가능하진 않겠지만, 최소한 문제가 있다는 걸 스스로 깨닫기만 하더라도 좋은 출발점이 될 수 있다고 본다.
   * 한라 189.24-최15ㅇ
