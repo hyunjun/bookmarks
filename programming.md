@@ -2959,6 +2959,8 @@ Programming
 * [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
 * [클라우드 컴퓨팅 입문자들을 위한 가이드 : 네이버 블로그](https://blog.naver.com/drvoss/223275359487)
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
+* [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
+* [클라우드의 세션 - ② 토큰과 세션 : 네이버 블로그](https://blog.naver.com/wharup/223329488539)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
