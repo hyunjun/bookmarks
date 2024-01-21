@@ -251,6 +251,7 @@ Book
   * [반도체 삼국지](https://github.com/hyunjun/bookmarks/blob/master/books/semiconductor_of_three_kingdoms.md)
   * [반도체 삼국지. 반도체 산업의 역사에 대한 이야기도 재미있으나 그보다 더 인상적이었던… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80-cf8427952f6f)
   * [반도체 삼국지](https://jh4hj.tistory.com/entry/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80)
+  * ['반도체삼국지 (2022)'의 후속작에 들어갈 몇 가지 원고를 간추리고 피드백을 얻기 위해 쓰는 글](https://www.facebook.com/sjoonkwon/posts/pfbid02TDAkC11TN4jHhWnXV4KJcVhWRduUeVN9ZboTYbnVtnB4p5onhXQya4q6V9mgy6D6l)
 * (NOT COMPLETED) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
   * ★★☆☆☆ 2023.05.17 모빌리티의 반도체에 대한 이야기인데 전반적인 내용을 다 다루기는 하지만, 결국 관련 회사 생태계에 대한 설명이 주된 부분이라 크게 흥미가 가진 않아서 2/3 정도만 읽음. 어쩐지 회사 소개를 통해 주식 투자에 관심있는 사람들을 타겟팅했단 생각이 들었는데, 아마 억측이겠지?
   * 우당 문569.4-권64ㅈ
