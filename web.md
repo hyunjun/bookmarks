@@ -1236,6 +1236,7 @@ Web
 * [Nginx란 무엇인가? : 네이버 블로그](https://blog.naver.com/gi_balja/223028077537)
 * [mirror를 활용하여 트래픽 제어](https://blog.naver.com/pjt3591oo/223213668115)
 * [NGINX로 Reverse Proxy 및 로드 밸런싱 이해하기 - YouTube](https://www.youtube.com/watch?v=1WfdUtMxTLE)
+* [Top 25 Nginx Web Server Best Security Practices - nixCraft](https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
