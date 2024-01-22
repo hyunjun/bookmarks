@@ -823,6 +823,7 @@ Go
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
   * [pocketbase: Open Source realtime backend in 1 file](https://github.com/pocketbase/pocketbase)
+  * [단 하나의 파일로 백엔드 구축이 가능하다?! - YouTube](https://www.youtube.com/watch?v=aVVi8dfMdaA)
 * [Pubsage: Library adapter to connect your logic code to pubsub or message broker](https://github.com/Aris-haryanto/pubsage)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [QRCode Terminal](https://github.com/mdp/qrterminal)
