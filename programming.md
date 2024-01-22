@@ -6213,6 +6213,7 @@ Programming
 * [애자일 조직에서 QA팀은 어떠한 모습을 하고 있을까요? 혹은 어떠한 모습이 되도록 노력해야 할까요? 애자일 조직에서 효율적인 팀플레이를 위한 QA조직의 방향성에 대해 이야기해보고자 합니다. | 29CM TEAM](https://medium.com/29cm/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-qa%ED%8C%80%EC%9D%98-%EC%97%AD%ED%95%A0-the-role-of-the-qa-team-in-the-agile-software-development-be9c459cc86e)
 * [You are never taught how to build quality software | Florian Bellmann | Be curious, explore and meditate.](https://www.florianbellmann.com/blog/never-taught-qa)
   * [고품질 소프트웨어 개발 방법을 배우지 못하는 현실 | GeekNews](https://news.hada.io/topic?id=12259) QA에 대한 이야기. 스타일은 요즘은 아니고 좀 예전 것
+* [QA는 생성형 AI 테스트 도구를 어떻게 검증할까? - ITWorld Korea](https://www.itworld.co.kr/news/321731?page=0,0)
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
@@ -6333,6 +6334,7 @@ Programming
   * TDD만으로 좋은 시스템 설계를 할 수 있다고 생각하지 않는다는 글에 TDD를 만든 Kent Beck이 직접 "TDD는 디자인 필요성을 대체하지 않는다"고 설명
   * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
 * [지속 가능한 인수 테스트 주도 개발 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=birVFRb2d-E) ATDD
+* [단위 테스트가 의미 있는 코드 유형은 뭘까? 통합 테스트는? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-the-four-types-of-code/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
