@@ -6335,6 +6335,11 @@ Programming
   * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
 * [지속 가능한 인수 테스트 주도 개발 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=birVFRb2d-E) ATDD
 * [단위 테스트가 의미 있는 코드 유형은 뭘까? 통합 테스트는? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-the-four-types-of-code/)
+* [효율적인 테스트 코드 작성법 - YouTube](https://www.youtube.com/watch?v=gs1qM1TF5zA)
+  * TDD가 아니라 테스트 작성이 필요하다는 이야기
+  * bug가 발생했던 data를 사용해 test를 작성해 같은 bug가 재현되는 걸 방어하겠다는 이야기
+  * 이렇게 하는 이유는 bug를 유발하는 data는 미리 알 수 없기 때문이라는 주장
+  * 이런 식으로 test가 늘어나게 되면 효과적으로 test를 보충할 수 있고, 특히 안 바뀌는 code에 대해 효과를 볼 수 있다는 이야기
 * [테스트 코드 잘 짜는 프로그래머는 이걸 잘합니다 - YouTube](https://www.youtube.com/watch?v=VygGrcq0VX0)
   * TDD 아니고 테스트 자동화
   * 누가 해도 똑같은 (bug) 재현의 중요성
