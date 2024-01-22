@@ -6335,6 +6335,9 @@ Programming
   * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
 * [지속 가능한 인수 테스트 주도 개발 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=birVFRb2d-E) ATDD
 * [단위 테스트가 의미 있는 코드 유형은 뭘까? 통합 테스트는? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-the-four-types-of-code/)
+* [Assert 어디에 넣을지 모르면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=6ts1Uxp_i3w)
+  * TDD는 아니지만 일단 여기에
+  * 근거는 안 알려줘서 알 수 없지만 code 7줄마다 assert 하나가 필요하다고 말했다고 함
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
