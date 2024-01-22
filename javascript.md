@@ -2781,6 +2781,7 @@ Javascript
         * Turbopack의 15ms는 0.01s로 표시하고 Vite의 87ms는 0.09로 표시
         * 실제는 6배 정도임에도 10배로 표시
         * 모듈이 3만 개 일 때 10배의 속도 차이가 나기 때문에 이는 10배를 주장하기 위한 체리피킹이라고 얘기
+  * [Turbopack: DX Matters • Tobias Koppers • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=5wPCObSNY5Q)
 * [Turborepo](https://turborepo.org/)
   * [Turborepo로 모노레포 개발 경험 향상하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/monorepo-with-turborepo/)
     * 모노레포를 관리하기 위해 모노레포 도구인 Turborepo 도입
