@@ -260,6 +260,7 @@ Flutter
 * [flet: Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required](https://github.com/flet-dev/flet)
   * [The fastest way to build Flutter apps in Python | Flet](https://flet.dev/)
   * [User Interface in Python and Flet | Flutter for Python - YouTube](https://www.youtube.com/watch?v=y75vekE9OqU)
+  * [GUI Applications For All Platforms with Flet in Python - YouTube](https://www.youtube.com/watch?v=xouh_K4WCNU)
 * [Flutter hooks flutter_hooks 이게 뭐야? 뭐가 좋은거야? - YouTube](https://www.youtube.com/watch?v=GBVBLKESogU)
 * [Flutter StatefulWidget을 대체하는 Flutter Hooks | by Cody Yun | Nov, 2023 | Medium](https://medium.com/@cody.yun/flutter-statefulwidget%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%98%EB%8A%94-flutter-hooks-7d4b6e095ede)
 * [fullstack_dart_todo](https://github.com/leehack/fullstack_dart_todo)
