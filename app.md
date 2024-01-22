@@ -1293,6 +1293,7 @@ App
   * Text Editor Visual Studio Code, Sublime Text, MacDown
   * GUI Database Client Sequel Pro, TablePlus
   * Etc Medis, NameChanger, Sloth, Hex Fiend
+* [개발자 생산성 높여주는 무료 맥 앱 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2421/)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
