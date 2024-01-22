@@ -2838,7 +2838,7 @@ NLP
 * [**How to Make a Speech Emotion Recognizer Using Python And Scikit-learn**](https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn) Librosa, Numpy, Soundfile, Scikit-learn, PyAudio
 * [음성인식 코드 짜는 최단 경로 (With Naver Cloud Platform): 순식간에 STT 완성하기](https://dev-sngwn.github.io/2020-01-13-stt-step-by-step/)
 * [텍스트를 음성 mp3로 간단하게 변환하기 (With Naver Cloud Platform)](https://dev-sngwn.github.io/2020-02-16-tts-step-by-step/)
-* [Non-Autoregressive 구조의 한국어 TTS 개발기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/18)
+* [NHN FORWARD 2021 Non-Autoregressive 구조의 한국어 TTS 개발기 - YouTube](https://www.youtube.com/watch?v=UGJMnRwL-mw)
 * [**연구자로 성장하기 Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기) - Subinium의 코딩일지**](https://subinium.github.io/kep-vcc2020-review/)
 * [꿀벌개발일지 :: 클럽하우스와 음성 데이터](https://ohgyun.com/797)
 * [Transcribe Audio and Use Speech Recognition in Python - YouTube](https://www.youtube.com/watch?v=L0N2Ve9vhPk)
@@ -2872,7 +2872,7 @@ NLP
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * [Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation](https://github.com/SevaSk/ecoute)
 * [FastSpeech2: An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"](https://github.com/ming024/FastSpeech2)
-  * [PYRASIS.COM: 내 목소리를 TTS로 만들기(FastSpeech2)](https://pyrasis.com/tts/2023/02/05/FastSpeech2-My-Voice-TTS)
+  * [~PYRASIS.COM: 내 목소리를 TTS로 만들기(FastSpeech2)~](https://pyrasis.com/tts/2023/02/05/FastSpeech2-My-Voice-TTS)
   * [Korean-FastSpeech2-Pytorch: Implementation of Korean FastSpeech2](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
