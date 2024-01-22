@@ -2288,6 +2288,7 @@ Business
 * [MVP의 5가지 함정과 탈출법](https://brunch.co.kr/@jjollae/7)
 * [How to Build An MVP | Startup School - YouTube](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/) MLP
+* [동작가능을 넘어 사랑가능한 제품으로 성장하기. MVP가 아닌 MLP | by bomi Lee | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EB%8F%99%EC%9E%91%EA%B0%80%EB%8A%A5%EC%9D%84-%EB%84%98%EC%96%B4-%EC%82%AC%EB%9E%91%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-204c073314ad)
 * [스타트업 실패 가능성 확 줄이는 MVT 완전정복](https://www.nextunicorn.kr/content/f68bdd38e49122da)
 * [Vertical Slice vs MVP: What’s the Difference? – Tiny Hydra](https://tinyhydra.com/vertical-slice-vs-mvp/)
 * [MVP: Why We Confuse Building to Learn with Building to Earn • Jeff Patton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=-OhZU4_7gKA)
