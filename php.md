@@ -143,6 +143,7 @@ PHP
 * [Laravel 모범 사례: 루틴을 자동화하는 방법 | The PhpStorm Blog](https://blog.jetbrains.com/ko/phpstorm/2023/06/laravel-best-practices-how-to-automate-your-routine/)
 * [PhpStorm의 라라벨 지원 – 사실상 구독제로 유료화 | 웹으로 말하기](https://mytory.net/archives/14694)
 * [PhpStorm이 특정 클래스를 인식하지 못할 때 – 형우의 웹개발](https://mytory.net/archives/15315)
+* [PHP 커맨드라인 실행시 break point 디버깅하기 – PhpStorm – 형우의 웹개발](https://mytory.net/archives/15941)
 
 # TDD, Test
 * [Reflection을 활용한 Private Method Test - 완두블로그](https://wani.kr/posts/2015/05/07/mockery-reflection/)
