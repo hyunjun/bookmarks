@@ -2200,6 +2200,7 @@ Business
 * [실리콘밸리 수백명의 PM들의 성장을 두 배 이끈 조언 | Meta Mick Johnson (1/2) - YouTube](https://www.youtube.com/watch?v=rB7haeRWib4)
 * [제 2개 회사는 잘 안됐습니다. 그러나 이걸 배웠죠 | Meta Mick Johnson (2/2) - YouTube](https://www.youtube.com/watch?v=HDsFyHQtLHI)
 * [좋은 기획자의 덕목이란 뭘까?](https://brunch.co.kr/@fbrudtjr1/55)
+* [Heartcomplex - 삶, 우주, 그리고 모든 것. 42. : 프로덕트 오너(Product Owner – PO)에게 필요한 것](https://www.heartcomplex.net/%ed%94%84%eb%a1%9c%eb%8d%95%ed%8a%b8-%ec%98%a4%eb%84%88product-owner-po%ec%97%90%ea%b2%8c-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
