@@ -3531,6 +3531,11 @@ Programming Books
     * ★★★☆☆ 2023.07.07 엄청나게 좋은 책은 아닐지 몰라도 실용적이고 개발자로뿐만 아니라 생활인으로 살아가는데 필요한 여러가지 좋은 이야기들을 썼다. 이에 공감하는 사람들이 있으니 개정판도 출간할 수 있었을 거라 생각한다.
     * 우당 문005.104-손33ㅅ
     * https://entreprogrammers.com/
+    * [소프트 스킬](https://1003.notion.site/afb8ad0d10564e43812c927ad8761249)
+    * [소프트 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/soft_skill.md)
+    * [소프트 스킬. ★★★☆☆ 2023.07.07 엄청나게 좋은 책은 아닐지 몰라도… | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC-ae840f4fb5ab)
+    * [소프트 스킬 - Jun’s Substack](https://recur.substack.com/p/7b0)
+    * [소프트 스킬](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC)
   * [Making the Complex Simple - Simple Programmer](https://simpleprogrammer.com/)
     * [Simple Programmer - YouTube](https://www.youtube.com/simpleprogrammer)
   * [Bulldog Mindset | Build Confidence and Achieve Financial Freedom](https://bulldogmindset.com/)
