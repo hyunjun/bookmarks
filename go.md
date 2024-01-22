@@ -818,6 +818,7 @@ Go
 * [ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
   * [Ntfy - 모바일/데스크탑으로 푸시 보내기 | GeekNews](https://news.hada.io/topic?id=5647)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
+* [pet: Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
