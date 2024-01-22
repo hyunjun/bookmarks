@@ -2852,6 +2852,18 @@ NLP
 * [화상 회의할 때 음성 품질을 높이는 기술](https://engineering.linecorp.com/ko/blog/line-voip-voice-quality-with-vqe)
 * [LINE 앱에서 음성 품질을 측정하는 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-voice-quality-in-line-app)
 * [Detecting Speech and Music in Audio Content | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8)
+* TTS survey
+  * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
+    * MOS Mean Opinion Score 결국 사람들의 평가
+  * [2023-24's Top 10 Text-to-Speech Tools: In-Depth Comparison](https://wavel.ai/blog/best-10-text-to-speech-software-2023-24/)
+  * [Comparison of speech synthesizers - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers)
+  * [Best Text to Speech Software (2024)](https://elevenlabs.io/blog/best-text-to-speech-software/)
+  * [Top 16 BEST Text To Speech Software 2024 Review](https://www.softwaretestinghelp.com/text-to-speech-software/)
+  * [15 Best AI Voice Generators 2024 (with Output Samples)](https://nerdynav.com/best-ai-voice-generators/)
+  * [Best Text to Speech Software for 2024 | G2](https://www.g2.com/categories/text-to-speech)
+    * [Compare Eleven Labs Software vs. HeyGen vs. D-ID vs. Rask AI | G2](https://www.g2.com/compare/elevenlabsio-vs-heygen-vs-d-id-vs-rask-ai?category_id=2391&company_segment=) 여러 회사에 대해 최대 4개까지 비교 가능
+  * [Voice Cloning Guide - How to use AI Voice Cloning and Text to Speech Safely](https://elevenlabs.io/safety)
+  * [RealtimeTTS: Converts text to speech in realtime](https://github.com/KoljaB/RealtimeTTS)
 * [ai-english-tutor: Interactive AI English Tutor: Harnessing OpenAI's APIs for an Immersive Language Learning Experience](https://github.com/jasonkang14/ai-english-tutor)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
   * [annyang:  Speech recognition for your site](https://github.com/TalAter/annyang)
