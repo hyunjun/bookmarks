@@ -471,6 +471,7 @@ Algorithm
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
+* [Refactoring Conway's Game of Life | ArjanCodes Code Roast - YouTube](https://www.youtube.com/watch?v=NOcwXmXr0ho)
 
 # Genetic
 * [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
