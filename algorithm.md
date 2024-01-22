@@ -721,6 +721,7 @@ Algorithm
 * [Finally! A proven strategy for quickly solving any recursive problem...](https://www.byte-by-byte.com/recursion-sp-closed/)
 * [하노이의 탑 설명 · Present](https://present.do/presentations/617241e2417aaf0eecb24c22)
 * [7 Best Courses to learn Recursion for Programming and Coding Interviews in 2022 | by javinpaul | Javarevisited | May, 2022 | Medium](https://medium.com/javarevisited/7-best-courses-to-learn-recursion-for-programming-and-coding-interviews-1f8b0bcfd44)
+* [재귀호출 쉽고 확실하게 이해하기 - YouTube](https://www.youtube.com/watch?v=ZuCa5I50cLg)
 
 # Stack
 * [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
