@@ -4446,6 +4446,7 @@ Programming
 * [The challenges of doing Infra-As-Code without "the cloud" — Nicolas Demarchi - YouTube](https://www.youtube.com/watch?v=ahx_3lKLQ3E)
 * [Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)
 * [스토리지 최적의 스펙 관리 시스템 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13539/)
+* [A reliable compute platform for Expedia customers - YouTube](https://www.youtube.com/watch?v=ou01X3UGVLI) HashiCorp
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
@@ -6024,6 +6025,7 @@ Programming
     * [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
   * 설문조사는 어렵기 때문에 개발자들과 능동적인 커뮤니케이션을 하도록 유도하고 내부 플랫폼으로 포장된 길을 제공하려고 노력하고 있다고 함
 * [The LinkedIn DPH Framework](https://linkedin.github.io/dph-framework/) Developer Productivity and Happiness Framework
+* [생산성 수치심 (Productivity Shame) 에서 벗어나는 방법](https://eopla.net/magazines/10754#) tech 이야기는 아님
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
