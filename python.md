@@ -5197,6 +5197,7 @@ Python
 * [Zero to Hero with Python Tutorial FULL- Easy Learning python 3.4 from begin to advance (Compact)](https://www.youtube.com/watch?v=emY34tSKXc4)
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
 * [How we rolled out one of the largest Python 3 migrations ever](https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/)
+* [PyCon KR 2023 15년만에 Python2에서 Python3으로 migration 강지훈 - YouTube](https://www.youtube.com/watch?v=CP6o5cMAnYU)
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [Python 3.5 Brings New Language Features and Library Modules](http://www.infoq.com/news/2015/09/python35-released)
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
