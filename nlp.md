@@ -1479,6 +1479,8 @@ NLP
 * [편집본 대형 언어 모델(LLM) 특집 | 블랙 프라이데이 세일중(~11/30) - YouTube](https://www.youtube.com/watch?v=nfeKVQ4LqGk)
 * [Fine-tuning Large Language Models (LLMs) | w/ Example Code - YouTube](https://www.youtube.com/watch?v=eC6Hd1hFvos)
 * [**지극히 사적인 나만의 LLM, 가질 수 있을까? 1편 - 파인튜닝**](https://blog.sionic.ai/Finetuning_Llama) PEFT, LoRA, QLoRA
+* [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
+* [ReFT: A New Way of Finetuning LLMs 🧠 ♻ ](https://www.linkedin.com/posts/pascalbiese_reft-a-new-way-of-finetuning-llms-activity-7155504535883374592-PjnJ/)
 * [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g) Andrej Karpathy
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
@@ -1495,6 +1497,7 @@ NLP
 * [SK TECH SUMMIT 2023 AI : LLM - YouTube](https://www.youtube.com/playlist?list=PLwZwCc2PHzL89Sxf9KZE_q03wlqpm8IHu)
 * [Measuring Bias, Toxicity, and Truthfulness in LLMs With Python | Real Python Podcast #188 - YouTube](https://www.youtube.com/watch?v=bloZciD8oCE)
 * [**오픈소스로 완성하는 AI Full Stack**](https://revf.tistory.com/303)
+* [How to Fine-Tune Open Source LLMs for My Specific Purpose - DeepNatural Blog](https://deepnatural.ai/blog/how-to-fine-tune-open-source-llms-for-my-specific-purpose-en)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
