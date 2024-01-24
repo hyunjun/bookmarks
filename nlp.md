@@ -373,6 +373,7 @@ NLP
 * [AI 경량화: 더 빠르고 저렴한 AI 서비스](https://d2.naver.com/helloworld/4608596) LaRva
 * [중요한 것은 사용자의 의도를 꺾지 않으려는 마음 (동시편집에서 Text.Style Operation 개선 및 Multi User Undo/Redo 구현하기)](https://d2.naver.com/helloworld/6014816) peritext
 * [What's the Best Framework for Your #GenAI Project?](https://www.linkedin.com/posts/pavan-belagatti_genai-activity-7144549890780454912-v8DJ)
+* [고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15764/) nori ahocorasick
 
 # 띄어쓰기
 
@@ -1464,6 +1465,7 @@ NLP
 * [Frameworks for Serving LLMs. A comprehensive guide into LLMs inference and serving | by Sergei Savvov | Jul, 2023 | Medium | Better Programming](https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407)
 * [LLM 모델 기반 서비스 실전 가이드 | PPT](https://www.slideshare.net/taeyounglee1447/llm-261139869)
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
+* [OpenAI will Transform Data Science - Here's How - YouTube](https://www.youtube.com/watch?v=NBseu9f3P5U) function calling
 * [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
 * [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [Large Language Models (in 2023) - YouTube](https://www.youtube.com/watch?v=dbo3kNKPaUA)
@@ -1492,6 +1494,7 @@ NLP
 * [Debugging LLMs in prod with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=Yq2DSZswPxI)
 * [SK TECH SUMMIT 2023 AI : LLM - YouTube](https://www.youtube.com/playlist?list=PLwZwCc2PHzL89Sxf9KZE_q03wlqpm8IHu)
 * [Measuring Bias, Toxicity, and Truthfulness in LLMs With Python | Real Python Podcast #188 - YouTube](https://www.youtube.com/watch?v=bloZciD8oCE)
+* [**오픈소스로 완성하는 AI Full Stack**](https://revf.tistory.com/303)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1615,6 +1618,7 @@ NLP
   * [Langchain을 이용한 LLM 애플리케이션 개발 #10 - 벡터 DB 검색하기](https://bcho.tistory.com/1416)
   * [Langchain을 이용한 LLM 애플리케이션 개발 #11 - 벡터DB 검색 내용을 요약하기](https://bcho.tistory.com/1417)
   * [Langchain을 이용한 LLM 애플리케이션 개발 #12 - 큰문서를 나눠서 검색하기 (Parent-Child Chunking)](https://bcho.tistory.com/1419)
+  * [Langchain을 이용한 LLM 애플리케이션 개발 #13 - Chain을 이용한 워크 플로우 구현 #1](https://bcho.tistory.com/1420)
   * [Langchain Vector Store Record Delete](https://bcho.tistory.com/1418)
   * [Building an LLM Open-Source Search Engine in 100 Lines](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
   * [Langchain PDF를 학습한 나만의 챗봇 streamlit에 배포 하기 - 미완성의신](https://unfinishedgod.netlify.app/2023/12/16/langchain-pdf-streamlit/)
@@ -1970,6 +1974,8 @@ NLP
   * [DataSimple.education](https://www.datasimple.education/hugging-faces-transformers-tf/working-with-hugging-faces-nlp-dataset/)
   * [🤗 Hub client library](https://huggingface.co/docs/huggingface_hub/index)
     * [Programmatically manage 🤗 Inference Endpoints](https://www.philschmid.de/inference-endpoints-iac)
+  * [🔥Private #chatgpt 🔥 나만의 ChatGPT 만들기 (HuggingFace Open LLM 활용) - YouTube](https://www.youtube.com/watch?v=aECwQqBWfJM)
+    * [text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models](https://github.com/oobabooga/text-generation-webui)
   * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
     * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
     * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
