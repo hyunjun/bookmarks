@@ -971,6 +971,7 @@ AWS
 * [생활코딩 Amazon Web Services](https://opentutorials.org/module/1946)
   * [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)
   * [아마존 웹서비스와 클라우드](https://opentutorials.org/course/2717/11268)
+* [알.잘.딱.깔.센 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohdGjoi6MAftwPR4zJ8tNZf)
 * [10 fun hands-on projects to learn AWS | A Cloud Guru](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
 * [Amazon.com: 교육용 강좌](https://www.amazon.com/b/?node=14297978011)
 * [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
