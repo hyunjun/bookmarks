@@ -1697,7 +1697,6 @@ Programming
 * [Server Driven UI, Part 2: The GraphQL API | Joe Birch](https://joebirch.co/typescript/server-driven-ui-part-2-the-graphql-api/)
 * [우당탕탕 Server Driven UI 개발기. 안녕하세요! 요기요 R&D Center의 BE Developer… | by Seungwon Jeong | Sep, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-server-driven-ui-%EA%B0%9C%EB%B0%9C%EA%B8%B0-b1b80f47760b)
 * [토스ㅣSLASH 23 - Server-driven UI로 토스의 마지막 어드민 만들기 - YouTube](https://www.youtube.com/watch?v=3wxG1WLDONI)
-* [AUTHNZ — Authentication and Authorization in Micro-Service Architecture | by Tanya Sharma | Myntra Engineering | Mar, 2022 | Medium](https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1)
 * [확장하지 않는 제품 만들기 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/530)
   * [What Does It REALLY Mean To Do Things That Don't Scale? – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=4RMjQal_c4U&t=0s)
   * [Things That Don't Scale, The Software Edition – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=TCPjk8Tpb5c)
@@ -1767,6 +1766,7 @@ Programming
   * [3회 ADR을 써야하는 이유,슈퍼셀의 교훈,QRPicture,Puppeteer와 Playwright,eBPF - YouTube](https://www.youtube.com/watch?v=aCw0YwEHpCU&t=137s)
     * [GN#59 ADR을 써야 하는 이유 와 슈퍼셀의 10가지 교훈 | GeekNews](https://news.hada.io/weekly/202034)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
+* [AUTHNZ — Authentication and Authorization in Micro-Service Architecture | by Tanya Sharma | Myntra Engineering | Mar, 2022 | Medium](https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [BoxyHQ | Enterprise Readiness made simple](https://boxyhq.com/)
   * [BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=6226)
@@ -1782,6 +1782,8 @@ Programming
 * [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
 * [clojure-polylith-realworld-example-app: Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API](https://github.com/PEZ/clojure-polylith-realworld-example-app/tree/master)
   * [Understanding Polylith through the lens of Hexagonal architecture | by Joakim Tengstrand | Nov, 2023 | Medium](https://medium.com/@joakimtengstrand/understanding-polylith-through-the-lens-of-hexagonal-architecture-8e7c8757dab1)
+* [Zanzibar: A Global Authorization System - Presented by Auth0](https://zanzibar.academy/)
+  * [개발자 연봉 높이기 1. 구글이 100억개의 권한 관리하는 법 - YouTube](https://www.youtube.com/watch?v=eyDSR_0WG4I)
 
 ## Architecture CQRS & Event Sourcing
 * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
