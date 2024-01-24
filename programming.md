@@ -6350,6 +6350,7 @@ Programming
 * [Assert 어디에 넣을지 모르면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=6ts1Uxp_i3w)
   * TDD는 아니지만 일단 여기에
   * 근거는 안 알려줘서 알 수 없지만 code 7줄마다 assert 하나가 필요하다고 말했다고 함
+* [당신의 코드를 튼튼하게. 코딩의 기본 - Assert - YouTube](https://www.youtube.com/watch?v=52cQQN69uOY)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
