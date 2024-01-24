@@ -1991,7 +1991,6 @@ Web
   * WebAssembly를 이용한 새로운 애플리케이션 아키텍처가 생길 것이고 Docker와 통합되고 서버리스/엣지 프레임워크의 표준을 이끌 수 있다고 예측
   * 모든 언어에서 그렇듯 Wasm에도 WAPM이라는 패키지 매니저가 있지만 거의 운영되지 않으므로 이 부분도 기회
   * [WebAssembly에 주목해야 할 이유 | GeekNews](https://news.hada.io/topic?id=5914)
-* [Write Your First WASM Module using Rust - YouTube](https://www.youtube.com/watch?v=nW71Mlbmxt8)
 * [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 * [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
 * [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
@@ -2089,6 +2088,11 @@ Web
   * [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
     * Cloudflare Workers에 WebGPU 추가, Workers의 오픈소스 런타임인 workerd가 WebGPU 지원, 로컬에서도 사용 가능
     * 이 구현은 Chrome 브라우저처럼 Dawn을 사용해서 Linux, macOS, Windows에서 사용 가능
+
+# WebAssembly Rust
+* [Write Your First WASM Module using Rust - YouTube](https://www.youtube.com/watch?v=nW71Mlbmxt8)
+* [Rust_WASM: Rust_WebAssembly_WASM](https://github.com/YoungHaKim7/Rust_WASM)
+  * [Rust-WebAssembly_WASM_BackEnd - YouTube](https://www.youtube.com/playlist?list=PLcMveqN_07mbHVvdMjKzevRunoZfEZKPU)
 * [Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6343)
   * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
