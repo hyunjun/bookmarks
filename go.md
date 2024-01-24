@@ -729,6 +729,7 @@ Go
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
 * [go-password-hasher: Password hasher with random salts](https://github.com/Edmartt/go-password-hasher)
+* [go-paystack: A simple paystack wrapper built using GO](https://github.com/rammyblog/go-paystack)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * gopkgs [Custom Domain Module Import Service for Google Go (golang) | GoPkgs.org](https://gopkgs.org/)
 * [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
@@ -900,6 +901,7 @@ Go
 * [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [Build A Beautiful CLI Todo App in Golang | Golang Tutorial](https://morioh.com/p/68b48e6da956)
+* [atomicsql_golang: ORM library for Golang having implemented lambda expression for Where() and Select()](https://github.com/bbitere/atomicsql_golang)
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
