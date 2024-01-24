@@ -2912,6 +2912,7 @@ Programming Books
   * [천원을 경영하라](https://github.com/hyunjun/bookmarks/blob/master/programming_books/manage_1000won.md)
   * [천원을 경영하라 - Jun - Medium](https://nymets.medium.com/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC-260ba5b6dbd)
   * [천원을 경영하라](https://jh4hj.tistory.com/entry/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC)
+  * [다이소에서 배우는 커리어 성장 비결](https://www.linkedin.com/posts/soojung-shin-30398b75_%EB%8B%A4%EC%9D%B4%EC%86%8C%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5-%EB%B9%84%EA%B2%B0-%EC%B5%9C%EA%B7%BC-%EB%8B%A4%EC%9D%B4%EC%86%8C%EA%B0%80-%EA%B3%B3%EA%B3%B3%EC%97%90-%EB%88%88%EC%97%90-%EB%9D%84%EC%9D%B8%EB%8B%A4-activity-7154322208876646400-LwZF/)
 * [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
   * ★★★★☆ 2023.03.27
   * 탐라 문325.19-호848ㅂ
