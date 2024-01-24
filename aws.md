@@ -67,40 +67,6 @@ AWS
 * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
 * [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [How to directly deploy Github code of MERN/MEAN app on AWS?](https://www.youtube.com/watch?v=i9g2Sg10DPk)
-* [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
-* [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
-* [AWS Gateway Load Balancer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1105)
-* [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
-* [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
-* [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
-* [AWS 서비스에 Let's Encrypt 인증서 적용하기](https://docsify.sokuricat.com/b1tk3y/1843/#/129)
-* [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
-* [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
-* [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
-* [AWS Cheat Sheet - ELB](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/elb)
-* [ELB의 Health Check 용도로 Actuator Health Endpoints 이용은 위험](https://www.facebook.com/daemyung.kang/posts/pfbid0ziWN7WosPymu26zbsLxS1yeUT5dk6m9JrskDzD8vruqvYQXwKxyHK9egzX8AJKDUl)
-  * 이유
-    1. actuator/health 에서 기본적으로 성공은 200 실패는 503
-    2. 체크 목록에 Redis/JDBC/Mongo등 각 Store와의 연결을 체크하는데, 이게 하나라도 실패하면 Default로 503
-    3. 서비스 중에 Redis나 특정 상황이 안되더라도, 서비스가 되어야 할 경우가 많은데, 위의 기본 설정으로 써버리면, Redis는 죽어도 DB가 동작하는 상황에서 모든 서버가 동작은 하지만 Status: DOWN 503으로 인해서 ELB의 Target group 에서 전부 unhealthy 로 unregister가 될 수 있음
-  * 만약 사용하겠다고 하면 Actuator 설정을 바꿔야 함
-  * 인스턴스 운영 상태로는 적당하지 않지만 서비스 운영 상태 모니터링으로는 필요
-* [AWS Enterprise Support Korea: ELB Prewarming 소개 - YouTube](https://www.youtube.com/watch?v=A38J0H6TE3E)
-* [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
-* [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
-* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
-* [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
-* [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
-* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (2) - NLB 동작 원리](https://alden-kang.tistory.com/8)
-  * AWS의 대표적인 ALB와 NLB를 서버와 클라이언트에서 직접 패킷 덤프를 보면서 뭐가 다른지 비교 설명
-  * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
-* [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
-* [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
-* [AWS Network Load Balancer의 Target 상태 및 옵션에 따른 NLB DNS 응답 방식](https://zigispace.net/1161)
-* [Automated AWS Load Balancer Warm-Up | by Luis Sena | Nov, 2021 | Medium](https://luis-sena.medium.com/automated-aws-load-balancer-warm-up-d0b4084c8bbc)
-* [AWS 로드 밸런서(Load Balancer) 적용하기](https://blog.naver.com/gi_balja/223039039664)
-* [A deeper look at Ingress Sharing and Target Group Binding in AWS Load Balancer Controller | Containers](https://aws.amazon.com/ko/blogs/containers/a-deeper-look-at-ingress-sharing-and-target-group-binding-in-aws-load-balancer-controller/)
-  * [AWS 로드 밸런스 컨트롤러의 Ingress 공유 및 대상 그룹 바인딩 자세히 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deeper-look-at-ingress-sharing-and-target-group-binding-in-aws-load-balancer-controller/)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
@@ -784,6 +750,7 @@ AWS
 * [아직도 Amazon GuardDuty 도입을 안 하셨다면?](https://urbanbase.github.io/dev/2020/11/01/Amazon-GuardDuty.html)
 * [GuardDuty탐지 결과를 Slack에서 자동으로 받아보기 | by MZC_Global | Cloud Villains | Medium](https://medium.com/cloudvillains/guardduty%ED%83%90%EC%A7%80-%EA%B2%B0%EA%B3%BC%EB%A5%BC-slack%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%9B%EC%95%84%EB%B3%B4%EA%B8%B0-517f149e34e0)
 * [Amazon GuardDuty, 이제 Amazon EC2의 런타임 모니터링 지원(평가판)](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/)
+* [GuardDuty 를 이용한 ECS Fargate 및 EC2 런타임 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/guardduty-ecs-runtime-monitoring/)
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
@@ -1434,6 +1401,7 @@ AWS
 * [ABAC 구성을 위한 AWS IAM 정책 설정(EC2권한)하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-iam-policy-for-abac/)
 * [AWS IAM 역할과 함께 신뢰 정책을 사용하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-use-trust-policies-with-iam-roles/)
 * [IAM 액세스 분석기 업데이트: 사용되지 않는 액세스 찾기, 배포 전 정책 확인 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/)
+* [AWS IAM Identity Center를 사용하여 Amazon OpenSearch Serverless에 대한 SAML 연동 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configure-saml-federation-for-amazon-opensearch-serverless-with-aws-iam-identity-center/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
@@ -1889,6 +1857,43 @@ AWS
 * [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
 * [홈서버(?)에서 서빙하던 서비스 클라우드 이전 썰 (feat. OPGC, AWS Lightsail) :: Jay's Code Factory](https://jay-ji.tistory.com/116)
 * [Let's make a easy web page with Amazon Lightsail](https://catalog.us-east-1.prod.workshops.aws/workshops/48b49818-88d8-4958-b2bc-c219cb185fa5/ko-KR)
+
+# Load Balancer
+* [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
+* [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
+* [AWS Gateway Load Balancer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1105)
+* [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
+* [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
+* [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
+* [AWS 서비스에 Let's Encrypt 인증서 적용하기](https://docsify.sokuricat.com/b1tk3y/1843/#/129)
+* [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
+* [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
+* [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
+* [AWS Cheat Sheet - ELB](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/elb)
+* [ELB의 Health Check 용도로 Actuator Health Endpoints 이용은 위험](https://www.facebook.com/daemyung.kang/posts/pfbid0ziWN7WosPymu26zbsLxS1yeUT5dk6m9JrskDzD8vruqvYQXwKxyHK9egzX8AJKDUl)
+  * 이유
+    1. actuator/health 에서 기본적으로 성공은 200 실패는 503
+    2. 체크 목록에 Redis/JDBC/Mongo등 각 Store와의 연결을 체크하는데, 이게 하나라도 실패하면 Default로 503
+    3. 서비스 중에 Redis나 특정 상황이 안되더라도, 서비스가 되어야 할 경우가 많은데, 위의 기본 설정으로 써버리면, Redis는 죽어도 DB가 동작하는 상황에서 모든 서버가 동작은 하지만 Status: DOWN 503으로 인해서 ELB의 Target group 에서 전부 unhealthy 로 unregister가 될 수 있음
+  * 만약 사용하겠다고 하면 Actuator 설정을 바꿔야 함
+  * 인스턴스 운영 상태로는 적당하지 않지만 서비스 운영 상태 모니터링으로는 필요
+* [AWS Enterprise Support Korea: ELB Prewarming 소개 - YouTube](https://www.youtube.com/watch?v=A38J0H6TE3E)
+* [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
+* [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
+* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
+* [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
+* [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
+* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (2) - NLB 동작 원리](https://alden-kang.tistory.com/8)
+  * AWS의 대표적인 ALB와 NLB를 서버와 클라이언트에서 직접 패킷 덤프를 보면서 뭐가 다른지 비교 설명
+  * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
+* [Application Load Balancer for SAP Enterprise Portal | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/elb-application-load-balancer-sap-portal/)
+* [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
+* [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
+* [AWS Network Load Balancer의 Target 상태 및 옵션에 따른 NLB DNS 응답 방식](https://zigispace.net/1161)
+* [Automated AWS Load Balancer Warm-Up | by Luis Sena | Nov, 2021 | Medium](https://luis-sena.medium.com/automated-aws-load-balancer-warm-up-d0b4084c8bbc)
+* [AWS 로드 밸런서(Load Balancer) 적용하기](https://blog.naver.com/gi_balja/223039039664)
+* [A deeper look at Ingress Sharing and Target Group Binding in AWS Load Balancer Controller | Containers](https://aws.amazon.com/ko/blogs/containers/a-deeper-look-at-ingress-sharing-and-target-group-binding-in-aws-load-balancer-controller/)
+  * [AWS 로드 밸런스 컨트롤러의 Ingress 공유 및 대상 그룹 바인딩 자세히 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deeper-look-at-ingress-sharing-and-target-group-binding-in-aws-load-balancer-controller/)
 
 # Logging
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
