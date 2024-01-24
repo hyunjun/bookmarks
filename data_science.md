@@ -963,6 +963,7 @@ Data Science
 * [토스ㅣSLASH 23 - 머신러닝으로 더 똑똑하게 증권 뉴스 제공하기 - YouTube](https://www.youtube.com/watch?v=dnxaTrKJr0c)
 * [Vinija's Notes • Recommendation Systems • Research Papers](https://vinija.ai/recsys/papers/)
 * [거기 말고 이 호텔 어때? - 호텔 서비스 추천 시스템 도입기](https://d2.naver.com/helloworld/2184045)
+* [Tech Radio : 호텔 추천 서비스(FOR YOU) 편](https://d2.naver.com/news/0978469)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
