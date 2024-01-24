@@ -147,6 +147,7 @@ Elixir
 * [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
 * [IEx is awesome!](https://inspired.consulting/elixir/iex-is-awesome)
 * [Elixir Processes: Linking and Monitoring - Samuel Mullen](https://s-amuelmullen.com/articles/elixir-processes-linking-and-monitoring)
+* [Build A Simple Tracing System in Elixir | AppSignal Blog](https://blog.appsignal.com/2024/01/23/build-a-simple-tracing-system-in-elixir.html)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
