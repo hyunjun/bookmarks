@@ -4880,6 +4880,7 @@ Javascript
     * 또한 Metro는 멀티 레이어 캐시를 지원해서 메모리, 디스크, 원격 캐시 순으로 읽어 들이게 할 수 있어서 원격 캐시로 56% 빠르게 할 수 있었고 내장된 워커 지원으로 무거운 작업을 병렬 처리(Webpack은 서드파티 플러그인 설정 필요)
     * Metro를 웹에서 처리하기 위해 추가적인 설정 작업이 필요했고 먼저 개발환경을 개선하고 프로덕션은 Webpack과 A/B 테스트를 진행해서 Metro의 프로덕션 빌드가 최적화되도록 진행
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+* [React Native에서 TypeScript 사용하기 - react-native 프로젝트에 TypeScript를 적용하여 개발해 보자.](https://deku.posstree.com/ko/react-native/typescript/)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [react-native-maestro](https://github.com/kiki-le-singe/react-native-maestro)
 * [react-native-masonry-list: The Masonry List implementation which has similar implementation as the `FlatList` in React Native](https://github.com/hyochan/react-native-masonry-list)
