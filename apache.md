@@ -770,6 +770,7 @@ Apache
 * [대규모 데이터의 카프카 프로듀서 성능 향상 방법](https://blog.voidmainvoid.net/475)
 * [카프카를 활용한 레이싱카 센서 실시간 수집 데이터 파이프라인 구축](https://blog.voidmainvoid.net/478)
 * [Apache Kakfa on KRaft Mode | Kafka On Kubernetes | ADITYA JOSHI | - YouTube](https://www.youtube.com/watch?v=yvThxgOLXxE)
+* [Apache Kafka minus ZooKeeper equals KRaft](https://www.linkedin.com/posts/stanislavkozlovski_kraft-slides-ugcPost-7154864515417792512-2G2O/)
 * [Kafka with k8s on Virtualbox](https://gasidaseo.notion.site/Kafka-with-k8s-on-Virtualbox-95e0fa7e40b24c3eb0f4a14bfd80ba01)
 * [Fine-tune Kafka performance with the Kafka optimization theorem | Red Hat Developer](https://developers.redhat.com/articles/2022/05/03/fine-tune-kafka-performance-kafka-optimization-theorem)
 * [A Guide To Apache Kafka - A Data Streaming Platform](https://www.decipherzone.com/blog-detail/apache-kafka)
