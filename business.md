@@ -2107,6 +2107,8 @@ Business
 * [사용자의 ‘인게이지먼트’를 측정하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2127/)
 * [프로덕트 오퍼레이션 팀은 무슨 일을 하는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/2159/)
 * [첫 구독 유도의 중요성. 온보딩 구매화면의 비밀 | by Stephan Seunghwan Seo | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-c1955c33d9d9)
+* [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
+* [구독의 최종 관문, 구매화면(페이월). 귀납적인 접근으로 생각보다 쉽게 뛰어넘을 수 있는 벽 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85%EC%9D%98-%EC%B5%9C%EC%A2%85-%EA%B4%80%EB%AC%B8-%EA%B5%AC%EB%A7%A4%ED%99%94%EB%A9%B4-%ED%8E%98%EC%9D%B4%EC%9B%94-6197a6a90f03)
 * [알라미 구독 글로벌 진출 후기. Intro 알라미는 현재 다니고 있는 스타트업 제품입니다. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EA%B5%AC%EB%8F%85-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C-%ED%9B%84%EA%B8%B0-475c0e058a06)
 * [크고 복잡한 제품, 과감하게 갈아엎기](https://toss.tech/article/mydoc)
 * [리멤버에서 UT(사용자 테스트)는 어떻게 진행하나요? - DRAMA&COMPANY](https://blog.dramancompany.com/2023/09/how-to-ux-research/)
@@ -2114,7 +2116,6 @@ Business
 * [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
 * [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
 * [09화 모호한 액티베이션과 아하모먼트 구별하기](https://brunch.co.kr/@cliche-cliche/211) AARRR
-* [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
 * [구독과 리텐션 밸런스 게임. 구독 전환율 2배 개선 vs D1 리텐션 10% 개선 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85%EA%B3%BC-%EB%A6%AC%ED%85%90%EC%85%98-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EA%B2%8C%EC%9E%84-1f7bd516f229)
 * [이제 구독도 빌드업 해야 할 때. 유저도 행복하고 매출도 행복한 구독 엔트리 전략 | by Stephan Seunghwan Seo | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EC%9D%B4%EC%A0%9C-%EA%B5%AC%EB%8F%85%EB%8F%84-%EB%B9%8C%EB%93%9C%EC%97%85-%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C-48dbc790fc4c)
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
@@ -2644,6 +2645,9 @@ Business
 * [Fail Fast, Move On: The "5 Co's of Teamwork" maturity model](https://failfastmoveon.blogspot.com/2017/03/the-5-cos-of-teamwork-maturity-model.html)
   * [박성철 - <다섯가지 Co, 팀워크 성숙도 모델> 팀이라는 이름으로 불리우는 단위 시행 조직이 어떤 상태일 수 있는지... | Facebook](https://www.facebook.com/fupfin/posts/pfbid02nQ6voidmxkW27ziMmjHKUJkdFvF9tz5xNb96YL3sBwzghsvkX75vy993Rx3y5v5Dl)
 * [Overcoming Bias: For Better Team Performance • Beth Incognito • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=njj7FA6XxLs)
+* [Dynamic Reteaming: The Art & Wisdom of Changing Teams • Heidi Helfand • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=T6euYPEcCGI)
+  * Tuckman's model: forming -> storming -> norming -> performing
+  * Deliberately reteam to spread knowledge & fulfillment
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
