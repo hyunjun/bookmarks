@@ -271,6 +271,7 @@ Programmer
 * [The 3 budgets | Swizec Teller](https://swizec.com/blog/the-3-budgets/)
   * [소프트웨어 엔지니어의 월급은 3개의 예산에서 나옵니다 | GeekNews](https://news.hada.io/topic?id=12648)
 * [기술 지식 홍수 속, 개발자는 무엇을 위해 기술을 습득해야 할까?](https://f-lab.kr/blog/good-developer-attitude)
+* [좋은 랜선사수가 없는 이유 (Feat. 유니콘)](https://brunch.co.kr/@fbrudtjr1/62) 개발자에 대한 이야기는 아니지만
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
