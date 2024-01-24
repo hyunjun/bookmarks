@@ -116,6 +116,7 @@ PHP
   * [라라벨 연관 프로퍼티에서 캐시 사용 습관을 들입시다 – 형우의 웹개발](https://mytory.net/archives/15864)
   * [라라벨 모델 Lazy Loading 연관 속성을 필요한 경우 미리 불러오기 – 형우의 웹개발](https://mytory.net/archives/15889)
   * [라라벨 모델 연관 속성, 중첩시에만 Eager Loading하고 싶을 때 – 형우의 웹개발](https://mytory.net/archives/15885)
+  * [Laravel Eloquent 자식뿐 아니라 자손 연관속성까지 한번에 불러오는 방법 – 형우의 웹개발](https://mytory.net/archives/15949)
   * [codexa: Codexa is a Documentation System built using the Laravel Framework](https://github.com/devoption/codexa)
 * [Leaf 3.0 - PHP 웹앱 & API 프레임워크 | GeekNews](https://news.hada.io/topic?id=5698)
 * opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
