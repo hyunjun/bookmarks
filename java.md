@@ -1761,7 +1761,7 @@ Java
 * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
 * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
 * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
-* [Config Server에 관하여 알아봅시다](http://blog.leekyoungil.com/?p=352)
+* [~Config Server에 관하여 알아봅시다~](http://blog.leekyoungil.com/?p=352)
 * [blog.woniper.net/category/Spring](http://blog.woniper.net/category/Spring)
   * [Booting Spring Data REST](https://www.slideshare.net/ssusere4d67c/booting-spring-data-rest)
   * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
