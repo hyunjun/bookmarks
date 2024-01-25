@@ -750,6 +750,7 @@ Web
   * [UI, 프론트, 서버를 모두 한방에 점검하는 스크립트 만들기](https://ambitious-molecule-2ed.notion.site/UI-b9bfbcc8398e4c5793f5bfcda2a32a66)
   * [파이썬으로 이미지 유사도 측정하고 UI 점검하기](https://ambitious-molecule-2ed.notion.site/UI-6da849161968428da17bb3f39563f36b)
   * [R) 크롤링 - 셀레늄 문제해결 - Data Doctor](https://datadoctorblog.com/2023/11/17/R-Crawling-Selenium-Troubleshooting/)
+  * [still the best way to scrape data. - YouTube](https://www.youtube.com/watch?v=Irs6PG36qz8)
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
