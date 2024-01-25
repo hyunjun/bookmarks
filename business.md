@@ -1088,6 +1088,7 @@ Business
 * [모든 사람이 디자이너다. 받아들여라.. Everyone is a designer. Get over it. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%8B%A4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EB%9D%BC-f47ca3da26c0) 결국 중요한 것은 협업
 * [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [성과내는 프로덕트 팀의 3가지 요소](https://brunch.co.kr/@yongjinjinipln/112)
+* [일 잘한다 소문난 시니어는 주니어 시절 어떤 사람이었나](https://brunch.co.kr/@seunghoon82/412) 열린 마음, 교류 강조
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
