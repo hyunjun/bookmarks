@@ -389,6 +389,7 @@ Programming Language
   * [Halide: A Language for Fast, Portable Computation on Images and Tensors - YouTube](https://www.youtube.com/watch?v=93-bfnKCb8E)
 * [Hedy - A gradual programming language](https://www.hedycode.com/)
   * [Teaching Kids to Program with Hedy: A Gradual Programming Language • Felienne Hermans • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ztdxlkmxpIQ)
+  * [Hedy: Creating a Programming Language for Everyone • Felienne Hermans • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=j4eSjA6btE8)
 * [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [HTML: The Programming Language](https://html-lang.org/)
