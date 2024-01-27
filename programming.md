@@ -2722,6 +2722,7 @@ Programming
 * [크몽 개발팀 Jira 사용기 : 극대화 편. Jira를 이렇게까지 사용 가능한지 난 몰랐네? | by James | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EA%B7%B9%EB%8C%80%ED%99%94-%ED%8E%B8-88439965a9bf)
 * [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
 * [Release PR만들어질때, Jira 이슈에 배포 버전 자동으로 추가하기(feat. GitHub Action) | by Ted Park | PRND | Dec, 2023 | Medium](https://medium.com/prnd/release-pr%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%88%EB%95%8C-jira-%EC%9D%B4%EC%8A%88%EC%97%90-%EB%B0%B0%ED%8F%AC-%EB%B2%84%EC%A0%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-feat-github-action-fef1c8970a39)
+* [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -5267,6 +5268,7 @@ Programming
   * [1월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/01/b-1-1.html)
   * [1월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/01/b-1-3.html)
   * [1월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/01/b-1-3_20.html)
+  * [1월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/01/b-1-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
