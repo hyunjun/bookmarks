@@ -881,6 +881,8 @@ Programming Books
 * [박태웅의 AI 강의](https://zdnet.co.kr/view/?no=20230622161319)
   * ★★★☆☆ 2023.06.22 교양서로 읽기에 정말 적절한 내용 구성과 수준. 금새 읽을 수 있는데도 가볍지 않은 내용들을 포괄하고 있어 정말 좋다
   * 한라 331.5412-박883ㅇ 우당 문331.5412-박832ㅂ
+* (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
+  * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
   * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
@@ -2045,6 +2047,9 @@ Programming Books
   * Git뿐만 아니라 GIthub, Bitbucket, Gitlab등의 내용도 포함
   * 색인이 없다는 단점
   * [팀을 위한 Git](https://blog.outsider.ne.kr/1281)
+* [**얄코의 TOO MUCH 친절한 깃 & 깃허브 | 얄코**](https://www.yalco.kr/books/toomuch-git/)
+  * 탐라 문005.12-고94ㅇ
+  * [TOO MUCH 친절한 깃 & 깃허브 - YouTube](https://www.youtube.com/playlist?list=PLpO7kx5DnyIExjwxxjSigwN6Y096e73lH)
 * (NOT YET) [Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/342/PUB)
   * [opentutorials.org/module/3733](https://opentutorials.org/module/3733)
 * (NOT YET) [팀 개발을 위한 Git・GitHub 시작하기](https://jybaek.tistory.com/874)
