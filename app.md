@@ -1961,6 +1961,7 @@ App
 * [Zrythm - Digital Audio Workstation](https://www.zrythm.org/en/index.html)
 
 # Note
+* [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com](http://dddraft.com/)
 * [coda - A doc as powerful as an app](https://coda.io)
