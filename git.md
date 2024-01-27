@@ -896,6 +896,24 @@ Git
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
+    * situation; PR을 만든 후 새로운 commit들이 main에 올라와서 update 필요
+      * mistake; PR에서 update를 그냥 했더니 내가 만들었던 PR의 commit들을 덮어쓰는 문제 발생
+      * solution
+        * PR을 만든 후 main의 새로운 commit들을 cherry-pick으로 하나씩 내가 만든 branch에 적용
+        * `git merge main --no-ff --no-commit`으로 문제없는지 확인, 다음과 같이 출력
+
+          ```
+          On branch <PR branch>
+          Your branch is up to date with 'origin/<PR branch>'.
+
+          All conflicts fixed but you are still merging.
+            (use "git commit" to conclude merge)
+          ```
+        * `git commit`
+        * `git push`
+        * 이후 github의 PR에서 보면 File changed에 내가 만든 변경 사항들만 있음을 확인할 수 있음
+          * 단 Commits에는 내가 만든 commit 이외에도 cherry-pick한 commit들도 있으므로 더 많음
+      * 정리 [PR Pull Request > PR을 만든 후 main에 새로운 commit들이 올라온 경우](https://www.notion.so/1003/PR-Pull-Request-7e723a134ef742db931952d00244afbc)
   * `git merge <name> -X theirs` [Force Git to always choose the newer version during a merge?](http://stackoverflow.com/questions/13594344/force-git-to-always-choose-the-newer-version-during-a-merge)
     * e.g. branch merge할 때 <name>의 내용으로 덮어쓰고 싶은 경우
   * `git checkout HEAD -- <filename>` [Hard reset of a single file](https://stackoverflow.com/questions/7147270/hard-reset-of-a-single-file)
