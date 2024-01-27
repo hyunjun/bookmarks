@@ -267,6 +267,8 @@
 * [aws-lc-rs: aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring](https://github.com/awslabs/aws-lc-rs)
   * [Introducing AWS Libcrypto for Rust, an Open Source Cryptographic Library for Rust | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/introducing-aws-libcrypto-for-rust-an-open-source-cryptographic-library-for-rust/)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
+* [Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://github.com/tracel-ai/burn)
+  * [Rust AI - Burn DL Framework - YouTube](https://www.youtube.com/watch?v=pem68BWRXQo)
 * [candle: Minimalist ML framework for Rust](https://github.com/huggingface/candle)
   * [Rust AI - Candle in Huggingface - YouTube](https://www.youtube.com/watch?v=2ID9qLjpaQE)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
