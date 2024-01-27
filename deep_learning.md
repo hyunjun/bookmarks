@@ -183,6 +183,7 @@ Deep Learning
     * [ChatGPT로 한글과 한자가 적힌 카드 만들기 | Pega Devlog](https://jehyunlee.github.io/2023/12/25/General-33-ChatGPT_DataAnalysis/)
     * [DALL.E 대비가 강한 그림 그리기 | Pega Devlog](https://jehyunlee.github.io/2023/12/26/General-34-dalle_centaur/)
     * [DALL.E로 그리는 "그리는 손" (M.C Escher) | Pega Devlog](https://jehyunlee.github.io/2024/01/04/General-36-drawinghand/)
+    * [DALL.E, Watermark & Signature | Pega Devlog](https://jehyunlee.github.io/2024/01/24/General-39_signature/)
     * [DALL·E 3](https://openai.com/dall-e-3)
       * [DALL·E 3 | GeekNews](https://news.hada.io/topic?id=10971)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
