@@ -119,6 +119,7 @@ Web
 * [웹 개발자를 위한 Web Protocols 정리](https://joshua1988.github.io/web_dev/web-protocols/)
 * [**웹개발 패러다임의 거대한 변화 "Reactive"**](http://hamait.tistory.com/761)
 * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
+* [차근차근 이해해 보는 HTML 반응형 이미지 – 형우의 웹개발](https://mytory.net/archives/15954)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-june-2019-ac752fe9df47)
