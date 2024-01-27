@@ -4296,6 +4296,8 @@ Programming
 * [DevOps Expert Labs 교육은 현장에서 어떻게 이뤄질까?(feat. CJ+두산 워크숍 후기) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/27/devops-expertlabs-workshop/)
 * [From 100 Pipelines to 1 • Bhavik Gudka • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QqfIFSGl-Cg)
 * [2024년 DevOps 트렌드 5가지 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/17/2024-devops-trends/)
+* [2024년 DevOps 트렌드 전망 5가지 | GeekNews](https://news.hada.io/topic?id=13054)
+  * container화 -> 가시성 부족, IaC -> 높은 기술 숙련도 요구, 옵저버빌리티 -> 구현에 고비용, 숙련인력 부족이 연결된 게 딱 지금 상황이 연상
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
