@@ -4460,6 +4460,8 @@ Programming
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
   * [Production Secret Management at Airbnb](https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6)
 * [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum - YouTube](https://www.youtube.com/watch?v=JQPTlrff8iU)
+* Consul -> [web.md](web.md)
+  * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2586/)
 * [driftctl: Detect, track and alert on infrastructure drift](https://github.com/snyk/driftctl)
   * [Catch infrastructure drift - driftctl](https://driftctl.com/)
 * [gitops-demo](https://github.com/sckimynwa/gitops-demo)
