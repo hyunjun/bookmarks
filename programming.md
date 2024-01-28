@@ -6103,6 +6103,7 @@ Programming
 * [멀고도 험난했던 개발 지원이 중단된 Library 연동 과정 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/how-to-work-with-legacy-library/)
 * [Adventures in Performance: Efficiency Analysis of Large-Scale Compute - YouTube](https://www.youtube.com/watch?v=oUh2NPxE16E)
 * [The Joy of Building Large Scale Systems - YouTube](https://www.youtube.com/watch?v=lLbcvGgxCPg)
+* [The Joy of Building Large Scale Systems • Suhail Patel • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=AgIyUCpNTr0)
 * [표준 개발 환경 개선 되돌아보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15572/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
