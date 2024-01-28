@@ -691,6 +691,7 @@ Docker
   * 컨테이너 이미지 관련해서 리서치하면서 정리한 글
   * 처음에는 직접 pivot_root와 OverlayFS로 컨테이너의 구조를 살펴보고 CRI, OCI가 무엇이고 Docker와는 어떻게 연결되어 있는지 설명
   * 이 컨테이너를 빌드하는 도구 중 jib, kaniko, BuildKit을 간단히 설명하면서 컨테이너가 표준화가 많이 되어있지만, Dockerfile은 따로 표준이 없기 때문에 Dockerfile을 사용한다면 Docker와의 의존성은 끊기 어렵다고 설명
+* [의존성 캐싱을 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
 * [Why Every Developer Should Learn Docker in 2023? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/why-every-developer-should-learn-docker-in-2023-ac27fac5fd6f)
 * [container_learning: 컨테이너 기술 공부](https://github.com/pjt3591oo/container_learning)
 * [Implementing Auto-Scaling for Improved Performance: A Backend Engineer's Journey - DEV Community](https://dev.to/jackynote/implementing-auto-scaling-for-improved-performance-a-backend-engineers-journey-43g7)
