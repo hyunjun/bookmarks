@@ -865,6 +865,7 @@ Python
   * [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
   * [파이썬 성능최적화 : sorted dict array 순회 로직 - YouTube](https://www.youtube.com/watch?v=JywTBamsNGA)
   * [Better dict for configuration – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4631)
+  * [파이썬 ordereddict 클래스가 dict와 어떻게 다른지 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2024/01/24/%ed%8c%8c%ec%9d%b4%ec%8d%ac-ordereddict-%ed%81%b4%eb%9e%98%ec%8a%a4%ea%b0%80-dict%ec%99%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%8b%a4%eb%a5%b8%ec%a7%80-%ec%95%8c%ec%95%84%eb%b4%85%ec%8b%9c%eb%8b%a4/)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * encoding
