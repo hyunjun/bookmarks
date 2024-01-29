@@ -322,6 +322,8 @@ AWS
 * [AWS Tag 적용 가이드와 활용 - 2부:: Mesh Korea Makers Blog](https://mesh.dev/20210311-dev-notes-004-aws-tag-02/)
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [AWS MediaLive, AWS MediaPackage기반 라이브 스트리밍 워크플로 Observability 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-medialive-mediapackage-based-workflow-observability/)
+* [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
+* [Amazon EKS에서 관리형 서비스를 활용하여 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-using-amazon-eks/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) optimization
 * [Instance Price Guide](https://instaguide.io/)
@@ -492,7 +494,6 @@ AWS
 * [Amazon Kendra를 사용하여 AstraZeneca Japan의 엔터프라이즈 검색 기능 및 규정 준수 개선 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/improving-astrazeneca-japans-enterprise-search-capabilities-and-regulatory-compliance-using-amazon-kendra/)
 * [Generative AI Solutions in AWS Marketplace](https://aws.amazon.com/marketplace/solutions/machine-learning/generative-ai)
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
-* [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
 * [Accelerate, protect and make dynamic workloads delivery cost efficient with Amazon CloudFront | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
@@ -814,6 +815,8 @@ AWS
     * 법칙 6: 비용 최적화는 점진적으로 이뤄진다
     * 법칙 7: 도전하지 않는 성공은 가정으로 이어진다
     * [The Frugal Architecture – 알뜰한 아키텍처를 위한 7가지 원칙 :: Channy's Blog](https://channy.creation.net/blog/1828)
+  * [AWS re:Invent 2023, 관심 세션을 중심으로 (1편): Aurora DB, Amplify | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2023-aws-reinvent-1/)
+  * [AWS re:Invent 2023, 관심 세션을 중심으로 (2편): Cost Optimization, Observability | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2023-aws-reinvent-2/) myApplications, Cost Optimization Hub
   * [AWS Re:invent 2023 참관기와 연사자 후기! (1) | by 요기요 R&D Center | Jan, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/aws-re-invent-2023-%EC%B0%B8%EA%B4%80%EA%B8%B0%EC%99%80-%EC%97%B0%EC%82%AC%EC%9E%90-%ED%9B%84%EA%B8%B0-1-d14f9458a1c8)
   * [AWS re:Invent 2023 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2023/)
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
@@ -2084,6 +2087,7 @@ AWS
 * [How SOCAR built a streaming data pipeline to process IoT data for real-time analytics and control | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/how-socar-built-a-streaming-data-pipeline-to-process-iot-data-for-real-time-analytics-and-control/)
 * [Amazon MSK를 이용하여 Amazon Athena로 실시간 스트리밍 데이터 분석하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/analyze-real-time-streaming-data-in-amazon-msk-with-amazon-athena/)
 * [Amazon MSK, Kafka 토픽을 Kinesis Data Firehose를 통해 Amazon S3로 전송 가능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
+* [Amazon MSK를 활용한 데이터베이스 간 CDC 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-database-cdc-using-amazon-msk/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
