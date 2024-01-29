@@ -1503,6 +1503,10 @@ NLP
 * [**오픈소스로 완성하는 AI Full Stack**](https://revf.tistory.com/303)
 * [How to Fine-Tune Open Source LLMs for My Specific Purpose - DeepNatural Blog](https://deepnatural.ai/blog/how-to-fine-tune-open-source-llms-for-my-specific-purpose-en)
 * [Unleash the Power of Large Language Models (LLMs) • Daria Hvizdalova • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=M0exasJQ1ks)
+* [Why LLMs are vulnerable to the ‘butterfly effect’ – DNyuz](https://dnyuz.com/2024/01/23/why-llms-are-vulnerable-to-the-butterfly-effect/)
+  * 말투는 물론 공백 차이로도 출력에 큰 영향
+  * [Are LLMs Greedy? An Experimental Analysis of the Tipping Prompt ($0 to $1 Million) – Be on the Right Side of Change](https://blog.finxter.com/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis/)
+    * 팁을 주면 더 나은 결과를 가져올까 하는 연구도 있는데 이건 큰 효과는 없었음
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1725,6 +1729,7 @@ NLP
     * [Build A Next.JS Chatbot with Langchain and Upstash Redis - YouTube](https://www.youtube.com/watch?v=gpXXIvfSCto)
     * [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
     * [ChatGPT 플러스 결제를 중단하는 이유? - YouTube](https://www.youtube.com/watch?v=_HuQNooKRXQ)
+    * [Ollama meets LangChain - YouTube](https://www.youtube.com/watch?v=k_1pOF1mj8k)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [ollamex: Ollamex is an Elixir wrapper of the ollama REST API](https://github.com/waseigo/ollamex)
