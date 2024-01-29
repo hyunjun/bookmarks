@@ -74,6 +74,7 @@ Data Science
 * [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
 * [칼럼ㅣ'ETL'은 빅데이터와의 경쟁에서 패배했다 - CIO Korea](https://www.ciokorea.com/news/208017) ETL -> ELT or pipelined data streaming
 * [ETL, ELT의 4가지 주요 차이점 - 밥먹는 개발자](https://dining-developer.tistory.com/50)
+* [ETL vs ELT, 당신의 선택은?. ELT의 장단점과 딜라이트룸에서의 도입 후기 | by Chris Lee | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/etl-vs-elt-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%A0%ED%83%9D%EC%9D%80-3d55ee4c5192)
 * [GumGum Builds and Maintains High-Performance ETL Pipelines for Ad Exchange Reporting - YouTube](https://www.youtube.com/watch?v=Nojo-4QJyrI)
 * [Tables as Code: The Journey from Ad-hoc Scripts to Maintainable ETL Workflows at Booking.com - YouTube](https://www.youtube.com/watch?v=gTARHyGrcq0)
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
