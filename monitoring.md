@@ -210,6 +210,7 @@ Monitoring
       * [Datadog Service Catalog Metadata Provider · Actions · GitHub Marketplace](https://github.com/marketplace/actions/datadog-service-catalog-metadata-provider)
     * 각 저장소에서 워크플로우를 설정해서 바로 Datadog에 정보를 업데이트 가능
     * GitHub의 org 밑에 규칙 파일을 두어 `division` 태그를 필수로 검사하거나 유효한 `division`만 사용하게 한다든지 하는 조직적 관리 방법도 같이 설명
+  * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 * [data-prepper: Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale](https://github.com/opensearch-project/data-prepper)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
