@@ -3497,6 +3497,7 @@ Programming
   * [INFCON 2022에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/infcon-2022-recap)
   * [인프콘 2022 회고](https://jojoldu.tistory.com/678)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
+* [lazyconf-dev/2024-lazydevconf: 2024 게으른 개발자 컨퍼런스 발표자료](https://github.com/lazyconf-dev/2024-lazydevconf)
 * Line
   * [LINE 앱을 위한 확장 가능한 멀티 데이터 센터 ID제너레이터 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=Nj6z8NgKun0) ULI
     * [Scalable Multi Datacenter ID Generator for LINE's Messaging Application - Speaker Deck](https://speakerdeck.com/line_devday2021/scalable-multi-datacenter-id-generator-for-lines-messaging-application)
