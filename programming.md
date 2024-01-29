@@ -4321,6 +4321,8 @@ Programming
 * [Why don't we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
+* [FakeSMTP – FakeSMTP - Dummy SMTP server for developers](https://nilhcem.com/FakeSMTP/)
+  * [로컬 개발시 이메일 전송 테스트할 수 있는 유용한 프로그램 FakeSMTP – 형우의 웹개발](https://mytory.net/archives/15992)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
@@ -6358,6 +6360,7 @@ Programming
   * TDD는 아니지만 일단 여기에
   * 근거는 안 알려줘서 알 수 없지만 code 7줄마다 assert 하나가 필요하다고 말했다고 함
 * [당신의 코드를 튼튼하게. 코딩의 기본 - Assert - YouTube](https://www.youtube.com/watch?v=52cQQN69uOY)
+* [식별할 수 있는 동작(Observable behavior) - 테스트 대상 코드를 구분하는 기준 - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/observable-behavior/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
