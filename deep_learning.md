@@ -957,6 +957,7 @@ Deep Learning
 * [RL: Reinforcement Learning Algorithms](https://github.com/young2code/RL)
 * [TinyML Book](https://tinymlbook.com)
   * [TinyML 세계에 여러분을 초대합니다!](https://brunch.co.kr/@synabreu/97)
+* [udlbook](https://udlbook.github.io/udlbook/) Understanding Deep Learning
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
