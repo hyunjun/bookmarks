@@ -6341,6 +6341,8 @@ Javascript
   * [Vue3에서 사용되는 상태 관리자, Pinia | Univdev](https://www.univdev.page/posts/about-pinia/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
+* [VeeValidate: Painless Vue.js forms](https://vee-validate.logaretm.com/v4/)
+  * [VeeValidate의 4가지 검증 모드 설명 – 형우의 웹개발](https://mytory.net/archives/15984)
 * [villus: 🏎 A tiny and fast GraphQL client for Vue.js](https://github.com/logaretm/villus)
 * [vorms: Vue Form Validate with Composition API](https://github.com/Mini-ghost/vorms)
   * [Vorms | Vue form validation with Composition API](https://vorms.mini-ghost.dev/)
