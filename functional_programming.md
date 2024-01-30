@@ -169,6 +169,8 @@ Functional Programming
   * 스테판 울프럼이 온라인 세션으로 다른 물리학자들과 진행한 "Relations to Category Theory"
   * 4시간 가까이 이론 설명 및 토론 + 매스매티카로 예제 구현, 어려움
 * [Daniel Beskin - Category Theory as a Tool for Thought - YouTube](https://www.youtube.com/watch?v=C1IGfRIjK5A)
+* [번역 프로그래머를 위한 카테고리 이론 - 카테고리: 합성의 본질 | Evans Library](https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-1-category/)
+* [번역 프로그래머를 위한 카테고리 이론 - 0. 서문 | Evans Library](https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
