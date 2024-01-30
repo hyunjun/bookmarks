@@ -943,6 +943,8 @@ Javascript
   * [Measure Time Taken by a Function to Execute in JavaScript - YouTube](https://www.youtube.com/watch?v=3dkTjy9AX6k)
   * [JS로 시간 다루기. 시간을 다루는 것은 참 까다롭습니다. 여러 가지 지식이 필요하기… | by 이상선 | Jan, 2023 | Medium](https://medium.com/@sunyi233/js%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A4%EB%A3%A8%EA%B8%B0-ee8baa05c03c)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
+* File
+  * [자바스크립트로 파일 다운로드하기](https://developer-alle.tistory.com/435)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
   * [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map#map-for-hash-map)
@@ -5676,6 +5678,7 @@ Javascript
 * [Three common types of test automation](https://web.dev/ta-types/) 웹 테스트 종류에는 어떤 것들이 있는지 소개하고 관련된 라이브러리도 간략하게 제시
 * [프론트엔드 테스트 코드와 의존성 | JBEE.io](https://jbee.io/developments/frontend-testing-and-dependency/)
 * [전개연산자는 왜 샌드위치를 망쳤을까?](https://velog.io/@hyemin916/%EC%A0%84%EA%B0%9C%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EB%A7%9D%ED%95%9C-%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84)
+* [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
