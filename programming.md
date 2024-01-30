@@ -2547,6 +2547,7 @@ Programming
   * [Istio By Example](https://istiobyexample.dev/)
     * Istio 서비스 메시에서 카나리 배포나 외부 서비스 연결, 로컬리티 로드 밸런싱 등 사례별로 그림과 함께 설정 방법을 정리한 사이트
   * [istio proxy의 작동원리](https://brunch.co.kr/@growthminder/84)
+  * [Istio Service Mesh Explained - YouTube](https://www.youtube.com/watch?v=6zDrLvpfCK4)
   * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
     * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
       * Istio의 ambient mesh를 위한 ztunnel(zero trust tunnel) 컴포넌트는 HTTP 트래픽을 종료하거나 헤더를 파싱하지 않고 mTLS, 인증, L4 인가, 텔레메트리를 위한 기능을 가지고 있으며 Kubernetes 워커 노드에서 실행되어 최소한의 리소스 풋 프린트를 남기는 것이 중요
