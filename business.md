@@ -1817,6 +1817,7 @@ Business
 * [이끌거나, 따르거나, 아니면 비키거나](https://www.thestartupbible.com/2023/11/lead-follow-or-get-out-of-the-way.html)
 * [big story 좋은 리더는 '슈퍼맨' 아닌 '경청맨'](https://v.daum.net/v/20181101110658703)
 * [좋은 리더가 되는 방법](https://jojoldu.tistory.com/768)
+* [직장 상사에게 비즈니스석을 양보했는데 거절당했다](https://www.linkedin.com/posts/jimmycho1_%EC%A7%81%EC%9E%A5-%EC%83%81%EC%82%AC%EC%97%90%EA%B2%8C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%84%9D%EC%9D%84-%EC%96%91%EB%B3%B4%ED%96%88%EB%8A%94%EB%8D%B0-%EA%B1%B0%EC%A0%88%EB%8B%B9%ED%96%88%EB%8B%A4-8%EB%85%84-%EC%A0%84-%EC%99%B8%EA%B5%AD%EA%B3%84-activity-7156937981331656704-vkEj/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
