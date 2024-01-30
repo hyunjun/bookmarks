@@ -65,6 +65,7 @@ Finance
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [그래햄의 NCAV(순유동자산) 전략 – 거저 먹기 투자, 한국에서 아직도 가능하다](https://www.snek.ai/alpha/article/108066)
 * [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
+* [국가가 시키는대로 저PBR주식 사세요? - YouTube](https://www.youtube.com/watch?v=C8xi2fUK1mY&t=295s)
 * [할 수 있다! 알고 투자](https://www.youtube.com/channel/UCSWPuzlD337Y6VBkyFPwT8g)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
