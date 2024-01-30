@@ -645,6 +645,7 @@ AWS
 * [한글번역 AWS re:Invent 2023 아마존 Bedrock으로 생성형 AI 애플리케이션 구축하기 - YouTube](https://www.youtube.com/watch?v=g0-OAMhhQ90)
 * [AWS Step Functions 및 Amazon Bedrock을 사용하여 생성형 AI 앱 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/)
 * [Building Practical, Cost-Efficient GenAI Solutions Using Serverless • Veda Raman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-X-YHHU7p20)
+* [Amazon Bedrock으로 그래프 RAG 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-graph-rag/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
