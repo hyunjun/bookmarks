@@ -896,6 +896,7 @@ Programming
 * [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
 * [칼럼 | ‘스크럼폴’··· 워터폴이 애자일인 척 준동할 때 - CIO Korea](https://www.ciokorea.com/news/234289) scrumfall
+* [애자일이라고 불러도 되는가?](https://velog.io/@joosing/can-we-call-it-agile) waterfall과의 비교
 * [Let’s Stop Lying! Almost Nobody Does Scrum! | by David Pereira | Serious Scrum | Medium](https://medium.com/serious-scrum/lets-stop-lying-almost-nobody-does-scrum-348edd4fc3df)
   * [“솔직히 우리가 하는 것은 스크럼이 아닙니다!” | 요즘IT](https://yozm.wishket.com/magazine/detail/1474/)
 * [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
@@ -3660,6 +3661,7 @@ Programming
   * ['핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2295/)
 * [App팀은 이렇게 일해요-(4) 자동화 aka CI/CD. 안녕하세요. 비주얼에서 App팀 팀장을 맡고 있는 박창규입니다… | by TalQ | bejewel | Nov, 2023 | Medium](https://medium.com/bejewel/app%ED%8C%80%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%B4%EC%9A%94-4-%EC%9E%90%EB%8F%99%ED%99%94-aka-ci-cd-cbe63c1b0227)
 * [안전제일! 뱅크샐러드가 모바일 앱을 안정적으로 배포하는 방법 | 뱅크샐러드](https://blog.banksalad.com/tech/how-banksalad-safely-deploys-mobile-app/)
+* [CI/CD 도구를 선택하는 방법: 프레임워크 | The TeamCity Blog](https://blog.jetbrains.com/ko/teamcity/2024/01/how-to-choose-cicd-tool/)
 * [AWX를 이용한 CI/CD Pipeline: Pylon | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/sre-re-pylon/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
