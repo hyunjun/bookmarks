@@ -642,6 +642,7 @@ Apache
 * [Kafka 클러스터 메세지 발행 및 문제 해결 :: 당근케잌](https://yeon-kr.tistory.com/186)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
+* [Apache Kafka example with Java - getting started tutorial - Part 1 | Java & Big Data Career Companion](https://www.java-success.com/apache-kafka-example-with-java-getting-started-tutorial-part-1/)
 * [**blog.voidmainvoid.net/category/.../Kafka**](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
   * [blog.voidmainvoid.net/tag/kafka](https://blog.voidmainvoid.net/tag/kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
@@ -649,8 +650,6 @@ Apache
 * [Kafka, Producer 부터 Consumer 까지](https://docs.google.com/presentation/d/16ZoY4QLpbAqHcCISaURCKXGNGs9sG809Pi4MHLsdKNA/)
 * [kafka-multiprocessing-producer.py](https://gist.github.com/outtoin/12d1334b1345403c57372fcc6653c11b) 정상 동작하는 지 점검 필요
 * [kafka-tutorials.com](https://www.kafka-tutorials.com)
-* [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
-* [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 * [Kafka, Java, and Bitcoin](https://medium.com/pharos-production/kafka-java-and-bitcoin-cf0009767645)
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
