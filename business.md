@@ -497,6 +497,8 @@ Business
   * 이 정도로 이야기할 수 있다는 건 그만큼 엔지니어가 우대받는 문화의 회사이기 때문에 가능한 이야기
 * [지식 근로자의 생산성을 어떻게 끌어올릴 것인가(上)](https://brunch.co.kr/@graypool/1260)
 * [지식 근로자의 생산성을 어떻게 끌어올릴 것인가(中)](https://brunch.co.kr/@graypool/1295)
+* [생산성 200% 올리는 업무 관리 방법(이론편) | 요즘IT](https://yozm.wishket.com/magazine/detail/2339/)
+* [생산성 200% 올리는 업무 관리 방법(실전편) | 요즘IT](https://yozm.wishket.com/magazine/detail/2437/)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [회사 일이 재미없다면 이직만이 답인가? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/changejob20221129)
@@ -2162,6 +2164,7 @@ Business
 * [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
 * [PM은 CAC, LTV, PP를 언제 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2102/)
 * [서비스 기획자의 뷰티컬리로 확장하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/expand-to-Beauty-Kurly/)
+* [ChatGPT를 PM의 '어시스턴트'로 만드는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2436/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -2307,6 +2310,7 @@ Business
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/)
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [Designing a Customer-Centric Business Model - YouTube](https://www.youtube.com/watch?v=L1Km-hJt-uI)
+* [‘비즈니스 모델 캔버스’ 쉽게 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2433/)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
