@@ -251,6 +251,7 @@ Data Visualization
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Open MCT - Open Source Mission Control Software — Open MCT](https://nasa.github.io/openmct/)
 * [redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
+  * [Redash 오류 탐험기: 오픈소스 컨트리뷰터가 될 뻔한 날 | by Whatsup | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/redash-%EC%98%A4%EB%A5%98-%ED%83%90%ED%97%98%EA%B8%B0-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EA%B0%80-%EB%90%A0-%EB%BB%94%ED%95%9C-%EB%82%A0-1f4f8e44ca70)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [seoulzoo-map](https://github.com/leejeonghoon/seoulzoo-map) 서울동물원 지도 리디자인
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
