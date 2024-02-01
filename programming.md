@@ -1763,9 +1763,12 @@ Programming
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
   * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/) architecture decision record
-  * [govuk-aws: Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure](https://github.com/alphagov/govuk-aws)
   * [3회 ADR을 써야하는 이유,슈퍼셀의 교훈,QRPicture,Puppeteer와 Playwright,eBPF - YouTube](https://www.youtube.com/watch?v=aCw0YwEHpCU&t=137s)
     * [GN#59 ADR을 써야 하는 이유 와 슈퍼셀의 10가지 교훈 | GeekNews](https://news.hada.io/weekly/202034)
+  * [아키텍처 의사 결정 기록을 작성해야 하는 이유](https://maily.so/saascenter/posts/1a1f5b56)
+    * [When Should I Write an Architecture Decision Record - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)
+    * [아키텍처 결정 레코드 개요  |  클라우드 아키텍처 센터  |  Google Cloud](https://cloud.google.com/architecture/architecture-decision-records?hl=ko)
+  * [govuk-aws: Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure](https://github.com/alphagov/govuk-aws)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [AUTHNZ — Authentication and Authorization in Micro-Service Architecture | by Tanya Sharma | Myntra Engineering | Mar, 2022 | Medium](https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
@@ -5446,6 +5449,7 @@ Programming
   * [기술 뉴스 #236 : 23-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1698)
   * [기술 뉴스 #237 : 24-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1702)
   * [기술 뉴스 #238 : 24-01-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1705)
+  * [기술 뉴스 #239 : 24-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1706)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5669,6 +5673,7 @@ Programming
 * [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
 * [일본 1위 배달 앱, 바닥부터 다시 짠다 - Recode 프로젝트 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-demaecan-recode-project/)
 * [멀쩡한 앱을 Flutter 앱으로 다시 짠 이유 - 일본 1위 배달 앱, 두 번째 Recode](https://engineering.linecorp.com/ko/blog/demaecan-2nd-recode-kmm-to-flutter)
+* [Flutter 전환의 마침표 - 일본 1위 배달 앱, 세 번째 Recode](https://techblog.lycorp.co.jp/ko/demaecan-3rd-recode-react-native-to-flutter)
 * [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
 * [What is Refactoring? - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/what-is-refactoring)
 * [새로운 컬리몰 NX를 소개합니다. - 컬리 기술 블로그](https://helloworld.kurly.com/blog/introduction_new_kurlymall_web/)
@@ -5752,6 +5757,8 @@ Programming
   * [노코드 툴 버블 기본기 강의 (bubble.io BASICS) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1qvMYfsqD1k0xzMrNTfoBH)
   * [노코드 툴 버블로 클론코딩 (CLONE NO-CODING with bubble.io) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1NOBaYavRaztP2Yvhp6mk2)
   * [버블 제작 프로덕트 아카이빙](https://wooden-temple-2b2.notion.site/fcf109d580b344d98103b33da9c15470)
+  * [개발자도 알면 좋은 노코드 툴, 버블(Bubble)](https://velog.io/@tosspayments/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%85%B8%EC%BD%94%EB%93%9C-%ED%88%B4-%EB%B2%84%EB%B8%94Bubble)
+  * [노코드로 결제 연동하기](https://velog.io/@tosspayments/%EB%85%B8%EC%BD%94%EB%93%9C-%ED%88%B4-%EB%B2%84%EB%B8%94Bubble%EC%97%90%EC%84%9C-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 * [코드앤버터 - 팝업을 쉽고 빠르게! 웹사이트를 꾸미는 가장 쉬운 방법](https://www.codenbutter.com/)
   * [코드앤버터로 프로덕션 환경에서 우아하게 팝업 관리하기 — 생존과 성장 사이](https://blog.haenu.com/11)
     * 웹사이트에는 팝업이 필요한 경우가 있는데 단순하지만 어느정도 기능 구현에 시간을 써야하고 PO/PM이 직접 관리하게 하려면 더 많은 개발이 필요했기에
