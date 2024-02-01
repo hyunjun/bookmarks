@@ -1240,6 +1240,7 @@ Docker
 * [Extending Kubectl with Plugins. Plugins are software extensions that… | by Aditya Joshi | Oct, 2022 | Level Up Coding](https://levelup.gitconnected.com/extending-kubectl-with-plugins-a9bf2d065441)
   * [Kubectl Plugins - YouTube](https://www.youtube.com/playlist?list=PLuAZTZDgj0ct2wrYI96pJ12EIZJT05bMK)
 * [18. 편리한 운영을 위한 오픈소스 솔루션 소개 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-24-kubernetes-18/) plugin
+* [19. 쿠버네티스 환경 변수 사용 및 Probe 설정 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-31-kubernetes-19/)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
 * [**쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?**](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 * [**쿠버네티스 시작하기 - 설치부터 배포까지**](https://subicura.com/2020/12/13/kubernetes-basic-2.html)
