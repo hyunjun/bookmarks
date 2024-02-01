@@ -7,6 +7,7 @@ Web
 * [BehindTheSite - A log of web technology stacks](http://behindthesite.com)
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 * [깃플 기술스택 구경하세요~ (프론트엔드 편)](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/)
+* [지금 주목해야 할 2024년 웹 개발 트렌드 Top 4 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/31/development-trends/)
 * [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
   * [(번역) 2023년 웹 개발 트렌드 10가지 | Ykss](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
 * [The State of Frontend 2022](https://tsh.io/state-of-frontend/)
