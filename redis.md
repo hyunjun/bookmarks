@@ -153,6 +153,7 @@ Redis
 * [I've been using Redis wrong this whole time... - YouTube](https://www.youtube.com/watch?v=WQ61RL1GpEE)
 * [AWS announces vector search for Amazon MemoryDB for Redis (Preview)](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/vector-search-amazon-memorydb-redis-preview/)
 * [How does Redis persist data?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7143642585989804034-4n8t/)
+* [I've been using Redis wrong this whole time... - YouTube](https://www.youtube.com/watch?v=WQ61RL1GpEE)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
