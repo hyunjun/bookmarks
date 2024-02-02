@@ -695,6 +695,7 @@ Programming
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
 * [Strangler Fig 패턴과 점진적 IT 투자](https://brunch.co.kr/@graypool/966) 기술적인 이야기는 아니라서 여기에
+* [코드 정돈과 시스템 규모 리팩터링 사이](https://brunch.co.kr/@graypool/1539) 역시 기술에 대한 건 아니지만 좋은 글
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
@@ -2545,6 +2546,21 @@ Programming
       * Istio Ambient에서는 기능이 보안 오버레이 레이어와 L7 처리 레이어로 분리되었는데 Waypoint 프락시는 여기서 워크로드의 L7 처리를 담당하는 선택적 컴포넌트로 Envoy 기반
       * 기존 Istio 사이드카 아키텍처에서는 클라이언트 프락시에 트래픽 정책이 있고 서버 쪽 프락시에 보안 정책이 있어서 확장성이나 디버깅 등에 어려움 존재
       * Waypoint 프락시는 서버 쪽에만 모든 정책이 적용되고 네임스페이스나 서비스 계정 단위로 관리할 수 있게 되었고 애플리케이션과 독립적이기 때문에 확장, 운영이 쉽고 사이드카가 없어서 리소스 측면에서도 절약
+    * [Istio / Maturing Istio Ambient: Compatibility Across Various Kubernetes Providers and CNIs](https://istio.io/latest/blog/2024/inpod-traffic-redirection-ambient/)
+      * Istio의 사이드카 없는 버전인 Ambient Mesh를 구현하고 작년 알파를 출시해서 Ambient 모드의 가치를 입증하는 데 중점
+        * 초기 메커니즘이 다른 CNI와 충돌하는 것과
+        * 사용자들은 어디서나 모든 CNI 구현에서 Ambient 모드를 원한다는 것을 알게 되어
+        * 베타버전으로 가기 전에 가장 중요한 요구사항이 됨
+      * `istio-cni`는 기본 CNI 구현이 아니고 클러스터의 기본 CNI를 확장하는 노드 에이전트
+        * 이 초기 구현이 기본 CNI 구현의 네트워킹 구성과 충돌 발생
+        * 적용한 네트워크 정책도 상황에 따라 Istio CNI 확장에서 적용되지 않을 수 있어서
+        * 위 요구사항을 충족할 수 없다는 게 확실
+      * 새로운 솔루션을 찾기 시작
+        * 사이드카를 모방하여 파드의 네트워크 네임스페이스에서 리다이렉션을 구성하는 아이디어 도출
+        * Linux 소켓의 기본 기능을 이용해서 다른 네임스페이스 내의 수신 소켓을 생성하고 소유할 수 있다는 걸 발견
+        * 이를 구현하기로 했고 그 결과
+          * 모든 트래픽 캡처와 리다이렉션이 파드의 네임스페이스 내부에서 발생
+          * 마치 사이드카 프록시가 있는 것처럼 보이게 됨
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
   * [Istio as a Platform for Running Microservices - YouTube](https://www.youtube.com/watch?v=5llsJLJmZsg)
   * [토스ㅣSLASH 23 - 고객 불안을 0으로 만드는 토스의 Istio Zero Trust - YouTube](https://www.youtube.com/watch?v=4sJd6PIkP_s)
@@ -2727,7 +2743,13 @@ Programming
 * [크몽 개발팀 Jira 사용기 : 극대화 편. Jira를 이렇게까지 사용 가능한지 난 몰랐네? | by James | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EA%B7%B9%EB%8C%80%ED%99%94-%ED%8E%B8-88439965a9bf)
 * [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
 * [Release PR만들어질때, Jira 이슈에 배포 버전 자동으로 추가하기(feat. GitHub Action) | by Ted Park | PRND | Dec, 2023 | Medium](https://medium.com/prnd/release-pr%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%88%EB%95%8C-jira-%EC%9D%B4%EC%8A%88%EC%97%90-%EB%B0%B0%ED%8F%AC-%EB%B2%84%EC%A0%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-feat-github-action-fef1c8970a39)
-* [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank)
+* [Jira의 이슈 정렬 방식이 Integer 방식이 아니라고?!](https://techblog.lycorp.co.jp/ko/about-atlassian-jira-ranking-algorithm-lexorank/)
+  * 드래그 앤 드롭으로 리스트의 정렬을 조정하는 구현시 각 아이템의 정렬을 관리하는 방식에는 Integer, GreenHopper, Linked List 방식 존재
+    * Integer 방식은 위치를 변경하면 다른 모든 아이템의 값 변경 필요
+    * GreenHopper은 각 아이템 사이에 충분한 간격을 두어 쉽게 업데이트할 수 있지만 공간이 고갈되면 문제 발생
+    * Linked List는 앞뒤 아이템만 업데이트해 주면 되지만 조회할 때 풀 스캔 필요
+  * Atlassian이 이러한 문제를 해결하기 위해 LexoRank 작성
+    * 사전적 정렬을 위해 `Bucket|FixedKey:VariableKey`를 사용해 O(1) 정렬 가능, 공간 고갈 시 무중단으로 재조정
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -3203,6 +3225,12 @@ Programming
 * [Dr. Milan Milanović on X: "How to do code reviews properly An essential step in the software development lifecycle is code review. It enables developers to significantly enhance code quality. It resembles the authoring of a book. The story is written by the author, but it is then… https://t.co/OGIMBK8tPm" / X](https://twitter.com/milan_milanovic/status/1704069659668942947)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
+* [Yes, good DevEx increases productivity. Here is the data. - The GitHub Blog](https://github.blog/2024-01-23-good-devex-increases-productivity/)
+  * 개발자 경험(DevEx)을 개선하는 것은 중요한 일이지만 그에 대한 데이터는 부족, GitHub이 DX와 협업해서 생산성에 어떤 영향을 미치는지 연구
+  * Slack 메시지 등 모든 방해 요소를 최소화해서
+    * 심층 작업(Deep Work)에 충분한 시간을 사용하는 개발자는 생산성 50% 향상
+    * 코드에 대한 이해도가 높은 개발자가 아닌 개발자보다 생산성이 42% 높음
+    * 피드백 루프가 중요하기 때문에 코드 리뷰가 빠른 등 처리시간이 빠르면 20% 더 혁신적이라고 느낌
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
@@ -3695,6 +3723,7 @@ Programming
   * [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
   * [유연하고 안전하게 배포 Pipeline 운영하기](https://toss.tech/article/slash23-devops)
+* [hands-on-fast-and-secure-cicd-pipeline](https://github.com/cjsrkd3321/hands-on-fast-and-secure-cicd-pipeline)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
   * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
 * [Qodana: The code quality platform for your favorite CI by JetBrains](https://www.jetbrains.com/qodana/)
@@ -6641,6 +6670,13 @@ Programming
   * 이번에 공개된 제로데이 취약점 HTTP/2 Rapid Reset가 Cloudflare뿐 아니라 Google이나 AWS에도 공격이 있었음을 알게 되고 협력해서 해당 공격에 대처
   * HTTP/2는 스트림을 동시에 여러 개 열 수 있고 클라이언트는 스트림 취소 가 가능
   * 이번 HTTP/2 Rapid Reset는 빠르게 취소 요청을 보내서 서버 쪽에서 스트림 종료 처리에 걸리는 시간을 이용해 서비스 거부 공격을 발생
+* [2023년 4분기 DDoS 위협 보고서](https://blog.cloudflare.com/ddos-threat-report-2023-q4-ko-kr)
+  * Cloudflare에서 2023년 4분기 DDoS 위협 보고서 공개
+  * 여기서 나오는 DDoS 공격은 세가지 유형
+    * 처리량보다 더 많은 요청을 보내는 HTTP 요청 집중형 DDoS
+    * 라우터/방화벽/서버에서 처리할 수 있는 패킷보다 더 많은 패킷을 보내는 IP 패킷 집중형 DDoS
+    * 인터넷을 포화 상태로 만드는 비트 집중형 DDoS 
+  * 이전에 비해 HTTP DDoS 공격을 줄어들고 Network 계층의 DDoS 공격 증가. 분야별 지역별 DDoS 위협 소개
 * [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage)
   * [Cloudflare 장애 관련 타임라인 정리](https://www.facebook.com/jongho.seo.5811/posts/pfbid028zC6CmdrATz7JybUeZipr3vrNQxtjq62JD31mAUYftqTEzJ2PDnQoYEReCCNUKitl)
   * 11월 2일 데이터센터의 전력이 나가면서 11월 2일 11:44(UTC)부터 11월 4일 04:25(UTC)까지 2일 정도 지속된 Cloudflare 장애의 포스트모템
