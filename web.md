@@ -277,6 +277,15 @@ Web
 * [Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
   * 2022년 INP(Interaction to Next Paint)를 실험적으로 도입해서 테스트한 결과 FID(First Input Delay) 대신 INP를 Core Web Vitals 메트릭으로 채택, 2024년 3월부터 적용 예정
 * [구글의 프론트엔드 성공 지표 ‘Core Web Vitals’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2036/)
+* [How Core Web Vitals affect application SEO: Understanding Google page experience ranking and Lighthouse scores – Vercel](https://vercel.com/blog/how-core-web-vitals-affect-seo)
+  * Google은 Core Web Vitals로 사이트의 성능을 평가해서 SEO에 반영
+    * 이 데이터를 실제 사용자에게 수집하므로 필드 데이터라고 호칭
+  * Google은 크롬 브라우저의 실제 사용자의 75 퍼센타일로 전 세계에서 필드 데이터를 수집
+    * 사용자는 데스크톱이나 Android에서 Chrome을 사용해야 함(즉 iPhone 사용자는 미집계)
+    * 지역별로 다르게 다루지 않고 전 세계에서 수집하므로 전 세계 모든 사용자에게 뛰어난 성능을 제공 필요
+    * 점수는 지난 28일간의 평균 점수이므로 성능을 개선한 후 영향을 파악하려면 한 달 정도 소요
+  * Lighthouse 등으로 Core Web Vitals를 측정한 것은 실험실 데이터라고 호칭
+    * 이러한 결과는 검색 결과에는 반영되지 않고 실제 사용자와는 다르기 때문에 성능 문제를 찾는 참고용으로 사용해야 함
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
@@ -362,6 +371,10 @@ Web
       * Gecko, WebKit, Blink가 모두 통과한 테스트는 Interop 점수로 계산해서 모든 브라우저에서 안정적으로 동작하도록 하고 있음
     * Investigation는 상호운용성이 부족한데 테스트 통과만으로는 개선할 수 없는 영역을 조사하는 것
       * 모바일 플랫폼과 접근성 API에서 테스트 인프라가 불충분하다고 생각해서 이 부분에 집중할 예정
+* [Celebrate a more interoperable web with Interop 2023  |  Blog  |  web.dev](https://web.dev/blog/interop-2023-wrapup)
+  * 브라우저간 호환성을 유지하기 위해 여러 브라우저가 벤더가 공동으로 테스트를 만들어서 상호 운용성을 개선하기 위한 Interop 2023 마무리 
+  * 작년 초와 비교, 대부분 90점대 후반으로 큰 개선, `:has()`, 컨테이너 쿼리, 서비그리드, 색공간 등 주요한 기능 추가
+  * 곧 Interop 2024 발표 예정
 * [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
 * [What's New in Web Animations - YouTube](https://www.youtube.com/watch?v=XKRLt3UPbmU)
 * [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
