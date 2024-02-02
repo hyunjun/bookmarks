@@ -311,7 +311,11 @@ App
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
   * [아 docusaurus 그렇게 쓰는거 아닌데 쿸쿠루삥뽕](https://velog.io/@juunini/%EC%95%84-docusaurus-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%93%B0%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%8C%EB%8D%B0-%EC%BF%B8%EC%BF%A0%EB%A3%A8%EC%82%A5%EB%BD%95)
-  * [기술 문서 사이트로 Docusaurus 활용하기](https://techblog.lycorp.co.jp/ko/docusaurus-as-a-technical-document-website)
+  * [기술 문서 사이트로 Docusaurus 활용하기](https://techblog.lycorp.co.jp/ko/docusaurus-as-a-technical-document-website/)
+    * Line내에서 기술 문서 규모가 커지면서 그때그때 다른 SSG(Static Site Generator)를 쓰게 되면서 공용 SSG 선정
+    * SSG를 선정하면서 웹 문서에 필요한 기본 기능이 충실하고 새로운 기능을 자유롭게 추가할 수 있어야 한다는 기준 결정
+    * 2세대 SSG 도구 중에 React 기반이면서 MDX도 지원하는 Docusaurus 선정
+    * 기술 문서에 필요한 기능을 추가하기 위해 줄 바꿈 테이블, 용어집, API 레퍼런스 기능을 만든 과정 설명
 * [DokuWiki 복구. 라떼는 말야~ 개인위키를 썼단다~ | Homin Lee's blog](https://suapapa.github.io/blog/post/20220914_reopen_wiki/)
 * [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
 * [fastpages - An easy to use blogging platform, with enhanced support for Jupyter Notebooks. https://fastpages.fast.ai ](https://github.com/fastai/fastpages)
