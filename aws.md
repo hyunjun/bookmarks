@@ -936,6 +936,15 @@ AWS
 * [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
 * [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
 * [AWS 관리형 데이터베이스 서비스 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/exploring-data-transfer-costs-for-aws-managed-databases/)
+* [Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
+  * AWS에서 가용영역(AZ)간에 데이터를 전송하면 비용 발생
+  * S3는 1a, 1b 같은 AZ 단위가 아니라 리전 단위로 버킷 저장하므로
+    * 같은 리전에 모든 AZ에서 똑같이 사용 가능
+    * (공용 인터넷이 아니라면) 다운로드 업로드 무료
+    * 스토리지 비용은 시간단위 부과
+  * 이 두가지 특징을 이용해서 1a에 있는 인스턴스에서 1b에 있는 인스턴스로 데이터를 보낼 때 직접 보내는 대신
+    * S3를 거쳐서 보내도록 해서 비용을 절감하겠다는 아이디어이다(전송후에는 S3에서 지워서 스토리지 비용 절약)
+    * 직접 테스트로 1TB를 전송했을 때 직접 보내면 20.48달러가 청구, S3를 통해서 보낼 때는 8센트만 청구
 * [AWS Data 전송 비용](https://zigispace.net/1192)
 * [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
 * [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
@@ -1291,6 +1300,7 @@ AWS
 * [Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/)
 * ["안정적인 11st EKS 운영기" | 이무열 - YouTube](https://www.youtube.com/watch?v=Fby5Vy_9_bU)
 * [Amazon EKS extended support for Kubernetes versions pricing | Containers](https://aws.amazon.com/ko/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/)
+* [Vertical Pod Autoscaler - Amazon EKS](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/vertical-pod-autoscaler.html) VPA
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
