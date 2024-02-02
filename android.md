@@ -468,7 +468,11 @@ Android
   * [Jetpack compose 도입기-1. 안드로이드 그룹의 위대한 첫 발 | by Mike | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/jetpack-compose-%EB%8F%84%EC%9E%85%EA%B8%B0-1-fba23efbbb23)
   * [Jetpack Compose로 디자인시스템 만들기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=O1yPOr7J3gY)
   * [Checkbox 아이콘을 텍스트의 원하는 위치로 정렬 하는 방법 (Jetpack Compose) | by Youngjik Yoon | PRND | Aug, 2023 | Medium](https://medium.com/prnd/%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-jetpack-compose-12d3d9d1f28)
-  * [Jetpack Compose로 LINE 앱 Yahoo!검색 모듈 개발하기](https://techblog.lycorp.co.jp/ko/developing-android-ui-with-jetpack-compose)
+  * [Jetpack Compose로 LINE 앱 Yahoo!검색 모듈 개발하기](https://techblog.lycorp.co.jp/ko/developing-android-ui-with-jetpack-compose/)
+    * Line에서 선언적 UI 툴킷인 Jetpack Compose 도입한 과정 설명
+    * 기존 앱을 운영하면서 도입해야 했기에 새로운 뷰에 도입하기로 결정
+    * Composable에 도입하기로 조건을 걸고 선언적 UI를 위해 상태관리를 일원화하고 Composable을 stateless로 작성
+    * 만든 Composable은 미리보기로 만들고 미리보기는 Pull Request에 포함하기로 하면서 Jatpack Compose 도입
   * [Jetpack Compose 로 검색 진입 화면의 복잡한 상태 관리하기 | by Jinkwang Song | 29CM TEAM | Dec, 2023 | Medium](https://medium.com/29cm/jetpack-compose-%EB%A1%9C-%EA%B2%80%EC%83%89-%EC%A7%84%EC%9E%85-%ED%99%94%EB%A9%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-b95333134ece)
   * [Spoqa 기술 블로그 | 키친보드 안드로이드 앱 Jetpack Compose 도입기](https://spoqa.github.io/2023/10/30/android-jetpack-compose.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
