@@ -5254,6 +5254,11 @@ Javascript
     * Next.js를 좋아하는 이유는 별도의 백엔드를 만들 필요가 없고 인프라 걱정 없이 앱을 만들 수 있으며 사이트를 따르게 하는 기능을 다양하게 제공한다는 점
   * [요즘 웹 개발이 그렇다고 합니다 (리액트와 NEXT.js 가 벌리고 있는 일들..) - YouTube](https://www.youtube.com/watch?v=5XrOIcn72FA)
   * [2024년. NextJS 14를 배워야하는 이유. - YouTube](https://www.youtube.com/watch?v=t0UocUiR5-8)
+  * [Next.js App Router migration: the good, bad, and ugly](https://www.flightcontrol.dev/blog/nextjs-app-router-migration-the-good-bad-and-ugly)
+    * Flightcontrol이라는 서비스가 Next.js의 페이지 라우터로 구축되어 있던 대시보드를 앱 라우터로 다시 구축하면서 경험한 내용 정리
+    * 중첩된 레이아웃을 구축 가능, 로딩 상태 유연하게 표시 가능
+    * 실시간 업데이트를 위해 클라이언트에서 데이터 불러오는 코드 중복 작성 필요, 서버 측 오류가 쉽게 삼켜져서 추적에 어려움 발생
+    * 지금은 해결되었지만 개발하면서 버그가 너무 많아 고생, 개발 서버의 성능이 너무 안 좋아 성숙도에 비해 너무 빨리 마케팅이 되었다고 함
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
