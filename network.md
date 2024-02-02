@@ -488,6 +488,11 @@ Network
 * [How Facebook Is Bringing QUIC to Billions - YouTube](https://www.youtube.com/watch?v=tJBmuSmtxRg)
 * [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [QUIC & HTTP 3 이제는 현실 (rev. 2) | saturnsoft.net](https://www.saturnsoft.net/network/2023/12/31/talk-quic-http3-intro/)
+* [QUIC 프로토콜 | 구글 또 너야?. QUIC 프로토콜은 2012년 구글이 처음 발표한 범용 전송 계층… | by scalalang2 | 취미로 논문 읽는 그룹 | Jan, 2024 | Medium](https://medium.com/rate-labs/quic-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EA%B5%AC%EA%B8%80-%EB%98%90-%EB%84%88%EC%95%BC-932befde91a1)
+  * QUIC 논문을 보고 내용 정리
+  * 불필요한 RTT(Round Trip Time)을 줄이면 페이지 로드 시간에 큰 영향을 주기 때문에 QUIC은 TCP가 아니라 UDP 위에 구현
+  * QUIC을 설계한 이유는 프로토콜을 변경하기 어렵고 핸드 쉐이크를 줄일 필요가 있었고 HOL 블러킹 문제를 해결할 목적
+  * 이를 구현한 과정과 적용한 과정까지 정리
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
 * [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
   * [Introducing s2n-quic, a new open-source QUIC protocol implementation in Rust | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/introducing-s2n-quic-open-source-protocol-rust/)
