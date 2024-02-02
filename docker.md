@@ -696,6 +696,9 @@ Docker
 * [container_learning: 컨테이너 기술 공부](https://github.com/pjt3591oo/container_learning)
 * [Implementing Auto-Scaling for Improved Performance: A Backend Engineer's Journey - DEV Community](https://dev.to/jackynote/implementing-auto-scaling-for-improved-performance-a-backend-engineers-journey-43g7)
 * [실무에서 개발자는 여기까지만 알면 되는 도커 / 쿠버네티스](https://velog.io/@juunini/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%97%AC%EA%B8%B0%EA%B9%8C%EC%A7%80%EB%A7%8C-%EC%95%8C%EB%A9%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4)
+* [Using docker in unusual ways - YouTube](https://www.youtube.com/watch?v=zfNqp85g5JM)
+  * backward compatibility를 위한 사용, docker init, docker compose up --build, docker compose watch, integration test (TestContainer)
+  * (vulnerabilities) docker scout quickview, docker scout compare, docker scout recommendations
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
