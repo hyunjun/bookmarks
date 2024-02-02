@@ -5254,6 +5254,7 @@ Javascript
     * Next.js를 좋아하는 이유는 별도의 백엔드를 만들 필요가 없고 인프라 걱정 없이 앱을 만들 수 있으며 사이트를 따르게 하는 기능을 다양하게 제공한다는 점
   * [요즘 웹 개발이 그렇다고 합니다 (리액트와 NEXT.js 가 벌리고 있는 일들..) - YouTube](https://www.youtube.com/watch?v=5XrOIcn72FA)
   * [2024년. NextJS 14를 배워야하는 이유. - YouTube](https://www.youtube.com/watch?v=t0UocUiR5-8)
+  * [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL - YouTube](https://www.youtube.com/watch?v=6omuUOZcWL0)
   * [Next.js App Router migration: the good, bad, and ugly](https://www.flightcontrol.dev/blog/nextjs-app-router-migration-the-good-bad-and-ugly)
     * Flightcontrol이라는 서비스가 Next.js의 페이지 라우터로 구축되어 있던 대시보드를 앱 라우터로 다시 구축하면서 경험한 내용 정리
     * 중첩된 레이아웃을 구축 가능, 로딩 상태 유연하게 표시 가능
