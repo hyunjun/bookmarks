@@ -943,6 +943,7 @@ NLP
     * 맥북, 리눅스, 윈도우 PC 구동 가능. 단, 윈도우는 몇 가지 추가 설치 필요
     * Chat UI 도 PR 에 있으며 검토 중
     * [How To Install PrivateGPT - Chat With PDF, TXT, and CSV Files Privately! (Quick Setup Guide) - YouTube](https://www.youtube.com/watch?v=jxSPx1bfl2M)
+    * [PrivateGPT와 간단한 사용 후기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/7611/)
     * [practice](https://gist.github.com/hyunjun/cb01f64076cf4f81578963641230ff51#file-test-md)
   * [Sweep: AI-powered Junior Developer for small features and bug fixes](https://github.com/sweepai/sweep)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
