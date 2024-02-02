@@ -6148,6 +6148,8 @@ Programming
 * [The Joy of Building Large Scale Systems - YouTube](https://www.youtube.com/watch?v=lLbcvGgxCPg)
 * [The Joy of Building Large Scale Systems • Suhail Patel • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=AgIyUCpNTr0)
 * [표준 개발 환경 개선 되돌아보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15572/)
+* [**The Most Powerful Software Development Process Is The Easiest • Dave Farley • GOTO 2024 - YouTube**](https://www.youtube.com/watch?v=HDyeiZimaOU)
+  * requirements, code, tests
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
