@@ -1017,6 +1017,8 @@ Java
 * [A. Sundararajan on X: "Script to search #Java21 javadoc from command line. * Unnamed Classes and Instance Main Methods https://t.co/gMiMqzhyYL * source launcher shebang script support https://t.co/1Ka5Gqy7yv We can call such scripts "Java script"s 😉 #Java https://t.co/TUVgFJku2M" / X](https://twitter.com/sundararajan_a/status/1706189855192182787)
 * [Building and Deploying Java Client Desktop Applications With JDK 21 and Beyond By Kevin Rushforth - YouTube](https://www.youtube.com/watch?v=Afehjldx4yM)
 * [The Panama Dojo: Black Belt Programming with Java 21 and the FFM API By Per Minborg - YouTube](https://www.youtube.com/watch?v=t8c1Q2wJOoM)
+* [The Art of Pattern Matching in Java 21 by Alberto Cortina Eduarte - YouTube](https://www.youtube.com/watch?v=SUqK9IsKsFs)
+* [Java 21 and Beyond: A Roadmap of Innovations by Ana-Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=mWs6CXYbI6c)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
