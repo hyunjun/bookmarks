@@ -2170,6 +2170,7 @@ Programming
   * caching
 * [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
 * [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server)
+* [Banking on Thousands of Microservices - YouTube](https://www.youtube.com/watch?v=ObjHiv1S9Hk)
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [Understanding the API Gateway](https://www.linkedin.com/posts/sahnlam_understanding-the-api-gateway-an-api-gateway-ugcPost-7145281251187339265-og7g/)
