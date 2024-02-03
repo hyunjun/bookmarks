@@ -88,6 +88,7 @@ Baby
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
+* ["제발 이것만 하지마세요." 자식조차 떠나가는 최악의 부모유형 '3가지' (양창순 박사 1부) - YouTube](https://www.youtube.com/watch?v=NNx-6RY7K-0)
 
 # Food
 * [이유식 시작할 때, 음식물 알레르기 백과사전](https://news.v.daum.net/v/20141212130709228)
