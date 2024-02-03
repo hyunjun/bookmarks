@@ -6101,6 +6101,11 @@ Programming
 * [소프트웨어는 녹이 슨다 — 洪民憙 블로그](https://blog.hongminhee.org/2014/04/13/82482810330/)
 * [How to Not Lose Your Job to Low-Code Software](https://www.infoq.com/articles/lose-job-low-code/)
 * [번역 왜 소프트웨어 개발은 예상보다 2~3배 더 오래 걸리는가? · Soojin Ro](https://soojin.ro/blog/sw-estimation) 크게 멋진 혹은 좋은 비유는 아니라고 생각하지만 그냥 참고로
+* [Stop rolling the dice: an approach to effort estimation in software development by Luca Camerini - YouTube](https://www.youtube.com/watch?v=EGl7vW6SEG0)
+  * function points, cocomo families, effort-based, effort is not value, event storming, skill matrix, ...
+  * 1. planning and retrospective matter
+  * 2. numerosity and velocity are not linearly correlated
+  * 3. velocity has a cost, and you should account for it
 * [(2) Kent Beck 🌻 on Twitter: ""How long is it going to take to drive?" "Drive where?" "Nobody knows, we just need to know how long it is going to take." ...I'm too sad, you finish this..." / Twitter](https://mobile.twitter.com/KentBeck/status/1496239386530574336)
 * [Software Engineer roadmap via books | by Jake Russell | Medium](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
 * [고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스](https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product)
