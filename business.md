@@ -76,6 +76,7 @@ Business
 * [A Design Thinking Roadmap for Process Improvement and Organizational Change](https://www.infoq.com/articles/design-thinking-organizational-change/)
 * [VDIASI23 - Tudor Juravlea - Design Thinking for teams who want to create their own products - YouTube](https://www.youtube.com/watch?v=TZniKdaXr1s)
 * [뉴 디자인싱킹이 필요할 때](https://brunch.co.kr/@cliche-cliche/194)
+* [Ramona Sartipi - When Design Thinking Meets Opensource | PyData Global 2023 - YouTube](https://www.youtube.com/watch?v=oNuFqBAHpxU)
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
@@ -867,6 +868,7 @@ Business
 * [인스타그램보다 오래 쓰는 AI 사진 앱의 탄생 | 팀러너스](https://teamlearners.career.greetinghr.com/) 채용 페이지로서도 좋고, 회사 및 business에 대한 소개로도 좋다고 생각
 * [Interviewing & Hiring Like a Boss • Kristine Howard • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=vol72ZnAQqI)
 * [인프랩 개발팀의 미션과 가치](https://tech.inflab.com/20231117-devteam-value/) 좋은 공고
+* [우버 인사총괄로 5년간 일하며 느낀 ‘뽑힐 수밖에 없는 사람’ | Fynd Andrew - YouTube](https://www.youtube.com/watch?v=M-ZREjfmqe8)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1909,6 +1911,7 @@ Business
 * [130 People – No Bosses: Too Good To Be True? • Helle Markmann • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=E5oCgo7cu14)
 * [**Run Circles, Not Relays • Gayle Silverman • GOTO 2023 - YouTube**](https://www.youtube.com/watch?v=lHhfYczva18) 조직 운영 협업에 대해 좋은 강연, 특히 cycle을 강조하는 게 매우 좋았다
 * [Maria Livia Chiorean - From Managing Scala to Managing People | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=B8aMf5p2kVg)
+* [**OKKY 12월 세미나 개발조직 관리, 나만 이렇게 힘든거야? - YouTube**](https://www.youtube.com/watch?v=pQEUqoZRKpw)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -2163,6 +2166,7 @@ Business
 * [토스, 넥스트 애자일을 고민하다](https://blog.toss.im/article/next-agile-with-pm)
 * [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
+* [Creative Stances of Impactful Product Leadership • Anjali Leon & Nadezhda Belousova • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Hx6Eum8KzEQ)
 * [프로덕트 리더 채용하기](https://brunch.co.kr/@graypool/1063)
 * [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
 * ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
