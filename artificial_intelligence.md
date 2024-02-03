@@ -366,6 +366,7 @@ Artificial Intelligence
   * [문서로더부터 벡터스토어까지 쌩 파이썬으로 만들어보기](https://tykimos.github.io/2024/01/16/building_a_simple_vectorstore/)
   * [랭체인러닝데이 문서로더부터 벡터스토어까지 (랭체인없이) 쌩 파이썬으로 만들어보기 - YouTube](https://www.youtube.com/watch?v=631aGBftKjo)
 * [Egor Romanov - Performance of Vector Databases - YouTube](https://www.youtube.com/watch?v=-MYYB0QjV6I)
+* [A fun and absurd introduction to Vector Databases by Alexander Chatzizacharias - YouTube](https://www.youtube.com/watch?v=7rt2-GkRH80)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
