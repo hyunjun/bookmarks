@@ -514,6 +514,7 @@ AWS
 * [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
 * [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
 * [AWS AI 서비스를 활용한 미디어 자막 성능 개선 및 컨텐츠 현지화 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/contents-subtitle-localization/)
+* [LucidLink와 Leostream으로 PCoIP 원격 영상 편집 시스템 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-pcoip-editing-system-with-lucidlink-and-leostream/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -934,6 +935,7 @@ AWS
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS 블록 스토리지 개요와 비용](https://andromedarabbit.net/aws-%EB%B8%94%EB%A1%9D-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B0%9C%EC%9A%94%EC%99%80-%EB%B9%84%EC%9A%A9/)
 * [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
+* [AWS EBS 비용 최적화하는 4가지 방법](https://www.costclipper.io/blog/aws-ebselastic-block-storage-cost-saving)
 * [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
 * [AWS 관리형 데이터베이스 서비스 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/exploring-data-transfer-costs-for-aws-managed-databases/)
 * [Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
@@ -2103,6 +2105,7 @@ AWS
 * [Amazon MSK를 이용하여 Amazon Athena로 실시간 스트리밍 데이터 분석하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/analyze-real-time-streaming-data-in-amazon-msk-with-amazon-athena/)
 * [Amazon MSK, Kafka 토픽을 Kinesis Data Firehose를 통해 Amazon S3로 전송 가능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 * [Amazon MSK를 활용한 데이터베이스 간 CDC 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-database-cdc-using-amazon-msk/)
+* [IAM을 활용하여 Amazon MSK 주제 접근 제어하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-msk-topic-iam-access-control/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
