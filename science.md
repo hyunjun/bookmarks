@@ -158,6 +158,7 @@ Science
 * [Scientists may have identified a gene that causes severe autism in women](http://www.theverge.com/2015/3/25/8288671/autism-causes-genetic-research-study-women)
 * [The gene that jumped](http://aeon.co/magazine/science/how-horizontal-gene-transfer-changes-evolutionary-theory/)
 * [이제 이기적 유전자라는 비유는 버려야 합니다](http://ppss.kr/archives/37504)
+* [리처드 도킨스가 말한 유전자로 보는 삶, 최재천 교수님은 어떻게 생각하세요? / 전지적 관찰자 시점, 최재천의 아마존 - YouTube](https://www.youtube.com/watch?v=7Yf_prNH1BU) 이기적 유전자
 * [2,748건의 쌍둥이 연구...'유전이냐 양육이냐'는 논란을 종결짓다](http://www.huffingtonpost.kr/2015/05/22/story_n_7418766.html)
 * [효모와 우리는 유전적으로 사촌간입니다](http://newspeppermint.com/2015/05/26/yeast-gene/)
 * [스포츠 유전자(sports gene)](http://ppss.kr/archives/37464)
