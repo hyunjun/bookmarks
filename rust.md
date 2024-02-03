@@ -505,6 +505,7 @@
 * [Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery - YouTube](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [Rust for Python data engineers — Karim Jedda - YouTube](https://www.youtube.com/watch?v=x2ADMZfBqa4)
+* [json_parser: Rust JSON Parser](https://github.com/dnzk/json_parser)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
