@@ -6136,6 +6136,7 @@ Programming
 * [Coaching Teams Through Team Change • Heidi Helfand • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bi1krLVAsGY)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
+* [Architecting a Production Development Environment for Reliability - YouTube](https://www.youtube.com/watch?v=_aUAuZHuPeM)
 * [Devpod: Improving Developer Productivity at Uber with Remote Development | Uber Blog](https://www.uber.com/en-US/blog/devpod-improving-developer-productivity-at-uber)
 * [Mayday! Software Lessons From an Aviation Disaster • Adele Carpenter • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=IQ8RhVKJI_E)
 * [21화 실패한 프로젝트, 더 자세히 리뷰하라](https://brunch.co.kr/@supims/31)
