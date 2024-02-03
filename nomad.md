@@ -68,9 +68,6 @@ Nomad & Remote
 * [해외취업(이민) 도전기 3 - 어떻게 계약할 것인가?](https://prelude618.tistory.com/17)
 * [개발자 글로벌 커리어 컨퍼런스 해외 취업, 이렇게 하면 망합니다. - YouTube](https://www.youtube.com/watch?v=swvYC4kY0_Q)
 
-# Asia
-* [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
-
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
 * [회사를 찾는 도구들](http://siliconbeachstory.com/job-searching-tools/)
@@ -111,6 +108,10 @@ Nomad & Remote
 * [나의 이직 성공기 - 회사 지원 및 HR 인터뷰](http://employee.tistory.com/entry/%EB%82%98%EC%9D%98-%EC%9D%B4%EC%A7%81-%EC%84%B1%EA%B3%B5%EA%B8%B0-%ED%9A%8C%EC%82%AC-%EC%A7%80%EC%9B%90-%EB%B0%8F-HR-%EC%9D%B8%ED%84%B0%EB%B7%B0)
 * [미국 약혼자 (K-1) 비자 신청 과정](https://www.haruair.com/blog/4560) 경우는 관계 없지만 참고할 사이트가 있음
 * [한국에서 영주권 받고 미국 이민가기 - NIW](https://www.youtube.com/watch?v=RT1SHSvqEgo)
+* [나도 실리콘밸리 개발자가 될 수 있나요? | dylayed](https://dylayed.com/posts/working-in-us/)
+
+# Asia
+* [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)
