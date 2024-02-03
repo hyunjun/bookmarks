@@ -1662,6 +1662,8 @@ Machine Learning
   * [gauss-rank-scaler: Scikit-learn compatible implementation of the Gauss Rank scaling method](https://github.com/aldente0630/gauss-rank-scaler)
     * [Gauss Rank Scaler 파이썬 패키지 릴리즈](https://www.facebook.com/groups/TensorFlowKR/posts/1927467690927613/)
   * scikit-learn-intelex [Intel® Extension for Scikit-learn — Intel(R) Extension for Scikit-learn 2021.4 documentation](https://intel.github.io/scikit-learn-intelex/)
+  * [scikit-survival — scikit-survival 0.22.2](https://scikit-survival.readthedocs.io/en/stable/)
+    * [Olivier Grisel - Predictive survival analysis with scikit-learn, scikit-survival and lifelines - YouTube](https://www.youtube.com/watch?v=eprA9L3ejvs)
   * [skops: skops is a Python library helping you share your scikit-learn based models and put them in production](https://github.com/skops-dev/skops)
     * [Merve Noyan - Improving production workflows for scikit-learn models with skops | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=_Fbwn2iZZ54)
 * [scikit-multilearn: Multi-Label Classification in Python — Multi-Label Classification for Python](http://scikit.ml/)
