@@ -751,6 +751,7 @@ Business
 * [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
 * [인재에 대한 스티브 잡스 명언 베스트 10, 잡스명언, 인재채용 :: 구름컴퍼니](https://leetim.tistory.com/71)
+* [스티브 잡스 A급 인재와 B급, C급 직원의 차이 (한영 자막) - YouTube](https://www.youtube.com/watch?v=tkHvxLwLx3M)
 * [Don’t hire top talent; hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
 * [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [어떻게 인재를 모을 것인가 : 클래스101 피플팀 리드 김동현 | flex 공식 블로그](https://flex.team/blog/2021/05/06/class101/)
