@@ -1360,6 +1360,7 @@ Business
 * [37signals — The 37signals Guide to Making Decisions](https://37signals.com/how-we-make-decisions/)
   * 37signals(지금은 Basecamp)가 의사결정을 할 때 고려하는 원칙 정리. 한 번에 다 다 고려하는 체크리스트는 아니고 결정할 때 참고하는 부분
 * [엔지니어링 조직의 의사결정, 어떻게 해야 잘하는 걸까?. 레몬베이스 엔지니어링 그룹의 사례와 함께, 같이 고민해봐요! | by James | Jun, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B1%B8%EA%B9%8C-65cb6e024c69)
+* [Keynote: Decision-making for Software Development Teams by Francesco Strazzullo - YouTube](https://www.youtube.com/watch?v=mvNq5m_xB_8)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
