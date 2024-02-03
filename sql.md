@@ -541,6 +541,7 @@ SQL
       * [MySQL 파일을 이용하여 테이블에 값 삽입하기](http://ra2kstar.tistory.com/2)
     * [MySQL database 정보 import하기](http://tac.softonnet.com/troubleshoot/viewbody.php?code=troubleshoot&page=1&number=26&keyfield=category&key=db) mysqlimport
     * [MySQL: Import CSV, not using LOAD DATA | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/09/28/mysql-import-csv-not-using-load-data.html)
+    * [I loaded 100,000,000 rows into MySQL (fast) - YouTube](https://www.youtube.com/watch?v=rP0lZ_T5P28)
   * [LOAD_FILE() function](https://www.w3resource.com/mysql/string-functions/mysql-load_file-function.php)
   * RANK
     * [sql rank over 함수 알면 손쉽게 랭킹을 매길 수 있다](https://codingdog.tistory.com/entry/sql-rank-over-%ED%95%A8%EC%88%98-%EC%95%8C%EB%A9%B4-%EC%86%90%EC%89%BD%EA%B2%8C-%EB%9E%AD%ED%82%B9%EC%9D%84-%EB%A7%A4%EA%B8%B8-%EC%88%98-%EC%9E%88%EB%8B%A4)
