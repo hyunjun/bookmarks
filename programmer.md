@@ -277,6 +277,8 @@ Programmer
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
 * [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
+* [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by James Stanier](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/)
+  * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=h5KKtsIVhrw)
 
 # Career path
 * [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
