@@ -1460,6 +1460,7 @@ Git
   * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
   * [클라우드 기반 IDE 플랫폼 ‘깃파드(Gitpod)’, 오픈소스로 전환 - CIO Korea](http://www.ciokorea.com/news/162155)
   * [JetBrains Gateway 및 Gitpod를 이용한 원격 개발 | JetBrains News](https://blog.jetbrains.com/ko/blog/2022/04/28/jetbrains_partners_with_gitpod/)
+  * [Codespaces, Gitpod, Devpod what cloud and container-based IDEs can do for you by Matthias-Haeussler - YouTube](https://www.youtube.com/watch?v=bHhYBt1BYaU)
 * [git-punish](http://git-punish.io/)
 * [GIT PURR! Git Commands Explained with Cats! – GirlieMac! Blog](https://girliemac.com/blog/2017/12/26/git-purr/)
 * [GitQlient - a multi-platform Git client originally forked from QGit](https://francescmm.github.io/GitQlient/)
