@@ -400,14 +400,6 @@ Linux
   * [How To Write An Ansible Playbook To Change SSH Banner Message On Linux | Copy Module Example - YouTube](https://www.youtube.com/watch?v=E1uG9lcZcKE)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
-* [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
-  * [Pulumi - IaC in your favorite programming language! - YouTube](https://www.youtube.com/watch?v=vIjeiDcsR3Q)
-  * [Pulumi를 이용하여 코드로 AWS 리소스 관리하기 | Knowledge Logger](https://www.letmecompile.com/manage-aws-resources-with-pulumi-iac/)
-    * InfraStructure as Code 도구 중 하나인 Pulumi를 이용해서 AWS 리소스를 관리하는 방법 설명
-    * Pulumi CLI와 Pulumi Cloud에 저장된 상태 파일을 이용해서 AWS 리소스를 관리하는 기본적인 사용 방법 설명
-    * 기존 인프라를 임포트하거나 Pulumi에서 변경 사항을 업데이트하는 방법, AWS 콘솔에서 변경된 내용을 적용하는 방법 설명
-  * [Pulumi로 인프라 구축하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/26/pulumi/)
-  * [Pulumi Kotlin. The missing piece in Kotlin… | by Julia Plewa | VirtusLab | Medium](https://medium.com/virtuslab/pulumi-kotlin-9c0cb2d53e1c)
 * [salt](https://docs.saltstack.com/en/latest/topics/)
 
 # Book

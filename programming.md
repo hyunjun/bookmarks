@@ -427,6 +427,7 @@ Programming
   * 기술 블로그는 외부 개발자를 위한 마케팅 수단이지만 사내 개발자 간의 차이는 줄어들지 않으므로 기술 블로그와 같은 접근으로 사내 개발자를 대상으로 정기적으로 글을 써서 발행
   * 주 업무가 아니라서 시간도 부족하고 주제 선정에도 어려움이 있었지만, 같이 글을 써줄 사람도 생기고 사내 개발자들에게 관심도 받게됨
   * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
+* [작은 조직에서 개발문화를 제안했던 경험과 알아두면 좋을 느낀점 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/culture/%EC%9E%91%EC%9D%80-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EB%A5%BC-%EC%A0%9C%EC%95%88%ED%96%88%EB%8D%98-%EA%B2%BD%ED%97%98%EA%B3%BC-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%84-%EB%8A%90%EB%82%80%EC%A0%90/) github action으로 PR과 test 연결
 * [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과 :: Channy's Blog](https://channy.creation.net/blog/1600)
 * [좋은 개발 조직을 구별하는 12가지 질문들 | Daniel Lee](https://typefully.com/dylayed/a1I3jnP)
 * [페이스북은 어떻게 배포하는가? – IT의 중심에서](https://subokim.wordpress.com/2022/06/12/how_facebook_work/) 오래된 이야기지만, 개발자 중심 문화
@@ -4513,6 +4514,15 @@ Programming
   * [Port - YouTube](https://www.youtube.com/@getport)
   * [Ocean Software Catalog Extensibility “Framework” - YouTube](https://www.youtube.com/watch?v=w7VpEZOB1l4)
   * [Setting Up an Internal Developer Portal With IaC and Pulumi - YouTube](https://www.youtube.com/watch?v=097z9NVNC8I)
+* [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
+  * [Pulumi - IaC in your favorite programming language! - YouTube](https://www.youtube.com/watch?v=vIjeiDcsR3Q)
+  * [Pulumi를 이용하여 코드로 AWS 리소스 관리하기 | Knowledge Logger](https://www.letmecompile.com/manage-aws-resources-with-pulumi-iac/)
+    * InfraStructure as Code 도구 중 하나인 Pulumi를 이용해서 AWS 리소스를 관리하는 방법 설명
+    * Pulumi CLI와 Pulumi Cloud에 저장된 상태 파일을 이용해서 AWS 리소스를 관리하는 기본적인 사용 방법 설명
+    * 기존 인프라를 임포트하거나 Pulumi에서 변경 사항을 업데이트하는 방법, AWS 콘솔에서 변경된 내용을 적용하는 방법 설명
+  * [Pulumi로 인프라 구축하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/26/pulumi/)
+  * [Pulumi Kotlin. The missing piece in Kotlin… | by Julia Plewa | VirtusLab | Medium](https://medium.com/virtuslab/pulumi-kotlin-9c0cb2d53e1c)
+  * [인프랩 IaC 구축기 (Part 1)](https://tech.inflab.com/20240201-inflab-iac/)
 * [Radius](https://radapp.io/)
   * [Introducing Radius: A new open-source project for teams building cloud-native apps - YouTube](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 * [target-cli: A CLI tool to manage context profiles for HashiCorp tools](https://github.com/devops-rob/target-cli)
