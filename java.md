@@ -659,6 +659,7 @@ Java
 * [map() Vs flatMap() | Java 8 Streams API | Difference between Map and FlatMap operations in Java ? - YouTube](https://www.youtube.com/watch?v=QEWvM1zmLIs)
 * [Master Stream API | Stream API in Java 8 Tutorial | Java 8 Stream API | Expertise Streams in Java - YouTube](https://www.youtube.com/watch?v=Yym2wmXWqa8)
 * [Dataframes, Collections, and Streams in Java by Donald Raab & Rustam Mehmandarov - YouTube](https://www.youtube.com/watch?v=K2pR7Nr6LUI)
+* [**Know your Java? by Venkat Subramaniam - YouTube**](https://www.youtube.com/watch?v=DHwNR7h3k5Y) Stream
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
 * [5. JAVA - 스트림과 함수형 인터페이스(람다식)](https://kim-jong-hyun.tistory.com/38)
