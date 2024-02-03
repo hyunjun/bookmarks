@@ -1134,6 +1134,7 @@ Programming
 * [Top 5 common ways to improve API performance](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7144366633526988800-4cGQ/)
 * [오늘도 여러분의 API 는 안녕하신가요? - 인프콘2023 · Present](https://present.do/documents/64dd4b8f10ab9a5ae56909f4)
 * [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
+* [Let's make a contract: the art of designing a Java API by Mario Fusco - YouTube](https://www.youtube.com/watch?v=RejJukzz8M0) 전반부는 일반적인 API에 대한 부분, 후반부는 Java
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
