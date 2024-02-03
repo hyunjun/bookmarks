@@ -2490,6 +2490,7 @@ Docker
   * [도커를 대체할 podman 살펴보기](https://blog.naver.com/pjt3591oo/222997069333)
   * [도커 대신 Podman 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/podman-instead-of-docker)
   * [Dockerless, Elixir Web Application using Podman and Plug](https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug/)
+  * [Is it time to switch from Docker to Podman? - YouTube](https://www.youtube.com/watch?v=7-qo6tTPdTM)
   * [podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
     * [Leverage Podman with a Desktop App | Podman Desktop](https://podman-desktop.io/)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
