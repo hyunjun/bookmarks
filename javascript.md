@@ -2976,6 +2976,7 @@ Javascript
   * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 * [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
   * [멀티페이지 폼을 아름답게 만들면서 멋지게 유효성 검사하기 | miryang.dev](https://miryang.dev/blog/create-multi-page-form)
+  * [shadcn, react-hook-form useFieldArray, zod로 동적 form 관리하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/shadcn,-react-hook-form-usefieldarray,-zod%EB%A1%9C-%EB%8F%99%EC%A0%81-form-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
@@ -3338,6 +3339,7 @@ Javascript
 * [Generating Optimized Image Formats with Node.js - DEV Community](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 * [nodejs 결제 붙이기 스트라이프(stripe) 결제](https://han-py.tistory.com/498)
 * [Event Emitter basics in Node.js | Tech Tonic](https://medium.com/deno-the-complete-reference/event-emitter-basics-in-node-js-0a047c56ed00)
+* [2023 Node.js 성능 현황](https://velog.io/@hwisaac/2023-Node.js-%EC%84%B1%EB%8A%A5-%ED%98%84%ED%99%A9)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
