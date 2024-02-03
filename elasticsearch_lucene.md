@@ -390,6 +390,7 @@ ElasticSearch - Lucene
 * [EC2 (우분투) 환경에서 ELK (Elast.. : 네이버블로그](https://blog.naver.com/gi_balja/223195060330)
 * [Elasticsearch, Logstash, Kibana와 PostgreSQL 연동](https://blog.naver.com/gi_balja/223182921545)
 * [엘라스틱 키워드 필드의 ignore_above | Popit](https://www.popit.kr/%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ed%82%a4%ec%9b%8c%eb%93%9c-%ed%95%84%eb%93%9c%ec%9d%98-ignore_above/)
+* [Needle in a 930M Member Haystack: People Search AI @LinkedIn - YouTube](https://www.youtube.com/watch?v=mBJoVtMGmtQ) ranking에 ML을 쓰는 이야기
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
