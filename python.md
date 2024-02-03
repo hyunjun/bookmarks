@@ -3222,6 +3222,7 @@ Python
 * [예쁘게! 자유롭게! 테마 설정](https://bio-info.tistory.com/15)
 * [주피터 노트북 ToC 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/14/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-toc-%EC%83%9D%EC%84%B1/)
 * [From Jupyter Notebooks to a Python Package: The Best of Both Worlds — Sin-seok SEO - YouTube](https://www.youtube.com/watch?v=Y2GnuvYv6uw)
+* [Nir Barazida - Unlock the Full Potential of Jupyter Notebooks | PyData Global 2023 - YouTube](https://www.youtube.com/watch?v=tkFVp2b-DBE)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -4069,7 +4070,6 @@ Python
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
-* sounddevice [Day 44 : Voice Recorder in Python - YouTube](https://www.youtube.com/watch?v=8tnt5rZW7hY)
 * [spongebob-cli: Watch classic spongebob from the terminal!](https://github.com/trakBan/spongebob-cli)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
@@ -4766,6 +4766,11 @@ Python
 * [reloadium: Advanced hot reloading & profiling for Python](https://github.com/reloadware/reloadium)
   * [Reloadium - Advanced Hot Reloading for Python | GeekNews](https://news.hada.io/topic?id=6477)
 * [reloadr: Hot code reloading tool for Python](https://github.com/hoh/reloadr)
+
+## Library sound
+* sounddevice [Day 44 : Voice Recorder in Python - YouTube](https://www.youtube.com/watch?v=8tnt5rZW7hY)
+* [VocalPy](https://github.com/vocalpy)
+  * [David Nicholson - VocalPy: a core Python package for acoustic comms research | PyData Global 2023 - YouTube](https://www.youtube.com/watch?v=53S5xM6s70g)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
