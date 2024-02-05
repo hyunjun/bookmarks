@@ -589,6 +589,7 @@ Apache
 * [카프카, 산전수전 노하우](https://www.slideshare.net/ifkakao/ss-113145591)
 * [Kafka timestamp offset](https://www.slideshare.net/charsyam2/kafka-timestamp-offset)
 * [Resetting first dirty offset to log start offset since the checkpointed offset is invalid](https://donald-dh.github.io/donald-dh.github.io/ts-kafka-resetting-first-dirty-offset/)
+* [카프카 컨슈머의 auto.offset.reset 옵션을 반드시 earliest로 변경해야 하는 이유](https://blog.voidmainvoid.net/514)
 * [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
 * [Kafka Korea meetup](https://github.com/kafkakru/meetup)
