@@ -869,6 +869,7 @@ Business
 * [Interviewing & Hiring Like a Boss • Kristine Howard • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=vol72ZnAQqI)
 * [인프랩 개발팀의 미션과 가치](https://tech.inflab.com/20231117-devteam-value/) 좋은 공고
 * [우버 인사총괄로 5년간 일하며 느낀 ‘뽑힐 수밖에 없는 사람’ | Fynd Andrew - YouTube](https://www.youtube.com/watch?v=M-ZREjfmqe8)
+* [Sedong Nam - 종종 공유 드리는 보이저엑스 타운홀 기록입니다. 이번에는 바로 지난주에 있었던 신규입사자 타운홀... | Facebook](https://www.facebook.com/dgtgrade/posts/pfbid0wVx7coqdQoXD5AXXPKHEzTiToaDz8s84zKVBpMwJbFnmktPtpcfEzVW59pYq9TCBl) startup 인턴 활용에 대해 참고할만한 글
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
