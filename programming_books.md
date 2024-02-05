@@ -4281,6 +4281,7 @@ Programming Books
   * 우당 문325.19-톰829ㅅ
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
+  * 한라 005.14-코298ㄷ
   * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
   * [단위 테스트(Unit Testing)에서 단위의 경계는 무엇인가? (feat. 고전파와 런던파) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-london-detroit/)
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
@@ -4292,7 +4293,6 @@ Programming Books
 * (NOT YET) [레거시 코드 활용 전략 | 에이콘출판사](http://acornpub.co.kr/book/legacy-code)
 * (NOT YET) 테스트 주도 개발로 배우는 객체 지향 설계와 실천 [TDD로 한 땀 한 땀 짜는 소프트웨어 – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/06/11/tdd%eb%a1%9c-%ed%95%9c-%eb%95%80-%ed%95%9c-%eb%95%80-%ec%a7%9c%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4/)
   * 한라 005.115-프298ㅌ
-* (NOT YET) [Full Stack Testing](https://www.oreilly.com/library/view/full-stack-testing/9781098108120/) 비기능적 테스트: 성능이나 확장성, 보안과 같은 비기능적 요구사항에 대한 설명
 * (NOT YET) [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
 * (NOT YET) [Exploring Testing Java Microservices](https://www.manning.com/books/exploring-testing-java-microservices)
 * (NOT YET) [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)
@@ -4301,6 +4301,7 @@ Programming Books
   * [tools.zip - Google Drive](https://drive.google.com/file/d/1tsXYbAud_U743tayFNDMdgtHC9cCTz74/view)
 * (NOT YET) [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
   * 탐라 문005.14-모91ㅍ 우당 문005.1-가62ㅍ
+  * [Full Stack Testing](https://www.oreilly.com/library/view/full-stack-testing/9781098108120/) 비기능적 테스트: 성능이나 확장성, 보안과 같은 비기능적 요구사항에 대한 설명
 * (NOT YET) [지식 제로부터 배우는 소프트웨어 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61703007)
   * 동부 005.14-타821지
   * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
