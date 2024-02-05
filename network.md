@@ -324,6 +324,7 @@ Network
   * [개발자 친화적인 "What is my IP" | GeekNews](https://news.hada.io/topic?id=3986)
   * `curl ifconfig.co`
 * ifconfig.me [What Is My IP Address? - ifconfig.me](https://ifconfig.me/)
+* IP2Location.io [IP2Location.io provides a fast and accurate IP Geolocation API tool to determine a user's location and use the geolocation information in different use cases.](https://www.ip2location.io/)
 * [ipify - A Simple Public IP Address API](https://www.ipify.org/)
 * IPinfo.io [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
 * [IPv4](https://ipv4.dev.sarl/)
