@@ -963,6 +963,7 @@ App
   * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
   * [VS Code Day 2023 - YouTube](https://www.youtube.com/watch?v=X3qUfOB3x8Q)
   * [Visual Studio Code 자동 포매팅 안하고 저장하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/906)
+  * [VS Code 링크 열기, Ctrl+클릭과 Alt+클릭 :: 류광의 번역 이야기](https://occamsrazr.net/tt/396)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
@@ -1225,6 +1226,7 @@ App
 * [**50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!) - YouTube**](https://www.youtube.com/watch?v=qOrlYzqXPa8) command
 * [macOS에 설치된 HAXM 삭제하기](https://cliearl.github.io/posts/android/uninstall-haxm-macos/)
 * [맥에서 CapsLock 한영 전환이 제대로 안 될 때가 많아서 대소문자 전환 기능을 끔 | 웹으로 말하기](https://mytory.net/archives/14755)
+* [화면 고장난 💻맥북 수명 연장하기. 맥북 고장에 대처하는 새로운 마음가짐 | by Jung Kim | Feb, 2024 | Medium](https://medium.com/@jungkim/%ED%99%94%EB%A9%B4-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EB%A7%A5%EB%B6%81-%EC%88%98%EB%AA%85-%EC%97%B0%EC%9E%A5%ED%95%98%EA%B8%B0-5e029f20ae5a)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
