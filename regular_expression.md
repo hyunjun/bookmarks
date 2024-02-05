@@ -84,6 +84,9 @@ Regular Expression
 * [Glob 패턴 | Univdev](https://www.univdev.page/posts/glob-pattern/)
 * [텍스트 안에 있는 URL에 하이퍼링크 적용하기 | Univdev](https://www.univdev.page/posts/get-url-in-text/)
 * [10분 테코톡 동키콩의 RegExp의 효율적 활용 - YouTube](https://www.youtube.com/watch?v=_eEZqTx5N7s)
+* [JS 프론트엔드의 한글 정규식, 어떻게 쓸 것인가.](https://helia-17.tistory.com/16)
+  * `/[ㄱ-힣]/` 문제점 지적
+  * 해결책 `/^[ᄀ-ᄒᆨ-ᇂㄱ-ㅣ가-힣ᅡ-ᅵa-zA-Z0-9 !@#$%^&*()_+\-=[\]{};':"\\|,.<>/?]*$/gi` 제시
 * [regexper - JavaScript regular expression to display](https://regexper.com/)
 * [super-expressive: 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
 
