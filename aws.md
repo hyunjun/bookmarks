@@ -741,6 +741,7 @@ AWS
   * [Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
 * [Amazon CloudFront 기반의 OTT 스트리밍에서의 QoS 가시성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/qos-observability-for-ott-streaming-using-amazon-cloudfront/)
 * [트러블슈팅기 CSR에서 동적 OG 메타태그 적용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15469/)
+* [Amazon CloudFront의 웹 애플리케이션을 위한 새로운 콘텐츠 전송 네트워크(CDN)와 보안 통합 대시보드 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
@@ -1166,6 +1167,7 @@ AWS
 * [Amazon ECS 워크로드를 위한 AWS Fault Injection Simulator의 새로운 기능 발표 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/announcing-aws-fault-injection-simulator-new-features-for-amazon-ecs-workloads/)
 * [Building better container images | Containers](https://aws.amazon.com/ko/blogs/containers/building-better-container-images/) ECS EKS ECR
 * [단일 Amazon Elastic Container Service(ECS) 클러스터에서 15,000개 이상의 태스크들로 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/)
+* [Amazon ECS에서 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-on-amazon-ecs/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
@@ -2318,6 +2320,7 @@ AWS
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [우아한테크세미나 사례별로 알아보는 안전한 S3 보안 가이드 - YouTube](https://www.youtube.com/watch?v=vgYfAndrpPU)
 * [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
+* [LLM 에 대한 OWASP Top 10을 사용하여 생성형 AI 애플리케이션을 위한 심층적인 방어 보안 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
