@@ -1804,6 +1804,7 @@ NLP
 * [OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) 실제 애플리케이션에서 LLM의 배포 및 운영을 용이하게 하도록 설계
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
+* [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
   * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
