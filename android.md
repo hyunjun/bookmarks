@@ -318,6 +318,7 @@ Android
 * [Pluu Dev - Android Studio Flamingo ~ New settings plugin](https://pluu.github.io/blog/android/2023/01/24/android_dsl/)
 * [안드로이드 스튜디오 Electric Eel 로 업데이트 후 발생하는 JAVA_HOME 환경 변수 문제 해결하기](https://www.androidhuman.com/2023-01-27-fix-jre-path-android-studiio-ee)
 * [Pluu Dev - 발표자료 DroidKnights 2023 ~ Re:Android Studio 설정 살펴보기 및 생산성 올리기](https://pluu.github.io/blog/android/2023/09/18/droidknights-2023/)
+* [Pluu Dev - Android Studio의 UI Code Snippet용 Plugin 제작기 ~ 0부](https://pluu.github.io/blog/android/2024/02/04/designsystem-plugin-01/)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
