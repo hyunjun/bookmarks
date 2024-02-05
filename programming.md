@@ -728,6 +728,7 @@ Programming
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
 * [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
+* [**스프린트, 협업을 위한 장치 그리고 마인드**](https://velog.io/@teo/sprint-and-mind) 정말 좋은 글
 * [낭비를 막고 팀을 만드는 XP의 가치](https://brunch.co.kr/@graypool/240)
 * [XP의 제1가치는 의사소통](https://brunch.co.kr/@graypool/241)
 * [XP는 어떤 조직에서나 쓸모가 있다](https://brunch.co.kr/@graypool/873)
@@ -3267,6 +3268,7 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
+* [우리, 이모지로 코드 리뷰 할까요? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/02/04/Code-Review-with-Emoji.html)
 * [Code Red: The Business Impact of Code Quality– A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=aRR0EDazxIk)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=X2RdwmPqBvQ)
@@ -6423,6 +6425,7 @@ Programming
   * 근거는 안 알려줘서 알 수 없지만 code 7줄마다 assert 하나가 필요하다고 말했다고 함
 * [당신의 코드를 튼튼하게. 코딩의 기본 - Assert - YouTube](https://www.youtube.com/watch?v=52cQQN69uOY)
 * [식별할 수 있는 동작(Observable behavior) - 테스트 대상 코드를 구분하는 기준 - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/observable-behavior/)
+* [단위 테스트(Unit Testing)에서 단위의 경계는 무엇인가? (feat. 고전파와 런던파) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-london-detroit/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
