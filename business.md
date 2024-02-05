@@ -2642,6 +2642,7 @@ Business
     * cal.com도 원격 근무를 하므로 글로벌 급여를 도입할 것인지 현지화된 급여를 도입할 건인지 고민했지만, 글로벌 급여를 도입하기로 결정
 * ['장사천재 백사장'은 모든 스타트업이 꼭 봐야.. : 네이버블로그](https://blog.naver.com/madaboutit/223263393249) 본질, 고객
 * [한국 스타트업은 왜 같은 실수를 반복하는가 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/moebius20240116)
+* [2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술 · 테오 블로그](https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/) 기술 및 여러가지 이야기가 함께 있지만 핵심은 창업이란 생각에 여기에 위치
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
