@@ -3522,7 +3522,6 @@ Python
 * [The Top 10 Python Frameworks for Web Development](https://www.activestate.com/blog/the-top-10-python-frameworks-for-web-development/)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
-* [Abhinav Upadhyay on X: "Why and How CPython use Bloom Filters inside some of its String APIs, such as splitlines and strip? Let's take a tour of CPython internals to understand the use of bloom filters within CPython's string APIs and to see how it implements the bloom filter. Use of Bloom FIlters in… https://t.co/RgTmHkbyhj" / X](https://twitter.com/abhi9u/status/1702668471551840594)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
@@ -3705,6 +3704,8 @@ Python
   * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [Episode #431 Visualizing CPython Release Process - Talk Python To Me Podcast](https://talkpython.fm/episodes/show/431/visualizing-cpython-release-process)
   * [PyCon KR 2023 CPython 코드로 보는 파이썬의 심층 세상 한성민 - YouTube](https://www.youtube.com/watch?v=L0tRwS3K3N4)
+  * [Abhinav Upadhyay on X: "Why and How CPython use Bloom Filters inside some of its String APIs, such as splitlines and strip? Let's take a tour of CPython internals to understand the use of bloom filters within CPython's string APIs and to see how it implements the bloom filter. Use of Bloom FIlters in… https://t.co/RgTmHkbyhj" / X](https://twitter.com/abhi9u/status/1702668471551840594)
+  * [메모리 모델 입문 - Sequential Consistency와 Total Store Order 이해하기](https://techblog.lycorp.co.jp/ko/about-memory-model-sequential-consistency-and-total-store-order)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
