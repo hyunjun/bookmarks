@@ -2738,6 +2738,7 @@ Javascript
     * npm에서 GitHub Actios와 GitLab CI/CD에서 발생하였을 때 출처를 표기하는 기능 추가
     * 이 기능은 퍼플릭 패키지와 퍼블릭 저장소에서만 사용 가능
     * 어떤 커밋에서 어떤 빌드 파일로 발생하였는지를 쉽게 확인할 수 있게 연결
+  * [npm에 라이브러리 릴리즈하고 운영하기 — 개발후라이](https://egg-programmer.tistory.com/322)
   * npkill [node_modules 대청소 - YouTube](https://www.youtube.com/shorts/0b8HHK6Zs-E)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
