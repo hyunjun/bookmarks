@@ -145,7 +145,9 @@ Open Source
   * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 * [Why I quit open source - DEV Community](https://dev.to/sapegin/why-i-quit-open-source-1n2e)
 * [오픈 소스 메커니즘](https://velog.io/@skydoves/open-source-machenism)
-* [오픈소스답게 소프트웨어 설계하기](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)
+* [**오픈소스답게 소프트웨어 설계하기**](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)
+  * `오픈소스는 비즈니스와 독립적으로 구성할수록 범용성을 얻기 때문에, 비즈니스 논리는 최대한 바깥으로 밀어내는 게 좋습니다. 이 점이 오픈소스를 염두에 둔 아키텍처의 가장 큰 차이`
+  * `필연적으로 닥쳐올 유지 보수를 염두에 두고 설정 기능을 로직과 명확히 분리해서 만들면 내가 아닌 다른 사람이 설정을 바꾸며 더 오래 쓸 수 있습니다`
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
