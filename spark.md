@@ -409,6 +409,7 @@
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 * [Spark interview Q&As with coding examples in Scala - part 1 | Java-Success.com](https://www.java-success.com/spark-interview-qas-with-coding-examples-in-scala-part-1/)
 * [How to Extract Deeper Value from Data in Legacy Applications with Analytics in a Cloud Data Lake - YouTube](https://www.youtube.com/watch?v=cylRHSsT24o)
+* [크몽 데이터 레이크 구축 방법 | by jun yeong park | Jan, 2024 | Medium](https://medium.com/@dahuin000/%E1%84%8F%E1%85%B3%E1%84%86%E1%85%A9%E1%86%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95-dd6b39bea392)
 * [Scala 3 and Spark?. After the release of Scala 3, one of… | by Filip Zybała | VirtusLab | Oct, 2021 | Medium](https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b)
 * [Using Scala 3 with Spark | 47 Degrees](https://www.47deg.com/blog/using-scala-3-with-spark/)
 * [Apache Spark #1 - 아키텍쳐 및 기본 개념](https://bcho.tistory.com/1387)
