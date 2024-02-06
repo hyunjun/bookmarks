@@ -793,6 +793,7 @@ SQL
 * [MySQL 8.0.22: Asynchronous Replication Automatic Connection (IO Thread) Failover - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/26/mysql-8-0-22-asynchronous-replication-automatic-connection-io-thread-failover/)
 * [커넥션(connection)은 어떻게 관리되나](https://blog.naver.com/pjt3591oo/222984240944)
 * [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+* [MySql 8.0 on OEL 7.9](https://support.dbagenesis.com/post/mysql-8-installation-on-oel-7-9)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
