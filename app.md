@@ -2462,6 +2462,7 @@ App
   * [윈도우 PowerShell - custom prompt 스크립트 만들기](https://jusths.tistory.com/181)
   * [Module 6 - Hands-On Lab: Working with CIM and WMI Technologies in Windows PowerShell - YouTube](https://www.youtube.com/watch?v=SxMkE98bTSY)
   * [Bloodguy :: Windows 배치 스크립트 파일을 관리자 권한으로 실행시 현재 디렉토리 (current working directory when run batch script as administrator, UAC, %cd%)](https://bloodguy.tistory.com/entry/Windows-%EB%B0%B0%EC%B9%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B6%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-current-working-directory-when-run-batch-script-as-administrator-UAC-cd)
+  * [윈도우 파워셸 스크립팅이란 무엇인가요? - All Things N](https://new.atsit.in/23163/)
 * putty
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
   * [How to export/import PuTTy sessions list?](https://stackoverflow.com/questions/13023920/how-to-export-import-putty-sessions-list)
