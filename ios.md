@@ -165,6 +165,7 @@ iOS
 * [STT를 이용해 음성을 텍스트로 변환해보자 🗣️ :: iOYES](https://green1229.tistory.com/433)
 * [Get started with privacy manifests (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/434)
 * [TCA 1.0 - Hello, TCA (ch.01) :: iOYES](https://green1229.tistory.com/444)
+* [TCA 1.0 - TCA의 기본 개념 (1) (ch.02) :: iOYES](https://green1229.tistory.com/445)
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 
 # Conference
