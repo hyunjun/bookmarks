@@ -238,6 +238,7 @@ Programming
 * [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-개발-10년차인데-코드-좀-봐주세요/)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* [every-programmer-should-know: A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 * [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 * [루빅스(RUBICS) - kakao의 실시간 추천 시스템](http://tech.kakao.com/2016/04/27/rubics/)
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
@@ -696,7 +697,17 @@ Programming
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
 * [Strangler Fig 패턴과 점진적 IT 투자](https://brunch.co.kr/@graypool/966) 기술적인 이야기는 아니라서 여기에
-* [코드 정돈과 시스템 규모 리팩터링 사이](https://brunch.co.kr/@graypool/1539) 역시 기술에 대한 건 아니지만 좋은 글
+* [코드 정돈과 시스템 규모 리팩터링 사이](https://brunch.co.kr/@graypool/1539)
+  * 역시 기술에 대한 건 아니지만 좋은 글
+  * 이 글에서 언급하는 지인의 글에 '시스템이 MSA로 진화란 표현을 하는데, 이게 MSA에 대해 모든 개발자들이 가져야 할 mind라고 생각
+    * [조영호 - 작년 9월부터 (계획 단계를 포함하면 7월 중순부터) 시작해 2월말 타겟으로 진행중인 무신사 서비스 분리... | Facebook](https://www.facebook.com/youngho.cho.982/posts/pfbid0GRwwCF1HdbcdbPpQSkJa3yQ8LYn3Pr5qUisG3wog1kKDBPfsbNdGufpyAjsd8zaql)
+    * 현재 같이 일하는 개발자도 개발 실력은 정말 뛰어나지만
+      * 너무 미래를 생각하고 MSA로 시스템이 분리되어 있는데 미리 너무 작은 단위로 분리를 하니
+      * debugging이 복잡하고 feature가 2개 이상의 service 협력이 필요한 경우 구현이 복잡하고 시간이 오래 걸리는 등 여러가지 많은 문제
+    * monolithic에서 시작해, feature의 필요성이나, 문제가 존재하는데 분리하는 게 더 나은 경우 등
+      * 필요에 의해 service를 하나씩 분리하면서 "진화"하는 게 필요하다고 생각
+  * 한편, 본문의 글에서는 '사람'에 대해서 언급하는데 이 역시 중요함
+    * '일단 나부터... 회사 시스템을 바꿀 때도 마찬가지...'
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
