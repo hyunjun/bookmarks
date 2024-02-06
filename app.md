@@ -71,8 +71,6 @@ App
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
-* [Arc from The Browser Company](https://arc.net/)
-  * [세상에 없던 힙한 브라우저의 등장 ‘아크(Arc)’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2003/)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
@@ -478,7 +476,13 @@ App
 * [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
 * [web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere](https://github.com/webclipper/web-clipper)
 
-# Chrome
+# Browser
+
+## Browser Arc
+* [Arc from The Browser Company](https://arc.net/)
+* [세상에 없던 힙한 브라우저의 등장 ‘아크(Arc)’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2003/)
+
+## Browser Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
 * [Getting Started with ARC](https://developer.chrome.com/apps/getstarted_arc)
   * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
