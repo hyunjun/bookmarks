@@ -1127,6 +1127,7 @@ Git
     * 대규모 저장소의 요구사항이 Microsoft에만 있는 것이 아니므로 Git의 `contrib/` 디텍로리를 통해 Git 업스트림에 기여 시작, 2.38.0 릴리스에 맞춰서 Git의 일부로 포함
 * stash
   * [A practical guide to using the git stash command | Opensource.com](https://opensource.com/article/21/4/git-stash)
+  * [recovery - How do I recover a dropped stash in Git? - Stack Overflow](https://stackoverflow.com/questions/89332/how-do-i-recover-a-dropped-stash-in-git)
 * submodule
   * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)
