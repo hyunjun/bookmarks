@@ -1691,6 +1691,7 @@ Business
 * [좋은 칭찬의 5가지 원칙](http://moneyman.kr/archives/1047)
 * [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
 * [불만을 없앤다고 만족하지는 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242973) 칭찬시 참고
+* [가장 효과가 높은 칭찬법](https://www.linkedin.com/posts/freeasthewind_%EA%B0%80%EC%9E%A5-%ED%9A%A8%EA%B3%BC%EA%B0%80-%EB%86%92%EC%9D%80-%EC%B9%AD%EC%B0%AC%EB%B2%95-%EC%B9%AD%EC%B0%AC%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%95%BC-%EC%9D%B4%EB%AF%B8-%EC%97%AC%EB%9F%AC-%ED%98%84%EC%9D%B8%EB%93%A4%EC%9D%84-activity-7160631276872331267-x1K0/)
 * ['동기부여 능력' 관리자가 꼭 가져야 할 자질](https://news.v.daum.net/v/20180904101827967)
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [뚱한 부하직원 일 시키려면? - HSG 휴먼솔.. : 네이버블로그](https://blog.naver.com/hs_group/221353792320)
