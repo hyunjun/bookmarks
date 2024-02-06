@@ -498,6 +498,12 @@ SQL
 * [Improving Database Development, CI/CD with Storage Snapshot | by Kittikun Chartmala | Agoda Engineering & Design | Feb, 2022 | Medium](https://medium.com/agoda-engineering/improving-database-development-ci-cd-with-storage-snapshot-799765fd3fa9)
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
 * [날짜 참조 테이블 만들기 (매월 월요일 구하기.. : 네이버블로그](https://blog.naver.com/sqlmvp/220274628593)
+* [Architect a disaster recovery for SQL Server on AWS: Part 1 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-1-architect-a-disaster-recovery-for-sql-server-on-aws/)
+  * [AWS에서 SQL Server를 위한 재해 복구 설계: 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part1/)
+* [Architect a disaster recovery for SQL Server on AWS: Part 2 | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/part-2-architect-a-disaster-recovery-for-sql-server-on-aws/)
+  * [AWS에서 SQL Server를 위한 재해 복구 설계: 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part2/)
+* [Architect a disaster recovery for SQL Server on AWS: Part 3 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-3-architect-a-disaster-recovery-for-sql-server-on-aws/)
+* [Architect a disaster recovery for SQL Server on AWS: Part 4 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-4-architect-a-disaster-recovery-for-sql-server-on-aws/)
 
 # MySQL
 * practice
