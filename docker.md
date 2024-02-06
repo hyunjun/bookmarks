@@ -698,6 +698,7 @@ Docker
 * [Using docker in unusual ways - YouTube](https://www.youtube.com/watch?v=zfNqp85g5JM)
   * backward compatibility를 위한 사용, docker init, docker compose up --build, docker compose watch, integration test (TestContainer)
   * (vulnerabilities) docker scout quickview, docker scout compare, docker scout recommendations
+* [Docker video tutorials - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVahmaH4QgmFwbpUW9J3vgk4)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
