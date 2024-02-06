@@ -1237,6 +1237,10 @@ Business
 * [건설적인 비판을 주고받는 방법 • Asana](https://asana.com/ko/resources/constructive-criticism)
 * [객관적인 피드백을 주는 사람](https://velog.io/@joosing/objective-feedback-giver)
 * [좋은 피드백 (절벽으로 몰아세우지 않기)](https://jojoldu.tistory.com/762)
+* [김창준 - 내가 어떤 프로젝트를 진행해서 산출물이 나왔다. 거기에 대해 동료들로부터 피드백을 받고 싶다. 나는 통상... | Facebook](https://www.facebook.com/cjunekim/posts/pfbid0zajChoynzYExproHA52sLXJUUnJVoiuLEdz8CcEiRDPrdZGtE99yua5gHgnTVTx6l)
+  * pain point와 그걸 느낀 snapshot 그리고 원하는 방향의 ideal state가 희미하게라도 드러나는 질문을 하면
+    * 단 구체적 솔루션으로 좁히지는 않으면
+  * 전문가는 자기 안의 전문성을 더 동원하게 된다
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
