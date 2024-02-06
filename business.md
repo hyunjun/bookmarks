@@ -1833,6 +1833,10 @@ Business
     * 3. 책임감(accountalbility)의 문화 창조
     * 4. 신뢰와 투명성을 바탕으로 직원들과 관계(relationship)
     * 5. 정치가 아닌 성과를 기준으로 의사결정(make decisions)
+* [기억력, 리더의 가장 중요한 자질 – 조성문의 블로그](https://sungmooncho.com/2024/02/05/memory-skill/)
+  * 최근 내가 겪은 일을 생각해보면 기록을 하는 게 더 중요한 듯 싶다
+  * 기억을 제대로 하면 좋지만, 이런 사례가 흔하지는 않을테니 기록하고 제대로 찾아만 봐도 굉장히 수준이 높은 경우이다
+  * 최악은 기록도 하지 않고 기억을 자기 하고 싶은대로 하면서 그걸로 사람을 평가하는 경우
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
