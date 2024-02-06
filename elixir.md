@@ -148,6 +148,7 @@ Elixir
 * [IEx is awesome!](https://inspired.consulting/elixir/iex-is-awesome)
 * [Elixir Processes: Linking and Monitoring - Samuel Mullen](https://s-amuelmullen.com/articles/elixir-processes-linking-and-monitoring)
 * [Build A Simple Tracing System in Elixir | AppSignal Blog](https://blog.appsignal.com/2024/01/23/build-a-simple-tracing-system-in-elixir.html)
+* [Bridging Elixir and Python for Efficient Programming Solutions | Curiosum](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
