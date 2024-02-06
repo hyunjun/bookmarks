@@ -670,6 +670,7 @@ Javascript
 * [Comparing different ways to make HTTP requests in Javascript in 2020](https://medium.com/javascript-in-plain-english/comparing-different-ways-to-make-http-requests-in-javascript-39ab0f090788)
 * [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
 * [A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
+* [모든 개발자가 알아야 할 10가지 필수 자바스크립트 명명 규칙 - All Things N](https://new.atsit.in/5124/)
 * [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
 * [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
 * [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
