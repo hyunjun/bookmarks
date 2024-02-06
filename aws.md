@@ -2285,6 +2285,7 @@ AWS
   * 특히 S3에 합류한 이후 소프트웨어로만 생각하는 것으로 충분치 않고 S3라는 시스템은 이를 운영하는 조직과 사용하는 고객의 코드도 포함된다는 것을 배움
 * [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11392/)
 * [Announcing the new Amazon S3 Express One Zone high performance storage class | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/)
+* [Setup Offsite File Backup in Amazon S3 With S3Cmd | Cytoolz.com](https://cytoolz.com/blog/setup-offsite-backup-in-amazon-s3-with-s3cmd)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
