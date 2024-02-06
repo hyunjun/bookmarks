@@ -31,6 +31,7 @@
 * [데이터 마케팅 도우미··· 주요 DMP 플랫폼 15선 - CIO Korea](https://www.ciokorea.com/news/239799)
 * [글로벌 칼럼 | 개인정보가 더 위험해진다 '서드파티 쿠키 종말의 역설' - ITWorld Korea](https://www.itworld.co.kr/news/243109)
 * ['쿠키리스 시대' 앞두고 CDP 뜨나...고객 데이터 확보 총력전](https://www.bloter.net/newsView/blt202207120015)
+* [이슈&이슈 구글의 3자 쿠키 제공 중단...쿠키가 뭐길래, 이 난리일까요? < 칼럼 < 기사본문 - 반론보도닷컴](https://www.banronbodo.com/news/articleView.html?idxno=22479)
 * [때가 왔다! 광고 거물로 변신 중인 MS - 티타임즈](https://ttimes.co.kr/article/2022072217577715870)
 * [사이트끼리 '품앗이 광고' 연결해주는 서비스 - 티타임즈](https://www.ttimes.co.kr/article/2022081917567762203)
 * [Podcast brand-safety tools are trying to demystify the space for wary advertisers](https://www.marketingbrew.com/stories/2022/09/12/podcast-brand-safety-tools-are-trying-to-demystify-the-space-for-wary-advertisers)
