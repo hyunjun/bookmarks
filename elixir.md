@@ -92,6 +92,7 @@ Elixir
 * [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 * [Doing things only once in Elixir - DEV Community](https://dev.to/palm86/doing-things-only-once-in-elixir-4hdg)
 * [What does AI dream about? Stable Diffusion in Elixir | Curiosum](https://curiosum.com/blog/what-does-ai-dream-about-stable-diffusion-in-elixir)
+* [Thomas Millar, Instructor - The bridge between Elixir and AI - YouTube](https://www.youtube.com/watch?v=RABXu7zqnT0)
 * [Embedded and cloud Elixir for grid-management at Sparkmeter - The Elixir programming language](https://elixir-lang.org/blog/2023/03/09/embedded-and-cloud-elixir-at-sparkmeter/)
 * [Distributed Elixir App in AWS, PT1 — Let’s build the application | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/distributed-elixir-app-in-aws-pt1-lets-build-the-application-a5ce4ac62d26)
 * [Distributed Elixir App in AWS, PT2 — Let’s compile the application | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/distributed-elixir-app-in-aws-pt2-5bd29aea922a)
