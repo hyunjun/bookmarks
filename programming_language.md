@@ -128,6 +128,7 @@ Programming Language
 * [**Calling Functions Across Languages • Richard Feldman • GOTO 2023 - YouTube**](https://www.youtube.com/watch?v=ZOvxa9aKCCg) network, ipc inter-process communication, same process
 * [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 * ["The Economics of Programming Languages" by Evan Czaplicki (Strange Loop 2023) - YouTube](https://www.youtube.com/watch?v=XZ3w_jec1v8)
+* [if(!x)를 만족하는 프로그래밍 언어별 x .. : 네이버블로그](https://blog.naver.com/birdparang/223343249790) (알고있던 거지만) true, false이외에 falsy에 대한 이야기 정리
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
