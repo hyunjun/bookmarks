@@ -304,6 +304,7 @@ Git
   *  저장소의 이슈, 풀 리퀘스트, 디스커션에서 첫 반응에 걸리는 시간, 종료될 때까지의 시간, 대답하는 데 걸리는 시간 등 통계를 볼 수 있는 Issue Metrics Action GitHub Actions를 GitHub에서 만들어서 제공
   * [issue-metrics: Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.](https://github.com/github/issue-metrics)
 * [GitHub repository templates 사용 후기](http://ohyecloudy.com/pnotes/archives/github-repository-templates/)
+* [**Inside `.git`**](https://jvns.ca/blog/2024/01/26/inside-git/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
