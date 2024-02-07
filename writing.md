@@ -119,6 +119,8 @@ Writing
 * [효과적인 릴리즈 노트 작성 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/20/release-notes-tips/) release note
 * [테크니컬 라이팅에 프롬프트 엔지니어링 활용하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/29/tw-prompt/)
 * [브레인 오프너: 감정을 찌르는 글쓰기 기술](https://brunch.co.kr/@cliche-cliche/215)
+* [팬을 만드는 PR 글 작성 방법 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%ED%8C%AC%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-pr-%EA%B8%80-%EC%9E%91%EC%84%B1-%EB%B0%A9%EB%B2%95)
+  * 진정성 인사이트 디테일 유용성 참여유도
 
 # App
 * latex
