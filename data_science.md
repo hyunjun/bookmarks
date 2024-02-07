@@ -18,6 +18,7 @@ Data Science
 * [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [데이터 분석가가 되기 위해서는?](https://brunch.co.kr/@modulabs/29)
 * [데이터 분석, 의심에서 전달까지 | Pega Devlog](https://jehyunlee.github.io/2021/10/14/Python-DS-86-datadoubt/)
+* [데이터 분석이란 무엇일까](https://brunch.co.kr/@lunarshore/489) 기술적인 이야기는 아님
 * [Overfitting을 피해보자!](http://freesearch.pe.kr/archives/4487)
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
