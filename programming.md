@@ -3290,6 +3290,7 @@ Programming
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
+* [GitHub Actions로 개선하는 코드 리뷰 문화](https://velog.io/@tosspayments/GitHub-Actions%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -4350,6 +4351,7 @@ Programming
 * [2024년 DevOps 트렌드 5가지 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/17/2024-devops-trends/)
 * [2024년 DevOps 트렌드 전망 5가지 | GeekNews](https://news.hada.io/topic?id=13054)
   * container화 -> 가시성 부족, IaC -> 높은 기술 숙련도 요구, 옵저버빌리티 -> 구현에 고비용, 숙련인력 부족이 연결된 게 딱 지금 상황이 연상
+* [AI로 DevOps 팀 생산성을 높이는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/02/07/devops-ai/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
