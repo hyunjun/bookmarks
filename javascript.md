@@ -2764,6 +2764,7 @@ Javascript
     * Yarn 대비 패키지 설치 속도도 감소, 만족
   * [pnpm과 함께하는 Frontend 모노레포 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-pnpm)
   * [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
+  * [Yarn Classic에서 Pnpm으로 전환하기 with TurboRepo | by Eunsonny | 원티드랩 기술 블로그 | Feb, 2024 | Medium](https://medium.com/wantedjobs/yarn-classic%EC%97%90%EC%84%9C-pnpm%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-with-turborepo-7c0c37cb3f9e)
   * [CI 소요시간을 최대 4.6배 개선하는 방법](https://tech.inflab.com/20231101-optimizing-ci-pipeline/)
   * [웹프론트개발팀에서 배민 커머스 어드민을 개발하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15084/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
