@@ -415,3 +415,4 @@ Monitoring
     * 이런 설계의 차이는 성능에도 영향
   * active time series, 수집률, 수집 대상의 수를 부하 테스트를 하면서 프로덕션에 운영하는 정도의 매트릭으로 둘을 비교
     * 부하가 커지면 Prometheus는 메모리가 Vitoria Metrics는 CPU가 커지는 특징, Vitoria Metrics에 최적화한 뒤에는 전체적으로 Vitoria Metrics 리소스 사용이 훨씬 적은 것으로 확인
+* [네이버 검색 SRE의 시계열 데이터베이스 운영기 - VictoriaMetrics로 수천만 개의 시계열 데이터 다루기](https://d2.naver.com/helloworld/6867189)
