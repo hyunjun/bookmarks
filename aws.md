@@ -302,6 +302,7 @@ AWS
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 * [테스트 주도 보안으로 DevSecOps 도입 가속화 하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
+* [AWS 개발자 도구를 활용한 사전 코드 보안 점검 파이프라인으로 Shift-Left 구현 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/code-seucirty-check-pipeline-with-aws-developer-tools/) DevSecOps
 * [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1500)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
