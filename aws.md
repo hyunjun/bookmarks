@@ -685,6 +685,7 @@ AWS
 * [AWS Certified Developer Associate - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXbcwowVgJNPzlc4L-vNy8P)
 * [AWS 자격증 취득 후기 (SAA, SAP)](https://jybaek.tistory.com/1006)
 * [AWS 자격증 취득 후기 (DOP)](https://jybaek.tistory.com/1007)
+* [AWS-ALL-Certification-Review - 리눅서의 기술술 블로그](https://linuxer.name/2024/02/aws-all-certification-review/)
 
 # CI/CD Codecommit Codebuild CodeDeploy CodePipeline
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
