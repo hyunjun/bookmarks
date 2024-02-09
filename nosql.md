@@ -96,6 +96,8 @@ NoSQL
 * [How Discord Stores Trillions of Messages | Deep Dive - YouTube](https://www.youtube.com/watch?v=xynXjChKkJc)
 * [Building web server with Cassandra database | by John E Cho | Jun, 2023 | Medium](https://euncho.medium.com/building-web-server-with-cassandra-database-6d4888a89ba6)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
+* [helenus: A collection of Scala utilities for Apache Cassandra](https://github.com/nmoncho/helenus)
+  * [Helenus v1 4 Async API Demo Session - YouTube](https://www.youtube.com/watch?v=9TS9LgTqU2s)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
   * [Getting Started With Phantom](https://blog.knoldus.com/2017/09/24/getting-started-with-phantom/)
