@@ -1162,6 +1162,7 @@ Scala
     * [The Next Generation Of Streaming by Adam Fraser - YouTube](https://www.youtube.com/watch?v=I1A6BPTjG-w)
     * [Vitalii Honta - Temporal Workflows with ZIO: Introduction](https://vhonta.dev/posts/zio-temporal-intro/)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=2EgN0t_vLy4)
+    * [Composable concurrency scope of ZIO Semaphore - Bilal Fazlani](https://bilal-fazlani.com/blog/composable-concurrency-scope-of-zio-semaphore/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
