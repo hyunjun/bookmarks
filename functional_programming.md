@@ -531,6 +531,7 @@ Functional Programming
 * [Understanding FP: Overcoming Intuition and Ease Hurdles - YouTube](https://www.youtube.com/watch?v=VTedRObg5WM)
 * [Unveiling much Simplified Functional Programming in Scala • Afsal Thaj • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=t5tMQ0Kcq1Q)
 * [Introduction to Functional Programming (video course) | alvinalexander.com](https://alvinalexander.com/video-course/intro-fp/introduction/)
+* [How to gently introduce an FP library - YouTube](https://www.youtube.com/watch?v=onFoOrCjxko)
 * [Kyo](https://getkyo.io/#/)
   * [Writing Modular Applications Using The Kyo Library](https://www.scalamatters.io/post/writing-modular-applications-using-the-kyo-library)
 
