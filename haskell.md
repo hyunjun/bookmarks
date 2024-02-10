@@ -370,6 +370,7 @@ Haskell
 * [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
 * [Effective Haskell: Solving Real-World Problems with Strongly Typed Functional Programming by Rebecca Skinner](https://pragprog.com/titles/rshaskell/effective-haskell/)
+  * [Effective Haskell • Rebecca Skinner & Emily Pillmore • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=kOyVxj7p4lI)
 * [Game programming in Haskell by Elise Huard Leanpub PDF/iPad/Kindle](https://leanpub.com/gameinhaskell)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
