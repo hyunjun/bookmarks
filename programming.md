@@ -1190,6 +1190,7 @@ Programming
 * [roapi: Create full-fledged APIs for static datasets without writing a single line of code](https://github.com/roapi/roapi)
   * [ROAPI - 정적 데이터에 대한 Read Only API 생성도구 | GeekNews](https://news.hada.io/topic?id=6115)
 * [SCIM: System for Cross-domain Identity Management](http://www.simplecloud.info/)
+* [SerpApi: Google Search API](https://serpapi.com/) google이 중심이지만 baidu, bing, 심지어 naver까지 다양한 API 호출을 대행(?)
 * [Smithy — Smithy 1.0 documentation](https://awslabs.github.io/smithy/)
   * [Developer Preview: Ruby SDK code generation using Smithy | AWS Developer Tools Blog](https://aws.amazon.com/ko/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)
 * [Statuspage | Atlassian](https://www.atlassian.com/software/statuspage)
