@@ -4697,6 +4697,8 @@ Programming
   * [Working With RabbitMQ in Golang](https://morioh.com/p/cd085b9269fc)
   * [Django and FastAPI with RabbitMQ. Hello developers, during the last… | by Gustavo Caetano | Oct, 2022 | Medium](https://medium.com/@caetanoog/django-and-fastapi-with-rabbitmq-b4b068db5aa2)
   * [To queue or not to queue, that is the question. by Lovisa Johansson - YouTube](https://www.youtube.com/watch?v=GtoJDiDdDvA)
+  * [🐰 RabbitMQ + Postman으로 Message Queue 테스트하기 - YouTube](https://www.youtube.com/watch?v=z6uqgYhMOJk)
+    * [edm-example: Event-Driven Data Management for Microservices](https://github.com/kenu/edm-example)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
