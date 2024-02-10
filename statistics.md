@@ -206,6 +206,11 @@ Statistics
 * [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 * [Linear Regression and Linear Models - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
 * [Hajime Takeda - Media Mix Modeling:How to Measure the Effectiveness of Advertising - YouTube](https://www.youtube.com/watch?v=u4U_PUTasPQ)
+* [통계, 기본 개념을 정리해보자](https://brunch.co.kr/@jihoonleeh9l6/34)
+* [어떨 때 어떤 통계를 써야 할까?](https://brunch.co.kr/@jihoonleeh9l6/38)
+* [통계, t-test에 대해 알아보자(R)](https://brunch.co.kr/@jihoonleeh9l6/33)
+* [통계, paired t-test에 대해 알아보자(R)](https://brunch.co.kr/@jihoonleeh9l6/35)
+* [통계, ANOVA에 대해 알아보자(R)](https://brunch.co.kr/@jihoonleeh9l6/36)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
