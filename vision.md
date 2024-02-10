@@ -900,6 +900,7 @@ Vision
 # Tutorial
 * [🔴컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기 - YouTube](https://www.youtube.com/watch?v=4MfTwR3VFt4)
 * [Computer-vision: Computer Vision implementation](https://github.com/nh9k/Computer-vision)
+* [cm203: Introduction to Computer Vision course materials](https://github.com/Gabrui/cm203?tab=readme-ov-file)
 * [Digital-Image-Processing: Image Processing Implementation](https://github.com/nh9k/Digital-Image-Processing)
 
 # VR Virtual Reality
