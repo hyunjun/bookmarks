@@ -1091,6 +1091,7 @@ Python
   * [What to Log? From Python ETL Pipelines! | by Shiva Koreddi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/what-to-log-from-python-etl-pipelines-9e0cfe29950e)
   * [Lutz Ostkamp - How to format strings for logging in Python | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=AmzfBCffeus)
   * [Stop using print! Understanding and using the "logging" module — Reuven M. Lerner - YouTube](https://www.youtube.com/watch?v=5f4o3nyAz5w)
+  * [Modern Python logging - YouTube](https://www.youtube.com/watch?v=9L77QExPmI0)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [Eliot: Logging that tells you why it happened — Eliot 1.14.0+0.g3584072 documentation](https://eliot.readthedocs.io/en/stable/)
   * [json-logging-python: Cloud-native distributed Python logging library to emit JSON log that can be easily indexed by logging infrastructure](https://github.com/bobbui/json-logging-python)
