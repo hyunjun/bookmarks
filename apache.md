@@ -813,6 +813,7 @@ Apache
 * [**2023 KAFKA KRU 스터디 회고 및 Custom Kafka Connector 만들기**](https://brewagebear.github.io/build-custom-kafka-connector/)
 * [Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages - YouTube](https://www.youtube.com/watch?v=_booBjCB7rU)
 * [The Kafka Swiss Army Knife](https://www.linkedin.com/posts/stanislavkozlovski_most-people-use-apache-kafka-but-they-don-activity-7153412825812549632-9o1d/)
+* [How to Build a Reliable Kafka Data Processing Pipeline, Focusing on Contention, Uptime and Latency - YouTube](https://www.youtube.com/watch?v=yjjsfsuCf1w)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
