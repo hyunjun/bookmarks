@@ -375,6 +375,11 @@ NLP
 * [중요한 것은 사용자의 의도를 꺾지 않으려는 마음 (동시편집에서 Text.Style Operation 개선 및 Multi User Undo/Redo 구현하기)](https://d2.naver.com/helloworld/6014816) peritext
 * [What's the Best Framework for Your #GenAI Project?](https://www.linkedin.com/posts/pavan-belagatti_genai-activity-7144549890780454912-v8DJ)
 * [고르곤졸라는 되지만 고르곤 졸라는 안 돼! 배달의민족에서 금칙어를 관리하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15764/) nori ahocorasick
+* [유엔진 솔루션즈라는 회사에서 진행한 무료 웨비나 영상 중 일부](https://www.facebook.com/groups/174499879257223/?multi_permalinks=25087421780871688)
+  * [2. ChatGPT 프롬프트 활용](https://www.youtube.com/watch?v=kBNsFTgF1W4)
+  * [3. Copilot의 한계와 Cursor IDE](https://www.youtube.com/watch?v=F2YhSCcEZe8)
+  * [5. 프롬프트 엔지니어링 실습](https://www.youtube.com/watch?v=x6NEhMjKN9E)
+
 
 # 띄어쓰기
 
