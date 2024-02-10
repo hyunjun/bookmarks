@@ -1893,6 +1893,7 @@ Business
 * [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
   * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
+* [03화 프로덕트 리더와 프로덕트 매니저의 결정적 차이](https://brunch.co.kr/@eblove216/128)
 * [좋은 매니저는 누구인가](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6281688150)
 * [초짜 매니저 가이드 – Andrew Ahn](https://www.andrewahn.co/silicon-valley/first-time-manager-guide/)
 * [최고 매니저들의 10가지 덕목 | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/greatmanager10/)
