@@ -521,6 +521,7 @@ Programming Language
   * [새로운 인공지능 엔진(MAX)과 새로운 Mojo 버전 공개 - YouTube](https://www.youtube.com/watch?v=dijo88acdRk)
   * [Choosing Your Language: Python or Mojo? - YouTube](https://www.youtube.com/watch?v=OJUorka-XLU)
   * [MojoFastTrim](https://github.com/MoSafi2/MojoFastTrim)
+  * [Mojo Programming for Beginners - YouTube](https://www.youtube.com/playlist?list=PLLlTVphLQsuN6dYoDkDzBM4vETjRwKSry)
 * ["Morel, a functional query language" by Julian Hyde - YouTube](https://www.youtube.com/watch?v=smUm3C5q2IM)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
