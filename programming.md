@@ -3280,7 +3280,7 @@ Programming
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [우리, 이모지로 코드 리뷰 할까요? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/02/04/Code-Review-with-Emoji.html)
-* [Code Red: The Business Impact of Code Quality– A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
+* [2203.04374 Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv.org/abs/2203.04374)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=aRR0EDazxIk)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=X2RdwmPqBvQ)
   * [Rethinking Productivity in Software Engineering Book](https://www.oreilly.com/library/view/rethinking-productivity-in/9781484242216/)
@@ -6227,7 +6227,6 @@ Programming
 * [Google Mock 사용을 위한 간단한 정리](http://prostars.net/230)
 * [비공개 메서드를 테스트 해야 하는가?](https://justhackem.wordpress.com/2017/09/29/should-private-methods-be-tested/)
 * [테스트 주도 개발 실천](https://justhackem.wordpress.com/2017/10/31/practicing-test-driven-development/)
-* [그게 통합 테스트라고?  정말?](https://justhackem.wordpress.com/2018/01/16/is-that-integration-test-really/)
 * [효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은?](https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45)
 * [나는 왜 TDD에 집착하는가?](https://www.slideshare.net/javajigi/tdd-84038026)
   * [나는 왜 TDD에 집착하는가?](https://www.youtube.com/watch?v=Sb3fMvIIsqQ)
@@ -6238,8 +6237,14 @@ Programming
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting)
 * [QA in Production](https://martinfowler.com/articles/qa-in-production.html)
 * [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
+* [그게 통합 테스트라고?  정말?](https://justhackem.wordpress.com/2018/01/16/is-that-integration-test-really/)
+* [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
+* [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
+* [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
+* [Integration tests are needed and simple by Piotr Przybyl - YouTube](https://www.youtube.com/watch?v=SxJG4uZdvj8)
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
+* [단위 테스트가 의미 있는 코드 유형은 뭘까? 통합 테스트는? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-the-four-types-of-code/)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
 * [Why TDD](https://builttoadapt.io/why-tdd-489fdcdda05e)
 * [**결제 시스템 성능, 부하, 스트레스 테스트**](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
@@ -6296,7 +6301,6 @@ Programming
 * [Shift Left의 다양한 효과들](https://goddessbest-qa.tistory.com/266)
 * [가파르게 성장하는 서비스를 담당한, 한 품질담당자의 회고 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9220/)
 * [CPaaS QA가 하는 일 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/11/01/What-CPaaS-QA-does.html)
-* [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
 * [QA Roadmap: Learn to become a modern QA engineer](https://roadmap.sh/qa)
 * [A day in the life of a Quality Engineer (QE) - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=VEneH07itYk)
 * [나는 어떤 강점이 있는 QA 엔지니어일까? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2023/05/15/qa-skills-marktang.html)
@@ -6326,7 +6330,6 @@ Programming
 * [테스트 커버리지 100%](https://blog.npcode.com/2020/02/28/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-100/)
 * [토스ㅣSLASH 21 - 테스트 커버리지 100% - YouTube](https://www.youtube.com/watch?v=jdlBu2vFv58&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=8)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
-* [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
 * [테스트가 뭐예요?](https://www.slideshare.net/perhapsspy/ss-232479689)
 * [번역 Self-Testing Code(자체 테스트 코드)- Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-self-testing-code-%EC%9E%90%EC%B2%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-martin-fowler-2d81c1437ac)
 * [Azar Mirror 서버 제작기 1편 - 인프라 개선을 두렵지 않게 하는 테스트 환경 만들기](https://hyperconnect.github.io/2020/05/15/azar-mirror-1.html)
@@ -6370,7 +6373,6 @@ Programming
 * [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
 * [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
 * [나는 왜 TDD와 리팩터링에 집착하는가](https://brunch.co.kr/@myner/77)
-* [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
 * [How To Build Quality Software Fast - YouTube](https://www.youtube.com/watch?v=ZmgbjaRfp_Q)
 * [Ten-year experience in DBMS testing - DEV Community](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea) Tarantool에서 일하면서 기록한 테스트에 대한 이야기. 테스트에 대해 종합적으로 접근하는 방법 참고
 * [The 3 Types of Unit Test in TDD - YouTube](https://www.youtube.com/watch?v=W40mpZP9xQQ)
@@ -6424,7 +6426,6 @@ Programming
   * TDD만으로 좋은 시스템 설계를 할 수 있다고 생각하지 않는다는 글에 TDD를 만든 Kent Beck이 직접 "TDD는 디자인 필요성을 대체하지 않는다"고 설명
   * TDD가 제공하는 이점은 인터페이스 디자인에 대한 즉각적인 피드백과 인터페이스 디자인 결정과 구현 디자인 결정의 분리라고 댓글
 * [지속 가능한 인수 테스트 주도 개발 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=birVFRb2d-E) ATDD
-* [단위 테스트가 의미 있는 코드 유형은 뭘까? 통합 테스트는? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-the-four-types-of-code/)
 * [효율적인 테스트 코드 작성법 - YouTube](https://www.youtube.com/watch?v=gs1qM1TF5zA)
   * TDD가 아니라 테스트 작성이 필요하다는 이야기
   * bug가 발생했던 data를 사용해 test를 작성해 같은 bug가 재현되는 걸 방어하겠다는 이야기
