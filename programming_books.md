@@ -3223,6 +3223,8 @@ Programming Books
   * 우당 문325.24-김37ㅁ
 * (NOT YET) [기빙 파워](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301040760)
   * 한라 331.17-바74ㄱ 우당 문325.24-바73ㄱ
+* (NOT YET) [두려움 없는 조직](https://brunch.co.kr/@912bfe1501bd49e/7) 심리적 안전감
+  * 탐라 문325.3-에228ㄷ 제주 325.3-에228두
 
 # Math
 
