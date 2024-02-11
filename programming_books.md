@@ -3613,6 +3613,11 @@ Programming Books
   * ★★★★☆ 2023.11.25 세련되게 풀었다는 느낌은 부족해도 내용의 충실함은 매우 좋다
   * 탐라 문005.1-최43ㅇ
   * [육각형 개발자 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html)
+  * [육각형 개발자](https://1003.notion.site/442b5e6ecbd6422384a907e201f088f8)
+  * [육각형 개발자](https://github.com/hyunjun/bookmarks/blob/master/programming_books/hexagonal_developer.md)
+  * [육각형 개발자. Tags: developer, programmer… | by Jun | Feb, 2024 | Medium](https://nymets.medium.com/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90-a0d7c454d2aa)
+  * [육각형 개발자 - Jun’s Substack](https://recur.substack.com/p/aea)
+  * [육각형 개발자](https://jh4hj.tistory.com/entry/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
