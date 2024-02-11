@@ -55,6 +55,11 @@ Programming Books
     * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     * [실용주의 프로그래머를 지향합니다. | LinkedIn](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
     * [완전 주관적인 실용주의 프로그래머 팁 10선 - YouTube](https://www.youtube.com/watch?v=4I9DZm2aBhY)
+    * [실용주의 프로그래머](https://1003.notion.site/3009001be13948b392a9cbb5992d16ec)
+    * [실용주의 프로그래머 20주년 기념판](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_pragmatic_programmer.md)
+    * [실용주의 프로그래머 20주년 기념판. ★★★★★ April 12, 2022 April 14, 2022 →… | by Jun | Feb, 2024 | Medium](https://nymets.medium.com/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%ED%8C%90-5f191a1fa936)
+    * [실용주의 프로그래머 20주년 기념판 - Jun’s Substack](https://recur.substack.com/p/20)
+    * [실용주의 프로그래머 20주년 기념판](https://jh4hj.tistory.com/entry/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%ED%8C%90)
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
 * [소프트웨어 산책](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%82%B0%EC%B1%85)
