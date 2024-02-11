@@ -7,6 +7,8 @@ Politics
 * [스페인 ‘트위터 마을’의 민주주의 실험](http://www.bloter.net/archives/226061)
 * [WHY WE SHOULDN’T JUDGE A COUNTRY BY ITS GDP](http://ideas.ted.com/why-we-shouldnt-judge-a-country-by-its-gdp/)
 * [민주주의의 가면을 쓴 권위주의 정권의 위험성](http://ppss.kr/archives/40542)
+* [이복연 - 가끔 축구 경기를 보기는 하지만 축알못이라 클린스만 감독이 무능한지, 축협이 잘못했는지 여부는 판단을... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid02rEbqsaBK8i3N87srN5VErZnvzCs8sSVJH48Vr9SWxi38YeGLQNi8rNvYjAL3Semml)
+  * 권위주의, 사대주의, ... 정치이야기는 아니지만 적절한 공간이 없어 여기에 추가
 * [진보진영을 위한 5가지 담론 전략: 대화상대를 인정하라](http://ppss.kr/archives/16464)
 * [진보진영을 위한 판짜기 전략 7](http://ppss.kr/archives/48777)
 * [귀족이냐 평민이냐](http://www.huffingtonpost.kr/jeongtae-roh/story_b_8164998.html)
