@@ -1436,6 +1436,7 @@ NLP
 * [언어모델의 원리와 만들기 – tech.kakao.com](https://tech.kakao.com/2023/06/05/languagemodel-mlm-clm/)
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
 * [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
+* [Why do you need a streaming pipeline instead of a batch pipeline when implementing RAG in your LLM applications? What do you need to implement a streaming pipeline for a financial assistant?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7162007367100960768-AVZn/)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
