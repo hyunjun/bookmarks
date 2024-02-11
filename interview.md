@@ -862,6 +862,7 @@ Interview
 * [These are the questions you want to ask at that job interview](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
 * [Behavioral Interview - How to pass the behavior interview (for software engineers)](https://www.youtube.com/watch?v=EVavVNhG5l8)
 * [영어면접 망치는 표현 5가지 + 개선법](https://www.youtube.com/watch?v=WRvb_RSPalc)
+* [지원자가 보면 안 되는, 면접관이 되고 배운 10가지](https://brunch.co.kr/@youngductive/51)
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
