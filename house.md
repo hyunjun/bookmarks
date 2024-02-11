@@ -103,6 +103,7 @@ House
 * [입주 전 새 아파트, 어디를 어떻게 점검해야 할까?](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=1011&pageIndex=1)
 * [묵시적 갱신](https://blog.naver.com/cy4028/221146795130)
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
+* [90%는 모르는 집 계약 시 주의 사항! 집 구할 때 '이거' 모르면 수백만 원 손해봅니다 ㅣ 월천대사 이주현 찐코노미 - YouTube](https://www.youtube.com/watch?v=Vuywrj4PQSw)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
 * [**부동산 시장의 신호와 소음**](https://brunch.co.kr/@charlieoppa86/33)
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
