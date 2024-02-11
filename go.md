@@ -852,6 +852,7 @@ Go
 * [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
 * [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
+* [Staticcheck](https://staticcheck.dev/) static analysis
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
 * [sup - a simple deployment tool that performs given set of commands on multiple hosts in parallel](https://github.com/pressly/sup)
