@@ -1854,6 +1854,7 @@ NLP
   * [Introducing Semantic Kernel](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel)
   * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
   * [Power of Semantic Kernel and Custom Plugin with SAP Data | LinkedIn](https://www.linkedin.com/pulse/power-semantic-kernel-azure-openai-sap-data-chanjin-park-y8u3c%3FtrackingId=NOVhGXKhTUOtjl%252FOOp7%252BJg%253D%253D/)
+  * [“컨텍스트 대화를 위한 런타임” 시멘틱 커널을 사용한 AI 에이전트 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/323287)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
