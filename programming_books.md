@@ -2994,6 +2994,7 @@ Programming Books
 * (NOT YET) [피터 드러커의 <경영과 세계 경제>를 읽고](https://brunch.co.kr/@graypool/597)
 * (NOT YET) [피터 드러커 자기경영노트](https://blog.naver.com/myway855/221791603776)
   * 탐라 문325.211-드233ㅍ
+  * [정말 죄송하지만, 여러분이 얼마나 열심히 노력했는지는 1도 중요하지 않아요](https://www.linkedin.com/feed/update/urn:li:activity:7162327595504652288/)
 * (NOT YET) [피터 드러커 매니지먼트](https://blog.naver.com/kuk34/221346658589)
   * 탐라 개325.1-드29ㅁ 우당 문325.1-드233ㅍ
   * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 外 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/4248/ac/magazine)
