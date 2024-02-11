@@ -2076,13 +2076,6 @@ Programming
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
 * [Spring boot Circuit breaker Hystrix | Spring boot hystrix - YouTube](https://www.youtube.com/watch?v=kkX7oEzkqd8)
 * [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/) circuit breaker
-* [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
-  * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
-  * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
-  * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
-  * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
-  * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
-  * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
 * [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 * [Python 기반 대규모 마이크로 서비스에서 Circuit Breaker 도입의 여정 | by Edward J. Yoon | Mar, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-circuit-breaker-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b694d83cbf48)
 * [Fault Handling with retry and circuit breaker design patterns by Devlin Duldulao - YouTube](https://www.youtube.com/watch?v=Uxncuk-vocI)
@@ -2499,6 +2492,7 @@ Programming
   * 2014년부터 3세대 플랫폼인 Reloaded로 운영해 왔는데 모든 미디어 자산을 처리하는 모노리식 시스템으로 만들어졌기에 수년 동안 확장되면서 복잡도 증가, 한계 직면
   * 기능이 결합되어 있어서 기능 추가가 어려웠고 모노리식 구조로 재사용되지 않아야 하는 코드도 재사용되며 개발 속도를 늦추고 배포 규모가 커져서 프로덕션에 나가기까지 2주에서 4주 소요
   * 그래서 2018년부터 차세대 플랫폼인 Cosmos를 개발하면서 Reloaded의 확장성과 안정성은 유지하면서 유연성과 개발 속도를 목표로 하면서 마이크로 서비스로 만들게 되었고 2023년 9월 전환 완료
+* [The Resilience Patterns your Microservices Teams Should Know by Victor Rentea - YouTube](https://www.youtube.com/watch?v=IR89tmg9v3A)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -2606,6 +2600,13 @@ Programming
   * [Building API service with Mify Part 2: Adding Postgres](https://ichebykin.hashnode.dev/building-api-service-with-mify-part-2-adding-postgres)
 * Mortar [오늘의집 MSA Phase 1. 서비스 구축과 배포 with Mortar - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-12-17-msa-phase-1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B0%B0%ED%8F%AC-with-mortar/)
 * [Prism: Presto Gateway Service at Uber - Hitarth Trivedi, Uber - YouTube](https://www.youtube.com/watch?v=0NwUCvOZuHY)
+* [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
+  * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
+  * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
+  * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
+  * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
+  * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
+  * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
 * [Service Weaver](https://serviceweaver.dev/)
   * [Introducing Service Weaver: A Framework for Writing Distributed Applications | Google Open Source Blog](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
     * Google에서 분산 애플리케이션을 만들고 배포하는 프레임워크 Service Weaver를 오픈소스로 공개
