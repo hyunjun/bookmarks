@@ -561,6 +561,7 @@ Programming Language
   * [This is not your grandfather's Perl - Stack Overflow Blog](https://stackoverflow.blog/2022/09/08/this-is-not-your-grandfathers-perl/)
 * [Pharo - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback](https://pharo.org/)
   * [Behold Pharo: The Modern Smalltalk](https://medium.com/smalltalk-talk/behold-pharo-the-modern-smalltalk-38e132c46053)
+* [Pkl :: Pkl Docs](https://pkl-lang.org/) configuration language by Apple
 * [Pony](https://www.ponylang.io/)
   * [Pony, Actors, Causality, Types, and Garbage Collection - YouTube](https://www.youtube.com/watch?v=sV68Q8PCEdg)
 * [Pop11 - Introduction to Pop11 basics (pop-basics - revised)](https://www.youtube.com/watch?v=WeYsG8TkNIY)
