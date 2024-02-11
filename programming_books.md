@@ -3604,6 +3604,11 @@ Programming Books
   * 탐라 문005.1-리825ㅍ
   * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
   * [The Missing README: A Guide for the New Software Engineer: Riccomini, Chris, Ryaboy, Dmitriy: 9781718501836: Amazon.com: Books](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838)
+  * [필독! 개발자 온보딩 가이드](https://1003.notion.site/09959466545b42d6b6ed01f71669a61f)
+  * [필독! 개발자 온보딩 가이드](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_missing_readme.md)
+  * [필독! 개발자 온보딩 가이드. Tags: software-engineering Date… | by Jun | Feb, 2024 | Medium](https://nymets.medium.com/%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-dc95b673d140)
+  * [필독! 개발자 온보딩 가이드 - Jun’s Substack](https://recur.substack.com/p/218)
+  * [필독! 개발자 온보딩 가이드](https://jh4hj.tistory.com/entry/%ED%95%84%EB%8F%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [육각형 개발자](https://www.hanbit.co.kr/store/books/look.php?p_code=B7230685099)
   * ★★★★☆ 2023.11.25 세련되게 풀었다는 느낌은 부족해도 내용의 충실함은 매우 좋다
   * 탐라 문005.1-최43ㅇ
