@@ -447,6 +447,7 @@ Linux
   * [How do you empty the buffers and cache on a Linux system?](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
   * [리눅스 서버의 메모리 간단 관리 방법(사용량 확인/캐시삭제/정기관리)](https://osasf.net/discussion/587/리눅스-서버의-메모리-간단-관리-방법-사용량-확인-캐시삭제-정기관리)
   * [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
+  * [sync 와 /proc/sys/vm/drop_caches 차이점 - YouTube](https://www.youtube.com/watch?v=2ODNNN6Mpv0)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [리눅스 명령어를 이용한 시스템 모니터링 하기](http://tech.whatap.io/2015/09/03/linux-monitoring/)
