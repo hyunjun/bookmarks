@@ -851,6 +851,7 @@ Interview
 * [SWE Careers Mock Interviews](https://www.swecareers.com/mock-interviews)
 * [swexpertacademy.com](https://www.swexpertacademy.com)
 * [System Design Simplified | Gaurav Sen](https://get.interviewready.io/)
+* [Low Level Design Machine Coding](http://lldcoding.com)
 * [talview.com](https://www.talview.com/)
 * [testdome.com](https://www.testdome.com/)
 * [topcoder](http://www.topcoder.com/)
