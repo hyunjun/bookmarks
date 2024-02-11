@@ -358,6 +358,7 @@ Programming
 * [AWSKRUG 플랫폼 엔지니어링 모임 후기 (2023/11/21) — 생존과 성장 사이](https://dokdo2013.tistory.com/14)
 * [AWSKRUG 플랫폼엔지니어링 모임에서 발표한 "당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1703)
 * [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
+* [Platform Engineering: What We've Got Wrong | LinkedIn](https://www.linkedin.com/pulse/platform-engineering-what-weve-got-wrong-sarah-polan-qd9fe/)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
