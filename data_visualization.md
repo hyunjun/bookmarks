@@ -385,6 +385,8 @@ Data Visualization
   * [효율적으로 EDA를 하자! - dataprep편](https://brunch.co.kr/@fermat39/112)
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a) 배달 루트 최적화
+* [drawdata.xyz](https://drawdata.xyz/)
+  * [데이터를 그려봐! 🎨 Drawdata. - YouTube](https://www.youtube.com/watch?v=VpPy7OXsTCc)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * Folium
   * [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
