@@ -1595,6 +1595,9 @@ Book
   * 탐라 문199.1-모19ㅇ 우당 문199.1-켄35ㅇ
   * [How to Use the Ikigai Diagram to Find Fulfillment](https://becomingbetter.org/ikigai/)
   * [어쩌다 만들어진 '이키가이 다이어그램'](https://brunch.co.kr/@oohaahpoint/70)
+* (NOT YET) 냉정한 이타주의자 : 세상을 바꾸는 건 열정이 아닌 냉정이다
+  * 한라 191.5-맥64ㄴ 탐라 문191.5-맥63ㄴ 우당 문191.5-맥63ㄴ 제주 191.5-맥63냉
+  * [냉정함이 세상을 바꾼다? 슈퍼리치들의 기부 철학, 효율적 이타주의! | 효율적이타주의, 냉정한이타주의자 - YouTube](https://www.youtube.com/watch?v=FS9VjHmNvxU)
 
 # Politics
 * (NOT COMPLETED) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
