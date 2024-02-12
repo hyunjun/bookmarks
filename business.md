@@ -2285,6 +2285,12 @@ Business
 * [도어대시(DoorDash) 10년 전 데모데이 발표 영상 (2013년, YC demoday) - YouTube](https://www.youtube.com/watch?v=qugQsO_6ivo) pitch deck
 * [(주)스니커즈 오픈피칭 | 앤틀러코리아 1기 데모데이 - YouTube](https://www.youtube.com/watch?v=FltqA2-kefA)
 * [100억원 펀딩 성공한 시리즈A 발표자료, IR프리젠테이션의 정석, 프론트닷컴 피치덱 - YouTube](https://www.youtube.com/watch?v=gY9nzWpofUs)
+* [📖 VC심사역의 입장에서 살펴본, 스타트업 IR 피치덱](https://growth-partners.xyz/startup-ir-pitchdeck-by-vc-perspective/)
+  * [최인철 - ⏱️ 심사역의 IR덱 검토 시간은 얼마일까? 1/ 궁금해서 찾아 봤는데 나오더라. 평균 “3분... | Facebook](https://www.facebook.com/innchul/posts/pfbid022zCA2VtoEjEQaZMiCKLymfuyjR6psg9k4MV1RyY3ixnYh5bvWSZe9cZfBLPZzaE6l)
+    * 투자자들이 통상 IR덱 스크리닝에 ‘긴 시간’을 쓰지 않는다는 것, 그래서, 그들의 시각으로 자료 작성을 하는 것이 매우 중요
+    * 예컨데 200여개의 성공적 피치덱을 분석해보니, 공통된 순서가 있었다. 투자자 입장에서 생각하는 간단한 예는, 투자자에게 익숙한 이 순서를 지키려는 노력 아닐까?
+    * 투자자가 가장 중요하게 생각하는 섹션은 뭘까? 답은 Financial, Team, Competition
+    * 답은 상대편의 시각, 고객이건 투자자건 + 핵심 부분은 자유롭고 창의적으로/그 외의 부분은 routine하게 널리 쓰이는 형식에 맞춰서
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
