@@ -964,6 +964,7 @@ NLP
   * [GPT4All is the Local ChatGPT for your Documents and it is Free! - KDnuggets](https://www.kdnuggets.com/2023/06/gpt4all-local-chatgpt-documents-free.html)
   * [인공지능 내 노트북에서 ChatGPT 같은 오픈소스 인공지능 챗봇(ChatBot) 구축하기(GPT4All)](https://sansamlife.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%82%B4-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90%EC%84%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B1%97%EB%B4%87ChatBot)
   * [Run LLMs on Any GPU: GPT4All Universal GPU Support](https://blog.nomic.ai/posts/gpt4all-gpu-inference-with-vulkan)
+  * [단 몇 분 만에 뚝딱… ‘나만의 AI 챗봇’ 만드는 법 - ITWorld Korea](https://www.itworld.co.kr/news/324316)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
 * [gpt-crawler: Crawl a site to generate knowledge files to create your own custom GPT from a URL](https://github.com/BuilderIO/gpt-crawler)
   * [Rod Rivera on LinkedIn: gpt-crawler - AI library of the day: gpt-crawler by Builder.io crawls… | 22 comments](https://www.linkedin.com/posts/rorcde_gpt-crawler-ai-library-of-the-day-gpt-crawler-activity-7144510534409752576-ygKa)
