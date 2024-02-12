@@ -2981,6 +2981,7 @@ Javascript
 * [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
   * [멀티페이지 폼을 아름답게 만들면서 멋지게 유효성 검사하기 | miryang.dev](https://miryang.dev/blog/create-multi-page-form)
   * [shadcn, react-hook-form useFieldArray, zod로 동적 form 관리하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/shadcn,-react-hook-form-usefieldarray,-zod%EB%A1%9C-%EB%8F%99%EC%A0%81-form-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)
+  * [오픈소스 맛보기 Zod로 데이터 유효성 검증 + 타입 추론하기](https://www.youtube.com/watch?v=mNj5_8k1zVk)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
