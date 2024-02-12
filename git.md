@@ -941,6 +941,7 @@ Git
     * 전에는 Git 기본 전략보다 빠른 `libgit2`를 사용했는데 종종 정확성에서 차이가 나서 로컬에서는 병합되는데 왜 GitHub UI에서는 안 되는지에 관한 문의 존재
     * Git에는 2년 전 새로운 머지 전략인 `merge-ort`가 도입되었고 기존 전략인 `merge-recursive` 보다 빠르고 워킹 디렉터리도 필요치 않은 데다가 이젠 Git의 기본 머지 전략
     * 이를 도입하기 위해 머지에 먼저 점진적으로 GitHub에 도입했고 P50에서 10배, P99에서 5배가 빨라졌으며 리베이스에 도입할 때는 `git-replay` 명령어를 활용했는데 512시간이 걸릴 리베이스가 `merge-ort`에서는 33시간 소요
+  * [Git의 새로운 기본 Merge 전략 ort :: Outsider's Dev Story](https://blog.outsider.ne.kr/1707) resolve recursive ort
 * restore
   * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
   * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
