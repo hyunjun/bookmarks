@@ -2097,6 +2097,7 @@ AWS
 * [Amazon SQS DLQ(Dead Letter Queue) 리드 라이브를 위한 새로운 API 세트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
 * [마이크로서비스에 Amazon SQS 활용하기 - hatemogi.com](https://hatemogi.com/2022/0801-amazon-sqs.html)
 * [Amazon SQS FIFO 대기열에 대한 처리량 증가 및 DLQ(Dead Letter Queue) 리드라이브 지원 발표 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
+* [채널톡의 Amazon SQS를 이용한 효율적인 Spike 트래픽 처리 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-channel-talk-handles-high-volume-traffic-with-amazon-sqs/)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
