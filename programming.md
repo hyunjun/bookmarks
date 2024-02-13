@@ -6592,6 +6592,7 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
   * [클린 코드를 위한 테스트 주도 개발 3](https://hyesun03.github.io/2016/09/22/djangoTDD03/)
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
+  * [iOS와 Android 간 UI 자동화 속도 차이 해결하기 (부제 : ActionChains로 iOS 테스트 자동화 속도에 로켓 달아주기) | by 정다정 | 29CM TEAM | Feb, 2024 | Medium](https://medium.com/29cm/ios%EC%99%80-android-%EA%B0%84-ui-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%A4%ED%96%89-%EC%86%8D%EB%8F%84-%EC%B0%A8%EC%9D%B4-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-0ee1ff90208a)
 * [Peanut: 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines](https://github.com/Clivern/Peanut)
   * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
 * TestCafe [Cross-Browser End-to-End Testing Framework | TestСafe](https://testcafe.io/)
