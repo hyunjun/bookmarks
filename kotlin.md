@@ -93,13 +93,6 @@
 * [Kotlin Weekly Update — 24](https://medium.com/mindorks/kotlin-weekly-update-24-77e2f86346ca)
 * [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
 * [Sealed Class에 대해서 알아보자](https://developer88.tistory.com/247)
-* [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
-* [Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
-* ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
-* [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
-* [The Art of Building a Gradle Plugin with Kotlin | by Kerry Bisset | Nov, 2023 | Stackademic](https://blog.stackademic.com/the-art-of-building-a-gradle-plugin-with-kotlin-20756f61666b)
-* [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
-* [Kotlin Context Receivers and DSL Magic | by smallufo | Jul, 2023 | Medium](https://medium.com/@smallufo/kotlin-context-receivers-and-dsl-magic-73aee25bca23)
 * [tosspayments-restdocs: 선언형 문서 작성 라이브러리](https://toss.tech/article/tosspayments-restdocs)
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
@@ -429,6 +422,23 @@
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
+# DSL
+* [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
+* [Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
+* ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
+* [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
+* [The Art of Building a Gradle Plugin with Kotlin | by Kerry Bisset | Nov, 2023 | Stackademic](https://blog.stackademic.com/the-art-of-building-a-gradle-plugin-with-kotlin-20756f61666b)
+* [에셋팀 레거시 개선 (1) 쏘카존 관리 시스템 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/02/12/legacy-gradle-build-script.html)
+* [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
+* [Kotlin Context Receivers and DSL Magic | by smallufo | Jul, 2023 | Medium](https://medium.com/@smallufo/kotlin-context-receivers-and-dsl-magic-73aee25bca23)
+* [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
+  * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
+  * [KotlinDL 0.4 Is Out With Pose Detection API, EfficientDet for Object Detection, and EfficientNet for Image Recognition | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficientnet-for-image-recognition/)
+* [kotlin-jdsl: Kotlin DSL for JPA Criteria API without generated metamodel and reflection](https://github.com/line/kotlin-jdsl)
+  * [Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-jpa-criteria-api-with-kotlin/)
+    * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
+    * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
+
 # Kotlin Multiplatform Mobile KMM
 * [크로스 플랫폼 개발을 위한 Kotlin Multiplatform | JetBrains](https://www.jetbrains.com/ko-kr/kotlin-multiplatform/)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
@@ -487,13 +497,6 @@
 * [Konsist facilitates codebase standardization by enforcing coding conventions and guarding the project architecture.](https://github.com/LemonAppDev/konsist)
   * [Refactoring Multi-Module Kotlin Project With Konsist | by Igor Wojda 🤖 | Sep, 2023 | ProAndroidDev](https://proandroiddev.com/refactoring-multi-module-kotlin-project-with-konsist-f0de0de59a3d)
 * kotless [KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov - YouTube](https://www.youtube.com/watch?v=69uk3Pi88AE&list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl&index=10)
-* [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
-  * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
-  * [KotlinDL 0.4 Is Out With Pose Detection API, EfficientDet for Object Detection, and EfficientNet for Image Recognition | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficientnet-for-image-recognition/)
-* [kotlin-jdsl: Kotlin DSL for JPA Criteria API without generated metamodel and reflection](https://github.com/line/kotlin-jdsl)
-  * [Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-jpa-criteria-api-with-kotlin/)
-    * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
-    * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
   * [Kotlin JDSL: Kotlin을 이용해 손쉽게 Reactive Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-reactive-criteria-api-with-kotlin/)
   * [JPA 맘에 안들어서 쿼리 라이브러리 만든 썰 | Kotlin JDSL part.1 - YouTube](https://www.youtube.com/watch?v=-Kdr6qq6uJI)
 * [Kotlin NoteBook In Intellij](https://devroach.tistory.com/176)
