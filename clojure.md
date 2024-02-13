@@ -479,6 +479,7 @@ Clojure
 * [Metadata - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/metadata/)
 * [Datatypes - deftype, defrecord and reify - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/datatypes/)
 * [You can't convert list of lists to a map - YouTube](https://www.youtube.com/watch?v=k5A25Hk_ebY)
+* [Method Values – Inside Clojure](https://insideclojure.org/2024/02/12/method-values/)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
