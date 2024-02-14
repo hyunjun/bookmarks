@@ -987,6 +987,7 @@ Programming
     * 🏦 Bank West의 애자일 변화와 고객 경험
     * 📚 변화로부터 얻은 다섯 가지 교훈
     * 🤝 효과적인 거버넌스의 역할
+* [How engineering teams handle unplanned work | by Anna Debenham | boldstart ventures | Medium](https://medium.com/boldstart-ventures/how-engineering-teams-handle-unplanned-work-d90415ff0d81)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -6317,6 +6318,7 @@ Programming
 * [You are never taught how to build quality software | Florian Bellmann | Be curious, explore and meditate.](https://www.florianbellmann.com/blog/never-taught-qa)
   * [고품질 소프트웨어 개발 방법을 배우지 못하는 현실 | GeekNews](https://news.hada.io/topic?id=12259) QA에 대한 이야기. 스타일은 요즘은 아니고 좀 예전 것
 * [QA는 생성형 AI 테스트 도구를 어떻게 검증할까? - ITWorld Korea](https://www.itworld.co.kr/news/321731?page=0,0)
+* [10 Best QA Companies Using AI in Software Testing in 2024 | by timothy joseph | Jan, 2024 | Medium](https://medium.com/@timothyjosephcw/10-best-qa-companies-using-ai-in-software-testing-in-2024-5b708d222a9f)
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
@@ -6520,6 +6522,7 @@ Programming
 * [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
 * [Patterns & Anti-Patterns for Effective Feature Flagging • Edith Harbaugh • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DAV9BFwsqB8)
 * [Feature Flag, 안전하고 신뢰 가능한 배포로 나아가는 열쇠 🔑 | 전지원 - YouTube](https://www.youtube.com/watch?v=8EZZQZJTKEk)
+* [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df)
 * [A/B 테스트 결과, 이게 맞아? | 요즘IT](https://yozm.wishket.com/magazine/detail/1325/)
   * [The Math Behind A/B Testing with Example Python Code | by Nguyen Ngo | Towards Data Science](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
   * [바로 활용하는 12가지 AB 테스트 사례 | 요즘IT](https://yozm.wishket.com/magazine/detail/897/)
