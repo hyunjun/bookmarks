@@ -1773,6 +1773,8 @@ Programming
 * [**Cloud design patterns, architectures, and implementations - AWS Prescriptive Guidance**](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 * [Leveling up Your Architecture Game - YouTube](https://www.youtube.com/watch?v=sARYVk9yXt8)
 * [Generic or Specific? Making Sensible Software Design Decisions • Bert Jan Schrijver • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=lh5qWwIj06s)
+* [On making architectural decisions - BTABoK](https://btabok.iasaglobal.org/on-making-architectural-decisions/)
+  * [균형 잡힌 아키텍처 결정을 위하여](https://maily.so/saascenter/posts/3bfe06cc)
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
 * [InfoQ Software Architecture & Design Trends 2023 - YouTube](https://www.youtube.com/watch?v=CKpxd3FBnqo)
