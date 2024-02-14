@@ -1528,6 +1528,7 @@ NLP
       * 사용자는 GPTQ 알고리즘으로 모델의 정밀도를 8, 4, 3, 2비트로 조정 가능
       * 특히, 4비트 양자화는 정확도 저하가 적으며 추론 속도도 fp16 기준과 유사
       * 이 기능은 Nvidia와 AMD GPU에서 모두 사용 가능
+* [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
 * [autotrain-advanced: 🤗 AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced)
   * [코드 1줄 Llama 2 내 데이터로 파인튜닝 Colab에서 - YouTube](https://www.youtube.com/watch?v=GjZ1a0OJqGk)
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
