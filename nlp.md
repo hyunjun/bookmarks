@@ -1438,6 +1438,9 @@ NLP
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
 * [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
 * [Why do you need a streaming pipeline instead of a batch pipeline when implementing RAG in your LLM applications? What do you need to implement a streaming pipeline for a financial assistant?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7162007367100960768-AVZn/)
+* [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
+* [캐글에서 살펴본 RAG 트렌드 살펴보기 (2)](https://brunch.co.kr/@hotorch/21)
+* [Aurimas Griciūnas on LinkedIn: “Hello World”s of RAG](https://www.linkedin.com/posts/aurimas-griciunas_you-can-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-that-activity-7160565020626411521-rh5E)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
@@ -1501,7 +1504,6 @@ NLP
 * [흙수저용 무료 GPT - YouTube](https://www.youtube.com/watch?v=_tUDZdlehAk)
 * [Max Pumperla - Building & Deploying LLM Apps - YouTube](https://www.youtube.com/watch?v=Gj2_knxjVOk)
 * [Jeroen Overschie - Dataset enrichment using LLM's ✨ - YouTube](https://www.youtube.com/watch?v=hJeMtABYkEQ)
-* [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
 * [SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels. - YouTube](https://www.youtube.com/watch?v=VxFtHqlMv8c)
 * [SBTB 2023: LLM Workshop - YouTube](https://www.youtube.com/playlist?list=PLNESult6cnOk7wD-jvkBXlODyLQJ4TOok)
 * [Chevy Chatbot Misfire: A Case Study in LLM Guardrails and Best Practices | by Branden Mcintyre | Dec, 2023 | Medium](https://medium.com/@branden.mcintyre/chevy-chatbot-misfire-a-case-study-in-llm-guardrails-and-best-practices-7ae319088e94)
