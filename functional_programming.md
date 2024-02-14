@@ -173,6 +173,7 @@ Functional Programming
 * [번역 프로그래머를 위한 카테고리 이론 - 0. 서문 | Evans Library](https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-0-preface/)
 * [번역 프로그래머를 위한 카테고리 이론 - 1. 카테고리: 합성의 본질 | Evans Library](https://evan-moon.github.io/2024/01/30/category-theory-for-programmers-1-category/)
 * [번역 프로그래머를 위한 카테고리 이론 - 2. 타입과 함수 | Evans Library](https://evan-moon.github.io/2024/02/06/category-theory-for-programmers-2-types-and-functions/)
+* [번역 프로그래머를 위한 카테고리 이론 - 3. 다양한 카테고리들 | Evans Library](https://evan-moon.github.io/2024/02/13/category-theory-for-programmers-3-categories-great-and-small/)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
