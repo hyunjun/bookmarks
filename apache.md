@@ -814,6 +814,8 @@ Apache
 * [Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages - YouTube](https://www.youtube.com/watch?v=_booBjCB7rU)
 * [The Kafka Swiss Army Knife](https://www.linkedin.com/posts/stanislavkozlovski_most-people-use-apache-kafka-but-they-don-activity-7153412825812549632-9o1d/)
 * [How to Build a Reliable Kafka Data Processing Pipeline, Focusing on Contention, Uptime and Latency - YouTube](https://www.youtube.com/watch?v=yjjsfsuCf1w)
+* [Why Kafka Is the New Data Lake?. There is increasing evidence to suggest… | by RisingWave Labs | Medium](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
+* [Seamless Transition: Migrating Kafka Cluster to Kubernetes | by Frankie | Feb, 2024 | Zendesk Engineering](https://zendesk.engineering/seamless-transition-migrating-kafka-cluster-to-kubernetes-c8dc66594d1b)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
