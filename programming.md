@@ -2493,6 +2493,7 @@ Programming
   * 2014년부터 3세대 플랫폼인 Reloaded로 운영해 왔는데 모든 미디어 자산을 처리하는 모노리식 시스템으로 만들어졌기에 수년 동안 확장되면서 복잡도 증가, 한계 직면
   * 기능이 결합되어 있어서 기능 추가가 어려웠고 모노리식 구조로 재사용되지 않아야 하는 코드도 재사용되며 개발 속도를 늦추고 배포 규모가 커져서 프로덕션에 나가기까지 2주에서 4주 소요
   * 그래서 2018년부터 차세대 플랫폼인 Cosmos를 개발하면서 Reloaded의 확장성과 안정성은 유지하면서 유연성과 개발 속도를 목표로 하면서 마이크로 서비스로 만들게 되었고 2023년 9월 전환 완료
+  * [마이크로서비스로 넷플릭스 비디오 처리 파이프라인 재구축하기 | GeekNews](https://news.hada.io/topic?id=13341)
 * [The Resilience Patterns your Microservices Teams Should Know by Victor Rentea - YouTube](https://www.youtube.com/watch?v=IR89tmg9v3A)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
