@@ -116,6 +116,7 @@ NoSQL
 * [Clickhouse as an alternative to ElasticSearch and MySQL, for log storage and analysis, in 2021](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/)
 * [Olga Silyutina- ClickHouse Applications in Data Analytics | PyData Yerevan July 2022 Meetup - YouTube](https://www.youtube.com/watch?v=F74bBGSMwGo)
 * [Log analytics using ClickHouse](https://blog.cloudflare.com/log-analytics-using-clickhouse/)
+* [From Open Source to SaaS: the Journey of ClickHouse - YouTube](https://www.youtube.com/watch?v=qLUbX30dzgo)
 
 # CockroachDB
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
