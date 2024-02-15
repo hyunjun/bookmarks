@@ -2524,6 +2524,7 @@ AWS
   * [Managing resources with the Terraform AWS Cloud Control provider](https://www.hashicorp.com/blog/managing-resources-with-the-terraform-aws-cloud-control-provider)
     * AWS에서 새로운 기능이 나오면 AWS Terraform 프로바이더에서 기능이 추가되어야 Terraform에서 사용할 수 있는데 AWS Cloud Control API를 이용한 Terraform에서 AWS Cloud Control 프로바이더 공개
     * 이 프로바이더는 자동으로 생성되기 때문에, AWS에 새 기능이 나오면 바로 사용 가능
+* [HashiTalks 2024 - YouTube](https://www.youtube.com/watch?v=MxBXwbGVv08)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
