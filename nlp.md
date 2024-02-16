@@ -1035,6 +1035,7 @@ NLP
 * [**Cognitive Prompting 정리(1zlabs Ken. Ver.231207 공유용) - Google Slides**](https://docs.google.com/presentation/d/1kayepoiTVT838Tetk02nxeqVmmS9BDc9O7n-4OzJdL8/)
 * [5 prompt frameworks](https://www.linkedin.com/posts/marcellvollmer_chatgpt-chatbots-chatgpt4-activity-7140080858924773376-U_CU)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* [프롬프트, 프로그래밍처럼 생각하기 :: BlaCk_Log](https://black7375.tistory.com/97)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
