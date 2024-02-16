@@ -1489,6 +1489,7 @@ Programming
   * [Dogpile effect, ft. Caching. Have you ever wondered what happens… | by Sooraj | Apr, 2023 | Medium](https://medium.com/@iSooraj/dogpile-effect-ft-caching-c2b9c4496691)
   * [스프링캠프 2019 Track 2 Session 5 : 멀티리전 가용성을 위한 글로벌 캐싱 - Hidden micro services (정윤진, 김필중) - YouTube](https://www.youtube.com/watch?v=lg_qK3zZE4g)
   * [Caching 101: The Must-Know Caching Strategies](https://www.linkedin.com/feed/update/urn:li:activity:7146017623292395521/)
+  * [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -2303,6 +2304,7 @@ Programming
 * [if(kakao)dev2022 마이크로 프론트엔드 실무에 쓸만할까?](https://if.kakao.com/2022/session/82)
 * [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
 * [**FEConf 2023 대형 웹 애플리케이션 Micro Frontends 전환기 - Speaker Deck**](https://speakerdeck.com/mmmaxkim/feconf-2023-daehyeong-web-aepeulrikeisyeon-micro-frontends-jeonhwangi)
+* [주도적으로 설계하는 MFA 1탄](https://velog.io/@leehyunho2001/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-MFA-1%ED%83%84)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
 * [Module Federation의 컨셉과 작동 원리 이해하기](https://maxkim-j.github.io/posts/module-federation-concepts/)
   * 모듈 단위로 배포 후 브라우저 런타임에서 합체시키는 Module Federation 설명
@@ -3013,6 +3015,17 @@ Programming
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
 * [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
 * [클라우드의 세션 - ② 토큰과 세션 : 네이버 블로그](https://blog.naver.com/wharup/223329488539)
+* [Enabling a Cloud Operating Model](https://www.hashicorp.com/cloud-operating-model)
+  * HashiCorp에서 클라우드 인프라를 운영하는 모델을 정리한 백서 공개
+  * 물론 회사에서 공개한 내용이니 상당 부분은 이러한 운영 모델을 HashiCorp의 제품으로 어떻게 구축하는지에 대한 내용
+    * 운영 모델에 대한 내용과 HashiCrop의 접근도 참고할만 함
+  * 클라우드는 정적 인프라가 아니라 동적 인프라
+    * IP 대신 ID 기반으로 보안과 네트워킹 정책 수립 필요
+    * 수동 티켓 시스템으로 운영하는 대신 자동화된 셀프서비스 플랫폼 필요
+  * 조직 내에 클라우드를 도입하고 이 운영 모델이 점점 성숙해질 수 있도록 플랫폼 엔지니어링 관행을 도입해
+    * 운영을 소프트웨어 문제로 취급하도록 하고
+    * 베스트 프렉티스를 모아서 셀프서비스 기능으로 제공하고
+    * 동적 환경을 지원하는 워크플로우를 만들 수 있도록 변화가 필요하다고 이야기
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -4359,6 +4372,7 @@ Programming
 * [2024년 DevOps 트렌드 전망 5가지 | GeekNews](https://news.hada.io/topic?id=13054)
   * container화 -> 가시성 부족, IaC -> 높은 기술 숙련도 요구, 옵저버빌리티 -> 구현에 고비용, 숙련인력 부족이 연결된 게 딱 지금 상황이 연상
 * [AI로 DevOps 팀 생산성을 높이는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/02/07/devops-ai/)
+* [DevOps Korea 좌담회 2024.2.13. | docmoa](https://docmoa.github.io/06-etc/class/devops-discussion-20240213.html)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -5517,6 +5531,7 @@ Programming
   * [기술 뉴스 #237 : 24-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1702)
   * [기술 뉴스 #238 : 24-01-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1705)
   * [기술 뉴스 #239 : 24-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1706)
+  * [기술 뉴스 #240 : 24-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1708)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
