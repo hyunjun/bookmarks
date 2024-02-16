@@ -1381,6 +1381,7 @@ Git
 * [GitButler | Git Branching, Refined](https://gitbutler.com/)
   * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
   * [Opening Up GitButler](https://blog.gitbutler.com/opening-up-gitbutler/)
+  * [So You Think You Know Git - FOSDEM 2024 - YouTube](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
