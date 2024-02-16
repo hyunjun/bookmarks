@@ -218,6 +218,7 @@ History
 * [유학생들의 출세주의와 과학기술 1세대의 지연 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=748)
 * [과학적 계몽주의자 '이광수의 친일' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=839)
 * [흩어진 역사, 잊혀진 이름들](https://monument.sisain.co.kr/) 일본 근대화의 '심장'은 조선인 노동자였다
+* [무키우스 기억한 로마인, 송학선을 잊은 한국](https://h21.hani.co.kr/arti/society/society_general/55078.html)
 
 ## 조선
 * [조선왕실 가계도](http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/royaltombs/royalFamilyGen.jsp)
