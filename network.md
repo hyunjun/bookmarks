@@ -332,6 +332,7 @@ Network
 # Library
 * [네트워크 엔지니어를 위한 '무료' 필수 툴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/268533)
 * [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
+* [awesome-connectivity-info: Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.](https://github.com/stevesong/awesome-connectivity-info)
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
