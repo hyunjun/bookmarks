@@ -107,6 +107,7 @@
   * 2. 전체 빌드(full build)에서는 대체로 c++가 빠르거나 비슷
   * 3. 증분 빌드(incremental build)에서는 종종 rust가 빠른 경우도 있었는데 비긴경우도 있고 rust가 크게 느린 경우도
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
+* [Go vs Rust. Why must it be an either-or debate?? 🙄🙄 | by oyebode amirdeen | Feb, 2024 | Medium](https://medium.com/@oyebodeamirdeen/go-vs-rust-why-must-it-be-an-either-or-debate-f1a54e8531ae)
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 * [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
 * [Jeffrey Olson, "Functional Programming in Rust" - YouTube](https://www.youtube.com/watch?v=CSk_QRE7GKg)
