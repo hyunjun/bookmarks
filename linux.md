@@ -925,6 +925,11 @@ Linux
   * [SSH tips and tricks | Carlos Becker](https://carlosbecker.dev/posts/ssh-tips-and-tricks/)
   * [Passion is like genius; a miracle. - ssh-add 를 자동실행하는 방법](https://mkseo.pe.kr/blog/?p=2756)
   * [리모드 서버에 ssh private key를 저장하지 않으려면 – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4490)
+  * [The story of the SSH port is 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
+    * 1995년 SSH를 만든 Tatu Ylonen이 SSH의 포트 번호인 22번을 어떻게 할당받았는지 적은 글
+    * 당시 23번 포트의 Telnet과 21번 포트의 FTP를 대체할 수 있도록 SSH를 설계 후 무료인 22번 포트를 사용하면 좋겠다고 생각
+    * 당시에는 인터넷의 규모가 작고 초기 단계, IANA에서 포트 번호를 관리, IANA에 SSH의 RFC를 첨부하면서 포트 번호, 특히 22번을 받고 싶다고 이메일
+    * IANA에서 22번을 할당해 주고 Tatu Ylonen을 담당자로 지정해 주어 바로 SSH의 베타테스터들에게 공개
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH
