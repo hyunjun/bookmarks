@@ -971,6 +971,7 @@ Docker
   * [Kubernetes 오픈소스 컨트리뷰션 방법 소개 (한글화 기여를 통해 쿠버네티스에 참여하기, CNCG2020 발표) - YouTube](https://www.youtube.com/watch?v=2JiKkPv_IGs)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
 * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
+* [study-kubernetes-in-action](https://github.com/sungsu9022/study-kubernetes-in-action/issues)
 * [쿠버네티스 사용해보기 - YouTube](https://www.youtube.com/playlist?list=PLbkeo0MyuahMfS9igIsWpLVXV-G_bg8dC)
 * [쿠버네티스(Kubernetes)](https://www.nextree.io/kubeonetiseu-kubernetes/)
 * [**CloudNet@ Blog**](https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
@@ -1113,6 +1114,11 @@ Docker
     * request 설정이 스케줄 링 외에 CPU 확보에 어떤 의미가 있는지 설명
     * 스로틀링을 거는 limit 관점에서는 cpu period와 quota를 기준으로 어떤 식으로 스로틀링이 동작하는지 설명
   * 결론은 성능을 향상하길 원한다면 limit을 걸지 않기를 권장
+* [Unlocking Kubernetes Performance with no CPU Resource Limits | by Fredrik Fischer | Nordnet Tech | Jan, 2024 | Medium](https://medium.com/nordnet-tech/unlocking-kubernetes-performance-with-no-cpu-resource-limits-56d5dc33037b)
+  * Kubernetes에서 리소스를 설정할 때 CPU의 requests와 limits가 어떻게 동작하는지 설명하고 왜 limits를 설정하지 않는 것이 좋은지를 설명한 글
+  * requests가 있으면 사용할 CPU를 보장받을 수 있으면서 필요할 때는 그 이상의 CPU 사용 가능
+  * limits이 있으면 스로틀링 때문에 보장받은 CPU도 제대로 사용할 수 없기 때문
+  * 그림과 함께 이해하기 좋게 설명
 * [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
   * [terraform-aws-coreos-kubernetes](https://github.com/kz8s/tack)
 * [2. 테라폼을 이용한 EKS 설치 및 로컬 관리 환경 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-23-jennifer-kubernetes-2/)
