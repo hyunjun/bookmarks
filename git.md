@@ -548,6 +548,7 @@ Git
   * PR이 하나의 목표만 있다면 Squash를 사용하는데 이때도 Git/GitHub의 기본 스쿼시 메시지가 아니라 다시 작성하는 편
   * 변경 사항이 많은 WIP가 많은 경우 rebase를 통해 적당히 스쿼시하고 순서도 조정해서 관리
   * 50개 이상의 커밋을 대규모로 인터랙티브 리베이스를 할 때 GUI가 편하다는 걸 깨달아서 Tower를 사용
+  * [번역 merge vs rebase vs squash](https://velog.io/@eunbinn/merge-vs-rebase-vs-squash)
 * [Always Squash and Rebase your Git Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
 * [**깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법**](http://www.itworld.co.kr/news/142318)
 * [Git 명령어 중 자주 사용하는 것들 모음](https://developer88.tistory.com/290)
@@ -1377,6 +1378,9 @@ Git
   * [Giscus 댓글, 텔레그램 (Telegram) 으로 알람 받기](https://jojoldu.tistory.com/705)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
+* [GitButler | Git Branching, Refined](https://gitbutler.com/)
+  * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
+  * [Opening Up GitButler](https://blog.gitbutler.com/opening-up-gitbutler/)
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
