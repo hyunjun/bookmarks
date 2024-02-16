@@ -535,7 +535,6 @@ Javascript
 * [Breaking the rules of Sane Programming](https://hackernoon.com/breaking-the-rules-with-metaprogramming-5e3384141a8d)
 * [JavaScript: The Label Statement - Explore the label Statement in JavaScript](https://codeburst.io/javascript-the-label-statement-a391cef4c556)
 * [Writing an easing function; a slightly interesting story](https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a)
-* [Observable is a better way to code](https://beta.observablehq.com/)
 * [JavaScript 함수 파라미터에서 destructuring assignment 이용하기](https://blog.outsider.ne.kr/1348)
 * [SVG Generation 1/3](https://steemit.com/kr-dev/@kdj/svg-generation-1-3)
 * [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
@@ -2294,6 +2293,13 @@ Javascript
       * Nuxt 앱의 투명성을 높이고 병목 현상을 찾아주고 앱과 구성을 관리하는 데 도움
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
+* [Observable Framework](https://observablehq.com/framework/) static site generation SSG
+  * [Observable is a better way to code](https://beta.observablehq.com/)
+  * [Observable 2.0 | Observable](https://observablehq.com/blog/observable-2-0)
+    * d3.js를 만든 Mike Bostock이 만든 Observable에서 2.0 출시, 오픈소스로 공개
+    * 그동안 데이터를 효과적으로 보여주기 위한 노트북을 제공했는데 이는 임시적인 데이터 탐색에는 적합하지만 세련된 대시보드와 앱에는 부적합
+    * 그래서 프레임워크를 만들게 되었고 이를 이용해서 데이터앱 구축
+    * 모든 백엔드 언어와 연결이 가능하고 빌드시에 데이터로더가 실행되기 때문에 페이즈 로딩이 아주 빠름
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
   * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku. https://oclif.io ](https://github.com/oclif/oclif)
   * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
@@ -3565,6 +3571,12 @@ Javascript
   * [Express JS Tutorial - 2 - Create a GET api - YouTube](https://www.youtube.com/watch?v=c4PH09FpzRk)
   * [데이터 변환 계층 (Data Transform Layer)](https://jojoldu.tistory.com/685) DTO
   * [Automated Logging in Express.js. Learn the significance of Logging, how… | by Mirza Leka | Sep, 2023 | Medium](https://mirzaleka.medium.com/automated-logging-in-express-js-a1f85ca6c5cd)
+  * [Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions - Socket](https://socket.dev/blog/express-js-spam-prs-commoditization-of-open-source)
+    * 486만 명의 구독자를 보유한 인기 YouTube 영상에서 Pull Request를 제출하는 방법을 설명하면서 예시도 Express.js를 사용
+      * Express.js 저장소에 Readme를 업데이트하는 스팸 PR이 대량으로 등록되는 사태 발생
+      * 영상에서 실제 Express.js 저장소를 사용했기 때문에 사람들이 따라 하면서 express 저장소에 PR을 등록, 메인테이너는 이 스팸에 대응하느라 고생
+    * 사람들은 오픈소스에 기여하는 것을 취업의 방법이 되었고 그로 인해서 오픈소스 생태계가 무너지고 있다며
+      * 대부분의 사람은 오픈소스에 기여하지 말라는 말까지 나오는 상황
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
