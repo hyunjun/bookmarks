@@ -169,6 +169,7 @@ iOS
 * [TCA 1.0 - TCA의 기본 개념 (1) (ch.02) :: iOYES](https://green1229.tistory.com/445)
 * [TCA 1.0 - TCA의 기본 개념 (2) (ch.03) :: iOYES](https://green1229.tistory.com/446)
 * [TCA 1.0 - TCA Binding (ch.04) :: iOYES](https://green1229.tistory.com/447)
+* [TCA 1.0 - Dependency (ch.05) :: iOYES](https://green1229.tistory.com/448)
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 
 # Conference
@@ -222,6 +223,8 @@ iOS
 * [PINCache - Fast, non-deadlocking parallel object cache for iOS and OS X](https://github.com/pinterest/PINCache)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
   * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
+* [react-native-visionos: A framework for building native visionOS applications using React](https://github.com/callstack/react-native-visionos)
+  * [React Native visionOS, RN에서 애플 비전 프로 지원 | GeekNews](https://news.hada.io/topic?id=13346)
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [RxSwift: Reactive Programming in Swift](https://github.com/ReactiveX/RxSwift)
   * [RxSwift로 반응형 프로그래밍하기](https://news.realm.io/kr/news/reactive-programming-with-rxswift)
