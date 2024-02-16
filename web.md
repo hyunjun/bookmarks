@@ -375,6 +375,11 @@ Web
   * 브라우저간 호환성을 유지하기 위해 여러 브라우저가 벤더가 공동으로 테스트를 만들어서 상호 운용성을 개선하기 위한 Interop 2023 마무리 
   * 작년 초와 비교, 대부분 90점대 후반으로 큰 개선, `:has()`, 컨테이너 쿼리, 서비그리드, 색공간 등 주요한 기능 추가
   * 곧 Interop 2024 발표 예정
+* [The web just gets better with Interop 2024 | WebKit](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
+  * 브라우저 간 호환성을 유지하기 위해 여러 브라우저가 벤더와 회사들이 공동으로 테스트를 만들어서 상호 운용성을 개선하기 위한 Interop 2024 발표
+  * Interop 2023은 컨테이너 쿼리, `:has()`, Flexbox, Grid 등의 영역의 상호 운용성을 크게 개선
+  * 올해는 Microsoft Edge를 크롬과 별도로 구분해서 보여주기 시작
+    * 접근성, 웹소켓용 HTTPS URL, CSS Nesting, CSS 커스텀 프로퍼티(`@property`), 선언적 쉐도우 DOM, 레이아웃, 스크롤바 스타일 등
 * [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
 * [What's New in Web Animations - YouTube](https://www.youtube.com/watch?v=XKRLt3UPbmU)
 * [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
@@ -383,6 +388,7 @@ Web
 * [사운드 리소스 전달 WebApp 만들기](https://tech.devsisters.com/posts/building-a-sound-vcs-webapp/)
 * [사파리, 모바일 환경에서의 트러블슈팅 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-safari-issues/)
 * [진정한 남자들은 DB를 쓰지 않습니다 - YouTube](https://www.youtube.com/watch?v=pCOBmmJARPE) data를 URL에 저장
+* [더 나은 폼을 만드는 몇 가지 팁 – 형우의 웹개발](https://mytory.net/archives/15921)
 
 # Apache
 * installation
@@ -844,6 +850,10 @@ Web
       * z-index는 Flow 알고리즘에 구현되어 있지 않기 때문에 z-index를 제대로 사용하려면 레이아웃 알고리즘 지정 필요, width도 알고리즘에 따라 다르게 동작
     * <img> 태그가 <div>에서 약간의 마진이 생기는 것도 CSS 프로퍼티 때문이 아니라 Flow 레이아웃에 따라 인라인 요소로 처리되었기 때문에 발생
     * 이 레이아웃 알고리즘을 이해해야 CSS 프로퍼티를 제대로 사용할 수 있다고 설명, CSS 처리할 때 꼭 살펴봐야 할 만큼 좋은 글
+* [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
+  * DIV를 부모 요소의 중앙에 배치하는 것은 의외로 까다로운 작업인데 중앙에 배치한 다양한 방법을 설명하는 글
+  * 마진을 `auto`로 설정해서 가운데 배치, `flexbox` 이용 방법, `position: fixed`를 이용해서 뷰포트의 중앙에 배치, CSS Grid로 중앙에 배치하는 방법 설명
+  * 실행해 볼 수 있는 예제를 같이 보여주면서 특징을 설명하고 있어서 이해 용이
 * [How To Create A Modal In Javascript and CSS - YouTube](https://www.youtube.com/watch?v=KjQ8uvAt9kQ)
 * [em과 rem의 차이 | Univdev](https://www.univdev.page/posts/em-and-rem-diffrence/)
 * [State of CSS 2022](https://web.dev/state-of-css-2022/)
@@ -1260,6 +1270,8 @@ Web
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
+* freenginx [nginx news](https://freenginx.org/)
+  * [Freenginx: 핵심 Nginx 개발자가 발표한 포크 | GeekNews](https://news.hada.io/topic?id=13369)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
