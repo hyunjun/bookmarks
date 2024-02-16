@@ -1097,6 +1097,7 @@ Business
 * [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [성과내는 프로덕트 팀의 3가지 요소](https://brunch.co.kr/@yongjinjinipln/112)
 * [일 잘한다 소문난 시니어는 주니어 시절 어떤 사람이었나](https://brunch.co.kr/@seunghoon82/412) 열린 마음, 교류 강조
+* [권정혁 - 개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 # 1. 기능을 구축하는 데 있어 다른 기술적... | Facebook](https://www.facebook.com/xguru/posts/pfbid0rYxAq257jQp22YXkMtKFD2xeGFVLhkQvarH7hRRzKbs6iFPJ84w8tpfcoDHTaxv3l)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
@@ -1337,6 +1338,7 @@ Business
 * [2023년 CTO 회고](https://jojoldu.tistory.com/766)
 * [CTO 인터뷰 레몬베이스 엔지니어링 그룹은 기술 과제를 어떻게 해결하고 있는가 | by Jane (이다솜) | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/cto-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B7%B8%EB%A3%B9%EC%9D%80-%EA%B8%B0%EC%88%A0-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-a2f7a070199b)
 * [임원의 커리어 관리는 무엇이 다른가··· IT 리더가 전하는 올해 목표 15가지 - CIO Korea](https://www.ciokorea.com/news/321479)
+* [IT 부서 성과를 이끄는 5가지 평가 지표 - CIO Korea](https://www.ciokorea.com/news/325541)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1695,6 +1697,7 @@ Business
 * ['동기부여 능력' 관리자가 꼭 가져야 할 자질](https://news.v.daum.net/v/20180904101827967)
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [뚱한 부하직원 일 시키려면? - HSG 휴먼솔.. : 네이버블로그](https://blog.naver.com/hs_group/221353792320)
+* [동기부여와 동기의 차이점 - Wonderful Mind](https://wonderfulmind.co.kr/difference-motives-motivation/)
 * [The Power of Small Wins](https://hbr.org/2011/05/the-power-of-small-wins)
 * [리더의 역할 - 팀 동기부여를 잘 시킬수 있는 방법 13가지](https://smartincome.tistory.com/267)
 * [직원의 업무효율을 높이는 CEO의 질문법 | 티피아이 인사이트](https://www.tpiinsight.co.kr/insight/2020/05/21/%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%85%eb%ac%b4%ed%9a%a8%ec%9c%a8%ec%9d%84-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%98%91%eb%98%91%ed%95%9c-ceo-%ec%a7%88%eb%ac%b8/)
