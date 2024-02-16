@@ -944,6 +944,7 @@ Python
     5
     ```
     * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
+  * [python partial 함수를 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2024/02/13/python-partial-%ed%95%a8%ec%88%98%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b4%85%ec%8b%9c%eb%8b%a4/)
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
   * [**Dismissing Python Garbage Collection at Instagram**](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
@@ -4633,9 +4634,20 @@ Python
   * [PyUpdater PyInstaller의 단일 실행파일 + 자동 업데이트 기능](https://jangminhyeok.tistory.com/9)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
 * pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
+* [Rye](https://rye-up.com/)
+  * [Rye: A Vision Continued | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
+    * Python 프로젝트와 패키지를 관리하는 도구인 Rye를 만든 Python의 유명 개발자 Armin Ronacher가 Rye의 중요성을 설명하는 글
+    * Rye가 있으면 Python이 설치도 안 되어 있는 환경에서도 1분 이내에 모든 환경이 갖춰진 파이썬 프로젝트를 시작 가능
+      * 이는 Rust에서 Cargo의 원활한 통합을 보면서 이를 Python 커뮤니티에서도 비슷한 경험을 하고 싶어서 제작
+      * Cargo가 그렇듯이 모든 도구를 다 만드는 것이 아니라 생태계의 다른 도구를 연결해 주는 역할
+    * 이는 Rye도 비슷하게 하고 있지만 아직 1인 프로젝트이며 이러한 표준화 아이디어가 Python 생태계에 더 필요하다고 이야기
 * [State Tool CLI :: ActiveState Platform Documentation](https://docs.activestate.com/platform/state/)
   * [How to manage Python environments: Global vs Virtual - ActiveState](https://www.activestate.com/blog/how-to-manage-python-environments-global-vs-virtual/)
 * [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel](https://github.com/google/subpar)
+* [uv: Python packaging in Rust](https://astral.sh/blog/uv)
+  * [uv: An extremely fast Python package installer and resolver, written in Rust](https://github.com/astral-sh/uv)
+    * `pip`와 `pip-tools`를 대체하려고 Rust로 작성된 uv는 엄청나게 빠른 Python 패키지 인스톨러이면서 리졸버
+    * Python을 위한 Cargo 지향, 이번 릴리스와 함께 Rye의 관리도 같이 맡아서 공동의 비전을 실현하기 위해 노력
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
