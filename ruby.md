@@ -163,6 +163,13 @@ Ruby
     * GitHub가 내부에서 Ruby on Rails로 사용하는 MySQL 호환 데이터베이스의 Active Record 클라이언트 라이브러리인 Trilogy를 오픈소스로 공개
     * Trilogy는 Ruby VM 같은 환경에 임베딩해서 효율적으로 동작하도록 작성
     * GitHub의 성능과 신뢰성을 개선하기 위해 2015년부터 사용
+* [The Plan for Rails 8 · The Ruby Dispatch](https://fly.io/ruby-dispatch/the-plan-for-rails-8/)
+  * Rails 8 웹프레임워크 계획 공개, 최신 웹 앱의 복잡성을 압축해서 웹 앱을 더 쉽게 구축한다는 Rails의 모토를 여전히 유지
+  * NVMe SSD로 데이터베이스가 훨씬 빨라짐에 따라 Solid Cache와 Solid Queue를 통해 기존 Redis에 의존하던 캐싱/백그라운드 작업 대체, 데이터베이스 사용
+  * Postgres와 MySQL이 지원하는 WebSocket을 통해 브라우저에 메시지 브로드캐스트 지원
+  * 오랫동안 Rails의 에셋 파이프라인이었던 Sprockets을 propshaft이 대체 예정
+    * [propshaft: Deliver assets for Rails](https://github.com/rails/propshaft)
+  * 그외에도 Kamal 배포도구, HTTP 기본 인증 생성기, 벤치마크 도구, Rails 8의 Language Server 등의 도구 포함 예정
 
 # TDD, Test
 * [factory_bot: A library for setting up Ruby objects as test data](https://github.com/thoughtbot/factory_bot)
