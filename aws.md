@@ -1309,6 +1309,10 @@ AWS
 * ["안정적인 11st EKS 운영기" | 이무열 - YouTube](https://www.youtube.com/watch?v=Fby5Vy_9_bU)
 * [Amazon EKS extended support for Kubernetes versions pricing | Containers](https://aws.amazon.com/ko/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/)
 * [Vertical Pod Autoscaler - Amazon EKS](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/vertical-pod-autoscaler.html) VPA
+* [AWS: EKS Pod Identities – a replacement for IRSA? Simplifying IAM access management](https://rtfm.co.ua/en/aws-eks-pod-identities-a-replacement-for-irsa-simplifying-iam-access-management/)
+  * AWS EKS에서는 Pod에 AWS 권한을 부여하기 위해 IRSA(IAM Roles for Service Accounts)를 사용하는데
+    * 새로 나온 EKS Pod Identities로 IRSA를 대체하는 방법 사용
+  * EKS Pod Identities는 OIDC를 사용하지 않기 때문에 IAM 역할을 만들고 클러스터 수준에서 서비스 어카운트를 연결해서 관리 가능
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1823,6 +1827,8 @@ AWS
   * [데브옵스 CDK for Terraform으로 나만의 AWS Resource 정의하기 | 황성찬, AWS Community Builder - YouTube](https://www.youtube.com/watch?v=JssIKrwXeZg)
   * [AWS Cloud Development Kit(CDK)을 활용한 포티투닷(42dot)의 Fleet Management System(FMS) 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloud-development-kit-cdk-42dot-fleet-management-systemfms-automation/)
   * [AWS re:Invent 2023 - Infrastructure as code showdown: AWS CDK and declarative tools (COM213) - YouTube](https://www.youtube.com/watch?v=LtsML9ufNQs)
+  * [Announcing CDK Migrate: A single command to migrate to the AWS CDK | AWS DevOps Blog](https://aws.amazon.com/ko/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/)
+    * [aws-cdk/packages/aws-cdk/README.md at main · aws/aws-cdk](https://github.com/aws/aws-cdk/blob/main/packages/aws-cdk/README.md#cdk-migrate)
   * [cdk8s](https://cdk8s.io/) helm template 대체 가능한 sdk
     * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
@@ -2052,6 +2058,7 @@ AWS
 * [Amazon SageMaker Clarify – 파운데이션 모델 평가 기능 출시 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
+* [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
