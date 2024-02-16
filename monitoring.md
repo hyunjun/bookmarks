@@ -98,6 +98,10 @@ Monitoring
 * [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
 * [15. 모니터링 대시보드 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-04-kubernetes-15/)
 * [16. 알람 시스템 구축 – Robusta & 그라파나 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-10-kubernetes-16/)
+* [Combining tracing and profiling for enhanced observability: Introducing Span Profiles | Grafana Labs](https://grafana.com/blog/2024/02/06/combining-tracing-and-profiling-for-enhanced-observability-introducing-span-profiles/)
+  * Grafana 10.3에 Span Profile 기능 추가
+  * 기존 continuous profiling에서는 고정된 간격으로 시스템 전체에 대한 보기 제공
+  * Span Profile에서는 개별 요청을 포함해서 애플리케이션의 특정 실행 범위에 대한 분석 제공
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
