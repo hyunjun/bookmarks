@@ -6467,6 +6467,8 @@ Programming
 * [식별할 수 있는 동작(Observable behavior) - 테스트 대상 코드를 구분하는 기준 - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/observable-behavior/)
 * [단위 테스트(Unit Testing)에서 단위의 경계는 무엇인가? (feat. 고전파와 런던파) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-london-detroit/)
 * [**테스트 대역(Test Double)로 사용하는 목(Mock)과 스텁(Stub)은 뭐가 다른가 - ohyecloudy’s pnotes**](http://ohyecloudy.com/pnotes/archives/test-double-mock-stub/) Mock = (Mock/Spy), Stub = (Stub/Dummy/Fake)
+* [프로세스 외부 의존성을 가진 데이터베이스는 무조건 목(Mock)으로 대체해야 하는가? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/out-of-process-dependency/)
+* [Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
