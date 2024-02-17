@@ -334,6 +334,7 @@ NoSQL
   * [CloudKit을 Firebase로 마이그레이션 하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/migrate-cloukit-firebase/)
   * [I tried 5 Firebase alternatives - YouTube](https://www.youtube.com/watch?v=SXmYUalHyYk)
   * [Firebase App Distribution으로 앱 배포하기 :: iOYES](https://green1229.tistory.com/438)
+  * [파이썬 Python FCM(Firebase Cloud Messaging) 발송 구현 API(v1), 푸시서버 모듈 업데이트/마아그레이션 실습 - YouTube](https://www.youtube.com/watch?v=P6DcYjOZ1XQ)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
