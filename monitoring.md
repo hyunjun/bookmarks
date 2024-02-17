@@ -57,6 +57,7 @@ Monitoring
 * [DevOps LGTM 스택 도입기. 안녕하세요. 핀다 DevOps 팀의 김명석입니다. | by 김명석 | FINDA 기술블로그 | Jul, 2023 | Medium](https://medium.com/finda-tech/lgtm-%EC%8A%A4%ED%83%9D-%EB%8F%84%EC%9E%85%EA%B8%B0-aeb1424b8299)
 * [p95, 어떻게 구할까? (DD-sketch를 통한 백분위수 구하기)](https://blog.imqa.io/dd-sketch/)
 * [CPU 이용률의 두 가지 얼굴 - CPU 코어 사용량(Usage)과 활용률(Utilization) - 넷마블 기술 블로그](https://netmarble.engineering/cpu-core-usage-and-utilization)
+* [Reliable Architectures through Observability - YouTube](https://www.youtube.com/watch?v=21nYUG1puyQ)
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
