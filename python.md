@@ -3446,6 +3446,7 @@ Python
   * [코랩에서 구글 모델 서치 구동하기](https://tykimos.github.io/2021/02/25/hello_model_search/)
   * [Colab 에서 파이선 런타임을 수정하는 방법](https://colab.research.google.com/drive/1EhUxW6B1iSFxq1siAkSNabzhQAKq-FWu)
   * [DATA SCIENCE PROJECTS Made Easy with COLAB AI | Generative AI | GeeksforGeeks - YouTube](https://www.youtube.com/watch?v=Gt5ZkoFrgyE)
+  * [코랩 사용기 ( Pay As You GO, 코랩 프로)](https://webnautes.tistory.com/2018)
   * [colab-biolab](https://github.com/hyeshik/colab-biolab)
   * [colabctl: Google Colaboratory background/task executioner & controller](https://github.com/TensorTom/colabctl)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
