@@ -1759,6 +1759,7 @@ App
 * [Software Architecture As Code Tools](https://newsletter.techworld-with-milan.com/p/software-architecture-as-code-tools) Structurizr, PlantUML, Diagrams, Mermaid, ASCII editor, Markmap, Go diagrams, SequenceDiagram.org
 * [16 Popular Free And Open Source UML tools](https://medevel.com/open-source-uml-tools/)
 * [Create animated architecture diagrams in minutes on powerpoint - YouTube](https://www.youtube.com/watch?v=yg3WcAjmR90) ppt의 animation 이용이라 나에겐 큰 유용함은 없을 듯
+* [Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube](https://www.youtube.com/watch?v=jCd6XfWLZsg)
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
