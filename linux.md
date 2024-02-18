@@ -1076,6 +1076,8 @@ Linux
   * [꿀벌개발일지 :: 파일을 바이너리로 보기](https://ohgyun.com/793)
 * `yes` [A Little Story About the `yes` Unix Command | Matthias Endler](https://endler.dev/2017/yes/)
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
+* [zoxide: A smarter cd command. Supports all major shells](https://github.com/ajeetdsouza/zoxide)
+  * [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
 
 ## Command Mail
 * [Linux mail command examples – send mails from command line](https://www.binarytides.com/linux-mail-command-examples/)
