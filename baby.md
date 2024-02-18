@@ -55,6 +55,7 @@ Baby
 * [David Karp의 멋진 부모님](http://www.thestartupbible.com/2013/07/tumblr-david-karp-cool-parents.html)
 * [부모, 자율적 사고, 스타트업, 그리고 록키](http://www.thestartupbible.com/2015/12/korean-parents-are-part-of-the-problem-when-it-comes-to-free-thinking-and-startups.html)
 * [아이들의 바른 행동을 이끌고 싶다면?](https://news.v.daum.net/v/20141224181505183)
+* [#유퀴즈 요즘 아이들이 달라진 이유는 '과도한 마음 읽기' 때문이다!?🚨 부모가 아이에게 부정적인 사인을 주는 이야기들을 되도록 하지 말아야 하는 이유💥 - YouTube](https://www.youtube.com/watch?v=fwRZezPZf_0)
 * [웰니스 카운셀링 혼내도 말을 듣지 않는 아이에게 절실히 필요한 것](http://www.davida.or.kr/board/bbs/board.php?bo_table=_community_02&wr_id=87&page=3)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (1)](http://newspeppermint.com/2015/05/05/mobility-2/)
 * [주거 지역이 가난한 아이의 계층 이동에 미치는 영향 (2)](http://newspeppermint.com/2015/05/05/mobility2/)
