@@ -1455,6 +1455,7 @@ Python
   * [The unreasonable effectiveness of f-strings and re.VERBOSE - death and gravity](https://death.andgravity.com/f-re)
   * [Python F-Strings Number Formatting Cheat Sheet by BrianAllan - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/)
   * [13 Python f-string formatting tips - YouTube](https://www.youtube.com/watch?v=44DMWikS0Ds)
+  * [5 Useful F-String Tricks In Python - YouTube](https://www.youtube.com/watch?v=EoNOWVYKyo0)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Python String Formatting - ThePythonGuru.com](https://thepythonguru.com/python-string-formatting/)
