@@ -35,6 +35,9 @@ Philosophy
   * [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)
 * [한눈에 보는 현대철학](http://www.artnstudy.com/Event/?EventKey=561)
 * [왜 철학을 공부하는가?](http://www.mimul.com/pebble/default/2018/06/26/1530012035058.html)
+* [매 순간 불안한 삶, 한 번쯤은 곱씹어 봐야 할 ‘철학’ 이야기 | 숭실대 철학과 김선욱 교수 X 아주대 심리학과 김경일 교수 #삶 #노후 김경일의 지혜의 밤 16화 FULL - YouTube](https://www.youtube.com/watch?v=uUznUCwa3WI)
+  * education -> learning의 시대, machine 'learning', deep 'learning'
+  * 과거는 기억속에, 미래는 기대속에, 실제로 존재하는 건 현재뿐
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
