@@ -1365,6 +1365,8 @@ Linux
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
+* [Stow - GNU Project - Free Software Foundation](https://www.gnu.org/software/stow/)
+  * [Stow has forever changed the way I manage my dotfiles - YouTube](https://www.youtube.com/watch?v=y6XCebnB9gs)
 * [tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
