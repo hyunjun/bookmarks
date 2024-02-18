@@ -816,6 +816,7 @@ Apache
 * [How to Build a Reliable Kafka Data Processing Pipeline, Focusing on Contention, Uptime and Latency - YouTube](https://www.youtube.com/watch?v=yjjsfsuCf1w)
 * [Why Kafka Is the New Data Lake?. There is increasing evidence to suggest… | by RisingWave Labs | Medium](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
 * [Seamless Transition: Migrating Kafka Cluster to Kubernetes | by Frankie | Feb, 2024 | Zendesk Engineering](https://zendesk.engineering/seamless-transition-migrating-kafka-cluster-to-kubernetes-c8dc66594d1b)
+* [이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할ㅣ컨플루언트 김현수 상무 - YouTube](https://www.youtube.com/watch?v=3DKYdq6tO-8)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
