@@ -22,6 +22,7 @@ Ocaml
 * [Starting an OCaml app project using Dune](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
 * [Detecting use-cases for GADTs in OCaml | Mads Hartmann](https://blog.mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
 * [Effective Programming in OCam • KC Sivaramakrishnan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=X28PFYvZ_V8)
+* [OCaml for Fun & Profit: An Experience Report • Tim McGilchrist • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=TxuLrsQZprE)
 
 # Library
 * [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
