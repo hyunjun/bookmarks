@@ -2058,6 +2058,7 @@ Programming
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
+* [The HARD TRUTH About Your Microservices - YouTube](https://www.youtube.com/watch?v=yC6EEuxhglE) microservice의 속성을 중심으로 이야기 
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
