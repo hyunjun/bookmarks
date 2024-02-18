@@ -2274,6 +2274,7 @@ AWS
 * [AWS Tutorial: AWS S3 simple operations from web console and CLI - YouTube](https://www.youtube.com/watch?v=ItKED-GGa10)
 * [AWS Tutorial: Share a temporary downloadable URL to S3 Object with presign - YouTube](https://www.youtube.com/watch?v=zA91Zw-sGqI)
 * [Automate S3 Storage class lifecycle using Terraform | by jaffar shaik | Oct, 2022 | Medium](https://jaffarshaik.medium.com/automate-s3-storage-class-lifecycle-using-terraform-88943db72bee)
+* [How do I empty an Amazon S3 bucket using a lifecycle configuration rule? - YouTube](https://www.youtube.com/watch?v=JfK9vamen9I)
 * [Amazon S3 신규 객체 암호화 기본 설정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-s3-encrypts-new-objects-by-default/)
   * AWS에서 S3에 저장되는 모든 객체의 암호화가 기본 적용되도록 지원
   * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
