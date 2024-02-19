@@ -519,6 +519,10 @@ Web
 * [Web development with ClojureScript, Om, ReactJS and Related Libraries in V Acts](http://e-string.com/articles/web-development-clojurescript-om-reactjs-related-libraries-v-acts/)
 * [arachne-framework.org](http://arachne-framework.org/)
 
+# Conference
+* [practice - 주니어 개발자가 생각하는 웹 접근성](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#3f62143548ec4baf86d9665548e02c71)
+* [practice - WebXR](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#7e0dcac597ab451cb9f99d58e4807c7c)
+
 # Crawler
 * [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * Crawling Billions of Pages: Building Large Scale Crawling Cluster
@@ -1753,6 +1757,7 @@ Web
   * Blink와 Skia 코드를 수정해서 페이지를 SVG로 변환하는 함수를 만들고 폰트나 그림자 등의 문제를 해결하는 과정
 * [Safari SVG Blurry 현상 해결 방법 | Univdev](https://www.univdev.page/posts/safari-svg-blurry/)
 * [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
+* [practice - CANVAS / SVG 책 집필기](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#319335c045414d0f8d2b176e3f1a310e)
 * [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 
 # Test
@@ -2010,6 +2015,7 @@ Web
 * [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
+* [practice - WASM을 이용한 NES 에뮬레이터 만들기](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#967e54c75c104d429c22dcb219e022a7)
 * [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/)
   * [WASI: a New Kind of System Interface - YouTube](https://www.youtube.com/watch?v=zFfwvEFvz-g)
