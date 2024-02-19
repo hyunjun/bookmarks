@@ -1036,6 +1036,8 @@ NLP
 * [5 prompt frameworks](https://www.linkedin.com/posts/marcellvollmer_chatgpt-chatbots-chatgpt4-activity-7140080858924773376-U_CU)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [프롬프트, 프로그래밍처럼 생각하기 :: BlaCk_Log](https://black7375.tistory.com/97)
+* [practice - 인공지능 프롬프트 활용법 - 쉽고 재미있게 다루기](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#9ee1a0d470c54218a87bba4f257ff285)
+* [practice - LangChain meetup - 프롬프트 흐름](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#44ae73a90515478b8084e46fbf2286a3)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
@@ -1518,6 +1520,9 @@ NLP
   * 말투는 물론 공백 차이로도 출력에 큰 영향
   * [Are LLMs Greedy? An Experimental Analysis of the Tipping Prompt ($0 to $1 Million) – Be on the Right Side of Change](https://blog.finxter.com/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis/)
     * 팁을 주면 더 나은 결과를 가져올까 하는 연구도 있는데 이건 큰 효과는 없었음
+* [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
+* [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
+* [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1662,6 +1667,7 @@ NLP
   * [LangChain Expression Language(LCEL) 원리 이해와 파이프라인 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-lcel/)
   * [LangChain 에이전트(Agent)와 도구(tools)를 활용한 지능형 검색 시스템 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-agent/)
   * [DuckDuckGo, Serp API 활용 랭체인 웹검색 실습 코드(🎊사용 후기 댓글 이벤트 오픈) - YouTube](https://www.youtube.com/watch?v=iPlbwLchXF0)
+  * [practice - LangChain meetup - QA 기능을 이용한 효율적인 정보 추출](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#2cffe55e456849d086827cf5f04a01ff)
   * [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
