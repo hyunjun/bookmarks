@@ -1843,6 +1843,7 @@ Python
   * [Making Games with Python & Pygame](https://www.freetechbooks.com/making-games-with-python-pygame-t944.html)
   * [Hacking Secret Ciphers with Python: A beginners guide to cryptography and computer programming with Python](https://www.freetechbooks.com/hacking-secret-ciphers-with-python-a-beginners-guide-to-cryptography-and-computer-programming-with-python-t945.html)
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+  * [practice - Big Book of Small Python Projects](https://www.notion.so/1003/Python-d226b4768d5348e198a5ed01388f9ea3?pvs=4#1075c4060bf24f608078369c9155eaa6)
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
