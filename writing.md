@@ -298,6 +298,7 @@ Writing
 * [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [그 많은 개발 문서는 누가 다 만들었을까 (1) 토스페이먼츠 테크니컬 라이터가 하는 일](https://velog.io/@tosspayments/%ED%86%A0%EC%8A%A4%EC%9D%98-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-1)
 * [그 많은 개발 문서는 누가 다 만들었을까 (2) 개발자의 학습을 돕는 모든 것](https://velog.io/@tosspayments/%EA%B7%B8-%EB%A7%8E%EC%9D%80-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%EC%84%9C%EB%8A%94-%EB%88%84%EA%B0%80-%EB%8B%A4-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C-2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%99%EC%8A%B5%EC%9D%84-%EB%8F%95%EB%8A%94-%EB%AA%A8%EB%93%A0-%EA%B2%83)
+* [practice - 기술 작가와 함께 알아가는 테크니컬 라이팅 - 비문학 정보전달 글쓰기의 기본](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#37298e1c32f04906832782f6a1fb593a)
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
 * [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
