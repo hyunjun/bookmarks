@@ -2501,6 +2501,7 @@ Programming
   * 그래서 2018년부터 차세대 플랫폼인 Cosmos를 개발하면서 Reloaded의 확장성과 안정성은 유지하면서 유연성과 개발 속도를 목표로 하면서 마이크로 서비스로 만들게 되었고 2023년 9월 전환 완료
   * [마이크로서비스로 넷플릭스 비디오 처리 파이프라인 재구축하기 | GeekNews](https://news.hada.io/topic?id=13341)
 * [The Resilience Patterns your Microservices Teams Should Know by Victor Rentea - YouTube](https://www.youtube.com/watch?v=IR89tmg9v3A)
+* [**마이크로서비스에서 안정적인 운영을 위한 통신 구현 방안. 개요 | by Greg Lee | Feb, 2024 | Medium**](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%EC%8B%A0-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-2e60bbff49f0)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -3016,6 +3017,7 @@ Programming
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
 * [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
 * [클라우드의 세션 - ② 토큰과 세션 : 네이버 블로그](https://blog.naver.com/wharup/223329488539)
+* [클라우드의 세션 - ③ 세션을 토큰으로 대체하.. : 네이버블로그](https://blog.naver.com/wharup/223357659971)
 * [Enabling a Cloud Operating Model](https://www.hashicorp.com/cloud-operating-model)
   * HashiCorp에서 클라우드 인프라를 운영하는 모델을 정리한 백서 공개
   * 물론 회사에서 공개한 내용이니 상당 부분은 이러한 운영 모델을 HashiCorp의 제품으로 어떻게 구축하는지에 대한 내용
@@ -6776,6 +6778,9 @@ Programming
   * 11월 4일 04시 25분(UTC) 완전히 복구
 * [결제는 계속된다: 결제 담당자가 장애에 대응하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15236/)
 * [29CM 의 이굿위크 장애대응 기록. 이굿위크란? | by Greg Lee | Jan, 2024 | Medium](https://medium.com/@greg.shiny82/29cm-%EC%9D%98-%EC%9D%B4%EA%B5%BF%EC%9C%84%ED%81%AC-%EC%9E%A5%EC%95%A0%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-177b6b2f07a0)
+* [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/#more-100)
+  * ["The Downtime Project"라는 팟캐스트에서는 GitHub, Slack, Salesforce 등 10개 이상의 서비스 장애 보고서를 분석하여 도출된 5가지 주요 교훈](https://www.linkedin.com/posts/danielylee_%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EA%B2%80-%EB%B3%B4%EA%B3%A0%EB%8A%94-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-activity-7164679513895895040-vmtf/)
+    * 1. 순환 의존성의 덫 2. 자동화의 배신 3. 항상 디비가 문제 4. 배포는 조금씩 천천히 5. 장애 대응 플레이북
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
