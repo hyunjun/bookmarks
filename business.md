@@ -2644,6 +2644,7 @@ Business
 * [스타트업 서바이벌 가이드 ③ 위기 탈출을 위해 가장 먼저 해야할 것 : 비즈니스 매뉴얼｜미매뉴얼](https://www.memanual.co.kr/bmanual/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14294003)
 * [스타트업 재무관리](https://www.canda.blog/startup-treasury-101/)
 * [초기 스타트업의 실패 경험 - 재무 관리의 중요성](https://www.linkedin.com/posts/activity-7054907210165825536-JtP4/)
+* [practice - J커브를 위한 스타트업 재무 가이드북](https://www.notion.so/1003/Startup-fbf4d7d33d3c4302b7efc7476f2c04f0?pvs=4#45dd532913d145f592d88e39a6f8c7f5)
 * [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
 * [스타트업은 곧 성장이다 (한글 번역) | St.. : 네이버블로그](https://blog.naver.com/bizucafe/223071093436)
 * [스타트업을 하며 겪는 19가지 공통점 (한글 .. : 네이버블로그](https://blog.naver.com/bizucafe/223079236552)
