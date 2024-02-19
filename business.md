@@ -157,6 +157,8 @@ Business
 * [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
+* [이승훈 - 스타트업에서 성과를 내기 위한 요건](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EB%82%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7154036726452097024-SrTF/)
+  * 1) 업에 대한 이해 (유저의 행동에 대한 이해) 2) 회사/맥락에 대한 이해 3) 사람에 대한 이해
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
