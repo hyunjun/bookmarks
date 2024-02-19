@@ -678,6 +678,7 @@ Interview
 # Book
 * [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
+* [practice - 코딩 테스트 노트](https://www.notion.so/1003/Interview-31a1ba56929c4ca8a13d63fee260c970?pvs=4#c27651faff3b4710b645dde7a5facf13)
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
 * [8 Best System Design and Software Design Books for Programmers | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/8-best-system-design-and-software-design-books-for-programmers-be54cb313106)
 * [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
