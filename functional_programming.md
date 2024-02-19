@@ -176,6 +176,7 @@ Functional Programming
 * [번역 프로그래머를 위한 카테고리 이론 - 3. 다양한 카테고리들 | Evans Library](https://evan-moon.github.io/2024/02/13/category-theory-for-programmers-3-categories-great-and-small/)
 
 # Conference
+* [practice - 함수형 프로그래밍 언어(클로저, 스칼라, 하스켈) 실무 적용 어드벤처](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#aaed3c491ff443acb8efbca6f509c55c)
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
 * [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
 * ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman - YouTube](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
