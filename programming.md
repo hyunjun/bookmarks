@@ -2031,6 +2031,7 @@ Programming
 * [Event Modeling Part 1 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=7sfJQ9doETQ)
 * [Event Modeling Part 2 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
 * [Event Modeling • Adam Dymitruk • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=cVyVmcwiPWw)
+* [Event Modeling from Beginner to Expert • Adam Dymitruk • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Pin_B-AbdXE)
 * [The Road To Event-Driven Architecture At LEGO.com • Sheen Brisals • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_g6DA9WM7RE)
 * [Advanced Event-driven Architectures at the LEGO Group • Sarah Hamilton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=6_Yzybhmj-8)
 * [Best Practices to Design & Build Event-driven Applications • Marcia Villalba • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=bC51iRtXlRw)
@@ -2732,6 +2733,7 @@ Programming
 * [Serverless: Five Key Things you need to Know • Gojko Adzic • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 * [Dancing with Serverless • Peter Sbarski • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GaeBGRbB0eE)
 * [서버리스 아키텍처: 웹 개발의 패러다임 전환 | AppMaster](https://appmaster.io/ko/blog/seobeoriseu-akitegceo-web-gaebal)
+* [The Rise of the Serverless Data Architectures - YouTube](https://www.youtube.com/watch?v=QVQPhOHBWBk) Serverless DB, FaaS, ...
 * [Honeycomb: How We Used Serverless to Speed up Our Servers - YouTube](https://www.youtube.com/watch?v=tpoeJiXTVU0)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
@@ -6625,6 +6627,8 @@ Programming
   * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
 * TestCafe [Cross-Browser End-to-End Testing Framework | TestСafe](https://testcafe.io/)
 * Testim [Automated UI and Functional Testing - AI-Powered Stability - Testim.io](https://www.testim.io/)
+* TestProject [Free Test Automation For All | TestProject](https://testproject.io/)
+  * [TestProject로 UI 테스트 자동화 빠르게 시작하기 / 여기어때 기술블로그 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/testproject%EB%A1%9C-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-c63a52e25b25)
 
 ## TDD, Test, BDD
 * [Introducing BDD - Dan North & Associates Ltd](https://dannorth.net/introducing-bdd/)
