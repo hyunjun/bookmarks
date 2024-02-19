@@ -426,6 +426,7 @@ Apache
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
+* [practice - lag event 발생](https://www.notion.so/1003/Kafka-b847e702f6484f439f5f6729b135ec24?pvs=4#f5f429205b1647bab8d082a95fcda169)
 * [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
 * [Understanding Kafka with Factorio | by Ruurtjan Pul | Medium](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
