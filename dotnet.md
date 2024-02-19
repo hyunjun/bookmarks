@@ -118,6 +118,7 @@
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
 
 # Conference Meetup
+* [practice - .net으로도 SPA를 개발할 수 있어요 Blazor에 대한 소개](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#4263bf2539814afc9f1c6e90a567c430)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
 * [.NET Conf 2023 x Seoul](https://www.dotnetconf.kr/2023)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
