@@ -1481,6 +1481,7 @@ Docker
 * [Get to Know a Kubernetes Operator!](https://spring.io/blog/2021/11/19/get-to-know-a-kubernetes-operator)
 * [Kubernetes Operators: what are they? Some examples | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/15/kubernetes-operators-what-are-they-some-examples/)
 * [쿠버네티스 오퍼레이터 적용하기](https://dev.gmarket.com/65)
+* [쿠버네티스 오퍼레이터를 Golang으로 개발해보기](https://ebay-korea.tistory.com/102)
 * [Distroless Container Debugging on K8s/OpenShift | by Zhimin Wen | ITNEXT](https://itnext.io/distroless-container-debugging-on-k8s-openshift-e418fd66fdad)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [네트워크 엔지니어에게 쿠버네티스는 어떤 의미일까요](https://www.slideshare.net/JoHoon1/ss-250737544)
