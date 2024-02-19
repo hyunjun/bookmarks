@@ -60,6 +60,8 @@ Business
 * [Developers are burned out, quitting their jobs and creating a crisis for recruiters  - WorkLife](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [끝없는 애자일·디지털 변혁 등에 지쳤다면... '번아웃' 대처법 5가지 - CIO Korea](https://www.ciokorea.com/news/251392)
+* [Managing and Overcoming Burnout (feat. Mannerism, Slump) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out-en/)
+  * [번아웃을 통제하고 이겨내는 방법(feat. 매너리즘, 슬럼프) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out/)
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
