@@ -3029,6 +3029,7 @@ Programming
     * 운영을 소프트웨어 문제로 취급하도록 하고
     * 베스트 프렉티스를 모아서 셀프서비스 기능으로 제공하고
     * 동적 환경을 지원하는 워크플로우를 만들 수 있도록 변화가 필요하다고 이야기
+  * [practice - Enabling a Cloud Operating Model](https://www.notion.so/1003/Cloud-a4302c6e39144574b224ab42a95dc425?pvs=4#5e7cb1fe0f834cdca3c811d43f54a3ec)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
