@@ -599,6 +599,7 @@ AWS
 * [Amazon QuickSight Q – 자동화된 데이터 준비 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-announcing-automated-data-preparation-for-amazon-quicksight-q/)
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style/) QuickSight
 * [Amazon Q in QuickSight – 생성형 BI 기능을 이용한 쉬운 데이터 통찰력 제공 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
+* [지니뮤직의 다중 계정 관리 방안과 통합 데이터 관리 및 시각화 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/geniemusic-integrated-multi-account-security-audit-compliance/) quicksight
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
@@ -2123,6 +2124,8 @@ AWS
 * [Amazon MSK, Kafka 토픽을 Kinesis Data Firehose를 통해 Amazon S3로 전송 가능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 * [Amazon MSK를 활용한 데이터베이스 간 CDC 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-database-cdc-using-amazon-msk/)
 * [IAM을 활용하여 Amazon MSK 주제 접근 제어하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-msk-topic-iam-access-control/)
+* [AWS MSK PART1 — MSK 도입 여정. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part1-msk-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b000cbea5c02)
+* [AWS MSK PART2 — MSK 클러스터를 구축해볼까요? | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part2-msk-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-8722c79d9041)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
