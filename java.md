@@ -1750,7 +1750,6 @@ Java
 * [JPA 트랜잭션 내에서 엔티티를 변경할 때 마다 flush 해야하나요?](https://velog.io/@joosing/JPA-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C-%EB%A7%88%EB%8B%A4-flush-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94) dirty checking
 * [도메인 모듈 분리 시 Transaction + JPA 활용 방안 - YouTube](https://www.youtube.com/watch?v=18C2A56ialY)
 * [Native SQL로 데이터를 조회할 때 Enum 타입의 필터조건이 제대로 작동하지 않는 이슈](https://kim-jong-hyun.tistory.com/152) JPA
-* [SpringDoc 우리 enum이 달라졌어요](https://yeonyeon.tistory.com/323)
 * [JPA @Where 무시하기](https://yeonyeon.tistory.com/314)
 * [JPA에서의 Lock 이해하기 - Google Slides](https://docs.google.com/presentation/d/1615xq5LSv328WWNvfnoaBiYPISI3zW7PhsxDN0JO-YM/edit#slide=id.p)
 * [굴러가는 자동차에 안전하게 타이어 교체하기(w. CMS 기능 개발) | 우아한형제들 기술블로그](https://techblog.woowahan.com/14301/)
@@ -1996,7 +1995,9 @@ Java
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
 * SpringDoc [OpenAPI 3 Library for spring-boot](https://springdoc.org/)
+  * [SpringDoc 우리 enum이 달라졌어요](https://yeonyeon.tistory.com/323)
   * [SpringFox -> SpringDoc 마이그레이션 일지](https://yeonyeon.tistory.com/322)
+  * [쿼리 파라미터가 이상하다?](https://yeonyeon.tistory.com/324)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
   * [native](https://okdevtv.com/mib/spring/native)
