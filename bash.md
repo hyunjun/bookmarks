@@ -154,6 +154,7 @@ Shell
 * [Hush - a unix shell based on the Lua programming language](https://github.com/hush-shell/hush)
   * [Foreword - Hush](https://hush-shell.github.io/)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
+* [NuShell - An Introduction - YouTube](https://www.youtube.com/watch?v=qCtgtex7XMg)
 * [Oil](http://www.oilshell.org/)
   * [Oil - 새로운 Unix 쉘 | GeekNews](https://news.hada.io/topic?id=5408)
 * [only-stackoverflow: 구글, 덕덕고 검색에서 stackoverflow 짝퉁 사이트 숨기기 (Adblock, adguard, uBlock Origin, etc...)](https://github.com/RyuaNerin/only-stackoverflow)
