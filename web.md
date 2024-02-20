@@ -99,6 +99,7 @@ Web
     * JavaScript로 스크롤을 감지해서 폰트를 바꾸도록 해서 해결하고
     * 첫 뷰포트에 보이는 부분의 글자만 탐지해서 서브 셋을 만들도록 자동화
 * [개발자에게 웹 폰트 최적화가 중요한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/2107/)
+* [웹폰트 살짝 수정하기 메모 – 형우의 웹개발](https://mytory.net/archives/16071)
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [요즘 '모던' 프론트엔드 개발하려면 알아야할 것들 - YouTube](https://www.youtube.com/watch?v=ZM55pce2AkY)
@@ -1709,6 +1710,8 @@ Web
 * [REST API Mistakes Every Junior Developer should Avoid | clean-code - YouTube](https://www.youtube.com/watch?v=JxeTegu4dD8)
 * [REST test test...](https://resttesttest.com/)
 * [10 REST API BEST PRACTICES. 1. Use descriptive and meaningful… | by Abhishek Singh | Javarevisited | Medium](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)
+* [REST API Design Best Practices. “Application Programming Interface,” or… | by Dr Milan Milanović | Dec, 2023 | Medium](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
+  * [올바른 REST API 디자인 사례 : API 설계 가... | 커리어리](https://careerly.co.kr/comments/99294)
 
 ## Restful Javascript
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
