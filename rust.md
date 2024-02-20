@@ -337,6 +337,8 @@
   * [Polars: The Next Big Python Data Science Library... written in RUST? - YouTube](https://www.youtube.com/watch?v=VHqn7ufiilE)
 * [posh: Type-Safe Graphics Programming with Functional Shaders](https://github.com/leod/posh)
   * [Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog](https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html?)
+* [Ratatui | Ratatui](https://ratatui.rs/)
+  * [Introducing Ratatui: A Rust library to cook up terminal user interfaces - FOSDEM 2024 - YouTube](https://www.youtube.com/watch?v=NU0q6NOLJ20)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
