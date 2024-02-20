@@ -569,6 +569,7 @@ Vision
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
 * [nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
+* [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
