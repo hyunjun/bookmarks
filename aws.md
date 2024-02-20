@@ -371,6 +371,8 @@ AWS
   * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
 * [AWS re:Post Private을 사용하여 협업을 강화하고 클라우드 관련 지식을 안전하게 공유 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/)
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
+* [OpenZFS로 성능과 비용, 두 마리 토끼 잡기](https://toss.tech/article/engineering-note-8)
+* [OpenZFS로 성능과 비용, 두 마리 토끼 잡기](https://velog.io/@tosspayments/OpenZFS%EB%A1%9C-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EB%B9%84%EC%9A%A9-%EB%91%90-%EB%A7%88%EB%A6%AC-%ED%86%A0%EB%81%BC-%EC%9E%A1%EA%B8%B0)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [AWS Systems manager와 Amazon Inspector로 Amazon EC2 자산 관리 자동화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-systems-manager-amazon-inspector-amazon-ec2-automation/)
 * [Amazon Inspector agentless vulnerability assessments for Amazon EC2 now in preview](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/)
@@ -2050,6 +2052,7 @@ AWS
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 * [Multi-RAG와 Multi-Region LLM로 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/multi-rag-and-multi-region-llm-for-chatbot/)
+* [한국어 Reranker를 활용한 검색 증강 생성(RAG) 성능 올리기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-reranker-rag/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
 * [Falcon 180B foundation model from TII is now available via Amazon SageMaker JumpStart | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/falcon-180b-foundation-model-from-tii-is-now-available-via-amazon-sagemaker-jumpstart/)
 * [폐쇄 환경에서 Amazon Sagemaker노트북 인스턴스를 이용하는 경우의 데이터 보호에 관한 Tips | by MZC_Global | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/%ED%8F%90%EC%87%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-amazon-sagemaker%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8%EC%97%90-%EA%B4%80%ED%95%9C-tips-d2fdce844906)
