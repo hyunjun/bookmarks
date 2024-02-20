@@ -1136,6 +1136,7 @@ Programming Books
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
 * [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
   * 탐라 문005.7-이73ㄷ
+  * [TalkIT - AI시대 데이터 과학자는? "데이터 과학자 원칙" 저자들과의 토크 | Pega Devlog](https://jehyunlee.github.io/2024/02/20/General-42-talkit_ds/)
 * (NOT YET) 비즈니스를 위한 데이터 과학
   * 탐라 개005.7-프295ㄷ
 * (NOT YET) 데이터로 말하라 : 냉철한 판단과 완벽한 설득의 기술
