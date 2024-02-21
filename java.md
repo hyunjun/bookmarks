@@ -1987,6 +1987,7 @@ Java
 * [Making your @Beans Intelligent By Mark Pollack - YouTube](https://www.youtube.com/watch?v=7OY9fKVxAFQ)
 * [Difference between Spring Framework, Spring Boot, and Spring Cloud? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/difference-between-spring-framework-spring-boot-and-spring-cloud-cf3692312d77)
 * [쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만났네 - 넷마블 기술 블로그](https://netmarble.engineering/spring-boot-3-0-native-image-on-kubernetes/)
+* [실행 시간 효율을 위한 클래스 데이터 공유(CDS)와 Layered Jar - 넷마블 기술 블로그](https://netmarble.engineering/class-data-sharing-cds-and-layered-jar/)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
