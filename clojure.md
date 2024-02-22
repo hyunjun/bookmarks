@@ -454,6 +454,7 @@ Clojure
 * [Private Methods in Clojure - YouTube](https://www.youtube.com/watch?v=7YB_S8j6IYI)
 * [Private constants & breaking private functions in Clojure - YouTube](https://www.youtube.com/watch?v=kzAOEqlbapM)
 * [Clojure for Node Developers: File System](https://blog.tvaisanen.com/clojure-for-node-developers-file-system)
+* [A Clojure Pattern: Fallback for Numeric Values | LinkedIn](https://www.linkedin.com/pulse/clojure-pattern-fallback-numeric-values-evgheni-kondratenko-fhcxf%3FtrackingId=l9FvD%252F%252FkcEd5zADtiazi4g%253D%253D/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
