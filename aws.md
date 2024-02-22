@@ -813,6 +813,7 @@ AWS
   * [AWS Community Day 2023 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMrFZaU4i2y4RqylcuvfVLA)
   * [AWS Community Day 2022 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
+* [AWS Innovate AI/ML 2024.02.22](https://www.notion.so/1003/Conference-439c48d3dfbc4457957a0d1f23ac7dda?pvs=4#eb14ac99af684921997c4e831e6d26e7)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [The Frugal Architect](https://thefrugalarchitect.com/)
