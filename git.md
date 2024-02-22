@@ -454,6 +454,7 @@ Git
 * [github actions를 이용하여 PR 발생 시 테스트코드 구동](https://blog.naver.com/pjt3591oo/223192966275)
 * [Github Actions Reusable로 프론트엔드 배포 플로우 통합하기 | by Yeonbeen Park | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/github-actions-reusable%EB%A1%9C-%EB%B0%B0%ED%8F%AC-%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0-15baa2a03de9)
 * [GitHub Actions로 개선하는 코드 리뷰 문화](https://toss.tech/article/25431)
+* [20.깃허브 액션을 이용한 CI 시스템 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-02-22-jennifer-kubernetes-20/)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
