@@ -272,6 +272,7 @@
   * [Rust AI - Burn DL Framework - YouTube](https://www.youtube.com/watch?v=pem68BWRXQo)
 * [candle: Minimalist ML framework for Rust](https://github.com/huggingface/candle)
   * [Rust AI - Candle in Huggingface - YouTube](https://www.youtube.com/watch?v=2ID9qLjpaQE)
+* [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [cxx: Safe interop between Rust and C++](https://github.com/dtolnay/cxx)
