@@ -3502,6 +3502,7 @@ Python
   * [**Rich is a Python library for rich text and beautiful formatting in the terminal**](https://github.com/Textualize/rich)
     * [rich/README.kr.md at master · Textualize/rich](https://github.com/Textualize/rich/blob/master/README.kr.md)
     * [Make Your Python CLI Tools Pop With Rich | Hackaday](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+    * [Improving Python Console Output With Rich - YouTube](https://www.youtube.com/watch?v=NIyljVEcJKw)
     * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
