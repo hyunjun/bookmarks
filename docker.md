@@ -79,6 +79,7 @@ Docker
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
 * [virtual machines image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116324#gistcomment-4116324)
+* [**가상 머신의 성능을 높이는 것도 지구 온난화에 도움이 될까요?**](https://techblog.lycorp.co.jp/ko/increase-vm-performance-to-reduce-global-warming)
 * [why containers? image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116325#gistcomment-4116325)
 * [container networking image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116326#gistcomment-4116326)
 * [containers vs VMs image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116330#gistcomment-4116330)
