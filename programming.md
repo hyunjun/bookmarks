@@ -1234,6 +1234,7 @@ Programming
 * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=5oTlFJ0llNw)
 * [How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix](https://netflixtechblog.com/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c)
 * [Securing Netflix Studios At Scale Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479)
+* [Managing 238M Memberships at Netflix - YouTube](https://www.youtube.com/watch?v=fCQKek_J3lQ)
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
