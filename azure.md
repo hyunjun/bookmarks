@@ -188,6 +188,7 @@ Azure
 * [Azure AI Studio - Part 3 (prompt flow)](https://zigispace.net/1246)
 * [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 * [Azure의 Windows Server VM에 중첩 가상화 활성화 필수 조건](https://www.dokyun.pe.kr/337)
+* [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
