@@ -522,6 +522,7 @@ Java
 * [점프 투 스프링부트 - WikiDocs](https://wikidocs.net/book/7601)
 * [Java 프로그래밍 기초 - Google Docs](https://docs.google.com/document/d/1462hsmohZ1BF7QFzubqGFE9T_tC8-zvlTWW5VkvYSDU/view#)
 * [Top 20 Books Java Programmers Can Read](https://javarevisited.blogspot.com/2017/12/top-20-java-books-of-2017-which-you-can-read-in-2018.html)
+* [Cloud Native Spring in Action • Thomas Vitale & Josh Long • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=dz6RwoAzccM)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
