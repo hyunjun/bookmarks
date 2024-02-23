@@ -980,6 +980,7 @@ Docker
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Getting Started With Kubernetes In 2 Days - DZone Cloud](https://dzone.com/articles/getting-started-with-kubernetes-in-2-days)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [What is Kubernetes?](https://www.linkedin.com/posts/aurimas-griciunas_machinelearning-dataengineering-llmops-activity-7165285956827181056-2oJa/)
 * [Intro to Kubernetes - Containers at Scale Containerized Adventures](https://kaslin.rocks/intro-to-kubernetes-containers-at-scale/)
 * ['쿠버네티스 교육' 카테고리의 글 목록 — 60살까지 엔지니어를 목표로 느리게 생각합니다.](https://jerryljh.tistory.com/category/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EA%B5%90%EC%9C%A1)
 * [쿠알못을 위한 Kubernetes 이야기 (1) - YouTube](https://www.youtube.com/watch?v=Iht-Y2iic-I)
