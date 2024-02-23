@@ -1493,6 +1493,7 @@ Programming
   * [스프링캠프 2019 Track 2 Session 5 : 멀티리전 가용성을 위한 글로벌 캐싱 - Hidden micro services (정윤진, 김필중) - YouTube](https://www.youtube.com/watch?v=lg_qK3zZE4g)
   * [Caching 101: The Must-Know Caching Strategies](https://www.linkedin.com/feed/update/urn:li:activity:7146017623292395521/)
   * [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
+  * [LinkedIn: Oracle Database → Memcached → Expresso NoSQL Database(자체 개발) → Couchbase](https://www.linkedin.com/posts/danielylee_%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%A0-linkedin%EC%97%90%EC%84%9C%EB%8A%94-%EC%95%BD-10%EC%96%B5-%EB%AA%85%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4-activity-7165878143772209152-YLgw/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
