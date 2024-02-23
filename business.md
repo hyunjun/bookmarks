@@ -1759,6 +1759,7 @@ Business
 * [리더십 코드가 맞는 사람만 남겨라](http://moneyman.kr/archives/1088) 맞는 이야기일까?
 * [김성회의 리더의 언어 실어증에 걸린 조직.. 상사가 무서워서가 아니라 우스워서 입 닫는다](https://news.v.daum.net/v/20171107070018521)
 * [김성회의 '3대 소통병법' 리더 여러분, 지시와 코칭 헷갈리지 마세요](https://news.v.daum.net/v/20190107092402146)
+* [최고경영자(CEO)가 반드시 갖춰야 할 능력으로 ‘소통’이 1위](https://www.linkedin.com/posts/annette-meejeong-kim_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84-%EB%8C%80%EC%83%81%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EC%96%B4%EB%8A%90-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%EC%97%90%EC%84%9C-%EC%B5%9C%EA%B3%A0%EA%B2%BD%EC%98%81%EC%9E%90ceo%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%B0%EC%95%BC-activity-7165728850633576448-N65v/)
 * [안타깝지만… 우리 주변에 좋은 리더는 거의 없다 – 체인지그라운드](http://thechangeground.com/archives/23108)
 * [미팅으로 가득한 팀장의 하루](https://brunch.co.kr/@zseo/44)
 * [손에 잡히는 비전과 실행 , 스타트업 리더십은 더 구체적이어야 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10519/ac/search)
