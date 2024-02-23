@@ -390,6 +390,11 @@ Scala
 * [Compare Task Processing Approaches in Scala | Bin Wang - My Personal Blog](https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html)
 * [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://blog.indoorvivants.com/2023-11-24-scala-native-from-swift)
 * [Designing a (yet another) retry API](https://softwaremill.com/designing-a-yet-another-retry-api/)
+* [My team built and productionized a custom rate limiter in Scala - Bilal Fazlani](https://bilal-fazlani.com/blog/my-team-built-and-productionized-a-custom-rate-limiter-in-scala/)
+* [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
+* [Improving my Distributed System with Scala 3: Consistency Guarantees & Background Tasks (Part 2) - Christian Hollinger](https://chollinger.com/blog/2024/02/improving-my-distributed-system-with-scala-3-consistency-guarantees-background-tasks-part-2/)
+* [Our journey begins](https://mhammons.hashnode.dev/our-journey-begins)
+* [Crossing those hills](https://mhammons.hashnode.dev/crossing-those-hills)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1644,6 +1649,8 @@ Scala
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * cs [Single command Scala setup - Alex Archambault](https://alexarchambault.github.io/posts/2020-09-21-cs-setup.html)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
+* [desert: desert: Home](https://blog.vigoo.dev/desert/)
+  * [desert part 1 - features](https://blog.vigoo.dev/posts/desert-1/)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * [ducktape: Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔](https://github.com/arainko/ducktape)
@@ -1681,6 +1688,8 @@ Scala
   * [Using TestControl to Test FS2 Streams | by Farooq Qaiser | Mar, 2022 | Medium](https://medium.com/@fqaiser94/using-testcontrol-to-test-fs2-streams-92cec1fac217)
   * [PubSub with Scala](https://softwaremill.com/pubsub-with-scala/)
   * [Entry 1: fs2, gRPC, Triton Inference Server | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/scala-machine-learning-deployment-entry-1/)
+  * [I/O](https://fs2.io/#/io)
+    * [Optimizing Functional Walks of File Trees](https://github.com/mpilquist/blog-walks/blob/main/README.md)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
@@ -1987,6 +1996,7 @@ Scala
   * [HTTP Authentication with Scala and Http4s - Rock the JVM Blog](https://blog.rockthejvm.com/http4s-authentication-part1/)
   * [OAuth Authentication in Scala with Http4s - YouTube](https://www.youtube.com/watch?v=NZwnZhwVPrs)
   * [Writing A Simple Distributed Pub/Sub Server With The Typelevel Toolkit and Http4s Ember Server | by Seth Lasky | Nov, 2023 | Medium](https://medium.com/@sethlasky/writing-a-pub-sub-server-with-the-typelevel-toolkit-f0ceffd27e7d)
+  * [WebSockets in Http4s - Rock the JVM Blog](https://blog.rockthejvm.com/websockets-in-http4s/)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
@@ -2012,6 +2022,7 @@ Scala
   * [Episode 537: Adam Warski on Scala and Tapir : Software Engineering Radio](https://www.se-radio.net/2022/11/episode-537-adam-warski-on-scala-and-tapir/)
   * [L. Duzan, M. Baechler - When stateless APIs are not enough: deep dive into a reactive backend design - YouTube](https://www.youtube.com/watch?v=pAW5e3aZuk8) kafka conduktor, mapAccum zio
   * [Custom logic from Accept header with Tapir | by Gaël Jourdan-Weil | Oct, 2023 | Medium](https://medium.com/@gaeljw/custom-logic-from-accept-header-with-tapir-80082f1de21d)
+  * [Benchmarking Tapir: Part 1](https://softwaremill.com/benchmarking-tapir-part-1/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2578,6 +2589,7 @@ Scala
 * [Faster Scala.js development with front-end tooling and new tutorials | The Scala Programming Language](https://www.scala-lang.org/blog/2023/04/18/faster-scalajs-development-with-frontend-tooling.html)
 * [Scala.js Interoperability with TypeScript/JavaScript | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=QYIEa_mniCs)
 * [Ryan Peters - Writing a Database in Scala.js | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=5P8z0flAXsI)
+* [Game development in Scala.js with David Smith - YouTube](https://www.youtube.com/watch?v=abykT3aDI58)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
