@@ -4735,6 +4735,7 @@ Programming
   * [To queue or not to queue, that is the question. by Lovisa Johansson - YouTube](https://www.youtube.com/watch?v=GtoJDiDdDvA)
   * [🐰 RabbitMQ + Postman으로 Message Queue 테스트하기 - YouTube](https://www.youtube.com/watch?v=z6uqgYhMOJk)
     * [edm-example: Event-Driven Data Management for Microservices](https://github.com/kenu/edm-example)
+  * [RabbitMQ 1편 AMQP 이해하기](https://blog.naver.com/pjt3591oo/223363564670)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
