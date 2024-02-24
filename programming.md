@@ -1786,6 +1786,7 @@ Programming
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
 * [InfoQ Software Architecture & Design Trends 2023 - YouTube](https://www.youtube.com/watch?v=CKpxd3FBnqo)
+* [Petros Syntelis - Modelling of agent-customer pairing outcomes to optimise call centre performance - YouTube](https://www.youtube.com/watch?v=uZy5OTDAHgk)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
