@@ -344,6 +344,7 @@ Network
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
 * IPVoid [IP Address Tools, Network Tools, DNS Tools | IPVoid](https://www.ipvoid.com/)
 * [libp2p](https://libp2p.io/)
+  * [libp2p: A modular and extensible networking stack which solves many challenges of peer-to-peer applications](https://github.com/libp2p/libp2p)
   * [W3C 2018 참관기](http://mobicon.tistory.com/561)
   * [Decentralized programming with libp2p - DEV Community](https://dev.to/codecowboydotio/decentralized-programming-with-libp2p-2klf)
 * [lldap: Light LDAP implementation](https://github.com/nitnelave/lldap)
