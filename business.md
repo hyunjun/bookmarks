@@ -730,6 +730,7 @@ Business
 * [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=Eie_kxwzyfQ) 조직 확장, 확대, 성장에 대한 이야기
 * [VDIASI23 - Adrian Miron - Unlocking Your Team Potential: Discovering Your Unique Role for Success - YouTube](https://www.youtube.com/watch?v=dHiya7Yi0I0)
 * [팀장 1명 당 팀원 몇 명을 관리하는 것이 가장 효율적일까? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5-1%EB%AA%85-%EB%8B%B9-%ED%8C%80%EC%9B%90-%EB%AA%87-%EB%AA%85%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-7d06dddbbf36)
+* [맥킨지 The state of organizations (2023)](https://www.linkedin.com/posts/hrheejinpark_%EB%A7%A5%ED%82%A8%EC%A7%80-the-state-of-organizations-2023-ugcPost-7157574769876340736-EQL5)
 * [Skills-based organizations | Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/talent/organizational-skill-based-hiring.html?ref=blog.comento.kr)
   * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
 
@@ -744,6 +745,7 @@ Business
   * [리멤버 커뮤니티 이야기 당연한 걸 반복해야 문화가 바뀐다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/06/17/organizational-culture/)
 * ['지가 뭔데 우릴 가르쳐?'](https://www.linkedin.com/posts/elfpenguin_%EC%A7%80%EA%B0%80-%EB%AD%94%EB%8D%B0-%EC%9A%B0%EB%A6%B4-%EA%B0%80%EB%A5%B4%EC%B3%90-1-%EC%A0%9C%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%94%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B3%A0%EC%84%9C-activity-7012419055450042369-RVuA/)
 * [세콰이어 캐피탈 회장 마이클 모리츠, 변화와 흐름에 대한 통찰 (Michael Moritz - Managing Partner, Sequoia Capital) - YouTube](https://www.youtube.com/watch?v=OwkaChNCVWE)
+* [How to Bake a Change • Daniel Terhorst-North • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wO8M6M39vZk)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -1851,6 +1853,7 @@ Business
   * 최근 내가 겪은 일을 생각해보면 기록을 하는 게 더 중요한 듯 싶다
   * 기억을 제대로 하면 좋지만, 이런 사례가 흔하지는 않을테니 기록하고 제대로 찾아만 봐도 굉장히 수준이 높은 경우이다
   * 최악은 기록도 하지 않고 기억을 자기 하고 싶은대로 하면서 그걸로 사람을 평가하는 경우
+* [최악의 직장상사 유형은? / 나쁜 리더가 따로 있는게 아니에요 / 리더의 태도 문성후 대표 - YouTube](https://www.youtube.com/watch?v=bCvylYCFeF4)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2672,6 +2675,7 @@ Business
 * ['장사천재 백사장'은 모든 스타트업이 꼭 봐야.. : 네이버블로그](https://blog.naver.com/madaboutit/223263393249) 본질, 고객
 * [한국 스타트업은 왜 같은 실수를 반복하는가 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/moebius20240116)
 * [2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술 · 테오 블로그](https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/) 기술 및 여러가지 이야기가 함께 있지만 핵심은 창업이란 생각에 여기에 위치
+* [스타트업 창업자의 고백 - PADO](https://www.pado.kr/article/2023111711238850650)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
