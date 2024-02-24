@@ -437,6 +437,7 @@ Book
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
+  * [마키아벨리의 《군주론》 제대로 읽기 - YouTube](https://www.youtube.com/watch?v=xw0p0uDqCn4)
 * (NOT YET) [마키아벨리 : 르네상스 피렌체가 낳은 이단아](https://japan114.tistory.com/11323)
   * 한라 340.99-김14ㅁ
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
