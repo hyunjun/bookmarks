@@ -1303,7 +1303,8 @@ Programming
 * [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
-* [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+* [**Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech**](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+  * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
   * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
@@ -2008,6 +2009,7 @@ Programming
 * [값 객체(Value Object)를 활용하여 변경 용이성 개선하기 | by 설연수 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%EA%B0%92-%EA%B0%9D%EC%B2%B4-value-object-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B3%80%EA%B2%BD-%EC%9A%A9%EC%9D%B4%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-7457787b84c0)
 * [PyCon KR 2023 Python Domain Driven Desgin 신동현 - YouTube](https://www.youtube.com/watch?v=XJAHwmRKhJA)
 * [Art of Domain Modeling - Eric Normand - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=KmIRWeJDzn8)
+* [Domain-Driven Design Made Me Realize Something About AI Tools - YouTube](https://www.youtube.com/watch?v=HM8jWW1tnqY)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -2844,6 +2846,7 @@ Programming
 * [software-architecture-books: A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
 * [Software Design for Flexibility | The MIT Press](https://mitpress.mit.edu/books/software-design-flexibility)
 * [Software Engineering Course (SWEBOK) | IEEE Computer Society](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+* [Software Requirements Essentials](https://softwarereqs.com/)
 * [Unix-Text-Processing: Recreated sources for the book "UNIX Text Processing," published in 1987.](https://github.com/larrykollar/Unix-Text-Processing)
 * [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
 * [Working Effectively with Legacy Code • Michael Feathers & Christian Clausen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=P_6eDL1aqtA)
@@ -5758,6 +5761,7 @@ Programming
 * [리팩터링에 대한 단상](https://huns.me/posts/2020-05-06-36)
 * [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
 * [Code Smells 비유와 기술 부채](https://brunch.co.kr/@graypool/1042)
+* [Laszlo Sragner - Code Smells in Data Science: What can we do about them? | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=QJ4Z9KpdjIo)
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
 * [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
