@@ -866,6 +866,8 @@ Vision
 * [Lego-generator](https://github.com/uvipen/Lego-generator)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
 * MediaPipe -> [machine learning](machine_learning.md)
+* [mmaction2: OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark](https://github.com/open-mmlab/mmaction2)
+  * [Habeeb Shopeju - Martial Arts Meets Machine Learning: Recognizing Judo Throws with MMAction2 - YouTube](https://www.youtube.com/watch?v=XwSWFIjtvdc)
 * [mmtracking: OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework](https://github.com/open-mmlab/mmtracking)
 * [norfair: Lightweight Python library for adding real-time 2D object tracking to any detector](https://github.com/tryolabs/norfair)
 * [object_detector_app: Real-Time Object Recognition App with Tensorflow and OpenCV](https://github.com/datitran/object_detector_app)
