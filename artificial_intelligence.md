@@ -7,6 +7,18 @@ Artificial Intelligence
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 * [github.com/kjw0612](https://github.com/kjw0612/)
 * [awesome-aiml-blog: These are excerpts from various blog posts related to AI & ML that deal with important research and business cases](https://github.com/youngmki/awesome-aiml-blog)
+* [The New Business of AI vs Traditional Software | Future](https://future.com/new-business-ai-different-traditional-software/)
+  * 안데슨 호로위츠가 운영하는 미디어 퓨쳐의 AI비즈니스는 기존 SW 사업과 어떻게 다른가에 대한 글
+  * AI 비즈니스는 분명 기존 SW 사업과 다르며, 지속적으로 사람이 투입되어야 하고 상당한 변동 비용이 포함된다
+  * 강력한 방어 가능성도 담보되지 않음
+  * 모델 복잡성을 제거하고, 도메인을 신중하게 선택하며, 테크 스택에 미래 변화를 미리 품을 수 있도록 계획하라는 내용 등의 조언
+* [230208_AI_from_the_business_perspective_chester_v0.8.pdf - Google Drive](https://drive.google.com/file/d/1WDnhRmIeRngGgFs3PrO1_t0IIVQEb_gx/view)
+  * 많은 스타트업 창업과 투자를 했던 노정석 대표가 비즈니스 관점으로 AI를 어떻게 봐야 하는지 AI 시장의 상황과 예측을 정리
+  * LLM은 기본적으로 Computation Infra 싸움
+    * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
+    * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
+  * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
+* [납품업체 75%, ‘사람보다 AI와 협상하는 게 속 편하다’ - YouTube](https://www.youtube.com/watch?v=aC_59ueNMoI)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
@@ -34,11 +46,6 @@ Artificial Intelligence
 * [설명 가능한 인공지능(XAI)과 UX. 스켈터랩스 디자인 팀은 인공지능에 대해 다양한 방면으로의 연구를 하고… | by Park Minji | Skelter Labs Designer | Jan, 2022 | Medium](https://medium.com/skelterlabs-designer/%EC%84%A4%EB%AA%85-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-xai-%EA%B3%BC-ux-1aa7f17f28af)
 * [머신러닝 모델을 설명할 수 있어야 하는 이유 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/ai-machine-learning/why-you-need-to-explain-machine-learning-models) XAI
 * [인공지능의 오해와 진실…기초·응용분야 집중해야](http://www.itnews.or.kr/?p=18306)
-* [The New Business of AI vs Traditional Software | Future](https://future.com/new-business-ai-different-traditional-software/)
-  * 안데슨 호로위츠가 운영하는 미디어 퓨쳐의 AI비즈니스는 기존 SW 사업과 어떻게 다른가에 대한 글
-  * AI 비즈니스는 분명 기존 SW 사업과 다르며, 지속적으로 사람이 투입되어야 하고 상당한 변동 비용이 포함된다
-  * 강력한 방어 가능성도 담보되지 않음
-  * 모델 복잡성을 제거하고, 도메인을 신중하게 선택하며, 테크 스택에 미래 변화를 미리 품을 수 있도록 계획하라는 내용 등의 조언
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
 * [인공지능 개론 - 인공신경망](http://m.blog.naver.com/makegoodgame/220568250045)
@@ -174,12 +181,6 @@ Artificial Intelligence
 * [SaaS 프로덕트의 성공을 견인하는 Fly-wheel, 그리고 생성형 인공지능 애플리케이션 | by Coxwave | Coxwave 블로그 | Jan, 2023 | Medium](https://medium.com/coxwave%EB%B8%94%EB%A1%9C%EA%B7%B8/saas-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-fly-wheel-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-a40f35a5e40a)
 * [NVIDIA’s New AI: Nature Videos Will Never Be The Same! - YouTube](https://www.youtube.com/watch?v=r2zv3sNsnqo)
 * [AI 반도체 시장에서 클라우드 기업의 역할](https://tech.kakaoenterprise.com/182)
-* [230208_AI_from_the_business_perspective_chester_v0.8.pdf - Google Drive](https://drive.google.com/file/d/1WDnhRmIeRngGgFs3PrO1_t0IIVQEb_gx/view)
-  * 많은 스타트업 창업과 투자를 했던 노정석 대표가 비즈니스 관점으로 AI를 어떻게 봐야 하는지 AI 시장의 상황과 예측을 정리
-  * LLM은 기본적으로 Computation Infra 싸움
-    * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
-    * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
-  * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
 * [인공지능을 ‘구닥다리’ 아키텍처에 두는 건 심한 돈 낭비다](https://www.boannews.com/media/view.asp?idx=115506)
 * [AI 검색엔진을 신뢰하면 안 되는 이유 - MIT Technology Review](https://www.technologyreview.kr/why-you-shouldnt-trust-ai-search-engines/)
 * [AI 2022 : The Explosion (.. : 네이버블로그](https://blog.naver.com/bizucafe/223077504876)
