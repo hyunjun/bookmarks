@@ -390,6 +390,7 @@
     * [Learning Rust! 🦀 Axum Hyper Tonic Tower Part 1 - YouTube](https://www.youtube.com/watch?v=9WuiTxm4WaA)
     * [Tokio Axum with David Pedersen - YouTube](https://www.youtube.com/watch?v=nZLimYT4EHs)
 * [tonic: A native gRPC client & server implementation with async/await support](https://github.com/hyperium/tonic)
+  * [Tonic makes gRPC in Rust stupidly simple - YouTube](https://www.youtube.com/watch?v=kerKXChDmsE)
 * [tower: async fn(Request) -> Result<Response, Error>](https://github.com/tower-rs/tower)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [typos: Source code spell checker](https://github.com/crate-ci/typos)
