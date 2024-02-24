@@ -479,8 +479,9 @@ AWS
 * [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
 * [What is Intelligent Search? - YouTube](https://www.youtube.com/watch?v=Xj_d2eX4nTY)
-* [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+* [**Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech**](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
+  * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 * [다중 라이브 스트리밍 채널을 Amazon IVS의 썸네일기반 멀티뷰로 모니터링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-multiple-live-streams-channels-with-thumbnail-based-multiviews-on-aamazon-ivs/)
 * [Amazon IVS를 활용한 볼라의 라이브 커머스 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-live-commerce-using-ivs/)
@@ -833,6 +834,7 @@ AWS
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
   * [AWS re:Invent 2023 - Find, try, configure, and launch SaaS applications in AWS Marketplace (MKT205) - YouTube](https://www.youtube.com/watch?v=nCbSAWKkKwM)
+  * [AWS re:Invent 2023 - Keynote with Dr. Werner Vogels - YouTube](https://www.youtube.com/watch?v=UTRBVPvzt9w)
   * [클라우드 커뮤니티에서 성장하기 :: Channy's Blog](https://channy.creation.net/blog/1812)
   * [AWS re:Invent 2022 참관기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2022-aws-reinvent/)
   * [DBA의 AWS re:Invent 2022 참석 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/16/aws-reinvent.html)
@@ -1951,6 +1953,7 @@ AWS
   * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
   * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
+* [Pedro Tabacof- Deploying Real-Time Machine Learning Models Using Serverless AWS | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=vbJz03riTv0)
 * [SK텔레콤의 AWS Inferentia와 AWS Step Functions를 활용한 기계학습(ML) 파이프라인 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/skt-mlops-using-aws-inferentia-stepfunctions/)
 * [Deploy a machine learning inference data capture solution on AWS Lambda | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/)
 * [AWS Lambda를 이용한 XGBoost 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ml-inference-based-on-xgboost-using-aws-lambda-with-cdk/)
@@ -2557,6 +2560,7 @@ AWS
   * [테라폼의 포크버전 OpenTF가 OpenTofu로 이름을 변경 | GeekNews](https://news.hada.io/topic?id=10975)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
+* [Terraform AWS modules](https://github.com/terraform-aws-modules)
 * [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
 * [terraform-provider-dominos: The Terraform plugin for the Dominos Pizza provider](https://github.com/nat-henderson/terraform-provider-dominos)
 * [terraform-provider-terracurl: A flexible Terraform provider for making API calls](https://github.com/devops-rob/terraform-provider-terracurl)
