@@ -603,6 +603,7 @@ Programming Books
   * [코딩 테스트 합격자 되기 파이썬 편 유튜브 라이브.pptx - Google Slides](https://docs.google.com/presentation/d/181ulSvX7x6NZBxrFuxRwn-uGUc5uX3VG/)
   * [책 vs 책: 코딩 테스트 합격자 되기 vs 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2023/11/vs-vs.html)
   * [코딩 테스트 합격자 되기 - 파이썬 편(~179스택까지) - WikiDocs](https://wikidocs.net/book/13314)
+  * [프로그래머스X골든래빗 코딩테스트 특강.pdf - Google Drive](https://drive.google.com/file/d/1XVqHJlmrQQrOkbCP63kjf1NfC7U8zzti/view)
   * [python-coding-test](https://github.com/to-be-pass/python-coding-test)
 
 # Amazon AWS
