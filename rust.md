@@ -526,6 +526,7 @@
 * [sjkim_rust_programming](https://github.com/jskDr/sjkim_rust_programming)
   * [러스트 코딩 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTCwB3inwikMknhd-RdlmnqA)
   * [superqai.com:5000/rustplay](http://superqai.com:5000/rustplay)
+* [zero-to-production: Code for "Zero To Production In Rust", a book on API development using Rust](https://github.com/LukeMathWalker/zero-to-production)
 
 # Web
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
