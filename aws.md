@@ -45,7 +45,6 @@ AWS
 * [Deploying a 2 node Elasticsearch cluster on ec2 instance](https://blog.knoldus.com/deploying-a-2-node-elasticsearch-cluster-on-ec2-instance/)
 * [꿀벌개발일지 :: AWS: ElasticSearch 사이즈 최적화](https://ohgyun.com/795)
 * [AWS Elasticsearch 10MB 제한 :: Hello Startup](https://hello-startup.tistory.com/7)
-* [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
 * [Veyron에서 Golf까지](http://sebatyler.github.io/2015/11/13/veyron-to-golf.html)
 * [Coming Home: Moving Servers from Tokyo to Seoul](https://medium.com/team-mangoplate/coming-home-moving-servers-from-tokyo-to-seoul-8e706501dd4e)
@@ -1474,7 +1473,6 @@ AWS
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
-* [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
 * [Serverless Framework with AWS Lambda](https://medium.com/@jee0645/serverless-framework-with-aws-lambda-8188bf11d349)
 * [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
@@ -1584,6 +1582,7 @@ AWS
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 * [AWS 서비스를 통하여 다양한 컨텐츠를 빠르게 전송하기 #AWS Summit Online Korea](https://dev.classmethod.jp/articles/summit_korea_rapidly_transfer_content/) Edge, CloudFront, Global Accelerator
+* [Living on the Edge • Erica Pisani • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Gq6eDt13uNU)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
 * [AWS Global Accelerator를 사용해서 애플리케이션 성능 개선하기 - YouTube](https://www.youtube.com/watch?v=1Evp9-GPCoc)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
@@ -1601,6 +1600,7 @@ AWS
 * [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [서버리스 Amazon CloudFront와 AWS Lambda@Edge로 SPA에서 동적 SEO 구현하기 | 김병규, 솔리다리테 - YouTube](https://www.youtube.com/watch?v=lUowbPD4N94)
+* [Reactjs AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 * [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
@@ -1731,6 +1731,8 @@ AWS
 * [How to Build AWS Lambdas with TypeScript | AppSignal Blog](https://blog.appsignal.com/2022/09/21/how-to-build-aws-lambdas-with-typescript)
 * [Nodejs Puppeteer Tutorial #14 - AWS Lambda Deployment - YouTube](https://www.youtube.com/watch?v=ch6qKgkYbgM)
 * [AWS Lambda Nodejs 16.x 지원종료, 18.x 버전업 대응 요약(feat.s3) :: Jay's Code Factory](https://jay-ji.tistory.com/119)
+* [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
+  * [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
 
 ## Lambda Kotlin
 * [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
@@ -1770,7 +1772,6 @@ AWS
 
 # Library
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
-* [Reactjs AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 * [**Python utilities for AWS related tasks**](https://pythonawesome.com/python-utilities-for-aws-related-tasks/)
 * [aws-api: AWS, data driven](https://github.com/cognitect-labs/aws-api)
 * [aws API Changes](https://awsapichanges.info)
