@@ -5281,6 +5281,7 @@ Javascript
     * 중첩된 레이아웃을 구축 가능, 로딩 상태 유연하게 표시 가능
     * 실시간 업데이트를 위해 클라이언트에서 데이터 불러오는 코드 중복 작성 필요, 서버 측 오류가 쉽게 삼켜져서 추적에 어려움 발생
     * 지금은 해결되었지만 개발하면서 버그가 너무 많아 고생, 개발 서버의 성능이 너무 안 좋아 성숙도에 비해 너무 빨리 마케팅이 되었다고 함
+  * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
