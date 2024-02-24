@@ -4566,6 +4566,7 @@ Python
     myteam.common==0.0.1
     ...
     ```
+  * [requirements.txt 사용방법](https://webnautes.tistory.com/2278)
   * [Install Python modules with Pip behind a proxy](https://www.internalpointers.com/post/install-python-modules-pip-behind-proxy)
   * [나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
     * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
