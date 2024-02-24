@@ -1258,6 +1258,7 @@ Machine Learning
   * [Combining Machine Learning and MLflow with your Lakehouse. Data Brew | Episode 5 - YouTube](https://www.youtube.com/watch?v=FI-CzbPnW7I)
   * [mlflow를 활용한 pipeline 시스템 구축](https://blog.naver.com/pjt3591oo/222298197217)
   * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
+  * [Theodore Meynard - MLflow workshop | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=n-QDuILXR60)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
@@ -1517,6 +1518,8 @@ Machine Learning
 * [JIm Dowling - Build a production ML system with only Python on free serverless services - YouTube](https://www.youtube.com/watch?v=dgBFShBuV4k)
 * [Scaling Python for Machine Learning: Beyond Data Parallelism • Holden Karau • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=IX3300umebg)
 * [쿠팡의 머신러닝 플랫폼을 통한 ML 개발 가속화. 쿠팡의 머신러닝 개발 속도를 높이는 쿠팡만의 ML 플랫폼에 대하여 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Nov, 2023 | Medium](https://medium.com/coupang-engineering/%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84-%ED%86%B5%ED%95%9C-ml-%EA%B0%9C%EB%B0%9C-%EA%B0%80%EC%86%8D%ED%99%94-de29804148bb)
+* [Jim Dowling - From zero to a working ML system with Python, free serverless services + FTI pipelines - YouTube](https://www.youtube.com/watch?v=Jf3259BDMC0)
+* [Natan Mish - Event Driven Machine Learning | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=LgkslhZZ3Ro)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
