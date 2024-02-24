@@ -546,6 +546,8 @@ Vision
     * [MaskRCNN vs YOLOv7: A Comparison of Object Segmentation Algorithms](https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maskrcnn-vs-yolov7-a-comparison-of-object-segmentation-algorithms.html)
   * v8
     * [How to train YOLOv8 objection detection on a custom dataset](https://www.trainyolo.com/blog/how-to-train-yolov8-objection-detection-on-a-custom-dataset)
+  * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://github.com/AILab-CVC/YOLO-World)
+    * [YOLO-World: Real-Time, Zero-Shot Object Detection Explained - YouTube](https://www.youtube.com/watch?v=X7gKBGVz4vs)
   * yolox
     * [202107 CVPR YOLOX Paper review!! - YouTube](https://www.youtube.com/watch?v=N2rLSzEqqI8)
     * [Deploying Custom YOLOX on the Cloud and Building a Visual Search Engine off the Deployed Model - YouTube](https://www.youtube.com/playlist?list=PL2L83ZcMO-5PZN8Ixp5y4wi6atPwbreVl)
