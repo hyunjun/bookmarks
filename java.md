@@ -523,6 +523,7 @@ Java
 * [Java 프로그래밍 기초 - Google Docs](https://docs.google.com/document/d/1462hsmohZ1BF7QFzubqGFE9T_tC8-zvlTWW5VkvYSDU/view#)
 * [Top 20 Books Java Programmers Can Read](https://javarevisited.blogspot.com/2017/12/top-20-java-books-of-2017-which-you-can-read-in-2018.html)
 * [Cloud Native Spring in Action • Thomas Vitale & Josh Long • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=dz6RwoAzccM)
+  * [cloud-native-spring-in-action: 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)](https://github.com/ThomasVitale/cloud-native-spring-in-action)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
@@ -1875,6 +1876,7 @@ Java
 * [Spring Guide](https://github.com/cheese10yun/spring-guide)
 * [Entity to DTO, DTO to Entity 그리고 ModelMapper](https://dbbymoon.tistory.com/4)
 * [Dto 클래스에서 MultiValueMap로 쉽게 타입 변환하기](https://jojoldu.tistory.com/478)
+* [Spring Framework query parameter로 배열 받기(@RequestParam, dto 객체) - i-hope devlog](https://i-hope9.github.io/posts_til/2021-04-23-TIL-SpringMVC.html)
 * [요령과 기본(Spring)](https://taes-k.github.io/docs/trick_basic)
 * [Spring Camp 2017 1부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_1%EB%B6%80)
 * [Spring Camp 2017 2부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_2%EB%B6%80)
