@@ -5868,6 +5868,8 @@ Programming
     * WYSIWYG 에디터로 쉽게 만들어서 팝업 관리 가능, 요청사항도 2주만에 만들어 주어 만족해서 사용
 * [Figstack | Disquiet\*](https://disquiet.io/product/figstack) 코드를 영어로 또는 다른 개발 언어로 번역해주는 개발자 도구
 * [Google AppSheet | Build apps with no code](https://about.appsheet.com/home/)
+  * [구글 앱시트 AppSheet 소개 및 사용법](https://eyemong.github.io/appsheet/)
+    * [앱시트 입문자용 강의 - YouTube](https://www.youtube.com/playlist?list=PL2L3xAXmCCfjFMUbkKbulngvrKEqAy9P-)
 * [Hola | Disquiet\*](https://disquiet.io/product/hola) 개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
   * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
