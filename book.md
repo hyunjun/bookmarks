@@ -408,6 +408,8 @@ Book
   * [남극 산책 - Jun - Medium](https://nymets.medium.com/%EB%82%A8%EA%B7%B9-%EC%82%B0%EC%B1%85-17793568c07a)
   * [남극 산책 - Jun’s Substack](https://recur.substack.com/p/8cc)
   * [남극 산책](https://jh4hj.tistory.com/entry/%EB%82%A8%EA%B7%B9-%EC%82%B0%EC%B1%85)
+* [만화로 보는 변호사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1263946227)
+  * ★★★☆☆ 2024.02.25
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
