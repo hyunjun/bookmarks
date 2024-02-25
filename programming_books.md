@@ -701,6 +701,9 @@ Programming Books
   * 우당 문004.588-우63ㅇ
 * (NOT YET) [Amazon VPC 네트워킹 원리와 보안 | 에이콘출판사](http://www.acornpub.co.kr/book/amazon-vpc)
   * 한라 004.588-차74ㅇ 탐라 문004.588-차73ㅇ
+* (NOT YET) [AWS 교과서 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003877&keyword=AWS%20%EA%B5%90%EA%B3%BC%EC%84%9C&collection=GB_BOOK)
+  * 제주 004.588-김67에
+  * [길벗/AWS 교과서 실습 UI 업데이트 및 오탈자](https://gasidaseo.notion.site/AWS-UI-cb7f4f7feb744c73a1bbe5870b245697)
 
 # Android
 
@@ -911,6 +914,11 @@ Programming Books
   * 탐라 문004.73-로58ㅎ
 * (NOT YET) 인간 vs. AI 정규표현식 문제 풀이 대결 [진화하는 AI, 프로그래밍 세계도 진화하고 있다](https://jpub.tistory.com/1459)
   * [독서광 인간 vs. AI 정규표현식 문제 풀이 대결 - YouTube](https://www.youtube.com/watch?v=h0bvb7y-4cM)
+* (NOT YET) [만들면서 배우는 나만의 인공지능 서비스 | 위키북스](https://wikibook.co.kr/pyai/)
+  * 제주 004.73-최68나
+  * [wikibook/pyai: 『만들면서 배우는 나만의 인공지능 서비스』 예제 코드](https://github.com/wikibook/pyai)
+* (NOT YET) [GPT-4, ChatGPT, 라마인덱스, 랭체인을 활용한 인공지능 프로그래밍 | 위키북스](https://wikibook.co.kr/openai-llm/)
+  * 제주 005.11-후237지
 
 # C
 
@@ -984,6 +992,10 @@ Programming Books
   * 탐라 문005.133-볼45ㅅ
   * [Hands-On-Functional-Programming-with-Cpp: Hands-On Functional Programming with C++, published by Packt](https://github.com/PacktPublishing/Hands-On-Functional-Programming-with-Cpp)
   * [AcornPublishing/functional-c: C++ 함수형 프로그래밍](https://github.com/AcornPublishing/functional-c)
+* (NOT YET) [C++ 소프트웨어 디자인 | 위키북스](https://wikibook.co.kr/cpp-software-design/) design pattern
+  * 한라 005.133-이17ㅆ
+  * [igl42/cpp_software_design: Code Examples from "C++ Software Design: Design Principles and Patterns for High-Quality Software" (ISBN: 1098113160)](https://github.com/igl42/cpp_software_design)
+  * [wikibook/cpp-software-design: 《C++ 소프트웨어 디자인》 예제 코드](https://github.com/wikibook/cpp-software-design)
 
 # C#
 
@@ -1382,6 +1394,9 @@ Programming Books
 * (NOT YET) [모두를 위한 메타러닝](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=303086795)
   * [meta-learning-for-everyone: "모두를 위한 메타러닝" 책에 대한 코드 저장소](https://github.com/dongminlee94/meta-learning-for-everyone)
 * (NOT YET) [딥러닝을 위한 푸리에 영상처리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
+* (NOT YET) [스테이블 디퓨전으로 만드는 게임 그래픽](https://www.hanbit.co.kr/store/books/look.php?p_code=B5528771377)
+  * 탐라 문004.76-야211ㅅ
+  * [Little Land War SRPG](https://crocro.com/shop/item/llw_srpg.html)
 
 ## Machine Learning
 * [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/11/23/book-roadmap/)
@@ -1538,13 +1553,24 @@ Programming Books
 * (NOT YET) [데이터 분석가가 반드시 알아야 할 모든 것 | 위키북스](https://wikibook.co.kr/eda/) kaggle
   * 탐라 문005.76-황53ㄷ
 * (NOT YET) [MLOps 실전 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B9385341956)
-  * 탐라
+  * 제주 004.73-기848엠
+  * [paiml/practical-mlops-book: Book-2021 Practical MLOps O'Reilly Book](https://github.com/paiml/practical-mlops-book)
+  * [ProtossDragoon/practical-mlops: O'Reilly 『MLOps 실전 가이드』 소스코드 길라잡이](https://github.com/protossdragoon/practical-mlops)
 * (NOT YET) [머신러닝을 위한 수학](https://hanbit.co.kr/store/books/look.php?p_code=B2286199605)
   * 탐라 문004.73-이44ㅁ
 * (NOT YET) [머신러닝을 활용한 웹 최적화](https://www.hanbit.co.kr/store/books/look.php?p_code=B8979230235)
   * 한라 004.73-이57ㅁ 탐라 문004.73-이58ㅁ
 * (NOT YET) [머신러닝 시스템 디자인 패턴 | 위키북스](https://wikibook.co.kr/mlsdp/)
   * 한라 004.73-시46ㅁ 탐라 문004.73-시47ㅁ
+* (NOT YET) [머신러닝 엔지니어링 인 액션](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2681655701)
+  * 제주 004.73-윌58머
+  * [BenWilson2/ML-Engineering: Reference code base for ML Engineering, Manning Publications](https://github.com/benwilson2/ml-engineering)
+  * e.g. `docker run -i --name=airlineForecastExperiments -v `pwd`/notebooks:/opt/notebooks -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && mkdir -p /opt/notebooks && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip=‘*’ --port=8888 --no-browser --allow-root"`
+* (NOT YET) [머신러닝 시스템 구축 실전 가이드](https://jpub.tistory.com/1515)
+  * 우당 문004.73-시47ㅁ
+  * [머신러닝 BIG PICTURE, 나는 계획이 있다](https://jpub.tistory.com/1508)
+  * [moseskim/building-ml-system: building machine learning system](https://github.com/moseskim/building-ml-system)
+  * [Ho Seung Shin - --머신러닝 시스템 구축 실전 가이드-- ML Model을 만드는 분석가의... | Facebook](https://www.facebook.com/hoseung.shin.50/posts/pfbid02pgwH7JRYDzXyMf821f5CCkqXxKdBeFxfCqpRQnsr4PDQDHX4vpacxTc5T8YWwfhUl)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -3399,6 +3425,8 @@ Programming Books
   * 한라 005.4정14ㅇ
 * Redis 운영 관리
   * 한라 005.7강23ㄹ
+* (NOT YET) [개발자를 위한 레디스 | 에이콘출판사](http://www.acornpub.co.kr/book/redis_for_developers)
+  * 우당 문005.75-김11ㄱ
 
 ## Storm
 
