@@ -60,6 +60,7 @@ Programming Books
     * [실용주의 프로그래머 20주년 기념판. ★★★★★ April 12, 2022 April 14, 2022 →… | by Jun | Feb, 2024 | Medium](https://nymets.medium.com/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%ED%8C%90-5f191a1fa936)
     * [실용주의 프로그래머 20주년 기념판 - Jun’s Substack](https://recur.substack.com/p/20)
     * [실용주의 프로그래머 20주년 기념판](https://jh4hj.tistory.com/entry/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-20%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%ED%8C%90)
+  * [One Rule to Rule Them All • Pragmatic Dave Thomas • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=qjJ6LvOU7q0)
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
 * [소프트웨어 산책](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%82%B0%EC%B1%85)
