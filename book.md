@@ -409,7 +409,11 @@ Book
   * [남극 산책 - Jun’s Substack](https://recur.substack.com/p/8cc)
   * [남극 산책](https://jh4hj.tistory.com/entry/%EB%82%A8%EA%B7%B9-%EC%82%B0%EC%B1%85)
 * [만화로 보는 변호사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1263946227)
-  * ★★★☆☆ 2024.02.25
+  * ★★★☆☆ 2024.02.25 제목 그대로 변호사라는 직업에 대한 이야기
+  * 탐라 문360.4-조31ㅁ
+* [법으로 버업(Ver.Up)되는 만화 - 골든래빗](https://goldenrabbit.co.kr/product/%eb%a7%8c%ed%99%94%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ec%9e%a1%ed%95%99%ec%a7%80%ec%8b%9d-%ec%9e%a1%ed%95%99%ed%88%b0-%eb%b2%95%ec%9c%bc%eb%a1%9c-%eb%b2%84%ec%97%85ver-up%eb%90%98%eb%8a%94/)
+  * ★★★☆☆ 2024.02.25 위와 다르게 여러가지 사례 중심(e.g. 전세 사기)으로 살면서 주의할 점을 알려주는 책
+  * 한라 360.1-떠47ㅂ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
