@@ -466,6 +466,7 @@ Programming
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [Listener 함수 이름은 어떻게 지어야 할까? — onUserChange() vs onUserChanged() | by Ted Park | PRND | Feb, 2023 | Medium](https://medium.com/prnd/listener-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%80%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-onuserchange-vs-onuserchanged-28a0aa95a192) naming
+* [함수, 이렇게 만들면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=Wd6FJ1s_ZUc) naming
 * [시간을 초월한 개발자에 대한 조언: 이름 짓기 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4620)
 * [개발시 내용을 정확히 반영하는 변수명을 사용하는 것은 아주 중요합니다 – 형우의 웹개발](https://mytory.net/archives/15897)
 * [Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Sep, 2022 | Better Programming](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
