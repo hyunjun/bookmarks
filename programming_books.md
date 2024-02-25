@@ -4300,10 +4300,11 @@ Programming Books
   * ★★★☆☆ 2023.07.13~14 기술서적은 아니지만, 약간의 개론에 해당하는 부분도 있다고 봐야 하며, 문화나 조직이 어떻게 실험에 영향을 줄 수 있는지, 그래서 리더는 어떻게 행동해야 할지도 여러 가지 case study를 통해 알 수 있다. 다만 여전히 풀리지 않는 점은 조직이 작은 거 부터 실험을 해나가야 한다는 점은 당연히 맞는데, 자원이 정말 부족한 소규모 조직은 어떻게 시작해야 할지는 여기서도 별다른 답을 찾을 수는 없었다.
   * 우당 문325.19-톰829ㅅ
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
-* (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
+* (NOT YET) ['**단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴**'을 읽고](https://ocblog.tistory.com/94)
   * 한라 005.14-코298ㄷ
   * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
   * [단위 테스트(Unit Testing)에서 단위의 경계는 무엇인가? (feat. 고전파와 런던파) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-london-detroit/)
+  * [**단위 테스트 (블라디미르 코리코프, 2021)** 독후감 - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/book-unit-testing-2011/)
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
 * (NOT YET) [이펙티브 소프트웨어 테스팅](https://jpub.tistory.com/1391)
   * 탐라 문005.14-아219ㅇ
