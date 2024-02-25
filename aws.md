@@ -29,9 +29,6 @@ AWS
 * [New – AWS Support App in Slack to Manage Support Cases | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
   * [Slack 기반 AWS Support 앱 출시 – 서포트 케이스 생성 및 관리 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/)
     * AWS에 서포트 티켓을 만들기 위해 AWS Support Center로 이동할 필요 없이 Slack 내에서 바로 티켓을 만들고 엔지니어와 채팅할 수 있는 AWS Suuport 앱 발표
-* LEX
-  * [Amazon Lex에서 Open API를 이용한 대화형 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-lex-chatgpt-communication/)
-  * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
@@ -2074,6 +2071,9 @@ AWS
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
+* LEX
+  * [Amazon Lex에서 Open API를 이용한 대화형 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-lex-chatgpt-communication/)
+  * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/blogs/korean-chatbot-using-varco-llm-and-opensearch at main · aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr · GitHub](https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/korean-chatbot-using-varco-llm-and-opensearch)
   * [VARCO LLM과 Amazon OpenSearch를 이용하여 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-chatbot-using-varco-llm-and-opensearch/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
