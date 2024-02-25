@@ -390,6 +390,7 @@ Web
 * [사파리, 모바일 환경에서의 트러블슈팅 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-safari-issues/)
 * [진정한 남자들은 DB를 쓰지 않습니다 - YouTube](https://www.youtube.com/watch?v=pCOBmmJARPE) data를 URL에 저장
 * [더 나은 폼을 만드는 몇 가지 팁 – 형우의 웹개발](https://mytory.net/archives/15921)
+* [Hyeseong's Blog - **컨텐츠 압축을 위한 배경지식**](https://blog.cometkim.kr/posts/content-compression-101/) compression
 
 # Apache
 * installation
