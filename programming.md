@@ -5797,6 +5797,7 @@ Programming
 * [Gmarket Mobile Web Vip 레거시 성능 개선기](https://ebay-korea.tistory.com/97)
 * [카카오페이 온라인 결제 서비스 2.5배 성능 개선기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/improve-service-performance/)
 * [달리는 기차의 바퀴 교체하기 1. Planning](https://toss.tech/article/restructuring-planning)
+* [달리는 기차의 바퀴 교체하기 2. Restructuring](https://toss.tech/article/restructuring)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
