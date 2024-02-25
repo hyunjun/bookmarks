@@ -2382,6 +2382,7 @@ Programming
 * [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+* [9 best practices for developing microservices](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7167400713839431680-G88O)
 * [Microservice, monolith, microlith](https://blogs.oracle.com/javamagazine/post/microservice-monolith-microlith)
 * [Solving distributed data problems in a microservice architecture | Microservices.io - YouTube](https://www.youtube.com/watch?v=AEbJgpamZ4w)
 * [API V2 전환과 DB 무중단 마이그레이션 후기. 29CM에서는 비즈니스 확장에 대응하기 위해 Monolithic… | by rogiry | 29CM 기술블로그 | Oct, 2021 | Medium](https://medium.com/29cm/api-v2-%EC%A0%84%ED%99%98%EA%B3%BC-db-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-8b39eb0db566)
