@@ -2404,6 +2404,7 @@ Javascript
   * [Remix로 쉽게 하는 리액트 서버사이드 렌더링](https://velog.io/@velopert/learn-remix)
     * Remix로 서버를 구성하고 디렉터리 기반으로 라우팅을 설정해서 웹사이트를 만드는데 필요한 페이지 작성, 데이터 불러오기, 리다이렉션 등의 사용 방법을 설명
   * [Remix without Limits – Vercel](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support) Vercel에서 Remix 지원을 공개
+  * [Building Modern Web Applications with @Remix-Run • Jake Ginnivan • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=O9hxS1bQY78)
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
   * [HTML 으로 PPT 슬라이드 만들 수 있다....!? - YouTube](https://www.youtube.com/watch?v=XBORYvf0TfU)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
