@@ -2079,6 +2079,7 @@ Web
 * [Wasm Is Becoming the Runtime for LLMs - Michael Yuan, Second State - YouTube](https://www.youtube.com/watch?v=upNNI_b4tNY)
 * [What Actually Is WebAssembly: Taking a Look Under the Hood - YouTube](https://www.youtube.com/watch?v=WBxlLMeyE7I)
 * [Wasm: What is Universal Compute Good For? - YouTube](https://www.youtube.com/watch?v=D7qDt-I_q6I)
+* [Don't Trust Anything! Real-world Uses For WebAssembly • Katie Bell • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=zhVzWo6cdBM)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
