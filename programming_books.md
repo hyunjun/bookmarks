@@ -638,6 +638,8 @@ Programming Books
   * ★★★☆☆ 2023.03.16~17, 2023.07.25~27 정말 시작하는 사람들을 위한 책. 중요한 개별 서비스에 대해서 각각 배울 수 있음
   * 탐라 문004.588-김53ㅇ
   * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
+* (NOT COMPLETED) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook/)
+  * 한라 004.588-컬878ㅇ
 * (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
   * 2014, 한라 004.58-오65ㅇ
 * (NOT YET) 처음 시작하는 AWS 람다 : 서버리스 아키텍처를 향한 첫 발걸음
@@ -692,8 +694,6 @@ Programming Books
   * 탐라 문005.118-아231ㅇ
   * [awsc: 《AWS 컨테이너 설계와 구축 철저 입문》 프런트엔드 예제 파일](https://github.com/wikibook/awsc)
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
-* (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook/)
-  * 한라 004.588-컬878ㅇ
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide)
   * 우당 문004.588-우63ㅇ
 * (NOT YET) [Amazon VPC 네트워킹 원리와 보안 | 에이콘출판사](http://www.acornpub.co.kr/book/amazon-vpc)
@@ -1808,24 +1808,42 @@ Programming Books
 * [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
   * ★★★☆☆ 2023.06.16 기술적인 부분은 없으나 전반적으로 살펴보고 대략의 개념을 잡기 좋음
   * 우당 문004.588-이79ㄷ
-* (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
-* (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
-* (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
-* (NOT YET) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
+* (NOT COMPLETED) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
   * 탐라 문005.11-정67ㅋ, 우당 문005.11-정67ㅋ
   * [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
-* (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
-* (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
-  * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
-* (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
-* (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
-* (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
-* (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 | 동양북스](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2720)
+* (NOT COMPLETED) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 | 동양북스](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2720)
   * 우당 문005.11-아69ㅋ
   * [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
   * [dybooksIT/k8s-aws-book: 동양북스 <AWS를 이용한 쿠버네티스 애플리케이션 배포> 저장소](https://github.com/dybooksIT/k8s-aws-book)
   * [polo149278/k8sbook: 개발자를 위한 k8s on AWS](https://github.com/polo149278/k8sbook)
   * [GoogleCloudPlatform/microservices-demo: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.](https://github.com/GoogleCloudPlatform/microservices-demo)
+* (NOT COMPLETED) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * 우당 문005.11-마51ㅋ
+  * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
+* (NOT COMPLETED) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice)
+  * 탐라 문005.11-이73ㅋ 우당 문005.11-이73ㅋ
+* (NOT COMPLETED) [코어 쿠버네티스 | 위키북스](https://wikibook.co.kr/corek8s/)
+  * 한라 005.11-비62ㅋ
+  * [corek8s: 《코어 쿠버네티스》 예제 코드](https://github.com/wikibook/corek8s)
+* (NOT COMPLETED) [쿠버네티스 시작하기 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/kubernetes-up-and-running-3e)
+  * 한라 005.11-번57ㅋ
+  * [Kubernetes: Up and Running, 3rd Edition Book](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
+  * [kubernetes-up-and-running/examples: Example code and files from "Kubernetes: Up and Running"](https://github.com/kubernetes-up-and-running/examples)
+* (NOT COMPLETED) [쉽게 시작하는 쿠버네티스](https://www.gilbut.co.kr/book/view?bookcode=BN003638)
+  * 한라 005.118-서78ㅅ
+  * [080329: 쉽게 시작하는 쿠버네티스](https://github.com/gilbutITbook/080329)
+* (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
+* (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
+* (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
+  * 탐라 문005.11-아51ㅋ
+* (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
+* (NOT YET) [쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
+  * 조천 005.11-이48ㅋ 애월 005.11-이48ㅋ
+  * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
+* (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
+* (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
+  * 한라 005.1-곽64ㄷ
+* (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
 * (NOT YET) [15단계로 배우는 도커와 쿠버네티스](https://jpub.tistory.com/1090)
   * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * (NOT YET) [Kubernetes: Up & Running • Brendan Burns & Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Nr3i2r-ffnc)
@@ -1839,25 +1857,10 @@ Programming Books
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
   * 한라 005.11-오12ㄷ
-* (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
-  * 우당 문005.11-마51ㅋ
-  * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
-* (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice)
-  * 탐라 문005.11-이73ㅋ 우당 문005.11-이73ㅋ
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
 * (NOT YET) [매니징 쿠버네티스 - 창시자가 알려주는 쿠버네티스 클러스터 현장 운영 기법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1668)
-* (NOT YET) [코어 쿠버네티스 | 위키북스](https://wikibook.co.kr/corek8s/)
-  * 한라 005.11-비62ㅋ
-  * [corek8s: 《코어 쿠버네티스》 예제 코드](https://github.com/wikibook/corek8s)
-* (NOT YET) [쿠버네티스 시작하기 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/kubernetes-up-and-running-3e)
-  * 한라 005.11-번57ㅋ
-  * [Kubernetes: Up and Running, 3rd Edition Book](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
-  * [kubernetes-up-and-running/examples: Example code and files from "Kubernetes: Up and Running"](https://github.com/kubernetes-up-and-running/examples)
-* (NOT YET) [쉽게 시작하는 쿠버네티스](https://www.gilbut.co.kr/book/view?bookcode=BN003638)
-  * 한라 005.118-서78ㅅ
-  * [080329: 쉽게 시작하는 쿠버네티스](https://github.com/gilbutITbook/080329)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
