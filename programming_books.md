@@ -298,7 +298,10 @@ Programming Books
 * (NOT YET) [마인드스톰 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/76)
   * 한라 005.13-패894ㅁ
 * (NOT YET) [레고 마인드스톰 EV3 프로그래밍 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/110)
-* (NOT YET) [CODE 코드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/80)
+* (NOT YET) [CODE 코드 2판 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/156)
+  * 탐라 문005.1-펫75C
+  * [CODE 2판의 출간에 붙여서.. | Babyworm: Processor Architect.](http://babyworm.net/archives/2379)
+  * (NOT YET) [CODE 코드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/80)
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
   * 중앙 BO005-로43ㅅ
 * (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
