@@ -1398,6 +1398,8 @@ Programming
   * [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
   * [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
     * [인스타그램이 오직 3명의 엔지니어로 1400만 사용자를 확보한 방법 | GeekNews](https://news.hada.io/topic?id=10916)
+  * [**인스타그램 백엔드가 20억 유저를 감당하는 방법! - YouTube**](https://www.youtube.com/watch?v=V27XkmVPqYQ)
+    * [What Powers Instagram: Hundreds of Instances, Dozens of Technologies | by Instagram Engineering | Instagram Engineering](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
 * [How Pinterest Scaled to 11 Million Users With Only 6 Engineers - YouTube](https://www.youtube.com/watch?v=QRlP6BI1PFA)
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
