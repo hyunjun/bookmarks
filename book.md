@@ -414,6 +414,9 @@ Book
 * [법으로 버업(Ver.Up)되는 만화 - 골든래빗](https://goldenrabbit.co.kr/product/%eb%a7%8c%ed%99%94%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ec%9e%a1%ed%95%99%ec%a7%80%ec%8b%9d-%ec%9e%a1%ed%95%99%ed%88%b0-%eb%b2%95%ec%9c%bc%eb%a1%9c-%eb%b2%84%ec%97%85ver-up%eb%90%98%eb%8a%94/)
   * ★★★☆☆ 2024.02.25 위와 다르게 여러가지 사례 중심(e.g. 전세 사기)으로 살면서 주의할 점을 알려주는 책
   * 한라 360.1-떠47ㅂ
+* [가벼운 항공전의 역사 - 골든래빗](https://goldenrabbit.co.kr/product/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-%EC%9E%A1%ED%95%99%ED%88%B0-%EA%B0%80%EB%B2%BC%EC%9A%B4-%ED%95%AD%EA%B3%B5%EC%A0%84%EC%9D%98-%EC%97%AD/)
+  * ★★★☆☆ 2024.02.26
+  * 탐라 문392.47-우225ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
