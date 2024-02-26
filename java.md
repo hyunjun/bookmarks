@@ -757,6 +757,7 @@ Java
 * [JetBrains IDE AI Assistant EAP 후기 (2023.07.12)](https://jojoldu.tistory.com/726)
 * [IntelliJ & Maven 외부 라이브러리 참조 문제 (Cannot find declaration to go to)](https://velog.io/@joosing/intellij-maven-cannot-find-declaration-to-go-to)
 * [IntelliJ cannot resolve symbol 에러 해결 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-cannot-resolve-symbol/)
+* [IntelliJ 각종 팁 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-tip2/)
 * [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
