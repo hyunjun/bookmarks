@@ -354,6 +354,8 @@ Programming Books
   * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 * (NOT YET) [오늘날 우리는 컴퓨터라 부른다](https://jhrogue.blogspot.com/2023/09/blog-post.html)
   * [Book 오늘날 우리는 컴퓨터라 부른다 - 라이프니츠부터 튜링까지, 생각하는 기계의 씨앗을 뿌린 사람들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1691)
+* (NOT YET) [처음 배우는 NHN Cloud](https://hanbit.co.kr/store/books/look.php?p_code=B4125493122)
+  * 한라 004.588-김25엔
 
 # Agile Scrum
 
@@ -922,7 +924,12 @@ Programming Books
   * 제주 005.11-후237지
 * (NOT YET) [만들면서 배우는 생성 AI : 트랜스포머부터 GPT, DALL·E 2, 스테이블 디퓨전, 플라밍고까지 2판 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/gen-dl-2/)
   * 한라 004.73-포57만
-
+* (NOT YET) [파이썬으로 배우는 음성인식](https://bjpublic.tistory.com/468) Specch recognition with Python : 음성인식 기초부터 최신 기법까지 예제로 실습
+  * 한라 004.73-다872ㅍ
+* (NOT YET) [XAI, 설명 가능한 AI](https://bjpublic.tistory.com/463)
+  * 한라 004.73-오65ㅇ
+* (NOT YET) 핸즈온 파이썬을 이용한 설명가능한 AI
+  * 탐라 문004.73-로58ㅎ  
 
 # C
 
@@ -1074,6 +1081,8 @@ Programming Books
   * [graph-book: The Code Examples and Notebooks for The Practitioners Guide to Graph Data](https://github.com/datastax/graph-book)
   * [애플리케이션에서 그래프 기술의 적용 가능성과 사용법을 탐색하는 방법](images/graph-book.jpg)
 * (NOT YET) [MySQL 성능 최적화 | 위키북스](https://wikibook.co.kr/mysql-optimization/)
+* (NOT YET) [데이터베이스 신뢰성 엔지니어링 | 에이콘출판사](http://www.acornpub.co.kr/book/database-reliability-engineering)
+  * 탐라 문005.75-캠43ㄷ
 
 # Data Science
 
@@ -1831,7 +1840,7 @@ Programming Books
 * (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
   * 탐라 문005.1-이94ㄷ
 * (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
-  * 한라
+  * 한라 004.588-일32ㄷ
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
   * 탐라 문005.1-스835ㄷ 우당 문005.1-스835ㄷ
 
@@ -2047,6 +2056,10 @@ Programming Books
 * (NOT YET) [Do it! 깡샘의 플러터&다트 프로그래밍 책의 실습 영상 - YouTube](https://www.youtube.com/playlist?list=PLYlZbv3fX7WvBf2H_dt1RHV1my2pkm6m6)
 * (NOT YET) [초보자도 프로처럼 만드는 플러터 앱 개발 – 디코딩](https://www.decoding.co.kr/product/%ED%94%8C%EB%9F%AC%ED%84%B0%EC%95%B1%EA%B0%9C%EB%B0%9C/)
   * 한라 005.1-이74ㅊ 제주 005.58-이73플
+* (NOT YET) [풀스택 개발이 쉬워지는 다트&플러터 - 영진닷컴 - IT 전문 출판기업](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931467970&seq=7225&cate_cd=1&child_cate_cd=9&goPage=1&orderByCd=1&searchType=Y&keyword1=%C7%AE%BD%BA%C5%C3%20%B0%B3%B9%DF%C0%CC%20%BD%AC%BF%F6%C1%F6%B4%C2%20%B4%D9%C6%AE&%C7%C3%B7%AF%C5%CD)
+  * 한라 005.58-이54풀 탐라 문005.58-이53ㄷ 제주 005.58-이53풀
+* (NOT YET) [플러터 앱 프로그래밍 | 프리렉](https://freelec.co.kr/book/%ed%94%8c%eb%9f%ac%ed%84%b0-%ec%95%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d/)
+  * 탐라 문005.58-서14ㄱ 제주 005.58-서14플
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
@@ -2281,6 +2294,7 @@ Programming Books
   * 탐라 문005.133-푸227ㅋ
 * (NOT YET) [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 파이썬 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310591832)
 * (NOT YET) [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310591706)
+  * 우당 문005.133-김94ㅍ
 
 # iOS
 
@@ -2410,8 +2424,10 @@ Programming Books
   * [책 내용 정리 및 기억해둘만한 점 등](https://gist.github.com/hyunjun/84e6ab9f8bb5347a1002ee0d9357d3f1#file-multithreaded_javascrtip-md)
   * [code-samples: Code samples for the book Multithreaded JavaScript, O'Reilly, 2021](https://github.com/MultithreadedJSBook/code-samples)
 * (NOT YET) [프론트엔드 성능 최적화 가이드 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/11/07/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-* (NOT YET) [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
+* (NOT YET) [NestJS로 배우는 백엔드 프로그래밍](https://jpub.tistory.com/1352)
   * 탐라 문005.11-한66ㄴ
+  * [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
+  * [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
   * [프로그래밍 입문서로 여전히 훌륭한 개념 안내서 : 네이버 블로그](https://blog.naver.com/drvoss/223028398957)
@@ -2432,9 +2448,6 @@ Programming Books
   * 한라 005.138-유68ㅎ 우당 문005.138-유69ㅎ
 * (NOT YET) [쉽게 시작하는 타입스크립트 도서 리뷰 • 캡틴판교](https://joshua1988.github.io/web-development/typescript-easy-start/)
   * [쉽게 시작하는 타입스크립트 책 리뷰 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/books/%EC%89%BD%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%B1%85-%EB%A6%AC%EB%B7%B0/)
-* (NOT YET) [NestJS로 배우는 백엔드 프로그래밍](https://jpub.tistory.com/1352)
-  * 탐라 문005.11-한66ㄴ
-  * [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
 * (NOT YET) [GraphQL과 타입스크립트로 개발하는 웹 서비스](https://bjpublic.tistory.com/459)
   * 한라 005.138-강95ㄱ 탐라 문005.138-강98ㄱ
   * [graphql-book-fullstack-project: "GraphQL과 타입스크립트로 개발하는 웹 서비스" 도서의 예제 코드 저장소](https://github.com/hwasurr/graphql-book-fullstack-project)
@@ -2497,6 +2510,7 @@ Programming Books
 * (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
 * (NOT YET) [소문난 명강의 : 소플의 처음 만난 리액트](https://hanbit.co.kr/store/books/look.php?p_code=B9365371874)
 * (NOT YET) [나 혼자 만든다! 영화 추천 웹 서비스로 배우는 풀스택](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306366957)
+  * 한라 문005.118-최17ㄴ
 * (NOT YET) [한 입 크기로 잘라먹는 리액트 책 소개 - YouTube](https://www.youtube.com/watch?v=I8_izQCFsng)
 * (NOT YET) [Do it! 리액트 모던 웹 개발 with 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307915420)
   * 탐라 문005.138-전64ㄹ
@@ -2574,6 +2588,7 @@ Programming Books
 * (NOT YET) [코틀린 이것만 보면 돼](https://bjpublic.tistory.com/318)
 * (NOT YET) [{열혈코딩}안드로이드 스튜디오로 만나는 코틀린](https://bjpublic.tistory.com/316)
 * (NOT YET) [코틀린 리액티브 프로그래밍 RxKotlin을 사용한 리액티브 프로그래밍](http://acornpub.co.kr/book/reactive-kotlin)
+  * 한라 005.133-차877ㅋ 탐라 문005.13-차828ㅋ
   * [**1-00.코틀린을 리액티브하게 Flex하다**](https://soda1127.github.io/flex-reactive-kotlin/)
 * (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/) 함수형 패러다임이 잘 녹아들었다는 평이 있음
 * (NOT YET) [Joyce의 안드로이드 앱 프로그래밍 with 코틀린 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%BD%94%ED%8B%80%EB%A6%B0/)
@@ -3324,7 +3339,7 @@ Programming Books
 * [챗GPT로 대화하는 기술 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/gen-ai/)
   * ★★★☆☆ 2023.08.13
   * 한라 004.73-박93ㅊ
-* [챗GPT 개발자 핸드북](https://github.com/decodingbook/ChatGPTforDev/tree/main)
+* [챗GPT 개발자 핸드북](https://github.com/decodingbook/ChatGPTforDev/)
   * ★★★☆☆ 2023.10.03~04
   * 한라 004.73-주92ㅊ 탐라 문004.73-주91ㅊ
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
@@ -4252,6 +4267,8 @@ Programming Books
 * (NOT YET) [쉽게 배우는 소프트웨어 공학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71471277)
 * (NOT YET) [Code Simplicity : 소프트웨어 생명 연장을 위한 원칙 | 웹으로 말하기](https://mytory.net/archives/9352)
   * [버그를 줄이는 확실한 방법: 코드를 줄이기 | 웹으로 말하기](https://mytory.net/archives/13983)
+* (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://acornpub.co.kr/book/productivity-software)
+  * 우당 문005.1-샤225ㅅ
 
 # Spark
 
