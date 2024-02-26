@@ -80,6 +80,7 @@ Apache
 * [Airflow 환경 Docker compose로 containerization하기 | by eunseok yang | 네이버 플레이스 개발 블로그 | Dec, 2023 | Medium](https://medium.com/naver-place-dev/airflow-%ED%99%98%EA%B2%BD-docker-compose%EB%A1%9C-containerization%ED%95%98%EA%B8%B0-4770addae789)
 * [Airflow Task failed Alert Mail 폭탄 회피하기 | by Barkingcode | 네이버 플레이스 개발 블로그 | Dec, 2023 | Medium](https://medium.com/naver-place-dev/airflow-task-failed-alert-mail-%ED%8F%AD%ED%83%84-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-4cec56334a71)
 * [DBT와 Airflow 도입하며 마주한 7가지 문제들. 안녕하세요. 당근마켓 데이터 가치화팀의 Henry예요. | by Kim Dojin | 당근 테크 블로그 | Jan, 2024 | Medium](https://medium.com/daangn/dbt%EC%99%80-airflow-%EB%8F%84%EC%9E%85%ED%95%98%EB%A9%B0-%EB%A7%88%EC%A3%BC%ED%95%9C-7%EA%B0%80%EC%A7%80-%EB%AC%B8%EC%A0%9C%EB%93%A4-61250a9904ab)
+* [Apache Airflow 운영 경험과 에러대응. 안녕하세요. 29CM Data Platform 팀 데이터 엔지니어… | by 윤원진 | 29CM TEAM | Feb, 2024 | Medium](https://medium.com/29cm/29cm-apache-airflow-%EC%9A%B4%EC%98%81%EA%B8%B0-da6b5535f7a6)
 * [airflow-provider-anomaly-detection: An airflow provider for anomaly detection](https://github.com/andrewm4894/airflow-provider-anomaly-detection)
   * [모든 파이프라인 엔지니어의 평화를 빕니다 - Google Slides](https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit#slide=id.g23bb15e27c8_0_20)
 
