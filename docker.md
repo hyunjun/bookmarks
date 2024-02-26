@@ -1757,6 +1757,7 @@ Docker
     * 정확히 스로틀링이 동작하는 방식은 설명이 없음
 * [Kubernetes Services : Achieving optimal performance is elusive | by CloudyBytes | Jan, 2024 | Medium](https://cloudybytes.medium.com/kubernetes-services-achieving-optimal-performance-is-elusive-5def5183c281)
 * [Understanding service account and token in Kubernetes | Medium](https://medium.com/@th3b3ginn3r/understanding-service-accounts-in-kubernetes-e9d2abe19df8)
+* [Understanding the Basics of Internal Networking in Kubernetes(En) | by Albert Weng | Feb, 2024 | Medium](https://weng-albert.medium.com/understanding-the-basics-of-internal-networking-in-kubernetes-dfc27beef60d)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1952,6 +1953,7 @@ Docker
   * [k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
   * [ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1990/)
   * [Unleashing the Power of AI in Kubernetes through K8sGPT | Alex Jones - YouTube](https://www.youtube.com/watch?v=aKVDMh2ha98)
+* [k8spacket - packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
   * [Kubernetes 운영에 사용하던 Lens 대체제로 찾은 k9s :: Outsider's Dev Story](https://blog.outsider.ne.kr/1649)
