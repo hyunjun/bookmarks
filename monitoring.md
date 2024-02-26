@@ -251,6 +251,8 @@ Monitoring
   * [여기어때 서비스 모니터링 : New Relic 이야기. 안녕하세요. 여기어때컴퍼니 파트너혜택개발팀에서 B2B, 포인트 업무를… | by Jr | Mar, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-new-relic-%EC%9D%B4%EC%95%BC%EA%B8%B0-dad36583dec4)
   * [개발 뉴렐릭(Newrelic)모니터링 기본활용법](https://korcosin.github.io/posts/2023-08-16-newrelic_tip)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
+* [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)
+  * [Osquery: SQL기반의 운영 체제 계측/모니터링/분석 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=13525)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
   * [**java 애플리케이션 트러블 슈팅 사례 & pinpoint**](https://www.slideshare.net/deview/d2-java-pinpoint)
   * [Pinpoint APM Node 버전 설치하기](https://jojoldu.tistory.com/573)
