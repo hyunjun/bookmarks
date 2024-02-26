@@ -372,6 +372,7 @@ Artificial Intelligence
   * [랭체인러닝데이 문서로더부터 벡터스토어까지 (랭체인없이) 쌩 파이썬으로 만들어보기 - YouTube](https://www.youtube.com/watch?v=631aGBftKjo)
 * [Egor Romanov - Performance of Vector Databases - YouTube](https://www.youtube.com/watch?v=-MYYB0QjV6I)
 * [A fun and absurd introduction to Vector Databases by Alexander Chatzizacharias - YouTube](https://www.youtube.com/watch?v=7rt2-GkRH80)
+* [Vector search in old and modern databases](https://manticoresearch.com/blog/vector-search-in-databases/)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
@@ -396,6 +397,7 @@ Artificial Intelligence
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #6 임베딩을 위한 효과적 문장 분리 방법](https://bcho.tistory.com/1404)
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #7 RAG 쿼리한 정보로 LLM에 질의하기](https://bcho.tistory.com/1405)
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #8 임베딩 API 비교](https://bcho.tistory.com/1406)
+  * [Pinecone Introduces its Serverless Vector Database - InfoQ](https://www.infoq.com/news/2024/02/pinecone-serverless-database/)
   * [7-docs](https://github.com/7-docs)
     * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
       * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
