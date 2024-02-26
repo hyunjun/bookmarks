@@ -1377,6 +1377,7 @@ Web
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
+  * [Implementing an API Gateway For Microservices With YARP](https://www.milanjovanovic.tech/blog/implementing-an-api-gateway-for-microservices-with-yarp)
 * [reverse-proxy: A toolkit for developing high-performance HTTP reverse proxy applications](https://github.com/microsoft/reverse-proxy)
 
 # Python
@@ -1892,6 +1893,7 @@ Web
   * 성능 개선을 위해 어떤 항목들에 집중해야 하는지를 eBay의 사례
   * 웹 성능은 온라인 비즈니스, 특히 온라인 쇼핑에서 매출에 직접적인 영향을 미치는 중요한 영역
   * eBay는 2019년부터 성능 개선의 가치를 인식하기 시작, 실제로 검색 로딩 시간이 100ms 향상될 때마다 장바구니 추가 횟수가 0.5% 증가했다고 공개
+* [SpeedCurve | The psychology of site speed and human happiness](https://www.speedcurve.com/blog/psychology-site-speed/)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
