@@ -2085,6 +2085,7 @@ Web
 * [What Actually Is WebAssembly: Taking a Look Under the Hood - YouTube](https://www.youtube.com/watch?v=WBxlLMeyE7I)
 * [Wasm: What is Universal Compute Good For? - YouTube](https://www.youtube.com/watch?v=D7qDt-I_q6I)
 * [Don't Trust Anything! Real-world Uses For WebAssembly • Katie Bell • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=zhVzWo6cdBM)
+* [웹은 어떻게 소프트웨어를 먹어치울 수 있는가 WebGPU, WebAssembly 및 게임의 가능성](https://blog.naver.com/thebelivvr/223365876036)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
