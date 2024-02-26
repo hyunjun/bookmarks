@@ -2667,6 +2667,7 @@ AWS
 * [Amazon VPC 트래픽 미러링을 통해 상용 환경 트래픽을 테스트 환경으로 미러링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mirror-production-traffic-to-test-environment-with-vpc-traffic-mirroring)
 * [VPC 트래픽 미러링 – 네트워크 트래픽 캡처 및 검사 기능 출시 (서울 리전 포함) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-vpc-traffic-mirroring/)
   * [http-requests-mirroring](https://github.com/aws-samples/http-requests-mirroring)
+* [VPC 트래픽 미러링 및 Gateway Load Balancer를 사용하여 NETSCOUT APM으로 엔드-투-엔드 가시성 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-end-to-end-visibility-with-netscout-apm-using-traffic-mirroring-and-gateway-load-balancer/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
