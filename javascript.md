@@ -1183,6 +1183,7 @@ Javascript
 * [Async-Await ≈ Generators + Promises | by Cha | HackerNoon.com | Medium](https://medium.com/hackernoon/async-await-generators-promises-51f1a6ceede2)
 * [Node.js await vs return vs return await: 비동기 이해하기](https://ooeunz.tistory.com/47)
 * [no-return-await 는 항상 정답일까](https://jojoldu.tistory.com/699)
+* [(번역) 자바스크립트의 await 사건의 지평선](https://velog.io/@sehyunny/await-event-horizon)
 * [1. 낡은 코드를 뜯어고쳐봅시다](https://velog.io/@phw3071/%EB%82%A1%EC%9D%80-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%98%EA%B8%B0-1)
 * [2. 화살표 비동기 익명 꼬리 재귀 즉시 실행 함수 표현식을 만들어보자](https://velog.io/@phw3071/2-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9D%B5%EB%AA%85-%EA%BC%AC%EB%A6%AC-%EC%9E%AC%EA%B7%80-%EC%A6%89%EC%8B%9C-%EC%8B%A4%ED%96%89-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
