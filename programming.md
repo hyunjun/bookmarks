@@ -131,6 +131,7 @@ Programming
 * [The Lost Art of Software Design • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=gNj8I4uSTgc)
 * [Tidy First? Daily Empirical Software Design & Why It Works | Beetroot](https://beetroot.co/productivity/tidy-first-daily-empirical-software-design-why-it-works/)
 * [Software Design: Beyond Boxes & Lines • Jessica Kerr • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=_-0mll0kx08)
+* [Dr Milan Milanović on X: "Software Design Red Flags In his now-famous software design book, "A Philosophy Of Software Design" professor John Ousterhout from Stanford University explained the rationale behind many good and bad practices in software design… https://t.co/gN238x2VjS" / X](https://twitter.com/milan_milanovic/status/1755139799789236245)
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [설계란 무엇인가 III | Popit](https://www.popit.kr/%ec%84%a4%ea%b3%84%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80-iii/)
@@ -489,6 +490,7 @@ Programming
 * [소소하지만 확실한 공부 방법, ‘수파리 공부법’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/243852)
 * [프로그래머를 위한 공부론.pdf](http://databaser.net/moniwiki/pds/Programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B3%B5%EB%B6%80%EB%A1%A0.pdf)
 * [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/)
+* [Learning To Learn — Cultivating Your Craft | by chubernetes | Medium](https://chubernetes.com/learning-to-learn-cultivating-your-craft-c28a65eb8591)
 * [Why Tacit Knowledge is More Important Than Deliberate Practice - Commonplace - The Commoncog Blog](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
@@ -1151,6 +1153,7 @@ Programming
 * [오늘도 여러분의 API 는 안녕하신가요? - 인프콘2023 · Present](https://present.do/documents/64dd4b8f10ab9a5ae56909f4)
 * [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
 * [Let's make a contract: the art of designing a Java API by Mario Fusco - YouTube](https://www.youtube.com/watch?v=RejJukzz8M0) 전반부는 일반적인 API에 대한 부분, 후반부는 Java
+* [더 늘고, 더 중요해진다··· ‘API 거버넌스’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/325107)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -1790,6 +1793,8 @@ Programming
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
 * [InfoQ Software Architecture & Design Trends 2023 - YouTube](https://www.youtube.com/watch?v=CKpxd3FBnqo)
 * [Petros Syntelis - Modelling of agent-customer pairing outcomes to optimise call centre performance - YouTube](https://www.youtube.com/watch?v=uZy5OTDAHgk)
+* [Alex Xu on X: "Flowchart of how slack decides to send a notification It is a great example of why a simple feature may take much longer to develop than many people think. When we have a great design, users may not notice the complexity because it feels like the feature just working as… https://t.co/PZ5wDCULMX" / X](https://twitter.com/alexxubyte/status/1756359022092153178)
+* [Alex Xu on X: "Top Architectural Styles. The method to download the high-resolution image is available at the end. In software development, architecture plays a crucial role in shaping the structure and behavior of software systems. It provides a blueprint for system design, detailing how… https://t.co/gzNnHyrj7L" / X](https://twitter.com/alexxubyte/status/1753816319030669548)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -2515,6 +2520,8 @@ Programming
   * [마이크로서비스로 넷플릭스 비디오 처리 파이프라인 재구축하기 | GeekNews](https://news.hada.io/topic?id=13341)
 * [The Resilience Patterns your Microservices Teams Should Know by Victor Rentea - YouTube](https://www.youtube.com/watch?v=IR89tmg9v3A)
 * [**마이크로서비스에서 안정적인 운영을 위한 통신 구현 방안. 개요 | by Greg Lee | Feb, 2024 | Medium**](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%EC%8B%A0-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-2e60bbff49f0)
+* [Best of 2023: 5 Microservices Design Patterns Every DevOps Team Should Know - DevOps.com](https://devops.com/5-microservices-design-patterns-every-devops-team-should-know/)
+  * [마이크로서비스 설계 패턴 5가지 | GeekNews](https://news.hada.io/topic?id=13215)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -2940,14 +2947,15 @@ Programming
     1. 클라우드 리소스와 비용에 대한 모니터링을 하지 않는다
     2. 클라우드 비용에 대한 책임자가 없다
     3. 클라우드 리소스를 최적화하지 못하거나 하지 않는다
+* [‘수익은 내 것, 찜찜함은 네 것!’··· 클라우드의 10가지 그늘 - CIO Korea](https://www.ciokorea.com/news/199709)
+* [컬러 오브 머니··· '색'으로 알아보는 클라우드 지출 - CIO Korea](https://www.ciokorea.com/news/203649)
+* [블로그 | 기업이 클라우드를 떠나는 이유 - CIO Korea](https://www.ciokorea.com/news/325072)
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
 * [Rule number one: Avoid vendor lock-in | Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/) cloud만 해당하는 건 아니지만
-* [‘수익은 내 것, 찜찜함은 네 것!’··· 클라우드의 10가지 그늘 - CIO Korea](https://www.ciokorea.com/news/199709)
 * [Testing Practices for Cloud Engineering | Pulumi](https://www.pulumi.com/blog/infrastructure-testing-concepts/)
 * [IDG 블로그 | “대화가 필요한” 클라우드 데이터베이스와 클라우드 인프라 - ITWorld Korea](https://www.itworld.co.kr/news/203594)
-* [컬러 오브 머니··· '색'으로 알아보는 클라우드 지출 - CIO Korea](https://www.ciokorea.com/news/203649)
 * [클라우드 컴퓨팅을 써야 하는 이유 & 그리고 “클라우드 컴퓨팅을 안다는 것” 에 관하여 | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%95%88%EB%8B%A4%EB%8A%94-%EA%B2%83-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6fcf9a763c38)
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
 * [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
@@ -3045,6 +3053,7 @@ Programming
     * 베스트 프렉티스를 모아서 셀프서비스 기능으로 제공하고
     * 동적 환경을 지원하는 워크플로우를 만들 수 있도록 변화가 필요하다고 이야기
   * [practice - Enabling a Cloud Operating Model](https://www.notion.so/1003/Cloud-a4302c6e39144574b224ab42a95dc425?pvs=4#5e7cb1fe0f834cdca3c811d43f54a3ec)
+* [Dr Milan Milanović on X: "Cloud Design Patterns ☁️ These design principles can be used to create dependable, scalable, and secure cloud systems. We can group 𝗖𝗹𝗼𝘂𝗱 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 into three general groups, where each pattern can be applied to any distributed system,… https://t.co/mAwPE2Xayg" / X](https://twitter.com/milan_milanovic/status/1753396613161054405)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -4393,6 +4402,9 @@ Programming
   * container화 -> 가시성 부족, IaC -> 높은 기술 숙련도 요구, 옵저버빌리티 -> 구현에 고비용, 숙련인력 부족이 연결된 게 딱 지금 상황이 연상
 * [AI로 DevOps 팀 생산성을 높이는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/02/07/devops-ai/)
 * [DevOps Korea 좌담회 2024.2.13. | docmoa](https://docmoa.github.io/06-etc/class/devops-discussion-20240213.html)
+* [How Platform and Site Reliability Engineering Are Evolving DevOps - InfoQ](https://www.infoq.com/articles/platform-sre-evolving-devops/)
+* [Is a continuous planning process in DevOps worth it? | TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/Is-a-continuous-planning-process-in-DevOps-worth-it)
+  * [DevOps에서 지속적 계획 프로세스는 가치 있을까? | GeekNews](https://news.hada.io/topic?id=13227)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -4663,6 +4675,9 @@ Programming
   * [MQTT : IoT를 위한 표준 메시징 서비스](https://naleejang.tistory.com/250)
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
+* [psc: PubSubClient (PSC)](https://github.com/pinterest/psc)
+  * [Running Unified PubSub Client in Production at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/running-unified-pubsub-client-in-production-at-pinterest-64ae2e721daa)
+  * [Pinterest Open-Sources a Production-Ready PubSub Java Client for Kafka, Flink, and MemQ - InfoQ](https://www.infoq.com/news/2024/02/pinterest-pubsub-kafka-flink/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [practice - some configuration](https://gist.github.com/hyunjun/088a4552f9d4b63dcc73305a93dab749#file-configuration-md)
   * [RabbitMQ YouTube](https://www.youtube.com/channel/UCSg9GRMGAo7euj3baJi4dOg)
@@ -6497,6 +6512,7 @@ Programming
 * [프로세스 외부 의존성을 가진 데이터베이스는 무조건 목(Mock)으로 대체해야 하는가? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/out-of-process-dependency/)
 * [Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [TDD, 테스트 관련 - YouTube](https://www.youtube.com/playlist?list=PLwouWTPuIjUj_QqgXlFsqjUwyC0-5dZ_q)
+* [Dr Milan Milanović on X: "Unit Testing Best Practices Unit tests are software testing where individual units or components of a software application are tested. Unit testing aims to validate that each software unit performs as designed. Unit tests ensure code quality and ease of… https://t.co/9GrA1gDHby" / X](https://twitter.com/milan_milanovic/status/1757450098445803821)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
