@@ -2996,6 +2996,7 @@ NLP
   * [Convert Text To Speech Using Python | Python Projects Tutorials - YouTube](https://www.youtube.com/watch?v=9\_gh55ksNME)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
   * [Baum-Welch Algorithm - ratsgo's speechbook](https://ratsgo.github.io/speechbook/docs/am/baumwelch)
+* [Retell AI - Conversational speech API for your LLM](https://www.retellai.com/)
 * [SALMONN: Speech Audio Language Music Open Neural Network](https://github.com/bytedance/SALMONN)
   * [음성과 소리를 동시에 이해하는 멀티모달 모델 공개 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2168476370160076/)
 * [SCE-TTS: 내 목소리로 TTS 만들기](https://sce-tts.github.io/)
