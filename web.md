@@ -1894,6 +1894,9 @@ Web
   * 웹 성능은 온라인 비즈니스, 특히 온라인 쇼핑에서 매출에 직접적인 영향을 미치는 중요한 영역
   * eBay는 2019년부터 성능 개선의 가치를 인식하기 시작, 실제로 검색 로딩 시간이 100ms 향상될 때마다 장바구니 추가 횟수가 0.5% 증가했다고 공개
 * [SpeedCurve | The psychology of site speed and human happiness](https://www.speedcurve.com/blog/psychology-site-speed/)
+* [A Survey and Taxonomy of Latency Compensation Techniques for Network Computer Games | ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3519023)
+  * [멀티-플레이어 게임 서버와 레이턴시 보상 테크닉 | by scalalang2 | 취미로 논문 읽는 그룹 | Medium](https://medium.com/rate-labs/%EB%A9%80%ED%8B%B0-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EC%9A%94-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EB%B3%B4%EC%83%81-%ED%85%8C%ED%81%AC%EB%8B%89-253640eb57d6)
+  * [멀티-플레이어 게임 서버와 레이턴시 보상 테크닉 | GeekNews](https://news.hada.io/topic?id=13515) 게임에 대한 이야기이지만 여러가지 관점에서 생각을 해볼만하게 하는 좋은 글
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
