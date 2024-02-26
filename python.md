@@ -706,6 +706,7 @@ Python
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
   * [Use Python to parse configuration files | Opensource.com](https://opensource.com/article/21/6/parse-configuration-files-python) INI, JSON, YAML, TOML
   * [파이썬 앱 구성을 더 쉽게⋯TOML의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/248128)
+  * [typed_configparser: A fully typed configparser built on top of configparser](https://github.com/ajatkj/typed_configparser)
 * contextlib
   * [On the Beauty of Python's ExitStack — Nikolaus Rath's Website](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * copy
@@ -1025,6 +1026,7 @@ Python
   * [Reduce() vs Accumulate() in Python | by Indhumathy Chelliah | codeburst](https://codeburst.io/reduce-vs-accumulate-in-python-3ecee4ee8094)
   * [5 Advanced Functions in Itertools To Simplify Iterations in Python | by Yong Cui, Ph.D. | Towards Data Science](https://towardsdatascience.com/5-advanced-functions-in-itertools-to-simplify-iterations-in-python-c6213312ca47)
   * [The Must-Know Tools from the Python Library itertools | Python in Plain English](https://python.plainenglish.io/the-must-know-tools-from-the-python-library-itertools-f5b413a3cfff)
+  * [Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -1486,6 +1488,7 @@ Python
   * [22 Pythonic Tricks for Working with Strings | by Richard Quinn | Python In Plain English | Medium](https://medium.com/python-in-plain-english/22-pythonic-tricks-for-working-with-strings-8b893776743c)
   * [split() vs. partition() in Python Strings | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/split-vs-partition-in-python-strings-9505d070af55)
   * [Python strings are immutable, but only sometimes - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
+  * [What Are Python Raw Strings? – Real Python](https://realpython.com/python-raw-strings/)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
@@ -1923,6 +1926,7 @@ Python
 * [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 
 # Code Formatter
+* [How to Write Beautiful Python Code With PEP 8 – Real Python](https://realpython.com/python-pep8/)
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
   * [Integrating Black with Git | Python Code Formatter | PEP8 - YouTube](https://www.youtube.com/watch?v=4N8OCdpoBCA)
 * [isort: A Python utility / library to sort imports](https://github.com/pycqa/isort/)
@@ -4548,6 +4552,7 @@ Python
 * [An unbiased evaluation of environment management and packaging tools — Anna-Lena Popkes - YouTube](https://www.youtube.com/watch?v=3-drZY3u5vo)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [Python package 의 build frontend 와 backend](https://devocean.sk.com/blog/techBoardDetail.do?ID=164866)
+* [Boring Python: dependency management](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
