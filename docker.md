@@ -1475,6 +1475,7 @@ Docker
 * [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 * [07. 파드 오토스케일링 – Metrics-Server & HPA – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-10-11-jennifer-kubernetes-7/)
 * [Kubernetes에서 HPA를 활용한 오토스케일링(Auto Scaling)](https://saramin.github.io/2022-05-17-kubernetes-autoscaling/)
+* [K8S Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling) | by 민현기(Min, Hyun Gi) | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
 * [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 * [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
 * [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
