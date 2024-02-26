@@ -1205,6 +1205,7 @@ Git
 * [GitOps Best Practices Whitepaper | Akuity](https://akuity.io/blog/gitops-best-practices-whitepaper/)
   * Argo CD를 만드는 Akuity에서 GitOps 베스트 프랙티스 백서 공개
   * 24페이지의 PDF 문서로 Git 워크플로우, 레퍼지토리 디렉터리 구조, GitOps를 사용한 CI/CD, 렌더링 된 Manifests 설명
+* [Alex Xu on X: "GitOps Workflow - Simplified Visual Guide GitOps brought a shift in how software and infrastructure are managed with Git as the central hub for managing and automating the entire lifecycle of applications and infrastructure. It's built on the principles of version control,… https://t.co/Y8QKplK9yW" / X](https://twitter.com/alexxubyte/status/1754900045529489823)
 * [kargo: Application lifecycle orchestration](https://github.com/akuity/kargo)
   * [Introducing Kargo | Akuity](https://akuity.io/blog/introducing-kargo/)
     * Argo 프로젝트를 만드는 Akuity에서 GitOps에 맞게 CD 파이프라인을 재구성, 각 스테이지를 연결해서 배포 조건, 생명 주기, 테스트를 설정 가능
