@@ -384,6 +384,7 @@ Nomad & Remote
 * [구글이 재택근무 직원의 임금 삭감 검토하는 이유](https://brunch.co.kr/@eddle/220)
 * ['재택근무 이렇게 하세요' 구글이 알려주는 5가지 노하우](https://news.v.daum.net/v/20200319172156979)
 * [‘한 지붕 두 목소리’ 사무실 복귀 둘러싼 기업·직원 동상이몽 - CIO Korea](https://www.ciokorea.com/news/229454)
+* ["유의미한 성과 없고 인재만 잃는다" 사무실 복귀 정책의 함정 - CIO Korea](https://www.ciokorea.com/news/324134)
 * [How many jobs can be done at home? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047272720300992)
 * [Work Trend Index: Microsoft’s latest research on the ways we work](https://www.microsoft.com/en-us/worklab/work-trend-index) 코로나 19 팬데믹 장기화로 원격 근무를 경험하면서 개인 가치의 변화가 생겨 팬데믹이 끝나도 예전과 같은 업무 환경으로는 돌아갈 수 없다는 결과
 * [글로벌 개발팀이 협업하는 방법 · Present](https://present.do/presentations/626a1025d174897e7698ed9e?page=18) 비대면근무
