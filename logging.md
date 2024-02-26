@@ -114,6 +114,7 @@ Logging
 * [SenseLogs - Instant log data in seconds, not minutes](https://www.sensedeep.com/senselogs/)
 * [spring-cloud-sleuth: Distributed tracing for spring cloud](https://github.com/spring-cloud/spring-cloud-sleuth)
   * [Sleuth 분산 환경 트래킹 With Fuel - Yun Blog | 기술 블로그](https://cheese10yun.github.io/slueth-fuel/)
+* [toolong: A terminal application to view, tail, merge, and search log files (plus JSONL)](https://github.com/Textualize/toolong)
 * [varlog: Scalable distributed log storage for strong consistency, total order, and high availability](https://github.com/kakao/varlog)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
