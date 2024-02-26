@@ -653,6 +653,8 @@ AWS
 * [AWS PrivateLink를 사용하여 Amazon Bedrock 프라이빗 접근 설정하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/)
 * [Amazon Bedrock을 이용한 Amorepacific의 리뷰 요약 서비스의 평가 방법 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amorepacific-review-summarization-with-amazon-bedrock/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
+* [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
+  * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
