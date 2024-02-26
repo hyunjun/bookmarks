@@ -273,6 +273,7 @@ Artificial Intelligence
   * [Introducing Gemini: Google’s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
   * [구글, AI 모델 Gemini 공개 | GeekNews](https://news.hada.io/topic?id=12207)
   * [제미나이 웹 챗봇 만들기 : 주식 정보 검색도 쌉가능](https://fornewchallenge.tistory.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EC%9B%B9-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A3%BC%EC%8B%9D-%EC%A0%95%EB%B3%B4-%EA%B2%80%EC%83%89%EB%8F%84-%EC%8C%89%EA%B0%80%EB%8A%A5)
+  * [Gemini Pro 1.5 일주일 사용후기 - 정말 환상적임 | GeekNews](https://news.hada.io/topic?id=13529)
   * [gemini at main · GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
