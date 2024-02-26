@@ -1253,6 +1253,7 @@ Java
   * Webflux의 코드를 살펴보니 CPU reqeusts가 1일 때 `availableProcessors()`가 컨테이너가 아닌 Node의 CPU를 반환한다는 것을 알게 되어
     * JAVA 옵션으로 `ActiveProcessorCount`를 지정해서 해결
 * [**IMDEV 2023 혼자서도 잘하는 메모리 청소부 쥐씨 - YouTube**](https://www.youtube.com/watch?v=F4lWAWOTXyg)
+* [Java Parallel GC Tuning – yCrash](https://blog.ycrash.io/2023/07/13/java-parallel-gc-tuning/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [GCGC](https://github.com/apple/GCGC)
   * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
@@ -1754,6 +1755,7 @@ Java
 * [Native SQL로 데이터를 조회할 때 Enum 타입의 필터조건이 제대로 작동하지 않는 이슈](https://kim-jong-hyun.tistory.com/152) JPA
 * [JPA @Where 무시하기](https://yeonyeon.tistory.com/314)
 * [JPA에서의 Lock 이해하기 - Google Slides](https://docs.google.com/presentation/d/1615xq5LSv328WWNvfnoaBiYPISI3zW7PhsxDN0JO-YM/edit#slide=id.p)
+* [11 JPA and Hibernate query hints every developer should know](https://thorben-janssen.com/11-jpa-hibernate-query-hints-every-developer-know/)
 * [굴러가는 자동차에 안전하게 타이어 교체하기(w. CMS 기능 개발) | 우아한형제들 기술블로그](https://techblog.woowahan.com/14301/)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
