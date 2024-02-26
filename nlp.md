@@ -1040,6 +1040,7 @@ NLP
 * [프롬프트, 프로그래밍처럼 생각하기 :: BlaCk_Log](https://black7375.tistory.com/97)
 * [practice - 인공지능 프롬프트 활용법 - 쉽고 재미있게 다루기](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#9ee1a0d470c54218a87bba4f257ff285)
 * [practice - LangChain meetup - 프롬프트 흐름](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#44ae73a90515478b8084e46fbf2286a3)
+* [ChatGPT 치트키로 코딩 쉽게하세요 - YouTube](https://www.youtube.com/watch?v=OVBpddAEHuY) SCC Semantic Code Completer
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
