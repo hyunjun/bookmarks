@@ -1581,6 +1581,8 @@ NLP
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante\_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
 * [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
+* [GroqChat](https://groq.com/)
+  * [Groq Labs LPU ( Language Processing Unit ) Chip Insane LLM Inference Speed - YouTube](https://www.youtube.com/watch?v=4Tjeb6Kk1H8)
 * GSLM
   * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445)
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
