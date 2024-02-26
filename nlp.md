@@ -972,6 +972,8 @@ NLP
   * [Rod Rivera on LinkedIn: gpt-crawler - AI library of the day: gpt-crawler by Builder.io crawls… | 22 comments](https://www.linkedin.com/posts/rorcde_gpt-crawler-ai-library-of-the-day-gpt-crawler-activity-7144510534409752576-ygKa)
 * [h2ogpt: Come join the movement to make the world's best open source GPT led by H2O.ai](https://github.com/h2oai/h2ogpt)
   * [100% Offline ChatGPT Alternative? - YouTube](https://www.youtube.com/watch?v=Coj72EzmX20)
+* [Jan is an open source alternative to ChatGPT that runs 100% offline on your computer](https://github.com/janhq/jan/)
+  * [Open-source ChatGPT Alternative | Jan](https://jan.ai/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
   * [HuLiC](https://github.com/smilegate-ai/HuLiC) 사람과 챗봇간의 대화에 대해 모든 턴마다 인간성 평가 점수를 메긴 데이터
