@@ -157,7 +157,8 @@ Monitoring
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
-* [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
+* [loki: Like Prometheus, but for logs](https://github.com/grafana/loki)
+  * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
   * [Realtime Fastly logs with Grafana Loki for under $1 a day | by Alina Frolova | Aug, 2021 | loveholidays tech](https://tech.loveholidays.com/realtime-fastly-logs-with-grafana-loki-for-under-1-a-day-5b63ccf32d66)
   * [How Istio, Tempo, and Loki speed up debugging for microservices | Grafana Labs](https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/)
   * [How To Reduce Costs And Improve Observability With Loki](https://www.activecampaign.com/blog/reducing-costs-and-improving-observability-with-loki)
@@ -165,6 +166,7 @@ Monitoring
     * 프로덕션에 적용할 때는 최적화가 쉽지는 않았지만, 완전히 이전하고 난 뒤에는 이전보다 로그 관련 호스팅 비용을 73% 감소
   * [따끈따끈한 전사 로그 시스템 전환기: ELK Stack에서 Loki로 전환한 이유 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14505/)
   * [**17. 로깅 시스템 구축 – 로키 – 제니퍼소프트**](https://jennifersoft.com/ko/blog/tech/2024-01-17-kubernetes-17/)
+  * [loki logcli 사용법](https://catchv.tistory.com/102)
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
