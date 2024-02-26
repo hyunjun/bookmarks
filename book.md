@@ -559,6 +559,8 @@ Book
   * 탐라 문802-킹57ㅇ2 우당 문802-킹58ㅇ
 * (NOT YET) [일론 머스크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323119574&start=slayer)
   * [놀라운 성과, 높은 이직률.. 일론 머스크 리더십의 양면성 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/muskleadership20231113)
+* (NOT YET) [용Beer천가 : 본격 맥주 교양 원샷툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5309573511)
+  * 제주 573.42-몰838용
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)

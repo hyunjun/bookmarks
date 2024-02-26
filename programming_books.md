@@ -857,6 +857,7 @@ Programming Books
 * (NOT YET) [자동차 소프트웨어 아키텍처 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309216604)
   * 탐라 문005.12-스831ㅈ
 * (NOT YET) [진화적 아키텍처](https://hanbit.co.kr/store/books/look.php?p_code=B6912971816)
+  * 한라 문005.12-포228ㅈ
   * [끊임없이 변하는 환경에 맞춰 소프트웨어 아키텍처는 진화해야 한다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2558087232)
 
 # Artificial Intelligence
@@ -919,6 +920,9 @@ Programming Books
   * [wikibook/pyai: 『만들면서 배우는 나만의 인공지능 서비스』 예제 코드](https://github.com/wikibook/pyai)
 * (NOT YET) [GPT-4, ChatGPT, 라마인덱스, 랭체인을 활용한 인공지능 프로그래밍 | 위키북스](https://wikibook.co.kr/openai-llm/)
   * 제주 005.11-후237지
+* (NOT YET) [만들면서 배우는 생성 AI : 트랜스포머부터 GPT, DALL·E 2, 스테이블 디퓨전, 플라밍고까지 2판 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/gen-dl-2/)
+  * 한라 004.73-포57만
+
 
 # C
 
@@ -988,6 +992,7 @@ Programming Books
   * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
   * [dmc3: Example programs from "Discovering Modern C++" 2nd edition (3rd code update)](https://github.com/petergottschling/dmc3)
 * (NOT YET) ["쉽게 설명한 C++ 핵심 가이드라인"](https://occamsrazr.net/tt/391)
+  * 제주 005.133-그239쉽
 * (NOT YET) [C++ 함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/functional-c)
   * 탐라 문005.133-볼45ㅅ
   * [Hands-On-Functional-Programming-with-Cpp: Hands-On Functional Programming with C++, published by Packt](https://github.com/PacktPublishing/Hands-On-Functional-Programming-with-Cpp)
@@ -2021,6 +2026,8 @@ Programming Books
   * 탐라 문005.133-이94ㅋ 우당 문005.133-이94ㅋ
   * [quant_py: 파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://github.com/hyunyulhenry/quant_py)
   * [파이썬 퀀트 22강 - 포트폴리오 최적화를.. : 네이버블로그](https://blog.naver.com/leebisu/223049696047)
+* (NOT YET) [평균 회귀 트레이딩 전략의 최적 설계 | 에이콘출판사](http://www.acornpub.co.kr/book/reversion-trading)
+  * 탐라 문327.027-렁839ㅍ
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
@@ -2039,6 +2046,7 @@ Programming Books
   * 한라 005.58-윈27ㅍ
 * (NOT YET) [Do it! 깡샘의 플러터&다트 프로그래밍 책의 실습 영상 - YouTube](https://www.youtube.com/playlist?list=PLYlZbv3fX7WvBf2H_dt1RHV1my2pkm6m6)
 * (NOT YET) [초보자도 프로처럼 만드는 플러터 앱 개발 – 디코딩](https://www.decoding.co.kr/product/%ED%94%8C%EB%9F%AC%ED%84%B0%EC%95%B1%EA%B0%9C%EB%B0%9C/)
+  * 한라 005.1-이74ㅊ 제주 005.58-이73플
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
@@ -2132,6 +2140,7 @@ Programming Books
   * 한라 005.133-박58ㅂ
   * [Tanmay-Teaches/golang](https://github.com/tanmay-teaches/golang)
 * (NOT YET) [Go 성능 최적화 가이드 – 디코딩](https://www.decoding.co.kr/product/go%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * 한라 005.133-플295ㄱ
   * [소프트웨어 실행 단계별 최적화 설계 수준 – 디코딩](https://www.decoding.co.kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%ED%96%89-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%84%A4%EA%B3%84-%EC%88%98%EC%A4%80/)
 
 # Hadoop
@@ -2576,6 +2585,8 @@ Programming Books
 * (NOT YET) [자바에서 코틀린으로](https://www.hanbit.co.kr/store/books/look.php?p_code=B8465247545)
 * (NOT YET) [아토믹 코틀린](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312687975)
   * 탐라 문005.133-에823ㅇ
+* (NOT YET) [코틀린으로 배우는 함수형 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2019/12/12/%ec%bd%94%ed%8b%80%eb%a6%b0%ec%9c%bc%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ed%95%a8%ec%88%98%ed%98%95-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d/)
+  * 우당 문005.133-조72ㅋ 제주 005.133-조72코
 * (NOT YET) [코틀린 함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/function-pro-kotlin)
   * 한라 005.133-버36ㅋ
   * [fpinkotlin: Source code listings and exercises for Functional Programming in Kotlin](https://github.com/fpinkotlin/fpinkotlin)
@@ -3858,6 +3869,7 @@ Programming Books
   * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
 * (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
+  * 제주 005.133-베69슬
   * [슬기로운 파이썬 트릭 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/72)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 (개정증보판) - 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](https://wikibook.co.kr/python-for-data-analysis-rev/)
@@ -4398,6 +4410,7 @@ Programming Books
 * (NOT YET) UX 심리학 [유저가 나를 보게 하는 방법. 안녕하세요, 원티드랩 QA팀 김명관 입니다.  2022년 말 즈음 문득… | by Myunggwan_1026 | 원티드랩 기술 블로그 | Apr, 2023 | Medium](https://medium.com/wantedjobs/%EC%9C%A0%EC%A0%80%EA%B0%80-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B2%8C-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-663079b3de46)
   * 탐라 문004.78-에41ㅇ
 * (NOT YET) [사실은 이것도 디자인입니다](https://hanbit.co.kr/store/books/look.php?p_code=B1230440130)
+  * 한라 658.2-김54ㅅ 탐라 문658-김53ㅅ 우당 문658-김53ㅅ
   * [독서광 사실은 이것도 디자인입니다 - YouTube](https://www.youtube.com/watch?v=pbIH-q9eE0c)
 * (NOT YET) [유저 인터뷰 교과서 : 유엑스리뷰](https://uxreview.net/1544103585/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14596088&t=board)
   * 한라 004.78-나65ㅇ
