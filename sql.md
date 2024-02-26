@@ -206,6 +206,7 @@ SQL
 * [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 * [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
 * [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
+* [칼럼 | 개발자가 ‘데이터베이스’를 먼저 감안해야 할 이유 - CIO Korea](https://www.ciokorea.com/news/324526)
 * [영상 : 초보자가 저지르기 쉬운 DB 코딩 실수 3가지 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%98%81%EC%83%81-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%EC%A0%80%EC%A7%80%EB%A5%B4%EA%B8%B0-%EC%89%AC%EC%9A%B4-DB-%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%88%98-3%EA%B0%80%EC%A7%80)
 * [A future for SQL on the web](https://jlongster.com/future-sql-web)
   * [웹용 SQL의 미래 | GeekNews](https://news.hada.io/topic?id=4808)
@@ -860,6 +861,7 @@ SQL
     * Primary를 직접 업그레이드하지 않고 페일오버를 통해 MySQL 8.0 Replica가 Primary로 승격되도록 함
     * 백업이나 비 프로덕션을 위한 MySQL도 모두 업그레이드
     * 롤백할 필요가 없다는 걸 확인 후 5.7 서버 모두 제거
+  * [GitHub Upgrades its MySQL Infrastructure from v5.7 to 8.0 - InfoQ](https://www.infoq.com/news/2024/02/github-mysql-upgrade-v8/)
 * [MySQL Best of 2021](https://blogs.oracle.com/mysql/post/mysql-best-of-2021)
 * [MySQL의 변신…”이제는 분석용 클라우드 DB” - Byline Network](https://byline.network/2022/04/0406/)
 * [MySQL Command Line Interface. 요즘은 세상의 모든 컴퓨터 화면이 그래픽 인터페이스로 바뀐 것 처럼 | by Sunguck Lee | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/mysql-command-line-interface-21de489e7db5)
@@ -879,6 +881,7 @@ SQL
 * [MySQL에 View를 만들 땐 파생 테이블을 주의하자](https://velog.io/@hyemin916/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-View%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%90-%EC%9E%84%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EC%A3%BC%EC%9D%98%ED%95%98%EC%9E%90)
 * [입만 가지고 떠드는 개발자가 ChatGPT에게 외주줘서 만든 Mysql 복제지연 모니터링](https://d2.naver.com/helloworld/8532139)
 * [MySQL 접속 장애 예방 및 해결 방법, How to prevent and solve MySQL connection failure - YouTube](https://www.youtube.com/watch?v=7uvtQwJP5zc)
+* [PlanetScale is bringing vector search and storage to MySQL](https://planetscale.com/blog/planetscale-is-bringing-vector-search-and-storage-to-mysql)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -1168,6 +1171,8 @@ SQL
 * [postgres json 값 가져오기 방법으로 case 절을 리팩토링 해 봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/02/postgres-json-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-case-%EC%A0%88%EC%9D%84-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [PostgreSQL 모든 View 의 접근 기록 테이블에 적재하기 (애플리케이션 변경 없이)](https://jojoldu.tistory.com/742)
 * [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
+* [Postgres is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+  * [PostgreSQL로 충분하다 | GeekNews](https://news.hada.io/topic?id=13231)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1447,6 +1452,8 @@ SQL
 * [sqlite-lines: A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)](https://github.com/asg017/sqlite-lines)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 * [SQL OnLine IDE](https://sqliteonline.com/)
+* [stanchion: A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
+  * [Stanchion - SQLite에 컬럼 기반 테이블을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=13292)
 * [wp-sqlite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
   * [wp-sqlite - SQLite에서 Wordpress 실행하기 | GeekNews](https://news.hada.io/topic?id=6576)
 * [ws4sqlite: Query sqlite via http](https://github.com/proofrock/ws4sqlite)
