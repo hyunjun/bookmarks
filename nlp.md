@@ -1575,6 +1575,7 @@ NLP
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
   * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
   * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor\_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
+* [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
