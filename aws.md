@@ -249,6 +249,7 @@ AWS
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
+* [글로벌 서비스 구축을 위한 AWS 멀티 리전 아키텍처 구성 가이드 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/creating-a-multi-region-application-with-aws-services/)
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
@@ -515,6 +516,7 @@ AWS
 * [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
 * [AWS AI 서비스를 활용한 미디어 자막 성능 개선 및 컨텐츠 현지화 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/contents-subtitle-localization/)
 * [LucidLink와 Leostream으로 PCoIP 원격 영상 편집 시스템 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-pcoip-editing-system-with-lucidlink-and-leostream/)
+* [Cloud-Computing in the Post-Serverless Era: Current Trends and beyond - InfoQ](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1676,6 +1678,9 @@ AWS
 * [Introducing AWS Lambda response streaming | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-aws-lambda-response-streaming/)
 * [AWS RDS PostgreSQL에서 Slow, Error, DDL 쿼리 발생시 Slack 발송하기](https://jojoldu.tistory.com/711) jest cloudwatch
 * [AWS Lambda를 활용한 동적 Redirect Server 구축하기 (Dynamic HTML Serving)](https://jojoldu.tistory.com/724)
+* [Development Best Practices (The Ultimate Guide to AWS Lambda Development Chapter 1) | by George Mao | Jan, 2024 | Medium](https://georgemao.medium.com/development-best-practices-the-ultimate-guide-to-aws-lambda-development-chapter-1-1ba3d3c219b9)
+* [Build & Deploy Tips(The Ultimate Guide to AWS Lambda Development Chapter 2) | by George Mao | Jan, 2024 | Medium](https://georgemao.medium.com/build-deploy-tips-the-ultimate-guide-to-aws-lambda-development-chapter-2-60f7b3c0b0cc)
+* [Optimize Everything + re-optimize (The Ultimate Guide to AWS Lambda Development Chapter 3) | by George Mao | Feb, 2024 | Medium](https://georgemao.medium.com/optimize-everything-re-optimize-the-ultimate-guide-to-aws-lambda-development-chapter-3-ed4ad85761cc)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
@@ -1730,6 +1735,7 @@ AWS
 * [AWS Lambda Nodejs 16.x 지원종료, 18.x 버전업 대응 요약(feat.s3) :: Jay's Code Factory](https://jay-ji.tistory.com/119)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
   * [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
+* [LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications](https://github.com/awslabs/llrt)
 
 ## Lambda Kotlin
 * [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
@@ -2210,6 +2216,7 @@ AWS
 * [Amazon RDS MySQL 블루/그린 배포 환경에서 Amazon Route 53을 활용한 운영환경 읽기 쿼리 분산 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-route53-balancing/)
 * [GUI 환경을 이용하여 안전하게 Amazon RDS 또는 Amazon EC2 DB 인스턴스에 원격 접근하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
 * [Amazon Aurora 및 Amazon RDS의 MySQL 데이터베이스에 대한 Amazon RDS 연장 지원 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-rds-extended-support-for-mysql-databases-on-amazon-aurora-and-amazon-rds/)
+* [Why Postgres RDS didn’t work for us (and why it won’t work for you if you’re implementing a big data solution) | by Max Kremer | Jan, 2024 | Medium](https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
