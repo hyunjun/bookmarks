@@ -5496,6 +5496,7 @@ Javascript
   * [Using Zustand with React JS! 🚀 - DEV Community](https://dev.to/franklin030601/using-zustand-with-react-js-9di)
   * [Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
   * [프론트엔드 상태관리 실전 편 with React Query & Zustand #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=nkXIpGjVxWU)
+  * [Hello Zustand!](https://velog.io/@kangactor123/Hello-Zustand)
 
 ## React TDD Test
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
