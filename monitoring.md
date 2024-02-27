@@ -409,6 +409,7 @@ Monitoring
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
+* [prom2json: A tool to scrape a Prometheus client and dump the result as JSON](https://github.com/prometheus/prom2json)
 * [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
 * [Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
   * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
