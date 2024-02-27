@@ -904,6 +904,9 @@ Web
   * Vercel의 Lee Robinson이 nesting, :has(), 컨테이너 쿼리 등의 크로스 브라우저 지원과 CSS 도구 등에 관한 생각을 정리한 글
   * 이제 최신 CSS 기능이 대부분의 브라우저에서 지원되면서 Sass나 Less 없이도 최신 CSS를 작성할 수 있지만 컴파일러를 사용해서 사용하지 않는 스타일을 줄이고 고유한 파일명을 생성해서 캐싱 가능
   * 동적인 화면을 위해서는 CSS를 스트리밍해야 하는데 이를 위해서 CSS 모듈, Tailwind CSS, StyleX를 사용 가능
+* [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
+* [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
+* :user-invalid [CSS 가상 선택자로 폼 밸리데이션 표시하기 — :invalid 대신 :user-invalid – 형우의 웹개발](https://mytory.net/archives/16110)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
@@ -912,11 +915,9 @@ Web
   * `grid-template-columns`를 `subgrid`로 지정해서 사용하는 서브그리드를 사용하면 부모 그리드의 값을 서브그리드에서 사용 가능해 레이아웃 내에서 콘텐츠 정렬 가능
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
-* [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
 * [Keyframes.app](https://keyframes.app/)
 * [Open Props: sub-atomic styles](https://open-props.style/)
   * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
-* [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
