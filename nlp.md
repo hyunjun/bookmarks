@@ -1526,6 +1526,7 @@ NLP
   * 말투는 물론 공백 차이로도 출력에 큰 영향
   * [Are LLMs Greedy? An Experimental Analysis of the Tipping Prompt ($0 to $1 Million) – Be on the Right Side of Change](https://blog.finxter.com/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis/)
     * 팁을 주면 더 나은 결과를 가져올까 하는 연구도 있는데 이건 큰 효과는 없었음
+* [colab에서 transformers 라이브러리로 LLM 학습시 checkpoint 사용하기](https://webnautes.tistory.com/2279)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
