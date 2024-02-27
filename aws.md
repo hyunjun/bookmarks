@@ -250,7 +250,6 @@ AWS
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
 * [글로벌 서비스 구축을 위한 AWS 멀티 리전 아키텍처 구성 가이드 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/creating-a-multi-region-application-with-aws-services/)
-* [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
 * [Mats Bauer's answer to How much does Netflix pay Amazon Web Services each month? - Quora](https://www.quora.com/How-much-does-Netflix-pay-Amazon-Web-Services-each-month/answer/Mats-Bauer-2)
@@ -971,6 +970,7 @@ AWS
     * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
   * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
 * [FinOps](https://github.com/newstars/FinOps)
+* [Cloud FinOps (feat. OpsNow)](https://brunch.co.kr/@cebi750/17)
 * [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
 * [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
 * [클라우드 서비스 사용량 관리를 통한 운영 비용 최적화. 쿠팡 엔지니어링 조직들의 클라우드 비용을 줄이기 위해 들인 노력과… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Mar, 2023 | Medium](https://medium.com/coupang-engineering/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EB%9F%89-%EA%B4%80%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9A%B4%EC%98%81-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1521565c64ec)
@@ -984,6 +984,7 @@ AWS
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [클라우드 비용 가시화 그렇게 어렵지 않아요! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/cloud-cost-visualization/)
 * [비용 최적화 & AWS Compute Optimizer를 이용한 EC2 Instance Right-sizing | by 백인출Cash(캐쉬) / SRE팀 | Jan, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-aws-compute-optimizer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ec2-instance-right-sizing-91c0ff837222)
+* [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [practice - Cost Optimization Materials](https://www.notion.so/1004/AWS-cost-pattern-7abd82bb86414ea7b2a74693d1d6e619?pvs=4#63e5911794714de0840ffc2c165e7ef5)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
