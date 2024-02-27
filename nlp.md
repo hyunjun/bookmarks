@@ -1825,6 +1825,7 @@ NLP
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+  * [Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM - YouTube](https://www.youtube.com/watch?v=-Rs8-M-xBFI)
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
