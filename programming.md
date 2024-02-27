@@ -6594,6 +6594,7 @@ Programming
 * [A/B 테스트 결과, 이게 맞아? | 요즘IT](https://yozm.wishket.com/magazine/detail/1325/)
   * [The Math Behind A/B Testing with Example Python Code | by Nguyen Ngo | Towards Data Science](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
   * [바로 활용하는 12가지 AB 테스트 사례 | 요즘IT](https://yozm.wishket.com/magazine/detail/897/)
+* [뭔가 결정하기 어렵다면 데이터를 활용하세요 (A/B Test) - YouTube](https://www.youtube.com/watch?v=pDBuCJndY7M)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
