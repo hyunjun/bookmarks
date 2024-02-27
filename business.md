@@ -2362,6 +2362,7 @@ Business
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [Designing a Customer-Centric Business Model - YouTube](https://www.youtube.com/watch?v=L1Km-hJt-uI)
 * [‘비즈니스 모델 캔버스’ 쉽게 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2433/)
+* [Master the Business Model Canvas - YouTube](https://www.youtube.com/watch?v=Snau1uizuW0)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
