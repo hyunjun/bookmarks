@@ -363,6 +363,7 @@ Programming
 * [AWSKRUG 플랫폼엔지니어링 모임에서 발표한 "당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1703)
 * [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
 * [Platform Engineering: What We've Got Wrong | LinkedIn](https://www.linkedin.com/pulse/platform-engineering-what-weve-got-wrong-sarah-polan-qd9fe/)
+* [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
@@ -2327,6 +2328,7 @@ Programming
 * [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
 * [**FEConf 2023 대형 웹 애플리케이션 Micro Frontends 전환기 - Speaker Deck**](https://speakerdeck.com/mmmaxkim/feconf-2023-daehyeong-web-aepeulrikeisyeon-micro-frontends-jeonhwangi)
 * [주도적으로 설계하는 MFA 1탄](https://velog.io/@leehyunho2001/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-MFA-1%ED%83%84)
+* [Micro Frontends: the Evolution of Frontend Architecture - YouTube](https://www.youtube.com/watch?v=W4biNjfmvvI)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
 * [Module Federation의 컨셉과 작동 원리 이해하기](https://maxkim-j.github.io/posts/module-federation-concepts/)
   * 모듈 단위로 배포 후 브라우저 런타임에서 합체시키는 Module Federation 설명
@@ -5821,6 +5823,7 @@ Programming
 * [카카오페이 온라인 결제 서비스 2.5배 성능 개선기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/improve-service-performance/)
 * [달리는 기차의 바퀴 교체하기 1. Planning](https://toss.tech/article/restructuring-planning)
 * [달리는 기차의 바퀴 교체하기 2. Restructuring](https://toss.tech/article/restructuring)
+* [개발자를 잠 못 들게 만드는 코드](https://ebay-korea.tistory.com/103)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
