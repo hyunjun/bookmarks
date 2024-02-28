@@ -1697,9 +1697,6 @@ NLP
     * [#LangChain 이 만든 #LangGraph 출시! LangGraph 의 멀티 에이전트 콜라보레이션 찍먹하기 - YouTube](https://www.youtube.com/watch?v=G8jrAA2bPnA)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
 * [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-* [Langfuse](https://langfuse.com/)
-  * [langfuse: Open source observability and analytics for LLM applications](https://github.com/langfuse/langfuse/)
-  * [🦜🔗 Langchain Integration - Langfuse Blog](https://langfuse.com/blog/langchain-integration)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
@@ -1844,8 +1841,6 @@ NLP
 * [open\_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open\_flamingo)
   * [OpenFlaminKO: Polyglot을 활용한 image-text multimodal](https://github.com/Marker-Inc-Korea/OpenFlaminKO)
     * [OpenFlaminKO - Polyglot-KO를 활용한 한국어 기반 MultiModal 도전기!](https://kyujinpy.tistory.com/100)
-* [openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
-  * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
 * [OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) 실제 애플리케이션에서 LLM의 배포 및 운영을 용이하게 하도록 설계
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
@@ -2017,6 +2012,15 @@ NLP
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
+
+## Language Model LM Observability
+* [Langfuse](https://langfuse.com/)
+  * [langfuse: Open source observability and analytics for LLM applications](https://github.com/langfuse/langfuse/)
+  * [🦜🔗 Langchain Integration - Langfuse Blog](https://langfuse.com/blog/langchain-integration)
+* [helicone](https://github.com/Helicone/helicone)
+  * [Helicone - Open-Source Generative AI Platform for Developers](https://www.helicone.ai/)
+* [openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
+  * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
 
 # LDA Latent Dirichlet Allocation
 
