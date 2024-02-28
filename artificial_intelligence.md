@@ -280,6 +280,7 @@ Artificial Intelligence
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
   * [Gemma LoRA 파인튜닝 빠른실행](https://tykimos.github.io/2024/02/22/gemma_lora_fine_tuning_fast_execute/)
+  * [Getting Started with Gemma Tokenizer including Multilingual Testing](https://tykimos.github.io/2024/02/27/getting_started_with_gemma_tokenizer_including_multilingual_testing/)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [kyutai: open science AI lab](http://kyutai.org/)
