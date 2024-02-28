@@ -1044,7 +1044,10 @@ NLP
 * [practice - LangChain meetup - 프롬프트 흐름](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#44ae73a90515478b8084e46fbf2286a3)
 * [ChatGPT 치트키로 코딩 쉽게하세요 - YouTube](https://www.youtube.com/watch?v=OVBpddAEHuY) SCC Semantic Code Completer
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
-* [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
+* [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+  * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
+  * [Why I'm excited about DSPy](https://www.linkedin.com/pulse/why-im-excited-dspy-stephen-byrne-smkhe/)
+  * [Intro to DSPy: Goodbye Prompting, Hello Programming! | by Leonie Monigatti | Feb, 2024 | Towards Data Science](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
