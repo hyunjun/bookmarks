@@ -398,9 +398,11 @@ C
   * ‘-tsn’ ‘--tab-sizen’
   * `indent -kr -brf -ci2 -cli2 -i2 -l80 -nut` = -brf + [Google c style settings for gnu indent?](http://stackoverflow.com/questions/17079851/google-c-style-settings-for-gnu-indent)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
-  * [infer](http://fbinfer.com/)
+  * [infer](http://fbinfer.com/) Java, C, C++, Objective-C 코드의 버그를 찾아주는 정적 분석 도구
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
+  * [RacerD: Compositional Static Race Detection - Meta Research](https://research.facebook.com/publications/racerd-compositional-static-race-detection/) 동시성 코드에서 발생하는 문제를 해결해주는 도구
+    * [Open-sourcing RacerD: Fast static race detection at scale - Engineering at Meta](https://engineering.fb.com/2017/10/19/android/open-sourcing-racerd-fast-static-race-detection-at-scale/)
 * [jit-tutorial: How to write a very simple JIT compiler](https://github.com/spencertipping/jit-tutorial)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)

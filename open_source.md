@@ -245,6 +245,10 @@ Open Source
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
 * [Buck2 build system website | Buck2](https://buck2.build/)
+  * 메타에서 사용되는 모든 프로그래밍 언어를 지원하는 통합 빌드 시스템
+    * PHP, Javascript, C++ 등 어떤 언어도 쓰더라도 같은 빌드 커맨드로 통일
+  * 수천 개의 빌드 머신과 리모트 캐시를 활용하여 메타의 제품들을 지탱하는 대규모 서버의 빌드를 빠르게 처리
+    * 수천명의 개발자들이 서로 캐쉬를 공유해 더 빠르고 효율적이게 자원 운영
   * [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
     * Facebook에서 새로운 빌드시스템인 Buck2를 오픈소스로 공개, 기존 Buck1보다 2배가 빠르다고 함
     * Buck2의 목표는 Buck1의 핵심 개념과 워크플로우의 장점을 가져가면서 그 이후 Bazel, Adapton, Shake 등 Buck1 이후 생태계에 이뤄진 혁신의 영감을 받고 속도를 높이고 새로운 경험을 제공하는 것
