@@ -1472,6 +1472,7 @@ Deep Learning
 * [LabNotebook - A simple experiment manager for deep learning experiments](https://github.com/henripal/labnotebook)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
+* [Mamba: 트랜스포머에 도전하는 상태 공간 모델 | GeekNews](https://news.hada.io/topic?id=13538)
 * [micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
   * [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
