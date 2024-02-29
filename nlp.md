@@ -1832,6 +1832,8 @@ NLP
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
+  * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
+  * [Mistral Large 모델 공개 | GeekNews](https://news.hada.io/topic?id=13541)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
