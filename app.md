@@ -1393,6 +1393,7 @@ App
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
+* [easy-move-resize: Adds "modifier key + mouse drag" move and resize to OSX](https://github.com/dmarcotte/easy-move-resize)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
 * [FanFan](https://fanfan.rambo.codes/) soothing sound of computer fans
