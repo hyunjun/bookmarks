@@ -1372,6 +1372,7 @@ Web
     * Rust를 선택하고 HTTP 라이브러리는 직접 구축하기로 하고 커넥션 풀을 공유하기 위해 멀티 스레딩 선택
     * Pingora는 TTFB(time-to-first-byte)가 중윗값에서 5ms 줄었고 95 퍼센타일에서 80ms 감소시켰고 새로운 연결도 1/3로 감소
     * [cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 | GeekNews](https://news.hada.io/topic?id=7400)
+  * [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora - Prossimo](https://www.memorysafety.org/blog/introducing-river/)
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
