@@ -190,6 +190,7 @@ Artificial Intelligence
 * [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0) 전반적인 역사 및 흐름
 * [AI 골드러시 시대.. 전통적 비즈니스 역량이 중요한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aigoldrush20280906)
 * [Strong AI: Provably Impossible — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/strong-ai-provably-impossible)
+* [AI가 당신의 직업은 빼앗지 않지만, 당신의 급여는 갉아먹을 것입니다 | GeekNews](https://news.hada.io/topic?id=13557)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
