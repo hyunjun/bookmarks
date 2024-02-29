@@ -1435,6 +1435,7 @@ Docker
 * [토크ON세미나 쿠버네티스 살펴보기 5강 - Docker-Compose(도커 컴포즈) 실습 | T아카데미 - YouTube](https://www.youtube.com/watch?v=mMfyyUbwtBE)
 * [토크ON세미나 쿠버네티스 살펴보기 6강 - Kubernetes(쿠버네티스) 실습 1 | T아카데미 - YouTube](https://www.youtube.com/watch?v=G0-VoHbunks)
 * [토크ON세미나 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미 - YouTube](https://www.youtube.com/watch?v=v6TUgqfV3Fo)
+* [쿠버네티스 / 앱 현대화 테크 세미나 1회 참여 후기](https://lifeoncloud.kr/entry/k8s-and-AppModernization-TechSeminar-1)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
