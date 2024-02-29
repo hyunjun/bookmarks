@@ -2381,6 +2381,7 @@ Java
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 * [테스트 데이터 초기화에 @Transactional 사용하는 것에 대한 생각](https://jojoldu.tistory.com/761)
 * [실전에서 TDD하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/)
+* [자바에서 클래스를 활용한 사용자 정의 타입으로 코드 가독성과 신뢰성 높이기](https://blog.anyjava.net/146)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
