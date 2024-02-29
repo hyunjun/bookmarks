@@ -112,6 +112,7 @@ Concurrency
 * [dietgpu: GPU implementation of a fast generalized ANS (asymmetric numeral system) entropy encoder and decoder, with extensions for lossless compression of numerical and other data types in HPC/ML applications](https://github.com/facebookresearch/dietgpu)
 * [GPU-Puzzles: Solve puzzles. Learn CUDA](https://github.com/srush/GPU-Puzzles)
   * [GPU Puzzles - 퍼즐 풀며 CUDA 배우기 | GeekNews](https://news.hada.io/topic?id=6988)
+* [resource-stream: CUDA related news and material links](https://github.com/cuda-mode/resource-stream)
 * [Rust-CUDA: Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust](https://github.com/Rust-GPU/Rust-CUDA)
 
 # Fiber
