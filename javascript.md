@@ -4624,6 +4624,7 @@ Javascript
 * [Component-Driven Development](https://www.chromatic.com/blog/component-driven-development/)
   * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 * [(번역) 2024 리액트 라이브러리 | Ykss](https://ykss.netlify.app/translation/react_libraries_for_2024/)
+* [React 업데이트 근황과 React 19 소식 | 커리어리](https://careerly.co.kr/comments/99528)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
