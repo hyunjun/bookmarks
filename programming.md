@@ -2074,6 +2074,8 @@ Programming
 * [Empowering Architectural Evolution: Governing Event-Driven Solutions • Sam Dengler • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-Pv_kYflEEg)
 * [Evolving Your Containerized REST Based Microservices to Adapt to EDA • Dhiraj Mahapatro • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=kjZdKa5I-Us)
 * [A Year of Diagnosing Pediatric Cancer with Event Driven Architecture • Grant Lammi • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tpVPgGH4LfE)
+* [From Zero to a Hundred Billion: Building Scalable Real-Time Event Processing at DoorDash - YouTube](https://www.youtube.com/watch?v=u6AjSr58h6g)
+  * decoupling stage, stream processing framework, abstraction, fine-grained failure isolation and scalability
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
