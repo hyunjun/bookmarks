@@ -1507,7 +1507,9 @@ NLP
 * [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
 * [LoRA is a genius idea](https://www.linkedin.com/posts/svpino_lora-is-a-genius-idea-to-understand-the-activity-7156653694069932032-2GO8/)
 * [ReFT: A New Way of Finetuning LLMs 🧠 ♻ ](https://www.linkedin.com/posts/pascalbiese_reft-a-new-way-of-finetuning-llms-activity-7155504535883374592-PjnJ/)
-* [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g) Andrej Karpathy
+*  Andrej Karpathy
+  * [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+  * [Let's build the GPT Tokenizer - YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
