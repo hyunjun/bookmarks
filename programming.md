@@ -1157,6 +1157,13 @@ Programming
 * [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
 * [Let's make a contract: the art of designing a Java API by Mario Fusco - YouTube](https://www.youtube.com/watch?v=RejJukzz8M0) 전반부는 일반적인 API에 대한 부분, 후반부는 Java
 * [더 늘고, 더 중요해진다··· ‘API 거버넌스’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/325107)
+* [API architectural styles](https://www.linkedin.com/posts/omer-hussain-755b54199_happylearning-api-activity-7166357292848738304-QV2K/) REST GraphQL SOAP gRPC WebSockets MQTT
+  * [What Is a REST API? Examples, Uses & Challenges | Postman Blog](https://blog.postman.com/rest-api-examples/)
+  * [What Is GraphQL and How Does It Work? | Postman Blog](https://blog.postman.com/what-is-a-graphql-api-how-does-it-work/)
+  * [What Is a SOAP API and How Does It Work? | Postman Blog](https://blog.postman.com/soap-api-definition/)
+  * [What Is gRPC? | Postman Blog](https://blog.postman.com/what-is-grpc/)
+  * [Examining Use Cases for Asynchronous APIs: Webhooks and WebSockets | Postman Blog](https://blog.postman.com/examining-use-cases-for-asynchronous-apis-webhooks-and-websockets/)
+  * [Home Automation with MQTT | Postman Blog](https://blog.postman.com/home-automation-with-mqtt/)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
