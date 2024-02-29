@@ -705,6 +705,7 @@ NLP
 * [Using reinforcement learning for dynamic planning in open-ended conversations – Google Research Blog](https://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html)
 * [엉터리 대답을 하지 않는 '인공지능 챗봇'을 만드는 방법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aichatbot20230801)
 * [PyCon KR 2023 Chatbot Framework with Python 조성빈 - YouTube](https://www.youtube.com/watch?v=Lt_tbZRUkgo) RASA LangChain
+* [챗봇의 귀여운 말투가 서비스 실패 상황에서 어떤 영향을 미치는가에 대한 논문](https://www.linkedin.com/posts/jiho-park-31a798212_%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A4%ED%8C%A8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%B1%97%EB%B4%87%EC%9D%98-%EA%B7%80%EC%97%AC%EC%9B%80%EC%9D%98-%EC%98%81%ED%96%A5-ugcPost-7168535985914335232-uAW9/)
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
