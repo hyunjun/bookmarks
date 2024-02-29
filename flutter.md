@@ -67,6 +67,7 @@ Flutter
 * [Stateful Widget 생명주기](https://brunch.co.kr/@mystoryg/139)
 * [위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 사용되는 위젯에 관해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/)
 * [라이프사이클 - 이번 블로그 포스트에서는 Flutter에서 위젯의 라이프사이클(lifecycle)에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/lifecycle/)
+* [앱의 라이프사이클 다루기. 플러터를 배우면서 처음 접하는 것은 앱 자체의 생명주기가 아니라 위젯의… | by Cody Yun | Feb, 2024 | Medium](https://medium.com/@cody.yun/flutter-%EC%95%B1%EC%9D%98-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-5a2aafbf7f4e)
 * [Image 위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 이미지를 표시하기 위해 Image 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/image/)
 * [Snackbar 위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 스낵바를 표시하기 위해 Snackbar 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/snackbar/)
 * [Textfield 위젯 - 이번 블로그 포스트에서는 Flutter에서 사용자 입력을 받기 위한 Textfield 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/textfield/)
