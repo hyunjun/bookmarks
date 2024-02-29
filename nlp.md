@@ -3030,6 +3030,14 @@ NLP
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
 * tweepy [민트 초코 논란! 자연어 처리(NLP)로 종결해드림. - YouTube](https://www.youtube.com/watch?v=QTgRNer2epE)
+* [Vapi - Voice AI for developers](https://vapi.ai/)
+  * According to the founder
+    * STT - running DeepGram on-premise. tuned it to run at a lower heartbeat, 100 ms instead of 1 sec
+    * LLMs
+      * running 40 instances of different LLMs across different geographies, load balancing and constantly pinging endpoints to route the requests to the fastest endpoint
+      * response time for GPT-4 is 1.2 seconds, they think it is able to get it down to 1 second soon
+    * TTS - using PlayHT, also run on premise, said PlayHT > ElevenLabs
+    * WebRTC - using Daily.co
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
