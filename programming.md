@@ -3062,6 +3062,9 @@ Programming
     * 동적 환경을 지원하는 워크플로우를 만들 수 있도록 변화가 필요하다고 이야기
   * [practice - Enabling a Cloud Operating Model](https://www.notion.so/1003/Cloud-a4302c6e39144574b224ab42a95dc425?pvs=4#5e7cb1fe0f834cdca3c811d43f54a3ec)
 * [Dr Milan Milanović on X: "Cloud Design Patterns ☁️ These design principles can be used to create dependable, scalable, and secure cloud systems. We can group 𝗖𝗹𝗼𝘂𝗱 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 into three general groups, where each pattern can be applied to any distributed system,… https://t.co/mAwPE2Xayg" / X](https://twitter.com/milan_milanovic/status/1753396613161054405)
+* [**(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup · Jack's home on the web**](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+  * [**스타트업에서 4년간 인프라를 운영하며 좋았던/후회하는 (거의) 모든 인프라 결정들 | GeekNews**](https://news.hada.io/topic?id=13564)
+  * 기술적인 부분만이 아니라 process/culture 측면에서도 좋은 이야기들
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -6532,10 +6535,12 @@ Programming
   * [테스트 자동화 제품은 어떻게 테스트를 할까? - Dogu E2E 테스트 도입기](https://blog.dogutech.io/dogu-e2e-testing-implementation-ko/)
 * [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 * [Pact | Microservices testing made easy](https://pact.io/)
-* [testcontainers](https://github.com/testcontainers)
+* [Testcontainers](https://testcontainers.com/)
+  * [testcontainers](https://github.com/testcontainers)
   * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
   * [VDBUH2023 - Oleg Šelajev - Testing cloud-native applications with ease! - YouTube](https://www.youtube.com/watch?v=3sSRBOhgTK4)
   * [Mastering Testcontainers for Better Integration Tests - YouTube](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
+  * [Testcontainers - 실제 의존성을 가진 단위 테스트 | GeekNews](https://news.hada.io/topic?id=13568)
   * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
     * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
