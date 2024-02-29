@@ -1488,6 +1488,7 @@ Web
   * [Mastering API Testing with FastAPI: Databases, Dependencies, and More! - YouTube](https://www.youtube.com/watch?v=9gC3Ot0LoUQ)
   * [4 Tips for Building a Production-Ready FastAPI Backend - YouTube](https://www.youtube.com/watch?v=XlnmN4BfCxw)
   * [Alexander Hendorf - ✨ FastAPI facts we wish we'd known beforehand. | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=JZFTDCE1plc)
+  * [FastApi - YouTube](https://www.youtube.com/playlist?list=PLEN4AkU3yNudIK-s7ai09F_2ZY2FMf79i)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
