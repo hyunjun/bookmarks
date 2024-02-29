@@ -2234,7 +2234,8 @@ Programming Books
 * (NOT YET) [클라우드 네이티브 인프라스트럭처](http://jhrogue.blogspot.com/2018/09/blog-post.html)
   * [클라우드 네이티브 인프라스트럭처:진정한 클라우드 네이티브 컴퓨팅 시대를 위한 아키텍처 패턴과 설계](https://blog.outsider.ne.kr/1428)
 * (NOT YET) [구글 클라우드 플랫폼 입문 - 웹부터 머신러닝을 이용한 클라우드 애플리케이션까지](https://freelec.co.kr/book/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EC%9E%90/)
-* (NOT YET) [대용량 아키텍처와 성능 튜닝 조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
+* (NOT YET) [대용량 아키텍처와 성능 튜닝 조대협의 서버 사이드](https://freelec.co.kr/book/1749)
+  * 한라 005.12-조23ㄷ 탐라 문005.12-조23ㄷ 우당 문005.12-조222ㄷ
 * (NOT YET) [클라우드 네이티브 패턴 - 변화에 잘 견디는 소프트웨어 개발](http://acornpub.co.kr/book/cloud-native-patterns)
 * (NOT YET) [**Istio in Action :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1574)
 * (NOT YET) [네트워크 이해 및 설계 가이드](https://jpub.tistory.com/1260)
@@ -4392,6 +4393,8 @@ Programming Books
   * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
 * (NOT YET) 프런트엔드 개발자를 위한 테스트 가이드 [프런트엔드 개발자라면 꼭 알아야 할 4가지 오픈소스 테스트 자동화 프레임워크](https://jpub.tistory.com/1428)
   * 탐라 문005.118-킨58ㅍ
+* (NOT YET) [소프트웨어 개발과 테스트 | 프리렉](https://freelec.co.kr/book/1752/)
+  * 한라 005.12-조23ㅅ 탐라 개005.12-조23ㅅ
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
