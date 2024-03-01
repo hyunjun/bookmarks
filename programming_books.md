@@ -235,6 +235,12 @@ Programming Books
 * [보이지 않는 위협](https://hanbit.co.kr/store/books/look.php?p_code=B3101735444)
   * ★★★☆☆ 2023.11.19 cyber security의 전문가가 쓴 보안에 대한 책이지만, 사례 중심으로 읽을 수 있어서 보안 뿐 아니라 일반적인 경영, management에 빗대어 생각하기도 좋은 책이었다
   * 탐라 문004.61-김95ㅂ
+* [결정적 사건으로 배우는 암호학 - 골든래빗](https://goldenrabbit.co.kr/product/%ea%b2%b0%ec%a0%95%ec%a0%81-%ec%82%ac%ea%b1%b4%ec%9c%bc%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ec%95%94%ed%98%b8%ed%95%99/)
+  * ★★★☆☆ 2024.03.01
+  * 탐라 문004.62-윤79ㄱ
+* [노코드/로우코드(No Code, Low Code)](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6361136908)
+  * ★★☆☆☆ 2024.03.01 책이 나쁜 건 아니지만 내가 관심있는 부분과 다름
+  * 한라 005.1-사68ㄴ
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
@@ -3695,6 +3701,11 @@ Programming Books
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
+
+# Programming Language
+* [타입으로 견고하게 다형성으로 유연하게 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/152)
+  * ★★★★☆ 2024.03.01 평소에 잘 이해가 가지 않거나 잘 모르고 넘어갔던 개념, 혹은 좀 더 이론적인 부분까지 언어 자체에 관심있는 사람들에게 매우 좋은 책
+  * 한라 005.13홍73ㅌ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
