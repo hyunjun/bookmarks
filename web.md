@@ -1363,7 +1363,7 @@ Web
 * [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
   * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
-* Pingora
+* [pingora: A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
   * [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
     * Cloudflare에서 Nginx를 수년 동안 잘 사용했지만 Cloudflare가 커짐에 따라 한계를 느껴
       * Rust로 만든 HTTP 프락시 Pingora를 만들어서 하루에 1조 요청을 처리하게 되었고 Nginx 때보다 CPU와 메모리는 이전보다 1/3로 감소
@@ -1373,6 +1373,7 @@ Web
     * Pingora는 TTFB(time-to-first-byte)가 중윗값에서 5ms 줄었고 95 퍼센타일에서 80ms 감소시켰고 새로운 연결도 1/3로 감소
     * [cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 | GeekNews](https://news.hada.io/topic?id=7400)
   * [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora - Prossimo](https://www.memorysafety.org/blog/introducing-river/)
+  * [Pingora - 네트워크 시스템 구축용 오픈소스 Rust 프레임워크 | GeekNews](https://news.hada.io/topic?id=13588)
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
