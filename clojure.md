@@ -438,6 +438,7 @@ Clojure
 * [temporal and action properties](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 * [Clojure visual-tools meeting 17 - various updates - YouTube](https://www.youtube.com/watch?app=desktop&v=OwcoAbsJP8g)
 * [Clojure visual-tools meeting 18 - Mosaic and other updates - YouTube](https://www.youtube.com/watch?app=desktop&v=dUtJ2C4UYqo&ab_channel=SciCloj)
+* [Clojure visual-tools meeting 21: ggplot study session 1 - YouTube](https://www.youtube.com/watch?v=6BYObNV2pxk)
 * [Scicloj LLM Meetup 1: Introduction - YouTube](https://www.youtube.com/watch?v=sap3Z-LpNjY)
 * [Scicloj LLM Meetup 2: Prompt engineering, managing embeddings - YouTube](https://www.youtube.com/watch?v=uhRnCfWSA9Y)
 * [Scicloj LLM Meetup 3: LLMOps with Bosquet - YouTube](https://www.youtube.com/watch?v=NNDThiZqe70)
