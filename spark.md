@@ -429,6 +429,7 @@
 * [Salting: The Secret Ingredient to Optimize Your Apache Spark Workflows | by Sukumaar Mane | Jun, 2023 | Medium](https://medium.com/@sukumaar/salting-the-secret-ingredient-to-optimize-your-apache-spark-workflows-f2544ee2a1ef)
 * [Why Scala Dominates Data Engineering | by Henri Happonen | Sep, 2023 | Medium](https://medium.com/@henrihapponen/why-scala-still-dominates-data-engineering-fd0fd519cf1)
 * [Spark에서 Text data source supports only a single column, and you have 2 columns 에러 메시지 | Popit](https://www.popit.kr/spark%ec%97%90%ec%84%9c-text-data-source-supports-only-a-single-column-and-you-have-2-columns-%ec%97%90%eb%9f%ac-%eb%a9%94%ec%8b%9c%ec%a7%80/)
+* [Data Engineering in the Age of AI: Data Intelligence Platforms - YouTube](https://www.youtube.com/watch?v=ZXQ7LAsjliA)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
