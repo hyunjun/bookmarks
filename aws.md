@@ -2149,6 +2149,8 @@ AWS
 * [IAM을 활용하여 Amazon MSK 주제 접근 제어하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-msk-topic-iam-access-control/)
 * [AWS MSK PART1 — MSK 도입 여정. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part1-msk-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b000cbea5c02)
 * [AWS MSK PART2 — MSK 클러스터를 구축해볼까요? | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part2-msk-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-8722c79d9041)
+* [AWS MSK PART3 — 모니터링을 구축해볼까요?. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part3-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-fe9a7109f4d)
+* [AWS MSK PART4 — 운영은 어떻게 하고 있나요?. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part4-%EC%9A%B4%EC%98%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-56330eb2959e)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
@@ -2564,6 +2566,7 @@ AWS
     * AWS에서 새로운 기능이 나오면 AWS Terraform 프로바이더에서 기능이 추가되어야 Terraform에서 사용할 수 있는데 AWS Cloud Control API를 이용한 Terraform에서 AWS Cloud Control 프로바이더 공개
     * 이 프로바이더는 자동으로 생성되기 때문에, AWS에 새 기능이 나오면 바로 사용 가능
 * [HashiTalks 2024 - YouTube](https://www.youtube.com/watch?v=MxBXwbGVv08)
+* [CloudFront에서 website endpoint 사용](https://jybaek.tistory.com/1019)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
@@ -2677,6 +2680,7 @@ AWS
 * [VPC 트래픽 미러링 – 네트워크 트래픽 캡처 및 검사 기능 출시 (서울 리전 포함) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-vpc-traffic-mirroring/)
   * [http-requests-mirroring](https://github.com/aws-samples/http-requests-mirroring)
 * [VPC 트래픽 미러링 및 Gateway Load Balancer를 사용하여 NETSCOUT APM으로 엔드-투-엔드 가시성 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-end-to-end-visibility-with-netscout-apm-using-traffic-mirroring-and-gateway-load-balancer/)
+* [AWS Network Latency Comparison. Overview | by Cloud Journey | Medium](https://cloudjourney.medium.com/aws-network-latency-comparison-a59fea637524)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
