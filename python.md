@@ -4587,6 +4587,7 @@ Python
   * [Pip constraints files - Blog | luminousmen](https://luminousmen.com/post/pip-constraints-files)
   * [How to Create Python Packages for Sharing Code and Installing with pip - YouTube](https://www.youtube.com/watch?v=fT-3V8t01DE)
   * [Installing Packages With pip: Python Basics - YouTube](https://www.youtube.com/watch?v=4GT8fPvZDv8)
+  * [Installing Packages With pip Practice: Python Basics Exercises - YouTube](https://www.youtube.com/watch?v=f5PO8cXRQCg)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
