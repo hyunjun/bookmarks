@@ -2311,6 +2311,7 @@ Javascript
     * Vercel Edge Functions와 WebAssembly를 사용해서 기존에 제공했던 og-image.vercel.app보다 5배 빨라졌다고 함
     * 기존 방식은 서버리스 함수에서 Chromium을 실행해서 Puppeteer로 HTML 페이지를 스냅숏 찍는 거라 어려웠고 느렸는데
     * 이젠 헤드리스 브라우저 없이 HTML과 CSS를 SVG로 만들 수 있게 되어 쉽고 빠르게 OG 이미지를 생성 가능
+  * [**인프런 콘텐츠에 동적으로 생성되는 Open Graph(OG) 이미지 적용하기**](https://tech.inflab.com/20240219-dynamic-og-image/)
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [OWL: A web framework for structured, dynamic and maintainable applications](https://github.com/odoo/owl)
