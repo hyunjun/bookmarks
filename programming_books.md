@@ -903,6 +903,9 @@ Programming Books
 * [박태웅의 AI 강의](https://zdnet.co.kr/view/?no=20230622161319)
   * ★★★☆☆ 2023.06.22 교양서로 읽기에 정말 적절한 내용 구성과 수준. 금새 읽을 수 있는데도 가볍지 않은 내용들을 포괄하고 있어 정말 좋다
   * 한라 331.5412-박883ㅇ 우당 문331.5412-박832ㅂ
+* [스티븐 울프럼의 챗GPT 강의 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/wolfram-chatgpt/)
+  * ★★★☆☆ 2024.03.01 1장은 지금 와서 보면 다른 책들에 비해 특별한 점이 없다고 생각할 수도 있지만, 이 책이 ChatGPT가 나온 후 3개월만에 집필했다는 점을 생각해보면 인상적이다. 보다 재미있었던 부분은 2장부터 이야기하는 울프럼알파와 ChatGPT의 결합에 대한 내용. 통계적인 접근의 ChatGPT와 기호적인 접근의 WolframAlpha의 결합이 (마케팅적인 부분도 고려했겠지만) 매우 흥미롭고 기대된다는 이야기는 정말 동의가 되는 부분
+  * 우당 문004.73-울848ㅅ
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
