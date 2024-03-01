@@ -6192,6 +6192,9 @@ Programming
 * [The LinkedIn DPH Framework](https://linkedin.github.io/dph-framework/) Developer Productivity and Happiness Framework
 * [생산성 수치심 (Productivity Shame) 에서 벗어나는 방법](https://eopla.net/magazines/10754#) tech 이야기는 아님
 * [Principles of Effective Developers by Sebastian Daschner - YouTube](https://www.youtube.com/watch?v=7GKZhqiAxaI) productivity
+* [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+  * [한글화 프로젝트 7. 생산성은 측정할 수 없다](https://jinson.tistory.com/entry/%ED%95%9C%EA%B8%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%80-%EC%B8%A1%EC%A0%95%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4)
+  * [생산성은 측정할 수 없다](https://brunch.co.kr/@challenger/45)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
