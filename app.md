@@ -1454,6 +1454,8 @@ App
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [Raycast](https://www.raycast.com/)
 * [Rectangle](https://rectangleapp.com/) spectacle 유사
+* [RecurseChat](https://recurse.chat/) Personal AI Chat with Local LLMs
+  * [RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱 | GeekNews](https://news.hada.io/topic?id=13574)
 * [remote-mac-lock: A prototype of remote locking my mac, connected to a wireless access point using a simple HTTP server. | 같은 AP 환경에서 원격으로 Mac 잠금](https://github.com/stevejkang/remote-mac-lock)
 * [Rewind](https://www.rewind.ai/)
   * [해외에서 난리난 맥용 생산성 앱 (ft. 리와인드) - YouTube](https://www.youtube.com/watch?v=-8RyLGR75jU)
@@ -1741,6 +1743,7 @@ App
     * [pov: 슬랙 bolt로 에어플로우 DAG 실행시키기. 안녕하세요 원티드랩 데이터 팀에서 데이터 분석을 하고 있는… | by Jiyoon You | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/pov-%EC%8A%AC%EB%9E%99-bolt%EB%A1%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-dag-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-641ca6398234)
   * [가장 아름다운 배포 자동화, 근데 이제 Slack을 곁들인 | Univdev](https://univdev.page/posts/workflow-slack-notification/) 자동 알림
   * [PyCon KR 2023 Python 월 몇 백원으로 사내 슬랙봇 운영해본 이야기 신희재 - YouTube](https://www.youtube.com/watch?v=9LmDwhH7QzQ)
+  * [파이썬 + 슬랙으로 에러 통계 데일리 요약 받아보기](https://chance-doe.tistory.com/19)
   * [Slack Incoming Webhook URL 확인하는 주소 – 형우의 웹개발](https://mytory.net/archives/15587)
   * [GitLab 밋업으로 알아보는 VSM 기반 DevSecOps와 슬랙봇 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-korea-18-meetup/)
   * scrum poker app
