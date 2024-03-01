@@ -2577,9 +2577,12 @@ Javascript
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
   * [간편한 툴팁 라이브러리 Tippy.js | 웹으로 말하기](https://mytory.net/archives/14763)
-* Tiptap [Dev toolkit for building collaborative editors – Tiptap](https://tiptap.dev/examples/default)
+* [Tiptap - Dev Toolkit Editor Suite](https://tiptap.dev/)
+  * [Dev toolkit for building collaborative editors – Tiptap](https://tiptap.dev/examples/default)
+  * [tiptap: The headless rich text editor framework for web artisans](https://github.com/ueberdosis/tiptap)
   * ProseMirror 기반의 텍스트 에디터. 데모에서 동작 확인 가능
   * 익스텐션을 통해서 에디터의 기능을 추가할 수 있고, 쉽게 익스텐션을 만들 수 있는 도구 제공
+  * [Tiptap Editor - Headless WYSIWG 에디터 | GeekNews](https://news.hada.io/topic?id=13585)
   * [prosemirror: The ProseMirror WYSIWYM editor](https://github.com/ProseMirror/prosemirror)
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
