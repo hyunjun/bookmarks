@@ -5885,6 +5885,7 @@ Programming
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
 * [Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)
 * [노 코드 웹앱 빌더 만다오, 3년의 여정 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=mRuyt-Tc0TQ)
+* [300개 이상의 노코드 AI 툴을 써봤습니다, 이게 최고입니다. - YouTube](https://www.youtube.com/watch?v=ywH7JIK34Tg)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
