@@ -377,6 +377,7 @@ Artificial Intelligence
 * [Egor Romanov - Performance of Vector Databases - YouTube](https://www.youtube.com/watch?v=-MYYB0QjV6I)
 * [A fun and absurd introduction to Vector Databases by Alexander Chatzizacharias - YouTube](https://www.youtube.com/watch?v=7rt2-GkRH80)
 * [Vector search in old and modern databases](https://manticoresearch.com/blog/vector-search-in-databases/)
+* [What Is Vector Similarity Search and How Is It Measured | by Pavan Belagatti | Feb, 2024 | Level Up Coding](https://levelup.gitconnected.com/what-is-vector-similarity-search-and-how-is-it-measured-2938a804607e)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
