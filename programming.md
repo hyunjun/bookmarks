@@ -1806,6 +1806,7 @@ Programming
 * [Alex Xu on X: "Flowchart of how slack decides to send a notification It is a great example of why a simple feature may take much longer to develop than many people think. When we have a great design, users may not notice the complexity because it feels like the feature just working as… https://t.co/PZ5wDCULMX" / X](https://twitter.com/alexxubyte/status/1756359022092153178)
 * [Alex Xu on X: "Top Architectural Styles. The method to download the high-resolution image is available at the end. In software development, architecture plays a crucial role in shaping the structure and behavior of software systems. It provides a blueprint for system design, detailing how… https://t.co/gzNnHyrj7L" / X](https://twitter.com/alexxubyte/status/1753816319030669548)
 * ['대용량아키텍처' 태그의 글 목록](https://alsyean.tistory.com/tag/%EB%8C%80%EC%9A%A9%EB%9F%89%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* [29CM 의 Architecture Manifesto 는 29CM 의 1) 소프트웨어 아키텍처와 2) 팀 운영 원칙이 담겨 있는 문서이다. | 29CM TEAM](https://medium.com/29cm/29cm-architecture-manifesto-82a2d84c9d17)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
