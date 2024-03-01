@@ -921,6 +921,8 @@ Apache
   * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
   * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
   * [Apache Kafka Lag Monitoring and Metrics at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)
+  * [Burrow-modified: Fork version of Kafka Consumer Lag Checking / Modify and Add Some Features](https://github.com/spithainc/Burrow-modified)
+    * [Modified Burrow by SPITHA. SPITHA는 Apache Kafka의 관리, 운영, 모니터링 솔루션인… | by Victor Park | SPITHA Blog | Feb, 2024 | Medium](https://medium.com/spitha-techblog/modified-burrow-by-spitha-481f79c200d1)
   * [kafka-lag-dashboard](https://github.com/AndersonChoi/kafka-lag-dashboard)
   * [kafka-lag-dashboard](https://blog.voidmainvoid.net/279)
 * [Kafka Dashboard | Datadog](https://www.datadoghq.com/dashboards/kafka-dashboard/)
