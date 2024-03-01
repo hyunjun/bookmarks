@@ -172,6 +172,7 @@ iOS
 * [TCA 1.0 - Dependency (ch.05) :: iOYES](https://green1229.tistory.com/448)
 * [TCA 1.0 - Swift의 비동기 처리와 TCA에서의 응용 (ch.06) :: iOYES](https://green1229.tistory.com/449)
 * [TCA 1.0 - MultiStore (ch.07) :: iOYES](https://green1229.tistory.com/450)
+* [TCA 1.0 - Navigation (ch.08) :: iOYES](https://green1229.tistory.com/451)
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 
 # Conference
