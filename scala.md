@@ -278,6 +278,8 @@ Scala
 * [Tracking Side Effects in Scala - Alexandru Nedelcu](https://alexn.org/blog/2022/05/23/tracking-effects-in-scala/)
 * [Fearless Refactoring with Functional Programming | Scala - YouTube](https://www.youtube.com/watch?v=Lp7YNuzWL-Y)
 * [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
+* [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
+* [the holy graal of GitHub Actions · eed3si9n](https://eed3si9n.com/holy-graal-of-gitHub-actions/) GraalVM
 * [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
 * [Fledge over the flow … How to determine a streaming problem](https://medium.com/@hajjijo313/fledge-over-the-flow-66e065b1ddbb) This is a story about a little experience of integrating (Akka-Stream, Alpakka-Kafka, Kafka, Aplakka-Slick, TimescaleDB) — Part 1/3
 * [How to publish a Scala library in GitHub Packages](https://medium.com/@supermanue/how-to-publish-a-scala-library-in-github-bfb0fa39c1e4)
@@ -287,7 +289,6 @@ Scala
 * [Functional Tracing using Scala](https://medium.com/@ayushm4489/functional-tracing-using-scala-dc98b1f2ec5) observability
 * [Lunatech and our commitment to the Scala Center](https://www.linkedin.com/pulse/lunatech-our-commitment-scala-center-antoine-laffez/)
 * [Effect Tracking Is Commercially Worthless](https://degoes.net/articles/no-effect-tracking)
-* [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
 * [Writing an Interpreter From Scratch | Toptal](https://www.toptal.com/scala/writing-an-interpreter)
@@ -573,6 +574,7 @@ Scala
 * [Benchmarking Kafka vs Akka Brokerless Pub/Sub | Lightbend](https://www.lightbend.com/blog/benchmarking-kafka-vs-akka-brokerless-pub-sub)
 * [Akka: Enabling the Cloud to Edge Continuum | Lightbend](https://www.lightbend.com/blog/akka-enabling-the-cloud-to-edge-continuum)
 * [Migrating event sourced Akka application from CockroachDB to AlloyDB | LinkedIn](https://www.linkedin.com/pulse/migrating-event-sourced-akka-application-from-cockroachdb-alloydb-wqgvf/)
+* [What to do with your End Of Life Akka?](https://softwaremill.com/what-to-do-with-your-end-of-life-akka/)
 * [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
@@ -2597,6 +2599,8 @@ Scala
   * [Laminar & Scala.js Full Stack Demo & More · Laminar](https://laminar.dev/blog/2023/11/02/laminar-full-stack-demo)
   * [Harness the power of Web Components with Scala and Laminar | by Antoine Doeraene | Nov, 2023 | Medium](https://antoine-doeraene.medium.com/harness-the-power-of-web-components-with-scala-and-laminar-03d99b461f37)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
+* [scala-js-env-playwright: A JavaScript environment for Scala.js (JSEnv) running playwright](https://github.com/gmkumar2005/scala-js-env-playwright)
+  * [Introducing Playwright-jsEnv for unit testing in scala-js environments | LinkedIn](https://www.linkedin.com/pulse/introducing-playwright-jsenv-unit-testing-scala-js-kiran-kumar-xhnnf/)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 * [scala-webapp-template: A pragmatic skeleton to build web applications in Scala/Scala.js, including user registration, login, admin portal, and, deployments](https://github.com/wiringbits/scala-webapp-template)
 
