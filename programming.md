@@ -4774,6 +4774,8 @@ Programming
   * [🐰 RabbitMQ + Postman으로 Message Queue 테스트하기 - YouTube](https://www.youtube.com/watch?v=z6uqgYhMOJk)
     * [edm-example: Event-Driven Data Management for Microservices](https://github.com/kenu/edm-example)
   * [RabbitMQ 1편 AMQP 이해하기](https://blog.naver.com/pjt3591oo/223363564670)
+  * [RabbitMQ 2편 durability, persistent, exchange type, virtual host](https://blog.naver.com/pjt3591oo/223364420927)
+  * [RabbitMQ 3편 prefetch, ack, noack](https://blog.naver.com/pjt3591oo/223369788255)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
