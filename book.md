@@ -1302,6 +1302,9 @@ Book
   * [난중일기 완역본](https://github.com/hyunjun/bookmarks/blob/master/books/nanjoong_ilgi.md)
   * [난중일기 완역본 - Jun - Medium](https://nymets.medium.com/%EB%82%9C%EC%A4%91%EC%9D%BC%EA%B8%B0-%EC%99%84%EC%97%AD%EB%B3%B8-e0aac7230f82)
   * [난중일기 완역본](https://jh4hj.tistory.com/entry/%EB%82%9C%EC%A4%91%EC%9D%BC%EA%B8%B0-%EC%99%84%EC%97%AD%EB%B3%B8)
+* [한글과 타자기 - 한글 기계화의 기술, 미학, 역사 : 인문교양 - (주)역사비평사](http://yukbi.com/19/12137902)
+  * ★★★★☆ 2024.03.01
+  * 제주 555.72-김832한
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
