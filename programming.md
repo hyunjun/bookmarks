@@ -339,6 +339,19 @@ Programming
     * 플랫폼 엔지니어링은 개발자 셀프서비스를 지원하는 플랫폼 구축
   * SRE는 위기관리를 즐기고 장애 문제 해결을 좋아하는 경향
     * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
+* [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
+* [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
+* [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
+* [고등학교 백엔드 개발자 관점에서 본 제 3회 당근마켓 SRE 밋업 내용과 후기](https://velog.io/@hope0206/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EC%A0%9C-3%ED%9A%8C-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-SRE-%EB%B0%8B%EC%97%85-%EB%82%B4%EC%9A%A9%EA%B3%BC-%ED%9B%84%EA%B8%B0)
+* [SRE Classroom – Google](https://sre.google/classroom/)
+* [Product-Focused Reliability for SRE - Google - Site Reliability Engineering](https://sre.google/resources/practices-and-processes/product-focused-reliability-for-sre/)
+  * 사이트 안정성 엔지니어(SRE)는 보통 서비스의 안정성을 책임지지만 이는 제품의 최종 사용자 경험에는 어느 정도 한계
+  * 이를 개선하기 위해 Google의 SRE가 인프라와 서비스에 집중하는 대신 제품과 최종 사용자의 요구사항 지원에 집중해서 어떻게 해결했는지를 설명한 글
+  * 이를 위해
+    * 엔지니어뿐 아니라 관리자와 디자이너 등 이해관계자 참여 유도
+    * 제품의 목적을 정의해서 우선순위 결정
+    * 제품의 SLO를 측정하기 위해 클라이언트 SLO나 e2e SLO를 도입해서 제품의 SLO를 만들어서 이 신뢰성을 관리
+  * 이 접근 방법은 SRE팀이 사용자와 비즈니스에서 가장 중요한 곳에 자원 집중
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
@@ -365,11 +378,6 @@ Programming
 * [Platform Engineering: What We've Got Wrong | LinkedIn](https://www.linkedin.com/pulse/platform-engineering-what-weve-got-wrong-sarah-polan-qd9fe/)
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
-* [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
-* [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
-* [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
-* [고등학교 백엔드 개발자 관점에서 본 제 3회 당근마켓 SRE 밋업 내용과 후기](https://velog.io/@hope0206/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EC%A0%9C-3%ED%9A%8C-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-SRE-%EB%B0%8B%EC%97%85-%EB%82%B4%EC%9A%A9%EA%B3%BC-%ED%9B%84%EA%B8%B0)
-* [SRE Classroom – Google](https://sre.google/classroom/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
@@ -3804,6 +3812,12 @@ Programming
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
   * [CI/CD 파이프라인 엔진 Dagger :: Outsider's Dev Story](https://blog.outsider.ne.kr/1642)
   * [CI/CD 파이프라인 엔진 Dagger의 Node.js SDK :: Outsider's Dev Story](https://blog.outsider.ne.kr/1646)
+  * [Introducing Dagger Functions - Dagger](https://dagger.io/blog/introducing-dagger-functions)
+    * Dagger Functions 기능이 도입되어 원하는 언어로 기능을 구현하고 이를 다른 언어에서도 불러와서 사용할 수 있는 기능 추가
+    * Dagger는 CI/CD를 위한 블록을 만들 수 있는 프로젝트
+    * CUE에서 프로그래밍 언어로 바뀌면서 재사용면에서는 프로그래밍 언어의 제약이 생겼다고 생각했는데
+      * Dagger Function을 이용해서 언어가 달라도 사용 가능
+      * 현재는 Go, Python, TypeScript의 가이드 제공, 다른 언어의 가이드도 추가 예정
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
@@ -5594,6 +5608,7 @@ Programming
   * [기술 뉴스 #238 : 24-01-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1705)
   * [기술 뉴스 #239 : 24-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1706)
   * [기술 뉴스 #240 : 24-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1708)
+  * [기술 뉴스 #241 : 24-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1710)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -6544,7 +6559,6 @@ Programming
 * [단위 테스트(Unit Testing)에서 단위의 경계는 무엇인가? (feat. 고전파와 런던파) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/unit-testing-london-detroit/)
 * [**테스트 대역(Test Double)로 사용하는 목(Mock)과 스텁(Stub)은 뭐가 다른가 - ohyecloudy’s pnotes**](http://ohyecloudy.com/pnotes/archives/test-double-mock-stub/) Mock = (Mock/Spy), Stub = (Stub/Dummy/Fake)
 * [프로세스 외부 의존성을 가진 데이터베이스는 무조건 목(Mock)으로 대체해야 하는가? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/out-of-process-dependency/)
-* [Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [TDD, 테스트 관련 - YouTube](https://www.youtube.com/playlist?list=PLwouWTPuIjUj_QqgXlFsqjUwyC0-5dZ_q)
 * [Dr Milan Milanović on X: "Unit Testing Best Practices Unit tests are software testing where individual units or components of a software application are tested. Unit testing aims to validate that each software unit performs as designed. Unit tests ensure code quality and ease of… https://t.co/9GrA1gDHby" / X](https://twitter.com/milan_milanovic/status/1757450098445803821)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
@@ -6557,6 +6571,14 @@ Programming
   * [테스트 자동화 제품은 어떻게 테스트를 할까? - Dogu E2E 테스트 도입기](https://blog.dogutech.io/dogu-e2e-testing-implementation-ko/)
 * [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 * [Pact | Microservices testing made easy](https://pact.io/)
+* [safetest](https://github.com/kolodny/safetest)
+  * [Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
+    * Netflix에서 내부에 적용해서 사용하는 프론트엔드 테스트 프레임워크 SafeTest 공개
+    * 기존의 UI 테스트 프레임워크 중
+      * react-testing 라이브러리 같은 단위테스트 도구는 렌더링 대상이나 임포트 등을 제어 가능, 실제 페이지와 상호작용 불가능
+      * Cypress나 Playwright같은 통합테스트 도구는 페이지 제어 가능, 내부 제어 불가능
+    * 이러한 문제를 해결하기 위해 SafeTest 작성, 지연 로딩을 활용해서 페이지에 테스트를 실행하는 코드를 동적으로 로딩하는 것이 주요 아이디어
+      * 이렇게 설정한 뒤에 Playwright를 사용해서 실행하므로 페이지를 테스트할 수 있으면서도 특정 함수나 컴포넌트를 오버라이딩해서 더 쉽게 테스트 가능
 * [Testcontainers](https://testcontainers.com/)
   * [testcontainers](https://github.com/testcontainers)
   * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
