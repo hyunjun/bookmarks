@@ -104,7 +104,13 @@ Monitoring
   * Grafana 10.3에 Span Profile 기능 추가
   * 기존 continuous profiling에서는 고정된 간격으로 시스템 전체에 대한 보기 제공
   * Span Profile에서는 개별 요청을 포함해서 애플리케이션의 특정 실행 범위에 대한 분석 제공
-* [개발-운영 생산성 모니터링하기 (with Devlake, Grafana)](https://tech.inflab.com/20240221-dora-metric-with-devlake/)
+* [개발-운영 생산성 모니터링하기 (with Devlake, Grafana)](https://tech.inflab.com/20240221-dora-metric-with-devlake)
+  * 인프런에서 DORA의 생산성 매트릭인 배포 빈도, 변경 사항이 적용되는 시간, 변경 실패율, 서비스 복원 시간을 측정해서 가시화하기 위해 작업한 내용
+  * 여러 도구를 검토 후 오픈소스인 Devlake를 이용해서
+    * GitHub, Jenkins, Jira를 연동해서 데이터 수집
+    * MySQL에 저장
+    * 이 데이터를 Grafana에 데이터소스로 연결
+    * 대시보드를 통해서 빌드, PR, 커밋, 이슈 등의 통계를 한 번에 볼 수 있게 작성
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
