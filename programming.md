@@ -6915,6 +6915,7 @@ Programming
 * [Two Phonetic Scripts: Vietnamese and Korean - Math in Office](https://devblogs.microsoft.com/math-in-office/two-phonetic-scripts-vietnamese-and-korean)
   * [한국어가 유니코드에 들어간 역사 : 네이버 블로그](https://blog.naver.com/drvoss/222662727953)
 * [이모지와 유니코드 | blog.hoseung.me](https://blog.hoseung.me/2022-08-25-emoji-and-unicode/)
+* [There's No Such Thing As Plain Text • Dylan Beattie • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=ajfb5LSbQVM)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
