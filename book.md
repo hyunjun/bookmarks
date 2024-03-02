@@ -937,7 +937,7 @@ Book
 * (NOT YET) [컨버티드 : 마음을 훔치는 데이터분석의 기술](https://www.linkedin.com/posts/%EA%B8%88%EC%9A%B1-%EC%84%9C-30013b8_%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EB%94%94%EC%A7%80%ED%84%B8%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EA%B3%A0-%EB%82%9C-%EC%9D%B4%ED%9B%84-%ED%8A%B9%EC%A0%95-%EA%B3%A0%EA%B0%9D%EC%9D%84-%ED%83%80%EA%B2%9F%ED%8C%85-%ED%95%A0-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%98%EA%B3%A0-activity-6994475326525382656-7YpG/)
   * 우당 문325.512-호69ㅋ
 
-# Economy
+# Economy, Finance
 * [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
   * 2014.10.10
 * [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
@@ -1017,6 +1017,9 @@ Book
     * 토리텔러, <세상 친절한 경제상식>, 미래의창, 2019
     * 팀 하포드, 김명철 옮김, <경제학 콘서트 1~2>, 웅진지식하우스, 2013
     * EBS 자본주의 제작팀, <EBS 다큐프라임 자본주의> 가나출판사, 2013
+* [만화로 보는 바빌론 부자들의 돈 버는 지혜](https://www.hanbit.co.kr/store/books/look.php?p_code=B8115627505)
+  * ★★★☆☆ 2024.03.02
+  * 탐라 문327.04-클232ㅂ
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [승자의 저주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=975431)
