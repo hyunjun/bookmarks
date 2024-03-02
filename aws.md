@@ -986,7 +986,10 @@ AWS
 * [비용 최적화 & AWS Compute Optimizer를 이용한 EC2 Instance Right-sizing | by 백인출Cash(캐쉬) / SRE팀 | Jan, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-aws-compute-optimizer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ec2-instance-right-sizing-91c0ff837222)
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [practice - Cost Optimization Materials](https://www.notion.so/1004/AWS-cost-pattern-7abd82bb86414ea7b2a74693d1d6e619?pvs=4#63e5911794714de0840ffc2c165e7ef5)
-* [**스타트업 엔지니어의 AWS 비용 최적화 경험기**](https://tech.inflab.com/20240227-finops-for-startup/)
+* [**스타트업 엔지니어의 AWS 비용 최적화 경험기**](https://tech.inflab.com/20240227-finops-for-startup)
+  * 인프런이 AWS 비용을 최적화 하기 위해서 해온 활동을 정리한 글
+  * 각 팀이 비용에 관심을 가지도록 분위기를 만들고 높은 비용부터 분석해서 개선 시작
+  * 스팟 인스턴스, CDN 등을 활용하고 같은 AZ내의 통신을 하도록 개선, 일부 SaaS는 내부 설치형 도구로 바꾸면서 월간 3천만원 이상 절약
 * [Leaders Forum 2023 TVING FinOps와 Datadog이 만나다! - YouTube](https://www.youtube.com/watch?v=qHLxTgACAOs)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
