@@ -2256,6 +2256,7 @@ Programming
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
 * [Saga Pattern with Kafka and NodeJS: simple implementation | by Vladimir Topolev | Geek Culture | Medium](https://medium.com/geekculture/saga-pattern-with-kafka-and-nodejs-simple-implementation-f1be932c9e26)
+* [마이크로서비스에서 서비스 별로 데이터베이스를 분리할 때에는 서비스 간의 독립성과 확장성을 확보할 수 있다는 장점이 있지만, 서비스 전체의 데이터 일관성을 유지하는 것이 어려워진다는 단점도 존재합니다. 오늘은 이러한 이슈를 해결하기 위해 등장한 Saga Pattern 을 | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EA%B0%80-%ED%8C%A8%ED%84%B4-544fc1adf5f3) two phase commit, saga pattern
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 * [**BFF(Backend for Frontend) 란?**](https://metleeha.tistory.com/entry/BFFBackend-for-Frontend-%EB%9E%80)
 * [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
