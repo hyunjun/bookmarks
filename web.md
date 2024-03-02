@@ -1138,6 +1138,11 @@ Web
       * Polyfill.io를 이용하면 `User-agent`를 보고 동적으로 폴리필을 내려줄 수 있음
     * Toss에서는 `core-js`와 `browserslist`를 이용해서 `User-agent`로 폴리필을 만드는 스크립트를 작성, 서버에 넣거나 엣지 함수에 배포해서 운영
   * [레몬베이스가 폴리필을 대하는 방법. 레몬베이스 프론트엔드 챕터의 피트스탑에 관하여 | by Jerome (Jaeuk Yoo) | Jan, 2024 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-%ED%8F%B4%EB%A6%AC%ED%95%84%EC%9D%84-%EB%8C%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-8c9f8c8bddc4)
+  * [Andrew Betts on X: "If your website uses https://t.co/3xHecLPXkB, remove it IMMEDIATELY. I created the polyfill service project but I have never owned the domain name and I have had no influence over its sale." / X](https://twitter.com/triblondon/status/1761852117579427975)
+    * 브라우저 간 동작 차이를 채워주는 polyfill.js를 쉽게 사용할 수 있도록 pollyfill.io에서 서비스로 제공
+      * 이 polyfill.io를 운영하던 사람이 polyfill.io를 Funnull이라는 회사로 이전
+    * polyfill.io 서비스를 만들었던 사람이 공급망 공격을 걱정하며 이제는 polyfill 자체도 그리 필요 없으니 즉시 제거하라고 경고
+    * 이에 Cloudflare는 자사의 CDN에서 이를 제공한다고 빠르게 공지
 * [Polymer Project](https://www.polymer-project.org)
   * [github.com/polymer](https://github.com/polymer)
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
@@ -1375,6 +1380,9 @@ Web
     * [cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 | GeekNews](https://news.hada.io/topic?id=7400)
   * [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora - Prossimo](https://www.memorysafety.org/blog/introducing-river/)
   * [Pingora - 네트워크 시스템 구축용 오픈소스 Rust 프레임워크 | GeekNews](https://news.hada.io/topic?id=13588)
+  * [The Cloudflare Blog](https://blog.cloudflare.com/pingora-open-source)
+    * Cloudflare가 2022년 Nginx를 대체하기 위해 Rust로 작성한 HTTP 프록시 서버 Pingora를 오픈소스로 공개
+    * Pingora는 HTTP/1, HPTT/2, gRPC, WebSocket 프록시를 지원하고 Pingora 기반으로 서비스를 구축할 수 있는 라이브러리와 API도 제공
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
