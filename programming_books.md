@@ -356,6 +356,7 @@ Programming Books
 * (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 * (NOT YET) [게임이 세상을 바꾸는 방법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314582701)
+  * 한라 691.15-맥15ㄱ 우당 문691.15-맥15ㄱ
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 웹의 기초 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/21/Basic-of-Web.html)
 * (NOT YET) [제로 트러스트 구글 엔지니어는 아무도 믿지 않는다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1674)
 * (NOT YET) [리얼월드 암호학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308428577)
@@ -736,7 +737,7 @@ Programming Books
 # Architecture
 
 * **마이크로서비스 아키텍처 구축**
-  * 한라 005.12 뉴34ㅁ
+  * 한라 005.12 뉴34ㅁ 우당 문005.12-뉴33ㅁ
   * ★★★★☆ 예제 코드는 없지만, 마이크로서비스의 기초적인 부분에 대해서 사례와 함께 자세히 설명
   * [마이크로서비스 아키텍처 구축](https://brunch.co.kr/@insuk/30)
   * p29, 얼마나 작아야 하는 것인가? 충분히 작아서 더 이상 작아질 수 없는 크기
@@ -757,6 +758,7 @@ Programming Books
     * 그렇다면 transaction 처리는? 2단계 commit같은 분산 transaction, 나중에 재시도하기, 전체 작업 중지하기 등...
   * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
   * [책 마이크로서비스 아키텍처 구축](https://jybaek.tistory.com/936)
+  * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
 * [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
   * [<마이크로서비스 도입, 이렇게 한다> 도서 증정 이벤트](https://jhrogue.blogspot.com/2021/01/blog-post_28.html)
   * [**마이크로서비스 도입 이렇게 한다 | Popit**](https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%8f%84%ec%9e%85-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%9c%eb%8b%a4/)
@@ -817,13 +819,16 @@ Programming Books
 * (NOT YET) 그림으로 공부하는 마이크로서비스 구조 [기술적 부채, monolith vs. 마이크로서비스](https://jpub.tistory.com/1300?category=203154)
   * 탐라 문005.12-다237ㄱ
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
-  * 탐라 문005.133-퍼59ㅍ
+  * 한라 004.21-쉬62ㄷ 탐라 문005.133-퍼59ㅍ
   * [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
+  * 탐라 문005.12-쉬61ㄷ
   * [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
   * [국제은행간통신협회(SWIFT) 결제망 아키텍처 | GeekNews](https://news.hada.io/topic?id=6090)
+* (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초 2》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/12/21/%e3%80%8a%ea%b0%80%ec%83%81-%eb%a9%b4%ec%a0%91-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a4%ea%b3%84-%ea%b8%b0%ec%b4%88-2/)
+  * 우당 문005.12-쉬61ㄷ
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * 한라 005.58-홈44ㅋ 탐라 문005.58-홈43ㅋ
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
@@ -2075,6 +2080,9 @@ Programming Books
   * 한라 005.58-이54풀 탐라 문005.58-이53ㄷ 제주 005.58-이53풀
 * (NOT YET) [플러터 앱 프로그래밍 | 프리렉](https://freelec.co.kr/book/%ed%94%8c%eb%9f%ac%ed%84%b0-%ec%95%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d/)
   * 탐라 문005.58-서14ㄱ 제주 005.58-서14플
+* (NOT YET) [코드팩토리의 플러터 프로그래밍 2판 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-codefactory-flutter/)
+  * 우당 문005.11-최79ㅋ
+  * [코드팩토리](https://github.com/codefactory-co)
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
@@ -2469,6 +2477,12 @@ Programming Books
   * [graphql-book-fullstack-project: "GraphQL과 타입스크립트로 개발하는 웹 서비스" 도서의 예제 코드 저장소](https://github.com/hwasurr/graphql-book-fullstack-project)
   * [GraphQL-Study: GraphQL을 공부하고, 실습한 코드에요 😀](https://github.com/junyharang-coding-study/GraphQL-Study)
 * (NOT YET) [나는 네이버 프런트엔드 개발자입니다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/01/05/I-am-NAVER-Front-End-Developer.html)
+* (NOT YET) [스벨트 앤 새퍼 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B1047091568)
+  * 제주 005.118-볼828스
+* (NOT YET) [가장 빨리 만나는 스벨트 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003290&keyword=%EA%B0%80%EC%9E%A5%20%EB%B9%A8%EB%A6%AC%20%EB%A7%8C%EB%82%98%EB%8A%94%20%EC%8A%A4%EB%B2%A8%ED%8A%B8&collection=GB_BOOK)
+  * 탐라 문005.118-박58ㄱ 제주 005.118-박58가
+* (NOT YET) [책정보, 타입스크립트 교과서 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003819&keyword=%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B5%90%EA%B3%BC%EC%84%9C&collection=GB_BOOK)
+  * 제주 005.138-조94타
 
 ## Angular
 
@@ -2624,6 +2638,9 @@ Programming Books
 * (NOT YET) [코틀린 디자인 패턴 2/e | 에이콘출판사](http://acornpub.co.kr/book/kotlin-design-patterns-2e)
   * 한라 005.133-소58ㅋ
   * [Kotlin-Design-Patterns-and-Best-Practices: Kotlin Design Patterns and Best Practices - Second Edition, published by Packt](https://github.com/PacktPublishing/Kotlin-Design-Patterns-and-Best-Practices)
+* (NOT YET) [《코틀린 코루틴》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/10/25/%e3%80%8a%ec%bd%94%ed%8b%80%eb%a6%b0-%ec%bd%94%eb%a3%a8%ed%8b%b4%e3%80%8b/)
+  * 우당 문005.133-모58ㅋ
+  * [MarcinMoskala/coroutines_sources](https://github.com/MarcinMoskala/coroutines_sources)
 
 # Linux
 
@@ -3141,6 +3158,8 @@ Programming Books
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
   * 한라 325.24-클294ㅇ
+* (NOT YET) [안녕하세요, 오늘부터 매니저입니다 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003912)
+  * 한라 325.2-라57ㅇ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -3614,7 +3633,14 @@ Programming Books
   * [프로덕트 매니저 원칙](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9B%90%EC%B9%99)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
+  * 한라 005.1-맥17ㅍ
   * [프로페셔널 제품관리자 - YouTube](https://www.youtube.com/playlist?list=PLBNdLLaRx_rJY-EZOFHH3v9GyAvYAvKHi)
+* (NOT YET) [해결할 프로덕트 도서 리뷰 - 고객과 가까워지기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/books/%ED%95%B4%EA%B2%B0%ED%95%A0-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0---%EA%B3%A0%EA%B0%9D%EA%B3%BC-%EA%B0%80%EA%B9%8C%EC%9B%8C%EC%A7%80%EA%B8%B0/)
+  * 탐라 문325.512-가238ㅎ 우당 문325.512-가238ㅎ
+* (NOT YET) [프로덕트 매니지먼트의 기술](https://hanbit.co.kr/store/books/look.php?p_code=B5712658698)
+  * 탐라 문325.6-르33ㅍ 우당 문325.6-르33ㅍ
+* (NOT YET) [프로덕트](https://hanbit.co.kr/store/books/look.php?p_code=B5541477407)
+  * 한라 005.118-홍54ㅍ
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
@@ -3710,6 +3736,13 @@ Programming Books
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
+* (NOT YET) [컴퓨터 vs 책: 독서광 개발자로 첫 출근했어요](https://jhrogue.blogspot.com/2023/12/blog-post.html)
+  * 우당 문004-김53ㄱ
+  * [개발자로 처음 출근합니다, 독일 개발자 블로그 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=sh_kim_0926&from=postList&categoryNo=1&parentCategoryNo=1)
+* (NOT YET) [시작하는 개발자들을 위한 기술 여행 가이드](https://jaeyo.github.io/tech-travel-guide/)
+  * 한라 005.104-이73ㄱ
+* (NOT YET) 크리에이티브 프로그래머 [창의적인 프로그래머가 되는 법: 더 창의적이 되기 위한 로드맵 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1452860666)
+  * 한라 005.1-흐296ㅋ
 
 # Programming Language
 * [타입으로 견고하게 다형성으로 유연하게 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/152)
