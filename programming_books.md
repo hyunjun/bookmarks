@@ -241,6 +241,11 @@ Programming Books
 * [노코드/로우코드(No Code, Low Code)](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6361136908)
   * ★★☆☆☆ 2024.03.01 책이 나쁜 건 아니지만 내가 관심있는 부분과 다름
   * 한라 005.1-사68ㄴ
+  * [노코드/로우코드](https://1003.notion.site/146bdddb876c4e4b9b1fc2d3e60cdd69)
+  * [노코드/로우코드](https://github.com/hyunjun/bookmarks/blob/master/programming_books/nocode_lowcode.md)
+  * [노코드/로우코드 - Jun - Medium](https://nymets.medium.com/%EB%85%B8%EC%BD%94%EB%93%9C-%EB%A1%9C%EC%9A%B0%EC%BD%94%EB%93%9C-ed03192b6421)
+  * [노코드/로우코드 - Jun’s Substack](https://recur.substack.com/p/67e)
+  * [노코드/로우코드](https://jh4hj.tistory.com/entry/%EB%85%B8%EC%BD%94%EB%93%9C%EB%A1%9C%EC%9A%B0%EC%BD%94%EB%93%9C)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)

@@ -5905,6 +5905,7 @@ Programming
   * [버블 제작 프로덕트 아카이빙](https://wooden-temple-2b2.notion.site/fcf109d580b344d98103b33da9c15470)
   * [개발자도 알면 좋은 노코드 툴, 버블(Bubble)](https://velog.io/@tosspayments/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%85%B8%EC%BD%94%EB%93%9C-%ED%88%B4-%EB%B2%84%EB%B8%94Bubble)
   * [노코드로 결제 연동하기](https://velog.io/@tosspayments/%EB%85%B8%EC%BD%94%EB%93%9C-%ED%88%B4-%EB%B2%84%EB%B8%94Bubble%EC%97%90%EC%84%9C-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+  * [Accelerate your Bubble Development | Atomic Fusion](https://atomicfusion.io/)
 * [코드앤버터 - 팝업을 쉽고 빠르게! 웹사이트를 꾸미는 가장 쉬운 방법](https://www.codenbutter.com/)
   * [코드앤버터로 프로덕션 환경에서 우아하게 팝업 관리하기 — 생존과 성장 사이](https://blog.haenu.com/11)
     * 웹사이트에는 팝업이 필요한 경우가 있는데 단순하지만 어느정도 기능 구현에 시간을 써야하고 PO/PM이 직접 관리하게 하려면 더 많은 개발이 필요했기에
@@ -5921,8 +5922,12 @@ Programming
   * [Make - 노코드 자동화 도구 | GeekNews](https://news.hada.io/topic?id=6101)
 * Makerpad [Build your ideas, no coding required | Makerpad](https://www.makerpad.co/)
 * [Nebo | Disquiet\*](https://disquiet.io/product/nebo) 리액티, 개츠비, 부트스트랩을 노코드로 개발하게 해줄 수 있는 툴
+* [No Code](https://www.reddit.com/r/nocode/)
 * [NOCODECORE](https://nocodecore.com/)
+* [Nocode Essentials](https://nocodeessentials.com/)
 * [NoCode Journal - State Of NoCode](https://www.nocodejournal.com/state-of-nocode)
+* [No Code MBA - Courses and tutorials to learn nocode](https://www.nocode.mba/)
+* [No-Code Resources](https://resisted-pint-b05.notion.site/No-Code-Resources-1c9a074f65f2419292558a7023cd97ef)
 * numble [IT Open Innovation Platform, ‘NUMBLE’](https://www.numble.it/) IT 사람들의 프로젝트 기반 챌린지 커뮤니티
 * [Oopy. 우피 | Disquiet\*](https://disquiet.io/product/oopy.-%EC%9A%B0%ED%94%BC) 노션을 이용한 노코드 웹페이지 빌더
 * [openblocks: 🔥 🔥 🔥 The Open Source Retool Alternative](https://github.com/openblocks-dev/openblocks)
