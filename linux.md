@@ -1204,7 +1204,9 @@ Linux
 * [eBPF: Unlocking the Kernel 공식 다큐멘터리, 30분 | GeekNews](https://news.hada.io/topic?id=11850)
 * [From Monitoring to Observability: eBPF Chaos - YouTube](https://www.youtube.com/watch?v=j81OlsF6-uo)
 * [bpftop: bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program](https://github.com/Netflix/bpftop)
-  * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
+  * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5/)
+    * Netflix가 eBPF 프로그램의 성능 최적화와 모니터링을 쉽게 할 수 있게 하는 bpftop CLI를 오픈소스로 공개
+    * bpftop으로 실행중인 eBPF 프로그램의 성능 통계를 실시간으로 볼 수 있고 bpftop을 사용 중일 때만 활성화되므로 오버헤드도 최소화
 * [ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/microsoft/ebpf-for-windows)
   * [eBPF on Windows | GeekNews](https://news.hada.io/topic?id=4240)
 * [ebpfsnitch: Linux Application Level Firewall based on eBPF and NFQUEUE.](https://github.com/harporoeder/ebpfsnitch)
@@ -1532,6 +1534,7 @@ Linux
   * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
   * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
 * [Zellij](https://zellij.dev/)
+  * [zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
 
 ## Tmux command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
