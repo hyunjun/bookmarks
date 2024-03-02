@@ -595,6 +595,10 @@ Git
 * [실무에서 사용했던 git 정리](https://phrygia.github.io/git/2023-03-03-git/) remote branch rebase cherry-pick reset 등
 * [앗! 모르고 깃헙(GitHub)에 올렸어요!. 깃 내부 작동 방식과 함께 살펴보는 revert, reset 명령어… | by weekwith.me | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%95%97-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EA%B9%83%ED%97%99-github-%EC%97%90-%EC%98%AC%EB%A0%B8%EC%96%B4%EC%9A%94-50d48b343f0f) reset revert gitguardian
 * [자주 사용하는 용어와 커맨드를 제대로 알아보자](https://velog.io/@skyu_dev/Git-Git-GitHub-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-add-commit-push-%EB%A1%9C%EB%B4%87%EC%97%90%EC%84%9C-%EB%B2%97%EC%96%B4%EB%82%98%EA%B8%B0)
+* [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+  * Git에서 설정하면 좋을 설정 정리한 글
+  * pull 할 때 어떻게 동작할지, 컨플릭트시 보여주는 방식, autosquash 설정, push할 브랜치 설정등
+    * 많은 사람들이 기본적으로 설정해서 사용하는 옵션들이 어떤 기능을 제공하는지 정리
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -931,6 +935,10 @@ Git
   * [conflict(충돌) 어디까지 알고있니?](https://blog.naver.com/pjt3591oo/222573686917)
   * [git conflict - 알면 기능, 모르면 사고 - YouTube](https://www.youtube.com/watch?v=wVUnsTsRQ3g)
   * [git merge conflict가 발생하면 어떻게 하고 계시나요?](https://codeac.tistory.com/142)
+  * [Better Git Conflicts with zdiff3](https://ductile.systems/zdiff3/)
+    * Git에서 컨플릭트가 발생했을 때 두 브랜치의 차이점이 파일에 표시
+      * 설정에서 `diff3`를 사용하면 원래 어떻게 되었는지 3개의 차이를 모두 보여주어서 수정하기가 훨씬 용이
+      * Git 2.35에서 추가된 `zdiff3`를 사용하면 공통 조상에서 충돌된 부분을 더 정확하게 표시
   * [**GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기**](https://meetup.toast.com/posts/122)
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
