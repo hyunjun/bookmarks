@@ -2074,6 +2074,12 @@ Javascript
 * [JSDoc으로 Javascript 문서를 좀 더 친절하게 만들어보자 | Univdev](https://www.univdev.page/posts/about-jsdoc/)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
+* [JSR: the JavaScript Registry](https://jsr.io/)
+  * [JSR: What We Know So Far About Deno’s New JavaScript Package Registry - Socket](https://socket.dev/blog/jsr-new-javascript-package-registry)
+    * Deno 팀에서 만든 패키지 레지스트리
+    * Deno 팀에서는 npm을 고려했지만 Deno 환경과는 맞지 않는 부분 존재
+      * ESModules가 도입된 상황에서 npm 레지스트리말고 새로운 개발자 경험을 줄 새로운 중앙 패키지 레지스트리 구축 필요
+    * 개발자들은 TypeScript를 제대로 지원을 하는 점에서 매력적이라는 의견과 반드시 모듈을 발행하려면 Deno 사용 필요 및 생태계 분열 우려
 * [jszip: Create, read and edit .zip files with Javascript](https://github.com/Stuk/jszip)
   * [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
   * [JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리 | GeekNews](https://news.hada.io/topic?id=4815)
@@ -2311,7 +2317,11 @@ Javascript
     * Vercel Edge Functions와 WebAssembly를 사용해서 기존에 제공했던 og-image.vercel.app보다 5배 빨라졌다고 함
     * 기존 방식은 서버리스 함수에서 Chromium을 실행해서 Puppeteer로 HTML 페이지를 스냅숏 찍는 거라 어려웠고 느렸는데
     * 이젠 헤드리스 브라우저 없이 HTML과 CSS를 SVG로 만들 수 있게 되어 쉽고 빠르게 OG 이미지를 생성 가능
-  * [**인프런 콘텐츠에 동적으로 생성되는 Open Graph(OG) 이미지 적용하기**](https://tech.inflab.com/20240219-dynamic-og-image/)
+  * [**인프런 콘텐츠에 동적으로 생성되는 Open Graph(OG) 이미지 적용하기**](https://tech.inflab.com/20240219-dynamic-og-image)
+    * 인프런에서 콘텐츠를 외부에 공유할 때 OG 이미지를 콘텐츠에 맞게 동적으로 생성해 주기 위해 작업한 결과를 정리한 글
+    * Vercel이 만든 og를 사용하고 CDN을 연결해서 기능을 구현했지만, 서버 쪽 성능은 좋지 않음
+    * og 라이브러리 대신 그 내부에서 사용하는 satori를 직접 사용하면서 병목이 되는 부분을 개선, satori에 성능 개선 제안
+      * 최초 이미지 생성 성능을 35배나 개선
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [OWL: A web framework for structured, dynamic and maintainable applications](https://github.com/odoo/owl)
@@ -4629,6 +4639,18 @@ Javascript
   * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 * [(번역) 2024 리액트 라이브러리 | Ykss](https://ykss.netlify.app/translation/react_libraries_for_2024/)
 * [React 업데이트 근황과 React 19 소식 | 커리어리](https://careerly.co.kr/comments/99528)
+* [React Labs: What We've Been Working On – February 2024 – React](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+  * React에서 연구 개발 중인 프로젝트의 진행상황 정리
+  * 상태 변경으로 종종 너무 많은 렌더링이 일어나는 문제를 그동안 `useMemo`, `useCallback`, `memo`등 수동 메모이제이션을 사용해 해결
+    * 합리적인 타협점이지만 이 문제를 해결하기 위해 React를 위한 최적화 컴파일러를 구축하는 것이 React Compiler
+    * 그동안 리서치 프로젝트였지만 이미 instagram.com에서 사용 중, Meta에 더 적용한 후 첫 릴리스를 오픈소스로 공개하기 위해 준비 중
+  * Server Actions는 클라이언트에서 서버로 데이터를 보내는 방법
+    * 개발 중 이 API를 클라이언트에서만도 사용할 수 있도록 API를 확장해서 이러한 기능을 Actions라고 명명
+  * 이전에는 Meta 내부에서 개발하고 안정 버전만 공개, React Canary의 도입으로 개발 중인 새로운 기능도 커뮤니티에서 미리 확인 가능
+    * Directives, Document Metadata, Asset Loading, Actions 같은 기능도 모두 react.dev 문서에 추가
+  * 오랜 작업으로 릴리스할 준비가 되었고 Document Metadata, Asset Loading은 일부 앱에는 큰 변화가 되므로 다음 버전은 React 19가 될 예정
+  * 화면에서 보이지 않는 부분에 적용되기 때문에 Offscreen라는 이름으로 개발 중이던 기능
+    * 개발하면서 화면에 보이면서도 비활성 상태일 수 있다는 것을 알게 되어 이름을 Activity로 변경
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4895,6 +4917,9 @@ Javascript
 * [React Native 앱 아이콘 변경하기 | miryang.dev](https://miryang.dev/note/react-native/app-icon)
 * [react-native 보안과 환경변수에 관하여(1)](https://velog.io/@chltjdrhd777/react-native-%EB%B3%B4%EC%95%88%EA%B3%BC-env%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
 * [react-native 보안과 환경변수에 관하여(2) - 개인모듈 만들어 배포해보기](https://velog.io/@chltjdrhd777/react-native-%EB%B3%B4%EC%95%88%EA%B3%BC-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC2-%EA%B0%9C%EC%9D%B8%EB%AA%A8%EB%93%88-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0)
+* [React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+  * 뉴스레터 서비스인 뉴닉의 React Native 앱에서 접근성을 개선한 내용을 정리한 글
+  * 다크모드를 지원하고 기능을 말로 설명해 주는 보이스오버나 톡백 기능을 구현하고 가로 모드 지원과 폰트 크기를 다양하게 지원할 수 있도록 개선
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
