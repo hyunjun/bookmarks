@@ -905,6 +905,7 @@ Web
   * 이제 최신 CSS 기능이 대부분의 브라우저에서 지원되면서 Sass나 Less 없이도 최신 CSS를 작성할 수 있지만 컴파일러를 사용해서 사용하지 않는 스타일을 줄이고 고유한 파일명을 생성해서 캐싱 가능
   * 동적인 화면을 위해서는 CSS를 스트리밍해야 하는데 이를 위해서 CSS 모듈, Tailwind CSS, StyleX를 사용 가능
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
+  * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * :user-invalid [CSS 가상 선택자로 폼 밸리데이션 표시하기 — :invalid 대신 :user-invalid – 형우의 웹개발](https://mytory.net/archives/16110)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
