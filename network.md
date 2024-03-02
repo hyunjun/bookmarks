@@ -313,6 +313,11 @@ Network
 * [Let's Encrypt](https://letsencrypt.org/)
   * [Traefik 인증서 수동으로 갱신하기 · 감자도스](https://blog.potados.com/dev/traefik-force-renew-certificate/)
   * [SSL 인증서 발급](https://docsify.sokuricat.com/b1tk3y/1843/#/936)
+  * [세계 최초로 cert-manager 버그를 발견하고 해결하기](https://tech.devsisters.com/posts/finding-and-fixing-cert-manager-bug/)
+    * Let's Encrypt 인증서를 사용하던 중 연결에 문제가 생긴걸 발견하고 원인을 추적해서 해결한 과정
+    * Let's Encrypt에는 지금은 만료된 `DST Root CA X3` 루트 인증서와 새로운 `ISRG Root X1` 루트 인증서 존재
+    * 설정에서 `ISRG Root X1`를 사용하게 했음에도 `DST Root CA X3`가 내려오는 상황
+    * Let's Encrypt가 Trust CA가 되기 전에 `DST Root CA X3`를 사용한 과거가 있고 이를 deprecte 한 뒤 cert-manager에서 버그가 발생하는 조건이 충족되어 문제 발생
 * [Qualys SSL Labs](https://www.ssllabs.com/)
 * [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
 * [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
