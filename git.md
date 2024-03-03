@@ -599,6 +599,8 @@ Git
   * Git에서 설정하면 좋을 설정 정리한 글
   * pull 할 때 어떻게 동작할지, 컨플릭트시 보여주는 방식, autosquash 설정, push할 브랜치 설정등
     * 많은 사람들이 기본적으로 설정해서 사용하는 옵션들이 어떤 기능을 제공하는지 정리
+  * [인기 있는 Git 설정 옵션들 | GeekNews](https://news.hada.io/topic?id=13405)
+* [mistakes.md](https://gist.github.com/jvns/f7d2db163298423751a9d1a823d7c7c1)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
