@@ -668,6 +668,7 @@ Web
 * [Scrape Table from a Website using Python - YouTube](https://www.youtube.com/watch?v=E_EVZsSK2I8)
 * [How to Collect Amazon.com Data Using Python | Python in Plain English](https://python.plainenglish.io/how-to-collect-amazon-com-data-using-python-a30d3ea33fda)
 * [Modern Web Scraping with Python - YouTube](https://www.youtube.com/playlist?list=PLRzwgpycm-Fio7EyivRKOBN4D3tfQ_rpu)
+* [파이썬에서의 웹 스크래핑 - 완벽 가이드 | GeekNews](https://news.hada.io/topic?id=13458)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
@@ -1537,6 +1538,8 @@ Web
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * [Lumi is an nano framework to convert your python functions into a REST API without any extra headache](https://github.com/Tanmoy741127/lumi)
   * [Lumi - 파이썬 함수를 REST API로 변환하는 초소형 프레임워크 | GeekNews](https://news.hada.io/topic?id=7945)
+* [microdot: The impossibly small web framework for Python and MicroPython](https://github.com/miguelgrinberg/microdot)
+  * [Microdot: Yet Another Python Web Framework - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
@@ -1562,6 +1565,7 @@ Web
   * [PyScript](https://paullabworkspace.notion.site/PyScript-537f89da75654273822767f9767c66fe)
   * [웹브라우저로 python 실행하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163882)
   * [Chris Laffra - PyScript - Python in the browser - YouTube](https://www.youtube.com/watch?v=5nseG-iU62g)
+* [Mountaineer is a batteries-included web framework for Python and React](https://github.com/piercefreeman/mountaineer)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
