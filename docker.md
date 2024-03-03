@@ -2435,6 +2435,7 @@ Docker
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!](https://github.com/sickcodes/Docker-OSX)
 * [docker-py: A Python library for the Docker Engine API](https://github.com/docker/docker-py)
+  * [Docker SDK for Python — Docker SDK for Python](https://docker-py.readthedocs.io/)
   * [A Python library for the Docker Engine API](https://pythonawesome.com/a-python-library-for-the-docker-engine-api/)
 * [DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) https://dockersl.im ](https://github.com/docker-slim/docker-slim)
 * [docker-sync - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/Linux](https://docker-sync.readthedocs.io)
