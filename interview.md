@@ -40,6 +40,7 @@ Interview
 * [Startup Job Offers And How To Interview Founders](http://techcrunch.com/2015/05/28/startup-job-offers-and-how-to-interview-founders)
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
 * [면접Tip “마지막으로 질문 있으세요?”](https://www.linkedin.com/feed/update/urn:li:activity:7100729053740990464/)
+* ["면접은 여기까지 하겠습니다. 혹시 저희에게 하실 질문이 있나요?"에 대한 답변](https://www.linkedin.com/posts/danielylee_%EB%A9%B4%EC%A0%91%EC%9D%80-%EC%97%AC%EA%B8%B0%EA%B9%8C%EC%A7%80-%ED%95%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%98%B9%EC%8B%9C-%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C-%ED%95%98%EC%8B%A4-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%9E%88%EB%82%98%EC%9A%94-%EC%86%8D%EC%A7%80%EB%A7%88%EC%84%B8%EC%9A%94-activity-7163808867804536832-q02-/)
 * [채용 담당자한테 꼭 물어봐야하는 6가지 질문 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-ask-to-recruiters)
 * [면접 후, 이메일로 어필하는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-send-email-after-interview/)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
