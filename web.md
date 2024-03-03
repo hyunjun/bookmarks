@@ -2110,6 +2110,7 @@ Web
   * ComponentizeJS는 실험적 도구로 임베드 된 SpiderMonkey JS 엔진을 사용해, JavaScript 코드를 WebAssembly Component로 생성
     * [component-model: Repository for design and specification of the Component Model](https://github.com/WebAssembly/component-model)
 * [componentize-py](https://github.com/bytecodealliance/componentize-py)
+* [container2wasm: Container to WASM converter](https://github.com/ktock/container2wasm)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
