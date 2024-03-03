@@ -3340,6 +3340,7 @@ Python
   * [Link Examples - MakinaRocks Link](https://makinarocks.gitbook.io/link/examples/link-examples)
   * [link-example: Machine Learning Study](https://github.com/makinarocks/link-example)
   * [The Best Jupyterlab Extension That You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=fClT4PWlGoA)
+* [marimo | a next-generation Python notebook](https://marimo.io/)
 * [Mercury – Build Data Web Apps in Jupyter Notebook](https://runmercury.com/)
   * [mercury 시작](https://brunch.co.kr/@fermat39/143)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
