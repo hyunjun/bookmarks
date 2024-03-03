@@ -984,6 +984,7 @@ Docker
 * [What is Kubernetes?](https://www.linkedin.com/posts/aurimas-griciunas_machinelearning-dataengineering-llmops-activity-7165285956827181056-2oJa/)
 * [Intro to Kubernetes - Containers at Scale Containerized Adventures](https://kaslin.rocks/intro-to-kubernetes-containers-at-scale/)
 * ['쿠버네티스 교육' 카테고리의 글 목록 — 60살까지 엔지니어를 목표로 느리게 생각합니다.](https://jerryljh.tistory.com/category/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EA%B5%90%EC%9C%A1)
+* [일프로 - YouTube](https://www.youtube.com/@k8s.1pro/playlists)
 * [쿠알못을 위한 Kubernetes 이야기 (1) - YouTube](https://www.youtube.com/watch?v=Iht-Y2iic-I)
 * [쿠알못을 위한 Kubernetes 이야기 (2) - YouTube](https://www.youtube.com/watch?v=5QoBtFW--po)
 * [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
