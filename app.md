@@ -865,6 +865,7 @@ App
 * [Lapce](https://lapce.dev/)
   * [lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
   * [Lapce - 매우 빠른 코드 에디터 | GeekNews](https://news.hada.io/topic?id=5651)
+  * [Lapce - 빠르고 강력한 코드 편집기 | GeekNews](https://news.hada.io/topic?id=13422)
 * [Mem: The self-organizing workspace](https://get.mem.ai/)
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
