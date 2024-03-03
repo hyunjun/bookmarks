@@ -376,6 +376,7 @@ Programming
 * [AWSKRUG 플랫폼엔지니어링 모임에서 발표한 "당근 개발자 플랫폼은 어떤 문제를 해결하고 있는가?" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1703)
 * [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
 * [Platform Engineering: What We've Got Wrong | LinkedIn](https://www.linkedin.com/pulse/platform-engineering-what-weve-got-wrong-sarah-polan-qd9fe/)
+* [Organizational Sustainability with Platform Engineering • Lesley Cordero • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Jx-XrUONJ-o)
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
