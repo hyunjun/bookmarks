@@ -2871,6 +2871,7 @@ Programming Books
   * [High Output Management. 이런 기업의 모든 관리자는 새로운 환경에 적응해야 한다. 그렇다면… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/high-output-management-d0e42b7b42ae)
   * [High Output Management](https://jh4hj.tistory.com/entry/High-Output-Management)
   * [Book 하이 아웃풋 매니지먼트 - 어떻게 성과를 높일 것인가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1675)
+  * [동기부여는 환상이다: <하이 아웃풋 매니지먼트>의 5가지 동기부여 이론 | GeekNews](https://news.hada.io/topic?id=13407)
 * 린 스타트업 [불확실한 창업 환경에서 슬기롭게 일하는 법, 『린 스타트업』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2012/11/13/%eb%b6%88%ed%99%95%ec%8b%a4%ed%95%9c-%ec%b0%bd%ec%97%85-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c-%ec%8a%ac%ea%b8%b0%eb%a1%ad%ea%b2%8c-%ec%9d%bc%ed%95%98%eb%8a%94-%eb%b2%95-%e3%80%8e%eb%a6%b0-%ec%8a%a4/)
   * ★★★★☆ 2022.05.08~09
   * 탐라 개325.21-리57ㄹ 우당 문325.21-리58ㄹ
