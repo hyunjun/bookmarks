@@ -4617,6 +4617,7 @@ Javascript
     * 클라이언트 컴포넌트는 'use client' 디렉티브를 써서 옵트인 해야 하고 이를 사용하면 클라이언트 바운더리가 생겨서 하위 컴포넌트는 모두 JS 번들에 포함되어 전송
     * 왜 이 경계를 따로 설정해야 하는지와 모든 컴포넌트가 클라이언트 경계에 포함되지 않도록 관리하는 방법도 소개
 * [새로 등장한 ‘리액트 서버 컴포넌트’ 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2271/)
+* [**2024-02-23 A는 B 1. RSC란?** | saengmotmi's blog](https://saengmotmi.netlify.app/react/what-is-rsc/)
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
