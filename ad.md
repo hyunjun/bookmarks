@@ -43,6 +43,7 @@
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
+* CRO [A Guide to Conversion Rate Optimization](https://www.digitalocean.com/resources/article/conversion-rate-optimization)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
