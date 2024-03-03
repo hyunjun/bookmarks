@@ -1813,6 +1813,7 @@ App
   * [Mermaid + draw.io + Bing AI to Build System Diagrams - YouTube](https://www.youtube.com/watch?v=JM1G9ETz1DM)
   * [Mermaid + draw.io + ChatGPT I to Build System Diagrams - YouTube](https://www.youtube.com/watch?v=xZ4o180KFNk)
   * [Diagrams as Code with Mermaid, GitHub, and Visual Studio Code - YouTube](https://www.youtube.com/watch?v=oiVy7NDm-WM)
+  * [그리면서 따라하는 Mermaid 연습 - Andrea의 지식 정원 - Obsidian Publish](https://publish.obsidian.md/andrea9292/2+Area/%EC%83%9D%EC%82%B0%EC%84%B1+%EB%8F%84%EA%B5%AC/Obsidian+%EC%9D%B4%EC%95%BC%EA%B8%B0/%EA%B7%B8%EB%A6%AC%EB%A9%B4%EC%84%9C+%EB%94%B0%EB%9D%BC%ED%95%98%EB%8A%94+Mermaid+%EC%97%B0%EC%8A%B5)
   * Mermaid Live [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
     * [Creating Beautiful Flowcharts with Chat GPT, Mermaid Live & Overleaf - YouTube](https://www.youtube.com/watch?v=UyMlSzlB3J0)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
