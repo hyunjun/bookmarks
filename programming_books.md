@@ -3734,14 +3734,15 @@ Programming Books
   * [육각형 개발자. Tags: developer, programmer… | by Jun | Feb, 2024 | Medium](https://nymets.medium.com/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90-a0d7c454d2aa)
   * [육각형 개발자 - Jun’s Substack](https://recur.substack.com/p/aea)
   * [육각형 개발자](https://jh4hj.tistory.com/entry/%EC%9C%A1%EA%B0%81%ED%98%95-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+* [개발자로 첫 출근했어요](https://jhrogue.blogspot.com/2023/12/blog-post.html)
+  * ★★☆☆☆ 2024.03.03 각종 도구에 대해 아주 얕게 여러 가지를 소개하는 책
+  * 우당 문004-김53ㄱ
+  * [개발자로 처음 출근합니다, 독일 개발자 블로그 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=sh_kim_0926&from=postList&categoryNo=1&parentCategoryNo=1)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
-* (NOT YET) [컴퓨터 vs 책: 독서광 개발자로 첫 출근했어요](https://jhrogue.blogspot.com/2023/12/blog-post.html)
-  * 우당 문004-김53ㄱ
-  * [개발자로 처음 출근합니다, 독일 개발자 블로그 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=sh_kim_0926&from=postList&categoryNo=1&parentCategoryNo=1)
 * (NOT YET) [시작하는 개발자들을 위한 기술 여행 가이드](https://jaeyo.github.io/tech-travel-guide/)
   * 한라 005.104-이73ㄱ
 * (NOT YET) 크리에이티브 프로그래머 [창의적인 프로그래머가 되는 법: 더 창의적이 되기 위한 로드맵 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1452860666)
