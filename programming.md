@@ -3083,6 +3083,9 @@ Programming
 * [**(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup · Jack's home on the web**](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
   * [**스타트업에서 4년간 인프라를 운영하며 좋았던/후회하는 (거의) 모든 인프라 결정들 | GeekNews**](https://news.hada.io/topic?id=13564)
   * 기술적인 부분만이 아니라 process/culture 측면에서도 좋은 이야기들
+* [블로그 | 도대체 클라우드 핀옵스에는 무슨 일이? - ITWorld Korea](https://www.itworld.co.kr/news/327249)
+* [10 top cloud cost management tools to save your cloud budget](https://www.digitalocean.com/resources/article/cloud-cost-management-tools)
+* [SSD는 엄청나게 빨라졌지만, 클라우드는 제외임 | GeekNews](https://news.hada.io/topic?id=13456)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
