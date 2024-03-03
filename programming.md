@@ -6216,6 +6216,7 @@ Programming
     * [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
   * 설문조사는 어렵기 때문에 개발자들과 능동적인 커뮤니케이션을 하도록 유도하고 내부 플랫폼으로 포장된 길을 제공하려고 노력하고 있다고 함
 * [The LinkedIn DPH Framework](https://linkedin.github.io/dph-framework/) Developer Productivity and Happiness Framework
+  * [LinkedIn Shares Its Developer Productivity Framework - The New Stack](https://thenewstack.io/linkedin-shares-its-developer-productivity-framework/)
 * [생산성 수치심 (Productivity Shame) 에서 벗어나는 방법](https://eopla.net/magazines/10754#) tech 이야기는 아님
 * [Principles of Effective Developers by Sebastian Daschner - YouTube](https://www.youtube.com/watch?v=7GKZhqiAxaI) productivity
 * [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
