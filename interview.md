@@ -367,6 +367,7 @@ Interview
 * [20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
 * [10 Reasons to Learn System Design in 2024 | by javinpaul | Javarevisited | Jan, 2024 | Medium](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
 * [🌟 Mastering System Design: A Comprehensive Guide | LinkedIn](https://www.linkedin.com/pulse/mastering-system-design-comprehensive-guide-karan-rana-abglf/)
+* [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
