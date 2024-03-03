@@ -493,6 +493,7 @@ AWS
 * [Amazon Kendra, LangChain 및 대규모 언어 모델(LLM)을 사용하여 엔터프라이즈 데이터에서 높은 정확도의 생성형 AI 애플리케이션을 빠르게 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
 * [Amazon Kendra를 사용하여 AstraZeneca Japan의 엔터프라이즈 검색 기능 및 규정 준수 개선 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/improving-astrazeneca-japans-enterprise-search-capabilities-and-regulatory-compliance-using-amazon-kendra/)
 * [Generative AI Solutions in AWS Marketplace](https://aws.amazon.com/marketplace/solutions/machine-learning/generative-ai)
+* [AWS Top3 Tech Trend Session 02 : Gen AI 애플리케이션 구축 및 사례 소개 - YouTube](https://www.youtube.com/watch?v=2dw6tmO4MEQ) bedrock, sagemaker
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
@@ -1331,6 +1332,7 @@ AWS
   * AWS EKS에서는 Pod에 AWS 권한을 부여하기 위해 IRSA(IAM Roles for Service Accounts)를 사용하는데
     * 새로 나온 EKS Pod Identities로 IRSA를 대체하는 방법 사용
   * EKS Pod Identities는 OIDC를 사용하지 않기 때문에 IAM 역할을 만들고 클러스터 수준에서 서비스 어카운트를 연결해서 관리 가능
+* [AWS Top3 Tech Trend Session 03 : EKS 신규 기능 소개 & 비용 최적화 사례 소개 - YouTube](https://www.youtube.com/watch?v=ELU923_QUws)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -2182,6 +2184,7 @@ AWS
 * [New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
 * [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 * [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
+* [AWS Top3 Tech Trend Session 01 : Amazon Q를 이용한 업무 효율성 향상 & 사례 시연 - YouTube](https://www.youtube.com/watch?v=e3Jt3gnroAw)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
