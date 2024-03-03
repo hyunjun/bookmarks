@@ -72,7 +72,6 @@ Programmer
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
-* [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 * [왜 45세 정년이 될 수 밖에 없는가 (기술기업의 관점에서)](http://windy96.egloos.com/3495731)
   * Theory Z Teamism, Theory A Open Allocation
 * [NDC22 '게임업계 최초 정년퇴직자'가 말하는 커리어 관리](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151164)
@@ -286,6 +285,7 @@ Programmer
 
 # Career path
 * [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+* [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 * [Creating a career ladder for engineers - Marco Rogers | #LeadDevNewYork - YouTube](https://www.youtube.com/watch?v=jA1Q94d2z10) 개발자들의 커리어 사다리가 왜 중요하고 어떻게 운영하면 되는가
 * [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
 * [Engineering Ladders을 이용한 성장방향 찾기. 요즘 가장 크게 고민하고 있는 것 중에 하나는 “엔지니어의 성장이란… | by Kyung Jun Park | Jun, 2022 | Medium](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)
@@ -324,6 +324,7 @@ Programmer
   * [스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의 | GeekNews](https://news.hada.io/topic?id=9431)
 * [개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2198/)
 * [그대들, 어떻게 공부할 것인가 - Google Slides](https://docs.google.com/presentation/d/1KvrS58SZdhSxYHvIq3SXIbYGwBzKyj8jekJB-O9RTTk/edit)
+* [career-ladders](https://career-ladders.dev/)
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
