@@ -1418,6 +1418,8 @@ NLP
 * [What is LLMOps | MLOps for Large Language Models Explained in 3 Minutes - YouTube](https://www.youtube.com/watch?v=XICCkRraeHQ)
 * [LLMOps: Everything You Need to Know to Manage LLMs - YouTube](https://www.youtube.com/watch?v=LGsQZS18m5A)
   * [LLMOps: LLM을 관리하기 위해 알아야 할 모든 것 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342699?sId=LGsQZS18m5A)
+* [Evaluating LLM-based Applications - YouTube](https://www.youtube.com/watch?v=2CIIQ5KZWUM)
+  * [LLM 기반 애플리케이션 평가 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342824?sId=2CIIQ5KZWUM)
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
 * [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
