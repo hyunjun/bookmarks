@@ -191,6 +191,7 @@ Artificial Intelligence
 * [AI 골드러시 시대.. 전통적 비즈니스 역량이 중요한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aigoldrush20280906)
 * [Strong AI: Provably Impossible — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/strong-ai-provably-impossible)
 * [AI가 당신의 직업은 빼앗지 않지만, 당신의 급여는 갉아먹을 것입니다 | GeekNews](https://news.hada.io/topic?id=13557)
+* [sora와 gemini 1.5사태가 시사하는 보통 기업들의 AI전략](https://www.yonghosee.com/ai-strategies-must-align-with-data)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -282,6 +283,8 @@ Artificial Intelligence
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
   * [Gemma LoRA 파인튜닝 빠른실행](https://tykimos.github.io/2024/02/22/gemma_lora_fine_tuning_fast_execute/)
   * [Getting Started with Gemma Tokenizer including Multilingual Testing](https://tykimos.github.io/2024/02/27/getting_started_with_gemma_tokenizer_including_multilingual_testing/)
+* [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
+  * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [kyutai: open science AI lab](http://kyutai.org/)
