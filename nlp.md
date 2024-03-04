@@ -3055,6 +3055,7 @@ NLP
     * [Introducing a foundational multimodal model for speech translation](https://ai.meta.com/blog/seamless-m4t/)
     * [Introducing SeamlessM4T, a Multimodal AI Model for Speech and Text Translations | Meta](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [SEPIA Framework](https://sepia-framework.github.io/)
+* [silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
 * [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
