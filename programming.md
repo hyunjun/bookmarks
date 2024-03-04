@@ -377,6 +377,7 @@ Programming
 * [카카오페이증권이 생각하는 DevOps문화와 Platform Engineering의 방향성 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopaysec-devops-platform/)
 * [Platform Engineering: What We've Got Wrong | LinkedIn](https://www.linkedin.com/pulse/platform-engineering-what-weve-got-wrong-sarah-polan-qd9fe/)
 * [Organizational Sustainability with Platform Engineering • Lesley Cordero • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Jx-XrUONJ-o)
+* [Why Is My App SLOw? Defining Reliability in Platform Engineering • Jez Humble • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=XhuiU0Kjvf0)
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
