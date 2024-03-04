@@ -1037,6 +1037,7 @@ Web
 * [How To Add Javascript To HTML Page | by React Dojo | Jul, 2022 | Medium](https://akbar-alizadeh5.medium.com/javascript-where-to-aba0ac91054f)
 * [background-image 대신 img 태그를 사용하자](https://careerly.co.kr/comments/77523)
 * [Your website does not need JavaScript - Amy Kapernick - Copenhagen DevFest 2023 - YouTube](https://www.youtube.com/watch?v=wKU65gV6FSA)
+* [HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
   * [htmx: </> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
