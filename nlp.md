@@ -1905,6 +1905,7 @@ NLP
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [Unstructured](https://unstructured.io/)
+* [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
