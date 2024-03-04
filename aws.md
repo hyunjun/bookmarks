@@ -1335,6 +1335,7 @@ AWS
     * 새로 나온 EKS Pod Identities로 IRSA를 대체하는 방법 사용
   * EKS Pod Identities는 OIDC를 사용하지 않기 때문에 IAM 역할을 만들고 클러스터 수준에서 서비스 어카운트를 연결해서 관리 가능
 * [AWS Top3 Tech Trend Session 03 : EKS 신규 기능 소개 & 비용 최적화 사례 소개 - YouTube](https://www.youtube.com/watch?v=ELU923_QUws)
+* [Amazon EKS에서 IPv6로의 여정 : Foundation (Part 1) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/the-journey-to-ipv6-on-amazon-eks-foundation-part-1/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
