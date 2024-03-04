@@ -530,6 +530,7 @@ Programming Language
 * [nf - A minimal programming language, designed as an interactive environment for my os/64](https://bitbucket.org/qx89l4/nf/src)
 * [Nile](https://github.com/damelang/nile)
 * [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
+* [Odin Programming Language](https://odin-lang.org/)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
 * Pascal
