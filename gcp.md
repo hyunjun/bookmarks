@@ -226,6 +226,7 @@ Google Cloud Platform GCP
 * [Serverless 서비스인 Cloud Run 알아보기 8부 — Cloud Run Jobs 서비스 | by 이정운 (Jungwoon Lee) | google-cloud-apac | Mar, 2023 | Medium](https://medium.com/google-cloud-apac/gcp-serverless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8-cloud-run-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8%EB%B6%80-cloud-run-jobs-%EC%84%9C%EB%B9%84%EC%8A%A4-40ddca359a99)
 * [Serverless 서비스인 Cloud Run 알아보기 9부 — 잘 안 알려졌지만 주목할만한 2022년 업데이트 정리 | by 이정운 (Jungwoon Lee) | google-cloud-apac | Apr, 2023 | Medium](https://medium.com/google-cloud-apac/gcp-serverless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8-cloud-run-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-9%EB%B6%80-%EC%9E%98-%EC%95%88-%EC%95%8C%EB%A0%A4%EC%A1%8C%EC%A7%80%EB%A7%8C-%EC%A3%BC%EB%AA%A9%ED%95%A0%EB%A7%8C%ED%95%9C-2022%EB%85%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A0%95%EB%A6%AC-8899a43353f5)
 * [Safe serverless deployments with Cloud Run - YouTube](https://www.youtube.com/watch?v=ArDuQDjW-DQ)
+* [할 수 있다! 서비스 월 유지비 1000원!](https://velog.io/@juunini/service-monthly-keep-1000won)
 * [palm2bot](https://github.com/znot34/palm2bot)
   * [GCP Cloud Run을 활용한 Palm 2 챗봇 만들기 :: Jflip의 기술 블로그](https://jflip.tistory.com/90)
   * [2023 Devfest Cloud - 최치영 - Google Slides](https://docs.google.com/presentation/d/1o-xbEnqakrjqJCxceSCqSzrWkIPEfPyasfRt5KskJi0/)
