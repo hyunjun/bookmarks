@@ -1411,6 +1411,12 @@ NLP
 * [Building Large Language Model at Scale - Speaker Deck](https://speakerdeck.com/inureyes/building-large-language-model-at-scale)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [LLMOps (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=Fquj2u7ay40)
+* [Large Language Model Operations (LLMOps) Explained - YouTube](https://www.youtube.com/watch?v=cvPEiPt7HXo)
+  * EDA -> data prep -> prompt engineering -> fine tuning -> mode review/governance -> model inference -> model monitoring
+* [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
+  * [MLOps Now by VESSL AI](https://vesslai.notion.site/MLOps-Now-by-VESSL-AI-d30a9596e6b0476db16ccaad3b67c17b)
+  * 차이점: transfer learning, compute management, feedback loops
+* [일반 기업이 LLM기반 AI개발 하려면? LLMOps vs MLOps 세미남282@토크아이티, 쿤텍 김성환이사, 데이터이쿠 홍용민 부사장 - YouTube](https://www.youtube.com/watch?v=h6dNiR-C1t4)
 * [IT TREND FMOps, LLM 시대의 AI 앱 개발 방법](https://tech.kakaoenterprise.com/196)
 * [Miguel Martínez & Meriem Bendris - Building Large-scale Localized Language Models - YouTube](https://www.youtube.com/watch?v=7CaLrxbEhC4)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
@@ -1539,6 +1545,7 @@ NLP
     * 팁을 주면 더 나은 결과를 가져올까 하는 연구도 있는데 이건 큰 효과는 없었음
 * [colab에서 transformers 라이브러리로 LLM 학습시 checkpoint 사용하기](https://webnautes.tistory.com/2279)
 * [안전한 LLM 학습 데이터는 어떻게 수집할까? | OpenAI 2022 | 조원익 - YouTube](https://www.youtube.com/watch?v=gTjC88AHr_g)
+* [SK TECH SUMMIT 2023 비즈니스에 실제로 활용 가능한 LLM 서비스 만들기 - YouTube](https://www.youtube.com/watch?v=9Rf2EibqddQ)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
