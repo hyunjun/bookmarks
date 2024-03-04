@@ -833,6 +833,7 @@ AWS
   * [AWS re:Invent 2023 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2023/)
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
+  * [AWS re:Invent 2023 참관기 - DRAMA&COMPANY](https://blog.dramancompany.com/2024/03/aws-reinvent-2023-%ec%b0%b8%ea%b4%80%ea%b8%b0/)
   * [AWS re:Invent 2023 - Find, try, configure, and launch SaaS applications in AWS Marketplace (MKT205) - YouTube](https://www.youtube.com/watch?v=nCbSAWKkKwM)
   * [AWS re:Invent 2023 - Keynote with Dr. Werner Vogels - YouTube](https://www.youtube.com/watch?v=UTRBVPvzt9w)
   * [클라우드 커뮤니티에서 성장하기 :: Channy's Blog](https://channy.creation.net/blog/1812)
