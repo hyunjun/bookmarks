@@ -2071,6 +2071,7 @@ Programming
 * [Event Modeling Part 2 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
 * [Event Modeling • Adam Dymitruk • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 * [Event Modeling from Beginner to Expert • Adam Dymitruk • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Pin_B-AbdXE)
+* [Microservices Meetup Munich - Event Modeling with Adam Dymitruk - YouTube](https://www.youtube.com/watch?v=MbkDDnqUm90)
 * [The Road To Event-Driven Architecture At LEGO.com • Sheen Brisals • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_g6DA9WM7RE)
 * [Advanced Event-driven Architectures at the LEGO Group • Sarah Hamilton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=6_Yzybhmj-8)
 * [Best Practices to Design & Build Event-driven Applications • Marcia Villalba • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=bC51iRtXlRw)
