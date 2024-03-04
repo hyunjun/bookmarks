@@ -2647,6 +2647,7 @@ Javascript
   * [WebGPU 강연](https://youtu.be/A4XYYY4Q000)
   * [WebGPU is Not Just about the Web - YouTube](https://www.youtube.com/watch?v=qHrx41aOTUQ)
   * [What is WebGPU? - YouTube](https://www.youtube.com/watch?v=oIur9NATg-I)
+  * [shadeup.dev](https://shadeup.dev/)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
