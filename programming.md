@@ -2783,6 +2783,12 @@ Programming
 * [Dancing with Serverless • Peter Sbarski • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GaeBGRbB0eE)
 * [서버리스 아키텍처: 웹 개발의 패러다임 전환 | AppMaster](https://appmaster.io/ko/blog/seobeoriseu-akitegceo-web-gaebal)
 * [The Rise of the Serverless Data Architectures - YouTube](https://www.youtube.com/watch?v=QVQPhOHBWBk) Serverless DB, FaaS, ...
+* [**The Architecture of Serverless Data Systems — Jack Vanlightly**](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
+  * [Amazon DynamoDB - ASDS Chapter 1 — Jack Vanlightly](https://jack-vanlightly.com/analyses/2023/11/14/amazon-dynamodb-asds-chapter-1)
+  * [Kora - Serverless Kafka - ASDS Chapter 2 — Jack Vanlightly](https://jack-vanlightly.com/analyses/2023/11/14/kora-serverless-kafka-asds-chapter-2)
+  * [Neon - Serverless PostgreSQL - ASDS Chapter 3 — Jack Vanlightly](https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3)
+  * [Serverless CockroachDB - ASDS Chapter 4 (part 1) — Jack Vanlightly](https://jack-vanlightly.com/analyses/2023/11/21/serverless-cockroachdb-asds-chapter-4-part-1)
+  * [Serverless ClickHouse Cloud - ASDS Chapter 5 (part 1) — Jack Vanlightly](https://jack-vanlightly.com/analyses/2024/1/23/serverless-clickhouse-cloud-asds-chapter-5-part-1)
 * [Honeycomb: How We Used Serverless to Speed up Our Servers - YouTube](https://www.youtube.com/watch?v=tpoeJiXTVU0)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
