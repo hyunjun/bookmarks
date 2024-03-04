@@ -434,6 +434,14 @@
 * [Ondřej Vostál - Async Python modules in Rust PyData Prague 2022-12-13 - YouTube](https://www.youtube.com/watch?v=yKPMP8N3-yg)
 * [How we used Rust to modernize the conda ecosystem – Bas Zalmstra | PackagingCon 2023 - YouTube](https://www.youtube.com/watch?v=z5OyF-W5Q98)
 * [An Introduction to Coding In Rust for Pythonistas - YouTube](https://www.youtube.com/watch?v=MoqtsYLGCC4)
+* [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
+* [Rust를 사용해서 당신의 Python에 날개를 달아주세요](https://www.slideshare.net/JIHUNKIM26/rust-python-110278438)
+* [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
+  * [Introduction - PyO3 user guide](https://pyo3.rs/)
+  * [PyO3 프로젝트 생성하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/ch15-02.html)
+  * [Rust: PyO3 파이썬 모듈 Rust 언어로 만들기 :: PROGRAMMING PER SE](https://choiseokwon.tistory.com/314)
+  * [PyCon KR 2023 PyO3를 활용한 분산 시스템 알고리즘 구현체 바인딩 작성 도전기 이규봉 - YouTube](https://www.youtube.com/watch?v=9nuV_tc77OI)
+  * [Combining Rust and Python: The Best of Both Worlds? - YouTube](https://www.youtube.com/watch?v=lyG6AKzu4ew)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
