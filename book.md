@@ -1455,6 +1455,8 @@ Book
   * 한라 927.903-크295ㄷ 우당 문927.903-크235ㄷ
 * (NOT YET) [뉴스의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307226198)
   * 탐라 문070.9-페839ㄴ 우당 문070.9-페839ㄴ
+* (NOT YET) [이탈리아 기행 | 민음사](http://minumsa.minumsa.com/book/24704/)
+  * 한라 856-괴884이
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
