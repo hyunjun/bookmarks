@@ -358,6 +358,7 @@ Go
 * [Unlocking the Power of Go: Revealing CPU Secrets | by ANUJ KUMAR THAKUR | Sep, 2023 | Medium](https://medium.com/@anuj85500/unlocking-the-power-of-go-revealing-cpu-secrets-ccd20178072b)
 * [Empowering Go: unveiling the synergy of AI and Q&A pipelines | Simone Vellei Blog](https://simonevellei.com/blog/posts/empowering-go-unveiling-the-synergy-of-ai-and-qa-pipelines/)
 * [Simplifying Complexity: The Journey from WebSockets to HTTP Streams - Unladen swallow - Olivier Wulveryck](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html) 프레임워크와 복잡한 프로토콜 대신 기본 Go 도구를 사용하여 이벤트를 직접 처리, 더 깊은 이해와 제어 가능. 때때로 가장 좋은 해결책은 도구의 복잡성에서가 아니라 문제를 기본 요소로 환원하고 직접 대처하는 능력에서 나온다
+* [How To Build a Complete API In Golang (Docker, JWT, MySQL) - YouTube](https://www.youtube.com/watch?v=2JNUmzuBNV0)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
