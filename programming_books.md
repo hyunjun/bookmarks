@@ -759,6 +759,7 @@ Programming Books
   * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
   * [책 마이크로서비스 아키텍처 구축](https://jybaek.tistory.com/936)
   * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
+    * 우당
 * [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
   * [<마이크로서비스 도입, 이렇게 한다> 도서 증정 이벤트](https://jhrogue.blogspot.com/2021/01/blog-post_28.html)
   * [**마이크로서비스 도입 이렇게 한다 | Popit**](https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%8f%84%ec%9e%85-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%9c%eb%8b%a4/)
@@ -1283,10 +1284,10 @@ Programming Books
 * (NOT YET) [데이터 플랫폼 설계와 구축 | 에이콘출판사](http://acornpub.co.kr/book/cloud-data-platforms)
   * 우당 문004.588-즈47ㄷ
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
+  * 우당 문004.73-프233ㅇ
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
   * [AWS로 구성하는 데이터 과학 파이프라인 및 워크플로우 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4272985922)
   * [data-science-on-aws: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/data-science-on-aws)
-  * 우당 문004.73-프233ㅇ
 * (NOT YET) [공익을 위한 데이터 | 에이콘출판사](http://acornpub.co.kr/book/data-action)
   * 탐라 문005.76-윌239ㄱ
 * (NOT YET) [비즈니스 데이터 과학](https://hanbit.co.kr/store/books/look.php?p_code=B6001875802)
@@ -2140,6 +2141,8 @@ Programming Books
 * (NOT YET) [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 * (NOT YET) [토미의 Git with 소스트리 – 토미의 개발노트 – iOS 개발관련 지식을 공유합니다](https://jusung.github.io/%ED%86%A0%EB%AF%B8%EC%9D%98-Git-%EC%B1%85%EC%86%8C%EA%B0%9C/)
   * 한라
+* (NOT YET) [파이썬 코드로 배우는 Git&Github](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931467659&seq=7193&cate_cd=1&child_cate_cd=9&goPage=1&orderByCd=1&searchType=Y&keyword1=%C6%C4%C0%CC%BD%E3%20%C4%DA%B5%E5%B7%CE%20%B9%E8%BF%EC%B4%C2%20Git)
+  * 한라 005.12-유15ㅍ
 
 # Go
 
@@ -2483,6 +2486,8 @@ Programming Books
   * 탐라 문005.118-박58ㄱ 제주 005.118-박58가
 * (NOT YET) [책정보, 타입스크립트 교과서 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003819&keyword=%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B5%90%EA%B3%BC%EC%84%9C&collection=GB_BOOK)
   * 제주 005.138-조94타
+* (NOT YET) [타입스크립트, 리액트, Next.js로 배우는 실전 웹 애플리케이션 개발 | 위키북스](https://wikibook.co.kr/ts-react-nextjs/)
+  * 탐라 문005.118-테79ㅅ
 
 ## Angular
 
