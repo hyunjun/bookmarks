@@ -4203,6 +4203,7 @@ Programming
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
   * [기계번역 The NeuVector Difference – 098](https://www.098.co.kr/%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD-the-neuvector-difference/)
 * [<NHN Cloud 보안 백서>를 소개합니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/372)
+* [Nikto web server scanner](https://github.com/sullo/nikto?tab=readme-ov-file)
 * NTS [Network Time Security · Cloudflare Time Services docs](https://developers.cloudflare.com/time-services/nts/)
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
