@@ -1417,6 +1417,7 @@ NLP
   * [MLOps Now by VESSL AI](https://vesslai.notion.site/MLOps-Now-by-VESSL-AI-d30a9596e6b0476db16ccaad3b67c17b)
   * 차이점: transfer learning, compute management, feedback loops
 * [일반 기업이 LLM기반 AI개발 하려면? LLMOps vs MLOps 세미남282@토크아이티, 쿤텍 김성환이사, 데이터이쿠 홍용민 부사장 - YouTube](https://www.youtube.com/watch?v=h6dNiR-C1t4)
+* [LLMOps (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=Fquj2u7ay40)
 * [IT TREND FMOps, LLM 시대의 AI 앱 개발 방법](https://tech.kakaoenterprise.com/196)
 * [Miguel Martínez & Meriem Bendris - Building Large-scale Localized Language Models - YouTube](https://www.youtube.com/watch?v=7CaLrxbEhC4)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
