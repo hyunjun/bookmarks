@@ -1395,6 +1395,7 @@ Javascript
   * 이 글에서 제시한 해결책은 한 번에 여러 계층의 추상화를 제공해야 한다는 것
     * 단순히 데이터를 패싱하고 렌더링 하는 config 방식, 특정 컴포넌트를 전달하는 slot 방식, 하위 컴포넌트 및 스타일링을 직접 위임하는 custom 방식 이 세 가지의 추상 계층으로 컴포넌트의 활용도와 재사용성의 향상 가능
 * [디자인 토큰으로 설계하는 디자인 시스템](https://velog.io/@leehyunho2001/design-token)
+* [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/)
 * [Gmarket Design System](http://gds.gmarket.co.kr/)
 * [Helios Design System](https://helios.hashicorp.design/)
   * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
