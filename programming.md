@@ -994,6 +994,7 @@ Programming
 * [토스에서 요즘 ‘애자일’하는 방법(feat. EoA) | 요즘IT](https://yozm.wishket.com/magazine/detail/2203/)
 * [일의 완료 기준을 구체적으로 적으면 얻게 되는 이득](https://brunch.co.kr/@graypool/1312) DoD, boundary
 * [Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
+* [SI산업 가이드북④ SI에서 발전된 폭포수, 애자일 바로 알기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2474/)
 * [DORA | DevOps Capabilities: Working in Small Batches](https://dora.dev/devops-capabilities/process/working-in-small-batches/)
   * [(번역 및 정리) Working In Small Batches](https://jayden-blog-next.vercel.app/posts/from-time-to-time/article/working-in-small-batches)
     * DORA의 Working in small batches 번역
