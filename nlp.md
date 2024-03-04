@@ -1703,6 +1703,8 @@ NLP
   * [practice - LangChain meetup - QA 기능을 이용한 효율적인 정보 추출](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#2cffe55e456849d086827cf5f04a01ff)
   * [Streamlit과 Langchain으로 나만의 웹서비스 개발하기.pptx - Google Slides](https://docs.google.com/presentation/d/1_qS2dWZGsR4WesEnGtvxiAjL1_6xXLL0/edit#slide=id.p1)
   * [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
+  * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
+    * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
