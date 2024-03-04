@@ -1507,6 +1507,7 @@ Python
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
   * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
   * [Subprocess timeout failure](https://stackoverflow.com/questions/36952245/subprocess-timeout-failure)
+  * [Python Subprocess 모듈 사용법](https://webnautes.tistory.com/2283)
   * [sh - a full-fledged subprocess replacement for Python 2.6 - 3.8, PyPy and PyPy3 that allows you to call any program as if it were a function](https://amoffat.github.io/sh/)
     * [Testing shell commands from Python | by Janneke van der Zwaan | Netherlands eScience Center](https://blog.esciencecenter.nl/testing-shell-commands-from-python-2a2ec87ebf71)
 * sys
