@@ -2432,6 +2432,9 @@ Programming
 * [Microservices and Agile made wrong | by Bruno Tinoco | Oct, 2021 | Medium](https://medium.com/@brunocrt/microservices-and-agile-made-wrong-66e4ea55782f)
 * [Migrating Data-Intensive, High-Throughput APIs to Microservices | by Maggie Lou | Thumbtack Engineering | Nov, 2021 | Medium](https://medium.com/thumbtack-engineering/migrating-data-intensive-high-throughput-apis-to-microservices-9624939f9cee)
 * [Scaling productivity on microservices at Lyft (Part 1) | by Garrett Heel | Nov, 2021 | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
+* [Scaling productivity on microservices at Lyft (Part 2): Optimizing for fast local development | by Scott Wilson | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee)
+* [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging overrides | by Matthew Grossman | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f)
+* [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance Tests | by Ben Radler | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274)
 * [Microservices, reasoning about boundaries | by Andras Gerlits | Nov, 2021 | ITNEXT](https://itnext.io/microservices-reasoning-about-boundaries-8da26c0271cb)
 * [Complex Systems: Microservices and Humans - YouTube](https://www.youtube.com/watch?v=E8A3Yn2Vjx8)
 * [실전 마이크로서비스 아키텍처 적용](https://brunch.co.kr/@graypool/255)
@@ -6227,6 +6230,7 @@ Programming
 * [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
   * [한글화 프로젝트 7. 생산성은 측정할 수 없다](https://jinson.tistory.com/entry/%ED%95%9C%EA%B8%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%80-%EC%B8%A1%EC%A0%95%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4)
   * [생산성은 측정할 수 없다](https://brunch.co.kr/@challenger/45)
+* [AI 생산성 향상 정말인가? (ft. Morg.. : 네이버블로그](https://blog.naver.com/mynameisdj/223371333197)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
