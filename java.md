@@ -2380,6 +2380,7 @@ Java
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code/)
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 * [테스트 데이터 초기화에 @Transactional 사용하는 것에 대한 생각](https://jojoldu.tistory.com/761)
+* [테스트가 관리하는 트랜잭션 - 향로 님의 @Transactional 글을 읽고](https://tobyepril.tistory.com/8)
 * [실전에서 TDD하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/)
 * [자바에서 클래스를 활용한 사용자 정의 타입으로 코드 가독성과 신뢰성 높이기](https://blog.anyjava.net/146)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
