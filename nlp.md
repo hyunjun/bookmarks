@@ -1447,6 +1447,27 @@ NLP
       * 모델을 저장하고 풋프린트를 줄이거나 작은 장치에 배치하는 것이 필요한 경우, 양자화, 메모리제거, 캐싱을 사용하여 지연 시간 감소 가능
       * 비용 최적화를 위해 다양한 모델, GPU 클러스터 및 오픈소스 배포도 고려 필요
     * 딥러닝 모델 배포와 모델 세밀 조정에 대한 기반 필요
+* [End-to-End AI App Development: Prompt Engineering to LLMOps | BRK203 - YouTube](https://www.youtube.com/watch?v=DdOylyrTOWg)
+  * [엔드투엔드 AI 앱 개발: 프롬프트 엔지니어링에서 LLMOps까지 | BRK203 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346092?sId=DdOylyrTOWg)
+    * AI 애플리케이션 개발은 ideation/exploration, 모델 개발, 평가의 세 가지 단계로 구성
+      * ideation 단계에서는 카탈로그에서 적절한 모델을 선택하고 데이터 소스 고려
+      * prompt engineering을 통해 가설이 유망한지 확인하고, 다음 단계로 진행
+      * 모델 개발 단계에서는 데이터 소스를 고민하고, 데이터를 벡터화하고 모델을 수정하는 작업 진행
+      * 평가는 AI 애플리케이션의 핵심이며, 평가를 반복적으로 수행하여 품질을 높이는 것이 중요
+    * 애플리케이션의 운영화 단계에서는 배포, 보안, 데이터 보호와 같은 전통적인 문제에 대해 고려 필요
+      * 생성 모델 기반 AI 애플리케이션의 경우, 안전 경계를 들어맞추는 방법과 부적절한 콘텐츠 필터링에 대한 고려사항 추가
+      * 모델이 확률적인 애플리케이션이기 때문에 모니터링 능력 필요, 작동 잘 되고 있는지, 어떤 것이 잘 되고 있는지를 확인 필요
+      * MS는 LLMOps의 모든 부분을 다루는 통합 AI 플랫폼 구축, 모델 카탈로그, 데이터 벡터화, 프롬프트 엔지니어링, 콘텐츠 안전 및 모니터링 기능 제공
+    * Prompt flow 이야기
+    * ChatGPT는
+      * '정보 출처'와 모델이 생성하는 답변이 얼마나 일치하는지 측정하는 'Groundedness'
+      * 질문에 적절하게 답변하는지를 평가하는 'Relevance'
+      * 대화의 일관성을 측정하는 'Coherence'를 평가하는 도구
+    * 모델 배포 및 모니터링에 대한 설명과 관련 기술을 소개
+      * 생성한 애플리케이션을 테스트하고 모델의 성능을 실시간으로 확인하는 방법
+      * 모델의 성능 모니터링을 위해 '모니터링' 기능을 활용하여 메트릭을 확인하고 생산 환경에서 발생한 문제를 알려주는 알림 기능 사용 가능
+      * 어떤 고객의 의도를 이해하여 적절한 흐름으로 라우팅하는 '의도 분류'의 중요성 강조, 이에 따라 모델을 업데이트하는 방법에 대해서도 설명
+      * 배포한 모델이 실제로 어떻게 동작하는지 테스트, 과거 데이터에 기반한 평가를 통해 발생한 문제를 해결하여 엔드 투 엔드 과정을 완성
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
 * [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
