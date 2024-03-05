@@ -231,6 +231,7 @@ Sports
 * ["왜 B급 감독을 데려와?" 처음 '벤투 감독' 선임 직후 쏟아진 악플에 '홍명보'가 보인 반응](https://yachuk.com/news/articleView.html?idxno=120863) 결국 결과가 중요?
 * [이강인의 드리블 성공률이 유럽에서 1등인 이유(진짜 1등임) - YouTube](https://www.youtube.com/watch?v=vcGdz0crqyE) 패킹 지수
 * [PyData Online - An AI assistant for football analytics - Petar Veličković (Google DeepMind) - YouTube](https://www.youtube.com/watch?v=JGINjfmbXIM)
+* [240305 축구의 기대득점과 골결정력에 .. : 네이버블로그](https://blog.naver.com/kyksir/223373433084)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
