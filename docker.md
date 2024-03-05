@@ -984,6 +984,8 @@ Docker
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * [What is Kubernetes?](https://www.linkedin.com/posts/aurimas-griciunas_machinelearning-dataengineering-llmops-activity-7165285956827181056-2oJa/)
 * [Intro to Kubernetes - Containers at Scale Containerized Adventures](https://kaslin.rocks/intro-to-kubernetes-containers-at-scale/)
+* [Paul Butler – The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
+  * [쿠버네티스를 싫어하는 이들을 위한 안내서 | GeekNews](https://news.hada.io/topic?id=13637)
 * ['쿠버네티스 교육' 카테고리의 글 목록 — 60살까지 엔지니어를 목표로 느리게 생각합니다.](https://jerryljh.tistory.com/category/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%EA%B5%90%EC%9C%A1)
 * [일프로 - YouTube](https://www.youtube.com/@k8s.1pro/playlists)
 * [쿠알못을 위한 Kubernetes 이야기 (1) - YouTube](https://www.youtube.com/watch?v=Iht-Y2iic-I)
