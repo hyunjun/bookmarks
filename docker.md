@@ -700,6 +700,7 @@ Docker
   * backward compatibility를 위한 사용, docker init, docker compose up --build, docker compose watch, integration test (TestContainer)
   * (vulnerabilities) docker scout quickview, docker scout compare, docker scout recommendations
 * [Docker video tutorials - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVahmaH4QgmFwbpUW9J3vgk4)
+* [**컨테이너 환경을 위한 초기화 시스템 (tini, dumb-init)** | Swalloow Blog](https://swalloow.github.io/container-tini-dumb-init/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2398,6 +2399,9 @@ Docker
   * [Advanced Docker: Multistage parallel Docker build | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/advanced-docker-multistage-parallel-build-buildkit/)
   * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
   * [Multi-stage Docker Build와 BuildKit | by Asher | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/multi-stage-docker-build%EC%99%80-buildkit-a55fa60aaee7)
+  * [Voxxed Days Ioannina 2024 - Abusing Docker builds with BuildKit and friends - YouTube](https://www.youtube.com/watch?v=5zp2rV_I4dw)
+    * [Voxxed Days Ioannina 2024 - Abusing Docker builds with BuildKit and friends - YouTube](https://lilys.ai/digest/344540?sId=5zp2rV_I4dw)
+      * 네트워크 액세스 스토리지, 로컬 네트워크, 빌드 클라우드, 이미지 풀 시 저장된 캐시, 호스트 머신에서 동시에 여러 서비스 빌드, 도커 파일/도커 컴포즈 파일 효율적 활용 방법
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [controlplane-in-docker: all kubernetes controlplane in container](https://github.com/iwanhae/controlplane-in-docker)
