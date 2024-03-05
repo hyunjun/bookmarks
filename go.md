@@ -359,6 +359,8 @@ Go
 * [Empowering Go: unveiling the synergy of AI and Q&A pipelines | Simone Vellei Blog](https://simonevellei.com/blog/posts/empowering-go-unveiling-the-synergy-of-ai-and-qa-pipelines/)
 * [Simplifying Complexity: The Journey from WebSockets to HTTP Streams - Unladen swallow - Olivier Wulveryck](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html) 프레임워크와 복잡한 프로토콜 대신 기본 Go 도구를 사용하여 이벤트를 직접 처리, 더 깊은 이해와 제어 가능. 때때로 가장 좋은 해결책은 도구의 복잡성에서가 아니라 문제를 기본 요소로 환원하고 직접 대처하는 능력에서 나온다
 * [How To Build a Complete API In Golang (Docker, JWT, MySQL) - YouTube](https://www.youtube.com/watch?v=2JNUmzuBNV0)
+* [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+  * [Go로 10억 행 처리하기 도전: 9개의 방법으로 1분45초에서 4초로 단축 | GeekNews](https://news.hada.io/topic?id=13627)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
