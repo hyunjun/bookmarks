@@ -1867,6 +1867,7 @@ App
 * [Mindmapping Tools – Centre for Learning & Performance Technologies](http://c4lpt.co.uk/directory-of-learning-performance-tools/mindmapping-tools/)
 * [2021년 Top 10 무료 마인드맵 프로그램 총정리](https://www.edrawsoft.com/kr/program-review/best-mindmapping-softwares.html)
 * [무료 마인드맵 프로그램/어플/사이트 추천 TOP 10 (2020년)](https://gitmind.com/kr/free-mind-map-software.html)
+* [The Ultimate Mind Map Tutorial (How To Take Notes) - YouTube](https://www.youtube.com/watch?v=g7j_CoKD1Xs)
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) open source라 써보려고 했으나 너무 느림
 * [GitMind - Free Online Mind Mapping](https://gitmind.com/) twitter account로 사용중
 * MindMeister [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/) basic plan은 mindmap 3개 제한
