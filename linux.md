@@ -1069,6 +1069,7 @@ Linux
   * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
   * [xargs considered harmful - by Tyler Adams - CodeFaster](https://codefaster.substack.com/p/xargs-considered-harmful)
   * [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
+  * [Xargs Explained - YouTube](https://www.youtube.com/watch?v=HK1wAV9x4-A)
 * [`xxd`](https://linux.die.net/man/1/xxd)
   * 0, 1에 대한 bit format 출력
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
