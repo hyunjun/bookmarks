@@ -1724,6 +1724,8 @@ NLP
   * [practice - LangChain meetup - QA 기능을 이용한 효율적인 정보 추출](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#2cffe55e456849d086827cf5f04a01ff)
   * [Streamlit과 Langchain으로 나만의 웹서비스 개발하기.pptx - Google Slides](https://docs.google.com/presentation/d/1_qS2dWZGsR4WesEnGtvxiAjL1_6xXLL0/edit#slide=id.p1)
   * [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
+  * [Launch an LLM App in One Hour (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=twHxmU9OxDU)
+    * [the-full-stack/ask-fsdl: Document Q&A over The Full Stack's Corpus](https://github.com/the-full-stack/ask-fsdl)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
