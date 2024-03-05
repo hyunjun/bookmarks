@@ -6177,6 +6177,24 @@ Programming
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
 * [Google Software Engineering Culture](https://www.infoq.com/news/2019/09/google-software-engineering/) code repository 사용
 * [Netflix: A Culture of Learning. Martin Tingley with Wenjing Zheng… | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
+* [How Netflix builds a culture of excellence | Elizabeth Stone (CTO) - YouTube](https://www.youtube.com/watch?v=2XgU6T4DalY)
+  * [넷플릭스가 우수한 문화를 구축하는 방법 | 엘리자베스 스톤(CTO) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345778?sId=2XgU6T4DalY)
+    * 포춘 500 회사에 영입된 최초의 경제학자 CTO로 알려짐
+      * 경제학은 데이터 과학의 한 분야로, 기술적인 스킬을 갖추고 문제를 해결하는 방식 제시
+      * 데이터 과학이 여러 문제에 도움이 될 수 있는 것처럼, 경제학은 다양한 도전에 유용하며 비즈니스 환경에서 문제를 단순화하는 데 유용
+      * 개인적으로 경제학을 배우고 이를 다양한 역할에 적용함으로써, 문제의 원인과 결과를 이해하고 의도하지 않은 결과에 대비할 수 있는 능력 육성
+    * 기술적인 문제를 컨텐츠팀에 이해시키고, 그들의 성공을 위해 기술팀이 도와야 함
+      * 넷플릭스의 문화에서는 고품질과 세부사항에 높은 기준을 갖고 있으며, 직속 부하진에게도 이를 이해시키고 함께 성장시키는 방법을 모색
+    * 관리자로서
+      * 팀원들에 대해 높은 기대치를 제시하고, 기준에 미치지 못할 때에는 구체적인 피드백 제공
+      * 피드백과 함께 어떻게 기준에 맞추고 성취할 수 있는지에 대해 명확하게 설명하며 팀원들을 도움
+      * 실수를 고치고 성공을 이룰 수 있도록 팀원들을 지원, 안전한 환경에서 피드백을 주고받을 수 있게 함
+      * 높은 기대치를 갖고 도움을 주는 것은 실력 향상에 큰 기여를 한다고 생각하며, 팀이 더 나아질 수 있다고 믿음
+      * 높은 기대치와 동시에 피드백을 받을 때에는 팀원들의 능력과 성장을 고려하며 피드백을 주고, 후에 개선할 수 있도록 도움
+      * 바람직한 기대치 설정/구체적인 피드백 제공/개인적으로 대화를 나누는 것이 중요하다고 강조, 내 기대치를 명확히 전달하는 것이 팀의 성공을 위해 중요
+    * 매니저와의 대화에서 자주 상호평가를 하고, 성과검토와 함께 평가 기준을 충족하는지 확인
+      * 넷플릭스는 프로세스를 만들지 않고 평가 요소를 일상에 반영하며, 연속적인 피드백 제공
+      * 평가는 승진과 보상에 연관돼 있지만, 일상에도 적용되어 있어서 6개월을 기다리지 않고 실시간으로 피드백 가능
 * [(25) Roundtable: Development Culture | LinkedIn](https://www.linkedin.com/pulse/roundtable-development-culture-wook-jin-lee/)
   * 슈퍼셀의 이욱진 님이 한국에 오셔서 라운드테이블로 게임 업체 간 문화를 공유하는 자리를 만들고 그 결과를 공유한 자리
   * 슈퍼셀을 각 게임을 만드는 담당자들이 게임 종료를 포함해서 직접 의사결정을 하고 가능한 한 투명하게 정보를 공유하려고 노력하는 문화, 슈퍼셀의 문화와 참가자들과 논의한 내용 정리
