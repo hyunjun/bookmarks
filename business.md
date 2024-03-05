@@ -1862,6 +1862,7 @@ Business
   * 기억을 제대로 하면 좋지만, 이런 사례가 흔하지는 않을테니 기록하고 제대로 찾아만 봐도 굉장히 수준이 높은 경우이다
   * 최악은 기록도 하지 않고 기억을 자기 하고 싶은대로 하면서 그걸로 사람을 평가하는 경우
 * [최악의 직장상사 유형은? / 나쁜 리더가 따로 있는게 아니에요 / 리더의 태도 문성후 대표 - YouTube](https://www.youtube.com/watch?v=bCvylYCFeF4)
+* [초보 팀장이 빠지는 함정 5가지. 다른 책 찾지 말고 이것만 기억하세요 | by Sophie Ju | DelightRoom | Mar, 2024 | Medium](https://medium.com/delightroom/%EC%B4%88%EB%B3%B4-%ED%8C%80%EC%9E%A5%EC%9D%B4-%EB%B9%A0%EC%A7%80%EB%8A%94-%ED%95%A8%EC%A0%95-5%EA%B0%80%EC%A7%80-8c9b99e460d8)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
