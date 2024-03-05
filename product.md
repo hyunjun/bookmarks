@@ -178,6 +178,7 @@ Product
 * [Why Are Topre Keyboards So Expensive? - Switch and Click](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 * [내가 써본 최고의 기계식 키보드 TOP5 / 2022년 신제품 포함 - YouTube](https://www.youtube.com/watch?v=R_VKJJ7cctg)
 * [Keys To A Dream Software Development Setup - YouTube](https://www.youtube.com/watch?v=pK41Mr4Kdd0)
+* [도면 공유합니다..! (한국인전용 인체공학 스플릿 키보드) - YouTube](https://www.youtube.com/watch?v=i9VYkHp0Km0)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
@@ -196,6 +197,9 @@ Product
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * Logitech MX mechanical [사무용 무선 기계식 키보드 (2) - YouTube](https://www.youtube.com/watch?v=h4IhV6xOgNc)
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
+* Mistel
+  * [분리형 키보드 1년 사용후기 | MISTEL BAROCCO MD770 - YouTube](https://www.youtube.com/watch?v=sW4pnHVCHV4)
+  * MD600 [웹소설 작가, 스플릿 키보드 어떻게 고르지? 적응은 가능? 마감은 되겠어?! | 내돈내산 키보드 후기 - YouTube](https://www.youtube.com/watch?v=_DKuo7YZUjQ)
 * [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
 * moonlander [40만원짜리 어고노믹 키보드 샀다. - YouTube](https://www.youtube.com/watch?v=fjwhN6DqCSU)
 * MStone [사람(?)이 윤활해준 저소음 밀키축! 부드러운 저압 타건감! 집콕하면 하나씩 있어야 하는 키보드 엠스톤 그루브 T SF 리뷰! - YouTube](https://www.youtube.com/watch?v=LKKtY6Llmj0)
@@ -206,6 +210,9 @@ Product
   * [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
 * [qwerkywriter](http://www.qwerkywriter.com)
   * [드디어 출시된 타자기형 키보드](http://www.bloter.net/archives/244075)
+* Reex
+  * [스플릿 트랙볼 키보드 손목을 지켜라! 납땜부터 한 땀, 한 땀 만드는 수공예 키보드 - Reex56 - YouTube](https://www.youtube.com/watch?v=bI1SwZp6C9A)
+  * [【ダブルトラックボールが使いやすい！】Reex67 & Reex56 レビュー | Reex67 & Reex56 : Custom Mechanical Keyboard Review - YouTube](https://www.youtube.com/watch?v=_kqikcVP6G0)
 * [Royal Kludge RK61 기계식무선키보드](https://developer-ankiwoong.tistory.com/835)
 * [Sensel Morph](https://morph.sensel.com/)
   * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
