@@ -52,6 +52,7 @@ Javascript
 * [JSRobot](https://lab.reaal.me/jsrobot/)
 * [JS Is Weird](https://jsisweird.com/) JavaScript의 이상한 문법 25개 문제
 * [1주차-Trello 아키텍처 overview, javascript 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=19530125)
+* [We Forgot Frontend Basics | Stackademic](https://blog.stackademic.com/we-forgot-frontend-basics-2f9a1c4dabaa)
 * [Modern JavaScript for Python Developers - YouTube](https://www.youtube.com/watch?v=jAbDjt0pens)
 * [Over 20 Resources to Advance Your JavaScript Skills | by Thomas Lombart | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/over-20-resources-to-advance-your-javascript-skills-1d5758ca1bf2)
 * [Beginner's Series to: JavaScript - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
