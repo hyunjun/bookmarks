@@ -2096,6 +2096,7 @@ AWS
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
+* [aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart](https://github.com/aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart)
 * LEX
   * [Amazon Lex에서 Open API를 이용한 대화형 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-lex-chatgpt-communication/)
   * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
