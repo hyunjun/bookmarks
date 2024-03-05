@@ -50,6 +50,7 @@ Monitoring
   * 대시보드를 어떻게 작성하고 관리해야 할까에 대한 인사이트를 얻을 수 있는 글
 * [Is a dashboard necessary?. As a specialist in data visualization… | by Antonio Neto | Medium](https://medium.com/@antonioneto_17307/is-a-dashboard-necessary-a3153db47219)
   * "대시보드는 꼭 필요한 것은 아니다(오히려 잘못 만들어진 대시보드는 사용자를 오도할 수 있음). 하지만, 잘 만들어진 대시보드는 유용하다"
+* [돈이 되는 Data Analytics](https://labs.brandi.co.kr//2024/03/04/choijh.html) dashboard, databricks, athena + tableau
 * [기고 “인공지능 알고리즘의 잠재력을 결정하는 것은 측정에서 시작됩니다” < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=26454)
 * [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 * [스마트폰 알림 끄고 상사에게 칭찬 받는 법 - YouTube](https://www.youtube.com/watch?v=hb6Us_evNG8) 재미있는(?) alert
