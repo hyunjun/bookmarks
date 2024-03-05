@@ -714,6 +714,7 @@ Programming
 * [The Essence of Programming - gingerBill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
+* [하드웨어가 세상을 집어삼키고 있다 – Interpreting Compiler](https://interpiler.com/2024/03/04/%ed%95%98%eb%93%9c%ec%9b%a8%ec%96%b4%ea%b0%80-%ec%84%b8%ec%83%81%ec%9d%84-%ec%a7%91%ec%96%b4%ec%82%bc%ed%82%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4/)
 * [Strangler Fig 패턴과 점진적 IT 투자](https://brunch.co.kr/@graypool/966) 기술적인 이야기는 아니라서 여기에
 * [코드 정돈과 시스템 규모 리팩터링 사이](https://brunch.co.kr/@graypool/1539)
   * 역시 기술에 대한 건 아니지만 좋은 글
@@ -6769,6 +6770,8 @@ Programming
 * [Mastering BDD - Eran Kinsbruner Workshop Quest 2018](https://www.slideshare.net/ek121268/mastering-bdd-eran-kinsbruner-workshop-quest-2018)
 * [Let's talk about software behaviour (BDD) by Katrin Rabow - YouTube](https://www.youtube.com/watch?v=OCo8oDneHtQ)
 * [테스트 코드 도입은 정말 비효율적일까?. 실전 사례로 보는 테스트 코드 도입 | by Soo | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EB%8F%84%EC%9E%85%EC%9D%80-%EC%A0%95%EB%A7%90-%EB%B9%84%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-476d3411ac63)
+* [Voxxed Days Ioannina 2024 - Unlocking Collaboration in Code: A Journey through BDD - YouTube](https://www.youtube.com/watch?v=7wURMys8H9s)
+  * [Voxxed Days Ioannina 2024 - Unlocking Collaboration in Code: A Journey through BDD - YouTube](https://lilys.ai/digest/344525?sId=7wURMys8H9s)
 * Cucumber [BDD Testing & Collaboration Tools for Teams | Cucumber](https://cucumber.io/)
   * [cucumber_example](https://github.com/juunini/cucumber_example)
     * [심영이 고자가 되는 시나리오를 Cucumber로 증명해보자(?)](https://velog.io/@juunini/%EC%8B%AC%EC%98%81%EC%9D%B4-%EA%B3%A0%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%EB%A5%BC-Cucumber%EB%A1%9C-%EC%A6%9D%EB%AA%85%ED%95%B4%EB%B3%B4%EC%9E%90)
