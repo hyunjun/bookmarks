@@ -260,6 +260,7 @@
 * [자바 구조 패턴은 어떻게 쓰일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2122/)
 * [자바 생성 패턴을 실제 프로젝트에 적용하려면? | 요즘IT](https://yozm.wishket.com/magazine/detail/2155/)
 * [자바 행동 패턴은 어떻게 사용해야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2190/)
+* [5 Design Patterns That Are ACTUALLY Used By Developers - YouTube](https://www.youtube.com/watch?v=YMAwgRwjEOQ)
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
