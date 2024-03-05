@@ -180,6 +180,7 @@ Product
 * [Keys To A Dream Software Development Setup - YouTube](https://www.youtube.com/watch?v=pK41Mr4Kdd0)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
+  * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
