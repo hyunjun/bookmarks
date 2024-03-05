@@ -74,6 +74,7 @@ Docker
 * [Dive Into Docker part 3: Caching and Building Containers - DEV Community](https://dev.to/klip_klop/dive-into-docker-part-3-caching-and-building-containers-17lb)
 * [Dive Into Docker part 4: Inspecting Docker Image - DEV Community](https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
+* [Learn Docker in 1 Hour | Full Docker Course for Beginners - YouTube](https://www.youtube.com/watch?v=GFgJkfScVNU)
 * [Virtual Machine (VM) vs Docker - YouTube](https://www.youtube.com/watch?v=a1M_thDTqmU)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
