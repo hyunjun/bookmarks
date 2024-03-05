@@ -1664,6 +1664,23 @@ NLP
     * 대규모 언어 모델 훈련에 대한 두 가지 오해를 해소
       * 첫 번째는 비용 문제는 실제로 그렇게 높지 않다는 점
       * 두 번째는 어렵지 않다는 것
+* [The Guide To LLM Evals: How To Build and Benchmark Your Evals | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/llm-evals-setup-and-the-metrics-that-matter-2cc27e8e35f3)
+  * LLM 평가 구축, 기준 설정
+  * 사용자 피드백 부족 및 비용이 많이 드는 인간 레이블링으로 인한 전통적 평가 방법의 어려움, 평가 프로세스를 자동화하기 위해 LLM 도입
+  * 초점은 LLM 모델 평가와 LLM 시스템 평가 구별
+    * LLM 모델 평가는 기본 모델의 전체 성능을 평가
+    * LLM 시스템 평가는 특정 구성 요소를 평가, 프롬프트 및 컨텍스트와 같은 제어된 시스템 내에서 평가
+  * 다양한 사용 사례를 기반으로 LLM 시스템 평가 메트릭 소개, 구조적 정보 추출, 질문 응답 및 RAG(Retrieval Augmented Generation)과 같은 다양한 평가 메트릭에 중점
+    * LLM 프롬프트 템플릿을 평가하기 위한 기준으로 정확도만 의존하지 말아야 하는 한계를 강조하며 정밀도와 재현율의 중요성 설명
+  * LLM 평가를 구축하는 과정은 적합한 메트릭 선택, ground truth label 포함 대표적인 "골든 데이터셋" 획득, 평가용으로 LLM 선택 및 효과적인 평가 템플릿 설계로 진행
+    * 성능 메트릭을 기반으로 템플릿을 개선하는 반복적인 과정과 골든 데이터셋에 과도하게 적응하지 않도록 하는 중요성 강조
+  * 응용 프로그램에서 LLM 평가를 실행하는 방법 설명
+    * 재현 가능성과 유연성을 갖춘 내장된 프롬프트 템플릿이 포함된 라이브러리 사용의 중요성 강조
+  * 프로덕션 이전 및 이후에 시스템 성능을 이해하기 위해 LLM 평가의 중요성을 강조
+    * 샘플링 크기, 사용 사례에 기반한 평가 메트릭의 선택, 적절한 LLM 모델 선택과 같은 주요 고려 사항 설명
+  * 결론
+    * 사용자 경험을 최적화하기 위해 프롬프트 템플릿을 포함한 전체 LLM 기반 시스템을 평가 중요성 강조
+    * 최적의 결과를 얻기 위한 최선의 방법, 표준 도구 및 선별된 데이터셋의 역할 강조
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
