@@ -774,6 +774,7 @@ Linux
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
   * [(리눅스 업스킬 도전 #9) 서비스 포트 관리](https://jhrogue.blogspot.com/2020/09/9.html)
   * ["영화에 가장 많이 등장한 앱" 앤맵의 주요 기능과 활용법 - ITWorld Korea](https://www.itworld.co.kr/news/237694)
+  * [NMAP Full Guide (You will never ask about NMAP again) #hackers #scanning #nmap - YouTube](https://www.youtube.com/watch?v=JHAMj2vN2oU)
 * [nq: Unix command line queue utility](https://github.com/leahneukirchen/nq)
 * `nslookup`
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
