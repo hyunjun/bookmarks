@@ -1497,6 +1497,20 @@ NLP
     * 몇 가지 모델의 예측 정확도는 기본적으로 여전히 문제
       * 맞춤형 평가 기준을 구축 및  데이터의 출처와 학습에 사용된 데이터에 대해 신중할 필요
       * 많은 데모가 훌륭해 보일 수 있지만 엄격한 평가에 따르면 준비된 것이 아님, 아직 그 과정이 초기에 머물고 있는 것으로 평가
+* [Building an LLMOps Stack for Large Language Models | LLMs - YouTube](https://www.youtube.com/watch?v=S_GvegmypBw)
+  * [대규모 언어 모델을 위한 LLMOps 스택 구축하기 | LLMs | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346573?sId=S_GvegmypBw)
+    * Prompt engineering이 중요
+      * 모델과의 대화 방식, 질문 방법, 결과를 해석하는 방법을 배우고, 그 후 평가 단계를 거치며 결과를 확인하고, LLM을 어떻게 운영할지에 대한 전략을 결정
+      * LLM 결과가 좋다면, 프로덕션에 배포하고 production 환경에 모니터링 및 관찰 가능성을 유지하는 것이 중요
+      * Prompt engineering과 평가를 거쳐 production으로의 배포가 결정되는 과정은 중요하며, 프로덕션 배포 방법과 모델 모니터링이 이어짐
+    * 프롬프트 엔지니어링 실험을 평가한 뒤, 데이터 양과 품질이 fine-tuning의 성공에 영향
+      * 데이터가 풍부하고 품질이 우수하다면 오픈소스 모델을 세밀히 조정 가능, 독점적 모델도 fine-tuning이 가능
+      * 평가 후 최적의 결과를 보장하기 위해 제대로 실험한 뒤 하이브리드 접근법을 택할 수 있고, 부족한 데이터일 경우 RAG도 고려 가능
+      * LLMOps에 접근할 때 중요한 단계는 foundational 모델 선택부터 retrieval, generation, evaluation까지 다양한 parameter 및 구성 평가를 거쳐 fine-tuning과 prompt engineering 조합 가능
+    * 평가를 위한 도구들, 특히 MLflow와 DeepChecks가 가장 잘 알려진 도구 중 하나
+* [LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/llmops/)
+  * [DLAI - LLMOps.mp4 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346525?sId=055aae79-ef04-4f3b-8e98-1ec7bc8dd88d)
+* [Automated Testing for LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
 * [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
@@ -2105,6 +2119,7 @@ NLP
     * [챗GPT 러닝데이 | 챗GPT | 한국어 LLM 민주화의 시작 KoAlpaca! - 이준범](https://aifactory.space/learning/2415/discussion/383)
     * [KoAlpaca-Polyglot-12.8B · Hugging Face](https://huggingface.co/beomi/KoAlpaca-Polyglot-12.8B)
 * [autogen: Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ ](https://github.com/microsoft/autogen)
+  * [AutoGen Studio 2.0 Full Course - NO CODE AI Agent Builder - YouTube](https://www.youtube.com/watch?v=apEA0oJaFb4)
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [book\_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book\_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
