@@ -1468,6 +1468,35 @@ NLP
       * 모델의 성능 모니터링을 위해 '모니터링' 기능을 활용하여 메트릭을 확인하고 생산 환경에서 발생한 문제를 알려주는 알림 기능 사용 가능
       * 어떤 고객의 의도를 이해하여 적절한 흐름으로 라우팅하는 '의도 분류'의 중요성 강조, 이에 따라 모델을 업데이트하는 방법에 대해서도 설명
       * 배포한 모델이 실제로 어떻게 동작하는지 테스트, 과거 데이터에 기반한 평가를 통해 발생한 문제를 해결하여 엔드 투 엔드 과정을 완성
+* [MLOps vs LLMOps // Panel 4 // LLMs in Conference in Production Conference Part 2 - YouTube](https://www.youtube.com/watch?v=CJbse6x1YqU)
+  * [MLOps와 LLMOps // 패널 4 // 프로덕션 컨퍼런스의 LLM 파트 2 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346189?sId=CJbse6x1YqU)
+    * LLM Ops와 MLOps의 차이점 = '추상화와 일반화'
+      * LLM Ops는 언어 중심이며 일반화되어 있어 사용 사례를 어떻게 구성할지에 관한 중요성 강조
+    * 오프라인 플로우의 중요성이 감소하면서 애플리케이션 빌더들은 새로운 사용 사례에 대한 가능성을 보다 쉽게 개척 가능
+      * 모델을 쉽게 프로덕션 환경에 적용하여 사용자 앞에 내놓고 트래픽을 유도하며 다음 단계를 고민하는 것이 중요
+      * 오프라인 플로우는 이제 초점이 아닌 보조 단계, 모델 훈련과 같은 과정이 처음 단계보다는 후속 과정으로 변화
+      * 이는 새로운 'LLMOps' 세계에서 일어나는 근본적인 변화 중 하나
+    * 프롬프트 엔지니어링을 통해 많은 일 가능
+      * 훈련과 정교화가 아닌, 프롬프트에 대한 반복이나 문맥에 대해 고려
+      * 과거보다 개선에 대한 생각이 다르며, LLM 엔지니어링에서 훈련보다는 프롬프트와 프롬프트 반복에 중점을 둔다는 점은 동일
+      * MLOps와 LLMOps 모두에서 중요한 것은 견고하고 일관된 작업을 하는 것이 어렵다는 점
+    * MLOps에 대한 이해가 쉽지 않은 회사들을 위해, 기존의 구축물을 가져다 써도 되는 것인지 아니면 완전히 별도의 노력이 필요한지 고민되는 상황
+      * 기존의 예측 사용 사례, 분류, 추출 등이 여전히 중요
+      * 세부적인 예측 작업은 기존 모델로도 충분할 수 있으며, 일반적인 것에서 전문가로 전환되는 경향
+    * AI가 특히 복잡하고 가치 있는 문제에서 '마지막 단계'가 항상 어렵다는 사실 이해 필요
+      * 일반 모델은 탐구를 시작하는 강력한 기반이 될 것으로 보이며, 전문가를 훈련시키기 위한 출발점으로 활용
+      * 전문가가 필요한 특정한 문제를 해결할 때에는 실제로 전문가들이 필요
+    * 데이터 엔지니어링에서 데이터 조작과 외부 컨텍스트가 중요하며 하이퍼파라미터 모델 선택보다 더 중요
+      * 서비스측에서 전통적 MLOps와 일반적 모델의 서로 다른 접근을 예측하며, 대형 모델이 필요한 경우와 Ops의 차이를 강조
+      * 전문화된 모델과 일반 모델 사이에서 변화가 예상
+    * 기업들이 오픈소스 규칙을 활용하는 방법과 데이터의 안전성 확보에 대한 고민, 내부에서 LLM 모델 구축을 고려하는 경향
+      * 대기업들이 LLM을 도입하는 것은 아직 초기 단계, 실제 적용에는 어려움이 존재
+      * 보안 및 데이터팀들은 OpenAI의 API와 같은 외부로 데이터를 전송하는 것에 신중함 요구, 자체 스택 소유/외부 데이터 전송 불가능한 경우 신규 구축 혹은 협업 고려
+      * LLM 구축에 초점을 둔 스타트업이 많이 나타나며, 대규모 LLM을 관리하고 배포하는 것은 큰 부담일 가능성. 산업계에는 아직 해답이 모호한 문제
+    * LLM 운영에서 주목해야 할 점은 디버그나 진단에 집중해야 할 필요성이며, 복잡한 데이터 관계 및 서비스 호출 로직에 대해 파악하는 것이 중요
+    * 몇 가지 모델의 예측 정확도는 기본적으로 여전히 문제
+      * 맞춤형 평가 기준을 구축 및  데이터의 출처와 학습에 사용된 데이터에 대해 신중할 필요
+      * 많은 데모가 훌륭해 보일 수 있지만 엄격한 평가에 따르면 준비된 것이 아님, 아직 그 과정이 초기에 머물고 있는 것으로 평가
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
 * [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
@@ -1616,6 +1645,11 @@ NLP
       * 프롬프트 모니터링, 응답셋 관리, 랭킹모델을 통한 답변 품질 유지 등의 프롬프트 엔지니어링 및 관리의 중요성
       * 돈과 전문성에 대한 투자 필요, 관리 포커스를 잘 조절할수록 긍정적인 결과
 * [Building AI LLM Apps with LangChain (and more?) - LIVE STREAM - YouTube](https://www.youtube.com/watch?v=M-2Cj_2fzWI)
+* [Efficiently Scaling and Deploying LLMs // Hanlin Tang // LLM's in Production Conference - YouTube](https://www.youtube.com/watch?v=AVccFl8-5-8)
+  * [LLM의 효율적인 확장 및 배포 // 한린 탕 // 프로덕션 환경에서의 LLM 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346377?sId=AVccFl8-5-8)
+    * 대규모 언어 모델 훈련에 대한 두 가지 오해를 해소
+      * 첫 번째는 비용 문제는 실제로 그렇게 높지 않다는 점
+      * 두 번째는 어렵지 않다는 것
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
