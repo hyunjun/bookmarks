@@ -1385,6 +1385,7 @@ Web
   * [The Cloudflare Blog](https://blog.cloudflare.com/pingora-open-source)
     * Cloudflare가 2022년 Nginx를 대체하기 위해 Rust로 작성한 HTTP 프록시 서버 Pingora를 오픈소스로 공개
     * Pingora는 HTTP/1, HPTT/2, gRPC, WebSocket 프록시를 지원하고 Pingora 기반으로 서비스를 구축할 수 있는 라이브러리와 API도 제공
+  * [Cloudflare Open sources Pingora (NGINX replacement) - YouTube](https://www.youtube.com/watch?v=WpMwuo13-7w)
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
