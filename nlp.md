@@ -1427,6 +1427,26 @@ NLP
   * [LLM 기반 애플리케이션 평가 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342824?sId=2CIIQ5KZWUM)
 * [LLMOps: Everything You Need to Know to Manage LLMs - YouTube](https://www.youtube.com/watch?v=D-_Usg9TCRQ) Lakehouse AI의 사용 예와 아키텍처
   * [LLMOps: Everything You Need to Know to Manage LLMs - YouTube](https://lilys.ai/digest/344553?sId=D-_Usg9TCRQ)
+* [LLMOPS! Setting up Active Learning with LangChain and ClearML - YouTube](https://www.youtube.com/watch?v=gR__vhOVvy4)
+  * [LLMOPS! LangChain 및 ClearML로 능동형 학습 설정하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345583?sId=gR__vhOVvy4)
+    * Streamlit 활용, 직관적인 UI를 만들어 팀원들이 훈련/세밀한 조정을 하는 등, 반복적으로 훈련하여 규모에 맞게 모든 것을 추적하고, 운영과 피드백이 중요
+    * 사람 labelers 또는 QA 팀원과 같이 예시 질문에 대한 답변의 품질을 평가할 수 있도록 Streamlit 앱 사용
+    * 질문에 정확한 답변을 하되, Uncertain 한 경우 명시하고, 소스를 같이 제시함을 요청
+    * 이전 피드백을 고려할 때, 질문과 소스 포맷팅에 주의해 충분한 답변을 제공
+  * [Use AI to train AI: prompt learning using OpenAI API and ClearML - ClearML](https://clear.ml/blog/use-ai-to-train-ai-prompt-learning-using-openai-api-and-clearml/)
+  * [promptimyzer](https://github.com/thepycoder/promptimyzer)
+* [Intro to Language Model Operations (LLM-Ops) - YouTube](https://www.youtube.com/watch?v=nKb5xf9R4Dk)
+  * [언어 모델 작업(LLM-Ops) 소개 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345658?sId=nKb5xf9R4Dk)
+    * 모델을 평가하는 여러 방법 중 'Ground truth metrics'와 벤치마크의 중요성 강조
+    * LLM 평가 방식인 self-check GPT 등 새로운 접근법에 대해 소개, LLM-Ops에서 내부모델 외에도 외부 API 등 다양한 요소 고려 필요
+      * 전통적인 ML 지표와 다른 방식으로 모델을 평가 필요, 모니터링 파이프라인에서 분포 이동 체크와 이상 감지의 중요성 강조
+      * 프롬프트와 응답을 단독으로 보는 것이 아니라 복합 객체로 보아야 한다고 강조
+      * 이러한 규칙을 그룹화하여 LLM의 성능을 파악하는 것이 중요
+    * 지연 시간 감소, 연속적인 컨텍스트 윈도우 활용
+      * 언어 모델 훈련이 필요한 경우 OpenAI나 Anthropic과 같은 사용자의 독특한 가치 제안을 가진 비즈니스에 한정하는 것이 좋음
+      * 모델을 저장하고 풋프린트를 줄이거나 작은 장치에 배치하는 것이 필요한 경우, 양자화, 메모리제거, 캐싱을 사용하여 지연 시간 감소 가능
+      * 비용 최적화를 위해 다양한 모델, GPU 클러스터 및 오픈소스 배포도 고려 필요
+    * 딥러닝 모델 배포와 모델 세밀 조정에 대한 기반 필요
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
 * [MLOps Now Nov Session #1 : MLOps & LLMOps 2023 주요 트렌드 (by 안재만, VESSL AI) - YouTube](https://www.youtube.com/watch?v=-ND0cYlOm7E)
@@ -1567,6 +1587,14 @@ NLP
 * [colab에서 transformers 라이브러리로 LLM 학습시 checkpoint 사용하기](https://webnautes.tistory.com/2279)
 * [안전한 LLM 학습 데이터는 어떻게 수집할까? | OpenAI 2022 | 조원익 - YouTube](https://www.youtube.com/watch?v=gTjC88AHr_g)
 * [SK TECH SUMMIT 2023 비즈니스에 실제로 활용 가능한 LLM 서비스 만들기 - YouTube](https://www.youtube.com/watch?v=9Rf2EibqddQ)
+* [LLM 모델 기반 서비스 실전 가이드 - 이태영 (케라스 코리아 운영진) I 모두의연구소 K-디지털플랫폼 모두팝 - YouTube](https://www.youtube.com/watch?v=8UfK7fVPCGQ)
+  * [LLM 모델 기반 서비스 실전 가이드 - 이태영 (케라스 코리아 운영진) I 모두의연구소 K-디지털플랫폼 모두팝 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345692?sId=8UfK7fVPCGQ)
+    * 프롬프트 엔지니어링
+      * 인스트럭션, 컨텍스트, 인풋 데이터, 아웃풋 인디케이터가 중요
+      * 도메인 전문가의 컨텍스트 고도화 중요
+      * 프롬프트 모니터링, 응답셋 관리, 랭킹모델을 통한 답변 품질 유지 등의 프롬프트 엔지니어링 및 관리의 중요성
+      * 돈과 전문성에 대한 투자 필요, 관리 포커스를 잘 조절할수록 긍정적인 결과
+* [Building AI LLM Apps with LangChain (and more?) - LIVE STREAM - YouTube](https://www.youtube.com/watch?v=M-2Cj_2fzWI)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -1598,6 +1626,8 @@ NLP
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
   * [챗GPT·빙챗·바드를 부끄럽게 만든 1등 클로드 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=151525)
   * [Anthropic's "safer" Claude 2 AI Is Here - Dataconomy](https://dataconomy.com/2023/07/12/claude-2-ai-is-out-chatgpt/)
+  * [Introducing the next generation of Claude \ Anthropic](https://www.anthropic.com/news/claude-3-family)
+    * [Claude 3 모델 공개 | GeekNews](https://news.hada.io/topic?id=13649)
 * [dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 * [data-modori](https://github.com/teamreboott/data-modori/)
 * [DB-GPT](http://docs.dbgpt.site/docs/overview)
@@ -1883,6 +1913,7 @@ NLP
   * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [NExT-GPT](https://next-gpt.github.io/)
   * [NExT-GPT: Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model](https://github.com/NExT-GPT/NExT-GPT)
+* [Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation](https://github.com/microsoft/Olive/)
 * [onprem - OnPrem.LLM](https://amaiya.github.io/onprem/)
   * [onprem: A tool for running on-premises large language models with non-public data](https://github.com/amaiya/onprem)
 * [open\_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open\_flamingo)
@@ -2103,6 +2134,8 @@ NLP
     * [Programmatically manage 🤗 Inference Endpoints](https://www.philschmid.de/inference-endpoints-iac)
   * [🔥Private #chatgpt 🔥 나만의 ChatGPT 만들기 (HuggingFace Open LLM 활용) - YouTube](https://www.youtube.com/watch?v=aECwQqBWfJM)
     * [text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models](https://github.com/oobabooga/text-generation-webui)
+  * [공짜로 LLM모델 이용하는 방법 - YouTube](https://www.youtube.com/watch?v=xduuvEuV3-I)
+    * [공짜로LLM모델사용하기.ipynb - Colaboratory](https://colab.research.google.com/drive/1pgsCLrwt0M1KjOsXiLU0-LgVChqt7LPj?usp=sharing)
   * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
     * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
     * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
@@ -3071,6 +3104,7 @@ NLP
 * [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
 * [speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline](https://github.com/Uberi/speech_recognition#readme)
   * [Make a Voice Assistant with Python - YouTube](https://www.youtube.com/watch?v=iwVaAAEE4fo)
+* [SSML-prosody-library: A collection of pre-built speech synthesis settings used to convey emotion](https://github.com/brycehowitson/SSML-prosody-library)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
