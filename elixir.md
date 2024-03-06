@@ -151,6 +151,7 @@ Elixir
 * [Build A Simple Tracing System in Elixir | AppSignal Blog](https://blog.appsignal.com/2024/01/23/build-a-simple-tracing-system-in-elixir.html)
 * [Bridging Elixir and Python for Efficient Programming Solutions | Curiosum](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
 * [Introducing Elixir WebRTC. For the last few months, we’ve been… | by Łukasz Wala | Feb, 2024 | Software Mansion](https://blog.swmansion.com/introducing-elixir-webrtc-a37ece4bfca1)
+* [Scaling a streaming service to hundreds of thousands of concurrent viewers at Veeps - The Elixir programming language](https://elixir-lang.org/blog/2024/03/05/veeps-elixir-case/?)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
