@@ -177,6 +177,7 @@ Elixir
 * [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
 * [LG유플러스 Elixir Tech Seminar - YouTube](https://www.youtube.com/watch?v=NJqlO8ZSyJw)
+* [OKKY 3월 세미나 Elixir: 대용량 분산 웹개발의 혁명 (부제: Java / C++ / Python이 OOP 언어가 아닌 이유) - YouTube](https://www.youtube.com/watch?v=Rjyf_dELAeg)
 * [Keynote: Bringing Elixir to Life by José Valim | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=xItzdrzY1Dc)
 * [Keynote: The Road To LiveView 1.0 by Chris McCord | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=FADQAnq0RpA)
 * [Concurrency Oriented Programming in a Modern World • Robert Virding & Francesco Cesarini • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AvA97AB8cAA)
