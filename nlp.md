@@ -1508,6 +1508,13 @@ NLP
       * 평가 후 최적의 결과를 보장하기 위해 제대로 실험한 뒤 하이브리드 접근법을 택할 수 있고, 부족한 데이터일 경우 RAG도 고려 가능
       * LLMOps에 접근할 때 중요한 단계는 foundational 모델 선택부터 retrieval, generation, evaluation까지 다양한 parameter 및 구성 평가를 거쳐 fine-tuning과 prompt engineering 조합 가능
     * 평가를 위한 도구들, 특히 MLflow와 DeepChecks가 가장 잘 알려진 도구 중 하나
+* [Simplify LLMOps & Build LLM Pipeline in Minutes - YouTube](https://www.youtube.com/watch?v=4ijnajzwor8)
+  * [VidiGo Simplify LLMOps & Build LLM Pipeline in Minutes](https://vidigo.ai//chatbot/summary/kupgzvNDYTVZHVI)
+  * [몇 분 만에 LLMOps 간소화 및 LLM 파이프라인 구축 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/350318?sId=4ijnajzwor8)
+  * [동영상 summarization 비교](https://www.notion.so/1003/summarization-24a1f8ee555f46bc8025a6552f76000b)
+  * [동영상 summarization 비교](https://github.com/hyunjun/bookmarks/blob/master/docs/youtube_summarization_comparison.md)
+  * [동영상 summarization 비교. Candidates | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EB%8F%99%EC%98%81%EC%83%81-summarization-%EB%B9%84%EA%B5%90-4995e12f0407)
+  * [동영상 summarization 비교 - Jun’s Substack](https://recur.substack.com/p/summarization)
 * [LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/llmops/)
   * [DLAI - LLMOps.mp4 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346525?sId=055aae79-ef04-4f3b-8e98-1ec7bc8dd88d)
 * [Automated Testing for LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
