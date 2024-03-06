@@ -477,6 +477,7 @@ App
 * [web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere](https://github.com/webclipper/web-clipper)
 
 # Browser
+* [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 
 ## Browser Arc
 * [Arc from The Browser Company](https://arc.net/)
