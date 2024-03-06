@@ -518,6 +518,7 @@ AWS
 * [LucidLink와 Leostream으로 PCoIP 원격 영상 편집 시스템 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-pcoip-editing-system-with-lucidlink-and-leostream/)
 * [Cloud-Computing in the Post-Serverless Era: Current Trends and beyond - InfoQ](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 * [AWS Signer를 사용하여 컨테이너 이미지 빌드 파이프라인을 보호하기 위한 모범 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/)
+* [AWS Config란?](https://www.smileshark.kr/post/aws-config)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
