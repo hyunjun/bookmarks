@@ -205,6 +205,7 @@ Elixir
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [boruta-server: Lightweight Identity and Access Management server](https://github.com/malach-it/boruta-server)
   * [boruta-server: Lightweight Identity and Access Management server - 25 October 2022](https://www.loom.com/share/77006360fdac44bc9113fab9cf30aba5)
+* Cachex [Powerful Caching in Elixir with Cachex | AppSignal Blog](https://blog.appsignal.com/2024/03/05/powerful-caching-in-elixir-with-cachex.html)
 * [Clojure_Elixir_Concurrent_Ping](https://github.com/tedpark/Clojure_Elixir_Concurrent_Ping)
 * [cowboy: Small, fast, modern HTTP server for Erlang/OTP](https://github.com/ninenines/cowboy)
   * [How to write a Web Server in Elixir - YouTube](https://www.youtube.com/watch?v=a3fhMZ20dT0)
