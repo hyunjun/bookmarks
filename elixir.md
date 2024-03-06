@@ -296,6 +296,7 @@ Elixir
   * [Elixir and Phoenix can do it all! · The Phoenix Files](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
   * [What is Phoenix LiveView? An introductory overview | Curiosum](https://curiosum.com/blog/phoenix-liveview-overview)
   * [Resize Image Uploads with Phoenix LiveView - DEV Community](https://dev.to/andersbjorkland/resize-image-uploads-with-phoenix-liveview-589n)
+  * [Absinthe with Phoenix Framework - GraphQL in Elixir | Curiosum](https://curiosum.com/blog/absinthe-with-phoenix-framework-a-guide-to-properly-get-started-with-graphql-using-elixir)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
