@@ -186,6 +186,25 @@ Azure
 * [Azure AI Studio - Part 1](https://zigispace.net/1244)
 * [Azure AI Studio - Part 2](https://zigispace.net/1245)
 * [Azure AI Studio - Part 3 (prompt flow)](https://zigispace.net/1246)
+* [LLMOps with Azure Prompt Flow & Github - YouTube](https://www.youtube.com/watch?v=j0YJ3BZjrFs)
+  * [VidiGo LLMOps with Azure Prompt Flow & Github](https://vidigo.ai//chatbot/summary/EQqtdTn1ZdN6Z4y)
+    * 1. 인류의 난제 해결을 위한 집중
+      * 인류의 가장 어려운 질문 중 하나를 해결하기 위해 집중하고 있다
+      * Devops 원칙을 대규모 언어 모델 기반 애플리케이션에 적용하는 방법을 모색한다
+      * Azure ml의 promptflow와 github actions를 사용하여 llm 기반 애플리케이션에 ml ops를 적용하는 데모를 소개한다
+    * 2. LLM Ops로의 여정
+      * Mlops에 대한 이야기가 오랜만에 다시 나온다
+      * 대규모 언어 모델을 사용하는 앱 개발부터 프로덕션까지 devops 원칙을 적용하는 과정을 설명한다
+      * Github actions와 azure ml의 promptflow를 활용하여 mlops 적용 방법을 실제로 보여주는 데모를 진행한다
+    * 3. Azure OpenAI 설정 및 GitHub 연동
+      * Azure openai와의 연결을 생성하고, 이를 통해 웹 분류 작업을 수행한다
+      * 컴퓨트 인스턴스를 생성하여 promptflow 애플리케이션을 실행하며, github에 필요한 정보를 추가한다
+      * 서비스 주체를 생성하여 github 액션이 azure 구독에 배포할 수 있도록 권한을 부여한다
+    * 4. 모델 등록 및 엔드포인트 배포
+      * Ci/cd 파이프라인을 통해 웹 분류 모델을 평가하고, 기준을 충족하면 azure ml에 모델로 등록한다
+      * 등록된 모델을 실시간 엔드포인트로 배포하여 외부에서 호출 가능하게 하며, 필요한 권한 설정을 진행한다
+      * 최종적으로 rest 엔드포인트를 통해 웹 분류 서비스를 제공하게 된다
+  * [Azure 프롬프트 플로우 및 Github를 사용한 LLMOps | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/351007?sId=j0YJ3BZjrFs)
 * [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 * [Azure의 Windows Server VM에 중첩 가상화 활성화 필수 조건](https://www.dokyun.pe.kr/337)
 * [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
