@@ -275,6 +275,7 @@ Programmer
 * [함께 일하고 싶은 개발자 동료 특징 5가지. 2024년에 개발자로서 3년차를 맞이했다. 대학생 시절 창업을 하며… | by TaesungLee | Feb, 2024 | Medium](https://medium.com/@dlxotjde_87064/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%99%EB%A3%8C%EC%9D%98-5%EA%B0%80%EC%A7%80-%ED%8A%B9%EC%A7%95-50443c2dfe54)
 * [Why Developers Keep Making Bad Technology Choices – Obsidian Scheduler](https://web.obsidianscheduler.com/why-developers-keep-making-bad-technology-choices/)
   * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
+* [개발자에게 커뮤니케이션 스킬은 왜 중요할까?](https://f-lab.kr/blog/why-important-communication-skill)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
