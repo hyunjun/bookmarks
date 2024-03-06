@@ -1615,6 +1615,7 @@ Python
 * [asyncio.readthedocs.io](http://asyncio.readthedocs.io)
   * [Producer/consumer](http://asyncio.readthedocs.io/en/latest/producer_consumer.html)
 * [Python 3 asyncio basic producer / consumer example](https://gist.github.com/akrylysov/ebab39ca9dafd292916e)
+* [파이썬 asyncio로 생산자/소비자 (Producer/Consumer) 패턴 구현하기](https://sjquant.tistory.com/95)
 * [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
 * [Some Python 3 asyncio snippets](http://blog.mathieu-leplatre.info/some-python-3-asyncio-snippets.html)
 * [**Controlling Python Async Creep**](https://hackernoon.com/controlling-python-async-creep-ec0a0f4b79ba)
