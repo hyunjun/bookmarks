@@ -337,6 +337,7 @@ Interview
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [Is Grokking Advanced System Design Interview on Educative worth it? Review | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/is-grokking-advanced-system-design-interview-on-educative-worth-it-review-d0be0148c9f0)
 * [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
+  * [bytebytego](https://github.com/alex-xu-system/bytebytego)
   * [(1) Free System Design PDF (158 pages) - by Alex Xu](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
   * [Algorithms you should know before you take system design interviews](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7131174125871493120-c8Ut/)
 * [System Design Practice Problems | LeetDesign](https://leetdesign.com/)

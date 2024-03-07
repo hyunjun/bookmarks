@@ -830,6 +830,7 @@ Programming Books
   * [국제은행간통신협회(SWIFT) 결제망 아키텍처 | GeekNews](https://news.hada.io/topic?id=6090)
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초 2》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/12/21/%e3%80%8a%ea%b0%80%ec%83%81-%eb%a9%b4%ec%a0%91-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%84%a4%ea%b3%84-%ea%b8%b0%ec%b4%88-2/)
   * 우당 문005.12-쉬61ㄷ
+  * [bytebytego](https://github.com/alex-xu-system/bytebytego)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * 한라 005.58-홈44ㅋ 탐라 문005.58-홈43ㅋ
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
