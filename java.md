@@ -1221,6 +1221,7 @@ Java
   * G1보다 짧은 지연시간을 가지면서 처리량은 크게 뒤처지지 않는 목표로 만들어진 ZGC에 관해 번역/정리
   * ZGC는 정지 시간이 10ms를 초과하지 않아야 하며 수 TB까지의 heap을 처리할 수 있어야 하면 JDK 11부터 실험적으로 도입되어 옵션을 지정해서 사용 가능
 * [ZGC의 기본 개념 이해하기](https://d2.naver.com/helloworld/0128759)
+* [Bending pause times to your will with Generational ZGC | by Netflix Technology Blog | Mar, 2024 | Netflix TechBlog](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
 * [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [**A Quick Start on Java Garbage Collection: What it is, and How it works**](https://sematext.com/blog/java-garbage-collection/)
