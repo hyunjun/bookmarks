@@ -577,6 +577,7 @@ Data Science
 * Dataflow [Data pipeline asset management with Dataflow | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/data-pipeline-asset-management-with-dataflow-86525b3e21ca)
 * [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
   * [Datasette - 개인용 데이터 웨어하우스 오픈소스 | GeekNews](https://news.hada.io/topic?id=6455)
+* [dataverse: The Universe of Data. All about data, data science, and data engineering](https://github.com/UpstageAI/dataverse?tab=readme-ov-file)
 * [datools](https://github.com/marcua/datools) a collection of Python-based tools for working with data in relational databases
   * [Data diffs: Algorithms for explaining what changed in a dataset | N=1 (marcua’s blog)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
