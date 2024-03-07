@@ -1001,6 +1001,7 @@ Programming
     * DORA의 Working in small batches 번역
     * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
     * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
+  * [GitLab Value Streams 대시보드의 DORA Performers 점수 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/06/gitlab-vs-dora-score/)
 * [How to Survive & Thrive in Tech Leadership Through Agile Transformation • Sean Langton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=oOYddleBsuk)
   * [Bank West의 애자일 변화와 고객 경험](https://traw.ai/collections/64a27c17-c339-413c-b7de-e809df827503/video/a16e996f-c822-4936-80b5-f89b0648898f)
     * 🏦 Bank West의 애자일 변화와 고객 경험
@@ -3732,6 +3733,8 @@ Programming
 * [배포 전략: Rolling, Blue/Green, Canary](https://onlywis.tistory.com/10)
 * [카나리 테스트와 함께하는 안전한 서버 배포 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2021/04/canary/)
 * [**무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)**](https://hudi.blog/zero-downtime-deployment/) 그림으로 잘 표현
+* [프론트엔드 배포 시스템의 진화 (1) - 결제 SDK에 카나리 배포 적용하기](https://toss.tech/article/engineering-note-9)
+* [프론트엔드 배포 시스템의 진화 (1) - 결제 SDK에 카나리 배포 적용하기](https://velog.io/@tosspayments/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%A7%84%ED%99%94-1-%EA%B2%B0%EC%A0%9C-SDK%EC%97%90-%EC%B9%B4%EB%82%98%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Fast & Simple Deployments for Code & Infra • Jessica Kerr & Ian Smith • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=BgwLsl7sHvc)
 * [Top 5 Most-Used Deployment Strategies - YouTube](https://www.youtube.com/watch?v=AWVTKBUnoIg)
 * [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
