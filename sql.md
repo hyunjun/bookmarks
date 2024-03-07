@@ -828,6 +828,7 @@ SQL
 * [MySQL 쿼리 튜닝의 첫걸음 | 요즘IT](https://yozm.wishket.com/magazine/detail/2260/)
 * [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
+* [이커머스 플랫폼의 주문 DB 마이그레이션 경험기](https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform) Oracle to MySQL
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
 * [MySQL 내부 구조](https://brunch.co.kr/@jehovah/21)
 * [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
