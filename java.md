@@ -1257,6 +1257,7 @@ Java
     * JAVA 옵션으로 `ActiveProcessorCount`를 지정해서 해결
 * [**IMDEV 2023 혼자서도 잘하는 메모리 청소부 쥐씨 - YouTube**](https://www.youtube.com/watch?v=F4lWAWOTXyg)
 * [Java Parallel GC Tuning – yCrash](https://blog.ycrash.io/2023/07/13/java-parallel-gc-tuning/)
+* [그래도 자바 최신 버전이 좋은 이유, GC.](https://velog.io/@composite/%EA%B7%B8%EB%9E%98%EB%8F%84-%EC%9E%90%EB%B0%94-%EC%B5%9C%EC%8B%A0-%EB%B2%84%EC%A0%84%EC%9D%B4-%EC%A2%8B%EC%9D%80-%EC%9D%B4%EC%9C%A0-GC)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [GCGC](https://github.com/apple/GCGC)
   * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
