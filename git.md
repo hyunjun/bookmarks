@@ -1341,6 +1341,8 @@ Git
   * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
     * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
   * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
+  * [Let's Build a Website in 10 minutes with GitHub Copilot // Bryant Son // AI in Production Conference - YouTube](https://www.youtube.com/watch?v=gAw-f6vt32Q)
+    * [MLOps Community](https://home.mlops.community/public/videos/lets-build-a-website-in-10-minutes-with-github-copilot)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
