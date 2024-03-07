@@ -657,6 +657,7 @@ Git
     * Git Flow 전략을 쓰면서 정기 배포일을 정해놓고 배포하고 있었는데 한 번에 너무 많은 변경 사항이 같이 나가다 보니 추적도 어려웠고 배포도 점점 부담되어서 Git Flow의 단점이 보이기 시작해서 브랜치 전략을 공부
     * main 브랜치를 mainline으로 사용하는 GitHub Flow와 Trunk-Based 브랜치 전략을 공부
       * GitHub flow를 선택하고 배포 과정이 훨씬 나아졌다고 함
+  * [메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/377)
   * [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [GIT 형상 관리 + 작업 단위와 PR 코드리뷰 + 협업 잘 하는 개발자 - YouTube](https://www.youtube.com/watch?v=su-rtXzThjE)
