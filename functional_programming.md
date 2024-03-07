@@ -176,6 +176,7 @@ Functional Programming
 * [번역 프로그래머를 위한 카테고리 이론 - 3. 다양한 카테고리들 | Evans Library](https://evan-moon.github.io/2024/02/13/category-theory-for-programmers-3-categories-great-and-small/)
 * [번역 프로그래머를 위한 카테고리 이론 - 4. 크라이슬리 카테고리 | Evans Library](https://evan-moon.github.io/2024/02/20/category-theory-for-programmers-4-kleisli-category/)
 * [번역 프로그래머를 위한 카테고리 이론 - 5. 곱과 합 | Evans Library](https://evan-moon.github.io/2024/02/27/category-theory-for-programmers-5-products-and-coproducts/)
+* [번역 프로그래머를 위한 카테고리 이론 - 6. 단순한 대수적 타입 | Evans Library](https://evan-moon.github.io/2024/03/05/category-theory-for-programmers-6-simple-algebraic-data-types/)
 
 # Conference
 * [practice - 함수형 프로그래밍 언어(클로저, 스칼라, 하스켈) 실무 적용 어드벤처](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#aaed3c491ff443acb8efbca6f509c55c)
