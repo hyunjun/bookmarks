@@ -513,6 +513,8 @@ Linux
 * [Next-level Commands for the terminal - DEV Community](https://dev.to/jmau111/next-level-commands-for-the-terminal-4ml7)
 * [백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개 | 요즘IT](https://yozm.wishket.com/magazine/detail/2103/)
 * [How to Navigate Man Pages Efficiently in Linux](https://www.tecmint.com/linux-man-pages/)
+* acl access control list
+  * [리눅스, 특정 폴더에 생길 미래의 파일/하위 폴더 권한을 미리 설정하는 데 사용하는 acl – 형우의 웹개발](https://mytory.net/archives/16151)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
