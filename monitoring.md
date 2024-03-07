@@ -319,6 +319,7 @@ Monitoring
   * [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability)
     * ab180에서 애플리케이션 내에서 로그와 메트릭을 수집하기 위해서 비즈니스 로직에 관련 로직이 포함되어 있고 테스트에서 이에 대한 검증도 포함되어 있었는데 최근에 Martin Fowler가 작성한 Domain-Oriented Observability를 사내에 소개하고 이 개념으로 코드를 수정한 과정을 설명한 글
     * 기존에 비즈니스 로직과 로깅이 섞여 있었는데 이를 Instrumentation 관련 부분을 캡슐화한 Domain Probe로 분리하는 과정을 예시 코드를 개선하면서 보여주고 이제 로깅이나 메트릭 수정도 쉽게 할 수 있고 비즈니스 로직 파악도 쉽게 변경된 결과를 보여줌
+* [Logging, tracing and metrics are 3 pillars of system observability](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7171392910645452800-NLnS)
 * [Clymene: the Clymene is time-series data and Logs collection platform for distributed systems](https://github.com/Clymene-project/Clymene)
   * [분산 환경의 효율적인 시계열 데이터 수집 및 관리 방안. MSA! 마이크로 서비스 아키텍처는 이제 서비스를 개발하고 운영할 때… | by allen | Medium](https://medium.com/@clymeneallen/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%95%88-16d787c5ed3d)
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 모니터링 시스템 구축 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-4666c21788c7)
