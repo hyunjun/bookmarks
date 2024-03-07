@@ -131,6 +131,8 @@ iOS
 * [레고처럼 조립하는 토스 앱](https://toss.tech/article/slash23-iOS) Microfeatures architecture
 * [클린아키텍처(CleanArchitecture)는 모바일 개발에 도움이 되는가 ? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-cleanarchitecture-%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80-237cb3c7580d)
 * [iOS의 Clean Architecture | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-clean-architecture/)
+* [Spoqa 기술 블로그 | 발전하는 iOS와 Clean Swift Architecture](https://spoqa.github.io/2024/03/06/clean-swift.html)
+  * [CleanSwift-CIS: The CIS pattern is an improvement on the Clean Swift architecture, aligned with advanced technologies and paradigms. It assists in the stable development of iOS and Mac applications](https://github.com/spoqa/CleanSwift-CIS)
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
