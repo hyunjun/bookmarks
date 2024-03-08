@@ -2164,6 +2164,7 @@ AWS
 * [AWS MSK PART2 — MSK 클러스터를 구축해볼까요? | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part2-msk-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-8722c79d9041)
 * [AWS MSK PART3 — 모니터링을 구축해볼까요?. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part3-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%BC%EA%B9%8C%EC%9A%94-fe9a7109f4d)
 * [AWS MSK PART4 — 운영은 어떻게 하고 있나요?. 안녕하세요. 여기어때 서비스개발팀에서 백엔드 개발을 담당하고 있는… | by Fang | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-msk-part4-%EC%9A%B4%EC%98%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-56330eb2959e)
+* [Amazon MSK에서 올바른 클러스터 유형을 선택하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-choose-the-right-amazon-msk-cluster-type-for-you/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
