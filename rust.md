@@ -525,6 +525,7 @@
 * [4년간의 Rust 사용 후기 | Option::None](https://blog.cro.sh/posts/four-years-of-rust/)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [Rust for Python data engineers — Karim Jedda - YouTube](https://www.youtube.com/watch?v=x2ADMZfBqa4)
+* [Rust Tutorial Full Course - YouTube](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
 * [json_parser: Rust JSON Parser](https://github.com/dnzk/json_parser)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
