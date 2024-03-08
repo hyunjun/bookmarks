@@ -592,6 +592,7 @@ SQL
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
   * [mysql 실무에 유용한 sql 로직 모음 #01](https://stricky.tistory.com/512)
   * [mysql 실무에 유용한 sql 로직 모음 #02](https://stricky.tistory.com/513)
+  * [업그레이드 된 아이템 구하기](https://justinaofjune.tistory.com/49)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://blog.daum.net/iamwhoi/5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
