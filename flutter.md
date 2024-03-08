@@ -305,6 +305,7 @@ Flutter
 
 # TDD, Test
 * [통합 테스트(Integration Test) - 이번 블로그 포스트에서는 Flutter에서 통합 테스트(Integration Test)를 하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/integration-test/)
+* [처음 만나는 테스트. 플러터는 선언형UI로 사용자 인터페이스를 구현합니다. 흔히 UI를… | by Cody Yun | Mar, 2024 | Medium](https://medium.com/@cody.yun/flutter-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%98%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-7240565af80b)
 
 # Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
@@ -358,4 +359,5 @@ Flutter
 * [Android 신입 개발자, Flutter로 기술 전환 가보자고](https://engineering.linecorp.com/ko/blog/flutter-onboarding-for-new-employees)
 * [Dart 시작하기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/dart-for-beginners)
 * [Flutter 로 웹툰 앱 만들기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/flutter-for-beginners)
+* [플러터 2주안에 쇼핑몰 앱 만들기 1 ( 환경 세팅) - YouTube](https://www.youtube.com/watch?v=BxXioP85hQ4)
 * [Flutter_tflite_classfication_songdo: Flutter_tflite_classfication_songdo presentation](https://github.com/sw-woo/Flutter_tflite_classfication_songdo)
