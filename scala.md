@@ -586,6 +586,8 @@ Scala
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
 * [Apache Pekko](https://pekko.apache.org/)
+  * [Pekko Akka Compatibility. Apache Pekko is an Open Source fork of… | by PJ Fanning | Mar, 2024 | Medium](https://medium.com/@pjfanning/pekko-akka-compatibility-31c14217888a)
+  * [Akka to Pekko Migration for thatDot and Quine](https://www.thatdot.com/blog/akka-to-pekko-migration-for-thatdot-and-quine)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -1619,6 +1621,7 @@ Scala
     * [Dependency Injection with Cats-effect Resource Monad | by Igor Vovk | Jun, 2023 | Medium](https://medium.com/@ivovk/dependency-injection-with-cats-effect-resource-monad-ad7cd47b977)
     * [Cats Effect vs ZIO](https://softwaremill.com/cats-effect-vs-zio/)
     * [Retrying Cats Effect Failures With Ease | ScalaJobs.com](https://scalajobs.com/blog/retrying-cats-effect-failures-with-ease/)
+    * [Flavors of shared state in Cats Effect](https://blog.kubukoz.com/flavors-of-shared-state/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -2025,6 +2028,7 @@ Scala
   * [L. Duzan, M. Baechler - When stateless APIs are not enough: deep dive into a reactive backend design - YouTube](https://www.youtube.com/watch?v=pAW5e3aZuk8) kafka conduktor, mapAccum zio
   * [Custom logic from Accept header with Tapir | by Gaël Jourdan-Weil | Oct, 2023 | Medium](https://medium.com/@gaeljw/custom-logic-from-accept-header-with-tapir-80082f1de21d)
   * [Benchmarking Tapir: Part 1](https://softwaremill.com/benchmarking-tapir-part-1/)
+  * [Benchmarking Tapir: Part 2](https://softwaremill.com/benchmarking-tapir-part-2/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
