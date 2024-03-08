@@ -236,6 +236,8 @@
 * [From High-Level to Systems Programming: A Practical Guide to Rust by Ben Greenberg - YouTube](https://www.youtube.com/watch?v=avz_SQZMxCU)
 * [Would Rust make you a better Pythonista? — Alexys Jacob - YouTube](https://www.youtube.com/watch?v=HTb0FcKtkCc)
 * [Rust in production: Why? How? – Panel Discussion | Mainmatter and Rust Paris – October 2023 - YouTube](https://www.youtube.com/watch?v=UAnXfnqQQhQ)
+* [2022-INFCON-Rust-CrossPlatform: INFCON 2022 - Rust 크로스 플랫폼 프로그래밍 발표 자료 및 예제 코드](https://github.com/utilForever/2022-INFCON-Rust-CrossPlatform)
+  * [Rust 크로스 플랫폼 프로그래밍 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=V6TR2FeCK5c)
 * [P99 CONF: Rust, Wright's Law, and the Future of Low-Latency Systems - YouTube](https://www.youtube.com/watch?v=cuvp-e4ztC0)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 * [RustNL 2023 Conference - YouTube](https://www.youtube.com/watch?v=9Q4yNlbfiYk)
