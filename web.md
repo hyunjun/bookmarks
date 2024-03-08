@@ -76,6 +76,7 @@ Web
   * [⏳ 모던 웹을 위한 12가지 원소;12 factors - YouTube](https://www.youtube.com/watch?v=YjBsoUCJDhA)
   * [An open source developer's guide to 12-Factor App methodology | Opensource.com](https://opensource.com/article/21/11/open-source-12-factor-app-methodology)
   * [What is 12-Factor App? | Twelve Factor App Methodology Explained | KodeKloud - YouTube](https://www.youtube.com/watch?v=1OhmRmMsGdQ)
+  * [The 12 Factor App for Data • James Bowkett • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-QF-MLCo_pA)
 * [Beyond the 12 factors: 15-factor cloud-native Java applications - IBM Developer](https://developer.ibm.com/articles/15-factor-applications/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
 * [Fantastic Web Design Tool](https://editor.easylogic.studio/)
