@@ -1691,6 +1691,7 @@ NLP
   * 결론
     * 사용자 경험을 최적화하기 위해 프롬프트 템플릿을 포함한 전체 LLM 기반 시스템을 평가 중요성 강조
     * 최적의 결과를 얻기 위한 최선의 방법, 표준 도구 및 선별된 데이터셋의 역할 강조
+* [On-device용 AI 모델과, Cloud향 AI 모델의 구조가 점점 달라지는 방향으로 최적화될 거 같다는 예상](https://www.facebook.com/groups/TensorFlowKR/posts/2252038391803873)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
