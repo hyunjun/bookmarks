@@ -1658,6 +1658,8 @@ NLP
     * 팁을 주면 더 나은 결과를 가져올까 하는 연구도 있는데 이건 큰 효과는 없었음
 * [colab에서 transformers 라이브러리로 LLM 학습시 checkpoint 사용하기](https://webnautes.tistory.com/2279)
 * [안전한 LLM 학습 데이터는 어떻게 수집할까? | OpenAI 2022 | 조원익 - YouTube](https://www.youtube.com/watch?v=gTjC88AHr_g)
+  * [VidiGo 안전한 LLM 학습 데이터는 어떻게 수집할까? | OpenAI 2022 | 조원익](https://vidigo.ai//chatbot/summary/atunzmSDdje1vtS) RLHF
+  * [요약 03월08일20시37분{{lilys_init}} | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/359169?sId=gTjC88AHr_g&source=video&result=summaryNote&isBlogRequested=false)
 * [SK TECH SUMMIT 2023 비즈니스에 실제로 활용 가능한 LLM 서비스 만들기 - YouTube](https://www.youtube.com/watch?v=9Rf2EibqddQ)
 * [LLM 모델 기반 서비스 실전 가이드 - 이태영 (케라스 코리아 운영진) I 모두의연구소 K-디지털플랫폼 모두팝 - YouTube](https://www.youtube.com/watch?v=8UfK7fVPCGQ)
   * [LLM 모델 기반 서비스 실전 가이드 - 이태영 (케라스 코리아 운영진) I 모두의연구소 K-디지털플랫폼 모두팝 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345692?sId=8UfK7fVPCGQ)
@@ -2068,6 +2070,7 @@ NLP
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [Unstructured](https://unstructured.io/)
 * [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
+  * [Lost in Translation: The Critical Impact of Neglecting Guideline Adherence in LLMs - UpTrain AI](https://blog.uptrain.ai/lost-in-translation-the-critical-impact-of-neglecting-guideline-adherence-in-llms/) LLMOps
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
