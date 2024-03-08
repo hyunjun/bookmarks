@@ -3279,6 +3279,7 @@ Programming
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
+* [쏘카플랜 개편기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/03/06/socarplan-renewal.html) WET, colocation 적용 이야기. WET은 생각해보면 strangler와 유사한 역할 아닌가 하는 생각이 들었음
 * [The Pros and Cons of DRY Code - Qvault](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 * [DRY makes your code 500% better · intermediate Java code review - YouTube](https://www.youtube.com/watch?v=uD37ZTosqmI)
 * [DRY Software Patterns & Microservices • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=KUD7I995uV8)
@@ -4657,6 +4658,7 @@ Programming
   * [Pulumi로 인프라 구축하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/26/pulumi/)
   * [Pulumi Kotlin. The missing piece in Kotlin… | by Julia Plewa | VirtusLab | Medium](https://medium.com/virtuslab/pulumi-kotlin-9c0cb2d53e1c)
   * [인프랩 IaC 구축기 (Part 1)](https://tech.inflab.com/20240201-inflab-iac/)
+  * [Shipping your code to cloud with Scala, Besom and Pulumi | Besom - Pulumi Scala](https://virtuslab.github.io/besom/blog/2024/03/01/0.2.x-release/) GCP
 * [Radius](https://radapp.io/)
   * [Introducing Radius: A new open-source project for teams building cloud-native apps - YouTube](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 * [target-cli: A CLI tool to manage context profiles for HashiCorp tools](https://github.com/devops-rob/target-cli)
