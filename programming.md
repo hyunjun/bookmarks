@@ -544,7 +544,8 @@ Programming
   * [DevRel 이란 무엇인가 | GeekNews](https://news.hada.io/topic?id=7061)
 * [우리는 이 모든 것을 DevRel이라고 부르기로 했어요](https://brunch.co.kr/@moon-sky/20)
 * [1년 만에 돌아왔습니다. DevRel 담당자들의 근황! | 4구 멀티탭⚡️ - YouTube](https://www.youtube.com/watch?v=Hx90j4cP5o0)
-* [Developer Advocate in Lablup | Lablup Blog](https://blog.lablup.com/posts/2023-03-developer-advocate/) DevRel
+* [Developer Advocate in Lablup | Lablup Blog](https://blog.lablup.com/posts/2023-03-developer-advocate/)
+* [Google 개발문화에서 영감을 얻은 DevRel의 독특한 활용법 | by Ga-in Olivia Choi | Mar, 2024 | Medium](https://medium.com/@ladygain.kr/google-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EC%97%90%EC%84%9C-%EC%98%81%EA%B0%90%EC%9D%84-%EC%96%BB%EC%9D%80-devrel%EC%9D%98-%EB%8F%85%ED%8A%B9%ED%95%9C-%ED%99%9C%EC%9A%A9%EB%B2%95-746f0865a530)
 * [Hyper and Now 하이퍼커넥트® 렐 문화 탐구 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/06/21/exploring-devrel-culture.html)
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
   * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
