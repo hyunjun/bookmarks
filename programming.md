@@ -6277,7 +6277,6 @@ Programming
 * [Is a One-Person Development Team Optimal? | by Doug Foo | Better Programming](https://betterprogramming.pub/is-a-one-person-development-team-optimal-f8aca9872ccc) 팀원 숫자, team size에 대한 이야기
 * [Accountability and Sense of Ownership in Software Development – Mete Atamel](https://meteatamel.wordpress.com/2014/11/19/accountability-and-sense-of-ownership-in-software-development/) 기술적인 이야기는 아니지만 중요한 부분. 내가 진행했던 조직개편에서도 이게 중요한 부분 중 하나였음
 * [Martin Thompson On How To Manage Software Complexity | The Engineering Room Ep. 4 - YouTube](https://www.youtube.com/watch?v=sIBrFuzR3cs)
-* [An open source developer's guide to 12-Factor App methodology | Opensource.com](https://opensource.com/article/21/11/open-source-12-factor-app-methodology)
 * [Best Practice Tips for Efficient Software Development - YouTube](https://www.youtube.com/watch?v=JtVzWKvqs-c)
 * [루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감](https://jojoldu.tistory.com/640)
 * [소프트웨어는 녹이 슨다 — 洪民憙 블로그](https://blog.hongminhee.org/2014/04/13/82482810330/)
