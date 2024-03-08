@@ -699,6 +699,7 @@ Machine Learning
 * [How to Improve Any ML/DL Performance by 10% Easily | by Gurami Keretchashvili | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-improve-any-ml-dl-performance-by-10-easily-90dbbd01a4b3)
 * [멘토특강 클라우드 Big Data & Machine Learning 기초 - YouTube](https://www.youtube.com/watch?v=Yan4XXorhDI)
 * [Evolution of ML Fact Store. by Vivek Kaushal | by Netflix Technology Blog | Apr, 2022 | Netflix TechBlog](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762)
+* [Supporting Diverse ML Systems : Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d)
 * [Fraud Detection Using Random Forest, Neural Autoencoder, and Isolation Forest Techniques](https://www.infoq.com/articles/fraud-detection-random-forest/)
 * [**머신러닝 어플리케이션을 위한 데이터 저장소 기술 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/07/11/data-stores-for-ml-apps.html)
 * [What is SciML? – SciML Research Group](https://sites.brown.edu/bergen-lab/research/what-is-sciml/)
