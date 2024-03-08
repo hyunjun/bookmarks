@@ -1951,6 +1951,7 @@ NLP
     * [Ollama meets LangChain - YouTube](https://www.youtube.com/watch?v=k_1pOF1mj8k)
     * [Ollama - Libraries, Vision and Updates - YouTube](https://www.youtube.com/watch?v=9NJ196KlAE0)
     * [Unleash the power of Local LLM's with Ollama x AnythingLLM - YouTube](https://www.youtube.com/watch?v=IJYC6zf86lU)
+    * [17. 폐쇄형 LLM 기반 개발 환경 구성 - YouTube](https://www.youtube.com/watch?v=CMfkhN6gwV0)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [ollamex: Ollamex is an Elixir wrapper of the ollama REST API](https://github.com/waseigo/ollamex)
