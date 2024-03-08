@@ -387,6 +387,7 @@ Algorithm
 * [Raft - electionTimeout](http://blog.seulgi.kim/2017/12/raft-timing.html)
 * [2018년 21번째 주 - Consensus algorithm](https://blog.seulgi.kim/2018/05/w21.html)
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
+* [Patterns of Distributed Systems • Unmesh Joshi & James Lewis • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=Dq7TLlnhSyc) Raft vs. Paxos
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [**Raft 분산 합의 알고리즘과 Python에서의 활용**](https://d2.naver.com/helloworld/5663184)
 * [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://www.infoq.com/presentations/raft-kafka-api/)
