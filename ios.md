@@ -541,6 +541,7 @@ iOS
 * [iOS 화면 캡쳐 방지하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-limit-capture/) UIView
 * [문자열 보간법으로 즐겨보자](http://blog.canapio.com/116)
 * [스위프트: UserDefaults 프로토콜](http://blog.canapio.com/117)
+* [SwiftUI - AppStorage :: iOYES](https://green1229.tistory.com/454)
 * [속성으로 스위프트 코드베이스를 최적화하기](http://blog.canapio.com/120)
 * [try! Swift Tokyo 2017 후기](http://news.realm.io/kr/news/try-swift-tokyo-2017-review/)
 * [UIActionSheet 사용법](http://destiny738.tistory.com/577)
