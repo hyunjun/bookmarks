@@ -1663,6 +1663,7 @@ Docker
 * [Access your local cluster like a managed Kubernetes engine – Inlets – The Cloud Native Tunnel](https://inlets.dev/blog/2022/07/07/access-kubernetes-api-server.html)
 * [Service Mesh: The best way to Encrypt East-West traffic in Kubernetes | by Nagarjoon B | Sep, 2022 | Medium](https://medium.com/@nagarjoon.b/service-mesh-the-best-way-to-encrypt-east-west-traffic-in-kubernetes-89aab0c77794)
 * [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
+* [Bringing Sub-Second Resilience in Kubernetes Cluster](https://www.loxilb.io/post/bringing-sub-second-resilience-in-kubernetes-cluster)
 * [Accidental complexity, essential complexity, and Kubernetes | Drifting in Space](https://driftingin.space/posts/complexity-kubernetes)
 * [Kubernetes Was Never Designed for Batch Jobs | by Meadowrun | Sep, 2022 | Better Programming](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
 * [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
