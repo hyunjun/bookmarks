@@ -280,6 +280,9 @@ Artificial Intelligence
   * [Gemini Pro 1.5 일주일 사용후기 - 정말 환상적임 | GeekNews](https://news.hada.io/topic?id=13529)
   * [gemini at main · GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini)
   * [Park Chansung - Google 에서 최신 LLM을 오픈소스로 공개했습니다. Gemini 에서 배운 교훈에... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid031nXP2gGSJ4amYfRpBbqinj3UFzDBbyNtjqdsc32hEn88rNqNDck4oGjVhvbzupbHl)
+  * [Towards Long Context RAG — LlamaIndex, Data Framework for LLM Applications](https://www.llamaindex.ai/blog/towards-long-context-rag)
+    * Gemini와 RAG (Retrieval-Augmented Generation) 비교, 긴 컨텍스트 언어 모델 (LLM) 응용 프로그램이 RAG 파이프 라인에 영향
+    * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
