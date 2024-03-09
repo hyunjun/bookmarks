@@ -2292,6 +2292,7 @@ Programming Books
 * (NOT YET) [모니터링의 새로운 미래 관측 가능성](https://jpub.tistory.com/1494)
   * 한라 004.5-정94ㅁ
   * [philllipjung/o11ybook](https://github.com/philllipjung/o11ybook)
+  * [모니터링의 새로운 미래 관측 가능성 – Medium](https://yohaim.medium.com/)
 
 ## Terraform
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
