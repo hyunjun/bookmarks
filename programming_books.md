@@ -919,6 +919,11 @@ Programming Books
   * ★★★☆☆ 2024.03.01 1장은 지금 와서 보면 다른 책들에 비해 특별한 점이 없다고 생각할 수도 있지만, 이 책이 ChatGPT가 나온 후 3개월만에 집필했다는 점을 생각해보면 인상적이다. 보다 재미있었던 부분은 2장부터 이야기하는 울프럼알파와 ChatGPT의 결합에 대한 내용. 통계적인 접근의 ChatGPT와 기호적인 접근의 WolframAlpha의 결합이 (마케팅적인 부분도 고려했겠지만) 매우 흥미롭고 기대된다는 이야기는 정말 동의가 되는 부분
   * 우당 문004.73-울848ㅅ
   * [스티븐 울프럼의 챗GPT 강의](https://1003.notion.site/GPT-aab99abf2bd14277877e2bf63115b512)
+* [기계의 반칙](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5439705429)
+  * ★★★☆☆ 2024.03.09 (기술에 대한 책은 아니고) 지능형 agent를 중심으로 한 역사와 함께 신뢰할 수 있는 AI가 필요하다고 이야기
+  * 한라 004.73-크298ㄱ
+  * [리뷰 기계의 반칙 · TheoryDB](https://theorydb.github.io/review/2023/12/24/review-book-the-shortcut/)
+  * [The shortcut - how machines became intelligent without thinking in a human way](https://www.lse.ac.uk/Events/2024/02/202402121830/shortcut)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
@@ -952,6 +957,10 @@ Programming Books
   * 한라 004.73-오65ㅇ
 * (NOT YET) 핸즈온 파이썬을 이용한 설명가능한 AI
   * 탐라 문004.73-로58ㅎ  
+* (NOT YET) [GPT-4를 활용한 인공지능 앱 개발](https://hanbit.co.kr/store/books/look.php?p_code=B8911235759)
+  * 한라 004.735-케68ㅈ 우당 문004.735-케69ㅈ
+  * [lee-monster/developing-apps-with-GPT-4: GPT-4를 활용한 인공지능 앱 개발(원제: Developing apps with GPT-4 and ChatGPT)의 소스 코드를 제공합니다](https://github.com/lee-monster/developing-apps-with-GPT-4)
+  * [리뷰 GPT-4를 활용한 인공지능 앱 개발](https://brunch.co.kr/@gauss92tgrd/101)
 
 # C
 
@@ -2280,6 +2289,9 @@ Programming Books
   * 한라 004.588-인27ㅋ
 * (NOT YET) [모두를 위한 클라우드 컴퓨팅](https://jpub.tistory.com/1310)
   * 한라 우당 문004.588-노53ㅋ
+* (NOT YET) [모니터링의 새로운 미래 관측 가능성](https://jpub.tistory.com/1494)
+  * 한라 004.5-정94ㅁ
+  * [philllipjung/o11ybook](https://github.com/philllipjung/o11ybook)
 
 ## Terraform
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
