@@ -2877,6 +2877,7 @@ Scala
   * [Personal repo for "Functional Programming Principles in Scala" course on coursera](https://github.com/hugcruz/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
   * [Personal repo for "Functional Program Design in Scala" course on coursera](https://github.com/hugcruz/progfun2)
+* [Versions: Functional Programming in Scala - Edu Course | Marketplace](https://plugins.jetbrains.com/plugin/23833-functional-programming-in-scala/)
 * [**Functional Design | Francis Toth / Contramap**](https://contramap.dev/posts/2021-01-22-functional_design/)
 * [functional-declarative-design-methodology: Article: Functional Declarative Design](https://github.com/graninas/functional-declarative-design-methodology)
 * [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
