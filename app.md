@@ -1439,7 +1439,7 @@ App
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
-* [MonitorControl - Control your external monitor brightness & volume on your Mac](https://github.com/the0neyouseek/MonitorControl)
+* [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
 * [**monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)**](http://macnews.tistory.com/1064)
@@ -1932,6 +1932,8 @@ App
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
+* [Natron: Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry](https://github.com/NatronGitHub/Natron)
+  * [Natron - Adobe After Effects의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=13724)
 * [NewPipe - a free YouTube client](https://newpipe.net/)
 * [NoiseTorch: Real-time microphone noise suppression on Linux](https://github.com/lawl/NoiseTorch)
 * [NVIDIA Broadcast 앱: AI 기반 음성 및 영상 | NVIDIA](https://www.nvidia.com/ko-kr/geforce/broadcasting/broadcast-app/)
