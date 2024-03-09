@@ -259,6 +259,7 @@ Book
 * 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
   * ★★★☆☆ 2022.12.24 조력사 경험 후 기독교인이 되었다는 Part II 이야기에 꼭 그럴 수 밖에 없는 건가? 하는 의문이 가시지는 않지만 Part I은 굉장히 좋았음
   * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
+  * ['인간다운 죽음'을 찾아서..스위스로 떠난 아버지 뉴스.zip/MBC뉴스 - YouTube](https://www.youtube.com/watch?v=jtp9RR9yrAA) 책과 직접 관계는 없음
 * [Humans of New York](https://www.humansofnewyork.com/)
   * [휴먼스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298205350)
     * ★★★★☆ 2022.12.31~2023.01.01 별 이야기 아닌데도 담담하게, 하지만 내 삶에 대해 잠시나마 감사할 수 있게 하는 여러 사람들
