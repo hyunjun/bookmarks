@@ -2715,6 +2715,10 @@ Programming Books
 * [손이 먼저 반응하는 Practical Vim](https://ebook.insightbook.co.kr/book/57)
   * 탐라 문005.51 네68p
 
+# Lisp
+* (NOT YET) [책읽는 코지마: "만들면서 배우는 리스프 프로그래밍(Land or Lis…" - SiFNet Mastodon](https://social.silicon.moe/@reading_kojima/112055487632420303)
+  * 한라 005.11-바57ㄹ
+
 # Management
 * [스타트업 대표 132명이 직접 추천했다?! 대표 책상에 놓여있는 조직문화 필독서!! - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/organizational20220114)
 * [스타트업 창업자들이 꼽은, 경영에 도움이 된 책 TOP 10권 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254419)

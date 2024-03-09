@@ -97,6 +97,9 @@ Lisp
 * [Bel](http://www.paulgraham.com/bel.html)
 
 # Book
+* [landoflisp.com](http://landoflisp.com/)
+  * [책읽는 코지마: "만들면서 배우는 리스프 프로그래밍(Land or Lis…" - SiFNet Mastodon](https://social.silicon.moe/@reading_kojima/112055487632420303)
+    * 한라 005.11-바57ㄹ
 * [Lisp from Nothing (2020) - YouTube](https://www.youtube.com/watch?v=EUUv1QWTBwc)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
 
