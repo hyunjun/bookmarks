@@ -241,6 +241,7 @@ Product
 
 ## Monitor Arm 노트북 거치대
 * [거북목 때문에 필사적으로 찾은 가성비, 휴대성, 퀄리티 만족시키는 노트북 거치대 3종 리뷰ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=yy14Zc9SYms) 노트북 거치대/암
+* 라라밤 회전 노트북 거치대 [깔끔한 데스크 셋업의 시작, 요즘 대세 라라밤 회전 노트북 거치대 - YouTube](https://www.youtube.com/watch?v=g_PbUndjF6k)
 * [록텍 듀얼 보니터 노트북암 거치대 D5DL](https://www.loctek.co.kr/D5DL)
 * [루나랩 노트북 거치대 PRO : LUNA LAB](https://lunalab.co.kr/accessories/?idx=73)
 * [바톤즈 OL-3L 프리미엄 듀얼 뷰 모니터 노트북 스탠드 거치대 : 다나와 가격비교](https://prod.danawa.com/info/?pcode=14396798)
