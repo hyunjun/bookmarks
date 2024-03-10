@@ -961,6 +961,8 @@ Programming Books
   * 한라 004.735-케68ㅈ 우당 문004.735-케69ㅈ
   * [lee-monster/developing-apps-with-GPT-4: GPT-4를 활용한 인공지능 앱 개발(원제: Developing apps with GPT-4 and ChatGPT)의 소스 코드를 제공합니다](https://github.com/lee-monster/developing-apps-with-GPT-4)
   * [리뷰 GPT-4를 활용한 인공지능 앱 개발](https://brunch.co.kr/@gauss92tgrd/101)
+* (NOT YET) [쉽고 빠르게 익히는 실전 LLM](https://www.hanbit.co.kr/store/books/look.php?p_code=B7077705203)
+  * 탐라 문004.73-오78ㅅ
 
 # C
 
@@ -1616,6 +1618,9 @@ Programming Books
   * [머신러닝 BIG PICTURE, 나는 계획이 있다](https://jpub.tistory.com/1508)
   * [moseskim/building-ml-system: building machine learning system](https://github.com/moseskim/building-ml-system)
   * [Ho Seung Shin - --머신러닝 시스템 구축 실전 가이드-- ML Model을 만드는 분석가의... | Facebook](https://www.facebook.com/hoseung.shin.50/posts/pfbid02pgwH7JRYDzXyMf821f5CCkqXxKdBeFxfCqpRQnsr4PDQDHX4vpacxTc5T8YWwfhUl)
+* (NOT YET) [러닝 레이](https://hanbit.co.kr/store/books/look.php?p_code=B2311035925)
+  * 탐라 문004.73-펌843ㄹ
+  * [learning-ray: 『러닝 레이』(한빛미디어, 2024) 예제 코드 저장소입니다](https://github.com/hanbit/learning-ray)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -4186,6 +4191,10 @@ Programming Books
   * [rust: 《만들면서 배우는 러스트 프로그래밍》 예제 코드](https://github.com/wikibook/rust)
 * (NOT YET) [프로그래밍 러스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448819)
   * [페리스(Ferris)를 안다면 당신은?](https://jpub.tistory.com/1367)
+* (NOT YET) [Rust Atomics and Locks 러스트 동시성 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B1477259158)
+  * 탐라 문005.133-보58ㄹ
+  * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+  * [rust-atomics-and-locks: Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
 
 # Scala
 
