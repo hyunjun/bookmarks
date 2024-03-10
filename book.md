@@ -1765,6 +1765,9 @@ Book
 * [나는 왜 내 마음이 버거울까?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322264110)
   * ★★★☆☆ 2023.10.15
   * 한라 186.3-유64ㄴ 탐라 문189.1-유64ㄴ
+* [나 오늘 왜 그랬지?](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B4411977788)
+  * ★★★☆☆ 2024.03.10 한 가지 영역으로 제한할 수 없는, 뇌에 대한 여러가지를 알려주는 재미있는 책
+  * 탐라 문181.3-프232ㄴ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1786,8 +1789,6 @@ Book
     * 제주 189-치61설-3
   * 설득의 심리학 . 4 , 작은 시도로 큰 변화를 만드는 스몰 빅의 힘
     * 제주 189-치61설-4
-* (NOT YET) [나 오늘 왜 그랬지?](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B4411977788)
-  * 탐라 문181.3-프232ㄴ
 * (NOT YET) 하버드 100년 전통 행복 수업 [세계를 휩쓴 행복한 명강의, 행복은 우연히 오지 않는다 < 종합 < 기사본문 - 문학뉴스](https://www.munhaknews.com/news/articleView.html?idxno=74514)
   * 우당 문191.6-류811ㅎ
 
