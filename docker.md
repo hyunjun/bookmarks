@@ -1618,6 +1618,13 @@ Docker
 * [Why Mercedes-Benz runs on 900 Kubernetes clusters | InfoWorld](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html)
 * [Setup Microservices on Kubernetes — Write a Configuration File | by Quân Huỳnh | Jul, 2022 | Better Programming](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)
 * [Adopting FinOps tool for pod-level Kubernetes cost management | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/05/11/adopting-finops-tool-for-pod-level-kubernetes-cost-management/)
+* [Cloud FinOps & Kubernetes Optimisation at Scale • Matt Callanan • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=_F12WgQuTI8)
+  * [VidiGo Cloud FinOps & Kubernetes Optimisation at Scale •](https://vidigo.ai//chatbot/summary/7hx3NMUIfIsTPfX)
+  * [규모에 따른 클라우드 FinOps 및 Kubernetes 최적화 - Matt Callanan - YOW! 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/363065?sId=_F12WgQuTI8)
+  * backstage.io, AWS EKS, Karpenter
+  * HPA
+    * burstable는 한도보다 적은 요청이나 한도를 설정하지 않을 때 사용되며, 남은 자원을 활용 가능
+    * guaranteed 품질과 함께 품질 서비스를 제공하는 경우, CPU와 메모리 간의 균형이 중요
 * [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
 * [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
 * [쿠버네티스 애플리케이션에서 Bus Error (Core Dumped) 대처법 정리 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-bus-error-core-dumped-%EB%8C%80%EC%B2%98%EB%B2%95-%EC%A0%95%EB%A6%AC-55580e14e003)
