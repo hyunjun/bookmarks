@@ -842,6 +842,8 @@ Javascript
 * [게임 자바스크립트로 지뢰찾기 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223300328033)
 * [You don't need JavaScript for that - HTMHell](https://www.htmhell.dev/adventcalendar/2023/2/)
   * [번역 그것을 위해 자바스크립트를 사용할 필요는 없습니다](https://velog.io/@eunbinn/You-dont-need-JavaScript-for-that)
+* [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
+  * [**(번역) 자바스크립트 생태계를 더 빠르게** - 라이브러리 하나씩](https://velog.io/@superlipbalm/speeding-up-javascript-ecosystem)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
