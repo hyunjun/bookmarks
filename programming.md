@@ -3087,7 +3087,7 @@ Programming
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
 * [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
 * [신한은행이 클라우드 구축에서 배운 것 “이론에 기대지 말라” - 바이라인네트워크](https://byline.network/2023/11/24-283/)
-* [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
+* [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
 * [클라우드 컴퓨팅 입문자들을 위한 가이드 : 네이버 블로그](https://blog.naver.com/drvoss/223275359487)
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
 * [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
@@ -4629,6 +4629,7 @@ Programming
 * [스토리지 최적의 스펙 관리 시스템 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13539/)
 * [A reliable compute platform for Expedia customers - YouTube](https://www.youtube.com/watch?v=ou01X3UGVLI) HashiCorp
 * [**스푼라디오에서 플랫폼 엔지니어링으로 가기 위한 여정** — 1. 안녕하세요 스푼라디오에서 SRE 팀에서 DevOps업무를 담당하고 있는… | by Paul | Spoon Radio | Feb, 2024 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f0e5da669243) 대부분 AWS 관련 내용
+* [개발자가 알아두면 좋은 ‘코드형 인프라(IaC)’ 개념 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/2464/)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
@@ -6626,6 +6627,7 @@ Programming
     * (i) Dynamic Documentation Generation (DDG) and/or
     * (ii) Automated Documentation Testing (ADT)
     * both based on defining a single and robust information source for documentation
+* [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
