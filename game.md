@@ -95,6 +95,8 @@ Game
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [isao의 IT,게임번역소 : 고전 게임의 소스코드를 다운로드 할 수 있는 「Game Source Code Collection」](http://isao76.egloos.com/2662070)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [batocera.linux](https://batocera.org/)
+  * [오래된 컴퓨터 버리지 마세요. 게임기로 개조해서 즐겁게 활용할 수 있어요. 리눅스를 활용한 초간단 게임기 만들기 도전! - YouTube](https://www.youtube.com/watch?v=f7i1qVfS92I)
 * [Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
 * [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
