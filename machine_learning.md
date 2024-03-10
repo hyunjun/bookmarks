@@ -717,6 +717,7 @@ Machine Learning
   * [복잡한 대규모 데이터 세트의 분석에 대한 실무 조언](https://velog.io/@aldente0630/practicaladviceforanalysisoflargecomplexdatasets)
 * [확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘 | 요즘IT](https://yozm.wishket.com/magazine/detail/1931/)
 * [Back to Basics: Scalable, Portable ML in Pure SQL - YouTube](https://www.youtube.com/watch?v=iyH8GPXzBpk)
+* [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
