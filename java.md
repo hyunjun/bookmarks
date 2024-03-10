@@ -1249,6 +1249,7 @@ Java
 * [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
 * [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 * [Java Garbage Collection - Java Heap Debugging](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
+* [자바 힙 메모리(Java Heap Memory) 분석 내용 총정리 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/8757/)
 * [**JVM + Container 환경에서 수상한 Memory 사용량 증가 현상 분석하기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/07/19/suspicious-jvm-memory-in-container.html)
   * 매우 좋은 분석 debugging 글
   * Hyperconnect에서 Kuberentes에 띄워 놓은 서비스의 CPU를 2에서 1로 줄이자 오히려 메모리가 증가하는 현상을 발견하고 이를 추적해서 해결한 내용
