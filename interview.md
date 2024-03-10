@@ -847,7 +847,7 @@ Interview
   * [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
   * [스킬 체크](https://programmers.co.kr/skill_checks)
   * [pro-solve: 제출한 모든 프로그래머스 풀이를 확인할 수 있게 해주는 크롬 익스텐션](https://github.com/dev-redo/pro-solve)
-* [programminginterviewprep.com](http://programminginterviewprep.com/)
+* [~programminginterviewprep.com~](http://programminginterviewprep.com/)
 * [projecteuler.net](https://projecteuler.net/)
   * [Project Euler](http://euler.synap.co.kr/)
   * [Consider Yourself a Developer? You Should Solve the Project Euler Problems](https://medium.com/@BennettGarner/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c)
