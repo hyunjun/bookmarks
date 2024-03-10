@@ -2438,6 +2438,8 @@ Docker
   * [Introducing Docker Build Cloud: A new solution to speed up build times and improve developer productivity | Docker](https://www.docker.com/blog/introducing-docker-build-cloud/)
     * Docker에서 build cloud 공개
     * 시간이 지나면서 빌드 시간은 점점 길어지는 데 빌드 클라우드를 이용하면 빌드 시간도 39배 빨라지고 멀티아키텍처 빌드도 할 수 있다고 소개
+* [dockerc: container image to single executable compiler](https://github.com/NilsIrl/dockerc)
+  * [dockerc - Docker 이미지를 스탠드얼론 포터블 바이너리로 컴파일하는 도구 | GeekNews](https://news.hada.io/topic?id=13706)
 * [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
   * [도커와 k8s 디버거](https://jhrogue.blogspot.com/2021/07/b-k8s.html)
 * [docker-jinja: The extension to Docker you want. ed](https://github.com/Grokzen/docker-jinja)
