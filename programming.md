@@ -701,6 +701,10 @@ Programming
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
 * [Beyond Serverless: How Feature-Focused Platforms Streamline Your DX by Hugh McKee - YouTube](https://www.youtube.com/watch?v=-jlKjA7hnlI) high-abstraction solutions: Fermyon, Dapr, Sky, and Kalix
+* [Build Abstractions Not Illusions • Gregor Hohpe • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=aWZFRk-w3ng)
+  * [VidiGo Build Abstractions Not Illusions • Gregor Hohpe •](https://vidigo.ai//chatbot/summary/lGxmUHkDfQ1PZpi)
+    * 좋은 추상화는 인지 부하를 줄이면서도 필요한 복잡성을 적절히 노출시켜 개발자가 효율적으로 작업할 수 있게 돕는다
+  * [환상이 아닌 추상화 구축 - 그레고르 호페 - YOW! 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362924?sId=aWZFRk-w3ng)
 * [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 * [Thoughtworks Technology Radar 26호 (39p PDF) | GeekNews](https://news.hada.io/topic?id=6295)
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
