@@ -1929,6 +1929,8 @@ NLP
     * [Host a Llama 2 API on GPU for Free | by Yuhong Sun | Aug, 2023 | Medium](https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
       * [HostLlama2BehindAPI.ipynb - Colaboratory](https://colab.research.google.com/drive/1XfkVbh4noX9E4_90Ve9rv5zPqu6dIVQr)
     * [Llama2(라마2) 모델 개인 노트북으로 실행하기 요약(CPU기반) - YouTube](https://www.youtube.com/watch?v=gdzeE6ys2nM)
+    * [이준범 영어 잘 하는 모델을 한국어 잘 하는 모델로 바꾸는 레시피 - YouTube](https://www.youtube.com/watch?v=pxWji5kykw8)
+      * [1:25](https://2024langcon.oopy.io/e820b185-0f58-4797-bfe2-a4b8e63008ae)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
       * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
@@ -3131,6 +3133,7 @@ NLP
 * [화상 회의할 때 음성 품질을 높이는 기술](https://engineering.linecorp.com/ko/blog/line-voip-voice-quality-with-vqe)
 * [LINE 앱에서 음성 품질을 측정하는 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-voice-quality-in-line-app)
 * [Detecting Speech and Music in Audio Content | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8)
+* [Web Speech API로 프론트엔드에서 TTS 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/03/09/Web-Speech-API.html)
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
