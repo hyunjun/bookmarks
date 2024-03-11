@@ -340,6 +340,8 @@ Artificial Intelligence
 * [감성 AI 시장, 얼마나 커질까? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/emotion-ai-market/)
 * [Generative AI’s Act Two | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * ["우린 벌써 뛰고 있어" 생성형 AI를 워크플로우와 결합한 기업 3곳의 경험 - ITWorld Korea](https://www.itworld.co.kr/news/308413)
+* [Ten AI Insights from Databricks, Anyscale, and Microsoft - Foundation Capital](https://foundationcapital.com/ten-ai-insights-from-databricks-anyscale-and-microsoft/)
+  * [Databricks, Anyscale, Microsoft 에서 얻은 AI 인사이트들 | GeekNews](https://news.hada.io/topic?id=13753)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
