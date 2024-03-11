@@ -1341,6 +1341,8 @@ Programming
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
   * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
   * [마이크로서비스, 서버리스 버렸더니 비용 90% 절감 - 아마존 프라임 비디오, 모놀리스 전환 - YouTube](https://www.youtube.com/watch?v=K8FKn4sI16Q)
+* [In defense of simple architectures](https://danluu.com/simple-architectures/)
+  * [단순한 아키텍처를 옹호하며 (2022) | GeekNews](https://news.hada.io/topic?id=13754)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
