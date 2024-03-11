@@ -70,6 +70,7 @@
 * [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 * [Liskov Substitution Principle of SOLID | LSP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/liskov-substitution-principle.html)
 * [SOLID Principles : The Liskov Substitution Principle | Making Java Easy To Learn](https://javatechonline.com/solid-principles-the-liskov-substitution-principle)
+* [프론트엔드와 SOLID 원칙 살펴보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2479/)
 * [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 * [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
 * [이펙티브 자바3판 2장 객체 생성과 파괴](http://sjh836.tistory.com/168)
