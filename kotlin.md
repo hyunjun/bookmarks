@@ -195,6 +195,7 @@
 * [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
 * [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
 * [코틀린 공변성(Covariance)](https://www.roach-dev.com/kotlin/convariance/)
+* [Variance... without Generics! - YouTube](https://www.youtube.com/watch?v=6moaoAJui_4)
 * [CPS Style](https://devroach.tistory.com/149) continuation
 * [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
 * [Type modelling in Kotlin](https://kt.academy/article/type-modelling-kotlin)
