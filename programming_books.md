@@ -1887,6 +1887,7 @@ Programming Books
 * [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
   * ★★★☆☆ 2023.06.16 기술적인 부분은 없으나 전반적으로 살펴보고 대략의 개념을 잡기 좋음
   * 우당 문004.588-이79ㄷ
+  * [클라우드 네이티브 아키텍처란 무엇인가?! 진짜 중요한 개념 정리 영상 #잇츠맨 #쿠버네티스 #이진현 - YouTube](https://www.youtube.com/watch?v=xClXxnLcLS4)
 * (NOT COMPLETED) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
   * 탐라 문005.11-정67ㅋ, 우당 문005.11-정67ㅋ
   * [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
