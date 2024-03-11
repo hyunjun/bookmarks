@@ -1124,6 +1124,7 @@ Clojure
   * [Strange Loop Chat with Joel Holdbrooks about Meander - YouTube](https://www.youtube.com/watch?v=VeHhpINDCjg)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [membrane: A platform agnostic clojure(script) library for creating user interfaces](https://github.com/phronmophobic/membrane)
+* [methodical: Functional and flexible multimethods for Clojure. Nondestructive multimethod construction, CLOS-style aux methods and method combinations, partial-default dispatch, easy next-method invocation, helpful debugging tools, and more](https://github.com/camsaul/methodical)
 * [minimax: Minimalist 3D game engine in Clojure](https://github.com/roman01la/minimax)
 * [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
   * [(mcorbin.fr): Mirabelle, a new stream processing engine for monitoring](https://mcorbin.fr/posts/2021-03-01-mirabelle-stream-processing/)
