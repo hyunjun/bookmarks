@@ -2355,6 +2355,7 @@ CVPR2016)
 * [Neural_Acceleration_Study - YouTube](https://www.youtube.com/channel/UCh05O9mScsWVaP3EWX1AKDQ)
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
+* [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
 * [block-selection-for-OOD-detection](https://github.com/gist-ailab/block-selection-for-OOD-detection) hallucination
   * [인공지능 “모르는 건 모른다!" ... ‘모르는 데이터’ 식별하는 AI 모델, 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28076)
 * [CoDi: Generate Anything from Anything All At Once through Composable Diffusion](https://codi-gen.github.io/)
