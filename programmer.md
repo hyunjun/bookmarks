@@ -276,6 +276,7 @@ Programmer
 * [Why Developers Keep Making Bad Technology Choices – Obsidian Scheduler](https://web.obsidianscheduler.com/why-developers-keep-making-bad-technology-choices/)
   * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
 * [개발자에게 커뮤니케이션 스킬은 왜 중요할까?](https://f-lab.kr/blog/why-important-communication-skill)
+* [AI시대에 필요한 개발자, Product Engineer | 요즘IT](https://yozm.wishket.com/magazine/detail/2485/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
