@@ -122,6 +122,7 @@ Programming
     5. 자동화해라
     * 순서가 중요. 거꾸로 적용하면 안됨
 * [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles)
+* [일론 머스크 알고리즘](https://www.linkedin.com/posts/maro-jeon-79935113b_%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%84%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-1-activity-7171430232074207232-smag/)
 * [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
@@ -1114,6 +1115,7 @@ Programming
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [The Single Most Important Internal Email in the History of Amazon | Pulse](https://pulseasync.com/operators/frameworks-for-remote-working/)
   * [아마존 역사에서 가장 중요한 제프베조스의 2002년 사내 메일 | GeekNews](https://news.hada.io/topic?id=638)
+  * [Jeff Bezos sent this incendiary memo to his entire team at Amazon way back in 2002](https://www.linkedin.com/posts/joelneeb_thenextlevel-staytuned-activity-7169356962541867009-K5z7/) data debt, cultural debt, operations debt같은 x debt 표현이 재미있어서 기록
 * [한글자막 아마존 베조스의 5가지 핵심명령 (2명의 저명인사 Erik Wilde, Mike Amundsen의 설명) - YouTube](https://www.youtube.com/watch?v=bXELD5wNsyA)
 * [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
