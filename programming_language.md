@@ -94,6 +94,7 @@ Programming Language
   * [Unleash the power of your applications with Micronaut and GraalVM by Álvaro Sánchez-Mariscal - YouTube](https://www.youtube.com/watch?v=_-uDrYLpo98)
   * [IMDEV 2023 누구보다 빠르게, 남들과는 다르게! 가장 빠른 GraalVM - YouTube](https://www.youtube.com/watch?v=rfWzRTY5e5s)
   * [Java in the Cloud with GraalVM • Alina Yurenko • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=cT-nq3Ghv2E)
+  * [Java In The Cloud with GraalVM • Alina Yurenko • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=1QeLcJN0QLc)
   * [GraalVM for JDK 21 Delivers Performance Enhancements and Improved Developer Experience](https://www.infoq.com/news/2023/09/graalvm-java-21/)
   * [GraalVM for JDK 21 is here! 🚀. Today we are releasing GraalVM for JDK… | by Alina Yurenko | graalvm | Sep, 2023 | Medium](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
   * [Thomas Wuerthinger on X: "Big news from last week's @GraalVM for @Java 21 release was that we can finally demonstrate that AOT (with profile-guided optimizations) can outperform JIT for all major metrics including throughput! Here are the numbers for the @Springframework PetClinic example (both G1 GC). 🚀 https://t.co/F8HhVhtEn2" / X](https://twitter.com/thomaswue/status/1707783370187440148)
