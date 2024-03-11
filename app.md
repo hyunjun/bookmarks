@@ -2400,6 +2400,8 @@ App
   * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
 * [윈도우11 지원하지 않는 PC에서도 설치하는 방법 TPM 필요 없고 UEFI 설정따위 없어도 되는 방법입니다 - YouTube](https://www.youtube.com/watch?v=umItvP7sb9M)
 * [저사양 PC에 윈도우11 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=b6bTaSABWlQ)
+* [Windows in a Docker container](https://github.com/dockur/windows) M2에서는 prerequisite 설치 문제때문에 잘 되지 않음. linux에서 해봐야 할 듯
+  * [Running Windows in a Docker Container! - YouTube](https://www.youtube.com/watch?v=xhGYobuG508)
 
 ## Window Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
