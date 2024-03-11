@@ -924,6 +924,12 @@ Programming Books
   * 한라 004.73-크298ㄱ
   * [리뷰 기계의 반칙 · TheoryDB](https://theorydb.github.io/review/2023/12/24/review-book-the-shortcut/)
   * [The shortcut - how machines became intelligent without thinking in a human way](https://www.lse.ac.uk/Events/2024/02/202402121830/shortcut)
+* [멀티모달 생성 AI 인사이드](https://hanbit.co.kr/store/books/look.php?p_code=B9155744064&tid=review)
+  * ★★★☆☆ 2024.03.11
+  * [멀티모달 생성 AI 인사이드](https://github.com/hyunjun/bookmarks/blob/master/programming_books/multimodal_gen_ai_inside.md)
+  * [멀티모달 생성 AI 인사이드. 소제목에서도 드러나지만, 기술 서적은 아니고 AI의 전반적인 개념부터… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-ai-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-95b959164b50)
+  * [멀티모달 생성 AI 인사이드 - Jun’s Substack](https://recur.substack.com/p/ai-ee7)
+  * [멀티모달 생성 AI 인사이드](https://jh4hj.tistory.com/entry/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-AI-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
