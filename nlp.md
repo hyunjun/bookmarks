@@ -2053,6 +2053,7 @@ NLP
 * QLoRA  
   * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671)
   * [QLoRA is all you need (Fast and lightweight model fine-tuning) - YouTube](https://www.youtube.com/watch?v=J_3hDqSvpmg)
+  * [Building an LLM fine-tuning Dataset - YouTube](https://www.youtube.com/watch?v=pCX_3p40Efc)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
