@@ -2917,6 +2917,8 @@ Javascript
     * Parcel에서 Rust로 작성한 새로운 CSS 파서 parcel-css 공개
     * CSSNano나 ESBuild보다 더 빠른 속도를 보여주고 압축된 이미지도 더 작다고 함
     * Mozilla에서 만든 cssparser에 기반을 두고 있으면 다른 파서가 CSS의 값을 문자열로 다루고 있는데, 반해 Parcel CSS는 CSS 명세의 그래머를 사용해서 모든 값을 파싱
+* [Rolldown](https://rolldown.rs/)
+  * [Rolldown - Rust로 작성된 Rollup 호환 번들러 | GeekNews](https://news.hada.io/topic?id=13741)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup · GitHub](https://github.com/rollup)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
