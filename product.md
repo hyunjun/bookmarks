@@ -205,6 +205,7 @@ Product
 * MStone [사람(?)이 윤활해준 저소음 밀키축! 부드러운 저압 타건감! 집콕하면 하나씩 있어야 하는 키보드 엠스톤 그루브 T SF 리뷰! - YouTube](https://www.youtube.com/watch?v=LKKtY6Llmj0)
 * [NuPhy® Studio | Premium keyboards and gear beyond imagination.](https://nuphy.com/)
   * [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
+  * [Eng) 입문하기 좋은 커스텀 키보드 추천, Nuphy GEM80 - YouTube](https://www.youtube.com/watch?v=T9yB3dASNmM)
 * [Q60MAX – 현존 최고의 HHKB 배열 기계식 키보드 – 01010011](https://01010011.blog/2024/01/28/%eb%a6%ac%eb%b7%b0-q60max-%ed%98%84%ec%a1%b4-%ec%b5%9c%ea%b3%a0%ec%9d%98-hhkb-%eb%b0%b0%ec%97%b4-%ea%b8%b0%ea%b3%84%ec%8b%9d-%ed%82%a4%eb%b3%b4%eb%93%9c/)
 * [Orée Board 2 — Tools and Toys](http://toolsandtoys.net/oree-board-2/)
   * [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
