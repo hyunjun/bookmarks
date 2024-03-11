@@ -1082,6 +1082,7 @@ Linux
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
 * [zoxide: A smarter cd command. Supports all major shells](https://github.com/ajeetdsouza/zoxide)
   * [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
+  * [Smart tmux sessions with zoxide and fzf - YouTube](https://www.youtube.com/watch?v=l_TTxc0AcCw)
 
 ## Command Mail
 * [Linux mail command examples – send mails from command line](https://www.binarytides.com/linux-mail-command-examples/)
