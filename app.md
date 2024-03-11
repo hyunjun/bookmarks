@@ -1491,6 +1491,8 @@ App
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
+* [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
+  * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
@@ -1516,6 +1518,8 @@ App
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
+* [yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
+  * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 
 ## Mac App Keyboard
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
