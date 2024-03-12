@@ -440,6 +440,7 @@ Book
   * 한라 327.04-하66ㄷ 탐라 문327.04-하67ㄷ 우당 문327.04-하67ㄷ
 * (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
 * (NOT YET) [행복의 조건(하버드대학교. 인생성장 보고서를 읽고)](https://brunch.co.kr/@sunflowerkkk/5)
+  * 탐라 독331.23-베69ㅎ 우당 문331.23-베69ㅎ 제주 199.1-베69행
   * 책과 무관하지만 비슷한 뱡향의 기사
     * [What My Harvard College Reunion Taught Me About Life - The Atlantic](https://www.theatlantic.com/education/archive/2018/10/what-my-harvard-college-reunion-taught-me-about-life/573847/)
     * [하버드 졸업 30주년 동문회에 다녀와서](https://newspeppermint.com/2019/06/30/harvardreunion50/)
@@ -1768,6 +1769,14 @@ Book
 * [나 오늘 왜 그랬지?](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B4411977788)
   * ★★★☆☆ 2024.03.10 한 가지 영역으로 제한할 수 없는, 뇌에 대한 여러가지를 알려주는 재미있는 책
   * 탐라 문181.3-프232ㄴ
+* 하버드 100년 전통 행복 수업 [세계를 휩쓴 행복한 명강의, 행복은 우연히 오지 않는다 < 종합 < 기사본문 - 문학뉴스](https://www.munhaknews.com/news/articleView.html?idxno=74514)
+  * ★★★☆☆ 2024.03.12
+  * 우당 문191.6-류811ㅎ
+  * [하버드 100년 전통 행복 수업](https://1003.notion.site/100-71ec4d2f9a304d3fbd3c0134cad3b340)
+  * [하버드 100년 전통 행복 수업](https://github.com/hyunjun/bookmarks/blob/master/books/harvard_happy.md)
+  * [하버드 100년 전통 행복 수업. Tags: psychology Date: March 12, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%ED%95%98%EB%B2%84%EB%93%9C-100%EB%85%84-%EC%A0%84%ED%86%B5-%ED%96%89%EB%B3%B5-%EC%88%98%EC%97%85-7297808e154b)
+  * [하버드 100년 전통 행복 수업 - Jun’s Substack](https://recur.substack.com/p/100)
+  * [하버드 100년 전통 행복 수업](https://jh4hj.tistory.com/entry/%ED%95%98%EB%B2%84%EB%93%9C-100%EB%85%84-%EC%A0%84%ED%86%B5-%ED%96%89%EB%B3%B5-%EC%88%98%EC%97%85)
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1789,8 +1798,6 @@ Book
     * 제주 189-치61설-3
   * 설득의 심리학 . 4 , 작은 시도로 큰 변화를 만드는 스몰 빅의 힘
     * 제주 189-치61설-4
-* (NOT YET) 하버드 100년 전통 행복 수업 [세계를 휩쓴 행복한 명강의, 행복은 우연히 오지 않는다 < 종합 < 기사본문 - 문학뉴스](https://www.munhaknews.com/news/articleView.html?idxno=74514)
-  * 우당 문191.6-류811ㅎ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
