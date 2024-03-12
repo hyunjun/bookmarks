@@ -1273,6 +1273,8 @@ SQL
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
+* [teable: ✨ A Super fast, Real-time, Professional, Developer friendly, No code database](https://github.com/teableio/teable)
+  * [Teable - Postgres와 Airtable을 결합한 오픈소스 노코드 데이터베이스 | GeekNews](https://news.hada.io/topic?id=13768)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
