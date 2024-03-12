@@ -1214,6 +1214,7 @@ Business
 * [담대한 변화를 만드는 스토리텔링의 힘(上)](https://brunch.co.kr/@graypool/1372)
 * [담대한 변화를 만드는 스토리텔링의 힘(中)](https://brunch.co.kr/@graypool/1375)
 * [담대한 변화를 만드는 스토리텔링의 힘(下)](https://brunch.co.kr/@graypool/1377)
+* [눈치 왕국](https://www.thestartupbible.com/2024/03/the-nunchi-game.html) high/low context 이야기
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
