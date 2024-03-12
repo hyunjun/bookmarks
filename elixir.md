@@ -152,6 +152,7 @@ Elixir
 * [Bridging Elixir and Python for Efficient Programming Solutions | Curiosum](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir)
 * [Introducing Elixir WebRTC. For the last few months, we’ve been… | by Łukasz Wala | Feb, 2024 | Software Mansion](https://blog.swmansion.com/introducing-elixir-webrtc-a37ece4bfca1)
 * [Scaling a streaming service to hundreds of thousands of concurrent viewers at Veeps - The Elixir programming language](https://elixir-lang.org/blog/2024/03/05/veeps-elixir-case/?)
+* [Elixir Streams |> 🔄 Refactoring an anti-pattern: complex extractions in function heads](https://www.elixirstreams.com/tips/function_head_extraction_anti_pattern)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
