@@ -1087,6 +1087,7 @@ AWS
 * [Amazon DynamoDB를 위한 백업 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/backup-strategies-for-amazon-dynamodb/)
 * [Amazon DynamoDB를 사용한 비용 효율적인 대량 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cost-effective-bulk-processing-with-amazon-dynamodb/)
 * [Amazon DynamoDB 비용 최적화 방법에 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
+* [Amazon DynamoDB의 서비스 오픈 전 체크포인트와 오픈 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dynamodb-service-open-before-checkpoint-openstrategy/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
@@ -2655,6 +2656,7 @@ AWS
 * [AWS Network Firewall - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1104)
 * [AWS Network Firewall - Part 2](https://zigispace.net/1130)
 * [AWS Network Firewall](https://www.notion.so/AWS-Network-Firewall-ced7fc495b45497590841acbf87c549d)
+* [AWS Network Firewall 의 Rule Evaluation Order 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-anf-rule-evaluation-order/)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
