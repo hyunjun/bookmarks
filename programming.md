@@ -1014,6 +1014,7 @@ Programming
     * 📚 변화로부터 얻은 다섯 가지 교훈
     * 🤝 효과적인 거버넌스의 역할
 * [How engineering teams handle unplanned work | by Anna Debenham | boldstart ventures | Medium](https://medium.com/boldstart-ventures/how-engineering-teams-handle-unplanned-work-d90415ff0d81)
+* [과정 안내 Certified LeSS Practitioner | Odd-e Korea - (주) 오디디이 코리아](https://odd-e.kr/less2023/)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
