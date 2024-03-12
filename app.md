@@ -1681,6 +1681,8 @@ App
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
+  * [ScreenTimeLapse: Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
+    * [TimeLapze: MacOS용 오픈소스 타임랩스 화면 녹화 프로그램 | GeekNews](https://news.hada.io/topic?id=13751)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
     * [Terminalizer - 터미널을 녹화해서 GIF로 만들기 | GeekNews](https://news.hada.io/topic?id=3667)
