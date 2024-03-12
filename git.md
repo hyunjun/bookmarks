@@ -986,6 +986,7 @@ Git
   * [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
   * [원티드랩 프론트엔드 팀의 Pull Request 양식 및 자동화 | by Chaeryn Park | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%98-pull-request-%EC%96%91%EC%8B%9D-%EB%B0%8F-%EC%9E%90%EB%8F%99%ED%99%94-42e393832ffc)
   * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
+  * [리멤버에서 Pull Request 편리하게 사용하는 법 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%97%90%EC%84%9C-pull-request-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95/) CODEOWNERS 등
   * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
   * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
   * [Github Pull Request시 Jest & Docker Test Code 수행하기](https://jojoldu.tistory.com/602)
