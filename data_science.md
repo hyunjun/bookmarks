@@ -441,6 +441,7 @@ Data Science
 * [100+ 팀원의 의사결정에 영향을 주는 Data Scientist, Decision | by matthew l | 당근마켓 테크 블로그 | Jul, 2023 | Medium](https://medium.com/daangn/100-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EC%A3%BC%EB%8A%94-data-scientist-decision-5c939e8a3ea9) test 관련 좋은 글
 * [Practical advice for analysis of large, complex data sets](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
   * [복잡한 대규모 데이터 세트의 분석에 대한 실무 조언. Patrick Riley의 Practical advice for… | by Jonas Kim | Medium](https://medium.com/@aldente0630/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%B8%ED%8A%B8%EC%9D%98-%EB%B6%84%EC%84%9D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%A4%EB%AC%B4-%EC%A1%B0%EC%96%B8-a920ae70cc56)
+* [Vin Vashishta on LinkedIn: #data #analytics #datascience #consulting | 698 comments](https://www.linkedin.com/posts/vineetvashishta_data-analytics-datascience-activity-6979069102908682240-HKow/) data에 대한 재미있는 사진
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
