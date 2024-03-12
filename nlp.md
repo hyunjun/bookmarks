@@ -1051,6 +1051,7 @@ NLP
 * [practice - LangChain meetup - 프롬프트 흐름](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#44ae73a90515478b8084e46fbf2286a3)
 * [ChatGPT 치트키로 코딩 쉽게하세요 - YouTube](https://www.youtube.com/watch?v=OVBpddAEHuY) SCC Semantic Code Completer
 * [논문으로 검증된 26가지 프롬프트 엔지니어링 개꿀팁 - YouTube](https://www.youtube.com/watch?v=mC2b57u_s0k)
+* [알아두면 쓸모 있는 ChatGPT 숨어있는 프롬프트 명령어 팁](https://charlychoi.blogspot.com/2023/06/chatgpt.html)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
