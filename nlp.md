@@ -3147,6 +3147,7 @@ NLP
   * 원하는 음성이나 음향 효과에 대한 프롬프트를 입력해서 소리를 생성할 수 있는 모델인 Audiobox를 Meta에서 공개
 * [AudioCraft: A simple one-stop shop for audio modeling](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
   * [Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning](https://github.com/facebookresearch/audiocraft)
+  * [생성 AI로 누구나 작곡가, 음향효과 전문가 될 수 있다!...메타, 오디오 생성 인공지능 '오디오크래프트' 오픈 소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28661)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [Awesome-Korean-Speech-Recognition: 한국어 음성인식 STT API 리스트. 각 성능 벤치마크](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)
 * [Coqui](https://coqui.ai/)
