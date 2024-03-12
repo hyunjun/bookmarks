@@ -998,6 +998,8 @@ AWS
   * 스팟 인스턴스, CDN 등을 활용하고 같은 AZ내의 통신을 하도록 개선, 일부 SaaS는 내부 설치형 도구로 바꾸면서 월간 3천만원 이상 절약
 * [Leaders Forum 2023 TVING FinOps와 Datadog이 만나다! - YouTube](https://www.youtube.com/watch?v=qHLxTgACAOs)
 * [AWS에서 할 수 있는 10가지 비용 절감 방법](https://nauco.tistory.com/142)
+* [AWS, 그럴듯하게 운영해보기 | 인프런 퇴근길 밋업 #05 인프라 & AWS - YouTube](https://www.youtube.com/watch?v=QGUdBUXwNho)
+* [AWS 비용관리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIa_8kDztirpQhQCT3_KFBzT)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
