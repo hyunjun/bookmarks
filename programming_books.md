@@ -2845,12 +2845,14 @@ Programming Books
   * ★★★★☆ 2021.11.18
   * [최강의 조직. 마지막으로, 구성원들이 ‘왜?’라는 질문을 던지는 데 주저함이 없고 그… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B0%95%EC%9D%98-%EC%A1%B0%EC%A7%81-394ccd294df8)
 * [성취예측모형](https://www.facebook.com/dongseok.tschoe/posts/10215559373897226)
+  * 탐라 문325.3-최225ㅅ 우당 문325.3-최225ㅅ
   * ★★★★★ 2022.01.08
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
   * [새책 성취예측모형에 관한 기초적 지식과 그 배경을 설명한 영상 - YouTube](https://www.youtube.com/watch?v=CmmIT5kDFRs)
   * [국민 필독서…대통령 최적 인물 진단 ’성취예측모형’ - 브랜드타임즈(Brand Times)](http://www.brandtimes.co.kr/news/articleView.html?idxno=2259)
   * [성취역량모델.pdf - Google Drive](https://drive.google.com/file/d/10HUVg0aRpciNrkl5iYw25mOZPkBbzVmK/edit)
   * [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs)
+  * [최동석 강의록: DANO, 그리고 성취예측모형](https://dano.oopy.io/)
 * 원온원 일 잘하는 팀장의 대화력
   * 우당
   * ★★★★☆ 2022.04.03
@@ -4351,6 +4353,7 @@ Programming Books
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
   * [Code Complete • Steve McConnell & Jeffrey van Gogh • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=STpbPXW9-pA)
+  * [책 리뷰 : 코드 컴플리트(1) - YouTube](https://www.youtube.com/watch?v=E6STjmuKESo)
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 * (NOT YET) [리팩터링 워크북](https://insightbooklist.wordpress.com/books/individual/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-%EC%9B%8C%ED%81%AC%EB%B6%81/)
   * 한라 004.575-웨68ㄹ
