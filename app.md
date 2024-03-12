@@ -698,6 +698,8 @@ App
       * 분산 IDE로 설계되어 JetBrains의 Space를 이용해서 원격에서 코드 처리
       * 로컬에서는 Fleet만 가볍게 사용하는 것도 가능
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* IDX [Project IDX](https://idx.google.com/)
+  * [IDX - 웹에서 ios, android시뮬까지 가능한! - YouTube](https://www.youtube.com/watch?v=wAt7PMqVFL4)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io) low code or no code tool
