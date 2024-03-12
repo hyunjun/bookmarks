@@ -292,6 +292,8 @@ Artificial Intelligence
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
+* [Karya | We solve data needs](https://karya.in/)
+  * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
 * [kyutai: open science AI lab](http://kyutai.org/)
   * [3억 3천만 달러 예산을 가진 'Kyutai AI' 연구소, 모든 것을 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=11943)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
