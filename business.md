@@ -1214,6 +1214,7 @@ Business
 * [담대한 변화를 만드는 스토리텔링의 힘(上)](https://brunch.co.kr/@graypool/1372)
 * [담대한 변화를 만드는 스토리텔링의 힘(中)](https://brunch.co.kr/@graypool/1375)
 * [담대한 변화를 만드는 스토리텔링의 힘(下)](https://brunch.co.kr/@graypool/1377)
+* [눈치 왕국](https://www.thestartupbible.com/2024/03/the-nunchi-game.html) high/low context 이야기
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1864,6 +1865,7 @@ Business
 * [최악의 직장상사 유형은? / 나쁜 리더가 따로 있는게 아니에요 / 리더의 태도 문성후 대표 - YouTube](https://www.youtube.com/watch?v=bCvylYCFeF4)
 * [초보 팀장이 빠지는 함정 5가지. 다른 책 찾지 말고 이것만 기억하세요 | by Sophie Ju | DelightRoom | Mar, 2024 | Medium](https://medium.com/delightroom/%EC%B4%88%EB%B3%B4-%ED%8C%80%EC%9E%A5%EC%9D%B4-%EB%B9%A0%EC%A7%80%EB%8A%94-%ED%95%A8%EC%A0%95-5%EA%B0%80%EC%A7%80-8c9b99e460d8)
 * [리더십, 마약과 같은 중독성을 지닌 현상 | GeekNews](https://news.hada.io/topic?id=13705)
+* [Your manager has more impact on your mental health than your therapist or your doctor](https://www.linkedin.com/posts/thetobioluwole_in-my-first-leadership-role-i-changed-all-activity-7171192652405682176-YJdR/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)

@@ -122,6 +122,7 @@ Programming
     5. 자동화해라
     * 순서가 중요. 거꾸로 적용하면 안됨
 * [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles)
+* [일론 머스크 알고리즘](https://www.linkedin.com/posts/maro-jeon-79935113b_%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%84%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-1-activity-7171430232074207232-smag/)
 * [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
@@ -701,6 +702,10 @@ Programming
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
 * [Beyond Serverless: How Feature-Focused Platforms Streamline Your DX by Hugh McKee - YouTube](https://www.youtube.com/watch?v=-jlKjA7hnlI) high-abstraction solutions: Fermyon, Dapr, Sky, and Kalix
+* [Build Abstractions Not Illusions • Gregor Hohpe • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=aWZFRk-w3ng)
+  * [VidiGo Build Abstractions Not Illusions • Gregor Hohpe •](https://vidigo.ai//chatbot/summary/lGxmUHkDfQ1PZpi)
+    * 좋은 추상화는 인지 부하를 줄이면서도 필요한 복잡성을 적절히 노출시켜 개발자가 효율적으로 작업할 수 있게 돕는다
+  * [환상이 아닌 추상화 구축 - 그레고르 호페 - YOW! 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362924?sId=aWZFRk-w3ng)
 * [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 * [Thoughtworks Technology Radar 26호 (39p PDF) | GeekNews](https://news.hada.io/topic?id=6295)
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
@@ -1110,6 +1115,7 @@ Programming
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [The Single Most Important Internal Email in the History of Amazon | Pulse](https://pulseasync.com/operators/frameworks-for-remote-working/)
   * [아마존 역사에서 가장 중요한 제프베조스의 2002년 사내 메일 | GeekNews](https://news.hada.io/topic?id=638)
+  * [Jeff Bezos sent this incendiary memo to his entire team at Amazon way back in 2002](https://www.linkedin.com/posts/joelneeb_thenextlevel-staytuned-activity-7169356962541867009-K5z7/) data debt, cultural debt, operations debt같은 x debt 표현이 재미있어서 기록
 * [한글자막 아마존 베조스의 5가지 핵심명령 (2명의 저명인사 Erik Wilde, Mike Amundsen의 설명) - YouTube](https://www.youtube.com/watch?v=bXELD5wNsyA)
 * [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
@@ -1334,6 +1340,9 @@ Programming
 * [**Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech**](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
   * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
+  * [마이크로서비스, 서버리스 버렸더니 비용 90% 절감 - 아마존 프라임 비디오, 모놀리스 전환 - YouTube](https://www.youtube.com/watch?v=K8FKn4sI16Q)
+* [In defense of simple architectures](https://danluu.com/simple-architectures/)
+  * [단순한 아키텍처를 옹호하며 (2022) | GeekNews](https://news.hada.io/topic?id=13754)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
@@ -3082,7 +3091,7 @@ Programming
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
 * [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
 * [신한은행이 클라우드 구축에서 배운 것 “이론에 기대지 말라” - 바이라인네트워크](https://byline.network/2023/11/24-283/)
-* [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
+* [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
 * [클라우드 컴퓨팅 입문자들을 위한 가이드 : 네이버 블로그](https://blog.naver.com/drvoss/223275359487)
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
 * [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
@@ -4216,6 +4225,8 @@ Programming
   * [기계번역 The NeuVector Difference – 098](https://www.098.co.kr/%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD-the-neuvector-difference/)
 * [<NHN Cloud 보안 백서>를 소개합니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/372)
 * [Nikto web server scanner](https://github.com/sullo/nikto?tab=readme-ov-file)
+* [NShiftKey · GitHub Marketplace](https://github.com/marketplace/nshiftkey)
+  * [인터뷰 네이버의 보안관 - Security 윤상진, 김도경 님](https://d2.naver.com/news/9483612)
 * NTS [Network Time Security · Cloudflare Time Services docs](https://developers.cloudflare.com/time-services/nts/)
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
@@ -4624,6 +4635,7 @@ Programming
 * [스토리지 최적의 스펙 관리 시스템 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13539/)
 * [A reliable compute platform for Expedia customers - YouTube](https://www.youtube.com/watch?v=ou01X3UGVLI) HashiCorp
 * [**스푼라디오에서 플랫폼 엔지니어링으로 가기 위한 여정** — 1. 안녕하세요 스푼라디오에서 SRE 팀에서 DevOps업무를 담당하고 있는… | by Paul | Spoon Radio | Feb, 2024 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f0e5da669243) 대부분 AWS 관련 내용
+* [개발자가 알아두면 좋은 ‘코드형 인프라(IaC)’ 개념 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/2464/)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
@@ -4722,6 +4734,9 @@ Programming
     * Airbnb has open sourced Dynein, their job queuing system that they use for offloading tasks from the main request path and performing other asynchronous operations. It uses DynamoDB as a scheduler for future jobs and SQS for queuing—the post describes how this is built in a highly scalable way.
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
+* [Hatchet](https://hatchet.run/)
+  * [hatchet: A distributed, fault-tolerant task queue](https://github.com/hatchet-dev/hatchet)
+  * [Hatchet – 오픈 소스 분산 작업 큐 | GeekNews](https://news.hada.io/topic?id=13722)
 * messaging-hub
   * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
   * [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
@@ -5468,6 +5483,7 @@ Programming
   * [2월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/02/b-2-4.html)
   * [3월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/03/b-3-1.html)
+  * [3월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/03/b-3-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -6620,6 +6636,7 @@ Programming
     * (i) Dynamic Documentation Generation (DDG) and/or
     * (ii) Automated Documentation Testing (ADT)
     * both based on defining a single and robust information source for documentation
+* [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)

@@ -53,6 +53,7 @@ Regular Expression
 * [10 Regular Expressions Every Programmer Should Know - DEV Community](https://dev.to/javinpaul/10-regular-expressions-every-programmer-should-know-3k93)
 * [정규표현식을 재미있게 훈련하는 방법 - Regex Crossword](https://soheemon.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Regex-Crossword)
 * [정규표현식의 표현식 그룹 이름 지정 (Named Capture Group)에 대해 알아봅시다](https://sjquant.tistory.com/71)
+* [정규식 함부로 쓰지 말자](https://velog.io/@skynet/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%A8%EB%B6%80%EB%A1%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%9E%90)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)

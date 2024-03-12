@@ -657,6 +657,7 @@ AWS
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
+* [llm-multimodal-and-rag: It shows how to use mutimodal and RAG based on LangChain](https://github.com/kyopark2014/llm-multimodal-and-rag)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
@@ -997,6 +998,8 @@ AWS
   * 스팟 인스턴스, CDN 등을 활용하고 같은 AZ내의 통신을 하도록 개선, 일부 SaaS는 내부 설치형 도구로 바꾸면서 월간 3천만원 이상 절약
 * [Leaders Forum 2023 TVING FinOps와 Datadog이 만나다! - YouTube](https://www.youtube.com/watch?v=qHLxTgACAOs)
 * [AWS에서 할 수 있는 10가지 비용 절감 방법](https://nauco.tistory.com/142)
+* [AWS, 그럴듯하게 운영해보기 | 인프런 퇴근길 밋업 #05 인프라 & AWS - YouTube](https://www.youtube.com/watch?v=QGUdBUXwNho)
+* [AWS 비용관리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIa_8kDztirpQhQCT3_KFBzT)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
@@ -1086,6 +1089,7 @@ AWS
 * [Amazon DynamoDB를 위한 백업 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/backup-strategies-for-amazon-dynamodb/)
 * [Amazon DynamoDB를 사용한 비용 효율적인 대량 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cost-effective-bulk-processing-with-amazon-dynamodb/)
 * [Amazon DynamoDB 비용 최적화 방법에 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
+* [Amazon DynamoDB의 서비스 오픈 전 체크포인트와 오픈 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dynamodb-service-open-before-checkpoint-openstrategy/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
@@ -2385,6 +2389,7 @@ AWS
 * [우아한테크세미나 사례별로 알아보는 안전한 S3 보안 가이드 - YouTube](https://www.youtube.com/watch?v=vgYfAndrpPU)
 * [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
 * [LLM 에 대한 OWASP Top 10을 사용하여 생성형 AI 애플리케이션을 위한 심층적인 방어 보안 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/)
+* [AWS 계정에 있는 모든 Security Group을 한방에 조사하는 방법 - HBsmith](https://blog.hbsmith.io/aws-%EA%B3%84%EC%A0%95%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AA%A8%EB%93%A0-security-group%EC%9D%84-%ED%95%9C%EB%B0%A9%EC%97%90-%EC%A1%B0%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e2253253469c)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
@@ -2654,6 +2659,7 @@ AWS
 * [AWS Network Firewall - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1104)
 * [AWS Network Firewall - Part 2](https://zigispace.net/1130)
 * [AWS Network Firewall](https://www.notion.so/AWS-Network-Firewall-ced7fc495b45497590841acbf87c549d)
+* [AWS Network Firewall 의 Rule Evaluation Order 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-anf-rule-evaluation-order/)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)

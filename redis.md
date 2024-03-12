@@ -155,6 +155,9 @@ Redis
 * [How does Redis persist data?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7143642585989804034-4n8t/)
 * [I've been using Redis wrong this whole time... - YouTube](https://www.youtube.com/watch?v=WQ61RL1GpEE)
 * [대규모 Redis를 운영하며 살아남기](https://techblog.lycorp.co.jp/ko/running-redis-at-scale)
+* [Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자 - YouTube](https://www.youtube.com/watch?v=Sb3wTBH4J0w)
+  * [VidiGo Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자](https://vidigo.ai//chatbot/summary/jZx0SEQfffsMcnJ)
+  * [Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362904?sId=Sb3wTBH4J0w)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)

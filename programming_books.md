@@ -924,6 +924,12 @@ Programming Books
   * 한라 004.73-크298ㄱ
   * [리뷰 기계의 반칙 · TheoryDB](https://theorydb.github.io/review/2023/12/24/review-book-the-shortcut/)
   * [The shortcut - how machines became intelligent without thinking in a human way](https://www.lse.ac.uk/Events/2024/02/202402121830/shortcut)
+* [멀티모달 생성 AI 인사이드](https://hanbit.co.kr/store/books/look.php?p_code=B9155744064&tid=review)
+  * ★★★☆☆ 2024.03.11
+  * [멀티모달 생성 AI 인사이드](https://github.com/hyunjun/bookmarks/blob/master/programming_books/multimodal_gen_ai_inside.md)
+  * [멀티모달 생성 AI 인사이드. 소제목에서도 드러나지만, 기술 서적은 아니고 AI의 전반적인 개념부터… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-ai-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-95b959164b50)
+  * [멀티모달 생성 AI 인사이드 - Jun’s Substack](https://recur.substack.com/p/ai-ee7)
+  * [멀티모달 생성 AI 인사이드](https://jh4hj.tistory.com/entry/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-AI-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
@@ -961,6 +967,8 @@ Programming Books
   * 한라 004.735-케68ㅈ 우당 문004.735-케69ㅈ
   * [lee-monster/developing-apps-with-GPT-4: GPT-4를 활용한 인공지능 앱 개발(원제: Developing apps with GPT-4 and ChatGPT)의 소스 코드를 제공합니다](https://github.com/lee-monster/developing-apps-with-GPT-4)
   * [리뷰 GPT-4를 활용한 인공지능 앱 개발](https://brunch.co.kr/@gauss92tgrd/101)
+* (NOT YET) [쉽고 빠르게 익히는 실전 LLM](https://www.hanbit.co.kr/store/books/look.php?p_code=B7077705203)
+  * 탐라 문004.73-오78ㅅ
 
 # C
 
@@ -1616,6 +1624,9 @@ Programming Books
   * [머신러닝 BIG PICTURE, 나는 계획이 있다](https://jpub.tistory.com/1508)
   * [moseskim/building-ml-system: building machine learning system](https://github.com/moseskim/building-ml-system)
   * [Ho Seung Shin - --머신러닝 시스템 구축 실전 가이드-- ML Model을 만드는 분석가의... | Facebook](https://www.facebook.com/hoseung.shin.50/posts/pfbid02pgwH7JRYDzXyMf821f5CCkqXxKdBeFxfCqpRQnsr4PDQDHX4vpacxTc5T8YWwfhUl)
+* (NOT YET) [러닝 레이](https://hanbit.co.kr/store/books/look.php?p_code=B2311035925)
+  * 탐라 문004.73-펌843ㄹ
+  * [learning-ray: 『러닝 레이』(한빛미디어, 2024) 예제 코드 저장소입니다](https://github.com/hanbit/learning-ray)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -1882,6 +1893,7 @@ Programming Books
 * [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
   * ★★★☆☆ 2023.06.16 기술적인 부분은 없으나 전반적으로 살펴보고 대략의 개념을 잡기 좋음
   * 우당 문004.588-이79ㄷ
+  * [클라우드 네이티브 아키텍처란 무엇인가?! 진짜 중요한 개념 정리 영상 #잇츠맨 #쿠버네티스 #이진현 - YouTube](https://www.youtube.com/watch?v=xClXxnLcLS4)
 * (NOT COMPLETED) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
   * 탐라 문005.11-정67ㅋ, 우당 문005.11-정67ㅋ
   * [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
@@ -2530,6 +2542,10 @@ Programming Books
 * (NOT YET) [Node.js로 프로그래밍 시작하기](http://acornpub.co.kr/book/get-nodejs)
 * (NOT YET) [Node.js 백엔드 개발자 되기 - YouTube](https://www.youtube.com/watch?v=hwSUTp4svg0)
   * [Node.js의 새로운 파트너 NestJS는 왜 탄생했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2215/)
+* (NOT YET) [Do it! Node.js 프로그래밍 입문](http://www.easyspub.co.kr/20_Menu/BookView/626/PUB)
+  * 탐라 문005.138-고14ㄴ
+  * [doit-node](https://github.com/funnycom/doit-node)
+  * [Do it! Node.js 프로그래밍 입문 - YouTube](https://www.youtube.com/playlist?list=PLG7te9eYUi7vxSvo6hvhOaht8oP0PoCwi)
 
 ## React
 * [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
@@ -2714,6 +2730,10 @@ Programming Books
 
 * [손이 먼저 반응하는 Practical Vim](https://ebook.insightbook.co.kr/book/57)
   * 탐라 문005.51 네68p
+
+# Lisp
+* (NOT YET) [책읽는 코지마: "만들면서 배우는 리스프 프로그래밍(Land or Lis…" - SiFNet Mastodon](https://social.silicon.moe/@reading_kojima/112055487632420303?fbclid=IwAR1GtyYYZxkYj16c-TUgWIStEv4mf7FnsuwKCEmKtzZmq_xOk1zUcpAmd64)
+  * 한라 005.11-바57ㄹ
 
 # Management
 * [스타트업 대표 132명이 직접 추천했다?! 대표 책상에 놓여있는 조직문화 필독서!! - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/organizational20220114)
@@ -4182,6 +4202,10 @@ Programming Books
   * [rust: 《만들면서 배우는 러스트 프로그래밍》 예제 코드](https://github.com/wikibook/rust)
 * (NOT YET) [프로그래밍 러스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448819)
   * [페리스(Ferris)를 안다면 당신은?](https://jpub.tistory.com/1367)
+* (NOT YET) [Rust Atomics and Locks 러스트 동시성 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B1477259158)
+  * 탐라 문005.133-보58ㄹ
+  * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+  * [rust-atomics-and-locks: Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
 
 # Scala
 

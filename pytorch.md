@@ -548,3 +548,4 @@ PyTorch
 * [Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 * [파이토치 자세한 튜토리얼 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/torch-tutorial/#22-%EA%B0%80%EC%A4%91%EC%B9%98-%EC%B4%88%EA%B8%B0%EA%B0%92-%EC%83%9D%EC%84%B1)
 * [파이토치 PyTorch - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmr_SZfUOk2ygWjEyvOqcjB2)
+* [practice - 나만의 LM 만들어보기 - pytorch, transformer](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#aec50d490e7b4bb8bc34f9c31386a534)

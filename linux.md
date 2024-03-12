@@ -1082,6 +1082,7 @@ Linux
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
 * [zoxide: A smarter cd command. Supports all major shells](https://github.com/ajeetdsouza/zoxide)
   * [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
+  * [Smart tmux sessions with zoxide and fzf - YouTube](https://www.youtube.com/watch?v=l_TTxc0AcCw)
 
 ## Command Mail
 * [Linux mail command examples – send mails from command line](https://www.binarytides.com/linux-mail-command-examples/)
@@ -1316,6 +1317,7 @@ Linux
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
   * [리눅스와 맥에서 홈브루를 이용해 패키지를 설치하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212694)
+* [linux-engineers Wiki](https://github.com/pjhwa/linux-engineers/wiki) 리눅스 엔지니어 기술 면접 질문지
 * Linux From Scratch [Welcome to Linux From Scratch!](https://linuxfromscratch.org/)
 * [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
 * [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)

@@ -207,6 +207,8 @@ Finance
 * openbb [Investment research for everyone](https://openbb.co/)
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
+* [wallstreetlocal: Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful](https://github.com/leftmove/wallstreetlocal)
+  * [Wallstreetlocal – 미국 최대 투자자들의 투자 현황 조회 오픈소스 | GeekNews](https://news.hada.io/topic?id=13732)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
 
 # Python

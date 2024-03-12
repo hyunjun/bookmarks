@@ -698,6 +698,8 @@ App
       * 분산 IDE로 설계되어 JetBrains의 Space를 이용해서 원격에서 코드 처리
       * 로컬에서는 Fleet만 가볍게 사용하는 것도 가능
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* IDX [Project IDX](https://idx.google.com/)
+  * [IDX - 웹에서 ios, android시뮬까지 가능한! - YouTube](https://www.youtube.com/watch?v=wAt7PMqVFL4)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io) low code or no code tool
@@ -1439,7 +1441,7 @@ App
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
-* [MonitorControl - Control your external monitor brightness & volume on your Mac](https://github.com/the0neyouseek/MonitorControl)
+* [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
 * [**monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)**](http://macnews.tistory.com/1064)
@@ -1491,6 +1493,8 @@ App
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
+* [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
+  * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
@@ -1516,6 +1520,8 @@ App
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
+* [yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
+  * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 
 ## Mac App Keyboard
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
@@ -1675,6 +1681,8 @@ App
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
+  * [ScreenTimeLapse: Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
+    * [TimeLapze: MacOS용 오픈소스 타임랩스 화면 녹화 프로그램 | GeekNews](https://news.hada.io/topic?id=13751)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
     * [Terminalizer - 터미널을 녹화해서 GIF로 만들기 | GeekNews](https://news.hada.io/topic?id=3667)
@@ -1932,6 +1940,8 @@ App
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
+* [Natron: Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry](https://github.com/NatronGitHub/Natron)
+  * [Natron - Adobe After Effects의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=13724)
 * [NewPipe - a free YouTube client](https://newpipe.net/)
 * [NoiseTorch: Real-time microphone noise suppression on Linux](https://github.com/lawl/NoiseTorch)
 * [NVIDIA Broadcast 앱: AI 기반 음성 및 영상 | NVIDIA](https://www.nvidia.com/ko-kr/geforce/broadcasting/broadcast-app/)
@@ -2398,6 +2408,8 @@ App
   * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
 * [윈도우11 지원하지 않는 PC에서도 설치하는 방법 TPM 필요 없고 UEFI 설정따위 없어도 되는 방법입니다 - YouTube](https://www.youtube.com/watch?v=umItvP7sb9M)
 * [저사양 PC에 윈도우11 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=b6bTaSABWlQ)
+* [Windows in a Docker container](https://github.com/dockur/windows) M2에서는 prerequisite 설치 문제때문에 잘 되지 않음. linux에서 해봐야 할 듯
+  * [Running Windows in a Docker Container! - YouTube](https://www.youtube.com/watch?v=xhGYobuG508)
 
 ## Window Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)

@@ -230,6 +230,7 @@ Machine Learning
   * Guess and Check, Grid Search, Random Search, Bayesian Optimization, Local Optimization With a Good Initial Guess
 * [Hyper-parameters in Action! Part I — Activation Functions](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
 * [Importance of Choosing the Correct Hyper-parameters While Defining a Model](https://medium.com/towards-artificial-intelligence/importance-of-choosing-the-correct-hyper-parameters-while-defining-a-model-c6084bc49fc2)
+* [파라미터와 하이퍼 파라미터의 차이 | 프로그래밍 공부법 | 소프트웨어 개발자 | 데이터 분석가 | 머신러닝 - YouTube](https://www.youtube.com/watch?v=FxiDjeEfIH8)
 * [내가 만든 모델이 잘 작동하는건가?](https://brunch.co.kr/@chris-song/32)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
@@ -716,6 +717,7 @@ Machine Learning
   * [복잡한 대규모 데이터 세트의 분석에 대한 실무 조언](https://velog.io/@aldente0630/practicaladviceforanalysisoflargecomplexdatasets)
 * [확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘 | 요즘IT](https://yozm.wishket.com/magazine/detail/1931/)
 * [Back to Basics: Scalable, Portable ML in Pure SQL - YouTube](https://www.youtube.com/watch?v=iyH8GPXzBpk)
+* [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

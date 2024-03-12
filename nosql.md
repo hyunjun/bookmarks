@@ -292,6 +292,7 @@ NoSQL
   * [Firebase & Google Cloud: What’s different with Cloud Functions?](https://medium.com/google-developers/firebase-google-cloud-whats-different-with-cloud-functions-612d9e1e89cb)
   * [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
   * [리모트 컨피그 앱 개발기](http://woowabros.github.io/experience/2019/03/25/remote_config_client.html)
+  * [Firebase - Remote Config :: iOYES](https://green1229.tistory.com/455)
   * [RemoteConfig 이용해서 다이나믹하게 앱 업데이트 하기](https://developer88.tistory.com/158)
   * [How to connect a React Design System with Firebase and Redux](https://medium.freecodecamp.org/how-to-connect-a-react-design-system-with-firebase-and-redux-9646ca1c733f)
   * [How to build a Firebase Angular app with auth and a real-time database](https://medium.freecodecamp.org/firebase-angular-application-with-auth-and-realtime-database-ae37fef5859d)
