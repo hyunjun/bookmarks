@@ -1063,6 +1063,7 @@ NLP
   * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
+* [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 
 ## ChatBot Python
@@ -2087,6 +2088,8 @@ NLP
   * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 * [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
+* [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
+  * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 
 ## Language Model LM GPT
