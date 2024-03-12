@@ -276,6 +276,12 @@ Programmer
 * [Why Developers Keep Making Bad Technology Choices – Obsidian Scheduler](https://web.obsidianscheduler.com/why-developers-keep-making-bad-technology-choices/)
   * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
 * [개발자에게 커뮤니케이션 스킬은 왜 중요할까?](https://f-lab.kr/blog/why-important-communication-skill)
+* [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
+  * [페이스북이 Git을 사용하지 않는 이유 | GeekNews](https://news.hada.io/topic?id=13769)
+  * 이 이야기는 "많은 주요 기술적 결정은 기술이 주도하는 것이 아니라 사람이 주도한다"는 점을 상기시킴
+  * 페이스북은 Mercurial이 Git보다 성능이 뛰어나서가 아니라, Mercurial 유지보수자들과의 협업이 더 개방적이었기 때문에 선택함
+  * 전체 엔지니어링 조직을 설득하는 과정에서 한 기술이 다른 기술보다 더 우수해서가 아니라 "사려 깊은 커뮤니케이션"이 중요했음
+  * "소통과 친절함"이 개발 도구 세계에서 중요한 가치임을 강조
 * [AI시대에 필요한 개발자, Product Engineer | 요즘IT](https://yozm.wishket.com/magazine/detail/2485/)
 
 # Book
