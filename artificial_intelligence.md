@@ -330,6 +330,7 @@ Artificial Intelligence
     * 뛰어난 기술이 등장하고 있고
     * 인프라를 제공하는 스타트업이 생겨나고 있고
     * 기존에 확실히 1등이 없던 영역에서 사용사례가 나타나기 때문
+* [Steven Tey on X: "We're seeing more and more AI startups choose to build on @vercel ▲ Here are some of the most exciting ones I've discovered recently:" / X](https://twitter.com/steventey/status/1643671633499156481?s=20)
 * [How Are Consumers Using Generative AI? | Andreessen Horowitz](https://a16z.com/how-are-consumers-using-generative-ai/)
   * a16z에서 트래픽 기준 50개 AI 제품을 분석해서 AI 트렌드를 분석한 글
     * ChatGPT처럼 생성형 AI는 1년 전에는 존재하지 않았으며 50개 제품 중 대기업 제품은 5개뿐이며 48%가 외부 자금 없이 제품을 만들어서 비교적 적은 자본으로 대규모 AI 제품을 출시할 수 있음을 의미
