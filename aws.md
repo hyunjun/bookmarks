@@ -2387,6 +2387,7 @@ AWS
 * [우아한테크세미나 사례별로 알아보는 안전한 S3 보안 가이드 - YouTube](https://www.youtube.com/watch?v=vgYfAndrpPU)
 * [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
 * [LLM 에 대한 OWASP Top 10을 사용하여 생성형 AI 애플리케이션을 위한 심층적인 방어 보안 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/)
+* [AWS 계정에 있는 모든 Security Group을 한방에 조사하는 방법 - HBsmith](https://blog.hbsmith.io/aws-%EA%B3%84%EC%A0%95%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AA%A8%EB%93%A0-security-group%EC%9D%84-%ED%95%9C%EB%B0%A9%EC%97%90-%EC%A1%B0%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e2253253469c)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
