@@ -322,6 +322,7 @@ SQL
 * [Amazon RDS for MySQL의 Active/Active 복제를 위한 Group Replication 플러그인 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-rds-for-mysql-active-active-group-replication-plugin/)
 * [Aurora MySQL 업그레이드엔 블루/그린 배포 어때? | by Rocket | Jan, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aurora-mysql-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%97%94-%EB%B8%94%EB%A3%A8%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC-%EC%96%B4%EB%95%8C-f13787974c95)
 * [Oracle to AWS Aurora PG 1탄 (Shareplex AWS 전환 여정)](https://gsretail.tistory.com/53)
+* [Oracle to AWS Aurora PG 2탄 !! (DB 이사가요~)](https://gsretail.tistory.com/54)
 * [Amazon Aurora MySQL 버전 3으로 업그레이드 (MySQL 8.0 호환) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql-version-3-upgrade-mysql-8-0-compatability/)
 
 # Book
