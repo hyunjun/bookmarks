@@ -353,6 +353,22 @@ Programming
     * 제품의 목적을 정의해서 우선순위 결정
     * 제품의 SLO를 측정하기 위해 클라이언트 SLO나 e2e SLO를 도입해서 제품의 SLO를 만들어서 이 신뢰성을 관리
   * 이 접근 방법은 SRE팀이 사용자와 비즈니스에서 가장 중요한 곳에 자원 집중
+* [Dev Harmony: Communication and Proven SRE Practices | gotopia.tech](https://gotopia.tech/articles/297/dev-harmony-communication-and-proven-sre-practices)
+  * 개발자 경험, 협업, SRE 전략
+    1. 개발자 경험과 행복
+      * 개발자의 업무 흐름을 방해하지 않고 생산성을 높이는 도구를 사용
+      * 코드 리뷰, 주석, 팀 협업을 통해 지식 공유 촉진
+      * 집단적인 코드 개선과 이해를 위해 앙상블 프로그래밍 장려
+      * 상주 엔지니어나 전담 팀과 같은 메커니즘을 구현하여 방해 요인을 최소화하고 워크플로우를 간소화
+    2. SRE 모델 및 팀과의 협업
+      * 임베디드, 컨설턴트, 사이트 신뢰성 엔지니어링 접근 방식을 고려하여 조직의 요구 사항에 맞는 SRE 모델 채택
+      * SRE 팀과 개발 팀 간의 협업을 장려하여 지식을 공유하고 운영 효율성 개선
+      * 표준 플랫폼 솔루션으로는 충분하지 않을 수 있는 사용 사례를 파악하고 맞춤형 솔루션에 대한 지원 제공
+      * 사용자 요구 사항, 트레이드오프, 효과적인 의사 소통을 고려한 내부 플랫폼에 대한 포괄적인 제품 관리 전략을 개발
+    3. 내부 플랫폼 구축 및 제품 관리 전략
+      * 내부 플랫폼은 개발자를 위한 제품이며, 제품 관리자, 개발자 옹호자, 사용자 연구가 필요하다는 점 인식
+      * 개발자와 교류하여 그들의 요구 사항, 사용 사례, 우려 사항 이해
+      * 개발 팀과 플랫폼 소유자 간의 격차를 해소하고 협업적인 환경을 조성하기 위한 효과적인 의사 소통 전략 구현
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
