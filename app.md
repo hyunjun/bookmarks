@@ -1244,6 +1244,7 @@ App
   * [맥북 클린 재설치하기 위한 사전 작업들 (기록용)](https://garyj.tistory.com/23)
   * [**간단한 macOS 개발 환경 공유 | Dable Tech Blog**](https://teamdable.github.io/techblog/Simple-macOS-Dev-Env)
   * [새 MacBook 설정(2023) - rein's world](https://rein.kr/posts/2023-08-27-%EC%83%88-%EB%A7%A5%EB%B6%81-%EC%84%A4%EC%A0%95/)
+  * [맥 처음사면 항상 바꿔주는 기본 설정 (애플은 생각보다 친절함) - YouTube](https://www.youtube.com/watch?v=omApyJigr_c)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
     * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
