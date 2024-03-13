@@ -754,6 +754,7 @@ AWS
 * [Amazon CloudFront의 웹 애플리케이션을 위한 새로운 콘텐츠 전송 네트워크(CDN)와 보안 통합 대시보드 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/)
 * [CloudFront와 ALB를 연동해 보기 | DevelopersIO](https://dev.classmethod.jp/articles/i-tried-linking-cloudfront-with-alb/)
 * [CloudFront 총 정리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIazkNsXM59WNVCY_6kwSnxU)
+* [AWS Lambda S3 Image Resize with URL Parameter (Cloudfront 요금 30% 감면)](https://tabmania.tistory.com/entry/AWS-Lambda-S3-Image-Resize-with-URL-Parameter) cost, image upload 최적화 등
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
