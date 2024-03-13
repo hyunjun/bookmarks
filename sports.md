@@ -135,6 +135,7 @@ Sports
 * [**감독 뒷담화의 뒷담화**](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16969108&memberNo=25448623)
 * [Predicting the 2018 Cy Young Race with Machine Learning](https://www.fangraphs.com/tht/cy-young-award-2018-blake-snell-jacob-degrom-max-scherzer/)
 * [WAR, WRC+, OPS+, DRS, UZR/150, 타구발사각도 등, 타자에 관한 야구용어 총정리 1편-WAR에 사용하는 지표와 계산과정](https://m.blog.naver.com/ljsmessi/221472834240)
+* [누가 더 잘치는 타자인지 궁금해? 이거 보면 알 수 있음! ft.우르크 - YouTube](https://www.youtube.com/watch?v=3REKld7I_tE) WRC+, WOBA
 * [그래서, 그 공이 마지막에 어떻게 됐다는 건데?](http://www.yagongso.com/?p=8339)
 * [나는 네가 다음 시즌에 잡을 삼진 개수를 알고 있다](http://www.yagongso.com/?p=9317) decision tree, random forest,...
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
