@@ -1433,6 +1433,8 @@ App
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
+* [Loop: MacOS window management made elegant](https://github.com/MrKai77/Loop)
+  * [Mac's Best Window Manager - YouTube](https://www.youtube.com/watch?v=gkSe7UF1Xf0)
 * [LuLu - the free, open-source firewall](https://objective-see.com/products/lulu.html)
 * [Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
   * [Maccy - 맥용 클립보드 매니저 오픈소스 앱 | GeekNews](https://news.hada.io/topic?id=6853)
