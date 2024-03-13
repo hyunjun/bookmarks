@@ -345,6 +345,18 @@ Artificial Intelligence
 * ["우린 벌써 뛰고 있어" 생성형 AI를 워크플로우와 결합한 기업 3곳의 경험 - ITWorld Korea](https://www.itworld.co.kr/news/308413)
 * [Ten AI Insights from Databricks, Anyscale, and Microsoft - Foundation Capital](https://foundationcapital.com/ten-ai-insights-from-databricks-anyscale-and-microsoft/)
   * [Databricks, Anyscale, Microsoft 에서 얻은 AI 인사이트들 | GeekNews](https://news.hada.io/topic?id=13753)
+* [“생성형AI가 사람 사이로 훅 들어오면 SNS 이상 큰 비즈니스가 생긴다” (장대익 교수) - YouTube](https://www.youtube.com/watch?v=3xlDG0v8NAM)
+  * [VidiGo “생성형AI가 사람 사이로 훅 들어오면 SNS 이상 큰 비즈니스가 생긴다” (장대익 교수)](https://vidigo.ai//chatbot/summary/BT2LffsfjDwzQgr)
+  * [“생성형AI가 사람 사이로 훅 들어오면 SNS 이상 큰 비즈니스가 생긴다” (장대익 교수) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/374760?sId=3xlDG0v8NAM)
+    * 생성형 AI는 유능감을 높여주는 도구, 전문가 수준의 competence 향상이 가능하며 자율성과는 연관
+      * 자율성은 내제적 동기와 관련, 생성형 AI는 이를 도전하지 못함. AI는 말을 듣는 동시에 자율적 결정을 내리지 못하는 한계
+      * 자율성이 훼손되면 결정의 책임을 피하게 되며, 만족감과 자존감 저하
+    * 고객의 입장에서 역지사지 하면서 고통을 집요하게 관찰하고 해결해주는 비즈니스 방식이 중요(이건 당연한 이야기)
+      * 고객의 요구를 고객이 원하는 것으로 가정하여 행동하는 것을 지양해야 함을 강조(역시 당연한 부분, 결국 실제 고객의 목소리를 들어야 한다는 부분)
+      * 기업은 변화와 고정된 부분을 동시에 고려해야하며, AI를 활용하여 변화하는 테크놀로지와 사회에 대응 필요
+      * 많은 기업들이 새로운 시작에만 주목하지만, 고정과 변화를 함께 고려해야 한다는 점을 강조(Jeff Bezos의 말과 유사, 변화하지 않는 것에 주목할 필요)
+      * 먼저 인간이 변하는 것이 고정되어 있는 것보다 먼저 발생하기 때문에, 이러한 변화 주목 필요
+  * 관계성, 유능감, 자율성에 대한 이야기, 유능감은 맡기고 자율성은 맡기면 안 되고, 그러면 관계를 어떻게 하느냐에 따라 business가 갈릴 거란 이야기에 동감
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
