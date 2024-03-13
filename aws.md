@@ -752,6 +752,8 @@ AWS
 * [Amazon CloudFront 기반의 OTT 스트리밍에서의 QoS 가시성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/qos-observability-for-ott-streaming-using-amazon-cloudfront/)
 * [트러블슈팅기 CSR에서 동적 OG 메타태그 적용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15469/)
 * [Amazon CloudFront의 웹 애플리케이션을 위한 새로운 콘텐츠 전송 네트워크(CDN)와 보안 통합 대시보드 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/)
+* [CloudFront와 ALB를 연동해 보기 | DevelopersIO](https://dev.classmethod.jp/articles/i-tried-linking-cloudfront-with-alb/)
+* [CloudFront 총 정리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIazkNsXM59WNVCY_6kwSnxU)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
