@@ -790,6 +790,9 @@ SQL
 * [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 * [How to create a user in MySQL/MariaDB and grant permissions on a specific database](http://www.daniloaz.com/en/how-to-create-a-user-in-mysql-mariadb-and-grant-permissions-on-a-specific-database/)
 * [Zero Downtime Schema Migrations](https://medium.com/invoca-engineering-blog/zero-downtime-schema-migrations-29f81f9ea6db)
+* [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+* [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
+* [이커머스 플랫폼의 주문 DB 마이그레이션 경험기](https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform) Oracle to MySQL
 * [Replica 에 Write 가 된다고? MySQL Writable Replica 로 데이터 분석용 DB 만들기](https://blog.gangnamunni.com/2020/02/05/mysql_writable_replica_on_aws.html)
 * [MySQL (MariaDB) 인덱스 컨디션 푸시다운](https://jojoldu.tistory.com/474)
 * [1. 커버링 인덱스 (기본 지식 / WHERE / GROUP BY)](https://jojoldu.tistory.com/476)
@@ -802,7 +805,6 @@ SQL
 * [MySQL 8.0 업그레이드 전 짚어봐야할 몇 가지! | STAR::DATABASE](https://stardba.net/sun/checkpoint-mysql80-upgrade/)
 * [MySQL 8.0.22: Asynchronous Replication Automatic Connection (IO Thread) Failover - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/26/mysql-8-0-22-asynchronous-replication-automatic-connection-io-thread-failover/)
 * [커넥션(connection)은 어떻게 관리되나](https://blog.naver.com/pjt3591oo/222984240944)
-* [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 * [MySql 8.0 on OEL 7.9](https://support.dbagenesis.com/post/mysql-8-installation-on-oel-7-9)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
@@ -830,8 +832,6 @@ SQL
 * [실행계획을 분석해서 SQL 성능튜닝을 해보자(feat.MySQL) | Recoding Life](https://jane096.github.io/project/refactoring-sql/)
 * [MySQL 쿼리 튜닝의 첫걸음 | 요즘IT](https://yozm.wishket.com/magazine/detail/2260/)
 * [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
-* [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
-* [이커머스 플랫폼의 주문 DB 마이그레이션 경험기](https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform) Oracle to MySQL
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
 * [MySQL 내부 구조](https://brunch.co.kr/@jehovah/21)
 * [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
