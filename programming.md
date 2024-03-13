@@ -1879,6 +1879,7 @@ Programming
 * [Alex Xu on X: "Top Architectural Styles. The method to download the high-resolution image is available at the end. In software development, architecture plays a crucial role in shaping the structure and behavior of software systems. It provides a blueprint for system design, detailing how… https://t.co/gzNnHyrj7L" / X](https://twitter.com/alexxubyte/status/1753816319030669548)
 * ['대용량아키텍처' 태그의 글 목록](https://alsyean.tistory.com/tag/%EB%8C%80%EC%9A%A9%EB%9F%89%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [29CM 의 Architecture Manifesto 는 29CM 의 1) 소프트웨어 아키텍처와 2) 팀 운영 원칙이 담겨 있는 문서이다. | 29CM TEAM](https://medium.com/29cm/29cm-architecture-manifesto-82a2d84c9d17)
+* [포트원이 여러 PG사의 인터페이스를 연동하는 방법 - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-03/tgs/) gRPC, DDD, Typed Error
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -6335,6 +6336,7 @@ Programming
   * [한글화 프로젝트 7. 생산성은 측정할 수 없다](https://jinson.tistory.com/entry/%ED%95%9C%EA%B8%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%80-%EC%B8%A1%EC%A0%95%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4)
   * [생산성은 측정할 수 없다](https://brunch.co.kr/@challenger/45)
 * [AI 생산성 향상 정말인가? (ft. Morg.. : 네이버블로그](https://blog.naver.com/mynameisdj/223371333197)
+* [개발자 생산성 지표를 넘어 AI 효과 측정하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/13/productivity/)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
