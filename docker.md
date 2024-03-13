@@ -1393,6 +1393,7 @@ Docker
 * [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you • The Register](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 * [Two reasons Kubernetes is so complex • Buttondown](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
 * [Despite Google’s 'Autopilot,' Kubernetes is Still Hard - Container Journal](https://containerjournal.com/features/despite-googles-autopilot-kubernetes-is-still-hard/)
+* [**환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!) | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/eco-ami/) autopilot
 * [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 * [DevOps Tutorials | How to List All Containers in a Pod in Kubernetes Cluster and Nodes. - YouTube](https://www.youtube.com/watch?v=XKuV-nXO6XA)
 * [Kubernetes Pod Creation - What happen when we are create a pod?](https://foxutech.com/kubernetes-pod-creation/)
