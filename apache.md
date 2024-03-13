@@ -378,6 +378,7 @@ Apache
 * [Fokko Driesprong - PyIceberg: Tipping your toes into the petabyte data-lake | PyData Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=1A7fFB8QTPY)
 * [Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://www.youtube.com/watch?v=x6WX_JE96bU)
 * [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg) | 김두진, 김용주 - YouTube](https://www.youtube.com/watch?v=xUpi8pXyiyk)
+* [AWS 분석 서비스에서 Apache Iceberg 활용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-iceberg-on-aws-analytics/)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
