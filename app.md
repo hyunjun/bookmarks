@@ -1758,6 +1758,8 @@ App
   * [파이썬 + 슬랙으로 에러 통계 데일리 요약 받아보기](https://chance-doe.tistory.com/19)
   * [Slack Incoming Webhook URL 확인하는 주소 – 형우의 웹개발](https://mytory.net/archives/15587)
   * [GitLab 밋업으로 알아보는 VSM 기반 DevSecOps와 슬랙봇 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-korea-18-meetup/)
+  * [everymoji](https://everymoji.com/)
+    * [사이드 프로젝트는 사이드가 아니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16158/)
   * scrum poker app
     * [Helperbot](https://helperbot.alley.com/)
     * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
