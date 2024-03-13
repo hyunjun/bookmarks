@@ -456,6 +456,7 @@ Clojure
 * [Private constants & breaking private functions in Clojure - YouTube](https://www.youtube.com/watch?v=kzAOEqlbapM)
 * [Clojure for Node Developers: File System](https://blog.tvaisanen.com/clojure-for-node-developers-file-system)
 * [A Clojure Pattern: Fallback for Numeric Values | LinkedIn](https://www.linkedin.com/pulse/clojure-pattern-fallback-numeric-values-evgheni-kondratenko-fhcxf%3FtrackingId=l9FvD%252F%252FkcEd5zADtiazi4g%253D%253D/)
+* [REPL-driving the browser by Josh Glover - YouTube](https://www.youtube.com/watch?v=WIuE1uMuX3g)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -655,6 +656,7 @@ Clojure
   * ["Asami: Turn your JSON into a Graph in 2 Lines" by Paula Gearon - YouTube](https://www.youtube.com/watch?v=-XegX_K6w-o)
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
+* [cljcastr: A Zencastr-style podcasting studio in Clojure](https://github.com/jmglov/cljcastr)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
