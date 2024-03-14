@@ -616,6 +616,7 @@
 * [HBase Integration with Spark | How to Integrate HBase with Spark | Spark Integration with HBase](https://www.youtube.com/watch?v=gGwB0kCcdu0)
 * [How to create Spark Dataframe on HBase table](https://medium.com/@thomaspt748/how-to-create-spark-dataframe-on-hbase-table-e9c8db31bb30)
 * [HDFS 쓰기 파이프라인을 활용한 HBase의 WAL 쓰기 최적화](https://d2.naver.com/helloworld/6445508)
+* [HBase 오픈소스 전환을 위한 HBH(HitBase Handler) 개발기](https://techblog.lycorp.co.jp/ko/develop-hitbasehandler-to-manage-apache-hbase-cluster)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
