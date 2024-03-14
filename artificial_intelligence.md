@@ -403,6 +403,17 @@ Artificial Intelligence
 * [A fun and absurd introduction to Vector Databases by Alexander Chatzizacharias - YouTube](https://www.youtube.com/watch?v=7rt2-GkRH80)
 * [Vector search in old and modern databases](https://manticoresearch.com/blog/vector-search-in-databases/)
 * [What Is Vector Similarity Search and How Is It Measured | by Pavan Belagatti | Feb, 2024 | Level Up Coding](https://levelup.gitconnected.com/what-is-vector-similarity-search-and-how-is-it-measured-2938a804607e)
+* [A fun and absurd introduction to Vector Databases by Alex Chatzizacharias - YouTube](https://www.youtube.com/watch?v=Kw41RfTWyQ4)
+  * [VidiGo A fun and absurd introduction to Vector Databases](https://vidigo.ai//chatbot/summary/R458e56ymxbFkuU)
+  * [알렉스 차치자차리아스의 재미있고 황당한 벡터 데이터베이스 소개 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379458?sId=Kw41RfTWyQ4)
+    * 과거 Word2Vec와 GloVe와 같은 임베딩 모델은 문맥을 이해하지 못하는 문제, Transformer 모델인 BERT와 CLIP은 이를 이해하여 다의어의 다른 의미를 다른 벡터로 표현
+    * Vector database는 시맨틱 검색에 적합, 주로 AI 응용프로그램에서 사용
+      * 거리와 유사성을 나타내는 다양한 거리 지표 사용, 주로 K 최근접 이웃 알고리즘 사용. Euclidean distance이 가장 표준적인 거리 측정 방법
+    * 거리 계산과 인덱싱은 항상 동일한 벡터 공간 내에서
+      * 각 데이터베이스는 벡터 공간 또는 스키마 정의를 위한 방법을 갖고 있으며, 벡터의 차원은 일치해야
+        * Mathematically speaking, 가능하지만 결과가 이상할 수 있으므로 피하는 걸 권장
+      * 벡터 공간을 만들어 클러스터를 형성하여 데이터를 쉽게 찾을 수 있도록 하는 유저 친화적이고 재미있는 방법
+      * 객체의 유사성에 따라 클러스터가 형성되어 검색 시 유사한 객체 또는 벡터를 쉽게 검색 가능
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
