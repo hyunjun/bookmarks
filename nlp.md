@@ -3180,6 +3180,8 @@ NLP
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
+* [icefall](https://github.com/k2-fsa/icefall)
+  * [Icefall — icefall 0.1 documentation](https://k2-fsa.github.io/icefall/index.html)
 * [IMS-Toucan: Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart. Objectives of the development are simplicity, modularity, controllability and multilinguality](https://github.com/digitalphonetics/ims-toucan)
 * [Jasper | Control everything with your voice](https://jasperproject.github.io/)
 * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
