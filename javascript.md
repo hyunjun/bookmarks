@@ -4624,6 +4624,9 @@ Javascript
     * 왜 이 경계를 따로 설정해야 하는지와 모든 컴포넌트가 클라이언트 경계에 포함되지 않도록 관리하는 방법도 소개
 * [새로 등장한 ‘리액트 서버 컴포넌트’ 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2271/)
 * [**2024-02-23 A는 B 1. RSC란?** | saengmotmi's blog](https://saengmotmi.netlify.app/react/what-is-rsc/)
+* [React Server Components - Explained for Backend Developers by Jonas Bandi - YouTube](https://www.youtube.com/watch?v=ZRRygeUhSVU)
+  * [VidiGo React Server Components - Explained for Backend De](https://vidigo.ai//chatbot/summary/mk5pNfRCmKelich)
+  * [React 서버 컴포넌트 - 백엔드 개발자를 위한 설명 작성자: Jonas Bandi | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/380516?sId=ZRRygeUhSVU)
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
