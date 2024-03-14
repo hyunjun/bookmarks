@@ -6066,6 +6066,7 @@ Javascript
 * [새로운 JS 키워드가 뜬다! - YouTube](https://www.youtube.com/watch?v=-NmwyJ5S-IY) using
 * [Typescript @ts-ignore vs. @ts-expect-error 차이, 사용법(타입 에러 무시)](https://curryyou.tistory.com/528)
 * [Typescript 개발속도를 향상시켜주는 여러 방법 - YouTube](https://www.youtube.com/watch?v=SFIufVVI0-A)
+* [A Deep Dive Into Advanced TypeScript: A Live-Coding Expedition by Christian Wörz - YouTube](https://www.youtube.com/watch?v=zpUQZFrRGHY)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
