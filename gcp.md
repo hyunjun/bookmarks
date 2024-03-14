@@ -268,6 +268,9 @@ Google Cloud Platform GCP
   * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
 
+# TDD, Test
+* [tinyquery: A Python in-memory test stub for BigQuery](https://github.com/Khan/tinyquery)
+
 # Terraform
 * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
 * [Google Dev Library | What will you build?](https://devlibrary.withgoogle.com/products/cloud/repos/jybaek-gcp-infra-by-terraform)

@@ -1484,3 +1484,26 @@ SQL
 * [sqlite-tutorial-pycon-2023](https://github.com/simonw/sqlite-tutorial-pycon-2023)
   * [Data analysis with SQLite and Python for PyCon 2023](https://simonwillison.net/2023/Apr/20/pycon-2023/)
   * [Data analysis with SQLite and Python, PyCon 2023 — Data analysis with SQLite and Python, PyCon 2023 557f94c documentation](https://sqlite-tutorial-pycon-2023.readthedocs.io/)
+
+# TDD, Test
+* [sql-test-kit · GitLab](https://gitlab.com/ekinox-io/ekinox-libraries/sql-test-kit)
+  * [SQL Test Kit, or how to unit test any SQL query by Victor Landeau - YouTube](https://www.youtube.com/watch?v=chB5f80U9jA)
+    * [VidiGo SQL Test Kit, or how to unit test any SQL query by](https://vidigo.ai//chatbot/summary/Rk5j9GHqmMwP86E)
+      * sql 쿼리 테스트를 위해 테이블의 구조와 스키마 정보 제공 필요
+        * 이후 실제 쿼리 실행 없이도 sql 쿼리의 정확성을 검증 가능
+      * 클라우드 서비스 제공업체의 변경 사항으로부터 독립적, 다양한 sql 방언에서 데이터 내부화 원칙을 사용하여 모든 select 쿼리를 테스트 가능
+      * 단점으로 인터넷 접속 필요성과 테스트 속도 저하
+    * [SQL 테스트 키트 또는 Victor Landeau의 모든 SQL 쿼리를 단위 테스트하는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379887?sId=chB5f80U9jA)
+      * 개발 중 발생할 수 있는 오류를 피하기 위해 개발 환경에서 단위 테스트 작성이 중요
+        * 데이터 과학자로서 BigQuery에서 SQL 코드를 테스트하려는 노력
+          * H2와 Testcontainers같은 도구 존재하나, BigQuery와 Amazon Redshift, Snowflake와 어울리지 않는다는 문제 직면
+      * GCP에는 BigQuery의 SQL 방언을 해석할 수 있는 도구가 없어 개인이 작성한 Tinyquery 필요
+        * BigQuery이 아닌 GCP에서 수행해야 하는 작업들이 Tinyquery에 의존
+      * TinyQuery를 사용하면 모든 SQL 쿼리를 테스트는 불가능, 현재 BigQuery에서만 테스트 가능
+        * 컴퓨터에서 실행할 수 있는 테스트를 작성하여 코드를 빠르게 확인하고, BigQuery에서 쿼리를 확인할 수 있는 방법인 'SQL Test Kit' 도입
+        * SQL Test Kit을 사용하기 위해서는 테이블에 대한 정보를 프로그램에 알려야 하며, 이 정보를 활용하여 적합한 테스트 작성 가능
+      * SQL Test Kit의 Qu interpolator를 사용하여 쿼리 내 데이터 보간 및 테스트 수행
+        * 임시 테이블 구축 없이 테이블을 사용하는 쿼리를 실행하여 결과를 얻고, 이를 원래 예상 결과와 비교하여 버그 여부 확인
+        * 최종적으로 데이터 보간을 통해 빠르게 쿼리 실행, Python 라이브러리를 활용하여 어떤 SELECT 쿼리든 테스트 가능, 클라우드 제공 업체의 변화에 독립적
+      * 인터넷 액세스가 필요하며 단위 테스트 속도 저하
+        * SQL로 인한 디버깅이 어렵지만, 단위 테스트를 통해 문제를 해결할 때 도움
