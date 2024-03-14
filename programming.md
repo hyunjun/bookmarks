@@ -619,6 +619,7 @@ Programming
 * [AI에서 단일, 이중, 다중, 혼합 정밀도 컴퓨팅의 차이는 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=14687)
 * [프로덕트, 프로그램, 프로젝트 매니저? 뭐가 다른가요?](https://brunch.co.kr/@ywkim36/10)
 * [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
+* [프론트엔드 개발자들의 즐거운 상상 🎈 – 쓰면글림체 사이드 프로젝트 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16547/)
 * [산드로 만쿠소, “소프트웨어 장인정신이란…”](http://www.bloter.net/archives/251535) 소프트웨어 장인
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-1편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-2편/)
