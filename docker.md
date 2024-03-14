@@ -2600,6 +2600,9 @@ Docker
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [Sokovan Container Orchestrator for Accelerated AI:ML Workloads and Massive scale GPU Computing - YouTube](https://www.youtube.com/watch?v=4t9zJIlB0n4)
+* [Ubicloud - Open and portable cloud](https://www.ubicloud.com/)
+  * [ubicloud: Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta](https://github.com/ubicloud/ubicloud)
+  * [Ubicloud - 오픈소스, 무료, 포터블 클라우드 | GeekNews](https://news.hada.io/topic?id=13784)
 * [url-shortener: URL shortener service on hostOS / docker-compose / k8s](https://github.com/Curt-Park/url-shortener)
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
   * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
