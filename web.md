@@ -421,6 +421,7 @@ Web
 * [SSO 1편: 오픈소스 SSO를 왜 도입하였나요. :: GS Retail Engineering](https://gsretail.tistory.com/13)
 * [SSO 2편: Aerobase (Keycloak) 클러스터링 & 커스텀 테마 :: GS Retail Engineering](https://gsretail.tistory.com/17)
 * [어드민 인증 서비스 구현 경험기. 안녕하세요. 서비스 플랫폼 팀 소속 백엔드 개발자 유가희입니다. 서비스… | by Kahee Yu | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%96%B4%EB%93%9C%EB%AF%BC-%EC%9D%B8%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84-%EA%B2%BD%ED%97%98%EA%B8%B0-8f933b38fc16) keycloak
+* [Password-less apps: implementing WebAuthN by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=FUWLYC1z1LU)
 * [Keycloak](https://www.keycloak.org/)
   * [신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/2425/)
   * [키클락 구성을 위한 기나긴 사전 작업 한번에 보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2427/)
@@ -1850,6 +1851,59 @@ Web
   * [Distributed Testing using JMeter & Docker | by Team 99x | Engineering at 99x](https://engineering.99x.io/distributed-testing-using-jmeter-docker-70c054a94fce)
   * [Performance and Load Testing with JMeter for beginners | by Suhana Pradhan | Medium](https://suhanap33.medium.com/performance-and-load-testing-with-jmeter-for-beginners-cbffb5d71674)
   * [JMeter API Testing | Spring Boot Rest API Performance & Load Testing using JMeter | JavaTechie - YouTube](https://www.youtube.com/watch?v=eqZORQpOuZA)
+  * [Practical Performance Analysis by Simone Bordet - YouTube](https://www.youtube.com/watch?v=tn1Q7-dAHd8) Jetty, JMeter만이 아니라 전반적인 load test/performance JVM tuning등의 이야기
+    * [VidiGo Practical Performance Analysis by Simone Bordet](https://vidigo.ai//chatbot/summary/wB4WWpWQl9fz6fW)
+    * [Simone Bordet의 실제 성능 분석 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379055?sId=tn1Q7-dAHd8)
+      * Jetty는 29년 된 오픈소스 프로젝트
+        * 초기엔 issue tracking tool이었으나 나중에 웹 서버로 발전하여 현재는 Java 분야에서 가장 많이 사용하는 서비스 중 하나
+        * 최근 출시된 Jetty 버전 12는 기존 서버 엔진을 재작성한 새로운 업그레이드
+        * 'Jetty 12'에서는 Java X 서블릿 또는 REST를 포함한 이전 기술과 함께 Jakarta EE 및 최신 E10 애플리케이션도 실행 가능
+      * 웹 어플리케이션의 성능을 측정할 때, 올바른 질문 필요
+        * 성능을 재는 이유와 최종 목표를 정확히 이해해야 하며, 성능 '그 자체'만 고려하는 것이 아니라 필요한 기능 및 대응 전략 고려 필요
+        * 로드 테스트를 통해 웹 어플리케이션의 성능을 평가하고, 클라이언트의 한계를 고려해야 실제 서버 성능을 파악 가능
+        * 서버가 클라이언트의 요청을 대기하거나 대기하는 경우가 훨씬 많으며, 실제로 클라이언트가 제한요소가 될 가능성 존재
+      * 로드 테스팅에서 Steady State와 Limit Load 테스팅 중요
+        * Steady State는 정상 부하 테스팅을 의미하며, 시스템이 정상적으로 작동할 때의 부하를 테스트
+        * 한편, Limit Load 테스팅은 자원 한계치를 확인하기 위해 CPU나 네트워크, 힙 메모리, 애플리케이션 리소스 등을 포화시키는 것이 목적
+        * 예를 들어, CPU를 100%로 올리거나 네트워크를 다운로드하거나 업로드하면서 리소스 한계를 테스트 가능
+        * 이를 통해 데이터베이스의 부하 감당 여부 등을 확인 가능
+      * 서로 다른 메트릭과 데이터를 제공하여, '스테디 상태'는 용량 계획과 생산에 필요한 기기 수를 결정하는 데 매우 유용
+        * 반면, 한도 부하 테스트는 자원 포화 시의 행동을 알려주며, 한계 부하 테스트를 통해 시스템이 정상 속도로 복구할 수 있는지 확인 가능
+        * 한계 부하 테스트는 부하를 추가하고 제거한 후 시스템이 회복할 수 있는지 파악하는 등, 시스템의 동작에 관한 중요 정보를 제공
+      * 시스템 세팅 첫 단계는 서버와 로더, 그리고 프로브(Probe) 등 하드웨어 구성 정의
+        * 클라이언트는 여러 포트를 사용하여 접속 필요, 이를 위해 에펨럴 포트 범위를 설정 필요
+        * CPU 주파수 조정과 JVM 튜닝 역시 중요하며, 저지연을 위해 Generational ZGC를 권장
+        * 로드 테스트 시 사용한 JVM과 배포용 JVM은 동일해야하며, 가비지 컬렉터 선택도 중요, Generational ZGC 권장. 그러나 다양한 테스트 필요
+      * Bagnone safe points는 프로필링 시 매우 유용한 특별한 스위치로, 프로필링 시 매우 중요하며 추가 비용이 소요
+        * 로드 테스트 시나리오 생성이 중요, 푸는 것은 기존 자바 가상 머신을 튜닝하고 운영 체제를 조정한 후에 형성
+        * 로드 테스트를 위해 다양한 도구 사용 가능, Scala로 작성된 Gatling, Red Hat의 hyperfoil, Java로 작성된 JMeter, C로 작성된 Wrk2 등
+        * 로드 테스트에는 Gatling이 매우 인기가 많지만, hyperfoil을 추천하는 것도 있으며, 회사에 따라 가장 적합한 도구를 선택 필요
+        * 어플리케이션 내부의 일련의 흐름을 테스트하거나 간단한 테스트를 수행하고 싶다면 로드 테스트 도구를 조사해 적합한 도구를 선택 필요
+      * JRY는 고객과 이슈를 접하는 사람들에게 '서버는 더 많은 작업을 수행할 수 있으며 클라이언트의 제한이 있음'이라는 가장 일반적인 답변을 제공
+        * JRY 서버는 4개의 로더 사용, 각 로더는 초당 60,000개 요청 처리
+          * 이로써 서버는 초당 240,000개의 요청 처리
+          * 이런 환경에서도 JRY 서버는 CPU의 약 10%만 사용
+        * 시스템을 설정한 후 기준선을 설정하는 것이 중요, 시스템이 예상대로 작동하는지 확인 중요
+          * 이후 로드 테스트를 실행, 클라이언트와 서버 양쪽에서 모두 기록하는 것이 필요
+        * 브랜든 그레그의 도입된 USE 방법론을 사용 제안, 이를 이용하여 기록된 자원 사용, 포화도, 오류 등 확인
+          * 이 방법론은 자원 사용, 포화도, 그리고 오류를 나타내며, 이를 역순으로 사용하는 것이 가장 효과적
+      * USE 방법 사용 시, 에러를 먼저 찾아야 한다
+        * 200s 응답을 받는지 확인하는 것이 중요, 예를 들어 URI를 잘못 입력하여 404 에러를 빠르게 받아내는 경우도 존재
+        * 에러 확인 외에도 자원 포화 체크 필요, 모니터링 지표의 평균화된 결과에 주의, 자원의 사용율(Utilization)과 포화(Saturation)의 차이 이해 필요
+        * 예를 들어, CPU 사용율이 70%인 경우, 해당 시간 동안 CPU가 70% 정도 바쁘게 일했다는 것을 의미
+      * 로드 테스트 후에는 성능을 개선하기 위해 프로파일링 작업 필요, 비동기 방식의 프로파일러를 활용
+        * 비동기 방식의 프로파일러를 활용하지 않으면 결과가 부정확, Async Profiler와 같은 특수 호출 고려 필요
+        * 프로파일링을 통해 성능 문제를 해결하고, 불평한 점을 개선하여 반복하는 것이 성능 개선의 일반적인 사이클
+        * 프로파일링을 통해 서버에 연결하고 로드 테스트를 실행하여 정보를 수집, 결과는 플레임 그래프로 표시. 이를 통해 문제를 식별하고 해결 가능
+      * JTI 프로젝트의 부하 테스트 진행 중에 120,000 요청/초의 쓰레드 문제가 발생
+        * 클라이언트의 요청량이 변동적이고 예상과 달랐으나 CPU 사용률은 정상적임을 확인
+        * 해결책은 2개의 쓰레드를 사용하는 것으로, CPU 활용과 성능을 향상
+        * 한 주에 걸쳐 쓰레드 구성 모드의 차이를 테스트하여 성능 측정 및 문제 해결에 집중
+      * API 디자인에서 성능을 우선시하여, 설계가 더 직관적이고 빠른 버전을 선택
+      * 로드 테스팅은 어렵지만, 도구를 활용하여 Baseline 설정, 로드 실행, 프로파일링을 수행이 핵심
+        * 결과를 분석할 때, 자원 포화된 부분을 찾아 분석 방법을 이용해 빠르거나 더 나은 성능을 위해 적용 필요
+        * 분석 중에는 문제 해결을 위한 인내와 자신의 실수를 스스로 인정하며 적절히 대응 필요
+        * 설치 단계에서 권장 구성 중 하나를 빼먹어 성능 저하를 겪는 등 실수를 방지하고 최적화를 위한 노력 필요
 * [k6: A modern load testing tool, using Go and JavaScript - https://k6.io ](https://github.com/loadimpact/k6)
   * [Load testing for engineering teams | Grafana k6](https://k6.io/)
     * [Test builder](https://k6.io/docs/test-authoring/test-builder/)
