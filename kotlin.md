@@ -16,6 +16,7 @@
   * [젯브레인, 코틀린 교육용 플러그인 공개](http://www.bloter.net/archives/252402)
 * [Kotlin Post-1.0 Roadmap](http://blog.jetbrains.com/kotlin/2016/04/kotlin-post-1-0-roadmap/)
 * [Kotlin: The Good, The Bad, and The Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
+* [The dark side of kotlin by Jarek Ratajski - YouTube](https://www.youtube.com/watch?v=25R3WMNSqho)
 * [Feel of Kotlin (Berlin JUG 16 Apr 2015)](http://www.slideshare.net/intelliyole/feel-of-kotlin-berlin-jug-16-apr-2015)
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/)
 * [Kotlin과 Java 전격 비교](http://news.realm.io/kr/news/kotlin-does-java-droidcon-boston-2017-gonda/)
