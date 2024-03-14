@@ -125,6 +125,7 @@ Java
 * [The Modern Java Platform - 2021 Edition - James Ward](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
   * [The Modern Java Platform - 2021년판 | GeekNews](https://news.hada.io/topic?id=3907)
 * ["(Modern) Java for Clojure Programmers" by James Henderson - YouTube](https://www.youtube.com/watch?v=NccnidiRknA)
+* [Modern Java in Action by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=Pmlpk4Ti9f8)
 * [21 Tech Skills Java Developers Can Learn in 2021](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [SARO](https://saro.me/)
 * [Ahead of Time Compilation (AoT) | Baeldung](https://www.baeldung.com/ahead-of-time-compilation)
@@ -137,6 +138,7 @@ Java
 * [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
+* [The Hidden Dynamic Life of Java by Nataliia Dziubenko - YouTube](https://www.youtube.com/watch?v=tkZNBFLti1w) 내부 동작, compile, bytecode 등
 * [bcrypt는 salt가 매번 달라지는데 어떻게 match 판단을 그리 잘 할까요?](https://codingdog.tistory.com/entry/bcrypt%EB%8A%94-salt%EA%B0%80-%EB%A7%A4%EB%B2%88-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%EB%8D%B0-match%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%98-%EC%8B%9C%ED%82%AC%EA%B9%8C%EC%9A%94)
 * [How to do password hashing in Java applications the right way](https://foojay.io/today/how-to-do-password-hashing-in-java-applications-the-right-way/)
 * [Java:Applying colors of your choice to images | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/java-applying-colors-of-your-choice-to-images-884dd6d7f12d)
@@ -758,6 +760,7 @@ Java
 * [IntelliJ & Maven 외부 라이브러리 참조 문제 (Cannot find declaration to go to)](https://velog.io/@joosing/intellij-maven-cannot-find-declaration-to-go-to)
 * [IntelliJ cannot resolve symbol 에러 해결 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-cannot-resolve-symbol/)
 * [IntelliJ 각종 팁 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-tip2/)
+* [IntelliJ IDEA Tips & Tricks by Anton Arhipov - YouTube](https://www.youtube.com/watch?v=53ccfLqYpWY)
 * [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
@@ -1024,6 +1027,7 @@ Java
 * [The Panama Dojo: Black Belt Programming with Java 21 and the FFM API By Per Minborg - YouTube](https://www.youtube.com/watch?v=t8c1Q2wJOoM)
 * [The Art of Pattern Matching in Java 21 by Alberto Cortina Eduarte - YouTube](https://www.youtube.com/watch?v=SUqK9IsKsFs)
 * [Java 21 and Beyond: A Roadmap of Innovations by Ana-Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=mWs6CXYbI6c)
+* [From Java 17 to 21: A Showcase of JDK Security Enhancements by Ana Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=tQxPRm6-PA8)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -1306,6 +1310,14 @@ Java
 * [5 Mundane Java Performance Tips | Richard Startin’s Blog](https://richardstartin.github.io/posts/5-java-mundane-performance-tricks)
 * [Profiling Java Applications with Async Profiler | HackerNoon](https://hackernoon.com/profiling-java-applications-with-async-profiler-049s2790)
 * [Is Your Java Application Slow? Check out These Open-Source Profilers - YouTube](https://www.youtube.com/watch?v=5RJk-Od8ptE)
+* [Faster or better designed? Choose any two! by Dmytro Vyazelenko - YouTube](https://www.youtube.com/watch?v=pdFqKiwgZZY)
+  * [VidiGo Faster or better designed? Choose any two! by Dmyt](https://vidigo.ai//chatbot/summary/8T41er9OmoJ1wTw)
+  * [더 빠를까요, 더 나은 디자인일까요? 두 가지 중 하나를 선택하세요! by Dmytro Vyazelenko | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379148?sId=pdFqKiwgZZY)
+    * 'No Garbage', 자바 성능 최적화, JM 성능 개선 전략 소개
+    * 데이터 처리 최적화: Flyway 패턴과 자료구조 최적화
+    * 동시 실행 코드 대신 **단일 스레드** 구조 추천
+    * 사용자에게 *프래그먼트 어셈블러*를 추천하지만 성능 개선에 필요한 기법 제시.
+    * 자원 충돌 문제 해결을 위한 단일 쓰레드 이벤트 처리 방법
 * [Eclipse Mission Control | Adoptium](https://adoptium.net/jmc/)
 * jconsole
 * jprobe
@@ -1620,6 +1632,7 @@ Java
   * [Contract testing with Pact and Quarkus by Holly Cummins - YouTube](https://www.youtube.com/watch?v=4xoJmz6bWB4)
   * [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7bvQXb3Nv0E)
   * [Quarkus Unveiled: Efficiency & Green Impact • Holly Cummins & Charles Humble - YouTube](https://www.youtube.com/watch?v=fgo4hpUqmIk)
+  * [Faster, greener, and happier- why Quarkus should be your next tech stack by Holly Cummins - YouTube](https://www.youtube.com/watch?v=jMWXzKZCKqA)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
@@ -1998,6 +2011,7 @@ Java
 * [Difference between Spring Framework, Spring Boot, and Spring Cloud? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/difference-between-spring-framework-spring-boot-and-spring-cloud-cf3692312d77)
 * [쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만났네 - 넷마블 기술 블로그](https://netmarble.engineering/spring-boot-3-0-native-image-on-kubernetes/)
 * [실행 시간 효율을 위한 클래스 데이터 공유(CDS)와 Layered Jar - 넷마블 기술 블로그](https://netmarble.engineering/class-data-sharing-cds-and-layered-jar/)
+* [Hitting the “refresh” button on your Spring web application by Stéphane Nicoll - YouTube](https://www.youtube.com/watch?v=8vtoa8VC-gY)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
