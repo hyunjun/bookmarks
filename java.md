@@ -205,6 +205,25 @@ Java
 * [java number 클래스에 대해 간단하게 알아봅시다.](https://codingdog.tistory.com/672)
 * [Top 10 Easy Performance Optimizations in Java | by Jassica Den | Medium](https://synergisticm.medium.com/top-10-easy-performance-optimizations-in-java-6370025f847e)
 * [10 Java Idioms Every Developer Should Know | by javinpaul | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
+* [Principles of Fluent API Design by David Beaumont - YouTube](https://www.youtube.com/watch?v=VPu-ytfYTeU)
+  * [VidiGo Principles of Fluent API Design by David Beaumont](https://vidigo.ai//chatbot/summary/jB521CWlmFZMBMX)
+  * [유창한 API 설계의 원칙(David Beaumont 저) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379782?sId=VPu-ytfYTeU)
+    * Fluent API
+      * method chaining을 넘어서는 개념
+      * 도메인 특정 작업을 이해 가능하고 유지보수 가능하게 함
+      * 플루언트 API 이외에도 캐스케이딩을 고려할 때 만들 수 있는 다른 디자인 선택 사항 존재
+      * 유형 일관성, 동질적 API는 같은 유형 반환, 이질적 API는 다양한 유형 반환, 둘 다 좋은 방향
+      * 동질적 API는 선택적 매개변수에 좋고, 순서를 바꿀 수 있는 메소드 호출에 적합. 이질적 API는 사용자를 다양한 단계로 안내, 재사용 가능하게 함
+    * API는 재사용을 위해 분리되고 활용되어야 함
+      * 플루언트 API는 한 문장으로 표현되어야 하며, 일회성 API를 만드는 것이 더욱 좋음
+        * 불변성이 중요한데, 방식에 따라 새로운 객체를 만들거나 동일한 객체를 변형해야 할 수 있음
+      * 각각의 체계적인 불변 API는 여러 측면에서 자연스럽게 스레드 안전성을 제공할 수 있지만, 반복적인 단기 할당을 유발할 수도 있음
+      * 문제가 될 수 있는 반복적인 할당을 최소화하기 위해 부분 결과를 정적 변수로 이동시키는 기술 중 하나가 있음
+    * 플루언트 API를 통해 사용자가 한 줄로 쉽게 데이터를 원하는 형태로 받을 수 있도록 설계한다면 사용자들의 편의를 위해 다양한 접근 방법을 고려 필요
+      * 플루언트 API가 사용자의 모든 요구를 충족하지 못한다면, 사용자들은 좀 지루한 프레임워크에 갇혀 있는 기분을 경험하며, 답답함을 느낄 수 있음
+      * 따라서 사용자들이 유연하게 대안 API를 고려할 수 있도록 선택권을 주는 것이 좋음
+      * 플루언트 API를 설계할 때 메소드 명명과 매개변수 범위에 심사숙고 필요, 메소드 순서 역시 중요, 필수 매개변수는 꼭 필수 메소드 안에 포함시켜야 함
+      * 문제 도메인이 사용하는 대로 설계 필요, 비 플루언트하고 비 도메인 특정 문제에 대해 플루언트 API를 만들기보다 그에 맞는 도구를 사용하는 게 더 좋음
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
