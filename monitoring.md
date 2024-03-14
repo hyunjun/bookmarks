@@ -346,6 +346,8 @@ Monitoring
     * Microsoft가 Windows나 Office의 저장소를 Git으로 마이그레이션 했을 때 300GB가 넘었고 역대 가장 큰 규모였기에 성능 개선이 필요했고 Git의 성능을 알 수 있도록 Trace2 기능을 Git에 포함했다. 이 Trace2만으로는 분석하기가 어렵기에 이를 OpenTelemetry로 수집할 수 있도록 오픈소스 수집기인 trace2receiver를 만들었다. 이를 통해 Git 명령어를 사용할 때 시간이 오래 걸리는 부분은 분석 추적해서 파악할 수 있게 되었다
   * [OpenTelemetry Tools You Should Never Leave the House Without - YouTube](https://www.youtube.com/watch?v=CZI9QxjGOBc)
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=EJc3ppBJZrw)
+  * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussle - YouTube](https://www.youtube.com/watch?v=piM7PEswmso)
+  * [Observability 101 with Spring and Micrometer by Nele Uhlemann - YouTube](https://www.youtube.com/watch?v=Ssje93u2GWM)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
