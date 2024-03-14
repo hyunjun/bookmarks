@@ -460,6 +460,17 @@ Git
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
+* [release-drafter: Drafts your next release notes as pull requests are merged into master](https://github.com/release-drafter/release-drafter)
+  * [Github Release Drafter - 깃허브 프로젝트 릴리즈 자동화 - DSlog](https://pds0309.github.io/study%20note/2021/08/11/releasedrafter.html)
+  * [Automate your Changelogs with Release Drafter by Oleg Nenashev - YouTube](https://www.youtube.com/watch?v=-PIkiXAg8ws)
+    * [VidiGo Automate your Changelogs with Release Drafter by O](https://vidigo.ai//chatbot/summary/gI5CS3EYmDNDACc)
+      * release drafter를 통해 github 릴리즈와 changelog.md 파일을 중심으로 변경 로그를 일관되게 관리 가능
+    * [릴리즈 드래프터로 변경 로그 자동화하기(작성자: Oleg Nenashev) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/379409?sId=-PIkiXAg8ws)
+      * Release Drafter는 GitHub 액션
+        * Enterprise나 github.com을 사용하는 모든 곳의 GitHub 워크플로에 구성 가능, 간단한 설정으로 릴리즈 노트 수정 가능
+        * Release Drafter 설정을 위해 대상을 정의하고, 릴리즈 노트를 수정할 수 있도록 Release Drafter에 일부 권한 부여 필요
+          * GitHub 토큰을 사용하여 리포지토리에 연결
+        * 이렇게 하면 changelog의 유지 및 업데이트 자동화
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
   * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
