@@ -3448,6 +3448,30 @@ Programming
   * [business-impact-of-code-quality-tornhill2022](https://codescene.com/hubfs/web_docs/Business-impact-of-low-code-quality.pdf)
   * [Software Engineering Intelligence - CodeScene](https://codescene.com/)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=F8WuA5T1u7s)
+  * [The Code Quality Advantage: How Empirical Data Shatters the Speed vs Quality Myth by Adam Tornhill - YouTube](https://www.youtube.com/watch?v=ty9d7wEVTwc)
+    * Writing/Editing code is 5% of work
+    * [VidiGo The Code Quality Advantage: How Empirical Data Sha](https://vidigo.ai//chatbot/summary/K24uxj2Fl5st4bt)
+      * 좋은 코드 품질이 비즈니스에 중요함을 입증
+    * [코드 품질 우위: 경험적 데이터가 속도와 품질에 대한 신화를 깨는 방법 작성자: Adam Tornhill | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/378914?sId=ty9d7wEVTwc)
+      * 기술부채와 나쁜 코드의 결과로 일주일의 23~42% 시간 소모, 이는 팀원 100명을 고용해도 실질적으로는 58명분의 결과만 얻는다는 것을 의미
+      * hyperbolic discounting, 미래 후회하는 선택을 하는 인간의 심리적 결함
+        * 중독의 메커니즘을 설명하거나 기술 부채를 관리하지 못하는 이유 설명
+        * 코드 품질 측정의 어려움 강조, '코드 헬스' 개념 소개, 낮은 응집도 등을 고려한 측정 방법 제안
+        * 코드의 낮은 응집도와 복잡한 논리 구조에 대한 예시를 들어 프로그래밍 실수의 원인 중 20%와도 연결되는 문제점 설명, 해결 방안 제시
+      * 시각화를 통해 강한 및 약한 부분 파악, 코드의 크기와 색깔을 통해 문제 규모 파악. 시각화는 인간 뇌에 가장 강력한 패턴 탐지기로 작용
+      * 코드 품질이 중요한 이유, 코드 품질이 비즈니스에 미치는 영향을 측정하기 위해 'Code Red' 보고서를 통해 연구 수행
+      * 14가지 다른 프로그래밍 언어로 작성된 코드를 포함하여 통계적으로 유의미한 결과 도출을 위해 노력
+        * 코드 퀄리티는 시장 진입 속도 측면에서 매우 중요, 업계에서 경쟁력 유지에 결정적인 역할을 한다는 결론 도출
+      * Red 코드는 Green 코드보다 10배가량 작업 시간이 증가 가능
+        * CTO로 일하며 불확실성을 싫어하며, 고객 경험과 프로덕트 성숙도에 영향을 줄 수 있다는 인식
+        * Defect 밀도 측면에서 Red 코드는 평균 15배 정도의 결함률 증가를 보여 업무에 부정적 영향
+        * Red 코드는 생산성을 저해하고, 스트레스를 유발하며 기한을 놓칠 수 있어 개발자들에게 큰 부담
+        * Rethinking productivity in software engineering, 번역서 "소프트웨어 엔지니어링 생산성 돌아보기"
+      * 행동 코드 분석을 통해 코드 품질 이해 및 개발자와의 상호작용 중요
+        * git 저장소에서 자주 쓰이는 행동 데이터로 변화 빈도 계산 및 기술부채 관리 가능
+        * 코드 수정 빈도를 시각화하여 각 코드별 변화 빈도 파악해 기술부채 해결 방향 도출
+        * 변화 빈도가 높은 부분이 기술부채가 놓여있는 곳으로 집중 관리 필요
+      * [Code Quality: How Empirical Data Shatters The Speed Vs. Quality Myth](https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-code-quality-advantage-how-empirical-data-shatters-the-speed-vs-quality-myth/)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
