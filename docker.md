@@ -1774,6 +1774,54 @@ Docker
 * [Kubernetes Services : Achieving optimal performance is elusive | by CloudyBytes | Jan, 2024 | Medium](https://cloudybytes.medium.com/kubernetes-services-achieving-optimal-performance-is-elusive-5def5183c281)
 * [Understanding service account and token in Kubernetes | Medium](https://medium.com/@th3b3ginn3r/understanding-service-accounts-in-kubernetes-e9d2abe19df8)
 * [Understanding the Basics of Internal Networking in Kubernetes(En) | by Albert Weng | Feb, 2024 | Medium](https://weng-albert.medium.com/understanding-the-basics-of-internal-networking-in-kubernetes-dfc27beef60d)
+* [Avoid mastering Kubernetes for local dev. with Dapr and Testcontainers by M. Salatino and O. Šelajev - YouTube](https://www.youtube.com/watch?v=VYCelta9WdQ)
+  * [VidiGo Avoid mastering Kubernetes for local dev. with Dap](https://vidigo.ai//chatbot/summary/3T4F7mRGlfkxOK0)
+    * Kubernetes, dapper, knative
+    * Kubernetes 컨테이너 실행에 어려움을 겪는 상황에서 dapr과 test containers를 활용한 개발 방식 제안
+    * Dapr 모듈을 통해 개발자의 일상적인 작업에 필요한 api를 로컬에서 쉽게 사용할 수 있도록 지원
+    * 애플리케이션을 kubernetes에 배포하지 않고도 dapr api를 사용할 수 있게 해주는 test containers의 역할 강조
+  * [로컬 개발을 위한 쿠버네티스 마스터하기. M. Salatino와 O. Šelajev의 Dapr 및 테스트컨테이너를 이용한 개발 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/378986?sId=VYCelta9WdQ)
+    * Dapr는 초기에는 간단한 API 세트, 이제는 이를 기반으로 복잡한 기능 구축
+      * 예를 들어, Dapr은 메시지 조정, 상태 저장, 분산 로그와 같은 오케스트레이션 제공, 이를 위해 개발자가 이 분산 로그의 구현 방법에 대해 고민 불필요
+      * Dapr을 Kubernetes 클러스터에 설치
+        * 애플리케이션을 추상화하고 환경과 분리된 설정을 제공하게 되어 운영 팀 및 생산 환경에 많은 혜택
+        * 개발자는 이에 대한 학습과 적응 필요
+      * Dapr은 애플리케이션과 상호작용해야 하는 요구사항을 자동으로 인식, 사이드카를 주입하여 애플리케이션을 환경으로부터 완전히 추상화
+      * 이러한 구성은 클라우드 네이티브 환경에서 애플리케이션의 책임을 줄이고, 다양한 환경에 대한 설정 및 애플리케이션 논리 분리 가능
+    * Dapr는 데이터베이스 연결을 어플리케이션 외부인 Dapr에서 구성 가능, 어플리케이션은 비즈니스 로직 주력
+      * 주로 Kubernetes에서 Dapr 사용, Kubernetes 확장이라는 이유로 그럴 수밖에 없었던 것
+      * Kubernetes 외부에서도 실행 가능, 이를 통해 개발자가 고려할 필요가 없는 다양한 기능 및 신뢰성, 보안, 가시성을 '박스 밖에서' 획득 가능
+      * 어플리케이션 개발자는 '노란색 박스'에 집중해야 하며, 이것이 코드가 위치하는 곳. 카프카 드라이버가 아닌 어플리케이션 코드에 집중 필요
+      * 컨테이너, Kubernetes, 인프라에 대한 이해가 필요하지만, 어플리케이션 개발자가 집중해야 하는 것은 실제 변화를 가져오는 '노란색 박스'
+        * 이를 통해 생산성과 만족도 향상
+      * 어떻게 하면 어플리케이션 개발을 단순화할 수 있을지 고민
+        * Dapr을 활용하여 미리 정의된 운영 관련 프로젝트를 사용하며, 데이터를 저장하고 메시지를 전송하는 등의 작업을 간소화하는 방향 추구
+    * 쿠버네티스와 Helm과 같은 unfamiliar한 도구 학습 필요
+      * 로컬 환경에서 제대로 애플리케이션을 실행할 수 없다면 아무리 well-written code라도 도움이 안 됨
+      * API 활용을 통해 개발자가 로컬에서 프로덕션과 유사한 개발 환경을 reproduce할 수 있는 중요성 강조, Dapr을 활용한 경험을 공유
+      * Cloud events와 같은 표준 API를 통해 이벤트 교환, 회사 및 팀 내에서 공통된 API를 표준화하는 것의 중요성 강조
+    * Dapr API 코드 수준에서는 Dapper 클라이언트를 사용해 PostgreSQL에 상태 저장하는 간단한 API 제공
+      * 클라우드에서 보다 복잡한 Cloud-native 설정을 유지하면서도, 개발자는 로컬 인프라에서 작은 애플리케이션과 똑같은 방식으로 작업 선호
+      * Kubernetes 클러스터에서 작동하기 때문에 로컬 환경에서 실행하려면 해당 클러스터 필요
+      * Dapr을 통해 저장하고 싶은 데이터를 PostgreSQL이나 R과 같은 서비스에 저장 가능
+      * 개발자들은 간단한 API로 원하는 서비스에 데이터 저장 가능
+    * Testcontainers를 사용해 도커 컨테이너 설정 문제 해결
+      * 오픈소스 라이브러리인 Testcontainers는 컨테이너를 다루는 API 제공
+      * 도커 이미지 이름과 포트 노출 설정을 통해 컨테이너 라이프사이클을 핸들링하고 커넥션 디테일 획득
+      * 프로그래밍으로 컨테이너 작업 가능, 테스트컨테이너 모듈을 통해 기술 생태계 세팅 가능
+    * Kubernetes 클러스터와 production 환경을 개발 환경으로 가져오는 문제
+      * K3s 컨테이너를 활용하여 Kubernetes 클러스터를 설정하고 여러 컨테이너를 한 네트워크에 놓아 도구 간 통신 가능
+      * Dapr과 Testcontainers를 결합해 로컬 개발 환경에서 API를 사용 가능, 테스트 용이
+      * 애플리케이션을 Kubernetes에 배포하지 않고 Dapr API 및 Testcontainers로 로컬에서 개발 및 테스트 가능, Spring Boot 애플리케이션을 이용한 테스트도 가능
+    * Dapr 프로파일을 선택하여 다양한 컨테이너를 시작할 수 있는 간단한 주석 방식 사용
+      * 테스트 스코프용 종속성 추가 및 주석 설정으로, 개발자들은 Dapr API만 학습 필요
+      * 프로필 설정을 공유하며 더 나은 통합을 만드는 것을 목표
+      * 로컬 테스트 설정을 통해 도커 환경 내에서 테스트 컨테이너 구성하고 테스트하는 방법 설명
+    * Dapper 실행 후 integration 및 Dapper container 실행 작업 진행
+      * Dapper 모듈에 있는 Testcontainers 모듈을 통해 구성, 복잡성에 대해 걱정 필요 없음
+      * 로컬에서 테스트를 실행하여 제품에 사용하는 기술과 일치하는지 확인 가능
+      * 클라우드에서도 테스트하는 세팅으로, Cloud offering 구축 작업을 진행 중
+      * Diag 팀과 협력하여 Dapr 프로젝트의 generic API를 클라우드로 이동하는 작업 중
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
