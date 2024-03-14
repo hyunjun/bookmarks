@@ -1687,6 +1687,58 @@ Programming
   * [Architect Clippy on Twitter: "I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?" / Twitter](https://twitter.com/architectclippy/status/570025079825764352)
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
 * [How to Draw Useful Technical Architecture Diagrams | by Jimmy Soh | The Internal Startup | Jun, 2020 | Medium](https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d)
+* [Creating Software with Modern Diagramming Techniques: Build Better Software with Mermaid | gotopia.tech](https://gotopia.tech/episodes/298/creating-software-with-modern-diagramming-techniques-build-better-software-with-mermaid)
+  <details>
+    <summary>소프트웨어 개발을 위한 현대적인 다이어그래밍 기술 활용하기: Mermaid로 더 나은 소프트웨어 만들기(Claude 3 Haiku v1)</summary>
+
+    1. 코드로 다이어그래밍하기(Diagrams as Code):
+        * Visio와 같은 전통적인 다이어그래밍 도구는 느리고 기계가 읽을 수 없는 다이어그램을 생성
+        * 코드로 다이어그래밍하면 버전 관리, 공유, 소프트웨어 개발 워크플로에 통합이 가능한 마크업 언어로 다이어그램을 작성 가능
+    2. Mermaid 개요:
+        * Mermaid는 간단한 마크업 언어로 다양한 다이어그램 유형을 정의할 수 있는 코드로 다이어그래밍 도구
+        * 시퀀스 다이어그램은 기본적으로 지원하며, C4 모델과 도메인 모델과 같은 다른 다이어그램 유형은 더 일반적인 흐름도 표기법을 사용
+        * Mermaid는 오픈 소스이며 사용이 쉽고 GitHub/GitLab과의 훌륭한 통합으로 코드베이스에 다이어그램을 쉽게 포함 가능
+    3. 다른 도구와의 비교:
+        * Mermaid는 Java가 필요한 PlantUML에 비해 설치와 사용이 더 용이
+        * Structurizr는 C4 모델에 특화되어 있고 자체 도메인 특화 언어를 가지고 있는 반면, Mermaid의 구문은 더 범용적
+    4. 도서의 접근 방식과 장점:
+        * 이 도서는 Mermaid 사용을 단계별로 안내하여 초보자도 쉽게 접근할 수 있게 안내
+        * 단지 도구 사용법뿐만 아니라 다양한 다이어그래밍 기법(시퀀스 다이어그램, C4 모델, 도메인 모델)을 어떨 때 사용해야 하는지에 대한 조언도 제공
+        * Mermaid의 코드로 다이어그래밍 접근법은 전통적인 다이어그래밍 도구에 비해 다이어그램 리팩토링과 협업을 크게 쉽게 만듦
+    5. 미래 전망:
+        * AI 기반 다이어그램 생성 기능의 통합은 다이어그래밍 프로세스를 더욱 간소화 가능
+        * 다이어그래밍 기법의 핵심 가치는 도구와 표기법이 발전하더라도 지속될 것으로 예상
+  </details>
+  <details>
+    <summary>(Claude 3 Sonnet v1)</summary>
+
+    * 이 책은 시퀀스 다이어그램, C4 모델 아키텍처 다이어그램, 도메인 모델 다이어그램을 Mermaid 다이어그래밍 툴을 사용하여 코드로 작성하는 방법을 설명. Mermaid를 사용하면 다이어그램 마크업을 작성하여 시각적 다이어그램을 렌더링 가능
+    * Mermaid의 "코드로 작성된 다이어그램" 접근 방식의 몇 가지 이점
+        1. 텍스트로 작성된 다이어그램이므로 버전 관리, 차이 확인, 리팩토링 용이
+        2. GitHub/GitLab와 긴밀하게 통합되어 마크업에서 다이어그램을 렌더링 가능
+        3. 열성적인 커뮤니티가 있는 오픈소스
+        4. PlantUML과 같은 인기 도구와 유사한 문법을 사용하여 마이그레이션 용이
+    * PlantUML, Structurizr 등의 툴과 비교했을 때, Mermaid의 GitHub 통합 기능과 어디서나 실행 가능한 TypeScript/JavaScript 구현이 큰 장점
+    * 이 책은 초보자도 현대적인 다이어그래밍 기술을 쉽게 익힐 수 있도록 단순한 예제부터 시작하여 점차 복잡한 예제 취급
+    * 20년 후에는 도구가 변경될 수 있지만, 이 책은 소프트웨어 구축 시 어떤 다이어그램 유형을 사용해야 하는지에 대한 조언을 통해 지속적인 가치를 제공
+    * ChatGPT와 같은 AI 도구를 사용하면 미래에는 설명만으로 다이어그램을 생성할 수 있게 될 것입니다. 또한 모델 기반 개발의 부활로 다이어그램에서 실행 가능한 코드나 인프라를 생성하는 것도 가능
+  </details>
+
+  * [VidiGo Creating Software with Modern Diagramming Techniqu](https://vidigo.ai//chatbot/summary/026X8ZE5nDIck3U)
+  * [최신 다이어그램 기법으로 소프트웨어 만들기 - Ashley Peacock & Stefan Hofer - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/382031?sId=g71CjISQLRI)
+    * Simon Brown이 작성한 C4 모델은 소프트웨어 아키텍처를 모델링하는 방법으로, 아키텍처를 설명하거나 다른 사람에게 보여주는 데 어려움을 겪을 때 유용
+      * C4 모델에는 '컨텍스트'와 '컨테이너' 두 가지 주요 뷰, '컴포넌트'와 '클래스'로 세부적으로 들어가지만 적용되는 경우는 소수
+      * 도메인 모델 다이어그램은 소프트웨어가 작동하는 도메인을 설명하는 방식으로 엔티티 간 관계를 나타내는 자유형태의 다이어그램
+      * Mermaid는 UML에서 정의된 시퀀스 다이어그램, C4 모델의 '플로우차트', 및 도메인 모델 다이어그램을 지원, PlantUML 표기법도 활용, 이는 일반 Mermaid보다 복잡
+    * Mermaid는 마크업 언어를 정의하고 코드 형식으로 다이어그램을 설명하는 도메인 특화 언어 제공, 이를 시각적 다이어그램으로 생성하는 Mermaid 툴링 포함
+    * Mermaid는 오픈소스로 무료이며, GitHub과 GitLab 통합이 큰 장점
+      * 다양한 다이어그램 유형 지원, 역호환성을 보장하여 오래된 다이어그램도 작동
+      * 최근 5년간 활발히 관리되는 Mermaid는 Java로 작성된 PlantUML과 비교 시 초보자에게 더 편리
+      * PlantUML보다 성능이 우수하며, 변환 시 문법과 다이어그램의 이동이 부드러워 사용자 친화적
+    * Structurizr는 C4 모델을 위해 만들어졌으며, 특정 DSL 존재
+      * Mermaid는 단순한 DSL로, C4 모델의 두 버전을 만들 때 중복 발생 가능하나, Structurizr로 모델링하고 여러 언어로 내보내기 가능
+      * Mermaid만 사용하여 also 도구에서 지원하는 다양한 언어로 변환 가능, 텍스트 기반으로 쉬운 refactoring 가능
+      * Mermaid의 경우 텍스트로 구성되어 있어 변경사항 확인 용이, 복잡한 코드 작성에 익숙한 엔지니어들에게 쉬운 접근성 제공
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
   * [Beyond Microservices: Streams, State and Scalability](https://www.infoq.com/presentations/microservices-streams-state-scalability/)
 * [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
