@@ -348,6 +348,8 @@ Monitoring
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=EJc3ppBJZrw)
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussle - YouTube](https://www.youtube.com/watch?v=piM7PEswmso)
   * [Observability 101 with Spring and Micrometer by Nele Uhlemann - YouTube](https://www.youtube.com/watch?v=Ssje93u2GWM)
+  * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
+    * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
