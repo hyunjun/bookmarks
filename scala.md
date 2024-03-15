@@ -241,6 +241,7 @@ Scala
 * [comparative-benchmarks.md](https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292)
 * [Rendezvous Benchmark Analysis: When Threads (Don't) Meet - DEV Community](https://dev.to/fwbrasil/rendezvous-benchmark-analysis-when-threads-dont-meet-3k3e)
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
+* [Handling errors in direct-style Scala](https://softwaremill.com/handling-errors-in-direct-style-scala/)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
 * JVM configuration for Scala Functional Programming
@@ -361,6 +362,7 @@ Scala
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 5 - Less Boilerplate Please - YouTube](https://www.youtube.com/watch?v=SQengjF8gXs)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 * [100 Integration Tests Per Second - ZIO Meets Hexagonal Architecture by Piotr Gabryanczyk - YouTube](https://www.youtube.com/watch?v=4W_aZUOzEow)
+* [Deriving the Elm Architecture · Purple Kingdom Games](https://purplekingdomgames.com/blog/2024/03/05/deriving-the-elm-architecture)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
 * [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
 * [Concurrent Sudoku Solver: Part 3 - Using Cats Effect Queue | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-3-using-cats-effect-queue-459e2da28b6)
@@ -396,6 +398,7 @@ Scala
 * [Improving my Distributed System with Scala 3: Consistency Guarantees & Background Tasks (Part 2) - Christian Hollinger](https://chollinger.com/blog/2024/02/improving-my-distributed-system-with-scala-3-consistency-guarantees-background-tasks-part-2/)
 * [Our journey begins](https://mhammons.hashnode.dev/our-journey-begins)
 * [Crossing those hills](https://mhammons.hashnode.dev/crossing-those-hills)
+* [Two-phase consensus with functional Scala | by Jonas Chapuis | Mar, 2024 | Medium](https://jonas-chapuis.medium.com/two-phase-consensus-with-functional-scala-5dc29388ac5a)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1076,6 +1079,7 @@ Scala
     * [Zymposium - Preparing ZIO HTTP Release with John A. De Goes - YouTube](https://www.youtube.com/watch?v=ozHQmklDF2Y)
     * [Generating a Rust client library for ZIO Http endpoints](https://ziverge.com/blog/zio-http-rust/)
     * [Zymposium: Auto-Generating OpenAPI Specs from ZIO HTTP with Nabil Abdel-Hafeez - YouTube](https://www.youtube.com/watch?v=f8wwS1anL1s)
+    * [Implementing a REST service using the ZIO-HTTP high-level EndPoints API. | by Americo Vargas | Mar, 2024 | Medium](https://americovargas.medium.com/implementing-a-rest-service-with-the-high-level-endpoints-api-of-zio-http-d997bf54c13b)
     * [ZIO Schedule and Ref by Ruurtjan Pul - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=IeEPO6GT3wM)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
@@ -1753,6 +1757,7 @@ Scala
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [orchestrator4s: Simple library to orchestrate yours applications easily](https://github.com/joacovela16/orchestrator4s)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
+* [ox: Safe direct-style concurrency and resiliency for Scala on the JVM](https://github.com/softwaremill/ox/)
 * [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
 * [Pass4s is a Scala library providing an abstract layer for cross app messaging](https://github.com/ocadotechnology/pass4s)
   * [Functional messaging in Scala with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-basics/)
@@ -2824,6 +2829,8 @@ Scala
   * [Type safety with Iron - Dev notes](https://blog.michal.pawlik.dev/posts/scala/iron/)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
+* [neotype: A friendly newtype library for Scala 3](https://github.com/kitlangton/neotype)
+  * [Kit Langton on X: "NEOTYPE — A High-Speed Tour https://t.co/cZK664OVB5" / X](https://twitter.com/kitlangton/status/1765464144067661927)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
   * [practice - basic examples](https://gist.github.com/hyunjun/80d3875cae8c64537a530f8154e16964#file-refined-scala)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
