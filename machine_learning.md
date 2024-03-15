@@ -1024,6 +1024,7 @@ Machine Learning
 * [cloud.google.com/prediction](https://cloud.google.com/prediction)
 
 # Java
+* [ML in Java, YES it's possible! by Mohammed Aboullaite - YouTube](https://www.youtube.com/watch?v=lPYmDMOJVuM)
 * [Java Machine Learning Library](https://github.com/Daniel-Liu-c0deb0t/Java-Machine-Learning/blob/master/README.md)
 * [SystemML](https://developer.ibm.com/open/systemml/)
 * [Weka 3 - Data Mining with Open Source Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka/)
