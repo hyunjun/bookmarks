@@ -357,6 +357,9 @@ Artificial Intelligence
       * 많은 기업들이 새로운 시작에만 주목하지만, 고정과 변화를 함께 고려해야 한다는 점을 강조(Jeff Bezos의 말과 유사, 변화하지 않는 것에 주목할 필요)
       * 먼저 인간이 변하는 것이 고정되어 있는 것보다 먼저 발생하기 때문에, 이러한 변화 주목 필요
   * 관계성, 유능감, 자율성에 대한 이야기, 유능감은 맡기고 자율성은 맡기면 안 되고, 그러면 관계를 어떻게 하느냐에 따라 business가 갈릴 거란 이야기에 동감
+* [Using AI in Software Design: How ChatGPT Can Help With Creating a Solution Arch. by Ralf D. Müller - YouTube](https://www.youtube.com/watch?v=Fv7hpwUgXz8)
+  * [VidiGo Using AI in Software Design: How ChatGPT Can Help](https://vidigo.ai//chatbot/summary/O67LKYWUozTaj2N)
+  * [소프트웨어 설계에 AI 활용하기: 솔루션 아치를 만드는 데 ChatGPT가 어떻게 도움이 되는가 작성자: Ralf D. Müller | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/383731?sId=Fv7hpwUgXz8)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
