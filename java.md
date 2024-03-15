@@ -641,6 +641,8 @@ Java
 * [SIMD Parallel Programming with the Vector API By José Paumard - YouTube](https://www.youtube.com/watch?v=36DN9sE7ja4)
 * [Java Patterns and Practices for Serverless Applications By Adam Bien - YouTube](https://www.youtube.com/watch?v=Ou82_yDOcmY)
 * [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thomas Vitale • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ovAcrTn6-dg)
+* [Securing the Supply Chain for Your Java Applications by Thomas Vitale - YouTube](https://www.youtube.com/watch?v=pS4cmqNN1QY)
+  * Gradle, Sigstore, Cloud Native Buildpacks, Trivy, Syft, and Kyverno
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -1202,6 +1204,7 @@ Java
 * [Welcome to the Jungle - A safari through the JVM landscape by Gerrit Grunwald - YouTube](https://www.youtube.com/watch?v=9_9L3pqGFcQ)
 * [Java Language](https://www.lesstif.com/java/java-language-18220282.html)
 * [JVM Crash 문제 해결하기 | 와탭 블로그](https://www.whatap.io/ko/blog/28/index.html)
+* [Instrument to Remove: Using Java agents for fun and profit by Johannes Bechberger - YouTube](https://www.youtube.com/watch?v=JnJgvcZo7b8) javaagent
 * [failsafe: Fault tolerance and resilience patterns for the JVM](https://github.com/failsafe-lib/failsafe)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
