@@ -1019,6 +1019,7 @@ Interview
 * [개발자를 위한 이력서 스터디 진행 후기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/07/02/Resume-Renewal-Project.html)
 * [개발자 이력서, 사소한 체크리스트 - 코드쓰는사람](https://taegon.kim/archives/10639)
 * [How I Optimized my LinkedIn Profile and Got 20+ Interview Calls - YouTube](https://www.youtube.com/watch?v=dQ6RNltrXro)
+* [How to improve your resume with BeamJobs | Melissa Grabiner posted on the topic | LinkedIn](https://www.linkedin.com/posts/melissa-grabiner_sponsored-jobsearch-jobseekers-activity-7171927263444103168-HYNG)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
