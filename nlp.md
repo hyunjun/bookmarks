@@ -1052,6 +1052,22 @@ NLP
 * [ChatGPT 치트키로 코딩 쉽게하세요 - YouTube](https://www.youtube.com/watch?v=OVBpddAEHuY) SCC Semantic Code Completer
 * [논문으로 검증된 26가지 프롬프트 엔지니어링 개꿀팁 - YouTube](https://www.youtube.com/watch?v=mC2b57u_s0k)
 * [알아두면 쓸모 있는 ChatGPT 숨어있는 프롬프트 명령어 팁](https://charlychoi.blogspot.com/2023/06/chatgpt.html)
+* [AI Prompt Engineering Is Dead - IEEE Spectrum](https://spectrum.ieee.org/prompt-engineering-is-dead)
+  <details>
+    <summary>Claude 3 Sonnet v1</summary>
+
+    * 이 기사는 AI 모델이 최적의 프롬프트를 직접 생성할 수 있게 됨에 따라 사람에 의한 프롬프트 엔지니어링이 시들해질 수 있다는 내용을 다룹니다. 연구진들은 언어 모델과 이미지 생성 모델에 대해 자동화된 도구를 사용하여 프롬프트를 최적화한 결과가 수동으로 만든 프롬프트보다 더 나은 성능을 보였다는 것을 발견했습니다. 자동으로 생성된 프롬프트는 종종 이상하고 인간이 고안하기 힘든 내용이었습니다. 현재 프롬프트 엔지니어링 방식은 유행이 지나갈 수 있지만, AI 모델을 적용하고 배포하는 작업에는 여전히 인력이 필요할 것입니다. 새로운 직함으로는 "LLMOps 엔지니어" 등이 있을 수 있습니다. 이 분야의 경관은 빠르게 변화하고 있으며, 생성 AI의 "서부 개척시대" 단계에서는 아직 규칙이 확립되지 않았습니다.
+  </details>
+  <details>
+    <summary>Claude 3 Haiku v1</summary>
+
+    * 이 기사는 AI 프롬프트 엔지니어링이 어떻게 발전하고 있는지 다룹니다. 최근 연구에 따르면, 프롬프트 엔지니어링은 인간이 하는 것보다 AI 모델 자체가 수행하는 것이 더 좋다고 합니다.
+    * 이 기사는 VMware 연구원들의 연구를 소개합니다. 그들은 수학 문제 성능 향상을 위한 다양한 프롬프트 엔지니어링 전략을 시도했지만, 일관되지 않은 결과를 얻었습니다. 대신 모델이 자체적으로 최적의 프롬프트를 찾도록 하는 것이 사람이 만든 프롬프트보다 더 좋은 성능을 보였습니다.
+    * Intel Labs 연구진도 이미지 생성 프롬프트를 자동으로 향상시키는 NeuroPrompts라는 도구를 개발했습니다. 이 도구는 사람이 만든 프롬프트보다 더 미학적으로 우수한 결과를 내놓았습니다.
+    * 프롬프트 엔지니어링의 자동화가 증가함에 따라 프롬프트 엔지니어 역할이 줄어들 수 있지만, 기사는 이 역할이 계속 진화하며 "LLMOps(Large Language Model Operations)" 직책의 일부로 자리 잡을 것으로 예상합니다. 전반적으로 기사는 생성 AI 모델이 발전함에 따라 복잡한 프롬프트 엔지니어링의 필요성이 줄어들겠지만, 산업 요구에 AI를 적용하는 데 있어 인간의 개입이 계속 필요할 것이라고 제안합니다.
+  </details>
+
+  * Llama 2 Chat 70B v1 - 뭐가 문제인지 모르겠지만 한국어로는 안 나옴
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
