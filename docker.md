@@ -1261,6 +1261,9 @@ Docker
 * [Martin Heinz | Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
 * [Extending Kubectl with Plugins. Plugins are software extensions that… | by Aditya Joshi | Oct, 2022 | Level Up Coding](https://levelup.gitconnected.com/extending-kubectl-with-plugins-a9bf2d065441)
   * [Kubectl Plugins - YouTube](https://www.youtube.com/playlist?list=PLuAZTZDgj0ct2wrYI96pJ12EIZJT05bMK)
+* [Jenkins에서 Kubernetes 플러그인을 이용해 보다 쉽고 효율적으로 성능 테스트하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/performance-test-in-jenkins-run-dynamic-pod-executors-in-kubernetes-parallelly/)
+* [Amazon VPC CNI 플러그인으로 노드당 파드수 제한 늘리기](https://trans.yonghochoi.com/translations/aws_vpc_cni_increase_pods_per_node_limits.ko)
+* [AKS로 쿠버네티스 시작하기 : kubectl plugin | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/8805)
 * [18. 편리한 운영을 위한 오픈소스 솔루션 소개 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-24-kubernetes-18/) plugin
 * [19. 쿠버네티스 환경 변수 사용 및 Probe 설정 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2024-01-31-kubernetes-19/)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
@@ -1386,7 +1389,6 @@ Docker
 * [제3회 스포카콘 Kubernetes in Spoqa](https://www.slideshare.net/ssuser1ac60e/3-kubernetes-in-spoqa)
 * [Bottlerocket in Production Kubernetes Cluster | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html)
 * [Docker & Kubernetes - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582977)
-* [Jenkins에서 Kubernetes 플러그인을 이용해 보다 쉽고 효율적으로 성능 테스트하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/performance-test-in-jenkins-run-dynamic-pod-executors-in-kubernetes-parallelly/)
 * [Kubernetes Jenkins Agent 동적생성 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=6883)
 * [Jenkins End to End Pipeline with Pods as Build Agents, Maven, Nexus, SonarQube, MailHog & Helm - YouTube](https://www.youtube.com/watch?v=l9mf8K3vBvQ)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
@@ -1427,7 +1429,6 @@ Docker
     * 이 동작을 이해할 수 있는 그림과 함께 예제도 제공해서 이해하기 좋음
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
-* [Amazon VPC CNI 플러그인으로 노드당 파드수 제한 늘리기](https://trans.yonghochoi.com/translations/aws_vpc_cni_increase_pods_per_node_limits.ko)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
