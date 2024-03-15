@@ -791,6 +791,8 @@ Web
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
+  * [LaVague: Automate automation with Large Action Model framework](https://github.com/lavague-ai/LaVague)
+    * [LaVague - Selenium 자동화를 위한 오픈소스 Large Action Model | GeekNews](https://news.hada.io/topic?id=13813)
   * [selenium-ide: Open Source record and playback test automation for the web](https://github.com/SeleniumHQ/selenium-ide)
   * [selenium-python-helium: Selenium-python but lighter: Helium is the best Python library for web automation](https://github.com/mherrmann/selenium-python-helium)
   * [Selenium Tutorial - Beginner to Advanced | ArtOfTesting](https://artoftesting.com/selenium-tutorial)
