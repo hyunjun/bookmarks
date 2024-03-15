@@ -22,6 +22,7 @@ Json
 * [거의 모든 SW 개발의 필수⋯JSON 데이터 포맷의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/252478)
 * [JSON Editor | A Web-Based Tool to View, Edit, Format, and Validate JSON](https://morioh.com/p/159b63572594)
 * [**숫자 1은 올바른 JSON 형식인가? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2024/01/21/Standardization-of-JSON.html)
+* [Who is Jason, and what’s he doing in my database? by Martin Bach - YouTube](https://www.youtube.com/watch?v=pfjAnRl1M0A)
 
 # Android
 * [LoganSquare: Screaming fast JSON parsing and serialization library for Android](https://github.com/bluelinelabs/LoganSquare) 개발 중단되었으나 성능은 좋다고 함
