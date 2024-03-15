@@ -1117,6 +1117,7 @@ Javascript
 * [Incremental vs Virtual DOM. Will Incremental DOM Replace Virtual… | by Chameera Dulanga | Bits and Pieces](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
   * [Incremental DOM과 Virtual DOM 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210819)
 * [The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer - YouTube](https://www.youtube.com/watch?v=pD8VaBdU1f8)
+* [State of change detection in Angular and how far are we from Zoneless applications ? by M. Riegler - YouTube](https://www.youtube.com/watch?v=KdK20Cn9Y4M)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2852,6 +2853,7 @@ Javascript
   * [Vite 4.0 is out! | Vite](https://vitejs.dev/blog/announcing-vite4.html)
   * [React Micro-Frontends using Vite - DEV Community](https://dev.to/abhi0498/react-micro-frontends-using-vite-30ah)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
+  * [Visual Guide to the Modern Frontend Toolchain (Vite) - YouTube](https://www.youtube.com/watch?v=M_edImKoEt8)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
