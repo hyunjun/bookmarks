@@ -2503,7 +2503,7 @@ Programming
 * [API 이코노미를 살펴보다 (3) 국내 API 활용 현황 및 제언 :: Channy's Blog](http://channy.creation.net/blog/1388)
 * [Responsible Microservices](https://www.infoq.com/presentations/microservices-factors/)
 * [Microservice Architecture at Medium | by Xiao Ma | Medium Engineering](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
-* [GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler - YouTube](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+* [**GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler - YouTube**](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
   * [Moving to Microservices: Insights from Sam Newman and Martin Fowler | gotopia.tech](https://gotopia.tech/episodes/20/moving-to-microservices-with-sam-newman-and-martin-fowler)
   * [VidiGo When To Use Microservices (And When Not To!) • Sam](https://vidigo.ai//chatbot/summary/Tj8fZQg3pVcOsUl)
     * 4. 데이터와 조직 문화의 중요성
@@ -6064,7 +6064,7 @@ Programming
 * [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
 * [Building a Real-Time Analytics Database • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Xa2tb743QPE)
-* [Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube](https://www.youtube.com/watch?v=yqc3PPmHvrA)
+* [**Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube**](https://www.youtube.com/watch?v=yqc3PPmHvrA)
   * [VidiGo Streaming a Million Likes/Second: Real-Time Intera](https://vidigo.ai//chatbot/summary/Cm8HQTFVpGATdZl)
     * 2. 실시간 플랫폼 구축과 도전
       * 크리켓 월드컵 준결승과 같은 대규모 라이브 스트림 사례를 소개, 실시간 상호작용의 중요성 강조
