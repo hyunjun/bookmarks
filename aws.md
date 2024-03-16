@@ -375,6 +375,7 @@ AWS
 * [Amazon Inspector 신규 기능 – 워크로드에 대한 취약성 검색 영역 확대 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/three-new-capabilities-for-amazon-inspector-broaden-the-realm-of-vulnerability-scanning-for-workloads/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
+* [ARM과 x86 서버의 차이점 "사무실 구린 .. : 네이버블로그](https://blog.naver.com/xslab/223383444616)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
@@ -657,6 +658,7 @@ AWS
 * [인터넷 액세스 불가 환경에서 Amazon Bedrock API실행 하기 | by MZC_Global | Cloud Villains | Medium](https://medium.com/cloudvillains/%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%95%A1%EC%84%B8%EC%8A%A4-%EB%B6%88%EA%B0%80-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-amazon-bedrock-api%EC%8B%A4%ED%96%89-%ED%95%98%EA%B8%B0-741eb51f998a)
 * [Working with Amazon Bedrock. Recently AWS went live with its fully… | by Sandeep Bhatia | Medium](https://medium.com/@bhatia.sandeep/working-with-amazon-bedrock-419edff2fbc6)
 * [AWS Bedrock remote access : r/aws](https://www.reddit.com/r/aws/comments/176uxht/aws_bedrock_remote_access/?rdt=45365)
+* [Amazon 생성형 AI 도구인 베드락 사용해 보자](https://brunch.co.kr/@topasvga/3727)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -698,6 +700,7 @@ AWS
 * [AWS 자격증 취득 후기 (SAA, SAP)](https://jybaek.tistory.com/1006)
 * [AWS 자격증 취득 후기 (DOP)](https://jybaek.tistory.com/1007)
 * [AWS-ALL-Certification-Review - 리눅서의 기술술 블로그](https://linuxer.name/2024/02/aws-all-certification-review/)
+* [AWS Certified Data Engineer - Associate - 합격후기 - 리눅서의 기술술 블로그](https://linuxer.name/2024/03/aws-certified-data-engineer-associate-review/)
 
 # CI/CD Codecommit Codebuild CodeDeploy CodePipeline
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
