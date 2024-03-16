@@ -943,6 +943,30 @@ Docker
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
 * [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
 * [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
+* [Secure Container Images with Chainguard's Tooling: Melange, Apko & Wolfi • Matt Turner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bAgCyR0EkTY)
+  * [VidiGo Secure Container Images with Chainguards Tooling:](https://vidigo.ai//chatbot/summary/bQ9OxkHaqkSa6xw)
+    * 3. 도구의 고민과 해결 Bazel부터 Apko까지
+      * 고급 c++ 또는 java 개발자들은 종종 bazel과 같은 도구의 사용으로 어려움 경험
+      * Dockerfile 사용 시 기반 이미지 선택의 문제와 빌드 시간 이미지의 한계를 지적
+      * 다단계 빌드와 특화된 런타임 베이스 이미지를 통해 이러한 문제를 해결할 수 있다고 설명
+  * [Chainguard의 툴링으로 컨테이너 이미지를 보호하세요: 멜란지, 아코, 울피 - 매트 터너 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/386975?sId=bAgCyR0EkTY)
+    * 제로 트러스트 네트워크에 관한 설명을 하며, 콘테이너 내 모든 구성물에 대한 신뢰를 구축하는 것이 중요
+    * 7.🔧컨테이너 이미지를 위한 패키지 'Wolfi'
+      * 컨테이너 이미지용 패키지 'Wolfi'는 OS가 아닌, 기본적으로 컨테이너 이미지를 위해 제작
+        * 'Red Hat'과 같은 OS와는 달리 커널과 부트로더를 포함한 소프트웨어 패키지를 보유하지 않음
+      * 컨테이너 이미지의 기본 이미지가 자주 변하지 않는 것이 일반적, 소프트웨어나 타임 존 데이터와 같은 패키지들은 자주 변하는 경향
+      * 때때로 안전이 확인된 해외 기관 또는 범죄 조직에 의해 소유된 CA도 존재
+        * 해당 CA를 신뢰하도록 OS를 설득하면 이것을 이용하려는 모든 기기는 해당 CA로 서명된 모든 것을 신뢰 가능
+      * 웹 루트인증서 세트는 브라우저 뿐만 아니라 OS에도 있어서 패키지 관리자가 인터넷에서 업데이트를 가져올 때 신뢰하는 루트 인증서 세트
+        * 일반적으로 HTTP 요청 등을 실행하는 프로그램이 이를 활용
+      * 개별적으로 임의의 CA를 생성하여 이를 하나의 OS에 포함시키면 해당 OS의 패키지로 신뢰하려는 모든 기기는 그 CA로 유도된 것을 신뢰하는 문제 발생 가능
+        * 흔히 해외 기관이나 범죄 조직에 속한 자로 드러난 CA도 종종 발생
+    * 9.개인 유틸리티로 HTTP log 코드를 사용하여 로그 정보를 수집하는 경험
+      * HTTP log라는 개인 유틸리티로 데몬이 되어 특정 포트를 'listening'하며 HTTP 연결을 받고 연결 정보를 기록하는 코드를 사용
+      * 로드 밸런서 헬스 체크를 받는데 어떤 요청을 받았는지, 호스트 정보나 SNI 서버 이름, Cipher Suites 정보를 파악하지 못하고 있던 중
+        * Nginx와 로그 설정 변경보다 간단하게 코드로 처리할 수 있어 해당 유틸리티를 작성
+      * 이 코드는 Go로 작성되었고 의존성이 적음. Docker 파일을 이용하여 빌드하며 간단하게 작동
+      * 이 코드는 들어오는 연결 정보를 받아들여 필요한 정보를 추출, Docker를 사용하여 빌드하는 등 프로그래밍에 대한 초급 지식을 테스트받는 면접에서 활용한 경험
 * [도커 컨테이너 파일 포맷 및 Image Pull Time](https://bcho.tistory.com/1388)
 * [Just say no to `:latest` - Platformers](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
   * Dockerfile에서 latest 태그를 지정하면 지속적 배포의 중요한 요구사항인 재현 가능하고 멱등한 빌드를 깨뜨려서 프로덕션에서 문제 발생 가능
