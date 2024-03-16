@@ -759,7 +759,14 @@ Programming Books
   * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
   * [책 마이크로서비스 아키텍처 구축](https://jybaek.tistory.com/936)
   * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
-    * 우당
+    * 우당 문005.12뉴33ㅁ
+    <details>
+        <summary>MSA 관련 몇 가지</summary>
+
+    * <img src="images/building_microservices_1.jpg" alt="" width="300"/>
+    * <img src="images/building_microservices_2.jpg" alt="" width="300"/>
+    * <img src="images/building_microservices_3.jpg" alt="" width="300"/>
+    </details>
 * [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
   * [<마이크로서비스 도입, 이렇게 한다> 도서 증정 이벤트](https://jhrogue.blogspot.com/2021/01/blog-post_28.html)
   * [**마이크로서비스 도입 이렇게 한다 | Popit**](https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%8f%84%ec%9e%85-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%9c%eb%8b%a4/)
