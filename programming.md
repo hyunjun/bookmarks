@@ -4832,6 +4832,37 @@ Programming
   * [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
   * [GitOps Infrastructure with Backstage + Crossplane + ArgoCD - YouTube](https://www.youtube.com/watch?v=Ii-lpLuzPxw)
   * [Demystifying Kubernetes Platforms with Backstage - YouTube](https://www.youtube.com/watch?v=g453ioC64Bw)
+  * [Spotify Plugins for Backstage: How Commercial & Open Source Go Hand-in-Hand • Joon Park • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=k86P2J0xBK8)
+    * [VidiGo Spotify Plugins for Backstage: How Commercial & Op](https://vidigo.ai//chatbot/summary/d49sxTEfq8yKM3R)
+    * [백스테이지용 스포티파이 플러그인: 상용과 오픈소스가 함께 가는 방법 - 박준 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/386435?sId=k86P2J0xBK8)
+      * 3.💻속도, 표준, 생태계: 백스테이지 핵심 개념
+        * 백스테이지의 핵심 개념은 '속도', '표준', '생태계'이며, 프래그먼테이션 해결을 통해 개발자들이 보다 신속하게 작업을 수행할 수 있도록 도움
+        * '표준은 자유를 주는 것'이라는 문구가 매우 마음에 들며, 이는 소프트웨어 템플릿을 통해 구현
+        * 개발자 포털이 성공적이기 위해서는 좋은 생태계가 필요하며, 백스테이지는 플러그인 생태계를 중심으로 설계되어 조직의 needs에 맞게 사용자 정의 가능
+        * 백스테이지의 코어 플러그인을 통해 현재 소프트웨어 템플릿을 포함해 프래그먼테이션 해결과 표준화를 실현
+          * 기존에 개발된 훌륭한 플러그인들을 활용하여 조직의 수많은 요구사항을 충족 가능
+        * 백스테이지의 강점은 이미 수백 개의 플러그인이 구축, 기존의 툴링을 모두 활용 가능해 조직의 needs를 충족, 자체 플러그인을 개발할 필요 없음
+      * 4.📚Tech docs: 코드와 함께되는 문서화 솔루션의 중요성과 가치에 대해
+        * 문서화는 코드와 함께 존재, 개발자들이 코드 내에서 문서를 찾을 수 있게 함
+        * 사용자들이 문서를 소비할 때 중요한 질문을 해결 'X를 어디에서 찾아야 하는가?'
+        * 문서를 통해 기존에 일상적으로 느끼던 질문을 제거하면 정신 모델과 흐름에 큰 영향
+        * Backstage에 문서를 모두 포함하고 카탈로그화하면 개발자는 더 이상 정보를 찾을 필요 없이 Backstage에서 검색 가능
+        * 소프트웨어 카탈로그를 통해 회사의 구성 요소를 한 곳에 집중하고 전시하는 것이 중요, Backstage 플러그인으로 제공되는 기능 중 하나
+      * 5.🛠️API 구성 요소 필터링 및 YAML 파일을 이용한 소프트웨어 카탈로그 정보 관리
+        * API 컴포넌트로 필터링하여 엔티티 페이지와 API 세부정보를 확인 가능
+        * API 컴포넌트 관련 문서 및 엔드포인트 정보를 YAML 파일에 유지하여 개발자가 사용하기 편리하도록 함
+        * 소프트웨어 카탈로그 정보는 정의된 YAML 파일에 저장, 자동화를 통해 불필요한 수작업 제거 가능
+        * 소프트웨어 템플릿을 활용하여 소프트웨어를 쉽게 생성, Spotify와의 비교를 통해 내부 소프트웨어 생성 페이지의 차이 확인 가능
+      * 6.🛠️ Backstage에서 사용되는 엔티티 및 플러그인 설명
+        * Backstage에는 '기본 구성 요소', 'API', '자원'과 같은 주요 엔티티가 있으며, 이것들은 소프트웨어 카탈로그의 핵심 구성 요소
+        * 또한 사용자 및 그룹으로 구성된 조직 엔티티와 같이 조직의 구조를 나타내는 엔티티도 존재
+        * 각각의 다양한 엔티티 유형을 조합하여 소프트웨어 카탈로그 내에서 정보를 통합
+        * Backstage 플러그인은 React 앱 또는 Node 및 Express 서비스와 같은 형태로 나타나며, 각각 front-end 및 back-end 기능을 효과적으로 지원
+      * 8.💡 오픈코어 개념과 Spotify의 첫 상용 제품 출시
+        * 오픈코어는 오픈소스 핵심 제공과 부가 기능을 유료로 이용할 수 있는 생태계의 한 형태
+        * 이로 인해 오픈소스 커뮤니티의 성장은 상용 오퍼링과 일치하며, 백스테이지의 상용 플러그인 없이 플러그인 생태계가 없음
+        * 커뮤니티에서는 권한 부여 솔루션과 같은 상용 번들에 대한 대체 업무를 가능케할만한 확장성 존재
+        * 스포티파이의 플러그인 번들은 개발자 효율성과 행복에 중점을 두는 구조를 갖추고 있으며, 다양한 플러그인이 이러한 아이디어 주변으로 작동
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
