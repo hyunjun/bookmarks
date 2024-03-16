@@ -743,6 +743,8 @@ Programming
 * [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
 * [Airflow vs Luigi vs Argo vs Kubeflow vs MLFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 * [Latency Numbers Every Programmer Should Know By Year](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+* [Numbers](https://samwho.dev/numbers/?fo)
+  * [모든 프로그래머가 알아야 할 필수 숫자들 | GeekNews](https://news.hada.io/topic?id=13749)
 * [Single binary executable packages -- Volution Notes](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
 * [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 * [MySQL 타임스탬프와 Y2K38 문제 | 요즘IT](https://yozm.wishket.com/magazine/detail/2209/)
