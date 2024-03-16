@@ -3061,6 +3061,9 @@ Business
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
+* [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
+  * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
+  * [웹기획 / UX 툴 소개 핫자(Hotjar) 시각적인 데이터분석 툴로 데이터드리븐 UX(Data-Driven UX)](https://ilsang2.tistory.com/223)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
     * GitHub에서 2020년 다크 모드를 공개한 이후 고대비 테마를 만들면서 Primer Prism이라는 색상 도구 제가
