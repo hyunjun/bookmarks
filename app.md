@@ -2358,6 +2358,7 @@ App
 * [컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트) | GeekNews](https://news.hada.io/topic?id=7214)
 * [윈도우 랜덤 배경 화면 이미지 파일 저장하기 : zelon's blog](https://blog.wimy.com/472/)
 * [윈도우 설치 후 추천프로그램(가볍고 빠른거 위주) : 클리앙](https://www.clien.net/service/board/useful/17903271?type=recommend)
+* [“인터넷 음지도 안전하게 서핑” 윈도우 ‘샌드박스’ 기능 활용하기 - ITWorld Korea](https://www.itworld.co.kr/news/329461)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
