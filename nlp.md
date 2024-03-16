@@ -1596,6 +1596,7 @@ NLP
 * [Aurimas Griciūnas on LinkedIn: “Hello World”s of RAG](https://www.linkedin.com/posts/aurimas-griciunas_you-can-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-that-activity-7160565020626411521-rh5E)
 * [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
 * [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+* [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
@@ -1997,6 +1998,7 @@ NLP
     * [Host a Llama 2 API on GPU for Free | by Yuhong Sun | Aug, 2023 | Medium](https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
       * [HostLlama2BehindAPI.ipynb - Colaboratory](https://colab.research.google.com/drive/1XfkVbh4noX9E4_90Ve9rv5zPqu6dIVQr)
     * [Llama2(라마2) 모델 개인 노트북으로 실행하기 요약(CPU기반) - YouTube](https://www.youtube.com/watch?v=gdzeE6ys2nM)
+    * [Build your first AI app in Rust using Serverless AI Inferencing - YouTube](https://www.youtube.com/watch?v=TyP-BSy-gi4)
     * [이준범 영어 잘 하는 모델을 한국어 잘 하는 모델로 바꾸는 레시피 - YouTube](https://www.youtube.com/watch?v=pxWji5kykw8)
       * [1:25](https://2024langcon.oopy.io/e820b185-0f58-4797-bfe2-a4b8e63008ae)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
@@ -2124,6 +2126,7 @@ NLP
   * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671)
   * [QLoRA is all you need (Fast and lightweight model fine-tuning) - YouTube](https://www.youtube.com/watch?v=J_3hDqSvpmg)
   * [Building an LLM fine-tuning Dataset - YouTube](https://www.youtube.com/watch?v=pCX_3p40Efc)
+  * [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code) - YouTube](https://www.youtube.com/watch?v=XpoKB3usmKc)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
