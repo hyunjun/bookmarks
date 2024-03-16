@@ -107,7 +107,7 @@
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
 * [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
-* [Design Patterns](https://refactoring.guru/design-patterns)
+* [**Design Patterns**](https://refactoring.guru/design-patterns)
 
 # C
 * [Abhinav Upadhyay on X: "I was digging through the CPython source code and found out how it uses polymorphism to implement objects. Yes, C is not an object-oriented language, but you can still mimic polymorphism with one clever trick. Let's see how CPython does it. Before learning about the "how," let's… https://t.co/YapJ13TOf7" / X](https://twitter.com/abhi9u/status/1688837464650371074) OOP
@@ -222,7 +222,6 @@
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
-* [**Design Patterns**](https://refactoring.guru/design-patterns)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
 * [어댑터와 퍼사드 패턴](https://astrod.github.io/design_pattern/2018/09/29/Head-First-%EC%96%B4%EB%8C%91%ED%84%B0%EC%99%80-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4/)
@@ -262,6 +261,24 @@
 * [자바 생성 패턴을 실제 프로젝트에 적용하려면? | 요즘IT](https://yozm.wishket.com/magazine/detail/2155/)
 * [자바 행동 패턴은 어떻게 사용해야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2190/)
 * [5 Design Patterns That Are ACTUALLY Used By Developers - YouTube](https://www.youtube.com/watch?v=YMAwgRwjEOQ)
+  * [VidiGo 5 Design Patterns That Are ACTUALLY Used By Develo](https://vidigo.ai//chatbot/summary/Ms9J0i8KqP1YN65)
+    * 2. 디자인 패턴의 분류와 실용 예시
+      * 23가지 디자인 패턴은 생성, 구조, 행위 세 가지 주요 그룹으로 분류
+      * 전략 패턴은 다양한 케이크 레시피를 클래스로 분리하여 동일한 메소드를 구현하는 방식으로 코드를 깔끔하게 유지
+      * 데코레이터, 옵저버, 싱글톤, 파사드 등 다른 네 가지 주요 디자인 패턴 소개
+  * [개발자들이 실제로 사용하는 5가지 디자인 패턴 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/386829?sId=YMAwgRwjEOQ)
+    * 3.🎨디자인 패턴 적용 가이드: 생성, 구조, 행동 패턴 소개
+      * 총 23가지 디자인 패턴은 생성, 구조, 행동 세 그룹으로 나뉘며, 각각 객체 생성, 구조화, 상호작용을 다룸
+      * 23가지 패턴 중 상용되는 것은 5가지뿐이지만 익히고 문제 발생 시 유사 패턴에 연결하여 적용 가능
+      * Strategy Pattern은 다양한 케이크 레시피를 처리하는 경우 유용하며, Decorator Pattern은 객체를 확장하고자 할 때 원본 구현을 변경하지 않으면서 사용
+    * 4.🧵디자인 패턴: 장식자, 옵저버, 싱글톤
+      * 디자인 패턴 중 하나인 장식자 패턴은 확장하려는 컴포넌트와 동일한 인터페이스를 구현하고 추가 기능을 구현 가능
+      * 옵저버 패턴은 특정 event 알림 시 사용되며, 구독자들에게 통지할 때 활용. 구독자는 업데이트 메소드를 호출받아 event 파악
+      * 싱글톤 패턴은 인스턴스를 단 한 번 생성, 전역 변수로 접근 가능. 스레드 안전을 위해 코드에서 잠금 메커니즘을 사용하는 것이 중요
+    * 5.💻Facade pattern은 복잡한 라이브러리 구현을 단순하게
+      * Facade pattern은 단순함을 강조하며, 복잡한 라이브러리를 사용할 때 구현 세부사항을 가리는 인터페이스를 만드는 것을 설명
+      * 나쁜 라이브러리로부터 발생하는 코드 난잡함을 방지하기 위해, 코드 내에서 새로운 로거 인터페이스를 만들어 이를 활용
+      * 다른 디자인 패턴 중 Facade pattern 외에도 18가지가 있으며, 문제 해결 시 참고할 수 있도록 숙지해두는 것이 유용
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
