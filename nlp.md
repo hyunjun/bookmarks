@@ -367,6 +367,7 @@ NLP
 * [29 Nov 2023 RLHF Lecture @ Stanford - Google Slides](https://docs.google.com/presentation/d/1T6X8ZlwrBek14wGfKljLxikwkTBDdM88r0AZ6NiodU4/)
   * [Nathan Lambert on LinkedIn: 29 Nov 2023 RLHF Lecture @ Stanford | 12 comments](https://www.linkedin.com/posts/natolambert_29-nov-2023-rlhf-lecture-stanford-activity-7136029436520398849-LQyO)
 * [LLM Finetune vs RLHF](https://bcho.tistory.com/1422)
+* [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
