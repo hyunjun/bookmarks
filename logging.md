@@ -65,6 +65,7 @@ Logging
 * [Tagged Logging vs Structured Logging - DEV Community](https://dev.to/jdwyah/tagged-logging-vs-structured-logging-3mbc)
 * [여기보기 적절한 식습관과 운동을 유지하듯 건강하게 WAS 로그 관리하기 - 넷마블 기술 블로그](https://netmarble.engineering/was-log-management/)
 * [프론트엔드 로깅 신경 안 쓰기](https://toss.tech/article/engineering-note-5)
+* [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
