@@ -106,6 +106,7 @@ Data Science
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
 * [Data Product (1) 쏘카 고객은 무슨 목적으로 쏘카를 이용할까? - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2024/01/08/sopia.html)
+* [Data Product (2) AI(데이터)로 실제 운영 효율화가 가능할까? - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2024/03/11/ai-car-wash.html)
 * [데이터 엔지니어란 무엇일까? - Nephtyw’S Programming Stash](https://nephtyws.github.io/story/what-is-data-engineer/)
   * [데이터 엔지니어란 무엇인가? | GeekNews](https://news.hada.io/topic?id=6565)
 * [데이터분석가 vs 데이터엔지니어 vs 데이터과학자 차이가 뭘까? (1) 역할과 정의](https://socrates-dissatisfied.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%B0%A8%EC%9D%B4%EB%8A%94)
