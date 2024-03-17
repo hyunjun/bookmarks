@@ -1198,6 +1198,7 @@ Java
   * 이 문제는 동일한 변수를 여러 스레드/코어에서 읽고 쓰는 True Sharing임을 깨닫고 공유 변수에 모두 쓰지 않고 JVM의 보조 슈퍼클래스 캐시를 효과적으로 우회하도록 수정하고 3.5배의 성능 향상
   * [더 빠른 인스턴스로 옮겼는데 성능이 안 나오면 어디를 봐야 할까? | GeekNews](https://news.hada.io/topic?id=7911)
 * [Java Compiler Optimization — 시행착오를 줄이는 방법 - 진태양](https://dataportal.kr/90)
+* [Java compiler message file broken 에러](https://yeonyeon.tistory.com/325)
 * `-XX:MaxDirectMemorySize` [파일 서버에 1GB 파일 패치 요청 실패 (간단한 JVM 튜닝으로 해결하기)](https://velog.io/@joosing/failed-request-to-fetch-1gb-file-to-the-file-server)
 * [VDBUH2023 - Ionuț Baloșin & Florin Blănaru - JVM Performance Comparison - YouTube](https://www.youtube.com/watch?v=dLV2mrXXO6I)
 * [스프링 애플리케이션 배포 직후 발생하는 Latency의 원인과 이를 해결하기 위한 JVM Warm-up](https://hudi.blog/jvm-warm-up/)
