@@ -186,6 +186,8 @@ Deep Learning
     * [DALL.E, Watermark & Signature | Pega Devlog](https://jehyunlee.github.io/2024/01/24/General-39_signature/)
     * [DALL·E 3](https://openai.com/dall-e-3)
       * [DALL·E 3 | GeekNews](https://news.hada.io/topic?id=10971)
+    * [DALL.E style (1) GPT로 스타일 리스팅 | Pega Devlog](https://jehyunlee.github.io/2024/03/15/General-44-dalle3styles/)
+    * [DALL.E style (2) API 사용 달리공장 | Pega Devlog](https://jehyunlee.github.io/2024/03/17/General-45-dalle3styles2/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
