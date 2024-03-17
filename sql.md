@@ -1182,6 +1182,59 @@ SQL
 * [How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability)
 * [Postgres is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
   * [PostgreSQL로 충분하다 | GeekNews](https://news.hada.io/topic?id=13231)
+* [Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
+  * [VidiGo Wait... PostgreSQL can do WHAT?](https://vidigo.ai//chatbot/summary/XwDdGOF3tinyXOD)
+    * 2. PostgreSQL의 객체 관계형 데이터베이스로서의 특징
+      * Postgresql은 객체 지향 개념과 복잡한 데이터 구조를 관계형 데이터베이스 디자인과 결합하여 다양한 네이티브 데이터 타입과 사용자 정의 타입을 지원
+      * 게임 캐릭터와 같은 복잡한 데이터 구조를 저장하고 쿼리하는 데 필요한 기능 제공
+      * 테이블 상속과 저장 프로시저를 포함한 객체 지향 프로그래밍의 핵심 개념을 구현하여 백엔드 애플리케이션으로부터 데이터 로직을 분리 가능
+    * 3. PostgreSQL 확장성과 백엔드 스택 대체 가능성
+      * Postgresql의 확장성 덕분에 캐싱, 메시지 큐, nosql 데이터베이스 등 백엔드 스택의 다양한 기술 대체 가능
+      * Json 웹 토큰 생성, html 랜더링 등 다양한 작업을 위한 postgresql 확장 기능을 사용하여 인프라를 단순화, 유지 보수 용이
+      * Rest api와 graphql 쿼리를 포함하여 거의 모든 백엔드 요구 사항을 충족시킬 수 있는 강력하고 신뢰할 수 있는 플랫폼으로서의 역할
+  * [잠깐만요... PostgreSQL은 무엇을 할 수 있나요? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/391690?sId=VEWXmdjzIpQ)
+    * 3.💻포스트그레SQL: 객체-관계형 데이터베이스 기능
+      * 포스트그레SQL은 객체-관계형 데이터베이스로, 객체지향 개념과 관계형 데이터베이스 디자인 융합
+      * 포스트그레SQL은 다양한 데이터 유형을 지원, 특히 날짜/시간, 네트워크 주소, 지오메트리 유형을 기본 제공
+      * 또한 사용자 정의 유형을 정의하고 시스템에 내장된 것처럼 사용할 수 있어 효율적이며 유연한 데이터 관리가 가능
+      * 예를 들어, 롤플레잉 게임의 캐릭터 데이터를 저장하기 위해 사용자 정의 유형을 만들어 테이블에 활용 가능
+    * 5.💻PostgreSQL의 프로시저와 패키지로 *코드 실행*이 가능함.
+      * 객체지향 프로그래밍은 코드와 데이터를 함께 묶는 것이라는 점을 간과해서는 안 됨
+      * PostgreSQL은 코드를 데이터베이스에서 실행할 때 경쟁 상대보다 더 많은 기능 제공
+      * 저장 프로시저에서 지원되는 프로그래밍 언어 목록을 확인하고 코드를 직접 실행하기 위해 언어 핸들러 활성화 필요
+      * 또한 이를 위해 패키지 매니저가 필요한데, PostgreSQL 확장을 위한 패키지 매니저 존재. 시작 프로시저의 코드는 이미 테스트 데이터를 삽입
+    * 6.💻PostgreSQL 기능과 저장 프로시저, 데이터베이스를 백엔드 응용프로그램에서 자유롭게 활용
+      * PostgreSQL의 객체지향 기능과 저장 프로시저 덕분에 데이터베이스는 단순한 저장소가 아니라 백엔드 응용프로그램을 데이터 로직으로부터 해방 가능
+      * 유저 관리와 같은 데이터 로직이 Posix 확장성의 도움으로 완전히 데이터베이스 내에서 자체 포함 가능
+        * 해시 비밀번호 생성, JSON 웹 토큰, QR 코드 생성, 개인 데이터 익명화, 템플릿에서 HTML 렌더링 등 가능
+      * PostgreSQL에 대해 배울수록 확장점이 어디에서나 있어 실제로 전체 백엔드로 대체할 수 있는 특징
+      * PostgreSQL로 키-값 저장소를 쉽게 구축할 수 있으며, Redis와 같이 만료되는 값들을 가질 수 있도록 PG 크롬 익스텐션 설치
+        * 포스티크, 데이터베이스에서 브로커 소프트웨어인 RabbitMQ를 단순하게 대체함으로써 사내 백엔드 작업 큐를 향상
+    * 7.💻 MongoDB와 NoSQL 데이터베이스의 장점 및 PostgreSQL의 활용
+      * PostgreSQL은 JSON 데이터 유형을 네이티브로 지원하며 SQL과 유사한 쿼리 언어 지원
+      * NoSQL 데이터베이스는 SQL과 유사한 언어로 적응, Guardian과 같은 기업이 JSON 문서를 PostgreSQL로 옮길 경우
+        * 디스크 공간이 더 많이 필요, 다른 기능들과의 통합 및 인프라 유지보수가 감소
+      * PostgreSQL은 Apache AG 프로젝트를 이용해 그래프 데이터베이스로 변환 가능
+      * 시계열 데이터에는 TimescaleDB를 활용하여 IoT 기기 메트릭을 모니터링하거나 사용자 활동 로그를 분석 가능
+        * 또한 TimescaleDB는 Grafana와 원활하게 작동한다.
+    * 8.💻텍스트 데이터 처리: Elasticsearch vs PostgreSQL Full-Text Search
+      * 텍스트 데이터 검색 시 'like' 문이 아닌 검색 엔진 사용 필요
+        * Elasticsearch는 불용어, 어간 추출 및 검색 결과 순위 매기기를 통해 유사 단어의 결과를 찾아 정렬
+      * 일반적 백엔드 설정에서는 Elasticsearch가 이 기능을 담당
+        * Elasticsearch는 다른 곳에서 데이터를 지속적으로 색인하고, PostgreSQL 데이터베이스와 통합하여 동일한 기능 제공 가능
+      * PostgreSQL의 전체 텍스트 검색 기능을 통합하면 데이터 동기화가 필요 없음. 항상 최신 색인을 제공, 인프라가 단순화, 유지보수가 더 용이
+      * 대부분의 프로젝트에서 Elasticsearch 클러스터를 실행하는 것은 과다하다고 생각하는 경우가 많음
+    * 9.💻PostgreSQL로 데이터 검색 및 머신러닝 모델 실행, 백엔드 단순화
+      * 텍스트 관련한 LLMs(대형 언어 모델)을 이용하여 open source LLM 모델을 쿼리하고, 데이터베이스 쪽에서 실행되는 챗봇을 상상
+      * PostgreSQL을 사용하면 데이터베이스 테이블 생성, PostgreSQL이 역할 기반의 액세스 제어 처리, 저장 프로시저를 사용하여 단순 CRUD 이상 제공
+      * PostgreSQL은 메시징, 메시지 대기열, 키-값 저장소, 객체 그래프 및 시계열 데이터 저장소, 전체 텍스트 검색 및 머신러닝 기능을 제공
+      * 또한, PostgreSQL에서는 저장 프로시저를 단위 테스트 가능, 이를 통해 웹 프레임워크와 같은 방식으로 코드를 테스트 가능
+    * 10.💻PostgreSQL과 GraphQL이 함께 동작하여 백엔드 인프라를 간소화
+      * PostgreSQL에서는 PG GraphQL 확장 기능으로 데이터와 GraphQL 엔티티 간 투명한 매핑을 제공하여 단일 함수 호출로 GraphQL 쿼리를 실행 가능
+      * PG GraphQL을 PostgREST와 결합하면 HTTP를 통해 GraphQL 쿼리를 실행 가능
+      * Omni 프로젝트는 컨테이너 관리, S3 파일 저장 및 결제 지원까지 모두 PostgreSQL 내에서 관리하는 아이디어 추구
+      * PostgreSQL은 ORM을 사용하여 백엔드 인프라를 더 간단하게 유지하고 이해하기 쉽게 만들거나 기업급 신뢰성 보장
+      * 다른 데이터베이스나 검색 클러스터 대신 PostgreSQL로 긴 여정을 함께하며 프로젝트에 장기적인 혜택을 창출 가능
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
