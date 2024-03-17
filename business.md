@@ -1559,6 +1559,7 @@ Business
         * 구성원의 안전하고 격려할 수 있는 조직 마인드 형성과 자신의 변화와 도전을 추구할 자신감과 대화하는 능력 필요
       * 따라서, 권유나 규칙을 강요하는 구성원들의 희생과 함께 성장하는 경영하는 것이 아닌, 심리적으로 안전한 조직문화의 중요성 강조
       * 중요한 것은 리더십의 변화이며, 조직문화에 대한 변화는 이와 관련된 문제를 할 수 있는 기관으로 실질적인 제도적인 지원이 필요
+* [스타트업에서 심리적 안정감이 중요한 이유(feat. 애자일)](https://eopla.net/magazines/13403)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
