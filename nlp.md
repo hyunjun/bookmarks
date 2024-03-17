@@ -2041,6 +2041,7 @@ NLP
     * [17. 폐쇄형 LLM 기반 개발 환경 구성 - YouTube](https://www.youtube.com/watch?v=CMfkhN6gwV0)
     * [일상이 AI #1. 나른한 토요일. 그냥 만들 수 있는 인공지능 채팅 애플리케이션. - YouTube](https://www.youtube.com/watch?v=6QbgzBEQzw0)
     * [일상이 AI #2 개인 PC에 나만의 인공지능 비서 만들어보기 - YouTube](https://www.youtube.com/watch?v=kAjnu7K8E8A)
+    * [Ollama, 이제 AMD 그래픽 카드 지원 | GeekNews](https://news.hada.io/topic?id=13838)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [ollamex: Ollamex is an Elixir wrapper of the ollama REST API](https://github.com/waseigo/ollamex)
