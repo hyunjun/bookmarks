@@ -1457,6 +1457,12 @@ Programming Books
 * (NOT YET) [스테이블 디퓨전으로 만드는 게임 그래픽](https://www.hanbit.co.kr/store/books/look.php?p_code=B5528771377)
   * 탐라 문004.76-야211ㅅ
   * [Little Land War SRPG](https://crocro.com/shop/item/llw_srpg.html)
+* (NOT YET) [밑바닥부터 시작하는 딥러닝 4](https://hanbit.co.kr/store/books/look.php?p_code=B6031814045)
+  * 한라 004.73-사68ㅁ-4
+  * [deep-learning-from-scratch-4: <밑바닥부터 시작하는 딥러닝 4>](https://github.com/WegraLee/deep-learning-from-scratch-4)
+* (NOT YET) [딥러닝의 정석 (2판)](https://hanbit.co.kr/store/books/look.php?p_code=B9066007111)
+  * 한라 004.73-부26ㄷ
+  * [Fundamentals-of-Deep-Learning-Book: Code companion to the O'Reilly "Fundamentals of Deep Learning" book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book)
 
 ## Machine Learning
 * [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/11/23/book-roadmap/)
@@ -2210,6 +2216,9 @@ Programming Books
 * (NOT YET) [Go 성능 최적화 가이드 – 디코딩](https://www.decoding.co.kr/product/go%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * 한라 005.133-플295ㄱ
   * [소프트웨어 실행 단계별 최적화 설계 수준 – 디코딩](https://www.decoding.co.kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%ED%96%89-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%84%A4%EA%B3%84-%EC%88%98%EC%A4%80/)
+* (NOT YET) [Go 언어로 배우는 웹 애플리케이션 개발](https://jpub.tistory.com/1520)
+  * 한라 005.133-시38ㄱ
+  * [go_todo_app: 書籍「詳解Go言語Webアプリケーション開発」のサンプルコードリポジトリです。](https://github.com/budougumi0617/go_todo_app)
 
 # Hadoop
 
