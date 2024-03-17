@@ -521,6 +521,8 @@ Programming Books
   * 한라 005.12-마888ㅅ
 * (NOT YET) [애자일 개발의 기술 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/agile-art)
   * 우당 문005.74-쇼63ㅇ
+* (NOT YET) [애자일 프로젝트 관리실무 | jscampus2023](https://www.jscampus.co.kr/agile)
+  * 우당 문005.1-안72ㅇ
 
 # Algorithm
 
