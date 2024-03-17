@@ -44,6 +44,7 @@ Bitcoin
 * [내 토큰을 맘대로 빼갈 수 있는 컨트렉트를 만들 수 있을까..?](https://medium.com/onther-tech/%EB%82%B4-%ED%86%A0%ED%81%B0%EC%9D%84-%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%B9%BC%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-3f607d3c5ceb)
 * [비트코인과 수학공식 (1/2)](https://brunch.co.kr/@amangkim/50)
 * [#51. Zeppelin Solidity의 SmartContract에 대해서 알아보자!(1)](https://steemit.com/kr/@kblock/52-zeppelin-solidity-smartcontract-1)
+* [solidity 확장 가능한 컨트랙트 설계 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223385982654)
 * [handshake - Decentralized certificate authority and naming](https://handshake.org/)
 * [Handshake domains are a scam | Akshat's Blog](https://akshat.sh/posts/handshake-scam/)
 * [춤추는 철학자의 문제, 검증 게임 그리고 사이드 체인과 데이터 가용성(Dancing philosophers problem, verification game, sidechain and data availability)](https://medium.com/onther-tech/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EA%B2%80%EC%A6%9D-%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%9A%A9%EC%84%B1-dancing-philosophers-problem-verification-game-sidechain-fa2b5e1e0ca3)
