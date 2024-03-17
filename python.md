@@ -1242,6 +1242,7 @@ Python
     * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
     * [Threads in Python: Speed Up Python With Concurrency - YouTube](https://www.youtube.com/watch?v=OtdL6jeyEE4)
     * [Python threads synchronization: Locks, RLocks, Semaphores, Conditions and Queues – Laurent Luce's Blog](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
+    * [Python Thread / Process 강제로 종료시키기](https://webnautes.tistory.com/2295)
   * [mpire: A Python package for easy multiprocessing, but faster than multiprocessing](https://github.com/sybrenjansen/mpire)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
