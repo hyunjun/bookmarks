@@ -762,6 +762,7 @@ AWS
 * [CloudFront와 ALB를 연동해 보기 | DevelopersIO](https://dev.classmethod.jp/articles/i-tried-linking-cloudfront-with-alb/)
 * [CloudFront 총 정리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIazkNsXM59WNVCY_6kwSnxU)
 * [AWS Lambda S3 Image Resize with URL Parameter (Cloudfront 요금 30% 감면)](https://tabmania.tistory.com/entry/AWS-Lambda-S3-Image-Resize-with-URL-Parameter) cost, image upload 최적화 등
+* [Terraform AWS CloudFront 인증서 오류](https://jybaek.tistory.com/1020)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
