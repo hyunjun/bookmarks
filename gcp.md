@@ -163,6 +163,8 @@ Google Cloud Platform GCP
   * [Deploying 🤗 ViT on Vertex AI](https://huggingface.co/blog/deploy-vertex-ai)
   * [LangChain에서 Vertex.AI LLM 사용하기](https://bcho.tistory.com/1395)
   * [서버리스 ML 훈련 인프라 구축하기: Vertex AI Pipelines & TFX | by Junseong Park (Johan) | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/gcp-vertex-ai-pipelines-%EC%82%AC%EC%9A%A9%EA%B8%B0-10b3387ba736)
+    * 당근마켓에서 GKE에서 Kubeflow 파이프라인으로 관리하다가 작년부터 Vertex AI Pipelines로 변경
+    * Vertex AI Pipelines는 매니지드 서비스라 운영의 부담을 덜 수 있었고 편리한 시각화와 주기적 재실행 등 편리한 기능 설명, 모니터링하는 방법도 소개
 * [GCP Recommendations AI(Retail) 서비스를 활용한 추천 서비스 구축 | by 윤원진 | 29CM TEAM | Dec, 2022 | Medium](https://medium.com/29cm/gcp-recommendations-ai-retail-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-eb68a0cd5d97)
 * [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
