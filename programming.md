@@ -4044,6 +4044,10 @@ Programming
     * CUE에서 프로그래밍 언어로 바뀌면서 재사용면에서는 프로그래밍 언어의 제약이 생겼다고 생각했는데
       * Dagger Function을 이용해서 언어가 달라도 사용 가능
       * 현재는 Go, Python, TypeScript의 가이드 제공, 다른 언어의 가이드도 추가 예정
+  * [Daggerverse](https://daggerverse.dev/)
+    * [Introducing the Daggerverse - Dagger](https://dagger.io/blog/introducing-the-daggerverse)
+      * 몇 주 전 Dagger에서 Dagger Functions라는 기능을 출시하면서 언어가 달라서 서로 호출 가능
+      * 그래서 Dagger Functions를 모듈화해서 공유할 수 있도록 레지스트리인 Daggerverse 공개
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
@@ -4670,6 +4674,13 @@ Programming
 * [How Platform and Site Reliability Engineering Are Evolving DevOps - InfoQ](https://www.infoq.com/articles/platform-sre-evolving-devops/)
 * [Is a continuous planning process in DevOps worth it? | TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/Is-a-continuous-planning-process-in-DevOps-worth-it)
   * [DevOps에서 지속적 계획 프로세스는 가치 있을까? | GeekNews](https://news.hada.io/topic?id=13227)
+* [Headcount benchmarks for DevProd teams](https://getdx.com/report/headcount-benchmarks-devprod-teams/)
+  * 개발자 생산성 관련 플랫폼인 DX에서 고객사 데이터를 분석해서 여러 회사의 총 엔지니어 인력과 중앙 집중식 생산성 팀의 입력 비율에 대해 정리한 보고서
+  * 개발자가 1,000명 미만인 회사는 평균 19%의 인력이 개발자 생산성 팀에
+    * 조직이 커질수록 비율은 줄어드는 경향
+    * 시리즈 C-E의 회사들은 21.7%
+    * 시리즈 F 이상은 평균 15.8%의 인력이 배치
+  * 각 회사가 중앙집중식 개발자 생산성 팀을 어떻게 구성하고 있는지에 대한 예시도 포함
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
