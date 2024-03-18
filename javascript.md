@@ -6107,6 +6107,8 @@ Javascript
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
+* [flyde: ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js](https://github.com/flydelabs/flyde)
+  * [Flyde - 개발자를 위한 비쥬얼 프로그래밍, 오픈소스 | GeekNews](https://news.hada.io/topic?id=13857)
 * [FnApi – FnApi](https://fnapi.dev/)
   * [fnapi: A function is enough](https://github.com/fnapi/fnapi)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
