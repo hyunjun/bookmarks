@@ -2961,6 +2961,11 @@ Business
   * UX 문구에 관해서 좋은 지표를 만들기 위해 사용자에게 불편함을 주는 다크 패턴이나 컴펌 쉐이밍(Confirm shaming)을 다룬 글
   * 컴펌 쉐이밍은 서비스가 원하는 액션을 수행하지 않을 때 사용자가 불안감이나 수치심을 느끼는 "혜택을 포기할래요"나 "비싸게 구매하기" 같은 문구
   * 이러한 접근은 지표는 오를지 몰라도 사용자에게 안 좋은 경험을 주기 때문에 서비스 자체에 대한 불신을 주어서 안 좋다
+* [서비스에서 넛지를 추구하면 안 되는 걸까 | Cojette의 Data Wonderland](https://cojette.github.io/posts/servicenudge/)
+  * 넛지 nudge 와 다크패턴 dark pattern 을 설명하는 글
+  * 넛지는 사용자가 더 나은 결정을 할 수 있도록 유도하는 방식
+  * 다크 패턴은 사용자를 속여서 의도하지 않는 선택을 하도록 유도하는 전략
+  * 둘을 구분해서 사용해야 한다
 * [화이트 넛지가 새로운 UX 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/162)
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
 * ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)
