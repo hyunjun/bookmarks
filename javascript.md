@@ -1808,6 +1808,13 @@ Javascript
   * Astro, Gatsby, Next.js, Nuxt, Remix, SveltKit 선정, 비교를 위해 WordPress의 데이터도 같이 참고
   * 각 웹 프레임워크의 Core Web Vitals의 각 항목과 Lighthouse로 비교
 * [내가 싫어하는 JS/TS 라이브러리들 - DEV Community](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
+* [Hono vs. H3 vs. HatTip vs. Elysia - modern server(less) replacements for Express - DEV Community](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
+  * Node.js의 웹프레임워크인 express가 꽤 오래되었기 때문에 최근 요구사항에 따라 서버리스나 엣지 환경에서 실행할 수 있는 프레임워크의 대안 설명
+  * Hono, h3, Hattip, ElysiaJS를 설명하고 인기도와 벤치마크 비교
+  * [Hono - Ultrafast web framework for the Edges](https://hono.dev/)
+  * [h3 · UnJS](https://h3.unjs.io/)
+  * [hattip: Like Express, but for the future](https://github.com/hattipjs/hattip)
+  * [Elysia - Ergonomic Framework for Humans | ElysiaJS](https://elysiajs.com/)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -2312,6 +2319,12 @@ Javascript
     * 그동안 데이터를 효과적으로 보여주기 위한 노트북을 제공했는데 이는 임시적인 데이터 탐색에는 적합하지만 세련된 대시보드와 앱에는 부적합
     * 그래서 프레임워크를 만들게 되었고 이를 이용해서 데이터앱 구축
     * 모든 백엔드 언어와 연결이 가능하고 빌드시에 데이터로더가 실행되기 때문에 페이즈 로딩이 아주 빠름
+  * [Observable: Build expressive charts and dashboards with code](https://observablehq.com/product)
+  * [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
+    * Observable에서 최근 공개한 Observable Framework의 장점을 소개한 글
+    * Observable Framework는 기본적으로 정적 사이트 생성기, 마크다운 내에서 자바스크립트를 사용 가능
+      * 의존하는 셀의 데이터를 변경하면 다른 곳도 즉각적으로 변경, 데이터로 빌드 시에 로딩되기 때문에 아주 빠름
+    * 마크다운만 관리하면 되기 때문에 관리하기가 쉬워서 빠르게 대시보드 작성 가능
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
   * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku. https://oclif.io ](https://github.com/oclif/oclif)
   * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
@@ -5089,7 +5102,16 @@ Javascript
   * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
   * [Gatsby vs NextJS: Which Should You Use? | by Abhay Ganjoo | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/gatsby-vs-nextjs-which-should-you-use-84a72131d06a)
   * [카카오페이 기술 블로그는 어떻게 만들었을까요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-techlog/)
-  * [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것. Gastby로 랜딩 페이지 만들기 개발 회고 및 팁 | by Hyeonsu Jung | 당근 테크 블로그 | Oct, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
+  * [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것. Gatsby로 랜딩 페이지 만들기 개발 회고 및 팁 | by Hyeonsu Jung | 당근 테크 블로그 | Oct, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
+  * [The End Of My Gatsby Journey — Smashing Magazine](https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/)
+    * 독특한 데이터 계층과 SSG(Static Site Generator) 덕분에 인기를 끌은 Gatsby가 점점 인기를 잃고 Netlify에 인수된 후 개발까지 중단
+      * 오랫동안 Gatsby를 좋아하고 사용하던 개발자가 더 이상 Gatsby를 안 쓰기로 하면서 Gatsby에 무슨 문제가 있었는지를 정리한 글
+    * 수익을 내기 위해서 Gatsby Cloud를 도입하면서 증분 빌드 등의 추가 기능을 Gatsby Cloud에서만 사용 가능, 다른 클라우드에서는 쓰기 어렵게 만듦
+      * 그래서 Vercel과 경쟁에서 이기지 못했고
+      * Netlify에 인수 이후에 Gatsby Cloud 기능이 Netlify로 이전될 것이라고 했지만 실현 되지 않았고 Netlify는 직원을 대부분 해고
+    * Netlify의 CEO인 Matt Biilmann은 Gatsby가 Next.js와의 혁신 경쟁을 포기하고 깨끗하고 안정적인 프레임워크로 유지하는데 집중한다고 발표
+    * Gatsby가 사용자에게 외면받은 이유는 의존성이 너무 많아서 다루기 어려웠고 개발 속도와 빌드 속도가 너무 느렸기 때문
+    * 그럼에도 Gatsby가 잘한 부분은 GraphQL 데이터 레이어, 클라이언트 성능, 플러그인 생태계
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
