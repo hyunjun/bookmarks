@@ -423,6 +423,8 @@ Monitoring
     * 서비스팀에서 Prometheus 계측과 라이브러리로 엔드포인트를 변경하는 단계로 진행
 * [14. 프로메테우스 – 쿠버네티스 모니터링 시스템 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-12-20-kubernetes-14/)
 * [A brief illustrated history of Prometheus](https://fusakla.cz/presentations/brief-illustrated-history-of-prometheus/)
+* [이루다 서버의 모니터링 스택을 소개합니다 – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/spring-boot-monitoring-with-prometheus/)
+  * [스프링 부트 서버 모니터링하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2280/)
 * [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
   * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
