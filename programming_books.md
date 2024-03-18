@@ -3122,6 +3122,14 @@ Programming Books
   * [리그 오브 레전드 플레이어 중심주의. Date: October 29, 2023 Score: ★★★☆☆ | by Jun | Oct, 2023 | Medium](https://nymets.medium.com/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A4%91%EC%8B%AC%EC%A3%BC%EC%9D%98-a9c510388605)
   * [리그 오브 레전드 플레이어 중심주의 - 골든래빗 - Jun’s Substack](https://recur.substack.com/p/87c)
   * [리그 오브 레전드 플레이어 중심주의](https://jh4hj.tistory.com/entry/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A4%91%EC%8B%AC%EC%A3%BC%EC%9D%98)
+* [안녕하세요, 오늘부터 매니저입니다 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003912)
+  * ★★★★☆ 2024.03.17~18 engineering management에 대한 매우 좋은 책. 별 생각없이 읽었는데 기대에 비해 훨씬 좋은 내용들로 가득했다. 현재 상황에 맞춰서 돌아보고, 또 앞으로 어떻게 해야 할지 방향이 흔들리던 부분이 있었는데 그런 부분을 잡아줘서 더 좋았다. 가장 좋았던 문장 딱 하나만 고르면 ’출시는 습관처럼 하는 거야’. Routine을 형성하고 반복적으로 cycle을 돌리는 것의 가치를 만드는 건 정말 어렵지만 그래서 더 지향점으로 잡아야 하겠단 생각을 다시 한 번 한다. 물론 문서화나, 사람들간의 관계 형성에 대한 부분 역시 지나치면 안 될, 항상 기억해야 할 부분이다. 원제는 An elegant puzzle인데, 번역서 제목도 나쁘진 않지만 원서 제목이 (우리말로 쓴다고 해도) 훨씬 멋지단 생각이다.
+  * 한라 325.2-라57ㅇ
+  * [안녕하세요, 오늘부터 매니저입니다](https://1003.notion.site/5564c34c4a2f4de3914212e501e2bcf7)
+  * [안녕하세요, 오늘부터 매니저입니다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/an_elegant_puzzle.md)
+  * [안녕하세요, 오늘부터 매니저입니다. ★★★★☆ March 17, 2024 → March 18, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9E%85%EB%8B%88%EB%8B%A4-878ca556989c)
+  * [안녕하세요, 오늘부터 매니저입니다 - Jun’s Substack](https://recur.substack.com/p/1f6)
+  * [안녕하세요, 오늘부터 매니저입니다](https://jh4hj.tistory.com/entry/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9E%85%EB%8B%88%EB%8B%A4)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -3219,8 +3227,6 @@ Programming Books
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
   * 한라 325.24-클294ㅇ
-* (NOT YET) [안녕하세요, 오늘부터 매니저입니다 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003912)
-  * 한라 325.2-라57ㅇ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
