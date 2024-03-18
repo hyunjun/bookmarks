@@ -212,6 +212,11 @@ Redis
     * ElastiCache에서 이벤트에 대한 설정이 되어 있지 않아서 삭제 처리가 안 되었음을 발견
 * [팔로우 기능 개발 노트 - Feed | Disquiet\*](https://disquiet.io/@jeong7331/makerlog/1503)
 * [ElastiCache 운영을 위한 우아한 가이드: 초고속 메모리 분석 툴 개발기와 레디스 운영 노하우 소개 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=JH07ABaRPWo)
+* [New for Amazon ElastiCache for Redis 7: Get up to 72% better throughput with enhanced I/O multiplexing | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/enhanced-io-multiplexing-for-amazon-elasticache-for-redis/)
+  * 실제 바닐라 Redis에는 없는 피처로 보임
+    * ElastiCache 에서는 Enhanced IO Multiplexing 이라고 해서, 각각의 스레드가 클라이언트들을 묶어서 컨트롤 하는 방식 사용(Netty 에서의 IOGroup 같은
+    * Redis 가 싱글스레드라, 클라이언트가 많을수록 IO담당 스레드에서 시간이 길어질 수 밖에 없는데, 이 부분이 개선
+    * 특히 클라이언트 수에 따라서 성능 변화가 생길수가 있는데, 그런 부분에서 7.0에서는 개선
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
