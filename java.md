@@ -2422,6 +2422,12 @@ Java
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 * [테스트 데이터 초기화에 @Transactional 사용하는 것에 대한 생각](https://jojoldu.tistory.com/761)
 * [테스트가 관리하는 트랜잭션 - 향로 님의 @Transactional 글을 읽고](https://tobyepril.tistory.com/8)
+  * 스프링에서 `@Transactional`을 이용한 롤백 테스트에 대한 향로님의 글에 대해 토비님 의견
+  * 기술에서 안티패턴은 많은 경우 동작 방식을 제대로 이해 못한 경우에 발생
+  * 토비님은 이 글에서 테스트에서 `@Transactional`이 어떻게 동작하는지 설명
+    * 이 문제가 `@Transactional`의 문제인지 트랜잭션 테스트 자체의 문제인지 짚고
+    * 팀의 상황에 따라 여러 가지 테스트 스타일을 사용할 수 있지만
+    * 기본적으로 스프링의 `@Transactional`을 기본으로 쓰고 트랜잭션 상황을 잘 이해하고 있어야 한다고 이야기
 * [테스트에서 @Transactional 을 사용해야 할까? - YouTube](https://www.youtube.com/watch?v=PDhN6aiF7QQ)
 * [실전에서 TDD하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/)
 * [자바에서 클래스를 활용한 사용자 정의 타입으로 코드 가독성과 신뢰성 높이기](https://blog.anyjava.net/146)
