@@ -1233,6 +1233,9 @@ Git
 * [kargo: Application lifecycle orchestration](https://github.com/akuity/kargo)
   * [Introducing Kargo | Akuity](https://akuity.io/blog/introducing-kargo/)
     * Argo 프로젝트를 만드는 Akuity에서 GitOps에 맞게 CD 파이프라인을 재구성, 각 스테이지를 연결해서 배포 조건, 생명 주기, 테스트를 설정 가능
+* [capacitor: A general purpose UI for FluxCD](https://github.com/gimlet-io/capacitor)
+  * [Introducing Capacitor, a general purpose UI for Flux | Flux](https://fluxcd.io/blog/2024/02/introducing-capacitor/)
+    * GitOps 도구인 Flux가 지금까지는 CLI만 있었지만 이번에 Capacitor라는 GUI를 도입
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
