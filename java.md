@@ -2431,6 +2431,7 @@ Java
 * [테스트에서 @Transactional 을 사용해야 할까? - YouTube](https://www.youtube.com/watch?v=PDhN6aiF7QQ)
 * [실전에서 TDD하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/)
 * [자바에서 클래스를 활용한 사용자 정의 타입으로 코드 가독성과 신뢰성 높이기](https://blog.anyjava.net/146)
+* [private 메서드를 테스트하고 싶을 때 어떻게 대처할 것인가](https://velog.io/@balparang/private-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EC%B2%98%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
