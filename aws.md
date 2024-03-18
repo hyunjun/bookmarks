@@ -2278,6 +2278,7 @@ AWS
 * [AWS Schema Conversion tool(SCT)를 활용하여 Google BigQuery에서 Amazon Redshift로 마이그레이션하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/migrate-google-bigquery-to-amazon-redshift-using-aws-schema-conversion-tool-sct/)
 * [Amazon Redshift 감사 로그 검색을 위한 데이터 파이프라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/redshift-audit-log-data-pipeline/)
 * [Amazon Redshift – Amazon Q를 포함한 새로운 AI 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
+* [Amazon Redshift Serverless에서 SQL 쿼리 스케줄링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scheduling-with-query-editor-v2-on-amazon-redshift-serverless/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
