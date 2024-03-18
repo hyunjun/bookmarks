@@ -282,6 +282,10 @@ Web
 * [Core Web Vitals under control by Marta Wiśniewska - YouTube](https://www.youtube.com/watch?v=Q7yBANAidq4)
 * [Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
   * 2022년 INP(Interaction to Next Paint)를 실험적으로 도입해서 테스트한 결과 FID(First Input Delay) 대신 INP를 Core Web Vitals 메트릭으로 채택, 2024년 3월부터 적용 예정
+* [Interaction to Next Paint is officially a Core Web Vital 🚀  |  Blog  |  web.dev](https://web.dev/blog/inp-cwv-launch)
+  * Core Web Vital에 포함된 항목 중 FID(First Input Delay)를 대체하기 위해서 2022년부터 준비한 INP(Interaction to Next Paint)가 이제 안정화
+    * INP가 Core Web Vital에 포함
+  * Chrome도 공식적으로 FID 지원을 중단하고 개발자도 24년 9월 9일까지 FID에서 INF로 전환 필요
 * [구글의 프론트엔드 성공 지표 ‘Core Web Vitals’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2036/)
 * [How Core Web Vitals affect application SEO: Understanding Google page experience ranking and Lighthouse scores – Vercel](https://vercel.com/blog/how-core-web-vitals-affect-seo)
   * Google은 Core Web Vitals로 사이트의 성능을 평가해서 SEO에 반영
@@ -1984,6 +1988,14 @@ Web
 * [A Survey and Taxonomy of Latency Compensation Techniques for Network Computer Games | ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3519023)
   * [멀티-플레이어 게임 서버와 레이턴시 보상 테크닉 | by scalalang2 | 취미로 논문 읽는 그룹 | Medium](https://medium.com/rate-labs/%EB%A9%80%ED%8B%B0-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EC%9A%94-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EB%B3%B4%EC%83%81-%ED%85%8C%ED%81%AC%EB%8B%89-253640eb57d6)
   * [멀티-플레이어 게임 서버와 레이턴시 보상 테크닉 | GeekNews](https://news.hada.io/topic?id=13515) 게임에 대한 이야기이지만 여러가지 관점에서 생각을 해볼만하게 하는 좋은 글
+* [The 202402 dataset is live](https://groups.google.com/a/chromium.org/g/chrome-ux-report-announce/c/Wg2Wqq6u3QI?pli=1)
+  * Google Chrome에서 실제 사용자가 경험하는 웹사이트 성능을 측정한 데이터 세트인 CrUX의 2024년 2월 데이터가 BigQuery에 등록, 직접 조회 가능
+    * LCP가 good을 경험한 사용자는 61.3%
+    * FID가 good을 경험한 사용자는 96.2%
+    * CLS가 good을 경험한 사용자는 76.6%
+    * LCP, CLS, FID 모두 good을 경험한 사용자는 48.8%
+    * INP가 good을 경험한 사용자는 80.6%
+    * LCP, CLS, INP가 모두 good을 경험한 사용자는 45.6%
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -2017,6 +2029,11 @@ Web
   * [What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/)
     * 최근 PageSpeed Insights의 UI를 개편하면서 개선한 내용 설명
     * 성능의 필드 데이터와 실험실 데이터를 명확히 이해할 수 있도록 구분해서 보여주고 모바일/데스크톱의 성능을 구분해서 보여주는 UI 등이 변경
+* [Speedometer 3](https://browserbench.org/Speedometer3.0/)
+  * [Speedometer 3.0: The Best Way Yet to Measure Browser Performance | WebKit](https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/)
+    * Apple WebKit 팀이 Blink, Gecko 등의 주요 브라우저 엔진 개발자들과 협업해서 브라우저 성능을 측정하는 Speedometer 3.0 공개
+    * Speedometer는 다른 벤치마크 도구와는 달리 TodoMVC 앱을 구동해서 실제 웹 앱이 동작하는 것을 테스트 가능
+    * 더 복잡한 앱과 다양한 콘텐츠, 차트, 코드 에디터, WYSIWIG 에디터를 테스트에 추가해서 브라우저 성능을 제대로 측정 가능
 * [the-benchmarker/web-frameworks: Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
 * [ttvc: Measure Visually Complete metrics in real time](https://github.com/dropbox/ttvc)
   * [We’re using TTVC to measure performance on the web—and now you can too - Dropbox](https://dropbox.tech/frontend/measuring-ttvc-web-performance-metric-open-source-library)
