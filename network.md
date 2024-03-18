@@ -225,6 +225,8 @@ Network
 * [I've been abusing HTTP Status Codes in my APIs for years | Blog|SlimJim](https://blog.slimjim.xyz/posts/stop-using-http-codes/)
 * [7XX-rfc: An RFC for a new series of HTTP status codes covering developer fouls](https://github.com/joho/7XX-rfc)
 * [데이터가 없을 때 200인가 404인가?. 오류가 아닌데 왜 4xx로 반환하는 거예요? | by Jinyoung Ko | Nov, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df)
+* [**서비스 규모가 일정 규모 이상 커지면 마주하게 되는 것들 중 하나 | by HanByul Lee | Mar, 2024 | Medium**](https://medium.com/@starrybleu/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B7%9C%EB%AA%A8%EA%B0%80-%EC%9D%BC%EC%A0%95-%EA%B7%9C%EB%AA%A8-%EC%9D%B4%EC%83%81-%EC%BB%A4%EC%A7%80%EB%A9%B4-%EB%A7%88%EC%A3%BC%ED%95%98%EA%B2%8C-%EB%90%98%EB%8A%94-%EA%B2%83%EB%93%A4-%EC%A4%91-%ED%95%98%EB%82%98-19411114dac6)
+  * 429 Too many requests, 502 Bad gateway, 503 Service unavailable 준비하는 습관을 들이자는 이야기
 * [The HTTP headers you don't expect](https://frenxi.com/http-headers-you-dont-expect/)
 * [User-Agent Client Hints의 도입, UA 프리징을 대비하라](https://d2.naver.com/helloworld/6532276)
 * [HTTP 정리](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312)
