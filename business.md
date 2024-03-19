@@ -2334,6 +2334,7 @@ Business
   * 제품의 시기에 따라 영업의 결과도 달라지는데 기업은 초기 매출을 극대화하기 위해 기능이 많은 제품을 개발하지만, 이후에는 고객 유지를 극대화하기 위해서 기능보다는 사용 편의성을 우선시해야 함
   * 또한 기능이 많아지면 유지보수도 많아져서 속도도 느려지게 되므로 조심해야
 * [가입은 쉽게, 로그인은 실패 없이! 휴대폰번호로 계속하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15895/)
+* [Retention is King..?. 그래서 리텐션이 10% 오르면, 매출이 얼마나 늘어나요? | by Stephan Seunghwan Seo | DelightRoom | Mar, 2024 | Medium](https://medium.com/delightroom/retention-is-king-86d4ec34ac37)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
