@@ -276,6 +276,7 @@ Docker
     * [spring boot docker - YouTube](https://www.youtube.com/watch?v=HXgHgYRr3eY)
     * [Using JLink to create smaller Docker images for your Spring Boot Java application | Snyk](https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/)
     * [도커 기초 명령어 #스프링-부트 - YouTube](https://www.youtube.com/watch?v=xurih1ca0jk)
+    * [Slim Docker Images for Java - Piotr's TechBlog](https://piotrminkowski.com/2023/11/07/slim-docker-images-for-java/)
   * javascript
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
     * [Docker Best Practices for Node Developers](https://morioh.com/p/7dea17309e0e)
