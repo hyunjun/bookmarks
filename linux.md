@@ -944,6 +944,7 @@ Linux
   * [sshx](https://sshx.io/) 웹 기반으로 실시간 협업이 가능한 터미널
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
+  * [authorized_keys 파일을 직접 수정하지 말고 ssh-copy-id 프로그램 사용](http://ohyecloudy.com/ddiary/2024/03/03/ssh-copy-id/)
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
   * `stat -c%s <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
@@ -1031,6 +1032,8 @@ Linux
     * [리눅스 환경에서 프로세스 동작을 모니터링하는 도구 소개 #top #htop #qps - YouTube](https://www.youtube.com/watch?v=nZ9yKKejRiE)
     * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
   * [highest-cpu.sh](https://gist.github.com/Sangdol/168b3a687b2becc2f74d1d5a5f7670f5) Threadhold 값 (30%) 이상 CPU 점유하고 있는 프로세스 중 가장 높은 CPU 점유하고 있는 프로세스 반환
+  * [nvtop: GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm](https://github.com/Syllo/nvtop)
+    * [Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터 | GeekNews](https://news.hada.io/topic?id=13792)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
