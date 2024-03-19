@@ -179,6 +179,7 @@ iOS
 * [TCA 1.0 - Testable Code (ch.09) :: iOYES](https://green1229.tistory.com/452)
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 * [Meet the Screen Time API (WWDC21) :: iOYES](https://green1229.tistory.com/456)
+* [What's new in Screen Time API (WWDC 22) :: iOYES](https://green1229.tistory.com/457)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
