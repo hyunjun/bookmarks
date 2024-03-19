@@ -2239,6 +2239,34 @@ Business
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Linear vs. Honest vs. Strategic Roadmap](https://www.linkedin.com/posts/wirtzdan_linear-vs-honest-vs-strategic-roadmap-activity-6917095504090660865-s9Cx/)
 * [스타트업을 위한 첫 '프로덕트 로드맵' 설정하는 법 - wishket](https://blog.wishket.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B2%AB-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95/)
+* [Paweł Huryn on X: "Many PMs struggle to explain the difference between Vision, Strategy, Objectives, and Roadmap. But those are extremely simple concepts. Let's tackle them one by one: 🧵 https://t.co/mP30RIf2kI" / X](https://twitter.com/PawelHuryn/status/1765754015516701137)
+  * 1. Product Vision (Why)
+    * Product Vision is the long-term aspiration of your product. It motivates your team to wake up every morning and go to work.
+    * For example, “Send humans to the Moon” or “Help tour operators focus on doing what they love.”
+    * Effective vision needs to be inspiring and emotional. It becomes much more memorable when it speaks to people's hearts.
+    * My favorite example is the JFK Moon speech: [JFK Moon Speech - YouTube](https://www.youtube.com/watch?v=th5A6ZQ28pE)
+  * 2. Product Strategy (How)
+    * Strategy is not a plan, a goal, or a set of actions.
+    * It's a cohesive set of choices (bets) that you believe will allow you to win (achieve your Vision) at the playing field of your choice:
+      * market and its constraints (e.g., geography)
+      * value proposition
+      * relative costs
+      * tradeoffs
+      * growth
+  * 3. Objectives (What)
+    * What are you trying to achieve next?
+    * I encourage you to use the OKR framework. It's a simple, incredibly effective approach for setting, monitoring, and achieving your goals.
+    * While following the SMART goals principle (Specific, Measurable, Achievable, Relevant, and Time-Bound), OKRs add an additional, inspirational aspect to the Objective.
+    * 2 months ago, I published a free guide on OKRs: [Paweł Huryn on X: "A free guide to Objectives And Key Results (19 pages, PDF): 1. Two Approaches to OKRs 2. Why Do We Need OKRs? 3. What Exactly Are OKRs? 4. OKRs: A Quarter Step-by-Step 5. OKRs: Best practices and common mistakes 6. OKRs: Advanced Techniques 7. Conclusions https://t.co/NbkNEUu9P0" / X](https://twitter.com/PawelHuryn/status/1744042179520069800)
+  * 4. Product Roadmap (So What & When)
+    * Product Roadmap is a communication tool that allows you to align everyone in the organization. It creates focus on what’s important right now. It should also explain the reasoning behind it.
+    * It's important to:
+      * Focus on outcomes and objectives, not features
+      * Do not commit too soon
+      * Shorten the planning horizon
+      * Remember, any dates are just estimates
+      * Keep it simple and high-level
+    * My favorite format is the Now-Next-Later. Free template: [PM Now-next-later outcome-based roadmap by Pawel Huryn.pptx - Google Slides](https://docs.google.com/presentation/d/1a_38O6eGaOjXeD9G86dAhD_nBAwnJ51u/edit#slide=id.g1c8ade8ae54_0_0)
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
