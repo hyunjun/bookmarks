@@ -78,6 +78,7 @@ Google Cloud Platform GCP
 * [GCP BigQuery, Storage - Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2023/06/20/gcp-bigquery-storage-python/)
 * [New BigQuery SQL capabilities on tap | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/new-bigquery-sql-capabilities-on-tap?hl=en)
   * 근본적인 SQL 능력의 발전에 대해서 잘 정리된 article
+* [초보자를 위한 BigQuery(SQL) 입문( 무료 강의) | GeekNews](https://news.hada.io/topic?id=13811)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
