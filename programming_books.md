@@ -3388,6 +3388,7 @@ Programming Books
   * 한라 331.17-바74ㄱ 우당 문325.24-바73ㄱ
 * (NOT YET) [두려움 없는 조직](https://brunch.co.kr/@912bfe1501bd49e/7) 심리적 안전감
   * 탐라 문325.3-에228ㄷ 제주 325.3-에228두
+  * [Book 두려움 없는 조직 - 심리적 안정감은 어떻게 조직의 학습, 혁신, 성장을 일으키는가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1711)
 * (NOT YET) [리더는 어떻게 생각하고 행동해야 하는가](https://brunch.co.kr/@lukekim21/12)
   * 한라 325.24-노76ㄹ 제주 325.24-노77리
   * [리더는 어떻게 생각하고 행동해야 하는가](https://www.linkedin.com/posts/annette-meejeong-kim_%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%97%90%EA%B2%8C-%ED%9D%94%ED%9E%88-%EB%B0%9B%EB%8A%94-%EC%A7%88%EB%AC%B8-%EC%A4%91-%ED%95%98%EB%82%98%EA%B0%80-%EB%A6%AC%EB%8D%94%EC%8B%AD%EC%9D%80-%ED%83%80%EA%B3%A0-%EB%82%98%EB%8A%94-%EB%8A%A5%EB%A0%A5%EC%9D%B8%EA%B0%80-activity-7169645930806231040-DA6v/)
