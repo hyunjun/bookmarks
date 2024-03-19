@@ -234,6 +234,9 @@ Redis
     * [Dragonflydb – A modern replacement for Redis and Memcached | Hacker News](https://news.ycombinator.com/item?id=31560547)
 * [findstival: Redis Hackathon on DEV Project](https://github.com/Quadricular/findstival)
   * [Findstival: Python + Redis Festival Tracker - DEV Community 👩💻👨💻](https://dev.to/danielmgzzg/findstival-python-redis-festival-tracker-29p5)
+* [Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients](https://github.com/microsoft/garnet)
+  * [Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services - Microsoft Research](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
+    * 레디스 호환 프로토콜 사용, 레디스보다 더 높은 처리량 제공
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [ioredis: 🚀 A robust, performance-focused and full-featured Redis client for Node.js](https://github.com/luin/ioredis)
