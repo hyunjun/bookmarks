@@ -1718,6 +1718,45 @@ AWS
 * [Development Best Practices (The Ultimate Guide to AWS Lambda Development Chapter 1) | by George Mao | Jan, 2024 | Medium](https://georgemao.medium.com/development-best-practices-the-ultimate-guide-to-aws-lambda-development-chapter-1-1ba3d3c219b9)
 * [Build & Deploy Tips(The Ultimate Guide to AWS Lambda Development Chapter 2) | by George Mao | Jan, 2024 | Medium](https://georgemao.medium.com/build-deploy-tips-the-ultimate-guide-to-aws-lambda-development-chapter-2-60f7b3c0b0cc)
 * [Optimize Everything + re-optimize (The Ultimate Guide to AWS Lambda Development Chapter 3) | by George Mao | Feb, 2024 | Medium](https://georgemao.medium.com/optimize-everything-re-optimize-the-ultimate-guide-to-aws-lambda-development-chapter-3-ed4ad85761cc)
+* [AWS Lambda Under the Hood - InfoQ](https://www.infoq.com/presentations/aws-lambda-arch/)
+  * Claude 3 Sonnet v1
+    * 소개
+      * Lambda는 서버리스 컴퓨팅 시스템으로 요청에 따라 코드를 실행할 수 있음
+      * 간단한 Hello World 함수 예시와 Lambda 테넌트(가용성, 효율성, 확장성, 보안, 성능) 소개
+    * 호출 라우팅 계층
+      * 모든 마이크로서비스를 연결하고 실행 환경에 접근할 수 있게 해주는 중요한 계층
+      * 워커 매니저에서 할당 서비스로 변경하여 가용성과 내결함성 개선
+      * 분산 상태 저장소를 통해 샌드박스 상태 관리
+    * 컴퓨팅 인프라
+      * 실제 코드를 실행하는 부분
+      * Firecracker 가상화 기술 도입으로 강력한 데이터 격리와 효율성 향상
+      * 스냅샷 기술로 콜드 스타트 제거
+        * 레이어링된 스냅샷으로 공통 청크 공유
+        * 수렴 암호화로 알 수 없는 파일의 중복 제거
+        * 메모리 액세스 패턴 기록으로 효율성 극대화
+    * 결론
+      * Lambda는 클라우드에서 코드를 실행하는 간단한 아이디어 실현을 위해 다양한 기술적 노력이 필요함
+      * 가용성, 보안, 효율성, 성능의 균형을 맞추기 위한 끊임없는 노력
+  * Claude 3 Haiku v1
+    * AWS Lambda는 서버리스 컴퓨팅 시스템으로, 사용자가 서버를 소유, 프로비저닝 또는 관리할 필요 없이 코드를 실행할 수 있게 해줍니다.
+    * 주요 구성 요소:
+      * 호출 라우팅 계층: 마이크로서비스를 연결하고 확장성을 제공하는 역할
+      * 컴퓨팅 인프라: 코드를 실제로 실행하는 인프라
+    * 주요 특징:
+      * 가용성: 항상 사용 가능하도록 설계
+      * 효율성: 리소스를 신속하게 할당하고 해제하여 낭비를 최소화
+      * 확장성: 수요에 맞춰 빠르게 확장 및 축소
+      * 보안: 실행 환경을 안전하게 제공
+      * 성능: 응용 프로그램 논리에 최소한의 오버헤드를 추가
+    * 호출 라우팅 계층:
+      * 워커 매니저에서 할당 서비스로 변경
+      * 분산 저장소를 통해 상태 정보를 유지하여 가용성 향상
+    * 컴퓨팅 인프라:
+      * Firecracker 가상화 기술을 사용하여 강력한 격리와 효율성 확보
+      * 스냅샷을 통해 코드 초기화 지연 문제 해결
+    * 스냅샷 관리:
+      * 가상 머신 스냅샷을 S3에 저장하고 필요한 부분만 온디맨드로 로드
+      * 공통 부분 중복 제거 및 계층화를 통해 효율성 향상
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
