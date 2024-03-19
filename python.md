@@ -1329,6 +1329,7 @@ Python
   * pyroscope [Open Source Continuous Profiling Platform | Debug performance issues down to a single line of code | Open Source Continuous Profiling Platform](https://pyroscope.io/)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals](https://github.com/plasma-umass/scalene)
+    * [‘Scalene’ offers efficiency suggestions for Python coders](https://www.itbrew.com/stories/2024/01/17/scalene-offers-efficiency-suggestions-for-python-coders)
   * [Sciagraph, performance observability for Python batch jobs](https://www.sciagraph.com/)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
