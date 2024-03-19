@@ -4873,6 +4873,7 @@ Programming
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Min Sans - 민 산스, 프로덕트 디자인에 적합한 폰트를 만들어가고 있습니다](https://github.com/poposnail61/min-sans)
 * [Monaspace](https://monaspace.githubnext.com/)
+* [Nanofont3x4: 가장 작은 소문자 지원 3x4 글꼴 | GeekNews](https://news.hada.io/topic?id=13868)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
 * [noto-kr-vf-distilled: 용량을 줄인 Noto Sans 및 Noto Serif 가변폰트](https://github.com/akngs/noto-kr-vf-distilled)
