@@ -400,6 +400,8 @@ Programming
   * Mistral 7B Instruct
     * 이 Liz Fong-Jones 와 Marit van Dijk 는 GOTO Copenhagen 2023에서 개발자 경험, 효율적인 커뮤니케이션 및 Site Reliability Engineering(SRE) 전략에 대해 논의했습니다. 그들은 장벽 없는 도구, "당신이 만들면 당신이 운영합니다" 정책 및 SRE 팀이 개발팀에 도움을 줄 수 있는 방법에 대해 논의했습니다. 그들도 효율적인 팀 커뮤니케이션, 소프트웨어 종속성 관리 및 소프트웨어 개발의 협력 동향에 대해 논의했습니다. 이 대화는 효율적인 커뮤니케이션, 지식 공유 및 협력적인 접근 방식을 통해 개발자가 행복하고 생산적인 상태를 유지하는 데 중요한 점을 강조합니다.
   * Llama 2 Chat 70B - Text playground/Chat playground 동작 안 해서 확인 못 함
+* [SRE를 조금 더 적확하게 표현하자면 'Outage Management'](https://www.linkedin.com/posts/jaehun-kim-7a885ba4_outage-management-%ED%98%84%EC%9E%AC-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%9D%BC%EC%9D%84-%EC%A1%B0%EA%B8%88-%EA%B7%B8%EB%9F%B4%EC%8B%B8%ED%95%98%EA%B2%8C-activity-7175002225474220033-1LNM/)
+  * 모니터링 시스템, 운영 프로세스, 정책
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
