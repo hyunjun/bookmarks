@@ -2130,3 +2130,11 @@ Book
   * [Several short sentences about writing 짧게 잘 쓰는 법](https://recur.substack.com/p/several-short-sentences-about-writing)
   * [Several short sentences about writing 짧게 잘 쓰는 법](https://jh4hj.tistory.com/entry/Several-short-sentences-about-writing-%EC%A7%A7%EA%B2%8C-%EC%9E%98-%EC%93%B0%EB%8A%94-%EB%B2%95)
   * [Several short sentences about writing 짧게 잘 쓰는 법](https://www.notion.so/1003/Several-short-sentences-about-writing-e1b263478e19428d8f593e50be657b74)
+* [이토록 간결한 글쓰기](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B7457234509)
+  * ★★★☆☆ 2024.03.19
+  * 제주 325.484-로73이
+  * [이토록 간결한 글쓰기](https://1003.notion.site/d6f30c6c2d3f424bbafe07effafb139c)
+  * [이토록 간결한 글쓰기](https://github.com/hyunjun/bookmarks/blob/master/books/writing_for_busy_readers.md)
+  * [이토록 간결한 글쓰기. ★★★☆☆ March 19, 2024 이토록 간결한 글쓰기 | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EC%9D%B4%ED%86%A0%EB%A1%9D-%EA%B0%84%EA%B2%B0%ED%95%9C-%EA%B8%80%EC%93%B0%EA%B8%B0-d30c62363485)
+  * [이토록 간결한 글쓰기 - Jun’s Substack](https://recur.substack.com/p/6cc)
+  * [이토록 간결한 글쓰기](https://jh4hj.tistory.com/entry/%EC%9D%B4%ED%86%A0%EB%A1%9D-%EA%B0%84%EA%B2%B0%ED%95%9C-%EA%B8%80%EC%93%B0%EA%B8%B0)
