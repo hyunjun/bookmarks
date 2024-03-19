@@ -3883,6 +3883,7 @@ Programming
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
+* [인터프리터 vs 컴파일러: 프로그래밍 언어계의 토끼와 거북이 - 모두의연구소](https://modulabs.co.kr/blog/interpreter-and-compiler/)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
 * [Decompiler Explorer](https://dogbolt.org/)
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
@@ -6894,6 +6895,34 @@ Programming
 * [표준 개발 환경 개선 되돌아보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15572/)
 * [**The Most Powerful Software Development Process Is The Easiest • Dave Farley • GOTO 2024 - YouTube**](https://www.youtube.com/watch?v=HDyeiZimaOU)
   * requirements, code, tests
+* [**Lessons Learned in Software Development | Henrik Warne's blog**](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
+  * [소프트웨어 개발에서 배운 교훈들 | GeekNews](https://news.hada.io/topic?id=13641)
+  * 개발
+    * 작게 시작한 후 확장하기: 새 시스템을 만들거나 기존 시스템에 기능을 추가할 때, 거의 필요한 기능이 없는 매우 단순한 버전으로 시작한 후 점진적으로 확장
+    * 한 번에 하나씩 변경하기: 개발 중 테스트가 실패하거나 기능이 작동하지 않을 때, 한 번에 하나의 변경만 했다면 문제를 찾기가 훨씬 쉬움
+    * 로깅과 에러 처리를 조기에 추가하기: 새 시스템을 개발할 때 로깅과 에러 처리를 추가하는 것이 초기부터 유용함
+    * 새로운 코드 라인은 최소 한 번은 실행되어야 함: 기능이 완성되기 전에 테스트해야 함
+    * 전체를 테스트하기 전에 부분을 테스트하기: 잘 테스트된 부분은 시간을 절약해 줌
+    * 모든 일은 생각보다 오래 걸림: 특히 프로그래밍에서 예상보다 더 오래 걸림
+    * 기존 코드를 먼저 이해하기: 새 기능을 추가하기 전에 현재 솔루션을 이해해야 함. 코드를 읽는 것이 코드를 작성하는 것만큼 필요한 기술이라는 것
+    * 읽고 실행하기: 코드를 이해하는 데는 두가지 보완적인 방법이 있음. 코드를 읽는것과 코드를 실행하는 것
+  * 문제 해결
+    * 버그는 항상 존재함: "처음부터 올바르게"라는 접근 방식은 좋지 않음
+    * 문제 보고서 해결하기: 개발자는 고객의 문제 보고서를 처리하고 버그를 수정하는 데 시간을 할애해야 함. 이를 통해 고객이 무엇을 하려고 하는지, 시스템이 어떻게 사용되는지, 문제 해결이 얼마나 쉽거나 어려운지, 시스템이 얼마나 잘 설계되었는지 훨씬 더 잘 이해할 수 있음
+    * 문제 재현하기: 버그 수정의 첫 번째 단계는 문제를 재현하는 것. 그런 다음 수정 사항이 추가되면 문제가 사라지는지 확인
+    * 알려진 오류를 수정한 후 남은 것을 확인하기: 여러 문제가 있을 때, 알려진 문제를 모두 수정한 후 남은 증상을 확인함
+    * 우연의 일치가 없다고 가정하기: 테스트와 문제 해결 시 우연을 믿지 말고 조사해야함. "타이머 값을 변경했는데 이제 시스템이 더 자주 다시 시작되는 것은 우연이 아님. 새로운 기능이 추가되었는데 관련 없는 기능이 느려지나? 우연이 아님. 더 조사해 볼 것"
+    * 타임스탬프와 상관관계 맺기: 문제 해결 시 이벤트의 타임스탬프를 활용
+  * 협력
+    * 대면이 가장 높은 대역폭을 가짐: 문제 해결 방법을 논의할 때 대면이 다른 모든 방법(영상, 전화, 채팅, 메일)보다 좋음
+    * 러버덕 디버깅: 문제에 막혔을 때 동료에게 문제를 설명하면 해결책을 깨닫게 됨. 동료가 아무 말도 하지 않더라도 대화를 하다 보면 문제가 무엇인지 깨닫게 되는 경우가 많음. 마술처럼 들리지만 놀라울 정도로 자주 작동함
+    * 물어보기: 코드를 파악할때 읽고 실행하는 것이 좋은 경우가 많다. 하지만 이에 대해 알고 있는 사람(아마도 원저자) 에게 묻는게 가능하다면 물어보는 것도 함께 사용할 것
+    * 공로 공유하기: 공로가 있는 곳에 공로를 인정하기. "우리는 ...을 시도했습니다." 대신 "Marcus가 시도할 아이디어를 생각해 냈습니다." (그가 그렇게 했다면) 라고 말하기. 도움을 주거나 기여한 사람이 누구인지 적극적으로 언급할 것.
+  * 기타
+    * 시도해보기: 어떤 언어 기능이 어떻게 작동하는지 확실하지 않을 때 작은 프로그램을 작성하여 테스트
+    * 잠자기: 어려운 문제에 직면했을 때, 결정하기 전에 하룻밤 잠을 자는 것이 좋음
+    * 변화: 가끔씩 역할이나 직업을 바꾸는 것을 두려워하지 말것. . 다른 사람들과, 다른 제품이나 다른 회사에서 일하는 것은 자극적임.
+    * 계속 배우기: 소프트웨어 개발의 가장 큰 장점 중 하나는 항상 더 많이 배우고 알 수 있는 여지가 있다는 것. 다양한 프로그래밍 언어와 도구를 사용해 보고, 소프트웨어 개발에 관한 책을 읽고, MOOC 과정을 수강할 것. 작은 개선이 추가되어 당신의 지식과 능력에 실질적인 변화를 가져옴
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
