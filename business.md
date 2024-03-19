@@ -65,6 +65,19 @@ Business
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
+* [How Google Blew Up Its Open Culture and Compromised Its Product](https://www.bigtechnology.com/p/how-google-blew-up-its-open-culture)
+  * 2015년부터 2023년까지 구글에서 근무한 직원이 구글의 오픈 문화 붕괴 과정과 그 영향에 대해 설명
+  *  주요 내용:
+    1. 오픈 문화의 쇠퇴
+      * 2017년 제이임스 다모어 사건을 계기로 오픈 토론 문화가 약화되기 시작
+      * 2019년 TGIF 미팅이 중단되면서 경영진에 대한 공개적인 질문 기회가 사라짐
+    2. 오픈 문화 약화의 영향
+      * 직원들의 목소리가 약해지면서 문제를 사전에 인지하고 해결할 기회가 줄어들었음
+      * 최근 제미니 이슈 등 AI 전략의 문제가 드러났으나, 직원들이 이를 공개적으로 제기하기 어려웠음
+    3. 대응 방향
+      * 구글은 오픈 문화를 복원하여 직원들이 자유롭게 질문하고 문제를 제기할 수 있는 환경을 만들어야 함
+      * 그렇지 않으면 지속적으로 불필요한 실패와 곤란을 겪을 것
+    * 구글 내부자의 관점에서 바라본 오픈 문화 붕괴 과정과 그에 따른 부정적 영향을 보여주고 있음.
 * [기업 경영진이 정신 건강을 챙겨야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244797)
 * [이복연 - 캐나다의 한 금융 기관에서 조사한 결과에 따르면 창업자들이 우울을 경험할 확률은 일반인에 비해 2배가 높고,... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0ie39o7r1hKcdAt9bdVtMYd11PgnLJTMHfQ8PdmccuLMFLsrq7zZs3N4gBwM85h1fl)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
