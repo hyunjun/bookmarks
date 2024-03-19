@@ -74,6 +74,7 @@ Hardware
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
+* [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
