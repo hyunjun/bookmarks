@@ -881,6 +881,7 @@ Business
 * [우버 인사총괄로 5년간 일하며 느낀 ‘뽑힐 수밖에 없는 사람’ | Fynd Andrew - YouTube](https://www.youtube.com/watch?v=M-ZREjfmqe8)
 * [Sedong Nam - 종종 공유 드리는 보이저엑스 타운홀 기록입니다. 이번에는 바로 지난주에 있었던 신규입사자 타운홀... | Facebook](https://www.facebook.com/dgtgrade/posts/pfbid0wVx7coqdQoXD5AXXPKHEzTiToaDz8s84zKVBpMwJbFnmktPtpcfEzVW59pYq9TCBl) startup 인턴 활용에 대해 참고할만한 글
 * [신입 엔지니어를 채용하는 것](https://jojoldu.tistory.com/769)
+* [왜 채용이 어려울까?](https://www.linkedin.com/posts/monozuno_tfnsqoqsvumoabrsmusxbstuabrsxqsuzabrtrgsqb-activity-7175481783851888642-pzRs/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
