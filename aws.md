@@ -472,6 +472,7 @@ AWS
   * [코파일럿에 이어 CodeWhisperer까지! 코딩 너무 쉬워진다! - YouTube](https://www.youtube.com/watch?v=lDeBfV16Lfo)
   * [AI 코딩 동반자 Amazon CodeWhisperer 활용하는 4가지 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/reimagine-software-development-with-codewhisperer-as-your-ai-coding-companion/)
 * [AWS Copilot CLI를 활용하여 모범 사례 기반 서버리스 아키텍처 만들기 - YouTube](https://www.youtube.com/watch?v=QOY0tDu4WLw)
+* [블로그 | AI는 이미 코딩을 송두리째 바꿨다 - CIO Korea](https://www.ciokorea.com/news/329083)
 * [스와미 시바수브라마니안 AWS 머신러닝 부사장 “본질적으로 중요한 것은 모델을 구축하는 방식”···보겔스 AWS CTO 대담 – 테크수다](http://www.techsuda.com/archives/19544)
 * [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
