@@ -1772,6 +1772,7 @@ Programming
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
 * [ports and adapter 패턴 또는 헥사고날 아키텍처](https://coco-log.tistory.com/205)
+* [설계란 고민의 연속이다 1편](https://ebay-korea.tistory.com/104) hexagonal architecture
 * [비지니스 로직과 오케스트레이션 역할 분리하기](https://velog.io/@joosing/%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EA%B3%BC-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%97%AD%ED%95%A0-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0) humble 객체 패턴
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [리팩토링을 내장할 수 있다면?](https://brunch.co.kr/@graypool/534) 좋은 코드 = 수정하기 쉬운 코드
