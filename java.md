@@ -305,6 +305,8 @@ Java
   * [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
   * [다 쓴 객체 참조에 항상 null 값을 할당해야 하나요?](https://velog.io/@joosing/should-programmer-always-set-to-null-after-using-it)
   * [Interesting Facts About 'null' In Java | Things to know as Java Developer - YouTube](https://www.youtube.com/watch?v=iDWIugTUpJA)
+  * [Clean Code: Avoid Returning Null. To enhance code robustness and reduce… | by Bubu Tripathy | Feb, 2024 | Medium](https://medium.com/@bubu.tripathy/clean-code-avoid-returning-null-9353498d6a01)
+    * [Medium 클린 코드: Null 반환을 피하는 법 — 덕토피아](https://ducktopia.tistory.com/111)
   * [java 예외 vs 에러 : 왜 이 둘을 구분 지을까요?](https://codingdog.tistory.com/entry/java-%EC%98%88%EC%99%B8-vs-%EC%97%90%EB%9F%AC-%EC%99%9C-%EC%9D%B4-%EB%91%98%EC%9D%84-%EA%B5%AC%EB%B6%84-%EC%A7%80%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [토이 프로젝트를 하면서 느꼈던 광범위한 예외의 위험성](https://codingdog.tistory.com/614)
   * [How to Resolve Concurrent Modification Exception In Java - YouTube](https://www.youtube.com/watch?v=uEEVy4K4qhM)
