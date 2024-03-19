@@ -293,6 +293,7 @@ Android
 * [PLT Hook 체크를 위한 Android so 파일 파싱 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/371)
 * [Pluu Dev - 메모 Fixed AGP 8.1.0부터 instrumented test가 실행되면 앱을 지우는 버그가 발생](http://pluu.github.io/blog/android/2023/10/16/agp8_10-bug_fixed/)
 * [LINE Android 앱에 폰트 커스터마이징 기능 적용하기](https://techblog.lycorp.co.jp/ko/how-to-develop-font-customizing-function-in-android-app)
+* [갤럭시 S24가 찾아준 배민커넥트 Android 성능 이슈 해결기(feat. React Native) | 우아한형제들 기술블로그](https://techblog.woowahan.com/15883/) StrongBox
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
@@ -322,6 +323,7 @@ Android
 * [Pluu Dev - Android Studio의 UI Code Snippet용 Plugin 제작기 ~ 1부 : ToolWindow/Configurable](https://pluu.github.io/blog/android/2024/02/10/designsystem-plugin-01/)
 * [Pluu Dev - UI Code Snippet용 Plugin 제작기 ~ 2부 : ActionButton/JList](https://pluu.github.io/blog/android/2024/02/24/designsystem-plugin-02/)
 * [Pluu Dev - UI Code Snippet용 Plugin 제작기 ~ 3부 : Import](https://pluu.github.io/blog/android/2024/03/09/designsystem-plugin-03/)
+* [Pluu Dev - UI Code Snippet용 Plugin 제작기 ~ 4부 : Drag, Copy, Paste](https://pluu.github.io/blog/android/2024/03/17/designsystem-plugin-04/)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
