@@ -1921,6 +1921,7 @@ NLP
   * [#20. ChatGPT에서 대화 히스토리 유지하기](https://bcho.tistory.com/1429)
   * [Langchain Integrations](https://bcho.tistory.com/1425)
   * [Langchain Vector Store Record Delete](https://bcho.tistory.com/1418)
+  * [LLM 애플리케이션 아키텍처 (1/2)](https://bcho.tistory.com/1431)
   * [Building an LLM Open-Source Search Engine in 100 Lines](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
   * [Langchain PDF를 학습한 나만의 챗봇 streamlit에 배포 하기 - 미완성의신](https://unfinishedgod.netlify.app/2023/12/16/langchain-pdf-streamlit/)
   * [LangChain Explained In 15 Minutes - A MUST Learn For Python Programmers - YouTube](https://www.youtube.com/watch?v=mrjq3lFz23s)
