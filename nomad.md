@@ -276,6 +276,7 @@ Nomad & Remote
 * [GitLab CEO: 'Remote work is just work' | Fortune](https://fortune.com/2022/06/21/gitlab-ceo-remote-work-just-work-careers-success-leadership-pandemic-sid-sijbrandij/)
 * [Remote Working Approaches That Worked (And Some That Didn’t) • Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=sQOHhoCSfak)
 * [재택근무, 사이드잡, 그리고 떨](https://www.thestartupbible.com/2023/08/work-from-home-side-jobs-and-weed.html)
+* [글로벌 칼럼 | “직원 유지냐 강제 출근이냐” 기업이 홈오피스를 수용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/328901)
 * [Basecamp: Remote Work](https://basecamp.com/articles/category/remote-work)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
