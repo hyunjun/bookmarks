@@ -1360,6 +1360,19 @@ Git
   * [Let's Build a Website in 10 minutes with GitHub Copilot // Bryant Son // AI in Production Conference - YouTube](https://www.youtube.com/watch?v=gAw-f6vt32Q)
     * [MLOps Community](https://home.mlops.community/public/videos/lets-build-a-website-in-10-minutes-with-github-copilot)
   * [코딩속도 200%? 코파일럿 제대로 활용하는 꿀팁! - YouTube](https://www.youtube.com/watch?v=xx7Ykh0VpF0)
+  * [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
+    * GitClear의 "Coding on Copilot" 백서에서 AI 지원 코드의 품질과 유지 관리성을 조사했습니다.
+      * 주요 결과:
+        * 코드 청크: 2024년에 2021년 대비 두 배 증가할 것으로 예상
+        * 추가 코드 및 복사/붙여넣기 코드 비율 증가
+        * AI 생성 코드는 단기 계약자의 코드와 유사한 특성을 보임
+    * 이는 GitHub의 2022년 연구 결과와 대조되는데, 해당 연구에서는 Copilot 사용 시 개발자 생산성과 만족도 향상을 발견했음
+    * GitClear 연구 결과 요약:
+      1. 코드 청크 증가: AI 사용과 관련된 "오류 코드" 푸시 증가
+      2. 리팩토링과 재사용 감소: 복사/붙여넣기 코드 증가
+      3. 유지 관리 어려움 증가: 불필요한 코드 복제가 늘어남
+    * 다른 연구들도 Copilot의 장단점을 조사했으며, 향후 지속적인 평가가 필요할 것으로 보임
+    * GitClear는 153백만 줄의 코드 변경 내역을 분석했음
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
