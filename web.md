@@ -1084,6 +1084,7 @@ Web
   * [htmx란 무엇이며 어떻게 웹사이트를 간소화할 수 있나요? - All Things N](https://new.atsit.in/23206/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
+* [htmz: html with targeted manipulation zones](https://github.com/Kalabasa/htmz)
 * [sqlite-html: A SQLite extension for querying, manipulating, and creating HTML elements](https://github.com/asg017/sqlite-html)
   * [SQLite-html : HTML을 쿼리,조작,생성하는 확장 | GeekNews](https://news.hada.io/topic?id=7174)
 * view-transition [모르면 손해? 엄청난 웹 API가 나타났다! - YouTube](https://www.youtube.com/watch?v=ObT87Xu_CO0)
