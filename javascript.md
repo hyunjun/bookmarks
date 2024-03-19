@@ -3772,6 +3772,7 @@ Javascript
     * 코어에 포함된 HTTP는 초기 설계상의 한계로 현재의 버그나 성능 문제를 호환성을 깨뜨리지 않고는 해결하기 어려운 상황
     * 실험적으로 만들기 시작한 라이브러리였지만 지금은 프로덕션에 사용할 수 있을 정도로 안정성이 올라왔고 코어 HTTP 모듈보다도 훨씬 좋은 성능
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
+* [Voici.js - 터미널에서 테이블 출력하기 | GeekNews](https://news.hada.io/topic?id=13875)
 * [volta: Volta: Start your engines](https://github.com/volta-cli/volta)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
 * [webcontainer-core](https://github.com/stackblitz/webcontainer-core)
