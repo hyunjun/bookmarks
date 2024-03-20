@@ -4394,6 +4394,7 @@ Programming
 * [Facebook collecting people's data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
 * [반면교사 삼아야 할 2021년 ‘IT 재앙’ 8선 - CIO Korea](https://www.ciokorea.com/news/220229)
 * [API라는 ‘거대 공격 표면’ 이해하기 - CIO Korea](https://www.ciokorea.com/news/244566)
+* [칼럼 | 오픈소스의 진짜 위험은 ‘배포’에 있다 - CIO Korea](https://www.ciokorea.com/news/329762)
 * [차등 개인정보보호의 의미와 관련 기업 사용례의 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/178024)
 * [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
