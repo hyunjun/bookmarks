@@ -433,6 +433,7 @@ Book
   * 한라 326.34-전94ㄱ
 * (NOT YET) [토마 피케티의 ‘자본과 이데올로기’를 읽고. 토마 피케티는 전작 ‘21세기 자본론’에서, 19세기말 이후 현재까지… | by 허진호 (Jin Ho Hur) | Apr, 2021 | Medium](https://hur.medium.com/%ED%86%A0%EB%A7%88-%ED%94%BC%EC%BC%80%ED%8B%B0%EC%9D%98-%EC%9E%90%EB%B3%B8%EA%B3%BC-%EC%9D%B4%EB%8D%B0%EC%98%AC%EB%A1%9C%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-62952868a588)
   * 한라 321.2-피874ㅈ 탐라 문321.2-피823ㅈ 우당 문321.2-피823ㅈ
+* (NOT YET) [인류에 가장 큰 영향을 끼친 책, 칼 마르크스의 『자본론』 | 역사를 바꾼 사상가 칼 마르크스가 꿈꾸었던 세상| 다큐프라임 - 자본주의ㅣ#골라듄다큐 - YouTube](https://www.youtube.com/watch?v=1ugANq0ZULg)
 * (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
