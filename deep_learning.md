@@ -2638,6 +2638,9 @@ CVPR2016)
 * [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
 * [Soft Actor Critic—Deep Reinforcement Learning with Real-World Robots](https://bair.berkeley.edu/blog/2018/12/14/sac)
   * tensorflow, pytorch 둘 다 공개
+* Spot RL Researcher Kit
+  * [Starting on the Right Foot with Reinforcement Learning | Boston Dynamics](https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/)
+  * [Stepping Up | Reinforcement Learning with Spot | Boston Dynamics - YouTube](https://www.youtube.com/watch?v=Kf9WDqYKYQQ)
 * [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
 * [Unity-ML-Agents: Unity 강화학습 알고리즘 및 게임 환경을 제공합니다](https://github.com/jk96491/Unity-ML-Agents)
 * [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
