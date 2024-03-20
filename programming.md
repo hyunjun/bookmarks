@@ -4646,6 +4646,7 @@ Programming
   * [DevOps Roadmap 2022 | GeekNews](https://news.hada.io/topic?id=7747)
 * [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 * [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
+* [The 2024 DevOps RoadMap | Javarevisited](https://medium.com/javarevisited/the-2018-devops-roadmap-31588d8670cb)
 * [YOUTUBE LINKS TO LEARN DEVOPS](https://www.linkedin.com/posts/annfelix70_devops-aws-python-activity-7005125117684936704-O32b/)
 * [DevOps엔지니어가 반드시 배워야 할 기술](https://brunch.co.kr/@topasvga/2803)
 * [What do you do as a DevOps?](https://ilhicas.com/2019/08/11/What-you-as-a-Devops.html)
