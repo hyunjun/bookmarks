@@ -516,6 +516,8 @@ Python
     * 인터프리터 루프는 해석한 뒤 실행하는 두 가지 과정을 거치는데 copy-and-patch JIT은 각 명령의 인스트럭션을 복사한 뒤에 바이트 코드 인수를 채우는(patch) 방식으로 진행
     * copy-and-patch JIT을 선택한 이유는 일반 Python 사용자가 이를 실행할 일은 없고 CPython을 빌드하고 패키징하는 CI 머신에서 LLVM JIT 도구만 설치하면 되기 때문
     * 초기 벤치마크에서는 2~9%의 성능 향상이 있는데 이 결과가 작아 보일 수 있으나 최적화 작업의 첫 단계로 생각하면 됨
+* [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
+  * numpy mypyc cython numba taichi
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
