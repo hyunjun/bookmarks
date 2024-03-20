@@ -1370,6 +1370,7 @@ Javascript
   * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
 * [Developer Tools secrets that shouldn’t be secrets | Christian Heilmann](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 * [Useful Style-related Features Of Browser Developer Tools to Explore in 2021 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/en_20211206)
+* [무턱대고 console.log 만 찍고있나요? - YouTube](https://www.youtube.com/watch?v=SmKM-8Q0Egw)
 
 # Design System
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
