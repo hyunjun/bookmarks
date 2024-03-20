@@ -726,6 +726,10 @@ Business
 * [Why do most lists of top-level priorities read like bucket lists?](https://www.linkedin.com/feed/update/urn:li:activity:7109328490398720000/)
   * [우선순위의 미로: 버킷 리스트를 해석하는 사람들](https://brunch.co.kr/@yongjinjinipln/117)
 * [ICE를 활용한 우선순위 관리](https://brunch.co.kr/@yongjinjinipln/120)
+* [**실리콘밸리는 이렇게 일합니다 - YouTube**](https://www.youtube.com/watch?v=D6S5gIdRYQs)
+  * 의미있는 일 = 매출 증가 or 사용자수 증가
+  * impact와 complexity에 따라 high/easy한 일부터 처리
+  * 매주 잘 되고 있는지 점검
 
 # 조직 구조
 * [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)
