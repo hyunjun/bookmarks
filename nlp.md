@@ -2326,6 +2326,8 @@ NLP
 * [Unstructured](https://unstructured.io/)
 * [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
   * [Lost in Translation: The Critical Impact of Neglecting Guideline Adherence in LLMs - UpTrain AI](https://blog.uptrain.ai/lost-in-translation-the-critical-impact-of-neglecting-guideline-adherence-in-llms/) LLMOps
+  * [How to effectively evaluate LLM-based applications?](https://www.linkedin.com/posts/pavan-belagatti_llm-activity-7176460669096013826-39H9/)
+    * [Evaluating LLMs with Uptrain - SingleStore Spaces](https://www.singlestore.com/spaces/evaluating-ll-ms-with-uptrain/)
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
@@ -3671,12 +3673,9 @@ NLP
 * [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=\_K7ZuZi0gXE)
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
-  *
-    1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
-  *
-    2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
-  *
-    3. combination weight는 downstream task의 cost function을 통해서 조정
+  * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
+  * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
+  * 3. combination weight는 downstream task의 cost function을 통해서 조정
 * [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [KCharEmb - Tutorial for character-level embeddings in Korean sentence classification](https://github.com/warnikchow/kcharemb)
