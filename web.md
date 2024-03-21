@@ -1851,7 +1851,7 @@ Web
   * [Performance Testing with Gatling](https://medium.com/@arsalaninam/performance-testing-with-gatling-652e2f19bf89)
   * [Gatling으로 하는 부하테스트 튜토리얼. 지난번 부하테스트를 알아보았습니다. 이번 시간에는 실제로 부하테스트를… | by kyeong su kim | 월요일 오후 9시 | Feb, 2023 | Medium](https://medium.com/monday-9-pm/gatling%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-f5b95ddc4c2a)
   * [Rafał Piotrowski - Load Testing Made Easy with Gatling - YouTube](https://www.youtube.com/watch?v=8Eplj8BvugA)
-* jmeter
+* JMeter [Apache JMeter - Apache JMeter™](https://jmeter.apache.org/)
   * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
   * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
@@ -1915,6 +1915,7 @@ Web
         * 결과를 분석할 때, 자원 포화된 부분을 찾아 분석 방법을 이용해 빠르거나 더 나은 성능을 위해 적용 필요
         * 분석 중에는 문제 해결을 위한 인내와 자신의 실수를 스스로 인정하며 적절히 대응 필요
         * 설치 단계에서 권장 구성 중 하나를 빼먹어 성능 저하를 겪는 등 실수를 방지하고 최적화를 위한 노력 필요
+  * [Apache JMeter란 무엇인가? (+ 사용 방법 with 성능 및 부하 테스트)](https://jaehoney.tistory.com/224)
 * [k6: A modern load testing tool, using Go and JavaScript - https://k6.io ](https://github.com/loadimpact/k6)
   * [Load testing for engineering teams | Grafana k6](https://k6.io/)
     * [Test builder](https://k6.io/docs/test-authoring/test-builder/)
@@ -1927,6 +1928,7 @@ Web
   * [Integrating k6 with Apache Kafka. How to send k6 output to Apache Kafka? | by Mostafa Moradian | k6.io | Medium](https://medium.com/k6-io/integrating-k6-with-apache-kafka-eda96ea7c749)
   * [Integrating NewRelic with K6 in kubernetes cluster | by Nayan Gaur | capillary-tech | Nov, 2021 | Medium](https://medium.com/capillary-tech/integrating-newrelic-with-k6-in-kubernetes-cluster-483c381daba9)
   * [부하 테스트 도구 Grafana k6 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1610)
+  * [Spring Boot로 K6 & Grafana를 활용한 부하테스트 해보기](https://velog.io/@eastperson/Spring-Boot-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-K6-Grafana%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)
@@ -1945,6 +1947,7 @@ Web
   * [nGrinder 성능테스트 결과를 통한 로그인 성능개선 과정을 알아보자 | Recoding Life](https://jane096.github.io/project/ngrinder-login-refactoring/)
   * [스케일링 가능한 Ngrinder 환경 구축하기 (feat. AWS Beanstalk)](https://jojoldu.tistory.com/581)
   * [nGrinder에 적용한 HttpCore 5와 HttpCore 5 살펴보기](https://d2.naver.com/helloworld/0881672)
+  * [nGrinder 성능테스트 사용법 및 테스트 예제](https://notspoon.tistory.com/48)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
