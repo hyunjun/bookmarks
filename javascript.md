@@ -3803,6 +3803,7 @@ Javascript
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
 * [Create a memoized function in JavaScript - DEV Community](https://dev.to/jeremydmarx813/create-a-memoized-function-in-javascript-43pi)
 * [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
+* [브라우저의 캐시 때문에 .js(또는 .css) 파일의 변경 내용이 반영되지 않는 문제 대처하기](https://blog.naver.com/birdparang/223389079924)
 * [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
   * 최근 Go, Rust로 도구가 다시 만들어지지만 JS는 여러 도구의 집합체. 각 도구들을 개선한 리뷰
   * PostCSS - 주석이 있는지 확인하는 정규식(4.63s 중 4.6s 감소)
