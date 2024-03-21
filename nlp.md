@@ -2074,6 +2074,7 @@ NLP
   * [Discover LlamaIndex: Bottoms-Up Development with LLMs (Part 5, Retrievers + Node Postprocessors) - YouTube](https://www.youtube.com/watch?v=mIyZ_9gqakE)
   * [Masking PII Data in RAG Pipeline. Exploring LlamaIndex’s… | by Wenqi Glantz | Oct, 2023 | Better Programming](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336)
   * [Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex - YouTube](https://www.youtube.com/watch?v=ihSiRrOUwmg)
+  * [How to Build a RAG System With LlamaIndex, OpenAI, and MongoDB Vector Database | MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
 * [LLM4Decompile: Reverse Engineering: Decompiling Binary Code with Large Language Models](https://github.com/albertan017/LLM4Decompile)
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
