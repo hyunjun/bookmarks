@@ -418,6 +418,8 @@ Artificial Intelligence
       * 벡터 공간을 만들어 클러스터를 형성하여 데이터를 쉽게 찾을 수 있도록 하는 유저 친화적이고 재미있는 방법
       * 객체의 유사성에 따라 클러스터가 형성되어 검색 시 유사한 객체 또는 벡터를 쉽게 검색 가능
 * [RAG 핵심으로 부상하는 초고정밀도∙초고성능 LLM용 벡터 DB < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=9379)
+* [Deep Dive into Vector Databases by Hand ✍︎ | by Srijanie Dey, PhD | Mar, 2024 | Towards Data Science](https://towardsdatascience.com/deep-dive-into-vector-databases-by-hand-e9ab71f54f80)
+  * [Deep Dive into Vector Databases by Hand ✍️ with Dr. Dey](https://www.linkedin.com/posts/tom-yeh_vectordatabase-aibyhand-rag-ugcPost-7176245339249672192-lh3-/)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
