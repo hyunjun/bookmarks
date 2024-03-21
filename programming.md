@@ -340,6 +340,7 @@ Programming
     * 플랫폼 엔지니어링은 개발자 셀프서비스를 지원하는 플랫폼 구축
   * SRE는 위기관리를 즐기고 장애 문제 해결을 좋아하는 경향
     * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
+* [한 발자국 내딛기 - Google Slides](https://docs.google.com/presentation/d/1jUBl_kDwPIa_L5ZTgVShPNjUo0mEKgQmFgLowGX-wTk/edit#slide=id.g26b4e388bdd_0_97) platform engineering
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
@@ -2105,6 +2106,7 @@ Programming
 * [Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
 * [Event Sourcing: The bad parts • Greg Young • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=K4bj31fJGFk)
 * [What is Event Sourcing Design Pattern in Microservice Architecture? How does it work? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/what-is-event-sourcing-design-pattern-in-microservices-architecture-how-does-it-work-b38c996d445a)
+* [SaaS 시간여행이 가능한 시스템 아키텍처](https://blog.gangnamunni.com/post/saas-event-sourcing/)
 * [What is CQRS (Command and Query Responsibility Segregation) Pattern in Microservices Architecture? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-cqrs-command-and-query-responsibility-segregation-pattern-7b1b38514edd)
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
@@ -4989,6 +4991,7 @@ Programming
         * 이로 인해 오픈소스 커뮤니티의 성장은 상용 오퍼링과 일치하며, 백스테이지의 상용 플러그인 없이 플러그인 생태계가 없음
         * 커뮤니티에서는 권한 부여 솔루션과 같은 상용 번들에 대한 대체 업무를 가능케할만한 확장성 존재
         * 스포티파이의 플러그인 번들은 개발자 효율성과 행복에 중점을 두는 구조를 갖추고 있으며, 다양한 플러그인이 이러한 아이디어 주변으로 작동
+  * [좌충우돌 백스테이(IDP) 도입기](https://hanjin.awsapps.com/workdocs/index.html#/share/document/f0dec8adb59e85a7fc7574fde4951e91f5bc61ca9d98f79a178ed6c0aa9d3202)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -7196,6 +7199,19 @@ Programming
     * (ii) Automated Documentation Testing (ADT)
     * both based on defining a single and robust information source for documentation
 * [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
+* [Optimizing CI/CD Processes with Selective Testing | by Agoda Engineering | Agoda Engineering & Design | Mar, 2024 | Medium](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3)
+  * Claude 3 Sonnet v1
+    * 아고다 엔지니어링 팀은 모바일 앱의 긴 CI 프로세스로 인해 새로운 기능이나 수정 사항을 병합하는 데 어려움을 겪었습니다.
+    * 문제는 900개가 넘는 UI 테스트를 단일 테스트 앱에서 실행하는 방식이었습니다.
+      * 이로 인해 테스트 실패로 인한 지연, 시장 출시 지연, 개발자 경험 저하 등의 문제가 발생했습니다.
+    * 해결책으로 선별적 테스트를 구현했습니다.
+      * 코드 커버리지 도구(JaCoCo)를 사용하여 각 테스트가 실행하는 코드 라인을 파악했습니다.
+      * 이를 통해 Pull Request의 변경 사항과 관련된 테스트만 선택적으로 실행할 수 있게 되었습니다.
+    * 아고다의 디바이스 팜을 활용하여 각 테스트에 대한 커버리지 파일을 생성했습니다.
+    * 메인 브랜치에서 생성된 커버리지 데이터를 기반으로 CI 작업 시 영향을 받는 테스트만 선택하여 실행했습니다.
+    * 실패한 테스트는 선별 대상에서 제외하고 테스트 소유자에게 알려 수정할 수 있도록 했습니다.
+    * 선별적 테스트 도입 후 Pull Request당 실행되는 테스트 수가 크게 줄어들었고, CI 파이프라인 실패 빈도도 감소했습니다.
+    * 이 접근 방식을 통해 통합 및 개발 주기를 단축하고 높은 수준의 테스트 품질을 유지할 수 있었습니다.
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
