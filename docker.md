@@ -728,6 +728,7 @@ Docker
 * [한 장의 이미지로 보는 도커(docker) 명령어 정리](https://open-support.tistory.com/entry/%ED%95%9C-%EC%9E%A5%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8F%84%EC%BB%A4docker-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 * [docker cheat sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 * [Containers 101: attach vs. exec - what's the difference?](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
+* [Docker: The Ultimate Tool for IT Professionals](https://www.linkedin.com/feed/update/urn:li:activity:7172272073866723328/)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
