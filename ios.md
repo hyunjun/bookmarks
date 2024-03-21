@@ -686,6 +686,8 @@ iOS
 * [SwiftUI - trim & mask :: iOYES](https://green1229.tistory.com/432)
 * [SwiftUI에서 shadow와 blur 사용하기 :: iOYES](https://green1229.tistory.com/437)
 * [SwiftUI로 동적 뷰 레이아웃 구성하기 :: iOYES](https://green1229.tistory.com/440)
+* [Oh Shit, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i) SwiftUI
+  * ["어머나, 내 앱이 성공했는데 접근성을 고려하지 않았네" | GeekNews](https://news.hada.io/topic?id=13897)
 * [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
