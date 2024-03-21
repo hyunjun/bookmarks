@@ -667,8 +667,14 @@ ElasticSearch - Lucene
 * [Lyra: Disrupting full Text Search industry with JavaScript - YouTube](https://www.youtube.com/watch?v=B0MfK-rBK90)
 * [Manticore Search – Open-source database for search applications – Manticore Search](https://manticoresearch.com/homepage/)
   * [es2ms: Elasticsearch -> Manticore Search data migration tool](https://github.com/manticoresoftware/es2ms)
-* [MeiliSearch](https://www.meilisearch.com/)
-  * Elasticsearch 대체제 오픈소스(Rust). Sonic은 ID index만 저장하지만 MeiliSearch는 full document 저장
+* [MeiliSearch](https://www.meilisearch.com/) Elasticsearch 대체제 오픈소스(Rust). Sonic은 ID index만 저장하지만 MeiliSearch는 full document 저장
+  * [meilisearch: A lightning-fast search API that fits effortlessly into your apps, websites, and workflow](https://github.com/meilisearch/meilisearch)
+  * [빠르고 사용하기 쉬운 검색 엔진 - MeiliSearch Search Engine](https://www.lesstif.com/dbms/meilisearch-search-engine-93127463.html)
+  * [Meilisearch: 빠르고 강력한 오픈소스 검색 엔진](https://velog.io/@gun_123/Meilisearch-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EA%B0%95%EB%A0%A5%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
+  * [Meilisearch QUICK 하게 설치해보기](https://velog.io/@nonz/Meilisearch-QUICK-%ED%95%98%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  * [Search Engine Meilisearch](https://ssnotebook.tistory.com/9)
+  * [Laravel Scout 으로 MeiliSearch 연동하기](https://www.lesstif.com/dbms/laravel-scout-meilisearch-93127484.html)
+  * [오픈소스 검색엔진 Meilisearch 1.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=8434)
 * [microsearch](https://github.com/alexmolas/microsearch) a minimal Python search engine designed for simplicity and efficiency
 * [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
 * [mwmbl: An open source, non-profit search engine implemented in python](https://github.com/mwmbl/mwmbl)
