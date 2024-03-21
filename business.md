@@ -485,7 +485,6 @@ Business
 * [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
 * [“조언해달라”는 말로 회의 시작해 보라, 평범했던 직원의 잠재력이 터진다](http://dbr.donga.com/article/view/1201/article_no/9044)
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
-* [프로그래머의 경력을 말아먹는 12가지 방법](https://ppss.kr/archives/63881)
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
@@ -693,6 +692,7 @@ Business
 * [**DANO 모형**](https://dano.oopy.io/34b0bff7-e0a2-4201-a47f-2c6b60937e72)
 * [AI 통합, 앞서가는 회사는 무엇을 알고 있나](https://brunch.co.kr/@graypool/1127) 결국 business의 성공에 필요한 process는 분야에 무관하게 적용 가능하다
 * [5,000억 회사 창업자가 말하는 쉬운 비즈니스와 어려운 비즈니스 (feat. 86년생)](https://maily.so/unsexybusinesskr/posts/9c2c8920)
+* [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
