@@ -792,6 +792,7 @@ Web
   * [파이썬으로 이미지 유사도 측정하고 UI 점검하기](https://ambitious-molecule-2ed.notion.site/UI-6da849161968428da17bb3f39563f36b)
   * [R) 크롤링 - 셀레늄 문제해결 - Data Doctor](https://datadoctorblog.com/2023/11/17/R-Crawling-Selenium-Troubleshooting/)
   * [still the best way to scrape data. - YouTube](https://www.youtube.com/watch?v=Irs6PG36qz8)
+  * [aws lambda에서 파이썬 selenium 동작하게 하기 — 넹무](https://smgthings.tistory.com/33)
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
