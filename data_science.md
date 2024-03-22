@@ -612,6 +612,8 @@ Data Science
   * [How Metaflow Became Netflix's Beloved Data Science Framework • Julie Amundson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=3p4QMfXp8TU)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
+* [Mockium - A test data generator with no limit on the number of rows](https://softwium.com/mockium/)
+* [ExtendsClass - ExtendsClass enables you to generate test data via either UI or API.](https://extendsclass.com/csv-generator.html)
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
