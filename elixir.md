@@ -154,6 +154,8 @@ Elixir
 * [Scaling a streaming service to hundreds of thousands of concurrent viewers at Veeps - The Elixir programming language](https://elixir-lang.org/blog/2024/03/05/veeps-elixir-case/?)
 * [Elixir Streams |> 🔄 Refactoring an anti-pattern: complex extractions in function heads](https://www.elixirstreams.com/tips/function_head_extraction_anti_pattern)
 * [Elixir Streams |> ⚡️ Stream Server Logs to Console!](https://www.elixirstreams.com/tips/stream_server_logs_to_console)
+* [Intro to Genetic Algorithms with Elixir | abjork.land](https://abjork.land/articles/elixir/intro-to-genetic-algorithms-with-elixir/)
+* [Clustering Elixir From Laptop to Cloud · The Phoenix Files](https://fly.io/phoenix-files/clustering-elixir-from-laptop-to-cloud/)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
