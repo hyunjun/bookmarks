@@ -1214,6 +1214,8 @@ AWS
 * [Building better container images | Containers](https://aws.amazon.com/ko/blogs/containers/building-better-container-images/) ECS EKS ECR
 * [단일 Amazon Elastic Container Service(ECS) 클러스터에서 15,000개 이상의 태스크들로 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/)
 * [Amazon ECS에서 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-on-amazon-ecs/)
+* [Scale your Amazon ECS using different AWS native services! | Containers](https://aws.amazon.com/ko/blogs/containers/scale-your-amazon-ecs-using-different-aws-native-services/)
+  * [다양한 AWS 네이티브 서비스를 사용하여 Amazon ECS를 스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-your-amazon-ecs-using-different-aws-native-services/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
