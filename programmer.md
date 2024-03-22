@@ -384,6 +384,7 @@ Programmer
       * 새로운 프로젝트 시작이나 pull request 보내기 같은 행동이 중요하며, 상황에 던져져도 해결해 나가는 능력 또한 필요
       * 본인이 어떤 가치를 추가할 수 있는지 항상 고민하고, 행동으로 이를 실현 필요
       * 타인이 무엇을 해야 하는지 요구하는 것이 아니라, 자발적으로 행동하고 결과에 투자 필요
+* [개발자도 회사의 조직원이다](https://www.thestartupbible.com/2024/03/business-before-technology.html)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
