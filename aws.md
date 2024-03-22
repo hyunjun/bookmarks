@@ -736,6 +736,8 @@ AWS
 * [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
 * [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - YouTube](https://www.youtube.com/watch?v=NwzJCSPSPZs)
   * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
+* [AWS CodePipeline adds support for Branch-based development and Monorepos | AWS DevOps Blog](https://aws.amazon.com/ko/blogs/devops/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/)
+  * [AWS CodePipeline를 활용한 브랜치 기반 개발 및 모노레포 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/)
 * [terraform-aws-codepipline-github-dockerhub: Terraform module which builds multiple architecture docker images using AWS CodeBuild and AWS CodePipeline](https://github.com/cloudacode/terraform-aws-codepipline-github-dockerhub) AWS CodePipeline 같은 경우 매번 설정하기 번거로워서 Terraform Module로 개발해 가져다 쓸 수 있도록 해당 모듈을 공식 Terraform registry에 Public으로 등록
   * [How to Automate Building Multi-Architecture Container Images | by KC | Nov, 2022 | Medium](https://blog.cloudacode.com/how-to-automate-building-multi-architecture-container-images-4c57c759cb2c) github action, codepipeline codebuild
 
