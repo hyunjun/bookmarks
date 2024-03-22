@@ -1052,6 +1052,9 @@ Java
 * [Java 21 and Beyond: A Roadmap of Innovations by Ana-Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=mWs6CXYbI6c)
 * [From Java 17 to 21: A Showcase of JDK Security Enhancements by Ana Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=tQxPRm6-PA8)
 
+# Java22
+* [Java 22 / JDK 22 출시(GA) | GeekNews](https://news.hada.io/topic?id=13904)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
