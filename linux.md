@@ -1386,6 +1386,8 @@ Linux
 * [Stow - GNU Project - Free Software Foundation](https://www.gnu.org/software/stow/)
   * [Stow has forever changed the way I manage my dotfiles - YouTube](https://www.youtube.com/watch?v=y6XCebnB9gs)
 * [tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
+* [tlm: Local CLI Copilot, powered by CodeLLaMa. 💻🦙](https://github.com/yusufcanb/tlm)
+  * [tlm - CodeLLaMa로 구동되는 로컬 CLI 코파일럿 | GeekNews](https://news.hada.io/topic?id=13919)
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [tufirewall: tufirewall using netfilter hook api](https://github.com/txuna/tufirewall)
