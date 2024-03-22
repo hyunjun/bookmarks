@@ -2383,6 +2383,7 @@ AWS
 * [Automate S3 Storage class lifecycle using Terraform | by jaffar shaik | Oct, 2022 | Medium](https://jaffarshaik.medium.com/automate-s3-storage-class-lifecycle-using-terraform-88943db72bee)
   * [practice - Delete bucket objects after specific days](https://www.notion.so/1003/S3-275a48999f494d669cf93806de8d4e3d?pvs=25#1f6bbd07264040bdb132a396beefb3a2)
 * [How do I empty an Amazon S3 bucket using a lifecycle configuration rule? - YouTube](https://www.youtube.com/watch?v=JfK9vamen9I)
+* [AWS S3 Lifecycle configuration 뽀개기 | by HanByul Lee | Mar, 2024 | Medium](https://medium.com/@starrybleu/aws-s3-lifecycle-configuration-%EB%BD%80%EA%B0%9C%EA%B8%B0-d7cd11966d05)
 * [Amazon S3 신규 객체 암호화 기본 설정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-s3-encrypts-new-objects-by-default/)
   * AWS에서 S3에 저장되는 모든 객체의 암호화가 기본 적용되도록 지원
   * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
