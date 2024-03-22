@@ -112,6 +112,7 @@ Scala
   * [github.com/lihaoyi](https://github.com/lihaoyi)
   * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
   * [com.lihaoyi Scala: Executable Pseudocode that's Easy, Boring, and Fast](http://www.lihaoyi.com/post/comlihaoyiScalaExecutablePseudocodethatsEasyBoringandFast.html)
+  * [Simple Scala with Li Haoyi - YouTube](https://www.youtube.com/watch?v=pyRo7nsF3pU)
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
   * [SpringCamp2013 Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README.md)
@@ -394,7 +395,6 @@ Scala
 * [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://blog.indoorvivants.com/2023-11-24-scala-native-from-swift)
 * [Designing a (yet another) retry API](https://softwaremill.com/designing-a-yet-another-retry-api/)
 * [My team built and productionized a custom rate limiter in Scala - Bilal Fazlani](https://bilal-fazlani.com/blog/my-team-built-and-productionized-a-custom-rate-limiter-in-scala/)
-* [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
 * [Improving my Distributed System with Scala 3: Consistency Guarantees & Background Tasks (Part 2) - Christian Hollinger](https://chollinger.com/blog/2024/02/improving-my-distributed-system-with-scala-3-consistency-guarantees-background-tasks-part-2/)
 * [Our journey begins](https://mhammons.hashnode.dev/our-journey-begins)
 * [Crossing those hills](https://mhammons.hashnode.dev/crossing-those-hills)
@@ -756,6 +756,7 @@ Scala
 * [Ten-Step Tail-Rec Transformation Technique - YouTube](https://www.youtube.com/watch?v=E8rwsxn1iTM)
 * [How to make Insertion Sort function Tail-Recursive](https://www.linkedin.com/feed/update/urn:li:activity:7115552947224125440/)
 * [Deriving Tail Recursive Fibonacci](https://systemfw.org/posts/tailrec.html)
+* [Unwrapping IO: is it a path that you want to follow? by Adam WARSKI - YouTube](https://www.youtube.com/watch?v=qR_Od7qbacs)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -2329,6 +2330,7 @@ Scala
 * [SBT WILL NEVER BE THE SAME AGAIN!!! - YouTube](https://www.youtube.com/watch?v=kyQQZxPfTlc)
 * [Krzysztof Romanowski - Complex Problems, Simple (build)tool | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=6JXCL2HVbUc)
 * [sbt 2.x remote cache · eed3si9n](https://eed3si9n.com/sbt-remote-cache/)
+* [Leveraging sbt remote caching on a big modular monolith | by Sébastien Boulet | Teads Engineering | Mar, 2024 | Medium](https://medium.com/teads-engineering/leveraging-sbt-remote-caching-on-a-big-modular-monolith-84826f949ae8)
 * [sbt website update 2024 · eed3si9n](https://eed3si9n.com/sbt-website-update-2024/)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
@@ -2821,6 +2823,7 @@ Scala
 * [Guillaume Martres - Secrets of the Scala Type System - YouTube](https://www.youtube.com/watch?v=5EP3OsJ3TtI)
 * [Typed `[T]` Musings - Duncan DeVore - YouTube](https://www.youtube.com/watch?app=desktop&v=6zJegSqY9Fo)
 * [Practical Type-Level Programming in Scala 3 - Rock the JVM Blog](https://blog.rockthejvm.com/practical-type-level-programming/)
+* [A false end](https://mhammons.hashnode.dev/a-false-end)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
