@@ -1231,6 +1231,8 @@ Linux
   * [Pulsar - eBPF 기반의 IoT 리눅스 기기 런타임 보안 프레임워크 | GeekNews](https://news.hada.io/topic?id=11457)
 * [redbpf: Rust library for building and running BPF/eBPF modules](https://github.com/foniod/redbpf)
   * [RedBPF - Rust eBPF 툴체인 | GeekNews](https://news.hada.io/topic?id=9420)
+* [retina: eBPF distributed networking observability tool for Kubernetes](https://github.com/microsoft/retina)
+  * [Microsoft Retina – 쿠버네티스를 위한 eBPF 기반 분산 네트워킹 관찰 플랫 | GeekNews](https://news.hada.io/topic?id=13936)
 * [Skyfall: eBPF agent for infrastructure observability | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
   * [Skyfall, LinkedIn의 eBPF Agent | GeekNews](https://news.hada.io/topic?id=7591)
 * [tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
