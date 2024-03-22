@@ -1849,6 +1849,7 @@ Docker
       * 로컬에서 테스트를 실행하여 제품에 사용하는 기술과 일치하는지 확인 가능
       * 클라우드에서도 테스트하는 세팅으로, Cloud offering 구축 작업을 진행 중
       * Diag 팀과 협력하여 Dapr 프로젝트의 generic API를 클라우드로 이동하는 작업 중
+* [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 1편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-1)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
