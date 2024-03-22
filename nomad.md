@@ -109,6 +109,7 @@ Nomad & Remote
 * [미국 약혼자 (K-1) 비자 신청 과정](https://www.haruair.com/blog/4560) 경우는 관계 없지만 참고할 사이트가 있음
 * [한국에서 영주권 받고 미국 이민가기 - NIW](https://www.youtube.com/watch?v=RT1SHSvqEgo)
 * [나도 실리콘밸리 개발자가 될 수 있나요? | dylayed](https://dylayed.com/posts/working-in-us/)
+* [미국에서 직장을 찾는 사람들이 알아야 할 3가지 팁. 한국을 떠나 미국에서 살게 된 시간이 어인 23년… 지금은 리눅스와… | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5%EC%9D%84-%EC%B0%BE%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%ED%8C%81-9700ee0665ee)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
