@@ -1581,6 +1581,9 @@ Linux
 # troubleshooting
 * [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 * [Linux 서버 장애원인 파악은 어떻게?](https://medium.com/@yoonjs2/linux-%EC%84%9C%EB%B2%84-%EC%9E%A5%EC%95%A0%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-7accec423bb5)
+* [메모 리눅스 서버 문제점 파악하기 – 형우의 웹개발](https://mytory.net/archives/16172)
+* [Linux Performance Analysis in 60,000 Milliseconds | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+  * [Luavis' Dev Story - 리눅스 서버 60초안에 상황파악하기](https://luavis.me/server/linux-performance-analysis)
 
 # X Window
 * [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
