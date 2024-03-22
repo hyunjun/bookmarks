@@ -875,6 +875,14 @@ NLP
   * [Inside OpenAI: How does ChatGPT Ship So Quickly?](https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship)
   * [Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
     * [ChatGPT 서비스 확장에서 겪은 현실적인 엔지니어링 문제들](https://maily.so/saascenter/posts/c97fb3f1?mid=fd9804ec)
+  * [Bye Bye Bye...: Evolution of repeated token attacks on ChatGPT models - Dropbox](https://dropbox.tech/machine-learning/bye-bye-bye-evolution-of-repeated-token-attacks-on-chatgpt-models)
+    * ChatGPT 모델에서 발견된 새로운 취약점: 반복 토큰 공격
+    * 이 공격은 ChatGPT 모델이 즉시 지침을 무시하고 환상적인 응답을 생성하거나 학습 데이터를 추출하게 만듦
+    * Dropbox는 2023년 10월부터 이 취약점을 발견하고 2024년 1월 OpenAI에 보고함
+    * OpenAI는 단일 토큰 반복 필터링 등 완화 조치를 취했지만 다중 토큰 반복에는 여전히 취약했음
+    * Dropbox는 다중 토큰 반복을 이용해 GPT-3.5와 GPT-4 모델의 학습 데이터를 추출할 수 있었음
+    * 반복된 토큰이 포함된 입력에 대해 chatGPT 모델이 장시간 응답하면서 서비스 거부 공격에도 취약할 수 있음
+    * Dropbox는 반복 토큰 공격 탐지 도구를 공개하고 다른 오픈소스 모델에 대한 연구 결과를 공유할 예정
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -938,6 +946,7 @@ NLP
     * [IT TREND AI 시장 동향 : GPT-4의 등장](https://tech.kakaoenterprise.com/185)
     * [Implementing your own ChatGPT in Java :OpenAI Models GPT-4,GPT-3.5,GPT-3,Whisper,Codex,Moderation | by Meherban Singh | Mar, 2023 | Medium](https://medium.com/@singhmeherban84/implementing-your-own-chatgpt-in-java-openai-models-gpt-4-gpt-3-5-gpt-3-whisper-codex-moderation-37392587fc87)
     * [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
+    * [First experiences with GPT-4 fine-tuning : r/OpenAI](https://www.reddit.com/r/OpenAI/comments/1bj9vbi/first_experiences_with_gpt4_finetuning/)
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR\_smQgxY)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
@@ -946,6 +955,7 @@ NLP
     * [GPTs 만들기 사용법 간단 설명 | Create vs Configure 모드 실사용 후기 | 나만의 챗GPT 프롬프트 만들기 | GPT4 Turbo 리뷰 - YouTube](https://www.youtube.com/watch?v=7vYWRlsmOVQ)
     * [Top GPTs for Researchers](https://www.linkedin.com/posts/razia-aliani_research-research-academicwriting-activity-7132219385636696065-Iea2)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
+    * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
   * [Hello-ChatGPT: Connect ChatGPT to Slackbot. Works via FastAPI](https://github.com/jybaek/Hello-ChatGPT)
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
@@ -1068,6 +1078,7 @@ NLP
   </details>
 
   * Llama 2 Chat 70B v1 - 뭐가 문제인지 모르겠지만 한국어로는 안 나옴
+* [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16044/)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
@@ -1765,6 +1776,7 @@ NLP
       * RAFT는 모델이 주어진 질문에 대답하는 데 기여하지 않는 검색된 문서를 무시하도록 훈련함으로써 이러한 방해 요소를 제거합니다. 이는 도움이 되는 문서에서 관련 부분을 정확히 식별하고 인용하여 질문에 대답함으로써 달성됩니다. 또한 RAFT의 Chain-of-Thought 스타일 응답은 모델의 추론 능력을 더욱 개선합니다. 도메인 특정 RAG에 적용될 때 RAFT는 PubMed, HotpotQA, Gorilla 등 다양한 데이터 세트에서 일관되게 성능을 향상시켜 도메인 특정 RAG 기능을 갖는 사전 훈련된 LLM에 대한 유용한 사후 훈련 강화를 제공합니다.
       * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
   * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
+* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
@@ -2085,6 +2097,11 @@ NLP
   * [LangChain 문장을 파이썬 코드로, 이미지를 파이썬 코드로 변경하는 방법 - 테디노트](https://www.teddynote.com/langchain/langchain-code-generator/)
   * [LangChain으로 네이버 뉴스 기반 Q&A 애플리케이션 구축하기 - 기본편 - 테디노트](https://teddylee777.github.io/langchain/rag-naver-news-qa/)
   * [LangChain RAG 파헤치기: 문서 기반 QA 시스템 설계 방법 - 심화편 - 테디노트](https://teddylee777.github.io/langchain/rag-tutorial/)
+  * [RAG From Scratch](https://www.linkedin.com/posts/ashishpatel2604_rag-llms-datascience-activity-7176548971912323072-EJjZ/)
+    * [RAG From Scratch - YouTube](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+    * [rag-from-scratch/rag_from_scratch_1_to_4.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_1_to_4.ipynb)
+    * [rag-from-scratch/rag_from_scratch_5_to_9.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
+    * [rag-from-scratch/rag_from_scratch_10_and_11.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_10_and_11.ipynb)
   * [LLMs를 활용한 문서 요약 가이드: Stuff, Map-Reduce, Refine 방법 총정리 - 테디노트](https://teddylee777.github.io/langchain/summarize-chain/)
   * [LangChain Expression Language(LCEL) 원리 이해와 파이프라인 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-lcel/)
   * [LangChain 에이전트(Agent)와 도구(tools)를 활용한 지능형 검색 시스템 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-agent/)
@@ -2110,6 +2127,7 @@ NLP
     * [LangGraph - Multi-Agent Collaboration(다중 협업 에이전트) 로 복잡한 테스크를 수행하는 LLM 어플리케이션 제작 - 테디노트](https://www.teddynote.com/langgraph/langgraph-multi-agent-collaboration/)
     * [#LangChain 이 만든 #LangGraph 출시! LangGraph 의 멀티 에이전트 콜라보레이션 찍먹하기 - YouTube](https://www.youtube.com/watch?v=G8jrAA2bPnA)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
+  * [LangServe 리뷰 초간편 LLM 웹앱 제작 & 배포기능까지! 과연, Streamlit 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=mdzMBF56HOM)
   * [RAPTOR](https://teddylee777.notion.site/RAPTOR-e835d306fc664dc2ad76191dee1cd859)
     * [👀 긴 문서(long context) 에 대한 참신한 RAG 방법론: RAPTOR! 논문 리뷰와 코드를 준비했습니다👌 - YouTube](https://www.youtube.com/watch?v=gcdkISrpMCA)
     * [07-RAG/09-RAPTOR-Long-Context-RAG.ipynb at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/blob/main/07-RAG/09-RAPTOR-Long-Context-RAG.ipynb)
@@ -3470,6 +3488,8 @@ NLP
 * [speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline](https://github.com/Uberi/speech_recognition#readme)
   * [Make a Voice Assistant with Python - YouTube](https://www.youtube.com/watch?v=iwVaAAEE4fo)
 * [SSML-prosody-library: A collection of pre-built speech synthesis settings used to convey emotion](https://github.com/brycehowitson/SSML-prosody-library)
+* [Synthflow AI](https://synthflow.ai/)
+  * [Building an AI Salesman in Under 10 Minutes (Outbound & Inbound Sales) - YouTube](https://www.youtube.com/watch?v=ICnDb6kWsnI)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
