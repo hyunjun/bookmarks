@@ -168,6 +168,7 @@ Writing
 * [Write The Docs 3월 밋업 발표자료](https://blog.outsider.ne.kr/1435)
 * [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/)
 * [주석 분석기를 이용한 간단한 API 문서화 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
+* [더 자유롭고, 빠르고, 정확하게: 토스페이먼츠 API 문서 엔지니어링](https://velog.io/@tosspayments/%EB%8D%94-%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%A0%95%ED%99%95%ED%95%98%EA%B2%8C-%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-API-%EB%AC%B8%EC%84%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81) MDX OAS
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
@@ -301,6 +302,7 @@ Writing
 * [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
   * [개발 직무 지원자를 위한 글쓰기 조언 | GeekNews](https://news.hada.io/topic?id=13662)
 * [practice - 기술 작가와 함께 알아가는 테크니컬 라이팅 - 비문학 정보전달 글쓰기의 기본](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#37298e1c32f04906832782f6a1fb593a)
+* [보이지 않는 로직, 읽을 수 있는 문서로 만들기!](https://techblog.lycorp.co.jp/ko/turn-invisible-logic-into-readable-document) 정책서 policy
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
 * [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
