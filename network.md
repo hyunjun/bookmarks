@@ -326,6 +326,9 @@ Network
 * [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
 * [SSL Handshake Failure. The Secure Socket Layer (SSL) enables a… | by Moises Gamio | May, 2022 | Medium](https://medium.com/@mkgv89/ssl-handshake-failure-66ffb42cff4)
 * [안전하지 않은 네트워크에서 안전한 통신을 위한 HTTPS(SSL/TLS)](https://blog.naver.com/pjt3591oo/223182332474)
+* [lcl.host](https://lcl.host/)
+  * [anchor.dev/blog/introducing-lcl-host](https://anchor.dev/blog/introducing-lcl-host)
+  * [Lcl.host: 로컬 개발 환경에서 빠르고 쉬운 HTTPS 구현 | GeekNews](https://news.hada.io/topic?id=13921)
 
 # IP address
 * ifconfig.co [What is my IP address? — ifconfig.co](https://ifconfig.co/)
