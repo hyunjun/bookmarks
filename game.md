@@ -208,3 +208,5 @@ Game
 ## Library Scala
 * [Indigo · A game engine for programmers](https://indigoengine.io/)
   * [How to write a fire shader · Indigo](https://indigoengine.io/docs/guides/howto-fire-shader)
+  * [indigo.g8: A giter8 template for Indigo games!](https://github.com/PurpleKingdomGames/indigo.g8)
+    * [Let's build Snake! - YouTube](https://www.youtube.com/watch?v=YJtG5E_a9sw)
