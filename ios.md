@@ -697,6 +697,7 @@ iOS
 * [한글자막 스위프트를 이용한 아이폰개발 Stanford CS193p - YouTube](https://www.youtube.com/playlist?list=PLQdCGOoR3OqYQQY1sVzq_cXE8zS28r-Dc)
 * [rethrows로 에러를 다시 던져보자 🥏 :: iOYES](https://green1229.tistory.com/418)
 * [Swift의 Network Layer | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-network-layer/)
+* [What's new in Swift 5.10 :: iOYES](https://green1229.tistory.com/458)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
