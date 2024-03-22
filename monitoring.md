@@ -328,6 +328,7 @@ Monitoring
     * 응답자 중 61%는 옵저버빌리티의 가장 큰 우려 사항으로 비용이나 예상치 못한 청구서
     * 응답자의 98%가 오픈소스 옵저버빌리티 도구 사용중
     * 가장 많이 쓰이는 기술은 Grafana, Prometheus, Grafana Loki, OpenTelemetry, ELK
+* [Logging, tracing and metrics are 3 pillars of system observability](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7174647873978990592-B8lM/)
 * [Clymene: the Clymene is time-series data and Logs collection platform for distributed systems](https://github.com/Clymene-project/Clymene)
   * [분산 환경의 효율적인 시계열 데이터 수집 및 관리 방안. MSA! 마이크로 서비스 아키텍처는 이제 서비스를 개발하고 운영할 때… | by allen | Medium](https://medium.com/@clymeneallen/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%95%88-16d787c5ed3d)
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 모니터링 시스템 구축 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-4666c21788c7)
