@@ -3801,6 +3801,7 @@ Programming
 * [Ultratestable Coding Style](http://blog.jessitron.com/2015/06/ultratestable-coding-style.html)
 * [2013년 7~9월 클린 코더스 강의](https://github.com/msbaek/clean-coders-2013)
 * [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0)
+* [The Montréal Effect: Why Programming Languages Need a Style Czar - Earthly Blog](https://earthly.dev/blog/language-style-czar/) style czar라는 용어가 부정적일 수도 있지만, 뭘 이야기하고 싶은지는 알겠음
 * [클린 코드와 소프트웨어 장인 정신](https://medium.com/@joongwon/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C%EC%99%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-59b4d8d143ed)
 * [괜찮은 개발자 되기, 클린 코더를 읽고](https://medium.com/@jungil.han/%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%8D%94%EB%A5%BC-%EC%9D%BD%EA%B3%A0-c8bcf91c2c76)
 * [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
@@ -5086,6 +5087,8 @@ Programming
 * [Hatchet](https://hatchet.run/)
   * [hatchet: A distributed, fault-tolerant task queue](https://github.com/hatchet-dev/hatchet)
   * [Hatchet – 오픈 소스 분산 작업 큐 | GeekNews](https://news.hada.io/topic?id=13722)
+* [Memphis.dev | Where data streaming becomes a breeze](https://memphis.dev/)
+  * [나는 생각한다, Go로 나는 분산 로깅을 개발한다](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165547&searchData=&subIndex=)
 * messaging-hub
   * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
   * [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
@@ -7296,6 +7299,7 @@ Programming
 * [Patterns & Anti-Patterns for Effective Feature Flagging • Edith Harbaugh • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DAV9BFwsqB8)
 * [Feature Flag, 안전하고 신뢰 가능한 배포로 나아가는 열쇠 🔑 | 전지원 - YouTube](https://www.youtube.com/watch?v=8EZZQZJTKEk)
 * [Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df)
+* [Sequential A/B Testing Keeps the World Streaming Netflix Part 2: Counting Processes | by Netflix Technology Blog | Mar, 2024 | Netflix TechBlog](https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642)
 * [A/B 테스트 결과, 이게 맞아? | 요즘IT](https://yozm.wishket.com/magazine/detail/1325/)
   * [The Math Behind A/B Testing with Example Python Code | by Nguyen Ngo | Towards Data Science](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
   * [바로 활용하는 12가지 AB 테스트 사례 | 요즘IT](https://yozm.wishket.com/magazine/detail/897/)
