@@ -4954,6 +4954,7 @@ Javascript
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
   * [Expo-React-Native-Template: Expo React Native + Redux Pattern Ducks + Native Base + EAS](https://github.com/couoheduardo/Expo-React-Native-Template)
+  * [Expo Application Services (EAS)](https://expo.dev/eas)
 * flipper [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
   * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 * [grocery-list](https://github.com/dvlprJobayer/grocery-list)
