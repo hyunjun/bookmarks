@@ -463,6 +463,24 @@ Artificial Intelligence
 * [RAG 핵심으로 부상하는 초고정밀도∙초고성능 LLM용 벡터 DB < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=9379)
 * [Deep Dive into Vector Databases by Hand ✍︎ | by Srijanie Dey, PhD | Mar, 2024 | Towards Data Science](https://towardsdatascience.com/deep-dive-into-vector-databases-by-hand-e9ab71f54f80)
   * [Deep Dive into Vector Databases by Hand ✍️ with Dr. Dey](https://www.linkedin.com/posts/tom-yeh_vectordatabase-aibyhand-rag-ugcPost-7176245339249672192-lh3-/)
+* [Scaling vector search using Cohere binary embeddings and Vespa | Vespa Blog](https://blog.vespa.ai/scaling-large-vector-datasets-with-cohere-binary-embeddings-and-vespa/)
+  * 코히어는 최근 바이너리 및 int8 벡터 지원을 제공하는 새로운 임베딩 API 출시
+  * 중요한 이유
+    * 바이너리화로 저장 요구 사항이 크게 감소(1024개의 부동 소수점에서 128바이트로 압축)
+    * Vespa에서 기본적으로 지원하는 해밍 거리로 인해 거리 계산 속도 향상
+    * 동일한 텍스트 입력에 대한 다중 벡터 표현으로 초기 코스 검색 후 높은 해상도 표현 사용 가능
+    * 계층적 저장 및 계산 경제성으로 배포 비용이 크게 절감
+    * Vespa는 HNSW 인덱싱 유무에 관계없이 해밍 거리 계산 지원
+  * 코히어 v3 임베딩 모델 소개
+    * 단일 텍스트 입력에 대해 다중 벡터 표현이 가능하며 임베딩 API 사용 시 추가 요금 없음
+    * 효율성과 비용 간 절충이 가능하므로 예산 내에서 최적의 성능
+  * Vespa에서 새로운 코히어 임베딩 모델 사용법
+    * 콤팩트 바이너리 표현만 사용하는 가이드
+    * 바이너리 표현과 int8 버전 두 가지를 사용하는 가이드
+    * 다국어 하이브리드 검색을 위한 Cohere 다국어 임베딩 가이드
+  * 요약
+    * 코히어의 최신 임베딩 모델과 Vespa의 바이너리 및 int8 벡터 지원이 결합되어 계층적 저장 및 계산을 통해 비용을 최소화 가능
+    * 임베딩 API의 유연성과 Vespa의 기능을 통해 대규모 데이터 세트에서 RAG 파이프라인을 향상시키고 비용 절감 가능
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
