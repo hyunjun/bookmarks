@@ -1934,6 +1934,8 @@ Programming
   * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
   * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
   * [SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가 | GeekNews](https://news.hada.io/topic?id=6243)
+* [Tenant lifecycle considerations in a multitenant solution - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenant-lifecycle)
+  * [테넌트 수명 주기를 고려한 멀티 테넌시 설계](https://maily.so/saascenter/posts/a2c6ad6d?mid=fd9804ec)
 * [Mitigating the Noisy Neighbour Multitenancy Problem](https://markheath.net/post/noisy-neighbour-multi-tenancy)
   * [멀티테넌트 아키텍처에서 시끄러운 이웃 문제 해결하기](https://maily.so/saascenter/posts/ac8ad619?from=email#comments)
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
