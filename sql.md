@@ -1508,6 +1508,8 @@ SQL
   * [7 years of open-source database development: lessons learned - Vallified](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)
     * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
+* [soul: 🕉 A SQLite REST and realtime server](https://github.com/thevahidal/soul)
+  * [SOUL - SQLite REST 및 실시간 서버 | GeekNews](https://news.hada.io/topic?id=13950)
 * [SpatiaLite: SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)
 * [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
 * [SQLime - SQLite Playground](https://sqlime.org/)
