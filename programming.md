@@ -6726,6 +6726,11 @@ Programming
 * [Can We Please Stop Talking About Tech Debt? • Emily Rosengren • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 * [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
 * [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
+* [멘토링 이야기 21: 기술 부채 갚는 시간 사용 설득을 어떻게 해야할까요?](https://www.linkedin.com/posts/activity-7177013395764760576-WgOR)
+  1. 모니터링
+  2. 사고의 시작 시점을 인지하고 트러블 슈팅하고 문제의 정도를 사후 파악한 후 중요한 문제 재발 방지
+  3. 레벨 0 문제의 발생 빈도수를 주간이나 월간으로 추적하고 경영진 미팅 등에서 이를 공유
+  4. 대형 사고가 터지면 문제가 되는 부분이 바로 부채가 충분히 쌓여서 갚지 않으면 파산할지도 모르는 영역
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
 * [홍영훈 - 사업자산 기술자산 기술부채](https://www.facebook.com/YeongHoon.Hong/posts/pfbid02DBebkUfGsSHzhkM1njSwywMS5ZVAN4oGFgxyHhM33Uzdtpv2P7cpMadFBEQZyYwjl)
   * [OKKY - 기술자산, 기술부채](https://okky.kr/articles/1450040)
