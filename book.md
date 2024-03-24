@@ -1876,6 +1876,10 @@ Book
   * 2023.11.18~19 ★★★★☆ `예측 처리 이론`(`예측 코딩 이론 predictive coding theory`라고도 하는 거 같음)에 대해 국내에서는 처음으로 다루는 책이라고 한다. 뇌과학자의 책이지만, 과학에 대한 이야기만 하지 않고 결국 더불어 사는 사회를 위해 대화가 필요하다는 이야기로 이어지며 읽을수록 마음에 와닿는다는 생각을 하게 되었다.
   * 탐라 문181.3-슈833ㅈ
   * [당신이 보고 믿는 것이 정말 진실일까?...음모론을 믿는 이유 / 장동선 박사 / 제정신이라는 착각 / 성공예감 별책부록 풀버전 - YouTube](https://www.youtube.com/watch?v=2q7PYNWCxS4)
+* [한낮의 천문대 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9e%a1%ed%95%99%ed%88%b0-%ed%95%9c%eb%82%ae%ec%9d%98-%ec%b2%9c%eb%ac%b8%eb%8c%80/)
+  * 2024.03.24 ★★★☆☆
+  * 탐라 문443.2-김96ㅎ
+  * [국내천문대 | 망원경 | 천문학습관 | 천문우주지식정보](https://astro.kasi.re.kr/learning/pageView/6388)
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
