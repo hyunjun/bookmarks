@@ -485,6 +485,7 @@ Clojure
 * [You can't convert list of lists to a map - YouTube](https://www.youtube.com/watch?v=k5A25Hk_ebY)
 * [Method Values – Inside Clojure](https://insideclojure.org/2024/02/12/method-values/)
 * [Learn Clojure – Functions with multiple arguments - YouTube](https://www.youtube.com/watch?v=1zYfDgpuhAw)
+* [Tricky Clojure Functions: partial, comp, juxt and more - YouTube](https://www.youtube.com/watch?v=S9heg5vS7Uo)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
