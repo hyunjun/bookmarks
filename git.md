@@ -1380,6 +1380,17 @@ Git
     * 모델을 호출할 때 도움이 되지 않는 완성은 호출되지 않도록 하고 어떤 텔레메트리가 수집되는지를 살펴봄
     * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
     * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
+  * [GitHub Copilot: Coding Will Never Be The Same Again • Ryan J. Salva • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=m0skYNIO3mk)
+    * [VidiGo GitHub Copilot: Coding Will Never Be The Same Agai](https://vidigo.ai//share/summary/68000a93f1b3)
+    * [깃허브 코파일럿: 코딩은 다시는 예전과 같지 않을 것입니다 - Ryan J. Salva - YOW! 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/417754?sId=m0skYNIO3mk)
+      14. 개발자가 AI 시스템 개발 도구를 사용하면 Pull requests와 빌드 수 증가
+        * 최초 개발자들은 건의를 제출하면서 30%의 수락률을 보이며, 시간이 흐를수록 능숙해지면서 매달 수락률이 조금씩 증가
+        * 450명의 개발자를 대상으로 6개월간 시행한 연구에서, AI 시스템 개발 도구를 사용하면 Pull requests 수가 50% 늘어나고, 병합된 PR 수도 15% 증가
+        * 또한 빌드 수도 50% 증가하며 빌드 성공률이 45% 향상되어 시간을 줄이고 코드 품질 향상
+        * 이로 인해 소프트웨어 개발 산업에 약 1.5조 달러의 경제적 영향이 예상되며, 세계적으로 3.75조 달러에 이를 수 있다는 연구 결과도 있음
+      15. AI 활용으로 창의적 역할 및 시스템 아키텍트로 발전
+        * AI를 활용할 때, 더 창의적으로 활동하며 시스템 아키텍트처럼 보이는 세상으로 접근해야
+        * 메일 주소의 정규식을 기억하기 위해 문서를 찾아보는 것이 아니라, 노동자로서의 역할을 한정짓지 않게 될 것이다. 이것이 흥미롭고, 기대
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
