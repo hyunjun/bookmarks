@@ -140,5 +140,6 @@ Self Control
     * 결정적으로 흥행에 성공하면서 다시 현재와 같이 공고한 위치로 돌아올 수 있었다고 함
 
 * [신수정 - 40대 그리고 50이 넘으면 필요한 것들](https://www.linkedin.com/posts/soojung-shin-30398b75_40%EB%8C%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-50%EC%9D%B4-%EB%84%98%EC%9C%BC%EB%A9%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EB%93%A4-%EB%B6%80%EC%A0%9C-%EC%86%8D%EB%8F%84-%EB%B0%A9%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8F%AC%EB%A5%B4%EC%89%90-activity-7156822191810957313-ujel/)
+* [신수정 - 40대 직장인에게 필요한 것](https://www.linkedin.com/feed/update/urn:li:activity:7177139232799432704/)
 * [나이들어서 친구가 없을수록 똑똑하다는 증거 (강용수 철학자) - YouTube](https://www.youtube.com/watch?v=GCnulg0NQmM)
   * [나이들어서 친구가 없을수록 똑똑하다는 증거 (강용수 철학자) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345100?sId=GCnulg0NQmM)
