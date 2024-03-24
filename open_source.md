@@ -91,6 +91,7 @@ Open Source
   * BSL 1.1은 특정 조건에서 소스 사용이 가능하기 때문에 대부분의 사용자는 영향이 없고
     * HashiCorp의 OSS 제품으로 상업적 서비스를 제공하는 경우 HashiCorp와 계약 필요
   * BSL은 Couchbase, Cockroach Labs, Sentry, MariaDB, Confluent, MongoDB, Elastic, Redis Labs도 같은 이유로 만들고 채택한 라이센스
+* [Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경 | GeekNews](https://news.hada.io/topic?id=13942) Redis Source Available License (RSALv2), Server Side Public License (SSPLv1)
 * [OpenTF Foundation](https://opentf.org/) Hashicorp의 Terraform license가 MPL -> BUSL로 변경하는 데 대한 반응
   * [OpenTF Foundation](https://opentf.org/announcement)
     * HashiCorp가 Terraform 등 자사의 제품을 BSL로 변경해서 오픈소스가 아니게 된 상황에 대해 OpenTF 형성
