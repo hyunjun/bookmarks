@@ -194,6 +194,14 @@ Artificial Intelligence
 * [Strong AI: Provably Impossible — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/strong-ai-provably-impossible)
 * [AI가 당신의 직업은 빼앗지 않지만, 당신의 급여는 갉아먹을 것입니다 | GeekNews](https://news.hada.io/topic?id=13557)
 * [sora와 gemini 1.5사태가 시사하는 보통 기업들의 AI전략](https://www.yonghosee.com/ai-strategies-must-align-with-data)
+* [7 GenAI & ML Concepts Explained in 1-Min Data Videos - DataScienceCentral.com](https://www.datasciencecentral.com/7-genai-ml-concepts-explained-in-1-min-data-videos/)
+  * 경사 하강법: 대부분의 ML과 GenAI 알고리즘의 핵심 개념
+  * 관측 범위 외 샘플링: 작은 트레이닝 셋에서도 합성 데이터를 생성할 수 있는 방법
+  * 클라우드 회귀: 200가지 회귀 모델 대신 단일 모델로 모든 회귀 처리 가능
+  * 근사 최근접 이웃 검색: LLM/GPT 앱의 코어 컴포넌트
+  * 합성 우주: 복잡한 시스템 진화를 시뮬레이션하는 에이전트 기반 모델링 기법
+  * GPU 분류: 신경망이 아닌 이미지 필터링으로 GPU에서 분류 수행
+  * AI 아트: 숫자 이론과 카오스 동력학 시스템에서 생성된 이미지, 동영상, 사운드트랙 등
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
