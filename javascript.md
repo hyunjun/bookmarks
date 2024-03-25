@@ -2870,6 +2870,8 @@ Javascript
   * [React Micro-Frontends using Vite - DEV Community](https://dev.to/abhi0498/react-micro-frontends-using-vite-30ah)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
   * [Visual Guide to the Modern Frontend Toolchain (Vite) - YouTube](https://www.youtube.com/watch?v=M_edImKoEt8)
+  * [vite환경에서 번들 분석/경량화하여 빌드 시간, 초기 렌더링을 개선한 이야기 — _0422의 생각](https://0422.tistory.com/340)
+  * [모노레포 Vite 경로의 마법사를 해부해보자 - vite-tsconfig-paths — _0422의 생각](https://0422.tistory.com/358)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
