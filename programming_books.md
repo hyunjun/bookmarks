@@ -3807,6 +3807,11 @@ Programming Books
   * ★★☆☆☆ 2024.03.03 각종 도구에 대해 아주 얕게 여러 가지를 소개하는 책
   * 우당 문004-김53ㄱ
   * [개발자로 처음 출근합니다, 독일 개발자 블로그 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=sh_kim_0926&from=postList&categoryNo=1&parentCategoryNo=1)
+* [개발자를 위한 최소한의 실무 지식](https://hanbit.co.kr/store/books/look.php?p_code=B7551603415)
+  * ★★★☆☆ 2024.03.24 초보 개발자뿐 아니라 경력이 있어도 놓칠 수 있는 여러가지를 잘 설명한 책. 나도 오픈소스 라이선스와 SBOM 부분은 따로 기록해뒀다.  Java 중심으로 source code와 함께 설명해서 읽으면서 설명만으로 이해가 안 되면 source와 함께 자세히 볼 수 있어서 좋다.
+  * 한라 005.1-김94ㄱ
+  * [Opensource License - GPL LGPL Apache BSD MIT](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#8af707b924f245b2beac7d9341f1889c)
+  * [SBOM Software Bill of Material](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#f44feeaa3a2641208b5fc7a255c40f66)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)

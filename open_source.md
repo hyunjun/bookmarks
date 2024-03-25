@@ -395,6 +395,7 @@ Open Source
   * [오픈소스 라이선스 변화의 흐름 | GeekNews](https://news.hada.io/topic?id=4991)
 * [NASA "오픈소스 정확한 의미 모르는 개발자 많아" - ZDNet korea](https://zdnet.co.kr/view/?no=20211111154404)
 * [오픈소스 라이센스 표시 :: iOYES](https://green1229.tistory.com/381)
+* [Opensource License - GPL LGPL Apache BSD MIT](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#8af707b924f245b2beac7d9341f1889c)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
   * [오픈소스 검증 도구: OLIVE CLI 소개 – tech.kakao.com](https://tech.kakao.com/2022/06/09/olive-cli/)
   * [if(kakao)dev2022 - 오픈소스 더 똑똑하게 관리하자](https://if.kakao.com/2022/session/92)

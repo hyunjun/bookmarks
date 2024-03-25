@@ -6678,6 +6678,7 @@ Programming
     * 해당 취약점이 실제로 프로덕션 워크로드에서 실행 중인지 아닌지를 파악 가능
     * Datadog에서 쿼리 가능
     * 관련 취약점에 대한 정보를 연결
+* [SBOM Software Bill of Material](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#f44feeaa3a2641208b5fc7a255c40f66)
 * [OmniBOR](https://github.com/OmniBor)
   * [Introduction to OmniBOR - YouTube](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 
