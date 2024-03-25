@@ -123,6 +123,7 @@ Concurrency
 * [ES proposal: Shared memory and atomics](http://www.2ality.com/2017/01/shared-array-buffer.html)
   * [번역 ES proposal: Shared memory and atomics](http://modernator.me/article/esnext/es-proposal-shared-memory-and-atomic)
 * [싱글스레드 vs 멀티스레드 (Node.js)](https://velog.io/@injoon2019/%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-vs-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-Node.js)
+* [나는 몰랐던, 고성능 멀티쓰레드 동기화 기법 - CAS (Compare And Swap)](https://velog.io/@joosing/high-performance-multithreaded-sync-techniques-compare-and-swap)
 
 # OpenMP
 * [OpenMP Test on Visual Studio](http://study.marearts.com/2017/05/openmp-test-on-visual-studio.html)
