@@ -168,6 +168,11 @@ Programming
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+* [Bikeshedding - The Daily Software Anti-Pattern](https://exceptionnotfound.net/bikeshedding-the-daily-software-anti-pattern/)
+  * bikeshedding - 사소한 것 때문에 중요한 문제를 놓치는 것
+    * C. 노스코트 파킨슨C. Northcote Parkinson의 ‘사소함의 법칙law of triviality’에서 유래
+    * 일반적으로 조직 구성원은 (매우 어려워 이해하기 어려운) 핵발전소에 대한 검증 기준보다는
+      * 누구나 다 알고 있는 사항인 자전거 보관소에 어떤 색을 칠할 것인지와 같은 사소한 문제를 더 비중 있게 다룬다는 말에서 유래
 * [Future Programming Workshop](http://www.future-programming.org/call.html)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [마세라티 문제](http://www.venturesquare.net/585839)
