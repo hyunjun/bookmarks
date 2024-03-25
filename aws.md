@@ -2301,6 +2301,7 @@ AWS
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(2) | by Phoebe Baek | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/oracle-data-pump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-2-eed89531940)
 * [신규 – AWS DMS Serverless: 마이그레이션과 데이터 복제를 위한 용량을 자동으로 프로비저닝 및 확장 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-dms-serverless-automatically-provisions-and-scales-capacity-for-migration-and-data-replication/)
 * [사용법과 함께 작성해본 좌충우돌 AWS DMS 사용기 - feat. RDS 통합 이야기 | 뱅크샐러드](https://blog.banksalad.com/tech/dms/)
+* [AWS DMS를 이용한 CDC 데이터 실시간 수집 및 분석 데이터 파이프라인 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cdc-data-pipeline-from-db-to-opensearch-service/)
 * [AWS RDS 생성 및 적용 방법 (Nest.js 기준)](https://blog.naver.com/gi_balja/223042740762)
 * [LG전자의 Amazon Aurora 및 RDS 블루/그린 배포를 이용한 데이터베이스 업그레이드 안정성 확보 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-electronics-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 * [Slack에서 ‘RDS정지’를 시행 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/slack%EC%97%90%EC%84%9C-rds%EC%A0%95%EC%A7%80%EB%A5%BC-%EC%8B%9C%ED%96%89-%ED%95%B4-%EB%B3%B4%EA%B8%B0-d8b00b62045f)
