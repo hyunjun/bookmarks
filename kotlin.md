@@ -226,6 +226,7 @@
 * [입 개발 Kotlin으로 Google Sheet 열어보기 | Charsyam's Blog](https://charsyam.wordpress.com/2023/11/21/%ec%9e%85-%ea%b0%9c%eb%b0%9c-kotlin%ec%9c%bc%eb%a1%9c-google-sheet-%ec%97%b4%ec%96%b4%eb%b3%b4%ea%b8%b0/)
 * [자바 프로젝트 3개 코틀린 점진적 전환기(feat. lombok 됩니다.) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kotlin-migration/)
 * [Perils of duplicate finding - Jake Wharton](https://jakewharton.com/perils-of-duplicate-finding/)
+* [Seven recipes to understand flows and asynchrony in Kotlin | by Tom Colvin | Mar, 2024 | ProAndroidDev](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
