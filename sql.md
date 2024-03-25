@@ -891,6 +891,8 @@ SQL
 * [입만 가지고 떠드는 개발자가 ChatGPT에게 외주줘서 만든 Mysql 복제지연 모니터링](https://d2.naver.com/helloworld/8532139)
 * [MySQL 접속 장애 예방 및 해결 방법, How to prevent and solve MySQL connection failure - YouTube](https://www.youtube.com/watch?v=7uvtQwJP5zc)
 * [PlanetScale is bringing vector search and storage to MySQL](https://planetscale.com/blog/planetscale-is-bringing-vector-search-and-storage-to-mysql)
+* [MySQL DECIMAL vs DOUBLE(FLOAT): 뭘 선택해야 할까?(Feat. 고정 소수점 vs 부동 소수점)](https://woonys.tistory.com/entry/MySQLDECIMAL-vs-DOUBLEFLOAT-%EB%AD%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8CFeat-%EA%B3%A0%EC%A0%95-%EC%86%8C%EC%88%98%EC%A0%90-vs-%EB%B6%80%EB%8F%99-%EC%86%8C%EC%88%98%EC%A0%90)
+* [MAMP의 MySQL 포트가 3306이 아닌데도 localhost라고만 적었을 때 접속이 되는 이유 – 형우의 웹개발](https://mytory.net/archives/16179)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
