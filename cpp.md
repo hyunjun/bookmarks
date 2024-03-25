@@ -499,3 +499,4 @@ C++
 * [10 Best C++ Courses for Beginners and Experienced Developers | by javinpaul | Jan, 2022 | Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/10-best-c-courses-for-beginners-and-experienced-developers-fd2401c07f50)
 * [Introduction to Programming in C++ - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kRxNCwhDyw98Hq9vrmnCdz)
 * [Advanced Programming in C++ and Introduction to Data Structures - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kIgUuCdRw_rxIlb3zaVXAY)
+* [BEAUTIFUL C++](https://godbolt.org/z/cg30-ch0.0)
