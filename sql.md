@@ -424,6 +424,7 @@ SQL
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
 * [sqldef: Idempotent schema management for MySQL, PostgreSQL, and more](https://github.com/k0kubun/sqldef)
+* [sqlglot: Python SQL Parser and Transpiler](https://github.com/tobymao/sqlglot)
 * [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
@@ -1332,6 +1333,7 @@ SQL
 * [teable: ✨ A Super fast, Real-time, Professional, Developer friendly, No code database](https://github.com/teableio/teable)
   * [Teable - Postgres와 Airtable을 결합한 오픈소스 노코드 데이터베이스 | GeekNews](https://news.hada.io/topic?id=13768)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
+* [transqlate - 모든 SQL을 PostgreSQL Dialect로 변환(Transp | GeekNews](https://news.hada.io/topic?id=13978)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
 
