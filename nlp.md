@@ -1767,6 +1767,8 @@ NLP
 * [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
 * [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
+* [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
   * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
     * Claude 3 Sonnet v1
@@ -1777,7 +1779,6 @@ NLP
       * RAFT는 모델이 주어진 질문에 대답하는 데 기여하지 않는 검색된 문서를 무시하도록 훈련함으로써 이러한 방해 요소를 제거합니다. 이는 도움이 되는 문서에서 관련 부분을 정확히 식별하고 인용하여 질문에 대답함으로써 달성됩니다. 또한 RAFT의 Chain-of-Thought 스타일 응답은 모델의 추론 능력을 더욱 개선합니다. 도메인 특정 RAG에 적용될 때 RAFT는 PubMed, HotpotQA, Gorilla 등 다양한 데이터 세트에서 일관되게 성능을 향상시켜 도메인 특정 RAG 기능을 갖는 사전 훈련된 LLM에 대한 유용한 사후 훈련 강화를 제공합니다.
       * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
   * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
-* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
