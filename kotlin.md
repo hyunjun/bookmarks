@@ -606,6 +606,7 @@
 * [코틀린과 변성](https://velog.io/@inust33/%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%BC-%EB%B3%80%EC%84%B1)
 * [새로운 학습 과정, Kotlin Onboarding: Introduction을 소개합니다 | The JetBrains Academy Blog](https://blog.jetbrains.com/ko/education/2023/03/06/kotlin-onboarding-introduction/)
 * [코틀린 기초에서 활용까지(권장 강의) - YouTube](https://www.youtube.com/playlist?list=PLilcDFW2bfcouUCLL80-ABoatrcKynq7N)
+* [☕️Java, Kotlin 시작하기 0 - YouTube](https://www.youtube.com/watch?v=HYhS9MNfZdo)
 * [Kotlin(코틀린) 문법 총 정리](https://junyharang.tistory.com/531)
 * [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
