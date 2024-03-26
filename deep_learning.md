@@ -1479,6 +1479,8 @@ Deep Learning
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
 * [Mamba: 트랜스포머에 도전하는 상태 공간 모델 | GeekNews](https://news.hada.io/topic?id=13538)
 * [Mamba : 트랜스포머를 대체할 차세대 아키텍처의 등장 - 모두의연구소](https://modulabs.co.kr/blog/introducing-mamba/)
+* [A Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
+  * [**맘바 및 상태 공간 모델에 대한 비주얼 가이드**](https://tulip-phalange-a1e.notion.site/05f977226a0e44c6b35ed9bfe0076839)
 * [micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
   * [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
