@@ -2277,6 +2277,8 @@ NLP
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
   * [Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM - YouTube](https://www.youtube.com/watch?v=-Rs8-M-xBFI)
+* [LogicKor: 한국어 언어모델 다분야 사고력 벤치마크](https://github.com/StableFluffy/LogicKor)
+  * [한국어 언어모델 리더보드는 제 역할을 하지 못한다](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2262905880717124)
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
