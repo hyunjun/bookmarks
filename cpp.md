@@ -334,6 +334,11 @@ C++
 * [Your New Mental Model of constexpr - Jason Turner - CppCon 2021 - YouTube](https://www.youtube.com/watch?v=MdrfPSUtMVM)
 * [Lessons Learned from Packaging 10,000+ C++ Projects - YouTube](https://www.youtube.com/watch?v=9YYbFWU9tjs)
 * [Real-time Programming with the C++ Standard Library - YouTube](https://www.youtube.com/watch?v=d1hyXEYE3ZY)
+* [GoingNative 2013 C++ Seasoning - YouTube](https://www.youtube.com/watch?v=W2tWOdzgXHA)
+  * [C++ Seasoning](https://sean-parent.stlab.cc/presentations/2013-09-11-cpp-seasoning/cpp-seasoning.pdf)
+    * 원시 루프를 사용하지 마세요no raw loop 라는 원칙
+    * 원시 루프란 ‘반복문에 구현된 알고리즘보다 함수가 더 큰 목적을 수행하는 경우의 해당 반복문’
+      * 함수에 반복문 대신 표준 라이브러리 함수를 가져다 쓸 수 있다면 라이브러리를 써서 코드를 정리하도록 권장
 
 # IDE
 * CLion
