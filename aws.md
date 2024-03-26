@@ -376,6 +376,8 @@ AWS
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [ARM과 x86 서버의 차이점 "사무실 구린 .. : 네이버블로그](https://blog.naver.com/xslab/223383444616)
+* [Instance sizes in the Amazon EC2 Hpc7 family – a different experience | AWS HPC Blog](https://aws.amazon.com/blogs/hpc/instance-sizes-in-the-amazon-ec2-hpc7-family-a-different-experience/)
+  * [ARM 기반의 AWS HPC 전용 인스턴스, Hpc7g 파헤치기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc7g-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
