@@ -5083,6 +5083,14 @@ Programming
 * [Building a Scalable Low Latency Messaging Platform for Equities Trading Business • Alexandra Tessari - YouTube](https://www.youtube.com/watch?v=eJYBnPCEnCA)
 * [IBM MQ -> RabbitMQ -> Kafka ->Pulsar, How do message queue architectures evolve?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7114998863723130880-dV4x/)
 * [대규모 트랜잭션을 처리하는 배민 주문시스템 규모에 따른 진화 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=704qQs6KoUk)
+* [Share Memory By Communicating - The Go Programming Language](https://go.dev/blog/codelab-share)
+  * ‘메모리 공유로 통신하지 말고, 통신으로 메모리를 공유하라’ Go의 첫 슬로건. 동시성만큼이나 오랜 지식과 경험
+  * 이를 C++에 적용하려면 뮤텍스 및 관련 데이터는 모두 따로 두고 스레드 간에 통신하는 다른 방식을 받아들여야 함(메시지 전달 방식)
+  * 메모리 공유로 인한 문제를 막으려면
+    * 메모리를 공유해도 문제 없게 불변으로 하거나
+    * 이 슬로건처럼 통신을 통해 공유를 하는 방식을 생각해볼 수 있을텐데
+  * 불변으로 하는 경우는 읽기에만 제한적으로 사용할 수 있다는 걸 고려하면
+  * 통신을 통해 공유하는 건 queue를 사용해 architecture를 확장하는 측면으로 생각해봐도 좋을 거 같다
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)

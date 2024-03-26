@@ -361,9 +361,6 @@ Go
 * [How To Build a Complete API In Golang (Docker, JWT, MySQL) - YouTube](https://www.youtube.com/watch?v=2JNUmzuBNV0)
 * [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
   * [Go로 10억 행 처리하기 도전: 9개의 방법으로 1분45초에서 4초로 단축 | GeekNews](https://news.hada.io/topic?id=13627)
-* [Share Memory By Communicating - The Go Programming Language](https://go.dev/blog/codelab-share)
-  * ‘메모리 공유로 통신하지 말고, 통신으로 메모리를 공유하라’ Go의 첫 슬로건. 동시성만큼이나 오랜 지식과 경험
-  * 이를 C++에 적용하려면 뮤텍스 및 관련 데이터는 모두 따로 두고 스레드 간에 통신하는 다른 방식을 받아들여야 함(메시지 전달 방식)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
