@@ -590,6 +590,7 @@ iOS
 * [Explore SwiftUI and Jetpack Compose | by Yevhenii Datsenko | The Startup | Medium](https://medium.com/swlh/explore-swiftui-and-jetpack-compose-6c3efa6d8bb)
 * [Introducing SwiftUI 따라잡기 - 장소 소개하는 화면 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1623)
 * [LINE Pay에서 SwiftUI TextField 사용하기](https://engineering.linecorp.com/ko/blog/line-pay-swiftui-textfield)
+* [TextField 시뮬레이터 버그 (Timeout) :: iOYES](https://green1229.tistory.com/459)
 * [SwiftUI NavigationView로 Coordinator Pattern 사용하기](https://labs.brandi.co.kr//2022/12/12/leehs81.html)
 * [SwiftUI ForEach 내부의 Sheet에 대하여 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-sheet-inside-foreach/)
 * [Protocol 로 SwiftUI & Preview 200% 활용하기 | by Lee Di | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/protocol-%EB%A1%9C-swiftui-preview-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-cf5341d312c7)
