@@ -411,6 +411,7 @@ Artificial Intelligence
       * 이제는 *비구조화, 준구조화 및 구조화된 데이터를 사용하여 자동화*하는 작업에 집중하고 있으며, 데이터 정리와 자동화에 초점
       * 데이터 발견하고 정리하며, 그 데이터와 대화, 해당 데이터를 *하위 인사이트 및 분석*에 활용 가능하게 하는 *자동화된 데이터 curation* 작업에 중점
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
+* [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
