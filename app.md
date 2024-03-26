@@ -701,6 +701,8 @@ App
 * IDX [Project IDX](https://idx.google.com/)
   * [IDX - 웹에서 ios, android시뮬까지 가능한! - YouTube](https://www.youtube.com/watch?v=wAt7PMqVFL4)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
+* [mise-en-place](https://mise.jdx.dev/)
+  * [Comparison to asdf | mise-en-place](https://mise.jdx.dev/dev-tools/comparison-to-asdf.html)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io) low code or no code tool
   * [n8n.io - Typeform to Google Sheet and Slack or Email - YouTube](https://www.youtube.com/watch?v=rn3-d4IiW44)
