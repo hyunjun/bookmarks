@@ -4952,6 +4952,7 @@ Javascript
 * [React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
   * 뉴스레터 서비스인 뉴닉의 React Native 앱에서 접근성을 개선한 내용을 정리한 글
   * 다크모드를 지원하고 기능을 말로 설명해 주는 보이스오버나 톡백 기능을 구현하고 가로 모드 지원과 폰트 크기를 다양하게 지원할 수 있도록 개선
+* [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
