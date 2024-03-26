@@ -4956,6 +4956,7 @@ Javascript
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
+  * [웹뷰를 이용해 웹 서비스를 앱으로 빠르게 구현하기 | 인프콘2023 - YouTube](https://www.youtube.com/watch?v=hsh8BS7gyrY)
   * [Expo-React-Native-Template: Expo React Native + Redux Pattern Ducks + Native Base + EAS](https://github.com/couoheduardo/Expo-React-Native-Template)
   * [Expo Application Services (EAS)](https://expo.dev/eas)
 * flipper [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
