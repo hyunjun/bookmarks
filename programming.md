@@ -4536,6 +4536,8 @@ Programming
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
+* [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
+  * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 * [neuvector](https://github.com/neuvector/neuvector)
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
@@ -4568,6 +4570,8 @@ Programming
     * 봇을 차단하기 위해 사용하는 CAPTCHA의 대안으로 작년에 Cloudflare가 공개한 Turnstile이 누구나 이용할 수 있도록 완전히 무료 공개
     * 시각적 퍼즐이 사람에게도 어렵기 때문에 Turnstile은 퍼즐을 전혀 보여주지 않고 봇을 detect
     * 지난 1년 동안 모니터링한 결과 프로덕션에 사용할 준비가 완료되었다고 판단하고 정식 버전으로 공개
+* [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
+* [ZAP](https://www.zaproxy.org/) vulnerability scanner
 * [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
   * [비밀번호의 강도를 알려주는 zxcvbn - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/901)
 
