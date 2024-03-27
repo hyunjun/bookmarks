@@ -34,6 +34,7 @@ GIS
 * [나 4년 차 서버개발자, 배달의민족의 지리 체계를 뒤흔들다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11238/)
 * [AWS·메타·MS 참여한 오버추어맵스재단, 오픈소스 지리 데이터 무료 공개 - CIO Korea](https://www.ciokorea.com/news/301081)
 * [컬리가 상품을 고객에게 빠르게 전달하는 똑똑한 방법 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/tc-optimization/)
+* [Ad Management 파트 서버 개발자의 지역 타게팅 개선기](https://tech.buzzvil.com/blog/ad-management-geo-targeting-improvement/) convex hull 외접다각형 Graham Scan 그레이엄 스캔
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
