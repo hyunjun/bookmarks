@@ -1793,6 +1793,8 @@ Web
 * [분산서버 환경에서 발생할 수 있는 Session 불일치 문제를 해결해봅시다 (1) - Sticky Session - See One](https://see-one.tistory.com/10)
 * [Sticky Session과 Session Clustering - SMJ Blog](https://smjeon.dev/web/sticky-session/)
 * [openreplay: OpenReplay is developer-friendly, open-source session replay](https://github.com/openreplay/openreplay)
+* [WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence](https://github.com/wirequery/wirequery)
+  * [WireQuery - 풀스택 세션 리플레이 도구 | GeekNews](https://news.hada.io/topic?id=14008)
 
 # SVG
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
