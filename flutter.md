@@ -51,6 +51,7 @@ Flutter
 * [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
 * [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
 * [flutter web과 aws, github actions 로 반응형 웹사이트 제작하기 | by NAMKYU PARK | Jun, 2021 | Medium](https://trialxxerror.medium.com/flutter-web%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3c9925b55101)
+* [Flutter LayoutBuilder로 만드는 반응형 UI | by Cody Yun | Mar, 2024 | Medium](https://medium.com/@cody.yun/flutter-layoutbuilder%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%98%EC%9D%91%ED%98%95-ui-ac63e6a972b6)
 * [하나의 코드로 안드로이드, ios, web 개발하기(flutter) | by 박남규, Loyle Park | Medium](https://loyle.medium.com/%ED%95%98%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ios-web-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-flutter-ff1d9b8f7d41)
 * [flutter-web-example · GitHub Topics](https://github.com/topics/flutter-web-example)
 * [samples/web at main · flutter/samples](https://github.com/flutter/samples/tree/main/web)

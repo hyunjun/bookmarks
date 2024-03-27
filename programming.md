@@ -168,6 +168,11 @@ Programming
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
+* [Bikeshedding - The Daily Software Anti-Pattern](https://exceptionnotfound.net/bikeshedding-the-daily-software-anti-pattern/)
+  * bikeshedding - 사소한 것 때문에 중요한 문제를 놓치는 것
+    * C. 노스코트 파킨슨C. Northcote Parkinson의 ‘사소함의 법칙law of triviality’에서 유래
+    * 일반적으로 조직 구성원은 (매우 어려워 이해하기 어려운) 핵발전소에 대한 검증 기준보다는
+      * 누구나 다 알고 있는 사항인 자전거 보관소에 어떤 색을 칠할 것인지와 같은 사소한 문제를 더 비중 있게 다룬다는 말에서 유래
 * [Future Programming Workshop](http://www.future-programming.org/call.html)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [마세라티 문제](http://www.venturesquare.net/585839)
@@ -862,6 +867,11 @@ Programming
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
 * [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * [Time to Improve Retrospective](https://medium.com/@vladbatushkov/time-to-improve-retrospective-9794a668b825)
+* [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
+* [KPT 회고하는 법, 회고에 대한 생각 · 어쩐지 오늘은](https://zzsza.github.io/diary/2023/06/05/how-to-retrospect/)
+* [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
+* [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
+* [여기어때의 회고 문화. 글. 천지희(Elizabeth) / Project Manager | by Elizabeth | Mar, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EB%AC%B8%ED%99%94-a8aeee71a7aa)
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
@@ -888,8 +898,6 @@ Programming
 * [애자일, 칸반, 스크럼, 스프린트…? 뭣이 중헌디?](https://eopla.net/magazines/2511)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
-* [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
-* [KPT 회고하는 법, 회고에 대한 생각 · 어쩐지 오늘은](https://zzsza.github.io/diary/2023/06/05/how-to-retrospect/)
 * [Scrum vs Kanban: Agile Methodologies Comparison](https://k21academy.com/scrum-master/scrum-vs-kanban/)
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
@@ -1040,7 +1048,6 @@ Programming
       * 따라서 여기서는 이 간극을 메우고 프로젝트를 구성 작업으로 분해하는 과정을 살펴보겠습니다. 예를 들어 작업을 분해하는 방법을 보여주고 그 과정을 설명할 것입니다. 하지만 우회로를 거치고 싶지 않다면 마지막 부분으로 건너뛰어 프로세스를 요약할 수 있습니다.
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
-* [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
 * [Programmers, what do you despise about Agile? - Quora](https://www.quora.com/Programmers-what-do-you-despise-about-Agile)
 * [애자일과 PO - Google Slides](https://docs.google.com/presentation/d/1rQ4zVlFl4GInIQYs24rm78FDc6BwM_a3ZdpNJLIh41E/mobilepresent?slide=id.p) [pdf](pdfs/agile_and_po.pdf)
 * [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
@@ -1091,7 +1098,6 @@ Programming
 * [우리가 개발하는 방식 - 눈덩이 굴리기](https://gifting.oopy.io/snowball)
 * [How To Build Quality Software Fast • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NgFVrvwth-Q)
 * [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Va8QedfiC9k)
-* [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
 * [칼럼 | ‘스크럼폴’··· 워터폴이 애자일인 척 준동할 때 - CIO Korea](https://www.ciokorea.com/news/234289) scrumfall
 * [애자일이라고 불러도 되는가?](https://velog.io/@joosing/can-we-call-it-agile) waterfall과의 비교
@@ -4530,6 +4536,8 @@ Programming
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
+* [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
+  * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
 * [neuvector](https://github.com/neuvector/neuvector)
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
@@ -4562,6 +4570,8 @@ Programming
     * 봇을 차단하기 위해 사용하는 CAPTCHA의 대안으로 작년에 Cloudflare가 공개한 Turnstile이 누구나 이용할 수 있도록 완전히 무료 공개
     * 시각적 퍼즐이 사람에게도 어렵기 때문에 Turnstile은 퍼즐을 전혀 보여주지 않고 봇을 detect
     * 지난 1년 동안 모니터링한 결과 프로덕션에 사용할 준비가 완료되었다고 판단하고 정식 버전으로 공개
+* [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
+* [ZAP](https://www.zaproxy.org/) vulnerability scanner
 * [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
   * [비밀번호의 강도를 알려주는 zxcvbn - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/901)
 
@@ -5078,6 +5088,14 @@ Programming
 * [Building a Scalable Low Latency Messaging Platform for Equities Trading Business • Alexandra Tessari - YouTube](https://www.youtube.com/watch?v=eJYBnPCEnCA)
 * [IBM MQ -> RabbitMQ -> Kafka ->Pulsar, How do message queue architectures evolve?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7114998863723130880-dV4x/)
 * [대규모 트랜잭션을 처리하는 배민 주문시스템 규모에 따른 진화 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=704qQs6KoUk)
+* [Share Memory By Communicating - The Go Programming Language](https://go.dev/blog/codelab-share)
+  * ‘메모리 공유로 통신하지 말고, 통신으로 메모리를 공유하라’ Go의 첫 슬로건. 동시성만큼이나 오랜 지식과 경험
+  * 이를 C++에 적용하려면 뮤텍스 및 관련 데이터는 모두 따로 두고 스레드 간에 통신하는 다른 방식을 받아들여야 함(메시지 전달 방식)
+  * 메모리 공유로 인한 문제를 막으려면
+    * 메모리를 공유해도 문제 없게 불변으로 하거나
+    * 이 슬로건처럼 통신을 통해 공유를 하는 방식을 생각해볼 수 있을텐데
+  * 불변으로 하는 경우는 읽기에만 제한적으로 사용할 수 있다는 걸 고려하면
+  * 통신을 통해 공유하는 건 queue를 사용해 architecture를 확장하는 측면으로 생각해봐도 좋을 거 같다
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -6678,6 +6696,7 @@ Programming
     * 해당 취약점이 실제로 프로덕션 워크로드에서 실행 중인지 아닌지를 파악 가능
     * Datadog에서 쿼리 가능
     * 관련 취약점에 대한 정보를 연결
+* [SBOM Software Bill of Material](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#f44feeaa3a2641208b5fc7a255c40f66)
 * [OmniBOR](https://github.com/OmniBor)
   * [Introduction to OmniBOR - YouTube](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 
@@ -6941,6 +6960,35 @@ Programming
     * 잠자기: 어려운 문제에 직면했을 때, 결정하기 전에 하룻밤 잠을 자는 것이 좋음
     * 변화: 가끔씩 역할이나 직업을 바꾸는 것을 두려워하지 말것. . 다른 사람들과, 다른 제품이나 다른 회사에서 일하는 것은 자극적임.
     * 계속 배우기: 소프트웨어 개발의 가장 큰 장점 중 하나는 항상 더 많이 배우고 알 수 있는 여지가 있다는 것. 다양한 프로그래밍 언어와 도구를 사용해 보고, 소프트웨어 개발에 관한 책을 읽고, MOOC 과정을 수강할 것. 작은 개선이 추가되어 당신의 지식과 능력에 실질적인 변화를 가져옴
+* [Building Australia's First Mobile-First Bank • Van Le & Phil Parker • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=B7lKXl63H38)
+  * [VidiGo Building Australia's First Mobile-First Bank • Van](https://vidigo.ai//share/summary/eb0460806b1a)
+  * [호주 최초의 모바일 퍼스트 은행 구축 - Van Le & Phil Parker - YOW! 2017 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/422345?sId=B7lKXl63H38)
+    * 7. 은행 서비스에 대한 고객 불만 사항 및 우려
+      * 은행 고객들은 오랜 기간 동안은행 사용하더라도 새로운 제품을 신청할 때마다 세부 정보를 반복해서 제공해야 하는 경험에 대해 불만을 표현했다.
+      * 고객들은 자신이 보유한 금액이나 지출 내역에 대한 정확한 정보를 갖지 못하는 경우가 많았으며, 디지털화된 데이터를 제출해야 하는데 왜 아직도 은행지점을 방문해야 하는지 의문을 표현했다.
+      * 기술 중심의 밀레니얼 고객들은 자동화되어야 할 은행 업무를 구글링해야 하는 것이 불편하다고 느끼고 있으며, 은행 용어가 복잡하게 느껴진다고 지적했다.
+      * 은행이 무엇인가를 자동화할 수 있는데 왜 고객 스스로 찾아야 하는지, 왜 LVR이나 차입 및 차대 간의 용어 사용이 필요한지에 대한 이해를 희비와 불안을 느끼고 있다.
+    * 8. 고객 통찰로 협력자와의 초기 대화가 시작됨
+      * 경제가 변할 경우, 협력자에게 어떤 일이 생기는지, 그럴 때 얼마나 갈 수 있는지, 충분한 자금을 가졌는지 알아야 했다.
+      * 우리는 초기 대화에서 이러한 고객 통찰을 가지고 있었고, 필과 팀은 만나서 공동의 가치관, 브랜드를 파악하고 실제로 함께 일할 사람들을 직접 마주치는 것의 중요성을 강조했다.
+      * 영국에서 오는데는 충분히 긴 4일 반 인에 미팅을 가졌고 서로를 이해하고 문제 공간을 파악하는 데 중점을 두었다.
+      * 진행 중에는 '트레이서 불릿'이라는 실제 전달의 첫 단계를 시작하였고, 이를 통해 실제로 작동하는 것을 확인할 수 있는 매우 가벼운 플랫폼을 구축하기 시작했다.
+    * 9. iOS 앱 및 백엔드 서비스 구축, 지속적인 전달에 중점.
+      * 현재 많은 사람들이 하는 일을 하기로 결정하여 iOS 우선으로 진행하고, Swift로 작성된 iOS 앱을 구축했다.
+      * 백엔드 서비스는 Scala와 플레이 프레임워크를 사용하여 작성되었으며, 이 모든 것은 AWS에서 자동으로 배포되고 있으며, 컴퓨팅용으로 AWS를 사용하고 있다.
+      * Firebase를 사용하여 모바일 분석 및 알림을 제공하는 반면, 실제 운영 스택은 중요한 부분 중 하나일 뿐이며, 주요한 부분은 반복적으로 전달할 수 있는 플랫폼을 제공하는 것이다.
+      * 분산된 팀이 이 프로젝트를 도와주고 있는데, GitHub에서 코드 공유를 통해 변경 관리를 진행하고 있다. CircleCI를 사용하여 지속적 통합을 실시하고 있으며, 지난에 여러 도구를 사용했지만, CircleCI가 효과적이라고 판단하고 있다.
+    * 10. ️Docker를 사용하여 생산 Deployments하고 개발 Workstation을 빠르게 구축
+      * 모든 것이 도커화되어 있으며, 생산 Deployments에 Docker를 사용한다.
+      * 빠르게 실행할 수 있는 좋은 개발 Workstation 빌드가 있어 개발에도 활용한다.
+      * 또한 소프트웨어를 빌드할 때 알려진 제어 환경에서 구축되도록 하기 위해 Docker를 사용한다.
+      * 결국, 빌드에 Docker 컨테이너를 사용하여 생성된 Docker 컨테이너가 생산 환경에 배포된다.
+      * Buddybuild를 사용하여 앱의 새로운 버전을 빠르게 다양한 집단에게 전달하며 지속적인 제공 방식을 채택한다.
+    * 12. 글로벌 팀워크와 일상: 비디오 회의의 자유로움과 협업 도구
+      * 글로벌 팀과 함께 일하는 것 중 *좋아하는* 점 중 하나는 비디오 회의 시 항상 파자마 차림의 동료가 있는 것이다.
+      * 일상은 비디오 회의 시에는 카메라를 끄는 게 중요하고, 회의가 시작할수록 모두가 편안한 자리에 앉게 되어 오히려 기존의 사무실 회의와는 다르다.
+      * 운영 중이던 날에는 *중요 우선순위*를 정하고 다음 단계를 결정하며, 이에 따라 개발팀이 작업을 시작하고, 그것이 애플리케이션으로 전환되면서 *프로토타입 업데이트*가 이루어지는데, 주말을 제외하고는 항상 작업 중이었다. *협업 도구* 중에서 Slack, Gmail, 그리고 끝내 Post-it notes가 사용되었다.
+* [웹사이트의 첫 삽부터 나무를 기르기까지: 당근닷컴 디벨롭의 여정 | by JungHyun Lah | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%B2%AB-%EC%82%BD%EB%B6%80%ED%84%B0-%EB%82%98%EB%AC%B4%EB%A5%BC-%EA%B8%B0%EB%A5%B4%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC%EB%8B%B7%EC%BB%B4-%EB%94%94%EB%B2%A8%EB%A1%AD%EC%9D%98-%EC%97%AC%EC%A0%95-830cc1a27bf0)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
@@ -6971,6 +7019,8 @@ Programming
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
+* [Tests Coverage is Dead — Long Live Mutation Testing](https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e)
+* [돌연변이 테스트(Mutation Testing) — Rlog](https://devroach.tistory.com/183)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
@@ -7081,7 +7131,6 @@ Programming
 * [How TDD Changed the Way I Approach Software Development First, solve the problem, then write tests, then write code](https://medium.com/better-programming/how-tdd-changed-the-way-i-approach-software-development-38509263f9ec)
 * [무료 Leaptest 대체 프로그램 5개](http://freealt.selfhow.com/leaptest/)
 * [Put your Action to the test: Tips to improve your action with testing](https://medium.com/google-developers/put-your-action-to-the-test-tips-to-improve-your-action-with-testing-8f5685af22d)
-* [Tests Coverage is Dead — Long Live Mutation Testing](https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e)
 * [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
 * [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)

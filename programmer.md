@@ -107,6 +107,7 @@ Programmer
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
   * [제품 중심 개발자 (번역)](https://www.jobless.blog/product-minded-engineer/)
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
+* [좋은 소프트웨어 엔지니어가 되려면? - Prev's Blog](https://prev.github.io/posts/become-a-better-sw-engineer/)
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
 * [How To Be A GREAT Programmer - YouTube](https://www.youtube.com/watch?v=X99Be8wJBMI)

@@ -780,6 +780,7 @@ Apache
 * [Apache Kafka minus ZooKeeper equals KRaft](https://www.linkedin.com/posts/stanislavkozlovski_kraft-slides-ugcPost-7154864515417792512-2G2O/)
 * [Apache Kafka의 새로운 협의 프로토콜인 KRaft에 대해(1)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165711)
 * [Apache Kafka의 새로운 협의 프로토콜인 KRaft에 대해(2)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165737)
+* [아파치 카프카(Apache Kafka)의 새로운 협의 프로토콜인 KRaft에 대해(1) | Popit](https://www.popit.kr/%ec%95%84%ed%8c%8c%ec%b9%98-%ec%b9%b4%ed%94%84%ec%b9%b4apache-kafka%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%98%91%ec%9d%98-%ed%94%84%eb%a1%9c%ed%86%a0%ec%bd%9c%ec%9d%b8-kraft%ec%97%90-%eb%8c%80/)
 * [Kafka with k8s on Virtualbox](https://gasidaseo.notion.site/Kafka-with-k8s-on-Virtualbox-95e0fa7e40b24c3eb0f4a14bfd80ba01)
 * [Fine-tune Kafka performance with the Kafka optimization theorem | Red Hat Developer](https://developers.redhat.com/articles/2022/05/03/fine-tune-kafka-performance-kafka-optimization-theorem)
 * [A Guide To Apache Kafka - A Data Streaming Platform](https://www.decipherzone.com/blog-detail/apache-kafka)

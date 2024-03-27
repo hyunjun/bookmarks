@@ -521,6 +521,8 @@ Programming Language
   * [2023 LLVM Dev Mtg - Mojo 🔥: A system programming language for heterogenous computing - YouTube](https://www.youtube.com/watch?v=SEwTjZvy8vw)
   * [새로운 인공지능 엔진(MAX)과 새로운 Mojo 버전 공개 - YouTube](https://www.youtube.com/watch?v=dijo88acdRk)
   * [Choosing Your Language: Python or Mojo? - YouTube](https://www.youtube.com/watch?v=OJUorka-XLU)
+  * [Modular: How to Be Confident in Your Performance Benchmarking](https://www.modular.com/blog/how-to-be-confident-in-your-performance-benchmarking)
+  * [Modverse Weekly - Issue 27](https://www.modular.com/newsletters/modverse-weekly-27)
   * [MojoFastTrim](https://github.com/MoSafi2/MojoFastTrim)
   * [Mojo Programming for Beginners - YouTube](https://www.youtube.com/playlist?list=PLLlTVphLQsuN6dYoDkDzBM4vETjRwKSry)
 * ["Morel, a functional query language" by Julian Hyde - YouTube](https://www.youtube.com/watch?v=smUm3C5q2IM)

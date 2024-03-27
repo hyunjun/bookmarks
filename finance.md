@@ -106,6 +106,7 @@ Finance
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
 * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
+* ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)

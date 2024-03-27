@@ -709,6 +709,7 @@ NLP
 * [엉터리 대답을 하지 않는 '인공지능 챗봇'을 만드는 방법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aichatbot20230801)
 * [PyCon KR 2023 Chatbot Framework with Python 조성빈 - YouTube](https://www.youtube.com/watch?v=Lt_tbZRUkgo) RASA LangChain
 * [챗봇의 귀여운 말투가 서비스 실패 상황에서 어떤 영향을 미치는가에 대한 논문](https://www.linkedin.com/posts/jiho-park-31a798212_%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A4%ED%8C%A8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%B1%97%EB%B4%87%EC%9D%98-%EA%B7%80%EC%97%AC%EC%9B%80%EC%9D%98-%EC%98%81%ED%96%A5-ugcPost-7168535985914335232-uAW9/)
+* [셀프서비스, 챗봇에게 물어보세요](https://techblog.woowahan.com/16021/)
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
@@ -1767,6 +1768,9 @@ NLP
 * [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
 * [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
+* [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
+* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
   * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
     * Claude 3 Sonnet v1
@@ -2262,6 +2266,7 @@ NLP
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+* [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm_distillation_playbook: Practical best practices for distilling large language models](https://github.com/predibase/llm_distillation_playbook)
 * [LLM-Finetuning: LLM Finetuning with peft](https://github.com/ashishpatel26/LLM-Finetuning)
@@ -2275,6 +2280,8 @@ NLP
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
   * [Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM - YouTube](https://www.youtube.com/watch?v=-Rs8-M-xBFI)
+* [LogicKor: 한국어 언어모델 다분야 사고력 벤치마크](https://github.com/StableFluffy/LogicKor)
+  * [한국어 언어모델 리더보드는 제 역할을 하지 못한다](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2262905880717124)
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)

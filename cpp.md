@@ -22,10 +22,12 @@ C++
 * [따라하며 배우는 C++ 강의 시리즈](https://blog.naver.com/atelierjpro/221308789543)
 * [모두의 코드 씹어먹는 C++ 강좌 계획](https://modoocode.com/135)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
-* [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
-* [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
-* [C++ Core Guideline: The Guideline Support Library - ModernesCpp.com](https://www.modernescpp.com/index.php/c-core-guideline-the-guidelines-support-library)
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+  * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+  * [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
+  * [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
+  * [C++ Core Guideline: The Guideline Support Library - ModernesCpp.com](https://www.modernescpp.com/index.php/c-core-guideline-the-guidelines-support-library)
+  * [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now” - YouTube](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 * [Writing good C++14](https://indico.cern.ch/event/349459/contributions/822793/attachments/1155200/1665554/CppCon_Guidelines.pdf)
 * [C++ 연산자 오버로딩 가이드라인](https://www.haruair.com/blog/4582)
 * [c++ samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
@@ -332,6 +334,11 @@ C++
 * [Your New Mental Model of constexpr - Jason Turner - CppCon 2021 - YouTube](https://www.youtube.com/watch?v=MdrfPSUtMVM)
 * [Lessons Learned from Packaging 10,000+ C++ Projects - YouTube](https://www.youtube.com/watch?v=9YYbFWU9tjs)
 * [Real-time Programming with the C++ Standard Library - YouTube](https://www.youtube.com/watch?v=d1hyXEYE3ZY)
+* [GoingNative 2013 C++ Seasoning - YouTube](https://www.youtube.com/watch?v=W2tWOdzgXHA)
+  * [C++ Seasoning](https://sean-parent.stlab.cc/presentations/2013-09-11-cpp-seasoning/cpp-seasoning.pdf)
+    * 원시 루프를 사용하지 마세요no raw loop 라는 원칙
+    * 원시 루프란 ‘반복문에 구현된 알고리즘보다 함수가 더 큰 목적을 수행하는 경우의 해당 반복문’
+      * 함수에 반복문 대신 표준 라이브러리 함수를 가져다 쓸 수 있다면 라이브러리를 써서 코드를 정리하도록 권장
 
 # IDE
 * CLion
@@ -497,3 +504,4 @@ C++
 * [10 Best C++ Courses for Beginners and Experienced Developers | by javinpaul | Jan, 2022 | Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/10-best-c-courses-for-beginners-and-experienced-developers-fd2401c07f50)
 * [Introduction to Programming in C++ - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kRxNCwhDyw98Hq9vrmnCdz)
 * [Advanced Programming in C++ and Introduction to Data Structures - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kIgUuCdRw_rxIlb3zaVXAY)
+* [BEAUTIFUL C++](https://godbolt.org/z/cg30-ch0.0)

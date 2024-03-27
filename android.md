@@ -462,6 +462,7 @@ Android
   * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
   * [Databinding 사용법](https://brunch.co.kr/@mystoryg/150)
   * [Databinding Observable for Jetpack Compose | by SeongUg Steve Jung | Jun, 2021 | Medium](https://medium.com/@jsuch2362/databinding-observable-for-jetpack-compose-377f8df47449)
+  * [Pluu Dev - DataBinding 중복으로 BindingAdapter가 생성되는 문제 코드](https://pluu.github.io/blog/android/2024/03/23/databinding-duplication/)
   * [Jetpack Compose 에 관한 정리 # Android UI](https://developer88.tistory.com/391)
   * [Jetpack Compose #1 | Jungwoon Blog](https://jungwoon.github.io/jetpack/2022/05/31/Compose-Summary-1.html)
   * [Jetpack Compose | Jungwoon Blog](https://jungwoon.github.io/jetpack/2022/05/31/Compose-Summary.html)

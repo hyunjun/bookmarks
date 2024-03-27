@@ -324,6 +324,7 @@ SQL
 * [Oracle to AWS Aurora PG 1탄 (Shareplex AWS 전환 여정)](https://gsretail.tistory.com/53)
 * [Oracle to AWS Aurora PG 2탄 !! (DB 이사가요~)](https://gsretail.tistory.com/54)
 * [Amazon Aurora MySQL 버전 3으로 업그레이드 (MySQL 8.0 호환) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql-version-3-upgrade-mysql-8-0-compatability/)
+* [로컬 인스턴스 스토리지를 사용하여 SQL Server용 Amazon RDS Custom에서 TempDB 성능 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimize-tempdb-performance-in-amazon-rds-custom-for-sql-server-using-local-instance-storage/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -424,6 +425,7 @@ SQL
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
 * [sqldef: Idempotent schema management for MySQL, PostgreSQL, and more](https://github.com/k0kubun/sqldef)
+* [sqlglot: Python SQL Parser and Transpiler](https://github.com/tobymao/sqlglot)
 * [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
@@ -891,6 +893,8 @@ SQL
 * [입만 가지고 떠드는 개발자가 ChatGPT에게 외주줘서 만든 Mysql 복제지연 모니터링](https://d2.naver.com/helloworld/8532139)
 * [MySQL 접속 장애 예방 및 해결 방법, How to prevent and solve MySQL connection failure - YouTube](https://www.youtube.com/watch?v=7uvtQwJP5zc)
 * [PlanetScale is bringing vector search and storage to MySQL](https://planetscale.com/blog/planetscale-is-bringing-vector-search-and-storage-to-mysql)
+* [MySQL DECIMAL vs DOUBLE(FLOAT): 뭘 선택해야 할까?(Feat. 고정 소수점 vs 부동 소수점)](https://woonys.tistory.com/entry/MySQLDECIMAL-vs-DOUBLEFLOAT-%EB%AD%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8CFeat-%EA%B3%A0%EC%A0%95-%EC%86%8C%EC%88%98%EC%A0%90-vs-%EB%B6%80%EB%8F%99-%EC%86%8C%EC%88%98%EC%A0%90)
+* [MAMP의 MySQL 포트가 3306이 아닌데도 localhost라고만 적었을 때 접속이 되는 이유 – 형우의 웹개발](https://mytory.net/archives/16179)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -1330,6 +1334,7 @@ SQL
 * [teable: ✨ A Super fast, Real-time, Professional, Developer friendly, No code database](https://github.com/teableio/teable)
   * [Teable - Postgres와 Airtable을 결합한 오픈소스 노코드 데이터베이스 | GeekNews](https://news.hada.io/topic?id=13768)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
+* [transqlate - 모든 SQL을 PostgreSQL Dialect로 변환(Transp | GeekNews](https://news.hada.io/topic?id=13978)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
 

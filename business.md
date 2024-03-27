@@ -730,6 +730,7 @@ Business
   * 의미있는 일 = 매출 증가 or 사용자수 증가
   * impact와 complexity에 따라 high/easy한 일부터 처리
   * 매주 잘 되고 있는지 점검
+* [**우선순위에 시달리다 공식을 만들었다**](https://techblog.lycorp.co.jp/ko/a-formular-for-prioritizing)
 
 # 조직 구조
 * [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)

@@ -86,7 +86,6 @@
 * [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
 * [Functional Programming in Kotlin • Jacob Bass • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=PvnnM35MTPg)
 * [Kotlin & Functional Programming: pick the best, skip the rest by Urs Peter - YouTube](https://www.youtube.com/watch?v=Ed3t4WAe0Co)
-* [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Clean Architecture Example in Kotlin | by The Code Gang | HackerNoon.com | Medium](https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be)
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
@@ -226,6 +225,7 @@
 * [입 개발 Kotlin으로 Google Sheet 열어보기 | Charsyam's Blog](https://charsyam.wordpress.com/2023/11/21/%ec%9e%85-%ea%b0%9c%eb%b0%9c-kotlin%ec%9c%bc%eb%a1%9c-google-sheet-%ec%97%b4%ec%96%b4%eb%b3%b4%ea%b8%b0/)
 * [자바 프로젝트 3개 코틀린 점진적 전환기(feat. lombok 됩니다.) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kotlin-migration/)
 * [Perils of duplicate finding - Jake Wharton](https://jakewharton.com/perils-of-duplicate-finding/)
+* [Seven recipes to understand flows and asynchrony in Kotlin | by Tom Colvin | Mar, 2024 | ProAndroidDev](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -444,6 +444,7 @@
     * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
 
 # Kotlin Multiplatform Mobile KMM
+* [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [크로스 플랫폼 개발을 위한 Kotlin Multiplatform | JetBrains](https://www.jetbrains.com/ko-kr/kotlin-multiplatform/)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
 * [My Experience After Using Kotlin Multiplatform in Production Apps for a Year | by Harshith Shetty | Jul, 2022 | Better Programming](https://betterprogramming.pub/experience-using-kmp-in-production-apps-for-a-year-2474406d99d4)
@@ -457,6 +458,7 @@
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
 * [Composing All The Things with Kotlin Multiplatform • Garth Gilmour • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iq2tTtG3zs4)
+* [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
@@ -605,6 +607,7 @@
 * [코틀린과 변성](https://velog.io/@inust33/%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%BC-%EB%B3%80%EC%84%B1)
 * [새로운 학습 과정, Kotlin Onboarding: Introduction을 소개합니다 | The JetBrains Academy Blog](https://blog.jetbrains.com/ko/education/2023/03/06/kotlin-onboarding-introduction/)
 * [코틀린 기초에서 활용까지(권장 강의) - YouTube](https://www.youtube.com/playlist?list=PLilcDFW2bfcouUCLL80-ABoatrcKynq7N)
+* [☕️Java, Kotlin 시작하기 0 - YouTube](https://www.youtube.com/watch?v=HYhS9MNfZdo)
 * [Kotlin(코틀린) 문법 총 정리](https://junyharang.tistory.com/531)
 * [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
