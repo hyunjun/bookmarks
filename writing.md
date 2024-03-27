@@ -198,6 +198,8 @@ Writing
 * [The Renaissance of Code Documentation: Introducing Code Walkthrough](https://www.infoq.com/articles/code-walkthrough-documentation/)
 * [Tech Lab 개발 블로그는 어떻게 써야할까?. 안녕하세요. 좋은 개발자로 성장할 수 있는 환경을 만들고 서포트하는… | by F-Lab | F-Lab | Medium](https://medium.com/f-lab-blog/tech-lab-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C-f351eada4b21)
 * [What makes library docs great Library review: Iron - DEV Community](https://dev.to/zelenya/what-makes-library-docs-great-library-review-iron-518a)
+* [Two open source projects with great documentation • johnjago.com](https://johnjago.com/great-docs/)
+  * [esbuild와 Redis, 훌륭한 아키텍처 문서를 갖춘 두 개의 오픈 소스 프로젝트 | GeekNews](https://news.hada.io/topic?id=14004)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
