@@ -867,6 +867,11 @@ Programming
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
 * [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * [Time to Improve Retrospective](https://medium.com/@vladbatushkov/time-to-improve-retrospective-9794a668b825)
+* [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
+* [KPT 회고하는 법, 회고에 대한 생각 · 어쩐지 오늘은](https://zzsza.github.io/diary/2023/06/05/how-to-retrospect/)
+* [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
+* [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
+* [여기어때의 회고 문화. 글. 천지희(Elizabeth) / Project Manager | by Elizabeth | Mar, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EB%AC%B8%ED%99%94-a8aeee71a7aa)
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
@@ -893,8 +898,6 @@ Programming
 * [애자일, 칸반, 스크럼, 스프린트…? 뭣이 중헌디?](https://eopla.net/magazines/2511)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
-* [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
-* [KPT 회고하는 법, 회고에 대한 생각 · 어쩐지 오늘은](https://zzsza.github.io/diary/2023/06/05/how-to-retrospect/)
 * [Scrum vs Kanban: Agile Methodologies Comparison](https://k21academy.com/scrum-master/scrum-vs-kanban/)
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
@@ -1045,7 +1048,6 @@ Programming
       * 따라서 여기서는 이 간극을 메우고 프로젝트를 구성 작업으로 분해하는 과정을 살펴보겠습니다. 예를 들어 작업을 분해하는 방법을 보여주고 그 과정을 설명할 것입니다. 하지만 우회로를 거치고 싶지 않다면 마지막 부분으로 건너뛰어 프로세스를 요약할 수 있습니다.
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
-* [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
 * [Programmers, what do you despise about Agile? - Quora](https://www.quora.com/Programmers-what-do-you-despise-about-Agile)
 * [애자일과 PO - Google Slides](https://docs.google.com/presentation/d/1rQ4zVlFl4GInIQYs24rm78FDc6BwM_a3ZdpNJLIh41E/mobilepresent?slide=id.p) [pdf](pdfs/agile_and_po.pdf)
 * [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
@@ -1096,7 +1098,6 @@ Programming
 * [우리가 개발하는 방식 - 눈덩이 굴리기](https://gifting.oopy.io/snowball)
 * [How To Build Quality Software Fast • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NgFVrvwth-Q)
 * [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Va8QedfiC9k)
-* [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
 * [칼럼 | ‘스크럼폴’··· 워터폴이 애자일인 척 준동할 때 - CIO Korea](https://www.ciokorea.com/news/234289) scrumfall
 * [애자일이라고 불러도 되는가?](https://velog.io/@joosing/can-we-call-it-agile) waterfall과의 비교
