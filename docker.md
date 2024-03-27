@@ -2557,6 +2557,7 @@ Docker
 * [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
   * [Gateway API v0.8.0: Introducing Service Mesh Support | Kubernetes](https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/)
     * Kubernetes Gateway API의 서비스 메시 지원이 실험 단계. Kuma 2.3+, Linkerd 2.14+, Istio 1.16+가 모두 이 서비스 메시 지원과 완전히 호환
+  * [쿠버네티스 GatewayAPI 도입기 최성우 (무신사) 2월 28일 AWSKRUG 성수 소모임 - YouTube](https://www.youtube.com/watch?v=wd9gejiX1fY)
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
   * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
