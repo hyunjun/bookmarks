@@ -2130,6 +2130,8 @@ Docker
 * [K8sGPT](https://k8sgpt.ai/)
   * [k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
   * [ChatGPT로 쿠버네티스 관리하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1990/)
+  * [**로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1) | 요즘IT**](https://yozm.wishket.com/magazine/detail/2515/)
+  * [**로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (2) | 요즘IT**](https://yozm.wishket.com/magazine/detail/2516/)
   * [Unleashing the Power of AI in Kubernetes through K8sGPT | Alex Jones - YouTube](https://www.youtube.com/watch?v=aKVDMh2ha98)
 * [k8spacket - packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
