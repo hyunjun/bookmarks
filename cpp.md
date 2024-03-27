@@ -404,6 +404,7 @@ C++
 * [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
   * [Google's robots.txt Parser is Now Open Source](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
 * [gperftools - Main gperftools repository](https://github.com/gperftools/gperftools)
+* [GSL: Guidelines Support Library](https://github.com/Microsoft/GSL)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
 * [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
 * [imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
