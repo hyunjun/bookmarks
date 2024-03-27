@@ -969,6 +969,7 @@ Data Science
 * [Vinija's Notes • Recommendation Systems • Research Papers](https://vinija.ai/recsys/papers/)
 * [거기 말고 이 호텔 어때? - 호텔 서비스 추천 시스템 도입기](https://d2.naver.com/helloworld/2184045)
 * [Tech Radio : 호텔 추천 서비스(FOR YOU) 편](https://d2.naver.com/news/0978469)
+* [개인화 추천 시스템 #1. Multi-Stage Recommender System - 오늘의집 블로그](https://www.bucketplace.com/post/2024-03-26-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-1-multi-stage-recommender-system/)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
