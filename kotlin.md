@@ -86,7 +86,6 @@
 * [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
 * [Functional Programming in Kotlin • Jacob Bass • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=PvnnM35MTPg)
 * [Kotlin & Functional Programming: pick the best, skip the rest by Urs Peter - YouTube](https://www.youtube.com/watch?v=Ed3t4WAe0Co)
-* [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Clean Architecture Example in Kotlin | by The Code Gang | HackerNoon.com | Medium](https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be)
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
@@ -445,6 +444,7 @@
     * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
 
 # Kotlin Multiplatform Mobile KMM
+* [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [크로스 플랫폼 개발을 위한 Kotlin Multiplatform | JetBrains](https://www.jetbrains.com/ko-kr/kotlin-multiplatform/)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
 * [My Experience After Using Kotlin Multiplatform in Production Apps for a Year | by Harshith Shetty | Jul, 2022 | Better Programming](https://betterprogramming.pub/experience-using-kmp-in-production-apps-for-a-year-2474406d99d4)
@@ -458,6 +458,7 @@
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
 * [Composing All The Things with Kotlin Multiplatform • Garth Gilmour • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iq2tTtG3zs4)
+* [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
