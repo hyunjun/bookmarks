@@ -502,6 +502,8 @@ Artificial Intelligence
   * [Vector database - Milvus](https://milvus.io/)
   * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
   * [그 많던 벡터는 다 어디로 갔을까? Milvus 활용기 – The Highlights – 라이너 팀 블로그](https://blog.getliner.com/milvus-usage/)
+* NVIDIA [Deep Learning Online Courses | NVIDIA](https://www.nvidia.com/en-us/training/online/#free-courses)
+  * [Nvidia가 개설한 무료 AI 강좌들 | GeekNews](https://news.hada.io/topic?id=14007)
 * Pinecone [Vector Database for Vector Search | Pinecone](https://www.pinecone.io/)
   * [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
   * [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
