@@ -366,6 +366,7 @@ Business
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
+* [조직을 갉아먹는 프리라이더 문제, 어떻게 해결할 수 있을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/freerider20240325)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
 * [Amazon과 Apple의 문화 차이. 글로벌 공룡으로 불리우는 두 A사. 리딩 기업으로 혁신의 아이콘… | by KyungHeon Kim | Medium](https://medium.com/@kyungheonkim/amazon%EA%B3%BC-apple%EC%9D%98-%EB%AC%B8%ED%99%94-%EC%B0%A8%EC%9D%B4-b8514e615145) 조직 문화
