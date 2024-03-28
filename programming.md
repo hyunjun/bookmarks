@@ -80,6 +80,8 @@ Programming
 * [5 Ways to Improve Your Code • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5z5eGcmNikQ) TDD, meaningful code rather than comment, refactoring, ...
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [CodenQuest - Master Coding Through Play](https://codenquest.com/)
+  * [CodenQuest - 듀오링고 for 코딩 | GeekNews](https://news.hada.io/topic?id=14028)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)
 * [tech prep by facebook](https://techprep.fb.com/)
@@ -4574,6 +4576,8 @@ Programming
   * ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
   * [Defending against SSRF attacks (with help from our bug bounty program) - Dropbox](https://dropbox.tech/security/bug-bounty-program-ssrf-attack)
 * [Suricata - Intrusion Detection and Prevention Security Tool](https://www.tecmint.com/suricata-intrusion-detection-prevention-linux/)
+* [tracecat: 😼 The AI-native, open source alternative to Tines / Splunk SOAR](https://github.com/TracecatHQ/tracecat)
+  * [TraceCat - AI 기반의 보안 경고 자동화 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=14029)
 * [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
 * [Turnstile, 캡차의 대안 | Cloudflare](https://www.cloudflare.com/ko-kr/lp/turnstile/)
   * [Announcing Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
@@ -7003,6 +7007,8 @@ Programming
       * 일상은 비디오 회의 시에는 카메라를 끄는 게 중요하고, 회의가 시작할수록 모두가 편안한 자리에 앉게 되어 오히려 기존의 사무실 회의와는 다르다.
       * 운영 중이던 날에는 *중요 우선순위*를 정하고 다음 단계를 결정하며, 이에 따라 개발팀이 작업을 시작하고, 그것이 애플리케이션으로 전환되면서 *프로토타입 업데이트*가 이루어지는데, 주말을 제외하고는 항상 작업 중이었다. *협업 도구* 중에서 Slack, Gmail, 그리고 끝내 Post-it notes가 사용되었다.
 * [웹사이트의 첫 삽부터 나무를 기르기까지: 당근닷컴 디벨롭의 여정 | by JungHyun Lah | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%B2%AB-%EC%82%BD%EB%B6%80%ED%84%B0-%EB%82%98%EB%AC%B4%EB%A5%BC-%EA%B8%B0%EB%A5%B4%EA%B8%B0%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC%EB%8B%B7%EC%BB%B4-%EB%94%94%EB%B2%A8%EB%A1%AD%EC%9D%98-%EC%97%AC%EC%A0%95-830cc1a27bf0)
+* [Thoughts on the Future of Software Development](https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/)
+  * [소프트웨어 개발의 미래에 대한 고찰 | GeekNews](https://news.hada.io/topic?id=13982)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
