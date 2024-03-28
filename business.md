@@ -234,6 +234,11 @@ Business
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
 * [다양한 척도와 사회 연결망 바라보기](https://brunch.co.kr/@graypool/917)
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
+* [보잉을 인수한 회사](https://otterletter.com/downfall-of-boeing/)
+  * [How Boeing Lost Its Bearings - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/11/how-boeing-lost-its-bearings/602188/)
+  * 항공산업 애널리스트인 리처드 아불라피아(Richard Aboulafia)... "MCAS 시스템을 제대로 만들어내느냐, 마느냐는 경제적인 문제가 아니다. 이건 기업 문화의 문제다."
+    * MCAS(조종특성향상시스템) [MCAS - 항공위키](https://airtravelinfo.kr/wiki/index.php?title=MCAS)
+  * 보잉이 합병 후 본사 이전을 추진하던 2000년, 경영학자인 짐 콜린스(Jim Collins)는 기자에게 "사람들이 말하는 것처럼 보잉의 매도널 더글러스 인수가 정말로 역인수였고, 맥도널 더글러스의 기업 문화가 보잉에 퍼지고 있다면, 보잉은 위대한 시절은 끝날 수밖에 없다"고 이야기했다. "보잉이 위대한 기업이 될 수 있었던 건 수익을 우선시하는 조직이 아니라, 엔지니어링을 우선시하는 조직이었기 때문이다. 보잉이 엔지니어링을 미션의 핵심이라고 생각하지 않는다면, 머지않아 흔한 회사 중 하나가 될 것이다." 그의 예언은 맞았다
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
 * [얼라인먼트위크 (1) 서로 다른 악기들이 이루는 하모니](https://blog.toss.im/article/alignmentweek23-1)
 * [얼라인먼트위크 (2) 토스팀원들이 뽑은 최고의 러닝 쉐어](https://blog.toss.im/article/alignmentweek23-2)
