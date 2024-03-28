@@ -279,6 +279,7 @@ Business
 * [스타트업 업계에선 "허락을 받지 말고 용서를 구해라 (Don't | 김영민 | 퍼블리 뉴스](https://news.publy.co/comments/10393) 용서를 구하지 말고 의도를 밝혀라 (Don't ask forgiveness, radiate intent)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
+* [천재 사업가들의 무덤, 미디어 산업(남궁민 작가) #손경제플러스 - YouTube](https://www.youtube.com/watch?v=d70d73vg6Rw) cultural fit과 비슷하게 industry fit도 있는 걸까? 재미있는 이야기
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
