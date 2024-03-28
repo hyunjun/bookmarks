@@ -270,6 +270,8 @@ Artificial Intelligence
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
+* [codel: ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor](https://github.com/semanser/codel)
+  * [Codel - 복잡한 작업을 처리해주는 완전 자동 AI 에이전트 | GeekNews](https://news.hada.io/topic?id=14038)
 * [comma.ai](https://research.fb.com/projects/commai/)
   * [comma.ai](https://comma.ai/)
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
