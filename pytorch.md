@@ -157,7 +157,6 @@ PyTorch
 * [Deep Video Inpainting](https://sites.google.com/view/deepvinet)
   * [Deep_Video_Inpainting](https://github.com/mcahny/Deep-Video-Inpainting)
 * [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
-* [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
 * [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)

@@ -152,7 +152,6 @@ Writing
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
 * [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)
-* [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * [(2017) 학술논문작성법](http://kooc.kaist.ac.kr/howtopaper)
 * [On Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd)
   * [**프로덕트 스펙 문서 작성법**](https://brunch.co.kr/@hj-kang/2)

@@ -176,7 +176,6 @@ Math
 * [선형대수 한양대학교 이상화](http://www.kocw.net/home/m/search/kemView.do?kemId=977757)
 * [성균관 대학교 Linear Algebra](http://ibook.skku.edu/Viewer/LA-Book-Eng)
 * [인공지능을 위한 선형대수](https://www.youtube.com/watch?v=KKGfjhs_26M)
-* [인공지능을 위한 선형대수](http://www.edwith.org/linearalgebra4ai)
 * [벡터공간, 부분공간, 열공간, 영공간](https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/)
 * [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/watch?v=ZK3O402wf1c)
 * [Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)

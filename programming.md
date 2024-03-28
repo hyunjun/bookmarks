@@ -4255,6 +4255,7 @@ Programming
 * [5 Best Web API Design and Development Courses for Beginners in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-web-api-design-and-development-courses-for-beginners-fb1c8dd83379)
 * [Adnan's classes | AdnanAziz.com](http://adnanaziz.com/classes/)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+* [boostcourse](https://www.boostcourse.org/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
   * [Class Central - 온라인 강의 검색엔진 | GeekNews](https://news.hada.io/topic?id=6153)
 * codecatalog [A collection of code examples from prominent open-source projects - Code Catalog](https://codecatalog.org/)
@@ -4268,7 +4269,6 @@ Programming
 * [CS101 Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [CS50 - YouTube](https://www.youtube.com/c/cs50)
 * [cs-video-courses: List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
-* [edwith.org](https://www.edwith.org)
 * [everdevel.com](http://www.everdevel.com/)
 * freecodecamp.org
   * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)

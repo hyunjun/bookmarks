@@ -225,7 +225,6 @@ NLP
 * [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 * [Feature-wise transformations - A simple and surprisingly effective family of conditioning mechanisms](https://distill.pub/2018/feature-wise-transformations/)
 * [RNN과 Beam search](https://ratsgo.github.io/deep%20learning/2017/06/26/beamsearch/)
-* [딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
 * [Unicode 2.0 에서 한글의 이해](https://spectrumdig.blogspot.com/2012/11/unicode-20.html)
 * [한글 유니코드 자소 분리](http://dream.ahboom.net/entry/%ED%95%9C%EA%B8%80-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%90%EC%86%8C-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 * [PyConKr 2018 Why I learn, How I learn](https://github.com/songys/pycon2018_keynote/blob/master/PyCon_2018_youngsooksong.pdf)
