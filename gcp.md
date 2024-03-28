@@ -193,6 +193,7 @@ Google Cloud Platform GCP
 * [Python GCP ubuntu에 아나콘다 설치 및 jupyter 자동 실행 - 미완성의신](https://unfinishedgod.netlify.app/2023/08/17/python-gcp-ubuntu-jupyter/)
 * [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
+* [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
