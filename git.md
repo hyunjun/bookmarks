@@ -1516,6 +1516,8 @@ Git
   * [gitlab 컨테이너 backup/restore(백업 및 복원)](https://ykarma1996.tistory.com/111)
   * [Triage로 GitLab 이슈 관리 개선하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-triage-bot/)
   * [GitHub vs GitLab: Which is Better in 2024? | by Lena Charles | Jan, 2024 | Level Up Coding](https://levelup.gitconnected.com/github-vs-gitlab-which-is-better-in-2024-1489614b9a23)
+  * [AI와 옵저버빌리티로 개발자 생산성 올리는 비결(feat. GitLab 밋업) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/27/gitlab-meetup-19/)
+  * [GitLab 기술 문서 번역용 GPT 설계 가이드 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/27/gpt-gitlabdocs/)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
