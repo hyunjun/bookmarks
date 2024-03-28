@@ -313,6 +313,8 @@ Artificial Intelligence
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
 * [nebullvm: Easy-to-use library to boost AI inference leveraging multiple DL compilers](https://github.com/nebuly-ai/nebullvm)
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
+* [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
+  * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
@@ -413,6 +415,7 @@ Artificial Intelligence
       * 데이터 발견하고 정리하며, 그 데이터와 대화, 해당 데이터를 *하위 인사이트 및 분석*에 활용 가능하게 하는 *자동화된 데이터 curation* 작업에 중점
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
 * [(광고) 스켈터레터 AI 에이전트, 기업도 쓸 수 있나요? 🥹](https://skelterlabs.stibee.com/p/22/)
+* [Generative AI, 국내 기업은 어떻게 사용하고 있을까요?ㅣ3월 MI리포트 G.AI](https://www.skcc.co.kr/insight/trend/2492/5ma9umcvdz)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
