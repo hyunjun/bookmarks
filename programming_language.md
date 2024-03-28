@@ -98,6 +98,75 @@ Programming Language
   * [GraalVM for JDK 21 Delivers Performance Enhancements and Improved Developer Experience](https://www.infoq.com/news/2023/09/graalvm-java-21/)
   * [GraalVM for JDK 21 is here! 🚀. Today we are releasing GraalVM for JDK… | by Alina Yurenko | graalvm | Sep, 2023 | Medium](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
   * [Thomas Wuerthinger on X: "Big news from last week's @GraalVM for @Java 21 release was that we can finally demonstrate that AOT (with profile-guided optimizations) can outperform JIT for all major metrics including throughput! Here are the numbers for the @Springframework PetClinic example (both G1 GC). 🚀 https://t.co/F8HhVhtEn2" / X](https://twitter.com/thomaswue/status/1707783370187440148)
+  * [Java In The Cloud with GraalVM • Alina Yurenko • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=1QeLcJN0QLc)
+    * [VidiGo Java In The Cloud with GraalVM • Alina Yurenko • G](https://vidigo.ai//share/summary/16710b589796)
+    * [GraalVM을 사용한 클라우드의 Java - Alina Yurenko - GOTO 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/435103?sId=1QeLcJN0QLc)
+      1. 자바와 그랄 VM을 통해 클라우드 환경을 개선
+        * 그랄 VM을 활용하여 자바 어플리케이션을 클라우드에 대비하고 더 효율적으로 구축하는 방법을 소개
+        * 오라클 랩에서 그랄 VM의 개발 선전 이사 알리나로서 활동하며, 프로그래밍 언어, 컴파일러, 기계 학습, 보안 등 다양한 분야의 연구에 참여
+        * 그랄 VM을 JDK로 사용할 수 있다. 그리고 네이티브 이미지 기능을 통해 자바 어플리케이션을 플랫폼 고유의 네이티브 실행 파일로 미리 컴파일 가능
+        * 그랄 VM은 다양한 언어(자바, 자바스크립트, 파이썬 등)를 실행할 수 있으며 혼용하여 실행할 수 있는 특징을 가지고 있음
+        * 그랄 VM을 활용한 자바 개발에 대한 간략한 소개 후, 그랄VM을 시도한 인원의 설문조사 결과를 공유
+      2. ️️GraalVM을 통해 Java 클라우드 애플리케이션의 빠른 시작과 효율적 리소스 사용, 그리고 공략할 수 있는 목표들
+        * GraalVM은 Java 애플리케이션을 JIT 컴파일하거나 Ahead-of-Time 컴파일하여 성능을 향상시키며, 클라우드 배포를 위한 Native Image 고려
+        * 클라우드 배포에서의 중요 목표는 빠른 시작과 효율적인 리소스 사용이며, GraalVM의 Native Image는 이를 실현
+        * Java 마이크로서비스 프레임워크 중 Spring Boot, Micronaut, Quarkus는 GraalVM Native Image를 지원하여 쉽게 사용 가능
+        * 고민하는 프레임워크 중 Quarkus를 언급하며, GraalVM이 빠른 시작 및 낮은 메모리 사용량으로 인해 많이 사용
+        * GraalVM으로 목표 중 빠른 시작, 리소스 절약, 적은 취약점, 작은 패키지 크기를 달성할 수 있으며, 클라우드 비용을 절감 가능
+      3. 애플리케이션 초기화의 차이: JVM 대 Native Image
+        * GraalVM과 Native Image를 이용하면 애플리케이션이 더 빠르게 시작되고 적은 자원을 사용
+        * JVM 모드와 Native Image모드를 비교, JVM모드는 어플리케이션을 실행할 때 다양한 단계 필요, Native Image모드는 컴파일을 먼저 진행하므로 빠른 속도
+        * JVM은 어플리케이션의 정보를 수집하고 최적의 성능을 위해 컴파일 진행, Native Image는 미리 컴파일되어 있기 때문에 빠른 성능을 제공
+        * 실행 초기에는 Native Image 모드가 빠르지만 JVM은 최고 성능을 제공하기 위해 성능을 최적화하는 단계를 거친 후에 최고의 성능 가능
+      4. 애플리케이션 구동 시간과 자원 사용 비교
+        * 미리 컴파일하기로 앱을 준비하면, 시작 시간이 매우 빨라짐. 앱 실행 파일에 로그인하면 즉시 실행을 시작할 수 있어서 제 valuable한 작업 가능
+        * 메모리 사용량 측면에서도 논의하며, 전통적인 JVM 모드와 Native image 모드에서 실행 시 메모리 요구량 비교 가능
+          * Native image 모드에서는 런타임에서 동적 코드 실행이 없으므로 더 적은 메모리 필요
+        * 특히 애플리케이션 확장이 필요한 경우 Native image 모드에선 애플리케이션 본체만 확장, JVM에서는 코드 실행 인프라도 비례적으로 메모리 확장 필요
+        * Visual로 설명하면, 일부 Native 애플리케이션 프로세스가 메모리를 공유하는 모습이 보이며 Native image로 실행 시에는 적은 메모리 필요
+      5. ⏱️JVM과 Native 실행 비교
+        * JVM으로 실행시간은 560ms, 8080포트에서 동작
+        * Native로 실행시간은 20ms, 25배 빠르고 메모리도 적게 소비
+        * 프레임워크 보고서 대신 우리만의 성능 측정 필요
+        * PS record로 CPU 및 메모리 사용량 모니터링하여 성능 최적화
+      6. 네이티브 애플리케이션의 메모리 및 CPU 사용량 비교
+        * 네이티브 애플리케이션에 대한 유사한 동작을 관찰할 수 있는지 확인 시도
+        * 애플리케이션의 메모리와 CPU 사용량을 살펴보면, 네이티브 모드에서는 훨씬 적은 메모리와 CPU를 사용하는 것을 확인 가능
+        * JVM 및 네이티브 모드에서 100만 개의 요청을 보내어 처리량 및 부하 처리 능력을 비교했으며, 퍼포먼스 메트릭을 출력하는 'Hy' 툴 사용
+      7. JVM과 네이티브 실행 비교로 인한 성능 분석
+        * JVM에서의 응답 코드는 잘 작동하지만, 대부분의 요청이 7밀리초 이내로 처리되므로 꽤 우수함
+        * 네이티브 실행 시, 응답의 대부분이 4밀리초 내로 처리되며, 초당 5천 건의 처리량을 보여 JVM에 비해 약간 우수함
+        * GraalVM을 이용한 네이티브 애플리케이션은 JVM에 비해 장단점이 존재하며, 프로파일 가이드 최적화를 이용하면 앱의 실시간 동작 최적화 가능
+        * 이를 통해 성능 향상과 앱의 실행 방식을 최적화할 수 있어 JVM과의 성능 차이를 줄일 수 있음
+      8. GraalVM: 이점 및 보안
+        * GraalVM은 런타임을 고려한 애플리케이션 최적화를 가능케하며, 성능을 향상시키는데 도움
+        * 이미지로 실행할 때, 애플리케이션 성능을 향상시키고, 곧바로 로드되는 새로운 코드 없이 보안 및 애플리케이션 통제 가능
+        * Native 이미지는 보안 측면에서 이점 제공, 런타임에서 새로운 코드를 로드하지 않으므로 애플리케이션 실행 시 실행할 코드가 명확하고, 보안 이점 획득
+        * 앱에서 명시적으로 사용하는 코드만 Native 실행 파일에 포함, 그 외의 것들은 제거, 제어가 더 용이, 애플리케이션 동작과 허용 여부를 명확히 인지 가능
+        * Native 이미지에서는 JIT(Just-In-Time) 코드 컴파일과 컴파일러 자체를 타겟팅하는 공격 벡터가 불가능, 모든 것이 사전 컴파일, 더 높은 보안성을 제공
+      9. 앱 실행과 코딩 시 테스트, 보완 과정
+        * 앱을 실행하고 기존 프로세스들을 중지시킨 후, 새로운 로직을 구현하여 테스트 및 실행
+        * 팀 멤버가 새로운 로직을 도입해 파일명을 통해 파일을 제공하는 방식을 테스트
+        * 코드 상에 보안적 취약점이 존재하여 사용자 입력값을 검증하거나 필터링하지 않는다는 문제 발견
+        * 이로 인해 어플리케이션을 통해 민감한 정보인 YAML 파일이나 클래스 파일을 노출시킬 수 있는 보안 취약점
+        * 네이티브 앱에서도 동일한 테스트를 통해 파일 엑세스와 보안 취약점 확인
+      10. Native 이미지 보안 및 패키징 크기
+        * Native 이미지로 config 파일을 노출할 수 없어, 보안 측면이 우수
+        * Native 이미지로 미리 빌드할 때 애플리케이션 패키징 크기 감소
+        * 개별로 애플리케이션을 패치 및 업데이트할 수 있으나, 자바 런타임 설치파일은 인스턴스 간 공유 가능
+        * UPX를 사용하여 네이티브 애플리케이션을 압축 가능하며, Packing 사이즈를 원할 경우 Native 이미지와 UPX로 축소 가능
+      11. ️GraalVM 및 reflection 관련 주요 내용
+        * GraalVM은 reflection을 지원하지만, 이미지 빌드 시 동적 Java 기능은 곤란
+        * 네이티브 이미지는 예측 가능한 reflection 호출을 처리하지만, 복잡하거나 고급 기능은 추가 설정 필요
+        * 트레이싱 에이전트를 활용해 어플리케이션 행동을 관찰하고, JSON 형식의 구성 파일을 자동 생성 가능
+        * GraalVM 네이티브 이미지를 사용시 더 큰 앱을 빌드하는 데 더 많은 시간 소요, 목표 아키텍처와 운영 체제 필요, 플랫폼 간 상호 변환은 아직 미지원
+      12. GraalVM 최신 릴리스 및 기능 업데이트 소개
+        * GraalVM의 최신 릴리스는 6월 1일에 큰 새로운 기능 포함. JDK 17 및 20 빌드를 포함하여 많은 새로운 기능 추가, 네이티브 이미지도 GraalVM JDK 자체에 포함
+        * 네이티브 이미지 툴이 JDK에 포함되어 'du install native image' 실행이 필요 없음
+        * 메모리 사용량 및 개발자 경험 개선, 빌드 번들을 생성 및 재생성할 수 있는 기능 추가. 최신 라이브러리 및 프레임워크와의 호환 강화
+          * 성능 향상, 빌드 시간 및 메모리 요구를 줄이는 작업을 계속 진행 중
+        * GraalVM을 통해 구현할 수 있는 것은 빠른 시작, 적은 메모리 및 CPU 사용, 보안 강화, 가벼운 용량, 쉬운 확장성
+          * Micronaut와의 통합으로 클라우드 어플리케이션 개발에 큰 도움
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
