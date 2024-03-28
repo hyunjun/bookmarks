@@ -2945,6 +2945,7 @@ Business
 * [2023년 회고: 프로젝트, 퇴사, 창업, 채용, 기술 · 테오 블로그](https://dataportal.kr/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%87%B4%EC%82%AC-%EC%B0%BD%EC%97%85-%EC%B1%84%EC%9A%A9-%EA%B8%B0%EC%88%A0/) 기술 및 여러가지 이야기가 함께 있지만 핵심은 창업이란 생각에 여기에 위치
 * [스타트업 창업자의 고백 - PADO](https://www.pado.kr/article/2023111711238850650)
 * [R&D로 해외 시장을 진출하는 방법 (feat. Mila x Seoul AI Hub 글로벌 공동연구 협력 사업) – Eagler Lab](https://eagler.blog/2024/03/05/rd%eb%a1%9c-%ed%95%b4%ec%99%b8-%ec%8b%9c%ec%9e%a5%ec%9d%84-%ec%a7%84%ec%b6%9c%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95-feat-mila-x-seoul-ai-hub-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b3%b5%eb%8f%99/)
+* [한 발짝만 앞서기](https://www.thestartupbible.com/2024/03/one-step-ahead-is-good-two-steps-ahead-is-not.html) 마치 적정 기술과 비슷한 이야기 overengineering으로 인한 낭비처럼 BM도 너무 앞서나가면 안된다는 말
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
