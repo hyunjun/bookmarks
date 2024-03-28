@@ -1408,6 +1408,10 @@ Javascript
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [Saga Design System: shaping the future of user experiences at Grafana Labs | Grafana Labs](https://grafana.com/blog/2023/11/07/saga-design-system-shaping-the-future-of-user-experiences-at-grafana-labs/)
   * Grafana Labs에서 Grafana 내의 제품 간에 일관된 인터페이스를 제공하기 위해 디자인 시스템 Saga 공개
+* [Naming tokens in design systems](https://www.linkedin.com/posts/nbabich_designsystem-designsystems-ui-activity-7176188118608343040-wHJp/)
+  * Global tokens are primitive values (static values like color HEX code, font size, spacing, etc.). They can either be directly used or referenced by other token types (alias or component-specific tokens)
+  * Alias tokens are context-specific and reference global tokens. Each alias token has a specific intent of use (i.e., the background color of a button)
+  * Component-specific tokens represent unique and specific design decisions associated with a particular component
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
