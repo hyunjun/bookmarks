@@ -4485,6 +4485,7 @@ Programming
 * [개인용 pc 를 서버로 사용한 안전한 원격 작업 실행 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4550)
 * [Building Images For The Secure Supply Chain • Adrian Mouat • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bZTlLAg9UZ4)
 * [Should Your Notes Be End-to-End Encrypted? | Supernotes](https://supernotes.app/blog/posts/notes-end-to-end-encryption/)
+* [생체인증은 안전할까?](https://velog.io/@tosspayments/%EC%83%9D%EC%B2%B4%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%95%88%EC%A0%84%ED%95%A0%EA%B9%8C)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -7274,6 +7275,7 @@ Programming
     * 실패한 테스트는 선별 대상에서 제외하고 테스트 소유자에게 알려 수정할 수 있도록 했습니다.
     * 선별적 테스트 도입 후 Pull Request당 실행되는 테스트 수가 크게 줄어들었고, CI 파이프라인 실패 빈도도 감소했습니다.
     * 이 접근 방식을 통해 통합 및 개발 주기를 단축하고 높은 수준의 테스트 품질을 유지할 수 있었습니다.
+* [테스트 자동화를 시작하는 QA 혹은 테스트 엔지니어들을 위해 | by James | Mar, 2024 | Medium](https://medium.com/@james_34049/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-qa-%ED%98%B9%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%B4-db3f3ea84296)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
