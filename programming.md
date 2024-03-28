@@ -4492,6 +4492,19 @@ Programming
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
+* [coraza: OWASP Coraza WAF is a golang modsecurity compatible web application firewall library](https://github.com/corazawaf/coraza)
+  * [OWASP Coraza - Enterprise-grade open source web application firewall library](https://coraza.io/)
+  * [웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023 - YouTube](https://www.youtube.com/watch?v=xLTwWqb_lTw)
+    * [VidiGo 웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Kor](https://vidigo.ai//share/summary/687cbcdf0355)
+      * Owasp(open web application security project) top 10 리스트를 소개, 웹 보안 위협에 대해 논의
+      * 모드 시큐리티와 코로나 프로젝트의 최근 동향 및 nginx protect의 사용례 공유
+    * [웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/436083?sId=xLTwWqb_lTw)
+      * 웹 어플리케이션 보안에 대한 이해와 웹 방화벽, CRS에 대한 내용 설명
+      * 웹 보안에서 가장 중요한 보안 위협 중 탑 10을 살펴보며, CRS의 룰셋 패턴 시그니처에 대해 언급
+      * 6. 웹 방화벽 '모드 시큐리티'에 대한 개발 역사와 현재
+      * 11. 모드시큐리티 기술의 특징과 활용 영상
+        * 모드시큐리티는 엔진별로 다른 버전, 최근에는 플러그인과 컨테이너 대관 기능 제공
+        * 인텔리전스 통합으로 *안전성이 향상*, F5 어스 크의들과 오픈소스 nginx 활용하여 네트워크 보안 강화
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 * [EnvKey: End-To-End Encrypted Environments](https://v2.envkey.com/)
