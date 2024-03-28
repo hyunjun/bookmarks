@@ -1757,6 +1757,7 @@ NLP
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
 * [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
+* [검색 증강 생성이 뭐죠? AI 필수 지식 RAG, 15분만에 배우기 - YouTube](https://www.youtube.com/watch?v=m7cNjCVpSrw)
 * [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
   * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
     * Claude 3 Sonnet v1
@@ -1973,6 +1974,8 @@ NLP
 * [data-modori](https://github.com/teamreboott/data-modori/)
 * [DB-GPT](http://docs.dbgpt.site/docs/overview)
   * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
+* [dbrx: Code examples and resources for DBRX, a large language model developed by Databricks](https://github.com/databricks/dbrx)
+  * [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
@@ -2256,6 +2259,7 @@ NLP
 * [llm_distillation_playbook: Practical best practices for distilling large language models](https://github.com/predibase/llm_distillation_playbook)
 * [LLM-Finetuning: LLM Finetuning with peft](https://github.com/ashishpatel26/LLM-Finetuning)
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
+* [LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss](https://github.com/microsoft/LLMLingua)
 * [LLM-narratives](https://github.com/jwkangmarco/LLM-narratives)
 * [llm-starter-pack: 🤖 Get started with LLMs on your kind cluster, today!](https://github.com/cncf/llm-starter-pack)
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
