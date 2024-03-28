@@ -594,6 +594,8 @@ Business
   * 한계를 알려면 한계를 넘어서 봐야 하는데 최선을 다한다고 항상 한계까지 가야 하는 것은 아님
   * 중요한 문제에 집중, 흥미를 찾아야 하는데 때로 흥미를 찾는 것은 재능을 찾기보다 더 어려움
   * 그래서 그 일을 계속 해야 하는지 가장 좋은 기준은 그 문제를 흥미롭게 생각하는가이고 이 기준을 적용하려면 자신에게 정직해야 함
+* [폴 그레이엄 에세이 리스트 - Google Sheets](https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqVDzw/edit#gid=0)
+  * [폴 그레이엄 에세이 한글 번역본 아카이브 | GeekNews](https://news.hada.io/topic?id=14020)
 * [조직을 무너뜨리는 작은 거짓말, '이 방법'으로 막을 수 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ethics20220118)
 * [Post 35: Your Standards are Too High — Neel Nanda](https://www.neelnanda.io/blog/35-standards) 자신에 대한 평가
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
