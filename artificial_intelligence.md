@@ -202,6 +202,7 @@ Artificial Intelligence
   * 합성 우주: 복잡한 시스템 진화를 시뮬레이션하는 에이전트 기반 모델링 기법
   * GPU 분류: 신경망이 아닌 이미지 필터링으로 GPU에서 분류 수행
   * AI 아트: 숫자 이론과 카오스 동력학 시스템에서 생성된 이미지, 동영상, 사운드트랙 등
+* [V-JEPA: The next step toward advanced machine intelligence](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/) self supervised learning, AMI
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
