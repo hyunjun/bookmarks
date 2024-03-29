@@ -780,6 +780,18 @@ ElasticSearch - Lucene
   * [Lucene and MySQL (Correction!)](http://www.vikasing.com/2009/10/lucene-and-mysql-correction.html)
 * [Exploiting CSRF against search with Lucene](https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/)
 * [BM25 The Next Generation of Lucene Relevance](http://opensourceconnections.com/blog/2015/10/16/bm25-the-next-generation-of-lucene-relevation/)
+* [Introducing DoorDash’s In-House Search Engine - DoorDash Engineering Blog](https://doordash.engineering/2024/02/27/introducing-doordashs-in-house-search-engine/)
+  * 도어대시는 빠른 성장으로 인해 기존 검색 시스템의 한계를 느끼고 자체 검색 엔진을 개발
+    * 기존 시스템은 엘라스틱서치를 사용했지만 문서 복제 및 관계 지원 부족, 쿼리 이해 및 랭킹 기능 결함 등의 문제
+    * 새로운 검색 엔진은 아파치 루씬을 기반으로 하며 세그먼트 복제 모델 사용
+    * 색인 생성과 검색 트래픽을 분리하고 여러 문서 유형과 관계를 저장할 수 있는 인덱스 활용
+    * 이 덕분에 도어대시는 검색 레이턴시 감소와 하드웨어 비용 절감 효과를 달성
+  * 개발된 검색 엔진은 일반적인 검색 엔진으로 활용되도록 설계
+    * 모든 팀이 필요한 기능을 한 곳에서 이용할 수 있도록 하며 사용자 정의 로직을 최소한 코드 변경으로 구현 가능
+    * 인덱스 스키마와 쿼리 언어를 사용하여 코어 검색과 비즈니스 로직을 분리하며, 쿼리 이해 및 랭킹 로직을 별도의 서비스로 관리
+    * 임대자별 데이터 분리와 검색 스택 개념을 도입하여 안정적인 시스템 운영 보장
+  * 2023년 개발 및 마이그레이션을 완료한 이후 검색 성능과 비용 측면에서 상당한 개선 효과 달성
+  * [Index Roundup - by Jettro Coenradie and Julie Mills - Index](https://index.rockset.com/p/index-roundup)
 * [luke - This is mavenised Luke: Lucene Toolbox Project](https://github.com/DmitryKey/luke) lucene index file 보기
 * [pylucene - Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
 
