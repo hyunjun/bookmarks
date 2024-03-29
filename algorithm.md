@@ -311,6 +311,9 @@ Algorithm
     * 분산된 상황에서 마지막 변경 사항임을 알기 위해서 시간 값을 사용하는 것은 많은 문제 발생
     * CRDT는 이를 논리적 시계로 만들어 구현
   * 각 상황에서 실행해 볼 수 있는 예제를 제공
+* [The Drunk Passenger Problem. An interesting and seemingly difficult… | by Rishi Dey Chowdhury (RishiDarkDevil) | Medium](https://medium.com/@rishidarkdevil/the-drunk-passenger-problem-554ebb7bd151)
+  * [" 초봉 3억 외국 회사 면접 질문 " - YouTube](https://www.youtube.com/watch?v=zznpJFhuLTg)
+    * [drunkpassenger.py](https://github.com/CodingVillainKor/manim-kor/blob/main/drunkpassenger.py)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
