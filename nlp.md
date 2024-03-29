@@ -877,6 +877,10 @@ NLP
     * Dropbox는 반복 토큰 공격 탐지 도구를 공개하고 다른 오픈소스 모델에 대한 연구 결과를 공유할 예정
   * [How to Stream OpenAI API Responses in a Flask App - YouTube](https://www.youtube.com/watch?v=z6iYcqNECwA)
     * [How to Stream OpenAI API Responses in a Flask App](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2024/03/28/How%20to%20Stream%20OpenAI%20API%20Responses%20in%20a%20Flask%20App/flask_openai_streaming)
+  * [GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=VFwoEH50WpU)
+    * [VidiGo GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들.mp](https://vidigo.ai//share/summary/3f77e8f24670)
+    * [Creating a service with GPT (a.k.a. drip) #UACon2023 #UA Brothers | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/441136?sId=VFwoEH50WpU)
+    * [리뷰를 재료로 GPT가 뚝딱뚝딱 만들어낸 메뉴추천, 메뉴뚝딱AI | 우아한형제들 기술블로그](https://techblog.woowahan.com/16877/)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
