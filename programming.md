@@ -3826,6 +3826,11 @@ Programming
 * [코드 가독성에 대해 – 3. 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 * [코드 가독성에 대해 – 4. 의존성](https://engineering.linecorp.com/ko/blog/code-readability-vol4/)
 * [코드 가독성에 대해 – 5. 리뷰와 정리](https://engineering.linecorp.com/ko/blog/code-readability-5/)
+* [Google의 "readability" 시스템](https://www.linkedin.com/posts/danielylee_%EC%A0%9C%EA%B0%80-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-google%EC%9D%98-readability-activity-7179342980053442560-g9b2/)
+  * Google 내부에서 작성하는 코드는 3가지 조건 만족 필요
+    1. 코드 작성자 외 다른 개발자의 리뷰(LGTM)
+    2. 변경된 코드의 소유자의 승인(approval)
+    3. 작성한 프로그래밍 언어에 대한 "readability" 승인
 * [2015 나는 프로그래머다 컨퍼런스 (11) 염산악 - 가독성에 대하여](https://www.slideshare.net/iamprogrammerofficial/2015-11-54990304)
 * [readable_code란 무엇일까? - YouTube](https://www.youtube.com/watch?v=uZNKgGB-EeY)
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
