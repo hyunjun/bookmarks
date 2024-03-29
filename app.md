@@ -1891,6 +1891,8 @@ App
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) open source라 써보려고 했으나 너무 느림
 * [GitMind - Free Online Mind Mapping](https://gitmind.com/) twitter account로 사용중
 * MindMeister [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/) basic plan은 mindmap 3개 제한
+* [Scrintal - Say goodbye to scattered thinking](https://scrintal.com/)
+  * [노션 쓰고 싶은데 어려우신 분들은 이거 써보세요 떠오르는 생산성 앱 | 생산성앱, 마인드맵앱, 아이디어정리 - YouTube](https://www.youtube.com/watch?v=0MpNSwIvYw0)
 * [XMind - Mind Mapping Software](https://www.xmind.net/)
 
 # Multimedia
