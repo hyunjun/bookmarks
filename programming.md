@@ -819,6 +819,7 @@ Programming
   * [소프트웨어 장인 CHAPTER 2 애자일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-2-%EC%95%A0%EC%9E%90%EC%9D%BC)
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
+* [지금까지 애자일이 가짜였던 이유 - YouTube](https://www.youtube.com/watch?v=-dlDpyy6WhM) agile manifesto에 대한 이야기
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense)
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
