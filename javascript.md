@@ -4841,6 +4841,7 @@ Javascript
 * [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 * [Why Airbnb Dumped React Native? - Programmer Couple](https://www.theimmigrantprogrammers.com/p/why-airbnb-dumped-react-native)
+  * [왜 리액트 네이티브를 에어비엔비는 버렸고, 디스코드는 쓸까? - YouTube](https://www.youtube.com/watch?v=uxfHDvxkelE)
 * [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 * [React로 보는 COSMEE](https://slides.com/bobinlee-1/deck)
   * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
