@@ -2124,6 +2124,7 @@ Business
 * [Maria Livia Chiorean - From Managing Scala to Managing People | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=B8aMf5p2kVg)
 * [**OKKY 12월 세미나 개발조직 관리, 나만 이렇게 힘든거야? - YouTube**](https://www.youtube.com/watch?v=pQEUqoZRKpw)
 * [Skills and Insights for First-Time Managers - InfoQ](https://www.infoq.com/news/2024/02/first-time-manager-skills/)
+* [유능함보다는 따뜻함을 먼저 갖추세요](https://www.linkedin.com/posts/somew0n_%EC%9C%A0%EB%8A%A5%ED%95%A8%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%94%B0%EB%9C%BB%ED%95%A8%EC%9D%84-%EB%A8%BC%EC%A0%80-%EA%B0%96%EC%B6%94%EC%84%B8%EC%9A%94-1-%ED%95%98%EB%B2%84%EB%93%9C-%EA%B2%BD%EC%98%81%EB%8C%80%ED%95%99%EC%9B%90%EC%9D%98-%EC%97%90%EC%9D%B4%EB%AF%B8-activity-7179239151307755522-r-72/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
