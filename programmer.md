@@ -393,6 +393,17 @@ Programmer
 * [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
 * [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by James Stanier](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/)
   * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=h5KKtsIVhrw)
+  * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz - YouTube](https://www.youtube.com/watch?v=Vyy6tcsQ460)
+    * [VidiGo Become an Effective Software Engineering Manager •](https://vidigo.ai//share/summary/51c0beaac2f0)
+      * 관리자로서의 성장과 철학
+        * 기술 분야에서 경력을 쌓아가는 과정에서 해고는 피할 수 없는 일일 수 있으며, 이는 개인의 통제 범위를 벗어난 일
+        * 관리자는 고품질의 업무를 수행하면서도 필요한 경우 개발자로서의 역할로 돌아갈 준비 필요
+        * 스토아 철학과 같은 철학적 접근을 통해 통제 가능한 것과 그렇지 않은 것을 구분하고 집중하는 것이 중요
+      * 효과적인 위임과 관계 구축
+        * 위임은 단순히 업무를 나누어 주는 것 이상으로, 매니저가 여전히 책임감을 가져야 하는 복잡한 과정
+        * 새로운 직원이나 상사와의 초기 만남에서 서로의 기대와 필요사항을 명확히 하여 성공적인 관계를 구축하는 것이 중요
+        * 계약 운동을 통해 서로에 대해 더 잘 알아가고 협력적으로 문제를 예방 가능
+    * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/441092?sId=Vyy6tcsQ460)
 
 # Career path
 * [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
