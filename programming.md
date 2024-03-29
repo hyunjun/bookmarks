@@ -4571,6 +4571,8 @@ Programming
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
 * [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
+* [SIEM Security & SOC Services | Cloud & Self-Hosted](https://logrhythm.com/)
+  * [SIEM Rules For Companies. What is SIEM, and which rules should be… | by Guven Boyraz | Medium](https://medium.com/@guvenboyraz/siem-rules-for-companies-6ac21938d1c2)
 * [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
 * SSRF
   * ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
