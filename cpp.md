@@ -206,6 +206,10 @@ C++
 * [10 Top Tips To Develop A C++ App In 2022](https://blogs.embarcadero.com/10-top-tips-to-develop-a-c-app-in-2022/)
 * [“개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다” C++ 창시자 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2093/)
 * [Interactive Workflows for C++ with Jupyter | by QuantStack | Jupyter Blog](https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92)
+* [The rule of three/five/zero - cppreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three)
+  * 기본은 3의 법칙으로 소멸자, 복사 생성자, 복사 할당 연산자 중 하나라도 선언했다면 나머지도 모두 선언해야 한다는 내용
+  * 5의 법칙은 여기에 이동 생성자와 이동 할당 연산자 추가
+  * 0의 법칙은 이들이 필요하지 않도록 설계한다는 내용
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -319,6 +323,7 @@ C++
 * [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
   * [C++20의 주요 기능들 - 예제와 함께 정리 | GeekNews](https://news.hada.io/topic?id=4033)
 * [Functional Parsing in C++20 - YouTube](https://www.youtube.com/watch?v=QwaoOYkoqB0)
+* [C++20: Define the Concept Regular and SemiRegular – MC++ BLOG](https://www.modernescpp.com/index.php/c-20-define-the-concept-regular-and-semiregular/) 타입 분류 체계
 
 # Conference
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
