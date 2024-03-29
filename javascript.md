@@ -869,6 +869,7 @@ Javascript
 * [HTTP 응답 지연을 이용한 서버간 작업 동기화 실험 (mutex over http)](https://blog.promedius.ai/0/)
 * [JavaScript: Loose Equals and Strict Equals | by Valentin Podkamennyi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe)
 * [자바스크립트 엔진들의 hidden class 개념과 코드 실행 최적화를 위한 inline caching](https://blog.naver.com/dlaxodud2388/222263604696)
+* [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [Using Objects for Lookups| freecodecamp Basic Javascript - YouTube](https://www.youtube.com/watch?v=0gyap1hPePk)
 * [Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/hello-modules-d1010b4e777b)
 * [자바스크립트 모듈 ESM과 CJS 의 특징, 차이, 혼용방법 - YouTube](https://www.youtube.com/watch?v=VFAJhy64ES8)
