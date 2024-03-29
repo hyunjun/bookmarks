@@ -439,6 +439,7 @@ Artificial Intelligence
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
+* Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
