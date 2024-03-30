@@ -562,6 +562,7 @@ Vision
 * [CHARACTER REGION AWARENESS FOR TEXT DETECTION](http://hugrypiggykim.com/2019/10/04/character-region-awareness-for-text-detection/)
 * [알도개 RPA와 AI](https://jhrogue.blogspot.com/2021/10/rpa-ai.html)
 * [파이썬으로 사진에서 문자인식하는 AI 쉽게 만들기 - YouTube](https://www.youtube.com/watch?v=L8q-KCbXybc)
+* [미래 교실을 만드는 콴다의 AI 기술. AI 디지털 교과서를 통해 공교육 환경에서 교육 혁신을 만들어 갑니다. | by Pyungwoo Yoo | Mar, 2024 | Team QANDA](https://blog.mathpresso.com/%EB%AF%B8%EB%9E%98-%EA%B5%90%EC%8B%A4%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BD%B4%EB%8B%A4%EC%9D%98-ai-%EA%B8%B0%EC%88%A0-ce351e77d112)
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
   * [master-easy-ocr-wook-2.endpoint.ainize.ai](https://master-easy-ocr-wook-2.endpoint.ainize.ai)
   * `curl -X POST "https://master-easy-ocr-wook-2.endpoint.ainize.ai/word_extraction" -H "accept: images/*" -H "Content-Type: multipart/form-data" -F "language=ko" -F "base_image=@<file name>.jpg;type=image/jpeg"` .jpg file이 있는 directory에서 실행
