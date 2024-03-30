@@ -647,6 +647,7 @@ Functional Programming
 * [Kyo](https://getkyo.io/#/)
   * [Writing Modular Applications Using The Kyo Library](https://www.scalamatters.io/post/writing-modular-applications-using-the-kyo-library)
   * [Releasing Kyo: When Performance Meets Elegance In Scala by Flavio Brasil - YouTube](https://www.youtube.com/watch?v=FXkYKQRC9LI)
+  * [Caprese Alternative · Issue #211 · getkyo/kyo](https://github.com/getkyo/kyo/issues/211)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
