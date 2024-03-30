@@ -170,6 +170,10 @@ Sports
 * [2022 KBO 리그 포스트시즌 cWPA](https://junkstorage.tistory.com/67)
 * [왜 공은 실밥 쪽으로 휠까? - SSW의 물리학 - 야구공작소](https://yagongso.com/?p=18512)
 * sweeper [야구에 산다 제106구 'New 사직 아이돌' 김민석 폰터뷰 풀버전 습츠 야구에 산다 - YouTube](https://www.youtube.com/watch?v=5f7xKaq6_8Q&t=206s)
+* [투수에게 가장 필요한건 무엇일까요? 구속? 많은 변화구? 그보다 중요한 것은........... - YouTube](https://www.youtube.com/watch?v=lEODg_1TvFI)
+  * release point를 올려서 location의 변화를 가져와 구종 자체의 stat은 하락했지만 결과적으로 성적은 상승
+  * 세부적인 구종, pitching의 일부분만 볼 때는 안 좋아진 걸로 보이지만, 타자와의 승부 pitch design등 전체적으로 볼 때는 좋은 결과를 만들어냄
+  * velocity보다 중요한 건 location, location을 활용하는 pitch design
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
