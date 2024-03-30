@@ -746,6 +746,7 @@ Javascript
   * [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
+* [웹에서 프리 드로잉 밑바닥부터 구현하기. 자연스러운 프리 드로잉 알고리즘을 완성해 가는 과정 | by Minseo Kang | Mar, 2024 | Team QANDA](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1) canvas
 * [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 * [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
 * [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
