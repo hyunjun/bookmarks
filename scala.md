@@ -1627,6 +1627,7 @@ Scala
     * [Cats Effect vs ZIO](https://softwaremill.com/cats-effect-vs-zio/)
     * [Retrying Cats Effect Failures With Ease | ScalaJobs.com](https://scalajobs.com/blog/retrying-cats-effect-failures-with-ease/)
     * [Flavors of shared state in Cats Effect](https://blog.kubukoz.com/flavors-of-shared-state/)
+    * [Why Effects libs? : r/scala](https://www.reddit.com/r/scala/comments/1bo4jcb/why_effects_libs/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -2035,6 +2036,7 @@ Scala
   * [Custom logic from Accept header with Tapir | by Gaël Jourdan-Weil | Oct, 2023 | Medium](https://medium.com/@gaeljw/custom-logic-from-accept-header-with-tapir-80082f1de21d)
   * [Benchmarking Tapir: Part 1](https://softwaremill.com/benchmarking-tapir-part-1/)
   * [Benchmarking Tapir: Part 2](https://softwaremill.com/benchmarking-tapir-part-2/)
+  * [Benchmarking Tapir: Part 3 (Loom)](https://softwaremill.com/benchmarking-tapir-part-3-loom/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2539,6 +2541,7 @@ Scala
 * [Jamie Thompson - How does Incremental Compilation Work with Scala 3 | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=1uuFxEAiPuQ)
 * [Jack Viers - Testable Compiler Plugin Development in Scala 3 | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=UpsRLbEHmik)
 * [Work-in-Progress Scala 3 Specification | The Scala Programming Language](https://www.scala-lang.org/blog/2023/09/25/work-in-progress-scala-3-specification.html)
+* [Capture Checking in Scala 3.4](https://www.scalamatters.io/post/capture-checking-in-scala-3-4)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2603,6 +2606,8 @@ Scala
 * [Scala.js Interoperability with TypeScript/JavaScript | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=QYIEa_mniCs)
 * [Ryan Peters - Writing a Database in Scala.js | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=5P8z0flAXsI)
 * [Game development in Scala.js with David Smith - YouTube](https://www.youtube.com/watch?v=abykT3aDI58)
+* [Generative Art in Scala, No AI Required - YouTube](https://www.youtube.com/watch?v=kOhBhOGfUKo)
+  * [scalar-2024-artistic-scala: Scalar 2024 - Generative Art in Scala, No AI Required](https://github.com/rockthejvm/scalar-2024-artistic-scala)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
