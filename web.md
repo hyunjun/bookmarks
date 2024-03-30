@@ -1839,6 +1839,7 @@ Web
 * [📸 📸 A picture is worth a thousand…kilobytes - YouTube](https://www.youtube.com/watch?v=FOxoQjBA4pk)
 * [Budgeting JS for your Users by George Iliadis - YouTube](https://www.youtube.com/watch?v=GjKVsOAbNT8)
 * [성능 테스트의 중요성과 목적 그리고 효과](https://f-lab.kr/blog/importance%20of%20performance%20Testing)
+* [‘이거 어디까지 올라가는 거예요?’ — 성능 테스트 환경 구축기 | by Ian | Mar, 2024 | 레몬베이스 팀블로그 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io)
   * Node.js 기반, 스트레스 테스트, 성능 테스트
   * 분산 기반으로 보다 확장성 있는 노드 시스템을 개발하다보면 자의적이던 타의적이던 성능검증 필요
