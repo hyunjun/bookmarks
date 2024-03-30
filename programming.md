@@ -4835,6 +4835,27 @@ Programming
     * 시리즈 C-E의 회사들은 21.7%
     * 시리즈 F 이상은 평균 15.8%의 인력이 배치
   * 각 회사가 중앙집중식 개발자 생산성 팀을 어떻게 구성하고 있는지에 대한 예시도 포함
+* [Expert Advice For Organizations Launching DevOps Programs](https://www.forbes.com/sites/forbestechcouncil/2023/06/02/19-pieces-of-expert-advice-for-organizations-launching-devops-programs/)
+  * [DevOps 프로그램을 시작하려는 조직 위한 전문가 조언 19가지 | GeekNews](https://news.hada.io/topic?id=14037)
+    * 작게 시작, 자주 반복
+    * 사람, 프로세스, 기술 해결
+    * 서두르지 말고 천천히 하기
+    * 개발자에게 프로세스 오너십 주기
+    * 보안 잊지 말기
+    * 인프라를 발전시키는 프레임워크 만들기
+    * 클라우드 네이티브 기술 받아들이기
+    * 도구보다 문화에 우선순위 매기기
+    * DRY(Don’t Repeat Yourself) 코드 작성
+    * 공동 책임 문화 조성
+    * 모든 이해관계자가 공동 목표와 기대 갖기
+    * 협업과 소통 우선
+    * 사람 중심 접근법
+    * 모두가 성공과 관련해 자신의 역할 이해하기
+    * 품질 > 속도
+    * 코드 계속 문서화
+    * 반복적이고, 시간이 오래 걸리는 업무 자동화
+    * 다른 사람의 솔루션을 단순히 취하지 않음
+    * 카오스 엔지니어링 받아들이기
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
