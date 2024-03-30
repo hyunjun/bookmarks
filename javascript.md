@@ -2685,6 +2685,7 @@ Javascript
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
+* [yjs: Shared data types for building collaborative software](https://github.com/yjs/yjs)
 
 ## Library Angular React Vue comparison
 * [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
