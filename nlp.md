@@ -2124,6 +2124,8 @@ NLP
 * [guidance: A guidance language for controlling large language models](https://github.com/microsoft/guidance)
 * [h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs](https://github.com/h2oai/h2o-llmstudio)
 * [human-eval: Code for the paper "Evaluating Large Language Models Trained on Code"](https://github.com/openai/human-eval)
+* [Hume AI](https://www.hume.ai/)
+  * ["감정 이해가 LLM 성능을 높이는 길"...목소리로 의도 파악하는 AI 등장 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=158403)
 * [instructor: structured outputs for llms](https://github.com/jxnl/instructor)
   * [The Art of Crafting RANchain Code with LLMs - Network APIOps](https://www.linkedin.com/posts/jinsung-choi-48a8b61_oran-openran-orancopilot-activity-7156849383840366592-Hi-F/)
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
