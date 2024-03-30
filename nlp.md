@@ -2221,6 +2221,7 @@ NLP
   * [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
   * [Launch an LLM App in One Hour (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=twHxmU9OxDU)
     * [the-full-stack/ask-fsdl: Document Q&A over The Full Stack's Corpus](https://github.com/the-full-stack/ask-fsdl)
+  * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
