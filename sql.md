@@ -1239,6 +1239,7 @@ SQL
       * Omni 프로젝트는 컨테이너 관리, S3 파일 저장 및 결제 지원까지 모두 PostgreSQL 내에서 관리하는 아이디어 추구
       * PostgreSQL은 ORM을 사용하여 백엔드 인프라를 더 간단하게 유지하고 이해하기 쉽게 만들거나 기업급 신뢰성 보장
       * 다른 데이터베이스나 검색 클러스터 대신 PostgreSQL로 긴 여정을 함께하며 프로젝트에 장기적인 혜택을 창출 가능
+* [EC2에 PostgreSQL 설치 🐘 - YouTube](https://www.youtube.com/watch?v=0wfZJyCcljk)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
