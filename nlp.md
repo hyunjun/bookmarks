@@ -2042,6 +2042,7 @@ NLP
       * 모델에 사용된 데이터양, 60조 토큰을 사용하는 6조 모델에 대해 논의되었고 100조 토큰까지 필요할 수 있다고 언급
       * 데이터가 부족한지에 대해 다른 면을 논의하며, 사전 훈련이 충분하지 않을 때 파인튜닝이 필요한 시점을 결정하는 것에 대해 설명
       * 마지막 부분은 사전훈련을 위해 팁 공유
+* [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
