@@ -487,6 +487,8 @@ Go
   * [Golang Panic을 Rocover 할 때 Error Stack Trace 함께 출력하기 | Popit](https://www.popit.kr/golang-panic%ec%9d%84-rocover-%ed%95%a0-%eb%95%8c-error-stack-trace-%ed%95%a8%ea%bb%98-%ec%b6%9c%eb%a0%a5%ed%95%98%ea%b8%b0/)
   * [Golang, 그대들은 어떻게 할 것인가 - 1. 들어가며](https://d2.naver.com/helloworld/8588537)
   * [Golang, 그대들은 어떻게 할 것인가 - 2. MongoDB Go Driver 추상화](https://d2.naver.com/helloworld/6178029)
+  * [Golang, 그대들은 어떻게 할 것인가 - 3. error 래핑](https://d2.naver.com/helloworld/2690202)
+  * [Golang, 그대들은 어떻게 할 것인가 - 4. error 핸들링](https://d2.naver.com/helloworld/6507662)
 * protobuf [A new Go API for Protocol Buffers - The Go Programming Language](https://go.dev/blog/protobuf-apiv2)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
