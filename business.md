@@ -229,6 +229,7 @@ Business
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
 * [작은 스타트업이 건강한 조직문화를 만드는 방법. 딜라이트룸이 조직문화에 관심을 두기 시작한 이유 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-9db3438e4868)
+* [건강한 조직문화를 찾아서 : 얼라인먼트와 자율조직](https://brunch.co.kr/@f2899d6dae6a477/21)
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
