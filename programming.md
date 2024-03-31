@@ -3495,6 +3495,7 @@ Programming
   * [Introducing the Vercel Platforms Starter Kit – Vercel](https://vercel.com/blog/platforms-starter-kit)
     * Vercel을 이용해서 커스텀 도메인을 가진 멀티 테넌트 앱을 만드는 풀 스택 템플릿을 Vercel에서 공개
   * [Next.js + Vercel + Github Workflow를 결합한 가장 아름다운 배포 자동화 | Univdev](https://univdev.page/posts/vercel-cicd/)
+  * [Vercel 이 수백만 웹사이트를 배포하는 비결은?! - YouTube](https://www.youtube.com/watch?v=8q-jCvLWwKc)
   * [Vercel Markup](https://service-markup.vercel.app/)
     * Vercel의 많은 제품이 다른 서비스 위에서 만들어졌는데 이를 기반으로 가격 차이가 어느 정도인지를 비교한 페이지, Vercel의 KV, Postgres, Blob이 비교
   * [Vercel Ship](https://vercel.com/ship)
