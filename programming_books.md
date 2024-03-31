@@ -934,6 +934,11 @@ Programming Books
   * 한라 004.73-크298ㄱ
   * [리뷰 기계의 반칙 · TheoryDB](https://theorydb.github.io/review/2023/12/24/review-book-the-shortcut/)
   * [The shortcut - how machines became intelligent without thinking in a human way](https://www.lse.ac.uk/Events/2024/02/202402121830/shortcut)
+  * [기계의 반칙](https://1003.notion.site/4f25bf71c29848d2a5e2fd44996075a8)
+  * [기계의 반칙](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_shortcut.md)
+  * [기계의 반칙. 기계의 반칙 | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EA%B8%B0%EA%B3%84%EC%9D%98-%EB%B0%98%EC%B9%99-539be6ef3d2f)
+  * [기계의 반칙 - Jun’s Substack](https://recur.substack.com/p/b12)
+  * [기계의 반칙](https://jh4hj.tistory.com/entry/%EA%B8%B0%EA%B3%84%EC%9D%98-%EB%B0%98%EC%B9%99)
 * [멀티모달 생성 AI 인사이드](https://hanbit.co.kr/store/books/look.php?p_code=B9155744064&tid=review)
   * ★★★☆☆ 2024.03.11
   * [멀티모달 생성 AI 인사이드](https://github.com/hyunjun/bookmarks/blob/master/programming_books/multimodal_gen_ai_inside.md)
