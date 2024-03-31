@@ -2470,6 +2470,7 @@ Programming
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [Understanding the API Gateway](https://www.linkedin.com/posts/sahnlam_understanding-the-api-gateway-an-api-gateway-ugcPost-7145281251187339265-og7g/)
+* [What does API gateway do?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7178775881576820737-Cg3W/)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
