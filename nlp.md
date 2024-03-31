@@ -2440,6 +2440,7 @@ NLP
   * [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code) - YouTube](https://www.youtube.com/watch?v=XpoKB3usmKc)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
+  * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
 * [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
