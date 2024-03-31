@@ -325,6 +325,7 @@ SQL
 * [Oracle to AWS Aurora PG 2탄 !! (DB 이사가요~)](https://gsretail.tistory.com/54)
 * [Amazon Aurora MySQL 버전 3으로 업그레이드 (MySQL 8.0 호환) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql-version-3-upgrade-mysql-8-0-compatability/)
 * [로컬 인스턴스 스토리지를 사용하여 SQL Server용 Amazon RDS Custom에서 TempDB 성능 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimize-tempdb-performance-in-amazon-rds-custom-for-sql-server-using-local-instance-storage/)
+* [Amazon RDS: A Comprehensive Tutorial on AWS RDS with Hands-On Practice by Fanaticus - YouTube](https://www.youtube.com/watch?v=WMFc3D96tSE)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
