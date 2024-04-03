@@ -86,6 +86,9 @@ Baby
 * [기사 - 사교육에 빨대 꽂힌 학부모들 2: 공교육과 독서면 충분하다](https://www.ddanzi.com/ddanziNews/695545873)
 * [아이들의 창의성이 사라지는 것에 대한 단편 영화: 어라이크(Alike) - Wonderful Mind](https://wonderfulmind.co.kr/alike-short-film-reflect-childrens-creativity/)
 * [초등 교사들이 말하는 학년별 아이들 발달 특징](https://steinerinstitute.tistory.com/entry/%EC%B4%88%EB%93%B1-%EA%B5%90%EC%82%AC%EB%93%A4%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%ED%95%99%EB%85%84%EB%B3%84-%EC%95%84%EC%9D%B4%EB%93%A4-%ED%8A%B9%EC%A7%95)
+* [명문대 입시 휩쓸고 있는 한국의 IB학교를 아십니까 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=DyAzqvawYrQ)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21436)
+  * [강남 엄마들이 쉬쉬하는 IB학교를 아십니까 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/460330?sId=DyAzqvawYrQ)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
