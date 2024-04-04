@@ -326,6 +326,8 @@ SQL
 * [Amazon Aurora MySQL 버전 3으로 업그레이드 (MySQL 8.0 호환) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql-version-3-upgrade-mysql-8-0-compatability/)
 * [로컬 인스턴스 스토리지를 사용하여 SQL Server용 Amazon RDS Custom에서 TempDB 성능 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimize-tempdb-performance-in-amazon-rds-custom-for-sql-server-using-local-instance-storage/)
 * [Amazon RDS: A Comprehensive Tutorial on AWS RDS with Hands-On Practice by Fanaticus - YouTube](https://www.youtube.com/watch?v=WMFc3D96tSE)
+* [Amazon Aurora MySQL 버전 2(MySQL 5.7 호환)에서 버전 3(MySQL 8.0 호환)으로 업그레이드 체크리스트, 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/database-amazon-aurora-mysql-version-2-with-mysql-5-7-compatibility-to-version-3-with-mysql-8-0-compatibility-upgrade-checklist-part-1/)
+* [Amazon Aurora MySQL 버전 2(MySQL 5.7 호환)에서 버전 3(MySQL 8.0 호환)으로 업그레이드 체크리스트, 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/database-amazon-aurora-mysql-version-2-with-mysql-5-7-compatibility-to-version-3-with-mysql-8-0-compatibility-upgrade-checklist-part-2/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
