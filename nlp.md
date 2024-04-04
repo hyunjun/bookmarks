@@ -864,6 +864,8 @@ NLP
   * [제미나이 API로 실시간 주식정보 가져오기 : 초보 탈출?](https://fornewchallenge.tistory.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-API%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%A3%BC%EC%8B%9D%EC%A0%95%EB%B3%B4-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EC%B4%88%EB%B3%B4-%ED%83%88%EC%B6%9C)
   * [ChatGPT로 한글과 한자가 적힌 카드 만들기 | Pega Devlog](https://jehyunlee.github.io/2023/12/25/General-33-ChatGPT_DataAnalysis/)
   * [ChatGPT 활용 KIER 업무효율화 역량강화 강의자료 | Pega Devlog](https://jehyunlee.github.io/2024/02/22/General-43_kierchatgpt/)
+  * [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW | Pega Devlog](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
+  * [KIER 강연 - AI활용 업무 효율화 방안 | Pega Devlog](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
   * [06. ChatGPT API로 챗봇 웹앱 만들기 - 빵형의 AI 활용 개발 강의 - YouTube](https://www.youtube.com/watch?v=2a5V3oiaWUI)
   * [Inside OpenAI: How does ChatGPT Ship So Quickly?](https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship)
   * [Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
