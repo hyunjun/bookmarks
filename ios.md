@@ -690,6 +690,7 @@ iOS
 * [Oh Shit, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i) SwiftUI
   * ["어머나, 내 앱이 성공했는데 접근성을 고려하지 않았네" | GeekNews](https://news.hada.io/topic?id=13897)
 * [SwiftUI - compositingGroup :: iOYES](https://green1229.tistory.com/460)
+* [SwiftUI - blendMode :: iOYES](https://green1229.tistory.com/461)
 * [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
