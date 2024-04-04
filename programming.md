@@ -1551,6 +1551,7 @@ Programming
 * [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
 * [NHN FORWARD 22 클린 아키텍처 애매한 부분 정해 드립니다. - YouTube](https://www.youtube.com/watch?v=g6Tg6_qpIVc)
 * [클린아키텍처(CleanArchitecture)는 모바일 개발에 도움이 되는가 ? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-cleanarchitecture-%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80-237cb3c7580d)
+* [마케터도 10분 만에 이해한 클린 아키텍쳐. 알라미 개발자가 클린 아키텍쳐를 지향하는 이유 | by Bonny | DelightRoom | Mar, 2024 | Medium](https://medium.com/delightroom/%EB%A7%88%EC%BC%80%ED%84%B0%EB%8F%84-10%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-acfad9e60d4d)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
@@ -4496,6 +4497,24 @@ Programming
 * [Building Images For The Secure Supply Chain • Adrian Mouat • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bZTlLAg9UZ4)
 * [Should Your Notes Be End-to-End Encrypted? | Supernotes](https://supernotes.app/blog/posts/notes-end-to-end-encryption/)
 * [생체인증은 안전할까?](https://velog.io/@tosspayments/%EC%83%9D%EC%B2%B4%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%95%88%EC%A0%84%ED%95%A0%EA%B9%8C)
+* [How The Hack? • Ben Sadeghipour @NahamSec • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=3D8AEUmUXag)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21546)
+  * [어떻게 해킹할까? - 벤 사데기푸르 @NahamSec - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/465047?sId=3D8AEUmUXag)
+    * 10. 사이버 보안에서 시작할 수 있는 플랫폼과 리눅스 기초에 대한 학습
+      * TryHackMe: 사이버 보안 초보자를 위한 플랫폼. 웹해킹, 버그바운티 등을 배우기 전 *기본적인 네트워킹*과 *보안 개념*을 다룸
+      * Hack The Box: TryHackMe과 유사하며 *OSCP 자격증*을 획득할 수 있음. 리눅스 기초 과정 추천
+      * Codecademy: *프로그래밍 언어* 학습에 좋음. 무료 모듈과 유료 카탈로그 제공
+    * 11. 해킹 스킬 연습 웹사이트들과 추천 콘텐츠 소개
+      * 해킹 스킬 연습을 위한 웹사이트들 소개: Over the Wire, PicoCTF, PortSwigger's Web Academy
+      * Over the Wire: 리눅스 쉘 사용, 파일 읽기, 정보 추출, 복호화, 코딩을 연습할 수 있는 총 30-40단계 제공
+      * PicoCTF: 쿠키 작동 방식, 조작 방법 등을 학습할 수 있으며 핵심 해킹 기술은 아니지만 실제로 유용
+      * PortSwigger's Web Academy: Burp Suite 도구 활용을 강제하며 취약점을 다루는 랩 제공
+        * 매우 가치 있는 자원이며 모든 신규 해커가 이를 완료하면 첫 번째 보상 획득에 성공
+    * 12. 해킹 활동을 배우고 발전시키는 방법
+      * 취약점 타입(예: Cross-Site Scripting) 하나씩 선택해 실습하고 제일 첫 번째 취약성을 찾음
+      * 해킹은 비디오 게임과 유사해, 매일 몇 시간의 시간을 투자하며 점차 발전 필요
+      * 다른 해커들의 블로그나 GitHub Page를 읽고 온라인 커뮤니티에 참여하며 공부하고 경험 공유
+      * 로컬 및 온라인 해킹 커뮤니티에 참여하고 자신의 관심사를 발견
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -5451,6 +5470,7 @@ Programming
 * [Reduce File Size of Images in Linux - CLI and GUI methods | DigitalOcean](https://www.digitalocean.com/community/tutorials/reduce-file-size-of-images-linux)
 * [SVG 진짜 정답인가? 그럼 PNG는?. 생산성과 효율성을 지향합니다. 근데 이제 퍼포먼스와 안정성을 곁들인 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/svg-%EC%A7%84%EC%A7%9C-%EC%A0%95%EB%8B%B5%EC%9D%B8%EA%B0%80-%EA%B7%B8%EB%9F%BC-png%EB%8A%94-e19d1c84aef9)
 * [고객에게 뚜렷한 경험을: 컬리의 후기 이미지 처리 기술 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly_review_image_detection/)
+* [HEIC 파일 포맷 지원을 통한 사용자 경험 향상 시키기. HEIC/HEIF 란? | by jpapa | 원티드랩 기술 블로그 | Apr, 2024 | Medium](https://medium.com/wantedjobs/heic-%ED%8C%8C%EC%9D%BC-%ED%8F%AC%EB%A7%B7-%EC%A7%80%EC%9B%90%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EA%B8%B0-aff166454c04)
 * [agi-upscale: agi pic viewer](https://github.com/eviltrout/agi-upscale)
 * [AVIF는 웹 이미지의 미래다 | GeekNews](https://news.hada.io/topic?id=13927)
 * [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
@@ -6155,6 +6175,7 @@ Programming
   * [기술 뉴스 #240 : 24-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1708)
   * [기술 뉴스 #241 : 24-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1710)
   * [기술 뉴스 #242 : 24-03-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1712)
+  * [기술 뉴스 #243 : 24-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1713)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -7250,6 +7271,7 @@ Programming
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
+* [임시 테스팅(Ad-hoc Testing)과 탐색적 테스팅(Exploratory testing)을 활용한 테스트 전략 | by 박현준 | 29CM TEAM | Apr, 2024 | Medium](https://medium.com/29cm/%EC%9E%84%EC%8B%9C-%ED%85%8C%EC%8A%A4%ED%8C%85-ad-hoc-testing-%EA%B3%BC-%ED%83%90%EC%83%89%EC%A0%81-%ED%85%8C%EC%8A%A4%ED%8C%85-exploratory-testing-%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5-e3da8794c7cd)
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
   * [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-단위-테스트-도입하기-1편)
   * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
