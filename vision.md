@@ -748,6 +748,7 @@ Vision
 * [What Is A Digital Image? | Image Processing with OpenCV | Computer Vision - YouTube](https://www.youtube.com/watch?v=CeWJRwTYbnY)
 * [How to Make an AI Dog Eat Your Homework with Computer Vision | by Rohan Agarwal | May, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-make-an-ai-dog-eat-your-homework-with-computer-vision-1866ada7ac08)
 * [OpenCV - YouTube](https://www.youtube.com/playlist?list=PLg-IITsdNncg_adeJbNBok8ubZtj0UGHr)
+* [OpenCV Python inpaint 함수 : 손상된 이미지 복원(Image Inpainting) :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2307)
 * [Automatic Document Scanner using OpenCV | LearnOpen](https://learnopencv.com/automatic-document-scanner-using-opencv/)
 * [Python Crawling 쇼핑몰 크롤링시 뭉쳐있는 이미지 OpenCV로 crop해서 저장하기](https://creeraria.tistory.com/46)
 * [Windows에 설치된 Rust에서 OpenCV 설치, 사용하는 방법](https://webnautes.tistory.com/2239)
