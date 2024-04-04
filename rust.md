@@ -526,6 +526,7 @@
 * [Rust for Python data engineers — Karim Jedda - YouTube](https://www.youtube.com/watch?v=x2ADMZfBqa4)
 * [Rust Tutorial Full Course - YouTube](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 * [중급 1년차 1학기 Easy Rust - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RSK23wBRLdgu8tdFbbMUqR)
+* [가장 사랑받는 언어 Rust :: Udemy 'Rust Programming 핵심 강의' 후기](https://velog.io/@wisepine/%EA%B0%80%EC%9E%A5-%EC%82%AC%EB%9E%91%EB%B0%9B%EB%8A%94-%EC%96%B8%EC%96%B4-Rust-Udemy-Rust-Programming-%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [json_parser: Rust JSON Parser](https://github.com/dnzk/json_parser)
