@@ -2163,6 +2163,7 @@ Docker
       * 이전 버전에서 On-demand로 프로비저닝된 노드를 합치거나 삭제해 비용 최적화를 지원해주던 기능, 0.34부터는 Spot도 지원. 더 비용 최적화 가능
     * 2. Distruption Budgets 지정
       * 현재 떠있는 노드들 중 특정 비율 혹은 특정 대수를 지정해 Karpenter로 인해 죽지 않도록 지정 및 Scheduling 가능
+  * [Karpenter 0.3x. 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/karpenter-0-3x-36a0cb57b205)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
