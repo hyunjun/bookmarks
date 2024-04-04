@@ -344,6 +344,7 @@ Redis
 * Lettuce
   * [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
   * [왜 RedisCluster 에 Lettuce는 ClusterTopology를 설정해야 할까? - Google Slides](https://docs.google.com/presentation/d/1FtEFBCubpcqMJ6C7YV55KAxjhZ5znYn6A3f1c341Lcg/edit)
+  * [Redis Cluster를 사용할 때 Spring Boot와 Lettuce client를 설정해 드립니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/379)
 
 ## Queue Library
 * [EasyRedisMQ - A Simple .Net Message Queue that Uses Redis for the back end](https://github.com/jkruer01/EasyRedisMQ)
