@@ -1364,6 +1364,7 @@ AWS
 * [AWS Top3 Tech Trend Session 03 : EKS 신규 기능 소개 & 비용 최적화 사례 소개 - YouTube](https://www.youtube.com/watch?v=ELU923_QUws)
 * [Amazon EKS에서 IPv6로의 여정 : Foundation (Part 1) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/the-journey-to-ipv6-on-amazon-eks-foundation-part-1/)
 * [Deep dive into Amazon EKS scalability testing | Containers](https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-scalability-testing/)
+* [NTH(NodeTerminationHandler). 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/nth-nodeterminationhandler-9bc5b2af4ad7)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1582,6 +1583,7 @@ AWS
 * [Don't be fooled by serverless](https://world.hey.com/dhh/don-t-be-fooled-by-serverless-776cd730)
   * [서버리스에 속지 마세요 | GeekNews](https://news.hada.io/topic?id=8623)
 * [AWS re:Invent 2023 - Best practices for serverless developers (SVS401) - YouTube](https://www.youtube.com/watch?v=sdCA0Y7QDrM)
+* [서버리스 사용, 이것부터 주의하세요 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/04/03/serverless-architecture/)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
@@ -2804,3 +2806,4 @@ AWS
 * [AWS WAF의 가장 중요한 세가지 속도 기반 규칙 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/three-most-important-aws-waf-rate-based-rules/)
 * [AWS WAF의 지능형 위협 완화 기능을 사용하여 교차 출처 API 액세스 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-aws-waf-intelligent-threat-mitigations-with-cross-origin-api-access/)
 * [AWS WAF Fraud Control을 통한 계정 생성 사기 방지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/prevent-account-creation-fraud-with-aws-waf-fraud-control-account-creation-fraud-prevention/)
+* [AWS WAF 의 COUNT ACTION 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-aws-waf-count-log/)
