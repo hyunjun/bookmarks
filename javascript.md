@@ -4678,6 +4678,8 @@ Javascript
   * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 * [(번역) 2024 리액트 라이브러리 | Ykss](https://ykss.netlify.app/translation/react_libraries_for_2024/)
 * [React 업데이트 근황과 React 19 소식 | 커리어리](https://careerly.co.kr/comments/99528)
+* [React Compiler & React 19 - forget about memoization soon?](https://www.developerway.com/posts/react-compiler-soon)
+  * [번역 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
 * [React Labs: What We've Been Working On – February 2024 – React](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
   * React에서 연구 개발 중인 프로젝트의 진행상황 정리
   * 상태 변경으로 종종 너무 많은 렌더링이 일어나는 문제를 그동안 `useMemo`, `useCallback`, `memo`등 수동 메모이제이션을 사용해 해결
@@ -6462,6 +6464,8 @@ Javascript
 * [History Navigation Vue](https://hezedu.github.io/history-navigation-vue/)
 * Pinia [Home | Pinia](https://pinia.vuejs.org/)
   * [Vue3에서 사용되는 상태 관리자, Pinia | Univdev](https://www.univdev.page/posts/about-pinia/)
+  * [Vue3, Composition API와 Pinia를 이용한 상태관리 (1)](https://saramin.github.io/2023-06-27-vue3-composition-api-pinia-1/)
+  * [Vue3, Composition API와 Pinia를 이용한 상태관리 (2)](https://saramin.github.io/2024-03-25-vue3-composition-api-pinia-2/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
 * [VeeValidate: Painless Vue.js forms](https://vee-validate.logaretm.com/v4/)
