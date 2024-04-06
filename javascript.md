@@ -3402,6 +3402,9 @@ Javascript
 * [nodejs 결제 붙이기 스트라이프(stripe) 결제](https://han-py.tistory.com/498)
 * [Event Emitter basics in Node.js | Tech Tonic](https://medium.com/deno-the-complete-reference/event-emitter-basics-in-node-js-0a047c56ed00)
 * [2023 Node.js 성능 현황](https://velog.io/@hwisaac/2023-Node.js-%EC%84%B1%EB%8A%A5-%ED%98%84%ED%99%A9)
+* [Node.js Adds Sync ESM Support: A Milestone for Developers - NodeSource](https://nodesource.com/blog/enhancing-nodejs-esm-graphs)
+  * ESModules가 표준이 되었지만, CommonJS 기반이었던 Node.js에서는 여전히 ESM을 적용하는 데 어려움 존재
+  * `--experimental-require-module` 플래그를 적용하면 ESM 모듈을 `require()`로 동기식으로 불러올 수 있는 기능 추가
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
