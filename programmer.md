@@ -53,7 +53,7 @@ Programmer
   * 1. 업무를 전달하고 다시 확인을 할 필요가 없음 2. 주변 사람들을 도움
   * 꼭 개발자가 아니어도 해당하는 이야기. 일반적이지만 좋은 정의라고 생각
 * [Transitioning into Tech: The Journey of a Senior Junior Developer by Ibrahim Dogrusoz - YouTube](https://www.youtube.com/watch?v=9P_eq_d8GRs)
-* [The Curse of the Senior Software Engineer - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/)
+* [The Curse of the Senior Software Engineer - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer)
   * Claude 3 Sonnet v1
     * 직급에서 오랫동안 정체되면 다음 직업 탐색 시 어려움 발생
       * 상위 직급으로 승진하기에는 경력이 부족
@@ -78,6 +78,10 @@ Programmer
       * 기업 내 승진 경로를 잘 이해하고 주기적인 승진을 받아야 함
       * 그렇지 않다면 다른 회사로 이직하여 타이틀 및 임금 상승을 도모해야 함
       * 또 다른 방법은 타이틀 및 경력 ladder에 관심이 없는 회사를 찾는 것
+  * 시니어 개발자로서 오래 일하면서 승진에 전혀 관심 없었지만
+    * 시간이 지나 창업하려다가 다시 취업을 시도하다 보니 시니어로 채용하기엔 너무 높은 직급이거나 리더쉽으로 채용하기에는 경험이 부족한 상황 설명
+    * 본인의 가설이긴 하지만 맞다면 다른 사람들은 조심했으면 좋겠다고 이야기
+    * 승진 주기에 맞춰서 커리어를 관리하거나 빅테크식의 관리 방법을 쓰지 않는 회사를 찾는 해결책이 있다고 설명
 * [연차가 쌓일 수록 익숙해져야하는 5가지. 주니어이지만 주니어이고 싶지 않은 프론트엔드 5년차 개발자 | by FlyingSquirrel | Apr, 2023 | Medium](https://flyingsquirrel.medium.com/%EC%97%B0%EC%B0%A8%EA%B0%80-%EC%8C%93%EC%9D%BC-%EC%88%98%EB%A1%9D-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A0%B8%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-d88397dc96d)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
