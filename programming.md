@@ -4515,6 +4515,16 @@ Programming
       * 해킹은 비디오 게임과 유사해, 매일 몇 시간의 시간을 투자하며 점차 발전 필요
       * 다른 해커들의 블로그나 GitHub Page를 읽고 온라인 커뮤니티에 참여하며 공부하고 경험 공유
       * 로컬 및 온라인 해킹 커뮤니티에 참여하고 자신의 관심사를 발견
+* [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor)
+  * 무손실 압축 라이브러리인 xz-utils에 메인테이너에 의해 의도적으로 백도어가 포함된 것이 발견
+  * 서버의 SSH 접속이 느린 것을 추적하다가 백도어를 발견하고 리포팅한 Andres Freund가 추적한 내용을 보면 정황상 추측이 포함되어 있지만
+    * 2021년부터 Jia Tan이라는 계정이 xz 저장소에 Pull Request를 올리면서 등장
+    * 다른 가짜 계정을 통해서 메인테이터로 추가할 것을 압박
+    * 결국 메인테이너가 되어 라이브러리 호스팅하는 곳을 변경하는 등의 작업을 하면서
+      * 테스트 파일처럼 추가해 놓은 파일을 빌드 시에 마지막에 살짝 넣어서 배포된 라이브러리에 백도어가 포함되도록 진행
+  * 발견되기 어렵게 하기 위한 많은 시도가 눈에 보이고 백도어로 인해 생긴 버그를 해결하는 과정에서도 이를 숨기려고 했던 노력이 드러남
+  * 이 문제는 기존의 공급자 공격과는 다른 형태로 이뤄졌다는 면에서 오픈소스 생태계에 큰 충격
+  * 이번엔 운좋게 많은 시스템에 심어지기 전에 발견되어 영향은 크지 않은 것으로 보이지만 서버가 해당 백도어가 실행될 조건에 있지 않은지 확인 필요
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -5158,6 +5168,8 @@ Programming
   * [Catch infrastructure drift - driftctl](https://driftctl.com/)
 * [gitops-demo](https://github.com/sckimynwa/gitops-demo)
   * [**Modern Frontend Infrastructure Overview :: Normal Coder**](https://yeoulcoding.me/359)
+* [Internal Developer Platform | Internal Developer Platform](https://internaldeveloperplatform.org/) 내부 개발자 플랫폼에 대한 콘텐츠를 모으는 사이트
+  * [IDP - Internal Developer Platform](https://github.com/internaldeveloperplatform)
 * Port [Internal Developer Platform & Portal | Port](https://www.getport.io/)
   * [Webinar - Developer portals: what developers want and what platform people should do about it - YouTube](https://www.youtube.com/watch?v=AbqBWNpwMbY)
     * [kostis-codefresh/port-demo: Demo model for getPort.io](https://github.com/kostis-codefresh/port-demo)
