@@ -1912,6 +1912,10 @@ Book
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
+# Sociology
+* 사회주의 관련 서적
+  * [이완 - 마르크스는 죽었습니다. 더 이상 사회주의를 공부할 때 자본론을 읽지 않아도 됩니다. 마르크스는 자본론을... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02bPQCyMcWpoPruZytfufUYaWAmQz1jWMu9eSpwMFv8U7fHp2ytCMCZRL2ydxnAw3Rl&id=100025383090405)
+
 # Sports
 * [야구란 무엇인가](https://jh4hj.tistory.com/entry/%EC%95%BC%EA%B5%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
   * ★★★★☆ 2010.05.03~05
