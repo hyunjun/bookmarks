@@ -884,6 +884,7 @@ NLP
     * [VidiGo GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들.mp](https://vidigo.ai//share/summary/3f77e8f24670)
     * [Creating a service with GPT (a.k.a. drip) #UACon2023 #UA Brothers | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/441136?sId=VFwoEH50WpU)
     * [리뷰를 재료로 GPT가 뚝딱뚝딱 만들어낸 메뉴추천, 메뉴뚝딱AI | 우아한형제들 기술블로그](https://techblog.woowahan.com/16877/)
+  * [데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy) NL2SQL, masked data prompting
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1779,6 +1780,8 @@ NLP
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21878)
+  * [그랩의 LLM Application 개발 경험/레슨런 공유회 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/470094?sId=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
   * 벡터 서치가 LLM 스택의 핵심
@@ -2046,6 +2049,7 @@ NLP
       * 데이터가 부족한지에 대해 다른 면을 논의하며, 사전 훈련이 충분하지 않을 때 파인튜닝이 필요한 시점을 결정하는 것에 대해 설명
       * 마지막 부분은 사전훈련을 위해 팁 공유
 * [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
+* [Testing LLM models on Jetson Xavier NX #ollama #LLM #Jetson #NVIDIA - YouTube](https://www.youtube.com/watch?v=FJ6laH7hq9c)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2098,6 +2102,8 @@ NLP
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!](https://github.com/corca-ai/EVAL)
+* [evalverse: The Universe of Evaluation. All about the evaluation for LLMs](https://github.com/UpstageAI/evalverse)
+  * [Introduction to Evalverse | Open-Source Project for LLM Evaluations - YouTube](https://www.youtube.com/watch?v=-VviAutjpgM)
 * [evolve-instruct: evolve llm training instruction, from english instruction to any language](https://github.com/lcw99/evolve-instruct)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
@@ -2895,6 +2901,7 @@ NLP
   * [Goorm - A little word cloud generator in Python - Korean wrapper](https://github.com/koshort/goorm)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
 * [kss - Korean Sentence Splitter](https://pypi.org/project/kss/)
+  * [Kss: A Toolkit for Korean sentence segmentation](https://github.com/hyunwoongko/kss)
   * [Korean Sentence Splitter](https://github.com/likejazz/korean-sentence-splitter)
   * [한글 문장 분리기](http://docs.likejazz.com/kss/)
   * [Kss: A Toolkit for Korean sentence segmentation](https://github.com/hyunwoongko/kss)
