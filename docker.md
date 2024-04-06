@@ -896,6 +896,10 @@ Docker
 * DockerCon 2022
   * [The Journey from Docker Desktop to 100K IoT Devices running on Docker - YouTube](https://www.youtube.com/watch?v=C-3IbNoXN4U)
     * [Talks/2022_DockerCon at master · mpous/Talks · GitHub](https://github.com/mpous/Talks/tree/master/2022_DockerCon)
+* [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
+* [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
+* [KubeCon Vlog 1편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=F4GOwBfbkrI)
+* [KubeCon Vlog 2편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=n3KPbRvbbgE)
 
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
@@ -1340,8 +1344,6 @@ Docker
 * [Kubernetes in Financial Services: A Practical Field Guide](https://www.youtube.com/watch?v=aXPu1DPrfZA)
 * [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
-* [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
-* [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
 * [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
 * [쿠버네티스 정리 #2 - 쿠버네티스 설치](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-2/)
