@@ -1018,6 +1018,11 @@ Git
     * Pull Request로 작업하는 경우 각 PR의 CI는 통과했는데 머지 후에는 실패하는 경우 존재
     * 이 main이 깨지는 문제를 막기 위해 브랜치 보호 규칙으로 항상 최신 상태를 유지하도록 하면 모든 PR을 매번 리베이스해야 하는 리베이스 지옥이 펼쳐지게 되는데 이러한 문제를 머지큐로 해결 가능
     * 머지큐를 이용하면 PR 간 머지될 순서를 결정하고 각 PR을 검사하면서 머지할 수 있게 되므로 단순하게는 머지 속도가 느려질 수 있지만 변경 사항이 많거나 CI가 길다면 머지 큐로 속도를 더 높일 수 있음
+  * [Jeremy's Blog | Stacked Diffs(Stacked PR)](https://sungjk.github.io/2024/03/17/stacked-diffs.html)
+    * Pull Request로 협업할 때 협업을 잘 하기 위해 여러 방법이 있는데 그중에서 Stacked PR을 설명
+    * 코드 리뷰를 하는 동안 다음 작업을 하기 위해서 PR이 서로 이어지기 때문에 Stacked라는 표현 사용
+    * Stacked PR이 필요한 이유와 함께 GitHub에서 실제로 Stacked PR을 만들려면 어떻게 하는지까지 보여주어서 이해하기가 좋음
+    * 이러한 과정을 쉽게 도와주는 도구와 문제점도 같이 설명
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
   * `git pull --rebase` [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
 * push
