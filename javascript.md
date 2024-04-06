@@ -4692,6 +4692,13 @@ Javascript
   * 오랜 작업으로 릴리스할 준비가 되었고 Document Metadata, Asset Loading은 일부 앱에는 큰 변화가 되므로 다음 버전은 React 19가 될 예정
   * 화면에서 보이지 않는 부분에 적용되기 때문에 Offscreen라는 이름으로 개발 중이던 기능
     * 개발하면서 화면에 보이면서도 비활성 상태일 수 있다는 것을 알게 되어 이름을 Activity로 변경
+* [React Will Be Compiled](https://reacttraining.com/blog/react-19-will-be-compiled)
+  * [번역 리액트가 컴파일될 예정입니다](https://velog.io/@surim014/react-19-will-be-compiled)
+  * React Compiler가 나올 것이라는 건 알려진 사실인데 이게 무엇을 의미하는지 설명
+  * React를 클래스 컴포넌트, 훅, 컴파일 이렇게 세 가지 시대로 구분 가능
+    * 클래스 컴포넌트에서는 추상화를 위한 원시성이 없었기 때문에 이를 해결하기 위해 Hooks가 등장
+    * 하지만 Hooks에서는 메모이제이션이 필요
+    * 왜 메모이제이션이 필요한지를 보여주고 컴파일을 통해서 자동 메모이제이션이 가능하게 만들 예정
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4962,7 +4969,10 @@ Javascript
 * [React Native 앱 접근성 지원 시작하기](https://velog.io/@hakokim/React-Native-%EC%95%B1-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A7%80%EC%9B%90-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
   * 뉴스레터 서비스인 뉴닉의 React Native 앱에서 접근성을 개선한 내용을 정리한 글
   * 다크모드를 지원하고 기능을 말로 설명해 주는 보이스오버나 톡백 기능을 구현하고 가로 모드 지원과 폰트 크기를 다양하게 지원할 수 있도록 개선
-* [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
+* [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024/)
+  * Toss에서 실험을 통해서 제품을 개선하는 곳에서는 React Native와 WebView 사용
+  * WebView에 기술적 한계에 비해서 React Native는 로딩속도가 빠르고 배포도 빠르기 때문에 이점이 많아서 점점 많이 사용
+  * 마이크로 프론트엔드 아키텍처로 서비스마다 뷰를 나누었고 ESBuild를 통해 빠른 배포와 로딩을 사용
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
