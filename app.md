@@ -1346,7 +1346,7 @@ App
   * ffmpeg
     * [practice - ffmpeg](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-ffmpeg-md)
     * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
-    * `ffmpeg -n -loglevel error -i <MOV> -vcodec libx264 -crf 28 -preset faster -tune film <mp4>` test에서 11.1MB가 5.2MB로 감소
+    * `ffmpeg -n -loglevel error -i <MOV> -vcodec libx264 -crf 28 -preset [veryslow|slower|faster] -tune [animation|grain|film|stillimage] <mp4>` test에서 11.1MB가 5.2MB로 감소
       * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
     * `ffmpeg -i <.mp4> [-ss 00:00:00 -to 00:11:26] -b:a 320K -vn <.mp3>`
       * [How can I convert MP4 video to MP3 audio with FFmpeg? - Super User](https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg)
@@ -1541,6 +1541,9 @@ App
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [UTM: Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
+  * [Stuck on windows network step · Issue #4177 · utmapp/UTM](https://github.com/utmapp/UTM/issues/4177) network 화면에서 shift + fn + f10 입력하는 부분 진행 실패로 더 테스트하지 못함
+  * [UTM | Virtual machines for Mac](https://mac.getutm.app/)
+  * [애플 실리콘 맥에서 윈도우를 무료로 돌리자! UTM 사용법](https://techtree.tistory.com/98) VHDX로 Mac에 Window 설치
 * Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
