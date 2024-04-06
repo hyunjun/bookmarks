@@ -585,6 +585,7 @@ Python
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [**Iterables vs. Iterators vs. Generators**](https://nvie.com/posts/iterators-vs-generators/) 서로의 관계를 그림과 함께 잘 설명
+* [Python Iterable & Iterator](https://brunch.co.kr/@growthminder/135)
 * [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
 * [🔝Top 29 Useful Python Snippets 🔝 That Save You Time | The Startup](https://medium.com/swlh/top-useful-python-snippets-that-save-time-38958f256822)
 * [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
@@ -1249,6 +1250,7 @@ Python
     * [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
     * [Multithreading in Python | Set 2 (Synchronization)](https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/)
     * [Python 3 - Multithreaded Programming](https://www.tutorialspoint.com/python3/python_multithreading)
+    * [Python Multi-Threading & GIL](https://brunch.co.kr/@growthminder/140)
     * [Running a method as a background process in Python](https://dev.to/hasansajedi/running-a-method-as-a-background-process-in-python-21li)
     * [Using Locks to Prevent Data Races in Threads in Python | by Rachit Tayal | Python Features | Medium](https://medium.com/python-features/using-locks-to-prevent-data-races-in-threads-in-python-b03dfcfbadd6)
     * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
