@@ -2050,6 +2050,7 @@ NLP
       * 마지막 부분은 사전훈련을 위해 팁 공유
 * [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
 * [Testing LLM models on Jetson Xavier NX #ollama #LLM #Jetson #NVIDIA - YouTube](https://www.youtube.com/watch?v=FJ6laH7hq9c)
+* ["인간의 언어/지식을 넘어선 Language Model"에 대한 생각의 묶음](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2269327740074938&hoisted_section_header_type=recently_seen)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2152,6 +2153,7 @@ NLP
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LangChain](https://github.com/langchain-ai) LLM을 사용하여 애플리케이션을 만들기 위한 프레임워크로 설계. 쉽고 간편하게 애플리케이션을 만드는 게 목표
   * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/langchain-ai/langchain)
+  * [<랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 - WikiDocs](https://wikidocs.net/book/14314)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
   * [LangChain 을 알아볼까요?](https://revf.tistory.com/280)
   * [한글자막 LangChain LLM explained GPT-4 interface - YouTube](https://www.youtube.com/watch?v=Mrf49u-QLVQ)
