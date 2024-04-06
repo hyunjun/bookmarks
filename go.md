@@ -448,6 +448,7 @@ Go
   * [Go 제네릭 : NHN Cloud Meetup](https://meetup.toast.com/posts/320)
   * [When To Use Generics - The Go Programming Language](https://go.dev/blog/when-generics)
   * [Generics in Go Explained with Code Examples](https://morioh.com/p/975aa9fffbff)
+  * [Generics! Generics!! Generics!!!. It turns out interface{} is king?? (Go and Generics) | by oyebode amirdeen | Feb, 2024 | Medium](https://medium.com/@oyebodeamirdeen/generics-generics-generics-it-turns-out-interface-is-king-go-and-generics-6a6d4af13788)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
