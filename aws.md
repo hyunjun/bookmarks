@@ -2712,6 +2712,7 @@ AWS
 * [아마존(AWS)에 적응하는 나만의 방법. 현업에서 개발자로서 시작한게 20년 쯤 이였습니다. 당시 작은… | by 강은호 | 월요일 오후 9시 | Mar, 2023 | Medium](https://medium.com/monday-9-pm/%EC%95%84%EB%A7%88%EC%A1%B4-aws-%EC%97%90-%EC%A0%81%EC%9D%91%ED%95%98%EB%8A%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B0%A9%EB%B2%95-dc90344477cd)
 * [How I Would Learn AWS Today (after 10 years of cloud experience) - YouTube](https://www.youtube.com/watch?v=LTH9m4HkeYY)
 * [Amazon Web Services(AWS)에 대한 실습 자습서](https://aws.amazon.com/ko/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-content-type=*all)
+* [AWS Cloud - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
 
 # VPC
