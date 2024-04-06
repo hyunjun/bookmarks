@@ -210,6 +210,7 @@ C++
   * 기본은 3의 법칙으로 소멸자, 복사 생성자, 복사 할당 연산자 중 하나라도 선언했다면 나머지도 모두 선언해야 한다는 내용
   * 5의 법칙은 여기에 이동 생성자와 이동 할당 연산자 추가
   * 0의 법칙은 이들이 필요하지 않도록 설계한다는 내용
+* [perfect forwarding을 perfect하게 이해하기](https://jabdon4ny.tistory.com/119)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
