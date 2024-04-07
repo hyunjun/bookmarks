@@ -1508,6 +1508,7 @@ Javascript
   * Global tokens are primitive values (static values like color HEX code, font size, spacing, etc.). They can either be directly used or referenced by other token types (alias or component-specific tokens)
   * Alias tokens are context-specific and reference global tokens. Each alias token has a specific intent of use (i.e., the background color of a button)
   * Component-specific tokens represent unique and specific design decisions associated with a particular component
+* [제품이 커지면 디자인 시스템 가이드는 어떻게 개선돼야 할까?](https://toss.tech/article/toss-design-system-guide)
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
@@ -3724,6 +3725,7 @@ Javascript
       * 영상에서 실제 Express.js 저장소를 사용했기 때문에 사람들이 따라 하면서 express 저장소에 PR을 등록, 메인테이너는 이 스팸에 대응하느라 고생
     * 사람들은 오픈소스에 기여하는 것을 취업의 방법이 되었고 그로 인해서 오픈소스 생태계가 무너지고 있다며
       * 대부분의 사람은 오픈소스에 기여하지 말라는 말까지 나오는 상황
+  * [How to Implement Rate Limiting in Express for Node.js | AppSignal Blog](https://blog.appsignal.com/2024/04/03/how-to-implement-rate-limiting-in-express-for-nodejs.html)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
