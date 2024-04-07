@@ -1944,6 +1944,7 @@ Web
   * [ECS+Locust로 부하 테스트 진행하기](https://www.slideshare.net/YungonPark/ecslocust-232571377)
   * [Episode 4 — Testing your Python/Django app’s performance | by Francisco Betancourt | Dec, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-4-testing-your-python-django-apps-performance-4661f5e78f85)
   * [Locust 성능 테스트 도구 소개 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/locust-part-1/)
+  * [Locust 성능 테스트 도구 소개 Part 2 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/locust-part-2/)
   * [locust-k8s: Locust on k8s example for scalable load tests](https://github.com/Curt-Park/locust-k8s)
 * [MeasureThat.net](https://measurethat.net/)
   * [소스코드의 퍼포먼스를 벤치마킹하는 방법 | Univdev](https://www.univdev.page/posts/benchmark-your-code/)
