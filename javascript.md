@@ -1150,6 +1150,100 @@ Javascript
 * [What are micro tasks and macro tasks in the event loop? | by Ajit Fawade | Globant | Aug, 2022 | Medium](https://medium.com/globant/what-are-micro-tasks-and-macro-tasks-in-the-event-loop-29bc0abdd445)
 * [Node.js asynchronous flow control and event loop](https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop)
   * [번역 Node.js 비동기 흐름 제어 및 이벤트 루프](https://velog.io/@surim014/nodejs-asynchronous-flow-control-and-event-loop)
+* [Adventures with the JavaScript Event Loop • Erin Zimmer • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=pQH321TEnVw)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21978)
+    * 이벤트 루프와 웹 API 소개
+      * 이벤트 루프의 기본 개념과 웹 브라우저 내부 구조 설명
+      * 자바스크립트 엔진 외에 네트워크 요청, 타이머, 디스크 읽기/쓰기 등을 처리하는 다양한 웹 api 존재
+      * 이러한 웹 api들과 자바스크립트 엔진 사이를 조율하는 것이 바로 이벤트 루프의 역할
+    * 렌더링 파이프라인과 태스크 큐
+      * 이벤트 루프가 태스크 큐와 함께 작동하는 방식과 렌더링 파이프라인의 역할을 설명
+      * 화면에 표시되는 모든 것을 담당하는 렌더링 파이프라인은 태스크가 처리된 후 실행 가능
+      * 긴 실행 시간을 가진 태스크는 페이지의 성능 저하를 일으킬 수 있으므로 작은 단위로 분할하거나 웹 워커를 사용하는 것이 좋다고 조언
+    * 웹 워커와 멀티 스레딩
+      * 웹 워커가 메인 스크립트와 독립적으로 실행되어 성능 저하 없이 복잡한 연산을 처리할 수 있음을 설명
+      * 각각의 웹 워커는 자체적인 이벤트 루프를 가지며 메인 스크립트와 데이터를 공유하지 않아 서로 영향을 주지 않음
+      * 다른 탭 간에도 독립적인 프로세스와 이벤트 루프가 있어 성능 상의 격리가 가능
+    * 이벤트 루프와 태스크 큐의 이해
+      * 이벤트 루프는 하나 이상의 태스크 큐 소유 가능
+      * 사용자 입력과 기타 모든 작업은 각각 다른 큐에 할당되어 처리 우선순위 결정
+      * 태스크는 도착한 순서대로 실행되며, 같은 출처의 태스크는 같은 큐 추가
+    * 마이크로태스크와 그 영향력
+      * 마이크로태스크는 일반 태스크 사이에 실행될 수 있는 작업으로, 프라미스 콜백 등을 포함
+      * 마이크로태스크 큐는 모든 일반 태스크가 완료된 후, 렌더링 파이프라인 전에 처리
+      * 마이크로태스크의 연속적 생성은 렌더링 파이프라인의 실행을 방해 가능
+    * 애니메이션 프레임 콜백과 최적화
+      * 애니메이션 프레임 콜백은 특별한 큐에서 관리, 렌더링 파이프라인 직전에 실행
+      * `requestanimationframe`을 사용하면 필요한 계산만큼만 실행하여 성능을 최적화 가능
+      * 애니메이션 구현 시 `settimeout` 대신 `requestanimationframe`을 사용하는 것이 효율적
+    * Node.js의 이벤트 루프와 차별점
+      * Node.js의 이벤트 루프는 브라우저와 유사하지만 dom과 렌더링 파이프라인 없는 간소화된 구조
+      * Node.js에서는 libuv를 통해 비동기 작업을 관리하며, 특정 조건에서 자동으로 프로세스가 종료
+      * `setimmediate`, `process.nexttick` 등 node.js 고유의 api를 통해 마이크로태스크 큐에 접근 가능
+  * [자바스크립트 이벤트 루프를 이용한 모험 - 에린 짐머 - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/471921?sId=pQH321TEnVw)
+    * 1.️️ 프론트엔드 개발자 Erin Zimmer 소개와 이벤트 루프에 대한 설명
+      * 이벤트 루프 설명 전, 브라우저 내의 다양한 부분과 웹 API, JavaScript 엔진의 역할 등을 자세히 설명하며 이벤트 루프의 기본 동작 소개
+      * 이벤트 루프는 웹 API와 JavaScript 엔진 간의 조율을 담당하며 각 반복마다 task queue에서 작업을 꺼내 실행하는 무한 루프로 구성
+      * 자세한 설명을 통해 무한 루프의 구조와 작업 큐, 작업이 어떻게 작업 큐에 들어가는지에 대해 설명
+    * 2. JavaScript 작업 및 이벤트 루프 동작 방식
+      * 자바스크립트 작업은 특정 컨텍스트에서 실행되는 *작은 자바스크립트 코드*
+      * 작업은 작업 대기열에 추가된 후 *이벤트 루프*에 의해 실행되며 작업에는 중단이 없고 예외 발생 시 완료
+      * 자바스크립트는 *싱글 스레드*이며, 브라우저에 있는 모든 자바스크립트는 *DOM과 상호작용*하기 때문에 *잠금 메커니즘* 필요
+      * 브라우저는 여러 스레드가 있어 *비동기 프로그래밍*이 가능하며, *Web API*와 함께 수행되는 작업은 *시간 지연 후에 실행*
+    * 3. 자바스크립트 엔진과 웹 API사이의 상호작용 설명
+      * 자바스크립트 엔진은 현재 작업 중인 동안 타임아웃이 3초간 실행되도록 설정
+      * 웹 API는 3초 동안 기다린 후에 콜백 함수를 실행하도록 자바스크립트 엔진에 요청
+      * 엔진은 기존 작업을 마친 후에야 콜백 함수를 실행하여 모든 것이 잘 작동하게 함
+      * 이벤트 루프는 브라우저의 다중 스레드 구조를 자바스크립트 엔진의 단일 스레드 구조로 연결해주는 역할
+    * 4. 렌더링 파이프 라인과 작업 큐 협조하여 화면 처리
+      * 렌더링 파이프라인은 화면 표시 책임, DOM 업데이트 및 CSS 변경할 때 레이아웃 재배치 역할
+      * 렌더링 파이프라인이 이루어지게 되면 태스크 큐가 실행. 브라우저는 계산 많은 레이아웃 계산 불필요하다 인식
+      * 화면 갱신 주기 확인 후 렌더링 파이프라인 실행, 긴 작업 분할하여 실행시 페이지 오류 방지 가능
+      * 웹 워커 사용 가장 적합하며, 이벤트 루프 각 작업이 별도로 처리되기에 렌더링에 영향 없음
+    * 5. 웹 워커와 브라우저의 스레딩 모델
+      * 웹 워커는 DOM을 건드리지 않고 별도 스레드에서 동작, 브라우저는 여러 스레드 활용
+      * 크롬은 각 탭을 별도 프로세스에서 실행하여 성능 영향을 고립시키지만 파이어폭스는 탭을 공유해 성능 영향을 받을 수 있음
+      * IFrame이나 Child Window는 동일 이벤트 루프를 공유하여 렌더링을 차단 가능
+      * 스레딩 모델은 브라우저마다 상이하며, 데이터 공유와 성능 영향을 고려하여 설계
+    * 6. 자식 창에서 부모 창의 배경색 제어하기
+      * 데이터 구조를 공유하여 DOM에 접근 가능한 만큼, 자식 창에서 부모 창의 배경색을 조절 가능
+      * 보안 문제는 제어할 수 없는 색이 아니라, 동일 출처정책에 의해 보호
+      * 이전에 보안 위험이 있었지만 현재 대부분의 브라우저에서 이 취약성을 패치
+      * 자식 창은 부모 창과 동일한 이벤트 루프에서 실행되어 성능 문제가 발생할 수 있지만, rel=noopener 속성 추가로 문제 해결 가능
+      * 자식 창이 실행되는 이벤트 루프의 반복문은 여전히 무한하지만, 간단한 문제는 아님
+    * 7. 이벤트 루프와 마이크로태스크 큐 설명
+      * 이벤트 루프에는 여러 작업 큐가 있으며, 이론적인 브라우저의 작업 큐 예시를 다룬 것으로, 사용자 입력을 우선으로 처리
+      * 마이크로태스크 큐는 작업 간에 발생할 수 있는 작업들로, 변이 감시자 또는 프로미스를 통해 생성되며 렌더링 파이프라인보다 높은 우선순위
+      * 마이크로태스크 큐에 있는 작업은 특정 조건에서 실행되며, 실행되는 순서는 도착한 순서대로이며 동일한 출처의 작업은 동일한 큐에 가야 함
+      * 마이크로태스크 큐에 대한 이해가 중요하며 이는 무한 반복되는 이벤트 루프에서 중요한 역할. 다양한 방법으로 마이크로태스크를 생성 가능
+    * 8.️ 태스크와 마이크로태스크의 비교
+      * 태스크: 버튼 클릭할 때마다 시작 함수가 호출되어 페이지의 요소를 찾고, 요소의 inner HTML을 실행된 태스크 수로 설정한 후 태스크 수를 증가
+        * setTimeout을 사용하여 새로운 태스크를 생성하는 무한 루프 생성
+      * 마이크로태스크: 버튼을 클릭하면 함수가 호출되어 페이지의 요소를 찾고, 마이크로태스크 수를 inner HTML로 설정하고 카운터를 증가
+        * Promise.resolve()를 사용하여 새 마이크로태스크를 생성
+      * 태스크는 렌더링 파이프라인이 실행될 기회를 제공하여 페이지와 상호 작용 가능
+        * 마이크로태스크는 더 많은 우선순위를 가져 버튼을 클릭한 후 바로 모든 작업이 버튼으로 이동
+      * 결론적으로 마이크로태스크는 우선순위가 높아 즉시 실행되므로 페이지를 더 빨리 업데이트하지만 사용자 상호 작용을 제한 가능
+    * 9.️ 무한 루프에 대한 경고와 렌더링 파이프라인에 대한 이해
+      * 마이크로태스크를 계속 생성하면 *렌더링 파이프라인이 실행되지 못 하고* 브라우저에서 일어나는 일이 멈추게 됨
+      * 마이크로태스크로 무한 루프를 만들지 않고, 렌더링 파이프라인 실행에 영향을 미칠 수 있다는 것을 인식 필요
+      * 이벤트루프는 여전히 *무한 루프로 작동*, 각 반복마다 큐를 선택, 큐의 첫 번째 작업을 실행, 이어서 마이크로태스크 큐에 작업이 있는 한 계속 실행
+      * 또한, `requestAnimationFrame`을 호출하고 콜백을 전달하여 애니메이션 큐에 항목을 추가 가능, 이것이 어떻게 동작하는지 이해하는 것이 중요
+    * 10.️ 애니메이션 코드 최적화 및 requestAnimationFrame 활용
+      * 처음 시도한 코드는 while 루프를 사용하여 상자의 오른쪽이나 왼쪽이 화면 오른쪽에 닿을 때까지 반복 계산 후, 상자가 튀어나오는 현상 발생
+      * 이 문제를 해결하기 위해 requestAnimationFrame을 사용하여, 계산 프로세스가 화면 렌더링과 병행되어 부드러운 애니메이션 가능
+      * setTimeout을 통한 애니메이션은 불필요한 계산이 많고 렌더링 지연 가능. requestAnimationFrame은 더 효율적이며 렌더링 프로세스에 최적화
+      * requestAnimationFrame을 사용하면 애니메이션에 필요한 계산 양 감소, 각 프레임 사이의 부드러운 전환 보장, 더 나은 애니메이션 효과 획득 가능
+    * 11. Node와 브라우저의 이벤트 루프 비교
+      * Node 이벤트 루프는 브라우저 이벤트 루프와 유사하지만 더 간단, DOM이 없으므로 렌더링과 유저 상호작용에 제약 존재
+      * Node의 Event Loop는 태스크가 끝나면 프로세스가 종료되는 반면, 브라우저의 Event Loop는 무한 반복되는 것과 다름
+      * Node의 큐는 이벤트 콜백 큐, 체크 큐, 타이머 큐로 구성되며, 페이즈를 거친다. setImmediate와 process.nextTick으로 큐에 요소를 추가 가능
+      * Promise 큐와 다음 틱 큐를 통해 마이크로태스크를 처리하기도 하며, setImmediate와 process.nextTick이라는 새로운 개념을 도입
+    * 12.️ 웹 퍼포먼스 개선을 위한 JavaScript 관련 유의사항
+      * 렌더링 차단은 피해야 하며, 장시간 실행되는 작업은 웹 워커를 활용 필요
+      * 새 창을 여는 경우 rel=noopener를 사용하는 것이 좋으며, 마이크로태스크는 태스크보다 먼저 실행되어 렌더링에 영향 가능
+      * 애니메이션을 만들 때는 requestAnimationFrame을 사용 필요
+        * JavaScript 코드를 볼 때 '이게 뭔 용도지?'라는 의문이 생기면 과거 개발자가 왜 그렇게 했는지, 작동 방식 등 이해, 피할 수 있는 방법 찾아야 함
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
@@ -4340,6 +4434,7 @@ Javascript
 * [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
 * [Build a Facebook Clone with React and Firebase](https://morioh.com/p/9fe6b56e50f5)
+* [📍Build a full-stack movie app with ReactJS and Firebase - YouTube](https://www.youtube.com/watch?v=11uZmiBY8ug)
 * [How To Build A Facebook Clone Using React JS? | React JS Projects for Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=movArJHov-A)
 * [Javascript(React)로 이미지 파일 용량 줄이기](https://www.popit.kr/react-%EC%9B%B9%EC%97%90%EC%84%9C-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
 * [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)
