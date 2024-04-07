@@ -1862,6 +1862,8 @@ Scala
   * [Update your Scala dependencies (both libraries and plugins) interactively with one command! - YouTube](https://www.youtube.com/watch?v=uVGLh7x4QWg)
     * [homebrew-tap/scala-update.rb at main · kitlangton/homebrew-tap](https://github.com/kitlangton/homebrew-tap/blob/main/Formula/scala-update.rb)
 * [Scorex - Ultra-compact cryptocurrency engine for hacking around within just 4K lines of Scala code](https://github.com/ConsensusResearch/Scorex-Lagonaki)
+* [Shardcake](https://devsisters.github.io/shardcake/)
+  * [Supporting high-performance response streaming in Shardcake](https://blog.pierre-ricadat.com/supporting-high-performance-response-streaming-in-shardcake)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
   * [Shapeless : not a tutorial - part 1](http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html)
   * [Shapeless : not a tutorial - part 2](http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html)
