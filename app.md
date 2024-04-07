@@ -2115,6 +2115,7 @@ App
 * [Yorkie](https://yorkie.dev/)
   * [Yorkie Team](https://github.com/yorkie-team)
   * [개발자, 2023 기술회고를 하다](https://velog.io/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-2023-%EA%B8%B0%EC%88%A0%ED%9A%8C%EA%B3%A0)
+  * [네이버 Yorkie TF 인턴 생존기 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/03/30/naver-intern-review/)
 * zettelkasten
   * [궁극의 노트 재활용 앱 - 창업 멤버 찾습니다!](https://tkim.oopy.io/)
   * [제텔카스텐: 창의적인 아이디어를 만드는 노트법 – 왜 디지털이 아닌 종이가 더 효과적일까 (1) | 10x Lessons](https://tkim.co/2022/06/16/original-zettelkasten/)
