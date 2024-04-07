@@ -4525,6 +4525,7 @@ Programming
   * 발견되기 어렵게 하기 위한 많은 시도가 눈에 보이고 백도어로 인해 생긴 버그를 해결하는 과정에서도 이를 숨기려고 했던 노력이 드러남
   * 이 문제는 기존의 공급자 공격과는 다른 형태로 이뤄졌다는 면에서 오픈소스 생태계에 큰 충격
   * 이번엔 운좋게 많은 시스템에 심어지기 전에 발견되어 영향은 크지 않은 것으로 보이지만 서버가 해당 백도어가 실행될 조건에 있지 않은지 확인 필요
+* [XZ Utils 백도어 사건으로 돌아보는 오픈소스 생태계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1714)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
