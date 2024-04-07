@@ -32,6 +32,7 @@ Json
 * [json: JSON for Modern C++](https://github.com/nlohmann/json)
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
+* [scj3: experimental parallel json parser, scj3 (claujson)](https://github.com/vztpv/scj3)
 * [simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
   * [Parsing JSON faster with Intel AVX-512 – Daniel Lemire's blog](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 
