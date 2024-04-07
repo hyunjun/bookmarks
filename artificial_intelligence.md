@@ -498,6 +498,7 @@ Artificial Intelligence
   * 요약
     * 코히어의 최신 임베딩 모델과 Vespa의 바이너리 및 int8 벡터 지원이 결합되어 계층적 저장 및 계산을 통해 비용을 최소화 가능
     * 임베딩 API의 유연성과 Vespa의 기능을 통해 대규모 데이터 세트에서 RAG 파이프라인을 향상시키고 비용 절감 가능
+* [Vector embeddings at the center of your data stack/ Daniel Svonava (Superlinked) - YouTube](https://www.youtube.com/watch?v=tqSkfRbGzpk)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
