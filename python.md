@@ -5207,6 +5207,7 @@ Python
   * [Polars vs Pandas - what's the difference? — Cheuk Ting Ho - YouTube](https://www.youtube.com/watch?v=YUMhGp1ryUY)
   * [Introduction to Polars - Practical Business Python](https://pbpython.com/polars-intro.html)
   * [polarIFy: Automatically Transform Complex Python Methods to Polars Expressions - Bela Stoyan - YouTube](https://www.youtube.com/watch?v=G7TuIzKnd-c)
+  * [Polars is the Pandas killer / Igor Mintz (Viz.ai) - YouTube](https://www.youtube.com/watch?v=sepiszMSvBs)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
