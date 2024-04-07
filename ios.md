@@ -180,6 +180,7 @@ iOS
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 * [Meet the Screen Time API (WWDC21) :: iOYES](https://green1229.tistory.com/456)
 * [What's new in Screen Time API (WWDC 22) :: iOYES](https://green1229.tistory.com/457)
+* [로컬 개발환경에 아이폰으로 HTTPS 접속하기 – 형우의 웹개발](https://mytory.net/archives/16218)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -691,6 +692,7 @@ iOS
   * ["어머나, 내 앱이 성공했는데 접근성을 고려하지 않았네" | GeekNews](https://news.hada.io/topic?id=13897)
 * [SwiftUI - compositingGroup :: iOYES](https://green1229.tistory.com/460)
 * [SwiftUI - blendMode :: iOYES](https://green1229.tistory.com/461)
+* [SwiftUI - ShareLink :: iOYES](https://green1229.tistory.com/462)
 * [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
