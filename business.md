@@ -1591,6 +1591,7 @@ Business
       * 따라서, 권유나 규칙을 강요하는 구성원들의 희생과 함께 성장하는 경영하는 것이 아닌, 심리적으로 안전한 조직문화의 중요성 강조
       * 중요한 것은 리더십의 변화이며, 조직문화에 대한 변화는 이와 관련된 문제를 할 수 있는 기관으로 실질적인 제도적인 지원이 필요
 * [스타트업에서 심리적 안정감이 중요한 이유(feat. 애자일)](https://eopla.net/magazines/13403)
+* [나의 실패 / 성공 경험, 동료에게는 무엇이 도움이 될까?. 딜라이트룸이 단단한 성장력을 가지고 있는 것은 구성원들이 강한 생존력과… | by Joon Won Lee | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EB%82%98%EC%9D%98-%EC%8B%A4%ED%8C%A8-%EC%84%B1%EA%B3%B5-%EA%B2%BD%ED%97%98-%EB%8F%99%EB%A3%8C%EC%97%90%EA%B2%8C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0%EA%B9%8C-9ff2a9b65181) 심리적 안정감
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
