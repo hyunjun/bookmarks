@@ -165,6 +165,7 @@ Flutter
 * [여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 | 요즘IT](https://yozm.wishket.com/magazine/detail/1525/)
 * [Flutter로 UI를 구현하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1566/)
 * [Flutter UI Challenges : 시작 | by Cody Yun | Apr, 2024 | Medium](https://medium.com/@cody.yun/flutter-flutter-ui-challenges-%EC%8B%9C%EC%9E%91-630010d4f680)
+* [Flutter UI Challenges : Interactive Page Flip | by Cody Yun | Apr, 2024 | Medium](https://medium.com/@cody.yun/flutter-flutter-ui-challenges-interactive-page-flip-fc17b16a2b7b)
 * [오늘학교에 입학한 Flutter 주니어 개발자의 6개월. 안녕하세요 아테나스랩 클라이언트 챕터 Lego👾입니다. | by 아테나스랩 | 아테나스랩 팀블로그 | Jul, 2022 | Medium](https://medium.com/athenaslab/%EC%98%A4%EB%8A%98%ED%95%99%EA%B5%90%EC%97%90-%EC%9E%85%ED%95%99%ED%95%9C-flutter-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-6%EA%B0%9C%EC%9B%94-14c1fd25f992)
 * [왜 플러터는 쓰레기인가? 리액트네이티브 vs 플러터 - YouTube](https://www.youtube.com/watch?v=qxyiCG-oSsk)
 * [Node js And Flutter: Build RestApi ,MongoDB(PART 1) - YouTube](https://www.youtube.com/watch?v=yAdwZnRCsao)
