@@ -168,6 +168,8 @@ Java
 * [Java APM에 대하여 : 네이버 블로그](https://blog.naver.com/tmondev/222856816055)
 * [Using Java to Orchestrate Robot Swarms](https://www.infoq.com/articles/java-robot-swarms/) Ocado 오카도
 * [주니어 개발자의 우여곡절 소셜로그인 도입 과정 – tech.kakao.com](https://tech.kakao.com/2023/01/19/social-login/)
+* [**Evolution of Java Usage at Netflix - ByteByteGo Newsletter**](https://blog.bytebytego.com/p/evolution-of-java-usage-at-netflix)
+  * [**Netflix의 Java 사용 변천사 (번역)**](https://www.integer.blog/evolution-of-java-usage-at-netflix/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -2570,6 +2572,7 @@ Java
   * [프로젝트 리액터 고급 활용 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B3%A0%EA%B8%89-%ED%99%9C%EC%9A%A9)
   * [무지성 flatMap은 그만, Reactor operator 파헤치기](https://d2.naver.com/helloworld/3158221)
   * [Java Reactor onErrorContinue 이모저모 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/374)
+  * [Reactor zip vs zipWith vs zipWhen](https://yeonyeon.tistory.com/327)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
   * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
