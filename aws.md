@@ -1455,6 +1455,7 @@ AWS
 * [Apache Spark용 AWS Glue 4.0 자세히 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/dive-deep-into-aws-glue-4-0-for-apache-spark/)
 * [AWS Glue Job 리소스 사용량에 대한 알람 및 리포팅 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automate-alerting-and-reporting-for-aws-glue-job-resource-usage/)
 * [AWS Glue와 Amazon Athena를 활용한 MongoDB 데이터 분석 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/comparing-mongodb-data-analysis-methods-using-aws-glue-and-amazon-athena/)
+* [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
