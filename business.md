@@ -2641,6 +2641,7 @@ Business
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
+* [‘좋은 문제’ 정의하는 꿀팁 🍯. 사례로 살펴보는 나쁜 문제 정의 vs 좋은 문제 정의 | by Lewin.Parker | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%A0%9C-%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94-%EA%BF%80%ED%8C%81-dc6e860abf8b)
 * [You Are Solving The Wrong Problem - AzarAsk](https://www.azarask.in/blog/post/the-wrong-problem/)
   * [번역 당신은 엉뚱한 문제를 풀고 있다. :: neozest : neo+zest](https://www.neozest.com/entry/TheWrongProblemTranslation)
 * [User Adoption as Proxy for Business Benefit Realization • Troels Fleckenstein • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=DdxDoODU5U8)
