@@ -970,6 +970,46 @@ Data Science
 * [거기 말고 이 호텔 어때? - 호텔 서비스 추천 시스템 도입기](https://d2.naver.com/helloworld/2184045)
 * [Tech Radio : 호텔 추천 서비스(FOR YOU) 편](https://d2.naver.com/news/0978469)
 * [개인화 추천 시스템 #1. Multi-Stage Recommender System - 오늘의집 블로그](https://www.bucketplace.com/post/2024-03-26-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-1-multi-stage-recommender-system/)
+* [클릭률 그리고 추천 시스템, 기술과 가치의 조화 - 모두의연구소](https://modulabs.co.kr/blog/click-through-rate-recommendation/) differential privacy, federated learning
+  * [연합 학습을 이용한 LINE 스티커 추천 -한국어판- - YouTube](https://www.youtube.com/watch?v=v-VwByrji0c)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22460)
+      * 프레드 러닝 소개 및 기본 개념 설명
+        * 라인의 키쿠치가 프레드 러닝 기술 도입에 대해 소개
+        * 프레드 러닝이란 서버와 클라이언트가 협력하여 학습하는 기술
+        * 서버 중심, 온 디바이스, 페더레이티드 러닝의 세 가지 주요 패턴 설명
+      * 라인 스티커 추천 시스템 도입
+        * 라인에서는 사용자 입력에 따라 적절한 스티커를 추천하는 기능 도입
+        * 사용자가 아리가또와 같은 키워드를 입력하면 관련 스티커 추천
+        * 이 기능은 다양한 언어로 태그된 수많은 스티커 중에서 선택 도움
+      * 머신러닝을 활용한 스티커 추천 과정 상세 설명
+        * 서버사이드에서 후보 스티커를 유저별로 추천하고 클라이언트는 리랭킹 처리
+        * 유저와 아이템의 인베딩 벡터를 생성하여 유사도에 따른 추천 리스트 작성
+        * 이 과정은 사용자의 다양한 입력에 대응하여 여러 추천 리스트를 생성 가능
+      * 머신러닝 모델과 인퍼런스 처리
+        * 서버에서 처리된 유저와 아이템의 임베딩이 머신러닝 모델의 입력으로 사용
+        * 이 모델을 통해 유저에게 적합한 아이템을 스코어로 평가하여 후보 스티커 선정
+        * 인퍼런스는 유저의 텍스트 입력에 따라 스티커를 제안하고, 학습은 축적된 데이터를 바탕으로 진행
+      * 시스템 구성과 프라이버시 보호
+        * 시스템은 크게 캔디데이트 제네레이션과 리랭킹 단계로 나뉘며, 서버와 클라이언트에서 각각 처리
+        * 패더레이티드 러닝을 통해 대부분의 학습 처리가 클라이언트 쪽에서 이루어지며, 모델 통합은 서버에서 진행
+        * 프라이버시 보호 기술인 차등 정보 보호가 적용되어 개인 정보 보호 강화
+      * 성능 향상과 AB 테스트 결과
+        * 머신러닝 도입으로 스티커 패키지 다운로드 수가 5.6% 향상되었다는 ab 테스트 결과 발표
+        * 이는 사용자 경험 개선에 기여하며, 패더레이티드 러닝을 통한 개인화 추천의 성공 사례
+        * 차등 정보 보호 기술을 적용하여 사용자 개인정보 보호도 동시에 달성
+      * 스티커 추천 시스템의 개선과 협력
+        * 스티커 추천을 위해 다운로드한 동작 분석
+        * 머신러닝을 통한 개선 가능성을 탐색
+        * 도쿄, 후쿠오카, 한국의 거점이 협력하여 다국어 지원 시스템을 개발
+      * 서비스 확장과 개인정보 보호 기술 적용
+        * 스티커 사용자를 대상으로 서비스 확장 목표를 설정
+        * 개인정보 보호 기술의 정확한 적용과 운영을 목표
+        * Ldp와 셔플링 기술 도입으로 개인정보 보호 강화 추구
+      * Federated Learning 도입 계기와 발전 전망
+        * Federated learning 도입 계기와 그에 따른 기대 효과를 설명
+        * 프로젝트 참여 멤버 모집의 어려움과 해결 방안을 공유
+        * 비동기적 시스템 운영과 모델 갱신 빈도에 대해 설명
+    * [note_04월10일10시34분{{lilys_init}} | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/482966?sId=v-VwByrji0c)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
