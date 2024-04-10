@@ -7306,6 +7306,57 @@ Programming
 * [토스ㅣSLASH 21 - 테스트 커버리지 100% - YouTube](https://www.youtube.com/watch?v=jdlBu2vFv58&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=8)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
 * [What is Contract Testing & How is it Used? | Pactflow](https://pactflow.io/blog/what-is-contract-testing/)
+  * [Introduction to contract testing - Part 1 The problem with end-to-end integrated tests - YouTube](https://www.youtube.com/watch?v=U05q0zJsKsU)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22469)
+      * 분산 시스템에서의 통합 테스트
+        * 분산 시스템에서 통합 테스트는 다양한 구성 요소가 함께 잘 작동하는지 검증하는 과정
+        * 가장 일반적인 접근 방식은 모든 구성 요소를 실제 생산 환경과 유사한 단일 환경에 배포한 후 여러 테스트를 실행하는 것
+      * 통합 테스트의 단점과 문제점
+        * 이러한 접근 방식의 단점은 속도가 느리고, 병렬로 실행할 수 없으며, 종종 예기치 않게 실패
+        * 잘못된 데이터나 소프트웨어 버전, 환경 설정 등 다양한 이유로 인해 실패 가능
+      * 릴리즈 파이프라인과 산업 상태
+        * 산업계는 ci 빌드와 ci 테스트 단계에서는 비교적 좋은 프로세스를 가지고 있지만, 통합 테스트 단계에서 많은 어려움 경험
+        * 전용 환경 필요, 별도의 팀이 필요하며 여러 팀 간의 조정이 필수
+  * [Introduction to contract testing - Part 2 Contract testing and how Pact works - YouTube](https://www.youtube.com/watch?v=IetyhDr48RI)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22474)
+      * API 계약과 소비자 주도 계약의 이해
+        * Api 계약에 대한 설명으로, 스펙을 먼저 설계하는 방식과 그 한계점을 소개
+        * 소비자 주도 계약의 개념을 도입하여 api 변경 시 발생할 수 있는 문제를 해결하는 방법을 제시
+      * 계약 테스트와 Pact 도구의 소개
+        * 계약 테스트가 종단 간 통합 테스트의 대안으로서, 각 통합 지점을 별도로 검사하는 방식임을 설명
+        * Pact는 오픈소스 소비자 주도 계약 테스팅 도구로서, 마이크로서비스나 분산 시스템을 빠르고 안전하게 테스트할 수 있게
+      * Pact 작동 원리와 HTTP 및 비동기 메시지 처리
+        * Http를 사용한 커뮤니케이션에서 pact가 어떻게 작동하는지, 그리고 비동기 메시지(예 kafka) 처리 방식에 대해 설명
+        * 실제 제공자와 소비자를 직접 연결하지 않고 모의 객체를 사용하여 각각을 독립적으로 테스트하는 과정을 자세히 다룸
+  * [Introduction to contract testing - Part 3 Demo - Contract testing with Pact JS - YouTube](https://www.youtube.com/watch?v=6Qd-kq1AzZI)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22475)
+      * 리액트 제품 카탈로그 프론트엔드와 익스프레스.js 백엔드 연동
+        * 리액트로 만든 제품 카탈로그 프론트엔드가 익스프레스.js 백엔드 api와 통신
+        * 소비자와 공급자의 워크플로우를 보여주며, cannodeploy를 사용하여 릴리즈를 관리하는 방법을 설명
+        * 변경사항이 발생할 경우 pact를 사용하여 이를 감지하는 방법을 소개
+      * 응용 프로그램 소개 및 API 호출 테스트
+        * 제공된 응용 프로그램은 세 개의 제품 목록 페이지로 구성되어 있으며, api 호출을 통해 개별 제품 페이지 정보를 가져옴
+        * Api 호출이 중단될 경우 sad panda 오류 페이지가 표시된다는 것을 확인
+        * React 웹사이트와 api 클라이언트 클래스의 작동 방식을 살펴보며, axios http 클라이언트 사용, 외부 api 호출을 담당 코드 테스트
+      * Pact를 이용한 컨슈머 테스트 및 계약 검증
+        * Pact 컨슈머 테스트를 사용하여 get product 메소드의 동작을 검증하고 모의 응답 설정 방법을 설명
+        * Pact 브로커에 계약을 게시하고 ci/cd 파이프라인을 통해 배포 준비 상태를 확인하는 과정
+        * Can i deploy 도구를 사용하여 실제 배포 가능 여부를 판단하며, 초기에는 api가 계약을 검증하지 않아 배포 중단
+      * 백워드 호환성 문제 해결과 Pact의 추가 기능 탐색
+        * 제공자 코드베이스에서 버전 속성 삭제 시 pact가 어떻게 반응하는지 확인, 이러한 변경사항이 소비자에게 영향을 주지 않음 확인
+        * 이름 속성 삭제 시에는 바로 문제가 발생함으로써 해당 변경사항이 소비자에게 영향을 줄 수 있음을 신속하게 파악 가능
+        * Pact는 개발 초기 단계에서부터 백워드 호환성 문제를 식별할 수 있는 유용한 도구
+  * [Introduction to contract testing - Part 4 How do I remove end-to-end tests? - YouTube](https://www.youtube.com/watch?v=3T8J8Pwu3I4)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22476)
+      * 테스트 전략에서 PACT의 위치
+        * Pact가 테스트 전략에서 어떻게 적용되는지, 종합적인 통합 테스트를 완전히 대체하지 않는다면 어떻게 해야 하는지에 대한 질문에 답
+        * 테스트 피라미드를 시작점으로, 다양한 유형의 테스트에 시간과 노력을 어떻게 배분해야 하는지 이해하는 데 도움이 되는 지침 제공
+      * 테스트 피라미드 재조정
+        * 종합적인 통합 테스트에 과도하게 시간을 소비하는 경향이 있으며, 이는 매우 비용이 많이 드는 작업
+        * 계약 테스트와 기능적 인터그레이션 테스트 범위를 늘려서 종합적인 통합 테스트의 부담 경감 가능
+      * 생산 환경에서의 지속적인 비즈니스 시나리오 검증
+        * 종합적인 종단 간(end to end) 테스트 줄이고 생산 환경에서 카나리아 및 연기 검사와 같은 방법으로 대체해 신속한 문제 해결 회복 가능
+        * 생산 환경에서 실시간으로 비즈니스 시나리오를 지속적으로 검증함으로써 더 안정적이고 유용한 종단 간(end to end) 검사 수행 가능
 * [테스트가 뭐예요?](https://www.slideshare.net/perhapsspy/ss-232479689)
 * [번역 Self-Testing Code(자체 테스트 코드)- Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-self-testing-code-%EC%9E%90%EC%B2%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-martin-fowler-2d81c1437ac)
 * [Azar Mirror 서버 제작기 1편 - 인프라 개선을 두렵지 않게 하는 테스트 환경 만들기](https://hyperconnect.github.io/2020/05/15/azar-mirror-1.html)
