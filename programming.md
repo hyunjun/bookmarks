@@ -143,6 +143,9 @@ Programming
 * [소프트웨어 ‘설계’의 정의는 변해야 한다 | 요즘IT](https://yozm.wishket.com/magazine/detail/2307/)
 * [소프트웨어 설계 프로세스를 만들기 위한 아기 발걸음](https://brunch.co.kr/@graypool/1501) 지난한 일, 매출과 생산원가 계산 필요
 * [Resilient functional service design • Uwe Friedrichsen • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=jF7dd2Nytl8)
+* [Trade-offs and Costs - Software Engineering at Google](https://abseil.io/resources/swe-book/html/ch01.html#tradeoffs_and_costs)
+* [The actual design - Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#the-actual-design)
+* [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
@@ -7010,6 +7013,7 @@ Programming
 * [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
   * [한글화 프로젝트 7. 생산성은 측정할 수 없다](https://jinson.tistory.com/entry/%ED%95%9C%EA%B8%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%80-%EC%B8%A1%EC%A0%95%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4)
   * [생산성은 측정할 수 없다](https://brunch.co.kr/@challenger/45)
+* [New premium post: Doing more with less, part 1: Improving the developer experience](https://microservices.io/post/architecture/2024/04/01/doing-more-with-less-part-1-improving-devex.html) 멋진 triangle. 써있는 간단한 말들에 매우 동의
 * [AI 생산성 향상 정말인가? (ft. Morg.. : 네이버블로그](https://blog.naver.com/mynameisdj/223371333197)
 * [개발자 생산성 지표를 넘어 AI 효과 측정하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/13/productivity/)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
@@ -7301,6 +7305,7 @@ Programming
 * [테스트 커버리지 100%](https://blog.npcode.com/2020/02/28/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-100/)
 * [토스ㅣSLASH 21 - 테스트 커버리지 100% - YouTube](https://www.youtube.com/watch?v=jdlBu2vFv58&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=8)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+* [What is Contract Testing & How is it Used? | Pactflow](https://pactflow.io/blog/what-is-contract-testing/)
 * [테스트가 뭐예요?](https://www.slideshare.net/perhapsspy/ss-232479689)
 * [번역 Self-Testing Code(자체 테스트 코드)- Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-self-testing-code-%EC%9E%90%EC%B2%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-martin-fowler-2d81c1437ac)
 * [Azar Mirror 서버 제작기 1편 - 인프라 개선을 두렵지 않게 하는 테스트 환경 만들기](https://hyperconnect.github.io/2020/05/15/azar-mirror-1.html)
@@ -7478,6 +7483,8 @@ Programming
       * 기술적 소양이 있는 사람들 중에서도 타인을 잘 지도하는 능력이 있는 사람이 필요, 이는 주로 기술 리드로 시작하여 전문 기술 멘토로 성장
       * 외부나 내부에서 기술 멘토로 도왔던 사람들이 여러 팀과 긴 시간을 협력
       * 기술 멘토가 성공을 위해 스크럼 마스터와 라인 매니저의 지원뿐 아니라 기술 인프라, 브랜치 전략, 아키텍처와 같은 견제 필요
+* [Services + End-to-End Testing = ?](https://microservices.io/post/architecture/2024/03/29/services-with-end-to-end-testing-equals-monolith.html)
+  * End-to-end testing 이 너무 많은것은 한마디로 서비스간에 구분이 제대로 안된 것이라는 의견
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
