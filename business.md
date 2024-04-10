@@ -365,6 +365,8 @@ Business
 * [SaaS 기술 기업에게 규모의 경제 의미](https://maily.so/saascenter/posts/3fafeeed)
 * [SaaS 전성시대라는데.. 왜 대기업은 SaaS를 안 살까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saasbuy20220517)
 * [링크드인 부사장이 알려주는 시장진출전략 101](https://brunch.co.kr/@taewookim/117) SaaS 창업자를 위한 GTM 가이드 101
+* [Tools over process](https://www.canda.blog/tools-over-process/)
+  * SaaS를 도입한다는 것은 도구 그 자체보다도 잘 정립된 프로세스를 도입한다는 것과 같고, 그 관점에서는 SaaS는 마치 컨설팅 회사와 같은 역할을 한다
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
@@ -725,6 +727,7 @@ Business
 * [1:1 미팅, 그냥 하지 마세요.. 성장하는 조직을 위한 5가지 팁 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/meetingtip20221005)
 * [구성원분들과 1:1 할때 (or 셀프 체크업) 활용하기 좋은 질문 리스트](https://www.facebook.com/naieekim/posts/pfbid0c9SaQoKDC24AGqUv19QC7Yt93fL7Adtuyar25BXNfrZza6nRuw9G2odQ8mQvbA92l)
 * [요즘 잘나가는 회사들의 직원평가 방법 (권민석 레몬베이스 대표) - 티타임즈](https://www.ttimes.co.kr/article/2023021318337766225)
+* [멘토링 이야기 25: 일대일 미팅이 왜 필요한가요?](https://www.linkedin.com/feed/update/urn:li:activity:7182879896858234880/)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
