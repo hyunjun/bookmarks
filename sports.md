@@ -109,6 +109,9 @@ Sports
 * [한국시리즈는 과연 충분히 재밌는 시리즈였을까?](https://junkstorage.tistory.com/74)
 * [야구공과 손가락 사이의 마찰력 연구 - 야구공작소](https://yagongso.com/?p=18046)
 * [이 공은 칠 수 없습니다 - YouTube](https://www.youtube.com/watch?v=T9xsTO6ujqM) Coanda/Magnus effect
+* [타자가 '타구속도'에 집착할 수 밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=AmLpDty-n_o)
+  * 타자 평균 타구 속도 89mph, 89mph까지는 홈런 0, 90mph부터는 모든 성적이 선형 비례하며 증가
+  * 타구 속도와 타구 각도만으로도 타자 성적이 예측 가능
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
