@@ -302,6 +302,8 @@ Artificial Intelligence
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
+* [Hugging Face – The AI community building the future.](https://huggingface.co/)
+  * [저만 알고 싶은 수천개의 AI 기술 사이트🤗 코드존재 | 허깅페이스 HuggingFace - YouTube](https://www.youtube.com/watch?v=EtKpn-XRxHA)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [Karya | We solve data needs](https://karya.in/)
   * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
