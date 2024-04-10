@@ -2497,6 +2497,7 @@ Javascript
     * [(번역) 가장 빠른 자바스크립트 프레임워크](https://velog.io/@sehyunny/the-fastest-js-framework)
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=WvXUVwzslhw)
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=CKy3wSWeOmo)
+  * [Google의 Search나 Photos같은 서비스의 프론트는 어떤 프론트 프레임워크로 만들었을까요?](https://www.linkedin.com/posts/danielylee_google%EC%9D%98-search%EB%82%98-photos%EA%B0%99%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%A0%ED%8A%B8-activity-7183350835643400193-azIs) Qwik가 Google 내부에서 사용하는 Wiz의 영향을 받았다는 이야기
 * [Radix UI](https://www.radix-ui.com/)
   * 접근성, 커스터마이징 및 개발자 경험에 중점을 둔 로우 레벨 UI 컴포넌트 라이브러리로 디자인 시스템의 기본 레이어로 사용될 수 있도록 스타일이 지정되지 않은 컴포넌트 제공
 * [rainyday.js](http://pluvior.com/?rainy)
