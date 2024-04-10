@@ -2051,6 +2051,8 @@ NLP
 * [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
 * [Testing LLM models on Jetson Xavier NX #ollama #LLM #Jetson #NVIDIA - YouTube](https://www.youtube.com/watch?v=FJ6laH7hq9c)
 * ["인간의 언어/지식을 넘어선 Language Model"에 대한 생각의 묶음](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2269327740074938&hoisted_section_header_type=recently_seen)
+* [Meta Platforms to Launch Small Versions of Llama 3 Next Week — The Information](https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week)
+  * [Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 | GeekNews](https://news.hada.io/topic?id=14215)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
