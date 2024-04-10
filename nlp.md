@@ -3584,6 +3584,8 @@ NLP
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
+* [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
+  * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
 * [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
