@@ -250,6 +250,7 @@ Product
 * 알파플랜 NB 노트북암 거치대 브라켓
 * [애니클리어 디지털/계절가전/노트북 악세사리 전문점](https://anyclear.co.kr/product/%EC%95%A0%EB%8B%88%ED%81%B4%EB%A6%AC%EC%96%B4-%EA%B0%80%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%B1%EA%B8%80-%EA%B1%B0%EC%B9%98%EB%8C%80-%EC%95%94-%EB%B0%9B%EC%B9%A8%EB%8C%80-%EB%85%B8%ED%8A%B8%EB%B6%81-%EB%AA%A8%EB%8B%88%ED%84%B0%EC%A0%84%EC%9A%A9-%EB%AA%A8%EB%8B%88%ED%84%B0%EC%95%94-%EC%8A%A4%ED%83%A0%EB%93%9C-oa-2la-oa-2lc/360/category/123/display/2/)
 * [엔산 마운트 NB-02](https://m.nsan.co.kr/goods/goods_view.php?goodsNo=4959)
+* [예쁘면 용서됩니다. 펠로우즈 라이징 싱글 모니터암 - YouTube](https://www.youtube.com/watch?v=OvjDd43wiG8)
 * [카멜마운트 스프링 타입 노트북 거치대 RT3](https://www.camelmountmall.com/goods/goods_view.php?goodsNo=1000000211)
 
 # Musical Instrument
