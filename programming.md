@@ -1863,6 +1863,7 @@ Programming
 * [Monorepos - The Benefits, Challenges and Importance of Tooling Support by Juri Strumpflohner - YouTube](https://www.youtube.com/watch?v=15VeTQLnWrs)
 * [From Monorepo Mess to Monorepo Bliss: Avoiding Common Mistakes - YouTube](https://www.youtube.com/watch?v=wtOMn-RdRxU)
 * [Why Google Stores Billions of Lines of Code in a Single Repository - YouTube](https://www.youtube.com/watch?v=W71BTkUbdqE)
+* [당근페이 FE, 4개의 프로젝트를 하나로 합치며 나눈 대화들 | by Kooku | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-fe-4%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B0-%EB%82%98%EB%88%88-%EB%8C%80%ED%99%94%EB%93%A4-b96f837230da) monorepo
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
