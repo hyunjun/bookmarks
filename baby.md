@@ -89,6 +89,9 @@ Baby
 * [명문대 입시 휩쓸고 있는 한국의 IB학교를 아십니까 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=DyAzqvawYrQ)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21436)
   * [강남 엄마들이 쉬쉬하는 IB학교를 아십니까 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/460330?sId=DyAzqvawYrQ)
+* [일본이 긴급 수입한 교육계의 히딩크가 망한 이유 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=YB5cE8FueP0)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22712)
+  * [일본 극우파가 통째로 수입한 이것의 정체 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/488643?sId=YB5cE8FueP0)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
