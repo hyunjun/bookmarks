@@ -299,6 +299,7 @@ Artificial Intelligence
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
   * [Gemma LoRA 파인튜닝 빠른실행](https://tykimos.github.io/2024/02/22/gemma_lora_fine_tuning_fast_execute/)
   * [Getting Started with Gemma Tokenizer including Multilingual Testing](https://tykimos.github.io/2024/02/27/getting_started_with_gemma_tokenizer_including_multilingual_testing/)
+  * [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
