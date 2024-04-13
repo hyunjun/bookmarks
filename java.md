@@ -798,6 +798,7 @@ Java
 * [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
 * [String Manipulation - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
   * [인텔리제이 플러그인 String Manipulation - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-string-manipulation/)
+* [Idea VIM 한글 전환 이슈 해결 과정](https://velog.io/@owjs3901/Idea-VIM-%ED%95%9C%EA%B8%80-%EC%A0%84%ED%99%98-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%95)
 * [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
 # Java8
