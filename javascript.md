@@ -871,6 +871,7 @@ Javascript
 * [JavaScript: Loose Equals and Strict Equals | by Valentin Podkamennyi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe)
 * [자바스크립트 엔진들의 hidden class 개념과 코드 실행 최적화를 위한 inline caching](https://blog.naver.com/dlaxodud2388/222263604696)
 * [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+  * [번역 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit)
 * [Using Objects for Lookups| freecodecamp Basic Javascript - YouTube](https://www.youtube.com/watch?v=0gyap1hPePk)
 * [Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/hello-modules-d1010b4e777b)
 * [자바스크립트 모듈 ESM과 CJS 의 특징, 차이, 혼용방법 - YouTube](https://www.youtube.com/watch?v=VFAJhy64ES8)
@@ -1509,6 +1510,7 @@ Javascript
   * Alias tokens are context-specific and reference global tokens. Each alias token has a specific intent of use (i.e., the background color of a button)
   * Component-specific tokens represent unique and specific design decisions associated with a particular component
 * [제품이 커지면 디자인 시스템 가이드는 어떻게 개선돼야 할까?](https://toss.tech/article/toss-design-system-guide)
+* [디자인시스템 읽어볼만한 링크](https://velog.io/@easylogic/%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%BD%EC%96%B4%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%A7%81%ED%81%AC)
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
