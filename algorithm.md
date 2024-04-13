@@ -44,6 +44,7 @@ Algorithm
 * [Persistent Vector Performance Summarised](http://hypirion.com/musings/persistent-vector-performance-summarised?hnrepost=true)
 * [Cryptographic Data Structures](http://blog.bren2010.io/2015/04/07/data-structures.html)
 * [ACM ICPC World Finals 2015 문제 공개](http://ilwar.com/it/206599)
+* [2024 ICPC Asia Pacific Championship 후기 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/04/09/icpc-apac/)
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [solving linear range checks](http://www.playingwithpointers.com/solving-linear-range-checks.html)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
