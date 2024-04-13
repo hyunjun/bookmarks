@@ -243,6 +243,9 @@ Programmer
 * [@지난주 목요일 한기용님 x oneononenote Firesidechat](https://jordanc.notion.site/x-oneononenote-Firesidechat-8f51689280c645899ae999f6a8f5b3bb)
 * [“좋은 커리어, 자신감에서 나온다”](https://v.daum.net/v/20221110155709870)
 * [27년차 실리콘밸리 개발자가 ‘10번의 이직’ 후 알게 된 것들](https://eopla.net/magazines/80)
+* [Noninertial Frame](https://noninertialframe.com/blog/Joining%20Onehouse)
+  * [1년차 개발자의 골드만삭스 → 스타트업 이직 후기 | GeekNews](https://news.hada.io/topic?id=7247)
+* [언제 이직할 회사를 고르면 좋을까?](https://jojoldu.tistory.com/778)
 * [2022 SILLY TALK | 한기용 그렙 USA CTO의 “풀타임으로 일했던 12개의 회사썰 모음ZIP” - YouTube](https://www.youtube.com/watch?v=Is2EfBruplI)
 * [한기용 님 특강 @Viva Republica (Toss)](https://www.linkedin.com/posts/younghwa-kang-a27316b4_28%EB%85%84%EC%B0%A8-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%9C%EA%B8%B0%EC%9A%A9-%EB%8B%98-%ED%8A%B9%EA%B0%95-viva-republica-activity-7047355476421865473-im04/)
   * 멘토링은 어떻게 더 잘하게 되나요? A5. 단순하다. 한만큼 는다. 멘토링을 스케일업 하기 위한 방법을 딱히 찾지는 못했다
@@ -257,8 +260,6 @@ Programmer
   * 이후 Ryan이 Deno를 공개했을 때 관심을 가지고 관련 생태계에 도움이 될 프로젝트를 진행하고 VS Code 확장도 만든 끝에 Deno의 핵심 기여자로 합류
   * 지금은 GitHub의 300여 개의 오픈소스 프로젝트를 공개해서 스타 수로 상위 10명 중의 한 명인 개발자
   * "Education represents the past, ability represents the present, and learning ability represents the future."
-* [Noninertial Frame](https://noninertialframe.com/blog/Joining%20Onehouse)
-  * [1년차 개발자의 골드만삭스 → 스타트업 이직 후기 | GeekNews](https://news.hada.io/topic?id=7247)
 * [Developer Imposter Syndrome. Imposter Syndrome을 겪고 계신 많은 분께 이 글이… | by Whatsup | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8)
   * [Developer Imposter Syndrome | GeekNews](https://news.hada.io/topic?id=7258)
 * [Build Your Career on Dirty Work | Stay SaaSy](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
