@@ -660,6 +660,9 @@ Programming Language
 * [ROC - Documentation](https://www.roc-lang.org/)
   * [Simple Functional Effects with Tag Unions • Richard Feldman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=7SidSvJcPd0)
   * [Intro to Roc & Innovation in Functional Programming • Richard Feldman & James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=01v_H7PpHXc)
+  * [Intro to Roc & Innovation in Functional Programming • Richard Feldman & James Lewis - YouTube](https://www.youtube.com/watch?v=iSYmmRungKc)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22970)
+    * [함수형 프로그래밍의 Roc 및 혁신 소개 - Richard Feldman & James Lewis | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/492825?sId=iSYmmRungKc)
 * [RTcmix - An Open-Source, Digital Signal Processing and Sound Synthesis Language](http://music.columbia.edu/cmc/RTcmix/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * scratch
@@ -727,6 +730,9 @@ Programming Language
   * [V lang이 0.1.18로 업그레이드!](https://brunch.co.kr/@fermat39/89)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * [verse: The Verse Programming Language](https://github.com/verse-lang/verse)
+  * [Verse: A New Functional Logic Language • Lennart Augustsson • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=8CXhiSddjAI)
+    * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22964)
+    * [Verse: 새로운 함수형 논리 언어 - Lennart Augustsson - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/492758?sId=8CXhiSddjAI)
 * [virgil: A fast and lightweight native programming language](https://github.com/titzer/virgil)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)
