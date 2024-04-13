@@ -8,6 +8,7 @@ Web
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 * [깃플 기술스택 구경하세요~ (프론트엔드 편)](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/)
 * [지금 주목해야 할 2024년 웹 개발 트렌드 Top 4 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/31/development-trends/)
+* [2024 프론트엔드 기술스택 이야기](https://velog.io/@teo/2024-frontend-techstack)
 * [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
   * [(번역) 2023년 웹 개발 트렌드 10가지 | Ykss](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
 * [The State of Frontend 2022](https://tsh.io/state-of-frontend/)
@@ -920,6 +921,7 @@ Web
   * Vercel의 Lee Robinson이 nesting, :has(), 컨테이너 쿼리 등의 크로스 브라우저 지원과 CSS 도구 등에 관한 생각을 정리한 글
   * 이제 최신 CSS 기능이 대부분의 브라우저에서 지원되면서 Sass나 Less 없이도 최신 CSS를 작성할 수 있지만 컴파일러를 사용해서 사용하지 않는 스타일을 줄이고 고유한 파일명을 생성해서 캐싱 가능
   * 동적인 화면을 위해서는 CSS를 스트리밍해야 하는데 이를 위해서 CSS 모듈, Tailwind CSS, StyleX를 사용 가능
+* [마진 병합 기능 이해하기 – 형우의 웹개발](https://mytory.net/archives/16246)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -1840,6 +1842,7 @@ Web
 * [Budgeting JS for your Users by George Iliadis - YouTube](https://www.youtube.com/watch?v=GjKVsOAbNT8)
 * [성능 테스트의 중요성과 목적 그리고 효과](https://f-lab.kr/blog/importance%20of%20performance%20Testing)
 * [‘이거 어디까지 올라가는 거예요?’ — 성능 테스트 환경 구축기 | by Ian | Mar, 2024 | 레몬베이스 팀블로그 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
+* [Wonderwall 은 부하 테스트를 어떻게 진행했을까? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/wonderwall-perform-load-testing/)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io)
   * Node.js 기반, 스트레스 테스트, 성능 테스트
   * 분산 기반으로 보다 확장성 있는 노드 시스템을 개발하다보면 자의적이던 타의적이던 성능검증 필요
