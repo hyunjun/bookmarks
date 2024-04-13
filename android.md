@@ -219,6 +219,7 @@ Android
 * [Pluu Dev - Lifecycle-ktx whenStateAtLeast와 withStateAtLeast ~ 2부](http://pluu.github.io/blog/android/2021/01/14/android-lifecycle-ktx/)
 * [Pluu Dev - Lifecycle-ktx flowWithLifecycle API](http://pluu.github.io/blog/android/2021/04/03/repeatOnLifecycle/)
 * [Pluu Dev - AndroidX MenuHost](http://pluu.github.io/blog/android/2021/09/06/menuhost/)
+* [Pluu Dev - 메모 AndroidX Lifecycle 2.7.0-alpha02부터 변경된 동작](https://pluu.github.io/blog/android/2024/04/10/livedata/)
 * [Lifecycle observer in Compose. Migration Rule 3 : combine Activity… | by SeongUg Steve Jung | Jul, 2021 | Medium](https://jsuch2362.medium.com/lifecycle-observer-in-compose-8189b8b07c11)
 * [혼자서 Android App 개발하기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/31/developing-an-android-app-in-one-person.html)
 * [Pluu Dev - AppComapt ~ TextViewCompoundDrawablesXmlDetector](http://pluu.github.io/blog/android/2021/01/18/appcompattextview/)
