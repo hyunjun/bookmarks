@@ -2641,6 +2641,7 @@ Business
       * Remember, any dates are just estimates
       * Keep it simple and high-level
     * My favorite format is the Now-Next-Later. Free template: [PM Now-next-later outcome-based roadmap by Pawel Huryn.pptx - Google Slides](https://docs.google.com/presentation/d/1a_38O6eGaOjXeD9G86dAhD_nBAwnJ51u/edit#slide=id.g1c8ade8ae54_0_0)
+* [다음 분기에 5개월 일하기 vs. 지금 5시간 논의하기. DB를 다루는 당신이 절대 잊으면 안 되는 3가지 | by Chan | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EB%8B%A4%EC%9D%8C-%EB%B6%84%EA%B8%B0%EC%97%90-5%EA%B0%9C%EC%9B%94-%EC%9D%BC%ED%95%98%EA%B8%B0-vs-%EC%A7%80%EA%B8%88-5%EC%8B%9C%EA%B0%84-%EB%85%BC%EC%9D%98%ED%95%98%EA%B8%B0-7f5d7fad060e) roadmap
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
