@@ -95,6 +95,7 @@ NoSQL
 * [Change Data Capture for Distributed Databases @Netflix - YouTube](https://www.youtube.com/watch?v=Z4Gx7SP1E14) Cassandra + Kafka + Flink / HTAP (hybrid transaction and analytic processing) databases
 * [How Discord Stores Trillions of Messages | Deep Dive - YouTube](https://www.youtube.com/watch?v=xynXjChKkJc)
 * [Building web server with Cassandra database | by John E Cho | Jun, 2023 | Medium](https://euncho.medium.com/building-web-server-with-cassandra-database-6d4888a89ba6)
+* [개발자가 손수 대규모 Cassandra를 신규 클러스터로 이전하기](https://techblog.lycorp.co.jp/ko/moving-large-scale-cassandra-to-a-new-cluster)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 * [helenus: A collection of Scala utilities for Apache Cassandra](https://github.com/nmoncho/helenus)
   * [Helenus v1 4 Async API Demo Session - YouTube](https://www.youtube.com/watch?v=9TS9LgTqU2s)
