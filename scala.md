@@ -2336,6 +2336,7 @@ Scala
 * [sbt 2.x remote cache · eed3si9n](https://eed3si9n.com/sbt-remote-cache/)
 * [Leveraging sbt remote caching on a big modular monolith | by Sébastien Boulet | Teads Engineering | Mar, 2024 | Medium](https://medium.com/teads-engineering/leveraging-sbt-remote-caching-on-a-big-modular-monolith-84826f949ae8)
 * [sbt website update 2024 · eed3si9n](https://eed3si9n.com/sbt-website-update-2024/)
+* [sbt 2.x remote cache with Bazel compatibility · eed3si9n](https://eed3si9n.com/sbt-remote-cache-with-bazel-compat/)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
