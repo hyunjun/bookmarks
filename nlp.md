@@ -3693,6 +3693,7 @@ NLP
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
+* [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
