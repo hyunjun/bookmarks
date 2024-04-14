@@ -984,6 +984,7 @@ Programming Books
   * [리뷰 GPT-4를 활용한 인공지능 앱 개발](https://brunch.co.kr/@gauss92tgrd/101)
 * (NOT YET) [쉽고 빠르게 익히는 실전 LLM](https://www.hanbit.co.kr/store/books/look.php?p_code=B7077705203)
   * 탐라 문004.73-오78ㅅ
+  * [쉽고 빠르게 익히는 실전 LLM](https://jhrogue.blogspot.com/2024/04/llm.html)
 
 # C
 
