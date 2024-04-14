@@ -121,6 +121,7 @@ AWS
 * [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 * [AWS SES SMTP를 활용한 대량 메일 전송 시스템 정리](https://medium.com/sjk5766/aws-ses-smtp를-활용한-대량-메일-전송-시스템-정리-e32863abbe4c)
 * [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://blog.rajephon.dev/2018/10/06/Amazon-SES-Setup-00/)
+* [AWS SES와 Nodemailer : 네이버 블로그](https://blog.naver.com/gi_balja/223414001298)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [Backend 개발자의 임무는 API를 만드는 것과 운영 인프라를 만드는 것이라고 볼 수 있습니다. | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/backend-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%84%EB%AC%B4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%9A%B4%EC%98%81-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-561ec2aeb89e) cloud9
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
