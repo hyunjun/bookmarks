@@ -106,6 +106,7 @@ Web
     * 첫 뷰포트에 보이는 부분의 글자만 탐지해서 서브 셋을 만들도록 자동화
 * [개발자에게 웹 폰트 최적화가 중요한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/2107/)
 * [웹폰트 살짝 수정하기 메모 – 형우의 웹개발](https://mytory.net/archives/16071)
+* [폰트어썸, 한글 웹 폰트 300개 이상 보유 사이트](https://myownstudy.tistory.com/13)
 * [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
   * [반응형 폰트 사이즈를 위한 공식 | GeekNews](https://news.hada.io/topic?id=13940)
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
