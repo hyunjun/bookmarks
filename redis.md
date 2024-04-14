@@ -218,6 +218,7 @@ Redis
     * ElastiCache 에서는 Enhanced IO Multiplexing 이라고 해서, 각각의 스레드가 클라이언트들을 묶어서 컨트롤 하는 방식 사용(Netty 에서의 IOGroup 같은
     * Redis 가 싱글스레드라, 클라이언트가 많을수록 IO담당 스레드에서 시간이 길어질 수 밖에 없는데, 이 부분이 개선
     * 특히 클라이언트 수에 따라서 성능 변화가 생길수가 있는데, 그런 부분에서 7.0에서는 개선
+* [ElastiCache IO 기술의 변화 - Google Slides](https://docs.google.com/presentation/d/193Bra3z7kjhx1YcrIzo9oxcuJ5lZlqv_0WWEiO2TAuM/edit)
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
