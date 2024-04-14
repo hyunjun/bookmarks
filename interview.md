@@ -957,9 +957,10 @@ Interview
 # Resume
 * [Tips to Optimize your LinkedIn Profile for Developers](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
 * [LinkedIn-dentation & Formatting](http://stephendnicholas.com/posts/linked-in-formatting) linkedin에 indent 넣는 방법
-* [Tips to Optimize your LinkedIn Profile for Developers](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
 * [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법 — 업플라이 #Upfly](https://www.upfly.me/blog/howtolinkedin/)
 * [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
+* [How To Create a Professional LinkedIn Profile in 2024 - YouTube](https://www.youtube.com/watch?v=AJocoZEV7ew)
+  * [Daero Won - 한국에선 이제 조금씩 사용되고 있는 링크드인. '전문적인 LinkedIn 프로필을 만드는 방법'에... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid02ShjEhUT9FuXbvC5vyHC93rdgwmZxyeZesnbZi8dDLgusS5iuaxpbwXiNcJP6yJwAl)
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
 * [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
   * [hsol.github.io](https://github.com/hsol/hsol.github.io)
