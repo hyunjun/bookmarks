@@ -1082,6 +1082,13 @@ NLP
 
   * Llama 2 Chat 70B v1 - 뭐가 문제인지 모르겠지만 한국어로는 안 나옴
 * [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16044/)
+* [Goos Kim - 페북에 떠돌아 다니는 이미지가 있길래, ChatGPT에게 업로드하고 한글로 이해하기 쉽도록 번역... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0226a6D1aKKk2iefCkHqqDS4urZrR4epiaBPNB1CwvGrXq1z4pn7j9arHMPrz7LiVAl)
+  * <img src="images/435717954_1501015920509868_751504697084396873_n.jpg" alt="" width="300"/>
+  * #R-T-F (Role-Task-Format: 역할-과제-형식)
+  * #T-A-G (Task-Action-Goal: 과제-행동-목표)
+  * #C-A-R-E (Context-Action-Result-Example: 맥락-행동-결과-예시)
+  * #B-A-B (Before-After-Bridge: 이전-이후-연결)
+  * #R-I-S-E (Role-Input-Steps-Expectation: 역할-입력-단계-기대)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
@@ -2059,6 +2066,7 @@ NLP
 * [practice - Solar와 함께하는 LLM Reasoning 기법들](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#cab3520f1f8d45cb95bf5ffbb88e9810)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
+  * [42dot LLM 1.3B](https://42dot.ai/blog/178)
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
@@ -2335,6 +2343,7 @@ NLP
         * 흐름 속에서 쌓이는 프롬프트로 실제 상황을 이해하는 데 도구 (*Lmth* 등) 활용
         * 변화에 적응하고, 인터페이스, 모니터링, 스케일링, 로깅 등 추가 작업 필요
         * 초기 고립된 요소를 재사용하거나, 새로운 기능 빠르게 구현하는 *LLM*의 유연함 강조
+  * [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
