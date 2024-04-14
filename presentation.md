@@ -48,6 +48,7 @@ Presentation
 * [최고의 개발툴 발표는 어떤 건가요? | GeekNews](https://news.hada.io/topic?id=6790)
 * [발표 자료 준비하는 게 어렵다고? 자, 따라 해 봐 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227103)
 * [강연의 전달력을 높이는 법](https://brunch.co.kr/@graypool/1208)
+* [대통령상 대상 받은 PPT 도형! 앞으로 그냥 이거 쓰시면 됩니다! 🙋♂️ | 파워포인트 - YouTube](https://www.youtube.com/watch?v=sqgcDFqpwHI)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
