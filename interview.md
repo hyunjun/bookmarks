@@ -336,6 +336,7 @@ Interview
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [Is Grokking Advanced System Design Interview on Educative worth it? Review | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/is-grokking-advanced-system-design-interview-on-educative-worth-it-review-d0be0148c9f0)
+* [Is Grokking System Design Fundamentals on DesignGuru.io Worth It? Review | by javinpaul | Javarevisited | Apr, 2024 | Medium](https://medium.com/javarevisited/is-grokking-system-design-fundamentals-on-designguru-io-worth-it-review-2ea2188699f1)
 * [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
   * [bytebytego](https://github.com/alex-xu-system/bytebytego)
   * [(1) Free System Design PDF (158 pages) - by Alex Xu](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
