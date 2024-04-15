@@ -2592,6 +2592,7 @@ Javascript
   * [React와 Solid의 차이점 톺아보기 - DEV Community](https://dev.to/composite/reactwa-solidyi-caijeom-topabogi-4e23)
   * [반응형 프로그래밍이란 무엇인가? | Onepredict Engineering](https://onepredict.github.io/reactive-programming/)
   * [脱 React, Solid.js를 써보다](https://velog.io/@rokt33r/%E8%84%B1-React-Solid.js%EB%A5%BC-%EC%8D%A8%EB%B3%B4%EB%8B%A4)
+  * [Solid로 간결하게 고성능 웹앱 만들기 - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/solid)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
