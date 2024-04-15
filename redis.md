@@ -219,6 +219,7 @@ Redis
     * Redis 가 싱글스레드라, 클라이언트가 많을수록 IO담당 스레드에서 시간이 길어질 수 밖에 없는데, 이 부분이 개선
     * 특히 클라이언트 수에 따라서 성능 변화가 생길수가 있는데, 그런 부분에서 7.0에서는 개선
 * [ElastiCache IO 기술의 변화 - Google Slides](https://docs.google.com/presentation/d/193Bra3z7kjhx1YcrIzo9oxcuJ5lZlqv_0WWEiO2TAuM/edit)
+* [AWS 블로그 ElastiCache 이야기, 특히 Network 관련 성능 개선, 바닐라에는 들어오지 않았지만 엄청난 개선들](https://www.facebook.com/daemyung.kang/posts/pfbid02rkzkYHfaRqXqcSS5jajXpHpdig8CaT1qUC2Xn76MrBeVYPj2upDGHQMrBgTFQwXNl)
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
