@@ -168,6 +168,7 @@ iOS
 * [iOS에서 OpenAI API 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-openai-gpt-api/)
 * [STT를 이용해 음성을 텍스트로 변환해보자 🗣️ :: iOYES](https://green1229.tistory.com/433)
 * [Get started with privacy manifests (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/434)
+* [다가오는 5월, iOS Privacy Manifest 심사 대응 준비하기 | Fernando 기술 블로그](https://fernando.kr/develop/2024-04-07-ios-privacy-manifest-scanner/)
 * [TCA 1.0 - Hello, TCA (ch.01) :: iOYES](https://green1229.tistory.com/444)
 * [TCA 1.0 - TCA의 기본 개념 (1) (ch.02) :: iOYES](https://green1229.tistory.com/445)
 * [TCA 1.0 - TCA의 기본 개념 (2) (ch.03) :: iOYES](https://green1229.tistory.com/446)
@@ -599,6 +600,7 @@ iOS
 * [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
+* [Transferable 찍먹하기 :: iOYES](https://green1229.tistory.com/464) protocol
 * [Swift Object Oriented Programming](https://www.youtube.com/playlist?list=PLoPKxuu4_dG3jCiMcbskRuNsgZsdZ4zz6)
 * [Swift로 작성해보는 기본 자료구조 - Stack, Queue](https://wlaxhrl.tistory.com/87)
 * [Swift로 그래프 탐색 알고리즘을 실전 문제에 적용해보기 - DFS 편](https://wlaxhrl.tistory.com/88)
