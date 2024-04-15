@@ -2859,6 +2859,7 @@ Business
         * 인턴십에 발견습관을 구현하는 방법에 대해 논의. 산업이 이 방향으로 움직이기 시작했으며, 일부 팀이 이미 이런 방식으로 작업 중
         * 조직이 이 방식으로 작동하지 않을 때 개인이 이 습관을 채택할 수 있는 방법 소개. 작은 변화로 습관을 채택하라고 장려
         * 대부분의 스타트업이 고객이 원하는 제품을 찾지 못하고, 비용 효율성을 무시하는 문제 지적. 비즈니스적으로 실행가능한 제품을 발견하는 중요성 강조
+* [13화 성공한 서비스 뒤에는 가치 사다리가 있다?](https://brunch.co.kr/@cliche-cliche/219)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -3021,6 +3022,7 @@ Business
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
 * [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
 * ['이거 마시면 깃허브 쓰는 거다?' GitHub의 맥주 플러팅🍺](https://eopla.net/magazines/6661) Github이 초기에 사람을 모으기 위해 했던 활동들
+* [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
@@ -3596,6 +3598,7 @@ Business
 * [08화 인지 부하를 줄이는 UX 디자인의 비밀](https://brunch.co.kr/@cliche-cliche/209)
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
+* [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향) | Univdev](https://univdev.page/posts/focuskeeper-renewal/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
