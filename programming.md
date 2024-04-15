@@ -1834,6 +1834,7 @@ Programming
   * [Caching 101: The Must-Know Caching Strategies](https://www.linkedin.com/feed/update/urn:li:activity:7146017623292395521/)
   * [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
   * [LinkedIn: Oracle Database → Memcached → Expresso NoSQL Database(자체 개발) → Couchbase](https://www.linkedin.com/posts/danielylee_%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%A0-linkedin%EC%97%90%EC%84%9C%EB%8A%94-%EC%95%BD-10%EC%96%B5-%EB%AA%85%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4-activity-7165878143772209152-YLgw/)
+  * [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -2190,6 +2191,8 @@ Programming
 * ['대용량아키텍처' 태그의 글 목록](https://alsyean.tistory.com/tag/%EB%8C%80%EC%9A%A9%EB%9F%89%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [29CM 의 Architecture Manifesto 는 29CM 의 1) 소프트웨어 아키텍처와 2) 팀 운영 원칙이 담겨 있는 문서이다. | 29CM TEAM](https://medium.com/29cm/29cm-architecture-manifesto-82a2d84c9d17)
 * [포트원이 여러 PG사의 인터페이스를 연동하는 방법 - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-03/tgs/) gRPC, DDD, Typed Error
+* [Reddit's Architecture: The Evolutionary Journey](https://blog.bytebytego.com/p/reddits-architecture-the-evolutionary)
+  * [Reddit의 아키텍처는 어떻게 진화했을까?](https://velog.io/@wisepine/Reddit%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%99%94%ED%96%88%EC%9D%84%EA%B9%8C)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -4256,6 +4259,89 @@ Programming
   * It is faster because it is based on automated tasks; waiting time is eliminated.
   * It is cheaper because automated tasks allow errors to be detected immediately, avoiding the accumulation of defects.
   * It is better because automation provides predictable, standardized, reliable and repeatable results.
+* [The Rationale for Continuous Delivery • Dave Farley • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=exBitmWwJG0)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23517)
+  * [지속적 배포의 근거 - Dave Farley - YOW! 2016 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/502488?sId=exBitmWwJG0)
+    * 1.️ 소프트웨어개발에서 지속적인 전달의 이유와 연속적 전달의 중요성
+      * 지속적인 전달에 대한 합리성 설명, 소프트웨어 개발 업계의 중요성에 대해 언급. 최근 프로젝트 실패율이 높아 우려가 크다고 언급
+      * sw 개발 산업에 일어나는 지속적인 변화 살펴봄. 서적 저술/컨설팅으로 지속적 전달이 더 나은 소프트웨어를 더 빠르게 만든다고 주장
+      * 소프트웨어 프로젝트의 역사를 조망하며 대부분의 프로젝트가 예산 초과, 일정 지연으로 끝나며 사용자들을 귀찮게 할 수 있다고 지적
+      * 헬리오센트릭 시스템/지오파트리 시스템을 예로 태양계 관련 위성 설명. 지오파드릭보다 헬리오 센트릭 관점이 더 명확/ 효율적임을 강조
+    * 2. 소프트웨어 개발의 모델 탐구: 하나 좋은 모델을 찾고 있는 과정.
+      * 소프트웨어 산업의 현재 상태는 별로 이상적이 아니라고 주장, 앞으로 더 나은 모델을 탐구해야 한다고 언급
+      * 소프트웨어 개발에는 공통된 좋은 특성들이 있을 것이라고 믿으며, 수 많은 시도를 했지만 완벽한 답이 아직 없다고 지적
+      * 워터폴 모델, V-모델, 스크럼 등 다양한 방법론을 도입해 보았지만 실패하거나 부작용이 나타났다고 설명
+      * 1970년에 소개된 워터폴 프로세스를 처음 사용해본 문서를 소개, 이 프로세스가 소프트웨어 개발에 적용된 첫 번째 시기였음을 강조
+    * 3. 워터폴 개발 방법론을 비판하며 애자일 개발을 제안
+      * 유명한 'Pi' 그림을 소개하면서, 워터폴 개발 방법론을 비판하고 애자일 개발을 제안
+      * 테스트는 개발 단계 끝에서 일어나는데, 시간, 저장, 입출력 전송 등을 분석할 수 없다고 언급
+      * '테스트는 개발 운동의 중요한 부분으로 계획되어야 하며, 피드백 루프가 중요하다'는 내용 강조
+      * 문서에서 제안된 다이어그램이 실제로 애자일 개발을 촉구한다는 내용으로, 21세기 *통찰력*으로 이전을 돌아봄
+    * 4. 소프트웨어 개발 방식에 대한 개선 고민
+      * sw 개발 방식이 우리 요구를 충족시키지 못하거나, 품질 제공하지 못하며 사용자 만족시키지 못하고 예산 초과시, *다른 시도* 고려 필요
+      * 모든 조직이 *소프트웨어 개발 방식*을 통해 아이디어를 사용자에게 전달, 그들이 아이디어를 어떻게 활용하는지 알아내는 것을 원함
+      * 가장 성공적인 발명이 무엇인지 질문을 던지면, 단순한 4단계의 과학적 방법론이라고 주장, 실험으로 결과 파악이 중요하다고 강조
+    * 5. 인류의 발전과 과학적 방법론
+      * 지구에는 *약 20만 년 동안* 인류가 존재해왔고, 그간 인류의 능력과 진전은 평평해 보였으나 *300년 정도 전*부터 급격히 상승
+      * 20세기와 21세기에 이르러 인류의 발전은 수직 상승, 증가하는 지식양과 과학기술의 발전으로 현대 기술사회 성립
+      * sw 개발은 복잡하고 어려운 문제 중 하나, 대부분 추측을 토대로 일하지만 실험을 통해 배우고 발전시키는 과학적 방법론을 적용 필요
+      * 실험, 학습, 적응, 변화를 통해 진보하는 과학적 방법론을 통해 실제 공학적 원칙을 소프트웨어 개발에 적용 필요
+    * 6.️ Agile 개발 방식의 중요성과 Lean에 대한 설명
+      * sw 개발 방식에서 워터폴은 안 좋고 애자일은 좋다는 그림이 보여지며, 이를 통해 미래에 대비하는 더 나은 방법에 대해 학습 기회 창출
+      * 리안은 학습 능력을 극대화하는 데 초점을 맞추며, 변화를 신속하게 작은 조각으로 전달하고자 노력
+        * 이를 통해 실험을 수행하고 결과를 이해하며 학습하여 지속적으로 개선하는 것이 목표
+      * 품질은 초기부터 고려되어야 하며, 전체 과정을 최적화하여 효율적이고 효과적으로 작동하도록 해야
+        * 불필요한 선택지나 부담을 줄이고, 팀의 진행 속도를 늦출 수 있는 것을 효과적으로 제거 필요
+    * 7. 효율적인 프로세스 최적화와 팀 성과를 위한 전략
+      * 고성능 시스템 경험, 대기열의 효율성 고려. 최대 처리량을 극대화하는 방법에 대해 이야기
+      * 대기열에 아무 것도 넣지 않는 것은 처리량을 극대화시키지 않음. 부하를 완전 채우는 것도 효과적이지 않음
+      * 리틀의 법칙: 대략 70%의 부하시 최대 처리량 도출. 팀 효율성 극대화하려면 부하 감소, 팀이 변화 이해/개선해 자기발전 시간 확보 필수
+      * Lean 접근 방식 강조, 학습 최적화로 팀 성과 극대 확신. 결정 늦추고 팀에 권한 부여해 문제 및 개선 중심 프로세스 구축 중요성 강조
+    * 8. 리처드 파인먼, 소프트웨어 공학에서 실험 중요성 강조
+      * 리처드 파인먼은 물리학자로, **양자 전자학 분야에서 혁신적인 성과**를 이뤄내며 '진정한 천재'로 평가 받음
+      * 실험을 통해 학습하고 개선하는 것의 중요성을 강조, 소프트웨어 공학이 **진정한 공학 분야**로 발전해야 한다고 주장
+      * 주문 관리 시스템 프로젝트 사이클 타임 103일이었지만, 금융 거래용 세계 최고 성능 거래소 프로젝트는 **사이클 타임 57분으로 단축**
+      * 사이클 타임이 짧을수록 프로덕션 시스템의 변경사항을 **빠르게 평가**하고 문제를 빠르게 해결할 수 있다는 걸 강조
+    * 9. 지속적 전달과 성공적인 애플리케이션 개발의 중요성
+      * 짧은 사이클 시간이 *유익한 행동* 유발. 효과적 팀 조직, 시험 및 배포 자동화, 설정 관리 필수적, 이로써 건강한 개발 프로세스로 이동
+      * 지속적 전달은 개발자가 변경 사항의 영향을 빠르고 효과적으로 이해할 수 있도록 도움
+        * 개발부터 가치 있는 소프트웨어를 사용자에게 전달하는 모든 단계를 최적화하는 *전체적 소프트웨어 개발 접근 방식*
+      * 자동화된 시스템이 출시 후보를 검증하는 것을 *증명*
+        * *Karl Popper*가 제안한 *부정가능성* 개념에서 영감을 받은 것으로, 실패한 시험을 발견하면 출시 후보를 거부
+      * 지속적 통합의 논리적 확장인 지속적 전달은 *소프트웨어 가치 있는 손님에게 지속적 전달*을 통해 고객 만족을 최우선시 하는 것
+        * *테스트 실패가 하나라도 있는 경우에는 반드시 생산에 출시하면 안 됨
+    * 10. 컴퓨터와 사람의 반복성 비교: 소프트웨어 제작의 반복과 신뢰성에 대한 고찰
+      * 발표에서는 '완료'의 의미와 소프트웨어 제작을 위한 반복적이고 신뢰성 있는 과정에 대해 논의
+      * 인간의 한계와 컴퓨터의 강점을 비교하면, 반복성과 신뢰성 부분에서는 컴퓨터가 우수하다는 점을 강조
+      * 소프트웨어 개발에서 자동화가 필요하며, 모두를 버전 관리해야 한다는 내용이 강조
+      * 이를 통해 소프트웨어 개발의 과정을 투명하고 이해하기 쉽게 만들기를 원하며, 변화를 통해 기존의 지식을 다시 생각해보도록 격려
+    * 11. 연속적인 전달이 소프트웨어 개발의 핵심
+      * 애자일 소프트웨어 개발이 큰 성과의 앞광경이라면, 연속적 전달은 그 주인공
+      * 진정 강력한 sw를 효과적으로 만들 수 있는 **진정한 공학 체제 정의** 할 수 있는 몇 가지 실제적 방법들을 개발 가능하다고 생각
+      * 이는 소프트웨어 개발 팀들이 보다 체계적이고 획기적인 **방법으로 작업**할 수 있는 것을 의미. 이에 따라 **실질적인 변화** 발생
+      * 이러한 방식을 따르는 팀들은 종종 버그율이 90% 이상 감소하는 것을 **보고**하기도 함
+      * 주요 목표 중의 하나로 테스트 종류를 신중하게 선택하는 것이 있으며, 이를 통해**고객들에게 5분 이내의 빠른 피드백** 제공이 중요
+    * 12.️ 소프트웨어 테스트 & 배포: 지속적 통합과 연속적 전달
+      * 소프트웨어 빌드 및 배포 시간을 단축 필요. 이에 'TDDD'로 생성하는 테스트 유형은 *메모리 내 프로세스 테스트*에 이상적
+      * 연속적 통합에서 테스트 후 복잡성 배포를 원하며, 성공적인 빌드 출력물은 *배포 가능한 아티팩트*
+      * 'TDDD'는 코드의 의도를 확인하는 것이지만, *수용 테스트*로 사용자 필요성 확보 필요. 인간은 *회귀 테스트*에 적합
+      * 자동화는 회귀 테스트에서 더 빠르고 효율적. 인간의 역할은 *사용자 인터페이스 피드백*에 중요하므로 협력 필요
+    * 13.️ 시스템 성능과 오류 테스트
+      * 이 예시는 ELMAX 시스템을 기반으로 하며 업적 핵심 평가지표
+      * 성능은 기능성 이외의 요구 사항을 대변하기 위해 사용, 다양한 비기능적 요구 사항에 대해 충분히 이야기하지 않는 경향
+      * 시스템의 성능을 구성 요소 수준과 시스템 수준에서 측정하였고, 일부 예상치 못한 버그 발견
+      * 데이터 설계를 마찬가지로 잘못할 수 있도록 되돌릴 수 있기 원했는데, 마이그레이션을 테스트하고싶어했고 이를 평가하고 이해하고자 함
+        * 산업체에 ELMAX는 13개월 5일간 운영되었으며 첫 번째 버그가 발생하기 전에 사용자에 영향
+    * 14. 구글과 아마존에서 본 혁신적인 소프트웨어 전개 방식
+      * 구글은 단일 거대 리포지토리를 통해 소프트웨어를 관리하며 매번 모든 변경 사항을 함께 평가
+      * 아마존은 11.6초마다 한 번의 변경이 10,000대 서버에 배포되고 문제율은 0.001% 미만
+      * HP LaserJet 펌웨어 팀은 개발 방식을 변화시킴으로써 전체 개발 비용을 40% 감소
+      * 지속적 전달이 소프트웨어 개발의 경제를 변화시킨다는 주장에 대한 편평 가격의 데이터도 존재
+    * 15. DevOps 및 연속적 전달을 실천하는 조직의 업적
+      * DevOps 및 연속적 전달을 실천하는 *고성능 IT 조직*은 시장 수익성과 점유율, 생산성 목표를 두배로 초과하는 경향
+      * 이들 조직 중 66%가 품질상 *중요한 개선 사항을 신고하며*, 50%는 3년 이내 시가 총액 성장률이 50% 더 높음
+      * 구글, 아마존과 같은 기업뿐 아니라 발코니, 볼보 트럭, NASA의 Curiosity Rover도 연속적 전달 방식을 사용
+      * Curiosity Rover에 사용된 소프트웨어는 연속적 전달 방식을 사용했는데, 그 이유는 소프트웨어가 *제대로 작동해야 했기* 때문
 * [Shipping to Production - The Pragmatic Engineer](https://blog.pragmaticengineer.com/shipping-to-production/)
 * [How Corsearch Manages Software Delivery at Scale • N. Durkin, N. Papageorgiou & A. Silva • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=5iVnpOahwK0)
 * [Continuous Integration(지속적 통합) - 기계인간 John Grib](https://johngrib.github.io/wiki/continuous-integration/)
@@ -4323,6 +4409,8 @@ Programming
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
   * [유연하고 안전하게 배포 Pipeline 운영하기](https://toss.tech/article/slash23-devops)
 * [hands-on-fast-and-secure-cicd-pipeline](https://github.com/cjsrkd3321/hands-on-fast-and-secure-cicd-pipeline)
+* [Pierre](https://pierre.co/)
+  * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
   * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
 * [Qodana: The code quality platform for your favorite CI by JetBrains](https://www.jetbrains.com/qodana/)
