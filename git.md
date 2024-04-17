@@ -1081,6 +1081,7 @@ Git
   * [git - reflog - YouTube](https://www.youtube.com/watch?v=1OihCn5BoT4)
   * [내 마음대로 커밋을 다뤄보자 - reset, revert, reflog](https://blog.naver.com/pjt3591oo/222553996993)
   * [Git reflog: Restore Version Control History - DEV Community 👩💻👨💻](https://dev.to/lobunto/git-reflog-restore-version-control-history-ke1)
+  * [팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2545/) bisect, reflog
 * remote
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 
