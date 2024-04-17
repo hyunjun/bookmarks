@@ -39,6 +39,7 @@ Javascript
 * [Learn JavaScript - Free Interactive JavaScript Tutorial](https://www.learn-js.org/)
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
 * [모던 자바스크립트를 배워보았다 - mysetting](https://mysetting.io/slides/modern-javascript-and-veryslide-postmortem)
+* [모던 자바스크립트 스터디 1장. 블록바인딩 | by Jeong Woo Ahn | Apr, 2024 | Medium](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%9E%A5-40a98d6d9b0d)
 * [Transitioning to modern JavaScript - YouTube](https://www.youtube.com/watch?v=cLxNdLK--yI)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
@@ -5483,9 +5484,11 @@ Javascript
     * 중첩된 레이아웃을 구축 가능, 로딩 상태 유연하게 표시 가능
     * 실시간 업데이트를 위해 클라이언트에서 데이터 불러오는 코드 중복 작성 필요, 서버 측 오류가 쉽게 삼켜져서 추적에 어려움 발생
     * 지금은 해결되었지만 개발하면서 버그가 너무 많아 고생, 개발 서버의 성능이 너무 안 좋아 성숙도에 비해 너무 빨리 마케팅이 되었다고 함
+  * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
+  * [Full Stack Kit](https://www.full-stack-kit.dev/)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
@@ -6568,7 +6571,7 @@ Javascript
 * [감자탕 먹고 Vue.js로 Figma 번역 플러그인 만든 이야기](https://engineering.linecorp.com/ko/blog/create-figma-translation-plugin-with-vuejs)
 * [What to Expect from Vue in 2023 and How it Differs from React - The New Stack](https://thenewstack.io/vue-2023/)
   * [2023년 Vue에게 기대할 수 있는 점과 React와의 차이점 | bohyeon.dev](https://ktseo41.github.io/blog/log/what-to-expect-from-vue-in-2023-and-how-it-differs-from-react.html)
-* [완 Vue.js, 20개만 쓸 줄 알면 끝남](https://velog.io/@nanotoly/Vue.js-20%EA%B0%9C%EB%A7%8C-%EC%93%B8-%EC%A4%84-%EC%95%8C%EB%A9%B4-%EB%81%9D%EB%82%A8)
+* [완 Vue.js, 20개만 쓸 줄 알면 끝남](https://velog.io/@nanotoly/Vue.js-20-point)
 * [Vue의 v-for에서 :key를 사용해야 하는 이유 – 형우의 웹개발](https://mytory.net/archives/15356)
 * [Vue.js – URL 값 있으면 a 태그, 없으면 span이나 div 태그로 표시하기 – 형우의 웹개발](https://mytory.net/archives/15364)
 * [Vue 컴포넌트에서 루트 데이터를 활용하는 간편한 방법 – $root, $parent – 형우의 웹개발](https://mytory.net/archives/15425)
