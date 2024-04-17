@@ -138,12 +138,6 @@ Book
 * [지브리의 천재들](https://butter-shower.tistory.com/228)
   * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
   * ★★☆☆☆ 2022.04.25 지브리의 작품이나 스튜디오와 관련된 뒷 이야기인데 개인적인 기대와 다르게 별로 흥미롭지 않았음
-* 커넥트 스탠퍼드 인간관계 수업 [이로운BOOK촌 잘 풀리는 인간 관계는 다 이유가 있다 < BOOK촌 < 문화 < 기사본문 - 이로운넷](https://www.eroun.net/news/articleView.html?idxno=27557)
-  * 한라, 탐라, 우당 문189.2-브232ㅋ
-  * ★★★☆☆ 2022.05.21~22 관계 전문가들에게도 인간 관계란 어려운 일이라는 걸 보며 정말 쉽지 않다는 걸 다시 한 번 느낌
-  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://github.com/hyunjun/bookmarks/blob/master/books/connect.md)
-  * [Connect 커넥트 스탠퍼드 인간관계 수업. 1장 좋은 관계에서 각별한 관계로 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85-fa9934f7017c)
-  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://jh4hj.tistory.com/entry/Connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85)
 * [인공지능과 흙](https://blog.daum.net/marie2005/15723342)
   * ★★★☆☆ 2022.06.07
   * [인공지능과 흙](https://github.com/hyunjun/bookmarks/blob/master/books/ai_and_soil.md)
@@ -523,8 +517,6 @@ Book
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * 우당 문331.5412-윈833ㅅ
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
-* (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
-  * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
   * 한라 367.43-골27ㅇ 우당 문367.431-골228ㅇ
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
@@ -1681,6 +1673,12 @@ Book
   * 한라 325.1-로62ㅅ 탐라 개325.1-로62ㅅ
 
 # Psychology
+* 커넥트 스탠퍼드 인간관계 수업 [이로운BOOK촌 잘 풀리는 인간 관계는 다 이유가 있다 < BOOK촌 < 문화 < 기사본문 - 이로운넷](https://www.eroun.net/news/articleView.html?idxno=27557)
+  * 한라, 탐라, 우당 문189.2-브232ㅋ
+  * ★★★☆☆ 2022.05.21~22 관계 전문가들에게도 인간 관계란 어려운 일이라는 걸 보며 정말 쉽지 않다는 걸 다시 한 번 느낌
+  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://github.com/hyunjun/bookmarks/blob/master/books/connect.md)
+  * [Connect 커넥트 스탠퍼드 인간관계 수업. 1장 좋은 관계에서 각별한 관계로 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85-fa9934f7017c)
+  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://jh4hj.tistory.com/entry/Connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85)
 * [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
   * ★★★★☆ 2023.01.08
   * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
@@ -1781,6 +1779,11 @@ Book
   * [하버드 100년 전통 행복 수업. Tags: psychology Date: March 12, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%ED%95%98%EB%B2%84%EB%93%9C-100%EB%85%84-%EC%A0%84%ED%86%B5-%ED%96%89%EB%B3%B5-%EC%88%98%EC%97%85-7297808e154b)
   * [하버드 100년 전통 행복 수업 - Jun’s Substack](https://recur.substack.com/p/100)
   * [하버드 100년 전통 행복 수업](https://jh4hj.tistory.com/entry/%ED%95%98%EB%B2%84%EB%93%9C-100%EB%85%84-%EC%A0%84%ED%86%B5-%ED%96%89%EB%B3%B5-%EC%88%98%EC%97%85)
+* [타인의 감정이 나를 지배하지 않도록 / 캐런 케이시 / 센시오 - YouTube](https://www.youtube.com/watch?v=whTfSzFqrfw)
+  * ★★★☆☆ 2024.04.17~18 한 마디로 정리하면, 심호흡을 하고 나를 돌아보고 타인(의 감정이나 반응)을 통제하려 하지 말아라. 종교적인 생각이 바탕이라(책에서는 영성이라는 말로 표현) 나와 맞지 않는 면이 있긴 하지만 실천이 어려워서 그렇지(저자도 30년 정도 걸렸다고 썼다) 전반적으로 맞는 말들이고 돌아볼만한 생각들이다
+  * 한라 189.2-케68ㅌ 탐라 문189.2-케69ㅌ
+* (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
+  * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
