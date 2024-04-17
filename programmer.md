@@ -28,6 +28,8 @@ Programmer
 * [똑똑한 개발자와 현명한 개발자](https://www.joinc.co.kr/w/clever_and_wise_developer)
 * [11 Pieces Of Advice For Programmers | by Daan | Level Up Coding](https://levelup.gitconnected.com/11-pieces-of-advice-for-programmers-8bcbad6330e9)
 * [All the best engineering advice I stole from non-technical people | by Marianne Bellotti | Medium](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
+* [Advice From a Software Engineer With 8 Years of Experience | by Benoit Ruiz | Better Programming](https://betterprogramming.pub/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55)
+  * [8년차 개발자가 전하고 싶은 조언들](https://www.linkedin.com/posts/danielylee_8%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A0%84%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%A1%B0%EC%96%B8%EB%93%A4%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%9D%BD%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%80%EC%99%80-%EC%97%B0%EC%B0%A8%EB%8F%84-activity-7186192335842545664-_0QL/)
 * [21 lessons I wish I’d known earlier in my software engineering career. | by Harsh Makadia | Geek Culture | Medium](https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1)
 * [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
@@ -391,6 +393,8 @@ Programmer
       * 본인이 어떤 가치를 추가할 수 있는지 항상 고민하고, 행동으로 이를 실현 필요
       * 타인이 무엇을 해야 하는지 요구하는 것이 아니라, 자발적으로 행동하고 결과에 투자 필요
 * [개발자도 회사의 조직원이다](https://www.thestartupbible.com/2024/03/business-before-technology.html)
+* [Having Kids](https://paulgraham.com/kids.html)
+  * [Paul Graham의 "Having Kids" 에세이](https://www.linkedin.com/posts/danielylee_%EC%A2%85%EC%A2%85-%EC%B6%9C%EC%82%B0%EC%9D%84-%EC%95%9E%EB%91%94-%EB%8F%99%EB%A3%8C%EA%B0%80-%EC%B6%9C%EC%82%B0%EC%9D%B4-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90-%EB%AF%B8%EC%B9%A0-%EC%98%81%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B1%B1%EC%A0%95%ED%95%98%EB%8A%94-activity-7185532993682223107-WgJq/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
