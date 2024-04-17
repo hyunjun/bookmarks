@@ -265,6 +265,9 @@ Google Cloud Platform GCP
 * [Load-testing TensorFlow Serving and FastAPI on GKE | by Chansung Park and Sayak Paul | Google Developers Experts](https://medium.com/google-developer-experts/load-testing-tensorflow-serving-and-fastapi-on-gke-411bc14d96b2)
 * [gke-policy-automation: Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices](https://github.com/google/gke-policy-automation)
 
+# Conference
+* [Google Cloud Next 2024 wrap up | Google Cloud Blog](https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2024-wrap-up)
+
 # Library
 * [gcpdiag](https://gcpdiag.dev/)
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
