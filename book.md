@@ -1321,6 +1321,9 @@ Book
   * [한글과 타자기. Tags: history Date: March 1, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%ED%95%9C%EA%B8%80%EA%B3%BC-%ED%83%80%EC%9E%90%EA%B8%B0-10a4f7253bdd)
   * [한글과 타자기 - Jun’s Substack](https://recur.substack.com/p/877)
   * [한글과 타자기](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B8%80%EA%B3%BC-%ED%83%80%EC%9E%90%EA%B8%B0)
+* [종교의 흑역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321364571)
+  * ★★☆☆☆ 2024.04.17 도서관에서 우연히 눈에 띄어 빌렸는데, 흥미로운 주제이고 여러가지 이야기를 알려주긴 하지만 깊이가 있지는 않다. 재미로 읽어볼만 함
+  * 한라 209-오36ㅈ 탐라 문209-오37ㅈ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
