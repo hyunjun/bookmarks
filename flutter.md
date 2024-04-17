@@ -186,7 +186,6 @@ Flutter
   * [Riverpod 서드파티 프로젝트 분석하기. 1. 경험많은 개발자가 플러터를 어려워하는 이유 | by Cody Yun | Feb, 2023 | Medium](https://medium.com/@cody.yun/riverpod-%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0-%EC%98%88%EC%A0%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-time-tracking-app-with-firebase-1-2-7e98c62e36f2)
   * [Riverpod 서드파티 프로젝트 분석하기. Time Tracking App(with Firebase) 2/2 | by Cody Yun | Feb, 2023 | Medium](https://medium.com/@cody.yun/riverpod-%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0-%EC%98%88%EC%A0%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-7922a5bc16f1)
 * [How we make Flutter work with CallKit Call Directory | by Addevice | Medium](https://addevice.medium.com/how-we-make-flutter-work-with-callkit-call-directory-e56b7a9513b4)
-* [Flutter용 코드 푸시(Code Push) - Shorebird :: ChatGPT 정리](https://banjubu.tistory.com/317)
 * [옵저버블 플러터: gRPC :: ChatGPT 정리](https://banjubu.tistory.com/427)
 * [Stripe Payment Gateway In Flutter 2023 - YouTube](https://www.youtube.com/watch?v=1v-kUU0Vjq4)
 * [플러터가 다른 크로스 플랫폼보다 더 강력한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1994/)
@@ -305,6 +304,9 @@ Flutter
 * [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
   * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
 * [sdimage_viewer: Stable diffusion image and meta info viewer](https://github.com/alongthecloud/sdimage_viewer)
+* [Shorebird](https://shorebird.dev/)
+  * [Flutter용 코드 푸시(Code Push) - Shorebird :: ChatGPT 정리](https://banjubu.tistory.com/317)
+  * [Flutter를 위한 Code Push Shorebird 1.0 릴리즈 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/75)
 * [ZeroTo7Seg: ⚗️ (Team 0to100) Flutter 7-segment OCR using Tesseract LSTM](https://github.com/SemteulGaram/ZeroTo7Seg)
 
 # TDD, Test
