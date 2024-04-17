@@ -2350,6 +2350,7 @@ Programming Books
   * 한라 005.1몽14ㅍ (2014년판)
   * [프로그래밍 면접 이렇게 준비한다 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-60152650)
   * (NOT YET) [프로그래밍 면접, 이렇게 준비한다(4판)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B6503680425)
+* [개발자 기술 면접 노트](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EB%85%B8%ED%8A%B8)
 * (NOT YET) 구글러가 전하는 IT 취업 가이드 : 면접준비에서 연봉협상까지 [A-Z]
   * 한라 325.337-맥25ㄱ
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
