@@ -3459,6 +3459,7 @@ Programming
 * [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
 * [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
 * [A New Hope for Object Storage: R2 enters open beta](https://blog.cloudflare.com/r2-open-beta/)
+* [‘오브젝트 스토리지’는 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2541/)
 * [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
   * [Cloudflare, Workers 용 SQL 데이터베이스 D1 공개 | GeekNews](https://news.hada.io/topic?id=6553)
 * [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
@@ -4690,6 +4691,7 @@ Programming
 * [Data security at Agoda: How we automate encryption key rotation | by Chaiyatorn Niamrat | Agoda Engineering & Design | Mar, 2023 | Medium](https://medium.com/agoda-engineering/data-security-at-agoda-how-we-automate-encryption-key-rotation-e7ae37ea7885)
 * [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
 * [How to gain value from SAST tools in SDLC: Most common findings and mitigations by Stella Varvarigou - YouTube](https://www.youtube.com/watch?v=J-o2uJ3NBU0)
+* [데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)' | 요즘IT](https://yozm.wishket.com/magazine/detail/2543/)
 * [How to deal with privacy and GDPR in Event-Sourced systems by Oskar Dudycz - YouTube](https://www.youtube.com/watch?v=7NGlYgobTyY)
 * [Bcrypt at 25: A Retrospective on Password Security | USENIX](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
   * 비밀번호 해싱 함수인 Bcrypt를 1997년에 David Mazières와 함께 만든 Niels Provos가 25년을 맞이하여 비밀번호 보안에 대한 회고
@@ -4753,6 +4755,7 @@ Programming
 * [Mastering Web Security: Myths, Strategies & More! • Scott Helme & Sebastian Brandes • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ck6BCzREBrg)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23780)
   * [웹 보안 마스터하기: 오해, 전략 등! - 스콧 헬름 & 세바스찬 브랜즈 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/507466?sId=Ck6BCzREBrg)
+* [비밀 관리를 위한 금고 시스템 만들기 | kciter.so](https://kciter.so/posts/encrypted-vault-system)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -5692,7 +5695,8 @@ Programming
 
 # Multimedia
 * [LC3는 블루투스 오디오의 “은탄환”인가?. LE Audio를 이해하기 | by Haze Lee | Sep, 2022 | Realignist’s LifeLog](https://realignist.me/lc3-is-not-silverbullet-48d5a0b3e078)
-* [H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/)
+* [H.264 is magic: a technical walkthrough of a remarkable technology](https://sidbala.com/h-264-is-magic/)
+* [음악 생성 AI '유디오' 출시에 "미쳤다" 반응 등장 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=158752)
 * [HowVideo.works](https://howvideo.works/#processing)
 
 ## Multimedia Image
