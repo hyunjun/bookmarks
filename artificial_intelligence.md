@@ -294,6 +294,7 @@ Artificial Intelligence
   * [Towards Long Context RAG — LlamaIndex, Data Framework for LLM Applications](https://www.llamaindex.ai/blog/towards-long-context-rag)
     * Gemini와 RAG (Retrieval-Augmented Generation) 비교, 긴 컨텍스트 언어 모델 (LLM) 응용 프로그램이 RAG 파이프 라인에 영향
     * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
+  * [모두의AI-MOAI Gemini Google Workspace Guide 한국어 번역 자료](https://mo-ai.notion.site/AI-MOAI-Gemini-Google-Workspace-Guide-99bd8d96c6ea40e6ac91d98ad24067d5)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
