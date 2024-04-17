@@ -3779,6 +3779,7 @@ Programming
 * [Interview: 쿡앱스 코드리뷰 문화. <게임 회사는 코드 리뷰를 못한다고?> 쿡앱스 기술지원팀 오평석님… | by 쿡앱스 | CookApps Lab | Medium](https://medium.com/cookapps/%EC%BF%A1%EC%95%B1%EC%8A%A4-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94-44c9ce41408b)
   * [게임 회사 쿡앱스 코드 리뷰 문화 엿보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2219/)
 * [Dr. Milan Milanović on X: "How to do code reviews properly An essential step in the software development lifecycle is code review. It enables developers to significantly enhance code quality. It resembles the authoring of a book. The story is written by the author, but it is then… https://t.co/OGIMBK8tPm" / X](https://twitter.com/milan_milanovic/status/1704069659668942947)
+* [우리, 이모지로 코드 리뷰 할까요? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/02/04/Code-Review-with-Emoji.html)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
 * [Yes, good DevEx increases productivity. Here is the data. - The GitHub Blog](https://github.blog/2024-01-23-good-devex-increases-productivity/)
@@ -3820,7 +3821,6 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
-* [우리, 이모지로 코드 리뷰 할까요? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/02/04/Code-Review-with-Emoji.html)
 * [2203.04374 Code Red: The Business Impact of Code Quality -- A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv.org/abs/2203.04374)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=aRR0EDazxIk)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=X2RdwmPqBvQ)
@@ -4750,6 +4750,9 @@ Programming
   * 이 문제는 기존의 공급자 공격과는 다른 형태로 이뤄졌다는 면에서 오픈소스 생태계에 큰 충격
   * 이번엔 운좋게 많은 시스템에 심어지기 전에 발견되어 영향은 크지 않은 것으로 보이지만 서버가 해당 백도어가 실행될 조건에 있지 않은지 확인 필요
 * [XZ Utils 백도어 사건으로 돌아보는 오픈소스 생태계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1714)
+* [Mastering Web Security: Myths, Strategies & More! • Scott Helme & Sebastian Brandes • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ck6BCzREBrg)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23780)
+  * [웹 보안 마스터하기: 오해, 전략 등! - 스콧 헬름 & 세바스찬 브랜즈 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/507466?sId=Ck6BCzREBrg)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
