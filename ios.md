@@ -226,6 +226,7 @@ iOS
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [IOSSecuritySuite: iOS platform security & anti-tampering Swift library](https://github.com/securing/IOSSecuritySuite)
 * [Jandi: 🌱 Growth everyday your github contributions in macOS status bar](https://github.com/techinpark/Jandi)
+* [KarrotListKit](https://github.com/daangn/KarrotListKit)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [needle: Compile-time safe Swift dependency injection framework](https://github.com/uber/needle)
   * [모듈화하고 Needle 적용해보기. iOS Dependency Injection by Uber’s… | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
