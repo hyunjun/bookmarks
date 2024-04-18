@@ -92,6 +92,9 @@ Baby
 * [일본이 긴급 수입한 교육계의 히딩크가 망한 이유 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=YB5cE8FueP0)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/22712)
   * [일본 극우파가 통째로 수입한 이것의 정체 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/488643?sId=YB5cE8FueP0)
+* [토론식 IB학교 졸업생들이 명문대 입시를 휩쓰는 이유 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=NZXokPUz9MM)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24035)
+  * [토론식 IB학교 졸업생들이 명문대 입시를 휩쓰는 이유 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512159)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
