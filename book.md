@@ -1782,6 +1782,8 @@ Book
 * [타인의 감정이 나를 지배하지 않도록 / 캐런 케이시 / 센시오 - YouTube](https://www.youtube.com/watch?v=whTfSzFqrfw)
   * ★★★☆☆ 2024.04.17~18 한 마디로 정리하면, 심호흡을 하고 나를 돌아보고 타인(의 감정이나 반응)을 통제하려 하지 말아라. 종교적인 생각이 바탕이라(책에서는 영성이라는 말로 표현) 나와 맞지 않는 면이 있긴 하지만 실천이 어려워서 그렇지(저자도 30년 정도 걸렸다고 썼다) 전반적으로 맞는 말들이고 돌아볼만한 생각들이다
   * 한라 189.2-케68ㅌ 탐라 문189.2-케69ㅌ
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24095)
+  * [타인의 감정이 나를 지배하지 않도록 \ 캐런 케이시 \ 센시오 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512802)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
