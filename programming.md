@@ -4070,6 +4070,9 @@ Programming
 * [Team Topologies, Software Architecture & Complexity • James Lewis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=izLg4NkJQO4)
 * [Expert Talk: Unlocking the Power of Real-Time Analytics • Tim Berglund & Adi Polak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ee43ToXbnzI)
 * [IT TREND Google I/O & Microsoft Build 리뷰](https://tech.kakaoenterprise.com/195)
+* [Navigating AI, Platform Engineering, and Staff-Plus: InfoQ Dev Summit Preview - YouTube](https://www.youtube.com/watch?v=kOMTnUztm7E) 제목처럼 architecture, 보안, 조직 구조, 커리어 등 다양한 이야기
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24044)
+  * [AI, 플랫폼 엔지니어링 및 스태프 플러스 탐색하기: InfoQ 개발자 서밋 미리보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512366)
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [calltospeakers.com](https://calltospeakers.com)
@@ -4756,6 +4759,9 @@ Programming
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23780)
   * [웹 보안 마스터하기: 오해, 전략 등! - 스콧 헬름 & 세바스찬 브랜즈 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/507466?sId=Ck6BCzREBrg)
 * [비밀 관리를 위한 금고 시스템 만들기 | kciter.so](https://kciter.so/posts/encrypted-vault-system)
+* [Application Security: Inside Out • Simon Corlett • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=_UdTcfac-nE)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24038)
+  * [애플리케이션 보안: 인사이드 아웃 - 사이먼 코렛 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512257)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -6898,6 +6904,9 @@ Programming
 * [Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)
 * [노 코드 웹앱 빌더 만다오, 3년의 여정 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=mRuyt-Tc0TQ)
 * [300개 이상의 노코드 AI 툴을 써봤습니다, 이게 최고입니다. - YouTube](https://www.youtube.com/watch?v=ywH7JIK34Tg)
+* [How We Write Better Software with Low-Code • Michiel Overeem • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=gyx2mD8T_js)
+  * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24041)
+  * [로우코드로 더 나은 소프트웨어를 작성하는 방법 - Michiel Overeem - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512323)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
