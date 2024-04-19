@@ -1940,6 +1940,9 @@ Docker
       * 해당 강좌는 DevOps를 위한 'CodeCloud' 사이트를 운영하는 강사가 진행하며, 실습 랩을 활용할 수 있어 쿠버네티스에 대한 실무 경험 획득 가능
       * 또한, 이 강좌는 쿠버네티스 초보자에게 필수인 'Core Concepts' 섹션이 있어, 다양한 부분을 시각적인 예시로 설명해주어 학습을 도움
       * 뿐만 아니라, Udemy는 자주 세일을 진행하여 해당 강좌를 저렴하게 구매할 수 있으니 확인 권유
+* [DIY: Create Your Own Cloud with Kubernetes (Part 1) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-1/)
+* [DIY: Create Your Own Cloud with Kubernetes (Part 2) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-2/)
+* [DIY: Create Your Own Cloud with Kubernetes (Part 3) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-3/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
