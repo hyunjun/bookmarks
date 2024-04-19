@@ -2431,6 +2431,7 @@ NLP
     * [Build your first AI app in Rust using Serverless AI Inferencing - YouTube](https://www.youtube.com/watch?v=TyP-BSy-gi4)
     * [이준범 영어 잘 하는 모델을 한국어 잘 하는 모델로 바꾸는 레시피 - YouTube](https://www.youtube.com/watch?v=pxWji5kykw8)
       * [1:25](https://2024langcon.oopy.io/e820b185-0f58-4797-bfe2-a4b8e63008ae)
+    * [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
       * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
