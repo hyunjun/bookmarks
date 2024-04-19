@@ -452,6 +452,7 @@ SQL
 * [Aurora MySQL 업그레이드엔 블루/그린 배포 어때? | by Rocket | Jan, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aurora-mysql-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%97%94-%EB%B8%94%EB%A3%A8%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC-%EC%96%B4%EB%95%8C-f13787974c95)
 * [Oracle to AWS Aurora PG 1탄 (Shareplex AWS 전환 여정)](https://gsretail.tistory.com/53)
 * [Oracle to AWS Aurora PG 2탄 !! (DB 이사가요~)](https://gsretail.tistory.com/54)
+* [Oracle to AWS Aurora PG 3탄 개발자의 청천벽력 이야기](https://gsretail.tistory.com/52)
 * [Amazon Aurora MySQL 버전 3으로 업그레이드 (MySQL 8.0 호환) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql-version-3-upgrade-mysql-8-0-compatability/)
 * [로컬 인스턴스 스토리지를 사용하여 SQL Server용 Amazon RDS Custom에서 TempDB 성능 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimize-tempdb-performance-in-amazon-rds-custom-for-sql-server-using-local-instance-storage/)
 * [Amazon RDS: A Comprehensive Tutorial on AWS RDS with Hands-On Practice by Fanaticus - YouTube](https://www.youtube.com/watch?v=WMFc3D96tSE)
@@ -647,7 +648,9 @@ SQL
 * [Architect a disaster recovery for SQL Server on AWS: Part 2 | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/part-2-architect-a-disaster-recovery-for-sql-server-on-aws/)
   * [AWS에서 SQL Server를 위한 재해 복구 설계: 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part2/)
 * [Architect a disaster recovery for SQL Server on AWS: Part 3 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-3-architect-a-disaster-recovery-for-sql-server-on-aws/)
+  * [AWS에서 SQL Server의 재해 복구 아키텍처 설계: Part3 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part3/)
 * [Architect a disaster recovery for SQL Server on AWS: Part 4 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-4-architect-a-disaster-recovery-for-sql-server-on-aws/)
+  * [AWS에서 SQL Server를 위한 재해 복구 아키텍처 설계: 4부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part4/)
 
 # MySQL
 * practice
