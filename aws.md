@@ -810,6 +810,7 @@ AWS
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
 * [Amazon CloudWatch 기반 하이브리드, 멀티클라우드 및 온프레미스 지표 통합 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/)
+* [AWS 글로벌 네트워크 성능 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-aws-global-network-performance/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
