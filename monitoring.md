@@ -116,7 +116,13 @@ Monitoring
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
 * [caretta](https://www.facebook.com/groups/1691590384455961/?multi_permalinks=3554779914803656&hoisted_section_header_type=recently_seen)
+* [explore-logs: Repo for the Loki log exploration app](https://github.com/grafana/explore-logs)
+  * [Find your logs data with Explore Logs: No LogQL required! | Grafana Labs](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
+* [Grafana Alloy | OpenTelemetry Collector distribution](https://grafana.com/oss/alloy-opentelemetry-collector/)
+  * [Introducing an OpenTelemetry Collector distribution with built-in Prometheus pipelines: Grafana Alloy | Grafana Labs](https://grafana.com/blog/2024/04/09/grafana-alloy-opentelemetry-collector-with-prometheus-pipelines/)
+    * Grafana가 OpenTelemetry Collector인 Grafana Alloy 공개
+    * Alloy는 Prometheus와 OpenTelemetry 모두와 호환되므로 기존 시스템에 유연하게 적용 가능
 * [Grafana as code: A complete guide to tools, tips, and tricks](https://grafana.com/blog/2022/12/06/a-complete-guide-to-managing-grafana-as-code-tools-tips-and-tricks/)
   * Grafana 대시보드를 코드로 관리하는 다양한 도구 소개
   * Grafana Terraform 프로바이더나 Ansible 컬렉션은 Terraform이나 Ansible에는 익숙하지만 Grafana에는 아직 익숙지 않은 사람에게 권장
