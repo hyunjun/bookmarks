@@ -556,6 +556,7 @@
 * [Lessons learned on writing web applications completely in Rust](https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Virtual Lunch & Learn: Why you want to choose Rust for your next web service! - YouTube](https://www.youtube.com/watch?v=s2Xk3dMTHg8)
+* [hyper - fast and safe HTTP for the Rust language](https://hyper.rs/)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
   * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
