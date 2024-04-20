@@ -369,7 +369,7 @@ Functional Programming
 * [**람다와 친해지고 싶다면**](https://medium.com/@jooyunghan/%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-de8de2a99035)
 * [Lambdas are not functional programming](https://medium.com/@johnmcclean/lambdas-are-not-functional-programming-63533ce2eb74)
 * [An Alien Lambda Calculus • Xuanyi Chew • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=5Z8BzJc3KHw)
-  * [VidiGo An Alien Lambda Calculus • Xuanyi Chew • YOW! 2019](https://vidigo.ai//share/summary/d401b9086373)
+  * [VidiGo An Alien Lambda Calculus • Xuanyi Chew • YOW! 2019](https://vidigo.ai/share/summary/d401b9086373)
     * 컴퓨터 과학과 클로저 계산법
       * 바란조 j. 처치라는 과학자는 그들의 움직임이 계산임을 발견하였고, 계산에는 에테르가 필수적임을 알아냄
       * 클로저 계산법은 순수 람다 계산법과 유사하지만 기존 컴퓨팅 하위 구조에 의존하지 않고 계산을 설명 가능

@@ -99,7 +99,7 @@ Programming Language
   * [GraalVM for JDK 21 is here! 🚀. Today we are releasing GraalVM for JDK… | by Alina Yurenko | graalvm | Sep, 2023 | Medium](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
   * [Thomas Wuerthinger on X: "Big news from last week's @GraalVM for @Java 21 release was that we can finally demonstrate that AOT (with profile-guided optimizations) can outperform JIT for all major metrics including throughput! Here are the numbers for the @Springframework PetClinic example (both G1 GC). 🚀 https://t.co/F8HhVhtEn2" / X](https://twitter.com/thomaswue/status/1707783370187440148)
   * [Java In The Cloud with GraalVM • Alina Yurenko • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=1QeLcJN0QLc)
-    * [VidiGo Java In The Cloud with GraalVM • Alina Yurenko • G](https://vidigo.ai//share/summary/16710b589796)
+    * [VidiGo Java In The Cloud with GraalVM • Alina Yurenko • G](https://vidigo.ai/share/summary/16710b589796)
     * [GraalVM을 사용한 클라우드의 Java - Alina Yurenko - GOTO 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/435103?sId=1QeLcJN0QLc)
       1. 자바와 그랄 VM을 통해 클라우드 환경을 개선
         * 그랄 VM을 활용하여 자바 어플리케이션을 클라우드에 대비하고 더 효율적으로 구축하는 방법을 소개

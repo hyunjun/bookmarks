@@ -1342,7 +1342,7 @@ Apache
 * [An Intro to Realtime Distributed Datastores with Apache Pinot • Tim Berglund • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=FfaA30RmP2w)
 * [Introduction to Real-Time Analytics with Apache Pinot • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=mwAH6t772E4)
 * [Making Kafka Queryable with Apache Pinot • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=b3UA4vGVnTw)
-  * [VidiGo Making Kafka Queryable with Apache Pinot • Tim Ber](https://vidigo.ai//share/summary/7d23a9711c1c)
+  * [VidiGo Making Kafka Queryable with Apache Pinot • Tim Ber](https://vidigo.ai/share/summary/7d23a9711c1c)
     * 컴퓨팅 역사와 아키텍처 변화
       * 컴퓨팅의 역사를 통해 배치 분석에서 트랜잭션 컴퓨팅으로의 전환 설명
       * 클라이언트서버 아키텍처의 등장과 데이터가 분산되기 시작하면서 데이터 웨어하우스의 필요성 발생

@@ -4785,7 +4785,7 @@ Programming
 * [coraza: OWASP Coraza WAF is a golang modsecurity compatible web application firewall library](https://github.com/corazawaf/coraza)
   * [OWASP Coraza - Enterprise-grade open source web application firewall library](https://coraza.io/)
   * [웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023 - YouTube](https://www.youtube.com/watch?v=xLTwWqb_lTw)
-    * [VidiGo 웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Kor](https://vidigo.ai//share/summary/687cbcdf0355)
+    * [VidiGo 웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Kor](https://vidigo.ai/share/summary/687cbcdf0355)
       * Owasp(open web application security project) top 10 리스트를 소개, 웹 보안 위협에 대해 논의
       * 모드 시큐리티와 코로나 프로젝트의 최근 동향 및 nginx protect의 사용례 공유
     * [웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/436083?sId=xLTwWqb_lTw)
@@ -5180,7 +5180,7 @@ Programming
 * [개발자 비급(祕笈) – 3. 나의 폭망한 프로젝트 답사기](http://channy.creation.net/blog/1313) 파레토 Pareto 법칙, heavy user 분석 미비로 인한 프로젝트 실패 사례
 * [기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고 | GeekNews](https://news.hada.io/topic?id=6409)
 * [Failure Is Always An Option • Dylan Beattie • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=NKQ--vGY35E)
-  * [VidiGo Failure Is Always An Option • Dylan Beattie • GOTO](https://vidigo.ai//share/summary/b7432ca4cb56)
+  * [VidiGo Failure Is Always An Option • Dylan Beattie • GOTO](https://vidigo.ai/share/summary/b7432ca4cb56)
     * 사람들은 비행기를 탈 때 불안해하지만, 실제로는 택시가 더 위험
       * 우리는 익숙한 것과 낯선 것에 대해 다르게 위험을 인식
     * 시스템은 초기에 문제가 많고, 중간에 안정되며, 마지막에 다시 문제 발생
@@ -7378,7 +7378,7 @@ Programming
     * 변화: 가끔씩 역할이나 직업을 바꾸는 것을 두려워하지 말것. . 다른 사람들과, 다른 제품이나 다른 회사에서 일하는 것은 자극적임.
     * 계속 배우기: 소프트웨어 개발의 가장 큰 장점 중 하나는 항상 더 많이 배우고 알 수 있는 여지가 있다는 것. 다양한 프로그래밍 언어와 도구를 사용해 보고, 소프트웨어 개발에 관한 책을 읽고, MOOC 과정을 수강할 것. 작은 개선이 추가되어 당신의 지식과 능력에 실질적인 변화를 가져옴
 * [Building Australia's First Mobile-First Bank • Van Le & Phil Parker • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=B7lKXl63H38)
-  * [VidiGo Building Australia's First Mobile-First Bank • Van](https://vidigo.ai//share/summary/eb0460806b1a)
+  * [VidiGo Building Australia's First Mobile-First Bank • Van](https://vidigo.ai/share/summary/eb0460806b1a)
   * [호주 최초의 모바일 퍼스트 은행 구축 - Van Le & Phil Parker - YOW! 2017 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/422345?sId=B7lKXl63H38)
     * 7. 은행 서비스에 대한 고객 불만 사항 및 우려
       * 은행 고객들은 오랜 기간 동안은행 사용하더라도 새로운 제품을 신청할 때마다 세부 정보를 반복해서 제공해야 하는 경험에 대해 불만 표현
@@ -7982,7 +7982,7 @@ Programming
     * 이 접근 방식을 통해 통합 및 개발 주기를 단축하고 높은 수준의 테스트 품질을 유지할 수 있었습니다.
 * [테스트 자동화를 시작하는 QA 혹은 테스트 엔지니어들을 위해 | by James | Mar, 2024 | Medium](https://medium.com/@james_34049/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-qa-%ED%98%B9%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%B4-db3f3ea84296)
 * [Who Should Enable TDD? - Scrum Master | Line Manager | Tech Lead - YouTube](https://www.youtube.com/watch?v=RDNTg9_WAso)
-  * [VidiGo Who Should Enable TDD? - Scrum Master | Line Manag](https://vidigo.ai//share/summary/1c646172f72d)
+  * [VidiGo Who Should Enable TDD? - Scrum Master | Line Manag](https://vidigo.ai/share/summary/1c646172f72d)
     * 라인 매니저의 역할과 TDD 도입 전략
       * 라인 매니저는 tdd를 도입하기 위해 다양한 방법을 사용할 수 있으며, 이는 스크럼 마스터가 할 수 없는 일
       * 직접 tdd 기술을 가진 사람을 채용하거나 성과 평가에 tdd를 포함시키는 등의 전략 가능

@@ -403,7 +403,7 @@ Programmer
 * [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs by James Stanier](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/)
   * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=h5KKtsIVhrw)
   * [Become an Effective Software Engineering Manager • James Stanier & Gergely Orosz - YouTube](https://www.youtube.com/watch?v=Vyy6tcsQ460)
-    * [VidiGo Become an Effective Software Engineering Manager •](https://vidigo.ai//share/summary/51c0beaac2f0)
+    * [VidiGo Become an Effective Software Engineering Manager •](https://vidigo.ai/share/summary/51c0beaac2f0)
       * 관리자로서의 성장과 철학
         * 기술 분야에서 경력을 쌓아가는 과정에서 해고는 피할 수 없는 일일 수 있으며, 이는 개인의 통제 범위를 벗어난 일
         * 관리자는 고품질의 업무를 수행하면서도 필요한 경우 개발자로서의 역할로 돌아갈 준비 필요

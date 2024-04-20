@@ -2207,7 +2207,7 @@ Web
 * [Don't Trust Anything! Real-world Uses For WebAssembly • Katie Bell • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=zhVzWo6cdBM)
 * [웹은 어떻게 소프트웨어를 먹어치울 수 있는가 WebGPU, WebAssembly 및 게임의 가능성](https://blog.naver.com/thebelivvr/223365876036)
 * [WebAssembly in Production: A Compiler in a Web Page • Brian Carroll • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BD46Yv7ywvc)
-  * [VidiGo WebAssembly in Production: A Compiler in a Web Pag](https://vidigo.ai//share/summary/f35dee4998d6)
+  * [VidiGo WebAssembly in Production: A Compiler in a Web Pag](https://vidigo.ai/share/summary/f35dee4998d6)
     * 웹어셈블리(WebAssembly) 소개 및 기본 개념
       * 브라이언 캐롤(brian carroll)이 웹어셈블리에 대해 소개
       * 웹어셈블리는 바이너리 코드 형식, 브라우저에서 실행, 자바스크립트 외의 다른 옵션 제공

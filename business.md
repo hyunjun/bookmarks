@@ -1630,7 +1630,7 @@ Business
   * [CEO & VC 필독서 스타트업 멘토링 커리큘럼 by Notion과 Sequoia의 멘토 Matt Mochary](https://www.romanceip.xyz/startup101withmochary/)
 * [좋은 멘토의 3가지 기준](http://moneyman.kr/archives/4003) 구체적인 숫자, 편안함 + 약간의 불편함, 자극과 휴식
 * [Mentoring: A Two Way Street • Larene Le Gassick & Damian Maclennan • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=keAG7CdfDng)
-  * [VidiGo Mentoring: A Two Way Street • Larene Le Gassick &](https://vidigo.ai//share/summary/6ffc4ce256aa)
+  * [VidiGo Mentoring: A Two Way Street • Larene Le Gassick &](https://vidigo.ai/share/summary/6ffc4ce256aa)
     * 멘토링 관계 구축 및 유지하기
       * 좋은 멘토링 관계를 구축하기 위해서는 명확한 목표 설정과 기대치 조율이 중요
       * 정기적인 체크인으로 관계가 여전히 유효한지 확인하고 필요에 따라 조정
@@ -2760,7 +2760,7 @@ Business
 * [Retention is King..?. 그래서 리텐션이 10% 오르면, 매출이 얼마나 늘어나요? | by Stephan Seunghwan Seo | DelightRoom | Mar, 2024 | Medium](https://medium.com/delightroom/retention-is-king-86d4ec34ac37)
 * [Continuous Discovery란?](https://brunch.co.kr/@yongjinjinipln/124) 일단 이런 조어에 대해서 다시 한 번 감탄
   * [Stanford Seminar - The What & Why of Continuous Discovery, Teresa Torres - YouTube](https://www.youtube.com/watch?v=0E1fC9nECiQ)
-    * [VidiGo Stanford Seminar - The What & Why of Continuous Di](https://vidigo.ai//share/summary/2d9df58743ca)
+    * [VidiGo Stanford Seminar - The What & Why of Continuous Di](https://vidigo.ai/share/summary/2d9df58743ca)
       * 제품 팀이 고객을 포함시켜 무엇을 만들어야 할지에 대한 결정을 내리는 것이 중요하다고 강조
       * 산업에서의 발견과 전달
         * 산업에서 발견 대 전달이라는 용어를 사용하여 설명, 제품을 만들고 유지하는 작업이 전달 범주

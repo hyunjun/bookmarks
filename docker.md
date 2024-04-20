@@ -1857,7 +1857,7 @@ Docker
 * [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 2편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-2)
 * [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 3편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-3)
 * [Do NOT Learn Kubernetes Without Knowing These Concepts... - YouTube](https://www.youtube.com/watch?v=wXuSqFJVNQA)
-  * [VidiGo Do NOT Learn Kubernetes Without Knowing These Conc](https://vidigo.ai//share/summary/e0ff5e201c14)
+  * [VidiGo Do NOT Learn Kubernetes Without Knowing These Conc](https://vidigo.ai/share/summary/e0ff5e201c14)
     * AI 인사이트
       * 개발자에서 사이트 신뢰성 엔지니어로 직업을 변경한 Travis는 쿠버네티스와 처음 접하게 되었다
       * 쿠버네티스를 배우기 위해 필요한 기초 지식의 부족으로 어려움 경험

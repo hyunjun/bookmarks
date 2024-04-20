@@ -378,7 +378,7 @@ Artificial Intelligence
   * [VidiGo Using AI in Software Design: How ChatGPT Can Help](https://vidigo.ai//chatbot/summary/O67LKYWUozTaj2N)
   * [소프트웨어 설계에 AI 활용하기: 솔루션 아치를 만드는 데 ChatGPT가 어떻게 도움이 되는가 작성자: Ralf D. Müller | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/383731?sId=Fv7hpwUgXz8)
 * [Beyond GenAI: What’s Next for the Enterprise?](https://gotocph.com/2023/sessions/2991/beyond-genai-whats-next-for-the-enterprise)
-  * [VidiGo Beyond GenAI: What’s Next for the Enterprise? • An](https://vidigo.ai//share/summary/094b21610091)
+  * [VidiGo Beyond GenAI: What’s Next for the Enterprise? • An](https://vidigo.ai/share/summary/094b21610091)
   * [GenAI를 넘어서: 기업의 다음 단계는 무엇인가요? - 앤드류 터너 - GOTO 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/414580?sId=mUJ_ECHUi-s)
     * 6. AI의 생성적인 의미와 역할
       * 생성적 AI란 무엇인가? 3가지 요소로 이해되며, 대규모 언어 모델 및 중요하게 MLP와 신경망을 사용하는 트랜스포머가 주요 구성 요소

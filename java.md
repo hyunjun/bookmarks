@@ -1243,7 +1243,7 @@ Java
   * [Coroutines and Loom behind the scenes by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=zluKcazgkV4)
   * [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://podcasters.spotify.com/pod/show/happypathprogramming/episodes/92-Virtual-Threads-Looming-with-Adam-Warski-e2ec9d0)
   * [Java Project Loom: Why Should I Care? • Erwin de Gier • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ylxRLx9BuWA)
-    * [VidiGo Java Project Loom: Why Should I Care? • Erwin de G](https://vidigo.ai//share/summary/33b86638c42f)
+    * [VidiGo Java Project Loom: Why Should I Care? • Erwin de G](https://vidigo.ai/share/summary/33b86638c42f)
       * 자바의 동시성 프로그래밍 혁신, 프로젝트 룸
         * 프로젝트 룸은 자바 개발자들이 동시성 프로그래밍을 훨씬 쉽게 할 수 있도록 하는 jdk 제안
         * 가상 스레드와 구조화된 동시성을 포함하여, 기존의 복잡한 동시성 모델을 단순화하고자 함

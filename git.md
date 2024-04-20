@@ -1388,7 +1388,7 @@ Git
     * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
     * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
   * [GitHub Copilot: Coding Will Never Be The Same Again • Ryan J. Salva • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=m0skYNIO3mk)
-    * [VidiGo GitHub Copilot: Coding Will Never Be The Same Agai](https://vidigo.ai//share/summary/68000a93f1b3)
+    * [VidiGo GitHub Copilot: Coding Will Never Be The Same Agai](https://vidigo.ai/share/summary/68000a93f1b3)
     * [깃허브 코파일럿: 코딩은 다시는 예전과 같지 않을 것입니다 - Ryan J. Salva - YOW! 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/417754?sId=m0skYNIO3mk)
       14. 개발자가 AI 시스템 개발 도구를 사용하면 Pull requests와 빌드 수 증가
         * 최초 개발자들은 건의를 제출하면서 30%의 수락률을 보이며, 시간이 흐를수록 능숙해지면서 매달 수락률이 조금씩 증가
