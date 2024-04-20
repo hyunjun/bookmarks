@@ -82,6 +82,7 @@ Concurrency
   * [Parallel computing](http://en.wikipedia.org/wiki/Parallel_computing)
   * [paralleism and concurrency](http://skyul.tistory.com/263)
 * [동시성과 병렬성](http://ohgyun.com/741)
+* [Concurrency is NOT parallelism](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7186752029929742336-YHSW/)
 * [Introduction to Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
 * [Turing Lecture: The Computer Science of Concurrency: The Early Years](http://cacm.acm.org/magazines/2015/6/187316-turing-lecture-the-computer-science-of-concurrency/fulltext)
 * [FAQ on π-Calculus](http://www.cs.cmu.edu/~wing/publications/Wing02a.pdf)
