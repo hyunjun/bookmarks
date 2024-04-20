@@ -1486,6 +1486,14 @@ Javascript
   * 유연함을 추구해서 일관성을 위한 제약은 많이 두지 않음
   * 직관적으로 사용할 수 있도록 Compound Component를 선택
   * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
+* [디자인 시스템, 코드를 넘어서 | SOSOLOG](https://so-so.dev/react/design-system-beyond-code/)
+  * 디자인 시스템을 세 번째 만들어 보면서 배운 내용을 정리한 글
+  * 만들기 전에는 디자인 시스템의 목표를 잡고 달성할 것과 달성하지 않을 것을 명확히
+  * 만드는 중에는 앞에서 세운 대원칙을 계속해서 의식하며 지키려고 노력
+    * 의사결정이 계속 필요하기 때문에 너무 좋은 코드에 집착하기보다는 지속 가능성 추구
+    * 컴포넌트 목표 정의 필요
+    * 최소한의 안전장치로 테스트 코드 꼭 필요
+  * 다 만들고 나서는 아직 완전하지 않은 시스템을 사용할 초기 지원자를 찾아서 피드백을 받아야 하고 이 얼리어답터를 팬으로 만들어야 함
 * [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
 * [인디자인 요소, 자간(Tracking)과 글자간격(letter spacing), 커닝(kerning), 이음자(ligature)](https://a-park.me/55)
 * [쿠팡은 디자인 시스템을 어떻게 구축했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2045/)
@@ -2200,6 +2208,12 @@ Javascript
     * Deno 팀에서는 npm을 고려했지만 Deno 환경과는 맞지 않는 부분 존재
       * ESModules가 도입된 상황에서 npm 레지스트리말고 새로운 개발자 경험을 줄 새로운 중앙 패키지 레지스트리 구축 필요
     * 개발자들은 TypeScript를 제대로 지원을 하는 점에서 매력적이라는 의견과 반드시 모듈을 발행하려면 Deno 사용 필요 및 생태계 분열 우려
+  * [How we built JSR](https://deno.com/blog/how-we-built-jsr)
+    * Deno에서 최근에 공개한 자바스크립트 레지스트리인 JSR를 어떻게 만들었는지를 설명하는 글
+    * Postgres에 데이터를 저장하고 Rust의 Hyper HTTP 서버로 API 서버 구축
+    * 웹사이트는 웹 프레임워크인 Fresh를 사용해서 아일랜드 렌더링으로 웹사이트 속도 개선
+    * TTFB를 줄이기 위해 네트워크 왕복은 최대한 줄였으며 가능한 한 <form>을 사용해서 성능과 접근성 확보
+    * 모듈 해석시 ts, js, tsx 등 다양한 파일 확장자를 검사해야 하는데 이러한 프로빙은 네트워크에서는 너무 느리기 때문에 프로빙이 필요 없도록 작성
 * [jszip: Create, read and edit .zip files with Javascript](https://github.com/Stuk/jszip)
   * [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
   * [JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리 | GeekNews](https://news.hada.io/topic?id=4815)
@@ -4805,6 +4819,7 @@ Javascript
     * 클래스 컴포넌트에서는 추상화를 위한 원시성이 없었기 때문에 이를 해결하기 위해 Hooks가 등장
     * 하지만 Hooks에서는 메모이제이션이 필요
     * 왜 메모이제이션이 필요한지를 보여주고 컴파일을 통해서 자동 메모이제이션이 가능하게 만들 예정
+* [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -6254,6 +6269,7 @@ Javascript
 * [fp-ts: Functional programming in TypeScript](https://github.com/gcanti/fp-ts)
   * [Introduction - fp-ts](https://gcanti.github.io/fp-ts/)
   * [폼 데이터를 우아하게 관리하는 방법](https://tech.devsisters.com/posts/functional-react-state-management/)
+* [Fresh - The next-gen web framework](https://fresh.deno.dev/)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
