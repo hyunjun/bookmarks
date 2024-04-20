@@ -1855,6 +1855,7 @@ Docker
       * Diag 팀과 협력하여 Dapr 프로젝트의 generic API를 클라우드로 이동하는 작업 중
 * [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 1편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-1)
 * [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 2편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-2)
+* [쿠버네티스 네이티브 워크플로를 이용한 대용량 스트리밍 파이프라인 검증 자동화 - 3편](https://techblog.lycorp.co.jp/ko/automate-streaming-pipeline-validation-with-kubernetes-native-workflows-3)
 * [Do NOT Learn Kubernetes Without Knowing These Concepts... - YouTube](https://www.youtube.com/watch?v=wXuSqFJVNQA)
   * [VidiGo Do NOT Learn Kubernetes Without Knowing These Conc](https://vidigo.ai//share/summary/e0ff5e201c14)
     * AI 인사이트
