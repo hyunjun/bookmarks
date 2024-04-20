@@ -60,6 +60,7 @@ Redis
   * [Redis 버그 – Dataset 사이즈가 200GB가 넘어가면 죽는다구요?](https://charsyam.wordpress.com/2019/08/26/입-개발-redis-버그-dataset-사이즈가-200gb가-넘어가면-죽는다구요)
   * [왜 Redis 응답이 느린데, slowlog에는 안찍히나요?](https://charsyam.wordpress.com/2020/03/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%99%9c-redis-%ec%9d%91%eb%8b%b5%ec%9d%b4-%eb%8a%90%eb%a6%b0%eb%8d%b0-slowlog%ec%97%90%eb%8a%94-%ec%95%88%ec%b0%8d%ed%9e%88%eb%82%98%ec%9a%94/)
   * [입 개발 Redis 6.0 – ThreadedIO를 알아보자](https://charsyam.wordpress.com/2020/05/05/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-6-0-threadedio%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
+  * [Redis Threaded I/O 분석 - Google Slides](https://docs.google.com/presentation/d/1z3mV0mwTL4tqa492f5e_QotIZA7ouWL9-aAffRWq0u8/)
   * [입 개발 Redis 장애 종류 정리 | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/20/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%9e%a5%ec%95%a0-%ec%a2%85%eb%a5%98-%ec%a0%95%eb%a6%ac/)
   * [입 컨설팅 Self Managed Redis 가 좋을까? Managed Redis 가 좋을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/11/30/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-self-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c/)
   * [입 개발 Redis LRU(Least Recently Used Algorithm)에 대해서 | Charsyam's Blog](https://charsyam.wordpress.com/2022/01/28/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-lruleast-recently-used-algorithm%ec%97%90-%eb%8c%80%ed%95%b4%ec%84%9c/)
