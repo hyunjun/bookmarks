@@ -169,7 +169,13 @@ Java
 * [Using Java to Orchestrate Robot Swarms](https://www.infoq.com/articles/java-robot-swarms/) Ocado 오카도
 * [주니어 개발자의 우여곡절 소셜로그인 도입 과정 – tech.kakao.com](https://tech.kakao.com/2023/01/19/social-login/)
 * [**Evolution of Java Usage at Netflix - ByteByteGo Newsletter**](https://blog.bytebytego.com/p/evolution-of-java-usage-at-netflix)
-  * [**Netflix의 Java 사용 변천사 (번역)**](https://www.integer.blog/evolution-of-java-usage-at-netflix/)
+  * [**Netflix의 Java 사용 변천사 (번역)**](https://www.integer.blog/evolution-of-java-usage-at-netflix)
+    * Netflix 첫 화면의 여러 데이터를 가져올 때 성능 문제를 해결하기 위해
+      * Groovy로 만든 BFF(Backend for Frontend)를 사용해서 여러 마이크로 서비스에서 데이터를 가져와서 프론트엔드에 내려주는 역할 담당
+      * 이후 스레드 관리의 복잡성을 해결하려고 RxJava 기반의 Hystrix 작성
+      * 이후에는 GraphQL Federation로 개선
+      * Java 버전도 8에서 17로 마이그레이션
+      * 오픈소스 Spring Boot도 그대로 사용
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1906,6 +1912,12 @@ Java
 
 ## Library GraphQL
 * [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
+* [A Tale of Two Frameworks: The Domain Graph Service Framework Meets Spring GraphQL | by Netflix Technology Blog | Apr, 2024 | Medium](https://netflixtechblog.medium.com/a-tale-of-two-frameworks-the-domain-graph-service-framework-meets-spring-graphql-f8237f09c389)
+  * Netflix는 Spring Boot 기반 GraphQL 서비스를 만들 수 있는 DGS 프레임워크를 2021년 오픈소스로 공개
+    * 이후 Spring 팀의 Spring GraphQL이 성숙해 지면서 최근에는 비슷한 수준까지 올라와서 같은 문제를 해결하는 2개의 프레임워크가 존재
+  * 이 둘을 따로 관리하는 것보다 협업하는 게 효과적일 거로 생각
+    * DGS를 Spring GraphQL과 통합하고 성능 문제도 해결해서 DGS에서도 Spring GraphQL과 동등한 성능
+  * 옵트인 방식을 지원해서 Spring GraphQL 스타터를 적용한 뒤 레거시 DGS 코드를 제거할 계획 존재
 * [GraphQlTester를 사용할 때 entity 변환이 안되는 이유(feat: ObjectMapper)](https://velog.io/@hyemin916/GraphQlTester%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-entity-%EB%B3%80%ED%99%98%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0feat-ObjectMapper)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 
