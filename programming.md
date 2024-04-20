@@ -5689,6 +5689,7 @@ Programming
 * [내 주변 송금이 블루투스로 만들어졌다고? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bluetooth-remittance/)
 * [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by DelightRoom | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-3720aa09fbf5)
 * [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by Joon Won Lee | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-b0ab2d936dac)
+* [Top 5 Programming languages for Mobile App Development in 2024 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/top-5-programming-languages-for-mobile-app-development-in-2021-19a1778195b8)
 * [Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
@@ -6254,6 +6255,7 @@ Programming
   * [3월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/03/b-3-5.html)
   * [4월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/04/b-4-1.html)
   * [4월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/04/b-4-2.html)
+  * [4월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/04/b-4-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
