@@ -2442,6 +2442,8 @@ AWS
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
 * [Scala Compilation Got 5x Faster With Triplequote Hydra](https://www.triplequote.com/blog/2019-scala-compilation-got-5-times-faster-with-triplequote-hydra/)
+* [smithy4s-besom-aws-comprehend: Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend)
+  * [Besom and Smithy4s on AWS - Scala 3 good vibes only](https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws)
 
 # Security
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
