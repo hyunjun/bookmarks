@@ -580,6 +580,7 @@ App
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [How to Install Chrome OS on PC with Play Store Support (2021) | Beebom](https://beebom.com/how-install-chrome-os-on-pc/)
 * ['플레이 스토어'가 되는 '크롬 OS'를 PC에 설치하기 (완벽정리)](https://open-support.tistory.com/entry/%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8A%A4%ED%86%A0%EC%96%B4%EA%B0%80-%EB%90%98%EB%8A%94-%ED%81%AC%EB%A1%AC-OS%EB%A5%BC-PC%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC)
+* [죽어가는 저사양 컴퓨터를 살려낼 운영체제 구글 크롬 OS Flex 설치 방법 - YouTube](https://www.youtube.com/watch?v=DAv86iakcD4)
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
