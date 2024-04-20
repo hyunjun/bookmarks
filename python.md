@@ -1648,6 +1648,7 @@ Python
 * [asyncio를 이용한 비동기 처리 이해와 promise와 비교하기](https://blog.naver.com/pjt3591oo/221979921090)
 * [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
 * ["파이썬 웹 개발의 미래" ASGI의 개념과 활용 방법 - ITWorld Korea](https://www.itworld.co.kr/news/245062)
+* [ASGI Application을 Serverless 환경에서 실행시키는 방법에 대하여 | by Junah | Apr, 2024 | Medium](https://junah201.medium.com/asgi-application%EC%9D%84-serverless-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-97cb79193ed6)
 * [Sync vs. Async Python: What is the Difference? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
