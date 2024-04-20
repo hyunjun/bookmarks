@@ -241,6 +241,7 @@ Writing
     * [gapminder-dashboard](https://github.com/jjallaire/gapminder-dashboard/blob/main/gapminder.qmd)
       * [Worldwide Development](https://jjallaire.github.io/gapminder-dashboard/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
+  * [모두가 행복해지는 API 문서 통합과 자동화](https://techblog.lycorp.co.jp/ko/api-document-integration-and-documentation-automation)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
 * Swimm [Knowledge management and documentation for code | Swimm](https://swimm.io/)
