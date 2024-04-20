@@ -602,6 +602,7 @@ iOS
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
 * [Transferable 찍먹하기 :: iOYES](https://green1229.tistory.com/464) protocol
+* [Core Transferable 톺아보기 :: iOYES](https://green1229.tistory.com/465)
 * [Swift Object Oriented Programming](https://www.youtube.com/playlist?list=PLoPKxuu4_dG3jCiMcbskRuNsgZsdZ4zz6)
 * [Swift로 작성해보는 기본 자료구조 - Stack, Queue](https://wlaxhrl.tistory.com/87)
 * [Swift로 그래프 탐색 알고리즘을 실전 문제에 적용해보기 - DFS 편](https://wlaxhrl.tistory.com/88)
