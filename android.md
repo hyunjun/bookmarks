@@ -295,6 +295,7 @@ Android
 * [Pluu Dev - 메모 Fixed AGP 8.1.0부터 instrumented test가 실행되면 앱을 지우는 버그가 발생](http://pluu.github.io/blog/android/2023/10/16/agp8_10-bug_fixed/)
 * [LINE Android 앱에 폰트 커스터마이징 기능 적용하기](https://techblog.lycorp.co.jp/ko/how-to-develop-font-customizing-function-in-android-app)
 * [갤럭시 S24가 찾아준 배민커넥트 Android 성능 이슈 해결기(feat. React Native) | 우아한형제들 기술블로그](https://techblog.woowahan.com/15883/) StrongBox
+* [정교한 노출 이벤트 적재를 위한 여정 Part 1 — XML 탐지하기 | by LeeWonJong | 29CM TEAM | Apr, 2024 | Medium](https://medium.com/29cm/%EC%A0%95%EA%B5%90%ED%95%9C-%EB%85%B8%EC%B6%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%81%EC%9E%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xml-%ED%83%90%EC%A7%80%ED%95%98%EA%B8%B0-433aca5c4c81)
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
@@ -565,6 +566,15 @@ Android
 * [TedBottomPicker(이미지 선택, Image Picker)](http://gun0912.tistory.com/68)
 * [TedKeyboardObserver - keyboard's visibility observer](https://github.com/ParkSangGwon/TedKeyboardObserver)
 * [TedNaverMapClustering -네이버지도용 클러스터링 유틸리티 라이브러리](https://gun0912.tistory.com/83)
+* Trio
+  * [Introducing Trio | Part I. A three part series on how we built a… | by Eli Hart | The Airbnb Tech Blog | Mar, 2024 | Medium](https://medium.com/airbnb-engineering/introducing-trio-part-i-7f5017a1a903)
+  * [Introducing Trio | Part II. Part two on how we built a Compose… | by Eli Hart | The Airbnb Tech Blog | Apr, 2024 | Medium](https://medium.com/airbnb-engineering/introducing-trio-part-ii-fe836013a798)
+  * [Introducing Trio | Part III. Part three on how we built a Compose… | by Eli Hart | The Airbnb Tech Blog | Apr, 2024 | Medium](https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b)
+    * Airbnb에서 Jetpack Compose 화면 아키텍처를 위한 안드로이드 프레임워크인 Trio를 Maverikcs 기반으로 개발해서 1년 반 동안 프로덕션에서 사용
+    * 2018년 오픈소스로 공개한 Maverikcs는 UI와 분리한 상태관리 라이브러리인데 상태관리 잘 동작
+      * Mavericks와 통합된 Fragment 기반 아키텍처에서 어려움
+      * Jetpack Compose를 도입해서 Trio 구축 시작
+    * Trio를 통해 모듈 경계를 넘어 통신할 때 type safety를 보장하고 스크린샷과 UI 테스트가 가능한 장점 존재
 * [ThreeLevelExpandableListView: Android 3 Level Expendable ListView example](https://github.com/DonggeunJung/ThreeLevelExpandableListView)
 * [ViewPager2 사용하는 방법 정리](https://developer88.tistory.com/242)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
