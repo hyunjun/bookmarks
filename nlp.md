@@ -600,9 +600,8 @@ NLP
 * [Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots](http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/)
 * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
   * [PyCon 2016’s TensorFlow 자료](https://tensorflowkorea.wordpress.com/2016/08/16/pycon-2016s-tensorflow-%EC%9E%90%EB%A3%8C/)
-  *
-    1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
-    2. [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
+  * 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
+    * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)
   * [github.com/carpedm20/DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
   * [뉴럴 네트워크로 만든 튜링 머신](https://github.com/carpedm20/NTM-tensorflow)
   * [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
@@ -705,6 +704,7 @@ NLP
 * [챗봇의 귀여운 말투가 서비스 실패 상황에서 어떤 영향을 미치는가에 대한 논문](https://www.linkedin.com/posts/jiho-park-31a798212_%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%A4%ED%8C%A8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%B1%97%EB%B4%87%EC%9D%98-%EA%B7%80%EC%97%AC%EC%9B%80%EC%9D%98-%EC%98%81%ED%96%A5-ugcPost-7168535985914335232-uAW9/)
 * [셀프서비스, 챗봇에게 물어보세요](https://techblog.woowahan.com/16021/)
 * [👀 코드 기반 답변하는 💻 GitHub 소스코드 기반 Q&A 챗봇🤖 제작기 - YouTube](https://www.youtube.com/watch?v=yB8b-lW_5HY)
+* [GPT 나침반으로 읽는 코드 구조 탐험 지도 - 모두의연구소](https://modulabs.co.kr/blog/gpt-uml-analysis/)
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
@@ -2064,8 +2064,6 @@ NLP
 * [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
 * [Testing LLM models on Jetson Xavier NX #ollama #LLM #Jetson #NVIDIA - YouTube](https://www.youtube.com/watch?v=FJ6laH7hq9c)
 * ["인간의 언어/지식을 넘어선 Language Model"에 대한 생각의 묶음](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2269327740074938&hoisted_section_header_type=recently_seen)
-* [Meta Platforms to Launch Small Versions of Llama 3 Next Week — The Information](https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week)
-  * [Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 | GeekNews](https://news.hada.io/topic?id=14215)
 * [당근에서 LLM 활용하기. 당근에서는 LLM을 어떻게 활용하고 있는지 소개해요 | by Tommy Park | 당근 테크 블로그 | Apr, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%97%90%EC%84%9C-llm-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-76131ecebce1)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
@@ -2434,7 +2432,10 @@ NLP
     * [Build your first AI app in Rust using Serverless AI Inferencing - YouTube](https://www.youtube.com/watch?v=TyP-BSy-gi4)
     * [이준범 영어 잘 하는 모델을 한국어 잘 하는 모델로 바꾸는 레시피 - YouTube](https://www.youtube.com/watch?v=pxWji5kykw8)
       * [1:25](https://2024langcon.oopy.io/e820b185-0f58-4797-bfe2-a4b8e63008ae)
+    * [Meta Platforms to Launch Small Versions of Llama 3 Next Week — The Information](https://www.theinformation.com/articles/meta-platforms-to-launch-small-versions-of-llama-3-next-week)
+      * [Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 | GeekNews](https://news.hada.io/topic?id=14215)
     * [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
+      * [Meta, Llama 3 공개 | GeekNews](https://news.hada.io/topic?id=14388)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
       * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
@@ -2570,7 +2571,7 @@ NLP
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
-* QLoRA  
+* QLoRA
   * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671)
   * [QLoRA is all you need (Fast and lightweight model fine-tuning) - YouTube](https://www.youtube.com/watch?v=J_3hDqSvpmg)
   * [Building an LLM fine-tuning Dataset - YouTube](https://www.youtube.com/watch?v=pCX_3p40Efc)
