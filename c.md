@@ -110,6 +110,7 @@ C
 * [The GNU C Library Reference Manual](http://database.sarang.net/study/glibc/0.htm)
 * [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
 * [DNS Query Code in C with linux sockets](http://www.binarytides.com/dns-query-code-in-c-with-linux-sockets/)
+* [C/PYTHON Socket 기초 1 - 간단한 http 서버 만들기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/8071) socket
 * [A Very Simple HTTP Server writen in C](https://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html)
 * [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
 * [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
