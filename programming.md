@@ -413,6 +413,15 @@ Programming
   * Llama 2 Chat 70B - Text playground/Chat playground 동작 안 해서 확인 못 함
 * [SRE를 조금 더 적확하게 표현하자면 'Outage Management'](https://www.linkedin.com/posts/jaehun-kim-7a885ba4_outage-management-%ED%98%84%EC%9E%AC-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%9D%BC%EC%9D%84-%EC%A1%B0%EA%B8%88-%EA%B7%B8%EB%9F%B4%EC%8B%B8%ED%95%98%EA%B2%8C-activity-7175002225474220033-1LNM/)
   * 모니터링 시스템, 운영 프로세스, 정책
+* [Prodverbs, Pithy Insights From Running Production Services](https://sre.google/prodverbs/)
+  * Google SRE에서 SRE가 가져야 하는 일반적인 신념을 모은 속담 페이지 공개
+    * 두 시스템이 동작하기 위해 서로 동의해야 한다면 언젠가는 필연적으로 의견이 맞지 않을 것이다
+    * 차이는 줄이고 평균값은 높인다
+    * 백업은 마지막 복원에만 유효하다
+    * SLO가 없다면 노가다 운영 작업이 업무다
+    * 희망은 전략이 아니다
+    * 서비스 성장에 따라 유지보수를 비선형적으로 확장해라
+    * 모든 인시던트가 새롭기를 바란다
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
@@ -1645,6 +1654,8 @@ Programming
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
+* [QCon London: Meta Used Monolithic Architecture to Ship Threads in Only Five Months - InfoQ](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
+  * [메타는 모놀리식 아키텍처로 5개월만에 스레드를 출시하고, 1억명의 유저를 처리했다](https://jaymepark.tistory.com/13)
 * [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
@@ -6430,6 +6441,7 @@ Programming
   * [기술 뉴스 #241 : 24-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1710)
   * [기술 뉴스 #242 : 24-03-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1712)
   * [기술 뉴스 #243 : 24-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1713)
+  * [기술 뉴스 #244 : 24-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1716)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -8146,6 +8158,7 @@ Programming
 * [빠르게 진화하는 E-커머스와 RPA 그리고 테스트 자동화 | 최윤석 - YouTube](https://www.youtube.com/watch?v=pEqjCNAAugU) appium, selenium
 * [백엔드 개발자가 만들어 본 App 테스트 자동화 (feat. Appium, Jenkins, AWS DeviceFarm) :: Jay's Code Factory](https://jay-ji.tistory.com/122)
 * [29CM QA팀의 2023년 워크샵 200% 활용기. 29CM에서는 연 최대 2회로 1인당 10만원의 비용을 지원하여… | by 박현준 | 29CM TEAM | Jan, 2024 | Medium](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%98-2023%EB%85%84-%EC%9B%8C%ED%81%AC%EC%83%B5-200-%ED%99%9C%EC%9A%A9%EA%B8%B0-b6caadd89ceb)
+* [우아한형제들 디자인 시스템에 시각적 회귀 테스트 적용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17081/)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
@@ -8367,6 +8380,7 @@ Programming
   * [한국어가 유니코드에 들어간 역사 : 네이버 블로그](https://blog.naver.com/drvoss/222662727953)
 * [이모지와 유니코드 | blog.hoseung.me](https://blog.hoseung.me/2022-08-25-emoji-and-unicode/)
 * [There's No Such Thing As Plain Text • Dylan Beattie • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=ajfb5LSbQVM)
+* [UTF-8 문서에서 form만 EUC-KR로 제출해야 할 때 – 형우의 웹개발](https://mytory.net/archives/16278)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
