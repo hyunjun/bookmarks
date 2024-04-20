@@ -450,6 +450,7 @@ Business
     * 다른 사람의 피드백이 필요한가? 아니면 단지 정보 제공인가?
     * 의견 수렴 등 피드백이 필요한 경우, 미팅이 메시지나 이메일보다 더 효율적인가?
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
+* [함께 성장하는 팀 운영 시스템 구축하기. 안녕하세요. 29CM 프로덕트디자인팀 매니저 김영준입니다. 이 시간에는… | by Jay Youngjun Kim | 29CM TEAM | Apr, 2024 | Medium](https://medium.com/29cm/%ED%95%A8%EA%BB%98-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%ED%8C%80-%EC%9A%B4%EC%98%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-37f334d71357)
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
@@ -3182,6 +3183,11 @@ Business
 * [망했을때 어떻게 할 것인가](https://jojoldu.tistory.com/599)
 * [Y-Combinator 2021 여름 데모데이 참가 스타트업 377개 | GeekNews](https://news.hada.io/topic?id=4974)
 * [어떻게 알토스벤처스는 한국에서 가장 핫한 VC가 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/altosventures20181028)
+* [박수칠 때 떠나는 VC: Benchmark](https://www.romanceip.xyz/benchmark/)
+  * 유명한 VC인 Benchmark Capital의 운영 철학을 살펴본 글
+    * Benchmark Capital은 One team으로 운영되며 모두가 똑같은 파트너 자격으로 동등하게 분배
+    * 스스로 성과를 못낸다고 생각하면 떠나는 자발적 해고 시스템
+    * 스타트업의 단순 서포터가 아니라 감시자 역할
 * [스타트업을 시작하기 전에 몰랐던 것들](https://brunch.co.kr/@svillustrated/111)
 * [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
 * [남의집, 당근마켓에서 투자받다](https://brunch.co.kr/@yongisa/61) 투자까지 고생한 이야기
