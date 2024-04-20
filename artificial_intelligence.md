@@ -422,6 +422,14 @@ Artificial Intelligence
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
 * [(광고) 스켈터레터 AI 에이전트, 기업도 쓸 수 있나요? 🥹](https://skelterlabs.stibee.com/p/22/)
 * [Generative AI, 국내 기업은 어떻게 사용하고 있을까요?ㅣ3월 MI리포트 G.AI](https://www.skcc.co.kr/insight/trend/2492/5ma9umcvdz)
+* [sora와 gemini 1.5사태가 시사하는 보통 기업들의 AI전략](https://www.yonghosee.com/ai-strategies-must-align-with-data)
+  * 하용호 님이 AI 비즈니스에서 경쟁력의 핵심이 무엇인지에 대해 정리한 글
+  * 알고리즘 경쟁이 치열하지만 결국 수렴할 것
+  * 하드웨어 경쟁이 커지고 있지만 추론 전용 하드웨어들이 나오면서 하드웨어의 장벽도 없어질 것
+  * private 데이터를 반영하기 위해 파인튜과 RAG를 사용하지만
+    * RAG는 부족한 컨텍스트 윈도우를 활용하는 기법이었는데 얼마 전 공개된 Gemini 1.5sms 100만 개의 컨텍스트를 제공하면서 결국 RAG의 중요성도 줄어들 것
+  * 그러면 남는 것은 독보적인 private 데이터를 가진 회사가 경쟁력을 가질 것
+    * 이러한 private 데이터를 많이 가진 Google과 Apple이 장기적으로 유리한 위치를 차지할 것으로 예상
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
@@ -437,7 +445,7 @@ Artificial Intelligence
   * [NAVER Tech Talk: AI 7차 (2019년 1월, 5월~10월)](https://d2.naver.com/news/7618832)
 * [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
-* [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑‍⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
+* [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
 
 # Tool
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
