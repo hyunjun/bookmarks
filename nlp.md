@@ -882,7 +882,7 @@ NLP
   * [How to Stream OpenAI API Responses in a Flask App - YouTube](https://www.youtube.com/watch?v=z6iYcqNECwA)
     * [How to Stream OpenAI API Responses in a Flask App](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2024/03/28/How%20to%20Stream%20OpenAI%20API%20Responses%20in%20a%20Flask%20App/flask_openai_streaming)
   * [GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=VFwoEH50WpU)
-    * [VidiGo GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들.mp](https://vidigo.ai//share/summary/3f77e8f24670)
+    * [VidiGo GPT(a.k.a. 뚝딱이)와 함께 하는 서비스 만들기 #우아콘2023 #우아한형제들.mp](https://vidigo.ai/share/summary/3f77e8f24670)
     * [Creating a service with GPT (a.k.a. drip) #UACon2023 #UA Brothers | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/441136?sId=VFwoEH50WpU)
     * [리뷰를 재료로 GPT가 뚝딱뚝딱 만들어낸 메뉴추천, 메뉴뚝딱AI | 우아한형제들 기술블로그](https://techblog.woowahan.com/16877/)
   * [데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy) NL2SQL, masked data prompting
@@ -1110,7 +1110,7 @@ NLP
 * [promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
   * [Developing LLM Powered XApplications: A Low/No Code Chat Application using Prompt Flow (6/n) | by Madhusudhan Konda | Oct, 2023 | Medium](https://mkonda007.medium.com/developing-llm-powered-xapplications-a-low-no-code-chat-application-using-prompt-flow-6-n-464738fd6364)
   * [LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기 - YouTube](https://www.youtube.com/watch?v=ECl0D8rHoDc)
-    * [VidiGo LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기.mp4](https://vidigo.ai//share/summary/6aaa037b94df)
+    * [VidiGo LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기.mp4](https://vidigo.ai/share/summary/6aaa037b94df)
       * 노드 기반의 작업 흐름 구성
         * 프롬프트 플로우에서는 노드 형태로 작업을 구성하며, 각 노드는 순차적으로 실행된다.
         * 사용자는 파이썬을 주 언어로 하여 전처리나 후처리 로직을 포함한 다양한 작업을 할 수 있다.
@@ -1717,7 +1717,7 @@ NLP
     * [DLAI - LLMOps.mp4 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346525?sId=055aae79-ef04-4f3b-8e98-1ec7bc8dd88d)
 * [Automated Testing for LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
 * [PyData Madrid Abril 2024 @ Repsol 🐲 LLMOps & ML para Drilling Performance y Python & Mazmorras - YouTube](https://www.youtube.com/watch?v=sFvEbWltYZQ)
-  * [VidiGo PyData Madrid Abril 2024 @ Repsol LLMOps & ML par](https://vidigo.ai//share/summary/a45f3815b0ce)
+  * [VidiGo PyData Madrid Abril 2024 @ Repsol LLMOps & ML par](https://vidigo.ai/share/summary/a45f3815b0ce)
   * [PyData 마드리드 2024년 4월 @ Repsol 🐲 드릴링 성능과 파이썬 및 마즈모라스를 위한 LLMOps 및 ML | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522664)
 * [MLOps Now Nov: Complete Session - MLOps & LLMOps 2023 Trend - YouTube](https://www.youtube.com/watch?v=KP42-SevkxU)
   * [MLOps Now Nov: 전체 세션 - MLOps 및 LLMOps 2023 트렌드 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/342773?sId=KP42-SevkxU)
@@ -1783,6 +1783,9 @@ NLP
 * [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [검색 증강 생성이 뭐죠? AI 필수 지식 RAG, 15분만에 배우기 - YouTube](https://www.youtube.com/watch?v=m7cNjCVpSrw)
+* [Python RAG Tutorial (with Local LLMs): AI For Your PDFs - YouTube](https://www.youtube.com/watch?v=2TJxpyO3ei4)
+  * [VidiGo Python RAG Tutorial (with Local LLMs): AI For Your](https://vidigo.ai/share/summary/0323abe95372)
+  * [Python RAG 튜토리얼(로컬 LLM 포함): PDF를 위한 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522895)
 * [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
   * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
     * Claude 3 Sonnet v1
@@ -1959,7 +1962,7 @@ NLP
       * 모델이 훈련 데이터의 세부 정보를 너무 잘 학습하여 일반화하지 못하고 새로운 데이터에 적용하지 못할 수 있는 위험
       * 모델을 병합할 때 데이터 오염에 주의해야 하며, 믿을만한 벤치마크 도움이 실제로 얼마나 유용한지도 의문
 * [Nick Sorros - A Tour of Large Language Models - YouTube](https://www.youtube.com/watch?v=ksVED-hacKA)
-  * [VidiGo Nick Sorros - A Tour of Large Language Models.mp4](https://vidigo.ai//share/summary/e3c4074acaeb)
+  * [VidiGo Nick Sorros - A Tour of Large Language Models.mp4](https://vidigo.ai/share/summary/e3c4074acaeb)
     * LLM 훈련 과정의 단계 설명
       * Llm 훈련은 주로 사전 훈련(pretraining) 단계에서 많은 시간과 비용 소모. 이 단계는 다음 토큰을 예측하는 작업으로 구성
       * 사전 훈련 이외에도 지시사항 따르기(instruction fine tuning), 선호 학습(preference learning) 등의 단계
@@ -2244,6 +2247,9 @@ NLP
     * [rag-from-scratch/rag_from_scratch_1_to_4.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_1_to_4.ipynb)
     * [rag-from-scratch/rag_from_scratch_5_to_9.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
     * [rag-from-scratch/rag_from_scratch_10_and_11.ipynb at main · langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_10_and_11.ipynb)
+  * [RAG + Langchain Python Project: Easy AI/Chat For Your Docs - YouTube](https://www.youtube.com/watch?v=tcqEUSNCn8I)
+    * [VidiGo RAG + Langchain Python Project: Easy AI/Chat For Y](https://vidigo.ai/share/summary/556c19ed2212)
+    * [RAG + 랭체인 파이썬 프로젝트: 문서를 위한 쉬운 AI/챗 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/523011)
   * [LLMs를 활용한 문서 요약 가이드: Stuff, Map-Reduce, Refine 방법 총정리 - 테디노트](https://teddylee777.github.io/langchain/summarize-chain/)
   * [LangChain Expression Language(LCEL) 원리 이해와 파이프라인 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-lcel/)
   * [LangChain 에이전트(Agent)와 도구(tools)를 활용한 지능형 검색 시스템 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-agent/)
