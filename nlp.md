@@ -2610,6 +2610,7 @@ NLP
 * [WizardLM: LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath](https://github.com/nlpxucan/WizardLM)
   * [Huggingface KR | Facebook](https://www.facebook.com/groups/1272877526915876/?multi_permalinks=1489933088543651)
 * [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
+* [xionic-ko-llama-3-70b](https://github.com/sionic-ai/xionic-ko-llama-3-70b)
 * [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
   * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
