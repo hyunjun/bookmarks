@@ -311,6 +311,7 @@ C++
 * [Modern C++17 Tricks for Competitive Programming](https://www.youtube.com/watch?v=7qZ2O5-uLO8)
 * [TIL – C++ 폴드 표현식과 쉼표 연산자](https://surpreem.com/til-%ED%8F%B4%EB%93%9C-c-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EC%89%BC%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/)
 * [C++ - std::variant - jacking75](https://jacking75.github.io/Cpp_variant/)
+* [오랜만에 C++ : 같은 구조, 다른 데이터 다루기](https://velog.io/@joosing/%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-C-%EA%B0%99%EC%9D%80-%EA%B5%AC%EC%A1%B0-%EB%8B%A4%EB%A5%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0) variant
 
 # C++20
 * [C++ Weekly C++20 - YouTube](https://www.youtube.com/playlist?list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv)
