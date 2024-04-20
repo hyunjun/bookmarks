@@ -985,6 +985,9 @@ Programming Books
 * (NOT YET) [쉽고 빠르게 익히는 실전 LLM](https://www.hanbit.co.kr/store/books/look.php?p_code=B7077705203)
   * 탐라 문004.73-오78ㅅ
   * [쉽고 빠르게 익히는 실전 LLM](https://jhrogue.blogspot.com/2024/04/llm.html)
+* (NOT YET) [랭체인 완벽 입문 | 위키북스](https://wikibook.co.kr/langchain/)
+  * 제주 005.11-타37랭
+  * [langchain: 《랭체인 완벽 입문》 예제 코드](https://github.com/wikibook/langchain)
 
 # C
 
@@ -2141,6 +2144,8 @@ Programming Books
   * [Grokking Simplicity - A book on Functional Programming](https://grokkingsimplicity.com/)
   * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
   * [다시 쓰는 함수형 프로그래밍](https://velog.io/@teo/functional-programming)
+* (NOT YET) [함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/functional-programming)
+  * 제주 005.133-위228함
 
 # Game
 * [우리가 사랑한 한국 PC 게임](https://jhrogue.blogspot.com/2023/02/pc.html)
@@ -4247,6 +4252,9 @@ Programming Books
   * 탐라 문005.133-보58ㄹ
   * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
   * [rust-atomics-and-locks: Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
+* (NOT YET) [실전! 러스트로 배우는 리눅스 커널 프로그래밍 | 위키북스](https://wikibook.co.kr/rust-linux-kernel/)
+  * 제주 005.44-김42러
+  * [rust-linux-kernel](https://github.com/wikibook/rust-linux-kernel)
 
 # Scala
 
