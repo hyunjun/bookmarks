@@ -149,7 +149,6 @@ Java
 * [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 * [Top 5 Microservice courses for Java Developers to Learn Online in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-microservice-courses-for-java.html)
 * [A Guide to Microservices Design Patterns for Java | Diffblue](https://www.diffblue.com/blog/java/legacy%20code/software%20development/a-guide-to-microservices-design-patterns-for-java/)
-* [Cloud Native Java with the Micronaut Framework](https://www.infoq.com/articles/native-java-micronaut/)
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
 * [The Decline and Fall of Java on the Desktop Part 1 (1999-2005)](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
@@ -653,6 +652,9 @@ Java
 * [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thomas Vitale • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ovAcrTn6-dg)
 * [Securing the Supply Chain for Your Java Applications by Thomas Vitale - YouTube](https://www.youtube.com/watch?v=pS4cmqNN1QY)
   * Gradle, Sigstore, Cloud Native Buildpacks, Trivy, Syft, and Kyverno
+* [VDBUH2024 Pratik Patel - Cloud Cost Optimization for Java Developers - YouTube](https://www.youtube.com/watch?v=h4f-FunJ-w0)
+  * [VidiGo VDBUH2024 Pratik Patel - Cloud Cost Optimization](https://vidigo.ai/share/summary/6a75751818b1)
+  * [VDBUH2024 Pratik Patel - Java 개발자를 위한 클라우드 비용 최적화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526729)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -1060,6 +1062,9 @@ Java
 * [The Art of Pattern Matching in Java 21 by Alberto Cortina Eduarte - YouTube](https://www.youtube.com/watch?v=SUqK9IsKsFs)
 * [Java 21 and Beyond: A Roadmap of Innovations by Ana-Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=mWs6CXYbI6c)
 * [From Java 17 to 21: A Showcase of JDK Security Enhancements by Ana Maria Mihalceanu - YouTube](https://www.youtube.com/watch?v=tQxPRm6-PA8)
+* [VDBUH2024 - Laurențiu Spilcă - Maximizing Security with JDK: Understanding Built-in Capabilities - YouTube](https://www.youtube.com/watch?v=TcCkSbari7M)
+  * [VidiGo VDBUH2024 - Laurențiu Spilcă - Maximizing Securi](https://vidigo.ai/share/summary/d343feaf0921)
+  * [VDBUH2024 - 라우렌치우 스필카 - JDK로 보안 극대화: 기본 제공 기능 이해하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526646)
 
 # Java22
 * [Java 22 / JDK 22 출시(GA) | GeekNews](https://news.hada.io/topic?id=13904)
@@ -1818,6 +1823,7 @@ Java
   * [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://worace.works/2021/04/04/jar-hell-part-1-compilation-classpath-libraries/)
   * [Maven 외부 라이브러리 의존성 관리](https://velog.io/@joosing/maven-external-library-dependency-management)
 * [Micronaut Servlet - a New Micronaut Project for Servlet API Developers](https://www.infoq.com/news/2020/05/micronaut-servlet-released/)
+  * [Cloud Native Java with the Micronaut Framework](https://www.infoq.com/articles/native-java-micronaut/)
 * [MicroProfile](https://microprofile.io/)
   * [VDIASI23 - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud - YouTube](https://www.youtube.com/watch?v=KVXTLlQzuoc)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
