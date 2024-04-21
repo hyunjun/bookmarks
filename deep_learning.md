@@ -2908,6 +2908,8 @@ CVPR2016)
 * [StableVideo: ICCV 2023 StableVideo: Text-driven Consistency-aware Diffusion Video Editing](https://github.com/rese1f/StableVideo)
   * [TensorFlow KR | StableVideo: Text-driven Consistency-aware Diffusion Video Editing (2308, Zhejiang Unversity / Microsoft Asia) | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2117021161972264/)
 * [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+* [VASA-1 - Microsoft Research](https://www.microsoft.com/en-us/research/project/vasa-1/)
+  * [Microsoft 충격 발표… 사진 음성 주어지면 실시간으로 표정부터 시선, 감정, 머리 움직임까지 조절하는 영상 생성AI VASA-1 공개 - YouTube](https://www.youtube.com/watch?v=-3Y9qgCP2FY)
 * [VideoPoet: 구글의 제로샷(Zero-Shot) 비디오 생성 대규모 언어 모델](https://fornewchallenge.tistory.com/entry/VideoPoet-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%A0%9C%EB%A1%9C%EC%83%B7Zero-Shot-%EB%B9%84%EB%94%94%EC%98%A4-%EC%83%9D%EC%84%B1-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
 
 # Tutorial
