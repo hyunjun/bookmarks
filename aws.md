@@ -1592,6 +1592,7 @@ AWS
 * [AWS re:Invent 2023 - Best practices for serverless developers (SVS401) - YouTube](https://www.youtube.com/watch?v=sdCA0Y7QDrM)
 * [서버리스 사용, 이것부터 주의하세요 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/04/03/serverless-architecture/)
 * [AWS 서버리스 기초 : 네이버 블로그](https://blog.naver.com/gi_balja/223421350581)
+* [AWS 서버리스와 Nest.js, RDS 연동 : 네이버 블로그](https://blog.naver.com/gi_balja/223421657878)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
