@@ -496,11 +496,14 @@ Git
 * [GitHub의 저장소 기능을 확장할 수 있는 Blocks :: Outsider's Dev Story](https://blog.outsider.ne.kr/1658)
 
 # Book
-* [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 * [더북(TheBook): Git 교과서](https://thebook.io/080212/)
+* [확장본#3 - 깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%ED%99%95%EC%9E%A5%EB%B3%B8%233%20-%20%EA%B9%83%EC%98%B5%EC%8A%A4(GitOps)%EB%A5%BC%20%EC%97%AC%ED%96%89%ED%95%98%EB%A0%A4%EB%8A%94%20%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%EC%84%9C.pdf)
+* [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
 * [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
-* [확장본#3 - 깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%ED%99%95%EC%9E%A5%EB%B3%B8%233%20-%20%EA%B9%83%EC%98%B5%EC%8A%A4(GitOps)%EB%A5%BC%20%EC%97%AC%ED%96%89%ED%95%98%EB%A0%A4%EB%8A%94%20%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%EC%84%9C.pdf)
+* [Learning Git: A Hands-On & Visual Guide • Anna Skoulikari & Helen Scott • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=ahyF8e9qKBc)
+  * [VidiGo Learning Git: A Hands-On & Visual Guide • Anna Sko](https://vidigo.ai/share/summary/e809a26296b6)
+  * [Git 배우기: 실습 및 시각적 가이드 - Anna Skoulikari & Helen Scott - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526451)
 
 # Codespaces
 * [GitHub Codespaces](https://github.com/features/codespaces)
