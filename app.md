@@ -2397,6 +2397,8 @@ App
 * [윈도우 랜덤 배경 화면 이미지 파일 저장하기 : zelon's blog](https://blog.wimy.com/472/)
 * [윈도우 설치 후 추천프로그램(가볍고 빠른거 위주) : 클리앙](https://www.clien.net/service/board/useful/17903271?type=recommend)
 * [“인터넷 음지도 안전하게 서핑” 윈도우 ‘샌드박스’ 기능 활용하기 - ITWorld Korea](https://www.itworld.co.kr/news/329461)
+* [게임 및 저사양에 최적화 된 윈도우 11 플래티넘 OS 23H2 22631 2428 최신 빌드 (No TPM , Scure Boot, 4Gb) - YouTube](https://www.youtube.com/watch?v=rfkdd4OYgsE)
+  * [저사양 최적화 윈도우 11 Platinum OS 23H2 22631.2428 최신 빌드 - 인포헬풀](https://infohelpful.com/%EC%A0%80%EC%82%AC%EC%96%91-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9C%88%EB%8F%84%EC%9A%B0-11-platinum-os-23h2-22631-2428-%EC%B5%9C%EC%8B%A0-%EB%B9%8C%EB%93%9C/)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
