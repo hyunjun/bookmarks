@@ -203,6 +203,9 @@ Artificial Intelligence
   * GPU 분류: 신경망이 아닌 이미지 필터링으로 GPU에서 분류 수행
   * AI 아트: 숫자 이론과 카오스 동력학 시스템에서 생성된 이미지, 동영상, 사운드트랙 등
 * [V-JEPA: The next step toward advanced machine intelligence](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/) self supervised learning, AMI
+* [VDBUH2024 - Olimpiu Pop & Steve Poole - AI Showdown: The Good, The Glitchy, and The Risky - YouTube](https://www.youtube.com/watch?v=WAxBGqiWCI0)
+  * [VidiGo VDBUH2024 - Olimpiu Pop & Steve Poole - AI Showd](https://vidigo.ai/share/summary/706c30ce96cf)
+  * [VDBUH2024 - 올림피우 팝 & 스티브 풀 - AI 대결: 좋은 점, 결함, 그리고 위험한 점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526867)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
