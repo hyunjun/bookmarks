@@ -274,6 +274,9 @@ Business
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [Social Contracts for Engineering Teams • Kate Andrews • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=1miIiYA1lNg)
+* [World-class Engineering for an Octopus • Michael Noonan • YOW! CTO 2019 - YouTube](https://www.youtube.com/watch?v=exUJ4kQ0t1Q)
+  * [VidiGo World-class Engineering for an Octopus • Michael N](https://vidigo.ai/share/summary/6c945633c850)
+  * [문어를 위한 세계적 수준의 엔지니어링 - 마이클 누난 - YOW! CTO 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/524093)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [할 말을 안해서 사고가 나는 경우 > 안 할 말도 해서 사고가 나는 경우](https://www.facebook.com/cjunekim/posts/pfbid0XZFKUXc71BDb8EMZbB9e2eSd1uq172bW7t2i3odBbtZFCVP81x7uep43snd2KNQDl) 항공업계 이야기
