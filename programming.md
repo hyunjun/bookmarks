@@ -1777,6 +1777,9 @@ Programming
 * [글로벌 칼럼 | 클라우드 아키텍트는 AI로 대체될까? - ITWorld Korea](https://www.itworld.co.kr/news/274585)
 * [Confessions of an Enterprise Architect • Scott Shaw • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=I1IrRu2SD90)
 * [The Role of a System Architect - DEV Community](https://dev.to/jesalg/the-role-of-a-system-architect-1pgl)
+* [VDBUH2024 - Simon Brown - Five things every developer should know about software architecture - YouTube](https://www.youtube.com/watch?v=wcrloUXSFgY) architect
+  * [VidiGo VDBUH2024 - Simon Brown - Five things every deve](https://vidigo.ai/share/summary/f821f67b51d4)
+  * [VDBUH2024 - Simon Brown - 모든 개발자가 소프트웨어 아키텍처에 대해 알아야 할 5가지 사항 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526804)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
@@ -2211,6 +2214,9 @@ Programming
 * [포트원이 여러 PG사의 인터페이스를 연동하는 방법 - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-03/tgs/) gRPC, DDD, Typed Error
 * [Reddit's Architecture: The Evolutionary Journey](https://blog.bytebytego.com/p/reddits-architecture-the-evolutionary)
   * [Reddit의 아키텍처는 어떻게 진화했을까?](https://velog.io/@wisepine/Reddit%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%84%ED%99%94%ED%96%88%EC%9D%84%EA%B9%8C)
+* [VDBUH2024 - Ionuț Baloșin - A Practical Use Case of Software Architecture Evolution - YouTube](https://www.youtube.com/watch?v=Yo1tNeaDQB0)
+  * [VidiGo VDBUH2024 - Ionuț Baloșin - A Practical Use Case](https://vidigo.ai/share/summary/653e0469681a)
+  * [VDBUH2024 - 이오누치 발로신 - 소프트웨어 아키텍처 진화의 실제 사용 사례 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526549)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
