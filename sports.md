@@ -241,6 +241,8 @@ Sports
 * [이강인의 드리블 성공률이 유럽에서 1등인 이유(진짜 1등임) - YouTube](https://www.youtube.com/watch?v=vcGdz0crqyE) 패킹 지수
 * [PyData Online - An AI assistant for football analytics - Petar Veličković (Google DeepMind) - YouTube](https://www.youtube.com/watch?v=JGINjfmbXIM)
 * [240305 축구의 기대득점과 골결정력에 .. : 네이버블로그](https://blog.naver.com/kyksir/223373433084)
+* [football_analysis: This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object detection, Kmeans for pixel segmentation, optical flow for motion tracking, and perspective transformation to analyze player movements in football videos](https://github.com/abdullahtarek/football_analysis)
+  * [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python - YouTube](https://www.youtube.com/watch?v=neBZ6huolkg)
 * [TacticAI: an AI assistant for football tactics | Nature Communications](https://www.nature.com/articles/s41467-024-45965-x)
   * [TacticAI: an AI assistant for football tactics - Google DeepMind](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/)
   * Google DeepMind와 리버풀 FC의 협력으로 개발된 TacticAI가 어제 Nature Communications에 발표
