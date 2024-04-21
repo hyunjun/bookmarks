@@ -1398,6 +1398,7 @@ Git
       15. AI 활용으로 창의적 역할 및 시스템 아키텍트로 발전
         * AI를 활용할 때, 더 창의적으로 활동하며 시스템 아키텍트처럼 보이는 세상으로 접근해야
         * 메일 주소의 정규식을 기억하기 위해 문서를 찾아보는 것이 아니라, 노동자로서의 역할을 한정짓지 않게 될 것이다. 이것이 흥미롭고, 기대
+  * [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI :: Outsider's Dev Story](https://blog.outsider.ne.kr/1717)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
