@@ -988,6 +988,9 @@ Programming Books
 * (NOT YET) [랭체인 완벽 입문 | 위키북스](https://wikibook.co.kr/langchain/)
   * 제주 005.11-타37랭
   * [langchain: 《랭체인 완벽 입문》 예제 코드](https://github.com/wikibook/langchain)
+* (NOT YET) [랭체인으로 LLM 기반의 AI 서비스 개발하기 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN004014)
+  * 탐라 문004.73-서79ㄹ
+  * [080413: <랭체인으로 LLM 서비스 만들기> 소스 코드](https://github.com/gilbutITbook/080413)
 
 # C
 
@@ -4608,6 +4611,9 @@ Programming Books
   * 한라 004.73-락56ㅅ
   * [practical-ml-vision-book](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)
   * [practical-ml-vision-book-ko: 《실전! 컴퓨터비전을 위한 머신러닝》 실습 코드](https://github.com/ychoi-kr/practical-ml-vision-book-ko)
+* (NOT YET) [파이토치 트랜스포머를 활용한 자연어 처리와 컴퓨터비전 심층학습 | 위키북스](https://wikibook.co.kr/pytorchtrf/)
+  * 탐라 문004.735-윤222ㅈ
+  * [pytorchtrf: 《파이토치 트랜스포머를 활용한 자연어 처리와 컴퓨터비전 심층학습》 예제 코드](https://github.com/wikibook/pytorchtrf)
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
