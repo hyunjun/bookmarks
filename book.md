@@ -2096,6 +2096,9 @@ Book
 * [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
   * ★☆☆☆☆ 2023.08.05 책을 쓴다는 게 얼마나 어려운 일인지 알기에 혹평을 하고 싶지 않지만 너무 부실하다. 여행 책이라고 보기엔 각 지역마다 소개된 장소가 몇 개 없고, 워케이션에 대한 책이라고 보기엔 뒤에 몇 명의 인터뷰가 전부라 어느 쪽으로 봐도 부족하다는 생각이 들고 아쉽다.
   * 우당 문325.342-이79ㅇ
+* [세상에 이런 국경](https://www.readersnews.com/news/articleView.html?idxno=107714)
+  * ★★★☆☆ 2024.04.21 enclave, exclave(둘 다 월경지로 번역)로 시작해 생각보다 다양한 여러가지 국경의 형태 및 간략한 역사적인 유래를 쉽게 볼 수 있다. 대부분 관광지가 아니긴 하지만, 혹시 근처에 갈 일이 생긴다면 방문해보고 싶은 마음이 들 정도로 흥미로운 이야기들이 많다
+  * 한라 980-조83ㅅ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
