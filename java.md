@@ -175,6 +175,9 @@ Java
       * 이후에는 GraphQL Federation로 개선
       * Java 버전도 8에서 17로 마이그레이션
       * 오픈소스 Spring Boot도 그대로 사용
+* [How Netflix Really Uses Java - YouTube](https://www.youtube.com/watch?v=BaUrpq_7KMk)
+  * [VidiGo How Netflix Really Uses Java.mp4](https://vidigo.ai/share/summary/58b210aaa708)
+  * [넷플릭스가 실제로 자바를 사용하는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/531301)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
