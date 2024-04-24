@@ -928,6 +928,8 @@ Business
 * [서버와 계정계를 잇는 뱅킹API 개발자 이야기](https://brunch.co.kr/@kakaobankplus/28) 카카오뱅크
 * [개발자 채용공고의 숨은 의도](https://brunch.co.kr/@leehosung/59)
 * [CNCF 플랫폼 백서(White Paper) - CNCF](https://sysnet4admin.gitbook.io/cncf/cloud-native/kubernetes-k8s/architecture/platform_whitepaper) 채용 공고와는 무관하지만 플랫폼 팀의 역할에 대해 잘 쓴 글
+* [개발 파트 소개 - 1. 백엔드 파트](https://tech.inflab.com/20240422-be-part/)
+* [개발 파트 소개 - 2. 웹 프론트엔드 파트](https://tech.inflab.com/20240423-fe-part/)
 
 ## 채용 onboarding
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
