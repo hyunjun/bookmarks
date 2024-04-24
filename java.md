@@ -1052,6 +1052,9 @@ Java
   * 스레드를 사용할 때 더 많은 요청을 처리하면서 컨텍스트 스위칭 비용을 줄이기 위해 훨씬 가벼운 Virtual Thread의 구조와 동작 원리를 보여주고 Thread, Kotlin Coroutine, Reative와 비교해서 성능이 얼마나 차이 나는지도 보여줌
 * [JDK 21의 신기능 Virtual Thread 알아보기 / 제4회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/12/22/techmeet-virtualthread/)
 * [Virtual Thread의 기본 개념 이해하기](https://d2.naver.com/helloworld/1203723)
+* [4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’ - YouTube](https://www.youtube.com/watch?v=BZMZIM-n4C0)
+  * [VidiGo 4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’.mp4](https://vidigo.ai/share/summary/3205d4f588b5)
+  * [4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536515)
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
