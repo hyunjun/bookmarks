@@ -336,6 +336,7 @@ AWS
 * [Terraform, GitHub Actions, AWS Proton을 사용하여 IaC 및 CI/CD 파이프라인 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scaling-iac-and-ci-cd-pipelines-with-terraform-github-actions-and-aws-proton/)
   * [aws-proton-sample-services: Sample application code for AWS Proton](https://github.com/aws-samples/aws-proton-sample-services)
 * [AWS EC2, Route53부터 Nginx, PM2 무중단 배포까지](https://blog.naver.com/gi_balja/223037996328)
+* [AWS 에서 Amazon Linux Nginx TCP Stream Proxy 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2024/04/21/aws-%EC%97%90%EC%84%9C-amazon-linux-nginx-tcp-stream-proxy-%EC%84%A4%EC%A0%95/)
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
 * [AWS’s Egregious Egress](https://blog.cloudflare.com/aws-egregious-egress/)
 * [AWS 외부로의 데이터 전송 요금 인하 | GeekNews](https://news.hada.io/topic?id=5450) egress
@@ -1462,6 +1463,7 @@ AWS
 * [AWS Glue Job 리소스 사용량에 대한 알람 및 리포팅 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automate-alerting-and-reporting-for-aws-glue-job-resource-usage/)
 * [AWS Glue와 Amazon Athena를 활용한 MongoDB 데이터 분석 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/comparing-mongodb-data-analysis-methods-using-aws-glue-and-amazon-athena/)
 * [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
+* [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화, 2부: Grafana를 사용한 실시간 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-2-enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
@@ -2028,6 +2030,7 @@ AWS
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (2) - NLB 동작 원리](https://alden-kang.tistory.com/8)
   * AWS의 대표적인 ALB와 NLB를 서버와 클라이언트에서 직접 패킷 덤프를 보면서 뭐가 다른지 비교 설명
   * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
+* [애플리케이션 로드 밸런서를 위한 mTLS 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introduction-mtls-for-application-loadbalancer/)
 * [Application Load Balancer for SAP Enterprise Portal | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/elb-application-load-balancer-sap-portal/)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
@@ -2342,6 +2345,7 @@ AWS
 * [Amazon Redshift 감사 로그 검색을 위한 데이터 파이프라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/redshift-audit-log-data-pipeline/)
 * [Amazon Redshift – Amazon Q를 포함한 새로운 AI 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
 * [Amazon Redshift Serverless에서 SQL 쿼리 스케줄링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scheduling-with-query-editor-v2-on-amazon-redshift-serverless/)
+* [Amazon Redshift: 벤치마크 기반의 가격대비 성능 비교 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-lower-price-higher-performance/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
