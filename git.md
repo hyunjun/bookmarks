@@ -300,6 +300,7 @@ Git
   * 커밋에 시크릿이 포함된 경우 푸시 자체를 거절하는 Push protection 기능이 공개 저장소에서 무료로 이용 가능
 * [Keep all your packages up to date with Dependabot | The GitHub Blog](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
 * [GitHub Repository Rules are now generally available - The GitHub Blog](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/)
+* [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties :: Outsider's Dev Story](https://blog.outsider.ne.kr/1718)
 * [Metrics for issues, pull requests, and discussions - The GitHub Blog](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
   *  저장소의 이슈, 풀 리퀘스트, 디스커션에서 첫 반응에 걸리는 시간, 종료될 때까지의 시간, 대답하는 데 걸리는 시간 등 통계를 볼 수 있는 Issue Metrics Action GitHub Actions를 GitHub에서 만들어서 제공
   * [issue-metrics: Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.](https://github.com/github/issue-metrics)
