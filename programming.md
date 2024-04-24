@@ -1057,6 +1057,7 @@ Programming
 * [Common Mistakes in Agile Implementations](https://medium.com/not-so-technical/common-mistakes-in-agile-implementations-21a6d999bc91)
 * [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
 * [같이, 스프린트 어떠세요?](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
+* [2주 스프린트라는 굴레. 스크럼 개발 프로세스에서 반복되는 짧은 개발 주기마다 지속적인 품질과… | by Seunghoon Lee | 원티드랩 기술 블로그 | Apr, 2024 | Medium](https://medium.com/wantedjobs/2%EC%A3%BC-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%9D%BC%EB%8A%94-%EA%B5%B4%EB%A0%88-613a1dd16012)
 * [일을 더 잘하기 위한 애자일(Agile) 실천](https://medium.com/wantedjobs/%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0-7cb05994975b)
 * [일하지 않는 사람은 가라](https://www.popit.kr/%EC%9D%BC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B0%80%EB%9D%BC/)
 * [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
@@ -2022,6 +2023,9 @@ Programming
 * [**Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud**](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 * [Cloud Design Patterns— Explained Simply](https://medium.com/@rahatshaikh/cloud-design-patterns-explained-simply-113c788b33ff)
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
+* [You Keep Using That Word • Sam Newman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rZxIzrjvSGg) event driven, asynchronous, message queue
+  * [VidiGo You Keep Using That Word • Sam Newman • GOTO 2023.](https://vidigo.ai/share/summary/38a45beea29d)
+  * [그 단어를 계속 사용하는 당신 - 샘 뉴먼 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536409)
 * [Modern-Day Architecture Design Patterns for Software Professionals | by Tanmay Deshpande | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
   * Circuit Breaker, CQRS, Event Sourcing, Sidecar, Backend-for-Frontend, and Strangler
 * [Modern API Development and Deployment, from API Gateways to Sidecars - YouTube](https://www.youtube.com/watch?v=0mf0wxl0YxQ)
