@@ -1055,6 +1055,7 @@ Web
 * [How To Add Javascript To HTML Page | by React Dojo | Jul, 2022 | Medium](https://akbar-alizadeh5.medium.com/javascript-where-to-aba0ac91054f)
 * [background-image 대신 img 태그를 사용하자](https://careerly.co.kr/comments/77523)
 * [Your website does not need JavaScript - Amy Kapernick - Copenhagen DevFest 2023 - YouTube](https://www.youtube.com/watch?v=wKU65gV6FSA)
+* [노드 간의 포함관계를 확인하는 contains - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/912)
 * [HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
@@ -2058,6 +2059,7 @@ Web
 * [Web Vitals](https://web.dev/vitals/)
   * [Using the Web Vitals extension to debug Core Web Vitals issues](https://web.dev/debug-cwvs-with-web-vitals-extension/)
     * Web Vitals 익스텐션이 업데이트되어 콘솔에서 JSON으로 출력하던 정보를 LCP, CLS, FID, INP로 나누어서 출력해서 문제를 더 쉽게 파악할 수 있도록 개선
+  * [네이버 통합 검색의 웹 성능 - 데이터 수집과 시각화](https://d2.naver.com/helloworld/9227596)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
   * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
