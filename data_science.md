@@ -1064,6 +1064,8 @@ Data Science
         * 데이터 처리하여 *개인화*를 제공하고 있는데, **세컨드 디바이스** 문제 존재
         * 서버와 클라이언트 간 *비동기* 학습 구조로, 모델 갱신빈도 상승 중
         * 유저 개인정보 보호를 위해 **세션** 동기화 필요하며, 릴리스 후 **AB테스트**와 **학습 갱신**이 이루어짐
+* [아자르에서 AI 기반 추천 모델의 타겟 지표를 설정하는 방법 (feat. 아하 모멘트) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/04/26/azar-aha-moment.html)
+* [추천 시스템 개선을 위한 Feature Store 도입기 - RIDI Corp.](https://ridicorp.com/story/ridi-personalization-system-feature-store/)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
