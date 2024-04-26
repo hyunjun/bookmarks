@@ -709,6 +709,7 @@ Java
 * [A Java 8 lambda is all you need for distributed background jobs! by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=R0Z4E0ybmjU)
 * [10분 테코톡 깃짱, 이리내의 람다와 스트림 - YouTube](https://www.youtube.com/watch?v=4ZtKiSvZNu4)
 * [Mastering the new functional Java | by The Bored Dev | codeburst](https://codeburst.io/mastering-the-new-functional-java-2eb2f7472079)
+* [자바와 함수형 프로그래밍](https://velog.io/@hyemin916/%EC%9E%90%EB%B0%94%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
