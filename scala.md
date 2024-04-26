@@ -399,6 +399,7 @@ Scala
 * [Our journey begins](https://mhammons.hashnode.dev/our-journey-begins)
 * [Crossing those hills](https://mhammons.hashnode.dev/crossing-those-hills)
 * [Two-phase consensus with functional Scala | by Jonas Chapuis | Mar, 2024 | Medium](https://jonas-chapuis.medium.com/two-phase-consensus-with-functional-scala-5dc29388ac5a)
+* [Kalix tutorial: Building invoice application - Scala](https://scalac.io/blog/kalix-tutorial-building-invoice-application/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1404,7 +1405,9 @@ Scala
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
   * [Scala at Scale at Databricks - Li Haoyi - YouTube](https://www.youtube.com/watch?v=UiN6yZPAYww)
 * [scalar-conf.com](http://scalar-conf.com/)
-* [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
+  * [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
+  * [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=sNos8aGjJMA)
+    * [VidiGo Martin Odersky SCALA HAS TURNED 20 - Scalar Confe](https://vidigo.ai/share/summary/c20b612b4e18)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1762,6 +1765,7 @@ Scala
 * [orchestrator4s: Simple library to orchestrate yours applications easily](https://github.com/joacovela16/orchestrator4s)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [ox: Safe direct-style concurrency and resiliency for Scala on the JVM](https://github.com/softwaremill/ox/)
+  * [Safe direct-style Scala: Ox 0.1.0 released](https://softwaremill.com/safe-direct-style-scala-ox-0-1-0-released/)
 * [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
 * [Pass4s is a Scala library providing an abstract layer for cross app messaging](https://github.com/ocadotechnology/pass4s)
   * [Functional messaging in Scala with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-basics/)
