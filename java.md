@@ -557,6 +557,9 @@ Java
 * [Top 20 Books Java Programmers Can Read](https://javarevisited.blogspot.com/2017/12/top-20-java-books-of-2017-which-you-can-read-in-2018.html)
 * [Cloud Native Spring in Action • Thomas Vitale & Josh Long • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=dz6RwoAzccM)
   * [cloud-native-spring-in-action: 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)](https://github.com/ThomasVitale/cloud-native-spring-in-action)
+  * [Cloud Native Spring in Action • Thomas Vitale & Josh Long - YouTube](https://www.youtube.com/watch?v=6CNdnfvFd-g)
+    * [VidiGo Cloud Native Spring in Action • Thomas Vitale & Jo](https://vidigo.ai/share/summary/b7e17a4b80f7)
+    * [클라우드 네이티브 스프링의 실제 사용 - 토마스 비탈레 & 조쉬 롱 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/549363)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
