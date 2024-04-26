@@ -791,6 +791,7 @@ Deep Learning
 * [Deep Learning by Open API | Pega Devlog](https://jehyunlee.github.io/2022/11/29/Python-DS-124-kierlecture8/)
 * [역전파의 종말? 갓프리 힌튼의 Forward-Forward 알고리즘](https://www.philgineer.com/2023/02/forward-forward.html)
 * [Digital Insight 2023-1 파운데이션 모델의 이해와 미래 전망 | 한국지능정보사회진흥원](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=25400)
+* [숏클립 생성을 위한 하이라이트 검출 기술 개발기](https://d2.naver.com/helloworld/7136716) 행동 구간 검출(Action Localization), 영상 요약(Video Summarization), 텍스트 기반 장면 탐색(Moment Retrieval), 행동 인식(Action Recognition)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
