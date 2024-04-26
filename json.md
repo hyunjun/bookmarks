@@ -374,6 +374,7 @@ Json
 * [2분만에 배우는 YAML - YouTube](https://www.youtube.com/watch?v=1GRKklx4xeo)
 * [How I learned to stop worrying and love the YAML | lbr.](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
 * [YAML의 숨은 오류를 미리 막아주는 7가지 팁 - ITWorld Korea](https://www.itworld.co.kr/news/251080)
+* [YAML의 거의 모든 것 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/04/24/everything-for-yaml/)
 * [dyff: /ˈdʏf/ - diff tool for YAML files, and sometimes JSON](https://github.com/homeport/dyff)
 * [snakeyaml / snakeyaml — Bitbucket](https://bitbucket.org/snakeyaml/snakeyaml/)
 * [YAML Validator](https://codebeautify.org/yaml-validator)
