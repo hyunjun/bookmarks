@@ -306,6 +306,7 @@ Writing
   * [개발 직무 지원자를 위한 글쓰기 조언 | GeekNews](https://news.hada.io/topic?id=13662)
 * [practice - 기술 작가와 함께 알아가는 테크니컬 라이팅 - 비문학 정보전달 글쓰기의 기본](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#37298e1c32f04906832782f6a1fb593a)
 * [보이지 않는 로직, 읽을 수 있는 문서로 만들기!](https://techblog.lycorp.co.jp/ko/turn-invisible-logic-into-readable-document) 정책서 policy
+* [**문서 작성 및 관리 노하우를 알리는 행사, Technical Documentation Day 참석 후기**](https://techblog.lycorp.co.jp/ko/internal-event-for-technical-writing-and-document-engineering)
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
 * [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
