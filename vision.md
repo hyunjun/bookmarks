@@ -752,6 +752,7 @@ Vision
 * [Automatic Document Scanner using OpenCV | LearnOpen](https://learnopencv.com/automatic-document-scanner-using-opencv/)
 * [Python Crawling 쇼핑몰 크롤링시 뭉쳐있는 이미지 OpenCV로 crop해서 저장하기](https://creeraria.tistory.com/46)
 * [Windows에 설치된 Rust에서 OpenCV 설치, 사용하는 방법](https://webnautes.tistory.com/2239)
+* [두 점 사이의 각도를 구하는 OpenCV Python 예제 코드 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2327)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [GoCV - Golang Computer Vision Using OpenCV 4](https://gocv.io/)
