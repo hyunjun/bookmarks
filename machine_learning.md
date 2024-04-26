@@ -1369,6 +1369,7 @@ Machine Learning
   * 두 저장소 모두 푸쉬, 새로운 모델 릴리즈에 따라 자동으로 GKE 클러스터로 도커 이미지를 빌드한 뒤 배포하는 GitHub Action 도 함께 작성
 * [nvidia-ml-py를 사용해서 kubernetes에 배포되어 있는 인스턴스에서 MIG 메모리 사용량 체크하기 | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/nvidia-ml-py%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-kubernetes%EC%97%90-%EB%B0%B0%ED%8F%AC%EB%90%98%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90%EC%84%9C-mig-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0-c73a70d700fa)
 * [머신러닝 시스템 디자인 패턴](https://github.com/mercari/ml-system-design-pattern/blob/master/README_ko.md)
+* [나도 모르는 새 이미 쓰고 있던, 머신러닝 시스템 디자인 패턴 1. - 모두의연구소](https://modulabs.co.kr/blog/ml_system_pattern/)
 * [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
 * [2205.02302 Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 * [PyData Chicago: Building an MLOps platform at HelloFresh, by Dr. Erik Widman - YouTube](https://www.youtube.com/watch?v=W_tyjkHbqBk)
