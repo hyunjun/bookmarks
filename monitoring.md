@@ -117,12 +117,21 @@ Monitoring
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
 * [caretta](https://www.facebook.com/groups/1691590384455961/?multi_permalinks=3554779914803656&hoisted_section_header_type=recently_seen)
 * [explore-logs: Repo for the Loki log exploration app](https://github.com/grafana/explore-logs)
+  * LogQL 없이 Loki에 저장된 로그를 (미리 정리해 둔 것처럼) 탐색할 수 있는 그라파나의 기능 (Grafana 11 + Loki 3.0 필요)
+  * [- Logs - Explore - Grafana](https://play.grafana.org/a/grafana-lokiexplore-app/explore)
   * [Find your logs data with Explore Logs: No LogQL required! | Grafana Labs](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 * [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [Grafana Alloy | OpenTelemetry Collector distribution](https://grafana.com/oss/alloy-opentelemetry-collector/)
+  * 몇 주전 GrafanaCON에서 공개된 텔레메트리 데이터 통합도구
+    * 자체 기능 구현 보다는, (사실상 표준인) 프로메테우스와 오픈텔레메트리 플러그인들을 내장하여 제공하는 형태(그라파나의 ‘빅 텐트’ 전략?)
+    * 텔레메트리 데이터 전송을 위해 서버에 설치되는 프로그램을 알로이 하나로 통합(일부지만)
+    * 예를 들어 서버 메트릭 수집을 위해 node-exporter, prometheus(or OTel)을 설치했다면, Alloy 하나만 설치하고
+      * Alloy에 내장된 exporter, prometheus 컴포넌트를 사용하는 방식
   * [Introducing an OpenTelemetry Collector distribution with built-in Prometheus pipelines: Grafana Alloy | Grafana Labs](https://grafana.com/blog/2024/04/09/grafana-alloy-opentelemetry-collector-with-prometheus-pipelines/)
     * Grafana가 OpenTelemetry Collector인 Grafana Alloy 공개
-    * Alloy는 Prometheus와 OpenTelemetry 모두와 호환되므로 기존 시스템에 유연하게 적용 가능
+    * Alloy는 Prometheus와 OpenTelemetry 모두와 호환되므로 기존 시스템에 유연하게 적용
+  * [GrafanaCON 2024 Keynote: Grafana 11, Loki 3.0, Alloy, Golden Grot Awards, and more | Grafana - YouTube](https://www.youtube.com/watch?v=L_GHahMOWEY)
+    * [VidiGo GrafanaCON 2024 Keynote: Grafana 11, Loki 3.0, All](https://vidigo.ai/share/summary/a87d5585044e)
 * [Grafana as code: A complete guide to tools, tips, and tricks](https://grafana.com/blog/2022/12/06/a-complete-guide-to-managing-grafana-as-code-tools-tips-and-tricks/)
   * Grafana 대시보드를 코드로 관리하는 다양한 도구 소개
   * Grafana Terraform 프로바이더나 Ansible 컬렉션은 Terraform이나 Ansible에는 익숙하지만 Grafana에는 아직 익숙지 않은 사람에게 권장
@@ -323,6 +332,9 @@ Monitoring
 * [**GitLab 밋업으로 알아보는 Observability 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공**](https://insight.infograb.net/blog/2023/05/25/gitlab-korea-observability/)
   * [Observability 개념과 도구 발전과정 | GeekNews](https://news.hada.io/topic?id=10709)
 * [Book Observability Engineering :: Outsider's Dev Story](https://blog.outsider.ne.kr/1688)
+* [Lessons from a Hyperscaler • Casey Rosenthal • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=LjmpFz4xhss)
+    * [VidiGo Lessons from a Hyperscaler • Casey Rosenthal • GOT](https://vidigo.ai/share/summary/b90c047466d9)
+    * [하이퍼스케일러가 주는 교훈 - Casey Rosenthal - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/540893)
 * [Domain-Oriented Observability](https://martinfowler.com/articles/domain-oriented-observability.html)
   * [모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기](https://engineering.ab180.co/stories/monitoring-like-martin-fowler-domain-oriented-observability)
     * ab180에서 애플리케이션 내에서 로그와 메트릭을 수집하기 위해서 비즈니스 로직에 관련 로직이 포함되어 있고 테스트에서 이에 대한 검증도 포함되어 있었는데 최근에 Martin Fowler가 작성한 Domain-Oriented Observability를 사내에 소개하고 이 개념으로 코드를 수정한 과정을 설명한 글
