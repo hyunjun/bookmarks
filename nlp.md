@@ -1574,6 +1574,7 @@ NLP
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 * [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
 * [Perplexed by Game of Thrones. A Song of N-Grams and Language Models](http://nlp.yvespeirsman.be/blog/song-of-ngrams-and-lms/)
+* [질문할 때마다 다른 대답을 주는 LLM, 무슨 비밀이 숨어있을까? | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9622)
 * [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
   * [Character-Aware Neural Language Models](https://github.com/yoonkim/lstm-char-cnn)
   * CNN과 Highway Network를 사용 (입력은 LSTM)해서 State-of-Art의 성과
