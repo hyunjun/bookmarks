@@ -226,6 +226,9 @@
 * [자바 프로젝트 3개 코틀린 점진적 전환기(feat. lombok 됩니다.) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kotlin-migration/)
 * [Perils of duplicate finding - Jake Wharton](https://jakewharton.com/perils-of-duplicate-finding/)
 * [Seven recipes to understand flows and asynchrony in Kotlin | by Tom Colvin | Mar, 2024 | ProAndroidDev](https://proandroiddev.com/seven-recipes-to-understand-flows-and-asynchrony-in-kotlin-1bd7fe041480)
+* [10 Reasons to Try Kotlin Multiplatform • Pamela Hill • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=0L1VFm7o4MU)
+  * [VidiGo 10 Reasons to Try Kotlin Multiplatform • Pamela Hi](https://vidigo.ai/share/summary/484b5499cda4)
+  * [Kotlin 멀티플랫폼을 사용해야 하는 10가지 이유 - Pamela Hill - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/549669)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
