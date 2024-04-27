@@ -2023,6 +2023,7 @@ Docker
       * 처음부터 멀티 클러스터 지원이 필요, 더 쉽게 오케스트레이션 하려면 단일 컨트롤 플레인이 필요했기에 Argo CD를 만들게 되었고 플랫폼 팀과 애플리케이션 팀이 협업해서 역량을 강화하기 위해 GUI 중심으로 만들기로 결정
       * Intuit에서 점점 Kubernetes로 운영하면서 장애의 50%정도가 배포때 발생하고 복구하는게 걸리는 시간(MTTR)을 단축하는데 실패했다는 걸 깨닫게 됨
       * 이 문제 해결을 위해 블루/그린과 카나리 배포 전략을 소개하게 하고 Argo Rollouts 제작
+  * [Argo Rollout 을 사용한 블루/그린 배포 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/7991)
   * [Argo Workflows | Argo](https://argoproj.github.io/workflows/)
     * [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
     * [레거시 교체! 달리는 기차의 바퀴를 갈아 끼우다](https://ykarma1996.tistory.com/198)
