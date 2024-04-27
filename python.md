@@ -2646,6 +2646,8 @@ Python
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 * [exchangelib - Python client for Microsoft Exchange Web Services (EWS)](https://github.com/ecederstrand/exchangelib)
 * extract_attachments.py [A simple (and probably naive) script to extract attachments from .eml files for those of us who don't use software email clients](https://gist.github.com/cdunklau/9001357)
+* [imap_tools: Work with email by IMAP](https://github.com/ikvk/imap_tools)
+  * [Reading Emails in Python with IMAP Tools - YouTube](https://www.youtube.com/watch?v=KlnL4JFNXbQ)
 * smtplib
   * [practice - basic example](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-python_smtplib-md)
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
