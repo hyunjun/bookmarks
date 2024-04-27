@@ -1554,6 +1554,7 @@ Linux
   * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
 * [Zellij](https://zellij.dev/)
   * [zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
+  * [What the hell is Zellij? - YouTube](https://www.youtube.com/watch?v=ZPfQS5FHNYQ)
 
 ## Tmux command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
