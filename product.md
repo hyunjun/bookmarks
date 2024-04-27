@@ -184,6 +184,8 @@ Product
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
+* [펀키스 공식 홈페이지](https://funkeys.co.kr/)
+* [GEONWORKS](https://geon.works/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
 * [HHKB USB-C 개조기 1부](https://blog.aioo.ooo/hhkb-usb-c-diy-1/)
@@ -219,6 +221,8 @@ Product
 * [Sensel Morph](https://morph.sensel.com/)
   * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
 * [Sonder keyboard](https://www.sonderdesign.com/)
+* [스웨그키 공식 온라인 스토어](https://www.swagkey.kr/)
+* Thinkway TV99 [가성비 키보드 전쟁 - YouTube](https://www.youtube.com/watch?v=v9mR7c3AGkU)
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 * [The WhiteFox Keyboard | Mechanical Keyboards | Custom Layout Mechanical Keyboards | Drop](https://drop.com/buy/the-whitefox-keyboard)
 
