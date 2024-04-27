@@ -439,6 +439,8 @@ Web
 * [가볍지 않은 Web 프로그래밍](https://realhanbit.co.kr/books/110/pages/1020/preview)
 * [더북(TheBook): 모두의 HTML5 & CSS3](https://thebook.io/006943/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [front-end-handbook-2024: A guide to modern front-end web development / engineering](https://github.com/FrontendMasters/front-end-handbook-2024)
+  * [The (Frontend||UI||UX) Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [Web Browser Engineering](https://browser.engineering/index.html)
   * 웹 브라우저를 Python으로 구현하는 온라인 튜토리얼
