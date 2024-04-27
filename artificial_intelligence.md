@@ -564,3 +564,11 @@ Artificial Intelligence
   * 이 벡터 데이터베이스를 이용하면 모델에 조회한 내용을 저장해 두고 사용 가능
 * [Weaviate - vector database](https://weaviate.io/)
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
+
+# Video
+* [VIGGLE](https://viggle.ai/)
+  * [AI로 사진이 춤을 하게 할 수 있습니다 | Viggle AI를 활용하여 이미지에 모션을 부여하는 방법 - YouTube](https://www.youtube.com/watch?v=lzbVtZwkU3w)
+
+# Webtoon
+* [Lore Machine](https://www.loremachine.ai/)
+  * [소설을 웹툰으로 만드는 AI 등장..어렵고 복잡한 프롬프트에 지쳤다면 원클릭 AI시대의 도래 - YouTube](https://www.youtube.com/watch?v=omwekbyuM5Q)
