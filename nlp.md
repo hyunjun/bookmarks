@@ -2461,6 +2461,8 @@ NLP
       * [Meta, 다음 주에 Llama 3의 소형 버전 출시 예정 | GeekNews](https://news.hada.io/topic?id=14215)
     * [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
       * [Meta, Llama 3 공개 | GeekNews](https://news.hada.io/topic?id=14388)
+    * [Llama 3 출시 : AI 전쟁의 서막 (메타 라마 시리즈, 2024 LLMs)](https://modulabs.co.kr/blog/llama-3-intro/)
+    * [라마 3 핵심 정리 (8b, 70b) - YouTube](https://www.youtube.com/watch?v=bDUXAh2UhGA)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
