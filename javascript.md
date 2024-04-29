@@ -3483,6 +3483,7 @@ Javascript
   * 테스트 레포도 제공하고 있어서 직접 확인 가능 
     * [state-of-nodejs-performance-2023: Raw results of State of Node.js Performance 2023 article](https://github.com/RafaelGSS/state-of-nodejs-performance-2023)
   * 파일시스템, Event, HTTP, 모듈, 스트림, 버퍼 등으로 나누어 각 버전에서 어떻게 성능이 차이가 나는지 비교
+* [성능 패널로 Node.js 성능 프로파일링  |  DevTools  |  Chrome for Developers](https://developer.chrome.com/docs/devtools/performance/nodejs?hl=ko)
 * [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
 * [An Introduction to Multithreading in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
@@ -4170,6 +4171,7 @@ Javascript
 * [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
 * [React Crash Course - React Component - YouTube](https://www.youtube.com/watch?v=Jze7-iNREh4)
 * [React 컴포넌트와 추상화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
+* [Render Delegation하는 React 컴포넌트 만들기 | kciter.so](https://kciter.so/posts/render-delegation-react-component/)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
@@ -5475,6 +5477,7 @@ Javascript
   * [Next.js Caching Rant - DEV Community](https://dev.to/treasuredev_/nextjs-caching-rant-k05)
   * [환경 고민없이 개발하기](https://toss.tech/article/isomorphic-javascript)
   * [Auth0 Stable Support For Next.js App Router!](https://auth0.com/blog/auth0-stable-support-for-nextjs-app-router/)
+  * [Build a login system in a Next.js application using Auth0 - Therichpost](https://therichpost.com/build-a-login-system-in-a-next-js-application-using-auth0/)
   * [Next.js - Next.js 개발 환경 구축하기(1주차) - YouTube](https://www.youtube.com/watch?v=ODU2kq2Huxg)
   * [Next.js - 응용 Next.s 앱 만들어보기(2주차) - YouTube](https://www.youtube.com/watch?v=iyMW40QrYz8)
   * [Next.js - 다양한 Next.js 활용법 배우기(3주차) - YouTube](https://www.youtube.com/watch?v=AT0XKsmIhp8)
@@ -5508,6 +5511,8 @@ Javascript
     * 실시간 업데이트를 위해 클라이언트에서 데이터 불러오는 코드 중복 작성 필요, 서버 측 오류가 쉽게 삼켜져서 추적에 어려움 발생
     * 지금은 해결되었지만 개발하면서 버그가 너무 많아 고생, 개발 서버의 성능이 너무 안 좋아 성숙도에 비해 너무 빨리 마케팅이 되었다고 함
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
+  * [Next server actions | React memo | Social media card preview in Next - YouTube](https://www.youtube.com/watch?v=T2CwGbq_sIM)
+  * [Adding Google Analytics to Next.js : A Step By Step Guide](https://www.bugblitz.dev/2024/04/adding-google-analytics-to-nextjs.html)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
