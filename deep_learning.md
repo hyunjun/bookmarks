@@ -1226,6 +1226,7 @@ Deep Learning
 * [Paper Review; GAN for noise reduction in low dose CT](https://www.slideshare.net/JiminLee36/paper-review-gan-for-noise-reduction-in-low-dose-ct)
 * [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
 * [Semantic Image Synthesis with SPADE](https://github.com/NVlabs/SPADE)
+* [Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis](https://hyper-sd.github.io/)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
 * [How to Code the GAN Training Algorithm and Loss Functions](https://machinelearningmastery.com/how-to-code-the-generative-adversarial-network-training-algorithm-and-loss-functions)
