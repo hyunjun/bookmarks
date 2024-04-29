@@ -958,6 +958,7 @@ NLP
     * [GPTs 만들기 사용법 간단 설명 | Create vs Configure 모드 실사용 후기 | 나만의 챗GPT 프롬프트 만들기 | GPT4 Turbo 리뷰 - YouTube](https://www.youtube.com/watch?v=7vYWRlsmOVQ)
     * [Top GPTs for Researchers](https://www.linkedin.com/posts/razia-aliani_research-research-academicwriting-activity-7132219385636696065-Iea2)
     * [OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음 | GeekNews](https://news.hada.io/topic?id=13953)
+    * [GPTs으로 나만의 Custom GPT 만들기 예제 50](https://mo-ai.notion.site/GPTs-Custom-GPT-50-bbbb8c5e706f402baaa377186550c6a1)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
