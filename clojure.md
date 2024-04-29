@@ -1065,6 +1065,7 @@ Clojure
 * [integrant - Micro-framework for data-driven architecture](https://github.com/weavejester/integrant)
   * [Component 대신 Integrant 써볼까?](http://clojure.kr/integrant)
   * [Enter Integrant: a micro-framework for data-driven architecture with James Reeves](https://skillsmatter.com/skillscasts/9820-enter-integrant-a-micro-framework-for-data-driven-architecture-with-james-reeves)
+* [instructor-clj is a Clojure lib to get structured output from LLMs](https://github.com/kapilreddy/instructor-clj)
 * jackdaw
   * [jackdaw-example](https://github.com/eunmin/jackdaw-example)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
