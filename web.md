@@ -1191,6 +1191,7 @@ Web
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/api-the-docs-recap/)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
   * [프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger | 요즘IT](https://yozm.wishket.com/magazine/detail/2195/)
+  * [Swagger를 이용한 세상 간단한 API Mocking | Univdev](https://univdev.page/posts/automatic-api/)
   * [swagger-typescript-api: TypeScript API generator via Swagger scheme](https://github.com/acacode/swagger-typescript-api)
     * [편리한 API 제너레이터 ‘swagger-typescript-api’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2387/)
 * [tiny frontend](https://tiny-frontend.github.io/)
