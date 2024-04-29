@@ -196,6 +196,7 @@ Flutter
 * [Flutter CustomPainter 모각코 발표자료. 01–20~01–21 1박 2일 코드팩토리님과 함께 하는 모각코에… | by Sunlution | Jan, 2024 | Medium](https://medium.com/@sunlution/flutter-custompainter-%EB%AA%A8%EA%B0%81%EC%BD%94-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-4b14ea21a3c5)
 * [Sliver Stack in Flutter](https://velog.io/@adbr/Sliver-Stack-in-Flutter)
 * [클로드(claude)한테 Flutter 앱 개발 맡겨보기1](https://velog.io/@adbr/%ED%81%B4%EB%A1%9C%EB%93%9C%ED%95%9C%ED%85%8C-Flutter-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EB%A7%A1%EA%B2%A8%EB%B3%B4%EA%B8%B01)
+* [1인 앱 개발 테니스장 앱 '타이브레이크' 출시 후기 (1) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/70)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
