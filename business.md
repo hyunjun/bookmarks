@@ -179,6 +179,8 @@ Business
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
 * [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
+* [김도영 - - 수평문화와 자율문화에 대한 오해 예전 HR Insight에 기고한 글 요약해 공유해 봅니다.... | Facebook](https://www.facebook.com/kimdy1219/posts/pfbid02bwxZY3MUW7VVph8tbPxAhY2mba9DXyfEj1GEvnfVfwdRR4saWxaAs5EzWR9NLjz5l)
+  * 강력한 리더십, 솔직한 피드백, 필요한 갈등 용인, 성과 관리
 * [수평적 문화가 안되는 조직들의 사례와 해결책 | ㅍㅍㅅㅅ](https://ppss.kr/archives/212904)
 * [수평 조직, 업무 효율도 높을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20220621)
 * [밸브 인터뷰 ③ 수직구조 없는 회사 밸브, "우리의 상사는 고객"](https://www.thisisgame.com/webzine/special/nboard/5/?n=154907)
@@ -631,7 +633,9 @@ Business
 * [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
 * [Employee Advocacy란? - YouTube](https://www.youtube.com/watch?v=MW8Fae-lwf0)
-* [회사가 일을 만들고 확산하는 방법을 알자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247992) 플라이휠 flywheel
+* flywheel 플라이휠
+  * [회사가 일을 만들고 확산하는 방법을 알자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247992)
+  * [1957년에 작성된 월트 디즈니의 메모](https://www.linkedin.com/posts/kiholee111_sakteiqwiswmsnzqop-ruqtfurxgrwwtps-sqstxurhyteiqwi-activity-7187328534044971008-Yq87/)
 * [State of UX 2022 - 'Rebuild' | GeekNews](https://news.hada.io/topic?id=5633)
 * [NBA 3점슈터 커리에게서 배우는 경영학 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/9137/ac/a_view) 강점을 키우라는 주제는 알겠지만 너무 커리에 대해 과장 혹은 왜곡
 * [상위 25% 스킬을 조합하기](https://velog.io/@eddy_song/top-25-skill-c8jcigq7)
