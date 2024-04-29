@@ -1465,6 +1465,7 @@ AWS
 * [AWS Glue와 Amazon Athena를 활용한 MongoDB 데이터 분석 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/comparing-mongodb-data-analysis-methods-using-aws-glue-and-amazon-athena/)
 * [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
 * [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화, 2부: Grafana를 사용한 실시간 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-2-enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
+* [Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 3: Visualization and trend analysis using Amazon QuickSight | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
@@ -2486,6 +2487,8 @@ AWS
   * [AWS 클라우드 환경 목킹을 위한 localstack - S3, SQS, EC2](https://blog.naver.com/pjt3591oo/223036003884)
   * [테라폼으로 구성하여 이해하는 네트워크 - VPC, Subnet, IGW, NAT](https://blog.naver.com/pjt3591oo/223042001872)
   * [Integration testing with Weaver and Localstack - Dev notes](https://blog.michal.pawlik.dev/posts/scala/weaver-localstack/)
+* [moto: A library that allows you to easily mock out tests based on AWS infrastructure](https://github.com/getmoto/moto)
+  * [how to work moto mock aws function internally? - Codingdog Blog](https://codingdog.pe.kr/2024/04/17/how-to-work-moto-mock-aws-function-internally/)
 
 # Terraform
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
