@@ -152,6 +152,7 @@
 * [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
 * [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
+* [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
 * [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
 * [13 easy Rust tips (code review) - YouTube](https://www.youtube.com/watch?v=w_LUixO3tpU)
 * [Anatomy of a Terminal Emulator :: poor.dev](https://poor.dev/blog/terminal-anatomy/)
@@ -166,7 +167,6 @@
 * [Part 1: The life of an optimization barrier | Trail of Bits Blog](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 * [Allocating Less: Really Thin Rust Cloud Apps - YouTube](https://www.youtube.com/watch?v=nO-BFKyWYgE)
 * [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
-* [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
 * [Programming languages endorsed for server-side use at Meta](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)
   * Meta(Facebook)은 다양한 언어를 쓰고 있지만 새로운 언어를 지원할 때 가볍게 결정하진 않는데 이번에 Rust를 Meta의 서버 사이드 언어 중 하나로 추가
   * 지원한다는 의미는 Meta 내에서 좋은 개발 경험을 기대할 수 있다는 의미
