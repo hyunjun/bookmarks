@@ -2362,6 +2362,9 @@ Web
 
 # WebAssembly Rust
 * [Write Your First WASM Module using Rust - YouTube](https://www.youtube.com/watch?v=nW71Mlbmxt8)
+* [JavaScript: Empowered by Rust - YouTube](https://www.youtube.com/watch?v=h10_w3LvTQ0)
+  * [VidiGo JavaScript: Empowered by Rust.mp4](https://vidigo.ai/share/summary/58c51a7fd306)
+  * [자바스크립트: Rust로 강화된 자바스크립트 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/561394)
 * [Rust_WASM: Rust_WebAssembly_WASM](https://github.com/YoungHaKim7/Rust_WASM)
   * [Rust-WebAssembly_WASM_BackEnd - YouTube](https://www.youtube.com/playlist?list=PLcMveqN_07mbHVvdMjKzevRunoZfEZKPU)
 * [Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6343)
