@@ -227,6 +227,7 @@ iOS
 * [IOSSecuritySuite: iOS platform security & anti-tampering Swift library](https://github.com/securing/IOSSecuritySuite)
 * [Jandi: 🌱 Growth everyday your github contributions in macOS status bar](https://github.com/techinpark/Jandi)
 * [KarrotListKit](https://github.com/daangn/KarrotListKit)
+  * [(🔔당근!) 반가운 중고거래 키워드 알림 만들기. 안녕하세요. 중고거래실에서 iOS 엔지니어로 일하고 있는… | by InJeong Choi (Lychee) | 당근 테크 블로그 | Apr, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%B0%98%EA%B0%80%EC%9A%B4-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%95%8C%EB%A6%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ed969f07692)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [needle: Compile-time safe Swift dependency injection framework](https://github.com/uber/needle)
   * [모듈화하고 Needle 적용해보기. iOS Dependency Injection by Uber’s… | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
@@ -711,6 +712,7 @@ iOS
 * [What's new in Swift 5.10 :: iOYES](https://green1229.tistory.com/458)
 * [SwiftUI로 이모지 키보드 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-emoji-keyboard)
 * [SwiftUI에서 Drag & Drop 적용하기 :: iOYES](https://green1229.tistory.com/467)
+* [SwiftUI onDrag & onDrop :: iOYES](https://green1229.tistory.com/468)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
