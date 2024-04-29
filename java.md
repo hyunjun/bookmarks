@@ -1054,6 +1054,7 @@ Java
 * [**Java의 미래, Virtual Thread | 우아한형제들 기술블로그**](https://techblog.woowahan.com/15398)
   * Virtual Thread(Project Loom)이 JDK 19부터 얼리 엑세스로 포함되고 JDK21에서 정식 기능이 되면서 스터디한 결과 공유
   * 스레드를 사용할 때 더 많은 요청을 처리하면서 컨텍스트 스위칭 비용을 줄이기 위해 훨씬 가벼운 Virtual Thread의 구조와 동작 원리를 보여주고 Thread, Kotlin Coroutine, Reative와 비교해서 성능이 얼마나 차이 나는지도 보여줌
+  * [우아한테크세미나 2024-04 Java의 미래, Virtual Thread.pdf](https://drive.google.com/file/d/1GWMlgtKM8S4XcymK8fwCZLaQZ-K6P7Vq/view)
 * [JDK 21의 신기능 Virtual Thread 알아보기 / 제4회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/12/22/techmeet-virtualthread/)
 * [Virtual Thread의 기본 개념 이해하기](https://d2.naver.com/helloworld/1203723)
 * [4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’ - YouTube](https://www.youtube.com/watch?v=BZMZIM-n4C0)
