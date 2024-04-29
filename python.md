@@ -5575,6 +5575,7 @@ Python
 * [Python 3.12 Preview: Static Typing Improvements – Real Python](https://realpython.com/python312-typing/)
 * [Python 3.12 - Preview of New Features - YouTube](https://www.youtube.com/watch?v=ZMdS9WqXGzI)
 * [Python 3.12 Generic Types Explained - YouTube](https://www.youtube.com/watch?v=q6ujWWaRdbA)
+* [Python 3.12 새로운 기능 - 모두의연구소](https://modulabs.co.kr/blog/python-3-12/)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
