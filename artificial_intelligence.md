@@ -298,6 +298,7 @@ Artificial Intelligence
     * Gemini와 RAG (Retrieval-Augmented Generation) 비교, 긴 컨텍스트 언어 모델 (LLM) 응용 프로그램이 RAG 파이프 라인에 영향
     * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
   * [모두의AI-MOAI Gemini Google Workspace Guide 한국어 번역 자료](https://mo-ai.notion.site/AI-MOAI-Gemini-Google-Workspace-Guide-99bd8d96c6ea40e6ac91d98ad24067d5)
+  * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
@@ -516,6 +517,9 @@ Artificial Intelligence
     * 코히어의 최신 임베딩 모델과 Vespa의 바이너리 및 int8 벡터 지원이 결합되어 계층적 저장 및 계산을 통해 비용을 최소화 가능
     * 임베딩 API의 유연성과 Vespa의 기능을 통해 대규모 데이터 세트에서 RAG 파이프라인을 향상시키고 비용 절감 가능
 * [Vector embeddings at the center of your data stack/ Daniel Svonava (Superlinked) - YouTube](https://www.youtube.com/watch?v=tqSkfRbGzpk)
+* [Approximate Vector Search with KMeans and Azure SQL | Data Exposed - YouTube](https://www.youtube.com/watch?v=2NSNOzHYDOM)
+  * [VidiGo Approximate Vector Search with KMeans and Azure SQ](https://vidigo.ai/share/summary/7f8df47c29b9)
+  * [KMeans 및 Azure SQL을 사용한 대략적인 벡터 검색 | 데이터 노출됨 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/561688)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
