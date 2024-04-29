@@ -3520,6 +3520,11 @@ Business
   * 다크 패턴은 사용자를 속여서 의도하지 않는 선택을 하도록 유도하는 전략
   * 둘을 구분해서 사용해야 한다
 * [화이트 넛지가 새로운 UX 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/162)
+* [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
+* [왜 앱 화면을 단순히 만들어야 할까?](https://brunch.co.kr/@cliche-cliche/170)
+* [설리번 선생님! 아직도 형태가 기능을 따라야 하나요?](https://brunch.co.kr/@cliche-cliche/184)
+* [08화 인지 부하를 줄이는 UX 디자인의 비밀](https://brunch.co.kr/@cliche-cliche/209)
+* [15화 10분 만에 읽는 좋은 탈퇴 UX 전략](https://brunch.co.kr/@cliche-cliche/227)
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
 * ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)
 * [Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
@@ -3547,7 +3552,6 @@ Business
 * [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
 * [고령층 친화 디지털 접근성 표준(키오스크 적용가이드)](https://sdf.seoul.kr/research-report/1663)
 * [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
-* [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
 * [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
 * [유저리서치1 어떻게 시작해야 할까? | Disquiet\*](https://disquiet.io/@kim_saeu/makerlog/326)
 * [유저리서치2 본격적인 계획 세우기 | Disquiet\*](https://disquiet.io/@kim_saeu/makerlog/336)
@@ -3568,7 +3572,6 @@ Business
 * [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
 * [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
-* [왜 앱 화면을 단순히 만들어야 할까?](https://brunch.co.kr/@cliche-cliche/170)
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process/)
   * Toss에서 입력 필드가 많은 본인 인증 화면을 설계하는 과정
@@ -3603,7 +3606,6 @@ Business
 * [첫 UX writer는 무슨 일을 해야 할까](https://toss.tech/article/1st_uxwriter)
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
-* [설리번 선생님! 아직도 형태가 기능을 따라야 하나요?](https://brunch.co.kr/@cliche-cliche/184)
 * [Bing AI의 UX분석하기: 유저 습관 만드는 '훅'모델과 함께 | 요즘IT](https://yozm.wishket.com/magazine/detail/2054/)
 * [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
 * [VDIASI23 - Simone de Gijt - Co-creation between UX and Software - YouTube](https://www.youtube.com/watch?v=CwHZle02rwg)
@@ -3616,7 +3618,6 @@ Business
 * [팝업은 어떤 경우에 닫을 수 있게 해야할까?(X버튼은 언제 보여줘야 할까?)— 헤이딜러 UX 스터디 | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%8C%9D%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%BD%EC%9A%B0%EC%97%90-%EB%8B%AB%EC%9D%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-x%EB%B2%84%ED%8A%BC%EC%9D%80-%EC%96%B8%EC%A0%9C-%EB%B3%B4%EC%97%AC%EC%A4%98%EC%95%BC-%ED%95%A0%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-5b6c535fbe58)
 * [헤이딜러 UX 스터디 이야기 (소개). 헤이딜러 제품팀에서 진행했던 UX스터디 이야기를 들려드립니다. | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%9D%98-ux-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%86%8C%EA%B0%9C-16ec98d1e30f)
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
-* [08화 인지 부하를 줄이는 UX 디자인의 비밀](https://brunch.co.kr/@cliche-cliche/209)
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향) | Univdev](https://univdev.page/posts/focuskeeper-renewal/)
