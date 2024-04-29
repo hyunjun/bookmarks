@@ -536,6 +536,7 @@ Git
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
 * [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 * [Git 명령어 모음](https://velog.io/@delilah/GitHub-Git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C)
+* [Git 핵심 명령어 모음 | HEROPY.DEV](https://www.heropy.dev/p/PcUkdT)
 * [practice - Git command overview](https://gist.github.com/hyunjun/02f945830bda15267f90762c8763a759#gistcomment-3642143)
 * [**Oh shit, git!**](http://ohshitgit.com/) 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
