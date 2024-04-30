@@ -772,20 +772,21 @@ iOS
 * [테스트 시작하기 #1](https://brunch.co.kr/@tilltue/82)
 * [테스트 시작하기 #2](https://brunch.co.kr/@tilltue/84)
 * [테스트 자동화 활용](https://brunch.co.kr/@tilltue/85)
-* [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 1편 - 통합 UI테스트 | 뱅크샐러드](https://blog.banksalad.com/tech/test-in-banksalad-ios-1/)
-  * 테스트가 없는 상황에서 처음 테스트를 작성하는 것은 어려우므로 통합 UI 테스트를 먼저 작성
-  * 테스트에서는 접근성 트리를 이용하기 때문에 접근성이 확보 안 되어 있으면 테스트가 안 될 수 있음
-  * 이때는 VoiceOver 기능을 먼저 사용해 보길 권하고 있고 팀의 온보딩 과정에 로컬에서 테스트를 작성해서 XCUITest와 익숙해질 수 있는 경험을 제공
-  * 테스트는 4시간마다 돌면서 실패한 테스트는 슬랙으로 알림을 받고 테스트를 돌리는 김에 로그도 제대로 남겨지는지도 확인
-* [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 2편 - 화면 단위 통합 테스트 | 뱅크샐러드](https://blog.banksalad.com/tech/test-in-banksalad-ios-2/)
-  * 스냅샷 테스트를 다루고 있는데 스냅샷 테스트는 미리 만들어 놓은 이미지와 현재 이미지를 비교
-  * 이때 1px만 틀려도 오류가 나기 때문에 관리가 어려운 편인데 이를 보조수단으로 사용
-  * 테스트가 만든 이미지를 폴더에 저장해 두고 모든 시나리오를 일일이 해볼 필요 없이 이 결과 이미지를 QA하고 QA가 끝나면 이를 레퍼런스 이미지로 저장해서 다음 스냅샷 테스트에 사용
-  * 추가로 테스트가 문서의 역할도 하기 위해 접근성 속성을 검사해서 화면에 원하는 정보가 제대로 나오는지 테스트할 수 있도록 [AXSnapshot](https://github.com/banksalad/AXSnapshot)을 만들어 사용
-* [일하고 있습니다 - iOS UI Test. 요기요 iOS XCUITest 사용기 입니다. | by Janghun Lee | May, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ios-ui-test-61830646d091)
 * [Browser Stack 알아가기. 1. Browser Stack이란 ? | by 한동영Clark(클락) / QA팀 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/broswer-stack-%EC%95%8C%EC%95%84%EA%B0%80%EA%B8%B0-ec97e09b510d)
 * [iOS와 Android 간 UI 자동화 속도 차이 해결하기 (부제 : ActionChains로 iOS 테스트 자동화 속도에 로켓 달아주기) | by 정다정 | 29CM TEAM | Feb, 2024 | Medium](https://medium.com/29cm/ios%EC%99%80-android-%EA%B0%84-ui-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%A4%ED%96%89-%EC%86%8D%EB%8F%84-%EC%B0%A8%EC%9D%B4-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-0ee1ff90208a)
 * [iOS TDD의 시작 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-starting-tdd) XCTestCase, Xcode Cloud
+* [XCTest | Apple Developer Documentation](https://developer.apple.com/documentation/xctest)
+  * [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 1편 - 통합 UI테스트 | 뱅크샐러드](https://blog.banksalad.com/tech/test-in-banksalad-ios-1/)
+    * 테스트가 없는 상황에서 처음 테스트를 작성하는 것은 어려우므로 통합 UI 테스트를 먼저 작성
+    * 테스트에서는 접근성 트리를 이용하기 때문에 접근성이 확보 안 되어 있으면 테스트가 안 될 수 있음
+    * 이때는 VoiceOver 기능을 먼저 사용해 보길 권하고 있고 팀의 온보딩 과정에 로컬에서 테스트를 작성해서 XCUITest와 익숙해질 수 있는 경험을 제공
+    * 테스트는 4시간마다 돌면서 실패한 테스트는 슬랙으로 알림을 받고 테스트를 돌리는 김에 로그도 제대로 남겨지는지도 확인
+  * [뱅크샐러드 iOS팀이 숨쉬듯이 테스트코드 짜는 방식 2편 - 화면 단위 통합 테스트 | 뱅크샐러드](https://blog.banksalad.com/tech/test-in-banksalad-ios-2/)
+    * 스냅샷 테스트를 다루고 있는데 스냅샷 테스트는 미리 만들어 놓은 이미지와 현재 이미지를 비교
+    * 이때 1px만 틀려도 오류가 나기 때문에 관리가 어려운 편인데 이를 보조수단으로 사용
+    * 테스트가 만든 이미지를 폴더에 저장해 두고 모든 시나리오를 일일이 해볼 필요 없이 이 결과 이미지를 QA하고 QA가 끝나면 이를 레퍼런스 이미지로 저장해서 다음 스냅샷 테스트에 사용
+    * 추가로 테스트가 문서의 역할도 하기 위해 접근성 속성을 검사해서 화면에 원하는 정보가 제대로 나오는지 테스트할 수 있도록 [AXSnapshot](https://github.com/banksalad/AXSnapshot)을 만들어 사용
+  * [일하고 있습니다 - iOS UI Test. 요기요 iOS XCUITest 사용기 입니다. | by Janghun Lee | May, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ios-ui-test-61830646d091)
 
 # Tutorial
 * [왕초보를 위한 ios 앱개발](https://yagom.net/courses/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C/)
