@@ -1115,6 +1115,7 @@ AWS
 * [Amazon DynamoDB를 사용한 비용 효율적인 대량 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cost-effective-bulk-processing-with-amazon-dynamodb/)
 * [Amazon DynamoDB 비용 최적화 방법에 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
 * [Amazon DynamoDB의 서비스 오픈 전 체크포인트와 오픈 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dynamodb-service-open-before-checkpoint-openstrategy/)
+* [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part1/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
