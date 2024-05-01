@@ -5465,6 +5465,8 @@ Programming
   * [Pulumi Kotlin. The missing piece in Kotlin… | by Julia Plewa | VirtusLab | Medium](https://medium.com/virtuslab/pulumi-kotlin-9c0cb2d53e1c)
   * [인프랩 IaC 구축기 (Part 1)](https://tech.inflab.com/20240201-inflab-iac/)
   * [Shipping your code to cloud with Scala, Besom and Pulumi | Besom - Pulumi Scala](https://virtuslab.github.io/besom/blog/2024/03/01/0.2.x-release/) GCP
+* [pyinfra automates infrastructure super fast at massive scale](https://pyinfra.com/)
+  * [Pyinfra: 파이썬을 활용한 인프라 자동화 도구 | GeekNews](https://news.hada.io/topic?id=14586)
 * [Radius](https://radapp.io/)
   * [Introducing Radius: A new open-source project for teams building cloud-native apps - YouTube](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 * [target-cli: A CLI tool to manage context profiles for HashiCorp tools](https://github.com/devops-rob/target-cli)
