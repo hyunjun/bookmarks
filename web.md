@@ -1857,6 +1857,8 @@ Web
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
   * [우분투 환경에서 Node.js 앱 성능/가용성 테스트하기 - 강창훈 | 2023. 3. 25. 정기총회 - Speaker Deck](https://speakerdeck.com/ubuntukrorg/gayongseong-teseuteuhagi-gangcanghun-2023-3-25-jeonggiconghoe)
     * [우분투 환경에서 Node.js 앱 성능/가용성 테스트하기 - 강창훈 | 2023년도 정기총회 - YouTube](https://www.youtube.com/watch?v=MRLX6FF-SEI)
+* [네이버 통합 검색의 웹 성능 - 데이터 수집과 시각화](https://d2.naver.com/helloworld/9227596)
+* [네이버 통합 검색의 웹 성능 - 모니터링과 성능 개선](https://d2.naver.com/helloworld/8113611)
 * [autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
   * [쉽고 빠른 NodeJS 부하테스트 툴, autocannon. 개발단계에서 부하를 발생시켜 성능테스트를 해야 할 경우가 간혹… | by Kay Hwang | 직방 기술 블로그 | Oct, 2023 | Medium](https://medium.com/zigbang/%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B8-nodejs-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%88%B4-autocannon-c860886d6f15)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
