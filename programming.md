@@ -7515,6 +7515,9 @@ Programming
       * 실제 문제에 초점을 맞춘 연구 계획 수립. 피드백 루프와 개발 프로세스를 최대한 활용하고, 다차원 소프트웨어를 탐색할 수 있는 도구 개발
       * 반복적인 디자인 딜레마에 대응하고, 디자인에 관심을 기울이며 진화하는 시스템을 구축하는 것이 중요
         * '엔지니어링'이란 칭할 때 반드시 따라야 하는 지시사항은 현재는 피해야 함
+* [How Technical Problems Cause Organizational Friction • Adam Tornhill • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=jCmTry1T90I)
+  * [VidiGo How Technical Problems Cause Organizational Fricti](https://vidigo.ai/share/summary/56a970b54fd8)
+  * [기술적 문제가 조직 마찰을 유발하는 방법 - Adam Tornhill - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/570969)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
