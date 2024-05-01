@@ -140,6 +140,7 @@ Product
 # Desk
 * [높이조절책상 비교 총정리ㅣ허리에 좋은 책상 추천ㅣ20만원대 모션데스크 - YouTube](https://www.youtube.com/watch?v=3boOHsOTje0)
 * [루나랩 수동 높이조절 책상 모션데스크 블랙 1200mm : LUNA LAB](https://lunalab.co.kr/desk/?idx=78)
+* [루나랩 모션데스크](https://www.youtube.com/watch?v=uouu4qcB5eA)
 * [프리미엄 모션데스크를 찾으신다면?! 오프레임 모션데스크 추천 - YouTube](https://www.youtube.com/watch?v=Zmi1VGAoowI)
 * [Refold - cardboard standing desk](http://www.refold.co/)
 
@@ -244,6 +245,7 @@ Product
 * [How to Pick a Good Monitor for Software Development — Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
 * [개발자를 위한 모니터 추천 / 가이드](https://velog.io/@workspace/monitor-for-developer)
   * [개발자를 위한 모니터 추천 / 가이드 | GeekNews](https://news.hada.io/topic?id=6782)
+* [KEFEYA S2 가장진화된랩탑 휴대용듀얼모니터모니터！ - YouTube](https://www.youtube.com/watch?v=LNTbNSJ2VIU)
 
 ## Monitor Arm 노트북 거치대
 * [거북목 때문에 필사적으로 찾은 가성비, 휴대성, 퀄리티 만족시키는 노트북 거치대 3종 리뷰ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=yy14Zc9SYms) 노트북 거치대/암
