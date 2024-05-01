@@ -4829,6 +4829,7 @@ Javascript
     * 클래스 컴포넌트에서는 추상화를 위한 원시성이 없었기 때문에 이를 해결하기 위해 Hooks가 등장
     * 하지만 Hooks에서는 메모이제이션이 필요
     * 왜 메모이제이션이 필요한지를 보여주고 컴파일을 통해서 자동 메모이제이션이 가능하게 만들 예정
+* [React 19: 계륵이었던 Suspense가 활약할 때?](https://velog.io/@composite/React-19-%EA%B3%84%EB%A5%B5%EC%9D%B4%EC%97%88%EB%8D%98-Suspense%EA%B0%80-%ED%99%9C%EC%95%BD%ED%95%A0-%EB%95%8C)
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 
 ## React Flux
