@@ -6290,6 +6290,8 @@ Javascript
 * [jscpd: Copy/paste detector for programming source code](https://github.com/kucherenko/jscpd)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
+* [openapi: Type safe OpenAPI definitions](https://github.com/samchon/openapi)
+  * [I made Swagger/OpenAPI type definitions and converter library - DEV Community](https://dev.to/samchon/i-made-swaggeropenapi-type-definitions-and-converter-library-5dej)
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
   * [Payload - Headless CMS 오픈소스 | GeekNews](https://news.hada.io/topic?id=6634)
