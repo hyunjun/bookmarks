@@ -2048,6 +2048,8 @@ App
 * [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com](http://dddraft.com/)
+* [Capacities – A studio for your mind](https://capacities.io/)
+  * [인간의 두뇌를 닮은 노트 테이킹! - Capacities📒✏️로 세컨드 브레인 만들기 Tutorial #1 - YouTube](https://www.youtube.com/watch?v=txB6-hb7myo)
 * [coda - A doc as powerful as an app](https://coda.io)
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
