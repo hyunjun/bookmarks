@@ -1307,6 +1307,10 @@ Business
     * 단 구체적 솔루션으로 좁히지는 않으면
   * 전문가는 자기 안의 전문성을 더 동원하게 된다
 * [부정적인 피드백을 해야하는 상황인데, 구성원의 감정이 다치지 않으면서 피드백을 명확하게 전달할 방법](https://www.linkedin.com/posts/elfpenguin_%EB%B6%80%EC%A0%95%EC%A0%81%EC%9D%B8-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%83%81%ED%99%A9%EC%9D%B8%EB%8D%B0-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EA%B0%90%EC%A0%95%EC%9D%B4-%EB%8B%A4%EC%B9%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4%EC%84%9C-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-activity-7167328071866413056-oIMz/)
+* [조성주 - 우리는 정말 피드백을 원하는가? 1. 사람들은 피드백을 받고 싶다고 말은 하지만 정말 듣고 싶은 말은... | Facebook](https://www.facebook.com/sungjucho21/posts/pfbid0xiYo5dYBDGKo3aJzEzL4YHjDRuY9B23LiWqT3ZxNHKqybQAe5BRth3KA7Wf3wisgl)
+  * 피드백은 상대를 성장시킬 수 있는 훌륭한 방식
+  * 하지만 좋은 피드백을 하려면, 피드백이 실질적인 효과를 내려면 결과만이 아니라 과정을 알 수 있는 <관심>이 전제
+  * 사람들이 원하는 것은 피드백 자체가 아니라, 인정과 관심이기 때문
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
