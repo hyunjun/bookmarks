@@ -115,6 +115,8 @@ Finance
 * [경제적자유를 빠르게 달성시켜줄 최고의 배당주를 알려드립니다 (( 나는 배당투자로 매일 스타벅스커피를 공짜로마신다)) - YouTube](https://www.youtube.com/watch?v=dOw_fozrQOQ)
 * [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
   * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
+* [맥쿼리인프라, 미국 배당주보다 훨씬 나은 이유 (ft. 리얼티인컴, VNQ) - YouTube](https://www.youtube.com/watch?v=53EX7C6wjNU)
+* [메리츠금융지주, 미국 기업보다 주주환원에 진심인 곳 (ft. 코카콜라, JP모간체이스) - YouTube](https://www.youtube.com/watch?v=7I12IOR-VFc)
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
 * [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
 * [슈퍼서민 - YouTube](https://www.youtube.com/channel/UCvwFSUne__pjWQ3wXdhgUrA)
@@ -126,6 +128,7 @@ Finance
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
 * [💵 미국채권을 직접 사는 방법ㅣ개별채권 - YouTube](https://www.youtube.com/watch?v=QNB14iUQ9T8)
+* [미국채 투자, 내가 이제부터 적극적으로 매수하려는 이유 (ft. TLT, TMF, ACE미국30년국채액티브) - YouTube](https://www.youtube.com/watch?v=UZWW92e-0jU)
 * [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg)
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
