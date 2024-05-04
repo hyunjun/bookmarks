@@ -1025,6 +1025,7 @@ AWS
 * [AWS에서 할 수 있는 10가지 비용 절감 방법](https://nauco.tistory.com/142)
 * [AWS, 그럴듯하게 운영해보기 | 인프런 퇴근길 밋업 #05 인프라 & AWS - YouTube](https://www.youtube.com/watch?v=QGUdBUXwNho)
 * [AWS 비용관리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIa_8kDztirpQhQCT3_KFBzT)
+* [AWS 비용 최적화 Part 1: 버즈빌은 어떻게 월 1억 이상의 AWS 비용을 절약할 수 있었을까](https://tech.buzzvil.com/blog/2024/aws-cost-optimization-part-1/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
