@@ -1513,6 +1513,7 @@ Javascript
 * [디자인 시스템의 육하원칙- 1. 왜?](https://brunch.co.kr/@dddesign/1)
 * [디자인 시스템의 육하원칙- 2.언제, 누가?](https://brunch.co.kr/@dddesign/2)
 * [디자인 시스템의 육하원칙- 3. 무엇을? 어떻게?](https://brunch.co.kr/@dddesign/3)
+* [디자인 시스템의 육하원칙- 3. 무엇을? 어떻게?-02](https://brunch.co.kr/@dddesign/4)
 * [Gmarket Design System](http://gds.gmarket.co.kr/)
 * [Helios Design System](https://helios.hashicorp.design/)
   * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
