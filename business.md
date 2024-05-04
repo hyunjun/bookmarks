@@ -2282,6 +2282,7 @@ Business
       * 교훈 중요성 강조, 대단한 결과에 조금씩 점수 향상하기, 사람들을 통한 변화, 작은 것에서 큰 결과 가능성 강조
       * 2017년 3월, 국제항공 그룹은 새로운 항공사 '레벨'을 론칭
       * 이 항공사는 유럽에서 미국으로 이륙하는 최초의 대서양 저비용 항공사로, 기존 티켓 판매량을 뛰어넘는 성공
+* [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2913,6 +2914,7 @@ Business
 * [PM은 CAC, LTV, PP를 언제 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2102/)
 * [서비스 기획자의 뷰티컬리로 확장하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/expand-to-Beauty-Kurly/)
 * [ChatGPT를 PM의 '어시스턴트'로 만드는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2436/)
+* [Pre-mortem으로 비즈니스 가설을 사전에 검증한다](https://brunch.co.kr/@yongjinjinipln/126)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
