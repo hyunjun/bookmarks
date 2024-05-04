@@ -139,6 +139,7 @@ Product
 
 # Desk
 * [높이조절책상 비교 총정리ㅣ허리에 좋은 책상 추천ㅣ20만원대 모션데스크 - YouTube](https://www.youtube.com/watch?v=3boOHsOTje0)
+* [미친 아이디어와 수납력 디자인까지 궁극의 데스크 셋업 - 올인원 책상이라고 아세요? - YouTube](https://www.youtube.com/watch?v=ODDyQ5KniRc)
 * [루나랩 수동 높이조절 책상 모션데스크 블랙 1200mm : LUNA LAB](https://lunalab.co.kr/desk/?idx=78)
 * [루나랩 모션데스크](https://www.youtube.com/watch?v=uouu4qcB5eA)
 * [프리미엄 모션데스크를 찾으신다면?! 오프레임 모션데스크 추천 - YouTube](https://www.youtube.com/watch?v=Zmi1VGAoowI)
