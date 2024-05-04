@@ -4636,6 +4636,12 @@ Programming
   * 현재는 Feature Preview 상태라 설정에서 활성화해야 사용 가능
   * 활성화하면 설정에서 디바이스의 생체인증 등 다수의 Passkey 추가 가능
   * 여러 기기에서 로그인할 수 있도록 모바일 기기를 Passkey로 등록하면 동기화되어 다른 기기에서도 안전하게 바로 로그인 가능
+* [Firstyear's blog-a-log](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
+  * 글쓴이는 Rust로 Webauthn 라이브러리를 작성한 사람
+  * Passkeys가 나오면서 비밀번호를 대체할 거라는 큰 기대
+  * 현실에서는 브라우저나 기기마다 개별 구현, UI가 별로거나 속도가 느린 등 많은 문제 발생
+  * 실제로는 비밀번호 관리자가 더 나은 경험을 제공하는 상황
+  * 결국은 Passkeys가 일반 소비자에게 실패할 것이라고 이야기
 * [블로그 | 로그인의 미래?··· 애플 패스키 미리 써보니... - CIO Korea](https://www.ciokorea.com/news/254056)
 * [애플·구글·MS, '암호 없는 로그인'에 협력한다··· 2023년부터 지원 예정 - CIO Korea](https://www.ciokorea.com/news/235534)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
@@ -6306,6 +6312,7 @@ Programming
   * [4월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/04/b-4-3.html)
   * [4월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/04/b-4-4.html)
   * [4월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/04/b-4-4.html)
+  * [5월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/05/b-5-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -6573,6 +6580,10 @@ Programming
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
 * [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
 * [레스토랑에 비유해서 알아보는 운영체제 | 요즘IT](https://yozm.wishket.com/magazine/detail/1269/)
+* [Open sourcing MS-DOS 4.0  - Microsoft Open Source Blog](https://cloudblogs.microsoft.com/opensource/2024/04/25/open-sourcing-ms-dos-4-0/)
+  * 이전에 MS-DOS의 1.25와 2.0의 소스코드를 공개
+  * 최근 Connor “Starfrost” Hyde라는 영국 연구원이 자신의 소장 소프트웨어에 대해 Micosoft에 연락
+    * 여기서 MS-DOS 4.0의 베타 바이너리를 발견하고 이를 스캔해서 MIT 라이센스로 공개
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [Essence](https://nakst.gitlab.io/essence)
 * [PureDarwin | Moving the Darwin community in the right direction!](http://www.puredarwin.org/)
@@ -7152,6 +7163,10 @@ Programming
 * [SBOM Software Bill of Material](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#f44feeaa3a2641208b5fc7a255c40f66)
 * [OmniBOR](https://github.com/OmniBor)
   * [Introduction to OmniBOR - YouTube](https://www.youtube.com/watch?v=xt8ApEcmCCI)
+* [Protobom – Open Source Security Foundation](https://openssf.org/projects/protobom/)
+  * [Protobom: Paving the Path for SBOM Adoption - The New Stack](https://thenewstack.io/protobom-paving-the-path-for-sbom-adoption/)
+    * 미국 연방 정부와 OpenSSF(Open Source Security Foundation)가 SBOM(software bills-of-material)을 쉽게 도입할 수 있는 Protobom 공개
+    * Protobom은 SBOM의 일종인 SPDX나 CycloneDX를 protocol buffer로 표현할 수 있으면 Go 라이브러리를 제공해서 SBOM을 파싱해서 Protobom 생성
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
