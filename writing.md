@@ -241,7 +241,11 @@ Writing
     * [gapminder-dashboard](https://github.com/jjallaire/gapminder-dashboard/blob/main/gapminder.qmd)
       * [Worldwide Development](https://jjallaire.github.io/gapminder-dashboard/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
-  * [모두가 행복해지는 API 문서 통합과 자동화](https://techblog.lycorp.co.jp/ko/api-document-integration-and-documentation-automation)
+  * [모두가 행복해지는 API 문서 통합과 자동화](https://techblog.lycorp.co.jp/ko/api-document-integration-and-documentation-automation/)
+    * Line에서 OpenAPI로 API 문서를 관리하고 있지만 문서가 많아지면서 찾아보기 어려운 문제가 생김에 따라 이를 통합 관리한 과정
+    * springdoc-openapi-gradle-plugin을 사용해서 API 문서의 JSON 파일을 만들게 하고
+      * 문서를 소비하는 독자에 맞게 그루핑해서 프론트엔드, 인터널, 어드민 등으로 나누어서 문서를 모아서 볼 수 있게 작성
+    * JSON 파일을 HTML로 변환해서 GitHub Actions로 자동화해서 GitHub Pages에서 제공
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
 * Swimm [Knowledge management and documentation for code | Swimm](https://swimm.io/)
