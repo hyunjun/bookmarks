@@ -1799,6 +1799,9 @@ NLP
       * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
   * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
+* [Bay.Area.AI: LLM + Graph Database for RAG, Andreas Kollegger - YouTube](https://www.youtube.com/watch?v=-P0__Ch3sqE)
+  * [VidiGo Bay.Area.AI: LLM + Graph Database for RAG, Andreas](https://vidigo.ai/share/summary/7f3e15f9df46)
+  * [Bay.Area.AI: RAG용 LLM + 그래프 데이터베이스, Andreas Kollegger | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/581310)
 * [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21878)
