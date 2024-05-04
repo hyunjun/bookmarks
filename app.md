@@ -1797,8 +1797,11 @@ App
   * [파이썬 + 슬랙으로 에러 통계 데일리 요약 받아보기](https://chance-doe.tistory.com/19)
   * [Slack Incoming Webhook URL 확인하는 주소 – 형우의 웹개발](https://mytory.net/archives/15587)
   * [GitLab 밋업으로 알아보는 VSM 기반 DevSecOps와 슬랙봇 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-korea-18-meetup/)
+  * [리눅스 서버에서 실행한 작업이 중단될 때 슬랙으로 알림 보내기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/6851)
   * [everymoji](https://everymoji.com/)
-    * [사이드 프로젝트는 사이드가 아니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16158/)
+    * [사이드 프로젝트는 사이드가 아니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16158)
+      * 슬랙에서 사용하는 텍스트 기반 이모지를 쉽게 만들게 하고 싶다는 생각에 사이드 프로젝트로 애니메이션 이모지를 쉽게 만드는 에브리모지 작성
+      * Canvas API로 렌더링 후 이를 묶어서 Gif로 만드는 방식 이용
   * scrum poker app
     * [Helperbot](https://helperbot.alley.com/)
     * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
