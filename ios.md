@@ -647,6 +647,7 @@ iOS
 * [SwiftUI Form 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-form/)
 * [SwiftUI ScrollView 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-scrollview/)
 * [SwiftUI에서 ScrollOffset을 감지하는 ScrollView 구현하기 :: iOYES](https://green1229.tistory.com/463)
+* [SwiftUI에서 스크롤 뷰 내 컨텐츠 속도 제어하기 :: iOYES](https://green1229.tistory.com/469)
 * [SwiftUI NavigationView 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-navigation/)
 * [SwiftUI의 라이프사이클과 데이터 흐름 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-data-flow/)
 * [SwiftUI Preview 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-preview/)
