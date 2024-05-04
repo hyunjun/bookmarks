@@ -5145,6 +5145,9 @@ Programming
     * 시리즈 C-E의 회사들은 21.7%
     * 시리즈 F 이상은 평균 15.8%의 인력이 배치
   * 각 회사가 중앙집중식 개발자 생산성 팀을 어떻게 구성하고 있는지에 대한 예시도 포함
+* [Tips for Building Successful Platform Teams • Dave Farley • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=O0AcEFHOr14)
+  * [VidiGo Tips for Building Successful Platform Teams • Dave](https://vidigo.ai/share/summary/c68a3a8352be)
+  * [성공적인 플랫폼 팀 구축을 위한 팁 - Dave Farley - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/580110)
 * [Expert Advice For Organizations Launching DevOps Programs](https://www.forbes.com/sites/forbestechcouncil/2023/06/02/19-pieces-of-expert-advice-for-organizations-launching-devops-programs/)
   * [DevOps 프로그램을 시작하려는 조직 위한 전문가 조언 19가지 | GeekNews](https://news.hada.io/topic?id=14037)
     * 작게 시작, 자주 반복
