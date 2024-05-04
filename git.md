@@ -1363,9 +1363,11 @@ Git
     * GitHub Advanced Security에서 AI 기반 보안 기능 지원
       * GitHub Copilot Chat에서 IDE에서 취약점 수정 제안
       * Pull Request에서 JavaScript/TypeScript에 대해 코드 스캐닝을 통해 AI가 취약점 수정 사안 제안
-    * GitHub Copilot Workspace
+    * [GitHub Next | Copilot Workspace](https://githubnext.com/projects/copilot-workspace)
       * GitHub 이슈에서 워크스페이스를 열면 변경에 대한 제안을 AI가 해주고 이를 바로 코드 수정 및 실행한 후 Pull Request까지 가능
       * 24년 출시 예정
+      * [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment - The GitHub Blog](https://github.blog/2024-04-29-github-copilot-workspace/)
+        * GitHub 이슈에서 AI를 이용해서 변경 사항을 제시하고 Pull Request까지 올릴 수 있는 GitHub Copilot Workspace의 테크니컬 프리뷰 공개
   * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
     * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
   * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
