@@ -206,6 +206,7 @@ Artificial Intelligence
 * [VDBUH2024 - Olimpiu Pop & Steve Poole - AI Showdown: The Good, The Glitchy, and The Risky - YouTube](https://www.youtube.com/watch?v=WAxBGqiWCI0)
   * [VidiGo VDBUH2024 - Olimpiu Pop & Steve Poole - AI Showd](https://vidigo.ai/share/summary/706c30ce96cf)
   * [VDBUH2024 - 올림피우 팝 & 스티브 풀 - AI 대결: 좋은 점, 결함, 그리고 위험한 점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526867)
+* [배민선물하기 AI 메시지 제작기: 생성 AI가 센스 있는 선물 메시지를 대신 쓰기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17241/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
