@@ -677,6 +677,7 @@ Javascript
 * [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
 * [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
+* [클라이언트 테이블과 서버 테이블 개념](https://velog.io/@leehyunho2001/client-table-server-table) component
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
 * [How to Use Decorators in JavaScript | JavaScript in Plain English](https://javascript.plainenglish.io/using-decorators-in-javascript-e80674e4c6fa)
@@ -5515,6 +5516,7 @@ Javascript
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [Next server actions | React memo | Social media card preview in Next - YouTube](https://www.youtube.com/watch?v=T2CwGbq_sIM)
   * [Adding Google Analytics to Next.js : A Step By Step Guide](https://www.bugblitz.dev/2024/04/adding-google-analytics-to-nextjs.html)
+  * [Next.js 캐싱으로 웹 서버 성능 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2024/240418-optimizing-nextjs-cache/)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
