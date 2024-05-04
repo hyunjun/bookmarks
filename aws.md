@@ -813,7 +813,10 @@ AWS
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
 * [Amazon CloudWatch 기반 하이브리드, 멀티클라우드 및 온프레미스 지표 통합 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/)
-* [AWS 글로벌 네트워크 성능 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-aws-global-network-performance/)
+* [AWS 글로벌 네트워크 성능 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-aws-global-network-performance)
+  * AWS Network Manager에 리전간 네트워크 상태를 추적할 수 있는 Infrastructure Performance 기능 추가
+  * 이를 이용하면 리전 간, AZ 간, AZ 내의 네트워크 지연시간과 상태를 모니터링 가능
+  * 지표로 만들어서 CloudWatch에서 볼 수도 있고 API로 확인 가능
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -2680,6 +2683,11 @@ AWS
     * 이 프로바이더는 자동으로 생성되기 때문에, AWS에 새 기능이 나오면 바로 사용 가능
 * [HashiTalks 2024 - YouTube](https://www.youtube.com/watch?v=MxBXwbGVv08)
 * [CloudFront에서 website endpoint 사용](https://jybaek.tistory.com/1019)
+* [It’s Time to Retire Terraform. Terraform exists in many people’s… | by Eric Larssen | Apr, 2024 | Real Kinetic Blog](https://blog.realkinetic.com/its-time-to-retire-terraform-30545fd5f186)
+  * Terraform은 IaC(Infrastructure as Code)로 큰 인기
+    * 사용 패턴이 복잡하고 Drift 관리가 어렵고 클라우드 불가지론도 실제로는 의미 없고 협업자가 많아지면 더욱 어려워지는 등의 단점
+  * 최근 라이센스 변경과 분열로 문제가 더 심해지고 있기에 Kubernetes Operator 패턴이 강력한 대안이 될 수 있다고 제안
+  * 글에는 동의하지만, 글쓴이가 Konfig라는 관련 도구를 만드는 회사라는 걸 감안 필요
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
