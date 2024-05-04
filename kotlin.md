@@ -448,6 +448,7 @@
   * [Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-jpa-criteria-api-with-kotlin/)
     * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
     * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
+  * [Spoqa 기술 블로그 | Querydsl에서 Kotlin JDSL 으로](https://spoqa.github.io/2024/05/03/transfer-jdsl.html)
 
 # Kotlin Multiplatform Mobile KMM
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
