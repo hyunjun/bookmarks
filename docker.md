@@ -900,6 +900,11 @@ Docker
 * [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
 * [KubeCon Vlog 1편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=F4GOwBfbkrI)
 * [KubeCon Vlog 2편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=n3KPbRvbbgE)
+* [ThanosCon Retrospective | @bwplotka](https://www.bwplotka.dev/2024/thanoscon2024/)
+  * Kubecon Europe 2024에서 Promethues 롱텀 스토리지인 Thanos의 콘퍼런스인 ThanosCon이 처음으로 개최
+  * Thanos를 Fabian Reinartz와 함께 만든 Bartek Płotka가 콘퍼런스를 개최한 후기를 정리한 글
+  * Bartek Płotka는 ThanosCon을 계속하고 싶어서 사람들한테 물어보다가 원하는 사람들이 있다는 걸 알게 되고
+    * Kubecon에서 진행하기 위해 제안서를 내고 승인받아서 콘퍼런스를 열게 되었고 콘퍼런스를 해보면서 알게 된 점을 정리
 
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
