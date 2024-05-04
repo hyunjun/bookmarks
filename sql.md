@@ -931,6 +931,7 @@ SQL
 * [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
 * [이커머스 플랫폼의 주문 DB 마이그레이션 경험기](https://techblog.lycorp.co.jp/ko/experience-in-migrating-order-db-on-ecommerce-platform) Oracle to MySQL
+* [읽기 전용 설정으로 MySQL 이전하기](https://techblog.lycorp.co.jp/ko/migrate-mysql-with-read-only-mode)
 * [Replica 에 Write 가 된다고? MySQL Writable Replica 로 데이터 분석용 DB 만들기](https://blog.gangnamunni.com/2020/02/05/mysql_writable_replica_on_aws.html)
 * [MySQL (MariaDB) 인덱스 컨디션 푸시다운](https://jojoldu.tistory.com/474)
 * [1. 커버링 인덱스 (기본 지식 / WHERE / GROUP BY)](https://jojoldu.tistory.com/476)
