@@ -4809,6 +4809,8 @@ Javascript
 * [Component-Driven Development](https://www.chromatic.com/blog/component-driven-development/)
   * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 * [(번역) 2024 리액트 라이브러리 | Ykss](https://ykss.netlify.app/translation/react_libraries_for_2024/)
+* [React 19 Beta – React](https://react.dev/blog/2024/04/25/react-19)
+  * React 19의 첫 베타버전 공개. React 19에는 비동기 전환을 사용하는 함수인 Actions와 React Server Component가 추가
 * [React 업데이트 근황과 React 19 소식 | 커리어리](https://careerly.co.kr/comments/99528)
 * [React Compiler & React 19 - forget about memoization soon?](https://www.developerway.com/posts/react-compiler-soon)
   * [번역 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
@@ -5107,6 +5109,8 @@ Javascript
   * Toss에서 실험을 통해서 제품을 개선하는 곳에서는 React Native와 WebView 사용
   * WebView에 기술적 한계에 비해서 React Native는 로딩속도가 빠르고 배포도 빠르기 때문에 이점이 많아서 점점 많이 사용
   * 마이크로 프론트엔드 아키텍처로 서비스마다 뷰를 나누었고 ESBuild를 통해 빠른 배포와 로딩을 사용
+* [State of React Native 2023](https://results.stateofreactnative.com/)
+  * React Native 생태계의 현황을 2,400명에게 조사한 결과 공개. 플랫폼 API의 비중, 사용하는 라이브러리의 선호도, 관련 도구 등 통계
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
