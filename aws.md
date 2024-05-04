@@ -529,6 +529,7 @@ AWS
 * [Cloud-Computing in the Post-Serverless Era: Current Trends and beyond - InfoQ](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 * [AWS Signer를 사용하여 컨테이너 이미지 빌드 파이프라인을 보호하기 위한 모범 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/)
 * [AWS Config란?](https://www.smileshark.kr/post/aws-config)
+* [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2330,6 +2331,7 @@ AWS
 * [GUI 환경을 이용하여 안전하게 Amazon RDS 또는 Amazon EC2 DB 인스턴스에 원격 접근하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
 * [Amazon Aurora 및 Amazon RDS의 MySQL 데이터베이스에 대한 Amazon RDS 연장 지원 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-rds-extended-support-for-mysql-databases-on-amazon-aurora-and-amazon-rds/)
 * [Why Postgres RDS didn’t work for us (and why it won’t work for you if you’re implementing a big data solution) | by Max Kremer | Jan, 2024 | Medium](https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644)
+* [Amazon RDS Custom에서 D’Amo를 이용한 안전한 데이터 암호화 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-secure-data-encryption-with-damo-in-amazon-rds-custom/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
