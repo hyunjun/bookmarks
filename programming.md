@@ -8221,6 +8221,7 @@ Programming
 * [백엔드 개발자가 만들어 본 App 테스트 자동화 (feat. Appium, Jenkins, AWS DeviceFarm) :: Jay's Code Factory](https://jay-ji.tistory.com/122)
 * [29CM QA팀의 2023년 워크샵 200% 활용기. 29CM에서는 연 최대 2회로 1인당 10만원의 비용을 지원하여… | by 박현준 | 29CM TEAM | Jan, 2024 | Medium](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%98-2023%EB%85%84-%EC%9B%8C%ED%81%AC%EC%83%B5-200-%ED%99%9C%EC%9A%A9%EA%B8%B0-b6caadd89ceb)
 * [우아한형제들 디자인 시스템에 시각적 회귀 테스트 적용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17081/)
+* [Python으로 QA 블랙박스 만들기](https://chance-doe.tistory.com/21)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
