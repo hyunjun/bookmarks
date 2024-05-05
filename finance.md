@@ -125,6 +125,7 @@ Finance
 * [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
 * [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
 * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw) 발행어음
+* [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E) 발행어음
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
 * [💵 미국채권을 직접 사는 방법ㅣ개별채권 - YouTube](https://www.youtube.com/watch?v=QNB14iUQ9T8)
