@@ -3039,6 +3039,9 @@ Business
 * [스타트업 세일즈 바이블 B2B 영업에 대한 오해와 진실 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2023/05/12/b2b-sales-3/)
 * [SaaS 영업사원을 존중하세요](https://maily.so/saascenter/posts/cbfa757f)
 * [B2B 플랫폼이 성공하기 어려운 이유](https://maily.so/saascenter/posts/eed8bdb6)
+* [Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연 - YouTube](https://www.youtube.com/watch?v=RLnBSwZ-flw)
+  * [VidiGo Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연.mp4](https://vidigo.ai/share/summary/0703c06c5800)
+  * [Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585302)
 * [(1) Jinhwan Kim - 3년 전에 썼던 "스타트업이 영업을 간과하는 이유와 그 대안"이 작게나마 파장을 불러일으켰다.... | Facebook](https://www.facebook.com/jinhwan.kim.319/posts/pfbid0nTpUU1PnA3vjiu5P8Tgo6cdrJZzDuApde2CNingkY4BChKRwptZC1ibcfmoVWhBXl)
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
@@ -3064,18 +3067,19 @@ Business
     * 예컨데 200여개의 성공적 피치덱을 분석해보니, 공통된 순서가 있었다. 투자자 입장에서 생각하는 간단한 예는, 투자자에게 익숙한 이 순서를 지키려는 노력 아닐까?
     * 투자자가 가장 중요하게 생각하는 섹션은 뭘까? 답은 Financial, Team, Competition
     * 답은 상대편의 시각, 고객이건 투자자건 + 핵심 부분은 자유롭고 창의적으로/그 외의 부분은 routine하게 널리 쓰이는 형식에 맞춰서
-* Startup Series
-  * [주종익의“How To” Startup]
-    * [5 Factors](http://www.venturesquare.net/578774)
-    * [Business Model](http://www.venturesquare.net/579857)
-    * [Product](http://www.venturesquare.net/583239)
-    * [Workaholic](http://www.venturesquare.net/583963)
-    * [Analysis](http://www.venturesquare.net/584714)
-    * [Growth](http://www.venturesquare.net/586664)
+* [주종익 한국외국어대학교 외래 교수, Author at 벤처스퀘어](https://www.venturesquare.net/author/cichoo)
+  * [5 Factors](http://www.venturesquare.net/578774)
+  * [Business Model](http://www.venturesquare.net/579857)
+  * [Product](http://www.venturesquare.net/583239)
+  * [Workaholic](http://www.venturesquare.net/583963)
+  * [Analysis](http://www.venturesquare.net/584714)
+  * [Growth](http://www.venturesquare.net/586664)
 * 코리안 스타트업을 위한 글로벌 여행 티켓
   * [64편. ‘제 1세계 문제들’과 스타트업](http://www.venturesquare.net/580378)
   * [66편. 예측할 수 없는 것을 준비하는 일](http://www.venturesquare.net/582533)
   * [69편. 중립기어 상태에서 가속페달 밟기](http://www.venturesquare.net/585058)
+* [LinkedIn Kyum Kim 페이지: Korea to Global by Kyum Kim | 댓글 14](https://www.linkedin.com/posts/kyumkim_korea-to-global-by-kyum-kim-activity-7192044291131645952-miBk)
+  * [Korea to Global by Kyum Kim - Google Slides](https://docs.google.com/presentation/d/1WvMaaywq0LHW4N8d46a12S2QcS-k3ZcZ_mQZ_gILthQ/edit#slide=id.g2c1f1afd47b_0_0)
 * 스타트업 비즈니스 개발
   * [(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
   * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
@@ -3497,6 +3501,10 @@ Business
 * [구독 서비스의 성장 지표 확인하기: 구독자와 매출. (1)구독자 | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C%EB%B6%84%EC%84%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1-%EA%B5%AC%EB%8F%85%EC%9E%90-92f0a6ec4243)
 * [구독 서비스의 성장 지표 확인하기 #1. (1) 구독자 지표 | by Seunghwa Yang | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%84%B1%EC%9E%A5-%EC%A7%80%ED%91%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-1-7bae90039715)
 * [고등학교 중퇴 후 23살에 유니콘 스타트업 만든 창업가의 깨달음](https://eopla.net/magazines/8985)
+* [THE MOM TEST How to talk to customers and learn if your business is a good idea when everyone is lying to you](https://manuelohan.com/wp-content/uploads/2017/05/The-Mom-Test-en.pdf)
+* [How To Talk To Users | Startup School - YouTube](https://www.youtube.com/watch?v=z1iF1c8w5Lg)
+  * [VidiGo How To Talk To Users | Startup School.mp4](https://vidigo.ai/share/summary/a6f51a9dbcdd)
+  * [Y 콤비네이터 - 사용자와 대화하는 방법 | 스타트업 스쿨 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585294)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
