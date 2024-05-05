@@ -2081,6 +2081,7 @@ NLP
   * [VidiGo Yuri Orshulevich - LLM-Generated Text Detection.mp](https://vidigo.ai/share/summary/d35b49a1cceb)
   * [유리 오르슐레비치 - LLM으로 생성된 텍스트 감지 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/555985)
 * [이민석 - "Textbooks are all you need", 마이크로소프트의 작은 LLM 논문 제목이다. 훈련... | Facebook](https://www.facebook.com/minsuk.lee0/posts/pfbid0sUqQ4myqaKT2CnBoLXSWKYoWaaWoUSKfTCZfSLwfqe7JaqFJFmo4gAJsPv9KPEBNl)
+* [LinkedIn Jeonghwan Park 페이지: Chat 모델에 raw 데이터를 학습시킬 수 있을까?](https://www.linkedin.com/posts/jeonghwan-park-6b97b1245_layer-switching-variable-instruct-model-activity-7189224193878642688-XO2U)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
