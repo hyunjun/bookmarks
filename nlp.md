@@ -2131,6 +2131,7 @@ NLP
   * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
 * [dbrx: Code examples and resources for DBRX, a large language model developed by Databricks](https://github.com/databricks/dbrx)
   * [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+* [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
