@@ -182,6 +182,7 @@ Product
 * [내가 써본 최고의 기계식 키보드 TOP5 / 2022년 신제품 포함 - YouTube](https://www.youtube.com/watch?v=R_VKJJ7cctg)
 * [Keys To A Dream Software Development Setup - YouTube](https://www.youtube.com/watch?v=pK41Mr4Kdd0)
 * [도면 공유합니다..! (한국인전용 인체공학 스플릿 키보드) - YouTube](https://www.youtube.com/watch?v=i9VYkHp0Km0)
+* [N사 출신 개발자가 만든 한국형 스플릿 키보드 | 제작기 1탄 - YouTube](https://www.youtube.com/watch?v=qbYRLMHMjMc)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
