@@ -178,6 +178,9 @@ Java
 * [How Netflix Really Uses Java - YouTube](https://www.youtube.com/watch?v=BaUrpq_7KMk)
   * [VidiGo How Netflix Really Uses Java.mp4](https://vidigo.ai/share/summary/58b210aaa708)
   * [넷플릭스가 실제로 자바를 사용하는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/531301)
+* [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz - YouTube](https://www.youtube.com/watch?v=bKwzONOGLxs)
+  * [VidiGo Devoxx Greece 2024 - Java Language Update -- a loo](https://vidigo.ai/share/summary/9e4184b9e8d6)
+  * [Devoxx Greece 2024 - Java 언어 업데이트 - Brian Goetz의 언어가 나아갈 방향 살펴보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585507)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
