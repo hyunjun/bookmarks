@@ -94,3 +94,4 @@ Economy
 * [오석태 박사의 한국경제 전망: 암울하다](http://ppss.kr/archives/54351)
 * [부동산이라는 기묘한 인질극](http://ppss.kr/archives/57299)
 * [헬조선 시리즈 1 – 실업률은 낮아졌지만 가난해진 노동자들](http://newstapa.org/28918)
+* [“김재규가 쏘지 않았어도 ‘박정희 경제 모델’은 망했을 것”](https://www.hani.co.kr/arti/economy/heri_review/1139002.html) 불평등 경제학자 이정우
