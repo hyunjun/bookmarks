@@ -1797,6 +1797,8 @@ Deep Learning
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
 * [신경망(neural networks)에서 편향(bais)의 역할 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1655)
+* [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
+  * [CoreNet으로 OpenELM 모델을 사용해보기 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2329)
 * [Mixture-of-Experts with Expert Choice Routing – Google AI Blog](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
   * 딥러닝의 성능을 높이기 위해서는 파라미터의 수를 증가시키는 것이 일반적
     * Mixture-of-Experts라는 방법을 활용하면 네트워크의 일부가 조건부로 활성화 가능
