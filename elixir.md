@@ -426,6 +426,9 @@ Elixir
         * 이 프레임워크는 보안, 파일 업로드, 상태 복구, 코드 구성, JS 요구 사항 및 *대량 데이터 집합 작업*과 같은 다양한 문제를 다룸
         * LiveView는 이러한 문제들의 세부 사항을 해결하고, 간단한 API를 노출하여 솔루션을 활용하고 필요할 때 확장할 수 있도록 함
         * LiveView의 선언적 성격은 웹 개발의 어려운 부분을 처리하며, 응용 프로그램의 요구 사항을 충족하는 앱 코드만 작성하면 됨
+  * [Elixir, Phoenix LiveView & Erlang • Sophie DeBenedetto & Andrea Leopardi - YouTube](https://www.youtube.com/watch?v=hakiDR_Esfc)
+    * [VidiGo Elixir, Phoenix LiveView & Erlang • Sophie DeBened](https://vidigo.ai/share/summary/0e034012be3c)
+    * [엘릭서, 피닉스 라이브뷰 및 얼랑 - Sophie DeBenedetto & Andrea Leopardi | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585600)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
