@@ -191,6 +191,9 @@ Functional Programming
 * ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman - YouTube](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
 * [Functional Programming for Pragmatists • Richard Feldman • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=3n17wHe5wEw)
 * [Why Functional Programming Matters • John Hughes • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=JQDRCTa32jY)
+* [The Effect Of Uncapturable - Oleg Nizhnik, Scala Stockholm Spring Meetup April 2024 Part 1 - YouTube](https://www.youtube.com/watch?v=4itLwFK_-BA)
+  * [VidiGo The Effect Of Uncapturable - Oleg Nizhnik, Scala S](https://vidigo.ai/share/summary/61606a250db8)
+  * [캡처할 수 없는 것의 효과 - 2024년 4월 스칼라 스톡홀름 스프링 밋업 1부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/588848)
 
 # Clojure
 * [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU)
