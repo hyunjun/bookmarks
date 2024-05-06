@@ -3155,6 +3155,7 @@ Programming Books
   * 한라, 탐라
   * [넷플릭스의 인재 확보를 위한 냉혹한 전략 - 테크42](https://www.tech42.co.kr/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%ec%9d%98-%ec%9d%b8%ec%9e%ac-%ed%99%95%eb%b3%b4%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%83%89%ed%98%b9%ed%95%9c-%ec%a0%84%eb%9e%b5/)
   * [<규칙 없음> Why Not? 다만 남는 질문들](https://brunch.co.kr/@manya/500)
+  * [Book 규칙 없음 - 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1720)
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
@@ -4400,6 +4401,7 @@ Programming Books
   * [스트리트 코더 - Jun’s Substack](https://recur.substack.com/p/7fd)
   * [스트리트 코더](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EC%BD%94%EB%8D%94)
 * 켄트 벡의 Tidy First? [켄트 벡이 말하는 “코드 정리가 필요한 이유” - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5225001600)
+  * [켄트 벡의 ‘Tidy First?’를 읽고](https://hiddenest.dev/tidy-first)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
