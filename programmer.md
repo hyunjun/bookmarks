@@ -32,58 +32,6 @@ Programmer
   * [8년차 개발자가 전하고 싶은 조언들](https://www.linkedin.com/posts/danielylee_8%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A0%84%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%A1%B0%EC%96%B8%EB%93%A4%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%9D%BD%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A0%80%EC%99%80-%EC%97%B0%EC%B0%A8%EB%8F%84-activity-7186192335842545664-_0QL/)
 * [21 lessons I wish I’d known earlier in my software engineering career. | by Harsh Makadia | Geek Culture | Medium](https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1)
 * [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
-* [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
-* [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
-* [What Happens When You Lack Senior Engineering Leadership](https://medium.com/swlh/what-happens-when-you-lack-senior-engineering-leadership-84ce189158b2)
-* [Team Empowerment: When it is time for you Lead Dev to let go of responsibilities? by Blagoj Jovanov - YouTube](https://www.youtube.com/watch?v=CkDqnlH_G24)
-* [Senior to a Lead software developer | by Daniel Anderson | The Startup | Medium](https://medium.com/swlh/senior-to-lead-software-developer-things-they-didnt-tell-you-48123b34381)
-* [10 habits of Senior Software Developers (part 1) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-a-software-developer-1-8d18e4a06b09)
-* [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
-* [The Things I Learned to Become a Senior Software Engineer | by Neil Kakkar | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-things-i-learned-to-become-a-senior-software-engineer-1083686d70cd)
-* [5 Signs of a Senior Developer. Being a senior developer has to do with… | by Daan | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-signs-of-a-senior-developer-7f5c59093c73)
-* [The One and Only Factor That Will Make You a Senior Developer | by Travis Rodgers | The Startup | Medium](https://medium.com/swlh/the-one-and-only-factor-that-will-make-you-a-senior-developer-4fdd9d21b8c4)
-* [An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
-* [시니어가 되기 위한 준비, 「개발 큐레이션」과 함께한 2021 - Dico](https://dico.me/miscellany/articles/297/ko)
-* [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면 - YouTube](https://www.youtube.com/watch?v=MXl_t1vjkyU)
-  * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면"](https://www.slideshare.net/InfraEngineer/ss-250837891)
-* [저도 시니어는 처음이라. 시니어 엔지니어는 무슨 일을 해야하나요? | by 조은, John Cho | Mar, 2022 | Medium](https://euncho.medium.com/%EC%A0%80%EB%8F%84-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%8A%94-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-e3fbd6ba99de)
-* [The Things That I Saw Senior Software Engineers Do | by Michael Chi | Better Programming](https://betterprogramming.pub/the-things-that-i-saw-senior-software-engineers-do-6a9f49b9e54f)
-  * [시니어 소프트웨어 엔지니어는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/771/)
-* [NDC22 언젠가 시니어가 될 주니어 프로그래머를 위한 강연](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=150977)
-* [우아한형제들에서 시니어 개발자로 일하면 어떨까? – (1) 일 | 우아한형제들 기술블로그 |](https://techblog.woowahan.com/12250/)
-* [중간관리자 혹은 시니어 개발자를 격려하라](https://brunch.co.kr/@graypool/1081)
-  * 1. 업무를 전달하고 다시 확인을 할 필요가 없음 2. 주변 사람들을 도움
-  * 꼭 개발자가 아니어도 해당하는 이야기. 일반적이지만 좋은 정의라고 생각
-* [Transitioning into Tech: The Journey of a Senior Junior Developer by Ibrahim Dogrusoz - YouTube](https://www.youtube.com/watch?v=9P_eq_d8GRs)
-* [The Curse of the Senior Software Engineer - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer)
-  * Claude 3 Sonnet v1
-    * 직급에서 오랫동안 정체되면 다음 직업 탐색 시 어려움 발생
-      * 상위 직급으로 승진하기에는 경력이 부족
-      * 리더십 경험이 부족해 리더 직위로 가기 어려움
-    * 이런 현상을 "시니어 소프트웨어 엔지니어의 저주"라고 부름
-    * 저주 해결 방법
-      * 기업 문화에 동참하고 직급 체계를 중시
-      * 기업 문화를 벗어나 직급에 연연하지 않는 회사 찾기
-      * 프리랜서 또는 계약직으로 전환
-  * Claude 3 Haiku v1
-    * 타이틀에 관심을 가지는 이유
-      * 임금 범위 정립
-      * 승진과 평가를 위해
-    * 승진하지 못하면 성과 개선 프로세스 대상이 되거나 해고 될 수 있음
-    * 다른 회사로 이직하는 것이 승진과 임금 인상의 방법이 될 수 있음
-    * 하지만 장기 근속자 중에서도 승진 없이 동일한 직위에 머무르는 경우가 있음
-    * "선임 소프트웨어 엔지니어의 저주"
-      * 개인 기여형(IC)에서 리더십으로의 전환이 중요한데, 선임 엔지니어 직급에 오래 머무르는 경우 문제가 발생
-      * 선임 엔지니어 직급 이상의 역할을 수행하기 위해서는 리더십 경험이 필요하지만, 오랜 기간 선임 직급에 머물러 있으면 리더십 경험이 부족해짐
-      * 이런 경우 새 직장을 찾을 때 선임 직급에 지원하기에는 과도한 경력을, 리더십 직급에 지원하기에는 경험이 부족하게 됨
-    * 저주를 피하는 방법
-      * 기업 내 승진 경로를 잘 이해하고 주기적인 승진을 받아야 함
-      * 그렇지 않다면 다른 회사로 이직하여 타이틀 및 임금 상승을 도모해야 함
-      * 또 다른 방법은 타이틀 및 경력 ladder에 관심이 없는 회사를 찾는 것
-  * 시니어 개발자로서 오래 일하면서 승진에 전혀 관심 없었지만
-    * 시간이 지나 창업하려다가 다시 취업을 시도하다 보니 시니어로 채용하기엔 너무 높은 직급이거나 리더쉽으로 채용하기에는 경험이 부족한 상황 설명
-    * 본인의 가설이긴 하지만 맞다면 다른 사람들은 조심했으면 좋겠다고 이야기
-    * 승진 주기에 맞춰서 커리어를 관리하거나 빅테크식의 관리 방법을 쓰지 않는 회사를 찾는 해결책이 있다고 설명
 * [연차가 쌓일 수록 익숙해져야하는 5가지. 주니어이지만 주니어이고 싶지 않은 프론트엔드 5년차 개발자 | by FlyingSquirrel | Apr, 2023 | Medium](https://flyingsquirrel.medium.com/%EC%97%B0%EC%B0%A8%EA%B0%80-%EC%8C%93%EC%9D%BC-%EC%88%98%EB%A1%9D-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A0%B8%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-d88397dc96d)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
@@ -457,6 +405,7 @@ Programmer
   * [스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의 | GeekNews](https://news.hada.io/topic?id=9431)
 * [개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2198/)
 * [그대들, 어떻게 공부할 것인가 - Google Slides](https://docs.google.com/presentation/d/1KvrS58SZdhSxYHvIq3SXIbYGwBzKyj8jekJB-O9RTTk/edit)
+* [엔지니어링 레벨링은 누더기가 되었나?](https://hiddenest.dev/engineer-leveling)
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
@@ -483,3 +432,58 @@ Programmer
 * Leslie Lamport [The Man Who Revolutionized Computer Science With Math - YouTube](https://www.youtube.com/watch?v=rkZzg7Vowao)
 * Margaret Hamilton [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+
+# Senior
+* [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
+* [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
+* [What Happens When You Lack Senior Engineering Leadership](https://medium.com/swlh/what-happens-when-you-lack-senior-engineering-leadership-84ce189158b2)
+* [Team Empowerment: When it is time for you Lead Dev to let go of responsibilities? by Blagoj Jovanov - YouTube](https://www.youtube.com/watch?v=CkDqnlH_G24)
+* [Senior to a Lead software developer | by Daniel Anderson | The Startup | Medium](https://medium.com/swlh/senior-to-lead-software-developer-things-they-didnt-tell-you-48123b34381)
+* [10 habits of Senior Software Developers (part 1) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-a-software-developer-1-8d18e4a06b09)
+* [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
+* [The Things I Learned to Become a Senior Software Engineer | by Neil Kakkar | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-things-i-learned-to-become-a-senior-software-engineer-1083686d70cd)
+* [5 Signs of a Senior Developer. Being a senior developer has to do with… | by Daan | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-signs-of-a-senior-developer-7f5c59093c73)
+* [The One and Only Factor That Will Make You a Senior Developer | by Travis Rodgers | The Startup | Medium](https://medium.com/swlh/the-one-and-only-factor-that-will-make-you-a-senior-developer-4fdd9d21b8c4)
+* [An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+* [시니어가 되기 위한 준비, 「개발 큐레이션」과 함께한 2021 - Dico](https://dico.me/miscellany/articles/297/ko)
+* [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면 - YouTube](https://www.youtube.com/watch?v=MXl_t1vjkyU)
+  * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면"](https://www.slideshare.net/InfraEngineer/ss-250837891)
+* [저도 시니어는 처음이라. 시니어 엔지니어는 무슨 일을 해야하나요? | by 조은, John Cho | Mar, 2022 | Medium](https://euncho.medium.com/%EC%A0%80%EB%8F%84-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%8A%94-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-e3fbd6ba99de)
+* [The Things That I Saw Senior Software Engineers Do | by Michael Chi | Better Programming](https://betterprogramming.pub/the-things-that-i-saw-senior-software-engineers-do-6a9f49b9e54f)
+  * [시니어 소프트웨어 엔지니어는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/771/)
+* [NDC22 언젠가 시니어가 될 주니어 프로그래머를 위한 강연](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=150977)
+* [우아한형제들에서 시니어 개발자로 일하면 어떨까? – (1) 일 | 우아한형제들 기술블로그 |](https://techblog.woowahan.com/12250/)
+* [중간관리자 혹은 시니어 개발자를 격려하라](https://brunch.co.kr/@graypool/1081)
+  * 1. 업무를 전달하고 다시 확인을 할 필요가 없음 2. 주변 사람들을 도움
+  * 꼭 개발자가 아니어도 해당하는 이야기. 일반적이지만 좋은 정의라고 생각
+* [Transitioning into Tech: The Journey of a Senior Junior Developer by Ibrahim Dogrusoz - YouTube](https://www.youtube.com/watch?v=9P_eq_d8GRs)
+* [The Curse of the Senior Software Engineer - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer)
+  * Claude 3 Sonnet v1
+    * 직급에서 오랫동안 정체되면 다음 직업 탐색 시 어려움 발생
+      * 상위 직급으로 승진하기에는 경력이 부족
+      * 리더십 경험이 부족해 리더 직위로 가기 어려움
+    * 이런 현상을 "시니어 소프트웨어 엔지니어의 저주"라고 부름
+    * 저주 해결 방법
+      * 기업 문화에 동참하고 직급 체계를 중시
+      * 기업 문화를 벗어나 직급에 연연하지 않는 회사 찾기
+      * 프리랜서 또는 계약직으로 전환
+  * Claude 3 Haiku v1
+    * 타이틀에 관심을 가지는 이유
+      * 임금 범위 정립
+      * 승진과 평가를 위해
+    * 승진하지 못하면 성과 개선 프로세스 대상이 되거나 해고 될 수 있음
+    * 다른 회사로 이직하는 것이 승진과 임금 인상의 방법이 될 수 있음
+    * 하지만 장기 근속자 중에서도 승진 없이 동일한 직위에 머무르는 경우가 있음
+    * "선임 소프트웨어 엔지니어의 저주"
+      * 개인 기여형(IC)에서 리더십으로의 전환이 중요한데, 선임 엔지니어 직급에 오래 머무르는 경우 문제가 발생
+      * 선임 엔지니어 직급 이상의 역할을 수행하기 위해서는 리더십 경험이 필요하지만, 오랜 기간 선임 직급에 머물러 있으면 리더십 경험이 부족해짐
+      * 이런 경우 새 직장을 찾을 때 선임 직급에 지원하기에는 과도한 경력을, 리더십 직급에 지원하기에는 경험이 부족하게 됨
+    * 저주를 피하는 방법
+      * 기업 내 승진 경로를 잘 이해하고 주기적인 승진을 받아야 함
+      * 그렇지 않다면 다른 회사로 이직하여 타이틀 및 임금 상승을 도모해야 함
+      * 또 다른 방법은 타이틀 및 경력 ladder에 관심이 없는 회사를 찾는 것
+  * 시니어 개발자로서 오래 일하면서 승진에 전혀 관심 없었지만
+    * 시간이 지나 창업하려다가 다시 취업을 시도하다 보니 시니어로 채용하기엔 너무 높은 직급이거나 리더쉽으로 채용하기에는 경험이 부족한 상황 설명
+    * 본인의 가설이긴 하지만 맞다면 다른 사람들은 조심했으면 좋겠다고 이야기
+    * 승진 주기에 맞춰서 커리어를 관리하거나 빅테크식의 관리 방법을 쓰지 않는 회사를 찾는 해결책이 있다고 설명
+* [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
