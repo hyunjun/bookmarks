@@ -8104,6 +8104,8 @@ Programming
   * [VDBUH2023 - Oleg Šelajev - Testing cloud-native applications with ease! - YouTube](https://www.youtube.com/watch?v=3sSRBOhgTK4)
   * [Mastering Testcontainers for Better Integration Tests - YouTube](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
   * [Testcontainers - 실제 의존성을 가진 단위 테스트 | GeekNews](https://news.hada.io/topic?id=13568)
+  * [Testcontainers have forever changed the way I write tests - YouTube](https://www.youtube.com/watch?v=sNg0bnMF_qY)
+    * [테스트 컨테이너는 제가 테스트를 작성하는 방식을 완전히 바꿔놓았습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/589476)
   * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
     * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
@@ -8181,6 +8183,7 @@ Programming
   * [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST - YouTube](https://www.youtube.com/watch?v=5Qw05CvbH1g)
 * [OpenFeature](https://openfeature.dev/) feature flag
   * [flagd](https://flagd.dev/)
+* [Product Analytics - PostHog](https://posthog.com/product-analytics)
 * [Wasabi A/B Testing service is an open source project that is no longer under active development or being supported](https://github.com/intuit/wasabi)
 
 ## TDD, Test, A/B test alternatives
