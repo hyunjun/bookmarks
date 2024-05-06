@@ -1368,6 +1368,7 @@ Git
       * 24년 출시 예정
       * [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment - The GitHub Blog](https://github.blog/2024-04-29-github-copilot-workspace/)
         * GitHub 이슈에서 AI를 이용해서 변경 사항을 제시하고 Pull Request까지 올릴 수 있는 GitHub Copilot Workspace의 테크니컬 프리뷰 공개
+      * [돌겠네... Copilot 때문에 XX프로그래머 사라질수도... - YouTube](https://www.youtube.com/watch?v=0R3eZqvaE4Q)
   * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
     * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
   * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
