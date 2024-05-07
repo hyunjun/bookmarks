@@ -1621,6 +1621,7 @@ Deep Learning
 * [NeRF: 2D 이미지를 3D로 바꿔준다고요? - 모두의연구소](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
 * [NeRF의 단점과 후속 연구 소개 - 모두의연구소](https://modulabs.co.kr/blog/nerf-followup/)
 * [NeRF 구현 톺아보기 (feat. Camera to World Transformation)](https://velog.io/@gjghks950/NeRF-%EA%B5%AC%ED%98%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-feat.-Camera-to-World-Transformation)
+* [평범한 서버 개발자의 3D 생성 모델 연구 맛보기 — Dream Fusion by Google | by scalalang2 | 취미로 논문 읽는 그룹 | May, 2024 | Medium](https://medium.com/rate-labs/%ED%8F%89%EB%B2%94%ED%95%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3d-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-%EC%97%B0%EA%B5%AC-%EB%A7%9B%EB%B3%B4%EA%B8%B0-dream-fusion-by-google-11c3370920ae)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
