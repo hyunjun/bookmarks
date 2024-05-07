@@ -1626,6 +1626,8 @@ SQL
   * [SQLite: Past, Present, and Future | GeekNews](https://news.hada.io/topic?id=7327)
 * [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [Array columns in SQLite - DEV Community](https://dev.to/fractaledmind/array-columns-in-sqlite-15i0)
+* [이 데이터베이스는 99.9%의 웹사이트에 완벽합니다 - YouTube](https://www.youtube.com/watch?v=ax-Q1iedXJA)
+  * 155000 lines of code, 92000000 lines of test code (600 times)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
