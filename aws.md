@@ -1606,6 +1606,9 @@ AWS
 * [트랙 2-1 MARVEL SNAP - AWS 서버리스 서비스 만으로 올해의 모바일 게임의 스케일 구현 - YouTube](https://www.youtube.com/watch?v=lHN7gT14Wn4)
   * [VidiGo 트랙 2-1 MARVEL SNAP - AWS 서버리스 서비스 만으로 올해의 모바일 게임](https://vidigo.ai/share/summary/ceaa36f6dde0)
   * [트랙 2-1 MARVEL SNAP - AWS 서버리스 서비스 만으로 올해의 모바일 게임의 스케일 구현 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/588463)
+* [Functions vs Containers: The Serverless Landscape • Marcia Villalba & Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=V9Op638hCs0)
+  * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/9eeb478b0ba1)
+  * [함수 대 컨테이너: 서버리스 환경 - 마르시아 비얄바 & 줄리안 우드 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/595172)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
