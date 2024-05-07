@@ -848,6 +848,8 @@ Javascript
   * [번역 그것을 위해 자바스크립트를 사용할 필요는 없습니다](https://velog.io/@eunbinn/You-dont-need-JavaScript-for-that)
 * [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
   * [**(번역) 자바스크립트 생태계를 더 빠르게** - 라이브러리 하나씩](https://velog.io/@superlipbalm/speeding-up-javascript-ecosystem)
+* [JavaScript Language Design and Implementation in Tandem | Communications of the ACM](https://dl.acm.org/doi/10.1145/3624723)
+  * [KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=31089)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
