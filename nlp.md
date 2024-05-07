@@ -1804,6 +1804,7 @@ NLP
   * [VidiGo Bay.Area.AI: LLM + Graph Database for RAG, Andreas](https://vidigo.ai/share/summary/7f3e15f9df46)
   * [Bay.Area.AI: RAG용 LLM + 그래프 데이터베이스, Andreas Kollegger | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/581310)
 * [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
+* [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21878)
   * [그랩의 LLM Application 개발 경험/레슨런 공유회 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/470094?sId=TJ2mYNpUTAY)
