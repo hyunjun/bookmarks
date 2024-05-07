@@ -70,6 +70,7 @@
   * 그래서 `allOpen` 설정 추가하고 `PrimaryKeyEntity`로 Entity를 생성할 때 `ULID`를 강제하고 `equals`와 `hashCode`를 정의해서 공통 동일성을 보장
   * 프로퍼티 접근 제어, 연관관계 등 Kotlin으로 JPA Entity를 정의하면서 했던 많은 고민과 해결책을 기술
 * [Kotlin, Data Class Inheritance by Delegation | by nwillc | Medium](https://medium.com/@nwillc/kotlin-data-class-inheritance-by-delegation-2ad3fe6f9bd7)
+* [Kotlin 자주 사용하는 패턴 정리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/kotlin-pattern/) copy
 * [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
 * [brunch.co.kr/@mystoryg](https://brunch.co.kr/@mystoryg/12)
   * [클래스 상속](https://brunch.co.kr/@mystoryg/12)
@@ -577,6 +578,7 @@
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 2편](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-2편) R2DBC
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 테스트 슬라이스 적용하기](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-테스트-슬라이스-적)
   * [배민스토어 우리만의 자유로운 WebFlux Practices | 우아한형제들 기술블로그](https://techblog.woowahan.com/12903/)
+  * [Reactor 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/330)
 
 # TDD, Test
 * [Coroutine에서 Unit Test하는 방법에 대하여 #Kotlin](https://developer88.tistory.com/284)
