@@ -1294,6 +1294,7 @@ Docker
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
 * [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
 * [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
+* [‘kubectl create pod’를 실행하면 발생하는 일 — kube-apiserver 감사 로그(Audig Log)로 엿보기 | by Karin | 당근 테크 블로그 | May, 2024 | Medium](https://medium.com/daangn/kubectl-create-pod%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%95%98%EB%A9%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%BC-kube-apiserver-%EA%B0%90%EC%82%AC-%EB%A1%9C%EA%B7%B8-audig-log-%EB%A1%9C-%EC%97%BF%EB%B3%B4%EA%B8%B0-6f01487abdda)
 * [kubectl get componentstatuses - k8s](https://sysnet4admin.gitbook.io/k8s/arch/kubectl-get-componentstatuses)
 * [Martin Heinz | Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
 * [Extending Kubectl with Plugins. Plugins are software extensions that… | by Aditya Joshi | Oct, 2022 | Level Up Coding](https://levelup.gitconnected.com/extending-kubectl-with-plugins-a9bf2d065441)
