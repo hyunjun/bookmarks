@@ -345,6 +345,7 @@ Programmer
   * [Paul Graham의 "Having Kids" 에세이](https://www.linkedin.com/posts/danielylee_%EC%A2%85%EC%A2%85-%EC%B6%9C%EC%82%B0%EC%9D%84-%EC%95%9E%EB%91%94-%EB%8F%99%EB%A3%8C%EA%B0%80-%EC%B6%9C%EC%82%B0%EC%9D%B4-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90-%EB%AF%B8%EC%B9%A0-%EC%98%81%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B1%B1%EC%A0%95%ED%95%98%EB%8A%94-activity-7185532993682223107-WgJq/)
 * [유난한 도전과 도망: 어느 직장인의 부끄러운 회고](https://jaypark.me/11)
   * 2015년 Toss에 13번째 직원으로 합류, 은행권 등과 수익모델을 만들기 위해 노력, 쉽지 않음에 조급함을 느끼고 퇴사, 그때의 상황/느낌을 설명한 글
+* [SI Q&A 세션 ① ‘네카라쿠배’ 아니어도 개발자로 성장하고 싶어요 | 요즘IT](https://yozm.wishket.com/magazine/detail/2572/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)

@@ -1311,12 +1311,6 @@ Programming
 * [일의 완료 기준을 구체적으로 적으면 얻게 되는 이득](https://brunch.co.kr/@graypool/1312) DoD, boundary
 * [Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
 * [SI산업 가이드북④ SI에서 발전된 폭포수, 애자일 바로 알기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2474/)
-* [DORA | DevOps Capabilities: Working in Small Batches](https://dora.dev/devops-capabilities/process/working-in-small-batches/)
-  * [(번역 및 정리) Working In Small Batches](https://jayden-blog-next.vercel.app/posts/from-time-to-time/article/working-in-small-batches)
-    * DORA의 Working in small batches 번역
-    * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
-    * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
-  * [GitLab Value Streams 대시보드의 DORA Performers 점수 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/06/gitlab-vs-dora-score/)
 * [How to Survive & Thrive in Tech Leadership Through Agile Transformation • Sean Langton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=oOYddleBsuk)
   * [Bank West의 애자일 변화와 고객 경험](https://traw.ai/collections/64a27c17-c339-413c-b7de-e809df827503/video/a16e996f-c822-4936-80b5-f89b0648898f)
     * 🏦 Bank West의 애자일 변화와 고객 경험
@@ -1324,6 +1318,7 @@ Programming
     * 🤝 효과적인 거버넌스의 역할
 * [How engineering teams handle unplanned work | by Anna Debenham | boldstart ventures | Medium](https://medium.com/boldstart-ventures/how-engineering-teams-handle-unplanned-work-d90415ff0d81)
 * [과정 안내 Certified LeSS Practitioner | Odd-e Korea - (주) 오디디이 코리아](https://odd-e.kr/less2023/)
+* [SI Q&A 세션 ② SI 개발자, 어떻게 성장해야 하죠? | 요즘IT](https://yozm.wishket.com/magazine/detail/2573/)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -5105,6 +5100,12 @@ Programming
 * [Containerization In DevOps Explained | ReviewNPrep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
 * [Dev, SRE, Operations, DevOps - What’s the Difference?](https://www.bytebase.com/blog/dev-sre-ops-devops-difference)
 * [5 Most Useful CI/CD Tools for DevOps Engineers in 2022](https://spacelift.io/blog/ci-cd-tools)
+* [DORA | DevOps Capabilities: Working in Small Batches](https://dora.dev/devops-capabilities/process/working-in-small-batches/)
+  * [(번역 및 정리) Working In Small Batches](https://jayden-blog-next.vercel.app/posts/from-time-to-time/article/working-in-small-batches)
+    * DORA의 Working in small batches 번역
+    * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
+    * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
+  * [GitLab Value Streams 대시보드의 DORA Performers 점수 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/06/gitlab-vs-dora-score/)
 * [Become an Elite Team With Dora Metrics - Semaphore](https://semaphoreci.com/blog/dora-metrics) DORA (DevOps Research and Assessment)
 * [DORA 2022 Accelerate State of DevOps Report now out | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out)
   * DORA(DevOps Research and Assessment)에서 지난 8년간 설문을 진행해 온 Accelerate State of DevOps의 2022년 보고서
@@ -5175,6 +5176,8 @@ Programming
     * 반복적이고, 시간이 오래 걸리는 업무 자동화
     * 다른 사람의 솔루션을 단순히 취하지 않음
     * 카오스 엔지니어링 받아들이기
+* [How AI & DevOps Are About to Change the Way We Create Products • Marko Klemetti • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=5Vc71tEiVPw)
+  * [AI와 데브옵스가 제품 제작 방식을 바꾸는 방법 - Marko Klemetti - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/590156)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
