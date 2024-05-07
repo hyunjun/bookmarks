@@ -488,6 +488,7 @@ Android
   * [Jetpack Compose 로 검색 진입 화면의 복잡한 상태 관리하기 | by Jinkwang Song | 29CM TEAM | Dec, 2023 | Medium](https://medium.com/29cm/jetpack-compose-%EB%A1%9C-%EA%B2%80%EC%83%89-%EC%A7%84%EC%9E%85-%ED%99%94%EB%A9%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-b95333134ece)
   * [Spoqa 기술 블로그 | 키친보드 안드로이드 앱 Jetpack Compose 도입기](https://spoqa.github.io/2023/10/30/android-jetpack-compose.html)
   * [Compose 도입을 고려하시나요? 매우 짧은 일정 속에서 신규 서비스를 개발하는 도전적인 프로젝트(TRIPLE Korea)에서 Compose를 도입하고 개발했던 기억을 더듬어 정리 및 공유하고자 합니다. | Medium](https://medium.com/@joongwon/compose-%EB%8F%84%EC%9E%85%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EC%8B%9C%EB%82%98%EC%9A%94-18b327ffee02)
+  * [Pluu Dev - 정리 Compose 가이드 문서 ~ UI Architecture](https://pluu.github.io/blog/android/2024/05/06/compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
