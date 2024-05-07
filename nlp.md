@@ -2381,6 +2381,7 @@ NLP
     * [프로젝트에 LLM 끼얹기 - Naver SmartStudio Blog](https://smartstudio.tech/how-to-build-ai-agent-with-llm/)
       * Yorkie 프로젝트에서 AI Agent를 만들기 위해 원하는 형태의 GitHub 이슈를 생성해 주는 아이디어를 생각
       * ChatGPT와 Langchain을 사용해서 구현 후 도입까지 한 과정 설명
+  * [10분 만에 랭체인(LangChain) 이해하기](https://brunch.co.kr/@ywkim36/147)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
