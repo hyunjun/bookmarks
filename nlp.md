@@ -2631,6 +2631,8 @@ NLP
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
+* [TWO](https://www.two.ai/)
+  * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [Unstructured](https://unstructured.io/)
 * [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
   * [Lost in Translation: The Critical Impact of Neglecting Guideline Adherence in LLMs - UpTrain AI](https://blog.uptrain.ai/lost-in-translation-the-critical-impact-of-neglecting-guideline-adherence-in-llms/) LLMOps
