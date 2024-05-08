@@ -2449,6 +2449,7 @@ AWS
 * [Announcing the new Amazon S3 Express One Zone high performance storage class | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/)
 * [Setup Offsite File Backup in Amazon S3 With S3Cmd | Cytoolz.com](https://cytoolz.com/blog/setup-offsite-backup-in-amazon-s3-with-s3cmd)
 * [Amazon S3 Storage Lens 소개 – 객체 스토리지에 대한 기업 전반의 가시성 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/s3-storage-lens/)
+* [AWS S3 요금으로 한 놈 담궈버리는 방법 - YouTube](https://www.youtube.com/watch?v=propgtDEMgM)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
