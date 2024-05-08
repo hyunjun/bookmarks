@@ -890,6 +890,7 @@ Linux
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
   * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
   * [What is the sed command || Why do we use sed command || - YouTube](https://www.youtube.com/watch?v=2-ukZ-VVzEs)
+  * [Linux: EP14 - sed(Stream Editor) 명령어에 대해서 알아보자 - YouTube](https://www.youtube.com/watch?v=RBtKaTdwSvg&list=PLqba2bt00jhGJHO3rxeDSDJfXHldENFK2&index=3)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
   * [sed-circuit-simulator](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
   * [useful-sed: Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed)
