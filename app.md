@@ -180,6 +180,7 @@ App
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
 * [RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative](https://rustdesk.com/)
   * [RustDesk - 오픈소스 TeamViewer 대체제 | GeekNews](https://news.hada.io/topic?id=6621)
+  * [팀뷰어를 대체 할 최고의 무료 원격 프로그램 RustDesk - YouTube](https://www.youtube.com/watch?v=k5VrVD8n0G8)
 * [ScanTailor](https://scantailor.org/)
   * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
