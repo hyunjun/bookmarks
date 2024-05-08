@@ -298,6 +298,7 @@ Android
 * [갤럭시 S24가 찾아준 배민커넥트 Android 성능 이슈 해결기(feat. React Native) | 우아한형제들 기술블로그](https://techblog.woowahan.com/15883/) StrongBox
 * [정교한 노출 이벤트 적재를 위한 여정 Part 1 — XML 탐지하기 | by LeeWonJong | 29CM TEAM | Apr, 2024 | Medium](https://medium.com/29cm/%EC%A0%95%EA%B5%90%ED%95%9C-%EB%85%B8%EC%B6%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%81%EC%9E%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xml-%ED%83%90%EC%A7%80%ED%95%98%EA%B8%B0-433aca5c4c81)
 * [Pluu Dev - 메모 Compose LazyVerticalGrid 렌더링 프로파일 체크](https://pluu.github.io/blog/android/2024/04/21/compose-performance/)
+* [보이스피싱 애플리케이션 분석 1부 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/381)
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
