@@ -1066,6 +1066,7 @@ Apache
 * [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 * [Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 * [Streams and Monk – How Yelp is Approaching Kafka in 2020](https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html)
+* [허튼짓은 그만: Kafka Streams를 활용한 실시간 이상 로그인 감지 시스템 도입하기 | by Heewon Chae | MUSINSA tech | May, 2024 | Medium](https://medium.com/musinsa-tech/%ED%97%88%ED%8A%BC%EC%A7%93%EC%9D%80-%EA%B7%B8%EB%A7%8C-kafka-streams%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EC%83%81-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B0%90%EC%A7%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-d05768b78c86)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
