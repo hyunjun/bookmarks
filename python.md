@@ -4628,6 +4628,7 @@ Python
   * [Don't Use Pip For Big Projects - Use These Instead - YouTube](https://www.youtube.com/watch?v=jVcN49sHbBQ)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
+  * [파이썬 CLI 프로그램 배포를 위한 최선의 선택! pipx — 파이썬 수다장이 날다](https://titanium-haiku-594.appspot.com/blog/pipx/)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
   * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
