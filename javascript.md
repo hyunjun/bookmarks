@@ -4818,7 +4818,9 @@ Javascript
 * [(번역) 2024 리액트 라이브러리 | Ykss](https://ykss.netlify.app/translation/react_libraries_for_2024/)
 * [React 19 Beta – React](https://react.dev/blog/2024/04/25/react-19)
   * React 19의 첫 베타버전 공개. React 19에는 비동기 전환을 사용하는 함수인 Actions와 React Server Component가 추가
+  * [번역 리액트 19 베타](https://velog.io/@typo/react-19-beta)
 * [React 업데이트 근황과 React 19 소식 | 커리어리](https://careerly.co.kr/comments/99528)
+* [React 19 출시와 새로운 기능 - 모두의연구소](https://modulabs.co.kr/blog/react-19/)
 * [React Compiler & React 19 - forget about memoization soon?](https://www.developerway.com/posts/react-compiler-soon)
   * [번역 리액트 컴파일러와 리액트 19 - 이제 메모이제이션을 신경쓰지 않아도 되나요?](https://velog.io/@eunbinn/react-compiler-soon)
 * [React Labs: What We've Been Working On – February 2024 – React](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
