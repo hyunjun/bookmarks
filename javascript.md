@@ -6059,7 +6059,7 @@ Javascript
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
 * [beginners-typescript-tutorial: An interactive TypeScript tutorial for beginners](https://github.com/total-typescript/beginners-typescript-tutorial)
-* [Typescript 기초편](https://clelab.io/course/typescript-basic)
+* [~Typescript 기초편~](https://clelab.io/course/typescript-basic)
 * [코딩애플 보고 정리한 TypeScript 기본 문법](https://velog.io/@dumibell/%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C-%EB%B3%B4%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%9C-TypeScript-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
 * [README - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
