@@ -1408,6 +1408,7 @@ Business
 * [임원의 커리어 관리는 무엇이 다른가··· IT 리더가 전하는 올해 목표 15가지 - CIO Korea](https://www.ciokorea.com/news/321479)
 * [IT 부서 성과를 이끄는 5가지 평가 지표 - CIO Korea](https://www.ciokorea.com/news/325541)
 * [The “errors” that mean you’re doing it right](https://longform.asmartbear.com/good-problems-to-have/)
+* [**Getting an Engineering Executive Job - by Gergely Orosz**](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive) "The Engineering Executive's Primer" 저자 이야기와 책 내용 소개
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
