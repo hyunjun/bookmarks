@@ -363,6 +363,7 @@ Linux
 * [우분투 노틸러스에서 스페이스바 퀵뷰 되게 하기 | 웹으로 말하기](https://mytory.net/archives/14465)
 * [OCI Ubuntu Linux XRDP(GUI) 환경 구성하기 - YouTube](https://www.youtube.com/watch?v=ZsTt8_WPVkA)
 * [VMware를 사용하여 Windows 11에 Ubuntu 22.04 설치하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/2205)
+* [Things To Do After Installing Ubuntu 24.04 LTS - YouTube](https://www.youtube.com/watch?v=3jdy75xQHtQ)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
