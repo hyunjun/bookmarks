@@ -2509,6 +2509,7 @@ NLP
       * [Integrating LLMs in Golang in minutes | by Rifa | Mar, 2024 | Medium](https://medium.com/@rifai201/talkative-your-golang-gateway-to-powerful-large-language-models-7577814bb7c3)
   * [open\_llama](https://github.com/openlm-research/open_llama)
     * [오픈소스로 가자! OpenLLaMA 의 등장](https://revf.tistory.com/286)
+  * [ts-agents: Demonstration of agentic capabilities in TypeScript](https://github.com/run-llama/ts-agents)
   * [WhatsApp-Llama: Finetune a LLM to speak like you based on your WhatsApp Conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
     * [WhatsApp-Llama - 자신의 왓츠앱 대화로 LLM 파인튜닝 하기 | GeekNews](https://news.hada.io/topic?id=11008)
 * [llamafile: Distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
