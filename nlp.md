@@ -364,6 +364,7 @@ NLP
 * [LLM Finetune vs RLHF](https://bcho.tistory.com/1422)
 * [Tips for LLM Pretraining and Evaluating Reward Models](https://magazine.sebastianraschka.com/p/tips-for-llm-pretraining-and-evaluating-rms) RLHF
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
+* [Fine-Grained Human Feedback으로 LLM을 더 잘 학습 할 수 있는가? | NeurIPS 2023 | 김강민 - YouTube](https://www.youtube.com/watch?v=JATgComUQiw)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
