@@ -66,6 +66,7 @@
 * [SOLID principles: The Definitive Guide (Part I) | CODER SITE for developers](https://codersite.dev/solid-principles-the-definitive-guide/)
 * [SOLID principles: The Open-Closed Principle (Part II) | CODER SITE for developers](https://codersite.dev/open-closed-principle/)
 * [SOLID principles: The Open-Closed Principle (Part II) | CODER SITE for developers](https://codersite.dev/open-closed-principle/)
+* [가장 쉽게 설명한 개방폐쇄의 원칙 - YouTube](https://www.youtube.com/watch?v=xk4xIFjm9o0)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 * [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 * [Liskov Substitution Principle of SOLID | LSP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/liskov-substitution-principle.html)
