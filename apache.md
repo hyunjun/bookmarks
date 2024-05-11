@@ -333,6 +333,7 @@ Apache
 * [5 years of Flink at Mux | Mux blog](https://mux.com/blog/5-years-of-flink-at-mux/)
 * [Docker를 사용한 Apache Flink와 Flink Job 올리기(1) - Docker Setting | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/flink-docker-flink-job-1/)
 * [Docker를 사용한 Apache Flink와 Flink Job 올리기(2) - Flink Job Example | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/flink-docker-flink-job-2/)
+* [Data Engineering at Netflix using Apache Spark and Flink with Joan Goyeau - YouTube](https://www.youtube.com/watch?v=FckU1aHNh8U)
 * [flink-ai-extended](https://github.com/alibaba/flink-ai-extended)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
 * [Flink Job Listener: Run a task After Flink Job is Completed | CodersTea](https://www.coderstea.com/post/big-data/flink-job-listener-run-a-task-after-flink-job-is-completed/)
