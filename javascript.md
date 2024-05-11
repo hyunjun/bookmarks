@@ -5531,6 +5531,7 @@ Javascript
   * [Next server actions | React memo | Social media card preview in Next - YouTube](https://www.youtube.com/watch?v=T2CwGbq_sIM)
   * [Adding Google Analytics to Next.js : A Step By Step Guide](https://www.bugblitz.dev/2024/04/adding-google-analytics-to-nextjs.html)
   * [Next.js 캐싱으로 웹 서버 성능 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2024/240418-optimizing-nextjs-cache/)
+  * [레거시 JSP를 최신 Next.js 13으로 마이그레이션 하기 (Q&A포함) - YouTube](https://www.youtube.com/watch?v=60kgIuecsCE)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
