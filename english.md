@@ -78,3 +78,4 @@ English
 * [ChatGPT로 집에서 아이 원어민 만드는 방법 - YouTube](https://www.youtube.com/watch?v=HLxlKtEAL5U)
 * [Read Along](https://readalong.google.com/)
   * [자녀가 영어책을 읽게 해 보자 - Google Read Along : 클리앙](https://www.clien.net/service/board/use/18177041)
+* [11 Common English Words And Phrases With Racist Origins](https://www.babbel.com/en/magazine/common-racist-words-phrases) 조심해야 하는 영어표현들
