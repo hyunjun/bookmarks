@@ -1033,6 +1033,8 @@ AWS
 * [Million Dollar Lines of Code: an Engineering Perspective on Cloud Cost Optimization - YouTube](https://www.youtube.com/watch?v=mzvGh348Qic)
   * [VidiGo Million Dollar Lines of Code: an Engineering Persp](https://vidigo.ai/share/summary/886eba121b5b)
   * [백만 달러짜리 코드 라인: 클라우드 비용 최적화에 대한 엔지니어링 관점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/605380)
+* [클라우드 비용 최적화 로드맵 #1 - 연재를 시작하며 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9415)
+* [클라우드 비용 최적화 로드맵 #2 - 비용을 자세히 보기 위한 준비 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9824)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
