@@ -1032,6 +1032,7 @@ Web
 * [GraphQL Mesh - Query Any API, Run On Any Platform • Uri Goldshtein • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=G_CNnWH8Opw)
 * [DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching](https://github.com/graphql/dataloader)
 * [Maximizing GraphQL's Potential: Netflix's Federated Journey Unveiled - YouTube](https://www.youtube.com/watch?v=Vgad72oSjw4)
+* [GraphQL - 한 방에 이해하기 - YouTube](https://www.youtube.com/watch?v=lYuWfoWD67Q)
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
