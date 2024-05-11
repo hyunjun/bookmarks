@@ -1366,6 +1366,9 @@ Programming Books
     * [Row- and column-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
   * [밑바닥부터 시작하는 딥러닝](http://jybaek.tistory.com/678)
   * [github.com/gangnamio/BackToTheDeep](https://github.com/gangnamio/BackToTheDeep)
+  * (NOT YET) [밑바닥부터 시작하는 딥러닝 4](https://www.hanbit.co.kr/store/books/look.php?p_code=B6031814045)
+    * 004.73-사68ㅁ-4
+    * [WegraLee/deep-learning-from-scratch-4: <밑바닥부터 시작하는 딥러닝 4>](https://github.com/wegralee/deep-learning-from-scratch-4)
 * 골빈해커의 3분 딥러닝
 * 장교수의 딥러닝
   * 한라 004.73 장44ㄷ
