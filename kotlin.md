@@ -469,6 +469,7 @@
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
 * [Composing All The Things with Kotlin Multiplatform • Garth Gilmour • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iq2tTtG3zs4)
+* [플러터Flutter 말고 코틀린Kotlin 하세요. 코틀린 멀티플랫폼이 플러터의 강력한 경쟁자가 될 겁니다. + 플러터,다트로는 딥테크 산업을 커버하지 못할 것 같습니다. - YouTube](https://www.youtube.com/watch?v=4HyEl0n5d14)
 * [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
 
 # Library
