@@ -8084,6 +8084,7 @@ Programming
       * 기술 멘토가 성공을 위해 스크럼 마스터와 라인 매니저의 지원뿐 아니라 기술 인프라, 브랜치 전략, 아키텍처와 같은 견제 필요
 * [Services + End-to-End Testing = ?](https://microservices.io/post/architecture/2024/03/29/services-with-end-to-end-testing-equals-monolith.html)
   * End-to-end testing 이 너무 많은것은 한마디로 서비스간에 구분이 제대로 안된 것이라는 의견
+* [과연 '테스트 코드'를 짜지 않으면, 개발 시간을 줄여줄까?](https://www.linkedin.com/posts/sangin-choung-b87399ab_%EC%9E%A1%EB%8B%B4-%EC%99%9C-%EB%82%B4%EA%B0%80-%EC%A7%A0-%EC%BD%94%EB%93%9C-%EB%82%B4%EA%B0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-activity-7194270774763921409-ZuvR/)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
