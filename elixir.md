@@ -429,6 +429,7 @@ Elixir
   * [Elixir, Phoenix LiveView & Erlang • Sophie DeBenedetto & Andrea Leopardi - YouTube](https://www.youtube.com/watch?v=hakiDR_Esfc)
     * [VidiGo Elixir, Phoenix LiveView & Erlang • Sophie DeBened](https://vidigo.ai/share/summary/0e034012be3c)
     * [엘릭서, 피닉스 라이브뷰 및 얼랑 - Sophie DeBenedetto & Andrea Leopardi | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585600)
+  * [Phoenix auth in 2024: password auth: Go Cahoots for once — Homepage of Marcin Koziej](https://cahoots.pl/static/Phoenix%2520auth%2520in%25202024%253A%2520password%2520auth.html)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
