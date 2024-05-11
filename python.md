@@ -389,6 +389,7 @@ Python
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
 * [**Interesting Python Tips and Tricks | by Ravi | Analytics Vidhya | Sep, 2020 | Medium**](https://medium.com/analytics-vidhya/interesting-python-tips-and-tricks-6d033967b5a5)
 * [Here are some tips to speed up your Python program | by Anh T. Dang | Nov, 2021 | Level Up Coding](https://levelup.gitconnected.com/here-are-some-tips-to-speed-up-your-python-program-e47257b4e6d3)
+* [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [삶이 편해지는 파이썬 팁들 - Google Slides](https://docs.google.com/presentation/d/1PUVeTFNwLjb_T9to6O7eU1vPogMgq-REPASpSS95eno/edit)
 * [5 Useful Python Scripts. Part 10: Excel Files Merger, Extended… | by Harendra Verma | May, 2022 | Python in Plain English](https://python.plainenglish.io/5-useful-python-scripts-3b3445ece8e8)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
