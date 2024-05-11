@@ -416,6 +416,9 @@ Book
   * ★★★☆☆ 2024.02.29
   * 탐라 문476.01-김225ㅁ
   * [만화로 배우는 멸종과 진화](https://www.notion.so/1003/863cf6fe9be74631afdcf7df7ea0d2b4)
+* (NOT COMPLETED) [인간이 초대한 대형 참사 - YouTube](https://www.youtube.com/watch?v=RCecshSbeZA)
+  * ★★★☆☆ 2024.05.10 여러가지 사례를 자세히 분석해 어떤 문제로 인해 큰 참사가 발생했는지 알려주는 책. 잘 읽히지 않아서 중간에 덮었지만 내용이 좋다
+  * 우당 문530.98-차69ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
