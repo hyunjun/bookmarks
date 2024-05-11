@@ -397,6 +397,7 @@ ElasticSearch - Lucene
 * [엘라스틱 키워드 필드의 ignore_above | Popit](https://www.popit.kr/%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1-%ed%82%a4%ec%9b%8c%eb%93%9c-%ed%95%84%eb%93%9c%ec%9d%98-ignore_above/)
 * [Needle in a 930M Member Haystack: People Search AI @LinkedIn - YouTube](https://www.youtube.com/watch?v=mBJoVtMGmtQ) ranking에 ML을 쓰는 이야기
 * [로그분석에 활용할 수 있는 EFK 스택 간단하게 정리해보기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/8916)
+* [정보 검색(Information Retrieval) 평가 방법: MAP, MRR, DCG, NDCG - 모두의연구소](https://modulabs.co.kr/blog/information-retrieval-map-ndcg/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
