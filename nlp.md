@@ -712,6 +712,7 @@ NLP
 * [Chatbase | ChatGPT for your website](https://www.chatbase.co/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * Chatbot Arena [Chat with Open Large Language Models](https://chat.lmsys.org/)
+  * [AI 커뮤니티가 들썩... 지금 바로 써보세요 | GPT4 성능 갖는 미스터리 모델 gpt2-chatbot이 OpenAI에서 만든 Q* 적용 AGI 테스트 모델일까요? - YouTube](https://www.youtube.com/watch?v=FxlIS2KL-Lw)
 * [ChatGPT](https://chat.openai.com/)
   * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
     * OpenAI에서 대화형으로 질문을 하면 답변을 받을 수 있는 ChatGPT 공개
@@ -2482,6 +2483,7 @@ NLP
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
   * [llama.cpp: Port of Facebooks LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)
     * [주요 목표는 MacBook에서 4비트 양자화를 사용하여 LLaMA을 실행](https://www.linkedin.com/posts/activity-7040496097366065152-4cn3)
+    * [Zero to Hero LLMs with M3 Max BEAST - YouTube](https://www.youtube.com/watch?v=0RRsjHprna4)
   * [LLAMAFACTORY: Easy and Efficient LLM Fine-Tuning](https://www.linkedin.com/posts/kalyanksnlp_llms-generativeai-nlproc-activity-7177129541763563521-RZZv/)
     * [Easy and Efficient LLM Fine-Tuning with LLAMAFACTORY](https://blog.akmmusai.pro/llamafactory-unified-efficient-fine-tuning-of-100-language-models)
   * [LlamaGym: Fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
@@ -2581,6 +2583,8 @@ NLP
 * [OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) 실제 애플리케이션에서 LLM의 배포 및 운영을 용이하게 하도록 설계
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
+* [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
+  * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
