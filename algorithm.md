@@ -707,6 +707,7 @@ Algorithm
 * [Balanced Brackets](http://astrod.github.io/2018/01/07/7.html)
 * [Project Euler # 43 in JavaScript — Sub-String Divisiblity in Pandigital Numbers](https://hackernoon.com/project-euler-43-in-javascript-1cc41be56aa2)
 * [Croatian Open Competition in Informatics(COCI) 문제 정리](https://gooddaytocode.blogspot.com/2016/09/coci.html)
+* [프로젝트 오일러 92 · Wireframe](https://soooprmx.com/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%A4%EC%9D%BC%EB%9F%AC-92/)
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
