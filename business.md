@@ -2284,6 +2284,7 @@ Business
       * 2017년 3월, 국제항공 그룹은 새로운 항공사 '레벨'을 론칭
       * 이 항공사는 유럽에서 미국으로 이륙하는 최초의 대서양 저비용 항공사로, 기존 티켓 판매량을 뛰어넘는 성공
 * [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
+* [시니어 리더가 해야 하는 일](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%A4%EB%B2%84%EB%93%A4%EC%9D%B4-activity-7194786293128523776-YWAa/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2503,6 +2504,7 @@ Business
       * 어설프게 독학하는 대신 전문가의 도움을 받아 지속적인 성장과 효과적인 방법을 모색 필요
 * [LINE SHOPPING JP, 글로벌 협업 프로세스 개선 회고](https://techblog.lycorp.co.jp/ko/tpm-retrospective-on-global-collaboration-process-improvement) TPM
 * [플랫폼 팀의 1년, 일본 최대 규모의 배달 서비스에 안착하기까지](https://techblog.lycorp.co.jp/ko/one-year-retrospective-of-platform-team-at-demaecan)
+* [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -2932,6 +2934,8 @@ Business
 * [PO린이를 위한, 프로덕트 오너 '필수 역량'](https://brunch.co.kr/@kiril/19)
 * [AGILE > Product Owner · Present](https://present.do/documents/633c03ae70efd011b8f6b969)
 * [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
+* [PM(프로덕트 매니저)와 PO(프로덕트 오너)의 차이? 헷갈리지 않도록 딱 정리해 드립니다 1](https://www.linkedin.com/posts/minwookim_pm%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%99%80-po%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%98%A4%EB%84%88%EC%9D%98-%EC%B0%A8%EC%9D%B4-%ED%97%B7%EA%B0%88%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EB%94%B1-activity-7194968814743134209-Hw51/)
+* [PM(프로덕트 매니저)와 PO(프로덕트 오너)의 차이? 헷갈리지 않도록 딱 정리해 드립니다 2](https://www.linkedin.com/feed/update/urn:li:activity:7194969242104995840/)
 * [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
 * [쏘카 PM의 차량 예약 퍼널 단계 개선기(feat. AB TEST) - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/06/02/reservation-funnel-improvement-with-abtest.html)
 * [쏘카 PM(Product Manager)은 어떻게 성장하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/02/23/growing-up-together-with-the-pm-team.html)
@@ -2962,6 +2966,7 @@ Business
 * [제 2개 회사는 잘 안됐습니다. 그러나 이걸 배웠죠 | Meta Mick Johnson (2/2) - YouTube](https://www.youtube.com/watch?v=HDsFyHQtLHI)
 * [좋은 기획자의 덕목이란 뭘까?](https://brunch.co.kr/@fbrudtjr1/55)
 * [Heartcomplex - 삶, 우주, 그리고 모든 것. 42. : 프로덕트 오너(Product Owner – PO)에게 필요한 것](https://www.heartcomplex.net/%ed%94%84%eb%a1%9c%eb%8d%95%ed%8a%b8-%ec%98%a4%eb%84%88product-owner-po%ec%97%90%ea%b2%8c-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83/)
+* [한국에서의 product manager란 무엇인가](https://www.linkedin.com/feed/update/urn:li:activity:7190217874848862208/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
