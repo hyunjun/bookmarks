@@ -1847,6 +1847,8 @@ App
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eraser – The whiteboard for engineering teams](https://www.eraser.io/)
+  * [Eraser AI](https://www.eraser.io/ai)
+    * [DiagramGPT - Honest Review of Eraser AI - YouTube](https://www.youtube.com/watch?v=Tz84qAH_7bM)
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
