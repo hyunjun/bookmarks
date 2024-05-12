@@ -1384,6 +1384,8 @@ AWS
 * [Amazon EKS에서 IPv6로의 여정 : Foundation (Part 1) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/the-journey-to-ipv6-on-amazon-eks-foundation-part-1/)
 * [Deep dive into Amazon EKS scalability testing | Containers](https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-scalability-testing/)
 * [NTH(NodeTerminationHandler). 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/nth-nodeterminationhandler-9bc5b2af4ad7)
+* [NEW AWS EKS Access Mgmt & Pod Identity](https://gasidaseo.notion.site/NEW-AWS-EKS-Access-Mgmt-Pod-Identity-dd9dce3defb642bd91aceb29c495304e)
+* [AWS EKS K8S Network Policy](https://gasidaseo.notion.site/AWS-EKS-K8S-Network-Policy-b4e9c4020dd44a44b7607fbafa75d9fb)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
