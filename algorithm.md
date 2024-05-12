@@ -316,6 +316,7 @@ Algorithm
   * [" 초봉 3억 외국 회사 면접 질문 " - YouTube](https://www.youtube.com/watch?v=zznpJFhuLTg)
     * [drunkpassenger.py](https://github.com/CodingVillainKor/manim-kor/blob/main/drunkpassenger.py)
 * [100배 더 빠른 경로 최적화 솔루션을 제공하는 기록적인 NVIDIA cuOpt 알고리즘 - NVIDIA Technical Blog](https://developer.nvidia.com/ko-kr/blog/record-breaking-nvidia-cuopt-algorithms-deliver-route-optimization-solutions-100x-faster)
+* [1 Billion Row Challenge](https://1brc.dev/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
