@@ -615,6 +615,7 @@ Android
 * [올리브영 안드로이드 테스트앱 자동배포하기](http://tech.oliveyoung.co.kr/tech/2107152128/)
 * [Mockito로 Unit테스트를 해 보자](https://developer88.tistory.com/260)
 * [안드로이드 테스트 자동화 기초](https://cliearl.github.io/posts/android/android-test-basic/)
+* [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
