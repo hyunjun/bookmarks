@@ -865,6 +865,8 @@ App
   * [Helix the Rust Powered Development Environment - YouTube](https://www.youtube.com/watch?v=xHebvTGOdH8)
   * [Helix: an editor hopping story (NeovimConf 2022 Talk) - YouTube](https://www.youtube.com/watch?v=tGYvUXYN-c0)
   * [Helix and Scala · eed3si9n](https://eed3si9n.com/helix-and-scala/)
+  * [(1) Helix Text Editor: A Review - YouTube](https://www.youtube.com/watch?v=tJHjCGHGQhw)
+  * [(1) Git integration in Helix for an IDE like experience? - YouTube](https://www.youtube.com/watch?v=p3qvSz4RJts)
 * [ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
@@ -1849,6 +1851,7 @@ App
 * [Eraser – The whiteboard for engineering teams](https://www.eraser.io/)
   * [Eraser AI](https://www.eraser.io/ai)
     * [DiagramGPT - Honest Review of Eraser AI - YouTube](https://www.youtube.com/watch?v=Tz84qAH_7bM)
+    * [System Design has never been easier - YouTube](https://www.youtube.com/watch?v=PZVCSQ1yjq4)
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
