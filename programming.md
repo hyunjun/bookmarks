@@ -8085,6 +8085,7 @@ Programming
 * [Services + End-to-End Testing = ?](https://microservices.io/post/architecture/2024/03/29/services-with-end-to-end-testing-equals-monolith.html)
   * End-to-end testing 이 너무 많은것은 한마디로 서비스간에 구분이 제대로 안된 것이라는 의견
 * [과연 '테스트 코드'를 짜지 않으면, 개발 시간을 줄여줄까?](https://www.linkedin.com/posts/sangin-choung-b87399ab_%EC%9E%A1%EB%8B%B4-%EC%99%9C-%EB%82%B4%EA%B0%80-%EC%A7%A0-%EC%BD%94%EB%93%9C-%EB%82%B4%EA%B0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-activity-7194270774763921409-ZuvR/)
+* [How to test system functionality | Alex Xu님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7192913851103727617-9XCa)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
@@ -8471,3 +8472,6 @@ Programming
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)
+* [Devoxx Greece 2024 - Busy Developer's Guide to Building a Bytecode Virtual Machine by Ted Neward - YouTube](https://www.youtube.com/watch?v=AYNx6zJhbx4)
+  * [VidiGo Devoxx Greece 2024 - Busy Developer's Guide to Bui](https://vidigo.ai/share/summary/42816b5bbf7b)
+  * [Devoxx Greece 2024 - 바쁜 개발자를 위한 바이트코드 가상 머신 구축 가이드 작성자: Ted Neward | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/616766)
