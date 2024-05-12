@@ -437,6 +437,8 @@ Artificial Intelligence
     * 이러한 private 데이터를 많이 가진 Google과 Apple이 장기적으로 유리한 위치를 차지할 것으로 예상
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
+* [Artificial intelligence is already deceiving us and could have unforeseen consequences for humans](https://www.telegraph.co.uk/news/2024/05/10/ai-deceiving-humans-already-unforeseen-consequences-humans/)
+  * [Wontae Lee - 흥미롭지만 공포스러운 연구결과. MIT 연구팀의 새 연구에 따르면, 인공지능은 이제 목표를... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0biCxbxfr5CDTtxnNanc6aRJDcCcMPhH13EPM29YTTuZc6em4jYmbM39bXbkWXAKdl)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
