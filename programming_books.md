@@ -4405,6 +4405,8 @@ Programming Books
   * [스트리트 코더](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EC%BD%94%EB%8D%94)
 * 켄트 벡의 Tidy First? [켄트 벡이 말하는 “코드 정리가 필요한 이유” - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5225001600)
   * [켄트 벡의 ‘Tidy First?’를 읽고](https://hiddenest.dev/tidy-first)
+  * [켄트 벡의 Tidy First? 역자 인터뷰 1부 | 베터코드 안영회 X 한빛앤 임백준 - YouTube](https://www.youtube.com/watch?v=dvi4S8LI17g)
+  * [켄트 벡의 Tidy First? 역자 인터뷰 2부 | 베터코드 안영회 X 한빛앤 임백준 - YouTube](https://www.youtube.com/watch?v=X3h9yS9S26M)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
