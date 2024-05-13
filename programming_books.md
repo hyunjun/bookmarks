@@ -3151,6 +3151,9 @@ Programming Books
   * [안녕하세요, 오늘부터 매니저입니다. ★★★★☆ March 17, 2024 → March 18, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9E%85%EB%8B%88%EB%8B%A4-878ca556989c)
   * [안녕하세요, 오늘부터 매니저입니다 - Jun’s Substack](https://recur.substack.com/p/1f6)
   * [안녕하세요, 오늘부터 매니저입니다](https://jh4hj.tistory.com/entry/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9E%85%EB%8B%88%EB%8B%A4)
+* [일 잘하는 팀장 - IT 회사에서 살아남은 팀장의 41가지 리더십 기술](http://www.easyspub.co.kr/20_Menu/BookView/663/PUB)
+  * ★★★☆☆ 2024.05.13 모든 레벨에서 참고해도 좋지만 특히 초보 팀장을 위해 좋은 책. 부담스럽지 않은 분량에 대부분의 매니지먼트 영역을 기술했다.
+  * 한라 325.24-이73ㅇ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
