@@ -3460,6 +3460,8 @@ Business
 * [스타트업 창업자의 고백 - PADO](https://www.pado.kr/article/2023111711238850650)
 * [R&D로 해외 시장을 진출하는 방법 (feat. Mila x Seoul AI Hub 글로벌 공동연구 협력 사업) – Eagler Lab](https://eagler.blog/2024/03/05/rd%eb%a1%9c-%ed%95%b4%ec%99%b8-%ec%8b%9c%ec%9e%a5%ec%9d%84-%ec%a7%84%ec%b6%9c%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95-feat-mila-x-seoul-ai-hub-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b3%b5%eb%8f%99/)
 * [한 발짝만 앞서기](https://www.thestartupbible.com/2024/03/one-step-ahead-is-good-two-steps-ahead-is-not.html) 마치 적정 기술과 비슷한 이야기 overengineering으로 인한 낭비처럼 BM도 너무 앞서나가면 안된다는 말
+* [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
+  * [스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/topic?id=14789)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
