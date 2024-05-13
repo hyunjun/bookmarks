@@ -302,6 +302,7 @@ Scala
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
 * [Higher-kinded data in Scala | 47 Degrees](https://www.47deg.com/blog/higher-kinded-data-in-scala/)
 * [Higher-Kinded Types | Baeldung on Scala](https://www.baeldung.com/scala/higher-kinded-types)
+* [Emanuel Goette, alias Crespo: Que es un Higher-Kinded Type de Scala?](https://emanuelpeg.blogspot.com/2024/05/que-es-un-higher-kinded-type-de-scala.html)
 * [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
 * [10 LESSONS LEARNED FROM USING KAFKA IN 1000 SCALA MICROSERVICES - Natan Silnitsky | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=1dRXXV6pNRU)
 * [Scale By The Bay 2020: Natan Silnitsky, 8 Lessons Learned from using Kafka with 1000 microservices - YouTube](https://www.youtube.com/watch?v=XEZeLoO2iBk)
@@ -1405,6 +1406,7 @@ Scala
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
   * [Scala at Scale at Databricks - Li Haoyi - YouTube](https://www.youtube.com/watch?v=UiN6yZPAYww)
 * [scalar-conf.com](http://scalar-conf.com/)
+  * [Daniel Beskin CUSTOM-COMPILE ERRORS WITH A VENGEANCE Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=dQA4jslfFpw)
   * [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
   * [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=sNos8aGjJMA)
     * [VidiGo Martin Odersky SCALA HAS TURNED 20 - Scalar Confe](https://vidigo.ai/share/summary/c20b612b4e18)
@@ -2981,6 +2983,7 @@ Scala
 * [6 Tips for Scala Adoption. I will share our experience on how to… | by Yurii Krat | BigEng | Jan, 2023 | Medium](https://medium.com/bigcommerce-engineering/6-tips-for-scala-adoption-714b7815c20d)
 * [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023 - YouTube](https://www.youtube.com/watch?v=0Fm0y4K4YO8)
 * [Direct-style Effects Explained](https://www.inner-product.com/posts/direct-style-effects/)
+* [Direct Style Effect Systems - The Print\[A\] Example - A Comprehension Aid](https://fpilluminated.com/deck/217)
 * [Functional World #9 | Breaking framework chains with vanilla Scala - YouTube](https://www.youtube.com/watch?v=U67BAeH3cxo)
 * [Scala Full Course - Learn Scala in 10 Hours - Scala Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLf0LpPWikpPeHGwdeE4ctmAQ7QZs5PG0T)
 * [Tomasz Godzik - How to Get Started with Scala? | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=rXalh8dhPZc)
