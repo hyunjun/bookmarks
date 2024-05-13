@@ -2272,6 +2272,7 @@ Java
 * [실행 시간 효율을 위한 클래스 데이터 공유(CDS)와 Layered Jar - 넷마블 기술 블로그](https://netmarble.engineering/class-data-sharing-cds-and-layered-jar/)
 * [Hitting the “refresh” button on your Spring web application by Stéphane Nicoll - YouTube](https://www.youtube.com/watch?v=8vtoa8VC-gY)
 * [Spring ReactiveCrudRepository를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
+* [미니컨 스프링 이벤트를 사용해보자 - F-Lab 루카 - YouTube](https://www.youtube.com/watch?v=2Hq9htCE0vA)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
