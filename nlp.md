@@ -3134,6 +3134,7 @@ NLP
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
   * [Introducing spaCy v3.1 · Explosion](https://explosion.ai/blog/spacy-v3-1)
   * [spaCyOpenTapioca · spaCy Universe](https://spacy.io/universe/project/spacyopentapioca/)
+  * [Andrea Mocci MINIMIZE YOUR PYTHON DISCOMFORT: A TOUR OF NLP WITH SPACY, SCALAPAY, AND SCALA 3 - YouTube](https://www.youtube.com/watch?v=Z1dKpX8w3Bk)
   * [spacy-space](https://github.com/shhommychon/spacy-space/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
