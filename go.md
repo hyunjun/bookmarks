@@ -362,6 +362,7 @@ Go
 * [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
   * [Go로 10억 행 처리하기 도전: 9개의 방법으로 1분45초에서 4초로 단축 | GeekNews](https://news.hada.io/topic?id=13627)
 * [업무에 손쉽게 Golang 적용하기: 로케이션 코어팀 백엔드 개발자가 일하는 방식 | by Sally | 당근 테크 블로그 | May, 2024 | Medium](https://medium.com/daangn/%EC%97%85%EB%AC%B4%EC%97%90-%EC%86%90%EC%89%BD%EA%B2%8C-golang-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98-%EC%BD%94%EC%96%B4%ED%8C%80-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-d2201319212a)
+* [Structural Typing과 객체지향 설계 | by Choi Geonu | May, 2024 | Medium](https://choi-geonu.medium.com/structural-typing%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-56bf95ea433a)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -1022,6 +1023,7 @@ Go
 * [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
 * [research!rsc: Updating the Go Memory Model (Memory Models, Part 3)](https://research.swtch.com/gomm)
 * [Go 언어의 GC에 대해 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/go-gc/) 1.10 기준
+* [Golang GC 튜닝 가이드 – tech.kakao.com](https://tech.kakao.com/2024/05/13/golang-gc-tuning-guide/)
 * [Avoiding Memory Leak in Golang API | Hacker Noon](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
 * [Golang Long Time Performance Test - Memory Leak 해결 과정 — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Long-Time-Performance-Test-Memory-Leak-%EB%A9%94%EC%9D%B8-%EB%94%94%EC%89%AC)
 * [**Golang Memory Management — { DEV SWEETER ; }**](https://syntaxsugar.tistory.com/entry/Golang-Memory-Management) 1.16 기준
