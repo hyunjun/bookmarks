@@ -1029,7 +1029,9 @@ Git
     * Stacked PR이 필요한 이유와 함께 GitHub에서 실제로 Stacked PR을 만들려면 어떻게 하는지까지 보여주어서 이해하기가 좋음
     * 이러한 과정을 쉽게 도와주는 도구와 문제점도 같이 설명
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
-  * `git pull --rebase` [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
+  * `git pull --rebase`
+    * [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
+    * [Never* use git pull - YouTube](https://www.youtube.com/watch?v=xN1-2p06Urc)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
