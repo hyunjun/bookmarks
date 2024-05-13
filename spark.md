@@ -176,6 +176,7 @@
   * [Easy, scalable, fault tolerant stream processing with structured streaming - spark meetup at intel in santa clara](https://www.slideshare.net/julesdamji/easy-scalable-fault-tolerant-stream-processing-with-structured-streaming-spark-meetup-at-intel-in-santa-clara-73743007)
 * [Can Apache Spark process 100 terabytes of data in interactive mode?](http://fullstackml.com/2015/10/12/can-apache-spark-process-100-terabytes-of-data-in-interactive-mode/)
 * [넷플릭스 빅데이터 플랫폼 아파치 스팍 통합 경험기](http://www.slideshare.net/deview/262-netflix)
+* [Data Engineering at Netflix using Apache Spark and Flink with Joan Goyeau - YouTube](https://www.youtube.com/watch?v=FckU1aHNh8U)
 * [Succinct Spark from AMPLab: Queries on Compressed RDDs](https://databricks.com/blog/2015/11/10/succinct-spark-from-amplab-queries-on-compressed-rdds.html)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
