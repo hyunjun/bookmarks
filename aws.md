@@ -522,6 +522,7 @@ AWS
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
 * [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
+* [AWS Scale - by Neo Kim - System Design Newsletter](https://newsletter.systemdesign.one/p/aws-scale)
 * [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
 * [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
 * [AWS AI 서비스를 활용한 미디어 자막 성능 개선 및 컨텐츠 현지화 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/contents-subtitle-localization/)
@@ -849,6 +850,7 @@ AWS
 * [AWS Innovate AI/ML 2024.02.22](https://www.notion.so/1003/Conference-439c48d3dfbc4457957a0d1f23ac7dda?pvs=4#eb14ac99af684921997c4e831e6d26e7)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [OpenLAB AWS reInvent를 통해 바라본 글로벌 Cloud 기술동향.pdf](https://www.slideshare.net/slideshow/openlab-aws-reinvent-cloud-pdf/268149233)
   * [The Frugal Architect](https://thefrugalarchitect.com/)
     * 검소한 아키텍트라는 뜻으로 비용을 고려한 지속할 수 있는 현대적인 아키텍처를 구축하기 위한 법칙을 Amazon의 CTO인 Werner Vogels이 정리
     * 법칙 1: 비용을 비기능적 요구사항으로 만들기
