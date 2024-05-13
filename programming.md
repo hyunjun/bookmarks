@@ -730,6 +730,7 @@ Programming
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 * [좋은 객체 ID(Object ID) 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2161/) UUID
+* [ID 뭐로 만들지 - YouTube](https://www.youtube.com/watch?v=gKbGIA7njQo)
 * [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
 * [Nanosecond timestamp collisions are common (evanjones.ca)](https://www.evanjones.ca/nanosecond-collisions.html)
   * [nanocollision: NanoCollision: Experiments with collisions of nanosecond timestamps](https://github.com/evanj/nanocollision)
@@ -986,6 +987,7 @@ Programming
 * [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [여기어때의 회고 문화. 글. 천지희(Elizabeth) / Project Manager | by Elizabeth | Mar, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C%EC%9D%98-%ED%9A%8C%EA%B3%A0-%EB%AC%B8%ED%99%94-a8aeee71a7aa)
 * [엔지니어 업무 회고, 어떻게 하면 좋을까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/04/09/engineer-retrospective/)
+* [반년 가까이 월간 회고를 진행하며 느낀 점들 — 생존과 성장 사이](https://dokdo2013.tistory.com/15)
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
@@ -1516,6 +1518,7 @@ Programming
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | LearnApplyShare](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | MADTECH](https://tech.madup.com/openapi-generator/)
   * [Generate Server Code Using OpenAPI Generator](https://mydeveloperplanet.com/2022/02/08/generate-server-code-using-openapi-generator/)
+  * [커뮤니티실 API Design-First 접근방식 정착기. 안녕하세요! 커뮤니티실 그룹 플랫폼팀의 서버 개발자… | by Heidi | 당근 테크 블로그 | May, 2024 | Medium](https://medium.com/daangn/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%8B%A4-api-design-first-%EC%A0%91%EA%B7%BC%EB%B0%A9%EC%8B%9D-%EC%A0%95%EC%B0%A9%EA%B8%B0-cecca0a37c05)
 * [open-apis-korea: 🇰🇷 한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
@@ -1640,6 +1643,12 @@ Programming
 * [Modular Monolith: Architecture Enforcement - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-architecture-enforcement/)
 * [Modular Monolith: Integration Styles - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-integration-styles/)
 * [Modular Monolith: Domain-Centric Design - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-domain-centric-design/)
+* [How modular can your monolith go? Part 1 - the basics](https://microservices.io/post/architecture/2023/07/31/how-modular-can-your-monolith-go-part-1.html)
+* [How modular can your monolith go? Part 2 - a first look at how subdomains collaborate](https://microservices.io/post/architecture/2023/08/20/how-modular-can-your-monolith-go-part-2.html)
+* [How modular can your monolith go? Part 3 - encapsulating a subdomain behind a facade](https://microservices.io/post/architecture/2023/08/28/how-modular-can-your-monolith-go-part-3.html)
+* [How modular can your monolith go? Part 4 - physical design principles for faster builds](https://microservices.io/post/architecture/2023/09/12/how-modular-can-your-monolith-go-part-4-physical-design.html)
+* [How modular can your monolith go? Part 5 - decoupling domains with the Observer pattern](https://microservices.io/post/architecture/2023/10/30/how-modular-can-your-monolith-go-part-5-domain-observers.html)
+* [How modular can your monolith go? Part 6 - transaction management for commands](https://microservices.io/post/architecture/2023/11/13/how-modular-can-your-monolith-go-part-6-transactional-commands.html)
 * [Deconstructing the Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 * [Under Deconstruction: The State of Shopify’s Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
 * [Why I've Been Merging Microservices Back Into The Monolith At InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
@@ -2132,6 +2141,9 @@ Programming
 * [2012-04-17 만화 서비스 오픈 후기 : 네이버 블로그](https://m.blog.naver.com/ez_/140157300770)
 * [10 principals in design system architecture | by Weekly Dev Blog | Medium](https://wklytech.medium.com/10-principals-in-design-system-architecture-753adce0203c)
 * [System Design — Data Builder Framework — Designed By Flipkart Engineering Team | by Evelynn Tech Blog | Medium](https://evelynn.tech/system-design-data-builder-framework-designed-by-flipkart-engineering-team-4d8c5108b687)
+* [실리콘 밸리 아저씨들의 모르면 승진 안되는 시스템 디자인 - 파일럿편 - YouTube](https://www.youtube.com/watch?v=WYlVS2LIJgE)
+  * [VidiGo 실리콘 밸리 아저씨들의 모르면 승진 안되는 시스템 디자인 - 파일럿편.mp4](https://vidigo.ai/share/summary/71709b1c381b)
+  * [실리콘 밸리 아저씨들의 모르면 승진 안되는 시스템 디자인 - 파일럿편 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/621590)
 * [현대차의 모빌리티 서비스 플랫폼, 셔클 개발기 – 현대모터그룹 TECH](https://tech.hyundaimotorgroup.com/kr/developers-blog/hyundai-motor-companys-mobility-service-platform-shucle-development-story/)
 * [Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News](https://news.ycombinator.com/item?id=30986893)
 * [In defense of simple architectures](https://danluu.com/simple-architectures/)
@@ -2642,6 +2654,7 @@ Programming
 * [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server)
 * [Banking on Thousands of Microservices - YouTube](https://www.youtube.com/watch?v=ObjHiv1S9Hk)
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
+* [요기요 채널링 서비스 런칭 회고. 채널링 서비스를 제작하며 초점을 맞춘 부분과 시행착오에 대해 공유합니다… | by Haeman Lee | May, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%9A%94%EA%B8%B0%EC%9A%94-%EC%B1%84%EB%84%90%EB%A7%81-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%9F%B0%EC%B9%AD-%ED%9A%8C%EA%B3%A0-25f692d82c8c) API Gateway Pattern
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [Understanding the API Gateway](https://www.linkedin.com/posts/sahnlam_understanding-the-api-gateway-an-api-gateway-ugcPost-7145281251187339265-og7g/)
 * [What does API gateway do?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7178775881576820737-Cg3W/)
@@ -8086,6 +8099,7 @@ Programming
   * End-to-end testing 이 너무 많은것은 한마디로 서비스간에 구분이 제대로 안된 것이라는 의견
 * [과연 '테스트 코드'를 짜지 않으면, 개발 시간을 줄여줄까?](https://www.linkedin.com/posts/sangin-choung-b87399ab_%EC%9E%A1%EB%8B%B4-%EC%99%9C-%EB%82%B4%EA%B0%80-%EC%A7%A0-%EC%BD%94%EB%93%9C-%EB%82%B4%EA%B0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-activity-7194270774763921409-ZuvR/)
 * [How to test system functionality | Alex Xu님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7192913851103727617-9XCa)
+* [Frontend에서 TDD 시작해보기 - Google Slides](https://docs.google.com/presentation/d/1QtnwuQvwlIQpIWqXPSBIQ1Iu7nNaxu_wXc6dNT3A8PU/edit)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
@@ -8422,6 +8436,7 @@ Programming
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/#more-100)
   * ["The Downtime Project"라는 팟캐스트에서는 GitHub, Slack, Salesforce 등 10개 이상의 서비스 장애 보고서를 분석하여 도출된 5가지 주요 교훈](https://www.linkedin.com/posts/danielylee_%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EA%B2%80-%EB%B3%B4%EA%B3%A0%EB%8A%94-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-activity-7164679513895895040-vmtf/)
     * 1. 순환 의존성의 덫 2. 자동화의 배신 3. 항상 디비가 문제 4. 배포는 조금씩 천천히 5. 장애 대응 플레이북
+* [Gmarket Mobile Web Vip 악성 봇 대침투 사건](https://ebay-korea.tistory.com/106)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
