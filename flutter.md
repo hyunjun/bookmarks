@@ -59,6 +59,7 @@ Flutter
 * [MacBook M1에 iOS와 Android를 위한 Flutter 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1688)
 * [윈10 플루터 설정시 SDK 라이센스 에러 해결법](https://brunch.co.kr/@promise4u/176)
 * [Declarative UI 찬양](https://xrath.com/2020/03/declarative-ui/)
+* [Flutter 선언형 애니메이션? 그게 뭔데 씹덕아!. 2022년 연말에 플러터를 처음 접하고 Dart 문법, 다양한 위젯… | by Cody Yun | May, 2024 | Medium](https://medium.com/@cody.yun/flutter-%EC%84%A0%EC%96%B8%ED%98%95-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-%EC%94%B9%EB%8D%95%EC%95%84-b41c5100b5f1)
 * [21 Awesome Flutter UI Plugins](https://www.dunebook.com/awesome-ui-plugins-for-flutter/)
 * [플러터 Hello World 살펴보기](https://brunch.co.kr/@mystoryg/137)
 * [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
