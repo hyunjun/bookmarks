@@ -144,6 +144,7 @@ Product
 * [루나랩 모션데스크](https://www.youtube.com/watch?v=uouu4qcB5eA)
 * [프리미엄 모션데스크를 찾으신다면?! 오프레임 모션데스크 추천 - YouTube](https://www.youtube.com/watch?v=Zmi1VGAoowI)
 * [Refold - cardboard standing desk](http://www.refold.co/)
+* 시크릿랩 MAGNUS Pro 데스크 [완벽 선정리가 가능한 모션데스크 - YouTube](https://www.youtube.com/watch?v=ul-ACfL5mic)
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
