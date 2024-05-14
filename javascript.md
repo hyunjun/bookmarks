@@ -6133,6 +6133,7 @@ Javascript
 * [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
 * [TypeScript에서 Type을 기술하는 두 가지 방법, Interface와 Type Alias](https://joonsungum.github.io/post/2019-02-25-typescript-interface-and-type-alias/)
 * [typescript type과 interface 이해](https://blog.naver.com/pjt3591oo/223268209653)
+* [타입스크립트에서 타입과 인터페이스의 차이점 개발자의 기본기 #2 - YouTube](https://www.youtube.com/watch?v=8tPjcTptBE4)
 * [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 * [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
 * [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
