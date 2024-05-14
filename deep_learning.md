@@ -214,6 +214,7 @@ Deep Learning
   * [OpenAI, 새로운 임베딩 모델 공개 및 API 업데이트 | GeekNews](https://news.hada.io/topic?id=13062)
   * [openai api code 429, You exceeded your current quota, please check your plan and billing details 에러 해결하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/openai-api-code-429,-you-exceeded-your-current-quota,-please-check-your-plan-and-billing-details-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/)
   * [OpenAI와 일론 머스크 | GeekNews](https://news.hada.io/topic?id=13682)
+  * [Hello GPT-4o | OpenAI](https://openai.com/index/hello-gpt-4o/)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
