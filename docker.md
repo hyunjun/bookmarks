@@ -1951,6 +1951,7 @@ Docker
 * [DIY: Create Your Own Cloud with Kubernetes (Part 1) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-1/)
 * [DIY: Create Your Own Cloud with Kubernetes (Part 2) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-2/)
 * [DIY: Create Your Own Cloud with Kubernetes (Part 3) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-3/)
+* [쿠버네티스 챕터1. Spring Boot와 Docker를 이용한 Hello World Rest API Application 개발, 빌드, 배포 - YouTube](https://www.youtube.com/watch?v=kQc0iaWPLjk&list=PL9wb-tjlQWcX1EMc8NI_8_OiGiBqjgpj3&index=18)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
