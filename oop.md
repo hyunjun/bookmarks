@@ -50,6 +50,7 @@
 * [SOLID Principles : The Single Responsibility Principle - Making Java easy to learn](https://javatechonline.com/solid-principles-the-single-responsibility-principle)
 * [SOLID Principles - YouTube](https://www.youtube.com/playlist?list=PLUg9hRlm7gxTX5b_CYoTsNTI9h5IJU3XG)
 * [What the heck is SOLID?](https://lovelacecoding.hashnode.dev/what-the-heck-is-solid)
+* [객체 지향 디자인의 SOLID 원칙 - 모두의연구소](https://modulabs.co.kr/blog/oop-solid/)
 * [Single Responsibility Principle | SOLID Principles - YouTube](https://www.youtube.com/watch?v=ji4VNtbi_70)
 * [결합도와 응집도 이야기](https://devkingdom.tistory.com/300)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
