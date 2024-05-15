@@ -8133,6 +8133,8 @@ Programming
   * [Mastering Testcontainers by Oleg Šelajev - YouTube](https://www.youtube.com/watch?v=0kXEwo0XFaY)
     * [VidiGo Mastering Testcontainers by Oleg Šelajev.mp4](https://vidigo.ai/share/summary/0a10cf454e0b)
     * [Mastering Testcontainers by Oleg Šelajev | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/629212)
+  * [Testcontainers – From Zero to Hero. By @MarcoCodes - YouTube](https://www.youtube.com/watch?v=v3eQCIWLYOw)
+    * [Testcontainers – From Zero to Hero. By @MarcoCodes | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/629614)
   * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
     * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
