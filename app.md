@@ -2030,6 +2030,8 @@ App
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
   * [Vrew의 Web 기술 - VoyagerX](https://v6x.github.io/2020/06/04/vrew-web-tech.html)
 * [Wavvy - 웹기반 오디오 편집기 (Audacity 포팅) | GeekNews](https://news.hada.io/topic?id=7329)
+* [YoutubeCLI](https://github.com/icitry/YoutubeCLI)
+  * [Can I Run Youtube Entirely From My Terminal? (No Browser) - YouTube](https://www.youtube.com/watch?v=CYNpdmgwNTM)
 * [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
 
   ```
