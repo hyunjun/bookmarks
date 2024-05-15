@@ -197,6 +197,7 @@
 * [Rust Dublin September 2023 - SurrealDB - YouTube](https://www.youtube.com/watch?v=k3P9BMhbjjc)
 * [profit-first-income-calculator-desktop: Break up your income according to customizable Profilt First methodology, as a Desktop GUI](https://github.com/rodgtr1/profit-first-income-calculator-desktop)
   * [you need to build a RUST desktop app!! - YouTube](https://www.youtube.com/watch?v=7aFgeUG9TK4)
+* [러스트 개발 경험 - Google Slides](https://docs.google.com/presentation/d/1-OrG65RYrOs6k9UktG5f0iQK3aLJ75AHBKAik__Oqyg/edit#slide=id.p)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
