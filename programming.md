@@ -2239,6 +2239,7 @@ Programming
 * [How Architecture & Culture Go Hand in Hand • Eoin Woods & Charles Humble • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=9_Inim5YHhI)
   * [VidiGo How Architecture & Culture Go Hand in Hand • Eoin](https://vidigo.ai/share/summary/4c519e1230e5)
   * [건축과 문화가 함께 어우러지는 방법 - 어인 우즈 & 찰스 험블 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/566885)
+* [서버 증설 없이 처리하는 대규모 트래픽](https://toss.tech/article/monitoring-traffic) Redis 과부하, 데이터베이스 과부하, API 중복 요청 및 Gateway 과부하, 모니터링 구축이 기본
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
