@@ -2211,6 +2211,7 @@ Javascript
 * [jsCodeStructure - Analyse the structure of your js project(relations between js files)](https://github.com/timqian/jsCodeStructure)
 * [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
 * [JSDoc으로 Javascript 문서를 좀 더 친절하게 만들어보자 | Univdev](https://www.univdev.page/posts/about-jsdoc/)
+  * [자바스크립트 20년차 개발자처럼 주석다는 법 - YouTube](https://www.youtube.com/watch?v=ORmnc-hLrYs)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [JSR: the JavaScript Registry](https://jsr.io/)
