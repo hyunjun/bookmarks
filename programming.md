@@ -5466,6 +5466,9 @@ Programming
         * 커뮤니티에서는 권한 부여 솔루션과 같은 상용 번들에 대한 대체 업무를 가능케할만한 확장성 존재
         * 스포티파이의 플러그인 번들은 개발자 효율성과 행복에 중점을 두는 구조를 갖추고 있으며, 다양한 플러그인이 이러한 아이디어 주변으로 작동
   * [좌충우돌 백스테이(IDP) 도입기](https://hanjin.awsapps.com/workdocs/index.html#/share/document/f0dec8adb59e85a7fc7574fde4951e91f5bc61ca9d98f79a178ed6c0aa9d3202)
+  * [The Tools Spotify Uses to Onboard Engineers & Encourage Career Mobility • Helen Greul • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ulTUCDmqnsI)
+    * [VidiGo The Tools Spotify Uses to Onboard Engineers & Enco](https://vidigo.ai/share/summary/be4817edae7a)
+    * [The Tools Spotify Uses to Onboard Engineers & Encourage Career Mobility • Helen Greul • GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/631460)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
