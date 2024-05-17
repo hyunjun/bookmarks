@@ -200,6 +200,7 @@ Flutter
 * [1인 앱 개발 테니스장 앱 '타이브레이크' 출시 후기 (1) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/70)
 * [Hixie's Natural Log: How big is the Flutter team?](https://ln.hixie.ch/?start=1714717681&order=-1&count=1)
   * [플러터 코파운더의 블로그 글에서 짐작할 수 있는 현재 플러터의 상황. '플러터의 본질은 오픈소스 UI프레임워크이며, 구글의 지원여부와 상관없이 사라지지 않을 것입니다.' - YouTube](https://www.youtube.com/watch?v=cvM94V_MqWw)
+* [Flutter JsonCodable, 그게뭔데? 1편. 구글 I/O 2024에서 플러터 3.22가 공개 되었습니다. | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C%EB%AD%94%EB%8D%B0-57988baeecf0)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
