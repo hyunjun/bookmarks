@@ -114,7 +114,6 @@ App
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
 * [meistertask.com](https://www.meistertask.com) Kanban, task 관리
-* [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * Morpho [모포 리뷰 | 손끝에서 전 세계 도량형을 환산한다 - ITWorld Korea](https://www.itworld.co.kr/news/238264)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
@@ -206,7 +205,6 @@ App
 * [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
-* [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
@@ -2300,6 +2298,11 @@ App
 # Search
 * [DuckDuckGo — 개인정보 보호, 쉬워졌네요](https://duckduckgo.com/)
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
+
+# Social media
+* [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
+* [Nostr - 탈중앙화 소셜 네트워크 | GeekNews](https://news.hada.io/topic?id=14838)
+* [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 
 # TODOs To-Dos
 * [TODO 리스트 앱 탐험기 - tebica story](https://earlybird.kr/2603)
