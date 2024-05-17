@@ -661,6 +661,8 @@ Java
 * [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thomas Vitale • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ovAcrTn6-dg)
 * [Securing the Supply Chain for Your Java Applications by Thomas Vitale - YouTube](https://www.youtube.com/watch?v=pS4cmqNN1QY)
   * Gradle, Sigstore, Cloud Native Buildpacks, Trivy, Syft, and Kyverno
+* [Cruising Along with Java • Venkat Subramaniam & Alina Yurenko • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=5mudzKW0tFI)
+  * [자바를 따라 떠나는 크루즈 - 벤캇 수브라마니암 & 알리나 유렌코 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/637186)
 * [VDBUH2024 Pratik Patel - Cloud Cost Optimization for Java Developers - YouTube](https://www.youtube.com/watch?v=h4f-FunJ-w0)
   * [VidiGo VDBUH2024 Pratik Patel - Cloud Cost Optimization](https://vidigo.ai/share/summary/6a75751818b1)
   * [VDBUH2024 Pratik Patel - Java 개발자를 위한 클라우드 비용 최적화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526729)
