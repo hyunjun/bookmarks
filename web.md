@@ -2019,6 +2019,9 @@ Web
     * LCP, CLS, FID 모두 good을 경험한 사용자는 48.8%
     * INP가 good을 경험한 사용자는 80.6%
     * LCP, CLS, INP가 모두 good을 경험한 사용자는 45.6%
+* [Does Your Startup Website Pass The First Impression Test? | Design Review - YouTube](https://www.youtube.com/watch?v=pqwOL6YfRIo)
+  * [VidiGo Does Your Startup Website Pass The First Impressio](https://vidigo.ai/share/summary/2001d4ec4123)
+  * [스타트업 웹사이트가 첫인상 테스트를 통과했나요? | 디자인 리뷰 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/637282)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
