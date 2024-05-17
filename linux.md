@@ -1373,6 +1373,8 @@ Linux
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
   * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
+* [piko: An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)](https://github.com/andydunstall/piko)
+  * [Piko - Ngrok의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=14833)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
