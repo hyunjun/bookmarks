@@ -8,6 +8,7 @@ Game
 * [Programming NES games in C](http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm)
 * [The Interactive Way To Go](http://playgo.to/iwtg/en/)
 * [쿠키런 서버를 1년동안 개발 및 운영해온 개발자의 이야기](http://www.slideshare.net/serialxnet/1-35304689)
+* [풀타임 근무하는 6자녀 어머니가 취미로 만든 스위치 게임 | GeekNews](https://news.hada.io/topic?id=14845)
 * [WRITING A GAME BOY ADVANCE GAME](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 * 처음 만드는 온라인 게임
   * [처음 만드는 온라인 게임 01 : 주제 / 대상 독자 / 개발 원칙](https://brunch.co.kr/@wedump/4)
