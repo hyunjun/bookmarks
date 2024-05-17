@@ -557,6 +557,8 @@
 * [Lessons learned on writing web applications completely in Rust](https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287)
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Virtual Lunch & Learn: Why you want to choose Rust for your next web service! - YouTube](https://www.youtube.com/watch?v=s2Xk3dMTHg8)
+* [dufs: A file server that supports static serving, uploading, searching, accessing control, webdav...](https://github.com/sigoden/dufs)
+  * [dufs - Rust로 작성된 경량 파일/웹 서버 | GeekNews](https://news.hada.io/topic?id=14795)
 * [hyper - fast and safe HTTP for the Rust language](https://hyper.rs/)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
