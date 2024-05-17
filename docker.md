@@ -2975,6 +2975,7 @@ Docker
 # VMWare
 * [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
 * [맥 VMware Fusion 속에서 윈도우10 속도 올리는 법 : 클리앙](https://www.clien.net/service/board/lecture/15536102?type=recommend)
+* [VMware Fusion Pro 이제 개인용은 무료로 제공 | GeekNews](https://news.hada.io/topic?id=14829)
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
