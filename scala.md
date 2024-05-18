@@ -1181,6 +1181,7 @@ Scala
     * [Vitalii Honta - Temporal Workflows with ZIO: Introduction](https://vhonta.dev/posts/zio-temporal-intro/)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=2EgN0t_vLy4)
     * [Composable concurrency scope of ZIO Semaphore - Bilal Fazlani](https://bilal-fazlani.com/blog/composable-concurrency-scope-of-zio-semaphore/)
+    * [Tuning ZIO for high performance](https://blog.pierre-ricadat.com/tuning-zio-for-high-performance)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1398,6 +1399,7 @@ Scala
 * [Thoughts on Recent Online-Only Conferences](https://www.inner-product.com/posts/online-only-conference-report/)
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
   * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
+* [Duchess at Scala.io | Duchess France](https://www.duchess-france.fr/code/event/2024/04/02/scala-io-nantes.html)
 * [reddit.com/r/ScalaConferenceVideos/new/](https://www.reddit.com/r/ScalaConferenceVideos/new/)
 * [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
 * [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
@@ -1413,6 +1415,7 @@ Scala
   * [Alexandru Nedelcu ELEMENTS OF JVM CONCURRENCY Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=jUe7WEVTUK4)
     * [VidiGo Alexandru Nedelcu ELEMENTS OF JVM CONCURRENCY Scal](https://vidigo.ai/share/summary/3df1d7ba3317)
     * [알렉산드루 네델쿠 JVM 동시성 스칼라 컨퍼런스의 요소 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/588647)
+  * [Daniel Ciocîrlan GENERATIVE ART WITH SCALA, NO AI REQUIRED Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=AQix1WaWuOo)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1485,6 +1488,7 @@ Scala
 * [Scala 2 Macro Tutorial | Bin Wang - My Personal Blog](https://www.binwang.me/2023-12-29-Scala-Macro-Tutorial.html)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
+* [Tomasz Godzik SCALA TOOLING ECOSYSTEM Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=JA9lrLkIjT0)
 * [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
   * [Tooling Talks](https://www.tooling-talks.com/)
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
@@ -1866,6 +1870,7 @@ Scala
   * [KEEP YOUR PROJECTS UP-TO-DATE WITH SCALA STEWARD](https://www.scala-lang.org/blog/2019/07/10/announcing-scala-steward.html)
 * [ScalaTags](https://www.lihaoyi.com/scalatags/)
   * [practice - scalatags](https://gist.github.com/hyunjun/c47c7e1956c2bea685b337458fa51883#file-scalatags-scala)
+  * [htmx, ScalaTags and ZIO HTTP - Single-Page Web Applications in Scala - YouTube](https://www.youtube.com/watch?v=xJnuXAc4siY)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [scalding](https://github.com/twitter/scalding)
@@ -2658,6 +2663,7 @@ Scala
 * [Stop Letting Your Tests “Make” Your Luck | by Asaf Manshary | Riskified Technology | Feb, 2021 | Medium](https://medium.com/riskified-technology/stop-letting-your-tests-make-your-luck-15eeb2b098ad)
 * [Scala com Gitlab para iniciantes. | LinkedIn](https://www.linkedin.com/pulse/scala-com-gitlab-para-iniciantes-lucas-oliveira/)
 * [Nicolas François - Type/Test/Whatever Driven Development: Partage d'expérience - YouTube](https://www.youtube.com/watch?v=tJxnGnDLMEY)
+* [Purify Your Tests](https://blog.daniel-beskin.com/2024-05-09-purify-tests)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Difflicious - helps you find and compare the differences between values](https://jatcwang.github.io/difflicious/)
@@ -2724,6 +2730,7 @@ Scala
 * [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
 * [type lambda (2019-04-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=Y3MD3wNPqy8)
   * type safety가 보장되는 duck typing? 그 외 여러가지 FP관련 이야기들 타입, generics, higher kinded type, type class, FP, interface, SOLID...
+* [Jan Ypma ANTI-CORRUPION LAYERS THROUGH FUNCTIONAL TYPE SAFETY Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=Ps3EOcuD1AQ)
 * [Ep 5: Scala 3 Type lambdas, Functors and error handling - YouTube](https://www.youtube.com/watch?v=wNVQ75KM8-4)
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
@@ -2988,6 +2995,7 @@ Scala
 * [Scala Full Course - Learn Scala in 10 Hours - Scala Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLf0LpPWikpPeHGwdeE4ctmAQ7QZs5PG0T)
 * [Tomasz Godzik - How to Get Started with Scala? | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=rXalh8dhPZc)
 * [Scala Made Simple for Beginners: A Gentle Introduction to Kickstarting Your Scala Learning](https://yadukrishnan.live/scala-made-simple-for-beginners-a-gentle-introduction-to-kickstarting-your-scala-learning)
+* [Barely functional: writing lean scala app - YouTube](https://www.youtube.com/watch?v=2FO0TuvLKEI)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
@@ -3012,5 +3020,6 @@ Scala
 * [smithy4s-course](https://github.com/kubukoz/smithy4s-course)
   * [Spec-first and code-first, hand in hand](https://neander.tech/2024-04-27-specs-first-and-code-first)
   * [Updating our Smithy4s stack in 2024 - YouTube](https://www.youtube.com/watch?v=zhUAamJD7fY)
+  * [Improved reuse in Smithy with Mixins - YouTube](https://www.youtube.com/watch?v=sgAHR4dCAWs)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [Zymposium - Derivable Differs - YouTube](https://www.youtube.com/watch?v=4GWnMvbfgyE)
