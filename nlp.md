@@ -2486,6 +2486,7 @@ NLP
     * [라마 3 핵심 정리 (8b, 70b) - YouTube](https://www.youtube.com/watch?v=bDUXAh2UhGA)
     * [(2) 임경태 - LLama-3-70B 한국어로 풀튜닝 하면 어떻게될까요?? 저희 서울과기대 MLP연구실에서 한국어-영어... | Facebook](https://www.facebook.com/kyungtae.lim.1/posts/pfbid037LjjFdCWz1M6UXyH2XwTjpPiDAE9j6YqzKbE9jswuwimAVcjK1nGUgpWKZwvtHJml)
     * [NumPy로 구현하는 라마 3 모델 · The Missing Papers](https://docs.likejazz.com/llama3.np/)
+      * [순수 NumPy로 구현하는 라마 3 모델 | GeekNews](https://news.hada.io/topic?id=14856)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
@@ -2667,6 +2668,7 @@ NLP
 * [xionic-ko-llama-3-70b](https://github.com/sionic-ai/xionic-ko-llama-3-70b)
 * [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
   * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
+  * [Yi 1.5 - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=14861)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 
 ## Language Model LM GPT
