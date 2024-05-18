@@ -419,6 +419,9 @@ Book
 * (NOT COMPLETED) [인간이 초대한 대형 참사 - YouTube](https://www.youtube.com/watch?v=RCecshSbeZA)
   * ★★★☆☆ 2024.05.10 여러가지 사례를 자세히 분석해 어떤 문제로 인해 큰 참사가 발생했는지 알려주는 책. 잘 읽히지 않아서 중간에 덮었지만 내용이 좋다
   * 우당 문530.98-차69ㅇ
+* [만화로 보는 토마 피케티의 자본과 이데올로기](https://www.hanbit.co.kr/store/books/look.php?p_code=B6471103576)
+  * ★★★☆☆ 2024.05.16 피케티의 원저를 읽지는 않았으나 이 책 자체로 재미있는 구성으로 좋은 책을 만들었다는 점은 확실하다. 여러 대에 걸친 가족사와 세금을 중심으로 자본에 대한 역사를 엮어서 (아마) 매우 어려운 내용일 책을 (그나마) 쉽고 재미있게 잘 그렸다.
+  * 한라 321.2-알294ㅈ 탐라 문321.2-알233ㅈ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
