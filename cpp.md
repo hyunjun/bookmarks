@@ -346,6 +346,7 @@ C++
     * 원시 루프를 사용하지 마세요no raw loop 라는 원칙
     * 원시 루프란 ‘반복문에 구현된 알고리즘보다 함수가 더 큰 목적을 수행하는 경우의 해당 반복문’
       * 함수에 반복문 대신 표준 라이브러리 함수를 가져다 쓸 수 있다면 라이브러리를 써서 코드를 정리하도록 권장
+* [Can C++ be 10x Simpler & Safer? - Herb Sutter - CppCon 2022 - YouTube](https://www.youtube.com/watch?v=ELeZAKCN4tY)
 
 # IDE
 * CLion
