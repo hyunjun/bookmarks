@@ -1023,7 +1023,7 @@ Go
 * [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
 * [research!rsc: Updating the Go Memory Model (Memory Models, Part 3)](https://research.swtch.com/gomm)
 * [Go 언어의 GC에 대해 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/go-gc/) 1.10 기준
-* [Golang GC 튜닝 가이드 – tech.kakao.com](https://tech.kakao.com/2024/05/13/golang-gc-tuning-guide/)
+* [Golang GC 튜닝 가이드 - tech.kakao.com](https://tech.kakao.com/posts/618)
 * [Avoiding Memory Leak in Golang API | Hacker Noon](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
 * [Golang Long Time Performance Test - Memory Leak 해결 과정 — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Long-Time-Performance-Test-Memory-Leak-%EB%A9%94%EC%9D%B8-%EB%94%94%EC%89%AC)
 * [**Golang Memory Management — { DEV SWEETER ; }**](https://syntaxsugar.tistory.com/entry/Golang-Memory-Management) 1.16 기준
