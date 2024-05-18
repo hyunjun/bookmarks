@@ -716,6 +716,7 @@ iOS
 * [SwiftUI onDrag & onDrop :: iOYES](https://green1229.tistory.com/468)
 * [SwiftUI - transformEnvironment :: iOYES](https://green1229.tistory.com/471)
 * [SwiftUI - Table :: iOYES](https://green1229.tistory.com/472)
+* [SwiftUI에서 Search Interface 추가하기 :: iOYES](https://green1229.tistory.com/473)
 * [UIPasteboard를 통한 클립보드 사용하기 :: iOYES](https://green1229.tistory.com/470)
 
 ## Swift Library
