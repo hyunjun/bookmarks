@@ -1395,7 +1395,7 @@ Javascript
 * [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
 * [Typed JavaScript? For real? The type annotations proposal and what it’s all about - YouTube](https://www.youtube.com/watch?v=8EXuuLtYFY0)
   * [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about - NodeConf EU - Google Slides](https://docs.google.com/presentation/d/12SYdKy75FsSwO9-wzHADPL9JP6uXplxSKMQe1qsJKR8/edit)
-* [웹 텍스트 에디터 개발에 필요한 고민과 신규 에디터 소개 / 제5회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2024/04/29/techmeet-web-editor/)
+* [웹 텍스트 에디터 개발에 필요한 고민과 신규 에디터 소개 / 제5회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/616)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
   * [FEConf 2023 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc)
   * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
@@ -1410,6 +1410,8 @@ Javascript
 * [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
 * [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
+* [React Conf 2024 Day 1 - YouTube](https://www.youtube.com/watch?v=T8TZQ6k4SLE)
+* [React Conf 2024 Day 2 - YouTube](https://www.youtube.com/watch?v=0ckOUBiuxVY&t=0s)
 * [WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread - YouTube](https://www.youtube.com/watch?v=0dC11DMR3fU) interaction이 발생할 때 파일을 나눠서 다운로드하도록 해서 효율 향상
 * WOOWACON2023
   * [**모두의 웹뷰 #우아콘2023 #우아한형제들 - YouTube**](https://www.youtube.com/watch?v=LbU5E1pWfks)
@@ -1461,7 +1463,7 @@ Javascript
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 * [Chrome DevTools로 JS 메모리 누수(Memory Leak) 디버깅하기](https://blog.eunsukim.me/posts/debugging-javascript-memory-leak-with-chrome-devtools)
-* [Chrome Devtools를 활용하여 나만의 웹뷰 디버깅 환경 만들기 / 제5회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2024/04/29/techmeet-webview-debugging/)
+* [Chrome Devtools를 활용하여 나만의 웹뷰 디버깅 환경 만들기 / 제5회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/617)
 * [Debugging in the Browser - DEV Community](https://dev.to/bello/debugging-in-the-browser-4ece)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
@@ -2690,7 +2692,7 @@ Javascript
     * 이에 따라 Sevelte 컴파일러에 영향을 주는 심볼인 Rune을 사용하면 선언형으로 리액티브하게 최적화
     * Svelte 5에 추가될 기능이고 아직 개발 중이라 추후 변경 가능
   * [중급강좌 Svelte(스벨트) - 이론 - YouTube](https://www.youtube.com/playlist?list=PLdwQP35_Nz9fyb6uWUoqZjLD6hNhKXYp8)
-  * [Phocus 사용자 경험 중심 스벨트 이미지 뷰어 라이브러리 / 제5회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2024/04/29/techmeet-image-viewer/)
+  * [Phocus 사용자 경험 중심 스벨트 이미지 뷰어 라이브러리 / 제5회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/615)
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
@@ -3065,6 +3067,7 @@ Javascript
     * 프론트엔드 툴 체인인 Rome이 공식적으로 중단되면서 커뮤니티가 포크한 프로젝트가 Biome
     * Rome은 Meta의 OSS로 시작되었다가 처음 만든 Sebastian McKenzie가 Rome Tools Inc를 차렸지만, 회사는 잘 안되었고 직원들은 해고
     * 메인테이너들은 여전히 프로젝트에 기여하고 싶지만, Rome 상표권 등의 제약이 있어서 Biome라는 새로운 이름으로 포크
+  * [Biome: 차세대 JS Linter와 Formatter | Dable Tech Blog](https://teamdable.github.io/techblog/biome-js-linter-and-formatter)
 * [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
   * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
