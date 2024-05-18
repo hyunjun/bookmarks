@@ -718,6 +718,7 @@ iOS
 * [SwiftUI - Table :: iOYES](https://green1229.tistory.com/472)
 * [SwiftUI에서 Search Interface 추가하기 :: iOYES](https://green1229.tistory.com/473)
 * [UIPasteboard를 통한 클립보드 사용하기 :: iOYES](https://green1229.tistory.com/470)
+* [Build your next website in Swift - YouTube](https://www.youtube.com/watch?v=JJGLoo3A2uk)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
