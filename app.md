@@ -463,6 +463,8 @@ App
   * [워드프레스 이미지 확대 에러 – Uncaught TypeError: el is undefined / Uncaught TypeError: items startIndex is undefined / Uncaught TypeError: swiper is undefined – 형우의 웹개발](https://mytory.net/archives/15772)
   * [워드프레스를 PHP 프레임워크로 활용한다는 것의 의미 – 형우의 웹개발](https://mytory.net/archives/15800)
   * [워드프레스 백업과 복원은 웹 파일과 DB를 한 쌍으로 맺어야 한다 - 넷마블 기술 블로그](https://netmarble.engineering/wordpress-backup-and-restore/)
+  * [Studio by WordPress.com – WordPress.com Developer Resources](https://developer.wordpress.com/studio/)
+    * [Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구 | GeekNews](https://news.hada.io/topic?id=14858)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
@@ -1996,6 +1998,8 @@ App
 * [NewPipe - a free YouTube client](https://newpipe.net/)
 * [NoiseTorch: Real-time microphone noise suppression on Linux](https://github.com/lawl/NoiseTorch)
 * [NVIDIA Broadcast 앱: AI 기반 음성 및 영상 | NVIDIA](https://www.nvidia.com/ko-kr/geforce/broadcasting/broadcast-app/)
+* [omni-clip](https://omniclip.app/)
+  * [Omniclip - 오픈소스 웹 비디오 편집기 | GeekNews](https://news.hada.io/topic?id=14776)
 * Owncast [Owncast - 오픈소스 라이브 스트리밍 서버 | GeekNews](https://news.hada.io/topic?id=3450)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
@@ -2356,8 +2360,9 @@ App
     * [grida cli 소개페이지](https://grida.co/cli)가 grida cli 로 작성
     * [code: Design to code engine. A design ✌️ code standard. Supports React, Flutter and more](https://github.com/gridaco/code)
   * OROR Forge: Figma to Code 도구 제작기
-    * [(1) 디자인을 코드로 만들어보자! – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-1/)
-    * [(2) 실전용으로 만들기 – tech.kakao.com](https://tech.kakao.com/2024/01/09/ororforge-2/)
+    * [OROR Forge (BETA) - Figma to React, HTML/CSS | Figma](https://www.figma.com/community/plugin/1307626138807585327/oror-forge-beta-figma-to-react-html-css)
+    * [OROR Forge: Figma to Code 도구 제작기 (1) 디자인을 코드로 만들어보자! - tech.kakao.com](https://tech.kakao.com/posts/611)
+    * [OROR Forge: Figma to Code 도구 제작기 (2) 실전용으로 만들기 - tech.kakao.com](https://tech.kakao.com/posts/612)
     * Figma로 된 디자인을 코드로 만드는 시간을 줄이기 위해 자동화 도구를 만드는 과정
     * 상용 Figma to Code 솔루션 중 Amplify Sudio와 Locofy를 살펴보면서 인상적인 기능이 있었지만, 각 한계점이 있었고 직접 만들기로 결정
     * 이 OROR Forge에서 Figma의 디자인을 픽셀 퍼펙트한 코드를 생성하기 위해 Figma의 Property, Auto Layout, Constraints, Text를 CSS의 Property, Flexbox, Postions, Text로 변환한 과정 설명
