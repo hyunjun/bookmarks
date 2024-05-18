@@ -626,6 +626,12 @@ Programming Books
   * [코딩 테스트 합격자 되기 - 파이썬 편(~179스택까지) - WikiDocs](https://wikidocs.net/book/13314)
   * [프로그래머스X골든래빗 코딩테스트 특강.pdf - Google Drive](https://drive.google.com/file/d/1XVqHJlmrQQrOkbCP63kjf1NfC7U8zzti/view)
   * [python-coding-test](https://github.com/to-be-pass/python-coding-test)
+* (NOT YET) [알고리듬으로 생각하기 | 에이콘출판사](http://www.acornpub.co.kr/book/algorithmic-thinking)
+  * 우당 문005.1-진11ㅇ
+  * [GitHub - AcornPublishing/algorithmic-thinking: 알고리듬으로 생각하기 국제 프로그래밍 경진대회 문제로 배우는](https://github.com/AcornPublishing/algorithmic-thinking)
+* (NOT YET) [문제 해결을 위한 알고리즘 with 수학 | 위키북스](https://wikibook.co.kr/algorithm-math/)
+  * 우당 문005.1015-요213ㅇ
+  * [GitHub - wikibook/algorithm-math: 《문제 해결을 위한 알고리즘 with 수학》 예제 코드](https://github.com/wikibook/algorithm-math/)
 
 # Amazon AWS
 
@@ -1108,6 +1114,9 @@ Programming Books
 
 # Continuous Integration & Continuous Delivery CI CD
 * (NOT YET) [지속적인 통합: 소프트웨어 품질을 높이고 위험을 줄이기 | 위키북스](https://wikibook.co.kr/continuous-integration/)
+* (NOT YET) [젠킨스로 배우는 CI/CD 파이프라인 구축 | 에이콘출판사](http://www.acornpub.co.kr/book/cicd-pipeline-jenkins)
+  * 우당 문005.1-딩11ㅈ
+  * [GitHub - AcornPublishing/cicd-pipeline-jenkins: 젠킨스로 배우는 CI/CD 파이프라인 구축 보안, 파이프라인, 테스트, AWS/Docker 통합](https://github.com/AcornPublishing/cicd-pipeline-jenkins)
 
 # Database, SQL
 
@@ -2112,6 +2121,8 @@ Programming Books
   * [파이썬 퀀트 22강 - 포트폴리오 최적화를.. : 네이버블로그](https://blog.naver.com/leebisu/223049696047)
 * (NOT YET) [평균 회귀 트레이딩 전략의 최적 설계 | 에이콘출판사](http://www.acornpub.co.kr/book/reversion-trading)
   * 탐라 문327.027-렁839ㅍ
+* (NOT YET) [챗GPT로 만드는 주식 & 암호화폐 자동매매 시스템](https://jpub.tistory.com/1489)
+  * 한라 005.1-설17ㅊ
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
@@ -2342,6 +2353,8 @@ Programming Books
   * 한라 004.5-정94ㅁ
   * [philllipjung/o11ybook](https://github.com/philllipjung/o11ybook)
   * [모니터링의 새로운 미래 관측 가능성 – Medium](https://yohaim.medium.com/)
+* (NOT YET) [그림으로 배우는 구글 클라우드 101](https://jpub.tistory.com/1488)
+  * 제주 004.588-베238그
 
 ## Terraform
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
@@ -4367,6 +4380,9 @@ Programming Books
   * ★★★★☆ 2023.01.06, 09
   * [Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/)
   * [Release It! • Michael Nygard & Trisha Gee • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BIuBnLTMkfQ)
+  * [Release의 모든 것](https://hanbit.co.kr/store/books/look.php?p_code=B1820128661)
+    * ★★★★★ 2024.04.22~28
+    * 탐라 문005.12-박53ㄹ
 * [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
   * ★★★☆☆ 2023.03.13
   * 한라 005.1-유25ㅋ
@@ -4438,6 +4454,8 @@ Programming Books
   * [버그를 줄이는 확실한 방법: 코드를 줄이기 | 웹으로 말하기](https://mytory.net/archives/13983)
 * (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://acornpub.co.kr/book/productivity-software)
   * 우당 문005.1-샤225ㅅ
+* (NOT YET) [(로버트 C. 마틴 시리즈) 읽기 쉬운 코드 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN004042)
+  * 한라 005.1-시34ㅇ
 
 # Spark
 
