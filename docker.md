@@ -2976,6 +2976,12 @@ Docker
 * [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
 * [맥 VMware Fusion 속에서 윈도우10 속도 올리는 법 : 클리앙](https://www.clien.net/service/board/lecture/15536102?type=recommend)
 * [VMware Fusion Pro 이제 개인용은 무료로 제공 | GeekNews](https://news.hada.io/topic?id=14829)
+  * (2024.05.18 기준) Windows는 UTM보다 편리하게 설치/실행 가능, Ubuntu도 iso로 큰 어려움 없이 설치/실행 성공
+    * 다음 자료들 참고해서 Mac OS Sonoma 설치는 실패(Mac은 UTM이 오히려 간단히 설치/실행 가능)
+      * [Full Guide Download and Create macOS Sonoma ISO File](https://www.drbuho.com/how-to/download-create-macos-sonoma-iso-file)
+      * [Install MacOS on VMWare fusion on Mac - Apple Community](https://discussions.apple.com/thread/255245209?sortBy=best)
+      * [VMware Documentation for macOS 13](https://partnerweb.vmware.com/GOSIG/MacOS_13.html)
+      * [Installing macOS Ventura in VMWare Fusion Pro 13 | MacRumors Forums](https://forums.macrumors.com/threads/installing-macos-ventura-in-vmware-fusion-pro-13.2397170/)
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
