@@ -1896,7 +1896,8 @@ Programming
 * [Monorepos - The Benefits, Challenges and Importance of Tooling Support by Juri Strumpflohner - YouTube](https://www.youtube.com/watch?v=15VeTQLnWrs)
 * [From Monorepo Mess to Monorepo Bliss: Avoiding Common Mistakes - YouTube](https://www.youtube.com/watch?v=wtOMn-RdRxU)
 * [Why Google Stores Billions of Lines of Code in a Single Repository - YouTube](https://www.youtube.com/watch?v=W71BTkUbdqE)
-* [당근페이 FE, 4개의 프로젝트를 하나로 합치며 나눈 대화들 | by Kooku | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-fe-4%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B0-%EB%82%98%EB%88%88-%EB%8C%80%ED%99%94%EB%93%A4-b96f837230da) monorepo
+* [당근페이 FE, 4개의 프로젝트를 하나로 합치며 나눈 대화들 | by Kooku | 당근 테크 블로그 | Mar, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-fe-4%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B0-%EB%82%98%EB%88%88-%EB%8C%80%ED%99%94%EB%93%A4-b96f837230da)
+* [오픈소스 ABC User Feedback에 적용한 모노리포 구조 소개](https://techblog.lycorp.co.jp/ko/monorepo-structure-for-abc-user-feedback)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
@@ -4925,6 +4926,8 @@ Programming
     * 봇을 차단하기 위해 사용하는 CAPTCHA의 대안으로 작년에 Cloudflare가 공개한 Turnstile이 누구나 이용할 수 있도록 완전히 무료 공개
     * 시각적 퍼즐이 사람에게도 어렵기 때문에 Turnstile은 퍼즐을 전혀 보여주지 않고 봇을 detect
     * 지난 1년 동안 모니터링한 결과 프로덕션에 사용할 준비가 완료되었다고 판단하고 정식 버전으로 공개
+* [URLhaus | Malware URL exchange](https://urlhaus.abuse.ch/)
+  * [URLhaus - 멀웨어 배포에 사용되는 악성 URL 데이터베이스 | GeekNews](https://news.hada.io/topic?id=14860)
 * [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
 * [ZAP](https://www.zaproxy.org/) vulnerability scanner
 * [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
@@ -5581,6 +5584,7 @@ Programming
   * [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
   * [messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
   * [독립적이고 범용적인 올인원 메시징 플랫폼](https://engineering.linecorp.com/ko/blog/independent-universal-all-in-one-messaging-platform)
+  * [질문에 대처하는 어느 플랫폼 개발자의 이야기](https://techblog.lycorp.co.jp/ko/how-platform-developers-handle-questions)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
 * [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
@@ -6514,6 +6518,7 @@ Programming
   * [기술 뉴스 #243 : 24-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1713)
   * [기술 뉴스 #244 : 24-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1716)
   * [기술 뉴스 #245 : 24-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1719)
+  * [기술 뉴스 #246 : 24-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1722)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -7407,6 +7412,7 @@ Programming
 * [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [Improving Software Flow • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=XMyt5S8limQ)
 * [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
+* [비포 프로세스 — Before Process](https://hiddenest.dev/before-process)
 * [지속 가능성에 대한 2가지 관점](https://brunch.co.kr/@cleancode/55)
 * [Software Craftsmanship 실천 가이드.pptx - Google Drive](https://docs.google.com/file/d/1A7mW4Cu7CypyE5jt1staRxnPjmEyyqaQ/edit)
 * [Trust Teams but Verify: Compliance as Code Done Right • Effy Elden • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=lv9fuHtnBhc)
