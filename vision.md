@@ -482,6 +482,7 @@ Vision
   * [One-shot object detection](https://machinethink.net/blog/object-detection/)
   * [windows환경/darknet/ 점수내기 - DACON](https://dacon.io/codeshare/1717)
   * [YOLO Real time object detection on CPU](https://morioh.com/p/78141aa5a374)
+  * [컴퓨터 비전에서의 Receptive Field와 YOLO - 모두의연구소](https://modulabs.co.kr/blog/computer-vision-receptive-field-yolo/)
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [labelImg: 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images](https://github.com/tzutalin/labelImg)
