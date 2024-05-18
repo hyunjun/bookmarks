@@ -422,6 +422,9 @@ Book
 * [만화로 보는 토마 피케티의 자본과 이데올로기](https://www.hanbit.co.kr/store/books/look.php?p_code=B6471103576)
   * ★★★☆☆ 2024.05.16 피케티의 원저를 읽지는 않았으나 이 책 자체로 재미있는 구성으로 좋은 책을 만들었다는 점은 확실하다. 여러 대에 걸친 가족사와 세금을 중심으로 자본에 대한 역사를 엮어서 (아마) 매우 어려운 내용일 책을 (그나마) 쉽고 재미있게 잘 그렸다.
   * 한라 321.2-알294ㅈ 탐라 문321.2-알233ㅈ
+* [만화로 보는 수의사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B4261830338)
+  * ★★★☆☆ 2024.05.18
+  * 우당 문528-기64ㅅ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -574,8 +577,6 @@ Book
 * (NOT YET) [거인의 노트](https://www.youtube.com/watch?v=SaHVcQO9Y40)
   * 한라 325.211-김68ㄱ 탐라 문325.211-김69ㄱ 우당 문325.211-김69ㄱ 제주 325.211-김69거
   * [이렇게 메모하면 책도 통째로 기억할 수 있다 f.김익한 『거인의 노트』 저자 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345515?sId=SaHVcQO9Y40)
-* (NOT YET) [만화로 보는 수의사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B4261830338)
-  * 우당 문528-기64ㅅ
 * (NOT YET) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
   * 우당 문531-힐91ㄷ
 
