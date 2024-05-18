@@ -531,6 +531,7 @@ AWS
 * [AWS Signer를 사용하여 컨테이너 이미지 빌드 파이프라인을 보호하기 위한 모범 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/)
 * [AWS Config란?](https://www.smileshark.kr/post/aws-config)
 * [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
+* [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2719,6 +2720,8 @@ AWS
   * [Gitops Bridge를 통한 멀티클러스터 구성 자동화](https://hanhorang.tistory.com/6)
 * [OpenTofu](https://opentofu.org/)
   * [테라폼의 포크버전 OpenTF가 OpenTofu로 이름을 변경 | GeekNews](https://news.hada.io/topic?id=10975)
+  * [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+    * [Oracle, 기업용 제품에서 사용중인 Terraform을 OpenTofu로 교체 | GeekNews](https://news.hada.io/topic?id=14853)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 * [Terraform AWS modules](https://github.com/terraform-aws-modules)
