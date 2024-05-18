@@ -5472,6 +5472,7 @@ Javascript
   * [Next.js13 (beta) Review](https://jiyunpark.notion.site/Next-js13-beta-Review-36be3efe9f2f44ada0c116356965ec34)
   * [Next Js 13 Dynamic Website Ever 2023 - YouTube](https://www.youtube.com/watch?v=MOEfA3eAigM)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
+  * [Next.JS | HelloWorld - YouTube](https://www.youtube.com/watch?v=pbILHuENbDI)
   * [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
   * [Web: Next.js 기초 알아보기 (Page, Pre-Rendering) | by Heechan | HcleeDev | Jan, 2023 | Medium](https://medium.com/hcleedev/web-next-js-%EA%B8%B0%EC%B4%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-page-pre-rendering-864c3f4dad5b)
   * [Next.js 제대로 알기 · Json Media](https://json.media/blog/proper_understading_of_nextjs)
