@@ -2377,12 +2377,14 @@ Web
   * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
 # Websocket
+* [**WebSocket Simplified**](https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f)
+* [웹소켓을 알아봅시다. - YouTube](https://www.youtube.com/watch?v=2oMPf-ueQic)
+* [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
 * [WebSockets vs. Regular Sockets](https://medium.com/kifi-engineering/websockets-vs-regular-sockets-b3b8e7ea0708)
 * [HTTP vs Websockets: A performance comparison](https://blog.feathersjs.com/http-vs-websockets-a-performance-comparison-da2533f13a77)
 * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
 * [How to secure your WebSocket connections](https://medium.com/free-code-camp/how-to-secure-your-websocket-connections-d0be0996c556)
-* [**WebSocket Simplified**](https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f)
 * [Stealing Secrets from Developers using Websockets](https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0)
 * [Why is This Website Port Scanning me](https://nullsweep.com/why-is-this-website-port-scanning-me/)
 * [A JavaScript library for WebSockets](https://sarus.anephenix.com/)
@@ -2390,7 +2392,6 @@ Web
 * [REST API (HTTP) vs Websockets - Concept Overview With Example - YouTube](https://www.youtube.com/watch?v=fG4dkrlaZAA)
 * [The WebSocket Handbook: learn about the technology behind the realtime web | Ably Blog: Data in Motion](https://ably.com/blog/introducing-the-websocket-handbook)
   * [WebSocket 핸드북(64p 영문 PDF) | GeekNews](https://news.hada.io/topic?id=5743)
-* [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
 * [WebSockets vs. Server-Sent Events | Bits and Pieces](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
 * [웹소켓으로 개발하기 전 알아야 할 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1911/)
