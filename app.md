@@ -899,6 +899,7 @@ App
 * [Zed - Code at the speed of thought](https://zed.dev/)
   * [Atom 개발자가 만든 텍스트 에디터 Zed :: Outsider's Dev Story](https://blog.outsider.ne.kr/1665)
   * [VSC 경쟁자가 나타났다? Zed 의 등장! - YouTube](https://www.youtube.com/watch?v=_RIn7dSUkEg)
+  * [Zed Decoded: Linux When? - YouTube](https://www.youtube.com/watch?v=O5XVVnA2LoY)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
@@ -947,6 +948,7 @@ App
   * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
   * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
   * [vscode 설정값 초기화하기 (settings.json)](https://memostack.tistory.com/158)
+  * [VSCode 생산성 높이는 세팅 꿀팁 5가지 - YouTube](https://www.youtube.com/watch?v=bOMSd02AfR0)
   * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
   * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
   * [Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
@@ -1242,6 +1244,7 @@ App
 * [macOS에 설치된 HAXM 삭제하기](https://cliearl.github.io/posts/android/uninstall-haxm-macos/)
 * [맥에서 CapsLock 한영 전환이 제대로 안 될 때가 많아서 대소문자 전환 기능을 끔 | 웹으로 말하기](https://mytory.net/archives/14755)
 * [화면 고장난 💻맥북 수명 연장하기. 맥북 고장에 대처하는 새로운 마음가짐 | by Jung Kim | Feb, 2024 | Medium](https://medium.com/@jungkim/%ED%99%94%EB%A9%B4-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EB%A7%A5%EB%B6%81-%EC%88%98%EB%AA%85-%EC%97%B0%EC%9E%A5%ED%95%98%EA%B8%B0-5e029f20ae5a)
+* [How to clear system data - Deep clean your Mac - YouTube](https://www.youtube.com/watch?v=qtoXAQm1yqI)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -2224,6 +2227,7 @@ App
   * [노트앱 볼 때마다 기분좋아지게 만들기 | Obsidian AnuPpuccin - YouTube](https://www.youtube.com/watch?v=cw0XvIi5vP4)
   * [2022 최고의 플러그인 할 일(Task, To do) 관리를 자동화 해주는 플러그인 - YouTube](https://www.youtube.com/watch?v=KH_P3GKtS1k)
   * [옵시디언 사용해 보실래요? - 동기화, 백업 환경 구축](https://velog.io/@joshuara7235/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%8B%A4%EB%9E%98%EC%9A%94) obsidian-git + working copy
+  * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
 * [**prose.io**](http://prose.io) github
