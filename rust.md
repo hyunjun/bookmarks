@@ -546,6 +546,8 @@
 * [sjkim_rust_programming](https://github.com/jskDr/sjkim_rust_programming)
   * [러스트 코딩 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTCwB3inwikMknhd-RdlmnqA)
   * [superqai.com:5000/rustplay](http://superqai.com:5000/rustplay)
+* [Welcome - 100 Exercises To Learn Rust](https://rust-exercises.com/)
+  * [Rust 학습을 위한 100가지 연습 문제 | GeekNews](https://news.hada.io/topic?id=14872)
 * [zero-to-production: Code for "Zero To Production In Rust", a book on API development using Rust](https://github.com/LukeMathWalker/zero-to-production)
 
 # Web
