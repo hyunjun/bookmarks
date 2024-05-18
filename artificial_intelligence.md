@@ -585,3 +585,4 @@ Artificial Intelligence
 # Webtoon
 * [Lore Machine](https://www.loremachine.ai/)
   * [소설을 웹툰으로 만드는 AI 등장..어렵고 복잡한 프롬프트에 지쳤다면 원클릭 AI시대의 도래 - YouTube](https://www.youtube.com/watch?v=omwekbyuM5Q)
+  * [누구나 할 수 있는 5분만에 AI로 쇼츠만화만들기 (로어머신 Lore Machine) - YouTube](https://www.youtube.com/watch?v=S2l77ueKweA)
