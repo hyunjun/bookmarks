@@ -66,6 +66,7 @@ Logging
 * [여기보기 적절한 식습관과 운동을 유지하듯 건강하게 WAS 로그 관리하기 - 넷마블 기술 블로그](https://netmarble.engineering/was-log-management/)
 * [프론트엔드 로깅 신경 안 쓰기](https://toss.tech/article/engineering-note-5)
 * [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
+* [UX 원칙에 따른 NELO 4.0 개발기](https://d2.naver.com/helloworld/2461452)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
