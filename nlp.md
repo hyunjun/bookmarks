@@ -888,6 +888,7 @@ NLP
     * [Creating a service with GPT (a.k.a. drip) #UACon2023 #UA Brothers | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/441136?sId=VFwoEH50WpU)
     * [리뷰를 재료로 GPT가 뚝딱뚝딱 만들어낸 메뉴추천, 메뉴뚝딱AI | 우아한형제들 기술블로그](https://techblog.woowahan.com/16877/)
   * [데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy) NL2SQL, masked data prompting
+  * [Improvements to data analysis in ChatGPT | OpenAI](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
