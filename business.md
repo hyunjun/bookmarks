@@ -3463,6 +3463,7 @@ Business
 * [한 발짝만 앞서기](https://www.thestartupbible.com/2024/03/one-step-ahead-is-good-two-steps-ahead-is-not.html) 마치 적정 기술과 비슷한 이야기 overengineering으로 인한 낭비처럼 BM도 너무 앞서나가면 안된다는 말
 * [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
   * [스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/topic?id=14789)
+* [스타트업에서의 위험한 버튼들](https://eopla.net/magazines/16245) 1. 기획자 (서비스기획, PM, PO 포함) 2. 디자이너 3. 개발자
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
