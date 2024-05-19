@@ -702,6 +702,10 @@ App
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * IDX [Project IDX](https://idx.google.com/)
   * [IDX - 웹에서 ios, android시뮬까지 가능한! - YouTube](https://www.youtube.com/watch?v=wAt7PMqVFL4)
+  * [Start building with Project IDX!](https://idx.dev/blog/article/start-building-with-project-idx-today)
+    * Google이 AI 기반 온라인 통합 개발 환경으로 만들고 있던 IDX를 퍼블릭 베타로 공개해서 바로 사용 가능
+    * 이 IDE는 VS Code 기반으로 작성, Gemini 모델이 통합되어 있어서 AI를 이용한 코드 완성이나 채팅, 코드 설명하기 사용 가능
+    * Firebase나 Google Maps 등 Google 제품을 쉽게 사용할 수 있게 통합
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * [mise-en-place](https://mise.jdx.dev/)
   * [Comparison to asdf | mise-en-place](https://mise.jdx.dev/dev-tools/comparison-to-asdf.html)
@@ -2310,6 +2314,25 @@ App
 # Social media
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Nostr - 탈중앙화 소셜 네트워크 | GeekNews](https://news.hada.io/topic?id=14838)
+  * [An Interview With Jack Dorsey](https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana)
+    * Twitter의 창업자이면서 탈중앙화 소셜미디어 Bluesky를 만든 Jack Dorsey가 최근 Bluesky에서 자신의 계정을 삭제하고 이사회에서도 탈퇴
+    * 이와 관련해서 Jack Dorsey와 한 인터뷰
+    * Jack Dorsey는 Twitter가 브랜드 광고에 의존하는 상장 기업의 압박에서 벗어나기 위해 탈중앙화 프로토콜이 필요하다고 생각
+      * 이 탈중앙화를 트위터도 사용하면서 소셜 미디어는 인터페이스만 담당하는 형태가 좋다고 생각
+    * 그래서 프로토콜을 구현할 수 있는 팀을 찾았고 그게 Bluesky
+      * Bluesky도 마찬가지로 사람들을 제어할 수 있도록 설계되었고 중재 요청을 받아 사람들을 쫓아내기 시작
+      * 이는 Twitter가 회사로서 저지른 실수를 반복하는 것이고 탈중앙화 프로토콜이 아님
+    * 이때 익명의 브라질 단체가 만든 Nostr를 발견했고 개방적인 프로토콜이라서 후원을 하기 시작
+      * 시간이 지나면서 이제 자신이 도와야 할 일이라고 생각하고 최선을 다해 펀딩
+      * 프로토콜에 이사회를 필요치 않다고 생각해서 Bluesky 이사회에서도 물러남
+    * Jack Dorsey는 오랜만에 트윗도 다시 올렸는데 Twitter를 비공개 기업으로 바꾼 Elon Musk의 선택은 올바른 선택이었다는 이야기
+    * Jack Dorsey가 그의 발언이나 행동과 관련 없이 검열의 대표적인 이미지가 된 거에 대해
+      * Twitter가 상장을 위해서 브랜드 광고를 선택했기 때문
+      * 유일한 탈출구는 콘텐츠를 삭제할 수 없는 프로토콜을 사용해야 하고 수익은 커머스나 결제 같은 다른 수익 수단을 만들어야 한다고 이야기
+    * 도널드 트럼프 계정 정지에 대해서는 트위터와 비즈니스에서는 옳은 일이지만 전 셰게와 인터넷에서는 절대적으로 잘못된 일
+    * Elon Musk가 정부의 통제 등에 싸우고 있긴 하지만
+      * 나중엔 타협할 수도 있고 Elon에게 문제가 생기면 어떻게 될지 알수 없는 일
+      * 권리를 보장하는 기술 위에 구축된 것이 아니기 때문에 보장할 수 없는 일
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 
 # TODOs To-Dos
@@ -2371,6 +2394,12 @@ App
     * 상용 Figma to Code 솔루션 중 Amplify Sudio와 Locofy를 살펴보면서 인상적인 기능이 있었지만, 각 한계점이 있었고 직접 만들기로 결정
     * 이 OROR Forge에서 Figma의 디자인을 픽셀 퍼펙트한 코드를 생성하기 위해 Figma의 Property, Auto Layout, Constraints, Text를 CSS의 Property, Flexbox, Postions, Text로 변환한 과정 설명
     * 이를 실제 현업에서 활용하기 위해 인라인 스타일 대신 TailwindCSS를 사용하기로 하고 인라인 스타일을 TailwindCSS로 매핑하는 빌더 함수를 구현하고 HTML 코드고 React 컴포넌트로 변환해서 코드 생성을 자동화한 과정 설명
+  * [The Skew Programming Language](https://evanw.github.io/skew-lang.org/)
+    * [Figma’s journey to TypeScript | Figma Blog](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
+      * Figma는 웹과 모바일을 모두 지원하는 Figma의 요구사항을 충족시키기 위해 Skew 언어를 만들어서 사용
+        * Figma가 커짐에 따라 생태계 부족으로 인한 한계를 깨닫고 Skew를 TypeScript로 마이그레이션
+      * 이는 모바일 브라우저에서 WebAssembly를 지원하기 시작했고 Skew의 핵심 엔진을 이미 C++ 엔진으로 대체해서 성능 손실이 크지 않았기에 가능한 일
+      * 마이그레이션은 Skew 코드에서 TypeScript 빌드를 한 뒤 직접 TypeScript 코드를 작성하도록 하면서 개발의 중단없이 마이그레이션 완료
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
