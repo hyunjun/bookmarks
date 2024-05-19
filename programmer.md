@@ -407,6 +407,9 @@ Programmer
 * [개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2198/)
 * [그대들, 어떻게 공부할 것인가 - Google Slides](https://docs.google.com/presentation/d/1KvrS58SZdhSxYHvIq3SXIbYGwBzKyj8jekJB-O9RTTk/edit)
 * [엔지니어링 레벨링은 누더기가 되었나?](https://hiddenest.dev/engineer-leveling)
+  * 실리콘밸리에서는 이제 꽤 일반적으로 된 것으로 알고 있는 엔지니어링 레벨링이 처음 알려지기 시작했을 때 꽤 많은 관심
+    * 국내 많은 스타트업이 이를 도입하고 오히려 불편함과 스트레스를 호소하는 것을 보고 고민을 적은 글
+  * 바라는 모습을 제시하지 못하거나 적절한 상황이 아니거나 매니저와 IC를 자유롭게 오가지 못하는 문제를 지적
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
