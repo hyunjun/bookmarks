@@ -550,6 +550,7 @@ App
   * Puppeteer/WebDriver로 새로운 헤드리스 크롬을 사용하는 방법과 관련 옵션 정리
 * [요즘 완전 대세! 크롬 확장앱 만들기. 5분컷. - YouTube](https://www.youtube.com/watch?v=QJSLtK2bY_A)
 * [크롬에서 세로 길이가 긴 이미지 파일이 깨지는 문제](https://sunyzero.tistory.com/293)
+* [Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 | GeekNews](https://news.hada.io/topic?id=14888)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
@@ -2112,6 +2113,7 @@ App
   * [Notion 유저에서 파트너가 된 이야기: ③ 할 수 있을 때, 할 수 있는 만큼](https://fall-moon.tistory.com/19)
   * [How I Use AI to take perfect notes...without typing - YouTube](https://www.youtube.com/watch?v=hCEdm9LGBb0)
   * [노션으로 만드는 궁극의 휴가 관리 시스템 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250082)
+  * [OKR 장점 극대화해서 빠르게 목표 달성하는 노션 활용법](https://eopla.net/magazines/16221)
   * [notionapi](https://github.com/paullabkorea/notionapi)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
