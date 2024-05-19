@@ -2497,6 +2497,11 @@ Programming Books
 * (NOT YET) [쿼커스 쿡북](https://hanbit.co.kr/store/books/look.php?p_code=B7614945801)
   * 한라 005.16-부64ㅋ
   * [quarkus_cookbook](https://github.com/yudong80/quarkus_cookbook)
+* (NOT YET) [JVM 밑바닥까지 파헤치기 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/164)
+  * [탄생 비화 JVM 밑바닥까지 파헤치기](https://brunch.co.kr/@wegra/36)
+    * 개앞맵시 이복연 님이 JVM 밑바닥까지 파헤치기 번역서를 출간하기까지의 험난한 과정 설명
+    * 중국 시장에서 오랫동안 스테디셀러인 책이라 관심이 많았지만, 너무 오래된 책이라 망설이다가 개정판이 나와서 번역하기로 결정
+      * 당시 하던 일들이 많아서 미뤄지다가 결국 JDK 21까지의 내용까지 적용해서 출간
 
 # JavaScript
 
