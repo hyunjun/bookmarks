@@ -230,6 +230,7 @@ C
   * [Expert Talk: Zig Programming Language & Linters • Andrew Kelley & Jeroen Engels • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zKmZmiOU6qE)
   * [Zig Build System & How to Build Software From Source • Andrew Kelley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=vKKTMBoxpS8)
   * [zig 설치하여 Visual Studio Code 개발환경 만들기 - Windows, Linux, macOS :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2301)
+  * [C를 배우기 전에 이 영상을 보세요. - YouTube](https://www.youtube.com/watch?v=KVPjN_8DkhY)
   * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 # Debugging
