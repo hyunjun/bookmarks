@@ -2461,6 +2461,12 @@ AWS
 * [Amazon S3 Storage Lens 소개 – 객체 스토리지에 대한 기업 전반의 가시성 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/s3-storage-lens/)
 * [AWS S3 요금으로 한 놈 담궈버리는 방법 - YouTube](https://www.youtube.com/watch?v=propgtDEMgM)
 * [Amazon S3, 여러 HTTP 오류 코드에 대한 비용 청구 중단하기로 | GeekNews](https://news.hada.io/topic?id=14814)
+* [How an empty S3 bucket can make your AWS bill explode | by Maciej Pocwierz | Apr, 2024 | Medium](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+  * 작업하면서 AWS S3에 버킷을 만들었는데 며칠 뒤에 확인해 보니 1억 건의 S3 PUT 요청이 실행되고 $1,300의 비용이 나오고 있는 것을 확인
+    * 이를 추적해 보니 특정 오픈소스 프로젝트에서 백업하도록 지정한 기본 S3 버킷 이름이 해당 버킷 이름과 우연히도 동일
+    * 이를 수정하지 않고 사용한 모든 사람의 요청이 해당 버킷으로 온 것
+    * AWS가 승인되지 않은 4xx 요청에 대해서도 요금을 부과하고 있기 때문에 발생한 일
+  * 이에 대해 AWS의 Chief Evangelist인 Jeff Barr는 이러한 일은 없어야 한다면서 HTTP 3xx/4xx를 포함한 무단 요청에는 과금하지 않도록 변경
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
