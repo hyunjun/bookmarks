@@ -2139,6 +2139,10 @@ Javascript
         * .eslintrc.* 파일 대신 `eslint.config.js` 파일을 검색하고 기존 방식을 사용하려면 `ESLINT_USE_FLAT_CONFIG`를 `false`로 설정
         * ESLint 10.0에서는 eslintrc 시스템이 완전히 제거될 예정
     * 새 flat config 시스템은 아직 CLI에 통합되지는 않았고 개발자가 테스트할 수 있게 API로 사용 가능
+  * [Introducing ESLint Compatibility Utilities - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
+    * ESLint 9.0.0에서 새로운 config 형식인 Flat config가 도입되고 API 변경도 존재
+      * 이에 따라서 플러그인도 v9.0.0에 맞게 업데이트 필요
+      * 아직 다 업데이트되지 않았으므로 플러그인 사용시 호환성 오류가 발생한다면 @eslint/compat를 설치해 호환성이 깨진 플러그인을 감싸면 정상 사용 가능
   * [SafeQL - an ESLint plugin for writing SQL queries in a type-safe way](https://safeql.dev/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
@@ -4803,6 +4807,13 @@ Javascript
 * [React Server Components - Explained for Backend Developers by Jonas Bandi - YouTube](https://www.youtube.com/watch?v=ZRRygeUhSVU)
   * [VidiGo React Server Components - Explained for Backend De](https://vidigo.ai//chatbot/summary/mk5pNfRCmKelich)
   * [React 서버 컴포넌트 - 백엔드 개발자를 위한 설명 작성자: Jonas Bandi | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/380516?sId=ZRRygeUhSVU)
+* [The Forensics Of React Server Components (RSCs) — Smashing Magazine](https://www.smashingmagazine.com/2024/05/forensics-react-server-components/)
+  * 초기 React는 클라이언트 사이드 렌더링(CSR)로 시작했지만 SEO에 적합하지 않고 초기 로딩이 필요한 문제가 있었기에 서버 사이드 렌더링(SSR)을 도입
+    * 초기 HTML을 서버에서 만들어서 내려주어 바로 콘텐츠를 표시한 뒤 이후 하이드레이션 가능, SEO 문제도 해결하고 FCP 지표도 개선
+  * 하지만 두 방식에도 한계는 있었기에 정적 사이트 생성(SSG)으로 모든 페이지를 만들어서
+    * CDN으로 호스팅하는 방법도 만들고 증분 정적 재생성(ISR)을 만들어서 모든 콘텐츠를 다 빌드하지 않을 수 있게 개선
+  * RSC는 개별 React 컴포넌트에 적합한 렌더링 전략을 선택할 수 있게 해서 단점을 해결하는 것이 목표
+    * 이런 역사 속에서 만들어진 RSC의 동작 방식과 RSC가 가지는 의미 설명
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
@@ -5672,6 +5683,10 @@ Javascript
   * [리액트 라우터 v6 튜토리얼](https://velog.io/@velopert/react-router-v6-tutorial)
   * [React Router V6 Guide (Basically) - 부제 : v6 변경점](https://yoonjong-park.tistory.com/108)
   * [React router dom - #shorts - YouTube](https://www.youtube.com/shorts/NbqvJaPT9iA)
+  * [Merging Remix and React Router | Remix](https://remix.run/blog/merging-remix-and-react-router)
+    * 지난 4년간 Remix 개발하면서
+      * React Router와 밀접하게 연결, 개선 과정에서 Remix가 React Router를 더 의존하게 만들다 보니 Remix가 React Router 레이어에 불과하다는 걸 깨달음
+    * 그래서 두 프로젝트를 합쳐서 Remix v3를 React Router v7으로 출사하기로 결정
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
@@ -6635,6 +6650,9 @@ Javascript
 * [Vue의 v-for에서 :key를 사용해야 하는 이유 – 형우의 웹개발](https://mytory.net/archives/15356)
 * [Vue.js – URL 값 있으면 a 태그, 없으면 span이나 div 태그로 표시하기 – 형우의 웹개발](https://mytory.net/archives/15364)
 * [Vue 컴포넌트에서 루트 데이터를 활용하는 간편한 방법 – $root, $parent – 형우의 웹개발](https://mytory.net/archives/15425)
+* [Things that I like better in Vue than in React - DEV Community](https://dev.to/jaydevm/things-that-i-like-better-in-vue-than-in-react-56o3)
+  * React에 이미 익숙해서 불만이 없었지만, 막상 Vue를 써보니 Vue의 장점이 눈에 띄어서 정리한 글
+  * 설치가 대화형이라 더 직관적, 상용구도 적으면서 단일 파일에서 관리가 훨씬 용이, 지시어 시스템이나 계산된 속성도 React보다 사용하기 쉬움, 개발자 경험이 좋아서 배울 점이 많다고 강조
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
