@@ -2243,6 +2243,7 @@ App
   * [옵시디언 사용해 보실래요? - 동기화, 백업 환경 구축](https://velog.io/@joshuara7235/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%8B%A4%EB%9E%98%EC%9A%94) obsidian-git + working copy
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
+  * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * Canvas [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
