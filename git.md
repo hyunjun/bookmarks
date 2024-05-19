@@ -299,6 +299,14 @@ Git
 * [Push protection is generally available, and free for all public repositories | The GitHub Blog](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
   * 커밋에 시크릿이 포함된 경우 푸시 자체를 거절하는 Push protection 기능이 공개 저장소에서 무료로 이용 가능
 * [Keep all your packages up to date with Dependabot | The GitHub Blog](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
+* [Dependabot on GitHub Actions and self-hosted runners is now generally available - The GitHub Blog](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
+  * GitHub에서 의존성 업데이트를 자동으로 지원하는 Depandabot이 이제 GitHub Actions 워크플로우로도 실행 가능
+    * 이 시간은 GitHub Actions 시간에 포함되지 않아 기존과 똑같이 무료
+  * Depandabot을 GitHub Actions로 실행할 수 있게 되면서 self-hosted 러너에서 실행하거나 프라이빗 네트워크에 접근할 수 있게 하는 등의 유연성 향상
+* [dependabot-core: 🤖 Dependabot's core logic for creating update PR's.](https://github.com/dependabot/dependabot-core)
+  * [dependabot-core is now open source with an MIT license - The GitHub Blog](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
+    * Dependabot을 GitHub Actions에서 동작 지원과 동시에
+    * 20개 이상 언어와 패키지 매니저 의존성 업데이트를 지원하는 dependabot-core를 오픈소스(MIT)로 공개
 * [GitHub Repository Rules are now generally available - The GitHub Blog](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/)
 * [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties :: Outsider's Dev Story](https://blog.outsider.ne.kr/1718)
 * [Metrics for issues, pull requests, and discussions - The GitHub Blog](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
@@ -306,6 +314,9 @@ Git
   * [issue-metrics: Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.](https://github.com/github/issue-metrics)
 * [GitHub repository templates 사용 후기](http://ohyecloudy.com/pnotes/archives/github-repository-templates/)
 * [**Inside `.git`**](https://jvns.ca/blog/2024/01/26/inside-git/)
+* [Introducing Artifact Attestations–now in public beta - The GitHub Blog](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
+  * GitHub에서 빌드한 아티팩트를 증명해서 공급자에서 위변조가 일어났는지 검사할 수 있는 기능을 베타로 공개
+  * 이 기능은 Sigstore로 동작하고 GitHub CLI로 서명하고 이를 검증하게 할 수 있으며 아티팩트를 SBOM과 연결 가능
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
