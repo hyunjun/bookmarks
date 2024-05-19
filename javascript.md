@@ -5148,6 +5148,8 @@ Javascript
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 * [React Native에서 TypeScript 사용하기 - react-native 프로젝트에 TypeScript를 적용하여 개발해 보자.](https://deku.posstree.com/ko/react-native/typescript/)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
+* [React Native IDE](https://ide.swmansion.com/)
+  * [새로운 React Native IDE 소개 - YouTube](https://www.youtube.com/watch?v=2JFoSiUT7A0)
 * [react-native-maestro](https://github.com/kiki-le-singe/react-native-maestro)
 * [react-native-masonry-list: The Masonry List implementation which has similar implementation as the `FlatList` in React Native](https://github.com/hyochan/react-native-masonry-list)
 * [react-native-sqlite-storage: Full featured SQLite3 Native Plugin for React Native (Android and iOS)](https://github.com/andpor/react-native-sqlite-storage)
