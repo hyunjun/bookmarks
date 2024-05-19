@@ -145,6 +145,13 @@ Programming
 * [Resilient functional service design • Uwe Friedrichsen • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=jF7dd2Nytl8)
 * [Trade-offs and Costs - Software Engineering at Google](https://abseil.io/resources/swe-book/html/ch01.html#tradeoffs_and_costs)
 * [The actual design - Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#the-actual-design)
+* [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+  * Google에서는 소프트웨어 설계를 정의하는 디자인 문서를 비공식적으로 사용
+  * 비공식 문서이므로 엄격한 가이드라인이 있지 않고 프로젝트에 가장 적합한 형식을 따르게 하고 있지만 여러 문서를 통해 유용한 구조가 자리 잡음
+  * 컨텍스트, 목표/비목표, 실제 디자인, 다이어그램, 제약 조건, 대안, 우려 사항 등을 설명, 문서는 바쁜 사람이 읽을 수 있을 정도로 짧아야 함
+  * 디자인 문서를 작성하는 것도 비용이니 해결책이 모호한지 여부에 따라 작성할지 말지를 결정 가능
+    * 의사 결정의 설명 없이, 구현에 대한 설명만 있다면 문서를 작성하느니 프로그램을 작성하는 것이 나은 생각
+  * 이 디자인 문서는 빠른 반복을 통해서 발전시킨 뒤 여러 리뷰를 거치고 구현하고 이후 유지 관리하며 시간이 지나 다시 학습에 사용하는 생명주기
 * [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
