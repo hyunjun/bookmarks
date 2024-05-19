@@ -1250,6 +1250,7 @@ App
 * [맥에서 CapsLock 한영 전환이 제대로 안 될 때가 많아서 대소문자 전환 기능을 끔 | 웹으로 말하기](https://mytory.net/archives/14755)
 * [화면 고장난 💻맥북 수명 연장하기. 맥북 고장에 대처하는 새로운 마음가짐 | by Jung Kim | Feb, 2024 | Medium](https://medium.com/@jungkim/%ED%99%94%EB%A9%B4-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EB%A7%A5%EB%B6%81-%EC%88%98%EB%AA%85-%EC%97%B0%EC%9E%A5%ED%95%98%EA%B8%B0-5e029f20ae5a)
 * [How to clear system data - Deep clean your Mac - YouTube](https://www.youtube.com/watch?v=qtoXAQm1yqI)
+* [10 AWESOME MacBook tips I bet you didn’t know! - YouTube](https://www.youtube.com/watch?v=Hb7bAkgDxHE)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -1350,6 +1351,7 @@ App
   * GUI Database Client Sequel Pro, TablePlus
   * Etc Medis, NameChanger, Sloth, Hex Fiend
 * [개발자 생산성 높여주는 무료 맥 앱 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2421/)
+* [14 UNIQUE Mac Apps You Can’t Live Without! - YouTube](https://www.youtube.com/watch?v=oFeSRI8TcwI)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1413,6 +1415,7 @@ App
   * [네이버 카페 검색용 알프레드 워크플로우 v2 - 코드쓰는사람](https://taegon.kim/archives/10419)
   * [원클릭으로 Zoom 미팅에 입장하기 for MacOS. 코로나 이후 많은 미팅이 온라인에서 이뤄진다. 주로 Google… | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%EC%9B%90%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-zoom-%EB%AF%B8%ED%8C%85%EC%97%90-%EC%9E%85%EC%9E%A5%ED%95%98%EA%B8%B0-for-macos-38f18c69b80c)
 * [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+* [Amie](https://amie.so/?via=cole) calendar
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
@@ -2067,6 +2070,11 @@ App
 * [Zrythm - Digital Audio Workstation](https://www.zrythm.org/en/index.html)
 
 # Note
+* [The 8 Best Visual Note Apps - Linked Notes meet Mindmaps - YouTube](https://www.youtube.com/watch?v=TEg0J6FKa5A)
+* [AI | AFFiNE - All In One KnowledgeOS](https://affine.pro/ai)
+  * [AFFiNE AI: Notion meets Infinite Canvas! - YouTube](https://www.youtube.com/watch?v=om6jgd30MBs)
+* anytype [The Everything App](https://anytype.io/)
+  * [Notion Vs Obsidian Vs Anytype - Why I Use ALL of them in 2024 (Complete Review) - YouTube](https://www.youtube.com/watch?v=MGuJMASyDUc)
 * [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com](http://dddraft.com/)
