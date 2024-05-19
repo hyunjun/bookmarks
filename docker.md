@@ -991,6 +991,10 @@ Docker
 * [컨테이너 이미지 용량 줄이기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/11/08/container-imagesize-diet/)
 * [Hacking Docker Filesystems. Containers are a modern application… | by Carlos A. | Medium](https://medium.com/@caralla76/hacking-docker-filesystems-b55690564969)
   * [Building Docker Images: A Deep Dive into the Dockerfile](https://www.linkedin.com/feed/update/urn:li:activity:7029841447373742081/)
+* [New Dockerfile capabilities in v1.7.0 | by Tõnis Tiigi | Apr, 2024 | Medium](https://medium.com/@tonistiigi/new-dockerfile-capabilities-in-v1-7-0-be6873650741)
+  * Dockerfile 상단에 `#syntax=docker/dockerfile:1.7`이나 `#syntax=docker/dockerfile:1.7.0-labs`를 지정하면 사용할 수 있는 1.7.0의 새로운 기능 설명
+  * variable 확장 기능 개선, `${variable#pattern}`, `${variable%pattern}`, `${variable/pattern/replacement}` 변수 받을 때 패턴으로 걸러내거나 치환 가능
+  * `COPY`로 파일을 복사시 부모 디렉터리 구조를 유지할지 선택하거나 `.dockerignore` 파일을 쓰지 않고 `COPY`에서 특정 패턴 제외하고 복사 기능 추가
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -2227,6 +2231,10 @@ Docker
 * [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
 * [kubectl-debug: Debug your pod by a new container with every troubleshooting tools pre-installed](https://github.com/aylei/kubectl-debug)
   * [Shell 없는 Container, Live 환경에서 Debugging해보기! | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/09/15/kubectl-debug-on-bottlerocket.html) Bottlerocket
+  * [How to Work With the Kubectl Debug Command | HackerNoon](https://hackernoon.com/how-to-work-with-the-kubectl-debug-command)
+    * Kubernetes 1.18부터 도입된 kubectl debug 명령어로 노드나 Pod을 디버깅하는 방법 설명
+    * 클러스터에서 문제가 있는 경우 로컬에서 환경을 재현하기가 쉽지 않은데
+      * debug 명령어를 사용하면 기존 프로덕션 환경과 별개로 Pod이나 컨테이너를 생성해서 확인할 수 있기 때문에 문제 추적시 유용
 * kubectl exec [Using kubectl exec | Shell Commands & Examples](https://www.containiq.com/post/using-kubectl-exec-shell-commands-examples)
 * [kubectl-gpt: Kubectl-GPT is a kubectl plugin to generate `kubectl` commands from natural language input by using GPT model](https://github.com/devinjeon/kubectl-gpt)
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
