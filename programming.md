@@ -7581,6 +7581,10 @@ Programming
 * [How Technical Problems Cause Organizational Friction • Adam Tornhill • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=jCmTry1T90I)
   * [VidiGo How Technical Problems Cause Organizational Fricti](https://vidigo.ai/share/summary/56a970b54fd8)
   * [기술적 문제가 조직 마찰을 유발하는 방법 - Adam Tornhill - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/570969)
+* [개발조직은 왜 ‘돈 먹는 하마’로 보일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2587/)
+  * [박성철 - 아마도 이 문제로 고통당하지 않는 개발자는 없을 것이다. 본인이 인식하든 인식하지 못하든 말이다. 사실... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0381cr9BitXGEWEmexuvEUeqqmHAWgS9CvwZhvD8cvWti1nxbi5wbsiKED5tAUYP1jl)
+    * 소프트웨어 개발은 인력 집약적이면서 동시에 전문적
+    * 소프트웨어 개발의 본질적 복잡성과 우발적 복잡성
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
