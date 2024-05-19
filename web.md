@@ -925,6 +925,11 @@ Web
   * 이제 최신 CSS 기능이 대부분의 브라우저에서 지원되면서 Sass나 Less 없이도 최신 CSS를 작성할 수 있지만 컴파일러를 사용해서 사용하지 않는 스타일을 줄이고 고유한 파일명을 생성해서 캐싱 가능
   * 동적인 화면을 위해서는 CSS를 스트리밍해야 하는데 이를 위해서 CSS 모듈, Tailwind CSS, StyleX를 사용 가능
 * [마진 병합 기능 이해하기 – 형우의 웹개발](https://mytory.net/archives/16246)
+* [Introducing the CSS anchor positioning API  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/anchor-positioning-api?hl=en)
+  * Chrome에 특정 요소를 기준으로 포지셔닝 할 수 있는 CSS anchor positioning API 추가
+  * 특정 HTML 요소에 CSS로 `anchor-name: --NAME`처럼 설정하면 앵커 설정 가능
+  * 다른 요소에서 `position-anchor:`로 앵커의 이름을 지정하면 `anchor()` 함수로 특정 요소를 기준으로 요소의 위치 지정 가능
+  * 이 API를 사용하면 툴팁 등 특정 요소를 기반으로 요소의 위치를 아주 쉽게 잡는 게 가능
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -1848,6 +1853,12 @@ Web
 * [Budgeting JS for your Users by George Iliadis - YouTube](https://www.youtube.com/watch?v=GjKVsOAbNT8)
 * [성능 테스트의 중요성과 목적 그리고 효과](https://f-lab.kr/blog/importance%20of%20performance%20Testing)
 * [‘이거 어디까지 올라가는 거예요?’ — 성능 테스트 환경 구축기 | by Ian | Mar, 2024 | 레몬베이스 팀블로그 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-2f0dfd5ce9c3)
+  * 성과관리 서비스를 만드는 레몬베이스에서 서비스가 커짐에 따라 서비스의 성능을 확인하기 위해 성능 테스트 환경을 구축한 과정
+  * 여러 테스트 중 Stress Test가 가장 필요하다고 결정
+    * Locust와 k6 중에서 k6 선택
+    * GitHub Actions를 사용해서 테스트 환경 작성
+    * Grafana 대시보드로 결과를 확인할 수 있게 연동
+    * 성능 테스트 후 병목이 되는 부분을 확인하고 이 부분까지 개선해서 성능 향상
 * [Wonderwall 은 부하 테스트를 어떻게 진행했을까? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/wonderwall-perform-load-testing/)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io)
   * Node.js 기반, 스트레스 테스트, 성능 테스트
