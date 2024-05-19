@@ -357,6 +357,10 @@ Monitoring
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 Node/POD 리소스 사용량과 로그 모니터링 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-node-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%82%AC%EC%9A%A9%EB%9F%89%EA%B3%BC-%EB%A1%9C%EA%B7%B8-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-96f5c80cfde3)
   * [Best practice, k8s Node/POD resource usage and log monitoring system for multi-k8s cluster environment using Open source | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/best-practice-k8s-node-pod-resource-usage-and-log-monitoring-system-for-multi-k8s-cluster-3f2e5c2c401a)
   * [CLYMENE-PROJECT 시연 영상 - YouTube](https://www.youtube.com/watch?v=TqFXVlbBOGQ)
+* [honeycomb-opentelemetry-web: Honeycomb's Distro for OpenTelemetry in the browser](https://github.com/honeycombio/honeycomb-opentelemetry-web)
+  * [Introducing Honeycomb for Frontend Observability | Honeycomb](https://www.honeycomb.io/blog/introducing-honeycomb-for-frontend-observability)
+    * 옵저버빌리티 서비스를 제공하는 Honeycob에서 프론트엔드를 위한 옵저버빌리티의 얼리 엑세스 프로그램 발표
+    * Honeycomb OpenTelemetry Web를 사용하면 프론트엔드의 Web Vitals 데이터를 수집할 수 있고 데이터만 수집하기 때문에 비싼 RUM보다 많은 관점 제공 가능
 * [OpenTelemetry](https://opentelemetry.io/)
   * [The Future of Observability with OpenTelemetry](https://go.lightstep.com/rs/260-KGM-472/images/oreilly-opentelemetry-lightstep.pdf)
   * [Observability Powered by SQL: Understand Your Systems Like Never Before With OpenTelemetry Traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
