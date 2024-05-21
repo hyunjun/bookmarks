@@ -2244,9 +2244,18 @@ App
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
-  * Canvas [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
+  * Canvas
+    * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
+  * [JSON Canvas — An open file format for infinite canvas data](https://jsoncanvas.org/)
+    * [NEW 🎉 Obsidian JSON Canvas (Game Changer) - YouTube](https://www.youtube.com/watch?v=c3NSxQmKCss)
+    * [Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian](https://obsidian.md/blog/json-canvas/)
+    * [Flowchart Fun — Fast, Free Online Flowchart Maker](https://flowchart.fun/)
+    * [hi-canvas.marknoteapp.com](https://hi-canvas.marknoteapp.com/)
+    * [Kinopio](https://kinopio.club/hello-kinopio-RAwG-frHfebPi9Dw947OK)
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
+  * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
+  * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
