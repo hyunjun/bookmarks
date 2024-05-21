@@ -1410,6 +1410,9 @@ Business
 * [IT 부서 성과를 이끄는 5가지 평가 지표 - CIO Korea](https://www.ciokorea.com/news/325541)
 * [The “errors” that mean you’re doing it right](https://longform.asmartbear.com/good-problems-to-have/)
 * [**Getting an Engineering Executive Job - by Gergely Orosz**](https://newsletter.pragmaticengineer.com/p/getting-an-engineering-executive) "The Engineering Executive's Primer" 저자 이야기와 책 내용 소개
+* [CTO Summit Panel • Sarah Taraporewalla, Dave Coombes, Jenny Johnson & Josh Graham • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=Wmkm_FfRWlU)
+  * [VidiGo CTO Summit Panel • Sarah Taraporewalla, Dave Coomb](https://vidigo.ai/share/summary/2d216ad7692f)
+  * [CTO 서밋 패널 - 사라 타라포레왈라, 데이브 쿰즈, 제니 존슨, 조쉬 그레이엄 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/660619)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
