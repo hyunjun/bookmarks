@@ -889,6 +889,9 @@ NLP
     * [리뷰를 재료로 GPT가 뚝딱뚝딱 만들어낸 메뉴추천, 메뉴뚝딱AI | 우아한형제들 기술블로그](https://techblog.woowahan.com/16877/)
   * [데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy) NL2SQL, masked data prompting
   * [Improvements to data analysis in ChatGPT | OpenAI](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+  * [ChatGPT from Scratch: How to Train an Enterprise AI Assistant • Phil Winder • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=N53Gsz0Gm4c)
+    * [VidiGo ChatGPT from Scratch: How to Train an Enterprise A](https://vidigo.ai/share/summary/1286b49eff31)
+    * [처음부터 ChatGPT: 엔터프라이즈 AI 어시스턴트를 교육하는 방법 - 필 윈더 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/661077)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
