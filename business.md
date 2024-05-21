@@ -982,6 +982,7 @@ Business
 * [병아리 개발자의 첫 웹뷰 개발기: 파일럿 프로젝트 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10774/)
 * [인포그랩 DevOps 엔지니어는 어떻게 온보딩할까 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/23/infograb-devops-engineer/)
 * [How To Onboard - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-onboard)
+* [온보딩 후, 팀원들이 떠나버렸다](https://eopla.net/magazines/16349)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
