@@ -746,6 +746,8 @@ Linux
 * `ln`
   * [(리눅스 업스킬 도전 #19) 아이노드와 심볼릭 링크](https://jhrogue.blogspot.com/2020/10/19.html)
   * [(리눅스 업스킬 도전 #21-c) busybox에서 심볼릭 링크를 걸어서 실행할 기능을 알아내는 방법](https://jhrogue.blogspot.com/2020/10/21-c-busybox.html)
+  * [한 방에 개발 환경 설정하기: Junction - YouTube](https://www.youtube.com/watch?v=uj478rwayAU) windows는 junction으로 부름
+    * [플러그인 버전관리 하면서 개발할 때 심볼릭 활용](https://techartnomad.tistory.com/71)
 * locate
 * [ls\* Commands Are Even More Useful Than You May Have Thought - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/linux-ls-commands-examples/)
   * `lsscsi lsblk lsb_release lsusb lscpu lspci lshw lshw-gtk ls lsof lsattr lshal lsinitramfs lsmod lspcmcia lswm lsdvd lslk lsmbox lscgroup lsdiff lspst lsdnssec lsmem lsdev lslocks lsar lslogins lsgpu lstopo lsipc`
