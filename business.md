@@ -3075,6 +3075,8 @@ Business
     * 예컨데 200여개의 성공적 피치덱을 분석해보니, 공통된 순서가 있었다. 투자자 입장에서 생각하는 간단한 예는, 투자자에게 익숙한 이 순서를 지키려는 노력 아닐까?
     * 투자자가 가장 중요하게 생각하는 섹션은 뭘까? 답은 Financial, Team, Competition
     * 답은 상대편의 시각, 고객이건 투자자건 + 핵심 부분은 자유롭고 창의적으로/그 외의 부분은 routine하게 널리 쓰이는 형식에 맞춰서
+* [VCs aren't your friends](https://openvc.app/blog/vcs-arent-your-friends)
+  * [VC는 당신의 친구가 아니에요 | GeekNews](https://news.hada.io/topic?id=14904)
 * [주종익 한국외국어대학교 외래 교수, Author at 벤처스퀘어](https://www.venturesquare.net/author/cichoo)
   * [5 Factors](http://www.venturesquare.net/578774)
   * [Business Model](http://www.venturesquare.net/579857)
@@ -3463,6 +3465,7 @@ Business
 * [한 발짝만 앞서기](https://www.thestartupbible.com/2024/03/one-step-ahead-is-good-two-steps-ahead-is-not.html) 마치 적정 기술과 비슷한 이야기 overengineering으로 인한 낭비처럼 BM도 너무 앞서나가면 안된다는 말
 * [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/)
   * [스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/topic?id=14789)
+  * [GN#254 스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/weekly/202421)
 * [스타트업에서의 위험한 버튼들](https://eopla.net/magazines/16245) 1. 기획자 (서비스기획, PM, PO 포함) 2. 디자이너 3. 개발자
 
 # Sillicon Valley
