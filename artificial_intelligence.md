@@ -327,6 +327,8 @@ Artificial Intelligence
 * [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
+* [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
+  * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
@@ -579,6 +581,7 @@ Artificial Intelligence
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
 
 # Video
+* [AI로 피팅모델을 '생성'하고 실제 의류를 합성합니다 | 개발자 브이로그 - YouTube](https://www.youtube.com/watch?v=bRxymNcxjNI)
 * [VIGGLE](https://viggle.ai/)
   * [AI로 사진이 춤을 하게 할 수 있습니다 | Viggle AI를 활용하여 이미지에 모션을 부여하는 방법 - YouTube](https://www.youtube.com/watch?v=lzbVtZwkU3w)
 
