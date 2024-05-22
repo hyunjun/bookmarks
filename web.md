@@ -2320,6 +2320,7 @@ Web
       * Rust와 JavaScript 간 비동기 상호작용은 *wasm-bindgen* 라이브러리로 용이, Rust의 Futures와 JavaScript의 promises를 연결하는 데 도움
       * JS에서 사용자 코드 실행 결과를 받을 때 결과의 크기를 미리 알 수 없어 별도 *콜백 함수*를 이용해 컴파일러로 결과 전송하는 작업이 복잡
       * 웹어셈블리를 사용하여 *웹 페이지 용량을 감소*, *사용하지 않는 서브시스템 제거* 등 아키텍처적 이점, JavaScript를 통해 기능을 확장하는 중요성 강조
+* [Understand the Next Phase of Web Development - Steve Sanderson - NDC London 2024 - YouTube](https://www.youtube.com/watch?v=p9taQkF24Fs)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
