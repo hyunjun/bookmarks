@@ -1377,6 +1377,8 @@ SQL
       * PostgreSQL은 ORM을 사용하여 백엔드 인프라를 더 간단하게 유지하고 이해하기 쉽게 만들거나 기업급 신뢰성 보장
       * 다른 데이터베이스나 검색 클러스터 대신 PostgreSQL로 긴 여정을 함께하며 프로젝트에 장기적인 혜택을 창출 가능
 * [EC2에 PostgreSQL 설치 🐘 - YouTube](https://www.youtube.com/watch?v=0wfZJyCcljk)
+* [Making a Postgres query 1,000 times faster - Mattermost](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
+  * [Postgres 쿼리 1,000배 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=14930)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1448,6 +1450,9 @@ SQL
   * [Announcing pg_stat_monitor Tech Preview: Get Better Insights Into Query Performance in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/14/announcing-pg_stat_monitor-tech-preview-get-better-insights-into-query-performance-in-postgresql/)
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
+* [pg_timeseries: Simple and focused time-series tables for PostgreSQL, from Tembo](https://github.com/tembo-io/pg_timeseries/tree/main?tab=readme-ov-file#roadmap)
+  * [Introducing pg_timeseries: Open-source time-series extension for PostgreSQL | Tembo](https://tembo.io/blog/pg-timeseries)
+    * [pg_timeseries: PostgreSQL용 오픈소스 시계열 확장 기능 | GeekNews](https://news.hada.io/topic?id=14927)
 * [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
   * [PolarDB for PostgreSQL | GeekNews](https://news.hada.io/topic?id=4362)
 * [postgres: Unmodified Postgres with some useful plugins](https://github.com/supabase/postgres)
