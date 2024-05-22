@@ -829,6 +829,8 @@ Apache
 * [이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할ㅣ컨플루언트 김현수 상무 - YouTube](https://www.youtube.com/watch?v=3DKYdq6tO-8)
 * [일 3,000만 건의 네이버페이 주문 메시지를 처리하는 Kafka 시스템의 무중단 전환 사례](https://d2.naver.com/helloworld/9581727) Transactional outbox, Polling publisher, Transaction log tailing, strangler
 * [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF · allegro.tech](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html) filesystem을 ext4 -> xfs로 변경 이득을 얻음
+* [java 카프카는 왜 빠를까? | frogred8](https://frogred8.github.io/docs/034_why_is_kafka_fast/)
+  * [kafka는 왜 빠를까? | GeekNews](https://news.hada.io/topic?id=14890)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
