@@ -2563,6 +2563,8 @@ NLP
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
 * [LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss](https://github.com/microsoft/LLMLingua)
 * [LLM-narratives](https://github.com/jwkangmarco/LLM-narratives)
+* [LLMServingPerfEvaluator](https://github.com/friendliai/LLMServingPerfEvaluator)
+  * [Measuring LLM Serving Performance with LLMServingPerfEvaluator](https://friendli.ai/blog/llm-serving-perf-evaluator/)
 * [llm-starter-pack: 🤖 Get started with LLMs on your kind cluster, today!](https://github.com/cncf/llm-starter-pack)
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
