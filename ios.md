@@ -804,6 +804,8 @@ iOS
 * [왕초보를 위한 iOS 앱개발 Lesson 6 - yagom's blog](https://blog.yagom.net/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C-lesson-6/)
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [✅ 3시간 만에 iOS 앱 개발 정복하기 🔥 Swift5 언어 기초 - YouTube](https://www.youtube.com/watch?v=qWA04z_4Okk)
+* [Welcome to Pathways](https://developer.apple.com/pathways/)
+  * [Pathways, 애플 플랫폼 개발자를 위한 첫걸음 | GeekNews](https://news.hada.io/topic?id=14939)
 
 # Xcode
 * [How to Download iOS Simulator (Xcode) in Command Line and Install it](https://gist.github.com/NicholasTD07/3ffbaee9973ae06b5a12)
