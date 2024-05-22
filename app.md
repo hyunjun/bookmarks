@@ -2087,6 +2087,8 @@ App
 * [Flint](https://www.flint.so/)
   * [저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. | GeekNews](https://news.hada.io/topic?id=6362)
 * [fsnotes: Notes manager for macOS/iOS](https://github.com/glushchenko/fsnotes)
+* [Heptabase](https://heptabase.com/)
+  * [Heptabase: Note-Taking & Mind-Mapping in One App! - YouTube](https://www.youtube.com/watch?v=yNEs0uwnqOs)
 * [Heynote](https://heynote.com/)
   * [Heynote - 개발자를 위한 전용 연습장(Scratchpad) | GeekNews](https://news.hada.io/topic?id=12552)
 * [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
