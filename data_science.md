@@ -620,6 +620,8 @@ Data Science
   * [Psyberg: Automated end to end catch up | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/3-psyberg-automated-end-to-end-catch-up-260fbe366fe2)
   * [Streamlining Membership Data Engineering at Netflix with Psyberg | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1)
   * [Diving Deeper into Psyberg: Stateless vs Stateful Data Processing | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb)
+* [quary: Open-source BI for engineers](https://github.com/quarylabs/quary)
+  * [Quary - 엔지니어를 위한 오픈소스 BI | GeekNews](https://news.hada.io/topic?id=14953)
 * Velox [Hello from Velox | Velox](https://velox-lib.io/)
   * [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
     * Meta에서 데이터 관리 시스템을 가속화하고 간소화하는 통합 실행 엔진 Velox를 오픈소스로 공개
