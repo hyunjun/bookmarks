@@ -224,6 +224,7 @@ Elixir
   * [관계를 여러 번 타는 건 ecto가 알아서 하고 우리는 through 옵션으로 한 번에 접근하자](http://ohyecloudy.com/pnotes/archives/elixirlang-ecto-has-many-has-one-through-option/)
   * [Elixir and Ecto with SQLite3](https://juanpabloaj.com/2023/08/19/elixir-and-sqlite3/)
   * [Repo.transact/2 (The Case Against Ecto.Multi) |> Tom Konidas](https://tomkonidas.com/repo-transact/)
+  * [Elixir Streams |> Richer domain types with Ecto custom types](https://www.elixirstreams.com/tips/richer-domain-types-with-ecto-custom-types)
   * [ecto_command](https://github.com/silvadanilo/ecto_command)
   * EctoDbg [README — EctoDbg v0.2.0](https://hexdocs.pm/ecto_dbg/)
   * Ecto.dump [Deploying after mix ecto.dump · Fly](https://fly.io/phoenix-files/deploying-after-a-mix-ecto-dump/)
