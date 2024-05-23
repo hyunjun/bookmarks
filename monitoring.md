@@ -389,6 +389,8 @@ Monitoring
   * [Observability 101 with Spring and Micrometer by Nele Uhlemann - YouTube](https://www.youtube.com/watch?v=Ssje93u2GWM)
   * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
     * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
+* [qryn: Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic alternative! WASM powered ⭐️ Star to Support](https://github.com/metrico/qryn)
+  * [Kubernetes Korea Group | 안녕하세요, 오늘은 옵저버빌리티 관련 오픈소스 하나를 소개 드립니다 | Facebook](https://www.facebook.com/groups/k8skr/posts/3855914668023511/)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
