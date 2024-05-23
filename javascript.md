@@ -2232,6 +2232,9 @@ Javascript
     * 웹사이트는 웹 프레임워크인 Fresh를 사용해서 아일랜드 렌더링으로 웹사이트 속도 개선
     * TTFB를 줄이기 위해 네트워크 왕복은 최대한 줄였으며 가능한 한 <form>을 사용해서 성능과 접근성 확보
     * 모듈 해석시 ts, js, tsx 등 다양한 파일 확장자를 검사해야 하는데 이러한 프로빙은 네트워크에서는 너무 느리기 때문에 프로빙이 필요 없도록 작성
+  * [Ryan Dahl introduces JSR at DevWorld 2024 - YouTube](https://www.youtube.com/watch?v=MFCn4ce5dVc)
+    * [VidiGo Ryan Dahl introduces JSR at DevWorld 2024.mp4](https://vidigo.ai/share/summary/ebb8ca1c149b)
+    * [데브월드 2024에서 라이언 달이 JSR을 소개합니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/672024)
 * [jszip: Create, read and edit .zip files with Javascript](https://github.com/Stuk/jszip)
   * [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
   * [JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리 | GeekNews](https://news.hada.io/topic?id=4815)
