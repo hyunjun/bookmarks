@@ -2124,6 +2124,7 @@ NLP
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
 * [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
+* [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
@@ -2141,6 +2142,9 @@ NLP
     * [Anthropic, LLM의 내부를 이해하는데 있어 상당한 진전을 보임 | GeekNews](https://news.hada.io/topic?id=14942)
   * [Prompt library](https://docs.anthropic.com/claude/prompt-library)
     * [Anthropic의 프롬프트 라이브러리 | GeekNews](https://news.hada.io/topic?id=13912)
+* [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
+  * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+  * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
 * [dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
 * [data-modori](https://github.com/teamreboott/data-modori/)
 * [DB-GPT](http://docs.dbgpt.site/docs/overview)
