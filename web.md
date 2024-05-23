@@ -1630,6 +1630,7 @@ Web
   * [11단계 : Streamlit Web with GCP - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdP0sPZBL4yu0FcvMEXcQmfb)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
+  * [toy_filemover_streamlit: Sometimes the process of editing MP3 tags is the result of an old man's work](https://github.com/halfenif/toy_filemover_streamlit)
 * [Streamsync | Streamsync](https://www.streamsync.cloud/)
   * [GitHub - streamsync-cloud/streamsync: No-code in the front, Python in the back. An open-source framework for creating data apps](https://github.com/streamsync-cloud/streamsync)
   * [No-code in the front, Python in the back. Streamsync in 1 minute. - YouTube](https://www.youtube.com/watch?v=XBAPBy_zf8s)
@@ -1682,6 +1683,7 @@ Web
 * [DDD 입문 @ZUM](https://wckhg89.github.io/archivers/ddd)
 * [REST API 제대로 알고 사용하기](http://meetup.toast.com/posts/92)
 * [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](http://spoqa.github.io/2012/02/27/rest-introduction.html)
+* [HTTP API 디자인 - URI편](https://jojoldu.tistory.com/783)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
