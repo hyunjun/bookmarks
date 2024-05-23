@@ -1101,6 +1101,7 @@ NLP
   * [AGI KR | 안녕하세요, LLM 답변의 신뢰도를 향상시킬 수 있는 Batch Calibration이라는 방법론을 접하게 되어 소개해드리고자 합... | Facebook](https://www.facebook.com/groups/agikr/permalink/2271661406508238)
 * [AGI KR | 2024.04.12 AI쪽 알게된 것들 간헐적 공유 | Facebook](https://www.facebook.com/groups/agikr/posts/2274626356211743/)
   * Google Cloud Next 24, Gemini 1.5 Pro 및 Gemma, Closed LLM 성능을 넘보는 오픈 LLM, Andrej Karpathy의 신규 오픈소스 llm.c, Text Generation Inference(TGI) 라이선스 변경, MoJo 🔥 표준 라이브러리의 오픈소스화
+* ["최적의 프롬프트 단어 수는 21개"...구글, 프롬프트 비결 담은 가이드북 발간 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159796)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
@@ -2136,6 +2137,8 @@ NLP
   * [Claude 3.0: Anthropic의 AI 혁명, 새로운 지평을 열다 - 모두의연구소](https://modulabs.co.kr/blog/anthropic-claude-3-0/)
   * [⚡️직접 경험한 클로드 3 지금 당장 사용해야하는 이유 - 클로드 특강 #claude - YouTube](https://www.youtube.com/watch?v=suC3irqOWXA)
   * [⚡️직접 경험한 클로드 3 지금 당장 사용해본 성공사례 - 클로드 특강 #claude - YouTube](https://www.youtube.com/watch?v=njMjq1okwTw)
+  * [Mapping the Mind of a Large Language Model \ Anthropic](https://www.anthropic.com/research/mapping-mind-language-model)
+    * [Anthropic, LLM의 내부를 이해하는데 있어 상당한 진전을 보임 | GeekNews](https://news.hada.io/topic?id=14942)
   * [Prompt library](https://docs.anthropic.com/claude/prompt-library)
     * [Anthropic의 프롬프트 라이브러리 | GeekNews](https://news.hada.io/topic?id=13912)
 * [dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)
@@ -2838,6 +2841,7 @@ NLP
   * [공짜로 LLM모델 이용하는 방법 - YouTube](https://www.youtube.com/watch?v=xduuvEuV3-I)
     * [공짜로LLM모델사용하기.ipynb - Colaboratory](https://colab.research.google.com/drive/1pgsCLrwt0M1KjOsXiLU0-LgVChqt7LPj?usp=sharing)
   * [허깅페이스 세미나 자료 공유](https://www.linkedin.com/posts/jihyun-kim-19a5b2223_huggingface-ugcPost-7186490556519198720-2nVC/)
+  * [Python Huggingface에 데이터셋 업로드 - 미완성의신](https://unfinishedgod.netlify.app/2024/05/19/python-huggingface/)
   * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
     * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
     * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
