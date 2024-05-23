@@ -186,6 +186,9 @@ Azure
 * [Azure AI Studio - Part 1](https://zigispace.net/1244)
 * [Azure AI Studio - Part 2](https://zigispace.net/1245)
 * [Azure AI Studio - Part 3 (prompt flow)](https://zigispace.net/1246)
+* [Code-First LLMOps from prototype to production with GenAI tools | BRK110 - YouTube](https://www.youtube.com/watch?v=gvqsPhd27LE)
+  * [VidiGo Code-First LLMOps from prototype to production wit](https://vidigo.ai/share/summary/e60fdb11cc1e)
+  * [GenAI 도구를 사용하여 프로토타입에서 생산까지 코드 우선 LLMOps | BRK110 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/671906)
 * [LLMOps with Azure Prompt Flow & Github - YouTube](https://www.youtube.com/watch?v=j0YJ3BZjrFs)
   * [VidiGo LLMOps with Azure Prompt Flow & Github](https://vidigo.ai//chatbot/summary/EQqtdTn1ZdN6Z4y)
     * 1. 인류의 난제 해결을 위한 집중
