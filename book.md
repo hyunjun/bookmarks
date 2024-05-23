@@ -425,6 +425,9 @@ Book
 * [만화로 보는 수의사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B4261830338)
   * ★★★☆☆ 2024.05.18
   * 우당 문528-기64ㅅ
+* (NOT COMPLETED) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
+  * ★★★☆☆ 2024.05.23
+  * 우당 문531-힐91ㄷ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -577,8 +580,6 @@ Book
 * (NOT YET) [거인의 노트](https://www.youtube.com/watch?v=SaHVcQO9Y40)
   * 한라 325.211-김68ㄱ 탐라 문325.211-김69ㄱ 우당 문325.211-김69ㄱ 제주 325.211-김69거
   * [이렇게 메모하면 책도 통째로 기억할 수 있다 f.김익한 『거인의 노트』 저자 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/345515?sId=SaHVcQO9Y40)
-* (NOT YET) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
-  * 우당 문531-힐91ㄷ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
