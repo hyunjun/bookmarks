@@ -2316,6 +2316,7 @@ Deep Learning
   * VGGNet, GoogLeNet, ResNet 등과 같은 매우 많은 계층을 가진 Deep Net 들이 뛰어난 이유를
   * 기존의 각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view" 를 뒤집고
   * 각각의 블록 또는 단계마다 단계적인 feature의 변화가 반복적으로 일어난다는 "unrolled iterative estimation" 으로 설명
+* [ICLR 2024 우수 논문 수상작 공개! - 모두의연구소](https://modulabs.co.kr/blog/iclr-2024-outstanding-award/)
 * [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
 * [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
   * SARM이라는 layer wise training 기법
@@ -2838,6 +2839,7 @@ CVPR2016)
   * [clip-as-service: 🏄 Embed/reason/rank images and sentences with CLIP models](https://github.com/jina-ai/clip-as-service)
     * [CLIP-as-a-Service: Apples and Oranges - Colaboratory](https://colab.research.google.com/github/jina-ai/workshops/blob/main/notebooks/clip-as-service/CLIP_as_a_Service_Apples_and_Oranges.ipynb)
   * [clipping-CLIP-to-GAN](https://github.com/cloneofsimo/clipping-CLIP-to-GAN)
+* [ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface](https://github.com/comfyanonymous/ComfyUI)
 * [deforum](https://deforum.github.io/)
   * [AIFactory](https://aifactory.space/forum/discussion/30)
 * [Disco Diffusion v5.61 Now with portrait_generator_v001 - Colaboratory](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
