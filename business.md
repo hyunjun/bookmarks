@@ -122,6 +122,7 @@ Business
 * [야놀자의 나스닥행, 가능할까? f. 이재용 회계사 22.07.26 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=FLWX2DhH3tE) OTA
 * [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
+* [스타트업이 의사결정 잘할수 있는법 – InnoVibeCrafter](https://innovibecrafter.com/2024/05/21/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%9d%b4-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95-%ec%9e%98%ed%95%a0%ec%88%98-%ec%9e%88%eb%8a%94%eb%b2%95/) 공헌이익 contribution margin
 * [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
   * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
 * [왓차와 오늘의집 비즈니스의 결정적인 차이점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=7LNhvZblRMc)
@@ -3654,6 +3655,8 @@ Business
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향) | Univdev](https://univdev.page/posts/focuskeeper-renewal/)
+* [UI Density || Matthew Ström, designer-leader](https://matthewstrom.com/writing/ui-density/)
+  * [UI 밀도(Density)의 의미와 디자인 방법 | GeekNews](https://news.hada.io/topic?id=14932)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
