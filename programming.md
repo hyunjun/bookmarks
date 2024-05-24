@@ -1879,6 +1879,7 @@ Programming
   * [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
   * [LinkedIn: Oracle Database → Memcached → Expresso NoSQL Database(자체 개발) → Couchbase](https://www.linkedin.com/posts/danielylee_%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%A0-linkedin%EC%97%90%EC%84%9C%EB%8A%94-%EC%95%BD-10%EC%96%B5-%EB%AA%85%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4-activity-7165878143772209152-YLgw/)
   * [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
+  * [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -4200,6 +4201,7 @@ Programming
   * [LINE DEVELOPER DAY 2020 개최 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2020-report/)
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
   * [LINE Developer Day 2021을 돌아보며 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2021-report/)
+  * [LINE 개발자를 위한 오프라인 밋업, Push&Pull](https://techblog.lycorp.co.jp/ko/offline-meetup-for-line-developers-push-and-pull)
 * Naver
   * [(예비) 프론트엔드 개발자의 DEVIEW2023 후기](https://velog.io/@shyuuuuni/%EC%98%88%EB%B9%84-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-DEVIEW2023-%ED%9B%84%EA%B8%B0)
   * [DEVIEW 2023 발표영상이 공개 되었습니다](https://d2.naver.com/news/7503274)
@@ -5826,6 +5828,7 @@ Programming
 * [SVG 진짜 정답인가? 그럼 PNG는?. 생산성과 효율성을 지향합니다. 근데 이제 퍼포먼스와 안정성을 곁들인 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/svg-%EC%A7%84%EC%A7%9C-%EC%A0%95%EB%8B%B5%EC%9D%B8%EA%B0%80-%EA%B7%B8%EB%9F%BC-png%EB%8A%94-e19d1c84aef9)
 * [고객에게 뚜렷한 경험을: 컬리의 후기 이미지 처리 기술 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly_review_image_detection/)
 * [HEIC 파일 포맷 지원을 통한 사용자 경험 향상 시키기. HEIC/HEIF 란? | by jpapa | 원티드랩 기술 블로그 | Apr, 2024 | Medium](https://medium.com/wantedjobs/heic-%ED%8C%8C%EC%9D%BC-%ED%8F%AC%EB%A7%B7-%EC%A7%80%EC%9B%90%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EA%B8%B0-aff166454c04)
+* [이미지를 읽으면 왜 깨진 문자열이 나오는 것일까? – 형우의 웹개발](https://mytory.net/archives/16347)
 * [agi-upscale: agi pic viewer](https://github.com/eviltrout/agi-upscale)
 * [AVIF는 웹 이미지의 미래다 | GeekNews](https://news.hada.io/topic?id=13927)
 * [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
@@ -7601,6 +7604,7 @@ Programming
   * [박성철 - 아마도 이 문제로 고통당하지 않는 개발자는 없을 것이다. 본인이 인식하든 인식하지 못하든 말이다. 사실... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0381cr9BitXGEWEmexuvEUeqqmHAWgS9CvwZhvD8cvWti1nxbi5wbsiKED5tAUYP1jl)
     * 소프트웨어 개발은 인력 집약적이면서 동시에 전문적
     * 소프트웨어 개발의 본질적 복잡성과 우발적 복잡성
+* [운송 관리 시스템(TMS)의 탄생부터 현장에서 사용하기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17466/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
@@ -8532,6 +8536,7 @@ Programming
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
 * [Calendar Versioning — CalVer](https://calver.org/)
 * [headver: SemVer compatible version specification that has {head}.{yearweek}.{build} system](https://github.com/line/headver)
+  * [HeadVer - 기민한 프로덕트 팀을 위한 새로운 버저닝 시스템](https://techblog.lycorp.co.jp/ko/headver-new-versioning-system-for-product-teams)
 * [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
   * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
   * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
