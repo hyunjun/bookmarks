@@ -2598,6 +2598,7 @@ NLP
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
     * [Mistral just released their new Mixtral 8x22B (176B) model](https://www.linkedin.com/posts/liorsinclair_mistral-just-released-their-new-mixtral-8x22b-ugcPost-7183828208096620545-rVZU/)
+  * [pinecone_rag.ipynb at main · mistralai/cookbook · GitHub](https://github.com/mistralai/cookbook/blob/main/pinecone_rag.ipynb)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
 * [MosaicML | Home](https://www.mosaicml.com/)
