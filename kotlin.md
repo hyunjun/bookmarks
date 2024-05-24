@@ -434,6 +434,7 @@
 * [코루틴 Job](https://brunch.co.kr/@mystoryg/190)
 * [코틀린 async](https://brunch.co.kr/@mystoryg/191)
 * [코루틴 API 살펴보기](https://www.kazuya.io/ee923f20-c508-4dbb-9b5e-7516c26089ae)
+* [Kotlin 코루틴으로 성능 개선 - Flow를 활용한 다중 요청 처리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/kotlin-flow/)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
