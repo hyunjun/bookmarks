@@ -195,6 +195,7 @@ Google Cloud Platform GCP
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
 * [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
+* [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
