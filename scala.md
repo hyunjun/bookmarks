@@ -401,6 +401,8 @@ Scala
 * [Crossing those hills](https://mhammons.hashnode.dev/crossing-those-hills)
 * [Two-phase consensus with functional Scala | by Jonas Chapuis | Mar, 2024 | Medium](https://jonas-chapuis.medium.com/two-phase-consensus-with-functional-scala-5dc29388ac5a)
 * [Kalix tutorial: Building invoice application - Scala](https://scalac.io/blog/kalix-tutorial-building-invoice-application/)
+* [Business4s · GitHub](https://github.com/business4s)
+  * [Announcing Business4s: a new value proposition for Scala | by Voytek Pituła | May, 2024 | Medium](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1182,6 +1184,7 @@ Scala
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=2EgN0t_vLy4)
     * [Composable concurrency scope of ZIO Semaphore - Bilal Fazlani](https://bilal-fazlani.com/blog/composable-concurrency-scope-of-zio-semaphore/)
     * [Tuning ZIO for high performance](https://blog.pierre-ricadat.com/tuning-zio-for-high-performance)
+    * [Uncovering the benefits and challenges of ZIO2 and Scala 3 at Wolt - Thomas Harper - YouTube](https://www.youtube.com/watch?v=U9Nd7ylr0Sg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1416,6 +1419,7 @@ Scala
     * [VidiGo Alexandru Nedelcu ELEMENTS OF JVM CONCURRENCY Scal](https://vidigo.ai/share/summary/3df1d7ba3317)
     * [알렉산드루 네델쿠 JVM 동시성 스칼라 컨퍼런스의 요소 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/588647)
   * [Daniel Ciocîrlan GENERATIVE ART WITH SCALA, NO AI REQUIRED Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=AQix1WaWuOo)
+  * [Martin Duhem EXPLORING BUILD CACHING: A PRACTICAL OVERVIEW Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=0hlFVXxlKr4)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1446,6 +1450,8 @@ Scala
     * scala의 여러가지 문제점을 논함. 내부적으로 위기를 느끼나?
   * [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
   * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
+* [Scala Stockholm - YouTube](https://www.youtube.com/@ScalaStockholm-jq6fb)
+  * [Functional Software](https://functionalsoftware.se/posts/scala-meetup-at-evolution.html)
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
 * [TMWL September’19 — Scala with JDK8, toString() method and ASCI art on the type level](https://blog.softwaremill.com/tmwl-september19-scala-with-jdk8-tostring-method-and-asci-art-on-the-type-level-c903cedfeab6)
 * [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
@@ -1778,6 +1784,7 @@ Scala
   * [Adam Warski DIRECT STYLE SCALA STACK AN EXPERIMENT - Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=C3j4AsFcxmM)
     * [VidiGo Adam Warski DIRECT STYLE SCALA STACK AN EXPERIMENT](https://vidigo.ai/share/summary/b7156f8a7d38)
     * [아담 워스키 직접 스타일 스칼라 스택 실험 - 스칼라 컨퍼런스 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/588742)
+  * [IO effect tracking using Ox](https://softwaremill.com/io-effect-tracking-using-ox/)
 * [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
 * [Pass4s is a Scala library providing an abstract layer for cross app messaging](https://github.com/ocadotechnology/pass4s)
   * [Functional messaging in Scala with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-basics/)
@@ -2058,6 +2065,7 @@ Scala
   * [Benchmarking Tapir: Part 1](https://softwaremill.com/benchmarking-tapir-part-1/)
   * [Benchmarking Tapir: Part 2](https://softwaremill.com/benchmarking-tapir-part-2/)
   * [Benchmarking Tapir: Part 3 (Loom)](https://softwaremill.com/benchmarking-tapir-part-3-loom/)
+  * [Introducing TARP Stack ⛺ – Tapir, React and PostgreSQL - LovinData - Simplified Full Stack Data Engineering](https://lovindata.github.io/blog/2024/04/18/introducing-tarp-stack---tapir-react-and-postgresql/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2664,6 +2672,7 @@ Scala
 * [Scala com Gitlab para iniciantes. | LinkedIn](https://www.linkedin.com/pulse/scala-com-gitlab-para-iniciantes-lucas-oliveira/)
 * [Nicolas François - Type/Test/Whatever Driven Development: Partage d'expérience - YouTube](https://www.youtube.com/watch?v=tJxnGnDLMEY)
 * [Purify Your Tests](https://blog.daniel-beskin.com/2024-05-09-purify-tests)
+* [Purify Your Tests: 2 Parametric, 2 Declarative](https://blog.daniel-beskin.com/2024-05-20-purify-tests-2)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Difflicious - helps you find and compare the differences between values](https://jatcwang.github.io/difflicious/)
@@ -3021,5 +3030,6 @@ Scala
   * [Spec-first and code-first, hand in hand](https://neander.tech/2024-04-27-specs-first-and-code-first)
   * [Updating our Smithy4s stack in 2024 - YouTube](https://www.youtube.com/watch?v=zhUAamJD7fY)
   * [Improved reuse in Smithy with Mixins - YouTube](https://www.youtube.com/watch?v=sgAHR4dCAWs)
+  * [Explore your Smithy models with the CLI - YouTube](https://www.youtube.com/watch?v=JuEHyp40wvM)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [Zymposium - Derivable Differs - YouTube](https://www.youtube.com/watch?v=4GWnMvbfgyE)
