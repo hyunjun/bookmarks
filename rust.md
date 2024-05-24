@@ -532,6 +532,7 @@
 * [가장 사랑받는 언어 Rust :: Udemy 'Rust Programming 핵심 강의' 후기](https://velog.io/@wisepine/%EA%B0%80%EC%9E%A5-%EC%82%AC%EB%9E%91%EB%B0%9B%EB%8A%94-%EC%96%B8%EC%96%B4-Rust-Udemy-Rust-Programming-%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
+* [Full Rust Programming Course | Learn ⚙️ in 2024 | #rustprogramming #rust - YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk)
 * [json_parser: Rust JSON Parser](https://github.com/dnzk/json_parser)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
