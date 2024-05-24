@@ -1705,6 +1705,8 @@ App
   * [Combining the terminal (iTerm) with the IDE - Alexandru Nedelcu](https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html)
   * [개발자가 맥북사면 가장 먼저 하는일 - YouTube](https://www.youtube.com/watch?v=mba8cnGcgqE)
   * [How to setup your Mac Terminal to be beautiful - YouTube](https://www.youtube.com/watch?v=wNQpDWLs4To) oh-my-zsh, powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting, gruvbox itermcolors, colorls gem
+  * [iTerm2 and AI hype overload - Xe Iaso](https://xeiaso.net/notes/2024/ai-hype/)
+    * [iTerm2 와 AI 과대 광고 | GeekNews](https://news.hada.io/topic?id=14973)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
