@@ -2395,6 +2395,7 @@ App
     * 디자인의 진행 상황과 변경 사항을 쉽게 확인할 수 있도록 "ready for development" 표시 가능, diff 쉽게 확인
     * VS Code 확장이 공개되어 VS Code 내에서 디자인을 바로 확인 가능
     * Dev Mode는 현재 오픈 베타로 2024년부터는 유료 플랜에서만 Dev Mode를 사용
+  * [피그마 Dev Mode, 한 번에 끝내기. 글. 이자인(Lilly) / UX Designer | by 여기어때 UX Center | May, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%ED%94%BC%EA%B7%B8%EB%A7%88-dev-mode-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-29f99a402f94)
   * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
     * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
     * 사용법
