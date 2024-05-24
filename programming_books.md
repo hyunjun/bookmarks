@@ -3854,6 +3854,13 @@ Programming Books
   * 한라 005.1-김94ㄱ
   * [Opensource License - GPL LGPL Apache BSD MIT](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#8af707b924f245b2beac7d9341f1889c)
   * [SBOM Software Bill of Material](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#f44feeaa3a2641208b5fc7a255c40f66)
+* [개발자를 위한 커리어 관리 핸드북](https://www.hanbit.co.kr/store/books/look.php?p_code=B5947588088)
+  * ★★★☆☆ 2024.05.09~24
+  * [개발자를 위한 커리어 관리 핸드북](https://1003.notion.site/3c796b0ee4e1483e9aa6f0ac040dc43c)
+  * [개발자를 위한 커리어 관리 핸드북](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_developers_career_handbook.md)
+  * [개발자를 위한 커리어 관리 핸드북. ★★★☆☆ May 9, 2024 → May 24, 2024 개발자를… | by Jun | May, 2024 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B4%80%EB%A6%AC-%ED%95%B8%EB%93%9C%EB%B6%81-37ae93080c5f)
+  * [개발자를 위한 커리어 관리 핸드북 - Jun’s Substack](https://recur.substack.com/p/070)
+  * [개발자를 위한 커리어 관리 핸드북](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B4%80%EB%A6%AC-%ED%95%B8%EB%93%9C%EB%B6%81)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
