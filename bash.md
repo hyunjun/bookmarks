@@ -138,6 +138,8 @@ Shell
 * [Alternative Shells · oilshell/oil Wiki](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 * [abs | Home of the ABS programming language: the joy of shell scripting](https://www.abs-lang.org/)
   * [Introducing ABS, a programming language for shell scripting | by Alex Nadalin | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
+* [Amber](https://amber-lang.com/)
+  * [Amber - Bash로 컴파일되는 프로그래밍 언어 | GeekNews](https://news.hada.io/topic?id=14947)
 * [aviary.sh: Minimal distributed configuration management in bash](https://github.com/team-video/aviary.sh)
 * [BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)
   * [BASH Debugger | GeekNews](https://news.hada.io/topic?id=4128)
