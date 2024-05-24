@@ -491,6 +491,8 @@ Android
   * [Compose 도입을 고려하시나요? 매우 짧은 일정 속에서 신규 서비스를 개발하는 도전적인 프로젝트(TRIPLE Korea)에서 Compose를 도입하고 개발했던 기억을 더듬어 정리 및 공유하고자 합니다. | Medium](https://medium.com/@joongwon/compose-%EB%8F%84%EC%9E%85%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EC%8B%9C%EB%82%98%EC%9A%94-18b327ffee02)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ UI Architecture](https://pluu.github.io/blog/android/2024/05/06/compose/)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Develop your app's layout](https://pluu.github.io/blog/android/2024/05/12/compose/)
+  * [Pluu Dev - 메모 Compose 가이드 문서 ~ Components](https://pluu.github.io/blog/android/2024/05/19/compose/)
+  * [Pluu Dev - 메모 Compose 가이드 문서 ~ Theming](https://pluu.github.io/blog/android/2024/05/23/compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
