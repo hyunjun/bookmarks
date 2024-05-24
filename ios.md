@@ -182,6 +182,7 @@ iOS
 * [Meet the Screen Time API (WWDC21) :: iOYES](https://green1229.tistory.com/456)
 * [What's new in Screen Time API (WWDC 22) :: iOYES](https://green1229.tistory.com/457)
 * [로컬 개발환경에 아이폰으로 HTTPS 접속하기 – 형우의 웹개발](https://mytory.net/archives/16218)
+* [iOS 멀티 프레임워크 환경에서 리소스 효율적으로 관리하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ios-manage-resources-in-multi-framework/)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -719,6 +720,7 @@ iOS
 * [SwiftUI에서 Search Interface 추가하기 :: iOYES](https://green1229.tistory.com/473)
 * [UIPasteboard를 통한 클립보드 사용하기 :: iOYES](https://green1229.tistory.com/470)
 * [Build your next website in Swift - YouTube](https://www.youtube.com/watch?v=JJGLoo3A2uk)
+* [XMLParser :: iOYES](https://green1229.tistory.com/474)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
