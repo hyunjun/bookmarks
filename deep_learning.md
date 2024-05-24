@@ -191,6 +191,7 @@ Deep Learning
     * [DALL.E style (3) 스타일 가이드북 | Pega Devlog](https://jehyunlee.github.io/2024/03/20/General-46-dalle3styles3/)
     * [Building an Image Editor with DALL-E and Next.js | Reflow](https://reflowhq.com/learn/image-editor-dall-e-next/)
       * [번역 DALL-E와 Next.js로 이미지 편집기 만들기](https://velog.io/@eunbinn/image-editor-dall-e-next)
+    * [DALL.E inpainting으로 그림 그리기 | Pega Devlog](https://jehyunlee.github.io/2024/05/19/General-51-dalleinpainting/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
