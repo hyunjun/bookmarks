@@ -122,6 +122,7 @@ AWS
 * [AWS SES SMTP를 활용한 대량 메일 전송 시스템 정리](https://medium.com/sjk5766/aws-ses-smtp를-활용한-대량-메일-전송-시스템-정리-e32863abbe4c)
 * [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://blog.rajephon.dev/2018/10/06/Amazon-SES-Setup-00/)
 * [AWS SES와 Nodemailer : 네이버 블로그](https://blog.naver.com/gi_balja/223414001298)
+* [skirr한 AWS SES 구축기. 안녕하세요, 올해 1월에 여기어때컴퍼니 SRE팀에 새롭게 합류하게 된… | by Ellie | May, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%AC%ED%95%B4-1%EC%9B%94%EC%97%90-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-sre%ED%8C%80%EC%97%90-%EC%83%88%EB%A1%AD%EA%B2%8C-%ED%95%A9%EB%A5%98%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%97%98%EB%A6%AC%EC%9E%85%EB%8B%88%EB%8B%A4-6334db671cab)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [Backend 개발자의 임무는 API를 만드는 것과 운영 인프라를 만드는 것이라고 볼 수 있습니다. | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/backend-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%84%EB%AC%B4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%9A%B4%EC%98%81-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-561ec2aeb89e) cloud9
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
@@ -532,6 +533,7 @@ AWS
 * [AWS Config란?](https://www.smileshark.kr/post/aws-config)
 * [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
 * [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
+* [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -672,6 +674,7 @@ AWS
 * [Working with Amazon Bedrock. Recently AWS went live with its fully… | by Sandeep Bhatia | Medium](https://medium.com/@bhatia.sandeep/working-with-amazon-bedrock-419edff2fbc6)
 * [AWS Bedrock remote access : r/aws](https://www.reddit.com/r/aws/comments/176uxht/aws_bedrock_remote_access/?rdt=45365)
 * [Amazon 생성형 AI 도구인 베드락 사용해 보자](https://brunch.co.kr/@topasvga/3727)
+* [Amazon Bedrock을 이용해 RAG, Fine tuning 없이 자동 고객 응대 서비스 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-cs-bot-without-rag/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
