@@ -537,6 +537,7 @@ Functional Programming
 * [An Intuitive Guide to Combining Free Monad & Free Applicative • Cameron Joannidis • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=zPtP-vvqagE)
   * [VidiGo An Intuitive Guide to Combining Free Monad & Free](https://vidigo.ai/share/summary/682e34c9d31e)
   * [무료 모나드와 무료 애플리케이션을 결합하는 직관적인 가이드 - 카메론 조아니디스 - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/531388)
+* [Nicolas Rinaudo THE DEBATABLY FREE MONAD Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=Yci07bMTcsM)
 * [PyMonad implements data structures typically available in pure functional or functional first programming languages like Haskell and F#. Included are Monad and Monoid data types with several common monads included - such as Maybe and State - as well as some useful tools such as the @curry decorator for defining curried functions. PyMonad 2.x.x represents an almost complete re-write of the library with a simpler, more consistent interface as well as type annotations to help ensure correct usage](https://github.com/jasondelaat/pymonad)
   * [Demystifying Python Monads Using Pymonad | Boone Cabal | Python Developer at Sundial Holdings - YouTube](https://www.youtube.com/watch?v=Fdp2eefdvEs)
 
