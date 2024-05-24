@@ -315,6 +315,7 @@ TensorFlow
 * [TensorFlow Lite를 사용해서 몸동작 인식한 중국 국민체조 앱의 케이스를 소개합니다](https://developers-kr.googleblog.com/2019/11/body-movement-recognition-in-the-smart-baduanjin-app.html)
 * [Example on-device model personalization with TensorFlow Lite](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)
 * [Sharing Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite — The TensorFlow Blog](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
+* [TensorFlow 머신러닝 적용 시, 미리 알면 좋은 2가지 꿀팁 | by Mike | DelightRoom | May, 2024 | Medium](https://medium.com/delightroom/tensorflow-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%A0%81%EC%9A%A9-%EC%8B%9C-%EB%AF%B8%EB%A6%AC-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-2%EA%B0%80%EC%A7%80-%EA%BF%80%ED%8C%81-fd8d19c6e54f) Lite
 * [Tiny Machine Learning: The Next AI Revolution | by Matthew Stewart, PhD Researcher | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868)
 * [iOS 기기에서 Tensorflow 모델 실행시키는 방법들](http://blog.canapio.com/135)
 * 모두의 텐소플로우
