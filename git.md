@@ -317,6 +317,7 @@ Git
 * [Introducing Artifact Attestations–now in public beta - The GitHub Blog](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
   * GitHub에서 빌드한 아티팩트를 증명해서 공급자에서 위변조가 일어났는지 검사할 수 있는 기능을 베타로 공개
   * 이 기능은 Sigstore로 동작하고 GitHub CLI로 서명하고 이를 검증하게 할 수 있으며 아티팩트를 SBOM과 연결 가능
+* [Github - Suggestion :: iOYES](https://green1229.tistory.com/475)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
