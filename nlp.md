@@ -2397,6 +2397,7 @@ NLP
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
+      * [langchain-nextjs-template/app/generative_ui/README.md at main · langchain-ai/langchain-nextjs-template · GitHub](https://github.com/langchain-ai/langchain-nextjs-template/blob/main/app%2Fgenerative_ui%2FREADME.md)
     * [프로젝트에 LLM 끼얹기 - Naver SmartStudio Blog](https://smartstudio.tech/how-to-build-ai-agent-with-llm/)
       * Yorkie 프로젝트에서 AI Agent를 만들기 위해 원하는 형태의 GitHub 이슈를 생성해 주는 아이디어를 생각
       * ChatGPT와 Langchain을 사용해서 구현 후 도입까지 한 과정 설명
@@ -2564,6 +2565,7 @@ NLP
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
+* [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks](https://github.com/mlabonne/llm-course)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm_distillation_playbook: Practical best practices for distilling large language models](https://github.com/predibase/llm_distillation_playbook)
 * [LLM-Finetuning: LLM Finetuning with peft](https://github.com/ashishpatel26/LLM-Finetuning)
@@ -2628,6 +2630,8 @@ NLP
     * 속도는 불편함 느끼지 못하게 빠름. 스트리밍 방식은 지원하지 않음. 일관된 성능을 보장해주는 느낌
     * 아직 버전이 0.1.0이라 갈 길이 많이 남았음. 응답을 내려주지 못하는 경우가 꽤 존재. Who are you 에도 대답을 못함; 구글에서는 이미 알고 있는 문제라고 함. 오히려 복잡한 질문에는 잘 대답
     * 현재 영어만 지원
+* [Phi-3CookBook: This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks](https://github.com/microsoft/Phi-3CookBook)
+  * [Microsoft Phi-3 Cookbook | GeekNews](https://news.hada.io/topic?id=14975)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [Japanese StableLM, Marking Entry into International Language Model  Market — Stability AI](https://stability.ai/blog/stability-ai-new-jplm-japanese-language-model-stablelm)
@@ -2659,6 +2663,7 @@ NLP
   * [Skyvern – LLM 및 컴퓨터 비전을 활용한 브라우저 워크플로우 자동화 | GeekNews](https://news.hada.io/topic?id=13860)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
+* [sparrow: Data processing with ML and LLM](https://github.com/katanaml/sparrow)
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
