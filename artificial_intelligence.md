@@ -234,6 +234,9 @@ Artificial Intelligence
 * [“Unlocking the power of Big Data, Analytics & AI” - Payzy by Cosmote - Konstantinos Megalokonomos - YouTube](https://www.youtube.com/watch?v=xhLmX9WL4Sw)
 * [Training & Monitoring AI - Drift Detection • Thomas Viehmann • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=pll9IRkeZ8o)
 * [Robert Erdmann - Keynote - Python for Imaging and Artificial Intelligence in Cultural Heritage - YouTube](https://www.youtube.com/watch?v=kMfl5SzfkVc)
+* [The AI-First Data Infrastructure | Barak Yagour - YouTube](https://www.youtube.com/watch?v=rFi0Bi7NqT8)
+  * [VidiGo The AI-First Data Infrastructure | Barak Yagour.mp](https://vidigo.ai//share/summary/3c5c303e6a69)
+  * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
