@@ -2434,8 +2434,13 @@ NLP
 * [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
   * [Home · aymara/lima Wiki](https://github.com/aymara/lima/wiki)
 * [lingoose: 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines](https://github.com/henomis/lingoose)
+* [Lightning AI](https://lightning.ai/)
+  * [⚡️ Lightning AI · GitHub](https://github.com/Lightning-AI)
+  * [LightningAI: STOP PAYING for Google's Colab with this NEW & FREE Alternative (Works with VSCode) - YouTube](https://www.youtube.com/watch?v=uSOclWUu4xY)
+    * [VidiGo LightningAI: STOP PAYING for Google's Colab with t](https://vidigo.ai/share/summary/084615c788ae)
+    * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
+  * [lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-gpt) Lit-GPT 최신 오픈 소스 LLMs의 해킹 가능한 구현
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
-* [lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-gpt) Lit-GPT 최신 오픈 소스 LLMs의 해킹 가능한 구현
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
