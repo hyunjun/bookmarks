@@ -2488,6 +2488,7 @@ Programming
 * [PyCon KR 2023 Python Domain Driven Desgin 신동현 - YouTube](https://www.youtube.com/watch?v=XJAHwmRKhJA)
 * [Art of Domain Modeling - Eric Normand - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=KmIRWeJDzn8)
 * [Domain-Driven Design Made Me Realize Something About AI Tools - YouTube](https://www.youtube.com/watch?v=HM8jWW1tnqY)
+* [Domain-Driven Design (DDD): Domain vs. Integration events - YouTube](https://www.youtube.com/watch?v=POOcPfvanOU)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -3617,6 +3618,9 @@ Programming
 * [블로그 | 도대체 클라우드 핀옵스에는 무슨 일이? - ITWorld Korea](https://www.itworld.co.kr/news/327249)
 * [10 top cloud cost management tools to save your cloud budget](https://www.digitalocean.com/resources/article/cloud-cost-management-tools)
 * [SSD는 엄청나게 빨라졌지만, 클라우드는 제외임 | GeekNews](https://news.hada.io/topic?id=13456)
+* [Cloud Career Journeys • Prasad Rao & David Linthicum • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=FcYLQLeuVh0)
+  * [VidiGo Cloud Career Journeys • Prasad Rao & David Linthic](https://vidigo.ai/share/summary/00c9fc57268a)
+  * [클라우드 커리어 여정 - 프라사드 라오 & 데이비드 린티컴 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/677955)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -7605,6 +7609,9 @@ Programming
     * 소프트웨어 개발은 인력 집약적이면서 동시에 전문적
     * 소프트웨어 개발의 본질적 복잡성과 우발적 복잡성
 * [운송 관리 시스템(TMS)의 탄생부터 현장에서 사용하기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17466/)
+* [The Most Dangerous Phrase • Daniel Terhorst-North • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=WPCrGYjrJ1Y)
+  * [VidiGo The Most Dangerous Phrase • Daniel Terhorst-North](https://vidigo.ai/share/summary/259dedfe82b4)
+  * [가장 위험한 문구 - 다니엘 터호스트-노스 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/677804)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
