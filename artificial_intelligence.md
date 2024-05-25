@@ -563,6 +563,9 @@ Artificial Intelligence
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #7 RAG 쿼리한 정보로 LLM에 질의하기](https://bcho.tistory.com/1405)
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #8 임베딩 API 비교](https://bcho.tistory.com/1406)
   * [Pinecone Introduces its Serverless Vector Database - InfoQ](https://www.infoq.com/news/2024/02/pinecone-serverless-database/)
+  * [Building a RAG Architecture: Local Files and Web Data Extraction - Pinecone, Mongo and ChatGPT - YouTube](https://www.youtube.com/watch?v=GabkV8S0g_A)
+    * [VidiGo Building a RAG Architecture: Local Files and Web D](https://vidigo.ai/share/summary/cd9a0b16fe36)
+    * [RAG 아키텍처 구축하기: 로컬 파일 및 웹 데이터 추출 - Pinecone, Mongo 및 ChatGPT | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/678003)
   * [7-docs](https://github.com/7-docs)
     * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
       * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
