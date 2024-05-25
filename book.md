@@ -425,6 +425,15 @@ Book
 * [만화로 보는 수의사의 세계](https://www.hanbit.co.kr/store/books/look.php?p_code=B4261830338)
   * ★★★☆☆ 2024.05.18
   * 우당 문528-기64ㅅ
+* 나는 메트로폴리탄 미술관의 경비원입니다 [미술관에서 삶을 바꾼 남자의 이야기 | 예술이 주는 위안 | 패트릭 브링리 『나는 메트로폴리탄 미술관의 경비원입니다』 - YouTube](https://www.youtube.com/watch?v=f2S0EE-Nwys)
+  * ★★★☆☆ May 23, 2024
+  * 제주 848-브239나
+  * [www.patrickbringley.com/art](https://www.patrickbringley.com/art)
+  * [나는 메트로폴리탄 미술관의 경비원입니다](https://1003.notion.site/d6c14fcfcc4a408899db93b7d0c8d1a3)
+  * [나는 메트로폴리탄 미술관의 경비원입니다](https://github.com/hyunjun/bookmarks/blob/master/books/all_the_beauty_in_the_world.md)
+  * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun - Medium](https://nymets.medium.com/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4-f9dd22b0e550)
+  * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun’s Substack](https://recur.substack.com/p/991)
+  * [나는 메트로폴리탄 미술관의 경비원입니다](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 * (NOT COMPLETED) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
   * ★★★☆☆ 2024.05.23
   * 우당 문531-힐91ㄷ
