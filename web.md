@@ -1361,6 +1361,9 @@ Web
 * [Why haven’t PWAs killed native apps yet? | by Kevin Basset | Sep, 2022 | Medium](https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z • 캡틴판교](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
 * [프론트엔드 개발자가 PWA 알아야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1969/)
+* [Progressive Web Apps (PWAs) vs native mobile apps | Leigh Kendell and Aranda Morrison - YouTube](https://www.youtube.com/watch?v=T5Us3zUJihE)
+  * [VidiGo Progressive Web Apps (PWAs) vs native mobile apps](https://vidigo.ai/share/summary/dbf3d528ccb4)
+  * [프로그레시브 웹 앱(PWA)과 네이티브 모바일 앱 | 리 켄델과 아란다 모리슨 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/677912)
 * [PWA Stats](https://www.pwastats.com/)
 
 # Proxy
