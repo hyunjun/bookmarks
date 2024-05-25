@@ -1472,6 +1472,10 @@ Business
 * [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
+* [뉴욕타임스는 더 이상 뉴스 회사가 아니다 – 뱅커장 | 장주영](https://bankerjang.com/newscompany/)
+  * 회사 전략 방향과 포지셔닝에 따라 비즈니스 성장에 기여하는 진짜 지표와 허수 지표 구분 필요
+  * 뉴욕 타임스는 이제 거의 게임 회사
+  * [(1) Ray Douglas on X: "What drives engagement at the New York Times? It's not news or even cooking, but games... #NYT #NYTimes #NewYorkTimes #media #newspapers #GrayLady https://t.co/6UId6ORBGR" / X](https://x.com/RayDouglasUK/status/1770453444593090751)
 * [신뢰할 수 있는 지표 만들기. 당근마켓 데이터 가치화팀은 지표 관련해서 어떠한 문제들에 직면했고… | by Kim Dojin | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-bbf39dc4a6b3)
 * [신뢰할 수 있는 지표 만들기 2 : KarrotMetrics 기술편 | by Kim Dojin | 당근마켓 테크 블로그 | Aug, 2023 | Medium](https://medium.com/daangn/%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-karrotmetrics-%EA%B8%B0%EC%88%A0%ED%8E%B8-526f517fda29)
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
