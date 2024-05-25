@@ -1314,6 +1314,7 @@ App
 * [Top 10 Safari Plugins and Extensions for Better Productivity](http://mashable.com/2012/01/24/safari-plugins-extensions)
 * [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
 * [macOS 타임머신을 Synology 에 연결하기](http://donghoon.me/106)
+* [맥 타임머신을 시놀로지에서 써야 하는 이유 & 방법 (신나따 Ep.04) - YouTube](https://www.youtube.com/watch?v=vj10PmepQ9k)
 * [Mac에서 Synology Router VPN을 통해 네트워크 제약없이 사용하기](https://projectresearch.co.kr/2018/04/15/mac%EC%97%90%EC%84%9C-synology-vpn%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A0%9C%EC%95%BD%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Synology NAS 주의사항 : 네이버 블로그](https://blog.naver.com/crucifyer/223138559186)
 * [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
