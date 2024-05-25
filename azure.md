@@ -209,6 +209,7 @@ Azure
       * 최종적으로 rest 엔드포인트를 통해 웹 분류 서비스를 제공하게 된다
   * [Azure 프롬프트 플로우 및 Github를 사용한 LLMOps | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/351007?sId=j0YJ3BZjrFs)
 * [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
+* [Inside Microsoft AI innovation with Mark Russinovich | BRK256 - YouTube](https://www.youtube.com/watch?v=ntKZ5CibuIQ)
 * [Azure의 Windows Server VM에 중첩 가상화 활성화 필수 조건](https://www.dokyun.pe.kr/337)
 * [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
 
@@ -282,6 +283,7 @@ Azure
 * [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
 * [Retrieval-Augmented Generation(RAG) - Part 1](https://zigispace.net/1236)
 * [Azure OpenAI - GPT-4o Playground 사용하기](https://zigispace.net/1287)
+* [Azure OpenAI에서 gpt-4o 모델 배포 및 API 사용하기(chat,vision)](https://zigispace.net/1288)
 * [azure-openai-samples-kr/use_cases/kakao_navi/notebooks/kakao_navi.ipynb at main · HyounsooKim/azure-openai-samples-kr · GitHub](https://github.com/HyounsooKim/azure-openai-samples-kr/blob/main/use_cases/kakao_navi/notebooks/kakao_navi.ipynb) OpenAPI function call example
 * [azure-openai-proxy: Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings](https://github.com/stulzq/azure-openai-proxy)
 
