@@ -1631,6 +1631,7 @@ Web
   * [9단계 : Streamlit 실전 프로젝트 예제 - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdO2tcfi2kbekxzY5MdC-2FD)
   * [10단계 : Streamlit Web 배포 - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdPkvCRzFmM_ZCJeEd4KAyJQ)
   * [11단계 : Streamlit Web with GCP - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdP0sPZBL4yu0FcvMEXcQmfb)
+  * [Streamlit Tutorials - YouTube](https://www.youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
   * [toy_filemover_streamlit: Sometimes the process of editing MP3 tags is the result of an old man's work](https://github.com/halfenif/toy_filemover_streamlit)
@@ -2326,6 +2327,10 @@ Web
       * JS에서 사용자 코드 실행 결과를 받을 때 결과의 크기를 미리 알 수 없어 별도 *콜백 함수*를 이용해 컴파일러로 결과 전송하는 작업이 복잡
       * 웹어셈블리를 사용하여 *웹 페이지 용량을 감소*, *사용하지 않는 서브시스템 제거* 등 아키텍처적 이점, JavaScript를 통해 기능을 확장하는 중요성 강조
 * [Understand the Next Phase of Web Development - Steve Sanderson - NDC London 2024 - YouTube](https://www.youtube.com/watch?v=p9taQkF24Fs)
+* [WebAssembly at Google by Thomas Steiner & Thomas Nattestadt @ Wasm I/O 2024 - YouTube](https://www.youtube.com/watch?v=2En8cj6xlv4)
+  * [WebAssembly at Google - Google Slides](https://docs.google.com/presentation/d/1bnYntCeekIev8hZnizixvLPUV7ljfJ2hNO6vBOcnXlE/edit)
+  * [VidiGo WebAssembly at Google by Thomas Steiner & Thomas N](https://vidigo.ai/share/summary/65bb9c8fecfe)
+  * [토마스 스타이너 & 토마스 나테슈타트의 Google WebAssembly @ Wasm I\O 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/684590)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
