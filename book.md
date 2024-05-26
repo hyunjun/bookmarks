@@ -1337,6 +1337,13 @@ Book
 * [종교의 흑역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321364571)
   * ★★☆☆☆ 2024.04.17 도서관에서 우연히 눈에 띄어 빌렸는데, 흥미로운 주제이고 여러가지 이야기를 알려주긴 하지만 깊이가 있지는 않다. 재미로 읽어볼만 함
   * 한라 209-오36ㅈ 탐라 문209-오37ㅈ
+* [피렌체 사람들 이야기 THE FLORENTINES](https://1003.notion.site/THE-FLORENTINES-932bfddbe3ad40f192e547aafeac920a)
+  * ★★★☆☆ 2024.04.30~05.04
+  * 한라 928-스887ㅍ 제주 928-스838피
+  * [피렌체 사람들 이야기 THE FLORENTINES](https://github.com/hyunjun/bookmarks/blob/master/books/the_florentines.md)
+  * [피렌체 사람들 이야기 THE FLORENTINES - Jun - Medium](https://nymets.medium.com/%ED%94%BC%EB%A0%8C%EC%B2%B4-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0-the-florentines-4c81bca8a3f0)
+  * [피렌체 사람들 이야기 THE FLORENTINES - Jun’s Substack](https://recur.substack.com/p/the-florentines)
+  * [피렌체 사람들 이야기 THE FLORENTINES](https://jh4hj.tistory.com/entry/%ED%94%BC%EB%A0%8C%EC%B2%B4-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0-THE-FLORENTINES)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
