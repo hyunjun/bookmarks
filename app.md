@@ -2250,6 +2250,7 @@ App
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
+  * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
