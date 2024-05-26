@@ -6445,6 +6445,7 @@ Javascript
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
 * [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) TypeScript에 대한 1시간 20분 정도 분량의 다큐멘터리
+* [TypeSpec](https://typespec.io/) Describe your data up front and generate schemas, API specifications, client / server code, docs, and more
 * [typia: Super-fast Runtime validator (type checker) with only one line](https://github.com/samchon/typia)
   * [Universal Random Generator, which can make everything, just by only one line - DEV Community](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
 * [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://vanilla-extract.style/)
