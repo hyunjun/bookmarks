@@ -1163,6 +1163,7 @@ Go
   * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
   * [Introducing Caddy-SSH | Caffeinated Wonders](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
 * [colly: Elegant Scraper and Crawler Framework for Golang](https://github.com/gocolly/colly)
+  * [Web Scraping with Colly in Golang - YouTube](https://www.youtube.com/watch?v=FKspgoncU8U)
   * [rhino-scraper: Learn how to build a web scraper with Go and colly. Video tutorial available on the Div Rhino YouTube channel.](https://github.com/divrhino/rhino-scraper)
     * [How to build a web scraper with Go and Colly - Div Rhino | Project-based tutorials and articles](https://divrhino.com/articles/build-webscraper-with-go-and-colly/)
 * [Echo - High performance, minimalist Go web framework](https://echo.labstack.com/)
