@@ -119,6 +119,8 @@ PHP
   * [Laravel Eloquent 자식뿐 아니라 자손 연관속성까지 한번에 불러오는 방법 – 형우의 웹개발](https://mytory.net/archives/15949)
   * [codexa: Codexa is a Documentation System built using the Laravel Framework](https://github.com/devoption/codexa)
 * [Leaf 3.0 - PHP 웹앱 & API 프레임워크 | GeekNews](https://news.hada.io/topic?id=5698)
+* [no-frontend-framework-experiment: Example code from my YouTube video "You don't need a frontend framework"](https://github.com/aschmelyun/no-frontend-framework-experiment)
+  * [You don't need a frontend framework - YouTube](https://www.youtube.com/watch?v=Fuz-jLIo2g8)
 * opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
 * [Open Swoole: PHP Server with Async IO, Coroutines and Fibers (previously Swoole) | Open Swoole PHP](https://openswoole.com/)
 * phan
