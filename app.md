@@ -1877,6 +1877,7 @@ App
 * [IcePanel | Solution | System docs for visual people](https://icepanel.io/)
 * [Isoflow](https://isoflow.io/)
 * [Kinopio](https://kinopio.club/)
+* [Kroki!](https://kroki.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [markmap](https://markmap.js.org/)
   * [markmap: Build mindmaps with plain text](https://github.com/markmap/markmap)
@@ -2251,7 +2252,9 @@ App
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
-  * Excalidraw [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
+  * Excalidraw
+    * [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
+    * [The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube](https://www.youtube.com/watch?v=P_Q6avJGoWI)
   * [JSON Canvas — An open file format for infinite canvas data](https://jsoncanvas.org/)
     * [NEW 🎉 Obsidian JSON Canvas (Game Changer) - YouTube](https://www.youtube.com/watch?v=c3NSxQmKCss)
     * [Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian](https://obsidian.md/blog/json-canvas/)
