@@ -500,6 +500,8 @@ SQL
 * [bytebase: Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com ](https://github.com/bytebase/bytebase)
   * [Bytebase - 웹 기반 DB스키마 변경 및 버전 관리도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=4793)
 * [cozo: A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms](https://github.com/cozodb/cozo)
+* [dataherald: Interact with your SQL database, Natural Language to SQL using LLMs](https://github.com/Dataherald/dataherald)
+  * [Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=15008)
 * [DBCore - Rapidly prototype applications powered by your database](https://www.dbcore.org/)
   * [DBCore - DB기반으로 빠르게 프로토타입 앱 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=5366)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
