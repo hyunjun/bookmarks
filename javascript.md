@@ -4289,6 +4289,7 @@ Javascript
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 * [Create-react-app v3, 무엇이 달라졌을까?](https://john015.github.io/create-react-app-v-3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [What’s The Difference Between NextJS and Create-React-App? | Frontend Digest](https://medium.com/frontend-digest/whats-the-difference-between-nextjs-and-create-react-app-11b55650a612)
+* [(번역) ‘Create React App 권장을 Vite로 대체’ PR 대한 Dan Abramov의 답변 | by Jung Han | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-create-react-app-%EA%B6%8C%EC%9E%A5%EC%9D%84-vite%EB%A1%9C-%EB%8C%80%EC%B2%B4-pr-%EB%8C%80%ED%95%9C-dan-abramov%EC%9D%98-%EB%8B%B5%EB%B3%80-3050b5678ac8)
 * [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
