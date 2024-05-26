@@ -331,6 +331,7 @@ Artificial Intelligence
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
 * [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
+  * [LlamaIndex Webinar: Build an Open-Source Coding Assistant with OpenDevin - YouTube](https://www.youtube.com/watch?v=_1JZfv7r4mY)
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
   * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
@@ -450,6 +451,8 @@ Artificial Intelligence
 * [앞으로 모든 코드의 90%는 AI가 작성할 수 있도록 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%95%9E%EC%9C%BC%EB%A1%9C-%EB%AA%A8%EB%93%A0-%EC%BD%94%EB%93%9C%EC%9D%98-90-%EB%8A%94-ai%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8F%84%EB%A1%9D)
 * [생성 AI 연구 활용 가이드 | Pega Devlog](https://jehyunlee.github.io/2024/05/19/General-52-genairesearch/)
 * [생성 AI 연구 활용 한계와 제언 | Pega Devlog](https://jehyunlee.github.io/2024/05/24/General-53-genaipapersurvey/)
+* [Google scrambles to manually remove weird AI answers in search - The Verge](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
+  * [구글, 검색에서 이상한 AI 답변을 수동으로 제거하느라 고군분투중 | GeekNews](https://news.hada.io/topic?id=15005)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
