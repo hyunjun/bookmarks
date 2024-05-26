@@ -2410,6 +2410,7 @@ NLP
   * [10분 만에 랭체인(LangChain) 이해하기](https://brunch.co.kr/@ywkim36/147)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
+  * [langchain_clova_emb.ipynb - Colab](https://colab.research.google.com/drive/1BdgOq4KuL--BWkpdDlQ1HbDPYajt4tGh?usp=sharing)
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
   * [langchain-kr: LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다](https://github.com/teddylee777/langchain-kr)
     * [#langchain 밋업 발표 R.A.G. 우리가 절대 쉽게 결과물을 얻을 수 없는 이유 - YouTube](https://www.youtube.com/watch?v=NfQrRQmDrcc)
@@ -2489,6 +2490,7 @@ NLP
     * [Build your first AI app in Rust using Serverless AI Inferencing - YouTube](https://www.youtube.com/watch?v=TyP-BSy-gi4)
     * [이준범 영어 잘 하는 모델을 한국어 잘 하는 모델로 바꾸는 레시피 - YouTube](https://www.youtube.com/watch?v=pxWji5kykw8)
       * [1:25](https://2024langcon.oopy.io/e820b185-0f58-4797-bfe2-a4b8e63008ae)
+    * [LLAMA2: 오픈소스 위한 LLM 레시피 - Pre-training | Meta 2023 | 김보섭 - YouTube](https://www.youtube.com/watch?v=KVpZ3XdIQC4)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
       * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
@@ -2511,6 +2513,7 @@ NLP
     * [NumPy로 구현하는 라마 3 모델 · The Missing Papers](https://docs.likejazz.com/llama3.np/)
       * [순수 NumPy로 구현하는 라마 3 모델 | GeekNews](https://news.hada.io/topic?id=14856)
     * [Python Llama3를 파인튜닝을 통해 나만의 데이터로 학습 및 Huggingface에 적재해보자. - 미완성의신](https://unfinishedgod.netlify.app/2024/05/24/python/)
+    * [Kyoungsu Park on LinkedIn: #llama3 #langchain #chatbot](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llama3-langchain-chatbot-activity-7197549384434130944-KHVr) Llama3 70B와 LangChain으로 한국어 Chatbot, bedrock
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
@@ -3815,6 +3818,8 @@ NLP
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
 * [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
+* [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
+  * [Welcome! | Pipecat](https://pipecat.ai/)
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
