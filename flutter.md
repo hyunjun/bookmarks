@@ -201,6 +201,8 @@ Flutter
 * [Hixie's Natural Log: How big is the Flutter team?](https://ln.hixie.ch/?start=1714717681&order=-1&count=1)
   * [플러터 코파운더의 블로그 글에서 짐작할 수 있는 현재 플러터의 상황. '플러터의 본질은 오픈소스 UI프레임워크이며, 구글의 지원여부와 상관없이 사라지지 않을 것입니다.' - YouTube](https://www.youtube.com/watch?v=cvM94V_MqWw)
 * [Flutter JsonCodable, 그게뭔데? 1편. 구글 I/O 2024에서 플러터 3.22가 공개 되었습니다. | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C%EB%AD%94%EB%8D%B0-57988baeecf0)
+* [Flutter JsonCodable, 그게 뭔데? 2편. 이전 포스팅에서는 Flutter의 JsonCodable 매크로를… | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-2%ED%8E%B8-cb44b450dac9)
+* [Flutter JsonCodable, 그게 뭔데? 3편. Flutter 3.22, Dart 3.5의 마스터 채널에 미리보기… | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-3%ED%8E%B8-4d24956078e3)
 * [FLUTTER 10분 20분만에 채팅앱 설명 (+구글로그인) - YouTube](https://www.youtube.com/watch?v=_NdQfppUD1Q)
 
 # Conference, Meetup
