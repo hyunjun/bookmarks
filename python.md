@@ -3757,6 +3757,7 @@ Python
     * [Faster CPython, 어떻게 더 빨라졌을까? | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=KSNIslmwPyI)
     * [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://github.com/brandtbucher/specialist)
   * [FasterCPythonDark.pdf at main · faster-cpython/ideas](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
+  * [free-threaded-compatibility: A central repository to keep track of the status of work on and support for free-threaded CPython (see PEP 703), with a focus on the scientific and ML/AI ecosystem](https://github.com/Quansight-Labs/free-threaded-compatibility)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
