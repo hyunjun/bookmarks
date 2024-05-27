@@ -684,6 +684,7 @@ Programming
   * [Roblox의 5000만 유저 서비스 복구 노하우 | 커리어리](https://careerly.co.kr/comments/87102)
 * [트래픽이 몰려온다, 장애 대응 - 어느날 갑자기 장애가 발생했다 3회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1nnYH0omM4qIl9WzeNBQtqdt8uMoDKgwvpu8gj3GSmPw/edit)
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 1편](https://velog.io/@juunini/traffic-zergling-blood-1)
+* [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 2편](https://velog.io/@juunini/traffic-zergling-blood-2)
 * [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
 * [More More More! Why the Most Resilient Companies Want More Incidents - YouTube](https://www.youtube.com/watch?v=qXZo3cIv6-s)
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
