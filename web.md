@@ -2370,6 +2370,8 @@ Web
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
   * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
+  * [Running PHP blazingly fast at the Edge with WebAssembly · Blog · Wasmer](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
+    * [WASM으로 엣지에서 PHP 엄청 빠르게 실행하기 | GeekNews](https://news.hada.io/topic?id=15025)
   * [wasmer-go: WebAssembly runtime for Go](https://github.com/wasmerio/wasmer-go)
   * [v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86/)
 * [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
