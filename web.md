@@ -1538,6 +1538,7 @@ Web
   * [정말 기초적인 FastAPI 튜토리얼 #1 - 쿼리 파라미터](https://blog.raccoony.dev/fastapi-abc-1-query-parameters/)
   * [정말 기초적인 FastAPI 튜토리얼 #2 - 경로 파라미터와 자동 문서화](https://blog.raccoony.dev/fastapi-abc-2-path-parameter-and-openapi/)
   * [정말 기초적인 FastAPI 튜토리얼 #3 - 입력 데이터 검증](https://blog.raccoony.dev/fastapi-abc-3-validation-with-type-hinting/)
+  * [FastAPI 개요](https://puddingcamp.com/page/32f2d7fd-5601-42bb-aa19-d7d99ce0c388)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
