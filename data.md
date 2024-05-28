@@ -99,3 +99,5 @@ Government
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
 * [recipenlg: Set of scripts and notebooks used to produce results visible in RecipeNLG paper](https://github.com/Glorf/recipenlg)
 * [StandardSim: A Synthetic Dataset For Retail Environments](https://standard-ai.github.io/Standard-Sim/)
+* [Wikimedia Enterprise - APIs for LLMs, AI training, and more](https://enterprise.wikimedia.com/)
+  * [Wikimedia Enterprise - 검색엔진/LLM/딥러닝을 위한 기업용 API | GeekNews](https://news.hada.io/topic?id=15047)
