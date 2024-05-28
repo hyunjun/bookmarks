@@ -8507,6 +8507,9 @@ Programming
   * ["The Downtime Project"라는 팟캐스트에서는 GitHub, Slack, Salesforce 등 10개 이상의 서비스 장애 보고서를 분석하여 도출된 5가지 주요 교훈](https://www.linkedin.com/posts/danielylee_%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EA%B2%80-%EB%B3%B4%EA%B3%A0%EB%8A%94-%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8-activity-7164679513895895040-vmtf/)
     * 1. 순환 의존성의 덫 2. 자동화의 배신 3. 항상 디비가 문제 4. 배포는 조금씩 천천히 5. 장애 대응 플레이북
 * [Gmarket Mobile Web Vip 악성 봇 대침투 사건](https://ebay-korea.tistory.com/106)
+* [Diving Into the VOID • Casey Rosenthal • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=B0YcmMfW-kI)
+  * [VidiGo Diving Into the VOID • Casey Rosenthal • GOTO 2024](https://vidigo.ai/share/summary/2a05add8d3b9)
+  * [다이빙 인투 더 보이드 - 케이시 로젠탈 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698390)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
