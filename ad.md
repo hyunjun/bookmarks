@@ -100,6 +100,9 @@
 
 # Library
 * [Marketing Technology Landscape Supergraphic (2020): Martech 5000 - really 8,000, but who's counting? - Chief Marketing Technologist](https://chiefmartec.com/2020/04/marketing-technology-landscape-2020-martech-5000/)
+* [openpanel: All the goodies from both Mixpanel and Plausible combined into one tool](https://github.com/Openpanel-dev/openpanel)
+  * [An open-source alternative to Mixpanel | Openpanel.dev](https://openpanel.dev/)
+  * [OpenPanel - 오픈소스 Mixpanel 대체제 | GeekNews](https://news.hada.io/topic?id=15049)
 * [The Simple Guide to Building a Martech Stack](https://ahrefs.com/blog/martech-stack/)
   * [MarTech 스택 만들기 가이드 | GeekNews](https://news.hada.io/topic?id=6096)
 * Similarweb [Website Traffic - Check and Analyze Any Website | Similarweb](https://www.similarweb.com/)
