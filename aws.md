@@ -1210,6 +1210,8 @@ AWS
 * [EC2 Instance Connect Endpoint를 이용해 Amazon EC2및 Amazon RDS 인스턴스에 안전하게 접속하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-instance-connect-endpoint-bastion/)
 * [🔑 Git Private repo 배포하기 - YouTube](https://www.youtube.com/watch?v=r1U-Z3L1fZM)
 * [Integrating with GitHub Actions – CI/CD pipeline to deploy a Web App to Amazon EC2 | AWS DevOps Blog](https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/)
+* [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
+  * [EC2 부팅 시간 단축하기 | GeekNews](https://news.hada.io/topic?id=15046)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
