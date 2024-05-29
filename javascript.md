@@ -5148,6 +5148,7 @@ Javascript
   * 마이크로 프론트엔드 아키텍처로 서비스마다 뷰를 나누었고 ESBuild를 통해 빠른 배포와 로딩을 사용
 * [State of React Native 2023](https://results.stateofreactnative.com/)
   * React Native 생태계의 현황을 2,400명에게 조사한 결과 공개. 플랫폼 API의 비중, 사용하는 라이브러리의 선호도, 관련 도구 등 통계
+* [React Navigation 소개 및 사용법 — Bonglog - 기록과 정리의 공간](https://devbksheen.tistory.com/entry/React-Navigation%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%9F%AC-%ED%99%94%EB%A9%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
@@ -5563,6 +5564,7 @@ Javascript
   * [Adding Google Analytics to Next.js : A Step By Step Guide](https://www.bugblitz.dev/2024/04/adding-google-analytics-to-nextjs.html)
   * [Next.js 캐싱으로 웹 서버 성능 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2024/240418-optimizing-nextjs-cache/)
   * [레거시 JSP를 최신 Next.js 13으로 마이그레이션 하기 (Q&A포함) - YouTube](https://www.youtube.com/watch?v=60kgIuecsCE)
+  * [Next.js 14에서 원격 이미지 최적화 하기 — SanbonDeveloper](https://sanbondeveloper.tistory.com/101)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
