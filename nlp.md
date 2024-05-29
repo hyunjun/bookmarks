@@ -892,6 +892,8 @@ NLP
   * [ChatGPT from Scratch: How to Train an Enterprise AI Assistant • Phil Winder • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=N53Gsz0Gm4c)
     * [VidiGo ChatGPT from Scratch: How to Train an Enterprise A](https://vidigo.ai/share/summary/1286b49eff31)
     * [처음부터 ChatGPT: 엔터프라이즈 AI 어시스턴트를 교육하는 방법 - 필 윈더 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/661077)
+  * [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 · karpathy/llm.c · Discussion #481](https://github.com/karpathy/llm.c/discussions/481)
+    * [(1) Andrej Karpathy on X: "# Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20 ✨ The GPT-2 (124M) is the smallest model in the GPT-2 series released by OpenAI in 2019, and is actually quite accessible today, even for the GPU poor. For example, with llm.c you can now reproduce this model on one 8X https://t.co/C9GdaxGPhd" / X](https://x.com/karpathy/status/1795484547267834137)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
