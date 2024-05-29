@@ -189,6 +189,7 @@ Elixir
 * [Concurrency Oriented Programming in a Modern World • Robert Virding & Francesco Cesarini • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AvA97AB8cAA)
 * [Genetic Algorithms in Elixir • Sean Moriarity & Bruce Tate • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=vS1_Z4xaeqQ)
 * [Michał Ślaski - 'Lessons from Erlang VM' ElixirConf EU 2015](https://www.youtube.com/watch?v=TkCftBMJyy0)
+* [Fast and Efficient Image Processing in Elixir - Kip Cole - YouTube](https://www.youtube.com/watch?v=H-Psxgqoa-M&ab_channel=ElixirAustralia)
 * [ElixirConf 2023 - YouTube](https://www.youtube.com/playlist?list=PLqj39LCvnOWbHaZldxw_g02RaTQ4vQ1eY)
   * [ElixirConf 2023 - José Valim - The foundations of the Elixir type system - YouTube](https://www.youtube.com/watch?v=giYbq4HmfGA)
   * [ElixirConf 2023 - Charlie Holtz - Building AI Apps with Elixir - YouTube](https://www.youtube.com/watch?v=TfZI5-oQSqI)
