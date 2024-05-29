@@ -1807,6 +1807,7 @@ AWS
     * 스냅샷 관리:
       * 가상 머신 스냅샷을 S3에 저장하고 필요한 부분만 온디맨드로 로드
       * 공통 부분 중복 제거 및 계층화를 통해 효율성 향상
+* [(05/27) AWS 람다의 내부 동작 방식 - YouTube](https://www.youtube.com/watch?v=rPQghvkPu-o)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
