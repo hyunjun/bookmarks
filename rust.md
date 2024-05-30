@@ -153,6 +153,8 @@
 * [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
 * [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
 * [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
+* [Build your own JavaScript runtime with Rust — Leo Kettmeir (2024) - YouTube](https://www.youtube.com/watch?v=XBjRg_Zaw9g)
+  * [VidiGo Build your own JavaScript runtime with Rust — Leo](https://vidigo.ai//share/summary/0e87c80e24ab)
 * [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
 * [13 easy Rust tips (code review) - YouTube](https://www.youtube.com/watch?v=w_LUixO3tpU)
 * [Anatomy of a Terminal Emulator :: poor.dev](https://poor.dev/blog/terminal-anatomy/)
