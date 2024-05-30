@@ -306,6 +306,9 @@ Programming
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [Reading Code Is Harder Than Writing It – Trisha Gee](https://trishagee.com/presentations/reading_code/)
 * [How to Read Complex Code • Felienne Hermans • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=58LeSsn_nSQ)
+* [Reading Code • Marit van Dijk • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=KkDmCcWN8TY&ab_channel=GOTOConferences)
+  * [VidiGo Reading Code • Marit van Dijk • GOTO 2023.mp4](https://vidigo.ai/share/summary/290d2ca24158)
+  * [독서 코드 - Marit van Dijk - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/703432)
 * [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [좋은 코드란 무엇일까? | JBEE.io](https://jbee.io/etc/what-is-good-code/)
 * [좋은 코드 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/28/%ec%a2%8b%ec%9d%80-%ec%bd%94%eb%93%9c/)
@@ -1503,6 +1506,8 @@ Programming
 * [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
 * [Let's make a contract: the art of designing a Java API by Mario Fusco - YouTube](https://www.youtube.com/watch?v=RejJukzz8M0) 전반부는 일반적인 API에 대한 부분, 후반부는 Java
 * [더 늘고, 더 중요해진다··· ‘API 거버넌스’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/325107)
+* [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
+  * [API의 HTTP를 HTTPS로 리디렉션하지 마세요 | GeekNews](https://news.hada.io/topic?id=15066)
 * [API architectural styles](https://www.linkedin.com/posts/omer-hussain-755b54199_happylearning-api-activity-7166357292848738304-QV2K/) REST GraphQL SOAP gRPC WebSockets MQTT
   * [What Is a REST API? Examples, Uses & Challenges | Postman Blog](https://blog.postman.com/rest-api-examples/)
   * [What Is GraphQL and How Does It Work? | Postman Blog](https://blog.postman.com/what-is-a-graphql-api-how-does-it-work/)
@@ -1521,6 +1526,8 @@ Programming
     * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
   * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
   * [API Improvement Proposals](https://google.aip.dev/)
+  * [An Anonymous Source Shared Thousands of Leaked Google Search API Documents with Me; Everyone in SEO Should See Them - SparkToro](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/)
+    * [유출된 Google Search API 문서 분석 | GeekNews](https://news.hada.io/topic?id=15074)
 * [Handshake](https://handshake.org/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
