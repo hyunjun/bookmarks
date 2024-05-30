@@ -1633,6 +1633,7 @@ Web
   * [10단계 : Streamlit Web 배포 - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdPkvCRzFmM_ZCJeEd4KAyJQ)
   * [11단계 : Streamlit Web with GCP - YouTube](https://www.youtube.com/playlist?list=PLnAbm0LaZMdP0sPZBL4yu0FcvMEXcQmfb)
   * [Streamlit Tutorials - YouTube](https://www.youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
+  * [Streamlit Explained: Python Tutorial for Data Scientists - YouTube](https://www.youtube.com/watch?v=c8QXUrvSSyg)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
   * [toy_filemover_streamlit: Sometimes the process of editing MP3 tags is the result of an old man's work](https://github.com/halfenif/toy_filemover_streamlit)
