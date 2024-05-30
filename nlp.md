@@ -894,6 +894,7 @@ NLP
     * [처음부터 ChatGPT: 엔터프라이즈 AI 어시스턴트를 교육하는 방법 - 필 윈더 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/661077)
   * [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 · karpathy/llm.c · Discussion #481](https://github.com/karpathy/llm.c/discussions/481)
     * [(1) Andrej Karpathy on X: "# Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20 ✨ The GPT-2 (124M) is the smallest model in the GPT-2 series released by OpenAI in 2019, and is actually quite accessible today, even for the GPU poor. For example, with llm.c you can now reproduce this model on one 8X https://t.co/C9GdaxGPhd" / X](https://x.com/karpathy/status/1795484547267834137)
+    * [llm.c를 사용하여 GPT-2 모델을 저렴하게 재구현하기 | GeekNews](https://news.hada.io/topic?id=15065)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -2517,6 +2518,8 @@ NLP
     * [Python Llama3를 파인튜닝을 통해 나만의 데이터로 학습 및 Huggingface에 적재해보자. - 미완성의신](https://unfinishedgod.netlify.app/2024/05/24/python/)
     * [Kyoungsu Park on LinkedIn: #llama3 #langchain #chatbot](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llama3-langchain-chatbot-activity-7197549384434130944-KHVr) Llama3 70B와 LangChain으로 한국어 Chatbot, bedrock
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
+    * [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars | by Aksh Garg | May, 2024 | Medium](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
+      * [Llama 3-V - GPT4-V와 동등한 성능을 100배 작은 모델과 500달러로 구현하 | GeekNews](https://news.hada.io/topic?id=15076)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
@@ -2613,6 +2616,8 @@ NLP
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
   * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
   * [Mistral Large 모델 공개 | GeekNews](https://news.hada.io/topic?id=13541)
+  * [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
+    * [Codestral - Mistral의 코드 생성 AI 모델 | GeekNews](https://news.hada.io/topic?id=15082)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
@@ -3078,6 +3083,8 @@ NLP
   * [AI 모델 탐험기 #3 모델 Fine-Tuning(feat. Teachable NLP) | by AI Network | AI Network\_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-3-%EB%AA%A8%EB%8D%B8-fine-tuning-feat-teachable-nlp-557677764abf)
 * [ttmik: Talk to me in Korean Anki cards and related scripts](https://github.com/karpathy/ttmik)
 * [TUNiBridge](https://tunibridge.ai/)
+* [Typoon: A text expander that fully supports Korean letters as well. 한글을 제대로 지원하는 텍스트 확장기](https://github.com/yeshjho/Typoon)
+  * [Typoon - 한글을 제대로 지원하는 텍스트 확장기(Text Expander) | GeekNews](https://news.hada.io/topic?id=12809)
 * [yok\_mask: 비속어 마스킹 API with 인공지능](https://github.com/yoonhero/yok_mask)
 
 ## Library Java
