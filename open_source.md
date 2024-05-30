@@ -348,6 +348,8 @@ Open Source
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
+* f-droid [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/2024/05/24/mobifree.html)
+  * [Mobifree 오픈소스 모바일 생태계와 f-Droid의 역할 | GeekNews](https://news.hada.io/topic?id=15086)
 * [FindCollabs: Share Your Projects and Find Collaborators](https://hackernoon.com/findcollabs-share-your-open-source-projects-and-find-collaborators-d0a2bb0fc931)
 * [Fossies - The "Fossies" Software Archive](http://fossies.org/)
 * [FOSSLight | 오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트](https://fosslight.org/ko/)
@@ -364,6 +366,8 @@ Open Source
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
   * [Setup your self hosted, open source, Matrix chat server for fully private and encrypted messaging. - YouTube](https://www.youtube.com/watch?v=TFDFR6EBG3k)
+* [Mobifree](https://mobifree.org/)
+  * [Mobifree 프로젝트 - 오픈소스 모바일 생태계 | GeekNews](https://news.hada.io/topic?id=15079)
 * [Open Source Insights](https://deps.dev/)
   * [Open Source Insights - 오픈소스를 이해하기 쉽게 | GeekNews](https://news.hada.io/topic?id=4429)
 * [Open Source Vulnerability format - Open Source Vulnerability schema](https://ossf.github.io/osv-schema/) 오픈소스의 취약점을 데이터베이스 간에 교환할 수 있도록 제안된 표준 형식
