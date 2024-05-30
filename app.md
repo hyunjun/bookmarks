@@ -1558,7 +1558,7 @@ App
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
-* [UTM: Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
+* [UTM: Virtual machines for iOS and macOS](https://github.com/utmapp/UTM) caps lock -> ctrl 설정은 hyperkey 설치하면 가능
   * [Stuck on windows network step · Issue #4177 · utmapp/UTM](https://github.com/utmapp/UTM/issues/4177) network 화면에서 shift + fn + f10 입력하는 부분 진행 실패로 더 테스트하지 못함
   * [UTM | Virtual machines for Mac](https://mac.getutm.app/)
   * [애플 실리콘 맥에서 윈도우를 무료로 돌리자! UTM 사용법](https://techtree.tistory.com/98) VHDX로 Mac에 Window 설치
@@ -1567,7 +1567,7 @@ App
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
-* [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
+* [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy) caps lock -> ctrl 설정은 system 설정으로 가능
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [Warp: The terminal for the 21st century](https://www.warp.dev/)
   * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
@@ -2251,6 +2251,7 @@ App
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
+  * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
@@ -2263,6 +2264,8 @@ App
     * [hi-canvas.marknoteapp.com](https://hi-canvas.marknoteapp.com/)
     * [Kinopio](https://kinopio.club/hello-kinopio-RAwG-frHfebPi9Dw947OK)
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
+  * [Obsidian 3D graph plugin (official release, features walkthrough) - YouTube](https://www.youtube.com/watch?v=w1H-pcM8nOU&ab_channel=YomaruHananoshika)
+  * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
 * [**prose.io**](http://prose.io) github
