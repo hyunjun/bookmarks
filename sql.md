@@ -492,6 +492,8 @@ SQL
 * [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [DuckDBT: Not a database or a dbt adapter but a secret third thing – DuckCon #3 (San Francisco) - YouTube](https://www.youtube.com/watch?v=NQmOiEJ8fEs)
 * [Gábor Szárnyas - DuckDB: The Power of a Data Warehouse in your Python Process - YouTube](https://www.youtube.com/watch?v=q_SKaOeRiOI)
+* [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
+  * [데이터 없이도 데이터베이스가 되는 DuckDB | GeekNews](https://news.hada.io/topic?id=15093)
 
 # Library
 * [alasql.org](http://alasql.org/)
@@ -1283,6 +1285,7 @@ SQL
 * [Postgres HA: roles are dynamic](https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic/)
 * [Postgres is a great pub/sub & job server](https://webapp.io/blog/postgres-is-the-answer/)
 * [여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
+* [PostgreSQL Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/784)
 * [신입 개발자의 인덱스 장애 회고담 | Onepredict Engineering](https://onepredict.github.io/failure-retrospective/)
 * [PostgreSQL (Aurora) 10 vs 11 버전 성능 비교](https://jojoldu.tistory.com/630)
 * [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
