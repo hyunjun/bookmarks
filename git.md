@@ -1014,6 +1014,7 @@ Git
   * [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
   * [원티드랩 프론트엔드 팀의 Pull Request 양식 및 자동화 | by Chaeryn Park | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%98-pull-request-%EC%96%91%EC%8B%9D-%EB%B0%8F-%EC%9E%90%EB%8F%99%ED%99%94-42e393832ffc)
   * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
+  * [GitHub - Auto Assign 사용하기 :: iOYES](https://green1229.tistory.com/477)
   * [리멤버에서 Pull Request 편리하게 사용하는 법 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%97%90%EC%84%9C-pull-request-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95/) CODEOWNERS 등
   * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
   * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
@@ -1421,6 +1422,7 @@ Git
         * AI를 활용할 때, 더 창의적으로 활동하며 시스템 아키텍트처럼 보이는 세상으로 접근해야
         * 메일 주소의 정규식을 기억하기 위해 문서를 찾아보는 것이 아니라, 노동자로서의 역할을 한정짓지 않게 될 것이다. 이것이 흥미롭고, 기대
   * [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI :: Outsider's Dev Story](https://blog.outsider.ne.kr/1717)
+  * [Copilot 깃허브 코파일럿은 어떻게 작동하는가? | Daily Log](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
