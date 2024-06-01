@@ -368,6 +368,8 @@ Open Source
   * [Setup your self hosted, open source, Matrix chat server for fully private and encrypted messaging. - YouTube](https://www.youtube.com/watch?v=TFDFR6EBG3k)
 * [Mobifree](https://mobifree.org/)
   * [Mobifree 프로젝트 - 오픈소스 모바일 생태계 | GeekNews](https://news.hada.io/topic?id=15079)
+* [openkoda: Open source business application platform for fast development](https://github.com/openkoda/openkoda)
+  * [Openkoda – 프라이빗한 Salesforce 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=15084)
 * [Open Source Insights](https://deps.dev/)
   * [Open Source Insights - 오픈소스를 이해하기 쉽게 | GeekNews](https://news.hada.io/topic?id=4429)
 * [Open Source Vulnerability format - Open Source Vulnerability schema](https://ossf.github.io/osv-schema/) 오픈소스의 취약점을 데이터베이스 간에 교환할 수 있도록 제안된 표준 형식
