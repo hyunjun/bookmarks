@@ -1069,6 +1069,7 @@ Data Science
 * [아자르에서 AI 기반 추천 모델의 타겟 지표를 설정하는 방법 (feat. 아하 모멘트) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/04/26/azar-aha-moment.html)
 * [추천 시스템 개선을 위한 Feature Store 도입기 - RIDI Corp.](https://ridicorp.com/story/ridi-personalization-system-feature-store/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development/)
+* [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development_second/)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
