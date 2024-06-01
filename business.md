@@ -2295,6 +2295,7 @@ Business
       * 이 항공사는 유럽에서 미국으로 이륙하는 최초의 대서양 저비용 항공사로, 기존 티켓 판매량을 뛰어넘는 성공
 * [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
 * [시니어 리더가 해야 하는 일](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%A4%EB%B2%84%EB%93%A4%EC%9D%B4-activity-7194786293128523776-YWAa/)
+* [I’ll take it from here (여기서부터는 제가 할게요) – 조성문의 블로그](https://sungmooncho.com/2024/05/26/ill-take-it-from-here-%ec%97%ac%ea%b8%b0%ec%84%9c%eb%b6%80%ed%84%b0%eb%8a%94-%ec%a0%9c%ea%b0%80-%ed%95%a0%ea%b2%8c%ec%9a%94/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3382,6 +3383,9 @@ Business
 * [진짜 Zero to One 시작부터 Global DNA](https://brunch.co.kr/@powervision/44)
 * [(d·camp x 분당서울대학교병원) 스타트업 창업자 정신건강 실태조사 보고서 발간 | D.CAMP](https://dcamp.kr/node/460)
 * ['10만 다운' 대박 앱 만들고도 '폐업'..스타트업 망하는 4가지 이유](https://news.v.daum.net/v/20220820090004009)
+* [40 questions from Y Combinator to crash-test your startup — molfar.io](https://www.molfar.io/blog/yc-questions)
+  * [스타트업들이 망하는 이유들](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EB%93%A4%EC%9D%B4-%EB%A7%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%93%A4-httpslnkdingrmgjjqn-activity-7193780048699576321-62fC/)
+  * [Top Reasons Startups Failed in 2022](https://www.skynova.com/blog/top-reasons-startups-fail)
 * [투자자에게 스타트업 아이디어를 한 줄로 설명하는 방법](https://www.slid.cc/share/vdocs/%ED%88%AC%EC%9E%90%EC%9E%90%EC%97%90%EA%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-32edc42f45cb42b3a434eaf506ce1ce3)
 * [Doda CEO가 미국 출장을 통해 배운 것](https://www.linkedin.com/posts/doyoung-kwak_%EB%AF%B8%EA%B5%AD-%EC%B6%9C%EC%9E%A5%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-swit-josh-activity-6972003481385676800-G834/) 1. USP와 타 서비스 기능 캐치업 사이에서의 균형 2. 한국은 여러 시장 중 하나의 시장일 뿐
 * [진짜 전문가들은 '스킨 인 더 게임'을 한다](https://www.slid.cc/share/vdocs/%EC%A7%84%EC%A7%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%EC%8A%A4%ED%82%A8-%EC%9D%B8-%EB%8D%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%ED%95%9C%EB%8B%A4-a0571cb65d5b4dedb3d43eca8c2d6319)
@@ -3534,6 +3538,7 @@ Business
 * [The Psychology of UX](http://www.methodsandtools.com/archive/archive.php?id=126)
 * [가장 흔한 5가지 디자인 실수](http://ppss.kr/archives/48885)
 * [필드에서 배운 성공적인 UX 리서치를 위한 TIP](http://ppss.kr/archives/55275)
+* [1,100km 떨어져 있는 사용자를 위한 UX 리서치부터 과감한 리뉴얼까지의 기록](https://techblog.lycorp.co.jp/ko/how-to-ux-research-and-renewal-for-overseas-users)
 * [스타트업이 훌륭한 디자인을 뽑으려면?](http://ppss.kr/archives/27029)
 * [Autocomplete as an interface](http://www.benkuhn.net/autocomplete)
 * [포토샵은 디자인 툴이 아닌 ‘커뮤니케이션 툴’이다](http://ppss.kr/archives/23253)
