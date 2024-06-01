@@ -2974,6 +2974,10 @@ Python
 * [Introduction to Python GUI Development with Delphi for Python - Part 1: Delphi VCL for Python - YouTube](https://www.youtube.com/watch?v=m0r80fxZWPI)
   * [Introduction to Python GUI Development with Delphi for Python (VCL & FMX)](https://blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx/)
 * [Python Desktop GUI App with SQLite DB (PyQt/PySide/Qt Designer) - YouTube](https://www.youtube.com/watch?v=X8fY8uFgzb4)
+* [Textual](https://textual.textualize.io/)
+  * [textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser](https://github.com/textualize/textual/)
+  * [Textual 강좌 1 - App 구성하기 · Wireframe](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-1-app-%ea%b5%ac%ec%84%b1%ed%95%98%ea%b8%b0/)
+  * [Textual 강좌 2 - 이벤트 · Wireframe](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-2-%ec%9d%b4%eb%b2%a4%ed%8a%b8/)
 * [Dear PyGUI API Docs](https://hoffstadt.github.io/DearPyGui/)
   * [Create a Python App with Dear PyGui - Graphic User Interface - YouTube](https://www.youtube.com/watch?v=2RocXKPPx4o)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
@@ -4139,6 +4143,8 @@ Python
 * [Tesseract-OCR](https://github.com/tesseract-ocr/)
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
   * [파이썬 Python 코딩 #14 - tesseract OCR 이미지에서 텍스트 추출 - YouTube](https://www.youtube.com/watch?v=rNxMwtottmM)
+  * [NormCap](https://dynobo.github.io/normcap/)
+    * [normcap: OCR powered screen-capture tool to capture information instead of images](https://github.com/dynobo/normcap)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [transitions - A lightweight, object-oriented finite state machine implementation in Python with many extensions](https://github.com/pytransitions/transitions)
@@ -4847,6 +4853,8 @@ Python
 
 ## Library TUI text user interface
 * [Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)
+* [asciimatics: A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations](https://github.com/peterbrittain/asciimatics)
+  * [asciimatics - 텍스트 기반 애니메이션 라이브러리 · Wireframe](https://soooprmx.com/asciimatics-%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%b0%eb%b0%98-%ec%95%a0%eb%8b%88%eb%a9%94%ec%9d%b4%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c%eb%9f%ac%eb%a6%ac/)
 * curses
   * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
   * [파이썬 curses 프로그래밍](https://python.flowdas.com/howto/curses.html)
