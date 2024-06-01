@@ -398,6 +398,7 @@ ElasticSearch - Lucene
 * [Needle in a 930M Member Haystack: People Search AI @LinkedIn - YouTube](https://www.youtube.com/watch?v=mBJoVtMGmtQ) ranking에 ML을 쓰는 이야기
 * [로그분석에 활용할 수 있는 EFK 스택 간단하게 정리해보기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/8916)
 * [정보 검색(Information Retrieval) 평가 방법: MAP, MRR, DCG, NDCG - 모두의연구소](https://modulabs.co.kr/blog/information-retrieval-map-ndcg/)
+* [검색엔진의 Analyzer, 형태소분석기 ≠ 토크나이저. 검색엔진의 ‘Analyzer’라는 모듈을 살펴보고, 이와 관련하여… | by Seunghan Jung | May, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-analyzer-%ED%98%95%ED%83%9C%EC%86%8C%EB%B6%84%EC%84%9D%EA%B8%B0-%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80-5878af195d14)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
