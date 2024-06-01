@@ -1790,37 +1790,6 @@ NLP
 * [Paper Review From 175B to 7B – DSBA](http://dsba.korea.ac.kr/seminar/?mod=document\&uid=2675)
 * [언어모델의 원리와 만들기 – tech.kakao.com](https://tech.kakao.com/2023/06/05/languagemodel-mlm-clm/)
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
-* [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
-* [Why do you need a streaming pipeline instead of a batch pipeline when implementing RAG in your LLM applications? What do you need to implement a streaming pipeline for a financial assistant?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7162007367100960768-AVZn/)
-* [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
-* [캐글에서 살펴본 RAG 트렌드 살펴보기 (2)](https://brunch.co.kr/@hotorch/21)
-* [Aurimas Griciūnas on LinkedIn: “Hello World”s of RAG](https://www.linkedin.com/posts/aurimas-griciunas_you-can-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-that-activity-7160565020626411521-rh5E)
-* [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
-* [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
-* [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
-* [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
-* [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
-* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
-* [검색 증강 생성이 뭐죠? AI 필수 지식 RAG, 15분만에 배우기 - YouTube](https://www.youtube.com/watch?v=m7cNjCVpSrw)
-* [Python RAG Tutorial (with Local LLMs): AI For Your PDFs - YouTube](https://www.youtube.com/watch?v=2TJxpyO3ei4)
-  * [VidiGo Python RAG Tutorial (with Local LLMs): AI For Your](https://vidigo.ai/share/summary/0323abe95372)
-  * [Python RAG 튜토리얼(로컬 LLM 포함): PDF를 위한 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522895)
-* [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
-  * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
-    * Claude 3 Sonnet v1
-      * RAFT(Retrieval Augmented Fine Tuning)는 특정 도메인의 "열린 책" 환경에서 질문에 답하는 모델의 성능을 향상시키기 위한 미세조정 전략입니다. 이 기법은 선택된 문서 모음을 기반으로 질문 응답 작업을 위해 대규모 언어모델(LLM)을 미세조정하는 레시피를 제공합니다. 주요 설계 결정 사항으로는 문서 검색기를 통해 얻은 부적절한 문서와 함께 모델을 훈련시키고, 일부 데이터에서는 관련 문서를 포함하지 않으며, 텍스트에서 직접 인용하는 방식으로 사유 과정 답변을 작성하는 것 등이 있습니다. PubMed, HotpotQA, Gorilla API Bench에서의 평가를 통해 RAFT의 상당한 잠재력이 입증되었습니다. 앞으로 도메인 특화 검색 증강 생성(in-domain Retrieval-Augmented Generation, RAG)이 산업계와 학계에서 관심을 더욱 받을 것으로 예상됩니다. 일반 RAG와 달리 본 연구는 LLM이 도메인 특화 지식을 활용하여 질문에 답해야 하는 실제 시나리오를 다루고 있습니다. 본 연구 결과는 도메인 특화 질문 응답 작업에서 미세조정된 소형 모델도 일반 LLM 모델과 비슷한 성능을 낼 수 있음을 시사합니다.
-    * Claude 3 Haiku v1
-      * RAFT: 도메인 특정 RAG에 언어 모델 적용하기
-      * 다양한 응용 프로그램에 거대 언어 모델(LLM)을 통합할 때 종종 도메인 특정 지식이나 독점 데이터와 같은 새로운 정보를 검색 보조 생성(RAG) 기반 프롬프팅 또는 미세 조정과 같은 기술을 통해 통합해야 합니다. 그러나 이 새로운 지식을 모델에 주입하는 가장 효과적인 방법을 결정하는 것이 과제입니다. 최근 블로그에서 우리는 "열린 책" 설정에서 특정 도메인 내 질문에 대한 답변 성능을 향상시키기 위한 간단하고 강력한 미세 조정 레시피인 검색 기반 미세 조정(RAFT)을 소개합니다. 열린 책 설정은 모델이 문서를 참조하여 질문에 답변할 수 있는 패러다임을 의미합니다.
-      * RAFT는 모델이 주어진 질문에 대답하는 데 기여하지 않는 검색된 문서를 무시하도록 훈련함으로써 이러한 방해 요소를 제거합니다. 이는 도움이 되는 문서에서 관련 부분을 정확히 식별하고 인용하여 질문에 대답함으로써 달성됩니다. 또한 RAFT의 Chain-of-Thought 스타일 응답은 모델의 추론 능력을 더욱 개선합니다. 도메인 특정 RAG에 적용될 때 RAFT는 PubMed, HotpotQA, Gorilla 등 다양한 데이터 세트에서 일관되게 성능을 향상시켜 도메인 특정 RAG 기능을 갖는 사전 훈련된 LLM에 대한 유용한 사후 훈련 강화를 제공합니다.
-      * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
-  * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
-* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
-* [Bay.Area.AI: LLM + Graph Database for RAG, Andreas Kollegger - YouTube](https://www.youtube.com/watch?v=-P0__Ch3sqE)
-  * [VidiGo Bay.Area.AI: LLM + Graph Database for RAG, Andreas](https://vidigo.ai/share/summary/7f3e15f9df46)
-  * [Bay.Area.AI: RAG용 LLM + 그래프 데이터베이스, Andreas Kollegger | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/581310)
-* [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
-* [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21878)
   * [그랩의 LLM Application 개발 경험/레슨런 공유회 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/470094?sId=TJ2mYNpUTAY)
@@ -2128,7 +2097,6 @@ NLP
       * 사용자는 GPTQ 알고리즘으로 모델의 정밀도를 8, 4, 3, 2비트로 조정 가능
       * 특히, 4비트 양자화는 정확도 저하가 적으며 추론 속도도 fp16 기준과 유사
       * 이 기능은 Nvidia와 AMD GPU에서 모두 사용 가능
-* [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
 * [autotrain-advanced: 🤗 AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced)
   * [코드 1줄 Llama 2 내 데이터로 파인튜닝 Colab에서 - YouTube](https://www.youtube.com/watch?v=GjZ1a0OJqGk)
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
@@ -2195,7 +2163,6 @@ NLP
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
-* [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
 * [grok-1: Grok open release](https://github.com/xai-org/grok-1)
   * [Open Release of Grok-1](https://x.ai/blog/grok-os)
 * [GroqChat](https://groq.com/)
@@ -2678,9 +2645,6 @@ NLP
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
   * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
-* [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
-* [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
-  * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
 * [Sakura-SOLAR-DPO: Sakura-SOLAR-DPO: Merge, SFT, and DPO](https://github.com/KyujinHan/Sakura-SOLAR-DPO)
 * [sec-insights: A real world full-stack application using LlamaIndex](https://github.com/run-llama/sec-insights)
   * [Discover LlamaIndex: SEC Insights, End-to-End Guide - YouTube](https://www.youtube.com/watch?app=desktop&v=2O52Tfj79T4)
@@ -2699,6 +2663,8 @@ NLP
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
+* [TinyAgent: Function Calling at the Edge – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
+  * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
@@ -2844,6 +2810,45 @@ NLP
   * [Helicone - Open-Source Generative AI Platform for Developers](https://www.helicone.ai/)
 * [openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
   * [OpenLLMetry - LLM 어플리케이션을 위한 오픈소스 Observability | GeekNews](https://news.hada.io/topic?id=13482)
+
+## Language Model LM RAG
+* [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
+* [Why do you need a streaming pipeline instead of a batch pipeline when implementing RAG in your LLM applications? What do you need to implement a streaming pipeline for a financial assistant?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7162007367100960768-AVZn/)
+* [캐글에서 살펴본 RAG 트렌드 살펴보기 (1)](https://brunch.co.kr/@hotorch/20)
+* [캐글에서 살펴본 RAG 트렌드 살펴보기 (2)](https://brunch.co.kr/@hotorch/21)
+* [Aurimas Griciūnas on LinkedIn: “Hello World”s of RAG](https://www.linkedin.com/posts/aurimas-griciunas_you-can-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-that-activity-7160565020626411521-rh5E)
+* [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
+* [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+* [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
+* [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
+* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
+* [검색 증강 생성이 뭐죠? AI 필수 지식 RAG, 15분만에 배우기 - YouTube](https://www.youtube.com/watch?v=m7cNjCVpSrw)
+* [Python RAG Tutorial (with Local LLMs): AI For Your PDFs - YouTube](https://www.youtube.com/watch?v=2TJxpyO3ei4)
+  * [VidiGo Python RAG Tutorial (with Local LLMs): AI For Your](https://vidigo.ai/share/summary/0323abe95372)
+  * [Python RAG 튜토리얼(로컬 LLM 포함): PDF를 위한 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522895)
+* [RAFT Retrieval Augmented Fine Tuning](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
+  * [Check out RAFT: Retrieval-Aware Fine Tuning! A simple technique to prepare data for fine-tuning LLMs for in-domain RAG, i.e., question-answering on your set of documents](https://www.linkedin.com/feed/update/urn:li:activity:7174525633291587584/)
+    * Claude 3 Sonnet v1
+      * RAFT(Retrieval Augmented Fine Tuning)는 특정 도메인의 "열린 책" 환경에서 질문에 답하는 모델의 성능을 향상시키기 위한 미세조정 전략입니다. 이 기법은 선택된 문서 모음을 기반으로 질문 응답 작업을 위해 대규모 언어모델(LLM)을 미세조정하는 레시피를 제공합니다. 주요 설계 결정 사항으로는 문서 검색기를 통해 얻은 부적절한 문서와 함께 모델을 훈련시키고, 일부 데이터에서는 관련 문서를 포함하지 않으며, 텍스트에서 직접 인용하는 방식으로 사유 과정 답변을 작성하는 것 등이 있습니다. PubMed, HotpotQA, Gorilla API Bench에서의 평가를 통해 RAFT의 상당한 잠재력이 입증되었습니다. 앞으로 도메인 특화 검색 증강 생성(in-domain Retrieval-Augmented Generation, RAG)이 산업계와 학계에서 관심을 더욱 받을 것으로 예상됩니다. 일반 RAG와 달리 본 연구는 LLM이 도메인 특화 지식을 활용하여 질문에 답해야 하는 실제 시나리오를 다루고 있습니다. 본 연구 결과는 도메인 특화 질문 응답 작업에서 미세조정된 소형 모델도 일반 LLM 모델과 비슷한 성능을 낼 수 있음을 시사합니다.
+    * Claude 3 Haiku v1
+      * RAFT: 도메인 특정 RAG에 언어 모델 적용하기
+      * 다양한 응용 프로그램에 거대 언어 모델(LLM)을 통합할 때 종종 도메인 특정 지식이나 독점 데이터와 같은 새로운 정보를 검색 보조 생성(RAG) 기반 프롬프팅 또는 미세 조정과 같은 기술을 통해 통합해야 합니다. 그러나 이 새로운 지식을 모델에 주입하는 가장 효과적인 방법을 결정하는 것이 과제입니다. 최근 블로그에서 우리는 "열린 책" 설정에서 특정 도메인 내 질문에 대한 답변 성능을 향상시키기 위한 간단하고 강력한 미세 조정 레시피인 검색 기반 미세 조정(RAFT)을 소개합니다. 열린 책 설정은 모델이 문서를 참조하여 질문에 답변할 수 있는 패러다임을 의미합니다.
+      * RAFT는 모델이 주어진 질문에 대답하는 데 기여하지 않는 검색된 문서를 무시하도록 훈련함으로써 이러한 방해 요소를 제거합니다. 이는 도움이 되는 문서에서 관련 부분을 정확히 식별하고 인용하여 질문에 대답함으로써 달성됩니다. 또한 RAFT의 Chain-of-Thought 스타일 응답은 모델의 추론 능력을 더욱 개선합니다. 도메인 특정 RAG에 적용될 때 RAFT는 PubMed, HotpotQA, Gorilla 등 다양한 데이터 세트에서 일관되게 성능을 향상시켜 도메인 특정 RAG 기능을 갖는 사전 훈련된 LLM에 대한 유용한 사후 훈련 강화를 제공합니다.
+      * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
+  * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
+* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
+* [Bay.Area.AI: LLM + Graph Database for RAG, Andreas Kollegger - YouTube](https://www.youtube.com/watch?v=-P0__Ch3sqE)
+  * [VidiGo Bay.Area.AI: LLM + Graph Database for RAG, Andreas](https://vidigo.ai/share/summary/7f3e15f9df46)
+  * [Bay.Area.AI: RAG용 LLM + 그래프 데이터베이스, Andreas Kollegger | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/581310)
+* [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
+* [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
+* [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
+* [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
+* [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
+* [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
+* [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
+  * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
 
 # LDA Latent Dirichlet Allocation
 
