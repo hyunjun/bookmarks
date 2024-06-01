@@ -159,6 +159,7 @@ Javascript
 * [15+ Free JavaScript Projects to Boost Resume (2021) | Crio.Do](https://www.crio.do/projects/category/javascript-projects)
 * [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥 - YouTube](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 * [초보자를 위한 40가지의 자바스크립트 프로젝트](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
+* [200-JAVASCRIPT-PROJECT: This repository contains a curated list of 200 JavaScript practice project ideas for developers of all skill levels. Whether you're a beginner looking to hone your skills or an experienced developer seeking new challenges, you'll find a project here to suit your needs](https://github.com/deepakkumar55/200-JAVASCRIPT-PROJECT)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
   * [Learning Patterns - 웹 앱 설계를 위한 패턴들 | GeekNews](https://news.hada.io/topic?id=7182)
@@ -5563,12 +5564,13 @@ Javascript
     * 중첩된 레이아웃을 구축 가능, 로딩 상태 유연하게 표시 가능
     * 실시간 업데이트를 위해 클라이언트에서 데이터 불러오는 코드 중복 작성 필요, 서버 측 오류가 쉽게 삼켜져서 추적에 어려움 발생
     * 지금은 해결되었지만 개발하면서 버그가 너무 많아 고생, 개발 서버의 성능이 너무 안 좋아 성숙도에 비해 너무 빨리 마케팅이 되었다고 함
-  * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [Next server actions | React memo | Social media card preview in Next - YouTube](https://www.youtube.com/watch?v=T2CwGbq_sIM)
   * [Adding Google Analytics to Next.js : A Step By Step Guide](https://www.bugblitz.dev/2024/04/adding-google-analytics-to-nextjs.html)
   * [Next.js 캐싱으로 웹 서버 성능 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2024/240418-optimizing-nextjs-cache/)
   * [레거시 JSP를 최신 Next.js 13으로 마이그레이션 하기 (Q&A포함) - YouTube](https://www.youtube.com/watch?v=60kgIuecsCE)
   * [Next.js 14에서 원격 이미지 최적화 하기 — SanbonDeveloper](https://sanbondeveloper.tistory.com/101)
+  * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
+  * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
