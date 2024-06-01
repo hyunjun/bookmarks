@@ -376,6 +376,8 @@ NLP
   * [2. ChatGPT 프롬프트 활용](https://www.youtube.com/watch?v=kBNsFTgF1W4)
   * [3. Copilot의 한계와 Cursor IDE](https://www.youtube.com/watch?v=F2YhSCcEZe8)
   * [5. 프롬프트 엔지니어링 실습](https://www.youtube.com/watch?v=x6NEhMjKN9E)
+* [A Beginner’s Guide to Vector Embeddings](https://www.timescale.com/blog/a-beginners-guide-to-vector-embeddings/)
+  * [초보자를 위한 Vector Embeddings 가이드 | GeekNews](https://news.hada.io/topic?id=15094)
 
 # 띄어쓰기
 
@@ -1008,6 +1010,8 @@ NLP
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
   * [HuLiC](https://github.com/smilegate-ai/HuLiC) 사람과 챗봇간의 대화에 대해 모든 턴마다 인간성 평가 점수를 메긴 데이터
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
+* [llm-agent: It shows how to deploy and use an agent with LLM](https://github.com/kyopark2014/llm-agent)
+* [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [www.luis.ai](https://www.luis.ai)
 * [Mantium](https://mantiumai.com/)
   * [Better decision making with always up-to-date vector databases | ODFP210 - YouTube](https://www.youtube.com/watch?v=DCy3RHa7x_8)
@@ -2099,6 +2103,8 @@ NLP
 * [MLOps Now — 쉽고 빠르게 커스텀 LLM을 파인튜닝, 배포하는 방법 — 안재만, CEO, VESSL AI - YouTube](https://www.youtube.com/watch?v=4EY1TP4FrEE)
   * [VidiGo MLOps Now — 쉽고 빠르게 커스텀 LLM을 파인튜닝, 배포하는 방법 — 안재만, C](https://vidigo.ai/share/summary/9191ebf8d2a4)
   * [MLOps Now — 쉽고 빠르게 커스텀 LLM을 파인튜닝, 배포하는 방법 — 안재만, CEO, VESSL AI - YouTube | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/622164)
+* [LLM을 탈옥](https://www.linkedin.com/posts/seungyun-baek-aa40a4211_%EB%8B%A8%EB%8F%88-300%EC%9B%90%EC%97%90-llm%EC%9D%84-%ED%83%88%EC%98%A5%EC%8B%9C%EC%BC%9C%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%AB-%EB%AC%B8%EC%9E%A5%EC%9D%B4-%EB%8B%A4%EC%86%8C-%EC%9E%90%EA%B7%B9%EC%A0%81%EC%9D%B4%EC%A7%80%EB%A7%8C-activity-7196382790781669376-NTcS/)
+* [Do Large Language Models have a Theory of Mind? How LLaMA2 beat GPT-4 and even humans](https://www.linkedin.com/posts/pascalbiese_testing-theory-of-mind-in-llms-and-humans-ugcPost-7198400282303594496-SDaT/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2151,6 +2157,7 @@ NLP
     * [Anthropic의 프롬프트 라이브러리 | GeekNews](https://news.hada.io/topic?id=13912)
   * [Golden Gate Claude \ Anthropic](https://www.anthropic.com/news/golden-gate-claude)
     * [Anthropic, LLM의 내부 작동 방식을 조정한 "금문교 Claude" 버전 공개 | GeekNews](https://news.hada.io/topic?id=14977)
+  * [Claude 클로드 사용법 | AI로 데이터 분석하기 | Daily Log](https://jiyeonseo.github.io/2024/05/31/data-analytic-with-claude/)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
@@ -2582,7 +2589,6 @@ NLP
   * [Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex - YouTube](https://www.youtube.com/watch?v=ihSiRrOUwmg)
   * [How to Build a RAG System With LlamaIndex, OpenAI, and MongoDB Vector Database | MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
 * [LLM4Decompile: Reverse Engineering: Decompiling Binary Code with Large Language Models](https://github.com/albertan017/LLM4Decompile)
-* [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
@@ -3762,6 +3768,7 @@ NLP
   * [듣고 말하는 음성 챗봇 만들기 | Microsoft Learn AI 기술 챌린지 - YouTube](https://www.youtube.com/watch?v=5WXfDyS_T5k)
 * [화상 회의할 때 음성 품질을 높이는 기술](https://engineering.linecorp.com/ko/blog/line-voip-voice-quality-with-vqe)
 * [LINE 앱에서 음성 품질을 측정하는 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-voice-quality-in-line-app)
+* [LINE 앱의 잡음 제거 기술 성능 측정 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-noise-suppression-performance-in-line-app)
 * [Detecting Speech and Music in Audio Content | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8)
 * [Web Speech API로 프론트엔드에서 TTS 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/03/09/Web-Speech-API.html)
 * TTS survey
