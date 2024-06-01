@@ -126,6 +126,7 @@ Flutter
   * [올바른 애니메이션 구현 방법 선택하기. 본 아티클은 플러터 공식 유튜브 채널에 업로드된 “How to… | by Cody Yun | Aug, 2023 | Medium](https://medium.com/@cody.yun/flutter-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-46841b95c4d)
 * [Flutter IO 2022 Extended ‘애니메이션 적용기’ | by valas(김선호) | Flutter Korea | Jul, 2022 | Medium](https://medium.com/flutter-korea/flutter-io-2022-extended-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%EA%B8%B0-38a31707139d)
 * [Flip Card로 배우는 애니메이션 기초 | by Sunlution | Feb, 2024 | Medium](https://medium.com/@sunlution/flutter-flip-card%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B8%B0%EC%B4%88-8a0d41dc7ade)
+* [Flutter 암묵적 애니메이션, 그게 뭔데?. 플러터 애니메이션 시스템에 대해서 꾸준히 살펴보고 있습니다. | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-%EC%95%94%EB%AC%B5%EC%A0%81-%EC%84%A0%EC%96%B8%ED%98%95-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-2a390d235e04)
 * [Shared preferences - 이번 블로그 포스트에서는 Flutter에서 로컬에 간단한 데이터를 저장하기 위해 Shared preferences 패키지를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/shared-preferences/)
 * [SQLite - 이번 블로그 포스트에서는 Flutter에서 SQLite를 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/sqflite/)
 * [플러터 iOS 앱 실행시 iproxy 관련 경고가 뜨며 앱이 실행되지 않는다면?](https://www.androidhuman.com/2021-07-14-flutter_ios_iproxy)
