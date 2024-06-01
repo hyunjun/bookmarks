@@ -357,6 +357,7 @@ AWS
   * [Performance tuning for an AWS Lambda-based API (Detecting Paris’ locked bicycle stations 5/5) | by Jean Baptiste Muscat | CodeX | Nov, 2021 | Medium](https://medium.com/codex/performance-tuning-for-an-aws-lambda-based-api-b8b49b2d07db)
 * [What is different between traditional infrastructure designs and serverless architectures. | by Kobee | Nov, 2021 | Medium](https://haithai91.medium.com/what-is-different-between-traditional-infrastructure-designs-and-serverless-architectures-8398b3bb4f0a)
 * [AWS에서 Video on Demand VOD 서비스하기 - YouTube](https://www.youtube.com/watch?v=bzxJkiJ77vg)
+* [AWS 인공 지능 (AI) 및 기계 학습 (ML) 서비스를 사용한 비디오 요약 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/video-summarization-with-aws-artificial-intelligence-ai-and-machine-learning-ml-services/?sc_channel=sm&sc_campaign=Korean_blog&sc_publisher=FACEBOOK&sc_country=global&sc_geo=APAC&sc_outcome=awareness&trk=video-summarization-with-aws-artificial-intelligence-ai-and-machine-learning-ml-services)
 * [CODE GURU REVIEWER를 사용하여 코드리뷰 받기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%eb%b0%9b%ea%b8%b0/)
 * [AWS Cloud WAN - Part 1](https://zigispace.net/1150)
 * [AWS Cloud WAN - Part 2](https://zigispace.net/1151)
@@ -534,6 +535,7 @@ AWS
 * [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
 * [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
+* [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -576,6 +578,7 @@ AWS
 * [API Gateway 에 관한 정리 # AWS](https://developer88.tistory.com/340)
 * [Managing multi-tenant APIs using Amazon API Gateway | AWS Compute Blog](https://aws.amazon.com/de/blogs/compute/managing-multi-tenant-apis-using-amazon-api-gateway/)
 * [AWS AG의 WebSocket의 default - 이상선 - Medium](https://medium.com/@sunyi233/aws-ag%EC%9D%98-websocket%EC%9D%98-default-4fc71fa06fd8)
+* [셀렉트스타의 Amazon API Gateway WebSocket 을 활용한 AI Red teaming API 스트림 처리 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-selectstar-builds-ai-redteaming-websocket-api-with-amazon-apigateway/)
 * [웹 소켓 연결 받는 법 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9-%EC%86%8C%EC%BC%93-%EC%97%B0%EA%B2%B0-%EB%B0%9B%EB%8A%94-%EB%B2%95-d717f18f1117)
 * [Serverless Architecture using AWS Lambda, API Gateway and DynamoDB](https://morioh.com/p/915be75bf31c)
 * [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
