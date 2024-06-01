@@ -216,6 +216,7 @@ Deep Learning
   * [openai api code 429, You exceeded your current quota, please check your plan and billing details 에러 해결하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85/openai-api-code-429,-you-exceeded-your-current-quota,-please-check-your-plan-and-billing-details-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/)
   * [OpenAI와 일론 머스크 | GeekNews](https://news.hada.io/topic?id=13682)
   * [Hello GPT-4o | OpenAI](https://openai.com/index/hello-gpt-4o/)
+    * [모두의AI GPT-4o와 업무 효율 높이기 온라인 특강 자료](https://mo-ai.notion.site/AI-GPT-4o-f2ba9625939c4a9bbc4835393699f01d)
   * [OpenAI의 ChatGPT MacOS App 일부 사용자 대상 공개 및 출시 | GeekNews](https://news.hada.io/topic?id=14848)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
