@@ -364,6 +364,7 @@ Go
 * [업무에 손쉽게 Golang 적용하기: 로케이션 코어팀 백엔드 개발자가 일하는 방식 | by Sally | 당근 테크 블로그 | May, 2024 | Medium](https://medium.com/daangn/%EC%97%85%EB%AC%B4%EC%97%90-%EC%86%90%EC%89%BD%EA%B2%8C-golang-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98-%EC%BD%94%EC%96%B4%ED%8C%80-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-d2201319212a)
 * [Structural Typing과 객체지향 설계 | by Choi Geonu | May, 2024 | Medium](https://choi-geonu.medium.com/structural-typing%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-56bf95ea433a)
 * [What is the GOTH stack? Quickly build web apps using Go, Templ, and Htmx #FAST - YouTube](https://www.youtube.com/watch?v=L1D9zJ-Yn9U)
+* [Go 언어 - 성급한 추상화](https://velog.io/@kineo2k/Go-%EC%96%B8%EC%96%B4-%EC%84%B1%EA%B8%89%ED%95%9C-%EC%B6%94%EC%83%81%ED%99%94)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -1132,6 +1133,7 @@ Go
 * [Learning Go by examples Series' Articles - DEV Community](https://dev.to/aurelievache/series/13751)
 * [Learn GO Fast: Full Tutorial - YouTube](https://www.youtube.com/watch?v=8uiZC0l4Ajw)
 * [Learn Golang with Projects for Beginners](https://morioh.com/p/c889427ac08a)
+* [The Ultimate Go Study Guide](https://ultimate-go-korean.github.io/translation/)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
@@ -1162,6 +1164,7 @@ Go
 * [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
   * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
   * [Introducing Caddy-SSH | Caffeinated Wonders](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
+  * [Caddy 2.8.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15116)
 * [colly: Elegant Scraper and Crawler Framework for Golang](https://github.com/gocolly/colly)
   * [Web Scraping with Colly in Golang - YouTube](https://www.youtube.com/watch?v=FKspgoncU8U)
   * [rhino-scraper: Learn how to build a web scraper with Go and colly. Video tutorial available on the Div Rhino YouTube channel.](https://github.com/divrhino/rhino-scraper)
