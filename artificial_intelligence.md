@@ -209,6 +209,7 @@ Artificial Intelligence
   * [VidiGo VDBUH2024 - Olimpiu Pop & Steve Poole - AI Showd](https://vidigo.ai/share/summary/706c30ce96cf)
   * [VDBUH2024 - 올림피우 팝 & 스티브 풀 - AI 대결: 좋은 점, 결함, 그리고 위험한 점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526867)
 * [배민선물하기 AI 메시지 제작기: 생성 AI가 센스 있는 선물 메시지를 대신 쓰기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17241/)
+* [머신러닝 엔지니어가 퍼즐 게임을 더 재미있게 만드는 방법](https://tech.devsisters.com/posts/ml-engineer-better-puzzle-game/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -338,6 +339,8 @@ Artificial Intelligence
 * [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
   * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
+* [Screenshot to Code](https://screenshottocode.com/)
+  * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
