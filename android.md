@@ -369,6 +369,7 @@ Android
 * [Pluu Dev - 요약 How to build a data layer (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-How_to_build_a_data_layer/)
 * [Pluu Dev - 요약 What's new in Android development tools (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-whats-new-in-android-development-tools/)
 * [Pluu Dev - 요약 Best practices for saving UI state on Android (Google I/O '23)](https://pluu.github.io/blog/android/io23/2023/06/03/io23-Best_practices_for_saving_UI_state_on_Android/)
+* [Pluu Dev - 요약 What's new in Android development tools (Google I/O '24)](https://pluu.github.io/blog/android/io23/2024/05/26/io24-whats-new-in-android-development-tools/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
@@ -493,6 +494,7 @@ Android
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Develop your app's layout](https://pluu.github.io/blog/android/2024/05/12/compose/)
   * [Pluu Dev - 메모 Compose 가이드 문서 ~ Components](https://pluu.github.io/blog/android/2024/05/19/compose/)
   * [Pluu Dev - 메모 Compose 가이드 문서 ~ Theming](https://pluu.github.io/blog/android/2024/05/23/compose/)
+  * [Pluu Dev - 정리 Compose 가이드 문서 ~ Text and typography](https://pluu.github.io/blog/android/2024/05/25/compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
