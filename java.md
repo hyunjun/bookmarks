@@ -2161,6 +2161,8 @@ Java
 * [요령과 기본(Spring)](https://taes-k.github.io/docs/trick_basic)
 * [Spring Camp 2017 1부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_1%EB%B6%80)
 * [Spring Camp 2017 2부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_2%EB%B6%80)
+* [분위기가 확실히 달랐던 SpringCamp2024 - 👨💻꿈꾸는 태태태의 공간](https://taetaetae.github.io/posts/review-springcamp2024/)
+* [Spring Camp 2024 후기](https://yeonyeon.tistory.com/331)
 * [Spring Framework Documentation -1](https://woolbro.tistory.com/8)
 * [Spring Framework Documentation -2](https://woolbro.tistory.com/16)
 * [Spring Framework Documentation -3](https://woolbro.tistory.com/18)
