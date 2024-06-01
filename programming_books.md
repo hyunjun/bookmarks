@@ -4440,6 +4440,7 @@ Programming Books
   * [켄트 벡의 Tidy First? 역자 인터뷰 2부 | 베터코드 안영회 X 한빛앤 임백준 - YouTube](https://www.youtube.com/watch?v=X3h9yS9S26M)
   * [Book 켄트 벡의 Tidy First? - 더 나은 소프트웨어 설계를 위한 32가지 코드 정리법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1721)
   * [우리회사는 Tidy First? - YouTube](https://www.youtube.com/watch?v=Zzylm4Xkfc8)
+  * [Tidy First](https://velog.io/@joosing/Tidy-First)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
