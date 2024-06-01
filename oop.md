@@ -417,6 +417,7 @@
 * [Do Functions Make Design Patterns Obsolete? - YouTube](https://www.youtube.com/watch?v=vzTrLpxPF54)
 * [The State Design Pattern in Python Explained - YouTube](https://www.youtube.com/watch?v=5OzLrbk82zY)
 * [Deep Dive Into the Repository Design Pattern in Python - YouTube](https://www.youtube.com/watch?v=9ymRLDfnDKg)
+* [AI 코딩 AI와 디자인패턴으로 코드 리팩토링하기 | Daily Log](https://jiyeonseo.github.io/2024/05/31/refactoring-design-pattern-with-ai/)
 * [**betterpython: Code examples for my Write Better Python Code series on YouTube**](https://github.com/arjancodes/betterpython)
   * [**Software Design in Python - YouTube**](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 * [**python-patterns: A collection of design patterns/idioms in Python**](https://github.com/faif/python-patterns)
