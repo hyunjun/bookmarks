@@ -831,6 +831,7 @@ Apache
 * [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF · allegro.tech](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html) filesystem을 ext4 -> xfs로 변경 이득을 얻음
 * [java 카프카는 왜 빠를까? | frogred8](https://frogred8.github.io/docs/034_why_is_kafka_fast/)
   * [kafka는 왜 빠를까? | GeekNews](https://news.hada.io/topic?id=14890)
+* [우리팀은 카프카를 어떻게 사용하고 있을까 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17386/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
