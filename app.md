@@ -1964,6 +1964,7 @@ App
   * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
 * AllDUP [How-To : 무료 소프트웨어로 중복 사진을 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/226129)
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
+* [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/297)
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
