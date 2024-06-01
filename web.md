@@ -48,6 +48,9 @@ Web
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
 * [웹 애니메이션을 구현하는 4가지 방법 (feat. animation API) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220630-four-ways-web-animation/)
+* [What's New in Web Animations - YouTube](https://www.youtube.com/watch?v=XKRLt3UPbmU)
+* [API 없이 웹 애니메이션 구현: 인터랙티브 웹 개발 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/dion-interactive-animation/)
+* [API 없이 웹 애니메이션 구현: 인터랙티브 웹 개발 2편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/dion-interactive-animation-2/)
 * [애니메이티드 커서 적용하기](https://miriya.net/blog/cljt1vroo0001wbs5usxscp79)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
@@ -220,6 +223,7 @@ Web
 * [사람인 접근성 개선 회고](https://saramin.github.io/2023-01-02-saramin-a11y/)
 * ['Tech-Verse 2022' 웹 접근성 향상을 위한 노력](https://engineering.linecorp.com/ko/blog/tech-verse2022-web-a11y)
 * [웹 접근성 준수를 통한 모두에게 배달되는 일상의 행복 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15541/)
+* [드래그 앤 드롭은 사실 편한 UX가 아니다?](https://toss.tech/article/27752)
 * [WAI-ARIA: role과 aria-label 사용법](https://velog.io/@a_in/WAI-ARIA-role-aria-label)
 * [‘액세서빌리티 인사이트’로 누구나 접근할 수 있는 코드 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/229234) accessibility
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
@@ -395,7 +399,6 @@ Web
   * 올해는 Microsoft Edge를 크롬과 별도로 구분해서 보여주기 시작
     * 접근성, 웹소켓용 HTTPS URL, CSS Nesting, CSS 커스텀 프로퍼티(`@property`), 선언적 쉐도우 DOM, 레이아웃, 스크롤바 스타일 등
 * [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
-* [What's New in Web Animations - YouTube](https://www.youtube.com/watch?v=XKRLt3UPbmU)
 * [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
 * [Domain Registrars which Developers Recommend](https://newsletter.pragmaticengineer.com/p/domain-registrars-which-developers)
   * [개발자들이 추천하는 Domain Registrar는? | GeekNews](https://news.hada.io/topic?id=9578)
@@ -930,6 +933,7 @@ Web
   * 특정 HTML 요소에 CSS로 `anchor-name: --NAME`처럼 설정하면 앵커 설정 가능
   * 다른 요소에서 `position-anchor:`로 앵커의 이름을 지정하면 `anchor()` 함수로 특정 요소를 기준으로 요소의 위치 지정 가능
   * 이 API를 사용하면 툴팁 등 특정 요소를 기반으로 요소의 위치를 아주 쉽게 잡는 게 가능
+* [CSS의 5가지 position 속성 값 기본 정리 | 달레의 웹 프로그래밍 - YouTube](https://www.youtube.com/watch?v=PEyp9TBcZ-o)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -2427,6 +2431,8 @@ Web
 * [soketi](https://soketi.app/)
   * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
+* [WebSocketChatApp2: Chat Application with Redis and Postgres intergration.](https://github.com/hkateu/WebSocketChatApp2)
+  * [WebSockets in Scala, Part 2: Integrating Redis and PostgreSQL - Rock the JVM Blog](https://blog.rockthejvm.com/scala-redis-websockets-part-2/)
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)
