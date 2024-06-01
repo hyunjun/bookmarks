@@ -305,6 +305,8 @@ Javascript
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 * [Implementing a Simple Compiler on 25 Lines of JavaScript · Minko Gechev's blog](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
+* [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
+* [Transpiler, “사용”말고 “활용”하기](https://toss.tech/article/27750)
 * [JavaScript Weekly: Making Sense of Closures](https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2e0b56f88)
 * [A basic guide to Closures in JavaScript](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
 * [Discover the power of closures in JavaScript](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
@@ -701,7 +703,6 @@ Javascript
 * [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
 * [용어 정리 js에서 iterable, iterator란 무엇일까? | 웹으로 말하기](https://mytory.net/2021/09/22/what-is-iterable-in-js.html)
 * [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
-* [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
 * [How to code a chatbot tailored for web apps like Google Maps](https://medium.com/free-code-camp/how-to-code-a-chatbot-tailored-for-web-apps-like-google-maps-cf97fc090676)
 * [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531) reactive
@@ -2875,6 +2876,7 @@ Javascript
 * [A build system for the JavaScript ecosystem | moon](https://moonrepo.dev/)
 * [The JavaScript Ecosystem is Delightfully Weird · Fly](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
   * [(번역) 유쾌하게 이상한 자바스크립트 생태계](https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird)
+* [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager) npm, pnpm, yarn
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
   * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
@@ -6003,6 +6005,8 @@ Javascript
 * [전개연산자는 왜 샌드위치를 망쳤을까?](https://velog.io/@hyemin916/%EC%A0%84%EA%B0%9C%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EB%A7%9D%ED%95%9C-%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84)
 * [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
 * [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17404/)
+* [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 2. 실전 편 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17721/)
+* [프론트엔드 테스트 환경 설정하기 — React와 TypeScript를 좋아하는 개발자](https://xionwcfm.tistory.com/460)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
