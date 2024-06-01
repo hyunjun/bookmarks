@@ -2814,6 +2814,7 @@ Programming
 * [**FEConf 2023 대형 웹 애플리케이션 Micro Frontends 전환기 - Speaker Deck**](https://speakerdeck.com/mmmaxkim/feconf-2023-daehyeong-web-aepeulrikeisyeon-micro-frontends-jeonhwangi)
 * [주도적으로 설계하는 MFA 1탄](https://velog.io/@leehyunho2001/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-MFA-1%ED%83%84)
 * [Micro Frontends: the Evolution of Frontend Architecture - YouTube](https://www.youtube.com/watch?v=W4biNjfmvvI)
+* [마이크로프론트엔드 언제, 어떻게 사용해야 할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/05/29/micro-frontend/)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
 * [Module Federation의 컨셉과 작동 원리 이해하기](https://maxkim-j.github.io/posts/module-federation-concepts/)
   * 모듈 단위로 배포 후 브라우저 런타임에서 합체시키는 Module Federation 설명
@@ -3811,6 +3812,8 @@ Programming
 * [The Pros and Cons of DRY Code - Qvault](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 * [DRY makes your code 500% better · intermediate Java code review - YouTube](https://www.youtube.com/watch?v=uD37ZTosqmI)
 * [DRY Software Patterns & Microservices • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=KUD7I995uV8)
+* [Google Testing Blog: Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
+  * [코드를 성급하게 DRY하지 마세요 | GeekNews](https://news.hada.io/topic?id=15102)
 * [Beyond Coupling and Cohesion: Strategies For Un-Fucking Yourself – Pursuit Of Laziness – A blog by Jesse Duffield](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
@@ -5605,6 +5608,7 @@ Programming
     * 이 슬로건처럼 통신을 통해 공유를 하는 방식을 생각해볼 수 있을텐데
   * 불변으로 하는 경우는 읽기에만 제한적으로 사용할 수 있다는 걸 고려하면
   * 통신을 통해 공유하는 건 queue를 사용해 architecture를 확장하는 측면으로 생각해봐도 좋을 거 같다
+* [Message Broker - 카프카와 RabbitMQ를 알아보자 - YouTube](https://www.youtube.com/watch?v=0lyrd5FlETQ)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
