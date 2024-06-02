@@ -3095,6 +3095,8 @@ Javascript
 * [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
   * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
+  * [How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password](https://blog.1password.com/new-extension-build-system/)
+    * [1Password가 esbuild로 브라우저 확장 빌드 시간을 90% 단축한 방법 | GeekNews](https://news.hada.io/topic?id=15130)
 * [esbuild-loader: ⚡️ Speed up your Webpack build with esbuild](https://github.com/privatenumber/esbuild-loader)
   * [Webpack 빌드에 날개를 달아줄 Esbuild-Loader | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220707-webpack-esbuild-loader/)
 * [Parcel 한국어판](https://ko.parceljs.org/)
