@@ -432,6 +432,9 @@ Programming
     * 희망은 전략이 아니다
     * 서비스 성장에 따라 유지보수를 비선형적으로 확장해라
     * 모든 인시던트가 새롭기를 바란다
+* [Dev Harmony: Communication & Proven SRE Practices • Liz Fong-Jones & Marit van Dijk - YouTube](https://www.youtube.com/watch?v=A3UHaqbbR8Y)
+  * [VidiGo Dev Harmony: Communication & Proven SRE Practices](https://vidigo.ai/share/summary/aae882e9f49b)
+  * [개발자 하모니: 커뮤니케이션 및 입증된 SRE 사례 - Liz Fong-Jones & Marit van Dijk | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/722802)
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
@@ -3064,6 +3067,7 @@ Programming
   * [Part3: MSA vs 모놀리식 성능 비교](https://blog.naver.com/wharup/223207677924)
 * [MSA의 독립적인 배포는 그게 아니에요 : 네이버 블로그](https://blog.naver.com/wharup/223268819220)
 * [MSA 서비스간 장애 전파 및 개선 Part1 : 네이버 블로그](https://blog.naver.com/wharup/223415095428)
+* [MSA 서비스간 장애 전파 및 개선 Part2 : 네이버 블로그](https://blog.naver.com/wharup/223463090712)
 * [Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix - YouTube](https://www.youtube.com/watch?v=TOM6UhCetQ0)
 * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법 | GeekNews](https://news.hada.io/topic?id=11498)
   * [권정혁 - Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://www.facebook.com/xguru/posts/pfbid0CfUJ9s6k53HyAed1TDxkfs4kvxTunbnWeQnRCrcxyC2MWrsbQdMJtB8B6vaVNCANl)
