@@ -2930,6 +2930,7 @@ Business
 * [서비스 기획자의 뷰티컬리로 확장하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/expand-to-Beauty-Kurly/)
 * [ChatGPT를 PM의 '어시스턴트'로 만드는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2436/)
 * [Pre-mortem으로 비즈니스 가설을 사전에 검증한다](https://brunch.co.kr/@yongjinjinipln/126)
+* [프로젝트 주인들의 소리없는 전쟁(Feat.AI)](https://eopla.net/magazines/16867)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
