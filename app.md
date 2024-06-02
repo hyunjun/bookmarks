@@ -2490,6 +2490,8 @@ App
 * [“인터넷 음지도 안전하게 서핑” 윈도우 ‘샌드박스’ 기능 활용하기 - ITWorld Korea](https://www.itworld.co.kr/news/329461)
 * [게임 및 저사양에 최적화 된 윈도우 11 플래티넘 OS 23H2 22631 2428 최신 빌드 (No TPM , Scure Boot, 4Gb) - YouTube](https://www.youtube.com/watch?v=rfkdd4OYgsE)
   * [저사양 최적화 윈도우 11 Platinum OS 23H2 22631.2428 최신 빌드 - 인포헬풀](https://infohelpful.com/%EC%A0%80%EC%82%AC%EC%96%91-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9C%88%EB%8F%84%EC%9A%B0-11-platinum-os-23h2-22631-2428-%EC%B5%9C%EC%8B%A0-%EB%B9%8C%EB%93%9C/)
+* [프라이버시 악몽 같은 Windows Recall | GeekNews](https://news.hada.io/topic?id=15131)
+* [Copilot+ Recall은 2줄의 코드만으로 윈도우의 모든 입력과 보고 있는 것을 훔치 | GeekNews](https://news.hada.io/topic?id=15124)
 * 복구
   * [시놀로지 액티브 백업, 매번 윈도우 재설치 & 세팅이 필요없는 이유 (신나따 Ep.03) - YouTube](https://www.youtube.com/watch?v=pgRrusI5raE)
   * [recuva](https://www.piriform.com/recuva)
