@@ -2391,6 +2391,8 @@ NLP
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
   * [langchain-kr: LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다](https://github.com/teddylee777/langchain-kr)
     * [#langchain 밋업 발표 R.A.G. 우리가 절대 쉽게 결과물을 얻을 수 없는 이유 - YouTube](https://www.youtube.com/watch?v=NfQrRQmDrcc)
+  * [langchain-python-basic: langchain-python-basic book](https://github.com/sw-woo/langchain-python-basic/tree/main)
+    * [langchain-python-basic/rangserve-fastapi-server at main · sw-woo/langchain-python-basic · GitHub](https://github.com/sw-woo/langchain-python-basic/tree/main/rangserve-fastapi-server)
   * [langchain-tutorials: A set of LangChain Tutorials from my youtube channel](https://github.com/samwit/langchain-tutorials)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
   * [🦜🕸️LangGraph | 🦜️🔗 Langchain](https://python.langchain.com/docs/langgraph)
@@ -2614,6 +2616,8 @@ NLP
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
+* [PaperSorter: Sends alerts to a Slack channel for potentially interesting new articles selected from RSS feeds](https://github.com/ChangLabSNU/PaperSorter)
+  * [장혜식 - 논문이 너무 많이 나옵니다. 10년 전에 비해 저널도 많이 늘었지만 특히 프리프린트 때문에 두세배는 더... | Facebook](https://www.facebook.com/hyeshik/posts/pfbid0yTvWKy2w2vmTpuHwdjmHpEZiSJnM6vd5o7Lb1Pjg9oR9RFrf89wtKdtSTFkRxxJkl)
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
   * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
@@ -2792,6 +2796,7 @@ NLP
   * [kogpt at web-app](https://github.com/noah-ko/kogpt/tree/web-app)
 * [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
 * [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
+* [KoGPT2-FineTuning: 🔥 Korean GPT-2, KoGPT2 FineTuning cased. 한국어 가사 데이터 학습 🔥](https://github.com/gyunggyung/KoGPT2-FineTuning)
 * [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
 * [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
 * [LLM Visualization](https://bbycroft.net/llm)
