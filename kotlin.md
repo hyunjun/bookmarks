@@ -524,6 +524,7 @@
 * kotless [KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov - YouTube](https://www.youtube.com/watch?v=69uk3Pi88AE&list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl&index=10)
   * [Kotlin JDSL: Kotlin을 이용해 손쉽게 Reactive Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-reactive-criteria-api-with-kotlin/)
   * [JPA 맘에 안들어서 쿼리 라이브러리 만든 썰 | Kotlin JDSL part.1 - YouTube](https://www.youtube.com/watch?v=-Kdr6qq6uJI)
+* [kotlin-magazine: fun code() – A magazine for Kotlin™ developers](https://github.com/kotlin-magazine/kotlin-magazine)
 * [Kotlin NoteBook In Intellij](https://devroach.tistory.com/176)
   * [kotlin-notebook-example](https://github.com/tmdgusya/kotlin-notebook-example)
 * [kotlinx-atomicfu: The idiomatic way to use atomic operations in Kotlin](https://github.com/Kotlin/kotlinx-atomicfu)
