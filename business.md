@@ -716,6 +716,7 @@ Business
 * [5,000억 회사 창업자가 말하는 쉬운 비즈니스와 어려운 비즈니스 (feat. 86년생)](https://maily.so/unsexybusinesskr/posts/9c2c8920)
 * [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
 * [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
+* [나의 첫 번째 성공적인 사업 TinyPilot을 매각 완료했어요 | GeekNews](https://news.hada.io/topic?id=15151)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
