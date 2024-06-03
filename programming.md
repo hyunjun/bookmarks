@@ -7636,6 +7636,9 @@ Programming
 * [The Most Dangerous Phrase • Daniel Terhorst-North • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=WPCrGYjrJ1Y)
   * [VidiGo The Most Dangerous Phrase • Daniel Terhorst-North](https://vidigo.ai/share/summary/259dedfe82b4)
   * [가장 위험한 문구 - 다니엘 터호스트-노스 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/677804)
+* [How Work Works & Other Curiosities • James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=_TnWe9z6xkE)
+  * [VidiGo How Work Works & Other Curiosities • James Lewis •](https://vidigo.ai//share/summary/1b68d2d0e134)
+  * [업무의 작동 방식 및 기타 궁금증 - 제임스 루이스 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/727354)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
