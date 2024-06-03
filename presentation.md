@@ -96,5 +96,7 @@ Presentation
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
   * [slides.com/news/code-line-numbers](https://slides.com/news/code-line-numbers/)
+* [slipshow: An engine for displaying slips, the next-gen version of slides](https://github.com/panglesd/slipshow)
+  * [slipshow - 슬라이드 기반이 아닌 기술 발표용 도구 | GeekNews](https://news.hada.io/topic?id=15136)
 * [snappify - Create beautiful code snippets with ease](https://snappify.com/)
 * [**spectacle-code-slide**](https://github.com/thejameskyle/spectacle-code-slide)
