@@ -169,6 +169,7 @@
   * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
 * [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
   * DI와 DIP의 차이
+* [의존성 역전의 원칙 제대로 이해하기 - YouTube](https://www.youtube.com/watch?v=CwzOiLQgkbs)
 * [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
 * [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/) react IoC
 * [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
