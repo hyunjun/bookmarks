@@ -463,6 +463,7 @@ Artificial Intelligence
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
+* [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
