@@ -606,6 +606,7 @@ Artificial Intelligence
 * [AI로 피팅모델을 '생성'하고 실제 의류를 합성합니다 | 개발자 브이로그 - YouTube](https://www.youtube.com/watch?v=bRxymNcxjNI)
 * [ToonCrafter: a research paper for generative cartoon interpolation](https://github.com/ToonCrafter/ToonCrafter)
   * [ToonCrafter - a Hugging Face Space by Doubiiu](https://huggingface.co/spaces/Doubiiu/tooncrafter)
+  * [AI 뉴스 - 애니메이션 제작 ToonCrafter, 일레븐랩스 효과음 AI, 머스크 키보드배틀, 라마3-V, GPT-5 루머 등 - YouTube](https://www.youtube.com/watch?v=KLbTaePK82I)
 * [VIGGLE](https://viggle.ai/)
   * [AI로 사진이 춤을 하게 할 수 있습니다 | Viggle AI를 활용하여 이미지에 모션을 부여하는 방법 - YouTube](https://www.youtube.com/watch?v=lzbVtZwkU3w)
 
