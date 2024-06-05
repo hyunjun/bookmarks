@@ -1044,6 +1044,7 @@ AWS
   * [백만 달러짜리 코드 라인: 클라우드 비용 최적화에 대한 엔지니어링 관점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/605380)
 * [클라우드 비용 최적화 로드맵 #1 - 연재를 시작하며 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9415)
 * [클라우드 비용 최적화 로드맵 #2 - 비용을 자세히 보기 위한 준비 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9824)
+* [헉! AWS 요금이 많이 나올까 무섭다면? - MFA 인증, AWS IAM, Budget으로 예방하는 방법 - YouTube](https://www.youtube.com/watch?v=Zq8fR4U6eOo)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
