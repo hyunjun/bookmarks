@@ -2493,6 +2493,8 @@ NLP
       * [순수 NumPy로 구현하는 라마 3 모델 | GeekNews](https://news.hada.io/topic?id=14856)
     * [Python Llama3를 파인튜닝을 통해 나만의 데이터로 학습 및 Huggingface에 적재해보자. - 미완성의신](https://unfinishedgod.netlify.app/2024/05/24/python/)
     * [Kyoungsu Park on LinkedIn: #llama3 #langchain #chatbot](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llama3-langchain-chatbot-activity-7197549384434130944-KHVr) Llama3 70B와 LangChain으로 한국어 Chatbot, bedrock
+    * [llama3.cuda: llama3.cuda is a pure C/CUDA implementation for Llama 3 model](https://github.com/likejazz/llama3.cuda)
+      * [llama3.cuda: pure C/CUDA implementation for Llama 3 model : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1d6q7qh/llama3cuda_pure_ccuda_implementation_for_llama_3/)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
     * [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars | by Aksh Garg | May, 2024 | Medium](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
       * [Llama 3-V - GPT4-V와 동등한 성능을 100배 작은 모델과 500달러로 구현하 | GeekNews](https://news.hada.io/topic?id=15076)
@@ -2851,6 +2853,7 @@ NLP
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
 * [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
+* [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
 * [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
