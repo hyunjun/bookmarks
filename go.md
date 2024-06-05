@@ -695,6 +695,8 @@ Go
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
 * [gitqlite: Query git repositories with SQL. Uses SQLite virtual tables and go-git](https://github.com/augmentable-dev/gitqlite)
+* [glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+  * [Glance - 모든 Feed를 하나로 모아보는 셀프호스트 대시보드 | GeekNews](https://news.hada.io/topic?id=15095)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
