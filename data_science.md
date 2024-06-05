@@ -1085,6 +1085,8 @@ Data Science
 * [Machine Learning Recommender System With Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
 * [상품 추천 알고리즘 Item-CF의 최적화 여정](https://tech.buzzvil.com/blog/optimizing-itemcf/)
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
+* [recommender_system_with_Python: recommender system tutorial with Python](https://github.com/lsjsj92/recommender_system_with_Python)
+  * [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/670)
 * [Recommender Utilities — Microsoft Recommenders 1.1.0 documentation](https://microsoft-recommenders.readthedocs.io/)
   * [recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
   * [recommenders/examples at main · microsoft/recommenders](https://github.com/microsoft/recommenders/tree/main/examples)
