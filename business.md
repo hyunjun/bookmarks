@@ -2297,6 +2297,7 @@ Business
 * [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
 * [시니어 리더가 해야 하는 일](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%A4%EB%B2%84%EB%93%A4%EC%9D%B4-activity-7194786293128523776-YWAa/)
 * [I’ll take it from here (여기서부터는 제가 할게요) – 조성문의 블로그](https://sungmooncho.com/2024/05/26/ill-take-it-from-here-%ec%97%ac%ea%b8%b0%ec%84%9c%eb%b6%80%ed%84%b0%eb%8a%94-%ec%a0%9c%ea%b0%80-%ed%95%a0%ea%b2%8c%ec%9a%94/)
+* [스타트업 팀이 지속적으로 움직이기 위한 리더십 간단 버전 | Novemberde's Blog](https://novemberde.github.io/post/2024/06/04/simple-leadership-principles/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3666,6 +3667,7 @@ Business
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향) | Univdev](https://univdev.page/posts/focuskeeper-renewal/)
+* [Zero UI 시대, UI의 미래는 어디로 향하는가?](https://eopla.net/magazines/17036)
 * [UI Density || Matthew Ström, designer-leader](https://matthewstrom.com/writing/ui-density/)
   * [UI 밀도(Density)의 의미와 디자인 방법 | GeekNews](https://news.hada.io/topic?id=14932)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
