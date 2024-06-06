@@ -465,6 +465,8 @@ App
   * [워드프레스 백업과 복원은 웹 파일과 DB를 한 쌍으로 맺어야 한다 - 넷마블 기술 블로그](https://netmarble.engineering/wordpress-backup-and-restore/)
   * [Studio by WordPress.com – WordPress.com Developer Resources](https://developer.wordpress.com/studio/)
     * [Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구 | GeekNews](https://news.hada.io/topic?id=14858)
+    * [Meet Studio: Your New Favorite Way to Develop WordPress Locally – WordPress.com News](https://wordpress.com/blog/2024/04/24/studio/)
+      * Wordpress의 로컬 개발 환경을 쉽게 구축할 수 있도록 Studio 공개, Studio를 사용하면 로컬에서 Wordpress를 실행하고 작업 중인 사이트를 공유 가능
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
