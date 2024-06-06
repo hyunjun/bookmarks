@@ -223,6 +223,14 @@ Web
 * [사람인 접근성 개선 회고](https://saramin.github.io/2023-01-02-saramin-a11y/)
 * ['Tech-Verse 2022' 웹 접근성 향상을 위한 노력](https://engineering.linecorp.com/ko/blog/tech-verse2022-web-a11y)
 * [웹 접근성 준수를 통한 모두에게 배달되는 일상의 행복 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15541/)
+* [Rethinking Text Resizing on Web. Airbnb has made significant strides in… | by Steven Bassett | The Airbnb Tech Blog | May, 2024 | Medium](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+  * Airbnb가 접근성을 높이기 위해 WCAG의 권고에 따라 텍스트 크기를 2배로 키웠을 때도 웹 콘텐츠와 기능이 유지되도록 개선한 과정
+  * 텍스트의 단위에 px, em, rem이 있지만 일관되고 예측할 수 있는 rem 선택
+    * 후처리 도구를 만들어서 CSS에서 작성한 px를 자동으로, rem으로 변환
+    * Figma 플러그인을 만들어서 디자인 단계에서 텍스트가 커졌을 때의 문제를 미리 확인 가능하게
+    * 데스크톱은 확대에 대한 영향이 크지 않았지만, 모바일에서는 영향이 심했고 브라우저가 차이도 있었지만, rem 자동 변환을 통해서 쉽게 적용 가능
+* [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
+  * [WCAG 2.2 한국어 번역본 공개 · 취향의 흔적](https://resistan.com/wcag22-korean-translation/)
 * [드래그 앤 드롭은 사실 편한 UX가 아니다?](https://toss.tech/article/27752)
 * [WAI-ARIA: role과 aria-label 사용법](https://velog.io/@a_in/WAI-ARIA-role-aria-label)
 * [‘액세서빌리티 인사이트’로 누구나 접근할 수 있는 코드 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/229234) accessibility
@@ -1042,8 +1050,11 @@ Web
 * [DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching](https://github.com/graphql/dataloader)
 * [Maximizing GraphQL's Potential: Netflix's Federated Journey Unveiled - YouTube](https://www.youtube.com/watch?v=Vgad72oSjw4)
 * [GraphQL - 한 방에 이해하기 - YouTube](https://www.youtube.com/watch?v=lYuWfoWD67Q)
-* [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+* [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql)
   * [6년 만에 GraphQL을 그만둔 이유 | GeekNews](https://news.hada.io/topic?id=15097)
+  * 오랫동안 GraphQL을 사용해왔고 옹호했지만, 최근에 그 입장이 변경되어 더는 추천하지 않는 이유를 정리한 글
+  * 클라이언트에 쿼리 언어를 노출했기에 권한 부여나 Rate limit 같은 공격 표면 증가, N+1 성능 문제 경험
+  * GraphQL에서는 비즈니스 로직이 전송 계층으로 이동되기 때문에 커플링이 심해지고 복잡해지는 문제 존재
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
@@ -1070,6 +1081,9 @@ Web
 * [background-image 대신 img 태그를 사용하자](https://careerly.co.kr/comments/77523)
 * [Your website does not need JavaScript - Amy Kapernick - Copenhagen DevFest 2023 - YouTube](https://www.youtube.com/watch?v=wKU65gV6FSA)
 * [노드 간의 포함관계를 확인하는 contains - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/912)
+* [State of HTML 2023](https://2023.stateofhtml.com/)
+  * HTML 생태계의 상황을 2만여 명에게 설문 조사해서 정리한 결과
+  * From, 상호작용, 접근성 등 각 기능의 사용 여부와 알려진 정도를 살펴볼 수 있고 정적 사이트 생성기나 API의 사용 정도 파악 가능
 * [HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
