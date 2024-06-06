@@ -39,6 +39,7 @@ Baby
     * 그럴 수도 없고 또 장점도 존재
     * 하지만 중독성이 또 하나의 큰 문제이고 분노 지수를 높인다는 건 현재 확실해보임
   * 쇼츠도 그렇고 짧은 시간에 소비할 수 있는게 더 위험. 차라리 넷플릭스같은 게 그나마 나음(덜 중독적)
+* [어떤 상황에서도 아들을 설득해내는 무적의 설득법 최민준 - YouTube](https://www.youtube.com/watch?v=fqVUArIoN0Q)
 
 # 육아휴직
 * [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
