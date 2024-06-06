@@ -472,6 +472,11 @@ SQL
 * [PostgreSQL 14 Internals : Postgres Professional](https://postgrespro.com/community/books/internals)
 * [PostgreSQL 14 Internals, Part II : Postgres Professional](https://postgrespro.com/blog/pgsql/5969682)
 
+# Conference
+* [VDTRIESTE24 Going beyond ORMs - Conference by Andres Almiray - YouTube](https://www.youtube.com/watch?v=dRU_5SNy-FY)
+  * [VidiGo VDTRIESTE24 Going beyond ORMs - Conference by An](https://vidigo.ai/share/summary/03fbe79e9151)
+  * [VDTRIESTE24 ORM을 넘어서 - 안드레스 알미레이의 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740557)
+
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
 * [A Database Model for Simple Board Games](http://www.vertabelo.com/blog/technical-articles/a-database-model-for-simple-board-games)
