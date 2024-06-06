@@ -1468,6 +1468,7 @@ Docker
     * startup/readiness/liveness 프로브도 지원
     * 일반 컨테이너가 모두 종료되면 종료되는 특징
     * 이 동작을 이해할 수 있는 그림과 함께 예제도 제공해서 이해하기 좋음
+* [쿠버네티스 네이티브 사이드카 컨테이너 (Sidecar Containers)](https://d2.naver.com/helloworld/5564264)
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
