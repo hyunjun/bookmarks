@@ -503,6 +503,12 @@ Interview
     * [System Design Interview: Search Engine](https://www.hackpack.io/problems/search-engine)
     * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
     * [Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - YouTube](https://www.youtube.com/watch?v=0LTXCcVRQi0)
+    * [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
+      * 특정 사용자가 서비스의 리소스를 모두 차지하지 않도록 하는 Rate Limit의 구현 방법 설명
+      * Fixed window 가장 간단하고 사용자가 예측하기 쉽지만, 창 시작 시에 요청이 몰리거나 창의 시간이 긴 경우 타임존의 영향 가능
+      * Sliding window 동시에 받을 수 있는 개수를 제한해서 요청을 원활하게 분산할 수 있지만 리소스 많이 필요
+      * Token bucket 버킷에 토큰이 있어야만 요청을 보낼 수 있고 일정 시간 간격으로 버킷이 채워지는 형태라 유연하지만, 사용자 예측성이 떨어짐
+      * 각 방식을 애니메이션으로 보여주어 이해 용이
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
