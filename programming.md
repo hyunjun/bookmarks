@@ -540,6 +540,7 @@ Programming
 * [좋은 팀 구성 및 개발 문화 조성의 중요성 | 요즘IT](https://yozm.wishket.com/magazine/detail/1738/)
 * [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
 * [우리는 개발 문화에 진심입니다 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/10639/)
+* [카카오페이 개발 문화, 다시 고민하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-dr-03/)
 * [Guide to Better Dev Culture. 믿음직한 라이프스타일 가이드 29CM의 개발 조직은 어떻게 협업하고… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/guide-to-better-dev-culture-590e905e2f5b)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
@@ -5178,6 +5179,7 @@ Programming
   * 배포 빈도, 변경 리드 타임, 평균 복구 시간, 실패율, 안정성으로 5가지 메트릭으로 응답자를 나누었을 때 중간 그룹이 69%로 많이 증가
     * 낮은 그룹도 7%에서 19%로 증
   * 보고서 전체는 [2022 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
+* [콴다 팀의 엔지니어링 조직문화. 좋은 조직문화를 위해 무엇을 하나요? | by Bruce Oh | Jun, 2024 | Team QANDA](https://blog.mathpresso.com/%EC%BD%B4%EB%8B%A4-%ED%8C%80%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-60df9136e050) DORA 바탕으로
 * [Practical Tips & Tricks for CI/CD Success • Zan Markan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=1oJXR-rEM5Y)
 * [DevOps Bus Technology - YouTube](https://www.youtube.com/channel/UClBlu3bJiq4zn1a3Vdg0LOQ)
 * [Top 5 DevOps Skills You Need To Succeed | ReviewNPrep](https://reviewnprep.com/blog/top-5-devops-skills-you-need-to-succeed/)
@@ -5789,6 +5791,7 @@ Programming
 
 # Mobile
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
+* [(책) 앱 개발 책 - 2023](https://brunch.co.kr/@topasvga/1452)
 * [Code on Mobile : C and Other Programming Languages. - YouTube](https://www.youtube.com/watch?v=7gZdAks-xaw) mobile compiler
 * [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
 * [해커는 왜 모바일 앱을 공격할까? 모바일 앱 해킹 유형과 보안 방법](https://liapp.lockincomp.com/ko/blog/blog-Post/mobile-app-hacking-and-protection/)
@@ -6575,6 +6578,7 @@ Programming
   * [기술 뉴스 #244 : 24-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1716)
   * [기술 뉴스 #245 : 24-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1719)
   * [기술 뉴스 #246 : 24-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1722)
+  * [기술 뉴스 #247 : 24-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1723)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -7313,6 +7317,7 @@ Programming
 * [How to Get Tech-Debt on the Roadmap - YouTube](https://www.youtube.com/watch?v=9dgGQBQq0OQ)
   * [VidiGo How to Get Tech-Debt on the Roadmap.mp4](https://vidigo.ai/share/summary/b1d7551641eb)
   * [로드맵에서 기술 부채를 얻는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/674061)
+* [기술 부채 어떻게 상환할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/05/technical-debt-return/)
 * [**조직 부채 해결책**](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EB%2525B6%252580%2525EC%2525B1%252584-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-2pije/)
 * [나이스 오류 - 핵심은 일을 시키는 사람이 혁신해야 한다](https://www.facebook.com/cjunekim/posts/pfbid0B4otSzBpBiE3cT8MkjbDDxWUZYnLPnriVyYvm9n5ueRFvWwEXEb59v4dWBzEzu2pl)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
