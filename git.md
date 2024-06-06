@@ -1423,6 +1423,11 @@ Git
       15. AI 활용으로 창의적 역할 및 시스템 아키텍트로 발전
         * AI를 활용할 때, 더 창의적으로 활동하며 시스템 아키텍트처럼 보이는 세상으로 접근해야
         * 메일 주소의 정규식을 기억하기 위해 문서를 찾아보는 것이 아니라, 노동자로서의 역할을 한정짓지 않게 될 것이다. 이것이 흥미롭고, 기대
+    * [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners - The GitHub Blog](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
+      * GitHub Copilot의 Extensions 발표, 아직 Limited Beta라 직접 볼 수는 없지만
+      * 서드파티 서비스가 Copilot Extension을 만들면 VS Code를 벗어나지 않고 Copilot Chat에서 해당 서비스에 연결된 정보 질문 가능
+        * 바로 등록된 리소스의 정보나 배포 상태 등 확인 가능
+      * 회사 내에서 비공개 Extension도 만들 수 있어서 내부 API나 데이터와 연동하면 회사 내의 정보도 Copilot에서 사용 가능
   * [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI :: Outsider's Dev Story](https://blog.outsider.ne.kr/1717)
   * [Copilot 깃허브 코파일럿은 어떻게 작동하는가? | Daily Log](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
