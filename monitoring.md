@@ -147,6 +147,9 @@ Monitoring
     * Grafana에서 애플리케이션을 eBPF로 자동 계측할 수 있는 Beyla 프로젝트를 오픈소스로 공개
     * 보통 계측하려면 코드에 삽입해야 하므로 관리가 많이 필요한데 eBPF를 써서 자동 계측을 사용하면 쉽게 계측을 추가 가능
     * 기본적인 트랜잭션의 스팬과 HTTP/S, gRPC의 RED(Rate-Errors-Duration) 메트릭 획득 가능
+  * [How to use Grafana Beyla in Grafana Alloy for eBPF-based auto-instrumentation | Grafana Labs](https://grafana.com/blog/2024/05/21/how-to-use-grafana-beyla-in-grafana-alloy-for-ebpf-based-auto-instrumentation/)
+    * 최근 공개한 OpenTelemetry Collector인 Grafana Alloy에서 eBPF 기반 자동 계측 도구인 Grafana Beyla 사용 가능
+    * 이 글에서는 Beyla를 사용해서 서비스의 RED 메트릭과 Kubernetes 애플리케이션을 자동 계측해서 Alloy로 수집하는 방법 설명
 * Grafana Cloud
   * [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
   * [Introducing Adaptive Metrics: A new cost management feature in Grafana Cloud | Grafana Labs](https://grafana.com/blog/2023/05/09/adaptive-metrics-grafana-cloud-announcement/)
