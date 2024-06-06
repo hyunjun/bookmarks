@@ -308,6 +308,7 @@ Git
     * Dependabot을 GitHub Actions에서 동작 지원과 동시에
     * 20개 이상 언어와 패키지 매니저 의존성 업데이트를 지원하는 dependabot-core를 오픈소스(MIT)로 공개
 * [GitHub Repository Rules are now generally available - The GitHub Blog](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/)
+* [GitHub의 조직 차원에서 저장소에 적용할 규칙을 관리할 수 있는 Repository Rules :: Outsider's Dev Story](https://blog.outsider.ne.kr/1724)
 * [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties :: Outsider's Dev Story](https://blog.outsider.ne.kr/1718)
 * [Metrics for issues, pull requests, and discussions - The GitHub Blog](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
   *  저장소의 이슈, 풀 리퀘스트, 디스커션에서 첫 반응에 걸리는 시간, 종료될 때까지의 시간, 대답하는 데 걸리는 시간 등 통계를 볼 수 있는 Issue Metrics Action GitHub Actions를 GitHub에서 만들어서 제공
@@ -1041,6 +1042,7 @@ Git
     * 코드 리뷰를 하는 동안 다음 작업을 하기 위해서 PR이 서로 이어지기 때문에 Stacked라는 표현 사용
     * Stacked PR이 필요한 이유와 함께 GitHub에서 실제로 Stacked PR을 만들려면 어떻게 하는지까지 보여주어서 이해하기가 좋음
     * 이러한 과정을 쉽게 도와주는 도구와 문제점도 같이 설명
+  * [GitHub - Issue & PR Template :: iOYES](https://green1229.tistory.com/479)
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
   * `git pull --rebase`
     * [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
