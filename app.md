@@ -551,6 +551,7 @@ App
 * [요즘 완전 대세! 크롬 확장앱 만들기. 5분컷. - YouTube](https://www.youtube.com/watch?v=QJSLtK2bY_A)
 * [크롬에서 세로 길이가 긴 이미지 파일이 깨지는 문제](https://sunyzero.tistory.com/293)
 * [Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 | GeekNews](https://news.hada.io/topic?id=14888)
+* [Error causes in the Console | GeekNews](https://news.hada.io/topic?id=15189)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
@@ -2253,6 +2254,7 @@ App
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
+  * [옵시디언 이야기 - 엘키의 주절 주절](https://elky84.github.io/2024/06/03/obsidian_story/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
