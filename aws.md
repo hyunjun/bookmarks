@@ -1548,6 +1548,7 @@ AWS
 * [My 2019 Serverless year in review](https://www.linkedin.com/pulse/my-2019-serverless-year-review-eric-johnson/)
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
 * [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
+* [Develop a Serverless TypeScript API on AWS ECS with Fargate | AppSignal Blog](https://blog.appsignal.com/2024/06/05/develop-a-serverless-typescript-api-on-aws-ecs-with-fargate.html)
 * [AWS - serverless-image-handler](https://medium.com/@kevin_park/aws-serverless-image-handler-de68255bc879)
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 * [The AWS Serverless LAMP Stack: the Future of PHP or Vendor Lock-in?](https://www.infoq.com/news/2020/07/aws-serverless-lamp/)
