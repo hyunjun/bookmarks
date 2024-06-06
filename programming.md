@@ -555,8 +555,10 @@ Programming
 * [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
-* [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth/)
+* [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
   * ["auth" 대신 "permissions"와 "login"을 사용합시다 | GeekNews](https://news.hada.io/topic?id=15051)
+  * 보통 auth라고 할 때 인증(authentication)과 인가(authorization)라는 2가지 문제가 있어서 혼란
+  * authn과 authz로 나누어서 부르기도 하지만 해결책이 되지 않기 때문에 이를 로그인과 권한으로 부르는 것이 더 좋다고 이야기
 * [PKCE: What and Why? - Dropbox](https://dropbox.tech/developers/pkce--what-and-why-)
 * [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
@@ -4473,6 +4475,16 @@ Programming
 * [CI/CD 도구를 선택하는 방법: 프레임워크 | The TeamCity Blog](https://blog.jetbrains.com/ko/teamcity/2024/01/how-to-choose-cicd-tool/)
 * [Continuous Integration: That’s Not What They Meant • Clare Sudbery • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ms3J6_-6-fk)
 * [AWX를 이용한 CI/CD Pipeline: Pylon | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/sre-re-pylon/)
+* [State of DevSecOps | Datadog](https://www.datadoghq.com/state-of-devsecops/)
+  * Datadog에서 24년 2~4월까지 수집한 애플리케이션, 컨테이너 이미지, 클라우드 환경 분석, DevSecOps 현황 분석 자료
+    * 발견한 특징을 다음과 같이 정리
+      * Java 서비스는 서드파티 취약점의 영향을 가장 많이 받음
+      * 자동화된 보안 스캐너의 공격 시도는 대부분 조치할 수 없는 노이즈
+      * 식별된 취약점 중 일부만 우선순위를 정할 가치 존재
+      * 경량 컨테이너 이미지를 사용하면 취약점 감소
+      * Infrastructure as Code의 도입률은 높지만, 클라우드 업체별로 꽤 차이가 존재
+      * 수동 클라우드 배포는 여전히 널리 사용
+      * CI/CD 파이프라인에서 수명이 짧은 크리덴셜의 사용률이 여전히 너무 낮음
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
