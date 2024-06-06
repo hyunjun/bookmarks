@@ -1112,6 +1112,7 @@ NLP
 * [AGI KR | 2024.04.12 AI쪽 알게된 것들 간헐적 공유 | Facebook](https://www.facebook.com/groups/agikr/posts/2274626356211743/)
   * Google Cloud Next 24, Gemini 1.5 Pro 및 Gemma, Closed LLM 성능을 넘보는 오픈 LLM, Andrej Karpathy의 신규 오픈소스 llm.c, Text Generation Inference(TGI) 라이선스 변경, MoJo 🔥 표준 라이브러리의 오픈소스화
 * ["최적의 프롬프트 단어 수는 21개"...구글, 프롬프트 비결 담은 가이드북 발간 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159796)
+* [LLM과 기호. 들어가며 | by Simple | Jun, 2024 | Medium](https://medium.com/@simple0314/llm%EA%B3%BC-%EA%B8%B0%ED%98%B8-c7caf48143dd)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
@@ -2594,6 +2595,7 @@ NLP
   * [한국어 언어모델 리더보드는 제 역할을 하지 못한다](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2262905880717124)
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
+* [MiniCPM-V: MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
   * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
