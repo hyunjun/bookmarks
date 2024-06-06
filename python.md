@@ -623,6 +623,8 @@ Python
 * [파이썬 코드의 아주 사소하고 미묘한 성능 개선.. : 네이버블로그](https://blog.naver.com/vwjdalsgkv/222334032772)
 * [**알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 - Morgenrøde**](https://ryanking13.github.io/2021/06/10/python-commandline-scripts.html) 다양한 `python -m ...` commands
   * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 | GeekNews](https://news.hada.io/topic?id=4431)
+* [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/)
+  * [파이썬의 다양한 코맨드라인 도구들 | GeekNews](https://news.hada.io/topic?id=15183)
 * [The difference between a=a+b and a+=b in Python | by Chetan Ambi | Jul, 2021 | Towards AI](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
@@ -5197,6 +5199,8 @@ Python
 * [Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1 - YouTube](https://www.youtube.com/watch?v=B6fnPayCnuw)
 * [PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우 - YouTube](https://www.youtube.com/watch?v=M6YuOk4dAH4)
 * [Pandas Dataframes on your GPU w/ CuDF - YouTube](https://www.youtube.com/watch?v=OnYGtKQT-rU)
+* [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
+  * [cuDF - GPU DataFrame 라이브러리 | GeekNews](https://news.hada.io/topic?id=15161)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
