@@ -43,6 +43,7 @@
 * [12화 마케팅 언어를 어떻게 관성에서 구출할 수 있을까?](https://brunch.co.kr/@cliche-cliche/217)
 * [To Bid, or not to Bid – Reinforcement Learning for Real Time Bidding / Doron Hai Reuven (Intango) - YouTube](https://www.youtube.com/watch?v=kptxrinMJNc)
 * [큐라스: 메시지 광고 추천 플랫폼 / 제4회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/609)
+* [우리가 eCPM에 대해 오해하고 있는 사실. eCPM은 올려야 하는것 아닌가요? | by Jinsu Park | DelightRoom | Jun, 2024 | Medium](https://medium.com/delightroom/ecpm%EC%9D%98-%EC%9D%98%EB%AF%B8-20ff9f553cf6)
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
