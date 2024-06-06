@@ -210,6 +210,8 @@ Artificial Intelligence
   * [VDBUH2024 - 올림피우 팝 & 스티브 풀 - AI 대결: 좋은 점, 결함, 그리고 위험한 점 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526867)
 * [배민선물하기 AI 메시지 제작기: 생성 AI가 센스 있는 선물 메시지를 대신 쓰기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17241/)
 * [머신러닝 엔지니어가 퍼즐 게임을 더 재미있게 만드는 방법](https://tech.devsisters.com/posts/ml-engineer-better-puzzle-game/)
+* [Looking for AI use-cases — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases)
+  * [AI의 진정한 유스 케이스를 찾아서 (번역) – 이바닥늬우스](https://ebadak.news/2024/06/03/looking-for-ai-use-cases/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
