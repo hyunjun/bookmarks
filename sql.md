@@ -485,6 +485,8 @@ SQL
 * [15 futuristic databases you’ve never heard of - YouTube](https://www.youtube.com/watch?v=jb2AvF8XzII)
 
 # DuckDB
+* [Announcing DuckDB 1.0.0 – DuckDB](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
+  * [DuckDB 1.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15160)
 * [DuckDB is an in-process SQL OLAP Database Management System](https://github.com/duckdb/duckdb)
 * [Eduardo Blancas - Using embedded SQL engines for plotting massive datasets on a laptop - YouTube](https://www.youtube.com/watch?v=M2hoEYXkBa8) sqlite
 * [FOSDEM 2023 - DuckDB In The Python Land - Pedro Holanda - YouTube](https://www.youtube.com/watch?v=-rCZQHXSunc)
@@ -550,6 +552,8 @@ SQL
 * [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
 * [prql: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement](https://github.com/prql/prql)
   * [PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안 | GeekNews](https://news.hada.io/topic?id=5853)
+* [qStudio Release Version 3.0 » qStudio](https://www.timestored.com/qstudio/release-version-3)
+  * [Show HN: qStudio - 10년간 개발한 무료 SQL Editor | GeekNews](https://news.hada.io/topic?id=15162)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes](https://github.com/readysettech/readyset)
   * [ReadySet - MySQL/Postgres를 위한 투명한 데이터베이스 캐시 레이어 | GeekNews](https://news.hada.io/topic?id=13468)
