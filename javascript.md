@@ -4879,6 +4879,7 @@ Javascript
     * 클래스 컴포넌트에서는 추상화를 위한 원시성이 없었기 때문에 이를 해결하기 위해 Hooks가 등장
     * 하지만 Hooks에서는 메모이제이션이 필요
     * 왜 메모이제이션이 필요한지를 보여주고 컴파일을 통해서 자동 메모이제이션이 가능하게 만들 예정
+* [번역 리액트 컴파일러](https://velog.io/@eunbinn/react-compiler)
 * [React 19: 계륵이었던 Suspense가 활약할 때?](https://velog.io/@composite/React-19-%EA%B3%84%EB%A5%B5%EC%9D%B4%EC%97%88%EB%8D%98-Suspense%EA%B0%80-%ED%99%9C%EC%95%BD%ED%95%A0-%EB%95%8C)
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 
@@ -5347,6 +5348,7 @@ Javascript
     * 리액트스럽기 때문에 useState를 쓰듯이 jotai의 useAtom를 사용할 수 있는데 jotai의 동작 방식과 사용 방법 정리
   * [You Might Not Need React Query for Jotai · Daishi Kato's blog](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/)
     * [번역 Jotai에 React Query가 필요하지 않을 수도 있습니다](https://velog.io/@eunbinn/you-might-not-need-react-query-for-jotai)
+  * [프로젝트 전체에서 사용되는 패키지, 어떻게 마이그레이션 할까?](https://toss.tech/article/frontent-package-migration)
   * [Jotai tutorial](https://tutorial.jotai.org/)
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
@@ -5575,6 +5577,7 @@ Javascript
   * [Next.js 14에서 원격 이미지 최적화 하기 — SanbonDeveloper](https://sanbondeveloper.tistory.com/101)
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
+  * [Next.js 학습 방법 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/learning-nextjs/)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
@@ -5674,6 +5677,7 @@ Javascript
       * 버그를 만들 가능성 증가
   * [React Query의 구조와 useQuery 실행 흐름 살펴보기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-react-query/)
   * [React Query 도입 후기](https://saramin.github.io/2023-08-02-react-query/)
+  * [여러 프레임워크에서 사용할 수 있는 라이브러리 만들기](https://toss.tech/article/framework-agnostic-library)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
