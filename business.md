@@ -1416,6 +1416,24 @@ Business
 * [CTO Summit Panel • Sarah Taraporewalla, Dave Coombes, Jenny Johnson & Josh Graham • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=Wmkm_FfRWlU)
   * [VidiGo CTO Summit Panel • Sarah Taraporewalla, Dave Coomb](https://vidigo.ai/share/summary/2d216ad7692f)
   * [CTO 서밋 패널 - 사라 타라포레왈라, 데이브 쿰즈, 제니 존슨, 조쉬 그레이엄 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/660619)
+* [Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?” – charity.wtf](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
+  * 어떤 사람이 40명 엔지니어 조직에 VP로 합류해서 엔지니어링 관리자를 뽑는 일에 대해 CEO와 갈등을 겪는다는 질문
+    * Honeycomb CTO인 Charity Majors가 답변 정리한 글
+  * 계층 구조는 실제로는 권위적인 구조라기 보다 적응성, 탄력성, 확장성에 중요한 역할을 하며 하위 시스템의 이익을 위해 탄생
+  * 시스템은 공통의 목표를 달성하기 위해 상호 의존적인 구성 요소의 네트워크
+  * 하위 시스템은 큰 시스템 내에서 더 작은 목표를 가진 요소들의 집합
+  * 계층 구조의 주요 이점은 정보 과부하 감소. 팀 내 커뮤니케이션은 대역폭이 높고 빨라야 하고 팀 간 커뮤니케이션은 더 적게 이루어져야 함
+  * 해야 할 일이 제대로 이뤄지도록 하는 것이 관리자의 역할
+    * 모든 엔지니어에게 흥미롭고 도전적이지만 부담스럽지 않은 업무를 부여하고 불쾌한 노동이 공평하게 배분되도록 하는 것도 관리자의 역할
+  * 엔지니어는 개발, 배포, 유지 보수하는 소프트웨어에 책임이 있고 관리자는 팀과 조직 전체에 책임
+  * 자연스러운 계층 구조에서 목적을 위해 위를 보고 기능을 위해 아래를 봄
+  * 대부분의 엔지니어링 조직에는 엔지니어링 관리자 존재
+  * 알고 있는 매니저 없는 실험은 모두 포기되거나 성장하지 못했음
+    * 경험상 리더들이 권력에 빠져서라기보다는 혼란, 집중력 부족, 실행력 부족에 기인
+  * 명시적인 구조나 위계가 없을 때, 자유와 평등이 아니라 "비공식적이고 인정받지 못하며 책임지지 않는 리더쉽"이 될 수 있음
+  * 그룹 수는 적지만 그룹 규모가 크면 전반적인 관리 오버헤드가 줄어들고 조율 작업도 훨씬 감소
+  * 엔지니어링 매니저가 모든 작업을 수행하고 결정하는 것은 아니지만 경험상 작업이 제대로 이루어지고 잘 수행되도록 하는 데는 절대적으로 중요한 역할
+  * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
