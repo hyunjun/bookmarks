@@ -2148,6 +2148,10 @@ Javascript
     * ESLint 9.0.0에서 새로운 config 형식인 Flat config가 도입되고 API 변경도 존재
       * 이에 따라서 플러그인도 v9.0.0에 맞게 업데이트 필요
       * 아직 다 업데이트되지 않았으므로 플러그인 사용시 호환성 오류가 발생한다면 @eslint/compat를 설치해 호환성이 깨진 플러그인을 감싸면 정상 사용 가능
+  * [migrate-config - npm](https://www.npmjs.com/package/@eslint/migrate-config)
+    * [Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/05/eslint-configuration-migrator/)
+      * ESLint가 v9.x부터 새로운 Flat config 도입
+      * 사용자가 겪는 어려움을 해결하기 위해 `.eslintrc.\*` 파일을 `eslint.config.js`로 변환하는 ESLint Configuration Migrator 공개
   * [SafeQL - an ESLint plugin for writing SQL queries in a type-safe way](https://safeql.dev/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
@@ -2877,7 +2881,14 @@ Javascript
 * [A build system for the JavaScript ecosystem | moon](https://moonrepo.dev/)
 * [The JavaScript Ecosystem is Delightfully Weird · Fly](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
   * [(번역) 유쾌하게 이상한 자바스크립트 생태계](https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird)
-* [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager) npm, pnpm, yarn
+* [패키지 매니저의 과거, 토스의 선택, 그리고 미래](https://toss.tech/article/lightning-talks-package-manager/) npm, pnpm, yarn
+  * JavaScript 패키지 매니저는 의존성을 처리하기 위해
+    * 어떤 의존성인지 고정하는 Resolution 단계, 해당 의존성 다운로드 받는 Fetch 단계, 소스코드에서 해당 의존성 사용할 수 있게 하는 Link 단계로 구성
+  * Link 단계가 npm, pnpm, yarn이 다른 접근
+    * npm은 `package.json`의 의존성은 `node_modules` 폴더 아래 모두 작성
+    * pnpm은 이 모두 파일에 쓰는 성능 문제를 해결하기 위해 모두 쓰지 않고 alias를 만들어서 연결
+    * yarn은 Plug'n'Play 방식을 사용해서 `.pnp.cjs` 파일에 JavaScript Map으로 의존성을 찾는 방법을 명시해서 훨씬 빠르고 정확하게 동작
+  * Toss는 Yarn의 좋은 아키텍처, 정확성과 성능 때문에 Yarn을 선택
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
   * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
@@ -3832,6 +3843,9 @@ Javascript
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * Matterhorn [Announcing Matterhorn a Node.js API Server Boilerplate](https://medium.freecodecamp.org/announcing-matterhorn-a-node-js-api-server-boilerplate-4994759f1bf6)
 * [mdir.js: Mdir.js is text base file manager. Mdir.js is clone of LinM](https://github.com/la9527/mdir.js)
+* [milo: Fast and embeddable HTTP/1.1 parser](https://github.com/ShogunPanda/milo)
+  * Node.js는 HTTP 파서로 초기에 사용하던 http_parser를 12.0부터 C로 변환해서 실행하는 llhttp 계속 사용
+  * llhttp의 한계를 해결하기 위해 Rust로 작성된 Milo 작성, 뛰어난 성능과 기능을 갖추었기에 WebAssembly 최적화만 완료되면 Node.js 도입 예정
 * [ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires](https://github.com/vercel/ncc)
   * [ncc - Node.js 프로젝트를 1개 파일로 컴파일 | GeekNews](https://news.hada.io/topic?id=4740)
 * [nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe)
@@ -6466,6 +6480,10 @@ Javascript
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
 * [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) TypeScript에 대한 1시간 20분 정도 분량의 다큐멘터리
 * [TypeSpec](https://typespec.io/) Describe your data up front and generate schemas, API specifications, client / server code, docs, and more
+  * [Introducing TypeSpec: A New Language for API-Centric Development | TypeSpec](https://typespec.io/blog/2024-04-25-introducing)
+    * Microsoft에서 API 정의 언어인 TypeSpec 공개
+    * TypeSpec을 사용하면 API를 정의한 후 다양한 프로토콜, 클라이언트, 서버, 문서를 동시 출력 가능
+    * 이미 Microsoft 내에서 Azure의 많은 서비스에 TypeSpec 사용
 * [typia: Super-fast Runtime validator (type checker) with only one line](https://github.com/samchon/typia)
   * [Universal Random Generator, which can make everything, just by only one line - DEV Community](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
 * [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://vanilla-extract.style/)
