@@ -213,6 +213,7 @@ iOS
   * [Fastlane을 통한 앱 자동 배포 - Fastlane을 사용해서 React native로 만든 앱을 자동으로 배포해 보자](https://dev-yakuza.github.io/ko/react-native/fastlane/)
   * [Slack으로 iOS 앱 배포하기](http://labs.brandi.co.kr//2022/04/04/kosr.html)
   * [fastlane으로 Firebase App Distribution 자동화 🤖 :: iOYES](https://green1229.tistory.com/439)
+  * [fastlane match를 통해 팀원들과 인증서 공유하기 :: iOYES](https://green1229.tistory.com/478)
 * [FBSimulatorControl - A Mac OS X library for managing, booting and interacting with multiple iOS Simulators simultaneously](https://github.com/facebook/FBSimulatorControl)
 * [Flutter](flutter.md)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
