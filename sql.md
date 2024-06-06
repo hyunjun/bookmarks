@@ -379,6 +379,8 @@ SQL
 * [디비 게시판 구조 설계 - 게시글 관리 그.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223193892552)
 * [BULK 처리 Write에 집중해서 개선해보기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bulk-performance-tuning/)
 * [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
+* [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+  * [자연 키를 사용하는 것을 후회하게 될 꺼에요 | GeekNews](https://news.hada.io/topic?id=15198)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
