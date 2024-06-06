@@ -302,6 +302,16 @@ Graph
 * [Ligra is a lightweight graph processing framework for shared memory](http://www.cs.cmu.edu/~jshun/ligra.html)
   * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
   * [Ligra is a lightweight graph processing framework for shared memory](http://www.eecs.berkeley.edu/~jshun/ligra.html)
+* [LiveGraph: real-time data fetching at Figma | Figma Blog](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/)
+  * [Keeping It 100(x) With Real-time Data At Scale | Figma Blog](https://www.figma.com/blog/livegraph-real-time-data-at-scale/)
+    * Figma가 실시간으로 데이터를 가져오기 위해 내부에서 LiveGraph를 사용, 서비스의 성장에 따라 LiveGraph의 아키텍처도 다시 설계
+    * 2년 전에 LiveGraph는 단일 Postgres의 replication stream에 의존한 구조
+      * 부하가 커지면서 수직 샤드로 분할되자 전역으로는 순서 보장 불가능, 결국 큰 한계 직면
+      * LiveGraph는 실시간 업데이트를 위해 만든 서비스지만
+        * 트래픽을 분석하자 대부분은 초기 데이터 조회라는 것을 알게 됨
+        * 쿼리를 분석한 결과 어떤 쿼리를 다시 조회해야 하는지 파악이 쉬워서 이에 따른 캐시 무효화도 쉽다는 것을 발견
+    * 그래서 새로운 LiveGraph 100x는
+      * Go로 작성, 클라이언트의 뷰 요청을 처리하는 엣지, 쿼리 결과를 저장하는 읽기 캐시, 변경이 있으면 캐시 무효화하는 invalidator로 구성
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
