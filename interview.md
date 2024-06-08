@@ -362,7 +362,7 @@ Interview
 * [System Design : The Algorists](https://systemsdesign.cloud/)
 * [system-design-resources: These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)
   * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
-* [System Design - Low Level - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
+* [System Design - Low Level - YouTube](https://www.youtube.com/playlist?list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
 * [**Crack the System Design Interview - TianPan.co**](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 * [System Design Series' Articles - DEV Community 👩💻👨💻](https://dev.to/karanpratapsingh/series/19332)
 * [Top 10 Object Oriented Analysis and Design Interview Questions and Problems for Experienced Developers | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26)
