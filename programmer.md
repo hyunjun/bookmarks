@@ -348,6 +348,8 @@ Programmer
 * [SI Q&A 세션 ① ‘네카라쿠배’ 아니어도 개발자로 성장하고 싶어요 | 요즘IT](https://yozm.wishket.com/magazine/detail/2572/)
 * [10 lessons from 12 years at Google - by Addy Osmani](https://addyo.substack.com/p/10-lessons-from-12-years-at-google)
   * [12년차 구글 개발자가 신입으로 돌아간다면 가장 먼저 할 10가지](https://eopla.net/magazines/16403)
+* [Managing My Motivation, as a Solo Dev](https://mbuffett.com/posts/maintaining-motivation/)
+  * [1인 개발자로서 동기 부여 관리하기 | GeekNews](https://news.hada.io/topic?id=15206)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
