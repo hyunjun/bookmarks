@@ -995,6 +995,7 @@ Docker
   * Dockerfile 상단에 `#syntax=docker/dockerfile:1.7`이나 `#syntax=docker/dockerfile:1.7.0-labs`를 지정하면 사용할 수 있는 1.7.0의 새로운 기능 설명
   * variable 확장 기능 개선, `${variable#pattern}`, `${variable%pattern}`, `${variable/pattern/replacement}` 변수 받을 때 패턴으로 걸러내거나 치환 가능
   * `COPY`로 파일을 복사시 부모 디렉터리 구조를 유지할지 선택하거나 `.dockerignore` 파일을 쓰지 않고 `COPY`에서 특정 패턴 제외하고 복사 기능 추가
+* [Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -1450,6 +1451,7 @@ Docker
   * QoS 클래스마다 점수가 있는데 Guaranteed는 `-998`, BestEffort는 `1000`, Burstable은 `min(max(2, 1000 - (1000 * memoryRequestBytes) / machineMemoryCapacityBytes), 999)`로 부여
     * 가장 높은 `oom_score`의 프로세스를 kill
     * 이를 확인해 볼 수 있는 과정 설명
+* [Kubernetes CronJob으로 OOM 이슈 임시 해결하기](https://wrtn.io/cronjob%ec%9c%bc%eb%a1%9c-oom-%ed%95%b4%ea%b2%b0%ed%95%98%ea%b8%b0/)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
   * Kubernetes를 이용한 마이크로 서비스 구현
   * 최신 분산 애플리케이션은 클라우드 네이티브 플랫폼이 제공해야 하는 라이프사이클, 네트워킹, 바인딩 및 상태 관리에 대한 요구사항을 가지고 있음
@@ -2708,6 +2710,8 @@ Docker
   * [MAAS Terraform Ansible Integration | by Saeid Bostandoust | ITNEXT](https://itnext.io/maas-terraform-ansible-integration-adb57e09caf2)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [miniboss: The most versatile way to manage containers locally](https://github.com/afroisalreadyinu/miniboss)
+* [Moby](https://mobyproject.org/)
+  * [The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://github.com/moby/moby)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
 * [netshoot: a Docker + Kubernetes network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
