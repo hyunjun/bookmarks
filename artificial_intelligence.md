@@ -212,6 +212,9 @@ Artificial Intelligence
 * [머신러닝 엔지니어가 퍼즐 게임을 더 재미있게 만드는 방법](https://tech.devsisters.com/posts/ml-engineer-better-puzzle-game/)
 * [Looking for AI use-cases — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases)
   * [AI의 진정한 유스 케이스를 찾아서 (번역) – 이바닥늬우스](https://ebadak.news/2024/06/03/looking-for-ai-use-cases/)
+* [AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI - YouTube](https://www.youtube.com/watch?v=q8d4nLr6oZ0)
+  * [VidiGo AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI.m](https://vidigo.ai/share/summary/13c18b5d255c)
+  * [AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/748482)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
