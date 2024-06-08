@@ -1328,7 +1328,7 @@ Javascript
   * [Javascript의 Promise를 알아보자 #ES6](https://developer88.tistory.com/373)
   * [async 와 await 로 작성하는 읽기쉬운 비동기코드](https://developer88.tistory.com/381)
   * [JavaScript Callbacks, Promises, and Async / Await Explained - YouTube](https://www.youtube.com/watch?v=JRNToFh3hxU)
-  * [JavaScript Promise (callback & async) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI)
+  * [JavaScript Promise (callback & async) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI)
   * [Promise.all 과 Transactions (feat. Node.js)](https://jojoldu.tistory.com/639)
   * [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
   * [Learning Javascript Promise Patterns - DEV Community](https://dev.to/altamashali/learning-javascript-promise-patterns-11ao)
@@ -1480,6 +1480,9 @@ Javascript
 * [Developer Tools secrets that shouldn’t be secrets | Christian Heilmann](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 * [Useful Style-related Features Of Browser Developer Tools to Explore in 2021 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/en_20211206)
 * [무턱대고 console.log 만 찍고있나요? - YouTube](https://www.youtube.com/watch?v=SmKM-8Q0Egw)
+* [The Most Important Skill You Never Learned - YouTube](https://www.youtube.com/watch?v=l8pe_MSX4Lc)
+  * [VidiGo The Most Important Skill You Never Learned.mp4](https://vidigo.ai/share/summary/cd3b364837d7)
+  * [배우지 못한 가장 중요한 기술 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747927)
 
 # Design System
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
@@ -6351,6 +6354,10 @@ Javascript
 * [Typescript 개발속도를 향상시켜주는 여러 방법 - YouTube](https://www.youtube.com/watch?v=SFIufVVI0-A)
 * [A Deep Dive Into Advanced TypeScript: A Live-Coding Expedition by Christian Wörz - YouTube](https://www.youtube.com/watch?v=zpUQZFrRGHY)
 * [실무용 TypeScript 10가지만 알면 됨](https://velog.io/@nanotoly/TypeScript-10-point)
+* [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript](https://d2.naver.com/helloworld/7472830)
+  * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript - YouTube](https://www.youtube.com/watch?v=xesy1i67OWI)
+    * [VidiGo infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript.mp4](https://vidigo.ai//share/summary/eb68cff76376)
+    * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/746367)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
