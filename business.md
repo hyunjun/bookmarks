@@ -213,6 +213,9 @@ Business
 * [내리막길 걷던 마이크로소프트를 일으킨 하나의 철학 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47786) 고정/성장 마인드셋
 * [수평적 조직 문화 만들고 싶을 때 보는 글 | HPC컨설팅](https://hpcconsulting.co.kr/2022/04/%EF%BB%BF%EC%88%98%ED%8F%89%EC%A0%81-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EB%B3%B4%EB%8A%94-%EA%B8%80/)
 * [개똥철학 수평적 조직문화의 오해와 고통 받는 사람들. 국내에 ‘수평적 조직문화’(이하 수평문화)라는 단어가 일반화 된 지… | by 김준형 | Apr, 2023 | Medium](https://medium.com/@ghilbut/%EA%B0%9C%EB%98%A5%EC%B2%A0%ED%95%99-%EC%88%98%ED%8F%89%EC%A0%81-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EC%9D%98-%EC%98%A4%ED%95%B4%EC%99%80-%EA%B3%A0%ED%86%B5-%EB%B0%9B%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-dbeff1e294)
+* [수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부 - YouTube](https://www.youtube.com/watch?v=YcFUhsBKtrA)
+  * [VidiGo 수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부](https://vidigo.ai//share/summary/d1f12e5ec465)
+  * [수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/748316)
 * [한국인 구글러 1호는 왜 야놀자로 옮겼을까? (f.이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061018347779901) 조직문화
 * [‘한국인 구글러 1호’가 구글에서 20년간 날마다 받은 것 (이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061618387757979)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
@@ -233,6 +236,7 @@ Business
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
 * [작은 스타트업이 건강한 조직문화를 만드는 방법. 딜라이트룸이 조직문화에 관심을 두기 시작한 이유 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-9db3438e4868)
 * [건강한 조직문화를 찾아서 : 얼라인먼트와 자율조직](https://brunch.co.kr/@f2899d6dae6a477/21)
+* [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
@@ -1434,6 +1438,8 @@ Business
   * 그룹 수는 적지만 그룹 규모가 크면 전반적인 관리 오버헤드가 줄어들고 조율 작업도 훨씬 감소
   * 엔지니어링 매니저가 모든 작업을 수행하고 결정하는 것은 아니지만 경험상 작업이 제대로 이루어지고 잘 수행되도록 하는 데는 절대적으로 중요한 역할
   * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
+* [Scaling Teams at Sanity, Github, and Google 🏢 — with Rachel Potvin - YouTube](https://www.youtube.com/watch?v=-cRZOSfE4yA&t=486s)
+  * [레이첼 포트빈과 함께 하는 Sanity, Github, Google의 팀 확장하기 🏢 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747733)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1882,6 +1888,7 @@ Business
 * [지속가능성-퀀텀점프 비결은 ‘다양성’, 느슨한 결속과 단순한 규칙이 핵심 | 전체 기사 보기 | DBR](https://dbr.donga.com/article/view/total/article_no/10785) 존중
 * [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
 * [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
+* [여현준 on LinkedIn: #일의편린 #인사 대체 불가한 인재](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-suasmc-activity-7194816070203908096-NGwu)
 * ["단 한번도 후회 안 해" 김태호 PD가 21년만에 MBC 퇴사한 구체적 이유를 고백했고, '시대가 정말 달라졌구나' 싶다(서울체크인) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/kim-tae-ho-ott_kr_624d12b8e4b0981745076861) 핵심 인재에 대한 자율 보장
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
@@ -1946,6 +1953,7 @@ Business
 * [직원들의 마음 안에서 열정을 꺼내는 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/264015) 동기부여
 * [칼럼 | 카리스마도, 멋진 연설도 아니다··· '동기 부여'의 기술 - CIO Korea](https://www.ciokorea.com/news/321724)
 * [주먹구구식 경영 탈피 직원의 능력을 120% 발휘하게 하는 법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/08/12/employee-ability/)
+* [동기부여에 대한 새로운 시각: 조직에서 동기를 촉진하는 방법](https://www.linkedin.com/pulse/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-cexde)
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
