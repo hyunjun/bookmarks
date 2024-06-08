@@ -628,6 +628,7 @@ Programming Books
   * [python-coding-test](https://github.com/to-be-pass/python-coding-test)
 * (NOT YET) [알고리듬으로 생각하기 | 에이콘출판사](http://www.acornpub.co.kr/book/algorithmic-thinking)
   * 우당 문005.1-진11ㅇ
+  * [Algorithmic Thinking: A Problem-Based Introduction | Homepage for the book Algorithmic Thinking: A Problem-Based Introduction](https://danielzingaro.com/alg/)
   * [GitHub - AcornPublishing/algorithmic-thinking: 알고리듬으로 생각하기 국제 프로그래밍 경진대회 문제로 배우는](https://github.com/AcornPublishing/algorithmic-thinking)
 * (NOT YET) [문제 해결을 위한 알고리즘 with 수학 | 위키북스](https://wikibook.co.kr/algorithm-math/)
   * 우당 문005.1015-요213ㅇ
