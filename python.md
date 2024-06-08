@@ -4894,6 +4894,9 @@ Python
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
 
+# News
+* [Planet Python](https://planetpython.org/)
+
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
 * [あなたのデータサイエンス力を 飛躍的に向上させるNumPy徹底入門](https://deepage.net/features/numpy/)
