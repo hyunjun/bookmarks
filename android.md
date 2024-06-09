@@ -496,6 +496,8 @@ Android
   * [Pluu Dev - 메모 Compose 가이드 문서 ~ Theming](https://pluu.github.io/blog/android/2024/05/23/compose/)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Text and typography](https://pluu.github.io/blog/android/2024/05/25/compose/)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Images and graphics](https://pluu.github.io/blog/android/2024/06/02/compose/)
+  * [Pluu Dev - 정리 Compose 가이드 문서 ~ 접근성](https://pluu.github.io/blog/android/2024/06/06/compose-accessibility/)
+  * [Pluu Dev - 정리 Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
