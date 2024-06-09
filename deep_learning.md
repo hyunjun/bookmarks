@@ -2833,6 +2833,7 @@ CVPR2016)
 * [LLM에서 배우는 이미지 생성 모델 ZERO부터 학습하기 Training Large-Scale Diffusion Model from Scratch | PPT](https://www.slideshare.net/slideshow/llm-zero-training-largescale-diffusion-model-from-scratch/267015845)
 * [Notes on Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
   * [Diffusion Models의 원리를 설명하는 글 | GeekNews](https://news.hada.io/topic?id=15013)
+* [HuggingFace 스페이스 - OOTD를 내 마음대로, OOTDiffusion | 지피터스 GPTers](https://www.gpters.org/c/huggingface/huggingface-ootd-ootdiffusion) OOTDiffusion OutfitAnyone
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111)
 * [awesome-diffusion: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources](https://github.com/cobanov/awesome-diffusion)
 * [B^ DISCOVER - Home](https://bdiscover.kakaobrain.com/)
