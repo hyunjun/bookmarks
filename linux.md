@@ -179,6 +179,8 @@ Linux
 * [시작하는 엔지니어를 위해 - 3 - 리눅서의 기술술 블로그](https://linuxer.name/2023/12/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%B4-3/)
 * [서버 `hostname` 변경, 재부팅 없이 즉각 적용하기 – 형우의 웹개발](https://mytory.net/archives/16209)
 * [SSD 용량 확장 후 lvm luks암호화 볼륨 리사이즈 방법 – 형우의 웹개발](https://mytory.net/archives/16303)
+* [What is PID 0? · blog.dave.tf](https://blog.dave.tf/post/linux-pid0/)
+  * [PID 0란 무엇인가? | GeekNews](https://news.hada.io/topic?id=15239)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -947,6 +949,8 @@ Linux
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH
     * [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
+    * [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
+      * [OpenSSH, 비정상적 행동을 제재하는 옵션 도입 | GeekNews](https://news.hada.io/topic?id=15234)
     * [Tyblog | SSH Kung Fu](https://blog.tjll.net/ssh-kung-fu/)
   * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
   * [sshx](https://sshx.io/) 웹 기반으로 실시간 협업이 가능한 터미널
