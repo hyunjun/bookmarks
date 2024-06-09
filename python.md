@@ -4992,6 +4992,7 @@ Python
   * [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
   * [Google Jax - 고성능 머신러닝 라이브러리 | GeekNews](https://news.hada.io/topic?id=5556)
   * [mpi4jax: Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python](https://github.com/mpi4jax/mpi4jax)
+* [mamba.np: A pure NumPy implementation of Mamba](https://github.com/idoh/mamba.np)
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
 * numpy-financial
