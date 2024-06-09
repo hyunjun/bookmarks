@@ -2125,6 +2125,7 @@ Programming
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
 * [서버 없이 웹 사이트 쉽게 만들기, LINE의 헤드리스 CMS](https://engineering.linecorp.com/ko/blog/headless-cms-in-line)
 * [전통적인 CMS에서 LandPress Content로 CMS를 옮기는 이유](https://engineering.linecorp.com/ko/blog/from-traditional-cms-to-landpress-content) 헤드리스 CMS
+* [전통적인 CMS에서 LandPress Content로 CMS를 옮기는 이유](https://techblog.lycorp.co.jp/ko/from-traditional-cms-to-landpress-content)
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
@@ -6422,6 +6423,7 @@ Programming
   * [5월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/05/b-5-3.html)
   * [5월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/05/b-5-4.html)
   * [5월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/06/b-5-5.html)
+  * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/06/b-6-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -7345,6 +7347,7 @@ Programming
 * [Types Of Technical Debt & How To Manage Them • Dave Farley • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=-WUEBSVvLiI)
   * [VidiGo Types Of Technical Debt & How To Manage Them • Dav](https://vidigo.ai/share/summary/fe0686f7f173)
   * [기술 부채의 유형과 관리 방법 - Dave Farley - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747709)
+* [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 * [**조직 부채 해결책**](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EB%2525B6%252580%2525EC%2525B1%252584-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-2pije/)
 * [나이스 오류 - 핵심은 일을 시키는 사람이 혁신해야 한다](https://www.facebook.com/cjunekim/posts/pfbid0B4otSzBpBiE3cT8MkjbDDxWUZYnLPnriVyYvm9n5ueRFvWwEXEb59v4dWBzEzu2pl)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
