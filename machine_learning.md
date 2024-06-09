@@ -596,6 +596,8 @@ Machine Learning
 * [쏘카에서 머신러닝 인재를 채용하는 이유 (feat. 타다)](https://speakerdeck.com/swkimme/ssokaeseo-meosinreoning-injaereul-caeyonghaneun-iyu-feat-tada)
 * [사회인의 휴학, Gap Year 이야기](https://www.slideshare.net/zzsza/gap-year-119998766)
 * [~An Introduction to Causal Inference with Gaussian Processes, Part I~](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
+* [A Survey of Causal Inference Applications at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
+* [Round 2: A Survey of Causal Inference Applications at Netflix | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb)
 * [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 * [머신러닝 관점에서 가우시안 프로세스의 소개 (최성준 박사님)](https://www.youtube.com/watch?v=Kgr-BQLVhuA)
 * [가우시안 혼합 모델(Gaussian mixture model) 기초 개념](https://losskatsu.github.io/machine-learning/gmm/)
