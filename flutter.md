@@ -259,6 +259,8 @@ Flutter
 * [Hello, Dart3 (feat. Flutter 3.10) | by CuroGom | Flutter Seoul | May, 2023 | Medium](https://medium.com/flutter-korea/hello-dart3-feat-flutter-3-10-1df700650c23)
 * [증권앱 만들기 전에 꼭 알아야하는 Dart 기초 - YouTube](https://www.youtube.com/playlist?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L)
 * [번역 Announcing Dart 3.4. 한국 날짜로 5월 15일 Dart 3.4가 업데이트 되었고, 구글의… | by Cody Yun | May, 2024 | Medium](https://medium.com/@cody.yun/%EB%B2%88%EC%97%AD-announcing-dart-3-4-1de97d641a86)
+* [dart_custom_lint: 💡 Easily write powerful Dart & Flutter lint rules for your projects or for users of your packages](https://github.com/invertase/dart_custom_lint)
+  * [Flutter에서 커스텀 린트 활용하기](https://techblog.lycorp.co.jp/ko/using-custom-lint-in-flutter)
 
 # Firebase
 * [How to integrate your iOS Flutter App with Firebase on MacOS](https://medium.freecodecamp.org/how-to-integrate-your-ios-flutter-app-with-firebase-on-macos-6ad08e2714f0)
