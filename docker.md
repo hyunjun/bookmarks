@@ -2275,6 +2275,9 @@ Docker
   * [MacOS에 Kubeflow 설치하는 쉬운 방법. 그 교육의 일환으로 Kubeflow 튜토리얼을 정리 중입니다. 개인… | by Chris Song | Apr, 2021 | Medium](https://chris-loves-ai.medium.com/macos%EC%97%90-kubeflow-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-728f8fc95c6d)
   * [Build your first ML pipeline in Kubeflow](https://analyticsindiamag.com/build-your-first-ml-pipeline-in-kubeflow/)
   * [Kurly만의 MLOps 구축하기 - 쿠브플로우 도입기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/second-mlops/)
+  * [Kubeflow Explained: NLP Architectures on Kubernetes • Michelle Casbon • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Nwa_1UXTU-w)
+    * [VidiGo Kubeflow Explained: NLP Architectures on Kubernete](https://vidigo.ai/share/summary/7ddda79c6e7c)
+    * [쿠브플로우 설명: Kubernetes의 NLP 아키텍처 - 미셸 카스본 - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/754028)
   * [krsh: A declarative KubeFlow Management Tool](https://github.com/riiid/krsh)
     * Kubeflow Pipeline을 선언적으로 관리하기 위한 툴킷
     * Riiid에서는 Kubeflow Pipeline으로 머신러닝 파이프라인을 관리. Kubeflow Pipeline은 Kubernetes 위에서 파이프라인을 관리하는 머신러닝 분야의 Airflow 역할
