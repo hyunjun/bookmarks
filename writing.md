@@ -121,6 +121,7 @@ Writing
 * [브레인 오프너: 감정을 찌르는 글쓰기 기술](https://brunch.co.kr/@cliche-cliche/215)
 * [팬을 만드는 PR 글 작성 방법 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%ED%8C%AC%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-pr-%EA%B8%80-%EC%9E%91%EC%84%B1-%EB%B0%A9%EB%B2%95)
   * 진정성 인사이트 디테일 유용성 참여유도
+* [Make better documents. - Anil Dash](https://www.anildash.com//2024/03/10/make-better-documents/)
 
 # App
 * latex
