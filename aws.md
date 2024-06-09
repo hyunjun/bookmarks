@@ -383,6 +383,7 @@ AWS
 * [ARM과 x86 서버의 차이점 "사무실 구린 .. : 네이버블로그](https://blog.naver.com/xslab/223383444616)
 * [Instance sizes in the Amazon EC2 Hpc7 family – a different experience | AWS HPC Blog](https://aws.amazon.com/blogs/hpc/instance-sizes-in-the-amazon-ec2-hpc7-family-a-different-experience/)
   * [ARM 기반의 AWS HPC 전용 인스턴스, Hpc7g 파헤치기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc7g-performance/)
+* [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 이유 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
@@ -682,6 +683,8 @@ AWS
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
+  * [parent-document-retrieval.md at main · kyopark2014/korean-chatbot-using-amazon-bedrock · GitHub](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock/blob/main/parent-document-retrieval.md)
+    * [Kyoungsu Park on LinkedIn: korean-chatbot-using-amazon-bedrock/parent-document-retrieval.md at main ·…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_korean-chatbot-using-amazon-bedrockparent-document-retrievalmd-activity-7204891089609064448-QY4V)
 * [llm-multimodal-and-rag: It shows how to use mutimodal and RAG based on LangChain](https://github.com/kyopark2014/llm-multimodal-and-rag)
 * [llm-rag-vectordb-python: Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit](https://github.com/build-on-aws/llm-rag-vectordb-python)
 * [PartyRock](https://partyrock.aws/)
@@ -786,6 +789,7 @@ AWS
 * [CloudFront 총 정리 - YouTube](https://www.youtube.com/playlist?list=PLfth0bK2MgIazkNsXM59WNVCY_6kwSnxU)
 * [AWS Lambda S3 Image Resize with URL Parameter (Cloudfront 요금 30% 감면)](https://tabmania.tistory.com/entry/AWS-Lambda-S3-Image-Resize-with-URL-Parameter) cost, image upload 최적화 등
 * [Terraform AWS CloudFront 인증서 오류](https://jybaek.tistory.com/1020)
+* [Amazon CloudFront의 원본 액세스 제어를 활용하여 Lambda 함수 URL을 안전하게 관리하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/secure-your-lambda-function-urls-using-amazon-cloudfront-origin-access-control/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
