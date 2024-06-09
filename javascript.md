@@ -160,6 +160,7 @@ Javascript
 * [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥 - YouTube](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 * [초보자를 위한 40가지의 자바스크립트 프로젝트](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
 * [200-JAVASCRIPT-PROJECT: This repository contains a curated list of 200 JavaScript practice project ideas for developers of all skill levels. Whether you're a beginner looking to hone your skills or an experienced developer seeking new challenges, you'll find a project here to suit your needs](https://github.com/deepakkumar55/200-JAVASCRIPT-PROJECT)
+* [ULTIMATE-JAVASCRIPT-PROJECT: A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
   * [Learning Patterns - 웹 앱 설계를 위한 패턴들 | GeekNews](https://news.hada.io/topic?id=7182)
@@ -1971,6 +1972,7 @@ Javascript
   * [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
   * [아일랜드 아키텍쳐](https://velog.io/@composite/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [Getting Started With Astro: The All-In-One Web Framework](https://semaphoreci.com/blog/astro-framework)
+  * [Astro와 Bun 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/914)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * [awesome-jsx: ⚡ A curated list of awesome JSX ecosystem and resources](https://github.com/composite/awesome-jsx)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
@@ -3052,6 +3054,7 @@ Javascript
   * [vite환경에서 번들 분석/경량화하여 빌드 시간, 초기 렌더링을 개선한 이야기 — _0422의 생각](https://0422.tistory.com/340)
   * [모노레포 Vite 경로의 마법사를 해부해보자 - vite-tsconfig-paths — _0422의 생각](https://0422.tistory.com/358)
   * [웹 애플리케이션 페이지를 패키지로 개발해 본 경험 공유 | 우아한형제들 기술블로그 | 조호정](https://techblog.woowahan.com/16910/)
+  * [Vite로 구버전 브라우저 지원하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17710/)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
