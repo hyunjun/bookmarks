@@ -2912,6 +2912,8 @@ CVPR2016)
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
 * [Imagen Video](https://imagen.research.google/video/)
+* kling [可灵大模型](https://kling.kuaishou.com/)
+  * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
 * [Make-A-Video](https://makeavideo.studio/) Meta에서 영어로 문장을 입력하면 비디오로 만들어주는 논문 발표
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * Roboflow Inference [What is Inference? - Roboflow Inference](https://inference.roboflow.com/)
