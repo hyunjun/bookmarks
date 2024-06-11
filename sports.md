@@ -250,6 +250,7 @@ Sports
     * 이를 통해 코치들은 각 루틴에 대한 선수 배치를 시뮬레이션하고 가능한 결과를 직접 평가 가능
     * 딥마인드는 2022년에도 Graph Neural Networks를 활용한 Multiagent off-screen behavior prediction in football 발표
     * 이번 연구인 TacticAI에서도 코너킥 상황을 graph 형태로 변환할 때 각 선수를 node로 사용했고, message passing 을 적용하여 representation 획득
+* [World Cup Penalty Shootouts | Tableau Public](https://public.tableau.com/app/profile/athan.mavrantonis/viz/WorldCupPenaltyShoot-outs/WorldCupPenaltyShoot-outs)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
