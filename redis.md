@@ -161,6 +161,8 @@ Redis
 * [Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자 - YouTube](https://www.youtube.com/watch?v=Sb3wTBH4J0w)
   * [VidiGo Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자](https://vidigo.ai//chatbot/summary/jZx0SEQfffsMcnJ)
   * [Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362904?sId=Sb3wTBH4J0w)
+* [미니컨 대용량 서비스에 자주 쓰이는 레디스에 대해 알아보자 - 김소정 - YouTube](https://www.youtube.com/watch?v=M2u3pOT7I8E)
+  * [VidiGo 미니컨 대용량 서비스에 자주 쓰이는 레디스에 대해 알아보자 - 김소정.mp4](https://vidigo.ai/share/summary/d9dbcf880194)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
