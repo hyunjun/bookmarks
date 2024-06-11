@@ -183,6 +183,12 @@ iOS
 * [What's new in Screen Time API (WWDC 22) :: iOYES](https://green1229.tistory.com/457)
 * [로컬 개발환경에 아이폰으로 HTTPS 접속하기 – 형우의 웹개발](https://mytory.net/archives/16218)
 * [iOS 멀티 프레임워크 환경에서 리소스 효율적으로 관리하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ios-manage-resources-in-multi-framework/)
+* [Apple, 개발자의 역량을 강화하고 혁신을 촉진하는 새로운 툴 및 리소스 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/)
+  * [애플, Xcode 16 / Swift 6 / GPT 2 등 개발자용 도구 업데이트 발표 | GeekNews](https://news.hada.io/topic?id=15276)
+* [Introducing Apple’s On-Device and Server Foundation Models - Apple Machine Learning Research](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+  * [애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개 | GeekNews](https://news.hada.io/topic?id=15283)
+* [iPhone, iPad, Mac 전용 Apple Intelligence 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+  * [애플, 개인용 인공 지능 시스템 Apple Intelligence 공개 | GeekNews](https://news.hada.io/topic?id=15275)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
