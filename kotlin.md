@@ -230,6 +230,8 @@
 * [10 Reasons to Try Kotlin Multiplatform • Pamela Hill • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=0L1VFm7o4MU)
   * [VidiGo 10 Reasons to Try Kotlin Multiplatform • Pamela Hi](https://vidigo.ai/share/summary/484b5499cda4)
   * [Kotlin 멀티플랫폼을 사용해야 하는 10가지 이유 - Pamela Hill - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/549669)
+* [Gradle Intro 1: Basics: Tasks & Configurations - YouTube](https://www.youtube.com/watch?v=YQUkIopifJs)
+* [Gradle Intro 2: Re-implementing the Kotlin Gradle Plugin from scratch - YouTube](https://www.youtube.com/watch?v=rr3LUKVX0bo)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -513,6 +515,7 @@
 * [Jetpack Compose: How to Build a Messaging App - Better Programming - Medium](https://medium.com/better-programming/jetpack-compose-how-to-build-a-messaging-app-e2cdc828c00f)
 * [kandy](https://kotlin.github.io/kandy/)
   * [Kandy: JetBrains의 새로운 Kotlin 시각화 라이브러리 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2024/01/kandy-the-new-kotlin-plotting-library-by-jetbrains/)
+* [Knee | DeepMedia](https://opensource.deepmedia.io/knee)
 * [Kobalt - a build system heavily inspired from Gradle and entirely written in Kotlin](http://beust.com/kobalt/home/index.html)
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
