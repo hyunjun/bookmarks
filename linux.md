@@ -181,6 +181,7 @@ Linux
 * [SSD 용량 확장 후 lvm luks암호화 볼륨 리사이즈 방법 – 형우의 웹개발](https://mytory.net/archives/16303)
 * [What is PID 0? · blog.dave.tf](https://blog.dave.tf/post/linux-pid0/)
   * [PID 0란 무엇인가? | GeekNews](https://news.hada.io/topic?id=15239)
+* [Linux System Requirements for Smooth Performance](https://www.botspidy.com/2024/06/linux-system-requirements-for-smooth.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -1397,6 +1398,8 @@ Linux
 * [**SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal**](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
+* [snip: A simple and minimal command-line snippet manager](https://github.com/mehran-prs/snip)
+  * [Snip - 커맨드 라인 Snippet 관리자 | GeekNews](https://news.hada.io/topic?id=15262)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [Stow - GNU Project - Free Software Foundation](https://www.gnu.org/software/stow/)
