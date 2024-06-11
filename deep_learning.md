@@ -217,6 +217,8 @@ Deep Learning
   * [OpenAI와 일론 머스크 | GeekNews](https://news.hada.io/topic?id=13682)
   * [Hello GPT-4o | OpenAI](https://openai.com/index/hello-gpt-4o/)
     * [모두의AI GPT-4o와 업무 효율 높이기 온라인 특강 자료](https://mo-ai.notion.site/AI-GPT-4o-f2ba9625939c4a9bbc4835393699f01d)
+    * [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images? - OranLooney.com](https://www.oranlooney.com/post/gpt-cnn/)
+      * [GPT-4o는 이미지를 어떻게 인코딩할까? | GeekNews](https://news.hada.io/topic?id=15256)
   * [OpenAI의 ChatGPT MacOS App 일부 사용자 대상 공개 및 출시 | GeekNews](https://news.hada.io/topic?id=14848)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
