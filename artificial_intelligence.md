@@ -463,6 +463,8 @@ Artificial Intelligence
 * [생성 AI 연구 활용 한계와 제언 | Pega Devlog](https://jehyunlee.github.io/2024/05/24/General-53-genaipapersurvey/)
 * [Google scrambles to manually remove weird AI answers in search - The Verge](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
   * [구글, 검색에서 이상한 AI 답변을 수동으로 제거하느라 고군분투중 | GeekNews](https://news.hada.io/topic?id=15005)
+* [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
+  * [구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망 | GeekNews](https://news.hada.io/topic?id=15258)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
