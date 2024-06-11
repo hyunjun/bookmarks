@@ -204,8 +204,10 @@ Flutter
 * [Flutter JsonCodable, 그게뭔데? 1편. 구글 I/O 2024에서 플러터 3.22가 공개 되었습니다. | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C%EB%AD%94%EB%8D%B0-57988baeecf0)
 * [Flutter JsonCodable, 그게 뭔데? 2편. 이전 포스팅에서는 Flutter의 JsonCodable 매크로를… | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-2%ED%8E%B8-cb44b450dac9)
 * [Flutter JsonCodable, 그게 뭔데? 3편. Flutter 3.22, Dart 3.5의 마스터 채널에 미리보기… | by Cody Yun | Flutter Seoul | May, 2024 | Medium](https://medium.com/flutter-korea/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-3%ED%8E%B8-4d24956078e3)
+* [Flutter JsonCodable, 그게 뭔데? 마지막편 | by Cody Yun | Jun, 2024 | Medium](https://medium.com/@cody.yun/flutter-jsoncodable-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-%EB%A7%88%EC%A7%80%EB%A7%89%ED%8E%B8-20f925dd65bd)
 * [FLUTTER 10분 20분만에 채팅앱 설명 (+구글로그인) - YouTube](https://www.youtube.com/watch?v=_NdQfppUD1Q)
 * [Building multiplatform games with Flutter - YouTube](https://www.youtube.com/watch?v=7mG_sW40tsw)
+* [우리동네GS Screen Reader 적용기](https://gsretail.tistory.com/58)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
@@ -380,6 +382,7 @@ Flutter
 * [Dart 시작하기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/dart-for-beginners)
 * [Flutter 로 웹툰 앱 만들기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/flutter-for-beginners)
 * [플러터 2주안에 쇼핑몰 앱 만들기 1 ( 환경 세팅) - YouTube](https://www.youtube.com/watch?v=BxXioP85hQ4)
+* [5 Best Udemy Courses to Learn Flutter in 2024 | by javinpaul | Javarevisited | Jun, 2024 | Medium](https://medium.com/javarevisited/5-best-udemy-courses-to-learn-flutter-in-2024-7cf195a0a231)
 * [flutter-chat-demo: The chat app made by Flutter and Firebase](https://github.com/duytq94/flutter-chat-demo)
   * [FLUTTER 10분 20분만에 채팅앱 완성 (+구글로그인) - YouTube](https://www.youtube.com/watch?v=tePvG3pZ8Ls)
 * [Flutter_tflite_classfication_songdo: Flutter_tflite_classfication_songdo presentation](https://github.com/sw-woo/Flutter_tflite_classfication_songdo)
