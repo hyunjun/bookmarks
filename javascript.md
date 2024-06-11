@@ -6388,6 +6388,8 @@ Javascript
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 * [jscpd: Copy/paste detector for programming source code](https://github.com/kucherenko/jscpd)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
+* [Manifest - Effortless Backends](https://manifest.build/)
+  * [Manifest - 간단하지만 풀 기능을 제공하는 백엔드(BaaS) 오픈소스 | GeekNews](https://news.hada.io/topic?id=15285)
 * [MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
 * [openapi: Type safe OpenAPI definitions](https://github.com/samchon/openapi)
   * [I made Swagger/OpenAPI type definitions and converter library - DEV Community](https://dev.to/samchon/i-made-swaggeropenapi-type-definitions-and-converter-library-5dej)
