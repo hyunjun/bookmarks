@@ -416,6 +416,7 @@ Programmer
   * 실리콘밸리에서는 이제 꽤 일반적으로 된 것으로 알고 있는 엔지니어링 레벨링이 처음 알려지기 시작했을 때 꽤 많은 관심
     * 국내 많은 스타트업이 이를 도입하고 오히려 불편함과 스트레스를 호소하는 것을 보고 고민을 적은 글
   * 바라는 모습을 제시하지 못하거나 적절한 상황이 아니거나 매니저와 IC를 자유롭게 오가지 못하는 문제를 지적
+* [개발자의 승진과 성장: 회사에서 인정받고 성공하는 전략](https://f-lab.kr/blog/strategies-for-recognition-and-success-in-the-company)
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
