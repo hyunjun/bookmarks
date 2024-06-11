@@ -1062,7 +1062,7 @@ Business
   * 1. 목표에 대한 달성 정도
   * 2. 목표를 달성하는 과정에서 보여준 행동
   * 3. 미래를 위한 성장 잠재력
-
+* [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [#1 사업을 하시면 복식부기 장부를 쓰셔야 합니다. : 클리앙](https://www.clien.net/service/board/park/15790623)
