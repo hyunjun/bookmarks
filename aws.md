@@ -1404,6 +1404,7 @@ AWS
 * [NEW AWS EKS Access Mgmt & Pod Identity](https://gasidaseo.notion.site/NEW-AWS-EKS-Access-Mgmt-Pod-Identity-dd9dce3defb642bd91aceb29c495304e)
 * [AWS EKS K8S Network Policy](https://gasidaseo.notion.site/AWS-EKS-K8S-Network-Policy-b4e9c4020dd44a44b7607fbafa75d9fb)
 * [개발자를 위한 Bastion Pod 설정 1: EKS 인증의 이해](https://wrtn.io/%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-bastion-pod-%ec%84%a4%ec%a0%95-1-eks-%ec%9d%b8%ec%a6%9d%ec%9d%98-%ec%9d%b4%ed%95%b4/)
+* [Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit | by KC | Jun, 2024 | Medium](https://blog.cloudacode.com/centralizing-aws-eks-cluster-logs-to-aws-opensearch-with-fluent-bit-a96f626fc88f)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1638,6 +1639,8 @@ AWS
 * [Functions vs Containers: The Serverless Landscape • Marcia Villalba & Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=V9Op638hCs0)
   * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/9eeb478b0ba1)
   * [함수 대 컨테이너: 서버리스 환경 - 마르시아 비얄바 & 줄리안 우드 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/595172)
+* [Using Serverless & ARM64 for Real-Time Observability • Liz Fong-Jones • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=nI15yE2yIoI)
+  * [VidiGo Using Serverless & ARM64 for Real-Time Observabili](https://vidigo.ai/share/summary/dabc1610ba2b)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
