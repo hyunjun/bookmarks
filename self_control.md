@@ -115,6 +115,8 @@ Self Control
   * [How I Plan My Weekly Tasks (PARA Method) | Part 3 - YouTube](https://www.youtube.com/watch?v=MyWmGDnWhjE)
   * [My Second Brain in Apple Notes (PARA Method) | Part 4 - YouTube](https://www.youtube.com/watch?v=fioLhb1U4J0)
 * [PARA 방법론 – 간단명료해서 지속 실행 가능한 정보 정리 기법 – 형우의 웹개발](https://mytory.net/archives/15148)
+* [PARA 체계적인 노트 정리법 PARA | 하는 법, 개념, 장점, 옵시디언](https://goldenrabbit.co.kr/2024/06/10/para-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9D%B8-%EB%85%B8%ED%8A%B8-%EC%A0%95%EB%A6%AC%EB%B2%95-para-%ED%95%98%EB%8A%94-%EB%B2%95-%EA%B0%9C%EB%85%90-%EC%9E%A5%EC%A0%90-%EC%98%B5%EC%8B%9C%EB%94%94/)
+* [PARA Method(노트 관리법) 옵시디언 적용 및 후기 - PARA Obsidian](https://alive-wong.tistory.com/53)
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
