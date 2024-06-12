@@ -218,6 +218,7 @@ Sports
 * [中日에 참패한 KBL식 옛날농구, 더 이상 국제무대 통하지 않는다! 서정환의 사자후①](https://n.news.naver.com/sports/basketball/article/109/0004939647) 현재 KBL팀들이 모두 저렇게 하는 건 아니지만 전체적인 논조는 동의
 * [**농구의 길은 대체 무엇일까?**](https://sports.v.daum.net/v/20220325090956952)
 * [골든스테이트 워리어스를 'NBA의 구글'이라고 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goldenstatewarriors20220624)
+* [14화 전설의 마이클 조던,코비 브라이언트,샤킬오닐의 공통점?](https://brunch.co.kr/@kfinland100/139)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
