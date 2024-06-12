@@ -1356,6 +1356,7 @@ App
   * Etc Medis, NameChanger, Sloth, Hex Fiend
 * [개발자 생산성 높여주는 무료 맥 앱 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2421/)
 * [14 UNIQUE Mac Apps You Can’t Live Without! - YouTube](https://www.youtube.com/watch?v=oFeSRI8TcwI)
+* [매일 사용하는 추천 macOS앱을 알려주세요 | GeekNews](https://news.hada.io/topic?id=15295)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
