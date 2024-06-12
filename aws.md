@@ -2396,6 +2396,7 @@ AWS
 * [Amazon Redshift – Amazon Q를 포함한 새로운 AI 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
 * [Amazon Redshift Serverless에서 SQL 쿼리 스케줄링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scheduling-with-query-editor-v2-on-amazon-redshift-serverless/)
 * [Amazon Redshift: 벤치마크 기반의 가격대비 성능 비교 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-lower-price-higher-performance/)
+* [Amazon Redshift ML 정식 출시 – SQL기반 기계 학습 모델 생성 및 예측 수행 (서울 리전 포함) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
