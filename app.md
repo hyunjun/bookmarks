@@ -1642,6 +1642,7 @@ App
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
 * [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
+* [EU에서 사용가능한 애플 App Store 대체 마켓플레이스들 4가지 | GeekNews](https://news.hada.io/topic?id=15302)
 * [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/)
   * [alacritty: A cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
   * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
