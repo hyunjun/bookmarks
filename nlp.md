@@ -3804,6 +3804,8 @@ NLP
 * [LINE 앱의 잡음 제거 기술 성능 측정 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-noise-suppression-performance-in-line-app)
 * [Detecting Speech and Music in Audio Content | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8)
 * [Web Speech API로 프론트엔드에서 TTS 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/03/09/Web-Speech-API.html)
+* [Hi, AI: Our Thesis on AI Voice Agents | Andreessen Horowitz](https://a16z.com/ai-voice-agents/)
+  * [a16z가 정리한 AI Voice 에이전트에 대한 모든 것 | GeekNews](https://news.hada.io/topic?id=15304)
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
