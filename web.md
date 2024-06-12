@@ -1629,6 +1629,7 @@ Web
   * [Chris Laffra - PyScript - Python in the browser - YouTube](https://www.youtube.com/watch?v=5nseG-iU62g)
 * [Mesop](https://google.github.io/mesop/)
   * [mesop](https://github.com/google/mesop)
+  * [Google Mesop - 파이썬으로 웹앱 만들기 | GeekNews](https://news.hada.io/topic?id=15301)
 * [Mountaineer is a batteries-included web framework for Python and React](https://github.com/piercefreeman/mountaineer)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
