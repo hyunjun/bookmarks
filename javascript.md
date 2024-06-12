@@ -1484,6 +1484,7 @@ Javascript
 * [The Most Important Skill You Never Learned - YouTube](https://www.youtube.com/watch?v=l8pe_MSX4Lc)
   * [VidiGo The Most Important Skill You Never Learned.mp4](https://vidigo.ai/share/summary/cd3b364837d7)
   * [배우지 못한 가장 중요한 기술 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747927)
+* [Node Express 디버깅 기법 소개](https://mixedcode.com/blog/detail?pid=22)
 
 # Design System
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
@@ -5793,6 +5794,7 @@ Javascript
   * [개발자를 위한 친절한 UI 컴포넌트 라이브러리 만들기](https://engineering.linecorp.com/ko/blog/ui-component-library-for-developers-with-typescript-storybook)
   * [당신2 9하던 Storybook. 여러 프론트엔드팀에서 이미 사용하고 있거나 도입을 고민하시는… | by Sanghyup Jeong | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EB%8B%B9%EC%8B%A02-9%ED%95%98%EB%8D%98-storybook-a6b10a62e825)
   * [NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)
+  * [Storybook 알아보기 — SanbonDeveloper](https://sanbondeveloper.tistory.com/125)
   * [storybook-gen](https://github.com/blacktoast/storybook-gen)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
