@@ -1436,6 +1436,7 @@ SQL
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 * [Hydra / Query Postgres, Route to any Database](https://hydras.io/)
 * [Kexi - an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
+* [knex: A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use](https://github.com/knex/knex)
 * [krahodb: An open-source database designed to support multi-master replication. It is designed on the top of PostgreSQL, providing bidirectional replication, as well as row filtering](https://github.com/timbira/krahodb)
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
