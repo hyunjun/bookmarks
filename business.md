@@ -3515,6 +3515,8 @@ Business
   * [스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/topic?id=14789)
   * [GN#254 스타트업 성공 전략의 80%는 실수를 피하는 것 | GeekNews](https://news.hada.io/weekly/202421)
 * [스타트업에서의 위험한 버튼들](https://eopla.net/magazines/16245) 1. 기획자 (서비스기획, PM, PO 포함) 2. 디자이너 3. 개발자
+* [VC 리뷰 사이트가 잘 안되는 이유](https://eopla.net/magazines/17328)
+* [실리콘 밸리의 숨겨진 비밀: 창업자 유동성(Founder Liquidity) | GeekNews](https://news.hada.io/topic?id=15309)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
