@@ -1666,6 +1666,7 @@ Python
 * [asyncio 뽀개기 3 - SIGTERM (CTRL+C) 올바르게 처리하기](https://tech.buzzvil.com/blog/asyncio-no-3-sigterm/)
 * [Python asyncio를 활용한 효율적인 광고 데이터 수집 | MADTECH](https://tech.madup.com/python-asyncio-intro/)
 * [Asyncio Patterns in Python. Recently I needed to run millions of… | by Skyler Lewis | Feb, 2024 | Level Up Coding](https://levelup.gitconnected.com/asyncio-patterns-in-python-4d6760c6f145)
+* [asyncio를 사용한 비동기 소켓 통신 예제 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2343)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
