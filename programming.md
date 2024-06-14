@@ -2500,6 +2500,7 @@ Programming
 * [도메인 모델링 절차에 대하여](https://brunch.co.kr/@graypool/521)
 * [왜 도메인 모델링을 하는가?](https://brunch.co.kr/@graypool/540)
 * [CQRS 패턴의 빈 부분과 도메인 모델링](https://brunch.co.kr/@graypool/616)
+* [내가 아닌 다른 사람은 모델링을 왜 하게 되는가?](https://brunch.co.kr/@graypool/1746)
 * [**이벤트는 변경을 알리는 표준 프로그래밍 단위**](https://brunch.co.kr/@graypool/626)
 * [이벤트를 제대로 정의하려면 맥락을 잘 구축해야 한다](https://brunch.co.kr/@graypool/634)
   * [hotel-demo: Hotel booking application - Demo - Axon Framework & Axon Server](https://github.com/AxonIQ/hotel-demo)
