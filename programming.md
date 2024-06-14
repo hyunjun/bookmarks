@@ -1351,6 +1351,9 @@ Programming
 * [How engineering teams handle unplanned work | by Anna Debenham | boldstart ventures | Medium](https://medium.com/boldstart-ventures/how-engineering-teams-handle-unplanned-work-d90415ff0d81)
 * [과정 안내 Certified LeSS Practitioner | Odd-e Korea - (주) 오디디이 코리아](https://odd-e.kr/less2023/)
 * [SI Q&A 세션 ② SI 개발자, 어떻게 성장해야 하죠? | 요즘IT](https://yozm.wishket.com/magazine/detail/2573/)
+* [Why Everybody Hates Agile • Jesper Boeg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Gt9ZuHGpKbI)
+  * [VidiGo Why Everybody Hates Agile • Jesper Boeg • GOTO 202](https://vidigo.ai/share/summary/dffd077766a1)
+  * [모두가 애자일을 싫어하는 이유 - Jesper Boeg - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/779361)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -2290,6 +2293,7 @@ Programming
   * [VidiGo The Value Flywheel Effect: A Modern Cloud Strategy](https://vidigo.ai/share/summary/7c9514af8539)
 * [Moving Forward Under the Weight of All that State • Quinton Anderson • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=89doltLcemg)
   * [VidiGo Moving Forward Under the Weight of All that State](https://vidigo.ai/share/summary/ac0ee4e4b933)
+* [Cell architecture | PPT](https://www.slideshare.net/slideshow/cell-architecture/21889464)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -8622,6 +8626,7 @@ Programming
 * [이모지와 유니코드 | blog.hoseung.me](https://blog.hoseung.me/2022-08-25-emoji-and-unicode/)
 * [There's No Such Thing As Plain Text • Dylan Beattie • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=ajfb5LSbQVM)
 * [UTF-8 문서에서 form만 EUC-KR로 제출해야 할 때 – 형우의 웹개발](https://mytory.net/archives/16278)
+* [CUDA C 수준에서 한국어 토크나이저 구현](https://blog.sionic.ai/cuda-tokenizer)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
