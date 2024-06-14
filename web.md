@@ -1176,6 +1176,8 @@ Web
   * [Introducing HyperDev](http://joelonsoftware.com/items/2016/05/30.html)
 * [Jet - Lightweight, Realtime Message Bus for the Web](http://jetbus.io/)
 * [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
+* [mpa-archive: Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator](https://github.com/potahtml/mpa-archive)
+  * [mpa-archive - 웹사이트를 zip 으로 만들고, zip파일에서 바로 서빙하는 도구 | GeekNews](https://news.hada.io/topic?id=15308)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [oEmbed - a format for allowing an embedded representation of a URL on third party sites](https://oembed.com/)
   * [oEmbed를 소개합니다](https://meetup.toast.com/posts/81)
