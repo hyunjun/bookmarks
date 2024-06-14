@@ -418,6 +418,8 @@ C
 * [Kitsune - An efficient, general-purpose framework for dynamic software updating in C](http://kitsune-dsu.com/)
 * [Kore is an easy to use web application framework for writing scalable web APIs in C](https://kore.io/)
 * [Lemon is an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
+* [Lexbor is development of an open source HTML Renderer library. https://lexbor.com ](https://github.com/lexbor/lexbor)
+  * [Lexbor - 오픈소스 HTML 렌더러 라이브러리 | GeekNews](https://news.hada.io/topic?id=15332)
 * [libcbor - CBOR format implementation for C & others](http://libcbor.org/)
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
   * [Symisc Libcox - Cross Platform System Calls & Utilities](https://github.com/symisc/libcox)
