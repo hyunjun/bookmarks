@@ -2160,6 +2160,9 @@ Javascript
       * 사용자가 겪는 어려움을 해결하기 위해 `.eslintrc.\*` 파일을 `eslint.config.js`로 변환하는 ESLint Configuration Migrator 공개
   * [SafeQL - an ESLint plugin for writing SQL queries in a type-safe way](https://safeql.dev/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
+* [es-toolkit](https://es-toolkit.slash.page/ko/)
+  * [es-toolkit: A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash](https://github.com/toss/es-toolkit)
+  * [es-toolkit: 2-3배 빠르고, 97% 작은 lodash 대체 라이브러리 | GeekNews](https://news.hada.io/topic?id=15319)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
@@ -5286,6 +5289,8 @@ Javascript
   * [ReactiveConf 2016 - André Staltz: Visualizing the data flow with Cycle.js](https://www.youtube.com/watch?v=3a98OPJWFPY)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
+* [DGM.js | An infinite canvas with smart shapes | DGM.js](https://dgmjs.dev/)
+  * [DGM.js - 스마트 도형을 지원하는 오픈소스 무한 캔버스 React 컴포넌트 | GeekNews](https://news.hada.io/topic?id=15154)
 * [downshift: 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.](https://github.com/downshift-js/downshift)
   * [Decoupling UI and Logic in React: A Clean Code Approach with Headless Components | by Juntao Qiu | ITNEXT](https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c)
     * 복잡한 UI를 컴포넌트화한다면 렌더링과 상태 관리/로직을 분리한 헤드리스 패턴을 사용하는 것이 효과적
