@@ -2280,6 +2280,7 @@ Java
 * [Hitting the “refresh” button on your Spring web application by Stéphane Nicoll - YouTube](https://www.youtube.com/watch?v=8vtoa8VC-gY)
 * [Spring ReactiveCrudRepository를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
 * [미니컨 스프링 이벤트를 사용해보자 - F-Lab 루카 - YouTube](https://www.youtube.com/watch?v=2Hq9htCE0vA)
+* [스프링 AI 간단히 테스트하기 - YouTube](https://www.youtube.com/watch?v=C5hjgzL7jKI)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
@@ -2718,6 +2719,7 @@ Java
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
   * [효율적인 JUnit 사용 방법과 유용한 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1748/)
   * [Andy assesses student's test code. It's used in CSE1110, TU Delft.](https://github.com/cse1110/andy)
+  * [Junit and Mockito Tutorial - YouTube](https://www.youtube.com/playlist?list=PL04i_qOQpU673mbFlt9N390w7FhQcG4y4)
 * [karate: Test Automation Made Simple](https://github.com/karatelabs/karate)
   * [GraphQL e2e테스트 쉽게 하기 with Karate](https://velog.io/@hyemin916/GraphQL-e2e%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%89%BD%EA%B2%8C-%ED%95%98%EA%B8%B0-with-Karate)
 * [Mockito framework site](https://site.mockito.org/)
