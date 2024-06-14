@@ -459,6 +459,7 @@ Clojure
 * [A Clojure Pattern: Fallback for Numeric Values | LinkedIn](https://www.linkedin.com/pulse/clojure-pattern-fallback-numeric-values-evgheni-kondratenko-fhcxf%3FtrackingId=l9FvD%252F%252FkcEd5zADtiazi4g%253D%253D/)
 * [REPL-driving the browser by Josh Glover - YouTube](https://www.youtube.com/watch?v=WIuE1uMuX3g)
 * [Batching in Clojure is boring | LinkedIn](https://www.linkedin.com/pulse/batching-clojure-boring-evgheni-kondratenko-imdkf/)
+* [Managing components and systems without libraries (closeable pattern) in Clojure - YouTube](https://www.youtube.com/watch?v=a1TvDcDop2k)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
