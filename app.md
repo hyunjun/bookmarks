@@ -1534,6 +1534,7 @@ App
   * [CapturePlus](http://captureplus.net/)
   * [Flameshot](https://flameshot.org/)
     * [Flameshot - 강력한 오픈소스 캡쳐도구 | GeekNews](https://news.hada.io/topic?id=3777)
+    * [Flameshot – 크로스 플랫폼 화면캡쳐 소프트웨어 오픈소스 | GeekNews](https://news.hada.io/topic?id=15306)
   * GrabIt
   * [Greenshot](https://getgreenshot.org/)
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
@@ -2046,6 +2047,8 @@ App
   * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
   * React의 장점을 영상 제작에 활용할 수 있는 것이 특징 (Reusable components, Powerful composition, Fast Refresh, Package ecosystem)
 * [Remove Image Background](https://www.remove.bg)
+* [revideo: Create Videos with Code](https://github.com/redotvideo/revideo)
+  * [Revideo – 코드로 동영상을 제작하는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=15313)
 * [Rewatch: The private & secure video channel for your team](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
 * [Shotcut - Home](https://shotcut.org/)
