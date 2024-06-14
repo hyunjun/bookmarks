@@ -2081,6 +2081,8 @@ NLP
   * [LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740604)
 * [Applied LLMs - What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
   * [1년 동안 LLM과 함께 구축하며 배운 점 | GeekNews](https://news.hada.io/topic?id=15268)
+* [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+  * [Abliteration 으로 LLM 무삭제 검열 해제하기 | GeekNews](https://news.hada.io/topic?id=15331)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2849,6 +2851,7 @@ NLP
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
 * [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
+* [knowledge_graph_rag_query_engine.ipynb - Colab](https://colab.research.google.com/github/jerryjliu/llama_index/blob/main/docs/docs/examples/query_engine/knowledge_graph_rag_query_engine.ipynb)
 * [검색 증강 생성이 뭐죠? AI 필수 지식 RAG, 15분만에 배우기 - YouTube](https://www.youtube.com/watch?v=m7cNjCVpSrw)
 * [Python RAG Tutorial (with Local LLMs): AI For Your PDFs - YouTube](https://www.youtube.com/watch?v=2TJxpyO3ei4)
   * [VidiGo Python RAG Tutorial (with Local LLMs): AI For Your](https://vidigo.ai/share/summary/0323abe95372)
@@ -2863,7 +2866,6 @@ NLP
       * RAFT는 모델이 주어진 질문에 대답하는 데 기여하지 않는 검색된 문서를 무시하도록 훈련함으로써 이러한 방해 요소를 제거합니다. 이는 도움이 되는 문서에서 관련 부분을 정확히 식별하고 인용하여 질문에 대답함으로써 달성됩니다. 또한 RAFT의 Chain-of-Thought 스타일 응답은 모델의 추론 능력을 더욱 개선합니다. 도메인 특정 RAG에 적용될 때 RAFT는 PubMed, HotpotQA, Gorilla 등 다양한 데이터 세트에서 일관되게 성능을 향상시켜 도메인 특정 RAG 기능을 갖는 사전 훈련된 LLM에 대한 유용한 사후 훈련 강화를 제공합니다.
       * RAFT 모델은 Meta의 Llama2-7B 기본 모델과 Microsoft AI Studio에서 훈련됩니다. RAG 응용 프로그램을 위한 RAFT 모델을 직접 훈련하는 방법에 대한 짧은 자습서를 제공합니다. RAFT에 대한 자세한 내용은 논문과 Microsoft-Meta 블로그를 참조하십시오.
   * [gorilla/raft at main · ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla/tree/main/raft)
-* [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [Bay.Area.AI: LLM + Graph Database for RAG, Andreas Kollegger - YouTube](https://www.youtube.com/watch?v=-P0__Ch3sqE)
   * [VidiGo Bay.Area.AI: LLM + Graph Database for RAG, Andreas](https://vidigo.ai/share/summary/7f3e15f9df46)
   * [Bay.Area.AI: RAG용 LLM + 그래프 데이터베이스, Andreas Kollegger | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/581310)
