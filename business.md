@@ -1274,6 +1274,7 @@ Business
 * [담대한 변화를 만드는 스토리텔링의 힘(下)](https://brunch.co.kr/@graypool/1377)
 * [눈치 왕국](https://www.thestartupbible.com/2024/03/the-nunchi-game.html) high/low context 이야기
 * [생산성 향상을 위한 실무에서의 비동기 커뮤니케이션 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/%EC%83%9D%EC%82%B0%EC%84%B1/%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/)
+* [의사소통이 즐거운 개발자의 3가지 능력 | 요즘IT](https://yozm.wishket.com/magazine/detail/2631/) 개발자뿐만 아니라 모두에게 필요한 부분
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1478,6 +1479,7 @@ Business
   * [VidiGo Wardley Mapping Strategy at BigCorp – A True Story](https://vidigo.ai/share/summary/de889ca26a21)
   * [BigCorp의 워들리 매핑 전략 - 실화 - Erik Schoen - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740578)
     * 간단한 캔버스로 준비한 Wardley Mapping에서는 목적, 범위, 사용자, 사용자 요구사항, 가치 사슬이 핵심
+* [대기업 사업전략 담당자가 100개 스타트업 코칭하고 깨달은 것](https://eopla.net/magazines/17410)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
