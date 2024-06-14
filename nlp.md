@@ -1783,6 +1783,7 @@ NLP
 * [AI-Text 필터링 모델을 위한 거대 ML 모델 적용기](https://engineering.linecorp.com/ko/blog/apply-large-ml-models-for-ai-text-filtering-models)
 * [개발자로서 LLM 사용을 위해 알아두면 좋은 내용들 (Large Language Model for ordinary developers), Haandol](https://haandol.github.io/2023/05/02/llm-for-ordinary-developers.html)
 * [Finetuning LLMs Efficiently with Adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
+* [🔥 라이브 Q&A Open Ko(한국어) LLM 리더보드 최장기간 1위 모델 개발하신 이승유님과 #FineTuning 주제로 달려봅시다! 🔥 - YouTube](https://www.youtube.com/live/ptlmj9Y9iwE)
 * [HelloWorld.23 개발자를 위한 Large Language Model(LLM)- 한성민 - YouTube](https://www.youtube.com/watch?v=MQqywFK36V8)
 * [칼럼ㅣ대규모 언어 모델(LLM)에의 열광 유감 - CIO Korea](https://www.ciokorea.com/column/291979)
 * [대형 언어 모델을 바라보는 IT와 금융 업계의 시선](https://www.boannews.com/media/view.asp?idx=118316)
@@ -2898,7 +2899,7 @@ NLP
 * [The Hottest Topics In Machine Learning - Analyzing machine learning trends in research](https://towardsdatascience.com/the-hottest-topics-in-machine-learning-53b5ebd02e44)
 
 # Library
-
+* [🇰🇷한글 형태소 분석기(Kiwi, Kkma, Okt) + BM25, FAISS 리트리버로 한글 검색 성능 테스트🤖 - YouTube](https://www.youtube.com/watch?v=qm9_WBkX6Os)
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [Hugging Face "Tokenizers"와 PyTorch "Captum" 라이브러리 사용기](https://github.com/Huffon/nlp-various-tutorials/blob/master/tokenizers-captum.ipynb) ipynb
   * [huggingface.co/nlp/viewer](https://huggingface.co/nlp/viewer/)
