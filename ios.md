@@ -731,6 +731,8 @@ iOS
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
+* [Swift.org - Getting Started with the Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
+  * [Swift Static Linux SDK | GeekNews](https://news.hada.io/topic?id=15311)
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Bridge - Simple Typed JSON HTTP Networking in Swift 2.0](https://github.com/rawrjustin/Bridge)
 * [Cartography - Declarative Auto Layout in Swift](https://github.com/robb/Cartography)
