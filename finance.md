@@ -209,6 +209,9 @@ Finance
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
+* [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
+  * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
+  * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U&ab_channel=eminshall)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * openbb [Investment research for everyone](https://openbb.co/)
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
