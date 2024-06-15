@@ -2984,6 +2984,7 @@ Python
   * [textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser](https://github.com/textualize/textual/)
   * [Textual 강좌 1 - App 구성하기 · Wireframe](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-1-app-%ea%b5%ac%ec%84%b1%ed%95%98%ea%b8%b0/)
   * [Textual 강좌 2 - 이벤트 · Wireframe](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-2-%ec%9d%b4%eb%b2%a4%ed%8a%b8/)
+  * [Textual 강좌 3 - 위젯과 DOM 쿼리 · Wireframe](https://soooprmx.com/textual-%ea%b0%95%ec%a2%8c-3-%ec%9c%84%ec%a0%af%ea%b3%bc-dom-%ec%bf%bc%eb%a6%ac/)
   * [Textual - 프로그레스 바 추가하기 · Wireframe](https://soooprmx.com/textual-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%a0%88%ec%8a%a4-%eb%b0%94-%ec%b6%94%ea%b0%80%ed%95%98%ea%b8%b0/)
 * [Dear PyGUI API Docs](https://hoffstadt.github.io/DearPyGui/)
   * [Create a Python App with Dear PyGui - Graphic User Interface - YouTube](https://www.youtube.com/watch?v=2RocXKPPx4o)
