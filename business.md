@@ -81,6 +81,7 @@ Business
 * [기업 경영진이 정신 건강을 챙겨야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244797)
 * [이복연 - 캐나다의 한 금융 기관에서 조사한 결과에 따르면 창업자들이 우울을 경험할 확률은 일반인에 비해 2배가 높고,... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0ie39o7r1hKcdAt9bdVtMYd11PgnLJTMHfQ8PdmccuLMFLsrq7zZs3N4gBwM85h1fl)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
+* [오피스 빌런을 다루는 법: 직장 내 괴롭힘 예방과 대처 전략](https://www.linkedin.com/pulse/%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B9%8C%EB%9F%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-slfpe)
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
@@ -756,6 +757,9 @@ Business
 * [Why do most lists of top-level priorities read like bucket lists?](https://www.linkedin.com/feed/update/urn:li:activity:7109328490398720000/)
   * [우선순위의 미로: 버킷 리스트를 해석하는 사람들](https://brunch.co.kr/@yongjinjinipln/117)
 * [ICE를 활용한 우선순위 관리](https://brunch.co.kr/@yongjinjinipln/120)
+* [How to Prioritize Platform Product Decisions • Cassidy Coy • CodeCrafts 2024 - YouTube](https://www.youtube.com/watch?v=yJ5abVCM4v8) ICE
+  * [VidiGo How to Prioritize Platform Product Decisions • Cas](https://vidigo.ai/share/summary/d8146bafb75e)
+  * [플랫폼 제품 결정의 우선순위를 정하는 방법 - 캐시디 코이 - CodeCrafts 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788541)
 * [**실리콘밸리는 이렇게 일합니다 - YouTube**](https://www.youtube.com/watch?v=D6S5gIdRYQs)
   * 의미있는 일 = 매출 증가 or 사용자수 증가
   * impact와 complexity에 따라 high/easy한 일부터 처리
@@ -2763,6 +2767,9 @@ Business
 * [PO SESSION, 토스의 핵심 노하우를 나누다](https://blog.toss.im/article/toss-posession)
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
+* [10 years after "Growth Hacking" - by Andrew Chen](https://andrewchen.substack.com/p/10-years-after-growth-hacking)
+  * ["그로스 해킹, 아직 유효한가?" 앤드류 챈의 사업개발 관점](https://eopla.net/magazines/17338)
+  * ["그로스(Growth) 해킹", 이후 10년 · 위픽레터](https://letter.wepick.kr/510/4411085/)
 * [Better/Sooner/Cheaper/More - by Kent Beck](https://tidyfirst.substack.com/p/bettersoonercheapermore) iron cross
 * [“테슬라를 끊으면 부들부들 금단증상이 생긴다” - YouTube](https://www.youtube.com/watch?v=RrKq6EuSARM) 테슬라 이야기보다 서비스에 대한 관점이 더 들을만했음
 * [로그인, 회원가입, ..회원 서비스 기획 너무 어렵다!](https://brunch.co.kr/@zungyeonlee/11)
