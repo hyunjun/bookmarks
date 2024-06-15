@@ -916,6 +916,7 @@ Javascript
   * [번역 코드 품질을 높여주는 고급 자바스크립트 함수](https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality)
 * [DOM의 변화를 감지하는 MutationObserver - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/900)
 * [AOP in TypeScript](https://d2.naver.com/helloworld/3010710) aspect-oriented programming
+* [Javascript Nullish Coalescing Operator (??) 자바스크립트 연산자 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/javascript-nullish-coalescing-operator-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90/)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -1513,9 +1514,6 @@ Javascript
 * [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
 * [인디자인 요소, 자간(Tracking)과 글자간격(letter spacing), 커닝(kerning), 이음자(ligature)](https://a-park.me/55)
 * [쿠팡은 디자인 시스템을 어떻게 구축했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2045/)
-* [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
-* [Design Systems Demystified](https://www.designsystem.tools/)
-  * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
 * [Multiple Layers of Abstraction in Design Systems - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
   * 디자인 시스템 컴포넌트, 혹은 공통 컴포넌트라면 수많은 요구사항을 충족 시켜야 하며, 앞으로 더 많은 요구사항 반영 및 기능 구현에 직면 가능
     * 이것을 잘 해결해 나가려면 '이것 아니면 저것'이라는 접근 방식으로는 불충분
@@ -1527,11 +1525,6 @@ Javascript
 * [디자인 시스템의 육하원칙- 2.언제, 누가?](https://brunch.co.kr/@dddesign/2)
 * [디자인 시스템의 육하원칙- 3. 무엇을? 어떻게?](https://brunch.co.kr/@dddesign/3)
 * [디자인 시스템의 육하원칙- 3. 무엇을? 어떻게?-02](https://brunch.co.kr/@dddesign/4)
-* [Gmarket Design System](http://gds.gmarket.co.kr/)
-* [Helios Design System](https://helios.hashicorp.design/)
-  * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
-  * [design-system: Helios Design System](https://github.com/hashicorp/design-system)
-* [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [Saga Design System: shaping the future of user experiences at Grafana Labs | Grafana Labs](https://grafana.com/blog/2023/11/07/saga-design-system-shaping-the-future-of-user-experiences-at-grafana-labs/)
   * Grafana Labs에서 Grafana 내의 제품 간에 일관된 인터페이스를 제공하기 위해 디자인 시스템 Saga 공개
 * [Naming tokens in design systems](https://www.linkedin.com/posts/nbabich_designsystem-designsystems-ui-activity-7176188118608343040-wHJp/)
@@ -1540,6 +1533,16 @@ Javascript
   * Component-specific tokens represent unique and specific design decisions associated with a particular component
 * [제품이 커지면 디자인 시스템 가이드는 어떻게 개선돼야 할까?](https://toss.tech/article/toss-design-system-guide)
 * [디자인시스템 읽어볼만한 링크](https://velog.io/@easylogic/%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%BD%EC%96%B4%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%A7%81%ED%81%AC)
+* [문제의 근원을 해결 하기 위한 다양한 시도](https://toss.tech/article/Various-attempts-to-solve-the-problem)
+* [잘 쓰이는 디자인 시스템을 위한 여정 | 29CM TEAM](https://medium.com/29cm/%EC%9E%98-%EC%93%B0%EC%9D%B4%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-7c4fe03f32b7)
+* [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
+* [Design Systems Demystified](https://www.designsystem.tools/)
+  * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
+* [Gmarket Design System](http://gds.gmarket.co.kr/)
+* [Helios Design System](https://helios.hashicorp.design/)
+  * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
+  * [design-system: Helios Design System](https://github.com/hashicorp/design-system)
+* [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
@@ -2883,6 +2886,7 @@ Javascript
 * [궁극의 JavaScript 모노레포 설정 - fromundefined by Tony](https://fromundefined.com/posts/2022-08-ultimate-monorepo/) lerna yarn workspace ultra runner
 * [DevOps MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
 * ['모노레포' 태그의 글 목록](https://yeoulcoding.me/tag/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC)
+* [200여개 서비스 모노레포의 파이프라인 최적화](https://toss.tech/article/monorepo-pipeline)
 * [JavaScript package managers compared - npm, Yarn, or pnpm? – Sebastian Weber – Frontend developer who likes to learn by teaching](https://doppelmutzi.github.io/packageManagers/)
   * [번역 JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm?](https://velog.io/@dev_boku/JavaScript-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EB%B9%84%EA%B5%90-npm-Yarn-%EB%98%90%EB%8A%94-pnpm)
 * [Compare 5 Node Version Managers: Best Choice](https://pavel-romanov.com/5-node-version-managers-compared-which-is-right-for-you)
