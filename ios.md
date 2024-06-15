@@ -59,6 +59,7 @@ iOS
 * [iOS 오픈소스 제작후기](https://brunch.co.kr/@tilltue/40)
 * [하울의 코딩 채널](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [iOS HIG 스터디 자료](https://medium.com/@codesquad_yoda/ios-hig-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-590e039eece2)
+* [휴먼 인터페이스 가이드라인(HIG) | Apple Developer Documentation](https://developer.apple.com/kr/design/human-interface-guidelines)
 * [Finding memory leaks react-native app (iOS)](https://medium.freecodecamp.org/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c)
 * [Continuous integration for iOS with Nix and Buildkite](https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d)
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
@@ -189,6 +190,7 @@ iOS
   * [애플의 새로운 온디바이스 및 서버 기반 파운데이션 모델 소개 | GeekNews](https://news.hada.io/topic?id=15283)
 * [iPhone, iPad, Mac 전용 Apple Intelligence 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
   * [애플, 개인용 인공 지능 시스템 Apple Intelligence 공개 | GeekNews](https://news.hada.io/topic?id=15275)
+* [Haptic Feedback :: iOYES](https://green1229.tistory.com/480)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -241,6 +243,7 @@ iOS
   * [모듈화하고 Needle 적용해보기. iOS Dependency Injection by Uber’s… | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
 * [periphery: A tool to identify unused code in Swift projects](https://github.com/peripheryapp/periphery)
   * [Azar iOS Team이 잊힌 코드를 추모 하는 법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/12/15/ios-periphery.html)
+* [PhotosPicker 사용하기 :: iOYES](https://green1229.tistory.com/481)
 * [PINCache - Fast, non-deadlocking parallel object cache for iOS and OS X](https://github.com/pinterest/PINCache)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
   * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
