@@ -463,6 +463,7 @@ App
   * [워드프레스 이미지 확대 에러 – Uncaught TypeError: el is undefined / Uncaught TypeError: items startIndex is undefined / Uncaught TypeError: swiper is undefined – 형우의 웹개발](https://mytory.net/archives/15772)
   * [워드프레스를 PHP 프레임워크로 활용한다는 것의 의미 – 형우의 웹개발](https://mytory.net/archives/15800)
   * [워드프레스 백업과 복원은 웹 파일과 DB를 한 쌍으로 맺어야 한다 - 넷마블 기술 블로그](https://netmarble.engineering/wordpress-backup-and-restore/)
+  * [워드프레스 홈페이지 만들기 – 기본 테마 편집기를 이용하는 게 좋습니다 – 형우의 웹개발](https://mytory.net/archives/16444)
   * [Studio by WordPress.com – WordPress.com Developer Resources](https://developer.wordpress.com/studio/)
     * [Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구 | GeekNews](https://news.hada.io/topic?id=14858)
     * [Meet Studio: Your New Favorite Way to Develop WordPress Locally – WordPress.com News](https://wordpress.com/blog/2024/04/24/studio/)
@@ -1357,6 +1358,7 @@ App
 * [개발자 생산성 높여주는 무료 맥 앱 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2421/)
 * [14 UNIQUE Mac Apps You Can’t Live Without! - YouTube](https://www.youtube.com/watch?v=oFeSRI8TcwI)
 * [매일 사용하는 추천 macOS앱을 알려주세요 | GeekNews](https://news.hada.io/topic?id=15295)
+* [DevOps 엔지니어 ‘일잘러’로 만드는 맥북 필수 도구 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/12/devops-mac-setting/) Warp Dropover Shottr Raycast AltTab
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1786,6 +1788,7 @@ App
   * [Scala's Gitter to Discord migration mistake - Alexandru Nedelcu](https://alexn.org/blog/2022/04/09/scala-gitter-discord-mistake/)
   * [디스코드에서 대용량파일 보내는 쉽고 새로운 방법](https://about.file.kiwi/35)
   * [DevOps Linux Shell Script를 이용하여 서버 접속 사용자 정보 디스코드에 보내기](https://junyharang.tistory.com/463)
+  * [Discord.py 없이 requests만으로 File 첨부해서 메시지 전송하기 | by Junah | Jun, 2024 | Medium](https://junah201.medium.com/discord-py-%EC%97%86%EC%9D%B4-requests%EB%A7%8C%EC%9C%BC%EB%A1%9C-file-%EC%B2%A8%EB%B6%80%ED%95%B4%EC%84%9C-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-f8cd4a03681b)
   * [juny-discord-bot-test: JDA를 이용한 Spring Boot Discord Bot 연습이에요](https://github.com/junyharang-personal-project/juny-discord-bot-test)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기](https://junyharang.tistory.com/381)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - Spring Boot(스프링 부트)를 이용한 간단한 API 만들기 feat.mybatis(마이바티스)](https://junyharang.tistory.com/382)
