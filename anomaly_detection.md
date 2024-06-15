@@ -73,4 +73,7 @@ Anomaly Detection
 * [A Complete Anomaly Detection Algorithm From Scratch in Python: Step by Step Guide | by Rashida Nasrin Sucky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e)
 * [Unsupervised Anomaly Detection with Isolation Forest - Elena Sharova - YouTube](https://www.youtube.com/watch?v=5p8B2Ikcw-k)
 * [Python Data Analysis Tips - Anomaly Detection Plot in Seaborn](https://www.datasimple.education/post/python-data-analysis-tips-anomaly-detection-plot-in-seaborn/)
+* [Detecting Outliers in Your Data With Python | Real Python Podcast #208 - YouTube](https://www.youtube.com/watch?v=e1P7q-YKt-I)
+  * [VidiGo Detecting Outliers in Your Data With Python | Real](https://vidigo.ai/share/summary/37518fbe2fdd)
+  * [파이썬으로 데이터에서 이상값 감지하기 | 실제 파이썬 팟캐스트 #208 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788425)
 * [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)
