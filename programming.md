@@ -1246,6 +1246,7 @@ Programming
 * [실리콘밸리가 열광한 '애자일 방법론' 5가지 소개 - wishket](https://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EA%B0%80-%EC%97%B4%EA%B4%91%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0-5%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C/)
 * [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
+* [Study finds 268% higher failure rates for Agile software projects • The Register](https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/06/05/agile_failure_rates/)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Mon6gU47fPk)
 * [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
@@ -7826,6 +7827,7 @@ Programming
   * [고품질 소프트웨어 개발 방법을 배우지 못하는 현실 | GeekNews](https://news.hada.io/topic?id=12259) QA에 대한 이야기. 스타일은 요즘은 아니고 좀 예전 것
 * [QA는 생성형 AI 테스트 도구를 어떻게 검증할까? - ITWorld Korea](https://www.itworld.co.kr/news/321731?page=0,0)
 * [10 Best QA Companies Using AI in Software Testing in 2024 | by timothy joseph | Jan, 2024 | Medium](https://medium.com/@timothyjosephcw/10-best-qa-companies-using-ai-in-software-testing-in-2024-5b708d222a9f)
+* [헤이딜러 QA팀은 어떻게 일하나요?. - 매주 배포하는 스타트업 환경에서 어떻게 일해야 효율적일까? … | by rookie | PRND | May, 2024 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C-qa%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-3588417b3d02)
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
@@ -8649,3 +8651,6 @@ Programming
 * [Devoxx Greece 2024 - Busy Developer's Guide to Building a Bytecode Virtual Machine by Ted Neward - YouTube](https://www.youtube.com/watch?v=AYNx6zJhbx4)
   * [VidiGo Devoxx Greece 2024 - Busy Developer's Guide to Bui](https://vidigo.ai/share/summary/42816b5bbf7b)
   * [Devoxx Greece 2024 - 바쁜 개발자를 위한 바이트코드 가상 머신 구축 가이드 작성자: Ted Neward | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/616766)
+* [The Future of zk-VM: Pioneering Optimization Techniques and Challenges / Ventali Tan - YouTube](https://www.youtube.com/watch?v=nhIuaBX73Ic)
+  * [VidiGo The Future of zk-VM: Pioneering Optimization Techn](https://vidigo.ai//share/summary/0ceb2ea1224a)
+  * [zk-VM의 미래: 선구적인 최적화 기법과 도전 과제 \ Ventali Tan | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788732)
