@@ -498,6 +498,8 @@ Android
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Images and graphics](https://pluu.github.io/blog/android/2024/06/02/compose/)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ 접근성](https://pluu.github.io/blog/android/2024/06/06/compose-accessibility/)
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Animation](https://pluu.github.io/blog/android/2024/06/06/compose/)
+  * [Pluu Dev - 정리 Compose 가이드 문서 ~ 터치&입력](https://pluu.github.io/blog/android/2024/06/15/compose/)
+  * [DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose](https://d2.naver.com/helloworld/0623656)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
