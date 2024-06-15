@@ -268,6 +268,7 @@ Google Cloud Platform GCP
 
 # Conference
 * [Google Cloud Next 2024 wrap up | Google Cloud Blog](https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2024-wrap-up)
+* [Google Cloud Next 2024 참관 후기 1편 - AI로 업그레이드된 구글 클라우드와 우리의 준비 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2024-google-cloud-next-1/)
 
 # Library
 * [gcpdiag](https://gcpdiag.dev/)
