@@ -391,6 +391,7 @@ Monitoring
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=EJc3ppBJZrw)
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussle - YouTube](https://www.youtube.com/watch?v=piM7PEswmso)
   * [Observability 101 with Spring and Micrometer by Nele Uhlemann - YouTube](https://www.youtube.com/watch?v=Ssje93u2GWM)
+  * [opentelemetry-with-scala-futures: Example Play Scala application with OpenTelemetry instrumentation and detailed walkthrough](https://github.com/wsargent/opentelemetry-with-scala-futures)
   * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
     * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
 * [qryn: Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic alternative! WASM powered ⭐️ Star to Support](https://github.com/metrico/qryn)
