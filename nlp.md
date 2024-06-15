@@ -3941,6 +3941,8 @@ NLP
     * 예시 음성파일로 실험해 보니 '수서'->'수소', '우리역엔' -> '우리옆엔', '전동차와 승강장 사이가' -> '전동장와 생강장사위가'로 인식되긴 하지만 monolingual이 아닌 multilingual임에도 불구하고 전체적으로 잘 되는 느낌. 일본어 음성도 잘 인식
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
+  * [WhisperKit — Argmax](https://www.takeargmax.com/blog/whisperkit)
+    * [WhisperKit: On-device Inference of Whisper Speech Recognition Models for Apple Silicon](https://github.com/argmaxinc/WhisperKit)
   * [whisper_streaming: Whisper realtime streaming for long speech-to-text transcription and translation](https://github.com/ufal/whisper_streaming)
     * [Near real-time transcription of a live audio stream with OpenAI Whisper for keyword monitoring - Data-Dive](https://data-dive.com/realtime-audio-stream-keyword-monitoring-and-alerting-using-openai-whisper/)
   * [Whisper-WebUI: A Web UI for easy subtitle using whisper model.](https://github.com/jhj0517/Whisper-WebUI)
