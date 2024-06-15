@@ -440,6 +440,7 @@
 * [코틀린 async](https://brunch.co.kr/@mystoryg/191)
 * [코루틴 API 살펴보기](https://www.kazuya.io/ee923f20-c508-4dbb-9b5e-7516c26089ae)
 * [WMS 재고 이관을 위한 분산 락 사용기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17416/)
+* [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/332)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
@@ -479,6 +480,9 @@
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
 * [Composing All The Things with Kotlin Multiplatform • Garth Gilmour • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iq2tTtG3zs4)
 * [플러터Flutter 말고 코틀린Kotlin 하세요. 코틀린 멀티플랫폼이 플러터의 강력한 경쟁자가 될 겁니다. + 플러터,다트로는 딥테크 산업을 커버하지 못할 것 같습니다. - YouTube](https://www.youtube.com/watch?v=4HyEl0n5d14)
+* [Finding Developer Joy with KMP | KotlinConfersations'24 - YouTube](https://www.youtube.com/watch?v=xUGBmGyGY30)
+  * [VidiGo Finding Developer Joy with KMP | KotlinConfersatio](https://vidigo.ai/share/summary/57e6d9d21b32)
+  * [KMP를 통한 개발자의 즐거움 찾기 | KotlinConfers'24 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788806)
 * [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
 
 # Library
@@ -583,6 +587,8 @@
 * [Kotlin으로 Spring AOP 극복하기! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/overcome-spring-aop-with-kotlin/)
 * [Reactive REST API With Spring, Kotlin and Coroutines](https://codersee.com/reactive-rest-api-with-spring-kotlin-and-coroutines/)
 * [Kotlin과 Spring Cloud Function 기반 애플리케이션을 AWS EventBridge와 Lambda에 배포하기](https://www.kazuya.io/855fa275-fc96-4310-97eb-ad0c62dd660a)
+* [example-r2dbc-connection-pool: R2DBC Connection Pool 초기화 관련 예제 Repository](https://github.com/d0lim/example-r2dbc-connection-pool)
+  * [R2DBC Connection Pool 실종 사건 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/r2dbc-connection-pool-missing/)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
   * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
