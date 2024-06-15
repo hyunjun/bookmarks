@@ -832,6 +832,7 @@ Linux
   * [Monitor your Linux system in your terminal with procps-ng | Opensource.com](https://opensource.com/article/21/8/linux-procps-ng) ps and pstree, pidof, pgrep
   * [10 Example of ps -ef command in Linux and UNIX | Java67](https://www.java67.com/2020/03/10-ways-to-use-ps-command-in-linux.html)
   * [10 Examples of ps command in Linux | Java67](https://www.java67.com/2022/08/10-examples-of-ps-command-in-linux.html)
+  * [Linux Process Story](https://naleejang.tistory.com/276)
   * [ProcMon-for-Linux: Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system](https://github.com/Sysinternals/ProcMon-for-Linux/) process monitor
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
