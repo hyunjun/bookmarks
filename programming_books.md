@@ -3174,6 +3174,13 @@ Programming Books
 * [일 잘하는 팀장 - IT 회사에서 살아남은 팀장의 41가지 리더십 기술](http://www.easyspub.co.kr/20_Menu/BookView/663/PUB)
   * ★★★☆☆ 2024.05.13 모든 레벨에서 참고해도 좋지만 특히 초보 팀장을 위해 좋은 책. 부담스럽지 않은 분량에 대부분의 매니지먼트 영역을 기술했다.
   * 한라 325.24-이73ㅇ
+* [비동기 우선 플레이북](https://occamsrazr.net/tt/399)
+  * ★★★★☆ 2024.06.13~15 [https://www.thoughtworks.com/insights/books/async-first-playbook](https://www.thoughtworks.com/insights/books/async-first-playbook)
+  * 우당 문005.104-모13ㅂ
+  * [비동기 우선 플레이북 The Async-First Playbook](https://1003.notion.site/The-Async-First-Playbook-f5b2a1a345f24bc1a5353a6d4b7bd852)
+  * [비동기 우선 플레이북 The Async-First Playbook](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_async_first_playbook.md)
+  * [비동기 우선 플레이북. ★★★★☆ June 13, 2024 → June 15, 2024… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9A%B0%EC%84%A0-%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81-1866166c5e25)
+  * [비동기 우선 플레이북 -](https://jh4hj.tistory.com/entry/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9A%B0%EC%84%A0-%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
