@@ -702,6 +702,7 @@ Business
 * [여행정보 서비스가 흥하기 어려운 이유](https://yslab.kr/81)
 * [Funnel을 마케팅 말고 engagement 분석에?](https://brunch.co.kr/@graypool/649)
 * [퍼널 최적화 전략. 임팩트 있었던 그로스 사례들로 살펴보기 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%ED%8D%BC%EB%84%90-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5-a9511086e3c7) funnel
+* [연 55억 매출의 핵심, ACP퍼널? 그렉 아이젠버그의 연쇄 창업](https://eopla.net/magazines/17454)
 * [코스트코는 왜 유통의 문법과 모조리 반대일까? - YouTube](https://www.youtube.com/watch?v=W9SrFrsibvo)
 * [Gartner Identifies 7 Technology Disruptions That Will Impact Sales Through 2027](https://www.gartner.com/en/newsroom/press-releases/2022-10-10-gartner-identifies-seven-technology-disruptions-that-will-impact-sales-through-2027)
   * [가트너가 선정한 2027년까지 Sales에 영향을 미칠 7가지 기술 혁신들 | GeekNews](https://news.hada.io/topic?id=7787)
