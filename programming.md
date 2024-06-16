@@ -5515,6 +5515,9 @@ Programming
 * [A reliable compute platform for Expedia customers - YouTube](https://www.youtube.com/watch?v=ou01X3UGVLI) HashiCorp
 * [**스푼라디오에서 플랫폼 엔지니어링으로 가기 위한 여정** — 1. 안녕하세요 스푼라디오에서 SRE 팀에서 DevOps업무를 담당하고 있는… | by Paul | Spoon Radio | Feb, 2024 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f0e5da669243) 대부분 AWS 관련 내용
 * [개발자가 알아두면 좋은 ‘코드형 인프라(IaC)’ 개념 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/2464/)
+* [An Infrastructure in Line with My Requirements • Erwan Alliaume & Eric Favre • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=R2We32C6g40)
+  * [VidiGo An Infrastructure in Line with My Requirements • E](https://vidigo.ai/share/summary/e7b0d477a1c0)
+  * [내 요구 사항에 부합하는 인프라 - 에르완 알리오메 & 에릭 파브르 - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/790127)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
