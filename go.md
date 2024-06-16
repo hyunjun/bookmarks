@@ -798,6 +798,8 @@ Go
   * [한글라이즈 재제작기](https://speakerdeck.com/sublee/remake-of-hangulize)
   * [나의 첫 Go 프로그램](http://occamsrazr.net/tt/351)
 * [hc - HomeControl is an implementation of the HomeKit Accessory Protocol (HAP) in Go. http://selfcoded.com/homecontrol](https://github.com/brutella/hc)
+* [hn-text: A text-first HN client](https://github.com/piqoni/hn-text)
+  * [HN-text - 빠르고 읽기 쉬운 해커뉴스 터미널 클라이언트 | GeekNews](https://news.hada.io/topic?id=15359)
 * [hraftd is a reference use of the Hashicorp Raft implementation, inspired by raftd](https://github.com/otoolep/hraftd)
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
