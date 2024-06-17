@@ -724,6 +724,8 @@ Business
 * [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
 * [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
 * [나의 첫 번째 성공적인 사업 TinyPilot을 매각 완료했어요 | GeekNews](https://news.hada.io/topic?id=15151)
+* [Do not try to be the smartest in the room; try to be the kindest. | Jorge Galindo's blog](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
+  * [방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/topic?id=15390)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1068,6 +1070,7 @@ Business
   * 2. 목표를 달성하는 과정에서 보여준 행동
   * 3. 미래를 위한 성장 잠재력
 * [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
+
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [#1 사업을 하시면 복식부기 장부를 쓰셔야 합니다. : 클리앙](https://www.clien.net/service/board/park/15790623)
