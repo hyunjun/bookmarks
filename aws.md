@@ -1994,6 +1994,7 @@ AWS
   * [AWS re:Invent 2023 - Infrastructure as code showdown: AWS CDK and declarative tools (COM213) - YouTube](https://www.youtube.com/watch?v=LtsML9ufNQs)
   * [Announcing CDK Migrate: A single command to migrate to the AWS CDK | AWS DevOps Blog](https://aws.amazon.com/ko/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/)
     * [aws-cdk/packages/aws-cdk/README.md at main · aws/aws-cdk](https://github.com/aws/aws-cdk/blob/main/packages/aws-cdk/README.md#cdk-migrate)
+  * [AWS CDK를 이용해서 OpenAI Whisper 모델 SageMaker Endpoint에 배포하기 Sungmin Kim on LinkedIn: #sagemakerendpoint #openaiwhisper #stt #asr #cdk](https://www.linkedin.com/posts/sungminkim23_sagemakerendpoint-openaiwhisper-stt-activity-7206188249474625536-Rd0Q)
   * [cdk8s](https://cdk8s.io/) helm template 대체 가능한 sdk
     * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
