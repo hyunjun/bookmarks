@@ -5660,6 +5660,9 @@ Programming
   * 불변으로 하는 경우는 읽기에만 제한적으로 사용할 수 있다는 걸 고려하면
   * 통신을 통해 공유하는 건 queue를 사용해 architecture를 확장하는 측면으로 생각해봐도 좋을 거 같다
 * [Message Broker - 카프카와 RabbitMQ를 알아보자 - YouTube](https://www.youtube.com/watch?v=0lyrd5FlETQ)
+* [선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=VUdpb0FFsY4)
+  * [VidiGo 선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런](https://vidigo.ai/share/summary/ff96d3bb6d7a)
+  * [선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/798357)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
