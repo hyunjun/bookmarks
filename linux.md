@@ -947,6 +947,8 @@ Linux
     * 당시 23번 포트의 Telnet과 21번 포트의 FTP를 대체할 수 있도록 SSH를 설계 후 무료인 22번 포트를 사용하면 좋겠다고 생각
     * 당시에는 인터넷의 규모가 작고 초기 단계, IANA에서 포트 번호를 관리, IANA에 SSH의 RFC를 첨부하면서 포트 번호, 특히 22번을 받고 싶다고 이메일
     * IANA에서 22번을 할당해 주고 Tatu Ylonen을 담당자로 지정해 주어 바로 SSH의 베타테스터들에게 공개
+  * [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
+    * [SSH Honeypot을 30일 동안 운영하면 보게 되는 것 | GeekNews](https://news.hada.io/topic?id=15378)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH
