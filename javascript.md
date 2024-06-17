@@ -5563,6 +5563,7 @@ Javascript
   * [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
   * [Demystifying React Server Components with NextJS 13 App Router](https://demystifying-rsc.vercel.app/)
     * RSC를 처음 접하거나 또는 RSC가 어떻게 작동하는지에 대해 더 많이 이해하고자 하는 개발자를 대상으로 Next.js 13의 서버 컴포넌트 개념과 코드를 단계별로 이해해 볼 수 있는 튜토리얼
+  * [**Next) 서버 컴포넌트(React Server Component)에 대한 고찰**](https://velog.io/@2ast/React-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8React-Server-Component%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
   * [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh | by Anik Routh | Aug, 2023 | Medium](https://anikrauth.medium.com/the-power-of-server-side-rendering-in-next-js-faster-loading-better-performance-by-anik-routh-da2144e027f8)
   * [Next.js Caching Rant - DEV Community](https://dev.to/treasuredev_/nextjs-caching-rant-k05)
   * [환경 고민없이 개발하기](https://toss.tech/article/isomorphic-javascript)
@@ -6382,6 +6383,8 @@ Javascript
 * [Deepkit Framework | Deepkit - High-Performance TypeScript Framework](https://deepkit.io/)
   * [Deepkit - 고성능 TypeScript 프레임워크 | GeekNews](https://news.hada.io/topic?id=6726)
 * [deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
+* [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
+  * [Effect - TypeScript로 강력한 앱 구축을 도와주는 라이브러리 | GeekNews](https://news.hada.io/topic?id=15381)
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
