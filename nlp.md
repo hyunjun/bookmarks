@@ -2085,6 +2085,7 @@ NLP
   * [LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740604)
 * [Applied LLMs - What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)
   * [1년 동안 LLM과 함께 구축하며 배운 점 | GeekNews](https://news.hada.io/topic?id=15268)
+  * [GN#258 1년 동안 LLM과 함께 구축하며 배운 점 | GeekNews](https://news.hada.io/weekly/202425)
 * [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
   * [Abliteration 으로 LLM 무삭제 검열 해제하기 | GeekNews](https://news.hada.io/topic?id=15331)
 * [Solar 10.7B: 간단하지만 효과적으로 수리능력이 강화된 sLLM | Upstage 2023 | 조진욱 - YouTube](https://www.youtube.com/watch?v=DRq4ZGXCc6M)
@@ -2511,6 +2512,11 @@ NLP
       * [순수 NumPy로 구현하는 라마 3 모델 | GeekNews](https://news.hada.io/topic?id=14856)
     * [Python Llama3를 파인튜닝을 통해 나만의 데이터로 학습 및 Huggingface에 적재해보자. - 미완성의신](https://unfinishedgod.netlify.app/2024/05/24/python/)
     * [Kyoungsu Park on LinkedIn: #llama3 #langchain #chatbot](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llama3-langchain-chatbot-activity-7197549384434130944-KHVr) Llama3 70B와 LangChain으로 한국어 Chatbot, bedrock
+    * [Building open source LLM agents with Llama 3 - YouTube](https://www.youtube.com/watch?v=j2OAeeujQ9M)
+      * [VidiGo Building open source LLM agents with Llama 3.mp4](https://vidigo.ai/share/summary/9e47bbf5eda3)
+      * [Llama 3로 오픈 소스 LLM 에이전트 구축하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/798228)
+    * [Cost Of Self Hosting Llama-3 8B-Instruct](https://blog.lytix.co/posts/self-hosting-llama-3)
+      * [Llama-3 8B-Instruct 모델 셀프 호스팅 비용 | GeekNews](https://news.hada.io/topic?id=15387)
     * [llama3.cuda: llama3.cuda is a pure C/CUDA implementation for Llama 3 model](https://github.com/likejazz/llama3.cuda)
       * [llama3.cuda: pure C/CUDA implementation for Llama 3 model : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1d6q7qh/llama3cuda_pure_ccuda_implementation_for_llama_3/)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
@@ -2703,6 +2709,8 @@ NLP
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
+* [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
+  * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
 * [Unstructured](https://unstructured.io/)
 * [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
   * [Lost in Translation: The Critical Impact of Neglecting Guideline Adherence in LLMs - UpTrain AI](https://blog.uptrain.ai/lost-in-translation-the-critical-impact-of-neglecting-guideline-adherence-in-llms/) LLMOps
