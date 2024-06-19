@@ -1812,6 +1812,16 @@ Book
   * 한라 189.2-케68ㅌ 탐라 문189.2-케69ㅌ
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24095)
   * [타인의 감정이 나를 지배하지 않도록 \ 캐런 케이시 \ 센시오 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512802)
+* [50이면 육아가 끝날 줄 알았다.. 초장수 시대 100년 동반자가 된 부모와 자식 관계 | 아주대 심리학과 김경일 교수 | 가족 노후 노년 초장수시대 - YouTube](https://www.youtube.com/watch?v=6TB1fWkNGhM&ab_channel=%ED%95%98%EC%9A%B0%ED%88%AC%3A%ED%95%98%EB%A3%A8%EB%A5%BC%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%ED%88%AC%EC%9E%90%ED%95%9C%EB%8B%A4%EB%A9%B4)
+  * ★★★☆☆ 2024.06.18~20 시대의 변화가 사람의 모든 생활에 영향을 준다는 걸 문자로만 알고 있었지 모르는 영역이 훨씬 많다는 걸 다시 한 번 깨닫게 해준 책. 당장 적합하진 않아도 나에게도 곧 닥칠 일이라고 생각하면서 읽어봤다. 이런 부분까지 쓴다고? 하면서 세부적인 거까지 항상 신경을 써야 한다는 점을 스스로 상기하면서 읽었다.
+  * 우당 문189.24-스831ㅇ 제주 598.1-스831오
+  * [김덕중 on LinkedIn: 이 책을 읽고 두가지를 느꼈습니다. 1)집에서 자녀와 잘 지내지 못한 임원은 회사에서도 마찬가지다.(저는 이책이 리더십 교재라고… | 12 comments](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EC%B1%85%EC%9D%84-%EC%9D%BD%EA%B3%A0-%EB%91%90%EA%B0%80%EC%A7%80%EB%A5%BC-%EB%8A%90%EA%BC%88%EC%8A%B5%EB%8B%88%EB%8B%A4-1%EC%A7%91%EC%97%90%EC%84%9C-%EC%9E%90%EB%85%80%EC%99%80-%EC%9E%98-%EC%A7%80%EB%82%B4%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%9E%84%EC%9B%90%EC%9D%80-activity-7169173578817503232-JyVA)
+  * [VidiGo 50이면 육아가 끝날 줄 알았다.. 초장수 시대 100년 동반자가 된 부모와 자식 관계 |](https://vidigo.ai/share/summary/1208d363b99b)
+  * [50이면 육아가 끝날 줄 알았다.. 초장수 시대 100년 동반자가 된 부모와 자식 관계 | 아주대 심리학과 김경일 교수 | 가족 노후 노년 초장수시대 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/809919)
+  * [50이면 육아가 끝날 줄 알았다 you and your adult child](https://github.com/hyunjun/bookmarks/blob/master/books/you_and_your_adult_child.md)
+  * [50이면 육아가 끝날 줄 알았다 you and your adult child | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/50%EC%9D%B4%EB%A9%B4-%EC%9C%A1%EC%95%84%EA%B0%80-%EB%81%9D%EB%82%A0-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-you-and-your-adult-child-a4dfcc4b06b5)
+  * [50이면 육아가 끝날 줄 알았다 you and your adult child - Jun’s Substack](https://recur.substack.com/p/50-you-and-your-adult-child)
+  * [50이면 육아가 끝날 줄 알았다 you and your adult child](https://jh4hj.tistory.com/entry/50%EC%9D%B4%EB%A9%B4-%EC%9C%A1%EC%95%84%EA%B0%80-%EB%81%9D%EB%82%A0-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4-you-and-your-adult-child)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
