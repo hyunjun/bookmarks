@@ -1965,6 +1965,15 @@ Docker
 * [DIY: Create Your Own Cloud with Kubernetes (Part 3) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-3/)
 * [쿠버네티스 챕터1. Spring Boot와 Docker를 이용한 Hello World Rest API Application 개발, 빌드, 배포 - YouTube](https://www.youtube.com/watch?v=kQc0iaWPLjk&list=PL9wb-tjlQWcX1EMc8NI_8_OiGiBqjgpj3&index=18)
 * [ARM 서버에 쿠버네티스(Kubernetes,.. : 네이버블로그](https://blog.naver.com/xslab/223467509684)
+* [Load balancing and scaling long-lived connections in Kubernetes](https://learnk8s.io/kubernetes-long-lived-connections)
+  * Kubernetes에서 HTTP keepalive처럼 TCP 연결을 열어두고 계속 사용하는 경우 로드밸런싱이 제대로 되지 않는 동작 설명
+  * Kubernetes에서 서비스의 IP는 자리 표시자로만 사용
+    * 실제로는 연결된 Pod의 IP로 대체되어 사용
+    * 이때 iptables는 무작위 알고리즘으로 선택하기 때문에
+      * 특정 Pod으로 오랜 기간 유지되는 연결이 열린다면
+      * 특정 Pod에만 연결이 몰릴 수 있어서 확장 불가능
+  * 이 문제를 해결하려면 클라이언트에서 로드 밸런싱 로직을 가지고나 로드 밸런싱 서비스를 도입해서 사용 필요
+    * 인프라에서 해결하려면 Istio나 Linkerd 같은 서비스 메시 사용 가능
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -3000,6 +3009,7 @@ Docker
 
 # Virtualization
 * [ARM 서버 기반 KVM 가상화 : 네이버 블로그](https://blog.naver.com/xslab/223404140262)
+* [가상화에 대한 짧은 단상](https://ebay-korea.tistory.com/107)
 * [Virt Tools](https://www.virt-tools.org/)
 
 # VMWare
