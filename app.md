@@ -1653,6 +1653,7 @@ App
   * [alacritty: A cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
   * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
   * [alacritty - 기계인간 John Grib](https://johngrib.github.io/wiki/tools/alacritty/)
+  * [How To Make Your Boring macOS Terminal Amazing With Alacritty - YouTube](https://www.youtube.com/watch?v=uOnL4fEnldA)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
   * [brew.sh/index_ko.html](http://brew.sh/index_ko.html)
