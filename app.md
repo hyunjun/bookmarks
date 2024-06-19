@@ -464,6 +464,7 @@ App
   * [워드프레스를 PHP 프레임워크로 활용한다는 것의 의미 – 형우의 웹개발](https://mytory.net/archives/15800)
   * [워드프레스 백업과 복원은 웹 파일과 DB를 한 쌍으로 맺어야 한다 - 넷마블 기술 블로그](https://netmarble.engineering/wordpress-backup-and-restore/)
   * [워드프레스 홈페이지 만들기 – 기본 테마 편집기를 이용하는 게 좋습니다 – 형우의 웹개발](https://mytory.net/archives/16444)
+  * [개발자의 워드프레스: 사이트 편집기를 활용해 효율적으로 홈페이지 만들기 – 형우의 웹개발](https://mytory.net/archives/16539)
   * [Studio by WordPress.com – WordPress.com Developer Resources](https://developer.wordpress.com/studio/)
     * [Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구 | GeekNews](https://news.hada.io/topic?id=14858)
     * [Meet Studio: Your New Favorite Way to Develop WordPress Locally – WordPress.com News](https://wordpress.com/blog/2024/04/24/studio/)
