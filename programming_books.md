@@ -22,9 +22,11 @@ Programming Books
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
 * [2021 개발자 필독서 ](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)
+* [(책 추천) 개발자 되기 위한 책-2024](https://brunch.co.kr/@topasvga/1379)
 * [어떻게 준비하면 인프랩에 입사할 수 있나요](https://jojoldu.tistory.com/661)
 * [OKKY - 절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
 * [79. 앱 개발 책 - 2021](https://brunch.co.kr/@topasvga/1452)
+* [(책)Backend 개발자가 공부해야 하는 것-2024](https://brunch.co.kr/@topasvga/3415)
 * [주니어 데이터 분석가를 시니어로 만들어 줄 책 5권](https://datarian.io/blog/books-that-will-turn-a-junior-data-analyst-into-a-senior)
   * SQL 레벨업: DB 성능 최적화를 위한 SQL 실전 가이드
   * 프로젝트 성패를 결정짓는 데이터 모델링 이야기
@@ -33,6 +35,7 @@ Programming Books
   * 함께 자라기: 애자일로 가는 길
 * [개발자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/04/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
 * [데이터 과학자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/12/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
+* [(책) 앱 개발 책 - 2023](https://brunch.co.kr/@topasvga/1452)
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
@@ -636,7 +639,7 @@ Programming Books
 
 # Amazon AWS
 
-* [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
+* [1.(책모음) AWS 시작으로 좋은 책-2023](https://brunch.co.kr/@topasvga/666)
 * (아마존 웹 서비스를 이용한)글로벌 서비스 인프라 설계 : 효율적인 AWS 운용을 위한 DevOps 환경 만들기
   * 탐라 문004.58-윤51ㄱ
   * 한라 004.58-윤52ㄱ
@@ -898,6 +901,7 @@ Programming Books
   * [끊임없이 변하는 환경에 맞춰 소프트웨어 아키텍처는 진화해야 한다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2558087232)
 
 # Artificial Intelligence
+* [(책모음) AI 관련책 - 2024](https://brunch.co.kr/@topasvga/3835)
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
   * ★★★☆☆ 2022.05.18~19 여러가지 AI 관련 기본지식을 재미있게 읽기 좋음
 * 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
@@ -1851,6 +1855,7 @@ Programming Books
   * 한라 005.12-스898ㅇ
 
 # DevOps
+* [(정보) DevOps엔지니어가 배워야 할 기술-2024](https://brunch.co.kr/@topasvga/2803)
 * [데브옵스 2.0 툴킷](http://acornpub.co.kr/book/devops-2.0-toolkit)
   * 2018.09
   * 한라 005.12파297ㄷ
@@ -1929,7 +1934,7 @@ Programming Books
   * 탐라 문005.1-스835ㄷ 우당 문005.1-스835ㄷ
 
 ## Kubernetes
-
+* [(책모음) 쿠버네티스 추천책-2024](https://brunch.co.kr/@topasvga/1455)
 * [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
 * [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
@@ -2506,7 +2511,7 @@ Programming Books
       * 당시 하던 일들이 많아서 미뤄지다가 결국 JDK 21까지의 내용까지 적용해서 출간
 
 # JavaScript
-
+* [90.(책모음) 프론트 엔드 개발자 되기 -2024](https://brunch.co.kr/@topasvga/1463)
 * [만약 헤밍웨이가 자바스크립트로 코딩한다면](https://jh4hj.tistory.com/entry/%EB%A7%8C%EC%95%BD-%ED%97%A4%EB%B0%8D%EC%9B%A8%EC%9D%B4%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EC%BD%94%EB%94%A9%ED%95%9C%EB%8B%A4%EB%A9%B4)
   * 2017.01.26
 * 처음 만나는 자바스크립트
