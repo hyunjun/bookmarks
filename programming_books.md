@@ -4066,7 +4066,6 @@ Programming Books
   * [data-analysis-pandas: Pandas를 이용한 데이터 분석 실습 2/e](https://github.com/AcornPublishing/data-analysis-pandas)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
 * (NOT YET) [판다스 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4172751734)
-* (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
 * (NOT YET) [파이썬 해킹 레시피 책이 출간되었습니다](https://whackur.tistory.com/184) 소켓 통신 구현, 백도어 제작, 은닉 채널을 이용한 메세지 송 수신, 네트워크 해킹, 크롤링등의 해킹 기법
@@ -4192,6 +4191,16 @@ Programming Books
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
   * 한라
 * (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
+
+# QA
+* [부트캠프 QA 편](https://www.hanbit.co.kr/store/books/look.php?p_code=B8100997241)
+  * ★★★☆☆ 2024.06.04~19
+  * [부트캠프 QA편](https://www.notion.so/1003/QA-283f98a18e1444f7ba345cf0415e352e)
+  * [부트캠프 QA편](https://github.com/hyunjun/bookmarks/blob/master/programming_books/bootcamp_QA.md)
+  * [부트캠프 QA편. (규모 무관하게) 조직장을 하면서부터 담당하는 프로덕트 혹은 서비스의… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-qa%ED%8E%B8-8e50937b083f)
+  * [부트캠프 QA편 - Jun’s Substack](https://recur.substack.com/p/qa)
+  * [부트캠프 QA편](https://jh4hj.tistory.com/entry/%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-QA%ED%8E%B8)
+* (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 
 # R
 
