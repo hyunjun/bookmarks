@@ -2122,7 +2122,8 @@ NLP
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
 * [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
-* [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
+* [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
+  * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
@@ -2184,6 +2185,7 @@ NLP
   * [Open Release of Grok-1](https://x.ai/blog/grok-os)
 * [GroqChat](https://groq.com/)
   * [Groq Labs LPU ( Language Processing Unit ) Chip Insane LLM Inference Speed - YouTube](https://www.youtube.com/watch?v=4Tjeb6Kk1H8)
+  * [Groq_API_LangChain.ipynb - Colab](https://colab.research.google.com/drive/1boaH7FMRUD3xE2rpmWvJMwVue1GcoUWi)
 * GSLM
   * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445)
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
@@ -2889,6 +2891,9 @@ NLP
 * [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
+  * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 - YouTube](https://www.youtube.com/watch?v=iMdwyGAgjd4&ab_channel=%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8TeddyNote)
+    * [VidiGo E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱.mp](https://vidigo.ai/share/summary/a5e2bf80a283)
+    * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804643)
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
 * [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
