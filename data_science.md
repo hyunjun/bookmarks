@@ -1087,6 +1087,7 @@ Data Science
 * [Keeping Sensitive Data Safe Using Recommendation Systems | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7ZP5NIbY8Eg)
 * [Machine Learning Recommender System With Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
 * [상품 추천 알고리즘 Item-CF의 최적화 여정](https://tech.buzzvil.com/blog/optimizing-itemcf/)
+* [오픈챗 해시태그 예측을 위한 다중 레이블 분류 모델 개발하기](https://techblog.lycorp.co.jp/ko/multi-label-classification-model-for-openchat-hashtag-prediction)
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 * [recommender_system_with_Python: recommender system tutorial with Python](https://github.com/lsjsj92/recommender_system_with_Python)
   * [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/670)
