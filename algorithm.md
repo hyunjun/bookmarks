@@ -317,6 +317,7 @@ Algorithm
     * [drunkpassenger.py](https://github.com/CodingVillainKor/manim-kor/blob/main/drunkpassenger.py)
 * [100배 더 빠른 경로 최적화 솔루션을 제공하는 기록적인 NVIDIA cuOpt 알고리즘 - NVIDIA Technical Blog](https://developer.nvidia.com/ko-kr/blog/record-breaking-nvidia-cuopt-algorithms-deliver-route-optimization-solutions-100x-faster)
 * [1 Billion Row Challenge](https://1brc.dev/)
+* [세션 게임의 매치메이킹 알고리즘. Elo, Glicko, TrueSkill, EOMM 그리고… | by scalalang2 | 취미로 논문 읽는 그룹 | Jun, 2024 | Medium](https://medium.com/rate-labs/%EC%84%B8%EC%85%98-%EA%B2%8C%EC%9E%84%EC%9D%98-%EB%A7%A4%EC%B9%98%EB%A9%94%EC%9D%B4%ED%82%B9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-c29989ddadcc)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
