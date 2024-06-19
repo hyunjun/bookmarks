@@ -922,6 +922,7 @@ Go
 * [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [Build A Beautiful CLI Todo App in Golang | Golang Tutorial](https://morioh.com/p/68b48e6da956)
+* [Code & Containerize Go CLI App with Chainguard Images | #golang #chainguard #docker @chainguard - YouTube](https://www.youtube.com/watch?v=rx7TCPPgM10)
 * [atomicsql_golang: ORM library for Golang having implemented lambda expression for Where() and Select()](https://github.com/bbitere/atomicsql_golang)
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
