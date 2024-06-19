@@ -5790,8 +5790,6 @@ Javascript
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
-* [shadcn/ui](https://ui.shadcn.com/)
-  * [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
   * [Zero-config Storybook. Simple setup, instant productivity | by Michael Shilman | Storybook | Jul, 2020 | Medium](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)

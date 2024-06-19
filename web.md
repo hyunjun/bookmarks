@@ -957,6 +957,13 @@ Web
 * [Keyframes.app](https://keyframes.app/)
 * [Open Props: sub-atomic styles](https://open-props.style/)
   * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
+* [shadcn/ui](https://ui.shadcn.com/)
+  * [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui)
+    * 작년 가장 많은 GitHub Star를 받은 shadcn/ui 설명
+    * shadcn/ui는 Tailwind CSS를 기반으로 한 컴포넌트 컬렉션
+      * 라이브러리와 달리 설치해서 쓰는 게 아니라 컴포넌트 코드를 복사해서 붙여 넣고 사용하는 방식
+      * 필요한 부분을 수정 사용 가능
+      * 이 관리를 쉽게 할 수 있도록 CLI 제공
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
