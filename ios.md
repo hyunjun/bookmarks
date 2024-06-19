@@ -191,6 +191,7 @@ iOS
 * [iPhone, iPad, Mac 전용 Apple Intelligence 공개 - Apple (KR)](https://www.apple.com/kr/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
   * [애플, 개인용 인공 지능 시스템 Apple Intelligence 공개 | GeekNews](https://news.hada.io/topic?id=15275)
 * [Haptic Feedback :: iOYES](https://green1229.tistory.com/480)
+* [View Snapshot Capture :: iOYES](https://green1229.tistory.com/482)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
