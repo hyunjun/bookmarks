@@ -215,6 +215,9 @@ Artificial Intelligence
 * [AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI - YouTube](https://www.youtube.com/watch?v=q8d4nLr6oZ0)
   * [VidiGo AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI.m](https://vidigo.ai/share/summary/13c18b5d255c)
   * [AI로 인한 개발프로세스의 급진적 변화 devprocess evolved with AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/748482)
+* [AI Training Orchestration Evolution with Serverless Building Blocks - YouTube](https://www.youtube.com/watch?v=spkhx7kSe3A)
+  * [VidiGo AI Training Orchestration Evolution with Serverles](https://vidigo.ai/share/summary/c57796ab220f)
+  * [서버리스 빌딩 블록을 통한 AI 트레이닝 오케스트레이션의 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804569)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
