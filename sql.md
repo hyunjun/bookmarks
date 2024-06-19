@@ -1398,6 +1398,7 @@ SQL
 * [EC2에 PostgreSQL 설치 🐘 - YouTube](https://www.youtube.com/watch?v=0wfZJyCcljk)
 * [Making a Postgres query 1,000 times faster - Mattermost](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
   * [Postgres 쿼리 1,000배 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=14930)
+* [PostgreSQL 단일 테이블 컬럼을 최대한 활용하기](https://jojoldu.tistory.com/788)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1692,6 +1693,8 @@ SQL
   * [Introducing sqlite-http: A SQLite extension for making HTTP requests / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-sqlite-http)
 * [sqlite-lines: A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)](https://github.com/asg017/sqlite-lines)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
+* [sqlite-studio: SQLite database explorer](https://github.com/frectonz/sqlite-studio)
+  * [SQLite Studio - 싱글 바이너리 SQLite DB 탐색도구 | GeekNews](https://news.hada.io/topic?id=15415)
 * [SQL OnLine IDE](https://sqliteonline.com/)
 * [stanchion: A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
   * [Stanchion - SQLite에 컬럼 기반 테이블을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=13292)
