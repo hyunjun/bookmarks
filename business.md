@@ -2943,6 +2943,7 @@ Business
         * 조직이 이 방식으로 작동하지 않을 때 개인이 이 습관을 채택할 수 있는 방법 소개. 작은 변화로 습관을 채택하라고 장려
         * 대부분의 스타트업이 고객이 원하는 제품을 찾지 못하고, 비용 효율성을 무시하는 문제 지적. 비즈니스적으로 실행가능한 제품을 발견하는 중요성 강조
 * [13화 성공한 서비스 뒤에는 가치 사다리가 있다?](https://brunch.co.kr/@cliche-cliche/219)
+* [AI 자체는 별로 중요하지 않은 것 같아요](https://eopla.net/magazines/17493)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
