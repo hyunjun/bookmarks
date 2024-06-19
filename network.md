@@ -158,7 +158,9 @@ Network
 * [브라우저에서 요청한 도메인을 DNS 를 통해 해석되는 절차에 대해서 알아보자 | by Doa Choi | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%9A%94%EC%B2%AD%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%9D%84-dns-%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%95%B4%EC%84%9D%EB%90%98%EB%8A%94-%EC%A0%88%EC%B0%A8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-a3cce5307840)
 * [1. 개발자가 알아야 할 DNS 동작 1](https://brunch.co.kr/@topasvga/3097)
 * [여기보기 DNS 점검 요망?! “홍대 어떻게 가요? 뉴진스 하입보이요~🎧🕺💃" - 넷마블 기술 블로그](https://netmarble.engineering/dns-client-and-server-security-setting) `resolv.conf` `hosts`
-* [DNS가 TCP를 사용하는 경우](https://brunch.co.kr/@growthminder/141)
+* [DNS가 TCP를 사용하는 경우](https://brunch.co.kr/@growthminder/141/)
+  * DNS는 기본적으로 UDP 사용, 메시지가 큰 경우 등 특정 상황에서는 TCP 사용
+  * DNS 패킷 헤더를 사용해서 메시지가 커서 Truncated 되었는지를 표시하고 이런 경우 TCP 사용
 * [dns.toys: A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc](https://github.com/knadh/dns.toys)
   * [Useful utilities and toys over DNS](https://www.dns.toys/)
 * [Duck DNS - about](https://www.duckdns.org/about.jsp)
