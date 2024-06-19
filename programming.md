@@ -1908,7 +1908,13 @@ Programming
   * [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
   * [LinkedIn: Oracle Database → Memcached → Expresso NoSQL Database(자체 개발) → Couchbase](https://www.linkedin.com/posts/danielylee_%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%A0-linkedin%EC%97%90%EC%84%9C%EB%8A%94-%EC%95%BD-10%EC%96%B5-%EB%AA%85%EC%97%90-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%B4-activity-7165878143772209152-YLgw/)
   * [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
-  * [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache)
+  * [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache/)
+    * 애플리케이션에서 캐시를 쓰는 경우
+      * 캐시에 데이터가 없을 때
+      * 데이터베이스 같은 백엔드 데이터 스토어로 모든 요청이 몰려가고
+      * 또 이 데이터를 캐시에 저장도 여러 번 이뤄지게 되는
+      * Thundering Herd 문제를 해결하기 위해 Req-Saver라는 라이브러리를 만들어서 Spring 애플리케이션에 적용한 과정
+    * 스프링의 @Cacheable과 sync 옵션과 Req-Saver를 사용한 경우를 비교했을 때 평균 51% 정도 성능 향상
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -2193,7 +2199,14 @@ Programming
   * [VidiGo 실리콘 밸리 아저씨들의 모르면 승진 안되는 시스템 디자인 - 파일럿편.mp4](https://vidigo.ai/share/summary/71709b1c381b)
   * [실리콘 밸리 아저씨들의 모르면 승진 안되는 시스템 디자인 - 파일럿편 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/621590)
 * [**Beck Design Rules**](https://www.martinfowler.com/bliki/BeckDesignRules.html)
-  * [**Simple Design** - 영록이 홈페이지](https://youngrok.com/Simple%20Design)
+  * [**Simple Design - 영록이 홈페이지**](https://youngrok.com/Simple%20Design)
+    * 박영록 님이 코드 품질에 대한 생각 정리
+    * 코드 품질을 정할 때 전문가의 생산성을 해치지 않으면서도 초보자에게는 생산성을 높일 수 있도록 기준 필요
+      * 보통 말하는 코드 품질이 느낌적인 부분이 많은데 Kent Beck의 Simple Design이 가장 명확
+      * 이를 정리해서 `중복이 없으면서 최소한의 문법 요소로 구성된 코드`라고 정의
+    * 코드 품질을 개선할 때 고민해야 할 부분과 기준이 될 레퍼런스를 제공한 부분 좋음
+    * 코드를 본질적인 복잡성과 우발적인 복잡성을 나누어서 설명한 부분도 명쾌
+    * 코드 품질 개선은 더 빨리 개발하기 위해서라는 부분도 좋은 기준이라고 생각
 * [현대차의 모빌리티 서비스 플랫폼, 셔클 개발기 – 현대모터그룹 TECH](https://tech.hyundaimotorgroup.com/kr/developers-blog/hyundai-motor-companys-mobility-service-platform-shucle-development-story/)
 * [Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News](https://news.ycombinator.com/item?id=30986893)
 * [In defense of simple architectures](https://danluu.com/simple-architectures/)
@@ -5306,6 +5319,8 @@ Programming
 * [Why don't we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 * [Thinking out loud about 2nd-gen Email – Gabriel Sieben](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
   * [2세대 이메일에 대한 공개적 고찰 | GeekNews](https://news.hada.io/topic?id=14880)
+* [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+  * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [FakeSMTP – FakeSMTP - Dummy SMTP server for developers](https://nilhcem.com/FakeSMTP/)
@@ -6633,6 +6648,7 @@ Programming
   * [기술 뉴스 #245 : 24-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1719)
   * [기술 뉴스 #246 : 24-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1722)
   * [기술 뉴스 #247 : 24-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1723)
+  * [기술 뉴스 #248 : 24-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1725)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -8301,6 +8317,8 @@ Programming
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
   * [Unleash](https://www.notion.so/1003/Unleash-21a5b39445d1499b90c608d65fa47499)
+* [WireMock - flexible, open source API mocking | WireMock](https://wiremock.org/)
+  * [야, 너도 WireMock으로 테스트할 수 있어 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17674/)
 * [zerocode: A community-developed, free, open source, microservices API automation and load testing framework built using JUnit core runners for Http REST, SOAP, Security, Database, Kafka and much more. Zerocode Open Source enables you to create, change, orchestrate and maintain your automated test cases declaratively with absolute ease](https://github.com/authorjapps/zerocode)
   * [zerocode-docker-factory: Docker compose for various images needed by Zerocode to run e.g. Kafka, ZooKeeper, Postgres etc](https://github.com/authorjapps/zerocode-docker-factory)
 
