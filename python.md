@@ -4802,6 +4802,8 @@ Python
     * [Antoni Baum - HuggingFace + Ray AIR Integration: A Python developer’s guide to | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5GlqH_PCSJE)
   * [kuberay: A toolkit to run Ray applications on Kubernetes](https://github.com/ray-project/kuberay)
     * [Use Ray on Kubernetes with kuberay | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/use-ray-on-kubernetes-with-kuberay)
+* [warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
+  * [Nvidia Warp - 고성능 GPU 시뮬레이션 및 그래픽을 위한 Python 프레임워크 | GeekNews](https://news.hada.io/topic?id=15404)
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
@@ -4974,6 +4976,7 @@ Python
 * [Pseudo Lab - Data Science Cheatsheet](https://pseudo-lab.github.io/cheat-sheet/?src=numpy)
 * [NumPy의 axis 변경](https://blog.naver.com/sooftware/221577171997)
 * [NumPy vs BLAS: Losing 90% of Throughput | Ash's Blog](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
+* [NumPy 2.0.0 릴리스 | GeekNews](https://news.hada.io/topic?id=15395)
 * [Awkward Array documentation — Awkward Array 2.0.9 documentation](https://awkward-array.org/)
   * [Doug Davis - Extending Awkward Array into the broader PyData Ecosystem | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=pvrRFsFqdYs)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
@@ -5248,6 +5251,9 @@ Python
   * [Introduction to Polars - Practical Business Python](https://pbpython.com/polars-intro.html)
   * [polarIFy: Automatically Transform Complex Python Methods to Polars Expressions - Bela Stoyan - YouTube](https://www.youtube.com/watch?v=G7TuIzKnd-c)
   * [Polars is the Pandas killer / Igor Mintz (Viz.ai) - YouTube](https://www.youtube.com/watch?v=sepiszMSvBs)
+  * [파이썬 Pandas vs. Polars 데이터 분석 패키지 비교! - YouTube](https://www.youtube.com/watch?v=g4CJgn7Dppw)
+    * [VidiGo 파이썬 Pandas vs. Polars 데이터 분석 패키지 비교!.mp4](https://vidigo.ai/share/summary/fc0f2567c0fc)
+    * [파이썬 Pandas vs. Polars 데이터 분석 패키지 비교! | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/803861)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
