@@ -96,6 +96,9 @@ Baby
 * [토론식 IB학교 졸업생들이 명문대 입시를 휩쓰는 이유 (교육과혁신연구소 이혜정 소장) - YouTube](https://www.youtube.com/watch?v=NZXokPUz9MM)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24035)
   * [토론식 IB학교 졸업생들이 명문대 입시를 휩쓰는 이유 (교육과혁신연구소 이혜정 소장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512159)
+* [아들을 절대 체벌하지 않으면 이렇게 됩니다. 최민준 - YouTube](https://www.youtube.com/watch?v=I3CadBWuSKU)
+  * [VidiGo 아들을 절대 체벌하지 않으면 이렇게 됩니다. 최민준.mp4](https://vidigo.ai/share/summary/6e3917ab6a17)
+  * [아들을 절대 체벌하지 않으면이렇게 됩니다. 최민준 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808463)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
