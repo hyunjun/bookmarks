@@ -149,7 +149,7 @@ Javascript
   * [#2 3 Changing Color](https://www.youtube.com/watch?v=cq-l2zPUVoU)
 * [**222 Favorite JavaScript single line of code**](https://1loc.dev/) javascript idiom 모음집
 * 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개 [33 Concepts of JavaScript](https://www.youtube.com/playlist?list=PL7jH19IHhOLMmmjrwCi7-dMFVdoU0hhgF)
-* [결국 자바스크립트를 알아보기로 했다.](https://rlqof7ogm.toastcdn.net/references/2021_session_17.pdf) execution context, call stack, scope, closure, asynchronous, prototype
+* [결국 자바스크립트를 알아보기로 했다](https://rlqof7ogm.toastcdn.net/references/2021_session_17.pdf) execution context, call stack, scope, closure, asynchronous, prototype
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
@@ -1535,6 +1535,7 @@ Javascript
 * [디자인시스템 읽어볼만한 링크](https://velog.io/@easylogic/%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%BD%EC%96%B4%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%A7%81%ED%81%AC)
 * [문제의 근원을 해결 하기 위한 다양한 시도](https://toss.tech/article/Various-attempts-to-solve-the-problem)
 * [잘 쓰이는 디자인 시스템을 위한 여정 | 29CM TEAM](https://medium.com/29cm/%EC%9E%98-%EC%93%B0%EC%9D%B4%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-7c4fe03f32b7)
+* [디자인시스템을 개발에서 적용 하는법](https://d2.naver.com/helloworld/7030870)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
@@ -1669,7 +1670,7 @@ Javascript
   * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
   * [✍🏼ES6 빠르게 훑어보기 - YouTube](https://www.youtube.com/watch?v=Fknu06X4qV4)
   * [✍🏼ES6 빠르게 훑어보기 #node.js - YouTube](https://www.youtube.com/watch?v=fI-ebwytPrM)
-  * [서브클래스 평가하기 - Bsidesoft co.](https://www.bsidesoft.com/8674)
+  * [서브클래스 평가하기 - Bsidesoft co](https://www.bsidesoft.com/8674)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -2284,7 +2285,7 @@ Javascript
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
-* [LocatorJS - click on any component to go to code.](https://www.locatorjs.com/)
+* [LocatorJS - click on any component to go to code](https://www.locatorjs.com/)
   * 개발 중인 컴포넌트 소스 코드를 손쉽게 찾아주는 도구
   * 웹 페이지에서 간단히 클릭하는 것만으로 IDE 내의 컴포넌트 소스 코드로 이동
   * Chrome 익스텐션을 이용하거나 Babel 플러그인을 설치하여 이용 가능
@@ -3235,6 +3236,7 @@ Javascript
 * [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [node.js 빠르게 개발하기](https://www.youtube.com/watch?v=qGEXyRQ67e8)
 * [한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축) - YouTube](https://www.youtube.com/watch?v=Tt_tKhhhJqY)
+* [Node 백엔드 개발 기초 무료 교육과정(기술블로깅)을 소개해드립니다](https://mixedcode.com/blog/detail?pid=33)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
 * [**The definitive Node.js handbook**](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 * [Node.js - 쿠키와 인증](https://opentutorials.org/course/3387)
@@ -4097,6 +4099,7 @@ Javascript
 * [Conditional Rendering in React JS | React Tutorial for Beginners | Edureka - YouTube](https://www.youtube.com/watch?v=ZeP3Kw-VsGI)
 * [Conditional Rendering In ReactJS - YouTube](https://www.youtube.com/watch?v=Gb9C5SwzWs8)
 * [Introduction to Modern React (2 Hour Course) - YouTube](https://www.youtube.com/watch?v=Siy-pU8Wzcs)
+* [React.js - YouTube](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbUZ42O7Z2NoOL_5un4iCJAq)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
@@ -4493,10 +4496,10 @@ Javascript
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
 * [Styling Styled Components 이해하고 사용하기! (with React) 💅](https://xtring-dev.tistory.com/entry/Styling-Styled-Components-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%F0%9F%92%85)
-* [create-react-app에서 styled-components - create-react-app으로 생성한 React 프로젝트에 styled-components를 적용하는 방법에 대해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/styled-components/)
+* [create-react-app에서 styled-components - create-react-app으로 생성한 React 프로젝트에 styled-components를 적용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/styled-components/)
 * [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
 * [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
-* [create-react-app에서 절대 경로 import - create-react-app의 타입스크립트로 생성한 React 프로젝트에 절대 경로를 사용하여 컴포넌트를 추가하는 방법에 대해서 알아본다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/root-import/)
+* [create-react-app에서 절대 경로 import - create-react-app의 타입스크립트로 생성한 React 프로젝트에 절대 경로를 사용하여 컴포넌트를 추가하는 방법에 대해서 알아본다](https://dev-yakuza.posstree.com/ko/react/create-react-app/root-import/)
 * [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects)
 * [3 Essential Tools to Boost your React App’s SEO](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 * [Building a Full Stack Application with React and Node](https://medium.com/@hosway/building-a-full-stack-application-with-react-and-node-5932f264967e)
@@ -4828,7 +4831,7 @@ Javascript
   * Dan Abramov가 React Server Components(RSC)의 초 간단 버전을 처음부터 만들어 보는 튜토리얼을 작성하는데 그 첫 번째 글로 Server Components를 설명하는 1편
 * [Speeding up the dbt™ docs by 20x with React Server Components | Dagster Blog](https://dagster.io/blog/dbt-docs-on-react)
   * dbt에서 생성하는 문서가 Angular 1으로 만들어져 있고 너무 느렸기 때문에 이를 개선하기로 결정
-    * [dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
+    * [dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications](https://github.com/dbt-labs/dbt-core)
   * 짧은 시간에 포팅해서 정적 웹사이트로 컴파일해야 했기 때문에 클라이언트 렌더링 대신 정적 HTML 페이지로 만들기로하고
     * Next.js와 React Server Component로 포팅하기로 결정
   * angular를 React로 포팅은 금방 할 수 있었지만, 너무 큰 JSON을 `import()`에 사용하는 실수를 했지만 금방 해결
@@ -5206,7 +5209,7 @@ Javascript
     * 또한 Metro는 멀티 레이어 캐시를 지원해서 메모리, 디스크, 원격 캐시 순으로 읽어 들이게 할 수 있어서 원격 캐시로 56% 빠르게 할 수 있었고 내장된 워커 지원으로 무거운 작업을 병렬 처리(Webpack은 서드파티 플러그인 설정 필요)
     * Metro를 웹에서 처리하기 위해 추가적인 설정 작업이 필요했고 먼저 개발환경을 개선하고 프로덕션은 Webpack과 A/B 테스트를 진행해서 Metro의 프로덕션 빌드가 최적화되도록 진행
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-* [React Native에서 TypeScript 사용하기 - react-native 프로젝트에 TypeScript를 적용하여 개발해 보자.](https://deku.posstree.com/ko/react-native/typescript/)
+* [React Native에서 TypeScript 사용하기 - react-native 프로젝트에 TypeScript를 적용하여 개발해 보자](https://deku.posstree.com/ko/react-native/typescript/)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [React Native IDE](https://ide.swmansion.com/)
   * [새로운 React Native IDE 소개 - YouTube](https://www.youtube.com/watch?v=2JFoSiUT7A0)
@@ -5295,7 +5298,7 @@ Javascript
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [DGM.js | An infinite canvas with smart shapes | DGM.js](https://dgmjs.dev/)
   * [DGM.js - 스마트 도형을 지원하는 오픈소스 무한 캔버스 React 컴포넌트 | GeekNews](https://news.hada.io/topic?id=15154)
-* [downshift: 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.](https://github.com/downshift-js/downshift)
+* [downshift: 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components](https://github.com/downshift-js/downshift)
   * [Decoupling UI and Logic in React: A Clean Code Approach with Headless Components | by Juntao Qiu | ITNEXT](https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c)
     * 복잡한 UI를 컴포넌트화한다면 렌더링과 상태 관리/로직을 분리한 헤드리스 패턴을 사용하는 것이 효과적
       * 헤드리스 방식을 사용해 UI와 동작 부분을 분리한다면, 유지 보수가 쉽고 재사용 가능한 코드를 생성해 중복성을 줄이고, 나아가 잠재적 버그 감소 가능
@@ -5637,7 +5640,7 @@ Javascript
     * Preact에서 상태를 다루기 쉽게 해주는 Signals 공개
     * 컴포넌트 안이든 밖이든 사용할 수 있고 hook이나 클래스 컴포넌트와도 잘 동작
     * 상태 관리보다 빠른 방법을 찾아서 Signals를 만들게 되었다고 하며, 가상 DOM을 사용한 방식보다 훨씬 빠르다고 함
-    * [Introducing Signals | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.](https://preactjs.com/blog/introducing-signals/)
+    * [Introducing Signals | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM](https://preactjs.com/blog/introducing-signals/)
     * [Signals: React의 그늘에서 벗어나는 Preact? - 코드쓰는사람](https://taegon.kim/archives/10540)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [reakit: Toolkit for building accessible rich web apps with React](https://github.com/reakit/reakit)
@@ -5752,7 +5755,7 @@ Javascript
 * [react-table](https://bit.cloud/aviatorscode2/react-table/)
   * [How to Build a React Table Component | by Victor Yakubu | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-react-table-component-69b101f3ea08)
 * [React Testing Library | Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-  * [create-react-app에서 react-testing-library로 테스트하기 - create-react-app로 생성한 React 프로젝트에서 react-testing-library를 사용하여 테스트하는 방법에 대해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-testing-library/)
+  * [create-react-app에서 react-testing-library로 테스트하기 - create-react-app로 생성한 React 프로젝트에서 react-testing-library를 사용하여 테스트하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-testing-library/)
   * [react-testing-library 의 fireEvent 를 userEvent로 마이그레이션 하기 with Antd | by valley | 더핑크퐁컴퍼니 기술 블로그 | May, 2022 | Medium](https://medium.com/pinkfong/react-testing-library-%EC%9D%98-fireevent-%EB%A5%BC-userevent%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-with-antd-ad0de218bb98)
   * [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
@@ -5772,7 +5775,7 @@ Javascript
   * [Recoil atomFamily를 사용한 상태 관리 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-07-07-state-management-with-recoil-atomfamily)
   * [Recoil 0.4 - 패치노트 읽기 | immigration9](https://immigration9.github.io/react,recoil/2021/08/01/reading-patchnote-recoil04.html)
   * [Mobile Convergence :: React HH-5 라이브러리 설정 - recoil](https://mobicon.tistory.com/582)
-  * [Using Recoil instead of Redux For State Management In React Applications.](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
+  * [Using Recoil instead of Redux For State Management In React Applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
   * [Recoil의 쓰기 가능한 셀렉터 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-11-24-recoil-writable-selector)
   * [Recoil : 리액트 상태 관리의 새로운 패러다임 - YouTube](https://www.youtube.com/watch?v=t934FOlOMoM)
   * [Recoil은 Context API를 어떻게 사용하길래 상태 변경이 일어나도 RecoilRoot의 자식 컴포넌트들에 대한 불필요한 리렌더링을 유발하지 않을까? | Woomin](https://woomin.netlify.app/recoil-context-api-no-rerender/)
@@ -6067,7 +6070,7 @@ Javascript
   * [Filip Hric - Teaching testers about development and developers about testing Filip Hric](https://filiphric.com/)
     * [Create a configuration plugin in Cypress Filip Hric](https://filiphric.com/create-a-configuration-plugin-in-cypress)
   * [Cypress.io Tips Courses](https://cypress.tips/courses)
-  * [sinon-chai: Extends Chai with assertions for the Sinon.JS mocking framework.](https://github.com/domenic/sinon-chai)
+  * [sinon-chai: Extends Chai with assertions for the Sinon.JS mocking framework](https://github.com/domenic/sinon-chai)
   * [Sinon.JS - Standalone test fakes, spies, stubs and mocks for JavaScript. Works with any unit testing framework](https://sinonjs.org/)
     * [Sinon.JS](https://github.com/sinonjs/)
   * [cypress-axe: Test accessibility with axe-core in Cypress](https://github.com/component-driven/cypress-axe)
@@ -6486,7 +6489,7 @@ Javascript
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
     * [typedi_sample](https://github.com/pjt3591oo/typedi_sample)
-* [TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://typeorm.io/)
+* [TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms](https://typeorm.io/)
   * [typeorm에서 repository.save() 호출할때 UPDATE 쿼리만 사용하기 · /usr/lib/libsora.so](https://libsora.so/posts/typeorm-entity-proxy-for-save/)
   * [ORM typeorm으로 CRUD부터 Active Record와 DataMapper 패턴 다루기](https://blog.naver.com/pjt3591oo/222309864102)
   * [ORM typeorm relation(관계) 설정하기 - 1:N, N:M](https://blog.naver.com/pjt3591oo/222310744958)
@@ -6518,7 +6521,7 @@ Javascript
   * [vanilla extract - 3](https://velog.io/@jay/vanilla-extract-3)
 * [websites: Daangn on the WWW](https://github.com/daangn/websites)
 * [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/)
-  * [GitHub - statelyai/xstate: State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
+  * [GitHub - statelyai/xstate: State machines and statecharts for the modern web](https://github.com/statelyai/xstate)
   * [자바스크립트로 만든 유한 상태 기계 XState | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220922-make-cart-with-xstate/)
 
 # Vue.js
