@@ -970,6 +970,7 @@ NLP
     * [Top GPTs for Researchers](https://www.linkedin.com/posts/razia-aliani_research-research-academicwriting-activity-7132219385636696065-Iea2)
     * [OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음 | GeekNews](https://news.hada.io/topic?id=13953)
     * [GPTs으로 나만의 Custom GPT 만들기 예제 50](https://mo-ai.notion.site/GPTs-Custom-GPT-50-bbbb8c5e706f402baaa377186550c6a1)
+    * [연구용 GPT 만들기 - 논문봇 등 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
@@ -2122,6 +2123,8 @@ NLP
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
 * [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
+* [BAML is a templating language to write typed LLM functions using jinja. Check out the promptfiddle.com playground](https://github.com/boundaryml/baml)
+  * [BAML - 더 깔끔한 LLM 함수를 작성하기 위한 템플릿 언어 | GeekNews](https://news.hada.io/topic?id=15416)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
@@ -2891,7 +2894,7 @@ NLP
 * [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
-  * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 - YouTube](https://www.youtube.com/watch?v=iMdwyGAgjd4&ab_channel=%ED%85%8C%EB%94%94%EB%85%B8%ED%8A%B8TeddyNote)
+  * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 - YouTube](https://www.youtube.com/watch?v=iMdwyGAgjd4)
     * [VidiGo E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱.mp](https://vidigo.ai/share/summary/a5e2bf80a283)
     * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804643)
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
