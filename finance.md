@@ -48,6 +48,9 @@ Finance
 * [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw) 퇴직
 * [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
 * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
+* ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=ZrJPldU0574)
+  * [VidiGo "역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드](https://vidigo.ai/share/summary/88f64fabcae6)
+  * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808558)
 * [꿀팁 대방출! 요거 모르고 멍 때리면 건강보험료 폭탄! f. 행복자산관리연구소 김현우 소장백브리핑 라이브 - YouTube](https://www.youtube.com/watch?v=ZExoRiXQkLs)
 * [Enombic - 나만의 주식 인덱스 만들기 | GeekNews](https://news.hada.io/topic?id=3817)
 * [대가들의 투자 지침 01 - 자본 보존에 대해 : 네이버 블로그](https://blog.naver.com/jeunkim/222308104212)
@@ -211,7 +214,7 @@ Finance
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
-  * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U&ab_channel=eminshall)
+  * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * openbb [Investment research for everyone](https://openbb.co/)
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
