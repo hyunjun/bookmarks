@@ -463,6 +463,7 @@ Monitoring
 * [A brief illustrated history of Prometheus](https://fusakla.cz/presentations/brief-illustrated-history-of-prometheus/)
 * [이루다 서버의 모니터링 스택을 소개합니다 – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/spring-boot-monitoring-with-prometheus/)
   * [스프링 부트 서버 모니터링하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2280/)
+* [AWS 오픈 소스 관찰 가능성(Observability) 도구로 커스텀 메트릭 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/custom-metric-monitoring-amazon-managed-service-for-prometheus/)
 * [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
   * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
