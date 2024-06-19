@@ -682,6 +682,7 @@ AWS
 * [AWS Bedrock remote access : r/aws](https://www.reddit.com/r/aws/comments/176uxht/aws_bedrock_remote_access/?rdt=45365)
 * [Amazon 생성형 AI 도구인 베드락 사용해 보자](https://brunch.co.kr/@topasvga/3727)
 * [Amazon Bedrock을 이용해 RAG, Fine tuning 없이 자동 고객 응대 서비스 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-cs-bot-without-rag/)
+* [Amazon Bedrock 기반 미리캔버스 디자인 템플릿 추천 챗봇 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-miri-canvas-design-template-chatbot/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -1286,6 +1287,7 @@ AWS
 * [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
 * [Building deep learning inference with AWS Lambda and Amazon EFS | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/building-deep-learning-inference-with-aws-lambda-and-amazon-efs/)
 * [EBS Pricing and Performance: A Comparison with AWS EFS and S3](https://cloud.netapp.com/blog/ebs-efs-amazons3-best-cloud-storage-system)
+* [Amazon EFS의 처리량 및 성능 모드에 대한 이해와 올바른 선택 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-select-the-right-throughput-and-performance-mode-of-amazon-efs/)
 * [aws-EFS-backup-restore](https://linuxer.name/2020/01/aws-efs-backup-restore/)
 
 # EKS
@@ -2901,3 +2903,4 @@ AWS
 * [AWS WAF Fraud Control을 통한 계정 생성 사기 방지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/prevent-account-creation-fraud-with-aws-waf-fraud-control-account-creation-fraud-prevention/)
 * [AWS WAF 의 COUNT ACTION 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-aws-waf-count-log/)
 * [AWS WAF 고급 속도 기반 규칙의 이점 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/discover-the-benefits-of-aws-waf-advanced-rate-based-rules/)
+* [AWS WAF 트래픽 개요 대시보드 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-the-aws-waf-traffic-overview-dashboard/)
