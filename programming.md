@@ -981,6 +981,7 @@ Programming
 * [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
 * [관리사이트 쉽고 빠르게 구축하기 - YouTube](https://www.youtube.com/watch?v=q5oWMlBS-Kg) backoffice
+* [이나모리 가즈오의 회계경영...매출은 기대한 만큼 늘지 않는다](https://www.linkedin.com/posts/douglasguen_%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%ED%9A%8C%EA%B3%84%EA%B2%BD%EC%98%81%EC%97%90%EB%8A%94-%EC%9D%B4%EB%9F%B0-%EB%A7%90%EC%9D%B4-%EC%9E%88%EC%96%B4%EC%9A%94-%EB%B3%B4%ED%86%B5-%EB%8B%B9%ED%95%B4-%EC%97%B0%EB%8F%84%EC%9D%98-activity-7203542211127365632-_laX/)
 
 # Agile, Scrum
 * book
@@ -7399,6 +7400,7 @@ Programming
   * [VidiGo Types Of Technical Debt & How To Manage Them • Dav](https://vidigo.ai/share/summary/fe0686f7f173)
   * [기술 부채의 유형과 관리 방법 - Dave Farley - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747709)
 * [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
+* [CTO, CEO의 입장에서 기술 부채는 언제 정리해야할까?](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstkrwwtrg-trzslh-activity-7207931094866817025-A0ma/)
 * [**조직 부채 해결책**](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EB%2525B6%252580%2525EC%2525B1%252584-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-2pije/)
 * [나이스 오류 - 핵심은 일을 시키는 사람이 혁신해야 한다](https://www.facebook.com/cjunekim/posts/pfbid0B4otSzBpBiE3cT8MkjbDDxWUZYnLPnriVyYvm9n5ueRFvWwEXEb59v4dWBzEzu2pl)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
