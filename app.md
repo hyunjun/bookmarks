@@ -2533,7 +2533,7 @@ App
 * [Beeftext](https://beeftext.org/)
   * ["자주 쓰는 문장을 단축키로" 무료 텍스트 확장 툴 '비프텍스트' - ITWorld Korea](https://www.itworld.co.kr/news/205444)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
-* [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
+* [Cmder | Console Emulator](https://cmder.app/)
 * [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd)
 * [Everything](https://www.voidtools.com)
   * [🎗초간단 SOHO용 파일서버 구축하기 (feat Everything) : 클리앙](https://www.clien.net/service/board/lecture/16068207?type=recommend)
