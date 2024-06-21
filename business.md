@@ -723,6 +723,7 @@ Business
 * [5,000억 회사 창업자가 말하는 쉬운 비즈니스와 어려운 비즈니스 (feat. 86년생)](https://maily.so/unsexybusinesskr/posts/9c2c8920)
 * [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
 * [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
+* [SI 산업 가이드북⑦ 1000억 ‘대형 프로젝트’의 진행 방정식 | 요즘IT](https://yozm.wishket.com/magazine/detail/2637/)
 * [나의 첫 번째 성공적인 사업 TinyPilot을 매각 완료했어요 | GeekNews](https://news.hada.io/topic?id=15151)
 * [Do not try to be the smartest in the room; try to be the kindest. | Jorge Galindo's blog](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
   * [방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/topic?id=15390)
