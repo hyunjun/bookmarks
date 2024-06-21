@@ -2123,6 +2123,7 @@ NLP
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
 * [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
+* [BABILong is a benchmark for LLM evaluation using the needle-in-a-haystack approach](https://github.com/booydar/babilong)
 * [BAML is a templating language to write typed LLM functions using jinja. Check out the promptfiddle.com playground](https://github.com/boundaryml/baml)
   * [BAML - 더 깔끔한 LLM 함수를 작성하기 위한 템플릿 언어 | GeekNews](https://news.hada.io/topic?id=15416)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
@@ -2147,6 +2148,8 @@ NLP
   * [Golden Gate Claude \ Anthropic](https://www.anthropic.com/news/golden-gate-claude)
     * [Anthropic, LLM의 내부 작동 방식을 조정한 "금문교 Claude" 버전 공개 | GeekNews](https://news.hada.io/topic?id=14977)
   * [Claude 클로드 사용법 | AI로 데이터 분석하기 | Daily Log](https://jiyeonseo.github.io/2024/05/31/data-analytic-with-claude/)
+  * [Introducing Claude 3.5 Sonnet \ Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
+    * [Claude 3.5 Sonnet 출시: GPT4o를 뛰어넘는 성능 | GeekNews](https://news.hada.io/topic?id=15439)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
@@ -2417,6 +2420,7 @@ NLP
   * [LangChain_misc/TokenUsageinStreaming.ipynb at main · NotoriousH2/LangChain_misc · GitHub](https://github.com/NotoriousH2/LangChain_misc/blob/main/TokenUsageinStreaming.ipynb)
   * [langchain-python-basic: langchain-python-basic book](https://github.com/sw-woo/langchain-python-basic/tree/main)
     * [langchain-python-basic/rangserve-fastapi-server at main · sw-woo/langchain-python-basic · GitHub](https://github.com/sw-woo/langchain-python-basic/tree/main/rangserve-fastapi-server)
+  * [langchain-python-pr/langGraph-finace/app.py at main · sw-woo/langchain-python-pr · GitHub](https://github.com/sw-woo/langchain-python-pr/blob/main/langGraph-finace/app.py)
   * [langchain-tutorials: A set of LangChain Tutorials from my youtube channel](https://github.com/samwit/langchain-tutorials)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
   * [🦜🕸️LangGraph | 🦜️🔗 Langchain](https://python.langchain.com/docs/langgraph)
@@ -2711,6 +2715,8 @@ NLP
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [TinyAgent: Function Calling at the Edge – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
   * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
+* [tokencost: Easy token price estimates for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
+  * [Token Cost - 400+개 LLM의 토큰당 비용 계산하기 | GeekNews](https://news.hada.io/topic?id=15421)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
