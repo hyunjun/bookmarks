@@ -2237,6 +2237,8 @@ AWS
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
     * [RAG over Complex Documents (Text, Table and Image)](https://www.linkedin.com/posts/dongjin-jang-kr_rag-over-complex-documents-text-table-activity-7176126997822107648-g1Ga/)
+* [aws-kr-startup-samples/machine-learning/mlflow at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/mlflow) sagemaker endpoint
+  * [MLflow를 활용한 Hybrid MLOps 구축 예제](https://www.linkedin.com/posts/sungminkim23_hybridmlops-mlflow-sagemaker-activity-7200783416986910720-iJS3/)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
 * [aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart](https://github.com/aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart)
