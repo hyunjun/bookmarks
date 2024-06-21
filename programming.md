@@ -980,6 +980,7 @@ Programming
 * [Bit(Binary digit) Byte 의 고찰. 최근 우리가 다루는 용량이 매우 커져서 작은 용량은 무시해도 될 수준이… | by Chase | 직방 기술 블로그 | Dec, 2023 | Medium](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 * [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
+* [관리사이트 쉽고 빠르게 구축하기 - YouTube](https://www.youtube.com/watch?v=q5oWMlBS-Kg) backoffice
 
 # Agile, Scrum
 * book
@@ -3452,6 +3453,8 @@ Programming
 * [influential-cs-books: Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Architecture Modernization • Nick Tune & Eduardo da Sliva • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=sDLGB6VWrDg)
+  * [VidiGo Architecture Modernization • Nick Tune & Eduardo d](https://vidigo.ai/share/summary/2f71071f6256)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
 * [Evidence-based Software Engineering: based on the publicly available data](http://www.knosof.co.uk/ESEUR/)
@@ -5684,6 +5687,7 @@ Programming
 * [선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=VUdpb0FFsY4)
   * [VidiGo 선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런](https://vidigo.ai/share/summary/ff96d3bb6d7a)
   * [선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/798357)
+* [메시지 큐 기반 아키텍처가 요즘 인기가 떨어지는 이유는 뭔가요? | GeekNews](https://news.hada.io/topic?id=15456)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -7538,6 +7542,7 @@ Programming
   * 증분 마이그레이션은 기능별로 나누는 수직 마이그레이션과 사용자별로 나누는 수평 마이그레이션
   * 증분 마이그레이션의 단점은 새 시스템과 레거시 시스템이 같이 동작하도록 하는 노력이 필요하다는 점
   * 프론트엔드를 마이그레이션 할 때는 리버스 프락시가 핵심으로 새 프론트엔드와 레거시 프론트엔드를 같이 배치해서 트래픽을 점진적으로 마이그레이션 가능
+* [아프니까 V2다 (1000만 서비스 다시 만들기)](https://eopla.net/magazines/17626)
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [Coaching Teams Through Team Change • Heidi Helfand • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bi1krLVAsGY)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
