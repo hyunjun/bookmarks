@@ -1053,6 +1053,7 @@ AWS
 * [클라우드 비용 최적화 로드맵 #1 - 연재를 시작하며 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9415)
 * [클라우드 비용 최적화 로드맵 #2 - 비용을 자세히 보기 위한 준비 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9824)
 * [헉! AWS 요금이 많이 나올까 무섭다면? - MFA 인증, AWS IAM, Budget으로 예방하는 방법 - YouTube](https://www.youtube.com/watch?v=Zq8fR4U6eOo)
+* [Bare Metal Vs AWS: Is It Cheaper To Switch? | SysAdminXpert](https://sysadminxpert.com/bare-metal-vs-aws-is-it-cheaper-to-switch/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
@@ -1500,6 +1501,7 @@ AWS
 * [AWS Glue와 Amazon Athena를 활용한 MongoDB 데이터 분석 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/comparing-mongodb-data-analysis-methods-using-aws-glue-and-amazon-athena/)
 * [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
 * [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화, 2부: Grafana를 사용한 실시간 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-2-enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/)
+* [새로운 작업 관측성 지표를 사용하여 AWS Glue 작업에 대한 모니터링 및 디버깅 강화, 3부: Amazon QuickSight를 사용한 시각화 및 추세 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/?sc_channel=sm&sc_campaign=Korean_blog&sc_publisher=FACEBOOK&sc_country=global&sc_geo=APAC&sc_outcome=awareness&trk=enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight)
 * [Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 3: Visualization and trend analysis using Amazon QuickSight | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/)
 
 # IAM
