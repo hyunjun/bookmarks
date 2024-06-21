@@ -944,6 +944,8 @@ Web
   * 다른 요소에서 `position-anchor:`로 앵커의 이름을 지정하면 `anchor()` 함수로 특정 요소를 기준으로 요소의 위치 지정 가능
   * 이 API를 사용하면 툴팁 등 특정 요소를 기반으로 요소의 위치를 아주 쉽게 잡는 게 가능
 * [CSS의 5가지 position 속성 값 기본 정리 | 달레의 웹 프로그래밍 - YouTube](https://www.youtube.com/watch?v=PEyp9TBcZ-o)
+* [Inline conditionals in CSS? • Lea Verou](https://lea.verou.me/blog/2024/css-conditionals/)
+  * [CSS에 if() 인라인 조건문 추가 예정 | GeekNews](https://news.hada.io/topic?id=15442)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -2086,6 +2088,7 @@ Web
 * [Does Your Startup Website Pass The First Impression Test? | Design Review - YouTube](https://www.youtube.com/watch?v=pqwOL6YfRIo)
   * [VidiGo Does Your Startup Website Pass The First Impressio](https://vidigo.ai/share/summary/2001d4ec4123)
   * [스타트업 웹사이트가 첫인상 테스트를 통과했나요? | 디자인 리뷰 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/637282)
+* [New Industry Benchmarks for Mobile Page Speed - Think With Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
