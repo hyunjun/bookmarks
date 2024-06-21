@@ -1059,6 +1059,7 @@ Docker
 * [kubernetes introduction!!!Kubernetes tutorial for beginners !!!How to learn Kubernetes !!! - YouTube](https://www.youtube.com/watch?v=fUXHP7EXMjs)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
+* [Lecture k8s learning.kit: '그림으로 배우는 쿠버네티스' 온라인 강의](https://github.com/sysnet4admin/_Lecture_k8s_learning.kit)
 * [Season4 Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhGvfqQazIeYVOxnE4UKmtkU)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
@@ -3003,6 +3004,7 @@ Docker
 * [HBsmith가 Vi)rtualBox에서 Parallels로 갈아탄 이유 | by Jesang Yoon | Hard Boiled Smith Stories](https://blog.hbsmith.io/hbsmith%EA%B0%80-virtualbox%EC%97%90%EC%84%9C-parallels%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-4dab5005302f)
 * [Just download the code and use single command "vagrant up" to make k8s cluster readily available - YouTube](https://www.youtube.com/watch?v=Hqkujcop3NE)
 * [VM 관리를 위한 vagrant 알아보기](https://blog.naver.com/pjt3591oo/223082616862)
+* [2 4 베이그런트Vagrant+VMware Fusion으로 쿠버네티스 환경 구축하기 비상업적, arm64 사용자 v1 30 - YouTube](https://www.youtube.com/watch?v=v7EJ4BHNNMk)
 * [bootstrapping-microservices/example-vagrant-vm: An example Vagrant virtual machine setup with Docker and Terraform installed](https://github.com/bootstrapping-microservices/example-vagrant-vm)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 * [vagrant-k8s-provisioning](https://github.com/adamsipo/vagrant-k8s-provisioning)
