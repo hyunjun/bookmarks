@@ -280,6 +280,12 @@ Business
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
+* [(6) 조직 경직성 다루기 | LinkedIn](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EA%2525B2%2525BD%2525EC%2525A7%252581%2525EC%252584%2525B1-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-orxce/)
+  * 1. 역할, 권한, 업무범위 등을 명확히 설정한다. 역할이 모호한 것을 유연성으로 착각하지 않는다.
+  * 2. 권한의 위계를 기반으로 효율적인 커뮤니케이션 채널을 구축한다.
+  * 3. 한 사람이 동시에 두 개 이상의 프로젝트에 투입되는 것을 지양한다.
+  * 4. 프로젝트에서 무엇을 검증하고자 하는지를 명확히 한다. 일정 예측 외의 문제로 프로젝트의 수명을 연장하지 않는다.
+  * 5. 프로젝트와 오퍼레이션을 명확히 구분한다. 프로젝트의 최종 목적은 비즈니스 모델의 확인이며 오퍼레이션 구축임을 잊지 않는다.
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [Social Contracts for Engineering Teams • Kate Andrews • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=1miIiYA1lNg)
 * [World-class Engineering for an Octopus • Michael Noonan • YOW! CTO 2019 - YouTube](https://www.youtube.com/watch?v=exUJ4kQ0t1Q)
@@ -938,6 +944,7 @@ Business
 * [Sedong Nam - 종종 공유 드리는 보이저엑스 타운홀 기록입니다. 이번에는 바로 지난주에 있었던 신규입사자 타운홀... | Facebook](https://www.facebook.com/dgtgrade/posts/pfbid0wVx7coqdQoXD5AXXPKHEzTiToaDz8s84zKVBpMwJbFnmktPtpcfEzVW59pYq9TCBl) startup 인턴 활용에 대해 참고할만한 글
 * [신입 엔지니어를 채용하는 것](https://jojoldu.tistory.com/769)
 * [왜 채용이 어려울까?](https://www.linkedin.com/posts/monozuno_tfnsqoqsvumoabrsmusxbstuabrsxqsuzabrtrgsqb-activity-7175481783851888642-pzRs/)
+* [COACH: AI-powered Career Coach | CareerVillage](https://www.aicareercoach.org/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -3717,6 +3724,7 @@ Business
 * [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [Focus Keeper 랜딩 페이지 런칭 후기 (부제: UX가 프로덕트 성공에 미치는 영향) | Univdev](https://univdev.page/posts/focuskeeper-renewal/)
 * [Zero UI 시대, UI의 미래는 어디로 향하는가?](https://eopla.net/magazines/17036)
+* [System Usability Scale 측정 방법](https://brunch.co.kr/@ebprux/1342)
 * [UI Density || Matthew Ström, designer-leader](https://matthewstrom.com/writing/ui-density/)
   * [UI 밀도(Density)의 의미와 디자인 방법 | GeekNews](https://news.hada.io/topic?id=14932)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
