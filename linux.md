@@ -957,6 +957,8 @@ Linux
       * [OpenSSH, 비정상적 행동을 제재하는 옵션 도입 | GeekNews](https://news.hada.io/topic?id=15234)
     * [Tyblog | SSH Kung Fu](https://blog.tjll.net/ssh-kung-fu/)
   * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
+  * [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
+    * [shpool - 쉘 세션 연결을 유지해주는 도구 | GeekNews](https://news.hada.io/topic?id=15431)
   * [sshx](https://sshx.io/) 웹 기반으로 실시간 협업이 가능한 터미널
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
