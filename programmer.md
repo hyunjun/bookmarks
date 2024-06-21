@@ -497,4 +497,5 @@ Programmer
     * 시간이 지나 창업하려다가 다시 취업을 시도하다 보니 시니어로 채용하기엔 너무 높은 직급이거나 리더쉽으로 채용하기에는 경험이 부족한 상황 설명
     * 본인의 가설이긴 하지만 맞다면 다른 사람들은 조심했으면 좋겠다고 이야기
     * 승진 주기에 맞춰서 커리어를 관리하거나 빅테크식의 관리 방법을 쓰지 않는 회사를 찾는 해결책이 있다고 설명
+* [시니어 엔지니어가 만들면 빠른 이유 #1](https://velog.io/@480/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EC%9C%A0-1)
 * [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
