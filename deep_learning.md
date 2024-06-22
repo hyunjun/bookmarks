@@ -1491,6 +1491,7 @@ Deep Learning
   * [Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model](https://www.ai21.com/blog/announcing-jamba)
 * [micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
   * [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
+  * [(1) 귱귱 - 와우! 신경망 학습의 핵심을 94줄로 압축했다니 대단해요! 🤯🎉 이게 바로 Micrograd 프로젝트군요.... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid0rgT5PsMZwukNPb4LMHHCbUFmbHKtGTr1jipu2GGocx3qho5VshrnGKNabnDyf9nJl)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [MindSpore - a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
