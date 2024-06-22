@@ -2545,6 +2545,9 @@ Programming
 * [Art of Domain Modeling - Eric Normand - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=KmIRWeJDzn8)
 * [Domain-Driven Design Made Me Realize Something About AI Tools - YouTube](https://www.youtube.com/watch?v=HM8jWW1tnqY)
 * [Domain-Driven Design (DDD): Domain vs. Integration events - YouTube](https://www.youtube.com/watch?v=POOcPfvanOU)
+* [Implementing Domain Driven Design with Spring by Maciej Walkowiak @ Spring I/O 2024 - YouTube](https://www.youtube.com/watch?v=VGhg6Tfxb60)
+  * [VidiGo Implementing Domain Driven Design with Spring by M](https://vidigo.ai/share/summary/db07121dc762)
+  * [Spring으로 도메인 중심 디자인 구현하기 @ Spring I\O 2024 by Maciej Walkowiak | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/819175)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -4810,6 +4813,9 @@ Programming
 * [차등 개인정보보호의 의미와 관련 기업 사용례의 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/178024)
 * [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
+* [Introduction to confidential computing – protecting sensitive workloads by Fabien Petitcolas - YouTube](https://www.youtube.com/watch?v=mVTLkuMe6QQ) 동형암호
+  * [VidiGo Introduction to confidential computing – protectin](https://vidigo.ai/share/summary/b1c234b60278)
+  * [기밀 컴퓨팅 소개 - 민감한 워크로드 보호에 대한 Fabien Petitcolas의 글 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/819231)
 * [보안인들의 유쾌한 모임! Becks KR 온라인 밋업에 참가했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-becks-kr-1/)
 * [가명정보 결합방식](https://itpenote.tistory.com/700)
 * [Is Grammarly a Keylogger? What Can You Do About It? · Kolide](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
@@ -6475,6 +6481,8 @@ Programming
   * [5월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/05/b-5-4.html)
   * [5월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/06/b-5-5.html)
   * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/06/b-6-1.html)
+  * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/06/b-6-2.html)
+  * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/06/b-6-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
