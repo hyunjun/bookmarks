@@ -1056,6 +1056,15 @@ Book
 * (NOT YET) [솔드 아웃](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314432904&start=slayer)
   * [진짜 위험은 '여기서' 온다!! 금리와 부채에 가려진 '예측' 불가능한 위협 (feat.제임스 리카즈) - YouTube](https://www.youtube.com/watch?v=UaPLBzGI-GU)
 
+# Essay
+* [그 개의 이름은 아무도 모른다](https://www.notion.so/1003/c0ed488240864ab9b7e6a9382f754d21)
+  * ★★★☆☆ June 3, 2024
+  * 한라 838-가64ㄱ
+  * [그 개의 이름은 아무도 모른다](https://github.com/hyunjun/bookmarks/blob/master/books/nobody_knows_the_dogs_name.md)
+  * [그 개의 이름은 아무도 모른다 - Jun - Medium](https://nymets.medium.com/%EA%B7%B8-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%84%EB%AC%B4%EB%8F%84-%EB%AA%A8%EB%A5%B8%EB%8B%A4-766b9eec8d69)
+  * [그 개의 이름은 아무도 모른다 - Jun’s Substack](https://recur.substack.com/p/410)
+  * [그 개의 이름은 아무도 모른다](https://jh4hj.tistory.com/entry/%EA%B7%B8-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%84%EB%AC%B4%EB%8F%84-%EB%AA%A8%EB%A5%B8%EB%8B%A4)
+
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
   * ★★★☆☆ 2021.08.27
