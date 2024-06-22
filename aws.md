@@ -972,6 +972,7 @@ AWS
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
 * [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
+* [data-group: AWSKRUG Datascience Group](https://github.com/awskrug/data-group)
 * [DevAx::connect - AWS Media Panel Talk - Twitch](https://www.twitch.tv/videos/1114775303)
 * DevDay
   * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
@@ -1224,6 +1225,7 @@ AWS
 * [Integrating with GitHub Actions – CI/CD pipeline to deploy a Web App to Amazon EC2 | AWS DevOps Blog](https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/)
 * [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
   * [EC2 부팅 시간 단축하기 | GeekNews](https://news.hada.io/topic?id=15046)
+* [AWS EC2 GPU 서버 & ollama통한 nvidia,cuda 구축 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/21/aws-ec2-gpu-ollama-nvidia-cuda/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
