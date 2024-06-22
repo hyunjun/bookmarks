@@ -759,6 +759,10 @@ Data Science
 * [Python & Visual Studio Code - Revolutionizing the way you do data science - presented by Jeffrey Mew - YouTube](https://www.youtube.com/watch?v=uPRQXDjQhMs)
 * [Irina Klein - IMF Data Discovery and Collection | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=sAwQgbfSbjw)
 * [DEVOCEAN 메타분석 - 1. 데이터 탐색](https://devocean.sk.com/blog/techBoardDetail.do?ID=164870)
+* [Nick Radcliffe - Test-Driven Data Analysis in Python | PyData London 2024 - YouTube](https://www.youtube.com/watch?v=iM89ZoJYdwE)
+  * [tdda-london-2024.pdf](https://stochasticsolutions.com/pdf/tdda-london-2024.pdf)
+  * [VidiGo Nick Radcliffe - Test-Driven Data Analysis in Pyth](https://vidigo.ai/share/summary/9be6db3905fb)
+  * [닉 래드클리프 - 파이썬의 테스트 중심 데이터 분석 | PyData London 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/820612)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
