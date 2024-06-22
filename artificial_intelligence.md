@@ -482,6 +482,9 @@ Artificial Intelligence
 * [How Meta trains large language models at scale - Engineering at Meta](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
   * [메타의 대규모 언어 모델 훈련 방법 | GeekNews](https://news.hada.io/topic?id=15327)
 * [AI가 생성했다고 의심되는 자료를 설명하는 새로운 용어 "Slop" 등장 | GeekNews](https://news.hada.io/topic?id=15315)
+* [How to Build an AI Startup](https://substack.com/home/post/p-145029344)
+  * [AI 스타트업을 만드는 방법 | GeekNews](https://news.hada.io/topic?id=15457)
+* [할리우드와 게임이 AI와 싸우는 이유 | GeekNews](https://news.hada.io/topic?id=15460)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
