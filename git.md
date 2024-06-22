@@ -656,6 +656,7 @@ Git
   * [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/2020/04/13/understanding_git_bisect.html)
   * [7.10 Git 도구 - Git으로 버그 찾기](https://git-scm.com/book/ko/v2/Git-도구-Git으로-버그-찾기)
   * [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+  * [시간을 엄청 아껴줄 Git으로 코드 에러 위치 찾는 방법(git bisect, git rev-parse HEAD) - YouTube](https://www.youtube.com/watch?v=U-CLzjXcDGA)
 * `blame` [git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
