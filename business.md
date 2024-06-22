@@ -755,6 +755,9 @@ Business
 * [구성원분들과 1:1 할때 (or 셀프 체크업) 활용하기 좋은 질문 리스트](https://www.facebook.com/naieekim/posts/pfbid0c9SaQoKDC24AGqUv19QC7Yt93fL7Adtuyar25BXNfrZza6nRuw9G2odQ8mQvbA92l)
 * [요즘 잘나가는 회사들의 직원평가 방법 (권민석 레몬베이스 대표) - 티타임즈](https://www.ttimes.co.kr/article/2023021318337766225)
 * [멘토링 이야기 25: 일대일 미팅이 왜 필요한가요?](https://www.linkedin.com/feed/update/urn:li:activity:7182879896858234880/)
+* ["팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (ft. 신주은 센터장) | 지식토크 - YouTube](https://www.youtube.com/watch?v=Uc9E6E3njaU)
+  * [VidiGo "팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (](https://vidigo.ai/share/summary/3b5af71f6ea1)
+  * ["팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (ft. 신주은 센터장) | 지식토크 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/819101)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
