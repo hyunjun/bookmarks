@@ -3875,6 +3875,13 @@ Programming Books
   * [개발자를 위한 커리어 관리 핸드북. ★★★☆☆ May 9, 2024 → May 24, 2024 개발자를… | by Jun | May, 2024 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B4%80%EB%A6%AC-%ED%95%B8%EB%93%9C%EB%B6%81-37ae93080c5f)
   * [개발자를 위한 커리어 관리 핸드북 - Jun’s Substack](https://recur.substack.com/p/070)
   * [개발자를 위한 커리어 관리 핸드북](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B4%80%EB%A6%AC-%ED%95%B8%EB%93%9C%EB%B6%81)
+* [개발자 오늘도 마음 튼튼하게 성장하기](https://www.gilbut.co.kr/book/view?bookcode=BN003935)
+  * ★★★☆☆ 2024.06.20~21 한국어 제목은 사람에 따라 약간 유치할 수 있지만 내용은 좋은 책. 지적확인 환호응답에 대해 알게 된 거 하나만으로도 나에겐 가치가 있다
+  * 탐라 문004.58-서72ㄱ
+  * [10 Simple And Effective Productivity Hacks For Programmers](https://simpleprogrammer.com/10hacks/)
+  * [개발자 오늘도 마음 튼튼하게 성장하기 10 Simple And Effective Productivity Hacks For Programmers](https://github.com/hyunjun/bookmarks/blob/master/programming_books/10_simple_and_effective_productivity_hacks_for_programmers.md)
+  * [개발자 오늘도 마음 튼튼하게 성장하기 10 Simple And Effective Productivity Hacks For Programmers | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A4%EB%8A%98%EB%8F%84-%EB%A7%88%EC%9D%8C-%ED%8A%BC%ED%8A%BC%ED%95%98%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-10-simple-and-effective-productivity-hacks-for-programmers-51278eb706f3)
+  * [개발자 오늘도 마음 튼튼하게 성장하기 10 Simple And Effective Productivity Hacks For Programmers](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A4%EB%8A%98%EB%8F%84-%EB%A7%88%EC%9D%8C-%ED%8A%BC%ED%8A%BC%ED%95%98%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0-10-Simple-And-Effective-Productivity-Hacks-For-Programmers)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
