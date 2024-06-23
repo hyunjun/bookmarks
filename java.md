@@ -1093,6 +1093,7 @@ Java
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
 * [Staying JDK: Current in Production - YouTube](https://www.youtube.com/watch?v=YaoGXCwiG9M)
+* [Mac Java 21 & Gradle 8 설치하기](https://jojoldu.tistory.com/789) jEnv sdkman
 * [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
   * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
   * [윈도우 지원이 약한 SDKMan!을 대신할 JDKMon](https://jhrogue.blogspot.com/2021/10/b-sdkman-jdkmon.html)
