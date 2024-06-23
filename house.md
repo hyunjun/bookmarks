@@ -143,6 +143,9 @@ House
 * [권원보험 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%9B%90%EB%B3%B4%ED%97%98)
   * [Pgr21 - 등기부 등본상 깨끗한 집을 사고 전재산를 날린 사례](https://pgr21.com/freedom/97067)
 * [펌) 콘크리트뷰 아파트가 생기는 이유(스압) - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=humor&wr_id=1234132&sca=&sfl=&stx=&spt=0&page=0) 용적률 건폐율
+* ["기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강 풀버전) - YouTube](https://www.youtube.com/watch?v=ATldkEUNDgA)
+  * [VidiGo "기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강](https://vidigo.ai/share/summary/9f46ac18b5f6)
+  * ["기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강 풀버전) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824931)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
