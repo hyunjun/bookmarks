@@ -47,7 +47,12 @@ Finance
 * [재편집본 연금저축, IRP 잘못 가입하면 세금 토해낼 수 있습니다 - YouTube](https://www.youtube.com/watch?v=EQfK73-WaLk) 퇴직
 * [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw) 퇴직
 * [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
+* ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 - YouTube](https://www.youtube.com/watch?v=TarBHRN6zNA) IRP
+  * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824830)
 * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
+* [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8) ISA
+  * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
+  * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
 * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=ZrJPldU0574)
   * [VidiGo "역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드](https://vidigo.ai/share/summary/88f64fabcae6)
   * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808558)
@@ -61,6 +66,9 @@ Finance
 * ["기관은 절대 이렇게 하지 않아요" 개인이 퀀트를 하면 돈 벌기 유리한 이유 | 무작정 따라하기](https://content.v.kakao.com/v/Ef22qcQ8rx)
 * [자동매매 프로그램 무료 공개 합니다. (업데이트 06-04) - 개발 - 땡글닷컴](https://www.ddengle.com/develop/15673074)
 * [무규칙 이종경제지 | 백화선생 | Substack](https://hybridecomomics.substack.com/)
+* [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. - YouTube](https://www.youtube.com/watch?v=fEvGPFhAObE) CMA
+  * [VidiGo 예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다..mp4](https://vidigo.ai/share/summary/459aad2de7ee)
+  * [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825072)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
