@@ -218,6 +218,7 @@ Artificial Intelligence
 * [AI Training Orchestration Evolution with Serverless Building Blocks - YouTube](https://www.youtube.com/watch?v=spkhx7kSe3A)
   * [VidiGo AI Training Orchestration Evolution with Serverles](https://vidigo.ai/share/summary/c57796ab220f)
   * [서버리스 빌딩 블록을 통한 AI 트레이닝 오케스트레이션의 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804569)
+* [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -342,6 +343,7 @@ Artificial Intelligence
   * [프롬프트 하나로 풀스택 웹앱을 만드는 Marblism | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%95%98%EB%82%98%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-marblism)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
+* [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
@@ -485,6 +487,7 @@ Artificial Intelligence
 * [How to Build an AI Startup](https://substack.com/home/post/p-145029344)
   * [AI 스타트업을 만드는 방법 | GeekNews](https://news.hada.io/topic?id=15457)
 * [할리우드와 게임이 AI와 싸우는 이유 | GeekNews](https://news.hada.io/topic?id=15460)
+* [생성 AI 방향 바뀌었다… ‘온디바이스AI’의 현재와 미래 - 더밀크 | The Miilk](https://themiilk.com/articles/a5138ce16)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
