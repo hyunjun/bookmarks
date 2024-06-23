@@ -116,6 +116,7 @@ Business
 * [티몬의 기업가치가 떡락한 이유](https://brunch.co.kr/@trendlite/255)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
 * ['3중고' 겪고 있는 토스 해부 - YouTube](https://www.youtube.com/watch?v=ucPqG3E6o9M)
+* [토스 사업보고서에서 눈여겨봐야 할 3가지 : 매출·MAU·EBITDA - 금융이 알고 싶을 때, 토스피드](https://blog.toss.im/article/toss-numbers-2023)
 * [토스가 20조? 기업가치 평가하는 방법 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o)
 * [쏘카 패스트파이브 재무제표 뜯어보기 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=H_Ia5oHT7nc)
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
@@ -3542,6 +3543,8 @@ Business
 * [스타트업에서의 위험한 버튼들](https://eopla.net/magazines/16245) 1. 기획자 (서비스기획, PM, PO 포함) 2. 디자이너 3. 개발자
 * [VC 리뷰 사이트가 잘 안되는 이유](https://eopla.net/magazines/17328)
 * [실리콘 밸리의 숨겨진 비밀: 창업자 유동성(Founder Liquidity) | GeekNews](https://news.hada.io/topic?id=15309)
+* [What Is ZIRP And How Did It Poison Startups? - YouTube](https://www.youtube.com/watch?v=iMo5-4h_XwE)
+  * [VidiGo What Is ZIRP And How Did It Poison Startups?.mp4](https://vidigo.ai/share/summary/9827259e5f63)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
