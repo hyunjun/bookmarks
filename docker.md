@@ -1975,6 +1975,9 @@ Docker
       * 특정 Pod에만 연결이 몰릴 수 있어서 확장 불가능
   * 이 문제를 해결하려면 클라이언트에서 로드 밸런싱 로직을 가지고나 로드 밸런싱 서비스를 도입해서 사용 필요
     * 인프라에서 해결하려면 Istio나 Linkerd 같은 서비스 메시 사용 가능
+* [Python Automation for fetch Kubernetes cluster pod information - YouTube](https://www.youtube.com/watch?v=H8u1ObyoxTM&ab_channel=DevOpsOdia)
+  * [VidiGo Python Automation for fetch Kubernetes cluster pod](https://vidigo.ai/share/summary/f32a9a0d45d8)
+  * [쿠버네티스 클러스터 포드 정보 가져오기를 위한 Python 자동화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825395)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
