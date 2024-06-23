@@ -4124,6 +4124,9 @@ Programming
     3. 작성한 프로그래밍 언어에 대한 "readability" 승인
 * [2015 나는 프로그래머다 컨퍼런스 (11) 염산악 - 가독성에 대하여](https://www.slideshare.net/iamprogrammerofficial/2015-11-54990304)
 * [readable_code란 무엇일까? - YouTube](https://www.youtube.com/watch?v=uZNKgGB-EeY)
+* [모닥불 | EP.1 토스에서 말하는 “가독성 좋은 코드” 란 무엇일까?](https://toss.tech/article/firesidechat_frontend_1)
+  * [VidiGo 모닥불 | EP.1 토스에서 말하는 “가독성 좋은 코드” 란 무엇일까?.mp4](https://vidigo.ai/share/summary/e43f6ded5732)
+  * [모닥불 | EP.1 토스에서 말하는 “가독성 좋은 코드” 란 무엇일까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824721)
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 * [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 * [The 7 Coding Styles That Are Dated | by Elye | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/the-7-coding-styles-that-are-dated-90eff1408d6e)
@@ -5695,6 +5698,9 @@ Programming
   * [VidiGo 선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런](https://vidigo.ai/share/summary/ff96d3bb6d7a)
   * [선착순 쿠폰 발행 시스템 구축하기 with 성능테스트 - 박세진 | F-Lab 미니 컨퍼런스 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/798357)
 * [메시지 큐 기반 아키텍처가 요즘 인기가 떨어지는 이유는 뭔가요? | GeekNews](https://news.hada.io/topic?id=15456)
+* [Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar - YouTube](https://www.youtube.com/watch?v=x4k1XEjNzYQ)
+  * [VidiGo Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pu](https://vidigo.ai/share/summary/2381a12213be)
+  * [카프카 대 RabbitMQ 대 메시징 미들웨어 대 펄사 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/821639)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -8305,6 +8311,8 @@ Programming
   * [테스트 자동화 제품은 어떻게 테스트를 할까? - Dogu E2E 테스트 도입기](https://blog.dogutech.io/dogu-e2e-testing-implementation-ko/)
 * [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 * [Pact | Microservices testing made easy](https://pact.io/)
+* [Reliv](https://reliv.ai/)
+  * [Reliv.ai를 활용한 테스트 자동화](https://brunch.co.kr/@yongjinjinipln/128)
 * [safetest](https://github.com/kolodny/safetest)
   * [Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
     * Netflix에서 내부에 적용해서 사용하는 프론트엔드 테스트 프레임워크 SafeTest 공개
