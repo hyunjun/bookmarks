@@ -1793,6 +1793,7 @@ App
   * [디스코드에서 대용량파일 보내는 쉽고 새로운 방법](https://about.file.kiwi/35)
   * [DevOps Linux Shell Script를 이용하여 서버 접속 사용자 정보 디스코드에 보내기](https://junyharang.tistory.com/463)
   * [Discord.py 없이 requests만으로 File 첨부해서 메시지 전송하기 | by Junah | Jun, 2024 | Medium](https://junah201.medium.com/discord-py-%EC%97%86%EC%9D%B4-requests%EB%A7%8C%EC%9C%BC%EB%A1%9C-file-%EC%B2%A8%EB%B6%80%ED%95%B4%EC%84%9C-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-f8cd4a03681b)
+  * [DiscordChatExporter: Exports Discord chat logs to a file](https://github.com/Tyrrrz/DiscordChatExporter)
   * [juny-discord-bot-test: JDA를 이용한 Spring Boot Discord Bot 연습이에요](https://github.com/junyharang-personal-project/juny-discord-bot-test)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기](https://junyharang.tistory.com/381)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - Spring Boot(스프링 부트)를 이용한 간단한 API 만들기 feat.mybatis(마이바티스)](https://junyharang.tistory.com/382)
@@ -1800,6 +1801,7 @@ App
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - 디스코드 봇을 이용하여 API 호출](https://junyharang.tistory.com/384)
 * [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
+  * [NASA와 삼성이 선택한 메신저 ‘Mattermost’ 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/19/mattermost-overview/)
 * slack
   * [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
   * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
@@ -1855,6 +1857,7 @@ App
 * [16 Popular Free And Open Source UML tools](https://medevel.com/open-source-uml-tools/)
 * [Create animated architecture diagrams in minutes on powerpoint - YouTube](https://www.youtube.com/watch?v=yg3WcAjmR90) ppt의 animation 이용이라 나에겐 큰 유용함은 없을 듯
 * [Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube](https://www.youtube.com/watch?v=jCd6XfWLZsg)
+* [🔥 업무 효율을 높여주는 아이데이션 툴](https://eopla.net/magazines/17697) ideamap Whimsical
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
@@ -2464,6 +2467,7 @@ App
         * Figma가 커짐에 따라 생태계 부족으로 인한 한계를 깨닫고 Skew를 TypeScript로 마이그레이션
       * 이는 모바일 브라우저에서 WebAssembly를 지원하기 시작했고 Skew의 핵심 엔진을 이미 C++ 엔진으로 대체해서 성능 손실이 크지 않았기에 가능한 일
       * 마이그레이션은 Skew 코드에서 TypeScript 빌드를 한 뒤 직접 TypeScript 코드를 작성하도록 하면서 개발의 중단없이 마이그레이션 완료
+  * [여기어때 피그마 플러그인 제작기. 글. 한혜진(Pixie) / UX Designer | by 여기어때 UX Center | Jun, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%94%BC%EA%B7%B8%EB%A7%88-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-6fa64941dd42)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
@@ -2542,6 +2546,7 @@ App
 * [GestureWheel: Mouse wheel gestures app for Windows](https://github.com/iodes/GestureWheel)
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
+* [Grepy2: Windows utility to search files for text](https://github.com/botman99/Grepy2)
 * HangulJasoFixer [맥에서 보낸 파일명이 윈도우에서 깨질때 - 파일명 자모 분리 현상 :: Sotheb](https://www.sotheb.co.kr/65)
 * [jsmpeg-vnc: A low latency, high framerate screen sharing server for Windows and client for browsers](https://github.com/phoboslab/jsmpeg-vnc)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
