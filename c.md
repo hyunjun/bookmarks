@@ -232,6 +232,8 @@ C
   * [zig 설치하여 Visual Studio Code 개발환경 만들기 - Windows, Linux, macOS :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2301)
   * [C를 배우기 전에 이 영상을 보세요. - YouTube](https://www.youtube.com/watch?v=KVPjN_8DkhY)
   * [zig is the future of programming. here's why. - YouTube](https://www.youtube.com/watch?v=pnnx1bkFXng)
+  * [Zig vs Rust at work: the choice we made | Ludwig](https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/)
+    * [업무에서의 Zig vs. Rust : 우리의 선택은 Zig | GeekNews](https://news.hada.io/topic?id=15493)
   * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 # Debugging
