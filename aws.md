@@ -512,6 +512,7 @@ AWS
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
+* [VoD 및 Live 환경에서의 광고 개인화 서비스 구성 및 요청 흐름 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-live-ad-personalization-with-mediatailor/) AWS Elemental Mediatailor
 * [Accelerate, protect and make dynamic workloads delivery cost efficient with Amazon CloudFront | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
   * [Amazon CloudFront를 활용하여 비용 효율적으로 동적 워크로드 전송을 가속화하고 보호하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
 * [AI/ML을 기반으로 한 서버리스 라이브 스트리밍/VOD 서비스 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-serverless-live-streaming-vod-service-based-on-aiml/) Elemental
