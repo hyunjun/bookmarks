@@ -1241,6 +1241,8 @@ Web
 * [Wapp - A Web-Application Framework for TCL](https://wapp.tcl.tk/home/doc/trunk/README.md)
   * [Wapp - TCL을 위한 웹 어플리케이션 스택 | GeekNews](https://news.hada.io/topic?id=5817)
 * [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
+* [Web Check](https://v1.web-check.xyz/)
+  * [Web Check - 웹사이트의 모든 정보를 보여주는 OSINT 도구 | GeekNews](https://news.hada.io/topic?id=15482)
 * [WebDevCurriculum: Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
   * [Knowre 신입 웹개발 커리큘럼 | GeekNews](https://news.hada.io/topic?id=4968)
 * [WebTransport 실험하기](https://web.dev/webtransport/)
