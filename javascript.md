@@ -2904,6 +2904,8 @@ Javascript
     * yarn은 Plug'n'Play 방식을 사용해서 `.pnp.cjs` 파일에 JavaScript Map으로 의존성을 찾는 방법을 명시해서 훨씬 빠르고 정확하게 동작
   * Toss는 Yarn의 좋은 아키텍처, 정확성과 성능 때문에 Yarn을 선택
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
+* [Farm Documentation | Farm](https://www.farmfe.org/)
+  * [Farm - 매우 빠른, Vite 호환 빌드 도구 | GeekNews](https://news.hada.io/topic?id=15487)
 * [fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
   * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
