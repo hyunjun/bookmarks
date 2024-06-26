@@ -449,6 +449,10 @@ Business
     * 정말 필요한 최적의 인원
       * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
+* [문제 해결을 위한 3단계 프레임워크 가이드 (Feat. Airbnb)](https://eopla.net/magazines/17715)
+  * 1단계: 해결하려는 문제 구체화
+  * 2단계: 팀 및 이해관계자와 문제 조율
+  * 3단계: 다시 문제로 돌아오기
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
@@ -734,6 +738,8 @@ Business
 * [나의 첫 번째 성공적인 사업 TinyPilot을 매각 완료했어요 | GeekNews](https://news.hada.io/topic?id=15151)
 * [Do not try to be the smartest in the room; try to be the kindest. | Jorge Galindo's blog](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
   * [방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/topic?id=15390)
+* [Now is a good time to start a service business -](https://www.zachocean.com/posts/service-business/)
+  * [지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/topic?id=15497)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
