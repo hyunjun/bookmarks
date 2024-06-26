@@ -488,6 +488,8 @@ Artificial Intelligence
   * [AI 스타트업을 만드는 방법 | GeekNews](https://news.hada.io/topic?id=15457)
 * [할리우드와 게임이 AI와 싸우는 이유 | GeekNews](https://news.hada.io/topic?id=15460)
 * [생성 AI 방향 바뀌었다… ‘온디바이스AI’의 현재와 미래 - 더밀크 | The Miilk](https://themiilk.com/articles/a5138ce16)
+* [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
+* [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
