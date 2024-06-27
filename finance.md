@@ -49,6 +49,7 @@ Finance
 * [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
 * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 - YouTube](https://www.youtube.com/watch?v=TarBHRN6zNA) IRP
   * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824830)
+* [퇴직금 1억으로 노후 돈 걱정 끝내는 법 "IRP에서 이렇게 하면 평생 연금 나와요" | 김범곤 대표 4부 - YouTube](https://www.youtube.com/watch?v=j_3BVr9Z2WA)
 * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
 * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8) ISA
   * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
