@@ -59,6 +59,7 @@ Shell
 * [shell에서 interactive, non-interactive, login, non-login 차이는?](http://ohyecloudy.com/pnotes/archives/shell-interactive-non-interactive-login-non-login/)
 * [Bash startup files - 설정을 어디에 넣어야 하는걸까?](http://ohyecloudy.com/pnotes/archives/bash-startup-files/) .bashrc, .bash_profile, ...
 * [셸에서 정규식으로 찾기 바꾸기 하기 – 형우의 웹개발](https://mytory.net/archives/15643)
+* [셸 스크립트에 적합한 훌륭한 언어, Ruby | GeekNews](https://news.hada.io/topic?id=15484)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
