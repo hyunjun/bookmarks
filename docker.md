@@ -1966,6 +1966,7 @@ Docker
 * [DIY: Create Your Own Cloud with Kubernetes (Part 3) | Kubernetes](https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-3/)
 * [쿠버네티스 챕터1. Spring Boot와 Docker를 이용한 Hello World Rest API Application 개발, 빌드, 배포 - YouTube](https://www.youtube.com/watch?v=kQc0iaWPLjk&list=PL9wb-tjlQWcX1EMc8NI_8_OiGiBqjgpj3&index=18)
 * [ARM 서버에 쿠버네티스(Kubernetes,.. : 네이버블로그](https://blog.naver.com/xslab/223467509684)
+* [ARM 서버에 쿠버네티스(Kubernetes).. : 네이버블로그](https://blog.naver.com/xslab/223491940839)
 * [Load balancing and scaling long-lived connections in Kubernetes](https://learnk8s.io/kubernetes-long-lived-connections)
   * Kubernetes에서 HTTP keepalive처럼 TCP 연결을 열어두고 계속 사용하는 경우 로드밸런싱이 제대로 되지 않는 동작 설명
   * Kubernetes에서 서비스의 IP는 자리 표시자로만 사용
