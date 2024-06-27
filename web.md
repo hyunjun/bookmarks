@@ -1362,6 +1362,7 @@ Web
 * [Nginx reverse proxy with URL rewrite | by λ.eranga | Rahasak Labs | Medium](https://medium.com/rahasak/nginx-reverse-proxy-with-url-rewrite-a3361a35623c)
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
+* [Nginx Proxy Server가 이상하다! :: All About Dev/Ops](https://zerone-code.tistory.com/16)
 * [Nginx Proxy Manager](https://nginxproxymanager.com/)
   * [DevOps NGINX Proxy Manager와 CloudFlare를 이용해 로컬 네트워크 내에서 일관된 웹 개발 테스트 환경 구성하기 — BetaMan의 공사장](https://blog.betaman.kr/111)
 
