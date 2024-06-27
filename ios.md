@@ -192,6 +192,7 @@ iOS
 * [Haptic Feedback :: iOYES](https://green1229.tistory.com/480)
 * [View Snapshot Capture :: iOYES](https://green1229.tistory.com/482)
 * [TECHCON 2019: MOBILE - iOS 1.네이버 지도 밑그림을 그리는 SDK 개발자가 하는 일](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-ios1-sdk)
+* [ChatGPT를 이용한 iOS SMS 필터링 앱 | GeekNews](https://news.hada.io/topic?id=15498)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
