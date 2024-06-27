@@ -1194,6 +1194,7 @@ Business
 * [4 Questions to Ask Devs When They Say "No"](https://newsletter.skiplevel.co/5-questions-to-ask-devs-when-they-say-no/)
   * [권정혁 - 개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 # 1. 기능을 구축하는 데 있어 다른 기술적... | Facebook](https://www.facebook.com/xguru/posts/pfbid0rYxAq257jQp22YXkMtKFD2xeGFVLhkQvarH7hRRzKbs6iFPJ84w8tpfcoDHTaxv3l)
   * [개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 | GeekNews](https://news.hada.io/topic?id=13333)
+* [(2) 여현준 - 팀워크라는 헛소리 1. 일반적으로 팀워크는 헛소리에 불과하다. 대부분의 회사는 팀워크가 작동할 수 있는... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid02tLfcDqrZHXdPsDNUKY7B7Yqv7Ve5wj5azooWW18XXeJPjQ2cuajgGTAuZxrjcEBsl)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
