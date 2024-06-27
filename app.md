@@ -1362,6 +1362,7 @@ App
 * [14 UNIQUE Mac Apps You Can’t Live Without! - YouTube](https://www.youtube.com/watch?v=oFeSRI8TcwI)
 * [매일 사용하는 추천 macOS앱을 알려주세요 | GeekNews](https://news.hada.io/topic?id=15295)
 * [DevOps 엔지니어 ‘일잘러’로 만드는 맥북 필수 도구 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/12/devops-mac-setting/) Warp Dropover Shottr Raycast AltTab
+* [최신정보 수집하고 까먹는 당신, 정보 중독입니다](https://eopla.net/magazines/17731) Fabric Findr
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
