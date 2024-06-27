@@ -220,6 +220,7 @@ Functional Programming
 # Curry
 * [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 * [다시보는 커링 | overcurried](https://overcurried.com/%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94%20%EC%BB%A4%EB%A7%81/)
+* [커링 (Currying) - 세련된 함수형 코드 작성하기 - YouTube](https://www.youtube.com/watch?v=PRLWfdCFQTQ)
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
