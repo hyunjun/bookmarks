@@ -1399,6 +1399,8 @@ SQL
 * [Making a Postgres query 1,000 times faster - Mattermost](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
   * [Postgres 쿼리 1,000배 더 빠르게 만들기 | GeekNews](https://news.hada.io/topic?id=14930)
 * [PostgreSQL 단일 테이블 컬럼을 최대한 활용하기](https://jojoldu.tistory.com/788)
+* [How to Get the Most out of Postgres Memory Settings | Tembo](https://tembo.io/blog/optimizing-memory-usage)
+  * [Postgres 메모리 설정을 최대한 활용하는 방법 | GeekNews](https://news.hada.io/topic?id=15540)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
