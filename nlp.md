@@ -2154,6 +2154,7 @@ NLP
   * [Claude 클로드 사용법 | AI로 데이터 분석하기 | Daily Log](https://jiyeonseo.github.io/2024/05/31/data-analytic-with-claude/)
   * [Introducing Claude 3.5 Sonnet \ Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
     * [Claude 3.5 Sonnet 출시: GPT4o를 뛰어넘는 성능 | GeekNews](https://news.hada.io/topic?id=15439)
+  * [모두의AI Claude 프롬프팅 가이드](https://mo-ai.notion.site/AI-Claude-f2d0acd56ee74bd8b00354a2bb2d273d)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
