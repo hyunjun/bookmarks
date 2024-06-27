@@ -440,6 +440,7 @@ Elixir
     * [VidiGo How Phoenix LiveView Optimizes Real-Time Web Apps](https://vidigo.ai//share/summary/842429b222d8)
     * [Phoenix LiveView가 스트림으로 실시간 웹 앱을 최적화하는 방법 - Sophie DeBenedetto - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/666217)
   * [Phoenix auth in 2024: password auth: Go Cahoots for once — Homepage of Marcin Koziej](https://cahoots.pl/static/Phoenix%2520auth%2520in%25202024%253A%2520password%2520auth.html)
+  * [Mobile app development with LiveView Native and Elixir - DEV Community](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-4f79)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
@@ -465,6 +466,7 @@ Elixir
     * [NIF with Rustler](https://presentation.seokmin.dev/presentations/nif#/)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
 * telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
+* [vecto: Hybrid Search with Postgres and Ecto](https://github.com/cpursley/vecto)
 
 # TDD test
 * [An Introduction to Test Factories and Fixtures for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/02/28/an-introduction-to-test-factories-and-fixtures-for-elixir.html)
