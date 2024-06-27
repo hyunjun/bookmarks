@@ -1696,6 +1696,7 @@ AWS
 * [Living on the Edge • Erica Pisani • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=Gq6eDt13uNU)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
 * [AWS Global Accelerator를 사용해서 애플리케이션 성능 개선하기 - YouTube](https://www.youtube.com/watch?v=1Evp9-GPCoc)
+* [AWS Global Accelerator](https://velog.io/@repush/AWS-Global-Accelerator)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
 * [End Cold Starts in Your Serverless Apps with AWS Lambda Provisioned Concurrency](https://www.youtube.com/watch?v=EML6FKBdsNU)
