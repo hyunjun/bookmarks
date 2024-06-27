@@ -802,6 +802,7 @@ Linux
     * UT1과 UTC를 보정하는 윤초(Leap Second)가 지금까지는 괜찮았지만
     * 윤초의 문제가 많이 발생하고 있고 앞으로는 음의 윤초가 생길 가능성이 있기 때문에 페이스북에서는 현재의 윤초를 그대로 유지하려고 노력
     * [이제 '윤초'는 과거로 남겨둘 때가 되었다 | GeekNews](https://news.hada.io/topic?id=7046)
+  * [Let's Encrypt의 메모리 안전성 강화: ntpd-rs 배포 | GeekNews](https://news.hada.io/topic?id=15518)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `parallel` [GNU Parallel Tutorial — GNU Parallel 20220222 documentation](https://www.gnu.org/software/parallel/parallel_tutorial.html)
