@@ -296,6 +296,7 @@ Artificial Intelligence
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
+* [Continue](https://www.continue.dev/) open-source AI code assistant
 * [crewAI - Platform for Multi AI Agents Systems](https://www.crewai.com/)
   * [Crew AI로 AI 에이전트 팀을 몇 분 안에 구축하기!](https://www.toolify.ai/ko/ai-news-kr/crew-ai-ai-1317636)
   * [크루 AI: AutoGEN 보다 더 나은 인공지능](https://www.toolify.ai/ko/ai-news-kr/ai-autogen-2396938)
@@ -490,12 +491,15 @@ Artificial Intelligence
 * [생성 AI 방향 바뀌었다… ‘온디바이스AI’의 현재와 미래 - 더밀크 | The Miilk](https://themiilk.com/articles/a5138ce16)
 * [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
 * [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
+* [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
+* [dropofahat.zone](https://dropofahat.zone/)
 * [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
+* [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
