@@ -955,6 +955,7 @@ Business
 * [신입 엔지니어를 채용하는 것](https://jojoldu.tistory.com/769)
 * [왜 채용이 어려울까?](https://www.linkedin.com/posts/monozuno_tfnsqoqsvumoabrsmusxbstuabrsxqsuzabrtrgsqb-activity-7175481783851888642-pzRs/)
 * [COACH: AI-powered Career Coach | CareerVillage](https://www.aicareercoach.org/)
+* [시니어 채용할 때 고려해야 되는 4가지 - 신뢰, 문화, 단순함, 피드백 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1195,6 +1196,7 @@ Business
   * [권정혁 - 개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 # 1. 기능을 구축하는 데 있어 다른 기술적... | Facebook](https://www.facebook.com/xguru/posts/pfbid0rYxAq257jQp22YXkMtKFD2xeGFVLhkQvarH7hRRzKbs6iFPJ84w8tpfcoDHTaxv3l)
   * [개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 | GeekNews](https://news.hada.io/topic?id=13333)
 * [(2) 여현준 - 팀워크라는 헛소리 1. 일반적으로 팀워크는 헛소리에 불과하다. 대부분의 회사는 팀워크가 작동할 수 있는... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid02tLfcDqrZHXdPsDNUKY7B7Yqv7Ve5wj5azooWW18XXeJPjQ2cuajgGTAuZxrjcEBsl)
+  * [여현준 on LinkedIn: #비즈니스로어](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7211850727516741633-qAeE)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
@@ -2963,6 +2965,9 @@ Business
         * 대부분의 스타트업이 고객이 원하는 제품을 찾지 못하고, 비용 효율성을 무시하는 문제 지적. 비즈니스적으로 실행가능한 제품을 발견하는 중요성 강조
 * [13화 성공한 서비스 뒤에는 가치 사다리가 있다?](https://brunch.co.kr/@cliche-cliche/219)
 * [AI 자체는 별로 중요하지 않은 것 같아요](https://eopla.net/magazines/17493)
+* [AI 네이티브 제품 프라이싱 하는 방법 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%A0%9C%ED%92%88-%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  * [Hyunsol Park on LinkedIn: AI 네이티브 제품 프라이싱 하는 방법 | Disquiet\*](https://www.linkedin.com/posts/hyunsolpark_ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%A0%9C%ED%92%88-%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-disquiet-activity-7211316857721479169-x5A3)
+* [사용자 이해와 가치 창출을 위한 도전](https://brunch.co.kr/@ebprux/1349)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -3046,6 +3051,7 @@ Business
 * [좋은 기획자의 덕목이란 뭘까?](https://brunch.co.kr/@fbrudtjr1/55)
 * [Heartcomplex - 삶, 우주, 그리고 모든 것. 42. : 프로덕트 오너(Product Owner – PO)에게 필요한 것](https://www.heartcomplex.net/%ed%94%84%eb%a1%9c%eb%8d%95%ed%8a%b8-%ec%98%a4%eb%84%88product-owner-po%ec%97%90%ea%b2%8c-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83/)
 * [한국에서의 product manager란 무엇인가](https://www.linkedin.com/feed/update/urn:li:activity:7190217874848862208/)
+* [PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다](https://brunch.co.kr/@ebprux/1352)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -3740,6 +3746,7 @@ Business
 * [System Usability Scale 측정 방법](https://brunch.co.kr/@ebprux/1342)
 * [UI Density || Matthew Ström, designer-leader](https://matthewstrom.com/writing/ui-density/)
   * [UI 밀도(Density)의 의미와 디자인 방법 | GeekNews](https://news.hada.io/topic?id=14932)
+* [프로덕트 매니저의 관점에서 바라본 사용자 경험의 본질](https://brunch.co.kr/@ebprux/1372)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
