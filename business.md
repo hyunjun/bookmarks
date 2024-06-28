@@ -3055,6 +3055,7 @@ Business
 * [Heartcomplex - 삶, 우주, 그리고 모든 것. 42. : 프로덕트 오너(Product Owner – PO)에게 필요한 것](https://www.heartcomplex.net/%ed%94%84%eb%a1%9c%eb%8d%95%ed%8a%b8-%ec%98%a4%eb%84%88product-owner-po%ec%97%90%ea%b2%8c-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83/)
 * [한국에서의 product manager란 무엇인가](https://www.linkedin.com/feed/update/urn:li:activity:7190217874848862208/)
 * [PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다](https://brunch.co.kr/@ebprux/1352)
+* [Good PM vs Great PM: Be the MVP (Most Valuable PM)](https://www.linkedin.com/posts/sachin-sharma-product-career-coach_good-pm-vs-great-pm-be-the-mvp-most-valuable-activity-7209412430064488449-b4zX/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
