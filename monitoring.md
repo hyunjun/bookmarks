@@ -113,6 +113,7 @@ Monitoring
     * MySQL에 저장
     * 이 데이터를 Grafana에 데이터소스로 연결
     * 대시보드를 통해서 빌드, PR, 커밋, 이슈 등의 통계를 한 번에 볼 수 있게 작성
+* [코난테크놀로지 사례로 보는 AWS IoT TwinMaker의 Grafana 대시보드 통합 사례 및 카메라 뷰 설정 가이드 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/config-guide-aws-iot-twinmaker-and-grafana-with-the-konan-tech-partner-solution/)
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
