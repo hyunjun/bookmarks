@@ -666,6 +666,7 @@ Functional Programming
 * [How to gently introduce an FP library - YouTube](https://www.youtube.com/watch?v=onFoOrCjxko)
 * [Foundations of Functional Programming in Scala - YouTube](https://www.youtube.com/playlist?list=PLiYD0LWExCDkXGpYRY3WjNscDfhe4D0ND)
 * [Functional Parallel Programming in the wild - Rock the JVM Blog](https://blog.rockthejvm.com/cats-effect-parallelism/)
+* [Functional Programming in Scala Course for Edu | JetBrains Marketplace](https://plugins.jetbrains.com/plugin/23833-functional-programming-in-scala/)
 * [Kyo](https://getkyo.io/#/)
   * [Writing Modular Applications Using The Kyo Library](https://www.scalamatters.io/post/writing-modular-applications-using-the-kyo-library)
   * [Releasing Kyo: When Performance Meets Elegance In Scala by Flavio Brasil - YouTube](https://www.youtube.com/watch?v=FXkYKQRC9LI)
