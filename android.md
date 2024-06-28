@@ -300,6 +300,7 @@ Android
 * [Pluu Dev - 메모 Compose LazyVerticalGrid 렌더링 프로파일 체크](https://pluu.github.io/blog/android/2024/04/21/compose-performance/)
 * [보이스피싱 애플리케이션 분석 1부 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/381)
 * [보이스피싱 애플리케이션 분석 2부 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/383)
+* [보낼 로그가 1000개가 되는동안 겪었던 고민들](https://d2.naver.com/helloworld/7282210)
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
@@ -503,6 +504,7 @@ Android
   * [Pluu Dev - 정리 Compose 가이드 문서 ~ Performance](https://pluu.github.io/blog/android/2024/06/19/compose/)
   * [DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose](https://d2.naver.com/helloworld/0623656)
   * [Pluu Dev - 요약 Designing scalable Compose APIs (Google I/O '24)](https://pluu.github.io/blog/android/io24/2024/06/23/io24-whats-new-in-android-development-tools-%EB%B3%B5%EC%82%AC%EB%B3%B8/)
+  * [Pluu Dev - 요약 Designing scalable Compose APIs (Google I/O '24)](https://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
