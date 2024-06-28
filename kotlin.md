@@ -147,6 +147,7 @@
 * [코틀린의 Scope Function(let, with, run, apply, also)을 알아보자](https://developer88.tistory.com/180)
 * [10분 테코톡 링링의 Scope Function - YouTube](https://www.youtube.com/watch?v=rRjvHKd0ci0)
 * [Kotlin Extension Functions에 대해서 정리해 봅니다](https://developer88.tistory.com/211)
+* [코틀린을 활용한 안전한 효과 처리 - tech.kakao.com](https://tech.kakao.com/posts/622) extension function
 * [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
 * [나 혼자 Kotlin v1.0 - Part.1](https://www.sangkon.com/kotlin_study_with_tdd_part_1/)
 * [Kotlin cheatsheet](https://devhints.io/kotlin)
@@ -441,6 +442,7 @@
 * [코루틴 API 살펴보기](https://www.kazuya.io/ee923f20-c508-4dbb-9b5e-7516c26089ae)
 * [WMS 재고 이관을 위한 분산 락 사용기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17416/)
 * [왜 코루틴을 써야할까?](https://yeonyeon.tistory.com/332)
+* [Coroutine 코루틴 빌더, 코루틴 컨텍스트](https://yeonyeon.tistory.com/333)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
