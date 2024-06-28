@@ -219,6 +219,7 @@ Artificial Intelligence
   * [VidiGo AI Training Orchestration Evolution with Serverles](https://vidigo.ai/share/summary/c57796ab220f)
   * [서버리스 빌딩 블록을 통한 AI 트레이닝 오케스트레이션의 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804569)
 * [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
+* [Writing Path: MBTI J처럼 체계적으로 글쓰는 AI](https://d2.naver.com/helloworld/8011540)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
