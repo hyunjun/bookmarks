@@ -5495,6 +5495,7 @@ Javascript
   * [Building towards a new default rendering model for web applications – Vercel](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model)
     * Vercel에서 CDN을 더 활용하기 위해 엣지에서 성능을 최대화할 수 있도록 Next.14에서 Partial Prerendering(PPR)를 사용하는 방법 소개
     * PPR은 `<Suspense>`를 기준으로 정적 쉘을 생성하고 이 정적 쉘은 엣지에서 바로 사용자에게 제공되는데 이를 통해 Incremental Static Regeneration(ISR)의 안정성과 속도, Server-Side Rendering(SSR)의 동적 기능을 통합한 기능이라고 설명
+  * [SSR 서버 최적화로 비용 아끼기](https://toss.tech/article/ssr-server)
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
@@ -6382,6 +6383,7 @@ Javascript
   * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript - YouTube](https://www.youtube.com/watch?v=xesy1i67OWI)
     * [VidiGo infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript.mp4](https://vidigo.ai//share/summary/eb68cff76376)
     * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/746367)
+* [Typescript로 Local Storage 안전하게 사용하기 | 뱅크샐러드](https://blog.banksalad.com/tech/typescript-local-storage/)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
