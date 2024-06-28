@@ -1350,6 +1350,8 @@ Business
   * 피드백은 상대를 성장시킬 수 있는 훌륭한 방식
   * 하지만 좋은 피드백을 하려면, 피드백이 실질적인 효과를 내려면 결과만이 아니라 과정을 알 수 있는 <관심>이 전제
   * 사람들이 원하는 것은 피드백 자체가 아니라, 인정과 관심이기 때문
+* [The Looking Glass: Holding Up the Mirror - by Julie Zhuo](https://lg.substack.com/p/the-looking-glass-holding-up-the)
+  * [피드백 잘하기](https://brunch.co.kr/@yongjinjinipln/131)
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
@@ -1820,6 +1822,7 @@ Business
       * 첫 번째 세션에서 노력에 대해 긍정적인 피드백이 아닌 부정적인 피드백을 줬으나, 이를 통해 행동 가능한 결과물 획득
       * 새로 합류한 팀원이 나에게 피드백을 주어 예상치 못한 방향으로 나를 밀었을 때, 초기 대화를 거쳐 불편함을 해소하고 더 나은 방향으로 유도
       * 회사 전체가 안전하게 느껴지고 피드백을 서로 주고받을 수 있는 문화가 조성되어 작은 회사에서부터 시작된 문화가 놀라운 변화 유도
+* [멘토링의 시작: 멘티가 알아야 할 것들](https://brunch.co.kr/@yongjinjinipln/130)
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
 * [혼내는 것도 요령이 있다](http://moneyman.kr/archives/1584)
@@ -3747,6 +3750,11 @@ Business
 * [UI Density || Matthew Ström, designer-leader](https://matthewstrom.com/writing/ui-density/)
   * [UI 밀도(Density)의 의미와 디자인 방법 | GeekNews](https://news.hada.io/topic?id=14932)
 * [프로덕트 매니저의 관점에서 바라본 사용자 경험의 본질](https://brunch.co.kr/@ebprux/1372)
+* [뱅크샐러드의 새로운 집(Home) 짓기 - 1편 | 기초공사 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-1/)
+* [뱅크샐러드의 새로운 집(Home) 짓기 - 2편 | 완공편 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-2/)
+* [뱅크샐러드의 새로운 집(Home) 짓기 - 3편 | 증축편 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-3/)
+* [(youtube)29CM 행성에 떨어진 UX 리서처. 이번 발표에서는 UX 리서처가 하는일과 UX 리서치가 왜 필요한지… | by 29CM | 29CM TEAM | Jun, 2024 | Medium](https://medium.com/29cm/youtube-29cm-%ED%96%89%EC%84%B1%EC%97%90-%EB%96%A8%EC%96%B4%EC%A7%84-ux-%EB%A6%AC%EC%84%9C%EC%B2%98-7aff7e82c03e)
+* [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
