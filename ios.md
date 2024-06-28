@@ -104,6 +104,7 @@ iOS
 * [물 흐르듯 자연스러운 화면 전환을 향한 여정](https://techblog.lycorp.co.jp/ko/make-seamless-screen-transition-in-line-ios-app)
 * [Extending iOS Apps With Plug-Ins](https://medium.com/better-programming/extending-ios-apps-with-plug-ins-e4119d064f2d)
 * [**Thiiing(띠잉) iOS 앱 개발기 - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2020/07/06/thiiing-ios.html) MVVM, CocoaPods, Carthage, SwiftLint, Jenkins(BlueOcean)
+* [SwiftUI MV 패턴 알아보기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-mv-pattern)
 * [Bazel로 LINE의 iOS 앱 빌드 속도를 2배 빠르게! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/improving-build-performance-line-ios-bazel/)
 * [접근성 지원, 개발자의 빠른 성장을 도와줍니다. - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/how-accessibility-nudges-you-to-be-better-developer/)
 * [“대구 사람들은 우리 앱을 못 쓴대요”라는 버그의 심각성은? - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/severity-of-bug-that-blocks-people-from-daegue)
@@ -134,6 +135,7 @@ iOS
 * [iOS의 Clean Architecture | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-clean-architecture/)
 * [Spoqa 기술 블로그 | 발전하는 iOS와 Clean Swift Architecture](https://spoqa.github.io/2024/03/06/clean-swift.html)
   * [CleanSwift-CIS: The CIS pattern is an improvement on the Clean Swift architecture, aligned with advanced technologies and paradigms. It assists in the stable development of iOS and Mac applications](https://github.com/spoqa/CleanSwift-CIS)
+* [iOS의 Architecture | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-architecture)
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
@@ -193,6 +195,7 @@ iOS
 * [View Snapshot Capture :: iOYES](https://green1229.tistory.com/482)
 * [TECHCON 2019: MOBILE - iOS 1.네이버 지도 밑그림을 그리는 SDK 개발자가 하는 일](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-ios1-sdk)
 * [ChatGPT를 이용한 iOS SMS 필터링 앱 | GeekNews](https://news.hada.io/topic?id=15498)
+* [뱅크샐러드 at Apple Store | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-at-apple-store/)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -638,6 +641,7 @@ iOS
 * [UIPasteboard를 통한 클립보드 사용하기 :: iOYES](https://green1229.tistory.com/470)
 * [Build your next website in Swift - YouTube](https://www.youtube.com/watch?v=JJGLoo3A2uk)
 * [XMLParser :: iOYES](https://green1229.tistory.com/474)
+* [SwiftUI - symbolEffect :: iOYES](https://green1229.tistory.com/484)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
