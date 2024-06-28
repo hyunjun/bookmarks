@@ -2097,6 +2097,8 @@ NLP
 * [LLM은 패턴을 읽는다. Large Language Models as General… | by Simple | Jun, 2024 | Medium](https://medium.com/@simple0314/llm%EC%9D%80-%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%9D%BD%EB%8A%94%EB%8B%A4-7a52e7fde34e)
 * [Programming in the LLM Era #1 - Why | by Beejei | Jun, 2024 | Medium](https://beejei.medium.com/programming-in-the-llm-era-1-why-8965f525c300)
 * [Programming in the LLM Era #2 — How | by Beejei | Jun, 2024 | Medium](https://beejei.medium.com/programming-in-the-llm-era-2-how-4071ac6e4245)
+* [Introducing Lamini Memory Tuning: 95% LLM Accuracy, 10x Fewer Hallucinations | Lamini - Enterprise LLM Platform](https://www.lamini.ai/blog/lamini-memory-tuning)
+  * [LLM 할루시네이션을 10배 감소 시키는 메모리 튜닝](https://www.linkedin.com/feed/update/urn:li:activity:7207552674488094720/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
