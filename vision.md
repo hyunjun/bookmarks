@@ -430,6 +430,7 @@ Vision
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
+* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
 * WebRTC
   * [WebRTC samples](https://webrtc.github.io/samples/)
