@@ -499,6 +499,7 @@ Data Science
 * [Agile Data Science - John Sandall | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7HR-vrYN1oU)
 * [데이터로 트렌드 읽는 방법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/19)
 * [Taming the Data Mess, How Not to Be Overwhelmed by the Data Landscape - YouTube](https://www.youtube.com/watch?v=Xas7HBWrbN0)
+* [A Recap of the Data Engineering Open Forum at Netflix | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f)
 * [SOCAR DATA MeetUp 2022 - YouTube](https://www.youtube.com/playlist?list=PLEZRFe2YmFouerg-jmQ5EMivTeSSlwP3z)
 * [Phillip Cloud & Gil Forsyth - Ibis: A fast, flexible, and portable tool for data analytics - YouTube](https://www.youtube.com/watch?v=TyopbrmlZx8)
 
@@ -1080,6 +1081,7 @@ Data Science
 * [추천 시스템 개선을 위한 Feature Store 도입기 - RIDI Corp.](https://ridicorp.com/story/ridi-personalization-system-feature-store/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development_second/)
+* [실시간 반응형 추천 개발 일지 #1. 프로젝트 소개 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17383/)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
