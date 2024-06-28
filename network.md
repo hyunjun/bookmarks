@@ -350,6 +350,7 @@ Network
 
 # Library
 * [네트워크 엔지니어를 위한 '무료' 필수 툴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/268533)
+* [글로벌 서비스에서 지역 통신사 네트워크 이슈 트러블슈팅하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/06/24/global-network-troubleshooting.html) mobile proxy oxylabs
 * [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 * [awesome-connectivity-info: Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.](https://github.com/stevesong/awesome-connectivity-info)
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
