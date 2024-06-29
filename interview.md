@@ -401,6 +401,8 @@ Interview
   * [System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o)
   * [Top 10 Free System Design Courses and Tutorials in 2023 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015)
   * [시스템 디자인 101: 기초 가이드 시스템 디자인 - YouTube](https://www.youtube.com/watch?v=PQ0IYm8o9bk)
+  * [40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024 | by javinpaul | Javarevisited | Jun, 2024 | Medium](https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6)
+  * [Javarevisited: 100+ System Design Interview Questions and Problems for Software Engineers](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
   * [best-system-design-resources: A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews](https://github.com/javabuddy/best-system-design-resources/)
   * [system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews](https://github.com/ByteByteGoHq/system-design-101)
     * [Open-sourcing over 100 byte-sized system design concepts with high-resolution diagrams](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7119709900187820033-E9Zw/)
