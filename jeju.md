@@ -86,6 +86,7 @@
 * [지붕위제주바다](https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020381)
 * [제주 함덕맛집 "라멩하우스" : 네이버 블로그](https://blog.naver.com/makafood/221454420625)
 * [협재 수선화식당](https://www.youtube.com/shorts/DVFveRrwzlM)
+* [제주맛집 : 목살 맛집 정수용식당 : 네이버 블로그](https://blog.naver.com/ssssaamm/223299479811)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
