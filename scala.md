@@ -438,6 +438,7 @@ Scala
 * [Zymposium - Implementing Actors With ZIO - YouTube](https://www.youtube.com/watch?v=4K1xKb92WM0)
 * [Zymposium - Distributed Actors with ZIO HTTP - YouTube](https://www.youtube.com/watch?v=5uCDCVcrci8)
 * [Zymposium - The Next Chapter Of Distributed Actors - YouTube](https://www.youtube.com/watch?v=v8jmAZXK0Rk)
+* [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob – Mark Galea – stay safe, keep hacking! - cloudmark](https://cloudmark.github.io/Cats-Actors-In-The-Wild/)
 
 # Akka
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
