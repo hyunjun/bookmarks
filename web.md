@@ -474,6 +474,10 @@ Web
   * prerender
     * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
     * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [From fast loading to instant loading - YouTube](https://www.youtube.com/watch?v=bSua9vMdrNM) Core Web Vitals Largest Contentful Paint (LCP) Speculation Rules API Document Rules
+  * [소스코드 변경없이 멀티페이지 애플리케이션의 페이지 전환 속도를 2배 빠르게 만든 경험](https://www.linkedin.com/posts/%EA%B5%90%EC%98%81-%EA%B8%88-739978241_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B3%80%EA%B2%BD%EC%97%86%EC%9D%B4-%EB%A9%80%ED%8B%B0%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%84%ED%99%98-%EC%86%8D%EB%8F%84%EB%A5%BC-2%EB%B0%B0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-activity-7212747370076229632-ZQoZ/)
+  * [VidiGo From fast loading to instant loading.mp4](https://vidigo.ai/share/summary/dbf4d4eab8ff)
+  * [빠른 로딩에서 즉시 로딩까지 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/852714)
 * [웹 페이지 로딩 과정 이해하기](https://blog.imqa.io/webpage_loading_process/)
 * [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
 * [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
