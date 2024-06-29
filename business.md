@@ -453,6 +453,7 @@ Business
   * 1단계: 해결하려는 문제 구체화
   * 2단계: 팀 및 이해관계자와 문제 조율
   * 3단계: 다시 문제로 돌아오기
+  * [문제 해결을 위한 3단계 프레임워크 가이드 | GeekNews](https://news.hada.io/topic?id=15532)
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
@@ -2363,6 +2364,9 @@ Business
 * [시니어 리더가 해야 하는 일](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%A4%EB%B2%84%EB%93%A4%EC%9D%B4-activity-7194786293128523776-YWAa/)
 * [I’ll take it from here (여기서부터는 제가 할게요) – 조성문의 블로그](https://sungmooncho.com/2024/05/26/ill-take-it-from-here-%ec%97%ac%ea%b8%b0%ec%84%9c%eb%b6%80%ed%84%b0%eb%8a%94-%ec%a0%9c%ea%b0%80-%ed%95%a0%ea%b2%8c%ec%9a%94/)
 * [스타트업 팀이 지속적으로 움직이기 위한 리더십 간단 버전 | Novemberde's Blog](https://novemberde.github.io/post/2024/06/04/simple-leadership-principles/)
+* [Mastering Tech Leadership in 50 Minutes • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=H0EK0B1QvVA)
+  * [VidiGo Mastering Tech Leadership in 50 Minutes • Tim Berg](https://vidigo.ai/share/summary/7c492363ea41)
+  * [50분 안에 기술 리더십 마스터하기 - 팀 버글런드 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/849395)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
