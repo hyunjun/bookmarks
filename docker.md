@@ -996,6 +996,7 @@ Docker
   * variable 확장 기능 개선, `${variable#pattern}`, `${variable%pattern}`, `${variable/pattern/replacement}` 변수 받을 때 패턴으로 걸러내거나 치환 가능
   * `COPY`로 파일을 복사시 부모 디렉터리 구조를 유지할지 선택하거나 `.dockerignore` 파일을 쓰지 않고 `COPY`에서 특정 패턴 제외하고 복사 기능 추가
 * [Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
+* [Dockerfile](https://meghasharma.hashnode.dev/dockerfile)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
