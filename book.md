@@ -1344,6 +1344,12 @@ Book
   * [한글과 타자기. Tags: history Date: March 1, 2024… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%ED%95%9C%EA%B8%80%EA%B3%BC-%ED%83%80%EC%9E%90%EA%B8%B0-10a4f7253bdd)
   * [한글과 타자기 - Jun’s Substack](https://recur.substack.com/p/877)
   * [한글과 타자기](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B8%80%EA%B3%BC-%ED%83%80%EC%9E%90%EA%B8%B0)
+* 엘리트 교육의 최종 단계 그랜드 투어 [유럽 엘리트 교육의 최종단계 ‘여행’ :: 문화일보 munhwa](https://www.munhwa.com/news/view.html?no=2013030801032530024002)
+  * ★★★☆☆ 2024.04.08~10 저자가 가족도 보기 쉬운 책을 목표로 썼다고 했는데 그만큼 편하고 재미있게 읽을 수 있다. Grand Tour에 대해 대략은 알고 있었기 때문에 세부적인 내가 몰랐던 여러가지 이야기를 볼 수 있었고, 영국인만이 아니라 유명한 외국인들(e.g. 괴테, 표트르)도 이런 그랜드 투어의 영향으로 여행을 다녔던 건 처음 생각해보게 된 일, 즉 각각의 사실은 알고 있었으나 그 연결은 못했던 터라, 이라 좋았다. 베네치아의 순례자 투어만이 아니라 이 그랜드 투어도 현대의 여행, 패키지 관광까지도 영향을 줬을 거도 역시 흥미롭게 연결할만한 사실이었다.
+  * 탐라 문920.4-설94ㄱ
+  * [엘리트 교육의 최종 단계 그랜드 투어](https://github.com/hyunjun/bookmarks/blob/master/books/the_grand_tour.md)
+  * [엘리트 교육의 최종 단계 그랜드 투어. Tags: history Date: April 10, 2024… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EC%97%98%EB%A6%AC%ED%8A%B8-%EA%B5%90%EC%9C%A1%EC%9D%98-%EC%B5%9C%EC%A2%85-%EB%8B%A8%EA%B3%84-%EA%B7%B8%EB%9E%9C%EB%93%9C-%ED%88%AC%EC%96%B4-b12817955b26)
+  * [엘리트 교육의 최종 단계 그랜드 투어](https://jh4hj.tistory.com/entry/%EC%97%98%EB%A6%AC%ED%8A%B8-%EA%B5%90%EC%9C%A1%EC%9D%98-%EC%B5%9C%EC%A2%85-%EB%8B%A8%EA%B3%84-%EA%B7%B8%EB%9E%9C%EB%93%9C-%ED%88%AC%EC%96%B4)
 * [종교의 흑역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321364571)
   * ★★☆☆☆ 2024.04.17 도서관에서 우연히 눈에 띄어 빌렸는데, 흥미로운 주제이고 여러가지 이야기를 알려주긴 하지만 깊이가 있지는 않다. 재미로 읽어볼만 함
   * 한라 209-오36ㅈ 탐라 문209-오37ㅈ
