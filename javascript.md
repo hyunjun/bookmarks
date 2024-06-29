@@ -917,6 +917,8 @@ Javascript
 * [DOM의 변화를 감지하는 MutationObserver - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/900)
 * [AOP in TypeScript](https://d2.naver.com/helloworld/3010710) aspect-oriented programming
 * [Javascript Nullish Coalescing Operator (??) 자바스크립트 연산자 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/javascript-nullish-coalescing-operator-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90/)
+* [New JavaScript Set methods | MDN Blog](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
+  * [JavaScript 의 새로운 Set 메소드들 | GeekNews](https://news.hada.io/topic?id=15586)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -1614,6 +1616,8 @@ Javascript
 * [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
 * [All JavaScript and TypeScript Features of the last 3 years | by Linus Schlumberger | Mar, 2023 | Better Programming](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
   * [번역 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years)
+* [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
+  * [ECMAScript 2024 승인 : 새로운 기능은? | GeekNews](https://news.hada.io/topic?id=15579)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -6384,6 +6388,8 @@ Javascript
     * [VidiGo infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript.mp4](https://vidigo.ai//share/summary/eb68cff76376)
     * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/746367)
 * [Typescript로 Local Storage 안전하게 사용하기 | 뱅크샐러드](https://blog.banksalad.com/tech/typescript-local-storage/)
+* [Announcing TypeScript 5.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
+  * [TypeScript 5.5 릴리즈 | GeekNews](https://news.hada.io/topic?id=15593)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
