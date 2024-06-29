@@ -251,6 +251,7 @@ Azure
 # Library
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
 * [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
+* [azure-llm-fine-tuning: This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML](https://github.com/daekeun-ml/azure-llm-fine-tuning)
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
