@@ -3682,6 +3682,7 @@ NLP
 * [Keyword Extraction with TF-IDF and scikit-learn – Full Working Example](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf)
 * [시멘틱 웹 검색 엔진 만들기 python, mssql - YouTube](https://www.youtube.com/playlist?list=PL_fV1knZRgi49qS1OBEZsKngIoWbxwi3w)
   * [웹 페이지 수집하기](https://ehclub.net/649)
+* [Keyword_Extraction_Articles](https://github.com/AbdullahFarooq0/Keyword_Extraction_Articles)
 
 # Tokenization
 
