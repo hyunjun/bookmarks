@@ -2471,6 +2471,7 @@ App
   * [여기어때 피그마 플러그인 제작기. 글. 한혜진(Pixie) / UX Designer | by 여기어때 UX Center | Jun, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%94%BC%EA%B7%B8%EB%A7%88-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-6fa64941dd42)
   * [Meet Figma AI: Empowering Designers with Intelligent Tools | Figma Blog](https://www.figma.com/blog/introducing-figma-ai/)
     * [Figma AI - 지능형 도구로 디자이너 역량 강화 | GeekNews](https://news.hada.io/topic?id=15577)
+    * [전 세계 디자이너들 난리난 피그마 컨퍼런스 요약 | Config2024 - YouTube](https://www.youtube.com/watch?v=aduVMrS-v4o)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
