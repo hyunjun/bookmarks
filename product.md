@@ -191,6 +191,7 @@ Product
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
+* Dygma [인체공학의 정수, 디자인은 보너스 - 디그마 디파이 (Dygma Defy) 어고노믹 키보드 - YouTube](https://www.youtube.com/watch?v=pjUWSKP-4G8)
 * [펀키스 공식 홈페이지](https://funkeys.co.kr/)
 * [GEONWORKS](https://geon.works/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
