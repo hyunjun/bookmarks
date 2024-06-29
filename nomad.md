@@ -67,6 +67,7 @@ Nomad & Remote
 * [해외취업(이민) 도전기 2 - 어떻게 준비할 것인가?](https://prelude618.tistory.com/16)
 * [해외취업(이민) 도전기 3 - 어떻게 계약할 것인가?](https://prelude618.tistory.com/17)
 * [개발자 글로벌 커리어 컨퍼런스 해외 취업, 이렇게 하면 망합니다. - YouTube](https://www.youtube.com/watch?v=swvYC4kY0_Q)
+* [Hybrid working from home improves retention without damaging performance | Nature](https://www.nature.com/articles/s41586-024-07500-2)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
