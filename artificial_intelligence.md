@@ -330,6 +330,7 @@ Artificial Intelligence
   * [Gemma LoRA 파인튜닝 빠른실행](https://tykimos.github.io/2024/02/22/gemma_lora_fine_tuning_fast_execute/)
   * [Getting Started with Gemma Tokenizer including Multilingual Testing](https://tykimos.github.io/2024/02/27/getting_started_with_gemma_tokenizer_including_multilingual_testing/)
   * [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
+  * [Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 | GeekNews](https://news.hada.io/topic?id=15560)
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
@@ -493,6 +494,7 @@ Artificial Intelligence
 * [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
 * [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
 * [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
+* ["AI 여친에게 월 1000만원을 쓴다" AI 연인 비즈니스 한판 정리](https://maily.so/founderstory/posts/6531f0e2)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
