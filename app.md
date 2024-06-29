@@ -2469,6 +2469,8 @@ App
       * 이는 모바일 브라우저에서 WebAssembly를 지원하기 시작했고 Skew의 핵심 엔진을 이미 C++ 엔진으로 대체해서 성능 손실이 크지 않았기에 가능한 일
       * 마이그레이션은 Skew 코드에서 TypeScript 빌드를 한 뒤 직접 TypeScript 코드를 작성하도록 하면서 개발의 중단없이 마이그레이션 완료
   * [여기어때 피그마 플러그인 제작기. 글. 한혜진(Pixie) / UX Designer | by 여기어때 UX Center | Jun, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%94%BC%EA%B7%B8%EB%A7%88-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-6fa64941dd42)
+  * [Meet Figma AI: Empowering Designers with Intelligent Tools | Figma Blog](https://www.figma.com/blog/introducing-figma-ai/)
+    * [Figma AI - 지능형 도구로 디자이너 역량 강화 | GeekNews](https://news.hada.io/topic?id=15577)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
