@@ -2308,6 +2308,9 @@ Programming
 * [How Architecture & Culture Go Hand in Hand • Eoin Woods & Charles Humble • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=9_Inim5YHhI)
   * [VidiGo How Architecture & Culture Go Hand in Hand • Eoin](https://vidigo.ai/share/summary/4c519e1230e5)
   * [건축과 문화가 함께 어우러지는 방법 - 어인 우즈 & 찰스 험블 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/566885)
+  * [How Architecture & Culture Go Hand in Hand • Eoin Woods & Charles Humble - YouTube](https://www.youtube.com/watch?v=FbDD5S8eoSo)
+    * [VidiGo How Architecture & Culture Go Hand in Hand • Eoin](https://vidigo.ai/share/summary/550dfd0b5adb)
+    * [건축과 문화가 함께 어우러지는 방법 - 어인 우즈 & 찰스 험블 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/849529)
 * [서버 증설 없이 처리하는 대규모 트래픽](https://toss.tech/article/monitoring-traffic) Redis 과부하, 데이터베이스 과부하, API 중복 요청 및 Gateway 과부하, 모니터링 구축이 기본
 * [The Value Flywheel Effect: A Modern Cloud Strategy • David Anderson & Charles Humble • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=WVAUHT-Jy-U)
   * [VidiGo The Value Flywheel Effect: A Modern Cloud Strategy](https://vidigo.ai/share/summary/7c9514af8539)
@@ -3136,6 +3139,9 @@ Programming
 * [Best of 2023: 5 Microservices Design Patterns Every DevOps Team Should Know - DevOps.com](https://devops.com/5-microservices-design-patterns-every-devops-team-should-know/)
   * [마이크로서비스 설계 패턴 5가지 | GeekNews](https://news.hada.io/topic?id=13215)
 * [The Making of VES: the Cosmos Microservice for Netflix Video Encoding | by Netflix Technology Blog | Apr, 2024 | Netflix TechBlog](https://netflixtechblog.com/the-making-of-ves-the-cosmos-microservice-for-netflix-video-encoding-946b9b3cd300)
+* [Enabling Microservice Success • Sarah Wells & Sam Newman • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=0GpN_vEUGLk)
+  * [VidiGo Enabling Microservice Success • Sarah Wells & Sam](https://vidigo.ai/share/summary/f7efa9f7c1f9)
+  * [마이크로서비스 성공 지원 - 사라 웰스 & 샘 뉴먼 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/848709)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
