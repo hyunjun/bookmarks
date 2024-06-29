@@ -2012,6 +2012,7 @@ Python
 * [Allen Downey - Introduction to Digital Signal Processing - PyCon 2018](https://www.youtube.com/watch?v=SrJq2AzXZME)
   * [음향 이론과 실습 스케줄](https://docs.google.com/spreadsheets/d/1RtV2DoOIl-HgGMivFgArXAZhwt-nCm3qQyMl5rvX0E0/edit)
 * [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
+* [PyCon US 2024 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ)
 * [PyCon US 2023 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb)
 * [PyCon US 2022 Highlights - ehmatthes.com](https://ehmatthes.com/blog/pycon_2022_highlights/)
 * [PyCon US 2021 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
