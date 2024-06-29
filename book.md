@@ -1297,9 +1297,10 @@ Book
     * ★★★☆☆ 2023.04.13 십자군의 역사
     * 탐라 문920.3-만96ㅈ-2 우당 문920-한49ㅈ-2
   * [만화로 배우는 서양사 중세 3](https://hanbit.co.kr/store/books/look.php?p_code=B5871685999)
-    * ★★★☆☆ 2023.04.13 로마 가톨릭의 역사를 전반적으로 훑는 거라 중세라기보다는 그냥 가톨릭의 역사라고 하는 게 더 정확한 제목
+    * ★★★☆☆ 2023.04.13, 2024.06.17 로마 가톨릭의 역사를 전반적으로 훑는 거라 중세라기보다는 그냥 가톨릭의 역사라고 하는 게 더 정확한 제목
     * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
     * <img src="images/the_middle_ages.jpg" alt="종교재판은 이름만 바뀌었을 뿐 오늘날에도 원칙상 존재" width="300"/>
+    * [중세 III THE MIDDLE AGES III](https://github.com/hyunjun/bookmarks/blob/master/books/the_middle_ages_iii.md)
   * [만화로 배우는 서양사 - 중세](https://github.com/hyunjun/bookmarks/blob/master/books/the_middle_ages.md)
   * [만화로 배우는 서양사 — 중세. ★★★☆☆ April 13, 2023 | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%84%9C%EC%96%91%EC%82%AC-%EC%A4%91%EC%84%B8-de89a8d62dbe)
   * [만화로 배우는 서양사 - 중세 - Jun’s Substack](https://recur.substack.com/p/fb8)
