@@ -112,6 +112,7 @@ Sports
 * [타자가 '타구속도'에 집착할 수 밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=AmLpDty-n_o)
   * 타자 평균 타구 속도 89mph, 89mph까지는 홈런 0, 90mph부터는 모든 성적이 선형 비례하며 증가
   * 타구 속도와 타구 각도만으로도 타자 성적이 예측 가능
+* [ABS는 어디서, 어떤 구종을 돋보이게 할까? - 야구공작소](https://yagongso.com/?p=21244)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
