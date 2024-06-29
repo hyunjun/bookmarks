@@ -278,6 +278,7 @@ Artificial Intelligence
 
 # Library
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
+* [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Gateway · Cloudflare AI Gateway docs](https://developers.cloudflare.com/ai-gateway/)
   * [Announcing AI Gateway: making AI applications more observable, reliable, and scalable](https://blog.cloudflare.com/announcing-ai-gateway/)
@@ -312,6 +313,7 @@ Artificial Intelligence
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
+* [Fluid - private AI assistant for Mac](https://getfluid.app/)
 * [Gemini - Google DeepMind](https://deepmind.google/technologies/gemini/#introduction)
   * [Introducing Gemini: Google’s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
   * [구글, AI 모델 Gemini 공개 | GeekNews](https://news.hada.io/topic?id=12207)
@@ -331,6 +333,7 @@ Artificial Intelligence
   * [Getting Started with Gemma Tokenizer including Multilingual Testing](https://tykimos.github.io/2024/02/27/getting_started_with_gemma_tokenizer_including_multilingual_testing/)
   * [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
   * [Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 | GeekNews](https://news.hada.io/topic?id=15560)
+  * [✨구글 Gemma 2 분석: 최신 오픈소스 모델로 무료 챗봇 만들기 🤖🔓](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%EA%B5%AC%EA%B8%80-Gemma-2-%EB%B6%84%EC%84%9D-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%AC%B4%EB%A3%8C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%F0%9F%A4%96%F0%9F%94%93)
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
@@ -495,6 +498,10 @@ Artificial Intelligence
 * [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
 * [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
 * ["AI 여친에게 월 1000만원을 쓴다" AI 연인 비즈니스 한판 정리](https://maily.so/founderstory/posts/6531f0e2)
+* [Can AI Startups Outrun Dot-Com Bubble Comparisons? Investors Aren’t So Sure. - WSJ](https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0)
+  * [AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다. | GeekNews](https://news.hada.io/topic?id=15580)
+* [彼女にフラれる→「AI元カノ」を開発→AI研究者に！ 開発者が「“悲しきモンスター”を生み出してしまった」と絶望した理由とは？ - ライブドアニュース](https://news.livedoor.com/article/detail/26682018/)
+  * [Suk Namgoong - "20살 때, 실연의 충격으로 좋아하는 사람과의 LINE 대화 기록을 모두 학습시켜 그... | Facebook](https://www.facebook.com/suk.namgoong/posts/pfbid02VCUWRXSbJgmkTvF9vi8Pk7ct4VZDyBjKc6uZoXY7eYyLnmz4U45vr8dGusvYj8wVl)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
