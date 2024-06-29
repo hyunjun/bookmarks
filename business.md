@@ -914,6 +914,7 @@ Business
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
+* [온보딩 (on-boarding) 보다 더 중요한 오프보딩 (off-boarding)](https://www.linkedin.com/posts/elfpenguin_%EB%A7%88%EC%A7%80%EB%A7%89-%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%ED%87%B4%EC%82%AC%EC%9E%90-%EA%B4%80%EB%A6%AC-%EC%98%A8%EB%B3%B4%EB%94%A9-on-boarding-%EB%B3%B4%EB%8B%A4-activity-7205503726499893248-48h2/) 오프보딩 체크리스트
 * [잘 될 거 같았는데 안 된 스타트업 CEO들의 특징](https://eopla.net/magazines/62)
 * [임직원은 ‘경영 자원’이요, 채용은 ‘자원 내재화’입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hr20220621)
 * [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
