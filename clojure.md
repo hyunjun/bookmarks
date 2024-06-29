@@ -1509,6 +1509,7 @@ Clojure
 * [Why I decided to learn (and teach) Clojure - DEV Community](https://dev.to/marciofrayze/why-i-decided-to-learn-and-teach-clojure-567f)
 * [clj-easy/about](https://github.com/clj-easy/about)
 * [clojure-quick-intro/core.clj at master · hatemogi/clojure-quick-intro](https://github.com/hatemogi/clojure-quick-intro/blob/master/src/intro/core.clj)
+* [Learn Clojure - YouTube](https://www.youtube.com/playlist?list=PLKJ_YtZXuW_Azc3o9rm86n5D1bSavwpvE)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
