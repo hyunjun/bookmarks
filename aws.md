@@ -1415,6 +1415,7 @@ AWS
 * [개발자를 위한 Bastion Pod 설정 1: EKS 인증의 이해](https://wrtn.io/%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-bastion-pod-%ec%84%a4%ec%a0%95-1-eks-%ec%9d%b8%ec%a6%9d%ec%9d%98-%ec%9d%b4%ed%95%b4/)
 * [Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit | by KC | Jun, 2024 | Medium](https://blog.cloudacode.com/centralizing-aws-eks-cluster-logs-to-aws-opensearch-with-fluent-bit-a96f626fc88f)
 * [Karpenter Drift를 사용하여 Amazon EKS 워커 노드를 업그레이드하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-upgrade-amazon-eks-worker-nodes-with-karpenter-drift/)
+* [(AWS EKS에서) ENI와 IP TARTET에 대한 설명](https://www.linkedin.com/posts/jybaek_aws-eks%EC%97%90%EC%84%9C-eni%EC%99%80-ip-tartet%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-eks-activity-7212421118123466753-isVB/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -2241,6 +2242,7 @@ AWS
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
 * [GenAI 모델 배포를 위한 툰스퀘어의 Amazon SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amazon-sagemaker-for-genai-model-deployment/)
+* [Amazon SageMaker 기반 완전 관리형 MLflow 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/?sc_channel=sm&sc_campaign=Korean_blog&sc_publisher=FACEBOOK&sc_country=global&sc_geo=APAC&sc_outcome=awareness&trk=manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
