@@ -904,6 +904,10 @@ App
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
+* [Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
+  * [theia: Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript](https://github.com/eclipse-theia/theia)
+  * [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
+    * [오픈소스 'Eclipse Theia IDE' 베타를 종료하고 Visual Studio Co | GeekNews](https://news.hada.io/topic?id=15606)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
 * [typora](https://typora.io/)
