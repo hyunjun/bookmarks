@@ -220,6 +220,7 @@
   * [Kotlin 2.0을 통해 알아보는 코틀린의 미래 - Speaker Deck](https://speakerdeck.com/dalinaum/kotlin-2-dot-0eul-tonghae-alaboneun-koteulrinyi-mirae)
   * [Looking Forward to Kotlin 2.0 - YouTube](https://www.youtube.com/watch?v=2WMVyfTB6OY)
   * [Kotlin 2.0.0 주요 변경사항 | GeekNews](https://news.hada.io/topic?id=14958)
+* [Recap: Kotlin Language Features in 2.0 and Beyond (Michail Zarečenskij) - Speaker Deck](https://speakerdeck.com/dalinaum/recap-kotlin-language-features-in-2-dot-0-and-beyond-michail-zarecenskij)
 * [토스ㅣSLASH 23 - 새로운 은행을 위한 Modern 대외 연계 시스템 구축기 - YouTube](https://www.youtube.com/watch?v=eS9tukmYBLI)
 * [5 Pro Kotlin Dev Hacks For More Assertive Code | by Sam Cooper | Jun, 2023 | Medium](https://medium.com/@sam-cooper/5-pro-kotlin-dev-hacks-for-more-assertive-code-26cd2db4d7d7)
 * [Kotlin으로 Cli를 만든다고?](https://d2.naver.com/helloworld/2236952)
