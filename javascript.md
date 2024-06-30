@@ -1538,6 +1538,9 @@ Javascript
 * [문제의 근원을 해결 하기 위한 다양한 시도](https://toss.tech/article/Various-attempts-to-solve-the-problem)
 * [잘 쓰이는 디자인 시스템을 위한 여정 | 29CM TEAM](https://medium.com/29cm/%EC%9E%98-%EC%93%B0%EC%9D%B4%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-7c4fe03f32b7)
 * [디자인시스템을 개발에서 적용 하는법](https://d2.naver.com/helloworld/7030870)
+* [Config 2024: Design systems best practices - YouTube](https://www.youtube.com/watch?v=MJTCfSFLUGE)
+  * [VidiGo Config 2024: Design systems best practices.mp4](https://vidigo.ai/share/summary/1a7081a9682d)
+  * [구성 2024: 설계 시스템 모범 사례 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/856021)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
