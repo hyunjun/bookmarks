@@ -6834,6 +6834,8 @@ Programming
   * [Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ldX75svJx8M)
 * [qubit: Qubit : 대화형 3D 그래픽과 함께 알아가는 양자 컴퓨터의 기본적 원리](https://github.com/suhdonghwi/qubit)
   * [Qubit](https://qubit.donghwi.dev/)
+* [rivet: Rivet Transpiler provides a family of functions for efficient transpilation of quantum circuits](https://github.com/haiqu-ai/rivet)
+  * [Haiqu, 양자 컴퓨팅 워크플로우 혁신 위한 오픈 소스 툴킷 'Rivet' 공개 < Platforms < TECH < 기사본문 - 양자신문](https://www.quantumtimes.net/news/articleView.html?idxno=53980)
 * Twist [Meet Twist: MIT’s Quantum Programming Language - IEEE Spectrum](https://spectrum.ieee.org/quantum-programming-language-twist)
 
 # Reactive
