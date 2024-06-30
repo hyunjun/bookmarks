@@ -3764,6 +3764,12 @@ Programming Books
   * [프로덕트 매니저 원칙. 프로덕트 매니저 원칙 — 골든래빗 | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9B%90%EC%B9%99-81044973bc50)
   * [프로덕트 매니저 원칙 - Jun’s Substack](https://recur.substack.com/p/67f)
   * [프로덕트 매니저 원칙](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%9B%90%EC%B9%99)
+* [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까?](https://github.com/hyunjun/bookmarks/blob/master/programming_books/going_to_be_a_po.md)
+  * ★★★☆☆ 2024.06.29 기본적으로 essay이기 때문에 읽기 쉽게 넘어가고, 업계에서 이름이 알려진 분이라 개인적인 친분이 없어도 괜히 친근하게 느껴지기도 하고, (책에 써둔) 그런 심정들이 더 잘 이해가 간다. 정리를 잘 해놓은 부분들이 많아 junior들뿐만 아니라 이쪽 분야에 대해 잘 모르는 사람들이 시작할 때도 많은 도움을 받을 수 있는 좋은 책
+  * 제주 325.555-이39왜
+  * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까?. Tags: essay, product Date: June 29… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%8F%84%EA%B7%B8%EB%83%A5%EC%9D%80-%EC%99%9C-pm-po%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C-a7033075c0fd)
+  * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까? - Jun’s Substack](https://recur.substack.com/p/pmpo)
+  * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까?](https://jh4hj.tistory.com/entry/%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%8F%84%EA%B7%B8%EB%83%A5%EC%9D%80-%EC%99%9C-PMPO%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
   * 한라 005.1-맥17ㅍ
