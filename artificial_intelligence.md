@@ -221,6 +221,7 @@ Artificial Intelligence
   * [서버리스 빌딩 블록을 통한 AI 트레이닝 오케스트레이션의 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804569)
 * [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
 * [Writing Path: MBTI J처럼 체계적으로 글쓰는 AI](https://d2.naver.com/helloworld/8011540)
+* [**AI 시대를 준비하는 개발자를 위한 안내서(부제: AI 시대에는 개발자가 필요없다며?)** | PPT](https://www.slideshare.net/slideshow/ai-ai-2d08/270030962)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -503,7 +504,10 @@ Artificial Intelligence
   * [AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다. | GeekNews](https://news.hada.io/topic?id=15580)
 * [彼女にフラれる→「AI元カノ」を開発→AI研究者に！ 開発者が「“悲しきモンスター”を生み出してしまった」と絶望した理由とは？ - ライブドアニュース](https://news.livedoor.com/article/detail/26682018/)
   * [Suk Namgoong - "20살 때, 실연의 충격으로 좋아하는 사람과의 LINE 대화 기록을 모두 학습시켜 그... | Facebook](https://www.facebook.com/suk.namgoong/posts/pfbid02VCUWRXSbJgmkTvF9vi8Pk7ct4VZDyBjKc6uZoXY7eYyLnmz4U45vr8dGusvYj8wVl)
+* [AI-Native 회사 만들기 | GeekNews](https://news.hada.io/topic?id=15624)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
+* [State of the Cloud 2024 - Bessemer Venture Partners](https://www.bvp.com/atlas/state-of-the-cloud-2024)
+  * [2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/topic?id=15649)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -511,6 +515,7 @@ Artificial Intelligence
 * [dropofahat.zone](https://dropofahat.zone/)
 * [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
 * [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
+* [GN#260 지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/weekly/202427)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
