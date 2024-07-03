@@ -919,6 +919,7 @@ Javascript
 * [Javascript Nullish Coalescing Operator (??) 자바스크립트 연산자 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/javascript-nullish-coalescing-operator-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90/)
 * [New JavaScript Set methods | MDN Blog](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
   * [JavaScript 의 새로운 Set 메소드들 | GeekNews](https://news.hada.io/topic?id=15586)
+* [자바스크립트 문제 | console.log의 출력값을 맞히시오 - YouTube](https://www.youtube.com/watch?v=b_BLykZJx_g)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
