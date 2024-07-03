@@ -2596,6 +2596,7 @@ Python
 * [PyCon KR 2023 Django 국제화 지원하기 서명석 - YouTube](https://www.youtube.com/watch?v=bJRYFP5hA7Q)
 * [PyCon KR 2023 Django ORM에서는 어떻게 SQL Where절 조건 순서를 고정할 수 있을까 안성현 - YouTube](https://www.youtube.com/watch?v=1tI6ectLjy4)
 * [PyCon KR 2023 Relay on Django React와 공생하기 강정석 - YouTube](https://www.youtube.com/watch?v=vNr7ebslNsU)
+* [Django Service Layers: Beyond Fat Models vs. Enterprise Patterns](https://simoncrowe.hashnode.dev/django-service-layers-beyond-fat-models-vs-enterprise-patterns)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
