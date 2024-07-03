@@ -460,6 +460,8 @@ Clojure
 * [REPL-driving the browser by Josh Glover - YouTube](https://www.youtube.com/watch?v=WIuE1uMuX3g)
 * [Batching in Clojure is boring | LinkedIn](https://www.linkedin.com/pulse/batching-clojure-boring-evgheni-kondratenko-imdkf/)
 * [Managing components and systems without libraries (closeable pattern) in Clojure - YouTube](https://www.youtube.com/watch?v=a1TvDcDop2k)
+* [DB 현재는 모든 과거의 필연적인 산물이다 - Bitemporal 을 곁들인 타임머신](https://see-ro-e.tistory.com/368)
+* ["Clojure for Data Science in the Real World" by Kira McLean - YouTube](https://www.youtube.com/watch?v=MguatDl5u2Q)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
