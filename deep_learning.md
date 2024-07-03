@@ -2042,6 +2042,7 @@ Deep Learning
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 * [2D Visualization of a Convolutional Neural Network](http://www.cs.cmu.edu/~aharley/nn_vis/cnn/2d.html) 숫자를 입력하면 layer별로 그림으로 보여줌
 * [ConvNeXt: Code release for ConvNeXt model](https://github.com/facebookresearch/ConvNeXt)
+  * [이미지 분류 모델 개발, 아직도 데이터만 기다려? - tech.kakao.com](https://tech.kakao.com/posts/623)
 
 ## Neural Network LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -2203,6 +2204,7 @@ Deep Learning
 * [Transformer를 이용해 대량의 게임 데이터를 임베딩 해보자!](https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html)
 * [An Image is Worth 16x16 Words:Transformers for Image Recognition at Scale - YouTube](https://www.youtube.com/watch?v=MvZ2wzghbCg)
 * [Transformer 개념 정리 - Attention is all you need](https://webnautes.tistory.com/2217)
+* [트랜스포머 리버스 엔지니어링으로 In-context Learning 발생 이해하기 | by Alan Jo | Jun, 2024 | Medium](https://seongland.medium.com/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9C%BC%EB%A1%9C-in-context-learning-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-69b60610b986)
 * [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 * [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
