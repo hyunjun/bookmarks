@@ -30,6 +30,7 @@ Git
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
   * [Git Large File Storage v1.0](https://github.com/blog/2069-git-large-file-storage-v1-0)
+  * [Git Sparse Checkout과 LFS: 모노리포 관리의 최적 솔루션 - YouTube](https://www.youtube.com/watch?v=JxXPsMtfGiM)
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
@@ -1173,6 +1174,7 @@ Git
   * [**git merge 커밋 리버트(revert)**](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)
   * [머지 커밋 revert 하기](https://yeonyeon.tistory.com/311)
 * `scalar`
+  * [Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer](https://github.com/microsoft/scalar)
   * [The Story of Scalar | The GitHub Blog](https://github.blog/2022-10-13-the-story-of-scalar/)
     * 이번 Git v2.38.0에 포함된 `scalar` 명령어는 대규모 저장소의 성능 문제를 특별히 해결하기 위한 명령어
       * git clone 대신 scalar clone 사용
