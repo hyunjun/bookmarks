@@ -3706,6 +3706,8 @@ Programming
 * [Architecting for High Availability in the Cloud with Cellular Architecture - YouTube](https://www.youtube.com/watch?v=1RfCjEg4ygY)
   * [VidiGo Architecting for High Availability in the Cloud wi](https://vidigo.ai/share/summary/1bc32ff721f0)
   * [셀룰러 아키텍처로 클라우드에서 고가용성을 위한 아키텍처 구축하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/767718)
+* [애플이 오픈AI와 함께하는 것은 MS 때문입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/appleopenaims20240703)
+  * 의외로 많은 Azure DC와 의외로 적은 Google DC. Google은 cloud 사업에는 별 뜻이 없을까?
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -8431,6 +8433,8 @@ Programming
 * [Bootstrapping the Right Way • Yanir Seroussi • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=9SwvIqEQXP0)
   * [VidiGo Bootstrapping the Right Way • Yanir Seroussi • YOW](https://vidigo.ai/share/summary/5ac24004632f)
   * [올바른 방법의 부트스트랩 - 야니르 세루시 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/561610)
+* [Four pitfalls of hill climbing · Chris Said](https://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/)
+  * [Four pitfalls of hill climbing · Chris Said | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872011)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
