@@ -734,8 +734,9 @@ Business
 * [AI 통합, 앞서가는 회사는 무엇을 알고 있나](https://brunch.co.kr/@graypool/1127) 결국 business의 성공에 필요한 process는 분야에 무관하게 적용 가능하다
 * [5,000억 회사 창업자가 말하는 쉬운 비즈니스와 어려운 비즈니스 (feat. 86년생)](https://maily.so/unsexybusinesskr/posts/9c2c8920)
 * [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
-* [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
-* [SI 산업 가이드북⑦ 1000억 ‘대형 프로젝트’의 진행 방정식 | 요즘IT](https://yozm.wishket.com/magazine/detail/2637/)
+* [김수보 작가의 페이지 | 요즘IT](https://yozm.wishket.com/magazine/@subokim/)
+  * [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
+  * [SI 산업 가이드북⑦ 1000억 ‘대형 프로젝트’의 진행 방정식 | 요즘IT](https://yozm.wishket.com/magazine/detail/2637/)
 * [나의 첫 번째 성공적인 사업 TinyPilot을 매각 완료했어요 | GeekNews](https://news.hada.io/topic?id=15151)
 * [Do not try to be the smartest in the room; try to be the kindest. | Jorge Galindo's blog](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
   * [방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/topic?id=15390)
@@ -1199,6 +1200,7 @@ Business
   * [개발자가 "No"라고 말할 때 물어봐야 할 4가지 질문 | GeekNews](https://news.hada.io/topic?id=13333)
 * [(2) 여현준 - 팀워크라는 헛소리 1. 일반적으로 팀워크는 헛소리에 불과하다. 대부분의 회사는 팀워크가 작동할 수 있는... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid02tLfcDqrZHXdPsDNUKY7B7Yqv7Ve5wj5azooWW18XXeJPjQ2cuajgGTAuZxrjcEBsl)
   * [여현준 on LinkedIn: #비즈니스로어](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7211850727516741633-qAeE)
+* [김정훈 on LinkedIn: 협업 시 유독 손이 많이 가는 사람이 있다. 그들의 대표적인 특징 중 하나는 커뮤니케이션이 수동적이라는 점이다. 일반적인 사례는… | 12 comments](https://www.linkedin.com/posts/%EC%A0%95%ED%9B%88-%EA%B9%80-18b04251_%ED%98%91%EC%97%85-%EC%8B%9C-%EC%9C%A0%EB%8F%85-%EC%86%90%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EB%8B%A4-%EA%B7%B8%EB%93%A4%EC%9D%98-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-activity-7213025886713888768-kD26)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
