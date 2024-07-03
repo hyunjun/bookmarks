@@ -764,6 +764,7 @@ Data Science
   * [tdda-london-2024.pdf](https://stochasticsolutions.com/pdf/tdda-london-2024.pdf)
   * [VidiGo Nick Radcliffe - Test-Driven Data Analysis in Pyth](https://vidigo.ai/share/summary/9be6db3905fb)
   * [닉 래드클리프 - 파이썬의 테스트 중심 데이터 분석 | PyData London 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/820612)
+* [💻🤖 파이썬으로 쉽게 배우는 데이터 분석 - YouTube](https://www.youtube.com/playlist?list=PLl4eKzXXhlTJql9diFhXJydQip_lFXD-Q)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
