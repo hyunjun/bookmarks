@@ -696,6 +696,7 @@ Git
       * GitHub flow를 선택하고 배포 과정이 훨씬 나아졌다고 함
   * [메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/377)
   * [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
+  * [DORA | DevOps Capabilities: Trunk-based Development](https://dora.dev/capabilities/trunk-based-development/)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [GIT 형상 관리 + 작업 단위와 PR 코드리뷰 + 협업 잘 하는 개발자 - YouTube](https://www.youtube.com/watch?v=su-rtXzThjE)
     * [Git 형상 관리 + 작업 단위와 PR 코드 리뷰 + 협업을 잘하는 개발자 (feat. 제미니의 개발실무)](https://devfancy.github.io/Git-Version-Control/)
