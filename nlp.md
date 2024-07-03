@@ -2616,6 +2616,7 @@ NLP
   * [Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex - YouTube](https://www.youtube.com/watch?v=ihSiRrOUwmg)
   * [How to Build a RAG System With LlamaIndex, OpenAI, and MongoDB Vector Database | MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
   * [LlamaIndex Talk (AI Eng World Fair, 2024-06-26) - Google Slides](https://docs.google.com/presentation/d/1uDMj6iaMnJqcfSUVt5EnrPAzefSghzapSxQBcN2wR80/edit#slide=id.g2e72dddadfe_0_0)
+  * [Why I use Lamindex_공유 - Google Slides](https://docs.google.com/presentation/d/1hv0hnQ1tSl85H9dgPYyo2vQUEfU_9i3MuBtG-bSpSdY/edit)
 * [LLM4Decompile: Reverse Engineering: Decompiling Binary Code with Large Language Models](https://github.com/albertan017/LLM4Decompile)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
@@ -3998,6 +3999,9 @@ NLP
   * [Transcribing YouTube Videos using OpenAI’s Whisper📽️🗣️ | by Devang Tomar | May, 2023 | Dev Genius](https://blog.devgenius.io/transcribing-youtube-videos-using-openais-whisper-%EF%B8%8F-%EF%B8%8F-a29d264d6fb1)
   * [OpenAI 오디오 API 활용법 - YouTube](https://www.youtube.com/watch?v=4FrLq_8P7Js)
   * [Navigating the Challenges and Opportunities of Synthetic Voices](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
+  * [AWS CDK를 이용해서 OpenAI Whisper 모델 SageMaker Endpoint에 배포하기](https://www.linkedin.com/posts/sungminkim23_sagemakerendpoint-openaiwhisper-stt-activity-7206188249474625536-Rd0Q/)
+    * [aws-kr-startup-samples/machine-learning/sagemaker/whisper-model-hosting-on-sagemaker-endpoint at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/sagemaker/whisper-model-hosting-on-sagemaker-endpoint)
+    * [High-Performance & Cost-Effective Model Deployment Strategies with Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=_-hX-2MqiOg)
   * [asr\_whisper\_korea\_colab.ipynb - Colaboratory](https://colab.research.google.com/drive/1g8TYPv9sy4usQsHSB7tm8OiB6Q6gO0VE?usp=sharing)
     * [asr\_whisper\_korea\_colab.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/05bcd18509affd900308c63857f930db/asr_whisper_korea_colab.ipynb)
     * OpenAI에서 공개한 Transformer 기반 다국어 음성인식모델(ASR, STT) Whisper 모델을 colab에서 한국어 음성에 맞춰 쉽게 돌려볼 수 있는 코드
