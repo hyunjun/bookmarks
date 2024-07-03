@@ -1235,6 +1235,7 @@ Linux
 * [eBPF 재단 출범 | GeekNews](https://news.hada.io/topic?id=4816)
 * [eBPF: Unlocking the Kernel 공식 다큐멘터리, 30분 | GeekNews](https://news.hada.io/topic?id=11850)
 * [From Monitoring to Observability: eBPF Chaos - YouTube](https://www.youtube.com/watch?v=j81OlsF6-uo)
+* [전 세계 1% 리눅스 기여자가 말하는 eBPF "리눅스와 플랫폼 엔지니어링의 미래" - ITWorld Korea](https://www.itworld.co.kr/news/342710)
 * [bpftop: bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program](https://github.com/Netflix/bpftop)
   * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5/)
     * Netflix가 eBPF 프로그램의 성능 최적화와 모니터링을 쉽게 할 수 있게 하는 bpftop CLI를 오픈소스로 공개
