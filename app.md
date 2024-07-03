@@ -163,6 +163,8 @@ App
   * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
   * [스몰PDF 리뷰 : 기본에 충실한 온라인 PDF 편집 도구 - ITWorld Korea](https://www.itworld.co.kr/news/233729)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
+* [Pipes](https://www.pipes.digital/)
+  * [Pipes - Yahoo Pipes의 정신적 후계자 | GeekNews](https://news.hada.io/topic?id=15637)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [QR-Code-generator: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust](https://github.com/nayuki/QR-Code-generator)
@@ -483,6 +485,8 @@ App
 
 # Browser
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
+* [Ladybird](https://ladybird.org/)
+  * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
 
 ## Browser Arc
 * [Arc from The Browser Company](https://arc.net/)
@@ -567,6 +571,7 @@ App
 * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
 * [Graphmark](https://graphmark.framer.website/)
   * [Graphmark - 북마크한 웹페이지를 그래프로 보여주는 크롬 익스텐션 | GeekNews](https://news.hada.io/topic?id=15393)
+* [Moonlight: 논문 3배 빨리 이해하기 | GeekNews](https://news.hada.io/topic?id=15628)
 * [myAlgorithm: A self hosted recommendation feed generated from your browsing habits](https://github.com/jawerty/myAlgorithm)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * MuteTab [크롬 탭 별 음소거(mute) 처리](https://jybaek.tistory.com/953)
@@ -2119,6 +2124,7 @@ App
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
+* [Edna - 개발자와 파워 유저를 위한 노트 테이킹 앱 | GeekNews](https://news.hada.io/topic?id=15652)
 * [Flint](https://www.flint.so/)
   * [저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. | GeekNews](https://news.hada.io/topic?id=6362)
 * [fsnotes: Notes manager for macOS/iOS](https://github.com/glushchenko/fsnotes)
@@ -2635,6 +2641,7 @@ App
 * [PYRASIS.COM: CONTAINING_RECORD 매크로의 이해](https://pyrasis.com/blog/entry/PracticalContainingRecordMacro)
 * [Windows 10/11에서 Python 세팅 시](https://velog.io/@composite/Windows-1011%EC%97%90%EC%84%9C-Python-%EC%84%B8%ED%8C%85-%EC%8B%9C)
 * [폴리글랏 .bat - 파이썬, 자바스크립트, 루아 :: 류광의 번역 이야기](https://occamsrazr.net/tt/398)
+* [윈도우용 GUI앱을 작성하는 것은 괴롭습니다 | GeekNews](https://news.hada.io/topic?id=15626)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
