@@ -2370,6 +2370,9 @@ Business
 * [Mastering Tech Leadership in 50 Minutes • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=H0EK0B1QvVA)
   * [VidiGo Mastering Tech Leadership in 50 Minutes • Tim Berg](https://vidigo.ai/share/summary/7c492363ea41)
   * [50분 안에 기술 리더십 마스터하기 - 팀 버글런드 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/849395)
+* [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) - YouTube](https://www.youtube.com/watch?v=YYSw8UcM8gU)
+  * [VidiGo “자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표).mp4](https://vidigo.ai/share/summary/617abe00e5c1)
+  * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872050)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
