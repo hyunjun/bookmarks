@@ -6408,6 +6408,7 @@ Javascript
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
+* [Fedify](https://fedify.dev/) ActivityPub server framework
 * [flyde: ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js](https://github.com/flydelabs/flyde)
   * [Flyde - 개발자를 위한 비쥬얼 프로그래밍, 오픈소스 | GeekNews](https://news.hada.io/topic?id=13857)
 * [FnApi – FnApi](https://fnapi.dev/)
@@ -6421,6 +6422,7 @@ Javascript
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 * [jscpd: Copy/paste detector for programming source code](https://github.com/kucherenko/jscpd)
+* [Kiota documentation | Microsoft Learn](https://learn.microsoft.com/en-us/openapi/kiota/)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [Manifest - Effortless Backends](https://manifest.build/)
   * [Manifest - 간단하지만 풀 기능을 제공하는 백엔드(BaaS) 오픈소스 | GeekNews](https://news.hada.io/topic?id=15285)
