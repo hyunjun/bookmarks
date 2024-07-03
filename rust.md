@@ -572,6 +572,8 @@
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
   * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
+* [teo: Schema-driven web server framework](https://github.com/teodevgroup/teo)
+  * [Teo - Schema-driven 웹서버 프레임워크 | GeekNews](https://news.hada.io/topic?id=15638)
 * Yew [What is Yew? | Yew](https://yew.rs/)
   * [Build A Rust Frontend (Really FAST Web Apps with Yew) - YouTube](https://www.youtube.com/watch?v=MddGbXgIt2E) webassembly
   * [Write a Frontend app with Rust and Yew! - YouTube](https://www.youtube.com/watch?v=Xcdb0ydIXVg)
