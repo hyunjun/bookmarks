@@ -70,6 +70,9 @@ Finance
 * [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. - YouTube](https://www.youtube.com/watch?v=fEvGPFhAObE) CMA
   * [VidiGo 예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다..mp4](https://vidigo.ai/share/summary/459aad2de7ee)
   * [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825072)
+* [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. - YouTube](https://www.youtube.com/watch?v=dutPBZTnTg4&ab_channel=%EB%A8%B8%EB%8B%88%ED%95%98%EC%9D%B4) CMA, 발행 어음, MMF, 장기 채권, 단기 채권형 펀드
+  * [VidiGo 총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다](https://vidigo.ai/share/summary/ce0e0cc8c314)
+  * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/866587)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
