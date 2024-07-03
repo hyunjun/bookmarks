@@ -4482,6 +4482,10 @@ Programming Books
   * [Book 켄트 벡의 Tidy First? - 더 나은 소프트웨어 설계를 위한 32가지 코드 정리법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1721)
   * [우리회사는 Tidy First? - YouTube](https://www.youtube.com/watch?v=Zzylm4Xkfc8)
   * [Tidy First](https://velog.io/@joosing/Tidy-First)
+* [현직 LINE 개발자가 알려주는 읽기 쉽고 코드 리뷰하기 좋은 코드 작성 가이드](https://www.gilbut.co.kr/book/view?bookcode=BN004068)
+  * ★★★☆☆ July 1, 2024 좋은 책이지만 kotlin 위주로 작성되어서 다른 언어 사용자에겐 약간 유용성이 낮아질 수 있음
+  * 탐라 문005.133-이59ㅋ
+  * [LINE 클라이언트 개발자들이 만드는 '코드 리뷰 문화'](https://techblog.lycorp.co.jp/ko/code-review-culture-of-line-client-developers)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
