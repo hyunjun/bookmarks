@@ -2295,6 +2295,7 @@ App
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
   * [옵시디언 이야기 - 엘키의 주절 주절](https://elky84.github.io/2024/06/03/obsidian_story/)
+  * [Planning Your Day by Timeboxing in Obsidian - Obsidian Rocks](https://obsidian.rocks/planning-your-day-by-timeboxing-in-obsidian/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
