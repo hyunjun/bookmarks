@@ -152,6 +152,7 @@ Programming
   * 디자인 문서를 작성하는 것도 비용이니 해결책이 모호한지 여부에 따라 작성할지 말지를 결정 가능
     * 의사 결정의 설명 없이, 구현에 대한 설명만 있다면 문서를 작성하느니 프로그램을 작성하는 것이 나은 생각
   * 이 디자인 문서는 빠른 반복을 통해서 발전시킨 뒤 여러 리뷰를 거치고 구현하고 이후 유지 관리하며 시간이 지나 다시 학습에 사용하는 생명주기
+* [설계가 잘 쓰이려면 독자와 쓰임새가 분명해야 한다](https://brunch.co.kr/@graypool/1779)
 * [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
@@ -3119,6 +3120,7 @@ Programming
 * [MSA의 독립적인 배포는 그게 아니에요 : 네이버 블로그](https://blog.naver.com/wharup/223268819220)
 * [MSA 서비스간 장애 전파 및 개선 Part1 : 네이버 블로그](https://blog.naver.com/wharup/223415095428)
 * [MSA 서비스간 장애 전파 및 개선 Part2 : 네이버 블로그](https://blog.naver.com/wharup/223463090712)
+* [MSA의 개발팀은 그 개발팀이 아니에요 : 네이버 블로그](https://blog.naver.com/wharup/223496472519)
 * [Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix - YouTube](https://www.youtube.com/watch?v=TOM6UhCetQ0)
 * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법 | GeekNews](https://news.hada.io/topic?id=11498)
   * [권정혁 - Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://www.facebook.com/xguru/posts/pfbid0CfUJ9s6k53HyAed1TDxkfs4kvxTunbnWeQnRCrcxyC2MWrsbQdMJtB8B6vaVNCANl)
@@ -4017,6 +4019,7 @@ Programming
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
 * [GitHub Actions로 개선하는 코드 리뷰 문화](https://velog.io/@tosspayments/GitHub-Actions%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94)
+* [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기](https://d2.naver.com/helloworld/7321313)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -5322,6 +5325,8 @@ Programming
     * 카오스 엔지니어링 받아들이기
 * [How AI & DevOps Are About to Change the Way We Create Products • Marko Klemetti • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=5Vc71tEiVPw)
   * [AI와 데브옵스가 제품 제작 방식을 바꾸는 방법 - Marko Klemetti - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/590156)
+* [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+  * [DevOps에 대한 추도사 | GeekNews](https://news.hada.io/topic?id=15604)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
