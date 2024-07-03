@@ -543,6 +543,7 @@ AWS
 * [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 * [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
+* [가용 영역을 사용한 정적 안정성](https://aws.amazon.com/ko/builders-library/static-stability-using-availability-zones/) AZ
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2299,6 +2300,8 @@ AWS
 * [Amazon SQS FIFO 대기열에 대한 처리량 증가 및 DLQ(Dead Letter Queue) 리드라이브 지원 발표 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
 * [채널톡의 Amazon SQS를 이용한 효율적인 Spike 트래픽 처리 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-channel-talk-handles-high-volume-traffic-with-amazon-sqs/)
 * [Spring Cloud AWS Messaging 모듈 문제점 및 튜닝](https://px201226.github.io/Spring%20Cloud%20AWS%20Messaging%20Module%20Best%20Practice/)
+* [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
+  * [SmoothMQ - SQLite 기반의 Drop-in SQS 대체 솔루션 | GeekNews](https://news.hada.io/topic?id=15617)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
