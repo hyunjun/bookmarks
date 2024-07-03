@@ -28,6 +28,7 @@ Machine Learning
   * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
 * [Top 5 Machine Learning Trends For 2022 | by Suzzy Writes | Jul, 2022 | Heartbeat](https://heartbeat.comet.ml/top-5-machine-learning-trends-for-2022-e3facd83f18f)
 * [ML엔지니어가 데이터 엔지니어링으로 커리어를 시작하면 좋은 이유 - YouTube](https://www.youtube.com/watch?v=qfRjd5xeXn0) data engineering
+* [어떻게 머신러닝 엔지니어로 피봇할 수 있을까요? | GeekNews](https://news.hada.io/topic?id=15646)
 * Machine Learning is Fun!
   * [The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   * [Part 2 Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
