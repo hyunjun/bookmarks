@@ -6401,6 +6401,7 @@ Javascript
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
   * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
+* [DefinitelyTyped: The repository for high quality TypeScript type definitions.](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * [Deepkit Framework | Deepkit - High-Performance TypeScript Framework](https://deepkit.io/)
   * [Deepkit - 고성능 TypeScript 프레임워크 | GeekNews](https://news.hada.io/topic?id=6726)
 * [deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
