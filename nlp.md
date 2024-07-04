@@ -2921,6 +2921,7 @@ NLP
 * [Skelter Labs Blog - RAG vs. 파인튜닝 :: 기업용 맞춤 LLM을 위한 선택 가이드](https://www.skelterlabs.com/blog/rag-vs-finetuning)
 * [RAG(검색 증강 생성)란? - LLM 단점을 보완하는 기술 - 모두의연구소](https://modulabs.co.kr/blog/retrieval-augmented-generation/)
 * [LangChainKR 2024Q2 Native RAG to Advanced RAG 톺아보기 - Speaker Deck](https://speakerdeck.com/hyerimbaek/langchainkr-2024q2-native-rag-to-advanced-rag-topabogi)
+* [논문리뷰 Context-augmented Retrieval: A Novel Framework for FastInformation Retrieval based Response Generation using LargeLanguage Model(2024) :: AI for Everyone](https://aiforeveryone.tistory.com/53)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
