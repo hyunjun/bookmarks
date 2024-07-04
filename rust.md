@@ -378,6 +378,7 @@
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [shellfirm: Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification](https://github.com/kaplanelad/shellfirm)
 * Slint [Design to Deploy — Slint](https://slint.dev/)
+  * [Slint: 크로스플랫폼 경량 GUI 런타임 | GeekNews](https://news.hada.io/topic?id=15666)
 * [Slitter - a C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features](https://github.com/backtrace-labs/slitter)
   * [Slitter: a slab allocator that trusts, but verifies - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/)
 * [snakeos: bootable x86 snake game in rust](https://github.com/trusch/snakeos)
