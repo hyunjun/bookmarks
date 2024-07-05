@@ -508,6 +508,7 @@ Artificial Intelligence
 * [일본에서 생성형 AI를 활용한 TVCM 제작이 활발해지고 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aitvcm20240702)
 * [Meta 3D Gen - 텍스트로 3D 애셋을 생성 | GeekNews](https://news.hada.io/topic?id=15658)
 * ["오픈AI 소라보다 낫네"…영상 AI 스타트업 런웨이, 새 모델 '젠-3 알파' 출시 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=2672)
+* [AI의 $600B(830조원) 질문 | GeekNews](https://news.hada.io/topic?id=15680)
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [State of the Cloud 2024 - Bessemer Venture Partners](https://www.bvp.com/atlas/state-of-the-cloud-2024)
   * [2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/topic?id=15649)
