@@ -445,6 +445,7 @@ Data Science
   * [복잡한 대규모 데이터 세트의 분석에 대한 실무 조언. Patrick Riley의 Practical advice for… | by Jonas Kim | Medium](https://medium.com/@aldente0630/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%B8%ED%8A%B8%EC%9D%98-%EB%B6%84%EC%84%9D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%A4%EB%AC%B4-%EC%A1%B0%EC%96%B8-a920ae70cc56)
 * [Vin Vashishta on LinkedIn: #data #analytics #datascience #consulting | 698 comments](https://www.linkedin.com/posts/vineetvashishta_data-analytics-datascience-activity-6979069102908682240-HKow/) data에 대한 재미있는 사진
 * [공통 데이터 언어 구축 기반 ‘시맨틱 레이어’ < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11514)
+* [예측 모델 마크업 언어 ‘PMML’...기업 데이터 활용 최대화 < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11832)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
