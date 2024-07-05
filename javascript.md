@@ -6299,6 +6299,7 @@ Javascript
 * [TypeScript에서 generic과 index type의 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-20T00:00:00.000Z)
 * [What Are Generics in TypeScript?. TypeScript is missing part of… | by Mahesh Haldar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/what-are-generics-in-typescript-learn-this-for-better-typescripting-22bed7529f89)
 * [TypeScript | Generic 제네릭 (feat. TypeScript 두 달차 후기)](https://velog.io/@edie_ko/TypeScript-Generic-%EC%A0%9C%EB%84%A4%EB%A6%AD-feat.-TypeScript-%EB%91%90-%EB%8B%AC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
+* [TypeScript Generic 타입 이해하고 활용하기](https://mixedcode.com/blog/detail?pid=51)
 * [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 * [Implementing the Elo Rating System | by Matt Mazzola | Medium](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065)
 * [올해 버려야 할 타입스크립트 나쁜 버릇 10가지 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210217)
