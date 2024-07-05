@@ -2675,6 +2675,7 @@ AWS
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 * [AWS Control Tower 미리 보기 – 포괄적인 제어 관리 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-aws-control-tower-comprehensive-controls-management-preview/)
 * [단비교육의 AWS Control Tower 와 함께 시작하는 아키텍처 현대화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
+* [AWS Control Tower 개념정리](https://www.linkedin.com/posts/hodong-lee_aws-awscontroltower-activity-7214551669890506752-NlFk)
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [Terraform Tutorial For Complete Beginners | Ashok IT - YouTube](https://www.youtube.com/watch?v=4hnI7QvPimI)
