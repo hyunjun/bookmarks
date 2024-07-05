@@ -32,6 +32,9 @@ Business
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
 * [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
 * [습관이 되는 주니어의 25가지 실수 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232804)
+* [실수 후에 절대 이런 단어 쓰지 마세요 - YouTube](https://www.youtube.com/watch?v=SBiN--FzarA) 명확한 잘못 인지, 진정성 있는 조치, 과감한 행동
+  * [VidiGo 실수 후에 절대 이런 단어 쓰지 마세요.mp4](https://vidigo.ai/share/summary/c0c4525de88c)
+  * [실수 후에 절대 이런 단어 쓰지 마세요 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/878204)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [류랑도 칼럼 잘못된 성과주의 문화가 기업을 망친다... 성과주의 문화, 성과평가 그리고 성과급주의 - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119590)
