@@ -4022,6 +4022,9 @@ Programming
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
 * [GitHub Actions로 개선하는 코드 리뷰 문화](https://velog.io/@tosspayments/GitHub-Actions%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94)
 * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기](https://d2.naver.com/helloworld/7321313)
+  * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 - YouTube](https://www.youtube.com/watch?v=7cwFhX14nkg)
+  * [VidiGo 시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기.mp4](https://vidigo.ai/share/summary/a3546c6abe41)
+  * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/878195)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
