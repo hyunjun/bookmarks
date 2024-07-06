@@ -328,6 +328,8 @@ Artificial Intelligence
     * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
   * [모두의AI-MOAI Gemini Google Workspace Guide 한국어 번역 자료](https://mo-ai.notion.site/AI-MOAI-Gemini-Google-Workspace-Guide-99bd8d96c6ea40e6ac91d98ad24067d5)
   * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
+  * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
+    * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
@@ -612,6 +614,7 @@ Artificial Intelligence
 * [flasma: High-performance vector search engine with no loss of accuracy through GPU and dynamic placement](https://github.com/sionic-ai/flasma)
 * [generative-ai-for-beginners: 12 Lessons, Get Started Building with Generative AI 🔗](https://github.com/microsoft/generative-ai-for-beginners)
   * [Machine Learning for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
+  * [Generative AI for Beginners - Full Videos Series Released!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/generative-ai-for-beginners-full-videos-series-released/ba-p/4183271)
 * [imvectordb: Super simple in-memory vector DB for Node.js](https://github.com/golbin/imvectordb)
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
   * [Vector database - Milvus](https://milvus.io/)
@@ -665,6 +668,10 @@ Artificial Intelligence
   * [AI 뉴스 - 애니메이션 제작 ToonCrafter, 일레븐랩스 효과음 AI, 머스크 키보드배틀, 라마3-V, GPT-5 루머 등 - YouTube](https://www.youtube.com/watch?v=KLbTaePK82I)
 * [VIGGLE](https://viggle.ai/)
   * [AI로 사진이 춤을 하게 할 수 있습니다 | Viggle AI를 활용하여 이미지에 모션을 부여하는 방법 - YouTube](https://www.youtube.com/watch?v=lzbVtZwkU3w)
+* [Viva ai- Bring Every Moment To Life](https://vivago.ai/)
+  * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 - YouTube](https://www.youtube.com/watch?v=8ot_RtamM38)
+    * [VidiGo Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한](https://vidigo.ai/share/summary/1588ae9754a7)
+    * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883140)
 
 # Webtoon
 * [Lore Machine](https://www.loremachine.ai/)
