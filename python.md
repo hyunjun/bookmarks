@@ -743,6 +743,8 @@ Python
     * [Deep Dive into Coroutine - 김대희](https://www.youtube.com/watch?v=NmSeLspQoAA)
   * [백엔드 개발자들이 알아야할 동시성 6 — Coroutine. CPS를 이용한 협력적 스케줄링의 구현은 작업의 단위가 어떻게 나뉘는지… | by Choi Geonu | Sep, 2023 | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-6-coroutine-9eecdbeb2d2d)
   * [James Powell - Simple Simulators with pandas and Generator Coroutines | PyData NYC 2023 - YouTube](https://www.youtube.com/watch?v=pGGjS6CkDeE)
+  * [Coroutine 구조화된 동시성, 코루틴 스코프](https://yeonyeon.tistory.com/334)
+  * [Coroutine 코루틴 스코프 함수](https://yeonyeon.tistory.com/335)
 * csv
   * [Reading and Writing to CSVs in Python Playing with tabular data the native Python way](https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f)
   * [How to combine multiple CSV files with 8 lines of code](https://medium.freecodecamp.org/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854)
@@ -1052,6 +1054,7 @@ Python
   * [Python Lambda Expressions in Data Science | by Sohaib Ahmad | Code Python | Sep, 2020 | Medium](https://medium.com/code-python/python-lambda-expressions-in-data-science-a25625e3038d)
   * [Anjana Vakil - Mary had a little lambda](https://www.youtube.com/watch?v=7BsfMMYvGaU)
     * funcional programming in scala에서 하던 것과 비슷하게 lambda를 이용해 숫자를 정의하고 int로 변환하고 arithmetic operation등을 만듦
+  * [AI Convergence :: Python lambda 이해](https://mobicon.tistory.com/603)
 * json
   * [json to utf8 file](https://gist.github.com/hyunjun/dea65972f3f723c0ad77#file-json_to_utf8_file-py)
     * [Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence](http://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)
@@ -4678,6 +4681,7 @@ Python
   * [PyCon KR 2023 당신의 Dependency는 안녕하십니까 김두훈 - YouTube](https://www.youtube.com/watch?v=OBvnsAwXnd0)
   * [PyCon KR 2023 딥러닝 개발에서의 Poetry 도입기 테스팅 및 모델 패키징에서의 의존성 관리 정호진 - YouTube](https://www.youtube.com/watch?v=33bwpDsGzF4)
   * [poetry와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/97)
+  * [AI Convergence :: Python poetry의 pyproject.toml 과 requirements.txt 차이점](https://mobicon.tistory.com/604)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
@@ -5695,6 +5699,7 @@ Python
 * [시리즈 | 파이썬 입문자를 위한 기초 다지기! - hyunbeen0216.log](https://velog.io/@hyunbeen0216/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)
 * [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법. 자동화된 방식으로 빠르게 비즈니스 로직에 집중하기 | by weekwith.me | 당근마켓 팀블로그 | Feb, 2023 | Medium](https://medium.com/daangn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%99%EB%A3%8C%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-bb52c3a433fa)
 * [LLM 시대의 파이썬 - YouTube](https://www.youtube.com/playlist?list=PL0TnWnPQhDj2XHssyPQvDru4tZipvhmrj)
+* [Python - 스도쿠 문제 풀이 · Wireframe](https://soooprmx.com/python-%ec%8a%a4%eb%8f%84%ec%bf%a0-%eb%ac%b8%ec%a0%9c-%ed%92%80%ec%9d%b4/)
 * [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
 * [futurecoder: learn python from scratch](https://futurecoder.io/)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
