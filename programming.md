@@ -4251,6 +4251,17 @@ Programming
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [calltospeakers.com](https://calltospeakers.com)
+* [DASH 2024: Guide to Datadog's Newest Announcements | Datadog](https://www.datadoghq.com/blog/dash-2024-new-feature-roundup-keynote/)
+  * 뉴욕에서 지난 25~26일 열린 Datadog의 Dash 콘퍼런스에서 새로운 기능 발표
+    * LLM 애플리케이션을 모니터링할 수 있는 LLM Observability 공개
+    * Datadog Agent에 OpenTelemtry Collector 기능 추가
+    * 로그를 자연어로 쿼리하고 변환하고 시각화할 수 있는 Log Workspaces
+    * 프로덕션의 변숫값 등 컨텍스트를 로컬 IDE에 연결해서 작업할 수 있는 Live Debugger
+    * 제품 분석 도구인 Product Analytics
+    * 에이전트 없이 클라우드 인프라스트럭처의 취약점을 탐지할 수 있는 Agentless Scanning
+    * 컨테이너 리소스 사용량 기반으로 적절한 리소스 권장 사항을 적용할 수 있는 Kubernetes Autoscaling
+    * 인시던트를 자동으로 분석하는 Bits AI
+    * 온콜을 관리할 수 있는 Datadog On-Call
 * [DASH 2023 다녀왔습니다.. Datadog 에서 주최하는 컨퍼런스인 DASH 2023 후기를 전해… | by Jaemin Shin | Aug, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/dash-2023-%EB%8B%A4%EB%85%80%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-6123df0c99cd)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
@@ -4957,7 +4968,10 @@ Programming
 * [Application Security: Inside Out • Simon Corlett • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=_UdTcfac-nE)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24038)
   * [애플리케이션 보안: 인사이드 아웃 - 사이먼 코렛 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512257)
-* [카카오톡에서 원클릭 익스플로잇 | GeekNews](https://news.hada.io/topic?id=15528)
+* [1-click Exploit in South Korea's biggest mobile chat app | stulle123's Blog](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+  * [카카오톡에서 원클릭 익스플로잇 | GeekNews](https://news.hada.io/topic?id=15528)
+  * 카카오톡에서 사용자가 링크를 클릭했을 때 엑세스토큰을 탈취하고 계정에 접근해서 비밀번호도 바꿀 수 있는 취약점 발견
+  * 버그 바운티 프로그램에 보고했지만 버그 바운티 프로그램이 한국인을 대상으로만 진행한다며 보상을 받지 못한 일이 발생
 * [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
@@ -5298,6 +5312,16 @@ Programming
 * [2024년 DevOps 트렌드 전망 5가지 | GeekNews](https://news.hada.io/topic?id=13054)
   * container화 -> 가시성 부족, IaC -> 높은 기술 숙련도 요구, 옵저버빌리티 -> 구현에 고비용, 숙련인력 부족이 연결된 게 딱 지금 상황이 연상
 * [AI로 DevOps 팀 생산성을 높이는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/02/07/devops-ai/)
+* [GitLab 2024 Global DevSecOps Report | GitLab](https://about.gitlab.com/developer-survey/)
+  * GitLab에서 2024년 DevSecOps의 글로벌 현황을 분석한 보고서
+    * 가장 투자해야할 부분은 보안, 클라우드의 사용은 계속 증가
+    * 응답자의 78%가 AI를 사용하거나 사용할 계획이 있다고 얘기하고, 이는 작년에 비해 많이 증가한 수치
+    * AI를 툴체인 통합하고자 하는 욕망이 컸으며 AI를 코드생성에 가장 많이 사용
+    * 개발자 만족도를 높이기 위해서 자동화, 협업 개선을 가장 많이 선택
+    * 도구가 너무 많아서 통합을 원한다는 응답이 64%
+    * 개발자의 온보딩 속도는 더 오래 걸리고 있지만 AI로 이 부분에 긍정적인 영향
+    * 개발자가 보안 책임자보다 보안에 더 책임이 있다고 대답한 응답자가 전보다 증가
+    * 오픈소스의 공급망 보안은 잠재적인 취약점이며 SBOM으로 보안을 구현한 응답자는 21%
 * [DevOps Korea 좌담회 2024.2.13. | docmoa](https://docmoa.github.io/06-etc/class/devops-discussion-20240213.html)
 * [How Platform and Site Reliability Engineering Are Evolving DevOps - InfoQ](https://www.infoq.com/articles/platform-sre-evolving-devops/)
 * [Is a continuous planning process in DevOps worth it? | TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/Is-a-continuous-planning-process-in-DevOps-worth-it)
