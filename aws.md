@@ -215,6 +215,7 @@ AWS
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
 * [Amazon Connect 로 아웃바운드콜 전화하기 - Qiita](https://qiita.com/leechungkyu/items/2492bfef6c4b06c9e2ae)
+* [Amazon Connect 상담원 워크스페이스의 타사 애플리케이션 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-third-party-applications-in-the-agent-workspace/)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
@@ -1488,6 +1489,7 @@ AWS
 * [GoDaddy, 멀티 리전에서 대규모 이벤트 기반 아키텍처를 운영하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-godaddy-implemented-a-multi-region-event-driven-platform-at-scale/)
 * [T101-AWS-To-SLACK-Noti - EventBridge - 리눅서의 기술술 블로그](https://linuxer.name/2022/12/t101-aws-to-slack-noti-eventbridge/)
 * [Implementing the transactional outbox pattern with Amazon EventBridge Pipes | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/)
+* [CJ 올리브영의 서버리스 랭킹 시스템 구축기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/oliveyoung-serverless-ranking-system/)
 * [event-ruler](https://github.com/aws/event-ruler)
   * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
