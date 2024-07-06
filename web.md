@@ -1133,6 +1133,8 @@ Web
     * [Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법](https://velog.io/@eunbinn/htmx-the-newest-old-way-to-make-web-apps)
   * [htmx란 무엇이며 어떻게 웹사이트를 간소화할 수 있나요? - All Things N](https://new.atsit.in/23206/)
   * [Htmx 2.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15401)
+  * [HTMX does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+    * [HTMX는 CSP(Content Security Policy)와 잘 호환되지 않음 | GeekNews](https://news.hada.io/topic?id=15695)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 * [htmz: html with targeted manipulation zones](https://github.com/Kalabasa/htmz)
