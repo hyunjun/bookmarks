@@ -1814,6 +1814,7 @@ App
 * [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
   * [NASA와 삼성이 선택한 메신저 ‘Mattermost’ 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/19/mattermost-overview/)
+  * [‘Mattermost 공식 기술 문서 한글판 by 인포그랩’ 개발 후기(feat. GPT & RST) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/03/mattermost-memorize/)
 * slack
   * [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
   * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
@@ -1834,10 +1835,6 @@ App
   * [슬랙봇 디자인 101](https://toss.tech/article/22439)
   * [Slack Bot in Scala and 12 Ways to Run It | by Voytek Pituła | Aug, 2023 | Medium](https://medium.com/@w.pitula/slack-bot-in-scala-and-12-ways-to-run-it-8b5f2d9f3524)
   * [슬랙봇을 활용한 기술 블로그 배포 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/10/slack-bot/)
-  * [슬랙에 ChatGPT 납치하기 #1 - 슬랙 APP 생성](https://jybaek.tistory.com/988)
-  * [슬랙에 ChatGPT 납치하기 #2 - PC에서 서비스](https://jybaek.tistory.com/989)
-  * [슬랙에 ChatGPT 납치하기 #3 - 클라우드에서 서비스](https://jybaek.tistory.com/990)
-  * [슬랙에 ChatGPT 납치하기 #4 - 완전 서버리스로 운영!](https://jybaek.tistory.com/1005)
   * [Slack | Bolt for Python](https://slack.dev/bolt-python/concepts)
     * [pov: 슬랙 bolt로 에어플로우 DAG 실행시키기. 안녕하세요 원티드랩 데이터 팀에서 데이터 분석을 하고 있는… | by Jiyoon You | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/pov-%EC%8A%AC%EB%9E%99-bolt%EB%A1%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-dag-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-641ca6398234)
   * [가장 아름다운 배포 자동화, 근데 이제 Slack을 곁들인 | Univdev](https://univdev.page/posts/workflow-slack-notification/) 자동 알림
@@ -1851,6 +1848,12 @@ App
     * [사이드 프로젝트는 사이드가 아니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16158)
       * 슬랙에서 사용하는 텍스트 기반 이모지를 쉽게 만들게 하고 싶다는 생각에 사이드 프로젝트로 애니메이션 이모지를 쉽게 만드는 에브리모지 작성
       * Canvas API로 렌더링 후 이를 묶어서 Gif로 만드는 방식 이용
+  * [llm-with-slack: Connect LLM to Slackbot. Works via FastAPI](https://github.com/jybaek/llm-with-slack)
+    * [슬랙에 ChatGPT 납치하기 #1 - 슬랙 APP 생성](https://jybaek.tistory.com/988)
+    * [슬랙에 ChatGPT 납치하기 #2 - PC에서 서비스](https://jybaek.tistory.com/989)
+    * [슬랙에 ChatGPT 납치하기 #3 - 클라우드에서 서비스](https://jybaek.tistory.com/990)
+    * [슬랙에 ChatGPT 납치하기 #4 - 완전 서버리스로 운영!](https://jybaek.tistory.com/1005)
+    * [슬랙에 ChatGPT 납치하기 #5 - 사용 방법_최종_진짜최종](https://jybaek.tistory.com/504715)
   * scrum poker app
     * [Helperbot](https://helperbot.alley.com/)
     * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
