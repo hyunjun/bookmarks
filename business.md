@@ -3768,7 +3768,9 @@ Business
 * [뱅크샐러드의 새로운 집(Home) 짓기 - 2편 | 완공편 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-2/)
 * [뱅크샐러드의 새로운 집(Home) 짓기 - 3편 | 증축편 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-3/)
 * [(youtube)29CM 행성에 떨어진 UX 리서처. 이번 발표에서는 UX 리서처가 하는일과 UX 리서치가 왜 필요한지… | by 29CM | 29CM TEAM | Jun, 2024 | Medium](https://medium.com/29cm/youtube-29cm-%ED%96%89%EC%84%B1%EC%97%90-%EB%96%A8%EC%96%B4%EC%A7%84-ux-%EB%A6%AC%EC%84%9C%EC%B2%98-7aff7e82c03e)
+* [UX리서치 조직에서 리옵매란?](https://toss.tech/article/what-is-research-ops)
 * [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
+* [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
