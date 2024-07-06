@@ -1256,6 +1256,8 @@ Linux
 * [Skyfall: eBPF agent for infrastructure observability | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
   * [Skyfall, LinkedIn의 eBPF Agent | GeekNews](https://news.hada.io/topic?id=7591)
 * [tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
+* [Xcapture-BPF – Linux를 위한 Xray 도구 | GeekNews](https://news.hada.io/topic?id=15682)
+  * [X-Ray vision for Linux systems | 0x.tools](https://0x.tools/)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
