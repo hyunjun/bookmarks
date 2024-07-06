@@ -452,6 +452,8 @@ Web
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [front-end-handbook-2024: A guide to modern front-end web development / engineering](https://github.com/FrontendMasters/front-end-handbook-2024)
   * [The (Frontend||UI||UX) Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
+* [Hypermedia Systems](https://hypermedia.systems/)
+  * 웹의 기본을 이루는 하이퍼미디어와 REST 개념과 htmx, hyperview로 웹 애플리케이션 만드는 방법, SPA 프레임워크 없이 웹 애플리케이션 향상하는 방법 설명
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [Web Browser Engineering](https://browser.engineering/index.html)
   * 웹 브라우저를 Python으로 구현하는 온라인 튜토리얼
