@@ -61,6 +61,7 @@ Hardware
 * [SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템 | GeekNews](https://news.hada.io/topic?id=5818)
 * [DIAL](http://www.dial-multiscreen.org/)
   * [DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜 | GeekNews](https://news.hada.io/topic?id=6009)
+* [나만의 리눅스 기반 스마트TV 만들기 | GeekNews](https://news.hada.io/topic?id=15700)
 * [우리는 클라우드 개발에 진심입니다! - SmartNIC 편](https://tech.kakaoenterprise.com/137)
   * 네트워크 트래픽이 점점 증가하면서 이를 해결하기 위한 하드웨어로 SmartNIC(Smart Network INterface Card) 등장
   * SmartNIC를 사용하면 네트워크 처리를 하면서 일부 작업을 CPU가 수행해야 하지만 이를 SmartNIC의 하드웨어에서 처리 가능해 CPU 제대로 활용 가능
