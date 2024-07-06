@@ -1541,6 +1541,7 @@ Docker
 * [Kubernetes Operators: what are they? Some examples | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/15/kubernetes-operators-what-are-they-some-examples/)
 * [쿠버네티스 오퍼레이터 적용하기](https://dev.gmarket.com/65)
 * [쿠버네티스 오퍼레이터를 Golang으로 개발해보기](https://ebay-korea.tistory.com/102)
+* [쿠버네티스 오퍼레이터를 Java로 개발해보기](https://ebay-korea.tistory.com/112)
 * [Distroless Container Debugging on K8s/OpenShift | by Zhimin Wen | ITNEXT](https://itnext.io/distroless-container-debugging-on-k8s-openshift-e418fd66fdad)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [네트워크 엔지니어에게 쿠버네티스는 어떤 의미일까요](https://www.slideshare.net/JoHoon1/ss-250737544)
@@ -2208,6 +2209,7 @@ Docker
     * 2. Distruption Budgets 지정
       * 현재 떠있는 노드들 중 특정 비율 혹은 특정 대수를 지정해 Karpenter로 인해 죽지 않도록 지정 및 Scheduling 가능
   * [Karpenter 0.3x. 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/karpenter-0-3x-36a0cb57b205)
+  * [Karpenter 파일럿](https://saramin.github.io/2024-06-26-karpenter/)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
