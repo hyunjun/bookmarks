@@ -1331,6 +1331,7 @@ Programming
 * [AKC2021 키노트 : 함께하기, 애자일 - 박태웅 - YouTube](https://www.youtube.com/watch?v=LxDY9Sg0pck)
 * [Scrum The Art of Doing Twice the Work in Half the Time](https://www.scruminc.com/new-scrum-the-book/)
   * [Agility is Inefficient • Klaus Bucka-Lassen & Dirk Bucka-Lassen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BvydomrrdyQ)
+* [경력 입사자의 스크럼 스프린트 적응기 (with Jira software)](https://ebay-korea.tistory.com/108)
 * [Once Upon a Time in Agile • John Le Drew • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=QIzWwcN-1c8)
 * [How to Get Rid of Your Fears • Erwin de Gier • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X5kkuMbiHoU)
 * [Be Agile, Be DevOps, be well • Tomasz Manugiewicz • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=xzYrzphZEIg)
@@ -1368,6 +1369,7 @@ Programming
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
 * [Congruent Agile](https://congruentagile.com/)
+* [RetroTool | Your online retrospective made easy](https://retrotool.io/)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -2322,6 +2324,8 @@ Programming
 * [Architecture Modernization: Aligning software, strategy, and structure • Nick Tune • CodeCrafts 2024 - YouTube](https://www.youtube.com/watch?v=mzfsBHyuTuU) Wardley map
   * [VidiGo Architecture Modernization: Aligning software, str](https://vidigo.ai/share/summary/a4ce639c79b1)
   * [아키텍처 현대화: 소프트웨어, 전략 및 구조 조정 - Nick Tune - CodeCrafts 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804472)
+* [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -1편](https://ebay-korea.tistory.com/110)
+* [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -2편](https://ebay-korea.tistory.com/111)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -4954,6 +4958,7 @@ Programming
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/24038)
   * [애플리케이션 보안: 인사이드 아웃 - 사이먼 코렛 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512257)
 * [카카오톡에서 원클릭 익스플로잇 | GeekNews](https://news.hada.io/topic?id=15528)
+* [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -6696,6 +6701,7 @@ Programming
   * [기술 뉴스 #246 : 24-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1722)
   * [기술 뉴스 #247 : 24-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1723)
   * [기술 뉴스 #248 : 24-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1725)
+  * [기술 뉴스 #249 : 24-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1726)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -7537,6 +7543,7 @@ Programming
   * 설문조사는 어렵기 때문에 개발자들과 능동적인 커뮤니케이션을 하도록 유도하고 내부 플랫폼으로 포장된 길을 제공하려고 노력하고 있다고 함
 * [The LinkedIn DPH Framework](https://linkedin.github.io/dph-framework/) Developer Productivity and Happiness Framework
   * [LinkedIn Shares Its Developer Productivity Framework - The New Stack](https://thenewstack.io/linkedin-shares-its-developer-productivity-framework/)
+* [개발자 생산성 지표 효과적으로 활용하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/03/devproductivity/)
 * [생산성 수치심 (Productivity Shame) 에서 벗어나는 방법](https://eopla.net/magazines/10754#) tech 이야기는 아님
 * [Principles of Effective Developers by Sebastian Daschner - YouTube](https://www.youtube.com/watch?v=7GKZhqiAxaI) productivity
 * [Cannot Measure Productivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
