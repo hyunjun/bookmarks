@@ -50,6 +50,8 @@ Erlang
 * [LFE, Lisp Flavoured Erlang, is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code. An LFE evaluator and shell is also included](https://github.com/rvirding/lfe)
 * [Luerl - an implementation of Lua in Erlang](https://github.com/rvirding/luerl)
 * [maestro: a pool of pools for when single pool managers become a bottleneck](https://github.com/g-andrade/maestro)
+* [recon: Collection of functions and scripts to debug Erlang in production](https://github.com/ferd/recon)
+  * [Elixir Streams |> ⚡️ Tracing with Recon](https://www.elixirstreams.com/tips/tracing-with-recon)
 
 # Tutorial
 * [얼랭 학습기 (20190303~20190309)](https://blog.rajephon.dev/2019/03/09/erlang-learned-20190303-20190309/)
