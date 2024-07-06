@@ -487,6 +487,8 @@ App
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [Ladybird](https://ladybird.org/)
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
+* [Luakit Web Browser](https://luakit.github.io/)
+  * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
 
 ## Browser Arc
 * [Arc from The Browser Company](https://arc.net/)
