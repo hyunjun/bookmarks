@@ -278,6 +278,7 @@ Vision
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
   * [논문 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기 | GeekNews](https://news.hada.io/topic?id=7066)
 * [3D Computer Vision | National University of Singapore - YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+* [이미지 기반 스팸 대응을 위한 카카오의 AI 기술 활용 / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/625)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
@@ -341,6 +342,7 @@ Vision
 * [서비스에서 야경 좋은 식당 찾기 — Vision, Semi-supervised learning, Hierarchical classification | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%BC%EA%B2%BD-%EC%A2%8B%EC%9D%80-%EC%8B%9D%EB%8B%B9-%EC%B0%BE%EA%B8%B0-vision-semi-supervised-learning-hierarchical-classification-126b19572d8b)
 * [Face Recognition](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23)
 * [데이터야놀자2021 Transfer Learning으로 효율적인 이미지 분류모델 만들기 - 박경호/정현희님 - YouTube](https://www.youtube.com/watch?v=EVCKPRmlQGA)
+* [이미지 분류 모델 개발, 아직도 데이터만 기다려? - tech.kakao.com](https://tech.kakao.com/posts/623)
 * [A new, unique AI dataset for animating amateur drawings](https://ai.facebook.com/blog/ai-dataset-animating-kids-drawings/)
 * [Ariadna Kramkovska - Background removal without background knowledge - YouTube](https://www.youtube.com/watch?v=YpxZKE2aHHo)
 * [donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
