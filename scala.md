@@ -838,6 +838,7 @@ Scala
   * [The Trouble with Checked Exceptions: Part 2 - Alexandru Nedelcu](https://alexn.org/blog/2022/09/28/the-trouble-with-checked-exceptions-part-2/)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
+  * [ExecutionContext.parasitic and Friends · Terse Systems](https://tersesystems.com/blog/2024/06/20/executioncontext.parasitic-and-friends/)
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
@@ -1123,6 +1124,7 @@ Scala
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * [Home | Ziverge](https://ziverge.com/blog/)
+    * [Heroes of Ziverge: Jorge Vásquez (Senior Software Engineer at Ziverge) - YouTube](https://www.youtube.com/watch?v=lgaQjO2rDTk)
     * [A Preview of Logging in ZIO 2.0](https://ziverge.com/blog/a-preview-of-logging-in-zio-2/)
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
     * [Introducing Scopes in ZIO 2.0 | Medium](https://murraytodd.medium.com/zio-20-scopes-b583f487c0af)
@@ -1438,6 +1440,7 @@ Scala
   * [Raphael Lemaitre ARMORED TYPE SAFETY WITH IRON Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=ZVQ72Zh4wjg)
   * [Mehmet Akif Tütüncü DO I MISS WRITING SCALA? Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=FF0d1HoX04U)
   * [Paweł Kołodziejczyk LOOKING BEYOND THE SCOPE: SCALA APPLICATION FROM AN EXTERNAL LENS Scalar 2024 - YouTube](https://www.youtube.com/watch?v=CVdWGwMYHkg)
+  * [Iulian Dragos Faster and less mysterious sbt builds with Develocity Lightning talk Scalar 2024 - YouTube](https://www.youtube.com/watch?v=bhm0KW1Nh8I)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1792,6 +1795,7 @@ Scala
   * [SF Scala: A Metals Retrospective By Chris Kipp - YouTube](https://www.youtube.com/watch?v=DRKx1a19c80)
   * [What I learned from using #Scala #Metals for 2 years! - YouTube](https://www.youtube.com/watch?v=EGATBuojGA4)
   * [#Scala #Metals with Multiple Roots in a Workspace - YouTube](https://www.youtube.com/watch?v=alNInbRuQ_Y)
+  * [Contribute to Metals like Kasper Kondzielski - Scala with Friends - YouTube](https://www.youtube.com/watch?v=6usSN4QToiM)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [modux: Lightweight microservice server for Scala](https://github.com/modux4s/modux)
 * [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
@@ -2606,6 +2610,7 @@ Scala
 * [Capture Checking in Scala 3.4](https://www.scalamatters.io/post/capture-checking-in-scala-3-4)
 * [ten things I like about Scala 3 · eed3si9n](https://eed3si9n.com/10things/)
 * [Discover SiriusXM new streaming platform with Luka Jacobowitz and Damian Mazurkiewicz - YouTube](https://www.youtube.com/watch?v=28-vW-EQN2k)
+* [Eric Torreborre on X: "#YAML as valid #scala3 code (via @chrislpenner) https://t.co/IwUfXw8pZ7" / X](https://x.com/etorreborre/status/1806312135053468079)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
