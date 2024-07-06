@@ -2787,7 +2787,6 @@ Business
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
 * [대표의 결정에는 검증하려는 가설이 있어야 한다. - YouTube](https://www.youtube.com/watch?v=5KN5B5mfI84)
 * [메이커 스프린트 #1 60개의 가설, 하루만에 검증했습니다. | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-1-60%EA%B0%9C%EC%9D%98-%EA%B0%80%EC%84%A4-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-%EA%B2%80%EC%A6%9D%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
-* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
 * [SaaS 성공의 핵심은 신규 고객 유치가 아니다](https://www.linkedin.com/posts/jhyunpark_saas-churnabrrate-stwtnsrcg-activity-6969945898332151808-L6wD/) 기존 유저의 이탈률(Churn rate)
 * [**SaaS 비즈니스의 15개의 metrics**](https://maily.so/saascenter/posts/01722a3f)
 * [SaaS 고객도 모르는 고객의 모든 것을 알아내기](https://blog.gangnamunni.com/post/find-what-customers-really-want/)
@@ -2798,6 +2797,7 @@ Business
   * Alex는 7%의 명상하는 사람이 아닌 명상하지 않는 93%의 사람에게 집중했는데 과거에 Million Dollar Homepage로 픽셀을 팔고 Sock and Awe 게임으로 성공했던 경험을 바탕으로 Do Noting FOr 2 Minutes 웹사이트 작성
   * 이 웹사이트는 2분 동안 아무것도 안 해야 성공하는 사이트인데 하루 이틀 만에 만들어서 트위터에 실제 사람이 한 것처럼 트윗을 올리고 Hacker News에 홍보에서 주류 언론의 주목을 받으면서 성공
 * [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
+* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
 * [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
 * [토스 리더가 말하는 유저를 끌어당기는 서비스 개선 | PO SESSION - YouTube](https://www.youtube.com/watch?v=D9x7Tln2DI4)
 * [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
