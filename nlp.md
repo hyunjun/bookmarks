@@ -378,6 +378,7 @@ NLP
   * [5. 프롬프트 엔지니어링 실습](https://www.youtube.com/watch?v=x6NEhMjKN9E)
 * [A Beginner’s Guide to Vector Embeddings](https://www.timescale.com/blog/a-beginners-guide-to-vector-embeddings/)
   * [초보자를 위한 Vector Embeddings 가이드 | GeekNews](https://news.hada.io/topic?id=15094)
+* [카카오의 스팸 메일 대응 전략: 문자열 변형 CASE STUDY / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/624) spam
 
 # 띄어쓰기
 
@@ -2101,6 +2102,7 @@ NLP
 * [Introducing Lamini Memory Tuning: 95% LLM Accuracy, 10x Fewer Hallucinations | Lamini - Enterprise LLM Platform](https://www.lamini.ai/blog/lamini-memory-tuning)
   * [LLM 할루시네이션을 10배 감소 시키는 메모리 튜닝](https://www.linkedin.com/feed/update/urn:li:activity:7207552674488094720/)
 * [Meta LLM 컴파일러 발표 | GeekNews](https://news.hada.io/topic?id=15601)
+* [스팸 콘텐츠 대응을 위한 카카오의 대규모 언어 모델(LLM) 도입 사례 / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/626)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2312,6 +2314,7 @@ NLP
   * [Launch an LLM App in One Hour (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=twHxmU9OxDU)
     * [the-full-stack/ask-fsdl: Document Q&A over The Full Stack's Corpus](https://github.com/the-full-stack/ask-fsdl)
   * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
+  * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
   * [Gor Hayrapetyan & Karen Javadyan - Langchain: A Framework for Building Large Language Model Apps - YouTube](https://www.youtube.com/watch?v=YNixBsPt7Ds)
     * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23041)
     * [고르 헤이라페티안 & 카렌 자바디얀 - Langchain: 대규모 언어 모델 앱 구축을 위한 프레임워크 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/493325?sId=YNixBsPt7Ds)
@@ -2412,6 +2415,7 @@ NLP
         * 변화에 적응하고, 인터페이스, 모니터링, 스케일링, 로깅 등 추가 작업 필요
         * 초기 고립된 요소를 재사용하거나, 새로운 기능 빠르게 구현하는 *LLM*의 유연함 강조
   * [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
+  * [AI Convergence :: LangChain is like Spring Framework for LLM](https://mobicon.tistory.com/602)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
