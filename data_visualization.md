@@ -163,6 +163,9 @@ Data Visualization
   * [제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인 | 요즘IT](https://yozm.wishket.com/magazine/detail/1311/)
   * [How to Use Chart.js to Add Charts and Graphs to Any React Project](https://morioh.com/p/ee8164c0a7a7)
 * [Fantasy-Map-Generator: Web application generating interactive and highly customizable maps](https://github.com/Azgaar/Fantasy-Map-Generator)
+* [Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizations, interactive charts, diagrams, and graphic editors in web applications.](https://github.com/meursyphus/flitter)
+  * [Flitter - Data Visualization Framework](https://flitter.pages.dev/)
+  * [Flitter - Flutter와 비슷한 문법의 웹용 데이터 시각화 라이브러리 | GeekNews](https://news.hada.io/topic?id=15693)
 * [GoJS](https://gojs.net)
 * [Greylock Data Visualization Library](https://greylock.js.org/)
 * [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
@@ -242,6 +245,7 @@ Data Visualization
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
+* [McKinsey Chart of the Day | McKinsey & Company](https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/chart-of-the-day) data에 맞는 chart의 예시를 보고 싶을 때
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
 * [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
   * [뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper' | 요즘IT](https://yozm.wishket.com/magazine/detail/2011/)
