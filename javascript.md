@@ -329,6 +329,7 @@ Javascript
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
   * [2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
 * [State of JavaScript 2018](https://2018.stateofjs.com/)
+* [State of JavaScript 2023](https://2023.stateofjs.com/)
 * [The State of JS 2022](https://2022.stateofjs.com/en-US/)
   * 매년 발표되는 JavaScript 생태계의 설문조사로 올해는 3만 9천여 명이 응답자로 참여
   * JavaScript 언어의 새 기능이나 브라우저 API의 인지도 등을 볼 수 있음
@@ -754,6 +755,16 @@ Javascript
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 * [웹에서 프리 드로잉 밑바닥부터 구현하기. 자연스러운 프리 드로잉 알고리즘을 완성해 가는 과정 | by Minseo Kang | Mar, 2024 | Team QANDA](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1) canvas
 * [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
+* [Welcome | Feature-Sliced Design](https://feature-sliced.design/) FSD
+  * [Feature-Sliced Design: The Best Frontend Architecture - DEV Community](https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj)
+    * [(번역) 기능 분할 설계 - 최고의 프런트엔드 아키텍처 | emewjin.log](https://emewjin.github.io/feature-sliced-design/)
+      * 프론트엔드 개발에서 사용할 수 있는 기능 분할 설계(Feature-Sliced Design, FSD) 아키텍처 설명
+      * FSD는 Layers, Slices, Segments로 구분
+        * Layers는 app, processes, pages, widgets, features, entities, shared로 구분되어 있고 계층화되어 있어서 상위 계층만 하위 계층 사용 가능
+        * 각 레이어에는 Slices라는 하위 디렉터리를 만들어서 비즈니스 영역에 따라 구분
+        * 각 Slices는 코드를 나눌 수 있는 Segments로 구분
+      * 이를 고전적인 아키텍처와 비교하고 Next.js에서 FSD를 사용하는 방법 설명
+      * 개발할 때 항상 아키텍처를 고민되지만, 이러한 기준을 두고 작업하면 장단점을 알게 되어서 좋다고 생각
 * [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
 * [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 * [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
@@ -3413,6 +3424,8 @@ Javascript
 * [dotenvx: a better dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
   * [From dotenv to dotenvx: Next Generation Config Management | dotenvx](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
     * [dotenv 에서 dotenvx 로 - 차세대 Config 관리자 | GeekNews](https://news.hada.io/topic?id=15535)
+    * Node.js 프로젝트에서 환경변수를 `.env`를 읽어오는 dotenv를 13년 전에 만들어서 큰 인기
+    * `.env` 파일의 유출 위험이 있고 여러 환경 관리가 어렵고 플랫폼 간 호환성 문제도 있었기에 dotenvx를 만들고 1.0.0을 릴리스
 * [Carlos Justiniano](http://cjus.me/)
 * [Node.js v10.5.0 Worker PR FAQ](https://tech.ssut.me/2018/06/26/node-js-v10-5-0-worker-pr-faq/)
 * [라즈베리파이 NodeJs 설치](http://blog.xcoda.net/99)
@@ -5887,6 +5900,14 @@ Javascript
   * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
   * [구현 세부 사항 테스트(Testing Implementation Details)](https://www.vobour.com/%EA%B5%AC%ED%98%84-%EC%84%B8%EB%B6%80-%EC%82%AC%ED%95%AD-%ED%85%8C%EC%8A%A4%ED%8A%B8-testing-implementation-deta)
   * [Creating Readable Tests Using React Testing Library](https://medium.com/flatiron-labs/creating-readable-tests-using-react-testing-library-2bd03c49c284)
+  * [Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack - Slack Engineering](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
+    * Slack에서 Enzyme으로 작성된 테스트가 더는 React 18을 지원하지 않아서 React Testing Library로 전환하기로 결정
+      * 15,000개 이상의 Enzyme 테스트 케이스를 변환해야 하는 상황
+    * AST로 변환해서 자동 변환을 시도했지만, 복잡성을 제대로 처리할 수 없다는 것이 명확해져서 일반적인 45% 정도만 자동 처리, 나머지는 수동 처리 안내
+    * 이후 AI로 처리할 수 있는지 조사하기 시작
+      * DOM 트리 컬렉션을 함께 제공
+      * AST를 프롬프트에 함께 제공해서 불규칙한 결과를 크게 개선 가능
+      * 이를 통해 자동 변환된 테스트의 채택률이 크게 올랐고 개발자의 시간은 22% 감소
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 
 # Redux
