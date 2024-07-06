@@ -271,6 +271,7 @@ Google Cloud Platform GCP
 * [Google Cloud Next 2024 참관 후기 1편 - AI로 업그레이드된 구글 클라우드와 우리의 준비 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2024-google-cloud-next-1/)
 * [Google Cloud Next 2024 참관 후기 2편 - Google Cloud Serverless for Java developer | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2024-google-cloud-next-2/)
 * [Google Cloud Next 2024 참관 후기 3편 - Generative AI with Enterprise Data | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2024-google-cloud-next-3/)
+* [Google Cloud Next 2024 참관 후기 4편 - AI를 장착한 개발자의 파워풀한 퍼포먼스 내기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2024-google-cloud-next-4/)
 
 # Library
 * [gcpdiag](https://gcpdiag.dev/)
