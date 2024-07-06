@@ -6393,6 +6393,9 @@ Javascript
   * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript - YouTube](https://www.youtube.com/watch?v=xesy1i67OWI)
     * [VidiGo infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript.mp4](https://vidigo.ai//share/summary/eb68cff76376)
     * [infer, never만 보면 두려워지는 당신을 위한 고급 TypeScript | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/746367)
+  * [infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 기초 타입 이론](https://d2.naver.com/helloworld/9283310)
+  * [infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 고급 타입 추론](https://d2.naver.com/helloworld/3713986)
+  * [infer, never만 보면 두려워지는 당신을 위한 타입 추론 - 응용 문제](https://d2.naver.com/helloworld/5088940)
 * [Typescript로 Local Storage 안전하게 사용하기 | 뱅크샐러드](https://blog.banksalad.com/tech/typescript-local-storage/)
 * [Announcing TypeScript 5.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
   * [TypeScript 5.5 릴리즈 | GeekNews](https://news.hada.io/topic?id=15593)
@@ -6413,6 +6416,7 @@ Javascript
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
 * [Fedify](https://fedify.dev/) ActivityPub server framework
+  * [Ghost funds Fedify — Hong Minhee on Things](https://writings.hongminhee.org/2024/07/ghost-funds-fedify/)
 * [flyde: ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js](https://github.com/flydelabs/flyde)
   * [Flyde - 개발자를 위한 비쥬얼 프로그래밍, 오픈소스 | GeekNews](https://news.hada.io/topic?id=13857)
 * [FnApi – FnApi](https://fnapi.dev/)
