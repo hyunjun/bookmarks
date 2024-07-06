@@ -5628,6 +5628,7 @@ Javascript
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [Next.js 학습 방법 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/learning-nextjs/)
+  * [Implementing Clean Architecture patterns in Next.js - YouTube](https://www.youtube.com/playlist?list=PLHQY5AFuyYYW8IJK16BxyTLZqTHxwmDww)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
