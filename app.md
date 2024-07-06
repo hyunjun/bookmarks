@@ -2488,6 +2488,14 @@ App
   * [Meet Figma AI: Empowering Designers with Intelligent Tools | Figma Blog](https://www.figma.com/blog/introducing-figma-ai/)
     * [Figma AI - 지능형 도구로 디자이너 역량 강화 | GeekNews](https://news.hada.io/topic?id=15577)
     * [전 세계 디자이너들 난리난 피그마 컨퍼런스 요약 | Config2024 - YouTube](https://www.youtube.com/watch?v=aduVMrS-v4o)
+  * [Config 2024 In Review | Figma Blog](https://www.figma.com/ko-kr/blog/config-2024-recap/)
+    * Figma의 콘퍼런스인 Config에서 새로운 기능 발표
+    * 원하는 디자인을 쉽게 찾고 원하는 디자인을 자동으로 만들어주는 Figma AI(베타기간인 2024년에는 무료)
+    * Figma 인터페이스의 세 번째 버전은 UI3 공개
+    * 슬라이드를 만들 수 있는 Figma Slides 공개(현재는 무료 베타이고 25년에는 월 3, 5달러 과금)
+    * 작년에 공개된 Dev Mode에서 개발을 쉽게 할 수 있도록 Ready for Dev View로 상태를 바꿀 수 있고 작업에 집중할 수 있는 Focus View
+    * 디자인 시스템 도입을 쉽게 할 수 있도록 개발자 환경에서 디자인의 코드 샘플을 쉽게 연결할 수 있는 Code Connect
+    * 자동 레이아웃 지원
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
