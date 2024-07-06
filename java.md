@@ -626,6 +626,7 @@ Java
 * [병렬 스트림(Parallel Stream)을 활용한 손쉬운 성능 향상](https://velog.io/@joosing/increase-performance-with-parallel-stream)
 * [Introduction and pitfalls of Java's new concurrency model by David Vlijmincx - YouTube](https://www.youtube.com/watch?v=UjzLaVI87mA)
 * [Structured Concurrency in Java: The What & Why • Balkrishna Rawool • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fbI3qveS_Is) virtual thread
+* [조회 속도 개선하기 (ESM '문의하기' 기능 개편)](https://ebay-korea.tistory.com/109)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
