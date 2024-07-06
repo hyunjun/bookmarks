@@ -514,6 +514,7 @@ Artificial Intelligence
 * [주간 아티클 | 아이폰에 들어가는 구글, 마이크로소프트의 AI 광폭 행보, 사우디 $40B 짜리 AI 펀드 조성, AI 프롬프트 엔지니어링은 죽었다, 그리고 Suno AI](https://maily.so/untitled.labs/posts/1fc2652b)
 * [State of the Cloud 2024 - Bessemer Venture Partners](https://www.bvp.com/atlas/state-of-the-cloud-2024)
   * [2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/topic?id=15649)
+* [대용량 AI 실시간 임베딩 데이터를 효율적으로 다루기](https://techblog.lycorp.co.jp/ko/how-to-efficiently-handle-massive-ai-real-time-embedding)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
