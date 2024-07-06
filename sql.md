@@ -503,6 +503,8 @@ SQL
 * [Gábor Szárnyas - DuckDB: The Power of a Data Warehouse in your Python Process - YouTube](https://www.youtube.com/watch?v=q_SKaOeRiOI)
 * [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
   * [데이터 없이도 데이터베이스가 되는 DuckDB | GeekNews](https://news.hada.io/topic?id=15093)
+* [DuckDB as the New jq - Paul Gross’s Blog](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
+  * [새로운 jq로서의 DuckDB | GeekNews](https://news.hada.io/topic?id=13948)
 
 # Library
 * [alasql.org](http://alasql.org/)
