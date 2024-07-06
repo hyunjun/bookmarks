@@ -473,6 +473,15 @@ Monitoring
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
 * [prom2json: A tool to scrape a Prometheus client and dump the result as JSON](https://github.com/prometheus/prom2json)
 * [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
+* [Prometheus Remote-Write 2.0 EXPERIMENTAL | Prometheus](https://prometheus.io/docs/specs/remote_write_spec_2_0/)
+  * Prometheus의 원격 쓰기 명세의 2.0 릴리스 후보
+  * 1.0은 아주 유용했지만
+    * 네트워크 대역폭 사용이 효율적이지 않았고 메타데이터, examplars, 네이티브 히스토그램, 타임스탬프 등 최신 Prometheus 기능 미지원
+    * 또한, 읽기와 쓰기의 프로토콜이 통합되어 있었는데 이는 큰 의미가 없었고
+    * 압축이나 content negotiation 메커니즘도 불포함
+  * 2.0에서는
+    * Protobuf 사용, 메시지는 binary Wire 형식, Google Snappy로 압축 필요
+    * 1.0 때 gRPC를 사용하지 않았기 때문에 도입이 용이하도록 이번에도 gRPC 미사용
 * [Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
   * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
   * [모니터링에서 보라색 맛 났어!(Prometheus & Thanos)](https://velog.io/@juunini/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%97%90%EC%84%9C-%EB%B3%B4%EB%9D%BC%EC%83%89-%EB%A7%9B-%EB%82%AC%EC%96%B4Prometheus-Thanos)
