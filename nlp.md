@@ -2898,6 +2898,13 @@ NLP
 * [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
+* [RAG를 개선하는 전체적인 흐름](https://www.linkedin.com/posts/hoyeon-lee-a58702117_rag%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%BD%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-llm-%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-activity-7210793127924649984-ps1H/)
+  * 1. 평가 지표/방식 정하기
+  * 2. 테스트 셋 만들기
+  * 3. 실험 가설 세우기
+  * 4. 환경을 격리해서 실험용 RAG 만들기
+  * 5. 테스트 셋을 실행해서 평가 메트릭 얻기
+  * 6. 기존 베이스라인 결과와 비교하고 적용 여부 결정
 * [Command-R: RAG at Production Scale](https://txt.cohere.com/command-r/)
 * [Semantic RAG: Enhancing LLMs with Knowledge Graphs - PoolParty Semantic Suite](https://www.poolparty.biz/blogposts/semantic-rag-knowledge-graphs-llms)
 * [knowledge_graph_rag_query_engine.ipynb - Colab](https://colab.research.google.com/github/jerryjliu/llama_index/blob/main/docs/docs/examples/query_engine/knowledge_graph_rag_query_engine.ipynb)
@@ -2937,6 +2944,10 @@ NLP
   * [GraphRAG - Microsoft의 데이터 디스커버리 도구 | GeekNews](https://news.hada.io/topic?id=15660)
   * [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
     * [LangChain KR | 와, Microsoft가 'GraphRAG'라는 새로운 AI 도구를 공개했군요 | Facebook](https://www.facebook.com/groups/langchainkr/posts/3080170255452019/)
+  * [GraphRAG 평가 방식](https://www.linkedin.com/feed/update/urn:li:activity:7214220267156295680/)
+    * Retrieval 에서는 NDCG MRR MAP … 등
+    * Generation 에서는 Bleu rouge Bert score METOR 등
+    * LLM as a judge 관점을 활용한 single point , reference based , pair wise based scoring ...
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
