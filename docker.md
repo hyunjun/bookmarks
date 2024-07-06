@@ -2588,6 +2588,11 @@ Docker
 * [6. 쿠버네티스 스토리지의 이해 및 EKS 환경 CSI Driver 스토리지 실습 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-20-jennifer-kubernetes-6/)
 * [쿠버네티스(Kubernetes) 네트워크 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/2251/)
 * [Kubernetes에서 DNS 다루는 방법 - 도메인을 찾아서](https://d2.naver.com/helloworld/2905424)
+* [How to inspect kubernetes networking | by Max Zhang | Medium](https://medium.com/@helpme.zhang/how-to-inspect-kubernetes-networking-0d89dfefee95)
+  * Kubernetes에서 네트워크를 추적할 수 있는 명령어 정리
+  * PID를 찾아서 `nsenter`로 네트워크 네임스페이스를 찾거나
+  * 이더넷 인터페이스 찾기 `conntrack`으로 연결을 보거나
+  * `iptables`, `ipvsadm`를 살펴보는 방법 설명
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
