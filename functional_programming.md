@@ -137,6 +137,9 @@ Functional Programming
 * [**Railway-Oriented Programming | kciter.so**](https://kciter.so/posts/railway-oriented-programming)
 * [Do your Values align with FP Values? - YouTube](https://www.youtube.com/watch?v=co-Vg7M4yKw)
 * [Welcome to FP Illuminated](https://fpilluminated.com/)
+* [모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까?](https://toss.tech/article/firesidechat_frontend_2)
+  * [VidiGo 모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까?.mp4](https://vidigo.ai/share/summary/8e6f1a36efb2)
+  * [모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883491)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
