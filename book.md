@@ -4,6 +4,8 @@ Book
 * [문화유산도서신청 - 문화유산도서 - 참여/소식 - 한국문화재재단](https://www.chf.or.kr/brd/board/1209/L/menu/1228)
 * [책 추천 list](https://gist.github.com/hyunjun/b9fd286a39bd826685a1d3713fecc54d#file-from_pgr-txt)
 * [책으로 성장하기 - by Jinu Kim - Jinu Notes](https://jinu.substack.com/p/034)
+* [The Joy of Reading Books You Don't Entirely Understand - Reactor](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
+  * [완전히 이해하지 못하는 책을 읽는 즐거움 | GeekNews](https://news.hada.io/topic?id=15683)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
 * [히트 리프레시](https://www.haruair.com/blog/4521)
 * [Two Cents #25 “New World Order” - 허진호 (Jin Ho Hur)](https://medium.com/@hur/two-cents-25-new-world-order-11e6768a5d69) 여러 서평
