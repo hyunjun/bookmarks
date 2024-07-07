@@ -372,6 +372,7 @@ Interview
 * [🌟 Mastering System Design: A Comprehensive Guide | LinkedIn](https://www.linkedin.com/pulse/mastering-system-design-comprehensive-guide-karan-rana-abglf/)
 * [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview)
 * [6 System Design Interview Problems for Practice - DEV Community](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
+* [Top 5 Courses to Crack FAANG or MAANG Interviews in 2024 | by javinpaul | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/top-5-courses-to-crack-faang-or-maang-interviews-in-2024-16465102edc8)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
