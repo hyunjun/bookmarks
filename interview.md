@@ -656,6 +656,7 @@ Interview
   * [System Design Basics: What is an API Gateway?](https://www.linkedin.com/posts/arslanahmad_microservices-systemdesign-microservices-activity-7005330977480732673-ADAL/)
   * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
   * [High-Performance Software Load Balancer for Cloud-Native Architecture | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9524915)
+  * [8 Load Balancing Algorithms You Must Know for System Design Interview | by Soma | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/8-load-balancing-algorithms-you-must-know-for-system-design-interview-bc0d1440ed42)
 * [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
