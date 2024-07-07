@@ -15,6 +15,7 @@ Product
 * [DIY족을 위한 ‘액체 땜질’ 공구](http://techholic.co.kr/archives/30144)
 * [캠핑에 딱…전기 필요 없는 휴대용 세탁기](http://techholic.co.kr/archives/32732)
 * [캠핑? 해먹 하나면 충분하다](http://www.earlyadopter.co.kr/61809)
+* [【🤴Ep.411】 해외 캠퍼들 사이에서 난리난 애니마카의 3초 해먹을 가지고 와봤습니다 - YouTube](https://www.youtube.com/watch?v=UZQ_n2HfaBQ)
 * [Printing a wall-sized world map](http://www.dominik-schwarz.net/potpourri/worldmap/)
 * [타임랩스 촬영을 보다 편리하고 멋있게](http://www.earlyadopter.co.kr/42742)
 * [휴지통+진공청소기=스마트 휴지통](http://www.earlyadopter.co.kr/42701)
