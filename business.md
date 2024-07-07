@@ -1315,6 +1315,8 @@ Business
 * [눈치 왕국](https://www.thestartupbible.com/2024/03/the-nunchi-game.html) high/low context 이야기
 * [생산성 향상을 위한 실무에서의 비동기 커뮤니케이션 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/%EC%83%9D%EC%82%B0%EC%84%B1/%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/)
 * [의사소통이 즐거운 개발자의 3가지 능력 | 요즘IT](https://yozm.wishket.com/magazine/detail/2631/) 개발자뿐만 아니라 모두에게 필요한 부분
+* [“말 진짜 쉽게 잘한다” 이 3가지만 알면 30배 말 잘할 수 있습니다 (이상윤 대표 1부) - YouTube](https://www.youtube.com/watch?v=BnMi5E8JST4)
+* [“그때 이렇게 말할걸…” 친절한데 만만해 보이지 않는 말투 특징 (이상윤님 2부) - YouTube](https://www.youtube.com/watch?v=46JjKTu0LFo)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
