@@ -2013,6 +2013,7 @@ Web
 * [k6: A modern load testing tool, using Go and JavaScript - https://k6.io ](https://github.com/loadimpact/k6)
   * [Load testing for engineering teams | Grafana k6](https://k6.io/)
     * [Test builder](https://k6.io/docs/test-authoring/test-builder/)
+  * [서버 부하 테스트 도구 k6 그리고 시각화 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223504483449)
   * Beginner’s Guide to Load Testing with k6
     * [Part 1 — The Prelude](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
     * [Part 2 — Performance Goals and k6 Metrics](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-73d55ee23723)
