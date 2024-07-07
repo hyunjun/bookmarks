@@ -2434,6 +2434,7 @@ NLP
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
   * [langchain-kr: LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다](https://github.com/teddylee777/langchain-kr)
     * [#langchain 밋업 발표 R.A.G. 우리가 절대 쉽게 결과물을 얻을 수 없는 이유 - YouTube](https://www.youtube.com/watch?v=NfQrRQmDrcc)
+    * [11-Retriever/11-Korean-Tokenizer-Tutorial.ipynb at main · teddylee777/langchain-kr · GitHub](https://github.com/teddylee777/langchain-kr/blob/main/11-Retriever/11-Korean-Tokenizer-Tutorial.ipynb)
   * [LangChain_misc/TokenUsageinStreaming.ipynb at main · NotoriousH2/LangChain_misc · GitHub](https://github.com/NotoriousH2/LangChain_misc/blob/main/TokenUsageinStreaming.ipynb)
   * [langchain-python-basic: langchain-python-basic book](https://github.com/sw-woo/langchain-python-basic/tree/main)
     * [langchain-python-basic/rangserve-fastapi-server at main · sw-woo/langchain-python-basic · GitHub](https://github.com/sw-woo/langchain-python-basic/tree/main/rangserve-fastapi-server)
