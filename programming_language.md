@@ -199,6 +199,9 @@ Programming Language
 * [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 * ["The Economics of Programming Languages" by Evan Czaplicki (Strange Loop 2023) - YouTube](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [if(!x)를 만족하는 프로그래밍 언어별 x .. : 네이버블로그](https://blog.naver.com/birdparang/223343249790) (알고있던 거지만) true, false이외에 falsy에 대한 이야기 정리
+* [Multi-Paradigm Languages – O’Reilly](https://www.oreilly.com/radar/multi-paradigm-languages/)
+  * [멀티패러다임 언어(Multi-Paradigm Languages) - 한빛출판네트워크](https://hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6330645435)
+  * [멀티패러다임 언어 1/6 - "우리는 함수형, 객체지향 패러다임을 제공하는 멀티패러다임 언어를 효율적으로 사용하는 법에 대해 배워야 한다." (수요코딩회 ep.2) - YouTube](https://www.youtube.com/watch?v=Ci3WGGEnmj4)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
