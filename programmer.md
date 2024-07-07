@@ -441,6 +441,7 @@ Programmer
 * [도널드 커누스 - 튜링상 수상자 시리즈, 지식함지](https://knowledgebasin.com/archives/persons/%EB%8F%84%EB%84%90%EB%93%9C-%EC%BB%A4%EB%88%84%EC%8A%A4)
 * [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
+  * [2300: Great 프로그래머가 되려는 사람을 위한 조언 - YouTube](https://www.youtube.com/watch?v=_v4qYbSZrnM)
 * Leslie Lamport [The Man Who Revolutionized Computer Science With Math - YouTube](https://www.youtube.com/watch?v=rkZzg7Vowao)
 * Margaret Hamilton [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
