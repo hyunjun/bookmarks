@@ -44,6 +44,7 @@ Programming
   * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
 * [TutorialsTeacher - Learn Web Technologies](https://www.tutorialsteacher.com/)
+* [top-github-repositories-which-everyone-should-look: This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
 * [**작은 교육**](http://slownews.kr/44304)
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
@@ -2433,6 +2434,7 @@ Programming
 * [Testing Distributed Systems | Curated list of resources on testing distributed systems](https://asatarin.github.io/testing-distributed-systems/)
 * [Managing Complex Dependencies with Distributed Architecture at eBay](https://www.infoq.com/news/2022/04/distributed-arch-ebay/)
 * [Distributed System Design Patterns | by Nishant | May, 2022 | Medium](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc)
+* [Most-Used Distributed System Design Patterns | by Anil Gudigar | Javarevisited | Jun, 2024 | Medium](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33)
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
 * [The Distributed Computing Manifesto | All Things Distributed](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
   * [Werner Vogels – Amazon 분산 컴퓨팅 선언문 (1998) :: Channy's Blog](https://channy.creation.net/blog/1715/)
@@ -2788,6 +2790,7 @@ Programming
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
 * [Saga Pattern with Kafka and NodeJS: simple implementation | by Vladimir Topolev | Geek Culture | Medium](https://medium.com/geekculture/saga-pattern-with-kafka-and-nodejs-simple-implementation-f1be932c9e26)
+* [Pattern: Saga](https://microservices.io/patterns/data/saga.html)
 * [마이크로서비스에서 서비스 별로 데이터베이스를 분리할 때에는 서비스 간의 독립성과 확장성을 확보할 수 있다는 장점이 있지만, 서비스 전체의 데이터 일관성을 유지하는 것이 어려워진다는 단점도 존재합니다. 오늘은 이러한 이슈를 해결하기 위해 등장한 Saga Pattern 을 | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EA%B0%80-%ED%8C%A8%ED%84%B4-544fc1adf5f3) two phase commit, saga pattern
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 * [**BFF(Backend for Frontend) 란?**](https://metleeha.tistory.com/entry/BFFBackend-for-Frontend-%EB%9E%80)
