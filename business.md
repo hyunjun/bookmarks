@@ -193,6 +193,7 @@ Business
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [**조직문화 개선에 대한 기대감을 잃지 않게 하려면**](https://brunch.co.kr/@matigevic/30) Edgar H. Schein 인공물(artifact) 표방하는 가치(espoused beliefs and values) 암묵적 가정(underlying assumptions)
 * [조직문화를 만들어가는 비법 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=3RVxxkwWohA) 문화는 bottom up(X), top down(O), 그러므로 top leader가 지켜야 함
+* [조직 문화 담당자의 성과, 이렇게 측정 가능합니다 | H.PODCAST SAP Korea 오용석 1부 - YouTube](https://www.youtube.com/watch?v=FNXVh5wvGIw) BHCI index
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
 * [TED Giver & Taker](https://www.slid.cc/ko/share/vdocs/ted-giver-taker-68bc78d2806a403290ff161ce85111aa) 성공하는 조직의 giver, taker
