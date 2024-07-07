@@ -2046,6 +2046,8 @@ Java
 * [JPA @Where 무시하기](https://yeonyeon.tistory.com/314)
 * [JPA에서의 Lock 이해하기 - Google Slides](https://docs.google.com/presentation/d/1615xq5LSv328WWNvfnoaBiYPISI3zW7PhsxDN0JO-YM/edit#slide=id.p)
 * [11 JPA and Hibernate query hints every developer should know](https://thorben-janssen.com/11-jpa-hibernate-query-hints-every-developer-know/)
+* [JPA 를 꼭 사용해야 하는데, 성능을 높히고 싶다면 StatelessSession 사용 고려 필요](https://www.linkedin.com/posts/%EC%84%B1%ED%98%81-%EB%B0%B0-78007673_debop4kdebop4k-data-ormsrctestjavadebop4k-activity-7209027027188817920-jzho/)
+  * [debop4k/debop4k-data-orm/src/test/java/debop4k/data/orm/jpa/stateless/StatelessExWithJpaTest.java at develop · debop/debop4k · GitHub](https://github.com/debop/debop4k/blob/develop/debop4k-data-orm/src/test/java/debop4k/data/orm/jpa/stateless/StatelessExWithJpaTest.java)
 * [굴러가는 자동차에 안전하게 타이어 교체하기(w. CMS 기능 개발) | 우아한형제들 기술블로그](https://techblog.woowahan.com/14301/)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
