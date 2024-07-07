@@ -592,6 +592,9 @@
 * [Reactive REST API With Spring, Kotlin and Coroutines](https://codersee.com/reactive-rest-api-with-spring-kotlin-and-coroutines/)
 * [Kotlin과 Spring Cloud Function 기반 애플리케이션을 AWS EventBridge와 Lambda에 배포하기](https://www.kazuya.io/855fa275-fc96-4310-97eb-ad0c62dd660a)
 * [코틀린을 활용한 안전한 효과 처리 - tech.kakao.com](https://tech.kakao.com/posts/622)
+* [Headache-Free Reactive Programming With Spring Boot and Kotlin Coroutines - YouTube](https://www.youtube.com/live/ahTXElHrV0c)
+  * 이제 Spring MVC 에 Virtual Thread 를 사용해도 왠만한 경우에는 High throughput 을 만족 가능
+  * 극한의 성능을 내기 위해서는 Spring Webflux 를 사용해야 하는데, Kotlin Coroutines 를 사용하면 쉽게 구현 가능
 * [example-r2dbc-connection-pool: R2DBC Connection Pool 초기화 관련 예제 Repository](https://github.com/d0lim/example-r2dbc-connection-pool)
   * [R2DBC Connection Pool 실종 사건 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/r2dbc-connection-pool-missing/)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
