@@ -1061,6 +1061,7 @@ Docker
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
 * [Lecture k8s learning.kit: '그림으로 배우는 쿠버네티스' 온라인 강의](https://github.com/sysnet4admin/_Lecture_k8s_learning.kit)
+* [6 Best Udemy Courses to Learn Docker and Kubernetes in 2024 | by javinpaul | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/6-best-udemy-courses-to-learn-docker-and-kubernetes-in-2024-6e72055b3a1c)
 * [Season4 Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhGvfqQazIeYVOxnE4UKmtkU)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
