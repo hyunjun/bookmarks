@@ -770,6 +770,9 @@ Business
 * ["팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (ft. 신주은 센터장) | 지식토크 - YouTube](https://www.youtube.com/watch?v=Uc9E6E3njaU)
   * [VidiGo "팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (](https://vidigo.ai/share/summary/3b5af71f6ea1)
   * ["팀원이랑 무슨 말 할지도 모르겠고요" 직장에서 가장 많이 나오는 원온원 미팅 고민은? (ft. 신주은 센터장) | 지식토크 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/819101)
+* [리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 | 퍼스트잇 - YouTube](https://www.youtube.com/watch?v=srXFr9ZbyWw)
+  * [VidiGo 리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 |](https://vidigo.ai/share/summary/156ca459f1a5)
+  * [리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 | 퍼스트잇 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/887004)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -1553,6 +1556,7 @@ Business
   * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
 * [Platform Engineering KPIs. In this post, we will share our… | by Lambros Charissis | Wise Engineering | Medium](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
 * [**"엔지니어링은 무엇인가?" (What) "어떤 엔지니어링을 해야하는가?" (How)**](https://www.facebook.com/1ambda/posts/pfbid02fb8g96WMeEkJe9ZZYeNSdNDF335J7gLwLux6cezJGupPr6QQrGFxGmJEYAoXtG5Ll) KPI 이야기는 아니지만, 엔지니어링 측면에서 측정을 강조하고, 그 관점에서 보면 큰 맥락에서는 같이 볼 수도 있음
+* [What have you heard about The North Star Framework](https://www.linkedin.com/posts/olafioye-seyifunmi_what-have-you-heard-about-the-north-star-activity-7214523338180747265-0cF9/)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
