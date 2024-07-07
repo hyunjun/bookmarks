@@ -1405,6 +1405,7 @@ Linux
 * [redo: Redo is the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [**SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal**](https://github.com/andmarti1424/sc-im)
+  * [SC-IM : Ncurses 기반의 Vim 스타일 스프레드시트 계산기 | GeekNews](https://news.hada.io/topic?id=15697)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [snip: A simple and minimal command-line snippet manager](https://github.com/mehran-prs/snip)

@@ -464,6 +464,7 @@ Data Visualization
   * [효율적으로 EDA를 하자! - sweetviz편](https://brunch.co.kr/@fermat39/118)
 * [visidata: A terminal spreadsheet multitool for discovering and arranging data](https://github.com/saulpw/visidata)
   * [Open-source data multitool | VisiData](https://www.visidata.org/)
+  * [Visidata - 터미널에서 스프레드시트 데이터 다루기 | GeekNews](https://news.hada.io/topic?id=3030)
 * [VisPy - a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VizSeq - A visual analysis toolkit for text generation tasks](https://facebookresearch.github.io/vizseq/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
