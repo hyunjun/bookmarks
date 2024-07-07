@@ -4693,6 +4693,8 @@ Javascript
   * React Server Component를 직렬화된 컴포넌트 트리를 클라이언트에 전송할 수 있으므로 JavaScript 번들 없이도 컴포넌트 트리를 재구성할 수 있게 되어 하이드레이션 비용 없이 사용 가능
   * `Suspense`를 통해 특정 조건까지 렌더링을 지연시킬 수 있고 사용자의 상호작용에 따라 컴포넌트의 우선순위를 재조정할 수 있어서 데이터 불러오기가 많은 경우 더 원활한 경험을 제공 가능
   * 추가로 React 18에는 래핑 된 함수 결과를 기억하는 `cache` 함수가 있어서 매번 호출할 필요 없이 저장된 값을 재사용 가능
+* [Enhancing The New York Times Web Performance with React 18 | by Ilya Gurevich | NYT Open | NYT Open](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+  * [React 18 업그레이드로 인한 뉴욕타임스 웹사이트 성능 향상 | GeekNews](https://news.hada.io/topic?id=15725)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
