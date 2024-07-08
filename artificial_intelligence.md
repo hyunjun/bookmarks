@@ -523,6 +523,7 @@ Artificial Intelligence
 * [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
 * [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
 * [GN#260 지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/weekly/202427)
+* [GN#261 2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/weekly/202428)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
