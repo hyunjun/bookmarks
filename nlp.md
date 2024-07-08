@@ -1118,6 +1118,7 @@ NLP
 * ["최적의 프롬프트 단어 수는 21개"...구글, 프롬프트 비결 담은 가이드북 발간 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159796)
 * [LLM과 기호. 들어가며 | by Simple | Jun, 2024 | Medium](https://medium.com/@simple0314/llm%EA%B3%BC-%EA%B8%B0%ED%98%B8-c7caf48143dd)
 * [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
+* [유출된 ChatGPT 프롬프트와 Personality v1~v6 | GeekNews](https://news.hada.io/topic?id=15734)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
