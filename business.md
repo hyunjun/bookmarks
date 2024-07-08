@@ -2144,6 +2144,7 @@ Business
   * 최근 내가 겪은 일을 생각해보면 기록을 하는 게 더 중요한 듯 싶다
   * 기억을 제대로 하면 좋지만, 이런 사례가 흔하지는 않을테니 기록하고 제대로 찾아만 봐도 굉장히 수준이 높은 경우이다
   * 최악은 기록도 하지 않고 기억을 자기 하고 싶은대로 하면서 그걸로 사람을 평가하는 경우
+* [엔지니어링 리더로서 기억력/인지력 감퇴에 대처하는 방법은 무엇인가요? | GeekNews](https://news.hada.io/topic?id=15661)
 * [최악의 직장상사 유형은? / 나쁜 리더가 따로 있는게 아니에요 / 리더의 태도 문성후 대표 - YouTube](https://www.youtube.com/watch?v=bCvylYCFeF4)
   * [VidiGo 최악의 직장상사 유형은? / 나쁜 리더가 따로 있는게 아니에요 / 리더의 태도 문성후 대표](https://vidigo.ai//chatbot/summary/8792Cbkrqx6RuI7)
     * 1. 리더의 역할과 책임
@@ -2384,6 +2385,8 @@ Business
   * [VidiGo “자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표).mp4](https://vidigo.ai/share/summary/617abe00e5c1)
   * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872050)
 * [앞으로 더 중요해질 경영자의 스킬 세 가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/skill20240704)
+* [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
+  * [엔지니어링 리더들을 위한 안티-패턴들(Anti-patterns) | GeekNews](https://news.hada.io/topic?id=15744)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
