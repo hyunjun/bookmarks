@@ -3439,6 +3439,8 @@ Python
   * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
   * [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 * [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com ](https://github.com/proin/saturn)
+* [Satyrn](https://satyrn.app/)
+  * [Satyrn - macOS용 현대적인 Jupyter 클라이언트 | GeekNews](https://news.hada.io/topic?id=15735)
 * [Traitlets](https://github.com/ipython/traitlets)
 * [Visual Python](https://www.visualpython.ai/) GUI based Python code generator
 * Voila [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
