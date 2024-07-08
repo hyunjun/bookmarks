@@ -6091,6 +6091,8 @@ Javascript
 * [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17404/)
 * [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 2. 실전 편 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17721/)
 * [프론트엔드 테스트 환경 설정하기 — React와 TypeScript를 좋아하는 개발자](https://xionwcfm.tistory.com/460)
+* [Good Code, Testable Code | Epic Web Dev](https://www.epicweb.dev/good-code-testable-code)
+  * [(번역) 좋은 코드, 테스트 용이한 코드 | Ykss](https://ykss.netlify.app/translation/good_code_testable_code/)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
