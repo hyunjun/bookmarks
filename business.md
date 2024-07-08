@@ -2383,6 +2383,7 @@ Business
 * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) - YouTube](https://www.youtube.com/watch?v=YYSw8UcM8gU)
   * [VidiGo “자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표).mp4](https://vidigo.ai/share/summary/617abe00e5c1)
   * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872050)
+* [앞으로 더 중요해질 경영자의 스킬 세 가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/skill20240704)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
