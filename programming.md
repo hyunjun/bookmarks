@@ -4997,6 +4997,8 @@ Programming
         * 인텔리전스 통합으로 *안전성이 향상*, F5 어스 크의들과 오픈소스 nginx 활용하여 네트워크 보안 강화
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+* [Ente - Private cloud for your photos, videos and more](https://ente.io/auth/)
+  * [Ente Auth - Authy를 대체가능한 오픈소스 2FA앱 | GeekNews](https://news.hada.io/topic?id=15741)
 * [EnvKey: End-To-End Encrypted Environments](https://v2.envkey.com/)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * Fail2Ban [기본적 서버 보안 프로그램, Fail2Ban 사용법 기초부터 실전 사용법까지 알아 보기 | 웹으로 말하기](https://mytory.net/2022/01/16/fail2ban.html)
@@ -7269,6 +7271,8 @@ Programming
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
 * SyncTree [A ‘No-Code Tool’ that Develops Backend?! - YouTube](https://www.youtube.com/watch?v=8vzjGewmcd8)
 * [ToolJet: Free Open-source Low-Code App Builder - YouTube](https://www.youtube.com/watch?v=nwEHSp1A_WU)
+* [transfer-thought: 🔁Web platform for building virtual reality experiences](https://github.com/transferthought/transfer-thought)
+  * [Transfer Thought - 노코드 WebXR 에디터 오픈소스 | GeekNews](https://news.hada.io/topic?id=15743)
 * [Uiflow - Build Software at the Speed of Thought](https://www.uiflow.com/)
 * [UXPin Merge | Disquiet\*](https://disquiet.io/product/uxpin-merge) UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
