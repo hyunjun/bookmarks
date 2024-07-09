@@ -1995,6 +1995,8 @@ Programming
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [마틴 파울러 소프트웨어 아키텍처의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=4E1BHTvhB7Y)
+  * [VidiGo 마틴 파울러 소프트웨어 아키텍처의 중요성 (한글 자막).mp4](https://vidigo.ai/share/summary/6edf0eabb854)
+  * [마틴 파울러 소프트웨어 아키텍처의 중요성 (한글 자막) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/901724)
 * [Google - polling like it's the 90s](https://www.ably.io/blog/google-polling-like-its-the-90s/)
 * [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
@@ -7168,6 +7170,9 @@ Programming
       * 안정적인 소프트웨어의 미래가 있다면 레거시에 도전하는 것을 권장하며, 확장성이 중요하다고 이야기
       * 플랫폼의 무덤 영역에 대한 흥미로운 도전을 권유하며, 엔지니어와 테크 리더와 소통하며 협력하는 중요성을 강조
       * 엔지니어들에게 레거시의 지옥에서 배울 점이 있음을 감사하면서 세션을 마무리
+* [Refactoring vs Refuctoring: Code Quality in the Al Age • Enys Mones & Peter Anderberg • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=AqB6u7isTOw)
+  * [VidiGo Refactoring vs Refuctoring: Code Quality in the Al](https://vidigo.ai/share/summary/e98822504c7e)
+  * [리팩터링과 리펙토링: Al 시대의 코드 품질 - Enys Mones & Peter Anderberg - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/895469)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
