@@ -3219,6 +3219,8 @@ Business
 * [대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
+* [Venturing Insights #9 - From PoC to MVP: Navigating the Alphabet Soup of Innovation](https://openroadventuress.substack.com/p/venturing-insights-9-from-poc-to)
+  * [Daero Won - "idea - PoC - Prototype(혹은 Pretotype) - Pilot - MVP" 이... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid031xs5HjjS1URU13ZBhp7ajyAm2WKMkPDDspAijPtCm6AdBTkioTBC4kYZ5DBR99T3l)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
 * [린스타트업 MVP 설정의 어려움](https://brunch.co.kr/@graypool/10)
