@@ -500,6 +500,7 @@ Programmer
     * 본인의 가설이긴 하지만 맞다면 다른 사람들은 조심했으면 좋겠다고 이야기
     * 승진 주기에 맞춰서 커리어를 관리하거나 빅테크식의 관리 방법을 쓰지 않는 회사를 찾는 해결책이 있다고 설명
 * [시니어 엔지니어가 만들면 빠른 이유 #1](https://velog.io/@480/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EC%9C%A0-1)
+* [시니어 엔지니어가 만들면 빠른 이유 #2](https://velog.io/@480/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EC%9C%A0-2)
 * [How I plan my week as a Senior Engineer in Big Tech](https://read.highgrowthengineer.com/p/how-i-plan-my-week-as-a-senior-engineer)
 * [25년차 시니어 엔지니어가 말하는 "내가 18살로 돌아간다면 꼭 하고 싶은 10가지"](https://maily.so/devpill/posts/341f8fc4)
 * [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
