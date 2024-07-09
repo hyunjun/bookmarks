@@ -1553,6 +1553,9 @@ Javascript
 * [Config 2024: Design systems best practices - YouTube](https://www.youtube.com/watch?v=MJTCfSFLUGE)
   * [VidiGo Config 2024: Design systems best practices.mp4](https://vidigo.ai/share/summary/1a7081a9682d)
   * [구성 2024: 설계 시스템 모범 사례 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/856021)
+* [애플, 구글, 피그마 UI Kit 대공개 & 사용 방법! (디자인시스템 관련 용어 총정리: UI Kit, 컴포넌트라이브러리, 스타일가이드 등) #figma #연결고리 - YouTube](https://www.youtube.com/watch?v=0x0eFEV39_o)
+  * [VidiGo 애플, 구글, 피그마 UI Kit 대공개 & 사용 방법! (디자인시스템 관련 용어 총정리:](https://vidigo.ai/share/summary/01e603b639a9)
+  * [애플, 구글, 피그마 UI Kit 대공개 & 사용 방법! (디자인시스템 관련 용어 총정리: UI Kit, 컴포넌트라이브러리, 스타일가이드 등) #figma #연결고리 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/895363)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
