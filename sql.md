@@ -1697,6 +1697,8 @@ SQL
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlite3 fiddle](https://sqlite.org/fiddle/)
 * [sqlite3-to-mysql: Transfer data from SQLite to MySQL](https://github.com/techouse/sqlite3-to-mysql)
+* [SQLite DB Browser - SQLite 비쥬얼 브라우저 오픈소스 | GeekNews](https://news.hada.io/topic?id=15765)
+  * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [sqlite-http: A SQLite extension for making HTTP requests purely in SQL](https://github.com/asg017/sqlite-http)
   * [Introducing sqlite-http: A SQLite extension for making HTTP requests / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-sqlite-http)
 * [sqlite-lines: A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)](https://github.com/asg017/sqlite-lines)
