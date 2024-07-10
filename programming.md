@@ -2619,6 +2619,7 @@ Programming
 * [Event-Driven Architecture (EDA) vs Request/Response (RR) - YouTube](https://www.youtube.com/watch?v=7fkS-18KBlw)
 * [From Zero to a Hundred Billion: Building Scalable Real-Time Event Processing at DoorDash - YouTube](https://www.youtube.com/watch?v=u6AjSr58h6g)
   * decoupling stage, stream processing framework, abstraction, fine-grained failure isolation and scalability
+* [Event Driven의 기원과 현실적인 활용 방법](https://brunch.co.kr/@graypool/1784)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
