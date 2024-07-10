@@ -2316,8 +2316,6 @@ NLP
   * [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
   * [Launch an LLM App in One Hour (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=twHxmU9OxDU)
     * [the-full-stack/ask-fsdl: Document Q&A over The Full Stack's Corpus](https://github.com/the-full-stack/ask-fsdl)
-  * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
-  * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
   * [Gor Hayrapetyan & Karen Javadyan - Langchain: A Framework for Building Large Language Model Apps - YouTube](https://www.youtube.com/watch?v=YNixBsPt7Ds)
     * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/23041)
     * [고르 헤이라페티안 & 카렌 자바디얀 - Langchain: 대규모 언어 모델 앱 구축을 위한 프레임워크 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/493325?sId=YNixBsPt7Ds)
@@ -2428,6 +2426,10 @@ NLP
     * [프로젝트에 LLM 끼얹기 - Naver SmartStudio Blog](https://smartstudio.tech/how-to-build-ai-agent-with-llm/)
       * Yorkie 프로젝트에서 AI Agent를 만들기 위해 원하는 형태의 GitHub 이슈를 생성해 주는 아이디어를 생각
       * ChatGPT와 Langchain을 사용해서 구현 후 도입까지 한 과정 설명
+  * [LangSmith](https://www.langchain.com/langsmith)
+    * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
+    * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
+    * [LangChain 사용추적,모니터링을 도와주는 LangSmith를 알아보자!](https://codesw.tistory.com/entry/LangChain-%EC%82%AC%EC%9A%A9%EC%B6%94%EC%A0%81%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-LangSmith%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
   * [10분 만에 랭체인(LangChain) 이해하기](https://brunch.co.kr/@ywkim36/147)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
