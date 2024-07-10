@@ -6209,6 +6209,8 @@ Programming
     * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk)
   * [(4월 10일) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들](https://jhrogue.blogspot.com/2021/04/4-10.html) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
     * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s)
+  * [2024년 7월 10일 개발 이야기 - 엔지니어링 분야에서 시니어 레벨 이상으로 성장하는 데 필요한 3가지 핵심 기술 | PPT](https://www.slideshare.net/slideshow/2024-7-10-3/270167876)
+    * [(07/10) 엔지니어링 분야에서 시니어 레벨 이상으로 성장하는 데 필요한 3가지 핵심 기술 - YouTube](https://www.youtube.com/watch?v=1FiAGFUnTUU)
 * 44BITS
   * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
   * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
@@ -7267,6 +7269,8 @@ Programming
 * [No Code MBA - Courses and tutorials to learn nocode](https://www.nocode.mba/)
 * [No-Code Resources](https://resisted-pint-b05.notion.site/No-Code-Resources-1c9a074f65f2419292558a7023cd97ef)
 * numble [IT Open Innovation Platform, ‘NUMBLE’](https://www.numble.it/) IT 사람들의 프로젝트 기반 챌린지 커뮤니티
+* [onlook-dev/studio: The power of Webflow for your React app](https://github.com/onlook-dev/studio)
+  * [Onlook - 오픈 소스 Webflow를 이용한 맞춤형 앱 제작 도구 | GeekNews](https://news.hada.io/topic?id=15758)
 * [Oopy. 우피 | Disquiet\*](https://disquiet.io/product/oopy.-%EC%9A%B0%ED%94%BC) 노션을 이용한 노코드 웹페이지 빌더
 * [openblocks: 🔥 🔥 🔥 The Open Source Retool Alternative](https://github.com/openblocks-dev/openblocks)
 * [Outcode | Disquiet\*](https://disquiet.io/product/outcode) 문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc
