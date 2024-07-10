@@ -747,6 +747,8 @@ Business
   * [방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/topic?id=15390)
 * [Now is a good time to start a service business -](https://www.zachocean.com/posts/service-business/)
   * [지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/topic?id=15497)
+* [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
+  * [올바른 종류의 고집 | GeekNews](https://news.hada.io/topic?id=15756)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1318,6 +1320,7 @@ Business
 * [의사소통이 즐거운 개발자의 3가지 능력 | 요즘IT](https://yozm.wishket.com/magazine/detail/2631/) 개발자뿐만 아니라 모두에게 필요한 부분
 * [“말 진짜 쉽게 잘한다” 이 3가지만 알면 30배 말 잘할 수 있습니다 (이상윤 대표 1부) - YouTube](https://www.youtube.com/watch?v=BnMi5E8JST4)
 * [“그때 이렇게 말할걸…” 친절한데 만만해 보이지 않는 말투 특징 (이상윤님 2부) - YouTube](https://www.youtube.com/watch?v=46JjKTu0LFo)
+* [비즈니스 소통에서 관심사의 분리와 일반화의 효과](https://brunch.co.kr/@graypool/1789)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
