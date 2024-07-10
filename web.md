@@ -1002,6 +1002,8 @@ Web
 ## CSS-in-JS
 * [css-in-js-media - Minified and Simplified include-media with CSS-in-JS](https://github.com/zx6658/css-in-js-media)
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
+* [mincho: Natural CSS in the Typescript](https://github.com/mincho-js/mincho) design system 디자인 시스템을 만들기위한 CSS in JS 프레임워크
+  * [Mincho | Disquiet\*](https://disquiet.io/product/mincho)
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
