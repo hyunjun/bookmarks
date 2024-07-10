@@ -1291,6 +1291,7 @@ NLP
       * 데이터 임베딩 및 노드 연결을 통해 벡터 데이터베이스 및 AI 서비스를 개발하는 방법이 상세히 안내되었다.
 * [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
+* [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 
 ## ChatBot Python
 
@@ -1743,6 +1744,7 @@ NLP
   * [LLMOps - DeepLearning.AI](https://www.notion.so/1003/deeplearning-ai-fb7a5bc822d34dafa841bb20ed7d6ea7?pvs=4#63656ceb4d834ef8b9def4631cde9f4e)
     * [DLAI - LLMOps.mp4 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/346525?sId=055aae79-ef04-4f3b-8e98-1ec7bc8dd88d)
 * [Automated Testing for LLMOps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
+* [Code-First LLMOps from prototype to production with GenAI tools | BRK110 - YouTube](https://www.youtube.com/watch?v=gvqsPhd27LE)
 * [PyData Madrid Abril 2024 @ Repsol 🐲 LLMOps & ML para Drilling Performance y Python & Mazmorras - YouTube](https://www.youtube.com/watch?v=sFvEbWltYZQ)
   * [VidiGo PyData Madrid Abril 2024 @ Repsol LLMOps & ML par](https://vidigo.ai/share/summary/a45f3815b0ce)
   * [PyData 마드리드 2024년 4월 @ Repsol 🐲 드릴링 성능과 파이썬 및 마즈모라스를 위한 LLMOps 및 ML | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522664)
@@ -2693,6 +2695,8 @@ NLP
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
 * [PaperSorter: Sends alerts to a Slack channel for potentially interesting new articles selected from RSS feeds](https://github.com/ChangLabSNU/PaperSorter)
   * [장혜식 - 논문이 너무 많이 나옵니다. 10년 전에 비해 저널도 많이 늘었지만 특히 프리프린트 때문에 두세배는 더... | Facebook](https://www.facebook.com/hyeshik/posts/pfbid0yTvWKy2w2vmTpuHwdjmHpEZiSJnM6vd5o7Lb1Pjg9oR9RFrf89wtKdtSTFkRxxJkl)
+* [palico-ai: Quickly Iterate on your LLM Application](https://github.com/palico-ai/palico-ai)
+  * [Palico AI - LLM Application의 성능 극대화를 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=15770)
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
   * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
@@ -2764,6 +2768,7 @@ NLP
     * [Evaluating LLMs with Uptrain - SingleStore Spaces](https://www.singlestore.com/spaces/evaluating-ll-ms-with-uptrain/)
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
+  * [LLM AWS T4 GPU 서버에서 vllm 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/07/08/llm-aws-t4-gpu-vllm/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
   * [Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 | GeekNews](https://news.hada.io/topic?id=8977)
   * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
