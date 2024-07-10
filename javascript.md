@@ -202,6 +202,7 @@ Javascript
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
+  * [How Airbnb gave the SECRET to perfect JavaScript code - YouTube](https://www.youtube.com/watch?v=a9fMUun1jZo)
 * [JavaScript Standard Style](https://standardjs.com/)
 * [19 simple JavaScript coding standards to keep your code clean | by Daniel Anderson | JavaScript In Plain English | Jun, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0)
 * [7 JavaScript coding standards for readability & consistency | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/7-javascript-coding-standards-for-readability-consistency-9a3d81821397)
