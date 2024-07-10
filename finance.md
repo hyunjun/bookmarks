@@ -70,7 +70,7 @@ Finance
 * [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. - YouTube](https://www.youtube.com/watch?v=fEvGPFhAObE) CMA
   * [VidiGo 예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다..mp4](https://vidigo.ai/share/summary/459aad2de7ee)
   * [예적금 특판 찾지마세요. 이 통장은 조건도 없고 한도도 없습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825072)
-* [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. - YouTube](https://www.youtube.com/watch?v=dutPBZTnTg4&ab_channel=%EB%A8%B8%EB%8B%88%ED%95%98%EC%9D%B4) CMA, 발행 어음, MMF, 장기 채권, 단기 채권형 펀드
+* [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. - YouTube](https://www.youtube.com/watch?v=dutPBZTnTg4) CMA, 발행 어음, MMF, 장기 채권, 단기 채권형 펀드
   * [VidiGo 총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다](https://vidigo.ai/share/summary/ce0e0cc8c314)
   * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/866587)
 
@@ -122,6 +122,12 @@ Finance
 * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
 * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
 * ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
+* [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. - YouTube](https://www.youtube.com/watch?v=VHi2L0TVVY4)
+  * [VidiGo 국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다..mp4](https://vidigo.ai/share/summary/6769c0119094)
+  * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907084)
+* [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF - YouTube](https://www.youtube.com/watch?v=ANFXn_Ne5pE)
+  * [VidiGo 월배당ETF 63개 총정리 해봤어요ㅣETF.mp4](https://vidigo.ai/share/summary/3e6ad61a4c10)
+  * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907204)
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)
