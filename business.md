@@ -463,6 +463,7 @@ Business
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
 * [요즘 직장in 조직과 개인 모두에게 신뢰가 필요한 시점입니다](https://www.econovill.com/news/articleView.html?idxno=397085) 조직, 신뢰
 * [신뢰는 어떻게 만들어질까 (한글번역) | Th.. : 네이버블로그](https://blog.naver.com/bizucafe/223086450533)
+* [회사에서 상사에게 잘 보이는 법](https://brunch.co.kr/@driver888/14) 약간 자극적인 제목이지만 상호 신뢰 구축을 위한 방법에 대한 이야기
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
@@ -3165,6 +3166,7 @@ Business
 * [(1) Jinhwan Kim - 3년 전에 썼던 "스타트업이 영업을 간과하는 이유와 그 대안"이 작게나마 파장을 불러일으켰다.... | Facebook](https://www.facebook.com/jinhwan.kim.319/posts/pfbid0nTpUU1PnA3vjiu5P8Tgo6cdrJZzDuApde2CNingkY4BChKRwptZC1ibcfmoVWhBXl)
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
+* [수민님이 Day 1부터 매출을 만들면서 SaaS 개발을 시작한 방법 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%88%98%EB%AF%BC%EB%8B%98%EC%9D%B4-day-1%EB%B6%80%ED%84%B0-%EB%A7%A4%EC%B6%9C%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-saa-s-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C-%EB%B0%A9%EB%B2%95)
 * [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
 * ['이거 마시면 깃허브 쓰는 거다?' GitHub의 맥주 플러팅🍺](https://eopla.net/magazines/6661) Github이 초기에 사람을 모으기 위해 했던 활동들
 * [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
