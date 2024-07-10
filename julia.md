@@ -131,6 +131,7 @@ Julia
   * [Julia: Numerical Applications Pushing the Limits of Language Design](http://2015.ecoop.org/event/curryon-julia)
     * [Jeff Bezanson & Stefan Karpinski - Julia: Numerical Applications Pushing Limits of Language Design](https://www.youtube.com/watch?v=pZTqMSM2ksY)
 * [JuliaCon](http://juliacon.org/)
+  * [JuliaCon 2024 | REPL Main Stage | Day 1 - YouTube](https://www.youtube.com/live/OQnHyHgs0Qo)
   * [The 10th annual JuliaCon, 2023 - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6T7PRe2sucSonFsrrH-oEZC)
   * [The Julia Programming Language - YouTube](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA)
   * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
