@@ -1482,6 +1482,8 @@ SQL
     * [pg_timeseries: PostgreSQL용 오픈소스 시계열 확장 기능 | GeekNews](https://news.hada.io/topic?id=14927)
 * [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
   * [PolarDB for PostgreSQL | GeekNews](https://news.hada.io/topic?id=4362)
+* [Pongo - Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+  * [Pongo - Postgres 기반 Mongo with Strong Consistency | GeekNews](https://news.hada.io/topic?id=15742)
 * [postgres: Unmodified Postgres with some useful plugins](https://github.com/supabase/postgres)
   * [유용한 확장을 포함한 Postgres Docker 이미지들 | GeekNews](https://news.hada.io/topic?id=4967)
 * [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
