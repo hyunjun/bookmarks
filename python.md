@@ -4614,6 +4614,7 @@ Python
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [Python package 의 build frontend 와 backend](https://devocean.sk.com/blog/techBoardDetail.do?ID=164866)
 * [Boring Python: dependency management](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
+* [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/index.html)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
