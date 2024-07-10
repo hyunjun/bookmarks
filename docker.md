@@ -2211,6 +2211,11 @@ Docker
       * 현재 떠있는 노드들 중 특정 비율 혹은 특정 대수를 지정해 Karpenter로 인해 죽지 않도록 지정 및 Scheduling 가능
   * [Karpenter 0.3x. 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/karpenter-0-3x-36a0cb57b205)
   * [Karpenter 파일럿](https://saramin.github.io/2024-06-26-karpenter/)
+  * [FAQs | Karpenter](https://karpenter.sh/v0.37/faq/#why-arent-my-topology-spread-constraints-spreading-pods-across-zones)
+    * Karpenter를 사용할 때, pod이 topologySpreadConstraints 를 따르지 않는 이유
+      * karpenter를 사용하기 때문
+      * k8s 1.27버전부터 minDomains 추가 사용 권장
+      * minDomains를 설저해야 kube-scheulder가 Pending 걸고 Node 생성 요청하게 됨
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
