@@ -4055,6 +4055,7 @@ Python
 * [Pysa: Open Source static analysis for Python code - Facebook Engineering](https://engineering.fb.com/security/pysa/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [pysftp](http://pysftp.readthedocs.io/) a kind of wrapper of paramiko
+* [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton](https://robertheaton.com/pyskywifi/)
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
   * [Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
