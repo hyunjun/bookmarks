@@ -6541,6 +6541,7 @@ Javascript
       * array.includes() 가 사용하기 편해짐
 * [ts-remove-unused: Remove unused code from your TypeScript project](https://github.com/line/ts-remove-unused)
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
+* [type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
     * [typedi_sample](https://github.com/pjt3591oo/typedi_sample)
