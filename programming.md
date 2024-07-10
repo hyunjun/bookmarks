@@ -3436,6 +3436,7 @@ Programming
     * Linked List는 앞뒤 아이템만 업데이트해 주면 되지만 조회할 때 풀 스캔 필요
   * Atlassian이 이러한 문제를 해결하기 위해 LexoRank 작성
     * 사전적 정렬을 위해 `Bucket|FixedKey:VariableKey`를 사용해 O(1) 정렬 가능, 공간 고갈 시 무중단으로 재조정
+* [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
