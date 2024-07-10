@@ -2501,6 +2501,7 @@ App
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
+  * [피그마(figma) 대신 펜팟(penpot) 써볼까 - YouTube](https://www.youtube.com/watch?v=rFsD5KYHJxc)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)
