@@ -293,6 +293,7 @@ Redis
   * [nutcracker-web - Web interface plugin for nutcracker-ruby (Twemproxy)](https://github.com/kontera-technologies/nutcracker-web)
 * [valkey: A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie](https://github.com/valkey-io/valkey)
   * [Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 | GeekNews](https://news.hada.io/topic?id=14057)
+  * [Introducing Valkey GLIDE, an open source client library for Valkey and Redis open source | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source/)
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
