@@ -986,6 +986,7 @@ Programming
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
 * [관리사이트 쉽고 빠르게 구축하기 - YouTube](https://www.youtube.com/watch?v=q5oWMlBS-Kg) backoffice
 * [이나모리 가즈오의 회계경영...매출은 기대한 만큼 늘지 않는다](https://www.linkedin.com/posts/douglasguen_%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%ED%9A%8C%EA%B3%84%EA%B2%BD%EC%98%81%EC%97%90%EB%8A%94-%EC%9D%B4%EB%9F%B0-%EB%A7%90%EC%9D%B4-%EC%9E%88%EC%96%B4%EC%9A%94-%EB%B3%B4%ED%86%B5-%EB%8B%B9%ED%95%B4-%EC%97%B0%EB%8F%84%EC%9D%98-activity-7203542211127365632-_laX/)
+* [최소의 비용으로 서비스 개발하기 | GeekNews](https://news.hada.io/topic?id=15786) Supabase + Flutter + Retool
 
 # Agile, Scrum
 * book
@@ -7106,6 +7107,7 @@ Programming
 * [(레거시 시스템) 개편의 기술 - 배달 플랫폼에서 겪은 N번의 개편 경험기 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=HNt3H_7muHs)
 * [스프링캠프 2019 Track 2 Session 4 : 당신도 할 수 있는 레거시 프로젝트 개선 이야기 (이경일) - YouTube](https://www.youtube.com/watch?v=pZYZAMToenE&t=245s)
 * [회고 레거시 코드의 문제를 다루는 자세](https://velog.io/@joosing/attitude-toward-dealing-with-problems-in-legacy-code)
+* [013. 더핑크퐁컴퍼니(The Pinkfong Company) | One day dev](https://one-day.dev/post/013-pinkfong/)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
