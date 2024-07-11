@@ -1418,6 +1418,7 @@ AWS
 * [Centralizing AWS EKS Cluster logs to AWS OpenSearch with Fluent Bit | by KC | Jun, 2024 | Medium](https://blog.cloudacode.com/centralizing-aws-eks-cluster-logs-to-aws-opensearch-with-fluent-bit-a96f626fc88f)
 * [Karpenter Drift를 사용하여 Amazon EKS 워커 노드를 업그레이드하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-upgrade-amazon-eks-worker-nodes-with-karpenter-drift/)
 * [(AWS EKS에서) ENI와 IP TARTET에 대한 설명](https://www.linkedin.com/posts/jybaek_aws-eks%EC%97%90%EC%84%9C-eni%EC%99%80-ip-tartet%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-eks-activity-7212421118123466753-isVB/)
+* [간소화된 Amazon EKS 액세스 관리 제어 톺아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -2768,6 +2769,7 @@ AWS
     * 사용 패턴이 복잡하고 Drift 관리가 어렵고 클라우드 불가지론도 실제로는 의미 없고 협업자가 많아지면 더욱 어려워지는 등의 단점
   * 최근 라이센스 변경과 분열로 문제가 더 심해지고 있기에 Kubernetes Operator 패턴이 강력한 대안이 될 수 있다고 제안
   * 글에는 동의하지만, 글쓴이가 Konfig라는 관련 도구를 만드는 회사라는 걸 감안 필요
+* [🔥🚀Terraform Zero to Hero Series! Master Infrastructure as Code with Real-World Demos! 🔥🚀 - YouTube](https://www.youtube.com/watch?v=Y5K_EPEGtQ0)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
