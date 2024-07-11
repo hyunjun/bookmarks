@@ -50,10 +50,6 @@ Finance
 * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 - YouTube](https://www.youtube.com/watch?v=TarBHRN6zNA) IRP
   * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824830)
 * [퇴직금 1억으로 노후 돈 걱정 끝내는 법 "IRP에서 이렇게 하면 평생 연금 나와요" | 김범곤 대표 4부 - YouTube](https://www.youtube.com/watch?v=j_3BVr9Z2WA)
-* [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
-* [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8) ISA
-  * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
-  * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
 * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=ZrJPldU0574)
   * [VidiGo "역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드](https://vidigo.ai/share/summary/88f64fabcae6)
   * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808558)
@@ -73,6 +69,13 @@ Finance
 * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. - YouTube](https://www.youtube.com/watch?v=dutPBZTnTg4) CMA, 발행 어음, MMF, 장기 채권, 단기 채권형 펀드
   * [VidiGo 총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다](https://vidigo.ai/share/summary/ce0e0cc8c314)
   * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/866587)
+* ISA
+  * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
+  * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8)
+    * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
+    * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
+  * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 - YouTube](https://www.youtube.com/watch?v=s4P8Rx1KdBk)
+    * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/914043)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
@@ -162,6 +165,9 @@ Finance
 * [연말정산과 노후 준비를 위한 필수템 “연금저축펀드”를 소개합니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/253195)
 * 국민연금 ["제발 속지마세요." 이것 모르면 피같은 내 돈 '전부' 사라질 겁니다. (이영주 대표 1부) - YouTube](https://www.youtube.com/watch?v=mXYlYCdbBC8)
 * [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
+* ELB
+  * [단점까지 알고 활용하세요. - YouTube](https://www.youtube.com/watch?v=BGaCBB7VkNI)
+    * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
