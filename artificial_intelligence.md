@@ -655,6 +655,8 @@ Artificial Intelligence
   * [Jin Hyung Park - VDB (벡터 데이터베이스)는 세그먼트 수준에서 optimize가 이루어집니다. 하기... | Facebook](https://www.facebook.com/jypthemiracle/posts/pfbid02xRkvodQhremotmkLmVJsVU4woDbWsZ1Ueiecp3Z7gPBPd5y2iGXhJp9BYmLCZUj6l)
 * [Timescale Vector is PostgreSQL++ for AI applications | Timescale](https://www.timescale.com/ai)
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
+* [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer) vector DB는 아니고 비용 절감을 위한 대안의 예
+  * [Turbopuffer - 오브젝트 스토리지에서 빠른 검색 기술 | GeekNews](https://news.hada.io/topic?id=15775)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
 * [Vectorize: a vector database for shipping AI-powered applications to production, fast](https://blog.cloudflare.com/vectorize-vector-database-open-beta/)
