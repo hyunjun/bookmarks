@@ -924,6 +924,7 @@ App
   * [Atom 개발자가 만든 텍스트 에디터 Zed :: Outsider's Dev Story](https://blog.outsider.ne.kr/1665)
   * [VSC 경쟁자가 나타났다? Zed 의 등장! - YouTube](https://www.youtube.com/watch?v=_RIn7dSUkEg)
   * [Zed Decoded: Linux When? - YouTube](https://www.youtube.com/watch?v=O5XVVnA2LoY)
+  * [Zed 에디터 리눅스버전 출시 | GeekNews](https://news.hada.io/topic?id=15776)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
