@@ -318,6 +318,7 @@ Algorithm
 * [100배 더 빠른 경로 최적화 솔루션을 제공하는 기록적인 NVIDIA cuOpt 알고리즘 - NVIDIA Technical Blog](https://developer.nvidia.com/ko-kr/blog/record-breaking-nvidia-cuopt-algorithms-deliver-route-optimization-solutions-100x-faster)
 * [1 Billion Row Challenge](https://1brc.dev/)
 * [세션 게임의 매치메이킹 알고리즘. Elo, Glicko, TrueSkill, EOMM 그리고… | by scalalang2 | 취미로 논문 읽는 그룹 | Jun, 2024 | Medium](https://medium.com/rate-labs/%EC%84%B8%EC%85%98-%EA%B2%8C%EC%9E%84%EC%9D%98-%EB%A7%A4%EC%B9%98%EB%A9%94%EC%9D%B4%ED%82%B9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-c29989ddadcc)
+* [24' 현대모비스 알고리즘 대회 후기. 2024년 현대모비스 알고리즘 경진대회에 다녀왔습니다.  간단하게… | by scalalang2 | scalalang | Jul, 2024 | Medium](https://medium.com/scalalang/24-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8C%80%ED%9A%8C-%ED%9B%84%EA%B8%B0-c2ce076311ec)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
