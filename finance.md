@@ -76,6 +76,9 @@ Finance
     * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
   * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 - YouTube](https://www.youtube.com/watch?v=s4P8Rx1KdBk)
     * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/914043)
+* [제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면) - YouTube](https://www.youtube.com/watch?v=QGHZgpwO-4k)
+  * [VidiGo 제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면).mp4](https://vidigo.ai/share/summary/749fd46d76f2)
+  * [평범한 사람도 목돈 모으는 최적의 5가지 방법 ✅ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927504)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
