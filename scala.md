@@ -1419,8 +1419,8 @@ Scala
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
   * [Scala at Scale at Databricks - Li Haoyi - YouTube](https://www.youtube.com/watch?v=UiN6yZPAYww)
 * [scalar-conf.com](http://scalar-conf.com/)
+  * [SCALAR Conference 2024 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6Ni5S0uHcww3471-XjicW3s)
   * [Daniel Beskin CUSTOM-COMPILE ERRORS WITH A VENGEANCE Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=dQA4jslfFpw)
-  * [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
   * [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=sNos8aGjJMA)
     * [VidiGo Martin Odersky SCALA HAS TURNED 20 - Scalar Confe](https://vidigo.ai/share/summary/c20b612b4e18)
   * [Alexandru Nedelcu ELEMENTS OF JVM CONCURRENCY Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=jUe7WEVTUK4)
@@ -1441,6 +1441,7 @@ Scala
   * [Mehmet Akif Tütüncü DO I MISS WRITING SCALA? Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=FF0d1HoX04U)
   * [Paweł Kołodziejczyk LOOKING BEYOND THE SCOPE: SCALA APPLICATION FROM AN EXTERNAL LENS Scalar 2024 - YouTube](https://www.youtube.com/watch?v=CVdWGwMYHkg)
   * [Iulian Dragos Faster and less mysterious sbt builds with Develocity Lightning talk Scalar 2024 - YouTube](https://www.youtube.com/watch?v=bhm0KW1Nh8I)
+  * [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1485,6 +1486,7 @@ Scala
 * [Debugging and Observing Your Scala Code · Terse Systems](https://tersesystems.com/blog/2021/06/06/debugging-and-observing-your-scala-code/)
 
 # IDE
+* [Scala Space Podcast: The Future of Scala IDEs with Igal Tabachnik and Jędrzej Rochala - YouTube](https://www.youtube.com/live/I32naKlkIPk)
 
 ## IDE IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
@@ -1697,6 +1699,9 @@ Scala
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
   * [Data Juggling - Part 9 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 1)](https://www.youtube.com/watch?v=uQUimiHsLCw)
   * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
+  * [PureConfig](https://pureconfig.github.io/)
+    * [pureconfig: A boilerplate-free library for loading configuration files](https://github.com/pureconfig/pureconfig)
+    * [pureframes.eu/blog/pureconfig-scala3](https://pureframes.eu/blog/pureconfig-scala3)
 * [CosPlay - 2D ASCII Game Engine for Scala](https://cosplayengine.com/)
 * [Coursier](https://get-coursier.io/docs/cli-overview)
   * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
