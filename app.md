@@ -2349,6 +2349,7 @@ App
   * [회사 내 애로사항 및 개선점 응답 데이터 (from 직원 대상 익명 설문조사) 취합 및 처리하기 · Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io Wiki](https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io/wiki/%ED%9A%8C%EC%82%AC-%EB%82%B4-%EC%95%A0%EB%A1%9C%EC%82%AC%ED%95%AD-%EB%B0%8F-%EA%B0%9C%EC%84%A0%EC%A0%90-%EC%9D%91%EB%8B%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-(from-%EC%A7%81%EC%9B%90-%EB%8C%80%EC%83%81-%EC%9D%B5%EB%AA%85-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC)-%EC%B7%A8%ED%95%A9-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [알아두면 유용한 윈도우 및 맥용 엑셀 단축키 - CIO Korea](https://www.ciokorea.com/news/199979)
   * [스프레드시트가 비즈니스를 망치는 5가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/228424)
+  * [엑셀에서 주어진 생년월일로부터 만나이 구하기 · Wireframe](https://soooprmx.com/%ec%97%91%ec%85%80%ec%97%90%ec%84%9c-%ec%a3%bc%ec%96%b4%ec%a7%84-%ec%83%9d%eb%85%84%ec%9b%94%ec%9d%bc%eb%a1%9c%eb%b6%80%ed%84%b0-%eb%a7%8c%eb%82%98%ec%9d%b4-%ea%b5%ac%ed%95%98%ea%b8%b0/)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
@@ -2498,6 +2499,7 @@ App
     * 작년에 공개된 Dev Mode에서 개발을 쉽게 할 수 있도록 Ready for Dev View로 상태를 바꿀 수 있고 작업에 집중할 수 있는 Focus View
     * 디자인 시스템 도입을 쉽게 할 수 있도록 개발자 환경에서 디자인의 코드 샘플을 쉽게 연결할 수 있는 Code Connect
     * 자동 레이아웃 지원
+  * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
