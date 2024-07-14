@@ -958,6 +958,8 @@ Web
 * :user-invalid [CSS 가상 선택자로 폼 밸리데이션 표시하기 — :invalid 대신 :user-invalid – 형우의 웹개발](https://mytory.net/archives/16110)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [CSS Grid Generator](https://cssgridgenerator.io/)
+  * [CSS Grid Generator - 드래그 앤 드롭 CSS 그리드 생성기 | GeekNews](https://news.hada.io/topic?id=15829)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
 * [CSS Subgrid](https://web.dev/css-subgrid/)
   * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
@@ -993,6 +995,7 @@ Web
     * 이를 직접 사용하는 대신 Twin.Marco를 사용해서 Emotion CSS와 tailwind를 같이 쓸 수 있게 되었고 이를 적용하면서 적용했던 팁 정리
   * [Let's start a React/Next.js + Typescript + TailwindCSS project - Zhe-Jia's Blog](https://blog.zjzhang.org/post/Lets-start-a-React-Nextjs-Typescript-TailwindCSS-project)
   * [monorepo에 tailwindcss 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-tailwind)
+  * [tailwindcss에서 임포트 구문 사용하기 – 형우의 웹개발](https://mytory.net/archives/16696)
   * [shadcn-ui/ui: Beautifully designed components built with Radix UI and Tailwind CSS](https://github.com/shadcn-ui/ui)
     * shadcn-ui는 UI 라이브러리이면서 UI 라이브러리가 아님
     * UI 컴포넌트 코드가 파일로 추가되어 설치가 되는 특이한 방식으로 동작. 이러한 특성 덕분에, 코드 동작 및 스타일을 변경 용이
@@ -1103,6 +1106,7 @@ Web
 * [State of HTML 2023](https://2023.stateofhtml.com/)
   * HTML 생태계의 상황을 2만여 명에게 설문 조사해서 정리한 결과
   * From, 상호작용, 접근성 등 각 기능의 사용 여부와 알려진 정도를 살펴볼 수 있고 정적 사이트 생성기나 API의 사용 정도 파악 가능
+* [컨텐츠에 따라 높이가 자동으로 조절되는 textarea 구현하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/%EC%BB%A8%ED%85%90%EC%B8%A0%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%86%92%EC%9D%B4%EA%B0%80-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%A1%B0%EC%A0%88%EB%90%98%EB%8A%94-textarea-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
 * [HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
