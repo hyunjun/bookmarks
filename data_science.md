@@ -446,6 +446,7 @@ Data Science
 * [Vin Vashishta on LinkedIn: #data #analytics #datascience #consulting | 698 comments](https://www.linkedin.com/posts/vineetvashishta_data-analytics-datascience-activity-6979069102908682240-HKow/) data에 대한 재미있는 사진
 * [공통 데이터 언어 구축 기반 ‘시맨틱 레이어’ < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11514)
 * [예측 모델 마크업 언어 ‘PMML’...기업 데이터 활용 최대화 < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11832)
+* [마이데이터 플랫폼의 대용량 데이터 처리 개선! 구경 한번 해볼래? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mydata-platfrom-improvement/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
