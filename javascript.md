@@ -693,6 +693,8 @@ Javascript
 * [DOM 이란? (feat. BOM)](https://velog.io/@remon/Web-DOM-%EC%9D%B4%EB%9E%80-feat.-BOM)
 * [web 웹 컴포넌트를 위한 shadow dom과 custom element 그리고 template](https://blog.naver.com/pjt3591oo/222546552344)
 * [DOM 트리를 트리 자료구조로 바라보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1803/)
+* [How Deep is Your DOM? | Frontend at Scale](https://frontendatscale.com/blog/how-deep-is-your-dom/)
+  * [번역 당신의 DOM은 얼마나 깊은가요](https://velog.io/@eunbinn/how-deep-is-your-dom)
 * [Element가 서로 같은지 비교하기 | Univdev](https://www.univdev.page/posts/compare-elements/)
 * [A Toolkit to Harness the Full Power of JavaScript Functions](https://itnext.io/a-toolkit-to-harness-the-full-power-of-javascript-functions-633baaaba337)
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
@@ -866,6 +868,7 @@ Javascript
   * [**(번역) 자바스크립트 생태계를 더 빠르게** - 라이브러리 하나씩](https://velog.io/@superlipbalm/speeding-up-javascript-ecosystem)
 * [JavaScript Language Design and Implementation in Tandem | Communications of the ACM](https://dl.acm.org/doi/10.1145/3624723)
   * [KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=31089)
+* [주니어 FE 개발자의 색상 추출 라이브러리 개발기 - tech.kakao.com](https://tech.kakao.com/posts/627) K-means Clustering, 색상 추출 알고리즘
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2136,6 +2139,7 @@ Javascript
   * [create-react-app 에 ESLint 와 Prettier 적용하기](https://velopert.com/3671)
   * [Write attractive code with ESLint and Prettier](https://hackernoon.com/write-attractive-code-with-eslint-and-prettier-27d562b8ae9f)
   * [우리 팀을 위한 ESLint, Prettier 공유 컨피그 만들어보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15903/)
+  * [게슈탈트 법칙으로 이해하는 클린코드: 가독성의 비밀](https://velog.io/@teo/cleancode) prettier
   * [eslint 룰 만들기](https://medium.com/@ljs0705/eslint-%EB%A3%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-27113d4dc139)
   * [Catch errors earlier in development with the new Actions on Google linter](https://medium.com/google-developers/catch-errors-earlier-in-development-with-the-new-actions-on-google-linter-acd04c526ad1)
   * [create-react-app에서 eject 없이 eslint 사용하기](https://opnay.com/2019-11-07/create-react-app-eslint/)
@@ -5694,6 +5698,7 @@ Javascript
 * [React Hook Form 유연하고 확장 가능한 사용하기 쉬운 고성능 폼 검증 라이브러리](https://react-hook-form.com/kr/)
   * [React Form 컴포넌트 개발기](https://tech.inflab.com/202207-rallit-form-refactoring/colocation/)
   * [실전 예제로 알아보는 react hook form 사용법 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-react-hook-form-%EC%82%AC%EC%9A%A9%EB%B2%95/)
+  * [ChatGPT랑 비슷한 File Input 컴포넌트 구현하고 react-hook-form에 연동하기(파일 누적 관리하기) | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/chatgpt%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%9C-file-input-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0-react-hook-form%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0(%ED%8C%8C%EC%9D%BC-%EB%88%84%EC%A0%81-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)/)
 * [react-hookz](https://github.com/react-hookz)
   * [React의 맥가이버, react-use, react-hookz! - DEV Community](https://dev.to/composite/reactyi-maeggaibeo-react-use-react-hookz-57hm)
 * [react-hot-loader란?](https://egas.tistory.com/148)
@@ -6097,6 +6102,9 @@ Javascript
 * [프론트엔드 테스트 환경 설정하기 — React와 TypeScript를 좋아하는 개발자](https://xionwcfm.tistory.com/460)
 * [Good Code, Testable Code | Epic Web Dev](https://www.epicweb.dev/good-code-testable-code)
   * [(번역) 좋은 코드, 테스트 용이한 코드 | Ykss](https://ykss.netlify.app/translation/good_code_testable_code/)
+* [모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까?](https://toss.tech/article/firesidechat_frontend_3)
+  * [VidiGo 모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까?.mp4](https://vidigo.ai/share/summary/829c43a3c4f2)
+  * [모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927289)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
