@@ -136,6 +136,7 @@ Python
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 * [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
 * [Python Best Practices for a New Project in 2021 - Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
+* [Modern Good Practices for Python Development · Field Notes](https://www.stuartellis.name/articles/python-modern-practices/)
 * [Python Projects – Technozune](http://technozune.com/?cat=325)
 * [Python Extras – Technozune](http://technozune.com/?cat=329)
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
