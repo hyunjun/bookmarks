@@ -1211,6 +1211,7 @@ Business
 * [(2) 여현준 - 팀워크라는 헛소리 1. 일반적으로 팀워크는 헛소리에 불과하다. 대부분의 회사는 팀워크가 작동할 수 있는... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid02tLfcDqrZHXdPsDNUKY7B7Yqv7Ve5wj5azooWW18XXeJPjQ2cuajgGTAuZxrjcEBsl)
   * [여현준 on LinkedIn: #비즈니스로어](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7211850727516741633-qAeE)
 * [김정훈 on LinkedIn: 협업 시 유독 손이 많이 가는 사람이 있다. 그들의 대표적인 특징 중 하나는 커뮤니케이션이 수동적이라는 점이다. 일반적인 사례는… | 12 comments](https://www.linkedin.com/posts/%EC%A0%95%ED%9B%88-%EA%B9%80-18b04251_%ED%98%91%EC%97%85-%EC%8B%9C-%EC%9C%A0%EB%8F%85-%EC%86%90%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EB%8B%A4-%EA%B7%B8%EB%93%A4%EC%9D%98-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-activity-7213025886713888768-kD26)
+* [Erin Lee - 질문과 협업하는 방법은, 업무 방식과 사내 문화 형성과 관련이 있다 생각합니다. 시스템을 갖추고... | Facebook](https://www.facebook.com/erin20000/posts/pfbid0isTZhndEab3WnaA9DAZAs5dxev4QsxYfDHUjY1gWYx2EYNLakFqFqcuYGPypHsT9l)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
@@ -1564,6 +1565,7 @@ Business
 * [Platform Engineering KPIs. In this post, we will share our… | by Lambros Charissis | Wise Engineering | Medium](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
 * [**"엔지니어링은 무엇인가?" (What) "어떤 엔지니어링을 해야하는가?" (How)**](https://www.facebook.com/1ambda/posts/pfbid02fb8g96WMeEkJe9ZZYeNSdNDF335J7gLwLux6cezJGupPr6QQrGFxGmJEYAoXtG5Ll) KPI 이야기는 아니지만, 엔지니어링 측면에서 측정을 강조하고, 그 관점에서 보면 큰 맥락에서는 같이 볼 수도 있음
 * [What have you heard about The North Star Framework](https://www.linkedin.com/posts/olafioye-seyifunmi_what-have-you-heard-about-the-north-star-activity-7214523338180747265-0cF9/)
+* [북극성 지표에 대한 오해와 정성적 피드백의 중요성](https://brunch.co.kr/@yongjinjinipln/139)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -2391,6 +2393,8 @@ Business
 * [앞으로 더 중요해질 경영자의 스킬 세 가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/skill20240704)
 * [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
   * [엔지니어링 리더들을 위한 안티-패턴들(Anti-patterns) | GeekNews](https://news.hada.io/topic?id=15744)
+* [Understanding values: Schwartz theory of basic values – Integration and Implementation Insights](https://i2insights.org/2022/05/10/schwartz-theory-of-basic-values/)
+  * [Fit은 조직/직무 적합성이라고 이야기하는 경우가 많은데, 저는 Fit을 판단할 때 '가치관'과 '성격', 두 가지로 나눠서 접근](https://www.linkedin.com/posts/kangminlee_fit%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EA%B7%B8%EB%83%A5-%EB%91%90%EB%A3%A8%EB%AD%89%EC%8B%A4%ED%95%98%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%A7%81%EB%AC%B4-%EC%A0%81%ED%95%A9%EC%84%B1%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EA%B0%80-activity-7218165781627355136-2aL6/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2999,6 +3003,8 @@ Business
 * [AI 네이티브 제품 프라이싱 하는 방법 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%A0%9C%ED%92%88-%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Hyunsol Park on LinkedIn: AI 네이티브 제품 프라이싱 하는 방법 | Disquiet\*](https://www.linkedin.com/posts/hyunsolpark_ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%A0%9C%ED%92%88-%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-disquiet-activity-7211316857721479169-x5A3)
 * [사용자 이해와 가치 창출을 위한 도전](https://brunch.co.kr/@ebprux/1349)
+* [가치 제안 (Value Propostion) 연습하기](https://brunch.co.kr/@yongjinjinipln/140) value prop statement, Steve Blank xyz framework
+  * [Gemini - “Summarize using nested bullets and quotes: (https://www.youtube.com/watch?v=q8d9uuO1Cf4&t=477s )."](https://gemini.google.com/share/c04455642464)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -3084,6 +3090,9 @@ Business
 * [한국에서의 product manager란 무엇인가](https://www.linkedin.com/feed/update/urn:li:activity:7190217874848862208/)
 * [PM의 숨은 힘 - 조직의 전략적 사고와 혁신을 이끌다](https://brunch.co.kr/@ebprux/1352)
 * [Good PM vs Great PM: Be the MVP (Most Valuable PM)](https://www.linkedin.com/posts/sachin-sharma-product-career-coach_good-pm-vs-great-pm-be-the-mvp-most-valuable-activity-7209412430064488449-b4zX/)
+* [AI 시대의 프로덕트 매니저에게 필요한 스킬](https://brunch.co.kr/@yongjinjinipln/136)
+* [PM의 역량 강화를 방해하는 10가지 장벽](https://brunch.co.kr/@yongjinjinipln/137)
+* [Google PM이 설명하는 PM의 책임](https://brunch.co.kr/@yongjinjinipln/142)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
