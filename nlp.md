@@ -318,6 +318,7 @@ NLP
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
+* [AI 데이터 분석가 ‘물어보새’ 등장 – 1부. RAG와 Text-To-SQL 활용 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18144/)
 * [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
 * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
   * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
@@ -2106,6 +2107,7 @@ NLP
   * [LLM 할루시네이션을 10배 감소 시키는 메모리 튜닝](https://www.linkedin.com/feed/update/urn:li:activity:7207552674488094720/)
 * [Meta LLM 컴파일러 발표 | GeekNews](https://news.hada.io/topic?id=15601)
 * [스팸 콘텐츠 대응을 위한 카카오의 대규모 언어 모델(LLM) 도입 사례 / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/626)
+* [AI Convergence :: Embedding 중간값과 백터](https://mobicon.tistory.com/605)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2734,6 +2736,8 @@ NLP
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
+* [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
+  * [RouteLLM - LLM 라우터 서빙 및 평가를 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=15800)
 * [Sakura-SOLAR-DPO: Sakura-SOLAR-DPO: Merge, SFT, and DPO](https://github.com/KyujinHan/Sakura-SOLAR-DPO)
 * [sec-insights: A real world full-stack application using LlamaIndex](https://github.com/run-llama/sec-insights)
   * [Discover LlamaIndex: SEC Insights, End-to-End Guide - YouTube](https://www.youtube.com/watch?v=2O52Tfj79T4)
@@ -2965,6 +2969,8 @@ NLP
     * Retrieval 에서는 NDCG MRR MAP … 등
     * Generation 에서는 Bleu rouge Bert score METOR 등
     * LLM as a judge 관점을 활용한 single point , reference based , pair wise based scoring ...
+  * [Graph RAG은 무엇인가?](https://turingpost.co.kr/p/graph-rag)
+    * [RAG의 한계와 Graph RAG의 이점](https://www.linkedin.com/posts/jinsoo-lee33_graph-rag%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-rag%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-graph-rag%EC%9D%98-%EC%9D%B4%EC%A0%90-activity-7218047969256779779-BNHI/)
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
@@ -3967,6 +3973,8 @@ NLP
   * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
 * [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
+* [moshi.chat](https://us.moshi.chat/)
+  * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
 * [MVSEP - Music & Voice Separation](https://mvsep.com/en)
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
@@ -4053,6 +4061,8 @@ NLP
     * [그래픽카드로 자막을 만든다? 무료 Ai 자막 생성 프로그램 Whisper-WebUI - YouTube](https://www.youtube.com/watch?v=jRbdj27J6b8)
   * [WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
     * [인프런이 자동으로 자막을 생성하기까지 (AI/인프라 편)](https://tech.inflab.com/20231031-inflearn-subtitle/)
+* [Return Zero Inc. - The future of next-generation speech AI](https://www.rtzr.ai/en)
+  * [음성인식 API (STT API) - RTZR STT](https://developers.rtzr.ai/)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
