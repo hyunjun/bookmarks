@@ -1053,6 +1053,7 @@ Git
     * Stacked PR이 필요한 이유와 함께 GitHub에서 실제로 Stacked PR을 만들려면 어떻게 하는지까지 보여주어서 이해하기가 좋음
     * 이러한 과정을 쉽게 도와주는 도구와 문제점도 같이 설명
   * [GitHub - Issue & PR Template :: iOYES](https://green1229.tistory.com/479)
+  * [PR 생성될때, 자동으로 이미지 용량 최적화 하기. 기존에는 TinyPNG로 직접 이미지용량을 줄여서 앱/웹에… | by Ted Park | PRND | Jul, 2024 | Medium](https://medium.com/prnd/pr-%EC%83%9D%EC%84%B1%EB%90%A0%EB%95%8C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9A%A9%EB%9F%89-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0-918a1470ab5f)
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
   * `git pull --rebase`
     * [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
@@ -1443,6 +1444,7 @@ Git
   * [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI :: Outsider's Dev Story](https://blog.outsider.ne.kr/1717)
   * [Copilot 깃허브 코파일럿은 어떻게 작동하는가? | Daily Log](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
   * [Github Copilot 기능 톺아보기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/9417)
+  * [쉽게 살 수 있을까 ? :: GitHub Copilot 소송..](https://hl1itj.tistory.com/263)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
