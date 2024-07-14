@@ -390,6 +390,7 @@ Redis
 * [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)
 * [Stream 사용 방법](https://jybaek.tistory.com/935)
 * [실시간 추천 서비스를 위해 메시지 큐잉 도입하기(with Redis Streams)](https://techblog.lycorp.co.jp/ko/building-a-messaging-queuing-system-with-redis-streams)
+* [Redis Stream 적용기](https://ebay-korea.tistory.com/113)
 
 # Tutorial
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
