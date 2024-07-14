@@ -82,3 +82,6 @@ Psychology
 * [‘피할 수 없으면 즐겨라’는 그럴듯한 거짓말이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263258) 인지부조화 cognitive dissonance
 * [언젠가 써먹는 심리효과 101](https://slashpage.com/haebom/psychology101)
   * [언젠가 써먹는 심리효과 101 | GeekNews](https://news.hada.io/topic?id=11481)
+* [멘탈관리와 GPT](https://jayoung.blog/mental-health-care-gpt/)
+  * [디스턴싱 - 마음 문제 해결](https://orwell.distancing.im/)
+  * [stoic. | The Best Journal App for iPhone, Mac, iPad, and Apple Vision Pro](https://www.getstoic.com/)
