@@ -353,6 +353,7 @@ Programmer
 * [Managing My Motivation, as a Solo Dev](https://mbuffett.com/posts/maintaining-motivation/)
   * [1인 개발자로서 동기 부여 관리하기 | GeekNews](https://news.hada.io/topic?id=15206)
 * [지금 프로그래밍을 하고 있는 당신은 누구인가 | Evans Library](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
+* [엔지니어 영어 실력 어떻게 향상할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/10/developer-english/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
@@ -400,6 +401,10 @@ Programmer
 * [Curated paths for developers | pathify](https://pathify.dev/)
 * [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
 * [한기용 - 승진, 커리어](https://www.linkedin.com/posts/activity-6976585732786176001-6ALl/)
+* [인정받는 주니어, 시니어, 리더의 모습은? - YouTube](https://www.youtube.com/watch?v=gkgb3SY81Mc)
+  * [인정받는 주니어, 시니어, 리더의 모습은?](https://www.linkedin.com/posts/activity-7218111756353646592-Z0Bb/)
+  * [VidiGo 인정받는 주니어, 시니어, 리더의 모습은? - YouTube](https://vidigo.ai//share/summary/9cc8ec443f22)
+  * [인정받는 주니어, 시니어, 리더의 모습은? | Lilys AI](https://lilys.ai/digest/926992)
 * [Part 0 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223072810529)
 * [Part 1 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223073082777)
 * [Part 2 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223074172802)
