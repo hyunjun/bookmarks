@@ -3439,6 +3439,9 @@ Programming
   * Atlassian이 이러한 문제를 해결하기 위해 LexoRank 작성
     * 사전적 정렬을 위해 `Bucket|FixedKey:VariableKey`를 사용해 O(1) 정렬 가능, 공간 고갈 시 무중단으로 재조정
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
+* [Tegon AI](https://www.tegon.ai/)
+  * [tegon: Tegon is an open-source, AI-first alternative to Jira, Linear](https://github.com/tegonhq/tegon)
+  * [Tegon - 오픈소스 Jira/Linear 대체제 | GeekNews](https://news.hada.io/topic?id=15795)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -3801,6 +3804,8 @@ Programming
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
 * [Upstash: Serverless Data for Redis® and Kafka®](https://upstash.com/)
   * [사이드 프로젝트에 사용하기 좋은 upstashcom 서... | 커리어리](https://careerly.co.kr/comments/86269)
+* [tau: Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
+  * [Tau - Vercel / Netlify / Cloudflare 를 대체 가능한 오픈소스 | GeekNews](https://news.hada.io/topic?id=15811)
 * [terrajet: Generate Crossplane Providers from any Terraform Provider](https://github.com/crossplane/terrajet)
   * [Announcing 100% Cloud Service Coverage for Crossplane](https://blog.upbound.io/cloud-service-coverage/)
     * Crossplane이 Terraform의 프로바이더에서 Crossplane 프로바이더를 생성해주는 Terrajet 작성
@@ -4259,6 +4264,8 @@ Programming
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
 * [calltospeakers.com](https://calltospeakers.com)
+* [Datadog Dash 2024 참석기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1727)
+* [Datadog Dash 2024 참석기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1728)
 * [DASH 2024: Guide to Datadog's Newest Announcements | Datadog](https://www.datadoghq.com/blog/dash-2024-new-feature-roundup-keynote/)
   * 뉴욕에서 지난 25~26일 열린 Datadog의 Dash 콘퍼런스에서 새로운 기능 발표
     * LLM 애플리케이션을 모니터링할 수 있는 LLM Observability 공개
@@ -6559,6 +6566,7 @@ Programming
   * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/06/b-6-3.html)
   * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/06/b-6-4.html)
   * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-1.html)
+  * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -7833,6 +7841,10 @@ Programming
 * [Interaction Protocols: It's All About Good Manners • Martin Thompson • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=1Tx7LNERap0)
   * [VidiGo Interaction Protocols: It's All About Good Manners](https://vidigo.ai/share/summary/c537b47c298b)
   * [상호작용 프로토콜: 좋은 매너에 관한 모든 것 - 마틴 톰슨 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/889273)
+* [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
+  * [금융 시스템 구축을 위한 엔지니어링 원칙 | GeekNews](https://news.hada.io/topic?id=15794)
+* [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product at andrewchen](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
+  * [Next Feature Fallacy: 새로운 기능을 추가하면 사람들이 갑자기 제품을 사용 | GeekNews](https://news.hada.io/topic?id=15788)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
@@ -8743,6 +8755,8 @@ Programming
 * [Diving Into the VOID • Casey Rosenthal • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=B0YcmMfW-kI)
   * [VidiGo Diving Into the VOID • Casey Rosenthal • GOTO 2024](https://vidigo.ai/share/summary/2a05add8d3b9)
   * [다이빙 인투 더 보이드 - 케이시 로젠탈 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698390)
+* [치지직 알림 봇 로직 개선하기. 방송 알림 로직을 10분에서 15초 ~ 1분 20초로 개선한 경험을… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%80%EC%A7%81-%EC%95%8C%EB%A6%BC-%EB%B4%87-%EB%A1%9C%EC%A7%81-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1309b8fe1f3a)
+  * [치직 취약점 노출 사건 회고. 치지직 알림 디스코드 봇의 취약점이 노출되어 일부 서버에 테러 행위가… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%81-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%85%B8%EC%B6%9C-%EC%82%AC%EA%B1%B4-%ED%9A%8C%EA%B3%A0-890081dde217)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
