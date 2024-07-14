@@ -182,6 +182,10 @@ Linux
 * [What is PID 0? · blog.dave.tf](https://blog.dave.tf/post/linux-pid0/)
   * [PID 0란 무엇인가? | GeekNews](https://news.hada.io/topic?id=15239)
 * [Linux System Requirements for Smooth Performance](https://www.botspidy.com/2024/06/linux-system-requirements-for-smooth.html)
+* [Living with Linux and Android after two decades of Apple](https://world.hey.com/dhh/living-with-linux-and-android-after-two-decades-of-apple-4f730084)
+  * [20년간의 Apple 생활 이후 Linux 및 Android와 함께 생활하기 (Living with Linux and Android after two decades of Apple) - DHH | Write the code. Change the world.](https://kyoungwon.me/articles/2024/07/11/Living-with-Linux-and-Android-after-two-decades-of-Apple/)
+* [Linux as the new developer default at 37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
+  * [37signals의 새로운 개발자 기본 환경인 Linux (Linux as the new developer default at 37signals) - DHH | Write the code. Change the world.](https://kyoungwon.me/articles/2024/07/06/Linux-as-the-new-developer-default-at-37signals/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -1210,6 +1214,8 @@ Linux
 * [like-dbg: Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
 * [Nanos.org](https://nanos.org/)
   * [Nanos - 빠른 코드 실행을 위한 Unikernel | GeekNews](https://news.hada.io/topic?id=13841)
+* [No more boot loader: Please use the kernel instead :: DevConf.CZ :: pretalx](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
+  * [nmbl(No More Boot Loader): 부트로더 대신 커널을 사용 | GeekNews](https://news.hada.io/topic?id=15802)
 * [OPS - Easily Build and Run Unikernels](https://ops.city/)
 
 ## Kernel eBPF
