@@ -528,6 +528,7 @@ Business
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
+* [Kangmin Lee on LinkedIn: 중이 제 머리를 못 깎는다고 하죠. 저는 HR이 제 머리 못 깎는 아주 대표적인 케이스라고 생각합니다. 유독 HR부문은… | 19 comments](https://www.linkedin.com/posts/kangminlee_%EC%A4%91%EC%9D%B4-%EC%A0%9C-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EB%AA%BB-%EA%B9%8E%EB%8A%94%EB%8B%A4%EA%B3%A0-%ED%95%98%EC%A3%A0-%EC%A0%80%EB%8A%94-hr%EC%9D%B4-%EC%A0%9C-%EB%A8%B8%EB%A6%AC-%EB%AA%BB-%EA%B9%8E%EB%8A%94-%EC%95%84%EC%A3%BC-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-activity-7206466143350378496-qncU)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
 * [최동석인사조직연구소 - YouTube](https://www.youtube.com/channel/UC_KcAruX5HZR_Ei_XtSMENw/videos)
 * [Data-Driven하게 일하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1785/)
@@ -1102,6 +1103,7 @@ Business
   * 2. 목표를 달성하는 과정에서 보여준 행동
   * 3. 미래를 위한 성장 잠재력
 * [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
+* [여현준 on LinkedIn: #비즈니스로어 - 기업이 저성과자 퇴출 제도를 장기간 운영했을 때 벌어지는 일](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7216924152052543495-GNFq)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -1491,6 +1493,7 @@ Business
   * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
 * [Scaling Teams at Sanity, Github, and Google 🏢 — with Rachel Potvin - YouTube](https://www.youtube.com/watch?v=-cRZOSfE4yA&t=486s)
   * [레이첼 포트빈과 함께 하는 Sanity, Github, Google의 팀 확장하기 🏢 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747733)
+* [디스콰이엇 CTO 3개월 수습 기간 회고 | Disquiet\*](https://disquiet.io/@wonny727/makerlog/%EB%94%94%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%97%87-cto-3%EA%B0%9C%EC%9B%94-%EC%88%98%EC%8A%B5-%EA%B8%B0%EA%B0%84-%ED%9A%8C%EA%B3%A0)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -3005,6 +3008,13 @@ Business
 * [사용자 이해와 가치 창출을 위한 도전](https://brunch.co.kr/@ebprux/1349)
 * [가치 제안 (Value Propostion) 연습하기](https://brunch.co.kr/@yongjinjinipln/140) value prop statement, Steve Blank xyz framework
   * [Gemini - “Summarize using nested bullets and quotes: (https://www.youtube.com/watch?v=q8d9uuO1Cf4&t=477s )."](https://gemini.google.com/share/c04455642464)
+* [Yeon Seung Hong on LinkedIn: 1. 문제 진단과 프레임워크 - 모든 캠페인의 시작](https://www.linkedin.com/posts/yeon-seung-hong-89283717_1-%EB%AC%B8%EC%A0%9C-%EC%A7%84%EB%8B%A8%EA%B3%BC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%AA%A8%EB%93%A0-%EC%BA%A0%ED%8E%98%EC%9D%B8%EC%9D%98-%EC%8B%9C%EC%9E%91-activity-7208796231039426560-O7-u)
+  * [1. 문제 진단과 프레임워크 - 모든 캠페인의 시작](https://brunch.co.kr/@yeonnnh/2)
+  * [2. 메시지 상위기획 - 선긋기와 디스럽션](https://brunch.co.kr/@yeonnnh/3)
+  * [3-1. 돈을 어디에, 어떻게, 얼마나 써야할까? 1부](https://brunch.co.kr/@yeonnnh/4)
+  * [3-2.돈을 어디에, 어떻게, 얼마나 써야 할까? 2부](https://brunch.co.kr/@yeonnnh/5)
+* ['PC지원 종료' 무신사 사례로 본 모바일 VS PC 흥미로운 통계 모음 | Disquiet\*](https://disquiet.io/@hatchhiker_marketing/makerlog/pc%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C-%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-vs-pc-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%86%B5%EA%B3%84-%EB%AA%A8%EC%9D%8C)
+* [프로덕트 성장 전략 1: 타깃 오디언스 정의의 흔한 오류 | 매쉬업벤처스](https://www.mashupventures.co/contents/target-audience-mistakes-and-how-to-do-user-interview-for-growth)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
