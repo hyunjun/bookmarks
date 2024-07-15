@@ -781,6 +781,7 @@ Programming
 * [hop](https://github.com/Jarred-Sumner/hop) Simple archive format designed for quickly reading some files without extracting the entire archive
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
 * [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
+* [Vite는 '비트' 일까요 '바이트'일까요? '데브말싸미'에서 확인해보세요! | Disquiet\*](https://disquiet.io/@knyoung0113/makerlog/%EB%94%94%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%97%87-%EB%A9%94%EC%9D%B4%EC%BB%A4%EB%A1%9C%EA%B7%B8)
 * [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
   * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
 * [If not fixed, our code will fail every Sunday](https://jolo.xyz/blog/2021/10/25/dayofweek-inconsistency) 언어별로 서로 다른 요일값. datetime은 항상 어렵다
@@ -981,6 +982,12 @@ Programming
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
 * [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
 * [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2106/)
+* [Idempotence vs. Determinism](https://nolongerset.com/idempotence-vs-determinism/)
+  * Idempotent functions can safely be run multiple times
+    * Idempotency does not imply determinacy (as a function can alter state on the first call while being idempotent on subsequent calls)
+  * Deterministic functions always return the same outputs given the same inputs
+    * All pure deterministic functions are inherently idempotent (as there is no internal state to persist between calls)
+    * Impure deterministic functions are not necessarily idempotent
 * [Bit(Binary digit) Byte 의 고찰. 최근 우리가 다루는 용량이 매우 커져서 작은 용량은 무시해도 될 수준이… | by Chase | 직방 기술 블로그 | Dec, 2023 | Medium](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 * [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
@@ -3723,6 +3730,7 @@ Programming
   * [셀룰러 아키텍처로 클라우드에서 고가용성을 위한 아키텍처 구축하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/767718)
 * [애플이 오픈AI와 함께하는 것은 MS 때문입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/appleopenaims20240703)
   * 의외로 많은 Azure DC와 의외로 적은 Google DC. Google은 cloud 사업에는 별 뜻이 없을까?
+* [Public Cloud의 새 레퍼런스를 만드는 사람들](https://brunch.co.kr/@kakaobankplus/122?li_fat_id=1e54f775-02ab-4c1c-b7de-1ba845641595)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
