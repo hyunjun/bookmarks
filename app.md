@@ -758,6 +758,8 @@ App
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
+* [Ace | AI Project Manager](https://withace.ai/)
+  * [24인조 걸그룹을 만들던 개발자는 왜 PM을 위한 SaaS를 창업했을까? | Disquiet\*](https://disquiet.io/@therne/makerlog/24%EC%9D%B8%EC%A1%B0-%EA%B1%B8%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%8D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%99%9C-pm%EC%9D%84-%EC%9C%84%ED%95%9C-saa-s%EB%A5%BC-%EC%B0%BD%EC%97%85%ED%96%88%EC%9D%84%EA%B9%8C)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 * [monday.com](https://monday.com/)
