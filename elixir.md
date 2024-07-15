@@ -157,6 +157,7 @@ Elixir
 * [Intro to Genetic Algorithms with Elixir | abjork.land](https://abjork.land/articles/elixir/intro-to-genetic-algorithms-with-elixir/)
 * [Clustering Elixir From Laptop to Cloud · The Phoenix Files](https://fly.io/phoenix-files/clustering-elixir-from-laptop-to-cloud/)
 * [How to Use Flume in your Elixir Application | AppSignal Blog](https://blog.appsignal.com/2024/04/02/how-to-use-flume-in-your-elixir-app.html)
+* [Agent with Learn Elixir's Alvaro Callero - YouTube](https://www.youtube.com/watch?v=lcf4tfrkVTE)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
