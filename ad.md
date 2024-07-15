@@ -39,6 +39,8 @@
 * [Diyar Mohammadi - Near-Duplicate Ad Detection in Online Classified Ad Services | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=CcsqasfszjE)
 * [몰락 이후의 퍼포먼스 마케팅](https://eopla.net/magazines/1686)
 * [예산 제어 시스템 개선기: Part 1 – 시스템과 가시성 개선](https://tech.buzzvil.com/blog/budget-pacing-improvement-part-1/)
+* [광고 예산 제어 시스템 개선기: Part 2 – 더 정교한 시스템, 그리고 성과](https://tech.buzzvil.com/blog/budget-pacing-improvement-part-2/)
+* [그래디언트 부스팅 모델을 이용하여 광고 예산 도출하기](https://www.madup.com/61847208-3d07-40ae-b69b-16b94f26931e)
 * [광고 수익화 여정을 떠나는 개발자를 위한 안내서. 앱내 광고 수익화를 위해 개발자가 꼭 알아야하는 기본 개념 101 | by leeokmin | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EC%95%B1%EB%82%B4-%EA%B4%91%EA%B3%A0-%EC%88%98%EC%9D%B5%ED%99%94-%EC%97%AC%EC%A0%95%EC%9D%84-%EB%96%A0%EB%82%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C-4744b0aaf68e)
 * [12화 마케팅 언어를 어떻게 관성에서 구출할 수 있을까?](https://brunch.co.kr/@cliche-cliche/217)
 * [To Bid, or not to Bid – Reinforcement Learning for Real Time Bidding / Doron Hai Reuven (Intango) - YouTube](https://www.youtube.com/watch?v=kptxrinMJNc)
