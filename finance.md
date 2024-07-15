@@ -44,6 +44,9 @@ Finance
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
 * [How to transfer your stocks to your broker with DTC (Depository Trust Company) code | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-transfer-your-stocks-to-your-broker-with-dtc-depository-trust-company-code-1448628bfb3e) RSU같은 stock option을 받았을때 Broker로 트랜스퍼하는 방법
 * [**월급쟁이 주식투자 하는 법 (feat. 퇴직금)**](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
+* ["나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀버전) - YouTube](https://www.youtube.com/watch?v=wFZwsbQnLzw)
+  * [VidiGo "나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀](https://vidigo.ai/share/summary/f30ea11b2cc4)
+  * ["나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀버전) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/933496)
 * [재편집본 연금저축, IRP 잘못 가입하면 세금 토해낼 수 있습니다 - YouTube](https://www.youtube.com/watch?v=EQfK73-WaLk) 퇴직
 * [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw) 퇴직
 * [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
