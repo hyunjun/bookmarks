@@ -692,6 +692,8 @@ App
   * [Switching from pyenv, rbenv, goenv and nvm to asdf · jinyuz.dev](https://jinyuz.dev/2020/07/switching-from-pyenv-rbenv-goenv-and-nvm-to-asdf/)
   * [Asdf Performance - Stratus3D](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
   * [installation and java test](https://gist.github.com/hyunjun/ac91460a60e67a7e53f5d59d96ac0bb3#file-installation_and_java_test-md)
+  * [installation and python test](https://gist.github.com/hyunjun/ac91460a60e67a7e53f5d59d96ac0bb3?permalink_comment_id=5124409#file-installation_and_python_test-md)
+    * [installation of poetry & mysqlclient](https://gist.github.com/hyunjun/ac91460a60e67a7e53f5d59d96ac0bb3#file-poetry_and_mysqlclient_test_after_asdf-md)
   * [ASDF: a version manager every software engineer should use in 2023 - YouTube](https://www.youtube.com/watch?v=4-tYwl12uyE)
   * [asdf-python](https://github.com/danhper/asdf-python)
 * buildbox
