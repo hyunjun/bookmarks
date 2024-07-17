@@ -354,6 +354,8 @@ Programmer
   * [1인 개발자로서 동기 부여 관리하기 | GeekNews](https://news.hada.io/topic?id=15206)
 * [지금 프로그래밍을 하고 있는 당신은 누구인가 | Evans Library](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
 * [엔지니어 영어 실력 어떻게 향상할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/10/developer-english/)
+* [How To Know When It's Time To Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+  * [떠날 때를 아는 방법 | GeekNews](https://news.hada.io/topic?id=15851)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
