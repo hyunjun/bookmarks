@@ -1532,6 +1532,8 @@ Business
   * [BigCorp의 워들리 매핑 전략 - 실화 - Erik Schoen - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/740578)
     * 간단한 캔버스로 준비한 Wardley Mapping에서는 목적, 범위, 사용자, 사용자 요구사항, 가치 사슬이 핵심
 * [대기업 사업전략 담당자가 100개 스타트업 코칭하고 깨달은 것](https://eopla.net/magazines/17410)
+* [최효석 - 오늘은 경영 전략의 Golden rule인 STP전략에 대해 한번 알아보겠습니다. 컨설팅 많이 해보신... | Facebook](https://www.facebook.com/whyhyo/posts/pfbid0EQK6pbM3v5yK5K7cBXtZRDkrmpi86PM6K7FBQ1nYdrV6Lxe1YYUAfmfVUXqdqFcwl)
+  * 1. Segmentation 2. Targeting 3. Positioning
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
