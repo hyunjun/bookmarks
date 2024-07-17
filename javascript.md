@@ -3001,6 +3001,8 @@ Javascript
     * 이 기능은 퍼플릭 패키지와 퍼블릭 저장소에서만 사용 가능
     * 어떤 커밋에서 어떤 빌드 파일로 발생하였는지를 쉽게 확인할 수 있게 연결
   * [npm에 라이브러리 릴리즈하고 운영하기 — 개발후라이](https://egg-programmer.tistory.com/322)
+  * [Extremely reducing the size of NPM packages - DEV Community](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
+    * [번역 NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
   * npkill [node_modules 대청소 - YouTube](https://www.youtube.com/shorts/0b8HHK6Zs-E)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
