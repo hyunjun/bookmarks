@@ -399,7 +399,7 @@ Programmer
 * [The Secret to Finding Impactful Projects to Land a Staff-Plus Engineer Role - YouTube](https://www.youtube.com/watch?v=MO793FafKwQ)
 * [Why You Should Build a “Career Portfolio” (Not a “Career Path”)](https://hbr.org/2021/10/why-you-should-build-a-career-portfolio-not-a-career-path)
 * [Curated paths for developers | pathify](https://pathify.dev/)
-* [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
+* [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)
 * [한기용 - 승진, 커리어](https://www.linkedin.com/posts/activity-6976585732786176001-6ALl/)
 * [인정받는 주니어, 시니어, 리더의 모습은? - YouTube](https://www.youtube.com/watch?v=gkgb3SY81Mc)
   * [인정받는 주니어, 시니어, 리더의 모습은?](https://www.linkedin.com/posts/activity-7218111756353646592-Z0Bb/)
