@@ -445,6 +445,7 @@ Elixir
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
+  * [Plugs in Elixir Phoenix Part 1. What are plugs in elixir? | by victor Mbashia | Jul, 2024 | Medium](https://medium.com/@mbashiavictor/plugs-in-elixir-phoenix-part-1-a5b2a3668e5b)
   * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
