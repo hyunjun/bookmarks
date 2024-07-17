@@ -487,6 +487,7 @@ Business
 * [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
 * [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
 * [일잘러가 되기 위해 필요한 지적 능력 세 가지](https://www.linkedin.com/posts/jinho-yoo_sakteiqwiswmrxgslq-activity-7199719774824669185-rfFZ) 맥락 지능(Contextual Intelligence), 분석 지능(Analytical Intelligence), 운영 지능(Operational Intelligence)
+* [효율적으로 일하려면 고려해볼 4가지 포인트](https://www.linkedin.com/posts/activity-7218647553393754112-zFAN/)
 * [한빛N MSA 후기 일을 잘하는 방법](https://yeonyeon.tistory.com/321) 목표를 정하는 방법, 문서화의 목적, 우선순위를 조율하는 법, 설득에 대한 태도 바로잡기
 * [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
 * [일잘 + 일못 = 일못, 프로세스의 필요성](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid024abcvMsdRBnz7U8CwZmXDVvTQsicZMsZXSF3p1KUCc9vUabQFP1HcvWUMQ6UTEcHl)
@@ -778,6 +779,7 @@ Business
 * [리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 | 퍼스트잇 - YouTube](https://www.youtube.com/watch?v=srXFr9ZbyWw)
   * [VidiGo 리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 |](https://vidigo.ai/share/summary/156ca459f1a5)
   * [리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 | 퍼스트잇 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/887004)
+* [원온원이 잘 (안) 되는 조직](https://www.linkedin.com/posts/elfpenguin_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%EC%9B%90%EC%98%A8%EC%9B%90-%EC%A0%80%EC%9E%90-%EB%B0%B1%EC%A2%85%ED%99%94-%EC%BD%94%EC%B9%98%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%98%A8%EC%9B%90%EC%9D%B4-%EC%9E%98-%EC%95%88-%EB%90%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%9D%98-activity-7219122723711508480-3H2i/)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -3105,6 +3107,11 @@ Business
 * [AI 시대의 프로덕트 매니저에게 필요한 스킬](https://brunch.co.kr/@yongjinjinipln/136)
 * [PM의 역량 강화를 방해하는 10가지 장벽](https://brunch.co.kr/@yongjinjinipln/137)
 * [Google PM이 설명하는 PM의 책임](https://brunch.co.kr/@yongjinjinipln/142)
+* [Am I being exploited as a PM?](https://www.linkedin.com/posts/vishal-bagla_productmanagement-productmanagers-interviewprep-activity-7217777293589422080-ffrL/)
+  * comment에서
+    * 1. PM is a generalist job role in the junior years
+    * 2. Anything remotely related to the product is in a PMs scope of work
+    * 3. In an organisation, no matter the title, no matter the level, you have to do what your boss asks you to do within reason
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
