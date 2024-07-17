@@ -519,6 +519,14 @@ Artificial Intelligence
 * [Benedict Evans - The AI Summer](https://brunch.co.kr/@yongjinjinipln/143)
 * [AI Tool 소개 by Peter Yang](https://brunch.co.kr/@yongjinjinipln/141)
 * [Bringing AI-powered answers and summaries to file previews on the web - Dropbox](https://dropbox.tech/machine-learning/bringing-ai-powered-answers-and-summaries-to-file-previews-on-the-web)
+* [AGI KR | Lex Fridman 팟캐스트에 AI 검색서비스를 만들고 있는 Perplexity CEO인 Aravind Srinivas가 인터뷰한 내용이 올라왔습니다 | Facebook](https://www.facebook.com/groups/agikr/posts/2342124782795233)
+  * 1. 소스에 충실할 것
+  * 2. 그럼에도 불구하고, Hallucination이 여러가지 이유로 발생할 수 있다
+  * 3. 검색 (인덱싱, 랭킹)을 잘 하기 위한 기술 요소들
+  * 4. Perplexity의 Sonar 모델, 그럼에도 Model-agnostic하게 만들기
+  * 5. Latency가 매우 낮고, 계속 낮아지게 하는 동력에 관해서
+* [Disquiet on LinkedIn: RISE | Disquiet\*](https://www.linkedin.com/posts/disquiet_rise-disquiet-activity-7215992365658820608-RnPf)
+* [LLM과 모바일 UX의 매력적인 만남, 트레이스 | by Corca | Corca | Jul, 2024 | Medium](https://medium.com/corca/llm%EA%B3%BC-%EB%AA%A8%EB%B0%94%EC%9D%BC-ux%EC%9D%98-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EB%A7%8C%EB%82%A8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-3efc2c9650b9)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
