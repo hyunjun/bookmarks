@@ -174,6 +174,7 @@ Finance
 * ELB
   * [단점까지 알고 활용하세요. - YouTube](https://www.youtube.com/watch?v=BGaCBB7VkNI)
     * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
+* [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
