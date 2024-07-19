@@ -605,6 +605,7 @@ iOS
 * [Swift Multi-Threading using GCD For Beginners](https://hackernoon.com/swift-multi-threading-using-gcd-for-beginners-2581b7aa21cb)
 * [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://hackernoon.com/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd)
 * [UIKit에서 ViewController간 데이터 전달 :: iOYES](https://green1229.tistory.com/441)
+* [UIScrollView의 contentInsetAdjustmentBehavior :: iOYES](https://green1229.tistory.com/491) UIKit
 * [TextField 시뮬레이터 버그 (Timeout) :: iOYES](https://green1229.tistory.com/459)
 * [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
@@ -802,6 +803,7 @@ iOS
 * [SwiftUI - ContentUnavailableView :: iOYES](https://green1229.tistory.com/483)
 * [What's new in SwiftUI (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/488)
 * [Demystify SwiftUI containers (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/489)
+* [SwiftUI - ViewThatFits :: iOYES](https://green1229.tistory.com/490)
 
 # TDD, Test
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
