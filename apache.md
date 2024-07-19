@@ -82,6 +82,8 @@ Apache
 * [DBT와 Airflow 도입하며 마주한 7가지 문제들. 안녕하세요. 당근마켓 데이터 가치화팀의 Henry예요. | by Kim Dojin | 당근 테크 블로그 | Jan, 2024 | Medium](https://medium.com/daangn/dbt%EC%99%80-airflow-%EB%8F%84%EC%9E%85%ED%95%98%EB%A9%B0-%EB%A7%88%EC%A3%BC%ED%95%9C-7%EA%B0%80%EC%A7%80-%EB%AC%B8%EC%A0%9C%EB%93%A4-61250a9904ab)
 * [Apache Airflow 운영 경험과 에러대응. 안녕하세요. 29CM Data Platform 팀 데이터 엔지니어… | by 윤원진 | 29CM TEAM | Feb, 2024 | Medium](https://medium.com/29cm/29cm-apache-airflow-%EC%9A%B4%EC%98%81%EA%B8%B0-da6b5535f7a6)
 * [서버리스에서 쿠버네티스로 - Airflow 운영 경험기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/airflow-1/)
+* [로봇을 위한 MLOps #1: Edge device와 K3s, Airflow | 우아한형제들 기술블로그](https://techblog.woowahan.com/17647/)
+* [로봇을 위한 MLOps #2: 엣지 파이프라인의 구성 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17827/)
 * [airflow-provider-anomaly-detection: An airflow provider for anomaly detection](https://github.com/andrewm4894/airflow-provider-anomaly-detection)
   * [모든 파이프라인 엔지니어의 평화를 빕니다 - Google Slides](https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit#slide=id.g23bb15e27c8_0_20)
 
@@ -1087,6 +1089,7 @@ Apache
   * [Configuring Topic Auto-Creation with the Debezium UI - YouTube](https://www.youtube.com/watch?v=C7K1V833eDk)
   * [Hans-Peter Grahsl&Gunnar Morling - Dissecting our Legacy: The Strangler Fig Pattern with ... - YouTube](https://www.youtube.com/watch?v=rl06nAIdIhQ)
   * [Scheduling Millions Of Messages With Kafka & Debezium | by Elia Rohana | Yotpo Engineering | Medium](https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c)
+  * [대규모 CDC Pipeline 운영을 위한 Debezium 개선 여정](https://toss.tech/article/cdc_pipeline)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * kafka connect
   * [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
@@ -1163,6 +1166,7 @@ Apache
     * [ksqlDB를 이용하여 실시간 ML 피쳐 데이터를 계산하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/11/21/ksqldb-for-ml-feature-calculation.html)
     * [카프카 생태계 기반의 비즈니스 메트릭 생성하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/10/14/grafana-with-ksqlDB.html)
     * [ksqlDB를 활용한 CDC (Change Data Capture) 효과 내기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=164794&searchData=&subIndex=)
+    * [ksqlDB를 활용한 증권사의 실시간 데이터 처리하기](https://toss.tech/article/ksqldb-realtime-data)
     * [ksqldb-handle-deserialization-errors: How to handle deserialization errors.](https://github.com/dbdbdeep-git/ksqldb-handle-deserialization-errors)
       * [How to handle deserialization errors using ksqlDB](https://kafka-tutorials.confluent.io/handling-deserialization-errors/ksql.html)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
