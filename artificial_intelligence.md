@@ -527,6 +527,8 @@ Artificial Intelligence
   * 5. Latency가 매우 낮고, 계속 낮아지게 하는 동력에 관해서
 * [Disquiet on LinkedIn: RISE | Disquiet\*](https://www.linkedin.com/posts/disquiet_rise-disquiet-activity-7215992365658820608-RnPf)
 * [LLM과 모바일 UX의 매력적인 만남, 트레이스 | by Corca | Corca | Jul, 2024 | Medium](https://medium.com/corca/llm%EA%B3%BC-%EB%AA%A8%EB%B0%94%EC%9D%BC-ux%EC%9D%98-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EB%A7%8C%EB%82%A8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-3efc2c9650b9)
+* [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법 | Pega Devlog](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
+* [AI가 말했다. ‘병x들 닥쳐라 ㅋㅋㅋ’ 라고 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/llm-jailbreak)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
