@@ -439,6 +439,9 @@ Programming
 * [Dev Harmony: Communication & Proven SRE Practices • Liz Fong-Jones & Marit van Dijk - YouTube](https://www.youtube.com/watch?v=A3UHaqbbR8Y)
   * [VidiGo Dev Harmony: Communication & Proven SRE Practices](https://vidigo.ai/share/summary/aae882e9f49b)
   * [개발자 하모니: 커뮤니케이션 및 입증된 SRE 사례 - Liz Fong-Jones & Marit van Dijk | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/722802)
+* [네이버 검색 SRE - 지진과 비상 대응 시스템](https://d2.naver.com/helloworld/1623894)
+* [네이버 검색 SRE - 상위 레벨 모니터링 시스템](https://d2.naver.com/helloworld/0281668)
+* [카카오페이 배포 효율화 1년 회고: 자동화 도입과 팀 생산성 향상 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-bot-improving-operational-efficiency-2/)
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
   * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
@@ -2337,6 +2340,7 @@ Programming
   * [아키텍처 현대화: 소프트웨어, 전략 및 구조 조정 - Nick Tune - CodeCrafts 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804472)
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -1편](https://ebay-korea.tistory.com/110)
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -2편](https://ebay-korea.tistory.com/111)
+* [vinyl.coroke.net 바이닐고로케 개발기 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/vinylcoroke)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -3146,6 +3150,7 @@ Programming
 * [Change Data Capture for Microservices - YouTube](https://www.youtube.com/watch?v=M6Z-RpEdaN4)
 * [마이크로서버스의 외부 API 패턴에 대한 이론을 정리한 글입니다. Backend For Frontend, Materialized View, API Gateway 에 대한 각각의 의미와 핵심 사항을 정리했습니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-1-524c2279e27b)
 * [마이크로서비스의 외부 API 패턴 중에서 Materialized View 와 Backend For Frontend 를 29CM 에서 어떻게 적용할 것인지를 소개하는 글입니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-2-be7888f2857e)
+* [출고준수율 개발기: 정의부터 구현 및 성능 개선까지. 안녕하세요, 29CM 주문배송팀에서 일하고 있는 무신사 백엔드 엔지니어… | by Youngsik Yoon | 29CM TEAM | Jul, 2024 | Medium](https://medium.com/29cm/%EC%B6%9C%EA%B3%A0%EC%A4%80%EC%88%98%EC%9C%A8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EA%B9%8C%EC%A7%80-96ea2ab299bc) materialized view
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
 * [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 * [폴리글랏(polyglot) 마이크로서비스 환경에서 Node.js 시스템 안정적으로 운영하기 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=apw4R9EiR6s)
@@ -3278,6 +3283,7 @@ Programming
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
   * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
+  * [우리는 어떻게 해외주식 서비스 안정화를 이뤘는가](https://toss.tech/article/overseas-securities-server) Resilience4j 이야기 약간 포함
 * [Service Weaver](https://serviceweaver.dev/)
   * [Introducing Service Weaver: A Framework for Writing Distributed Applications | Google Open Source Blog](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
     * Google에서 분산 애플리케이션을 만들고 배포하는 프레임워크 Service Weaver를 오픈소스로 공개
@@ -3731,6 +3737,7 @@ Programming
 * [애플이 오픈AI와 함께하는 것은 MS 때문입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/appleopenaims20240703)
   * 의외로 많은 Azure DC와 의외로 적은 Google DC. Google은 cloud 사업에는 별 뜻이 없을까?
 * [Public Cloud의 새 레퍼런스를 만드는 사람들](https://brunch.co.kr/@kakaobankplus/122?li_fat_id=1e54f775-02ab-4c1c-b7de-1ba845641595)
+* [비 대신, 가뭄을 주는 구름(cloud) – Interpreting Compiler](https://interpiler.com/2024/07/12/%eb%b9%84-%eb%8c%80%ec%8b%a0-%ea%b0%80%eb%ad%84%ec%9d%84-%ec%a3%bc%eb%8a%94-%ea%b5%ac%eb%a6%84cloud/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -6755,6 +6762,7 @@ Programming
   * [기술 뉴스 #247 : 24-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1723)
   * [기술 뉴스 #248 : 24-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1725)
   * [기술 뉴스 #249 : 24-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1726)
+  * [기술 뉴스 #250 : 24-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1729)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
