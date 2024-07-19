@@ -968,6 +968,9 @@ NLP
     * [Implementing your own ChatGPT in Java :OpenAI Models GPT-4,GPT-3.5,GPT-3,Whisper,Codex,Moderation | by Meherban Singh | Mar, 2023 | Medium](https://medium.com/@singhmeherban84/implementing-your-own-chatgpt-in-java-openai-models-gpt-4-gpt-3-5-gpt-3-whisper-codex-moderation-37392587fc87)
     * [GPT-4 API general availability and deprecation of older models in the Completions API](https://openai.com/blog/gpt-4-api-general-availability)
     * [First experiences with GPT-4 fine-tuning : r/OpenAI](https://www.reddit.com/r/OpenAI/comments/1bj9vbi/first_experiences_with_gpt4_finetuning/)
+  * GPT-4o
+    * [Hello GPT-4o | OpenAI](https://openai.com/index/hello-gpt-4o/)
+    * [GPT-4o mini: advancing cost-efficient intelligence | OpenAI](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
