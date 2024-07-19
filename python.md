@@ -137,6 +137,7 @@ Python
 * [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
 * [Python Best Practices for a New Project in 2021 - Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 * [Modern Good Practices for Python Development · Field Notes](https://www.stuartellis.name/articles/python-modern-practices/)
+  * [Stuart Ellis의 Python 현대적 모범 사례 | GeekNews](https://news.hada.io/topic?id=15837)
 * [Python Projects – Technozune](http://technozune.com/?cat=325)
 * [Python Extras – Technozune](http://technozune.com/?cat=329)
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
