@@ -985,6 +985,7 @@ Business
 * [개발 파트 소개 - 1. 백엔드 파트](https://tech.inflab.com/20240422-be-part/)
 * [개발 파트 소개 - 2. 웹 프론트엔드 파트](https://tech.inflab.com/20240423-fe-part/)
 * [개발 파트 소개 - 3. 모바일 앱 개발 파트 (React Native)](https://tech.inflab.com/20240425-mobile-part/)
+* [인포그랩이 찾는 FE 개발자(feat. 채용 경험과 성공적인 구직 조언) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/17/infograb-fe-hiring-experience/)
 
 ## 채용 onboarding
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
@@ -1326,6 +1327,7 @@ Business
 * [“말 진짜 쉽게 잘한다” 이 3가지만 알면 30배 말 잘할 수 있습니다 (이상윤 대표 1부) - YouTube](https://www.youtube.com/watch?v=BnMi5E8JST4)
 * [“그때 이렇게 말할걸…” 친절한데 만만해 보이지 않는 말투 특징 (이상윤님 2부) - YouTube](https://www.youtube.com/watch?v=46JjKTu0LFo)
 * [비즈니스 소통에서 관심사의 분리와 일반화의 효과](https://brunch.co.kr/@graypool/1789)
+* [어려운 동료와의 대화: 불편함을 해결하는 전략](https://brunch.co.kr/@yongjinjinipln/145)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -2402,6 +2404,7 @@ Business
   * [엔지니어링 리더들을 위한 안티-패턴들(Anti-patterns) | GeekNews](https://news.hada.io/topic?id=15744)
 * [Understanding values: Schwartz theory of basic values – Integration and Implementation Insights](https://i2insights.org/2022/05/10/schwartz-theory-of-basic-values/)
   * [Fit은 조직/직무 적합성이라고 이야기하는 경우가 많은데, 저는 Fit을 판단할 때 '가치관'과 '성격', 두 가지로 나눠서 접근](https://www.linkedin.com/posts/kangminlee_fit%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EA%B7%B8%EB%83%A5-%EB%91%90%EB%A3%A8%EB%AD%89%EC%8B%A4%ED%95%98%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%A7%81%EB%AC%B4-%EC%A0%81%ED%95%A9%EC%84%B1%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EA%B0%80-activity-7218165781627355136-2aL6/)
+* ["2500년"동안 단 한번도 바뀌지 않은 '3가지' 성공법칙 (임용한 박사 3부) - YouTube](https://www.youtube.com/watch?v=1ZLpzOj3toA) 삼국지를 통해 trust 등 여러가지를 이야기함
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3816,6 +3819,7 @@ Business
 * [(youtube)29CM 행성에 떨어진 UX 리서처. 이번 발표에서는 UX 리서처가 하는일과 UX 리서치가 왜 필요한지… | by 29CM | 29CM TEAM | Jun, 2024 | Medium](https://medium.com/29cm/youtube-29cm-%ED%96%89%EC%84%B1%EC%97%90-%EB%96%A8%EC%96%B4%EC%A7%84-ux-%EB%A6%AC%EC%84%9C%EC%B2%98-7aff7e82c03e)
 * [UX리서치 조직에서 리옵매란?](https://toss.tech/article/what-is-research-ops)
 * [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
+* [20화 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅](https://brunch.co.kr/@cliche-cliche/238)
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
