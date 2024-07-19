@@ -388,6 +388,7 @@ AWS
   * [ARM 기반의 AWS HPC 전용 인스턴스, Hpc7g 파헤치기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc7g-performance/)
 * [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 이유 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 * [AWS 클라우드 기반의 HPC 클러스터는 어떤 서비스들로 구성될까? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-construct-hpc-on-aws/)
+* [HPC(eVDI) 전문 MSP를 이용한 AWS 클라우드 기반의 R&D 환경 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/msp-offering-for-hpc-on-aws/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
@@ -546,6 +547,7 @@ AWS
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 * [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
 * [가용 영역을 사용한 정적 안정성](https://aws.amazon.com/ko/builders-library/static-stability-using-availability-zones/) AZ
+* [AWS 환경에서 Overlay IP 주소를 활용한 고가용성 구성 및 MCCS 솔루션을 통한 자동 장애조치 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-overlay-ip-with-mccs/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2020,6 +2022,8 @@ AWS
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
     * [JSii - 어떤 언어든 JS 클래스와 인터랙션 가능하게 만드는 컴파일러 | GeekNews](https://news.hada.io/topic?id=4789)
+  * [my-aws-cdk-examples: A collection of AWS CDK Python examples with architecture diagrams for frequently used AWS services](https://github.com/ksmin23/my-aws-cdk-examples/)
+    * [Sungmin Kim on LinkedIn: GitHub - ksmin23/my-aws-cdk-examples: A collection of AWS CDK Python…](https://www.linkedin.com/posts/sungminkim23_github-ksmin23my-aws-cdk-examples-a-collection-activity-7218941431627833348-WbMi)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * [CloudFormation 템플릿](https://aws.amazon.com/ko/cloudformation/resources/templates/)
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
