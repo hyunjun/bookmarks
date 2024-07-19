@@ -441,6 +441,7 @@ SQL
   * 마이그레이션 중 가용성 영향을 1분 미만이면서 반복할 수 있고 파티션을 취소할 수 있는 요구사항을 맞추려면 직접 만드는 수밖에 없었음
   * 애플리케이션이 파티셔닝과 호환되도록 한 뒤 PgBouncer를 하나 더 추가해서 트래픽을 분할하여 호환성 검사를 하면서 서비스에 영향이 가게 하고 문제가 없으면 분리된 데이터베이스를 보게 함
   * 첫 작업에서 2개의 테이블을 옮기고 2022년 10월에는 50개의 테이블을 옮기면서 CPU 사용률은 10%까지 감소
+* [PostgreSQL의 Fillfactor와 영향도 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/postgresql_fillfactor/)
 * [케이타운포유의 순간적인 스파이크 트래픽 대응을 위한 Amazon Aurora 오토스케일링 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-auto-scaling-strategy-for-ktown4u-global-spike-traffic-response/)
 * [AWS RDS Aurora I/O-Optimized 적용 후기 – Lamanus' Archive](https://lamanus.kr/113)
 * [Aurora DB 클러스터 역추적 - Amazon Aurora](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Backtrack.html)
@@ -463,6 +464,7 @@ SQL
 * [Amazon Aurora MySQL 3버전(MySQL 8.0 호환)의 블루/그린 배포를 통한 업그레이드 시 권장 확인 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-mysql3-mysql-8-0-blue-green-deployment-upgrade/)
 * [Sendbird의 Amazon Aurora MySQL 에서의 대용량 테이블 스키마 변경을 위한 SB-OSC 개발 및 적용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-sendbird-developed-and-applied-sb-osc-for-very-large-amazon-aurora-mysql-operations/)
 * [Amazon Aurora MySQL 버전 3의 바이너리 로깅을 이용한 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/binary-logging-optimizations-in-amazon-aurora-mysql-version-3/)
+* [Amazon Aurora MySQL 스토리지 공간 활용도 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-amazon-aurora-mysql-storage-space-utilization/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
