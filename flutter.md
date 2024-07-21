@@ -322,6 +322,8 @@ Flutter
 * [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
   * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
 * [sdimage_viewer: Stable diffusion image and meta info viewer](https://github.com/alongthecloud/sdimage_viewer)
+* [share_plus | Flutter package](https://pub.dev/packages/share_plus)
+  * [Flutter share_plus로 앱에서 링크 공유하기 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/85)
 * [Shorebird](https://shorebird.dev/)
   * [Flutter용 코드 푸시(Code Push) - Shorebird :: ChatGPT 정리](https://banjubu.tistory.com/317)
   * [Flutter를 위한 Code Push Shorebird 1.0 릴리즈 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/75)
