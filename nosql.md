@@ -650,6 +650,8 @@ NoSQL
 * [supabase + typescript DB schema 연동하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/supabase/supabase-+-typescript-db-schema-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
 * [파이어베이스 킬러? 요즘 대세는 수파베이스! - YouTube](https://www.youtube.com/watch?v=tvX9f8FqMFI)
 * [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들 | miryang.dev](https://miryang.dev/blog/frontend-in-startup-chosen-things)
+* [Supabase에서 Kakao Login JS SDK를 사용하는 방법](https://miryang.dev/blog/how-to-use-kakao-login-js-sdk-with-supabase)
+  * supabase에 Kakao OIDC 지원을 직접 추가하신 분이 이를 사용해서 카카오 로그인을 연동하는 예시를 설명한 글
 
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
