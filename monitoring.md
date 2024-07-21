@@ -114,6 +114,13 @@ Monitoring
     * 이 데이터를 Grafana에 데이터소스로 연결
     * 대시보드를 통해서 빌드, PR, 커밋, 이슈 등의 통계를 한 번에 볼 수 있게 작성
 * [코난테크놀로지 사례로 보는 AWS IoT TwinMaker의 Grafana 대시보드 통합 사례 및 카메라 뷰 설정 가이드 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/config-guide-aws-iot-twinmaker-and-grafana-with-the-konan-tech-partner-solution/)
+* [Getting started with Grafana: best practices to design your first dashboard | Grafana Labs](https://grafana.com/blog/2024/07/03/getting-started-with-grafana-best-practices-to-design-your-first-dashboard/)
+  * Grafana 대시보드를 만들 때 가장 중요한 것은 특정 목적이나 사용 사례를 염두에 두고 설계해야 한다는 점
+  * 시각적 계층 구조를 이용
+    * 중요도 순으로 정렬
+    * 크기를 다르게 배치
+    * 중요한 패널은 색상을 사용해서 사용자의 시선 유도 가능
+  * 목적에 맞는 올바른 메트릭을 사용해야 하는데 RED나 USE 방법론이 도움
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
@@ -396,6 +403,7 @@ Monitoring
   * [opentelemetry-with-scala-futures: Example Play Scala application with OpenTelemetry instrumentation and detailed walkthrough](https://github.com/wsargent/opentelemetry-with-scala-futures)
   * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
     * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
+  * [Phoenix](https://phoenix.arize.com/)
 * [qryn: Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic alternative! WASM powered ⭐️ Star to Support](https://github.com/metrico/qryn)
   * [Kubernetes Korea Group | 안녕하세요, 오늘은 옵저버빌리티 관련 오픈소스 하나를 소개 드립니다 | Facebook](https://www.facebook.com/groups/k8skr/posts/3855914668023511/)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
