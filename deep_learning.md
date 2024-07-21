@@ -220,6 +220,8 @@ Deep Learning
     * [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images? - OranLooney.com](https://www.oranlooney.com/post/gpt-cnn/)
       * [GPT-4o는 이미지를 어떻게 인코딩할까? | GeekNews](https://news.hada.io/topic?id=15256)
   * [OpenAI의 ChatGPT MacOS App 일부 사용자 대상 공개 및 출시 | GeekNews](https://news.hada.io/topic?id=14848)
+  * [CodeSage/SageTemplate at main · ryujt/CodeSage · GitHub](https://github.com/ryujt/CodeSage/tree/main/SageTemplate)
+    * [RAG를 구축하는 가장 간단한 방법 - YouTube](https://www.youtube.com/watch?v=-ip-y4tGfp4)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
