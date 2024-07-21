@@ -368,6 +368,8 @@ Artificial Intelligence
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
   * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
+* [Praison AI: AI Agency - Unlock the Power of AI for Your Business](https://praison.ai/)
+  * [PraisonAI Code: AI 코딩 혁신! 이젠 전체 코드 베이스와 대화하세요!(feat. 제미나이) 💬🚀](https://fornewchallenge.tistory.com/entry/PraisonAI-Code-AI-%EC%BD%94%EB%94%A9-%ED%98%81%EC%8B%A0-%EC%9D%B4%EC%A0%A0-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94feat-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%F0%9F%92%AC%F0%9F%9A%80)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
@@ -529,6 +531,22 @@ Artificial Intelligence
 * [LLM과 모바일 UX의 매력적인 만남, 트레이스 | by Corca | Corca | Jul, 2024 | Medium](https://medium.com/corca/llm%EA%B3%BC-%EB%AA%A8%EB%B0%94%EC%9D%BC-ux%EC%9D%98-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EB%A7%8C%EB%82%A8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-3efc2c9650b9)
 * [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법 | Pega Devlog](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
 * [AI가 말했다. ‘병x들 닥쳐라 ㅋㅋㅋ’ 라고 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/llm-jailbreak)
+* [테드 창 “예술은 무수한 선택의 결과…AI, 인간 예술 대체 못 해”](https://www.hani.co.kr/arti/economy/it/1147113.html)
+  * SF 작가인 테드 창이 한겨레 사람과디지털포럼에서 강연한 내용 전문
+  * 기존과 같이 AI에 긍정적이지 않은데 AI는 지능이 있다기보다 응용 통계라고 부르는 것이 정확하다고 이야기
+  * 또한 언어는 의사소통 체계를 의미하는데 LLM에서는 의도가 없기 때문에 의사소통이 일어나지 않고 있음
+  * LLM이 만든 텍스트는 광고성인 경우가 많아서 인터넷이 앞으로 정보의 출처로서 영구적으로 퇴보할 가능성이 높다
+  * 에세이 쓰기는 두뇌를 위한 근력운동이기 때문에 LLM으로는 인지능력을 향상할 수 없고
+  * 예술은 표현의 한 형태이기 때문에 욕구가 없는 ChatGPT는 예술을 할 수 없다고 이야기
+* [AI는 전기를 먹고 자란다 < 사회 < 기사본문 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=53307)
+  * AI의 인기로 하이퍼스케일 데이터센터가 생겨나고 있고
+    * 기존에 기업에서 쓰던 전력을 100% 재생에너지로 충당하겠다는 RE100 선언에 동참했던 빅테크 기업들도
+    * 데이터센터에 들어갈 엄청난 양의 전기를 확보할 방법 때문에 고민
+  * 빅테크 업체들도 이러한 전기를 확보하기 위해서 다양한 노력을 하고 있지만 여러 국가에서 데이터센터 설립을 제한하는 법 제정
+  * 국내에서도 재생에너지를 구하기가 어려운 게 현실이고 정부의 발표에서도 2030년에는 2023년보다 전력 수요량이 2배 증가할 것이라고 예상
+  * 한국은 데이터센터가 수도권에 집중되어 있는데 수도권의 전력 자급률을 0.67에 불과하기 때문에 국내에서는 발전보다 송전이 더 중요한 문제
+    * 이 때문에 데이터센터를 전기가 생산되는 지방으로 이전하려고 노력하지만
+    * 지방에서의 인력 문제와 전력 가격 정책 등의 문제로 쉽지 않은 상황
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
