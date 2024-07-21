@@ -1230,6 +1230,7 @@ Git
   * [Proper use of Git tags | Dan Aloni](https://blog.aloni.org/posts/proper-use-of-git-tags/)
 * worktree
   * [Git에서 다수의 워킹 디렉토리를 관리하는 worktree :: Outsider's Dev Story](https://blog.outsider.ne.kr/1588)
+  * [I was wrong about git stash... - YouTube](https://www.youtube.com/watch?v=ntM7utSjeVU)
 
 # Conference
 * [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
