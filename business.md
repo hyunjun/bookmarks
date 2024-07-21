@@ -972,6 +972,7 @@ Business
 * [왜 채용이 어려울까?](https://www.linkedin.com/posts/monozuno_tfnsqoqsvumoabrsmusxbstuabrsxqsuzabrtrgsqb-activity-7175481783851888642-pzRs/)
 * [COACH: AI-powered Career Coach | CareerVillage](https://www.aicareercoach.org/)
 * [시니어 채용할 때 고려해야 되는 4가지 - 신뢰, 문화, 단순함, 피드백 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1)
+  * [시니어 채용할때 고려해야 될 4가지](https://www.linkedin.com/posts/hyunsolpark_%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1-activity-7210503605466927104-WtTX/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -3798,6 +3799,7 @@ Business
 * [How to make programmers happy and design-to-developer handoff less painful | by Helen Shabanova | Bootcamp](https://bootcamp.uxdesign.cc/how-to-make-programmers-happy-and-design-to-developer-handoff-less-painful-e0a0a299614f)
 * [디자인 핸드오프에서 지켜야 할 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2099/)
 * [고객의 목소리를 한눈에 볼 수 있도록: 무신사의 VoC 대시보드 제작기 Part1 by UX파트 | MUSINSA tech](https://medium.com/musinsa-tech/voc-dashboard-development-part1-ec40412eb17f)
+* [젠데스크 티켓 분석으로 VOC 대시보드 만들기: OpenAI, BigQuery, Redash | by Joshua Kim | Jul, 2024 | Medium](https://joshua-data.medium.com/zendesk-openai-dashboard-9a222d567953)
 * [맨땅에 UX 헤딩하기. 글. 이재선(Woojoo) / UX Designer | by 여기어때 UX Center | Aug, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A7%A8%EB%95%85%EC%97%90-ux-%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0-683d671e9b2e)
 * [사용자 경험을 위한 의도적인 비효율 | Univdev](https://univdev.page/posts/dummy-delay-for-more-ux/)
 * [인터랙션, 꼭 넣어야 해요?](https://toss.tech/article/interaction)
