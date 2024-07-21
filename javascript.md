@@ -935,6 +935,8 @@ Javascript
 * [New JavaScript Set methods | MDN Blog](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
   * [JavaScript 의 새로운 Set 메소드들 | GeekNews](https://news.hada.io/topic?id=15586)
 * [자바스크립트 문제 | console.log의 출력값을 맞히시오 - YouTube](https://www.youtube.com/watch?v=b_BLykZJx_g)
+* [How to compose JavaScript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
+  * [번역 여러 매개 변수를 사용하는 자바스크립트 함수를 작성하는 방법(역대급 가이드)](https://gist.github.com/superLipbalm/0c9226769326f8e7f1c5a7a04f54cfca)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -4705,6 +4707,16 @@ Javascript
   * 추가로 React 18에는 래핑 된 함수 결과를 기억하는 `cache` 함수가 있어서 매번 호출할 필요 없이 저장된 값을 재사용 가능
 * [Enhancing The New York Times Web Performance with React 18 | by Ilya Gurevich | NYT Open | NYT Open](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
   * [React 18 업그레이드로 인한 뉴욕타임스 웹사이트 성능 향상 | GeekNews](https://news.hada.io/topic?id=15725)
+  * The New York Times는 뉴스 사이트 특성상 페이지 성능과 SEO, 최신 기술에 높은 가치
+    * React 18의 새 기능이 INP 점수를 크게 개선할 것이라고 기대
+    * 이는 SEO 점수에 영향을 주기 때문에 마이그레이션 시작
+  * 먼저 React 18과 호환되지 않은 Enzyme을 React Testing Library로 교체
+    * 주요 의존성 업데이트
+    * `createRoot`와 `hydrateRoot` 같은 최신 API 업데이트
+    * 이 과정에서 React 18이 이전보다 하이드레이션 불일치에 더 민감해서 일부 콘텐츠가 렌더링 되지 않는 문제 발견
+      * 이를 수정하고 릴리즈
+      * p75에서 INP가 30% 개선
+      * 리렌더링 절반으로 감소
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
