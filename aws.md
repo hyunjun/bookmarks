@@ -2531,6 +2531,10 @@ AWS
     * 이를 수정하지 않고 사용한 모든 사람의 요청이 해당 버킷으로 온 것
     * AWS가 승인되지 않은 4xx 요청에 대해서도 요금을 부과하고 있기 때문에 발생한 일
   * 이에 대해 AWS의 Chief Evangelist인 Jeff Barr는 이러한 일은 없어야 한다면서 HTTP 3xx/4xx를 포함한 무단 요청에는 과금하지 않도록 변경
+* [Using S3 as a container registry | Adolfo Ochagavía](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
+  * ECR 대신 S3를 컨테이너 레지스트리로 사용하는 실험
+  * HTTP로 S3를 노출하고 그대로 사용 가능
+  * OCI 표준에 따라 레이어 푸시가 순차적으로 이뤄지기 때문에 ECR보다 S3가 최대 8배까지 빠른 속도
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
