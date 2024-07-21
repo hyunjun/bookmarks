@@ -83,6 +83,9 @@ House
 * [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
 * [등기부등본 보는법, 부동산 매매 전에 꼭 봐야 합니다!! - YouTube](https://www.youtube.com/watch?v=aE-fn9ga8iU)
 * [충격! 부동산 등기부등본을 믿을 수 없다니 (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=QcutAWg58pU)
+* ["수억 원 지킵니다." 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가사 1부) - YouTube](https://www.youtube.com/watch?v=1LA3xdQ1vpc) 등기부등본 토지대장 건축물대장 소유이전가등기 청구권가등기 근저당권설정 부동산권리보험 전입신고 확정일자
+  * [VidiGo "수억 원 지킵니다." 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가](https://vidigo.ai/share/summary/0c6eecb9aea1)
+  * [수억 원 지킵니다. 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가사 1부) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964926)
 * [근저당 해지해주세요](https://brunch.co.kr/@buildingking/143)
 * [비품, 장기수선충당금 등의 문제](https://pgr21.com/qna/139934)
   * 부동산 전문 변호사와 대한법률구조공단을 통해 안내받은 내용
