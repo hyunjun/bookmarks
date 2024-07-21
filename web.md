@@ -406,6 +406,11 @@ Web
   * Interop 2023은 컨테이너 쿼리, `:has()`, Flexbox, Grid 등의 영역의 상호 운용성을 크게 개선
   * 올해는 Microsoft Edge를 크롬과 별도로 구분해서 보여주기 시작
     * 접근성, 웹소켓용 HTTPS URL, CSS Nesting, CSS 커스텀 프로퍼티(`@property`), 선언적 쉐도우 DOM, 레이아웃, 스크롤바 스타일 등
+* [@property: Next-gen CSS variables now with universal browser support  |  Blog  |  web.dev](https://web.dev/blog/at-property-baseline)
+  * `@property`를 이제 주요 브라우저에서 모두 사용 가능
+  * `@property`를 사용해서 커스텀 프로퍼티 작성 가능, 그라데이션 애니메이션 같은 새로운 가능성도
+  * 커스텀 프로퍼티에서는 초깃값을 이용해서 폴백 구현 가능
+  * `@property`를 이용해서 그라데이션 카드를 구현하는 예제도 함께 제공
 * [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
 * [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
 * [Domain Registrars which Developers Recommend](https://newsletter.pragmaticengineer.com/p/domain-registrars-which-developers)
@@ -524,6 +529,11 @@ Web
   * 컨테이너 쿼리는 `container-type`이나 `container`로 `card`나 `inline-size`를 지정해야 하고
     * 미디어쿼리를 사용하듯이 부모 요소의 스타일 정보를 알 수 있게 되므로 재사용할 수 있는 컴포넌트에서 유용
   * 사이트에서 컨테이너 쿼리를 사용하는 예시를 제공하므로 직접 사용 가능
+* [How to use container queries now  |  Blog  |  web.dev](https://web.dev/blog/how-to-use-container-queries-now)
+  * 컨테이너 쿼리가 모든 브라우저에서 지원되지만, 구형 브라우저 지원 때문에 적용 못 한다고 생각하는 사람들이 바로 적용할 수 있도록 하는 적용 가이드
+  * `@media` 규칙을 모두 `@container`로 교체한 후 `container-type: inline-size;`를 지정해서 컨테이너가 규칙의 기준이 되도록 함
+  * 컨테이너 쿼리를 지원하지 않는 브라우저를 위해
+    * 크기 변경을 인지해서 스타일을 지정할 수 있는 `<responsive-container>` 커스텀 태그를 만들어서 폴백을 구현하고 이를 위한 추가 스타일을 작성
 * [Browsers are the new containers! by Dan Erez - YouTube](https://www.youtube.com/watch?v=uR7Onn2KJoQ)
 * [Oh what fun! connecting to devices with your browser by Ron Dagdag - YouTube](https://www.youtube.com/watch?v=tWANye35dZY) WebMidi
 * [Workers Browser Rendering API enters open beta](https://blog.cloudflare.com/browser-rendering-open-beta/)
@@ -1592,6 +1602,8 @@ Web
   * [FastAPI 개요](https://puddingcamp.com/page/32f2d7fd-5601-42bb-aa19-d7d99ce0c388)
   * [FastAPI 보일러 플레이트](https://puddingcamp.com/page/efbea959-0e12-4c06-906f-d7d03abb2d37)
     * [이용자 앱 구현](https://puddingcamp.com/page/3634ccee-010c-4d4d-992f-c5cb52490ed4)
+    * [할 일 폼으로 저장하기](https://puddingcamp.com/page/ca9c1aab-a128-48a5-90b0-effa02788610)
+    * [파일 업로드 처리](https://puddingcamp.com/page/c21e058e-0847-434f-bc47-678260d7f2ab)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
