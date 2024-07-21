@@ -561,6 +561,14 @@ Programming
 * [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 * [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
 * [OAuth에 대해 알아보자 - 이은비 | F-Lab 미니 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=n2smhUBGaK8)
+* [From Idea to Standard How the JWT Profile for OAuth 2.0 Access Tokens Became RFC9068](https://auth0.com/blog/how-the-jwt-profile-for-oauth-20-access-tokens-became-rfc9068/)
+  * OAuth 2 Core는 Access Token의 모양을 정의하지 않아서 다양한 변형이 많이 발생
+    * 이 문제를 해결하려고 OAuth 2.0 AT(Access Token)을 JWT로 인코딩하고 검증하는 새로운 표준인 RFC9068를 2021년 제작
+  * OAuth 2에서는 인가 서버와 리소스 서버가 분리
+    * 같은 조직 내에서 인가 서버에 접속할 수 있다면 AT를 쉽게 검증 가능
+    * 인가 서버와 상태를 공유할 수 없다면 AT를 검증할 다른 방법이 필요, 이때 JWT를 쓰면 편하게 사용 가능
+      * 하지만 JWT내의 데이터는 비슷했지만, 클레임의 형태가 달랐기에 이를 프로필로 통일시킬 수 있다고 생각, 조사한 뒤 IETF에 제안
+      * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
@@ -2341,6 +2349,8 @@ Programming
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -1편](https://ebay-korea.tistory.com/110)
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -2편](https://ebay-korea.tistory.com/111)
 * [vinyl.coroke.net 바이닐고로케 개발기 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/vinylcoroke)
+  * LP 바이닐 음반을 검색할 수 있는 서비스를 만들어야겠다는 아이디어에서 시작해서 10일 정도 만에 데이터를 크롤링해서 서비스까지 오픈한 과정
+  * django와 SvelteKit, MySQL을 사용해서 구축했고 서비스를 구축하면서 고민했던 내용 설명
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -3780,6 +3790,9 @@ Programming
   * [fly.io로 Next.js 어플리케이션 배포하기. 컨테이너 기반의 클라우드 플랫폼 서비스인 Heroku 가 지난 8월… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/fly-io%EB%A1%9C-next-js-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-9125081a4791)
   * [From Go on EC2 to Fly.io: +fun, −$9/mo](https://benhoyt.com/writings/flyio/)
     * [Go 프로젝트를 EC2에서 Fly.io로 이관한 후기: 더 재미나고, 월 $9 절약 | GeekNews](https://news.hada.io/topic?id=8604)
+  * [flyctl: Command line tools for fly.io services](https://github.com/superfly/flyctl)
+    * [Docker without Docker · The Fly Blog](https://fly.io/blog/docker-without-docker/)
+    * [How Fly.io uses Docker (without Docker) - YouTube](https://www.youtube.com/watch?v=7iypMRKniPU)
 * [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 * [GCP Google Cloud Platform](gcp.md)
 * [Gigalixir](https://www.gigalixir.com/)
@@ -5003,6 +5016,11 @@ Programming
   * 카카오톡에서 사용자가 링크를 클릭했을 때 엑세스토큰을 탈취하고 계정에 접근해서 비밀번호도 바꿀 수 있는 취약점 발견
   * 버그 바운티 프로그램에 보고했지만 버그 바운티 프로그램이 한국인을 대상으로만 진행한다며 보상을 받지 못한 일이 발생
 * [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1)
+  * Line에서 보안을 강화하기 위해 기기와 앱이 위변조되지 않았는지 서비스 요청이 변조되지 않았음을 증명하기 위해 기기 증명 서비스 도입
+  * 이는 Anroid에서는 Key Attestation, iOS에서는 App Attest 기능으로 구현했고 WebAuthn 사용
+  * 기기 증명 클라이언트와 기기 증명 서버가 통신
+    * 클라이언트는 Trusted Execution Envionment를 이용해서 PKI 방식으로 동작하도록 구현
+    * 이때 어설션을 통해서 중요한 통신을 안전하게
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -6065,6 +6083,15 @@ Programming
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * [(06/10) 2024년 자바 생태계 정리(by 뉴 렐릭) - YouTube](https://www.youtube.com/watch?v=gI1NrJfdueU)
   * [VidiGo (06/10) 2024년 자바 생태계 정리(by 뉴 렐릭).mp4](https://vidigo.ai//share/summary/031fa9161d97)
+* [What Happened to ThoughtWorks?. Why has a leading software technical… | by Zhimin Zhan | Medium](https://zhiminzhan.medium.com/what-happened-to-thoughtworks-a149852fcbf3)
+  * 한때 애자일로도 유명했던 소프트웨어 컨설팅 회사인 ThoughtWorks
+    * 마틴 파울러를 포함해서 테스트나 CI/CD 관련해서 유명한 사람이 많이 있었지만, 최근 3년 동안 주가가 90% 하락
+    * 최근 ThoughtWorks의 행보 정리
+  * ThoughtWorks의 컨설팅했던 내용과 다른 행보를 걷고 있는데
+    * 지난 17년 동안 ThoughtWorks가 테스트 자동화나 CI/CD 관련한 제품을 출시
+    * Mingle, Twist, Gauge, Cruise CD, GoCD 등 대부분의 제품 실패
+    * 초기에 Ruby on Rails를 컨설팅했지만, 적극적으로 하지 않고 Groovy로 넘어갔지만, 오히려 실수였다고 언급
+  * 마지막으로 지금 업계에도 ThoughtWorks같은 컨설팅 회사가 필요하기 때문에 ThoughtWorks가 과거의 영광을 되찾기를 응원
 * [The plain-text internet is coming - Protocol](https://www.protocol.com/newsletters/sourcecode/plain-text-sports-internet)
   * [Plain-text 인터넷이 온다 | GeekNews](https://news.hada.io/topic?id=6561)
 * 월간 개발자스럽다
@@ -6582,6 +6609,7 @@ Programming
   * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/06/b-6-4.html)
   * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-1.html)
   * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-2.html)
+  * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -7861,6 +7889,13 @@ Programming
   * [금융 시스템 구축을 위한 엔지니어링 원칙 | GeekNews](https://news.hada.io/topic?id=15794)
 * [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product at andrewchen](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
   * [Next Feature Fallacy: 새로운 기능을 추가하면 사람들이 갑자기 제품을 사용 | GeekNews](https://news.hada.io/topic?id=15788)
+* [What is Old is New Again - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/what-is-old-is-new-again)
+  * [The software engineering industry in 2024: what changed in 2 years, why, and what is next - YouTube](https://www.youtube.com/watch?v=VpPPHDxR9aM)
+    * [VidiGo The software engineering industry in 2024: what ch](https://vidigo.ai/share/summary/cde1dcb30f9c)
+    * [2024년 소프트웨어 엔지니어링 산업의 2년 후 변화, 그 이유, 그리고 다음 과제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964617)
+  * [The software engineering industry in 2024: Q&A - YouTube](https://www.youtube.com/watch?v=qYEhdZmPjsU)
+    * [VidiGo The software engineering industry in 2024: Q&A.mp4](https://vidigo.ai/share/summary/91a389865205)
+    * [2024년 소프트웨어 엔지니어링 산업 Q&A | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964753)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
@@ -8762,6 +8797,12 @@ Programming
   * 22:48(UTC) Flexential이 회로 차단기를 모두 교체하고 전력을 복구했음을 확인했지만 하루종일 비상상태로 일한 Cloudflare 팀은 바로 이동하기 보다는 휴식 후 아침에 데이터센터로 가기로 결정. 약간 복구가 늦어지지만 추가적인 실수를 줄였다고 생각
   * 11월 3일 새벽부터 PDX-DC04에서 작업을 시작하고 서버를 재구축하는데 3시간 소요
   * 11월 4일 04시 25분(UTC) 완전히 복구
+* [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
+  * Cloudflare가 운영하는 DNS 서비스인 1.1.1.1에서 지난 6월 27일 연결이 안 되거나 성능이 저해되는 장애 발생
+    * 이 장애는 BGP(Border Gateway Protocol) 하이재킹과 라우팅 유출로 인한 장애
+  * Cloudflare가 RPKI를 사용해 1.1.1.0/24를 서명한 리소스로 사용하고 있었음에도
+    * 1.1.1.1/32를 블랙홀 경로로 여러 네트워크에서 수락
+    * AS262504(Nova)가 라우팅을 유출하면서 영향이 확대
 * [결제는 계속된다: 결제 담당자가 장애에 대응하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15236/)
 * [29CM 의 이굿위크 장애대응 기록. 이굿위크란? | by Greg Lee | Jan, 2024 | Medium](https://medium.com/@greg.shiny82/29cm-%EC%9D%98-%EC%9D%B4%EA%B5%BF%EC%9C%84%ED%81%AC-%EC%9E%A5%EC%95%A0%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-177b6b2f07a0)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/#more-100)
