@@ -2380,6 +2380,9 @@ CVPR2016)
 * [ML/DL/RL Papers](https://www.notion.so/d4aacd7f00564116bb707e09618f4e3c)
 * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
 * [Neural_Acceleration_Study - YouTube](https://www.youtube.com/channel/UCh05O9mScsWVaP3EWX1AKDQ)
+* [Paper page - Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](https://huggingface.co/papers/2407.14435)
+  * JumpReLU SAE는 기존의 Gated 및 TopK SAE와 비교했을 때 더 나은 재구성 충실도와 희소성의 균형을 제공
+  * 비연속적인 활성화 함수를 사용하지만 straight-through 추정기를 통해 효과적으로 학습 가능
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
