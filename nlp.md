@@ -2162,6 +2162,8 @@ NLP
 * [BABILong is a benchmark for LLM evaluation using the needle-in-a-haystack approach](https://github.com/booydar/babilong)
 * [BAML is a templating language to write typed LLM functions using jinja. Check out the promptfiddle.com playground](https://github.com/boundaryml/baml)
   * [BAML - 더 깔끔한 LLM 함수를 작성하기 위한 템플릿 언어 | GeekNews](https://news.hada.io/topic?id=15416)
+* [bert_score: BERT score for text generation](https://github.com/Tiiiger/bert_score)
+  * [BERTScore 는 문장간 유사성을 구하는 데 활용되는 LLM 기반 패키지](https://www.linkedin.com/posts/jamessungjinkim_bertscore-llm-bert-activity-7220880796885114881-UMnt/)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
@@ -2789,6 +2791,8 @@ NLP
 * [tokencost: Easy token price estimates for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
   * [Token Cost - 400+개 LLM의 토큰당 비용 계산하기 | GeekNews](https://news.hada.io/topic?id=15421)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
+* [txtai: 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows](https://github.com/neuml/txtai)
+  * [txtai - 시맨틱 검색, LLM 오케스트레이션, 언어모델 워크플로우를 위한 올인원 임베 | GeekNews](https://news.hada.io/topic?id=15957)
 * [TWO](https://www.two.ai/)
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
@@ -4034,6 +4038,9 @@ NLP
 * [speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline](https://github.com/Uberi/speech_recognition#readme)
   * [Make a Voice Assistant with Python - YouTube](https://www.youtube.com/watch?v=iwVaAAEE4fo)
 * [SSML-prosody-library: A collection of pre-built speech synthesis settings used to convey emotion](https://github.com/brycehowitson/SSML-prosody-library)
+* [stable-audio-open-demo](https://github.com/Stability-AI/stable-audio-open-demo)
+  * Stable audio는 오토인코더와 T5 텍스트 임베딩을 사용한 DiT 구조를 차용, 크리에이티브 커먼즈 데이터로 훈련
+  * 연구자들은 훈련 환경과 하이퍼파라미터, 모델 구조와 Solver 등의 디테일을 보고서에 기록
 * [Synthflow AI](https://synthflow.ai/)
   * [Building an AI Salesman in Under 10 Minutes (Outbound & Inbound Sales) - YouTube](https://www.youtube.com/watch?v=ICnDb6kWsnI)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
