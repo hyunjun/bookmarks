@@ -1494,6 +1494,9 @@ AWS
 * [T101-AWS-To-SLACK-Noti - EventBridge - 리눅서의 기술술 블로그](https://linuxer.name/2022/12/t101-aws-to-slack-noti-eventbridge/)
 * [Implementing the transactional outbox pattern with Amazon EventBridge Pipes | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/)
 * [CJ 올리브영의 서버리스 랭킹 시스템 구축기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/oliveyoung-serverless-ranking-system/)
+* [Optimizing Amazon EventBridge Pipes with Apache Kafka • Daniele Frasca & Roman Boiko • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=_KVVBOzEJdQ)
+  * [VidiGo Optimizing Amazon EventBridge Pipes with Apache Ka](https://vidigo.ai/share/summary/1f2e33a77780)
+  * [아파치 카프카로 Amazon EventBridge 파이프를 최적화하기 - 다니엘 프라스카 & 로만 보이코 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/970387)
 * [event-ruler](https://github.com/aws/event-ruler)
   * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
@@ -2435,6 +2438,7 @@ AWS
 * [Amazon Redshift Serverless에서 SQL 쿼리 스케줄링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scheduling-with-query-editor-v2-on-amazon-redshift-serverless/)
 * [Amazon Redshift: 벤치마크 기반의 가격대비 성능 비교 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-lower-price-higher-performance/)
 * [Amazon Redshift ML 정식 출시 – SQL기반 기계 학습 모델 생성 및 예측 수행 (서울 리전 포함) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/)
+* [AWS Redshift: WLM, Queue, and Slot](https://jybaek.tistory.com/504716)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
