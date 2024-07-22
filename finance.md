@@ -83,6 +83,13 @@ Finance
 * [제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면) - YouTube](https://www.youtube.com/watch?v=QGHZgpwO-4k)
   * [VidiGo 제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면).mp4](https://vidigo.ai/share/summary/749fd46d76f2)
   * [평범한 사람도 목돈 모으는 최적의 5가지 방법 ✅ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927504)
+* [1등 프라이빗 뱅커가 직접 밝히는 부자들이 돈을 지키며 불리는 비법은 (오경석 신한은행 PB팀장) | 인포맥스라이브 20240715 - YouTube](https://www.youtube.com/watch?v=DBNvZciOfwE)
+  * [VidiGo 1등 프라이빗 뱅커가 직접 밝히는 부자들이 돈을 지키며 불리는 비법은 (오경석 신한은행 P](https://vidigo.ai/share/summary/b44cdbe143fe)
+  * [1등 프라이빗 뱅커가 직접 밝히는 부자들이 돈을 지키며 불리는 비법은 (오경석 신한은행 PB팀장) 인포맥스라이브 20240715 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/965181)
+* [증권앱 사용설명서](https://www.anjihyang.com/pages/ey2gjl2zmsf)
+  * [유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver. - YouTube](https://www.youtube.com/watch?v=l1yOncqCvlc)
+    * [VidiGo 유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver..mp4](https://vidigo.ai/share/summary/006df7a051d6)
+    * [유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/965265)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
