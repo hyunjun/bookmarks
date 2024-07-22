@@ -751,6 +751,7 @@ Business
   * [지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/topic?id=15497)
 * [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
   * [올바른 종류의 고집 | GeekNews](https://news.hada.io/topic?id=15756)
+* [스테이블 디퓨전을 만든 회사의 몰락 - YouTube](https://www.youtube.com/watch?v=dJsjtiNhsXo)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -973,6 +974,9 @@ Business
 * [COACH: AI-powered Career Coach | CareerVillage](https://www.aicareercoach.org/)
 * [시니어 채용할 때 고려해야 되는 4가지 - 신뢰, 문화, 단순함, 피드백 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1)
   * [시니어 채용할때 고려해야 될 4가지](https://www.linkedin.com/posts/hyunsolpark_%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-%EC%8B%A0%EB%A2%B0-%EB%AC%B8%ED%99%94-%EB%8B%A8%EC%88%9C%ED%95%A8-%ED%94%BC%EB%93%9C%EB%B0%B1-activity-7210503605466927104-WtTX/)
+* [시니어를 검증하는 방법](https://brunch.co.kr/@expnote/123)
+  * [시니어를 검증하는 방법](https://www.linkedin.com/posts/nsuhyun_%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-activity-7220916454580219904-G_2Q/)
+  * 1. 리더와 시니어의 기대 및 관점 얼라인 2. 어려운 과제에 대한 시니어의 접근 및 해결 능력 확인 3. 구성원 피드백을 통한 검증 4. 종합적인 검토
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1329,6 +1333,7 @@ Business
 * [“그때 이렇게 말할걸…” 친절한데 만만해 보이지 않는 말투 특징 (이상윤님 2부) - YouTube](https://www.youtube.com/watch?v=46JjKTu0LFo)
 * [비즈니스 소통에서 관심사의 분리와 일반화의 효과](https://brunch.co.kr/@graypool/1789)
 * [어려운 동료와의 대화: 불편함을 해결하는 전략](https://brunch.co.kr/@yongjinjinipln/145)
+* [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -2729,6 +2734,7 @@ Business
 * [OKR is Simple](https://www.linkedin.com/posts/hong-min-kang-582522112_okr-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-by-opellie-ugcPost-7013347722900512768-s4PA/)
 * [목표 관리에 접목하면 좋은 방법 '운동선수'](https://brunch.co.kr/@xmetal/235) MBO, SMART
 * [소프트웨어 엔지니어가 OKR로 성장하는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/20/okr/)
+* [OKR을 잘 작성하기 위한 4가지 Metric :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/okr/)
 
 # Patent
 * 세기의 특허전쟁
@@ -3116,6 +3122,23 @@ Business
     * 1. PM is a generalist job role in the junior years
     * 2. Anything remotely related to the product is in a PMs scope of work
     * 3. In an organisation, no matter the title, no matter the level, you have to do what your boss asks you to do within reason
+* [Am I being exploited as a PM?](https://www.linkedin.com/posts/vishal-bagla_productmanagement-productmanagers-interviewprep-activity-7217777293589422080-ffrL/)
+  * Myth 1️⃣ 
+    * PM is NOT some entitled position and it definitely is NOT the CEO of the product. 
+    * Don't get into PM with the expectations that you will have to just give orders and people will be at your service.
+  * Myth 2️⃣ 
+    * As a PM, you have to get the work done from others which is the most difficult part.
+    * For that, you may need to do a lot of things which you may not want. So, be prepared for it.
+  * Myth 3️⃣ 
+    * In reality, no work is low-level or high-level. It's a work and it has a larger objective. Focus on the objective.
+    * You may or may not like it is a different thing altogether. If you don't like it, that's your problem.
+    * You will realize this as you gain more experience.
+  * Myth 4️⃣ 
+    * The engineering and design team usually don't report to PM. So, if you think you will just tell them and they will do, sorry but you are wrong.
+    * You will have to learn to convince without authority.
+  * Myth 5️⃣ 
+    * Product Management is not just about launching new products and features.
+    * It's about tracking them, understanding competitors & industry, planning marketing & growth initiatives, and many more things.
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
