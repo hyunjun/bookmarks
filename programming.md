@@ -5446,6 +5446,8 @@ Programming
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
   * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
+* [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
+  * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
