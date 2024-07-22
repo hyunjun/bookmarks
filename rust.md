@@ -280,6 +280,8 @@
 * [candle: Minimalist ML framework for Rust](https://github.com/huggingface/candle)
   * [Rust AI - Candle in Huggingface - YouTube](https://www.youtube.com/watch?v=2ID9qLjpaQE)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
+* [cel-rust: Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
+  * [cel-rust - Rust로 작성된 Common Expression Language 인터 | GeekNews](https://news.hada.io/topic?id=15865)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [cxx: Safe interop between Rust and C++](https://github.com/dtolnay/cxx)
