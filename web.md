@@ -2412,6 +2412,8 @@ Web
   * [WebAssembly at Google - Google Slides](https://docs.google.com/presentation/d/1bnYntCeekIev8hZnizixvLPUV7ljfJ2hNO6vBOcnXlE/edit)
   * [VidiGo WebAssembly at Google by Thomas Steiner & Thomas N](https://vidigo.ai/share/summary/65bb9c8fecfe)
   * [토마스 스타이너 & 토마스 나테슈타트의 Google WebAssembly @ Wasm I\O 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/684590)
+* [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
+  * [Notion이 WASM SQLite로 브라우저에서의 속도를 향상시킨 방법 | GeekNews](https://news.hada.io/topic?id=15914)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
