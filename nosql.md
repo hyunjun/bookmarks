@@ -652,6 +652,7 @@ NoSQL
 * [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들 | miryang.dev](https://miryang.dev/blog/frontend-in-startup-chosen-things)
 * [Supabase에서 Kakao Login JS SDK를 사용하는 방법](https://miryang.dev/blog/how-to-use-kakao-login-js-sdk-with-supabase)
   * supabase에 Kakao OIDC 지원을 직접 추가하신 분이 이를 사용해서 카카오 로그인을 연동하는 예시를 설명한 글
+* [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/86)
 
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
