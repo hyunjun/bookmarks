@@ -94,6 +94,8 @@ App
   * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
+* [Foliate — E-book Reader for Linux](https://johnfactotum.github.io/foliate/)
+  * [Foliate - Linux용 e-Book 리더 오픈소스 | GeekNews](https://news.hada.io/topic?id=15941)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [Framer: A Free Interactive Design Tool for Teams](https://www.framer.com/)
