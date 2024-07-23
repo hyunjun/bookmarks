@@ -1382,6 +1382,7 @@ Programming
 * [Why Everybody Hates Agile • Jesper Boeg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Gt9ZuHGpKbI)
   * [VidiGo Why Everybody Hates Agile • Jesper Boeg • GOTO 202](https://vidigo.ai/share/summary/dffd077766a1)
   * [모두가 애자일을 싫어하는 이유 - Jesper Boeg - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/779361)
+* [은행에 필요한 5대 애자일 요소 < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=12221)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
