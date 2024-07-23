@@ -641,3 +641,8 @@ Android
 * [Android Tutorial for Beginners](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
 * [Pluu Dev - 잡담 시작하는 안드로이드 개발자를 위해](http://pluu.github.io/blog/owner/2020/12/26/start-android-developer/)
 * [안드로이드 앱 프로그래밍 #1 - YouTube](https://www.youtube.com/watch?v=PM6SVTLoUZM)
+
+# Voice
+* [FUTO Voice Input](https://voiceinput.futo.org/)
+* [Transcribro: Private and on-device speech recognition keyboard and service for Android](https://github.com/soupslurpr/Transcribro)
+  * [Transcribro - 안드로이드용 온디바이스 음성인식 키보드 및 서비스 오픈소스 | GeekNews](https://news.hada.io/topic?id=15940)
