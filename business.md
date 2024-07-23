@@ -732,6 +732,8 @@ Business
 * [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
 * [위기에 인력 구조조정을 하지 않는 회사, 어떻게 만들 수 있을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nolayoff20230309) 인재 경영을 통한 건강한 조직 만들기
 * [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
+* [**“측정하지 않으면 관리할 수 없다.” 품질 경영의 아버지, 에드워드 데밍이 한 말**](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7221272808276799490-r6NM/)
+  * 측정 가능하려면 측정 가능한 구조부터 만들어야 한다. 핵심은 가치를 만들어낼 수 있는 최소 단위를 찾아내어 최적으로 조직화하는데에 있다
 * [VIRTU](https://carpedm30.notion.site/VIRTU-5370f00be3494678ba8eb128b0806f69)
 * ["40분 지나면 버려진다"…회전초밥집 초밥의 비밀 정영효의 인사이드 재팬](https://v.daum.net/v/20230122083902406) 기술 자체가 중요하지 않다, 회사의 목적을 생각하고 그에 부함하는 걸 선택해서 사용하는 게 중요
 * [UX Research Lab 이야기(2) 프로토타입 평가받기 | by Sooyoung Jung | Jan, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/ux-research-lab-%EC%9D%B4%EC%95%BC%EA%B8%B0-2-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%ED%8F%89%EA%B0%80%EB%B0%9B%EA%B8%B0-d48750051446)
@@ -2897,6 +2899,7 @@ Business
 * [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
 * [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
 * [09화 모호한 액티베이션과 아하모먼트 구별하기](https://brunch.co.kr/@cliche-cliche/211) AARRR
+* [AAARRR Metrics: The AAARRR Framework Explained](https://digitalleadership.com/unite-articles/pirate-metrics-funnel-aaarrr/)
 * [구독과 리텐션 밸런스 게임. 구독 전환율 2배 개선 vs D1 리텐션 10% 개선 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85%EA%B3%BC-%EB%A6%AC%ED%85%90%EC%85%98-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EA%B2%8C%EC%9E%84-1f7bd516f229)
 * [이제 구독도 빌드업 해야 할 때. 유저도 행복하고 매출도 행복한 구독 엔트리 전략 | by Stephan Seunghwan Seo | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EC%9D%B4%EC%A0%9C-%EA%B5%AC%EB%8F%85%EB%8F%84-%EB%B9%8C%EB%93%9C%EC%97%85-%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C-48dbc790fc4c)
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
