@@ -242,6 +242,8 @@ Elixir
 * [GenStage - elixir로 비트코인 시세 스크랩 (feat. 업비트) 1/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-1-of-3/)
   * [JWT - elixir로 비트코인 시세 스크랩 (feat. 업비트) 2/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-2-of-3/)
   * [prometheus, grafana - elixir로 비트코인 시세 스크랩 (feat. 업비트) 3/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-3-of-3/)
+* [mix_gleam: ⚗️ Build Gleam code with mix](https://github.com/gleam-lang/mix_gleam)
+  * [Enhancing Your Elixir Codebase with Gleam | AppSignal Blog](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [Nerves Project](https://nerves-project.org/)
 * [Orion](https://hexdocs.pm/orion/) Dynamic Distributed Profiler
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
@@ -446,6 +448,7 @@ Elixir
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
   * [Plugs in Elixir Phoenix Part 1. What are plugs in elixir? | by victor Mbashia | Jul, 2024 | Medium](https://medium.com/@mbashiavictor/plugs-in-elixir-phoenix-part-1-a5b2a3668e5b)
+  * [Mastering Phoenix Framework - Part 1 - DEV Community](https://dev.to/rushikeshpandit/mastering-phoenix-framework-part-1-i35)
   * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
