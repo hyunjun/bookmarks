@@ -2985,6 +2985,7 @@ NLP
 * [Why Are Enterprises Adopting Agentic RAG? | by Aniket Hingane | Artificial Intelligence in Plain English](https://ai.plainenglish.io/why-are-enterprises-adopting-agentic-rag-b638a0227b7f)
   * [Pavan Belagatti on LinkedIn: #rag | 10 comments](https://www.linkedin.com/posts/pavan-belagatti_rag-activity-7219402464964354048-jeFe)
 * [BingChat과 같이 기본 정보를 검색해서 요약해주는 정도로 RAG를 활용한다면 Q&A와 Chat 모드와는 달리 조금 낮은 레벨의 LLM을 활용하는 건 가능. 하지만 정답 자체가 중요한 시스템일 때는 그런 단순 접근은 아주 위험](https://www.linkedin.com/posts/jamessungjinkim_llmrag-based-question-answering-activity-7219994805022380033-GPK5/)
+* [Amazon launches App Studio and new gen AI guardrails at AWS Summit | ZDNET](https://www.zdnet.com/article/amazon-updates-ai-enterprise-solutions-with-guardrails-at-aws-summit/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
