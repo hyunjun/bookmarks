@@ -547,6 +547,8 @@ Artificial Intelligence
   * 한국은 데이터센터가 수도권에 집중되어 있는데 수도권의 전력 자급률을 0.67에 불과하기 때문에 국내에서는 발전보다 송전이 더 중요한 문제
     * 이 때문에 데이터센터를 전기가 생산되는 지방으로 이전하려고 노력하지만
     * 지방에서의 인력 문제와 전력 가격 정책 등의 문제로 쉽지 않은 상황
+* [Apple shows off open AI prowess: new models outperform Mistral and Hugging Face offerings | VentureBeat](https://venturebeat.com/ai/apple-shows-off-open-ai-prowess-new-models-outperform-mistral-and-hugging-face-offerings/)
+  * [Apple, 개방형 AI 역량 과시: 새로 공개한 모델이 Mistral보다 뛰어난 성능 발 | GeekNews](https://news.hada.io/topic?id=15980)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
