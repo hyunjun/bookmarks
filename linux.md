@@ -527,6 +527,7 @@ Linux
 * [How to Navigate Man Pages Efficiently in Linux](https://www.tecmint.com/linux-man-pages/)
 * [how to diagnose a mysterious process that’s taking too much CPU, memory, IO, etc?](https://www.linkedin.com/feed/update/urn:li:activity:7175126348724654080/)
   * `vmstat` `iostat` `netstat` `lsof` `pidstat`
+* [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
 * acl access control list
   * [리눅스, 특정 폴더에 생길 미래의 파일/하위 폴더 권한을 미리 설정하는 데 사용하는 acl – 형우의 웹개발](https://mytory.net/archives/16151)
 * `at`
