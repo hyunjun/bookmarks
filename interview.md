@@ -502,6 +502,7 @@ Interview
     * [Rate Limiting Algorithm | codersite](https://codersite.dev/rate-limit/)
     * [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms) Fixed windows, Sliding windows, Token buckets
       * [Rate Limit 알고리듬을 시각화해서 알아보기 | GeekNews](https://news.hada.io/topic?id=14869)
+    * [System Design Basics — Rate Limiter | by javinpaul | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4)
   * Search Engine
     * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
     * [System Design Interview: Search Engine](https://www.hackpack.io/problems/search-engine)
