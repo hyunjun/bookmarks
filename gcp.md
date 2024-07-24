@@ -288,6 +288,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
 * [Google Dev Library | What will you build?](https://devlibrary.withgoogle.com/products/cloud/repos/jybaek-gcp-infra-by-terraform)
 * [Hands on Terraform with GCP](https://heumsi.github.io/hands-on-terraform-with-gcp/)
+* [Migrate Terraform state from Local Backend to GCP Storage Bucket - YouTube](https://www.youtube.com/watch?v=yf-ZipkZIx8&ab_channel=cloudroot7)
 * [gcp-infra-by-terraform](https://github.com/jybaek/gcp-infra-by-terraform)
   * [테라폼 모듈 구조잡기 - feat with GCP](https://jybaek.tistory.com/966)
 
