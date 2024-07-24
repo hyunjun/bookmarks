@@ -66,6 +66,8 @@ Self Control
     * 힘든 일을 하면서 나오는 도파민은 집중 증가, 자신감 향상 등 긍정적 효과
       * 따라서, 단기적인 보상보다는 장기적인 목표를 세우고, 노력하여 성취감을 느끼며 도파민 분비를 조절하는 것이 중요
 * [좋은 습관을 만드는 3가지 방법](http://moneyman.kr/archives/711)
+* [Einstein's 7 rules for a better life - Big Think](https://bigthink.com/starts-with-a-bang/einstein-rules-better-life/)
+  * [아인슈타인의 더 나은 삶을 위한 7가지 규칙 | GeekNews](https://news.hada.io/topic?id=15996)
 
 * [완벽주의자가 나가떨어지지 않기 위한 방법](http://www.huffingtonpost.kr/2015/08/06/story_n_7945280.html)
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
