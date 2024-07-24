@@ -604,6 +604,7 @@ Data Science
 * [koheesio: Python framework for building efficient data pipelines. It promotes modularity and collaboration, enabling the creation of complex pipelines from simple, reusable components](https://github.com/Nike-Inc/koheesio)
   * [Koheesio - Nike의 데이터 파이프라인 구축용 프레임워크 오픈소스 | GeekNews](https://news.hada.io/topic?id=15176)
 * [Maestro: Netflix’s Workflow Orchestrator](https://github.com/Netflix/maestro)
+  * [Maestro - Netflix의 Workflow Orchestrator 오픈소스 | GeekNews](https://news.hada.io/topic?id=15990)
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
   * Job 스케줄링, 플로우 요소별 버전 관리와 결과에 대한 Inspecting, 플로우 및 플로우 요소별 라이브러리 의존성 주입, Amazon S3에 대한 built-in 지원, 컴퓨팅 자원에 대한 손쉬운 스케일 인/아웃 등을 가능
