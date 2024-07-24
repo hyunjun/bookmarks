@@ -2685,6 +2685,7 @@ Scala
 * [Generative Art in Scala, No AI Required - YouTube](https://www.youtube.com/watch?v=kOhBhOGfUKo)
   * [scalar-2024-artistic-scala: Scalar 2024 - Generative Art in Scala, No AI Required](https://github.com/rockthejvm/scalar-2024-artistic-scala)
 * [Paul Matthews SOUNDS OF SCALA.JS Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=ov2pA2FQ3YM)
+* [Scala to WebAssembly: How and Why](https://dev.virtuslab.com/p/scala-to-webassembly-how-and-why)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
