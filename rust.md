@@ -201,6 +201,7 @@
   * [you need to build a RUST desktop app!! - YouTube](https://www.youtube.com/watch?v=7aFgeUG9TK4)
 * [러스트 개발 경험 - Google Slides](https://docs.google.com/presentation/d/1-OrG65RYrOs6k9UktG5f0iQK3aLJ75AHBKAik__Oqyg/edit#slide=id.p)
 * [Build a JS Runtime in Rust - YouTube](https://www.youtube.com/watch?v=Hhpo1zpxaf4)
+* [Rust를 약 10년 동안 사용하며 (그리고 사랑하며) 느낀 실망스러운 점들 | GeekNews](https://news.hada.io/topic?id=16000)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
