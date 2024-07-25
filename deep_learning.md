@@ -2912,6 +2912,8 @@ CVPR2016)
     * 케라스 스탠다드 모델(SavedModel)로 구현되었기 때문에, 다양한 형식의 배포 용이. TFServing / TFLite / TF.js 로 쉽게 변환될 수 있으며, 이를 통해 다양한 애플리케이션 작성 가능
   * [stable-diffusion-video-maker: Video generation tool for Stable Diffusion.](https://github.com/mix1009/stable-diffusion-video-maker)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+  * [Stable Video 4D — Stability AI](https://stability.ai/news/stable-video-4d)
+    * [AGI KR | StabilityAI 에서 Stable Video 4D 공개 (24.7.24 발표문 전문 번역) | Facebook](https://www.facebook.com/groups/agikr/posts/2347491072258604/)
 * [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation](https://storydiffusion.github.io/)
   * [NEW Open Source AI Video (Multi-Consistent Characters + 30 Second Videos +More) - YouTube](https://www.youtube.com/watch?v=jZWRENqCl6I)
     * [VidiGo NEW Open Source AI Video (Multi-Consistent Charact](https://vidigo.ai/share/summary/066db0cf4924)
