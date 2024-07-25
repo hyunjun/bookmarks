@@ -3635,6 +3635,7 @@ Javascript
   * `--experimental-require-module` 플래그를 적용하면 ESM 모듈을 `require()`로 동기식으로 불러올 수 있는 기능 추가
 * [10 modern Node.js runtime features to start using in 2024 | Snyk](https://snyk.io/blog/10-modern-node-js-runtime-features/)
   * [2024년부터 사용할 최신 Node.js 런타임 기능들 | GeekNews](https://news.hada.io/topic?id=15139)
+* [Node 22.5.0, sqlite 를 내장하고 Websocket 지원 | GeekNews](https://news.hada.io/topic?id=16013)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
