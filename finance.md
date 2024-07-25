@@ -177,6 +177,7 @@ Finance
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 * [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
 * [연말정산과 노후 준비를 위한 필수템 “연금저축펀드”를 소개합니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/253195)
+* ["사람들이 몰라서 잘 안해요" 직장 다니시는 분들은 무조건 이 통장으로 2천만원 이상 받아가세요. (해커스 금융 일타강사 송영욱) - YouTube](https://www.youtube.com/watch?v=gAQ_eNCGNoc) 연금저축 IRP
 * 국민연금 ["제발 속지마세요." 이것 모르면 피같은 내 돈 '전부' 사라질 겁니다. (이영주 대표 1부) - YouTube](https://www.youtube.com/watch?v=mXYlYCdbBC8)
 * [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
 * ELB
