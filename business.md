@@ -1506,6 +1506,11 @@ Business
 * [Scaling Teams at Sanity, Github, and Google 🏢 — with Rachel Potvin - YouTube](https://www.youtube.com/watch?v=-cRZOSfE4yA&t=486s)
   * [레이첼 포트빈과 함께 하는 Sanity, Github, Google의 팀 확장하기 🏢 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747733)
 * [디스콰이엇 CTO 3개월 수습 기간 회고 | Disquiet\*](https://disquiet.io/@wonny727/makerlog/%EB%94%94%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%97%87-cto-3%EA%B0%9C%EC%9B%94-%EC%88%98%EC%8A%B5-%EA%B8%B0%EA%B0%84-%ED%9A%8C%EA%B3%A0)
+* [팀장 때까지는 괜찮았는데 본부장 시키니까 잘 안 되는 사람](https://www.linkedin.com/posts/kidaelee_%ED%8C%80%EC%9E%A5-%EB%95%8C%EA%B9%8C%EC%A7%80%EB%8A%94-%EA%B4%9C%EC%B0%AE%EC%95%98%EB%8A%94%EB%8D%B0-%EB%B3%B8%EB%B6%80%EC%9E%A5-%EC%8B%9C%ED%82%A4%EB%8B%88%EA%B9%8C-%EC%9E%98-%EC%95%88-%EB%90%98%EB%8A%94-%EC%82%AC%EB%9E%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%8B%A0%EC%9D%84-activity-7221736446259339264-_mwV/)
+  * 회사의 경영진 입장에서 일 못 하는 본부장을 날리기는 안 쉽다
+    * 사업이 잘 안 되는 원인은 복합적이라 본부장만 책임을 지우기 어렵고 일 잘하는 사람을 찾기란 언제나 쉽지 않은 과제이다
+  * 대신 자기 부서원들과 갈등을 일으키는 본부장은 리더십 부족으로 내리기가 용이하다
+    * 분위기 쇄신을 위한 희생양일 수도 있겠지만, 뭐가 어찌 되었든 시끄러운 부서는 부서장 책임이니까
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -3849,6 +3854,7 @@ Business
 * [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
 * [20화 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅](https://brunch.co.kr/@cliche-cliche/238)
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
+* [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
