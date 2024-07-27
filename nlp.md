@@ -2168,6 +2168,8 @@ NLP
   * [BERTScore 는 문장간 유사성을 구하는 데 활용되는 LLM 기반 패키지](https://www.linkedin.com/posts/jamessungjinkim_bertscore-llm-bert-activity-7220880796885114881-UMnt/)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
+  * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
+    * Meta is releasing five AI research models, including image-to-text and text-to-music generation models, a multi-token prediction model, and a technique for detecting AI-generated speech. The goal is to inspire collaboration and advance AI in a responsible way. They're also releasing key components of their Chameleon models, which can process and generate both images and text, as well as their JASCO model for better control over AI music generation. Additionally, they're sharing AudioSeal, a watermarking technique for detecting AI-generated speech, and tools to increase diversity in text-to-image generation systems.
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
