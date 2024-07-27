@@ -72,6 +72,14 @@ Finance
 * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. - YouTube](https://www.youtube.com/watch?v=dutPBZTnTg4) CMA, 발행 어음, MMF, 장기 채권, 단기 채권형 펀드
   * [VidiGo 총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다](https://vidigo.ai/share/summary/ce0e0cc8c314)
   * [총정리 예적금 특판 때문에 보험, 카드, 펀드 만들지 말고 '저위험 상품' 공부합시다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/866587)
+* [목돈 넣을 더 좋은 통장이 있다고? (이자 3%대 CMA, 파킹통장 비교) - YouTube](https://www.youtube.com/watch?v=8wZ8HNWJu0o)
+  * CMA 계좌와 파킹 통장의 차이점과 공통점을 설명하며, 두 계좌 모두 매일 이자를 지급한다는 특징
+  * CMA 계좌는 증권사에서 만들어지며 예금자 보호가 되지 않고
+    * 상방이 열려있음
+    * 예금자 보호가 되지 않기 때문에 하방이 열려있음
+  * 파킹 통장은 은행에서 만들어지며 예금자 보호
+    * 상방이 닫혀있는 구조이기 때문에 비추천
+    * 예금자 보호가 되기 때문에 하방이 꽉 막혀있음
 * ISA
   * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
   * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8)
@@ -145,6 +153,11 @@ Finance
 * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF - YouTube](https://www.youtube.com/watch?v=ANFXn_Ne5pE)
   * [VidiGo 월배당ETF 63개 총정리 해봤어요ㅣETF.mp4](https://vidigo.ai/share/summary/3e6ad61a4c10)
   * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907204)
+* ["이 방법만 지킨다면 절대 잃지 않아요" 여러분 모두 10% 이상씩 할 수 있습니다. 저만 믿고 따라와 주세요. (재테크 금쪽이) - YouTube](https://www.youtube.com/watch?v=qUREouynB68)
+  * 10% 이상의 수익 보장
+  * 사람들이 재무 목표를 설정하고, 저축과 투자의 균형을 유지하는 방법을 배울 수 있도록 도움
+  * 적당한 수익을 얻기 위해 예적금과 ETF 투자가 안전하고 효율적인 방법이라고 언급
+  * 200 ETF를 구매하는 방법과 일정한 투자의 중요성에 대해 설명
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)
