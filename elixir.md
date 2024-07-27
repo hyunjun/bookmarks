@@ -230,6 +230,7 @@ Elixir
   * [Elixir and Ecto with SQLite3](https://juanpabloaj.com/2023/08/19/elixir-and-sqlite3/)
   * [Repo.transact/2 (The Case Against Ecto.Multi) |> Tom Konidas](https://tomkonidas.com/repo-transact/)
   * [Elixir Streams |> Richer domain types with Ecto custom types](https://www.elixirstreams.com/tips/richer-domain-types-with-ecto-custom-types)
+  * [Build an API with Plug and Ecto - YouTube](https://www.youtube.com/watch?v=fEro95Q7JEQ)
   * [ecto_command](https://github.com/silvadanilo/ecto_command)
   * EctoDbg [README — EctoDbg v0.2.0](https://hexdocs.pm/ecto_dbg/)
   * Ecto.dump [Deploying after mix ecto.dump · Fly](https://fly.io/phoenix-files/deploying-after-a-mix-ecto-dump/)
