@@ -693,6 +693,7 @@ AWS
 * [Amazon 생성형 AI 도구인 베드락 사용해 보자](https://brunch.co.kr/@topasvga/3727)
 * [Amazon Bedrock을 이용해 RAG, Fine tuning 없이 자동 고객 응대 서비스 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-cs-bot-without-rag/)
 * [Amazon Bedrock 기반 미리캔버스 디자인 템플릿 추천 챗봇 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-miri-canvas-design-template-chatbot/)
+* [Amazon Bedrock으로 Multi Modal 문서에 대해 RAG 적용 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-multi-modal-document-rag/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -1025,6 +1026,12 @@ AWS
 * [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 2탄 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/aws-inferentia-2/)
 * [머신러닝 모델 서빙 비용 1/4로 줄이기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html)
 * [클레온의 AWS Inferentia를 이용한 디지털 휴먼 생성 모델 추론 비용 50% 절감 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/klleon-digital-human-generative-model-aws-inferentia/)
+* [Task-specialized LLM을 위한 비용 효율적인 서빙 전략: AWS Inferentia2와 Hugging Face Optimum을 활용한 자체 개발 LLM 서빙하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/task-specialized-llm-serving-aws-inferentia2-huggingface-optimum/)
+  * AWS Inferentia2와 Hugging Face Optimum을 사용하여 자체 개발 LLM을 서빙하는 비용 효율적인 전략을 소개
+  * 대규모 언어모델(LLM)은 AI 엔지니어와 많은 컴퓨팅 리소스를 필요로 했지만, 이제는 LLM을 프로그래밍 작업부터 추론 능력까지 다양한 작업에 적용 가능
+  * LLM의 클라우드 기반 API 서비스는 데이터 보안, 커스터마이징 부족, 반복 호출 시 비용 증가 등의 문제
+  * 이에 따라, 금융권과 같은 폐쇄망 환경에서는 LLM을 직접 개발하여 운영할 필요
+  * AWS Inferentia2를 사용하여 비용 효율적인 추론을 위한 실험 결과와 Hugging Face Optimum을 사용하여 LLM을 Inferentia2에 최적화하는 방법 소개
 * [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
   * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
@@ -1667,6 +1674,11 @@ AWS
   * [함수 대 컨테이너: 서버리스 환경 - 마르시아 비얄바 & 줄리안 우드 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/595172)
 * [Using Serverless & ARM64 for Real-Time Observability • Liz Fong-Jones • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=nI15yE2yIoI)
   * [VidiGo Using Serverless & ARM64 for Real-Time Observabili](https://vidigo.ai/share/summary/dabc1610ba2b)
+* [Serverless Compute at the Heart of Your EDA • Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=wYvQv_MTMNs)
+  * This presentation discusses serverless compute in the context of event-driven architectures (EDA) and how AWS services like Lambda, ECS on Fargate, and eventbridge can be used to handle EDA compute needs
+  * It also covers the benefits of a serverless approach, such as focusing on business requirements instead of infrastructure management
+  * [VidiGo Serverless Compute at the Heart of Your EDA • Juli](https://vidigo.ai/share/summary/d93be28333ff)
+  * [EDA의 중심이 되는 서버리스 컴퓨팅 - Julian Wood - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/993060)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
