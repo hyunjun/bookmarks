@@ -900,6 +900,7 @@ NLP
     * [Let's reproduce GPT-2 (124M) - YouTube](https://www.youtube.com/watch?v=l8pRSuU81PU)
     * [(1) Andrej Karpathy on X: "# Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20 ✨ The GPT-2 (124M) is the smallest model in the GPT-2 series released by OpenAI in 2019, and is actually quite accessible today, even for the GPU poor. For example, with llm.c you can now reproduce this model on one 8X https://t.co/C9GdaxGPhd" / X](https://x.com/karpathy/status/1795484547267834137)
     * [llm.c를 사용하여 GPT-2 모델을 저렴하게 재구현하기 | GeekNews](https://news.hada.io/topic?id=15065)
+  * [What if...? 처음부터 다시 LLM 어플리케이션을 개발한다면 - Speaker Deck](https://speakerdeck.com/huffon/what-if-dot-dot-dot-ceoeumbuteo-dasi-llm-eopeulrikeisyeoneul-gaebalhandamyeon)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1741,6 +1742,7 @@ NLP
       * 평가 후 최적의 결과를 보장하기 위해 제대로 실험한 뒤 하이브리드 접근법을 택할 수 있고, 부족한 데이터일 경우 RAG도 고려 가능
       * LLMOps에 접근할 때 중요한 단계는 foundational 모델 선택부터 retrieval, generation, evaluation까지 다양한 parameter 및 구성 평가를 거쳐 fine-tuning과 prompt engineering 조합 가능
     * 평가를 위한 도구들, 특히 MLflow와 DeepChecks가 가장 잘 알려진 도구 중 하나
+* [Research on How to Create Data for Fine-Tuning](https://www.perplexity.ai/search/research-on-how-to-create-data-5hEr4F8lQd.D_AKU29IEhg)
 * [Simplify LLMOps & Build LLM Pipeline in Minutes - YouTube](https://www.youtube.com/watch?v=4ijnajzwor8)
   * [VidiGo Simplify LLMOps & Build LLM Pipeline in Minutes](https://vidigo.ai//chatbot/summary/kupgzvNDYTVZHVI)
   * [몇 분 만에 LLMOps 간소화 및 LLM 파이프라인 구축 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/350318?sId=4ijnajzwor8)
@@ -2583,6 +2585,9 @@ NLP
     * [Open Source AI Is the Path Forward | Meta](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
       * ["오픈소스 AI가 미래의 길입니다." by 마크 주커버그 | GeekNews](https://news.hada.io/topic?id=15988)
     * [Llama 3.1 | Model Cards and Prompt formats](https://llama.meta.com/docs/model-cards-and-prompt-formats/llama3_1)
+      * [Llama 3.1 models from Meta are available on AWS for generative AI applications](https://www.aboutamazon.com/news/aws/meta-llama-3-1-models-aws-generative-ai)
+      * [Meta, Llama 3.1 공개 | GeekNews](https://news.hada.io/topic?id=15987)
+      * [hello-llama: A simple chat bot to play with Llama 3.1](https://github.com/holdenmatt/hello-llama)
     * [llama3.cuda: llama3.cuda is a pure C/CUDA implementation for Llama 3 model](https://github.com/likejazz/llama3.cuda)
       * [llama3.cuda: pure C/CUDA implementation for Llama 3 model : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1d6q7qh/llama3cuda_pure_ccuda_implementation_for_llama_3/)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
@@ -2812,6 +2817,7 @@ NLP
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
   * [LLM AWS T4 GPU 서버에서 vllm 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/07/08/llm-aws-t4-gpu-vllm/)
+  * [LLM llama3.1을 vllm API를 통해 서빙해보자. (feat. FastAPi) - 미완성의신](https://unfinishedgod.netlify.app/2024/07/26/llm-llama3-1-vllm-api-feat-fastapi/)
 * [WebLLM | Home](https://webllm.mlc.ai/)
   * [Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 | GeekNews](https://news.hada.io/topic?id=8977)
   * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
