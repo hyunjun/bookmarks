@@ -185,6 +185,7 @@ Data Science
 * [Data Lake vs. Data Lakehouse | 01](https://vocal.media/01/data-lake-vs-data-lakehouse)
 * [What is a Data Fabric?. How to realize modern Data Management | by Christianlauer | Aug, 2022 | Medium](https://christianlauer90.medium.com/what-is-a-data-fabric-c825ce8da0a1)
 * [Data Warehouse vs. Data Lake vs. Data Fabric | by Christianlauer | Nov, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-lake-vs-data-fabric-b264dc02228b)
+* [데이터 통합과 데이터 패브릭 구현의 7대 핵심 < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=12369)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [Data Catalog, 데이터경험의 심리학 법칙. https://us.semantix.ai/ | by reckoner | Nov, 2022 | Medium](https://medium.com/@_goo__/data-catalog-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%ED%97%98%EC%9D%98-%EC%8B%AC%EB%A6%AC%ED%95%99-%EB%B2%95%EC%B9%99-83418dd45339)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
@@ -605,6 +606,8 @@ Data Science
   * [Koheesio - Nike의 데이터 파이프라인 구축용 프레임워크 오픈소스 | GeekNews](https://news.hada.io/topic?id=15176)
 * [Maestro: Netflix’s Workflow Orchestrator](https://github.com/Netflix/maestro)
   * [Maestro - Netflix의 Workflow Orchestrator 오픈소스 | GeekNews](https://news.hada.io/topic?id=15990)
+  * [Maestro: Data/ML Workflow Orchestrator at Netflix | by Netflix Technology Blog | Jul, 2024 | Netflix TechBlog](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
+    * Maestro is a workflow orchestrator designed to manage large-scale workflows such as data pipelines and machine learning model training pipelines. It supports both acyclic and cyclic workflows and includes multiple reusable patterns. Maestro has successfully migrated hundreds of thousands of workflows to it on behalf of users with minimal interruption. It now launches thousands of workflow instances and runs half a million jobs daily on average. Maestro is horizontally scalable and supports a wide range of workflow use cases. It is now open-source and available on GitHub.
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
   * Job 스케줄링, 플로우 요소별 버전 관리와 결과에 대한 Inspecting, 플로우 및 플로우 요소별 라이브러리 의존성 주입, Amazon S3에 대한 built-in 지원, 컴퓨팅 자원에 대한 손쉬운 스케일 인/아웃 등을 가능
@@ -1088,6 +1091,8 @@ Data Science
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development_second/)
 * [실시간 반응형 추천 개발 일지 #1. 프로젝트 소개 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17383/)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
+* [속성을 활용한 추천 고도화 : Part 1. 무신사만의 패션 택소노미 구축기 | by Jungmin Seo | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-063ac9881801)
+* [속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법 | by JeeYoon Kim | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-part-2-%EB%AC%B4%EC%8B%A0%EC%82%AC%EA%B0%80-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-71f7aeb1dc5d)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
