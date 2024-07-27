@@ -1085,6 +1085,15 @@ Java
 * [VDBUH2024 - Laurențiu Spilcă - Maximizing Security with JDK: Understanding Built-in Capabilities - YouTube](https://www.youtube.com/watch?v=TcCkSbari7M)
   * [VidiGo VDBUH2024 - Laurențiu Spilcă - Maximizing Securi](https://vidigo.ai/share/summary/d343feaf0921)
   * [VDBUH2024 - 라우렌치우 스필카 - JDK로 보안 극대화: 기본 제공 기능 이해하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526646)
+* [Modern Java in Action • Nicolai Parlog • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=miUbs3mqPJE)
+  * Java 21이 제공하는 모든 기능을 사용하여 GitHub 크롤러를 작성하는 방법 탐구
+    * 가상 스레드와 구조화된 동시성
+    * 패턴 매칭 및 데이터 중심 프로그래밍
+    * 형 추론, 레코드 및 밀봉된 유형
+    * 텍스트 블록 및 템플릿 문자열
+    * 현대적인 HTTP 클라이언트 및 개선된 컬렉션
+    * 모듈 및 OS별 바이너리
+  * [현대 자바의 작동 방식 - 니콜라이 파로그 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/990734)
 
 # Java22
 * [Java 22 / JDK 22 출시(GA) | GeekNews](https://news.hada.io/topic?id=13904)
