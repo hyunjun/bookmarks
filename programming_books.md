@@ -2521,6 +2521,7 @@ Programming Books
   * 탐라 005.133 모239ㅇ
   * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
 * [혼자 공부하는 자바스크립트](https://nymets.medium.com/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-8e7e770c9650)
+* [실무로 통하는 타입스크립트](https://www.notion.so/1003/b9cc0054ea6c4388b3631d5d28045ada?pvs=4)
 * (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
 * (NOT YET) [SNS 앱 예제로 배우는 프로그레시브 웹 앱 - YES24](http://www.yes24.com/Product/Goods/91360603)
 * (NOT YET) [《자바스크립트는 왜 그 모양일까?: 더글러스 크락포드가 알려주는 위험한 자바스크립트를 안전하게 사용하는 법》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/05/22/%e3%80%8a%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-%ec%99%9c-%ea%b7%b8-%eb%aa%a8%ec%96%91%ec%9d%bc%ea%b9%8c-%eb%8d%94%ea%b8%80%eb%9f%ac%ec%8a%a4-%ed%81%ac%eb%9d%bd%ed%8f%ac/)
