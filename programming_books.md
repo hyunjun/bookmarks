@@ -3771,6 +3771,13 @@ Programming Books
   * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까?. Tags: essay, product Date: June 29… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%8F%84%EA%B7%B8%EB%83%A5%EC%9D%80-%EC%99%9C-pm-po%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C-a7033075c0fd)
   * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까? - Jun’s Substack](https://recur.substack.com/p/pmpo)
   * [잘나가는 서비스 기획자 도그냥은 왜 PM/PO가 되었을까?](https://jh4hj.tistory.com/entry/%EC%9E%98%EB%82%98%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%8F%84%EA%B7%B8%EB%83%A5%EC%9D%80-%EC%99%9C-PMPO%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C)
+* [최고의 프로덕트는 무엇이 다른가](https://bjpublic.tistory.com/522)
+  * ★★★★☆ July 27, 2024
+  * 제주 005.12-유79최
+  * [최고의 프로덕트는 무엇이 다른가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/what_is_different_in_the_best_product.md)
+  * [최고의 프로덕트는 무엇이 다른가. ★★★★☆ July 27, 2024 | by Jun | Jul, 2024 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-e08427fed3a4)
+  * [최고의 프로덕트는 무엇이 다른가 - Jun’s Substack](https://recur.substack.com/p/1aa)
+  * [최고의 프로덕트는 무엇이 다른가](https://jh4hj.tistory.com/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
   * 한라 005.1-맥17ㅍ
