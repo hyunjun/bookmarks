@@ -549,6 +549,7 @@ Artificial Intelligence
     * 지방에서의 인력 문제와 전력 가격 정책 등의 문제로 쉽지 않은 상황
 * [Apple shows off open AI prowess: new models outperform Mistral and Hugging Face offerings | VentureBeat](https://venturebeat.com/ai/apple-shows-off-open-ai-prowess-new-models-outperform-mistral-and-hugging-face-offerings/)
   * [Apple, 개방형 AI 역량 과시: 새로 공개한 모델이 Mistral보다 뛰어난 성능 발 | GeekNews](https://news.hada.io/topic?id=15980)
+* [타겟 유저를 확 좁혀서 7,000억 기업가치가 된 AI 세일즈 툴](https://maily.so/founderstory/posts/cfdd3f7a)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
