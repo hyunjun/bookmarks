@@ -1102,6 +1102,10 @@ Programming
 * [Scrum vs Kanban: Agile Methodologies Comparison](https://k21academy.com/scrum-master/scrum-vs-kanban/)
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
+* [KANBAN STATIK :: StoneI Developer — A simple theme for Hugo](https://stonei.tech/posts/kanban-statik/)
+  * Agile 방법론 중 하나인 Kanban은 기존 조직을 크게 변경하지 않고도 시작 가능
+  * Kanban 도입을 위한 시스템 사고 접근법인 STATIK을 사용하면 새로운 시스템 설계 가능
+  * STATIK은 효과적인 Kanban 시스템 설계를 위한 반복적이고 인간적인 방법으로, 6가지 기본 단계를 포함
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [원격 디자인 스프린트 쉽게 하는 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/08/remote-design-sprint/)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
@@ -1559,6 +1563,18 @@ Programming
 * [웹 API 설계 원칙 #1 (1~3장) - YouTube](https://www.youtube.com/watch?v=5n1gEeQiw1Y)
   * [VidiGo 웹 API 설계 원칙 #1 (1~3장).mp4](https://vidigo.ai/share/summary/95134b72b619)
   * [웹 API 설계 원칙 #1 (1~3장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/750203)
+* [API Protocols](https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7221822897483358208-t1cY/)
+  * 1. REST (Representational State Transfer)
+  * 2. GraphQL
+  * 3. SOAP (Simple Object Access Protocol)
+  * 4. gRPC (Google Remote Procedure Call)
+  * 5. Webhooks
+  * 6. WebSockets
+  * 7. MQTT (Message Queuing Telemetry Transport)
+  * 8. AMQP (Advanced Message Queuing Protocol)
+  * 9. EDA (Event-Driven Architecture)
+  * 10. EDI (Electronic Data Interchange)
+  * 11. SSE (Server-Sent Events)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2028,6 +2044,7 @@ Programming
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
 * [ports and adapter 패턴 또는 헥사고날 아키텍처](https://coco-log.tistory.com/205)
+* [아키텍처에 대한 고민은 처음이라: 계층형과 육각형 아키텍처 적용 사례 | by weekwith.me | 당근 테크 블로그 | Jul, 2024 | Medium](https://medium.com/daangn/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-b75dffd73eb0)
 * [설계란 고민의 연속이다 1편](https://ebay-korea.tistory.com/104) hexagonal architecture
 * [설계란 고민의 연속이다 1편](https://dev.gmarket.com/104)
 * [설계란 고민의 연속이다 2편](https://ebay-korea.tistory.com/105)
@@ -6614,6 +6631,7 @@ Programming
   * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-1.html)
   * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-2.html)
   * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-3.html)
+  * [7월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8818,6 +8836,7 @@ Programming
   * [다이빙 인투 더 보이드 - 케이시 로젠탈 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698390)
 * [치지직 알림 봇 로직 개선하기. 방송 알림 로직을 10분에서 15초 ~ 1분 20초로 개선한 경험을… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%80%EC%A7%81-%EC%95%8C%EB%A6%BC-%EB%B4%87-%EB%A1%9C%EC%A7%81-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1309b8fe1f3a)
   * [치직 취약점 노출 사건 회고. 치지직 알림 디스코드 봇의 취약점이 노출되어 일부 서버에 테러 행위가… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%81-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%85%B8%EC%B6%9C-%EC%82%AC%EA%B1%B4-%ED%9A%8C%EA%B3%A0-890081dde217)
+* [크라우드 스트라이크 글로벌IT대란의 진짜 원인을 말한다](https://brunch.co.kr/@delight412/709) crowdstrike
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
