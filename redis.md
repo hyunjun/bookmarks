@@ -294,6 +294,12 @@ Redis
 * [valkey: A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie](https://github.com/valkey-io/valkey)
   * [Valkey - 리눅스 재단(Linux Foundation)이 발표한 Redis의 오픈소스 | GeekNews](https://news.hada.io/topic?id=14057)
   * [Introducing Valkey GLIDE, an open source client library for Valkey and Redis open source | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source/)
+  * [Valkey 및 Redis 오픈 소스용 오픈 소스 클라이언트 라이브러리, Valkey GLIDE 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source-kr/)
+    * AWS는 오픈소스 클라이언트 라이브러리인 Valkey GLIDE 출시
+    * 높은 안정성과 운영 우수성을 제공하며, Valkey와 Redis 오픈소스 6.2, 7.0, 7.2 버전 지원
+    * GLIDE는 수천 명의 고객에게 서비스를 제공한 경험을 바탕으로 설계, 일관된 클라이언트 경험과 최적화된 DNS 구성 및 연결 처리 논리 제공
+    * 이 라이브러리는 모든 Valkey와 Redis 명령 지원, 클러스터 토폴로지 변경 감지, 복제본에서의 읽기, 상태 저장 연결과 같은 최고 수준 기능 제공
+    * GLIDE는 Java와 Python에서 사용할 수 있으며, 주요 오픈소스 패키지 관리자에서 다운로드 가능
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
