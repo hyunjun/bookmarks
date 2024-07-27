@@ -1864,6 +1864,7 @@ Javascript
     * 4.7.0에서 프리뷰로 공개되었던 클라이언트 익스텐션이 4.16.0에서 GA
     * Prisma 클라이언트에서 $extends를 사용해서 원하는 메서드를 확장 가능
   * [Detailed Introduction To Prisma ORM - DEV Community](https://dev.to/sammaji15/detailed-introduction-to-prisma-orm-nm2)
+  * [Node.js Prisma 한방 쿼리로 성능 개선](https://dc-choi.tistory.com/92)
 * Relay
   * [Thinking in GraphQL | Relay](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
