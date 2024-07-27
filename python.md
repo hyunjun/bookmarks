@@ -2631,7 +2631,8 @@ Python
   * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
   * [pytest-django 셋업하기 2022-02-01 재활코딩 - YouTube](https://www.youtube.com/watch?v=vQjZ7JFBYnM)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
-* Wagtail [Django Content Management System | Wagtail CMS](https://wagtail.io/)
+* [Wagtail CMS - Django Content Management System](https://wagtail.org/)
+  * [wagtail: A Django content management system focused on flexibility and user experience](https://github.com/wagtail/wagtail)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -3938,6 +3939,7 @@ Python
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [magic-wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole) Get things from one computer to another, safely
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
+* [memedex-backend: Simple image uploader for personal purpose](https://github.com/kodingwarrior/memedex-backend)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
