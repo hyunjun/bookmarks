@@ -73,6 +73,7 @@ Hardware
 * [권석준 칼럼 반도체 칩4동맹과 미국의 패권 2 | 피렌체의 식탁](https://firenzedt.com/22288)
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
+* [홈랩 프로젝트#1: 프롤로그 - 나에게 홈랩이란? 목적은 무엇인가? | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/07/24/home-lab-introduction/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
 * [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
