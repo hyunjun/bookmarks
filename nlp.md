@@ -3018,6 +3018,8 @@ NLP
 * [LLM과 RAG, 파인튜닝 중 AI 품질을 결정하는 가장 중요한 것은? - 티타임즈](https://www.ttimes.co.kr/article/2024072215017713111)
   * [VidiGo 사람과 LLM 사이의 RAG 작동 시연 (이창수 올거나이즈 대표).mp4](https://vidigo.ai/share/summary/5b0a9e4df337)
   * [사람과 LLM 사이의 RAG 작동 시연 (이창수 올거나이즈 대표) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/975842)
+* [LangChain KR | Multilingual Hybrid Retriever: 다국어 문서를 위한 Tokenizer 설정#RAGtip | Facebook](https://www.facebook.com/groups/langchainkr/posts/3101370099998701)
+  * [LlamaIndex multi tokenizer for bm25.ipynb - Colab](https://colab.research.google.com/drive/1lIW2U08MeGP6g9Oa1FSmpmgAnZ824Cwz?usp=sharing)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
 * [AutoRAG: RAG AutoML Tool - Find optimal RAG pipeline for your own data.](https://github.com/Marker-Inc-Korea/AutoRAG)
   * [🤖 E01. #AutoRAG 처음 사용자를 위한 튜토리얼 by Markr.AI 김동규 - YouTube](https://www.youtube.com/watch?v=rA5SoBXB8R4)
