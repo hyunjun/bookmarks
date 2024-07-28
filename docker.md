@@ -1296,6 +1296,7 @@ Docker
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
 * [PodPreset](https://bcho.tistory.com/1304)
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
+* [PodDisruptionBudget로 애플리케이션 보호](https://jybaek.tistory.com/504720)
 * [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
 * 쿠버네티스 시작하기
   * [1부. minikube와 kubectl 사용해서 앱 배포하기](https://www.youtube.com/watch?v=IFc1mG48j0s)
