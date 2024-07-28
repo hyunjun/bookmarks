@@ -2188,6 +2188,7 @@ Programming
 * [서버 없이 웹 사이트 쉽게 만들기, LINE의 헤드리스 CMS](https://engineering.linecorp.com/ko/blog/headless-cms-in-line)
 * [전통적인 CMS에서 LandPress Content로 CMS를 옮기는 이유](https://engineering.linecorp.com/ko/blog/from-traditional-cms-to-landpress-content) 헤드리스 CMS
 * [전통적인 CMS에서 LandPress Content로 CMS를 옮기는 이유](https://techblog.lycorp.co.jp/ko/from-traditional-cms-to-landpress-content)
+* [Headless CMS를 위한 변경 데이터 캡쳐(CDC) 기술 설계하기](https://techblog.lycorp.co.jp/ko/change-data-capture-for-headless-cms) LandPress Content
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
@@ -3313,6 +3314,7 @@ Programming
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
   * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
   * [우리는 어떻게 해외주식 서비스 안정화를 이뤘는가](https://toss.tech/article/overseas-securities-server) Resilience4j 이야기 약간 포함
+  * [오픈마켓 여행 플랫폼의 실전 API 연동 노하우](https://ebay-korea.tistory.com/115)
 * [Service Weaver](https://serviceweaver.dev/)
   * [Introducing Service Weaver: A Framework for Writing Distributed Applications | Google Open Source Blog](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
     * Google에서 분산 애플리케이션을 만들고 배포하는 프레임워크 Service Weaver를 오픈소스로 공개
