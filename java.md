@@ -1357,6 +1357,7 @@ Java
         * 데모와 발표 자료는 GitHub에 있으며, Markdown으로 슬라이드를 제공하며 HTML 버전도 있음
         * 응용 프로그램을 실행했을 때 가상 스레드를 활용하여 작동하고, 성능 테스트에서 높은 성과를 보임
         * 실제로 응용 프로그램 마이그레이션이 간단할 수 있다는 것을 실험을 통해 확인
+  * [Project Loom Virtual Thread에 봄(Spring)은 왔는가 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ro-spring-virtual-thread/)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 * [Dynamic Constants — Oxymoron or Promising JVM Feature? • Evgeny Mandrikov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=9hDsylc3Rvc)
   * [VidiGo | 비디고 - Analyze Video AI](https://vidigo.ai/h/result/summary/21448)
@@ -2284,6 +2285,9 @@ Java
   * [스프링(Spring) #3 - 스프링 빈에 대해 알아보자](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-3-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [IoC와 DI를 이용한 Spring 멀티 모듈 아키텍처 | kciter.so](https://kciter.so/posts/spring-multi-module-architecture)
 * [Spring Modulith – Spring for the Architecturally Curious Developer by Oliver Drotbohm - YouTube](https://www.youtube.com/watch?v=SjSjBZ7mo1g)
+* [The Modern Monolith, with Spring Modulith by Cora Iberkleid @ Spring I/O 2024 - YouTube](https://www.youtube.com/watch?v=Pae2D4XcEIg)
+  * [VidiGo The Modern Monolith, with Spring Modulith by Cora](https://vidigo.ai/share/summary/d2fba559beca)
+  * [코라 이버클레이드의 스프링 모듈리스가 적용된 모던 모노리스 @ Spring IO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997317)
 * [스프링 가이드 타임어택 (1) - RESTful Web Service - YouTube](https://www.youtube.com/watch?v=wlOR5ehWSjE)
 * [스프링 가이드 타임어택 (2) - Scheduling Tasks - YouTube](https://www.youtube.com/watch?v=VIacwaUMbqs)
 * [스프링 가이드 타임어택 (3) - Consuming a RESTful Web Service - YouTube](https://www.youtube.com/watch?v=SwPrW4KRPzo)
