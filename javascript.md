@@ -1368,6 +1368,8 @@ Javascript
   * [Why To Use JavaScript Async/Await Over Promises ? - YouTube](https://www.youtube.com/watch?v=8V-DOz4Lqkc)
   * [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
   * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
+  * [How to Annul Promises in JavaScript](https://webdeveloper.beehiiv.com/p/cancel-promises-javascript)
+    * [번역 자바스크립트에서 프로미스를 취소하는 방법](https://velog.io/@eunbinn/cancel-promises-javascript)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -3637,6 +3639,7 @@ Javascript
 * [10 modern Node.js runtime features to start using in 2024 | Snyk](https://snyk.io/blog/10-modern-node-js-runtime-features/)
   * [2024년부터 사용할 최신 Node.js 런타임 기능들 | GeekNews](https://news.hada.io/topic?id=15139)
 * [Node 22.5.0, sqlite 를 내장하고 Websocket 지원 | GeekNews](https://news.hada.io/topic?id=16013)
+* [Node의 SQLite 지원 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/915)
 * [Node.js, Typescript 파일 실행을 시험적 기능으로 추가 | GeekNews](https://news.hada.io/topic?id=16017)
 
 ## Node.js Library
