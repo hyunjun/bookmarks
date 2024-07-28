@@ -230,6 +230,8 @@ Deep Learning
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
     * [pixel-cnn++ - This is a Python3 / Tensorflow implementation of PixelCNN++](https://github.com/openai/pixel-cnn)
     * [PixelCNN 1601.06759 Summary](https://tensorflow.blog/2016/11/29/pixelcnn-1601-06759-summary/)
+  * [SearchGPT](https://chatgpt.com/search)
+    * [OpenAI, SearchGPT 발표 | GeekNews](https://news.hada.io/topic?id=16029)
   * [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
   * [wolverine](https://github.com/biobootloader/wolverine)
     * [Wolverine Gives Your Python Scripts The Ability To Self-Heal | Hackaday](https://hackaday.com/2023/04/09/wolverine-gives-your-python-scripts-the-ability-to-self-heal/)
