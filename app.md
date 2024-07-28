@@ -20,6 +20,7 @@ App
   * autohotkey
     * [이미지를 인식하는 봇 만들기](https://ambitious-molecule-2ed.notion.site/bcd9abbc44cc4429b9f0271a43c9eeef)
     * [오토핫키로 GUI입력 매크로 만들기](https://ambitious-molecule-2ed.notion.site/GUI-72a6ec22c85b488e960d847326b214a0)
+    * [Capslock 키의 활용도 높이기 (AutoHotkey) · Wireframe](https://soooprmx.com/capslock-%ed%82%a4%ec%9d%98-%ed%99%9c%ec%9a%a9%eb%8f%84-%eb%86%92%ec%9d%b4%ea%b8%b0-autohotkey/)
   * autoit
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
@@ -2130,6 +2131,8 @@ App
   * [Notion Vs Obsidian Vs Anytype - Why I Use ALL of them in 2024 (Complete Review) - YouTube](https://www.youtube.com/watch?v=MGuJMASyDUc)
 * [AppFlowy.IO](https://www.appflowy.io/) notion alternative, implemented by rust
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
+* [Briefer](https://briefer.cloud/)
+  * [Briefer – 일정, SQL, 내장 LLM이 포함된 멀티플레이어 노트북 | GeekNews](https://news.hada.io/topic?id=16012)
 * [dddraft.com](http://dddraft.com/)
 * [Capacities – A studio for your mind](https://capacities.io/)
   * [인간의 두뇌를 닮은 노트 테이킹! - Capacities📒✏️로 세컨드 브레인 만들기 Tutorial #1 - YouTube](https://www.youtube.com/watch?v=txB6-hb7myo)
@@ -2164,6 +2167,7 @@ App
     * [VidiGo 구글의 NotebookLM 사용법 - 내 문서를 기반으로 작동하는 AI.mp4](https://vidigo.ai/share/summary/2a8568674aaf)
     * [구글의 NotebookLM 사용법 - 내 문서를 기반으로 작동하는 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/754184)
 * [notebooksapp.com](http://www.notebooksapp.com/)
+* [Notepad++ - 특정 패턴의 단어나 문구만 추출하여 정리하기 · Wireframe](https://soooprmx.com/notepad-%ed%8a%b9%ec%a0%95-%ed%8c%a8%ed%84%b4%ec%9d%98-%eb%8b%a8%ec%96%b4%eb%82%98-%eb%ac%b8%ea%b5%ac%eb%a7%8c-%ec%b6%94%ec%b6%9c%ed%95%98%ec%97%ac-%ec%a0%95%eb%a6%ac%ed%95%98%ea%b8%b0/)
 * [NotepadNext: A cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [Notepad Tab | A simple, secure and private note taking tool](https://notepadtab.com/)
   * [Notepad Tab - 간단하고 안전한 노트 작성 도구 | GeekNews](https://news.hada.io/topic?id=15248)
