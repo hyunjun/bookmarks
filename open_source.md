@@ -504,6 +504,8 @@ Open Source
 * ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
 * [글로벌 칼럼 | AI 시대 필요한 것은 오픈‘소스’가 아닌 오픈소스 ‘접근권’ - ITWorld Korea](https://www.itworld.co.kr/news/246010)
 * [글로벌 칼럼 | 오픈소스가 여전히 엔터프라이즈 IT의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/313951)
+* [Switzerland Makes Open Source Software Mandatory For Public Sector](https://news.itsfoss.com/switzerland-open-source/)
+  * [스위스, 공공 부문에 오픈 소스 소프트웨어 의무화 | GeekNews](https://news.hada.io/topic?id=16037)
 
 # NexClipper
 * [Cloud-Native Open-Source Projects from NexClipper](https://nexclipper.io/plans/)
