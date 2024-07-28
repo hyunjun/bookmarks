@@ -1271,6 +1271,7 @@ AWS
 * [Amazon ECS Service Connect를 활용하여 손쉽게 마이크로서비스 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/run-microservices-easily-with-amazon-ecs-service-connect/)
 * [ECS Builder Series - Andrew Hammond (ClickUp) - YouTube](https://www.youtube.com/watch?v=4PB9jV1gzsY)
 * [Amazon ECS 워크로드를 위한 AWS Fault Injection Simulator의 새로운 기능 발표 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/announcing-aws-fault-injection-simulator-new-features-for-amazon-ecs-workloads/)
+* [AWS Resilience Hub - Fault Injection Service](https://jybaek.tistory.com/504717)
 * [Building better container images | Containers](https://aws.amazon.com/ko/blogs/containers/building-better-container-images/) ECS EKS ECR
 * [단일 Amazon Elastic Container Service(ECS) 클러스터에서 15,000개 이상의 태스크들로 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/)
 * [Amazon ECS에서 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-on-amazon-ecs/)
@@ -1378,6 +1379,7 @@ AWS
     * 스팟인스턴스 그룹이 더 높은 우선순위를 가지게 설정
     * AWS Node Termination Handler로 스팟 인스턴스를 빼앗길 때를 대비하고
     * 추가로 `podAntiAffinity`와 `PodDisruptionBudget`, 오버 프로비저닝을 이용해서 안정적으로 운영되도록 설정
+* [AWS Node Termination Handler](https://jybaek.tistory.com/504718)
 * [Blue/Green, Canary 방법을 활용한 stateless 워크로드의 Amazon EKS 클러스터 마이그레이션 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blue-green-or-canary-amazon-eks-clusters-migration-for-stateless-argocd-workloads/)
 * [EKS Cluster setup on AWS - jaffar shaik - Medium](https://jaffarshaik.medium.com/eks-cluster-setup-on-aws-c011c021e449)
 * [Amazon EKS Multi Cluster Upgrade with ExternalDNS](https://heuristicwave.github.io/EKS_Upgrade)
