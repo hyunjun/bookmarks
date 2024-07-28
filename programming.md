@@ -6117,6 +6117,7 @@ Programming
   * 마지막으로 지금 업계에도 ThoughtWorks같은 컨설팅 회사가 필요하기 때문에 ThoughtWorks가 과거의 영광을 되찾기를 응원
 * [The plain-text internet is coming - Protocol](https://www.protocol.com/newsletters/sourcecode/plain-text-sports-internet)
   * [Plain-text 인터넷이 온다 | GeekNews](https://news.hada.io/topic?id=6561)
+* [맥킨지의 기술 트렌드 2024 100p PDF | GeekNews](https://news.hada.io/topic?id=16030)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
