@@ -2130,6 +2130,14 @@ NLP
 * [LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? | NeurIPS 2023 | 오영화 - YouTube](https://www.youtube.com/watch?v=n_8iwOQn35A)
   * [VidiGo LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? | NeurIPS 2023 |](https://vidigo.ai/share/summary/5e664d3c6a3b)
   * [LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? NeurIPS 2023 오영화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964071)
+* [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 | 조성국 - YouTube](https://www.youtube.com/watch?app=desktop&v=T9huhEaJhFA&feature=youtu.be)
+  * NeurIPS 2022 논문 중 하나인 "LLMs Can Solve Complex Reasoning Tasks if You Give Them a Chance: An In-depth Study of Chain of Thought Reasoning"
+  * COT는 추론 과정을 단계별로 텍스트로 작성하는 방법
+  * 언어 모델에 리즈닝 개념을 적용한 첫 번째 논문
+  * COT는 모델의 크기가 클수록, 태스크가 복잡할수록 더 효과적
+  * 작은 모델에서는 성능 향상이 미미했으며, 이는 리즈닝 능력의 한계로 인한 것으로 추정
+  * [VidiGo LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 |](https://vidigo.ai/share/summary/829b0e4ad43d)
+  * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2457,6 +2465,11 @@ NLP
     * [프로젝트에 LLM 끼얹기 - Naver SmartStudio Blog](https://smartstudio.tech/how-to-build-ai-agent-with-llm/)
       * Yorkie 프로젝트에서 AI Agent를 만들기 위해 원하는 형태의 GitHub 이슈를 생성해 주는 아이디어를 생각
       * ChatGPT와 Langchain을 사용해서 구현 후 도입까지 한 과정 설명
+    * [Langchain의 RAG - YouTube](https://www.youtube.com/watch?v=bfYmKElrHrY)
+      * RAG(Retriever Augmented Generation) 이론과 랭체인을 사용하여 셜록 홈즈 AI를 만드는 방법에 대한 영상
+      * LM의 지식을 보완하고 더 정확한 답변을 제공하며, 신뢰성과 효율성을 높이기 위해 RAG의 필요성을 설명
+      * RAG에는 데이터를 더 효율적으로 검색할 수 있도록 변형하여 저장하는 인덱싱과
+        * 사용자 입력에 따라 인덱스에서 관련 데이터를 검색한 후 모델에 전달하는 Retriever and Generation이 포함
   * [LangSmith](https://www.langchain.com/langsmith)
     * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
     * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
@@ -2631,6 +2644,7 @@ NLP
     * [OLLAMA로 자체 AI GPT 구축하기 - YouTube](https://www.youtube.com/watch?v=YZbkYCt6jEw)
       * [VidiGo OLLAMA로 자체 AI GPT 구축하기.mp4](https://vidigo.ai/share/summary/d0e22dd15924)
       * [OLLAMA로 자체 AI GPT 구축하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/767632)
+    * [라마 3.1을 로컬 설치방법 | 권장 컴퓨터 성능과 비용 | 인공지능을 배울 이유 | #라마3.1 #llama3 #LLM로컬설치, #클로드소넷 - YouTube](https://www.youtube.com/watch?v=Cd0f1DermRo)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [ollamex: Ollamex is an Elixir wrapper of the ollama REST API](https://github.com/waseigo/ollamex)
@@ -3206,6 +3220,7 @@ NLP
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
   * [윈도우 python3.X mecab 설치 간단\~](https://cleancode-ws.tistory.com/97)
   * [Google Colab에서 Mecab-ko-dic 쉽게 사용하기](https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-Mecab-koMecab-ko-dic-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+  * [요기요 검색에서 형태소 분석기의 한계와 극복. 오늘은 형태소 분석기의 오분석에 대한 이야기를 공유해 드리겠습니다. | by Seunghan Jung | Jul, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%9A%94%EA%B8%B0%EC%9A%94-%EA%B2%80%EC%83%89%EC%97%90%EC%84%9C-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D%EA%B8%B0%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EA%B7%B9%EB%B3%B5-3da53beb6ea5)
   * [mecab-bind: Binding MeCab Tagger to Python3 and TensorFlow](https://github.com/jeongukjae/mecab-bind)
     * [mecab-ko-dic-prebuilt: 미리 빌드되어 있는 mecab-ko-dic](https://github.com/jeongukjae/mecab-ko-dic-prebuilt)
   * [natto-py - combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language](https://github.com/buruzaemon/natto-py)
