@@ -459,6 +459,7 @@
 * [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
 * [The Art of Building a Gradle Plugin with Kotlin | by Kerry Bisset | Nov, 2023 | Stackademic](https://blog.stackademic.com/the-art-of-building-a-gradle-plugin-with-kotlin-20756f61666b)
 * [에셋팀 레거시 개선 (1) 쏘카존 관리 시스템 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/02/12/legacy-gradle-build-script.html)
+* [애셋팀 레거시 개선 (2) 쏘카존 관리 시스템 - 차량재배치 리팩터링 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/07/23/legacy-car-relocation.html)
 * [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
 * [Kotlin Context Receivers and DSL Magic | by smallufo | Jul, 2023 | Medium](https://medium.com/@smallufo/kotlin-context-receivers-and-dsl-magic-73aee25bca23)
 * [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
