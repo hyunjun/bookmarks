@@ -754,6 +754,8 @@ Business
 * [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
   * [올바른 종류의 고집 | GeekNews](https://news.hada.io/topic?id=15756)
 * [스테이블 디퓨전을 만든 회사의 몰락 - YouTube](https://www.youtube.com/watch?v=dJsjtiNhsXo)
+* [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
+  * [ESOP: 모든 회사는 직원이 주인이 되어야 합니다 | GeekNews](https://news.hada.io/topic?id=16022)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -979,6 +981,7 @@ Business
 * [시니어를 검증하는 방법](https://brunch.co.kr/@expnote/123)
   * [시니어를 검증하는 방법](https://www.linkedin.com/posts/nsuhyun_%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-activity-7220916454580219904-G_2Q/)
   * 1. 리더와 시니어의 기대 및 관점 얼라인 2. 어려운 과제에 대한 시니어의 접근 및 해결 능력 확인 3. 구성원 피드백을 통한 검증 4. 종합적인 검토
+* [최고의 개발자들을 붙잡아 두는 법 | GeekNews](https://news.hada.io/topic?id=16019)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1384,6 +1387,19 @@ Business
   * 사람들이 원하는 것은 피드백 자체가 아니라, 인정과 관심이기 때문
 * [The Looking Glass: Holding Up the Mirror - by Julie Zhuo](https://lg.substack.com/p/the-looking-glass-holding-up-the)
   * [피드백 잘하기](https://brunch.co.kr/@yongjinjinipln/131)
+* [Gerald Weinberg's Secrets of Writing and Consulting: The Compulsion to Give Feedback](https://secretsofconsulting.blogspot.com/2014/11/the-compulsion-to-give-feedback.html)
+  * [배휘동 on LinkedIn: The Compulsion to Give Feedback](https://www.linkedin.com/posts/hwidongbae_the-compulsion-to-give-feedback-activity-7214847690289897472-s62w)
+  * 피드백은 받는 사람이 아니라 주는 사람을 위한 것
+  * 피드백을 주기 전에 그 사람이 '정말' 받고 싶어하는지 확인
+  * 예전에 피드백을 받겠다고 말했더라도, 지금도 피드백을 원하리라는 보장은 없음
+  * 정말 남을 돕고자 한다면, 내가 내면의 어떤 동기 때문에 피드백을 주고 싶은지 드러내면서 시작
+  * 혹시 그 동기를 충족하는데 '피드백 주기' 외에 다른 옵션은 없나? 관계를 증진시키는 방법은 무수히 많다. 그 여러 방법 중 '피드백 주기'가 최선이라고 생각한 이유는 무엇인가? 다른 방법의 존재 자체를 까먹은 것 아닌가?
+  * 여기서 '피드백'이라는 단어는 '도움'이라는 단어로 대체해도 완전 무방
+    * 당신이 도움을 정말 필요로 하는지, 어떤 도움이 필요한지 알고 싶다
+    * 당신을 돕는 여러 선택지 중 무엇이 당신에게 좋을지는 모르겠다
+    * 하지만 나는 이런 마음에서 당신을 돕고 싶다
+    * 당신이 도움이 필요할 때 내가 얼마든지 곁에서 그 이야기를 들어주겠다
+    * 이 모든 과정에서 나는 당신의 선택을 존중하며, 선을 넘지 않도록 노력할 것이다
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
@@ -2879,7 +2895,20 @@ Business
     * 베타 테스트를 통해 투표 받으면 기분이 좋고 특성상 바이럴 될 수밖에 없으며 누가 투표했는지 알려면 돈을 내야 하는데 이 부분이 실제로도 너무 궁금해졌다고 함
   * 학교 안에 쪽지를 남기는 마케팅을 진행하게 해 397명의 디지털미디어 고등학교 학생을 모으고 다른 학교에서 퍼지기 시작해서 16,000명의 사용자를 모았다고 함
 * [How to Build a Product that Scales into a Company - YouTube](https://www.youtube.com/watch?v=r-98YRAF1dY)
-* [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
+* [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4) value proposition
+  * The workshop focuses on creating a compelling value proposition to ensure customer buy-in and business success
+  * Michael Skok, a founding partner of Underscore VC, guides attendees through a series of frameworks to define, evaluate, and build a strong value proposition
+  * The workshop emphasizes the importance of defining the target customer, evaluating the value proposition, and building a clear and concise message
+  * The speaker, Michael Skok, is an experienced entrepreneur and investor with a focus on breakthrough technologies and disruptive business models
+  * He co-founded Underscore VC to help founders create enduring companies through community support
+  * Value Prop Statement
+    * For (target customer segments)
+    * dissatisfied with (existing solution)
+    * due to (key unmet needs)
+    * (Venture name) offers a (product category)
+    * that provides (key benefits of your solution)
+  * [VidiGo Value Props: Create a Product People Will Actually](https://vidigo.ai/share/summary/25761bfca1c8)
+  * [가치 있는 소품: 사람들이 실제로 구매할 제품 만들기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997389)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 * [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
@@ -3072,6 +3101,86 @@ Business
 * [ChatGPT를 PM의 '어시스턴트'로 만드는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2436/)
 * [Pre-mortem으로 비즈니스 가설을 사전에 검증한다](https://brunch.co.kr/@yongjinjinipln/126)
 * [프로젝트 주인들의 소리없는 전쟁(Feat.AI)](https://eopla.net/magazines/16867)
+* [3 core responsibilities of Product Management (Google PM) - YouTube](https://www.youtube.com/watch?v=K9tRiVYA2yw)
+  * 제품 관리의 핵심 책임은 전략, 실행, 그리고 관계 관리
+  * 제품 관리자는 고객의 요구사항을 이해하고, 제품 비전을 설정하며, 다양한 이해관계자들과의 관계를 관리하여 제품을 성공적으로 개발하고 출시
+  * Google PM이 설명하는 PM의 책임
+    * strategy
+      * 매우 모호한 아이디어를 명확하고 간결하게 문제 정의하여 궁극적으로 솔루션으로 만드는 것을 포함
+      * 고객과의 소통: 고객의 페인 포인트을 이해하고 피드백을 수집
+      * 사용자 페르소나 생성: 이상적인 고객을 정의하여 제품 개발에 활용
+      * 영감을 주는 비전 수립: 경력이 쌓이면서 더 큰 그림을 그릴 수 있어야
+    * execution
+      * PM의 역할은 백로그의 기능 요청, 버그, 그리고 고객에게 제품을 제공하는 데 발생하는 모든 문제를 어떻게 우선 순위화할지 논의를 이끌어 가는 것
+      * 요구사항 우선순위 지정: 백로그 관리와 팀 간 협력을 통해 효과적으로 우선순위 결정
+      * 명확한 문서 작성: PRD를 통해 팀원 모두가 같은 목표를 향해 나아가도록
+      * AB 테스트 실행: 데이터 기반의 의사결정을 위해 다양한 기능을 테스트
+      * 롤아웃 관리: 지역별 출시 전략을 세우고 다양한 팀과 협력
+    * relationship management
+      * PM은 팀과 강력한 관계를 구축 필요. 이는 엔지니어링, UX, 제품 마케팅, 법률 등 모든 이해관계자들과의 관계 포함
+      * 팀 내 관계 구축: 엔지니어링, UX, 마케팅 등 모든 이해관계자와 강력한 관계 형성
+      * 고객과의 상호작용: 고객 성공을 위해 노력하고 제품 로드맵 공유
+      * 긍정적인 태도 유지: 어려운 상황에서도 팀의 사기를 높이는 문화 수립
+      * 리더십과의 소통: 정기적으로 피드백을 구하고 승인 획득
+  * [VidiGo 3 core responsibilities of Product Management (Goo](https://vidigo.ai/share/summary/feadd4970e59)
+  * [제품 관리(Google PM)의 3가지 핵심 책임 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997466)
+* [Ask Teresa: My Leaders Still Want Roadmaps with Timelines—What Should I Do? - Product Talk](https://www.producttalk.org/2023/10/roadmaps-with-timelines/)
+  * The article discusses the challenges of creating date-based roadmaps for product teams and suggests alternative approaches
+  * It emphasizes the importance of meeting stakeholders' needs while introducing opportunities and outcomes
+  * The author recommends using a "Now Next Later" roadmap format and starting small to make changes that stakeholders can agree with
+  * The article also highlights the need to communicate the product team's vision and process to stakeholders and customers
+  * [제품 로드맵에서 일정 중심 접근 피하기](https://brunch.co.kr/@yongjinjinipln/149)
+    * Teresa Torres는 제품 로드맵에서 일정 중심 접근 방식을 피해야 한다고 주장
+    * 비현실적인 기대, 로드맵의 구식화, 그리고 잘못된 의사소통을 초래 가능
+    * 대신, 기회, 결과 및 진행 상황에 초점을 맞춘 로드맵 제안, 작은 변화를 통해 이해 관계자들을 참여시키는 것이 중요하다고 강조
+    * Teresa Torres가 일정 기반으로 로드맵을 요구하는 상황에 대한 대응을 작성한 글
+      * 많은 팀들, 예를 들어 영업팀과 마케팅팀은 특정 날짜까지 $X의 예약을 달성하거나 Y개의 리드를 생성하는 것과 같은 시간에 구속된 목표 존재
+      * 제품 팀도 분기 단위로 outcome을 기반으로 목표 설정 가능
+      * 하지만 때때로 기업에서 이를 지나치게 강요하는 경우 존재
+      * 제품 팀에게 특정 날짜까지 특정 기능을 제공하라고 요구하는 경우가 대표적
+      * 이는 영업 사원에게 특정 날짜에 특정 거래를 성사시키라고 요구하는 것과 동일
+      * 또는 마케팅 팀에게 특정 캠페인에서 정해진 수의 리드를 확보하라고 요구하는 것과 동일
+    * 일정 기반 로드맵의 단점
+      * 비현실적인 기대
+        * 대부분의 팀은 로드맵에 표시된 날짜에 기능을 출시하지 못함
+        * 로드맵은 확실한 계획을 제공하는 것처럼 보이지만, 실제로는 혼란 초래
+        * 비현실적인 기대를 설정하고, 이를 지키지 못할 때 신뢰를 파괴
+      * 로드맵의 out of date
+        * 많은 시간과 노력을 들인 문서가 곧바로 out of date 됨
+        * 많은 팀에게 로드맵 작성은 고객이나 사용자를 우선하기보다 이해관계자가 자신의 이익을 주장하는 정치적 게임에 불과
+        * 잘 되봐야 시간 낭비이고, 최악은 잘못된 기대를 설정하여 제품 팀이 항상 계획대로 작업이 진행되지 않는 것을 방어해야 하는 상황 초래
+        * 우리가 미래에 할 일을 나열 할 수 있다는 생각을 버려야 함
+        * 로드맵 자체가 문제가 아니고, 일정을 정하는 방식이 문제임.
+    * 이해 관계자에게 우리가 지금 무엇을 하고, 다음, 더 나아가 미래에 무엇을 할 것인지 알리는데 도움이 되는 유형이 있음
+      * Janna Bastow의 Now Next Later 로드맵 참고
+      * 이 로드맵은 정확히 언제 무엇을 개발할 것인지 과도하게 약속하지 않으면서 필수적인 정보 전달
+    * 이념 전쟁을 벌이지 않기
+      * 전하고 싶은 가장 중요한 교훈은: 이념 전쟁을 벌이지 말라
+      * 우리가 옳다고 사람들을 설득하려 할 때는 아무것도 이루지 못함
+      * 대신, 이해관계자가 동의할 수 있는 작은 변화를 찾아야 함
+    * 이해관계자가 날짜 기반 로드맵을 사용해야 한다고 주장한다면, 개발 완료일과 예측 가능한 작업에 대한 이념적 전쟁에 참여하지 않아야 함
+      * 작은 변화로 시작하고 반복하기
+      * 일단 이념적 전쟁 벌이지 말고, 이해관계자가 동의할 수 있는 작은 변화로 시작하기
+      * 기능 기반 로드맵으로 우선 시작하여... 기회(opportunities), outcome을 중심으로 소통하도록 시도함
+      * 솔루션을 변경해야할 때 일관성을 유지하면서 계속하여 기회(opportunities), outcome 강조
+      * Ellen Juhlin 사례: 우선 로드맵 스프레드시트에 outcome 추가
+        * 리더십은 output 목록(기능)에 익숙했지만, Ellen은 각 output을 고객 확보나 참여도 증가와 같은 outcome에 연결하기 시작
+        * 이를 통해 제품 팀은 우선 순위 대화에 outcome을 도입 가능
+    * 비전과 프로세스로 소통하기
+      * 이해관계자와 기능 리스트 기준으로 소통하기 보다, 비전과 프로세스 중심으로 협업해야 함
+      * goal을 중심으로 그 목표에 도달하기 위해 팀이 얼마나 진전을 이루었는지
+      * 그리고 그 목표를 달성하기 위해 무엇을 하고 있는지, 이런 대화를 나누어야 함
+    * 어떤 기능이 언제 나올지 고객이 항상 알아야할까?
+      * 대부분 팀은 고객에게 출시된 기능, 시점에 대해서 지나치게 많이 알리려고 함
+      * 고객에게 다음 릴리즈에 무엇이 나올지 알리되, 먼 미래(분기, 반기)에 대한 기대는 설정하지 말아야 함
+      * 대부분 고객은 신경 쓰지 않으며, 잘못된 기대로 인한 단점이 더 많음
+* [Why I Invented the Now-Next-Later Roadmap | ProdPad](https://www.prodpad.com/blog/invented-now-next-later-roadmap/)
+  * The Now-Next-Later roadmap is a product management tool that organizes work into three time horizons: immediate, short-term, and long-term
+  * It focuses on discovery, flexibility, and business objectives, making it a better choice than timeline roadmaps
+  * The roadmap has three columns: Now, Next, and Later, each with varying levels of certainty and detail
+  * The roadmap is used by prioritizing problems, defining product initiatives, and tying them back to business objectives
+  * It can be used with any methodology and avoids pitfalls such as endlessly shifting deadlines, low team morale, and becoming a feature factory
+* [업무용 툴, 내 동료가 정말 만족했나요?](https://toss.tech/article/tablecenter)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -3836,6 +3945,9 @@ Business
 * [인터랙션, 꼭 넣어야 해요?](https://toss.tech/article/interaction)
 * [팝업은 어떤 경우에 닫을 수 있게 해야할까?(X버튼은 언제 보여줘야 할까?)— 헤이딜러 UX 스터디 | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%8C%9D%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%BD%EC%9A%B0%EC%97%90-%EB%8B%AB%EC%9D%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-x%EB%B2%84%ED%8A%BC%EC%9D%80-%EC%96%B8%EC%A0%9C-%EB%B3%B4%EC%97%AC%EC%A4%98%EC%95%BC-%ED%95%A0%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-5b6c535fbe58)
 * [16화 UX를 해치지 않는 팝업의 3가지 조건](https://brunch.co.kr/@cliche-cliche/231)
+* [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
+* [20화 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅](https://brunch.co.kr/@cliche-cliche/238)
+* [21화 왜 레퍼런스 분석 시 'WHY'가 중요할까?](https://brunch.co.kr/@cliche-cliche/239)
 * [헤이딜러 UX 스터디 이야기 (소개). 헤이딜러 제품팀에서 진행했던 UX스터디 이야기를 들려드립니다. | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%9D%98-ux-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%86%8C%EA%B0%9C-16ec98d1e30f)
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
@@ -3851,8 +3963,6 @@ Business
 * [뱅크샐러드의 새로운 집(Home) 짓기 - 3편 | 증축편 | 뱅크샐러드](https://blog.banksalad.com/tech/building-brand-new-home-3/)
 * [(youtube)29CM 행성에 떨어진 UX 리서처. 이번 발표에서는 UX 리서처가 하는일과 UX 리서치가 왜 필요한지… | by 29CM | 29CM TEAM | Jun, 2024 | Medium](https://medium.com/29cm/youtube-29cm-%ED%96%89%EC%84%B1%EC%97%90-%EB%96%A8%EC%96%B4%EC%A7%84-ux-%EB%A6%AC%EC%84%9C%EC%B2%98-7aff7e82c03e)
 * [UX리서치 조직에서 리옵매란?](https://toss.tech/article/what-is-research-ops)
-* [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
-* [20화 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅](https://brunch.co.kr/@cliche-cliche/238)
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
