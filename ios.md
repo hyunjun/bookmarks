@@ -135,6 +135,7 @@ iOS
 * [iOS의 Clean Architecture | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-clean-architecture/)
 * [Spoqa 기술 블로그 | 발전하는 iOS와 Clean Swift Architecture](https://spoqa.github.io/2024/03/06/clean-swift.html)
   * [CleanSwift-CIS: The CIS pattern is an improvement on the Clean Swift architecture, aligned with advanced technologies and paradigms. It assists in the stable development of iOS and Mac applications](https://github.com/spoqa/CleanSwift-CIS)
+* [UIKit에 Clean Swift 적용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/uikit-clean-swift)
 * [iOS의 Architecture | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-architecture)
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
@@ -268,6 +269,7 @@ iOS
   * [간편하게 서버 데이터를 로딩하는 Fetcher, Swift로 구현하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/introduce-android-fetcher-swift-implementation/)
   * [화면 상태에 따라서 View가 그리는 작업, Render | Joohee Kim's Blog](https://imjhk03.github.io/posts/render-view-state/)
   * [Debouncer 만들기 (No Combine, No RxSwift) :: iOYES](https://green1229.tistory.com/411)
+  * [iOS의 비동기 작업 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-asynchronous)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [Screen Sizes](https://screensizes.app/)
   * [한눈에 비교해 보는 iOS 디바이스별 정보 'Screensizes' | 요즘IT](https://yozm.wishket.com/magazine/detail/2232/)
@@ -402,6 +404,7 @@ iOS
 * [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
 * [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
 * [if kakao 2022 카카오페이 iOS 웹뷰 소개, 그리고 세션에서 못다한 이야기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-ios-webview/)
+* [누가 내 쿠키를 먹었을까? - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/07/15/ios-webView-cookie.html) iOS 웹뷰에서만 세션쿠키가 갑자기 소실되는 현상
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
 * [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
@@ -647,6 +650,8 @@ iOS
 * [Build your next website in Swift - YouTube](https://www.youtube.com/watch?v=JJGLoo3A2uk)
 * [XMLParser :: iOYES](https://green1229.tistory.com/474)
 * [SwiftUI - symbolEffect :: iOYES](https://green1229.tistory.com/484)
+* [Create custom visual effects (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/492)
+* [Tailor macOS windows with SwiftUI (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/493)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
