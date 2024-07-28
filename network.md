@@ -161,6 +161,8 @@ Network
 * [DNS가 TCP를 사용하는 경우](https://brunch.co.kr/@growthminder/141/)
   * DNS는 기본적으로 UDP 사용, 메시지가 큰 경우 등 특정 상황에서는 TCP 사용
   * DNS 패킷 헤더를 사용해서 메시지가 커서 Truncated 되었는지를 표시하고 이런 경우 TCP 사용
+* [cloudflare-noip: free alternative to paid dynamic DNS services like NoIP.com](https://github.com/devrim/cloudflare-noip)
+  * [Cloudflare 와 Cronjob 을 활용한 무료 DDNS 만들기 | GeekNews](https://news.hada.io/topic?id=16043)
 * [dns.toys: A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc](https://github.com/knadh/dns.toys)
   * [Useful utilities and toys over DNS](https://www.dns.toys/)
 * [Duck DNS - about](https://www.duckdns.org/about.jsp)
