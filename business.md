@@ -1584,6 +1584,13 @@ Business
 * [Keep ’Em Coming: Why Your First Ideas Aren’t Always the Best | Stanford Graduate School of Business](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
   * [Keep 'Em Coming: 첫번째 아이디어가 최고가 아닌 이유 | GeekNews](https://news.hada.io/topic?id=7810)
 * [세상에 없던 아이디어에 함부로 꽂히면 안 되는 이유](https://contents.premium.naver.com/saramin/waytowork/contents/221110175233168ng)
+* [Pattern Breakers: How to find a great startup idea | Mike Maples, Jr. (Founding Partner at Floodgate, ex-Product at Silicon Graphics)](https://www.lennysnewsletter.com/p/how-to-find-a-great-startup-idea-mike-maples-jr)
+  * Mike Maples, Jr., a renowned early-stage startup investor, shares insights from his book "Pattern Breakers" on how to find great startup ideas
+  * He emphasizes the importance of thinking and acting differently, creating movements, storytelling, and healthy disagreeableness
+  * He also discusses the three elements of breakthrough startup ideas: inflections, insights, and founder-future fit
+  * [Pattern Breakers: How to find a breakthrough startup idea - Mike Maples, Jr - Google Docs](https://docs.google.com/document/d/1ERKEgMtlKs_Or4V3Z78YAOPRx24j7PCkjU6HlGMnPu0/)
+  * [Pattern Breakers: How to find a breakthrough startup idea - Mike Maples, Jr 사본 - Google Docs](https://docs.google.com/document/d/13gDsZZOxxHTwPPatJl2OwtN-Zr0yHb9SNXom_zH7V9U/)
+  * [패턴 브레이커](https://brunch.co.kr/@yongjinjinipln/150)
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
