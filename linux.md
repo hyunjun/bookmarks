@@ -1291,6 +1291,7 @@ Linux
   * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [Edit text on Linux with KWrite and Kate | Opensource.com](https://opensource.com/article/22/2/edit-text-linux-kde)
+* [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](https://sunyzero.tistory.com/300)
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
