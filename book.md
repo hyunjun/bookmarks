@@ -1362,6 +1362,10 @@ Book
   * [피렌체 사람들 이야기 THE FLORENTINES - Jun - Medium](https://nymets.medium.com/%ED%94%BC%EB%A0%8C%EC%B2%B4-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0-the-florentines-4c81bca8a3f0)
   * [피렌체 사람들 이야기 THE FLORENTINES - Jun’s Substack](https://recur.substack.com/p/the-florentines)
   * [피렌체 사람들 이야기 THE FLORENTINES](https://jh4hj.tistory.com/entry/%ED%94%BC%EB%A0%8C%EC%B2%B4-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0-THE-FLORENTINES)
+* [TAKE OUT: 유럽역사문명](https://www.notion.so/1003/1be577f3860d4d26bbcad2cf8fe62f0f?pvs=4)
+  * ★★★☆☆ July 25, 2024, July 28, 2024 딱 내가 좋아하는 스타일의 역사와 여러가지 이야기가 결합된 책. 저자의 약간의 개인 경험과 문화, 예술, 스포츠 등에 대한 여러가지 지식을 합쳐서 재미있게 읽기 편한 역사책
+  * 한라 001.3하15ㅇ
+  * [TAKE OUT: 유럽역사문명 - 하광용 저자 - YouTube](https://www.youtube.com/watch?v=lYApvdP8SVQ)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -2055,6 +2059,11 @@ Book
   * 자아 1과 자아 2는 행동경제학의 시스템 1, 시스템 2와 어떤 연관이 있을까를 생각해보게 되었다
   * 두고 두고 다시 읽어볼만한 좋은 책. 여유가 좀 생기면 다시 천천히 읽으면서 정리해야 겠다는 생각이 든다
   * [독서광 테니스 이너 게임 - YouTube](https://www.youtube.com/watch?v=j-0wTLZpB8A)
+* [야구의 나라](https://www.notion.so/1003/362c5b37528d4be09329ac637a60f402?pvs=4)
+  * ★★★☆☆ July 28, 2024 한국의 최고 인기스포츠가 야구가 된 이유를 야구 자체가 아니라 역사적인 원인에서 찾아본 책. 프로야구가 사람들의 관심을 돌리려는, 당시 불법으로 정권을 탈취한 정치권의 3S 정책으로 성장했다는 건 잘 알려진 사실이다. 하지만 시작부터 역사적인 이유로 자생적인 힘보다는 외부의 힘에 의해 계속 성장했다는 건 잘 모를 가능성이 높다. 이 책은 일제시대부터, 미군정 시기를 거쳐 한국 야구의 성장이 어쩔 수 없이 친일파나 미군정과 가까웠던 정치/경제 권력의 힘 덕분에 야구가 성장했다는 사실을 잘 보여준다. 여전히 자립할 수 없는 한국 야구는 2024년 지금은 그간 쌓인 인기를 바탕으로 미디어에 “과도하게” 기대어, 최고의 인기를 구가하고 있다. 이런 행운이 과연 언제까지 갈 수 있을까? 나도 야구팬이지만 안정적이라고 보긴 어렵다.
+  * 탐라 문695.7-이75ㅇ
+  * https://www.youtube.com/watch?v=-PrcyfWfp04
+  * https://www.youtube.com/watch?v=-WwNnR3KU2w
 
 # Stock
 * [시골의사의 주식투자란 무엇인가](https://jh4hj.tistory.com/entry/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC%EC%9D%98-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
