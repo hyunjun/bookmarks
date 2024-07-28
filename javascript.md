@@ -3636,6 +3636,7 @@ Javascript
 * [Node.js Adds Sync ESM Support: A Milestone for Developers - NodeSource](https://nodesource.com/blog/enhancing-nodejs-esm-graphs)
   * ESModules가 표준이 되었지만, CommonJS 기반이었던 Node.js에서는 여전히 ESM을 적용하는 데 어려움 존재
   * `--experimental-require-module` 플래그를 적용하면 ESM 모듈을 `require()`로 동기식으로 불러올 수 있는 기능 추가
+  * [Node.js, TypeScript 실험적 지원 추가 | GeekNews](https://news.hada.io/topic?id=16021)
 * [10 modern Node.js runtime features to start using in 2024 | Snyk](https://snyk.io/blog/10-modern-node-js-runtime-features/)
   * [2024년부터 사용할 최신 Node.js 런타임 기능들 | GeekNews](https://news.hada.io/topic?id=15139)
 * [Node 22.5.0, sqlite 를 내장하고 Websocket 지원 | GeekNews](https://news.hada.io/topic?id=16013)
