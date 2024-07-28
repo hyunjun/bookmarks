@@ -615,6 +615,7 @@ Python
 * [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
 * [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(`*`, `**`), dictionary, product
   * [Multiple assignment and tuple unpacking improve Python code readability - Trey Hunner](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
+* [AI Convergence :: Python 튜플, 리스트, 딕셔너리 자료구조 이해](https://mobicon.tistory.com/606)
 * [Handy Python Snippets for Cleaner Code | by Tate Galbraith | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/handy-python-snippets-for-cleaner-code-a1e2c5d39a0d)
 * [11 Python Built-in Functions You Should Know | by Christopher Tao | Feb, 2021 | Towards Data Science](https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db)
 * [파이썬 3.10의 새 '패턴 매칭'이 할 수 있는 일 - CIO Korea](https://www.ciokorea.com/news/185423)
@@ -5276,6 +5277,11 @@ Python
   * [파이썬 Pandas vs. Polars 데이터 분석 패키지 비교! - YouTube](https://www.youtube.com/watch?v=g4CJgn7Dppw)
     * [VidiGo 파이썬 Pandas vs. Polars 데이터 분석 패키지 비교!.mp4](https://vidigo.ai/share/summary/fc0f2567c0fc)
     * [파이썬 Pandas vs. Polars 데이터 분석 패키지 비교! | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/803861)
+  * [Polars로 데이터 처리를 더 빠르고 가볍게 with 실무 적용기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18632/)
+    * Pandas와 Spark의 대안을 찾기 위해 Polars 라이브러리 도입
+    * Polars는 Rust로 구현, Apache Arrow 기반, 지연 평가, 푸시다운 최적화 및 스트리밍 API 포함
+    * Polars는 기존의 라이브러리보다 더 빠르고 메모리 효율적, SQL과 유사한 구문
+    * Polars를 사용하여 학습 파이프라인, 사용자 정의 함수 적용 및 준실시간 추론 파이프라인 개선
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
