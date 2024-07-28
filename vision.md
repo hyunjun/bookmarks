@@ -687,6 +687,7 @@ Vision
 * [Gaze controlled keyboard with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)
 * [Remove background tutorial - opencv 3.2 with python 3](https://www.youtube.com/watch?v=TUeCIFznhOk)
 * [How to Install OpenCV on Raspberry Pi](https://linuxize.com/post/how-to-install-opencv-on-raspberry-pi/)
+* [Raspberry Pi 5에 OpenCV 설치하는 방법 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/1885)
 * [OpenCV + Python build (1/2) - python+OpenCV install](https://www.youtube.com/watch?v=3BYyKDJId0w)
 * [OpenCV + Python build (2/2) - vs code setting](https://www.youtube.com/watch?v=mSfkdCEwk1s)
 * [Face recognition — OpenCV](https://medium.com/data-science-101/face-recognition-opencv-e841dc0006c6)
