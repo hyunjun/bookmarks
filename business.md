@@ -3073,6 +3073,7 @@ Business
   * [3-2.돈을 어디에, 어떻게, 얼마나 써야 할까? 2부](https://brunch.co.kr/@yeonnnh/5)
 * ['PC지원 종료' 무신사 사례로 본 모바일 VS PC 흥미로운 통계 모음 | Disquiet\*](https://disquiet.io/@hatchhiker_marketing/makerlog/pc%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C-%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-vs-pc-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%86%B5%EA%B3%84-%EB%AA%A8%EC%9D%8C)
 * [프로덕트 성장 전략 1: 타깃 오디언스 정의의 흔한 오류 | 매쉬업벤처스](https://www.mashupventures.co/contents/target-audience-mistakes-and-how-to-do-user-interview-for-growth)
+* [넷플릭스 게임의 두 번째 시즌: 도전, 변화, 그리고 앞으로의 길 | GeekNews](https://news.hada.io/topic?id=16059)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
