@@ -2661,6 +2661,9 @@ Programming
 * [From Zero to a Hundred Billion: Building Scalable Real-Time Event Processing at DoorDash - YouTube](https://www.youtube.com/watch?v=u6AjSr58h6g)
   * decoupling stage, stream processing framework, abstraction, fine-grained failure isolation and scalability
 * [Event Driven의 기원과 현실적인 활용 방법](https://brunch.co.kr/@graypool/1784)
+* [How Event Driven Architectures Go Wrong & How to Fix Them • Matthew Meckes • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=_dbyp3rL_4Q)
+  * In this presentation, Matthew Meckes, a Senior Serverless Specialist at AWS, discusses how event-driven architectures (EDA) can be beneficial for building distributed cloud applications. However, he also highlights common pitfalls and anti-patterns that teams can encounter while implementing EDA patterns. Meckes shares his experiences working with hundreds of teams and provides strategies and techniques to avoid these pitfalls. The presentation covers various topics, including YOLO events, god events, sparse events, pinball events, leaky domains, and inside-out events. Meckes also discusses the importance of standards, governance, and the use of event buses and event catalogs for better communication and collaboration between teams. To learn more about EDA and how to avoid common pitfalls, watch the full presentation at <http://gotoldn.com>.
+  * [이벤트 중심 아키텍처가 잘못되는 이유와 이를 해결하는 방법 - Matthew Meckes - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1002257)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
