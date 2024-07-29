@@ -2138,6 +2138,13 @@ NLP
   * 작은 모델에서는 성능 향상이 미미했으며, 이는 리즈닝 능력의 한계로 인한 것으로 추정
   * [VidiGo LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 |](https://vidigo.ai/share/summary/829b0e4ad43d)
   * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
+* [LLM에게 친절해야 할까? - 프롬프트 작성팁](https://slashpage.com/sujin-prompt-engineer/n8pw9x2zpvkgd2g7yrqv)
+  * [Sujin Kang Ph.D. on LinkedIn: #promptengineering #promptandpoliteness #prompting #politenessandllm](https://www.linkedin.com/posts/sujin-kang-ph-d-662444278_promptengineering-promptandpoliteness-prompting-ugcPost-7223263718539739137-HPfm)
+  * [Hard Evidence That Please And Thank You In Prompt Engineering Counts When Using Generative AI](https://www.forbes.com/sites/lanceeliot/2024/05/18/hard-evidence-that-please-and-thank-you-in-prompt-engineering-counts-when-using-generative-ai/)
+    * In this column, the author discusses the impact of politeness in prompt engineering when using generative AI
+    * They explain that politeness can potentially improve the results of generative AI apps like ChatGPT, GPT-4, Bard, Gemini, and Claude
+    * The author provides a comprehensive guide on over fifty other prompting strategies, and they also mention the limitations and drawbacks of politeness in prompts
+    * They emphasize the importance of using politeness in prompts and provide examples to illustrate the concept
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2236,6 +2243,8 @@ NLP
   * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
   * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
 * [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
+* [good luck have fun](https://glhf.chat/landing/home)
+  * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
@@ -2455,6 +2464,8 @@ NLP
         * 변화에 적응하고, 인터페이스, 모니터링, 스케일링, 로깅 등 추가 작업 필요
         * 초기 고립된 요소를 재사용하거나, 새로운 기능 빠르게 구현하는 *LLM*의 유연함 강조
   * [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
+  * [LangChain KR | LangChain 에 HWP 문서 로더가 없어 직접 구현하였습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/3101395573329487/)
+    * [HWP파서예제-20240728 - Colab](https://colab.research.google.com/drive/1DlcP1pjr_Wdrq-3R3MUTBk4iUr2A-X9u?usp=sharing)
   * [AI Convergence :: LangChain is like Spring Framework for LLM](https://mobicon.tistory.com/602)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
