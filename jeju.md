@@ -20,6 +20,9 @@
 * [제주<->인천, 비욘드트러스트호 사용기 (2/2부) : 클리앙](https://www.clien.net/service/board/use/17506120)
 * [브랭섬홀 아시아 아이스링크](https://jejuicerink.com/)
 * [제주특별자치도 - 동네서점](https://www.bookshopmap.com/jeju)
+* [플렉스웍 FLEXWORK_커뮤니티 | 제주 워케이션을 위한 필수 사이트 베스트 5](https://flexwork.co.kr/community/1722221129115x578042985355411500)
+* [픽제주](https://www.picjeju.com/) 이벤트 정보 축제 소식
+* [펀제주 - 제주날씨 궁금할땐 검색창에 펀제주](https://www.funjeju.com/) 제주도 전역의 실시간 카메라 CCTV 확인
 
 # Coffee
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
@@ -138,6 +141,7 @@
 * [쉼을 전해주는 제주 풀멍 코스 5 | 에스콰이어코리아](https://www.esquirekorea.co.kr/article/66836) 스누피가든, 비밀의 숲, 산양큰엉곶, 카페 c.hill
 * ["믿겨지지 않는 우리나라 숨은 여행지" 유명해지기 전에 꼭 가야하는 이색적인 최고의 국내 여행지](https://totoba.co.kr/168) 제주 산양 곶자왈
 * [6개월동안 제주도에 300만원 쓴 사람의 제주 여행 추천](https://brobronews.cafe24.com/?p=969)
+* [제주미니(@jejumini) • Instagram 사진 및 동영상](https://www.instagram.com/jejumini/) 핫한 여행정보 알려주는 인플루언서
 
 ## Sightseeing 오름
 * [제주 오름 트레킹 가이드](https://github.com/hyunjun/bookmarks/blob/master/books/jeju_orm.md)
