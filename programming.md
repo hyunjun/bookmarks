@@ -4881,6 +4881,11 @@ Programming
   * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
 * [SAML로 싱글사인온을 구현하는 방법  - ITWorld Korea](https://www.itworld.co.kr/news/237559)
 * [특별강의 Cloud 환경의 필수선택 SAML, SCIM 2강 SAML 과 SCIM by 세종사이버대학교 소프트웨어공학과(https://sw.sjcu.ac.kr) 박관순 교수 - YouTube](https://www.youtube.com/watch?v=Lvg35nh9W8c)
+* [A gentle introduction to SAML | SSOReady](https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/)
+  * A simplified explanation of SAML (Security Assertion Markup Language), a standard for exchanging security-related messages in XML
+  * SAML is commonly used for single sign-on (SSO) in B2B settings, allowing users to access multiple software applications by authenticating into one centralized system
+  * The article discusses the flexibility of SAML, the entities involved in SSO, and the messages exchanged during the SSO process.
+  * [SAML에 대한 간단한 소개 | GeekNews](https://news.hada.io/topic?id=16064)
 * [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
 * [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
