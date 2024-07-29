@@ -312,6 +312,11 @@ Graph
         * 쿼리를 분석한 결과 어떤 쿼리를 다시 조회해야 하는지 파악이 쉬워서 이에 따른 캐시 무효화도 쉽다는 것을 발견
     * 그래서 새로운 LiveGraph 100x는
       * Go로 작성, 클라이언트의 뷰 요청을 처리하는 엣지, 쿼리 결과를 저장하는 읽기 캐시, 변경이 있으면 캐시 무효화하는 invalidator로 구성
+* [LIquid: a Large-Scale Relational Graph Database - YouTube](https://www.youtube.com/watch?v=KwGKK83368c)
+  * LinkedIn에서 구축된 그래프 데이터베이스인 LIquid에 대한 내용
+  * LIquid는 15Tb의 그래프를 2M QPS로 처리
+  * 그래프 데이터베이스 시스템에 대한 개요와 함께 데이터베이스의 작동 방식, 데이터 모델 및 쿼리 언어에 대한 정보 제공
+  * [대규모 관계형 그래프 데이터베이스 LIquid | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1002792)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
