@@ -2314,6 +2314,8 @@ App
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
   * [옵시디언 이야기 - 엘키의 주절 주절](https://elky84.github.io/2024/06/03/obsidian_story/)
   * [Planning Your Day by Timeboxing in Obsidian - Obsidian Rocks](https://obsidian.rocks/planning-your-day-by-timeboxing-in-obsidian/)
+  * [My Obsidian Note-Taking Workflow | ssp.sh](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
+    * [나의 Obsidian 노트 작성 워크플로우 | GeekNews](https://news.hada.io/topic?id=16070)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
