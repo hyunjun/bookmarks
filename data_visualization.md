@@ -437,6 +437,7 @@ Data Visualization
   * [10분 안에 읽는 72년: 국회의 발자취 - DACON](https://dacon.io/competitions/official/235679/codeshare/2005)
   * [Python Data Analysis Tips - Interactive Pandas Plot backend Plotly](https://www.datasimple.education/post/python-data-analysis-tips-interactive-pandas-plot-backend-plotly)
   * [python 시각화 끝판왕 Plotly : 시계열 데이터편 - YouTube](https://www.youtube.com/watch?v=sml0fA5eTUk)
+  * [💻🤖 (올림픽 특집) 파이썬으로 쉽게 배우는 데이터분석 Ep.(12) Plotly, Olympic #파이썬강의 #올림픽 - YouTube](https://www.youtube.com/watch?v=umYoHxDetHI)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
