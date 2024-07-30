@@ -1985,6 +1985,7 @@ Docker
   * [쿠버네티스 클러스터 포드 정보 가져오기를 위한 Python 자동화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825395)
 * [Istio Sidecar 설정을 통한 Pod 의 egress 제어](https://www.kimsehwan96.com/istio-sidecar-egress-control/)
   * [Sehwan Kim on LinkedIn: Istio Sidecar 설정을 통한 Pod 의 egress 제어](https://www.linkedin.com/posts/sehwan-kim-a31543202_istio-sidecar-%EC%84%A4%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-pod-%EC%9D%98-egress-%EC%A0%9C%EC%96%B4-activity-7218892101755793408-mhL3)
+* [Informer를 사용해 쿠버네티스 중계 API 서버의 성능 개선하기](https://techblog.lycorp.co.jp/ko/improving-kubernetes-relay-api-server-performance-with-informer)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
