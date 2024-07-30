@@ -2663,6 +2663,13 @@ Programming
 * [Event Driven의 기원과 현실적인 활용 방법](https://brunch.co.kr/@graypool/1784)
 * [How Event Driven Architectures Go Wrong & How to Fix Them • Matthew Meckes • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=_dbyp3rL_4Q)
   * In this presentation, Matthew Meckes, a Senior Serverless Specialist at AWS, discusses how event-driven architectures (EDA) can be beneficial for building distributed cloud applications. However, he also highlights common pitfalls and anti-patterns that teams can encounter while implementing EDA patterns. Meckes shares his experiences working with hundreds of teams and provides strategies and techniques to avoid these pitfalls. The presentation covers various topics, including YOLO events, god events, sparse events, pinball events, leaky domains, and inside-out events. Meckes also discusses the importance of standards, governance, and the use of event buses and event catalogs for better communication and collaboration between teams. To learn more about EDA and how to avoid common pitfalls, watch the full presentation at <http://gotoldn.com>.
+  * [VidiGo How Event Driven Architectures Go Wrong & How to F](https://vidigo.ai/share/summary/8705b42c2780)
+    * 그는 지난 몇 년 동안 많은 사람들과 협력하며 공통된 문제들을 발견
+    * 작은 팀들이 독립적으로 일할 수 있도록 하여 민첩성을 높이는 것이 목표라고 강조
+    * 작은 팀의 중요성과 빠른 피드백 루프
+      * 작은 팀들이 독립적으로 작업하여 더 자주 릴리스할 수 있게 되어 비즈니스 민첩성이 향상
+      * 외부 의존성을 줄여 팀이 신속하게 배포하고 피드백 획득 용이
+      * 문제가 발생했을 때 최소한의 단위로 고장나도록 설계하여 빠르게 복구 가능
   * [이벤트 중심 아키텍처가 잘못되는 이유와 이를 해결하는 방법 - Matthew Meckes - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1002257)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
