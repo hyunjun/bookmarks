@@ -1815,6 +1815,10 @@ Programming
 * [Chaos Engineering for people, how we "resilienced" our incident response team -Christodoulos Xystras - YouTube](https://www.youtube.com/watch?v=XHQIxfxrSBE)
 * [Practical Magic: The Resilience Potion & Security Chaos Engineering • Kelly Shortridge • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AxqX9ovGViw)
 * [Cloud Chaos & Microservices Mayhem • Holly Cummins • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zJiUNKXZA1E)
+* [서비스 장애를 예방하는 방법: Chaos Engineering](https://d2.naver.com/helloworld/0403593) toxiproxy
+  * [서비스 장애를 예방하는 방법: Chaos Engineering - YouTube](https://www.youtube.com/watch?v=U6Jyx9fzsCA)
+    * [VidiGo 서비스 장애를 예방하는 방법: Chaos Engineering.mp4](https://vidigo.ai/share/summary/02691031a064)
+    * [서비스 장애를 예방하는 방법 Chaos Engineering | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1006523)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [폭증하는 카카오톡 트래픽에 대처하는 방법 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-traffic/)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
@@ -6897,6 +6901,8 @@ Programming
       * 정책을 신뢰하는 사람들이 더 체계적으로 이행하도록 하기 위해 워크숍, 문서화 등 다양한 방법 활용
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
   * [GitHub이 구축한 온콜 문화 | GeekNews](https://news.hada.io/topic?id=3551)
+* [opslane: Reducing alert fatigue for on-call engineers](https://github.com/opslane/opslane)
+  * [Opslane - 온콜 메시지를 통합해서 스트레스를 줄여주는 도구 | GeekNews](https://news.hada.io/topic?id=16074)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
