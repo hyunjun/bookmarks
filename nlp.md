@@ -2145,6 +2145,8 @@ NLP
     * They explain that politeness can potentially improve the results of generative AI apps like ChatGPT, GPT-4, Bard, Gemini, and Claude
     * The author provides a comprehensive guide on over fifty other prompting strategies, and they also mention the limitations and drawbacks of politeness in prompts
     * They emphasize the importance of using politeness in prompts and provide examples to illustrate the concept
+* [2303.16634 G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
+  * [LLM 기반으로 AI 제품 평가하기. LLM을 이용한 평가 자동화 방법과 그 한계 알기 | by Jonas Kim | Jul, 2024 | Medium](https://medium.com/@aldente0630/llm-%EA%B8%B0%EB%B0%98-rag-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%8F%89%EA%B0%80-5aaeca30365e)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2726,6 +2728,8 @@ NLP
   * [LSP-AI : AI기능을 위한 오픈소스 랭귀지 서버 | GeekNews](https://news.hada.io/topic?id=15278)
 * [maestro: A framework for Claude Opus to intelligently orchestrate subagents](https://github.com/Doriandarko/maestro)
   * [Ollama 활용 🤖AI 자동화로 손쉽게 앱 만들기: Maestro 설치 및 활용](https://fornewchallenge.tistory.com/entry/Ollama-%ED%99%9C%EC%9A%A9-%F0%9F%A4%96AI-%EC%9E%90%EB%8F%99%ED%99%94%EB%A1%9C-%EC%86%90%EC%89%BD%EA%B2%8C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Maestro-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%9C%EC%9A%A9)
+* [mem0: The memory layer for Personalized AI](https://github.com/mem0ai/mem0)
+  * [Mem0 - 개인화 AI를 위한 Long-Term 메모리 | GeekNews](https://news.hada.io/topic?id=16084)
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [MiniCPM-V: MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
