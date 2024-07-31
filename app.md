@@ -1425,6 +1425,9 @@ App
       * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
     * [Shotcut - Home](https://shotcut.org/)
       * [Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기 | GeekNews](https://news.hada.io/topic?id=6733)
+    * [StreamPot: Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage](https://github.com/StreamPot/StreamPot)
+      * [A friendly API for FFmpeg - StreamPot](https://streampot.io/)
+      * [StreamPot - ffmpeg 을 API로 만들기 | GeekNews](https://news.hada.io/topic?id=16082)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
       * [vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구 | GeekNews](https://news.hada.io/topic?id=5252)
 * 절전 모드 방지
