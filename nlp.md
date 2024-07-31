@@ -2147,6 +2147,8 @@ NLP
     * They emphasize the importance of using politeness in prompts and provide examples to illustrate the concept
 * [2303.16634 G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634)
   * [LLM 기반으로 AI 제품 평가하기. LLM을 이용한 평가 자동화 방법과 그 한계 알기 | by Jonas Kim | Jul, 2024 | Medium](https://medium.com/@aldente0630/llm-%EA%B8%B0%EB%B0%98-rag-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%8F%89%EA%B0%80-5aaeca30365e)
+* [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+  * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
