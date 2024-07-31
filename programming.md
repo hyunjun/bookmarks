@@ -5253,6 +5253,9 @@ Programming
   * [Jam Bug Reporting Tool | Helpful for Frontend Developers - YouTube](https://www.youtube.com/watch?v=JKbDbF5z8qU)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
+* [rrweb.io | Open source web session replay library](https://www.rrweb.io/)
+  * [rrweb: record and replay the web](https://github.com/rrweb-io/rrweb)
+  * [rrweb - 웹용 레코드 & 리플레이 디버거 | GeekNews](https://news.hada.io/topic?id=16104)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
