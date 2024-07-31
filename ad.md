@@ -49,6 +49,8 @@
 * [마케팅 타깃팅 툴 BUDS 제작기, 탄생부터 수출 역군이 되기까지 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17765/)
 * [말로만 듣던 프로덕팅(Producting). 직접 해보니 역시는 역시다 | by Stephan Seunghwan Seo | DelightRoom | Jun, 2024 | Medium](https://medium.com/delightroom/%EB%A7%90%EB%A1%9C%EB%A7%8C-%EB%93%A3%EB%8D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8C%85-producting-47f243bd957c)
 * [데이터로 풀어보는 마케팅 최적화](https://labs.brandi.co.kr//2024/07/25/kwonsc.html)
+* [Attribution is Dying. Clicks are Dying. Marketing is Going Back to the 20th Century. - SparkToro](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
+  * [어트리뷰션의 소멸과 클릭의 감소. 마케팅은 다시 20세기로 회귀중 | GeekNews](https://news.hada.io/topic?id=16103)
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
