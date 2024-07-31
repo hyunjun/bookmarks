@@ -1673,6 +1673,8 @@ SQL
   * [SQLite와의 First Contact | GeekNews](https://news.hada.io/topic?id=15816)
 * [35% Faster Than The Filesystem](https://sqlite.org/fasterthanfs.html)
   * [SQLite: 파일 시스템보다 35% 더 빠름 | GeekNews](https://news.hada.io/topic?id=16044)
+* [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
+  * [SQLite의 트랜잭션 | GeekNews](https://news.hada.io/topic?id=16105)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
