@@ -191,6 +191,7 @@ Lisp
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
 * [rark - a Racket language inspired by ARc, by Kogir](https://github.com/kogir/rark)
 * [Rosette - a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
+* [zuo: A tiny Racket for scripting](https://github.com/racket/zuo)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
