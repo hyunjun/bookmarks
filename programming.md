@@ -1563,6 +1563,8 @@ Programming
 * [웹 API 설계 원칙 #1 (1~3장) - YouTube](https://www.youtube.com/watch?v=5n1gEeQiw1Y)
   * [VidiGo 웹 API 설계 원칙 #1 (1~3장).mp4](https://vidigo.ai/share/summary/95134b72b619)
   * [웹 API 설계 원칙 #1 (1~3장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/750203)
+* [After 10 Years, Yelp Gave My App 4 Days ~ Observational Hazard](https://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
+  * [Yelp, 내 앱이 10년간 사용하던 API에 단 4일 기간만 주고 비활성화 | GeekNews](https://news.hada.io/topic?id=16111)
 * [API Protocols](https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7221822897483358208-t1cY/)
   * 1. REST (Representational State Transfer)
   * 2. GraphQL
