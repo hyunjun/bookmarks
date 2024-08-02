@@ -694,6 +694,13 @@ AWS
 * [Amazon Bedrock을 이용해 RAG, Fine tuning 없이 자동 고객 응대 서비스 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-cs-bot-without-rag/)
 * [Amazon Bedrock 기반 미리캔버스 디자인 템플릿 추천 챗봇 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-miri-canvas-design-template-chatbot/)
 * [Amazon Bedrock으로 Multi Modal 문서에 대해 RAG 적용 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-multi-modal-document-rag/)
+* [Amazon Bedrock의 파운데이션 모델을 활용한 효과적인 PDF 파싱을 위한 프롬프트 엔지니어링 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-claude3-parsing/)
+  * Amazon Bedrock의 파운데이션 모델을 활용한 효과적인 PDF 파싱을 위한 프롬프트 엔지니어링 기법
+  * 이 블로그에서는 XML 태그 활용 방법을 포함하여 프롬프트 엔지니어링 기법 설명
+    * Anthropic의 Claude 3 및 Claude 3.5 모델을 사용하여 PDF 파싱을 수행하는 방법 소개
+    * 기존 OCR 기반 방법의 한계를 극복, 문서의 컨텍스트를 이해하며 복잡한 레이아웃에서도 중요 데이터를 추출 가능
+  * 구현 예시와 정확도 평가 결과를 통해 실제 비즈니스 데이터를 활용한 커스텀 평가 방법의 중요성 강조
+  * 또한, 이 기법의 응용 가능성과 개선 방향에 대해서도 설명
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -1602,6 +1609,9 @@ AWS
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
 * [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
+* [Serverless Handson(Create Lambda) #1 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson/)
+* [Serverless Handson(Create Pipeline) #2 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson-2/)
+* [Serverless Handson(Attach an API Gateway) #3 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson-3/)
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [서버리스 어플리케이션 최적화 해보기](https://github.com/jmyung/jmyung.github.io/blob/master/_posts/2018-12-20-optimizing-serverless.md)
 * [How to Deploy AWS Layers With Lambda And Serverless.js](https://medium.com/harrythegreat/build-aws-layers-lambda-serverless-js-42cd6d17b155)
