@@ -343,6 +343,9 @@ Programmer
       * 본인이 어떤 가치를 추가할 수 있는지 항상 고민하고, 행동으로 이를 실현 필요
       * 타인이 무엇을 해야 하는지 요구하는 것이 아니라, 자발적으로 행동하고 결과에 투자 필요
 * [개발자도 회사의 조직원이다](https://www.thestartupbible.com/2024/03/business-before-technology.html)
+  * 개발자도 회사의 조직원으로서 제품 개발과 매출 증대에 기여해야 하며, 기술적인 문제 해결에만 집중하는 것은 회사의 목표와 일치하지 않을 수 있음
+  * 창업가들은 비즈니스의 시각을 가지고 기술력을 발휘해야 하며, 비즈니스와 관련 없는 코딩과 기술에만 집착하는 사람들은 창업에 부적합
+  * [이동욱 on LinkedIn: 개발자도 회사의 조직원이다](https://www.linkedin.com/posts/%EB%8F%99%EC%9A%B1-%EC%9D%B4-575160177_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%ED%9A%8C%EC%82%AC%EC%9D%98-%EC%A1%B0%EC%A7%81%EC%9B%90%EC%9D%B4%EB%8B%A4-activity-7224255574085877760-Spwn)
 * [Having Kids](https://paulgraham.com/kids.html)
   * [Paul Graham의 "Having Kids" 에세이](https://www.linkedin.com/posts/danielylee_%EC%A2%85%EC%A2%85-%EC%B6%9C%EC%82%B0%EC%9D%84-%EC%95%9E%EB%91%94-%EB%8F%99%EB%A3%8C%EA%B0%80-%EC%B6%9C%EC%82%B0%EC%9D%B4-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90-%EB%AF%B8%EC%B9%A0-%EC%98%81%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B1%B1%EC%A0%95%ED%95%98%EB%8A%94-activity-7185532993682223107-WgJq/)
 * [유난한 도전과 도망: 어느 직장인의 부끄러운 회고](https://jaypark.me/11)
