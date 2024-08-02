@@ -380,6 +380,8 @@ NLP
 * [A Beginner’s Guide to Vector Embeddings](https://www.timescale.com/blog/a-beginners-guide-to-vector-embeddings/)
   * [초보자를 위한 Vector Embeddings 가이드 | GeekNews](https://news.hada.io/topic?id=15094)
 * [카카오의 스팸 메일 대응 전략: 문자열 변형 CASE STUDY / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/624) spam
+* [Embedding.io - 모든 웹사이트를 LLM을 위한 지식창고로 전환하기 | GeekNews](https://news.hada.io/topic?id=16137)
+  * [Turn websites into knowledge bases | Embedding.io](https://www.embedding.io/)
 
 # 띄어쓰기
 
@@ -2149,6 +2151,7 @@ NLP
   * [LLM 기반으로 AI 제품 평가하기. LLM을 이용한 평가 자동화 방법과 그 한계 알기 | by Jonas Kim | Jul, 2024 | Medium](https://medium.com/@aldente0630/llm-%EA%B8%B0%EB%B0%98-rag-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%8F%89%EA%B0%80-5aaeca30365e)
 * [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
+* [Lean Copilot: An AI Tool that Allows Large Language Models (LLMs) to be used in Lean for Proof Automation - MarkTechPost](https://www.marktechpost.com/2024/07/30/lean-copilot-an-ai-tool-that-allows-large-language-models-llms-to-be-used-in-lean-for-proof-automation/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2721,6 +2724,12 @@ NLP
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
   * [Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM - YouTube](https://www.youtube.com/watch?v=-Rs8-M-xBFI)
   * [🤗 #huggingface 에 공개된 오픈모델을 💻 로컬PC 에서 빠르게 실행🔥 해보고 테스트 하는 방법 + 모델 서빙🚀 + 업무자동화🤖 에 적용하는 방법까지! - YouTube](https://www.youtube.com/watch?v=bANQk--Maxs)
+* [LMSYS Org](https://lmsys.org/)
+  * [RouteLLM: Achieves 90% GPT-4 Quality at 80% Lower Cost | by Ali Waseem | Jul, 2024 | Medium](https://medium.com/@learngrowthrive.fast/routellm-achieves-90-gpt-4-quality-at-80-lower-cost-6686e5f46e2a)
+    * RouteLLM is a project from lmsys.org that aims to significantly reduce the cost of running large language models (LLMs) by up to 80% while maintaining 95% of GPT-4's quality
+    * It is an open-source framework designed for cost-effective LLM routing, achieving high-quality results using smaller, open-source models
+    * Key features include efficient query handling, optimized systems, and local computing
+    * The framework's use of data augmentation and preference data training methods ensures high-quality responses while optimizing costs, making it a valuable tool for deploying LLMs efficiently
 * [Local-LLM-Comparison-Colab-UI: Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/)
   * [Build with GenAI: generative search with local LLM | by Guodong (Troy) Zhao | Apr, 2024 | Bootcamp](https://bootcamp.uxdesign.cc/build-with-genai-generative-search-with-local-llm-342eb5a5037a)
   * [A complete guide to running local LLM models | by Guodong (Troy) Zhao | Bootcamp](https://bootcamp.uxdesign.cc/a-complete-guide-to-running-local-llm-models-3225e4913620)
@@ -3222,6 +3231,7 @@ NLP
     * [kiwigo - 한글 형태소 분석기인 kiwi의 go binding | GeekNews](https://news.hada.io/topic?id=5292)
   * [kiwipiepy: Python API for Kiwi](https://github.com/bab2min/kiwipiepy)
     * [Kiwi로 한국어 문장 분리하기](https://bab2min.tistory.com/669)
+    * [한국어 형태소 분석기 Kiwipiepy 사용방법 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2362)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * [KoParadigm: Korean Inflectional Paradigm Generator](https://github.com/Kyubyong/paradigm)
@@ -3249,6 +3259,8 @@ NLP
   * [python-mecab-kor: Yet another python binding for mecab-ko](https://github.com/hyunwoongko/python-mecab-kor)
 * [Memory Networks](https://github.com/facebook/MemNN)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
+* [MINT-1T: A one trillion token multimodal interleaved dataset.](https://github.com/mlfoundations/MINT-1T)
+  * [세일즈포스, 기존 10배 규모 오픈 소스 멀티모달 데이터셋 출시 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=161998)
 * [mit-nlp](https://github.com/mit-nlp)
 * [name2nat: a Python package for nationality prediction from a name](https://github.com/Kyubyong/name2nat)
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
