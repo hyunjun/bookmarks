@@ -51,6 +51,7 @@
 * [데이터로 풀어보는 마케팅 최적화](https://labs.brandi.co.kr//2024/07/25/kwonsc.html)
 * [Attribution is Dying. Clicks are Dying. Marketing is Going Back to the 20th Century. - SparkToro](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/)
   * [어트리뷰션의 소멸과 클릭의 감소. 마케팅은 다시 20세기로 회귀중 | GeekNews](https://news.hada.io/topic?id=16103)
+  * [(2) 권정혁 - "어트리뷰션의 소멸과 클릭의 감소. 마케팅은 다시 20세기로 회귀중" 딱 지금 페이스북의 상황을 설명하는... | Facebook](https://www.facebook.com/xguru/posts/pfbid035K8a3eue1qajkXmcYUAp83tHfAxUoiUVf5qf6tNYwxAtyLr8WCu7N9poJDYtSuzl)
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
