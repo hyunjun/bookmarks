@@ -1420,6 +1420,8 @@ Business
 * [혁신이란 무엇인가?](http://ppss.kr/archives/48370)
 * [할리우드에서는 어떻게 창의적인 작가를 발굴하는가?](http://ppss.kr/archives/59169)
 * [창의성은 결과가 아니라 과정이다 (한글 번역) | Creativity Is a Process, Not an Event | JAMES CLEAR](https://blog.naver.com/bizucafe/223096363534)
+* [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
+  * [창의성의 근본은 암기에서 비롯되는가? | GeekNews](https://news.hada.io/topic?id=16113)
 
 # CTO
 * [Modern CTO - YouTube](https://www.youtube.com/c/ModernCTO/featured)
@@ -3073,6 +3075,11 @@ Business
   * [3-2.돈을 어디에, 어떻게, 얼마나 써야 할까? 2부](https://brunch.co.kr/@yeonnnh/5)
 * ['PC지원 종료' 무신사 사례로 본 모바일 VS PC 흥미로운 통계 모음 | Disquiet\*](https://disquiet.io/@hatchhiker_marketing/makerlog/pc%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C-%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-vs-pc-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%86%B5%EA%B3%84-%EB%AA%A8%EC%9D%8C)
 * [프로덕트 성장 전략 1: 타깃 오디언스 정의의 흔한 오류 | 매쉬업벤처스](https://www.mashupventures.co/contents/target-audience-mistakes-and-how-to-do-user-interview-for-growth)
+  * 제품 개발 시 자주 하는 실수와 타겟에 대한 이해를 높이는 방법 이야기
+  * 뛰어난 제품 기능보다 중요한 것은 타겟 고객이 원하는 가치 제공
+  * 타겟을 이해하는 것이 성공적인 제품 개발에 필수적이라고 주장
+  * 타겟을 구체적으로 정의하지 않고 기능을 우선시하는 것이 프로덕트 개발에서 흔히 하는 실수
+  * 타겟을 이해하기 위해 장기적인 사고와 인지적 공감을 갖는 것이 중요, 사용자 인터뷰를 진행하는 것이 좋음
 * [넷플릭스 게임의 두 번째 시즌: 도전, 변화, 그리고 앞으로의 길 | GeekNews](https://news.hada.io/topic?id=16059)
 
 # Product Management
@@ -3773,6 +3780,13 @@ Business
 * [실리콘 밸리의 숨겨진 비밀: 창업자 유동성(Founder Liquidity) | GeekNews](https://news.hada.io/topic?id=15309)
 * [What Is ZIRP And How Did It Poison Startups? - YouTube](https://www.youtube.com/watch?v=iMo5-4h_XwE)
   * [VidiGo What Is ZIRP And How Did It Poison Startups?.mp4](https://vidigo.ai/share/summary/9827259e5f63)
+* [이복연 - 대부분의 스타트업은 실패하지만, 가끔씩은 말도 안되는 엄청난 성공을 만들어낸다. 무너져가던 90년대 후반의... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid021b9RW9ufZSuqfsA2qrSWcpvQa4n2dmY4MagZDFdmz4JXu4GFkFbC7EVSt513rDH5l)
+  * 군사학 용어에서 흔히 쓰는 표현으로 Two-front war 를 사업부가 경험해야 하는 것
+    * Two front war는 2개의 서로 떨어진 지역에서 전쟁을 수행해야 하는 것을 의미
+    * 여기에서 two front war는 그 중에서도 양쪽에서 전쟁을 벌려야 해서 가운데서 샌드위치가 되는 상황 의미, 양면전쟁
+      * 가령 세계대전기의 독일이 서쪽으로는 영국과 미국, 동쪽으로는 소련을 상대해야 했던 상황
+  * 고객 가치를 찾아내고 고객을 설득하는 것도 어려운데
+    * 그 과정에서 필요한 자원을 가져오기 위해 기업 내부의 경영진이나 투자자를 설득하느라 진을 빼는 상황이 계속 벌어지는 경우
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
