@@ -360,6 +360,8 @@ Vision
   * [SAM(Segment Anything Model)과 친해지기 - 김경환](https://aifactory.space/learning/2504/discussion/486)
   * [MobileSAM: This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight](https://github.com/ChaoningZhang/MobileSAM)
   * [nanosam: A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT](https://github.com/NVIDIA-AI-IOT/nanosam)
+  * [segment-anything-2: The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything-2)
+    * [SAM 2: 이미지와 비디오를 위한 Segment Anything | GeekNews](https://news.hada.io/topic?id=16090)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
