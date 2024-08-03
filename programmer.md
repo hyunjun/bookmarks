@@ -201,8 +201,10 @@ Programmer
 * [2022 SILLY TALK | 한기용 그렙 USA CTO의 “풀타임으로 일했던 12개의 회사썰 모음ZIP” - YouTube](https://www.youtube.com/watch?v=Is2EfBruplI)
 * [한기용 님 특강 @Viva Republica (Toss)](https://www.linkedin.com/posts/younghwa-kang-a27316b4_28%EB%85%84%EC%B0%A8-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%9C%EA%B8%B0%EC%9A%A9-%EB%8B%98-%ED%8A%B9%EA%B0%95-viva-republica-activity-7047355476421865473-im04/)
   * 멘토링은 어떻게 더 잘하게 되나요? A5. 단순하다. 한만큼 는다. 멘토링을 스케일업 하기 위한 방법을 딱히 찾지는 못했다
-* 한기용 [실리콘밸리 개발자가 말하는 장기적으로 우상향하는 커리어를 만드는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/20240315keeyonghan)
-* [한기용 - 멘토링 이야기 19: 인성은 훌륭한데 일을 잘 못하는 팀원을 어떻게 해야할까요?](https://www.linkedin.com/posts/activity-7174917351782428672-ItkL/)
+* 한기용
+  * [실리콘밸리 개발자가 말하는 장기적으로 우상향하는 커리어를 만드는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/20240315keeyonghan)
+  * [한기용 - 멘토링 이야기 19: 인성은 훌륭한데 일을 잘 못하는 팀원을 어떻게 해야할까요?](https://www.linkedin.com/posts/activity-7174917351782428672-ItkL/)
+  * [인정받는 주니어, 시니어, 리더의 모습은?](https://www.linkedin.com/posts/activity-7218111756353646592-Z0Bb/)
 * [Review Tech Talk - 개발자의 성장 그리고 실리콘밸리 이야기 | Dev.Inn](https://devinn.dev/blog/detail.html?id=304)
 * [구글 13년 차가 넥스트스텝으로 선택한 야놀자 | 원티드](https://www.wanted.co.kr/events/22_07_s12_b01) 개인의 이야기와 커리어 이야기가 섞여 있고 일반적인 이야기지만 좋음
 * [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career | by bytefish | Frontend Canteen | Aug, 2022 | Medium](https://medium.com/frontend-canteen/from-a-dropout-to-a-core-contributor-to-deno-heres-the-story-of-my-10-year-programming-career-d54a1a7add0f)
@@ -346,6 +348,7 @@ Programmer
   * 개발자도 회사의 조직원으로서 제품 개발과 매출 증대에 기여해야 하며, 기술적인 문제 해결에만 집중하는 것은 회사의 목표와 일치하지 않을 수 있음
   * 창업가들은 비즈니스의 시각을 가지고 기술력을 발휘해야 하며, 비즈니스와 관련 없는 코딩과 기술에만 집착하는 사람들은 창업에 부적합
   * [이동욱 on LinkedIn: 개발자도 회사의 조직원이다](https://www.linkedin.com/posts/%EB%8F%99%EC%9A%B1-%EC%9D%B4-575160177_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%ED%9A%8C%EC%82%AC%EC%9D%98-%EC%A1%B0%EC%A7%81%EC%9B%90%EC%9D%B4%EB%8B%A4-activity-7224255574085877760-Spwn)
+  * ["개발자도 회사의 조직원이다" 를 보고](https://jojoldu.tistory.com/794)
 * [Having Kids](https://paulgraham.com/kids.html)
   * [Paul Graham의 "Having Kids" 에세이](https://www.linkedin.com/posts/danielylee_%EC%A2%85%EC%A2%85-%EC%B6%9C%EC%82%B0%EC%9D%84-%EC%95%9E%EB%91%94-%EB%8F%99%EB%A3%8C%EA%B0%80-%EC%B6%9C%EC%82%B0%EC%9D%B4-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4%EC%97%90-%EB%AF%B8%EC%B9%A0-%EC%98%81%ED%96%A5%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B1%B1%EC%A0%95%ED%95%98%EB%8A%94-activity-7185532993682223107-WgJq/)
 * [유난한 도전과 도망: 어느 직장인의 부끄러운 회고](https://jaypark.me/11)
