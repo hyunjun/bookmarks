@@ -3192,6 +3192,13 @@ Programming Books
   * [비동기 우선 플레이북 The Async-First Playbook](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_async_first_playbook.md)
   * [비동기 우선 플레이북. ★★★★☆ June 13, 2024 → June 15, 2024… | by Jun | Jun, 2024 | Medium](https://nymets.medium.com/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9A%B0%EC%84%A0-%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81-1866166c5e25)
   * [비동기 우선 플레이북 -](https://jh4hj.tistory.com/entry/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9A%B0%EC%84%A0-%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81)
+* 타임박싱
+  * ★★☆☆☆ 2024.07.02~03 나쁜 책은 아니고 읽기 어려운 것도 아닌데 묘하게 뭔가 부족한 느낌이 든다. 타임박싱이라는 기법을 이미 알고 있기 때문일까? 아니면 타임박싱이란 저자 스스로도 복잡할 게 없다고 말하는 기법을 책 한권으로 쓰면서 유용한 부분이 과장되었다고 느끼는 걸까? 추천하라고 하면 나쁘진 않은데 또 굳이 읽어보라고 하기도 좀 어렵게 느껴지는 게 좀 애매하다
+  * 우당 문325.2112-자65ㅌ
+  * [타임박싱](https://github.com/hyunjun/bookmarks/blob/master/programming_books/timeboxing.md)
+  * [타임박싱. ★★☆☆☆ July 2, 2024 → July 3, 2024 나쁜 책은… | by Jun | Aug, 2024 | Medium](https://nymets.medium.com/%ED%83%80%EC%9E%84%EB%B0%95%EC%8B%B1-2be99f945c10)
+  * [타임박싱 - Jun’s Substack](https://recur.substack.com/p/e77)
+  * [타임박싱](https://jh4hj.tistory.com/entry/%ED%83%80%EC%9E%84%EB%B0%95%EC%8B%B1)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
