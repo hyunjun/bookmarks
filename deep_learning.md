@@ -2869,6 +2869,8 @@ CVPR2016)
 * [sdweb-easy-prompt-selector](https://github.com/butaixianran/sdweb-easy-prompt-selector)
 * [fast-stable-diffusion: fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth](https://github.com/TheLastBen/fast-stable-diffusion)
   * [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
+* [Flux - 12B 파라미터 오픈소스 Text-To-Image 모델 | GeekNews](https://news.hada.io/topic?id=16129)
+  * [Announcing Flux by Black Forest Labs: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [keras-sd-serving: showing various ways to serve Keras based stable diffusion](https://github.com/deep-diver/keras-sd-serving)
   * FastAPI 및 TensorFlow Serving으로 배포하기 위해 필요한 소스코드와 더불어 즉시 사용 가능한 도커 이미지 7종 빌드
   * 기능 작동 여부는 Google Kubernetes Engine 위에서 확인, 이에 따라 Dockerfile 및 yaml 파일도 함께 저장소에 포함
