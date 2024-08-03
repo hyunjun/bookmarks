@@ -1106,6 +1106,10 @@ Programming
   * Agile 방법론 중 하나인 Kanban은 기존 조직을 크게 변경하지 않고도 시작 가능
   * Kanban 도입을 위한 시스템 사고 접근법인 STATIK을 사용하면 새로운 시스템 설계 가능
   * STATIK은 효과적인 Kanban 시스템 설계를 위한 반복적이고 인간적인 방법으로, 6가지 기본 단계를 포함
+* [KANBAN Practices :: StoneI Developer — A simple theme for Hugo](https://stonei.tech/posts/kanban-practices/)
+  * Kanban은 효율적인 업무 관리를 위한 실천법 제공
+  * 이 실천법은 업무 흐름의 시각화, 진행 중인 작업 제한, 흐름 관리, 명확한 프로세스 정책, 피드백 루프 구현, 협력적 개선 및 실험적 진화
+  * 이러한 실천법은 팀의 효율성을 높이고 지속적인 개선을 도모하는 데 도움
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [원격 디자인 스프린트 쉽게 하는 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/08/remote-design-sprint/)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
@@ -1131,6 +1135,7 @@ Programming
   * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
   * [스포티파이의 실수에서 배울 점](https://www.linkedin.com/posts/youngmin-kim-073672ba_spotify%EC%9D%98-squad-%ED%8C%80-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%8B%A4%ED%8C%A8%EC%98%80%EB%8B%A4-geeknews-activity-7002171789795610624-y0hQ/)
 * [Death Of The "Spotify Model" • Gijs Meijer & Marcin Pakulnicki • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X3AHdo34gWM)
+* [조직문화 스쿼드(Squad)는 그만!!. 201x년 스쿼드의 경험은 고통이었다. 첫 제품을 만들어야하는… | by 김준형 | Jul, 2024 | Medium](https://medium.com/@ghilbut/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94-%EC%8A%A4%EC%BF%BC%EB%93%9C-squad-%EB%8A%94-%EA%B7%B8%EB%A7%8C-738b7ebd6998)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 * [Scrum Master vs Product Owner: How Are These Two Roles Different](https://k21academy.com/scrum-master/scrum-master-vs-product-owner-which-role-is-suitable-for-you)
@@ -1821,6 +1826,10 @@ Programming
   * [서비스 장애를 예방하는 방법: Chaos Engineering - YouTube](https://www.youtube.com/watch?v=U6Jyx9fzsCA)
     * [VidiGo 서비스 장애를 예방하는 방법: Chaos Engineering.mp4](https://vidigo.ai/share/summary/02691031a064)
     * [서비스 장애를 예방하는 방법 Chaos Engineering | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1006523)
+* [네이버 뉴스 서비스가 장애를 예방하는 방법 - 카오스 엔지니어링](https://d2.naver.com/helloworld/8857983)
+  * 네이버 뉴스 서비스는 Toxiproxy라는 카오스 엔지니어링 도구를 사용하여 장애 상황을 테스트함으로써 장애 예방
+  * Toxiproxy는 서버 간의 프록시 서버를 생성하여 네트워크 장애를 모방하고 테스트할 수 있게 해줌
+    * 이를 통해 네이버 뉴스 서비스는 인프라 장애 상황을 예측하고 대비 가능
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [폭증하는 카카오톡 트래픽에 대처하는 방법 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-traffic/)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
@@ -2376,6 +2385,17 @@ Programming
 * [vinyl.coroke.net 바이닐고로케 개발기 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/vinylcoroke)
   * LP 바이닐 음반을 검색할 수 있는 서비스를 만들어야겠다는 아이디어에서 시작해서 10일 정도 만에 데이터를 크롤링해서 서비스까지 오픈한 과정
   * django와 SvelteKit, MySQL을 사용해서 구축했고 서비스를 구축하면서 고민했던 내용 설명
+* [How to Make Smart Architecture Decisions when Building Gen AI Apps • Gillian Armstrong • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=Gn9r-80z0Qc)
+  * The presentation, titled "Outsmarting the Genie: How to Make Smart Architecture Decisions when Building Gen AI Apps,"
+    * explored architectural decisions and trade-offs for building reliable and performant generative AI applications
+  * Armstrong emphasized the importance of considering factors like
+    * model and tooling choices
+    * safety and accuracy
+    * testing and optimization
+    * and responsible AI principles
+  * The presentation included real-life use cases and advice on identifying good and bad use cases for generative AI
+  * [VidiGo How to Make Smart Architecture Decisions when Buil](https://vidigo.ai/share/summary/fa34da96bf62)
+  * [차세대 AI 앱을 구축할 때 현명한 아키텍처 결정을 내리는 방법 - Gillian Armstrong - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1026799)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -4383,6 +4403,7 @@ Programming
   * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
     * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
 * InfCon
+  * [인프콘 후기 2024 INFCON](https://yeonyeon.tistory.com/338)
   * [2023 인프콘 회고](https://jojoldu.tistory.com/736)
   * [인프콘 2022 다시보기 - 인프런 | 강의](https://www.inflearn.com/course/infcon2022)
   * [인프콘 2022 회고](https://velog.io/@yukina1418/%EC%9D%B8%ED%94%84%EC%BD%98-2022-%ED%9A%8C%EA%B3%A0)
@@ -4650,6 +4671,7 @@ Programming
       * Infrastructure as Code의 도입률은 높지만, 클라우드 업체별로 꽤 차이가 존재
       * 수동 클라우드 배포는 여전히 널리 사용
       * CI/CD 파이프라인에서 수명이 짧은 크리덴셜의 사용률이 여전히 너무 낮음
+* [지금 알아야 할 CI/CD 트렌드 5가지 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/31/cicd-trends/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
@@ -4690,6 +4712,8 @@ Programming
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
   * [유연하고 안전하게 배포 Pipeline 운영하기](https://toss.tech/article/slash23-devops)
 * [hands-on-fast-and-secure-cicd-pipeline](https://github.com/cjsrkd3321/hands-on-fast-and-secure-cicd-pipeline)
+* n8n.io [Powerful Workflow Automation Software & Tools - n8n](https://n8n.io/)
+  * [워크플로 자동화로 업무 효율 향상하기(with n8n) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/31/workflow-n8n/)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
@@ -5248,6 +5272,7 @@ Programming
   * [버그 회고, 품질 프로세스 개선의 첫걸음 (RCA). 애자일 개발 프로세스의 성공은 회고(Retrospective)와 실천에… | by Seunghoon Lee | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/%EB%B2%84%EA%B7%B8-%ED%9A%8C%EA%B3%A0-%ED%92%88%EC%A7%88-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-rca-7cb3c17d3aa9)
 * [Causal profiling – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4454)
 * [더 많은 정보가 필요하면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=fUCMIf_4Pnc) 기술적인 이야기보다는 문화, processs, management에 대한 이야기
+* [디버깅 원칙 | kciter.so](https://kciter.so/posts/principles-of-debugging/)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
@@ -6659,6 +6684,7 @@ Programming
   * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-2.html)
   * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-3.html)
   * [7월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-4.html)
+  * [7월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-7-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -6840,6 +6866,7 @@ Programming
   * [기술 뉴스 #248 : 24-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1725)
   * [기술 뉴스 #249 : 24-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1726)
   * [기술 뉴스 #250 : 24-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1729)
+  * [기술 뉴스 #251 : 24-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1731)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -7282,6 +7309,8 @@ Programming
 * [Refactoring vs Refuctoring: Code Quality in the Al Age • Enys Mones & Peter Anderberg • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=AqB6u7isTOw)
   * [VidiGo Refactoring vs Refuctoring: Code Quality in the Al](https://vidigo.ai/share/summary/e98822504c7e)
   * [리팩터링과 리펙토링: Al 시대의 코드 품질 - Enys Mones & Peter Anderberg - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/895469)
+* [An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
+  * "make the change easy, then make the easy change"
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
@@ -8077,6 +8106,23 @@ Programming
 * [10 Best QA Companies Using AI in Software Testing in 2024 | by timothy joseph | Jan, 2024 | Medium](https://medium.com/@timothyjosephcw/10-best-qa-companies-using-ai-in-software-testing-in-2024-5b708d222a9f)
 * [헤이딜러 QA팀은 어떻게 일하나요?. - 매주 배포하는 스타트업 환경에서 어떻게 일해야 효율적일까? … | by rookie | PRND | May, 2024 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C-qa%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-3588417b3d02)
 * [여기 QA팀 어때?. 안녕하세요. 여기어때컴퍼니 QA팀 케일입니다. | by Kayle | Jun, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0-qa%ED%8C%80-%EC%96%B4%EB%95%8C-b86bd960ed99)
+* [LY의 QA 엔지니어가 생성형 AI를 이용해 품질 활동의 생산성을 높이는 방법](https://techblog.lycorp.co.jp/ko/increase-productivity-of-quality-activities-with-generative-ai)
+  * LY의 QA 엔지니어는 생성형 AI를 활용하여 품질 활동의 생산성 향상 가능
+  * 이를 위해 사내 보안 규정과 생성형 AI의 한계점을 고려 필요
+  * 품질 활동에 생성형 AI를 적용하기 위해, 분석과 요약이 필요한 활동을 선별하고, 각 품질 활동에 대한 프롬프트를 생성하여 사용
+    * 이를 통해 다음과 같은 작업 수행 가능
+      * 기획 문서 정리
+      * Slack 스레드 요약 및 분석
+      * 테스트 설계 및 테스트 케이스 도출
+      * 버그 이슈의 성질 파악 및 탐색적 테스팅으로의 확장
+      * 앱 리뷰 요약 및 분석
+      * 회고 정리 등
+  * 생성형 AI를 도입하기 전에, 조직의 요구사항, 품질 활동에 필요한 요소, 생성형 AI의 활용 수준 등을 고려 필요
+* [29CM QA팀은 어떻게 테스트 자동화 지표를 활용하여 신뢰성을 확보할 수 있었을까? | by 박현준 | 29CM TEAM | Jul, 2024 | Medium](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EC%A7%80%ED%91%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8B%A0%EB%A2%B0%EC%84%B1%EC%9D%84-%ED%99%95%EB%B3%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C-93ee5cca76ce)
+  * 29CM QA팀은 Postgresql과 Grafana를 활용하여 테스트 자동화 지표를 설정하고, 신뢰성을 확보하기 위해 데이터를 시각화
+  * 필수적인 지표를 수집하고, 선택 지표를 선택하여 사용할 수 있도록 설정
+  * 테스트 자동화를 지속적으로 수행하면서 데이터가 쌓였고, 그 데이터를 시각화하여 실패율 측정
+  * 실패율을 2% 미만으로 낮추는 것을 목표로 삼았고, 2분기에 목표 달성
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
