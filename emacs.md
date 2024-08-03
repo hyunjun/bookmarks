@@ -33,6 +33,7 @@ Emacs
 * [인텔맥에서 iTerm 2와 함께하는 Emacs 친화적인 환경설정 : 클리앙](https://www.clien.net/service/board/cm_mac/16149146)
 * [emacs를 배우며 남기는 조각들](http://ohyecloudy.com/emacsian/)
   * [매일 동료가 어제 커밋한 코드를 읽는 방법 ver.2022](http://ohyecloudy.com/pnotes/archives/how-to-read-merged-commits-2022/)
+* [Emacs Scala Eglot TreeSitter Nix setup using Home Manager - YouTube](https://www.youtube.com/watch?v=vRDNkAk9Obo)
 
 # Library
 * Cask
