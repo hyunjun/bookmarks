@@ -163,6 +163,10 @@ Redis
   * [Redis: EP9 - Redis HyperLogLog(HLL)에 대해서 알아보자 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362904?sId=Sb3wTBH4J0w)
 * [미니컨 대용량 서비스에 자주 쓰이는 레디스에 대해 알아보자 - 김소정 - YouTube](https://www.youtube.com/watch?v=M2u3pOT7I8E)
   * [VidiGo 미니컨 대용량 서비스에 자주 쓰이는 레디스에 대해 알아보자 - 김소정.mp4](https://vidigo.ai/share/summary/d9dbcf880194)
+* [Meet Chrono, our scalable, consistent, metadata caching solution - Dropbox](https://dropbox.tech/infrastructure/meet-chrono-our-scalable-consistent-metadata-caching-solution)
+  * Dropbox developed Chrono, a scalable and consistent metadata caching solution that addresses the challenge of efficiently storing and retrieving metadata
+  * Chrono is built on top of Panda, Dropbox's key-value storage system, and uses a scalable, consistent caching system to solve high-volume read queries per second (QPS) problems while maintaining read consistency
+  * Chrono provides non-decreasing return values for LatestAttemptTimestamp even with crashes/restarts and decouples data caching and write attempt tracking components for scalability
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
