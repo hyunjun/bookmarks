@@ -216,6 +216,7 @@ AWS
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
 * [Amazon Connect 로 아웃바운드콜 전화하기 - Qiita](https://qiita.com/leechungkyu/items/2492bfef6c4b06c9e2ae)
 * [Amazon Connect 상담원 워크스페이스의 타사 애플리케이션 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-third-party-applications-in-the-agent-workspace/)
+* [Amazon Connect 상담원 워크스페이스를 위한 단계별 가이드 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-step-by-step-guides-for-the-amazon-connect-agent-workspace/)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
@@ -701,6 +702,7 @@ AWS
     * 기존 OCR 기반 방법의 한계를 극복, 문서의 컨텍스트를 이해하며 복잡한 레이아웃에서도 중요 데이터를 추출 가능
   * 구현 예시와 정확도 평가 결과를 통해 실제 비즈니스 데이터를 활용한 커스텀 평가 방법의 중요성 강조
   * 또한, 이 기법의 응용 가능성과 개선 방향에 대해서도 설명
+* [AWS 기술 파트너와 함께 구축한 푸드테크 기업 식신의 Amazon Bedrock 기반 AI 대시보드 구축기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sikshin-built-ai-dashboard-with-aws-technology-partners-based-on-amazon-bedrock/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -2284,12 +2286,17 @@ AWS
 * [Amazon SageMaker 기반 완전 관리형 MLflow 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/)
 * [AWS ParallelCluster와 Amazon SageMaker를 이용한 바이옴에이츠의 미생물 복합 균주 개발 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-parallelcluster-and-amazon-sagemaker-to-develop-its-microbial-complex/)
 * [생성형 AI로 만드는 나만의 이력서: 웅진 IT의 Amazon Bedrock과 SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/woongjin-generative-ai-resume-in-bedlock-sagemaker/)
+* [Amazon SageMaker와 Airflow를 이용한 SK브로드밴드의 MLOps 플랫폼 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/skb-sagemaker-airflow-mlops-platform/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
     * [RAG over Complex Documents (Text, Table and Image)](https://www.linkedin.com/posts/dongjin-jang-kr_rag-over-complex-documents-text-table-activity-7176126997822107648-g1Ga/)
 * [aws-kr-startup-samples/machine-learning/mlflow at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/mlflow) sagemaker endpoint
   * [MLflow를 활용한 Hybrid MLOps 구축 예제](https://www.linkedin.com/posts/sungminkim23_hybridmlops-mlflow-sagemaker-activity-7200783416986910720-iJS3/)
+* [aws-kr-startup-samples/machine-learning/sagemaker/llava-next-video-model-on-sagemaker-endpoint at main · aws-samples/aws-kr-startup-samples](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/sagemaker/llava-next-video-model-on-sagemaker-endpoint)
+  * [비디오/이미지 분석을 위한 LLaVA-NeXT-Video 모델을 SageMaker Asynchronous Endpoint에 CDK로 배포하기](https://www.linkedin.com/posts/sungminkim23_sagemakerasyncinference-llava-vqa-activity-7223549837013663745-V9Lh/)
+* [aws-kr-startup-samples/machine-learning/sagemaker/llava-next-video-model-on-sagemaker-endpoint/sagemaker-realtime-inference at main · aws-samples/aws-kr-startup-samples](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/sagemaker/llava-next-video-model-on-sagemaker-endpoint/sagemaker-realtime-inference)
+  * [Amazon SageMaker Endpoint에 비디오/이미지 분석 모델 CDK로 배포하기](https://www.linkedin.com/posts/sungminkim23_llava-next-video-activity-7221018102744989696-EarR/)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
 * [aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart](https://github.com/aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart)
