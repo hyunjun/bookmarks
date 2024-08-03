@@ -208,6 +208,7 @@ iOS
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
 * [iOS에서 엑셀파일 만들기(feat. libxlsxwriter)](http://blog.canapio.com/140)
+* [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
 * Appium
   * [Appium 사용기 – IOS swift app UI 테스트](https://domich.wordpress.com/2017/04/19/appium-%EC%82%AC%EC%9A%A9%EA%B8%B0-ios-swift-app-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
@@ -286,7 +287,8 @@ iOS
   * [Swift HTTP Types 찍먹하기 :: iOYES](https://green1229.tistory.com/392)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
-* [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
+* [YouTubePlayerKit: A Swift Package to easily play YouTube videos 📺](https://github.com/SvenTiigi/YouTubePlayerKit)
+  * [YouTubePlayerKit을 활용한 쇼츠 구현하기 :: iOYES](https://green1229.tistory.com/495)
 
 # Objective C
 * [Modern Objective-C Exploitation Techniques](http://www.phrack.com/papers/modern_objc_exploitation.html)
@@ -350,6 +352,7 @@ iOS
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
 * [Swift의 Array가 멀티쓰레드에서 안전하지 않은데 어떻게 하면 될까요? (Stack Overflow)](https://wlaxhrl.tistory.com/84)
+* [배열에서 일치하는 항목을 계산하는 방법 | Joohee Kim's Blog](https://imjhk03.github.io/posts/how-to-count-matching-items-in-an-array/)
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
@@ -812,6 +815,7 @@ iOS
 * [What's new in SwiftUI (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/488)
 * [Demystify SwiftUI containers (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/489)
 * [SwiftUI - ViewThatFits :: iOYES](https://green1229.tistory.com/490)
+* [Enhance your UI animations and transitions (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/494)
 
 # TDD, Test
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
