@@ -234,6 +234,7 @@
   * [Kotlin 멀티플랫폼을 사용해야 하는 10가지 이유 - Pamela Hill - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/549669)
 * [Gradle Intro 1: Basics: Tasks & Configurations - YouTube](https://www.youtube.com/watch?v=YQUkIopifJs)
 * [Gradle Intro 2: Re-implementing the Kotlin Gradle Plugin from scratch - YouTube](https://www.youtube.com/watch?v=rr3LUKVX0bo)
+* [유연하고 확장 가능한 배너 기능 구현하기](https://toss.tech/article/intelligence_banner) backoffice에서도 유용할까?
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -447,6 +448,7 @@
 * [Coroutine 구조화된 동시성, 코루틴 스코프](https://yeonyeon.tistory.com/334)
 * [Coroutine 코루틴 스코프 함수](https://yeonyeon.tistory.com/335)
 * [Coroutine 코루틴 디스패처](https://yeonyeon.tistory.com/336)
+* [Coroutine 코루틴과 공유 상태](https://yeonyeon.tistory.com/337)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
