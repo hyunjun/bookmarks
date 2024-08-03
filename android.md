@@ -508,6 +508,7 @@ Android
   * [DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose](https://d2.naver.com/helloworld/0623656)
   * [Pluu Dev - 요약 Designing scalable Compose APIs (Google I/O '24)](https://pluu.github.io/blog/android/io24/2024/06/23/io24-whats-new-in-android-development-tools-%EB%B3%B5%EC%82%AC%EB%B3%B8/)
   * [Pluu Dev - 요약 Designing scalable Compose APIs (Google I/O '24)](https://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
+  * [Pluu Dev - Lint Compose에서 Modifier가 필요한 케이스 Lint로 찾기](https://pluu.github.io/blog/android/2024/08/03/Compose-Lint/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
@@ -633,6 +634,10 @@ Android
 * [올리브영 안드로이드 테스트앱 자동배포하기](http://tech.oliveyoung.co.kr/tech/2107152128/)
 * [Mockito로 Unit테스트를 해 보자](https://developer88.tistory.com/260)
 * [안드로이드 테스트 자동화 기초](https://cliearl.github.io/posts/android/android-test-basic/)
+* [Fail률 감소 목표 집요하게 달성하기 — Android UI 자동화 | by haejin hong | 29CM TEAM | Medium](https://medium.com/29cm/fail%EB%A5%A0-%EA%B0%90%EC%86%8C-%EB%AA%A9%ED%91%9C-%EC%A7%91%EC%9A%94%ED%95%98%EA%B2%8C-%EB%8B%AC%EC%84%B1%ED%95%98%EA%B8%B0-android-ui-%EC%9E%90%EB%8F%99%ED%99%94-2515f55bd117)
+  * 안드로이드 UI 자동화 실패율을 줄이기 위한 다양한 시도와 해결 방법 공유
+  * 코드 리팩토링, UI 변경에 따른 업데이트, 윈도우 핸들러 전환 문제, 앱 빌드 및 파이프라인 실행 중 발생하는 요소 찾기 문제와 같은 도전적인 상황 취급
+  * 이러한 노력을 통해 실패율을 크게 감소시켰으며, 끊임없이 모니터링하고 개선하는 중요성을 강조
 * [EmuHub is an innovative tool designed to simplify the testing of Android applications by providing access to multiple emulators via web browsers. Built with Docker and NoVNC (HTML5-based VNC client), EmuHub offers developers and QA engineers a seamless platform for testing APKs across various Android device configurations](https://github.com/mohamed-helmy/emuhub)
 * [Espresso  |  Android 개발자  |  Android Developers](https://developer.android.com/training/testing/espresso)
   * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
