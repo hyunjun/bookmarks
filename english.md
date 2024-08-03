@@ -23,6 +23,7 @@ English
       * And the workers there are constantly chainging
       * But there coffee is consistenlty very good
       * I honestly don't know how they manage to do that
+    * [영어 표현 1개로 ☝️ " 말을 설득력 있게 잘하다" / "사람을 잘 다루다" 💬 have a way with - YouTube](https://www.youtube.com/watch?v=0esXeajGk5E)
   * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
   * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
   * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
