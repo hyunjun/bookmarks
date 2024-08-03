@@ -163,6 +163,7 @@ Scala
 * [**#Scala Compiler Options, Fatal Warnings and Linting Guide - YouTube**](https://www.youtube.com/watch?v=A04WXhM3LrM)
 * [An intro to the Scala presentation compiler](https://www.chris-kipp.io/blog/an-intro-to-the-scala-presentation-compiler)
 * [How to prevent Scala 3 compiler regression with Community Build](https://virtuslab.com/blog/prevent-scala3-compiler-regressions-community-build/)
+* [how to see the trees using the Scala compilers · eed3si9n](https://eed3si9n.com/trees/)
 * [Configuring and suppressing warnings in Scala | The Scala Programming Language](https://www.scala-lang.org/2021/01/12/configuring-and-suppressing-warnings.html)
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
@@ -244,6 +245,7 @@ Scala
 * [comparative-benchmarks.md](https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292)
 * [Rendezvous Benchmark Analysis: When Threads (Don't) Meet - DEV Community](https://dev.to/fwbrasil/rendezvous-benchmark-analysis-when-threads-dont-meet-3k3e)
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
+* [Effective Error Handling](https://invariant.blog/error-handling)
 * [Handling errors in direct-style Scala](https://softwaremill.com/handling-errors-in-direct-style-scala/)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
@@ -405,6 +407,7 @@ Scala
 * [Kalix tutorial: Building invoice application - Scala](https://scalac.io/blog/kalix-tutorial-building-invoice-application/)
 * [Business4s · GitHub](https://github.com/business4s)
   * [Announcing Business4s: a new value proposition for Scala | by Voytek Pituła | May, 2024 | Medium](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28)
+* [(1) Jon Pretty on X: "Pseudorandom Acts of Kindness" / X](https://x.com/propensive/status/1815326193245155563)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -598,6 +601,7 @@ Scala
 * [Apache Pekko](https://pekko.apache.org/)
   * [Pekko Akka Compatibility. Apache Pekko is an Open Source fork of… | by PJ Fanning | Mar, 2024 | Medium](https://medium.com/@pjfanning/pekko-akka-compatibility-31c14217888a)
   * [Akka to Pekko Migration for thatDot and Quine](https://www.thatdot.com/blog/akka-to-pekko-migration-for-thatdot-and-quine)
+  * [A Remote Code Execution System with Apache Pekko & Scala - YouTube](https://www.youtube.com/watch?v=1uP6FTUn8_E)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -836,6 +840,7 @@ Scala
 * Exception
   * [On Bifunctor IO and Java's Checked Exceptions - Alexandru Nedelcu](https://alexn.org/blog/2018/05/06/bifunctor-io/)
   * [The Trouble with Checked Exceptions: Part 2 - Alexandru Nedelcu](https://alexn.org/blog/2022/09/28/the-trouble-with-checked-exceptions-part-2/)
+  * [(1) Jon Pretty on X: "Checked exceptions: fixed!" / X](https://x.com/propensive/status/1811739523509882967)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
   * [ExecutionContext.parasitic and Friends · Terse Systems](https://tersesystems.com/blog/2024/06/20/executioncontext.parasitic-and-friends/)
@@ -1775,6 +1780,8 @@ Scala
   * [install-diyg8](https://github.com/DevInsideYou/install-diyg8)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * [hexdump4s: Example application demonstrating use of scala-cli, scodec, and fs2](https://github.com/scodec/hexdump4s)
+* [ifdef: `@ifdef` is an annotation that implements conditional compilation in Scala](https://github.com/eed3si9n/ifdef)
+  * [ifdef 0.3.0: conditional compilation in Scala · eed3si9n](https://eed3si9n.com/ifdef-0.3.0-conditional-compilation-in-scala)
 * IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
 * [Izumi Project](https://izumi.7mind.io/)
   * [izumi: Productivity-oriented collection of lightweight fancy stuff for Scala toolchain](https://github.com/7mind/izumi)
@@ -2106,6 +2113,7 @@ Scala
   * [Benchmarking Tapir: Part 3 (Loom)](https://softwaremill.com/benchmarking-tapir-part-3-loom/)
   * [Introducing TARP Stack ⛺ – Tapir, React and PostgreSQL - LovinData - Simplified Full Stack Data Engineering](https://lovindata.github.io/blog/2024/04/18/introducing-tarp-stack---tapir-react-and-postgresql/)
   * [Tapir Tutorials - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6MnRHBdBNNWwafaHaxZTf9m)
+  * [(1) Adam Warski on X: "We've spent quite a lot of time improving Tapir's documentation lately: 1. we've got a new landing page - written with people yet unfamiliar with Tapir's and Scala's ecosystem in mind: https://t.co/gUwiERitzJ 2. there's a listing of how-to's, in the form of examples; each https://t.co/rTlR0SWc1G" / X](https://x.com/adamwarski/status/1811366340415963414)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2481,6 +2489,7 @@ Scala
 * [Scala 3 macros tips & tricks](https://softwaremill.com/scala-3-macros-tips-and-tricks/)
 * [Scala 3: Macros. Last time I introduced one of the new… | by Dean Wampler | Scala 3 | Jul, 2021 | Medium](https://medium.com/scala-3/scala-3-macros-d63dd6811f89)
 * [Scala 3 inline and macros community census - Language Design / Macros - Scala Contributors](https://contributors.scala-lang.org/t/scala-3-inline-and-macros-community-census/5608)
+* [inoio gmbh | Crafting types with Scala 3 macros - Part 1: Introduction to macros](https://inoio.de/blog/2024/07/14/scala3-macros-part1/)
 * [Phantom Types](https://macros.scala.school/phantom-types)
 * [ifdef macro in Scala · eed3si9n](https://eed3si9n.com/ifdef-macro-in-scala/)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
@@ -2537,6 +2546,7 @@ Scala
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3: Dependent Types, Part II | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-ii-e7fc04dbfb08)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
+* [Scala 3 Metaprogramming Learning Resources](https://arturaz.net/arturaz/Scala-3-Metaprogramming-Learning-Resources-77288e4280c145e1b71ae47c862ab471)
 * [Scale By The Bay 2020: Robert J. Neal, A Reinforcement Learning Framework in Scala 3 - YouTube](https://www.youtube.com/watch?v=neYTpeKbGBE)
 * [Night Dreamer #1 – Marrying Scala 3 to LWJGL - YouTube](https://www.youtube.com/watch?v=vSv2t-Kkb64)
 * [What's new in Scala 3: all the "small" things - YouTube](https://www.youtube.com/watch?v=GCuskYmhvAc)
