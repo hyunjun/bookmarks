@@ -362,6 +362,11 @@ Vision
   * [nanosam: A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT](https://github.com/NVIDIA-AI-IOT/nanosam)
   * [segment-anything-2: The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything-2)
     * [SAM 2: 이미지와 비디오를 위한 Segment Anything | GeekNews](https://news.hada.io/topic?id=16090)
+    * [메타 때문에 잠을 못자요 | SAM2, kling vs luma, Anitalker - YouTube](https://www.youtube.com/watch?v=5t6Gma-FlpI)
+      * 비디오에서 객체를 추적하고 효과를 적용하는 데 사용
+      * 메모리 뱅크라는 새로운 기능이 추가되어 일시적으로 가려지거나 사라지는 객체 추적 가능
+      * [VidiGo 메타 때문에 잠을 못자요 | SAM2, kling vs luma, Anitalker.mp4](https://vidigo.ai/share/summary/784bdc5f5a0e)
+      * [메타 때문에 잠을 못자요 SAM2, kling vs luma, Anitalker | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1026745)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
