@@ -1133,7 +1133,11 @@
 * [입 개발 Spark Kafka Streaming 에서의 BackPressure 에 대한 아주 간단한 정리. | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/24/%EC%9E%85%EA%B0%9C%EB%B0%9C-spark-kafka-streaming-%EC%97%90%EC%84%9C%EC%9D%98-backpressure-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%A0%95%EB%A6%AC/)
 * [Structured Streaming Use-Cases at Apple - YouTube](https://www.youtube.com/watch?v=bcIJFCtsRXs)
 * [Apache Spark - Spark Structured Streaming Kafka Sink는 Exactly-Once를 지원하지 않는다 | leeyh0216's devlog](https://leeyh0216.github.io/posts/spark-structured-streaming-kafka-sink/)
-* [실시간 광고 사용자 ID 매핑](https://d2.naver.com/helloworld/0680815)
+* [실시간 광고 사용자 ID 매핑](https://d2.naver.com/helloworld/0680815/)
+  * 네이버 광고 시스템에서는 광고 노출 사용자를 대표할 수 있는 ID를 생성하는 작업 필요
+  * 실시간 광고 사용자 ID 매핑 시스템은 대량의 이벤트 로그에서 추출한 사용자 ID로 광고 사용자를 대표할 수 있는 그룹 ID 매핑
+  * 이 글에서는 실시간 광고 사용자 ID 매핑 시스템의 설계부터 각 주요 모듈 소개
+  * gRPC, Spark Structured Streaming을 이용한 마이크로서비스 아키텍처를 구축한 방법과 사용자 ID를 그래프 구조로 매핑하는 법 포함
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
