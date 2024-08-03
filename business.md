@@ -254,6 +254,12 @@ Business
     * MCAS(조종특성향상시스템) [MCAS - 항공위키](https://airtravelinfo.kr/wiki/index.php?title=MCAS)
   * 보잉이 합병 후 본사 이전을 추진하던 2000년, 경영학자인 짐 콜린스(Jim Collins)는 기자에게 "사람들이 말하는 것처럼 보잉의 매도널 더글러스 인수가 정말로 역인수였고, 맥도널 더글러스의 기업 문화가 보잉에 퍼지고 있다면, 보잉은 위대한 시절은 끝날 수밖에 없다"고 이야기했다. "보잉이 위대한 기업이 될 수 있었던 건 수익을 우선시하는 조직이 아니라, 엔지니어링을 우선시하는 조직이었기 때문이다. 보잉이 엔지니어링을 미션의 핵심이라고 생각하지 않는다면, 머지않아 흔한 회사 중 하나가 될 것이다." 그의 예언은 맞았다
   * [다운폴: 더 보잉 케이스](https://www.netflix.com/watch/81272421)
+* [How to change a culture](https://www.linkedin.com/posts/activity-7224122443659984896-s6Lf/)
+  * To change a culture
+    * first identify the existing belief you want to change and its source
+    * Then, propose an alternative belief that aligns with the team's goals
+    * Repeat this new belief consistently, and be prepared for a long process.
+  * [팀 문화를 바꾸는 방법](https://brunch.co.kr/@yongjinjinipln/155)
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
 * [얼라인먼트위크 (1) 서로 다른 악기들이 이루는 하모니](https://blog.toss.im/article/alignmentweek23-1)
 * [얼라인먼트위크 (2) 토스팀원들이 뽑은 최고의 러닝 쉐어](https://blog.toss.im/article/alignmentweek23-2)
@@ -407,7 +413,8 @@ Business
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
 * [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
-* [전문가가 되지 못하면 어떻게 되는가?](http://m.blog.naver.com/devmarketing/220259733162)
+* [전문가가 되지 못하면 어떻게 되는가?](http://blog.naver.com/devmarketing/220259733162)
+* [‘대체 불가(Irreplaceability)’.. : 네이버블로그](https://blog.naver.com/devmarketing/220261270159)
 * [영향력 있는 유명인 vs. 실력 있는 전문가 | RBBM](https://www.redbusbagman.com/armchairinfluencers/) 전문가 expert의 사분면(실력과 영향력)
 * [스스로 빛나는 별](https://www.thestartupbible.com/2022/05/quiet-winners-and-loud-losers.html) 실력의 중요성, loud loser, quiet winner
 * [직장인의 3가지 힘: 실력, 정치력, 운력 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222547)
@@ -487,6 +494,53 @@ Business
 * [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
 * [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
 * [일잘러가 되기 위해 필요한 지적 능력 세 가지](https://www.linkedin.com/posts/jinho-yoo_sakteiqwiswmrxgslq-activity-7199719774824669185-rfFZ) 맥락 지능(Contextual Intelligence), 분석 지능(Analytical Intelligence), 운영 지능(Operational Intelligence)
+* [스타트업에서 경험한 일잘러들의 기본 습관](https://www.linkedin.com/posts/uxjosh_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B2%BD%ED%97%98%ED%95%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC%EB%93%A4%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%8A%B5%EA%B4%80-1-%EB%AC%B8%EC%84%9C%ED%99%94%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%98%EB%8B%A4-activity-7224680210418348033-_-Vj/)
+  * 1. 문서화는 가장 중요하다. 매일 기록한다
+  * 2. 회의 5분 전 미리 도착한다. 항상 의제가 준비되어 있음
+  * 3. 쉴 줄 안다. 일 많이 한다고 생산성 높은 것이 아닌 것을 알기 때문
+  * 4. 매일 아침 할 일 목록을 작성한다. 일 끝나기 전 달성 여부를 체크한다
+  * 5. 매일 공유한다. 공유 활동은 정치가 아니다. 공유야말로 생존 가능성을 높이기 때문
+  * 6. 반복 작업은 자동화한다. make, zapier등의 자동화 툴을 사용할 줄 안다
+  * 7. 안되면 어쩔 수 없고 정신이 있다. 일단 결과를 보고 판단하는 역량이 있다
+  * 8. 업무 피드백을 긍정적으로 받아들인다. 감정적으로 받아들이지 않는다
+  * 9. 일이 어그러져도 실망하지 않는다. 아주 빠르게 다음 일을 시작한다
+  * 10. 의외로 멀티태스킹하지 않는다. 한번에 한가지를 밀도 있게 잘한다
+* [당신은 전문가(specialist)인가, 숙련가(expert)인가?](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7224534295615279104-bMAh/)
+  * 전문가
+    * 지식 기반으로 특정 분야에 통달
+    * 사람의 머릿수가 생산성 향상을 보장하지 않는 조직에 적합. 기술 수준, 정보화 수준이 높고, 다양한 기능의 사람들이 모여 일하는 조직, 팀(team)
+    * 커리어는 매번 변하는 환경과 문제에 적응하고 해결하는 것에 집중. '효과적인 협업'(다른 분야의 전문가들과 같은 목표를 향해 시너지를 내는 것)에 특화
+    * 전문가로 성장하고 싶다면, 회사가 전문가들의 조직을 만들고 싶다면, 먼저 그것이 가능한 구조에서부터 출발 필요
+    * 전문가들의 조직이 가능한 구조는 크게 두 가지
+      * 전통적인 방식은 숙련가 그룹과 전문가 그룹을 나누어 직무의 성격 구분
+        * 이때 숙련가 그룹은 오퍼레이션에, 전문가 그룹은 혁신에 집중
+      * 다른 방식은 과거 구글의 20% 타임룰처럼 조직 전반에 전문가 역량을 향상할 수 있는 기회 제공
+  * 숙련가
+    * 경험 기반으로 특정 분야에 능숙
+    * 사람의 머릿수가 생산성 증가에 비례하는 조직에 적합. 노동집약도가 높고 하나의 기능을 담당하는 조직, 부서(department)
+    * 커리어는 특정 산업, 특정 회사의 업무 패턴에 능숙해지는 것에 집중. '효율적인 분업'(같은 성격의 일을 분담하여 빠르게 처리하는 것)에 특화
+  * 대부분 회사
+    * 전문가도 숙련가가 되어버리는 전통적인 기능 조직 형태
+    * 이러한 구조에서 개인은 지식 기반으로 역량이 성장하기보다는, 하는 일들에 익숙해지는 쪽으로 퍼포먼스 향상
+      * 조직 내 개인들은 스스로 이러한 한계를 느낄 때 이직 선택
+      * 이직 사유 2위(보통 회사에 미래가 없어서 이직한다고 말하는데, 자기 성장의 미래가 불투명하다는 뜻), 1위는 연봉 
+  * 일하다 보면 숙련가가 전문가를 종종 폄훼(클리셰, 내가 해봐서 아는데)
+    * 역량 기반에 대한 이해가 없어서 발생하는 일
+    * 소설이기는 하지만 설명하기는 편하므로 삼국지연의를 예로 들자면 관우 장비가 초기에 제갈량을 못마땅해하는 것과 비슷
+      * 관우 장비는 제갈량을 전쟁을 모르는 서생으로 치부
+    * 이는 경험 기반이 전부인 사람이 지식 기반의 세계가 있다는 것을 이해하지 못해서 발생하는 일
+      * 현실에서도 이런 일은 자주 발생
+      * 예를 들어 어떤 디자이너들은 도널드 노먼이 스케치도 제대로 못하는데 무슨 디자인을 논하냐고 폄훼
+      * 스포츠 쪽에서는 숙련과 전문의 차이 발생
+        * 스테파노 라바리니는 세계적인 배구 명감독이지만 선수 출신도 아니고, 배구도 못함
+        * 펠릭스 산체스 바스는 세계적인 축구 명감독이지만 선수 출신도 아니고, 축구도 못함
+        * 그 외에도 어떤 종목이든 선수 시절에는 숙련된 역량을 보이지 못했지만 은퇴 후 전문가로 빛나는 경우가 허다
+    * 숙련은 좀 떨어져도 전문가일 수 있음. 이 차이를 잘 이해하면 조직 설계나 개인의 커리어 설계에 큰 도움
+* [일관성 품격 습관](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7223809520538394624-lFXO/)
+  * 나의 언행은 일치라는 틀에 가두라. 그래야 사람들이 나를 신뢰할 수 있다. 이를 일관성이라 한다
+  * 나의 품성은 내가 지향하는 사람들의 틀에 박힌 양식을 따르라. 이를 품격이라 한다
+  * 나의 황금 시간은 루틴의 틀에 가두고, 나머지 시간에 우선순위를 처리하라. 이를 습관이라 한다
+  * 인간은 사회적 동물이다. 인간은 사회에서 일관성으로 신뢰받고, 품격으로 인정받으며, 습관으로 성장한다
 * [효율적으로 일하려면 고려해볼 4가지 포인트](https://www.linkedin.com/posts/activity-7218647553393754112-zFAN/)
 * [한빛N MSA 후기 일을 잘하는 방법](https://yeonyeon.tistory.com/321) 목표를 정하는 방법, 문서화의 목적, 우선순위를 조율하는 법, 설득에 대한 태도 바로잡기
 * [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
@@ -1593,6 +1647,7 @@ Business
   * [Pattern Breakers: How to find a breakthrough startup idea - Mike Maples, Jr - Google Docs](https://docs.google.com/document/d/1ERKEgMtlKs_Or4V3Z78YAOPRx24j7PCkjU6HlGMnPu0/)
   * [Pattern Breakers: How to find a breakthrough startup idea - Mike Maples, Jr 사본 - Google Docs](https://docs.google.com/document/d/13gDsZZOxxHTwPPatJl2OwtN-Zr0yHb9SNXom_zH7V9U/)
   * [패턴 브레이커](https://brunch.co.kr/@yongjinjinipln/150)
+* [서비스 개발 아이디어를 얻는 소소한 팁 & 경험담](https://soulduse.tistory.com/144)
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
@@ -2661,6 +2716,7 @@ Business
       * 자신이 놓치는 부분을 전문가가 지적하고, 실패와 실수를 줄일 수 있는 가치 부여
       * 어설프게 독학하는 대신 전문가의 도움을 받아 지속적인 성장과 효과적인 방법을 모색 필요
 * [LINE SHOPPING JP, 글로벌 협업 프로세스 개선 회고](https://techblog.lycorp.co.jp/ko/tpm-retrospective-on-global-collaboration-process-improvement) TPM
+* [카카오페이 TPM은 어떤 일을 하나요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/tech-strategy-tpm/)
 * [플랫폼 팀의 1년, 일본 최대 규모의 배달 서비스에 안착하기까지](https://techblog.lycorp.co.jp/ko/one-year-retrospective-of-platform-team-at-demaecan)
 * [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
 
@@ -3081,6 +3137,9 @@ Business
   * 타겟을 구체적으로 정의하지 않고 기능을 우선시하는 것이 프로덕트 개발에서 흔히 하는 실수
   * 타겟을 이해하기 위해 장기적인 사고와 인지적 공감을 갖는 것이 중요, 사용자 인터뷰를 진행하는 것이 좋음
 * [넷플릭스 게임의 두 번째 시즌: 도전, 변화, 그리고 앞으로의 길 | GeekNews](https://news.hada.io/topic?id=16059)
+* [앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@yongjinjinipln/156)
+  * 구체적인 아이디어가 장점 < 잘못된 편향의 리스가 더 크다고 생각한다고 함
+  * 나는 잘 이해가 안 감. 모호하고 넓은 아이디어가 어떤 면에서 더 좋은 걸까?
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
