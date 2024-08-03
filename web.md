@@ -828,6 +828,7 @@ Web
   * [R) 크롤링 - 셀레늄 문제해결 - Data Doctor](https://datadoctorblog.com/2023/11/17/R-Crawling-Selenium-Troubleshooting/)
   * [still the best way to scrape data. - YouTube](https://www.youtube.com/watch?v=Irs6PG36qz8)
   * [aws lambda에서 파이썬 selenium 동작하게 하기 — 넹무](https://smgthings.tistory.com/33)
+  * [Selenium & Python을 이용한 E2E 자동화 테스트 구현하기](https://chance-doe.tistory.com/23)
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
