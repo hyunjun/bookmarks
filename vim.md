@@ -63,6 +63,7 @@ Vim
     :%s/.*/\U&/
     ```
   * [VIM 치환 꼼수?](https://www.popit.kr/vim-%EC%B9%98%ED%99%98-%EA%BC%BC%EC%88%98/) 조건별 replace
+  * [vim에서 패턴에 매칭되는 영역을 추출하기 · Wireframe](https://soooprmx.com/vim%ec%97%90%ec%84%9c-%ed%8c%a8%ed%84%b4%ec%97%90-%eb%a7%a4%ec%b9%ad%eb%90%98%eb%8a%94-%ec%98%81%ec%97%ad%ec%9d%84-%ec%b6%94%ec%b6%9c%ed%95%98%ea%b8%b0/)
   * `%s/.*/\L&/g` `%s/.*/\U&/g` [vi에서 모든 글자를 대소문자로 변경할때 | 아이군의 블로그](http://theeye.pe.kr/archives/255)
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
   * `:sort` / `:sort!` / `:%!sort -k2nr`
