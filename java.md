@@ -1069,6 +1069,13 @@ Java
 * [4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’ - YouTube](https://www.youtube.com/watch?v=BZMZIM-n4C0)
   * [VidiGo 4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’.mp4](https://vidigo.ai/share/summary/3205d4f588b5)
   * [4월 우아한테크세미나 ‘Java의 미래, Virtual Thread’ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/536515)
+* [Java 21 Virtual Threads - Dude, Where’s My Lock? | by Netflix Technology Blog | Jul, 2024 | Netflix TechBlog](https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d)
+  * Netflix engineers encountered a problem with Java 21 virtual threads causing intermittent timeouts and hung instances
+  * The issue was traced to a state where Tomcat kept creating new web worker virtual threads for each incoming request, but there were no available OS threads to mount them onto
+  * The problem was caused by virtual threads being pinned while waiting to acquire a reentrant lock
+  * The lock was held by a thread in a weird in-between state that should be transient, but the JVM was stuck there
+  * The solution was to come up with a reproducible test case and look forward to Java 23 and beyond
+    * which brings a wealth of upgrades and hopefully addresses the integration between virtual threads and locking primitives
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
