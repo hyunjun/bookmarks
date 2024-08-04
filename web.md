@@ -1088,6 +1088,12 @@ Web
   * 오랫동안 GraphQL을 사용해왔고 옹호했지만, 최근에 그 입장이 변경되어 더는 추천하지 않는 이유를 정리한 글
   * 클라이언트에 쿼리 언어를 노출했기에 권한 부여나 Rate limit 같은 공격 표면 증가, N+1 성능 문제 경험
   * GraphQL에서는 비즈니스 로직이 전송 계층으로 이동되기 때문에 커플링이 심해지고 복잡해지는 문제 존재
+* [Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql/)
+  * Why, after 6 years, I’m over GraphQL에 대한 반박 글
+  * 기본적으로 Persisted Query를 사용하고 GraphQL을 공개 API로 사용하는 것은 위험하다고 이야기
+  * 해당 글은 어느 정도 공개 API로 사용해서 발생한 문제라는데 동의, 이 부분은 실제로 어려운 일
+  * Persisted Query를 사용하는 것이 아주 중요하고 권한 문제와 성능 문제, API 호환성 문제 등은 GraphQL의 문제라기 보다 모든 API가 가진 문제라고 이야기
+  * 자신은 8년 동안 사용했는데 구축이 쉽지는 않지만 만족하고 있다고 설명
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
@@ -2415,6 +2421,13 @@ Web
   * [토마스 스타이너 & 토마스 나테슈타트의 Google WebAssembly @ Wasm I\O 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/684590)
 * [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
   * [Notion이 WASM SQLite로 브라우저에서의 속도를 향상시킨 방법 | GeekNews](https://news.hada.io/topic?id=15914)
+  * Notion은 자사의 앱에서 3년 전 SQLite로 클라이언트 캐싱을 해서 속도 개선, 이를 WASM SQLite로 웹 브라우저에 적용, 웹에서 SQLite 적용시
+    * WASM SQLite가 사이트가 사용자 기기 파일을 read write이 가능하게 하는 API OPFS(Origin Private File System)를 웹 워커에서 사용하도록 구성
+    * [Origin private file system - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system)
+  * 이를 적용하려고 하자 OPFS가 크로스 오리진이 격리 요구
+    * 노션의 특성상 이렇게 하면 서드파티 기능에 큰 문제 발생
+    * 앱과 달리 브라우저에서는 여러 탭을 열기 때문에, 데이터베이스에 여러 탭이 동시에 접근하면서 데이터가 손상되는 문제 발생
+    * 이 문제를 해결하기 위해 Shared Worker를 만들어서 여러 탭에서 노션을 열어도 활성화된 탭에서만 데이터베이스에 접근할 수 있도록 구현
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
