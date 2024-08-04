@@ -607,7 +607,17 @@ Data Science
 * [Maestro: Netflix’s Workflow Orchestrator](https://github.com/Netflix/maestro)
   * [Maestro - Netflix의 Workflow Orchestrator 오픈소스 | GeekNews](https://news.hada.io/topic?id=15990)
   * [Maestro: Data/ML Workflow Orchestrator at Netflix | by Netflix Technology Blog | Jul, 2024 | Netflix TechBlog](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78)
-    * Maestro is a workflow orchestrator designed to manage large-scale workflows such as data pipelines and machine learning model training pipelines. It supports both acyclic and cyclic workflows and includes multiple reusable patterns. Maestro has successfully migrated hundreds of thousands of workflows to it on behalf of users with minimal interruption. It now launches thousands of workflow instances and runs half a million jobs daily on average. Maestro is horizontally scalable and supports a wide range of workflow use cases. It is now open-source and available on GitHub.
+    * Maestro is a workflow orchestrator designed to manage large-scale workflows such as data pipelines and machine learning model training pipelines
+      * It supports both acyclic and cyclic workflows and includes multiple reusable patterns
+      * Maestro has successfully migrated hundreds of thousands of workflows to it on behalf of users with minimal interruption
+      * It now launches thousands of workflow instances and runs half a million jobs daily on average
+      * Maestro is horizontally scalable and supports a wide range of workflow use cases
+      * It is now open-source and available on GitHub.
+    * 2년 전 공개했던 Netflix가 내부에서 사용하는 데이터/ML 워크플로우 오케스트레이터인 Maestro를 오픈소스 공개
+      * 그동안 Maestro로 완전히 마이그레이션
+      * 실행된 작업이 87.5% 증가, 매일 평균 50만 개 작업 실행, 많은 날에는 200만 개까지 실행
+      * Maestro는 JLS(Java Language Specifications)을 따르는 표현 언어인 SEL을 사용해서 워크플로우에 코드 주입 가능
+        * 다양한 실행 전략과 파라미터 등의 기능 지원
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
   * Job 스케줄링, 플로우 요소별 버전 관리와 결과에 대한 Inspecting, 플로우 및 플로우 요소별 라이브러리 의존성 주입, Amazon S3에 대한 built-in 지원, 컴퓨팅 자원에 대한 손쉬운 스케일 인/아웃 등을 가능
