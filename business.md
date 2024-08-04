@@ -542,6 +542,10 @@ Business
   * 나의 황금 시간은 루틴의 틀에 가두고, 나머지 시간에 우선순위를 처리하라. 이를 습관이라 한다
   * 인간은 사회적 동물이다. 인간은 사회에서 일관성으로 신뢰받고, 품격으로 인정받으며, 습관으로 성장한다
 * [효율적으로 일하려면 고려해볼 4가지 포인트](https://www.linkedin.com/posts/activity-7218647553393754112-zFAN/)
+  * 1) 시간 관리, 우선순위 설정 및 가치 판단을 위해 시간 추적
+  * 2) 기대치와 일치하는 기여를 하고, 잘못된 기여의 예 인식
+  * 3) 단기 및 장기 우선순위 구분, 장기 우선순위는 복리 활동, 예를 들어 운동, 독서, 회고, 필요성 또는 호기심에 기반한 학습에 초점
+  * 4) 행동, 빨리 실패, 교훈 획득
 * [한빛N MSA 후기 일을 잘하는 방법](https://yeonyeon.tistory.com/321) 목표를 정하는 방법, 문서화의 목적, 우선순위를 조율하는 법, 설득에 대한 태도 바로잡기
 * [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
 * [일잘 + 일못 = 일못, 프로세스의 필요성](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid024abcvMsdRBnz7U8CwZmXDVvTQsicZMsZXSF3p1KUCc9vUabQFP1HcvWUMQ6UTEcHl)
@@ -2906,6 +2910,12 @@ Business
   * [PMF Product Market Fit 에 대한 환상](https://maily.so/saascenter/posts/1667bd51)
 * [디자이너가 갑자기 신규기능 설계에 혼란을 겪는다면?. PMF확장을 확인해보세요 | by bomi Lee | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B0%91%EC%9E%90%EA%B8%B0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%84%A4%EA%B3%84%EC%97%90-%ED%98%BC%EB%9E%80%EC%9D%84-%EA%B2%AA%EB%8A%94%EB%8B%A4%EB%A9%B4-6a30a3ed27a3)
 * [(1) Daero Won - PMF (Product Market Fit)을 찾아가는 8가지 성공 사례. (원문은 댓글 링크)... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid02NEofzUSixe3D8YR2D1Vcpt7mditK46rQptdrf1BvhTJaXS4ZzgYtpr6y6EqQLmfGl) 스타트업 여정을 크게 두 가지 유형으로 나누고, 각 4가지 사례를 들어 총 8가지 케이스
+* [Product-Market Fit(PMF) 달성을 나타내는 주요 신호](https://acquiredentrepreneur.tistory.com/175)
+  * Product-Market Fit(이하 PMF)은 일정 규모의 시장과 이익을 창출할 수 있는 펀더멘털을 확보하고 구축한 것으로 정의 가능
+  * PMF를 달성했다는 것은 1) 유저가 사랑하는 제품, 2) 지속적으로 고객을 찾고 획득, 3) 일정 규모 확보 후 유의미한 이익 창출 가능, 3가지 확보 필요
+  * 이번 포스팅에서는 PMF 달성에 강력한 신호가 될 수 있는 주요 선행/후행 지표 소개
+  * 바로 입소문 성장률, PMF Survey, 사용자 참여도, ICP 결제 고객, 리텐션, 소진 배수, LTV:CAC Ratio
+  * 이러한 지표를 통해 PMF를 확인하고 비즈니스 모델을 개선 가능
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
