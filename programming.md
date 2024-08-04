@@ -1782,6 +1782,16 @@ Programming
 * [**Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis**](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 * [How Slack Works - YouTube](https://www.youtube.com/watch?v=WE9c9AZe-DY)
 * [Scaling Slack - The Good, the Unexpected, and the Road Ahead - YouTube](https://www.youtube.com/watch?v=_M-oHxknfnI)
+* [Unified Grid: How We Re-Architected Slack for Our Largest Customers - Slack Engineering](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
+  * 2013년 슬랙은 간단한 모델로 각 워크스페이스는 단일 데이터베이스나 샤드에 저장되고 클라이언트가 사용자의 워크스페이스 ID로 데이터를 가져옴
+  * 이후 성장하면서 몇몇 회사가 여러 워크스페이스를 만들어서 사용하는 것을 보고 이를 한곳에서 관리할 수 있도록 Enterprise Grid 제작
+    * 이를 지원하기 위해 워크스페이스의 부모인 조직을 만들어서 각 샤드와 조직의 데이터 연결
+  * 하지만 조직 내에서 여러 워크스페이스를 사용하는 사람 증가
+    * 이러한 경험을 통합해서 제공하기 위해 Vitess 마이그레이션
+    * 워크스페이스 ID나 조직 ID로 샤딩하는 게 더 이상 의미 없기 때문에 다른 축으로 샤딩하기 시작하면서 Unified Grid를 만들기 시작
+      * (일부 회사는 수천 개의 워크스페이스 사용)
+  * Slack에서 경로 프로토타이핑이라고 부르는 점진적으로 구축하면서 증명하고 아이디어를 다듬는 과정을 통해
+    * Unified Grid를 위한 API를 만들어서 충분히 효과가 있다는 걸 확인한 후에 점진적으로 전환
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
 * [**The Clean Architecture**](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
@@ -4127,6 +4137,35 @@ Programming
   * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 - YouTube](https://www.youtube.com/watch?v=7cwFhX14nkg)
   * [VidiGo 시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기.mp4](https://vidigo.ai/share/summary/a3546c6abe41)
   * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/878195)
+* [How to review code effectively: A GitHub staff engineer’s philosophy - The GitHub Blog](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
+  * GitHub의 스태프 엔지니어가 업무 중 중요한 부분으로 코드 리뷰를 하고 있어서 그동안의 경험을 정리한 글
+  * 슬랙에서 `/github subscribe your/repo pulls +label:"your-team-label"`같은 명령어로 리뷰할 PR만 알림이 오게 설정하거나
+    * GitHub 검색해서 검토가 필요한 PR을 찾는 방법 및
+    * 너무 많은 알림으로 노이즈가 되지 않도록 관리하는 방법 소개
+  * 코드 리뷰를 할 때는
+    * 가능한 구체적으로 작성
+    * 개선이 필요한 리뷰의 예시를 보여주며
+    * 질문을 많이 하고 때로는 긍정적인 댓글을 남기는 것도 도움
+    * 병합을 막지 않도록 승인에 신경 쓰고 있고
+    * Request changes는 강압적으로 보일 수 있어서 거의 사용하지 않는다고 함
+* [Graphite's State of code review 2024](https://graphite.dev/blog/state-of-code-review-2024)
+  * Graphite에서 35k 이상의 엔지니어가 올린 500만 건 이상의 Pull Request 분석 리포트 공개
+    * 코드 리뷰로 인해서 작은 조직이 큰 조직보다 3배 빠르게 코드 배포
+    * 스타트업에서 TypeScript는 새로운 JavaScript
+    * 모노레포를 사용하는 회사는 Pull Request를 머지하는데 64% 더 오래 소요
+    * 이상적인 Pull Request는 50라인 이하
+      * 50라인 이하는 머지까지 100분 정도의 시간이 걸리고 라인 수가 늘어나면 시간이 크게 증가
+    * 50명 이상 기업의 CI 실행시간이 50명 이하 기업보다 2배 더 오래 소요
+    * 100명 이상의 기업은 Merge Queue를 사용할 가능성이 작은 기업보다 2배 이상 높음
+* [Google Testing Blog: In Praise of Small Pull Requests](https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html)
+  * Small pull requests are
+    * easier to review
+    * quicker to review
+    * easier to debug
+    * less likely to conflict with other developers' work
+    * and easier to test
+  * save time and effort by making it easier to catch mistakes early on and by reducing the amount of work that needs to be rolled back or re-reviewed
+  * However, may not always be possible due to various factors such as reviewer availability, feature dependencies, and refactoring scope
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -7327,6 +7366,8 @@ Programming
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
 * [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
+* Reverse Engineering For Everyone! [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
+  * x86, x64, ARM, 64bits 아키텍처에서 리버스 엔지니어링을 쉽게 설명하는 튜토리얼로 PDF와 Mobi 형식으로도 제공
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 
 # RPA
@@ -8915,6 +8956,22 @@ Programming
 * [치지직 알림 봇 로직 개선하기. 방송 알림 로직을 10분에서 15초 ~ 1분 20초로 개선한 경험을… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%80%EC%A7%81-%EC%95%8C%EB%A6%BC-%EB%B4%87-%EB%A1%9C%EC%A7%81-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1309b8fe1f3a)
   * [치직 취약점 노출 사건 회고. 치지직 알림 디스코드 봇의 취약점이 노출되어 일부 서버에 테러 행위가… | by Junah | Jul, 2024 | Medium](https://junah201.medium.com/%EC%B9%98%EC%A7%81-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%85%B8%EC%B6%9C-%EC%82%AC%EA%B1%B4-%ED%9A%8C%EA%B3%A0-890081dde217)
 * [크라우드 스트라이크 글로벌IT대란의 진짜 원인을 말한다](https://brunch.co.kr/@delight412/709) crowdstrike
+* [The biggest-ever global outage: lessons for software engineers](https://newsletter.pragmaticengineer.com/p/the-biggest-ever-global-outage-lessons)
+  * 7월 19일에 있었던 Microsoft/CrowdStrike 장애를 소프트웨어 엔지니어링 관점으로 분석한 글
+  * 이번 문제는
+    * `CSAgent.sys` 프로세스에서 `r8` 주소 바이트를 `r9d` 주소로 이동시키는 `mov r9d, [r8]` 어셈블리 명령어에서 `r8`이 잘못된 주소이고
+    * CrowdStrike가 모든 클라이언트에 푸시한 `C-00000291-*.sys`를 `CSAgent.sys` 프로세스가 읽다가 발생
+  * CrowdStrike측 발표
+    * 이번 업데이트는 악의적으로 명명된 파이프를 감지하기 위해 새로운 파이프 이름과 동작 규칙을 정의한 채널 파일`(C-00000291-*.sys)`을 배포
+    * 정확한 원인은 모르지만, 이 채널 파일을 파싱하면서 잘못된 메모리 주소를 옮기려다가 발생
+  * 문제는 느린 복구에서도 발생
+    * 윈도우 복구모드에서 해당 파일을 삭제해서 복구해야 했기에
+    * IT 관리자는 각 윈도우에 직접 접근해서 하나씩 처리 필요
+    * 850만 대의 복구가 필요했기에 일부 독립 개발자와 Microsoft가 복구 도구를 출시했지만
+    * 복구가 쉽지 않았기에 중단 4일 후까지도 대부분은 미복구
+  * 이 문제는 해당 소프트웨어가 커널에 접근할 수 있었기 때문에 가능한 일
+    * Windows Vista를 만들 때 EU가 이 접근을 막지 못하게 하면서 발생
+  * 그럼에도 소프트웨어 엔지니어가 이러한 문제를 막기 위해 어떤 대처를 할 수 있는지를 설명
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
