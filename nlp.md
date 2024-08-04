@@ -2152,6 +2152,13 @@ NLP
 * [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
 * [Lean Copilot: An AI Tool that Allows Large Language Models (LLMs) to be used in Lean for Proof Automation - MarkTechPost](https://www.marktechpost.com/2024/07/30/lean-copilot-an-ai-tool-that-allows-large-language-models-llms-to-be-used-in-lean-for-proof-automation/)
+* [Arpita Gupta on LinkedIn: What’s the diff between LLMs & Transformers ? Lets go Back to Roots LLMs… | 24 comments](https://www.linkedin.com/posts/arpita-gupta-5a05b044_whats-the-diff-between-llms-transformers-activity-7225575147443793920-yfD0)
+  * LLMs and transformers are both open-source AI models based on deep learning
+  * Transformers are the building blocks of modern-day LLMs, introduced in 2017 to solve sequential processing problems
+  * They consist of an encoder, a decoder, and an attention mechanism
+  * The attention mechanism selects important information from large data and focuses on these important pieces while ignoring unimportant info
+  * Self-attention is the core idea behind transformers, which reduces reliance on external information and excels at capturing internal correlations within data or features
+  * Transformers are specific with a narrower focus, while LLMs are broad models trained on large amounts of data
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
