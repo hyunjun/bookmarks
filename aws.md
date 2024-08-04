@@ -1613,6 +1613,7 @@ AWS
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
 * [Serverless Handson(Create Lambda) #1 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson/)
 * [Serverless Handson(Create Pipeline) #2 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson-2/)
+  * [JONG IL KIM on LinkedIn: #serverless #lambda #cicd #cdk #aws](https://www.linkedin.com/posts/stonei_serverless-lambda-cicd-activity-7225496983677849600-6LC-)
 * [Serverless Handson(Attach an API Gateway) #3 :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/serverless-handson-3/)
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [서버리스 어플리케이션 최적화 해보기](https://github.com/jmyung/jmyung.github.io/blob/master/_posts/2018-12-20-optimizing-serverless.md)
