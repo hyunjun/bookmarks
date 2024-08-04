@@ -509,6 +509,7 @@ History
 * [반기문, 아르메니아 논쟁 가세...집단학살 아닌 "잔혹행위"](http://www.huffingtonpost.kr/2015/04/14/story_n_7060648.html)
 * [Freak Out Exploring the carnivalesque in the Persian and Turkish miniature traditions](http://www.reorientmag.com/2015/04/persian-turkish-miniatures/)
 * [역사상 최초의 포격전, 콘스탄티노플 공방전](http://ppss.kr/archives/33238)
+* [이집트 문명보다 6,000년 앞섰다? 괴베클리 테페, 초고대문명 미스터리 (강인욱X곽민수)ㅣ10분토론 / 14F - YouTube](https://www.youtube.com/watch?v=hmgkC5E5BAk)
 
 ## Vietnam
 * [어떤 독재자의 죽음](http://ppss.kr/archives/40403)
