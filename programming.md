@@ -7394,6 +7394,9 @@ Programming
   * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
 * [Make | Work the way you imagine](https://www.make.com/)
   * [Make - 노코드 자동화 도구 | GeekNews](https://news.hada.io/topic?id=6101)
+  * [20분만에 끝나는 Make + 챗GPT + Gmail 데이터 분석리포트 자동화! - YouTube](https://www.youtube.com/watch?v=CvTNqS5lnRI)
+    * Make, ChatGPT, Gmail을 사용하여 20분 안에 데이터 분석 보고서 자동화를 설정하는 방법에 대한 자세한 설명과 지침 제공
+    * Google 시트 데이터 준비, 데이터 CSV로 저장, ChatGPT 사용 데이터 분석, 분석 결과 Google 시트 저장, 분석 결과 이메일/슬랙으로 보내는 등 단계 포함
 * Makerpad [Build your ideas, no coding required | Makerpad](https://www.makerpad.co/)
 * [Nebo | Disquiet\*](https://disquiet.io/product/nebo) 리액티, 개츠비, 부트스트랩을 노코드로 개발하게 해줄 수 있는 툴
 * [No Code](https://www.reddit.com/r/nocode/)
