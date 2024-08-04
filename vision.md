@@ -931,5 +931,8 @@ Vision
 * [Digital-Image-Processing: Image Processing Implementation](https://github.com/nh9k/Digital-Image-Processing)
 
 # VR Virtual Reality
+* [blocks: An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift](https://github.com/googlevr/blocks)
+  * [Google Blocks is now Open Source | Google Open Source Blog](https://opensource.googleblog.com/2024/07/google-blocks-is-now-open-source.html)
+    * Google이 2017년 VR 헤드셋으로 3D 객체와 장면을 만들 수 있도록 발표한 Google Blocks를 Apache 라이센스 오픈소스로 아카이브 공개
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
   * [Virtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)
