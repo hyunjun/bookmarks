@@ -2399,6 +2399,9 @@ AWS
 * [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 * [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
 * [AWS Top3 Tech Trend Session 01 : Amazon Q를 이용한 업무 효율성 향상 & 사례 시연 - YouTube](https://www.youtube.com/watch?v=e3Jt3gnroAw)
+* [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
+  * AWS에서 사용자의 프라이빗 코드를 기반으로 AI를 이용한 코드 자동완성과 채팅을 할 수 있는 Q Devloper 프리뷰 출시
+  * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
