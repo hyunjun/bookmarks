@@ -142,6 +142,10 @@
 * ["믿겨지지 않는 우리나라 숨은 여행지" 유명해지기 전에 꼭 가야하는 이색적인 최고의 국내 여행지](https://totoba.co.kr/168) 제주 산양 곶자왈
 * [6개월동안 제주도에 300만원 쓴 사람의 제주 여행 추천](https://brobronews.cafe24.com/?p=969)
 * [제주미니(@jejumini) • Instagram 사진 및 동영상](https://www.instagram.com/jejumini/) 핫한 여행정보 알려주는 인플루언서
+* [잘 알려지지 않은 제주 여행지 5곳 Best5 Hidden Attractions in Jeju island South Korea/ Jeju Island scenery - YouTube](https://www.youtube.com/watch?v=zKkEYgVy-gA)
+  * 1)마라도 2)안덕계곡 3) 군산오름 4)추자도
+* [촬영갔다가 우연히 발견한 제주의 숨겨진 힐링 스팟│치유의숲│천국의 문│ 진숫내 - YouTube](https://www.youtube.com/shorts/re9kvHneBbc)
+  * 아라동 치유의숲(편백나무숲), 상효동 천국의 문, 블루보틀 근처 진숫내
 
 ## Sightseeing 오름
 * [제주 오름 트레킹 가이드](https://github.com/hyunjun/bookmarks/blob/master/books/jeju_orm.md)
