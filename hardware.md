@@ -374,6 +374,8 @@ Hardware
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
 * [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
+* [Hackberry-Pi_Zero: A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
+  * [Hackberry-Pi_Zero – Raspberry Pi Zero 2W를 사용하는 휴대용 | GeekNews](https://news.hada.io/topic?id=16146)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 * Pi4J [Welcome to Pi4J - Pi4J](https://pi4j.com/)
   * [Having fun with Pi4J and JBang on the Raspberry Pi by Frank Delporte - YouTube](https://www.youtube.com/watch?v=w4AR4hWP3Qk)
