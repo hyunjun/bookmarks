@@ -447,6 +447,7 @@ Elixir
   * [Mobile app development with LiveView Native and Elixir - DEV Community](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-4f79)
   * [Mobile app development with LiveView Native and Elixir. Part - 2 - DEV Community](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-part-2-4mkj)
   * [Mobile app development with LiveView Native and Elixir. Part - 3 - DEV Community](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-part-3-3ecn)
+  * [Phoenix-Liveview-series-1 - YouTube](https://www.youtube.com/playlist?list=PLsgDLn5XP3ebH8nFTv_XOSvbLXyCwsNBI)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
