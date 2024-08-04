@@ -147,6 +147,11 @@ Finance
 * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
 * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
 * ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
+* [광고❌ "안전한데 금리 높은 상품은 없나요?" 있더라고요..⭐️ 파킹통장보다 더 좋은 상품 추천 - YouTube](https://www.youtube.com/watch?v=TB_-fIbP5Xc) 금리형 ETF
+  * 금리에 비례하여 주가가 상승하는 금융상품
+  * 금리가 높을수록 수익률이 좋아지며, 예금자 보호가 되지 않지만 원금 손실 저위험
+  * 한도가 없어 자유롭게 투자
+  * CD금리나 코퍼금리 등 주제에 따라 CD금리 ETF와 코퍼금리 ETF 두 가지 종류 소개
 * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. - YouTube](https://www.youtube.com/watch?v=VHi2L0TVVY4)
   * [VidiGo 국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다..mp4](https://vidigo.ai/share/summary/6769c0119094)
   * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907084)
