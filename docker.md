@@ -1986,6 +1986,10 @@ Docker
 * [Istio Sidecar 설정을 통한 Pod 의 egress 제어](https://www.kimsehwan96.com/istio-sidecar-egress-control/)
   * [Sehwan Kim on LinkedIn: Istio Sidecar 설정을 통한 Pod 의 egress 제어](https://www.linkedin.com/posts/sehwan-kim-a31543202_istio-sidecar-%EC%84%A4%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-pod-%EC%9D%98-egress-%EC%A0%9C%EC%96%B4-activity-7218892101755793408-mhL3)
 * [Informer를 사용해 쿠버네티스 중계 API 서버의 성능 개선하기](https://techblog.lycorp.co.jp/ko/improving-kubernetes-relay-api-server-performance-with-informer)
+  * Kubernetes에서 팀별로 네임스페이스를 할당하고 RBAC로 담당 네임스페이스에만 권한을 가지도록 운영 중
+    * 노드의 여유 리소스를 알려주기 위한 기능을 지원하기 위해 중계 API 서버 구축
+    * 하지만 모든 파드를 조회해야 했기에 API 응답 속도가 너무 느렸고 클러스터에 큰 부하를 주는 문제
+  * 이를 해결하기 위해 Kubernetes의 오브젝트 타임 변경을 알려주는 Informer를 Go로 다시 구축해서 성능 문제 해결
 * [Top 10 k8s Design Patterns](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7223715221947777027-GPt-/)
 
 ## Kubernetes Library
