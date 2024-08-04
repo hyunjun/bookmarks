@@ -254,6 +254,9 @@ Travel
 ## Miyanma
 * [미얀마에는 떨어지지 않는 금빛바위가 있다](http://www.huffingtonpost.kr/2015/05/18/story_n_7304040.html)
 
+## Philippine
+* [몰디브 뺨치는 필리핀의 숨겨진 섬!! #short - YouTube](https://www.youtube.com/shorts/ctdTrm46aho) 팔라완섬 엘니도
+
 ## Seychelles
 * ['세이셸'에서 아무 것도 안할 자유를 누리다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150507103201914&RIGHT_LIFE=R3)
 
