@@ -1898,6 +1898,11 @@ Book
 * [사피엔스: 그래픽 히스토리 Vol.2 문명의 기둥 -](https://jh4hj.tistory.com/entry/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-Vol2-%EB%AC%B8%EB%AA%85%EC%9D%98-%EA%B8%B0%EB%91%A5)
   * ★★★★☆ 2022.01.24 ★★★☆☆ 2023.08.12
   * [사피엔스: 그래픽 히스토리 Vol.2 문명의 기둥. 골드마인: 물론 개인의 관점에서 보면 농업은 위대한 아이디어가 아닐지도… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-vol-2-%EB%AC%B8%EB%AA%85%EC%9D%98-%EA%B8%B0%EB%91%A5-c65009c07d53)
+* [사피엔스: 그래픽 히스토리 Vol. 3 Sapiens: A Graphic History Vol. 3](https://www.notion.so/1003/Vol-3-Sapiens-A-Graphic-History-Vol-3-55628bfcc85e4644819fcf6fc72a7315?pvs=4)
+  * ★★★☆☆ 2024.08.03 제국, 돈, 종교를 통해 세계 역사를 이끌어온 원동력이 뭔지 파악하는 편. 물론 이 셋 중 하나만 작용하진 않았고, 다음 편은 과학에 대한 이야기
+  * 한라 909-하292ㅅ-3 탐라 그래픽909-하231ㅅ-3
+  * [사피엔스: 그래픽 히스토리 Vol. 3 Sapiens: A Graphic History Vol. 3](https://github.com/hyunjun/bookmarks/blob/master/books/sapiens_vol_3.md)
+  * [사피엔스: 그래픽 히스토리 Vol. 3 Sapiens: A Graphic History Vol. 3](https://jh4hj.tistory.com/entry/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-Vol-3-Sapiens-A-Graphic-History-Vol-3)
 * [오듀본, 새를 사랑한 남자](https://brunch.co.kr/@siestajin/5)
   * ★★★☆☆ 2021.12.12 [표지](images/audubon0.jpg) [일생](images/audubon1.jpg)
   * 생태학, 조류학, 박물학의 아버지라고 하는데, 책 자체는 나쁘지 않았으나 이렇게 새를 잡아서 그림을 남기는 사람의 이름이 자연보호 협회의 이름으로 쓰인다는 건 정말 이해가 안 가는 일
