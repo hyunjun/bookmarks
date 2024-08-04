@@ -744,6 +744,9 @@ Git
     * 상황
       * old/path/file.txt를 `git mv file.txt new/path`를 사용해 new/path/file.txt로 변경
       * 다시 old/path/file.txt로 변경하고 싶어서 `git reset new/path/file.txt`를 실행했다가 new/path에서는 사라지고 old/path에도 복원되지 않은 경우 사용
+* cherry
+  * [Unlocking Git: Using Cherry for Commit Insights](https://git.wtf/unlocking-git-using-cherry-for-commit-insights/)
+    * `git cherry` 명령어로 두 브랜치간의 차이가 있는 커밋을 빠르게 살펴볼 방법 소개
 * cherry-pick
   * [Git 체리픽(cherry-pick) 사용법](https://awesomezero.com/post/git-cherry-pick/)
   * [작업단위 커밋 정복을 위한 rebase와 cherry-pick](https://blog.naver.com/pjt3591oo/222313140460)
@@ -1491,6 +1494,15 @@ Git
     * Utterances도 좋긴 하지만 제약이 좀 있어서 Giscus를 설정하고 수동으로 마이그레이션하는 방법을 정리한 글
   * [Giscus 댓글, 텔레그램 (Telegram) 으로 알람 받기](https://jojoldu.tistory.com/705)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
+* [gitamine: A graphical user interface for git](https://github.com/pvigier/gitamine)
+  * [Commit Graph Drawing Algorithms | pvigier’s blog](https://pvigier.github.io/2019/05/06/commit-graph-drawing-algorithms.html)
+    * 글쓴이의 Design and implementation of a graphical user interface for git라는 석사 논문의 일부
+      * 프로토타입으로 만든 git 클라이언트에서 커밋 그래프를 그리는 알고리즘에 대한 설명
+      * 자주 보는 커밋그래프이지만 그 안에 있는 복잡함을 볼 수 있음
+    * Git의 특성에 따라 그래프를 그리기 전에 커밋 정렬 필요
+      * 이때 날짜도 작성자의 날짜인지 커미터의 날짜인지도 선택 필요
+      * 이를 바탕으로 커밋의 위상적 순서를 출력하는 알고리즘 작성
+      * 이를 곧은 가지로 표현해서 Git의 브랜치를 시각화할 수 있게 구현
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [GitButler | Git Branching, Refined](https://gitbutler.com/)
   * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
