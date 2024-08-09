@@ -3856,6 +3856,16 @@ Business
       * 가령 세계대전기의 독일이 서쪽으로는 영국과 미국, 동쪽으로는 소련을 상대해야 했던 상황
   * 고객 가치를 찾아내고 고객을 설득하는 것도 어려운데
     * 그 과정에서 필요한 자원을 가져오기 위해 기업 내부의 경영진이나 투자자를 설득하느라 진을 빼는 상황이 계속 벌어지는 경우
+* [The Problem With Startup "Experts" - YouTube](https://www.youtube.com/watch?v=ClWQCm2h9iI)
+  * The video discusses the phenomenon of local startup experts and how they may provide misleading advice to entrepreneurs
+  * The experts suggest that founders should seek advice from the top percent of the industry
+    * but caution that many startup ecosystems may not have the founder's best interests in mind
+  * They recommend that founders should have a support system of friends, family, and significant others but not rely on them for startup advice
+  * The experts also emphasize that bad advice is worse than no advice
+    * and provide examples of products and services where this is the case, such as plastic surgery, tattoos, and permanent decisions
+  * They advise founders to be picky about their startup advice and to seek advice from the best sources available
+    * even if it means consuming online content
+  * [스타트업 전문가의 문제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1050698)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
