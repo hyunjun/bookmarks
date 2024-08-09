@@ -2169,6 +2169,13 @@ Book
 * [세상에 이런 국경](https://www.readersnews.com/news/articleView.html?idxno=107714)
   * ★★★☆☆ 2024.04.21 enclave, exclave(둘 다 월경지로 번역)로 시작해 생각보다 다양한 여러가지 국경의 형태 및 간략한 역사적인 유래를 쉽게 볼 수 있다. 대부분 관광지가 아니긴 하지만, 혹시 근처에 갈 일이 생긴다면 방문해보고 싶은 마음이 들 정도로 흥미로운 이야기들이 많다
   * 한라 980-조83ㅅ
+* [‘뉴올리언스에 가기로 했다‘ 홍윤이 X 이인규 - YouTube](https://www.youtube.com/watch?v=S3PHEO9RXhM)
+  * ★★★☆☆ 2024.08.05~06 뉴올리언스에 대한 책이 이거 하나 뿐이라고 저자들이 썼는데, 정말 알라딘에서 검색해보니 뉴올리언스 관련 책 자체도 적지만 여행책은 이거 한 권뿐. 뉴올리언스에 가고싶은 마음이 들게 만드는 책
+  * 제주 818-이69뉴
+  * [So It Is - Wikipedia](https://en.wikipedia.org/wiki/So_It_Is)
+  * [Preservation Hall Jazz Band "So It Is" - YouTube](https://www.youtube.com/playlist?list=PLbxe1SE1LbvtDvPmqr6f9W8wtYogW5axR)
+  * [Preservation Hall Jazz Band](https://www.preservationhalljazzband.com/)
+  * [뉴올리언스에 가기로 했다](https://www.notion.so/1003/27bc4146a38040cb995dc47b79feda97?pvs=4)
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
