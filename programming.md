@@ -471,6 +471,10 @@ Programming
 * [Modern Platform Engineering: 9 Secrets of Generative Teams • Liz Fong-Jones • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=3tBj3ZCPGJY)
   * [VidiGo Modern Platform Engineering: 9 Secrets of Generati](https://vidigo.ai/share/summary/976d61e6da9f)
   * [Modern Platform Engineering: 9 Secrets of Generative Teams • Liz Fong-Jones • GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/631109)
+* [Platform as a Product • William Rizzo • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=xTUePYLtsyE)
+  * 플랫폼 엔지니어링은 플랫폼을 전략적 자산으로 변화시키는 중요한 학문
+  * "플랫폼으로서의 제품" 개념에 대해 다루며, 내부 플랫폼을 고객 대면 제품과 동일한 엄격함으로 다뤄 혁신, 효율성, 확장성을 촉진하는 방법을 탐구
+  * [제품으로서의 플랫폼 - 윌리엄 리조 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1037713)
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [Sustainable Operations in Complex Systems with Production Excellence - InfoQ](https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/)
@@ -1763,6 +1767,7 @@ Programming
   * [단순한 아키텍처를 옹호하며 (2022) | GeekNews](https://news.hada.io/topic?id=13754)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
+* ["컬럼이 부족해요" - 최고이면서 최악이었던 코드베이스 | GeekNews](https://news.hada.io/topic?id=16151) legacy
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
 * [QCon London: Meta Used Monolithic Architecture to Ship Threads in Only Five Months - InfoQ](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
   * [메타는 모놀리식 아키텍처로 5개월만에 스레드를 출시하고, 1억명의 유저를 처리했다](https://jaymepark.tistory.com/13)
@@ -5033,6 +5038,7 @@ Programming
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [DKAPTCHA: 지도 이미지와 음성을 활용한 어뷰징 방지 전략 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-dkaptcha/) captcha
+* [이런 하찮은걸로 어떻게 봇인지 판단함? - YouTube](https://www.youtube.com/watch?v=pFjhHPa_Apw) captcha
 * [시큐어 코딩의 의미와 실천 방안: ①시큐어 코딩이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1822/)
 * [Secret Key - What Is It And How Does It Protect Users? | 1Password](https://blog.1password.com/what-the-secret-key-does/)
   * 1Password의 시크릿 키의 구조 설명
