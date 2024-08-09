@@ -2482,6 +2482,7 @@ Python
 * [Python으로 카카오톡 플러스친구 만들기](http://codeac.tistory.com/entry/Python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
 * [Summernote - a simple WYSIWYG editor](https://github.com/summernote/django-summernote)
 * [Taking Django Async](https://www.youtube.com/watch?v=786Lq_L0Nbw)
+* [Django의 모델단에 Async 사용하기](https://puddingcamp.com/topic/django-database-in-async-context)
 * [Intro to Django's Annotate](https://www.youtube.com/watch?v=KbwmdKl-QbI)
 * [2018년 8월 5일, 서울창조허브 10F에서 열리는 개발기술연합세미나, 파이썬 세션, 장고 샘플 프로젝트](https://github.com/allieus/demo-20180805-startup-dev)
 * [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
