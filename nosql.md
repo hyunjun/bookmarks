@@ -119,6 +119,7 @@ NoSQL
 * [Olga Silyutina- ClickHouse Applications in Data Analytics | PyData Yerevan July 2022 Meetup - YouTube](https://www.youtube.com/watch?v=F74bBGSMwGo)
 * [Log analytics using ClickHouse](https://blog.cloudflare.com/log-analytics-using-clickhouse/)
 * [From Open Source to SaaS: the Journey of ClickHouse - YouTube](https://www.youtube.com/watch?v=qLUbX30dzgo)
+* [Building a RAG pipeline for Google Analytics with ClickHouse and Amazon Bedrock](https://clickhouse.com/blog/retrieval-augmented-generation-rag-with-clickhouse-bedrock)
 
 # CockroachDB
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
