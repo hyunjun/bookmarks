@@ -156,3 +156,4 @@
 * [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)
 * [한대오름](http://place.map.daum.net/8134820) 가는길의 단풍이 멋진 곳
 * [1년에 1번만 공개‥제주 '물찻오름' 산정 호수](https://imnews.imbc.com/replay/2024/nwdesk/article/6608031_36515.html)
+* [6월에 안가면 후회한다는 제주 여행지 BEST 5(+📷인생샷) - YouTube](https://www.youtube.com/shorts/tNBKOFs-Gtw) 안돌오름 비밀의숲, 문도지오름
