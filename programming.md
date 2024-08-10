@@ -2362,6 +2362,7 @@ Programming
 * [On making architectural decisions - BTABoK](https://btabok.iasaglobal.org/on-making-architectural-decisions/)
   * [균형 잡힌 아키텍처 결정을 위하여](https://maily.so/saascenter/posts/3bfe06cc)
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
+* [당근페이 금융 거래 내역 Aggregator 개발기. 당근페이의 거래 내역이 가지고 있던 구조적 문제를 Aggregator로… | by Winter You | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EA%B8%88%EC%9C%B5-%EA%B1%B0%EB%9E%98-%EB%82%B4%EC%97%AD-aggregator-%EA%B0%9C%EB%B0%9C%EA%B8%B0-6817f57aef56)
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
   * [VidiGo Practical (a.k.a. Actually Useful) Architecture •](https://vidigo.ai/share/summary/a80e96fabc4e)
   * [실용적인(일명: 실제로 유용한) 아키텍처 - Stefan Tilkov - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/561498)
@@ -2395,6 +2396,13 @@ Programming
 * [Architecture Modernization: Aligning software, strategy, and structure • Nick Tune • CodeCrafts 2024 - YouTube](https://www.youtube.com/watch?v=mzfsBHyuTuU) Wardley map
   * [VidiGo Architecture Modernization: Aligning software, str](https://vidigo.ai/share/summary/a4ce639c79b1)
   * [아키텍처 현대화: 소프트웨어, 전략 및 구조 조정 - Nick Tune - CodeCrafts 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804472)
+* [Adaptive Socio-Technical Systems with Architecture for Flow • Susanne Kaiser • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=lpNzR0fvxDw)
+  * The speaker discusses the importance of building adaptive socio-technical systems that are optimized for a fast flow of value and constant feedback
+  * They propose combining Wardley Mapping, Domain-Driven Design, and Team Topologies, which are collectively referred to as "Architecture for Flow."
+  * The speaker uses an example of an online school solution to explain the concept of a value chain, which is the y-axis of the Wardley Map
+  * The speaker emphasizes the need for a common shared understanding of the business landscape
+    * and the importance of assessing the current flow of changes to identify potential blockers to flow
+  * [흐름을 위한 아키텍처를 갖춘 적응형 사회 기술 시스템 - Susanne Kaiser - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1060914)
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -1편](https://ebay-korea.tistory.com/110)
 * [신규 서비스 "꿀템"을 만들기 위한 여정(네? 다음달까지요?) -2편](https://ebay-korea.tistory.com/111)
 * [vinyl.coroke.net 바이닐고로케 개발기 - rainygirl's Op-eds](https://rainygirl.github.io/2024/07/vinylcoroke)
@@ -3249,6 +3257,7 @@ Programming
 * [Enabling Microservice Success • Sarah Wells & Sam Newman • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=0GpN_vEUGLk)
   * [VidiGo Enabling Microservice Success • Sarah Wells & Sam](https://vidigo.ai/share/summary/f7efa9f7c1f9)
   * [마이크로서비스 성공 지원 - 사라 웰스 & 샘 뉴먼 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/848709)
+* [회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택 | by Seungchan Yuk | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -4004,6 +4013,8 @@ Programming
 * [DRY Software Patterns & Microservices • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=KUD7I995uV8)
 * [Google Testing Blog: Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
   * [코드를 성급하게 DRY하지 마세요 | GeekNews](https://news.hada.io/topic?id=15102)
+* [DRY – the common source of bad abstractions | Swizec Teller](https://swizec.com/blog/dry-the-common-source-of-bad-abstractions/)
+  * [번역 DRY - 잘못된 추상화의 일반적인 원인](https://velog.io/@eunbinn/dry-the-common-source-of-bad-abstractions)
 * [Beyond Coupling and Cohesion: Strategies For Un-Fucking Yourself – Pursuit Of Laziness – A blog by Jesse Duffield](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
@@ -6379,6 +6390,8 @@ Programming
     * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s)
   * [2024년 7월 10일 개발 이야기 - 엔지니어링 분야에서 시니어 레벨 이상으로 성장하는 데 필요한 3가지 핵심 기술 | PPT](https://www.slideshare.net/slideshow/2024-7-10-3/270167876)
     * [(07/10) 엔지니어링 분야에서 시니어 레벨 이상으로 성장하는 데 필요한 3가지 핵심 기술 - YouTube](https://www.youtube.com/watch?v=1FiAGFUnTUU)
+  * [2024년 8월 8일 개발 이야기 - 오늘날에도 자바가 여전히 유효합니까? | PPT](https://www.slideshare.net/slideshow/2024-8-8/270870379)
+    * [(08/08) 오늘날에도 자바가 여전히 유효합니까? - YouTube](https://www.youtube.com/watch?v=TPcwyKBncpc)
 * 44BITS
   * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
   * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
@@ -6730,6 +6743,7 @@ Programming
   * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/07/b-7-3.html)
   * [7월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-4.html)
   * [7월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-7-5.html)
+  * [8월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8978,6 +8992,7 @@ Programming
   * 이 문제는 해당 소프트웨어가 커널에 접근할 수 있었기 때문에 가능한 일
     * Windows Vista를 만들 때 EU가 이 접근을 막지 못하게 하면서 발생
   * 그럼에도 소프트웨어 엔지니어가 이러한 문제를 막기 위해 어떤 대처를 할 수 있는지를 설명
+* [IT 인프라 엔지니어 그룹 | https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3671104469870994/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
