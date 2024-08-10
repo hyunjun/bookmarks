@@ -13,6 +13,7 @@ Business
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
 * [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
+* [평판 만들기](https://www.thestartupbible.com/2024/08/on-your-reputation-preceding-you.html)
 * [조직 살리는 '숨은 재능' 찾아내기 Monday HBR/빌 테일러](https://v.daum.net/v/20220919030305406)
 * [잔디 월간일잘러: 빠르게 성장하는 당근마켓에서 효율적으로 일하는 방법 | Novemberde's Blog](https://novemberde.github.io/post/2021/08/31/Jandi-monthly/)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
@@ -1397,6 +1398,12 @@ Business
 * [비즈니스 소통에서 관심사의 분리와 일반화의 효과](https://brunch.co.kr/@graypool/1789)
 * [어려운 동료와의 대화: 불편함을 해결하는 전략](https://brunch.co.kr/@yongjinjinipln/145)
 * [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
+* [Communication Lessons From The Bear](https://www.strategybyfischer.com/resilience/communication-lessons-the-bear)
+  * The Bear, a TV show about a restaurant kitchen, offers valuable communication lessons
+  * The shift meeting is a great internal communication tool, like a huddle
+  * Regular, scheduled time to relax and get to know each other, like family meals, can be replicated in workplaces
+  * A system is necessary for sustainable success, and culture matters
+  * Treating everyone with respect and showing real respect can change a toxic culture
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -2723,6 +2730,7 @@ Business
 * [카카오페이 TPM은 어떤 일을 하나요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/tech-strategy-tpm/)
 * [플랫폼 팀의 1년, 일본 최대 규모의 배달 서비스에 안착하기까지](https://techblog.lycorp.co.jp/ko/one-year-retrospective-of-platform-team-at-demaecan)
 * [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
+* [팀의 이번 분기 목표는 무엇인가요?. 5초 만에 대답해 보세요. | by Stephan Seunghwan Seo | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9D%98-%EC%9D%B4%EB%B2%88-%EB%B6%84%EA%B8%B0-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-22c2130a59f1)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -4049,6 +4057,7 @@ Business
 * [18화 고령 UX의 진짜 문제는 시력과 청각이 아니라고?](https://brunch.co.kr/@cliche-cliche/233)
 * [20화 작은 변화, 큰 차이를 만드는 클릭존 UX 라이팅](https://brunch.co.kr/@cliche-cliche/238)
 * [21화 왜 레퍼런스 분석 시 'WHY'가 중요할까?](https://brunch.co.kr/@cliche-cliche/239)
+* [23화 디자인 심리학 A to Z, 31가지 법칙을 한눈에](https://brunch.co.kr/@cliche-cliche/243)
 * [헤이딜러 UX 스터디 이야기 (소개). 헤이딜러 제품팀에서 진행했던 UX스터디 이야기를 들려드립니다. | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%9D%98-ux-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%86%8C%EA%B0%9C-16ec98d1e30f)
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
@@ -4066,6 +4075,7 @@ Business
 * [UX리서치 조직에서 리옵매란?](https://toss.tech/article/what-is-research-ops)
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
+* [레거시 제품을 버리고 CS 효율 높이기](https://toss.tech/article/rebuild-legacy-cs-products)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
