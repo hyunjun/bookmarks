@@ -246,6 +246,8 @@ Scala
 * [Rendezvous Benchmark Analysis: When Threads (Don't) Meet - DEV Community](https://dev.to/fwbrasil/rendezvous-benchmark-analysis-when-threads-dont-meet-3k3e)
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
 * [Effective Error Handling](https://invariant.blog/error-handling)
+* [A Manifesto for Error Management](https://invariant.blog/error-handling-2)
+* [Migrating to Safety](https://invariant.blog/error-handling-3/)
 * [Handling errors in direct-style Scala](https://softwaremill.com/handling-errors-in-direct-style-scala/)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
@@ -304,6 +306,7 @@ Scala
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
+* [(1) Rock the JVM on X: "New video! Automatic dependency injection in pure #Scala, with no frameworks or libraries, just with the type system and 50 lines of code: You'll learn - where DI is useful - how @zioscala does it - how we can do (almost) the same without effects or layers Technique by https://t.co/mKBC4GvojV" / X](https://x.com/rockthejvm/status/1820497525851222102)
 * [Higher-kinded data in Scala | 47 Degrees](https://www.47deg.com/blog/higher-kinded-data-in-scala/)
 * [Higher-Kinded Types | Baeldung on Scala](https://www.baeldung.com/scala/higher-kinded-types)
 * [Emanuel Goette, alias Crespo: Que es un Higher-Kinded Type de Scala?](https://emanuelpeg.blogspot.com/2024/05/que-es-un-higher-kinded-type-de-scala.html)
@@ -588,6 +591,7 @@ Scala
 * [Akka: Enabling the Cloud to Edge Continuum | Lightbend](https://www.lightbend.com/blog/akka-enabling-the-cloud-to-edge-continuum)
 * [Migrating event sourced Akka application from CockroachDB to AlloyDB | LinkedIn](https://www.linkedin.com/pulse/migrating-event-sourced-akka-application-from-cockroachdb-alloydb-wqgvf/)
 * [What to do with your End Of Life Akka?](https://softwaremill.com/what-to-do-with-your-end-of-life-akka/)
+* [Benchmarking database sharding in Akka | Lightbend](https://www.lightbend.com/blog/benchmarking-database-sharding-in-akka)
 * [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
@@ -1196,8 +1200,10 @@ Scala
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=2EgN0t_vLy4)
     * [Composable concurrency scope of ZIO Semaphore - Bilal Fazlani](https://bilal-fazlani.com/blog/composable-concurrency-scope-of-zio-semaphore/)
     * [Tuning ZIO for high performance](https://blog.pierre-ricadat.com/tuning-zio-for-high-performance)
+      * [고성능을 위한 ZIO 튜닝](https://tech.devsisters.com/posts/tuning-zio-for-high-performance/)
     * [Uncovering the benefits and challenges of ZIO2 and Scala 3 at Wolt - Thomas Harper - YouTube](https://www.youtube.com/watch?v=U9Nd7ylr0Sg)
     * [Forking and Interruption in ZIO | Jakub Janeček's Blog](https://blog.jakubjanecek.com/blog/20240527_zio-fork-interrupt/)
+    * [The Tri-Z Architecture: a Pattern for Layering ZIO Applications in Scala](https://blog.pierre-ricadat.com/the-tri-z-architecture-a-pattern-for-layering-zio-applications-in-scala)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -2181,6 +2187,7 @@ Scala
 * [Bootzooka!](https://bootzooka.softwaremill.com/)
   * [Bootzooka 2019: functional Scala and React](https://blog.softwaremill.com/bootzooka-2019-functional-scala-and-react-3cf8c1a0f1c2)
   * [Bootzooka 2022: cats-effect 3, autowire & tapir](https://softwaremill.com/bootzooka-2022-cats-effect-3-autowire-and-tapir/)
+  * [Direct-style Bootzooka: 2024 update](https://softwaremill.com/direct-style-bootzooka-2024-update/)
 * [Cask: a Scala HTTP micro-framework](http://www.lihaoyi.com/cask/)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
