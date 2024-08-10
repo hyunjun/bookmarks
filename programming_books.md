@@ -1612,6 +1612,7 @@ Programming Books
 * (NOT YET) [혼자 공부하는 머신러닝+딥러닝 | Pacientes Devlog](https://pacientes.github.io/posts/2021/01/review-self-study-ml-dl/)
   * [혼자 공부하는 머신러닝+딥러닝 - YouTube](https://www.youtube.com/playlist?list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
   * ['혼공머신' 카테고리의 글 목록](https://lazymatlab.tistory.com/category/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0)
+  * [“혼자 공부하는 머신러닝+딥러닝” 케라스 3.4.1 업데이트! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2024/08/06/%ed%98%bc%ec%9e%90-%ea%b3%b5%eb%b6%80%ed%95%98%eb%8a%94-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%eb%94%a5%eb%9f%ac%eb%8b%9d-%ec%bc%80%eb%9d%bc%ec%8a%a4-3-4-1-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8/)
 * (NOT YET) [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://bjpublic.tistory.com/392)
 * (NOT YET) [이보다 더 쉬울 수 없는 자바 머신러닝 with Weka](https://bjpublic.tistory.com/393)
 * (NOT YET) [신호와 소음](https://jhrogue.blogspot.com/2021/07/blog-post_14.html)
@@ -3298,6 +3299,8 @@ Programming Books
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
   * 한라 325.24-클294ㅇ
+* (NOT YET) [히트 리프레시 - 용균](https://edykim.com/ko/post/hit-refresh/)
+  * 한라 325.099-나24ㅎ 탐라 문325.099-나223ㅎ 우당 문325.099-나223ㅎ 제주 325.099-나223히
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -3669,7 +3672,7 @@ Programming Books
   * 2016.11
   * 한라 005.138 김76ㅅ
   * 설치, 라라벨 기본, 실전프로젝트 3가지로 구성. php 기본 문법은 간략하게 나옴
-* (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
+* (NOT YET) [신입 PHP 개발자가 읽어야 하는 책 - 용균](https://edykim.com/ko/post/books-that-new-php-developers-should-read/)
 * (NOT YET) [백엔드 프로그래밍을 위한 PHP & MySQL](https://jpub.tistory.com/1398)
 
 # Product
