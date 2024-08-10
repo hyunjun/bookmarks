@@ -750,6 +750,7 @@ App
   * [단순 반복 업무를 없애보기로 했다. (feat. Zapier) | by Jeongje Yu | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/%EB%8B%A8%EC%88%9C-%EB%B0%98%EB%B3%B5-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%97%86%EC%95%A0%EB%B3%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4-feat-zapier-24feb9bf3062)
   * [Zapier로 노션 데이터와 슬랙을 연동해보자](https://onboardingsohard.ghost.io/zapier1/)
   * [노코드 자동화 툴로 일잘러 데이터 분석가 되기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/01/nocode-tool.html) Integromat
+  * [오프라이트 & TickTick 연동하기 (feat. Zapier)](https://jojoldu.tistory.com/796)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 ## Development File Manager
@@ -2516,6 +2517,7 @@ App
     * 디자인 시스템 도입을 쉽게 할 수 있도록 개발자 환경에서 디자인의 코드 샘플을 쉽게 연결할 수 있는 Code Connect
     * 자동 레이아웃 지원
   * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
+  * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
