@@ -2931,6 +2931,7 @@ CVPR2016)
     * [프롬프트 문구 종류별 정리](https://letsgotitan.tistory.com/38)
 
 # Text to video text2video
+* [AGI KR | 중국, 비디오 생성 AI '러시'...바이트댄스·알리바바도 '소라' 라이벌 합류 - Jimeng AI, Tora (출처:뉴스) | Facebook](https://www.facebook.com/groups/agikr/posts/2358831657791212/)
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
