@@ -658,6 +658,16 @@ iOS
 * [SwiftUI - symbolEffect :: iOYES](https://green1229.tistory.com/484)
 * [Create custom visual effects (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/492)
 * [Tailor macOS windows with SwiftUI (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/493)
+* [What's new in Xcode 16 (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/497)
+* [What’s new in Swift](https://wlaxhrl.tistory.com/93)
+* [What’s new in App Store Connect](https://wlaxhrl.tistory.com/94)
+* [A Swift Tour: Explore Swift’s features and design](https://wlaxhrl.tistory.com/95)
+* [Consume noncopyable types in Swift](https://wlaxhrl.tistory.com/96)
+* [Migrate your app to Swift 6 (추천세션!)](https://wlaxhrl.tistory.com/97)
+* [Demystify explicitly built modules (추천세션!)](https://wlaxhrl.tistory.com/98)
+* [Explore Swift performance](https://wlaxhrl.tistory.com/99)
+* [Analyze heap memory](https://wlaxhrl.tistory.com/100)
+* [Discover media performance metrics in AVFoundation](https://wlaxhrl.tistory.com/101)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
