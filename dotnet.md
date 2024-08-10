@@ -170,6 +170,7 @@
   * [Libplanet 팀이 2020 스프린트서울에도 참여합니다!](https://snack.planetarium.dev/kor/2020/05/sprintseoul/)
   * [Libplanet 팀이 2022년 1월 스프린트서울에도 참여합니다!](https://snack.planetarium.dev/kor/2022/01/sprintseoul/)
   * [Libplanet 4.0 릴리스](https://snack.planetarium.dev/kor/2024/03/libplanet-4.1.0/)
+  * [라이브 게임 에셋 관리 개선기 - 1.어드레서블 에셋 도입](https://snack.planetarium.dev/kor/2024/08/asset-load-1/)
 * [dotMemory: JetBrains가 만든 .NET용 메모리 프로파일러 겸 유닛 테스트 프레임워크](https://www.jetbrains.com/ko-kr/dotmemory/)
   * [dotMemory를 활용한 dotMemory 최적화 | The .NET Tools Blog](https://blog.jetbrains.com/ko/dotnet/2022/06/10/how-we-used-dotmemory-to-optimize-dotmemory/)
 * dotnet
