@@ -319,6 +319,7 @@ NLP
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [AI 데이터 분석가 ‘물어보새’ 등장 – 1부. RAG와 Text-To-SQL 활용 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18144/)
+* [AI 데이터 분석가 ‘물어보새’ 등장 – 2부. Data Discovery | 우아한형제들 기술블로그](https://techblog.woowahan.com/18362/)
 * [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
 * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
   * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
@@ -2159,6 +2160,7 @@ NLP
   * The attention mechanism selects important information from large data and focuses on these important pieces while ignoring unimportant info
   * Self-attention is the core idea behind transformers, which reduces reliance on external information and excels at capturing internal correlations within data or features
   * Transformers are specific with a narrower focus, while LLMs are broad models trained on large amounts of data
+* [RALM: Retriever와 LLM결합 방식에 대한 이론적 토대! | TACL 2023 | 김재희 - YouTube](https://www.youtube.com/watch?v=eYSMUqtljSI)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2483,6 +2485,12 @@ NLP
   * [LangChain KR | LangChain 에 HWP 문서 로더가 없어 직접 구현하였습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/3101395573329487/)
     * [HWP파서예제-20240728 - Colab](https://colab.research.google.com/drive/1DlcP1pjr_Wdrq-3R3MUTBk4iUr2A-X9u?usp=sharing)
   * [AI Convergence :: LangChain is like Spring Framework for LLM](https://mobicon.tistory.com/602)
+  * [AI Convergence :: LCC-1 LangChain Concept - Components & RAG](https://mobicon.tistory.com/607)
+  * [AI Convergence :: LCC-2 LangChain Document Loaders 이해](https://mobicon.tistory.com/610)
+  * [AI Convergence :: LCC-3 LangChain Splitter 이해](https://mobicon.tistory.com/611)
+  * [AI Convergence :: LCC-4 LangChain Embedding Model 이해](https://mobicon.tistory.com/613)
+  * [AI Convergence :: LCC-5 LangChain VectorStore 이해](https://mobicon.tistory.com/614)
+  * [AI Convergence :: LCC-6 LangChain Retriever 이해](https://mobicon.tistory.com/616)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
