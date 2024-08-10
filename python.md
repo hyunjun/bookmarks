@@ -640,6 +640,7 @@ Python
 * [Uploading file data in a performant manner - Dropbox](https://dropbox.tech/developers/performant-upload)
   * [`Developer-Samples/Blog/performant_upload` at master · dropbox/Developer-Samples](https://github.com/dropbox/Developer-Samples/tree/master/Blog/performant_upload)
 * [20 Python Gem Libraries Buried In the Installation Waiting To Be Found | by Bex T. | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15)
+* [AI Convergence :: Python docstring 스펙](https://mobicon.tistory.com/608)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -709,6 +710,7 @@ Python
   * [A Simple & Effective Way To Improve Python Class Performance - YouTube](https://www.youtube.com/watch?v=Fot3_9eDmOs)
     * [2022-slots](https://github.com/ArjanCodes/2022-slots)
   * [When to use classes in Python? When you repeat similar sets of functions - death and gravity](https://death.andgravity.com/same-functions)
+  * [AI Convergence :: Python 클래스의 변수와 속성 이해](https://mobicon.tistory.com/612)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1026,6 +1028,7 @@ Python
   * [PyCon KR 2023 Icebreaking with import 윤수진 - YouTube](https://www.youtube.com/watch?v=f58sIwixXRs)
   * [One way to fix Python circular imports | Ned Batchelder](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html)
   * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
+  * [AI Convergence :: Python from 과 import 구문](https://mobicon.tistory.com/615)
   * [import-tracker: Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
   * [reorder_python_imports: Rewrites source to reorder python imports](https://github.com/asottile/reorder_python_imports)
     * [A Tool for automatically reordering python imports](https://pythonawesome.com/a-tool-for-automatically-reordering-python-imports/)
@@ -1156,6 +1159,7 @@ Python
   * [리얼월드 메타클래스](https://seonghyeon.dev/realworld-metaclass/)
   * [Python Reflection and Introspection | by Jamie Bullock | Better Programming | Medium](https://medium.com/better-programming/python-reflection-and-introspection-97b348be54d8)
   * [How to Create Lazy Attributes to Improve Performance in Python | by Yong Cui, Ph.D. | Better Programming | Medium](https://medium.com/better-programming/how-to-create-lazy-attributes-to-improve-performance-in-python-b369fd72e1b6) @property decorator, `__getattr__`
+  * [AI Convergence :: Python `__getattr__` 의미](https://mobicon.tistory.com/609)
   * [Mind-bending metaclasses - adding function overloads to Python - YouTube](https://www.youtube.com/watch?v=yWzMiaqnpkI)
   * [Python Metaclasses: Everything is an Object - YouTube](https://www.youtube.com/watch?v=uLPnBaUhjKU)
 * method
@@ -1594,6 +1598,7 @@ Python
   * [Python의 Generator와 yield 키워드](https://item4.blog/2016-05-09/Generator-and-Yield-Keyword-in-Python/)
   * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
   * [What Are Generators, Yields, and Streams in Python?](https://medium.com/better-programming/what-are-generators-yields-and-streams-in-python-a94072b3eb93)
+  * [Python yield](https://bcho.tistory.com/1433)
 * zipfile
   * [파이썬을 사용해 한글 파일명을 포함한 ZIP 파일 압축 해제 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8947142043)
   * [Day 82 : Unzip Files using Python - YouTube](https://www.youtube.com/watch?v=CFFI5cEtopc)
@@ -2532,6 +2537,7 @@ Python
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [운영중인 장고 + 지유니콘 백엔드 메모리 누수 문제 해결 production django + gunicorn backend memory leak fix (feat uwsgi)](https://medium.com/@elastic7327/%EC%9A%B4%EC%98%81%EC%A4%91%EC%9D%B8-%EC%9E%A5%EA%B3%A0-%EC%A7%80%EC%9C%A0%EB%8B%88%EC%BD%98-%EC%95%B1%EB%B0%B1%EC%97%94%EB%93%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-production-django-gunicorn-backend-memory-leak-fix-feat-uwsgi-b6013e3e0514)
 * [Deploying Django with Docker Compose, Gunicorn and Nginx - YouTube](https://www.youtube.com/watch?v=vJAfq6Ku4cI)
+* [배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례 | Django 내부 코드를 살펴봐 원인을 파악하고 문제를 해결한 인사이트를 공유합니다. 레몬베이스 팀블로그 | 레몬베이스 팀블로그](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
 * [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
 * [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
 * [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
