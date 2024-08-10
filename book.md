@@ -6,8 +6,9 @@ Book
 * [책으로 성장하기 - by Jinu Kim - Jinu Notes](https://jinu.substack.com/p/034)
 * [The Joy of Reading Books You Don't Entirely Understand - Reactor](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
   * [완전히 이해하지 못하는 책을 읽는 즐거움 | GeekNews](https://news.hada.io/topic?id=15683)
+* [I fear books are going the way of vinyl records – a rarefied pursuit for hobbyists | Gaby Hinsliff | The Guardian](https://www.theguardian.com/commentisfree/article/2024/aug/06/fear-books-vinyl-records-rarified-pursuit-hobbyists?CMP=Share_iOSApp_Other)
+  * [책이 LP판처럼 취미로만 남게 되는건 아니겠지 (번역) – 이바닥늬우스](https://ebadak.news/2024/08/06/fear-books-vinyl-records/)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
-* [히트 리프레시](https://www.haruair.com/blog/4521)
 * [Two Cents #25 “New World Order” - 허진호 (Jin Ho Hur)](https://medium.com/@hur/two-cents-25-new-world-order-11e6768a5d69) 여러 서평
   * Impact of China’s Growth on the World Economy — Ray Dalio
   * The Coronavirus Is Driving China and the United States Further Apart — Foreign Policy
@@ -436,6 +437,12 @@ Book
   * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun - Medium](https://nymets.medium.com/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4-f9dd22b0e550)
   * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun’s Substack](https://recur.substack.com/p/991)
   * [나는 메트로폴리탄 미술관의 경비원입니다](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
+* 떼루아의 맛 [한국으로 귀촌한 프랑스 남자의 고군분투 와인 만들기...‘떼루아의 맛’ - 뉴스N제주](https://www.newsnjeju.com/news/articleView.html?idxno=142787)
+  * ★★★☆☆ August 10, 2024
+  * 제주813.7-신69떼
+* [마리아 칼라스](http://pungwoldang.kr/shop/item.php?it_id=9791189346485)
+  * ★★☆☆☆ 2024.08.10 마리아 칼라스에 대한 팬심이 책으로 나왔다. 칼라스의 일생을 그대로 따라갈 수 있다. 내용의 깊이나 수준은 내가 알 수 없지만 정말 애정이 가득한 마음으로 썼다는 건 알 수 있다.
+  * 한라 674.2099-박75ㅁ 탐라 문674.2099-박75ㅁ
 * (NOT COMPLETED) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
   * ★★★☆☆ 2024.05.23
   * 우당 문531-힐91ㄷ
@@ -1040,6 +1047,9 @@ Book
     * 토리텔러, <세상 친절한 경제상식>, 미래의창, 2019
     * 팀 하포드, 김명철 옮김, <경제학 콘서트 1~2>, 웅진지식하우스, 2013
     * EBS 자본주의 제작팀, <EBS 다큐프라임 자본주의> 가나출판사, 2013
+  * [개미나라 경제툰 2](https://www.hanbit.co.kr/store/books/look.php?p_code=B4402881864)
+    * ★★★☆☆ 2024.08.10 제목 그대로 경제위기의 역사를 곤충나라로 대입해서 재미있게 알려줌. 게임스탑까지 다뤘으니 정말 최근 내용까지 다뤘다
+      * 우당 문320-무53ㄱ
 * [만화로 보는 바빌론 부자들의 돈 버는 지혜](https://www.hanbit.co.kr/store/books/look.php?p_code=B8115627505)
   * ★★★☆☆ 2024.03.02
   * 탐라 문327.04-클232ㅂ
