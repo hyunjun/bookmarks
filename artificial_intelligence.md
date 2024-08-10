@@ -556,6 +556,7 @@ Artificial Intelligence
 * [AI로 생성한 코드 문제점과 유의 사항 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/24/ai-code/)
 * [GPT-4o mini 이용해서 만든 AI 뉴스 번역 서비스 "NewsGPT" - 모두의AI](https://moduai.net/gpt-4o-mini-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%A7%8C%EB%93%A0-ai-%EB%89%B4%EC%8A%A4-%EB%B2%88%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-newsgpt/)
 * [AI 스타트업들에게: 곡괭이와 삽을 팔지 말고, 직접 캐세요 | GeekNews](https://news.hada.io/topic?id=16088)
+* [AI 시대 ‘개발자 커리어’ 어떻게 변화할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/08/07/why-need-developer/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
