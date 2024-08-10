@@ -914,7 +914,7 @@ App
   * [SublimeText3 에서 Python3 개발 환경 구축하기(SublimeREPL)](http://amazingguni.github.io/blog/2016/03/sublime-text%EB%A1%9C-python3-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
   * [서브라임텍스트 터미널에서 실행하기(macOS)](https://beomi.github.io/2017/07/04/Call-Sublime-from-Terminal/)
   * [서브라임 텍스트 디렉토리 검색 예외 지정](https://hyeonseok.com/soojung/software/2017/11/21/829.html)
-  * [Sublime Text 3의 untitled 탭에 첫 행 표시하기](http://www.haruair.com/blog/4128)
+  * [Sublime Text 3의 untitled 탭에 첫 행 표시하기 - 용균](https://edykim.com/ko/post/displaying-the-first-line-in-the-untitled-tab-of-sublime-text-3/)
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
@@ -1333,7 +1333,7 @@ App
     * 10. 스마트폰에서 불필요한 사진을 효과적으로 삭제하는 방법.
     * 11. 파일 삭제와 일정 검색을 통해 효율적 업무 운영
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
-* [코드에서 macOS 노티피케이션 센터 띄우기](https://www.haruair.com/blog/4333)
+* [코드에서 macOS 노티피케이션 센터 띄우기 - 용균](https://edykim.com/ko/post/putting-the-macos-notification-center-in-code/)
 * [맥OSX에 윈도우 10 설치하기 (외장 HDD 또는 외장 SSD에 설치)](https://www.youtube.com/watch?v=G6aZ7wImY1Q)
 * [HomeKit으로 Mac 컨트롤 하기](https://apteryx.moe/2018-02-19-homekit-mac-control/)
 * [구간 반복이 가능한 어학용 MP3 플레이어 for mac](http://jinmedi.tistory.com/373)

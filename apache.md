@@ -172,7 +172,6 @@ Apache
 # Cordova
 * [Apache Cordova: after 10 months, I won't be using it anymore](http://geekcoder.org/apache-cordova-after-10-months-i-wont-using-it-anymore/)
 * [Cordova 환경 구성 & Git Ignore 설정](http://brantiffy.axisj.com/archives/377)
-* [ionic cordova emulate 실행 시 Cannot read property 'replace' of undefined 에러 해결하기](http://www.haruair.com/blog/3962)
 
 # Crunch
 * [Crunch](https://crunch.apache.org/)

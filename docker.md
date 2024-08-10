@@ -844,7 +844,7 @@ Docker
 
 # compose
 * [도커 컴포즈 (Docker Compose) : 네이버 블로그](https://blog.naver.com/gi_balja/223168115465)
-* [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430)
+* [일반 PHP 프로젝트 개발 환경에서 docker 사용하기 - 용균](https://edykim.com/ko/post/using-the-docker-in-a-regular-php-project-development-environment/)
 * [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
 * [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
 * [**Docker Compose in 12 Minutes**](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) flask + php 예제

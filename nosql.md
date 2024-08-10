@@ -483,7 +483,7 @@ NoSQL
 * [MongoDB를 쓰면서 알게 된 것들](http://bigmatch.i-um.net/2013/12/mongodb%EB%A5%BC-%EC%93%B0%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4/)
 * [Episode 1 - Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
 * [zerocho.com/category/MongoDB](https://www.zerocho.com/category/MongoDB)
-* [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](http://www.haruair.com/blog/3055)
+* [MongoDB 스키마 디자인을 위한 6가지 규칙 요약 - 용균](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 * [Motor: Asynchronous Python driver for MongoDB](https://motor.readthedocs.io/)
 * [MongoDB에서 쉽게 데이터 옮기기](http://blog.kazikai.net/?p=188)
 * [MultiThread로 RabbitMQ에서 메세지를 읽어서 MongoDB에 쓰는 예제 (Python)](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/MongoDB)

@@ -196,7 +196,7 @@ Linux
 * [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
 ## 배포판 Archlinux
-* [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
+* [Dell Latitude E7240 Archlinux 설치하기 - 용균](https://edykim.com/ko/post/installing-the-dell-latitude-e7240-archlinux/)
 * [Arch Linux에서 커널 소스코드 다운로드 하는 법](http://kkamagui.tistory.com/898)
 * [Linux Memory Management at Scale - YouTube](https://www.youtube.com/watch?v=w9YQawAfkPw)
 
@@ -1564,7 +1564,7 @@ Linux
 * [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
 * [**A Tmux crash course: tips and tweaks**](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
-* [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+* [tmux 입문자 시리즈 요약 - 용균](https://edykim.com/ko/post/tmux-introductory-series-summary/)
 * [Get Started With Tmux - Sunaina Pai](https://sunainapai.in/blog/get-started-with-tmux/)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [tmux cheat sheet](https://gist.github.com/andreyvit/2921703)

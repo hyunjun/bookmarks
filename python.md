@@ -1412,7 +1412,7 @@ Python
   * [Python Data Structures: Sets, Frozensets, and Multisets (Bags)](https://www.youtube.com/watch?v=b-K1ujf8u_k)
   * [You Should Use Python Sets](https://dev.to/dbanty/you-should-use-python-sets-1d14)
 * setup.py, distutils, packaging
-  * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
+  * [setup.py와 requirements.txt의 차이점과 사용 방법 - 용균](https://edykim.com/ko/post/how-does-setup-py-differ-from-requirements-txt-and-how-to-use-it/)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
   * [파이썬 프로젝트 시작하기 - Setuptools](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-setuptools/)
   * [파이썬 package 배포 하기](https://rampart81.github.io/post/python_package_publish/)
@@ -2066,7 +2066,7 @@ Python
 * [pycon 2014](https://us.pycon.org/2014/)
   * [금융 데이터 이해와 분석 pycon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
   * [interesting tutorials from pycon 2014 – usa](http://www.datasciencecentral.com/group/resources/forum/topics/interesting-tutorials-from-pycon-2014-usa)
-* [PyCon AU 2016 참가 후기](http://haruair.com/blog/3717)
+* [PyCon AU 2016 참가 후기 - 용균](https://edykim.com/ko/post/pycon-au-2016-review/)
 * [PyCon.KR 2022 - YouTube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk)
 * PyCon Korea 2021
   * [공무원 환경에서의 업무 자동화 - 김재윤 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=JtthbD3uvYY)

@@ -183,7 +183,7 @@ Algorithm
   * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo)
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
-* [**알고리즘 학습에 대한 조언**](https://www.haruair.com/blog/4546)
+* [알고리즘 학습에 대한 조언 - 용균](https://edykim.com/ko/post/advice-on-learning-algorithms/)
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
 * [Introduction to Greedy Method - YouTube](https://www.youtube.com/watch?v=w07yH4uSq-Y)
 * [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)

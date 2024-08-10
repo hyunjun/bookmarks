@@ -141,7 +141,7 @@
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
-* [왜 클래스죠?](http://www.haruair.com/blog/3895)
+* [왜 클래스죠? - 용균](https://edykim.com/ko/post/why-class/)
 * [Classes are just a fancy way of writing higher order functions](https://stopa.io/post/250)
 
 # Clojure
@@ -218,14 +218,14 @@
   * [30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
 * [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
-* [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
+* [서비스 로케이터는 안티패턴입니다 - 용균](https://edykim.com/ko/post/service-locator-is-an-antipattern/)
 * [Design Patterns - Observer](http://achimoraites.blogspot.kr/2017/11/design-patterns-observer.html)
 * [옵저버 패턴 개념 떠먹여드립니다 🥄](https://velog.io/@haero_kim/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-%EA%B0%9C%EB%85%90-%EB%96%A0%EB%A8%B9%EC%97%AC%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4)
 * [Observer Pattern 옵저버 패턴에 대해 알아보자!](https://joecp17.tistory.com/63)
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
-* [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
+* [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기 - 용균](https://edykim.com/ko/post/lazy-loading-of-objects-in-the-database/) proxy 프록시 패턴
 * [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
 * [어댑터와 퍼사드 패턴](https://astrod.github.io/design_pattern/2018/09/29/Head-First-%EC%96%B4%EB%8C%91%ED%84%B0%EC%99%80-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4/)
 * [MVC: Model, View, Controller](https://flask-diamond.readthedocs.io/en/latest/model-view-controller/)

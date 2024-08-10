@@ -40,7 +40,7 @@ Open Source
 * [**사내에서 눈치를 안 보고 오픈소스 프로젝트 하기**](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)
 * [오픈소스를 쇼핑하는 엔지니어](http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/)
 * [A Bitter Guide To Open Source](https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
-* [오픈소스 지속가능성 체계적으로 생각해보기](https://www.haruair.com/blog/4551)
+* [오픈소스 지속가능성 체계적으로 생각해보기 - 용균](https://edykim.com/ko/post/open-source-sustainability-think-systematically/)
 * [Permissive 라이선스는 동작을 할까?](http://hl1itj.tistory.com/181)
 * [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)

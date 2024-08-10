@@ -1091,7 +1091,7 @@ Programming Books
   * C# 기초 서적이지만, 네트워크와 데이터베이스 프로그래밍도 포함
 * C# 6.0 완벽 가이드: 깊고 넓게 알려주는 레퍼런스 북
   * 한라 005.133 앨44ㅅ
-* (NOT YET) [C# 으로 배우는 적응형 코드](https://www.haruair.com/blog/4452)
+* (NOT YET) [C# 으로 배우는 적응형 코드 - 용균](https://edykim.com/ko/post/adaptive-code-via-c-sharp/)
 * (NOT YET) [이것이 C#이다](http://greentec.egloos.com/4440971)
 * (NOT YET) [UWP 퀵스타트](https://kaki104.tistory.com/703)
 * (NOT YET) [이펙티브(effective) C#(2016) 독후감](http://ohyecloudy.com/pnotes/archives/book-effective-csharp/)

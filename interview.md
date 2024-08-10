@@ -627,7 +627,6 @@ Interview
 * [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
   * reverse proxy, dynamic service discovery - service registry, heartbeat
 * [System Design — Backend for Google Photos | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36)
-* [**ipify: 300억 요청 처리, 그 너머로**](http://www.haruair.com/blog/4108)
 * [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)

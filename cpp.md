@@ -29,7 +29,7 @@ C++
   * [C++ Core Guideline: The Guideline Support Library - ModernesCpp.com](https://www.modernescpp.com/index.php/c-core-guideline-the-guidelines-support-library)
   * [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now” - YouTube](https://www.youtube.com/watch?v=XkDEzfpdcSg)
 * [Writing good C++14](https://indico.cern.ch/event/349459/contributions/822793/attachments/1155200/1665554/CppCon_Guidelines.pdf)
-* [C++ 연산자 오버로딩 가이드라인](https://www.haruair.com/blog/4582)
+* [C++ 연산자 오버로딩 가이드라인 - 용균](https://edykim.com/ko/post/c-operator-overloading-guidelines/)
 * [c++ samples - A repository of modern C++ code samples curated by the community](http://www.cppsamples.com/)
 * [Non-constant constant-expressions in C++](http://b.atch.se/posts/non-constant-constant-expressions/)
 * [cpphints.com](http://cpphints.com/)
