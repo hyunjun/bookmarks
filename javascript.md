@@ -2042,6 +2042,8 @@ Javascript
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
   * [Lessons learned refactoring Codesandbox.io from Redux to Cerebral](https://medium.com/@christianalfoni/lessons-learned-refactoring-codesandbox-io-from-redux-to-cerebral-40e9a5646281)
+* [chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk)
+  * [Proxy와 Reflect 어디다 쓰나? | 장용석 블로그](https://yongseok.me/blog/proxy_reflect_case/)
 * [chalk-animation: Colorful animations in terminal output](https://github.com/bokub/chalk-animation)
 * [cheetah-grid: The fastest open-source data table for web](https://github.com/future-architect/cheetah-grid)
   * [Cheetah-Grid - 초고속 데이터 테이블 오픈소스 | GeekNews](https://news.hada.io/topic?id=4035)
