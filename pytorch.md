@@ -549,3 +549,5 @@ PyTorch
 * [파이토치 PyTorch - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmr_SZfUOk2ygWjEyvOqcjB2)
 * [practice - 나만의 LM 만들어보기 - pytorch, transformer](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#aec50d490e7b4bb8bc34f9c31386a534)
 * [PyTorch tutorials A to Z](https://github.com/gyunggyung/PyTorch)
+* [파이토치 1. 기본 자료형 텐서](https://bcho.tistory.com/1432)
+* [Pytorch - 선형회귀 (Linear Regression)을 통한 코드 구조 이해](https://bcho.tistory.com/1434)
