@@ -104,6 +104,11 @@ Network
 * [글로벌 게임 퍼블리싱을 위한 해외 유저 테스트 VPN 서비스 - 넷마블 기술 블로그](https://netmarble.engineering/multi-region-vpn-service-for-global-game-publishing)
 * [BringYour VPN Everywhere](https://bringyour.com/blog/visual/)
 * [localhost 의 동작 원리](https://velog.io/@480/localhost-%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+* [Investigation of a Cross-regional Network Performance Issue | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1)
+  * Investigated a cross-regional network performance issue affecting an application with cross-region traffic
+  * The issue was initially blamed on the network, but further investigation found that the client application was terminating the connection after 30 seconds, leading to the problem
+  * The root cause was traced to a recent Linux kernel upgrade, which led to a halving of the receive window size, causing the throughput to be cut in half
+  * The fix involved updating the initial scaling_ratio from 25% to 50%
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
