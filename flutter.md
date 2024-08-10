@@ -78,6 +78,7 @@ Flutter
 * [Snackbar 위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 스낵바를 표시하기 위해 Snackbar 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/snackbar/)
 * [Textfield 위젯 - 이번 블로그 포스트에서는 Flutter에서 사용자 입력을 받기 위한 Textfield 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/textfield/)
 * [Get Sliver Widget Size (Sliver Widget 사이즈 얻어오기)](https://velog.io/@adbr/Get-Sliver-Widget-Size-Sliver-Widget-%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%96%BB%EC%96%B4%EC%98%A4%EA%B8%B0)
+* [addPostFrameCallback, widget이 빌드된 후에 작업이 필요할때 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/87)
 * [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a)
 * [Flutter Tensorflow Tutorial for Beginners](https://morioh.com/p/5f05517a40a4)
 * [구글 플러터의 장점 세가지! - 코딩토크쇼 라이트버그 시즌2 - YouTube](https://www.youtube.com/watch?v=Hck0iWuUv64)
