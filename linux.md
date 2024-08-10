@@ -372,6 +372,7 @@ Linux
 * [VMware를 사용하여 Windows 11에 Ubuntu 22.04 설치하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/2205)
 * [Things To Do After Installing Ubuntu 24.04 LTS - YouTube](https://www.youtube.com/watch?v=3jdy75xQHtQ)
 * [Setup Ubuntu 24.04 LTS, Neovim, Wezterm from scratch for Software Development - YouTube](https://www.youtube.com/watch?v=a28SZdUkpKw)
+* [우분투에서 Rectangle처럼 단축키로 창 배치하는 프로그램 Tactile – 형우의 웹개발](https://mytory.net/archives/16735)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
