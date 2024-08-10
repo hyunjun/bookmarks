@@ -551,6 +551,7 @@ AWS
 * [AWS 환경에서 Overlay IP 주소를 활용한 고가용성 구성 및 MCCS 솔루션을 통한 자동 장애조치 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-overlay-ip-with-mccs/)
 * [AWS App Studio, 자연어 기반 엔터프라이즈급 애플리케이션 구축 도구 (미리보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
   * [Generative AI–powered, low-code application builder – AWS App Studio – AWS](https://aws.amazon.com/appstudio/)
+* [DSRV에서 AWS 서비스를 활용한 안정적인 밸리데이터 노드 운영 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/dsrv-adopting-aws-service-for-pos-blockchain-validators/) IAM KMS S3
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2048,6 +2049,7 @@ AWS
   * [Announcing CDK Migrate: A single command to migrate to the AWS CDK | AWS DevOps Blog](https://aws.amazon.com/ko/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/)
     * [aws-cdk/packages/aws-cdk/README.md at main · aws/aws-cdk](https://github.com/aws/aws-cdk/blob/main/packages/aws-cdk/README.md#cdk-migrate)
   * [AWS CDK를 이용해서 OpenAI Whisper 모델 SageMaker Endpoint에 배포하기 Sungmin Kim on LinkedIn: #sagemakerendpoint #openaiwhisper #stt #asr #cdk](https://www.linkedin.com/posts/sungminkim23_sagemakerendpoint-openaiwhisper-stt-activity-7206188249474625536-Rd0Q)
+  * [Amazon ECS와 AWS Fargate를 사용하여 AWS CDK Python으로 Langfuse 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hosting-langfuse-with-aws-cdk-python-using-amazon-ecs-and-aws-fargate/)
   * [cdk8s](https://cdk8s.io/) helm template 대체 가능한 sdk
     * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
@@ -2383,6 +2385,7 @@ AWS
 * [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
 * [Pulselive, 개인화된 온라인 스포츠 콘텐츠로 고객 참여 확대 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increasing-engagement-with-personalized-online-sports-content/)
 * [Amazon Personalize의 신규기능을 활용한 더 빠르고 정확한 추천서비스 구축하기 – 강정희:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?v=5EkWcIIh6ME)
+* [Amazon Personalize와 Amazon OpenSearch Service를 사용한 AI기반 개인화 검색 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/)
 
 # Polly
 * [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/)
