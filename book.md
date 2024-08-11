@@ -1380,6 +1380,9 @@ Book
   * ★★★☆☆ July 25, 2024, July 28, 2024 딱 내가 좋아하는 스타일의 역사와 여러가지 이야기가 결합된 책. 저자의 약간의 개인 경험과 문화, 예술, 스포츠 등에 대한 여러가지 지식을 합쳐서 재미있게 읽기 편한 역사책
   * 한라 001.3하15ㅇ
   * [TAKE OUT: 유럽역사문명 - 하광용 저자 - YouTube](https://www.youtube.com/watch?v=lYApvdP8SVQ)
+* 나의 첫 지정학 수업
+  * ★★★☆☆ 2024.08.11 10대용 도서이고 지정학보다는 사실상 세계 역사에 가깝다고 생각이 들지만 가볍게 읽기에 좋음
+  * 탐라 문340.98-전17ㄴ 제주 청 340.98-전17지
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
