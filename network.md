@@ -109,6 +109,7 @@ Network
   * The issue was initially blamed on the network, but further investigation found that the client application was terminating the connection after 30 seconds, leading to the problem
   * The root cause was traced to a recent Linux kernel upgrade, which led to a halving of the receive window size, causing the throughput to be cut in half
   * The fix involved updating the initial scaling_ratio from 25% to 50%
+* [ICANN, ".INTERNAL"을 사적 용도 애플리케이션 전용 도메인으로 예약 | GeekNews](https://news.hada.io/topic?id=16257)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -395,6 +396,8 @@ Network
   * [Scapy에 대한 요약 정리](https://chogar.blog.me/80206163869)
   * [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
+* [Stealth - Proton의 새로운 VPN 프로토콜 | GeekNews](https://news.hada.io/topic?id=16250)
+  * [Defeat censorship with Stealth, our new VPN protocol | Proton](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [teler: Real-time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere](https://github.com/KasperskyLab/TinyCheck)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
