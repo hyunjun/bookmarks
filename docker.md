@@ -1429,6 +1429,19 @@ Docker
 * [**초보를 위한 쿠버네티스 안내서 - YouTube**](https://www.youtube.com/playlist?list=PLIUCBpK1dpsNf1m-2kiosmfn2nXfljQgb)
 * [IDG 블로그 | 쿠버네티스가 답이 아닐 때 - ITWorld Korea](https://www.itworld.co.kr/news/180699)
 * [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
+  * Scaling Kubernetes to 7,500 nodes requires careful attention and special care
+  * The upside is a simple infrastructure that allows machine learning research teams to move faster and scale up without changing their code
+  * The workload involves running applications and hardware different from typical companies, with a large machine learning job spanning many nodes and running most efficiently when it has access to all hardware resources on each node
+  * The nature of the work is research, so workloads are ever-changing, and the system needs to be sustainable and responsive to changes
+  * To scale the cluster, the team switched to using the native pod networking technologies and avoided encapsulation to keep the networking setup simple
+  * They also use iptables tagging on the host to track network resource usage per Namespace and pod
+  * The team uses Prometheus to collect time-series metrics and Grafana for graphs, dashboards, and alerts
+  * They have added many of their own dashboards, metrics, and alerts over time
+  * However, they struggled with the sheer amount of metrics being collected by Prometheus and had to "drop" some of these metrics from being ingested
+  * The team also relies on automation to detect and remove misbehaving nodes from the cluster
+  * They have built up a number of healthcheck systems, including passive healthchecks that monitor basic system resources and active GPU tests that exercise GPUs to catch additional problems
+  * In terms of quotas and resource usage, the team has implemented team taints, CPU & GPU balloons, and gang scheduling to fairly run work between competing teams and ensure that all members of a StatefulSet are scheduled before any training can be done
+  * There are still unsolved problems to address as the team scales up their Kubernetes clusters, including managing the sheer amount of metrics collected by Prometheus and exploring new options to increase monitoring capacity
   * [쿠버네티스를 7500노드로 확장하기 | GeekNews](https://news.hada.io/topic?id=3643)
 * [10 awesome Kubernetes tools every user should know | DevNation Tech Talk | Red Hat Developer](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 * [Migrating a gigantic financial system to 20,000 pods in the cloud | by Hubert Słojewski | VirtusLab | Feb, 2021 | Medium](https://medium.com/virtuslab/migrating-a-gigantic-financial-system-to-20-000-pods-in-the-cloud-220d5fcfcbc0)
