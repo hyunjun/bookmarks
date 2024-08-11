@@ -120,6 +120,8 @@ Concurrency
   * [GPU Puzzles - 퍼즐 풀며 CUDA 배우기 | GeekNews](https://news.hada.io/topic?id=6988)
 * [kompute: General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation](https://github.com/KomputeProject/kompute)
   * [Kompute - Vulkan 기반의 CUDA 대체제 | GeekNews](https://news.hada.io/topic?id=15949)
+* [LibreCuda](https://github.com/mikex86/LibreCuda)
+  * [LibreCuda - 독점 런타임없이 Nvidia GPU에서 CUDA 코드를 실행 | GeekNews](https://news.hada.io/topic?id=16238)
 * [resource-stream: CUDA related news and material links](https://github.com/cuda-mode/resource-stream)
 * [Rust-CUDA: Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust](https://github.com/Rust-GPU/Rust-CUDA)
 
