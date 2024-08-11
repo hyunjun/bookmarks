@@ -56,6 +56,8 @@ Robot
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 
 # Library
+* [FarmBot | Open-Source CNC Farming](https://farm.bot/)
+  * [FarmBot - 오픈 소스 농업 로봇 | GeekNews](https://news.hada.io/topic?id=16164)
 * [foros: Failover ROS framework](https://github.com/42dot/foros)
 * [Robocode Home](https://robocode.sourceforge.io/)
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
