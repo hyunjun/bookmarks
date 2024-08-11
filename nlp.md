@@ -363,6 +363,8 @@ NLP
 * [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 * [29 Nov 2023 RLHF Lecture @ Stanford - Google Slides](https://docs.google.com/presentation/d/1T6X8ZlwrBek14wGfKljLxikwkTBDdM88r0AZ6NiodU4/)
   * [Nathan Lambert on LinkedIn: 29 Nov 2023 RLHF Lecture @ Stanford | 12 comments](https://www.linkedin.com/posts/natolambert_29-nov-2023-rlhf-lecture-stanford-activity-7136029436520398849-LQyO)
+* [(1) Andrej Karpathy on X: "# RLHF is just barely RL Reinforcement Learning from Human Feedback (RLHF) is the third (and last) major stage of training an LLM, after pretraining and supervised finetuning (SFT). My rant on RLHF is that it is just barely RL, in a way that I think is not too widely https://t.co/sjRZvqc5KC" / X](https://x.com/karpathy/status/1821277264996352246)
+  * ["RLHF는 RL의 작은 부분일 뿐입니다." - Andrej Karpathy | GeekNews](https://news.hada.io/topic?id=16246)
 * [LLM Finetune vs RLHF](https://bcho.tistory.com/1422)
 * [Tips for LLM Pretraining and Evaluating Reward Models](https://magazine.sebastianraschka.com/p/tips-for-llm-pretraining-and-evaluating-rms) RLHF
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
@@ -986,6 +988,7 @@ NLP
     * [GPTs으로 나만의 Custom GPT 만들기 예제 50](https://mo-ai.notion.site/GPTs-Custom-GPT-50-bbbb8c5e706f402baaa377186550c6a1)
     * [연구용 GPT 만들기 - 논문봇 등 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
     * [문장을 웹소설 스타일의 망가진 체로 바꿔주는 GPTs | GeekNews](https://news.hada.io/topic?id=15499)
+    * [데이터 분석용 GPTs - 플랏봇 | Pega Devlog](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
