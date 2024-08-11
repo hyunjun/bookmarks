@@ -586,6 +586,8 @@ Vision
   * [PyTorchKR에 쓴 개발자의 동기](https://www.facebook.com/groups/PyTorchKR/posts/2456108624528804/)
 * [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
+* [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
+  * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
 * [nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
