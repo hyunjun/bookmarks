@@ -151,6 +151,10 @@ Open Source
 * [**오픈소스답게 소프트웨어 설계하기**](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)
   * `오픈소스는 비즈니스와 독립적으로 구성할수록 범용성을 얻기 때문에, 비즈니스 논리는 최대한 바깥으로 밀어내는 게 좋습니다. 이 점이 오픈소스를 염두에 둔 아키텍처의 가장 큰 차이`
   * `필연적으로 닥쳐올 유지 보수를 염두에 두고 설정 기능을 로직과 명확히 분리해서 만들면 내가 아닌 다른 사람이 설정을 바꾸며 더 오래 쓸 수 있습니다`
+* [The Future of Open Source](https://blog.gitbutler.com/the-future-of-open-source/)
+  * The future of open source software development is a combination of Open Source, Fair Source, and sustainable funding for critical library maintenance
+  * To ensure the sustainability of open source development, consider making your software Fair Source if it's currently closed source, and support the OSS Pledge if you depend on open source software
+  * [JeongHoon Byun - https://blog.gitbutler.com/the-future-of-open-sour... | Facebook](https://www.facebook.com/jeonghoon.byun/posts/pfbid02xMdtR1Sn2oVBjrn2WgktaZgZwaCjXJjHAtysTJs9TxXyDUQBJK3MrzWkauTescq8l)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -348,6 +352,7 @@ Open Source
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
+* fair.io [Software Sharing for Modern Companies | Fair.io](https://fair.io/)
 * f-droid [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/2024/05/24/mobifree.html)
   * [Mobifree 오픈소스 모바일 생태계와 f-Droid의 역할 | GeekNews](https://news.hada.io/topic?id=15086)
 * [FindCollabs: Share Your Projects and Find Collaborators](https://hackernoon.com/findcollabs-share-your-open-source-projects-and-find-collaborators-d0a2bb0fc931)
