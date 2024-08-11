@@ -552,6 +552,12 @@ AWS
 * [AWS App Studio, 자연어 기반 엔터프라이즈급 애플리케이션 구축 도구 (미리보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
   * [Generative AI–powered, low-code application builder – AWS App Studio – AWS](https://aws.amazon.com/appstudio/)
 * [DSRV에서 AWS 서비스를 활용한 안정적인 밸리데이터 노드 운영 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/dsrv-adopting-aws-service-for-pos-blockchain-validators/) IAM KMS S3
+* [Sh... Fail Happens: Fail-aware Events Processing on AWS • Marcin Sodkiewicz • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=eFmpAp9REq0)
+  * The presentation covers event processing on AWS with a focus on failures, chaos engineering, observability, cost awareness, and best practices for implementing resilient consumers
+  * Marcin Sodkiewicz discusses different failure scenarios and provides insights on how to avoid them
+  * The session covers the integration with SQS and Kinesis, monitoring situations, cost management, and chaos engineering
+  * The presentation also includes resources, recommended books, and a Q&A session.
+  * [Sh... Fail Happens Fail-aware Events Processing on AWS • Marcin Sodkiewicz • GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1067704)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
