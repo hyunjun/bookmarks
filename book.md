@@ -1076,6 +1076,10 @@ Book
   * [그 개의 이름은 아무도 모른다 - Jun - Medium](https://nymets.medium.com/%EA%B7%B8-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%84%EB%AC%B4%EB%8F%84-%EB%AA%A8%EB%A5%B8%EB%8B%A4-766b9eec8d69)
   * [그 개의 이름은 아무도 모른다 - Jun’s Substack](https://recur.substack.com/p/410)
   * [그 개의 이름은 아무도 모른다](https://jh4hj.tistory.com/entry/%EA%B7%B8-%EA%B0%9C%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%84%EB%AC%B4%EB%8F%84-%EB%AA%A8%EB%A5%B8%EB%8B%A4)
+* 시베리아의 숲에서
+  * ★★★☆☆ 2024.08.11 찾아보니 역시 원저가 있다. 각종 오지 험지를 전문으로 여행하는데, 바이칼 호의 섬에서 대략 6개월 정도를 지낸 이야기이다. 시간에 대해 쓴 게 가장 마음에 남아 기록해뒀다
+  * 탐라 문868-테55ㅅ
+  * [21세기 데이비드 소로, 실뱅 테송의 시베리아의 숲에서](https://brunch.co.kr/@richboy/231)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
