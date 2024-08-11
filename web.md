@@ -963,6 +963,8 @@ Web
 * [CSS의 5가지 position 속성 값 기본 정리 | 달레의 웹 프로그래밍 - YouTube](https://www.youtube.com/watch?v=PEyp9TBcZ-o)
 * [Inline conditionals in CSS? • Lea Verou](https://lea.verou.me/blog/2024/css-conditionals/)
   * [CSS에 if() 인라인 조건문 추가 예정 | GeekNews](https://news.hada.io/topic?id=15442)
+* [It’s Time To Talk About “CSS5” — Smashing Magazine](https://www.smashingmagazine.com/2024/08/time-to-talk-about-css5/)
+  * [이제 "CSS5"에 대해 이야기할 시간입니다 | GeekNews](https://news.hada.io/topic?id=16247)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
