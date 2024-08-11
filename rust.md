@@ -285,6 +285,8 @@
   * [cel-rust - Rust로 작성된 Common Expression Language 인터 | GeekNews](https://news.hada.io/topic?id=15865)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
+* [Cosmic - System76의 새로운 데스크탑 환경 | GeekNews](https://news.hada.io/topic?id=16243)
+  * [System76 - Linux Laptops, Desktops, and Servers](https://system76.com/cosmic)
 * [cxx: Safe interop between Rust and C++](https://github.com/dtolnay/cxx)
   * [Rust ❤️ C++](https://cxx.rs/)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
