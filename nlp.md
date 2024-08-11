@@ -2836,6 +2836,8 @@ NLP
   * [Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen2)
     * [Hello Qwen2 | Qwen](https://qwenlm.github.io/blog/qwen2/)
     * [Alibaba, Qwen 2 모델 공개 | GeekNews](https://news.hada.io/topic?id=15235)
+    * [Introducing Qwen2-Math | Qwen](https://qwenlm.github.io/blog/qwen2-math/)
+      * [Alibaba, Qwen2-Math 모델 공개 | GeekNews](https://news.hada.io/topic?id=16261)
     * [Arcee-Spark · Hugging Face](https://huggingface.co/arcee-ai/Arcee-Spark)
       * [AGI KR | 🤖 Arcee Spark: 작은 몸집의 AI 괴물 | Facebook](https://www.facebook.com/groups/agikr/posts/2333064283701283/)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
