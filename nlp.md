@@ -2164,6 +2164,8 @@ NLP
   * Self-attention is the core idea behind transformers, which reduces reliance on external information and excels at capturing internal correlations within data or features
   * Transformers are specific with a narrower focus, while LLMs are broad models trained on large amounts of data
 * [RALM: Retriever와 LLM결합 방식에 대한 이론적 토대! | TACL 2023 | 김재희 - YouTube](https://www.youtube.com/watch?v=eYSMUqtljSI)
+* [Think about mid-sized LLM intelligence · The Missing Papers](https://docs.likejazz.com/llm-intelligence/)
+  * [(4) 박상길 - 7B ~ 10B 사이의 중형 모델에 대한 지능 평가 결과를 소개합니다. 이 평가는 영어와 한국어 두 언어를... | Facebook](https://www.facebook.com/likejazz/posts/pfbid025aTaNhPjbsb2yb9HxnKS5gzfkpoypEKriyj6Jc3Wz39robaZ65vigogWigodLbPSl)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
