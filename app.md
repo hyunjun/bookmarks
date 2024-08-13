@@ -491,6 +491,7 @@ App
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [Ladybird](https://ladybird.org/)
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
+  * [Ladybird 브라우저, Swift 언어를 사용하기로 결정 | GeekNews](https://news.hada.io/topic?id=16284)
 * [Luakit Web Browser](https://luakit.github.io/)
   * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
 * [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
