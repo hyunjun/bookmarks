@@ -3437,6 +3437,10 @@ Business
 * [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
 * ['이거 마시면 깃허브 쓰는 거다?' GitHub의 맥주 플러팅🍺](https://eopla.net/magazines/6661) Github이 초기에 사람을 모으기 위해 했던 활동들
 * [거절은 새로운 시작](https://www.thestartupbible.com/2024/04/selling-starts-when-the-buyer-says-no.html)
+* [받는 만큼 일한다는 건 틀린 말입니다.. 영업 초보자를 위한 10계명 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/salesjunior20240222)
+  * [(4) Daero Won - 🚀몇 안되는 스타트업 업계의 B2B 세일즈 전문가, 김진환(Jinhwan Kim) 박사님의 '영업 초보자를 위한 10계명' | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid0257hj2H83zS2w2oqowwgydesJwd9WwJywXbj8ViXbcJcVMFPujVzUNgXX2i3zMpe1l)
+  * [The 9 Worst Sales Mistakes Founders Should Avoid | by Seth DeHart | Point Nine Land | Medium](https://medium.com/point-nine-news/the-9-worst-sales-mistakes-founders-should-avoid-a89a3fe4b4b9)
+* [키맨을 찾아야 합니다.. 시니어 영업사원을 위한 10계명 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/salessenior20240229)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
