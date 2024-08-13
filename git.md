@@ -1284,6 +1284,8 @@ Git
 * [capacitor: A general purpose UI for FluxCD](https://github.com/gimlet-io/capacitor)
   * [Introducing Capacitor, a general purpose UI for Flux | Flux](https://fluxcd.io/blog/2024/02/introducing-capacitor/)
     * GitOps 도구인 Flux가 지금까지는 CLI만 있었지만 이번에 Capacitor라는 GUI를 도입
+* [gitopper: Gitops for non-Kubernetes folks](https://github.com/miekg/gitopper)
+  * [Gitopper - 쿠버네티스 없이 Gitops 하기 | GeekNews](https://news.hada.io/topic?id=16294)
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
