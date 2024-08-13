@@ -5711,6 +5711,8 @@ Programming
 * [Programming Fonts - Test Drive](https://www.programmingfonts.org/)
   * [프로그래밍 폰트 테스트 드라이브 | GeekNews](https://news.hada.io/topic?id=6976)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
+* [Server Mono](https://servermono.com/)
+  * [Server Mono - 타자기, 애플의 SF 모노, CLI에서 영감을 받은 서체 | GeekNews](https://news.hada.io/topic?id=16287)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 * [SUIT](http://sunn.us/suit/)
 
