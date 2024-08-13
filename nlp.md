@@ -2799,6 +2799,8 @@ NLP
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
+* [oscar - Git at Google](https://go.googlesource.com/oscar)
+  * [Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처 | GeekNews](https://news.hada.io/topic?id=16291)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
 * [PaperSorter: Sends alerts to a Slack channel for potentially interesting new articles selected from RSS feeds](https://github.com/ChangLabSNU/PaperSorter)
   * [장혜식 - 논문이 너무 많이 나옵니다. 10년 전에 비해 저널도 많이 늘었지만 특히 프리프린트 때문에 두세배는 더... | Facebook](https://www.facebook.com/hyeshik/posts/pfbid0yTvWKy2w2vmTpuHwdjmHpEZiSJnM6vd5o7Lb1Pjg9oR9RFrf89wtKdtSTFkRxxJkl)
