@@ -1480,6 +1480,8 @@ SQL
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pg-osc: Zero downtime schema changes in PostgreSQL](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
   * [Revolutionizing PostgreSQL Schema Changes with pg_osc - Mydbops | Blog](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
+* [pg_replicate](https://github.com/supabase/pg_replicate)
+  * [pg_replicate - Postgres의 복제를 위한 도구 | GeekNews](https://news.hada.io/topic?id=16300)
 * [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
