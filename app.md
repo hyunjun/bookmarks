@@ -493,6 +493,8 @@ App
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
 * [Luakit Web Browser](https://luakit.github.io/)
   * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
+* [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
+  * [Verso - Servo 웹 엔진 기반 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=16274)
 
 ## Browser Arc
 * [Arc from The Browser Company](https://arc.net/)
