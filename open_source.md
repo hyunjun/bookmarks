@@ -156,6 +156,7 @@ Open Source
   * To ensure the sustainability of open source development, consider making your software Fair Source if it's currently closed source, and support the OSS Pledge if you depend on open source software
   * [JeongHoon Byun - https://blog.gitbutler.com/the-future-of-open-sour... | Facebook](https://www.facebook.com/jeonghoon.byun/posts/pfbid02xMdtR1Sn2oVBjrn2WgktaZgZwaCjXJjHAtysTJs9TxXyDUQBJK3MrzWkauTescq8l)
   * [오픈 소스의 미래 | GeekNews](https://news.hada.io/topic?id=16280)
+  * [GitButler는 이제 Fair Source 입니다 | GeekNews](https://news.hada.io/topic?id=16281)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
