@@ -3878,6 +3878,7 @@ Business
   * They advise founders to be picky about their startup advice and to seek advice from the best sources available
     * even if it means consuming online content
   * [스타트업 전문가의 문제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1050698)
+* [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
