@@ -80,6 +80,7 @@ Redis
   * [풀필먼트 입고 서비스팀에서 분산락을 사용하는 방법 - Spring Redisson - 컬리 기술 블로그](https://helloworld.kurly.com/blog/distributed-redisson-lock/)
   * [DB mysql과 redis에서의 분산락(.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223301787366)
   * [레디스 분산 락 활용사례 | 중복 요청 제한 / 비동기 리프레쉬 캐시 구현 - YouTube](https://www.youtube.com/watch?v=Tspovheq264)
+  * [동시성 문제를 극복해보자 - (feat. DB 락과 Redis 분산락)](https://velog.io/@joshuara7235/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EA%B7%B9%EB%B3%B5%ED%95%B4%EB%B3%B4%EC%9E%90-feat-DB-%EB%9D%BD%EA%B3%BC-Redis-%EB%B6%84%EC%82%B0%EB%9D%BD#-0-%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 1](http://tech.kakao.com/2017/10/23/wcache-1/)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 2](http://tech.kakao.com/2017/10/23/wcache-2/)
 * [Replication](https://redis.io/topics/replication)
