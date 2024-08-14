@@ -1415,6 +1415,8 @@ SQL
   * [Postgres 메모리 설정을 최대한 활용하는 방법 | GeekNews](https://news.hada.io/topic?id=15540)
 * [Maciej Walkowiak | PostgreSQL and UUID as primary key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
   * [PostgreSQL와 UUID를 기본 키로 사용하는 것에 대해 | GeekNews](https://news.hada.io/topic?id=15713)
+* [Full Text Search over Postgres: Elasticsearch vs. Alternatives - ParadeDB](https://blog.paradedb.com/pages/elasticsearch_vs_postgres) FTS
+  * [Postgres에서의 전문 검색: Elasticsearch vs. 대체제들 | GeekNews](https://news.hada.io/topic?id=16311)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1501,6 +1503,8 @@ SQL
 * [postgres: Unmodified Postgres with some useful plugins](https://github.com/supabase/postgres)
   * [유용한 확장을 포함한 Postgres Docker 이미지들 | GeekNews](https://news.hada.io/topic?id=4967)
 * [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
+* [postgres.new: In-browser Postgres with an AI interface](https://supabase.com/blog/postgres-new)
+  * [Postgres.new - AI 인터페이스를 갖춘 브라우저 내 Postgres | GeekNews](https://news.hada.io/topic?id=16310)
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
