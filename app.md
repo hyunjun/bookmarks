@@ -2097,6 +2097,9 @@ App
   * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
   * [리눅스에서 비디오 편집 프로그램 추천 - Shotcut : 클리앙](https://www.clien.net/service/board/cm_linux/15344021)
 * [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) 딥러닝으로 만화에서 텍스트 제거
+* [SponsorBlock: Skip YouTube video sponsors (browser extension)](https://github.com/ajayyy/SponsorBlock)
+  * [SponsorBlock - Skip over YouTube Sponsors - Sponsorship Skipper](https://sponsor.ajay.app/)
+  * [SponsorBlock – 유튜브 스폰서 광고 건너뛰기 기능 확장 | GeekNews](https://news.hada.io/topic?id=16309)
 * [Trangram](https://www.trangram.com/)
   * [Tangram - 웹기반 무료 애니메이션 편집기 | GeekNews](https://news.hada.io/topic?id=13778)
 * VLC
