@@ -588,6 +588,7 @@ AWS
 * [Setup sign-up and sign-in flows for your Flutter app in minutes with AWS Amplify | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/amplify-flutter-authenticator/)
 * [풀 리퀘스트를 위한 웹 미리 보기 - AWS Amplify호스팅](https://docs.aws.amazon.com/ko_kr/amplify/latest/userguide/pr-previews.html) feature branch를 만들고 feature branch를 위한 별도 URL을 만드는 등
 * [AWS amplify로 서버리스 웹 애플리케이션 구축하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230612-aws-amplify-serverless/)
+* [CDN Caching Improvements for Better App Performance with AWS Amplify Hosting | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/cdn-caching-improvements-for-better-app-performance-with-aws-amplify-hosting/)
 
 # API Gateway
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
