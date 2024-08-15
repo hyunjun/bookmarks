@@ -6462,6 +6462,8 @@ Javascript
 * [Typescript로 Local Storage 안전하게 사용하기 | 뱅크샐러드](https://blog.banksalad.com/tech/typescript-local-storage/)
 * [Announcing TypeScript 5.5 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
   * [TypeScript 5.5 릴리즈 | GeekNews](https://news.hada.io/topic?id=15593)
+* [A different way to think about TypeScript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
+  * [**(번역) 타입스크립트에 대한 다른 접근법**](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
