@@ -2005,6 +2005,16 @@ Docker
     * 하지만 모든 파드를 조회해야 했기에 API 응답 속도가 너무 느렸고 클러스터에 큰 부하를 주는 문제
   * 이를 해결하기 위해 Kubernetes의 오브젝트 타임 변경을 알려주는 Informer를 Go로 다시 구축해서 성능 문제 해결
 * [Top 10 k8s Design Patterns](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7223715221947777027-GPt-/)
+* [Kubernetes on VMs vs. Bare Metal: Comparison of Performance | by Make IT Simple | Medium](https://makeitsimple.medium.com/kubernetes-on-vms-vs-bare-metal-comparison-of-performance-674a920b93e4)
+  * This blog post by SmartX SKS Team compares the performance of Kubernetes on VMs (SMTX Kubernetes Services, SKS) and bare-metal servers
+  * The authors conducted tests on stateful and stateless applications, such as MySQL, Redis, Kafka, Nginx, and Online Boutique, under identical configurations
+  * The results show that SKS performs at 82% to 96% of the performance observed in bare-metal Kubernetes deployments
+  * SKS can effectively support containerized applications in enterprises, Dev/Test clusters, and most common application use cases
+  * However, it may not meet the stringent performance requirements of certain applications with a large number of concurrent users
+  * The authors suggest that SKS is well-suited for early and initial stages of containerized application deployment and can support most common application use cases
+  * The performance gap between VM-based and bare-metal-based Kubernetes is expected to be addressed in future versions of SKS
+  * Gartner anticipates that 70% of data center x86 workloads will continue to be deployed in virtualized environments through 2027 due to the benefits of virtualization
+  * Additional information on SKS and VM-based Kubernetes can be found on the SmartX website and in previous blogs
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
