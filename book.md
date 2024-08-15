@@ -1088,6 +1088,9 @@ Book
   * 한라 309.124-쿠894ㅇ 탐라 문340.924-쿠843ㅇ 우당 문340.924-쿠843ㅇ
   * [옥스포드 출신 엘리트들이 영국을 망치고 있다? | 영국, 옥스포드, 엘리트 - YouTube](https://www.youtube.com/watch?v=HV6VsiBNjbg)
   * [책에서 건진 문단 우리는 위대한 지배계급, 규칙 따위 적용되지 않아···‘옥스퍼드 초엘리트’ - 경향신문](https://www.khan.co.kr/culture/book/article/202401051800001)
+  * [옥스퍼드 초엘리트 Oxford](https://github.com/hyunjun/bookmarks/blob/master/books/oxford.md)
+  * [옥스퍼드 초엘리트 Oxford. ★★☆☆☆ August 11, 2024 영국의 브렉시트를 주도한 보수당… | by Jun | Aug, 2024 | Medium](https://nymets.medium.com/%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C-%EC%B4%88%EC%97%98%EB%A6%AC%ED%8A%B8-oxford-0158278cf90e)
+  * [옥스퍼드 초엘리트 Oxford](https://jh4hj.tistory.com/entry/%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C-%EC%B4%88%EC%97%98%EB%A6%AC%ED%8A%B8-Oxford)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
