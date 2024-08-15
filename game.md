@@ -124,6 +124,8 @@ Game
 * [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
   * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
 * [si78c: si78c is a memory accurate reimplementation of Space Invaders in C](https://github.com/loadzero/si78c)
+* [stipple-effect: Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)](https://github.com/jbunke/stipple-effect)
+  * [Stipple Effect – 애니메이션/스크립팅을 지원하는 게임 아트 제작용 픽셀 에디터 | GeekNews](https://news.hada.io/topic?id=16318)
 * [Turing Complete](https://turingcomplete.game/)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
