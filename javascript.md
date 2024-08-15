@@ -3320,10 +3320,19 @@ Javascript
   * fastify/under-pressure로 이벤트 루프 사용률을 지정해서 요청이 몰렸을 때 어떤 차이가 있는지를 보여줌
   * 이러한 결과를 통해 동기식 처리는 이벤트 루프 밖으로 빼고 비동기 호출의 수를 줄이는 방법을 모범 사례로 소개
 * [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
-* [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
-* [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
-  * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
+* [Architecture of Node.js’ Internal Codebase | by Aren Yanqi Li | Yet Another Node.js Blog | Medium](https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f)
+  * [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
+* [JavaScript Marathon: Advanced Node training with James Snell - YouTube](https://www.youtube.com/watch?v=rUFUTdQALrk)
+  * In this training, we will dive deep into the NodeJS internal by learning the Event Loop and the asynchronous model of NodeJS
+  * We will understand Event Emitters and how they power almost everything inside Node, and then we will build on that knowledge to understand what Streams are
+  * Finally, we will move to Promises: the loved and feared NodeJS feature that developers should know
+  * [VidiGo JavaScript Marathon: Advanced Node training with J](https://vidigo.ai//share/summary/777270806328)
+  * [자바스크립트 마라톤 및 노드 교육 소개 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1092822)
+  * [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
+    * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
 * [Node.js Architecture Pitfalls to Avoid | AppSignal Blog](https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html)
+* [Deep Dive into Node.js with James Snell - This Dot Labs](https://www.thisdot.co/blog/deep-dive-into-node-js-with-james-snell)
+  * [번역 James Snell과 함께하는 Node.js 심층 분석](https://velog.io/@surim014/deep-dive-into-node-js-with-james-snell)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [nodejs error handling](http://dev-momo.tistory.com/entry/nodejs-error-handling)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
