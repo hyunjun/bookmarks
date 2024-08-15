@@ -1422,6 +1422,7 @@ App
     * [Laurence Tratt: Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
     * [FFmpeg · Present](https://present.do/documents/636474014e11750badbcb4cc)
     * [개발자가 영상 편집 하는 법..!? - YouTube](https://www.youtube.com/watch?v=z2iodiQW0fg)
+    * [FFmpeg를 사용하여 웹캠 영상을 RTSP 스트리밍하기 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2066)
     * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
