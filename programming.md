@@ -3181,6 +3181,7 @@ Programming
 * [MSA에서 조금 쉽게 트랜잭션(Transaction) 처리하기 - YouTube](https://www.youtube.com/watch?v=U_TvOgZXK8k) Saga, Axon
   * [axon-shoppingmall-compensation](https://github.com/OSC-Korea/axon-shoppingmall-compensation)
 * [크몽 MSA 도입 이야기. 크몽 서버 아키텍처는 어떻게 변화 했을까? | by DanielSeo | May, 2022 | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-msa-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-6c20afe6cc1e)
+* [크몽 백엔드팀의 MSA 전환, 5부 능선 그 언저리에서. 크몽 백엔드팀 MSA 전환, 2년 반의 기록입니다. | by Aaron Sleepy | Aug, 2024 | Medium](https://medium.com/@aaron_sleepy/%ED%81%AC%EB%AA%BD-%EB%B0%B1%EC%97%94%EB%93%9C%ED%8C%80%EC%9D%98-msa-%EC%A0%84%ED%99%98-5%EB%B6%80-%EB%8A%A5%EC%84%A0-%EA%B7%B8-%EC%96%B8%EC%A0%80%EB%A6%AC%EC%97%90%EC%84%9C-55f2865e1a96)
 * [Micro-services - Client Side Discovery - YouTube](https://www.youtube.com/watch?v=Zmk2LZGZ9dE)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * [**How to Test Microservices**](https://semaphoreci.com/blog/test-microservices)
@@ -5576,6 +5577,9 @@ Programming
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
   * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
+* [Plunk | The Open-Source Email Platform](https://www.useplunk.com/)
+  * [plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk)
+  * [Plunk - 오픈소스 이메일 플랫폼 | GeekNews](https://news.hada.io/topic?id=16319)
 * [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
   * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
 
