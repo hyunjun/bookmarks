@@ -564,6 +564,11 @@
   * [Ktor REST Apis - Integrating SQL Database using Ktorm | by Saurabh Pant | Sep, 2022 | Dev Genius](https://blog.devgenius.io/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
   * [Create a Kotlin/Native Web Server With Ktor and SQLDelight PostgresSQL | by Jonas TM | Nov, 2022 | Better Programming](https://betterprogramming.pub/create-a-kotlin-native-web-server-with-ktor-and-sqldelight-postgressql-44485267c340)
   * [Spring 공화국에서 Ktor 사용하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/spring-and-ktor/)
+  * [Using Ktor 3.0 with All the Shiny Things • Garth Gilmour • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=rc103BoTGqA)
+    * This presentation covers Ktor 3.0 and its various features, including testing, dependency injection, GraphQL, WebSockets, Kotlin Multiplatform, OpenTelemetry, and more
+    * the talk aims to showcase the advanced functionality that Ktor can provide
+    * The presentation includes a case study and demonstrates how to add different features to the case study
+    * [VidiGo Using Ktor 3.0 with All the Shiny Things • Garth G](https://vidigo.ai/share/summary/44129a1b5a5f)
 * MockK [코틀린 mock 프레임워크 MockK 소개](https://javacan.tistory.com/entry/kotlin-mock-framework-mockk-intro)
 * [parsix: Parse, don't validate](https://github.com/parsix/parsix)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
