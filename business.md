@@ -677,6 +677,7 @@ Business
 * [헌신](https://www.thestartupbible.com/2023/01/on-dedication.html) 루틴 관련 이야기
 * [직원들에게 효과적으로 포상 주는 핵심방법 3가지 포인트 |](http://www.casenews.co.kr/news/articleViewAmp.html?idxno=4302)
 * [회사가 말해주지 않는 승진의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241768)
+* [커리어노트 140 승진의 평가 기준 : 네이버 블로그](https://blog.naver.com/junedec369/223544076874?)
 * [회사 성과는 좋았는데, 인센티브는 왜 이 정도? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/why-this-is-incentives/)
 * [지나친 경쟁은 혁신을 방해하는가?](https://brunch.co.kr/@graypool/103)
 * [좋은 제품관리자 vs 나쁜 제품관리자](https://brunch.co.kr/@graypool/72)
@@ -1659,6 +1660,7 @@ Business
   * [Pattern Breakers: How to find a breakthrough startup idea - Mike Maples, Jr 사본 - Google Docs](https://docs.google.com/document/d/13gDsZZOxxHTwPPatJl2OwtN-Zr0yHb9SNXom_zH7V9U/)
   * [패턴 브레이커](https://brunch.co.kr/@yongjinjinipln/150)
 * [서비스 개발 아이디어를 얻는 소소한 팁 & 경험담](https://soulduse.tistory.com/144)
+* [AI와 노코드 툴로 빠르게 SaaS 아이디어 검증하는 법](https://eopla.net/magazines/19895)
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
