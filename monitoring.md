@@ -403,6 +403,7 @@ Monitoring
   * [opentelemetry-with-scala-futures: Example Play Scala application with OpenTelemetry instrumentation and detailed walkthrough](https://github.com/wsargent/opentelemetry-with-scala-futures)
   * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
     * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
+    * [Publishing test traces to Grafana using otel4s and weaver | Maksym Ochenashko](https://ochenashko.com/otel4s-test-traces-grafana/)
   * [Phoenix](https://phoenix.arize.com/)
 * [qryn: Lightweight, Polyglot, Snap-on Observability Stack. Drop-in Compatible with Loki, Prometheus, Tempo, Pyroscope, Opentelemetry and more! Vendor independent LGTM replacement and Splunk/Datadog/Elastic alternative! WASM powered ⭐️ Star to Support](https://github.com/metrico/qryn)
   * [Kubernetes Korea Group | 안녕하세요, 오늘은 옵저버빌리티 관련 오픈소스 하나를 소개 드립니다 | Facebook](https://www.facebook.com/groups/k8skr/posts/3855914668023511/)
