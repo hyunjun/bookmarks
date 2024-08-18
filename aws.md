@@ -428,6 +428,7 @@ AWS
 * [AWS Graviton Fast Start – 그라비톤 기반 완전 관리 서비스 이전 지원 프로그램 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 * [AWS Graviton3 기반 범용(M7g) 및 메모리 최적화(R7g) EC2 인스턴스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
 * [1년 동안 Workload의 절반을 ARM64로 Migration하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/07/25/migrate-half-of-workload-in-a-year.html) graviton
+* [AWS CloudFormation을 활용하여 AWS Graviton에 Android Automotive OS 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploy-android-automotive-on-aws-graviton-using-aws-cloudformation/)
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
@@ -703,6 +704,7 @@ AWS
 * [Amazon Bedrock을 이용해 RAG, Fine tuning 없이 자동 고객 응대 서비스 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-cs-bot-without-rag/)
 * [Amazon Bedrock 기반 미리캔버스 디자인 템플릿 추천 챗봇 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-miri-canvas-design-template-chatbot/)
 * [Amazon Bedrock으로 Multi Modal 문서에 대해 RAG 적용 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-multi-modal-document-rag/)
+* [Amazon Bedrock과 OpenSearch를 활용한 Multimodal RAG 기반 상품 검색 챗봇 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-multimodal-rag-chatbot/)
 * [Amazon Bedrock의 파운데이션 모델을 활용한 효과적인 PDF 파싱을 위한 프롬프트 엔지니어링 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-claude3-parsing/)
   * Amazon Bedrock의 파운데이션 모델을 활용한 효과적인 PDF 파싱을 위한 프롬프트 엔지니어링 기법
   * 이 블로그에서는 XML 태그 활용 방법을 포함하여 프롬프트 엔지니어링 기법 설명
@@ -1180,6 +1182,7 @@ AWS
 * [Amazon DynamoDB 비용 최적화 방법에 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
 * [Amazon DynamoDB의 서비스 오픈 전 체크포인트와 오픈 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dynamodb-service-open-before-checkpoint-openstrategy/)
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part1/)
+* [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part2/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
@@ -2060,6 +2063,7 @@ AWS
   * [AWS CDK를 활용한 OpenAI Whisper 모델 Amazon SageMaker Endpoint 배포 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-deploy-whisper-on-sagemaker-endpoint-using-aws-cdk/)
     * [LinkedIn Sungmin Kim 페이지: AWS CDK를 활용한 OpenAI Whisper 모델 Amazon SageMaker Endpoint 배포 자동화 | Amazon…](https://www.linkedin.com/posts/sungminkim23_aws-cdk%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-openai-whisper-%EB%AA%A8%EB%8D%B8-amazon-sagemaker-activity-7226455103174496256-CJ-b)
   * [Amazon ECS와 AWS Fargate를 사용하여 AWS CDK Python으로 Langfuse 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hosting-langfuse-with-aws-cdk-python-using-amazon-ecs-and-aws-fargate/)
+  * [AWS 분석 서비스를 활용하여 SaaS 미터링 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/saas-metering-system-with-aws/)
   * [cdk8s](https://cdk8s.io/) helm template 대체 가능한 sdk
     * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
