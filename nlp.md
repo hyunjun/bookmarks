@@ -2279,6 +2279,8 @@ NLP
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
 * [grok-1: Grok open release](https://github.com/xai-org/grok-1)
   * [Open Release of Grok-1](https://x.ai/blog/grok-os)
+  * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
+    * [Grok-2 베타 릴리즈 | GeekNews](https://news.hada.io/topic?id=16333)
 * [GroqChat](https://groq.com/)
   * [Groq Labs LPU ( Language Processing Unit ) Chip Insane LLM Inference Speed - YouTube](https://www.youtube.com/watch?v=4Tjeb6Kk1H8)
   * [Groq_API_LangChain.ipynb - Colab](https://colab.research.google.com/drive/1boaH7FMRUD3xE2rpmWvJMwVue1GcoUWi)
