@@ -1804,6 +1804,7 @@ Docker
     * 정책 위반 파드를 거부하는 Enforce
     * 허용은 하지만 로그 이벤트에 기록하는 Audit
     * 허용하지만 사용자에게 경고하는 Warn 제어 모드 사용 가능
+* [Kubernetes 최신 보안 트렌드 5가지 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/08/14/k8s-trends/)
 * [How does Kubernetes work internally? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/how-does-kubernetes-work-internally-702b5d16c6ef)
 * [Elevating your Kubernetes Cluster’s Resilience: Pod Disruption Budget | by Arie Bregman | Medium](https://medium.com/@bregman.arie/elevating-your-kubernetes-clusters-resilience-pod-disruption-budget-43979a1cf104)
   * Kubernetes에서 Pod의 안정성을 확보하기 위해 Pod Disruption Budget(PDB) 사용 가능
@@ -2507,6 +2508,11 @@ Docker
 * [StormForge Optimize](https://docs.stormforge.io/)
   * [How to Optimize Java Apps on Kubernetes  – The New Stack](https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/)
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공
+* [Talos Linux](https://www.talos.dev/)
+  * [K3s vs. Talos Linux: What’s the Difference? - Civo.com](https://www.civo.com/blog/k3s-vs-talos-linux)
+  * [K3s vs Talos Linux](https://www.cloudraft.io/blog/k3s-vs-talos-linux)
+  * https://www.siderolabs.com/wp-content/uploads/2022/07/Sales-Deck.pdf
+  * [Kubernetes 새로운 패러다임, Talos Linux 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/08/14/introducing-talos/)
 * [Tekton](https://tekton.dev/) 원래 Knative의 '빌드' 구성요소였다가 독립형 제품이 되면서 이름 변경
   * [Cloud Native Continuous Delivery on Kubernetes with Tekton](https://www.infoq.com/presentations/tekton-cloud-native/)
   * [Canary Release on Kubernetes with Knative and Tekton - Piotr's TechBlog](https://piotrminkowski.com/2022/03/29/canary-release-on-kubernetes-with-knative-and-tekton/)
