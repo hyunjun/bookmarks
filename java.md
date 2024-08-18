@@ -2697,6 +2697,7 @@ Java
 * [실무에서 적용하는 테스트 코드 작성 방법과 노하우](https://springcamp.ksug.org/2023/static/media/track5.bcd17e0f4a3f0d8fb98b.pdf)
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code/)
   * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code-part-2/)
+  * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 3: Given 지옥에서 벗어나기 - 객체 기반 데이터 셋업의 한계 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/given-test-code/)
 * [테스트 데이터 초기화에 @Transactional 사용하는 것에 대한 생각](https://jojoldu.tistory.com/761)
 * [테스트가 관리하는 트랜잭션 - 향로 님의 @Transactional 글을 읽고](https://tobyepril.tistory.com/8)
   * 스프링에서 `@Transactional`을 이용한 롤백 테스트에 대한 향로님의 글에 대해 토비님 의견
