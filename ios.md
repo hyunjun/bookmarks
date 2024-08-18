@@ -20,6 +20,7 @@ iOS
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
+* [iOS에서 카메라 캡처 | Joohee Kim's Blog](https://imjhk03.github.io/posts/ios-camera-capture/)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
 * [3D Touch Canvas - a demo for 3D Touch on Mobile Safari on iPhone 6S and 6S Plus](https://github.com/cheeaun/3d-touch-canvas)
 * [오토 레이아웃 줌 애니메이션](http://lifetimecoding.me/2015/12/31/%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA-%E1%84%8C%E1%85%AE%E1%86%B7-%E1%84%8B%E1%85%A2%E1%84%82%E1%85%B5%E1%84%86/)
@@ -182,6 +183,7 @@ iOS
 * [TCA 1.0 - Navigation (ch.08) :: iOYES](https://green1229.tistory.com/451)
 * [TCA 1.0 - Testable Code (ch.09) :: iOYES](https://green1229.tistory.com/452)
 * [TCA - Dependency 설계 :: iOYES](https://green1229.tistory.com/485)
+* [TCA - Shared State :: iOYES](https://green1229.tistory.com/496)
 * [iOS Core Data HeavyWeight 마이그레이션 실패기 | by Lee Di | DelightRoom | Feb, 2024 | Medium](https://medium.com/delightroom/ios-core-data-heavyweight-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%8C%A8%EA%B8%B0-0ee5b13a2d67)
 * [Meet the Screen Time API (WWDC21) :: iOYES](https://green1229.tistory.com/456)
 * [What's new in Screen Time API (WWDC 22) :: iOYES](https://green1229.tistory.com/457)
@@ -661,6 +663,7 @@ iOS
 * [What's new in Xcode 16 (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/497)
 * [What’s new in Swift](https://wlaxhrl.tistory.com/93)
 * [What’s new in App Store Connect](https://wlaxhrl.tistory.com/94)
+* [What's new in App Store Connect (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/498)
 * [A Swift Tour: Explore Swift’s features and design](https://wlaxhrl.tistory.com/95)
 * [Consume noncopyable types in Swift](https://wlaxhrl.tistory.com/96)
 * [Migrate your app to Swift 6 (추천세션!)](https://wlaxhrl.tistory.com/97)
@@ -668,6 +671,7 @@ iOS
 * [Explore Swift performance](https://wlaxhrl.tistory.com/99)
 * [Analyze heap memory](https://wlaxhrl.tistory.com/100)
 * [Discover media performance metrics in AVFoundation](https://wlaxhrl.tistory.com/101)
+* [Swift 6 - sending parameter and result values :: iOYES](https://green1229.tistory.com/499)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
