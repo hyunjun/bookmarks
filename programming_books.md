@@ -956,6 +956,14 @@ Programming Books
   * [멀티모달 생성 AI 인사이드. 소제목에서도 드러나지만, 기술 서적은 아니고 AI의 전반적인 개념부터… | by Jun | Mar, 2024 | Medium](https://nymets.medium.com/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-ai-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-95b959164b50)
   * [멀티모달 생성 AI 인사이드 - Jun’s Substack](https://recur.substack.com/p/ai-ee7)
   * [멀티모달 생성 AI 인사이드](https://jh4hj.tistory.com/entry/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%83%9D%EC%84%B1-AI-%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
+* 25가지 문제로 배우는 LLM 입문 with 파이썬
+  * [25가지 문제로 배우는 LLM 입문 with 파이썬. 이런 입문서를 표방하는 책은 크게 두 가지로 볼 수 있다. 정말… | by Jun | Aug, 2024 | Medium](https://nymets.medium.com/25%EA%B0%80%EC%A7%80-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-llm-%EC%9E%85%EB%AC%B8-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC-7b8a0f021829)
+  * [25가지 문제로 배우는 LLM 입문 with 파이썬 - Jun’s Substack](https://recur.substack.com/p/25-llm-with)
+  * [25가지 문제로 배우는 LLM 입문 with 파이썬](https://jh4hj.tistory.com/entry/25%EA%B0%80%EC%A7%80-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-LLM-%EC%9E%85%EB%AC%B8-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+  * [book5/Book5_1.ipynb at main · jasonyim2/book5](https://github.com/jasonyim2/book5/blob/main/Book5_1.ipynb)
+  * Tip github.com → colab.research.google.com/github
+    * https://github.com/jasonyim2/book5/blob/main/Book5_1.ipynb
+    * https://colab.research.google.com/github/jasonyim2/book5/blob/main/Book5_1.ipynb
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
