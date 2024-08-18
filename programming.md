@@ -5721,6 +5721,8 @@ Programming
   * [Server Mono - 타자기, 애플의 SF 모노, CLI에서 영감을 받은 서체 | GeekNews](https://news.hada.io/topic?id=16287)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 * [SUIT](http://sunn.us/suit/)
+* [typlr.app — web based font editor. Make your fonts online](https://typlr.app/)
+  * [Typlr - 웹브라우저 만으로 폰트 만들기 | GeekNews](https://news.hada.io/topic?id=16341)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -6754,6 +6756,7 @@ Programming
   * [7월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/07/b-7-4.html)
   * [7월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-7-5.html)
   * [8월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-1.html)
+  * [8월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
