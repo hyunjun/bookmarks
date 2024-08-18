@@ -2311,6 +2311,12 @@ Java
 * [Spring ReactiveCrudRepository를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/329)
 * [미니컨 스프링 이벤트를 사용해보자 - F-Lab 루카 - YouTube](https://www.youtube.com/watch?v=2Hq9htCE0vA)
 * [스프링 AI 간단히 테스트하기 - YouTube](https://www.youtube.com/watch?v=C5hjgzL7jKI)
+* [Bottom-up Architecture: Bridging the Architecture-Code Gap • Oliver Drotbohm • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=LkVIpwHcknE)
+  * This presentation explores strategies for transferring architectural ideas and design pattern languages into code
+  * The talk covers various levels of abstraction, tools, and frameworks in the Java ecosystem, and discusses the importance of making code more maintainable and less susceptible to degradation over time
+  * The speaker also shares practical examples and recommendations for books related to software architecture
+  * [VidiGo Bottom-up Architecture: Bridging the Architecture-](https://vidigo.ai/share/summary/6c600c87ec73)
+  * [스프링 데이터 및 아키텍처 추상화 이해하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106420)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
