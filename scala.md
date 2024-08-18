@@ -248,6 +248,7 @@ Scala
 * [Effective Error Handling](https://invariant.blog/error-handling)
 * [A Manifesto for Error Management](https://invariant.blog/error-handling-2)
 * [Migrating to Safety](https://invariant.blog/error-handling-3/)
+* [The Mechanics of Mitigation](https://invariant.blog/error-handling-4) mend within
 * [Handling errors in direct-style Scala](https://softwaremill.com/handling-errors-in-direct-style-scala/)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
@@ -939,6 +940,7 @@ Scala
   * [Implicit parameters when to use them? Part 1 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-1/)
   * [Implicit parameters when to use them? Part 2 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-2/)
   * [The compilation cost of implicits | Typo](https://oyvindberg.github.io/typo/blog/the-cost-of-implicits/)
+  * [ZIO-like dependency injection using implicit resolution](https://gist.github.com/johnhungerford/cc22eb5b23c7407aa45479a845a7ead8)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1725,6 +1727,9 @@ Scala
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [desert: desert: Home](https://blog.vigoo.dev/desert/)
   * [desert part 1 - features](https://blog.vigoo.dev/posts/desert-1/)
+* [Decisions4s | Decisions4s](https://business4s.github.io/decisions4s/)
+  * [decisions4s: Simple, Business-friendly Decisions Engine for Scala](https://github.com/business4s/decisions4s)
+  * [Announcing Decisions4s: When Ifs Are Not Enough | by Voytek Pituła | Business4s Blog | Aug, 2024 | Medium](https://medium.com/business4s-blog/announcing-decisions4s-when-ifs-are-not-enough-30a2071a5f27)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * [ducktape: Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔](https://github.com/arainko/ducktape)
@@ -2489,6 +2494,7 @@ Scala
 * [Scala 3 migration: 7 benefits that outweigh the risks - VirtusLab](https://virtuslab.com/blog/scala-3-migration-benefits-risks/)
 * [Two More Old Cents on Scala 3 Migration //](https://blog.fanf.eu/posts/two-more-old-cents-on-scala-3-migration/)
 * [Scala 3: My migration journey | The Scala Programming Language](https://scala-lang.org/blog/2024/01/23/migration-to-scala-3.html)
+* [Scala Space Podcast: Scala 3 Migrations - YouTube](https://www.youtube.com/watch?v=KOeOmKncna4)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
@@ -2633,6 +2639,7 @@ Scala
 * [ten things I like about Scala 3 · eed3si9n](https://eed3si9n.com/10things/)
 * [Discover SiriusXM new streaming platform with Luka Jacobowitz and Damian Mazurkiewicz - YouTube](https://www.youtube.com/watch?v=28-vW-EQN2k)
 * [Eric Torreborre on X: "#YAML as valid #scala3 code (via @chrislpenner) https://t.co/IwUfXw8pZ7" / X](https://x.com/etorreborre/status/1806312135053468079)
+* [2311.11105 State of structural typing support in Scala 3.3.0](https://arxiv.org/abs/2311.11105)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
