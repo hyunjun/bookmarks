@@ -3655,6 +3655,7 @@ Javascript
 * [Node 22.5.0, sqlite 를 내장하고 Websocket 지원 | GeekNews](https://news.hada.io/topic?id=16013)
 * [Node의 SQLite 지원 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/915)
 * [Node.js, Typescript 파일 실행을 시험적 기능으로 추가 | GeekNews](https://news.hada.io/topic?id=16017)
+* [Node.js 라이브러리 배포 파이프라인에 플러그인 시스템 도입기](https://toss.tech/article/nodejs_pipeline_plugin)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4912,6 +4913,7 @@ Javascript
   * React Server Component 개념 가장 쉽게 정리
     * RSC를 설명하기 전에 SSR, Concurrent, Streaming SSR, Suspense를 설명하고 왜 RSC가 필요했고 RSC가 무엇인지
     * 그로 인해 얻을 수 있는 부분과 어려워지는 부분까지 설명
+* [입사 1개월차 프론트엔드 개발자의 자체 기술 온보딩 : Streaming SSR편 | by Lydia | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%EC%9E%85%EC%82%AC-1%EA%B0%9C%EC%9B%94%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%90%EC%B2%B4-%EA%B8%B0%EC%88%A0-%EC%98%A8%EB%B3%B4%EB%94%A9-streaming-ssr%ED%8E%B8-aabaee57f660)
 * [Devtools for React Server Components](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
   * RSC(React Server Component) payload를 네트워크 탭에서 보면 구조를 파악하기 힘듦. RSC Devtools은 RSC payload를 시간대별로 탐색, 분석할 수 있도록 도움. chrome extension 형태의 비공식 Devtool
 * [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
