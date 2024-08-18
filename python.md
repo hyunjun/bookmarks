@@ -530,6 +530,11 @@ Python
     * 인터프리터 루프는 해석한 뒤 실행하는 두 가지 과정을 거치는데 copy-and-patch JIT은 각 명령의 인스트럭션을 복사한 뒤에 바이트 코드 인수를 채우는(patch) 방식으로 진행
     * copy-and-patch JIT을 선택한 이유는 일반 Python 사용자가 이를 실행할 일은 없고 CPython을 빌드하고 패키징하는 CI 머신에서 LLVM JIT 도구만 설치하면 되기 때문
     * 초기 벤치마크에서는 2~9%의 성능 향상이 있는데 이 결과가 작아 보일 수 있으나 최적화 작업의 첫 단계로 생각하면 됨
+* [How Much FASTER Is Python 3.13 Without the GIL? - YouTube](https://www.youtube.com/watch?v=zWPe_CUR4yU)
+  * Python 3.13에서 GIL(Global Interpreter Lock)이 선택적으로 사용 가능하게 되었다는 내용
+  * 이로 인해 발생할 수 있는 위험 요소들도 함께 언급
+  * GIL은 Python의 메모리 관리를 위한 것이지만, 이로 인해 여러 CPU 코어를 활용할 수 없는 단점
+  * GIL을 비활성화했을 때 발생할 수 있는 위험 요소들과 함께, GIL이 선택적으로 사용 가능해진 이유와 앞으로의 계획에 대해 설명
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 
