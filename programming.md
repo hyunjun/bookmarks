@@ -1588,6 +1588,9 @@ Programming
   * 9. EDA (Event-Driven Architecture)
   * 10. EDI (Electronic Data Interchange)
   * 11. SSE (Server-Sent Events)
+* [Building Software Better: API Lifecycle Management for Developers • Erik Wilde • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=KLYkvRbtCIk)
+  * [VidiGo Building Software Better: API Lifecycle Management](https://vidigo.ai/share/summary/c05120704c2a)
+  * [소프트웨어 구축 및 API 최적화 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106534)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2724,6 +2727,13 @@ Programming
       * 외부 의존성을 줄여 팀이 신속하게 배포하고 피드백 획득 용이
       * 문제가 발생했을 때 최소한의 단위로 고장나도록 설계하여 빠르게 복구 가능
   * [이벤트 중심 아키텍처가 잘못되는 이유와 이를 해결하는 방법 - Matthew Meckes - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1002257)
+* [Shifting Gears: From Events to Event-Driven • Ryan Cormack • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=1dWJO31wpV8)
+  * Ryan Cormack presented on transitioning from a highly coupled and synchronous system to an event-driven one
+  * He discussed the key differences between a system with messages and an event-driven system, and how Motorway identified domain boundaries and defined asynchronous APIs
+  * The talk covered how Motorway delivered the first event-driven system in a matter of weeks in a decoupled and isolated way, and the benefits they have seen since making the transition
+  * The presentation also highlighted the changes made across the organization to accommodate the shift to an event-driven architecture
+  * [VidiGo Shifting Gears: From Events to Event-Driven • Ryan](https://vidigo.ai/share/summary/8ea87ed8f1bf)
+  * [이벤트 중심 시스템으로의 전환 과정 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106476)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -5724,6 +5734,8 @@ Programming
 * [SUIT](http://sunn.us/suit/)
 * [typlr.app — web based font editor. Make your fonts online](https://typlr.app/)
   * [Typlr - 웹브라우저 만으로 폰트 만들기 | GeekNews](https://news.hada.io/topic?id=16341)
+* [GlyphDrawing.Club -blog](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+  * [구문 강조 기능을 내장한 폰트 | GeekNews](https://news.hada.io/topic?id=16323)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
