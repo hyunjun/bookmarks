@@ -622,6 +622,7 @@ Python
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 - Morgenrøde](https://ryanking13.github.io/2021/03/04/python-patma.html)
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 | GeekNews](https://news.hada.io/topic?id=3848)
 * [파이썬 함수, 모듈, 패키지의 차이점 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/function-module-package/)
+* [AI Convergence :: Python 패키지와 모듈 범위](https://mobicon.tistory.com/622)
 * [From Functions to Python Package. Learn from the scratch about how to… | by Arafath Hossain | Apr, 2022 | Better Programming](https://betterprogramming.pub/from-functions-to-python-package-f8a3bba8bb6b)
 * [파이썬 코드의 아주 사소하고 미묘한 성능 개선.. : 네이버블로그](https://blog.naver.com/vwjdalsgkv/222334032772)
 * [**알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 - Morgenrøde**](https://ryanking13.github.io/2021/06/10/python-commandline-scripts.html) 다양한 `python -m ...` commands
@@ -641,6 +642,7 @@ Python
   * [`Developer-Samples/Blog/performant_upload` at master · dropbox/Developer-Samples](https://github.com/dropbox/Developer-Samples/tree/master/Blog/performant_upload)
 * [20 Python Gem Libraries Buried In the Installation Waiting To Be Found | by Bex T. | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15)
 * [AI Convergence :: Python docstring 스펙](https://mobicon.tistory.com/608)
+* [AI Convergence :: Python classmethod에서 cls로 감싸 반환하기](https://mobicon.tistory.com/618)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -663,6 +665,7 @@ Python
   * [**파이썬에서 arguments로** \***(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
   * [What Are \*args and \*\*kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
   * [\*args & \*\*kwargs in Python. What do they do ? | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/args-kwargs-in-python-8d483f9f253e)
+  * [AI Convergence :: Python 함수 정의시 * 인수 사용법](https://mobicon.tistory.com/621)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -889,6 +892,7 @@ Python
   * [파이썬 성능최적화 : sorted dict array 순회 로직 - YouTube](https://www.youtube.com/watch?v=JywTBamsNGA)
   * [Better dict for configuration – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4631)
   * [파이썬 ordereddict 클래스가 dict와 어떻게 다른지 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2024/01/24/%ed%8c%8c%ec%9d%b4%ec%8d%ac-ordereddict-%ed%81%b4%eb%9e%98%ec%8a%a4%ea%b0%80-dict%ec%99%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%8b%a4%eb%a5%b8%ec%a7%80-%ec%95%8c%ec%95%84%eb%b4%85%ec%8b%9c%eb%8b%a4/)
+  * [AI Convergence :: Python 여러 Dictionary 병합하기](https://mobicon.tistory.com/619)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * encoding
@@ -1044,6 +1048,7 @@ Python
   * [Python StringIO and BytesIO Compared With Open() | by Siddharth Kshirsagar | The Startup | Medium](https://medium.com/swlh/python-stringio-and-bytesio-compared-with-open-c0e99b9def31)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
+  * [AI Convergence :: Python Union 과 isinstance 사용법](https://mobicon.tistory.com/620)
 * itertools
   * [데이터 분석에 피가 되는 itertools 익히기](http://hamait.tistory.com/803)
   * [You (Probably) Don’t Need For-Loops](https://medium.com/python-pandemonium/never-write-for-loops-again-91a5a4c84baf)
@@ -5700,6 +5705,7 @@ Python
     * [VidiGo Pydantic Data Validation & Python Web Security Pra](https://vidigo.ai/share/summary/5f47218e1e69)
     * [파이다틱 데이터 유효성 검사 및 파이썬 웹 보안 사례 | 실제 파이썬 팟캐스트 #202 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/551948)
   * [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/)
+  * [AI Convergence :: Python Pydantic 의 BaseModel 클래스 사용](https://mobicon.tistory.com/627)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
