@@ -574,6 +574,8 @@ Functional Programming
   * [practice/python/test-monad](https://github.com/hyunjun/practice/tree/master/python/test-monad)
 * [Monads in Python. A simple implementation of the Failure… | by Martin McBride | The Startup | Medium](https://medium.com/swlh/monads-in-python-e3c9592285d6)
   * [practice - failure.py](https://github.com/hyunjun/practice/blob/master/python/test-monad/failure.py)
+* [7 Functional Programming Techniques EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=Rp9Ha0rVM1w)
+  * [examples/2024/func at main · ArjanCodes/examples](https://github.com/ArjanCodes/examples/tree/main/2024/func)
 * [pampy: Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
   * [Pampy: Pattern Matching for Python](https://pythonawesome.com/pampy-pattern-matching-for-python/)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
