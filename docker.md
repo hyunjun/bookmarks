@@ -1657,6 +1657,7 @@ Docker
   * antiaffinity는 같은 레이블을 가진 Pod을 다른 노드에 배치되도록 하고 topology spread constrains는 클러스터 전체에 Pod이 확산하는 정책 결정 가능
   * 이 둘은 스케줄링할 때만 결정하기 때문에 이미 스케쥴링되었다면 조정하기 위해서 수동 재시작 필요
   * 동적으로 Pod을 재조정하려면 Descheduler를 사용해서 계속 조정되게 가능
+* [쿠버네티스에서 파드를 분산 처리하기 위한 토폴로지 분배 제약 조건 활용 사례 소개](https://techblog.lycorp.co.jp/ko/using-topology-spread-constraints-to-spread-out-pods)
 * [Do you really need Kubernetes? | InfoWorld](https://www.infoworld.com/article/3527217/do-you-really-need-kubernetes.html)
 * [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
