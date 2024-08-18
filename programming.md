@@ -4463,6 +4463,7 @@ Programming
   * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
     * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
 * InfCon
+  * [INFCON 2024 후기 ✨](https://donghun.dev/INFCON-2024-REVIEWS)
   * [인프콘 후기 2024 INFCON](https://yeonyeon.tistory.com/338)
   * [2023 인프콘 회고](https://jojoldu.tistory.com/736)
   * [인프콘 2022 다시보기 - 인프런 | 강의](https://www.inflearn.com/course/infcon2022)
@@ -6939,6 +6940,7 @@ Programming
   * [기술 뉴스 #249 : 24-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1726)
   * [기술 뉴스 #250 : 24-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1729)
   * [기술 뉴스 #251 : 24-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1731)
+  * [기술 뉴스 #252 : 24-08-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1732)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
