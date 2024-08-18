@@ -1613,6 +1613,7 @@ Web
     * [이용자 앱 구현](https://puddingcamp.com/page/3634ccee-010c-4d4d-992f-c5cb52490ed4)
     * [할 일 폼으로 저장하기](https://puddingcamp.com/page/ca9c1aab-a128-48a5-90b0-effa02788610)
     * [파일 업로드 처리](https://puddingcamp.com/page/c21e058e-0847-434f-bc47-678260d7f2ab)
+  * [Debug FastAPI and SQLModel with VS Code and Breakpoints - YouTube](https://www.youtube.com/watch?v=X3SgEXhX11w)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
