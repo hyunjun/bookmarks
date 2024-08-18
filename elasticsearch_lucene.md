@@ -402,6 +402,7 @@ ElasticSearch - Lucene
 * [정보 검색(Information Retrieval) 평가 방법: MAP, MRR, DCG, NDCG - 모두의연구소](https://modulabs.co.kr/blog/information-retrieval-map-ndcg/)
 * [검색엔진의 Analyzer, 형태소분석기 ≠ 토크나이저. 검색엔진의 ‘Analyzer’라는 모듈을 살펴보고, 이와 관련하여… | by Seunghan Jung | May, 2024 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-analyzer-%ED%98%95%ED%83%9C%EC%86%8C%EB%B6%84%EC%84%9D%EA%B8%B0-%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80-5878af195d14)
 * [Elasticsearch 병렬 테스트를 향한 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18486/)
+* [(youtube)도메인 정의부터 시작하는 검색 개발. 도메인 핵심 정의를 시작으로 리팩토링 작업 및 속성 패싯 자동 추출… | by 29CM | 29CM TEAM | Aug, 2024 | Medium](https://medium.com/29cm/youtube-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B0%9C%EB%B0%9C-934e2f44ba9b)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
