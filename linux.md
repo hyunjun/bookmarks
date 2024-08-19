@@ -7,6 +7,7 @@ Linux
 * [아무도 가르쳐주지 않는 리눅스 기초](https://wiki.kreonet.net/linux-guide)
 * [따배리 리눅스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohKeqFR3Mf6V2AB5TO5dr4m)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
+* [Different ways to List Environment Variables in Linux | Devops](https://dotnet-helpers.com/devops/different-ways-to-list-environment-variables-in-linux/) printenv, env, set, export -p, declare -x, echo $HOSTNAME
 * [Linux Survival](http://linuxsurvival.com/)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
