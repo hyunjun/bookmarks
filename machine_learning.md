@@ -1571,6 +1571,8 @@ Machine Learning
   * [Simon Pressler: Getting started with JAX - YouTube](https://www.youtube.com/watch?v=yDYiiVVkBXY)
   * [Keras 에서 Jax, Flax 로 코드를 옮겨본 소감 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4593)
   * [Google JAX 소개](https://bcho.tistory.com/1393)
+  * [PyTorch is dead. Long live JAX. | Neel Gupta](https://neel04.github.io/my-website/blog/pytorch_rant/)
+    * [PyTorch는 죽었다. JAX 만세 | GeekNews](https://news.hada.io/topic?id=16369)
   * [Keras-community-week_Flax_and_Keras.pptx](https://www.slideshare.net/ssuser2ef1bc/kerascommunityweekflaxandkeraspptx-261360597)
   * [Flax: A neural network library for JAX designed for flexibility](https://github.com/google-research/flax)
   * [Haiku - a simple neural network library for JAX developed by some of the authors of Sonnet, a neural network library for TensorFlow](https://github.com/deepmind/dm-haiku)
