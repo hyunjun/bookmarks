@@ -1417,6 +1417,8 @@ SQL
   * [PostgreSQL와 UUID를 기본 키로 사용하는 것에 대해 | GeekNews](https://news.hada.io/topic?id=15713)
 * [Full Text Search over Postgres: Elasticsearch vs. Alternatives - ParadeDB](https://blog.paradedb.com/pages/elasticsearch_vs_postgres) FTS
   * [Postgres에서의 전문 검색: Elasticsearch vs. 대체제들 | GeekNews](https://news.hada.io/topic?id=16311)
+* [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
+  * [그냥 Postgres 쓰세요 | GeekNews](https://news.hada.io/topic?id=16365)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
