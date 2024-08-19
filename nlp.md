@@ -987,6 +987,7 @@ NLP
     * [OpenAI 챗봇 스토어가 스팸으로 가득 차고 있음 | GeekNews](https://news.hada.io/topic?id=13953)
     * [GPTs으로 나만의 Custom GPT 만들기 예제 50](https://mo-ai.notion.site/GPTs-Custom-GPT-50-bbbb8c5e706f402baaa377186550c6a1)
     * [연구용 GPT 만들기 - 논문봇 등 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-56-customgpt/)
+    * [논문봇 v2 - 출력물 일관성 확보 | Pega Devlog](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
     * [문장을 웹소설 스타일의 망가진 체로 바꿔주는 GPTs | GeekNews](https://news.hada.io/topic?id=15499)
     * [데이터 분석용 GPTs - 플랏봇 | Pega Devlog](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
@@ -2147,6 +2148,8 @@ NLP
   * 작은 모델에서는 성능 향상이 미미했으며, 이는 리즈닝 능력의 한계로 인한 것으로 추정
   * [VidiGo LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 |](https://vidigo.ai/share/summary/829b0e4ad43d)
   * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
+* [뉴테크프라임 » 차 교수와 함께 – 마법 지팡이, CoT 프롬프트의 세계로 떠나는 모험!](http://www.umlcert.com/aipromptsmarteasy_use-20240817-2/)
+  * [cot.md at main · smarteasy/write-with-cha](https://github.com/smarteasy/write-with-cha/blob/main/cot.md)
 * [LLM에게 친절해야 할까? - 프롬프트 작성팁](https://slashpage.com/sujin-prompt-engineer/n8pw9x2zpvkgd2g7yrqv)
   * [Sujin Kang Ph.D. on LinkedIn: #promptengineering #promptandpoliteness #prompting #politenessandllm](https://www.linkedin.com/posts/sujin-kang-ph-d-662444278_promptengineering-promptandpoliteness-prompting-ugcPost-7223263718539739137-HPfm)
   * [Hard Evidence That Please And Thank You In Prompt Engineering Counts When Using Generative AI](https://www.forbes.com/sites/lanceeliot/2024/05/18/hard-evidence-that-please-and-thank-you-in-prompt-engineering-counts-when-using-generative-ai/)
