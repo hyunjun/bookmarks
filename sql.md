@@ -1484,6 +1484,8 @@ SQL
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pg-osc: Zero downtime schema changes in PostgreSQL](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
   * [Revolutionizing PostgreSQL Schema Changes with pg_osc - Mydbops | Blog](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
+* [PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing](https://github.com/janbjorge/PgQueuer)
+  * [PgQueuer – PostgreSQL을 작업 대기열로 이용하는 파이썬 라이브러리 | GeekNews](https://news.hada.io/topic?id=16377)
 * [pg_replicate](https://github.com/supabase/pg_replicate)
   * [pg_replicate - Postgres의 복제를 위한 도구 | GeekNews](https://news.hada.io/topic?id=16300)
 * [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
