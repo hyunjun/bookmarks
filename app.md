@@ -305,6 +305,7 @@ App
 * [콘텐츠 브로드캐스팅이 가능한 CMS 만들기: 배민외식업광장 슬롯화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9521/)
 * [Next Gen Static Blogging | mmackh](https://inoads.com/articles/2021-01-09-Next-Gen-Static-Blogging)
 * [Feedly와 Inoreader 그리고 다른 RSS 리더들 – tebica story](https://earlybird.kr/2733)
+* [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/206)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
@@ -938,6 +939,8 @@ App
   * [VSC 경쟁자가 나타났다? Zed 의 등장! - YouTube](https://www.youtube.com/watch?v=_RIn7dSUkEg)
   * [Zed Decoded: Linux When? - YouTube](https://www.youtube.com/watch?v=O5XVVnA2LoY)
   * [Zed 에디터 리눅스버전 출시 | GeekNews](https://news.hada.io/topic?id=15776)
+  * [Leaving Neovim for Zed • Steve Simkins](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
+    * [Neovim을 떠나 Zed로 옮겨갑니다 | GeekNews](https://news.hada.io/topic?id=16370)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
