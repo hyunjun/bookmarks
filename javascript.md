@@ -2126,6 +2126,7 @@ Javascript
     * [Building a deployable Python-Electron App | by Andy Bulka | Medium](https://medium.com/@abulka/electron-python-4e8c807bfa5e)
   * [nativefier: Make any web page a desktop application](https://github.com/nativefier/nativefier)
     * [Turn any website into separate native application – ServerKernel](https://serverkernel.com/turn-any-website-into-separate-native-application/)
+* [elegant-queue: To address this inefficiency when processing large amounts of data, designing a queue with O(1) time complexity can solve many problems](https://github.com/seongjin605/elegant-queue)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
