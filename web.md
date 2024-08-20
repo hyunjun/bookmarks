@@ -1525,6 +1525,8 @@ Web
 * [Top 10 Trends in Python WebDev for 2021 and the resources to get started](https://www.activestate.com/blog/top-10-trends-in-python-webdev-for-2021-and-the-resources-to-get-started/)
 * [Top 10 Python Frameworks for Web Development in 2022 | by Ajay Kapoor | Dec, 2021 | Enlear Academy](https://enlear.academy/top-10-python-frameworks-for-web-development-in-2022-22b37bb03c02)
 * [Django Vs Flask: Full Comparison of the 2 Python Frameworks | by Sasha Andrieiev | Jan, 2022 | Python in Plain English](https://python.plainenglish.io/django-vs-flask-full-comparison-1da520c35187)
+* [13ft: My own custom 12ft.io replacement](https://github.com/wasi-master/13ft)
+  * [13ft – 광고, Paywall 등을 차단하는 셀프 호스팅 서버 | GeekNews](https://news.hada.io/topic?id=16385)
 * [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
   * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
