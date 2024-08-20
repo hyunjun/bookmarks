@@ -318,6 +318,7 @@
 * [Kotlin : When if-else is too mainstream | by Garima Jain | Medium](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416)
 * [Using builders with builder type inference | Kotlin Documentation](https://kotlinlang.org/docs/using-builders-with-builder-inference.html)
   * [코틀린 1.7.0 부터 사용 가능한 컴파일러 옵션에 빌더를 통한 타입추론 추가 배정](https://www.facebook.com/groups/456687918423333/?multi_permalinks=1472008983557883)
+* [Kotlin Builder Inference Explained | Medium](https://medium.com/@michalankiersztajn/kotlin-builder-inference-explained-b6cca7b7ff77)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
