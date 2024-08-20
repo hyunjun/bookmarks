@@ -170,6 +170,7 @@ Interview
 * [**소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)**](https://imasoftwareengineer.tistory.com/66)
 * [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/) 기본적인 모든 인터뷰 절차 및 각 알고리즘 별 문제(혹은 link)도 포함
   * [tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
+* [개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2723/)
 * [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
 * [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
 * [아틀라시안 채용 후기](https://www.facebook.com/groups/helpdev/permalink/2535210356538290/) atlassian
