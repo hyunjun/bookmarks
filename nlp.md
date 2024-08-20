@@ -2386,6 +2386,8 @@ NLP
     * [VidiGo RAG + Langchain Python Project: Easy AI/Chat For Y](https://vidigo.ai/share/summary/556c19ed2212)
     * [RAG + 랭체인 파이썬 프로젝트: 문서를 위한 쉬운 AI/챗 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/523011)
   * [Building an Observable arXiv RAG Chatbot with LangChain, Chainlit, and Literal AI | by Tahreem Rasul | May, 2024 | Towards Data Science](https://towardsdatascience.com/building-an-observable-arxiv-rag-chatbot-with-langchain-chainlit-and-literal-ai-9c345fcd1cd8)
+  * [Agentic RAG Using CrewAI & LangChain! - YouTube](https://www.youtube.com/watch?v=tioFxI_WTkk)
+    * [Pavan Belagatti on LinkedIn: #agenticrag](https://www.linkedin.com/posts/pavan-belagatti_agenticrag-activity-7226598573440708608-5R1V)
   * [LLMs를 활용한 문서 요약 가이드: Stuff, Map-Reduce, Refine 방법 총정리 - 테디노트](https://teddylee777.github.io/langchain/summarize-chain/)
   * [LangChain Expression Language(LCEL) 원리 이해와 파이프라인 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-lcel/)
   * [LangChain 에이전트(Agent)와 도구(tools)를 활용한 지능형 검색 시스템 구축 가이드 - 테디노트](https://teddylee777.github.io/langchain/langchain-agent/)
