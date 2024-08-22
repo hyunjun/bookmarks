@@ -906,6 +906,13 @@ NLP
     * [(1) Andrej Karpathy on X: "# Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20 ✨ The GPT-2 (124M) is the smallest model in the GPT-2 series released by OpenAI in 2019, and is actually quite accessible today, even for the GPU poor. For example, with llm.c you can now reproduce this model on one 8X https://t.co/C9GdaxGPhd" / X](https://x.com/karpathy/status/1795484547267834137)
     * [llm.c를 사용하여 GPT-2 모델을 저렴하게 재구현하기 | GeekNews](https://news.hada.io/topic?id=15065)
   * [What if...? 처음부터 다시 LLM 어플리케이션을 개발한다면 - Speaker Deck](https://speakerdeck.com/huffon/what-if-dot-dot-dot-ceoeumbuteo-dasi-llm-eopeulrikeisyeoneul-gaebalhandamyeon)
+  * [Inside GPT – Large Language Models Demystified • Alan Smith • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=MznD2DzlQCc)
+    * discusses the inner workings of Generative Pre-trained Transformers (GPT) algorithms and how they can be used to create engaging and useful applications
+    * He will cover the fundamental concepts of natural language processing, such as word embedding, vectorization, and tokenization, and demonstrate how these techniques can be applied to train a GPT2 model that generates song lyrics
+    * Smith will also explore the limitations of larger language models like ChatGPT and GPT4 and explain the use of hyperparameters such as temperature and frequency penalty
+    * Attendees will learn how to harness the power of GPT algorithms in their own solutions
+    * [VidiGo Inside GPT – Large Language Models Demystified • A](https://vidigo.ai/share/summary/bf84204bd7c8)
+    * [GPT 내부 - 대규모 언어 모델에 대한 이해 - Alan Smith - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1132733)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
