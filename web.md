@@ -420,6 +420,8 @@ Web
 * [진정한 남자들은 DB를 쓰지 않습니다 - YouTube](https://www.youtube.com/watch?v=pCOBmmJARPE) data를 URL에 저장
 * [더 나은 폼을 만드는 몇 가지 팁 – 형우의 웹개발](https://mytory.net/archives/15921)
 * [Hyeseong's Blog - **컨텐츠 압축을 위한 배경지식**](https://blog.cometkim.kr/posts/content-compression-101/) compression
+* [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+  * [이미 시맨틱 웹은 널리 채택되어 사용되고 있음 | GeekNews](https://news.hada.io/topic?id=16408)
 
 # Apache
 * installation
