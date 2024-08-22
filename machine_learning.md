@@ -993,6 +993,7 @@ Machine Learning
   * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
 * [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
 * [Effective Data Preprocessing and Feature Engineering](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)
+* [추천 시스템의 심장, Feature Store 이야기 (1)—혼란 속의 질서 찾기: Feature Store를 구축하다 | by mingrammer | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%8B%AC%EC%9E%A5-feature-store-%EC%9D%B4%EC%95%BC%EA%B8%B0-1-75ffee8ccacd)
 * [Data Feast — A Highly Scalable Feature Store at Dream11 | by Dream11 Engineering | Feb, 2022 | Dream11 Engineering](https://blog.dream11engineering.com/data-feast-a-highly-scalable-feature-store-at-dream11-69b8ed5289fd)
 * [feast - Feature Store for Machine Learning](https://github.com/gojek/feast)
   * [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
