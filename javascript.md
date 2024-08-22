@@ -5694,6 +5694,7 @@ Javascript
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [Full Stack Kit](https://www.full-stack-kit.dev/)
+  * [NextJS 12 에서 14로 업데이트 하면서 간단한 꿀팁](https://velog.io/@ansrjsdn/NextJS-12-%EC%97%90%EC%84%9C-14%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%BF%80%ED%8C%81)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
