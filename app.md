@@ -493,10 +493,13 @@ App
 * [Ladybird](https://ladybird.org/)
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
   * [Ladybird 브라우저, Swift 언어를 사용하기로 결정 | GeekNews](https://news.hada.io/topic?id=16284)
+* [LibreWolf](https://librewolf.net/)
 * [Luakit Web Browser](https://luakit.github.io/)
   * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
 * [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
   * [Verso - Servo 웹 엔진 기반 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=16274)
+* [Zen Browser](https://www.zen-browser.app/)
+  * [Zen - Firefox 엔진 기반의 Arc와 비슷한 오픈소스 브라우저 | GeekNews](https://news.hada.io/topic?id=16405)
 
 ## Browser Arc
 * [Arc from The Browser Company](https://arc.net/)
@@ -1705,6 +1708,7 @@ App
   * [M1 맥북에서 처음해야하는 일 - Homebrew부터](http://dalinaum.github.io/mac/2021/03/15/m1-init.html)
   * [brew bundle로 이사하기 (인텔맥 -> M1 pro) | by Jude Park | Medium](https://judepark-6960.medium.com/brew-bundle%EB%A1%9C-%EC%9D%B4%EC%82%AC%ED%95%98%EA%B8%B0-%EC%9D%B8%ED%85%94%EB%A7%A5-m1-pro-2b46ba9ea166)
   * [Lightly "sandboxed" homebrew on macOS](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
+  * [Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기 - Homebrew와 Shell Script를 사용하여 맥 개발 환경 구축을 자동화해 봅니다. 이렇게 만든 Brefile과 Shell Script로 새로운 맥에 개발 환경을 구축해 봅니다.](https://deku.posstree.com/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
   * [brew-updates: Get Brew Packages to update, just like you've experienced from Ubuntu](https://github.com/code-yeongyu/brew-updates)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
