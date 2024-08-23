@@ -440,6 +440,7 @@ Business
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
 * [CRM을 활용한 제품 그로스 전략. 단순한 일시적 변화가 아닌, 지속적인 성장 동력 심기 | by Stephan Seunghwan Seo | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/crm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EA%B7%B8%EB%A1%9C%EC%8A%A4-%EC%A0%84%EB%9E%B5-32c04c455ef6)
 * [리디와 함께하는 CRM 여정 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/crm-braze-test)
+* [CRM의 판을 뒤집는 AI, 당신의 비즈니스는 안전하십니까?](https://news.aikoreacommunity.com/ai-transforming-crm-business-risk/)
 * [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
 * [Growth hacking · Present](https://present.do/presentations/616c3fed704425458cfce0f1)
 * [문재인 대통령의 회의 방침](http://agile.egloos.com/5890768)
