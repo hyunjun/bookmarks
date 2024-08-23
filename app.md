@@ -496,6 +496,8 @@ App
 * [LibreWolf](https://librewolf.net/)
 * [Luakit Web Browser](https://luakit.github.io/)
   * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
+* [plasmo: 🧩 The Browser Extension Framework](https://github.com/PlasmoHQ/plasmo)
+  * [Plasmo - 브라우저 확장 개발을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=16427)
 * [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
   * [Verso - Servo 웹 엔진 기반 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=16274)
 * [Zen Browser](https://www.zen-browser.app/)
@@ -916,6 +918,11 @@ App
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
+* [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
+* [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
+* [Pragtical - 실용적인 코드 편집기 | GeekNews](https://news.hada.io/topic?id=16400)
+  * [Home | Pragtical](https://pragtical.dev/)
+* [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
   * [Sublime Text 3 for python and django](http://www.slideshare.net/raccoonyy/sublime-text-3-for-python-and-django)
@@ -926,9 +933,6 @@ App
   * [Sublime Text 3의 untitled 탭에 첫 행 표시하기 - 용균](https://edykim.com/ko/post/displaying-the-first-line-in-the-untitled-tab-of-sublime-text-3/)
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
-* [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
-* [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
-* [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
   * [theia: Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript](https://github.com/eclipse-theia/theia)
   * [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
@@ -944,6 +948,8 @@ App
   * [Zed 에디터 리눅스버전 출시 | GeekNews](https://news.hada.io/topic?id=15776)
   * [Leaving Neovim for Zed • Steve Simkins](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
     * [Neovim을 떠나 Zed로 옮겨갑니다 | GeekNews](https://news.hada.io/topic?id=16370)
+  * [Introducing Zed AI](https://zed.dev/blog/zed-ai)
+    * [Zed AI 공개 (with Anthropic) | GeekNews](https://news.hada.io/topic?id=16398)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
