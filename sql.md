@@ -1454,6 +1454,8 @@ SQL
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+* [instantdb/instant: The realtime client-side database](https://github.com/instantdb/instant)
+  * [InstantDB – "현대적인 Firebase" : 실시간 클라이언트측 DB 오픈소스 | GeekNews](https://news.hada.io/topic?id=16421)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 * [Hydra / Query Postgres, Route to any Database](https://hydras.io/)
