@@ -388,6 +388,8 @@ Open Source
   * [런타임에 코드내 데드 코드를 검출해 내는 Scavenger](https://www.facebook.com/junho.yoon.3994/posts/pfbid02to9r2DnBjBeaeFJc9txcg7ubQZCNvCDxYapYv1TokpzgDeZdBwZVosQ1QBrNNkJYl)
 * [Sourcegraph | Code Intelligence Platform](https://about.sourcegraph.com/)
   * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
+  * [Sourcegraph went dark | Eric Fritz](https://eric-fritz.com/articles/sourcegraph-went-dark/)
+    * [Sourcegraph Repo가 비공개로 전환됨 | GeekNews](https://news.hada.io/topic?id=16392)
 * [Tyk - an open source API Gateway that is fast, scalable and modern](https://tyk.io/)
   * [tyk(API Gateway) 설치 메뉴얼 (Redhat)](http://cloudsemina.com/index.php?mid=micro_architecture&document_srl=374)
 * [Windmill](https://docs.windmill.dev/) Scripts to internal apps and workflows in minutes
