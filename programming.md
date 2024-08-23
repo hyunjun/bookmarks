@@ -7060,7 +7060,9 @@ Programming
 * [ARM 64 Assembly Series — Data Processing (Part 2) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
 * [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
 * [오픈소스 운영체제 100선 - WikiDocs](https://wikidocs.net/book/7739)
-* [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
+* [mjg59 | What the fuck is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
+  * [SBAT란 무엇이며 왜 갑자기 모두가 관심을 가지는가 | GeekNews](https://news.hada.io/topic?id=16423)
+* netboot.xyz [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
   * [Netboot.xyz - 당신이 좋아하는 OS를 한 곳에 | GeekNews](https://news.hada.io/topic?id=16403)
 
 # Paper
