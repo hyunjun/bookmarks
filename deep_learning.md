@@ -2859,6 +2859,11 @@ CVPR2016)
     * [🚀최고의 이미지 생성 모델! Flux.1: GPU 스트레스 없는 API 방식 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-Flux1-GPU-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EB%8A%94-API-%EB%B0%A9%EC%8B%9D-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [🎨Flux Dev FP8 버전: 저사양 GPU로 Flux를 무료로 즐기세요!](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%A8Flux-Dev-FP8-%EB%B2%84%EC%A0%84-%EC%A0%80%EC%82%AC%EC%96%91-GPU%EB%A1%9C-Flux%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A6%90%EA%B8%B0%EC%84%B8%EC%9A%94)
     * [Tip 요즘 유행하는 이미지 생성 모델 'Flux' 무료로 사용하기 🫢 (코드 있음) | Disquiet\*](https://disquiet.io/@jeongmin1604/makerlog/tip-%EC%9A%94%EC%A6%98-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-flux-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%BD%94%EB%93%9C-%EC%9E%88%EC%9D%8C-1724053834451)
+    * [KREA](https://www.krea.ai/)
+      * [엄청난 고성능을 요구하는 Flux를 무료로 생성해주는 이미지 생성형 AI 서비스, 무료로 하루에 24장씩 생성가능! - YouTube](https://www.youtube.com/watch?v=0Ggnsx8Huh4)
+        * Flux 모델 생성 서비스, 하루에 24장씩 무료로 생성 가능
+        * 고성능을 요구하는 모델이지만 개인용 컴퓨터에서 실행 가능
+        * 크레아 AI를 통해 접속하여 로그인 후, 태그를 추가하고 원하는 사양을 선택하여 생성 가능
 * [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
   * [📎빠르게 보는 CLIP 논문 리뷰📎 — 불가능은없어](https://seandoprep.tistory.com/3#CLIP%20%3A%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision%20-1)
