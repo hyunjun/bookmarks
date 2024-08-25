@@ -489,6 +489,8 @@ Business
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
 * [함께 성장하는 팀 운영 시스템 구축하기. 안녕하세요. 29CM 프로덕트디자인팀 매니저 김영준입니다. 이 시간에는… | by Jay Youngjun Kim | 29CM TEAM | Apr, 2024 | Medium](https://medium.com/29cm/%ED%95%A8%EA%BB%98-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%ED%8C%80-%EC%9A%B4%EC%98%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-37f334d71357)
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
+* [No "Hello", No "Quick Call", and no Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
+  * ["Hello" 금지, "Quick Call" 금지, 안건 없는 회의 금지 | GeekNews](https://news.hada.io/topic?id=16444)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
@@ -1468,6 +1470,7 @@ Business
     * 하지만 나는 이런 마음에서 당신을 돕고 싶다
     * 당신이 도움이 필요할 때 내가 얼마든지 곁에서 그 이야기를 들어주겠다
     * 이 모든 과정에서 나는 당신의 선택을 존중하며, 선을 넘지 않도록 노력할 것이다
+  * [컨설팅의 비밀: 성공적으로 조언을 주고받는 가이드 — 책 요약](https://readit.site/a/pJdRB)
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
