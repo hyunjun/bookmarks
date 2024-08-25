@@ -2247,6 +2247,8 @@ NLP
     * [무료 배포 클로드 프롬프트 엔지니어링 가이드 북! (80페이지) 1권이면 끝! Claude 3.5 Sonnet 프롬프트 자료 받아가세요! - YouTube](https://www.youtube.com/watch?v=_sLSFlXAuqs)
   * [Claude로 코드리뷰 경험 개선하기 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/claude%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EA%B2%BD%ED%97%98-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
   * [Anthropic, Claude에 Prompt Caching(베타)기능 추가 | GeekNews](https://news.hada.io/topic?id=16390)
+  * [Claude’s API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
+    * [Claude API가 CORS 지원을 시작, 클라이언트 측 어플리케이션이 가능해짐 | GeekNews](https://news.hada.io/topic?id=16433)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
