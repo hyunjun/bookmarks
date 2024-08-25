@@ -252,6 +252,16 @@ Sports
     * 이를 통해 코치들은 각 루틴에 대한 선수 배치를 시뮬레이션하고 가능한 결과를 직접 평가 가능
     * 딥마인드는 2022년에도 Graph Neural Networks를 활용한 Multiagent off-screen behavior prediction in football 발표
     * 이번 연구인 TacticAI에서도 코너킥 상황을 graph 형태로 변환할 때 각 선수를 node로 사용했고, message passing 을 적용하여 representation 획득
+* [Football AI Tutorial: From Basics to Advanced Stats with Python - YouTube](https://www.youtube.com/watch?v=aBVGKoNZQUw)
+  * This tutorial provides an in-depth guide on using Python and AI to analyze football matches
+    * covers topics such as object detection, multi-object tracking, embedding analysis, perspective transformation, and more
+    * uses YOLOv8 and ByteTrack for object detection and tracking, SigLIP and UMAP for embedding analysis, and homography for perspective transformation
+  * The project is divided into frames, each processed by two models: an object detector and a keypoint detector
+  * The object detection model detects players, goalkeepers, referees, and the ball, while the keypoint detection model detects characteristic points on the football pitch
+  * The tutorial also covers the challenges of reliable ball detection and the need for a robust model capable of handling all edge cases
+  * The trained models are available publicly, and the tutorial provides a readymade Google Colab template for model training
+  * [VidiGo Football AI Tutorial: From Basics to Advanced Stat](https://vidigo.ai/share/summary/f754c387001e)
+  * [파이썬을 사용한 축구 AI 튜토리얼: 기초부터 고급 통계까지 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147119)
 * [World Cup Penalty Shootouts | Tableau Public](https://public.tableau.com/app/profile/athan.mavrantonis/viz/WorldCupPenaltyShoot-outs/WorldCupPenaltyShoot-outs)
 
 # NFL
