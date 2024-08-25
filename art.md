@@ -38,6 +38,13 @@ Art
 * [history of animation](http://history-of-animation.webflow.io/)
 * [일본의 만화 편집부 데스크는 어떤 기준으로 작화를 보는가?](http://criticm.com/?p=5523)
 
+# Web Comic
+* [15년차 웹툰 작가가 말하는 웹툰 산업이 잘될 수밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=1xLauW7yhLg)
+  * 웹툰 산업이 급속한 성장을 경험, 그 성공 요인 중 하나는 작품들이 제공하는 카타르시스
+  * 작품의 제목이 시청자가 기대하는 내용을 담고 있어야 한다고 믿으며, 이를 제목이 로그라인 역할을 하는 것
+  * 회귀, 빙의, 환생 등의 주제가 자주 사용되는 이유는 현실에서 인정받지 못하는 사람들이 이 세계에서 능력을 발휘할 수 있는 삶을 살고 싶어하기 때문
+  * 이러한 주제들이 시청자들이 자신의 삶을 긍정적으로 바라볼 수 있도록 도와준다고 강조
+
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
 * [clean up your mess](http://www.visualmess.com/index.html)
