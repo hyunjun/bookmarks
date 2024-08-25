@@ -5824,7 +5824,7 @@ Programming
       * 3.💻속도, 표준, 생태계: 백스테이지 핵심 개념
         * 백스테이지의 핵심 개념은 '속도', '표준', '생태계'이며, 프래그먼테이션 해결을 통해 개발자들이 보다 신속하게 작업을 수행할 수 있도록 도움
         * '표준은 자유를 주는 것'이라는 문구가 매우 마음에 들며, 이는 소프트웨어 템플릿을 통해 구현
-        * 개발자 포털이 성공적이기 위해서는 좋은 생태계가 필요하며, 백스테이지는 플러그인 생태계를 중심으로 설계되어 조직의 needs에 맞게 사용자 정의 가능
+        * 개발자 포털이 성공적이기 위해서는 좋은 생태계 필요, 백스테이지는 플러그인 생태계를 중심으로 설계해 조직의 needs에 맞게 사용자 정의 가능
         * 백스테이지의 코어 플러그인을 통해 현재 소프트웨어 템플릿을 포함해 프래그먼테이션 해결과 표준화를 실현
           * 기존에 개발된 훌륭한 플러그인들을 활용하여 조직의 수많은 요구사항을 충족 가능
         * 백스테이지의 강점은 이미 수백 개의 플러그인이 구축, 기존의 툴링을 모두 활용 가능해 조직의 needs를 충족, 자체 플러그인을 개발할 필요 없음
@@ -5850,6 +5850,13 @@ Programming
         * 커뮤니티에서는 권한 부여 솔루션과 같은 상용 번들에 대한 대체 업무를 가능케할만한 확장성 존재
         * 스포티파이의 플러그인 번들은 개발자 효율성과 행복에 중점을 두는 구조를 갖추고 있으며, 다양한 플러그인이 이러한 아이디어 주변으로 작동
   * [좌충우돌 백스테이(IDP) 도입기](https://hanjin.awsapps.com/workdocs/index.html#/share/document/f0dec8adb59e85a7fc7574fde4951e91f5bc61ca9d98f79a178ed6c0aa9d3202)
+  * [Combining Product Thinking & Spotify’s Backstage • Flavia Naezer & Vijai Ramcharan • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=unfVozQir9Y)
+    * discusses combining Product Thinking and Spotify's Backstage for building NN's IDP
+    * The speakers share their experiences and practical applications of the product thinking toolbox, including user empathy, feedback loops, and iterative development
+    * They also delve into Backstage, discussing topics such as conducting a tech assessment, modeling for the software catalog, and exploring a lightweight data lake
+    * The presentation provides a roadmap for enhancing development practices in a user-centered manner and utilizes technology to unlock untapped potential for teams and engineers
+    * [VidiGo Combining Product Thinking & Spotify’s Backstage •](https://vidigo.ai/share/summary/9f81d8459e22)
+    * [제품 사고와 스포티파이의 백스테이지 결합 - 플라비아 네이저 & 비제이 람차란 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1145395)
   * [The Tools Spotify Uses to Onboard Engineers & Encourage Career Mobility • Helen Greul • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ulTUCDmqnsI)
     * [VidiGo The Tools Spotify Uses to Onboard Engineers & Enco](https://vidigo.ai/share/summary/be4817edae7a)
     * [The Tools Spotify Uses to Onboard Engineers & Encourage Career Mobility • Helen Greul • GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/631460)
@@ -6770,6 +6777,7 @@ Programming
   * [7월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-7-5.html)
   * [8월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-1.html)
   * [8월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-2.html)
+  * [8월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
