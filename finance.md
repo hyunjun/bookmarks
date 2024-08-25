@@ -98,6 +98,11 @@ Finance
   * [유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver. - YouTube](https://www.youtube.com/watch?v=l1yOncqCvlc)
     * [VidiGo 유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver..mp4](https://vidigo.ai/share/summary/006df7a051d6)
     * [유튜브PD도 바꿨어요. 광고없이 증권사 50개 비교, 2024 하반기 Ver. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/965265)
+* [진짜로 다 해준 금감원 경제금융 교육 - 미스터리/공포 - 에펨코리아](https://www.fmkorea.com/7365319044)
+  * [대학생을 위한 실용금융(제4판)](https://www.fss.or.kr/edu/fec/contMng/view.do?menuNo=300018&check=2&contentsSlno=688&pageIndex=&search=&searchWrd=&certYn=&order=regDt)
+  * [파릇파릇 자산관리](https://www.fss.or.kr/edu/fec/contMng/view.do?menuNo=300018&contentsSlno=145&check=2)
+  * [e-Learning | 콘텐츠 한 눈에 | 포털사이트](https://www.fss.or.kr/edu/fec/elearning/elrn.do?menuNo=300133)
+  * [동영상(목록) | 콘텐츠 한 눈에 | 포털사이트](https://www.fss.or.kr/edu/fec/contMng/contUserList.do?check=1&menuNo=300017)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
