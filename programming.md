@@ -5159,6 +5159,7 @@ Programming
   * 기기 증명 클라이언트와 기기 증명 서버가 통신
     * 클라이언트는 Trusted Execution Envionment를 이용해서 PKI 방식으로 동작하도록 구현
     * 이때 어설션을 통해서 중요한 통신을 안전하게
+* [노출된 .env 파일 하나가 쏘아올린 작은 공, 11만 개 도메인 공격으로 이어져](https://www.boannews.com/media/view.asp?idx=132223)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
