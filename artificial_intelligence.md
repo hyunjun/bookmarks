@@ -222,6 +222,8 @@ Artificial Intelligence
 * [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
 * [Writing Path: MBTI J처럼 체계적으로 글쓰는 AI](https://d2.naver.com/helloworld/8011540)
 * [**AI 시대를 준비하는 개발자를 위한 안내서(부제: AI 시대에는 개발자가 필요없다며?)** | PPT](https://www.slideshare.net/slideshow/ai-ai-2d08/270030962)
+* [AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리! - YouTube](https://www.youtube.com/watch?v=GhDpjskMdQQ) ChatGPT + Midjourney + Runway Gen-3
+  * [VidiGo AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리!.mp4](https://vidigo.ai/share/summary/dbbcfa4c529f)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
