@@ -224,6 +224,8 @@ Artificial Intelligence
 * [**AI 시대를 준비하는 개발자를 위한 안내서(부제: AI 시대에는 개발자가 필요없다며?)** | PPT](https://www.slideshare.net/slideshow/ai-ai-2d08/270030962)
 * [AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리! - YouTube](https://www.youtube.com/watch?v=GhDpjskMdQQ) ChatGPT + Midjourney + Runway Gen-3
   * [VidiGo AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리!.mp4](https://vidigo.ai/share/summary/dbbcfa4c529f)
+* [I’m Tired of Fixing Customers’ AI Generated Code | by Tacitus | Aug, 2024 | Medium](https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb)
+  * [고객이 생성한 AI 코드를 수정하는 데 지쳤어요 | GeekNews](https://news.hada.io/topic?id=16418)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
