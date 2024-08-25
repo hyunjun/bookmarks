@@ -266,6 +266,8 @@ Interview
 * [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
 * [면접에서 제대로 답변하지 못한, 좋은 질문들](https://velog.io/@joosing/good-interview-questions-that-i-did-not-answer-correctly)
 * [15년간 면접에 진심이었던 회사가 면접을 폐지한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20230918235401)
+* [Did you lose your AirPods? | Alex Yancey](https://alexyancey.com/lost-airpods/) 직접 관련은 없으나 범위를 줄여 나가는 방식이 좋음
+  * [AirPods를 잃어버렸나요? | GeekNews](https://news.hada.io/topic?id=16447)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
