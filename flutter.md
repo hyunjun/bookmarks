@@ -212,6 +212,9 @@ Flutter
 * [FLUTTER 10분 20분만에 채팅앱 설명 (+구글로그인) - YouTube](https://www.youtube.com/watch?v=_NdQfppUD1Q)
 * [Building multiplatform games with Flutter - YouTube](https://www.youtube.com/watch?v=7mG_sW40tsw)
 * [우리동네GS Screen Reader 적용기](https://gsretail.tistory.com/58)
+* [Key Conclusions From the Flutter CTO Report 2024 | by LeanCode | Jul, 2024 | Medium](https://leancode.medium.com/key-conclusions-from-the-flutter-cto-report-2024-66ea86d7f023)
+  * [Interview: Craig Labenz & Łukasz Kosman - The Future of Flutter - YouTube](https://www.youtube.com/watch?v=UcJSgzztgDI)
+  * [플러터 CTO Report 2024 (LeanCode.com 번역) | by Bansook Nam | Aug, 2024 | Medium](https://medium.com/@bansooknam/%ED%94%8C%EB%9F%AC%ED%84%B0-cto-report-2024-leancode-com-%EB%B2%88%EC%97%AD-6ac8cf81065e)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
