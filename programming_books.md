@@ -3209,6 +3209,13 @@ Programming Books
   * [타임박싱. ★★☆☆☆ July 2, 2024 → July 3, 2024 나쁜 책은… | by Jun | Aug, 2024 | Medium](https://nymets.medium.com/%ED%83%80%EC%9E%84%EB%B0%95%EC%8B%B1-2be99f945c10)
   * [타임박싱 - Jun’s Substack](https://recur.substack.com/p/e77)
   * [타임박싱](https://jh4hj.tistory.com/entry/%ED%83%80%EC%9E%84%EB%B0%95%EC%8B%B1)
+* 일을 잘 맡기는 기술
+  * ★★★☆☆ 2024.08.20 일본에서 쓴 책은 자주 읽긴 하지만 나에게(혹은 내가 일하는 업계에) 잘 맞는다거나, 오래 기억이 남는 경우는 많지 않았다. 하지만 이번 책은 그래도 기록해두고 싶은 부분이 있어서 남겨둔다. management를 시작한지 대략 5년 정도이지만, 여전히 쉽지 않다. 일을 잘 맡기는 기술도 분명히 필요한 기술 중 하나이고, 같은 방식으로는 사람에 따라 효과적이기도 하고 아니기도 하기 때문에 분명히 참고할만한 책이다.
+  * 한라 325.24-모298ㅇ 탐라 문325.24-모239ㅇ
+  * [일을 잘 맡기는 기술](https://www.notion.so/1003/232c610d930249ada855090fb94b4543?pvs=4)
+  * [일을 잘 맡기는 기술](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_art_of_assigning_tasks.md)
+  * [일을 잘 맡기는 기술 - Jun - Medium](https://nymets.medium.com/%EC%9D%BC%EC%9D%84-%EC%9E%98-%EB%A7%A1%EA%B8%B0%EB%8A%94-%EA%B8%B0%EC%88%A0-781a4a8db59f)
+  * [일을 잘 맡기는 기술](https://jh4hj.tistory.com/entry/%EC%9D%BC%EC%9D%84-%EC%9E%98-%EB%A7%A1%EA%B8%B0%EB%8A%94-%EA%B8%B0%EC%88%A0)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
