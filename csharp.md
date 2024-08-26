@@ -58,6 +58,7 @@ C#
 * [C# Nullable Features thru the times – csharp.christiannagel.com](https://csharp.christiannagel.com/2022/02/14/nullable/)
 * [6 .NET Myths Dispelled — Celebrating 21 Years of .NET | by Charles Chen | Dev Genius](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
 * [C#: IEnumerable, yield return, and lazy evaluation - Stack Overflow Blog](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/)
+* [버그를 유발하는 enum의 괴상한 기본 동작 - YouTube](https://www.youtube.com/watch?v=I0QxuOl01KE)
 * [Forget the AutoMapper or any mapper library | by Bernardo Teixeira | Geek Culture | May, 2023 | Medium](https://medium.com/geekculture/forget-the-automapper-or-any-mapper-library-c029f94da8b7)
 
 # API
