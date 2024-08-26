@@ -709,6 +709,7 @@ Interview
 * [practice - 코딩 테스트 노트](https://www.notion.so/1003/Interview-31a1ba56929c4ca8a13d63fee260c970?pvs=4#c27651faff3b4710b645dde7a5facf13)
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
 * [8 Best System Design and Software Design Books for Programmers | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/8-best-system-design-and-software-design-books-for-programmers-be54cb313106)
+* [10 Best System Design and Software Architecture Books for Developers](https://javarevisited.substack.com/p/10-best-system-design-and-software)
 * [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 # Data Science
