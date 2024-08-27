@@ -97,6 +97,7 @@ Docker
 * [Docker - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhjcTj7y6RQzCfq2gmQVEd7t)
 * [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [Working with Dev Containers by Chris Ayers - YouTube](https://www.youtube.com/watch?v=HV7LJ_LUZ5A)
+* ["일관된 개발 환경 구축과 간소화" 데브 컨테이너의 활용과 장점 - ITWorld Korea](https://www.itworld.co.kr/news/348429)
 * [Learning container from scratch](https://devocean.sk.com/vlog/view.do?id=340&vcode=A03)
 * [**서비스 개발자를 위한 컨테이너 뽀개기 (a.k.a 컨테이너 인터널)**](https://tech.kakaoenterprise.com/150)
   * [if(kakao)dev2022 이게 돼요? 도커 없이 컨테이너 만들기](https://if.kakao.com/2022/session/104)
