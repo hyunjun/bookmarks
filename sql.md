@@ -381,6 +381,8 @@ SQL
 * [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
   * [자연 키를 사용하는 것을 후회하게 될 꺼에요 | GeekNews](https://news.hada.io/topic?id=15198)
+* [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
+  * [SQL의 문제점과 해결 방안: SQL의 파이프 문법 | GeekNews](https://news.hada.io/topic?id=16466)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -1417,6 +1419,13 @@ SQL
   * [PostgreSQL와 UUID를 기본 키로 사용하는 것에 대해 | GeekNews](https://news.hada.io/topic?id=15713)
 * [Full Text Search over Postgres: Elasticsearch vs. Alternatives - ParadeDB](https://blog.paradedb.com/pages/elasticsearch_vs_postgres) FTS
   * [Postgres에서의 전문 검색: Elasticsearch vs. 대체제들 | GeekNews](https://news.hada.io/topic?id=16311)
+* [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
+  * Postgres is a versatile tool that can be used to build a retrieval system with semantic, full-text, and fuzzy search capabilities
+  * The author demonstrates how to combine these techniques: full-text search with tsvector, semantic search with pgvector, and fuzzy matching with pg_trgm, to create a robust search engine within Postgres
+  * The author also discusses the use of Reciprocal Ranked Fusion (RRF) for merging results and the importance of understanding why something matched or not
+  * The author also provides tips on tuning full text search, such as weighing tsvectors and adjusting for length. Additionally, the author suggests reranking with a cross-encoder model and boosting results to improve user experience
+  * The author concludes by mentioning the limitations of Postgres and suggests alternative solutions
+  * [Postgres를 검색엔진으로 활용하기 | GeekNews](https://news.hada.io/topic?id=16468)
 * [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
   * [그냥 Postgres 쓰세요 | GeekNews](https://news.hada.io/topic?id=16365)
 * Vacuum
