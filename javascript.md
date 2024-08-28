@@ -5022,6 +5022,7 @@ Javascript
 * [react 최적화 기법 - memo, useCallback, useMemo](https://blog.naver.com/pjt3591oo/222281569378)
 * [Common React Mistakes: useEffect, useCallback and useMemo Hooks - YouTube](https://www.youtube.com/watch?v=UQkTu-PQ5gQ)
 * [useMemo, useCallback을 언제 써야되나?. Kent C. Dodds의 블로그 글을 읽고 검증해봤다. | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/usememo-usecallback%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%82%98-6a5e6f30f759)
+* [useCallback과 useMemo 차이](https://www.linkedin.com/posts/%EB%AC%B8%EB%8C%80%EC%8A%B9_react-frontenddevelopment-javascripttips-activity-7233682695006892034-XbDc/)
 * [Mastering React Memo - YouTube](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 * [React.memo & useMemo | What's the difference | In Urdu - YouTube](https://www.youtube.com/watch?v=qKESJIZgjHE)
 * [Meet React useEvent(): The Latest and Greatest React Hook | JavaScript in Plain English](https://javascript.plainenglish.io/react-useevent-the-latest-and-greatest-react-hook-56ae71febbf3)
@@ -5692,6 +5693,14 @@ Javascript
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [Next.js 학습 방법 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/learning-nextjs/)
   * [Implementing Clean Architecture patterns in Next.js - YouTube](https://www.youtube.com/playlist?list=PLHQY5AFuyYYW8IJK16BxyTLZqTHxwmDww)
+  * [Next.js로 개발하신다고요? Intercepting Routes을 적용해 보세요](https://www.linkedin.com/posts/%EB%AC%B8%EB%8C%80%EC%8A%B9_nextjs%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EC%8B%A0%EB%8B%A4%EA%B3%A0%EC%9A%94-intercepting-routes%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%B4-activity-7234049100097146882-moj1/)
+    * 서버 사이드 렌더링(SSR)과 하이드레이션의 원리
+      * 일반적인 SSR은 브라우저의 URL이 바뀌면 하이드레이션 후 클라이언트가 URL 변화를 감지해 서버에 새 리소스를 요청하지 않고 동적으로 DOM 생성
+      * 이로써 마치 새 페이지로 이동한 듯한 효과
+    * 하지만 Intercepting Routes는 이를 한 단계 더 발전, 마치 '하이드레이션의 하이드레이션'과 같은 개념
+      * URL은 변경되지만, 사용자는 새 페이지로 이동했다는 느낌 X
+      * 대신, 현재 페이지의 컨텍스트를 유지한 채 새로운 콘텐츠만을 오버레이 형태로 노출
+      * 인지 부하 감소 -> 웹사이트 체류 시간 증가 -> 비즈니스 이점
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
