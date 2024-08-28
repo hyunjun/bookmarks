@@ -100,6 +100,8 @@ Baby
 * [아들을 절대 체벌하지 않으면 이렇게 됩니다. 최민준 - YouTube](https://www.youtube.com/watch?v=I3CadBWuSKU)
   * [VidiGo 아들을 절대 체벌하지 않으면 이렇게 됩니다. 최민준.mp4](https://vidigo.ai/share/summary/6e3917ab6a17)
   * [아들을 절대 체벌하지 않으면이렇게 됩니다. 최민준 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808463)
+* [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
+  * [당신은 멍청하지 않다, 단지 선행 지식이 부족할 뿐이다 | GeekNews](https://news.hada.io/topic?id=16458)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
