@@ -1542,6 +1542,9 @@ App
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766) spectacle 유사. 워크스페이스 정리. 유료
+* [Matchumbeop - macOS용 한글 맞춤법 검사기](https://matchumbeop.ssut.me/)
+  * [Matchumbeop: 한글 맞춤법 검사기 for macOS (match-um-beop 아님)](https://github.com/ssut/Matchumbeop#%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+  * [Matchumbeop - macOS용 한글 맞춤법 검사기 | GeekNews](https://news.hada.io/topic?id=16470)
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
