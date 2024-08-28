@@ -365,6 +365,7 @@ Go
 * [Structural Typing과 객체지향 설계 | by Choi Geonu | May, 2024 | Medium](https://choi-geonu.medium.com/structural-typing%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-56bf95ea433a)
 * [What is the GOTH stack? Quickly build web apps using Go, Templ, and Htmx #FAST - YouTube](https://www.youtube.com/watch?v=L1D9zJ-Yn9U)
 * [Go 언어 - 성급한 추상화](https://velog.io/@kineo2k/Go-%EC%96%B8%EC%96%B4-%EC%84%B1%EA%B8%89%ED%95%9C-%EC%B6%94%EC%83%81%ED%99%94)
+* [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
