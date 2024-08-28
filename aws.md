@@ -718,6 +718,7 @@ AWS
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
   * [parent-document-retrieval.md at main · kyopark2014/korean-chatbot-using-amazon-bedrock · GitHub](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock/blob/main/parent-document-retrieval.md)
     * [Kyoungsu Park on LinkedIn: korean-chatbot-using-amazon-bedrock/parent-document-retrieval.md at main ·…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_korean-chatbot-using-amazon-bedrockparent-document-retrievalmd-activity-7204891089609064448-QY4V)
+  * [prompt-flow.md at main · kyopark2014/korean-chatbot-using-amazon-bedrock](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock/blob/main/prompt-flow.md)
 * [llm-multimodal-and-rag: It shows how to use mutimodal and RAG based on LangChain](https://github.com/kyopark2014/llm-multimodal-and-rag)
 * [llm-rag-vectordb-python: Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit](https://github.com/build-on-aws/llm-rag-vectordb-python)
 * [PartyRock](https://partyrock.aws/)
