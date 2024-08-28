@@ -180,7 +180,6 @@ Product
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard | CyberShadow's blog](https://blog.cy.md/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
-* [Matias ergo pro](http://matias.ca/ergopro/pc/)
 * [아두이노 커스텀 키보드 제작](https://lazygyu.net/blog/make_a_custom_machanical_keyboard)
 * [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
 * [An Enthusiast's Deep Dive Into Mechanical Keyboard Switches](https://switchandclick.com/mechanical-keyboard-switch-guide/)
@@ -212,6 +211,7 @@ Product
   * [내 몸을 위한 앨리스배열 인체공학 키보드 K15 PRO 언박싱❤😮│어고노믹 기계식 키보드 언박싱│데스크테리어│키크론 Keychron - YouTube](https://www.youtube.com/watch?v=v_1Y-nETDpg)
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * Logitech MX mechanical [사무용 무선 기계식 키보드 (2) - YouTube](https://www.youtube.com/watch?v=h4IhV6xOgNc)
+* [Matias ergo pro](http://matias.ca/ergopro/pc/)
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
 * [MatrixLab Faukwaa 파츠 끼우는 재미가 있는 키보드 퍼콰! - YouTube](https://www.youtube.com/watch?v=xS3uIMkpJw0)
 * Mistel
