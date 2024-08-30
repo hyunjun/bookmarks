@@ -6494,6 +6494,7 @@ Javascript
 * [A different way to think about TypeScript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
   * [**(번역) 타입스크립트에 대한 다른 접근법**](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
 * [MIXEDCODE : 개발자 커뮤니티 토탈 플랫폼-믹스드코드](https://mixedcode.com/blog?cpid=1&ccid=12)
+* [1. TS를 만나고 - 디자인](https://jojoldu.tistory.com/801)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
