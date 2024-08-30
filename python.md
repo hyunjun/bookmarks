@@ -3896,6 +3896,8 @@ Python
   * [2021-config](https://github.com/ArjanCodes/2021-config)
     * [Configuration Management For Data Science Made Easy With Hydra - YouTube](https://www.youtube.com/watch?v=tEsPyYnzt8s)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
+  * [Farewell pandas, and thanks for all the fish. – Ibis](https://ibis-project.org/posts/farewell-pandas/)
+    * [파이썬 데이터프레임 라이브러리 Ibis, Pandas 와 Dask 백엔드를 폐기 | GeekNews](https://news.hada.io/topic?id=16526)
 * [Informer (TGInformer) - a bot library that allows you to masquerade as multiple REAL users on telegram and spy on 500+ Telegram channels per account](https://github.com/paulpierre/informer)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Instagram Private API - A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs](https://github.com/ping/instagram_private_api)
