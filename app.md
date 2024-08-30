@@ -202,6 +202,9 @@ App
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
+* [Surfer](https://surfsup.ai/)
+  * [Surfer-Data: Export your personal data in one click](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data)
+    * [Surfer - 온라인 플랫폼의 모든 개인 데이터를 중앙 집중화하는 도구 | GeekNews](https://news.hada.io/topic?id=16494)
 * [Tabby - a terminal for a more modern age](https://tabby.sh/)
   * [8 013 잘가! 슈퍼푸티SuperPutty 환영해! 타비Tabby - YouTube](https://www.youtube.com/watch?v=4MhZxSS3Xm8)
 * [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) 윈도우 샌드박스를 이용해 인터넷 뱅킹/전자정부 인터넷 서비스를 사용하도록 하는 프로젝트
@@ -1867,6 +1870,7 @@ App
   * [Slack에 ChatGPT를 연결하여 업무에 활용해 보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11072/)
   * [카카오페이 크루들의 회의를 책임지는 죠르디 봇을 소개합니다. | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/pay-meeting-bot-story/) 소소할 수 있지만 DT의 좋은 예
   * [운영 업무 효율성 향상을 위한 자동화 슬랙봇 개발 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-bot-improving-operational-efficiency/)
+  * [사내 기술 공유 슬랙봇 앙몬드 개발기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-angmondbot/)
   * [Send Slack Notifications via NodeJS - DEV Community](https://dev.to/hrishikeshps/send-slack-notifications-via-nodejs-3ddn)
   * [슬랙봇 디자인 101](https://toss.tech/article/22439)
   * [Slack Bot in Scala and 12 Ways to Run It | by Voytek Pituła | Aug, 2023 | Medium](https://medium.com/@w.pitula/slack-bot-in-scala-and-12-ways-to-run-it-8b5f2d9f3524)
