@@ -820,6 +820,9 @@ Business
 * [스테이블 디퓨전을 만든 회사의 몰락 - YouTube](https://www.youtube.com/watch?v=dJsjtiNhsXo)
 * [Every company should be owned by its employees](https://www.elysian.press/p/employee-ownership)
   * [ESOP: 모든 회사는 직원이 주인이 되어야 합니다 | GeekNews](https://news.hada.io/topic?id=16022)
+* [이나모리 가즈오의 회계경영...매출은 기대한 만큼 늘지 않는다](https://www.linkedin.com/posts/douglasguen_%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%ED%9A%8C%EA%B3%84%EA%B2%BD%EC%98%81%EC%97%90%EB%8A%94-%EC%9D%B4%EB%9F%B0-%EB%A7%90%EC%9D%B4-%EC%9E%88%EC%96%B4%EC%9A%94-%EB%B3%B4%ED%86%B5-%EB%8B%B9%ED%95%B4-%EC%97%B0%EB%8F%84%EC%9D%98-activity-7203542211127365632-_laX/)
+* [이나모리 회장께서는, 세상에 타는 물질과 안 타는 물질이 있듯이 회사원도 자연성, 가연성, 불연성 (自燃性, 可燃性, 不燃性)으로 나뉜다고 설명](https://www.linkedin.com/posts/kidaelee_hr-activity-7227492216661848064-qKtn/)
+  * `現在の能力でできる、できないを判断してしまっては、新しいことや困難なことはいつまでたってもやりとげられません。현재의 능력으로 할 수 있는 것과 할 수 없는 것을 판단해 버리면 새로운 것, 어려운 것은 영원히 못 합니다.`
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -980,6 +983,7 @@ Business
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
 * [취업‧이직때 대박날 스타트업 고르는 법 - YouTube](https://www.youtube.com/watch?v=SuDldpt1Vlc)
+* [커리어를 시작하기도, 이직하기도 좋은 회사는 "성장하는" 회사](https://www.linkedin.com/posts/danielylee_%EC%B5%9C%EA%B7%BC-%EB%93%A4%EC%9D%80-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A1%B0%EC%96%B8-%EC%A4%91-%EA%B0%80%EC%9E%A5-%EC%99%80%EB%8B%BF%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EB%8F%84-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B8%B0%EB%8F%84-activity-7226418866564849664-Bd4D/)
 * [커리어편 이직을 고민할 때 생각할 질문 10가지](https://brunch.co.kr/@mobility/116)
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
@@ -1181,6 +1185,7 @@ Business
   * 3. 미래를 위한 성장 잠재력
 * [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
 * [여현준 on LinkedIn: #비즈니스로어 - 기업이 저성과자 퇴출 제도를 장기간 운영했을 때 벌어지는 일](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7216924152052543495-GNFq)
+* [채용할 때에는 역할과 그에 필요한 역량과 퍼포먼스가 명확해야 한다. 그것이 회사가 채용과 관련하여 가져야 할 최소한의 책임이며 태도](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7226346238223282176-BmRD/)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -3280,6 +3285,7 @@ Business
   * The roadmap is used by prioritizing problems, defining product initiatives, and tying them back to business objectives
   * It can be used with any methodology and avoids pitfalls such as endlessly shifting deadlines, low team morale, and becoming a feature factory
 * [업무용 툴, 내 동료가 정말 만족했나요?](https://toss.tech/article/tablecenter)
+* [IT업계에서 기획자와 PM, PO에 대한 정의는 여전히 모호](https://www.linkedin.com/posts/%EC%9A%B0%EC%98%81-%EC%8B%A0-0772a1112_it%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%99%80-pm-po%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EC%9D%98%EB%8A%94-%EC%97%AC%EC%A0%84%ED%9E%88-%EB%AA%A8%ED%98%B8%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-activity-7229527948284862465-TQSm/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -4091,6 +4097,8 @@ Business
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
 * [레거시 제품을 버리고 CS 효율 높이기](https://toss.tech/article/rebuild-legacy-cs-products)
+* [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
+  * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
