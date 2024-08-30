@@ -1142,6 +1142,9 @@ NLP
 * [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
 * [유출된 ChatGPT 프롬프트와 Personality v1~v6 | GeekNews](https://news.hada.io/topic?id=15734)
 * [LLMOps를 위한 프롬프트 엔지니어링 도구 개발 경험기](https://d2.naver.com/helloworld/3344073)
+* [System Prompts - Anthropic](https://docs.anthropic.com/en/release-notes/system-prompts)
+  * [Anthropic publishes the 'system prompts' that make Claude tick | TechCrunch](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
+    * [Anthropic, Claude를 움직이게 하는 "시스템 프롬프트" 공개 | GeekNews](https://news.hada.io/topic?id=16498)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
@@ -1315,6 +1318,9 @@ NLP
       * 임베딩을 통해 노드를 추가하고 API를 통해 연결하는 과정을 설명하며, 텍스트 임베딩을 통해 인풋 데이터를 처리한다.
       * 데이터 임베딩 및 노드 연결을 통해 벡터 데이터베이스 및 AI 서비스를 개발하는 방법이 상세히 안내되었다.
 * [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
+* [prompt-poet: Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach](https://github.com/character-ai/prompt-poet)
+  * [Introducing Prompt Poet](https://blog.character.ai/introducing-prompt-poet/)
+    * [뉴테크프라임 » AIPromptSmarteasy 사용해 보기 – 나 교수와 글 읽기 – Introducing Prompt Poet](http://www.umlcert.com/aipromptsmarteasy_prompt-poet/)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 * [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 
@@ -3110,6 +3116,7 @@ NLP
 * [LangChain KR | Multilingual Hybrid Retriever: 다국어 문서를 위한 Tokenizer 설정#RAGtip | Facebook](https://www.facebook.com/groups/langchainkr/posts/3101370099998701)
   * [LlamaIndex multi tokenizer for bm25.ipynb - Colab](https://colab.research.google.com/drive/1lIW2U08MeGP6g9Oa1FSmpmgAnZ824Cwz?usp=sharing)
 * [12 Retrieval Augmented Generation (RAG) Tools / Software in '23](https://research.aimultiple.com/retrieval-augmented-generation/)
+* [What is RAG?](https://www.linkedin.com/posts/mr-deepak-bhardwaj_ai-machinelearning-datascience-activity-7232004159162474497-fW8E/)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
