@@ -85,3 +85,4 @@ Psychology
 * [멘탈관리와 GPT](https://jayoung.blog/mental-health-care-gpt/)
   * [디스턴싱 - 마음 문제 해결](https://orwell.distancing.im/)
   * [stoic. | The Best Journal App for iPhone, Mac, iPad, and Apple Vision Pro](https://www.getstoic.com/)
+* [우리가 홍명보 감독에게 분노하는 이유: 사람들은 어떻게 위선을 판단하는가](https://www.linkedin.com/posts/activity-7217007200043425793-oamE/) 도덕성뿐만 아니라 확신의 강도, 일관된 행동이 위선 판단에 큰 영향 -> 있는 그대로 솔직하게 말하는 것이 대부분의 경우에 더 좋음
