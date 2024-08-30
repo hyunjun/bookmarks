@@ -491,6 +491,11 @@ Business
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
 * [No "Hello", No "Quick Call", and no Meetings Without an Agenda](https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/)
   * ["Hello" 금지, "Quick Call" 금지, 안건 없는 회의 금지 | GeekNews](https://news.hada.io/topic?id=16444)
+* [미팅도 제품이다: CTO가 바라보는 낭비 없는 회의를 위한 4가지 방법](https://www.linkedin.com/posts/ky-daniel-lee_%EB%AF%B8%ED%8C%85%EB%8F%84-%EC%A0%9C%ED%92%88%EC%9D%B4%EB%8B%A4-cto%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%82%AD%EB%B9%84-%EC%97%86%EB%8A%94-%ED%9A%8C%EC%9D%98%EB%A5%BC-%EC%9C%84%ED%95%9C-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-activity-7234795534140473345-NTvB/)
+  * 1. 미팅도 고객의 문제를 해결하는 제품
+  * 2. 의사결정을 위한 논의에 시간을 투자하고 단순 정보 공유는 서면으로 진행
+  * 3. 내가 없으면 의사결정이 달라지는 미팅위주로 참석
+  * 4. 고민되는 미팅은 줄이거나 없애보기
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
