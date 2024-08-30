@@ -227,6 +227,8 @@ Open Source
 * [초보 개발자도 오픈소스에 기여할 수 있다 - Notion Avatar Maker 한국어 버전 개발기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/opensource/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-notion-avatar-maker-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
 * [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
 * [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
+* [Fixing a Bug in Google Chrome as a First-Time Contributor - Casey Primozic's Homepage](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+  * [구글 크롬 버그 수정에 처음으로 기여한 경험 공유 | GeekNews](https://news.hada.io/topic?id=16480)
 
 # Disney
 * [Disney](http://disney.github.io/)
