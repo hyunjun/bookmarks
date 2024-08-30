@@ -1007,7 +1007,6 @@ Programming
 * [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
 * [관리사이트 쉽고 빠르게 구축하기 - YouTube](https://www.youtube.com/watch?v=q5oWMlBS-Kg) backoffice
-* [이나모리 가즈오의 회계경영...매출은 기대한 만큼 늘지 않는다](https://www.linkedin.com/posts/douglasguen_%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%ED%9A%8C%EA%B3%84%EA%B2%BD%EC%98%81%EC%97%90%EB%8A%94-%EC%9D%B4%EB%9F%B0-%EB%A7%90%EC%9D%B4-%EC%9E%88%EC%96%B4%EC%9A%94-%EB%B3%B4%ED%86%B5-%EB%8B%B9%ED%95%B4-%EC%97%B0%EB%8F%84%EC%9D%98-activity-7203542211127365632-_laX/)
 * [최소의 비용으로 서비스 개발하기 | GeekNews](https://news.hada.io/topic?id=15786) Supabase + Flutter + Retool
 
 # Agile, Scrum
@@ -2346,6 +2345,16 @@ Programming
   * [Software Architecture Styles and Patterns Cheat Sheet](https://zonito.gumroad.com/l/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet)
 * [Energy-Efficient Software Architecture for Developers • Henrik Bærbak Christensen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=xVKJvUHCanQ)
 * [EP68: Top architectural styles - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep68-top-architectural-styles)
+* [some key architectural styles](https://www.linkedin.com/posts/brijpandeyji_ive-put-together-this-handy-guide-to-software-activity-7232348283845722113-AX8i/)
+  * 1. Orchestration: as the conductor of an orchestra. centralized control and coordination, perfect for managing complex, distributed systems
+  * 2. CQRS (Command Query Responsibility Segregation): separating how you read data from how you write it. Great for performance optimization
+  * 3. Layered (n-tier): The classic approach. It's like a cake – each layer has its own job. Makes code organization a breeze
+  * 4. Microkernel: Imagine a tiny, powerful core with plugins. Super flexible and great for product-based applications
+  * 5. Microservices: The buzz of the tech world. It's about breaking your app into small, independent services. Scalability dream
+  * 6. Event-Driven: For when you need your system to react quickly to changes. Think real-time applications
+  * 7. MVP (Model-View-Presenter): A pattern that makes your user interfaces easier to test and maintain
+  * 8. DDD (Domain-Driven Design): This one's about making your code speak the language of the business. Crucial for complex domains
+  * 9. Space-Based: Designed for high scalability, using in-memory data grids. Perfect for applications with unpredictable load
 * [The Log: What every software engineer should know about real-time data's unifying abstraction | LinkedIn Engineering](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   * [**소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것. Apache Kafka의 탄생배경을 따라가보기 | by scalalang2 | RATE Labs | Aug, 2023 | Medium**](https://medium.com/rate-labs/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83-11513af8b998) 매우 좋은 글
     * Kafka를 만든 Jqy Kreps가 2013년에 작성한 글을 번역 정리한 글
@@ -6158,6 +6167,10 @@ Programming
 * [Branch Webinars 딥링크, 정말 아무거나 써도 괜찮을까요? | Branch](https://branch.io/ko/resources/webinar/how-to-choose-deeplink-solution/)
 * [Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2126/)
 * [딥링크(Deeplink) : URI스킴, 유니버셜 링크, 앱링크 구분과 이해 – 디파이너리 헬프센터](https://help.dfinery.io/hc/ko/articles/360039757433-%EB%94%A5%EB%A7%81%ED%81%AC-Deeplink-URI%EC%8A%A4%ED%82%B4-%EC%9C%A0%EB%8B%88%EB%B2%84%EC%85%9C-%EB%A7%81%ED%81%AC-%EC%95%B1%EB%A7%81%ED%81%AC-%EA%B5%AC%EB%B6%84%EA%B3%BC-%EC%9D%B4%ED%95%B4)
+* [딥링크101 디퍼드 딥링크로 앱을 설치하지 않은 유저도 앱 내 특정 페이지로 연결하기 | Airbridge Blog](https://www.airbridge.io/ko/blog/deeplink-101-deferred-deep-linking)
+* [딥링크101 마케터와 개발자를 위한 딥링크 시작하기 | Airbridge Blog](https://www.airbridge.io/ko/blog/deeplink-101-for-marketers-and-developers)
+* [딥링크101 iOS Safari에서 딥링크 동작 시 경고 문구가 뜨는 이유가 무엇일까요? How to Fix When Safari Cannot Open the Page Because the Address Is Invalid | Airbridge Blog](https://www.airbridge.io/ko/blog/deeplink-101-ios-safari-alert)
+* [앱 마케팅에 꼭 필요한 모바일 어트리뷰션 이해하기 | Airbridge Blog](https://www.airbridge.io/ko/blog/what-is-mobile-app-attribution)
 * [모바일 웹에서 뷰포트 역할. 역사적으로 처음 널리 알려진 모바일 웹 브라우저는 아이폰용… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9%EC%97%90%EC%84%9C-%EB%B7%B0%ED%8F%AC%ED%8A%B8-%EC%97%AD%ED%95%A0-845c9fb0a983)
 * [홈 화면에 웹 바로가기를 추가하기(A2HS) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230202-a2hs/)
 * [스토어 키워드 랭크 올리기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (1) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%9E%AD%ED%81%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0-7bce372c41f9)
@@ -7412,6 +7425,7 @@ Programming
   * [리팩터링과 리펙토링: Al 시대의 코드 품질 - Enys Mones & Peter Anderberg - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/895469)
 * [An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
   * "make the change easy, then make the easy change"
+* [리디 프론트엔드 개발자가 리팩토링에 진심인 이유 - RIDI Corp.](https://ridicorp.com/story/pr-frontend-engineer-refactoring/)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
