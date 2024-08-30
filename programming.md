@@ -4783,6 +4783,9 @@ Programming
     * CUE에서 프로그래밍 언어로 바뀌면서 재사용면에서는 프로그래밍 언어의 제약이 생겼다고 생각했는데
       * Dagger Function을 이용해서 언어가 달라도 사용 가능
       * 현재는 Go, Python, TypeScript의 가이드 제공, 다른 언어의 가이드도 추가 예정
+  * [CI/CD beyond YAML: The Evolution Towards Pipelines-as-Code - YouTube](https://www.youtube.com/watch?v=XmPeEomIPuU)
+    * [VidiGo CI/CD beyond YAML: The Evolution Towards Pipelines](https://vidigo.ai/share/summary/d63f0ebcaefa)
+    * [YAML을 넘어선 CICD 코드형 파이프라인을 향한 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1180299)
   * [Daggerverse](https://daggerverse.dev/)
     * [Introducing the Daggerverse - Dagger](https://dagger.io/blog/introducing-the-daggerverse)
       * 몇 주 전 Dagger에서 Dagger Functions라는 기능을 출시하면서 언어가 달라서 서로 호출 가능
