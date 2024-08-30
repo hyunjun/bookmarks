@@ -1019,6 +1019,7 @@ Apache
 * [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
   * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
   * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
+* [Kafka와 ETL을 활용해 대용량 데이터 마이그레이션하기](https://techblog.lycorp.co.jp/ko/migrating-large-data-with-kafka-and-etl)
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
 * [Spark Streaming + Kafka Integration Guide (Kafka broker version 0.10.0 or higher)](https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html)
 * [Getting Started with the Kafka Streams API using Confluent Docker Images](https://www.confluent.io/blog/getting-started-with-the-kafka-streams-api-using-confluent-docker-image/)
