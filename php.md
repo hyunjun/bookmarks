@@ -62,6 +62,7 @@ PHP
 * [웹서버, 끈질긴 최적화 기록(PHP-FPM, MySQL) – 형우의 웹개발](https://mytory.net/archives/16666)
   * PHP, Apache, MySQL로 된 서버가 자주 다운되어서 문제를 추적해 간 과정을 정리한 글
   * 실험 환경을 만들고 가설을 세운 뒤 결과를 비교하면서 원인을 찾아가는 과정 좋음
+* [PHP: 잘못된 디자인의 프랙탈](https://saschanaz.github.io/PHP-a-fractal-of-bad-design-kr/)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
