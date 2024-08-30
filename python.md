@@ -4723,6 +4723,7 @@ Python
   * [uv: An extremely fast Python package installer and resolver, written in Rust](https://github.com/astral-sh/uv)
     * `pip`와 `pip-tools`를 대체하려고 Rust로 작성된 uv는 엄청나게 빠른 Python 패키지 인스톨러이면서 리졸버
     * Python을 위한 Cargo 지향, 이번 릴리스와 함께 Rye의 관리도 같이 맡아서 공동의 비전을 실현하기 위해 노력
+  * [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
