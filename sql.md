@@ -523,6 +523,8 @@ SQL
 * [awesome-db-tools: Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [bytebase: Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com ](https://github.com/bytebase/bytebase)
   * [Bytebase - 웹 기반 DB스키마 변경 및 버전 관리도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=4793)
+* [ChartDB - Database schema diagrams visualizer](https://chartdb.io/)
+  * [ChartDB - 무료/오픈소스 DB 디자인 편집기 | GeekNews](https://news.hada.io/topic?id=16518)
 * [cozo: A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms](https://github.com/cozodb/cozo)
 * [dataherald: Interact with your SQL database, Natural Language to SQL using LLMs](https://github.com/Dataherald/dataherald)
   * [Dataherald - 자연어-to-SQL 엔진, 전체 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=15008)
