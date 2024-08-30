@@ -359,7 +359,7 @@ Git
 * [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - YouTube](https://www.youtube.com/watch?v=R8_veQiYBjI)
 * [2020년식으로 블로그 빌드 고치기 · /usr/lib/libsora.so](https://libsora.so/posts/migration-blog-2020/)
 * [ci skip 커밋 메시지로 GitHub Actions 실행 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1513)
-* [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기 - GitHub Actions와 Fastlane을 사용해서 React Native로 개발한 앱을 자동으로 배포해 봅시다](https://dev-yakuza.posstree.com/ko/react-native/github-actions-fastlane/)
+* [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기 - GitHub Actions와 Fastlane을 사용해서 React Native로 개발한 앱을 자동으로 배포해 봅시다](https://deku.posstree.com/ko/react-native/github-actions-fastlane/)
 * [리서치 코드의 지속적 통합(CI) 튜토리얼(상편). By 송호연 | by Riiid Techblog | Feb, 2021 | Medium](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%83%81%ED%8E%B8-aae5fabea681)
 * [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
   * [actions](https://okdevtv.com/mib/github/actions)
@@ -1141,7 +1141,7 @@ Git
     ❯ git rebase upstream/master
     ❯ git push origin master
     ```
-  * [Fork 저장소 동기화하기 - Fork한 저장소(Repository)와 원본 저장소(Repository)를 동기화(Sync)하는 방법에 대해서 알아봅시다](https://dev-yakuza.github.io/ko/git/sync-fork-repository/)
+  * [Fork 저장소 동기화하기 - Fork한 저장소(Repository)와 원본 저장소(Repository)를 동기화(Sync)하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/git/sync-fork-repository/)
   * transfer repository(git to git, create repository to move)
 
     ```
@@ -1546,7 +1546,7 @@ Git
 * GitHub Pages
   * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
   * [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
-  * [React GitHub Pages에 배포 - create-react-app으로 만든 React 프로젝트를 GitHub Pages에 배포해 보도록 합시다](https://dev-yakuza.posstree.com/ko/react/github-pages/)
+  * [React GitHub Pages에 배포 - create-react-app으로 만든 React 프로젝트를 GitHub Pages에 배포해 보도록 합시다](https://deku.posstree.com/ko/react/github-pages/)
   * [GitHub Pages now uses Actions by default | The GitHub Blog](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
     * Jekyll로 시작되었던 GitHub의 정적 페이지 서비스인 GitHub Pages가 GitHub Actions를 사용하도록 변경
       * 6개월 정도 공개 저장소에서 테스트한 뒤 이제 비공개 저장소에서도 사용 가능
