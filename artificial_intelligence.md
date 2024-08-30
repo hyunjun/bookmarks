@@ -228,6 +228,18 @@ Artificial Intelligence
   * [고객이 생성한 AI 코드를 수정하는 데 지쳤어요 | GeekNews](https://news.hada.io/topic?id=16418)
 * [The Top 100 Gen AI Consumer Apps - 3rd Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-3/)
   * [a16z가 선정한 소비자용 "생성형 AI" 앱/서비스 Top 100 | GeekNews](https://news.hada.io/topic?id=16487)
+* [AI 어플리케이션을 개발하는 스타트업의 생각 (f. 스타트업에게 Moat이란?)](https://www.linkedin.com/posts/honghyun_ai-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%83%9D%EA%B0%81-f-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EA%B2%8C-moat%EC%9D%B4%EB%9E%80-activity-7229149993146687489-bgTS/)
+* [Multi-GPU(DDP)를 다루는 방법들을 정리한 내용을 공유](https://www.linkedin.com/posts/jjunsss-84b39122b_multi-gpu-%EC%B4%9D%EC%A0%95%EB%A6%AC-activity-7223307260167344128-IqnF/)
+  * [Multi-GPU 총정리 : 네이버 블로그](https://blog.naver.com/jjunsss/222920508815) 1. Data Parallel (DP)
+  * [Multi-GPU 총정리 2 : 네이버 블로그](https://blog.naver.com/jjunsss/222920544019) 2. DistributedDataParallel(DDP)
+  * [Multi-GPU 총정리 3 : 네이버 블로그](https://blog.naver.com/jjunsss/222920569248) 3. torch.distributed.launch과 torchrun.
+  * [Multi-GPU 총정리 4 : 네이버 블로그](https://blog.naver.com/jjunsss/222920593359) 4. 개인적인 DDP 궁금증과 응용법 제안.
+  * [Multi-GPU 총정리 5 : 네이버 블로그](https://blog.naver.com/jjunsss/222920602019) 5. DDP barrier 함수 asymmetric issue
+  * [Multi-GPU Barrier() : 네이버 블로그](https://blog.naver.com/jjunsss/222950402492) 6. DDP sync issue
+  * [Multi-GPU 싱크 오류 : 네이버 블로그](https://blog.naver.com/jjunsss/223010351970) 7. Save files while using DDP.
+  * [Multi-GPU 파일 저장 및 삭제 주의사항 : 네이버 블로그](https://blog.naver.com/jjunsss/223075355198) 8. Efficient usage strategy of DDP.
+  * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
+  * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
