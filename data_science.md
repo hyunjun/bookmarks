@@ -1105,6 +1105,7 @@ Data Science
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 * [속성을 활용한 추천 고도화 : Part 1. 무신사만의 패션 택소노미 구축기 | by Jungmin Seo | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-063ac9881801)
 * [속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법 | by JeeYoon Kim | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-part-2-%EB%AC%B4%EC%8B%A0%EC%82%AC%EA%B0%80-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-71f7aeb1dc5d)
+* [개인화 시대, 고객에게 신뢰 받는 서비스란 - RIDI Corp.](https://ridicorp.com/story/pr-personalized-marketing-technology/)
 * [리디 추천 시스템, MLOps platform에 올라탈 결심 - RIDI Corp.](https://ridicorp.com/story/mlops-platform-ridi/)
 
 ## Recommendation Python
