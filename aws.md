@@ -559,6 +559,8 @@ AWS
   * The session covers the integration with SQS and Kinesis, monitoring situations, cost management, and chaos engineering
   * The presentation also includes resources, recommended books, and a Q&A session.
   * [Sh... Fail Happens Fail-aware Events Processing on AWS • Marcin Sodkiewicz • GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1067704)
+* [HPC Workload Service - AWS Parallel Computing Service (PCS) - AWS](https://aws.amazon.com/pcs/)
+  * [AWS announces Parallel Computing Service (AWS PCS)](https://www.techwrix.com/aws-announces-parallel-computing-service-aws-pcs/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
