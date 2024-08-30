@@ -2022,6 +2022,13 @@ Docker
 * [HomeLab Cluster Project | LinkedIn](https://www.linkedin.com/pulse/homelab-cluster-project-yuntae-jin-bpxwc/)
   * [HomeLab Cluster yureutae-log](https://yureutae-log.vercel.app/?tag=1%3A%3AProjects%3A%3AHomeLab-Cluster)
   * [yureutae-log 콘텐츠 - 서핏](https://www.surfit.io/channel/yureutae-log)
+* [Database in Kubernetes: Is that a good idea?](https://vonng.com/cn/blog/en/db-in-k8s/)
+  * [Database in Kubernetes: Is that a good idea? | by Vonng | Medium](https://medium.com/@fengruohang/database-in-kubernetes-is-that-a-good-idea-daf5775b5c1f)
+  * The article discusses the pros and cons of using Kubernetes to manage databases, specifically PostgreSQL and MySQL
+  * while Kubernetes is great for managing stateless applications, it has fundamental drawbacks when managing stateful services, especially databases
+  * The author suggests that treating databases as "cattle" in Kubernetes turns external disk/file system/storage services into new "database pets," and running databases on EBS/network storage presents significant disadvantages in reliability and performance
+  * using high-performance local NVMe disks make the database bound to nodes and non-schedulable, negating the primary purpose of putting them in K8S
+  * concludes that until the reliability and performance of the network storage surpass local storage, placing databases in K8S is an unwise choice
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2221,6 +2228,9 @@ Docker
   * [**로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1) | 요즘IT**](https://yozm.wishket.com/magazine/detail/2515/)
   * [**로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (2) | 요즘IT**](https://yozm.wishket.com/magazine/detail/2516/)
   * [Unleashing the Power of AI in Kubernetes through K8sGPT | Alex Jones - YouTube](https://www.youtube.com/watch?v=aKVDMh2ha98)
+  * [Find Your Own Personal Tutor for the Study of Kubernetes | 为学习Kubernetes找到适合您的个人导师 - Hoon Jo - YouTube](https://www.youtube.com/watch?v=xy7tJTIfyg8)
+    * To learn Kubernetes more effectively, consider using K8sGPT with Ollama to overcome knowledge gaps
+    * K8sGPT offers interactive mode, which allows users to ask follow-up questions until they receive satisfactory answers
 * [k8spacket - packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
