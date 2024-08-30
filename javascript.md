@@ -29,6 +29,7 @@ Javascript
   * [이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
   * [웹소켓 및 HTTP/2 SSE](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
 * [당신이 모르는 자바스크립트의 메모리 누수의 비밀 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210611) memory leak
+* [Common Causes of Memory Leaks in JavaScript](https://www.trevorlasn.com/blog/common-causes-of-memory-leaks-in-javascript)
 * [JavaScript essentials: 엔진 동작을 알아야 하는 이유](http://devtimothy.tistory.com/94)
 * [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
   * [자바스크립트 피로감을 줄여주기 위한 학습 계획](https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/)
@@ -45,6 +46,7 @@ Javascript
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
 * [JavaScript for Web Designers — A Book Apart](https://javascript-for-web-designers.abookapart.com/) 제목에서 알 수 있듯이, 이 책은 디자이너가 JavaScript를 이해할 수 있도록 도와주는 것이지만 이는 반대로 얘기하면 비 기술적 직무를 수행하는 모든 이들을 위한 책
+* [JavaScript를 배우는 방법: 초보자를 위한 단계별 가이드 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2024/08/how-to-learn-javascript/)
 * [Mohammed Junaid 🎯 on Twitter: "Master JavaScript. Top 22 Github Repos for JavaScript Developers. Thread 🧵" / Twitter](https://twitter.com/mdjunaidap/status/1558696637593272321)
 * [9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O - YouTube](https://www.youtube.com/watch?v=ZOVG7_41kJE)
 * [내가 프론트엔드를 학습한 방법 | miryang.dev](https://miryang.dev/blog/how-studied-frontend)
@@ -754,6 +756,7 @@ Javascript
   * [2020-09.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-09.md)
   * [2020-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-08.md)
   * [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
+* [Korean FE article | Han Jung(한정) | Substack](https://kofearticle.substack.com/)
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 * [웹에서 프리 드로잉 밑바닥부터 구현하기. 자연스러운 프리 드로잉 알고리즘을 완성해 가는 과정 | by Minseo Kang | Mar, 2024 | Team QANDA](https://blog.mathpresso.com/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC-%EB%93%9C%EB%A1%9C%EC%9E%89-%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-965a0d2253c1) canvas
@@ -978,6 +981,7 @@ Javascript
   * [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
   * [Measure Time Taken by a Function to Execute in JavaScript - YouTube](https://www.youtube.com/watch?v=3dkTjy9AX6k)
   * [JS로 시간 다루기. 시간을 다루는 것은 참 까다롭습니다. 여러 가지 지식이 필요하기… | by 이상선 | Jan, 2023 | Medium](https://medium.com/@sunyi233/js%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A4%EB%A3%A8%EA%B8%B0-ee8baa05c03c)
+  * [JS Dates Are About to Be Fixed | TimeTime](https://docs.timetime.in/blog/js-dates-finally-fixed/)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
 * File
   * [자바스크립트로 파일 다운로드하기](https://developer-alle.tistory.com/435)
@@ -6489,6 +6493,7 @@ Javascript
   * [TypeScript 5.5 릴리즈 | GeekNews](https://news.hada.io/topic?id=15593)
 * [A different way to think about TypeScript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
   * [**(번역) 타입스크립트에 대한 다른 접근법**](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
+* [MIXEDCODE : 개발자 커뮤니티 토탈 플랫폼-믹스드코드](https://mixedcode.com/blog?cpid=1&ccid=12)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
