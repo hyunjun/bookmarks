@@ -279,6 +279,7 @@ Vision
   * [논문 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기 | GeekNews](https://news.hada.io/topic?id=7066)
 * [3D Computer Vision | National University of Singapore - YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 * [이미지 기반 스팸 대응을 위한 카카오의 AI 기술 활용 / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/625)
+* [실제 광고 이미지 만들기](https://aifactory.space/task/6679/overview)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
