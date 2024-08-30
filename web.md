@@ -967,6 +967,7 @@ Web
   * [CSS에 if() 인라인 조건문 추가 예정 | GeekNews](https://news.hada.io/topic?id=15442)
 * [It’s Time To Talk About “CSS5” — Smashing Magazine](https://www.smashingmagazine.com/2024/08/time-to-talk-about-css5/)
   * [이제 "CSS5"에 대해 이야기할 시간입니다 | GeekNews](https://news.hada.io/topic?id=16247)
+* [A Practical Introduction to Scroll-Driven Animations with CSS scroll() and view() | Codrops](https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -1128,6 +1129,8 @@ Web
   * HTML 생태계의 상황을 2만여 명에게 설문 조사해서 정리한 결과
   * From, 상호작용, 접근성 등 각 기능의 사용 여부와 알려진 정도를 살펴볼 수 있고 정적 사이트 생성기나 API의 사용 정도 파악 가능
 * [컨텐츠에 따라 높이가 자동으로 조절되는 textarea 구현하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/%EC%BB%A8%ED%85%90%EC%B8%A0%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%86%92%EC%9D%B4%EA%B0%80-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%A1%B0%EC%A0%88%EB%90%98%EB%8A%94-textarea-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+* [Replace Twitter Embeds with Semantic HTML – Terence Eden’s Blog](https://shkspr.mobi/blog/2024/08/replace-twitter-embeds-with-semantic-html/)
+  * [트위터 임베드를 Semantic HTML로 교체하기 | GeekNews](https://news.hada.io/topic?id=16517)
 * [HEAD: A simple guide to HTML <head> elements](https://github.com/joshbuchea/HEAD)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
@@ -2438,6 +2441,9 @@ Web
     * 이 문제를 해결하기 위해 Shared Worker를 만들어서 여러 탭에서 노션을 열어도 활성화된 탭에서만 데이터베이스에 접근할 수 있도록 구현
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
+* [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
+  * [백그라운드 리무버 AI - BackgroundRemoverAI.com](https://www.backgroundremoverai.com/)
+  * [BackgroundRemover - 이미지/영상에서 배경지우기 오픈소스 | GeekNews](https://news.hada.io/topic?id=9145)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
 * [componentize-js](https://github.com/bytecodealliance/componentize-js)
   * ComponentizeJS는 실험적 도구로 임베드 된 SpiderMonkey JS 엔진을 사용해, JavaScript 코드를 WebAssembly Component로 생성
@@ -2461,6 +2467,9 @@ Web
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [pyodide: Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
+* [remove-bg: Remove background directly in your browser, powered by WebGPU](https://github.com/ducan-ne/remove-bg)
+  * [Automate Your Image with Bannerify - Image & Video Generation Made Easy](https://bannerify.co/tools/remove-bg)
+  * [Remove-bg - WebGPU를 이용한 이미지 배경 지우기 오픈소스 | GeekNews](https://news.hada.io/topic?id=16486)
 * Spin [Introducing Spin | Spin Documentation](https://spin.fermyon.dev/)
   * [Introducing Spin | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/blog/introducing-spin)
   * [Spin - 오픈소스 WebAssembly 프레임워크 | GeekNews](https://news.hada.io/topic?id=6286)
