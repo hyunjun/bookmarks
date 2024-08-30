@@ -581,6 +581,7 @@ Algorithm
 * [이웃한 두 수의 합이 제곱수인 순환](https://www.jiwon.me/1-to-32-hamilton-cycle/) hamilton cycle
 * [TYPES OF GRAPHS (DATA STRUCTURES & ALGORITHMS) - YouTube](https://www.youtube.com/watch?v=DPWzJKII7sE)
 * [Graph Representation(Data Structures & Algorithms) - YouTube](https://www.youtube.com/watch?v=SWqyoSDre1g)
+* [Sparse Table](https://namnamseo.tistory.com/entry/Sparse-Table)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
