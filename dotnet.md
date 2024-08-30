@@ -184,6 +184,7 @@
   * [.net maui 로 앱을 만들어볼까 했다가 | K리그 프로그래머](https://jeho.page/essay/2022/08/19/maui.html)
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
+  * [Microsoft, Mono Project를 Wine 팀에 기부 | GeekNews](https://news.hada.io/topic?id=16495)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 * [.NET nanoFramework – Making it easy to write C# code for embedded systems](https://www.nanoframework.net/)
