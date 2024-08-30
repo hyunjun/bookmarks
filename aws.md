@@ -1457,6 +1457,7 @@ AWS
 * [(AWS EKS에서) ENI와 IP TARTET에 대한 설명](https://www.linkedin.com/posts/jybaek_aws-eks%EC%97%90%EC%84%9C-eni%EC%99%80-ip-tartet%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-eks-activity-7212421118123466753-isVB/)
 * [간소화된 Amazon EKS 액세스 관리 제어 톺아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 * [무중단으로 EKS 클러스터 버전 업그레이드하기 - 블럭스 매거진](https://blog.blux.ai/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%9C%BC%EB%A1%9C-eks-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%98%EA%B8%B0-25859)
+* [따배EKS Amazon EKS 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
