@@ -535,6 +535,7 @@ Python
   * 이로 인해 발생할 수 있는 위험 요소들도 함께 언급
   * GIL은 Python의 메모리 관리를 위한 것이지만, 이로 인해 여러 CPU 코어를 활용할 수 없는 단점
   * GIL을 비활성화했을 때 발생할 수 있는 위험 요소들과 함께, GIL이 선택적으로 사용 가능해진 이유와 앞으로의 계획에 대해 설명
+* [500 Python Interpreters • Izzy Muerte](https://izzys.casa/2024/08/463-python-interpreters/) 3.13
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 
@@ -1595,6 +1596,7 @@ Python
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
   * [**Today I Learned: 파이썬 context manager, with구문으로 안전한 리소스 관리를 하자**](https://sjquant.github.io/파이썬-Context-Manager)
   * [Context Managers in Python — Go Beyond “with open() as file” | by Yong Cui, Ph.D. | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114)
+  * [AI Convergence :: Python with get_openai_callback as cb: 의미](https://mobicon.tistory.com/628)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
@@ -4724,6 +4726,7 @@ Python
     * `pip`와 `pip-tools`를 대체하려고 Rust로 작성된 uv는 엄청나게 빠른 Python 패키지 인스톨러이면서 리졸버
     * Python을 위한 Cargo 지향, 이번 릴리스와 함께 Rye의 관리도 같이 맡아서 공동의 비전을 실현하기 위해 노력
   * [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+  * [UV with Django](https://blog.pecar.me/uv-with-django)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
