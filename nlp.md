@@ -61,7 +61,7 @@ NLP
   * conv s2s 이해를 위해 읽어야 할 논문 10+ 편
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
-* [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
+* [Perplexity](https://en.wikipedia.org/wiki/Perplexity)
   * [Perplexity in LM](http://hexists.tistory.com/215)
   * [Lecture 4: Evaluating language models](https://courses.engr.illinois.edu/cs498jh/Slides/Lecture04.pdf)
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
@@ -996,6 +996,7 @@ NLP
     * [논문봇 v2 - 출력물 일관성 확보 | Pega Devlog](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
     * [문장을 웹소설 스타일의 망가진 체로 바꿔주는 GPTs | GeekNews](https://news.hada.io/topic?id=15499)
     * [데이터 분석용 GPTs - 플랏봇 | Pega Devlog](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
+    * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
