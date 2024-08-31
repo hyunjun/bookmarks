@@ -2657,6 +2657,7 @@ Programming Books
   * 한라 005.118-최24ㅍ
   * [fullstack-react: 풀스택 리액트, 타입스크립트, 노드 리액트 18, 훅, GraphQL로 클라우드 기반 웹앱 만들기](https://github.com/AcornPublishing/fullstack-react)
   * [Full-Stack-React-TypeScript-and-Node-acorn: Full-Stack-React-TypeScript-and-Node](https://github.com/JungYeolYang/Full-Stack-React-TypeScript-and-Node-acorn)
+* (NOT YET) [자바스크립트 리액트 디자인패턴(한빛미디어) 도서 리뷰 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/books/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4(%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4)-%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0/)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
