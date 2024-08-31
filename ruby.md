@@ -68,6 +68,7 @@ Ruby
 * [(Not always) Cool methods to be careful when working with rails - DEV Community 👩💻👨💻](https://dev.to/jplethier/not-always-cool-methods-to-be-careful-when-working-with-rails-8cf)
 * [Best Ruby on Rails IDEs and Editors To Use In 2022 - DEV Community 👩💻👨💻](https://dev.to/rachgrey/best-ruby-on-rails-ides-and-editors-to-use-in-2022-3cph)
 * [ActiveRecord Internals : You are not ready for this - DEV Community](https://dev.to/yet_anotherdev/activerecord-internals-you-are-not-ready-for-this-a93)
+* [Ruby의 unless 쉽게 읽기 | K리그 프로그래머](https://jeho.page/essay/2024/08/28/ruby-unless.html)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
