@@ -46,6 +46,7 @@ Robot
   * DeepMind가 로보틱스 연구자들이 많이 사용하는 물리 시뮬레이터인 [MuJoCo](https://mujoco.org/download)를 인수, 무료 공개
 * [로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF) | GeekNews](https://news.hada.io/topic?id=6010)
 * [미쯔비시 로봇, Rubik's Cube를 0.305초만에 풀어 | GeekNews](https://news.hada.io/topic?id=15237)
+* [로봇 ML 모델의 경량화 1부: 훈련 후 양자화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18980/)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
