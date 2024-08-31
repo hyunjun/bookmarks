@@ -1107,6 +1107,10 @@ Data Science
 * [속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법 | by JeeYoon Kim | MUSINSA tech | Jul, 2024 | Medium](https://medium.com/musinsa-tech/%EC%86%8D%EC%84%B1%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EA%B3%A0%EB%8F%84%ED%99%94-part-2-%EB%AC%B4%EC%8B%A0%EC%82%AC%EA%B0%80-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-71f7aeb1dc5d)
 * [개인화 시대, 고객에게 신뢰 받는 서비스란 - RIDI Corp.](https://ridicorp.com/story/pr-personalized-marketing-technology/)
 * [리디 추천 시스템, MLOps platform에 올라탈 결심 - RIDI Corp.](https://ridicorp.com/story/mlops-platform-ridi/)
+* [Recommending for Long-Term Member Satisfaction at Netflix | by Netflix Technology Blog | Aug, 2024 | Netflix TechBlog](https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef) reward
+  * To optimize long-term member satisfaction at Netflix, the company uses a contextual bandit approach to recommend content
+  * discuss the challenges of using retention as a reward and propose using proxy rewards that are more sensitive to individual recommendations
+  * The authors also discuss the challenge of delayed user feedback and propose a solution for predicting missing feedback
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
