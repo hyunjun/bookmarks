@@ -321,6 +321,7 @@ Algorithm
 * [24' 현대모비스 알고리즘 대회 후기. 2024년 현대모비스 알고리즘 경진대회에 다녀왔습니다.  간단하게… | by scalalang2 | scalalang | Jul, 2024 | Medium](https://medium.com/scalalang/24-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8C%80%ED%9A%8C-%ED%9B%84%EA%B8%B0-c2ce076311ec)
 * [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
   * [우리의 소프트웨어 개발 알고리듬 | GeekNews](https://news.hada.io/topic?id=16383)
+* [2024 NYPC 예선 Round 1 / 2-A / 2-B 풀이 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/08/25/2024-nypc-qual/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
