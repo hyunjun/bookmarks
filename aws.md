@@ -390,6 +390,7 @@ AWS
 * [AWS가 제공하는 고성능 컴퓨터 서비스(HPC on AWS)를 사용해야 이유 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introduction-of-hpc-on-aws/)
 * [AWS 클라우드 기반의 HPC 클러스터는 어떤 서비스들로 구성될까? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-construct-hpc-on-aws/)
 * [HPC(eVDI) 전문 MSP를 이용한 AWS 클라우드 기반의 R&D 환경 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/msp-offering-for-hpc-on-aws/)
+* [HPC 클러스터를 구성하는 핵심요소, AWS EC2 인스턴스 소개 1부: CAE 워크로드에 따른 EC2 인스턴스 선택 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc_cluster_ec2_1/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
@@ -592,6 +593,7 @@ AWS
 * [풀 리퀘스트를 위한 웹 미리 보기 - AWS Amplify호스팅](https://docs.aws.amazon.com/ko_kr/amplify/latest/userguide/pr-previews.html) feature branch를 만들고 feature branch를 위한 별도 URL을 만드는 등
 * [AWS amplify로 서버리스 웹 애플리케이션 구축하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230612-aws-amplify-serverless/)
 * [CDN Caching Improvements for Better App Performance with AWS Amplify Hosting | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/cdn-caching-improvements-for-better-app-performance-with-aws-amplify-hosting/)
+* [ProjectWith의 Amplify 적용을 통한 운영 효율성 개선 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/projectwith-amplify-migration-case/)
 
 # API Gateway
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
@@ -715,6 +717,10 @@ AWS
   * 구현 예시와 정확도 평가 결과를 통해 실제 비즈니스 데이터를 활용한 커스텀 평가 방법의 중요성 강조
   * 또한, 이 기법의 응용 가능성과 개선 방향에 대해서도 설명
 * [AWS 기술 파트너와 함께 구축한 푸드테크 기업 식신의 Amazon Bedrock 기반 AI 대시보드 구축기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sikshin-built-ai-dashboard-with-aws-technology-partners-based-on-amazon-bedrock/)
+* [Voithru의 GPT에서 Amazon Bedrock Claude Sonnet 3.5로의 전환 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/voithru-gpt-to-claude-3/)
+* [Clothbox의 Amazon Bedrock을 활용한 AI 패션 스캐너 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/clothbox-ai-fashion-scanner-using-amazon-bedrock/)
+* [Amazon Bedrock을 활용한 AWS Korea YouTube 채널의 숏폼 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-shortform-content-automation/)
+* [GS SHOP 패션 검색의 진화, Amazon Bedrock 멀티모달 기반 패션 검색 시스템 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/gs-shop-bedrock-multi-modal-fashion-search/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -2481,6 +2487,7 @@ AWS
 * [Amazon Aurora 및 Amazon RDS의 MySQL 데이터베이스에 대한 Amazon RDS 연장 지원 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-rds-extended-support-for-mysql-databases-on-amazon-aurora-and-amazon-rds/)
 * [Why Postgres RDS didn’t work for us (and why it won’t work for you if you’re implementing a big data solution) | by Max Kremer | Jan, 2024 | Medium](https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644)
 * [Amazon RDS Custom에서 D’Amo를 이용한 안전한 데이터 암호화 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-secure-data-encryption-with-damo-in-amazon-rds-custom/)
+* [nGrinder를 활용한 Amazon RDS 업그레이드 성능 테스트 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/rds-upgrade-stress-test-using-nginder/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
@@ -2642,6 +2649,7 @@ AWS
 * [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
 * [LLM 에 대한 OWASP Top 10을 사용하여 생성형 AI 애플리케이션을 위한 심층적인 방어 보안 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/)
 * [AWS 계정에 있는 모든 Security Group을 한방에 조사하는 방법 - HBsmith](https://blog.hbsmith.io/aws-%EA%B3%84%EC%A0%95%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AA%A8%EB%93%A0-security-group%EC%9D%84-%ED%95%9C%EB%B0%A9%EC%97%90-%EC%A1%B0%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e2253253469c)
+* [효과적인 위협 모델링을 수행하기 위한 제언 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-approach-threat-modeling/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
