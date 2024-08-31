@@ -1677,6 +1677,7 @@ Business
   * [패턴 브레이커](https://brunch.co.kr/@yongjinjinipln/150)
 * [서비스 개발 아이디어를 얻는 소소한 팁 & 경험담](https://soulduse.tistory.com/144)
 * [AI와 노코드 툴로 빠르게 SaaS 아이디어 검증하는 법](https://eopla.net/magazines/19895)
+* [아이디어의 가치: 기록을 넘어 실행으로](https://soulduse.tistory.com/147)
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
@@ -2527,6 +2528,7 @@ Business
 * [Understanding values: Schwartz theory of basic values – Integration and Implementation Insights](https://i2insights.org/2022/05/10/schwartz-theory-of-basic-values/)
   * [Fit은 조직/직무 적합성이라고 이야기하는 경우가 많은데, 저는 Fit을 판단할 때 '가치관'과 '성격', 두 가지로 나눠서 접근](https://www.linkedin.com/posts/kangminlee_fit%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EA%B7%B8%EB%83%A5-%EB%91%90%EB%A3%A8%EB%AD%89%EC%8B%A4%ED%95%98%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%A7%81%EB%AC%B4-%EC%A0%81%ED%95%A9%EC%84%B1%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EA%B0%80-activity-7218165781627355136-2aL6/)
 * ["2500년"동안 단 한번도 바뀌지 않은 '3가지' 성공법칙 (임용한 박사 3부) - YouTube](https://www.youtube.com/watch?v=1ZLpzOj3toA) 삼국지를 통해 trust 등 여러가지를 이야기함
+* [위임 못하는 리더의 숨겨진 속마음 - 질투심](https://brunch.co.kr/@alden/79)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2749,6 +2751,7 @@ Business
 * [플랫폼 팀의 1년, 일본 최대 규모의 배달 서비스에 안착하기까지](https://techblog.lycorp.co.jp/ko/one-year-retrospective-of-platform-team-at-demaecan)
 * [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
 * [팀의 이번 분기 목표는 무엇인가요?. 5초 만에 대답해 보세요. | by Stephan Seunghwan Seo | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9D%98-%EC%9D%B4%EB%B2%88-%EB%B6%84%EA%B8%B0-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-22c2130a59f1)
+* [팀장이 실무와 매니징 하면서 너무 버거울때 (feat. 제갈량) | by Joon Won Lee | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5%EC%9D%B4-%EC%8B%A4%EB%AC%B4%EC%99%80-%EB%A7%A4%EB%8B%88%EC%A7%95-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%84%88%EB%AC%B4-%EB%B2%84%EA%B1%B0%EC%9A%B8%EB%95%8C-feat-%EC%A0%9C%EA%B0%88%EB%9F%89-691aa609c43f)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -3176,6 +3179,9 @@ Business
 * [앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@yongjinjinipln/156)
   * 구체적인 아이디어가 장점 < 잘못된 편향의 리스가 더 크다고 생각한다고 함
   * 나는 잘 이해가 안 감. 모호하고 넓은 아이디어가 어떤 면에서 더 좋은 걸까?
+* [프로덕트 디자이너가 본 '더 인플루언서'](https://jayoung.blog/theinfluencer/)
+* [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 1편. BX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-1/)
+* [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 2편. UX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-2/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -4066,6 +4072,7 @@ Business
 * [데스크탑 GUI 갤러리 | GeekNews](https://news.hada.io/topic?id=8857)
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(1/2). 안녕하세요, 성과관리 서비스를 만드는 레몬베이스에서 프로덕트 디자이너로… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-1-2-2175f99c6401)
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(2/2). 2편에서는 3. 리서치의 필요성에 대해 구성원들을 설득하는 방법과 4… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-2-2-d4dfeae0e8c1)
+* [24화 UX, UI, UX/UI, 프로덕트 디자이너의 차이?](https://brunch.co.kr/@cliche-cliche/244)
 * [첫 UX writer는 무슨 일을 해야 할까](https://toss.tech/article/1st_uxwriter)
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
