@@ -112,6 +112,9 @@ Writing
 * [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2053/)
 * [글, 어떻게 쓸 것인가?(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2119/)
 * [개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2134/)
+* [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
+* [쏘카에서 기술 블로그를 운영하는 방법 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/15/how-to-organize-tech-blog.html)
+* [엔지니어를 위한 기술 블로그 작성 비법(feat. 빠르고 완성도 높게 글쓰기) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/08/21/tech-blog-high-quality/)
 * [Why engineers should focus on writing - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/why-engineers-should-write/)
   * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
 * [문서 쓰는 디자이너. 알라미 팀 디자이너가 문서 작성하는 법 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AC%B8%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-e4d34ff20456)
@@ -165,7 +168,6 @@ Writing
 * [동료를 선배, 선생님으로 부르게 된 사연. 기술 업계의 독성 말투 문제, 고칩시다! 글을 읽어보면 장구한 역사를… | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%EB%8F%99%EB%A3%8C%EB%A5%BC-%EC%84%A0%EB%B0%B0-%EC%84%A0%EC%83%9D%EB%8B%98%EC%9C%BC%EB%A1%9C-%EB%B6%80%EB%A5%B4%EA%B2%8C-%EB%90%9C-%EC%82%AC%EC%97%B0-db7120b8ca2c) writing과는 직접 관련은 없지만
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
   * [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
-* [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
 * [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
 * [Write The Docs 3월 밋업 발표자료](https://blog.outsider.ne.kr/1435)
 * [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/)
@@ -202,6 +204,7 @@ Writing
 * [What makes library docs great Library review: Iron - DEV Community](https://dev.to/zelenya/what-makes-library-docs-great-library-review-iron-518a)
 * [Two open source projects with great documentation • johnjago.com](https://johnjago.com/great-docs/)
   * [esbuild와 Redis, 훌륭한 아키텍처 문서를 갖춘 두 개의 오픈 소스 프로젝트 | GeekNews](https://news.hada.io/topic?id=14004)
+* [MVP를 빠르고 효과적으로 개발하기: 우리는 협업해요. 안녕하세요. 저는 당근 LocalMaps UGC 팀에서 서버 개발을… | by 민정(Joanne) | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/mvp%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%98%91%EC%97%85%ED%95%B4%EC%9A%94-dc481bd03b88) tech spec
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
@@ -303,7 +306,6 @@ Writing
 * [Overview of technical writing courses  |  Technical Writing  |  Google Developers](https://developers.google.com/tech-writing/overview)
 * [Leadership Principles for AWS News Bloggers](https://www.linkedin.com/pulse/leadership-principles-aws-news-bloggers-jeff-barr/)
   * [블로거 리더쉽 원칙 :: Channy's Blog](https://channy.creation.net/blog/1758)
-* [쏘카에서 기술 블로그를 운영하는 방법 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/15/how-to-organize-tech-blog.html)
 * [자주 틀리는 띄어쓰기, 여기서 딱 정해 드립니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/359)
 * [테크니컬 라이터와 Git](https://tech.kakaoenterprise.com/187)
 * [넷마블 테크니컬 라이터로 일한 8개월의 회고 - 넷마블 기술 블로그](https://netmarble.engineering/8-months-in-the-life-of-a-technical-writer-at-netmarble/)
