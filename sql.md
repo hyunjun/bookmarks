@@ -993,6 +993,8 @@ SQL
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
 * [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
 * [sql에서 collation이 왜 중요할까요?](https://codingdog.tistory.com/entry/sql%EC%97%90%EC%84%9C-collation%EC%9D%B4-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C%EC%9A%94)
+* [MySQL 콜레이션은 어떻게 동작할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2736/)
+* [MySQL/MariaDB character sets and collations explained – why utf8 is not UTF-8 | Hello DevOps](https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/)
 * [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/315)
 * [Mysql FEDERATED Engine 으로 dblink 구현하기](https://stricky.tistory.com/325)
 * [MySQL SQL 독학 강의 전체 A to Z](https://stricky.tistory.com/333)
@@ -1020,7 +1022,6 @@ SQL
 * [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
 * [How to Connect A GraphQL API and A MySQL Database in Your GraphQL Layer | StepZen blog](https://stepzen.com/blog/connect-a-mysql-db-and-graphql-api-in-a-gql-layer)
 * [번역 MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
-* [MySQL/MariaDB character sets and collations explained – why utf8 is not UTF-8 | Hello DevOps](https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/)
 * [Login y Logout con NodeJS y MySQL usando jsonwebtokens - YouTube](https://www.youtube.com/watch?v=PRoTFE2RSfQ)
 * [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
 * [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
@@ -1067,6 +1068,8 @@ SQL
 * [PlanetScale is bringing vector search and storage to MySQL](https://planetscale.com/blog/planetscale-is-bringing-vector-search-and-storage-to-mysql)
 * [MySQL DECIMAL vs DOUBLE(FLOAT): 뭘 선택해야 할까?(Feat. 고정 소수점 vs 부동 소수점)](https://woonys.tistory.com/entry/MySQLDECIMAL-vs-DOUBLEFLOAT-%EB%AD%98-%EC%84%A0%ED%83%9D%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8CFeat-%EA%B3%A0%EC%A0%95-%EC%86%8C%EC%88%98%EC%A0%90-vs-%EB%B6%80%EB%8F%99-%EC%86%8C%EC%88%98%EC%A0%90)
 * [MAMP의 MySQL 포트가 3306이 아닌데도 localhost라고만 적었을 때 접속이 되는 이유 – 형우의 웹개발](https://mytory.net/archives/16179)
+* [VARCHAR vs. TEXT, 뭐가 다를까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2726/)
+* [CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2717/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
