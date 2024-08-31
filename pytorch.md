@@ -552,3 +552,5 @@ PyTorch
 * [파이토치 1. 기본 자료형 텐서](https://bcho.tistory.com/1432)
 * [파이토치 2. 선형회귀 (Linear Regression)을 통한 코드 구조 이해](https://bcho.tistory.com/1434)
 * [파이토치 3. 파이토치라이트닝](https://bcho.tistory.com/1435)
+* [파이토치 4 - 쿠버네티스에서 학습하기](https://bcho.tistory.com/1436)
+* [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/1437)
