@@ -63,9 +63,12 @@ PHP
   * PHP, Apache, MySQL로 된 서버가 자주 다운되어서 문제를 추적해 간 과정을 정리한 글
   * 실험 환경을 만들고 가설을 세운 뒤 결과를 비교하면서 원인을 찾아가는 과정 좋음
 * [PHP: 잘못된 디자인의 프랙탈](https://saschanaz.github.io/PHP-a-fractal-of-bad-design-kr/)
+* [How to install or upgrade to PHP 8.3 on Ubuntu and Debian • PHP.Watch](https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu)
+  * [메모 우분투, PHP 8.3으로 업그레이하기 명령어 – 형우의 웹개발](https://mytory.net/archives/16766)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
+* [PHP 개발시 보안 취약점이 생기지 않게 주의해야 할 느슨 비교(==) – 형우의 웹개발](https://mytory.net/archives/16769)
 * [PHP 꼴랑이거(1) - 배열 순환에서 참조 변수 사용 시 주의사항 - 완두블로그](https://wani.kr/posts/2014/01/09/php-something-1-array-walk/)
 * [PHP 꼴랑이거(2) - `__get`, `__set`에서 바로 배열 접근. - 완두블로그](https://wani.kr/posts/2014/08/18/php-something-2-getter-setter-array-access/)
 * [PHP 꼴랑이거(3) - static과 self의 차이 - 완두블로그](https://wani.kr/posts/2015/02/12/php-something-3-static-vs-self/)
