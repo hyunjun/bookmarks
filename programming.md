@@ -1260,6 +1260,9 @@ Programming
       * 관리 그룹에서 누군가 계획 수립에 대한 자료를 요청했습니다. 저는 이 시리즈의 추정에 대한 링크를 공유했지만, 곧 그들은 무언가 빠진 것 같다고 말했습니다. 이 시리즈의 이전 부분은 명확하게 정의된 작업 목록을 가정하지만, 이 매니저가 가르치려는 사람들은 아직 그렇지 않습니다. 그들은 프로젝트를 명확하게 정의된 작업 집합으로 '분해하는' 이전 단계에 대한 도움이 필요합니다.
       * 저는 이전에 작업 목록을 분해하는 방법에 대해 쓰지 않았는데, 그것이 대부분 직관적이라고 생각했기 때문입니다. 다음을 설명하기 전에 저의 프로세스는 다음과 같다고 할 수 있습니다: "프로젝트에 대해 생각하고 작업 목록을 작성한다." 그러나 이것은 매우 불만족스럽고 "나머지 부분은 스스로 그려내라"는 식의 답변입니다.
       * 따라서 여기서는 이 간극을 메우고 프로젝트를 구성 작업으로 분해하는 과정을 살펴보겠습니다. 예를 들어 작업을 분해하는 방법을 보여주고 그 과정을 설명할 것입니다. 하지만 우회로를 거치고 싶지 않다면 마지막 부분으로 건너뛰어 프로세스를 요약할 수 있습니다.
+* [Software estimates have never worked and never will](https://world.hey.com/dhh/software-estimates-have-never-worked-and-never-will-a41a9c71)
+  * [소프트웨어 개발 일정 산정은 효과가 없었고 앞으로도 없을 것입니다 (Software estimates have never worked and never will) | Write the code. Change the world.](https://kyoungwon.me/articles/2024/08/20/Software-estimates-have-never-worked-and-never-will/)
+* [소프트웨어 개발의 불확실성 : OO 미터를 15초에 달릴 수 있어?](https://velog.io/@joosing/uncertainty-in-software-development)
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
 * [Programmers, what do you despise about Agile? - Quora](https://www.quora.com/Programmers-what-do-you-despise-about-Agile)
@@ -3245,6 +3248,7 @@ Programming
 * [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 * [토스ㅣSLASH 23 - 은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기) - YouTube](https://www.youtube.com/watch?v=amTJyIE1wO0)
   * [은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)](https://toss.tech/article/slash23-corebanking)
+* [전세대출에서 대외기관 신용정보를 조회하는 방법](https://toss.tech/article/serverdeveloper_housing)
 * [마이크로서비스, 그 단어의 역사. 2018년 이전에 고등학교를 졸업하신 분들께는 굉장히 생소할텐데… | by 김희수Higgs(힉스) / 기술기획팀 | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B7%B8-%EB%8B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC-3cce0133312)
 * [MSA에 테이블 복제는 없다 (feat. 공통.. : 네이버블로그](https://blog.naver.com/wharup/223174435788)
 * [MSA 서비스간 데이터 참조 가이드 (성능 튜.. : 네이버블로그](https://blog.naver.com/wharup/223188187194)
@@ -5173,6 +5177,7 @@ Programming
   * 기기 증명 클라이언트와 기기 증명 서버가 통신
     * 클라이언트는 Trusted Execution Envionment를 이용해서 PKI 방식으로 동작하도록 구현
     * 이때 어설션을 통해서 중요한 통신을 안전하게
+* [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 2편](https://techblog.lycorp.co.jp/ko/line-device-attestation-2)
 * [노출된 .env 파일 하나가 쏘아올린 작은 공, 11만 개 도메인 공격으로 이어져](https://www.boannews.com/media/view.asp?idx=132223)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
@@ -5247,6 +5252,7 @@ Programming
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
   * [기계번역 The NeuVector Difference – 098](https://www.098.co.kr/%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD-the-neuvector-difference/)
 * [<NHN Cloud 보안 백서>를 소개합니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/372)
+  * [NHN Cloud의 보안 가이드를 소개합니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/384)
 * [Nikto web server scanner](https://github.com/sullo/nikto?tab=readme-ov-file)
 * [NShiftKey · GitHub Marketplace](https://github.com/marketplace/nshiftkey)
   * [인터뷰 네이버의 보안관 - Security 윤상진, 김도경 님](https://d2.naver.com/news/9483612)
@@ -5739,6 +5745,7 @@ Programming
 * [Nanofont3x4: 가장 작은 소문자 지원 3x4 글꼴 | GeekNews](https://news.hada.io/topic?id=13868)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
+  * [개발자용 고정폭 글꼴(mono font) 추천 - nerd font](https://sunyzero.tistory.com/301)
 * [noto-kr-vf-distilled: 용량을 줄인 Noto Sans 및 Noto Serif 가변폰트](https://github.com/akngs/noto-kr-vf-distilled)
 * [Programming Fonts - Test Drive](https://www.programmingfonts.org/)
   * [프로그래밍 폰트 테스트 드라이브 | GeekNews](https://news.hada.io/topic?id=6976)
@@ -6797,6 +6804,7 @@ Programming
   * [8월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-1.html)
   * [8월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-2.html)
   * [8월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-3.html)
+  * [8월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -7198,6 +7206,7 @@ Programming
   * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
 * [NoSQL, NoMQ: Palo Alto Networks’ New Event Streaming Paradigm – The New Stack](https://thenewstack.io/nosql-nomq-palo-alto-networks-new-event-streaming-paradigm/)
+* [(youtube)Event Streaming 도입과 앞으로의 활용 | by 29CM | 29CM TEAM | Aug, 2024 | Medium](https://medium.com/29cm/youtube-event-streaming-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%99%9C%EC%9A%A9-806f2002586a)
 * [**Spark, Flink, Kafka Streaming**](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/) 자세한 비교. 매우 좋음
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
@@ -7354,6 +7363,7 @@ Programming
 * [(레거시 시스템) 개편의 기술 - 배달 플랫폼에서 겪은 N번의 개편 경험기 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=HNt3H_7muHs)
 * [스프링캠프 2019 Track 2 Session 4 : 당신도 할 수 있는 레거시 프로젝트 개선 이야기 (이경일) - YouTube](https://www.youtube.com/watch?v=pZYZAMToenE&t=245s)
 * [회고 레거시 코드의 문제를 다루는 자세](https://velog.io/@joosing/attitude-toward-dealing-with-problems-in-legacy-code)
+* [레거시 시스템, 언제 개편해야 할까?. 성공적인 레거시 시스템 개편을 위해 해야 할 질문들 | by Daseul Kim | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%96%B8%EC%A0%9C-%EA%B0%9C%ED%8E%B8%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5e2c8121e9fc)
 * [013. 더핑크퐁컴퍼니(The Pinkfong Company) | One day dev](https://one-day.dev/post/013-pinkfong/)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
@@ -8776,6 +8786,14 @@ Programming
   * [올바른 방법의 부트스트랩 - 야니르 세루시 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/561610)
 * [Four pitfalls of hill climbing · Chris Said](https://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/)
   * [Four pitfalls of hill climbing · Chris Said | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872011)
+* [Improve Your Next Experiment by Learning Better Proxy Metrics From Past Experiments | by Netflix Technology Blog | Aug, 2024 | Netflix TechBlog](https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac)
+  * Learn better proxy metrics from past experiments to improve future experiments
+  * We propose three estimators to estimate the true proxy/north-star relationship:
+    * Total Covariance (TC)
+    * Jackknife Instrumental Variables Estimation (JIVE)
+    * Limited Information Maximum Likelihood (LIML)
+  * Our methods yield linear structural models of treatment effects that are easy to interpret, aligning proxy metrics towards the north star
+  * This work is well-suited for decentralized and rapidly-evolving experimentation environments
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
