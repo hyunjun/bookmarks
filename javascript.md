@@ -3082,6 +3082,7 @@ Javascript
     * Rust-Go-Rust 샌드위치 방식으로 점진적인 마이그레이션을 진행 중
   * [Monorepo Turborepo를 사용하여 모노레포 구축하기 — 턴태의 밑바닥부터 시작하는 de-vlog](https://dev-scratch.tistory.com/161)
   * [CI TurboRepo를 이용해서 monorepo 환경 구축하기+vercel 배포까지 (기초)](https://yoonjong-park.tistory.com/134)
+  * [쏘카 프론트엔드 모노레포 - Part1. Code Generator로 프로젝트 세팅 자동화하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/fe/2024/08/29/web-monorepo-chapter-1.html)
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
@@ -3244,6 +3245,7 @@ Javascript
     * Rust로 재작성된 Webpack 호환 번들러인 Rspack을 소개하는 글
     * Wepack+swc와 비교해 cold start는 8배, HMR은 3배의 성능
     * 아직 프로젝트 초기이긴 하지만 Turbopack과 달리 Webpack과의 호환을 어느 정도 염두에 두었기 때문에 기존 생태계를 어느 정도 유지할 것으로 예상
+    * [Rspack 1.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=16546)
   * [webpack.kr](https://webpack.kr/)
 
 ## Library excel xlsx
@@ -4007,6 +4009,7 @@ Javascript
     * [Puppeteer 안티패턴들 피하기 | GeekNews](https://news.hada.io/topic?id=6636)
   * [Build an Interactive Screen-Sharing App with Puppeteer and React | by Nevo David | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-906c7c9a1b2b)
   * [puppeteer.Page.keyboard JavaScript and Node.js code examples | Tabnine](https://www.tabnine.com/code/javascript/functions/puppeteer/Page/keyboard)
+  * [Puppeteer로 웹페이지 열고 조작하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/916)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [cucumber-puppeteer-example: Integration testing example for puppeteer.dev website](https://github.com/mlampedx/cucumber-puppeteer-example)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
@@ -5808,6 +5811,7 @@ Javascript
   * [React Query의 구조와 useQuery 실행 흐름 살펴보기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-react-query/)
   * [React Query 도입 후기](https://saramin.github.io/2023-08-02-react-query/)
   * [여러 프레임워크에서 사용할 수 있는 라이브러리 만들기](https://toss.tech/article/framework-agnostic-library)
+  * [사용자 경험 증대를 위한 낙관적 업데이트 (feat. React Query) | Univdev](https://univdev.page/posts/optimistic-update/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
@@ -5848,6 +5852,8 @@ Javascript
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
+* [react-summernote: React extension for summernote](https://github.com/easylogic/react-summernote)
+  * [Summernote 다시 해도 될까?](https://velog.io/@easylogic/Summernote-%EB%8B%A4%EC%8B%9C-%ED%95%B4%EB%8F%84-%EB%90%A0%EA%B9%8C)
 * [react-table](https://bit.cloud/aviatorscode2/react-table/)
   * [How to Build a React Table Component | by Victor Yakubu | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-react-table-component-69b101f3ea08)
 * [React Testing Library | Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
