@@ -93,6 +93,7 @@ iOS
 * [웹 브라우저와 함께 하는 애니메이션 스티커 체커](https://engineering.linecorp.com/ko/blog/line-animation-sticker-checker-on-web-browser/)
 * [Animation으로 iOS Launch Screen 구현하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/launch-screen-animation/)
 * [Supporting Dynamic Type at Airbnb](https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998)
+* [Get started with Dynamic Type (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/502)
 * [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
 * [Making Direct Messages Reliable and Fast](https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f)
 * [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
@@ -674,6 +675,7 @@ iOS
 * [Analyze heap memory](https://wlaxhrl.tistory.com/100)
 * [Discover media performance metrics in AVFoundation](https://wlaxhrl.tistory.com/101)
 * [Swift 6 - sending parameter and result values :: iOYES](https://green1229.tistory.com/499)
+* [What's new in Swift6 (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/500)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
@@ -716,6 +718,7 @@ iOS
 * [SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code](https://github.com/nicklockwood/SwiftFormat)
   * [SwiftLint와 SwiftFormat 적용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-lint-swift-format/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+  * [신규 프로젝트에 Swiftlint 적용하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/add-swiftlint-to-new-project/)
 * [swiftplot - Swift library for Data Visualization](https://github.com/KarthikRIyer/swiftplot)
   * Swift를 이용하여 멀티 플랫폼에서 그래프를 그리기 위한 방법으로 제안
   * macOS, Linux, iOS에서 그래프를 그린 후, 그 결과를 그림파일로 저장하는 것이 가능하고, 주피터 노트북 상에서 렌더링 하는 것도 가능
@@ -832,6 +835,7 @@ iOS
 * [Demystify SwiftUI containers (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/489)
 * [SwiftUI - ViewThatFits :: iOYES](https://green1229.tistory.com/490)
 * [Enhance your UI animations and transitions (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/494)
+* [SwiftUI - AnyLayout :: iOYES](https://green1229.tistory.com/503)
 
 # TDD, Test
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
@@ -913,3 +917,4 @@ iOS
 * [What's new in Xcode 15 (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/370)
 * [Xcode 15 의 iOS 17 빌드에서 User Agent 가 원하는 값으로 설정되지 않을때 (feat. iOS 버전별 WebKit 버전과 작업 내역 확인하기)](https://ebay-korea.tistory.com/93)
 * [React Native iOS Xcode에 개발자 계정 등록하기 | miryang.dev](https://miryang.dev/note/react-native/ios-dev-signing)
+* [Demystify explicitly built modules (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/501)
