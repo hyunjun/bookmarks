@@ -404,6 +404,7 @@ Open Source
   * [라이선스 변경에 대한 명확한 설명 | Elastic Blog](https://www.elastic.co/kr/blog/license-change-clarification)
   * [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
   * [Elastic과 AWS의 분쟁, 어떻게 봐야 할까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1533)
+* [ElasticSearch가 다시 오픈 소스가 됨 | GeekNews](https://news.hada.io/topic?id=16540)
 * [Reading AGPL — /dev/lawyer](https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html)
 * [Grafana, Loki, Tempo의 라이센스가 AGPL이 되면 무슨 영향을 받을까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1555)
 * [GPL의 종말 | saturnsoft.net](https://www.saturnsoft.net/opensource/2021/07/22/end-of-gpl/)
