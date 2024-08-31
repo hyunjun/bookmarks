@@ -240,6 +240,8 @@ Artificial Intelligence
   * [Multi-GPU 파일 저장 및 삭제 주의사항 : 네이버 블로그](https://blog.naver.com/jjunsss/223075355198) 8. Efficient usage strategy of DDP.
   * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
   * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
+* [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E) cursor ai
+* [Spoqa 기술 블로그 | AI를 활용한 주문서 생성 자동화: 카카오톡 주문을 키친보드 주문으로](https://spoqa.github.io/2024/08/19/ai-order-sheet.html) spring ai
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -268,6 +270,7 @@ Artificial Intelligence
 * [The AI-First Data Infrastructure | Barak Yagour - YouTube](https://www.youtube.com/watch?v=rFi0Bi7NqT8)
   * [VidiGo The AI-First Data Infrastructure | Barak Yagour.mp](https://vidigo.ai//share/summary/3c5c303e6a69)
   * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
+* [다시 보기 8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19317/)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
@@ -550,6 +553,7 @@ Artificial Intelligence
   * 3. 검색 (인덱싱, 랭킹)을 잘 하기 위한 기술 요소들
   * 4. Perplexity의 Sonar 모델, 그럼에도 Model-agnostic하게 만들기
   * 5. Latency가 매우 낮고, 계속 낮아지게 하는 동력에 관해서
+* [퍼플렉시티(Perplexity): AI 검색의 미래](https://brunch.co.kr/@yongjinjinipln/173)
 * [Disquiet on LinkedIn: RISE | Disquiet\*](https://www.linkedin.com/posts/disquiet_rise-disquiet-activity-7215992365658820608-RnPf)
 * [LLM과 모바일 UX의 매력적인 만남, 트레이스 | by Corca | Corca | Jul, 2024 | Medium](https://medium.com/corca/llm%EA%B3%BC-%EB%AA%A8%EB%B0%94%EC%9D%BC-ux%EC%9D%98-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EB%A7%8C%EB%82%A8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-3efc2c9650b9)
 * [KIRD - RnD 수행시 생성 AI를 현명하게 활용하는 방법 | Pega Devlog](https://jehyunlee.github.io/2024/07/16/General-57-kirdalphacampus/)
