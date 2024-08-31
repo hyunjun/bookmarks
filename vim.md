@@ -120,6 +120,7 @@ Vim
   * [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac - YouTube](https://www.youtube.com/watch?v=U-omALWIBos)
   * [The perfect Neovim setup for Go - YouTube](https://www.youtube.com/watch?v=i04sSQjd-qo)
   * [The (almost) perfect Neovim setup for Node.js - YouTube](https://www.youtube.com/watch?v=CVCBHHFXWNE)
+  * [TIL: VIM에서 단어 수 쉽게 보기 - rein's world](https://rein.kr/posts/2024-08-17-til-nvim-wc/)
   * AstroNvim [Getting Started | AstroNvim](https://astronvim.com/)
     * [Neovim With AstroNvim | Your New Advanced Development Editor - YouTube](https://www.youtube.com/watch?v=GEHPiZ10gOk)
   * [avante.nvim: Use your Neovim like using Cursor AI IDE!](https://github.com/yetone/avante.nvim)
