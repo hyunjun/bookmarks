@@ -810,6 +810,7 @@ Java
 * [JetBrains IDE Developer Productivity & Code Generation Support • Garth Gilmour • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=SKPZZ54DKSQ)
   * [VidiGo JetBrains IDE Developer Productivity & Code Genera](https://vidigo.ai/share/summary/8a00da423007)
   * [JetBrains IDE 개발자 생산성 및 코드 생성 지원 - Garth Gilmour - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788271)
+* [IntelliJ 등에서 메모리 점유율이 계속 높아질 때 (feat. vanilla JBR)](https://jojoldu.tistory.com/800)
 * [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
