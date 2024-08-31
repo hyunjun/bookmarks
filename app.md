@@ -163,6 +163,8 @@ App
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
   * [PSPDFKit API - PDF처리용 HTTP API | GeekNews](https://news.hada.io/topic?id=6326)
+  * [qpdf: A content-preserving PDF document transformer](https://github.com/qpdf/qpdf)
+    * [TIL: qpdf로 pdf 파일에 걸린 암호 해제하기 - rein's world](https://rein.kr/posts/2024-08-18-til-qpdf-decrypt/)
   * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
   * [스몰PDF 리뷰 : 기본에 충실한 온라인 PDF 편집 도구 - ITWorld Korea](https://www.itworld.co.kr/news/233729)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
