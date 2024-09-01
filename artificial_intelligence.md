@@ -684,6 +684,13 @@ Artificial Intelligence
 * [MLOps Now — Advancing Vector Search for LLM in Production — 고석현, CEO, Sionic AI - YouTube](https://www.youtube.com/watch?v=J6_ReznVkzk)
   * [VidiGo MLOps Now — Advancing Vector Search for LLM in Pro](https://vidigo.ai/share/summary/4684e10e71b8)
   * [MLOps Now — Advancing Vector Search for LLM in Production — 고석현, CEO, Sionic AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/622844)
+* [A Fun & Absurd Introduction to Vector Databases • Alexander Chatzizacharias • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=5hAGhmHNTQQ)
+  * He explains that vector databases are used for storing and indexing high-dimensional vectors, particularly in AI applications and as search engines
+  * He demonstrates how to use a vector database, translating data into vectors, and querying that data
+  * The talk covers topics such as text search, image search, and generative search
+  * The presentation includes demos and resources for further learning
+  * [VidiGo A Fun & Absurd Introduction to Vector Databases •](https://vidigo.ai/share/summary/11d5188f25b0)
+  * [벡터 데이터베이스에 대한 재미있고 황당한 입문 - 알렉산더 차치자차리아스 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1189799)
 * [Amazon MemoryDB for Redis에서 Vector Search 공식 지원](https://www.linkedin.com/posts/sungminkim23_vector-search-for-amazon-memorydb-is-now-activity-7217022211897925633-GkV9/)
   * [rag-with-amazon-bedrock-and-memorydb: Question Answering Generative AI application with Large Language Models (LLMs), Amazon Bedrock, and Amazon MemoryDB for Redis](https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb)
   * [rag-with-amazon-memorydb-and-sagemaker at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-memorydb-and-sagemaker)
