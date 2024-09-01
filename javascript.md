@@ -1428,6 +1428,8 @@ Javascript
   * [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about - NodeConf EU - Google Slides](https://docs.google.com/presentation/d/12SYdKy75FsSwO9-wzHADPL9JP6uXplxSKMQe1qsJKR8/edit)
 * [웹 텍스트 에디터 개발에 필요한 고민과 신규 에디터 소개 / 제5회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/616)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
+  * [FECONF 2024 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q)
+  * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
   * [FEConf 2023 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc)
   * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
   * [당근 @ FEConf 2023. 지난 10월 21일에 열렸던 FEConf 2023 행사, 당근 부스와… | by Hyeseong Kim | 당근 테크 블로그 | Nov, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-feconf-2023-3994d7813f15)
