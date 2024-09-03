@@ -8798,6 +8798,12 @@ Programming
     * Limited Information Maximum Likelihood (LIML)
   * Our methods yield linear structural models of treatment effects that are easy to interpret, aligning proxy metrics towards the north star
   * This work is well-suited for decentralized and rapidly-evolving experimentation environments
+  * A/B test를 진행하면
+    * 당장 고객들에게 미치는 영향인 short-term 결과값은 쉽게 관측 가능
+    * retention (구독) 같은 long-term 결과값은 추정이 쉽지 않다 (다른 실험들이 해당 기간에 들어가기도 하고, 실험을 엄청 길게 가져갈 수도 없기 때문)
+      * 이를 알아볼 수 있는 방법론 제시
+        * 진행됐던 여러개의 실험(넷플릭스는 1년에 수천개 진행)의 결과를 모두 가져와
+        * bias를 제외하고 각 실험의 long-term 결과값을 정리, 추정하는 방법 제시
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
