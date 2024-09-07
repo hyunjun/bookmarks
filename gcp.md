@@ -195,6 +195,9 @@ Google Cloud Platform GCP
 * [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
 * [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
+* [Gemini in BigQuery features are now GA | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/gemini-in-bigquery-features-are-now-ga?hl=en)
+  * 사용자 데이터에 기반하여 쿼리 제안, 사용자가 생각지도 못한 인사이트 제공
+  * SQL 및 Python 코드 생성/설명/완성 기능 + 자연어 기반 데이터 탐색 + AI를 이용한 성능 최적화 권장 사항 등 다양한 기능 제공
 * [BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-gemini-review/)
   * 빅쿼리 환경에서 구글 LLM 모델인 제미니 프로를 활용하는 방법에 대한 포스트
   * 제미니 프로를 사용하기 위해 필요한 사전 설정과 빅쿼리에서 제미니를 사용하는 방법 설명
