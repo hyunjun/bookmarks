@@ -201,6 +201,12 @@ Google Cloud Platform GCP
   * 제품 리뷰 데이터를 사용하여 제미니를 사용하는 예시와 함께 리뷰 요약, 제품 홍보 문구 작성, 다양한 활용 방법 제시
   * 응답 형식을 JSON으로 지정하여 정합성을 높이는 방법, 대용량 데이터를 처리하는 방법, RAI(Responsible AI) 기능을 사용, 응답 결과 해석 방법 등의 팁 제공
   * 마지막으로, 제미니를 사용하여 리뷰 데이터를 분석하고 실제 서비스에 적용하는 방법 소개
+* [Gemini 의 숨겨진 유용한 기능과 colab과 함께 사용하기 - YouTube](https://www.youtube.com/watch?v=f2JapEcvr9k)
+  * 생성형 AI인 Gemini와 구글 코랩을 연동하여 데이터를 분석하는 방법 소개
+  * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능 
+  * 광고 데이터 분석과 같은 프롬프트를 작성하면 Gemini가 파이썬 코드를 생성하여 다양한 분석 기법 사용 가능
+  * 생성된 코드를 구글 코랩에서 실행하면 데이터 분석 및 시각화 가능
+  * Gemini와 코랩을 연동하여 데이터 분석 작업을 더욱 효율적으로 수행 가능
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
 * [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
 * [GCP 규칙 기반 평가 서비스 제공을 위한 Workload Manager Evaluation 알아보기 — #1 Workload Manager Evaluation | by 이정운 (Jungwoon Lee) | google-cloud-apac | Aug, 2024 | Medium](https://medium.com/google-cloud-apac/gcp-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%8F%89%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-workload-manager-evaluation-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-workload-manager-evaluation-7471c19b834e)
@@ -243,6 +249,7 @@ Google Cloud Platform GCP
 * [Serverless 서비스인 Cloud Run 알아보기 9부 — 잘 안 알려졌지만 주목할만한 2022년 업데이트 정리 | by 이정운 (Jungwoon Lee) | google-cloud-apac | Apr, 2023 | Medium](https://medium.com/google-cloud-apac/gcp-serverless-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%B8-cloud-run-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-9%EB%B6%80-%EC%9E%98-%EC%95%88-%EC%95%8C%EB%A0%A4%EC%A1%8C%EC%A7%80%EB%A7%8C-%EC%A3%BC%EB%AA%A9%ED%95%A0%EB%A7%8C%ED%95%9C-2022%EB%85%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A0%95%EB%A6%AC-8899a43353f5)
 * [Safe serverless deployments with Cloud Run - YouTube](https://www.youtube.com/watch?v=ArDuQDjW-DQ)
 * [할 수 있다! 서비스 월 유지비 1000원!](https://velog.io/@juunini/service-monthly-keep-1000won)
+* [Host your LLMs on Cloud Run | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/run-your-ai-inference-applications-on-cloud-run-with-nvidia-gpus?hl=en)
 * [palm2bot](https://github.com/znot34/palm2bot)
   * [GCP Cloud Run을 활용한 Palm 2 챗봇 만들기 :: Jflip의 기술 블로그](https://jflip.tistory.com/90)
   * [2023 Devfest Cloud - 최치영 - Google Slides](https://docs.google.com/presentation/d/1o-xbEnqakrjqJCxceSCqSzrWkIPEfPyasfRt5KskJi0/)
@@ -297,7 +304,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
 * [Google Dev Library | What will you build?](https://devlibrary.withgoogle.com/products/cloud/repos/jybaek-gcp-infra-by-terraform)
 * [Hands on Terraform with GCP](https://heumsi.github.io/hands-on-terraform-with-gcp/)
-* [Migrate Terraform state from Local Backend to GCP Storage Bucket - YouTube](https://www.youtube.com/watch?v=yf-ZipkZIx8&ab_channel=cloudroot7)
+* [Migrate Terraform state from Local Backend to GCP Storage Bucket - YouTube](https://www.youtube.com/watch?v=yf-ZipkZIx8)
 * [gcp-infra-by-terraform](https://github.com/jybaek/gcp-infra-by-terraform)
   * [테라폼 모듈 구조잡기 - feat with GCP](https://jybaek.tistory.com/966)
 
