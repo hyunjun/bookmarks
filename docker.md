@@ -1511,6 +1511,7 @@ Docker
 * [쿠버네티스 발 인재난을 극복하는 4가지 전략 - ITWorld Korea](https://www.itworld.co.kr/news/266032)
 * [“쿠버네티스에 핀옵스 더하기” 오픈코스트 활용한 비용 관리법 - ITWorld Korea](https://www.itworld.co.kr/mainnews/290461)
 * [블로그 | 쿠버네티스의 TCO를 분석해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/330762)
+* [쿠버네티스와 클라우드 인프라의 미래 : 복잡성, 가시성, 추상화, 자동화, 가상화, 엣지 - ITWorld Korea](https://www.itworld.co.kr/mainnews/349234)
 * [번역 쿠버네티스 7,500개 노드 운영하기 | 커피고래의 노트](https://coffeewhale.com/scaling-node02)
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
@@ -2685,6 +2686,7 @@ Docker
     * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
   * [Saying Goodbye to Ingress: Embracing the Future of Kubernetes Traffic Management with Gateway API and Cilium | by Seifeddine Rajhi | ITNEXT](https://itnext.io/saying-goodbye-to-ingress-embracing-the-future-of-kubernetes-traffic-management-with-gateway-api-6584b7b8f913)
   * [Effortless Mutual Authentication with Cilium | Liz Rice - YouTube](https://www.youtube.com/watch?v=0t_lhV0fvQ8)
+  * [카카오페이증권의 Egress Gateway | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/cilium-egress-gateway/)
 * [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
   * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
