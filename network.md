@@ -306,6 +306,8 @@ Network
 * [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
   * [**로컬 개발환경에서 HTTPS 이용하기 | GeekNews**](https://news.hada.io/topic?id=6144) OpenSSL, mkcert, ...
 * [The First Few Milliseconds of an HTTPS Connection](https://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+* [local-tls-proxy](https://github.com/jc-lab/local-tls-proxy)
+  * [local-tls-proxy: 모든 포트를 https 로 만들기 | GeekNews](https://news.hada.io/topic?id=16620)
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
