@@ -2601,6 +2601,9 @@ NLP
     * [VidiGo LightningAI: STOP PAYING for Google's Colab with t](https://vidigo.ai/share/summary/084615c788ae)
     * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
   * [lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-gpt) Lit-GPT 최신 오픈 소스 LLMs의 해킹 가능한 구현
+  * [LitServe home ⚡Lightning AI - Docs](https://lightning.ai/docs/litserve/home)
+    * [LitServe 리뷰 — DEV.DY](https://dytis.tistory.com/89)
+    * [최근 Lightning AI에서 AI 모델 서빙 프레임워크인 LitServe를 공개](https://www.linkedin.com/posts/dong-yong-lee-523ba9138_litserve-%EB%A6%AC%EB%B7%B0-activity-7235598025509781504-bB92)
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
