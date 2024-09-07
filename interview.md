@@ -1109,6 +1109,7 @@ Interview
 * [개발자 연봉 올리는 현실적인 조언](https://f-lab.kr/blog/developer-salary-negotiation)
 * [My Salary Negotiation Strategy. To earn more, I never ask for a higher… | by Alex Ewerlöf | Jan, 2022 | Medium](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd)
 * [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+* [연봉 협상 vs. 연봉 조정/리뷰](https://www.linkedin.com/posts/activity-7235772539812134912-GQzH/)
 * [Comprehensive.io - Pay Range Tracker](https://www.comprehensive.io/)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
