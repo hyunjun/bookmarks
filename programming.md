@@ -1008,6 +1008,8 @@ Programming
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
 * [관리사이트 쉽고 빠르게 구축하기 - YouTube](https://www.youtube.com/watch?v=q5oWMlBS-Kg) backoffice
 * [최소의 비용으로 서비스 개발하기 | GeekNews](https://news.hada.io/topic?id=15786) Supabase + Flutter + Retool
+* [비개발자도 개발을 배우는 것이 좋을까... '매우 강력하게 추천'](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B2%83%EC%9D%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%9D%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C%EB%8A%94-%EC%B0%AC%EC%84%B1%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%8F%84-%EC%9E%88%EA%B3%A0-activity-7236994698425298944-JcMZ/)
+* [제품개발을 주저하는 비개발자를 위해 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4)
 
 # Agile, Scrum
 * book
@@ -2436,6 +2438,7 @@ Programming
   * The presentation included real-life use cases and advice on identifying good and bad use cases for generative AI
   * [VidiGo How to Make Smart Architecture Decisions when Buil](https://vidigo.ai/share/summary/fa34da96bf62)
   * [차세대 AI 앱을 구축할 때 현명한 아키텍처 결정을 내리는 방법 - Gillian Armstrong - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1026799)
+* [개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2743/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -6805,6 +6808,7 @@ Programming
   * [8월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-2.html)
   * [8월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/08/b-8-3.html)
   * [8월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/08/b-8-4.html)
+  * [9월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/09/b-9-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -7860,6 +7864,12 @@ Programming
   * [한글화 프로젝트 7. 생산성은 측정할 수 없다](https://jinson.tistory.com/entry/%ED%95%9C%EA%B8%80%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%80-%EC%B8%A1%EC%A0%95%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4)
   * [생산성은 측정할 수 없다](https://brunch.co.kr/@challenger/45)
 * [New premium post: Doing more with less, part 1: Improving the developer experience](https://microservices.io/post/architecture/2024/04/01/doing-more-with-less-part-1-improving-devex.html) 멋진 triangle. 써있는 간단한 말들에 매우 동의
+* [Transforming Developer Experience: A Tale of Recovery & Innovation • Michaela Greiler • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=3HFRiBc0JZs)
+  * The presentation discusses the importance of developer experience (DX) in software development teams
+  * It introduces key DX factors identified in recent research, such as culture and psychological safety, and their impact on team efficiency and morale
+  * The speaker also highlights the negative outcomes of poor DX, including decreased productivity and increased turnover
+  * The presentation proposes an actionable framework for measuring and improving DX, linking theory with practice
+  * The speaker shares her experiences working with engineering teams and conducting research on DX for the past three years
 * [AI 생산성 향상 정말인가? (ft. Morg.. : 네이버블로그](https://blog.naver.com/mynameisdj/223371333197)
 * [개발자 생산성 지표를 넘어 AI 효과 측정하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/13/productivity/)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
@@ -8109,6 +8119,11 @@ Programming
   * [The software engineering industry in 2024: Q&A - YouTube](https://www.youtube.com/watch?v=qYEhdZmPjsU)
     * [VidiGo The software engineering industry in 2024: Q&A.mp4](https://vidigo.ai/share/summary/91a389865205)
     * [2024년 소프트웨어 엔지니어링 산업 Q&A | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964753)
+* [40 Years Of Software Engineering Experience In 19 Minutes - YouTube](https://www.youtube.com/watch?v=cOcd9UN6w7U)
+  * In this episode, Dave Farley shares his experiences and lessons from over 40 years in software development
+  * He discusses his journey from hobbyist to professional programmer, the importance of understanding how computers work, and the impact of good programming practices
+  * He also talks about his early adoption of C++ and object-oriented programming, and his interest in systems software
+  * Farley emphasizes the importance of clear, readable code and the value of abstraction in solving complex problems
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
