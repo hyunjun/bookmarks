@@ -112,6 +112,7 @@ Concurrency
 * [CUDA on WSL :: CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
 * [Windows에 CUDA Toolkit 11.2 cuDNN 8.1.0 Tensorflow 2.10 설치하는 방법](https://webnautes.tistory.com/1875)
 * [WSL2에 CUDA 사용하는 Tensorflow 설치하는 방법](https://webnautes.tistory.com/1873)
+* [CUDA Accelerated: NVIDIA, 가속 컴퓨팅을 확장하고 과학 및 산업 애플리케이션에 획기적인 속도 향상을 제공하는 새로운 CUDA 라이브러리 출시 - NVIDIA Blog Korea](https://blogs.nvidia.co.kr/blog/cuda-accelerated-computing-energy-efficiency/)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
