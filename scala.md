@@ -1648,6 +1648,7 @@ Scala
   * [cats-actors: Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency](https://github.com/suprnation/cats-actors/)
     * [A Logic Circuit Simulator with Cats-Actors – Mark Galea – stay safe, keep hacking! - cloudmark](https://cloudmark.github.io/Cats-Actors/)
     * [cats-actor-sample: Cats Actor Samples](https://github.com/cloudmark/cats-actor-sample)
+    * [cats-actors-examples: Cats Effect Actors examples with cats-actors](https://github.com/fancellu/cats-actors-examples)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
