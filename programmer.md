@@ -362,6 +362,11 @@ Programmer
 * [엔지니어 영어 실력 어떻게 향상할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/10/developer-english/)
 * [How To Know When It's Time To Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
   * [떠날 때를 아는 방법 | GeekNews](https://news.hada.io/topic?id=15851)
+* [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=tgaKAF_eiOg)
+  * Daniel Terhorst-North, the originator of Behavior Driven Development (BDD), shares insights on the best programmer he knows
+  * The talk is divided into three parts: getting the job done, choosing the right tool, and caring about the team
+  * Terhorst-North emphasizes that the best programmers are made, not born, and their skills can be learned
+  * He encourages attendees to strive for greatness, discusses the importance of iterating and not being afraid to make mistakes, and highlights the value of focusing on the product rather than the code itself.
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
