@@ -606,6 +606,11 @@ Data Science
   * [Data diffs: Algorithms for explaining what changed in a dataset | N=1 (marcua’s blog)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
+  * [SQLMesh](https://sqlmesh.com/)
+    * [sqlmesh: Efficient data transformation and modeling framework that is backwards compatible with dbt](https://github.com/TobikoData/sqlmesh?tab=readme-ov-file)
+    * [Introducing SQLMesh by Tobiko Data - YouTube](https://www.youtube.com/watch?v=UXpCeu0mD2E)
+    * [SQLMesh for dbt - YouTube](https://www.youtube.com/playlist?list=PLwNHtUb1osYe1g_NI90oYZfi9_cscUc1a)
+    * [Quickstart - YouTube](https://www.youtube.com/playlist?list=PLwNHtUb1osYdu1l3uPkDJYlxQuZ4p3B5G)
 * [Decodable](https://www.decodable.co/)
   * [Announcing General Availability of the Decodable Real-Time Data Platform - Decodable](https://www.decodable.co/blog/decodable-is-ga)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
@@ -1127,6 +1132,7 @@ Data Science
   * To optimize long-term member satisfaction at Netflix, the company uses a contextual bandit approach to recommend content
   * discuss the challenges of using retention as a reward and propose using proxy rewards that are more sensitive to individual recommendations
   * The authors also discuss the challenge of delayed user feedback and propose a solution for predicting missing feedback
+* [팀무신사 우리 랭킹이 달라졌어요, 새로워진 무신사 랭킹 근황](https://newsroom.musinsa.com/newsroom-menu/2024-0826-teammusinsa)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
