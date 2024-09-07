@@ -1152,6 +1152,8 @@ NLP
 * [System Prompts - Anthropic](https://docs.anthropic.com/en/release-notes/system-prompts)
   * [Anthropic publishes the 'system prompts' that make Claude tick | TechCrunch](https://techcrunch.com/2024/08/26/anthropic-publishes-the-system-prompt-that-makes-claude-tick/)
     * [Anthropic, Claude를 움직이게 하는 "시스템 프롬프트" 공개 | GeekNews](https://news.hada.io/topic?id=16498)
+* [Say goodbye to manual prompting!](https://www.linkedin.com/posts/li-yin-ai_google-colab-activity-7233293559943028736-qbL9/)
+  * [adalflow_object_count_auto_optimization.ipynb - Colab](https://colab.research.google.com/drive/1n3mHUWekTEYHiBdYBTw43TKlPN41A9za?usp=sharing)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
@@ -2204,6 +2206,7 @@ NLP
   * [방구석 컴퓨터에 두뇌를 장착해보세요 | ChatGPT, Claude, LLaMA, Gemini - YouTube](https://www.youtube.com/watch?v=dvx-gFx6nUw)
   * [Windows에서 인공지능 에이전트 AIEXE 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=C_hs9obj_gg)
   * [인공지능 활용의 끝판왕 | AI EXE GUI - YouTube](https://www.youtube.com/watch?v=HgbDCQ1k7kA)
+  * [Claude, GPT와 AIEXE로 오픈소스 프로젝트 코딩 업그레이드 하기 - YouTube](https://www.youtube.com/watch?v=MCgvv3XeBJE)
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
@@ -2949,6 +2952,8 @@ NLP
 * [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
   * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
   * [Yi 1.5 - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=14861)
+  * [Meet Yi-Coder: A Small but Mighty LLM for Code - 01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
+    * [Yi-Coder - 코드를 위한 작고 강력한 LLM | GeekNews](https://news.hada.io/topic?id=16626)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 
 ## Language Model LM GPT
@@ -3128,6 +3133,7 @@ NLP
   * [LlamaIndex multi tokenizer for bm25.ipynb - Colab](https://colab.research.google.com/drive/1lIW2U08MeGP6g9Oa1FSmpmgAnZ824Cwz?usp=sharing)
 * [12 Retrieval Augmented Generation (RAG) Tools / Software in '23](https://research.aimultiple.com/retrieval-augmented-generation/)
 * [What is RAG?](https://www.linkedin.com/posts/mr-deepak-bhardwaj_ai-machinelearning-datascience-activity-7232004159162474497-fW8E/)
+* [RAG 대표적인 청킹 방법 5가지 !](https://velog.io/@autorag/RAG-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%EC%B2%AD%ED%82%B9-%EB%B0%A9%EB%B2%95-5%EA%B0%80%EC%A7%80)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
@@ -4241,6 +4247,7 @@ NLP
     * 음성을 log melspectogram으로 변환한 후 transformer 기반 sequence-to-sequence 모델로 학습
     * 실습 코드에선 한국어 25초 음성을 인식하는데 12sec 정도 소요(base 모델 기준)
     * 예시 음성파일로 실험해 보니 '수서'->'수소', '우리역엔' -> '우리옆엔', '전동차와 승강장 사이가' -> '전동장와 생강장사위가'로 인식되긴 하지만 monolingual이 아닌 multilingual임에도 불구하고 전체적으로 잘 되는 느낌. 일본어 음성도 잘 인식
+  * [faster-whisper-youtube: 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/lewangdev/faster-whisper-youtube)
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
   * [WhisperKit — Argmax](https://www.takeargmax.com/blog/whisperkit)
