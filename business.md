@@ -243,6 +243,7 @@ Business
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
 * [작은 스타트업이 건강한 조직문화를 만드는 방법. 딜라이트룸이 조직문화에 관심을 두기 시작한 이유 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-9db3438e4868)
 * [건강한 조직문화를 찾아서 : 얼라인먼트와 자율조직](https://brunch.co.kr/@f2899d6dae6a477/21)
+* [조직문화는 '같이 만들어가는 것'. 이것은 리더에게만 하는 말이 아니다. 회사의 구성원에게도 똑같이 적용](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%8A%94-%EA%B0%99%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EA%B2%83-%EC%9D%B4%EA%B2%83%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C%EB%A7%8C-%ED%95%98%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-activity-7237613467279507456--KcI/)
 * [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
@@ -2058,6 +2059,7 @@ Business
   * 6단계: 행동하고 결과만 보고
   * 7단계: 행동하고 실패하면 보고
   * 8단계: 행동하라 No 보고
+* [핵심은 직원들을 믿고 맡겨야 하는가, 아니면 리더가 적극적으로 관여해야 하는가 하는 것이 아니다. 언제 위임하고, 언제 관여할 지를 리더가 어떻게 올바르게 판단할 수 있는가가 훨씬 더 중요](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%95%B5%EC%8B%AC%EC%9D%80-%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%84-%EB%AF%BF%EA%B3%A0-%EB%A7%A1%EA%B2%A8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-%EC%95%84%EB%8B%88%EB%A9%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-activity-7237249940601630722-tkx1/)
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
@@ -3373,6 +3375,14 @@ Business
   * Myth 5️⃣ 
     * Product Management is not just about launching new products and features.
     * It's about tracking them, understanding competitors & industry, planning marketing & growth initiatives, and many more things.
+* [PM, PO가 개발자를 설득할 때 참고하면 좋은 것들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_pm-po%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%84%A4%EB%93%9D%ED%95%A0-%EB%95%8C-%EC%B0%B8%EA%B3%A0%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-1-%EC%9D%98%EB%AF%B8%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%9C%EB%8B%A4-activity-7235838567833354241-9wiP/)
+  * 1. 의미를 설명한다
+  * 2. 리소스 산정은 개발에 맡긴다
+  * 3. 데드라인을 맞출 수 없다면 스펙을 조정하거나, 기존에 요청한 다른 업무를 조정한다
+  * 4. 반드시 구현되어야 할 것과 그렇지 않은 것을 구분한다
+  * 5. 대화를 통해 조율해 나간다
+  * 6. 개발에 집중할 수 있도록 한다
+  * 7. 완료 후, 어떻게 쓰이고 있는지 공유한다. (지표변화, 사용자피드백)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -3907,6 +3917,7 @@ Business
     * even if it means consuming online content
   * [스타트업 전문가의 문제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1050698)
 * [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
+* [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
