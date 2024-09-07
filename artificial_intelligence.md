@@ -241,7 +241,6 @@ Artificial Intelligence
   * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
   * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
 * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E) cursor ai
-* [Spoqa 기술 블로그 | AI를 활용한 주문서 생성 자동화: 카카오톡 주문을 키친보드 주문으로](https://spoqa.github.io/2024/08/19/ai-order-sheet.html) spring ai
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -589,6 +588,7 @@ Artificial Intelligence
   * [2024년 내내 AI로만 개발을 해 온 사람이 알려주는 7가지 팁](https://www.gpters.org/dev/post/7-tips-from-ai-only-developers-aSqvrwx3lvf2UiD)
 * [특집 K-AI 박태웅 한빛미디어 의장 “일반직이 AI 제도 ‘조물락'...전문가가 정책 방향 수립해야" - YouTube](https://www.youtube.com/watch?v=3X393neg2K8)
   * [특집 K-AI 스페셜인터뷰 박태웅 한빛미디어 의장 “일반직이 AI 제도 ‘조물락'...전문가가 정책 방향 수립해야" 인터뷰 전문 < 스페셜 인터뷰 < 오피니언·이슈 < 기사본문 - 폴리뉴스 Polinews](https://www.polinews.co.kr/news/articleView.html?idxno=661347)
+* ["AI 운동 친구·코딩 파트너 만든다"…구글, 맞춤형 챗봇 서비스 '젬스(Gems)' 출시 < 글로벌 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=3351)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
