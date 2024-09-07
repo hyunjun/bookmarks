@@ -2778,6 +2778,8 @@ CVPR2016)
 * AlphaFold
   * [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
     * 데이터베이스를 만들기 시작한지 단 1년만에 2억개의 단백질 구조 데이터베이스 오픈. 50년간 인류가 실험적으로 밝혀낸 단백질 구조 갯수인 약 20만개 보다 1000배 많은 숫자
+  * [AlphaFold3: Open source implementation of AlphaFold3](https://github.com/Ligo-Biosciences/AlphaFold3)
+    * [AlphaFold3 의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=16621)
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
   * [AI가 스타크래프트2를 정복한 원리(알파스타)](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
   * [AlphaStar: Mastering the Game of StarCraft II](https://slideslive.com/38916905/alphastar-mastering-the-game-of-starcraft-ii)
