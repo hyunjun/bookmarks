@@ -2183,6 +2183,7 @@ Programming
 * [SF Scala: Exabytes Delivered Each Day -- Some Lessons Building Cloud Software at Databricks - YouTube](https://www.youtube.com/watch?v=yr7gfbvQERo)
 * [Evolution of Financial Exchange Architectures](https://www.infoq.com/presentations/financial-exchange-architecture)
 * [뱅크샐러드는 어떻게 레거시 서비스를 박살 내는가 | 뱅크샐러드](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)
+* [레거시 시스템, 언제 개편해야 할까?. 성공적인 레거시 시스템 개편을 위해 해야 할 질문들 | by Daseul Kim | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%96%B8%EC%A0%9C-%EA%B0%9C%ED%8E%B8%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5e2c8121e9fc)
 * [Building Services at Airbnb, Part 1 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b)
 * [Building Services at Airbnb, Part 2 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Building Services at Airbnb, Part 3 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
