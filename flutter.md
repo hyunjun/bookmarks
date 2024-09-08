@@ -47,13 +47,8 @@ Flutter
 * [Flutter - JSON 사용하기](https://www.youtube.com/watch?v=E6KKL0Oe-2E)
 * [Flutter - JSON in the background / isolate | 백그라운드 처리](https://www.youtube.com/watch?v=4qpMzUcatsU)
 * [Flutter - 오리엔테이션 | orientation | 가로 | 세로 제대로 고치기!](https://www.youtube.com/watch?v=5A1ZgIp7_7U)
-* [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
-* [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
-* [flutter web과 aws, github actions 로 반응형 웹사이트 제작하기 | by NAMKYU PARK | Jun, 2021 | Medium](https://trialxxerror.medium.com/flutter-web%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3c9925b55101)
 * [Flutter LayoutBuilder로 만드는 반응형 UI | by Cody Yun | Mar, 2024 | Medium](https://medium.com/@cody.yun/flutter-layoutbuilder%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%98%EC%9D%91%ED%98%95-ui-ac63e6a972b6)
 * [하나의 코드로 안드로이드, ios, web 개발하기(flutter) | by 박남규, Loyle Park | Medium](https://loyle.medium.com/%ED%95%98%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ios-web-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-flutter-ff1d9b8f7d41)
-* [flutter-web-example · GitHub Topics](https://github.com/topics/flutter-web-example)
-* [samples/web at main · flutter/samples](https://github.com/flutter/samples/tree/main/web)
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
 * [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
 * [MacBook M1에 iOS와 Android를 위한 Flutter 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1688)
@@ -218,9 +213,10 @@ Flutter
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
+* [Future<플러터> 2024 미리보기 | by CuroGom | Flutter Seoul | Sep, 2024 | Medium](https://medium.com/flutter-korea/future-flutter-2024-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-4e2f3b82ce22)
 * [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
-* [플러터(Flutter) Forward 2023 핵심 정리! 플러터와 다트3는 무엇이 달라졌을지 개발자가 한번에 정리해드립니다 I Flutter Flow, Dart3.0, 웹앱 - YouTube](https://www.youtube.com/watch?v=sPRCMGEaydo)
 * [Flutter Forward Extended Korea - What's new in Dart 3.0 - 홍종표, 애드포러스 - YouTube](https://www.youtube.com/watch?v=2NpAXMneosQ)
+* [플러터(Flutter) Forward 2023 핵심 정리! 플러터와 다트3는 무엇이 달라졌을지 개발자가 한번에 정리해드립니다 I Flutter Flow, Dart3.0, 웹앱 - YouTube](https://www.youtube.com/watch?v=sPRCMGEaydo)
 * [Flutter Google I/O 2023 Recap 박제창 @I/O Extended 2023 Seoul - Speaker Deck](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
 * [NAVER Tech Talk: Flutter meetup (2022)](https://d2.naver.com/news/1554376)
@@ -395,3 +391,11 @@ Flutter
 * [flutter-chat-demo: The chat app made by Flutter and Firebase](https://github.com/duytq94/flutter-chat-demo)
   * [FLUTTER 10분 20분만에 채팅앱 완성 (+구글로그인) - YouTube](https://www.youtube.com/watch?v=tePvG3pZ8Ls)
 * [Flutter_tflite_classfication_songdo: Flutter_tflite_classfication_songdo presentation](https://github.com/sw-woo/Flutter_tflite_classfication_songdo)
+
+# Web
+* [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
+* [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
+* [flutter web과 aws, github actions 로 반응형 웹사이트 제작하기 | by NAMKYU PARK | Jun, 2021 | Medium](https://trialxxerror.medium.com/flutter-web%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3c9925b55101)
+* [Flutter Web을 활용해 제품 개발 환경 개선하기](https://techblog.lycorp.co.jp/ko/improve-development-experience-with-flutter-web)
+* [flutter-web-example · GitHub Topics](https://github.com/topics/flutter-web-example)
+* [samples/web at main · flutter/samples](https://github.com/flutter/samples/tree/main/web)
