@@ -43,6 +43,7 @@ Programming
   * [build-your-own-x: Master programming by recreating your favorite technologies from scratch](https://github.com/codecrafters-io/build-your-own-x)
   * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
+* [David's programming examples knowledge base / published by https://github.com/dacr/code-examples-manager #fecafeca-feca-feca-feca-fecafecafeca/8fece09821a16cac30da15528e3fcfa03e050e32](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
 * [TutorialsTeacher - Learn Web Technologies](https://www.tutorialsteacher.com/)
 * [top-github-repositories-which-everyone-should-look: This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
 * [**작은 교육**](http://slownews.kr/44304)
@@ -3404,6 +3405,7 @@ Programming
   * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
+  * [Resilience4j Circuit Breaker를 이용한 장애 대비하기 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/385)
   * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
   * [우리는 어떻게 해외주식 서비스 안정화를 이뤘는가](https://toss.tech/article/overseas-securities-server) Resilience4j 이야기 약간 포함
   * [오픈마켓 여행 플랫폼의 실전 API 연동 노하우](https://ebay-korea.tistory.com/115)
@@ -6256,6 +6258,7 @@ Programming
   * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
 * [upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy](https://github.com/upscayl/upscayl)
   * [Upscayl - 오픈소스 AI 이미지 업스케일러 | GeekNews](https://news.hada.io/topic?id=7324)
+* [WebP의 품질과 파일 크기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/918)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
@@ -6993,6 +6996,7 @@ Programming
   * [기술 뉴스 #250 : 24-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1729)
   * [기술 뉴스 #251 : 24-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1731)
   * [기술 뉴스 #252 : 24-08-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1732)
+  * [기술 뉴스 #253 : 24-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1733)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
