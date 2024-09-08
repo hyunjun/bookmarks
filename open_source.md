@@ -157,6 +157,7 @@ Open Source
   * [JeongHoon Byun - https://blog.gitbutler.com/the-future-of-open-sour... | Facebook](https://www.facebook.com/jeonghoon.byun/posts/pfbid02xMdtR1Sn2oVBjrn2WgktaZgZwaCjXJjHAtysTJs9TxXyDUQBJK3MrzWkauTescq8l)
   * [오픈 소스의 미래 | GeekNews](https://news.hada.io/topic?id=16280)
   * [GitButler는 이제 Fair Source 입니다 | GeekNews](https://news.hada.io/topic?id=16281)
+* [모닥불 | EP.4 오픈소스에 기여하고 토스에 합격한.ssul](https://toss.tech/article/firesidechat_frontend_4)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
