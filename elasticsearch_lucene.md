@@ -100,6 +100,7 @@ ElasticSearch - Lucene
   * [Amazon OpenSearch Service의 AI/ML 커넥터로 Neural 검색 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/power-neural-search-with-ai-ml-connectors-in-amazon-opensearch-service/)
   * [혼자서도 잘해요, 검색 시스템 구축과 운영](https://labs.brandi.co.kr//2024/08/23/shinnr.html)
   * [OpenSearch에서 수십억 규모 검색을 위한 적합한 k-NN 알고리즘을 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch/)
+  * [Amazon OpenSearch Service의 검색 엔진으로서의 기능 설명 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-services-vector-database-capabilities-explained/)
   * [aws-opensearch-ingestion-tutorials: This sample codes show how to ingest data into Amazon OpenSearch or OpenSearch Serverless using OpenSearch Ingestion. Amazon OpenSearch Ingestion is a kind of alternative for OpenSource Logstash or Amazon Kinesis Data Firehose](https://github.com/aws-samples/aws-opensearch-ingestion-tutorials)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
