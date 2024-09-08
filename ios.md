@@ -676,6 +676,8 @@ iOS
 * [Discover media performance metrics in AVFoundation](https://wlaxhrl.tistory.com/101)
 * [Swift 6 - sending parameter and result values :: iOYES](https://green1229.tistory.com/499)
 * [What's new in Swift6 (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/500)
+* [Meet the Contact Access Button (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/505)
+* [Custom Font Dynamic Type :: iOYES](https://green1229.tistory.com/504)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
