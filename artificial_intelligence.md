@@ -589,6 +589,7 @@ Artificial Intelligence
 * [특집 K-AI 박태웅 한빛미디어 의장 “일반직이 AI 제도 ‘조물락'...전문가가 정책 방향 수립해야" - YouTube](https://www.youtube.com/watch?v=3X393neg2K8)
   * [특집 K-AI 스페셜인터뷰 박태웅 한빛미디어 의장 “일반직이 AI 제도 ‘조물락'...전문가가 정책 방향 수립해야" 인터뷰 전문 < 스페셜 인터뷰 < 오피니언·이슈 < 기사본문 - 폴리뉴스 Polinews](https://www.polinews.co.kr/news/articleView.html?idxno=661347)
 * ["AI 운동 친구·코딩 파트너 만든다"…구글, 맞춤형 챗봇 서비스 '젬스(Gems)' 출시 < 글로벌 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=3351)
+* [Java를 만든 전설적 프로그래머 제임스 고슬.. : 네이버블로그](https://blog.naver.com/mynameisdj/223567893741)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
