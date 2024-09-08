@@ -422,6 +422,7 @@ Web
 * [Hyeseong's Blog - **컨텐츠 압축을 위한 배경지식**](https://blog.cometkim.kr/posts/content-compression-101/) compression
 * [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
   * [이미 시맨틱 웹은 널리 채택되어 사용되고 있음 | GeekNews](https://news.hada.io/topic?id=16408)
+* [디자인과 개발을 위한 그리드 시스템의 모든 것 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/09/03/grid/) grid system
 
 # Apache
 * installation
@@ -1387,6 +1388,7 @@ Web
 * [mirror를 활용하여 트래픽 제어](https://blog.naver.com/pjt3591oo/223213668115)
 * [NGINX로 Reverse Proxy 및 로드 밸런싱 이해하기 - YouTube](https://www.youtube.com/watch?v=1WfdUtMxTLE)
 * [Top 25 Nginx Web Server Best Security Practices - nixCraft](https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+* [Nginx, GitHub로 이전 | GeekNews](https://news.hada.io/topic?id=16651)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
