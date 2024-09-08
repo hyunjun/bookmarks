@@ -678,6 +678,8 @@ iOS
 * [What's new in Swift6 (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/500)
 * [Meet the Contact Access Button (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/505)
 * [Custom Font Dynamic Type :: iOYES](https://green1229.tistory.com/504)
+* [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
+  * [Swift는 더 편리한 Rust입니다 | GeekNews](https://news.hada.io/topic?id=16646)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
