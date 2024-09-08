@@ -2021,6 +2021,7 @@ Docker
   * Gartner anticipates that 70% of data center x86 workloads will continue to be deployed in virtualized environments through 2027 due to the benefits of virtualization
   * Additional information on SKS and VM-based Kubernetes can be found on the SmartX website and in previous blogs
 * [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jack-k8s-internals-part-1/)
+* [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부 2편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jack-k8s-internals-part-2/)
 * [HomeLab Cluster Project | LinkedIn](https://www.linkedin.com/pulse/homelab-cluster-project-yuntae-jin-bpxwc/)
   * [HomeLab Cluster yureutae-log](https://yureutae-log.vercel.app/?tag=1%3A%3AProjects%3A%3AHomeLab-Cluster)
   * [yureutae-log 콘텐츠 - 서핏](https://www.surfit.io/channel/yureutae-log)
