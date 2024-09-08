@@ -407,6 +407,7 @@ Programmer
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
+* [37signals에는 다시 한 번 풀타임 관리자가 없습니다. (We once more have no full-time managers at 37signals) | Write the code. Change the world.](https://kyoungwon.me/articles/2024/09/03/We-once-more-have-no-full-time-managers-at-37signals/)
 * [IT 커리어를 '서서히 망치는' 11가지 함정 - CIO Korea](https://www.ciokorea.com/news/233599)
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
 * [The Secret to Finding Impactful Projects to Land a Staff-Plus Engineer Role - YouTube](https://www.youtube.com/watch?v=MO793FafKwQ)
