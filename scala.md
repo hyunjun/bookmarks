@@ -412,6 +412,7 @@ Scala
 * [Business4s · GitHub](https://github.com/business4s)
   * [Announcing Business4s: a new value proposition for Scala | by Voytek Pituła | May, 2024 | Medium](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28)
 * [(1) Jon Pretty on X: "Pseudorandom Acts of Kindness" / X](https://x.com/propensive/status/1815326193245155563)
+* [Jon Pretty on X: "Perfect Tab Completions" / X](https://x.com/propensive/status/1829111552168841329)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -2715,6 +2716,7 @@ Scala
   * [scalar-2024-artistic-scala: Scalar 2024 - Generative Art in Scala, No AI Required](https://github.com/rockthejvm/scalar-2024-artistic-scala)
 * [Paul Matthews SOUNDS OF SCALA.JS Scalar Conference 2024 - YouTube](https://www.youtube.com/watch?v=ov2pA2FQ3YM)
 * [Scala to WebAssembly: How and Why](https://dev.virtuslab.com/p/scala-to-webassembly-how-and-why)
+* [Writing an Android app with Scala.js](https://blog.joaocosta.eu/articles/8cd240f/writing-an-android-app-with-scalajs)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
