@@ -395,6 +395,7 @@ Business
 * [SaaS 기술 기업에게 규모의 경제 의미](https://maily.so/saascenter/posts/3fafeeed)
 * [SaaS 전성시대라는데.. 왜 대기업은 SaaS를 안 살까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saasbuy20220517)
 * [링크드인 부사장이 알려주는 시장진출전략 101](https://brunch.co.kr/@taewookim/117) SaaS 창업자를 위한 GTM 가이드 101
+* [GTM 전략의 이해](https://bcho.tistory.com/1438) Go-to-Market
 * [Tools over process](https://www.canda.blog/tools-over-process/)
   * SaaS를 도입한다는 것은 도구 그 자체보다도 잘 정립된 프로세스를 도입한다는 것과 같고, 그 관점에서는 SaaS는 마치 컨설팅 회사와 같은 역할을 한다
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
@@ -3184,6 +3185,7 @@ Business
 * [프로덕트 디자이너가 본 '더 인플루언서'](https://jayoung.blog/theinfluencer/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 1편. BX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-1/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 2편. UX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-2/)
+* [알라미에서 DAU를 분석하는 방법. Active User를 늘리고 싶다면, 이것부터 체크하세요! | by Leo Yang | DelightRoom | Sep, 2024 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8%EC%97%90%EC%84%9C-dau%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e8dee9dd7240)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -4121,6 +4123,7 @@ Business
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
 * [레거시 제품을 버리고 CS 효율 높이기](https://toss.tech/article/rebuild-legacy-cs-products)
+* [비효율이 있는 곳엔 플랫폼 디자이너가 있다](https://toss.tech/article/platform-designer-work)
 * [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
