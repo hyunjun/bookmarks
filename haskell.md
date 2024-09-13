@@ -330,6 +330,8 @@ Haskell
     * 예제 코드가 전부 Haskell이라서 Haskell을 알지 못하고 이해가 어려운데
       * 다행히 급하게 배우는 Haskell ("검증하지 말고 파싱하라" 보충)에 글을 읽는 데 도움이 되는 간단한 문법 설명이 있으므로 먼저 읽어보면 좋다
 * [Strongly Typed System F in GHC • Stephanie Weirich • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=rS2mpuwAK4M)
+* [GTF :: Why Haskell?](https://www.gtf.io/musings/why-haskell)
+  * [왜 Haskell인가? | GeekNews](https://news.hada.io/topic?id=16740)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
