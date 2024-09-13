@@ -77,6 +77,9 @@ Programming
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 * [More challenging projects every programmer should try - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 * [Three Projects to Make You a Better Programmer | by Giuseppe | The Dev Café | Medium](https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a)
+* [Just for Fun. No, Really.](https://justforfunnoreally.dev/) 내가 회사에서 시작시킨 프로젝트 이름과 일치하기도 하고 목적도 같아서 기록
+  * [justforfunnoreally.dev: A little website to explain that sometimes we just like to have fun!](https://github.com/seven1m/justforfunnoreally.dev)
+  * [Just for Fun. No, Really. - 재미삼아 개발했어요. 진짜로요. (202 | GeekNews](https://news.hada.io/topic?id=16706)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
 * [5 Ways to Improve Your Code • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5z5eGcmNikQ) TDD, meaningful code rather than comment, refactoring, ...
@@ -777,6 +780,9 @@ Programming
 * [좋은 객체 ID(Object ID) 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2161/) UUID
 * [ID 뭐로 만들지 - YouTube](https://www.youtube.com/watch?v=gKbGIA7njQo)
 * [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
+* [TIL: 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
+  * 각 버전의 UUID 의 특징이 무엇이며, 언제 사용하면 좋은지 설명
+  * 일반적으로 버전 넘버가 높은 것이 더 좋은, 안정된 버전이라는 통념과 달리 UUID 는 8개의 버전이 모두 표준에 등록
 * [Nanosecond timestamp collisions are common (evanjones.ca)](https://www.evanjones.ca/nanosecond-collisions.html)
   * [nanocollision: NanoCollision: Experiments with collisions of nanosecond timestamps](https://github.com/evanj/nanocollision)
   * [나노초 타임스탬프 충돌은 흔합니다. | GeekNews](https://news.hada.io/topic?id=9943)
@@ -7094,6 +7100,8 @@ Programming
   * 이전에 MS-DOS의 1.25와 2.0의 소스코드를 공개
   * 최근 Connor “Starfrost” Hyde라는 영국 연구원이 자신의 소장 소프트웨어에 대해 Micosoft에 연락
     * 여기서 MS-DOS 4.0의 베타 바이너리를 발견하고 이를 스캔해서 MIT 라이센스로 공개
+* [Windows NT vs. Unix: A design comparison - by Julio Merino](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
+  * [Windows NT vs. Unix: 설계 비교 | GeekNews](https://news.hada.io/topic?id=16692)
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [Essence](https://nakst.gitlab.io/essence)
 * [PureDarwin | Moving the Darwin community in the right direction!](http://www.puredarwin.org/)
@@ -7448,6 +7456,8 @@ Programming
 * [An example of preparatory refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html)
   * "make the change easy, then make the easy change"
 * [리디 프론트엔드 개발자가 리팩토링에 진심인 이유 - RIDI Corp.](https://ridicorp.com/story/pr-frontend-engineer-refactoring/)
+* [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
+  * [(번역) 좋은 리팩터링 vs 나쁜 리팩터링 | Ykss](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
