@@ -112,6 +112,8 @@ Web
 * [폰트어썸, 한글 웹 폰트 300개 이상 보유 사이트](https://myownstudy.tistory.com/13)
 * [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
   * [반응형 폰트 사이즈를 위한 공식 | GeekNews](https://news.hada.io/topic?id=13940)
+* [Features of your font you had no idea about · OlegWock](https://sinja.io/blog/get-maximum-out-of-your-font)
+  * [고품질 글꼴에서 얻을 수 있는 이점 | GeekNews](https://news.hada.io/topic?id=16709)
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [요즘 '모던' 프론트엔드 개발하려면 알아야할 것들 - YouTube](https://www.youtube.com/watch?v=ZM55pce2AkY)
@@ -988,6 +990,8 @@ Web
 * [Keyframes.app](https://keyframes.app/)
 * [Open Props: sub-atomic styles](https://open-props.style/)
   * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
+* [Rethinking CSS in JS - DEV Community](https://dev.to/black7375/rethinking-css-in-js-5dip)
+  * [Rethinking CSS in JS | GeekNews](https://news.hada.io/topic?id=16727)
 * [shadcn/ui](https://ui.shadcn.com/)
   * [shadcn ui 자세히 알아보기](https://pyjun01.github.io/v/shadcn-ui)
     * 작년 가장 많은 GitHub Star를 받은 shadcn/ui 설명
