@@ -1104,6 +1104,7 @@ Git
   * [Git의 다양한 브랜치 병합 방법 (Merge, Squash & Merge, Rebase & Merge)](https://hudi.blog/git-merge-squash-rebase/)
   * [Merge vs. Rebase vs. Squash](https://gist.github.com/mitchellh/319019b1b8aac9110fcfb1862e0c97fb)
     * [Merge vs. Rebase vs. Squash :: Outsider's Dev Story](https://blog.outsider.ne.kr/1704)
+  * [Git squash로 여러 커밋을 하나로 만들기 - Git squash를 사용하여 여러 커밋을 하나의 커밋으로 만드는 방법에 대해서 알아봅니다](https://deku.posstree.com/ko/git/git-squash/)
   * [git rebase in depth](https://git-rebase.io/)
   * [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
   * [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase)
