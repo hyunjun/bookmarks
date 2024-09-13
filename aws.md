@@ -783,6 +783,7 @@ AWS
 * [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #1 | by Siheon Kim | May, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-1-641e20e2d1f4)
 * [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #2 | by Siheon Kim | Jul, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-2-eb73cc52b0b)
 * [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #3: STS 세션, 전체 배포와 부분 배포 | by Siheon Kim | Aug, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-3-sts-%EC%84%B8%EC%85%98-%EC%A0%84%EC%B2%B4-%EB%B0%B0%ED%8F%AC%EC%99%80-%EB%B6%80%EB%B6%84-%EB%B0%B0%ED%8F%AC-d511e631e613)
+* [CodeDeploy를 이용한 배포 실패 Troubleshooting | by Jason | Sep, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/codedeploy%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%8B%A4%ED%8C%A8-troubleshooting-bdf159e45642)
 * [AWS Codebuild 용 커스텀 Windows Server 이미지 만드는 법 | by Jesang Yoon | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-codebuild-%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-windows-server-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95-939eeeeb06b7)
 * [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js) | by gon Kim | elecle_bike | Feb, 2021 | Medium](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
 * [CI/CD from Github to AWS EC2 Step by Step | Node.js Express Backend API as an Example - YouTube](https://www.youtube.com/watch?v=Buh3GjHPmjo)
@@ -1913,6 +1914,7 @@ AWS
 * [Functions vs Containers: The Serverless Landscape • Marcia Villalba & Julian Wood - YouTube](https://www.youtube.com/watch?v=aa60K-UC9Uo)
   * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/32519a52863f)
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
+* [단, 두개의 AWS Lambda 함수로 Amazon OpenSearch, Amazon Bedrock 기반 이미지 검색 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/easiest-image-search-with-opensearch/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
@@ -2100,6 +2102,7 @@ AWS
   * [CloudFormation으로 기본 인프라 구성을 자동 구축 하기 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/cloudformation%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EB%B3%B8-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%84%B1%EC%9D%84-%EC%9E%90%EB%8F%99-%EA%B5%AC%EC%B6%95-%ED%95%98%EA%B8%B0-8144e3a9bcd0)
   * [architect: The simplest, most powerful way to build serverless applications](https://github.com/architect/architect)
     * [Architect (arc) - 서버리스 앱 작성/배포를 쉽게 해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=5031)
+* [CloudMapper helps you analyze your Amazon Web Services (AWS) environments](https://github.com/duo-labs/cloudmapper)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [ConsoleMe: A Central Control Plane for AWS Permissions and Access | Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
   * [How to implement ConsoleMe. ConsoleMe is a web service that makes… | by Joo Hee Paige Kim | 더핑크퐁컴퍼니 기술 블로그 | Apr, 2022 | Medium](https://medium.com/pinkfong/how-to-implement-consoleme-899a7474c6ab)
@@ -2165,6 +2168,7 @@ AWS
   * 만약 사용하겠다고 하면 Actuator 설정을 바꿔야 함
   * 인스턴스 운영 상태로는 적당하지 않지만 서비스 운영 상태 모니터링으로는 필요
 * [AWS Enterprise Support Korea: ELB Prewarming 소개 - YouTube](https://www.youtube.com/watch?v=A38J0H6TE3E)
+* [Elastic Load Balancer: 이점 극대화 및 비용 절감 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/elb-maximizing-benefits-keeping-costs-low/)
 * [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
