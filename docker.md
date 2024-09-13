@@ -2117,6 +2117,8 @@ Docker
     * [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
     * [레거시 교체! 달리는 기차의 바퀴를 갈아 끼우다](https://ykarma1996.tistory.com/198)
     * [최저가 항공 요금 수집을 위한 데이터 파이프라인 개발기](https://squarelab.co/blog/how-to-build-flight-fare-data-pipeline-with-argo/)
+    * [ArgoWorkflow: First Deployment. Argo workflows is a workflow engine for… | by DaeGon Kim | Sep, 2024 | Dev Genius](https://blog.devgenius.io/argoworkflow-first-deployment-8ff95bfdd847)
+    * [Argo Workflow Templates. In a previous article, we covered how… | by DaeGon Kim | Sep, 2024 | Dev Genius](https://blog.devgenius.io/argo-workflow-templates-69d54ed1a4fe)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
     * [Rollout_Cheat_Sheet.png (5160×6176)](https://raw.githubusercontent.com/jangjaelee/tutorials-argo-rollouts/main/cheat_sheet/Rollout_Cheat_Sheet.png)
 * [autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler)
