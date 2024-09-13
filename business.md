@@ -1058,6 +1058,8 @@ Business
   * [시니어를 검증하는 방법](https://www.linkedin.com/posts/nsuhyun_%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-activity-7220916454580219904-G_2Q/)
   * 1. 리더와 시니어의 기대 및 관점 얼라인 2. 어려운 과제에 대한 시니어의 접근 및 해결 능력 확인 3. 구성원 피드백을 통한 검증 4. 종합적인 검토
 * [최고의 개발자들을 붙잡아 두는 법 | GeekNews](https://news.hada.io/topic?id=16019)
+* [Your company needs Junior devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
+  * [당신 회사는 주니어 개발자가 필요해요 | GeekNews](https://news.hada.io/topic?id=16682)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
