@@ -360,6 +360,9 @@ Artificial Intelligence
   * [소스코드 생성 전용 - CodeGemma 시작하기](https://tykimos.github.io/2024/04/10/getting_started_with_codegemma/)
   * [Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 | GeekNews](https://news.hada.io/topic?id=15560)
   * [✨구글 Gemma 2 분석: 최신 오픈소스 모델로 무료 챗봇 만들기 🤖🔓](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%EA%B5%AC%EA%B8%80-Gemma-2-%EB%B6%84%EC%84%9D-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%AC%B4%EB%A3%8C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%F0%9F%A4%96%F0%9F%94%93)
+  * [DataGemma: AI open models connecting LLMs to Google’s Data Commons](https://blog.google/technology/ai/google-datagemma-ai-llm/)
+    * [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
+      * [Park Chansung - Google에서 Gemma 모델 패밀리에 새롭게 추가한 DataGemma Google... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid0uKPfBUM824kWZHb9hQQE8toRYUcKLpTC5Sngt1EZ2UHLTRC3VQDxAj7AeR7cavxDl)
   * [PaliGemma - 이미지를 인식하는 멀티모달 오픈소스 LLM - YouTube](https://www.youtube.com/watch?v=iyYh4PQBI9U)
     * PaliGemma 멀티모달 오픈소스 LLM, 이미지 인식에 특화
     * 이미지 인식을 위한 아키텍처와 HUGGING FACE SPACE에서 테스트하는 방법 및 다양한 파인튜닝 작업과 사용 사례 소개
