@@ -506,6 +506,13 @@ NLP
   * [level1\_semantictextsimilarity\_nlp-level1-nlp-03: level1\_semantictextsimilarity\_nlp-level1-nlp-03 created by GitHub Classroom](https://github.com/boostcampaitech4nlp1/level1_semantictextsimilarity_nlp-level1-nlp-03)
 * [Text Similarity, Semantic Similarity](https://forbetterdays.tistory.com/110)
 * [Aleksander Molak - Applying contrastive learning to fight anisotropy in language models - YouTube](https://www.youtube.com/watch?v=IdI3ccktbKw)
+* [Going beyond RAG: Extended Mind Transformers - Phoebe Klett - YouTube](https://www.youtube.com/watch?v=cS6M6Jec0lU)
+  * Phoebe Klett, a machine learning engineer at normal Computing, introduces Extended Mind Transformers (EMTs) as a new approach to improve language models
+  * EMTs allow the model to select and attend to the most relevant information at each generation step
+  * The talk covers the problem of retrieval augmented generation, the extended mind attention mechanism, and the importance of assigning position information to retrieved tokens
+  * EMTs are evaluated on a new counterfactual retrieval Benchmark and compared to fine-tuned models
+  * The results show that EMTs are competitive with fine-tuned models and outperform them when combined with more information and context
+  * The talk also discusses the importance of citations in AI applications
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
@@ -991,6 +998,8 @@ NLP
     * [GPT-4o mini: advancing cost-efficient intelligence | OpenAI](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
+  * [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
+    * [OpenAI, 더 많이 생각하고 대답하는 o1 모델 프리뷰 공개 | GeekNews](https://news.hada.io/topic?id=16735)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
@@ -2210,6 +2219,10 @@ NLP
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
+* [AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
+  * [Local Docker Installation ~ AnythingLLM](https://docs.anythingllm.com/installation/self-hosted/local-docker)
+  * [anything-llm: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.](https://github.com/Mintplex-Labs/anything-llm)
+    * [(1) Kubernetes Korea Group | 안녕하세요, 오늘은 쿠버네티스는 아니지만 흥미로운 프로젝트가 있어 공유 드려봅니다.(벌써 22K네요;;) | Facebook](https://www.facebook.com/groups/k8skr/posts/3945537662394544/)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
 * [AutoGPTQ: An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
   * [Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
@@ -2835,6 +2848,9 @@ NLP
   * [Finetune Mistral NeMo with Unsloth](https://unsloth.ai/blog/mistral-nemo)
     * [unslothai/unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
     * [unsloth (Unsloth AI)](https://huggingface.co/unsloth)
+* [mistral-community/pixtral-12b-240910 · Hugging Face](https://huggingface.co/mistral-community/pixtral-12b-240910)
+  * [Mistral releases Pixtral 12B, its first multimodal model | TechCrunch](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/)
+    * [Mistral, 첫 멀티모달 모델 Pixtral 12B 공개 | GeekNews](https://news.hada.io/topic?id=16747)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
 * [MosaicML | Home](https://www.mosaicml.com/)
@@ -2900,6 +2916,8 @@ NLP
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
+* [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
+  * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
   * [RouteLLM - LLM 라우터 서빙 및 평가를 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=15800)
 * [Sakura-SOLAR-DPO: Sakura-SOLAR-DPO: Merge, SFT, and DPO](https://github.com/KyujinHan/Sakura-SOLAR-DPO)
