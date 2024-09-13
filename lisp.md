@@ -131,6 +131,7 @@ Lisp
 * [Common Lisp Tutorial 1: Coin Toss - YouTube](https://www.youtube.com/watch?v=3GEAINRCbJ4)
 
 ## Common Lisp Library
+* [cl-completions: A Common Lisp LLM completions library](https://github.com/atgreen/cl-completions)
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
 * [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
 * [klisp is an implementation of the Kernel Programming Language](http://klisp.org/)
