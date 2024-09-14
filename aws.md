@@ -1109,6 +1109,8 @@ AWS
 * [FinOps](https://github.com/newstars/FinOps)
 * [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
   * [AWS에서 아주 저렴하게 온디맨드 Minecraft 서버 운영하기 | GeekNews](https://news.hada.io/topic?id=4978)
+* [networking-costs-calculator: Sample of a networking costs calculator, helping to estimate the networking costs such as Data Transfer, Transit Gateway Attachments, NAT Gateways etc.](https://github.com/aws-samples/networking-costs-calculator)
+  * [Estimate AWS networking costs with a self-hosted calculator | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/estimate-aws-networking-costs-with-a-self-hosted-calculator/)
 
 # Course MOOC Lecture
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
