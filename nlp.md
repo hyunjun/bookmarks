@@ -3424,6 +3424,9 @@ NLP
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [Steamship](https://www.steamship.com/)
   * [steamship-core/python-client](https://github.com/steamship-core/python-client)
+* [subtitle-translator](https://github.com/revfactory/subtitle-translator)
+  * [subtitle-translator-notebook.ipynb - Colab](https://colab.research.google.com/drive/1npelqXuTejHVnci562GS_dX4ebG2HfIE?usp=sharing)
+  * [차원이 다른 AI 번역: 더 똑똑해진 한글 자막 생성기를 소개합니다](https://revf.tistory.com/305)
 * [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/)
 * Text2SQL
   * [if(kakao)dev2022 RYANSQL: 한국어 Text2SQL 모델 개발](https://if.kakao.com/2022/session/71)
