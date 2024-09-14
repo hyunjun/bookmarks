@@ -360,6 +360,9 @@ Business
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
 * [사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북](https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310)
 * [“자율적 조직문화 강화, 일하는 방식 효율화에서 시작”](https://www.hrinsight.co.kr/view/view.asp?in_cate=112&bi_pidx=33783)
+* [신수정 - 사람들이 알아서 잘 안 움직인다면? 커뮤니케이션과 시스템--- 1. 얼마전 한 중견기업의 40대 대표를... | Facebook](https://www.facebook.com/shinsoojungceo/posts/pfbid02iWR5uCo2VhbhCdJy4ZtwfCEipJHZXQhjZxV1an9EXXHTP17QtMMNfM2Fwyxoj4D7l) 말 < 시스템
+  * 1) 필요한 것을 명확히 커뮤니케이션하고
+  * 2) 개개인들이 목표한 방향으로 자연스럽게 움직이도록 돕는 넛지나 시스템을 만드는게 훨씬 효과적
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [행복한 회사가 어디 있나요 구글코리아, 혁신을 만드는 구글의 조직문화 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/02/10/googlekorea-interview/)
 * [구글이 직원들의 업무 능력을 상승시킨 비결 – 체인지그라운드](http://thechangeground.com/archives/21926)
