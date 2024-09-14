@@ -318,6 +318,8 @@
 * [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [kiro-editor: A terminal UTF-8 text editor written in Rust 📝🦀](https://github.com/rhysd/kiro-editor)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
+* [lady-deirdre: Compiler front-end foundation technology.](https://github.com/Eliah-Lakhin/lady-deirdre)
+  * [Lady Deirdre - 프로그래밍 언어 컴파일러, 인터프리터 및 소스 코드 분석기를 위 | GeekNews](https://news.hada.io/topic?id=16755)
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
 * [leptos: Build fast web applications with Rust](https://github.com/leptos-rs/leptos/tree/main)
   * [Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers) - YouTube](https://www.youtube.com/watch?v=vAjle3c9Xqc)
