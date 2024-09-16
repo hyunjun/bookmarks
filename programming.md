@@ -7657,6 +7657,8 @@ Programming
   * [Infisical – 오픈소스 HashiCorp Vault 대안 | GeekNews](https://news.hada.io/topic?id=10313)
 * [logto: 🧑🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support](https://github.com/logto-io/logto)
   * [Logto - 오픈소스 사용자 아이덴티티 솔루션 | GeekNews](https://news.hada.io/topic?id=7020)
+* [novops: Cross-platform secret & config manager for development and CI environments](https://github.com/PierreBeucher/novops)
+  * [Novops - 크로스 플랫폼 Secret & Config 관리자 | GeekNews](https://news.hada.io/topic?id=16771)
 * [Vault - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
   * [Docker + Consul + Vault: A Practical Guide](https://www.marcolancini.it/2017/blog-vault/)
   * [Vault - HashiCorp에 의해서 개발된 크로스플랫폼 패스워드 및 인증 관리 시스템. 공개되면 안되는 비밀번호, API 키, 토큰 등을 저장하고 관리](https://www.joinc.co.kr/w/man/12/vault)
@@ -8993,6 +8995,7 @@ Programming
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
 * [깃헙의 10월 21일 장애 사후 분석](https://muchtrans.com/translations/github-oct-21-post-incident-analysis.ko.html)
 * [카카오 사태로 필수개념된 DR 시스템? 설명 10분컷! - YouTube](https://www.youtube.com/watch?v=tLLs7fKts2o) disaster recovery, RTO, RPO
+* [云原生负载均衡-LoxiLB集群外部署 - DevOps小强](https://www.guoqiangli.com/2024/09/08/cloud-native-load-balancing-loxilb-deployment-outside-the/) disaster recovery, DR
 * [NHN FORWARD 22 편안한 휴식 시간을 지켜줄 안정적인 백엔드 운영과 개발 기법 - YouTube](https://www.youtube.com/watch?v=2hCbY_mpqSg)
 * [CircleCI security alert: Rotate any secrets stored in CircleCI (Updated Jan 13)](https://circleci.com/blog/january-4-2023-security-alert/)
   * CircleCI에서 12월 21일부터 1월 4일까지 내부에서 의심스러운 접근으로 시크릿에 저장된 값에 접근했을 수 있는 가능성이 발견
