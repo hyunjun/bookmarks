@@ -1,4 +1,4 @@
-C
+C 
 =
 * [Awesome C](https://notabug.org/koz.ross/awesome-c)
 * [C언어 공부법과 책추천](http://sunyzero.tistory.com/225)
