@@ -2927,6 +2927,7 @@ AWS
 * [How I Would Learn AWS Today (after 10 years of cloud experience) - YouTube](https://www.youtube.com/watch?v=LTH9m4HkeYY)
 * [Amazon Web Services(AWS)에 대한 실습 자습서](https://aws.amazon.com/ko/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-content-type=*all)
 * [AWS(Study) AWS Educate 계정 사용하기 — Sun's diary](https://sundery.tistory.com/87)
+* [AWS 53탄-1. AWS개발환경 구축-2024-09](https://brunch.co.kr/@topasvga/4030)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
