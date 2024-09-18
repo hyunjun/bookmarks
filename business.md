@@ -1705,6 +1705,7 @@ Business
 * [**"엔지니어링은 무엇인가?" (What) "어떤 엔지니어링을 해야하는가?" (How)**](https://www.facebook.com/1ambda/posts/pfbid02fb8g96WMeEkJe9ZZYeNSdNDF335J7gLwLux6cezJGupPr6QQrGFxGmJEYAoXtG5Ll) KPI 이야기는 아니지만, 엔지니어링 측면에서 측정을 강조하고, 그 관점에서 보면 큰 맥락에서는 같이 볼 수도 있음
 * [What have you heard about The North Star Framework](https://www.linkedin.com/posts/olafioye-seyifunmi_what-have-you-heard-about-the-north-star-activity-7214523338180747265-0cF9/)
 * [북극성 지표에 대한 오해와 정성적 피드백의 중요성](https://brunch.co.kr/@yongjinjinipln/139)
+* [The North Star Metric is what simplifies everything](https://www.linkedin.com/posts/sachin-sharma-product-career-coach_productmanagement-careercoach-sachinsharma-activity-7239497044149608448-QE4G/) north star metric examples
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -2537,6 +2538,7 @@ Business
   * [Fit은 조직/직무 적합성이라고 이야기하는 경우가 많은데, 저는 Fit을 판단할 때 '가치관'과 '성격', 두 가지로 나눠서 접근](https://www.linkedin.com/posts/kangminlee_fit%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EA%B7%B8%EB%83%A5-%EB%91%90%EB%A3%A8%EB%AD%89%EC%8B%A4%ED%95%98%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%A7%81%EB%AC%B4-%EC%A0%81%ED%95%A9%EC%84%B1%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EA%B0%80-activity-7218165781627355136-2aL6/)
 * ["2500년"동안 단 한번도 바뀌지 않은 '3가지' 성공법칙 (임용한 박사 3부) - YouTube](https://www.youtube.com/watch?v=1ZLpzOj3toA) 삼국지를 통해 trust 등 여러가지를 이야기함
 * [위임 못하는 리더의 숨겨진 속마음 - 질투심](https://brunch.co.kr/@alden/79)
+* [리더들의 스몰 토크(Small Talk)가 중요한 진짜 이유 | H.PODCAST Upzen 한기용 2부 - YouTube](https://www.youtube.com/watch?v=OwiaF_9uIJk)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2568,6 +2570,7 @@ Business
 * [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
 * [Engineering Manager's Responsibilities + Free templates | Fellow.app](https://fellow.app/blog/management/engineering-managers-key-responsibilities-free-templates/)
 * [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
+* [팀원들의 역량이 정말 부족했던 걸까](https://eopla.net/magazines/20726)
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [Traversing the Engineering Manager Skill Tree by Ole Michaelis - YouTube](https://www.youtube.com/watch?v=P_ocQwm_-oE)
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
@@ -3924,6 +3927,7 @@ Business
     * even if it means consuming online content
   * [스타트업 전문가의 문제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1050698)
 * [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
+* [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
 * [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
 
 # Sillicon Valley
