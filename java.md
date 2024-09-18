@@ -2777,6 +2777,7 @@ Java
   * [테스트할 수 없는 코드 테스트하기 : 서비스 추상화와 목(Mockito) 프레임워크 활용](https://velog.io/@joosing/testing-untestable-code-with-service-abstraction-and-mocking)
   * [Mockito Invalid use of argument matchers! 에러](https://yeonyeon.tistory.com/315)
   * [Tips, tricks and gotchas when writing unit tests with Mockito by Jesse Kershaw - YouTube](https://www.youtube.com/watch?v=Rc-zoUqC0s8)
+  * [Automating Tests in Spring Boot with JUnit and Mockito - DEV Community](https://dev.to/matheusmartinello/automating-tests-in-spring-boot-with-junit-and-mockito-49ip)
 * [MockServer](https://www.mock-server.com/)
   * [mock-server/mockserver: MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).](https://github.com/mock-server/mockserver)
   * [사내 공통 목서버로 카카오페이 테스트 진입 장벽 낮추기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/how-to-simplify-kakaopay-testing-using-a-common-mock-server/)
