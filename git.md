@@ -321,6 +321,7 @@ Git
   * 이 기능은 Sigstore로 동작하고 GitHub CLI로 서명하고 이를 검증하게 할 수 있으며 아티팩트를 SBOM과 연결 가능
 * [Github - Suggestion :: iOYES](https://green1229.tistory.com/475)
 * [GitHub에서 삭제되거나 비공개 Repo 데이터에 누구나 액세스할 수 있음 | GeekNews](https://news.hada.io/topic?id=16001)
+* [GitHub이 실제로 승리한 이유 | GeekNews](https://news.hada.io/topic?id=16685)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
