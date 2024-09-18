@@ -1198,6 +1198,7 @@ AWS
 * [Amazon DynamoDB의 서비스 오픈 전 체크포인트와 오픈 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dynamodb-service-open-before-checkpoint-openstrategy/)
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part1/)
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part2/)
+* [채널톡 스타트업 기술 성장기: RDBMS에서 NoSQL로의 전환 - YouTube](https://www.youtube.com/watch?v=hMTaMRsuIf8)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
