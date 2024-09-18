@@ -531,6 +531,7 @@ Network
   * 불필요한 RTT(Round Trip Time)을 줄이면 페이지 로드 시간에 큰 영향을 주기 때문에 QUIC은 TCP가 아니라 UDP 위에 구현
   * QUIC을 설계한 이유는 프로토콜을 변경하기 어렵고 핸드 쉐이크를 줄일 필요가 있었고 HOL 블러킹 문제를 해결할 목적
   * 이를 구현한 과정과 적용한 과정까지 정리
+* [QUIC은 빠른 인터넷에서 충분히 빠르지 않다 | GeekNews](https://news.hada.io/topic?id=16683)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
 * [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
   * [Introducing s2n-quic, a new open-source QUIC protocol implementation in Rust | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/introducing-s2n-quic-open-source-protocol-rust/)
