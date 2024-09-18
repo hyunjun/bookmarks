@@ -3543,6 +3543,8 @@ Python
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [HC.Dle](https://hc.dle.pw/) Colab 한글 폰트 코드
   * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
+  * [RunPod - The Cloud Built for AI](https://www.runpod.io/)
+    * [코랩 대안 런팟(RunPod) 사용해보기](https://webnautes.tistory.com/2393)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
