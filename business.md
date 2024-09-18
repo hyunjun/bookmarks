@@ -86,6 +86,15 @@ Business
 * [이복연 - 캐나다의 한 금융 기관에서 조사한 결과에 따르면 창업자들이 우울을 경험할 확률은 일반인에 비해 2배가 높고,... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0ie39o7r1hKcdAt9bdVtMYd11PgnLJTMHfQ8PdmccuLMFLsrq7zZs3N4gBwM85h1fl)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
 * [오피스 빌런을 다루는 법: 직장 내 괴롭힘 예방과 대처 전략](https://www.linkedin.com/pulse/%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B9%8C%EB%9F%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-slfpe)
+* [직장생활에서 피해야 할 사람들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%A7%81%EC%9E%A5%EC%83%9D%ED%99%9C%EC%97%90%EC%84%9C-%ED%94%BC%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%82%AC%EB%9E%8C%EB%93%A4-activity-7239400124966150144-gy_t/)
+  * 1. 편을 가르는 사람들
+  * 2. 상대에 따라 말이 바뀌는 사람들
+  * 3. 감정기복이 심한 사람들
+  * 4. 하겠다고 한 일을 하지 않는 사람들
+  * 5. 자기 생각을 이야기하지 못하는 사람들
+  * 6. 날짜와 숫자를 부르지 못하는 사람들
+  * 7. 하고 싶은 것이 없는 사람들
+  * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
@@ -519,6 +528,8 @@ Business
   * 8. 업무 피드백을 긍정적으로 받아들인다. 감정적으로 받아들이지 않는다
   * 9. 일이 어그러져도 실망하지 않는다. 아주 빠르게 다음 일을 시작한다
   * 10. 의외로 멀티태스킹하지 않는다. 한번에 한가지를 밀도 있게 잘한다
+* [일잘러를 넘어 Impact를 내는 인재들의 특징 (Good to GREAT)](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EC%9D%BC%EC%9E%98%EB%9F%AC%EB%A5%BC-%EB%84%98%EC%96%B4-impact%EB%A5%BC-%EB%82%B4%EB%8A%94-%EC%9D%B8%EC%9E%AC%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7240083875295543296-_E-W/)
+  * [일잘러를 넘어 Impact를 내는 인재들의 특징](https://brunch.co.kr/@seunghoon82/550)
 * [당신은 전문가(specialist)인가, 숙련가(expert)인가?](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7224534295615279104-bMAh/)
   * 전문가
     * 지식 기반으로 특정 분야에 통달
@@ -996,6 +1007,10 @@ Business
 * [취업‧이직때 대박날 스타트업 고르는 법 - YouTube](https://www.youtube.com/watch?v=SuDldpt1Vlc)
 * [커리어를 시작하기도, 이직하기도 좋은 회사는 "성장하는" 회사](https://www.linkedin.com/posts/danielylee_%EC%B5%9C%EA%B7%BC-%EB%93%A4%EC%9D%80-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A1%B0%EC%96%B8-%EC%A4%91-%EA%B0%80%EC%9E%A5-%EC%99%80%EB%8B%BF%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EB%8F%84-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B8%B0%EB%8F%84-activity-7226418866564849664-Bd4D/)
 * [커리어편 이직을 고민할 때 생각할 질문 10가지](https://brunch.co.kr/@mobility/116)
+* [이직은 언제하는 걸까?](https://www.linkedin.com/posts/%EB%A7%B9-%EA%B8%B0%EC%99%84-9271a375_%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%96%B8%EC%A0%9C%ED%95%98%EB%8A%94-%EA%B1%B8%EA%B9%8C-%EB%B3%B4%ED%86%B5-%EB%B3%B8%EC%9D%B8-%EC%84%A0%ED%83%9D%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%EB%8D%B0-%EB%82%B4-%EC%A7%81%EC%9E%A5-%EC%83%9D%ED%99%9C-activity-7237698394188566528-5TGg/)
+  * 1. 자본최적화 이직
+  * 2. 인생은 행복 이직
+  * 3. 로드맵형 이직
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
