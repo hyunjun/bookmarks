@@ -4816,6 +4816,7 @@ Programming
 * [hands-on-fast-and-secure-cicd-pipeline](https://github.com/cjsrkd3321/hands-on-fast-and-secure-cicd-pipeline)
 * n8n.io [Powerful Workflow Automation Software & Tools - n8n](https://n8n.io/)
   * [워크플로 자동화로 업무 효율 향상하기(with n8n) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/31/workflow-n8n/)
+  * [평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅 - YouTube](https://www.youtube.com/watch?v=kdt5J2bpchM) install n8n on GCP
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
@@ -7634,6 +7635,7 @@ Programming
   * [What is RPC? gRPC Introduction. - YouTube](https://www.youtube.com/watch?v=gnchfOojMk4)
   * [Where should you use gRPC? And where NOT to use it! - YouTube](https://www.youtube.com/watch?v=4SuFtQV8RCk)
   * [gRPC - 알고 나면 쉬움 - YouTube](https://www.youtube.com/watch?v=uwrR5e5_FH8)
+  * [gRPC in .NET: Basics & More • Poornima Nayar • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=01I2U0UM3Fw)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
@@ -7691,6 +7693,7 @@ Programming
       * OpenTofu 운영자 중 한 명이면서 DevOps 관련 스타트업인 Scalr의 공동창업자이자 CEO인 Sebastian Stadil가 HashiCorp Vault의 포크인 OpenBao 프로젝트 공개
       * Terraform의 라이센스 변경으로 OpenTofu가 생겼듯이 Vault도 같은 이유로 포크해서 OpenBao 작성
       * OpenBao는 Linux 재단의 인큐베이팅을 받고 있고 IBM 개발자들이 엣지 컴퓨팅 이니셔티브인 LF Edge를 통해 프로젝트를 주도하고 있으면 아직 IBM에 공식 승인이 있었던 것은 아님
+  * [Hello, HashiCorp Vault. HashiCorp Vault was announced in April… | by JB | Sep, 2024 | Medium](https://medium.com/@chillcaley/hello-hashicorp-vault-6d0f6d305538)
 
 # SBOM Software Bill of Materials 
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
@@ -8143,6 +8146,9 @@ Programming
   * He discusses his journey from hobbyist to professional programmer, the importance of understanding how computers work, and the impact of good programming practices
   * He also talks about his early adoption of C++ and object-oriented programming, and his interest in systems software
   * Farley emphasizes the importance of clear, readable code and the value of abstraction in solving complex problems
+* [How Flow Works • James Lewis • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=FbV9EFHnGOE) platform engineering, value streams, ...
+  * [VidiGo How Flow Works • James Lewis • GOTO 2024.mp4](https://vidigo.ai/share/summary/da6abb0ccdc5)
+  * [흐름의 작동 원리 - 제임스 루이스 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1297070)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
