@@ -361,6 +361,7 @@
   * [KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton - YouTube](https://www.youtube.com/watch?v=te3OU9fxC8U)
   * [KotlinConf 2023: 개회 기조연설 살펴보기 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/04/kotlinconf-2023-opening-keynote/)
   * [KotlinConf 2023: 녹화 동영상 보기 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlinconf-2023-recordings/)
+  * [Kotlin Roundup: KotlinConf 2024 기조 연설 하이라이트 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2024/09/kotlin-roundup-kotlinconf-2024-keynote-highlights/)
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
 # Coroutine
@@ -554,6 +555,7 @@
   * [Android KSP(Kotlin Symbol Processing)을 활용하기 위한 준비단계!](https://thdev.tech/android/2022/05/14/Kotlin-KSP/)
   * [How to use annotation processing with KSP in your Kotlin application | by Matthias Schenk | Apr, 2023 | Towards Dev](https://towardsdev.com/how-to-use-annotation-processing-with-ksp-in-your-kotlin-application-3371393d50d7)
   * [KConMapper — How To Automate Mapping Function Creation With Kotlin’s KSP | by Yanneck Reiß | Tech Takeaways | Medium](https://medium.com/tech-takeaways/kconmapper-how-to-automate-mapping-function-creation-with-kotlins-ksp-12a91d6adf9a)
+  * [kimchi: A KSP compiler for contributing and merging kotlin-inject bindings, modules, and components in a multi-module environment](https://github.com/r0adkll/kimchi)
 * [ktlint: An anti-bikeshedding Kotlin linter with built-in formatter](https://github.com/pinterest/ktlint)
   * [Format Your Kotlin Code With Ktlint | by Hector Smith | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/format-your-kotlin-code-with-ktlint-6fd1321504d0)
   * [린트 적용으로 코드 대량 변경 시 AST를 이용해 검증하기](https://techblog.lycorp.co.jp/ko/using-ast-to-verify-the-code-after-code-linting)
