@@ -359,6 +359,7 @@ ElasticSearch - Lucene
   * ['검색의 미래'에 대한 참고글](https://c-rocket.net/boutique_search_engine_azout/)
   * [검색의 미래는 부티크다 (a16z 글 번역 및 요약) | GeekNews](https://news.hada.io/topic?id=6538)
   * [검색의 미래 그리고 진실의 순간](https://brunch.co.kr/@graypool/466)
+* [How do Search Engines really Work?](https://www.linkedin.com/feed/update/urn:li:activity:7238935027235913729/) 중요한 Dictionary, Ranking algorithm 부분은 부족
 * [Elasticsearch 검색에서 확률 사용하기](https://tech.buzzvil.com/blog/probability-in-es-search/)
 * [Datastream - 새로운 Elasticsearch 데이터 구조 이해하기 - YouTube](https://www.youtube.com/watch?v=JqKDIg8fgd8)
 * [**How to build a scalable backend to query and search billions of records? | by Saiful Khan | Elucidata | May, 2022 | Medium**](https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda)
