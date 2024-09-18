@@ -826,6 +826,7 @@ Scala
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
     * [How to create Durations in Scala | ScalaJobs.com](https://scalajobs.com/blog/how-to-create-durations-in-scala/)
   * [Comparing Concurrent Programming Alternatives](https://blog.lunatech.com/posts/2021-04-28-calculating-pi-concurrently)
+  * [java-threads-vs-events: Some experiments to measure different approaches to threading](https://github.com/p-pavel/java-threads-vs-events) native loom fs2
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
