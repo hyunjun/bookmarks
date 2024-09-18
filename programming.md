@@ -130,6 +130,7 @@ Programming
     * 순서가 중요. 거꾸로 적용하면 안됨
 * [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles)
 * [일론 머스크 알고리즘](https://www.linkedin.com/posts/maro-jeon-79935113b_%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%84%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-1-activity-7171430232074207232-smag/)
+* [제1원칙 사고에 대한 '진짜' 의미 (마크 주커버그, 네발) - YouTube](https://www.youtube.com/watch?v=N4lAL2_1oKY)
 * [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
@@ -8837,6 +8838,7 @@ Programming
       * 이를 알아볼 수 있는 방법론 제시
         * 진행됐던 여러개의 실험(넷플릭스는 1년에 수천개 진행)의 결과를 모두 가져와
         * bias를 제외하고 각 실험의 long-term 결과값을 정리, 추정하는 방법 제시
+* [**A/B 테스트 후기와 소고(小考): 할인율 명시의 효과. 할인율 명시의 효과** | by Joshua Kim | Sep, 2024 | Medium](https://joshua-data.medium.com/ab-test-review-bcfb3613e829)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
