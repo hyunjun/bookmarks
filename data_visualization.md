@@ -421,6 +421,7 @@ Data Visualization
   * [How to Create an Interactive Dashboard in Python Using HoloViz Panel | by Nic Fox | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/how-to-create-an-interactive-dashboard-in-python-using-holoviz-panel-2de350b6d8df)
   * [Using Panel to Build Data Dashboards in Python | by Will Norris | Towards Data Science](https://towardsdatascience.com/using-panel-to-build-data-dashboards-in-python-e87a04c9034d)
   * [Ted Conway - Think Inside the Box(es) Excel-Hosted Dashboards With Python Graphics - YouTube](https://www.youtube.com/watch?v=KcqNZEhwPOc)
+  * [Display Data from a PostgreSQL Database in a Panel App](https://ploomber.io/blog/panel-postgres/)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
   * [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
