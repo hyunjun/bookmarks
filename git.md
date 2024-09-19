@@ -1600,6 +1600,7 @@ Git
   * [GitLab Geo는 뭐지오? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/04/30/gitlab-geo/)
   * [AWS CodeCommit, GitLab 마이그레이션 최종 가이드 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/09/06/aws-codecommit/)
   * [파이프라인 개발 간소화 핵심! GitLab CI/CD 컴포넌트, 카탈로그 잘 써먹기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/09/03/gitlab-cicd-catalog/)
+  * [DevOps GitLab 버전 업그레이드는 계속 된다. | by 루카스Lucas(이상배) / DevOps팀 | Sep, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/devops-gitlab-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%8A%94-%EA%B3%84%EC%86%8D-%EB%90%9C%EB%8B%A4-e4198b232e6f)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
