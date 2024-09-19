@@ -516,6 +516,7 @@ Programming Books
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
+  * [클린 스프링 - 인프콘 2024](https://tobyepril.tistory.com/10)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect/)
   * 우당 문005.12-알48ㅇ
