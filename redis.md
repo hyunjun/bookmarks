@@ -168,6 +168,7 @@ Redis
   * Dropbox developed Chrono, a scalable and consistent metadata caching solution that addresses the challenge of efficiently storing and retrieving metadata
   * Chrono is built on top of Panda, Dropbox's key-value storage system, and uses a scalable, consistent caching system to solve high-volume read queries per second (QPS) problems while maintaining read consistency
   * Chrono provides non-decreasing return values for LatestAttemptTimestamp even with crashes/restarts and decouples data caching and write attempt tracking components for scalability
+* [Introducing Netflix’s Key-Value Data Abstraction Layer | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
