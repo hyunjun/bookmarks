@@ -74,10 +74,12 @@ Hardware
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [홈랩 프로젝트#1: 프롤로그 - 나에게 홈랩이란? 목적은 무엇인가? | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/07/24/home-lab-introduction/)
+* [홈랩 프로젝트#2: 현재 운영중인 장비와 구조 | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/09/14/home-lab-devices/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
 * [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
 * [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/2392)
+* [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
