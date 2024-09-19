@@ -983,6 +983,7 @@ Javascript
   * [Measure Time Taken by a Function to Execute in JavaScript - YouTube](https://www.youtube.com/watch?v=3dkTjy9AX6k)
   * [JS로 시간 다루기. 시간을 다루는 것은 참 까다롭습니다. 여러 가지 지식이 필요하기… | by 이상선 | Jan, 2023 | Medium](https://medium.com/@sunyi233/js%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A4%EB%A3%A8%EA%B8%B0-ee8baa05c03c)
   * [JS Dates Are About to Be Fixed | TimeTime](https://docs.timetime.in/blog/js-dates-finally-fixed/)
+    * [번역 자바스크립트의 Date가 곧 수정됩니다](https://velog.io/@eunbinn/js-dates-finally-fixed)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
 * File
   * [자바스크립트로 파일 다운로드하기](https://developer-alle.tistory.com/435)
