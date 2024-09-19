@@ -339,6 +339,7 @@ Network
     * Let's Encrypt에는 지금은 만료된 `DST Root CA X3` 루트 인증서와 새로운 `ISRG Root X1` 루트 인증서 존재
     * 설정에서 `ISRG Root X1`를 사용하게 했음에도 `DST Root CA X3`가 내려오는 상황
     * Let's Encrypt가 Trust CA가 되기 전에 `DST Root CA X3`를 사용한 과거가 있고 이를 deprecte 한 뒤 cert-manager에서 버그가 발생하는 조건이 충족되어 문제 발생
+  * [TIL: OpenSSL로 SAN 확인하기 - rein's world](https://rein.kr/posts/2024-09-14-check-san-openssl/)
 * [Qualys SSL Labs](https://www.ssllabs.com/)
 * [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
 * [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
