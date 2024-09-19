@@ -228,6 +228,7 @@
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기 - 용균](https://edykim.com/ko/post/lazy-loading-of-objects-in-the-database/) proxy 프록시 패턴
 * [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
 * [어댑터와 퍼사드 패턴](https://astrod.github.io/design_pattern/2018/09/29/Head-First-%EC%96%B4%EB%8C%91%ED%84%B0%EC%99%80-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4/)
+* [서버와 클라이언트의 우아한(?) 대화 방법, Adapter Pattern (Feat. FSD) | Univdev](https://univdev.page/posts/adapter-pattern/)
 * [MVC: Model, View, Controller](https://flask-diamond.readthedocs.io/en/latest/model-view-controller/)
 * [Difference between MVC and MVVM](https://medium.com/mobidroid/difference-between-mvc-and-mvvm-456ec67181f6)
 * [MVC vs. MVVM: How a Website Communicates With Its Data Models](https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d)
