@@ -5716,6 +5716,7 @@ Javascript
       * URL은 변경되지만, 사용자는 새 페이지로 이동했다는 느낌 X
       * 대신, 현재 페이지의 컨텍스트를 유지한 채 새로운 콘텐츠만을 오버레이 형태로 노출
       * 인지 부하 감소 -> 웹사이트 체류 시간 증가 -> 비즈니스 이점
+  * [Next.js SaaS Starter Template – Vercel](https://vercel.com/templates/next.js/next-js-saas-starter)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
