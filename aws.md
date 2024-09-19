@@ -1917,7 +1917,6 @@ AWS
 * [Functions vs Containers: The Serverless Landscape • Marcia Villalba & Julian Wood - YouTube](https://www.youtube.com/watch?v=aa60K-UC9Uo)
   * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/32519a52863f)
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
-* [단, 두개의 AWS Lambda 함수로 Amazon OpenSearch, Amazon Bedrock 기반 이미지 검색 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/easiest-image-search-with-opensearch/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
@@ -2996,6 +2995,8 @@ AWS
   * [http-requests-mirroring](https://github.com/aws-samples/http-requests-mirroring)
 * [VPC 트래픽 미러링 및 Gateway Load Balancer를 사용하여 NETSCOUT APM으로 엔드-투-엔드 가시성 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-end-to-end-visibility-with-netscout-apm-using-traffic-mirroring-and-gateway-load-balancer/)
 * [AWS Network Latency Comparison. Overview | by Cloud Journey | Medium](https://cloudjourney.medium.com/aws-network-latency-comparison-a59fea637524)
+* [Amazon S3용 마운트포인트를 사용한 Amazon VPC 트래픽 미러링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/capture-packets-with-amazon-vpc-traffic-mirroring-and-mountpoint-for-amazon-s3/)
+* [단, 두개의 AWS Lambda 함수로 Amazon OpenSearch, Amazon Bedrock 기반 이미지 검색 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/easiest-image-search-with-opensearch/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
