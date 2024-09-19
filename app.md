@@ -427,6 +427,7 @@ App
   * [Hugo에 쉽게 글쓰기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-970590914-post-9/)
   * [How to set up a blog with Hugo and Cloudflare (and why you should) | Smaller Fish](https://smaller.fish/posts/hugo)
   * [Vercel에 Hugo 사이트 배포하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/deploying-hugo-with-vercel/)
+  * [hugo-paper에 tag cloud 추가하기 - rein's world](https://rein.kr/posts/2024-09-15-hugo-paper-theme-tag-cloud/)
 * [inblog | Boost your sales through SEO-optimized blog](https://inblog.ai/)
   * [SEO 최적화 내세운 노션 기반 블로그 플랫폼 ‘인블로그’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2091/)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
@@ -1303,6 +1304,7 @@ App
 * [화면 고장난 💻맥북 수명 연장하기. 맥북 고장에 대처하는 새로운 마음가짐 | by Jung Kim | Feb, 2024 | Medium](https://medium.com/@jungkim/%ED%99%94%EB%A9%B4-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EB%A7%A5%EB%B6%81-%EC%88%98%EB%AA%85-%EC%97%B0%EC%9E%A5%ED%95%98%EA%B8%B0-5e029f20ae5a)
 * [How to clear system data - Deep clean your Mac - YouTube](https://www.youtube.com/watch?v=qtoXAQm1yqI)
 * [10 AWESOME MacBook tips I bet you didn’t know! - YouTube](https://www.youtube.com/watch?v=Hb7bAkgDxHE)
+* [맥북 USB-C 충전 전력 확인하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/917)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -2375,6 +2377,7 @@ App
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
+* [Saner.AI - Personal AI Note & Search Engine](https://saner.ai/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 * [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
