@@ -24,6 +24,7 @@ Religion
 * [The World's Newest Major Religion: No Religion](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
 * [종교는 때로 사람의 건강을 해친다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45225)
 * [촛불과 태극기 사이에 선 대한민국과 개신교](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303259)
+* [샤로잡다 "믿음은 있지만 종교는 없어요" 종교는 어떻게 변해야 할까? | 성해영 교수 - YouTube](https://www.youtube.com/watch?v=gFk5Ya4eM8g)
 
 # Atheist
 * [대한민국은 종교의 천국? 아니, 무신론 강국!](http://v.media.daum.net/v/20170129000344826)
