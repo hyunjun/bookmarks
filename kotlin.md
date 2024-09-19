@@ -236,6 +236,7 @@
 * [Gradle Intro 1: Basics: Tasks & Configurations - YouTube](https://www.youtube.com/watch?v=YQUkIopifJs)
 * [Gradle Intro 2: Re-implementing the Kotlin Gradle Plugin from scratch - YouTube](https://www.youtube.com/watch?v=rr3LUKVX0bo)
 * [유연하고 확장 가능한 배너 기능 구현하기](https://toss.tech/article/intelligence_banner) backoffice에서도 유용할까?
+* [코틀린, 저는 이렇게 쓰고 있습니다 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-kotlin/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
