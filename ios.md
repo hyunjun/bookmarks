@@ -680,6 +680,7 @@ iOS
 * [Custom Font Dynamic Type :: iOYES](https://green1229.tistory.com/504)
 * [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
   * [Swift는 더 편리한 Rust입니다 | GeekNews](https://news.hada.io/topic?id=16646)
+* [Swift 6 - @retroactive :: iOYES](https://green1229.tistory.com/507)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
@@ -840,6 +841,7 @@ iOS
 * [SwiftUI - ViewThatFits :: iOYES](https://green1229.tistory.com/490)
 * [Enhance your UI animations and transitions (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/494)
 * [SwiftUI - AnyLayout :: iOYES](https://green1229.tistory.com/503)
+* [SwiftUI - ScaledMetric :: iOYES](https://green1229.tistory.com/506)
 
 # TDD, Test
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
@@ -922,3 +924,4 @@ iOS
 * [Xcode 15 의 iOS 17 빌드에서 User Agent 가 원하는 값으로 설정되지 않을때 (feat. iOS 버전별 WebKit 버전과 작업 내역 확인하기)](https://ebay-korea.tistory.com/93)
 * [React Native iOS Xcode에 개발자 계정 등록하기 | miryang.dev](https://miryang.dev/note/react-native/ios-dev-signing)
 * [Demystify explicitly built modules (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/501)
+* [행 추적하기 :: iOYES](https://green1229.tistory.com/508)
