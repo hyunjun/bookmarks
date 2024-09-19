@@ -578,6 +578,7 @@ Programming
     * 인가 서버와 상태를 공유할 수 없다면 AT를 검증할 다른 방법이 필요, 이때 JWT를 쓰면 편하게 사용 가능
       * 하지만 JWT내의 데이터는 비슷했지만, 클레임의 형태가 달랐기에 이를 프로필로 통일시킬 수 있다고 생각, 조사한 뒤 IETF에 제안
       * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
+* [Customizing scopes in the OAuth app authorization flow - Dropbox](https://dropbox.tech/developers/customizing-scopes-in-oauth-flow)
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
@@ -1588,6 +1589,7 @@ Programming
   * [웹 API 설계 원칙 #1 (1~3장) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/750203)
 * [After 10 Years, Yelp Gave My App 4 Days ~ Observational Hazard](https://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html)
   * [Yelp, 내 앱이 10년간 사용하던 API에 단 4일 기간만 주고 비활성화 | GeekNews](https://news.hada.io/topic?id=16111)
+* [API 가이드 vs. API 스펙, 뭐가 다른거야? : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/386)
 * [API Protocols](https://www.linkedin.com/posts/progressivethinker_api-technology-activity-7221822897483358208-t1cY/)
   * 1. REST (Representational State Transfer)
   * 2. GraphQL
@@ -2448,6 +2450,7 @@ Programming
   * [VidiGo How to Make Smart Architecture Decisions when Buil](https://vidigo.ai/share/summary/fa34da96bf62)
   * [차세대 AI 앱을 구축할 때 현명한 아키텍처 결정을 내리는 방법 - Gillian Armstrong - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1026799)
 * [개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2743/)
+* [순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -5229,6 +5232,7 @@ Programming
     * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
   * [생각보다 쉬웠던 오픈소스 기여하기](https://dc-choi.tistory.com/69)
+  * [FIDO2 클라이언트 SDK 오픈소스 소개](https://techblog.lycorp.co.jp/ko/introducing-fido2-client-sdk-open-source)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
 * [fridump3: A universal memory dumper using Frida for Python 3](https://github.com/rootbsd/fridump3)
   * [메모리 덤프 분석 (feat. fridump) :: iOYES](https://green1229.tistory.com/405)
@@ -7006,6 +7010,7 @@ Programming
   * [기술 뉴스 #251 : 24-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1731)
   * [기술 뉴스 #252 : 24-08-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1732)
   * [기술 뉴스 #253 : 24-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1733)
+  * [기술 뉴스 #254 : 24-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1734)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -8585,7 +8590,6 @@ Programming
   * [NDC22 <달빛조각사>에서 서버 테스트 코드를 작성하는 방법 - Speaker Deck](https://speakerdeck.com/ohyecloudy/ndc22-dalbicjogagsa-eseo-seobeo-teseuteu-kodeureul-jagseonghaneun-bangbeob)
 * [테스트 케이스 관리를 JIRA로 하자! : 웹서비스셀의 테스트 관리 툴 도입기](https://tech.devsisters.com/posts/jira-tool-qa/) QAlity, Zephyr Scale
 * [테스트 코드와 반증가능성에 대한 메모 - 기계인간 John Grib](https://johngrib.github.io/wiki/article/test-code-and-falsifiability/)
-* [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
 * [회사에서 TDD 쓰려다 실패한 후기](https://velog.io/@skynet/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-TDD-%EC%93%B0%EB%A0%A4%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%95%9C-%ED%9B%84%EA%B8%B0)
 * [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 * [Simple testing can prevent most critical failures | the morning paper](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/) 단순한 테스트가 대부분의 끔찍한 실패를 예방한다
@@ -8921,6 +8925,8 @@ Programming
 * Meerkat [뭣? 딸깍 몇 번에 웹 E2E 테스트 코드를 생성하고 수행한다고? 에러도 잡아준다고? 영상도 뽑아준다고?](https://d2.naver.com/helloworld/4003712)
 * [Perfecto Scriptless! | Automated UI Testing Tool | Perfecto by Perforce](https://www.perfecto.io/products/scriptless)
 * [Robot Framework](https://robotframework.org/)
+  * [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
+  * [Robot Framework와 QA팀 동행기: 시작과 도전(1) | by Joseph | Sep, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/robot-framework%EC%99%80-qa%ED%8C%80-%EB%8F%99%ED%96%89-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EB%8F%84%EC%A0%84-1-90e6e355d4f3)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
   * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
