@@ -1251,6 +1251,7 @@ Linux
   * 커널 스페이스에서 실행되는 eBPF와 eBPF 기반으로 패킷을 처리할 수 있는 XDP 설명
   * eBPF로 작성해서 이를 커널로 로드하는 예시
   * 2018년에 나온 XDP의 설계를 보여주는The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel 논문 요약
+* [Noisy Neighbor Detection with eBPF | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [bpftop: bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program](https://github.com/Netflix/bpftop)
   * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5/)
     * Netflix가 eBPF 프로그램의 성능 최적화와 모니터링을 쉽게 할 수 있게 하는 bpftop CLI를 오픈소스로 공개
