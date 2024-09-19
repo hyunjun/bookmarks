@@ -2471,8 +2471,11 @@ Scala
 * [sbt-version-policy: Compatibility checks for your dependencies](https://github.com/scalacenter/sbt-version-policy)
   * [Preventing Version Conflicts with versionScheme | The Scala Programming Language](https://scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
 * [sudori](https://github.com/eed3si9n/sudori) an experimental sbt written using Scala 3
+  * [sudori part 1 · eed3si9n](https://eed3si9n.com/sudori-part1/)
   * [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
   * [sudori part 3 · eed3si9n](https://eed3si9n.com/sudori-part3/)
+  * [sudori part 4 · eed3si9n](https://eed3si9n.com/sudori-part4/)
+  * [sudori part 5 · eed3si9n](https://eed3si9n.com/sudori-part5/)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
 
