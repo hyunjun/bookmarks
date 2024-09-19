@@ -2353,6 +2353,11 @@ NLP
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
 * [KULLM: 구름(KULLM): 고려대학교에서 개발한, 한국어에 특화된 LLM](https://github.com/nlpai-lab/KULLM)
+* [Lakera Guard - Protect your LLM applications against security threats, instantly](https://www.lakera.ai/lakera-guard)
+  * [How we use Lakera Guard to secure our LLMs - Dropbox](https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms)
+    * Dropbox uses Lakera Guard to secure their LLMs, providing robust capabilities to safeguard user data and maintain the reliability and trustworthiness of their intelligent features
+    * The integration of Lakera Guard was a gradual process, starting with one product and eventually creating a custom Dropbox service that can automatically scale up more containers as needed
+    * Dropbox plans to expand their Lakera Guard integration to all products using LLMs and collaborates with Lakera to improve the product and address novel ways to cause LLM hallucination
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LangChain](https://github.com/langchain-ai) LLM을 사용하여 애플리케이션을 만들기 위한 프레임워크로 설계. 쉽고 간편하게 애플리케이션을 만드는 게 목표
   * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/langchain-ai/langchain)
@@ -2544,6 +2549,7 @@ NLP
   * [구글폼, 깃허브 액션 그리고 랭체인으로 AI 인플루언서 블로그 작성 간소화](https://tykimos.github.io/2024/04/13/simplifying_virtual_influencer_blog_creation_with_google_forms,_github_actions,_and_langchain/)
   * [LangChain KR | LangChain 에 HWP 문서 로더가 없어 직접 구현하였습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/3101395573329487/)
     * [HWP파서예제-20240728 - Colab](https://colab.research.google.com/drive/1DlcP1pjr_Wdrq-3R3MUTBk4iUr2A-X9u?usp=sharing)
+  * [10분 만에 랭체인(LangChain) 이해하기](https://brunch.co.kr/@ywkim36/147)
   * [AI Convergence :: LangChain is like Spring Framework for LLM](https://mobicon.tistory.com/602)
   * [AI Convergence :: LCC-1 LangChain Concept - Components & RAG](https://mobicon.tistory.com/607)
   * [AI Convergence :: LCC-2 LangChain Document Loaders 이해](https://mobicon.tistory.com/610)
@@ -2574,7 +2580,6 @@ NLP
     * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
     * [LangChain 사용추적,모니터링을 도와주는 LangSmith를 알아보자!](https://codesw.tistory.com/entry/LangChain-%EC%82%AC%EC%9A%A9%EC%B6%94%EC%A0%81%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-LangSmith%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
     * [자동으로 #프롬프트 최적화 하는 도구를 LangSmith 피드백 기능을 활용하여 만들어 봤습니다. - YouTube](https://www.youtube.com/watch?v=z0c2BcTnYpY)
-  * [10분 만에 랭체인(LangChain) 이해하기](https://brunch.co.kr/@ywkim36/147)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langchain_clova_emb.ipynb - Colab](https://colab.research.google.com/drive/1BdgOq4KuL--BWkpdDlQ1HbDPYajt4tGh?usp=sharing)
@@ -2597,6 +2602,8 @@ NLP
       * [VidiGo 랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로](https://vidigo.ai/share/summary/dc9a7e8940b5)
       * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/852042)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
+    * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
+      * [LangGraph 기반의 multi-agent는 사람의 글쓰기 사고 과정을 모방한 agent](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-langgraph-multiagent-activity-7242144172319653889-OpVr/)
   * [LangServe 리뷰 초간편 LLM 웹앱 제작 & 배포기능까지! 과연, Streamlit 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=mdzMBF56HOM)
   * [RAPTOR](https://teddylee777.notion.site/RAPTOR-e835d306fc664dc2ad76191dee1cd859)
     * [👀 긴 문서(long context) 에 대한 참신한 RAG 방법론: RAPTOR! 논문 리뷰와 코드를 준비했습니다👌 - YouTube](https://www.youtube.com/watch?v=gcdkISrpMCA)
