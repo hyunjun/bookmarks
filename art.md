@@ -37,6 +37,7 @@ Art
 * [야구는 청춘의 고운 결 | 하라 히데노리, 아다치 미츠루](http://www.huffingtonpost.kr/acomics/story_b_7759286.html)
 * [history of animation](http://history-of-animation.webflow.io/)
 * [일본의 만화 편집부 데스크는 어떤 기준으로 작화를 보는가?](http://criticm.com/?p=5523)
+* [기사 - 슬램덩크학(學)개론 1 : 그 시절, 우리는 모두 강백호였다](https://www.ddanzi.com/ddanziNews/808919829)
 
 # Web Comic
 * [15년차 웹툰 작가가 말하는 웹툰 산업이 잘될 수밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=1xLauW7yhLg)
@@ -117,6 +118,7 @@ Art
 * [영화 매니아가 뽑은 음악영화 베스트 10](http://ppss.kr/archives/58053)
 * [뉴욕을 배경으로 펼치는 사랑스러운 로맨스 무비 TOP 6 우리의 감성을 자극하는 NEW YORK, NEW YORK](http://magazine2.movie.daum.net/movie/40218)
 * [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/news/290962)
+* [The Forgotten Art of Blockbuster Cinema - Mike Hill - YouTube](https://www.youtube.com/watch?v=rhG3PJPx4Sk)
 
 # Music
 * [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
