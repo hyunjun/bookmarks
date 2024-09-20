@@ -874,6 +874,20 @@ Business
   * [VidiGo 리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 |](https://vidigo.ai/share/summary/156ca459f1a5)
   * [리더와의 1:1 대화, 할 말이 없는데요? 조직관리와 피드백을 위한 성공적인 대화 스킬 | 퍼스트잇 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/887004)
 * [원온원이 잘 (안) 되는 조직](https://www.linkedin.com/posts/elfpenguin_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%EC%9B%90%EC%98%A8%EC%9B%90-%EC%A0%80%EC%9E%90-%EB%B0%B1%EC%A2%85%ED%99%94-%EC%BD%94%EC%B9%98%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%98%A8%EC%9B%90%EC%9D%B4-%EC%9E%98-%EC%95%88-%EB%90%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%9D%98-activity-7219122723711508480-3H2i/)
+* [더 나은 회사생활을 위한 효과적인 1:1 미팅 12가지 팁](https://www.linkedin.com/posts/woo-hyung-choi-a0185110_reeqyssxh-1on1rputyt-ujorgurqz-activity-7242316603067883520-LvPL/)
+  * 정기적 시간 설정
+  * 느슨한 미팅 주제
+  * 효과적인 질문
+  * talk less, listen more
+    * [Talk Less. Do Less. Listen More. Reprioritizing Listening. - Fluency Leadership](https://www.fluencyleadership.com/2023/10/11/talk-less-do-less-listen-more-reprioritizing-listening/)
+  * 목표와 커리어 성장 논의
+  * 주고받는 피드백
+  * 라포(Rapport) 형성으로 신뢰 쌓기
+  * on time
+  * 긍정적인 피드백으로 마무리
+  * 다음 단계 설정
+  * 상태 업데이트 지양
+  * 피드백 정기 모니터링
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -2826,6 +2840,25 @@ Business
 * [B2B 마케팅 업무를 더 나아지게 만드는 지표들](https://brunch.co.kr/@yennyjeong/38)
 * [좋아 보이는 광고 소재의 비밀](https://brunch.co.kr/@cliche-cliche/191)
 * [0원으로 미국 유명 뉴스에 소개되기 (feat. CNET). Scalable 하지 않은 글로벌 마케팅을 하던 딜라이트룸 초기… | by Jaemyung Shin | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EA%B5%AD-%EC%9C%A0%EB%AA%85-%EB%89%B4%EC%8A%A4%EC%97%90-%EC%86%8C%EA%B0%9C%EB%90%98%EA%B8%B0-feat-cnet-8511386cb335)
+* [26살에 연매출 9000억을 만든 세계 1위 유튜버가 팀을 운영하는 방법](https://maily.so/founderstory/posts/ccea6d6c)
+  * 관심을 가져야 할 세가지 지표는 클릭율(CTR), 평균 조회 시간(AVD), 평균 조회 비율(AVP)
+    * 클릭율 (CTR)
+      * 유튜브 피드에서 썸네일 본 사람 중 영상을 클릭한 사람의 비율
+      * 당신이 어느 부서에서 일하든 가장 중요
+      * 제목과 썸네일만 보고 클릭하고 싶게 만들어야
+    * 평균 조회 시간 (AVD)
+      * 평균적으로 몇분 동안 영상을 보는지 확인하는 지표
+      * 대부분의 영상에서 첫 1분 동안 가장 많은 사람들이 이탈
+      * 그래서 우리는 영상의 첫 1분을 매력있게 만들기 위해 가장 많은 신경
+    * 와우 팩터 (Wow Factor)
+      * 우리 채널만 할 수 있는 와우 팩터를 유지하는 것도 중요
+      * 정량적으로 측정하기 어려운 지표
+      * 다른 크리에이터가 할 수 없는 일을 해야
+    * 끝까지 보게 되는 구조
+      * 영상 마지막에 사용자들이 보상을 받을 수 있는 구조를 만들어야
+      * “극한의 챌린지에서 끝까지 살아남는 사람에게 상금을 주는 시리즈”가 그 예시
+      * “계단 밟기”라고 부르는 영상들. 점점 금액을 올려가면서 물건을 구매하는 영상 시리즈
+  * [How-To-Succeed-At-MrBeast-Production.pdf - Google Drive](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
