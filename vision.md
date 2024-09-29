@@ -440,7 +440,6 @@ Vision
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
-* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
 * WebRTC
   * [WebRTC samples](https://webrtc.github.io/samples/)
@@ -934,6 +933,11 @@ Vision
 * [Computer-vision: Computer Vision implementation](https://github.com/nh9k/Computer-vision)
 * [cm203: Introduction to Computer Vision course materials](https://github.com/Gabrui/cm203?tab=readme-ov-file)
 * [Digital-Image-Processing: Image Processing Implementation](https://github.com/nh9k/Digital-Image-Processing)
+
+# VLM Vision Language Model
+* [VLM backbone에 대한 트렌드를 알아보자! | 강재욱 - YouTube](https://www.youtube.com/watch?v=NgxSbyoiQYM)
+* [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
+* [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 
 # VR Virtual Reality
 * [blocks: An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift](https://github.com/googlevr/blocks)
