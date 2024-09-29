@@ -1508,6 +1508,8 @@ Git
       * 이때 날짜도 작성자의 날짜인지 커미터의 날짜인지도 선택 필요
       * 이를 바탕으로 커밋의 위상적 순서를 출력하는 알고리즘 작성
       * 이를 곧은 가지로 표현해서 Git의 브랜치를 시각화할 수 있게 구현
+* [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
+  * [git absorb - 자동화된 "git commit --fixup" | GeekNews](https://news.hada.io/topic?id=16952)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [GitButler | Git Branching, Refined](https://gitbutler.com/)
   * [gitbutler at blog.gitbutler.com](https://github.com/gitbutlerapp/gitbutler)
