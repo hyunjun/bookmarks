@@ -26,6 +26,9 @@ AWS
 * [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac)
   * AWS에서 CloudWatch의 알람을 Slack을 받을 수 있도록 AWS Chatbot을 이용한 과정 정리
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
+* [스타벅스 인공지능 챗봇 더사이렌포탈: 디지털 혁신 여정의 새로운 시작 - YouTube](https://www.youtube.com/watch?v=JgGfkZsyz7E)
+  * [올해 5월 AWS Seoul Summit에서 발표한 스타벅스 GenAI 챗봇 사례](https://www.linkedin.com/posts/joonsun-baek-73540087_%EC%98%AC%ED%95%B4-5%EC%9B%94-aws-seoul-summit%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%95%9C-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-genai-%EC%B1%97%EB%B4%87-activity-7226116692131594240-UPTN/)
+  * [AWS Summit 스타벅스 인공지능 챗봇 더사이렌포탈: 디지털 혁신 여정의 새로운 시작](https://velog.io/@repush/AWS-Summit-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B1%97%EB%B4%87%EB%8D%94%EC%82%AC%EC%9D%B4%EB%A0%8C%ED%8F%AC%ED%83%88%EB%94%94%EC%A7%80%ED%84%B8-%ED%98%81%EC%8B%A0-%EC%97%AC%EC%A0%95%EC%9D%98%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91)
 * [New – AWS Support App in Slack to Manage Support Cases | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
   * [Slack 기반 AWS Support 앱 출시 – 서포트 케이스 생성 및 관리 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/)
     * AWS에 서포트 티켓을 만들기 위해 AWS Support Center로 이동할 필요 없이 Slack 내에서 바로 티켓을 만들고 엔지니어와 채팅할 수 있는 AWS Suuport 앱 발표
@@ -702,6 +705,8 @@ AWS
 * [Building Practical, Cost-Efficient GenAI Solutions Using Serverless • Veda Raman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=-X-YHHU7p20)
 * [Amazon Bedrock으로 그래프 RAG 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-graph-rag/)
 * [AWS PrivateLink를 사용하여 Amazon Bedrock 프라이빗 접근 설정하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/)
+  * 서울리전 Bedrock을 그냥 사용하면 인터넷망을 통해서 호출
+  * PrivateLink 구성을 하개되면 안전하게 서버에서 AWS 내부망으로 통신, 즉 통신 보안
 * [AWS PrivateLink를 통해 다른 리전의 Amazon Bedrock을 내부 네트워크에서 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cross-region-bedrock-via-private-link/)
 * [Amazon Bedrock을 이용한 Amorepacific의 리뷰 요약 서비스의 평가 방법 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amorepacific-review-summarization-with-amazon-bedrock/)
 * [인터넷 액세스 불가 환경에서 Amazon Bedrock API실행 하기 | by MZC_Global | Cloud Villains | Medium](https://medium.com/cloudvillains/%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%95%A1%EC%84%B8%EC%8A%A4-%EB%B6%88%EA%B0%80-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-amazon-bedrock-api%EC%8B%A4%ED%96%89-%ED%95%98%EA%B8%B0-741eb51f998a)
@@ -724,6 +729,7 @@ AWS
 * [Clothbox의 Amazon Bedrock을 활용한 AI 패션 스캐너 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/clothbox-ai-fashion-scanner-using-amazon-bedrock/)
 * [Amazon Bedrock을 활용한 AWS Korea YouTube 채널의 숏폼 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-shortform-content-automation/)
 * [GS SHOP 패션 검색의 진화, Amazon Bedrock 멀티모달 기반 패션 검색 시스템 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/gs-shop-bedrock-multi-modal-fashion-search/)
+* [GS SHOP 패션 검색의 진화, Amazon Bedrock 멀티모달 기반 패션 검색 시스템 구현 사례](https://gsretail.tistory.com/68)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -973,6 +979,7 @@ AWS
   * [Amazon re:MARS 2022를 다녀오고. 6년 간의 뉴욕 생활을 정리하고 작년에 귀국해서 메가존클라우드에서… | by Soonmo Seong | Cloud Villains | Jul, 2022 | Medium](https://medium.com/ctc-mzc/amazon-re-mars-2022%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0-570eef90e774)
   * [Amazon re:MARS 2022 참관기 – 미래 비지니스를 향한 기술보고서 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-remars-2022-reports/)
 * AWS Summit
+  * [AWS Summit Seoul 2024 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWSyuqOPMFw5VHFhvsXfJCA)
   * [다시 돌아온 AWS Summit Seoul에 참여해 주셔서 감사합니다! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/thank-you-for-joining-aws-summit-seoul-2023/)
   * [피할 수 없는 클라우드 물결 (AWS Summit 2023 후기)](https://velog.io/@joosing/aws-summit-2023-recap)
   * [AWS Summit Seoul 2023 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3)
@@ -1471,6 +1478,7 @@ AWS
 * [간소화된 Amazon EKS 액세스 관리 제어 톺아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 * [무중단으로 EKS 클러스터 버전 업그레이드하기 - 블럭스 매거진](https://blog.blux.ai/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%9C%BC%EB%A1%9C-eks-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%98%EA%B8%B0-25859)
 * [따배EKS Amazon EKS 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M)
+* [Amazon EKS Upgrade Journey From 1.30 to 1.31- say hello to another cutee “Elli” | by Marcin Cuber | Sep, 2024 | Medium](https://marcincuber.medium.com/amazon-eks-upgrade-journey-from-1-30-to-1-31-say-hello-to-another-cutee-elli-d488fd6521eb)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
