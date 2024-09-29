@@ -2270,6 +2270,9 @@ Python
 * [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [How to Debug in Python Without an IDE | by Aviral Bhardwaj | Dec, 2021 | Towards Dev](https://towardsdev.com/how-to-debug-in-python-without-an-ide-286b9cb78db6)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* [httpdbg](https://httpdbg.readthedocs.io/)
+  * [httpdbg: A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.](https://github.com/cle-b/httpdbg)
+  * [httpdbg - 파이썬의 HTTP 클라이언트 요청 트레이스 & 디버깅 도구 | GeekNews](https://news.hada.io/topic?id=16971)
 * [NoPdb: Non-interactive Python Debugger — NoPdb documentation](https://nopdb.readthedocs.io/)
   * [NoPdb: Non-interactive Python Debugger](https://pythonawesome.com/nopdb-non-interactive-python-debugger/)
 * PDB
@@ -5524,6 +5527,8 @@ Python
 * [Code coverage through unit tests running in sub-processes/threads - presented by Saransh Chopra - YouTube](https://www.youtube.com/watch?v=OwA8hfLclTg)
 * [Testing in Python - YouTube](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoYEer9hBmTNwkYB3gmbOPO)
 * [Python's assert: Debug and Test Your Code Like a Pro – Real Python](https://realpython.com/python-assert-statement/)
+* [EuroPython 2024 - Streamlining Testing in a Large Python Codebase | PPT](https://www.slideshare.net/slideshow/europython-2024-streamlining-testing-in-a-large-python-codebase/270202567)
+  * [PyCon JP 2024 Streamlining Testing in a Large Python Codebase .pdf](https://www.slideshare.net/slideshow/pycon-jp-2024-streamlining-testing-in-a-large-python-codebase-pdf/272062717)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
