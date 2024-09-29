@@ -3449,6 +3449,7 @@ Business
   * 5. 대화를 통해 조율해 나간다
   * 6. 개발에 집중할 수 있도록 한다
   * 7. 완료 후, 어떻게 쓰이고 있는지 공유한다. (지표변화, 사용자피드백)
+* [기획자, PM, PO는 어떻게 다를까?](https://divercity.stibee.com/p/7/) 공감하는 면도 있고 아닌 면도 있음
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -3986,6 +3987,7 @@ Business
 * [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
 * [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
+* [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
