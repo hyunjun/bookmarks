@@ -1437,6 +1437,8 @@ SQL
   * [Postgres를 검색엔진으로 활용하기 | GeekNews](https://news.hada.io/topic?id=16468)
 * [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
   * [그냥 Postgres 쓰세요 | GeekNews](https://news.hada.io/topic?id=16365)
+* [PostgreSQL: PostgreSQL 17 Released!](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+  * [PostgreSQL 17 출시 | GeekNews](https://news.hada.io/topic?id=16950)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
