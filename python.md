@@ -2007,6 +2007,9 @@ Python
 * [Python News Brief (Q2 2021) - Honeybadger Developer Blog](https://www.honeybadger.io/blog/2021-q2-python/)
 * [10 Tools & Techniques Python Web Developers Should Explore - YouTube](https://www.youtube.com/watch?v=XqL9sI1kWqA)
   * [mikeckennedy/ten-tips-python-web-devs: Repo for topics covered during the presentation](https://github.com/mikeckennedy/ten-tips-python-web-devs/)
+* [Python Core Sprint 2024: Day 1](https://mariatta.ca/posts/python-core-sprint-2024-day-1/)
+* [Python Core Sprint 2024: Day 2](https://mariatta.ca/posts/python-core-sprint-2024-day-2/)
+* [Python Core Sprint 2024: Day 3](https://mariatta.ca/posts/python-core-sprint-2024-day-3/)
 * [PyCon KR 2023 Async State Machine 이상훈 - YouTube](https://www.youtube.com/watch?v=boFerSeA4zY)
 
 ## Conference EuroPython
