@@ -448,6 +448,7 @@ iOS
 * [프로토콜 확장으로 기능을 추가하기](https://wlaxhrl.tistory.com/86)
 * [Swift Protocol 가지고 놀기, Protocol 의 다양한 특성에 대해 알아보자 | Medium](https://showcove.medium.com/swift-protocol-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EA%B8%B0-8a8fee305d9d)
 * [Swift : Struct 와 Class 에 대한 개인적인 생각들~ | Medium](https://showcove.medium.com/swift-struct-vs-class-1-68cf9cbf87ca) struct with protocol vs class
+* [Improving Swift’s Equatable for Complex Class Comparisons - DEV Community](https://dev.to/gguedes/improving-swifts-equatable-for-complex-class-comparisons-1ip9)
 * [Protocol 로 SwiftUI & Preview 200% 활용하기 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/protocol-%EB%A1%9C-swiftui-preview-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-b90413d6a4ab)
 * [Generics](http://wlaxhrl.tistory.com/60)
 * [Swift Generics](https://dailyhotel.io/swift-generics-5d88e834b2cc)
