@@ -47,38 +47,11 @@ Google Cloud Platform GCP
 * [Stackdriver Profiler 살펴보기](https://medium.com/@jwlee98/gcp-stackdriver-profiler-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-dfdab3d70c4b)
 * [Run Spark and Hadoop Faster with Cloud Dataproc | Google Cloud Labs](https://www.youtube.com/watch?v=h1LvACJWjKc)
 * [GCP Cloud Dataproc](https://ugong2san.tistory.com/2488)
-* [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
-* [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
-* [AnoIn-BigQuery - Tutoial of getting image url using BigQuery Google BigQuery에 데이터셋을 적재하고 이용하는 튜토리얼](https://github.com/llable/AnoIn-BigQuery)
-* [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji) 여러가지 과정을 거쳐 BigQuery로 이전
-* [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
-* [구글 빅쿼리(BigQuery) 시작하기 및 datagrip 연동 안내](https://stricky.tistory.com/494)
-* [구글 빅쿼리(BigQuery) CSV 데이터 import 하는 방법](https://stricky.tistory.com/497)
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 1편 - 리소스에 Label 만들기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-1/)
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 2편 - Billing 정보를 BigQuery로 내보내기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-2/)
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 3편 - 데이터 스튜디오를 사용하여 대시보드 구성하기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-3/)
-* [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
 * [정신 차려보니 구글 해커톤 1등이 되어있었다.- Part 1](https://blog.payhere.in/tech-230427/)
 * [정신 차려보니 구글 해커톤 1등이 되어있었다.- Part 2](https://blog.payhere.in/tech-230512/)
-* [**BigQuery연습.ipynb at main · serithemage/DataScienctPractice**](https://github.com/serithemage/DataScienctPractice/blob/main/BigQuery%EC%97%B0%EC%8A%B5.ipynb)
-* [Using WITH RECURSIVE in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/using-with-recursive-in-bigquery-sql-e593325f33f)
-* [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
-* [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
-* [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
-* [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
-* [Read Data directly with BigQuery SQL with the Zero — ETL Approach | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/read-data-directly-with-bigquery-sql-with-the-zero-etl-approach-a2dc34ff76ff)
-* [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
-* [Run BigQuery SQL using Python API Client | by Cristian Saavedra Desmoineaux | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/run-bigquery-sql-using-python-api-client-b5287ac05b99)
-* [빅쿼리에서 min_by, max_by](https://walkingfox.tistory.com/188)
-* [컬리의 BigQuery 도입기 - 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-1/)
-* [컬리의 BigQuery 도입기 - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-2/)
-* [BigQuery Omni with AWS](https://jybaek.tistory.com/982)
-* [Bigquery Cloud Storage를 통한 빅쿼리 테이블 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/20/cloud-storage/)
-* [GA4 BigQuery Export 통합 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/24/ga4-bigquery-export/)
-* [GCP BigQuery, Storage - Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2023/06/20/gcp-bigquery-storage-python/)
-* [New BigQuery SQL capabilities on tap | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/new-bigquery-sql-capabilities-on-tap?hl=en)
-  * 근본적인 SQL 능력의 발전에 대해서 잘 정리된 article
-* [초보자를 위한 BigQuery(SQL) 입문( 무료 강의) | GeekNews](https://news.hada.io/topic?id=13811)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
@@ -195,15 +168,6 @@ Google Cloud Platform GCP
 * [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
 * [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
-* [Gemini in BigQuery features are now GA | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/gemini-in-bigquery-features-are-now-ga?hl=en)
-  * 사용자 데이터에 기반하여 쿼리 제안, 사용자가 생각지도 못한 인사이트 제공
-  * SQL 및 Python 코드 생성/설명/완성 기능 + 자연어 기반 데이터 탐색 + AI를 이용한 성능 최적화 권장 사항 등 다양한 기능 제공
-* [BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-gemini-review/)
-  * 빅쿼리 환경에서 구글 LLM 모델인 제미니 프로를 활용하는 방법에 대한 포스트
-  * 제미니 프로를 사용하기 위해 필요한 사전 설정과 빅쿼리에서 제미니를 사용하는 방법 설명
-  * 제품 리뷰 데이터를 사용하여 제미니를 사용하는 예시와 함께 리뷰 요약, 제품 홍보 문구 작성, 다양한 활용 방법 제시
-  * 응답 형식을 JSON으로 지정하여 정합성을 높이는 방법, 대용량 데이터를 처리하는 방법, RAI(Responsible AI) 기능을 사용, 응답 결과 해석 방법 등의 팁 제공
-  * 마지막으로, 제미니를 사용하여 리뷰 데이터를 분석하고 실제 서비스에 적용하는 방법 소개
 * [Gemini 의 숨겨진 유용한 기능과 colab과 함께 사용하기 - YouTube](https://www.youtube.com/watch?v=f2JapEcvr9k)
   * 생성형 AI인 Gemini와 구글 코랩을 연동하여 데이터를 분석하는 방법 소개
   * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능 
@@ -214,6 +178,46 @@ Google Cloud Platform GCP
 * [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
 * [GCP 규칙 기반 평가 서비스 제공을 위한 Workload Manager Evaluation 알아보기 — #1 Workload Manager Evaluation | by 이정운 (Jungwoon Lee) | google-cloud-apac | Aug, 2024 | Medium](https://medium.com/google-cloud-apac/gcp-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%8F%89%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-workload-manager-evaluation-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-workload-manager-evaluation-7471c19b834e)
 * [왜 맨날 AWS만 써요? GCP는 안 하나요? - YouTube](https://www.youtube.com/watch?v=eQ0bANqOxyU)
+* [Three different ways to run Apache Airflow on Google Cloud | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/different-ways-to-run-apache-airflow-on-google-cloud?hl=en)
+
+# BigQuery
+* [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
+* [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
+* [AnoIn-BigQuery - Tutoial of getting image url using BigQuery Google BigQuery에 데이터셋을 적재하고 이용하는 튜토리얼](https://github.com/llable/AnoIn-BigQuery)
+* [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji) 여러가지 과정을 거쳐 BigQuery로 이전
+* [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
+* [구글 빅쿼리(BigQuery) 시작하기 및 datagrip 연동 안내](https://stricky.tistory.com/494)
+* [구글 빅쿼리(BigQuery) CSV 데이터 import 하는 방법](https://stricky.tistory.com/497)
+* [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
+* [**BigQuery연습.ipynb at main · serithemage/DataScienctPractice**](https://github.com/serithemage/DataScienctPractice/blob/main/BigQuery%EC%97%B0%EC%8A%B5.ipynb)
+* [Using WITH RECURSIVE in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/using-with-recursive-in-bigquery-sql-e593325f33f)
+* [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
+* [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
+* [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
+* [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
+* [Read Data directly with BigQuery SQL with the Zero — ETL Approach | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/read-data-directly-with-bigquery-sql-with-the-zero-etl-approach-a2dc34ff76ff)
+* [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
+* [Run BigQuery SQL using Python API Client | by Cristian Saavedra Desmoineaux | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/run-bigquery-sql-using-python-api-client-b5287ac05b99)
+* [빅쿼리에서 min_by, max_by](https://walkingfox.tistory.com/188)
+* [컬리의 BigQuery 도입기 - 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-1/)
+* [컬리의 BigQuery 도입기 - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-2/)
+* [BigQuery Omni with AWS](https://jybaek.tistory.com/982)
+* [Bigquery Cloud Storage를 통한 빅쿼리 테이블 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/20/cloud-storage/)
+* [GA4 BigQuery Export 통합 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/24/ga4-bigquery-export/)
+* [GCP BigQuery, Storage - Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2023/06/20/gcp-bigquery-storage-python/)
+* [New BigQuery SQL capabilities on tap | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/new-bigquery-sql-capabilities-on-tap?hl=en)
+  * 근본적인 SQL 능력의 발전에 대해서 잘 정리된 article
+* [초보자를 위한 BigQuery(SQL) 입문( 무료 강의) | GeekNews](https://news.hada.io/topic?id=13811)
+* [BigQuery jobs explorer is now GA | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/bigquery-jobs-explorer-is-now-ga/?hl=en)
+* [Gemini in BigQuery features are now GA | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/gemini-in-bigquery-features-are-now-ga?hl=en)
+  * 사용자 데이터에 기반하여 쿼리 제안, 사용자가 생각지도 못한 인사이트 제공
+  * SQL 및 Python 코드 생성/설명/완성 기능 + 자연어 기반 데이터 탐색 + AI를 이용한 성능 최적화 권장 사항 등 다양한 기능 제공
+* [BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-gemini-review/)
+  * 빅쿼리 환경에서 구글 LLM 모델인 제미니 프로를 활용하는 방법에 대한 포스트
+  * 제미니 프로를 사용하기 위해 필요한 사전 설정과 빅쿼리에서 제미니를 사용하는 방법 설명
+  * 제품 리뷰 데이터를 사용하여 제미니를 사용하는 예시와 함께 리뷰 요약, 제품 홍보 문구 작성, 다양한 활용 방법 제시
+  * 응답 형식을 JSON으로 지정하여 정합성을 높이는 방법, 대용량 데이터를 처리하는 방법, RAI(Responsible AI) 기능을 사용, 응답 결과 해석 방법 등의 팁 제공
+  * 마지막으로, 제미니를 사용하여 리뷰 데이터를 분석하고 실제 서비스에 적용하는 방법 소개
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
