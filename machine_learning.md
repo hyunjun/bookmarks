@@ -1443,6 +1443,9 @@ Machine Learning
   * [MLOps Basics Week 10: Summary – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-summary) 요약**
 * [MLOps NYC](https://www.mlopsnyc.com)
   * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
+* [mlops-project](https://github.com/prsdm/mlops-project)
+  * [Insurance Cross Sell Prediction](https://prsdm.github.io/mlops-project/)
+  * [Machine Learning Operations (MLOps) For Beginners | by Prasad Mahamulkar | Aug, 2024 | Medium](https://medium.com/@prasadmahamulkar/machine-learning-operations-mlops-for-beginners-a5686bfe02b2)
 * [UnionML: Build and Deploy Machine Learning Microservices](https://www.union.ai/unionml)
   * [UnionML: the easiest way to build and deploy machine learning microservices](https://github.com/unionai-oss/unionml)
   * [Shivay Lamba - Tour of UnionML: An Open Source framework for Building Machine Learn Microservices - YouTube](https://www.youtube.com/watch?v=bsa4Tbg6x4s)
