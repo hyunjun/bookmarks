@@ -371,6 +371,7 @@ Artificial Intelligence
   * [DataGemma: AI open models connecting LLMs to Google’s Data Commons](https://blog.google/technology/ai/google-datagemma-ai-llm/)
     * [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
       * [Park Chansung - Google에서 Gemma 모델 패밀리에 새롭게 추가한 DataGemma Google... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid0uKPfBUM824kWZHb9hQQE8toRYUcKLpTC5Sngt1EZ2UHLTRC3VQDxAj7AeR7cavxDl)
+      * [DataGemma 소개](https://aifactory.space/task/2733/discussion/2784)
   * [PaliGemma - 이미지를 인식하는 멀티모달 오픈소스 LLM - YouTube](https://www.youtube.com/watch?v=iyYh4PQBI9U)
     * PaliGemma 멀티모달 오픈소스 LLM, 이미지 인식에 특화
     * 이미지 인식을 위한 아키텍처와 HUGGING FACE SPACE에서 테스트하는 방법 및 다양한 파인튜닝 작업과 사용 사례 소개
