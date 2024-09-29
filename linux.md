@@ -187,6 +187,7 @@ Linux
   * [20년간의 Apple 생활 이후 Linux 및 Android와 함께 생활하기 (Living with Linux and Android after two decades of Apple) - DHH | Write the code. Change the world.](https://kyoungwon.me/articles/2024/07/11/Living-with-Linux-and-Android-after-two-decades-of-Apple/)
 * [Linux as the new developer default at 37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
   * [37signals의 새로운 개발자 기본 환경인 Linux (Linux as the new developer default at 37signals) - DHH | Write the code. Change the world.](https://kyoungwon.me/articles/2024/07/06/Linux-as-the-new-developer-default-at-37signals/)
+* [Realtime Linux가 오랜 논쟁 끝에 리눅스 커널에 공식 포함 | GeekNews](https://news.hada.io/topic?id=16860)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
