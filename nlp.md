@@ -1014,6 +1014,7 @@ NLP
     * [데이터 분석용 GPTs - 플랏봇 | Pega Devlog](https://jehyunlee.github.io/2024/08/11/General-58-plotbot/)
     * [플랏봇 v0.15 - 시각화 커스터마이징 | Pega Devlog](https://jehyunlee.github.io/2024/09/08/General-61-plotbot2/)
     * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
+    * [효율적 업무효율화 | Pega Devlog](https://jehyunlee.github.io/2024/09/25/General-62_worksmart/)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
@@ -2575,6 +2576,14 @@ NLP
       * LM의 지식을 보완하고 더 정확한 답변을 제공하며, 신뢰성과 효율성을 높이기 위해 RAG의 필요성을 설명
       * RAG에는 데이터를 더 효율적으로 검색할 수 있도록 변형하여 저장하는 인덱싱과
         * 사용자 입력에 따라 인덱스에서 관련 데이터를 검색한 후 모델에 전달하는 Retriever and Generation이 포함
+    * [LangChain.js LLM 챗봇 개발 세미나 01 - 인트로](https://mixedcode.com/blog/62)
+    * [LangChain.js LLM 챗봇 개발 세미나 02 - Next.js 웹 풀스택 개발환경 구축하고 프로젝트 만들기](https://mixedcode.com/blog/63)
+    * [LangChain.js LLM 챗봇 개발 세미나 03 - Next.js 프로젝트 구조설명 VSCode 확장툴 설치 VSCode 확장툴 설치](https://mixedcode.com/blog/64)
+    * [LangChain.js LLM 챗봇 개발 세미나 04 - React Tailwind 기반 챗봇 UI 개발하기](https://mixedcode.com/blog/65)
+    * [LangChain.js LLM 챗봇 개발 세미나 05 - RESTful Bot API 개발하기](https://mixedcode.com/blog/66)
+    * [LangChain.js LLM 챗봇 개발 세미나 06 - 랭체인 소개 및 설치하여 심플봇 개발하기](https://mixedcode.com/blog/67)
+    * [LangChain.js LLM 챗봇 개발 세미나 07 - LangChain기초모듈 사용 및 역할기반 챗봇 구현하기](https://mixedcode.com/blog/68)
+    * [LangChain.js LLM 챗봇 개발 세미나 08-대화이력기반 챗봇 개발 및 RAG 봇 구현하기](https://mixedcode.com/blog/69)
   * [LangSmith](https://www.langchain.com/langsmith)
     * [Self Learning GPT #LangSmith 피드백으로 원하는 형식의 답변을 학습하는 GPT - YouTube](https://www.youtube.com/watch?v=8JEbrboSumg&t=0s)
     * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
@@ -3326,6 +3335,8 @@ NLP
   * [pyfasttext](https://pypi.org/project/pyfasttext)
   * [scikit-learn wrappers for Python fastText](https://github.com/shaypal5/skift)
   * [SwiftFastText - Swift wrapper for the Facebook FastText Library for efficient text classification and representation learning](https://github.com/JacopoMangiavacchi/SwiftFastText)
+* [FunctionChat-Bench](https://github.com/kakao/FunctionChat-Bench)
+  * [카카오, AI 언어모델 Function Call 성능 평가 벤치마크 데이터셋 국내 IT 기업 최초 구축 및 오픈소스 공개 | 카카오](https://www.kakaocorp.com/page/detail/11253?lang=KOR)
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
   * [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
