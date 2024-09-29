@@ -2208,6 +2208,14 @@ NLP
 * [MoE 정리 : A Survey on Mixture of Experts – Data Rabbit](https://flonelin.wordpress.com/2024/08/25/moe-%ec%a0%95%eb%a6%ac-a-survey-on-mixture-of-experts/)
 * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 * [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - tech.kakao.com](https://tech.kakao.com/posts/633)
+* [Jonas Kim - 지난주 AWS AI Day에서 'AI Agentic Workflow: 단순 업무 보조에서 비즈니스... | Facebook](https://www.facebook.com/aldente0630/posts/pfbid02VUugMrLApo6zftJv6UF4NGEtu9P2UQykm778tPE13ixdSFBXY6H3QobTW96sU5p6l)
+  * Amazon의 AI Agentic Workflow: 단순 업무 보조에서 비즈니스 솔루션 제공자
+    * 지난 주, Amazon의 AI Day에서 AI Agentic Workflow에 대한 발표 진행
+    * Agentic이라는 용어는 포용성과 혁신을 장려하기 위해 사용
+    * LLM을 직접 사용하는 것은 초안을 작성하는 것과 유사하며, 에이전틱 워크플로우는 수정 및 개선 과정을 더 잘 반영
+    * 에이전틱 워크플로우의 4가지 구현 패턴: 반성, 도구 사용, 계획 수립 및 다중 에이전트 협업
+    * Amazon Bedrock Agent, LangGraph, XAgent 및 TaskWeaver와 같은 에이전틱 워크플로우 솔루션 소개
+    * 에이전틱 워크플로우로 인해 AI의 작업 수행 범위가 크게 확장 예상, 새로운 작업 위임 및 응답 대기 방식에 적응 필요
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
