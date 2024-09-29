@@ -845,6 +845,7 @@ Business
 * [이나모리 회장께서는, 세상에 타는 물질과 안 타는 물질이 있듯이 회사원도 자연성, 가연성, 불연성 (自燃性, 可燃性, 不燃性)으로 나뉜다고 설명](https://www.linkedin.com/posts/kidaelee_hr-activity-7227492216661848064-qKtn/)
   * `現在の能力でできる、できないを判断してしまっては、新しいことや困難なことはいつまでたってもやりとげられません。현재의 능력으로 할 수 있는 것과 할 수 없는 것을 판단해 버리면 새로운 것, 어려운 것은 영원히 못 합니다.`
 * [일본 크래프트 맥주 회사가 모래시계형 맥주잔을 만든 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/yohobrewing20240826)
+* ["Building in Public" 이 정말로 효과가 있을까? | GeekNews](https://news.hada.io/topic?id=16908)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1456,6 +1457,7 @@ Business
   * Regular, scheduled time to relax and get to know each other, like family meals, can be replicated in workplaces
   * A system is necessary for sustainable success, and culture matters
   * Treating everyone with respect and showing real respect can change a toxic culture
+* [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1540,6 +1542,7 @@ Business
 * [창의성은 결과가 아니라 과정이다 (한글 번역) | Creativity Is a Process, Not an Event | JAMES CLEAR](https://blog.naver.com/bizucafe/223096363534)
 * [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
   * [창의성의 근본은 암기에서 비롯되는가? | GeekNews](https://news.hada.io/topic?id=16113)
+* [사업의 본질: 활동 분석 → 고효율 시스템 구축 → 높은 생산성 → 조직에 여유 → 직원들이 스스로 생각 → 창의성 → 고객](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7244103275078201345-YUW5/)
 
 # CTO
 * [Modern CTO - YouTube](https://www.youtube.com/c/ModernCTO/featured)
@@ -1735,6 +1738,11 @@ Business
 * [What have you heard about The North Star Framework](https://www.linkedin.com/posts/olafioye-seyifunmi_what-have-you-heard-about-the-north-star-activity-7214523338180747265-0cF9/)
 * [북극성 지표에 대한 오해와 정성적 피드백의 중요성](https://brunch.co.kr/@yongjinjinipln/139)
 * [The North Star Metric is what simplifies everything](https://www.linkedin.com/posts/sachin-sharma-product-career-coach_productmanagement-careercoach-sachinsharma-activity-7239497044149608448-QE4G/) north star metric examples
+* [KPI는 어떻게 회사의 운명을 바꾸어 놓는가?](https://divercity.stibee.com/p/4/)
+  * 구성원 모두가 기억하는 KPI가 있는가?
+  * 언제까지, 무엇을, 얼마나 달성하고 싶어하는가?
+  * KPI를 달성하지 못하면 어떻게 되는가?
+  * 허수 지표와도 연결되는 이야기
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -3977,6 +3985,7 @@ Business
 * [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
 * [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
 * [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
+* [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
