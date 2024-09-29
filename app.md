@@ -2347,7 +2347,7 @@ App
   * [Zettelkasten Obsidian Tutorial (Simplest way) - YouTube](https://www.youtube.com/watch?v=ATXERF3MiIY)
   * [Obsidian & iOS 16로 메모에 날개 달기. 메모법을 떠올리면 2장쓰고 버려진 노트나 자료는 남아있는지 궁금한… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/obsidian-ios-16%EB%A1%9C-%EB%A9%94%EB%AA%A8%EC%97%90-%EB%82%A0%EA%B0%9C-%EB%8B%AC%EA%B8%B0-7d0a89b08a45)
   * [Hack Your Brain With Obsidian.md - YouTube](https://www.youtube.com/watch?v=DbsAQSIKQXk)
-  * [Obsidian으로 마크다운 글 써서 GitHub 블로그에 올리기 · 감자도스](https://blog.potados.com/writing/obsidian-for-github-blog/)
+  * [Obsidian으로 마크다운 글 써서 GitHub 블로그에 올리기 · 감자도스](https://blog.potados.com/writings/obsidian-for-github-blog/)
   * [You all NEED these Obsidian community plugins - YouTube](https://www.youtube.com/watch?v=Yzi1o-BH6QQ)
   * [Top 10 Obsidian Plugins I Can't Do Without - YouTube](https://www.youtube.com/watch?v=W7kTtn9empU)
   * [천재들이 쓰는 노트앱? 옵시디언 활용법 200%! - YouTube](https://www.youtube.com/watch?v=h6rxKbbgI28)
@@ -2368,6 +2368,9 @@ App
   * Excalidraw
     * [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
     * [The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube](https://www.youtube.com/watch?v=P_Q6avJGoWI)
+  * git
+    * [옵시디언 깃허브 연동하기 - Obsidian Git Plugin](https://alive-wong.tistory.com/65#google_vignette)
+    * [Obsidian 커뮤니티 플러그인 추천 및 Git을 활용한 연동법 — ERROR DENY](https://dnai-deny.tistory.com/96)
   * [JSON Canvas — An open file format for infinite canvas data](https://jsoncanvas.org/)
     * [NEW 🎉 Obsidian JSON Canvas (Game Changer) - YouTube](https://www.youtube.com/watch?v=c3NSxQmKCss)
     * [Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian](https://obsidian.md/blog/json-canvas/)
