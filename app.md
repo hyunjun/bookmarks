@@ -484,6 +484,8 @@ App
     * [Wordpress Studio - 로컬에서 워드프레스를 개발하기 위한 도구 | GeekNews](https://news.hada.io/topic?id=14858)
     * [Meet Studio: Your New Favorite Way to Develop WordPress Locally – WordPress.com News](https://wordpress.com/blog/2024/04/24/studio/)
       * Wordpress의 로컬 개발 환경을 쉽게 구축할 수 있도록 Studio 공개, Studio를 사용하면 로컬에서 Wordpress를 실행하고 작업 중인 사이트를 공유 가능
+  * [WP Engine is banned from WordPress.org – WordPress News](https://wordpress.org/news/2024/09/wp-engine-banned/)
+    * [WP Engine, WordPress.org에서 Ban됨 | GeekNews](https://news.hada.io/topic?id=16957)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
@@ -1038,6 +1040,11 @@ App
   * [VS Code Day 2023 - YouTube](https://www.youtube.com/watch?v=X3qUfOB3x8Q)
   * [Visual Studio Code 자동 포매팅 안하고 저장하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/906)
   * [VS Code 링크 열기, Ctrl+클릭과 Alt+클릭 :: 류광의 번역 이야기](https://occamsrazr.net/tt/396)
+  * [개발자의 생산성을 높여주는 VSCode 꿀팁 대방출](https://www.linkedin.com/posts/daleseo_vscode-%EC%98%A4%EC%A7%81-%ED%82%A4%EB%B3%B4%EB%93%9C%EB%A1%9C-%EC%BB%A4%EC%84%9C-%EC%A0%9C%EC%96%B4%ED%95%98%EA%B8%B0-activity-7244471872900235264-lL4D/)
+    * [VSCode 오직 키보드로 커서 제어하기 - YouTube](https://www.youtube.com/watch?v=N2R1tCKT0a8)
+    * [VSCode 개발 생산성을 위한 줄 편집 단축키 - YouTube](https://www.youtube.com/watch?v=ULKm7T0qkyw)
+    * [VSCode 다중 편집을 위한 멀티 커서 활용법 - YouTube](https://www.youtube.com/watch?v=tNJDCkNCaYs)
+    * [VSCode의 꽃 Command Palette 활용법 - YouTube](https://www.youtube.com/watch?v=37UeMIdlGug)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
