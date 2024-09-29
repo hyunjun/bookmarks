@@ -2547,6 +2547,8 @@ Web
 * [Don't Use Websockets (Until You Try This…) - YouTube](https://www.youtube.com/watch?v=6QnTNKOJk5A)
 * [채팅앱 만들기 | 웹소켓이란 뭘까?| 풀스택으로 만들어보자 - YouTube](https://www.youtube.com/watch?v=uE9Ncr6qInQ)
 * [Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658)
+* [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+  * [Discord가 웹소켓 트래픽을 40% 감소시킨 방법 | GeekNews](https://news.hada.io/topic?id=16885)
 * [soketi](https://soketi.app/)
   * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
