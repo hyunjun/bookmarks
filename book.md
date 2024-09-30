@@ -1395,6 +1395,13 @@ Book
 * 나의 첫 지정학 수업
   * ★★★☆☆ 2024.08.11 10대용 도서이고 지정학보다는 사실상 세계 역사에 가깝다고 생각이 들지만 가볍게 읽기에 좋음
   * 탐라 문340.98-전17ㄴ 제주 청 340.98-전17지
+* 소현세자는 말이 없다
+  * ★★★☆☆ September 30, 2024 역사 전문가인 저자가 보기에 소현세자에 대한 일종의 (조선의 근대화를 이끌 수도 있었던 못다 핀 영웅이라는) 신화가 형성되는 건 이야깃거리에 그쳐야지, 이런 인식을 일반적으로 갖는 건 위험할 수 있다는 생각을 한 걸로 보인다. 근거를 통해 차분히 설명하는 저자의 글을 보면 충분히 동의할 수 있고 사료에서는 소현세자 개인에 대해서도 알 수 있는 부분이 매우 적어서 드라마나 영화에서 표현하는 소현세자는 실제와는 매우 거리가 있을 거라는 점을 쉽게 납득할 수 있다. 역사에 조금이라도 관심있는 사람이라면 재미있게, 쉽게 읽을 수 있다.
+  * 우당 문911.055-이34ㅅ
+  * [소현세자는 말이 없다](https://github.com/hyunjun/bookmarks/blob/master/books/crown_prince_sohyeon.md)
+  * [소현세자는 말이 없다. ★★★☆☆ September 30, 2024 역사 전문가인 저자가… | by Jun | Sep, 2024 | Medium](https://nymets.medium.com/%EC%86%8C%ED%98%84%EC%84%B8%EC%9E%90%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%97%86%EB%8B%A4-dc915a3ea1b8)
+  * [소현세자는 말이 없다 - Jun’s Substack](https://recur.substack.com/p/a32)
+  * [소현세자는 말이 없다](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%98%84%EC%84%B8%EC%9E%90%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%97%86%EB%8B%A4)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
