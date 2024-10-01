@@ -2130,6 +2130,7 @@ Java
 * [6. Spring properties파일에 정의된 값들 JAVA로 가져오기 (3가지)](https://kim-jong-hyun.tistory.com/17)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC](https://woolbro.tistory.com/37)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC 사용하기](https://woolbro.tistory.com/38)
+* [Spring MVC + Coroutines 에 대한 고민](https://yeonyeon.tistory.com/340)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (1)](https://woolbro.tistory.com/39)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (2)](https://woolbro.tistory.com/40)
 * [Spring JDBC](https://okdevtv.com/mib/spring/jdbc)
