@@ -241,6 +241,9 @@ Artificial Intelligence
   * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
   * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
 * [김유신 - 기업에서 AI를 구축하고 활용하려고 할 때, 가장 큰 난관은 무엇일까요? 저는 Data 라고 생각합니다.... | Facebook](https://www.facebook.com/neotevan/posts/pfbid0sMVGxjdtbxoE8WVWHDL63aryzbPUmCnFukmjep2XMwQHHWQN4hNNQ1R5xD9pFV9Tl)
+* [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
+  * AI Agent, AI agentic, AI assistant 차이
+* [**Agent:LLM의 새로운 응용프로그램-1부. 안녕하세요, 서비스 개발실 실장으로 크라우드웍스에서 일을 하게 된… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium**](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1%EB%B6%80-b4bf7c3eb176)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
