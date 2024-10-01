@@ -921,6 +921,13 @@ Book
 * 스타트업, 쉽게 할 수 있다는 거짓말
   * ★★★☆☆ 2024.08.12~13 (원래 그렇게도 생각했지만, 책의 표현대로도) '현실주의자'인 나에게 스타트업이 얼마나 어려운지 피상적으로나마 다시 한 번 깨닫게 해주는 책. 창업을 하고 싶은 사람들에게 충분히 권할만한 좋은 책. 짧은 챕터들의 연속으로 창업의 '현실'을 알려주지만, 이런 어려움에도 불구하고 '몽상주의자'들이라면 도전을 원할 것
   * 탐라 문325.21-최73ㅅ 우당 문325.21-최73ㅅ
+* [창업가의 질문 - YouTube](https://www.youtube.com/watch?v=eIF69CTMO54)
+  * ★★★★☆ 2024.10.01 창업할 생각은 없지만 manager로 지내고 스타트업에서 CEO들과 일하다보니 창업에 대한 책은 종종 읽는다. 지금껏 읽었던 창업에 대해 알려주는 책들 중에서는 가장 좋다는 생각이 든다. Q&A 형식으로 실제 있을법한 상황을 통해 필요한 부분을 알려주며, 때로는 이렇게 자세하다 싶을 정도로(예를 들면 투자사를 확인하기 위해 벤처투자협회 홈페이지를 통해 확인할 수 있다는 절차를 알려주는 부분) 실질적인 부분까지 기록했다. 창업을 꿈꾸는 주변 사람이 있다면 꼭 추천하고 싶다.
+  * 우당 문325.21-최67ㅊ
+  * [창업가의 질문](https://github.com/hyunjun/bookmarks/blob/master/books/questions_to_a_founder.md)
+  * [창업가의 질문. ★★★★☆ October 1, 2024 창업할 생각은 없지만… | by Jun | Oct, 2024 | Medium](https://nymets.medium.com/%EC%B0%BD%EC%97%85%EA%B0%80%EC%9D%98-%EC%A7%88%EB%AC%B8-a10575bcc95d)
+  * [창업가의 질문 - Jun’s Substack](https://recur.substack.com/p/de5)
+  * [창업가의 질문](https://jh4hj.tistory.com/entry/%EC%B0%BD%EC%97%85%EA%B0%80%EC%9D%98-%EC%A7%88%EB%AC%B8)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
