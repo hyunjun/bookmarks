@@ -2619,6 +2619,8 @@ NLP
       * [VidiGo 랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로](https://vidigo.ai/share/summary/dc9a7e8940b5)
       * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/852042)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
+    * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
+      * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
     * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
       * [LangGraph 기반의 multi-agent는 사람의 글쓰기 사고 과정을 모방한 agent](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-langgraph-multiagent-activity-7242144172319653889-OpVr/)
   * [LangServe 리뷰 초간편 LLM 웹앱 제작 & 배포기능까지! 과연, Streamlit 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=mdzMBF56HOM)
