@@ -2611,6 +2611,7 @@ Javascript
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=WvXUVwzslhw)
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=CKy3wSWeOmo)
   * [Google의 Search나 Photos같은 서비스의 프론트는 어떤 프론트 프레임워크로 만들었을까요?](https://www.linkedin.com/posts/danielylee_google%EC%9D%98-search%EB%82%98-photos%EA%B0%99%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%A0%ED%8A%B8-activity-7183350835643400193-azIs) Qwik가 Google 내부에서 사용하는 Wiz의 영향을 받았다는 이야기
+  * [Qwik: 가장 빠른 로딩속도의 자바스크립트 프레임워크 : Wonderwall Tech](https://tech.wonderwall.kr/articles/qwik/)
 * [Radix UI](https://www.radix-ui.com/)
   * 접근성, 커스터마이징 및 개발자 경험에 중점을 둔 로우 레벨 UI 컴포넌트 라이브러리로 디자인 시스템의 기본 레이어로 사용될 수 있도록 스타일이 지정되지 않은 컴포넌트 제공
 * [rainyday.js](http://pluvior.com/?rainy)
@@ -3903,6 +3904,8 @@ Javascript
     * 사람들은 오픈소스에 기여하는 것을 취업의 방법이 되었고 그로 인해서 오픈소스 생태계가 무너지고 있다며
       * 대부분의 사람은 오픈소스에 기여하지 말라는 말까지 나오는 상황
   * [How to Implement Rate Limiting in Express for Node.js | AppSignal Blog](https://blog.appsignal.com/2024/04/03/how-to-implement-rate-limiting-in-express-for-nodejs.html)
+  * [ultimate-express: The Ultimate Express. Fastest http server with full Express compatibility, based on µWebSockets](https://github.com/dimdenGD/ultimate-express)
+    * [µExpress(Ultimate Express) - Express와 호환되지만 더 빠르게 | GeekNews](https://news.hada.io/topic?id=17072)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
@@ -5742,6 +5745,7 @@ Javascript
   * [play-nextjs-mysql-graphql](https://github.com/notlamc/play-nextjs-mysql-graphql)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [NextUI : React UI Library : 네이버 블로그](https://blog.naver.com/gi_balja/223174698486)
+* [One - 웹, 네이티브 및 로컬 퍼스트를 통합하는 새로운 React 프레임워크 | GeekNews](https://news.hada.io/topic?id=17088)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Parallx Scrolling Effect in React js | React Parallax Effect With react-parallax-Package - YouTube](https://www.youtube.com/watch?v=robIIDWt6SA)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
