@@ -977,6 +977,7 @@
 * [How to do Topic Modelling in Python using PySpark LDA - YouTube](https://www.youtube.com/watch?v=LE5ceGh9CME)
 * [Use Spark from anywhere: A Spark client in Python powered by Spark Connect - YouTube](https://www.youtube.com/watch?v=vTd3OqDzjuo)
 * [PyCon KR 2023 pandas와 PySpark로 데이터 워크로드 확장하기 권혁진 - YouTube](https://www.youtube.com/watch?v=Rpsf61z4uNw)
+* [Pyspark - How to preprocess Large Scale Data with Python](https://joonwon-cv.notion.site/Pyspark-How-to-preprocess-Large-Scale-Data-with-Python-1f7345e855b7412d9922776e3e5e1139)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
