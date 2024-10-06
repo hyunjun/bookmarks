@@ -215,6 +215,8 @@ Json
 * [csv2json: A brilliant javascript package to parse csv to json](https://github.com/kitavidavis/csv2json)
 * [dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package](https://github.com/TomWright/dasel)
   * [Dasel - JSON, TOML, YAML, XML 및 CSV 데이터 선택, 삽입 및 삭 | GeekNews](https://news.hada.io/topic?id=16363)
+* [ESLint now officially supports linting of JSON and Markdown - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/10/eslint-json-markdown-support/)
+  * [ESLint, JSON 과 마크다운 린팅 공식 지원 | GeekNews](https://news.hada.io/topic?id=17090)
 * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
 * [GEOJSON](http://geojson.org/)
 * [fx - Command-line tool and terminal JSON viewer http://fx.wtf ](https://github.com/antonmedv/fx)
