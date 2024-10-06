@@ -188,6 +188,7 @@ Linux
 * [Linux as the new developer default at 37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
   * [37signals의 새로운 개발자 기본 환경인 Linux (Linux as the new developer default at 37signals) - DHH | Write the code. Change the world.](https://kyoungwon.me/articles/2024/07/06/Linux-as-the-new-developer-default-at-37signals/)
 * [Realtime Linux가 오랜 논쟁 끝에 리눅스 커널에 공식 포함 | GeekNews](https://news.hada.io/topic?id=16860)
+  * [리눅스커널, 20년만에 RTOS(실시간 운영체제) 내장 - 바이라인네트워크](https://byline.network/2024/10/2-224/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
