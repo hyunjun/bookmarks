@@ -5138,6 +5138,7 @@ Programming
   * 대규모 인터넷 서비스에서는 리소스를 최적화해야 하므로 과도한 메모리 요구 없이도 강력한 보안을 제공하는 bcrypt가 여전히 유리
   * 오늘날 클라우드의 도입으로 데이터는 원격에 더 많이 저장되며 무차별 대입 등의 공격보다는 취약점을 악용하거나 내부자를 감염시켜서 데이터를 유출하는 일이 더 증가
   * 이제 보안은 기술적인 문제가 아니라 인적 요소와 기존 보안 기술을 채택하는 데 드는 비용의 문제
+* [NIST(미국 국립표준기술연구소), 특정 비밀번호 문자 구성 요구 금지 | GeekNews](https://news.hada.io/topic?id=16939)
 * [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
 * [토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)
 * [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
@@ -6248,9 +6249,6 @@ Programming
 ## Multimedia Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
-* [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
-* [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
-* [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
@@ -6273,7 +6271,12 @@ Programming
 * [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
   * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
 * [imgp: Fast batch image resizer and rotator](https://github.com/jarun/imgp)
-* [jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
+* [JPEG](https://jpeg.org)
+  * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
+  * [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
+  * [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+  * [애플이 아이폰16에 JPEG XL을 사용하는 이유와 사진에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=16866)
+  * [jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
 * [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
   * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
@@ -6297,6 +6300,8 @@ Programming
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * [(06/10) 2024년 자바 생태계 정리(by 뉴 렐릭) - YouTube](https://www.youtube.com/watch?v=gI1NrJfdueU)
   * [VidiGo (06/10) 2024년 자바 생태계 정리(by 뉴 렐릭).mp4](https://vidigo.ai//share/summary/031fa9161d97)
+* [(10/02) Agile과 Jira의 느리고 고통스런 죽음 - YouTube](https://www.youtube.com/watch?v=Oima35nJ1Zw&ab_channel=KenuHeo)
+  * [(OKdevTV) 2024년 10월 2일 개발 이야기 | PPT](https://www.slideshare.net/slideshow/okdevtv-2024-10-2/272154755)
 * [What Happened to ThoughtWorks?. Why has a leading software technical… | by Zhimin Zhan | Medium](https://zhiminzhan.medium.com/what-happened-to-thoughtworks-a149852fcbf3)
   * 한때 애자일로도 유명했던 소프트웨어 컨설팅 회사인 ThoughtWorks
     * 마틴 파울러를 포함해서 테스트나 CI/CD 관련해서 유명한 사람이 많이 있었지만, 최근 3년 동안 주가가 90% 하락
@@ -6837,6 +6842,7 @@ Programming
   * [9월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/09/b-9-2.html)
   * [9월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/09/b-9-3.html)
   * [9월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/09/b-9-4.html)
+  * [10월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/10/b-10-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8763,6 +8769,8 @@ Programming
       * Cypress나 Playwright같은 통합테스트 도구는 페이지 제어 가능, 내부 제어 불가능
     * 이러한 문제를 해결하기 위해 SafeTest 작성, 지연 로딩을 활용해서 페이지에 테스트를 실행하는 코드를 동적으로 로딩하는 것이 주요 아이디어
       * 이렇게 설정한 뒤에 Playwright를 사용해서 실행하므로 페이지를 테스트할 수 있으면서도 특정 함수나 컴포넌트를 오버라이딩해서 더 쉽게 테스트 가능
+* [shortest: Have AI write and update tests for you](https://github.com/gumroad/shortest)
+  * [Shortest](https://shortest.com/) PR을 보고 AI로 test를 작성하는 걸로 보임
 * [Testcontainers](https://testcontainers.com/)
   * [testcontainers](https://github.com/testcontainers)
   * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
