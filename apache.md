@@ -1290,6 +1290,9 @@ Apache
 # Nutch
 * [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
+* [nutch](https://okdevtv.com/mib/nutch)
+  * [obsmemo/okdevtv/241005-web-crawler.md at main · kenu/obsmemo](https://github.com/kenu/obsmemo/blob/main/okdevtv/241005-web-crawler.md)
+  * [🕷️ 소소한 코딩 화면 공유 - 웹 크롤러 nutch - YouTube](https://www.youtube.com/watch?v=S2V8wTFjodU) GCP
 
 # Oozie
 * [Oozie](http://oozie.apache.org/)
