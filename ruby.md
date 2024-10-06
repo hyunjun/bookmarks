@@ -159,6 +159,7 @@ Ruby
 * [Integrating React with Ruby on Rails: A Comprehensive Guide](https://www.bluebash.co/blog/integrating-react-with-ruby-on-rails/)
 * [Rails GraphQL authentication from scratch Series' Articles - DEV Community](https://dev.to/alec/series/24739)
 * [루비 온 레일즈 소식지 | K리그 프로그래머](https://jeho.page/essay/2024/07/09/rails-news-letter.html)
+* [Gumroad 가 rails 를 버리기로 결정 | GeekNews](https://news.hada.io/topic?id=17059)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
 * [Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
   * [Introducing Trilogy: a new database adapter for Ruby on Rails | The GitHub Blog](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
