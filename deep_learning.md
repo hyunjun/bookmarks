@@ -230,6 +230,7 @@ Deep Learning
   * [CodeSage/SageTemplate at main · ryujt/CodeSage · GitHub](https://github.com/ryujt/CodeSage/tree/main/SageTemplate)
     * [RAG를 구축하는 가장 간단한 방법 - YouTube](https://www.youtube.com/watch?v=-ip-y4tGfp4)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
+  * [OpenAI Canvas - ChatGPT와 함께하는 새로운 작성 및 코딩 방식 | GeekNews](https://news.hada.io/topic?id=17061)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
