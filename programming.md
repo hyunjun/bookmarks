@@ -5918,6 +5918,12 @@ Programming
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
   * [Production Secret Management at Airbnb](https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6)
+  * [Transforming Developer Productivity: How Spotify Scaled w/ Backstage Plugins&Open-Sourced Innovation - YouTube](https://www.youtube.com/watch?v=GlGtsB-tj98)
+    * Spotify의 Backstage는 내부 도구의 확산으로 인한 엔지니어들의 비효율성 문제를 해결하기 위해 개발
+    * 이 플랫폼을 도입한 결과, GitHub에서의 팀 활동성이 2.3배 증가하고 전반적인 생산성이 30% 향상
+    * 2020년에 오픈 소스로 공개된 Backstage는 현재 Spotify의 소프트웨어 개발에서 중요한 역할을 하며, 중앙 카탈로그, 베스트 프랙티스 강제 적용, 반복 가능한 작업의 간소화 등을 제공
+    * 플러그인은 Backstage의 확장성을 강화하는 핵심 요소로, 독립적인 플랫폼 팀이 일관된 제품을 유지하면서 기능을 기여할 수 있도록
+    * 오픈 소스 제공을 확장하는 플러그인과 새로운 제품을 구축하는 Backstage의 모델은 생태계에 가치를 확장 가능
 * [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum - YouTube](https://www.youtube.com/watch?v=JQPTlrff8iU)
 * Consul -> [web.md](web.md)
   * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2586/)
