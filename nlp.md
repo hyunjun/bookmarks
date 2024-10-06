@@ -391,6 +391,13 @@ NLP
 * [카카오의 스팸 메일 대응 전략: 문자열 변형 CASE STUDY / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/624) spam
 * [Embedding.io - 모든 웹사이트를 LLM을 위한 지식창고로 전환하기 | GeekNews](https://news.hada.io/topic?id=16137)
   * [Turn websites into knowledge bases | Embedding.io](https://www.embedding.io/)
+* [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
+  * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
+* [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
+  * Dylan Beattie's NDC Copenhagen 2022 talk, "Plain Text," highlights the importance of text in software development, discussing various aspects such as history, encodings, collations, and code pages
+  * The speaker shares memorable bugs, golden rules for working with plain text, and the story behind the phrase "pike matchbox."
+  * The talk also touches on the speaker's background and experiences, including their work with distributed systems, websites, and the programming language Rockstar
+  * It emphasizes the value of text encoding and sharing ideas, concepts, and media through technology
 
 # 띄어쓰기
 
@@ -2216,6 +2223,9 @@ NLP
     * 에이전틱 워크플로우의 4가지 구현 패턴: 반성, 도구 사용, 계획 수립 및 다중 에이전트 협업
     * Amazon Bedrock Agent, LangGraph, XAgent 및 TaskWeaver와 같은 에이전틱 워크플로우 솔루션 소개
     * 에이전틱 워크플로우로 인해 AI의 작업 수행 범위가 크게 확장 예상, 새로운 작업 위임 및 응답 대기 방식에 적응 필요
+* [Reflections on Optimizer and LM parameter values](https://joonwon-cv.notion.site/Reflections-on-Optimizer-and-LM-parameter-values-6b738433278f449b839b6bbd3fc3ce20)
+  * LLM 학습시 Optimizer가 차지하는 VRAM의 비율이 높다는 점과 Learning Rate 설정의 중요성에 대해 고민
+  * 특히 모델의 각 파라미터와 동일한 크기를 가지는 First/Second Order Momentum이 어떻게 추가 메모리를 사용하며, 이것이 학습에 어떤 영향을 주는지 정리
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2728,11 +2738,16 @@ NLP
       * [Llama-3 8B-Instruct 모델 셀프 호스팅 비용 | GeekNews](https://news.hada.io/topic?id=15387)
     * [Open Source AI Is the Path Forward | Meta](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
       * ["오픈소스 AI가 미래의 길입니다." by 마크 주커버그 | GeekNews](https://news.hada.io/topic?id=15988)
+    * [Llama3 Tokenizer](https://joonwon-cv.notion.site/Llama3-Tokenizer-8a7615d8531a4cd2b2599bdd7a06e4a1)
+      * Llama3는 이전 버전인 Llama2에 비해 학습 데이터 증가, 컨텍스트 길이 증가, 토크나이저 교체, 그리고 GQA 적용 등을 통해 성능 향상
+      * 그중에서도 토크나이저의 교체에 주목하여, 새로운 BPE(Byte Pair Encoding) 기반의 토크나이저가 어떻게 효율성과 확장성을 가져왔는지 분석
+      * 또한 토큰 수의 확장이 모델 성능과 효율성에 어떤 영향을 미치는지 작성
     * [Llama 3.1 | Model Cards and Prompt formats](https://llama.meta.com/docs/model-cards-and-prompt-formats/llama3_1)
       * [Llama 3.1 models from Meta are available on AWS for generative AI applications](https://www.aboutamazon.com/news/aws/meta-llama-3-1-models-aws-generative-ai)
       * [Meta, Llama 3.1 공개 | GeekNews](https://news.hada.io/topic?id=15987)
       * [오픈소스 Llama 3.1 주의사항](https://brunch.co.kr/@yongjinjinipln/153)
       * [hello-llama: A simple chat bot to play with Llama 3.1](https://github.com/holdenmatt/hello-llama)
+    * [Llama 3.2 3B fine tuning 해보기](https://webnautes.tistory.com/2398)
     * [llama3.cuda: llama3.cuda is a pure C/CUDA implementation for Llama 3 model](https://github.com/likejazz/llama3.cuda)
       * [llama3.cuda: pure C/CUDA implementation for Llama 3 model : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1d6q7qh/llama3cuda_pure_ccuda_implementation_for_llama_3/)
     * [llama3-langchain-kor: It shows a korean chatbot using LangChain based on Llama3](https://github.com/kyopark2014/llama3-langchain-kor)
