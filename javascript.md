@@ -744,6 +744,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2024-10.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-10.md)
   * [2024-09.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2024-09.md)
   * [2024-01.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-01.md)
   * [2023-12.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2023-12.md)
@@ -3672,6 +3673,10 @@ Javascript
 * [Node의 SQLite 지원 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/915)
 * [Node.js, Typescript 파일 실행을 시험적 기능으로 추가 | GeekNews](https://news.hada.io/topic?id=16017)
 * [Node.js 라이브러리 배포 파이프라인에 플러그인 시스템 도입기](https://toss.tech/article/nodejs_pipeline_plugin)
+* [The Nine Node Pillars](https://www.platformatichq.com/node-principles) 9 Principles for Doing Node.js Right in Enterprise Environments
+  * a guide that offers nine principles for creating robust, scalable, and maintainable Node.js applications in enterprise environments
+  * The guide covers topics such as avoiding event loop blocking, monitoring Node-specific metrics, using LTS versions in production, automating testing, code review, and conformance, and avoiding dependency creep
+  * It also provides best practices for using native Node.js APIs and leveraging NPM for code reuse
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -6523,6 +6528,7 @@ Javascript
 * [1. TS를 만나고 - 디자인](https://jojoldu.tistory.com/801)
 * [타입스크립트스럽게 성능과 생산성 두 마리 토끼 모두 잡기](https://tech.devsisters.com/posts/typescript-ish-way-to-improve-performance/) gRPC
 * [블럭스 엔지니어팀이 개발 언어를 바꾼 이유 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%ED%8C%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C-%EC%96%B8%EC%96%B4%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-30517)
+* [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/#region-prioritized-diagnostics-in-editors)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
