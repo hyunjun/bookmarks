@@ -92,6 +92,8 @@ Government
 * [falso: All the Fake Data for All Your Real Needs 🙂](https://github.com/ngneat/falso)
   * [Falso - 가짜 데이터 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=5850)
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
+* [MusicBrainz - the open music encyclopedia](https://musicbrainz.org/)
+  * [MusicBrainz: 오픈 음악 백과사전 | GeekNews](https://news.hada.io/topic?id=17021)
 * [PublicDataReader: Open Source Public Data Reader](https://github.com/WooilJeong/PublicDataReader)
 * [PUG: This is the repository for the Photorealistic Unreal Graphics (PUG) datasets for representation learning](https://github.com/facebookresearch/PUG)
   * [Home](https://pug.metademolab.com/)
