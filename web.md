@@ -973,6 +973,8 @@ Web
 * [A Practical Introduction to Scroll-Driven Animations with CSS scroll() and view() | Codrops](https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/)
 * [CSS finally adds vertical centering in 2024 | Blog | build-your-own.org](https://build-your-own.org/blog/20240813_css_vertical_center/)
   * [CSS, 2024년에 드디어 "세로 중앙 정렬"이 추가됨 | GeekNews](https://news.hada.io/topic?id=16586)
+* [Double your specificity with this one weird trick | Cirrus's Realm](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
+  * [CSS 선택자 우선순위를 높이는 의외의 방법 | GeekNews](https://news.hada.io/topic?id=17078) 마치 hack같지만 spec에 써있는 방법
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -1027,7 +1029,24 @@ Web
 
 ## CSS-in-JS
 * [css-in-js-media - Minified and Simplified include-media with CSS-in-JS](https://github.com/zx6658/css-in-js-media)
-* [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
+* [Real-world CSS vs. CSS-in-JS performance comparison - Tomas Pustelnik's personal website](https://pustelto.com/blog/css-vs-css-in-js-perf/)
+  * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
+* [Why is CSS-in-JS slow? | Playful Programming](https://playfulprogramming.com/posts/why-is-css-in-js-slow)
+  * 일반적인 vanilla CSS 는 아래와 같은 과정을 거쳐 적용
+    * 1. HTML 파싱
+    * 2. 1번 과정 중 `<head />` 안에서 CSS 를 발견
+    * 3. CSS 파싱
+    * 4. HTML 과 CSS 를 같이 적용해서 사용자에게 보여줌
+  * 하지만 CSS-in-JS 라이브러리들은 아래와 같은 과정
+    * 1. HTML 파싱
+    * 2. HTML 을 사용자에게 보여줌
+    * 3. `<body />` 안에서 `<script />` 를 발견함
+    * 4. JS 파싱
+    * 5. JS 까지 적용된 결과를 사용자에게 보여줌
+    * 6. CSS-in-JS 라이브러리가 CSS 를 생성
+    * 7. CSS 파싱
+    * CSS 까지 적용된 결과를 사용자에게 보여줌
+  * Vanilla Extract 같은 일부 라이브러리가 기존 CSS-in-JS 라이브러리들보다 빠른 이유는 런타임에서 CSS 를 생성하는 것이 아니라 컴파일 단계에서 미리 생성하기 때문
 * [mincho: Natural CSS in the Typescript](https://github.com/mincho-js/mincho) design system 디자인 시스템을 만들기위한 CSS in JS 프레임워크
   * [Mincho | Disquiet\*](https://disquiet.io/product/mincho)
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
