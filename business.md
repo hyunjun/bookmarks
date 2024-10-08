@@ -2867,6 +2867,8 @@ Business
       * “극한의 챌린지에서 끝까지 살아남는 사람에게 상금을 주는 시리즈”가 그 예시
       * “계단 밟기”라고 부르는 영상들. 점점 금액을 올려가면서 물건을 구매하는 영상 시리즈
   * [How-To-Succeed-At-MrBeast-Production.pdf - Google Drive](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view)
+  * [MrBeast의 프로덕션 성공 비법 (유출된 PDF) | GeekNews](https://news.hada.io/topic?id=16784)
+* [GN#272 MrBeast의 프로덕션 성공 비법 | GeekNews](https://news.hada.io/weekly/202439)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
