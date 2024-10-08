@@ -1169,6 +1169,7 @@ Apache
     * [카프카 생태계 기반의 비즈니스 메트릭 생성하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/10/14/grafana-with-ksqlDB.html)
     * [ksqlDB를 활용한 CDC (Change Data Capture) 효과 내기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=164794&searchData=&subIndex=)
     * [ksqlDB를 활용한 증권사의 실시간 데이터 처리하기](https://toss.tech/article/ksqldb-realtime-data)
+    * [ksqlDB 실시간 Join으로 뉴스 추천 만들기](https://toss.tech/article/ksqldb-realtime-data-2)
     * [ksqldb-handle-deserialization-errors: How to handle deserialization errors.](https://github.com/dbdbdeep-git/ksqldb-handle-deserialization-errors)
       * [How to handle deserialization errors using ksqlDB](https://kafka-tutorials.confluent.io/handling-deserialization-errors/ksql.html)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
