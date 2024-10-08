@@ -3697,6 +3697,10 @@ Javascript
   * [axios 대신 간단하게 사용하려고 만든 myFetch 함수 | 웹으로 말하기](https://mytory.net/2021/09/22/my-fetch.html)
   * [Dongjin | Axios의 사소하지만 슬픈 이야기](https://dongqui.github.io//posts/axios)
   * [Axios와 Retry | 오르막길](https://genie-youn.github.io/journal/axios%EC%99%80_retry.html)
+  * [타입스크립트에서 Axios Error 처리하기](https://gxxrxn.github.io/axios-error-type-guard/)
+    * typescript 에서 네트워크 에러(여기서는 axios error)를 any/as 를 지양하면서 잘 처리할 수 있을까?에 대한 고민으로 읽기 시작
+    * 서버에서 정의한 에러 인터페이스가 있다 하더라도, 여러 요인으로 예상하지 못한 에러가 발생 가능
+    * 타입 가드를 사용해 타입을 좁혀가고 각 에러에 맞는 로직을 실행할 수 있도록 개발할 때 참고
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
   * [next-tailwind-context-axios-starter: This is a starter template for building a web application using Next.js, Tailwind CSS, Context API, and Axios](https://github.com/Mohamed-avr/next-tailwind-context-axios-starter)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
@@ -4324,6 +4328,9 @@ Javascript
 * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
 * [번역 탄력적인 컴포넌트 작성하기](https://blog.rhostem.com/posts/2019-07-14-writing-resilient-components)
 * [Use Component Composition to Improve the Reusability of Your React Code | by Fernando Doglio | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-component-composition-to-improve-the-reusability-of-your-react-code-942bf55e0463)
+* [Component Composition is great btw | TkDodo's blog](https://tkdodo.eu/blog/component-composition-is-great-btw)
+  * 컴포넌트 합성을 통해 코드를 좀 더 가독성 및 재사용성이 좋게 개선하는 방식 제안
+  * 중점적으로 다룬 것은 layout 컴포넌트 작성과 early return 적용
 * [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
 * [React Crash Course - React Component - YouTube](https://www.youtube.com/watch?v=Jze7-iNREh4)
 * [React 컴포넌트와 추상화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
