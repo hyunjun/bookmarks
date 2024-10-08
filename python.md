@@ -5549,6 +5549,7 @@ Python
   * [Welcome to Faker’s documentation! — Faker 13.3.4 documentation](https://faker.readthedocs.io/)
   * [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
   * [Faker library in python - An intriguing expedient for data scientists | by Sanjay Nandakumar | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/faker-library-in-python-an-intriguing-expedient-for-data-scientists-7dd06f953050)
+  * [파이썬의 Faker 라이브러리를 소개합니다 - YouTube](https://www.youtube.com/watch?v=HcYUBPxd1MM)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
