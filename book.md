@@ -808,6 +808,7 @@ Book
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
 # Business
+* [Ask HN: 스타트업을 위한 필독도서가 있을까요? | GeekNews](https://news.hada.io/topic?id=16895)
 * 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
   * 우당 문325.555-기36ㄱ
   * ★★★☆☆ 2022.08.06
