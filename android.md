@@ -529,6 +529,8 @@ Android
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
 * [Google Developers Korea Blog: Baseline Profile로 앱 성능을 개선해보세요](https://developers-kr.googleblog.com/2022/03/improving-app-performance-with-baseline.html)
 * [PIT4ADB: 파파고 이미지 번역을 ADB로 구현](https://github.com/kdrkdrkdr/PIT4ADB)
+* [rawdrawandroid: Build android apps without any java, entirely in C and Make](https://github.com/cnlohr/rawdrawandroid)
+  * [Rawdrawandroid – Java 없이 C와 Make로 안드로이드 앱 개발하기 | GeekNews](https://news.hada.io/topic?id=16898)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
 * ReadMoreTextView [페이스북처럼 긴 글에 ‘더보기' 표시하는 방법(feat. ReadMoreTextView) | by Ted Park | PRND | Jul, 2020 | Medium](https://medium.com/prnd/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%B2%98%EB%9F%BC-%EA%B8%B4-%EA%B8%80%EC%97%90-%EB%8D%94%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-readmoretextview-3bbe30a4112b)
