@@ -581,6 +581,7 @@ Programming
       * 하지만 JWT내의 데이터는 비슷했지만, 클레임의 형태가 달랐기에 이를 프로필로 통일시킬 수 있다고 생각, 조사한 뒤 IETF에 제안
       * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
 * [Customizing scopes in the OAuth app authorization flow - Dropbox](https://dropbox.tech/developers/customizing-scopes-in-oauth-flow)
+* [**OAuth 2.0 개념과 동작원리**](https://hudi.blog/oauth-2.0/)
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
