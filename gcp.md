@@ -180,6 +180,8 @@ Google Cloud Platform GCP
 * [GCP 규칙 기반 평가 서비스 제공을 위한 Workload Manager Evaluation 알아보기 — #1 Workload Manager Evaluation | by 이정운 (Jungwoon Lee) | google-cloud-apac | Aug, 2024 | Medium](https://medium.com/google-cloud-apac/gcp-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%8F%89%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-workload-manager-evaluation-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-workload-manager-evaluation-7471c19b834e)
 * [왜 맨날 AWS만 써요? GCP는 안 하나요? - YouTube](https://www.youtube.com/watch?v=eQ0bANqOxyU)
 * [Three different ways to run Apache Airflow on Google Cloud | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/different-ways-to-run-apache-airflow-on-google-cloud?hl=en)
+* [It is hard to recommend Google Cloud | ashishb.net](https://ashishb.net/programming/google-cloud/)
+  * [Google Cloud를 추천하기는 어렵습니다 | GeekNews](https://news.hada.io/topic?id=16893)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
