@@ -334,6 +334,7 @@ Artificial Intelligence
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
+  * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [crewAI - Platform for Multi AI Agents Systems](https://www.crewai.com/)
   * [Crew AI로 AI 에이전트 팀을 몇 분 안에 구축하기!](https://www.toolify.ai/ko/ai-news-kr/crew-ai-ai-1317636)
   * [크루 AI: AutoGEN 보다 더 나은 인공지능](https://www.toolify.ai/ko/ai-news-kr/ai-autogen-2396938)
