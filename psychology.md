@@ -86,3 +86,19 @@ Psychology
   * [디스턴싱 - 마음 문제 해결](https://orwell.distancing.im/)
   * [stoic. | The Best Journal App for iPhone, Mac, iPad, and Apple Vision Pro](https://www.getstoic.com/)
 * [우리가 홍명보 감독에게 분노하는 이유: 사람들은 어떻게 위선을 판단하는가](https://www.linkedin.com/posts/activity-7217007200043425793-oamE/) 도덕성뿐만 아니라 확신의 강도, 일관된 행동이 위선 판단에 큰 영향 -> 있는 그대로 솔직하게 말하는 것이 대부분의 경우에 더 좋음
+* [정신과 의사의 경고 “3가지 행동 반복하면 우울증입니다” | 요즘 정신과 찾는 2030들의 공통점 - YouTube](https://www.youtube.com/watch?v=6Dr9GH49z08)
+* [뇌과학적으로 게으름, 무기력 끊어내는 방법 - YouTube](https://www.youtube.com/watch?v=7JTJCnwsEoo)
+  * 1. 전두엽 강화
+    * 언어화 - 말로 하기 or 생각을 글로 쓰기
+  * 2. 정보 차단
+    * 스마트폰을 보는 거도 생존을 위해 존재하던 정보 수집 본능이 남아있기 때문 -> 무기력, 게으름으로 연결
+    * 뇌에 여유 필요
+    * 인스타 브레인에 따르면 스마트폰을 아예 눈에 보이지 않게 넣어둬야 함
+  * 3. 셀프 세뇌
+    * 안하던 일을 하려면 뇌가 에너지를 써야 해서 피곤해짐
+    * 아주 작은 습관에 따르면 자신의 정체성에 맞는 일은 실행하기 쉽다
+      * 그래서 행동과 정체성이 완전히 조화를 이루면 행동 변화를 추구할 필요가 없다
+      * 스스로 그렇다고 믿고 있는 사람처럼 행동하기만 하면 된다
+    * 스스로 말을 하거나 글로 쓰는 것
+  * [VidiGo 뇌과학적으로 게으름, 무기력 끊어내는 방법.mp4](https://vidigo.ai//share/summary/10be2e561d35)
+  * [뇌과학적으로 게으름, 무기력 끊어내는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438624)
