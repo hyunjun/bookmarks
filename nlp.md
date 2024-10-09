@@ -2746,6 +2746,7 @@ NLP
       * [Llama 3.1 models from Meta are available on AWS for generative AI applications](https://www.aboutamazon.com/news/aws/meta-llama-3-1-models-aws-generative-ai)
       * [Meta, Llama 3.1 공개 | GeekNews](https://news.hada.io/topic?id=15987)
       * [오픈소스 Llama 3.1 주의사항](https://brunch.co.kr/@yongjinjinipln/153)
+      * [Llama 3 vs 3.1 모델 비교 · The Missing Papers](https://docs.likejazz.com/llama-model-diff/)
       * [hello-llama: A simple chat bot to play with Llama 3.1](https://github.com/holdenmatt/hello-llama)
     * [Llama 3.2 3B fine tuning 해보기](https://webnautes.tistory.com/2398)
     * [llama3.cuda: llama3.cuda is a pure C/CUDA implementation for Llama 3 model](https://github.com/likejazz/llama3.cuda)
