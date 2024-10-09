@@ -465,6 +465,7 @@
 * ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
 * [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
 * [The Art of Building a Gradle Plugin with Kotlin | by Kerry Bisset | Nov, 2023 | Stackademic](https://blog.stackademic.com/the-art-of-building-a-gradle-plugin-with-kotlin-20756f61666b)
+* [Kotlin DSL, Gradle 빌드 기본 언어 채택… 왜 Kotlin DSL일까?](https://blog.imqa.io/kotlin-dsl/)
 * [에셋팀 레거시 개선 (1) 쏘카존 관리 시스템 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/02/12/legacy-gradle-build-script.html)
 * [애셋팀 레거시 개선 (2) 쏘카존 관리 시스템 - 차량재배치 리팩터링 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/07/23/legacy-car-relocation.html)
 * [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
