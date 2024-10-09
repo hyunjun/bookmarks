@@ -305,6 +305,7 @@ Artificial Intelligence
 * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
 * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
 * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
+* [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
@@ -387,6 +388,7 @@ Artificial Intelligence
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [Karya | We solve data needs](https://karya.in/)
   * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
+* [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [kyutai: open science AI lab](http://kyutai.org/)
   * [3억 3천만 달러 예산을 가진 'Kyutai AI' 연구소, 모든 것을 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=11943)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
@@ -607,6 +609,10 @@ Artificial Intelligence
 * ["AI 운동 친구·코딩 파트너 만든다"…구글, 맞춤형 챗봇 서비스 '젬스(Gems)' 출시 < 글로벌 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=3351)
 * [Java를 만든 전설적 프로그래머 제임스 고슬.. : 네이버블로그](https://blog.naver.com/mynameisdj/223567893741)
 * [지능의 시대 (The Intelligence Age) - 샘 알트만 | GeekNews](https://news.hada.io/topic?id=16909)
+* [이제 샘 알트먼의 말을 그대로 믿지 말아야 할 시점입니다 | GeekNews](https://news.hada.io/topic?id=17096)
+* [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/)
+  * [AI에 지친 사람들 | GeekNews](https://news.hada.io/topic?id=16966)
+* [AI뉴스 - 메타 MovieGen, 오픈AI DevDay, GPT 캔버스 업데이트, Flux 1.1 pro 등 - YouTube](https://www.youtube.com/watch?v=dwtTtoq0oGI)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
