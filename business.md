@@ -145,6 +145,11 @@ Business
 * [월마트 잘 나가는데 이마트는 왜 이렇지? (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=WLNWs8TW9-4) 회사의 방향성의 중요성과 IR 자료등에 대해 좋은 이야기
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
+* [와.. 천재들만 아는 충격적인 가격 설계의 비밀 #고객의눈 4강 |온라인마케팅, 사업 - YouTube](https://www.youtube.com/watch?v=r4VOar9aWw8)
+  * 가격 설정의 중요성과 객단가 설정에 대해 설명
+  * 객단가는 한 명의 고객이 브랜드에 지출하는 총 금액, 이는 판매하는 상품이나 서비스의 조합과 전략에 따라 달라질 수도
+  * 또한, 업계 평균가가 아닌 고객에게 어떤 가치를 제공하는지에 초점을 맞추어 가격을 설정해야 한다고 강조
+  * 기존 고객을 유지하고 재구매를 유도하기 위해 한 번 더 판매하고 묶어서 판매하는 전략 소개
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
