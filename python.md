@@ -4246,6 +4246,15 @@ Python
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
+* [zarr-specs: Zarr core protocol for storage and retrieval of N-dimensional typed arrays](https://github.com/zarr-developers/zarr-specs)
+  * [Specifications — Zarr specs documentation](https://zarr-specs.readthedocs.io/en/latest/specs.html)
+  * [Exploring Zarr: From Fundamentals to Version 3.0 and Beyond PyCon DE & PyData Berlin 2024 - YouTube](https://www.youtube.com/watch?v=05uyjOP_8OU)
+    * Sanket Verma presents an exploration of the Zarr data format, focusing on the latest Version 3.0 and its design updates and performance improvements
+    * Zarr is a scalable, persistent storage solution for large datasets, and the talk covers its evolution, community, and the Zarr Enhancement Process
+    * The audience will gain insights into Zarr basics, V3 features, and a hands-on experience with Zarr-Python V3.0
+    * The talk targets individuals working with substantial data volumes and requires an intermediate level of Python and NumPy knowledge
+    * Attendees will understand the benefits of Zarr V3 for local and cloud storage, the importance of project processes, and insights into OSS project maturation
+    * PyCon DE & PyData Berlin 2024 is a conference that unites the Python, AI, and data science communities, offering a unique platform for collaboration and innovation
 
 ## Library c, cpp
 * [Jean Baptiste Aviat Writing a C Python extension in 2017 PyCon 2017](https://www.youtube.com/watch?v=phe1s6p38gk)
@@ -4802,6 +4811,7 @@ Python
   * [PyData Triangle March 2022 Meetup - YouTube](https://www.youtube.com/watch?v=q1VMYqzUytY)
   * [Scaling Python - Bank Edition | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=tbqgsM6iGng) pyGPU-CUDA, prefect, argo
   * [Martin Durant - Single node shared memory comes to dask | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=A96VRXarP2w)
+  * [Pandas + Dask DataFrame 2.0 - Comparison to Spark, DuckDB and Polars PyCon DE & PyData Berlin 2024 - YouTube](https://www.youtube.com/watch?v=qyvLJ2LvKLc)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
   * [dask-sql: Query Your (Big) Data With The Power of Python & SQL - Nils Braun - YouTube](https://www.youtube.com/watch?v=aLoTc_cX6yY)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
