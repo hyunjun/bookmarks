@@ -5365,6 +5365,7 @@ Programming
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 * [Date는 어떻게 주고 받는게 바람직할까요? | blog.hoseung.me](https://blog.hoseung.me/2023-03-23-how-to-transfer-date/) UTC GMT
+* [코딩표준 DateTime.Now를 절대 쓰지 않는 이유 - YouTube](https://www.youtube.com/watch?v=FsnfNFdKNcA)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -7490,6 +7491,7 @@ Programming
 * [리디 프론트엔드 개발자가 리팩토링에 진심인 이유 - RIDI Corp.](https://ridicorp.com/story/pr-frontend-engineer-refactoring/)
 * [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
   * [(번역) 좋은 리팩터링 vs 나쁜 리팩터링 | Ykss](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
+* [(09/19) 좋은 리팩토링 vs 나쁜 리팩토링 - YouTube](https://www.youtube.com/watch?v=kCfRKWXFiYU)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
