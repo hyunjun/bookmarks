@@ -1149,6 +1149,12 @@ Data Science
 * [Machine Learning Recommender System With Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
 * [상품 추천 알고리즘 Item-CF의 최적화 여정](https://tech.buzzvil.com/blog/optimizing-itemcf/)
 * [오픈챗 해시태그 예측을 위한 다중 레이블 분류 모델 개발하기](https://techblog.lycorp.co.jp/ko/multi-label-classification-model-for-openchat-hashtag-prediction)
+* [Build TikTok's Personalized Real-Time Recommendation System in Python with Hopsworks - YouTube](https://www.youtube.com/watch?v=skZ1HcF7AsM)
+  * Jim Dowling provides a tutorial on building TikTok's personalized real-time recommendation system using Python
+  * The system includes a feature store, vector database, and model serving infrastructure
+  * The workshop focuses on constructing the core elements of TikTok Monolith, such as a stream processing feature pipeline, a two-tower embedding model, and a user interface in Python using Streamlit
+  * Attendees learn how to develop these components and witness the system in action through a simple user interface
+  * The conference, organized by Python Softwareverband e.V., NumFOCUS Inc., and Pioneers Hub gemeinnützige GmbH, aims to unite the Python, AI, and data science communities, providing a platform for collaboration and innovation
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 * [recommender_system_with_Python: recommender system tutorial with Python](https://github.com/lsjsj92/recommender_system_with_Python)
   * [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/670)
