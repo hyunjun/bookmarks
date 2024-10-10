@@ -697,6 +697,7 @@ Linux
   * `find ~/Downloads/*.pdf -mtime -10` -atime = access / -ctime = creation, file 속성 / -mtime = modification
   * `find <dir> -not -newermt 2010-01-01` [Shell script to find files older than 1st Jan 2010](http://stackoverflow.com/questions/4378450/shell-script-to-find-files-older-than-1st-jan-2010)
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
+  * `find . -type f -name "*.md" -exec sed -i '' 's/<old>/<new>/g' {} +`
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
   * [find example image](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4112130#gistcomment-4112130)
   * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
