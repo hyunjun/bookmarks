@@ -3212,6 +3212,7 @@ NLP
     * [VidiGo E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱.mp](https://vidigo.ai/share/summary/a5e2bf80a283)
     * [🤖 E02. RAG 평가하다 $700 날렸다... by Markr.AI 김동규, 김병욱 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804643)
   * [AutoRAG 튜토리얼 #2 - RAG 평가 데이터 생성 - YouTube](https://www.youtube.com/watch?v=l1j4QUELLNY)
+  * [🔥 AutoRAG 총출동 한국어 Advanced RAG 최적화를 위한 평가 데이터셋, 평가, 최적화 꿀팁들 대방출 🔥 - YouTube](https://www.youtube.com/live/zjUPWtsjdWk)
   * [AutoRAG-example-korean-embedding-benchmark: AutoRAG example about benchmarking Korean embeddings.](https://github.com/Marker-Inc-Korea/AutoRAG-example-korean-embedding-benchmark)
     * [어떤 한국어 임베딩 모델 성능이 가장 좋을까? 직접 벤치마크 해보자](https://velog.io/@autorag/%EC%96%B4%EB%96%A4-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%A7%81%EC%A0%91-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
