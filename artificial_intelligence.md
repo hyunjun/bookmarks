@@ -614,6 +614,8 @@ Artificial Intelligence
   * [AI에 지친 사람들 | GeekNews](https://news.hada.io/topic?id=16966)
 * [AI뉴스 - 메타 MovieGen, 오픈AI DevDay, GPT 캔버스 업데이트, Flux 1.1 pro 등 - YouTube](https://www.youtube.com/watch?v=dwtTtoq0oGI)
 * [노벨상 받은 AI, 그리고 양자역학 미라클레터](https://stibee.com/api/v1.0/emails/share/sFEj9VDkpR-az8F2cLhkinUueMRWAT0)
+* [AI: Dystopia or Utopia? | Khosla](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
+  * [AI: 디스토피아인가 유토피아인가? | GeekNews](https://news.hada.io/topic?id=16999)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
