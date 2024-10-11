@@ -373,6 +373,7 @@ Linux
 * [우분투 노틸러스에서 스페이스바 퀵뷰 되게 하기 | 웹으로 말하기](https://mytory.net/archives/14465)
 * [OCI Ubuntu Linux XRDP(GUI) 환경 구성하기 - YouTube](https://www.youtube.com/watch?v=ZsTt8_WPVkA)
 * [VMware를 사용하여 Windows 11에 Ubuntu 22.04 설치하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/2205)
+* [Windows에 설치된 VirtualBox를 사용하여 Ubuntu 설치하기](https://webnautes.tistory.com/2118)
 * [Things To Do After Installing Ubuntu 24.04 LTS - YouTube](https://www.youtube.com/watch?v=3jdy75xQHtQ)
 * [Setup Ubuntu 24.04 LTS, Neovim, Wezterm from scratch for Software Development - YouTube](https://www.youtube.com/watch?v=a28SZdUkpKw)
 * [우분투에서 Rectangle처럼 단축키로 창 배치하는 프로그램 Tactile – 형우의 웹개발](https://mytory.net/archives/16735)
