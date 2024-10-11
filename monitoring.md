@@ -476,6 +476,28 @@ Monitoring
 * [이루다 서버의 모니터링 스택을 소개합니다 – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/spring-boot-monitoring-with-prometheus/)
   * [스프링 부트 서버 모니터링하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2280/)
 * [AWS 오픈 소스 관찰 가능성(Observability) 도구로 커스텀 메트릭 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/custom-metric-monitoring-amazon-managed-service-for-prometheus/)
+* [Kubernetes Korea Group | 안녕하세요, | Facebook](https://www.facebook.com/groups/k8skr/posts/3973680012913642/)
+  * 프로메테우스를 쿠버네티스 모니터링으로 많이 사용
+    * 모니터링 지표의 평상시와 다른 변화를 조금 더 쉽게 확인하는 게 필요하고, 프로메테우스를 사용한다면, 빠르게 접근해 볼 수 있는 방법 공유
+  * [Grafana Prometheus: Detecting anomalies in time series – David Vassallo's Blog](https://blog.davidvassallo.me/2021/10/01/grafana-prometheus-detecting-anomalies-in-time-series/)
+    * PromQL과3-Sigma(Z-Score)를 활용한 간단한 이상감지
+  * 기본 접근방법은 3-Sigma(대략 "정상"은 3 표준편차이내) `Z-Score = (x-μ) / σ`
+    * 예를 들어 node_disk_writes_completed_total 라는 메트릭이 있을때
+    * `μ = avg_over_time(node_disk_writes_completed_total{}[1h]))`
+    * `σ = stddev_over_time(node_disk_writes_completed_total{}[1h])`
+    * `x = avg_over_time(node_disk_writes_completed_total{}[$__rate_interval]`
+    * Z-Score 쿼리 `abs(((avg_over_time(node_disk_writes_completed_total{}[$__rate_interval]) - (avg_over_time(node_disk_writes_completed_total{}[1h])))) / (stddev_over_time(node_disk_writes_completed_total{}[1h])))`
+    * 기존 node_disk_writes_completed_total에 위 Z-Score를 함께 표시하고 Z-Score가 3이 넘는 경우를 "이상"으로 확인
+  * Anomaly 그래프에서 흔히 보는 Upper/Lower Band는
+    * Upper Band 쿼리 `avg_over_time(node_disk_writes_completed_total{}[1h]) + (3 * stddev_over_time(node_disk_writes_completed_total{}[1h]))`
+    * Lower Band 쿼리 `avg_over_time(node_disk_writes_completed_total{}[1h]) + (-3 * stddev_over_time(node_disk_writes_completed_total{}[1h]))`
+  * 간단하게(눈이 아닌 통계로) 이상을 확인하는 것이 가능, 하지만 풀어야할 숙제도 있음
+    * 스파이크가 발생하면 밴드가 크게 흔들림
+    * 바라보는 시간 간격에 따라 오탐이 잦을 수도, 또는 없을 수도 있음
+    * 계획된 작업 또는 계절적인 지표 변화는 별도 처리가 필요
+  * 실무에 바로 사용하기에는 부족하지만, 쿼리와 통계만으로 추가 시스템 없이 기존 그래프에 더해 볼 수 있는 방법
+  * 위 접근에 보완이 필요한 내용들은 PromCon에서도 소개
+    * [PromCon 2024 - Practical Anomaly Detection at Scale With PromQL - YouTube](https://www.youtube.com/watch?v=BTAba-Vq3xE)
 * [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
   * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
