@@ -1416,6 +1416,13 @@ Programming
   * [Agile이 소프트웨어 혁신을 죽이고 있다 | GeekNews](https://news.hada.io/topic?id=16282)
 * [The Slow, Painful Death Of Agile and Jira | by Joe Procopio | Sep, 2024 | Entrepreneurship Handbook](https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a)
   * [Agile과 Jira의 느리고 고통스런 죽음 | GeekNews](https://news.hada.io/topic?id=16960)
+* [스크럼, 애자일 창시자가 말하는 "진짜" - 해봄의 아카이브 - haebom](https://haebom.dev/91kwev26nwv192y46jpg)
+  * 스크럼 마스터는 팀에게 동기부여하고 비즈니스 성과를 이끄는 진짜 리더
+    * 단순히 회의 진행자가 아니라 팀과 함께 성장하는 코치가 되어야 한다
+    * 5명 이하의 팀이 가장 효과적
+    * 스크럼 마스터 자체가 그 팀에서 가장 퍼포먼스가 잘 나오는 사람이 해야한다
+  * 많은 기업들이 스크럼을 겉치레로만 도입하면서 정작 중요한 팀의 자율성, 협업, 고객 중심 사고 등은 놓치고 있다
+  * [ChatGPT - Scrum Sage: Zen Edition](https://chatgpt.com/g/g-pajO1fBss-scrum-sage-zen-edition)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
