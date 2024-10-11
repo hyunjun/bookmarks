@@ -1409,7 +1409,6 @@ Javascript
   * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
 * [PureScript by Example](https://leanpub.com/purescript/read_full)
 * [Reintroducing React](https://leanpub.com/reintroducing-react)
-* [The Regular Expressions Book – RegEx for JavaScript Developers Full Book](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
@@ -2616,7 +2615,6 @@ Javascript
 * [Radix UI](https://www.radix-ui.com/)
   * 접근성, 커스터마이징 및 개발자 경험에 중점을 둔 로우 레벨 UI 컴포넌트 라이브러리로 디자인 시스템의 기본 레이어로 사용될 수 있도록 스타일이 지정되지 않은 컴포넌트 제공
 * [rainyday.js](http://pluvior.com/?rainy)
-* [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Rando.js | The better JavaScript random function](https://randojs.com/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [ray-optics: Simulate reflection and refraction of light](https://github.com/ricktu288/ray-optics)
@@ -2898,7 +2896,6 @@ Javascript
 * [winbox: WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!](https://github.com/nextapps-de/winbox)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
-* [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
 * [yjs: Shared data types for building collaborative software](https://github.com/yjs/yjs)
 

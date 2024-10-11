@@ -54,6 +54,8 @@ Regular Expression
 * [정규표현식을 재미있게 훈련하는 방법 - Regex Crossword](https://soheemon.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%ED%9B%88%EB%A0%A8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Regex-Crossword)
 * [정규표현식의 표현식 그룹 이름 지정 (Named Capture Group)에 대해 알아봅시다](https://sjquant.tistory.com/71)
 * [정규식 함부로 쓰지 말자](https://velog.io/@skynet/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%A8%EB%B6%80%EB%A1%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%9E%90)
+* [Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - YouTube](https://www.youtube.com/watch?v=M7vDtxaD7ZU)
+* [Learn Regular Expressions In 20 Minutes - YouTube](https://www.youtube.com/watch?v=rhzKDrUiJVk)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
@@ -88,18 +90,30 @@ Regular Expression
 * [JS 프론트엔드의 한글 정규식, 어떻게 쓸 것인가.](https://helia-17.tistory.com/16)
   * `/[ㄱ-힣]/` 문제점 지적
   * 해결책 `/^[ᄀ-ᄒᆨ-ᇂㄱ-ㅣ가-힣ᅡ-ᅵa-zA-Z0-9 !@#$%^&*()_+\-=[\]{};':"\\|,.<>/?]*$/gi` 제시
+* [The Regular Expressions Book – RegEx for JavaScript Developers Full Book](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
+* [Regexes Got Good: The History And Future Of Regular Expressions In JavaScript — Smashing Magazine](https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/)
+  * [자바스크립트 정규 표현식의 환골탈태: 정규식의 역사와 미래를 톺아보며](https://velog.io/@typo/regexes-got-good)
+* [escape-string-regexp: Escape RegExp special characters](https://github.com/sindresorhus/escape-string-regexp)
+* [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [regexper - JavaScript regular expression to display](https://regexper.com/)
+* [Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices](https://github.com/slevithan/regex)
+* [Regular expressions](https://javascript.info/regular-expressions)
 * [super-expressive: 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
+* [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
+
 
 # Library
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
+* [awesome-regex: A curated collection of awesome regex tools, tutorials, libraries, etc.](https://github.com/slevithan/awesome-regex)
 * [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/)
   * [The code for iHateregex.io https://iHateRegex.io ](https://github.com/geongeorge/i-hate-regex)
 * [Pregex - Do you hate regex? Well then, I have a solution for you…](https://medium.freecodecamp.org/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
-* [regex101.com](https://www.regex101.com) regular expression traslation
+* [regex101: build, test, and debug regex](https://regex101.com/) regular expression traslation
 * [RegexCrossTool](https://github.com/ReinRaus/RegexCrossTool)
 * [Regex Generator++ Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it/)
+* [regexle](https://regexle.com/)
+* [Regex Learn - Step by step, from zero to advanced.](https://regexlearn.com/)
 * [**RegexOne - Learn Regular Expressions with simple, interactive exercises**](http://regexone.com/)
 * [regextester.com](http://www.regextester.com/)
 * [regular-expressions.info](http://www.regular-expressions.info/)
