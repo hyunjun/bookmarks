@@ -1253,6 +1253,10 @@ Business
 * [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
 * [여현준 on LinkedIn: #비즈니스로어 - 기업이 저성과자 퇴출 제도를 장기간 운영했을 때 벌어지는 일](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7216924152052543495-GNFq)
 * [채용할 때에는 역할과 그에 필요한 역량과 퍼포먼스가 명확해야 한다. 그것이 회사가 채용과 관련하여 가져야 할 최소한의 책임이며 태도](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7226346238223282176-BmRD/)
+* [많은 회사들이 공정하고 효율적인 평가제도를 만들기 위해 노력한다. 그런데, 노력하는 것은 알겠는데, 그런 것이 정말로 존재할 수 있을까?](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%8F%89%EA%B0%80%EC%97%90-%EC%9E%88%EC%96%B4-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-activity-7250301944072708096-DhrB/)
+  * [평가에 있어 가장 중요한 것은 무엇인가](https://divercity.stibee.com/p/20/)
+  * [평가에 있어 가장 중요한 것은 무엇인가? - YouTube](https://www.youtube.com/watch?v=3j8oHeylSd0)
+  * 각 분기에 한 일에 대해서 평가를 하는 것이 아니라, 지금의 상태가 계속된다면 연말에 어떤 평가를 받게 될 것인지의 '예측등급'을 표기... 평가결과는 절대로 서프라이즈가 되어서는 안된다
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -4012,6 +4016,19 @@ Business
 * [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
 * [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
 * [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
+* [“마이크로매니징이 나쁜건가요?” 브라이언 체스키가 ‘창업자 모드'를 선택한 이유](https://maily.so/josh/posts/c1a96712?mid=db22974c)
+  * 구체적인 변화의 첫 번째가 하고 있는 모든 일을 문서화
+  * 지표보다 일정별 업데이트(애플의 분기별 업데이트와 유사한 접근)가 더 중요
+    * 2년 단위의 로드맵을 만들고 매달 업데이트... 로드맵은 다음 달은 거의 변하지 않지만, 2년 후의 계획은 유동적으로 조정
+  * CEO 검토 일정을 만들어서 모든 제품과 마케팅을 직접 검토. 각 프로젝트를 1주, 2주, 4주, 8주 또는 12주 주기로 검토
+  * 매주 우리가 작업 중인 전체 새 제품을 직접 체험. 프로토타입도 직접 경험. 이를 통해 회사의 다양한 병목 현상을 팀과 함께 식별
+  * 대표가 태도를 바꾸자 전사의 문화가 되다
+    * 처음 1-2년 동안은 이전 방식보다 훨씬 더 많은 일. 하지만 전환점을 지나자 갑자기 모든 사람이 같은 방향으로 노를 젓기 시작
+      * 갑자기 더 이상 회의에 참석할 필요가 없어졌고, 사람들은 제가 그 자리에 없어도 제가 원하는 대로 일을 하기 시작
+    * 그게 바로 문화
+      * 문화란 여러분이 그 방에 없을 때 일어나는 일
+      * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
+  * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
 
