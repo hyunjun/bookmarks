@@ -1525,6 +1525,8 @@ Git
 * [git fastclone](https://corner.squareup.com/2015/11/fastclone.html)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
+* [git-ftp: Uses Git to upload only changed files to FTP servers](https://github.com/git-ftp/git-ftp)
+  * [Git FTP를 사용하여 파일 업로드하기 - FTP를 통해 파일을 업로드하기 위해 Git FTP를 사용하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/git/git-ftp/)
 * [GitGuardian: Git Security Scanning & Secrets Detection](https://www.gitguardian.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
