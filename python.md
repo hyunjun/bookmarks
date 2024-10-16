@@ -5329,6 +5329,7 @@ Python
     * Polars는 Rust로 구현, Apache Arrow 기반, 지연 평가, 푸시다운 최적화 및 스트리밍 API 포함
     * Polars는 기존의 라이브러리보다 더 빠르고 메모리 효율적, SQL과 유사한 구문
     * Polars를 사용하여 학습 파이프라인, 사용자 정의 함수 적용 및 준실시간 추론 파이프라인 개선
+  * [Polars 시작하기 (소개 및 설치) - 자주쓰는 명령어로 배우는 Polars #1](https://sjquant.tistory.com/104)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
