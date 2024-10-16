@@ -709,6 +709,7 @@ Algorithm
 * [Bloom filters](https://exampl.io/bloom-filters/)
 * [BloomFilter 의 원리 - Google Slides](https://docs.google.com/presentation/d/1V_-2HITLPZkzhtZxPaOakoXo4q8etpciryc4i1AN298/edit#slide=id.p)
   * [확률적 자료구조 BloomFilter의 원리 - YouTube](https://www.youtube.com/watch?v=iA-QtVCPjtE)
+* [알아도 도움안되는 얕은 개발 지식들 - Google Slides](https://docs.google.com/presentation/d/1KvrS58SZdhSxYHvIq3SXIbYGwBzKyj8jekJB-O9RTTk/edit#slide=id.g3085f808319_0_18)
 
 # Problems
 * [**A collection of algorithms**](https://github.com/williamfiset/algorithms)
