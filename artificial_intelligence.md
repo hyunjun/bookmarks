@@ -614,6 +614,14 @@ Artificial Intelligence
   * [AI에 지친 사람들 | GeekNews](https://news.hada.io/topic?id=16966)
 * [AI뉴스 - 메타 MovieGen, 오픈AI DevDay, GPT 캔버스 업데이트, Flux 1.1 pro 등 - YouTube](https://www.youtube.com/watch?v=dwtTtoq0oGI)
 * [노벨상 받은 AI, 그리고 양자역학 미라클레터](https://stibee.com/api/v1.0/emails/share/sFEj9VDkpR-az8F2cLhkinUueMRWAT0)
+* [노벨상 쾌거에 숨은 ‘적자 2조원’의 마술···구글은 기다리고 또 기다렸다 ★★글로벌](https://v.daum.net/v/20241012080300107) 시대의 ‘패러다임’, ‘인재 보유’의 중요성
+* [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
+  * The essay discusses the potential positive impact of powerful AI on the world
+  * The author, Dario Amodei, is the CEO of Anthropic, a company focused on reducing the risks of powerful AI
+  * He argues that while many people are concerned about the dangers of AI, they underestimate its potential benefits
+  * The author outlines five areas where powerful AI could significantly improve human life: biology and physical health, neuroscience and mental health, economic development and poverty, peace and governance, and work and meaning
+  * He also provides a framework for understanding the limitations and complementary factors that affect the impact of AI.
+  * [Anthropic의 CEO Dario Amodei가 굉장히 긴 에세이](https://www.linkedin.com/posts/golbin_dario-amodei-machines-of-loving-grace-activity-7250726648482840577-YL7L/)
 * [AI: Dystopia or Utopia? | Khosla](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
   * [AI: 디스토피아인가 유토피아인가? | GeekNews](https://news.hada.io/topic?id=16999)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
