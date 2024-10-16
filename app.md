@@ -1513,6 +1513,9 @@ App
 * [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [debit and credit](https://debitandcredit.app/) 가계부
+* [DeskPad: A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
+  * 모니터 해상도가 너무 높으면 화면 공유할 때 너무 작게 보이는 문제를 해결하기 위해
+  * 가상모니터를 만들고 원하는 해상도를 설정해서 공유할 수 있게 하는 macOS 앱
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [easy-move-resize: Adds "modifier key + mouse drag" move and resize to OSX](https://github.com/dmarcotte/easy-move-resize)
 * [edgeview](edgeview.co.kr/)
