@@ -1678,6 +1678,7 @@ Business
     * 사업이 잘 안 되는 원인은 복합적이라 본부장만 책임을 지우기 어렵고 일 잘하는 사람을 찾기란 언제나 쉽지 않은 과제이다
   * 대신 자기 부서원들과 갈등을 일으키는 본부장은 리더십 부족으로 내리기가 용이하다
     * 분위기 쇄신을 위한 희생양일 수도 있겠지만, 뭐가 어찌 되었든 시끄러운 부서는 부서장 책임이니까
+* [중도 탈락하는 CTO vs 실패하는 CTO](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstk-qpqrqe-activity-7250688086622232576-ymd9/)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -4014,21 +4015,23 @@ Business
     * even if it means consuming online content
   * [스타트업 전문가의 문제 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1050698)
 * [클라우드에서 서비스 스타트업 시작하기](https://brunch.co.kr/@chaesang/73)
-* [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
-* [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
-* [“마이크로매니징이 나쁜건가요?” 브라이언 체스키가 ‘창업자 모드'를 선택한 이유](https://maily.so/josh/posts/c1a96712?mid=db22974c)
-  * 구체적인 변화의 첫 번째가 하고 있는 모든 일을 문서화
-  * 지표보다 일정별 업데이트(애플의 분기별 업데이트와 유사한 접근)가 더 중요
-    * 2년 단위의 로드맵을 만들고 매달 업데이트... 로드맵은 다음 달은 거의 변하지 않지만, 2년 후의 계획은 유동적으로 조정
-  * CEO 검토 일정을 만들어서 모든 제품과 마케팅을 직접 검토. 각 프로젝트를 1주, 2주, 4주, 8주 또는 12주 주기로 검토
-  * 매주 우리가 작업 중인 전체 새 제품을 직접 체험. 프로토타입도 직접 경험. 이를 통해 회사의 다양한 병목 현상을 팀과 함께 식별
-  * 대표가 태도를 바꾸자 전사의 문화가 되다
-    * 처음 1-2년 동안은 이전 방식보다 훨씬 더 많은 일. 하지만 전환점을 지나자 갑자기 모든 사람이 같은 방향으로 노를 젓기 시작
-      * 갑자기 더 이상 회의에 참석할 필요가 없어졌고, 사람들은 제가 그 자리에 없어도 제가 원하는 대로 일을 하기 시작
-    * 그게 바로 문화
-      * 문화란 여러분이 그 방에 없을 때 일어나는 일
-      * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
-  * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
+* [Brian Chesky’s new playbook - YouTube](https://www.youtube.com/watch?v=4ef0juAMqoE)
+  * [제품, 성장, 리더십에 대한 브라이언 체스키의 상반된 접근 방식 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1467594)
+  * [창업자 모드 | GeekNews](https://news.hada.io/topic?id=16567)
+  * [창업자 모드가 창업자 만을 위한 것이 되어서는 안됩니다 | GeekNews](https://news.hada.io/topic?id=16614)
+  * [“마이크로매니징이 나쁜건가요?” 브라이언 체스키가 ‘창업자 모드'를 선택한 이유](https://maily.so/josh/posts/c1a96712?mid=db22974c)
+    * 구체적인 변화의 첫 번째가 하고 있는 모든 일을 문서화
+    * 지표보다 일정별 업데이트(애플의 분기별 업데이트와 유사한 접근)가 더 중요
+      * 2년 단위의 로드맵을 만들고 매달 업데이트... 로드맵은 다음 달은 거의 변하지 않지만, 2년 후의 계획은 유동적으로 조정
+    * CEO 검토 일정을 만들어서 모든 제품과 마케팅을 직접 검토. 각 프로젝트를 1주, 2주, 4주, 8주 또는 12주 주기로 검토
+    * 매주 우리가 작업 중인 전체 새 제품을 직접 체험. 프로토타입도 직접 경험. 이를 통해 회사의 다양한 병목 현상을 팀과 함께 식별
+    * 대표가 태도를 바꾸자 전사의 문화가 되다
+      * 처음 1-2년 동안은 이전 방식보다 훨씬 더 많은 일. 하지만 전환점을 지나자 갑자기 모든 사람이 같은 방향으로 노를 젓기 시작
+        * 갑자기 더 이상 회의에 참석할 필요가 없어졌고, 사람들은 제가 그 자리에 없어도 제가 원하는 대로 일을 하기 시작
+      * 그게 바로 문화
+        * 문화란 여러분이 그 방에 없을 때 일어나는 일
+        * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
+    * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
 
