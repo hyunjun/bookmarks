@@ -6625,6 +6625,7 @@ Javascript
   * [Shiki - A beautiful Syntax Highlighter | GeekNews](https://news.hada.io/topic?id=4979)
 * [simple-chat-app: Set a shell project in react + back-end (both go and ts)](https://github.com/seanpmaxwell/simple-chat-app)
 * [stackflow: Mobile-first stack navigator framework with composable plugin system](https://github.com/daangn/stackflow)
+* [state-ref: Universal state management library that can be easily integrated into UI libraries](https://github.com/superlucky84/state-ref)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [TrackPurchase: 단 몇줄의 코드로 다양한 쇼핑 플랫폼에서 결제 내역을 긁어오자!](https://github.com/code-yeongyu/trackpurchase)
