@@ -990,6 +990,7 @@ SQL
 * [MySql 의 기본 사용법과 주요 명령어들 총정리](https://developer88.tistory.com/20)
 * [Explain의 도움을 받아 Full Scan을 방지하자 #풀스캔 방지](https://developer88.tistory.com/326)
 * [MySQL EXPLAIN ANALYZE](https://hackmysql.com/post/book-2/)
+* [MySQL :: 슬로우쿼리 잡는 명령어, ‘EXPLAIN ANALYZE’ 해석법](https://velog.io/@wisepine/MySQL-%EC%8A%AC%EB%A1%9C%EC%9A%B0%EC%BF%BC%EB%A6%AC-%EC%9E%A1%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-EXPLAIN-ANALIZE-%ED%95%B4%EC%84%9D%EB%B2%95)
 * [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
 * [mysql 복제(replication)서버 구성](https://blog.naver.com/pjt3591oo/223307257886)
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
