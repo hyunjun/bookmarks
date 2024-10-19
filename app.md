@@ -2574,6 +2574,7 @@ App
     * 자동 레이아웃 지원
   * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
   * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
+  * [개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/2802/)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Konty | Sketch your app ideas without stress](https://konty.app/)
