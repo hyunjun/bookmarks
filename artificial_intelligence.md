@@ -622,6 +622,10 @@ Artificial Intelligence
   * The author outlines five areas where powerful AI could significantly improve human life: biology and physical health, neuroscience and mental health, economic development and poverty, peace and governance, and work and meaning
   * He also provides a framework for understanding the limitations and complementary factors that affect the impact of AI.
   * [Anthropic의 CEO Dario Amodei가 굉장히 긴 에세이](https://www.linkedin.com/posts/golbin_dario-amodei-machines-of-loving-grace-activity-7250726648482840577-YL7L/)
+* [Adobe's new image rotation tool is one of the most impressive AI concepts we've seen | Creative Bloq](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
+  * [Adobe의 새로운 이미지 회전 도구, 가장 인상적인 AI 도구 중 하나 | GeekNews](https://news.hada.io/topic?id=17296)
+* [Meta의 오픈 AI 하드웨어 비젼 | GeekNews](https://news.hada.io/topic?id=17295)
+* [이번 주 AI 관련 소식](https://www.linkedin.com/posts/jaeyunhenrylee_aicoffeechat1002-ugcPost-7248887047233363968-2dV5/)
 * [AI: Dystopia or Utopia? | Khosla](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
   * [AI: 디스토피아인가 유토피아인가? | GeekNews](https://news.hada.io/topic?id=16999)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
