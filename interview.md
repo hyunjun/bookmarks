@@ -1057,6 +1057,7 @@ Interview
 * [뽑히는 개발자 이력서는 어떻게 만드나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2648/)
   * [뽑히는 개발자 포트폴리오는 어떻게 만드나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2686/)
   * [뽑히는 개발자는 어떤 프로젝트를 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2722/)
+* [안드로이드 기술 이력서의 최소 조건 - Speaker Deck](https://speakerdeck.com/pluu/andeuroideu-gisul-iryeogseoyi-coeso-jogeon)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
