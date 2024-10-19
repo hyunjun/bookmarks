@@ -4245,6 +4245,7 @@ Programming
     * and easier to test
   * save time and effort by making it easier to catch mistakes early on and by reducing the amount of work that needs to be rolled back or re-reviewed
   * However, may not always be possible due to various factors such as reviewer availability, feature dependencies, and refactoring scope
+* [Thoughtful Code Reviews](https://www.jasonpearson.dev/thoughtful-code-reviews/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
