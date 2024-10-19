@@ -2004,6 +2004,7 @@ Programming
       * 내부 SNI는 Cloudflare의 공개키로 암호화
       * 외부 SNI는 `cloudflare-ech.com`로 설정
       * 중개자는 모든 웹사이트가 `cloudflare-ech.com`으로 접속하는 것으로 나타나게 됨
+  * [웹사이트에 Cloudflare를 사용한다면 RSS 사용자를 차단할 가능성이 있음 | GeekNews](https://news.hada.io/topic?id=17293)
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
   * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
@@ -5152,6 +5153,7 @@ Programming
   * 오늘날 클라우드의 도입으로 데이터는 원격에 더 많이 저장되며 무차별 대입 등의 공격보다는 취약점을 악용하거나 내부자를 감염시켜서 데이터를 유출하는 일이 더 증가
   * 이제 보안은 기술적인 문제가 아니라 인적 요소와 기존 보안 기술을 채택하는 데 드는 비용의 문제
 * [NIST(미국 국립표준기술연구소), 특정 비밀번호 문자 구성 요구 금지 | GeekNews](https://news.hada.io/topic?id=16939)
+* [Apple Passwords의 강력한 비밀번호 생성 형식 | GeekNews](https://news.hada.io/topic?id=17310)
 * [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
 * [토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)
 * [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
