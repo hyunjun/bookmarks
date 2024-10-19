@@ -225,6 +225,7 @@
 * [Asychronous Programming in Rust - YouTube](https://www.youtube.com/watch?v=TpcjE0McPNQ)
 
 # Book
+* [Effective Rust - Effective Rust](https://effective-rust.com/)
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
