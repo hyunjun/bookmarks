@@ -368,6 +368,7 @@ Programmer
   * The talk is divided into three parts: getting the job done, choosing the right tool, and caring about the team
   * Terhorst-North emphasizes that the best programmers are made, not born, and their skills can be learned
   * He encourages attendees to strive for greatness, discusses the importance of iterating and not being afraid to make mistakes, and highlights the value of focusing on the product rather than the code itself.
+* 팀장이 되고서야 알게된 잘하는 개발자의 비밀 [2024 DEVCON - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1__mcn-iMEbQlecCKzAUVE1J1pTNX7qsNP0SkMNfj_6A/mobilepresent?slide=id.g307838d1ef2_1_11)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
