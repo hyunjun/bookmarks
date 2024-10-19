@@ -1432,6 +1432,8 @@ Javascript
   * [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about - NodeConf EU - Google Slides](https://docs.google.com/presentation/d/12SYdKy75FsSwO9-wzHADPL9JP6uXplxSKMQe1qsJKR8/edit)
 * [웹 텍스트 에디터 개발에 필요한 고민과 신규 에디터 소개 / 제5회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/616)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
+  * [7가지 플랫폼 서버로 프론트엔드 버프 마법 걸기 (1) | 요즘IT](https://yozm.wishket.com/magazine/detail/2800/)
+  * [7가지 플랫폼 서버로 프론트엔드 버프 마법 걸기 (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/2801/)
   * [FECONF 2024 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q)
   * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
   * [FEConf 2023 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc)
