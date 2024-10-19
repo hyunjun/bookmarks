@@ -148,6 +148,7 @@ Finance
 * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
 * [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
 * [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
+* [이 좋은 걸 왜 지금에서야…퇴직연금 묵혀둔 직장인 희소식 | 한국경제](https://www.hankyung.com/article/202410078863i)
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
 * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
@@ -276,6 +277,8 @@ Finance
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
+* [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
+  * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
