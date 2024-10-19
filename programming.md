@@ -484,6 +484,7 @@ Programming
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [platform-engineering-group/presentations/0009-개발자-경험을-향상시키는-내부-개발자-플랫폼(IDP)-구축하기.pdf at main · awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group/blob/main/presentations/0009-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%82%B4%EB%B6%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%9E%AB%ED%8F%BC(IDP)-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.pdf)
   * [내부 개발자 플랫폼(IDP) 데모 - YouTube](https://www.youtube.com/watch?v=g2haJ3wOO9Q)
+* [**내가 생각하는 플랫폼 엔지니어링** :: Outsider's Dev Story](https://blog.outsider.ne.kr/1736)
 * [Sustainable Operations in Complex Systems with Production Excellence - InfoQ](https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
@@ -2958,6 +2959,9 @@ Programming
 * [API Gateway vs Backend For Frontend (BFF) — Everything you need to know | by Dineshchandgr | Dec, 2022 | Medium](https://dineshchandgr.medium.com/api-gateway-vs-backend-for-frontend-bff-everything-you-need-to-know-90154a1e693f)
 * [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bff_webflux_coroutine/)
 * [우리동네GS BFF 구현기 - 도입 배경과 설계 :: GS Retail Engineering](https://gsretail.tistory.com/40)
+* [Intro to BFF Pattern - by Saurabh Dashora](https://newsletter.systemdesigncodex.com/p/intro-to-bff-pattern)
+  * The BFF pattern in software development involves creating dedicated API gateways (BFFs) for each device or interface type, tailoring the API to the specific needs of the client. BFFs offer resiliency, autonomy, and faster development velocity but can also lead to code duplication and complexity
+  * To effectively implement the BFF pattern, clearly define client requirements, minimize code duplication, maintain clear boundaries, and monitor performance
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [느슨한 결합(loosely coupled) 원칙을 활용한 소프트웨어 설계 | 요즘IT](https://yozm.wishket.com/magazine/detail/1926/)
