@@ -56,6 +56,14 @@
 * [Google과 Meta의 10대를 타겟한 비밀 광고 거래 | GeekNews](https://news.hada.io/topic?id=16232)
 * [매출이 떨어진 이유 분석하는 방법. 광고 지표 쪼개서 구조화하기 | by Jinsu Park | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%EA%B4%91%EA%B3%A0-%EC%A7%80%ED%91%9C-%EC%AA%BC%EA%B0%9C%EB%B3%B4%EA%B8%B0-e7c53954eb8c)
 * [**ROAS, 넌 누구냐?**](https://brunch.co.kr/@hyungsukkim/84)
+* [광고주와 매체사, 세일즈와 광고플랫폼 개발, 서비스와 광고부서 사이에서의 일](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EA%B2%BD%ED%97%98%EC%9D%B4-%EA%B0%80%EC%A0%B8%EB%8B%A4%EC%A3%BC%EB%8A%94-%EA%B2%83-activity-7253244710062825472-3IdN/)
+  * [서로 다른 경험이 가져다주는 것](https://divercity.stibee.com/p/28/)
+  * 1. 돈을 쓰는 회사와 돈을 받는 회사
+  * 2. 판매하는 부서와 제품을 만드는 부서
+  * 3. 서비스를 만드는 부서와 광고 부서
+  * 광고로 돈을 벌기 위해서는 광고부서만 열심히 해서는 안된다
+    * 서비스가 먼저 살아나야 하고, 광고로 돈을 벌고, 여기에서 번 돈으로 다시 서비스에 재투자하는 선순환 과정이 일어나야 한다
+  * 웹툰 송곳의 대사처럼 서는 자리가 변하면 보이는 것도 달라진다
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
