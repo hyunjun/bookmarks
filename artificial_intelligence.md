@@ -736,6 +736,7 @@ Artificial Intelligence
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
+  * [chroma vector database .. : 네이버블로그](https://blog.naver.com/pjt3591oo/223590941645)
 * [DiskVectorIndex](https://github.com/cohere-ai/DiskVectorIndex)
 * [flasma: High-performance vector search engine with no loss of accuracy through GPU and dynamic placement](https://github.com/sionic-ai/flasma)
 * [generative-ai-for-beginners: 12 Lessons, Get Started Building with Generative AI 🔗](https://github.com/microsoft/generative-ai-for-beginners)
