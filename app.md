@@ -72,6 +72,9 @@ App
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
+* [ArchiveBox | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more…](https://archivebox.io/)
+  * [Big changes are coming to ArchiveBox! - HedgeDoc](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
+    * [ArchiveBox가 진화중: 셀프 호스팅 인터넷 아카이브의 미래 | GeekNews](https://news.hada.io/topic?id=17279)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
