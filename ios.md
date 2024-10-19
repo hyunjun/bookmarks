@@ -877,8 +877,10 @@ iOS
 * [왕초보를 위한 iOS 앱개발 Lesson 4 - yagom's blog](https://blog.yagom.net/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C-lesson-4/)
 * [왕초보를 위한 iOS 앱개발 Lesson 5 - yagom's blog](https://blog.yagom.net/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C-lesson-5/)
 * [왕초보를 위한 iOS 앱개발 Lesson 6 - yagom's blog](https://blog.yagom.net/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C-lesson-6/)
-* [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [✅ 3시간 만에 iOS 앱 개발 정복하기 🔥 Swift5 언어 기초 - YouTube](https://www.youtube.com/watch?v=qWA04z_4Okk)
+* [모두의 iOS앱 개발 강좌 - 기본뷰를 응용해 사용앱도 제작에 도전!! - YouTube](https://www.youtube.com/playlist?list=PLa4ZcDLNi23IC5pdmB-NGNJj7Xw9zvDM6)
+* [아이폰 무료 동영상 강좌 - YouTube](https://www.youtube.com/playlist?list=PLa4ZcDLNi23IedUI2vEjAcII_-5VdTL--)
+* [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 * [Welcome to Pathways](https://developer.apple.com/pathways/)
   * [Pathways, 애플 플랫폼 개발자를 위한 첫걸음 | GeekNews](https://news.hada.io/topic?id=14939)
 
