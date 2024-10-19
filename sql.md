@@ -159,6 +159,7 @@ SQL
       * 네트워크 문제를 시뮬레이션하며 네트워크 패킷을 제외하여 네트워크를 깨뜨리고 비틀스 그룹을 분할
       * 다양한 도구를 사용하여 기본이 되는 사이트를 찾거나 디스크 데이터를 *파괴하는 실험* 등을 통해 코드의 다양한 버그를 발견중
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
+* [DBMS는 RDB와 NoSQL만 있나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2806/)
 * [SQL Style Guide](http://www.sqlstyle.guide/)
 * [SQL Commands Cheat Sheet - Download in PDF & JPG Format - Intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/)
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
