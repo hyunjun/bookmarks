@@ -870,6 +870,7 @@ Business
     * e.g. 우버. 차량 제공 → 음식 배달, 택배 추가
   * [VidiGo 하버드 MBA에서 가장 먼저 가르치는 '이 방법' | 디커플링.mp4](https://vidigo.ai//share/summary/19f110eb32c5)
   * [하버드 MBA에서 가장 먼저 가르치는 '이 방법' 디커플링 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438021)
+* [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -3715,7 +3716,9 @@ Business
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
-* [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
+* [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45) contents
+* [권정혁 - "콘텐츠는 나쁜 비즈니스라고 생각해요" React, D3, 서버리스 핸드북 등 여러 개발 도서와 온라인... | Facebook](https://www.facebook.com/xguru/posts/pfbid02R3WXERiFVU9DyvqNaUMamB1hPTqTr5B9AZzRFrS3bRAk5ac4gPeD4Rbjm1VRJkSfl)
+  * [50만 달러를 벌었지만, 콘텐츠는 나쁜 비즈니스라고 생각해요 | GeekNews](https://news.hada.io/topic?id=17228)
 * [1,000억 원짜리 사업을 만드는 길 (The Road to $100M)](https://acquiredentrepreneur.tistory.com/27)
 * [시리즈 A 란 무엇인가? – Live & Venture](https://liveandventure.com/2020/09/27/series-a/)
 * [진정성과 스타트업 (번역) – 이바닥늬우스](https://ebadak.news/2020/12/14/earnest/)
@@ -4033,6 +4036,7 @@ Business
         * 문화란 여러분이 그 방에 없을 때 일어나는 일
         * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
     * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
+* [‘스타트업 창업자=경영자’ 공식, 맞는 걸까? < Wheel of Fortune < Magazine < 기사본문 - 포춘코리아 디지털 뉴스](https://www.fortunekorea.co.kr/news/articleView.html?idxno=42979)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
 
