@@ -1176,6 +1176,7 @@ NLP
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+* [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
   * [Why I'm excited about DSPy](https://www.linkedin.com/pulse/why-im-excited-dspy-stephen-byrne-smkhe/)
@@ -1187,6 +1188,7 @@ NLP
   * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
+* [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
   * [Developing LLM Powered XApplications: A Low/No Code Chat Application using Prompt Flow (6/n) | by Madhusudhan Konda | Oct, 2023 | Medium](https://mkonda007.medium.com/developing-llm-powered-xapplications-a-low-no-code-chat-application-using-prompt-flow-6-n-464738fd6364)
   * [LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기 - YouTube](https://www.youtube.com/watch?v=ECl0D8rHoDc)
@@ -2275,6 +2277,9 @@ NLP
   * [BAML - 더 깔끔한 LLM 함수를 작성하기 위한 템플릿 언어 | GeekNews](https://news.hada.io/topic?id=15416)
 * [bert_score: BERT score for text generation](https://github.com/Tiiiger/bert_score)
   * [BERTScore 는 문장간 유사성을 구하는 데 활용되는 LLM 기반 패키지](https://www.linkedin.com/posts/jamessungjinkim_bertscore-llm-bert-activity-7220880796885114881-UMnt/)
+* [BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
+  * CPU에서 직접 실행되는 초고속 1비트 LLM 추론 프레임워크인 bitnet.cpp 오픈소스화
+  * GPU 없이도 로컬 장치에서 최대 6배 향상된 속도와 82% 더 적은 에너지 소비로 100억 개의 파라미터 모델 실행 가능
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
   * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
