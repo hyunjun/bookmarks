@@ -351,6 +351,7 @@ R
 * [R code snippet : Transform from long format to wide format | R-bloggers](https://www.r-bloggers.com/2022/07/r-code-snippet-transform-from-long-format-to-wide-format/)
 * [Kernel SHAP in R and Python | R-bloggers](https://www.r-bloggers.com/2022/09/kernel-shap-in-r-and-python/)
 * [Handling larger than memory data with {arrow} and {duckdb} | R-bloggers](https://www.r-bloggers.com/2022/11/handling-larger-than-memory-data-with-arrow-and-duckdb/)
+* [An Introduction to Spatial Regression Analysis in R](https://pyoflife.com/an-introduction-to-spatial-regression-analysis-in-r-pdf/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
