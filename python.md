@@ -538,6 +538,15 @@ Python
 * [500 Python Interpreters • Izzy Muerte](https://izzys.casa/2024/08/463-python-interpreters/) 3.13
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
+* [Stop making your python projects like it was 15 years ago… | by Bryson Meiling | Sep, 2024 | Level Up Coding](https://levelup.gitconnected.com/stop-making-your-python-projects-like-it-was-15-years-ago-125436b470a5)
+  * 파이썬 최신 트렌드로 사용하기
+    1. pyproject.toml 사용 권장: 오래된 requirements.txt 대신 현대적이고 효율적인 pyproject.toml 파일 사용
+      * [What's the difference between pyproject.toml, setup.py, requirments.txt, and tox.ini files? : r/learnpython](https://www.reddit.com/r/learnpython/comments/1bmxe6i/whats_the_difference_between_pyprojecttoml/)
+    2. Poetry 또는 UV 사용: 프로젝트 관리와 의존성 관리를 위한 도구로 추천
+    3. 타입 힌트 도입: 코드 가독성 향상 및 오류 방지를 위해 타입 힌트 적극 사용
+    4. Pydantic 모델 사용: 데이터와 파라미터 관리를 위해 Pydantic을 도입
+    5. Ruff 같은 Linter와 포매터 사용: 코드 품질을 유지하고 오류를 줄이기 위해 Ruff 사용
+    6. Pytest로 전환: 더 나은 테스트 관리
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
