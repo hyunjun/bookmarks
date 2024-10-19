@@ -464,6 +464,7 @@ Data Science
     * SQL을 교육한다(리더가 직접 하면 더욱 좋다)
     * 스샷을 뜨거나 별도의 장표를 만들지 않고, 대시보드를 꺼내놓고 회의를 한다
     * 데이터를 해석하는 시간을 늘리고, 가치있는 인사이트를 공유한다
+* [평균의로의 회귀](https://diseny.tistory.com/entry/%ED%8F%89%EA%B7%A0%EC%9D%98%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
