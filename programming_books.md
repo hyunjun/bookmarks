@@ -3002,6 +3002,7 @@ Programming Books
   * [빠르고 유연한 린스타트업 경영, 대기업의 창의적 혁신에도 유용하다 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/7397/ac/magazine)
   * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
   * [린스타트업의 한계](https://brunch.co.kr/@doberman/43)
+  * [스타트업 필독서, 린 스타트업 요약 | Lean Startup - YouTube](https://www.youtube.com/watch?v=CO92OrjTxWE)
 * [린 스타트업(10주년 기념, 전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3905391687)
   * ★★★★☆ 2023.08.08~11 에릭 리스와는 다른 버전의 책이며, 개인적으로는 현재 회사의 상황과 맞닿아서 그런지 더 재미있게 잘 읽었다. business라는게 절대 생각대로 가는 게 아니라서(정확히 말하면 나는 잘 안다고 할 수 없는 사람이니 아닌 거 같아서) 이 책의 내용대로 한다고 절대 잘 된다는 보장이야 없으나, 훨씬 구조적으로 검증을 하면서 나갈 수 있겠다는 생각이 든다. 막연하기에 더 단계를 거쳐, 더 잘게 쪼개서 확인이 필요하단 생각이다.
   * 우당 문324.35-모239ㄹ
