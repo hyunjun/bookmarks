@@ -871,6 +871,7 @@ Business
   * [VidiGo 하버드 MBA에서 가장 먼저 가르치는 '이 방법' | 디커플링.mp4](https://vidigo.ai//share/summary/19f110eb32c5)
   * [하버드 MBA에서 가장 먼저 가르치는 '이 방법' 디커플링 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438021)
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
+* [HR insight 성공하는 임원이 되는 10가지 방법](https://www.nterway.com/magazine/view.asp?gubun=report&idx=110&Gotopage1=1)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
