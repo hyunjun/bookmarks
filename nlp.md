@@ -2373,6 +2373,8 @@ NLP
   * [NIKL-KLUE: 모두의 말뭉치 인공 지능 언어 능력 평가 1등 솔루션입니다](https://github.com/NIKL-Team-BC/NIKL-KLUE)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
+* [Korean-SAT-LLM-Leaderboard: Korean SAT leader board](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/tree/main)
+  * [수능 국어 LLM 벤치마크 리더보드 오픈 | GeekNews](https://news.hada.io/topic?id=17292)
 * [KULLM: 구름(KULLM): 고려대학교에서 개발한, 한국어에 특화된 LLM](https://github.com/nlpai-lab/KULLM)
 * [Lakera Guard - Protect your LLM applications against security threats, instantly](https://www.lakera.ai/lakera-guard)
   * [How we use Lakera Guard to secure our LLMs - Dropbox](https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms)
