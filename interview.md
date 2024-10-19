@@ -410,6 +410,7 @@ Interview
   * [System Design with Richa Pandey - YouTube](https://www.youtube.com/playlist?list=PLqM7alHXFySHxhSXD_4r8L22KaQ2az66E)
   * [Javarevisited: 100+ System Design Interview Questions and Problems for Software Engineers](https://javarevisited.blogspot.com/2024/05/100-system-design-interview-questions.html)
   * [the basics of how systems are designed](https://www.linkedin.com/posts/progressivethinker_systemdesign-activity-7229771811545137152-H5cC/)
+  * [15 System Design Building Blocks You Should Know](https://blog.algomaster.io/p/15-system-design-building-blocks)
   * [best-system-design-resources: A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews](https://github.com/javabuddy/best-system-design-resources/)
   * [system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews](https://github.com/ByteByteGoHq/system-design-101)
     * [Open-sourcing over 100 byte-sized system design concepts with high-resolution diagrams](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7119709900187820033-E9Zw/)
@@ -957,6 +958,7 @@ Interview
   * [Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드 | GeekNews](https://news.hada.io/topic?id=5808)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com](https://www.staticjobs.com/)
+* [TrueUp | The CareerOS for people in tech](https://trueup.io/)
 * [whoishiring.io - Who is hiring? Map Edition](http://whoishiring.io/)
 * [vaadin.com](https://vaadin.com/jobs?gclid=COPMhIPR8ckCFQuCvQod-YALmQ)
 
