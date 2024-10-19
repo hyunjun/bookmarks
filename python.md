@@ -536,6 +536,7 @@ Python
   * GIL은 Python의 메모리 관리를 위한 것이지만, 이로 인해 여러 CPU 코어를 활용할 수 없는 단점
   * GIL을 비활성화했을 때 발생할 수 있는 위험 요소들과 함께, GIL이 선택적으로 사용 가능해진 이유와 앞으로의 계획에 대해 설명
 * [500 Python Interpreters • Izzy Muerte](https://izzys.casa/2024/08/463-python-interpreters/) 3.13
+* [The New Python 3.13 Is FINALLY Here! - YouTube](https://www.youtube.com/watch?v=eUDGlxu_-ic)
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 * [Stop making your python projects like it was 15 years ago… | by Bryson Meiling | Sep, 2024 | Level Up Coding](https://levelup.gitconnected.com/stop-making-your-python-projects-like-it-was-15-years-ago-125436b470a5)

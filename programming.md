@@ -6319,7 +6319,7 @@ Programming
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * [(06/10) 2024년 자바 생태계 정리(by 뉴 렐릭) - YouTube](https://www.youtube.com/watch?v=gI1NrJfdueU)
   * [VidiGo (06/10) 2024년 자바 생태계 정리(by 뉴 렐릭).mp4](https://vidigo.ai//share/summary/031fa9161d97)
-* [(10/02) Agile과 Jira의 느리고 고통스런 죽음 - YouTube](https://www.youtube.com/watch?v=Oima35nJ1Zw&ab_channel=KenuHeo)
+* [(10/02) Agile과 Jira의 느리고 고통스런 죽음 - YouTube](https://www.youtube.com/watch?v=Oima35nJ1Zw)
   * [(OKdevTV) 2024년 10월 2일 개발 이야기 | PPT](https://www.slideshare.net/slideshow/okdevtv-2024-10-2/272154755)
 * [What Happened to ThoughtWorks?. Why has a leading software technical… | by Zhimin Zhan | Medium](https://zhiminzhan.medium.com/what-happened-to-thoughtworks-a149852fcbf3)
   * 한때 애자일로도 유명했던 소프트웨어 컨설팅 회사인 ThoughtWorks
