@@ -1218,6 +1218,8 @@ Linux
   * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
 * [Linux 커널 6.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=7525)
 * [Debugging the Linux kernel with GDB - sergioprado.blog](https://sergioprado.blog/debugging-the-linux-kernel-with-gdb/)
+* [Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI](https://github.com/asterinas/asterinas)
+  * [Asterinas - Rust로 작성된 Linux 호환 ABI 제공 OS 커널 | GeekNews](https://news.hada.io/topic?id=17283)
 * [bpf_emulator: bpf_emulator for userspace](https://github.com/txuna/bpf_emulator)
 * [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [like-dbg: Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
