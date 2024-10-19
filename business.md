@@ -2608,6 +2608,7 @@ Business
 * ["2500년"동안 단 한번도 바뀌지 않은 '3가지' 성공법칙 (임용한 박사 3부) - YouTube](https://www.youtube.com/watch?v=1ZLpzOj3toA) 삼국지를 통해 trust 등 여러가지를 이야기함
 * [위임 못하는 리더의 숨겨진 속마음 - 질투심](https://brunch.co.kr/@alden/79)
 * [리더들의 스몰 토크(Small Talk)가 중요한 진짜 이유 | H.PODCAST Upzen 한기용 2부 - YouTube](https://www.youtube.com/watch?v=OwiaF_9uIJk)
+* [조직 내 또 다른 썩은 사과 이야기](https://brunch.co.kr/@expnote/125)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3577,6 +3578,9 @@ Business
   * [(4) Daero Won - 🚀몇 안되는 스타트업 업계의 B2B 세일즈 전문가, 김진환(Jinhwan Kim) 박사님의 '영업 초보자를 위한 10계명' | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid0257hj2H83zS2w2oqowwgydesJwd9WwJywXbj8ViXbcJcVMFPujVzUNgXX2i3zMpe1l)
   * [The 9 Worst Sales Mistakes Founders Should Avoid | by Seth DeHart | Point Nine Land | Medium](https://medium.com/point-nine-news/the-9-worst-sales-mistakes-founders-should-avoid-a89a3fe4b4b9)
 * [키맨을 찾아야 합니다.. 시니어 영업사원을 위한 10계명 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/salessenior20240229)
+* [왜 세일즈의 의견은 무시되는 것일까? ](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%99%9C-%EC%84%B8%EC%9D%BC%EC%A6%88%EC%9D%98-%EC%9D%98%EA%B2%AC%EC%9D%80-%EB%AC%B4%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%BC%EA%B9%8C-%EC%84%B8%EC%9D%BC%EC%A6%88%EB%8A%94-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A5%BC-activity-7249739225623846912-jvJR/)
+  * 세일즈의 의견이 제품개발에 잘 받아들여지지 않는 것은, 그것이 실제로 받아들여질 만한 이야기가 아닌 경우가 많기 때문
+  * 정말로 해결하고 싶다면 제품을 만드는 사람들 가운데 누가 이러한 이야기에 관심을 가지는지를 찾고 다가서야
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
