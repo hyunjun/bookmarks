@@ -602,6 +602,7 @@ History
 * [Leonardo da Vinci’s resume](http://www.cenedella.com/leonardo-da-vincis-resume-4/)
 * [기사 - 찌라시 세계사 7 - 로마와 이탈리아를 구한 두 바보](http://www.ddanzi.com/ddanziNews/643917703)
 * [현실주의 정치인, 법과 법률가 위선을 벗겨내다](https://news.v.daum.net/v/20220507091608563) 바르톨로메오 스칼라
+* [(3) 조용준 - 《메디치: 피렌체의 지배자들》(Medici: Masters of Florence)이라는 이탈리아 드라마를... | Facebook](https://www.facebook.com/yongjun.cho.7/posts/pfbid02YqXmXjqdh6je2spy1DKqqn3w3M4Xg1Su6LWhpB6D99T18Ncnu1Ur3r5F96tYhHBol)
 
 ## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
