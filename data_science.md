@@ -465,6 +465,7 @@ Data Science
     * 스샷을 뜨거나 별도의 장표를 만들지 않고, 대시보드를 꺼내놓고 회의를 한다
     * 데이터를 해석하는 시간을 늘리고, 가치있는 인사이트를 공유한다
 * [평균의로의 회귀](https://diseny.tistory.com/entry/%ED%8F%89%EA%B7%A0%EC%9D%98%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80)
+* [Data Driven Decision vs. Data Informed Decision: 왜 기업의 성공은 영원하지 않은가?](https://www.linkedin.com/feed/update/urn:li:activity:7249837242490200065/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -1136,6 +1137,7 @@ Data Science
   * discuss the challenges of using retention as a reward and propose using proxy rewards that are more sensitive to individual recommendations
   * The authors also discuss the challenge of delayed user feedback and propose a solution for predicting missing feedback
 * [팀무신사 우리 랭킹이 달라졌어요, 새로워진 무신사 랭킹 근황](https://newsroom.musinsa.com/newsroom-menu/2024-0826-teammusinsa)
+* [AI와 함께하는 패션 큐레이션 — 무신사 2.0 시나리오 기반 추천 시스템 개발 | by 최영민 | MUSINSA tech | Oct, 2024 | Medium](https://medium.com/musinsa-tech/ai%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%EB%AC%B4%EC%8B%A0%EC%82%AC-2-0-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C-db7020b20b68)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
