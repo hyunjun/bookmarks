@@ -1746,6 +1746,7 @@ Business
 * [서비스 개발 아이디어를 얻는 소소한 팁 & 경험담](https://soulduse.tistory.com/144)
 * [AI와 노코드 툴로 빠르게 SaaS 아이디어 검증하는 법](https://eopla.net/magazines/19895)
 * [아이디어의 가치: 기록을 넘어 실행으로](https://soulduse.tistory.com/147)
+* [Ask HN: 솔로창업자 여러분, 어떻게 아이디어를 떠올리셨나요? | GeekNews](https://news.hada.io/topic?id=17264)
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
