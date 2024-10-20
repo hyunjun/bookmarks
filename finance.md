@@ -17,8 +17,6 @@ Finance
 * [Investment and deep learning](https://www.slideshare.net/NaverEngineering/investment-and-deep-learning)
 * [강화학습이 실제로 자산운용에 도움을 줄 수 있을까?. DQN을 사용하여 유의미한 포트폴리오 투자전략을 세우고자 했던 논문 | by hyunbin | CURG | Jul, 2020 | Medium](https://medium.com/curg/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-d00ad419810)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
-* [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
-* [MODUCON 2021 주린이를 위한 기업분석 근데 이제 AI까지 곁들인 AI +X4 - YouTube](https://www.youtube.com/watch?v=UunsENLIP1w)
 * [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [ML + 주식 삽질기](https://docs.google.com/presentation/d/1GqpoxDd-AiBJ_FkhqUC8J-7iOijDZqJv7DVucRNFnlk/edit#slide=id.p)
@@ -209,6 +207,17 @@ Finance
     * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
 * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
 
+# Artificial Intelligence AI
+* [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
+* [MODUCON 2021 주린이를 위한 기업분석 근데 이제 AI까지 곁들인 AI +X4 - YouTube](https://www.youtube.com/watch?v=UunsENLIP1w)
+* [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
+  * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
+* [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
+* [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
+  * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
+* [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
+  * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
+
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
 
@@ -277,8 +286,6 @@ Finance
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
-* [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
-  * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
@@ -360,8 +367,6 @@ Finance
 * [Python Finance](https://www.youtube.com/playlist?list=PLcFcktZ0wnNnKvxFkJ5B7pvGaGa81Ny-6)
   * [TD Streaming Data - GitHub.ipynb](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-finance/td-ameritrade/TD%20Streaming%20Data%20-%20GitHub.ipynb)
 * [Unofficial Python API client library for TD Ameritrade](https://github.com/areed1192/td-ameritrade-python-api)
-* [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
-  * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * [**파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 I**](http://blog.alphasquare.co.kr/221602425951)
 * [**파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 II**](http://blog.alphasquare.co.kr/221611131960)
 * [파이썬으로 시작하는 자산배분 투자 - 기대수익률과 위험 측정하기](http://blog.naver.com/anthouse28/221640874003)
@@ -401,7 +406,6 @@ Finance
 * [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
 * [**파이썬 금융 시게열 처리 최적화하기. 당신의 데이터 처리를 가속시킬 몇가지 Tips & Tricks | by JooHyun Jo | Qraft Technologies | Jul, 2020 | Medium**](https://medium.com/qraft/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EA%B2%8C%EC%97%B4-%EC%B2%98%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-571b4d716a2e) Pandas, Numpy, Numba, pyo3
 * [Technical Pattern Recognition for Trading in Python | by Sofien Kaabar | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f)
-* [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
 * [주식투자를 위한 비정형투자데이터활용 - JayHan - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=c0J5uK5cglI)
 * [네이버 주식 일자별 매매동향 정보 파이썬으로 한번에 가지고 오기(1)](https://stricky.tistory.com/374)
 * [네이버 주식 일자별 매매동향 정보 파이썬 데이터 분석(2)](https://stricky.tistory.com/375)
