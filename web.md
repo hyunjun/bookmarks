@@ -1902,6 +1902,7 @@ Web
 * [REST API Design Best Practices. “Application Programming Interface,” or… | by Dr Milan Milanović | Dec, 2023 | Medium](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
   * [올바른 REST API 디자인 사례 : API 설계 가... | 커리어리](https://careerly.co.kr/comments/99294)
 * [GET, POST, PUT, DELETE… A list of common HTTP “verbs” in one diagram](https://www.linkedin.com/feed/update/urn:li:activity:7230153116334108673/)
+* [Rest API Authentication Methods](https://www.linkedin.com/posts/ashsau_engineering-devops-engineering-activity-7251790310677086209-o-ri/)
 
 ## Restful Javascript
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
