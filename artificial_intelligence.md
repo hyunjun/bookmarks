@@ -625,6 +625,7 @@ Artificial Intelligence
   * [Anthropic의 CEO Dario Amodei가 굉장히 긴 에세이](https://www.linkedin.com/posts/golbin_dario-amodei-machines-of-loving-grace-activity-7250726648482840577-YL7L/)
 * [Adobe's new image rotation tool is one of the most impressive AI concepts we've seen | Creative Bloq](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
   * [Adobe의 새로운 이미지 회전 도구, 가장 인상적인 AI 도구 중 하나 | GeekNews](https://news.hada.io/topic?id=17296)
+  * [Adobe MAX 2024 발표가 업계에 준 충격 | 기존 강자가 더 강력해지는 Adobe, AI로 당장 돈, 시간 아끼는 수많은 AI 편집 디자인 도구 대거 공개 - YouTube](https://www.youtube.com/watch?v=8e6GyeIBrJQ)
 * [Meta의 오픈 AI 하드웨어 비젼 | GeekNews](https://news.hada.io/topic?id=17295)
 * [이번 주 AI 관련 소식](https://www.linkedin.com/posts/jaeyunhenrylee_aicoffeechat1002-ugcPost-7248887047233363968-2dV5/)
 * [AI: Dystopia or Utopia? | Khosla](https://www.khoslaventures.com/ai-dystopia-or-utopia/)
