@@ -1134,6 +1134,18 @@ Javascript
     * [How to Use Web Components with React | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-use-web-components-with-react-5b8bb59d6c5)
 * [Faster Websites with Web Components - YouTube](https://www.youtube.com/watch?v=1nNgaQA9gW8)
 * [웹 컴포넌트는 왜 등장했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2217/)
+* [How Microsoft Edge Is Replacing React With Web Components - The New Stack](https://thenewstack.io/how-microsoft-edge-is-replacing-react-with-web-components/)
+  * Edge 브라우저가 기존에 React 로 구현되어 있던 많은 부분을 웹 컴포넌트로 대체하고 있다는 기사
+    * React 의 성능이 좋지 않다. 특히 저사양 기기에서 두드러지는데, 이는 Edge 팀이 React 를 좋지 않은 방식으로 사용하는 것도 영향
+    * Edge 의 엔진을 Chromium 으로 갈아타면서 Chrome과 UI 차별성을 두기 위해 UI 부분을 React 로 재구성
+      * 결국 이 부분들을 다시 (점진적으로) 웹 컴포넌트로 대체하는 중
+    * 웹 컴포넌트를 사용함으로써 브라우저의 built-in 엘리먼트들을 더 잘 활용 가능, 개발자/디자이너들이 HTML/CSS 로 같이 작업하면서 생산성이 더 향상
+  * 그래서 웹 컴포넌트로 옮기면서 퍼포먼스가 얼마나 개선되었는가 에 대한 내용은 미포함
+  * 아직은 논란이 있는 웹 컴포넌트에 대한 의견도 공유
+    * SolidJS 창시자가 Web Components Are Not the Future 라는 글로 "웹 컴포넌트가 기존 프레임워크보다 안 좋다" 라는 취지의 글 작성
+      * [Web Components Are Not the Future - DEV Community](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+    * 이에 대해 (웹 컴포넌트 라이브러리인) Shoelace 창시자가
+      * "웹 컴포넌트가 훨씬 안정적이며, 웹 컴포넌트와 기존 프레임워크는 배타적이지 않아서 같이 상호 보완적으로 사용할 수 있다" 라는 코멘트로 반박
 * [The Many Flavours of Micro Front Ends - Better Programming - Medium](https://medium.com/better-programming/the-many-flavours-of-micro-front-ends-2db4b21dfbaa)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
