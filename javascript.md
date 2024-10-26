@@ -72,6 +72,17 @@ Javascript
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1) OutOfMemory / memory leak 현상 이해
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
+* [Why I’m skeptical of rewriting JavaScript tools in “faster” languages | Read the Tea Leaves](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+  * 자바스크립트 툴들이 자바스크립트가 아닌 다른 더 빠른 언어로 재작성되는 것에 대한 우려 정리
+    * 브라우저 생태계에서 자바스크립트는 이미 충분히 빠르다
+    * 웹어셈블리가 사용되는 경우도 있긴 하지만 이것은 CPU 집약적인 작업을 구현하는 데 한정되어 사용
+    * 자바스크립트 생태계는 빠른 것(=성능)보다는 작동하는 것을 만드는 데 더 집중
+      * 툴들의 개발이 안정화된 시점에서 "더 빠른 언어"로 재작성하는 것은
+      * 단순히 더 빠른 언어로 작성했기 때문에 성능이 오른 것이 아니라 성능을 염두에 두고 다시 설계했기 때문일 가능성이 큼
+    * 성능을 염두에 두고 재설계한다면 아직 자바스크립트로도 충분히 성능 향상 가능
+    * 바이트코드 캐시와 JIT 컴파일러는 자주 사용되는 코드에 대한 성능 최적화
+      * 그 경우 "더 빠른 언어"로 작성된 것에 비해 성능적으로 밀리지 않는다
+    * 기여와 디버깅의 관점에서, 자바스크립트 사용자가 자바스크립트 툴링에 기여하지 못하고 디버깅하지 못한다는 것은 개발 환경과 생태계에 있어서 안 좋음
 * [JS의 객체는 hash table이 아닙니다!](https://velog.io/@wongue_shin/JS%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%8A%94-hash-table%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
 * [Javascript Performance related Points. - YouTube](https://www.youtube.com/watch?v=z8gxF5MelIs)
 * [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
@@ -5039,6 +5050,9 @@ Javascript
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 * [React is (becoming) a Full-Stack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
   * [React는 풀스택 프레임워크(가 되어가는 중)임 | GeekNews](https://news.hada.io/topic?id=16471)
+* [Drag to Select](https://www.joshuawootonn.com/react-drag-to-select)
+  * 추가적인 라이브러리 사용 없이 "드래그로 여러 아이템을 선택" 하는 기능을 만드는 글
+    * 스크롤 가능한 엘리먼트 내에서 대응하는 것이 깔끔
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
