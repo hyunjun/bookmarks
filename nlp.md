@@ -2684,6 +2684,8 @@ NLP
   * [ChatGPT보다 성능이 더 뛰어나다? \_ 메타의 언어모델, LLaMA 라마 코드분석 - YouTube](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * [Meta가 쏘아올린 작은 공 LLaMA에 대해 알아보자 - 윤주성](https://aifactory.space/learning/2414/discussion/327)
   * [Why Developers Are Flocking to LLaMA, Meta’s Open Source LLM - The New Stack](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
+  * [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
+    * [메타, 속도 향상 및 메모리 사용량 감소된 양자화(Quantized) Llama 모델 공개 | GeekNews](https://news.hada.io/topic?id=17418)
   * code-llama
     * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
       * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
@@ -3317,6 +3319,8 @@ NLP
       * 실제 ONNX Runtime의 경우 양자화와 그래프 최적화를 사용하기 때문에 빠르게 학습
       * 해당 블로그는 소개영상이니 HuggingFace 라이브러리를 사용하는 경우에 한번 사용하길 추천
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
+  * [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3)
+    * [Transformers.js v3 릴리즈 | GeekNews](https://news.hada.io/topic?id=17427)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
   * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
