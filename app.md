@@ -2379,6 +2379,7 @@ App
   * git
     * [옵시디언 깃허브 연동하기 - Obsidian Git Plugin](https://alive-wong.tistory.com/65#google_vignette)
     * [Obsidian 커뮤니티 플러그인 추천 및 Git을 활용한 연동법 — ERROR DENY](https://dnai-deny.tistory.com/96)
+    * [Obsidian-git으로 컴퓨터-안드로이드 연동하기](https://velog.io/@rethinking21/Obsidian-git%EC%9C%BC%EB%A1%9C-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
   * [JSON Canvas — An open file format for infinite canvas data](https://jsoncanvas.org/)
     * [NEW 🎉 Obsidian JSON Canvas (Game Changer) - YouTube](https://www.youtube.com/watch?v=c3NSxQmKCss)
     * [Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian](https://obsidian.md/blog/json-canvas/)
