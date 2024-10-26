@@ -437,6 +437,7 @@
 * [코루틴(Coroutine)에 대하여](https://dev.gmarket.com/82)
 * [Coroutines Beyond Concurrency by Alex Semin - YouTube](https://www.youtube.com/watch?v=NwYx5l5Zzes)
 * [Coroutine Context and Dispatchers Quiz | by Murat AYDIN | Medium](https://medium.com/@maydin/coroutine-context-and-dispatchers-quiz-bd70b7e80eac)
+* [코루틴 디스패처 (Dispatcher)](https://brunch.co.kr/@mystoryg/222)
 * [코루틴(Coroutine) 생성 및 실행](https://brunch.co.kr/@mystoryg/181)
 * [코루틴 빌더 (Coroutine Builder)](https://brunch.co.kr/@mystoryg/183)
 * [코루틴 delay 함수](https://brunch.co.kr/@mystoryg/184)
