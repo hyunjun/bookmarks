@@ -4843,6 +4843,8 @@ Programming
   * [워크플로 자동화로 업무 효율 향상하기(with n8n) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/31/workflow-n8n/)
   * [평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅 - YouTube](https://www.youtube.com/watch?v=kdt5J2bpchM) install n8n on GCP
   * [Docker n8n 으로 노코딩 workflow 자동화 툴로 이용하자](https://betwe.tistory.com/entry/Docker-n8n-%EC%9C%BC%EB%A1%9C-%EB%85%B8%EC%BD%94%EB%94%A9-workflow-%EC%9E%90%EB%8F%99%ED%99%94-%ED%88%B4%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90)
+  * [n8n - YouTube](https://www.youtube.com/playlist?list=PLOI8xpLfBsbvljNN-Dy37vBvZA33aa_6W)
+  * [개발자도, 비개발자도! 로우코드 자동화 툴 n8n 완전정복 가이드](https://datapopcorn.notion.site/n8n-10f2a185e5ce803c97d7dc96bef30982)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
