@@ -50,3 +50,4 @@ Life
 * [연말정산 똑똑하게 하는 법, 세테크 돕는 스타트업](https://www.venturesquare.net/848586)
 * [국세청에 증여 안 걸리려면 이렇게 돈 빌리세요 | 부모자식간 현금거래 절세방법 - YouTube](https://www.youtube.com/watch?v=CObKsnE8ghU)
 * [외국납부세액공제 : 네이버 블로그](https://blog.naver.com/jindong1982/220611788659)
+* ["법인 돈 이렇게 사용하면 온가족 부자됩니다" 가족법인 노후걱정 없이 설계하는 방법을 국세청 출신 세무사가 정확하게 알려드립니다. - YouTube](https://www.youtube.com/watch?v=UxSfuHcj6GU)
