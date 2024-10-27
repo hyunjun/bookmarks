@@ -1059,6 +1059,7 @@ Interview
   * [뽑히는 개발자 포트폴리오는 어떻게 만드나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2686/)
   * [뽑히는 개발자는 어떤 프로젝트를 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/2722/)
 * [안드로이드 기술 이력서의 최소 조건 - Speaker Deck](https://speakerdeck.com/pluu/andeuroideu-gisul-iryeogseoyi-coeso-jogeon)
+* [주니어 개발자분들께 도움이 될 만한 저만의 이력서 작성 프레임워크를 공유](https://www.linkedin.com/posts/kijepark_%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%A0%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%A9%B4%EC%84%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B6%84%EB%93%A4%EA%BB%98-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-%EC%A0%80%EB%A7%8C%EC%9D%98-activity-7253945011073908736-cjNP/)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
