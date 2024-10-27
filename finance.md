@@ -101,6 +101,9 @@ Finance
   * [파릇파릇 자산관리](https://www.fss.or.kr/edu/fec/contMng/view.do?menuNo=300018&contentsSlno=145&check=2)
   * [e-Learning | 콘텐츠 한 눈에 | 포털사이트](https://www.fss.or.kr/edu/fec/elearning/elrn.do?menuNo=300133)
   * [동영상(목록) | 콘텐츠 한 눈에 | 포털사이트](https://www.fss.or.kr/edu/fec/contMng/contUserList.do?check=1&menuNo=300017)
+* [**IMF는 비교도 안 될 위기가 온다. 살아남으려면 당장 '이렇게' 하세요 (김경록 박사 풀버전)** - YouTube](https://www.youtube.com/watch?v=a2PNSdKykYM)
+  * [VidiGo IMF는 비교도 안 될 위기가 온다. 살아남으려면 당장 '이렇게' 하세요 (김경록 박사 풀](https://vidigo.ai//share/summary/b07bc1e91aef)
+  * [내수 침체와 수출 호조의 경제 양극화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1581937)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
