@@ -2466,6 +2466,9 @@ Programming
 * [개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2743/)
 * [순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 * [하이퍼커넥트 그룹콜 미디어 서버 인프라를 소개합니다 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/09/25/introduction-to-groupcall-media-server.html)
+* [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
+  * [체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일 | GeekNews](https://news.hada.io/topic?id=17404)
+* [결과물만 보고 설계 노하우를 즉시 채용하기](https://brunch.co.kr/@graypool/2013)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -6043,6 +6046,7 @@ Programming
 * [Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar - YouTube](https://www.youtube.com/watch?v=x4k1XEjNzYQ)
   * [VidiGo Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pu](https://vidigo.ai/share/summary/2381a12213be)
   * [카프카 대 RabbitMQ 대 메시징 미들웨어 대 펄사 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/821639)
+* [네이버페이 주문에 적용된 확장 가능한 대기열 개발기](https://d2.naver.com/helloworld/6480558) Massronome
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
