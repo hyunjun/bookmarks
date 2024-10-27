@@ -1181,6 +1181,8 @@ NLP
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
   * [Why I'm excited about DSPy](https://www.linkedin.com/pulse/why-im-excited-dspy-stephen-byrne-smkhe/)
   * [Intro to DSPy: Goodbye Prompting, Hello Programming! | by Leonie Monigatti | Feb, 2024 | Towards Data Science](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
+* [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
+  * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
@@ -2230,6 +2232,7 @@ NLP
   * 특히 모델의 각 파라미터와 동일한 크기를 가지는 First/Second Order Momentum이 어떻게 추가 메모리를 사용하며, 이것이 학습에 어떤 영향을 주는지 정리
 * [Use Prolog to improve LLM's reasoning](https://www.linkedin.com/posts/shchegrikovich_use-prolog-to-improve-llms-reasoning-on-activity-7251342511439233026-3rJA/)
   * [Prolog를 활용하여 LLM(대형 언어 모델)의 추론 능력을 향상시키는 방법](https://www.linkedin.com/posts/activity-7251362436010672128-XUhM/)
+* [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2314,6 +2317,9 @@ NLP
   * [Anthropic, Claude에 Prompt Caching(베타)기능 추가 | GeekNews](https://news.hada.io/topic?id=16390)
   * [Claude’s API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
     * [Claude API가 CORS 지원을 시작, 클라이언트 측 어플리케이션이 가능해짐 | GeekNews](https://news.hada.io/topic?id=16433)
+  * [Introducing the analysis tool in Claude.ai \ Anthropic](https://www.anthropic.com/news/analysis-tool)
+  * [Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku \ Anthropic](https://www.anthropic.com/news/3-5-models-and-computer-use)
+    * [Anthropic, Computer Use 기능과 Claude 3.5 Sonnet/Haik | GeekNews](https://news.hada.io/topic?id=17378)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
@@ -2905,6 +2911,7 @@ NLP
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
   * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
   * [Mistral Large 모델 공개 | GeekNews](https://news.hada.io/topic?id=13541)
+  * [미스트랄 Mistral AI 모델 무료플랜 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223630231649)
   * [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
     * [Codestral - Mistral의 코드 생성 AI 모델 | GeekNews](https://news.hada.io/topic?id=15082)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
@@ -4035,6 +4042,8 @@ NLP
 * [한국어 자연어처리 1편 서브워드 구축(Subword Tokenizer, huggingface VS SentencePiece)](https://keep-steady.tistory.com/37)
 * [#09 Python Guide for Lead Developers | Tokenization in NLP - YouTube](https://www.youtube.com/watch?v=5jY2bELY4s0)
 * [비지도 학습 기반의 경쟁적 신경 언어 모델로 단어 분할하기 | by 쿠팡 엔지니어링 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/unsupervised-competing-neural-language-model-for-word-segmentation-8f43ac811c7d)
+* [**You Should Probably Pay Attention to Tokenizers** - Cybernetist](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
+  * [Tokenizer에 주의를 기울여야 합니다 | GeekNews](https://news.hada.io/topic?id=17398)
 * [kortok: The code and models for "An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks" (AACL-IJCNLP 2020)](https://github.com/kakaobrain/kortok)
 
 # Topic Modeling
