@@ -1253,6 +1253,7 @@ Business
   * 2. 목표를 달성하는 과정에서 보여준 행동
   * 3. 미래를 위한 성장 잠재력
 * [한승준 - Microsoft의 CEO 사티아 나델라가 회사의 운명을 바꾼 직원과 부서의 성과 평가기준 - 능력자들을... | Facebook](https://www.facebook.com/seungjun.han.39/posts/pfbid0BN2axfnAuk9rkppjjYYNQVaNkXjcuFAwRmD5xcjS3yXBeifdjHuzYanbdaeedFySl) 상호협력과 기여
+* [위기에 빠졌던 MS는 어떻게 혁신을 되찾았나(feat. 조직문화) 딥다이브｜동아일보](https://www.donga.com/news/Economy/article/all/20241022/130268062/1)
 * [여현준 on LinkedIn: #비즈니스로어 - 기업이 저성과자 퇴출 제도를 장기간 운영했을 때 벌어지는 일](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7216924152052543495-GNFq)
 * [채용할 때에는 역할과 그에 필요한 역량과 퍼포먼스가 명확해야 한다. 그것이 회사가 채용과 관련하여 가져야 할 최소한의 책임이며 태도](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7226346238223282176-BmRD/)
 * [많은 회사들이 공정하고 효율적인 평가제도를 만들기 위해 노력한다. 그런데, 노력하는 것은 알겠는데, 그런 것이 정말로 존재할 수 있을까?](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%8F%89%EA%B0%80%EC%97%90-%EC%9E%88%EC%96%B4-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-activity-7250301944072708096-DhrB/)
