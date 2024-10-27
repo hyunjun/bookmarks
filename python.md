@@ -1381,6 +1381,7 @@ Python
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals](https://github.com/plasma-umass/scalene)
     * [‘Scalene’ offers efficiency suggestions for Python coders](https://www.itbrew.com/stories/2024/01/17/scalene-offers-efficiency-suggestions-for-python-coders)
+    * [Scalene - AI기반 Python용 고성능, 고정밀 CPU/GPU 및 메모리 프로파일 | GeekNews](https://news.hada.io/topic?id=17400)
   * [Sciagraph, performance observability for Python batch jobs](https://www.sciagraph.com/)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
@@ -1925,7 +1926,6 @@ Python
   * [Python으로 클린 아키텍처 적용하기](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-Clean-Architecture-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [Python으로 클린 아키텍처 적용하기2](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
-* [CPython Internals: Paperback Now Available – Real Python](https://realpython.com/products/cpython-internals-paperback/)
 * [Demystifying Python’s Internals - YouTube](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
@@ -3751,6 +3751,7 @@ Python
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+  * [CPython Internals: Paperback Now Available – Real Python](https://realpython.com/products/cpython-internals-paperback/)
   * [Escaping a Python sandbox with a memory corruption bug](https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)
   * [Back to the Low Level](https://docs.google.com/presentation/d/1mpgEviFIolgPLy3tYjK2DIEWRKT671vJdb4RCiXvCyY/edit#slide=id.p)
   * [Python Is Fast!](https://www.youtube.com/watch?v=hsT5sIpi6_I)
@@ -3790,6 +3791,7 @@ Python
   * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [Episode #431 Visualizing CPython Release Process - Talk Python To Me Podcast](https://talkpython.fm/episodes/show/431/visualizing-cpython-release-process)
   * [PyCon KR 2023 CPython 코드로 보는 파이썬의 심층 세상 한성민 - YouTube](https://www.youtube.com/watch?v=L0tRwS3K3N4)
+  * [CPython 인터프리터 구조 파헤치기 - PyCon Korea 24 - Speaker Deck](https://speakerdeck.com/kennethanceyer/cpython-inteopeuriteo-gujo-pahecigi-pycon-korea-24)
   * [Abhinav Upadhyay on X: "Why and How CPython use Bloom Filters inside some of its String APIs, such as splitlines and strip? Let's take a tour of CPython internals to understand the use of bloom filters within CPython's string APIs and to see how it implements the bloom filter. Use of Bloom FIlters in… https://t.co/RgTmHkbyhj" / X](https://twitter.com/abhi9u/status/1702668471551840594)
   * [메모리 모델 입문 - Sequential Consistency와 Total Store Order 이해하기](https://techblog.lycorp.co.jp/ko/about-memory-model-sequential-consistency-and-total-store-order)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
@@ -5340,6 +5342,7 @@ Python
     * Polars는 기존의 라이브러리보다 더 빠르고 메모리 효율적, SQL과 유사한 구문
     * Polars를 사용하여 학습 파이프라인, 사용자 정의 함수 적용 및 준실시간 추론 파이프라인 개선
   * [Polars 시작하기 (소개 및 설치) - 자주쓰는 명령어로 배우는 Polars #1](https://sjquant.tistory.com/104)
+  * [Polars로 데이터 불러오기 및 조작하기 - 자주 쓰는 명령어로 배우는 Polars #2](https://sjquant.tistory.com/105)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
