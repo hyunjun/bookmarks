@@ -425,6 +425,7 @@ Web
 * [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
   * [이미 시맨틱 웹은 널리 채택되어 사용되고 있음 | GeekNews](https://news.hada.io/topic?id=16408)
 * [디자인과 개발을 위한 그리드 시스템의 모든 것 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/09/03/grid/) grid system
+* [정적? 동적? 웹사이트 화면은 어떻게 채워질까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2817/)
 
 # Apache
 * installation
