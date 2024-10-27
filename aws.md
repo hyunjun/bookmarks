@@ -777,6 +777,8 @@ AWS
 * [AWS 자격증 취득 후기 (DOP)](https://jybaek.tistory.com/1007)
 * [AWS-ALL-Certification-Review - 리눅서의 기술술 블로그](https://linuxer.name/2024/02/aws-all-certification-review/)
 * [AWS Certified Data Engineer - Associate - 합격후기 - 리눅서의 기술술 블로그](https://linuxer.name/2024/03/aws-certified-data-engineer-associate-review/)
+* [AWS Solutions Architect Associate(SAA) C03 자격증 준비](https://aws-hyoh.tistory.com/221)
+  * [materials](files/AWS_Solutions_Architect Associate_C03.zip)
 
 # CI/CD Codecommit Codebuild CodeDeploy CodePipeline
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
