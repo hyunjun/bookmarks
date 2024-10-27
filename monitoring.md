@@ -289,6 +289,9 @@ Monitoring
     * [VidiGo The Power of Observability: A Tale of Merging, Sca](https://vidigo.ai/share/summary/d2c5da78a782)
     * [통합 가시성의 힘: 통합, 확장 및 DevSecOps 이야기 - 조지 아스피르타키스 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/660788)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
+* [OpenObserve | Open Source Observability Platform for Logs, Metrics, Traces, and More – Your Ultimate Dashboard for Alerts and Insights](https://openobserve.ai/)
+  * [openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay)](https://github.com/openobserve/openobserve) local 개발환경에서도 구동 가능
+  * [OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 | GeekNews](https://news.hada.io/topic?id=17416)
 * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)
   * [Osquery: SQL기반의 운영 체제 계측/모니터링/분석 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=13525)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
