@@ -2363,6 +2363,7 @@ App
   * [2022 최고의 플러그인 할 일(Task, To do) 관리를 자동화 해주는 플러그인 - YouTube](https://www.youtube.com/watch?v=KH_P3GKtS1k)
   * [옵시디언 사용해 보실래요? - 동기화, 백업 환경 구축](https://velog.io/@joshuara7235/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%8B%A4%EB%9E%98%EC%9A%94) obsidian-git + working copy
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
+  * [클라우드 없이 🙅 모든 디바이스 연결하기 - YouTube](https://www.youtube.com/watch?v=uimJqa0zxHU)
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
