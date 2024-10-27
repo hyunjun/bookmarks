@@ -384,6 +384,7 @@ Apache
 * [Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://www.youtube.com/watch?v=x6WX_JE96bU)
 * [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg) | 김두진, 김용주 - YouTube](https://www.youtube.com/watch?v=xUpi8pXyiyk)
 * [AWS 분석 서비스에서 Apache Iceberg 활용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-iceberg-on-aws-analytics/)
+* [**Apache Iceberg와 Flink CDC 심층 탐구** - tech.kakao.com](https://tech.kakao.com/posts/656)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
