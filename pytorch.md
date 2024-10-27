@@ -556,3 +556,4 @@ PyTorch
 * [파이토치 4 - 쿠버네티스에서 학습하기](https://bcho.tistory.com/1436)
 * [5. 파이토치 - 분산 학습의 개념과 하드웨어](https://bcho.tistory.com/1439)
 * [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/1437)
+* [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/2402)
