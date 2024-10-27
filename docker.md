@@ -3095,6 +3095,7 @@ Docker
 * [Just download the code and use single command "vagrant up" to make k8s cluster readily available - YouTube](https://www.youtube.com/watch?v=Hqkujcop3NE)
 * [VM 관리를 위한 vagrant 알아보기](https://blog.naver.com/pjt3591oo/223082616862)
 * [2 4 베이그런트Vagrant+VMware Fusion으로 쿠버네티스 환경 구축하기 비상업적, arm64 사용자 v1 30 - YouTube](https://www.youtube.com/watch?v=v7EJ4BHNNMk)
+* [테라폼의 원형, 베이그런트의 앞날은? | 요즘IT](https://yozm.wishket.com/magazine/detail/2815/)
 * [bootstrapping-microservices/example-vagrant-vm: An example Vagrant virtual machine setup with Docker and Terraform installed](https://github.com/bootstrapping-microservices/example-vagrant-vm)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 * [vagrant-k8s-provisioning](https://github.com/adamsipo/vagrant-k8s-provisioning)
