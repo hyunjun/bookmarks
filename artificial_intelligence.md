@@ -319,6 +319,7 @@ Artificial Intelligence
     * 현재는 OpenAI, Hugging Face, Replicate의 플랫폼 지원
 * [AI Getting Started](https://ai-companion-stack.com)
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
+* [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [AI Studio](https://ai.meta.com/ai-studio/)
   * [Meta, 미국 대상으로 AI 스튜디오 출시 | GeekNews](https://news.hada.io/topic?id=16125)
@@ -632,6 +633,7 @@ Artificial Intelligence
   * [AI: 디스토피아인가 유토피아인가? | GeekNews](https://news.hada.io/topic?id=16999)
 * [노벨물리학상 수상자 제프리 힌튼 교수가 말하는 일리야 수츠케버와 AI의 미래](https://maily.so/seanlee/posts/faba58b4)
   * [제프리 힌튼 교수가 지난 4월 영국 왕립연구소에서 진행한 인터뷰를 정리](https://www.linkedin.com/posts/sean-lee-97908319_%EB%85%B8%EB%B2%A8%EB%AC%BC%EB%A6%AC%ED%95%99%EC%83%81-%EC%88%98%EC%83%81%EC%9E%90-%EC%A0%9C%ED%94%84%EB%A6%AC-%ED%9E%8C%ED%8A%BC-%EA%B5%90%EC%88%98%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%9D%BC%EB%A6%AC%EC%95%BC-%EC%88%98%EC%B8%A0%EC%BC%80%EB%B2%84%EC%99%80-ai%EC%9D%98-%EB%AF%B8%EB%9E%98-activity-7252079258079002624-CF-b/)
+* [AI열풍 끝났다?… 판도 바뀌는 버티컬AI의 시대 - 머니투데이](https://news.mt.co.kr/mtview.php?no=2024102317220470605)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
