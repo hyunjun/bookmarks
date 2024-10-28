@@ -3870,6 +3870,9 @@ Programming Books
   * 우당 문005.104-라58ㅅ
 * [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
   * ★★★☆☆ 2022.12.20
+  * ★★★☆☆ 2024.10.28
+    * 개정판이 나와 다시 훑어봤는데, 기존 내용에 '출간 후 2년, 그다음 이야기'란 내용이 사람마다 추가되었다
+    * 모두 AI 이야기를 하고 있는 걸 보면 시대의 흐름을 정말 실감할 수 있다. 어디서나 느낄 수 있긴 하지만
   * [독서광 개발자 원칙](https://jhrogue.blogspot.com/2023/01/blog-post.html)
   * [개발자 원칙](https://yeonyeon.tistory.com/298)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 (이동욱 향로) - 골든래빗](https://goldenrabbit.co.kr/2023/02/14/principle_ldw_0/)
