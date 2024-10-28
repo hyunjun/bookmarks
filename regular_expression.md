@@ -56,6 +56,13 @@ Regular Expression
 * [정규식 함부로 쓰지 말자](https://velog.io/@skynet/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%A8%EB%B6%80%EB%A1%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%9E%90)
 * [Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - YouTube](https://www.youtube.com/watch?v=M7vDtxaD7ZU)
 * [Learn Regular Expressions In 20 Minutes - YouTube](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+* [정규식을 이용한 공격 - ReDos — Wooncloud Blog](https://wooncloud.tistory.com/118)
+  * 정규표현식 엔진의 취약성을 이용해 서비스에 부하를 거는 공격에 관한 글
+    * 정규표현식 엔진에서 사용하는 알고리즘 이슈
+      * 해당 알고리즘에서 특정 정규표현식에 특정 형식의 문자열을 대입했을 경우 평가가 지나치게 오래 걸리는 것을 악용해 서비스 장애 발생 유발
+    * 몇 년 전 Momont.js, Stack Overflow, Cloudflare 등에서 취약점이 발견되거나 서비스 장애 발생
+    * 실제 취약점 및 장애를 일으켰던 정규표현식 소개
+    * 정규표현식 위험도 측정 툴 소개(ReDos checker 검색도 많은 결과)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
