@@ -60,6 +60,9 @@ C#
 * [C#: IEnumerable, yield return, and lazy evaluation - Stack Overflow Blog](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/)
 * [버그를 유발하는 enum의 괴상한 기본 동작 - YouTube](https://www.youtube.com/watch?v=I0QxuOl01KE)
 * [Forget the AutoMapper or any mapper library | by Bernardo Teixeira | Geek Culture | May, 2023 | Medium](https://medium.com/geekculture/forget-the-automapper-or-any-mapper-library-c029f94da8b7)
+* [C# Helper: Use "banker's rounding" and "normal rounding" in C#](https://www.csharphelper.com/howtos/howto_avoid_bankers_rounding.html)
+  * [코딩표준 반올림도 마음대로 못한다고? Round() 함수 사용 금지 이유! - YouTube](https://www.youtube.com/watch?v=D87AE7QtenU) Banker's round
+* [스마트팩토리 개발자는 어떻게 리팩토링할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2821/) refactoring
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
