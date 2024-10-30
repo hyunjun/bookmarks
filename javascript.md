@@ -887,6 +887,7 @@ Javascript
 * [JavaScript Language Design and Implementation in Tandem | Communications of the ACM](https://dl.acm.org/doi/10.1145/3624723)
   * [KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=31089)
 * [주니어 FE 개발자의 색상 추출 라이브러리 개발기 - tech.kakao.com](https://tech.kakao.com/posts/627) K-means Clustering, 색상 추출 알고리즘
+* [Javascript를 2개의 언어로 분할해야 할까? | GeekNews](https://news.hada.io/topic?id=17470)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2026,6 +2027,7 @@ Javascript
   * [Elysia - Ergonomic Framework for Humans | ElysiaJS](https://elysiajs.com/)
     * [ElysiaJS의 개쩌는 점](https://velog.io/@kimgh06/ElysiaJS%EC%9D%98-%EA%B0%9C%EC%A9%8C%EB%8A%94-%EC%A0%90)
 * [내가 지금까지 경험한 프론트엔드 UI 도구들 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/03/18/UI-Tools-History.html)
+* [The NPM Libraries That Will Make Your Node.js Micro Services Faster | by Tamar Twena-Stern | Medium](https://medium.com/@tamartwena/improve-node-js-api-performance-in-various-application-layers-5438ce4879ad)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -3702,6 +3704,7 @@ Javascript
   * a guide that offers nine principles for creating robust, scalable, and maintainable Node.js applications in enterprise environments
   * The guide covers topics such as avoiding event loop blocking, monitoring Node-specific metrics, using LTS versions in production, automating testing, code review, and conformance, and avoiding dependency creep
   * It also provides best practices for using native Node.js APIs and leveraging NPM for code reuse
+* [node inspect로 얻은 profile 정보 분석하기](https://blog.naver.com/pjt3591oo/223633990755)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
