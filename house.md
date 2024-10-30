@@ -61,7 +61,7 @@ House
 * [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
 * [피해자가 속출하는 전세금 미반환 사고! 이렇게 대처하면 바로 줍니다! - YouTube](https://www.youtube.com/watch?v=kmNu62ul8b0)
 * [깡통전세 세입자 생존 방법 총정리! 막 경매 넘기면 안 됩니다! - YouTube](https://www.youtube.com/watch?v=5wVrPkLXv_A)
-* [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
+* [~매거진 | 보증금을 지키는 방법, 전세권 설정~](https://www.goodchobo.com/magazine/MZTY/529)
 * [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
 * [판치는 전세사기, 이걸 모르면 전세 보증금 한 푼도 못 돌려 받아요 (구해줘월부 부동산상담) - YouTube](https://www.youtube.com/watch?v=staIMEiWLJo)
 * [전셋집 경매 진행되는데…보증금 받을 수 있을까 | 한국경제](https://www.hankyung.com/thepen/moneyist/article/202306305086Q)
