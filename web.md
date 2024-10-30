@@ -976,6 +976,8 @@ Web
   * [CSS, 2024년에 드디어 "세로 중앙 정렬"이 추가됨 | GeekNews](https://news.hada.io/topic?id=16586)
 * [Double your specificity with this one weird trick | Cirrus's Realm](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
   * [CSS 선택자 우선순위를 높이는 의외의 방법 | GeekNews](https://news.hada.io/topic?id=17078) 마치 hack같지만 spec에 써있는 방법
+* [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
+  * [Ctrl+F 보다 더 똑똑하게: 웹페이지 콘텐츠에 직접 링크하기 | GeekNews](https://news.hada.io/topic?id=17474)
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
