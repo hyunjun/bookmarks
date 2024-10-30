@@ -1409,6 +1409,7 @@ Programming
 * [How engineering teams handle unplanned work | by Anna Debenham | boldstart ventures | Medium](https://medium.com/boldstart-ventures/how-engineering-teams-handle-unplanned-work-d90415ff0d81)
 * [과정 안내 Certified LeSS Practitioner | Odd-e Korea - (주) 오디디이 코리아](https://odd-e.kr/less2023/)
 * [SI Q&A 세션 ② SI 개발자, 어떻게 성장해야 하죠? | 요즘IT](https://yozm.wishket.com/magazine/detail/2573/)
+* [SI산업 가이드북⑪ SI가 첫 회사인 개발자들에게 | 요즘IT](https://yozm.wishket.com/magazine/detail/2812/)
 * [Why Everybody Hates Agile • Jesper Boeg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Gt9ZuHGpKbI)
   * [VidiGo Why Everybody Hates Agile • Jesper Boeg • GOTO 202](https://vidigo.ai/share/summary/dffd077766a1)
   * [모두가 애자일을 싫어하는 이유 - Jesper Boeg - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/779361)
@@ -4847,7 +4848,9 @@ Programming
   * [평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅 - YouTube](https://www.youtube.com/watch?v=kdt5J2bpchM) install n8n on GCP
   * [Docker n8n 으로 노코딩 workflow 자동화 툴로 이용하자](https://betwe.tistory.com/entry/Docker-n8n-%EC%9C%BC%EB%A1%9C-%EB%85%B8%EC%BD%94%EB%94%A9-workflow-%EC%9E%90%EB%8F%99%ED%99%94-%ED%88%B4%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%9E%90)
   * [n8n - YouTube](https://www.youtube.com/playlist?list=PLOI8xpLfBsbvljNN-Dy37vBvZA33aa_6W)
+  * [n8n introduction - YouTube](https://www.youtube.com/watch?v=kKs0y5Lx3Qw)
   * [개발자도, 비개발자도! 로우코드 자동화 툴 n8n 완전정복 가이드](https://datapopcorn.notion.site/n8n-10f2a185e5ce803c97d7dc96bef30982)
+  * [다운 받은 워크플로우 불러오는 방법](https://datapopcorn.notion.site/12d2a185e5ce80fcb5cfddb9cf501396)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
