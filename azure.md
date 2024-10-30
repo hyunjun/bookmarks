@@ -212,6 +212,7 @@ Azure
 * [Inside Microsoft AI innovation with Mark Russinovich | BRK256 - YouTube](https://www.youtube.com/watch?v=ntKZ5CibuIQ)
 * [Azure의 Windows Server VM에 중첩 가상화 활성화 필수 조건](https://www.dokyun.pe.kr/337)
 * [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
+* [How to pass objects between tasks in Azure pipeline | Devops](https://dotnet-helpers.com/devops/pass-objects-between-tasks-in-azure-pipeline/)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
