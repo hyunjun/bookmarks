@@ -3582,6 +3582,8 @@ Business
 * [왜 세일즈의 의견은 무시되는 것일까? ](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%99%9C-%EC%84%B8%EC%9D%BC%EC%A6%88%EC%9D%98-%EC%9D%98%EA%B2%AC%EC%9D%80-%EB%AC%B4%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%BC%EA%B9%8C-%EC%84%B8%EC%9D%BC%EC%A6%88%EB%8A%94-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A5%BC-activity-7249739225623846912-jvJR/)
   * 세일즈의 의견이 제품개발에 잘 받아들여지지 않는 것은, 그것이 실제로 받아들여질 만한 이야기가 아닌 경우가 많기 때문
   * 정말로 해결하고 싶다면 제품을 만드는 사람들 가운데 누가 이러한 이야기에 관심을 가지는지를 찾고 다가서야
+* [What I learned from tracking 443 SaaS pricing pages](https://www.growthunhinged.com/p/state-of-saas-pricing-changes-2024)
+  * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
