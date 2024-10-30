@@ -47,6 +47,15 @@ Robot
 * [로봇의 분류와 역사, 국가/분야별 로봇 시장 현황 (140p PDF) | GeekNews](https://news.hada.io/topic?id=6010)
 * [미쯔비시 로봇, Rubik's Cube를 0.305초만에 풀어 | GeekNews](https://news.hada.io/topic?id=15237)
 * [로봇 ML 모델의 경량화 1부: 훈련 후 양자화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18980/)
+* [HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
+  * 다양한 복잡한 환경에서의 성공적인 로봇 강화학습법, HIL-SERL
+    * 강화학습(RL)은 복잡한 로봇 조작 기술을 자율적으로 습득할 수 있는 큰 잠재력, 실제 환경에서 이러한 잠재력을 실현하는 것은 어려움
+    * UC Berkeley EECS 연구진이 동적 조작, 정밀 조립, 양팔 협조 등 다양한 정교한 조작 작업에서 인상적인 성능을 보여주는
+      * 사람-기계 상호작용 기반의 비전 강화학습 시스템인 HIL-SERL 제시
+    * 액터 프로세스, 러너 프로세스, 그리고 리플레이 버퍼라는 세 가지 주요 구성 요소로 이루어진 HIL-SERL은
+      * 인간의 시연을 통해 오프라인으로 학습된 보상 함수에 기반하여 행동 후 인간의 교정을 통해 행동을 고도화
+      * 이를 통해 HIL-SERL은 USB 접지, 케이블 자르기부터 IKEA 가구조립, 차량 조립까지 다양한 작업에서 이전 강화학습 접근법들을 크게 능가
+      * 평균적으로 성공률은 2배, 실행 속도는 1.8배 향상
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
