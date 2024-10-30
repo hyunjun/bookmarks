@@ -519,6 +519,8 @@ SQL
   * [데이터 없이도 데이터베이스가 되는 DuckDB | GeekNews](https://news.hada.io/topic?id=15093)
 * [DuckDB as the New jq - Paul Gross’s Blog](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
   * [새로운 jq로서의 DuckDB | GeekNews](https://news.hada.io/topic?id=13948)
+* [DuckDB 사용법(DuckDB Python + Jupyter Lab) · 어쩐지 오늘은](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
+  * [DuckDB 사용법(DuckDB Python + Jupyter Lab) | GeekNews](https://news.hada.io/topic?id=17450)
 
 # Library
 * [alasql.org](http://alasql.org/)
