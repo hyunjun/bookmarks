@@ -1322,6 +1322,7 @@ Python
   * [Python 3 Quick Tip: The easy way to deal with file paths on Windows, Mac and Linux](https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f)
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
+  * [python-deadlib: Python dead batteries. See PEP 594](https://github.com/youknowone/python-deadlib)
 * pickle
 
   ```
