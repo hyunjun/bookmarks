@@ -105,6 +105,7 @@ Game
 * [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
   * [엘리베이터 프로그래밍 게임 | GeekNews](https://news.hada.io/topic?id=4703)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
+* ['Factorio'가 실리콘밸리를 매혹한 방법 | GeekNews](https://news.hada.io/topic?id=17449)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Invaders: Space Invaders clone, written in Java](https://github.com/RobertoIA/Invaders)
