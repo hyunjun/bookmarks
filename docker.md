@@ -2034,6 +2034,8 @@ Docker
   * using high-performance local NVMe disks make the database bound to nodes and non-schedulable, negating the primary purpose of putting them in K8S
   * concludes that until the reliability and performance of the network storage surpass local storage, placing databases in K8S is an unwise choice
 * [Distributed locks in Kubernetes with Scala | by Jonas Chapuis | Aug, 2024 | Medium](https://jonas-chapuis.medium.com/distributed-locks-in-kubernetes-with-scala-f3ad8253f894)
+* [쿠버네티스가 쉬워지는 컨테이너 이야기 — cpuset.cpu편 | by rex.chun | Oct, 2024 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-cpuset-cpu%ED%8E%B8-3ff523ea298b)
+* [쿠버네티스가 쉬워지는 컨테이너 이야기 — memory편. 이전 글 | by rex.chun | Oct, 2024 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-memory%ED%8E%B8-62cafabfd160)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
