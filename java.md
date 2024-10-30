@@ -369,6 +369,7 @@ Java
     * [게임 서버 시스템을 위한 JDBC와 Timeout 이해하기 - 넷마블 기술 블로그](https://netmarble.engineering/jdbc-timeout-for-game-server/)
     * [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정 - 넷마블 기술 블로그](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
     * [장애회고 ORM(JPA) 사용 시 예상치 못한 쿼리로 인한 HikariCP 이슈](https://saramin.github.io/2023-04-27-order-error/)
+    * [HikariCP로 MySQL Connection Pool 최적화하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mysql-connection-pool-timeout-1/)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
@@ -1699,6 +1700,7 @@ Java
 * [Helidon Project](https://helidon.io/) GraalVM native image support
   * [Build REST APIs and Native Java Apps with Helidon | Okta Developer](https://developer.okta.com/blog/2022/01/06/native-java-helidon)
   * ["자바 고속 직렬화의 진화" 마이크로스트림의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251026) helidon에 대한 직접적인 기사는 아님
+* [hwp-doclet](https://github.com/spah1879/hwp-doclet)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [hwpxlib](https://github.com/neolord0/hwpxlib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
