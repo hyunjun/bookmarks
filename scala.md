@@ -2019,6 +2019,7 @@ Scala
   * [Li Haoyi – Mill: a Build Tool based on Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=j6uThGxx-18)
   * [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
   * [Haoyi Li - A Deep Dive into the Mill Scala Build Tool - YouTube](https://www.youtube.com/watch?v=UsXgCeU-ovI&list=PLLMLOC3WM2r6ZFhFfVH74W-sl8LfWtOEc&index=17)
+  * [Mill - Java와 Scala를 위한 빠른 JVM 빌드 도구 | GeekNews](https://news.hada.io/topic?id=17495)
 
 ## Library DB Database
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
