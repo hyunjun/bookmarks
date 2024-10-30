@@ -322,6 +322,14 @@ Git
 * [Github - Suggestion :: iOYES](https://green1229.tistory.com/475)
 * [GitHub에서 삭제되거나 비공개 Repo 데이터에 누구나 액세스할 수 있음 | GeekNews](https://news.hada.io/topic?id=16001)
 * [GitHub이 실제로 승리한 이유 | GeekNews](https://news.hada.io/topic?id=16685)
+* [GitHub Next | GitHub Spark](https://githubnext.com/projects/github-spark/)
+  * 어플리케이션 생성 패러다임을 바꿀 Github Spark
+    * Microsoft가 누구나 프로그래밍이나 배포 지식이 없어도, 미니 웹 앱인 스파크를 만들 수 있는 AI 기반 도구 GitHub Spark 발표
+    * Claude Sonnet 3.5, GPT-4o, o1-preview, o1-mini.를 선택, 자연어 지시를 통해 요구 사항과 선호도에 맞춰 데스크톱/모바일 기기에 미니 웹 앱을 개발 가능
+    * 사용자 아이디어를 쉽게 설명하고 다듬을 수 있는 NL 기반 편집기
+      * 스파크 호스팅하고 데이터 저장, 테마, LLM에 대한 액세스 제공하는 관리되는 런타임 환경
+      * 어디서나 스파크를 관리하고 시작할 수 있는 PWA 지원 대시보드로 구성
+    * 아직 초기 단계이며, 협업 방식, 편집기, 런타임 환경 확장 업데이트를 통하여 어플리케이션의 생성 패러다임을 바꿔나갈 것으로 기대
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
