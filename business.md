@@ -461,6 +461,7 @@ Business
 * [CRM을 활용한 제품 그로스 전략. 단순한 일시적 변화가 아닌, 지속적인 성장 동력 심기 | by Stephan Seunghwan Seo | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/crm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EA%B7%B8%EB%A1%9C%EC%8A%A4-%EC%A0%84%EB%9E%B5-32c04c455ef6)
 * [리디와 함께하는 CRM 여정 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/crm-braze-test)
 * [CRM의 판을 뒤집는 AI, 당신의 비즈니스는 안전하십니까?](https://news.aikoreacommunity.com/ai-transforming-crm-business-risk/)
+* [CRM을 하면서 배운 9가지 사실](https://www.linkedin.com/posts/geonseung-lee-4247a873_crm%EC%9D%84-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-9%EA%B0%80%EC%A7%80-%EC%82%AC%EC%8B%A4-crm-%EB%B6%84%EC%95%BC%EC%97%90%EC%84%9C-%EC%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%81%BC%EA%B3%A0-ugcPost-7247411485801357312-ofFN/)
 * [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
 * [Growth hacking · Present](https://present.do/presentations/616c3fed704425458cfce0f1)
 * [문재인 대통령의 회의 방침](http://agile.egloos.com/5890768)
@@ -876,8 +877,22 @@ Business
 * [더 이상 내게 맞는 회사를 찾지 않게 되었다. 그것보다는 내가 있는 곳을 그렇게 만들려고 했다](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%97%90%EB%8A%94-3%EB%85%84%EC%9D%84-%EB%8B%A4%EB%85%94%EB%8B%A4-%EC%B2%AB-%ED%95%B4%EB%8A%94-%EB%A7%88%EC%B9%A8%EB%82%B4-%EB%82%B4%EA%B0%80-%EC%9E%88%EC%9D%84-%EA%B3%B3%EC%97%90-%EC%99%94%EB%8B%A4%EB%8A%94-%EA%B8%B0%EC%81%A8%EC%9D%84-activity-7257149816688779265-MZsL/)
   * 자신이 다니는 회사를 좋아하는 것은 정말로 즐거운 일이다. 반대로 그러한 마음이 들지 않는다면 어딘가 잘못된 것이다. 원인을 찾고 해결하려고 노력하고, 충분히 노력했다면 다음 길을 찾았으면 한다
   * 회사는 좋은데 팀장이 싫고, 대표가 싫고 하는 것은 있을 수가 없다. 누군가를 좋아한다는 것은 그 사람 전체를 받아들이는 것이다. 어떤 부분만 선택적으로 고를 수 있는 것이 아니다
+* [나는 어떤 상황에서 가장 잘 작동하는가?](https://divercity.stibee.com/p/29/)
+  * [나는 언제 신이 나서 일하는가. 반대로 어떤 경우에 잘 작동하지 않는가?](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%98-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-activity-7253587641156161536-jYwQ/)
+* [3) 깊이 4) 이미 타고난건 5) 결국 성공하는사람? 소프트스킬 6) 한두사람 깊은 관계면 된다](https://www.linkedin.com/posts/eun-jung-anna-joung-57a80b131_30%EB%8C%80-%EC%9D%B4%EB%AF%B8-%EB%AF%B8%EA%B5%AD-%EB%B0%B1%EC%95%85%EA%B4%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EC%82%AC-%EC%95%84%EC%8B%9C%EC%95%84-%EC%B4%9D%EA%B4%84-%ED%95%98%EC%8B%A0%EB%B6%84%EC%9D%98-%EC%9D%B8%EC%83%9D%EC%A1%B0%EC%96%B8-activity-7252816956695724032-LVkq/)
+
 * [불평하지만 떠나지 않는 사람들](https://divercity.stibee.com/p/19/)
   * [완벽한 사람이 없는 것처럼 완벽한 회사도 없다. 불평은 할 수 있다. 문제는 자신이 다니고 있는 회사에 대해서 불평을 계속하지만 정작 떠날 생각은 하지 않는 사람들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B6%88%ED%8F%89%ED%95%98%EC%A7%80%EB%A7%8C-%EB%96%A0%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-activity-7249934039489392640-AHSZ/)
+* [사람은 변하는가, 변하지 않는가](https://divercity.stibee.com/p/24/)
+* [어떻게 자신의 능력을 보여줄것인가?](https://www.linkedin.com/feed/update/urn:li:activity:7251008105751175168/)
+  1. 자신감과 확신으로 말하라
+  2. 자신의 강점에 집중하라
+  3. 질문에는 결론을 먼저, 또 3가지로, 숫자를 사용하여 답하라
+  4. 첫인상을 좋게한다
+  5. 상대의 필요에 집중한다
+  6. 숨고 피하지말고 적극적으로 제안하고 자신의 성과를 표현한다
+  7. 나쁜 소식이나 실패 소식은 틀을 바꾼다
+  * 글쓰기 실력과 발표력은 반드시 길러야한다
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
