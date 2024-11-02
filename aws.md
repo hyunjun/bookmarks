@@ -718,6 +718,7 @@ AWS
   * 또한, 이 기법의 응용 가능성과 개선 방향에 대해서도 설명
 * [AWS 기술 파트너와 함께 구축한 푸드테크 기업 식신의 Amazon Bedrock 기반 AI 대시보드 구축기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sikshin-built-ai-dashboard-with-aws-technology-partners-based-on-amazon-bedrock/)
 * [Voithru의 GPT에서 Amazon Bedrock Claude Sonnet 3.5로의 전환 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/voithru-gpt-to-claude-3/)
+* [모델의 정확도와 품질 향상을 위해 Amazon Bedrock에서 Anthropic’s Claude 3 Haiku 모델 미세 조정하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/fine-tune-anthropics-claude-3-haiku-in-amazon-bedrock-to-boost-model-accuracy-and-quality/)
 * [Clothbox의 Amazon Bedrock을 활용한 AI 패션 스캐너 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/clothbox-ai-fashion-scanner-using-amazon-bedrock/)
 * [Amazon Bedrock을 활용한 AWS Korea YouTube 채널의 숏폼 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-shortform-content-automation/)
 * [GS SHOP 패션 검색의 진화, Amazon Bedrock 멀티모달 기반 패션 검색 시스템 구현 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/gs-shop-bedrock-multi-modal-fashion-search/)
