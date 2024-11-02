@@ -1363,6 +1363,14 @@ SQL
   * LLM 평가 인프라를 만드는 ConfidentAI에서 벡터 데이터베이스인 Pinecone을 쓰다가 PostgreSQL에서 벡터 검색을 지원하는 PGVector로 갈아탄 이유 설명
   * Pinecon은 PoC할 때는 편하지만 데이터 동기화 문제와 벡터랑 용량 제한으로 결국 확장성에 문제 발생
   * PGVector의 경우 HNWS 도입으로 성능이 좋아져서 Pinecone 대체 가능
+* [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
+  * Postgres is a versatile tool that can be used to build a retrieval system with semantic, full-text, and fuzzy search capabilities
+  * The author demonstrates how to combine these techniques: full-text search with tsvector, semantic search with pgvector, and fuzzy matching with pg_trgm, to create a robust search engine within Postgres
+  * The author also discusses the use of Reciprocal Ranked Fusion (RRF) for merging results and the importance of understanding why something matched or not
+  * The author also provides tips on tuning full text search, such as weighing tsvectors and adjusting for length. Additionally, the author suggests reranking with a cross-encoder model and boosting results to improve user experience
+  * The author concludes by mentioning the limitations of Postgres and suggests alternative solutions
+  * [Postgres를 검색엔진으로 활용하기 | GeekNews](https://news.hada.io/topic?id=16468)
+* [벡터 데이터베이스는 잘못된 추상화임 | GeekNews](https://news.hada.io/topic?id=17501) pgai Vectorizer
 * [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * [postgres json 값 가져오기 방법으로 case 절을 리팩토링 해 봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/02/postgres-json-%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-case-%EC%A0%88%EC%9D%84-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [PostgreSQL 모든 View 의 접근 기록 테이블에 적재하기 (애플리케이션 변경 없이)](https://jojoldu.tistory.com/742)
@@ -1432,17 +1440,11 @@ SQL
   * [PostgreSQL와 UUID를 기본 키로 사용하는 것에 대해 | GeekNews](https://news.hada.io/topic?id=15713)
 * [Full Text Search over Postgres: Elasticsearch vs. Alternatives - ParadeDB](https://blog.paradedb.com/pages/elasticsearch_vs_postgres) FTS
   * [Postgres에서의 전문 검색: Elasticsearch vs. 대체제들 | GeekNews](https://news.hada.io/topic?id=16311)
-* [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
-  * Postgres is a versatile tool that can be used to build a retrieval system with semantic, full-text, and fuzzy search capabilities
-  * The author demonstrates how to combine these techniques: full-text search with tsvector, semantic search with pgvector, and fuzzy matching with pg_trgm, to create a robust search engine within Postgres
-  * The author also discusses the use of Reciprocal Ranked Fusion (RRF) for merging results and the importance of understanding why something matched or not
-  * The author also provides tips on tuning full text search, such as weighing tsvectors and adjusting for length. Additionally, the author suggests reranking with a cross-encoder model and boosting results to improve user experience
-  * The author concludes by mentioning the limitations of Postgres and suggests alternative solutions
-  * [Postgres를 검색엔진으로 활용하기 | GeekNews](https://news.hada.io/topic?id=16468)
 * [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
   * [그냥 Postgres 쓰세요 | GeekNews](https://news.hada.io/topic?id=16365)
 * [PostgreSQL: PostgreSQL 17 Released!](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
   * [PostgreSQL 17 출시 | GeekNews](https://news.hada.io/topic?id=16950)
+* [Postgres에서 PDF 전문 검색하기 | GeekNews](https://news.hada.io/topic?id=17535)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
