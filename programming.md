@@ -3323,6 +3323,7 @@ Programming
   * [VidiGo Enabling Microservice Success • Sarah Wells & Sam](https://vidigo.ai/share/summary/f7efa9f7c1f9)
   * [마이크로서비스 성공 지원 - 사라 웰스 & 샘 뉴먼 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/848709)
 * [회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택 | by Seungchan Yuk | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
+* [리더가 MSA 전환을 하자고 했다. 그리고 처참히 실패했다](https://imksh.com/127)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -3733,6 +3734,7 @@ Programming
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
+* [우리 팀에 맞는 VPN 찾기](https://tech.inflab.com/20241031-vpn-history/) AWS Client VPN Firezone Tailscale Netbird
 * [OCI 탐험일지 시작!](https://jhrogue.blogspot.com/2021/11/oci.html)
 * [OCI 탐험 일지 1. 인스턴스 생성](https://jhrogue.blogspot.com/2021/12/oci-1.html)
 * [OCI 탐험 일지 2. 블록 볼륨 생성](https://jhrogue.blogspot.com/2021/12/oci-2.html)
