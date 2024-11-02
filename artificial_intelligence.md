@@ -306,6 +306,7 @@ Artificial Intelligence
 * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
 * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
 * [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
+* [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
@@ -634,6 +635,11 @@ Artificial Intelligence
 * [노벨물리학상 수상자 제프리 힌튼 교수가 말하는 일리야 수츠케버와 AI의 미래](https://maily.so/seanlee/posts/faba58b4)
   * [제프리 힌튼 교수가 지난 4월 영국 왕립연구소에서 진행한 인터뷰를 정리](https://www.linkedin.com/posts/sean-lee-97908319_%EB%85%B8%EB%B2%A8%EB%AC%BC%EB%A6%AC%ED%95%99%EC%83%81-%EC%88%98%EC%83%81%EC%9E%90-%EC%A0%9C%ED%94%84%EB%A6%AC-%ED%9E%8C%ED%8A%BC-%EA%B5%90%EC%88%98%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%9D%BC%EB%A6%AC%EC%95%BC-%EC%88%98%EC%B8%A0%EC%BC%80%EB%B2%84%EC%99%80-ai%EC%9D%98-%EB%AF%B8%EB%9E%98-activity-7252079258079002624-CF-b/)
 * [AI열풍 끝났다?… 판도 바뀌는 버티컬AI의 시대 - 머니투데이](https://news.mt.co.kr/mtview.php?no=2024102317220470605)
+* [생성형 AI의 불편한 골짜기에 대한 고찰 | GeekNews](https://news.hada.io/topic?id=17522)
+* [구글 CEO, "회사내 신규 코드의 4분의 1 이상이 AI로 만들어진다" | GeekNews](https://news.hada.io/topic?id=17516) goose
+* [New generative AI tools open the doors of music creation - Google DeepMind](https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/)
+* [AI로 인해 거부할 수 없는 변화를 맞이하는 기업들 | 비즈니스 스토리텔러](https://v.daum.net/v/VELCq0LKzs)
+  * [AI로 인해 거부할 수 없는 변화를 맞이하는 기업들](https://www.linkedin.com/posts/jimmycho1_ai-transformation-ax-ugcPost-7256201321039421440-oURZ/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -643,6 +649,7 @@ Artificial Intelligence
 * [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
 * [GN#260 지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/weekly/202427)
 * [GN#261 2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/weekly/202428)
+* [GN#277 Gen AI - 빠른 사고에서 느린 사고로, 에이전트 추론의 시대 개막 | GeekNews](https://news.hada.io/weekly/202444)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
@@ -809,6 +816,8 @@ Artificial Intelligence
   * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 - YouTube](https://www.youtube.com/watch?v=8ot_RtamM38)
     * [VidiGo Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한](https://vidigo.ai/share/summary/1588ae9754a7)
     * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883140)
+* [Wonder Dynamics, an Autodesk Company](https://www.autodesk.com/solutions/wonder-dynamics)
+  * [Autodesk, 애니메이션 영화를 위한 AI도구 Wonder Animation 베타 버전 | GeekNews](https://news.hada.io/topic?id=17532)
 
 # Webtoon
 * [Lore Machine](https://www.loremachine.ai/)
