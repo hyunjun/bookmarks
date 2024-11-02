@@ -1449,9 +1449,10 @@ Python
   * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
   * [From a python project to an open source package: an A to Z guide](https://medium.freecodecamp.org/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
   * [How to Prepare and Publish Your First Python Package | by Yong Cui, Ph.D. | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-to-prepare-and-publish-your-first-python-package-85de378b77f6)
+  * [Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI](https://hugovk.github.io/top-pypi-packages/)
+  * [PyCon Korea 2024 Lightning Talk: PyPI패키지를 의심하세요 - Speaker Deck](https://speakerdeck.com/studioego/pycon-korea-2024-lightning-talk-pypipaekijireul-yisimhaseyo)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
     * [practice devpi - private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
-  * [Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI](https://hugovk.github.io/top-pypi-packages/)
 * signal
   * [함수가 완료되는데에 너무 오래 걸릴 때, timeout시키기](https://hashcode.co.kr/questions/2203/%ED%95%A8%EC%88%98%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%8A%94%EB%8D%B0%EC%97%90-%EB%84%88%EB%AC%B4-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%B4-%EB%95%8C-timeout%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * socket
