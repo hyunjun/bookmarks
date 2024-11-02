@@ -6347,6 +6347,8 @@ Programming
 * [The plain-text internet is coming - Protocol](https://www.protocol.com/newsletters/sourcecode/plain-text-sports-internet)
   * [Plain-text 인터넷이 온다 | GeekNews](https://news.hada.io/topic?id=6561)
 * [맥킨지의 기술 트렌드 2024 100p PDF | GeekNews](https://news.hada.io/topic?id=16030)
+* [Thoughtworks Technology Radar, Volume 31 공개 | GeekNews](https://news.hada.io/topic?id=17466)
+  * 테크닉/도구/플랫폼/개발언어 및 프레임워크 분야의 최신 트렌드들을 Hold/Assess/Trial/Adopt 4단계로 시각화 및 설명
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -6878,7 +6880,8 @@ Programming
   * [10월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/10/b-10-1.html)
   * [10월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/10/b-10-2.html)
   * [10월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/10/b-10-3.html)
-  * [B급 프로그래머 10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/10/b-10-4.html)
+  * [10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/10/b-10-4.html)
+  * [10월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/11/b-10-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
