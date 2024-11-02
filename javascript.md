@@ -5775,6 +5775,7 @@ Javascript
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
+  * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
