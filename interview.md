@@ -666,6 +666,8 @@ Interview
   * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
   * [High-Performance Software Load Balancer for Cloud-Native Architecture | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9524915)
   * [8 Load Balancing Algorithms You Must Know for System Design Interview | by Soma | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/8-load-balancing-algorithms-you-must-know-for-system-design-interview-bc0d1440ed42)
+  * [Dropbox의 자체 로드 밸런싱 서비스 Robinhood | GeekNews](https://news.hada.io/topic?id=17525)
+    * [What’s new with Robinhood, our in-house load balancing service - Dropbox](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
 * [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
@@ -1106,6 +1108,7 @@ Interview
   * 그냥 무료로 받는 주식으로 생각하는 경우도 많은데 스타트업에서 스톡옵션을 받게 되었다면 여기서 말하는 "옵션"의 의미와 베스팅, 클리프 등의 개념을 이해하고 실제로 행사할 때 필요한 자금과 세금 관련된 부분을 이해해 두면 아주 유용
 * [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
 * [존잡생각 스톡옵션에 대한 이해](https://www.slid.cc/share/vdocs/%EC%A1%B4%EC%9E%A1%EC%83%9D%EA%B0%81-%EC%8A%A4%ED%86%A1%EC%98%B5%EC%85%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-cbf10ef680bf4f23bf6538c08484d2a4)
+* [스톡옵션, 직접 부여해본 창업자의 가이드 (1): 진정한 동료를 얻는 힘 | 매쉬업벤처스](https://www.mashupventures.co/contents/stock-option-guide-for-founders)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary-well)
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
