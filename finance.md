@@ -173,7 +173,7 @@ Finance
 * 발행어음
   * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw)
   * [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E)
-  * [아무 조건 없이 4.8% 이자로 돈모으는 법, 적금대신 이거 가입합니다 발행어음 쉬운 가입방법 한국투자증권 발행어음 - YouTube](https://www.youtube.com/watch?v=Bel9uHJKoA8&ab_channel=%ED%95%98%EC%B0%AC%EC%86%8C)
+  * [아무 조건 없이 4.8% 이자로 돈모으는 법, 적금대신 이거 가입합니다 발행어음 쉬운 가입방법 한국투자증권 발행어음 - YouTube](https://www.youtube.com/watch?v=Bel9uHJKoA8)
 * ELB
   * [단점까지 알고 활용하세요. - YouTube](https://www.youtube.com/watch?v=BGaCBB7VkNI)
     * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
@@ -190,6 +190,7 @@ Finance
     * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
   * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
   * [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
+  * [S&P500 폭락이요? 오든 말든 이렇게만 사 모으세요｜김동면 작가 풀버전 - YouTube](https://www.youtube.com/watch?v=tgbQDeEUKl0) SPY VOO IVV SPLG / Tiger KODEX ACE / 6:4, 영구, 올웨더 포트폴리오
   * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
   * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
   * ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
@@ -212,6 +213,7 @@ Finance
   * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
   * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
   * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
+  * [시장금리 반등! 지금 미국채권 매수 기회? #미국채권 #채권ETF #ETF추천 ✦ 어떤 ETF 살까? ✦ 투꼰 - YouTube](https://www.youtube.com/watch?v=DxFr2FD-ClA)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
 
@@ -223,6 +225,8 @@ Finance
 * [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
+* [Bigdata.com: your real-time research assistant](https://bigdata.com/)
+  * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
 
