@@ -181,6 +181,8 @@ Sports
   * release point를 올려서 location의 변화를 가져와 구종 자체의 stat은 하락했지만 결과적으로 성적은 상승
   * 세부적인 구종, pitching의 일부분만 볼 때는 안 좋아진 걸로 보이지만, 타자와의 승부 pitch design등 전체적으로 볼 때는 좋은 결과를 만들어냄
   * velocity보다 중요한 건 location, location을 활용하는 pitch design
+* [KBO PS cWPA | KBO 리그 포스트시즌 우승확률 기여도](https://psodds.com/pswpct.html)
+  * [한국시리즈 우승 확률 그래프, 우승 확률 기여도(cWPA) : MLBPARK](https://mlbpark.donga.com/mp/b.php?p=1&b=kbotown&id=202410280098762622&select=&query=&subselect=&subquery=&user=&site=&reply=&source=&pos=&sig=h4aRGftg6hRRKfX2hfjXHl-ALmlq)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
