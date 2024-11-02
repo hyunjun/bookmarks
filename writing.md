@@ -128,6 +128,7 @@ Writing
   * 진정성 인사이트 디테일 유용성 참여유도
 * [Make better documents. - Anil Dash](https://www.anildash.com//2024/03/10/make-better-documents/)
 * [당신의 글에 숨어있는 불필요한 부사들](https://brunch.co.kr/@cliche-cliche/241)
+* [글을 쓰는 사람과 그렇지 않은 사람 | GeekNews](https://news.hada.io/topic?id=17452)
 
 # App
 * latex
