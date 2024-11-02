@@ -181,6 +181,10 @@ Java
 * [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz - YouTube](https://www.youtube.com/watch?v=bKwzONOGLxs)
   * [VidiGo Devoxx Greece 2024 - Java Language Update -- a loo](https://vidigo.ai/share/summary/9e4184b9e8d6)
   * [Devoxx Greece 2024 - Java 언어 업데이트 - Brian Goetz의 언어가 나아갈 방향 살펴보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585507)
+* [Seeing through hardware counters: a journey to threefold performance increase | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
+  * [Netflix에서는 Java를 쓰는 사람들이 로우 레벨 최적화에도 귀신](https://www.linkedin.com/posts/spike-jee-480225a_seeing-through-hardware-counters-a-journey-activity-7256385469842612224-B1Q6/)
+  * [Cache invalidation really is one of the hardest problems in computer science – Surfing Complexity](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
+  * [marselester's blog - Performance](https://marselester.com/category/performance.html)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -355,6 +359,9 @@ Java
   * [JDBC url의 serverTimezone 속성에 대해 알아보기](https://kim-jong-hyun.tistory.com/132)
   * [10분 테코톡 코코닥의 JDBC - YouTube](https://www.youtube.com/watch?v=ONYVhJGl48U)
   * [Spring JDBC 성능 문제, 네트워크 분석으로 파악하기](https://toss.tech/article/engineering-note-7)
+  * [JDBC setReadOnly 호출 이슈 해결기](https://tech.inflab.com/20240901-jdbc-set-readonly-issue/)
+    * AWS Advanced JDBC Wrapper 드라이버를 사용하면서 간혈적으로 터지는 오류를 하나하나 추적해나가는 과정을 기술 블로그로 정리
+    * JVM 경력이 거의 없는 Node.js 개발자들끼리 IntelliJ IDEA와 네이버 핀포인트 모니터링 도구를 통해 차근차근 드라이버 문제에 접근하고 해결 진행
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
     * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
