@@ -963,6 +963,7 @@ App
     * [Neovim을 떠나 Zed로 옮겨갑니다 | GeekNews](https://news.hada.io/topic?id=16370)
   * [Introducing Zed AI](https://zed.dev/blog/zed-ai)
     * [Zed AI 공개 (with Anthropic) | GeekNews](https://news.hada.io/topic?id=16398)
+  * [Zed 에디터, SSH Remote 기능 지원 | GeekNews](https://news.hada.io/topic?id=17529)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
