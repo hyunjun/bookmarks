@@ -720,6 +720,7 @@ Git
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
   * [Jeremy's Blog | 우리 팀에 맞는 Git Branch 전략 선택하기](https://sungjk.github.io/2023/02/20/branch-strategy.html)
   * [Git Branch 전략 제안](https://lee-lou2.notion.site/Git-Branch-78a65eecaa2d4070ad19221681a96a00)
+  * [개발팀을 위한 Git branch 전략, 정답 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2827/)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
   * [**메시징 서버 개발 프로세스 개선**](https://engineering.linecorp.com/ko/blog/improving-the-messaging-server-development-process)
   * create new branch
