@@ -367,6 +367,7 @@ Business
 * [실리콘밸리 거물의 깨달음, “성공은 찐-우정에서 나오더라”](https://nosettling.notion.site/04f6ebdc78364de29c84497971cf2bdb)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
+* [Hyungsuk Kim - 페이스북을 다니면서 가장 많이 느꼈던 것은 많은 결정들이 일관되고 합리적이라는 것이다.... | Facebook](https://www.facebook.com/hyungsuk.kim.7/posts/pfbid0LmWEo2xekL7Ej7o5RRtvPwBGb4DrpCfxYQ8wizwDpcvVCKv152ee8uvuEUYfCFoql) 그렇게 일하는 것이 더 '효율적이라' 생각하기 때문
 * [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
 * [조금은 빈둥거려도 괜찮다. 부제. 조직과 개인의 존속에 꼭 필요한것은 비효율이다](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EA%B8%88%EC%9D%80-%EB%B9%88%EB%91%A5%EA%B1%B0%EB%A0%A4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A1%B0%EC%A7%81%EA%B3%BC-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%A1%B4%EC%86%8D%EC%97%90-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C%EA%B2%83%EC%9D%80-%EB%B9%84%ED%9A%A8%EC%9C%A8%EC%9D%B4%EB%8B%A4-activity-7022365977531076608-ie1X/) slack 여유
 * [프로젝트의 방해꾼, 조급함](https://brunch.co.kr/@drunkensky/328)
@@ -872,6 +873,11 @@ Business
   * [하버드 MBA에서 가장 먼저 가르치는 '이 방법' 디커플링 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438021)
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
 * [HR insight 성공하는 임원이 되는 10가지 방법](https://www.nterway.com/magazine/view.asp?gubun=report&idx=110&Gotopage1=1)
+* [더 이상 내게 맞는 회사를 찾지 않게 되었다. 그것보다는 내가 있는 곳을 그렇게 만들려고 했다](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%97%90%EB%8A%94-3%EB%85%84%EC%9D%84-%EB%8B%A4%EB%85%94%EB%8B%A4-%EC%B2%AB-%ED%95%B4%EB%8A%94-%EB%A7%88%EC%B9%A8%EB%82%B4-%EB%82%B4%EA%B0%80-%EC%9E%88%EC%9D%84-%EA%B3%B3%EC%97%90-%EC%99%94%EB%8B%A4%EB%8A%94-%EA%B8%B0%EC%81%A8%EC%9D%84-activity-7257149816688779265-MZsL/)
+  * 자신이 다니는 회사를 좋아하는 것은 정말로 즐거운 일이다. 반대로 그러한 마음이 들지 않는다면 어딘가 잘못된 것이다. 원인을 찾고 해결하려고 노력하고, 충분히 노력했다면 다음 길을 찾았으면 한다
+  * 회사는 좋은데 팀장이 싫고, 대표가 싫고 하는 것은 있을 수가 없다. 누군가를 좋아한다는 것은 그 사람 전체를 받아들이는 것이다. 어떤 부분만 선택적으로 고를 수 있는 것이 아니다
+* [불평하지만 떠나지 않는 사람들](https://divercity.stibee.com/p/19/)
+  * [완벽한 사람이 없는 것처럼 완벽한 회사도 없다. 불평은 할 수 있다. 문제는 자신이 다니고 있는 회사에 대해서 불평을 계속하지만 정작 떠날 생각은 하지 않는 사람들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B6%88%ED%8F%89%ED%95%98%EC%A7%80%EB%A7%8C-%EB%96%A0%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-activity-7249934039489392640-AHSZ/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -2608,8 +2614,16 @@ Business
   * [Fit은 조직/직무 적합성이라고 이야기하는 경우가 많은데, 저는 Fit을 판단할 때 '가치관'과 '성격', 두 가지로 나눠서 접근](https://www.linkedin.com/posts/kangminlee_fit%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EA%B7%B8%EB%83%A5-%EB%91%90%EB%A3%A8%EB%AD%89%EC%8B%A4%ED%95%98%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%A7%81%EB%AC%B4-%EC%A0%81%ED%95%A9%EC%84%B1%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EA%B0%80-activity-7218165781627355136-2aL6/)
 * ["2500년"동안 단 한번도 바뀌지 않은 '3가지' 성공법칙 (임용한 박사 3부) - YouTube](https://www.youtube.com/watch?v=1ZLpzOj3toA) 삼국지를 통해 trust 등 여러가지를 이야기함
 * [위임 못하는 리더의 숨겨진 속마음 - 질투심](https://brunch.co.kr/@alden/79)
+* [이승현 - #사사건건반대를하는직원 분명 실력은 있는데, 나름대로 노력은 하는데, 리더와는 초점이 맞지 않는 직원.... | Facebook](https://www.facebook.com/puco21/posts/pfbid02F7DWsemZGziHwvWEpVmxXdCBBULmmqshyoCM3RXa7q8U1EfHP1ymjdDPGFonzmiTl) 위임의 기술
 * [리더들의 스몰 토크(Small Talk)가 중요한 진짜 이유 | H.PODCAST Upzen 한기용 2부 - YouTube](https://www.youtube.com/watch?v=OwiaF_9uIJk)
 * [조직 내 또 다른 썩은 사과 이야기](https://brunch.co.kr/@expnote/125)
+* [좋은 리더에 대한 생각](https://www.linkedin.com/posts/minwoong-seo-539a5386_2010%EB%85%84-%EB%B6%80%ED%84%B0-%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8-%EB%8B%B9%EB%A9%B4%ED%95%9C-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0-%ED%95%98%EB%8B%A4%EB%B3%B4%EB%8B%88-%EC%96%B4%EB%8A%90%EC%83%88-%EB%A6%AC%EB%8D%94%ED%8C%80%EC%9E%A5%EB%A5%BC-activity-7254720745979691008-gPBA/)
+* [고객이 원하는 제안서](https://www.linkedin.com/feed/update/urn:li:activity:7257616217618698240/)
+  * 제안서에는 고객이 얻는 혜택을 강조
+  * 제안서 리뷰 시 제안 PM은 고객에 빙의
+* [언젠가 리더가 되면 꼭 해 보고 싶었던 것들](https://divercity.stibee.com/p/33/)
+  * [언젠가 리더가 되면 꼭 해 보고 싶었던 것들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%96%B8%EC%A0%A0%EA%B0%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%97%88%EB%8D%98-%EA%B2%83%EB%93%A4-activity-7255006321207332864-k63d/)
+* [(2) 원병묵 - 무엇보다 사람 먼저, 그 다음 연구입니다! “저는 먼저 사람에게 우선하고 그 다음에 과학 연구를 하는 법을... | Facebook](https://www.facebook.com/bmweon/posts/pfbid0e9jSr4g1TMVJHomNMsjTvotdumJykiFwhpnVK6FgnJBgw4cgkD9kRpWwMkHosvm2l)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2834,6 +2848,8 @@ Business
 * [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
 * [팀의 이번 분기 목표는 무엇인가요?. 5초 만에 대답해 보세요. | by Stephan Seunghwan Seo | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9D%98-%EC%9D%B4%EB%B2%88-%EB%B6%84%EA%B8%B0-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-22c2130a59f1)
 * [팀장이 실무와 매니징 하면서 너무 버거울때 (feat. 제갈량) | by Joon Won Lee | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5%EC%9D%B4-%EC%8B%A4%EB%AC%B4%EC%99%80-%EB%A7%A4%EB%8B%88%EC%A7%95-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%84%88%EB%AC%B4-%EB%B2%84%EA%B1%B0%EC%9A%B8%EB%95%8C-feat-%EC%A0%9C%EA%B0%88%EB%9F%89-691aa609c43f)
+* [우리가 익히 알고 있는 관리 방법론이 틀릴 수도 있다](https://www.linkedin.com/posts/jaehun-kim-7a885ba4_%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%9D%B5%ED%9E%88-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9D%B4-%ED%8B%80%EB%A6%B4-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8B%A4-%EA%B0%80%EB%81%94-%EB%A8%B8%EB%A6%BF%EC%86%8D%EC%97%90-activity-7256087770966761472-7_rN/)
+  * 고용 구조가 유연하지 않은 한국과 같은 기업 환경에서 뛰어난 구성원에 집중하는 조직은 잘 굴러가지도 않을 뿐더러 지속 가능하지 않다
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -3286,6 +3302,7 @@ Business
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 1편. BX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-1/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 2편. UX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-2/)
 * [알라미에서 DAU를 분석하는 방법. Active User를 늘리고 싶다면, 이것부터 체크하세요! | by Leo Yang | DelightRoom | Sep, 2024 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8%EC%97%90%EC%84%9C-dau%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e8dee9dd7240)
+* [시장수요가 무조건 존재하는 프로덕트를 만드는 방법 · 사실, 프로덕트 기획 전에 이미 게임은 끝났다 · 대표가 풀타임 PM을 해야 하는 이유](https://www.linkedin.com/posts/shndon0220_%EC%8B%9C%EC%9E%A5%EC%88%98%EC%9A%94%EA%B0%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%82%AC%EC%8B%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-activity-7257613344080044032-Ye3h/) 고객을 탐구하는 문화를 팀 전반에 심어라
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -3402,6 +3419,9 @@ Business
   * It can be used with any methodology and avoids pitfalls such as endlessly shifting deadlines, low team morale, and becoming a feature factory
 * [업무용 툴, 내 동료가 정말 만족했나요?](https://toss.tech/article/tablecenter)
 * [IT업계에서 기획자와 PM, PO에 대한 정의는 여전히 모호](https://www.linkedin.com/posts/%EC%9A%B0%EC%98%81-%EC%8B%A0-0772a1112_it%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%99%80-pm-po%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EC%9D%98%EB%8A%94-%EC%97%AC%EC%A0%84%ED%9E%88-%EB%AA%A8%ED%98%B8%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-activity-7229527948284862465-TQSm/)
+* [모두가 알지만 누구도 제대로 쓰지 못하는, PRD | 요즘IT](https://yozm.wishket.com/magazine/detail/2826/)
+* [학습과 성장 컨퍼런스 2024의 연사진 소개](https://puddingcamp.com/meetups/conference2024/speakers/kwaan)
+  * [권준호+-+어딜가나+PRD를+얘기하는+사람+-+학습과+성장+컨퍼런스+2024.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://s3.ap-northeast-2.amazonaws.com/pudding.camp/static/conference/2024/%E1%84%80%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A9+-+%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%86%AF%E1%84%80%E1%85%A1%E1%84%82%E1%85%A1+PRD%E1%84%85%E1%85%B3%E1%86%AF+%E1%84%8B%E1%85%A4%E1%84%80%E1%85%B5%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB+%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7+-+%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%80%E1%85%AA+%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC+%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%91%E1%85%A5%E1%84%85%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3+2024.pdf)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -3486,6 +3506,8 @@ Business
   * 6. 개발에 집중할 수 있도록 한다
   * 7. 완료 후, 어떻게 쓰이고 있는지 공유한다. (지표변화, 사용자피드백)
 * [기획자, PM, PO는 어떻게 다를까?](https://divercity.stibee.com/p/7/) 공감하는 면도 있고 아닌 면도 있음
+* [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://divercity.stibee.com/p/30/)
+  * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%84%A4-%EB%AA%85%EC%9D%98-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%88%84%EA%B5%AC%EC%97%90%EA%B2%8C-%EC%96%B4%EB%96%A4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EB%A7%A1%EA%B8%B0%EB%8A%94%EA%B0%80-activity-7253961821169016832-iuLp/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -4047,6 +4069,18 @@ Business
 * [‘스타트업 창업자=경영자’ 공식, 맞는 걸까? < Wheel of Fortune < Magazine < 기사본문 - 포춘코리아 디지털 뉴스](https://www.fortunekorea.co.kr/news/articleView.html?idxno=42979)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
+* [스타트업을 컨설팅하며 느낀 것](https://divercity.stibee.com/p/37/)
+  * [스타트업을 컨설팅하며 느낀 것](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%BB%A8%EC%84%A4%ED%8C%85%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EA%B2%83-activity-7256514984438816771-GwuE/)
+    3. 모든 구성원이 바라보는 숫자가 있어야 한다
+      * 목표의 3원칙은 매우 간단 1) 언제까지 2) 무엇을 3) 얼마나 달성하는가
+      * 그 숫자를 달성하지 못했을 때 어떤 일이 발생... 만약 아무 일도 발생하지 않는다면 그 숫자는 중요한 숫자가 아니고, 아마 달성하지도 못하게 될 것
+    4. 핵심과제와 우선순위가 정리되어 있는가?
+      * 우선순위 설정은 1) 리소스와 2) Impact 두 가지 기준
+      * 전사 단위의 핵심과제와 우선순위는 1장으로 정리되어, 모두가 언제라도 볼 수 있도록 해야
+    7. 구성원에 대한 이해가 필요
+      * 결국 일은 사람이 하는 것
+      * 같이 하는 사람을 이해, 잘 하는 사람을 알아보고, 누구와 같이 일하고 싶은가에 대해서 계속해서 생각을 하는 과정에서 회사의 정체성 형성
+      * 그리고 그러한 정체성을 바탕으로 강한 팀, 일하는 방식 구체화, 마침내 성과
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
