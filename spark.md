@@ -958,6 +958,7 @@
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 * [**New Pandas UDFs and Python Type Hints in the Upcoming Release of Apache Spark 3.0™**](https://databricks.com/blog/2020/05/20/new-pandas-udfs-and-python-type-hints-in-the-upcoming-release-of-apache-spark-3-0.html)
+* [An Introduction to Pandas UDFs in PySpark | by Suffyan Asad | Medium](https://medium.com/@suffyan.asad1/an-introduction-to-pandas-udfs-in-pyspark-a0a512bd00e2)
 * [How to create a simple ETL Job locally with PySpark, PostgreSQL and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d)
 * [Data Collab Lab: Automate Data Pipelines with PySpark SQL - YouTube](https://www.youtube.com/watch?v=QpVsP9Y7qIg)
 * [Data Quality: Especially important with the medallion architecture with PySpark data testing - YouTube](https://www.youtube.com/watch?v=mZ33PJzJtlw)
