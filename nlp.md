@@ -1188,6 +1188,7 @@ NLP
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [open-prompt](https://github.com/smarteasy/open-prompt/)
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
   * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
@@ -2329,6 +2330,7 @@ NLP
     * [ZombAIs - Claude Computer Use의 프롬프트 인젝션에서 C2(지휘통제) | GeekNews](https://news.hada.io/topic?id=17454)
     * [Claude Computer Use - Vision은 궁극의 API인가? | GeekNews](https://news.hada.io/topic?id=17451)
   * [MAC Claude APP 만들어서 사용하는 방법](https://newstars.cloud/593)
+  * [Anthropic, 데스크탑용 Claude AI 앱 베타버전 공개 | GeekNews](https://news.hada.io/topic?id=17528)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
