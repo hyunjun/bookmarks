@@ -307,8 +307,6 @@ AWS
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
-* [테스트 주도 보안으로 DevSecOps 도입 가속화 하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
-* [AWS 개발자 도구를 활용한 사전 코드 보안 점검 파이프라인으로 Shift-Left 구현 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/code-seucirty-check-pipeline-with-aws-developer-tools/) DevSecOps
 * [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1500)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
@@ -396,7 +394,6 @@ AWS
 * [HPC 클러스터를 구성하는 핵심요소, AWS EC2 인스턴스 소개 1부: CAE 워크로드에 따른 EC2 인스턴스 선택 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc_cluster_ec2_1/)
 * [HPC 클러스터를 구성하는 핵심요소, AWS EC2 인스턴스 소개 2부: EC2 인스턴스가 고성능을 보장하는 이유 및 EC2 인스턴스의 구매 옵션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc_cluster_ec2_2/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
-* [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
 * [Amazon QuickSight를 사용하여 SaaS 환경을 위한 멀티테넌트 애플리케이션 지원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/support-multi-tenant-applications-for-saas-environments-using-amazon-quicksight/)
 * [**Blux(구 Z.Ai)의 Amazon EKS 기반 AWS SaaS 아키텍처 주요 패턴 적용 사례** | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blux-adopting-aws-saas-architecture/)
@@ -481,7 +478,6 @@ AWS
 * [How To Parse JSON Parameters Stored In AWS Parameter - DevOpsDice](https://devopsdice.com/how-to-parse-json-parameters-stored-in-aws-parameter/)
 * [입 개발 AWS InstanceProfileCredentialsProvider 사용시 주의 할 점. | Charsyam's Blog](https://charsyam.wordpress.com/2023/02/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-aws-instanceprofilecredentialsprovider-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90/)
 * [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서 by 김은수님 - AWSKRUG 프론트엔드 소모임 221207 - YouTube](https://www.youtube.com/watch?v=M6njEpzPicE)
-* [보안/인증 AWS Nitro Enclave를 이용하여 안전하게 고객 정보 다루기 | 김주형, 해치랩스 - YouTube](https://www.youtube.com/watch?v=bwqCTOUj1ks)
 * [AWS를 사용하기 위한 인증 방법 | Dev.Inn](https://devinn.dev/blog/detail.html?id=264)
 * [데이터 레이크하우스 by 김정희님 - AWSKRUG 구로디지털 #gudi 소모임 221114 - YouTube](https://www.youtube.com/watch?v=zmdqPExZxRo)
 * [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(1) | Cloud Villains](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-ed2198632af1)
@@ -522,14 +518,11 @@ AWS
 * [Generative AI Solutions in AWS Marketplace](https://aws.amazon.com/marketplace/solutions/machine-learning/generative-ai)
 * [AWS Top3 Tech Trend Session 02 : Gen AI 애플리케이션 구축 및 사례 소개 - YouTube](https://www.youtube.com/watch?v=2dw6tmO4MEQ) bedrock, sagemaker
 * [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
-* [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
-* [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
 * [VoD 및 Live 환경에서의 광고 개인화 서비스 구성 및 요청 흐름 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-live-ad-personalization-with-mediatailor/) AWS Elemental Mediatailor
 * [Accelerate, protect and make dynamic workloads delivery cost efficient with Amazon CloudFront | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
   * [Amazon CloudFront를 활용하여 비용 효율적으로 동적 워크로드 전송을 가속화하고 보호하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
 * [AI/ML을 기반으로 한 서버리스 라이브 스트리밍/VOD 서비스 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-serverless-live-streaming-vod-service-based-on-aiml/) Elemental
 * [모든 AWS API 엔드포인트에서 TLS1.2가 최소 TLS 프로토콜 레벨로 변경 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/tls-1-2-required-for-aws-endpoints/)
-* [AWS Security Hub 필터링 결과를 관리자에게 보내는 CloudFormation 템플릿 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/aws-security-hub-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B3%B4%EB%82%B4%EB%8A%94-cloudformation-%ED%85%9C%ED%94%8C%EB%A6%BF-c742c42f977d)
 * [효율적인 AWS CloudTrail 검색을 위한 데이터 파이프 라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloudtrail-convert-json-to-parquet/)
 * [AWS Entity Resolution 정식 출시 – 앱 및 데이터 스토어 관련 레코드 매칭 워크플로 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
 * [New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
@@ -549,7 +542,6 @@ AWS
 * [Cloud-Computing in the Post-Serverless Era: Current Trends and beyond - InfoQ](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 * [AWS Signer를 사용하여 컨테이너 이미지 빌드 파이프라인을 보호하기 위한 모범 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/)
 * [AWS Config란?](https://www.smileshark.kr/post/aws-config)
-* [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
 * [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 * [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
@@ -2650,6 +2642,14 @@ AWS
   * [Besom and Smithy4s on AWS - Scala 3 good vibes only](https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws)
 
 # Security
+* [테스트 주도 보안으로 DevSecOps 도입 가속화 하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
+* [AWS 개발자 도구를 활용한 사전 코드 보안 점검 파이프라인으로 Shift-Left 구현 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/code-seucirty-check-pipeline-with-aws-developer-tools/) DevSecOps
+* [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
+* [보안/인증 AWS Nitro Enclave를 이용하여 안전하게 고객 정보 다루기 | 김주형, 해치랩스 - YouTube](https://www.youtube.com/watch?v=bwqCTOUj1ks)
+* [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
+* [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
+* [AWS Security Hub 필터링 결과를 관리자에게 보내는 CloudFormation 템플릿 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/aws-security-hub-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B3%B4%EB%82%B4%EB%8A%94-cloudformation-%ED%85%9C%ED%94%8C%EB%A6%BF-c742c42f977d)
+* [인터넷에 노출된 자격증명 탐지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-exposed-security-credential/)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
 * [AWS 보안 점검 및 보안 설정 가이드](https://rogue-gouda-f87.notion.site/AWS-de0b5749d03b464ea2e555cba3974d0b)
@@ -2673,6 +2673,8 @@ AWS
 * [LLM 에 대한 OWASP Top 10을 사용하여 생성형 AI 애플리케이션을 위한 심층적인 방어 보안 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/)
 * [AWS 계정에 있는 모든 Security Group을 한방에 조사하는 방법 - HBsmith](https://blog.hbsmith.io/aws-%EA%B3%84%EC%A0%95%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AA%A8%EB%93%A0-security-group%EC%9D%84-%ED%95%9C%EB%B0%A9%EC%97%90-%EC%A1%B0%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e2253253469c)
 * [효과적인 위협 모델링을 수행하기 위한 제언 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-approach-threat-modeling/)
+* [인터파크트리플의 보안 가시성 확보를 위한 SIEM 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/int-siem-on-aws/)
+  * [AWS 기술 블로그에 인터파크트리플 보안팀에서 보안 모니터링 시스템 (SIEM)을 만드는 프로젝트 진행](https://www.linkedin.com/posts/%EB%8F%99%ED%98%84-%EC%9D%B4-82826a124_%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%ED%8A%B8%EB%A6%AC%ED%94%8C%EC%9D%98-%EB%B3%B4%EC%95%88-%EA%B0%80%EC%8B%9C%EC%84%B1-%ED%99%95%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-siem-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-amazon-activity-7255088974078038018-zA9s/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
