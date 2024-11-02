@@ -35,8 +35,6 @@ Finance
 * [**중국의 페이할부결제, 한국에서도 유행할까?**](https://brunch.co.kr/@windydog/290)
 * [AI 자산운용 보고서](https://brunch.co.kr/@qraft/7) 자산운용 방식 변화에 대한 흐름 설명
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language | by Yakko Majuri | Aug, 2020 | Noteworthy - The Journal Blog](https://blog.usejournal.com/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569)
-* [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
-* [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
 * [미국주식 '기업/산업 리포트 찾는 방법' 총정리! - 한강뷰가 사용하는 방법은? : 네이버 블로그](https://m.blog.naver.com/tete2002/222315925394)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
@@ -130,46 +128,17 @@ Finance
   * 버핏지수 = 주가 / 국가 GDP
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
-* [SPY, QQQ 너무 뻔하다고? 미국 ETF 무시하면 큰일 납니다 - YouTube](https://www.youtube.com/watch?v=SrLOz2qYspA) DIA(다우존스산업평규, 월배당) IWM(러셀2000), XLF(대형은행, 연배당), KRE(지역은행)
 * [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
-* [ETF도 구관이 명관? 특이한거 찾다가 골로 갑니다 - YouTube](https://www.youtube.com/watch?v=65zVIy1Y_fk) JO ARKK AMOM APPL BRKb(버크셔 헤서웨이 B주) JNJ(존슨앤존슨, 배당)
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀 주식계좌 개설 꿀팁과 11가지 종목 - YouTube](https://www.youtube.com/watch?v=vxTV54VC-NE)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
 * [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
 * [개미들만 모르는 증권사 리포트 읽는 법](https://blog.toss.im/article/desperate-shareholders-07)
-* [Invest Helper](https://investhelper.ml/) 한국 ETF 위주
-* [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
-* [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
-* [(주식) 미국 주식 입문자들을 위한 ETF 간단 소개](https://pgr21.com/freedom/92619) IVV, VOO, SPLG, VTI, QQQ, SMH, XLF, XLV, ...
-* [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
-  * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
-* [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
-* [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
 * [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
 * [이 좋은 걸 왜 지금에서야…퇴직연금 묵혀둔 직장인 희소식 | 한국경제](https://www.hankyung.com/article/202410078863i)
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
-* [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
-* [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
-* ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
-* [광고❌ "안전한데 금리 높은 상품은 없나요?" 있더라고요..⭐️ 파킹통장보다 더 좋은 상품 추천 - YouTube](https://www.youtube.com/watch?v=TB_-fIbP5Xc) 금리형 ETF
-  * 금리에 비례하여 주가가 상승하는 금융상품
-  * 금리가 높을수록 수익률이 좋아지며, 예금자 보호가 되지 않지만 원금 손실 저위험
-  * 한도가 없어 자유롭게 투자
-  * CD금리나 코퍼금리 등 주제에 따라 CD금리 ETF와 코퍼금리 ETF 두 가지 종류 소개
-* [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. - YouTube](https://www.youtube.com/watch?v=VHi2L0TVVY4)
-  * [VidiGo 국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다..mp4](https://vidigo.ai/share/summary/6769c0119094)
-  * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907084)
-* [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF - YouTube](https://www.youtube.com/watch?v=ANFXn_Ne5pE)
-  * [VidiGo 월배당ETF 63개 총정리 해봤어요ㅣETF.mp4](https://vidigo.ai/share/summary/3e6ad61a4c10)
-  * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907204)
-* ["이 방법만 지킨다면 절대 잃지 않아요" 여러분 모두 10% 이상씩 할 수 있습니다. 저만 믿고 따라와 주세요. (재테크 금쪽이) - YouTube](https://www.youtube.com/watch?v=qUREouynB68)
-  * 10% 이상의 수익 보장
-  * 사람들이 재무 목표를 설정하고, 저축과 투자의 균형을 유지하는 방법을 배울 수 있도록 도움
-  * 적당한 수익을 얻기 위해 예적금과 ETF 투자가 안전하고 효율적인 방법이라고 언급
-  * 200 ETF를 구매하는 방법과 일정한 투자의 중요성에 대해 설명
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)
@@ -187,16 +156,12 @@ Finance
 * [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
 * [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
 * [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
-* [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw) 발행어음
-* [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E) 발행어음
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
 * [💵 미국채권을 직접 사는 방법ㅣ개별채권 - YouTube](https://www.youtube.com/watch?v=QNB14iUQ9T8)
 * [미국채 투자, 내가 이제부터 적극적으로 매수하려는 이유 (ft. TLT, TMF, ACE미국30년국채액티브) - YouTube](https://www.youtube.com/watch?v=UZWW92e-0jU)
 * [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg)
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
-* [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
-* [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
 * [내년 상반기부터 10만원부터 살 수 있는 ‘개인 전용 국채’ 투자법](https://v.daum.net/v/20230905151547160)
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
@@ -205,10 +170,50 @@ Finance
 * ["사람들이 몰라서 잘 안해요" 직장 다니시는 분들은 무조건 이 통장으로 2천만원 이상 받아가세요. (해커스 금융 일타강사 송영욱) - YouTube](https://www.youtube.com/watch?v=gAQ_eNCGNoc) 연금저축 IRP
 * 국민연금 ["제발 속지마세요." 이것 모르면 피같은 내 돈 '전부' 사라질 겁니다. (이영주 대표 1부) - YouTube](https://www.youtube.com/watch?v=mXYlYCdbBC8)
 * [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
+* 발행어음
+  * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw)
+  * [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E)
+  * [아무 조건 없이 4.8% 이자로 돈모으는 법, 적금대신 이거 가입합니다 발행어음 쉬운 가입방법 한국투자증권 발행어음 - YouTube](https://www.youtube.com/watch?v=Bel9uHJKoA8&ab_channel=%ED%95%98%EC%B0%AC%EC%86%8C)
 * ELB
   * [단점까지 알고 활용하세요. - YouTube](https://www.youtube.com/watch?v=BGaCBB7VkNI)
     * [단점까지 알고 활용하세요. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/913898)
-* [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
+* ETF
+  * [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
+  * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
+  * [SPY, QQQ 너무 뻔하다고? 미국 ETF 무시하면 큰일 납니다 - YouTube](https://www.youtube.com/watch?v=SrLOz2qYspA) DIA(다우존스산업평규, 월배당) IWM(러셀2000), XLF(대형은행, 연배당), KRE(지역은행)
+  * [ETF도 구관이 명관? 특이한거 찾다가 골로 갑니다 - YouTube](https://www.youtube.com/watch?v=65zVIy1Y_fk) JO ARKK AMOM APPL BRKb(버크셔 헤서웨이 B주) JNJ(존슨앤존슨, 배당)
+  * [Invest Helper](https://investhelper.ml/) 한국 ETF 위주
+  * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
+  * [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
+  * [(주식) 미국 주식 입문자들을 위한 ETF 간단 소개](https://pgr21.com/freedom/92619) IVV, VOO, SPLG, VTI, QQQ, SMH, XLF, XLV, ...
+  * [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
+    * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
+  * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
+  * [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
+  * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
+  * [워런 버핏 ETF, 자녀에게 꼭 사줘야 하는 이유 (ft. 반짝반짝 KBSTAR ETF) - YouTube](https://www.youtube.com/watch?v=unSl_ijG5hE)
+  * ["이게 가장 좋아보이네요" 금리형 ETF 9개 완벽 비교분석🔥 - YouTube](https://www.youtube.com/watch?v=Fz_DRTvdN1s)
+  * [광고❌ "안전한데 금리 높은 상품은 없나요?" 있더라고요..⭐️ 파킹통장보다 더 좋은 상품 추천 - YouTube](https://www.youtube.com/watch?v=TB_-fIbP5Xc) 금리형 ETF
+    * 금리에 비례하여 주가가 상승하는 금융상품
+    * 금리가 높을수록 수익률이 좋아지며, 예금자 보호가 되지 않지만 원금 손실 저위험
+    * 한도가 없어 자유롭게 투자
+    * CD금리나 코퍼금리 등 주제에 따라 CD금리 ETF와 코퍼금리 ETF 두 가지 종류 소개
+  * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. - YouTube](https://www.youtube.com/watch?v=VHi2L0TVVY4)
+    * [VidiGo 국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다..mp4](https://vidigo.ai/share/summary/6769c0119094)
+    * [국내상장 월배당 ETF 6월 67개 종목 분배금과 수익률을 분석했습니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907084)
+  * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF - YouTube](https://www.youtube.com/watch?v=ANFXn_Ne5pE)
+    * [VidiGo 월배당ETF 63개 총정리 해봤어요ㅣETF.mp4](https://vidigo.ai/share/summary/3e6ad61a4c10)
+    * [🗓️ 월배당ETF 63개 총정리 해봤어요ㅣETF | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/907204)
+  * ["이 방법만 지킨다면 절대 잃지 않아요" 여러분 모두 10% 이상씩 할 수 있습니다. 저만 믿고 따라와 주세요. (재테크 금쪽이) - YouTube](https://www.youtube.com/watch?v=qUREouynB68)
+    * 10% 이상의 수익 보장
+    * 사람들이 재무 목표를 설정하고, 저축과 투자의 균형을 유지하는 방법을 배울 수 있도록 도움
+    * 적당한 수익을 얻기 위해 예적금과 ETF 투자가 안전하고 효율적인 방법이라고 언급
+    * 200 ETF를 구매하는 방법과 일정한 투자의 중요성에 대해 설명
+  * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
+  * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
+  * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
+* ETN
+  * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
 
 # Artificial Intelligence AI
 * [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
