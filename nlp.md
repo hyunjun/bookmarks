@@ -391,6 +391,8 @@ NLP
 * [카카오의 스팸 메일 대응 전략: 문자열 변형 CASE STUDY / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/624) spam
 * [Embedding.io - 모든 웹사이트를 LLM을 위한 지식창고로 전환하기 | GeekNews](https://news.hada.io/topic?id=16137)
   * [Turn websites into knowledge bases | Embedding.io](https://www.embedding.io/)
+* [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
+  * [임베딩 기술은 저평가 되었음 | GeekNews](https://news.hada.io/topic?id=17545)
 * [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
   * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
 * [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
@@ -4303,6 +4305,7 @@ NLP
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
   * [Welcome! | Pipecat](https://pipecat.ai/)
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
+  * [Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech | GeekNews](https://news.hada.io/topic?id=17564)
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
   * [Baum-Welch Algorithm - ratsgo's speechbook](https://ratsgo.github.io/speechbook/docs/am/baumwelch)
