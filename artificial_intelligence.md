@@ -640,6 +640,7 @@ Artificial Intelligence
 * [New generative AI tools open the doors of music creation - Google DeepMind](https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/)
 * [AI로 인해 거부할 수 없는 변화를 맞이하는 기업들 | 비즈니스 스토리텔러](https://v.daum.net/v/VELCq0LKzs)
   * [AI로 인해 거부할 수 없는 변화를 맞이하는 기업들](https://www.linkedin.com/posts/jimmycho1_ai-transformation-ax-ugcPost-7256201321039421440-oURZ/)
+* [‘라마, 믹스트랄은 기준 미달’ 오픈소스 AI 정의 1.0 발표 – 바이라인네트워크](https://byline.network/2024/10/30-355/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
