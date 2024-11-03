@@ -588,6 +588,7 @@ App
 * [크롬에서 세로 길이가 긴 이미지 파일이 깨지는 문제](https://sunyzero.tistory.com/293)
 * [Chrome 개발자 콘솔, 이제 Gemini로 자바스크립트 오류 및 경고 이해하기 지원 | GeekNews](https://news.hada.io/topic?id=14888)
 * [Error causes in the Console | GeekNews](https://news.hada.io/topic?id=15189)
+* [크롬 131, Direct Sockets API 추가 | GeekNews](https://news.hada.io/topic?id=17565)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
@@ -851,6 +852,7 @@ App
   * [postman 똑똑한 runner 활용방법 - csv 기반으로 요청하기](https://blog.naver.com/pjt3591oo/222633514486)
   * [postman APIs로 collection, mockup, document, test 통합관리](https://blog.naver.com/pjt3591oo/222635644050)
   * [포스트맨(postman) mock server 똑똑하게 활용하기](https://blog.naver.com/pjt3591oo/222938585401)
+  * [서버 postman runner를 활용하여.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223644966577)
   * [Postman Now Supports gRPC | Postman Blog](https://blog.postman.com/postman-now-supports-grpc/)
     * [Postman, gRPC 지원 | GeekNews](https://news.hada.io/topic?id=5878)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법 : NHN Cloud Meetup](https://meetup.toast.com/posts/107)
