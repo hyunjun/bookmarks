@@ -880,7 +880,6 @@ Business
 * [나는 어떤 상황에서 가장 잘 작동하는가?](https://divercity.stibee.com/p/29/)
   * [나는 언제 신이 나서 일하는가. 반대로 어떤 경우에 잘 작동하지 않는가?](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%98-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-activity-7253587641156161536-jYwQ/)
 * [3) 깊이 4) 이미 타고난건 5) 결국 성공하는사람? 소프트스킬 6) 한두사람 깊은 관계면 된다](https://www.linkedin.com/posts/eun-jung-anna-joung-57a80b131_30%EB%8C%80-%EC%9D%B4%EB%AF%B8-%EB%AF%B8%EA%B5%AD-%EB%B0%B1%EC%95%85%EA%B4%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EC%82%AC-%EC%95%84%EC%8B%9C%EC%95%84-%EC%B4%9D%EA%B4%84-%ED%95%98%EC%8B%A0%EB%B6%84%EC%9D%98-%EC%9D%B8%EC%83%9D%EC%A1%B0%EC%96%B8-activity-7252816956695724032-LVkq/)
-
 * [불평하지만 떠나지 않는 사람들](https://divercity.stibee.com/p/19/)
   * [완벽한 사람이 없는 것처럼 완벽한 회사도 없다. 불평은 할 수 있다. 문제는 자신이 다니고 있는 회사에 대해서 불평을 계속하지만 정작 떠날 생각은 하지 않는 사람들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B6%88%ED%8F%89%ED%95%98%EC%A7%80%EB%A7%8C-%EB%96%A0%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-activity-7249934039489392640-AHSZ/)
 * [사람은 변하는가, 변하지 않는가](https://divercity.stibee.com/p/24/)
@@ -893,6 +892,8 @@ Business
   6. 숨고 피하지말고 적극적으로 제안하고 자신의 성과를 표현한다
   7. 나쁜 소식이나 실패 소식은 틀을 바꾼다
   * 글쓰기 실력과 발표력은 반드시 길러야한다
+* [의사결정자를 만나야 한다](https://divercity.stibee.com/p/43/)
+  * [광고주는 왜 광고를 집행할까. 광고가 잘 집행되었는지를 어떻게 평가할까](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9E%90%EB%A5%BC-%EB%A7%8C%EB%82%98%EC%95%BC-%ED%95%9C%EB%8B%A4-activity-7258647931468079104-YbcE/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
