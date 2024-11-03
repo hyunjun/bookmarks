@@ -161,6 +161,7 @@ Open Source
 * [모닥불 | EP.4 오픈소스에 기여하고 토스에 합격한.ssul](https://toss.tech/article/firesidechat_frontend_4)
 * [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
   * [데스크탑 API 클라이언트 Yaak, 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=16723)
+* [오픈 소스 자체만으로는 빅 테크의 대안이 될 수 없습니다 | GeekNews](https://news.hada.io/topic?id=17558)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
