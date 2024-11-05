@@ -2397,6 +2397,7 @@ NLP
   * [The Art of Crafting RANchain Code with LLMs - Network APIOps](https://www.linkedin.com/posts/jinsung-choi-48a8b61_oran-openran-orancopilot-activity-7156849383840366592-Hi-F/)
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
 * [jamo\_llm: 어느 고등학생의 심플한 확률론적 앵무새 만들기](https://github.com/yoonhero/jamo_llm)
+* [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
@@ -2416,7 +2417,8 @@ NLP
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LangChain](https://github.com/langchain-ai) LLM을 사용하여 애플리케이션을 만들기 위한 프레임워크로 설계. 쉽고 간편하게 애플리케이션을 만드는 게 목표
   * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/langchain-ai/langchain)
-  * [<랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 - WikiDocs](https://wikidocs.net/book/14314)
+  * [**<랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 - WikiDocs**](https://wikidocs.net/book/14314)
+    * [langchain-kr/17-LangGraph at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/tree/main/17-LangGraph)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
   * [LangChain 을 알아볼까요?](https://revf.tistory.com/280)
   * [한글자막 LangChain LLM explained GPT-4 interface - YouTube](https://www.youtube.com/watch?v=Mrf49u-QLVQ)
