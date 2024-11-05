@@ -1513,6 +1513,7 @@ Programming
     * 내부 API 리뷰
     * 초기 파트너 피드백
     * 베타 테스트
+* [뷔페 같은 쿼리 언어, GraphQL 톺아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2831/)
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [tl;dr Coupling (& later Cohesion) - by Kent Beck](https://tidyfirst.substack.com/p/tldr-coupling-and-later-cohesion) The economic goal of software design is to balance the cost of coupling versus the cost of decoupling
 * [소프트웨어 응집력(cohesion)은 무언가?](https://brunch.co.kr/@graypool/320)
