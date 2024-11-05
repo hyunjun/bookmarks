@@ -727,6 +727,7 @@ Programming
 * [트래픽이 몰려온다, 장애 대응 - 어느날 갑자기 장애가 발생했다 3회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1nnYH0omM4qIl9WzeNBQtqdt8uMoDKgwvpu8gj3GSmPw/edit)
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 1편](https://velog.io/@juunini/traffic-zergling-blood-1)
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 2편](https://velog.io/@juunini/traffic-zergling-blood-2)
+* ['대규모 트래픽 경험' 이라는 환상 - 1부](https://velog.io/@juunini/delusion-of-large-scale-traffic-1)
 * [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
 * [More More More! Why the Most Resilient Companies Want More Incidents - YouTube](https://www.youtube.com/watch?v=qXZo3cIv6-s)
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
@@ -5545,6 +5546,7 @@ Programming
     * 일의 단위를 작은 단위로 만들어야 피드백을 빨리 발견하고 쉽게 해결할 수 있으며 효율성과 동기 부여가 높아지고 매몰 비용의 오류 회피 가능
     * 새로운 기능을 기획할 때 몇 시간이나 며칠 단위로 작은 작업으로 나누고 이를 지속해서 릴리스할 수 있어야 함을 강조
   * [GitLab Value Streams 대시보드의 DORA Performers 점수 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/06/gitlab-vs-dora-score/)
+  * [Metriche DORA: Guida Completa per Misurare le Performance DevOps](https://blog.saverioriotto.it/blog/341/devops/metriche-dora-guida-completa-per-misurare-le-performance-devops)
 * [Become an Elite Team With Dora Metrics - Semaphore](https://semaphoreci.com/blog/dora-metrics) DORA (DevOps Research and Assessment)
 * [DORA 2022 Accelerate State of DevOps Report now out | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out)
   * DORA(DevOps Research and Assessment)에서 지난 8년간 설문을 진행해 온 Accelerate State of DevOps의 2022년 보고서
