@@ -7447,6 +7447,8 @@ Programming
 * [스프링캠프 2019 Track 2 Session 4 : 당신도 할 수 있는 레거시 프로젝트 개선 이야기 (이경일) - YouTube](https://www.youtube.com/watch?v=pZYZAMToenE&t=245s)
 * [회고 레거시 코드의 문제를 다루는 자세](https://velog.io/@joosing/attitude-toward-dealing-with-problems-in-legacy-code)
 * [레거시 시스템, 언제 개편해야 할까?. 성공적인 레거시 시스템 개편을 위해 해야 할 질문들 | by Daseul Kim | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%96%B8%EC%A0%9C-%EA%B0%9C%ED%8E%B8%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-5e2c8121e9fc)
+* [개발자의 숙제 ‘레거시 코드’ 정리하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2825/)
+* [과격하게 레거시를 쇄신하는 세 가지 방법과 그 사례](https://techblog.lycorp.co.jp/ko/three-ways-to-reform-legacy-systems)
 * [013. 더핑크퐁컴퍼니(The Pinkfong Company) | One day dev](https://one-day.dev/post/013-pinkfong/)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
