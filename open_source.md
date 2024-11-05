@@ -379,7 +379,9 @@ Open Source
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
+  * [The Matrix.org Foundation](https://github.com/matrix-org)
   * [Setup your self hosted, open source, Matrix chat server for fully private and encrypted messaging. - YouTube](https://www.youtube.com/watch?v=TFDFR6EBG3k)
+  * [Matrix 2.0 출시 | GeekNews](https://news.hada.io/topic?id=17575)
 * [Mobifree](https://mobifree.org/)
   * [Mobifree 프로젝트 - 오픈소스 모바일 생태계 | GeekNews](https://news.hada.io/topic?id=15079)
 * [openkoda: Open source business application platform for fast development](https://github.com/openkoda/openkoda)
