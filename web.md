@@ -1004,6 +1004,8 @@ Web
       * 라이브러리와 달리 설치해서 쓰는 게 아니라 컴포넌트 코드를 복사해서 붙여 넣고 사용하는 방식
       * 필요한 부분을 수정 사용 가능
       * 이 관리를 쉽게 할 수 있도록 CLI 제공
+  * [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
+    * [번역 shadcn/ui 의 해부. 원문… | by 조영제 | Nov, 2024 | Medium](https://siosio3103.medium.com/shadcn-ui-%EC%9D%98-%ED%95%B4%EB%B6%80-ebd469c34614)
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
