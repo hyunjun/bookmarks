@@ -894,6 +894,7 @@ Business
   * 글쓰기 실력과 발표력은 반드시 길러야한다
 * [의사결정자를 만나야 한다](https://divercity.stibee.com/p/43/)
   * [광고주는 왜 광고를 집행할까. 광고가 잘 집행되었는지를 어떻게 평가할까](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9E%90%EB%A5%BC-%EB%A7%8C%EB%82%98%EC%95%BC-%ED%95%9C%EB%8B%A4-activity-7258647931468079104-YbcE/)
+* [사업개발 성공의 역설: ‘천천히 생각하고, 빠르게 행동하라’](https://eopla.net/magazines/22854)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -4304,6 +4305,7 @@ Business
 * [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
 * [클릭 수를 줄인다고 좋은 UX가 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2822/)
+* [re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아 | GeekNews](https://news.hada.io/topic?id=17571)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
