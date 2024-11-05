@@ -203,6 +203,8 @@ App
 * sendtime [센드타임 무료로 시작하기 | 비즈니스 미팅 스케줄링에는, sendtime!](https://landing.sendtime.io/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [Sketchbook - For everyone who loves to draw](https://www.sketchbook.com/)
+* [someday: Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite. https://someday-demo.vercel.app ](https://github.com/rbbydotdev/someday)
+  * [Someday - Gmail/Google App Script를 이용한 Calendly 대체 | GeekNews](https://news.hada.io/topic?id=17568)
 * [Spacedrive - an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust](https://github.com/spacedriveapp/spacedrive)
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
