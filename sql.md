@@ -475,6 +475,7 @@ SQL
   * 이 플랫폼은 CQRS 패턴, Amazon Route53의 트래픽 흐름 및 트래픽 정책, 그리고 블루/그린 배포를 활용하여 프로덕션 환경에서 현실적인 테스트 수행
   * 사전 테스트는 변경으로 인한 문제를 사전에 파악하고, 운영 전환의 안정성을 높이는 데 도움
   * 이 플랫폼은 애플리케이션 계층과의 긴밀한 연결을 인식하여 데이터베이스 관리자와 개발자가 함께 테스트를 수행하도록 지원
+* [Load vector embeddings up to 67x faster with pgvector and Amazon Aurora | AWS Database Blog](https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -1504,6 +1505,8 @@ SQL
 * [pgcat: Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
 * [pg_flame - A flamegraph generator for Postgres EXPLAIN ANALYZE output](https://github.com/mgartner/pg_flame)
+* [pg_flo - Stream, transform, and route PostgreSQL data in real-time.](https://www.pgflo.io/)
+  * [pg_flo – PostgreSQL 데이터를 실시간으로 스트리밍, 변환 및 재라우팅 | GeekNews](https://news.hada.io/topic?id=17585)
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
 * [pg_graphql - PostgreSQL용 GraphQL 확장 | GeekNews](https://news.hada.io/topic?id=5493)
 * [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
