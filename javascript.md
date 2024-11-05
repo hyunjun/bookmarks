@@ -3705,6 +3705,7 @@ Javascript
   * The guide covers topics such as avoiding event loop blocking, monitoring Node-specific metrics, using LTS versions in production, automating testing, code review, and conformance, and avoiding dependency creep
   * It also provides best practices for using native Node.js APIs and leveraging NPM for code reuse
 * [node inspect로 얻은 profile 정보 분석하기](https://blog.naver.com/pjt3591oo/223633990755)
+* [Node.js is Not Single-Threaded. Node.js is known as a blazingly fast… | by Tkachenko Evgeny | Medium](https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
