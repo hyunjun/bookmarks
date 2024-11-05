@@ -206,6 +206,8 @@
 * [Rust Code Fixing Problem](https://gist.github.com/jskDr/9db92ec1c08200d2fd9d72d7b998e2b7)
 * [Rust가 Volvo 조립 라인에서 굴러가고 있음 | GeekNews](https://news.hada.io/topic?id=17161)
 * [Rust를 Non-Rust 서버에서 사용해 성능 개선하기 | GeekNews](https://news.hada.io/topic?id=17549)
+* [Rust로 성공적인 재작성을 끝내고 배운 것들 | GeekNews](https://news.hada.io/topic?id=17572)
+* [Rust의 가장 미묘한 구문 | GeekNews](https://news.hada.io/topic?id=17593)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
