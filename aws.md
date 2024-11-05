@@ -70,6 +70,7 @@ AWS
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
 * [SD-WAN connectivity with AWS Transit Gateway Connect](https://www.notion.so/SD-WAN-connectivity-with-AWS-Transit-Gateway-Connect-ad8dcc8b43cc4a509d75e4b81a041f8c)
+* [GS SHOP의 AWS 네트워크 아키텍처 변천사](https://gsretail.tistory.com/72) TGW
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
 * [AWS 환경에서 사용하는 멀티 팩터 인증(MFA)의 모든 것 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/all-for-mfa-in-aws-environment/)
 * [MFA 활성화하고 계정을 안전하게 관리하기 - YouTube](https://www.youtube.com/watch?v=gTa8pHOrfMg)
