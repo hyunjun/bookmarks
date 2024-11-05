@@ -110,6 +110,7 @@ Network
   * The root cause was traced to a recent Linux kernel upgrade, which led to a halving of the receive window size, causing the throughput to be cut in half
   * The fix involved updating the initial scaling_ratio from 25% to 50%
 * [ICANN, ".INTERNAL"을 사적 용도 애플리케이션 전용 도메인으로 예약 | GeekNews](https://news.hada.io/topic?id=16257)
+* [속도, 확장성, 안정성: 25년간의 Google 데이터센터 네트워킹 진화 과정 | GeekNews](https://news.hada.io/topic?id=17573)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
