@@ -1679,6 +1679,7 @@ NLP
   * Word Embedding 시 형태소 tagging 필요하지 않음
   * 형태소 정보들이 많은 언어에서 기존보다 높은 성능 (언어 종속성 낮음)
 * [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
+* [‘진짜 서비스’에 쓸 AI 모델 만들기: 서비스 요구 사항과 학습 데이터셋 | 요즘IT](https://yozm.wishket.com/magazine/detail/2824/)
 * [**How to Develop a Word Embedding Model for Predicting Movie Review Sentiment**](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/) keras, word2vec
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
 * [Dynamic Meta Embeddings](https://towardsdatascience.com/dynamic-meta-embeddings-f97e2c682187) DME
@@ -2240,6 +2241,7 @@ NLP
 * [Use Prolog to improve LLM's reasoning](https://www.linkedin.com/posts/shchegrikovich_use-prolog-to-improve-llms-reasoning-on-activity-7251342511439233026-3rJA/)
   * [Prolog를 활용하여 LLM(대형 언어 모델)의 추론 능력을 향상시키는 방법](https://www.linkedin.com/posts/activity-7251362436010672128-XUhM/)
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
+* [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -3030,6 +3032,8 @@ NLP
 * StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford\_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
+* [synthid-text](https://github.com/google-deepmind/synthid-text)
+  * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [TinyAgent: Function Calling at the Edge – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
   * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
