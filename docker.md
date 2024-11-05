@@ -896,6 +896,7 @@ Docker
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 
 # Conference
+* [Cloud Native Korea Community Day 2024](https://kcd-korea.net/schedule)
 * DockerCon 2022
   * [The Journey from Docker Desktop to 100K IoT Devices running on Docker - YouTube](https://www.youtube.com/watch?v=C-3IbNoXN4U)
     * [Talks/2022_DockerCon at master · mpous/Talks · GitHub](https://github.com/mpous/Talks/tree/master/2022_DockerCon)
@@ -2240,6 +2241,7 @@ Docker
   * [Find Your Own Personal Tutor for the Study of Kubernetes | 为学习Kubernetes找到适合您的个人导师 - Hoon Jo - YouTube](https://www.youtube.com/watch?v=xy7tJTIfyg8)
     * To learn Kubernetes more effectively, consider using K8sGPT with Ollama to overcome knowledge gaps
     * K8sGPT offers interactive mode, which allows users to ask follow-up questions until they receive satisfactory answers
+  * [K8sGPT + Ollama: A Free Kubernetes Automated Diagnostic Solution | by Addo Zhang | Medium](https://addozhang.medium.com/k8sgpt-ollama-a-free-kubernetes-automated-diagnostic-solution-d453b63f112f)
 * [k8spacket - packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
