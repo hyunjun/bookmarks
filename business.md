@@ -4303,6 +4303,7 @@ Business
 * [비효율이 있는 곳엔 플랫폼 디자이너가 있다](https://toss.tech/article/platform-designer-work)
 * [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
+* [클릭 수를 줄인다고 좋은 UX가 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2822/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
