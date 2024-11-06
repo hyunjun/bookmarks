@@ -956,6 +956,9 @@ Javascript
 * [자바스크립트 문제 | console.log의 출력값을 맞히시오 - YouTube](https://www.youtube.com/watch?v=b_BLykZJx_g)
 * [How to compose JavaScript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
   * [번역 여러 매개 변수를 사용하는 자바스크립트 함수를 작성하는 방법(역대급 가이드)](https://gist.github.com/superLipbalm/0c9226769326f8e7f1c5a7a04f54cfca)
+* [Re-implementing JavaScript's == in JavaScript](https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/)
+  * 자바스크립트의 == 와 동일한 동작을 하는 함수를 만들어보는 글
+  * == 이 스펙 상 어떤 원칙으로 값을 비교하는지, 또 그것을 어떻게 구현할 수 있는지 확인 가능
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
