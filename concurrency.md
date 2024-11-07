@@ -30,6 +30,8 @@ Concurrency
   * [1백만개의 동시 작업을 실행하는데 메모리가 얼마나 필요할까? | GeekNews](https://news.hada.io/topic?id=9250)
 * [Concurrency Abstractions for Application Security • Bram Verburg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=snCylAGgcxw)
 * [Concurrency performance battle: Java 21 Virtual Threads vs. Go Threads vs. Elixir Erlang Threads | by Balaji Arumugam | Medium](https://medium.com/@baaalaji.arumugam/concurrency-performance-battle-java-21-virtual-threads-vs-ae7f1533d105)
+* [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=4wGTavSyLxE) functional spring AOP
+  * [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-86)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
