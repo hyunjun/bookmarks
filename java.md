@@ -185,6 +185,7 @@ Java
   * [Netflix에서는 Java를 쓰는 사람들이 로우 레벨 최적화에도 귀신](https://www.linkedin.com/posts/spike-jee-480225a_seeing-through-hardware-counters-a-journey-activity-7256385469842612224-B1Q6/)
   * [Cache invalidation really is one of the hardest problems in computer science – Surfing Complexity](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
   * [marselester's blog - Performance](https://marselester.com/category/performance.html)
+* [2024년에도 JAVA가 여전히 인기 있는 25가지 이유 | GeekNews](https://news.hada.io/topic?id=17608)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1495,6 +1496,8 @@ Java
 * [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 * [Latest Java Garbage Collection : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/367)
 * [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
+* [WeakReference로 메모리 관리하기](https://blog.imqa.io/memory-management-weakreference/)
+  * [IMDEV 2023 혼자서도 잘하는 메모리 청소부 쥐씨](https://www.youtube.com/watch?v=F4lWAWOTXyg)
 * [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
 * [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
   * 여러가지 GC algorithm 기본 동작 방식 소개
