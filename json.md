@@ -23,6 +23,7 @@ Json
 * [JSON Editor | A Web-Based Tool to View, Edit, Format, and Validate JSON](https://morioh.com/p/159b63572594)
 * [**숫자 1은 올바른 JSON 형식인가? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2024/01/21/Standardization-of-JSON.html)
 * [Who is Jason, and what’s he doing in my database? by Martin Bach - YouTube](https://www.youtube.com/watch?v=pfjAnRl1M0A)
+* [JSON 인젝션을 이용한 API 공격 | GeekNews](https://news.hada.io/topic?id=17615)
 
 # Android
 * [LoganSquare: Screaming fast JSON parsing and serialization library for Android](https://github.com/bluelinelabs/LoganSquare) 개발 중단되었으나 성능은 좋다고 함
