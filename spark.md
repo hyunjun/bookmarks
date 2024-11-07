@@ -1140,6 +1140,8 @@
   * 실시간 광고 사용자 ID 매핑 시스템은 대량의 이벤트 로그에서 추출한 사용자 ID로 광고 사용자를 대표할 수 있는 그룹 ID 매핑
   * 이 글에서는 실시간 광고 사용자 ID 매핑 시스템의 설계부터 각 주요 모듈 소개
   * gRPC, Spark Structured Streaming을 이용한 마이크로서비스 아키텍처를 구축한 방법과 사용자 ID를 그래프 구조로 매핑하는 법 포함
+* [AI 기반 광고 추천 파이프라인에서 스파크 스트리밍의 배포 및 모니터링 전략 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=knvmbxqaMQk)
+  * [AI 기반 광고 추천 파이프라인에서 스파크 스트리밍의 배포 및 모니터링 전략 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-23)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
