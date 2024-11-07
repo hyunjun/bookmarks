@@ -5060,6 +5060,7 @@ Javascript
 * [Drag to Select](https://www.joshuawootonn.com/react-drag-to-select)
   * 추가적인 라이브러리 사용 없이 "드래그로 여러 아이템을 선택" 하는 기능을 만드는 글
     * 스크롤 가능한 엘리먼트 내에서 대응하는 것이 깔끔
+* [HTML to React & Figma - 웹사이트를 React 컴포넌트로 변환하는 크롬 | GeekNews](https://news.hada.io/topic?id=17609)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -5626,6 +5627,7 @@ Javascript
   * [React 또는 Next.js에서 이미지가 제대로 적용 안되는 현상 해결하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12311237)
   * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [Next JS | Page Rendering | SSR | SSG | ISR | CSR | Data fetching - YouTube](https://www.youtube.com/watch?v=9up8pWfVpYs)
+  * [nextjs CSR, SSR 그리고 서버 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/223649384531)
   * [Using Non-SSR Friendly Components with Next.js | by Piumi Liyana Gunawardhana | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-non-ssr-friendly-components-with-next-js-916f38e8992c)
   * [Next.js - React, Express.js 그리고 SSR을 한방에 - YouTube](https://www.youtube.com/watch?v=ECMB4kUCKWQ)
   * [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기 - YouTube](https://www.youtube.com/watch?v=IKyA8BKxpXc)
