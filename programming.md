@@ -2028,6 +2028,8 @@ Programming
       * 또 이 데이터를 캐시에 저장도 여러 번 이뤄지게 되는
       * Thundering Herd 문제를 해결하기 위해 Req-Saver라는 라이브러리를 만들어서 Spring 애플리케이션에 적용한 과정
     * 스프링의 @Cacheable과 sync 옵션과 Req-Saver를 사용한 경우를 비교했을 때 평균 51% 정도 성능 향상
+  * [대용량 트래픽 아니면 안 보셔도 됩니다! 선물하기 서비스 캐싱 전략 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=BUV4A2F9i7w)
+    * [대용량 트래픽 아니면 안 보셔도 됩니다! 선물하기 서비스 캐싱 전략 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-80)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -2682,6 +2684,7 @@ Programming
 * [왜 도메인 모델링을 하는가?](https://brunch.co.kr/@graypool/540)
 * [CQRS 패턴의 빈 부분과 도메인 모델링](https://brunch.co.kr/@graypool/616)
 * [내가 아닌 다른 사람은 모델링을 왜 하게 되는가?](https://brunch.co.kr/@graypool/1746)
+* [모델링을 Actor로 시작한다는 의미는 무엇인가?](https://brunch.co.kr/@graypool/2036)
 * [**이벤트는 변경을 알리는 표준 프로그래밍 단위**](https://brunch.co.kr/@graypool/626)
 * [이벤트를 제대로 정의하려면 맥락을 잘 구축해야 한다](https://brunch.co.kr/@graypool/634)
   * [hotel-demo: Hotel booking application - Demo - Axon Framework & Axon Server](https://github.com/AxonIQ/hotel-demo)
