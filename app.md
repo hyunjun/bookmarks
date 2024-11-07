@@ -1053,6 +1053,8 @@ App
     * [VSCode 개발 생산성을 위한 줄 편집 단축키 - YouTube](https://www.youtube.com/watch?v=ULKm7T0qkyw)
     * [VSCode 다중 편집을 위한 멀티 커서 활용법 - YouTube](https://www.youtube.com/watch?v=tNJDCkNCaYs)
     * [VSCode의 꽃 Command Palette 활용법 - YouTube](https://www.youtube.com/watch?v=37UeMIdlGug)
+  * [VSCode 코파일럿에 드디어 Claude AI 탑재! 개발자를 위한 최강의 조합이 온다 🚀 - YouTube](https://www.youtube.com/watch?v=AIG_12JtInU)
+  * [VSCode 코파일럿에 드디어 Claude AI 탑재! 개발자를 위한 최강의 조합이 온다 2편🚀 - YouTube](https://www.youtube.com/watch?v=9eE81HnU1uk)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
@@ -1956,6 +1958,7 @@ App
   * [Diagrams Sandbox - 웹에서 코드로 그리는 인프라 다이어그램 | Homin Lee's blog](https://homin.dev/blog/post/20220925_diagrams_sandbox_on_web/)
   * [파이썬 diagrams 라이브러리를 이용한 클라우드 아키텍처 만들기 #python #aws - YouTube](https://www.youtube.com/watch?v=SRuPphDiKLg)
   * [Automated Architecture Diagrams with Python](https://www.linkedin.com/posts/skander-nabli-244356292_systemdesign-coding-interviewtips-activity-7201164142706089984-IbJW/)
+  * [Diagrams - Diagram as Code | GeekNews](https://news.hada.io/topic?id=17604)
 * [Diagram as Code - by Alex Xu - ByteByteGo Newsletter](https://blog.bytebytego.com/p/diagram-as-code) diagrams, mermaid, ascii editor, plantuml, markmap, go diagrams
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [Domain Story Modeler](https://www.wps.de/modeler/)
