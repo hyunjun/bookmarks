@@ -1109,6 +1109,7 @@ AWS
 * [클라우드 비용 최적화 로드맵 #2 - 비용을 자세히 보기 위한 준비 | SKT Enterprise Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9824)
 * [헉! AWS 요금이 많이 나올까 무섭다면? - MFA 인증, AWS IAM, Budget으로 예방하는 방법 - YouTube](https://www.youtube.com/watch?v=Zq8fR4U6eOo)
 * [Bare Metal Vs AWS: Is It Cheaper To Switch? | SysAdminXpert](https://sysadminxpert.com/bare-metal-vs-aws-is-it-cheaper-to-switch/)
+* [WebSocket 때문에 AWS 비용으로 $1M(13억) 내다가 절감한 방법 | GeekNews](https://news.hada.io/topic?id=17639)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
