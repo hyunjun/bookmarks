@@ -9235,6 +9235,9 @@ Programming
 * [There's No Such Thing As Plain Text • Dylan Beattie • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=ajfb5LSbQVM)
 * [UTF-8 문서에서 form만 EUC-KR로 제출해야 할 때 – 형우의 웹개발](https://mytory.net/archives/16278)
 * [CUDA C 수준에서 한국어 토크나이저 구현](https://blog.sionic.ai/cuda-tokenizer)
+* [FEConf 2024 A5 아�니 이 글자 왜 들어간거에요? (부제: 알아두면 가끔 쓸모있는 한글 유니코드 완전 정복) - YouTube](https://www.youtube.com/watch?v=RAOIUP4BJog)
+  * [아�니 이 글자 왜 들어간 거예요? (1) | 요즘IT](https://yozm.wishket.com/magazine/detail/2836/)
+  * [아�니 이 글자 왜 들어간 거예요? (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/2837/)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
