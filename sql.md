@@ -1724,6 +1724,8 @@ SQL
   * [SQLite의 트랜잭션 | GeekNews](https://news.hada.io/topic?id=16105)
 * [Hybrid full-text search and vector search with SQLite | Alex Garcia's Blog](https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html)
   * [SQLite로 전문검색과 벡터검색의 하이브리드 구현하기 | GeekNews](https://news.hada.io/topic?id=17405)
+* [Rearchitecting: Redis to SQLite | Wafris](https://wafris.org/blog/rearchitecting-for-sqlite)
+  * [우리가 ‘Redis’에서 ‘SQLite’로 재설계한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/2838/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
