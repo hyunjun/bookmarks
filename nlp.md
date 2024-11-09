@@ -2242,6 +2242,7 @@ NLP
   * [Prolog를 활용하여 LLM(대형 언어 모델)의 추론 능력을 향상시키는 방법](https://www.linkedin.com/posts/activity-7251362436010672128-XUhM/)
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
+* [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2292,6 +2293,8 @@ NLP
 * [BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
   * CPU에서 직접 실행되는 초고속 1비트 LLM 추론 프레임워크인 bitnet.cpp 오픈소스화
   * GPU 없이도 로컬 장치에서 최대 6배 향상된 속도와 82% 더 적은 에너지 소비로 100억 개의 파라미터 모델 실행 가능
+* [browser-use: Open-Source Web Automation library with any LLM](https://github.com/gregpr07/browser-use)
+  * [Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스 | GeekNews](https://news.hada.io/topic?id=17665)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
   * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
@@ -2380,6 +2383,7 @@ NLP
   * [Open Release of Grok-1](https://x.ai/blog/grok-os)
   * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
     * [Grok-2 베타 릴리즈 | GeekNews](https://news.hada.io/topic?id=16333)
+  * [🚀xAI API와 Grok 모델 활용 가이드: 베타 기간 월 25달러 혜택!](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80xAI-API%EC%99%80-Grok-%EB%AA%A8%EB%8D%B8-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%B2%A0%ED%83%80-%EA%B8%B0%EA%B0%84-%EC%9B%94-25%EB%8B%AC%EB%9F%AC-%ED%98%9C%ED%83%9D)
 * [GroqChat](https://groq.com/)
   * [Groq Labs LPU ( Language Processing Unit ) Chip Insane LLM Inference Speed - YouTube](https://www.youtube.com/watch?v=4Tjeb6Kk1H8)
   * [Groq_API_LangChain.ipynb - Colab](https://colab.research.google.com/drive/1boaH7FMRUD3xE2rpmWvJMwVue1GcoUWi)
@@ -3260,6 +3264,7 @@ NLP
 * [KT DS 김성우 단장님 RAG 강의 자료 리뷰 브리핑 - 8:07 부터 시작 - YouTube](https://www.youtube.com/watch?v=CKiXGNWmSr0)
   * [RAG 강의자료-KT DS 김성우 기술혁신단장님 자료 + BM25 + RAG 평가 - 기초부터 응용까지 : 네이버 카페](https://cafe.naver.com/aidev/804)
     * [사내 강의용으로 만든 RAG 시스템 이해 및 구현 교안](https://www.linkedin.com/posts/%EC%84%B1%EC%9A%B0-%EA%B9%80-58448045_ssam-retrieval-augmented-generation-rag-activity-7246734773266628609-E2hB/)
+* [Goodbye, vanilla RAG Hello, Agentic RAG](https://www.linkedin.com/posts/804250ab_goodbye-vanilla-rag-hello-agentic-rag-activity-7259598157938880513-HfyM/)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
