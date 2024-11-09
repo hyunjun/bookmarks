@@ -1426,6 +1426,7 @@ Programming
     * 스크럼 마스터 자체가 그 팀에서 가장 퍼포먼스가 잘 나오는 사람이 해야한다
   * 많은 기업들이 스크럼을 겉치레로만 도입하면서 정작 중요한 팀의 자율성, 협업, 고객 중심 사고 등은 놓치고 있다
   * [ChatGPT - Scrum Sage: Zen Edition](https://chatgpt.com/g/g-pajO1fBss-scrum-sage-zen-edition)
+* [애자일 원칙을 위한 새로운 접근, 스크럼의 한계를 고민하다 - ITWorld Korea](https://www.itworld.co.kr/news/353539)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -6890,6 +6891,7 @@ Programming
   * [10월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/10/b-10-3.html)
   * [10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/10/b-10-4.html)
   * [10월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/11/b-10-5.html)
+  * [11월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/11/b-11-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8797,6 +8799,8 @@ Programming
   * [FEConf2024_UnitTestableCode.pdf - Google Drive](https://drive.google.com/file/d/18g376TYZqjrvJ_VMYDz-dPxL_Lif-qtn/view)
   * [VidiGo FEConf 2024 A1 Airbridge SDK팀이 순수한 Unit Testable](https://vidigo.ai/share/summary/9d6ae08cb399)
   * [FEConf 2024 A1 Airbridge SDK팀이 순수한 Unit Testable한 코드를 작성하는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1185342)
+* [Canon TDD - by Kent Beck - Software Design: Tidy First?](https://tidyfirst.substack.com/p/canon-tdd)
+  * [TDD는 테스트 작성법이 아니라 개발 방법이다. 많은 사람이 테스트에 지나친 비중을 둔다](https://www.linkedin.com/posts/fupfin_canon-tdd-activity-7259729812246704128-zfYK/)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
