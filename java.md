@@ -186,6 +186,9 @@ Java
   * [Cache invalidation really is one of the hardest problems in computer science – Surfing Complexity](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
   * [marselester's blog - Performance](https://marselester.com/category/performance.html)
 * [2024년에도 JAVA가 여전히 인기 있는 25가지 이유 | GeekNews](https://news.hada.io/topic?id=17608)
+* [줄줄이 딸려오는 라이브러리만들기 Part1. Bom. java에서 bom이 무엇일까요? 직접 만들어보며 배워봅니다 | by Sunghyun Roh | Oct, 2024 | Medium](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part1-bom-1945cbab452d)
+* [줄줄이 딸려오는 라이브러리만들기 Part2. pom과 nexus | by Sunghyun Roh | Oct, 2024 | Medium](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part2-pom%EA%B3%BC-nexus-10e640c34a75)
+* [줄줄이 딸려오는 라이브러리만들기 Part3. gradle과 plugin | by Sunghyun Roh | Nov, 2024 | Medium](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part3-gradle%EA%B3%BC-plugin-b8ac579f0348)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
