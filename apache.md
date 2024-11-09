@@ -839,6 +839,7 @@ Apache
 * [우리팀은 카프카를 어떻게 사용하고 있을까 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17386/)
 * [지연이체 서비스 개발기: 은행 점검 시간 끝나면 송금해 드릴게요! / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=LECTNX8WDHo)
   * [지연이체 서비스 개발기: 은행 점검 시간 끝나면 송금해 드릴게요! - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-85)
+* [다시 돌아온 코인 프로젝트 (0)](https://sky-develop.tistory.com/98)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
