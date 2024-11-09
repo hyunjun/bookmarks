@@ -600,6 +600,7 @@ App
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
+* [Form Helper Chrome | Devpost](https://devpost.com/software/form-helper-chrome)
 * [Graphmark](https://graphmark.framer.website/)
   * [Graphmark - 북마크한 웹페이지를 그래프로 보여주는 크롬 익스텐션 | GeekNews](https://news.hada.io/topic?id=15393)
 * [Moonlight: 논문 3배 빨리 이해하기 | GeekNews](https://news.hada.io/topic?id=15628)
@@ -1316,6 +1317,8 @@ App
 * [4 macOS Screenshot Tricks To Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 * [Quick Tip: Enable Touch ID for sudo – Six Colors](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/) `/etc/pam.d/sudo` 파일을 수정해서 `sudo` 명령어 사용할 때 비밀번호 대신 맥북 TouchID 사용
 * [**50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!) - YouTube**](https://www.youtube.com/watch?v=qOrlYzqXPa8) command
+* [Useful built-in macOS command-line utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
+  * [유용한 내장 macOS 명령줄 유틸리티 | GeekNews](https://news.hada.io/topic?id=17624)
 * [macOS에 설치된 HAXM 삭제하기](https://cliearl.github.io/posts/android/uninstall-haxm-macos/)
 * [맥에서 CapsLock 한영 전환이 제대로 안 될 때가 많아서 대소문자 전환 기능을 끔 | 웹으로 말하기](https://mytory.net/archives/14755)
 * [화면 고장난 💻맥북 수명 연장하기. 맥북 고장에 대처하는 새로운 마음가짐 | by Jung Kim | Feb, 2024 | Medium](https://medium.com/@jungkim/%ED%99%94%EB%A9%B4-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EB%A7%A5%EB%B6%81-%EC%88%98%EB%AA%85-%EC%97%B0%EC%9E%A5%ED%95%98%EA%B8%B0-5e029f20ae5a)
@@ -1463,6 +1466,7 @@ App
     * [FFmpeg · Present](https://present.do/documents/636474014e11750badbcb4cc)
     * [개발자가 영상 편집 하는 법..!? - YouTube](https://www.youtube.com/watch?v=z2iodiQW0fg)
     * [FFmpeg를 사용하여 웹캠 영상을 RTSP 스트리밍하기 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2066)
+    * [FFMpeg, 손으로 작성한 AVX-512 어셈블리 코드로 94x 성능 향상 | GeekNews](https://news.hada.io/topic?id=17610)
     * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
@@ -1596,6 +1600,7 @@ App
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [Raycast](https://www.raycast.com/)
+  * [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
 * [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [RecurseChat](https://recurse.chat/) Personal AI Chat with Local LLMs
   * [RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱 | GeekNews](https://news.hada.io/topic?id=13574)
@@ -2593,6 +2598,8 @@ App
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
   * [피그마(figma) 대신 펜팟(penpot) 써볼까 - YouTube](https://www.youtube.com/watch?v=rFsD5KYHJxc)
+* [Polymet - Idea to prototype within seconds](https://www.polymet.ai/)
+  * [UI와 프로토타입, 코드까지 생성해 주는 ‘Polymet’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2835/)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)
