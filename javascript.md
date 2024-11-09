@@ -755,6 +755,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2024-11.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-11.md)
   * [2024-10.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-10.md)
   * [2024-09.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2024-09.md)
   * [2024-01.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-01.md)
@@ -980,6 +981,8 @@ Javascript
   * [나 배열 아니다 : Javascript Array](https://www.jiwon.me/im-not-array/)
   * [자바스크립트 | Array.forEach 구현해보기 - YouTube](https://www.youtube.com/watch?v=Tw-xyPr8wqw)
   * [reverse, sort, splice 대신 toReversed, toSorted, with 사용하기](https://blog.naver.com/pjt3591oo/223320121474)
+  * [jaqt: GraphQL-style Array.select() and Array.where() for javascript](https://github.com/muze-nl/jaqt)
+    * [jaqt - JavaScript Queries and Transformations | GeekNews](https://news.hada.io/topic?id=17635)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
