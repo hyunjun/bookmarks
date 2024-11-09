@@ -3265,6 +3265,7 @@ NLP
   * [RAG 강의자료-KT DS 김성우 기술혁신단장님 자료 + BM25 + RAG 평가 - 기초부터 응용까지 : 네이버 카페](https://cafe.naver.com/aidev/804)
     * [사내 강의용으로 만든 RAG 시스템 이해 및 구현 교안](https://www.linkedin.com/posts/%EC%84%B1%EC%9A%B0-%EA%B9%80-58448045_ssam-retrieval-augmented-generation-rag-activity-7246734773266628609-E2hB/)
 * [Goodbye, vanilla RAG Hello, Agentic RAG](https://www.linkedin.com/posts/804250ab_goodbye-vanilla-rag-hello-agentic-rag-activity-7259598157938880513-HfyM/)
+* [10분 만에 RAG 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2828/)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
