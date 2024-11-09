@@ -269,6 +269,7 @@ Interview
 * [Did you lose your AirPods? | Alex Yancey](https://alexyancey.com/lost-airpods/) 직접 관련은 없으나 범위를 줄여 나가는 방식이 좋음
   * [AirPods를 잃어버렸나요? | GeekNews](https://news.hada.io/topic?id=16447)
 * [개발자 기술 면접. 지난 16년 동안 8개의 회사를 거치면서, 후보자의 입장에서 여러 번의… | by Greg Lee | Sep, 2024 | Medium](https://medium.com/@greg.shiny82/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-144a1fe28ca4)
+* [막막한 개발자 면접, 1분 자기소개 준비하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2832/)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
