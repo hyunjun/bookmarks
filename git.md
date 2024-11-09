@@ -1710,6 +1710,8 @@ Git
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
+* [toolgit: Git Productivity Toolkit](https://github.com/ahmetsait/toolgit)
+  * [ToolGit - Git 생산성 툴킷 | GeekNews](https://news.hada.io/topic?id=17596)
 * [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
   * Python으로 직접 Git을 구현해 보는 튜토리얼. 단계별로 구현하면서 Git 내부가 어떻게 동작하는지 이해 가능. 변경되는 Python 코드와 설명을 같이 보면서 따라 해 볼 수 있게 구성
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
