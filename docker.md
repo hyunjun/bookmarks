@@ -2461,6 +2461,7 @@ Docker
   * [오픈소스 기업/넷록스 주식회사 넷록스, 클라우드 네이티브 생태계 구축을 위해 필수적인 Load Balancer 오픈소스로 공개 - 공개SW 포털](https://www.oss.kr/oss_case/show/42f88c9a-48df-42a8-a78f-82bc463504d8)
   * [IT 인프라 엔지니어 그룹 | Cloud Native Korea Community Day 2024 에서 발표한 자료를 공유 합니다 | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3755334598114647)
   * [Aws multi az - loxilb v0.9.4](https://loxilb-io.github.io/loxilbdocs/aws-multi-az/)
+  * [LoxiLB: Another Load Balancer. Here we will install LoxiLB on… | by DaeGon Kim | Nov, 2024 | Dev Genius](https://blog.devgenius.io/loxilb-another-load-balancer-aabf4a29d810)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
 * [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
