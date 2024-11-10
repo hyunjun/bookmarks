@@ -4157,6 +4157,7 @@ NLP
     * [Introducing speech-to-text, text-to-speech, and more for 1,100+ languages](https://ai.facebook.com/blog/multilingual-model-speech-recognition/)
       * [Meta, 1100개 이상의 언어에 대한 음성-텍스트, 텍스트-음성 변환 모델 MMS(Massively Multilingual Speech) 공개 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/meta-1100-mms-massively-multilingual-speech/1618/1)
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
+* [Kagi Translate - Kagi 검색엔진이 제공하는 번역 서비스 | GeekNews](https://news.hada.io/topic?id=17663)
 * [LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate](https://github.com/uav4geo/LibreTranslate)
 * [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
 * [onlinedoctranslator.com](https://www.onlinedoctranslator.com/) 구글 api를 사용해 만든 번역 서비스
@@ -4319,6 +4320,8 @@ NLP
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
+* [Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯](https://github.com/lifeiteng/OmniSenseVoice)
+  * [Omni SenseVoice - 단어별 타임스탬프 가능한 고속 음성 인식 | GeekNews](https://news.hada.io/topic?id=17671)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
 * [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
