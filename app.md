@@ -1056,6 +1056,8 @@ App
     * [VSCode의 꽃 Command Palette 활용법 - YouTube](https://www.youtube.com/watch?v=37UeMIdlGug)
   * [VSCode 코파일럿에 드디어 Claude AI 탑재! 개발자를 위한 최강의 조합이 온다 🚀 - YouTube](https://www.youtube.com/watch?v=AIG_12JtInU)
   * [VSCode 코파일럿에 드디어 Claude AI 탑재! 개발자를 위한 최강의 조합이 온다 2편🚀 - YouTube](https://www.youtube.com/watch?v=9eE81HnU1uk)
+  * [VS Code 확장 프로그램 개발 팁 첫 번째, 상태 표시줄 다루기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/409)
+  * [VS Code 확장 프로그램 개발 팁 #2 - 풍선 도움말 다루기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/411)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
