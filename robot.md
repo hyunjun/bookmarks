@@ -69,6 +69,8 @@ Robot
 * [FarmBot | Open-Source CNC Farming](https://farm.bot/)
   * [FarmBot - 오픈 소스 농업 로봇 | GeekNews](https://news.hada.io/topic?id=16164)
 * [foros: Failover ROS framework](https://github.com/42dot/foros)
+* [IsaacLab: Unified framework for robot learning built on NVIDIA Isaac Sim](https://github.com/isaac-sim/IsaacLab)
+  * [엔비디아, 로봇 학습 및 휴머노이드 개발 가속화하는 AI 도구 오픈 소스로 공개 < 로봇 < AI Industry < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=32734)
 * [Robocode Home](https://robocode.sourceforge.io/)
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
