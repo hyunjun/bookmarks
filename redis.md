@@ -169,6 +169,7 @@ Redis
   * Chrono is built on top of Panda, Dropbox's key-value storage system, and uses a scalable, consistent caching system to solve high-volume read queries per second (QPS) problems while maintaining read consistency
   * Chrono provides non-decreasing return values for LatestAttemptTimestamp even with crashes/restarts and decouples data caching and write attempt tracking components for scalability
 * [Introducing Netflix’s Key-Value Data Abstraction Layer | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
+* [주니어 서버 개발자가 유저향 서비스를 개발하며 마주쳤던 이슈와 해결 방안 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/troubleshooting-logs-as-a-junior-developer/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
