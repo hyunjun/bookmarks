@@ -106,6 +106,7 @@ AWS
 * [컬리 공통 암호화 모듈의 동시성 이슈 해결하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/concurrency-issue-solving/) KMS
   * [caffeine: A high performance caching library for Java](https://github.com/ben-manes/caffeine)
 * [AWS KMS 외부 키 스토어(XKS) 발표 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-aws-kms-external-key-store-xks/)
+* [여기어때 신입 개발자의 암호화 서비스 개선기. 안녕하세요. 여기어때컴퍼니 공통플랫폼개발팀의 스노우입니다. | by Snow Park | Nov, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-db00a19e456c) KMS
 * [Internet Facing Load Balancer 생성 탐지 및 제거 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/internet-facing-load-balancer-%EC%83%9D%EC%84%B1-%ED%83%90%EC%A7%80-%EB%B0%8F-%EC%A0%9C%EA%B1%B0/)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
@@ -2679,6 +2680,7 @@ AWS
 * [인터파크트리플의 보안 가시성 확보를 위한 SIEM 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/int-siem-on-aws/)
   * [AWS 기술 블로그에 인터파크트리플 보안팀에서 보안 모니터링 시스템 (SIEM)을 만드는 프로젝트 진행](https://www.linkedin.com/posts/%EB%8F%99%ED%98%84-%EC%9D%B4-82826a124_%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%ED%8A%B8%EB%A6%AC%ED%94%8C%EC%9D%98-%EB%B3%B4%EC%95%88-%EA%B0%80%EC%8B%9C%EC%84%B1-%ED%99%95%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-siem-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-amazon-activity-7255088974078038018-zA9s/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
+* [생성형 AI 워크로드에 대한 보안 사고 대응 방법 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/methodology-for-incident-response-on-generative-ai-workloads/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
 # TDD, Test
