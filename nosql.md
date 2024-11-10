@@ -364,6 +364,7 @@ NoSQL
 * [HazelCast](http://hazelcast.org/)
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 * [Securing Hazelcast (tcp) traffic with Stunnel | by Kamran Zafar | The Startup | Medium](https://medium.com/swlh/securing-hazelcast-tcp-traffic-with-stunnel-ff2b4b93158a)
+* [신규 프로젝트 Hazelcast 도입기](https://d2.naver.com/helloworld/1536585)
 
 # HyperSQL
 * [HSQLDB](https://hsqldb.org/)
