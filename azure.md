@@ -210,9 +210,11 @@ Azure
   * [Azure 프롬프트 플로우 및 Github를 사용한 LLMOps | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/351007?sId=j0YJ3BZjrFs)
 * [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 * [Inside Microsoft AI innovation with Mark Russinovich | BRK256 - YouTube](https://www.youtube.com/watch?v=ntKZ5CibuIQ)
+* [Gen AI를 활용한 리뷰 하이라이트. 안녕하세요 Business Insight팀 갈렙입니다! | by 갈렙Caleb(이상훈) / Business Insight팀 | Oct, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/gen-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EB%B7%B0-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8-83556509662b)
 * [Azure의 Windows Server VM에 중첩 가상화 활성화 필수 조건](https://www.dokyun.pe.kr/337)
 * [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
 * [How to pass objects between tasks in Azure pipeline | Devops](https://dotnet-helpers.com/devops/pass-objects-between-tasks-in-azure-pipeline/)
+* [Azure App 서비스 제거 오류 해결 방법](https://www.dokyun.pe.kr/351)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
