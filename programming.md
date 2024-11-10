@@ -159,6 +159,7 @@ Programming
     * 의사 결정의 설명 없이, 구현에 대한 설명만 있다면 문서를 작성하느니 프로그램을 작성하는 것이 나은 생각
   * 이 디자인 문서는 빠른 반복을 통해서 발전시킨 뒤 여러 리뷰를 거치고 구현하고 이후 유지 관리하며 시간이 지나 다시 학습에 사용하는 생명주기
 * [설계가 잘 쓰이려면 독자와 쓰임새가 분명해야 한다](https://brunch.co.kr/@graypool/1779)
+* [거창하지 않아도 괜찮을 수 있는 설계 - 엘키의 주절 주절](https://elky84.github.io/2024/11/03/design/)
 * [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
@@ -4259,6 +4260,8 @@ Programming
   * save time and effort by making it easier to catch mistakes early on and by reducing the amount of work that needs to be rolled back or re-reviewed
   * However, may not always be possible due to various factors such as reviewer availability, feature dependencies, and refactoring scope
 * [Thoughtful Code Reviews](https://www.jasonpearson.dev/thoughtful-code-reviews/)
+* [CodeBuddy 와 함께하는 AI 코드리뷰 - if (kakao AI) 2024](https://if.kakao.com/session/35)
+  * [베네딕트는 왜 이프카카오에서 안성재 성대모사를 했을까? - tech.kakao.com](https://tech.kakao.com/posts/659)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -4523,6 +4526,7 @@ Programming
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * if kakao
   * [program](https://if.kakao.com/program)
+  * [카카오뱅크가 회고하는 if(kakaoAI)2024 ☕️ - 카카오뱅크 기술블로그](https://tech.kakaobank.com/posts/2410-kakaobank-prep-for-ifkakaoai-2024-tech-conference/)
   * [카카오페이 if(kakao) 발표 준비 과정 엿보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-kakaopay-dr-02/)
   * [if(kakao)dev 2022, 2일차 안내 – tech.kakao.com](https://tech.kakao.com/2022/12/08/ifkakao2022-day2/)
   * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
@@ -5239,6 +5243,7 @@ Programming
 * [노출된 .env 파일 하나가 쏘아올린 작은 공, 11만 개 도메인 공격으로 이어져](https://www.boannews.com/media/view.asp?idx=132223)
 * [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
   * [Kia 차 해킹 : 번호판만으로 차 원격 제어하기 | GeekNews](https://news.hada.io/topic?id=16961)
+* [집 와이파이가 보안이 취약하다할 때](https://soooprmx.com/when-your-wifi-is-insecure/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -6028,6 +6033,7 @@ Programming
 * [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
   * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
 * [Transactional Outbox 패턴으로 메시지 발행 보장하기 - 리디주식회사](https://ridicorp.com/story/transactional-outbox-pattern-ridi/)
+* [transactional outbox message relay 개선하기 - 리디주식회사](https://ridicorp.com/story/transactional-outbox-message-relay-ridi)
 * [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
 * [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
