@@ -245,6 +245,8 @@ Artificial Intelligence
   * AI Agent, AI agentic, AI assistant 차이
 * [**Agent:LLM의 새로운 응용프로그램-1부. 안녕하세요, 서비스 개발실 실장으로 크라우드웍스에서 일을 하게 된… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium**](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1%EB%B6%80-b4bf7c3eb176)
 * [Agent:LLM의 새로운 응용프로그램 -2부. 안녕하세요, 서비스 개발실에서 AI engineer로 일하고 있는… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2%EB%B6%80-b722ad1cf151)
+* [제목은 안정적인 AI 서빙 시스템으로 하겠습니다. 근데 이제 자동화를 곁들인… | 우아한형제들 기술블로그](https://techblog.woowahan.com/19548/)
+* [생성형 AI 서비스: 게이트웨이로 쉽게 시작하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19915/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
