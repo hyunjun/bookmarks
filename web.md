@@ -1162,6 +1162,7 @@ Web
   * HTML 생태계의 상황을 2만여 명에게 설문 조사해서 정리한 결과
   * From, 상호작용, 접근성 등 각 기능의 사용 여부와 알려진 정도를 살펴볼 수 있고 정적 사이트 생성기나 API의 사용 정도 파악 가능
 * [컨텐츠에 따라 높이가 자동으로 조절되는 textarea 구현하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/javascript/%EC%BB%A8%ED%85%90%EC%B8%A0%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%86%92%EC%9D%B4%EA%B0%80-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%A1%B0%EC%A0%88%EB%90%98%EB%8A%94-textarea-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+* [textarea를 감싸는 div에 여백이 생겨버리는 이유 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/css/textarea%EB%A5%BC-%EA%B0%90%EC%8B%B8%EB%8A%94-div%EC%97%90-%EC%97%AC%EB%B0%B1%EC%9D%B4-%EC%83%9D%EA%B2%A8%EB%B2%84%EB%A6%AC%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 * [Replace Twitter Embeds with Semantic HTML – Terence Eden’s Blog](https://shkspr.mobi/blog/2024/08/replace-twitter-embeds-with-semantic-html/)
   * [트위터 임베드를 Semantic HTML로 교체하기 | GeekNews](https://news.hada.io/topic?id=16517)
 * [7 Old-School Practices in HTML Should Be Avoided - DEV Community](https://dev.to/bogdanfromkyiv/7-old-school-practices-in-html-should-be-avoided-3o75)
@@ -1841,6 +1842,7 @@ Web
 * [HTTP 메서드](https://www.zerocho.com/category/HTTP/post/5b3723477b58fc001b8f6385)
 * [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
 * [HTTP Headers for the Responsible Developer • Stefan Judis • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=JfjiFsJsO4E)
+* [iOS 네트워크 통신의 HTTP Accept-Encoding 헤더 이해하기 | by whitelips | a day of a programmer | Nov, 2024 | Medium](https://medium.com/a-day-of-a-programmer/ios-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0%EC%9D%98-http-accept-encoding-%ED%97%A4%EB%8D%94-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-b42b2422221e)
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 * [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
