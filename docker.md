@@ -1043,6 +1043,8 @@ Docker
   * API를 제공해서 일관적인 사용 방법을 제공할 수 있게 되고 여기에 CRD 등 더 많은 API를 제공하면서
   * 단순히 컨테이너 관리 도구가 아니라 API를 제공하는 것이 핵심이라고 설명
 * [Flyte propeller 와 k8s CRD 상관 관계 정리 | by Ryan Kim | Dec, 2022 | Medium](https://equus3144.medium.com/flyte-lifecycle%EA%B3%BC-k8s-crd-%EC%83%81%EA%B4%80-%EA%B4%80%EA%B3%84-%EC%A0%95%EB%A6%AC-ef820ede6814)
+* [What are Kubernetes Custom Resource Definitions (CRDs)?](https://spacelift.io/blog/kubernetes-crd)
+* [Custom Resources | Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * [Kubernetes Tutorials | How to Deploy and Access the Kubernetes Dashboard | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=KzDBZz8lToM)
 * [Kubernetes tutorial | Kubernetes services | ports? target ports? node ports? - YouTube](https://www.youtube.com/watch?v=svjIcifW1JA)
