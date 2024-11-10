@@ -1432,6 +1432,7 @@ App
 * [매일 사용하는 추천 macOS앱을 알려주세요 | GeekNews](https://news.hada.io/topic?id=15295)
 * [DevOps 엔지니어 ‘일잘러’로 만드는 맥북 필수 도구 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/12/devops-mac-setting/) Warp Dropover Shottr Raycast AltTab
 * [최신정보 수집하고 까먹는 당신, 정보 중독입니다](https://eopla.net/magazines/17731) Fabric Findr
+* [무료지만, macOS를 말도 못하게 편하게 만드는 5가지 앱 - YouTube](https://www.youtube.com/watch?v=7m4BiHwSIpo) Folder Hub, Only Switch, IINA, Speediness, ProNotes
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1593,6 +1594,7 @@ App
 * [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
+* [OnlySwitch: ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts](https://github.com/jacklandrin/OnlySwitch)
 * Onyx [Titanium Software | Operating system utilities for Mac - OnyX](https://titanium-software.fr/en/onyx.html)
   * [리뷰 | 오닉스, 맥 사용자를 위한 필수 무료 시스템 관리 툴 - ITWorld Korea](https://www.itworld.co.kr/news/204814)
 * [OpenCore-Legacy-Patcher: Experience macOS just like before](https://github.com/dortania/OpenCore-Legacy-Patcher)
