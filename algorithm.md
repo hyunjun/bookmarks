@@ -374,6 +374,7 @@ Algorithm
 # Combination
 * [Iteratively find all combinations of size k of an array of characters (N choose K)](https://stackoverflow.com/questions/31175503/iteratively-find-all-combinations-of-size-k-of-an-array-of-characters-n-choose)
 * [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)
+* [순열 조합 생성하기](https://soooprmx.com/permuations-and-combinations/) python
 
 # Compression
 * [Use Fast Data Algorithms | Joey Lynch's Site](https://jolynch.github.io/posts/use_fast_data_algorithms/)
@@ -716,7 +717,7 @@ Algorithm
 * [Balanced Brackets](http://astrod.github.io/2018/01/07/7.html)
 * [Project Euler # 43 in JavaScript — Sub-String Divisiblity in Pandigital Numbers](https://hackernoon.com/project-euler-43-in-javascript-1cc41be56aa2)
 * [Croatian Open Competition in Informatics(COCI) 문제 정리](https://gooddaytocode.blogspot.com/2016/09/coci.html)
-* [프로젝트 오일러 92 · Wireframe](https://soooprmx.com/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%A4%EC%9D%BC%EB%9F%AC-92/)
+* [project euler - Wireframe](https://soooprmx.com/tag/project-euler/)
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
