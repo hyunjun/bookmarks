@@ -938,6 +938,7 @@ Vision
 
 # VLM Vision Language Model
 * [VLM backbone에 대한 트렌드를 알아보자! | 강재욱 - YouTube](https://www.youtube.com/watch?v=NgxSbyoiQYM)
+* [HCX-VLM과 함께 홈피드를 더 예쁘게 바꿔보자!](https://d2.naver.com/helloworld/3247986)
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 
