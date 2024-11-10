@@ -213,6 +213,7 @@ Vision
   * 카메라를 여러대 사용하는 시스템을 이용하여 3차원 복원을 하려는 경우 유용한 Tutorial
 * [자율주행과 기계학습](https://www.slideshare.net/deview/124-80844653)
 * [ubuntu 18.04에 gym_torcs(자율주행 강화학습 환경) 설치하고 테스트해보기](https://jueun-park.github.io/2018-09-09/torcs-environment-test)
+* [Waymo, 자율주행을 위한 End-to-End 멀티모달 모델 EMMA 공개 | GeekNews](https://news.hada.io/topic?id=17618)
 * [C-7. 그림 그리는 AI(이활석)](https://www.youtube.com/watch?v=TlNkTdCt2Vo)
 * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
 * [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
