@@ -162,6 +162,8 @@ Data Visualization
   * [제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html)
   * [제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인 | 요즘IT](https://yozm.wishket.com/magazine/detail/1311/)
   * [How to Use Chart.js to Add Charts and Graphs to Any React Project](https://morioh.com/p/ee8164c0a7a7)
+* [data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
+  * [Microsoft/Data-Formulator - AI로 시각화 생성하기 | GeekNews](https://news.hada.io/topic?id=17678)
 * [Fantasy-Map-Generator: Web application generating interactive and highly customizable maps](https://github.com/Azgaar/Fantasy-Map-Generator)
 * [Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizations, interactive charts, diagrams, and graphic editors in web applications.](https://github.com/meursyphus/flitter)
   * [Flitter - Data Visualization Framework](https://flitter.pages.dev/)
