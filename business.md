@@ -2641,6 +2641,7 @@ Business
 * [언젠가 리더가 되면 꼭 해 보고 싶었던 것들](https://divercity.stibee.com/p/33/)
   * [언젠가 리더가 되면 꼭 해 보고 싶었던 것들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%96%B8%EC%A0%A0%EA%B0%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%97%88%EB%8D%98-%EA%B2%83%EB%93%A4-activity-7255006321207332864-k63d/)
 * [(2) 원병묵 - 무엇보다 사람 먼저, 그 다음 연구입니다! “저는 먼저 사람에게 우선하고 그 다음에 과학 연구를 하는 법을... | Facebook](https://www.facebook.com/bmweon/posts/pfbid0e9jSr4g1TMVJHomNMsjTvotdumJykiFwhpnVK6FgnJBgw4cgkD9kRpWwMkHosvm2l)
+* [개발자 리더로서 성장당한 썰 | 모닥불 EP.7](https://toss.tech/article/firesidechat_frontend_7)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
