@@ -202,6 +202,7 @@ iOS
 * [TECHCON 2019: MOBILE - iOS 1.네이버 지도 밑그림을 그리는 SDK 개발자가 하는 일](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-ios1-sdk)
 * [ChatGPT를 이용한 iOS SMS 필터링 앱 | GeekNews](https://news.hada.io/topic?id=15498)
 * [뱅크샐러드 at Apple Store | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-at-apple-store/)
+* [What's new in USD and MaterialX (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/522)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -843,6 +844,7 @@ iOS
 * [Enhance your UI animations and transitions (feat. WWDC 2024) :: iOYES](https://green1229.tistory.com/494)
 * [SwiftUI - AnyLayout :: iOYES](https://green1229.tistory.com/503)
 * [SwiftUI - ScaledMetric :: iOYES](https://green1229.tistory.com/506)
+* [SwiftUI의 Text에 stroke 적용하기 :: iOYES](https://green1229.tistory.com/523)
 
 # TDD, Test
 * [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
