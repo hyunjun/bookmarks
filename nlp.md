@@ -900,6 +900,7 @@ NLP
   * [ChatGPT 활용 KIER 업무효율화 역량강화 강의자료 | Pega Devlog](https://jehyunlee.github.io/2024/02/22/General-43_kierchatgpt/)
   * [ChatGPT 활용 KIER 강의자료 중 업무효율화 SW | Pega Devlog](https://jehyunlee.github.io/2024/04/02/General-47_kierworkaccel/)
   * [KIER 강연 - AI활용 업무 효율화 방안 | Pega Devlog](https://jehyunlee.github.io/2024/04/03/General-48_kierworkaccellec/)
+  * [생성AI 활용 학회 발표 준비 | Pega Devlog](https://jehyunlee.github.io/2024/11/07/General-67_afore2024/)
   * [06. ChatGPT API로 챗봇 웹앱 만들기 - 빵형의 AI 활용 개발 강의 - YouTube](https://www.youtube.com/watch?v=2a5V3oiaWUI)
   * [Inside OpenAI: How does ChatGPT Ship So Quickly?](https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship)
   * [Scaling ChatGPT: Five Real-World Engineering Challenges](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)
