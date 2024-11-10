@@ -92,6 +92,10 @@ Game
 
 # Library
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
+* [Generating Random Mazes with JavaScript – Cloud Four](https://cloudfour.com/thinks/generating-random-mazes-with-javascript/)
+  * 자바스크립트로 랜덤 미로 생성기 (w/ animation) 를 만들어보는 글
+  * 그래프 탐색을 응용한 방법으로 로직 구현
+  * 코드 전문이 codepen으로 공개
 * [Libplanet 게임잼](https://snack.planetarium.dev/kor/2020/03/libplanet-gamejam/)
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [isao의 IT,게임번역소 : 고전 게임의 소스코드를 다운로드 할 수 있는 「Game Source Code Collection」](http://isao76.egloos.com/2662070)
