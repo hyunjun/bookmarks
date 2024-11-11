@@ -446,6 +446,12 @@ Book
 * (NOT COMPLETED) [도시를 움직이는 비밀 파헤치기! 『도시를 만드는 기술 이야기』 북 트레일러 - YouTube](https://www.youtube.com/watch?v=DmjcVprRJiw&list=PLVsNizTWUw7HUp2EfvtnPnhWcitsOQ3hb)
   * ★★★☆☆ 2024.05.23
   * 우당 문531-힐91ㄷ
+* [샤프 펜슬에 뭔 짓을 한 거야?](https://www.notion.so/1003/13b3f0c2cf6580b486e4fd50c39f4d17)
+  * ★★★☆☆ 2024.11.11 진정한 덕후가 쓴 샤프에 대한 책. 존경스럽단 마음이 절로 든다. 샤프라는 흔한 commodity에 대해 이렇게까지 분석을 하고 책을 쓸 수 있다는 게 성취를 잘 보여주는 예라는 생각이 든다. 아무 생각없이 값 싸게 사용하던 도구의 내부가 이렇게 정밀하고 다양하게 구현되었다는 게 놀랍고 대단하다.
+  * [샤프 펜슬에 뭔 짓을 한 거야?](https://github.com/hyunjun/bookmarks/blob/master/books/mechanical_pencil.md)
+  * [샤프 펜슬에 뭔 짓을 한 거야? - Jun - Medium](https://nymets.medium.com/%EC%83%A4%ED%94%84-%ED%8E%9C%EC%8A%AC%EC%97%90-%EB%AD%94-%EC%A7%93%EC%9D%84-%ED%95%9C-%EA%B1%B0%EC%95%BC-30cf79ab2a40)
+  * [샤프 펜슬에 뭔 짓을 한 거야? - Jun’s Substack](https://recur.substack.com/p/140)
+  * [샤프 펜슬에 뭔 짓을 한 거야?](https://jh4hj.tistory.com/entry/%EC%83%A4%ED%94%84-%ED%8E%9C%EC%8A%AC%EC%97%90-%EB%AD%94-%EC%A7%93%EC%9D%84-%ED%95%9C-%EA%B1%B0%EC%95%BC)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
