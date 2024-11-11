@@ -359,6 +359,7 @@ Programmer
   * [12년차 구글 개발자가 신입으로 돌아간다면 가장 먼저 할 10가지](https://eopla.net/magazines/16403)
 * [Managing My Motivation, as a Solo Dev](https://mbuffett.com/posts/maintaining-motivation/)
   * [1인 개발자로서 동기 부여 관리하기 | GeekNews](https://news.hada.io/topic?id=15206)
+* [6년간 앱 350개를 만들어 파이어를 달성한 1인 개발자](https://eopla.net/magazines/23015#)
 * [지금 프로그래밍을 하고 있는 당신은 누구인가 | Evans Library](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
 * [엔지니어 영어 실력 어떻게 향상할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/10/developer-english/)
 * [How To Know When It's Time To Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
