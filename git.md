@@ -112,6 +112,13 @@ Git
 * [GitHub으로 협업하기: 클론부터 코드 리뷰까지 | ~/xo.dev](https://xo.dev/github-collaboration-guide/)
 * [GitHub Branch Lock and Automated code reviewer | GitHub Branch Policy | CODEOWNER - YouTube](https://www.youtube.com/watch?v=CXgNd3hketM)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
+* [GitHub Actions를 이용한 코드 리뷰 문화 개선기](https://d2.naver.com/helloworld/8149881) code review
+  * [pr-stats: PR에 대한 유용한 통계를 산출하는 GitHub Actions](https://github.com/naver/pr-stats)
+  * [notify-pr-review: PR 리뷰 요청을 받으면 Slack으로 알리는 Github Actions](https://github.com/naver/notify-pr-review)
+  * [request-pr-review: 슬랙으로 PR 리뷰 요청을 보내는 Github Actions](https://github.com/naver/request-pr-review)
+  * [notify-pr-line-count](https://github.com/naver/notify-pr-line-count)
+  * [d-day-labeler: D-n 규칙에 따라 자동으로 Label 을 업데이트하는 Github Actions](https://github.com/naver/d-day-labeler)
+  * [simple-labeler: PR에 자동으로 Label 을 추가해주는 간단한 Github Actions](https://github.com/naver/simple-labeler)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git 커밋, 브랜치, HEAD의 관계는?](https://blog.naver.com/codeitofficial/221941216489)
