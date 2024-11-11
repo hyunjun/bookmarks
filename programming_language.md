@@ -167,6 +167,7 @@ Programming Language
           * 성능 향상, 빌드 시간 및 메모리 요구를 줄이는 작업을 계속 진행 중
         * GraalVM을 통해 구현할 수 있는 것은 빠른 시작, 적은 메모리 및 CPU 사용, 보안 강화, 가벼운 용량, 쉬운 확장성
           * Micronaut와의 통합으로 클라우드 어플리케이션 개발에 큰 도움
+  * [IMDEV 2023 누구보다 빠르게, 남들과는 다르게! 가장 빠른 GraalVM](https://www.youtube.com/watch?v=rfWzRTY5e5s)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
