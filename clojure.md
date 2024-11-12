@@ -1405,6 +1405,7 @@ Clojure
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
   * [Understanding the Jepsen toolkit // Polyglot Artisan](https://rhishikesh.com/posts/understanding_the_jepsen_toolkit/)
+* [hawk: It watches your code like a hawk! You like tests, right? Then run them with our state-of-the-art Clojure test runner](https://github.com/metabase/hawk)
 * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
 * [rcf: turn your Rich Comment Forms into tests](https://github.com/hyperfiddle/rcf)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
