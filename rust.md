@@ -312,6 +312,7 @@
   * [Building a GUI Library in Rust - YouTube](https://www.youtube.com/watch?v=sDLrNAB7neY)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [evcxr_jupyter at main · google/evcxr](https://github.com/google/evcxr/tree/main/evcxr_jupyter) jupyter rust kernel
+* [gccrs: Rust를 위한 대체 컴파일러 | GeekNews](https://news.hada.io/topic?id=17681)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 * [gosub-browser: A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions](https://github.com/jaytaph/gosub-browser)
