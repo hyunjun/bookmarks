@@ -649,6 +649,7 @@ Artificial Intelligence
   * [AI로 인해 거부할 수 없는 변화를 맞이하는 기업들](https://www.linkedin.com/posts/jimmycho1_ai-transformation-ax-ugcPost-7256201321039421440-oURZ/)
 * [‘라마, 믹스트랄은 기준 미달’ 오픈소스 AI 정의 1.0 발표 – 바이라인네트워크](https://byline.network/2024/10/30-355/)
 * [툴 서비스의 무료 AI 기능, 사용자 경험은 어떨까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2830/)
+* [벌써 한계가 왔나... GPU 늘려도 AI가 똑똑해지지 않는다면? - 슬로우뉴스.](https://slownews.kr/120860)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
