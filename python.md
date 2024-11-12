@@ -5347,6 +5347,7 @@ Python
     * Polars를 사용하여 학습 파이프라인, 사용자 정의 함수 적용 및 준실시간 추론 파이프라인 개선
   * [Polars 시작하기 (소개 및 설치) - 자주쓰는 명령어로 배우는 Polars #1](https://sjquant.tistory.com/104)
   * [Polars로 데이터 불러오기 및 조작하기 - 자주 쓰는 명령어로 배우는 Polars #2](https://sjquant.tistory.com/105)
+  * [Polars로 데이터 필터링 및 정렬하기 - 자주 쓰는 명령어로 배우는 Polars #3](https://sjquant.tistory.com/106)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
