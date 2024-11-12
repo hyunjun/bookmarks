@@ -2369,6 +2369,7 @@ Javascript
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [loadingLazy: loading=lazy for background-image](https://github.com/crucifyer/loadingLazy)
 * [LocatorJS - click on any component to go to code](https://www.locatorjs.com/)
   * 개발 중인 컴포넌트 소스 코드를 손쉽게 찾아주는 도구
   * 웹 페이지에서 간단히 클릭하는 것만으로 IDE 내의 컴포넌트 소스 코드로 이동
@@ -3158,6 +3159,8 @@ Javascript
   * [Vite로 구버전 브라우저 지원하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17710/)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
+* [VoidZero — 자바스크립트를 위한 차세대 툴체인 출시. 원문… | by Ricki | Nov, 2024 | Medium](https://ricki-lee.medium.com/voidzero-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-%ED%88%B4%EC%B2%B4%EC%9D%B8-%EC%B6%9C%EC%8B%9C-ebb339008b7f)
+  * [Announcing VoidZero - Next Generation Toolchain for JavaScript | VoidZero](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [wireit: Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient](https://github.com/google/wireit)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
