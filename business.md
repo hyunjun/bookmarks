@@ -207,6 +207,11 @@ Business
 * [밸브 인터뷰 ③ 수직구조 없는 회사 밸브, "우리의 상사는 고객"](https://www.thisisgame.com/webzine/special/nboard/5/?n=154907)
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [**조직문화 개선에 대한 기대감을 잃지 않게 하려면**](https://brunch.co.kr/@matigevic/30) Edgar H. Schein 인공물(artifact) 표방하는 가치(espoused beliefs and values) 암묵적 가정(underlying assumptions)
+* [암묵지에서 형식지로](https://jojoldu.tistory.com/809)
+  * "일류의 조건"
+    * 기술을 훔치는 힘은 암묵지 (개인의 기술이나 경험 속에 숨어 있지만, 말과 글로 표현할 수 없는 지식이나 능력)를 얼마나 명확하게 인식하는지에 달려 있다.
+    * 기업 내의 지식 대부분은 암묵지로서, 그것을 활성화하여 형식지로 이용하는 과정이 대단히 중요하다.
+    * 기술을 훔치는 힘은, 암묵지를 본인의 의식으로 자체 해석하여 형식지로 발현하고, 이를 다시 자기 안에 스며들게 하는 힘을 말한다.
 * [조직문화를 만들어가는 비법 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=3RVxxkwWohA) 문화는 bottom up(X), top down(O), 그러므로 top leader가 지켜야 함
 * [조직 문화 담당자의 성과, 이렇게 측정 가능합니다 | H.PODCAST SAP Korea 오용석 1부 - YouTube](https://www.youtube.com/watch?v=FNXVh5wvGIw) BHCI index
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
@@ -897,6 +902,7 @@ Business
 * [사업개발 성공의 역설: ‘천천히 생각하고, 빠르게 행동하라’](https://eopla.net/magazines/22854)
 * [네이버 배너광고(Display AD)의 단가체계는 지나치게 복잡했다... 이건 어려운 것이 아니라 복잡한 것일 뿐](https://www.linkedin.com/posts/divercity_%EB%8B%A8%EA%B0%80%EC%B2%B4%EA%B3%84%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8B%A4-activity-7259735565963571200-1Rwy/)
   * [단가체계를 바꾸다](https://divercity.stibee.com/p/46/)
+* [기업이 돈을 버는 방법은 크게 세 가지 1) 제품이나 서비스를 제공하고 돈을 받는다 2) 제품을 팔 수 있는 솔루션을 제공한 뒤 수수료를 받는다(커머스) 3) 일단 사람들을 많이 모은 뒤에 누군가의 메시지를 전달하는 대가로 돈을 받는다(광고)](https://www.linkedin.com/posts/divercity_%EA%B8%B0%EC%97%85%EC%9D%B4-%EB%8F%88%EC%9D%84-%EB%B2%84%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%ED%81%AC%EA%B2%8C-%EC%84%B8-%EA%B0%80%EC%A7%80%EB%8B%A4-1-%EC%A0%9C%ED%92%88%EC%9D%B4%EB%82%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B3%A0-activity-7260473737173508096-MxMw/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1285,6 +1291,7 @@ Business
   * [평가에 있어 가장 중요한 것은 무엇인가](https://divercity.stibee.com/p/20/)
   * [평가에 있어 가장 중요한 것은 무엇인가? - YouTube](https://www.youtube.com/watch?v=3j8oHeylSd0)
   * 각 분기에 한 일에 대해서 평가를 하는 것이 아니라, 지금의 상태가 계속된다면 연말에 어떤 평가를 받게 될 것인지의 '예측등급'을 표기... 평가결과는 절대로 서프라이즈가 되어서는 안된다
+* [성과 평가 면담에서 자주 발생하는 최악의 리더십](https://www.linkedin.com/posts/elfpenguin_uchqoo-uchqoorhwqxa-spfqtguchqoo-activity-7260565811012984832-a6rA/)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -1514,6 +1521,8 @@ Business
   * A system is necessary for sustainable success, and culture matters
   * Treating everyone with respect and showing real respect can change a toxic culture
 * [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
+* [어려운 대화란 타고난 재능이 아닌 스킬 (Difficult Conversations are a Skill)](https://www.linkedin.com/posts/activity-7254020823672369153-MSLC/)
+* [어려운 대화란 타고난 재능이 아닌 스킬 (Difficult Conversations are a Skill) 2편](https://www.linkedin.com/posts/activity-7254382228086956034-dKMt/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1948,6 +1957,7 @@ Business
     * 1️⃣ 방지 가능한 실수 (Preventable Mistakes)
     * 2️⃣ 복잡한 시스템에서의 실수 (Complex Mistakes)
     * 3️⃣ 통찰을 주는 실패 (Intelligent Failures)
+* [조직의 심리적 안전감이란 무엇일까?](https://www.linkedin.com/posts/activity-7260093619850608640-yk6x/)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
