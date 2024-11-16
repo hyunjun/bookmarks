@@ -94,6 +94,7 @@ AWS
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Spot Instance pricing history](https://jybaek.tistory.com/917)
 * [인프랩의 EC2 스팟 인스턴스를 활용한 Jenkins 기반의 CI/CD 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/inflab-ec2-spot-instance/)
+* [aws spot instance, cloudflare, https - YouTube](https://www.youtube.com/watch?v=H9Kd76QR7lQ)
 * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/arun-gupta/java-k8s)
 * [Kubernetes Hands-on](https://github.com/awskrug/handson-labs-2018/blob/master/OpenInfraDays/hands-on.md)
 * [AWSKRUG Hands-on Lab 2018](https://github.com/awskrug/handson-labs-2018)
