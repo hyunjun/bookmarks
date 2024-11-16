@@ -1058,6 +1058,7 @@ App
   * [VSCode 코파일럿에 드디어 Claude AI 탑재! 개발자를 위한 최강의 조합이 온다 2편🚀 - YouTube](https://www.youtube.com/watch?v=9eE81HnU1uk)
   * [VS Code 확장 프로그램 개발 팁 첫 번째, 상태 표시줄 다루기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/409)
   * [VS Code 확장 프로그램 개발 팁 #2 - 풍선 도움말 다루기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/411)
+  * [VSC에서 클로드를 사용할 수 있다! - YouTube](https://www.youtube.com/playlist?list=PLkfUwwo13dlVwQ3PubzfRQl9dRr7NlHT5)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
@@ -2595,6 +2596,7 @@ App
   * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
   * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
   * [개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/2802/)
+  * [개발자의 Claude 사용 꿀팁 #4 | Figma 디자인을 코드로 변환! - YouTube](https://www.youtube.com/watch?v=GxYkugT1ktc)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Konty | Sketch your app ideas without stress](https://konty.app/)
