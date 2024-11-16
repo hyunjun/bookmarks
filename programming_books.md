@@ -249,6 +249,16 @@ Programming Books
   * [노코드/로우코드 - Jun - Medium](https://nymets.medium.com/%EB%85%B8%EC%BD%94%EB%93%9C-%EB%A1%9C%EC%9A%B0%EC%BD%94%EB%93%9C-ed03192b6421)
   * [노코드/로우코드 - Jun’s Substack](https://recur.substack.com/p/67e)
   * [노코드/로우코드](https://jh4hj.tistory.com/entry/%EB%85%B8%EC%BD%94%EB%93%9C%EB%A1%9C%EC%9A%B0%EC%BD%94%EB%93%9C)
+* [오픈: 비즈니스 패권의 열쇠](https://www.hanbit.co.kr/store/books/look.php?p_code=B1112748219)
+  * ★★★☆☆ 2024.11.16
+    * 《오픈: 비즈니스 패권의 열쇠》는 단순한 검색으로는 알기 어려운 오픈소스의 실질적 이면과 본질을 조명하는 책이다. 오픈소스는 협업과 공유라는 이상적인 이미지를 내세우지만, 이 책은 그 뒤에 숨은 실리와 전략적 동기를 분석한다. 현재 소프트웨어 분야는 경기 침체와 AI에 대한 환상 속에서 투자 환경이 보수적인데, 이러한 상황은 오픈소스에 대해 더 강하게 적용될 가능성이 크다.
+    * 책은 오랜 기간 글로벌 IT 기업 및 커뮤니티와 함께해온 전문가의 시각에서 오픈소스의 강점과 약점을 균형 있게 서술한다. 독자는 오픈소스가 단순히 선의에 기댄 철학이 아니라, 비즈니스 생존과 성장의 수단으로 활용되고 있음을 다양한 사례를 통해 이해할 수 있다. 미래를 향한 혁신의 열쇠로서 오픈소스는 분명 매력적인 투자처지만, 의사 결정권자들이 이를 전략적으로 선택할지는 미지수다. 현실적인 제약을 감안하면 이러한 결정이 쉽지 않다는 점은 이해되지만, 그럼에도 불구하고 아쉬움이 남는다.
+    * 특히 이 책은 “오픈”이라는 개념을 단순히 기술적 영역에 국한하지 않고, 사회적 철학과 글로벌 비즈니스 전략으로 확장해 다룬다. 성공한 오픈소스의 조건, 글로벌 빅테크가 이를 어떻게 활용하는지, 그리고 개인과 기업이 오픈소스를 통해 미래를 준비해야 하는 방향성까지 제시하며, 오늘날 오픈의 시대를 이해하는 데 중요한 길잡이가 된다.
+  * [오픈 - 비즈니스 패권의 열쇠](https://www.notion.so/1003/1403f0c2cf6580cfbd06c65aa33fb0fe)
+  * [오픈 - 비즈니스 패권의 열쇠](https://github.com/hyunjun/bookmarks/blob/master/programming_books/open.md)
+  * [오픈 — 비즈니스 패권의 열쇠. ★★★☆☆ 2024.11.16 | by Jun | Nov, 2024 | Medium](https://nymets.medium.com/%EC%98%A4%ED%94%88-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%ED%8C%A8%EA%B6%8C%EC%9D%98-%EC%97%B4%EC%87%A0-1bcca01e3ef6)
+  * [오픈 - 비즈니스 패권의 열쇠 - Jun’s Substack](https://recur.substack.com/p/1a2)
+  * [오픈 - 비즈니스 패권의 열쇠](https://jh4hj.tistory.com/entry/%EC%98%A4%ED%94%88-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%ED%8C%A8%EA%B6%8C%EC%9D%98-%EC%97%B4%EC%87%A0)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
