@@ -2251,6 +2251,8 @@ NLP
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
 * [밑바닥부터 Kanana LLM 개발하기: Pre-training - tech.kakao.com](https://tech.kakao.com/posts/661)
 * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
+* [DAN 24 - LLM for Search: 꽁꽁 얼어붙은 검색 서비스 위로 LLM이 걸어다닙니다](https://dan.naver.com/24/sessions/588)
+* [DAN 24 - 사람을 대신해야 진짜 AI지? : LLM 기반 임베딩부터 검색 품질 자동 평가 모델까지](https://dan.naver.com/24/sessions/591)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2937,6 +2939,7 @@ NLP
     * It is an open-source framework designed for cost-effective LLM routing, achieving high-quality results using smaller, open-source models
     * Key features include efficient query handling, optimized systems, and local computing
     * The framework's use of data augmentation and preference data training methods ensures high-quality responses while optimizing costs, making it a valuable tool for deploying LLMs efficiently
+    * [RouteLLM이라는 시스템을 통해 LLM(대형 언어 모델)의 추론 비용을 최적화하는 방법을 제시](https://www.linkedin.com/posts/activity-7261003576498376704-PFvW/)
 * [Local-LLM-Comparison-Colab-UI: Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/)
   * [Build with GenAI: generative search with local LLM | by Guodong (Troy) Zhao | Apr, 2024 | Bootcamp](https://bootcamp.uxdesign.cc/build-with-genai-generative-search-with-local-llm-342eb5a5037a)
   * [A complete guide to running local LLM models | by Guodong (Troy) Zhao | Bootcamp](https://bootcamp.uxdesign.cc/a-complete-guide-to-running-local-llm-models-3225e4913620)
