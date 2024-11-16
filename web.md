@@ -1032,6 +1032,8 @@ Web
     * shadcn-ui는 UI 라이브러리이면서 UI 라이브러리가 아님
     * UI 컴포넌트 코드가 파일로 추가되어 설치가 되는 특이한 방식으로 동작. 이러한 특성 덕분에, 코드 동작 및 스타일을 변경 용이
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
+  * [ui - 깔끔한 애니메이션을 지원하는 UI 컴포넌트 라이브러리 | GeekNews](https://news.hada.io/topic?id=17711)
+    * [Lukacho UI | Components | Charts | Animations](https://ui.lukacho.com/)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
 ## CSS-in-JS
@@ -2332,9 +2334,10 @@ Web
 * [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
 * [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
 * [웹어셈블리 기반의 유력 언어 프로젝트 13종 - ITWorld Korea](https://www.itworld.co.kr/news/231854)
+* [웹어셈블리(Wasm)가 클라우드 컴퓨팅의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/263104)
+* [웹어셈블리가 컨테이너를 대체할 수 있을까? - ITWorld Korea](https://www.itworld.co.kr/news/353777)
 * [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
 * [Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작 | GeekNews](https://news.hada.io/topic?id=6743)
-* [웹어셈블리(Wasm)가 클라우드 컴퓨팅의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/263104)
 * [WebAssembly: The Path to Components - YouTube](https://www.youtube.com/watch?v=DkpNqcfuPOM)
 * [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
 * [What is a WebAssembly Component (and Why?) - YouTube](https://www.youtube.com/watch?v=slSZk38ncw8)
