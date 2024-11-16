@@ -1931,6 +1931,9 @@ NLP
 * [**지극히 사적인 나만의 LLM, 가질 수 있을까? 1편 - 파인튜닝**](https://blog.sionic.ai/Finetuning_Llama) PEFT, LoRA, QLoRA
 * [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
 * [LoRA is a genius idea](https://www.linkedin.com/posts/svpino_lora-is-a-genius-idea-to-understand-the-activity-7156653694069932032-2GO8/)
+* MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+  * ["💡 LoRA를 넘어선 새로운 패러다임! MoRA가 메모리 문제를 해결하는 방법" - YouTube](https://www.youtube.com/watch?v=_goMNbhRIkI)
+    * [AGI KR | 오늘 소개해드릴 논문은 "MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning"입니다 | Facebook](https://www.facebook.com/groups/agikr/posts/%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%95%B4%EB%93%9C%EB%A6%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-mora-high-rank-updating-for-parameter-efficient-fine-tuning%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4-%EB%85%BC%EB%AC%B8/2442336092774101/)
 * [ReFT: A New Way of Finetuning LLMs 🧠 ♻ ](https://www.linkedin.com/posts/pascalbiese_reft-a-new-way-of-finetuning-llms-activity-7155504535883374592-PjnJ/)
 *  Andrej Karpathy
   * [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -2343,6 +2346,9 @@ NLP
     * [Claude Computer Use - Vision은 궁극의 API인가? | GeekNews](https://news.hada.io/topic?id=17451)
   * [MAC Claude APP 만들어서 사용하는 방법](https://newstars.cloud/593)
   * [Anthropic, 데스크탑용 Claude AI 앱 베타버전 공개 | GeekNews](https://news.hada.io/topic?id=17528)
+  * [PDF support (beta) - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/pdf-support)
+    * [#anthropic #PDF Support 는 RAG 성능이 어떨까요? - YouTube](https://www.youtube.com/watch?v=JVBXekOaKJw)
+      * [easy-pdf-rag: This is an example of implementing the RAG feature based on OpenAI Assistant V2 and Anthropic's PDF feature](https://github.com/teddylee777/easy-pdf-rag)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
@@ -2677,6 +2683,9 @@ NLP
     * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. - YouTube](https://www.youtube.com/watch?v=4JdzuB702wI)
       * [VidiGo 랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로](https://vidigo.ai/share/summary/dc9a7e8940b5)
       * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/852042)
+    * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
+      * [Intro to CoAgents (Public Beta)](https://docs.copilotkit.ai/coagents)
+      * [Build Agent-Native Apps with LangGraph & CoAgents (tutorial) - YouTube](https://www.youtube.com/watch?v=0b6BVqPwqA0)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
     * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
       * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
@@ -3171,6 +3180,8 @@ NLP
     * [KoAlpaca-Polyglot-12.8B · Hugging Face](https://huggingface.co/beomi/KoAlpaca-Polyglot-12.8B)
 * [autogen: Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ ](https://github.com/microsoft/autogen)
   * [AutoGen Studio 2.0 Full Course - NO CODE AI Agent Builder - YouTube](https://www.youtube.com/watch?v=apEA0oJaFb4)
+  * [🤖Magentic-One: 마이크로소프트의 최신 멀티 에이전트 시스템](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Magentic-One-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+    * [autogen/python/packages/autogen-magentic-one at main · microsoft/autogen](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [book\_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
