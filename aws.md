@@ -403,6 +403,7 @@ AWS
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [AWS SaaS Factory 프로그램](https://aws.amazon.com/ko/partners/programs/saas-factory/)
+* [블럭스가 전하는 AWS SaaS 전환의 성공 비결 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4%EA%B0%80-%EC%A0%84%ED%95%98%EB%8A%94-aws-saas-%EC%A0%84%ED%99%98%EC%9D%98-%EC%84%B1%EA%B3%B5-%EB%B9%84%EA%B2%B0-33488)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 * [How I Discovered Thousands of Open Databases on AWS | by Avi Lumelsky | Jan, 2022 | InfoSec Write-ups](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
 * [AWS Cloud Practitioner – The Complete Guide | Review N Prep](https://reviewnprep.com/blog/aws-cloud-practitioner-the-complete-guide/)
@@ -1207,6 +1208,7 @@ AWS
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part1/)
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part2/)
 * [채널톡 스타트업 기술 성장기: RDBMS에서 NoSQL로의 전환 - YouTube](https://www.youtube.com/watch?v=hMTaMRsuIf8)
+* [삼성 클라우드의 Amazon DynamoDB 비용 최적화 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sec-cloud-amazon-dynamodb-cost-optimization-journey/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
@@ -1321,6 +1323,11 @@ AWS
 * [Amazon ECS에서 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-on-amazon-ecs/)
 * [Scale your Amazon ECS using different AWS native services! | Containers](https://aws.amazon.com/ko/blogs/containers/scale-your-amazon-ecs-using-different-aws-native-services/)
   * [다양한 AWS 네이티브 서비스를 사용하여 Amazon ECS를 스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-your-amazon-ecs-using-different-aws-native-services/)
+* [Amazon Elastic Container Service (Amazon ECS)의 새로운 기능 발표](https://www.linkedin.com/posts/woo-hyung-choi-a0185110_aws-introduces-service-versioning-and-deployment-activity-7261719154355765248-JbCj/)
+  * Amazon ECS에서 장기간 실행하는 애플리케이션을 배포한 경우, 서비스 수정 사항 및 배포 이력을 조회할 수 있는 기능 제공
+    * 1️⃣ 롤링 업데이트 메커니즘을 통해, 기존 Task를 새로운 버전으로 점진적으로 교체할 때 배포 이력 조회 가능
+    * 2️⃣ 배포 상세 정보 확인 가능이 가능
+    * 3️⃣ 서비스 버전의 불변(Immutable) 설정도 조회 가능
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
