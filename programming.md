@@ -4538,6 +4538,8 @@ Programming
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
   * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
     * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
+* [Ignite Seoul 2024 - YouTube](https://www.youtube.com/playlist?list=PL4QsXCF3YN7sQO1SKEWk-SUw6dUBlljen)
+  * [Ignite Seoul 2024_Slide_PDF.zip - Google Drive](https://drive.google.com/file/d/1T-gPetcQDNyDoioh8B5meBzXOMrcX8ry/view)
 * InfCon
   * [INFCON 2024 후기 ✨](https://donghun.dev/INFCON-2024-REVIEWS)
   * [인프콘 후기 2024 INFCON](https://yeonyeon.tistory.com/338)
