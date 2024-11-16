@@ -8231,6 +8231,14 @@ Programming
 * [How Flow Works • James Lewis • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=FbV9EFHnGOE) platform engineering, value streams, ...
   * [VidiGo How Flow Works • James Lewis • GOTO 2024.mp4](https://vidigo.ai/share/summary/da6abb0ccdc5)
   * [흐름의 작동 원리 - 제임스 루이스 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1297070)
+* [Fruits & Roots - by Kent Beck and Beth Andres-Beck](https://tidyfirst.substack.com/p/fruits-and-roots)
+  * 숲과 사막의 비유는 소프트웨어 개발을 위한 두 가지 다른 환경을 설명하는 데 사용
+  * 숲은 눈에 띄는 긍정적인 성과를 내는 협업과 학습 중심의 환경, 사막은 전통적인 개인 중심의 환경
+  * 숲의 결실은 버그 제로, 빠른 배포, 좋은 소식, 차단 요소 없음, 고객 참여, 기술 개발, 데모, 실험, 즐거움 등
+    * 뿌리는 plan half, 공동 코드 소유권, 학습 중심 활동, 동기화, 공유 목표, 커뮤니티, 점진적 설계, 작은 단계, 테스트, 팀워크, 40 hours/week, 휴식
+    * 줄기는 공유된 목적과 커뮤니티를 통해 뿌리와 열매를 연결
+    * 뿌리가 없으면 열매도 없다고 강조
+  * 현실은 경기 침체와 함께 이런 가치들은 점점 무시되는 듯 하다
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
