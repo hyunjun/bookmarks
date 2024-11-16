@@ -895,6 +895,8 @@ Business
 * [의사결정자를 만나야 한다](https://divercity.stibee.com/p/43/)
   * [광고주는 왜 광고를 집행할까. 광고가 잘 집행되었는지를 어떻게 평가할까](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9E%90%EB%A5%BC-%EB%A7%8C%EB%82%98%EC%95%BC-%ED%95%9C%EB%8B%A4-activity-7258647931468079104-YbcE/)
 * [사업개발 성공의 역설: ‘천천히 생각하고, 빠르게 행동하라’](https://eopla.net/magazines/22854)
+* [네이버 배너광고(Display AD)의 단가체계는 지나치게 복잡했다... 이건 어려운 것이 아니라 복잡한 것일 뿐](https://www.linkedin.com/posts/divercity_%EB%8B%A8%EA%B0%80%EC%B2%B4%EA%B3%84%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8B%A4-activity-7259735565963571200-1Rwy/)
+  * [단가체계를 바꾸다](https://divercity.stibee.com/p/46/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1941,6 +1943,11 @@ Business
       * 중요한 것은 리더십의 변화이며, 조직문화에 대한 변화는 이와 관련된 문제를 할 수 있는 기관으로 실질적인 제도적인 지원이 필요
 * [스타트업에서 심리적 안정감이 중요한 이유(feat. 애자일)](https://eopla.net/magazines/13403)
 * [나의 실패 / 성공 경험, 동료에게는 무엇이 도움이 될까?. 딜라이트룸이 단단한 성장력을 가지고 있는 것은 구성원들이 강한 생존력과… | by Joon Won Lee | DelightRoom | Apr, 2024 | Medium](https://medium.com/delightroom/%EB%82%98%EC%9D%98-%EC%8B%A4%ED%8C%A8-%EC%84%B1%EA%B3%B5-%EA%B2%BD%ED%97%98-%EB%8F%99%EB%A3%8C%EC%97%90%EA%B2%8C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0%EA%B9%8C-9ff2a9b65181) 심리적 안정감
+* ["두려움 없는 조직"(Fearless Organization)이라는 책에 대해 이야기... 이 책의 주제는 심리적 안전감(Psychological Safety)이 있는 조직이 훨씬 더 좋은 성과를 낸다는 것](https://www.linkedin.com/posts/activity-7259671704841408513-wzgI/)
+  * 심리적 안전감에서 중요한 포인트는 실패를 용인하는 것인데 어떤 실패가 좋은 실패일까?
+    * 1️⃣ 방지 가능한 실수 (Preventable Mistakes)
+    * 2️⃣ 복잡한 시스템에서의 실수 (Complex Mistakes)
+    * 3️⃣ 통찰을 주는 실패 (Intelligent Failures)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
