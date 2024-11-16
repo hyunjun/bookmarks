@@ -1012,6 +1012,7 @@ Interview
 * [개발자가 회사에 지원할 때 점검해야 할 것 5가지](https://www.notion.so/5-29e9d83ea9ac4da491d8a3e95938d276)
 * [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
 * [자소서에 절대 쓰지 말아야 하는 다섯 가지 표현 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243171)
+* [쉽게 살 수 있을까 ? :: 자기소개서, 네가 아는 그거 아니다.](https://hl1itj.tistory.com/270)
 * [주니어 개발자 이력서 쓰는 법](https://velog.io/@yukina1418/%EC%A3%BC%EB%8B%88%EC%96%B4-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [개발 실력이 눈에 보이는 이력서 작성법 - Google Slides](https://docs.google.com/presentation/d/1lBxxuynGG75lfq_IeAUw1ovG_ch2mIGER_C_ubqwEW0/edit#slide=id.p)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
