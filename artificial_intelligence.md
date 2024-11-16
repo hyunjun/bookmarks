@@ -403,7 +403,6 @@ Artificial Intelligence
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
 * [Mem – The AI Notes App That Keeps You Organized](https://get.mem.ai/) AI notepad
-* [🤖Magentic-One: 마이크로소프트의 최신 멀티 에이전트 시스템](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Magentic-One-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 * [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
@@ -422,6 +421,9 @@ Artificial Intelligence
 * [paper-reviewer: Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers)](https://github.com/deep-diver/paper-reviewer)
   * [AI Paper Reviews by AI](https://deep-diver.github.io/ai-paper-reviewer/)
   * [AGI KR | 💡 오픈소스 프로젝트 공유 | Facebook](https://www.facebook.com/groups/agikr/posts/-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EC%9C%A0arxiv%EC%97%90-%EC%B6%9C%EA%B0%84%EB%90%9C-%EB%85%BC%EB%AC%B8%EC%9D%84-%EB%8C%80%EC%83%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B3%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-paper-reviewer%EB%A5%BC-/2442249912782719/)
+* [phidata: Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI](https://github.com/phidatahq/phidata)
+  * [Agents - Phidata](https://docs.phidata.com/agents)
+  * [🛠️Phidata Agents: 코드 4줄로 완성하는 강력한 AI 에이전트 프레임워크](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8FPhidata-Agents-%EC%BD%94%EB%93%9C-4%EC%A4%84%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EA%B0%95%EB%A0%A5%ED%95%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 * [Praison AI: AI Agency - Unlock the Power of AI for Your Business](https://praison.ai/)
   * [PraisonAI Code: AI 코딩 혁신! 이젠 전체 코드 베이스와 대화하세요!(feat. 제미나이) 💬🚀](https://fornewchallenge.tistory.com/entry/PraisonAI-Code-AI-%EC%BD%94%EB%94%A9-%ED%98%81%EC%8B%A0-%EC%9D%B4%EC%A0%A0-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94feat-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%F0%9F%92%AC%F0%9F%9A%80)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
@@ -677,6 +679,36 @@ Artificial Intelligence
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
+* [AI/노코드/SaaS툴 모음](https://www.linkedin.com/posts/michelleminkyungkim_tcwqluqwksmcslh-tcwqluqwktrzslh-tcwqluqwkswmtnktxuslh-activity-7253291019171966976-oh-4/)
+  * 슈퍼잡부: ChatGPT 
+  * 글쓰기: Claude
+  * 코딩: Cursor, Bolt.new
+  * 자료 조사: Perplexity 
+  * 사업계획서/투자제안서 : Napkin
+  * PPT : Gamma
+  * 랜딩페이지 : runmoa
+  * 뉴스레터 자동화: Waveon 
+  * 카톡 자동화: Chatgee 
+  * 업무 자동화: Make 
+  * 컨텐츠 자동화: Metricool 
+  * 줌미팅 녹화: tl;dv 
+  * 회의록 요약: Clova 
+  * 아이디어 기획: Obsidian, Notion
+  * CRM: Airtable 
+  * 고객응대: 채널톡, Manychat
+  * 컨텐츠 디자인: Canva 
+  * UI 디자인: Figma 
+  * 영상 편집: CapCut
+* [외국에선 핫하지만, 국내에는 덜 알려진 AI사이트 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=humor&wr_id=1422219)
+  1. Perplexity – 질문하면 즉각 답변하는 AI 검색엔진
+  2. Gamma – 텍스트만 입력하면 AI가 대신 ppt 만들어줘
+  3.  Guru - 지식 관리와 AI 검색 최적화
+  4. Otter ai - 메모 자동화. 똑똑한 기록러가 되고싶다면 이 툴!
+  5. copy. ai – 카피라이팅 자동화, 마케터라면 필수!
+  6. Jasper – 이 툴도 마케팅용 텍스트 생성에 최적화
+  7. HeyGen – 텍스트 입력하면 자동으로 영상 생성
+  8. Tidio - 고객 서비스 향상, CS 챗봇의 최고봉
+  9. Synthesis. io – 가상 인간 아바타 영상 제작 궁금했지? 이 툴이야!
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
