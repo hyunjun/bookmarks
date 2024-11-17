@@ -1461,6 +1461,8 @@ Deep Learning
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
 * [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
+  * [Windsurf Editor by Codeium](https://codeium.com/windsurf)
+    * [🖥️Windsurf Editor: 미래의 에디터를 오늘 만나보세요🚀](https://fornewchallenge.tistory.com/entry/%F0%9F%96%A5%EF%B8%8FWindsurf-Editor-%EB%AF%B8%EB%9E%98%EC%9D%98-%EC%97%90%EB%94%94%ED%84%B0%EB%A5%BC-%EC%98%A4%EB%8A%98-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%84%B8%EC%9A%94%F0%9F%9A%80)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * CoreML
   * [coreml-scikit-example - Apple CoreML example with scikit-learn](https://github.com/mfpierre/coreml-scikit-example)
