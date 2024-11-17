@@ -464,11 +464,12 @@ Open Source
   * [Evolution of Netflix Conductor: v2.0 and beyond](https://medium.com/netflix-techblog/evolution-of-netflix-conductor-16600be36bca)
 * [Delta: A Data Synchronization and Enrichment Platform](https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee)
 * Dispatch [Introducing Dispatch](https://medium.com/@NetflixTechBlog/introducing-dispatch-da4b8a2a8072)
-* EVCache
+* [EVCache: A distributed in-memory data store for the cloud](https://github.com/Netflix/EVCache)
   * [Announcing EVCache: Distributed in-memory datastore for Cloud](https://medium.com/netflix-techblog/announcing-evcache-distributed-in-memory-datastore-for-cloud-c26a698c27f7)
   * [Evolution of Application Data Caching : From RAM to SSD](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
   * [Cache warming: Agility for a stateful service](https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
   * [Cache warming: Leveraging EBS for moving petabytes of data | by Netflix Technology Blog | Nov, 2021 | Medium](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3)
+  * [Netflix’s Distributed Counter Abstraction | by Netflix Technology Blog | Nov, 2024 | Netflix TechBlog](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
   * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
   * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg)
