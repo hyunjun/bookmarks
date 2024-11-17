@@ -663,6 +663,7 @@ Artificial Intelligence
 * [GN#260 지금이 서비스 비즈니스를 시작하기 좋은 시기입니다 | GeekNews](https://news.hada.io/weekly/202427)
 * [GN#261 2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/weekly/202428)
 * [GN#277 Gen AI - 빠른 사고에서 느린 사고로, 에이전트 추론의 시대 개막 | GeekNews](https://news.hada.io/weekly/202444)
+* [GN#279 차세대 경쟁 Arena 18가지 | GeekNews](https://news.hada.io/weekly/202446)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
@@ -848,6 +849,7 @@ Artificial Intelligence
 
 # Video
 * [AI로 피팅모델을 '생성'하고 실제 의류를 합성합니다 | 개발자 브이로그 - YouTube](https://www.youtube.com/watch?v=bRxymNcxjNI)
+* [Luma Dream Machine | AI Video Generator](https://lumalabs.ai/dream-machine)
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
 * [ToonCrafter: a research paper for generative cartoon interpolation](https://github.com/ToonCrafter/ToonCrafter)
