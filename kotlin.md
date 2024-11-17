@@ -335,6 +335,7 @@
   * [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
   * [RunCatching을 이용한 Kotlin Exception처리 #try, catch](https://www.popit.kr/logstash-필터-elapsed)
   * [Kotlin flow의 예외 처리(catch), 재시도(retry, retryWhen) 살펴보기](https://thdev.tech/kotlin/2023/04/13/Kotlin-Flow-Retry/)
+  * [코루틴 예외 처리 (Exception Handling)](https://brunch.co.kr/@mystoryg/223)
 * use
   * [Unlocking the Power of ‘use’ Keyword in Kotlin: A Closer Look | by Tippu Fisal Sheriff | Aug, 2023 | Medium](https://medium.com/@TippuFisalSheriff/unlocking-the-power-of-use-keyword-in-kotlin-aad3daa15948)
 
