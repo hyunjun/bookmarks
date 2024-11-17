@@ -140,5 +140,9 @@
 # Line
 * [글로벌을 향한 LINE 광고 플랫폼의 도전 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=Xe1dbcFjYvA)
 
+# Microsoft
+* [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
+  * [유저는 언제 나갔을까요? - Microsoft Clarity](https://velog.io/@wns450/%EC%9C%A0%EC%A0%80%EB%8A%94-%EC%96%B8%EC%A0%9C-%EB%82%98%EA%B0%94%EC%9D%84%EA%B9%8C%EC%9A%94Clarity)
+
 # Naver
 * [python-PowerNad: Naver search Ad Lib for Python](https://github.com/devkingsejong/python-PowerNad)
