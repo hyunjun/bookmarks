@@ -366,6 +366,7 @@ Go
 * [What is the GOTH stack? Quickly build web apps using Go, Templ, and Htmx #FAST - YouTube](https://www.youtube.com/watch?v=L1D9zJ-Yn9U)
 * [Go 언어 - 성급한 추상화](https://velog.io/@kineo2k/Go-%EC%96%B8%EC%96%B4-%EC%84%B1%EA%B8%89%ED%95%9C-%EC%B6%94%EC%83%81%ED%99%94)
 * [One process programming notes (with Go and SQLite)](https://crawshaw.io/blog/one-process-programming-notes)
+* [Go 언어의 15년 | GeekNews](https://news.hada.io/topic?id=17701)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
