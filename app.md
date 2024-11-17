@@ -2527,6 +2527,8 @@ App
 
 # UX, design
 * [Axure RP - UX Prototypes, Specifications, and Diagrams in One Tool](https://www.axure.com/)
+* [Creatie | Intuitive, affordable, AI-powered product design software](https://creatie.ai/)
+  * [100% 무료! 4개월 만에 1등 한 AI 디자인 툴은 세계 1위 피그마를 이길 수 있을까? - YouTube](https://www.youtube.com/watch?v=bI7ZfJMi6Pk)
 * [Figma: the collaborative interface design tool.](https://www.figma.com/)
   * [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
   * [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
