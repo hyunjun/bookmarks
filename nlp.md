@@ -1116,6 +1116,7 @@ NLP
 * [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
   * [2302.11382 A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 * [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
+* [세밀한 요약을 위한 프롬프팅 Elment-Aware Summary Chain-of-Density (CoD) Prompting](https://www.linkedin.com/posts/ugcPost-7262473989036343297-Luji/)
 * [Matt Shumer on X: "GPT-4 struggles to write in different styles, which is why most AI-written text sounds the same. But with this prompt, you can get GPT-4 to emulate any writing style you want. Use it to write like your favorite author, mimic a specific tone, or even create content that matches… https://t.co/euf5TBqEf0" / X](https://twitter.com/mattshumer_/status/1705258197794070598)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
