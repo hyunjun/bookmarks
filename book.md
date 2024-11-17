@@ -1106,6 +1106,17 @@ Book
   * [옥스퍼드 초엘리트 Oxford](https://github.com/hyunjun/bookmarks/blob/master/books/oxford.md)
   * [옥스퍼드 초엘리트 Oxford. ★★☆☆☆ August 11, 2024 영국의 브렉시트를 주도한 보수당… | by Jun | Aug, 2024 | Medium](https://nymets.medium.com/%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C-%EC%B4%88%EC%97%98%EB%A6%AC%ED%8A%B8-oxford-0158278cf90e)
   * [옥스퍼드 초엘리트 Oxford](https://jh4hj.tistory.com/entry/%EC%98%A5%EC%8A%A4%ED%8D%BC%EB%93%9C-%EC%B4%88%EC%97%98%EB%A6%AC%ED%8A%B8-Oxford)
+* 아버지의 죽음 앞에서 Dear Life
+  * ★★★★☆ 2024.11.17
+    * 의사 아버지를 둔 의사 딸이 일생을 통해 의사로, 한 인간으로 성장하고 아버지를 보내는 순간까지를 담담하게 쓴 에세이. (아직 한달 반이 남긴 했지만 아마도) 올해 읽은 책 중 가장 깊은 울림을 남겼다. 짧은 기자 생활을 마치고 어릴 적부터 존경하던 아버지의 영향을 받아 의사의 길을 선택한 저자는 응급실을 거쳐 호스피스 전문의로서 삶을 살아간다. 호스피스라는 환경에서 죽음이 가까운 환자들의 삶의 끝을 지켜보며, 인간적인 의료를 실천하는 과정을 통해 자신 역시 성장해 간다.
+    * 그러나 의학적 지식으로도 해결할 수 없는 순간이 찾아온다. 저자의 아버지가 암 진단을 받고, 그녀는 의료인으로서뿐 아니라 딸로서 아버지와의 남은 날들을 보내게 된다. 이 과정에서 깨닫는 것은, 아무리 많은 의학적 지식과 경험이 있어도 사랑하는 사람의 고통과 죽음을 온전히 이해하거나 받아들이는 데는 한계가 있다는 사실이다. 결국 그녀는 의사로서 배운 것뿐 아니라 인간으로서 느끼는 고통과 기쁨을 통해 아버지와의 마지막 시간을 보내며 성숙해 간다.
+    * 이 책은 나이 들어가는 독자들에게 특히 큰 울림을 줄 것이다. 삶의 마지막이 가까워질수록 중요한 것이 무엇인지, 떠나는 사람과 남겨지는 사람 모두에게 어떤 시간이 필요한지에 대해 깊이 생각하게 한다. 나 역시 이 책을 통해 아내가 장인어른을 떠나보낼 때 느꼈던 마음을 조금이나마 이해할 수 있었다고 감히 말해 본다.
+    * 이 책은 단순히 죽음에 대한 이야기가 아니다. 오히려 죽음 앞에서도 삶이 계속됨을 보여주는, 사랑과 이별의 의미를 조명하는 따뜻하고 아름다운 기록이다. 의학과 삶, 그리고 사랑의 복잡한 교차점에서 자신만의 목소리로 이야기를 전하는 저자의 글은 긴 여운을 남긴다.
+  * [아버지의 죽음 앞에서 Dear Life](https://www.notion.so/1003/Dear-Life-1413f0c2cf658032b1d2de515de6d95d)
+  * [아버지의 죽음 앞에서 Dear Life](https://github.com/hyunjun/bookmarks/blob/master/books/dear_life.md)
+  * [아버지의 죽음 앞에서 Dear Life. ★★★★☆ 2024.11.17 | by Jun | Nov, 2024 | Medium](https://nymets.medium.com/%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98-%EC%A3%BD%EC%9D%8C-%EC%95%9E%EC%97%90%EC%84%9C-dear-life-b11524f0c801)
+  * [아버지의 죽음 앞에서 Dear Life - Jun’s Substack](https://recur.substack.com/p/dear-life)
+  * [아버지의 죽음 앞에서 Dear Life](https://jh4hj.tistory.com/entry/%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98-%EC%A3%BD%EC%9D%8C-%EC%95%9E%EC%97%90%EC%84%9C-Dear-Life)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
