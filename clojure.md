@@ -653,6 +653,7 @@ Clojure
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [JUXT Blog - Speed up your ClojureScript Webapp](https://www.juxt.pro/blog/clojurescript-app-performance)
 * [Chris Mccormick - ClojureScript UIs in 500 Bytes](https://mccormick.cx/news/entries/clojurescript-uis-in-500-bytes)
+* ["ClojureScript Has It All! Except Maybe for Types" by Kamil Waheed - YouTube](https://www.youtube.com/watch?v=cFF9E3pASyI)
 * [Vlojure - A New Way to Write ClojureScript - YouTube](https://www.youtube.com/watch?v=1OcAUhe3E1E)
 
 ## ClojureScript Library
