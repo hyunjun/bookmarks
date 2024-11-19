@@ -227,6 +227,8 @@ Finance
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
+* [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 1](http://www.umlcert.com/aipilotsmarteasy-usecase-001/)
+* [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 2](http://www.umlcert.com/aipilotsmarteasy-usecase-002/)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
 
