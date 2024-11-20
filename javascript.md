@@ -1689,6 +1689,10 @@ Javascript
   * [번역 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years)
 * [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
   * [ECMAScript 2024 승인 : 새로운 기능은? | GeekNews](https://news.hada.io/topic?id=15579)
+* [JavaScript Import Attributes (ES2025)](https://www.trevorlasn.com/blog/import-attributes-in-javascript)
+  * JSON 파일을 import 할 때 보안 이슈 존재 가능(JSON 파일인 줄 알았는데 이름만 .json 이고 실제로는 악의적인 스크립트 였다던가)
+  * import 시 해당 파일이 JSON 인지 스크립트인지 명시할 수 있는 기능이 내년에 표준 도입 예정
+    * 이 경우 JSON 이라고 명시해서 import 했는데 JSON 이 아니면 에러 발생
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -2990,6 +2994,8 @@ Javascript
     * pnpm은 이 모두 파일에 쓰는 성능 문제를 해결하기 위해 모두 쓰지 않고 alias를 만들어서 연결
     * yarn은 Plug'n'Play 방식을 사용해서 `.pnp.cjs` 파일에 JavaScript Map으로 의존성을 찾는 방법을 명시해서 훨씬 빠르고 정확하게 동작
   * Toss는 Yarn의 좋은 아키텍처, 정확성과 성능 때문에 Yarn을 선택
+* [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+  * [(번역) 자바스크립트 모노레포의 깃 용량을 94% 줄인 방법 | emewjin.log](https://emewjin.github.io/git-repo-size/)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Farm Documentation | Farm](https://www.farmfe.org/)
   * [Farm - 매우 빠른, Vite 호환 빌드 도구 | GeekNews](https://news.hada.io/topic?id=15487)
