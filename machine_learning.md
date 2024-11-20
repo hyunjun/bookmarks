@@ -790,6 +790,7 @@ Machine Learning
   * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [Machine Learning Engineering book by Andriy Burkov](http://www.mlebook.com/wiki/doku.php)
+* [Machine Learning Systems](https://mlsysbook.ai/) 1400페이지에 이르는 방대한 양, machine learning 영역이 넓어지며 system 구축이 중요한 일이 되었는데, 이 분야에 대한 책
 * [Machine Learning with TensorFlow](http://tensorflowbook.com/)
   * [Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
 * ['Machine Learning Yearning' 책의 한국어 번역](https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation)
