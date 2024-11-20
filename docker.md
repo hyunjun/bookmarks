@@ -705,6 +705,7 @@ Docker
 * [Docker video tutorials - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVahmaH4QgmFwbpUW9J3vgk4)
 * [**컨테이너 환경을 위한 초기화 시스템 (tini, dumb-init)** | Swalloow Blog](https://swalloow.github.io/container-tini-dumb-init/)
 * [맥을 Docker remote host로 사용하기](https://puddingcamp.com/topic/using-an-imac-as-a-docker-remote-host)
+* [도커가 바꾼 개발바닥 - YouTube](https://www.youtube.com/watch?v=e0koWWAmXSk) 설명을 잘 함(역시 강의 만들만 함)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
