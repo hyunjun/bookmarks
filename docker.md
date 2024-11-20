@@ -2279,6 +2279,7 @@ Docker
     * 2. Distruption Budgets 지정
       * 현재 떠있는 노드들 중 특정 비율 혹은 특정 대수를 지정해 Karpenter로 인해 죽지 않도록 지정 및 Scheduling 가능
   * [Karpenter 0.3x. 안녕하세요. 여기어때컴퍼니 SRE팀에서 EKS(Elastic… | by Jensen | Apr, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/karpenter-0-3x-36a0cb57b205)
+  * [EKS클러스터 Karpenter 적용기](https://devblog.kakaostyle.com/ko/2022-10-13-1-karpenter-on-eks/)
   * [Karpenter 파일럿](https://saramin.github.io/2024-06-26-karpenter/)
   * [FAQs | Karpenter](https://karpenter.sh/v0.37/faq/#why-arent-my-topology-spread-constraints-spreading-pods-across-zones)
     * Karpenter를 사용할 때, pod이 topologySpreadConstraints 를 따르지 않는 이유
