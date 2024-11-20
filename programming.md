@@ -524,6 +524,8 @@ Programming
 * [How to make your Software Development experience painless](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
 * [나쁜 개발자의 11가지 습관](https://blog.naver.com/codestates/221255140091)
 * [개발을 잘 하는 습관 · shiren the creator](https://blog.shiren.dev/2021-05-17/)
+* [Good software development habits | Zarar's blog](https://zarar.dev/good-software-development-habits/)
+  * [좋은 소프트웨어 개발 습관 | GeekNews](https://news.hada.io/topic?id=17820)
 * [Want to be a top developer? You should build things. Here’s another list to get you started](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 * [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
 * [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
