@@ -114,6 +114,15 @@ Web
   * [반응형 폰트 사이즈를 위한 공식 | GeekNews](https://news.hada.io/topic?id=13940)
 * [Features of your font you had no idea about · OlegWock](https://sinja.io/blog/get-maximum-out-of-your-font)
   * [고품질 글꼴에서 얻을 수 있는 이점 | GeekNews](https://news.hada.io/topic?id=16709)
+* [The Ultimate Guide to Font Performance Optimization | DebugBear](https://www.debugbear.com/blog/website-font-performance)
+  * [(번역) 폰트 성능 최적화를 위한 궁극적인 가이드 | Ykss](https://ykss.netlify.app/translation/the_ultimate_guide_to_font_performance_optimization/)
+    * 1. 한 사이트에서 두 개 이상의 폰트 패밀리 로드 X (필요하면 어떻게 하나?)
+    * 2. 웹 폰트 공개 CDN 을 사용하지 말고 자체 호스팅
+      * 자체 호스팅 사용이 불가능하면 다운로드 최적화 e.g. 필요한 서체 (특정 굵기, italic 적용/미적용 등등) 만 다운로드 가능
+    * 3. WOFF2 포멧을 사용(2번이 선행되어야 가능)
+    * 4. `@font-face` 를 잘 사용
+      * `@font-face` 선언은 폰트를 바로 다운로드 X `font-family` 에 해당 폰트를 적용해야 다운로드(상세한 사용 방법도 공유)
+    * 5. 일반적인 웹 성능 최적화도 잘 적용
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [요즘 '모던' 프론트엔드 개발하려면 알아야할 것들 - YouTube](https://www.youtube.com/watch?v=ZM55pce2AkY)
