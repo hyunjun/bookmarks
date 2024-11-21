@@ -452,6 +452,12 @@ Book
   * [샤프 펜슬에 뭔 짓을 한 거야? - Jun - Medium](https://nymets.medium.com/%EC%83%A4%ED%94%84-%ED%8E%9C%EC%8A%AC%EC%97%90-%EB%AD%94-%EC%A7%93%EC%9D%84-%ED%95%9C-%EA%B1%B0%EC%95%BC-30cf79ab2a40)
   * [샤프 펜슬에 뭔 짓을 한 거야? - Jun’s Substack](https://recur.substack.com/p/140)
   * [샤프 펜슬에 뭔 짓을 한 거야?](https://jh4hj.tistory.com/entry/%EC%83%A4%ED%94%84-%ED%8E%9C%EC%8A%AC%EC%97%90-%EB%AD%94-%EC%A7%93%EC%9D%84-%ED%95%9C-%EA%B1%B0%EC%95%BC)
+* [복붙 개발자의 벼락 성공기](https://www.notion.so/1003/1453f0c2cf65802abff1d0bc337f8953)
+  * ★★☆☆☆ 2024.11.20~21 지극히 내향적인 개발자 리오가 고객 지원 업무를 피하기 위해 고생하다가 예기치 못한 성공을 거두는 이야기. 개발자의 일상이나 관련 이야기를 가볍고 유머러스하게 풀어낸다. 개발에 대해 지식이 있는 독자라면 리오나 주변인물들에게서 느낄 수 있는 여러 감정이나 상황을 공감할 수 있을 것이다. 하지만 흥미롭고 대단한 저자의 경력에 비하면, 이야기 자체는 나에겐 큰 감흥은 없었다.
+  * [복붙 개발자의 벼락 성공기](https://github.com/hyunjun/bookmarks/blob/master/books/unlikely_success.md)
+  * [복붙 개발자의 벼락 성공기 - Jun - Medium](https://nymets.medium.com/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0-47294013c184)
+  * [복붙 개발자의 벼락 성공기 - Jun’s Substack](https://recur.substack.com/p/4f2)
+  * [복붙 개발자의 벼락 성공기](https://jh4hj.tistory.com/entry/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
