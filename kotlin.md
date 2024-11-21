@@ -458,6 +458,7 @@
 * [Coroutine 코루틴과 공유 상태](https://yeonyeon.tistory.com/337)
 * [Kotlin Coroutines: how to merge asynchronous results in Kotlin? | by @jtlalka | Medium](https://medium.com/@jtlalka/kotlin-coroutines-how-to-merge-asynchronous-results-in-kotlin-674c3079edba)
 * [코루틴 취소(Cancellation)](https://brunch.co.kr/@mystoryg/221)
+* [코루틴 SupervisorJob](https://brunch.co.kr/@mystoryg/224)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
