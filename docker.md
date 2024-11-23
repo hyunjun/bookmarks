@@ -901,10 +901,13 @@ Docker
 * DockerCon 2022
   * [The Journey from Docker Desktop to 100K IoT Devices running on Docker - YouTube](https://www.youtube.com/watch?v=C-3IbNoXN4U)
     * [Talks/2022_DockerCon at master · mpous/Talks · GitHub](https://github.com/mpous/Talks/tree/master/2022_DockerCon)
-* [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
-* [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
-* [KubeCon Vlog 1편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=F4GOwBfbkrI)
-* [KubeCon Vlog 2편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=n3KPbRvbbgE)
+* KubeCon
+  * [KubeCon + CloudNativeCon Salt Lake City 2024 - YouTube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Pw4mRw4S-1p_xLARMqPkA7)
+    * KubeCon 2024 NA 세션 슬라이드 `git clone https://github.com/denverdino/slides-downloader.git; ./kccncna2024.sh`
+  * [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
+  * [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
+  * [KubeCon Vlog 1편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=F4GOwBfbkrI)
+  * [KubeCon Vlog 2편: 발표자 시점 쿠버콘 브이로그(ft. KubeCon NA 2023) - YouTube](https://www.youtube.com/watch?v=n3KPbRvbbgE)
 * [ThanosCon Retrospective | @bwplotka](https://www.bwplotka.dev/2024/thanoscon2024/)
   * Kubecon Europe 2024에서 Promethues 롱텀 스토리지인 Thanos의 콘퍼런스인 ThanosCon이 처음으로 개최
   * Thanos를 Fabian Reinartz와 함께 만든 Bartek Płotka가 콘퍼런스를 개최한 후기를 정리한 글
