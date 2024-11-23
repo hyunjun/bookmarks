@@ -5076,6 +5076,13 @@ Javascript
   * 추가적인 라이브러리 사용 없이 "드래그로 여러 아이템을 선택" 하는 기능을 만드는 글
     * 스크롤 가능한 엘리먼트 내에서 대응하는 것이 깔끔
 * [HTML to React & Figma - 웹사이트를 React 컴포넌트로 변환하는 크롬 | GeekNews](https://news.hada.io/topic?id=17609)
+* [TIL: inline event handlers still fire when passed to React's dangerouslySetInnerHTML | Alex MacArthur](https://macarthur.me/posts/safer-dangerouslysetinnerhtml/)
+  * `dangerouslySetInnerHTML`의 prop 의 위험성을 경고하고 어떻게 안전하게 사용할 수 있는지에 대해 이야기
+  * 안전하게 dangerouslySetInnerHTML을 사용할 수 있는 방법
+    * dangerouslySetInnerHTML 에 넣을 값을 안전하게 파싱해주는 라이브러리를 사용하자 (예, DOMPurify, sanitize-html)
+    * head 에 태그를 추가하자 `<meta http-equiv="Content-Security-Policy" content="script-src 'self'">`
+    * 리스폰스 헤더에 내용을 추가하자 `Content-Security-Policy: "script-src 'self'";`
+  * [Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
