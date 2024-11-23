@@ -1607,6 +1607,7 @@ App
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [Raycast](https://www.raycast.com/)
   * [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
+  * [🍎 맥북 4년차, 최고의 무료앱 - YouTube](https://www.youtube.com/watch?v=6IAu1e4VX_4&ab_channel=%EB%A6%AC%EC%9C%A0%EB%82%A8-%EB%A6%AC%EB%B7%B0%ED%95%98%EB%8A%94%EC%9C%A0%EB%B6%80%EB%82%A8)
 * [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [RecurseChat](https://recurse.chat/) Personal AI Chat with Local LLMs
   * [RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱 | GeekNews](https://news.hada.io/topic?id=13574)
