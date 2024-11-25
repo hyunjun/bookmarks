@@ -1444,6 +1444,8 @@ Book
   * [소현세자는 말이 없다. ★★★☆☆ September 30, 2024 역사 전문가인 저자가… | by Jun | Sep, 2024 | Medium](https://nymets.medium.com/%EC%86%8C%ED%98%84%EC%84%B8%EC%9E%90%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%97%86%EB%8B%A4-dc915a3ea1b8)
   * [소현세자는 말이 없다 - Jun’s Substack](https://recur.substack.com/p/a32)
   * [소현세자는 말이 없다](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%98%84%EC%84%B8%EC%9E%90%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%97%86%EB%8B%A4)
+* [중세 유럽 세계관 사전](https://jpub.tistory.com/468778)
+  * ★★☆☆☆ 2024.11.25 워낙 방대한 시기를 얇은 책으로 간단하게 정리했기 때문에 중간 중간 오류(혹은 특정 시기에 국한된 이야기)도 보이긴 하지만, 어떤 컨텐츠를 시작하는 단계라거나 그냥 재미로 읽기에는 충분하다
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
