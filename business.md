@@ -4326,6 +4326,8 @@ Business
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
 * [클릭 수를 줄인다고 좋은 UX가 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2822/)
 * [UX개선 장기 로드맵 수립기 - "VOC많은 순"으로만 일하지 않기 위하여 - YouTube](https://www.youtube.com/watch?v=N6aRgKFjz0E)
+* [Common UX Mistakes Made by Business Developers | by Jason Teunissen | Prototypr](https://blog.prototypr.io/common-ux-mistakes-made-by-business-developers-e837d0b31379)
+  * [사업 개발자들이 저지르는 UX 실수들](https://brunch.co.kr/@gusxn2/11)
 * [re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아 | GeekNews](https://news.hada.io/topic?id=17571)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
