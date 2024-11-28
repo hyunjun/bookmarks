@@ -1141,6 +1141,7 @@ App
     * [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
     * `git config --global credential.helper osxkeychain`
     * [Visual Studio Code에서 Github에 업로드하는 방법( 연동하는 방법 )](https://webnautes.tistory.com/2008)
+    * [VSCode와 Git 프로그램 설치 및 GitHub Copilot 서비스 연동하기](https://mixedcode.com/blog/71)
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
@@ -2005,6 +2006,7 @@ App
   * [Mermaid + draw.io + ChatGPT I to Build System Diagrams - YouTube](https://www.youtube.com/watch?v=xZ4o180KFNk)
   * [Diagrams as Code with Mermaid, GitHub, and Visual Studio Code - YouTube](https://www.youtube.com/watch?v=oiVy7NDm-WM)
   * [그리면서 따라하는 Mermaid 연습 - Andrea의 지식 정원 - Obsidian Publish](https://publish.obsidian.md/andrea9292/2+Area/%EC%83%9D%EC%82%B0%EC%84%B1+%EB%8F%84%EA%B5%AC/Obsidian+%EC%9D%B4%EC%95%BC%EA%B8%B0/%EA%B7%B8%EB%A6%AC%EB%A9%B4%EC%84%9C+%EB%94%B0%EB%9D%BC%ED%95%98%EB%8A%94+Mermaid+%EC%97%B0%EC%8A%B5)
+  * [Mermaid 코드로 그리는 다이어그램 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mermaid/)
   * Mermaid Live [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
     * [Creating Beautiful Flowcharts with Chat GPT, Mermaid Live & Overleaf - YouTube](https://www.youtube.com/watch?v=UyMlSzlB3J0)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
