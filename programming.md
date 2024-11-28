@@ -3333,6 +3333,37 @@ Programming
   * [마이크로서비스 성공 지원 - 사라 웰스 & 샘 뉴먼 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/848709)
 * [회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택 | by Seungchan Yuk | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
 * [리더가 MSA 전환을 하자고 했다. 그리고 처참히 실패했다](https://imksh.com/127)
+* [Microservices are Technical Debt - YouTube](https://www.youtube.com/watch?v=LcJKxPXYudE) DoorDash의 principal engineer가 microservice 구조(MSA)를 쓰다가 고생한 이야기
+  * Start with a monolith. Scale only if it’s needed. Benchmark your application. Don’t create solutions to problems that don’t exist.
+  * His advice was awesome: Dive into your libraries. Understand dependencies or try to avoid them. Value craftsmanship and know what good means contextually. Avoid dogmatic beliefs.
+  * Great talk. This video reveals a core truth of IT - There are as many Best Practices, Software Architectures, & Great Ideas as there are software development teams. Each team does what works best for them & then most (many) of them start yelling that "we've found The Way to develop software! You must follow our process. Oh, if we codify this and slap a name on it, we can sell books." Agile, Scrum Agile, Software Patterns, Enterprise Patterns, Clean Coding, KanBan, Six Sigma, ISO 9000, AI, Monolith, Microservices, etc. ad infinitum.
+  * Love this talk by someone who actually works in the trenches
+  * Too much theory talks about microservices out there
+    * re: "stepping on each other's toes":
+      * I was a SWE at Facebook (I refuse to call it Meta) between 2015 - 2018. Around 2016 IIRC, we increased the release frequency for the PHP/Hack monolith (internally known as "www") to 3X/day. I remember being blown away by this. Mind you, this was most likely the world's most used monolith (it still maybe?), with 10K+ developers often committing multiple times to it daily.
+      * A key mechanism that enabled this release velocity was *feature flagging*, which allows decoupling of code deployment from feature enablement. I'd argue that feature flagging is a necessary ingredient for scaling a monolith, and combined with high quality automated testing and telemetry, might even be sufficient."
+  * [Microservices are Technical Debt](https://bthdonohue.com/2024/09/26/microservices-are-technical-debt.html) 거기서 같이 일하던 사람의 짧은 커멘트
+    * Microservices can be considered technical debt due to the trade-off between scalability and manageability
+    * While they are crucial for web-scale systems, over-microservicing can lead to more complex problems
+    * The statement "Microservices are Technical Debt" initiates a conversation about finding the right balance
+  * [Microservices are Technical Debt?](https://www.linkedin.com/posts/sabarishchandrasekharan_microservices-are-technical-debt-activity-7256048319246876672-tZxS/)
+  * [Microservices: A Double-Edged Sword in Cloud Computing](https://www.linkedin.com/posts/davidlinthicum_microservices-are-technical-debt-activity-7249394125144227840-tHsJ/)
+  * [Resilient Microservice Applications, by Design, and without the Chaos](https://christophermeiklejohn.com/publications/cmeiklej_phd_s3d_2024.pdf)
+  * [What Comes After Microservices? • Matt Ranney • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=zf5HH1BPN4o)
+  * [드는 생각들](https://www.linkedin.com/posts/spike-jee-480225a_microservices-are-technical-debt-activity-7261514103121149956-suMT/)
+    * 마이크로서비스 구조를 잘못 쓰면
+      * 각 서비스를 맡은 조직들이 siloed 가능
+      * 커뮤니케이션 코스트 상승
+      * 새로운 피처를 추가하기 위해 시스템 전체를 건드려야 하는 경우 프로젝트 관리 난이도 상승
+    * 어떤 문제를 해결하기 위해 무언가를 만들려면
+      * 해결하려는 문제에 맞는 솔루션을 만들되, 그 과정에서 가장 기본적인 원칙들을 주로 활용, 유명한 패턴/잘 알려진 테크닉들은 필요한 부분만 사용 혹은 참고하는게 기본
+      * 그런데 사람들이 그렇게 하는 게 아니라
+        * 어디 책에 나오는 패턴이나 규칙을 (그것들의 의도, 맥락, 철학 등을 잘 이해하지 못한 채) 그대로 쓰면서
+        * 거기에 어떻게든 끼워맞춘 솔루션을 만들려 하는 경우가 다수
+        * 그렇게 formularized 된 패턴이나 규칙을 그대로 적용하려는 게 문제
+    * 엔지니어 수보다 소위 마이크로서비스의 수가 더 많을 정도로 시스템을 잘게 쪼개는 경우들이 종종 발생
+      * MSA 라는 게 그런 게 아닐텐데 왜 그런 식으로 하는 사람들이 많이 생길까?
+    * 뭔가를 하기 전에 항상 ask yourself "What problem does that solve?"
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
