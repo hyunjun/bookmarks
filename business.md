@@ -903,6 +903,14 @@ Business
 * [네이버 배너광고(Display AD)의 단가체계는 지나치게 복잡했다... 이건 어려운 것이 아니라 복잡한 것일 뿐](https://www.linkedin.com/posts/divercity_%EB%8B%A8%EA%B0%80%EC%B2%B4%EA%B3%84%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8B%A4-activity-7259735565963571200-1Rwy/)
   * [단가체계를 바꾸다](https://divercity.stibee.com/p/46/)
 * [기업이 돈을 버는 방법은 크게 세 가지 1) 제품이나 서비스를 제공하고 돈을 받는다 2) 제품을 팔 수 있는 솔루션을 제공한 뒤 수수료를 받는다(커머스) 3) 일단 사람들을 많이 모은 뒤에 누군가의 메시지를 전달하는 대가로 돈을 받는다(광고)](https://www.linkedin.com/posts/divercity_%EA%B8%B0%EC%97%85%EC%9D%B4-%EB%8F%88%EC%9D%84-%EB%B2%84%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%ED%81%AC%EA%B2%8C-%EC%84%B8-%EA%B0%80%EC%A7%80%EB%8B%A4-1-%EC%A0%9C%ED%92%88%EC%9D%B4%EB%82%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B3%A0-activity-7260473737173508096-MxMw/)
+* [함께 일하기 편한(좋은) 사람들의 특징](https://www.linkedin.com/posts/seunghoon-lee-30935520_%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B8%B0-%ED%8E%B8%ED%95%9C%EC%A2%8B%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7267360924477325313-8MXn/)
+  * 1. 사람을 가리지 않는다
+  * 2. 일을 가리지도 않는다
+  * 3. 자기 관리가 된다
+  * 4. 잘 듣는다
+  * 5. 인정을 구하지 않는다
+  * 6. 긍정적이고, 웃는다
+  * 1~6번을 종합해서 한 단어로 표현하면, 내가 일하기 편했고 그래서 많이 배울 수 있었던 분들은 '성숙한 사람'
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -983,6 +991,14 @@ Business
 * [홀라크라시의 문제점](https://www.linkedin.com/posts/activity-6975585654055309312-0kgv/)
 * [업무를 구분 짓자 팀이 흔들리기 시작했다](https://eopla.net/magazines/241)
 * [“매년 바뀌는 조직… 싫으면 나가래요” ‘마음 움직이는 소통·구체적 업무’가 우선이다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/7822) 조직 개편
+* [여현준 - 조직 개편의 목적 1. 현시대의 특성은 변동성(Volatility), 불확실성(Uncertainty),... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid02dKuq4qJt6ppnirXMpHkrTXBZZE3ofMZxzHBACZquBJKtKyiD3bPwp7iYyuN3TJFpl)
+  * 1. 현시대의 특성은 변동성(Volatility), 불확실성(Uncertainty), 복잡성(Complexity), 모호성(Ambiguity)으로 요약될 수 있다. 이른바 뷰카VUCA 시대다
+  * 2. 뷰카 시대에 맞게 조직이 계속 변해야 한다고, 그게 애자일 조직이라고 생각하는 사람이 많다. 그건 애자일보다는 혼돈에 가깝다. 자주 변하는 조직은 신속한 조직이 아니라 정체된 조직이다
+  * 3. 착각하지 마라. 애자일의 목적은 변화가 아니다. 변하지 않는 가치를 최대한 싸고 빠르게 찾아내는 게 애자일의 목적이다. 변화는 그 목적을 달성하기 위한 불가피한 방법일 뿐이다
+  * 4. “나는 ‘향후 10년 동안 무엇이 변할 것인가’라는 질문을 자주 받는다. 그러나 ‘향후 10년 동안 무엇이 변하지 않을 것인가’라는 질문이 더 중요하다고 생각한다. 왜냐하면 시간이 지나도 안정적인 것을 중심으로 비즈니스 전략을 수립할 수 있기 때문이다.” - 제프 베조스
+  * 5. 조직 개편은 측정 기반하에 과학적인 방법으로 문제를 해결하기 위한 뚜렷한 목적을 가지고 시행되어야 한다. 왜냐하면 변화는 항상 커다란 비용을 동반하기 때문이다. 예를 들어 어느 기업의 월 인건비가 10억이고, 개편에 직원들이 적응하기까지 3개월이 걸린다면 실제로 조직은 정상적인 퍼포먼스를 찾기까지 수십억의 비용을 치르게 된다. 다양한 부문의 생산성 저하로 비용이 분산되어 개편에 의해 발생한 비용이라고 인지하기 어렵겠지만 말이다
+  * 6. 상황에 따라 급변하는 조직은 프로젝트 조직에서만 허용될 수 있다. 하지만 그 조차 지속가능한 이익을 찾기 위한 비용으로 측정되어야 하며, 미래에 획득할 이익 대비 손익이 맞지 않으면 실패로 처리되어야 한다. 그리고 그 실패는 쌀수록 가치가 높다. 기억하라, 상업적인 프로젝트는 지속가능한 상업적 가치를 위해 존재하며, 가치의 지속성을 높이는 힘은 오퍼레이션에 있다. 고로 프로젝트 조직의 궁극적인 목적은 오퍼레이션 조직을 구축하는 것이라 볼 수 있다
+  * 7. 조직 개편은 꼭 필요할 때 해야 한다. 오퍼레이션 조직 개편의 필요는 수명으로 접근하면 이해하기 쉽다. 프로덕트 단위 조직은 프로덕트의 수명이 다할 때, 사업 단위 조직은 비즈니스 모델의 수명이 다할 때, 회사 전체는 회사 전략의 수명이 다할 때 개편의 필요를 따질 수 있다. 안타깝게도 현실 세계의 조직 개편은 조직구조와 무관한 문제가 조직구조 때문이라고 생각하는 리더의 뇌내망상 때문에 실행되는 경우가 많다
 * [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=Eie_kxwzyfQ) 조직 확장, 확대, 성장에 대한 이야기
 * [VDIASI23 - Adrian Miron - Unlocking Your Team Potential: Discovering Your Unique Role for Success - YouTube](https://www.youtube.com/watch?v=dHiya7Yi0I0)
 * [팀장 1명 당 팀원 몇 명을 관리하는 것이 가장 효율적일까? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5-1%EB%AA%85-%EB%8B%B9-%ED%8C%80%EC%9B%90-%EB%AA%87-%EB%AA%85%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-7d06dddbbf36)
@@ -1716,6 +1732,7 @@ Business
   * 대신 자기 부서원들과 갈등을 일으키는 본부장은 리더십 부족으로 내리기가 용이하다
     * 분위기 쇄신을 위한 희생양일 수도 있겠지만, 뭐가 어찌 되었든 시끄러운 부서는 부서장 책임이니까
 * [중도 탈락하는 CTO vs 실패하는 CTO](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstk-qpqrqe-activity-7250688086622232576-ymd9/)
+* [CTO의 역할, 그리고 개발자?](https://brunch.co.kr/@chickenmoim/35)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
