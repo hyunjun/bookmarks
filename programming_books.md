@@ -839,6 +839,7 @@ Programming Books
   * [Software Architecture: The Hard Parts • Neal Ford & Mark Richards • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rIgTE9aDVj4)
   * [Software Developer To Software Architect | Developer to Architect | Mark Richards](https://developertoarchitect.com/)
     * [Software Architecture Monday - YouTube](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar)
+* (NOT YET) [소프트웨어 설계의 정석 정말 설계가 필요한가 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS7397494418&cate_cd=)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
   * 한라 005.12-브296ㅁ
   * [microservices-in-action: Examples and code for Microservices In Action](https://github.com/morganjbruce/microservices-in-action)
@@ -983,6 +984,8 @@ Programming Books
   * [AI 트루스 - Jun - Medium](https://nymets.medium.com/ai-%ED%8A%B8%EB%A3%A8%EC%8A%A4-9ea1b3fb6259)
   * [AI 트루스 - Jun’s Substack](https://recur.substack.com/p/ai-73e)
   * [AI 트루스](https://jh4hj.tistory.com/entry/AI-%ED%8A%B8%EB%A3%A8%EC%8A%A4)
+* (NOT YET) [인공지능 전문가가 알려 주는 챗GPT로 대화하는 기술](https://www.hanbit.co.kr/store/books/look.php?p_code=B2266571115)
+  * [2025 수능 국어 지문 출제 디퓨전 모델(diffusion model) 쉽게 이해하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6968709109&cate_cd=)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
   * 탐라 문004.73-이215ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
@@ -1421,6 +1424,7 @@ Programming Books
   * (NOT YET) [밑바닥부터 시작하는 딥러닝 4](https://www.hanbit.co.kr/store/books/look.php?p_code=B6031814045)
     * 004.73-사68ㅁ-4
     * [WegraLee/deep-learning-from-scratch-4: <밑바닥부터 시작하는 딥러닝 4>](https://github.com/wegralee/deep-learning-from-scratch-4)
+  * (NOT YET) [밑바닥부터 시작하는 딥러닝 5](https://www.hanbit.co.kr/store/books/look.php?p_code=B4979622558)
 * 골빈해커의 3분 딥러닝
 * 장교수의 딥러닝
   * 한라 004.73 장44ㄷ
