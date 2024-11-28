@@ -249,6 +249,7 @@ Artificial Intelligence
 * [생성형 AI 서비스: 게이트웨이로 쉽게 시작하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19915/)
 * [인공지능을 활용한 슬기로운 연구생활 | Pega Devlog](https://jehyunlee.github.io/2024/11/18/General-69_SNU/)
   * [인공지능을 활용한 슬기로운 연구생활.pdf](https://jehyunlee.github.io/2024/11/18/General-69_SNU/241118_%EC%9D%B4%EC%A0%9C%ED%98%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%97%B0%EA%B5%AC%EC%83%9D%ED%99%9C.pdf)
+* [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -655,6 +656,8 @@ Artificial Intelligence
 * [‘라마, 믹스트랄은 기준 미달’ 오픈소스 AI 정의 1.0 발표 – 바이라인네트워크](https://byline.network/2024/10/30-355/)
 * [툴 서비스의 무료 AI 기능, 사용자 경험은 어떨까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2830/)
 * [벌써 한계가 왔나... GPU 늘려도 AI가 똑똑해지지 않는다면? - 슬로우뉴스.](https://slownews.kr/120860)
+* [2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
+  * [미국 기업 의사결정자 600인이 말하는 Gen AI 2024](https://www.linkedin.com/posts/ugcPost-7267479393193590784-TtJa/)
 * [The AI agents stack | Letta](https://www.letta.com/blog/ai-agents-stack)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
@@ -713,10 +716,19 @@ Artificial Intelligence
   7. HeyGen – 텍스트 입력하면 자동으로 영상 생성
   8. Tidio - 고객 서비스 향상, CS 챗봇의 최고봉
   9. Synthesis. io – 가상 인간 아바타 영상 제작 궁금했지? 이 툴이야!
+* [코드 작성 시간 절반으로 줄여줄 5가지 개발 툴 | 요즘IT](https://yozm.wishket.com/magazine/detail/2863/)
+  * Github Copilot, Tabnine, DeepCode(Snyk Code), SonarQube, Codacy
+* [직장인을 위한 필수 AI 도구 10선 (PPT 및 동영상 제작, 회의록 작성 등) - 마케팅 - 정보공유 - 아이보스](https://www.i-boss.co.kr/ab-6141-65366)
+* [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
+* [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
   * [Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=15017)
+* [Perplexity](https://www.perplexity.ai/)
+  * [perplexity 퍼플렉시티 모델 API 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223359316864)
+  * [perplexity citation 코딩 --.. : 네이버블로그](https://blog.naver.com/ulsancoding/223660459680)
+  * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
