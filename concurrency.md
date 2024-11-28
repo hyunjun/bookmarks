@@ -32,6 +32,7 @@ Concurrency
 * [Concurrency performance battle: Java 21 Virtual Threads vs. Go Threads vs. Elixir Erlang Threads | by Balaji Arumugam | Medium](https://medium.com/@baaalaji.arumugam/concurrency-performance-battle-java-21-virtual-threads-vs-ae7f1533d105)
 * [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=4wGTavSyLxE) functional spring AOP
   * [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-86)
+* [VLL(Very Light Lock) lock manager 소개](https://velog.io/@skynet/VLLVery-Light-Lock-lock-manager-%EC%86%8C%EA%B0%9C)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
