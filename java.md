@@ -2053,6 +2053,7 @@ Java
 * [MySQL 환경의 스프링부트에 하이버네이트 배치 설정 해보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/09/23/hibernate-batch.html)
 * [무심코 적용한 Validation 의심해볼 필요가 있습니다 - See One](https://see-one.tistory.com/14?category=948566)  hibernate-validator
 * [Hibernate Fetch Join시 메모리에서 페이징 처리 사전 차단하기](https://jojoldu.tistory.com/737)
+* [Hibernate 의 ‘불편한’ 편의 기능들. Hibernate 는 지연 로딩, 캐싱, 쿼리 순서 최적화 등 개발자가… | by Hyeon9mak | Nov, 2024 | Monday9pm](https://monday9pm.com/hibernate-%EC%9D%98-%EB%B6%88%ED%8E%B8%ED%95%9C-%ED%8E%B8%EC%9D%98-%EA%B8%B0%EB%8A%A5%EB%93%A4-06a1fbc7492a)
 * [JPA에서 아이디를 자동증가 값으로 사용 시 하이버네이트의 @NaturalId 사용해 보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17221/)
 * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
 * [JPA 엔터티 카운트 성능 개선하기](https://www.popit.kr/jpa-%EC%97%94%ED%84%B0%ED%8B%B0-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
@@ -2208,6 +2209,8 @@ Java
 * [Entity to DTO, DTO to Entity 그리고 ModelMapper](https://dbbymoon.tistory.com/4)
 * [Dto 클래스에서 MultiValueMap로 쉽게 타입 변환하기](https://jojoldu.tistory.com/478)
 * [Spring Framework query parameter로 배열 받기(@RequestParam, dto 객체) - i-hope devlog](https://i-hope9.github.io/posts_til/2021-04-23-TIL-SpringMVC.html)
+* [추가배포 없이 API의 case 통일시키기 - tech.kakao.com](https://tech.kakao.com/posts/665) DTO
+  * [추가 배포 없이 API의 case 통일시키기 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=ZE5xgQuvHFQ)
 * [요령과 기본(Spring)](https://taes-k.github.io/docs/trick_basic)
 * [Spring Camp 2017 1부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_1%EB%B6%80)
 * [Spring Camp 2017 2부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_2%EB%B6%80)
