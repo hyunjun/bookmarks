@@ -2132,6 +2132,7 @@ AWS
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [ksmin23 (Sungmin Kim) · GitHub](https://github.com/ksmin23)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
+* [multi-agent-orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations](https://github.com/awslabs/multi-agent-orchestrator)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
 * [OpsFlow](https://opsflow.app/)
