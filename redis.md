@@ -107,6 +107,7 @@ Redis
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
+* [Windows기반 Redis서버 및 P3X 클라이언트툴 설치하기](https://mixedcode.com/blog/72)
 * [redis 만료키 삭제](https://www.kudryavka.me/?p=740)
 * [우아한 Redis](https://www.slideshare.net/charsyam2/redis-196314086)
 * [DevOps 엔지니어의 Redis Test 분투기 - Part 1 ](https://helloworld.kurly.com/blog/redis-fight-part-1/)
