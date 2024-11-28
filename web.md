@@ -1670,6 +1670,7 @@ Web
     * [파일 업로드 처리](https://puddingcamp.com/page/c21e058e-0847-434f-bc47-678260d7f2ab)
   * [Debug FastAPI and SQLModel with VS Code and Breakpoints - YouTube](https://www.youtube.com/watch?v=X3SgEXhX11w)
   * [Helping FastAPI: How to contribute to docs translations - DEV Community](https://dev.to/ceb10n/helping-fastapi-how-to-contribute-to-docs-translations-44a7)
+  * [1.  FastAPI로 API 만들고 배포하기](https://brunch.co.kr/@topasvga/4167)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
