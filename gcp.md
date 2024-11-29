@@ -111,7 +111,6 @@ Google Cloud Platform GCP
 * [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁 - CIO Korea](https://www.ciokorea.com/news/170709)
 * [Neural Structured learning - DACON](https://dacon.io/codeshare/1809) 딥페이크 변조 영상 탐지 AI 경진대회
 * [google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
-* [Google Updates Its Cloud Run Service Support for WebSockets, HTTP/2, and gRPC Bidirectional Streams](https://www.infoq.com/news/2021/01/google-cloud-run-updates/)
 * [VM Running HTTPS Secured Apache Server on GCP - Part 1: Provision a Virtual Machine - YouTube](https://www.youtube.com/watch?v=cDVK4dPUbJ0)
 * [VM Running HTTPS Secured Apache Server on GCP - Part 2: Install an Apache HTTP server on a VM - YouTube](https://www.youtube.com/watch?v=YjIzHjaaJNI)
 * [VM Running HTTPS Secured Apache Server on GCP - Part 3: Create a HTTPS Route using Let's Encrypt - YouTube](https://www.youtube.com/watch?v=JXeaREIoRB4)
@@ -243,6 +242,7 @@ Google Cloud Platform GCP
 
 # Cloud Run
 * [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
+* [Google Updates Its Cloud Run Service Support for WebSockets, HTTP/2, and gRPC Bidirectional Streams](https://www.infoq.com/news/2021/01/google-cloud-run-updates/)
 * [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651)
 * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 * [Deploy your side-projects at scale for basically nothing - Google Cloud Run](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless)
@@ -264,6 +264,8 @@ Google Cloud Platform GCP
 * [Safe serverless deployments with Cloud Run - YouTube](https://www.youtube.com/watch?v=ArDuQDjW-DQ)
 * [할 수 있다! 서비스 월 유지비 1000원!](https://velog.io/@juunini/service-monthly-keep-1000won)
 * [Host your LLMs on Cloud Run | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/run-your-ai-inference-applications-on-cloud-run-with-nvidia-gpus?hl=en)
+* [I Didn't Need Kubernetes](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+  * [저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다 | GeekNews](https://news.hada.io/topic?id=17991)
 * [palm2bot](https://github.com/znot34/palm2bot)
   * [GCP Cloud Run을 활용한 Palm 2 챗봇 만들기 :: Jflip의 기술 블로그](https://jflip.tistory.com/90)
   * [2023 Devfest Cloud - 최치영 - Google Slides](https://docs.google.com/presentation/d/1o-xbEnqakrjqJCxceSCqSzrWkIPEfPyasfRt5KskJi0/)
