@@ -64,6 +64,7 @@ House
 * [~매거진 | 보증금을 지키는 방법, 전세권 설정~](https://www.goodchobo.com/magazine/MZTY/529)
 * [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
 * [판치는 전세사기, 이걸 모르면 전세 보증금 한 푼도 못 돌려 받아요 (구해줘월부 부동산상담) - YouTube](https://www.youtube.com/watch?v=staIMEiWLJo)
+* [전세 계약 때 근저당 말소 조건 넣고 입주 후 등본 떼어보니 그대로 있는 근저당. 그제야 뭐가 잘못됐다 싶었죠. 전세 계약 꼼꼼하게 작성하는 법｜전세사기 깡통전세｜#골라듄다큐 - YouTube](https://www.youtube.com/watch?v=OKvO53iJ1Do)
 * [전셋집 경매 진행되는데…보증금 받을 수 있을까 | 한국경제](https://www.hankyung.com/thepen/moneyist/article/202306305086Q)
 * [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
   * 열람할 때 '요약'도 체크해서 볼 것
