@@ -889,6 +889,7 @@ Javascript
   * [KAIST 류석영 교수, 고려대와 자바스크립트 생태계의 안정성 보장할 수 있는 기술 개발 성공 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=31089)
 * [주니어 FE 개발자의 색상 추출 라이브러리 개발기 - tech.kakao.com](https://tech.kakao.com/posts/627) K-means Clustering, 색상 추출 알고리즘
 * [Javascript를 2개의 언어로 분할해야 할까? | GeekNews](https://news.hada.io/topic?id=17470)
+* [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들](https://miryang.dev/blog/frontend-in-startup-chosen-things) supabase TypeScript pnpm Next.js Vercel Sentry React Native
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3079,6 +3080,8 @@ Javascript
     * [아직도 몰랐어? 똑똑하게 모듈 설치하는 방법: NPX! (Introducing NPX - npm package runner)](https://www.youtube.com/watch?v=MIn0kpzSkT8)
     * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
     * [Difference between npm and npx - YouTube](https://www.youtube.com/watch?v=xvI_Mm4iC3I)
+  * [nrm: NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao](https://github.com/Pana/nrm)
+    * [nrm - npm registry manager | GeekNews](https://news.hada.io/topic?id=17988)
 * nvm
   * [노드를 더 우아하게. nvm 이야기](http://jybaek.tistory.com/746)
   * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
