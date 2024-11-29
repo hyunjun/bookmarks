@@ -557,6 +557,7 @@
 * [중급 1년차 1학기 Easy Rust - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RSK23wBRLdgu8tdFbbMUqR)
 * [가장 사랑받는 언어 Rust :: Udemy 'Rust Programming 핵심 강의' 후기](https://velog.io/@wisepine/%EA%B0%80%EC%9E%A5-%EC%82%AC%EB%9E%91%EB%B0%9B%EB%8A%94-%EC%96%B8%EC%96%B4-Rust-Udemy-Rust-Programming-%ED%95%B5%EC%8B%AC-%EA%B0%95%EC%9D%98)
 * [Rust 기초 (1) · Wireframe](https://soooprmx.com/rust-%ea%b8%b0%ec%b4%88-1/)
+* [2024년 Rust를 배우는 방법: Rust 프로그래밍 마스터를 위한 완벽한 초보자 가이드 | The RustRover Blog](https://blog.jetbrains.com/ko/rust/2024/11/27/how-to-learn-rust/)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
 * Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [Full Rust Programming Course | Learn ⚙️ in 2024 | #rustprogramming #rust - YouTube](https://www.youtube.com/watch?v=rQ_J9WH6CGk)
