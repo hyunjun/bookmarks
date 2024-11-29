@@ -1113,8 +1113,6 @@ NLP
 * [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
 * [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
   * [2302.11382 A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
-* [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
-* [세밀한 요약을 위한 프롬프팅 Elment-Aware Summary Chain-of-Density (CoD) Prompting](https://www.linkedin.com/posts/ugcPost-7262473989036343297-Luji/)
 * [Matt Shumer on X: "GPT-4 struggles to write in different styles, which is why most AI-written text sounds the same. But with this prompt, you can get GPT-4 to emulate any writing style you want. Use it to write like your favorite author, mimic a specific tone, or even create content that matches… https://t.co/euf5TBqEf0" / X](https://twitter.com/mattshumer_/status/1705258197794070598)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
@@ -1184,7 +1182,21 @@ NLP
   * [Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy](https://github.com/katanemo/arch)
     * [Arch - 지능형 프롬프트 게이트웨이 | GeekNews](https://news.hada.io/topic?id=17438)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
-* [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
+* CoD Chain of Density
+  * [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
+  * [세밀한 요약을 위한 프롬프팅 Elment-Aware Summary Chain-of-Density (CoD) Prompting](https://www.linkedin.com/posts/ugcPost-7262473989036343297-Luji/)
+* CoT Chain of Thought
+  * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 | 조성국 - YouTube](https://www.youtube.com/watch?app=desktop&v=T9huhEaJhFA&feature=youtu.be)
+    * NeurIPS 2022 논문 중 하나인 "LLMs Can Solve Complex Reasoning Tasks if You Give Them a Chance: An In-depth Study of Chain of Thought Reasoning"
+    * COT는 추론 과정을 단계별로 텍스트로 작성하는 방법
+    * 언어 모델에 리즈닝 개념을 적용한 첫 번째 논문
+    * COT는 모델의 크기가 클수록, 태스크가 복잡할수록 더 효과적
+    * 작은 모델에서는 성능 향상이 미미했으며, 이는 리즈닝 능력의 한계로 인한 것으로 추정
+    * [VidiGo LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 |](https://vidigo.ai/share/summary/829b0e4ad43d)
+    * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
+  * [뉴테크프라임 » 차 교수와 함께 – 마법 지팡이, CoT 프롬프트의 세계로 떠나는 모험!](http://www.umlcert.com/aipromptsmarteasy_use-20240817-2/)
+    * [cot.md at main · smarteasy/write-with-cha](https://github.com/smarteasy/write-with-cha/blob/main/cot.md)
+  * [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
   * [Why I'm excited about DSPy](https://www.linkedin.com/pulse/why-im-excited-dspy-stephen-byrne-smkhe/)
@@ -1193,6 +1205,35 @@ NLP
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [open-prompt](https://github.com/smarteasy/open-prompt/)
+* PoE Panel of Experts
+  * [PoE(Panel-of-Experts), 더 나은 문제 해결 방법을 제시하는 프롬프트 엔지니어링 기법 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/10829)
+
+    ```
+    Panel-of-Experts Prompt Template
+
+    Context: You are a panel of three experts on [specific topic].
+
+    Roles:
+
+    Expert 1: [Name], an authority in [specific area].
+    Expert 2: [Name], a specialist in [specific area].
+    Expert 3: [Name], a well-regarded [specific area] expert.
+    Task: Given the problem [insert specific problem], your goal is to collaboratively discuss and solve it step-by-step, ensuring that the solution is accurate and well-reasoned.
+
+    Discussion Flow:
+
+    Each expert will present one step of their thinking.
+    After each step, the other experts will critique and provide feedback.
+    If an expert realizes a mistake in their reasoning, they should correct it or step back.
+    Final Output: Once the discussion is complete, collate the final solution and present it in a clear and structured format.
+
+    Example Start:
+
+    Expert 1: [Initial thought or step].
+    Expert 2: [Critique or support of Expert 1's point].
+    Expert 3: [Additional insight or alternative view].
+    Goal: The objective is to leverage diverse perspectives to arrive at the most robust and accurate solution to the problem.
+    ```
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
   * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
@@ -2197,16 +2238,6 @@ NLP
 * [LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? | NeurIPS 2023 | 오영화 - YouTube](https://www.youtube.com/watch?v=n_8iwOQn35A)
   * [VidiGo LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? | NeurIPS 2023 |](https://vidigo.ai/share/summary/5e664d3c6a3b)
   * [LLM 대화 답변 품질을 잘 평가하려면 어떻게 해야할까? NeurIPS 2023 오영화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964071)
-* [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 | 조성국 - YouTube](https://www.youtube.com/watch?app=desktop&v=T9huhEaJhFA&feature=youtu.be)
-  * NeurIPS 2022 논문 중 하나인 "LLMs Can Solve Complex Reasoning Tasks if You Give Them a Chance: An In-depth Study of Chain of Thought Reasoning"
-  * COT는 추론 과정을 단계별로 텍스트로 작성하는 방법
-  * 언어 모델에 리즈닝 개념을 적용한 첫 번째 논문
-  * COT는 모델의 크기가 클수록, 태스크가 복잡할수록 더 효과적
-  * 작은 모델에서는 성능 향상이 미미했으며, 이는 리즈닝 능력의 한계로 인한 것으로 추정
-  * [VidiGo LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? | NeurIPS 2022 |](https://vidigo.ai/share/summary/829b0e4ad43d)
-  * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
-* [뉴테크프라임 » 차 교수와 함께 – 마법 지팡이, CoT 프롬프트의 세계로 떠나는 모험!](http://www.umlcert.com/aipromptsmarteasy_use-20240817-2/)
-  * [cot.md at main · smarteasy/write-with-cha](https://github.com/smarteasy/write-with-cha/blob/main/cot.md)
 * [LLM에게 친절해야 할까? - 프롬프트 작성팁](https://slashpage.com/sujin-prompt-engineer/n8pw9x2zpvkgd2g7yrqv)
   * [Sujin Kang Ph.D. on LinkedIn: #promptengineering #promptandpoliteness #prompting #politenessandllm](https://www.linkedin.com/posts/sujin-kang-ph-d-662444278_promptengineering-promptandpoliteness-prompting-ugcPost-7223263718539739137-HPfm)
   * [Hard Evidence That Please And Thank You In Prompt Engineering Counts When Using Generative AI](https://www.forbes.com/sites/lanceeliot/2024/05/18/hard-evidence-that-please-and-thank-you-in-prompt-engineering-counts-when-using-generative-ai/)
