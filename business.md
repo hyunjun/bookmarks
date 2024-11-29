@@ -806,6 +806,7 @@ Business
 * [당신이 궁금해하는 ‘IT 아웃소싱 개발 생태계’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1612/)
 * [아웃소싱 전문가가 밝히는: ① 요구사항 정의서 작성법 A to Z | 요즘IT](https://yozm.wishket.com/magazine/detail/1696/)
 * [아웃소싱 전문가가 밝히는: ② 소프트웨어 개발 견적, 왜 천차만별일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1731/)
+* [SI산업 가이드북⑫ ‘서툰 갑’을 위한 IT 아웃소싱 성공 전략 | 요즘IT](https://yozm.wishket.com/magazine/detail/2866/)
 * [요즘 외주개발사들이 변한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/techdev20230810)
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
@@ -954,6 +955,7 @@ Business
   * 다음 단계 설정
   * 상태 업데이트 지양
   * 피드백 정기 모니터링
+* [원온원 6년의 기록: 시행착오와 배움들 · 어쩐지 오늘은](https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -2678,6 +2680,7 @@ Business
   * [언젠가 리더가 되면 꼭 해 보고 싶었던 것들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%96%B8%EC%A0%A0%EA%B0%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%97%88%EB%8D%98-%EA%B2%83%EB%93%A4-activity-7255006321207332864-k63d/)
 * [(2) 원병묵 - 무엇보다 사람 먼저, 그 다음 연구입니다! “저는 먼저 사람에게 우선하고 그 다음에 과학 연구를 하는 법을... | Facebook](https://www.facebook.com/bmweon/posts/pfbid0e9jSr4g1TMVJHomNMsjTvotdumJykiFwhpnVK6FgnJBgw4cgkD9kRpWwMkHosvm2l)
 * [개발자 리더로서 성장당한 썰 | 모닥불 EP.7](https://toss.tech/article/firesidechat_frontend_7)
+* [리더십은 사람들을 결집시켜 어떤 일을 이루도록 만드는 역량이다. 조직에서 부여한 직위와 권한과 상관 없이 언제든 발휘될 수 있고 발휘되어야 하는 역량](https://www.facebook.com/rheehot/posts/pfbid02FqH23g6DFA1CxJ8xWp98TXtT9ucSasSnQwKH9nN3WFAzh1cFBNs3RjvJ8aPjTpptl)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
