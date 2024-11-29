@@ -1204,6 +1204,7 @@ NLP
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [lecture/GPT/prompt at main · dremdeveloper/lecture · GitHub](https://github.com/dremdeveloper/lecture/tree/main/GPT/prompt)
 * [open-prompt](https://github.com/smarteasy/open-prompt/)
 * PoE Panel of Experts
   * [PoE(Panel-of-Experts), 더 나은 문제 해결 방법을 제시하는 프롬프트 엔지니어링 기법 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/10829)
@@ -2997,6 +2998,8 @@ NLP
   * [미스트랄 Mistral AI 모델 무료플랜 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223630231649)
   * [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
     * [Codestral - Mistral의 코드 생성 AI 모델 | GeekNews](https://news.hada.io/topic?id=15082)
+  * [Le Chat - Mistral AI](https://chat.mistral.ai/chat)
+    * [🧑💻미스트랄의 새로운 AI 비서 le Chat: 웹 검색, Canvas, 이미지 생성까지!](https://fornewchallenge.tistory.com/entry/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%9E%84%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-AI-%EB%B9%84%EC%84%9C-le-Chat-%EC%9B%B9-%EA%B2%80%EC%83%89-Canvas-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1%EA%B9%8C%EC%A7%80)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
