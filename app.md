@@ -2448,6 +2448,7 @@ App
   * [알아두면 유용한 윈도우 및 맥용 엑셀 단축키 - CIO Korea](https://www.ciokorea.com/news/199979)
   * [스프레드시트가 비즈니스를 망치는 5가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/228424)
   * [엑셀에서 주어진 생년월일로부터 만나이 구하기 · Wireframe](https://soooprmx.com/%ec%97%91%ec%85%80%ec%97%90%ec%84%9c-%ec%a3%bc%ec%96%b4%ec%a7%84-%ec%83%9d%eb%85%84%ec%9b%94%ec%9d%bc%eb%a1%9c%eb%b6%80%ed%84%b0-%eb%a7%8c%eb%82%98%ec%9d%b4-%ea%b5%ac%ed%95%98%ea%b8%b0/)
+  * [마이크로소프트의 새로운 혁신, ‘파이썬 인 엑셀(Python in Excel)’ 공개!](https://stock79.tistory.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-%E2%80%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9D%B8-%EC%97%91%EC%85%80Python-in-Excel%E2%80%99-%EA%B3%B5%EA%B0%9C)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
