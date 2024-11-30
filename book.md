@@ -1134,6 +1134,15 @@ Book
   * [숨결이 바람 될 때 When Breath Becomes Air | by Jun | Nov, 2024 | Medium](https://nymets.medium.com/%EC%88%A8%EA%B2%B0%EC%9D%B4-%EB%B0%94%EB%9E%8C-%EB%90%A0-%EB%95%8C-when-breath-becomes-air-f2dd2bee974f)
   * [숨결이 바람 될 때 When Breath Becomes Air - Jun’s Substack](https://recur.substack.com/p/when-breath-becomes-air)
   * [숨결이 바람 될 때 When Breath Becomes Air](https://jh4hj.tistory.com/entry/%EC%88%A8%EA%B2%B0%EC%9D%B4-%EB%B0%94%EB%9E%8C-%EB%90%A0-%EB%95%8C-When-Breath-Becomes-Air)
+* [내가 알던 사람](https://www.notion.so/1003/14e3f0c2cf658056acefffc86cd03cc8)
+  * ★★★★★ 2024.11.30
+    * 최근 비슷한 주제의 책을 계속 읽고 있었는데, 이 책은 올해 최고의 책으로 기억될 것 같다. 《숨결이 바람 될 때》가 죽음을 앞둔 자신의 이야기를, 《아버지의 죽음 앞에서》가 딸의 시선으로 아버지를 담아냈다면, 이 책은 아들이 알츠하이머로 점차 자신을 잃어가는 아버지를 기록한 이야기다.
+    * 저자의 감정과 경험은 내게 훨씬 더 깊이 다가왔다. 카페에서 책을 읽으며, 다른 손님들이 있음에도 눈물이 날 만큼 감정 이입이 강했다. 모든 분야에서 기술이 발전하고 있음에도 불구하고, 인간의 뇌와 특히 알츠하이머 같은 병은 여전히 풀리지 않은 신비로 남아있다. 이 병은 발병하면 사실상 치료가 불가능하다는 점에서 더 심각하다.
+    * 의사인 저자는 아버지의 병이 심해지면서 벌어진 가족 간의 갈등과 좌절을 솔직히 그려냈다. 동시에, 알츠하이머라는 병에 관한 과학적 탐구와 뇌의 비밀에 대한 통찰도 담아내 독자로 하여금 인간 존재와 기억의 의미를 되새기게 한다. 부모님이 아직 건강하다는 점에 감사하면서도, 만약 이런 일이 내 부모님께 닥친다면 어떨지 두려움이 몰려왔다.
+  * [내가 알던 사람](https://github.com/hyunjun/bookmarks/blob/master/books/my_fathers_brain.md)
+  * [내가 알던 사람. ★★★★★ November 30, 2024 | by Jun | Nov, 2024 | Medium](https://nymets.medium.com/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EC%82%AC%EB%9E%8C-9f7f675bfbc9)
+  * [내가 알던 사람 - Jun’s Substack](https://recur.substack.com/p/e0a)
+  * [내가 알던 사람](https://jh4hj.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EC%82%AC%EB%9E%8C)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
