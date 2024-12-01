@@ -724,6 +724,8 @@ Artificial Intelligence
   * Github Copilot, Tabnine, DeepCode(Snyk Code), SonarQube, Codacy
 * [직장인을 위한 필수 AI 도구 10선 (PPT 및 동영상 제작, 회의록 작성 등) - 마케팅 - 정보공유 - 아이보스](https://www.i-boss.co.kr/ab-6141-65366)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
+* [업무 효율 바로 올라가는 무료 AI툴 7개 추천! (안쓰면 후회합니다) - YouTube](https://www.youtube.com/watch?v=-hXY55kwDCk)
+  * 클로바노트, Tactiq, Guidde, Whimsical, Napkin.ai, ColorMagic, NotebookLM
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * [Felo - Your Free AI Search Engine](https://felo.ai)
