@@ -2300,6 +2300,7 @@ NLP
   * [Windows에서 인공지능 에이전트 AIEXE 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=C_hs9obj_gg)
   * [인공지능 활용의 끝판왕 | AI EXE GUI - YouTube](https://www.youtube.com/watch?v=HgbDCQ1k7kA)
   * [Claude, GPT와 AIEXE로 오픈소스 프로젝트 코딩 업그레이드 하기 - YouTube](https://www.youtube.com/watch?v=MCgvv3XeBJE)
+  * [스스로 행동하는 무료 자율 수행 인공지능 AI 툴 | Claude](https://www.youtube.com/watch?v=GkOZ6fG99RI)
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
