@@ -250,6 +250,7 @@ Artificial Intelligence
 * [인공지능을 활용한 슬기로운 연구생활 | Pega Devlog](https://jehyunlee.github.io/2024/11/18/General-69_SNU/)
   * [인공지능을 활용한 슬기로운 연구생활.pdf](https://jehyunlee.github.io/2024/11/18/General-69_SNU/241118_%EC%9D%B4%EC%A0%9C%ED%98%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%97%B0%EA%B5%AC%EC%83%9D%ED%99%9C.pdf)
 * [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
+* [4회 파이토치코리아 발표자료 - 왜 AI백엔드 개발자인가? (NLP, LLM 중심, by 최남규) : 네이버 카페](https://cafe.naver.com/aidev/878)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
