@@ -2909,6 +2909,7 @@ NLP
       * [Ollama, Tool 호출 지원 | GeekNews](https://news.hada.io/topic?id=16393)
     * [Java + Ollama — Unlock capability of Generative AI to Java developer with LangChain4j (Model on locally) | by Thanaphoom Babparn | Medium](https://tpbabparn.medium.com/java-ollama-unlock-capability-of-generative-ai-to-java-developer-with-langchain4j-model-on-c814f97d9676)
     * [Ollama 0.4, Llama 3.2 Vision 지원 | GeekNews](https://news.hada.io/topic?id=17645)
+    * [Feed Your OWN Documents to a Local Large Language Model! - YouTube](https://www.youtube.com/watch?v=fFgyOucIFuk)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [ollamex: Ollamex is an Elixir wrapper of the ollama REST API](https://github.com/waseigo/ollamex)
