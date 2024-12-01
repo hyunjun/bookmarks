@@ -1602,6 +1602,7 @@ App
   * [리뷰 | 오닉스, 맥 사용자를 위한 필수 무료 시스템 관리 툴 - ITWorld Korea](https://www.itworld.co.kr/news/204814)
 * [OpenCore-Legacy-Patcher: Experience macOS just like before](https://github.com/dortania/OpenCore-Legacy-Patcher)
   * [macOS 13 Ventura 미지원 맥에 설치하기! 2012년 이후 출시 모든 맥이 가능합니다!! 벤츄라패쳐 - YouTube](https://www.youtube.com/watch?v=AhaKCqKV5Wg)
+  * [단종 되고 지원되지 않는 Mac에 macOS 모든 버전을 설치하는 방법(따라만 해도됨, 쉬움) - YouTube](https://www.youtube.com/watch?v=hpWBKj2S5jw)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
