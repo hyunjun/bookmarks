@@ -314,6 +314,7 @@ Artificial Intelligence
 * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
 * [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
 * [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
+* [I Made an iOS App in MINUTES with This AI Tool! - YouTube](https://www.youtube.com/watch?v=oe3Jn6FRoII)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
