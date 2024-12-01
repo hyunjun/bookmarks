@@ -17,6 +17,7 @@ Art
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 * [페나키스티스코프(Phenakistiscope)](https://www.josephk.io/phenakistiscope-magical-animation/)
 * [■ LIVING ROOM, 라이프스타일 매거진.. : 네이버블로그](https://blog.naver.com/cantavil_life)
+* [【상업적 사용까지 OK!】 초고화질 세계명작 49만점을 무료로 다운로드 받아보자! - YouTube](https://www.youtube.com/watch?v=UWPstD5X0dI) + PPT 활용법
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)
