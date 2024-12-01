@@ -2273,6 +2273,8 @@ Business
 * [The Power of Small Wins](https://hbr.org/2011/05/the-power-of-small-wins)
 * [리더의 역할 - 팀 동기부여를 잘 시킬수 있는 방법 13가지](https://smartincome.tistory.com/267)
 * [직원의 업무효율을 높이는 CEO의 질문법 | 티피아이 인사이트](https://www.tpiinsight.co.kr/insight/2020/05/21/%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%85%eb%ac%b4%ed%9a%a8%ec%9c%a8%ec%9d%84-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%98%91%eb%98%91%ed%95%9c-ceo-%ec%a7%88%eb%ac%b8/)
+* [노수진 - 🚨 소프트웨어 엔지니어의 9.5%는 ‘유령’ 엔지니어—평균 성과의 0.1배 미만으로 기여하며 사실상 아무것도... | Facebook](https://www.facebook.com/soooooj/posts/pfbid02eKMcRSJLRfdM7GYeFGmfTxe5U94hZ6c8BA4JjHMyPdcyVPd3Vf4TGV8CS26sumtXl)
+  * 모든 직원이 좋은 효율을 내게 만드는 건 사실상 불가능한 일일텐데
 * [성과를 내는 리더들의 특징 – 체인지그라운드](http://thechangeground.com/archives/25156)
 * [기업(그리고 임원)이 알아야 할 개발자 동기부여의 비밀 - CIO Korea](https://www.ciokorea.com/news/254992)
 * [직원들의 마음 안에서 열정을 꺼내는 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/264015) 동기부여
