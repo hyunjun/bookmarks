@@ -58,6 +58,7 @@ Time Series
 * [Timeseries dataset generation in tensorflow – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4462)
 * [Alyona Galyeva & Dr. Sebastian Werner - 5 ways to fail with time series - YouTube](https://www.youtube.com/watch?v=5jOW6baXYI4)
 * [Time Series Data Augmentation in Industrial - YouTube](https://www.youtube.com/watch?v=MrFwL0qS3qA)
+* [Boosting Time Series Accuracy: The Power of Ensemble Methods - Robert Haase (Paretos) - YouTube](https://www.youtube.com/watch?v=Gp8E7OCyx_M)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
