@@ -2050,6 +2050,7 @@ Docker
 * [쿠버네티스 네트워크 3기 스터디 참여 멤버 글 모음](https://gasidaseo.notion.site/3-13a50aec5edf8013984fe0ba0c0e3b39)
 * [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
   * [친애하는 친구야, 넌 Kubernetes를 만들었어 | GeekNews](https://news.hada.io/topic?id=17955)
+* [쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@delight412/750)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
