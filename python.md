@@ -3369,6 +3369,8 @@ Python
   * 4. Colab, Kaggle, Binder 로 원클릭 포팅 및 실행
   * 5. 다른 사람이 만든 주피터 노트북 탐색
   * 6. 주피터 노트북 clone시, 필요한 패키지 자동 탐색 및 environment.yml 파일 자동 생성
+* jupylates-ext [Chiara Marmo / Jupyter lab extension for jupylates · GitLab](https://gitlab.in2p3.fr/chiara.marmo/jupylates-ext)
+  * [Nicolas M. Thiéry - Jupylates- spaced repetition for teaching with Jupyter - YouTube](https://www.youtube.com/watch?v=4WDVm4PcHig)
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
 * Jupyter Book [Built with Jupyter Book](https://jupyterbook.org/)
   * [PyCon KR Jupyter Book을 활용해 손쉽게 콘텐츠를 생산하고 공유하자 안성진 - YouTube](https://www.youtube.com/watch?v=VXPZ0omr5UE)
