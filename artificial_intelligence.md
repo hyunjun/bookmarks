@@ -350,6 +350,8 @@ Artificial Intelligence
   * [크루 AI: AutoGEN 보다 더 나은 인공지능](https://www.toolify.ai/ko/ai-news-kr/ai-autogen-2396938)
   * [Multi-Agent System — Crew.AI. Multi-Agent systems are LLM… | by A B Vijay Kumar | Apr, 2024 | Medium](https://abvijaykumar.medium.com/multi-agent-system-crew-ai-3773356b8c3e)
   * [Multi AI Agent Systems with crewAI - DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+  * [아빠가 된 개발자는 AI 에이전트를 어떻게 활용할까? - YouTube](https://www.youtube.com/watch?v=-59bKxwir5Q)
+  * [GPT vs Claude 최고의 투자 고수는? - YouTube](https://www.youtube.com/watch?v=o3fi6acjOtk)
   * [crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks](https://github.com/joaomdmoura/crewAI)
   * [crewAI-examples](https://github.com/joaomdmoura/crewAI-examples)
 * [Data2vec: The first high-performance self-supervised algorithm that works for speech, vision, and text](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text)
