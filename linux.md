@@ -246,6 +246,7 @@ Linux
 * [Fedora 35 에서 youtube 재생 오류](https://sunyzero.tistory.com/277)
 * [Fedora 35 : Thunderbolt 4 Maple ridge 인식 실패 문제](https://sunyzero.tistory.com/278)
 * [터치패드 켜기/끄기 토글 기능 - Fedora Linux](https://sunyzero.tistory.com/292)
+* [Setting Up the Perfect Developer Environment on Linux for 2025 - YouTube](https://www.youtube.com/watch?v=hKGPH9C-EFc)
 
 ## 배포판 Manjaro
 * [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
