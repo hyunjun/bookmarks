@@ -6600,6 +6600,8 @@ Javascript
 * [A different way to think about TypeScript](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
   * [**(번역) 타입스크립트에 대한 다른 접근법**](https://velog.io/@sehyunny/a-diff-way-to-think-about-ts)
 * [MIXEDCODE : 개발자 커뮤니티 토탈 플랫폼-믹스드코드](https://mixedcode.com/blog?cpid=1&ccid=12)
+* [MIXEDCODE : 믹스드코드닷컴-글로벌 융합기술 정보제공 플랫폼](https://mixedcode.com/blog?cpid=1&ccid=12)
+* [TypeScript 소개 및 실습환경 준비하기](https://mixedcode.com/blog/43)
 * [1. TS를 만나고 - 디자인](https://jojoldu.tistory.com/801)
 * [타입스크립트스럽게 성능과 생산성 두 마리 토끼 모두 잡기](https://tech.devsisters.com/posts/typescript-ish-way-to-improve-performance/) gRPC
 * [블럭스 엔지니어팀이 개발 언어를 바꾼 이유 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%ED%8C%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C-%EC%96%B8%EC%96%B4%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-30517)
