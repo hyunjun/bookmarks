@@ -732,6 +732,7 @@ Docker
 * [docker cheat sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 * [Containers 101: attach vs. exec - what's the difference?](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
 * [Docker: The Ultimate Tool for IT Professionals](https://www.linkedin.com/feed/update/urn:li:activity:7172272073866723328/)
+* [Docker just got an upgrade - YouTube](https://www.youtube.com/watch?v=ilkZ27TwYVg)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
