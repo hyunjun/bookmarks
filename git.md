@@ -1234,6 +1234,7 @@ Git
   * [저장소 안에 저장소 - git submodule - YouTube](https://www.youtube.com/watch?v=TAe4uZqYt6c)
   * [Git 의 서브모듈(Submodule) - Sungho's Blog](https://sgc109.github.io/2020/07/16/git-submodule/)
   * [효율적인 Git 리포 관리: 서브모듈 대신 이것을 사용하면...? - YouTube](https://www.youtube.com/watch?v=IzSAZ0QvBVQ)
+  * [Mono-repo vs Git Submodules vs 각자 도생 repo: 어떤걸 선호하 | GeekNews](https://news.hada.io/topic?id=17978)
 * subtree
   * [~git subtree를 사용하여 재사용할 코드 독립 시키기~](http://readme.skplanet.com/?p=8542)
   * [Git subtree로 코드 공유하기](https://blog.rhostem.com/posts/2020-01-03-code-sharing-with-git-subtree)
