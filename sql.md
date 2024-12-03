@@ -1138,6 +1138,8 @@ SQL
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [vitess - A database clustering system for horizontal scaling of MySQL](https://vitess.io/)
   * [Vitess를 활용한 Slack의 데이터스토어 스케일링 | GeekNews](https://news.hada.io/topic?id=3392)
+* [WeSQL is an innovative MySQL distribution that adopts a compute-storage separation architecture, with storage backed by S3 (and S3-compatible systems). It can run on any cloud, ensuring no vendor lock-in](https://github.com/wesql/wesql)
+  * [WeSQL - S3를 저장소로 사용하는 혁신적인 MySQL 배포판 | GeekNews](https://news.hada.io/topic?id=18058)
 
 ## MySQL Sharding
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
