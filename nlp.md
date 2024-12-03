@@ -2285,6 +2285,8 @@ NLP
 * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
 * [DAN 24 - LLM for Search: 꽁꽁 얼어붙은 검색 서비스 위로 LLM이 걸어다닙니다](https://dan.naver.com/24/sessions/588)
 * [DAN 24 - 사람을 대신해야 진짜 AI지? : LLM 기반 임베딩부터 검색 품질 자동 평가 모델까지](https://dan.naver.com/24/sessions/591)
+* [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
+  * [LLM 구축은 아마도 훌륭한 사업이 되지 못할 겁니다 | GeekNews](https://news.hada.io/topic?id=18062)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
