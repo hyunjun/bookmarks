@@ -838,6 +838,7 @@ Docker
     * 로컬에 파일 구조를 모두 풀었으므로 docker와 똑같이 docker0 네트워크 브릿지와 nginx 네임스페이스를 만들고 veth123456 인터페이스로 nginx 네임스페이스와 연결한 뒤 chroot로 nginx 프로세스를 실행하고 도커와 동일하게 실행되는지 확인
     * docker run은 재현했으니 docker exec도 컨테이너 안에 들어간다기보다 셸이 실행되는 것일 뿐을 보여주어서 컨테이너 구조를 이해하기 용이
 * scan [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
+* stack [docker stack is my new favorite way to deploy to a VPS - YouTube](https://www.youtube.com/watch?v=fuZoxuBiL9o)
 * stop `sudo docker stop [container id]`
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
 * volume
