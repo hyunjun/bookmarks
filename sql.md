@@ -476,6 +476,8 @@ SQL
   * 사전 테스트는 변경으로 인한 문제를 사전에 파악하고, 운영 전환의 안정성을 높이는 데 도움
   * 이 플랫폼은 애플리케이션 계층과의 긴밀한 연결을 인식하여 데이터베이스 관리자와 개발자가 함께 테스트를 수행하도록 지원
 * [Load vector embeddings up to 67x faster with pgvector and Amazon Aurora | AWS Database Blog](https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/)
+* [Distributed SQL Databases - Amazon Aurora DSQL - AWS](https://aws.amazon.com/ko/rds/aurora/dsql/)
+  * [Introducing Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-amazon-aurora-dsql/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
