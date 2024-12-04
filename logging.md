@@ -79,6 +79,7 @@ Logging
 * [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
 * [Fluentd로 데이터파이프라인 구축하기 kafka→kafka→s3](https://blog.voidmainvoid.net/261)
 * [Fluentd? 나만의 에이전트 패키징! – gywndi's database](https://gywn.net/2021/09/package-own-fluentd-agent/)
+* [Log Aggregation의 진화: 카카오의 Fluentd 대체기 - tech.kakao.com](https://tech.kakao.com/posts/671)
 
 # Library
 * [angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
