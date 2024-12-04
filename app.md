@@ -807,6 +807,7 @@ App
   * [Home Manager Manual](https://nix-community.github.io/home-manager/)
     * [Manage Your Dotfiles with Home Manager! - YouTube](https://www.youtube.com/watch?v=IiyBeR-Guqw)
   * [SBTB 2023: Salar Rahmanian, Streamline Your Development Workflow - YouTube](https://www.youtube.com/watch?v=Qv3Y23RjJa0)
+  * [Nix is my favorite package manager to use on macOS - YouTube](https://www.youtube.com/watch?v=Z8BL8mdzWHI)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
