@@ -211,6 +211,11 @@ C++
   * 5의 법칙은 여기에 이동 생성자와 이동 할당 연산자 추가
   * 0의 법칙은 이들이 필요하지 않도록 설계한다는 내용
 * [perfect forwarding을 perfect하게 이해하기](https://jabdon4ny.tistory.com/119)
+* [A New Era for C and C++? Goodbye, Rust? - YouTube](https://www.youtube.com/watch?v=V_QAJAhbH9A)
+  * [Safe C++](https://safecpp.org/draft.html)
+  * [TrapC Bangkok 2024-11-11 on Vimeo](https://vimeo.com/1028578347)
+  * FilC [llvm-project-deluge/Manifesto.md at deluge · pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
+    * [SPLASH'24 Pasadena - REBASE (Oct 23th) - YouTube](https://www.youtube.com/live/_VF3pISRYRc?t=4862s)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
