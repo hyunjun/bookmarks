@@ -748,6 +748,9 @@ App
       * 분산 IDE로 설계되어 JetBrains의 Space를 이용해서 원격에서 코드 처리
       * 로컬에서는 Fleet만 가볍게 사용하는 것도 가능
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* [Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform)
+  * [Everything App for your teams](https://huly.io/)
+  * [Huly | Open-source replacement for Linear, Jira, Slack & Notion - YouTube](https://www.youtube.com/watch?v=WKmpm0ms_Sg)
 * IDX [Project IDX](https://idx.google.com/)
   * [IDX - 웹에서 ios, android시뮬까지 가능한! - YouTube](https://www.youtube.com/watch?v=wAt7PMqVFL4)
   * [Start building with Project IDX!](https://idx.dev/blog/article/start-building-with-project-idx-today)
