@@ -984,6 +984,12 @@ Programming Books
   * [AI 트루스 - Jun - Medium](https://nymets.medium.com/ai-%ED%8A%B8%EB%A3%A8%EC%8A%A4-9ea1b3fb6259)
   * [AI 트루스 - Jun’s Substack](https://recur.substack.com/p/ai-73e)
   * [AI 트루스](https://jh4hj.tistory.com/entry/AI-%ED%8A%B8%EB%A3%A8%EC%8A%A4)
+* [AI 반도체 혁명](https://www.notion.so/1003/AI-1533f0c2cf65807cbe70f8ce3bb49eac)
+  * ★★★☆☆ 2024.12.03~05
+  * [AI 반도체 혁명](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ai_semiconductor_revolution.md)
+  * [AI 반도체 혁명 - Jun - Medium](https://nymets.medium.com/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%98%81%EB%AA%85-4b220eb58d48)
+  * [AI 반도체 혁명 - Jun’s Substack](https://recur.substack.com/p/ai-637)
+  * [AI 반도체 혁명](https://jh4hj.tistory.com/entry/AI-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%98%81%EB%AA%85)
 * (NOT YET) [인공지능 전문가가 알려 주는 챗GPT로 대화하는 기술](https://www.hanbit.co.kr/store/books/look.php?p_code=B2266571115)
   * [2025 수능 국어 지문 출제 디퓨전 모델(diffusion model) 쉽게 이해하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6968709109&cate_cd=)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
