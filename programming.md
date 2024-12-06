@@ -9037,6 +9037,7 @@ Programming
 * [FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며... - YouTube](https://www.youtube.com/watch?v=HqlCfWT3oZU) Selenium, Puppeteer 등 E2E 테스트 자동화 도구
   * [VidiGo FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며....mp4](https://vidigo.ai/share/summary/20037ee9fdad)
   * [FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며... | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1185330)
+* [04화 QA 엔지니어의 도구 활용 팁](https://brunch.co.kr/@jamescompany/63) Selenium Cypress Playwright
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
