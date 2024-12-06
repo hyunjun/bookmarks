@@ -338,6 +338,7 @@ Web
 * [(번역)성공적인 SEO 실행하기](https://brunch.co.kr/@edte1020/100)
 * [기술 블로그를 위한 SEO - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/07/SEO-for-Technical-Blog.html)
 * [제목 스타일 단계는 문서 구조의 기둥과 보 - 넷마블 기술 블로그](https://netmarble.engineering/heading-style-guide-for-strong-document) SEO 이야기 약간
+* [당장 그만두어야 하는 구식 SEO 전략 7가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/267469)
 * [사이트를 임시로 닫을 때 구글에 알려 주기 | 웹으로 말하기](https://mytory.net/archives/11692)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
