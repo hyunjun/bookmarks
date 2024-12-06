@@ -476,8 +476,10 @@ SQL
   * 사전 테스트는 변경으로 인한 문제를 사전에 파악하고, 운영 전환의 안정성을 높이는 데 도움
   * 이 플랫폼은 애플리케이션 계층과의 긴밀한 연결을 인식하여 데이터베이스 관리자와 개발자가 함께 테스트를 수행하도록 지원
 * [Load vector embeddings up to 67x faster with pgvector and Amazon Aurora | AWS Database Blog](https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/)
+* [Amazon Bedrock과 프롬프트 엔지니어링을 활용한 보안성 높은 RAG 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/)
 * [Distributed SQL Databases - Amazon Aurora DSQL - AWS](https://aws.amazon.com/ko/rds/aurora/dsql/)
   * [Introducing Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-amazon-aurora-dsql/)
+  * [Concurrency control in Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/concurrency-control-in-amazon-aurora-dsql/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -1734,6 +1736,7 @@ SQL
   * [SQLite로 전문검색과 벡터검색의 하이브리드 구현하기 | GeekNews](https://news.hada.io/topic?id=17405)
 * [Rearchitecting: Redis to SQLite | Wafris](https://wafris.org/blog/rearchitecting-for-sqlite)
   * [우리가 ‘Redis’에서 ‘SQLite’로 재설계한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/2838/)
+* [Disaggregated Storage - a brief introduction - blag](https://avi.im/blag/2024/disaggregated-storage/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
