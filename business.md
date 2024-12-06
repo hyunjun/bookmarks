@@ -1707,24 +1707,6 @@ Business
 * [CTO Summit Panel • Sarah Taraporewalla, Dave Coombes, Jenny Johnson & Josh Graham • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=Wmkm_FfRWlU)
   * [VidiGo CTO Summit Panel • Sarah Taraporewalla, Dave Coomb](https://vidigo.ai/share/summary/2d216ad7692f)
   * [CTO 서밋 패널 - 사라 타라포레왈라, 데이브 쿰즈, 제니 존슨, 조쉬 그레이엄 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/660619)
-* [Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?” – charity.wtf](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
-  * 어떤 사람이 40명 엔지니어 조직에 VP로 합류해서 엔지니어링 관리자를 뽑는 일에 대해 CEO와 갈등을 겪는다는 질문
-    * Honeycomb CTO인 Charity Majors가 답변 정리한 글
-  * 계층 구조는 실제로는 권위적인 구조라기 보다 적응성, 탄력성, 확장성에 중요한 역할을 하며 하위 시스템의 이익을 위해 탄생
-  * 시스템은 공통의 목표를 달성하기 위해 상호 의존적인 구성 요소의 네트워크
-  * 하위 시스템은 큰 시스템 내에서 더 작은 목표를 가진 요소들의 집합
-  * 계층 구조의 주요 이점은 정보 과부하 감소. 팀 내 커뮤니케이션은 대역폭이 높고 빨라야 하고 팀 간 커뮤니케이션은 더 적게 이루어져야 함
-  * 해야 할 일이 제대로 이뤄지도록 하는 것이 관리자의 역할
-    * 모든 엔지니어에게 흥미롭고 도전적이지만 부담스럽지 않은 업무를 부여하고 불쾌한 노동이 공평하게 배분되도록 하는 것도 관리자의 역할
-  * 엔지니어는 개발, 배포, 유지 보수하는 소프트웨어에 책임이 있고 관리자는 팀과 조직 전체에 책임
-  * 자연스러운 계층 구조에서 목적을 위해 위를 보고 기능을 위해 아래를 봄
-  * 대부분의 엔지니어링 조직에는 엔지니어링 관리자 존재
-  * 알고 있는 매니저 없는 실험은 모두 포기되거나 성장하지 못했음
-    * 경험상 리더들이 권력에 빠져서라기보다는 혼란, 집중력 부족, 실행력 부족에 기인
-  * 명시적인 구조나 위계가 없을 때, 자유와 평등이 아니라 "비공식적이고 인정받지 못하며 책임지지 않는 리더쉽"이 될 수 있음
-  * 그룹 수는 적지만 그룹 규모가 크면 전반적인 관리 오버헤드가 줄어들고 조율 작업도 훨씬 감소
-  * 엔지니어링 매니저가 모든 작업을 수행하고 결정하는 것은 아니지만 경험상 작업이 제대로 이루어지고 잘 수행되도록 하는 데는 절대적으로 중요한 역할
-  * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
 * [Scaling Teams at Sanity, Github, and Google 🏢 — with Rachel Potvin - YouTube](https://www.youtube.com/watch?v=-cRZOSfE4yA&t=486s)
   * [레이첼 포트빈과 함께 하는 Sanity, Github, Google의 팀 확장하기 🏢 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747733)
 * [디스콰이엇 CTO 3개월 수습 기간 회고 | Disquiet\*](https://disquiet.io/@wonny727/makerlog/%EB%94%94%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%97%87-cto-3%EA%B0%9C%EC%9B%94-%EC%88%98%EC%8A%B5-%EA%B8%B0%EA%B0%84-%ED%9A%8C%EA%B3%A0)
@@ -2222,6 +2204,7 @@ Business
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
+* [리더십을 넘어 팔로워십, 필요한 역량과 제대로 알아야 하는 4가지 이유? < 경영 인사이트 < 기사본문 - 사례뉴스](https://www.casenews.co.kr/news/articleView.html?idxno=16751)
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
 * [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [토스에서의 시간을 돌아보며 | Evans Library](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
@@ -2717,6 +2700,25 @@ Business
 * [팀원들의 역량이 정말 부족했던 걸까](https://eopla.net/magazines/20726)
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [Traversing the Engineering Manager Skill Tree by Ole Michaelis - YouTube](https://www.youtube.com/watch?v=P_ocQwm_-oE)
+* [Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?” – charity.wtf](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
+  * 어떤 사람이 40명 엔지니어 조직에 VP로 합류해서 엔지니어링 관리자를 뽑는 일에 대해 CEO와 갈등을 겪는다는 질문
+    * Honeycomb CTO인 Charity Majors가 답변 정리한 글
+  * 계층 구조는 실제로는 권위적인 구조라기 보다 적응성, 탄력성, 확장성에 중요한 역할을 하며 하위 시스템의 이익을 위해 탄생
+  * 시스템은 공통의 목표를 달성하기 위해 상호 의존적인 구성 요소의 네트워크
+  * 하위 시스템은 큰 시스템 내에서 더 작은 목표를 가진 요소들의 집합
+  * 계층 구조의 주요 이점은 정보 과부하 감소. 팀 내 커뮤니케이션은 대역폭이 높고 빨라야 하고 팀 간 커뮤니케이션은 더 적게 이루어져야 함
+  * 해야 할 일이 제대로 이뤄지도록 하는 것이 관리자의 역할
+    * 모든 엔지니어에게 흥미롭고 도전적이지만 부담스럽지 않은 업무를 부여하고 불쾌한 노동이 공평하게 배분되도록 하는 것도 관리자의 역할
+  * 엔지니어는 개발, 배포, 유지 보수하는 소프트웨어에 책임이 있고 관리자는 팀과 조직 전체에 책임
+  * 자연스러운 계층 구조에서 목적을 위해 위를 보고 기능을 위해 아래를 봄
+  * 대부분의 엔지니어링 조직에는 엔지니어링 관리자 존재
+  * 알고 있는 매니저 없는 실험은 모두 포기되거나 성장하지 못했음
+    * 경험상 리더들이 권력에 빠져서라기보다는 혼란, 집중력 부족, 실행력 부족에 기인
+  * 명시적인 구조나 위계가 없을 때, 자유와 평등이 아니라 "비공식적이고 인정받지 못하며 책임지지 않는 리더쉽"이 될 수 있음
+  * 그룹 수는 적지만 그룹 규모가 크면 전반적인 관리 오버헤드가 줄어들고 조율 작업도 훨씬 감소
+  * 엔지니어링 매니저가 모든 작업을 수행하고 결정하는 것은 아니지만 경험상 작업이 제대로 이루어지고 잘 수행되도록 하는 데는 절대적으로 중요한 역할
+  * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
+* [5 Reasons Why the Engineering Manager Role is so Demanding](https://www.leadbeyondcode.com/blog/engineering-manager-role)
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
@@ -3567,6 +3569,7 @@ Business
 * [기획자, PM, PO는 어떻게 다를까?](https://divercity.stibee.com/p/7/) 공감하는 면도 있고 아닌 면도 있음
 * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://divercity.stibee.com/p/30/)
   * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%84%A4-%EB%AA%85%EC%9D%98-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%88%84%EA%B5%AC%EC%97%90%EA%B2%8C-%EC%96%B4%EB%96%A4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EB%A7%A1%EA%B8%B0%EB%8A%94%EA%B0%80-activity-7253961821169016832-iuLp/)
+* [5 Technical Skills Product Managers Should Have](https://www.codecademy.com/resources/blog/technical-skills-for-product-managers/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
