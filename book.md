@@ -931,9 +931,13 @@ Book
   * [처음부터 다시 배우는 디자인 씽킹. ★★★☆☆ 2024.01.15~17 product나 service를… | by Jun | Jan, 2024 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%94%BD%ED%82%B9-53e501695d0a)
   * [처음부터 다시 배우는 디자인 씽킹 - Jun’s Substack](https://recur.substack.com/p/b1b)
   * [처음부터 다시 배우는 디자인 씽킹](https://jh4hj.tistory.com/entry/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%94%BD%ED%82%B9)
-* 스타트업, 쉽게 할 수 있다는 거짓말
+* [스타트업 쉽게 할 수 있다는 거짓말](https://www.notion.so/1003/8a3e615bd8fc45b3a864f5f1c95e63cb)
   * ★★★☆☆ 2024.08.12~13 (원래 그렇게도 생각했지만, 책의 표현대로도) '현실주의자'인 나에게 스타트업이 얼마나 어려운지 피상적으로나마 다시 한 번 깨닫게 해주는 책. 창업을 하고 싶은 사람들에게 충분히 권할만한 좋은 책. 짧은 챕터들의 연속으로 창업의 '현실'을 알려주지만, 이런 어려움에도 불구하고 '몽상주의자'들이라면 도전을 원할 것
   * 탐라 문325.21-최73ㅅ 우당 문325.21-최73ㅅ
+  * [스타트업 쉽게 할 수 있다는 거짓말](https://github.com/hyunjun/bookmarks/blob/master/books/the_lies_that_starting_a_startup_is_easy.md)
+  * [스타트업 쉽게 할 수 있다는 거짓말 - Jun - Medium](https://nymets.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%89%BD%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%A7%93%EB%A7%90-91a84224f45a)
+  * [스타트업 쉽게 할 수 있다는 거짓말 - Jun’s Substack](https://recur.substack.com/p/67c)
+  * [스타트업 쉽게 할 수 있다는 거짓말](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%89%BD%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%A7%93%EB%A7%90)
 * [창업가의 질문 - YouTube](https://www.youtube.com/watch?v=eIF69CTMO54)
   * ★★★★☆ 2024.10.01 창업할 생각은 없지만 manager로 지내고 스타트업에서 CEO들과 일하다보니 창업에 대한 책은 종종 읽는다. 지금껏 읽었던 창업에 대해 알려주는 책들 중에서는 가장 좋다는 생각이 든다. Q&A 형식으로 실제 있을법한 상황을 통해 필요한 부분을 알려주며, 때로는 이렇게 자세하다 싶을 정도로(예를 들면 투자사를 확인하기 위해 벤처투자협회 홈페이지를 통해 확인할 수 있다는 절차를 알려주는 부분) 실질적인 부분까지 기록했다. 창업을 꿈꾸는 주변 사람이 있다면 꼭 추천하고 싶다.
   * 우당 문325.21-최67ㅊ
