@@ -2433,6 +2433,8 @@ Docker
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
   * [Kubernetes at Home with Kubespray and Ansible - YouTube](https://www.youtube.com/watch?v=1W4w2ziRU8Q)
   * [Deploy Kubernetes in your Homelab: How to use Kubespray - YouTube](https://www.youtube.com/watch?v=lvkpIoySt3U)
+  * [Kubespray Deployment with Custom Configurations | by DaeGon Kim | T3CH | Dec, 2024 | Medium](https://medium.com/h7w/kubespray-deployment-with-custom-configurations-488d4269dba6)
+  * [Kubernetes Deployment using Kubespray | by DaeGon Kim | Dev Genius](https://blog.devgenius.io/kubernetes-deployment-using-kubespray-63e5086237f7)
 * kubestack [Enjoy the best developer experience and build your Kubernetes platform | Kubestack](https://www.kubestack.com/)
   * [KubeStack — A Must Use. An Open-Source, Easy-to-use GitOps… | by Shanika Perera | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/kubestack-a-must-use-117a32efd427)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
