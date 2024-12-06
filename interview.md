@@ -1113,6 +1113,7 @@ Interview
 * [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
 * [존잡생각 스톡옵션에 대한 이해](https://www.slid.cc/share/vdocs/%EC%A1%B4%EC%9E%A1%EC%83%9D%EA%B0%81-%EC%8A%A4%ED%86%A1%EC%98%B5%EC%85%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-cbf10ef680bf4f23bf6538c08484d2a4)
 * [스톡옵션, 직접 부여해본 창업자의 가이드 (1): 진정한 동료를 얻는 힘 | 매쉬업벤처스](https://www.mashupventures.co/contents/stock-option-guide-for-founders)
+* [스톡옵션, 직접 부여해본 창업자의 가이드 (2): 설계 가이드와 계약서 샘플 | 매쉬업벤처스](https://www.mashupventures.co/contents/stock-option-practical-guide-and-template)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary-well)
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
