@@ -453,6 +453,8 @@ Elixir
   * [Mastering Phoenix Framework - Introduction - DEV Community](https://dev.to/rushikeshpandit/mastering-phoenix-framework-introduction-580b)
   * [Mastering Phoenix Framework - Part 1 - DEV Community](https://dev.to/rushikeshpandit/mastering-phoenix-framework-part-1-i35)
   * [A Complete Guide to Phoenix for Elixir Monitoring with AppSignal | AppSignal Blog](https://blog.appsignal.com/2024/09/17/a-complete-guide-to-phoenix-for-elixir-monitoring-with-appsignal.html)
+  * [Schemaless Validation in Phoenix. | by victor Mbashia | Dec, 2024 | Medium](https://medium.com/@mbashiavictor/schemaless-validation-in-phoenix-6f68c1300856)
+  * [Harness PubSub for Real-Time Features in Phoenix Framework - DEV Community](https://dev.to/rushikeshpandit/harness-pubsub-for-real-time-features-in-phoenix-framework-2hk7)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
