@@ -729,6 +729,7 @@ AWS
 * [GS SHOP 패션 검색의 진화, Amazon Bedrock 멀티모달 기반 패션 검색 시스템 구현 사례](https://gsretail.tistory.com/68)
 * [AWS 서비스 파트너와 함께 구축한 타이거컴퍼니의 Amazon Bedrock 기반 문서 질의 챗봇 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tigercompany-built-ai-document-chatbot-with-aws-service-partner-based-on-amazon-bedrock/)
 * [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
+* [Amazon Bedrock과 Amazon OpenSearch를 활용한 hy 프레딧의 생성형 AI 기반 검색 서비스 구현 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementation-of-an-advanced-search-service-with-generative-ai-on-fredit/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -1488,6 +1489,7 @@ AWS
 * [무중단으로 EKS 클러스터 버전 업그레이드하기 - 블럭스 매거진](https://blog.blux.ai/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%9C%BC%EB%A1%9C-eks-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%98%EA%B8%B0-25859)
 * [따배EKS Amazon EKS 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M)
 * [Amazon EKS Upgrade Journey From 1.30 to 1.31- say hello to another cutee “Elli” | by Marcin Cuber | Sep, 2024 | Medium](https://marcincuber.medium.com/amazon-eks-upgrade-journey-from-1-30-to-1-31-say-hello-to-another-cutee-elli-d488fd6521eb)
+* [Announcing Amazon EKS Auto Mode - AWS](https://aws.amazon.com/ko/about-aws/whats-new/2024/12/amazon-eks-auto-mode/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1934,6 +1936,7 @@ AWS
 * [Functions vs Containers: The Serverless Landscape • Marcia Villalba & Julian Wood - YouTube](https://www.youtube.com/watch?v=aa60K-UC9Uo)
   * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/32519a52863f)
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
+* [AWS Lambda turns 10: A rare look at the doc that started it | All Things Distributed](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
@@ -2639,6 +2642,7 @@ AWS
   * ECR 대신 S3를 컨테이너 레지스트리로 사용하는 실험
   * HTTP로 S3를 노출하고 그대로 사용 가능
   * OCI 표준에 따라 레이어 푸시가 순차적으로 이뤄지기 때문에 ECR보다 S3가 최대 8배까지 빠른 속도
+* [**Zero Disk Architecture - blag**](https://avi.im/blag/2024/zero-disk-architecture/)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
@@ -3026,6 +3030,7 @@ AWS
 * [AWS Network Latency Comparison. Overview | by Cloud Journey | Medium](https://cloudjourney.medium.com/aws-network-latency-comparison-a59fea637524)
 * [Amazon S3용 마운트포인트를 사용한 Amazon VPC 트래픽 미러링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/capture-packets-with-amazon-vpc-traffic-mirroring-and-mountpoint-for-amazon-s3/)
 * [단, 두개의 AWS Lambda 함수로 Amazon OpenSearch, Amazon Bedrock 기반 이미지 검색 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/easiest-image-search-with-opensearch/)
+* [AWS PrivateLink를 통한 VPC Resource 접근](https://zigispace.net/1310)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
