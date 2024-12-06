@@ -3824,6 +3824,7 @@ Python
 * [Depix: Recovers passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
+* [docling: Get your documents ready for gen AI](https://github.com/DS4SD/docling) Docling parses documents and exports them to the desired format with ease and speed
 * [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
   * [extract data(paragraph, table) from docx file](http://stackrefactoring.blogspot.com/2016/10/extract-dataparagraph-table-from-docx.html)
 * [DoGelang](http://pyos.github.io/dg/)
@@ -5565,6 +5566,10 @@ Python
 * [Python's assert: Debug and Test Your Code Like a Pro – Real Python](https://realpython.com/python-assert-statement/)
 * [EuroPython 2024 - Streamlining Testing in a Large Python Codebase | PPT](https://www.slideshare.net/slideshow/europython-2024-streamlining-testing-in-a-large-python-codebase/270202567)
   * [PyCon JP 2024 Streamlining Testing in a Large Python Codebase .pdf](https://www.slideshare.net/slideshow/pycon-jp-2024-streamlining-testing-in-a-large-python-codebase-pdf/272062717)
+* [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
+  * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
+* [**PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기**](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi) 주로 Django 기반이지만 매우 좋은 내용
+* [Adinata Thayib - Running Unit Test on Top of Serverless Service - YouTube](https://www.youtube.com/watch?v=3pdZalofKnI)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
@@ -5588,6 +5593,9 @@ Python
   * [Mutation Testing with Python. Test the tests — automatically, by… | by Martin Thoma | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8)
   * [mutmut - python mutation tester — mutmut documentation](https://mutmut.readthedocs.io/)
     * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
+* nosetests
+  * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
+  * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * property based testing
   * [Property-based Testing from Scratch (in Python)](https://medium.com/russell-duhon/property-based-testing-from-scratch-in-python-bb1a8b56daf6)
   * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
@@ -5601,13 +5609,6 @@ Python
       * [I hate writing tests, that's why I use Hypothesis](https://slides.com/cheukting_ho/hypothesis-ghostwriter)
   * [Intro to property-based testing in Python](https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/)
   * [Unit Testing in Python — Property-based Testing | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-property-based-testing-892a741fc119)
-* [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
-  * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
-* [**PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기**](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi) 주로 Django 기반이지만 매우 좋은 내용
-* [Adinata Thayib - Running Unit Test on Top of Serverless Service - YouTube](https://www.youtube.com/watch?v=3pdZalofKnI)
-* nosetests
-  * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
-  * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * [pynguin: The PYthoN General UnIt Test geNerator is a test-generation tool for Python](https://github.com/se2p/pynguin)
 * [pytest: helps you write better programs](http://docs.pytest.org/)
   * installaion; anaconda에서 `pip install -U pytest`로 오류가 발생하면 `conda update pytest` 이용
@@ -5650,6 +5651,7 @@ Python
   * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
   * [pytest-postgresql: This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client](https://github.com/ClearcodeHQ/pytest-postgresql)
     * [Pytest Postgresql: A Plugin That Helps Check Running PostgreSQL](https://morioh.com/p/ffd751a4a2b7)
+* [Python Code Craft - YouTube](https://www.youtube.com/playlist?list=PL1tIFPlmF4ykpjOJKVDwYkpBIeXsoak6S)
 * [Tabletests](http://horia141.com/tabletests.html)
 * unittest
   * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
