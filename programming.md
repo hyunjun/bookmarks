@@ -8859,12 +8859,10 @@ Programming
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
-* [ConfigCat - Feature Flag Service for Teams](https://configcat.com/)
 * [Dogu Technologies - Automate your game and app testing for high quality software](https://dogutech.io/)
   * [dogu: Test automation platform for web, mobile, game applications with many test frameworks](https://github.com/dogu-team/dogu)
   * [조직을 위한 테스트 자동화 플랫폼 구축 - Device Farm](https://blog.dogutech.io/test-automation-platform-for-organization/)
   * [테스트 자동화 제품은 어떻게 테스트를 할까? - Dogu E2E 테스트 도입기](https://blog.dogutech.io/dogu-e2e-testing-implementation-ko/)
-* [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 * [Pact | Microservices testing made easy](https://pact.io/)
 * [Reliv](https://reliv.ai/)
   * [Reliv.ai를 활용한 테스트 자동화](https://brunch.co.kr/@yongjinjinipln/128)
@@ -8976,11 +8974,13 @@ Programming
         * 진행됐던 여러개의 실험(넷플릭스는 1년에 수천개 진행)의 결과를 모두 가져와
         * bias를 제외하고 각 실험의 long-term 결과값을 정리, 추정하는 방법 제시
 * [**A/B 테스트 후기와 소고(小考): 할인율 명시의 효과. 할인율 명시의 효과** | by Joshua Kim | Sep, 2024 | Medium](https://joshua-data.medium.com/ab-test-review-bcfb3613e829)
+* [How To Build Feature Flags Like A Senior Dev In 20 Minutes - YouTube](https://www.youtube.com/watch?v=VBCYqp8l3Lc)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
 * [AutoParams: Enjoy your TDD! AutoParams is an arbitrary test data generator for parameterized tests in Java inspired by AutoFixture](https://github.com/AutoParams/AutoParams)
+* [ConfigCat - Feature Flag Service for Teams](https://configcat.com/)
 * [dorkly: Contains source code for GitHub Action and docker bits for backend service](https://github.com/dorklyorg/dorkly)
   * [Home · dorklyorg/dorkly Wiki · GitHub](https://github.com/dorklyorg/dorkly/wiki)
   * [Dorkly - 오픈 소스 Feature Flag 시스템 | GeekNews](https://news.hada.io/topic?id=15602)
@@ -8989,6 +8989,7 @@ Programming
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
 * [KPI_ABTest.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/KPI_ABTest.md)
   * [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST - YouTube](https://www.youtube.com/watch?v=5Qw05CvbH1g)
+* [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 * [OpenFeature](https://openfeature.dev/) feature flag
   * [flagd](https://flagd.dev/)
 * [Product Analytics - PostHog](https://posthog.com/product-analytics)
