@@ -251,6 +251,7 @@ Artificial Intelligence
   * [인공지능을 활용한 슬기로운 연구생활.pdf](https://jehyunlee.github.io/2024/11/18/General-69_SNU/241118_%EC%9D%B4%EC%A0%9C%ED%98%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%97%B0%EA%B5%AC%EC%83%9D%ED%99%9C.pdf)
 * [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
 * [4회 파이토치코리아 발표자료 - 왜 AI백엔드 개발자인가? (NLP, LLM 중심, by 최남규) : 네이버 카페](https://cafe.naver.com/aidev/878)
+* [비즈니스를 위한 통화 요약 솔루션 비교 - B2B Sales 블로그, Callabo](https://callabo.ai/blog/business-sales-call-summary-solution-comparison)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -319,6 +320,7 @@ Artificial Intelligence
 * [AI따라하기 시리즈 at main · jeong-wooseok/AIdoingai](https://github.com/jeong-wooseok/AIdoingai/tree/main/AI%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0_%EC%8B%9C%EB%A6%AC%EC%A6%88)
   * [🔥 개발자 필수 도구 Cursor! VS Code에 AI를 더한 강력한 코딩 도우미 (10분 만에 프로그램 뚝딱!)#Cursor #AI코딩 #obsidian #AItools - YouTube](https://www.youtube.com/watch?v=sFJ1TasNZMU&list=PLuySsHNr_M9IHW4o7sIyUz4x6Og7lsbK9&index=9)
   * [AI 개발자를 위한 Docker 환경설정 (Cursor AI 활용) - YouTube](https://www.youtube.com/watch?v=fC6YLcLSPno)
+* [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
@@ -438,6 +440,8 @@ Artificial Intelligence
 * [Praison AI: AI Agency - Unlock the Power of AI for Your Business](https://praison.ai/)
   * [PraisonAI Code: AI 코딩 혁신! 이젠 전체 코드 베이스와 대화하세요!(feat. 제미나이) 💬🚀](https://fornewchallenge.tistory.com/entry/PraisonAI-Code-AI-%EC%BD%94%EB%94%A9-%ED%98%81%EC%8B%A0-%EC%9D%B4%EC%A0%A0-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94feat-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%F0%9F%92%AC%F0%9F%9A%80)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
+* [pydantic-ai: Agent Framework / shim to use Pydantic with LLMs](https://github.com/pydantic/pydantic-ai)
+  * [PydanticAI is a Python agent framework developed by the Pydantic team](https://www.linkedin.com/posts/activity-7270196261482307584-PQSn/)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
