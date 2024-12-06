@@ -84,6 +84,7 @@ Apache
 * [서버리스에서 쿠버네티스로 - Airflow 운영 경험기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/airflow-1/)
 * [로봇을 위한 MLOps #1: Edge device와 K3s, Airflow | 우아한형제들 기술블로그](https://techblog.woowahan.com/17647/)
 * [로봇을 위한 MLOps #2: 엣지 파이프라인의 구성 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17827/)
+* [데이터 엔지니어링 핵심 도구 ‘Apache Airflow’ 개념 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/2874/)
 * [airflow-provider-anomaly-detection: An airflow provider for anomaly detection](https://github.com/andrewm4894/airflow-provider-anomaly-detection)
   * [모든 파이프라인 엔지니어의 평화를 빕니다 - Google Slides](https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit#slide=id.g23bb15e27c8_0_20)
 
