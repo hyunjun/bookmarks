@@ -7754,6 +7754,7 @@ Programming
   * [Where should you use gRPC? And where NOT to use it! - YouTube](https://www.youtube.com/watch?v=4SuFtQV8RCk)
   * [gRPC - 알고 나면 쉬움 - YouTube](https://www.youtube.com/watch?v=uwrR5e5_FH8)
   * [gRPC in .NET: Basics & More • Poornima Nayar • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=01I2U0UM3Fw)
+  * [Now I Know Why Most People Don’t Use gRPC - YouTube](https://www.youtube.com/watch?v=WpXs7e7kEoI)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
