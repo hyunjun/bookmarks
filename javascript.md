@@ -5075,6 +5075,7 @@ Javascript
 * [React 19: 계륵이었던 Suspense가 활약할 때?](https://velog.io/@composite/React-19-%EA%B3%84%EB%A5%B5%EC%9D%B4%EC%97%88%EB%8D%98-Suspense%EA%B0%80-%ED%99%9C%EC%95%BD%ED%95%A0-%EB%95%8C)
 * [How React 19 (Almost) Made the Internet Slower - The Miners](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
   * [React 19를 더욱 느리게!?](https://velog.io/@composite/React-19%EB%A5%BC-%EB%8D%94%EC%9A%B1-%EB%8A%90%EB%A6%AC%EA%B2%8C)
+* [React v19 – React](https://react.dev/blog/2024/12/05/react-19)
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 * [React is (becoming) a Full-Stack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
   * [React는 풀스택 프레임워크(가 되어가는 중)임 | GeekNews](https://news.hada.io/topic?id=16471)
