@@ -140,6 +140,7 @@ Google Cloud Platform GCP
     * Vertex AI Pipelines는 매니지드 서비스라 운영의 부담을 덜 수 있었고 편리한 시각화와 주기적 재실행 등 편리한 기능 설명, 모니터링하는 방법도 소개
   * [Vertex AI Search를 활용한 결과 없는 검색 개선하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/vertex-ai-search-NR/)
   * [Announcing Vertex AI Prompt Optimizer | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-vertex-ai-prompt-optimizer?hl=en)
+  * [Introducing Veo and Imagen 3 on Vertex AI | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai?hl=en)
 * [GCP Recommendations AI(Retail) 서비스를 활용한 추천 서비스 구축 | by 윤원진 | 29CM TEAM | Dec, 2022 | Medium](https://medium.com/29cm/gcp-recommendations-ai-retail-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-eb68a0cd5d97)
 * [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
