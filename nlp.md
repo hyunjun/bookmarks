@@ -2382,6 +2382,7 @@ NLP
     * [Anthropic, Computer Use 기능과 Claude 3.5 Sonnet/Haik | GeekNews](https://news.hada.io/topic?id=17378)
     * [ZombAIs - Claude Computer Use의 프롬프트 인젝션에서 C2(지휘통제) | GeekNews](https://news.hada.io/topic?id=17454)
     * [Claude Computer Use - Vision은 궁극의 API인가? | GeekNews](https://news.hada.io/topic?id=17451)
+    * [Claude AI의 컴퓨터 조작 ! 미래의 AI 비서 Claude AI 는 과연 얼마나 똑똑할까?💻 - YouTube](https://www.youtube.com/watch?v=neEpWtueVBs&list=PLuySsHNr_M9IHW4o7sIyUz4x6Og7lsbK9&index=10)
   * [MAC Claude APP 만들어서 사용하는 방법](https://newstars.cloud/593)
   * [Anthropic, 데스크탑용 Claude AI 앱 베타버전 공개 | GeekNews](https://news.hada.io/topic?id=17528)
   * [PDF support (beta) - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/pdf-support)
