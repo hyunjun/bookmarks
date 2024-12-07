@@ -191,6 +191,7 @@ C
 * [everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
 * [What is A Void Function In The C Programming language?](https://learncplusplus.org/what-is-a-void-function-in-the-c-programming-language/)
 * [NaN boxing or how to make the world dynamic - Blog by Piotr Duperas](https://piotrduperas.com/posts/nan-boxing)
+* [왜 백악관은 C와 C ++를 쓰지말라는걸까? - YouTube](https://www.youtube.com/watch?v=wFRr-RNhyG0)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
