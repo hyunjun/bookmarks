@@ -2053,6 +2053,7 @@ Docker
 * [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
   * [친애하는 친구야, 넌 Kubernetes를 만들었어 | GeekNews](https://news.hada.io/topic?id=17955)
 * [쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@delight412/750)
+* [인프런 비전공자도 이해할 수 있는 쿠버네티스 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6pBvcX0ilCncJRgBHNs40vX)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2875,6 +2876,7 @@ Docker
   * [Dockerless, Elixir Web Application using Podman and Plug](https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug/)
   * [Is it time to switch from Docker to Podman? - YouTube](https://www.youtube.com/watch?v=7-qo6tTPdTM)
   * [Podman vs Docker in 2024: What's Really Different? - YouTube](https://www.youtube.com/watch?v=SIvoAOpXZPg)
+  * [It's Making Me REPLACE Docker... - YouTube](https://www.youtube.com/watch?v=Gft9e1o3Hgg)
   * [podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
     * [Leverage Podman with a Desktop App | Podman Desktop](https://podman-desktop.io/)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
