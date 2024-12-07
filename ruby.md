@@ -176,7 +176,9 @@ Ruby
 
 # TDD, Test
 * [factory_bot: A library for setting up Ruby objects as test data](https://github.com/thoughtbot/factory_bot)
-* [rspec-rails: RSpec for Rails 5+](https://github.com/rspec/rspec-rails)
+* [RSpec: Behaviour Driven Development for Ruby](https://rspec.info/)
   * [RSpec is for the literate - avdi.codes](https://avdi.codes/rspec-is-for-the-literate/)
+  * [Railing against time: tools and techniques that got us 5X faster tests—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
   * [parallel_tests: Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber](https://github.com/grosser/parallel_tests)
     * [병렬테스트로 Rspec 테스트 속도 줄이기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/10/%eb%b3%91%eb%a0%ac%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%a1%9c-rspec-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8d%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
+  * [rspec-rails: RSpec for Rails 5+](https://github.com/rspec/rspec-rails)
