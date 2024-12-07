@@ -132,6 +132,8 @@ Vim
     * [NvChad: Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience](https://github.com/NvChad/NvChad)
     * [Turn VIM into a full featured IDE with only one command - YouTube](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
   * [nvui: A modern frontend for Neovim](https://github.com/rohit-px2/nvui)
+  * [snacks.nvim: 🍿 A collection of small QoL plugins for Neovim](https://github.com/folke/snacks.nvim)
+    * [One Neovim Plugin, 10x Quality of Life. - YouTube](https://www.youtube.com/watch?v=rc3LMw4QCec)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * [**What are the most amazing things that can be done with Vim?**](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
