@@ -2961,6 +2961,7 @@ AWS
 * [Amazon Web Services(AWS)에 대한 실습 자습서](https://aws.amazon.com/ko/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-content-type=*all)
 * [AWS(Study) AWS Educate 계정 사용하기 — Sun's diary](https://sundery.tistory.com/87)
 * [AWS 53탄-1. AWS개발환경 구축-2024-09](https://brunch.co.kr/@topasvga/4030)
+* [인프런 비전공자도 이해할 수 있는 AWS 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6qr33RT-UiguSsCr_2Gq0S3)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
