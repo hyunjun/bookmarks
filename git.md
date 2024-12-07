@@ -2,6 +2,7 @@ Git
 ===
 * [**깃허브(GitHub)란?**](https://www.44bits.io/ko/keyword/github)
 * [practice - installation](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
+* [git 2024 윈도우 셋업 - YouTube](https://www.youtube.com/watch?v=KiMIA7DZShE)
 * [The Architecture and History of Git: A Distributed Version Control System](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 * [(비개발자를 위한) GitHub의 역사와 기능 | 요즘IT](https://yozm.wishket.com/magazine/detail/1674/)
 * [GitHub Engineering](http://githubengineering.com/)
