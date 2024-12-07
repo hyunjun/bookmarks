@@ -458,6 +458,16 @@ Book
   * [복붙 개발자의 벼락 성공기 - Jun - Medium](https://nymets.medium.com/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0-47294013c184)
   * [복붙 개발자의 벼락 성공기 - Jun’s Substack](https://recur.substack.com/p/4f2)
   * [복붙 개발자의 벼락 성공기](https://jh4hj.tistory.com/entry/%EB%B3%B5%EB%B6%99-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B2%BC%EB%9D%BD-%EC%84%B1%EA%B3%B5%EA%B8%B0)
+* [라면의 역사](https://www.notion.so/1003/1553f0c2cf65802b8b9bfa99f9264538)
+  * ★★★☆☆ 2024.12.07 내가 먹어본 라면은 당연하게도 세상에 있는 라면의 극히 일부일 뿐
+  * [라면 완전정복 : 네이버 블로그](https://blog.naver.com/pikich89)
+  * [라면정복자피키 - YouTube](https://www.youtube.com/@ramenpiki)
+  * [세상의 모든 라면을 먹자! : 네이버 블로그](https://blog.naver.com/allnoodles)
+  * [THE RAMEN RATER - The Definitive Source For Instant Noodle Reviews Since 2002](https://www.theramenrater.com/)
+  * [The Ramen Rater - YouTube](https://www.youtube.com/@ramenreview)
+  * [라면의 역사 - Jun - Medium](https://nymets.medium.com/%EB%9D%BC%EB%A9%B4%EC%9D%98-%EC%97%AD%EC%82%AC-88d1daaaa8a5)
+  * [라면의 역사 - Jun’s Substack](https://recur.substack.com/p/946)
+  * [라면의 역사](https://jh4hj.tistory.com/entry/%EB%9D%BC%EB%A9%B4%EC%9D%98-%EC%97%AD%EC%82%AC)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
