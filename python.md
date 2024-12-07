@@ -967,6 +967,10 @@ Python
   * [Exception Handling Tips in Python ⚠ Write Better Python Code Part 7 - YouTube](https://www.youtube.com/watch?v=ZsvftkbbrR0)
   * [Monadic Error Handling in Python ⚠ Write Better Python Code Part 7B - YouTube](https://www.youtube.com/watch?v=J-HWmoTKhC8)
   * [How to Catch Multiple Exceptions in Python – Real Python](https://realpython.com/python-catch-multiple-exceptions/)
+  * [returns 0.24.0 documentation](https://returns.readthedocs.io/)
+    * [returns: Make your functions return something meaningful, typed, and safe!](https://github.com/dry-python/returns)
+    * [Try This if You Don’t Like Python’s Exception Handling - YouTube](https://www.youtube.com/watch?v=qkxf583t4Vc)
+      * [examples/2024/returns at main · ArjanCodes/examples](https://github.com/ArjanCodes/examples/tree/main/2024/returns)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
