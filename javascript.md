@@ -3140,7 +3140,8 @@ Javascript
   * [Monorepo Turborepo를 사용하여 모노레포 구축하기 — 턴태의 밑바닥부터 시작하는 de-vlog](https://dev-scratch.tistory.com/161)
   * [CI TurboRepo를 이용해서 monorepo 환경 구축하기+vercel 배포까지 (기초)](https://yoonjong-park.tistory.com/134)
   * [쏘카 프론트엔드 모노레포 - Part1. Code Generator로 프로젝트 세팅 자동화하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/fe/2024/08/29/web-monorepo-chapter-1.html)
-* [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
+* [Vite | Next Generation Frontend Tooling](https://main.vite.dev/)
+  * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
   * [Time to Say Goodbye to Webpack?. Before we answer the big question… | by Gaurav Behere | Jan, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/time-to-say-goodbye-to-webpack-5bf06ff48823)
@@ -5090,6 +5091,7 @@ Javascript
     * head 에 태그를 추가하자 `<meta http-equiv="Content-Security-Policy" content="script-src 'self'">`
     * 리스폰스 헤더에 내용을 추가하자 `Content-Security-Policy: "script-src 'self'";`
   * [Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+* [Existential React questions and a perfect Modal Dialog](https://www.developerway.com/posts/hard-react-questions-and-modal-dialog)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
