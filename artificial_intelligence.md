@@ -321,6 +321,7 @@ Artificial Intelligence
   * [🔥 개발자 필수 도구 Cursor! VS Code에 AI를 더한 강력한 코딩 도우미 (10분 만에 프로그램 뚝딱!)#Cursor #AI코딩 #obsidian #AItools - YouTube](https://www.youtube.com/watch?v=sFJ1TasNZMU&list=PLuySsHNr_M9IHW4o7sIyUz4x6Og7lsbK9&index=9)
   * [AI 개발자를 위한 Docker 환경설정 (Cursor AI 활용) - YouTube](https://www.youtube.com/watch?v=fC6YLcLSPno)
 * [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
+* [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
