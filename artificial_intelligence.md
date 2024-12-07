@@ -322,6 +322,7 @@ Artificial Intelligence
   * [AI 개발자를 위한 Docker 환경설정 (Cursor AI 활용) - YouTube](https://www.youtube.com/watch?v=fC6YLcLSPno)
 * [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
 * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
+* [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
