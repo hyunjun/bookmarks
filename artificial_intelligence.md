@@ -323,6 +323,9 @@ Artificial Intelligence
 * [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
 * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
 * [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
+* [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
+* [.CursorRules](https://dotcursorrules.com/)
+  * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
@@ -737,10 +740,12 @@ Artificial Intelligence
 * [업무 효율 바로 올라가는 무료 AI툴 7개 추천! (안쓰면 후회합니다) - YouTube](https://www.youtube.com/watch?v=-hXY55kwDCk)
   * 클로바노트, Tactiq, Guidde, Whimsical, Napkin.ai, ColorMagic, NotebookLM
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
-* [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
+* [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
+* IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
+* [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
   * [Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=15017)
 * [Perplexity](https://www.perplexity.ai/)
