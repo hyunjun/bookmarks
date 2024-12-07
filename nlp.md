@@ -1197,6 +1197,10 @@ NLP
     * [LLM이 차근차근 생각하면 복잡한 추론문제를 풀 수 있을까? NeurIPS 2022 조성국 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/997242)
   * [뉴테크프라임 » 차 교수와 함께 – 마법 지팡이, CoT 프롬프트의 세계로 떠나는 모험!](http://www.umlcert.com/aipromptsmarteasy_use-20240817-2/)
     * [cot.md at main · smarteasy/write-with-cha](https://github.com/smarteasy/write-with-cha/blob/main/cot.md)
+  * [GPT의 지적 수준을 5배 이상 끌어 올려줄 프롬프트 엔지니어링 공개 - YouTube](https://www.youtube.com/watch?v=UUlFV7F9eBU)
+    * COT(Chain of Thought)라는 기법을 사용하여 GPT가 문제를 분석하고 단계별로 해결하는 데 시간을 할애
+    * 다음으로, XML 태그를 사용하여 명령어와 첨부된 내용을 구분
+    * 이후, 이러한 기법을 주식 데이터 분석 및 예측 시뮬레이션에 적용하고, 이를 기반으로 주식 보고서를 작성
   * [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
 * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
