@@ -350,6 +350,12 @@ Programming Books
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
   * 한라 005.5-다872ㄱ
+* (NOT YET) [이게 되네? 업무 자동화 미친 활용 앱스 스크립트 with 챗GPT - 골든래빗](https://goldenrabbit.co.kr/product/crazyapps/)
+  * 한라 004.73-서96ㅇ
+  * [KakaoTalk Open Chat](https://open.kakao.com/o/gBWRpyvg)
+  * [채찍피티 | 챗GPT 입문/활용, 챗지피티, 업무 자동화, 클로드 : 네이버 카페](https://cafe.naver.com/gpto)
+  * [편집자P - YouTube](https://www.youtube.com/@editorp89)
+  * [09 (공개) 독자 실습용 폴더 - Google Drive](https://drive.google.com/drive/folders/1KQejYTp3ssjj9UIuv_0aXmAAkbXQcUTL)
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
