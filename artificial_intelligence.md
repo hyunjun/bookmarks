@@ -403,6 +403,9 @@ Artificial Intelligence
   * [PaliGemma - 이미지를 인식하는 멀티모달 오픈소스 LLM - YouTube](https://www.youtube.com/watch?v=iyYh4PQBI9U)
     * PaliGemma 멀티모달 오픈소스 LLM, 이미지 인식에 특화
     * 이미지 인식을 위한 아키텍처와 HUGGING FACE SPACE에서 테스트하는 방법 및 다양한 파인튜닝 작업과 사용 사례 소개
+    * [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
+      * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
+    * [👁️PaliGemma 2: 구글의 최신 오픈소스 비전-언어 모델(VLM)](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8FPaliGemma-2-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B9%84%EC%A0%84-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8VLM)
 * [🧞 Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024/home)
   * [Google DeepMind, "생성형 인터랙티브 환경" Genie 공개 | GeekNews](https://news.hada.io/topic?id=13630)
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
@@ -434,8 +437,6 @@ Artificial Intelligence
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
   * [LlamaIndex Webinar: Build an Open-Source Coding Assistant with OpenDevin - YouTube](https://www.youtube.com/watch?v=_1JZfv7r4mY)
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
-* [PaliGemma: Open Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
-  * [PaliGemma - 구글의 오픈 멀티모달 모델 | GeekNews](https://news.hada.io/topic?id=14903)
 * [paper-reviewer: Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers)](https://github.com/deep-diver/paper-reviewer)
   * [AI Paper Reviews by AI](https://deep-diver.github.io/ai-paper-reviewer/)
   * [AGI KR | 💡 오픈소스 프로젝트 공유 | Facebook](https://www.facebook.com/groups/agikr/posts/-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EC%9C%A0arxiv%EC%97%90-%EC%B6%9C%EA%B0%84%EB%90%9C-%EB%85%BC%EB%AC%B8%EC%9D%84-%EB%8C%80%EC%83%81%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B3%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-paper-reviewer%EB%A5%BC-/2442249912782719/)
