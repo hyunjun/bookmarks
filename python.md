@@ -4374,6 +4374,7 @@ Python
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [Write an SQL query builder in 150 lines of Python! - death and gravity](https://death.andgravity.com/query-builder-how)
 * [python, db library benchmark (feat. sqlalchemy vs aiomysql)](https://breezymind.com/mysql-db-library-benchmark/)
+* [7 Powerful Databases Python Developers Should Know - YouTube](https://www.youtube.com/watch?v=HAv5t2Gq-yU) InfluxDB, Neo4j, DuckDB, Rediculous database, Redis, Milvus, Tile38
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [connector-x: Fastest library to load data from DB to DataFrames in Rust and Python](https://github.com/sfu-db/connector-x)
   * [Connector-X - DB를 파이썬으로 빠르게 로딩하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=4911)
