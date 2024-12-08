@@ -2279,6 +2279,11 @@ Book
   * [Preservation Hall Jazz Band "So It Is" - YouTube](https://www.youtube.com/playlist?list=PLbxe1SE1LbvtDvPmqr6f9W8wtYogW5axR)
   * [Preservation Hall Jazz Band](https://www.preservationhalljazzband.com/)
   * [뉴올리언스에 가기로 했다](https://www.notion.so/1003/27bc4146a38040cb995dc47b79feda97?pvs=4)
+* [베니스 건축 스케치북](https://www.notion.so/1003/1563f0c2cf6580a798a0db343959f008)
+  * ★★★☆☆ 2024.12.08 건축에 대한 책이라고 하나, 베니스에 대해 관심만 있다면 누가 읽어도 무방하다. 저자의 수채화가 베니스에 갔던 기억이 떠오르게 한다. 아직 방문하지 않았다면 베니스 풍경뿐만 아니라 음식까지 그린 저자의 그림을 보고 가고 싶은 마음이 자연스레 일어날 거 같다.
+  * [베니스 건축 스케치북 - Jun - Medium](https://nymets.medium.com/%EB%B2%A0%EB%8B%88%EC%8A%A4-%EA%B1%B4%EC%B6%95-%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81-fc14f6f0de44)
+  * [베니스 건축 스케치북 - Jun’s Substack](https://recur.substack.com/p/49c)
+  * [베니스 건축 스케치북](https://jh4hj.tistory.com/entry/%EB%B2%A0%EB%8B%88%EC%8A%A4-%EA%B1%B4%EC%B6%95-%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81)
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
