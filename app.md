@@ -2612,6 +2612,7 @@ App
   * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
   * [개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/2802/)
   * [개발자의 Claude 사용 꿀팁 #4 | Figma 디자인을 코드로 변환! - YouTube](https://www.youtube.com/watch?v=GxYkugT1ktc)
+  * [상세페이지 디자인 반복작업 탈출하는 방법 (피그마플러그인, 구글시트싱크) - YouTube](https://www.youtube.com/watch?v=exlRsV86dNk)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Konty | Sketch your app ideas without stress](https://konty.app/)
