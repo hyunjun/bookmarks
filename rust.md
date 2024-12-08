@@ -277,6 +277,7 @@
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [Creating performant REST APIs with Rust using Rocket, Diesel and Serde — Part 1](https://medium.com/@amolele/creating-performant-rest-apis-with-rust-using-rocket-diesel-and-serde-bbe5a4f33a4e)
+* [Productionizing Two Visionary Rust Projects (feat. Terraform, AWS, Docker, GitLab) - YouTube](https://www.youtube.com/watch?v=zLTaN5fJUY8) SurrealDB Dioxus
 * [Actix](https://actix.rs/)
   * [Actix](https://github.com/actix)
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
@@ -410,6 +411,7 @@
   * [Tauri에 대한 몇가지 포인트 | Daniel Lee](https://typefully.com/dylayed/XIF9j9L)
   * [Will Tauri Be an Electron Killer? | by Zachary Lee | Better Programming](https://betterprogramming.pub/will-tauri-be-an-electron-killer-38fd6478004)
   * [Tauri 2.0 정식 릴리즈 | GeekNews](https://news.hada.io/topic?id=17083)
+  * [I built a REAL Desktop App with both Tauri and Electron - YouTube](https://www.youtube.com/watch?v=CEXex3xdKro)
 * [tlqkf: You feeling 'tlqkf' when using shell, typing 'tlqkf'](https://github.com/juunini/tlqkf)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
