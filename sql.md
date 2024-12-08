@@ -1569,6 +1569,7 @@ SQL
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
 * [teable: ✨ A Super fast, Real-time, Professional, Developer friendly, No code database](https://github.com/teableio/teable)
   * [Teable - Postgres와 Airtable을 결합한 오픈소스 노코드 데이터베이스 | GeekNews](https://news.hada.io/topic?id=13768)
+  * [Teable: Free Open Source No-Code PostgreSQL Database Platform - YouTube](https://www.youtube.com/watch?v=KkW1dlLfqWI)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [transqlate - 모든 SQL을 PostgreSQL Dialect로 변환(Transp | GeekNews](https://news.hada.io/topic?id=13978)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
