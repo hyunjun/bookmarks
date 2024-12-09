@@ -45,6 +45,7 @@ Programmer
 * [주니어 개발자를 위한 조언 · Present](https://present.do/documents/640ed903fa0b5a11370d7dbd)
 * [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
 * [성장하는 엔지니어가 되는 법: 주니어편 | Novemberde's Blog](https://novemberde.github.io/post/2023/06/07/junior-engineer-growth-guide/)
+* [Ask HN: 배울 수 있는 훌륭한 시니어 없이, 엔지니어로 어떻게 성장할 수 있을까요? | GeekNews](https://news.hada.io/topic?id=18068)
 * [Stop Being a Junior](https://kentcdodds.com/blog/stop-being-a-junior)
   * [(번역) 주니어가 되는 것을 그만두세요](https://hellomooneekim.netlify.app/stop-being-a-junior/)
     * 회사에서 주니어라고 부르고 본인도 주니어라고 생각할 수 있지만
