@@ -991,6 +991,8 @@ Web
   * [CSS 선택자 우선순위를 높이는 의외의 방법 | GeekNews](https://news.hada.io/topic?id=17078) 마치 hack같지만 spec에 써있는 방법
 * [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
   * [Ctrl+F 보다 더 똑똑하게: 웹페이지 콘텐츠에 직접 링크하기 | GeekNews](https://news.hada.io/topic?id=17474)
+* [A Framework for Evaluating Browser Support • Josh W. Comeau](https://www.joshwcomeau.com/css/browser-support/)
+  * 특정 CSS 속성에 대해 모든 브라우저가 지원하지 않을 경우, 우리는 적용 여부를 어떻게 판단하고 fallback 해야 할 것인가에 관한 글
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
   * [CSS :has() 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=13612)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
