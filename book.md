@@ -1162,6 +1162,12 @@ Book
   * [내가 알던 사람. ★★★★★ November 30, 2024 | by Jun | Nov, 2024 | Medium](https://nymets.medium.com/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EC%82%AC%EB%9E%8C-9f7f675bfbc9)
   * [내가 알던 사람 - Jun’s Substack](https://recur.substack.com/p/e0a)
   * [내가 알던 사람](https://jh4hj.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EC%82%AC%EB%9E%8C)
+* [내가 알던 그 사람 Somebody I used to know](https://www.notion.so/1003/Somebody-I-used-to-know-1583f0c2cf6580148ae0eacd8471685d)
+  * ★★★☆☆ 2024.12.10~11 최근 계속 읽고 있는 알츠하이머/치매에 대한 개인 list에 있던 책. 다른 책과 구별할 수 있는 점은 자기 자신에 대한 책이라는 점. 치매 환자가 책을 쓰다니? 물론 중증 치매는 아니지만, 진단을 받고 서서히 일상의 일이 어려워지거나, 할 수 없는 일이 생기면서 겪는 고통을, 그리고 거기에 적응하면서 이겨내려고 분투하는 모습을 차분히 기술했다. 책을 읽고 홈페이지와 트위터를 방문했는데 올해 돌아가셨다. 삼가 고인의 명복을 빈다.
+  * [내가 알던 그 사람 Somebody I used to know](https://github.com/hyunjun/bookmarks/blob/master/books/somebody_i_used_to_know.md)
+  * [내가 알던 그 사람 Somebody I used to know | by Jun | Dec, 2024 | Medium](https://nymets.medium.com/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EA%B7%B8-%EC%82%AC%EB%9E%8C-somebody-i-used-to-know-194f15510ca5)
+  * [내가 알던 그 사람 Somebody I used to know - Jun’s Substack](https://recur.substack.com/p/somebody-i-used-to-know)
+  * [내가 알던 그 사람 Somebody I used to know](https://jh4hj.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EA%B7%B8-%EC%82%AC%EB%9E%8C-Somebody-I-used-to-know)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
