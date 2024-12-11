@@ -473,6 +473,8 @@ Book
   * [세계사를 바꾼 맥주 이야기 - Jun - Medium](https://nymets.medium.com/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0-65b0dd264472)
   * [세계사를 바꾼 맥주 이야기 - Jun’s Substack](https://recur.substack.com/p/22f)
   * [세계사를 바꾼 맥주 이야기](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* (NOT COMPLETED) [아빠의 법칙](http://www.loginbook.com/book/view.asp?bcode=1543455000184)
+  * ★☆☆☆☆ 2024.12.11
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -821,6 +823,8 @@ Book
 * [그들은 왜 기러기 가족을 선택했는가](https://blog.naver.com/jese75/208880548)
   * ★★★☆☆ 2023.07.10 예상과 달리 좀 학문적인 입장에서 접근한 부분이 있고, 배경이 2010년대라 오래되기도 했으며, 기본적으로 엄마의 입장에서 접근한 책이라, 기대했던 거와 달라서 나에게는 크게 유용하진 않았지만 기본적으로 괜찮은 책
   * 한라 377.8-성74ㄱ
+* 나는 IB 학부모입니다 [이 책 어때 IB 교육에 대한 학부모 경험 생생히 담은 '나는 IB 학부모입니다'](https://www.te.co.kr/news/article.html?no=24430)
+  * ★★★☆☆ 2024.12.11~12 학부모가 쓴 책이라 전문성은 떨어질 수 있어도 수요자 입장에서 썼기에 오히려 많은 사람들이 관심을 가질만한 책. 나도 표선 방문 해봤지만, 거리도 멀고 불편한 점이 굉장히 많아도, (이미 그렇기도 하지만) 앞으로 더 많은 학부모들이 모일 거 같단 생각이 들었다
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
