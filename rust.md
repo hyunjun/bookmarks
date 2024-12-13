@@ -304,6 +304,7 @@
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
 * [Dioxus | Fullstack crossplatform app framework for Rust](https://dioxuslabs.com/)
   * [Dioxus 0.6 – Rust로 개발된 크로스플랫폼 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=18243)
+  * [Dioxus 0.6 - Crossplatform apps with Rust - YouTube](https://www.youtube.com/watch?v=WgAjWPKRVlQ)
 * [dotslash: Simplified executable deployment](https://github.com/facebook/dotslash)
 * [Drifting in Space](https://driftingin.space/)
   * [spawner: Session-lived containers for advanced browser-based applications](https://github.com/drifting-in-space/spawner)
