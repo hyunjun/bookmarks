@@ -4732,6 +4732,9 @@ Programming Books
   * 탐라 문005.118-킨58ㅍ
 * (NOT YET) [소프트웨어 개발과 테스트 | 프리렉](https://freelec.co.kr/book/1752/)
   * 한라 005.12-조23ㅅ 탐라 개005.12-조23ㅅ
+* (NOT YET) [단위 테스트의 기술 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN004314)
+  * [The Art of Unit Testing](https://www.artofunittesting.com/)
+* (NOT YET) [테스트 너머의 QA 엔지니어링 집필 후기](https://chance-doe.tistory.com/27)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
