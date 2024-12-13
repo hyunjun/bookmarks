@@ -3730,6 +3730,7 @@ Javascript
   * It also provides best practices for using native Node.js APIs and leveraging NPM for code reuse
 * [node inspect로 얻은 profile 정보 분석하기](https://blog.naver.com/pjt3591oo/223633990755)
 * [Node.js is Not Single-Threaded. Node.js is known as a blazingly fast… | by Tkachenko Evgeny | Medium](https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17)
+* [Node.js Delivers First LTS with require(esm) Enabled, Enhanc...](https://socket.dev/blog/node-js-delivers-first-lts-with-require-esm-enabled)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3872,6 +3873,7 @@ Javascript
   * [Streamlining Cloud Development with Deno - YouTube](https://www.youtube.com/watch?v=FvCAwOutSp8)
     * [VidiGo Streamlining Cloud Development with Deno.mp4](https://vidigo.ai/share/summary/4ba72e57ca2c)
     * [Streamlining Cloud Development with Deno | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/627319)
+  * [Deno 2.1 | GeekNews](https://news.hada.io/topic?id=18210)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
@@ -5078,6 +5080,7 @@ Javascript
 * [How React 19 (Almost) Made the Internet Slower - The Miners](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
   * [React 19를 더욱 느리게!?](https://velog.io/@composite/React-19%EB%A5%BC-%EB%8D%94%EC%9A%B1-%EB%8A%90%EB%A6%AC%EA%B2%8C)
 * [React v19 – React](https://react.dev/blog/2024/12/05/react-19)
+* [React 19 업그레이드할 필요 없다?](https://velog.io/@composite/React-19-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%A0-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4)
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 * [React is (becoming) a Full-Stack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
   * [React는 풀스택 프레임워크(가 되어가는 중)임 | GeekNews](https://news.hada.io/topic?id=16471)
