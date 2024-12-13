@@ -308,6 +308,7 @@ Android
 * [React Native에 Multidex 설정하기 - React Native 프로젝트에서 안드로이드에 Multidex를 설정하는 방법에 대해서 알아봅시다.](https://deku.posstree.com/ko/react-native/react-native-multidex/)
 * [구글, 크롬 OS처럼 안드로이드에서 리눅스 앱 실행 준비 중 | GeekNews](https://news.hada.io/topic?id=17206)
 * [Android 폰에 웹서버 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/925)
+* [Android XR: AI 기반의 새로운 확장 현실 플랫폼 | GeekNews](https://news.hada.io/topic?id=18244)
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
