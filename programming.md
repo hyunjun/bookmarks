@@ -3364,6 +3364,7 @@ Programming
     * 엔지니어 수보다 소위 마이크로서비스의 수가 더 많을 정도로 시스템을 잘게 쪼개는 경우들이 종종 발생
       * MSA 라는 게 그런 게 아닐텐데 왜 그런 식으로 하는 사람들이 많이 생길까?
     * 뭔가를 하기 전에 항상 ask yourself "What problem does that solve?"
+* [마이크로서비스 아키텍처의 사실과 오해 | 요즘IT](https://yozm.wishket.com/magazine/detail/2884/)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -3732,6 +3733,7 @@ Programming
   * [Watch - Migrating Twitter's Monorepo from Pants to Bazel](https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk2)
   * [Introduction to Bazel for Scala developers | by Rikito Taniguchi | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/introduction-to-bazel-for-scala-developers-2095a4a2a34d)
   * [cross build anything with Bazel · eed3si9n](https://eed3si9n.com/cross-build-anything-with-bazel/)
+  * [Bazel 8.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=18233)
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
   * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
@@ -7779,6 +7781,9 @@ Programming
   * [Infisical – 오픈소스 HashiCorp Vault 대안 | GeekNews](https://news.hada.io/topic?id=10313)
 * [logto: 🧑🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support](https://github.com/logto-io/logto)
   * [Logto - 오픈소스 사용자 아이덴티티 솔루션 | GeekNews](https://news.hada.io/topic?id=7020)
+* [Nebula](https://docs.cremit.io/nebula/)
+  * [💫 Nebula: An open-source secret management solution secure, scalable, and flexible handling of secret across multiple domains](https://github.com/CremitHQ/nebula)
+  * [Project Nebula - Hashicorp Vault, Infisical 등 중앙 집 | GeekNews](https://news.hada.io/topic?id=18208)
 * [novops: Cross-platform secret & config manager for development and CI environments](https://github.com/PierreBeucher/novops)
   * [Novops - 크로스 플랫폼 Secret & Config 관리자 | GeekNews](https://news.hada.io/topic?id=16771)
 * [Vault - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
