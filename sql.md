@@ -1482,6 +1482,8 @@ SQL
     * [EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야" | GeekNews](https://news.hada.io/topic?id=7052)
   * [All You Need to Know about EdgeDB | AppSignal Blog](https://blog.appsignal.com/2022/08/02/all-you-need-to-know-about-edgedb.html)
   * [Edge DB - 엘키의 주절 주절](https://elky84.github.io/2022/09/26/edgedb/)
+* [ElectricSQL | Postgres sync engine](https://electric-sql.com/)
+  * [Electric (Postgres 동기화 엔진) 베타 출시 | GeekNews](https://news.hada.io/topic?id=18239)
 * [ElephantSQL - PostgreSQL as a Service](https://www.elephantsql.com/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/)
