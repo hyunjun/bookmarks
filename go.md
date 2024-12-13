@@ -694,6 +694,8 @@ Go
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [Fuego: Functional Experiment in Golang](https://morioh.com/a/6bfc2ecd584e/fuego-functional-experiment-in-golang)
 * [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
+* [garm: Advanced ARM64 Compiler for High-Performance on the GO](https://github.com/go-dockly/garm)
+  * [gARM: ARM64에 특화된 고성능 Go 컴파일러 | GeekNews](https://news.hada.io/topic?id=18202)
 * [gflatten: Golang for map and struct flatten library](https://github.com/cloudmatelabs/gflatten)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
