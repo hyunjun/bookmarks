@@ -813,6 +813,7 @@ App
     * [Manage Your Dotfiles with Home Manager! - YouTube](https://www.youtube.com/watch?v=IiyBeR-Guqw)
   * [SBTB 2023: Salar Rahmanian, Streamline Your Development Workflow - YouTube](https://www.youtube.com/watch?v=Qv3Y23RjJa0)
   * [Nix is my favorite package manager to use on macOS - YouTube](https://www.youtube.com/watch?v=Z8BL8mdzWHI)
+  * [Deploying Containers on NixOS](https://bkiran.com/blog/deploying-containers-nixos)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
@@ -2609,6 +2610,7 @@ App
     * 작년에 공개된 Dev Mode에서 개발을 쉽게 할 수 있도록 Ready for Dev View로 상태를 바꿀 수 있고 작업에 집중할 수 있는 Focus View
     * 디자인 시스템 도입을 쉽게 할 수 있도록 개발자 환경에서 디자인의 코드 샘플을 쉽게 연결할 수 있는 Code Connect
     * 자동 레이아웃 지원
+  * [Figma 2024: 피그마가 올해 배포한 주요 업데이트에 대한 정리 | GeekNews](https://news.hada.io/topic?id=18196)
   * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
   * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
   * [개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/2802/)
