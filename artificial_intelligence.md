@@ -386,6 +386,7 @@ Artificial Intelligence
     * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
   * [모두의AI-MOAI Gemini Google Workspace Guide 한국어 번역 자료](https://mo-ai.notion.site/AI-MOAI-Gemini-Google-Workspace-Guide-99bd8d96c6ea40e6ac91d98ad24067d5)
   * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
+  * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
@@ -450,6 +451,8 @@ Artificial Intelligence
   * [PydanticAI is a Python agent framework developed by the Pydantic team](https://www.linkedin.com/posts/activity-7270196261482307584-PQSn/)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
+* [steel-browser: 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure](https://github.com/steel-dev/steel-browser)
+  * [Steel - AI 에이전트 & 앱을 위한 오픈소스 브라우저 API | GeekNews](https://news.hada.io/topic?id=18240)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
@@ -727,7 +730,7 @@ Artificial Intelligence
 * [외국에선 핫하지만, 국내에는 덜 알려진 AI사이트 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=humor&wr_id=1422219)
   1. Perplexity – 질문하면 즉각 답변하는 AI 검색엔진
   2. Gamma – 텍스트만 입력하면 AI가 대신 ppt 만들어줘
-  3.  Guru - 지식 관리와 AI 검색 최적화
+  3. Guru - 지식 관리와 AI 검색 최적화
   4. Otter ai - 메모 자동화. 똑똑한 기록러가 되고싶다면 이 툴!
   5. copy. ai – 카피라이팅 자동화, 마케터라면 필수!
   6. Jasper – 이 툴도 마케팅용 텍스트 생성에 최적화
@@ -758,8 +761,9 @@ Artificial Intelligence
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
 * [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
-* [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
 * [25분만에 끝내는 인공지능 기초와 활용 및 사례 (ㄹㅇ블루오션) - YouTube](https://www.youtube.com/watch?v=mRnXgBDf_oE)
+* [45 Best Resources to Learn Artificial Intelligence (YouTube,Tutorials, etc)](https://www.mltut.com/best-resources-to-learn-artificial-intelligence/)
+* [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
 * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
 
 # Vector DB
