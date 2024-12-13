@@ -241,6 +241,8 @@ Json
   * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
   * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
   * [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
+  * [An Interactive Guide to Transforming JSON with jq | Navendu Pottekkat - The Open Source Absolutist](https://navendu.me/posts/jq-interactive-guide/)
+    * [jq로 JSON 변환하기: 인터랙티브 가이드 | GeekNews](https://news.hada.io/topic?id=18213)
   * [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
   * [gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
   * [jqlang](https://github.com/jqlang) 커맨드라인에서 JSON 데이터를 쉽게 처리해 주는 jq가 5년의 공백을 빼고 jqlang 조직으로
