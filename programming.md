@@ -2012,6 +2012,8 @@ Programming
       * 외부 SNI는 `cloudflare-ech.com`로 설정
       * 중개자는 모든 웹사이트가 `cloudflare-ech.com`으로 접속하는 것으로 나타나게 됨
   * [웹사이트에 Cloudflare를 사용한다면 RSS 사용자를 차단할 가능성이 있음 | GeekNews](https://news.hada.io/topic?id=17293)
+  * [How to Cache a Third-Party Script Using a Cloudflare Worker | CL SEO](https://chrisleverseo.com/t/how-to-cache-a-third-party-script-using-a-cloudflare-worker.188/)
+    * [서드파티 스크립트를 Cloudflare Worker를 이용하여 캐시하면, 웹사이트 속도가 빨라진다](https://www.linkedin.com/posts/everythingchalna_%EC%9A%94%EC%95%BD-%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-cloudflare-worker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-activity-7272891250054193152-6N0i/)
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
   * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
@@ -6938,6 +6940,8 @@ Programming
   * [11월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/11/b-11-2.html)
   * [11월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/11/b-11-3.html)
   * [11월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/11/b-11-4.html)
+  * [12월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2024/12/b-12-1.html)
+  * [12월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2024/12/b-12-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
