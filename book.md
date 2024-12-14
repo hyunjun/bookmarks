@@ -475,6 +475,8 @@ Book
   * [세계사를 바꾼 맥주 이야기](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * (NOT COMPLETED) [아빠의 법칙](http://www.loginbook.com/book/view.asp?bcode=1543455000184)
   * ★☆☆☆☆ 2024.12.11
+* (NOT COMPLETED) [디 에센셜: 다자이 오사무](https://brunch.co.kr/@santafe9723/37)
+  * ★★☆☆☆ 2024.12.12
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
