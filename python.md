@@ -4771,6 +4771,7 @@ Python
     * Python을 위한 Cargo 지향, 이번 릴리스와 함께 Rye의 관리도 같이 맡아서 공동의 비전을 실현하기 위해 노력
   * [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
   * [UV with Django](https://blog.pecar.me/uv-with-django)
+  * [I’ve Switched to UV for Python, and So Should You - YouTube](https://www.youtube.com/watch?v=qh98qOND6MI)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
