@@ -1440,6 +1440,8 @@ Linux
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [Stow - GNU Project - Free Software Foundation](https://www.gnu.org/software/stow/)
   * [Stow has forever changed the way I manage my dotfiles - YouTube](https://www.youtube.com/watch?v=y6XCebnB9gs)
+  * [Why I'm Ditching Nix Home Manager - And What I'm Using Instead - YouTube](https://www.youtube.com/watch?v=U6reJVR3FfA)
+    * [dotfiles: My dotfiles synced from localhost and remote machines](https://github.com/omerxx/dotfiles)
 * [TerminalTextEffects (TTE) is a terminal visual effects engine](https://github.com/ChrisBuilds/terminaltexteffects)
   * [TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/)
   * [TerminalTextEffects (TTE) - 터미널 텍스트 효과 엔진 | GeekNews](https://news.hada.io/topic?id=15062)
