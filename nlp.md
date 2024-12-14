@@ -3361,6 +3361,7 @@ NLP
 * [Goodbye, vanilla RAG Hello, Agentic RAG](https://www.linkedin.com/posts/804250ab_goodbye-vanilla-rag-hello-agentic-rag-activity-7259598157938880513-HfyM/)
 * [10분 만에 RAG 이해하기](https://brunch.co.kr/@ywkim36/146)
   * [10분 만에 RAG 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2828/)
+* [RAG Architectures](https://www.linkedin.com/posts/kalyanksnlp_rag-llms-nlproc-activity-7272451928540758016-TPYC/)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
