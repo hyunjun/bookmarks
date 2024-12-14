@@ -486,6 +486,7 @@ Go
   * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
   * [Martin Baillie | Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
   * [SMTP protocol basics from scratch in Go: receiving email from Gmail | notes.eatonphil.com](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
+  * [Sending emails with files embedded directly into the emails | Golang - YouTube](https://www.youtube.com/watch?v=4xxM0mz8bw8)
   * [Transforming TCP Sockets to HTTP With Go](https://morioh.com/p/2c848ef7ed5a)
   * [I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
   * [Set HTTP client timeout in Go (Golang)](https://gosamples.dev/http-client-timeout/)
