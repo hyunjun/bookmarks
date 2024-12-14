@@ -3731,6 +3731,7 @@ Javascript
 * [node inspect로 얻은 profile 정보 분석하기](https://blog.naver.com/pjt3591oo/223633990755)
 * [Node.js is Not Single-Threaded. Node.js is known as a blazingly fast… | by Tkachenko Evgeny | Medium](https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17)
 * [Node.js Delivers First LTS with require(esm) Enabled, Enhanc...](https://socket.dev/blog/node-js-delivers-first-lts-with-require-esm-enabled)
+  * [Node.js, "require(esm)"이 활성화된 첫번째 LTS 발표 | GeekNews](https://news.hada.io/topic?id=18257)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
