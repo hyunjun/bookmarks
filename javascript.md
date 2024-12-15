@@ -5819,6 +5819,8 @@ Javascript
   * [Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
+  * [lithent: ➿ An extensible JSX-based virtual DOM library for lightweight use in a variety of environments](https://github.com/superlucky84/lithent)
+    * [나만의 SSR 프레임웍 만들기. 목차 | by Jinwoo Kim | Dec, 2024 | Medium](https://medium.com/@superlucky84/%EB%82%98%EB%A7%8C%EC%9D%98-ssr-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8D-%EB%A7%8C%EB%93%A4%EA%B8%B0-818f26e20bf4)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
