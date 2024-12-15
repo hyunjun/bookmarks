@@ -3335,6 +3335,8 @@ Python
 * [From Jupyter Notebooks to a Python Package: The Best of Both Worlds — Sin-seok SEO - YouTube](https://www.youtube.com/watch?v=Y2GnuvYv6uw)
 * [Nir Barazida - Unlock the Full Potential of Jupyter Notebooks | PyData Global 2023 - YouTube](https://www.youtube.com/watch?v=tkFVp2b-DBE)
 * [Jupyter & IPython terminology explained](https://www.dataschool.io/jupyter-and-ipython-terminology/)
+* [JupyterHub를 Kubernetes에 Helm을 사용하여 설치하기](https://velog.io/@tkfka/JupyterHub%EB%A5%BC-Kubernetes%EC%97%90-Helm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+* [Zero to JupyterHub with Kubernetes — Zero to JupyterHub with Kubernetes documentation](https://z2jh.jupyter.org/en/stable/)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
