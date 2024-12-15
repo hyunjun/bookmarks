@@ -4449,6 +4449,8 @@ Programming
   * 8. 코드를 수정할 때, 특히 버그를 수정할 때 주석을 추가하라
   * 9. 주석을 사용해 불완전한 구현을 표시하라
     - 기술 부채를 측정하고 해결하는 데 도움이 됨
+* [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
+  * [흔한 컴파일러 오해들 | GeekNews](https://news.hada.io/topic?id=18194)
 * [dprint - Code Formatter](https://dprint.dev/)
   * [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint/)
 * [Prettier · Opinionated Code Formatter](https://prettier.io/)
