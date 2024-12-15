@@ -449,6 +449,8 @@ Artificial Intelligence
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [pydantic-ai: Agent Framework / shim to use Pydantic with LLMs](https://github.com/pydantic/pydantic-ai)
   * [PydanticAI is a Python agent framework developed by the Pydantic team](https://www.linkedin.com/posts/activity-7270196261482307584-PQSn/)
+* [screenpipe: Rust API to get all user desktop data (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control](https://github.com/mediar-ai/screenpipe)
+  * [screenpipe - 데스크탑의 모든 데이터를 가져오는 API | GeekNews](https://news.hada.io/topic?id=18198)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
 * [steel-browser: 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure](https://github.com/steel-dev/steel-browser)
