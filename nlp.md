@@ -1202,10 +1202,12 @@ NLP
     * 다음으로, XML 태그를 사용하여 명령어와 첨부된 내용을 구분
     * 이후, 이러한 기법을 주식 데이터 분석 및 예측 시뮬레이션에 적용하고, 이를 기반으로 주식 보고서를 작성
   * [CoT-Reasoning_without_Prompting: 구글에서 발표한 Chain-of-Thought Reasoning without Prompting을 코드로 구현한 레포입니다](https://github.com/daje0601/CoT-Reasoning_without_Prompting)
-* [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+* [DSPy](https://dspy.ai/)
+  * [DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
   * [DSPy Explained! - YouTube](https://www.youtube.com/watch?v=41EfOY0Ldkc)
   * [Why I'm excited about DSPy](https://www.linkedin.com/pulse/why-im-excited-dspy-stephen-byrne-smkhe/)
   * [Intro to DSPy: Goodbye Prompting, Hello Programming! | by Leonie Monigatti | Feb, 2024 | Towards Data Science](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
+  * [DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 | GeekNews](https://news.hada.io/topic?id=18212)
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
