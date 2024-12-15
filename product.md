@@ -112,6 +112,7 @@ Product
 * [엑스디디자인 2in1 직장인 스포츠 헬스 비즈니스 플렉스 백팩 - 엑스디디자인 코리아 공식 온라인스토어](https://xd-design.co.kr/product/detail.html?product_no=58&cate_no=42&display_group=1)
   * [직장인을 위한 비즈니스 백팩 추천! 깔끔한 디자인과 완벽에 가까운 기능! - YouTube](https://www.youtube.com/watch?v=uufhtsOqya8)
 * Korin Flexpack pro [The Best Backpack Going into 2019 - FlexPack Pro | Review - YouTube](https://www.youtube.com/watch?v=w6e2UYsfI9k)
+* Magforce [세상에서 가장 복잡한 '가방'. 맥포스 이야기 - YouTube](https://www.youtube.com/watch?v=jvijyeVBuTk)
 * [Neweex - Homepage](https://www.neweex.com/)
 * 테크니처 노트북 백팩 [수납의 프로가 설계한 백팩. 컨스파라 '테크니처 노트북 백팩' - YouTube](https://www.youtube.com/watch?v=UShJpg1rMBA)
 * Nomatic 
