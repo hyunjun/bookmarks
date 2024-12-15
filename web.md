@@ -1440,6 +1440,7 @@ Web
 * [NGINX로 Reverse Proxy 및 로드 밸런싱 이해하기 - YouTube](https://www.youtube.com/watch?v=1WfdUtMxTLE)
 * [Top 25 Nginx Web Server Best Security Practices - nixCraft](https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 * [Nginx, GitHub로 이전 | GeekNews](https://news.hada.io/topic?id=16651)
+* [NGINX - Zero To Hero: Your Ultimate Guide from Beginner to Advanced Mastery | by Saquib Khan | Medium](https://medium.com/@ksaquib/nginx-zero-to-hero-your-ultimate-guide-from-beginner-to-advanced-mastery-57e2dad6a77a)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
