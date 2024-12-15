@@ -459,6 +459,7 @@
 * [Kotlin Coroutines: how to merge asynchronous results in Kotlin? | by @jtlalka | Medium](https://medium.com/@jtlalka/kotlin-coroutines-how-to-merge-asynchronous-results-in-kotlin-674c3079edba)
 * [코루틴 취소(Cancellation)](https://brunch.co.kr/@mystoryg/221)
 * [코루틴 SupervisorJob](https://brunch.co.kr/@mystoryg/224)
+* [코루틴 공유 자원 관리](https://brunch.co.kr/@mystoryg/227)
 * [데이터 흐름(Data flow)을 이해해 보는 데 있어 필요한 것은? 짝퉁 개발자처럼 논하기](https://thdev.tech/dataflow/2024/11/09/Data-flow/)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
