@@ -559,3 +559,4 @@ PyTorch
 * [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/2402)
 * [괜찮은 파이토치 강좌 - 01. 파이토치 기초](https://webnautes.tistory.com/2409)
 * [괜찮은 파이토치 강좌 - 02. 파이토치 워크플로 살펴보기](https://webnautes.tistory.com/2410)
+* [괜찮은 파이토치 강좌 - 03. 신경망 분류(Neural Network Classification)](https://webnautes.tistory.com/2412)
