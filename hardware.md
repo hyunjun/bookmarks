@@ -372,6 +372,7 @@ Hardware
 * [Programming in Go with a Raspberry Pi 4 & Xbox Controller (faster than 250 WPM!) - YouTube](https://www.youtube.com/watch?v=9a5l2J0BTrQ)
 * [영수증 사진기 제작](https://lazygyu.net/blog/making_instant_receipt_camera)
 * [Raspberry Pi 4에 OpenCV 4.8.1 설치하는 방법 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1885)
+* [라즈베리 파이 500 리뷰: 다시 컴퓨터가 된 키보드 | GeekNews](https://news.hada.io/topic?id=18206)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
