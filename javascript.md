@@ -5817,6 +5817,7 @@ Javascript
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
+  * [Fixing Hydration Errors Caused by Chrome Extensions in Next js 15 - YouTube](https://www.youtube.com/watch?v=lRDKjS7fXIE)
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
   * [lithent: ➿ An extensible JSX-based virtual DOM library for lightweight use in a variety of environments](https://github.com/superlucky84/lithent)
