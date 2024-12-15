@@ -1809,6 +1809,9 @@ SQL
   * [Data analysis with SQLite and Python, PyCon 2023 — Data analysis with SQLite and Python, PyCon 2023 557f94c documentation](https://sqlite-tutorial-pycon-2023.readthedocs.io/)
 
 # TDD, Test
+* [Unleashing Confidence in SQL Development through Unit Testing - Tobias Lampert (Lotum) - YouTube](https://www.youtube.com/watch?v=YRVTWwFFd8c)
+* [SQLMesh](https://sqlmesh.com/)
+* [sql-mock: A Python library to test your SQL models using mocked input data](https://github.com/DeepLcom/sql-mock)
 * [sql-test-kit · GitLab](https://gitlab.com/ekinox-io/ekinox-libraries/sql-test-kit)
   * [SQL Test Kit, or how to unit test any SQL query by Victor Landeau - YouTube](https://www.youtube.com/watch?v=chB5f80U9jA)
     * [VidiGo SQL Test Kit, or how to unit test any SQL query by](https://vidigo.ai//chatbot/summary/Rk5j9GHqmMwP86E)
