@@ -186,6 +186,8 @@ Google Cloud Platform GCP
 * [Three different ways to run Apache Airflow on Google Cloud | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/different-ways-to-run-apache-airflow-on-google-cloud?hl=en)
 * [It is hard to recommend Google Cloud | ashishb.net](https://ashishb.net/programming/google-cloud/)
   * [Google Cloud를 추천하기는 어렵습니다 | GeekNews](https://news.hada.io/topic?id=16893)
+* [Bringing AI Agents to Enterprises with Google Agentspace | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/bringing-ai-agents-to-enterprises-with-google-agentspace?hl=en)
+  * [Google Agentspace - AI 에이전트와 AI 기반 검색을 기업에 도입 | GeekNews](https://news.hada.io/topic?id=18357)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
