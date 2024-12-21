@@ -5102,6 +5102,7 @@ Javascript
     * 리스폰스 헤더에 내용을 추가하자 `Content-Security-Policy: "script-src 'self'";`
   * [Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 * [Existential React questions and a perfect Modal Dialog](https://www.developerway.com/posts/hard-react-questions-and-modal-dialog)
+* [React Anti-Pattern: Stop Passing Setters Down the Components Tree | Matan Borenkraout](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
