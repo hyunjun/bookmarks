@@ -2357,6 +2357,8 @@ Javascript
 * [keen-slider](https://keen-slider.io/)
 * [KeystoneJS: The superpowered Node.js Headless CMS for developers - Keystone 6](https://keystonejs.com/)
   * [미친 라이브러리가 나타났다 💥 - YouTube](https://www.youtube.com/watch?v=DlyoFFOcPCg)
+* [khoshnus: A library to bring life to your web writings!](https://github.com/Amer-Jabar/khoshnus)
+  * [Khoshnus - SVG 필기체 애니메이션 라이브러리 | GeekNews](https://news.hada.io/topic?id=18319)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [LAME Worker Example - Example that records a snippet of audio from your microphone and encodes it as MP3 in real time](http://blixt.nyc/js-lameworker/example.html)
 * [LargeDS: Typed Arrays based Data Structures for memory intensive tasks](http://chethiya.github.io/lds.html)
