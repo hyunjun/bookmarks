@@ -191,7 +191,33 @@ Business
 * [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
 * [어떻게 나는 내 친구들과 사이드 프로젝트를 $17,000/월 비지니스로 성장시켰는가 (How my friends and I grew our side project into a $17,000/month business)](https://www.vobour.com/book/view/eSbfGjLiAoEyY6yBq)
 * [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
-* [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
+* [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
+  * Facebook 조직 문화, 비전, 업무 방식, 회사 가치
+  1. Facebook의 비전과 미션
+    * 비전: “세계를 더 가깝게 연결한다(Connecting the world).”
+    * 사용자 중심의 접근법: 사용자 경험을 최우선시하며, 사람들이 플랫폼을 통해 새로운 관계를 형성하거나 유지하도록 돕는 것
+  2. 조직 문화와 가치
+    * 속도와 혁신(Speed & Innovation): “Move fast and break things”(빠르게 움직이고 도전하라)라는 초기 Facebook 문화 핵심, 빠른 의사결정 시도/실패 강조
+    * 개방성과 투명성(Openness): 조직 내부에서 정보 공유와 개방적 토론 장려
+    * 사용자 데이터의 중요성: 사용자 데이터를 존중하고 보호하면서, 이를 기반으로 더 나은 서비스를 제공하기 위한 노력 설명
+  3. 제품 개발 철학
+    * Facebook 플랫폼 설계 원칙(단순함, 사용자 친화적 인터페이스, 확장성 등)
+    * 데이터 기반 의사결정(Data-Driven Decisions): 사용자 행동 데이터를 활용해 플랫폼 개선 및 새로운 기능 개발
+    * 실험 문화(A/B Testing): 기능을 론칭하기 전에 다양한 실험을 통해 최적화
+  4. 성장의 전략
+    * 글로벌 확장(Global Expansion): 초기 Facebook의 글로벌 사용자 기반 확장을 위한 전략과 지역화(Localization) 접근 방식 설명
+    * 네트워크 효과(Network Effect): 더 많은 사용자가 참여할수록 가치는 더욱 커진다는 개념을 기반으로 성장
+    * 광고 비즈니스 모델(Advertising Business Model): 무료 서비스를 유지하면서 수익화를 위한 타겟 광고 전략
+  5. 팀워크와 협업
+    * 소규모 팀의 중요성(Small Teams): 문제를 해결하고 빠르게 움직이기 위해 작은 팀으로 일하는 방식 강조
+    * 의사소통의 간소화: 복잡한 계층을 줄이고 간단명료한 의사결정 지원
+  6. 도전 과제와 비판
+    * Facebook이 직면한 초기 과제(예: 개인정보 보호, 플랫폼 악용 방지, 기술적 문제)
+    * 플랫폼이 성숙해지면서 발생할 수 있는 윤리적 문제와 그에 대한 Facebook의 접근 방식
+  7. 동기부여 및 비전 공유
+    * 직원들에게 Facebook의 사명감을 심어주기 위한 메시지, e.g. “우리는 세계를 변화시키는 일을 하고 있다”는 비전 강조
+    * Facebook이 팀원들에게 기대하는 역할과 책임에 대한 지침
+  * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [이승훈 - 스타트업에서 성과를 내기 위한 요건](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EB%82%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7154036726452097024-SrTF/)
   * 1) 업에 대한 이해 (유저의 행동에 대한 이해) 2) 회사/맥락에 대한 이해 3) 사람에 대한 이해
