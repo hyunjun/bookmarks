@@ -586,6 +586,8 @@ Programming
       * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
 * [Customizing scopes in the OAuth app authorization flow - Dropbox](https://dropbox.tech/developers/customizing-scopes-in-oauth-flow)
 * [**OAuth 2.0 개념과 동작원리**](https://hudi.blog/oauth-2.0/)
+* [Dear OAuth providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
+  * [OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 | GeekNews](https://news.hada.io/topic?id=18224)
 * [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
