@@ -104,6 +104,8 @@ Finance
   * [내수 침체와 수출 호조의 경제 양극화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1581937)
 * [저위험 상품 리스트 - YouTube](https://www.youtube.com/playlist?list=PLLCIece2775DiWorwbGv1j-Kz56gliiHa)
   * [예적금말고 이런 상품도 있습니다. 12분만 공부해보세요. - YouTube](https://www.youtube.com/watch?v=O7hJ5J1mlxo) 장외채권, ELB/DLB, 단기채권 ETF/펀드
+* [제발 예적금에 돈 묵히지 마세요. 여기에 넣으면 미래에 큰 부가 될겁니다 (전 IBK 기업은행 부지점장 김성일) - YouTube](https://www.youtube.com/watch?v=lB8Yu9fXEY8)
+  * [급여 250만원 직장인, 월 500만원 '연금'흐름 만드는 3가지 방법](https://weolbu.com/community/486631)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
@@ -131,6 +133,7 @@ Finance
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
 * [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
+* [SCHD바닥 신호에서 사모아야 할 ETF 2개. - YouTube](https://www.youtube.com/watch?v=Qeidk7sOdQA) Tiger ACE SOL KODEX 미국배당다우존스, Tiger KODEX 미국배당커버드콜액티브
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀 주식계좌 개설 꿀팁과 11가지 종목 - YouTube](https://www.youtube.com/watch?v=vxTV54VC-NE)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
