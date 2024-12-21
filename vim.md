@@ -125,6 +125,8 @@ Vim
     * [Neovim With AstroNvim | Your New Advanced Development Editor - YouTube](https://www.youtube.com/watch?v=GEHPiZ10gOk)
   * [avante.nvim: Use your Neovim like using Cursor AI IDE!](https://github.com/yetone/avante.nvim)
     * [Avante.nvim - Neovim 을 Cursor AI IDE처럼 사용하기 | GeekNews](https://news.hada.io/topic?id=16493)
+  * [firenvim: Embed Neovim in Chrome, Firefox & others](https://github.com/glacambre/firenvim)
+    * [Firenvim - 브라우저의 텍스트 편집창에서 NeoVim 이용하기 | GeekNews](https://news.hada.io/topic?id=18375)
   * [LunarVim - Installing Rolling Release, Walkthrough, Sample Configuration (IDE for Neovim) - YouTube](https://www.youtube.com/watch?v=NlRxRtGpHHk)
   * [navigator.lua: Navigate codes like a breeze. Exploring LSP and 🌲Treesitter symbols a piece of 🍰](https://github.com/ray-x/navigator.lua)
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
