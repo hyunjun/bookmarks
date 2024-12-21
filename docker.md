@@ -2056,6 +2056,8 @@ Docker
 * [인프런 비전공자도 이해할 수 있는 쿠버네티스 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6pBvcX0ilCncJRgBHNs40vX)
 * [2025년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/2900/)
   * [k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf)
+* [08. 왜 쿠버네티스에 백업이 필요할까요 - YouTube](https://www.youtube.com/watch?v=A6w5p8zfF3Q&list=PL-AoIAa-OgNkdxO3fRJzb5i61_DaXuJbX&index=8)
+  * [IT 인프라 엔지니어 그룹 | 2개의 영상(🎬)이 릴리즈 되었습니다 😊 | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3791634991151274)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
