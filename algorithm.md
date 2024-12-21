@@ -296,6 +296,8 @@ Algorithm
 * [Solutions2Coding - S2C- An online Platform for Coding solutions](https://www.solutions2coding.com/)
 * [가희와 쓰레기 놀이 : 메타 정보를 잘 저장해서 효율적으로 구현해 봅시다.](https://codingdog.tistory.com/660)
 * [The Algorithm behind Credit Card Verification | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-algorithm-behind-credit-card-verification-195f891509c6)
+* [ISO 8583: The language of credit cards — Increase](https://increase.com/articles/iso-8583-the-language-of-credit-cards)
+  * [ISO 8583: 신용카드의 언어 | GeekNews](https://news.hada.io/topic?id=18344)
 * [Algorithm_CS_Study/Stanford at master · engineerJPark/Algorithm_CS_Study](https://github.com/engineerJPark/Algorithm_CS_Study/tree/master/Stanford)
 * [아주 큰 정수의 곱셈은 어떻게 하면 좋을까요? feat. by 카라츠바 알고리즘 - YouTube](https://www.youtube.com/watch?v=7JvRFnxn3W0)
 * [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
