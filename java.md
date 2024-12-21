@@ -1967,6 +1967,8 @@ Java
   * [이미지 썸네일 만들기 #썸네일종결자 #Thumbnailator #java - YouTube](https://www.youtube.com/watch?v=EourFsgdRI8)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
+* [TeaVM](https://teavm.org/)
+  * [TeaVM - 자바를 플러그인 없이 브라우저에서 실행하는 Java to WASM GC 트랜 | GeekNews](https://news.hada.io/topic?id=18320)
 * [To-Excel - This is a library that makes Excel easier to use in Java](https://github.com/ckpoint/ToExcel)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
