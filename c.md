@@ -311,6 +311,9 @@ C
   $ ./cint test.c
   Hello World
   ```
+* [Clay - UI Layout Library](https://www.nicbarker.com/clay)
+  * [clay: High performance UI layout library in C](https://github.com/nicbarker/clay)
+  * [Introducing Clay - High Performance UI Layout in C - YouTube](https://www.youtube.com/watch?v=DYWTw19_8r4&ab_channel=NicBarker)
 * [cli: goJS를 사용하여 c/c++ call graph를 그립니다](https://github.com/jhlee100/cli)
 * [clib: C package manager-ish](https://github.com/clibs/clib)
 * [CMake](https://cmake.org/)
