@@ -773,6 +773,8 @@ Artificial Intelligence
   * [perplexity 퍼플렉시티 모델 API 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223359316864)
   * [perplexity citation 코딩 --.. : 네이버블로그](https://blog.naver.com/ulsancoding/223660459680)
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
+* PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
+  * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
