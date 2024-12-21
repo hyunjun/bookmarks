@@ -2054,6 +2054,8 @@ Docker
   * [친애하는 친구야, 넌 Kubernetes를 만들었어 | GeekNews](https://news.hada.io/topic?id=17955)
 * [쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@delight412/750)
 * [인프런 비전공자도 이해할 수 있는 쿠버네티스 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6pBvcX0ilCncJRgBHNs40vX)
+* [2025년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/2900/)
+  * [k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
