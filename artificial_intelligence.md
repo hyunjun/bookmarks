@@ -263,11 +263,13 @@ Artificial Intelligence
 * [더북(TheBook): 모두의 인공지능 with 파이썬](https://thebook.io/080244/)
 * [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
 * [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
-* [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
-* [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
-* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
-* [Artificial Intelligence and Games](http://gameaibook.org/)
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+* [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
+* [Artificial Intelligence and Games](http://gameaibook.org/)
+* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
+* [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
+* [resources.md at main · chiphuyen/aie-book](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
+  * [AI Engineering 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=18323)
 
 # Conference
 * [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
