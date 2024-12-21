@@ -362,6 +362,8 @@ Vision
   * [SAM(Segment Anything Model)과 친해지기 - 김경환](https://aifactory.space/learning/2504/discussion/486)
   * [MobileSAM: This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight](https://github.com/ChaoningZhang/MobileSAM)
   * [nanosam: A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT](https://github.com/NVIDIA-AI-IOT/nanosam)
+  * [Segment Any Part in 3D Objects](https://yhyang-myron.github.io/SAMPart3D-website/)
+    * [AGI KR | 241114 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2447888652218845/)
   * [segment-anything-2: The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything-2)
     * [SAM 2: 이미지와 비디오를 위한 Segment Anything | GeekNews](https://news.hada.io/topic?id=16090)
     * [메타 때문에 잠을 못자요 | SAM2, kling vs luma, Anitalker - YouTube](https://www.youtube.com/watch?v=5t6Gma-FlpI)
