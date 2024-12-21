@@ -752,6 +752,8 @@ Artificial Intelligence
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
+* [Lovable](https://lovable.dev/)
+  * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
     * [VidiGo How to Use NotebookLM (Googles New AI Tool)](https://vidigo.ai//chatbot/summary/TO9nEXmdqwkOx36)
