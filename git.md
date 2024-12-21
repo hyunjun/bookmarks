@@ -496,6 +496,8 @@ Git
 * [Accessibility alt text bot · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/accessibility-alt-text-bot)
   * [Make your GitHub projects more accessible with accessibility-alt-text-bot - The GitHub Blog](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/)
 * [Github Actions 배포 시간 줄여볼까? I 배포 시간 기존 27분에서 12분, 최대 8분까지 단축시킨 방법을 공유합니다. | 레몬베이스 팀블로그](https://blog.lemonbase.team/github-actions-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%97%AC%EB%B3%BC%EA%B9%8C-5725b92e36d9)
+* [Run Database in GitHub Actions, Persisting Data to S3, and Access it Publicly | WeSQL](https://wesql.io/blog/use-github-actions-as-database)
+  * [Github Actions에서 DB를 실행하고, S3에 저장한 뒤, 공개 억세스 하기 | GeekNews](https://news.hada.io/topic?id=18321)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
