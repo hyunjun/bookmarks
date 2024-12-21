@@ -3653,6 +3653,7 @@ Python
     * [통컨(통계컨설팅) :: 첫째날 1.3 아나콘다 시작하기 - 회귀분석 까지(P1)](https://rsas.tistory.com/191)
     * [**정해영의 블로그 - JEONG Haeyoung's blog: SSL과 관련한 conda 설치 에러 - anaconda3 해결**](http://blog.genoglobe.com/2019/04/ssl-conda.html)
     * [Using Anaconda behind a company proxy — Anaconda documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/proxy/)
+    * [Python 아나콘다 설치하기 | Anaconda, 파이썬, 주피터 노트북, 단축키 - 골든래빗](https://goldenrabbit.co.kr/2024/12/20/python-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-anaconda-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-%EB%8B%A8%EC%B6%95/)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
