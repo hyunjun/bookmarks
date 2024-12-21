@@ -4127,6 +4127,9 @@ Javascript
 * [Voici.js - 터미널에서 테이블 출력하기 | GeekNews](https://news.hada.io/topic?id=13875)
 * [volta: Volta: Start your engines](https://github.com/volta-cli/volta)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
+* [wasm-vips](https://wasm-vips.kleisauke.nl/)
+  * [wasm-vips: libvips for the browser and Node.js, compiled to WebAssembly with Emscripten](https://github.com/kleisauke/wasm-vips)
+  * [wasm-vips - 브라우저와 NodeJS를 위한 빠른 이미지 처리 라이브러리 | GeekNews](https://news.hada.io/topic?id=18356)
 * [webcontainer-core](https://github.com/stackblitz/webcontainer-core)
   * [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
     * 개발환경을 만드는 StackBlitz에서 Next.js와 Google과 협업 WebContainers 공개
