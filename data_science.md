@@ -467,6 +467,7 @@ Data Science
 * [평균의로의 회귀](https://diseny.tistory.com/entry/%ED%8F%89%EA%B7%A0%EC%9D%98%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80)
 * [Data Driven Decision vs. Data Informed Decision: 왜 기업의 성공은 영원하지 않은가?](https://www.linkedin.com/feed/update/urn:li:activity:7249837242490200065/)
 * [우아한 데이터 허브. 일 200억 건 데이터 안전하게 처리하는 대용량 시스템 구축하기 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=AtmI56DGhi4)
+* [아자르 Data Lifecycle Policy 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/11/11/azar-data-life-cycle-policy.html)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
