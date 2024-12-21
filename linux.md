@@ -1470,6 +1470,9 @@ Linux
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * Xterm [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
+  * [Termo - An Easy to use terminal for your browser](https://termo.rajnandan.com/)
+    * [Termo is a simple terminal emulator for the browser. It is a wrapper on top of xterm](https://github.com/rajnandan1/termo)
+    * [Termo - 웹에서 터미널 UI를 구현하는 터미널 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=18331)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Log
