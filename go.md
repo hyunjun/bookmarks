@@ -685,6 +685,8 @@ Go
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
 * [Ferrum: Go OpenId authorization server with Keycloak like behaviour (similar endpoint, reaction and so on)](https://github.com/Wissance/Ferrum)
+* [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
+  * [Ergo Chat - Go 언어로 작성된 현대적 IRC 서버 | GeekNews](https://news.hada.io/topic?id=18335)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [excelize: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets](https://github.com/qax-os/excelize)
   * [Golang Excelize Library - YouTube](https://www.youtube.com/playlist?list=PLW-1ky8wqAU7ZqtH-xEVAQNqjarVc0pTl)
