@@ -2692,6 +2692,7 @@ Business
 * [(2) 원병묵 - 무엇보다 사람 먼저, 그 다음 연구입니다! “저는 먼저 사람에게 우선하고 그 다음에 과학 연구를 하는 법을... | Facebook](https://www.facebook.com/bmweon/posts/pfbid0e9jSr4g1TMVJHomNMsjTvotdumJykiFwhpnVK6FgnJBgw4cgkD9kRpWwMkHosvm2l)
 * [개발자 리더로서 성장당한 썰 | 모닥불 EP.7](https://toss.tech/article/firesidechat_frontend_7)
 * [리더십은 사람들을 결집시켜 어떤 일을 이루도록 만드는 역량이다. 조직에서 부여한 직위와 권한과 상관 없이 언제든 발휘될 수 있고 발휘되어야 하는 역량](https://www.facebook.com/rheehot/posts/pfbid02FqH23g6DFA1CxJ8xWp98TXtT9ucSasSnQwKH9nN3WFAzh1cFBNs3RjvJ8aPjTpptl)
+* [Leadership development | According to renowned organization guru Warren Bennis, effective managers focus on immediate results, while visionary leaders inspire with a forward-t... | Facebook](https://www.facebook.com/groups/3938998896208789/posts/8441859679255999)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
