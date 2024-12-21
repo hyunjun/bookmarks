@@ -428,6 +428,8 @@ Artificial Intelligence
 * [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
+* [Model Context Protocol](https://modelcontextprotocol.io/)
+  * [🚀 MCP: 웹 검색부터 파일 관리까지, AI의 한계를 확장하는 표준 기술](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-MCP-%EC%9B%B9-%EA%B2%80%EC%83%89%EB%B6%80%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-AI%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%ED%91%9C%EC%A4%80-%EA%B8%B0%EC%88%A0)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
   * [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models | NVIDIA Blog](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
     * [Nvidia, LLM 훈련을 위한 합성 데이터 생성 파이프라인 공개 | GeekNews](https://news.hada.io/topic?id=15376)
