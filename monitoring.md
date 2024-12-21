@@ -277,6 +277,8 @@ Monitoring
   * [Jaeger Tracing: The Ultimate Guide | Aspecto | JaegerTracing](https://medium.com/jaegertracing/jaeger-tracing-a-friendly-guide-for-beginners-7b53a4a568ca)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * KubeAIOps [장애예측 및 처리 자동화 - KubeAIOps | NexCloud](https://www.kubeaiops.com/)
+* [lmnr: Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24](https://github.com/lmnr-ai/lmnr)
+  * [Laminar - LLM앱을 위한 오픈소스 Observability & 분석 플랫폼 | GeekNews](https://news.hada.io/topic?id=18329)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
   * [리멤버는 서비스 모니터링을 어떻게 하고 있을까? - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/how-remember-monitors/)
