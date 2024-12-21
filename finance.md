@@ -102,6 +102,8 @@ Finance
 * [**IMF는 비교도 안 될 위기가 온다. 살아남으려면 당장 '이렇게' 하세요 (김경록 박사 풀버전)** - YouTube](https://www.youtube.com/watch?v=a2PNSdKykYM)
   * [VidiGo IMF는 비교도 안 될 위기가 온다. 살아남으려면 당장 '이렇게' 하세요 (김경록 박사 풀](https://vidigo.ai//share/summary/b07bc1e91aef)
   * [내수 침체와 수출 호조의 경제 양극화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1581937)
+* [저위험 상품 리스트 - YouTube](https://www.youtube.com/playlist?list=PLLCIece2775DiWorwbGv1j-Kz56gliiHa)
+  * [예적금말고 이런 상품도 있습니다. 12분만 공부해보세요. - YouTube](https://www.youtube.com/watch?v=O7hJ5J1mlxo) 장외채권, ELB/DLB, 단기채권 ETF/펀드
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
