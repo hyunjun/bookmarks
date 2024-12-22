@@ -2282,6 +2282,8 @@ App
   * [athens: Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/ ](https://github.com/athensresearch/athens)
 * [Rocketbook | Best Smart Notebook | Cloud Notebook | Reusable Notebook](https://getrocketbook.com/)
   * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
+* [rocketnotes: AI-powered markdown editor - leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud](https://github.com/fynnfluegge/rocketnotes)
+  * [takeniftynotes.net](https://www.takeniftynotes.net/)
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
