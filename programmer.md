@@ -526,4 +526,13 @@ Programmer
 * [시니어 엔지니어가 만들면 빠른 이유 #2](https://velog.io/@480/%EC%8B%9C%EB%8B%88%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EC%9C%A0-2)
 * [How I plan my week as a Senior Engineer in Big Tech](https://read.highgrowthengineer.com/p/how-i-plan-my-week-as-a-senior-engineer)
 * [25년차 시니어 엔지니어가 말하는 "내가 18살로 돌아간다면 꼭 하고 싶은 10가지"](https://maily.so/devpill/posts/341f8fc4)
+* [My Mentee Went From Junior -> Senior Engineer in less than 2 years. Here's how.](https://read.highgrowthengineer.com/p/my-mentee-went-from-junior-senior)
+  * The mentor used a weekly 1:1 meeting framework called C2-G2-R2 and created a growth plan to identify focus areas and actions for improvement
+    * Condition: How are you feeling? Green ✅, yellow ⚠️, orange 🔶, red 🚨?
+    * Challenges: What was difficult recently?
+    * Growth: What areas do you want to grow in more? How can I help?
+    * Goals: How are you tracking on your goals, either with me or your manager?
+    * Reflections: Is there anything you wish went better recently?
+    * Relationships: How are things with your manager and other people you’re working with?
+  * They also documented accomplishments in a format the manager cared about and connected this to conversations with the manager to work toward a promotion
 * [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
