@@ -179,6 +179,9 @@ Google Cloud Platform GCP
   * [geminiApiDevKorea/diary_flutter: 다이어리 플러터 프로젝트](https://github.com/geminiApiDevKorea/diary_flutter)
   * [geminiApiDevKorea/gem-api: gem api server](https://github.com/geminiApiDevKorea/gem-api)
 * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
+* [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
+* [tldraw computer](https://computer.tldraw.com/)
+  * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
 * [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
 * [GCP 규칙 기반 평가 서비스 제공을 위한 Workload Manager Evaluation 알아보기 — #1 Workload Manager Evaluation | by 이정운 (Jungwoon Lee) | google-cloud-apac | Aug, 2024 | Medium](https://medium.com/google-cloud-apac/gcp-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%8F%89%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-workload-manager-evaluation-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-workload-manager-evaluation-7471c19b834e)
