@@ -252,6 +252,8 @@ Artificial Intelligence
 * [AI 전문가 되기 매거진](https://brunch.co.kr/magazine/python1)
 * [4회 파이토치코리아 발표자료 - 왜 AI백엔드 개발자인가? (NLP, LLM 중심, by 최남규) : 네이버 카페](https://cafe.naver.com/aidev/878)
 * [비즈니스를 위한 통화 요약 솔루션 비교 - B2B Sales 블로그, Callabo](https://callabo.ai/blog/business-sales-call-summary-solution-comparison)
+* [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
+  * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
