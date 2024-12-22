@@ -220,6 +220,8 @@ Finance
   * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
   * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
   * [시장금리 반등! 지금 미국채권 매수 기회? #미국채권 #채권ETF #ETF추천 ✦ 어떤 ETF 살까? ✦ 투꼰 - YouTube](https://www.youtube.com/watch?v=DxFr2FD-ClA)
+  * [세상에 나온지 2달만에 1500억 모은 혼합형 ETF (SOL미국배당미국채혼합50) - YouTube](https://www.youtube.com/watch?v=-7nBM8os-ns)
+  * [이런 독보적인 ETF는 그냥 사는거라고 배웠습니다. - YouTube](https://www.youtube.com/watch?v=nzgLL7HGR5M) moat ACE미국WideMoat동일가중
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
 
