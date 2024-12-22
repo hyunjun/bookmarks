@@ -447,6 +447,8 @@ Programming
   * [개발자 하모니: 커뮤니케이션 및 입증된 SRE 사례 - Liz Fong-Jones & Marit van Dijk | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/722802)
 * [네이버 검색 SRE - 지진과 비상 대응 시스템](https://d2.naver.com/helloworld/1623894)
 * [네이버 검색 SRE - 상위 레벨 모니터링 시스템](https://d2.naver.com/helloworld/0281668)
+* [The evolving role of SREs: Balancing reliability, cost, and innovation | Elastic Blog](https://www.elastic.co/blog/site-reliability-engineer-role-evolution)
+  * Elastic 블로그에서 SRE 직무가 2022년 이후 어떻게 변화하고 있는지 소개, 비용 최적화에 대한 요구사항이 업무 롤로 요구되는 트렌드 반영
 * [카카오페이 배포 효율화 1년 회고: 자동화 도입과 팀 생산성 향상 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-bot-improving-operational-efficiency-2/)
 * [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
   * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
