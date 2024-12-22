@@ -80,6 +80,8 @@ Hardware
 * [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
 * [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/2392)
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
+* [The era of open voice assistants has arrived - Home Assistant](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
+  * [오픈소스 음성 비서의 시작: Home Assistant Voice (Preview Edit | GeekNews](https://news.hada.io/topic?id=18368)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
