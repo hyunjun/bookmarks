@@ -222,6 +222,13 @@ Finance
   * [시장금리 반등! 지금 미국채권 매수 기회? #미국채권 #채권ETF #ETF추천 ✦ 어떤 ETF 살까? ✦ 투꼰 - YouTube](https://www.youtube.com/watch?v=DxFr2FD-ClA)
   * [세상에 나온지 2달만에 1500억 모은 혼합형 ETF (SOL미국배당미국채혼합50) - YouTube](https://www.youtube.com/watch?v=-7nBM8os-ns)
   * [이런 독보적인 ETF는 그냥 사는거라고 배웠습니다. - YouTube](https://www.youtube.com/watch?v=nzgLL7HGR5M) moat ACE미국WideMoat동일가중
+  * [수억 연봉 펀드매니저들 짐싸게한 ETF - YouTube](https://www.youtube.com/watch?v=B5RS_vfL8iA) ACE미국주식베스트셀러 KODEX미국서학개미
+  * [미국주식 한다면 무조건 사야할 ETF를 소개합니다. - YouTube](https://www.youtube.com/watch?v=5aA1CyDEAxg) SGOV BIL
+  * [ETF, 이제는 졸업하세요🫡 - YouTube](https://www.youtube.com/watch?v=8jgo99Q2yX0)
+    * SPY < SPLG
+    * 총수수료 기준 한국투신탁운용 ACE미국S&P500, 국내ETF는 ISA/연금저축계좌로 2000만원까지, 2000만원 초과시 글로벌ETF
+    * KB자산운용 KBSTAR미국나스닥100, 2000만원 초과시 글로벌ETF
+  * [주가 상승 + 고배당 + 배당성장 3박자를 갖춘 우리나라 종목들로 구성된 희한한 ETF - YouTube](https://www.youtube.com/watch?v=qEzWKCnPOnQ) PLUS고배당주, 0.2846%
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
 
