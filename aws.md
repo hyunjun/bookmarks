@@ -2644,6 +2644,13 @@ AWS
   * HTTP로 S3를 노출하고 그대로 사용 가능
   * OCI 표준에 따라 레이어 푸시가 순차적으로 이뤄지기 때문에 ECR보다 S3가 최대 8배까지 빠른 속도
 * [**Zero Disk Architecture - blag**](https://avi.im/blag/2024/zero-disk-architecture/)
+* s3에서 몇 가지 조건(name, etag) 기반으로 분산환경에서 발생할 수 있는 오브젝트 덮어쓰기 방지 지원
+  * [How to prevent object overwrites with conditional writes - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/conditional-writes.html)
+  * [Amazon S3, 이제 조건부 쓰기 지원 - AWS](https://aws.amazon.com/ko/about-aws/whats-new/2024/08/amazon-s3-conditional-writes/)
+  * deltalake와 같은 open table format의 ACID를 지원하지만, 이는 하나의 spark job의 여러 executor에서 동시 쓰기시에만 보장
+    * 여러 spark job에서 같은 경로에 대해 동시 쓰기(update, delete, merge)시에는 보장을 할 수 있는 방법이 없어서
+    * s3에서는 결국 Lock을 구현하기 위한 도구를 연동해야했었는데(dynamodb 예시 [Delta Lake on S3 | Delta Lake](https://delta.io/blog/delta-lake-s3/) 참고) 이제 그럴 필요 없어짐
+  * [데이터 엔지니어링 전망: Data Engineering Weekly의 2025년 예상 | GeekNews](https://news.hada.io/topic?id=18402) 5번 항목이 유사한 전망
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
