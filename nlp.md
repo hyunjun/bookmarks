@@ -628,6 +628,8 @@ NLP
 * [사람이 챗봇을 만듭니다](https://www.youtube.com/playlist?list=PLqkITFr6P-oRQu0OJCIqHuff-ubbCkWlL)
   * [Microsoft Bot Framework 관련 강좌](https://github.com/koreaEva/Bot)
 * [AWS Lambda와 API Gateway로 Slack Bot 만들기](http://www.usefulparadigm.com/2016/04/06/creating-a-slack-bot-with-aws-lambda-and-api-gateway/)
+* [Building an LLM-Powered Slackbot. How Benchling built a Knowledge Base in… | by Christian Monaghan | Dec, 2024 | Benchling Engineering](https://benchling.engineering/building-an-llm-powered-slackbot-557a6241e993)
+  * [LLM을 활용하는 슬랙봇 만들기 | GeekNews](https://news.hada.io/topic?id=18427)
 * [Your next shopping experience starts with a text](https://operator.com/)
 * [AWS 서버리스 챗봇 경진대회에 참여하세요!](https://aws.amazon.com/ko/blogs/korea/enter-the-aws-serverless-chatbot-competition/)
 * [The White House's New Facebook Messenger Bot Makes It Easy To Send A Message To Obama](http://www.fastcompany.com/3062674/the-white-houses-new-facebook-messenger-bot-makes-it-easy-to-send-a-message-to-obama)
