@@ -206,6 +206,7 @@ Product
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
 * [HHKB USB-C 개조기 1부](https://blog.aioo.ooo/hhkb-usb-c-diy-1/)
 * [HHKB USB-C 개조기 2부](https://blog.aioo.ooo/hhkb-usb-c-diy-2/)
+* IQUNIX MG65 PRO [조약돌 타건 사운드와 감성 미친 기계식 키보드 (IQUNIX MG65 PRO) "알루미늄 바디, 로우프로파일" - YouTube](https://www.youtube.com/watch?v=SAjzHnj4QF0)
 * [Keyboardio: keyboards for serious typists](https://shop.keyboard.io/)
   * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
 * Keychron
