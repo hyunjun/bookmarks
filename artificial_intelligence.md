@@ -393,6 +393,9 @@ Artificial Intelligence
   * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
+  * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
+    * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
+    * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
@@ -751,6 +754,8 @@ Artificial Intelligence
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
 * [업무 효율 바로 올라가는 무료 AI툴 7개 추천! (안쓰면 후회합니다) - YouTube](https://www.youtube.com/watch?v=-hXY55kwDCk)
   * 클로바노트, Tactiq, Guidde, Whimsical, Napkin.ai, ColorMagic, NotebookLM
+* [늦게 알면 폭풍 오열할 'AI툴' BEST3 - YouTube](https://www.youtube.com/watch?v=3aZLN-y8n-Y)
+  * Shots, Napkin AI, 폴라리스오피스 polarisoffice
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
@@ -760,6 +765,7 @@ Artificial Intelligence
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
+* [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
     * [VidiGo How to Use NotebookLM (Googles New AI Tool)](https://vidigo.ai//chatbot/summary/TO9nEXmdqwkOx36)
@@ -777,6 +783,7 @@ Artificial Intelligence
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
+* [Shots - Create Amazing Mockups](https://shots.so/)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
