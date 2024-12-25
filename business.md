@@ -1557,6 +1557,7 @@ Business
 * [“그때 이렇게 말할걸…” 친절한데 만만해 보이지 않는 말투 특징 (이상윤님 2부) - YouTube](https://www.youtube.com/watch?v=46JjKTu0LFo)
 * [비즈니스 소통에서 관심사의 분리와 일반화의 효과](https://brunch.co.kr/@graypool/1789)
 * [어려운 동료와의 대화: 불편함을 해결하는 전략](https://brunch.co.kr/@yongjinjinipln/145)
+* [내가 생각하는 불편한 소통을 잘하는 법은 아래와 같다. 1. 불편한 소통은 매일 해야한다. 미루면... | Facebook](https://www.facebook.com/rheehot/posts/pfbid02muNuyDWqDA1V5J1UshZD7tQDZvJDfWGshjLA2YjCWhh3WXFSLWoo1DexhYjcorU5l)
 * [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
 * [Communication Lessons From The Bear](https://www.strategybyfischer.com/resilience/communication-lessons-the-bear)
   * The Bear, a TV show about a restaurant kitchen, offers valuable communication lessons
