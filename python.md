@@ -1379,6 +1379,7 @@ Python
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
     * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
   * [Prodfiler](https://prodfiler.com/)
+  * [pyftrace: Python function tracer](https://github.com/kangtegong/pyftrace) lightweight Python function tracing tool designed to monitor and report on function calls within Python scripts
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [pyperf: Toolkit to run Python benchmarks](https://github.com/psf/pyperf)
     * [CPython 3.11 recursive benchmark](https://gist.github.com/corona10/bb782b1d85a501747d2738d724cb9dd1)
