@@ -8296,6 +8296,10 @@ Programming
     * 줄기는 공유된 목적과 커뮤니티를 통해 뿌리와 열매를 연결
     * 뿌리가 없으면 열매도 없다고 강조
   * 현실은 경기 침체와 함께 이런 가치들은 점점 무시되는 듯 하다
+* [**On Long Term Software Development - Bert Hubert's writings**](https://berthub.eu/articles/posts/on-long-term-software-development/)
+  * [장기적(long term) 소프트웨어 개발 | GeekNews](https://news.hada.io/topic?id=18407) 매우 좋은 글
+* [Modern Staff Engineering at a Startup ~ chadxz.dev](https://chadxz.dev/startup/)
+  * [스타트업에서의 모던 스태프 엔지니어링 | GeekNews](https://news.hada.io/topic?id=18310)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
