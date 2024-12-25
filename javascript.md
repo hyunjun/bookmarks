@@ -1192,6 +1192,8 @@ Javascript
   * [Incremental DOM과 Virtual DOM 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210819)
 * [The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer - YouTube](https://www.youtube.com/watch?v=pD8VaBdU1f8)
 * [State of change detection in Angular and how far are we from Zoneless applications ? by M. Riegler - YouTube](https://www.youtube.com/watch?v=KdK20Cn9Y4M)
+* [Meet Angular v19. In the past two years we doubled down… | by Minko Gechev | Nov, 2024 | Angular Blog](https://blog.angular.dev/meet-angular-v19-7b29dfd05b84)
+  * [번역 앵귤러 19를 만나보세요!. 앵귤러 19 버전의 업데이트 사항 만나보기 | by jiwoo-choi | Dec, 2024 | Medium](https://medium.com/@jiwoochoics/%EB%B2%88%EC%97%AD-%EC%95%B5%EA%B7%A4%EB%9F%AC-19%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%84%B8%EC%9A%94-25a133ef5e74)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -5087,6 +5089,8 @@ Javascript
   * [React 19를 더욱 느리게!?](https://velog.io/@composite/React-19%EB%A5%BC-%EB%8D%94%EC%9A%B1-%EB%8A%90%EB%A6%AC%EA%B2%8C)
 * [React v19 – React](https://react.dev/blog/2024/12/05/react-19)
 * [React 19 업그레이드할 필요 없다?](https://velog.io/@composite/React-19-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%A0-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4)
+* [번역 리액트 19 업그레이드 가이드](https://velog.io/@eunbinn/react-19-upgrade-guide)
+* [react19 알아보자 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223704891291)
 * [간단한 Headless 리액트 컴포넌트를 만들어봅시다. - Switch 편](https://velog.io/@easylogic/%EA%B0%84%EB%8B%A8%ED%95%9C-Headless-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4.-Switch-%ED%8E%B8)
 * [React is (becoming) a Full-Stack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
   * [React는 풀스택 프레임워크(가 되어가는 중)임 | GeekNews](https://news.hada.io/topic?id=16471)
