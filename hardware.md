@@ -82,6 +82,8 @@ Hardware
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
 * [The era of open voice assistants has arrived - Home Assistant](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
   * [오픈소스 음성 비서의 시작: Home Assistant Voice (Preview Edit | GeekNews](https://news.hada.io/topic?id=18368)
+* [TEMU](https://t-emu.terma.com/)
+  * [TEMU (Terma Emulator) - LLVM 기반의 고성능 마이크로프로세서 에뮬레이 | GeekNews](https://news.hada.io/topic?id=18418)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
