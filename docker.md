@@ -1005,6 +1005,7 @@ Docker
   * variable 확장 기능 개선, `${variable#pattern}`, `${variable%pattern}`, `${variable/pattern/replacement}` 변수 받을 때 패턴으로 걸러내거나 치환 가능
   * `COPY`로 파일을 복사시 부모 디렉터리 구조를 유지할지 선택하거나 `.dockerignore` 파일을 쓰지 않고 `COPY`에서 특정 패턴 제외하고 복사 기능 추가
 * [Cache mount를 이용한 Dockerfile 빌드 최적화](https://velog.io/@skynet/Cache-mount%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Dockerfile-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94)
+* [Docker Image BEST Practices - From 1.2GB to 10MB - YouTube](https://www.youtube.com/watch?v=t779DVjCKCs)
 * [Dockerfile](https://meghasharma.hashnode.dev/dockerfile)
 
 # gvisor
@@ -2047,6 +2048,7 @@ Docker
 * [쿠버네티스가 쉬워지는 컨테이너 이야기 — memory편. 이전 글 | by rex.chun | Oct, 2024 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-memory%ED%8E%B8-62cafabfd160)
 * [안정성과 유연성을 겸비한 카카오뱅크의 On-premise Kubernetes 구축 여정기 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=YVsex0H3e_E)
   * [안정성과 유연성을 겸비한 카카오뱅크의 On-premise Kubernetes 구축 여정기 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-72)
+* [월 유지비 1$ 미만으로 마참내 안죽는 on-premise 인프라를 만들었다](https://velog.io/@juunini/diehard-on-prem-infra-under-one-dollor)
 * [Kubernetes 지능형 리소스 최적화 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=FEDSGUkUjoQ)
   * [Kubernetes 지능형 리소스 최적화 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-74)
 * [쿠버네티스 네트워크 3기 스터디 참여 멤버 글 모음](https://gasidaseo.notion.site/3-13a50aec5edf8013984fe0ba0c0e3b39)
