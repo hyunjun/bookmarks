@@ -231,6 +231,8 @@ Deep Learning
     * [RAG를 구축하는 가장 간단한 방법 - YouTube](https://www.youtube.com/watch?v=-ip-y4tGfp4)
   * [OpenAI, ChatGPT 서치 기능 정식 출시 | GeekNews](https://news.hada.io/topic?id=17521)
   * [OpenAI, 팩트 체크 벤치마크 SimpleQA 공개 | GeekNews](https://news.hada.io/topic?id=17552)
+  * [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
+    * [OpenAI의 "12 Days of OpenAI" 발표 요약 | GeekNews](https://news.hada.io/topic?id=18411)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [OpenAI Canvas - ChatGPT와 함께하는 새로운 작성 및 코딩 방식 | GeekNews](https://news.hada.io/topic?id=17061)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
