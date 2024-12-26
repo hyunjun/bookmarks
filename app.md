@@ -417,6 +417,7 @@ App
     * [Jekyll에서 Hexo로](https://kenixer.github.io/2018/09/15/Jekyll%EC%97%90%EC%84%9C-Hexo%EB%A1%9C/)
     * [hexo-tag-gdemo 소개](https://heowc.github.io/2018/11/14/introduction-hexo-tag-gdemo/)
   * [오늘 부터 나도 github.io 블로그 운영자다!! | github pages , goormide, hexo](https://www.youtube.com/watch?v=8uRgIwgumqA)
+  * [Jekyll 블로그에 댓글 기능 넣기 - utterances 서비스를 이용하여 Jekyll 프로젝트에 댓글 기능을 추가해 보자.](https://deku.posstree.com/ko/jekyll/utterances/)
   * [jekyll-polyglot 다국어 플러그인 - jekyll에서 다국어를 대응하기 위해 사용하는 플러그인을 소개합니다. 다국어 플러그인 jekyll-polyglot의 설치와 설정에 대해서 알아봅니다](https://deku.posstree.com/ko/jekyll/multi-languages-plugin/)
   * [jekyll-theme-collider](https://github.com/ryancolorcafe/jekyll-theme-collider)
   * [reveal-jekyll](https://github.com/tasmo/reveal-jekyll)
