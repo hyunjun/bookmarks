@@ -332,6 +332,7 @@ AWS
 * [AWS MediaLive, AWS MediaPackage기반 라이브 스트리밍 워크플로 Observability 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-medialive-mediapackage-based-workflow-observability/)
 * [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 * [Amazon EKS에서 관리형 서비스를 활용하여 Spring Boot 애플리케이션 관찰 가능성(Observability) 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/springboot-application-observability-using-amazon-eks/)
+* [AWS를 활용한 CI/CD와 무중단 SpringBoot 웹 애플리케이션 배포 - YouTube](https://www.youtube.com/watch?v=R_hm7N5IkpU)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) optimization
 * [Instance Price Guide](https://instaguide.io/)
@@ -2970,6 +2971,7 @@ AWS
 * [AWS(Study) AWS Educate 계정 사용하기 — Sun's diary](https://sundery.tistory.com/87)
 * [AWS 53탄-1. AWS개발환경 구축-2024-09](https://brunch.co.kr/@topasvga/4030)
 * [인프런 비전공자도 이해할 수 있는 AWS 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6qr33RT-UiguSsCr_2Gq0S3)
+* [동영상강의 목록/README.md at main · ryujt/pages](https://github.com/ryujt/pages/blob/main/etc/%EB%8F%99%EC%98%81%EC%83%81%EA%B0%95%EC%9D%98%20%EB%AA%A9%EB%A1%9D/README.md)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
