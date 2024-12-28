@@ -170,6 +170,7 @@ Hardware
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
+* [자바스크립트 웹페이지로 아두이노 제어하기](https://webnautes.tistory.com/2415)
 * [Arduboy](https://www.arduboy.com/)
 * [EURK_Arduino: 한글 라이브러리 '어우러기' 아두이노 버전 1.0](https://github.com/sookmook/EURK_Arduino)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
