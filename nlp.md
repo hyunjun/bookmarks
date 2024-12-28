@@ -547,6 +547,7 @@ NLP
 * [ModernBERT - a answerdotai Collection](https://huggingface.co/collections/answerdotai/modernbert-67627ad707a4acbf33c41deb)
   * [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
     * [ModernBERT - BERT를 대체할 모델 | GeekNews](https://news.hada.io/topic?id=18355)
+  * [Hands-on 나만의 RAG Agentic 모델 만들기](https://jypthemiracle.notion.site/Hands-on-RAG-Agentic-167ff228a180805d9008df325b720c44)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
 * [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers)
 * [publicservant\_AI](https://github.com/kimwoonggon/publicservant_AI)
@@ -1182,6 +1183,7 @@ NLP
   * [adalflow_object_count_auto_optimization.ipynb - Colab](https://colab.research.google.com/drive/1n3mHUWekTEYHiBdYBTw43TKlPN41A9za?usp=sharing)
 * [한국어 언어모델은 얼마나 안전할까? 유해 프롬프트에 대한 대응 분석 | by 김희규 | Oct, 2024 | Medium](https://heegyukim.medium.com/%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%95%88%EC%A0%84%ED%95%A0%EA%B9%8C-%EC%9C%A0%ED%95%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EC%9D%91-%EB%B6%84%EC%84%9D-21d0cc1c902d)
 * [뉴테크프라임 » AIPromptSmarteasy 사용해 보기 – 나 교수와 글 읽기 – Prompt Engineering Guide 01](http://www.umlcert.com/aipromptsmarteasy_professor-na_prompt_engineering-02/)
+* [Fine-tuning 없이, 프롬프트 엔지니어링으로 메뉴 이미지 검수하기 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=YjdZL3Sc9hA)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -2864,6 +2866,7 @@ NLP
       * [Llama-3 8B-Instruct 모델 셀프 호스팅 비용 | GeekNews](https://news.hada.io/topic?id=15387)
     * [Open Source AI Is the Path Forward | Meta](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
       * ["오픈소스 AI가 미래의 길입니다." by 마크 주커버그 | GeekNews](https://news.hada.io/topic?id=15988)
+    * [llama 기반 한국어 소형 언어모델이 이거까지 된다고?? Bllossom-AICA 모델 데모! - YouTube](https://www.youtube.com/watch?v=4lAUVwTN608)
     * [Llama3 Tokenizer](https://joonwon-cv.notion.site/Llama3-Tokenizer-8a7615d8531a4cd2b2599bdd7a06e4a1)
       * Llama3는 이전 버전인 Llama2에 비해 학습 데이터 증가, 컨텍스트 길이 증가, 토크나이저 교체, 그리고 GQA 적용 등을 통해 성능 향상
       * 그중에서도 토크나이저의 교체에 주목하여, 새로운 BPE(Byte Pair Encoding) 기반의 토크나이저가 어떻게 효율성과 확장성을 가져왔는지 분석
