@@ -387,6 +387,7 @@ Programming Books
   * [Book 오늘날 우리는 컴퓨터라 부른다 - 라이프니츠부터 튜링까지, 생각하는 기계의 씨앗을 뿌린 사람들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1691)
 * (NOT YET) [처음 배우는 NHN Cloud](https://hanbit.co.kr/store/books/look.php?p_code=B4125493122)
   * 한라 004.588-김25엔
+* (NOT YET) [모두를 위한 소프트웨어 보안 설계와 구현](https://jhrogue.blogspot.com/2024/12/blog-post.html)
 
 # Agile Scrum
 
