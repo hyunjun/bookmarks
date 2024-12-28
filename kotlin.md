@@ -505,6 +505,7 @@
 * [Finding Developer Joy with KMP | KotlinConfersations'24 - YouTube](https://www.youtube.com/watch?v=xUGBmGyGY30)
   * [VidiGo Finding Developer Joy with KMP | KotlinConfersatio](https://vidigo.ai/share/summary/57e6d9d21b32)
   * [KMP를 통한 개발자의 즐거움 찾기 | KotlinConfers'24 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788806)
+* [Klibs.io — Search 1400+ KMP libraries | JetBrains](https://klibs.io/)
 * [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
 
 # Library
