@@ -371,6 +371,7 @@ Vision
       * 메모리 뱅크라는 새로운 기능이 추가되어 일시적으로 가려지거나 사라지는 객체 추적 가능
       * [VidiGo 메타 때문에 잠을 못자요 | SAM2, kling vs luma, Anitalker.mp4](https://vidigo.ai/share/summary/784bdc5f5a0e)
       * [메타 때문에 잠을 못자요 SAM2, kling vs luma, Anitalker | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1026745)
+    * [SAM 2, 이미지부터 비디오까지 ‘모두를 분할(Segment Anything)’한다! - YouTube](https://www.youtube.com/watch?v=TkYZgoPzxQQ)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
