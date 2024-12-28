@@ -333,6 +333,7 @@ Artificial Intelligence
 
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
+* [The Best Agent Framework Has Arrived (Coding Tutorial for PydanticAI w/ OpenAI, Ollama, AzureOpenAI) - YouTube](https://www.youtube.com/watch?v=xVe87QpNE80)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
@@ -787,11 +788,13 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
-* [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
-* [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
+* [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
 * [25분만에 끝내는 인공지능 기초와 활용 및 사례 (ㄹㅇ블루오션) - YouTube](https://www.youtube.com/watch?v=mRnXgBDf_oE)
 * [45 Best Resources to Learn Artificial Intelligence (YouTube,Tutorials, etc)](https://www.mltut.com/best-resources-to-learn-artificial-intelligence/)
-* [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
+* [AI Python for Beginners - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+  * [초보자를 위한 AI Python - Andrew Ng 의 무료 강의 | GeekNews](https://news.hada.io/topic?id=18419)
+* [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
+* [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
 * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
 
 # Vector DB
