@@ -5830,6 +5830,7 @@ Javascript
   * [Fixing Hydration Errors Caused by Chrome Extensions in Next js 15 - YouTube](https://www.youtube.com/watch?v=lRDKjS7fXIE)
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
+  * [Next.js Full Course - Supabase를 사용하여 나만의 TASK 관리 애플리케이션 만들기 - YouTube](https://www.youtube.com/watch?v=fXLBVDa6J2s)
   * [lithent: ➿ An extensible JSX-based virtual DOM library for lightweight use in a variety of environments](https://github.com/superlucky84/lithent)
     * [나만의 SSR 프레임웍 만들기. 목차 | by Jinwoo Kim | Dec, 2024 | Medium](https://medium.com/@superlucky84/%EB%82%98%EB%A7%8C%EC%9D%98-ssr-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8D-%EB%A7%8C%EB%93%A4%EA%B8%B0-818f26e20bf4)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
