@@ -63,6 +63,7 @@ Ruby
     * YJIT팀이 커지면서 Ruby 3.2에 포함
     * 성능도 좋아졌고 프로덕션에서 사용할 수준
     * 2021년에 YJIT을 C99에서 Rust로 포팅하기로 결정, 유지보수도 쉬워졌고 이후 메모리 개선 작업으로 프로덕션에서도 쓸 수 있게 됨
+* [루비 3.4.0 출시 | GeekNews](https://news.hada.io/topic?id=18439)
 * [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
 * [Why Ruby has Symbols | dmitrytsepelev.dev](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 * [(Not always) Cool methods to be careful when working with rails - DEV Community 👩💻👨💻](https://dev.to/jplethier/not-always-cool-methods-to-be-careful-when-working-with-rails-8cf)
@@ -96,6 +97,8 @@ Ruby
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Koona A really simple compiler written in Ruby](https://github.com/charles-l/koona)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
+* [litestack](https://github.com/oldmoe/litestack)
+  * [Litestack - 1개의 Ruby 젬으로 전체 데이터 인프라를 구축 | GeekNews](https://news.hada.io/topic?id=18434)
 * [mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)
 * [matchi - Collection of expectation matchers for Ruby](https://github.com/fixrb/matchi)
 * MeCab-ko [루아와 MeCab-ko를 이용한 한국어 형태소 분석](http://occamsrazr.net/tt/353)
