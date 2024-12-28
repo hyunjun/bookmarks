@@ -843,6 +843,7 @@ Apache
 * [다시 돌아온 코인 프로젝트 (0)](https://sky-develop.tistory.com/98)
 * [공통 Kafka 전환기 \[Part 1. 공통 Kafka 전환 배경 및 전략\] | by Sofie | Nov, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%B5%ED%86%B5-kafka-%EC%A0%84%ED%99%98%EA%B8%B0-part-1-%EA%B3%B5%ED%86%B5-kafka-%EC%A0%84%ED%99%98-%EB%B0%B0%EA%B2%BD-%EB%B0%8F-%EC%A0%84%EB%9E%B5-936b1ce198e5)
 * [KafkaKRU Meetup Review | Haril Dev](https://haril.dev/blog/2024/11/22/kafkakru-meetup-review)
+* [Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=Rcow99TIMmc)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
