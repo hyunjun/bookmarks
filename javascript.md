@@ -1414,6 +1414,8 @@ Javascript
   * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
   * [How to Annul Promises in JavaScript](https://webdeveloper.beehiiv.com/p/cancel-promises-javascript)
     * [번역 자바스크립트에서 프로미스를 취소하는 방법](https://velog.io/@eunbinn/cancel-promises-javascript)
+  * [You're Missing the Point of Promises](https://gist.github.com/domenic/3889970)
+    * [자바스크립트 Promise를 만든 개발자가 말하는 Promise의 진짜 의미는? - YouTube](https://www.youtube.com/watch?v=wJ3aRQ7Qdr8)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
