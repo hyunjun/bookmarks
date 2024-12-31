@@ -1783,6 +1783,8 @@ App
   * Expo에서 Expo Application Services(EAS)로 빌드 후 스낵 프로젝트를 실행하는 과정을 개선하기 위해 지난 8월 Orbit을 공개했는데 반응이 좋아서 프로젝트를 진행하고 이번에 Orbit v1 공개
   * Orbit을 이용하면 macOS 메뉴바에서 빠르게 빌드하고 실행 가능
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
+* [Ghostty](https://ghostty.org/)
+  * [The BEST Terminal Just Launched - Ghostty 👻 - YouTube](https://www.youtube.com/watch?v=heRfqBEhwr0)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * iSH [아이패드에서 장고 애플리케이션 실행하기](https://medium.com/beyond-the-windows-korean-edition/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%9E%A5%EA%B3%A0-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-7d6d7ffe8523)
 * [iTerm2](https://iterm2.com/)
