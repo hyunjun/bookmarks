@@ -64,6 +64,7 @@ Product
 * [이 캐리어가 여행용 끝판왕인 이유 - 장박사의 해외여행 캐리어 추천 - YouTube](https://www.youtube.com/watch?v=xMUE9JtXEc8) RTRUNK
 * [Must-Have Gadgets for a Perfect Workspace - YouTube](https://www.youtube.com/watch?v=HJiZWkoypW4)
 * ["최소 3천만 원 쓰고 알았어요.." 가장 만족한 데스크 셋업 인생템 BEST 7 - YouTube](https://www.youtube.com/watch?v=HE72aDe_BjU)
+* [공유기계의 애플? Unifi 써보고 감탄했습니다 - YouTube](https://www.youtube.com/watch?v=nLD50V4P2IM)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
