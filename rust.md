@@ -449,7 +449,6 @@
 * [xplr: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
 * [xsv - A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
   * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
-* [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O](https://github.com/sxyazi/yazi)
 
 # Python
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)

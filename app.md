@@ -796,6 +796,7 @@ App
   * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
 * [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+  * [How To Use Yazi: An Awesome Terminal File Manager Written In Rust - YouTube](https://www.youtube.com/watch?v=iKb3cHDD9hw)
 
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
