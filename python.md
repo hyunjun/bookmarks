@@ -4776,6 +4776,7 @@ Python
   * [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
   * [UV with Django](https://blog.pecar.me/uv-with-django)
   * [I’ve Switched to UV for Python, and So Should You - YouTube](https://www.youtube.com/watch?v=qh98qOND6MI)
+  * [uv IS the Future of Python Packaging! 🐍📦 - YouTube](https://www.youtube.com/watch?v=8UuW8o4bHbw)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
