@@ -1012,6 +1012,7 @@ NLP
     * [First experiences with GPT-4 fine-tuning : r/OpenAI](https://www.reddit.com/r/OpenAI/comments/1bj9vbi/first_experiences_with_gpt4_finetuning/)
   * GPT-4o
     * [Hello GPT-4o | OpenAI](https://openai.com/index/hello-gpt-4o/)
+    * [20$ 유료 챗GPT 말고, 무료 GPT-4o Github Models (깃허브 모델스) 사용하세요! - YouTube](https://www.youtube.com/watch?v=VhMHl9LH2qw)
     * [GPT-4o mini: advancing cost-efficient intelligence | OpenAI](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
@@ -1051,6 +1052,8 @@ NLP
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
   * [YGK-a: YGK-a: Your Genius, Knowledgeable assistant, An advanced ChatGPT client from your shell](https://github.com/code-yeongyu/ygk-a)
 * [chat-ui: Open source codebase powering the HuggingChat app](https://github.com/huggingface/chat-ui)
+* [DeepSeek](https://www.deepseek.com/)
+  * [무료인데 역대급 성능! 딥시크(Deep Seek) | 챗GPT, 클로드 뛰어 넘지만 불안한 한가지! - YouTube](https://www.youtube.com/watch?v=dOv0tivK1oc)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
   * [무료로 노트북에서도 실행 가능한 70억 파라미터 챗봇 - 테크레시피](https://techrecipe.co.kr/posts/52507)
