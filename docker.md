@@ -1345,6 +1345,7 @@ Docker
   * 카카오에서는 마스터 노드를 직접 운영하면서 Kubernetes 업그레이드 시 마스터 노드를 교체하면서 직접 etcd 서버를 추가/삭제하므로 이 과정에서 얻는 경험을 토대로 설명
   * Raft를 구현한 etcd가 리더를 선출하고 로그를 복제하는 과정과 이때 멤버를 추가/삭제하면 어떤 일이 벌어지는지 자세히 보여주고 있어서 이 부분만 알아도 etcd를 이해하는데 도움
   * 글의 뒷부분에는 etcd를 유지보수 하기 위해 백업/복구를 하는 방법 설명
+* [Understanding etcd in Kubernetes - CloudCuddler](https://cloudcuddler.com/understanding-etcd-in-kubernetes/)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
