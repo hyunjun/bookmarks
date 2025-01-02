@@ -5843,6 +5843,7 @@ Programming
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
+  * [CodingFont - 코딩용 폰트를 토너먼트로 찾아보기 | GeekNews](https://news.hada.io/topic?id=18544)
 * [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
 * [creep: a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
