@@ -288,6 +288,7 @@ Product
 * [나홀로 밴드? 미래에서 온 악기들](http://techholic.co.kr/archives/36600)
 * [손바닥에 올라탄 신디사이저](http://techholic.co.kr/archives/36682)
 * [아이폰+전자기타=나홀로 밴드?](http://techholic.co.kr/archives/40419)
+* [찾았다 내 장난감 ㅋㅋ 정말 말도안되게 다 가능한 기타 | Aeroband Guitar - YouTube](https://www.youtube.com/watch?v=dBO4PhuonEs)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
