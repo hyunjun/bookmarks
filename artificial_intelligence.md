@@ -776,6 +776,8 @@ Artificial Intelligence
     * [구글의 NotebookLM 사용법 - 내 문서를 기반으로 작동하는 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/754184)
   * [💡NotebookLM: 구글의 최신 AI 연구 어시스턴트 리뷰](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1NotebookLM-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EC%97%B0%EA%B5%AC-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
+* [PDFMathTranslate: PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译](https://github.com/blog2i2j/Byaidu.._..PDFMathTranslate)
+  * [충격적인 pdf 파일 번역의 혁신, 역대급 번역 툴, PDFMathTranslate 공개!](https://stock79.tistory.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B8-pdf-%ED%8C%8C%EC%9D%BC-%EB%B2%88%EC%97%AD%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%B2%88%EC%97%AD-%ED%88%B4-PDFMathTranslate-%EA%B3%B5%EA%B0%9C)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
   * [Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=15017)
 * [Perplexity](https://www.perplexity.ai/)
