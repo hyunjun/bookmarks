@@ -196,6 +196,7 @@ Product
 * [N사 출신 개발자가 만든 한국형 스플릿 키보드 | 제작기 1탄 - YouTube](https://www.youtube.com/watch?v=qbYRLMHMjMc)
 * [너무 신기한 요즘 키보드 - YouTube](https://www.youtube.com/watch?v=oHK74O5G9us) Filco & UHK
 * [나무 키보드를 만드는 과정. 100만원 상당의 고급 목재 키보드를 만드는 일본의 장인. - YouTube](https://www.youtube.com/watch?v=ki8je1ZMjmM)
+* [키보드 똑똑하게 쓰는 프로그램 | 'VIA' 사용법 - YouTube](https://www.youtube.com/watch?v=oz0yCiogCAU)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
