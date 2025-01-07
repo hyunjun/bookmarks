@@ -8793,6 +8793,7 @@ Programming
 * [테스트 코드 잘 짜는 프로그래머는 이걸 잘합니다 - YouTube](https://www.youtube.com/watch?v=VygGrcq0VX0)
   * TDD 아니고 테스트 자동화
   * 누가 해도 똑같은 (bug) 재현의 중요성
+* [48시간 자동 테스트 돌리던 게임 회사의 품질 관리 비결! - YouTube](https://www.youtube.com/watch?v=pzH7u0ZSAg4)
 * [Assert 어디에 넣을지 모르면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=6ts1Uxp_i3w)
   * TDD는 아니지만 일단 여기에
   * 근거는 안 알려줘서 알 수 없지만 code 7줄마다 assert 하나가 필요하다고 말했다고 함
