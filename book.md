@@ -1174,6 +1174,11 @@ Book
   * [내가 알던 그 사람 Somebody I used to know | by Jun | Dec, 2024 | Medium](https://nymets.medium.com/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EA%B7%B8-%EC%82%AC%EB%9E%8C-somebody-i-used-to-know-194f15510ca5)
   * [내가 알던 그 사람 Somebody I used to know - Jun’s Substack](https://recur.substack.com/p/somebody-i-used-to-know)
   * [내가 알던 그 사람 Somebody I used to know](https://jh4hj.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%95%8C%EB%8D%98-%EA%B7%B8-%EC%82%AC%EB%9E%8C-Somebody-I-used-to-know)
+* [문학의 도시, 런던 Literary London](https://www.notion.so/1003/Literary-London-1783f0c2cf658064891cfa73fe63cddd)
+  * ★★☆☆☆ 2025.01.08~10
+  * [문학의 도시 런던 Literary London](https://github.com/hyunjun/bookmarks/blob/master/books/literary_london.md)
+  * [문학의 도시 런던 Literary London - Jun - Medium](https://nymets.medium.com/%EB%AC%B8%ED%95%99%EC%9D%98-%EB%8F%84%EC%8B%9C-%EB%9F%B0%EB%8D%98-literary-london-8beb61a43164)
+  * [문학의 도시 런던 Literary London](https://jh4hj.tistory.com/entry/%EB%AC%B8%ED%95%99%EC%9D%98-%EB%8F%84%EC%8B%9C-%EB%9F%B0%EB%8D%98-Literary-London)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
