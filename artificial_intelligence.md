@@ -757,6 +757,17 @@ Artificial Intelligence
   * 클로바노트, Tactiq, Guidde, Whimsical, Napkin.ai, ColorMagic, NotebookLM
 * [늦게 알면 폭풍 오열할 'AI툴' BEST3 - YouTube](https://www.youtube.com/watch?v=3aZLN-y8n-Y)
   * Shots, Napkin AI, 폴라리스오피스 polarisoffice
+* [당신의 능률을 미친듯이 올려줄 AI 툴 (뻔한 거 말고) - YouTube](https://www.youtube.com/watch?v=YBefJjeoLbU)
+  * Claude (무료) - 대화형 인공지능 https://claude.ai
+  * Perplexity (무료) - 웹 검색 엔진 AI https://www.perplexity.ai
+  * SciSpace (무료) - 논문 검색 엔진 AI https://typeset.io/ko
+  * Lylis (무료)  - 유튜브 영상요약 https://lilys.ai
+  * Tiro (유료) - 대화 기록 및 요약 https://tiro.ooo/ko
+  * Napkin AI (무료) - 도식화 생성 https://www.napkin.ai
+  * Khroma (무료) - AI 색상 팔레트 생성 https://www.khroma.co
+  * Freeflo (무료) - AI 이미지 라이브러리 https://freeflo.ai
+  * HeyGen (유료) - 영상 번역 더빙 https://www.heygen.com
+  * Suno (무료) - 음악 작곡 https://suno.com
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
