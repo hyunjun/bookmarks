@@ -468,6 +468,7 @@ Data Science
 * [Data Driven Decision vs. Data Informed Decision: 왜 기업의 성공은 영원하지 않은가?](https://www.linkedin.com/feed/update/urn:li:activity:7249837242490200065/)
 * [우아한 데이터 허브. 일 200억 건 데이터 안전하게 처리하는 대용량 시스템 구축하기 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=AtmI56DGhi4)
 * [아자르 Data Lifecycle Policy 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/11/11/azar-data-life-cycle-policy.html)
+* [데이터 분석 스타터를 위한 학습추천 2025 ver.](https://brunch.co.kr/@youngwungkim/244)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
