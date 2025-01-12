@@ -659,6 +659,7 @@ NoSQL
 * [Supabase에서 Kakao Login JS SDK를 사용하는 방법](https://miryang.dev/blog/how-to-use-kakao-login-js-sdk-with-supabase)
   * supabase에 Kakao OIDC 지원을 직접 추가하신 분이 이를 사용해서 카카오 로그인을 연동하는 예시를 설명한 글
 * [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/86)
+* [정말 다시는 쓰고 싶지 않은 최악의 프로덕트](https://www.linkedin.com/posts/sigridjineth_supabase-client-requires-explicit-signout-activity-7284176517197189120-jbOW)
 * [crossplatformkorea/CPK](https://github.com/crossplatformkorea/cpk)
   * [커뮤니티 앱 개발 리뷰 - YouTube](https://www.youtube.com/watch?v=U_wgty0DMjE)
 
