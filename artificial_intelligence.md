@@ -254,6 +254,7 @@ Artificial Intelligence
 * [비즈니스를 위한 통화 요약 솔루션 비교 - B2B Sales 블로그, Callabo](https://callabo.ai/blog/business-sales-call-summary-solution-comparison)
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
+* [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -328,6 +329,7 @@ Artificial Intelligence
 * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
 * [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
 * [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
+* [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
 * [.CursorRules](https://dotcursorrules.com/)
   * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 
@@ -777,6 +779,7 @@ Artificial Intelligence
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
+  * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
