@@ -154,6 +154,7 @@ Product
 * [루나랩 수동 높이조절 책상 모션데스크 블랙 1200mm : LUNA LAB](https://lunalab.co.kr/desk/?idx=78)
 * [루나랩 모션데스크](https://www.youtube.com/watch?v=uouu4qcB5eA)
 * [프리미엄 모션데스크를 찾으신다면?! 오프레임 모션데스크 추천 - YouTube](https://www.youtube.com/watch?v=Zmi1VGAoowI)
+* FITURE [역시 새로 나온 게 좋습니다. 핏쳐 E2 모션데스크 - YouTube](https://www.youtube.com/watch?v=Pdl6j0Vh5HA)
 * [Refold - cardboard standing desk](http://www.refold.co/)
 * 시크릿랩 MAGNUS Pro 데스크 [완벽 선정리가 가능한 모션데스크 - YouTube](https://www.youtube.com/watch?v=ul-ACfL5mic)
 
