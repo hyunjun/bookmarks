@@ -1246,6 +1246,7 @@ App
   * [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
   * [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
   * [아웃룩(outlook) 일정을 구글 캘린더(google calendar)에서 보기](http://ohyecloudy.com/pnotes/archives/sync-outlook-calendar-with-google-calendar/)
+  * [챗GPT로 미국 주식 포트폴리오 자동으로 관리하는 방법 (feat 구글 스프레드 시트, Apps Script 코드 작성) - YouTube](https://www.youtube.com/watch?v=NN9pFgIHc50)
 * Calendar
   * [Google Calendar API 분석 및 시스템 구축 전략 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/88)
 * Google sheet
