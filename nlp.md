@@ -2369,6 +2369,7 @@ NLP
 * [browser-use: Open-Source Web Automation library with any LLM](https://github.com/gregpr07/browser-use)
   * [Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스 | GeekNews](https://news.hada.io/topic?id=17665)
   * [🤖Browser Use: AI가 스스로 웹을 탐색하고 상호작용하는 혁신적 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Browser-Use-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9B%B9%EC%9D%84-%ED%83%90%EC%83%89%ED%95%98%EA%B3%A0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%84%EA%B5%AC)
+  * [🌐🤖 Browser-Use WebUI: AI로 웹 브라우저를 제어하세요](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%F0%9F%A4%96-Browser-Use-WebUI-AI%EB%A1%9C-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EC%84%B8%EC%9A%94)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
   * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
