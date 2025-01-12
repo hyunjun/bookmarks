@@ -330,6 +330,7 @@ Artificial Intelligence
 * [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
 * [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
 * [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
+* [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
 * [.CursorRules](https://dotcursorrules.com/)
   * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 
