@@ -1187,6 +1187,13 @@ NLP
 * [한국어 언어모델은 얼마나 안전할까? 유해 프롬프트에 대한 대응 분석 | by 김희규 | Oct, 2024 | Medium](https://heegyukim.medium.com/%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%95%88%EC%A0%84%ED%95%A0%EA%B9%8C-%EC%9C%A0%ED%95%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EC%9D%91-%EB%B6%84%EC%84%9D-21d0cc1c902d)
 * [뉴테크프라임 » AIPromptSmarteasy 사용해 보기 – 나 교수와 글 읽기 – Prompt Engineering Guide 01](http://www.umlcert.com/aipromptsmarteasy_professor-na_prompt_engineering-02/)
 * [Fine-tuning 없이, 프롬프트 엔지니어링으로 메뉴 이미지 검수하기 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=YjdZL3Sc9hA)
+* [환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=GlvOHXJT_gI)
+  * [VidiGo 환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사)](https://vidigo.ai//share/summary/5f97da5b3e8d)
+  * [환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사) |](https://lilys.ai/digest/2278427)
+* [Prompts as code. Is this the future of prompting? | by Full Stack CISO | Medium](https://medium.com/@fullstackciso/prompts-as-code-is-this-the-future-of-prompting-aac7fadf69cc) Structured prompts
+  * The article discusses the concept of using prompts in the form of code, specifically JSON, to interact with AI models such as ChatGPT
+  * The author argues that this approach can improve the efficiency and accuracy of AI responses by providing clear and structured input
+  * The author also provides a sample JSON prompt for a security awareness training bot and discusses the potential advantages of using this approach, such as easier programmatic manipulation and versioning.
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
