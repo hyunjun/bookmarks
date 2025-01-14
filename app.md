@@ -1560,6 +1560,8 @@ App
 * [Fig](https://fig.io/) Fig adds VSCode-style autocomplete to your existing terminal
   * [커맨드라인 툴 fig : 네이버 블로그](https://blog.naver.com/pjt3591oo/223141196377)
   * [AWS, 맥용 터미널 확장도구 Fig 인수 | GeekNews](https://news.hada.io/topic?id=10594)
+* [FileNic: 파일닉 - 간단하게 자소결합](https://github.com/0126kjw/FileNic)
+  * [FileNic - macOS에서 한글 파일명 자소분리 문제 해결기 | GeekNews](https://news.hada.io/topic?id=18629)
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
