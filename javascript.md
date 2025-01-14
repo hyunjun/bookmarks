@@ -1531,6 +1531,8 @@ Javascript
 * [CORS가 캐시를 만났을 때 | 요즘IT](https://yozm.wishket.com/magazine/detail/1782/)
 * [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1/)
 * [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2/)
+* [**CORS is Stupid - Kevin Cox**](https://kevincox.ca/2024/08/24/cors/?ref=dailydev)
+  * [**CORS는 멍청하다 | GeekNews**](https://news.hada.io/topic?id=18671)
 
 # D3 -> [data visualization](data_visualization.md)
 
@@ -3738,6 +3740,8 @@ Javascript
 * [Node.js is Not Single-Threaded. Node.js is known as a blazingly fast… | by Tkachenko Evgeny | Medium](https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17)
 * [Node.js Delivers First LTS with require(esm) Enabled, Enhanc...](https://socket.dev/blog/node-js-delivers-first-lts-with-require-esm-enabled)
   * [Node.js, "require(esm)"이 활성화된 첫번째 LTS 발표 | GeekNews](https://news.hada.io/topic?id=18257)
+* [Node.js Now Supports TypeScript By Default | Total TypeScript](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
+  * [Node.js 타입스크립트를 기본으로 지원하기 시작 | GeekNews](https://news.hada.io/topic?id=18670)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
