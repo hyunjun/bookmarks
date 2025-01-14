@@ -208,6 +208,7 @@
 * [Rust를 Non-Rust 서버에서 사용해 성능 개선하기 | GeekNews](https://news.hada.io/topic?id=17549)
 * [Rust로 성공적인 재작성을 끝내고 배운 것들 | GeekNews](https://news.hada.io/topic?id=17572)
 * [Rust의 가장 미묘한 구문 | GeekNews](https://news.hada.io/topic?id=17593)
+* [Rust로 게임 개발: 1년 후 현황 | GeekNews](https://news.hada.io/topic?id=18648)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
