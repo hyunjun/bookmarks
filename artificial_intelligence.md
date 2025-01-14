@@ -466,6 +466,8 @@ Artificial Intelligence
   * [screenpipe - 데스크탑의 모든 데이터를 가져오는 API | GeekNews](https://news.hada.io/topic?id=18198)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
+* [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
+  * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
 * [steel-browser: 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure](https://github.com/steel-dev/steel-browser)
   * [Steel - AI 에이전트 & 앱을 위한 오픈소스 브라우저 API | GeekNews](https://news.hada.io/topic?id=18240)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
