@@ -131,6 +131,8 @@ Lisp
 * [Lisp — mm-vis-js](https://sushilshik.github.io/lisp.html)
 * [Common Lisp for the Curious Clojurian - Alan Dipert - Scicloj meeting 19 - YouTube](https://www.youtube.com/watch?v=44Q9ew9JH_U)
 * [Common Lisp Tutorial 1: Coin Toss - YouTube](https://www.youtube.com/watch?v=3GEAINRCbJ4)
+* [Why I Chose Common Lisp — Dan's Musings](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
+  * [내가 Common Lisp을 선택한 이유 | GeekNews](https://news.hada.io/topic?id=18706)
 
 ## Common Lisp Library
 * [cl-completions: A Common Lisp LLM completions library](https://github.com/atgreen/cl-completions)
