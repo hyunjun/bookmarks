@@ -439,6 +439,10 @@ Web
 * [정적? 동적? 웹사이트 화면은 어떻게 채워질까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2817/)
 * [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
   * (웬만한) 브라우저들의 기본 내장 기능인, 특정 웹페이지의 특정 구문을 하이라이팅 해주는 기능에 대한 글
+* [New Front-End Features For Designers In 2025 — Smashing Magazine](https://www.smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/)
+  * [2025년 디자이너를 위한 새로운 프론트엔드 기능들 | GeekNews](https://news.hada.io/topic?id=18627)
+* [A new learning experience on MDN | MDN Blog](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
+  * [MDN, 새로운 웹 개발 학습 섹션 공개 | GeekNews](https://news.hada.io/topic?id=18446)
 
 # Apache
 * installation
@@ -1222,6 +1226,7 @@ Web
   * [Htmx 2.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15401)
   * [HTMX does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
     * [HTMX는 CSP(Content Security Policy)와 잘 호환되지 않음 | GeekNews](https://news.hada.io/topic?id=15695)
+  * [Htmx의 미래 | GeekNews](https://news.hada.io/topic?id=18609)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 * [htmz: html with targeted manipulation zones](https://github.com/Kalabasa/htmz)
@@ -2209,6 +2214,8 @@ Web
   * [Simple HTTP benchmark with curl](http://blog.berezovsky.me/2012/09/simple-http-benchmark-with-curl.html)
 * [Apdex Score 그것이 알고싶다.. 개요 | by Jeongsk | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/apdex-score-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-bfdd27b8089d)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
+* [Killed by LLM](https://r0bk.github.io/killedbyllm/)
+  * [Killed by LLM | GeekNews](https://news.hada.io/topic?id=18618)
 * Lighthouse
   * [web.dev/learn/#lighthouse](https://web.dev/learn/#lighthouse)
     * [Learn Performance  |  web.dev](https://web.dev/learn/performance?hl=en)
