@@ -3342,6 +3342,7 @@ Programming
   * 그래서 2018년부터 차세대 플랫폼인 Cosmos를 개발하면서 Reloaded의 확장성과 안정성은 유지하면서 유연성과 개발 속도를 목표로 하면서 마이크로 서비스로 만들게 되었고 2023년 9월 전환 완료
   * [마이크로서비스로 넷플릭스 비디오 처리 파이프라인 재구축하기 | GeekNews](https://news.hada.io/topic?id=13341)
 * [The Resilience Patterns your Microservices Teams Should Know by Victor Rentea - YouTube](https://www.youtube.com/watch?v=IR89tmg9v3A)
+* [Amplifying Sources of Resilience: John Allspaw at QCon London - InfoQ](https://www.infoq.com/news/2019/04/allspaw-resilience-engineering/)
 * [**마이크로서비스에서 안정적인 운영을 위한 통신 구현 방안. 개요 | by Greg Lee | Feb, 2024 | Medium**](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%EC%8B%A0-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-2e60bbff49f0)
 * [Best of 2023: 5 Microservices Design Patterns Every DevOps Team Should Know - DevOps.com](https://devops.com/5-microservices-design-patterns-every-devops-team-should-know/)
   * [마이크로서비스 설계 패턴 5가지 | GeekNews](https://news.hada.io/topic?id=13215)
