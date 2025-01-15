@@ -938,6 +938,8 @@ Business
   * 5. 인정을 구하지 않는다
   * 6. 긍정적이고, 웃는다
   * 1~6번을 종합해서 한 단어로 표현하면, 내가 일하기 편했고 그래서 많이 배울 수 있었던 분들은 '성숙한 사람'
+* [Growth industries and the next big arenas of competition | McKinsey](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
+  * [차세대 경쟁 Arena 18가지 - 맥킨지 보고서 213p PDF | GeekNews](https://news.hada.io/topic?id=17582)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -4384,10 +4386,20 @@ Business
 * [비효율이 있는 곳엔 플랫폼 디자이너가 있다](https://toss.tech/article/platform-designer-work)
 * [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
-* [클릭 수를 줄인다고 좋은 UX가 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2822/)
+* [**클릭 수를 줄인다고 좋은 UX가 될까? | 요즘IT**](https://yozm.wishket.com/magazine/detail/2822/)
 * [UX개선 장기 로드맵 수립기 - "VOC많은 순"으로만 일하지 않기 위하여 - YouTube](https://www.youtube.com/watch?v=N6aRgKFjz0E)
 * [Common UX Mistakes Made by Business Developers | by Jason Teunissen | Prototypr](https://blog.prototypr.io/common-ux-mistakes-made-by-business-developers-e837d0b31379)
   * [사업 개발자들이 저지르는 UX 실수들](https://brunch.co.kr/@gusxn2/11)
+* [UI/UX 디자이너를 위한 12가지 혁신적인 AI 도구 - Toolify AI](https://www.toolify.ai/ko/top-ai-tools/12-game-changing-ai-tools-for-ui-ux-designers)
+* [UX 디자인 리서치에 활용할 수 있는 6가지 AI 도구](https://brunch.co.kr/@ghidesigner/149)
+  * [UX 디자인 리서치에 활용할 수 있는 6가지 AI 도구 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=37753969)
+  * [Looppanel | UX Research AI Analysis & Repository](https://www.looppanel.com/)
+  * [QoQo - your user experience AI companion](https://qoqo.ai/)
+  * [Synthetic Users: user research without the headaches](https://www.syntheticusers.com/)
+  * [Userdoc - Build better software requirements](https://userdoc.fyi/)
+  * [Synthesis Platform for User Research | Notably](https://www.notably.ai/)
+  * [Kraftful: AI for Product Builders. The Ultimate Copilot for User Feedback](https://www.kraftful.com/)
+* [2025년, UI디자인을 도와주는 AI서비스 삼대장](https://brunch.co.kr/@ghidesigner/190) Relume Creatie Visily
 * [re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아 | GeekNews](https://news.hada.io/topic?id=17571)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
