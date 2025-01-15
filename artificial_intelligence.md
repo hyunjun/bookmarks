@@ -783,6 +783,9 @@ Artificial Intelligence
   * HeyGen (유료) - 영상 번역 더빙 https://www.heygen.com
   * Suno (무료) - 음악 작곡 https://suno.com
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
+* [eliza | eliza](https://elizaos.github.io/eliza/)
+  * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
+  * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
   * [FELO 파워포인트 120장 만들어주는 괴물같은 생성형 AI 서비스 펠로 - YouTube](https://www.youtube.com/watch?v=XGnsPWrnRrY)
