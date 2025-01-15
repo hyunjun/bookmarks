@@ -1478,6 +1478,8 @@ Git
   * [Copilot 깃허브 코파일럿은 어떻게 작동하는가? | Daily Log](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
   * [Github Copilot 기능 톺아보기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/9417)
   * [쉽게 살 수 있을까 ? :: GitHub Copilot 소송..](https://hl1itj.tistory.com/263)
+  * [코파일럿, 1년 동안 써봤습니다](https://pxdstory.tistory.com/1825)
+    * [깃허브 코파일럿, 1년 동안 써보고 느낀 점들 | 요즘IT](https://yozm.wishket.com/magazine/detail/2931/)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
