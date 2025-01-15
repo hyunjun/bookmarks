@@ -209,6 +209,9 @@
 * [Rust로 성공적인 재작성을 끝내고 배운 것들 | GeekNews](https://news.hada.io/topic?id=17572)
 * [Rust의 가장 미묘한 구문 | GeekNews](https://news.hada.io/topic?id=17593)
 * [Rust로 게임 개발: 1년 후 현황 | GeekNews](https://news.hada.io/topic?id=18648)
+* [한국 러스트 사용자 그룹](https://rust-kr.org/)
+* [Rust Korea: 국내 러스트 사용자 커뮤니티](https://rust-lang.kr/)
+  * [Rust 커뮤니티를 Django 와 AI 로 만들었다고? | GeekNews](https://news.hada.io/topic?id=18617)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -400,6 +403,8 @@
 * [RustRover 소개 - JetBrains의 독립실행형 Rust IDE | The IntelliJ Rust Blog](https://blog.jetbrains.com/ko/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [rust-snags: Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
+* [rust-url-shortener: Rust URL Shortener](https://github.com/lee-lou2/rust-url-shortener)
+  * [10번의 고도화로 완성된 URL Shortener(Rust ver.) 오픈소스 | GeekNews](https://news.hada.io/topic?id=18602)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [shellfirm: Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification](https://github.com/kaplanelad/shellfirm)
