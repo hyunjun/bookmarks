@@ -468,6 +468,7 @@ Web
 * [SSO 1편: 오픈소스 SSO를 왜 도입하였나요. :: GS Retail Engineering](https://gsretail.tistory.com/13)
 * [SSO 2편: Aerobase (Keycloak) 클러스터링 & 커스텀 테마 :: GS Retail Engineering](https://gsretail.tistory.com/17)
 * [어드민 인증 서비스 구현 경험기. 안녕하세요. 서비스 플랫폼 팀 소속 백엔드 개발자 유가희입니다. 서비스… | by Kahee Yu | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%96%B4%EB%93%9C%EB%AF%BC-%EC%9D%B8%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84-%EA%B2%BD%ED%97%98%EA%B8%B0-8f933b38fc16) keycloak
+* [Let's understand the SSO Process Flow](https://www.linkedin.com/posts/progressivethinker_sso-security-technology-activity-7269355153323921408-2tVq/)
 * [Password-less apps: implementing WebAuthN by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=FUWLYC1z1LU)
 * [Keycloak](https://www.keycloak.org/)
   * [신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/2425/)
