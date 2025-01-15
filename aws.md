@@ -288,6 +288,7 @@ AWS
 * [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
 * [SSM Agent vs. ssh](https://andromedarabbit.net/ssm-agent-vs-ssh/)
 * [SSM Agent vs. ssh 2탄](http://andromedarabbit.net/ssm-agent-vs-ssh-2%ED%83%84)
+* [OTP를 이용하여 AWS SSM 사용 가능 환경 구성. 1. AWS 설정 | by rex.chun | Medium](https://medium.com/@7424069/otp%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-aws-ssm-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-17a6b494d73e)
 * [Where do you keep credentials for your Lambda functions? | by Davide de Paolis | HackerNoon.com | Medium](https://medium.com/hackernoon/where-do-you-keep-credentials-for-your-lambda-functions-cac746048480)
 * [AWS에서 NodeJS 환경 구축하고 NPM 모듈 설치하기](https://developer88.tistory.com/296)
 * [AWS FreeTier 제한 스펙과 사용량 확인하는 방법](https://developer88.tistory.com/295)
@@ -402,6 +403,7 @@ AWS
 * [Amazon QuickSight를 사용하여 SaaS 환경을 위한 멀티테넌트 애플리케이션 지원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/support-multi-tenant-applications-for-saas-environments-using-amazon-quicksight/)
 * [**Blux(구 Z.Ai)의 Amazon EKS 기반 AWS SaaS 아키텍처 주요 패턴 적용 사례** | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blux-adopting-aws-saas-architecture/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
+* [AWS MarketPlace 구독 오류에 대해 알아보자. 배경 | by rex.chun | Medium](https://medium.com/@7424069/aws-marketplace-%EA%B5%AC%EB%8F%85-%EC%98%A4%EB%A5%98%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-4f942a80f353)
 * [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [AWS SaaS Factory 프로그램](https://aws.amazon.com/ko/partners/programs/saas-factory/)
 * [블럭스가 전하는 AWS SaaS 전환의 성공 비결 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4%EA%B0%80-%EC%A0%84%ED%95%98%EB%8A%94-aws-saas-%EC%A0%84%ED%99%98%EC%9D%98-%EC%84%B1%EA%B3%B5-%EB%B9%84%EA%B2%B0-33488)
@@ -416,6 +418,7 @@ AWS
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 * [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html) AWS SSO
 * [AWS 크레덴셜 안전하게 사용하기 – AWS SSO – Lamanus' Archive](https://lamanus.kr/109)
+* [AWS SSO를 통한 Windows 접근(이제 비싼 솔루션은 그만!!) | by rex.chun | Medium](https://medium.com/@7424069/aws-sso%EB%A5%BC-%ED%86%B5%ED%95%9C-windows-%EC%A0%91%EA%B7%BC-%EC%9D%B4%EC%A0%9C-%EB%B9%84%EC%8B%BC-%EC%86%94%EB%A3%A8%EC%85%98%EC%9D%80-%EA%B7%B8%EB%A7%8C-15b039556b5b)
 * [Introduction to Analytics on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 시작](https://khw742002.tistory.com/32)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 1](https://khw742002.tistory.com/33?category=1006667)
@@ -529,6 +532,7 @@ AWS
 * [AI/ML을 기반으로 한 서버리스 라이브 스트리밍/VOD 서비스 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-serverless-live-streaming-vod-service-based-on-aiml/) Elemental
 * [모든 AWS API 엔드포인트에서 TLS1.2가 최소 TLS 프로토콜 레벨로 변경 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/tls-1-2-required-for-aws-endpoints/)
 * [효율적인 AWS CloudTrail 검색을 위한 데이터 파이프 라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloudtrail-convert-json-to-parquet/)
+* [AWS 모든 리전에서 AWS 이벤트 탐지 및 알람 가능한 아키텍처 구현 | by rex.chun | Medium](https://medium.com/@7424069/aws-%EB%AA%A8%EB%93%A0-%EB%A6%AC%EC%A0%84%EC%97%90%EC%84%9C-aws-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%83%90%EC%A7%80-%EB%B0%8F-%EC%95%8C%EB%9E%8C-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-542355eb966a) cloudtrail
 * [AWS Entity Resolution 정식 출시 – 앱 및 데이터 스토어 관련 레코드 매칭 워크플로 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
 * [New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
   * [AWS, 2024년 2월 1일부터 공인 IPv4 주소에 대해서 비용 부과 시작 | GeekNews](https://news.hada.io/topic?id=10186)
@@ -537,6 +541,7 @@ AWS
 * [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
 * [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
+* [AWS Detect sensitive data using Macie with fully event-driven architecture in all regions | by rex.chun | Medium](https://medium.com/@7424069/aws-detect-sensitive-data-using-macie-with-fully-event-driven-architecture-in-all-regions-89c10c405b50)
 * [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
 * [AWS Scale - by Neo Kim - System Design Newsletter](https://newsletter.systemdesign.one/p/aws-scale)
@@ -1492,6 +1497,7 @@ AWS
 * [따배EKS Amazon EKS 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M)
 * [Amazon EKS Upgrade Journey From 1.30 to 1.31- say hello to another cutee “Elli” | by Marcin Cuber | Sep, 2024 | Medium](https://marcincuber.medium.com/amazon-eks-upgrade-journey-from-1-30-to-1-31-say-hello-to-another-cutee-elli-d488fd6521eb)
 * [Announcing Amazon EKS Auto Mode - AWS](https://aws.amazon.com/ko/about-aws/whats-new/2024/12/amazon-eks-auto-mode/)
+* [How to use EKS IRSA in the most vulnerable way | by rex.chun | Medium](https://medium.com/@7424069/aws-how-to-use-eks-irsa-in-the-most-vulnerable-way-5d8f4c8d6d20) IRSA (IAM Roles for Service Accounts)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1619,6 +1625,7 @@ AWS
 * [AWS IAM 역할과 함께 신뢰 정책을 사용하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-use-trust-policies-with-iam-roles/)
 * [IAM 액세스 분석기 업데이트: 사용되지 않는 액세스 찾기, 배포 전 정책 확인 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/)
 * [AWS IAM Identity Center를 사용하여 Amazon OpenSearch Serverless에 대한 SAML 연동 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configure-saml-federation-for-amazon-opensearch-serverless-with-aws-iam-identity-center/)
+* [AWS IAM Roles Anywhere 적용하기 | by rex.chun | Medium](https://medium.com/@7424069/aws-iam-roles-anywhere-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-5f6db32e52f6)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
@@ -1939,6 +1946,7 @@ AWS
   * [VidiGo Functions vs Containers: The Serverless Landscape](https://vidigo.ai/share/summary/32519a52863f)
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
 * [AWS Lambda turns 10: A rare look at the doc that started it | All Things Distributed](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
+* [AWS EC2 인스턴스 프로파일 자동 부여 아키텍처 구현 | by rex.chun | Medium](https://medium.com/@7424069/aws-ec2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9E%90%EB%8F%99-%EB%B6%80%EC%97%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-8667724dd06b)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
@@ -2704,6 +2712,10 @@ AWS
   * [AWS 기술 블로그에 인터파크트리플 보안팀에서 보안 모니터링 시스템 (SIEM)을 만드는 프로젝트 진행](https://www.linkedin.com/posts/%EB%8F%99%ED%98%84-%EC%9D%B4-82826a124_%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%ED%8A%B8%EB%A6%AC%ED%94%8C%EC%9D%98-%EB%B3%B4%EC%95%88-%EA%B0%80%EC%8B%9C%EC%84%B1-%ED%99%95%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-siem-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-amazon-activity-7255088974078038018-zA9s/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [생성형 AI 워크로드에 대한 보안 사고 대응 방법 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/methodology-for-incident-response-on-generative-ai-workloads/)
+* [AWS How to know unused “security group rules” in 90 days? | by rex.chun | Medium](https://medium.com/@7424069/aws-how-to-know-unused-security-group-rules-in-90-days-ca5f895775f0)
+* [AWS 루트 엑세스키 생성하기 (Create AWS Root Access Key) | by rex.chun | Medium](https://medium.com/@7424069/aws-%EB%A3%A8%ED%8A%B8-%EC%97%91%EC%84%B8%EC%8A%A4%ED%82%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-7cce0966f112)
+* [AWS root access key를 사용하면 안되는 이유 - rex.chun - Medium](https://medium.com/@7424069/aws-root-access-key%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-508f97a043a0)
+* [AWS Delete the access keys. Now you can use Roles Anywhere! (feat, Terraform) | by rex.chun | Medium](https://medium.com/@7424069/aws-delete-the-access-keys-now-you-can-use-rolesanywhere-feat-terraform-e52dae120f73)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
 # TDD, Test
@@ -2911,11 +2923,14 @@ AWS
   * 최근 라이센스 변경과 분열로 문제가 더 심해지고 있기에 Kubernetes Operator 패턴이 강력한 대안이 될 수 있다고 제안
   * 글에는 동의하지만, 글쓴이가 Konfig라는 관련 도구를 만드는 회사라는 걸 감안 필요
 * [🔥🚀Terraform Zero to Hero Series! Master Infrastructure as Code with Real-World Demos! 🔥🚀 - YouTube](https://www.youtube.com/watch?v=Y5K_EPEGtQ0)
+* [Terraform AWS Rolesanywhere 버그 수정 - rex.chun - Medium](https://medium.com/@7424069/merged-terraform-aws-rolesanywhere-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95-3d25285df298)
+* [Trivy를 활용한 Terraform 코드 점검 문제점. TL;DR | by rex.chun | Medium](https://medium.com/@7424069/trivy%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-terraform-%EC%BD%94%EB%93%9C-%EC%A0%90%EA%B2%80-%EB%AC%B8%EC%A0%9C%EC%A0%90-59767a1d1e5f)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
     * Atlantis에서 Pull Request 승인을 받지 않으면 terraform apply를 할 수 없는데 실제로는 악의적 코드를 가져올 수도 있고 승인 요건을 우회할 수도 있고 Atlantis 설정으로 허용한 프로바이더를 지정해서 관리 가능
     * 리뷰 피로감을 줄이기 위해 Conftest와 OPA를 사용해서 일부 변경 사항은 승인 없이 할 수 있도록 하고 사람이 봐야 하는 변경만 승인이 필요하게 설정 가능
+* [cdktf 경험해보기(with Python). 동작방식 | by rex.chun | Medium](https://medium.com/@7424069/cdktf-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EA%B8%B0-with-python-c7fce1d3804d)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
