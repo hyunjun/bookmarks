@@ -183,6 +183,7 @@ Sports
   * velocity보다 중요한 건 location, location을 활용하는 pitch design
 * [KBO PS cWPA | KBO 리그 포스트시즌 우승확률 기여도](https://psodds.com/pswpct.html)
   * [한국시리즈 우승 확률 그래프, 우승 확률 기여도(cWPA) : MLBPARK](https://mlbpark.donga.com/mp/b.php?p=1&b=kbotown&id=202410280098762622&select=&query=&subselect=&subquery=&user=&site=&reply=&source=&pos=&sig=h4aRGftg6hRRKfX2hfjXHl-ALmlq)
+* [한국야구학회 - YouTube](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%EC%95%BC%EA%B5%AC%ED%95%99%ED%9A%8C)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
