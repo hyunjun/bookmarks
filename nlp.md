@@ -2245,6 +2245,7 @@ NLP
 * [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
   * [Abliteration 으로 LLM 무삭제 검열 해제하기 | GeekNews](https://news.hada.io/topic?id=15331)
 * [Solar 10.7B: 간단하지만 효과적으로 수리능력이 강화된 sLLM | Upstage 2023 | 조진욱 - YouTube](https://www.youtube.com/watch?v=DRq4ZGXCc6M)
+  * [솔라 프리뷰 프로 DocumentParse 테.. : 네이버블로그](https://blog.naver.com/ulsancoding/223639638559)
   * [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling - Google Slides](https://docs.google.com/presentation/d/1jSRbNQ5ZAjLu09BkLR1Mk7FbxCYozg13eRvHtOLkv9M/edit#slide=id.p)
   * [Solar-LLM-ZeroToAll/99_all.ipynb at main · UpstageAI/cookbook](https://github.com/UpstageAI/cookbook/blob/main/Solar-LLM-ZeroToAll/99_all.ipynb)
     * [AGI KR | 오픈소스인 `arize-phoenix[evals]` 프로젝트를 소개 합니다 | Facebook](https://www.facebook.com/groups/agikr/posts/2344760702531641/)
