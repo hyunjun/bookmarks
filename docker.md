@@ -706,6 +706,7 @@ Docker
 * [**컨테이너 환경을 위한 초기화 시스템 (tini, dumb-init)** | Swalloow Blog](https://swalloow.github.io/container-tini-dumb-init/)
 * [맥을 Docker remote host로 사용하기](https://puddingcamp.com/topic/using-an-imac-as-a-docker-remote-host)
 * [도커가 바꾼 개발바닥 - YouTube](https://www.youtube.com/watch?v=e0koWWAmXSk) 설명을 잘 함(역시 강의 만들만 함)
+* [자고 일어나니 Docker Captain이 되었다](https://ykarma1996.tistory.com/219)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2047,6 +2048,9 @@ Docker
 * [Distributed locks in Kubernetes with Scala | by Jonas Chapuis | Aug, 2024 | Medium](https://jonas-chapuis.medium.com/distributed-locks-in-kubernetes-with-scala-f3ad8253f894)
 * [쿠버네티스가 쉬워지는 컨테이너 이야기 — cpuset.cpu편 | by rex.chun | Oct, 2024 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-cpuset-cpu%ED%8E%B8-3ff523ea298b)
 * [쿠버네티스가 쉬워지는 컨테이너 이야기 — memory편. 이전 글 | by rex.chun | Oct, 2024 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-memory%ED%8E%B8-62cafabfd160)
+* [쿠버네티스가 쉬워지는 컨테이너 이야기 — cpuset.cpu편 | by rex.chun | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-cpuset-cpu%ED%8E%B8-3ff523ea298b)
+* [쿠버네티스가 쉬워지는 컨테이너 이야기 — cpuset.mem편 | by rex.chun | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-cpuset-mem%ED%8E%B8-f3a46268328e)
+* [쿠버네티스가 쉬워지는 컨테이너 이야기 — Namespace편 | by rex.chun | Jan, 2025 | Medium](https://medium.com/@7424069/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EA%B0%80-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EC%95%BC%EA%B8%B0-namespace%ED%8E%B8-5453624778bb)
 * [안정성과 유연성을 겸비한 카카오뱅크의 On-premise Kubernetes 구축 여정기 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=YVsex0H3e_E)
   * [안정성과 유연성을 겸비한 카카오뱅크의 On-premise Kubernetes 구축 여정기 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-72)
 * [월 유지비 1$ 미만으로 마참내 안죽는 on-premise 인프라를 만들었다](https://velog.io/@juunini/diehard-on-prem-infra-under-one-dollor)
