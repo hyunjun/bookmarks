@@ -740,6 +740,9 @@ App
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
+* [Buzee](https://buzee.co/)
+  * [buzee-tauri: A superfast full-text search application](https://github.com/gsidhu/buzee-tauri)
+  * [실패한 스타트업 Buzee 오픈 소스화 – 파일 검색 애플리케이션 | GeekNews](https://news.hada.io/topic?id=18282)
 * [codelite](http://codelite.org/) `brew cask install codelite`
 * [Config.Tips - Home](https://config.tips/)
 * [CoScreen: Collaborative Screen Sharing by Datadog](https://www.coscreen.co/)
