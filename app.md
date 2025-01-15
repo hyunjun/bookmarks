@@ -2006,6 +2006,7 @@ App
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
+* [egon.io](https://egon.io/)
 * [Eraser – The whiteboard for engineering teams](https://www.eraser.io/)
   * [Eraser AI](https://www.eraser.io/ai)
     * [DiagramGPT - Honest Review of Eraser AI - YouTube](https://www.youtube.com/watch?v=Tz84qAH_7bM)
