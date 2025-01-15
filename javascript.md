@@ -3738,6 +3738,7 @@ Javascript
   * It also provides best practices for using native Node.js APIs and leveraging NPM for code reuse
 * [node inspect로 얻은 profile 정보 분석하기](https://blog.naver.com/pjt3591oo/223633990755)
 * [Node.js is Not Single-Threaded. Node.js is known as a blazingly fast… | by Tkachenko Evgeny | Medium](https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17)
+* [Node.js v22.11.0 (Jod) - Active LTS 시작 | GeekNews](https://news.hada.io/topic?id=17494)
 * [Node.js Delivers First LTS with require(esm) Enabled, Enhanc...](https://socket.dev/blog/node-js-delivers-first-lts-with-require-esm-enabled)
   * [Node.js, "require(esm)"이 활성화된 첫번째 LTS 발표 | GeekNews](https://news.hada.io/topic?id=18257)
 * [Node.js Now Supports TypeScript By Default | Total TypeScript](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
@@ -5394,6 +5395,8 @@ Javascript
 * [State of React Native 2023](https://results.stateofreactnative.com/)
   * React Native 생태계의 현황을 2,400명에게 조사한 결과 공개. 플랫폼 API의 비중, 사용하는 라이브러리의 선호도, 관련 도구 등 통계
 * [React Navigation 소개 및 사용법 — Bonglog - 기록과 정리의 공간](https://devbksheen.tistory.com/entry/React-Navigation%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%9F%AC-%ED%99%94%EB%A9%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+* [New Architecture is here · React Native](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here) 0.76
+  * [(번역) 리액트 네이티브의 새로운 아키텍처가 출시되었습니다 | Ykss](https://ykss.netlify.app/translation/new_architecture_is_here/)
 * [CocoaPods 없이 React Native 개발하기](https://toss.tech/article/react-native-without-cocoapods)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
