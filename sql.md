@@ -376,6 +376,8 @@ SQL
 * [DB migration 방법론 :: GS Retail Engineering](https://gsretail.tistory.com/29)
 * [Number와 boolean 은 최대한 Not Null로 선언하기](https://jojoldu.tistory.com/718)
 * ['is not NULL'과 '!= NULL'은 다르다?](https://yeonyeon.tistory.com/307)
+* [SQL NULLs are Weird!](https://jirevwe.github.io/sql-nulls-are-weird.html)
+  * [SQL의 NULL은 이상함 | GeekNews](https://news.hada.io/topic?id=18679)
 * [디비 주문구조 설계 - 동시성 고려를 위한.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223187705803)
 * [디비 추적 가능한 테이블 설계 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223188329119)
 * [디비 게시판 구조 설계 - 게시글 관리 그.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223193892552)
