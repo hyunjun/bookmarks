@@ -380,6 +380,7 @@ Linux
 * [우분투에서 Rectangle처럼 단축키로 창 배치하는 프로그램 Tactile – 형우의 웹개발](https://mytory.net/archives/16735)
 * [Boost your development environment with Ubuntu Multipass - Let’s Debug It!](https://letsdebug.it/post/21-ubuntu-multipass/)
   * [Ubuntu Multipass로 개발 환경 강화하기 | GeekNews](https://news.hada.io/topic?id=16653)
+* [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/24.10/release/)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
