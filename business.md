@@ -3600,6 +3600,7 @@ Business
 * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://divercity.stibee.com/p/30/)
   * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%84%A4-%EB%AA%85%EC%9D%98-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%88%84%EA%B5%AC%EC%97%90%EA%B2%8C-%EC%96%B4%EB%96%A4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EB%A7%A1%EA%B8%B0%EB%8A%94%EA%B0%80-activity-7253961821169016832-iuLp/)
 * [5 Technical Skills Product Managers Should Have](https://www.codecademy.com/resources/blog/technical-skills-for-product-managers/)
+* [27가지 PM의 고민과 답변](https://minieetea.com/woowacon-2024-pm-mentoring/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
