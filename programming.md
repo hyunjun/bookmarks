@@ -8463,6 +8463,7 @@ Programming
   * 필수적인 지표를 수집하고, 선택 지표를 선택하여 사용할 수 있도록 설정
   * 테스트 자동화를 지속적으로 수행하면서 데이터가 쌓였고, 그 데이터를 시각화하여 실패율 측정
   * 실패율을 2% 미만으로 낮추는 것을 목표로 삼았고, 2분기에 목표 달성
+  * [QA팀이 테스트 자동화 지표로 ‘신뢰성’ 회복한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2823/)
 * [우아한집 자동화 아들 #우아콘2023 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=ZF0nTCOeb14)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
