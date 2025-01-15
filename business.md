@@ -3064,6 +3064,8 @@ Business
 * [목표 관리에 접목하면 좋은 방법 '운동선수'](https://brunch.co.kr/@xmetal/235) MBO, SMART
 * [소프트웨어 엔지니어가 OKR로 성장하는 방식 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/03/20/okr/)
 * [OKR을 잘 작성하기 위한 4가지 Metric :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/okr/)
+* [Hitting OKRs vs Doing Your Job – Jessitron](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
+  * [OKR 달성하기 vs. 업무 수행 하기 | GeekNews](https://news.hada.io/topic?id=18612)
 
 # Patent
 * 세기의 특허전쟁
@@ -4055,6 +4057,7 @@ Business
 * [한기용 - 스타트업 성장통: 나보다 똑똑한 사람을 뽑고 그 사람을 성공으로 이끌 수 있는가?](https://www.linkedin.com/posts/activity-6997403417153351680-xJE4/)
 * [스타트업 창업 1년간 배운 11가지 교훈 - wishket](https://blog.wishket.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85-1%EB%85%84%EA%B0%84-%EB%B0%B0%EC%9A%B4-11%EA%B0%80%EC%A7%80-%EA%B5%90%ED%9B%88/)
 * [미국에서의 창업, 그 3년의 짧은 기록들 | by Taeho Kim | Medium](https://medium.com/@xissy/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-%EC%B0%BD%EC%97%85-%EA%B7%B8-3%EB%85%84%EC%9D%98-%EC%A7%A7%EC%9D%80-%EA%B8%B0%EB%A1%9D%EB%93%A4-ad48d393652f)
+* [오픈AI 샘 알트만이 처음 창업할 때로 돌아간다면 꼭 듣고 싶은 말](https://eopla.net/magazines/25112#)
 * [두 회사의 이야기 – part.1(Recomio)](https://www.thestartupbible.com/2016/01/tale-of-two-startups-part-one-recomio.html)
 * [두 회사의 이야기 – part.2(한인텔)](https://www.thestartupbible.com/2016/01/a-tale-of-two-startups-part-two-hanintel.html)
 * [국산 소프트웨어의 강점](https://www.thestartupbible.com/2023/05/the-benefits-of-korean-software.html)
