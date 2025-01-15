@@ -599,6 +599,8 @@ Artificial Intelligence
 * [생성 AI 방향 바뀌었다… ‘온디바이스AI’의 현재와 미래 - 더밀크 | The Miilk](https://themiilk.com/articles/a5138ce16)
 * [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
 * [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
+* [A Goldilocks Introduction to AI Agents: Opportunities, Challenges, and Everyday Impact](https://www.michaeltefula.com/a-goldilocks-introduction-to-ai-agents-opportunities-challenges-and-everyday-impact/)
+  * [AI 에이전트 - 기회, 도전 과제, 그리고 일상에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=18727)
 * [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
 * ["AI 여친에게 월 1000만원을 쓴다" AI 연인 비즈니스 한판 정리](https://maily.so/founderstory/posts/6531f0e2)
 * [Can AI Startups Outrun Dot-Com Bubble Comparisons? Investors Aren’t So Sure. - WSJ](https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0)
