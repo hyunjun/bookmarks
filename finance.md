@@ -229,6 +229,11 @@ Finance
     * 총수수료 기준 한국투신탁운용 ACE미국S&P500, 국내ETF는 ISA/연금저축계좌로 2000만원까지, 2000만원 초과시 글로벌ETF
     * KB자산운용 KBSTAR미국나스닥100, 2000만원 초과시 글로벌ETF
   * [주가 상승 + 고배당 + 배당성장 3박자를 갖춘 우리나라 종목들로 구성된 희한한 ETF - YouTube](https://www.youtube.com/watch?v=qEzWKCnPOnQ) PLUS고배당주, 0.2846%
+  * ["은퇴 후 월 400씩 나옵니다" ISA계좌에 담을 최고의 ETF 4가지 | 곽병열 이사 4부 - YouTube](https://www.youtube.com/watch?v=eexRzkIqiEQ)
+    * ARIRANG 글로벌인플레대응ETF
+    * KODEX 미국S&P500TR
+    * TIGER 미국나스닥넥스젠
+    * KODEX 미국FANG플러스
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
 
