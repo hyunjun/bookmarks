@@ -3413,6 +3413,8 @@ NLP
   * [Graph RAG은 무엇인가?](https://turingpost.co.kr/p/graph-rag)
     * [RAG의 한계와 Graph RAG의 이점](https://www.linkedin.com/posts/jinsoo-lee33_graph-rag%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-rag%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-graph-rag%EC%9D%98-%EC%9D%B4%EC%A0%90-activity-7218047969256779779-BNHI/)
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
+* [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
+  * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
 * Ragas [Introduction | Ragas](https://docs.ragas.io/)
