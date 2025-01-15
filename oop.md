@@ -409,6 +409,11 @@
 * [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
 * [Implementing the Factory Pattern via Dynamic Registry and Python Decorators | by Geoffrey Koh | Medium](https://medium.com/@geoffreykoh/implementing-the-factory-pattern-via-dynamic-registry-and-python-decorators-479fc1537bbe)
 * [Factory Method Design Pattern in Python — Explained With Code | by Ankush Kumar Singh | Dec, 2021 | Python in Plain English](https://python.plainenglish.io/factory-method-design-pattern-in-python-94f9cfabc31c)
+* [Hierarchical Agent Teams Architecture - Factory Design Pattern으로 쉽게 Supervisor Architecture 구현하기 - YouTube](https://www.youtube.com/watch?v=Ft8lK2G5IFs)
+  * Hierarchical Architecture와 Factory Design Pattern을 사용하여 Supervisor Architecture를 구현하는 방법
+    * 이를 통해 나중에 다른 팀을 추가하는 작업을 간소화 가능
+  * 또한, Python 3.10 이하에서 unpacking 인자가 가변적인 경우 처리 방법
+  * 마지막으로, Factory Design Pattern을 사용하여 Supervisor Architecture를 쉽게 생성할 수 있는 함수를 구현하는 방법 학습
 * [Probably the Best Practice of Object-Oriented Python — Attr | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://medium.com/@k3no/organizing-your-python-code-ca5445843368)
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
