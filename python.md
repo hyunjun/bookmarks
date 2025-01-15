@@ -4778,6 +4778,8 @@ Python
   * [UV with Django](https://blog.pecar.me/uv-with-django)
   * [I’ve Switched to UV for Python, and So Should You - YouTube](https://www.youtube.com/watch?v=qh98qOND6MI)
   * [uv IS the Future of Python Packaging! 🐍📦 - YouTube](https://www.youtube.com/watch?v=8UuW8o4bHbw)
+  * [Uv has a killer feature you should know about | Lukas Valatka](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
+    * [Uv의 킬러 기능은 즉석(ad-hoc) 환경을 쉽게 만드는 것 | GeekNews](https://news.hada.io/topic?id=18711)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
