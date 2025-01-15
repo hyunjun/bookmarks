@@ -8086,6 +8086,7 @@ Programming
   * 증분 마이그레이션은 기능별로 나누는 수직 마이그레이션과 사용자별로 나누는 수평 마이그레이션
   * 증분 마이그레이션의 단점은 새 시스템과 레거시 시스템이 같이 동작하도록 하는 노력이 필요하다는 점
   * 프론트엔드를 마이그레이션 할 때는 리버스 프락시가 핵심으로 새 프론트엔드와 레거시 프론트엔드를 같이 배치해서 트래픽을 점진적으로 마이그레이션 가능
+* [이젠 보내줄 때가 되었다. 대규모 트래픽의 C++ 시스템 Java로 전환하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/20763/)
 * [아프니까 V2다 (1000만 서비스 다시 만들기)](https://eopla.net/magazines/17626)
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [Coaching Teams Through Team Change • Heidi Helfand • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bi1krLVAsGY)
