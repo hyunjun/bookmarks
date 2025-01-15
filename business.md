@@ -982,6 +982,7 @@ Business
   * 상태 업데이트 지양
   * 피드백 정기 모니터링
 * [원온원 6년의 기록: 시행착오와 배움들 · 어쩐지 오늘은](https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/)
+* [1on1 잘하는 요즘 조직은 이렇게 합니다. | 그로플 백종화 2부 H.PODCAST - YouTube](https://www.youtube.com/watch?v=Iw4N0HKmi_o)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -1336,6 +1337,7 @@ Business
   * [평가에 있어 가장 중요한 것은 무엇인가? - YouTube](https://www.youtube.com/watch?v=3j8oHeylSd0)
   * 각 분기에 한 일에 대해서 평가를 하는 것이 아니라, 지금의 상태가 계속된다면 연말에 어떤 평가를 받게 될 것인지의 '예측등급'을 표기... 평가결과는 절대로 서프라이즈가 되어서는 안된다
 * [성과 평가 면담에서 자주 발생하는 최악의 리더십](https://www.linkedin.com/posts/elfpenguin_uchqoo-uchqoorhwqxa-spfqtguchqoo-activity-7260565811012984832-a6rA/)
+* [평가를 할 때 중요하게 생각하는 것들](https://www.linkedin.com/posts/divercity_%ED%8F%89%EA%B0%80%EB%A5%BC-%ED%95%A0-%EB%95%8C-%EC%A4%91%EC%9A%94%ED%95%98%EA%B2%8C-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EA%B2%83%EB%93%A4-1-%ED%8F%89%EA%B0%80%EB%8A%94-%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%EA%B0%80-%EB%90%98%EC%96%B4%EC%84%9C%EB%8A%94-activity-7272046874675560448-JqSp/)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
@@ -2694,6 +2696,7 @@ Business
 * [개발자 리더로서 성장당한 썰 | 모닥불 EP.7](https://toss.tech/article/firesidechat_frontend_7)
 * [리더십은 사람들을 결집시켜 어떤 일을 이루도록 만드는 역량이다. 조직에서 부여한 직위와 권한과 상관 없이 언제든 발휘될 수 있고 발휘되어야 하는 역량](https://www.facebook.com/rheehot/posts/pfbid02FqH23g6DFA1CxJ8xWp98TXtT9ucSasSnQwKH9nN3WFAzh1cFBNs3RjvJ8aPjTpptl)
 * [Leadership development | According to renowned organization guru Warren Bennis, effective managers focus on immediate results, while visionary leaders inspire with a forward-t... | Facebook](https://www.facebook.com/groups/3938998896208789/posts/8441859679255999)
+* [천만 직장인 멘토의 조언, 명확하지 않은 목표 때문에 조직이 실패하는 겁니다. | KT 신수정 1부 H.PODCAST - YouTube](https://www.youtube.com/watch?v=qgfyiaiMMnE)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
