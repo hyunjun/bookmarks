@@ -871,6 +871,7 @@ Vision
 * [Python Computer Vision Guided Project - Tensorflow Rock Paper Scissor, Level 4, 35 minutes](https://www.datasimple.education/post/python-computer-vision-guided-project-tensorflow-rock-paper-scissor-level-4-35-minutes)
 * [Build Human Emotions Detection API with FastAPI Framework - YouTube](https://www.youtube.com/watch?v=c0y7OPP7Cf4)
 * [SIFT와 XFeat 사용해보기 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2360)
+* [XFeat를 사용한 월리를 찾기 구현](https://webnautes.tistory.com/2414)
 * [OpenCV와 XFeat를 사용한 pyQt5 이미지 매칭 프로그램](https://webnautes.tistory.com/2416)
 * [albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 ](https://github.com/albumentations-team/albumentations)
   * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
