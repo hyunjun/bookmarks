@@ -512,6 +512,8 @@ App
 
 # Browser
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
+* [FixBrowser](https://www.fixbrowser.org/)
+  * [FixBrowser - 처음부터 새로 개발된 경량 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=18443)
 * [Ladybird](https://ladybird.org/)
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
   * [Ladybird 브라우저, Swift 언어를 사용하기로 결정 | GeekNews](https://news.hada.io/topic?id=16284)
@@ -2088,6 +2090,7 @@ App
 * MindMeister [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/) basic plan은 mindmap 3개 제한
 * [Scrintal - Say goodbye to scattered thinking](https://scrintal.com/)
   * [노션 쓰고 싶은데 어려우신 분들은 이거 써보세요 떠오르는 생산성 앱 | 생산성앱, 마인드맵앱, 아이디어정리 - YouTube](https://www.youtube.com/watch?v=0MpNSwIvYw0)
+  * [아직도 생각 정리할 때 이걸 사용하지 않으세요? 생각의 정리를 깔끔학게 해줄 AI로 더 강력해진 Scrintal 소개합니다 - YouTube](https://www.youtube.com/watch?v=pIw38ALiD14)
 * [XMind - Mind Mapping Software](https://www.xmind.net/)
 
 # Multimedia
