@@ -3742,6 +3742,7 @@ Javascript
   * [Node.js, "require(esm)"이 활성화된 첫번째 LTS 발표 | GeekNews](https://news.hada.io/topic?id=18257)
 * [Node.js Now Supports TypeScript By Default | Total TypeScript](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
   * [Node.js 타입스크립트를 기본으로 지원하기 시작 | GeekNews](https://news.hada.io/topic?id=18670)
+* [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
