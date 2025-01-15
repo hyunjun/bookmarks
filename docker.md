@@ -2317,6 +2317,7 @@ Docker
   * [Scaling EDA Workloads with Kubernetes, KEDA & Karpenter • Natasha Wright • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=YWmu2SFNNVY)
     * [VidiGo Scaling EDA Workloads with Kubernetes, KEDA & Karp](https://vidigo.ai/share/summary/07055ab76dcb)
     * [Kubernetes, KEDA 및 Karpenter로 EDA 워크로드 확장하기 - 나타샤 라이트 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/840633)
+  * [Scale to zero on GKE with KEDA | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda?hl=en)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
