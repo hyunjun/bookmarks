@@ -2317,6 +2317,8 @@ NLP
 * [LLM 서비스 개발할 때 알아두면 좋을 3가지 툴 | 요즘IT](https://yozm.wishket.com/magazine/detail/2889/)
 * [crawshaw - 2025-01-06](https://crawshaw.io/blog/programming-with-llms)
   * [LLM과 함께 프로그래밍하는 방법 | GeekNews](https://news.hada.io/topic?id=18619)
+* [⭐️ Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
+  * [C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기 | GeekNews](https://news.hada.io/topic?id=18295)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
