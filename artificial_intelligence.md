@@ -259,6 +259,7 @@ Artificial Intelligence
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
 * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
+* [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
