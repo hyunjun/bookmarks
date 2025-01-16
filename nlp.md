@@ -1190,6 +1190,18 @@ NLP
 * [환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=GlvOHXJT_gI)
   * [VidiGo 환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사)](https://vidigo.ai//share/summary/5f97da5b3e8d)
   * [환각 줄이고, SW 서비스까지 만들 수 있는 프롬프팅은? (프롬프트 엔지니어 강수진 박사) |](https://lilys.ai/digest/2278427)
+  * 1️⃣ 사실과 의견을 명확히 구분
+    * "모르는 정보면 '모른다'고 답하라"는 규칙을 추가하면 환각이 줄어든다는 연구 결과
+    * → 팩트(fact)와 의견(opinion)을 구분해 명확하게 요청
+  * 2️⃣ 구조화된 텍스트 활용
+    * 줄글보다 구조화된 텍스트가 언어 모델의 이해도 향상
+    * → 주제, 지침, 항목별로 나누고, 예시 포맷을 제공하면 더 나은 응답
+  * 3️⃣ 코드 스위칭(Code-Switching) 기법
+    * 한국어와 영어를 혼합하여 사용하는 것이 때때로 더 정확한 답을 얻는 방법일 가능성
+    * → 예시: 로컬 개념(제주도 오메기떡)은 한국어로, 나머지는 영어로 구성
+  * 4️⃣ 셀프 크리틱(Self-Critique) 요청
+    * "최종 답변 전에 스스로 검증하라"는 프롬프트를 추가
+    * → 이렇게 하면 AI가 더 신중하게 답을 생성
 * [Prompts as code. Is this the future of prompting? | by Full Stack CISO | Medium](https://medium.com/@fullstackciso/prompts-as-code-is-this-the-future-of-prompting-aac7fadf69cc) Structured prompts
   * The article discusses the concept of using prompts in the form of code, specifically JSON, to interact with AI models such as ChatGPT
   * The author argues that this approach can improve the efficiency and accuracy of AI responses by providing clear and structured input
