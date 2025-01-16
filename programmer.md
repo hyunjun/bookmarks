@@ -12,6 +12,7 @@ Programmer
   * 해당 스트리머들을 모아놓고, 그들이 제작, 빌드하는 사이드 프로젝트를 간략하게 소개
 * [사이드프로젝트 개발부터 배포까지의 경험기 | Fernando 기술 블로그](https://fernando.kr/general/2022-03-13-side-project/)
 * [개발자라면 무조건 해야 하는 '이것'?- 사이드프로젝트!](https://www.slid.cc/ko/share/vdocs/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EA%B2%83-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2988a71fef2f4afabbb1a7afa524ed59)
+* [월 $500 이상 버는 사이드 프로젝트가 있나요? 2024 | GeekNews](https://news.hada.io/topic?id=13032)
 * [Programmers: Before you turn 40, get a plan B](http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/)
 * [How to increase your value as a developer](http://enterprisecraftsmanship.com/2015/01/17/how-to-increase-your-value-as-developerv/)
 * [TNF 10년, 블로그를 사랑한 물리학자 – 신정규 인터뷰](http://slownews.kr/39698)
@@ -371,6 +372,7 @@ Programmer
   * Terhorst-North emphasizes that the best programmers are made, not born, and their skills can be learned
   * He encourages attendees to strive for greatness, discusses the importance of iterating and not being afraid to make mistakes, and highlights the value of focusing on the product rather than the code itself.
 * 팀장이 되고서야 알게된 잘하는 개발자의 비밀 [2024 DEVCON - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1__mcn-iMEbQlecCKzAUVE1J1pTNX7qsNP0SkMNfj_6A/mobilepresent?slide=id.g307838d1ef2_1_11)
+* [프로그래밍이 꼭 그런 것만을 말하지는 않습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/2797/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
@@ -468,6 +470,8 @@ Programmer
 * Leslie Lamport [The Man Who Revolutionized Computer Science With Math - YouTube](https://www.youtube.com/watch?v=rkZzg7Vowao)
 * Margaret Hamilton [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+* [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
+  * [한세희 - * 디지털 게시판(BBS) 개발자, 현대 온라인 문화의 창시자가 라이프 퇴갤하심 디씨, 일베, 펨코, 레딧... | Facebook](https://www.facebook.com/hahn32/posts/pfbid02wL3aG8sMPYAiAjnENy5XLnBpWchy1yN3obLCrsbRCnkCvXy71bL8V4zuRV5jjD8ql)
 
 # Senior
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
