@@ -2734,6 +2734,23 @@ Programming
 * [Implementing Domain Driven Design with Spring by Maciej Walkowiak @ Spring I/O 2024 - YouTube](https://www.youtube.com/watch?v=VGhg6Tfxb60)
   * [VidiGo Implementing Domain Driven Design with Spring by M](https://vidigo.ai/share/summary/db07121dc762)
   * [Spring으로 도메인 중심 디자인 구현하기 @ Spring I\O 2024 by Maciej Walkowiak | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/819175)
+* [박성철 - 내가 도메인 주도 설계에서 가장 좋아하는 개념은 맥락 매핑(Context Mapping)이다. 에릭... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0iEsN7sFVP8d8HR9uqWpx1Mg8DohwA6TxQh3drBYutQeu5pdLa8uQ67PbKXAwAjgql)
+  * 도메인 주도 설계에서 가장 좋아하는 개념은 맥락 매핑(Context Mapping)
+  * 에릭 에반스의 도메인 주도 설계를 읽다가 맥락 매핑을 접했을 때 무릎을 탁 치면서 "이 사람 정말 고민을 많이 했고 실무에서 여러가지 검증도 거쳤구나"하는 생각
+  * 맥락 경계(Context Boundry)는 어쩔 수 없이 팀 규모에 맞추어지기 마련이라 맥락 매핑은 결국 팀의 역학 관계에 따라 달라질 수 밖에 없다. 순진한 이론이었다면 아마 파트너 관계(Partnership)와 핵심 도메인 공유(Shared Kernel) 같은 협력적인 모델로 끝냈을 것
+  * 맥락 매핑의 파트너 관계는 (편의상 한 팀이 한 맥락을 다룬다고 가정하면) 두 팀이 서로 R&R이 잘 나뉘어져있고 지극히 협력적이어서 아무런 충돌도 일어나지 않는다는 이상적인 상황을 전제
+    * 심지어, 핵심 도메인 공유는 코드를 공유
+    * 핵심 도메인 공유는 사실상 한 팀이 여러 맥락을 관리할 때나 사용가능한 방식
+  * 현실에서는 그런 아름다운 일은 일어나지 않는다. 대부분은 한 쪽 팀이 아쉽고 다른 팀은 급하지 않다. 이런 제공자-소비자 구도에서는 아쉬운 쪽이 손해
+  * 순응주의자(Conformist)는 기능을 제공하는 쪽에 힘이 있을 때 사용하는 측이 제공자의 결정에 무조건 따라야 하는 맥락 매핑 전략
+    * 소비하는 조직의 입맛이나 형편은 고려될 기회가 없다
+  * 부폐 방지 계층(Anticorruption Layer)는 순응하기를 거부하는 소비자
+    * 제공자에게 바라는 형태를 직접 구현해서 별도 계층으로 모듈화하고 자기의 지조를 지킨다
+  * 개방 호스트 서비스(Open-Host Service)는 위 두 경우와 달리 서비스를 제공하는 측이 약자일 때 사용
+    * 왕같이 행세하는 소비자에게 비위를 맞추면서도 서비스의 일관성을 유지하기 위해 호환 계층을 별도 모듈로 만들어 사용
+  * 화룡점정은 각자 도생(Separate Ways)
+    * 협력을 완전히 포기하는 방법
+    * 협력하는 비용이 협력을 통해 얻는 이득보다 적다면 그냥 각자 자기 길을 가는 것도 좋은 선택
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -7945,6 +7962,7 @@ Programming
 * [CTO, CEO의 입장에서 기술 부채는 언제 정리해야할까?](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstkrwwtrg-trzslh-activity-7207931094866817025-A0ma/)
 * [기술부채의 원래 의미는? | Warmblood TechBlog](https://warmblood-kr.github.io/dev-practice/2024/09/23/technical-debt.html)
 * [**조직 부채 해결책**](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EB%2525B6%252580%2525EC%2525B1%252584-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-2pije/)
+  * "조직 부채란, 리더가 해야 했지만 하지 않은 변화와 결정의 축적이다." - 스콧 벨스키(Scott Belsky), 비핸스(Behance) 창립자
 * [나이스 오류 - 핵심은 일을 시키는 사람이 혁신해야 한다](https://www.facebook.com/cjunekim/posts/pfbid0B4otSzBpBiE3cT8MkjbDDxWUZYnLPnriVyYvm9n5ueRFvWwEXEb59v4dWBzEzu2pl)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
 * [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
