@@ -1572,6 +1572,12 @@ Business
 * [잘못된 커뮤니케이션은 조직에 전방위적인 비용을 초래](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7219460878851584000-6903/)
 * [어려운 대화란 타고난 재능이 아닌 스킬 (Difficult Conversations are a Skill)](https://www.linkedin.com/posts/activity-7254020823672369153-MSLC/)
 * [어려운 대화란 타고난 재능이 아닌 스킬 (Difficult Conversations are a Skill) 2편](https://www.linkedin.com/posts/activity-7254382228086956034-dKMt/)
+* [Keeyong Han - 실리콘 밸리에 왜 한인 임원은 별로 없을까? 실리콘밸리 빅테크 회사에 토종 한국인들 중에... | Facebook](https://www.facebook.com/keeyong.han/posts/pfbid02iWV6PdH6i1KBj3ChUT3Wm4WaJfqdqoiRrVqGsUVfe7UwmFhanSBJriBjkJj2BpA8l)
+  * 커뮤니케이션이라 함은 구체적으로 크게 4가지가 있다고 생각
+    1. 겸손이 미덕인 문화에서 자라다보니 자기검열을 많이 하고 체면치레를 하기에 승진이나 커리어 발전에 대한 이야기를 빨리 꺼내지 못한다
+    2. 어려운 대화 스킬이 부족하다
+    3. 가벼운 대화를 시작하는 능력이 부족하다
+    4. 시작점이 늦다보니 더 보수적으로 가고 영향력을 키우고 도전을 하기 보다는 내향적으로 자기 기술 연마와 전문성에 더 신경쓰는 형태로 변질되는 것 같다
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -2944,6 +2950,15 @@ Business
 * [팀장이 실무와 매니징 하면서 너무 버거울때 (feat. 제갈량) | by Joon Won Lee | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5%EC%9D%B4-%EC%8B%A4%EB%AC%B4%EC%99%80-%EB%A7%A4%EB%8B%88%EC%A7%95-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%84%88%EB%AC%B4-%EB%B2%84%EA%B1%B0%EC%9A%B8%EB%95%8C-feat-%EC%A0%9C%EA%B0%88%EB%9F%89-691aa609c43f)
 * [우리가 익히 알고 있는 관리 방법론이 틀릴 수도 있다](https://www.linkedin.com/posts/jaehun-kim-7a885ba4_%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%9D%B5%ED%9E%88-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9D%B4-%ED%8B%80%EB%A6%B4-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8B%A4-%EA%B0%80%EB%81%94-%EB%A8%B8%EB%A6%BF%EC%86%8D%EC%97%90-activity-7256087770966761472-7_rN/)
   * 고용 구조가 유연하지 않은 한국과 같은 기업 환경에서 뛰어난 구성원에 집중하는 조직은 잘 굴러가지도 않을 뿐더러 지속 가능하지 않다
+* [(1) 여현준 - 윤석열에게 배우는 경영 상식 1. 전략의 성패는 천시(天時)·지리(地利)·인화(人和)에 달렸다. 윤의... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid029DKbx9P4pzWovuhs8KZswpZhqDxRswksqgWs51r5vYo1DoTXFU6Gfa1oygt8p1F5l)
+  1. 전략의 성패는 천시(天時)·지리(地利)·인화(人和)에 달렸다
+  2. 인화는 거래로 획득될 수 없다
+  3. 맹자는 천시를 얻어도 지리를 얻은 것만 못하고, 지리를 얻어도 인화를 얻은 것만 못하다 했다. 천시는 하늘의 때, 내가 통제할 수 없는 것들을 의미한다. 지리는 땅의 이득, 내가 통제할 수 있는 것들을 의미한다. 인화는 사람 사이의 화목으로 인한 단결을 의미한다
+  4. 인화는 도덕으로 획득된다
+  5. 설득의 3요소
+  6. 명태균은 마케터가 아니다
+  7. 내란의 기동성 뒤에는 TF가 있다
+  8. 쇠퇴하는 조직의 문화, 조직 침묵
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
