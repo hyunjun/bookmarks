@@ -464,6 +464,8 @@ Elixir
     * [Phoenix 1.7 with Svelte. Cybernetically enhanced Phoenix Web… | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
   * [live_svelte: Svelte inside Phoenix LiveView with seamless end-to-end reactivity](https://github.com/woutdp/live_svelte)
     * [Rewriting Strange Leaflet in Phoenix and LiveSvelte · Strange Leaflet](https://www.strangeleaflet.com/blog/rewriting-strange-leaflet-in-phoenix-and-livesvelte)
+    * [Erlang/Elixir Korea | 엘릭서 생활 잘 하고 있으신지요 | Facebook](https://www.facebook.com/groups/elixir.korea/posts/3334634456671204/)
+      * [A handy script to install live_svelte for Phoenix framework projects. · GitHub](https://gist.github.com/bus710/9967c776a1d19254fea2741fc44b370f)
   * [potion_shop: A vulnerable Elixir and Phoenix application for learning web security](https://github.com/securityelixir/potion_shop)
     * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
