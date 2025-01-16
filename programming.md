@@ -4558,6 +4558,8 @@ Programming
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
+* [**geeknight 2004 긱뉴스 밋업 후기**](https://www.winterjung.dev/2024-geeknews-meetup-summary/)
+    * [GeekNight 2024 긱뉴스 밋업 후기 | GeekNews](https://news.hada.io/topic?id=18289)
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
   * [EMOCON 2016 F/W 아카이브](https://github.com/weirdmeetup/emocon/tree/gh-pages/2016fw/slides)
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
