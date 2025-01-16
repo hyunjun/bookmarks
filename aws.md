@@ -736,6 +736,8 @@ AWS
 * [AWS 서비스 파트너와 함께 구축한 타이거컴퍼니의 Amazon Bedrock 기반 문서 질의 챗봇 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tigercompany-built-ai-document-chatbot-with-aws-service-partner-based-on-amazon-bedrock/)
 * [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
 * [Amazon Bedrock과 Amazon OpenSearch를 활용한 hy 프레딧의 생성형 AI 기반 검색 서비스 구현 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementation-of-an-advanced-search-service-with-generative-ai-on-fredit/)
+* [99.8% 정확도를 가진 이미지 자동 검수 기능 구현하기 - 유주형, CJ올리브영 :: AWS Community Day 2024 - YouTube](https://www.youtube.com/watch?v=zYZHCtjDbmU&list=PLX2fs3661XpPCc9wfHkc16TSs4DsNWL6R&index=20)
+  * [99.8% 정확도를 가진 이미지 자동 검수 기능 구현하기 - 유주형.pdf](https://drive.google.com/file/d/1f_yWJQK06uY_YgG4QVmWloVGfoFDnQvw/view)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
