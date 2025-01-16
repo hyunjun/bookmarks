@@ -181,6 +181,7 @@ Google Cloud Platform GCP
 * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
 * [Gemini 2.0의 동영상과 이미지 비전 기능 : 네이버 블로그](https://blog.naver.com/ulsancoding/223696043077)
   * [Gemini2_vision.ipynb의 사본 - Colab](https://colab.research.google.com/drive/1VRG_gPtBOhcmKz61ANYOw6KAWM0UkUp0?usp=sharing)
+* [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
 * [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
 * [tldraw computer](https://computer.tldraw.com/)
   * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
