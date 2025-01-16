@@ -188,3 +188,4 @@ Concurrency
 * [멀티 스레드 프로그래밍 #2 가장 쉽게 설명한 Active Object 패턴 | 와탭 블로그](https://www.whatap.io/ko/blog/171/index.html)
 * [백엔드 개발자들이 알아야할 동시성 3 — 쓰레드와 컨텍스트 스위치 | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-3-%EC%93%B0%EB%A0%88%EB%93%9C%EC%99%80-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%98-79e976d0e478)
 * [쓰레드가 도대체 뭔가요? | K리그 프로그래머](https://jeho.page/essay/2024/07/22/threads.html)
+* [멀티스레딩 마스터하기: 10년의 여정 - YouTube](https://www.youtube.com/watch?v=yl8_ZRDA5pw)
