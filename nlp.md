@@ -3045,6 +3045,7 @@ NLP
   * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
   * [Mistral Large 모델 공개 | GeekNews](https://news.hada.io/topic?id=13541)
   * [미스트랄 Mistral AI 모델 무료플랜 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223630231649)
+  * [Free Intro to Mistral AI Tutorial: Learn to build intelligent apps in this course by Mistral AI and Scrimba](https://scrimba.com/intro-to-mistral-ai-c035)
   * [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
     * [Codestral - Mistral의 코드 생성 AI 모델 | GeekNews](https://news.hada.io/topic?id=15082)
   * [Le Chat - Mistral AI](https://chat.mistral.ai/chat)
