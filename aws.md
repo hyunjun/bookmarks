@@ -2925,6 +2925,7 @@ AWS
 * [🔥🚀Terraform Zero to Hero Series! Master Infrastructure as Code with Real-World Demos! 🔥🚀 - YouTube](https://www.youtube.com/watch?v=Y5K_EPEGtQ0)
 * [Terraform AWS Rolesanywhere 버그 수정 - rex.chun - Medium](https://medium.com/@7424069/merged-terraform-aws-rolesanywhere-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95-3d25285df298)
 * [Trivy를 활용한 Terraform 코드 점검 문제점. TL;DR | by rex.chun | Medium](https://medium.com/@7424069/trivy%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-terraform-%EC%BD%94%EB%93%9C-%EC%A0%90%EA%B2%80-%EB%AC%B8%EC%A0%9C%EC%A0%90-59767a1d1e5f)
+* [Terraform과 AWS Well-Architected Framework를 이용한 마이그레이션과 현대화 | by 이준호(CTC) | Cloud Villains | Medium](https://medium.com/cloudvillains/aws-partner-summit-seoul-hands-on-%EC%84%B8%EC%85%98-%EC%A7%80%EC%9B%90-%ED%9B%84%EA%B8%B0-well-architected-%EC%97%90-%EA%B8%B0%EB%B0%98%ED%95%98%EC%97%AC-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-a5a389a61bd6)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
