@@ -5230,6 +5230,7 @@ Javascript
 * [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
 * [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 * [React Native tutorial v0.49](https://www.youtube.com/playlist?list=PLWBrqglnjNl2yaCcp0HEAWp6zBIfingZ-)
+* [React Native 강의 - YouTube](https://www.youtube.com/playlist?list=PLevCFCDdG0UXoNxNKVC7PZLGjiz4mtnzs)
 * [React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
 * [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 * [CS50's Mobile App Development with React Native | Harvard University](https://online-learning.harvard.edu/course/cs50s-mobile-app-development-react-native)
