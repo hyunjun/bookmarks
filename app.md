@@ -2230,6 +2230,12 @@ App
 
 # Note
 * [The 8 Best Visual Note Apps - Linked Notes meet Mindmaps - YouTube](https://www.youtube.com/watch?v=TEg0J6FKa5A)
+* [(2) Jinho Yoo - 두둥~ | Facebook](https://www.facebook.com/jinho.yoo.10/posts/pfbid04zNA6VL3Sr12FJD7UALa3NyUpXfJiJ61f313rd34Tpi6pGQkNAWzw1jQZEYkU2KDl)
+  * [한국에서 발견된 특이한 공부 습관? 서울대가 이 상태라면 더 이상 천재는 없다│해외 한국 교육 반응│다큐프라임│#골라듄다큐 - YouTube](https://www.youtube.com/watch?v=CNrzvdcU9SE)
+  * [Notes-on-Note-Taking-qrs2kq.pdf](https://u.osu.edu/rhodes-disalvo.1/files/2017/03/Notes-on-Note-Taking-qrs2kq.pdf) 하버드 대학의 학습지원센터에서 이상적인 노트 필기 방법을 정리한 글
+    * 작업기억 공간의 한계 때문에 요약식 필기를 추천하지만, 복습할 시간이 충분하다면 강사의 모든 말을 필사하는 방법도 좋다
+  * [Note-taking with computers: Exploring alternative strategies for improved recall](https://psycnet.apa.org/record/2012-27380-001) 세 가지 실험을 통해 노트 필기 전략과 기억력과의 관계를 조사
+    * 결론: 작업 기억력이 좋지 않은 사람도 컴퓨터를 이용한 필사 후 복습 방식을 택하면 더 좋은 점수를 받을 수 있음
 * [AI | AFFiNE - All In One KnowledgeOS](https://affine.pro/ai)
   * [AFFiNE AI: Notion meets Infinite Canvas! - YouTube](https://www.youtube.com/watch?v=om6jgd30MBs)
 * anytype [The Everything App](https://anytype.io/)
