@@ -76,6 +76,7 @@ Finance
   * 파킹 통장은 은행에서 만들어지며 예금자 보호
     * 상방이 닫혀있는 구조이기 때문에 비추천
     * 예금자 보호가 되기 때문에 하방이 꽉 막혀있음
+* [광고❌ 아직도 안하고 계세요? 🤔 목돈은 이렇게 굴리세요ㅣ목돈굴리기ㅣ파킹통장 ,CMA, 채권 금리 비교 & 상품 추천 - YouTube](https://www.youtube.com/watch?v=jaMI4NrRYcY)
 * ISA
   * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
   * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8)
@@ -85,6 +86,7 @@ Finance
     * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/914043)
   * [당장 안 만들면 손해, 만능 계좌 ‘ISA’의 모든 것 - PUBLY](https://publy.co/content/7609)
   * [ISA 계좌 지금 당장 만들어야합니다ㅣ나수지의 글로벌ETF - YouTube](https://www.youtube.com/watch?v=wZk9NfqbW4c)
+  * ["한국 신용도 추락?" 예적금 말고 ISA계좌에 '이것' 사모으세요. 노후준비 끝입니다｜마경환 대표 4부 - YouTube](https://www.youtube.com/watch?v=hBzQqn4NPaM)
 * [제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면) - YouTube](https://www.youtube.com/watch?v=QGHZgpwO-4k)
   * [VidiGo 제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면).mp4](https://vidigo.ai/share/summary/749fd46d76f2)
   * [평범한 사람도 목돈 모으는 최적의 5가지 방법 ✅ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927504)
@@ -107,6 +109,7 @@ Finance
   * [예적금말고 이런 상품도 있습니다. 12분만 공부해보세요. - YouTube](https://www.youtube.com/watch?v=O7hJ5J1mlxo) 장외채권, ELB/DLB, 단기채권 ETF/펀드
 * [제발 예적금에 돈 묵히지 마세요. 여기에 넣으면 미래에 큰 부가 될겁니다 (전 IBK 기업은행 부지점장 김성일) - YouTube](https://www.youtube.com/watch?v=lB8Yu9fXEY8)
   * [급여 250만원 직장인, 월 500만원 '연금'흐름 만드는 3가지 방법](https://weolbu.com/community/486631)
+* [경제적자유는 6억이면 됩니다 - YouTube](https://www.youtube.com/watch?v=ijDCvGR7Zvs)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
@@ -144,16 +147,19 @@ Finance
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
 * [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
 * [이 좋은 걸 왜 지금에서야…퇴직연금 묵혀둔 직장인 희소식 | 한국경제](https://www.hankyung.com/article/202410078863i)
+* ["연평균 8% 찍었어요" 매달 여윳돈 75만원씩 이것 사 모으세요. 노후 돈 걱정 끝입니다 | 이상건 센터장 3부 #퇴직연금 - YouTube](https://www.youtube.com/watch?v=0z96YHJIK-4)
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)
+* [놀아도,잠든 사이에도 매주 달러가 입금 되는 배당주 통장 만들기 - YouTube](https://www.youtube.com/watch?v=_V5SBvjO82Q)
 * [美 리츠 투자하면 매달 배당 따박따박…월세 받는 건물주 같아 | 한경닷컴](https://www.hankyung.com/finance/article/2021061334531)
 * [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 * [경제적자유를 빠르게 달성시켜줄 최고의 배당주를 알려드립니다 (( 나는 배당투자로 매일 스타벅스커피를 공짜로마신다)) - YouTube](https://www.youtube.com/watch?v=dOw_fozrQOQ)
 * [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
   * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
 * [맥쿼리인프라, 미국 배당주보다 훨씬 나은 이유 (ft. 리얼티인컴, VNQ) - YouTube](https://www.youtube.com/watch?v=53EX7C6wjNU)
+* ["예적금 대신 꾸준히 사모을 만한 배당주" 25년간 꾸준히 오른 배당주 알려드립니다 (투자전문가 광화문금융러) - YouTube](https://www.youtube.com/watch?v=dltjhEkE8hU)
 * [메리츠금융지주, 미국 기업보다 주주환원에 진심인 곳 (ft. 코카콜라, JP모간체이스) - YouTube](https://www.youtube.com/watch?v=7I12IOR-VFc)
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
 * [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
@@ -166,6 +172,7 @@ Finance
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
 * [💵 미국채권을 직접 사는 방법ㅣ개별채권 - YouTube](https://www.youtube.com/watch?v=QNB14iUQ9T8)
 * [미국채 투자, 내가 이제부터 적극적으로 매수하려는 이유 (ft. TLT, TMF, ACE미국30년국채액티브) - YouTube](https://www.youtube.com/watch?v=UZWW92e-0jU)
+* [80% 빠졌으면 80% 먹어야죠. 미국채권투자는 ACE30년장기채로 졸업하세요. - YouTube](https://www.youtube.com/watch?v=PY8YRcy1cik) TMF TLT
 * [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg)
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [내년 상반기부터 10만원부터 살 수 있는 ‘개인 전용 국채’ 투자법](https://v.daum.net/v/20230905151547160)
@@ -235,6 +242,7 @@ Finance
     * KODEX 미국S&P500TR
     * TIGER 미국나스닥넥스젠
     * KODEX 미국FANG플러스
+  * [미국 AI반도체 대장만 모은 ETF가 나왔습니다! (ft.SOL 미국AI반도체칩메이커) - YouTube](https://www.youtube.com/watch?v=8kNThGpximc)
   * [ETF 랭킹 - 시가총액](https://www.etfcheck.co.kr/mobile/rank/marketCap)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
