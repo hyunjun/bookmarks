@@ -3026,6 +3026,8 @@ Programming Books
   * [Software Architectures, Team Topologies & Complexity Science • James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=TgFSdEP9gcc)
     * [VidiGo Software Architectures, Team Topologies & Complexi](https://vidigo.ai/share/summary/def6bb928a0f)
     * [소프트웨어 아키텍처, 팀 토폴로지 및 복잡성 과학 - 제임스 루이스 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/830507)
+  * [Dissecting 'architecting for fast, sustainable flow'](https://microservices.io/post/architecture/2024/04/29/dissecting-architecting-for-fast-flow.html)
+    * [LinkedIn Chris Richardson 페이지: I've written a new article: Dissecting 'architecting for fast, sustainable…](https://www.linkedin.com/posts/pojos_ive-written-a-new-article-dissecting-architecting-ugcPost-7191096169119338496-lHDt)
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라 문325.21-리58ㅅ
   * ★★★★☆ 2022.05.01~05
