@@ -8916,6 +8916,8 @@ Programming
   * [FEConf 2024 A1 Airbridge SDK팀이 순수한 Unit Testable한 코드를 작성하는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1185342)
 * [Canon TDD - by Kent Beck - Software Design: Tidy First?](https://tidyfirst.substack.com/p/canon-tdd)
   * [TDD는 테스트 작성법이 아니라 개발 방법이다. 많은 사람이 테스트에 지나친 비중을 둔다](https://www.linkedin.com/posts/fupfin_canon-tdd-activity-7259729812246704128-zfYK/)
+* [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/)
+  * [rqlite가 테스트하는 방법 | GeekNews](https://news.hada.io/topic?id=18772)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
