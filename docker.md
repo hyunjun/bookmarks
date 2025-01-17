@@ -597,6 +597,7 @@ Docker
 * [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
 * [컨테이너 표준 규격 OCI, 컨테이너 런타임 표준 CRI 이해하기](https://blog.naver.com/pjt3591oo/222992244712)
 * [What Is a Standard Container (2021 edition) - Ivan Velichko](https://iximiuz.com/en/posts/oci-containers/) OCI
+* [도커와 OCI 컨테이너를 사용해야 하는 이유 | ITWorld](https://www.itworld.co.kr/article/3803638/%EB%8F%84%EC%BB%A4%EC%99%80-oci-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0.html)
 * [원리부터 파악하는 컨테이너 이미지 PULL (w/ curl) :: iWan](https://iwanhae.tistory.com/3)
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
@@ -1607,6 +1608,7 @@ Docker
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Custom Controller 2 - Kubebuilder Architecture](https://ahnseungkyu.com/313)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Custom Controller 3 - CronJob 구현하기](https://ahnseungkyu.com/314)
 * [쿠버네티스 커스텀 리소스 정의하고 관리하기(feat.컨트롤러)](https://techblog.lycorp.co.jp/ko/define-and-manage-kubernetes-custom-resources-with-controller)
+* [Kubernetes Job과 커스텀 컨트롤러를 활용한 배치 처리 경험기](https://d2.naver.com/helloworld/4142663)
 * [‘다중 클러스터 쿠버네티스’의 과제 해결하려면... 고려해야 할 4가지 - CIO Korea](https://www.ciokorea.com/news/219639)
 * [블로그 | 쿠버네티스는 더 저렴하다, 그러나 무엇보다 더? - CIO Korea](https://www.ciokorea.com/news/290965)
 * [Using K6 test + Docker + Reports. So, you have unit tests and integration… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5)
