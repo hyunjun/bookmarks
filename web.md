@@ -627,6 +627,8 @@ Web
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
 * [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
+* Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
+  * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
@@ -1078,6 +1080,7 @@ Web
     * 7. CSS 파싱
     * CSS 까지 적용된 결과를 사용자에게 보여줌
   * Vanilla Extract 같은 일부 라이브러리가 기존 CSS-in-JS 라이브러리들보다 빠른 이유는 런타임에서 CSS 를 생성하는 것이 아니라 컴파일 단계에서 미리 생성하기 때문
+* [devup-ui: JSX Zero-Runtime UI Styling Library](https://github.com/dev-five-git/devup-ui?tab=readme-ov-file) CSS-in-JS preprocessor
 * [mincho: Natural CSS in the Typescript](https://github.com/mincho-js/mincho) design system 디자인 시스템을 만들기위한 CSS in JS 프레임워크
   * [Mincho | Disquiet\*](https://disquiet.io/product/mincho)
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
