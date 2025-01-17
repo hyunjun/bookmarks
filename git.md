@@ -750,6 +750,7 @@ Git
   * [git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
   * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
   * [Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1503)
+  * [Git 기본 브랜치를 master에서 main으로 설정하기 - Git을 사용할 때, 기본 브랜치를 master에서 main으로 변경하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/git/default-branch/)
   * [이상현 IN 베를린 :: 깃헙의 main 브랜치에 반대하는 이유](https://iamsang.com/blog/2020/11/11/github-and-main-branch/)
   * [GitHub에서 기본 브랜치 변경하는 명령어 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1598)
   * [Git branch 톺아보기 - branch를 확인/생성/삭제](https://xtring-dev.tistory.com/entry/Git-Git-branch-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-branch%EB%A5%BC-%ED%99%95%EC%9D%B8%EC%83%9D%EC%84%B1%EC%82%AD%EC%A0%9C)
