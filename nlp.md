@@ -1206,6 +1206,7 @@ NLP
   * The article discusses the concept of using prompts in the form of code, specifically JSON, to interact with AI models such as ChatGPT
   * The author argues that this approach can improve the efficiency and accuracy of AI responses by providing clear and structured input
   * The author also provides a sample JSON prompt for a security awareness training bot and discusses the potential advantages of using this approach, such as easier programmatic manipulation and versioning.
+* [프롬프트 엔지니어링 - YouTube](https://www.youtube.com/playlist?list=PLlqh_fi1f9ZFyBddaeaSC0-pOHAAm-UpG)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -3158,6 +3159,8 @@ NLP
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
+  * [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/)
+    * [Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 | GeekNews](https://news.hada.io/topic?id=18764)
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
