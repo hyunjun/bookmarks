@@ -344,6 +344,9 @@ Statistics
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
 * [Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis (Multivariate Applications Series)](https://www.amazon.com/Understanding-New-Statistics-Meta-Analysis-Multivariate/dp/041587968X)
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
+* [An Introduction to Statistical Learning](https://www.statlearning.com/)
+  * [기초부터 다지는 통계학 교과서 with 파이썬 - 예스24](https://www.yes24.com/Product/Goods/140042388)
+  * [botlnec.github.io/islp/](https://botlnec.github.io/islp/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
   * [Python code for Computer Age Statistical Inference by Bradley Efron and Trevor Hastie](https://github.com/jrfiedler/CASI_Python)
