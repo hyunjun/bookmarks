@@ -778,6 +778,10 @@ Artificial Intelligence
   * Claude (무료) - 대화형 인공지능 https://claude.ai
   * Perplexity (무료) - 웹 검색 엔진 AI https://www.perplexity.ai
   * SciSpace (무료) - 논문 검색 엔진 AI https://typeset.io/ko
+    * [SciSpace (1) overview | Pega Devlog](https://jehyunlee.github.io/2024/12/30/General-72_scispace/)
+    * [SciSpace (2) Literature Review | Pega Devlog](https://jehyunlee.github.io/2025/01/04/General-73_scispace_review/)
+    * [SciSpace (3) Find Topics | Pega Devlog](https://jehyunlee.github.io/2025/01/05/General-74_scispace_topic/)
+    * [SciSpace (4) My Library | Pega Devlog](https://jehyunlee.github.io/2025/01/18/General-75_scispace_mylibrary/)
   * Lylis (무료)  - 유튜브 영상요약 https://lilys.ai
   * Tiro (유료) - 대화 기록 및 요약 https://tiro.ooo/ko
   * Napkin AI (무료) - 도식화 생성 https://www.napkin.ai
