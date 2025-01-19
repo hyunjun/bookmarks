@@ -280,6 +280,8 @@ Monitoring
 * [lmnr: Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24](https://github.com/lmnr-ai/lmnr)
   * [Laminar - LLM앱을 위한 오픈소스 Observability & 분석 플랫폼 | GeekNews](https://news.hada.io/topic?id=18329)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
+* [nestjs-grafana](https://github.com/MinChangJeong/nestjs-grafana)
+  * [실시간 로그와 메트릭 모니터링: Grafana, Loki, Promtail, Prometheus 통합하기](https://jminc00.tistory.com/91)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
   * [리멤버는 서비스 모니터링을 어떻게 하고 있을까? - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/how-remember-monitors/)
   * [Python/Django NewRelic 셋업 및 환경 분리하기.](https://blog.doosikbae.com/174)
