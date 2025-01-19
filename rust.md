@@ -422,6 +422,8 @@
   * [Will Tauri Be an Electron Killer? | by Zachary Lee | Better Programming](https://betterprogramming.pub/will-tauri-be-an-electron-killer-38fd6478004)
   * [Tauri 2.0 정식 릴리즈 | GeekNews](https://news.hada.io/topic?id=17083)
   * [I built a REAL Desktop App with both Tauri and Electron - YouTube](https://www.youtube.com/watch?v=CEXex3xdKro)
+* [television: The revolution will (not) be televised](https://github.com/alexpasmantier/television)
+  * [Television - 빠르고 다재다능한 퍼지 검색 TUI | GeekNews](https://news.hada.io/topic?id=18794)
 * [tlqkf: You feeling 'tlqkf' when using shell, typing 'tlqkf'](https://github.com/juunini/tlqkf)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
