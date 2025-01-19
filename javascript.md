@@ -5830,11 +5830,6 @@ Javascript
       * URL은 변경되지만, 사용자는 새 페이지로 이동했다는 느낌 X
       * 대신, 현재 페이지의 컨텍스트를 유지한 채 새로운 콘텐츠만을 오버레이 형태로 노출
       * 인지 부하 감소 -> 웹사이트 체류 시간 증가 -> 비즈니스 이점
-  * [Next.js SaaS Starter Template – Vercel](https://vercel.com/templates/next.js/next-js-saas-starter)
-  * [book-byte](https://github.com/Book-Byte/book-byte)
-  * [fe-runner](https://github.com/boxgramer/fe-runner)
-  * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
-  * [Full Stack Kit](https://www.full-stack-kit.dev/)
   * [NextJS 12 에서 14로 업데이트 하면서 간단한 꿀팁](https://velog.io/@ansrjsdn/NextJS-12-%EC%97%90%EC%84%9C-14%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EB%A9%B4%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%BF%80%ED%8C%81)
   * [Next.js Tutorial for Beginners (User CRUD App) - YouTube](https://www.youtube.com/watch?v=iJejohAs9EY)
   * [완 Next.js 15가지만 알면 끝남](https://velog.io/@nanotoly/next.js-15-point)
@@ -5844,6 +5839,11 @@ Javascript
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
   * [Next.js Full Course - Supabase를 사용하여 나만의 TASK 관리 애플리케이션 만들기 - YouTube](https://www.youtube.com/watch?v=fXLBVDa6J2s)
+  * [Email Testing with Mailtrap in NextJS - CodingTricks](https://codingtricks.co/posts/email-testing-with-mailtrap-in-nextjs)
+  * [book-byte](https://github.com/Book-Byte/book-byte)
+  * [fe-runner](https://github.com/boxgramer/fe-runner)
+  * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
+  * [Full Stack Kit](https://www.full-stack-kit.dev/)
   * [lithent: ➿ An extensible JSX-based virtual DOM library for lightweight use in a variety of environments](https://github.com/superlucky84/lithent)
     * [나만의 SSR 프레임웍 만들기. 목차 | by Jinwoo Kim | Dec, 2024 | Medium](https://medium.com/@superlucky84/%EB%82%98%EB%A7%8C%EC%9D%98-ssr-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8D-%EB%A7%8C%EB%93%A4%EA%B8%B0-818f26e20bf4)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
@@ -5857,6 +5857,7 @@ Javascript
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
+  * [Next.js SaaS Starter Template – Vercel](https://vercel.com/templates/next.js/next-js-saas-starter)
   * [nextjs-starter-kit: NextJS Starter Kit with Testing Frameworks and CI/CD](https://github.com/sex-request/nextjs-starter-kit)
   * [play-nextjs-mysql-graphql](https://github.com/notlamc/play-nextjs-mysql-graphql)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
