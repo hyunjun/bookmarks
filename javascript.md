@@ -891,6 +891,7 @@ Javascript
 * [주니어 FE 개발자의 색상 추출 라이브러리 개발기 - tech.kakao.com](https://tech.kakao.com/posts/627) K-means Clustering, 색상 추출 알고리즘
 * [Javascript를 2개의 언어로 분할해야 할까? | GeekNews](https://news.hada.io/topic?id=17470)
 * [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들](https://miryang.dev/blog/frontend-in-startup-chosen-things) supabase TypeScript pnpm Next.js Vercel Sentry React Native
+* [프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다! 모닥불 | EP.9](https://toss.tech/article/32583) optimization
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
