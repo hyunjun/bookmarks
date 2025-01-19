@@ -839,6 +839,7 @@ SQL
 * [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 * [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
   * [B-트리와 데이터베이스 인덱스 | GeekNews](https://news.hada.io/topic?id=16702)
+* [B tree as Index](https://hugehoo-blog.vercel.app/blog/Database/B%20tree%20as%20Index)
 * [인덱스 1편 - BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
 * [인덱스 2편 - 여러분은 페이지네이션을 limit과 offset을 이용하여 구현하지 않나요?](https://blog.naver.com/pjt3591oo/222646508657)
 * [인덱스 3편 - 다중 컬럼 인덱스와 사용되는 인덱스 만들기](https://blog.naver.com/pjt3591oo/222863820957)
