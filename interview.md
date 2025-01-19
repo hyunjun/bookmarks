@@ -741,6 +741,7 @@ Interview
 * [Facebook vs. Google: 10 Contrasts for Engineering Careers](https://www.linkedin.com/pulse/facebook-vs-google-10-contrasts-engineering-careers-michael-mcnally/)
 * [On Leaving Facebook / frantic.im](https://frantic.im/leaving-facebook/)
   * [페이스북을 떠나며 | GeekNews](https://news.hada.io/topic?id=5810)
+* [Meta SWE 면접 합격 후기 - by Soojin Ro - 뉴욕의 프로그래머](https://www.nyprogrammer.com/p/meta-swe-interview)
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
