@@ -2573,6 +2573,16 @@ Programming
 * [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
+* [Must-Known Resiliency Patterns for Distributed Systems](https://newsletter.systemdesigncodex.com/p/must-known-resiliency-patterns-for)
+  * Downstream Resiliency Patterns
+    * 1 - Timeouts
+    * 2 - Circuit Breaker
+    * 3 - Retries with Exponential Backoff
+  * Upstream Resiliency Patterns
+    * 1 - Load Shedding
+    * 2 - Rate Limiting
+    * 3 - Bulkheads
+    * 4 - Health Checks with Load Balancers
 * [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
 * [How Do You Distribute Your Database over Hundreds of Edge Locations? - YouTube](https://www.youtube.com/watch?v=AI-yhny7DRE)
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
@@ -9103,6 +9113,7 @@ Programming
   * [VidiGo FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며....mp4](https://vidigo.ai/share/summary/20037ee9fdad)
   * [FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며... | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1185330)
 * [04화 QA 엔지니어의 도구 활용 팁](https://brunch.co.kr/@jamescompany/63) Selenium Cypress Playwright
+* [생성형 AI로 모의 이력서 테스트 데이터 만들기](https://chance-doe.tistory.com/29)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
