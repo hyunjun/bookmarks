@@ -50,6 +50,7 @@ Concurrency
 * [프로그래밍에서 동기/비동기 개념에 대한 가장 직관적인 이해 - YouTube](https://www.youtube.com/watch?v=zRJOte7TaPw)
 * [백엔드 개발자들이 알아야할 동시성 2 — 블로킹과 논블로킹, 동기와 비동기 | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-2-%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-e11b3d01fdf8)
 * [👩💻 완벽히 이해하는 동기/비동기 & 블로킹/논블로킹](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+* [Optimizing Large Payloads for Sync/Async Communications | by Arvind Kumar | Jan, 2025 | Medium](https://arvind4gl.medium.com/optimizing-large-payloads-for-sync-async-communications-fc71eacb6179)
 
 # Book
 * [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
