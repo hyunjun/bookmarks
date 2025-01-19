@@ -1032,6 +1032,7 @@ NLP
     * [플랏봇 v0.15 - 시각화 커스터마이징 | Pega Devlog](https://jehyunlee.github.io/2024/09/08/General-61-plotbot2/)
     * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
     * [효율적 업무효율화 | Pega Devlog](https://jehyunlee.github.io/2024/09/25/General-62_worksmart/)
+    * [상위 1% 고수들만 아는 챗GPT 활용법 - YouTube](https://www.youtube.com/watch?v=ueJNkEMieJo)
     * [BestGPTs: Top ranked OpenAI GPTs](https://github.com/AgentOps-AI/BestGPTs)
     * [CodeWiz for Programmer](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3000676323401413&hoisted_section_header_type=recently_seen)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
