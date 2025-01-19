@@ -711,6 +711,7 @@ Artificial Intelligence
 * [벌써 한계가 왔나... GPU 늘려도 AI가 똑똑해지지 않는다면? - 슬로우뉴스.](https://slownews.kr/120860)
 * [2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
   * [미국 기업 의사결정자 600인이 말하는 Gen AI 2024](https://www.linkedin.com/posts/ugcPost-7267479393193590784-TtJa/)
+* [해빗팩토리가 데이터, 자동화, AI를 활용하여 생산성을 10배로 만든 방법, 100배로 만들 계획](https://www.jungyunho.com/100xhabitfactory/)
 * [The AI agents stack | Letta](https://www.letta.com/blog/ai-agents-stack)
 * [AI 뉴스 - 엔비디아 Fugatto, 소라 유출, 딥마인드 Cat-4D, 오픈AI 로스차일드 음모론, 옵티머스 22 DoF, KLING TRY-ON 등 - YouTube](https://www.youtube.com/watch?v=g1XIwhDgs1o)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
