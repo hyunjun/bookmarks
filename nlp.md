@@ -2324,6 +2324,8 @@ NLP
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
 * [밑바닥부터 Kanana LLM 개발하기: Pre-training - tech.kakao.com](https://tech.kakao.com/posts/661)
 * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
+* [이미지도 찰떡같이 이해하는 카카오의 멀티모달 언어모델 Kanana-v 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/667)
+* [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
 * [DAN 24 - LLM for Search: 꽁꽁 얼어붙은 검색 서비스 위로 LLM이 걸어다닙니다](https://dan.naver.com/24/sessions/588)
 * [DAN 24 - 사람을 대신해야 진짜 AI지? : LLM 기반 임베딩부터 검색 품질 자동 평가 모델까지](https://dan.naver.com/24/sessions/591)
 * [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
@@ -3454,6 +3456,8 @@ NLP
 * [ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding](https://github.com/infiniflow/ragflow)
 * [RAG-Survey](https://github.com/tongji-kgllm/rag-survey)
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
+* [retriever-simple-benchmark: Make running benchmark simple yet maintainable, again. Now only supports Korean-based cross-encoder](https://github.com/instructkr/retriever-simple-benchmark)
+  * [가볍고 효율적인 RAG 모델 평가 코드 프로젝트 | GeekNews](https://news.hada.io/topic?id=18501)
 
 # LDA Latent Dirichlet Allocation
 
