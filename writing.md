@@ -87,6 +87,10 @@ Writing
   7. 마무리: 한 단락, 5문장 안으로 간결하게 서술. 긍정적이고 미래지향적으로
   ```
   * [파워포인트 발표는 절대 금지! 이게 아마존이 세계 1등 된 비결](https://news.v.daum.net/v/20210409030735761)
+  * [‘글’ 회의가 ‘말’ 회의보다 10배 낫다 – jwvirus](https://jwvirus.wordpress.com/2021/06/20/%eb%a7%90%eb%b3%b4%eb%8b%a4-%ea%b8%80%ec%9d%b4-10%eb%b0%b0-%eb%8d%94-%eb%82%ab%eb%8b%a4/)
+* [The Cognitive Style of PowerPoint tufte-powerpoint.pdf](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
+  * [파워포인트가 사람을 죽였다. – jwvirus](https://jwvirus.wordpress.com/2025/01/11/%ed%8c%8c%ec%9b%8c%ed%8f%ac%ec%9d%b8%ed%8a%b8%ea%b0%80-%ec%82%ac%eb%9e%8c%ec%9d%84-%ec%a3%bd%ec%98%80%eb%8b%a4/)
+* [개조식 보고서, 이제는 버려야 할 때 – jwvirus](https://jwvirus.wordpress.com/2020/05/18/%ea%b0%9c%ec%a1%b0%ec%8b%9d-%eb%b3%b4%ea%b3%a0%ec%84%9c-%ec%9d%b4%ec%a0%9c%eb%8a%94-%eb%b2%84%eb%a0%a4%ec%95%bc-%ed%95%a0-%eb%95%8c/)
 * [직딩이 글쓰기를 연마해야 하는 이유. 미디엄을 다시 시작하고 나서 한번 다뤄볼까 싶었던 주제가 있다… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%A7%81%EB%94%A9%EC%9D%B4-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-348badf4ed47)
 * [이코노미스트에게 배운 글쓰기 비법 | GeekNews](https://news.hada.io/topic?id=4092)
   * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
