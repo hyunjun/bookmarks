@@ -2332,6 +2332,7 @@ Docker
   * [killercoda · GitHub](https://github.com/killercoda)
   * [Killercoda Interactive Environments](https://killercoda.com/creators)
   * [Examples | Killercoda](https://killercoda.com/examples)
+* [Killer Shell - Exam Simulators](https://killer.sh/) CKS CKA CKAD LFCS LFCT Simulators
 * [kind](https://kind.sigs.k8s.io/)
   * [Kind로 Kubernetes control plane의 로그 레벨 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1659)
   * [Kind의 Kubernetes 노드 이미지 직접 생성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1661)
