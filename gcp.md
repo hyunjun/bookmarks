@@ -24,6 +24,7 @@ Google Cloud Platform GCP
 * [Cloud TPUs (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=ot4RWfGTtOg)
 * [Cloud TPU 사용하기](https://jybaek.tistory.com/707)
 * [Google Cloud Platform (GCP) 과 TPU 로 한국어 BERT 학습해보기](https://banana-media-lab.tistory.com/entry/Google-Cloud-Platform-GCP-%EA%B3%BC-TPU-%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-BERT-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
+* [카카오의 AI 모델 ‘카나나’, 구글 클라우드 TPU로 남들과 다른 길을 걷게 된 이야기 | Google Cloud 블로그](https://cloud.google.com/blog/ko/topics/customers/kakao-kanana-ai-forging-path-with-google-cloud-tpu-trillium)
 * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
 * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
