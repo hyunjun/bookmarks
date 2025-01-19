@@ -5332,6 +5332,7 @@ Programming
 * [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
   * [Kia 차 해킹 : 번호판만으로 차 원격 제어하기 | GeekNews](https://news.hada.io/topic?id=16961)
 * [집 와이파이가 보안이 취약하다할 때](https://soooprmx.com/when-your-wifi-is-insecure/)
+* [안전한 패스워드의 저장 - Google Slides](https://docs.google.com/presentation/d/17BQy1kQA_rIbY41HOFM8icM9eOo7zVkgXJAKPaW8j_M/edit?fbclid=IwY2xjawH56UNleHRuA2FlbQIxMAABHaOFGm7RX2xjoHPpmeI_-4qJFx19lqK0qAVuVOKuW0DbzYTiUYtjO-9g-g_aem_bOnDI0goecK9z_aUCvOcSw) 결론: argon2 사용하자
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
