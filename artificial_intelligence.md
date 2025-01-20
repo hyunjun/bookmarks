@@ -725,6 +725,7 @@ Artificial Intelligence
 * [GN#261 2024년 AI 클라우드를 정의하는 5가지 트렌드 | GeekNews](https://news.hada.io/weekly/202428)
 * [GN#277 Gen AI - 빠른 사고에서 느린 사고로, 에이전트 추론의 시대 개막 | GeekNews](https://news.hada.io/weekly/202444)
 * [GN#279 차세대 경쟁 Arena 18가지 | GeekNews](https://news.hada.io/weekly/202446)
+* [GN#289 AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가 | GeekNews](https://news.hada.io/weekly/202503)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
