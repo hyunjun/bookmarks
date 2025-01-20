@@ -942,6 +942,8 @@ NLP
     * Attendees will learn how to harness the power of GPT algorithms in their own solutions
     * [VidiGo Inside GPT – Large Language Models Demystified • A](https://vidigo.ai/share/summary/bf84204bd7c8)
     * [GPT 내부 - 대규모 언어 모델에 대한 이해 - Alan Smith - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1132733)
+  * [LinkedIn 장승국 페이지: #chatgpt #openai #tasks #gpt4o #개발공부 #study](https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB)
+    * [ChatGPT Tasks 기능으로 매일 개발 공부받는 방법 | GeekNews](https://news.hada.io/topic?id=18780)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
