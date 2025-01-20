@@ -7917,9 +7917,10 @@ Programming
   * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [karmem: Karmem is a fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM](https://github.com/inkeliz/karmem)
   * [Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷 | GeekNews](https://news.hada.io/topic?id=7105)
-* [MessagePack](https://msgpack.org/)
+* [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/)
   * [practice - messagepack](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
   * [Msgpack in Flask-RESTful](https://kndrck.co/posts/flask_restful_custom_request/)
+  * [MessagePack - JSON과 비슷하지만 작고 빠른 이진 직렬화 포맷 | GeekNews](https://news.hada.io/topic?id=18816)
 * Protobuf
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
   * [**구글 프로토콜 버퍼 (Protocol buffer)**](http://bcho.tistory.com/1182) 간단한 python 예제
