@@ -5399,6 +5399,8 @@ Javascript
 * [React Navigation 소개 및 사용법 — Bonglog - 기록과 정리의 공간](https://devbksheen.tistory.com/entry/React-Navigation%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%9F%AC-%ED%99%94%EB%A9%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [New Architecture is here · React Native](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here) 0.76
   * [(번역) 리액트 네이티브의 새로운 아키텍처가 출시되었습니다 | Ykss](https://ykss.netlify.app/translation/new_architecture_is_here/)
+* [Five years of React Native at Shopify (2025) - Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
+  * [Shopify의 5년간 React Native 사용 경험 | GeekNews](https://news.hada.io/topic?id=18815)
 * [CocoaPods 없이 React Native 개발하기](https://toss.tech/article/react-native-without-cocoapods)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
@@ -6676,6 +6678,9 @@ Javascript
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
+* [Jazz - Build local-first apps](https://jazz.tools/)
+  * [jazz: Build your next app with sync](https://github.com/garden-co/jazz)
+  * [Jazz - Local-First 앱을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=18814)
 * [jscpd: Copy/paste detector for programming source code](https://github.com/kucherenko/jscpd)
 * [Kiota documentation | Microsoft Learn](https://learn.microsoft.com/en-us/openapi/kiota/)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
