@@ -869,6 +869,7 @@ Web
 * [shot-scraper: A command-line utility for taking automated screenshots of websites](https://github.com/simonw/shot-scraper)
   * [Scraping web pages from the command line with shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
+* [toobuk_test](https://github.com/ramoi/toobuk_test)
 * [webscraping-open-project: Repository of open knowledge about web scraping in Python](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
