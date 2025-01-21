@@ -1294,6 +1294,7 @@ Programming
       * 따라서 여기서는 이 간극을 메우고 프로젝트를 구성 작업으로 분해하는 과정을 살펴보겠습니다. 예를 들어 작업을 분해하는 방법을 보여주고 그 과정을 설명할 것입니다. 하지만 우회로를 거치고 싶지 않다면 마지막 부분으로 건너뛰어 프로세스를 요약할 수 있습니다.
 * [Software estimates have never worked and never will](https://world.hey.com/dhh/software-estimates-have-never-worked-and-never-will-a41a9c71)
   * [소프트웨어 개발 일정 산정은 효과가 없었고 앞으로도 없을 것입니다 (Software estimates have never worked and never will) | Write the code. Change the world.](https://kyoungwon.me/articles/2024/08/20/Software-estimates-have-never-worked-and-never-will/)
+* [애자일 에스티메이션의 함정과 대안: 프로젝트 관리의 핵심! - YouTube](https://www.youtube.com/watch?v=_iDgRoeWCRg)
 * [소프트웨어 개발의 불확실성 : OO 미터를 15초에 달릴 수 있어?](https://velog.io/@joosing/uncertainty-in-software-development)
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
