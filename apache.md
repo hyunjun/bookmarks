@@ -1136,6 +1136,7 @@ Apache
     * [MirrorMaker2 마이그레이션](https://devidea.tistory.com/107)
 * kafka-spark-consumer [High Performance Kafka Consumer for Spark Streaming. Now Support Spark 2.0 and Kafka 0.10](https://github.com/dibbhatt/kafka-spark-consumer)
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
+* [Kafka Streams Topology Design | The standard for designing and visualising Kafka Streams Topologies](https://kstd.thriving.dev/)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
