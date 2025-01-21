@@ -332,6 +332,8 @@ Haskell
 * [Strongly Typed System F in GHC • Stephanie Weirich • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=rS2mpuwAK4M)
 * [GTF :: Why Haskell?](https://www.gtf.io/musings/why-haskell)
   * [왜 Haskell인가? | GeekNews](https://news.hada.io/topic?id=16740)
+* [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
+  * [Haskell: 뛰어난 절차적 언어 | GeekNews](https://news.hada.io/topic?id=18812)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
