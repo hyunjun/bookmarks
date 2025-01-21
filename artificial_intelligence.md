@@ -795,6 +795,7 @@ Artificial Intelligence
   * Freeflo (무료) - AI 이미지 라이브러리 https://freeflo.ai
   * HeyGen (유료) - 영상 번역 더빙 https://www.heygen.com
   * Suno (무료) - 음악 작곡 https://suno.com
+* [연구활용 AI 도구 사용방법 | Pega Devlog](https://jehyunlee.github.io/2025/01/20/General-76_researchgenai/)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
