@@ -1786,6 +1786,7 @@ Programming
 * [MVC, MVP, MVVM, MVVM-C, and VIPER](https://www.linkedin.com/posts/sahnlam_mvc-mvp-mvvm-mvvm-c-and-viper-so-lets-activity-7209790244768923648-atBZ/)
 * [**프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT**](https://yozm.wishket.com/magazine/detail/1663/)
 * [프론트엔드에서 `MV*` 아키텍쳐란 무엇인가요?](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-MV-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+* [풀스택 주요 디자인 패턴 이해 및 활용 기술 세미나 소개영상](https://mixedcode.com/blog/82)
 * [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
