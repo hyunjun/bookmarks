@@ -400,6 +400,7 @@ NLP
   * The speaker shares memorable bugs, golden rules for working with plain text, and the story behind the phrase "pike matchbox."
   * The talk also touches on the speaker's background and experiences, including their work with distributed systems, websites, and the programming language Rockstar
   * It emphasizes the value of text encoding and sharing ideas, concepts, and media through technology
+* [트랜스포머 2.0 등장인가... 구글, 기존 단점 제대로 극복한 새로운 AI 모델 ’Titans' 공개 | AI 칩 경쟁 판 바뀌나 | On-Device AI 시작 - YouTube](https://www.youtube.com/watch?v=qoKggLbjkGU)
 
 # 띄어쓰기
 
