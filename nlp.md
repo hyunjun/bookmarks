@@ -1057,6 +1057,8 @@ NLP
 * [chat-ui: Open source codebase powering the HuggingChat app](https://github.com/huggingface/chat-ui)
 * [DeepSeek](https://www.deepseek.com/)
   * [무료인데 역대급 성능! 딥시크(Deep Seek) | 챗GPT, 클로드 뛰어 넘지만 불안한 한가지! - YouTube](https://www.youtube.com/watch?v=dOv0tivK1oc)
+  * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+    * [DeepSeek-R1 모델 공개 | GeekNews](https://news.hada.io/topic?id=18824)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
   * [무료로 노트북에서도 실행 가능한 70억 파라미터 챗봇 - 테크레시피](https://techrecipe.co.kr/posts/52507)
