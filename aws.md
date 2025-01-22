@@ -1035,6 +1035,7 @@ AWS
     * [**세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기**](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
+* [aiengineering-demo: AWS 서버리스 아키텍처를 활용한 현대적인 TODO 애플리케이션](https://github.com/awskrug/aiengineering-demo)
 * [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
 * [data-group: AWSKRUG Datascience Group](https://github.com/awskrug/data-group)
 * [DevAx::connect - AWS Media Panel Talk - Twitch](https://www.twitch.tv/videos/1114775303)
@@ -1126,6 +1127,7 @@ AWS
 * [헉! AWS 요금이 많이 나올까 무섭다면? - MFA 인증, AWS IAM, Budget으로 예방하는 방법 - YouTube](https://www.youtube.com/watch?v=Zq8fR4U6eOo)
 * [Bare Metal Vs AWS: Is It Cheaper To Switch? | SysAdminXpert](https://sysadminxpert.com/bare-metal-vs-aws-is-it-cheaper-to-switch/)
 * [WebSocket 때문에 AWS 비용으로 $1M(13억) 내다가 절감한 방법 | GeekNews](https://news.hada.io/topic?id=17639)
+* [AWS의 숨겨진 비용 - YouTube](https://www.youtube.com/watch?v=xUKudCftBCw)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
