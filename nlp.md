@@ -1021,6 +1021,8 @@ NLP
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     * [OpenAI, 더 많이 생각하고 대답하는 o1 모델 프리뷰 공개 | GeekNews](https://news.hada.io/topic?id=16735)
+    * [김성현 - 이전에 언급했던 것처럼 지금 가장 중요한 문제는 o1에 사용된 추론 능력을 위한 방법을 알아내는 것이었다.... | Facebook](https://www.facebook.com/rosinality/posts/pfbid0zuAVXRYPzRQ2zUpp32UTXbppu6EAWwefopSWJ7Ay3zu7BEBSct2BfKwr8MRKJ3rkl)
+      * 결과 보상(Outcome Reward)만으로 추론 능력을 모델에 주입하는데 성공
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
@@ -3424,6 +3426,7 @@ NLP
 * [10분 만에 RAG 이해하기](https://brunch.co.kr/@ywkim36/146)
   * [10분 만에 RAG 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2828/)
 * [RAG Architectures](https://www.linkedin.com/posts/kalyanksnlp_rag-llms-nlproc-activity-7272451928540758016-TPYC/)
+* [RAG #01. RAG 밑바닥부터 웹 채팅까지 - 파이썬사랑방 튜토리얼](https://ai.pyhub.kr/rag-01/)
 * [ARES](https://github.com/stanford-futuredata/ARES)
   * [Home - ARES Documentation](https://ares-ai.vercel.app/)
 * [awesome-generative-ai-guide/research_updates/rag_research_table.md at main · aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md)
