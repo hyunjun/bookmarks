@@ -3313,6 +3313,7 @@ NLP
   * [AutoGen Studio 2.0 Full Course - NO CODE AI Agent Builder - YouTube](https://www.youtube.com/watch?v=apEA0oJaFb4)
   * [🤖Magentic-One: 마이크로소프트의 최신 멀티 에이전트 시스템](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Magentic-One-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C)
     * [autogen/python/packages/autogen-magentic-one at main · microsoft/autogen](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+  * [마이크로소프트에서 만든 autogen agent 프레임워크 사용해보기 with No code autogen studio - YouTube](https://www.youtube.com/watch?v=qwOOOLX5vSo)
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [book\_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
