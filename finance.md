@@ -110,6 +110,8 @@ Finance
 * [제발 예적금에 돈 묵히지 마세요. 여기에 넣으면 미래에 큰 부가 될겁니다 (전 IBK 기업은행 부지점장 김성일) - YouTube](https://www.youtube.com/watch?v=lB8Yu9fXEY8)
   * [급여 250만원 직장인, 월 500만원 '연금'흐름 만드는 3가지 방법](https://weolbu.com/community/486631)
 * [경제적자유는 6억이면 됩니다 - YouTube](https://www.youtube.com/watch?v=ijDCvGR7Zvs)
+* [왜 미국 주식인가 - 토스증권 홈페이지](https://corp.tossinvest.com/ko/post?type=research-report&id=9678&category=138)
+  * [왜 미국 주식인가 | GeekNews](https://news.hada.io/topic?id=18777)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
