@@ -62,6 +62,9 @@ GIS
 
 # Library
 * [2021년 최신 시각화된 지도 제작 프로그램 &사이트 모음!](https://www.finereport.com/kr/%EC%A7%80%EB%8F%84-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
+* [dawarich: Self-hosted alternative to Google Location History (Google Maps Timeline)](https://github.com/Freika/dawarich)
+  * [Hello from Dawarich | Dawarich](https://dawarich.app/)
+  * [Dawarich - 구글 맵 타임라인의 셀프호스트 대체제 | GeekNews](https://news.hada.io/topic?id=18855)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
   * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
   * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
