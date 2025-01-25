@@ -183,6 +183,7 @@ Google Cloud Platform GCP
 * [Gemini 2.0의 동영상과 이미지 비전 기능 : 네이버 블로그](https://blog.naver.com/ulsancoding/223696043077)
   * [Gemini2_vision.ipynb의 사본 - Colab](https://colab.research.google.com/drive/1VRG_gPtBOhcmKz61ANYOw6KAWM0UkUp0?usp=sharing)
 * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
+* [🤖📚누구나 쉽게 만드는 Gemini 2.0 Flash Exp 멀티모달 노트북 챗봇](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%93%9A%EB%88%84%EA%B5%AC%EB%82%98-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-Gemini-20-Flash-Exp-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%B1%97%EB%B4%87)
 * [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
 * [tldraw computer](https://computer.tldraw.com/)
   * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
