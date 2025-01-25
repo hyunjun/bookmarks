@@ -2021,6 +2021,7 @@ NLP
 * [**지극히 사적인 나만의 LLM, 가질 수 있을까? 1편 - 파인튜닝**](https://blog.sionic.ai/Finetuning_Llama) PEFT, LoRA, QLoRA
 * [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
 * [LoRA is a genius idea](https://www.linkedin.com/posts/svpino_lora-is-a-genius-idea-to-understand-the-activity-7156653694069932032-2GO8/)
+* [LLM 파인튜닝 기법 LoRA에 대한 개념 이해](https://bcho.tistory.com/1452) PEFT, LoRA, Adapter
 * MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
   * ["💡 LoRA를 넘어선 새로운 패러다임! MoRA가 메모리 문제를 해결하는 방법" - YouTube](https://www.youtube.com/watch?v=_goMNbhRIkI)
     * [AGI KR | 오늘 소개해드릴 논문은 "MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning"입니다 | Facebook](https://www.facebook.com/groups/agikr/posts/%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%95%B4%EB%93%9C%EB%A6%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-mora-high-rank-updating-for-parameter-efficient-fine-tuning%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4-%EB%85%BC%EB%AC%B8/2442336092774101/)
@@ -3044,6 +3045,7 @@ NLP
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
   * [Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM - YouTube](https://www.youtube.com/watch?v=-Rs8-M-xBFI)
   * [🤗 #huggingface 에 공개된 오픈모델을 💻 로컬PC 에서 빠르게 실행🔥 해보고 테스트 하는 방법 + 모델 서빙🚀 + 업무자동화🤖 에 적용하는 방법까지! - YouTube](https://www.youtube.com/watch?v=bANQk--Maxs)
+  * [로컬에서 LLM 모델을 실행하기 위한 Ollama, LMStudio](https://bcho.tistory.com/1451)
 * [LMSYS Org](https://lmsys.org/)
   * [RouteLLM: Achieves 90% GPT-4 Quality at 80% Lower Cost | by Ali Waseem | Jul, 2024 | Medium](https://medium.com/@learngrowthrive.fast/routellm-achieves-90-gpt-4-quality-at-80-lower-cost-6686e5f46e2a)
     * RouteLLM is a project from lmsys.org that aims to significantly reduce the cost of running large language models (LLMs) by up to 80% while maintaining 95% of GPT-4's quality
