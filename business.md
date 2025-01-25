@@ -1578,6 +1578,13 @@ Business
     2. 어려운 대화 스킬이 부족하다
     3. 가벼운 대화를 시작하는 능력이 부족하다
     4. 시작점이 늦다보니 더 보수적으로 가고 영향력을 키우고 도전을 하기 보다는 내향적으로 자기 기술 연마와 전문성에 더 신경쓰는 형태로 변질되는 것 같다
+* [Communication Patterns • Jacqui Read & Gregor Hohpe • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=LTFe7Zj-hzQ) soft skill
+  * Emphasizing the importance of core communication skills for software professionals, including visuals, writing, knowledge management, and remote collaboration
+  * Offers practical patterns for improving diagrams, addressing multimodal communication issues, and ensuring accessibility, particularly for neurodiverse individuals
+  * Jacqui also introduces her upcoming ACED Model, a strategic framework to align software development with business needs while remaining adaptable
+  * [VidiGo Communication Patterns • Jacqui Read & Gregor Hohp](https://vidigo.ai//share/summary/38af853076b6)
+  * [Communication Patterns • Jacqui Read & Gregor Hohpe • GOTO 2025 |](https://lilys.ai/digest/2410478/493022)
+  * [The ACED model](https://acedmodel.com/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
