@@ -605,6 +605,7 @@ Programming
   * ["auth" 대신 "permissions"와 "login"을 사용합시다 | GeekNews](https://news.hada.io/topic?id=15051)
   * 보통 auth라고 할 때 인증(authentication)과 인가(authorization)라는 2가지 문제가 있어서 혼란
   * authn과 authz로 나누어서 부르기도 하지만 해결책이 되지 않기 때문에 이를 로그인과 권한으로 부르는 것이 더 좋다고 이야기
+* [왜 Authorization "Bearer"인가요?](https://velog.io/@oneook/%EC%99%9C-Authorization-Bearer%EC%9D%B8%EA%B0%80%EC%9A%94)
 * [PKCE: What and Why? - Dropbox](https://dropbox.tech/developers/pkce--what-and-why-)
 * [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
