@@ -112,6 +112,8 @@ Finance
 * [경제적자유는 6억이면 됩니다 - YouTube](https://www.youtube.com/watch?v=ijDCvGR7Zvs)
 * [왜 미국 주식인가 - 토스증권 홈페이지](https://corp.tossinvest.com/ko/post?type=research-report&id=9678&category=138)
   * [왜 미국 주식인가 | GeekNews](https://news.hada.io/topic?id=18777)
+* [증권사 CES 2025 리포트(pdf) 모음](https://freewlan.tistory.com/1092)
+  * [국내 증권사 CES 2025 리포트 파일 모음 | GeekNews](https://news.hada.io/topic?id=18881)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
