@@ -267,6 +267,8 @@ Vim
 * IdeaVim
   * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
   * [WebStorm 및 기타 JetBrains IDE에서 Vim의 강력한 성능 이용하기 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2022/11/ideavim-in-webstorm/)
+* [llama.vim: Vim plugin for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vim)
+  * [Llama.vim – LLM을 이용한 VIM용 코드/텍스트 자동완성 플러그인 | GeekNews](https://news.hada.io/topic?id=18885)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
