@@ -1045,6 +1045,9 @@ NLP
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
     * AI용 분산 클라우드를 제공하는 Together에서 소스 코드, 모델 가중치, 트레이닝 데이터 세트를 포함한 OpenChatKit을 오픈소스로 공개
     * OpenChatKit은 GPT를 이용하는 챗봇을 만들 수 있게 개발되었으며 목적에 맞게 파인 튜닝도 지원
+  * [Operator](https://operator.chatgpt.com/)
+    * [Introducing Operator research preview | OpenAI](https://openai.com/index/introducing-operator/)
+    * [OpenAI, 에이전트 서비스 "Operator" 공개 | GeekNews](https://news.hada.io/topic?id=18886)
   * [privateGPT: Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
     * 오프라인에서도 사용 가능한 비공개 LLM 기반 Chat
     * 2주도 안되어 Star 18k, fork 1.9k
