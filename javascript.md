@@ -1009,6 +1009,9 @@ Javascript
   * [JS Dates Are About to Be Fixed | TimeTime](https://docs.timetime.in/blog/js-dates-finally-fixed/)
     * [번역 자바스크립트의 Date가 곧 수정됩니다](https://velog.io/@eunbinn/js-dates-finally-fixed)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
+  * [Temporal - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal)
+    * [JavaScript Temporal is coming | MDN Blog](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+      * [JavaScript Temporal이 옵니다 | GeekNews](https://news.hada.io/topic?id=18889)
 * File
   * [자바스크립트로 파일 다운로드하기](https://developer-alle.tistory.com/435)
 * maps
@@ -1618,6 +1621,7 @@ Javascript
   * [애플, 구글, 피그마 UI Kit 대공개 & 사용 방법! (디자인시스템 관련 용어 총정리: UI Kit, 컴포넌트라이브러리, 스타일가이드 등) #figma #연결고리 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/895363)
 * [Projects | Component Encyclopedia | Storybook](https://storybook.js.org/showcase/projects)
   * [Dale Seo (달레) on LinkedIn: Projects | Component Encyclopedia | Storybook](https://www.linkedin.com/posts/daleseo_projects-component-encyclopedia-storybook-activity-7223425541951930370-gPt-)
+* [DAN 24 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
