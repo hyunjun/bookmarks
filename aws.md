@@ -1504,6 +1504,7 @@ AWS
 * [Amazon EKS Upgrade Journey From 1.30 to 1.31- say hello to another cutee “Elli” | by Marcin Cuber | Sep, 2024 | Medium](https://marcincuber.medium.com/amazon-eks-upgrade-journey-from-1-30-to-1-31-say-hello-to-another-cutee-elli-d488fd6521eb)
 * [Announcing Amazon EKS Auto Mode - AWS](https://aws.amazon.com/ko/about-aws/whats-new/2024/12/amazon-eks-auto-mode/)
 * [How to use EKS IRSA in the most vulnerable way | by rex.chun | Medium](https://medium.com/@7424069/aws-how-to-use-eks-irsa-in-the-most-vulnerable-way-5d8f4c8d6d20) IRSA (IAM Roles for Service Accounts)
+* [AWS EKS Managed Node Groups Tutorial: Step-by-Step Setup & Configuration - YouTube](https://www.youtube.com/watch?v=N4np9l1ILGs)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
