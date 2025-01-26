@@ -1067,6 +1067,8 @@ NLP
   * [Meta의 생성형 AI 조직은 DeepSeek때문에 충격에 빠져있음 | GeekNews](https://news.hada.io/topic?id=18896)
   * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
     * [DeepSeek-R1 모델 공개 | GeekNews](https://news.hada.io/topic?id=18824)
+    * [Hugging Face Journal Club - DeepSeek R1 - YouTube](https://www.youtube.com/watch?v=1xDVbu-WaFo)
+    * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
   * [무료로 노트북에서도 실행 가능한 70억 파라미터 챗봇 - 테크레시피](https://techrecipe.co.kr/posts/52507)
