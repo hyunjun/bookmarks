@@ -1048,6 +1048,7 @@ NLP
   * [Operator](https://operator.chatgpt.com/)
     * [Introducing Operator research preview | OpenAI](https://openai.com/index/introducing-operator/)
     * [OpenAI, 에이전트 서비스 "Operator" 공개 | GeekNews](https://news.hada.io/topic?id=18886)
+    * [Open AI가 드디어 내놓은 신기능 오퍼레이터 직접 써봤더니... - YouTube](https://www.youtube.com/watch?v=1wd0UlhFmZU)
   * [privateGPT: Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
     * 오프라인에서도 사용 가능한 비공개 LLM 기반 Chat
     * 2주도 안되어 Star 18k, fork 1.9k
