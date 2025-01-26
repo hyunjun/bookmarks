@@ -287,6 +287,9 @@ App
 * [perch - See What’s Happening At Home](https://getperch.com/)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 
+# App
+* [The Best Free and Open Source Apps in 2025! - YouTube](https://www.youtube.com/watch?v=E4Row0mFbfk)
+
 # Backup
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
 * [글로벌 칼럼 | 중요한 하드웨어에 투자를 아끼지 말라 - ITWorld Korea](https://www.itworld.co.kr/news/223439) backup의 중요성
