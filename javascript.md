@@ -5419,6 +5419,8 @@ Javascript
   * [React Native Expo latest project folders meanings | by Omatsola | May, 2024 | Medium](https://medium.com/@omatsola/react-native-expo-latest-project-folders-meanings-c899d2f01f98)
   * [Expo Application Services (EAS)](https://expo.dev/eas)
   * [Expo-React-Native-Template: Expo React Native + Redux Pattern Ducks + Native Base + EAS](https://github.com/couoheduardo/Expo-React-Native-Template)
+  * [streamyfin: A Jellyfin client built with Expo](https://github.com/streamyfin/streamyfin)
+    * [StreamyFin - Expo로 만든 Jellyfin 클라이언트 | GeekNews](https://news.hada.io/topic?id=18904)
 * flipper [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
   * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 * [grocery-list](https://github.com/dvlprJobayer/grocery-list)
