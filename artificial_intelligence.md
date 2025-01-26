@@ -833,6 +833,7 @@ Artificial Intelligence
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
 * [Shots - Create Amazing Mockups](https://shots.so/)
+* [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 # Tutorial
