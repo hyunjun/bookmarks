@@ -43,6 +43,17 @@ Python
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com)
   * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/)
+* [10 Tips to Become REALLY Good at Python - YouTube](https://www.youtube.com/watch?v=zml0rTMJVXg)
+  * 1: Master Comprehensions
+  * 2: Use F-Strings for String Formatting
+  * 3: Know the Built-In Functions
+  * 4: Use Generators for Efficient Iteration
+  * 5: Use Context Managers for Resource Management
+  * 6: Leverage Python’s Libraries
+  * 7: Use Typing for Better Code Clarity
+  * 8: Use Abstraction to Decouple Your Code
+  * 9: Write Tests
+  * 10: Use Classes and Functions Wisely
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02)
 * [**구글로 공부하는 파이썬**](http://freesugar.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [An Algorithm to Extract Looping GIFs From Videos](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
