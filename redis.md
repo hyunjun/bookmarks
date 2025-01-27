@@ -261,6 +261,8 @@ Redis
   * [ioredis-mock - Emulates ioredis by performing all operations in-memory](https://github.com/stipsan/ioredis-mock)
 * [KeyDB - A Multithreaded Fork of Redis https://keydb.dev ](https://github.com/JohnSully/KeyDB)
   * [A Multithreaded Fork of Redis That’s 5X Faster Than Redis](https://docs.keydb.dev/blog/2019/10/07/blog-post/)
+* [Kronotop is a Redis-compatible, distributed and transactional document database backed by FoundationDB](https://github.com/kronotop/kronotop)
+  * [Kronotop - Redis 호환 분산 문서 저장소, FoundationDB 기반 | GeekNews](https://news.hada.io/topic?id=18923)
 * [Lambda Store: Serverless Database for Redis®](https://lambda.store/)
   * [Serverless Redis Is Here!](https://medium.com/lambda-store/serverless-redis-is-here-34c2fa335f24)
   * [Swifter Than DynamoDB: Lambda Store — Serverless Redis | by Mattia Bianchi | Lambda Store | Medium](https://medium.com/lambda-store/swifter-than-dynamodb-lambda-store-serverless-redis-bfacfaf92c80)
