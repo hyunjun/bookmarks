@@ -539,6 +539,7 @@ Docker
 * [**docker container 활용 #2**](http://www.ahnseungkyu.com/242) docker process의 구성을 linux command로 살펴봄
 * [**docker container 활용 #3**](http://www.ahnseungkyu.com/243) docker process의 network을 linux command로 살펴봄
 * [docker container 활용 #4](http://ahnseungkyu.com/244) CMD와 ENTRYPOINT
+* [Stop adding THIS to your Dockerfile - YouTube](https://www.youtube.com/shorts/a8IDHD1noA4) CMD와 ENTRYPOINT
 * [docker container 활용 #5](http://ahnseungkyu.com/245) docker image size 줄이기
 * [Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 * [Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
