@@ -50,6 +50,7 @@ Product
 * [캡슐 토이를 파해쳐 보자 #2 - 후치코](https://brunch.co.kr/@jaedi/23)
 * [공기 위에 눕다, 야외용 간이 침대](http://www.earlyadopter.co.kr/68554)
 * [이런 멀티탭도 있다고? - 베스트5 - YouTube](https://www.youtube.com/watch?v=KQQxxoH39b8)
+* [신개념 멀티탭 추천!! '고용량 멀티탭 끝판왕'과 '자동 정리케이블'을 가지고 와봤습니다! (Vertitap) 【🤴Ep.456】 - YouTube](https://www.youtube.com/watch?v=M4FlWqlpeyU)
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 * [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/) e-ink
 * [Should you still buy a reMarkable 2 in 2024? - YouTube](https://www.youtube.com/watch?v=8WpyCaQkkiM)
