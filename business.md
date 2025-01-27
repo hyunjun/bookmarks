@@ -1034,6 +1034,8 @@ Business
 * [VDIASI23 - Adrian Miron - Unlocking Your Team Potential: Discovering Your Unique Role for Success - YouTube](https://www.youtube.com/watch?v=dHiya7Yi0I0)
 * [팀장 1명 당 팀원 몇 명을 관리하는 것이 가장 효율적일까? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5-1%EB%AA%85-%EB%8B%B9-%ED%8C%80%EC%9B%90-%EB%AA%87-%EB%AA%85%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-7d06dddbbf36)
 * [맥킨지 The state of organizations (2023)](https://www.linkedin.com/posts/hrheejinpark_%EB%A7%A5%ED%82%A8%EC%A7%80-the-state-of-organizations-2023-ugcPost-7157574769876340736-EQL5)
+* [Group performance is maximized by hierarchical competence distribution | Nature Communications](https://www.nature.com/articles/ncomms3484)
+  * [(1) 박성철 - 조직의 역량 분포는 어떤 것이 이상적인가 생각하다가 찾은 논문이다. 기존 리더-팔로워의 단순 2단계 구조를... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0BJSinMo6wD24TeyGndWs2fXVT6AcEBTvYTrSioGVfAg8MntKqgPYDPi4ft1p4dMnl)
 * [Skills-based organizations | Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/talent/organizational-skill-based-hiring.html?ref=blog.comento.kr)
   * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
 
@@ -4202,6 +4204,8 @@ Business
       * 결국 일은 사람이 하는 것
       * 같이 하는 사람을 이해, 잘 하는 사람을 알아보고, 누구와 같이 일하고 싶은가에 대해서 계속해서 생각을 하는 과정에서 회사의 정체성 형성
       * 그리고 그러한 정체성을 바탕으로 강한 팀, 일하는 방식 구체화, 마침내 성과
+* [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
+  * [1인 여성 개발팀으로 2백만명 사용자 달성하기 | GeekNews](https://news.hada.io/topic?id=18932)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
