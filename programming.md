@@ -9065,6 +9065,7 @@ Programming
         * bias를 제외하고 각 실험의 long-term 결과값을 정리, 추정하는 방법 제시
 * [**A/B 테스트 후기와 소고(小考): 할인율 명시의 효과. 할인율 명시의 효과** | by Joshua Kim | Sep, 2024 | Medium](https://joshua-data.medium.com/ab-test-review-bcfb3613e829)
 * [How To Build Feature Flags Like A Senior Dev In 20 Minutes - YouTube](https://www.youtube.com/watch?v=VBCYqp8l3Lc)
+* [A/A Test: Is the distribu.. : 네이버블로그](https://blog.naver.com/hancury/223739271051)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
