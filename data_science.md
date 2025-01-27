@@ -190,6 +190,8 @@ Data Science
 * [데이터 통합과 데이터 패브릭 구현의 7대 핵심 < 비즈니스 인사이트 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=12369)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [Data Catalog, 데이터경험의 심리학 법칙. https://us.semantix.ai/ | by reckoner | Nov, 2022 | Medium](https://medium.com/@_goo__/data-catalog-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%ED%97%98%EC%9D%98-%EC%8B%AC%EB%A6%AC%ED%95%99-%EB%B2%95%EC%B9%99-83418dd45339)
+* [Envisioning LakeDB: The Next Evolution of the Lakehouse Architecture](https://www.dataengineeringweekly.com/p/envisioning-lakedb-the-next-evolution)
+  * [LakeDB 구상 - LakeHouse 아키텍처의 차세대 진화 | GeekNews](https://news.hada.io/topic?id=18929)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
 * [11 Facts about Data Science that you must know](http://www.edupristine.com/blog/11-facts-about-data-science)
