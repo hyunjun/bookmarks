@@ -3014,6 +3014,7 @@ Javascript
   * Toss는 Yarn의 좋은 아키텍처, 정확성과 성능 때문에 Yarn을 선택
 * [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
   * [(번역) 자바스크립트 모노레포의 깃 용량을 94% 줄인 방법 | emewjin.log](https://emewjin.github.io/git-repo-size/)
+* [종결자는 누구? - YouTube](https://www.youtube.com/watch?v=THYI_JdmQqQ)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Farm Documentation | Farm](https://www.farmfe.org/)
   * [Farm - 매우 빠른, Vite 호환 빌드 도구 | GeekNews](https://news.hada.io/topic?id=15487)
