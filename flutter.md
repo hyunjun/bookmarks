@@ -211,6 +211,7 @@ Flutter
   * [Interview: Craig Labenz & Łukasz Kosman - The Future of Flutter - YouTube](https://www.youtube.com/watch?v=UcJSgzztgDI)
   * [플러터 CTO Report 2024 (LeanCode.com 번역) | by Bansook Nam | Aug, 2024 | Medium](https://medium.com/@bansooknam/%ED%94%8C%EB%9F%AC%ED%84%B0-cto-report-2024-leancode-com-%EB%B2%88%EC%97%AD-6ac8cf81065e)
 * [테니스 치는 개발자가 테니스 다이어리앱을 만들기 까지 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/90)
+* [Flutter 내비게이션에서 파라메터 전달 - Flutter에서 내비게이션을 사용하여 화면을 이동할 때, 파라메터를 전달하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/flutter/navigator/parameters/)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
