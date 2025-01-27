@@ -960,6 +960,8 @@ App
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
+* [PdfDing: Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices](https://github.com/mrmn2/PdfDing)
+  * [PdfDing - 개인용 PDF 관리자 | GeekNews](https://news.hada.io/topic?id=18931)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
 * [Pragtical - 실용적인 코드 편집기 | GeekNews](https://news.hada.io/topic?id=16400)
