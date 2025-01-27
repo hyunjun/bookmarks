@@ -176,6 +176,7 @@ Hardware
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
 * [아두이노 우노로 도트 매트릭스 제어하기](https://webnautes.tistory.com/2418)
 * [Arduino Uno R4 WiFi 개봉 및 소켓 예제 테스트](https://webnautes.tistory.com/2420)
+* [Arduino Uno R4 WiFi의 LED Matrix를 사용해보기](https://webnautes.tistory.com/2421)
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
 * [자바스크립트 웹페이지로 아두이노 제어하기](https://webnautes.tistory.com/2415)
