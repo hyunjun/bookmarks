@@ -307,6 +307,7 @@ Google Cloud Platform GCP
 * [GCP Kubernets deployment strategy - YouTube](https://www.youtube.com/watch?v=IueIS-u3xXk)
 * [GKE에서 Calico CNI 사용하기. Why? | by 김도영 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/gke%EC%97%90%EC%84%9C-calico-cni-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b3fa505e6f38)
 * [Serving With TF and GKE: Stable Diffusion — The TensorFlow Blog](https://blog.tensorflow.org/2023/04/serving-with-tf-and-gke-stable-diffusion.html) Stable Diffusion을 쿠버네티스 환경에서 배포하는 내용
+* [Rearchitected GKE HPA improves scaling performance | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/rearchitected-gke-hpa-improves-scaling-performance)
 * [Load-testing TensorFlow Serving and FastAPI on GKE | by Chansung Park and Sayak Paul | Google Developers Experts](https://medium.com/google-developer-experts/load-testing-tensorflow-serving-and-fastapi-on-gke-411bc14d96b2)
 * [gke-policy-automation: Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices](https://github.com/google/gke-policy-automation)
 
