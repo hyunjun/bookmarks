@@ -2894,6 +2894,8 @@ App
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
   * [winget 사용하여 간단하게 프로그램 설치하기 : zelon's blog](https://blog.wimy.com/471/)
+  * [Jun - 윈도우에서 도커 설치하려다가 시간 낭비한 일](https://hyunjun.github.io/skunk-html/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%8F%84%EC%BB%A4-%EC%84%A4%EC%B9%98%ED%95%98%EB%A0%A4%EB%8B%A4%EA%B0%80-%EC%8B%9C%EA%B0%84-%EB%82%AD%EB%B9%84%ED%95%9C-%EC%9D%BC.html)
+    * [skunk-html/markdown-blog/2025-01-25.md at master · hyunjun/skunk-html](https://github.com/hyunjun/skunk-html/blob/master/markdown-blog/2025-01-25.md)
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 * [winget.run | Finding winget packages made simple](https://winget.run/)
 * [WingetUI: WingetUI: A better UI for your package managers](https://github.com/marticliment/WingetUI)
