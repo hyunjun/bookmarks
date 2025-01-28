@@ -6401,6 +6401,8 @@ Javascript
   * [Pitfalls to Avoid in Playwright for Node.js - DEV Community](https://dev.to/appsignal/pitfalls-to-avoid-in-playwright-for-nodejs-3hpl)
   * [멈춰! 버그 멈춰! E2E 테스트로 버그 멈추기 Feat. Playwright | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/28/e2e-test-with-playwright.html)
   * [사용자 동작을 중심으로 Playwright로 E2E 테스트 작성하기 - Part 1 | Onepredict Engineering](https://onepredict.github.io/playwright-e2e-part1/)
+  * [테스트 코드 직접 작성하지 마세요 | Cursor + Playwright - YouTube](https://www.youtube.com/watch?v=3zOkNHf6sik)
+    * [Playwright 테스트 작성 가이드 · GitHub](https://gist.github.com/devbrother2024/7803601764476f79dbdfaf312a7e2454)
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
