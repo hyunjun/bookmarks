@@ -1356,6 +1356,8 @@ App
 * [How to clear system data - Deep clean your Mac - YouTube](https://www.youtube.com/watch?v=qtoXAQm1yqI)
 * [10 AWESOME MacBook tips I bet you didn’t know! - YouTube](https://www.youtube.com/watch?v=Hb7bAkgDxHE)
 * [맥북 USB-C 충전 전력 확인하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/917)
+* [Jun - Mac에서 외장 하드 디스크를 인식하지 못 하는 경우](https://hyunjun.github.io/skunk-html/mac%EC%97%90%EC%84%9C-%EC%99%B8%EC%9E%A5-%ED%95%98%EB%93%9C-%EB%94%94%EC%8A%A4%ED%81%AC%EB%A5%BC-%EC%9D%B8%EC%8B%9D%ED%95%98%EC%A7%80-%EB%AA%BB-%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0.html)
+  * [skunk-html/markdown-blog/2025-01-27.md at master · hyunjun/skunk-html](https://github.com/hyunjun/skunk-html/blob/master/markdown-blog/2025-01-27.md)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
