@@ -2909,6 +2909,8 @@ CVPR2016)
   * [더 똑똑해져서 Flux와 경쟁을 하는 Ideogram 2.0 - YouTube](https://www.youtube.com/watch?v=ZlkoQH2k-bI)
     * [IdeoGram 2.0 출시에 따른 특징 살펴보기 - TILNOTE](https://tilnote.io/pages/66c9a48baf1501fb363b1b4e)
   * [너무 쉬운데 품질은 역대급으로 뛰어난 생성형 AI, 한국어도 완벽하게 지원 하는 서비스 - YouTube](https://www.youtube.com/watch?v=0sLfTsLX660)
+* [Janus: Janus-Series: Unified Multimodal Understanding and Generation Models](https://github.com/deepseek-ai/Janus)
+  * [Janus/janus_pro_tech_report.pdf at main · deepseek-ai/Janus · GitHub](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 * [keras-sd-serving: showing various ways to serve Keras based stable diffusion](https://github.com/deep-diver/keras-sd-serving)
   * FastAPI 및 TensorFlow Serving으로 배포하기 위해 필요한 소스코드와 더불어 즉시 사용 가능한 도커 이미지 7종 빌드
   * 기능 작동 여부는 Google Kubernetes Engine 위에서 확인, 이에 따라 Dockerfile 및 yaml 파일도 함께 저장소에 포함
