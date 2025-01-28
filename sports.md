@@ -115,6 +115,7 @@ Sports
 * [ABS는 어디서, 어떤 구종을 돋보이게 할까? - 야구공작소](https://yagongso.com/?p=21244)
 * [Trajekt Sports](https://www.trajektsports.com/)
   * [완벽하게 투수가 ‘복제’ 된다 | 빅리그 기술 전쟁 - YouTube](https://www.youtube.com/watch?v=gIFsePR5rPQ) Trajekt Arc
+* [컴퓨터 비전의 시대에서 야구를 외치다 - 야구공작소](https://yagongso.com/?p=23186)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
