@@ -196,6 +196,8 @@ Google Cloud Platform GCP
   * [Google Cloud를 추천하기는 어렵습니다 | GeekNews](https://news.hada.io/topic?id=16893)
 * [Bringing AI Agents to Enterprises with Google Agentspace | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/bringing-ai-agents-to-enterprises-with-google-agentspace?hl=en)
   * [Google Agentspace - AI 에이전트와 AI 기반 검색을 기업에 도입 | GeekNews](https://news.hada.io/topic?id=18357)
+* [Google AI Studio](https://aistudio.google.com/)
+  * [Ai 엑셀 선생님, 충격 등장..!! 이제 Ai가 화면을 보며 실시간으로 알려줍니다! (100% 무료, 바로 사용해보세요!) - YouTube](https://www.youtube.com/watch?v=Tt1V1orkA18&ab_channel=%EC%98%A4%EB%B9%A0%EB%91%90%EC%97%91%EC%85%80l%EC%97%91%EC%85%80%EA%B0%95%EC%9D%98%EB%8C%80%ED%91%9C%EC%B1%84%EB%84%90)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
