@@ -1524,6 +1524,9 @@ App
   * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Across Modern Calendar [일정부터 할일관리까지 하루를 완벽하게 | 아이폰 캘린더 앱 - YouTube](https://www.youtube.com/watch?v=TAiQE3dQWpM)
+* [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+  * [AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
+  * [Aerospace Is Probably The Best MacOS Tiling Manager I've Ever Used - YouTube](https://www.youtube.com/watch?v=5nwnJjr5eOo)
 * `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
 * [AirPlay 5000번 포트](https://jybaek.tistory.com/963)
 * [airplay2-receiver: AirPlay 2 Receiver - Python implementation](https://github.com/openairplay/airplay2-receiver)
@@ -1603,6 +1606,7 @@ App
 * iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
+* [JankyBorders: A lightweight window border system for macOS](https://github.com/FelixKratz/JankyBorders)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
@@ -1681,6 +1685,8 @@ App
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Shottr - 맥에서 사용하는 강력하지만 가벼운 스크린샷 캡쳐 앱 (무료) ~ CreSeed](https://creseed.blogspot.com/2022/08/shottr.html)
+* [SketchyBar](https://felixkratz.github.io/SketchyBar/)
+  * [SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 * [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
   * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
