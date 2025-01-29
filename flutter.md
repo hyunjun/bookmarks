@@ -339,6 +339,7 @@ Flutter
 # TDD, Test
 * [통합 테스트(Integration Test) - 이번 블로그 포스트에서는 Flutter에서 통합 테스트(Integration Test)를 하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/flutter/integration-test/)
 * [처음 만나는 테스트. 플러터는 선언형UI로 사용자 인터페이스를 구현합니다. 흔히 UI를… | by Cody Yun | Mar, 2024 | Medium](https://medium.com/@cody.yun/flutter-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%98%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-7240565af80b)
+* [How to unit-test Mercari Hallo Flutter app | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20241224-how-to-unit-test-mercari-hallo-flutter-app/)
 
 # Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
