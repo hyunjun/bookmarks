@@ -1088,6 +1088,7 @@ Python
   * [5 Advanced Functions in Itertools To Simplify Iterations in Python | by Yong Cui, Ph.D. | Towards Data Science](https://towardsdatascience.com/5-advanced-functions-in-itertools-to-simplify-iterations-in-python-c6213312ca47)
   * [The Must-Know Tools from the Python Library itertools | Python in Plain English](https://python.plainenglish.io/the-must-know-tools-from-the-python-library-itertools-f5b413a3cfff)
   * [Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/)
+  * ["groupby" in Python is Awesome - YouTube](https://www.youtube.com/watch?v=2d1BIiX8Kfw)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
