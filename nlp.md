@@ -3819,6 +3819,7 @@ NLP
   * [How to select correct tokenizer for your text processor? | NLTK for Text Analytics - YouTube](https://www.youtube.com/watch?v=MQVwBBsl0W4)
   * [How to select the correct NLTK Tokenizer for your context? - YouTube](https://www.youtube.com/watch?v=MQVwBBsl0W4)
   * [Natural Language Processing With Python's NLTK Package – Real Python](https://realpython.com/nltk-nlp-python/)
+  * [1min-chatbot: make a question answering chatbot in 1 minute with Docker, Roberta-base, and NLTK](https://github.com/mariyasha/1min-chatbot)
 * [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [PreNLP - Preprocessing Library for Natural Language Processing](https://github.com/lyeoni/prenlp)
