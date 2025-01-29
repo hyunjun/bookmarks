@@ -212,6 +212,7 @@ Flutter
   * [플러터 CTO Report 2024 (LeanCode.com 번역) | by Bansook Nam | Aug, 2024 | Medium](https://medium.com/@bansooknam/%ED%94%8C%EB%9F%AC%ED%84%B0-cto-report-2024-leancode-com-%EB%B2%88%EC%97%AD-6ac8cf81065e)
 * [테니스 치는 개발자가 테니스 다이어리앱을 만들기 까지 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/90)
 * [Flutter 내비게이션에서 파라메터 전달 - Flutter에서 내비게이션을 사용하여 화면을 이동할 때, 파라메터를 전달하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/flutter/navigator/parameters/)
+* [Flutter 위젯에서 비즈니스 로직 분리하기. 지금까지 플러터팀에서 공개한 앱 아키텍처 문서를 번역한 포스팅을… | by Aiden | Jan, 2025 | Medium](https://medium.com/@ai-den/flutter-%EC%9C%84%EC%A0%AF%EC%97%90%EC%84%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0-b3585338b11b)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
