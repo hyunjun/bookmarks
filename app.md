@@ -282,10 +282,12 @@ App
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Explore the night sky with this open source astronomy app | Opensource.com](https://opensource.com/article/21/1/kstars)
+* [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [perch - See What’s Happening At Home](https://getperch.com/)
-* [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
+* [MiceWine-Application: MiceWine is a project that aims to run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
+  * [MiceWine – 윈도우 앱과 게임을 안드로이드폰에서 실행하기 | GeekNews](https://news.hada.io/topic?id=18949)
 
 # App
 * [The Best Free and Open Source Apps in 2025! - YouTube](https://www.youtube.com/watch?v=E4Row0mFbfk)
@@ -609,6 +611,8 @@ App
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
 * [Automa - 크롬 브라우저 자동화 확장 | GeekNews](https://news.hada.io/topic?id=5464)
+* [beaverhabits: A self-hosted habit tracking app without "Goals"](https://github.com/daya0576/beaverhabits)
+  * [BeaverHabits - 목표(Goal) 없는 습관 추적 웹 앱 | GeekNews](https://news.hada.io/topic?id=18945)
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
