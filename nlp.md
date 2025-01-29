@@ -1072,6 +1072,8 @@ NLP
     * [Explainer: What's R1 & Everything Else? - Tim Kellogg](https://timkellogg.me/blog/2025/01/25/r1)
       * [R1과 그외 모든 것들에 대한 설명 | GeekNews](https://news.hada.io/topic?id=18930)
     * [DeepSeek의 강화학습 기반 성능 개선, OpenAI도 하고 있었다? | OpenAI 정형원 박사님 2024년 MIT 세미나 내용 통한 딥씨크 모델 이해 - YouTube](https://www.youtube.com/watch?v=c0VEJPLBIxQ)
+    * [코딩에서 DeepSeek R1이 유망한 결과를 냄 | GeekNews](https://news.hada.io/topic?id=18954)
+    * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
