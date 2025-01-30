@@ -3064,6 +3064,10 @@ Python
   * [FastUI: 파이썬으로 더 빠르고 좋은 웹 UI 만들기 | GeekNews](https://news.hada.io/topic?id=13619)
 * [flet - 파이썬으로 멀티플랫폼 앱을 쉽게 작성해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=15767)
   * [Build multi-platform apps in Python powered by Flutter | Flet](https://flet.dev/)
+  * [Weather widget, Flet Python 날씨 위젯, #flet #python #weather - YouTube](https://www.youtube.com/watch?v=ccbcHmq8eJo)
+  * [FletPython: Flet Python 코드 모음](https://github.com/appada/FletPython/)
+    * [BasicFlet Python - YouTube](https://www.youtube.com/playlist?list=PLyeL8eOjSdvHbgdFFkeAKzd8fQpTPb8gB)
+    * [Flet examples - YouTube](https://www.youtube.com/playlist?list=PLyeL8eOjSdvH0SPCjOWoHxG8T5sK0BwrZ)
 * [Gooey (Beta) - Turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey/)
   * [How to use the easiest GUI of your life in Python | by Salvador Aleguas | Jul, 2020 | codeburst](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)
 * [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io)
@@ -3848,6 +3852,8 @@ Python
 * [docling: Get your documents ready for gen AI](https://github.com/DS4SD/docling) Docling parses documents and exports them to the desired format with ease and speed
 * [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
   * [extract data(paragraph, table) from docx file](http://stackrefactoring.blogspot.com/2016/10/extract-dataparagraph-table-from-docx.html)
+  * [python-docx-automation: 파이썬으로 워드 문서 자동화하는 방법](https://github.com/dabidstudio/python-docx-automation)
+    * [챗GPT와 파이썬으로 워드 보고서 자동화하기 - YouTube](https://www.youtube.com/watch?v=x5t8WoQhoE8)
 * [DoGelang](http://pyos.github.io/dg/)
 * domhttpx [A google search engine dorker with HTTP toolkit built with python](https://pythonawesome.com/a-google-search-engine-dorker-with-http-toolkit-built-with-python/)
 * [dontasq - Extend built-in Python collections with LINQ-for-objects style methods](https://github.com/borzunov/dontasq)
