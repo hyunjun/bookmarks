@@ -2806,6 +2806,7 @@ NLP
       * [01. 에이전트 대화 시뮬레이션 (고객 응대 시나리오) - <랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷](https://wikidocs.net/267816)
       * [langchain-kr/17-LangGraph/03-Use-Cases at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/tree/main/17-LangGraph/03-Use-Cases)
     * [랭그래프 agent를 다루는 기술, 레시피 agent 만들기 - YouTube](https://www.youtube.com/watch?v=hBvltr5J1cI)
+    * [LangGraph Functional API Overview - YouTube](https://www.youtube.com/watch?v=NXhyWJozM9A)
     * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
       * [Intro to CoAgents (Public Beta)](https://docs.copilotkit.ai/coagents)
       * [Build Agent-Native Apps with LangGraph & CoAgents (tutorial) - YouTube](https://www.youtube.com/watch?v=0b6BVqPwqA0)
