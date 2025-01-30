@@ -1607,6 +1607,26 @@ App
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
 * [JankyBorders: A lightweight window border system for macOS](https://github.com/FelixKratz/JankyBorders)
+
+  ```
+  ❯ brew tap FelixKratz/formulae
+  ❯ brew install borders
+  ❯ brew services start borders
+  ❯ vi ~/.config/borders/bordersrc  #   optional
+  #!/bin/bash
+
+  options=(
+      style=round
+      width=6.0
+      hidpi=off
+      active_color=0xffe2e2e3
+      inactive_color=0xff414550
+  )
+
+  borders "${options[@]}"
+
+  ❯ brew services restart borders
+  ```
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
