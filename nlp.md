@@ -1073,6 +1073,8 @@ NLP
       * [R1과 그외 모든 것들에 대한 설명 | GeekNews](https://news.hada.io/topic?id=18930)
     * [DeepSeek의 강화학습 기반 성능 개선, OpenAI도 하고 있었다? | OpenAI 정형원 박사님 2024년 MIT 세미나 내용 통한 딥씨크 모델 이해 - YouTube](https://www.youtube.com/watch?v=c0VEJPLBIxQ)
     * [코딩에서 DeepSeek R1이 유망한 결과를 냄 | GeekNews](https://news.hada.io/topic?id=18954)
+    * [DeepSeek모델 안전하게 코딩에 응용하기--(1) : 네이버 블로그](https://blog.naver.com/ulsancoding/223741412600)
+    * [DeepSeek모델 안전하게 코딩에 응용하기--(2) : 네이버 블로그](https://blog.naver.com/ulsancoding/223742116518)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
