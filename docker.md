@@ -2856,6 +2856,10 @@ Docker
   * [Kasm Workspaces: Your Solution for Remote Desktops? Full Review! - YouTube](https://www.youtube.com/watch?v=hXkZVqqAg7c)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Kyverno](https://kyverno.io/) Kubernetes Native Policy Management
+* [lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+  * [lazydocker로 Docker 컨테이너를 쉽게 관리하는 방법 – All Things N](https://new.atsit.in/7525/)
+  * [lazydocker (TUI for both docker and docker-compose) | HamoniKR 4.0](https://docs.hamonikr.org/hamonikr/tips/cli-tools/lazydocker-tui-for-both-docker-and-docker-compose)
+  * [This one tool forever changed how I use Docker - YouTube](https://www.youtube.com/watch?v=IUAk1pjXDWM)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [MAAS | Metal as a Service](https://maas.io/)
   * [MAAS Integration with VirtualBox (vboxpower) | by Saeid Bostandoust | ITNEXT](https://itnext.io/maas-integration-with-virtualbox-20d850381c21)
