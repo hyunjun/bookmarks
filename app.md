@@ -729,6 +729,7 @@ App
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 2 (설계, 테스팅)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2) ERDCloud, PlantUML, Swagger UI, Rest Client, SonarQube
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 3 (CI/CD, Hosting)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-3-CICD-Hosting) Github Actions, Jenkins, Heroku, Netlify
 * [10 Awesome Free Productivity Tools and Websites for Developers | by Nicholas Obert | Dec, 2021 | Better Programming](https://betterprogramming.pub/10-awesome-free-productivity-tools-and-websites-for-developers-47310707fda2)
+* [macOS: Essential Productivity Hacks for Developers - YouTube](https://www.youtube.com/watch?v=J4SXh8UhiCQ) skhd yabai sketchybar jankyborders raycast
 * [25 Must-Visit Killer Websites For Developers | by Astrodevil | Dec, 2021 | Dev Genius](https://blog.devgenius.io/25-must-visit-killer-websites-for-developers-7d15aceb7508)
 * [5 Dev Tools To Look Out For In 2022 | by Carlo Morrone | Dec, 2021 | Better Programming](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf)
 * [8 Best Developers Tools for Linux | Linux Tutorial](https://blog4hacking.blogspot.com/2022/01/8-best-developers-tools-for-linux-linux.html)
@@ -778,6 +779,9 @@ App
     * Google이 AI 기반 온라인 통합 개발 환경으로 만들고 있던 IDX를 퍼블릭 베타로 공개해서 바로 사용 가능
     * 이 IDE는 VS Code 기반으로 작성, Gemini 모델이 통합되어 있어서 AI를 이용한 코드 완성이나 채팅, 코드 설명하기 사용 가능
     * Firebase나 Google Maps 등 Google 제품을 쉽게 사용할 수 있게 통합
+* [IT Tools - Handy online tools for developers](https://it-tools.tech/)
+  * [it-tools: Collection of handy online tools for developers, with great UX](https://github.com/CorentinTh/it-tools)
+  * [Every Techie Needs This: IT Tools - YouTube](https://www.youtube.com/watch?v=CbIASgzUIUU)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * [mise-en-place](https://mise.jdx.dev/)
   * [Comparison to asdf | mise-en-place](https://mise.jdx.dev/dev-tools/comparison-to-asdf.html)
@@ -1524,9 +1528,6 @@ App
   * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Across Modern Calendar [일정부터 할일관리까지 하루를 완벽하게 | 아이폰 캘린더 앱 - YouTube](https://www.youtube.com/watch?v=TAiQE3dQWpM)
-* [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
-  * [AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
-  * [Aerospace Is Probably The Best MacOS Tiling Manager I've Ever Used - YouTube](https://www.youtube.com/watch?v=5nwnJjr5eOo)
 * `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
 * [AirPlay 5000번 포트](https://jybaek.tistory.com/963)
 * [airplay2-receiver: AirPlay 2 Receiver - Python implementation](https://github.com/openairplay/airplay2-receiver)
@@ -1555,6 +1556,7 @@ App
     * [Numi - 깔끔한 맥용 계산기 앱 | GeekNews](https://news.hada.io/topic?id=3981)
   * [SpeedCrunch](http://speedcrunch.org/)
 * [Clipy: Clipboard extension app for macOS.](https://github.com/Clipy/Clipy)
+* [Clop - Image, video, PDF and clipboard optimiser](https://lowtechguys.com/clop/)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
@@ -1572,6 +1574,7 @@ App
   * 모니터 해상도가 너무 높으면 화면 공유할 때 너무 작게 보이는 문제를 해결하기 위해
   * 가상모니터를 만들고 원하는 해상도를 설정해서 공유할 수 있게 하는 macOS 앱
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
+* [Dropover - Easier Drag and Drop on your Mac](https://dropoverapp.com/)
 * [easy-move-resize: Adds "modifier key + mouse drag" move and resize to OSX](https://github.com/dmarcotte/easy-move-resize)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
@@ -1664,12 +1667,12 @@ App
   * [단종 되고 지원되지 않는 Mac에 macOS 모든 버전을 설치하는 방법(따라만 해도됨, 쉬움) - YouTube](https://www.youtube.com/watch?v=hpWBKj2S5jw)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
+* [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [Raycast](https://www.raycast.com/)
   * [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
   * [🍎 맥북 4년차, 최고의 무료앱 - YouTube](https://www.youtube.com/watch?v=6IAu1e4VX_4)
-* [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [RecurseChat](https://recurse.chat/) Personal AI Chat with Local LLMs
   * [RecurseChat - 매일 사용을 위한 로컬 AI 대화 앱 | GeekNews](https://news.hada.io/topic?id=13574)
 * [remote-mac-lock: A prototype of remote locking my mac, connected to a wireless access point using a simple HTTP server. | 같은 AP 환경에서 원격으로 Mac 잠금](https://github.com/stevejkang/remote-mac-lock)
@@ -1683,6 +1686,18 @@ App
   * [Making Your Code Beautiful](https://hackernoon.com/presenting-your-code-beautifully-fdbab9e6fb68) gist, carbon, asciinema, svg-term, screenflow
   * [carbon - Create and share beautiful images of your source code](https://carbon.now.sh)
     * [github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
+* Screenmanager
+  * [What's the BEST Mac Window Manager for 2024? Part 1 - YouTube](https://www.youtube.com/watch?v=Ml44XE-WnZE)
+  * [What's the BEST Mac Window Manager for 2024? Part 2 - YouTube](https://www.youtube.com/watch?v=lV31V5YXyf0)
+  * [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+    * [AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
+    * [Aerospace Is Probably The Best MacOS Tiling Manager I've Ever Used - YouTube](https://www.youtube.com/watch?v=5nwnJjr5eOo)
+  * [MacsyZones, FancyZones for macOS](https://macsyzones.com/)
+  * [Rectangle](https://rectangleapp.com/)
+  * [Spectacle](https://github.com/eczarny/spectacle)
+    * [www.spectacleapp.com](https://www.spectacleapp.com/)
+  * [yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
+    * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * Screenshot
   * [CapturePlus](http://captureplus.net/)
   * [Flameshot](https://flameshot.org/)
@@ -1710,8 +1725,6 @@ App
 * [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
   * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
-* [**Spectacle**](https://github.com/eczarny/spectacle)
-  * [www.spectacleapp.com](https://www.spectacleapp.com/)
 * spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [Switcher](https://github.com/tkgka/Switcher) command + q 명령어를 두번 입력한 경우에만 동작하도록 설정 가능
@@ -1738,8 +1751,6 @@ App
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
-* [yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
-  * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 
 ## Mac App Keyboard
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
