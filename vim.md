@@ -270,6 +270,8 @@ Vim
 * [llama.vim: Vim plugin for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vim)
   * [Llama.vim – LLM을 이용한 VIM용 코드/텍스트 자동완성 플러그인 | GeekNews](https://news.hada.io/topic?id=18885)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
+* [mini.nvim: Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort](https://github.com/echasnovski/mini.nvim)
+  * [This Neovim "Plugin" Replaces 40 Others - YouTube](https://www.youtube.com/watch?v=qyB-sAvW2lI)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
