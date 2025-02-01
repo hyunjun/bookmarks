@@ -2484,6 +2484,10 @@ App
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
   * [옵시디언 이야기 - 엘키의 주절 주절](https://elky84.github.io/2024/06/03/obsidian_story/)
   * [Planning Your Day by Timeboxing in Obsidian - Obsidian Rocks](https://obsidian.rocks/planning-your-day-by-timeboxing-in-obsidian/)
+  * [무료공개 커맨드스페이스 월간 옵시디언 1회차 - 옵시디언의 AI 활용 - YouTube](https://www.youtube.com/watch?v=GXVh4JI2xd8)
+    * [CMDS Obsidian Settings - CMDS Materials](https://slashpage.com/cmds-class/cmds-obsidian)
+    * [옵시디언에서 Templater를 활용한 AI 요약 및 태그 생성](https://anpigon.tistory.com/484)
+  * [안피곤 성장블로그](https://anpigon.tistory.com/)
   * [My Obsidian Note-Taking Workflow | ssp.sh](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
     * [나의 Obsidian 노트 작성 워크플로우 | GeekNews](https://news.hada.io/topic?id=16070)
   * Canvas
