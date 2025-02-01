@@ -90,6 +90,8 @@ Hardware
 * [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
 * [Foqos - NFC를 물리적 스위치로 사용하여 방해 요소를 차단하는 앱 | GeekNews](https://news.hada.io/topic?id=18840)
+* [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
+  * [This Open-Source E-Ink Screen Is My Favorite New Gadget - YouTube](https://www.youtube.com/watch?v=eIcZZX10pa4)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
