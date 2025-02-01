@@ -337,6 +337,7 @@ iOS
 * [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 * [Play MIDI Notes in Swift’s Playgrounds](https://medium.com/@stevenpcurtis.sc/play-midi-notes-in-swifts-playgrounds-244feaf35550)
+* [Swift Playgrounds에서 첫 번째 앱 빌드 - YouTube](https://www.youtube.com/watch?v=-K9Czth-AOw)
 * [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/)
 * [A Swift Tour](http://wlaxhrl.tistory.com/70)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
