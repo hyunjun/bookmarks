@@ -1075,6 +1075,7 @@ NLP
     * [코딩에서 DeepSeek R1이 유망한 결과를 냄 | GeekNews](https://news.hada.io/topic?id=18954)
     * [DeepSeek모델 안전하게 코딩에 응용하기--(1) : 네이버 블로그](https://blog.naver.com/ulsancoding/223741412600)
     * [DeepSeek모델 안전하게 코딩에 응용하기--(2) : 네이버 블로그](https://blog.naver.com/ulsancoding/223742116518)
+    * [초간단 딥시크 R1 사용법 | 무설치, 미국 서버, 무료 추론모델 - YouTube](https://www.youtube.com/watch?v=fzc-1_9CH3M)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [NLP @ Postech - Dialogue System](https://nlp.postech.ac.kr/research/dialogue-system)
