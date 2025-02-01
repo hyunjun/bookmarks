@@ -2550,6 +2550,7 @@ Web
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [pyodide: Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
+  * [Run Python in Your Browser Effortlessly](https://kai.bi/post/run-python-programs-easily-in-the-browser)
 * [remove-bg: Remove background directly in your browser, powered by WebGPU](https://github.com/ducan-ne/remove-bg)
   * [Automate Your Image with Bannerify - Image & Video Generation Made Easy](https://bannerify.co/tools/remove-bg)
   * [Remove-bg - WebGPU를 이용한 이미지 배경 지우기 오픈소스 | GeekNews](https://news.hada.io/topic?id=16486)
