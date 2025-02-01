@@ -116,6 +116,7 @@ App
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * listusb [macOS 사용자들을 위한 listusb (lsusb 와 비슷) : 클리앙](https://www.clien.net/service/board/pds/17956235)
+* [LocalSend: Share files to nearby devices](https://localsend.org/)
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
@@ -1474,6 +1475,7 @@ App
 * [DevOps 엔지니어 ‘일잘러’로 만드는 맥북 필수 도구 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/12/devops-mac-setting/) Warp Dropover Shottr Raycast AltTab
 * [최신정보 수집하고 까먹는 당신, 정보 중독입니다](https://eopla.net/magazines/17731) Fabric Findr
 * [무료지만, macOS를 말도 못하게 편하게 만드는 5가지 앱 - YouTube](https://www.youtube.com/watch?v=7m4BiHwSIpo) Folder Hub, Only Switch, IINA, Speediness, ProNotes
+* [10 Mac Apps You Haven't Heard Of (but should be using) - YouTube](https://www.youtube.com/watch?v=JqKB97HpWrk) Itsycal, Local Send, Transnomino, ChatGPT for the Mac, OnlySwitch, Image Optim, HyperDuck, Grab2Text, Rocket, CleanShot X
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1588,6 +1590,7 @@ App
   * [FileNic - macOS에서 한글 파일명 자소분리 문제 해결기 | GeekNews](https://news.hada.io/topic?id=18629)
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
+* [Grab2Text on the Mac App Store](https://apps.apple.com/us/app/grab2text/id6475956137?mt=12)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Hammerspoon - a tool for powerful automation of OS X](https://www.hammerspoon.org/)
   * [해머스푼으로 한/영 전환 오로라를 만들자 - 지금 선택된 입력기가 한글인지 영어인지 쉽게 알아보자](https://johngrib.github.io/wiki/hammerspoon-inputsource-aurora/)
@@ -1602,12 +1605,14 @@ App
 * [Hyper 리뷰- Mac과 iOS, 안드로이드, 웹에서 사용가능한 사용자지정 양식 스택카드 (맥앱,iOS앱 추천)](https://www.appicide.net/p220)
 * [Hyper™](https://hyper.is/)
   * [5 Steps to a Beautiful Terminal That You’ll Love Using](https://medium.com/better-programming/5-steps-to-a-beautiful-terminal-that-youll-love-using-9e94ecb4191b)
+* [Hyperduck — Sindre Sorhus](https://sindresorhus.com/hyperduck) Send links from your iOS & visionOS devices to your Mac
 * [hyperterm.org](https://hyperterm.org)
 * [Ice: Powerful menu bar manager for macOS](https://github.com/jordanbaird/Ice)
   * [Ice – macOS용 오픈 소스 메뉴 바 관리자 | GeekNews](https://news.hada.io/topic?id=15228)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
   * [맥 어플 추천 IINA - 최고의 동영상 플레이어](https://truesale.tistory.com/215)
+* [ImageOptim — better Save for Web](https://imageoptim.com/mac)
 * iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
@@ -1736,6 +1741,7 @@ App
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
+* [Transnomino - A free batch rename utility for the Mac](https://www.transnomino.com/)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * [UTM: Virtual machines for iOS and macOS](https://github.com/utmapp/UTM) caps lock -> ctrl 설정은 hyperkey 설치하면 가능
   * [Stuck on windows network step · Issue #4177 · utmapp/UTM](https://github.com/utmapp/UTM/issues/4177) network 화면에서 shift + fn + f10 입력하는 부분 진행 실패로 더 테스트하지 못함
