@@ -1265,6 +1265,7 @@ App
   * [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
   * [아웃룩(outlook) 일정을 구글 캘린더(google calendar)에서 보기](http://ohyecloudy.com/pnotes/archives/sync-outlook-calendar-with-google-calendar/)
   * [챗GPT로 미국 주식 포트폴리오 자동으로 관리하는 방법 (feat 구글 스프레드 시트, Apps Script 코드 작성) - YouTube](https://www.youtube.com/watch?v=NN9pFgIHc50)
+  * [Make(메이크)보다 더 간단한데 무료?! Apps Script로 만드는 AI 자동화 시스템 - YouTube](https://www.youtube.com/watch?v=6kwnPAhqII4)
 * Calendar
   * [Google Calendar API 분석 및 시스템 구축 전략 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/88)
 * Google sheet
@@ -1376,6 +1377,7 @@ App
   * [새 MacBook 설정(2023) - rein's world](https://rein.kr/posts/2023-08-27-%EC%83%88-%EB%A7%A5%EB%B6%81-%EC%84%A4%EC%A0%95/)
   * [맥 처음사면 항상 바꿔주는 기본 설정 (애플은 생각보다 친절함) - YouTube](https://www.youtube.com/watch?v=omApyJigr_c)
   * [맥북 열고 이대로만 따라하세요. 한 번 해두면 n년 편한 맥 초기 설정 35가지 (with M2 맥북 에어15) - YouTube](https://www.youtube.com/watch?v=w2GVdqEtb40)
+* [Set up a Mac in 2024 for Power Users and Developers - YouTube](https://www.youtube.com/watch?v=GK7zLYAXdDs)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
     * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
