@@ -714,6 +714,7 @@ Artificial Intelligence
 * [해빗팩토리가 데이터, 자동화, AI를 활용하여 생산성을 10배로 만든 방법, 100배로 만들 계획](https://www.jungyunho.com/100xhabitfactory/)
 * [The AI agents stack | Letta](https://www.letta.com/blog/ai-agents-stack)
 * [AI 뉴스 - 엔비디아 Fugatto, 소라 유출, 딥마인드 Cat-4D, 오픈AI 로스차일드 음모론, 옵티머스 22 DoF, KLING TRY-ON 등 - YouTube](https://www.youtube.com/watch?v=g1XIwhDgs1o)
+* [보고서: 엔지니어가 보는 2025 AI 산업 : 오호츠크](https://55check.com/?bmode=view&idx=146282222)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
