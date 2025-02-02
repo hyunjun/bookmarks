@@ -270,6 +270,7 @@ Flutter
 * [Flutter 설치 - MacOS에 Flutter를 설치하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/flutter/installation/)
   * [study-flutter/dart at main · dev-yakuza/study-flutter](https://github.com/dev-yakuza/study-flutter/tree/main/dart)
 * [Dart 올림, 버림, 반올림 - Flutter에서 소수점에 대해 올림, 버림, 반올림을 하는 방법에 대해서 알아봅시다.](https://deku.posstree.com/ko/flutter/dart/ceil-floor-round/)
+* [An update on Dart macros & data serialization | by Vijay Menon | Dart | Jan, 2025 | Medium](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
 * [dart_custom_lint: 💡 Easily write powerful Dart & Flutter lint rules for your projects or for users of your packages](https://github.com/invertase/dart_custom_lint)
   * [Flutter에서 커스텀 린트 활용하기](https://techblog.lycorp.co.jp/ko/using-custom-lint-in-flutter)
 
