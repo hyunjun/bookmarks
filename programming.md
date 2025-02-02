@@ -4312,6 +4312,12 @@ Programming
         * 코드 수정 빈도를 시각화하여 각 코드별 변화 빈도 파악해 기술부채 해결 방향 도출
         * 변화 빈도가 높은 부분이 기술부채가 놓여있는 곳으로 집중 관리 필요
       * [Code Quality: How Empirical Data Shatters The Speed Vs. Quality Myth](https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-code-quality-advantage-how-empirical-data-shatters-the-speed-vs-quality-myth/)
+* [코드 품질 개선 기법 시리즈 소개](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-list)
+  * [코드 품질 개선 기법 1편: 한 번 엎지른 <error>는 다시 주워 담지 못한다](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-1)
+  * [코드 품질 개선 기법 2편: 확인 여부를 확인했나요?](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-2)
+  * [코드 품질 개선 기법 3편: 전략 없는 전략](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-3)
+  * [코드 품질 개선 기법 4편: 문을 없애고 테스트하기](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-4)
+  * [코드 품질 개선 기법 5편: 나쁜 열거가 좋은 계층을 몰아낸다](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-5)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
