@@ -2542,6 +2542,7 @@ Javascript
   * [JWT를 이용한 인증, 인가 그리고 Multi part 이야기 - ② 회원가입과 인증(feat. Access Token & Refresh Token)](https://junyharang.tistory.com/538)
   * [NestJS 사용 소감. 네이버파이낸셜에서 BE 개발을 하고있는 페이플랫폼 주도현입니다. | by Ju Dohyun | NAVER Pay Dev Blog | Medium](https://medium.com/naverfinancial/nestjs-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90-f851527f7922)
   * [아키텍쳐가 갖춰진 서버 프레임웍 Nest.JS | HelloWorld - YouTube](https://www.youtube.com/watch?v=g_6e-vJjSkc)
+  * [NestJS v10 업데이트의 여정 | by Lery | Jan, 2025 | Modusign](https://team.modusign.co.kr/nestjs-v10-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%97%AC%EC%A0%95-fc0391a63fea)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
