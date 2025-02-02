@@ -740,6 +740,7 @@ AWS
   * [99.8% 정확도를 가진 이미지 자동 검수 기능 구현하기 - 유주형.pdf](https://drive.google.com/file/d/1f_yWJQK06uY_YgG4QVmWloVGfoFDnQvw/view)
 * [티오더 DevOps팀의 Amazon Bedrock을 활용한 AWS 자원 감시 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/torder-devops-bedrock-use-case/)
 * [생성형 AI로 혁신하는 법률 서비스: Amazon Bedrock으로 구현한 법무법인대륜의 서면 작성 AI 시스템 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/daeryun-lawsuit-writing-ai-using-amazon-bedrock/)
+* [Deploy DeepSeek-R1 distilled Llama models with Amazon Bedrock Custom Model Import | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
