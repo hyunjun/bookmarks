@@ -1924,3 +1924,4 @@ Machine Learning
 * [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)
 * [1시간 만에 머신 러닝 개념 따라 잡기 - YouTube](https://www.youtube.com/watch?v=cYI85HFgFeg)
 * [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+* [The Complete Course Catalog | End to End Machine Learning](https://end-to-end-machine-learning.teachable.com/p/complete-course-library-full-end-to-end-machine-learning-catalog)
