@@ -2253,6 +2253,8 @@ Javascript
         * .eslintrc.* 파일 대신 `eslint.config.js` 파일을 검색하고 기존 방식을 사용하려면 `ESLINT_USE_FLAT_CONFIG`를 `false`로 설정
         * ESLint 10.0에서는 eslintrc 시스템이 완전히 제거될 예정
     * 새 flat config 시스템은 아직 CLI에 통합되지는 않았고 개발자가 테스트할 수 있게 API로 사용 가능
+    * [eslint-plugin-fsd-lint: ESLint plugin for enforcing Feature-Sliced Design architecture](https://github.com/effozen/eslint-plugin-fsd-lint)
+      * [FSD를 위한 ESLint 플러그인 개발 일지 | Zen's Atelier](https://fantasmith.com/challenge/opensource/fsd_lint/)
   * [Introducing ESLint Compatibility Utilities - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
     * ESLint 9.0.0에서 새로운 config 형식인 Flat config가 도입되고 API 변경도 존재
       * 이에 따라서 플러그인도 v9.0.0에 맞게 업데이트 필요
@@ -6675,6 +6677,8 @@ Javascript
 * [DefinitelyTyped: The repository for high quality TypeScript type definitions.](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * [Deepkit Framework | Deepkit - High-Performance TypeScript Framework](https://deepkit.io/)
   * [Deepkit - 고성능 TypeScript 프레임워크 | GeekNews](https://news.hada.io/topic?id=6726)
+* [DeepStrictTypes: Utility Types to quickly query and Omit, Pick keys inside nested arrays and objects](https://github.com/kakasoo/deepstricttypes)
+  * [“굉장히” 복잡한 타입들의 구현](https://sturdy-mink-c2f.notion.site/18c020f42102803693bccae7e54dc6b4)
 * [deprank: Use PageRank to find the most important files in your codebase](https://github.com/codemix/deprank)
 * [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
   * [Effect - TypeScript로 강력한 앱 구축을 도와주는 라이브러리 | GeekNews](https://news.hada.io/topic?id=15381)
