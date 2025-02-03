@@ -740,6 +740,7 @@ AWS
   * [99.8% 정확도를 가진 이미지 자동 검수 기능 구현하기 - 유주형.pdf](https://drive.google.com/file/d/1f_yWJQK06uY_YgG4QVmWloVGfoFDnQvw/view)
 * [티오더 DevOps팀의 Amazon Bedrock을 활용한 AWS 자원 감시 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/torder-devops-bedrock-use-case/)
 * [생성형 AI로 혁신하는 법률 서비스: Amazon Bedrock으로 구현한 법무법인대륜의 서면 작성 AI 시스템 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/daeryun-lawsuit-writing-ai-using-amazon-bedrock/)
+* [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 * [Deploy DeepSeek-R1 distilled Llama models with Amazon Bedrock Custom Model Import | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
