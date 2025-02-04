@@ -736,6 +736,10 @@ Book
 * (NOT COMPLETED) [반 고흐를 찾아서](https://blog.naver.com/cij_bookshelf/222411967224)
   * ★★★☆☆ 2023.03.01
   * 우당 문653.269-포59ㅂ
+* [그림이 더 잘 보이는 미술관 이야기](https://www.notion.so/1003/1903f0c2cf6580c2839fefdaf9cf57d1)
+  * ★★★☆☆ February 3, 2025 → February 4, 2025 미술이 아니라 미술”관” 이야기. 여러 가지 주제를 다루는데, 보통 생각지 못하거나 신경쓰지 않는 부분들(홍수, 먼지, 공기 정화, 복제 등)부터, 여러 형태의 미술관 건축이나 역사 속의 미술관 등 다양한 이야기를 재미있게 읽을 수 있다.
+    * [미술품 만큼 흥미로운 미술관 이야기](http://www.morningreading.org/article/2024/04/01/202404010900531618.html)
+    * [새책 사소한 호기심에서 출발 ‘그림이 더 잘 보이는 미술관’ < 출판 < 이웃여행 < 기사본문 - 미술여행신문](https://www.misulin.co.kr/news/articleView.html?idxno=2383)
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
