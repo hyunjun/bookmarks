@@ -2473,6 +2473,7 @@ NLP
     * [초간단 딥시크 R1 사용법 | 무설치, 미국 서버, 무료 추론모델 - YouTube](https://www.youtube.com/watch?v=fzc-1_9CH3M)
     * [🐋DeepSeek-R1: OpenAI-o1 뛰어넘은 오픈소스 추론 모델이 무료!](https://fornewchallenge.tistory.com/entry/%F0%9F%90%8BDeepSeek-R1-OpenAI-o1-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B6%94%EB%A1%A0-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%AC%B4%EB%A3%8C)
     * [DeepSeek-R1에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/DeepSeek-R1-189c32470be2801c94b6e5648735447d)
+    * [DeepSeek에 관한 정리](https://brunch.co.kr/@jinhoyooephf/38)
     * [🐋 Run DeepSeek R1 Dynamic 1.58-bit with Llama.cpp | Open WebUI](https://docs.openwebui.com/tutorials/integrations/deepseekr1-dynamic/)
     * [Tutorial: How to Run DeepSeek-R1 on your own local device | Unsloth Documentation](https://docs.unsloth.ai/basics/tutorial-how-to-run-deepseek-r1-on-your-own-local-device#using-llama.cpp-recommended)
     * [DeepSeek R1을 Amazon EKS에서 호스팅하는 방법](https://www.linkedin.com/posts/woohyungchoi_hosting-deepseek-r1-on-amazon-eks-notion-activity-7290707140577574912-ui3s/)
