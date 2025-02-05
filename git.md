@@ -888,6 +888,7 @@ Git
   * [윈도우 git 체크아웃 Filename too long 오류 처리](http://javacan.tistory.com/entry/window-git-filename-too-long-error)
   * [ssh: connect to host github.com port 22: Connection timed out](https://stackoverflow.com/questions/15589682/ssh-connect-to-host-github-com-port-22-connection-timed-out)
   * [SSH 기본 포트를 쓸 수 없을 때 Github에 SSH 연결하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/github-without-ssh-port)
+  * [Jun - ERROR: Repository not found. (git repository가 remote repository와 정상 연결되지 않는 경우)](https://hyunjun.github.io/skunk-html/error-repository-not-found-git-repository%EA%B0%80-remote-repository%EC%99%80-%EC%A0%95%EC%83%81-%EC%97%B0%EA%B2%B0%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0.html)
   * [Git 설정 파일 팀원들과 공유하기](https://www.jiwon.me/share-git-config/)
 * deps
   * [Git Deps for Clojure](https://clojure.org/news/2018/01/05/git-deps)
