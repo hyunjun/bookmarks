@@ -185,6 +185,7 @@ Flutter
 * [Flutter App Architecture with Riverpod: An Introduction](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)
   * [Riverpod 서드파티 프로젝트 분석하기. 1. 경험많은 개발자가 플러터를 어려워하는 이유 | by Cody Yun | Feb, 2023 | Medium](https://medium.com/@cody.yun/riverpod-%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0-%EC%98%88%EC%A0%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-time-tracking-app-with-firebase-1-2-7e98c62e36f2)
   * [Riverpod 서드파티 프로젝트 분석하기. Time Tracking App(with Firebase) 2/2 | by Cody Yun | Feb, 2023 | Medium](https://medium.com/@cody.yun/riverpod-%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0-%EC%98%88%EC%A0%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-7922a5bc16f1)
+* [Flutter 클린 아키텍처: 작은 앱부터 대규모 프로젝트까지 맞춤 설계](https://techblog.lycorp.co.jp/ko/flutter-clean-architecture)
 * [Flutter Riverpod autoDispose로 자동 해제시켜주기 — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/88)
 * [How we make Flutter work with CallKit Call Directory | by Addevice | Medium](https://addevice.medium.com/how-we-make-flutter-work-with-callkit-call-directory-e56b7a9513b4)
 * [옵저버블 플러터: gRPC :: ChatGPT 정리](https://banjubu.tistory.com/427)
