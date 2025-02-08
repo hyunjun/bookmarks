@@ -413,6 +413,7 @@ Interview
   * [the basics of how systems are designed](https://www.linkedin.com/posts/progressivethinker_systemdesign-activity-7229771811545137152-H5cC/)
   * [15 System Design Building Blocks You Should Know](https://blog.algomaster.io/p/15-system-design-building-blocks)
   * [Wondering how to balance your system design for optimal performance? Let's break down the essential trade-offs](https://www.linkedin.com/posts/piyush-ranjan-9297a632_wondering-how-to-balance-your-system-design-activity-7253250473363697665-emqh/)
+  * [The System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
   * [best-system-design-resources: A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews](https://github.com/javabuddy/best-system-design-resources/)
   * [system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews](https://github.com/ByteByteGoHq/system-design-101)
     * [Open-sourcing over 100 byte-sized system design concepts with high-resolution diagrams](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7119709900187820033-E9Zw/)
