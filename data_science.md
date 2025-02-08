@@ -1151,6 +1151,7 @@ Data Science
   * The authors also discuss the challenge of delayed user feedback and propose a solution for predicting missing feedback
 * [팀무신사 우리 랭킹이 달라졌어요, 새로워진 무신사 랭킹 근황](https://newsroom.musinsa.com/newsroom-menu/2024-0826-teammusinsa)
 * [AI와 함께하는 패션 큐레이션 — 무신사 2.0 시나리오 기반 추천 시스템 개발 | by 최영민 | MUSINSA tech | Oct, 2024 | Medium](https://medium.com/musinsa-tech/ai%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%EB%AC%B4%EC%8B%A0%EC%82%AC-2-0-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C-db7020b20b68)
+* [오늘의집이 ‘실시간 AI 추천’으로 88% 더 성장한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2958/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
