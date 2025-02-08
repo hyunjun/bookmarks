@@ -1622,6 +1622,7 @@ Javascript
 * [Projects | Component Encyclopedia | Storybook](https://storybook.js.org/showcase/projects)
   * [Dale Seo (달레) on LinkedIn: Projects | Component Encyclopedia | Storybook](https://www.linkedin.com/posts/daleseo_projects-component-encyclopedia-storybook-activity-7223425541951930370-gPt-)
 * [DAN 24 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
+* [한 스타트업의 사내 디자인 시스템 성장기](https://velog.io/@osohyun0224/%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%82%AC%EB%82%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%B1%EC%9E%A5%EA%B8%B0)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
@@ -3092,6 +3093,7 @@ Javascript
   * [Extremely reducing the size of NPM packages - DEV Community](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
     * [번역 NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
   * [NPM에 자신의 라이브러리 배포하기 - 자신이 개발한 Javascript 라이브러리를 NPM에 배포하는 방법에 대해서 알아봅니다](https://deku.posstree.com/ko/share/deploy-npm-library/)
+  * [무심코 지나친 npm run dev, 어떻게 로컬 서버에서 브라우저를 띄울까?](https://kwonbomi.xyz/blog/blog6)
   * npkill [node_modules 대청소 - YouTube](https://www.youtube.com/shorts/0b8HHK6Zs-E)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
