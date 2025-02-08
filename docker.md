@@ -645,6 +645,15 @@ Docker
   * BuildKit 미사용
   * 변경할 때마다 다시 빌드
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
+* [가벼운 도커 이미지를 만들고 유지하는 방법 6가지 | ITWorld](https://www.itworld.co.kr/article/3819285/%EA%B0%80%EB%B2%BC%EC%9A%B4-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html)
+  * 새롭게 시작
+  * ‘슬림’ 런타임 이미지 사용
+  * 다단계 빌드 사용
+  * 계층 최소화
+  * .dockerignore 사용
+  * 툴을 사용해 기존 이미지 검사 및 변경
+    * wagoodman/dive
+    * [Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/slimtoolkit/slim)
 * [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
 * [The container throttling problem](https://danluu.com/cgroup-throttling/)
 * [가상화 입문 - 가상머신과 도커를 구분하지 못하는 사람들을 위하여](https://velog.io/@skynet/%EA%B0%80%EC%83%81%ED%99%94-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EA%B3%BC-%EB%8F%84%EC%BB%A4%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
