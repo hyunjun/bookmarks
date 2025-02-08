@@ -5750,6 +5750,7 @@ Programming
   * [AI와 데브옵스가 제품 제작 방식을 바꾸는 방법 - Marko Klemetti - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/590156)
 * [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
   * [DevOps에 대한 추도사 | GeekNews](https://news.hada.io/topic?id=15604)
+* [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -6174,6 +6175,7 @@ Programming
   * [VidiGo Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pu](https://vidigo.ai/share/summary/2381a12213be)
   * [카프카 대 RabbitMQ 대 메시징 미들웨어 대 펄사 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/821639)
 * [네이버페이 주문에 적용된 확장 가능한 대기열 개발기](https://d2.naver.com/helloworld/6480558) Massronome
+* [최적의 메시지 브로커를 찾아서 | MADTECH](https://tech.madup.com/choosing-the-right-message-broker/)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
