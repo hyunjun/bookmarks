@@ -2999,7 +2999,7 @@ AWS
 * [인프런 비전공자도 이해할 수 있는 AWS 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6qr33RT-UiguSsCr_2Gq0S3)
 * [동영상강의 목록/README.md at main · ryujt/pages](https://github.com/ryujt/pages/blob/main/etc/%EB%8F%99%EC%98%81%EC%83%81%EA%B0%95%EC%9D%98%20%EB%AA%A9%EB%A1%9D/README.md)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
-* [AWS Cloud - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
+* [AWS Cloud 강의 기초 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
 
 # VPC
@@ -3021,6 +3021,7 @@ AWS
 * [AWS Network Firewall - Part 2](https://zigispace.net/1130)
 * [AWS Network Firewall](https://www.notion.so/AWS-Network-Firewall-ced7fc495b45497590841acbf87c549d)
 * [AWS Network Firewall 의 Rule Evaluation Order 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-anf-rule-evaluation-order/)
+* [AWS Network Firewall Suricata 규칙에서 Flow 키워드 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-network-firewall-suricata-rule-flow-keyworkd/)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
