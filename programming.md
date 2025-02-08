@@ -298,9 +298,11 @@ Programming
 * [프레임워크가 무엇이고, 어떻게 사용해야할까?? (프레임워크 동작방식 예제)](https://velog.io/@couchcoding/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 * [Design: #noFramework. Is it as hard as you think? | by Jérôme Beau | Feb, 2022 | Medium](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
 * [ehpub.co.kr](http://ehpub.co.kr/)
-* [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
-* [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
-* [One-Source Multi-Use, 스마트플레이스 일본 진출 작업기](https://d2.naver.com/helloworld/0983091) internationalization
+* internationalization i18n
+  * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization
+  * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
+  * [One-Source Multi-Use, 스마트플레이스 일본 진출 작업기](https://d2.naver.com/helloworld/0983091) internationalization
+  * [기존 서비스 국제화(i18n) 작업 쉽게 덜어내기: t 함수 자동 래핑 스크립트 만들기](https://tech.inflab.com/20250206-i18n-automation/)
 * [일본 B2B 비즈니스 일본에서 온 편지 (1편) / 일본 로컬라이징, 일본 서버 도메인 편](https://blog.naver.com/rokomokodon/222910078482)
 * [글로벌 서비스 개발 - 우아한형제들 세미나](https://devtimothy.tistory.com/140) 지역별 특성에 맞는 개발 방식 및 주의점
 * [풋내기 창업자의 스타트업 창업하기 11화 — 해외시장 진출. 페북의 MAU 그래프입니다. 2004년 2월에 창업한 페북은 3년만에… | by gary | 당근마켓 팀블로그 | Nov, 2020 | Medium](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-11%ED%99%94-%ED%95%B4%EC%99%B8%EC%8B%9C%EC%9E%A5-%EC%A7%84%EC%B6%9C-6d735072deb9)
@@ -4965,6 +4967,7 @@ Programming
   * [n8n introduction - YouTube](https://www.youtube.com/watch?v=kKs0y5Lx3Qw)
   * [개발자도, 비개발자도! 로우코드 자동화 툴 n8n 완전정복 가이드](https://datapopcorn.notion.site/n8n-10f2a185e5ce803c97d7dc96bef30982)
   * [다운 받은 워크플로우 불러오는 방법](https://datapopcorn.notion.site/12d2a185e5ce80fcb5cfddb9cf501396)
+  * [10분 만에 만드는 AI 에이전트! 자동화 끝판왕 기초 강의 🚀 - YouTube](https://www.youtube.com/watch?v=h4xKl9GMfTI)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
