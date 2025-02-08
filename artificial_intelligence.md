@@ -260,6 +260,7 @@ Artificial Intelligence
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
 * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
 * [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
+* [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -347,6 +348,7 @@ Artificial Intelligence
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
+* [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
 * [AI Gateway · Cloudflare AI Gateway docs](https://developers.cloudflare.com/ai-gateway/)
   * [Announcing AI Gateway: making AI applications more observable, reliable, and scalable](https://blog.cloudflare.com/announcing-ai-gateway/)
     * Cloudflare에서 AI 플랫폼의 API 중간에 둘 수 있는 AI Gateway 공개
