@@ -1253,6 +1253,16 @@ Web
 * [39 Web Developer Tools You'll Want To Take With You Into 2021 | Hacker Noon](https://hackernoon.com/39-web-developer-tools-youll-want-to-take-with-you-into-2021-il2j3wlp)
 * [Big list of http static server one-liners](https://gist.github.com/willurd/5720255#file-web-servers-md)
 * [Top 10 Backend Frameworks Software Developers Can Learn in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/05/top-10-backend-frameworks-fullstack.html)
+* [Best Backend Frameworks for 2025: A Developer's Guide to Making the Right Choice - DEV Community](https://dev.to/developerbishwas/best-backend-frameworks-for-2025-a-developers-guide-to-making-the-right-choice-45i0)
+  * Spring Boot: Java's Enterprise Champion
+  * Laravel: PHP's Elegant Workhorse
+  * Djapy: Django's Zero-Boilerplate Revolution
+  * Litestar: The New Python Performance King
+  * FastAPI: Speed with Simplicity
+  * Starlette: The ASGI Foundation
+  * Micronaut: JVM's Cloud-Native Framework
+  * Chalice: AWS Lambda's Python Champion
+  * Rocket: Rust's Type-Safe API Builder
 * [5 Open Source Projects Which Can Redefine Web Development in 2022 | by Vihar Kurama | Jan, 2022 | Better Programming](https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12)
 * [웹 개발자의 비밀무기들 | GeekNews](https://news.hada.io/topic?id=6199)
   * Loom, Markup.io, Hoverify, Waapalyzer, PixelParallel, 구글 Lighthouse
