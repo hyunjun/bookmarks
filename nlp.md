@@ -549,6 +549,8 @@ NLP
   * [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
     * [ModernBERT - BERT를 대체할 모델 | GeekNews](https://news.hada.io/topic?id=18355)
   * [Hands-on 나만의 RAG Agentic 모델 만들기](https://jypthemiracle.notion.site/Hands-on-RAG-Agentic-167ff228a180805d9008df325b720c44)
+  * [TDD로 ModernBERT 밑바닥부터 이해하기](https://blog.sionic.ai/modernbert-tdd)
+    * [TDD를 통해 ModernBERT 밑바닥부터 이해하기 | GeekNews](https://news.hada.io/topic?id=19073)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
 * [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers)
 * [publicservant\_AI](https://github.com/kimwoonggon/publicservant_AI)
