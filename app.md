@@ -113,6 +113,9 @@ App
 * [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
+* [Libby - Welcome](https://libbyapp.com)
+  * [영패훈 리비가 뭐야? 오버드라이브가 뭐야? 우리집 근처에 영어전자도서관이 있을까? - YouTube](https://www.youtube.com/watch?v=7G4hDjwBbmw)
+  * [Locate Library · OverDrive: Free ebooks, audiobooks & movies from your library](https://www.overdrive.com/libraries) 우편번호 63644 사용
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * listusb [macOS 사용자들을 위한 listusb (lsusb 와 비슷) : 클리앙](https://www.clien.net/service/board/pds/17956235)
