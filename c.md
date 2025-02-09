@@ -561,6 +561,7 @@ C
 * [Joe Zbiciak's answer to What happens in memory when you define a pointer of a pointer in C? - Quora](https://www.quora.com/What-happens-in-memory-when-you-define-a-pointer-of-a-pointer-in-C/answer/Joe-Zbiciak)
 * [Mark Gritter's answer to Why are pointers so difficult to work with in C? - Quora](https://www.quora.com/Why-are-pointers-so-difficult-to-work-with-in-C/answer/Mark-Gritter)
 * [Joe Zbiciak's answer to What does ' (&arr) \[1\] - arr' mean in C? - Quora](https://www.quora.com/What-does-arr-1-arr-mean-in-C/answer/Joe-Zbiciak?ch=15&oid=338289191&share=2a8a0e5d&srid=hq3D&target_type=answer)
+* [2분이면 알수있는 C 언어 포인터 구구단 #코딩 #coding #c언어 #포인터 #pointer - YouTube](https://www.youtube.com/shorts/3-o9JnrMOPo)
 * [pointers.py: Bringing the hell of pointers to Python](https://github.com/ZeroIntensity/pointers.py)
 
 # Standard Library
