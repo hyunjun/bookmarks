@@ -2954,6 +2954,7 @@ NLP
       * [hello-llama: A simple chat bot to play with Llama 3.1](https://github.com/holdenmatt/hello-llama)
       * [open-notebooklm: Convert any PDF into a podcast episode!](https://github.com/gabrielchua/open-notebooklm)
         * [📄Open NotebookLM: 무료로 PDF 문서를 팟캐스트로 만들어보세요!🎧](https://fornewchallenge.tistory.com/entry/%F0%9F%93%84Open-NotebookLM-%EB%AC%B4%EB%A3%8C%EB%A1%9C-PDF-%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94%F0%9F%8E%A7)
+      * [Llama3.1_(8B)-GRPO.ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_\(8B\)-GRPO.ipynb#scrollTo=8eb_7DQwmAoR)
     * [Llama 3.2 3B fine tuning 해보기](https://webnautes.tistory.com/2398)
     * [라마 3.2 llama 이미지 인식 가능 모델.. : 네이버블로그](https://blog.naver.com/ulsancoding/223597308980)
       * [LM-STUDIO 에서 라마 3.2 llama.. : 네이버블로그](https://blog.naver.com/ulsancoding/223599503060)
