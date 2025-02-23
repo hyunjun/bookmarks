@@ -2347,6 +2347,10 @@ NLP
   * [LLM과 함께 프로그래밍하는 방법 | GeekNews](https://news.hada.io/topic?id=18619)
 * [⭐️ Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
   * [C++와 CUDA를 사용하여 처음부터 LLM 추론 엔진 만들기 | GeekNews](https://news.hada.io/topic?id=18295)
+* [2024년 12월 2025년 1월 LLM 논문보고 느낀점](https://www.linkedin.com/posts/gim-gyungjin-7430aab4_large-concept-models-language-modeling-in-activity-7299102436495896576-Fkj1/)
+  * 상당한 연구가 practical한 workflow 문제를 풀기 위해 집중하고 있음
+  * LLM이 고수준의 concept을 이해할 수 있음을 확인하는 논문들 등장
+  * 각종 Inference-Time Self-Improvement(ITSI) 방법론이 성장하고 있는 추세
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2483,8 +2487,12 @@ NLP
     * [Tutorial: How to Run DeepSeek-R1 on your own local device | Unsloth Documentation](https://docs.unsloth.ai/basics/tutorial-how-to-run-deepseek-r1-on-your-own-local-device#using-llama.cpp-recommended)
     * [DeepSeek R1을 Amazon EKS에서 호스팅하는 방법](https://www.linkedin.com/posts/woohyungchoi_hosting-deepseek-r1-on-amazon-eks-notion-activity-7290707140577574912-ui3s/)
       * [Hosting DeepSeek-R1 on Amazon EKS](https://whchoi98.notion.site/Hosting-DeepSeek-R1-on-Amazon-EKS-18b04ef7e60e80d3b714d55a667a4033)
+    * [DeepSeek 관련하여 비즈니스 관점에서 정리한 보고서](https://www.linkedin.com/posts/%EC%98%81%EC%A7%84-%EB%B0%95-41b49639_deepseek-%E1%84%89%E1%85%AD%E1%84%8F%E1%85%B3-%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5%E1%84%85%E1%85%A2%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A6%E1%86%BA-activity-7295605625705611264-iK8o/)
+    * [**쉽게 쓰여진 GRPO | LinkedIn**](https://www.linkedin.com/pulse/%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84-grpo-jin-hyung-park-prv4c/)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
+    * [simple-r1](https://github.com/goddoe/simple-r1)
+      * [simple-r1 또 다른 DeepSeek-R1 Reproduction 하지만 멀티 노드 RL 학습 환경에서 Training Node, Inference Node 분리와 vLLM 기반 Inference Worker에 대해 NCCL을 활용한 빠른 Weight Update를 곁들인](https://www.linkedin.com/posts/sungju-kim-3b0406b0_simple-r1-%EB%98%90-%EB%8B%A4%EB%A5%B8-deepseek-r1-reproduction-%ED%95%98%EC%A7%80%EB%A7%8C-ugcPost-7298064153900892160-odV7/)
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
