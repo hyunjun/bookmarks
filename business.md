@@ -1100,6 +1100,7 @@ Business
 * [⛺️ 퇴사의 이유, "소속감을 느끼지 못해서"](https://stibee.com/api/v1.0/emails/share/wCu0oRbkfJRnADKyxhW2wFmIyJxy_7s=)
 * [(조용히) 회사를 떠나게 하는 이유들 : 네이버 블로그](https://blog.naver.com/help2000/222867303150)
 * [글로벌 칼럼 | 기업이 '조용한 퇴직'을 방지하기 위해 해야 할 일 - ITWorld Korea](https://www.itworld.co.kr/news/254806)
+* [직원들은 회사가 아닌, 매니저를 떠난다](https://www.linkedin.com/posts/jungwook-park-%EB%B0%95%EC%A0%95%EC%9A%B1-1a22161b_%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%80-%ED%9A%8C%EC%82%AC%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EB%96%A0%EB%82%9C%EB%8B%A4-mars%EC%97%90%EC%84%9C-9%EB%85%84%EA%B0%84-%EA%B7%BC%EB%AC%B4%ED%96%88%EB%8B%A4-activity-7288704313869094912-XPMP/) 퇴사
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -2714,6 +2715,7 @@ Business
 * [리더십은 사람들을 결집시켜 어떤 일을 이루도록 만드는 역량이다. 조직에서 부여한 직위와 권한과 상관 없이 언제든 발휘될 수 있고 발휘되어야 하는 역량](https://www.facebook.com/rheehot/posts/pfbid02FqH23g6DFA1CxJ8xWp98TXtT9ucSasSnQwKH9nN3WFAzh1cFBNs3RjvJ8aPjTpptl)
 * [Leadership development | According to renowned organization guru Warren Bennis, effective managers focus on immediate results, while visionary leaders inspire with a forward-t... | Facebook](https://www.facebook.com/groups/3938998896208789/posts/8441859679255999)
 * [천만 직장인 멘토의 조언, 명확하지 않은 목표 때문에 조직이 실패하는 겁니다. | KT 신수정 1부 H.PODCAST - YouTube](https://www.youtube.com/watch?v=qgfyiaiMMnE)
+* [나는 리더로서 종종, 어떤 문제에 직면하면 그 일을 ‘가장 잘 해낼 것 같은 구성원’ 을 제외하고 업무를 분배한다](https://www.linkedin.com/posts/mjpark03_%EB%82%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EB%A1%9C%EC%84%9C-%EC%A2%85%EC%A2%85-%EC%96%B4%EB%96%A4-%EB%AC%B8%EC%A0%9C%EC%97%90-%EC%A7%81%EB%A9%B4%ED%95%98%EB%A9%B4-%EA%B7%B8-%EC%9D%BC%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%9E%98-%ED%95%B4%EB%82%BC-%EA%B2%83-%EA%B0%99%EC%9D%80-activity-7298963289496031233-j8XV/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4206,6 +4208,7 @@ Business
       * 그리고 그러한 정체성을 바탕으로 강한 팀, 일하는 방식 구체화, 마침내 성과
 * [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
   * [1인 여성 개발팀으로 2백만명 사용자 달성하기 | GeekNews](https://news.hada.io/topic?id=18932)
+* [“당연한 성공 전략”을 따르지 않고도 1억 달러를 번 회사](https://www.linkedin.com/posts/%EC%9E%A5%EA%B7%9C-%EC%9D%B4-019a981b8_%EB%8B%B9%EC%97%B0%ED%95%9C-%EC%84%B1%EA%B3%B5-%EC%A0%84%EB%9E%B5%EC%9D%84-%EB%94%B0%EB%A5%B4%EC%A7%80-%EC%95%8A%EA%B3%A0%EB%8F%84-1%EC%96%B5-%EB%8B%AC%EB%9F%AC%EB%A5%BC-%EB%B2%88-%ED%9A%8C%EC%82%AC-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C%EB%8A%94-activity-7299257061454794752-5gA0/) "컴파운드 스타트업(Compound Startup)" 전략
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
