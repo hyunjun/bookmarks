@@ -800,6 +800,7 @@ Artificial Intelligence
   * HeyGen (유료) - 영상 번역 더빙 https://www.heygen.com
   * Suno (무료) - 음악 작곡 https://suno.com
 * [연구활용 AI 도구 사용방법 | Pega Devlog](https://jehyunlee.github.io/2025/01/20/General-76_researchgenai/)
+* [인공지능 deepseek, 챗GPT, grok3, claude, gemini중 누가 퍼블리싱을 잘할까?](https://blog.naver.com/pjt3591oo/223769434169)
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
