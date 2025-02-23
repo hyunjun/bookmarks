@@ -782,6 +782,7 @@ Vision
 * [Python Crawling 쇼핑몰 크롤링시 뭉쳐있는 이미지 OpenCV로 crop해서 저장하기](https://creeraria.tistory.com/46)
 * [Windows에 설치된 Rust에서 OpenCV 설치, 사용하는 방법](https://webnautes.tistory.com/2239)
 * [두 점 사이의 각도를 구하는 OpenCV Python 예제 코드 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2327)
+* [딥러닝 모델을 사용하여 유사 이미지 그룹별로 묶어서 보여주는 PyQt5 예제 코드](https://webnautes.tistory.com/2435)
 * [OpenCV Python Tracking 예제 - YouTube](https://www.youtube.com/watch?v=rswSdXN1KUw)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
