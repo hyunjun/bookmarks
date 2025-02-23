@@ -1646,6 +1646,7 @@ Programming
   * [소프트웨어 구축 및 API 최적화 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106534)
 * [7 Amazing Terminal API Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=eyXxEBZMVQI)
   * cURL, xh, Nushell http, Httpie, Curlie, Kulala nvim, Posting
+* [안전한 프로토콜의 설계 - Google Slides](https://docs.google.com/presentation/d/15edIsK14U7iVnDEcTV6epv68SN6PY56zecElEyZXsuI/edit#slide=id.p) 결제 API 설계 예시
 * [Apidog An integrated platform for API design, debugging, development, mock, and testing](https://apidog.com/)
   * [Apidog](https://github.com/Apidog)
   * [🐶 Walk through Apidog - Pet Store Demo](https://yne9jx46p8.apidog.io/)
@@ -7022,6 +7023,8 @@ Programming
   * [1월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/01/b-1-4.html)
   * [1월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/02/b-1-5.html)
   * [2월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/02/b-2-1.html)
+  * [2월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/02/b-2-2.html)
+  * [2월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/02/b-2-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
