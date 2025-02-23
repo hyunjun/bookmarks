@@ -6710,6 +6710,8 @@ Javascript
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [Manifest - Effortless Backends](https://manifest.build/)
   * [Manifest - 간단하지만 풀 기능을 제공하는 백엔드(BaaS) 오픈소스 | GeekNews](https://news.hada.io/topic?id=15285)
+* [mastra: the TypeScript AI agent framework](https://github.com/mastra-ai/mastra)
+  * [Mastra - TypeScript AI 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=19343)
 * [MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
 * [openapi: Type safe OpenAPI definitions](https://github.com/samchon/openapi)
   * [I made Swagger/OpenAPI type definitions and converter library - DEV Community](https://dev.to/samchon/i-made-swaggeropenapi-type-definitions-and-converter-library-5dej)
@@ -6823,6 +6825,7 @@ Javascript
     * 이미 Microsoft 내에서 Azure의 많은 서비스에 TypeSpec 사용
 * [typia: Super-fast Runtime validator (type checker) with only one line](https://github.com/samchon/typia)
   * [Universal Random Generator, which can make everything, just by only one line - DEV Community](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
+  * [Typia, 타입 정보를 이용한 유효성 검사](https://sturdy-mink-c2f.notion.site/Typia-18e020f42102803495a3e43ed50c88a5)
 * [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://vanilla-extract.style/)
   * [vanilla extract - 1](https://velog.io/@jay/css-in-ts-vanilla-extract)
   * [vanilla extract - 2](https://velog.io/@jay/vanilla-extract-2)
