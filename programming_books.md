@@ -4529,6 +4529,7 @@ Programming Books
   * [Release의 모든 것](https://hanbit.co.kr/store/books/look.php?p_code=B1820128661)
     * ★★★★★ 2024.04.22~28
     * 탐라 문005.12-박53ㄹ
+    * [Book Release의 모든 것 - 대규모 웹 분산 시스템을 위한 운영 고려 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1755)
 * [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
   * ★★★☆☆ 2023.03.13
   * 한라 005.1-유25ㅋ
