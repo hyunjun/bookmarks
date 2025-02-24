@@ -495,6 +495,8 @@ Elixir
 * [중급 3년차 Concurrent Data Processing in Elixir - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7TnAfMbYy-JKYzYjFXHxk9K)
 * [중급 3년차 Functional Web Development with Elixir, OTP, and Phoenix - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7Ras5eVxmUYx8i8zebhsMQh)
 * [중급 3년차 하룻 만에 끝내는 Elixir 기초 - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7T2A1U_-dbgOVPHUKhtdhcg)
+* [liftIO 2022 : 웹 개발의 모순과 Elixir가 특효약인 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
+* [OKKY 3월 세미나 Elixir: 대용량 분산 웹개발의 혁명 (부제: Java / C++ / Python이 OOP 언어가 아닌 이유) - YouTube](https://www.youtube.com/watch?v=Rjyf_dELAeg)
 * [Mobile Convergence :: Elixir 기초 시작하기 및 타입, 연산, 함수](https://mobicon.tistory.com/596)
 * [1. Elixir Motivation - YouTube](https://www.youtube.com/watch?v=uq_4iwWZ998)
 * [Learn Elixir | How To Learn Elixir Free](https://learn-elixir.dev/blogs/how-to-learn-elixir-free)
