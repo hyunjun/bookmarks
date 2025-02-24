@@ -2351,6 +2351,7 @@ NLP
   * 상당한 연구가 practical한 workflow 문제를 풀기 위해 집중하고 있음
   * LLM이 고수준의 concept을 이해할 수 있음을 확인하는 논문들 등장
   * 각종 Inference-Time Self-Improvement(ITSI) 방법론이 성장하고 있는 추세
+* [현직 개발자가 알려주는 LLM 제대로 사용하기 인공지능 오디세이](https://n.news.naver.com/article/308/0000036225)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
