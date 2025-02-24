@@ -386,6 +386,8 @@ Artificial Intelligence
 * [Data2vec: The first high-performance self-supervised algorithm that works for speech, vision, and text](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text)
   * [Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬 | GeekNews](https://news.hada.io/topic?id=5844)
   * [5회차 : data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://modulabs.notion.site/5-data2vec-A-General-Framework-for-Self-supervised-Learning-in-Speech-Vision-and-Language-84f6acebb5b740a584670f2c6dfdda4b)
+* [deep-searcher: Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python](https://github.com/zilliztech/deep-searcher)
+  * [Jehyun Lee - ● Deep Research is everywhere - 며칠 전만 해도 Google,... | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid022fBduMh2WX9fSduey3WzCnvhu4jDyaFxMf67ph5zQVzSjT3Q67FjgLgNqhbzio6Pl)
 * [Devin](https://devin.ai/)
   * [Thoughts On A Month With Devin – Answer.AI](https://www.answer.ai/posts/2025-01-08-devin.html)
     * [Devin과 함께한 한 달에 대한 소회 | GeekNews](https://news.hada.io/topic?id=18787)
