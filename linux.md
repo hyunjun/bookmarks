@@ -427,6 +427,7 @@ Linux
 * [우분투](https://wikidocs.net/book/1002)
 * [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
+* [Deep into Linux and Beyond](https://wxdublin.gitbooks.io/deep-into-linux-and-beyond/)
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
 * [Linux-for-Networking-Professionals: Linux for Networking Professionals, published by Packt](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
