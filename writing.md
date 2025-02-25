@@ -213,6 +213,7 @@ Writing
 * [MVP를 빠르고 효과적으로 개발하기: 우리는 협업해요. 안녕하세요. 저는 당근 LocalMaps UGC 팀에서 서버 개발을… | by 민정(Joanne) | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/mvp%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%98%91%EC%97%85%ED%95%B4%EC%9A%94-dc481bd03b88) tech spec
 * [Behind the Paper: 하이퍼커넥트 AI 조직이 제품에 기여하면서 연구하는 법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/10/09/behind-the-paper.html) tech spec 이야기 일부 포함
 * [문서를 먼저 작성하면 달라지는 것들 | Jbee.io](https://jbee.io/articles/developments/%EB%AC%B8%EC%84%9C%EB%A5%BC%20%EB%A8%BC%EC%A0%80%20%EC%9E%91%EC%84%B1%ED%95%98%EB%A9%B4%20%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%20%EA%B2%83%EB%93%A4)
+* [SI 프로젝트의 문서는 왜 만들까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2971/)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
