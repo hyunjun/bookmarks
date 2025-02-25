@@ -216,6 +216,7 @@ C++
   * [TrapC Bangkok 2024-11-11 on Vimeo](https://vimeo.com/1028578347)
   * FilC [llvm-project-deluge/Manifesto.md at deluge · pizlonator/llvm-project-deluge](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
     * [SPLASH'24 Pasadena - REBASE (Oct 23th) - YouTube](https://www.youtube.com/live/_VF3pISRYRc?t=4862s)
+* [어설트(ASSERT) 꿀팁! 팀별·개인별로 관리하는 법" - YouTube](https://www.youtube.com/watch?v=mjb-jltmMoc) #ifdef, environment variable
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
