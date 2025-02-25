@@ -1391,6 +1391,11 @@ Deep Learning
 * [PyG](https://pyg.org/)
   * [Ramona Bendias, Matthias Fey: Practical Session - Learning on Heterogeneous Graphs with PyG - YouTube](https://www.youtube.com/watch?v=ORh-3Nhz_mo)
 
+# Image to image
+* [Whisk - labs.google/fx](https://labs.google/fx/tools/whisk)
+  * [구글, 새로운 생성형 AI 툴 ‘위스크’ 출시](https://blog.google/intl/ko-kr/company-news/technology/whisk-kr/)
+  * [✨🖼️구글 위스크(Whisk): 이미지 조합으로 이미지를 생성하는 AI 도구](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%F0%9F%96%BC%EF%B8%8F%EA%B5%AC%EA%B8%80-%EC%9C%84%EC%8A%A4%ED%81%ACWhisk-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%95%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC)
+
 # Java
 * [SmallData | Blog | Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
 * [Deep Java Library - Open source library to build and deploy Deep Learning in Java](https://djl.ai/)
@@ -2988,6 +2993,8 @@ CVPR2016)
   * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
 * [Make-A-Video](https://makeavideo.studio/) Meta에서 영어로 문장을 입력하면 비디오로 만들어주는 논문 발표
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
+* [Meta Movie Gen](https://ai.meta.com/research/movie-gen/)
+  * [🎬Movie Gen: 메타의 차세대 미디어 생성 AI 모델🤖](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%ACMovie-Gen-%EB%A9%94%ED%83%80%EC%9D%98-%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%83%9D%EC%84%B1-AI-%EB%AA%A8%EB%8D%B8%F0%9F%A4%96)
 * [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://generative-video-camera-controls.github.io/)
 * Roboflow Inference [What is Inference? - Roboflow Inference](https://inference.roboflow.com/)
   * [Inference Pipeline - Roboflow Inference](https://inference.roboflow.com/using_inference/inference_pipeline/)
