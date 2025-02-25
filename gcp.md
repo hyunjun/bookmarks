@@ -202,12 +202,13 @@ Google Cloud Platform GCP
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
 * [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
+* [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
+* [Run open-source LLMs on BigQuery ML | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/run-open-source-llms-on-bigquery-ml?hl=en)
 * [AnoIn-BigQuery - Tutoial of getting image url using BigQuery Google BigQuery에 데이터셋을 적재하고 이용하는 튜토리얼](https://github.com/llable/AnoIn-BigQuery)
 * [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji) 여러가지 과정을 거쳐 BigQuery로 이전
 * [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
 * [구글 빅쿼리(BigQuery) 시작하기 및 datagrip 연동 안내](https://stricky.tistory.com/494)
 * [구글 빅쿼리(BigQuery) CSV 데이터 import 하는 방법](https://stricky.tistory.com/497)
-* [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
 * [**BigQuery연습.ipynb at main · serithemage/DataScienctPractice**](https://github.com/serithemage/DataScienctPractice/blob/main/BigQuery%EC%97%B0%EC%8A%B5.ipynb)
 * [Using WITH RECURSIVE in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/using-with-recursive-in-bigquery-sql-e593325f33f)
 * [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
