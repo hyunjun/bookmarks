@@ -8379,6 +8379,8 @@ Programming
   * [장기적(long term) 소프트웨어 개발 | GeekNews](https://news.hada.io/topic?id=18407) 매우 좋은 글
 * [Modern Staff Engineering at a Startup ~ chadxz.dev](https://chadxz.dev/startup/)
   * [스타트업에서의 모던 스태프 엔지니어링 | GeekNews](https://news.hada.io/topic?id=18310)
+* [The Hidden Costs of Running a Global Engineering Team and Recipes for Mitigation - Michael Bensoussan – Engineering & Leadership](https://michaelbensoussan.com/posts/challenges-of-global-engineering-teams/)
+  * [글로벌 엔지니어링 팀을 운영하는데 숨겨진 비용과 이를 완화하는 방법 | GeekNews](https://news.hada.io/topic?id=19347)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
