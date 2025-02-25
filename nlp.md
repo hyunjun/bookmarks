@@ -2490,6 +2490,7 @@ NLP
       * [Hosting DeepSeek-R1 on Amazon EKS](https://whchoi98.notion.site/Hosting-DeepSeek-R1-on-Amazon-EKS-18b04ef7e60e80d3b714d55a667a4033)
     * [DeepSeek 관련하여 비즈니스 관점에서 정리한 보고서](https://www.linkedin.com/posts/%EC%98%81%EC%A7%84-%EB%B0%95-41b49639_deepseek-%E1%84%89%E1%85%AD%E1%84%8F%E1%85%B3-%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5%E1%84%85%E1%85%A2%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A6%E1%86%BA-activity-7295605625705611264-iK8o/)
     * [**쉽게 쓰여진 GRPO | LinkedIn**](https://www.linkedin.com/pulse/%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84-grpo-jin-hyung-park-prv4c/)
+    * [인공지능 발전 추세와 두 가지 추론에 대한 수박 겉핥기](https://brunch.co.kr/@graypool/2166) GRPO, down sized, distilled, inference, reasoning
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
     * [simple-r1](https://github.com/goddoe/simple-r1)
