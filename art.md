@@ -39,6 +39,7 @@ Art
 * [history of animation](http://history-of-animation.webflow.io/)
 * [일본의 만화 편집부 데스크는 어떤 기준으로 작화를 보는가?](http://criticm.com/?p=5523)
 * [기사 - 슬램덩크학(學)개론 1 : 그 시절, 우리는 모두 강백호였다](https://www.ddanzi.com/ddanziNews/808919829)
+* [합본 인간의 정신은 허상인가?ㅣ전설의 SF명작 『공각기동대 (1995)』 끝장해석 몰아보기 - YouTube](https://www.youtube.com/watch?v=bozsqbYlYkQ) ego vs. bundle theory
 
 # Web Comic
 * [15년차 웹툰 작가가 말하는 웹툰 산업이 잘될 수밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=1xLauW7yhLg)
