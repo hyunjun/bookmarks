@@ -139,6 +139,7 @@
 * [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007) kotlin, java, lombok을 같이 사용하는 과정에서의 문제점
 * [코틀린(Kotlin)에서 apply, with, let, also, run 차이](https://jungwoon.github.io/kotlin/2019/07/24/Kotlin-apply-let-also-run/)
 * [Kotlin(코틀린)의 Sequence에 대해 알아보자](https://developer88.tistory.com/182)
+* [Should you use Kotlin Sequences for Performance? · Chris Banes](https://chrisbanes.me/posts/use-sequence/)
 * [Kotlin을 배워보자 part1(Basic Types, Function, Null, 타입 변환, Lambda)](https://developer88.tistory.com/152)
 * [Kotlin을 배워보자 part2(if, when, for, while, array, list, ranges)](https://developer88.tistory.com/175)
 * [Kotlin을 배워보자 part3 (Class, Constructor, 상속)](https://developer88.tistory.com/168)
@@ -403,6 +404,7 @@
 * [Kotlin CoroutineScope을 알아보고, cancel 처리에 대해서 알아보자](https://thdev.tech/kotlin/2020/12/29/kotlin_effective_17/)
 * [Callback으로 전달받은 데이터를 Coroutines의 Channel로 처리해보자](https://thdev.tech/kotlin/2021/01/09/Coroutines-Callback/)
 * [코루틴 채널 (Channel)](https://brunch.co.kr/@mystoryg/237)
+* [코루틴 버퍼가 있는 채널 (Channel)](https://brunch.co.kr/@mystoryg/242)
 * [Callback to Coroutines in Kotlin](https://amitshekhar.me/blog/callback-to-coroutines-in-kotlin)
 * [KOTLIN Flow 에 대한 총정리 # Coroutine](https://developer88.tistory.com/345)
 * [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
@@ -587,6 +589,7 @@
     * the talk aims to showcase the advanced functionality that Ktor can provide
     * The presentation includes a case study and demonstrates how to add different features to the case study
     * [VidiGo Using Ktor 3.0 with All the Shiny Things • Garth G](https://vidigo.ai/share/summary/44129a1b5a5f)
+  * [Ktor로 팀 환경에 맞는 API 서버 구현하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ktor-api-server/)
 * MockK [코틀린 mock 프레임워크 MockK 소개](https://javacan.tistory.com/entry/kotlin-mock-framework-mockk-intro)
 * [parsix: Parse, don't validate](https://github.com/parsix/parsix)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
