@@ -143,6 +143,15 @@ NLP
   * [AP & mAP 내용 정리 | Pacientes Devlog](https://pacientes.github.io/posts/2021/02/ml-ap-map/) AP(Average Precision) mAP(mean Average Precision)
   * [reliability of Covid-19 self test kit | Pega Devlog](https://jehyunlee.github.io/2022/04/23/Python-DS-99-covidprec/)
   * [Precision & Recall](https://mlu-explain.github.io/precision-recall/)
+  * [**검색 시스템의 정밀도와 재현율 사이의 균형을 어떻게 맞추면 좋을까요?**](https://www.linkedin.com/posts/sigridjineth_%EA%B2%B0%EC%A0%95%EC%A0%81-%EC%A7%88%EB%AC%B8-%EA%B2%80%EC%83%89-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80-%EC%9E%AC%ED%98%84%EC%9C%A8-%EC%82%AC%EC%9D%B4%EC%9D%98-%EA%B7%A0%ED%98%95%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%9E%EC%B6%94%EB%A9%B4-activity-7300018490646609920-qceZ/)
+    * 정밀도(Precision) 와 재현율(Recall) 사이의 균형은 중요한 과제
+      * 정밀도는 검색된 결과 중 관련성이 높은 결과의 비율을 의미
+      * 재현율은 실제로 관련성이 높은 문서 중 검색된 문서의 비율을 의미
+      * 간단히 말해, 정밀도는 "진실만을 담는" 데 초점을 맞추고, 재현율은 "모든 진실을 놓치지 않는" 데 주력
+    * Cumulative Gain 개념이 유용
+      * 검색 단계에서는 가능한 한 모든 관련 결과를 포함하도록 해야 하지만, 그중에서도 기여하는 가치가 더 큰 결과가 존재
+      * 우리가 실무에서 주로 중요한 것은 "관련 결과 중 몇 퍼센트를 가져왔느냐"가 아니라, "가치의 총합 중 어느 정도를 회수했느냐"일 때가 대다수
+      * 이는 Discounted Cumulative Gain, DCG 같은 순위 매김 지표가 "가장 가치 있는 결과를 상위에 배치"하는 것을 중시하는 관점과 일맥상통
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Repository for PyCon 2016 workshop Natural Language Processing in 10 Lines of Code](https://github.com/cytora/pycon-nlp-in-10-lines)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
