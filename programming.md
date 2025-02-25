@@ -7865,6 +7865,8 @@ Programming
   * [Getting Started With RSocket: Spring Boot Server](https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server)
 
 # Safe, Secret
+* [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better#is-it-wrong-to-store-secrets-in-environment-variables)
+  * [번역 환경변수에 시크릿 값을 저장하지 않고 사용하는 더 나은 방법 | by 조영제 | Jan, 2025 | Medium](https://siosio3103.medium.com/%EB%B2%88%EC%97%AD-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EC%97%90-%EC%8B%9C%ED%81%AC%EB%A6%BF-%EA%B0%92%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8D%94-%EB%82%98%EC%9D%80-%EB%B0%A9%EB%B2%95-2492274c544a)
 * [blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
   * [blackbox 설정](https://medium.com/@strncpy/blackbox-설정-80e1b8700e9d)
 * [Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks](https://github.com/Infisical/infisical)
