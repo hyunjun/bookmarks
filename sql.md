@@ -558,6 +558,7 @@ SQL
 * [Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
+* [dungbeetle: A distributed job server built specifically for queuing and executing heavy SQL read jobs asynchronously. Separate out reporting layer from apps. MySQL, Postgres, ClickHouse](https://github.com/zerodha/dungbeetle)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
   * [ERD (Entity-Relation Diagram) 표기법](https://hudi.blog/entity-relation-diagram/)
@@ -1462,6 +1463,7 @@ SQL
 * [Postgres에서 PDF 전문 검색하기 | GeekNews](https://news.hada.io/topic?id=17535)
 * [트랜잭셔널 메시징에도, 그냥 PostgreSQL 쓰세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/2833/) PGMQ
 * [PostgreSQL, 2024년 올해의 DBMS로 선정 | GeekNews](https://news.hada.io/topic?id=18751)
+* [7+ million Postgres tables | Kailash Nadh | IndiaFOSS 2024 | FOSS United - YouTube](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
