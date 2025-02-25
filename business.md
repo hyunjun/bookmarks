@@ -82,6 +82,9 @@ Business
       * 구글은 오픈 문화를 복원하여 직원들이 자유롭게 질문하고 문제를 제기할 수 있는 환경을 만들어야 함
       * 그렇지 않으면 지속적으로 불필요한 실패와 곤란을 겪을 것
     * 구글 내부자의 관점에서 바라본 오픈 문화 붕괴 과정과 그에 따른 부정적 영향을 보여주고 있음.
+* [조직이 무너지고 있다고 느낄 때 - by Hyungsuk Kim - divercity](https://divercitystory.substack.com/p/bca)
+  * [조직이 무너질 때의 모습은 대체로 비슷](https://www.linkedin.com/posts/divercity_%EC%A1%B0%EC%A7%81%EC%9D%B4-%EB%AC%B4%EB%84%88%EC%A7%88-%EB%95%8C%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9D%80-%EB%8C%80%EC%B2%B4%EB%A1%9C-%EB%B9%84%EC%8A%B7%ED%95%98%EB%8B%A4-%EB%AA%A8%EB%91%90%EA%B0%80-%EB%8B%AC%EC%84%B1%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%ED%95%98%EB%8A%94-activity-7295379394313822208-Y5TW/)
+  * [Hyungsuk Kim - 조직이 무너질 때의 모습은 대체로 비슷하다. - 모두가 달성하고 싶어하는 목표가 없다. -... | Facebook](https://www.facebook.com/hyungsuk.kim.7/posts/pfbid06CW1v4mgxXieUE3wnLBrSUxPCSKg4tQv3nwCMRxUrA3fJxFedhuMxvhWxrqgRm1jl)
 * [기업 경영진이 정신 건강을 챙겨야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244797)
 * [이복연 - 캐나다의 한 금융 기관에서 조사한 결과에 따르면 창업자들이 우울을 경험할 확률은 일반인에 비해 2배가 높고,... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0ie39o7r1hKcdAt9bdVtMYd11PgnLJTMHfQ8PdmccuLMFLsrq7zZs3N4gBwM85h1fl)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
