@@ -3355,6 +3355,7 @@ Python
 * [Jupyter & IPython terminology explained](https://www.dataschool.io/jupyter-and-ipython-terminology/)
 * [JupyterHub를 Kubernetes에 Helm을 사용하여 설치하기](https://velog.io/@tkfka/JupyterHub%EB%A5%BC-Kubernetes%EC%97%90-Helm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [Zero to JupyterHub with Kubernetes — Zero to JupyterHub with Kubernetes documentation](https://z2jh.jupyter.org/en/stable/)
+* [Display the Jupiter's 4 moons by ascii art in terminal. - YouTube](https://www.youtube.com/watch?v=AVri-VjYjyk)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
