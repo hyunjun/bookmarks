@@ -2469,6 +2469,8 @@ App
 * MDCat [A python script which uses the GitHub API to convert your markdown files to GitHub styled HTML site](https://pythonawesome.com/a-python-script-which-uses-the-github-api-to-convert-your-markdown-files-to-github-styled-html-site/)
 * [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
+* [mdq: like jq but for Markdown: find specific elements in a md doc](https://github.com/yshavit/mdq)
+  * [mdq - 마크다운을 위한 jq | GeekNews](https://news.hada.io/topic?id=19405)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
   * [옵시디안(Obsidian)과 제텔카스텐 기본 과정(완결) - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUUJlu0L-_U7c1jy_bqvPMR6)
