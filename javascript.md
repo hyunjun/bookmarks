@@ -2019,6 +2019,7 @@ Javascript
 * [자바스크립트 개발의 지형을 바꾸는 7가지 툴 - ITWorld Korea](https://www.itworld.co.kr/news/195529)
 * [2021 JavaScript Rising Stars | GeekNews](https://news.hada.io/topic?id=5716)
 * [2023 JavaScript Rising Stars](https://risingstars.js.org/2023/en)
+* [(번역) 자바스크립트 프레임워크 - 2025년을 향해](https://velog.io/@sehyunny/js-frameworks-heading-into-2025)
 * [10-javascript-frameworks: Comparison of 10 frontend JavaScript frameworks](https://github.com/fireship-io/10-javascript-frameworks)
   * [I built the same app 10 times // Which JS Framework is best? - YouTube](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 * [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
@@ -3926,6 +3927,7 @@ Javascript
   * [The Internals of Deno - The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
     * Deno의 내부 동작을 자세히 설명하는 무료 이북, Deno 입문자를 위한 자료가 아니라 Deno 내부를 자세히 알고 싶은 사람들을 위한 자료
     * Deno의 아키텍처, 스레딩 모델, 브릿지, 기반, 임포트와 Ops를 하나씩 설명
+  * [Deno가 Node.js를 대체할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2980/)
   * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
   * [Ruck - An open source buildless React web application framework for Deno](https://ruck.tech/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
@@ -5858,6 +5860,7 @@ Javascript
   * [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
   * [Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
   * [Fixing Hydration Errors Caused by Chrome Extensions in Next js 15 - YouTube](https://www.youtube.com/watch?v=lRDKjS7fXIE)
+  * [Nextjs 15버전이 가진 렌더링 방식의 한계와 그 해결책(Partial Pre Rendering)](https://www.youtube.com/watch?v=dBRFHwH9imo)
   * [NextJS 필수 VS Extionsion 설치하기](https://mixedcode.com/blog/70)
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
   * [Next.js Full Course - Supabase를 사용하여 나만의 TASK 관리 애플리케이션 만들기 - YouTube](https://www.youtube.com/watch?v=fXLBVDa6J2s)
@@ -6050,6 +6053,7 @@ Javascript
   * [GitpleLive React Sample Application | Programming Cloud-Native](https://tech.finset.io/2022/09/21/gitplelive-sample/)
   * [플레이스 예약 사업주향 서비스 상태관리 라이브러리 전환 후기 | by Seungu Lee | 네이버 플레이스 개발 블로그 | Nov, 2022 | Medium](https://medium.com/naver-place-dev/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%98%88%EC%95%BD-%EC%82%AC%EC%97%85%EC%A3%BC%ED%96%A5-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%A0%84%ED%99%98-%ED%9B%84%EA%B8%B0-f71ee2626ede)
   * [Recoil을 이용한 손쉬운 상태관리. Recoil의 장단점과 함께 효과적으로 상태관리 할 수 있는 방법을… | by DongHyeok Byun / Frontend Developer | Dec, 2022 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/recoil%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%86%90%EC%89%AC%EC%9A%B4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-b70b32650582)
+  * [Recoil 사용을 왜 안하는지 궁금했다. Why People Avoid Using Recoil in 2025 | by Sigrid Jin | Feb, 2025 | Medium](https://sigridjin.medium.com/recoil-%EC%82%AC%EC%9A%A9%EC%9D%84-%EC%99%9C-%EC%95%88%ED%95%98%EB%8D%98%EC%A7%80-%EA%B6%81%EA%B8%88%ED%96%88%EB%8B%A4-8517cdbf5434)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
@@ -6817,6 +6821,7 @@ Javascript
 * [typescript-boilerplate: A modern TypeScript project setup, for Node.js and browsers (using esbuild)](https://github.com/metachris/typescript-boilerplate)
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
+* [typescript-coding-guide: TypeScript 코딩 가이드입니다](https://github.com/wisedog/typescript-coding-guide)
 * [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) TypeScript에 대한 1시간 20분 정도 분량의 다큐멘터리
 * [TypeSpec](https://typespec.io/) Describe your data up front and generate schemas, API specifications, client / server code, docs, and more
   * [Introducing TypeSpec: A New Language for API-Centric Development | TypeSpec](https://typespec.io/blog/2024-04-25-introducing)
