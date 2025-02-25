@@ -2408,6 +2408,7 @@ NLP
   * [Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스 | GeekNews](https://news.hada.io/topic?id=17665)
   * [🤖Browser Use: AI가 스스로 웹을 탐색하고 상호작용하는 혁신적 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Browser-Use-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9B%B9%EC%9D%84-%ED%83%90%EC%83%89%ED%95%98%EA%B3%A0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%84%EA%B5%AC)
   * [🌐🤖 Browser-Use WebUI: AI로 웹 브라우저를 제어하세요](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%F0%9F%A4%96-Browser-Use-WebUI-AI%EB%A1%9C-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EC%84%B8%EC%9A%94)
+  * [웹 브라우저 제어 AI 에이전트 Browser Use WebUI Deep Research 기능 사용하기 - YouTube](https://www.youtube.com/watch?v=ge0ahR_XAWE)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
   * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
@@ -2489,8 +2490,12 @@ NLP
     * [DeepSeek R1을 Amazon EKS에서 호스팅하는 방법](https://www.linkedin.com/posts/woohyungchoi_hosting-deepseek-r1-on-amazon-eks-notion-activity-7290707140577574912-ui3s/)
       * [Hosting DeepSeek-R1 on Amazon EKS](https://whchoi98.notion.site/Hosting-DeepSeek-R1-on-Amazon-EKS-18b04ef7e60e80d3b714d55a667a4033)
     * [DeepSeek 관련하여 비즈니스 관점에서 정리한 보고서](https://www.linkedin.com/posts/%EC%98%81%EC%A7%84-%EB%B0%95-41b49639_deepseek-%E1%84%89%E1%85%AD%E1%84%8F%E1%85%B3-%E1%84%8E%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5%E1%84%85%E1%85%A2%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A6%E1%86%BA-activity-7295605625705611264-iK8o/)
+    * [DeepSeek 정복기 1 강화학습(Reinforcement Learning : RL) 기초](https://smartest-suri.tistory.com/72)
+    * [DeepSeek 정복기 2 GRPO 수식 이해하기 (R1, DeepSeekMath)](https://smartest-suri.tistory.com/73)
+    * [DeepSeek 정복기 3 딥시크 V3에 대한 기본적인 이해](https://smartest-suri.tistory.com/74)
     * [**쉽게 쓰여진 GRPO | LinkedIn**](https://www.linkedin.com/pulse/%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84-grpo-jin-hyung-park-prv4c/)
     * [인공지능 발전 추세와 두 가지 추론에 대한 수박 겉핥기](https://brunch.co.kr/@graypool/2166) GRPO, down sized, distilled, inference, reasoning
+    * [무료! 🔍🤖📚DeepSeek/Gemini로 Open Deep Research 만들기](https://fornewchallenge.tistory.com/entry/%EB%AC%B4%EB%A3%8C%F0%9F%94%8D%F0%9F%A4%96%F0%9F%93%9ADeepSeekGemini%EB%A1%9C-Open-Deep-Research-%EB%A7%8C%EB%93%A4%EA%B8%B0)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
     * [simple-r1](https://github.com/goddoe/simple-r1)
@@ -2804,6 +2809,8 @@ NLP
     * [AI Convergence :: LangChain LangSmith 시작하기](https://mobicon.tistory.com/601)
     * [LangChain 사용추적,모니터링을 도와주는 LangSmith를 알아보자!](https://codesw.tistory.com/entry/LangChain-%EC%82%AC%EC%9A%A9%EC%B6%94%EC%A0%81%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-LangSmith%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
     * [자동으로 #프롬프트 최적화 하는 도구를 LangSmith 피드백 기능을 활용하여 만들어 봤습니다. - YouTube](https://www.youtube.com/watch?v=z0c2BcTnYpY)
+    * [agentic-workflow/README.md at main · kyopark2014/agentic-workflow · GitHub](https://github.com/kyopark2014/agentic-workflow/blob/main/README.md#code-interpreter)
+      * [그래프를 그리거나 복잡한 연산을 할 경우에 Agent의 Code Interpreter를 활용하면 손쉽게 좋은 결과](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-aws-langgraph-activity-7297078914495979520-b1mf/)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langchain_clova_emb.ipynb - Colab](https://colab.research.google.com/drive/1BdgOq4KuL--BWkpdDlQ1HbDPYajt4tGh?usp=sharing)
@@ -4633,6 +4640,8 @@ NLP
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
 * [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale | Meta AI Research](https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
+* [Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers](https://github.com/Zyphra/Zonos)
+  * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/) Zonos-v0.1: 고품질 오픈소스 TTS 모델 공개!
 
 # Wikipedia
 
