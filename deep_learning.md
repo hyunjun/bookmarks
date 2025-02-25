@@ -233,6 +233,7 @@ Deep Learning
   * [OpenAI, 팩트 체크 벤치마크 SimpleQA 공개 | GeekNews](https://news.hada.io/topic?id=17552)
   * [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
     * [OpenAI의 "12 Days of OpenAI" 발표 요약 | GeekNews](https://news.hada.io/topic?id=18411)
+  * [Open AI 딥 리서치 결과 15개 공유](https://stock79.tistory.com/entry/Open-AI-%EB%94%A5-%EB%A6%AC%EC%84%9C%EC%B9%98-%EA%B2%B0%EA%B3%BC-15%EA%B0%9C-%EA%B3%B5%EC%9C%A0)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [OpenAI Canvas - ChatGPT와 함께하는 새로운 작성 및 코딩 방식 | GeekNews](https://news.hada.io/topic?id=17061)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
@@ -1395,6 +1396,7 @@ Deep Learning
 * [Whisk - labs.google/fx](https://labs.google/fx/tools/whisk)
   * [구글, 새로운 생성형 AI 툴 ‘위스크’ 출시](https://blog.google/intl/ko-kr/company-news/technology/whisk-kr/)
   * [✨🖼️구글 위스크(Whisk): 이미지 조합으로 이미지를 생성하는 AI 도구](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%F0%9F%96%BC%EF%B8%8F%EA%B5%AC%EA%B8%80-%EC%9C%84%EC%8A%A4%ED%81%ACWhisk-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%95%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC)
+  * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/)
 
 # Java
 * [SmallData | Blog | Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
