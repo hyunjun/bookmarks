@@ -2368,6 +2368,7 @@ AWS
 * [생성형 AI로 만드는 나만의 이력서: 웅진 IT의 Amazon Bedrock과 SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/woongjin-generative-ai-resume-in-bedlock-sagemaker/)
 * [Amazon SageMaker와 Airflow를 이용한 SK브로드밴드의 MLOps 플랫폼 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/skb-sagemaker-airflow-mlops-platform/)
 * [이미지 비디오 Multi-modal 추론 모델, LLaVA-NeXT-Video 모델을 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hosting-llava-next-video-model-on-amazon-sagemaker-endpoint/)
+* [티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
   * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/02_qa_chatbot/10_hands_on_lab/02_rag_over_complex_pdf)
     * [Demo RAG Over Complex Document on AWS - YouTube](https://www.youtube.com/watch?v=8YpfTuEbqJk)
