@@ -3397,6 +3397,8 @@ Python
 * jupylates-ext [Chiara Marmo / Jupyter lab extension for jupylates · GitLab](https://gitlab.in2p3.fr/chiara.marmo/jupylates-ext)
   * [Nicolas M. Thiéry - Jupylates- spaced repetition for teaching with Jupyter - YouTube](https://www.youtube.com/watch?v=4WDVm4PcHig)
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
+* [Jupyter Agent - a Hugging Face Space by data-agents](https://huggingface.co/spaces/data-agents/jupyter-agent)
+  * [프롬프트만으로 다운로드 가능한 Jupyter notebook을 만들어주는 Jupyter Agent가 Huggingface에 올라와서 공유](https://www.linkedin.com/posts/eunsoo_jupyter-agent-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%80%EB%8A%A5%ED%95%9C-jupyter-activity-7295710281077338114-DV3J/)
 * Jupyter Book [Built with Jupyter Book](https://jupyterbook.org/)
   * [PyCon KR Jupyter Book을 활용해 손쉽게 콘텐츠를 생산하고 공유하자 안성진 - YouTube](https://www.youtube.com/watch?v=VXPZ0omr5UE)
 * [**JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture**](https://github.com/jupyterlab/jupyterlab)
