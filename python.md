@@ -4772,6 +4772,7 @@ Python
   * [Managing Python versions with pyenv | The Python Corner](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
   * [개발 런타임 환경 구축하기 - 파이썬 pyenv편 | 요즘IT](https://yozm.wishket.com/magazine/detail/2057/)
   * [Mobile Convergence :: Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/600)
+  * [Shell Script 대신 Python으로 서버 관리해 보았습니다 ✔️ | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=6aroOYEMgCs) python runtime을 pyenv와 함께 패키징
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
