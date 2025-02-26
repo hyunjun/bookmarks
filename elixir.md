@@ -476,6 +476,8 @@ Elixir
   * [Dockerless, Elixir Web Application using Podman and Plug](https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug/)
 * [pogo: Distributed supervisor for clustered Elixir applications](https://github.com/team-telnyx/pogo)
   * [Pogo - distributed supervisor for Elixir](https://szajbus.dev/elixir/2023/05/22/pogo-distributed-supervisor-for-elixir.html)
+* [pythonx: Python interpreter embedded in Elixir](https://github.com/livebook-dev/pythonx)
+  * [Running ML models in Elixir using Pythonx](https://samrat.me/running-ml-models-in-elixir-using-pythonx/)
 * [rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
   * [Pixel Wars: Elixir and Rust Join Forces for Image Domination | by Hassan Raza | Oct, 2023 | Medium](https://hassanrsiddiqi.medium.com/pixel-wars-elixir-and-rust-join-forces-for-image-domination-f5664915df46?)
   * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
