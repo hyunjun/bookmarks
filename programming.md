@@ -4915,6 +4915,8 @@ Programming
       * 수동 클라우드 배포는 여전히 널리 사용
       * CI/CD 파이프라인에서 수명이 짧은 크리덴셜의 사용률이 여전히 너무 낮음
 * [지금 알아야 할 CI/CD 트렌드 5가지 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/31/cicd-trends/)
+* [DevSecOps Pipeline](https://www.linkedin.com/posts/satya619_%F0%9D%91%AB%F0%9D%92%86%F0%9D%92%97%F0%9D%91%BA%F0%9D%92%86%F0%9D%92%84%F0%9D%91%B6%F0%9D%92%91%F0%9D%92%94%F0%9D%91%B7%F0%9D%92%8A%F0%9D%92%91%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-activity-7298651296163667969-8L2p/)
+  * ![](https://media.licdn.com/dms/image/v2/D5622AQH02aZTzv8EaQ/feedshare-shrink_800/B56ZUoEqM.GsAg-/0/1740134068092?e=1743638400&v=beta&t=CzOhvXiPbXeihWCxs3kaOMYPMxYTtoiebWxlG8IqIzs)
 * [A CI/CD pipeline is a tool that automates the process of building, testing, and deploying software](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7241472242054828033-nGVp/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
