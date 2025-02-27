@@ -183,6 +183,7 @@ Elixir
   * [erlangelist: Source code of The Erlangelist blog](https://github.com/sasa1977/erlangelist)
 * [The Soul of Erlang and Elixir • Sasa Juric • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
+  * [그럼에도 불구하고 Elixir: 카카오워크 서버팀의 Elixir 실용주의 프로그래밍 / if(kakao)2022 - YouTube](https://www.youtube.com/watch?v=NotXpRovDoA)
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
 * [LG유플러스 Elixir Tech Seminar - YouTube](https://www.youtube.com/watch?v=NJqlO8ZSyJw)
 * [OKKY 3월 세미나 Elixir: 대용량 분산 웹개발의 혁명 (부제: Java / C++ / Python이 OOP 언어가 아닌 이유) - YouTube](https://www.youtube.com/watch?v=Rjyf_dELAeg)
