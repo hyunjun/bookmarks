@@ -825,6 +825,7 @@ Business
   * Richard hackman의 '5요인 모델', 팀 효과성의 5요인
     * 1. 진정한 팀이 되기 2. 설득력 있는 방향 3. 활성화 구조 4. 지원적 컨텍스트 5. 전문가 코칭
 * [피터 드러커의 7가지 명언(ft, 삶의 지혜가 된다) : 네이버 블로그](https://blog.naver.com/help2000/222904305859)
+* [(1) 여현준 - "자본주의 체제에서 기업은 일종의 사회 제도다. 기업의 본질과 목표는 경제적 성취 또는 그 형식적 규칙이... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid036Z2oFRnJ9UnBm2BF1YuREBgnoCtqxwZjTAcSG9JXUTg7nkCgLJJkYrGFXvJrMoCul) 드러커 Drucker
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
 * [AI 스타트업 유감. 시대가 변하고 있다는 건 스타트업 씬에 있고 이직 한두번 해본… | by Ghost_0503 | Sep, 2022 | Medium](https://nep-kim.medium.com/ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9C%A0%EA%B0%90-4f4f7055681)
