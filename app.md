@@ -2827,6 +2827,7 @@ App
 * [Ventoy](https://www.ventoy.net/en/index.html)
   * [Ventoy 프로그램을 사용하여 외장하드에 윈도우 10 / 11 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=frMy1omswhs)
     * [Ventoy 프로그램을 사용하여 외장하드에 윈도우 10 / 11 설치하는 방법 - 인포헬풀](https://infohelpful.com/ventoy%EB%A1%9C-%EC%99%B8%EC%9E%A5%ED%95%98%EB%93%9C%EC%97%90-%EC%9C%88%EB%8F%84%EC%9A%B0-10-11-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+  * [이제 윈도우USB도 따로 만들지 마세요. 이거 하나면 모든 OS를 통합해서 한개의 USB로 다 됩니다. 정말 다 됩니다. - YouTube](https://www.youtube.com/watch?v=QRF8MvXmQ3c)
 
 ## Window Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
