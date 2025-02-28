@@ -390,6 +390,7 @@ Hardware
 * [Raspberry Pi 4에 OpenCV 4.8.1 설치하는 방법 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1885)
 * [라즈베리 파이 500 리뷰: 다시 컴퓨터가 된 키보드 | GeekNews](https://news.hada.io/topic?id=18206)
 * [라즈베리파이 5 GPIO LED 제어를 위한 리눅스 디바이스 드라이버 만들어보기](https://webnautes.tistory.com/2419)
+* ["Raspberry Pi"를 네트워크 저장 서버로 전환하는 방법 - YouTube](https://www.youtube.com/watch?v=Shn8kkq9HYw) NAS
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
