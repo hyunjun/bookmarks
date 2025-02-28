@@ -4436,6 +4436,7 @@ Business
   * [Kraftful: AI for Product Builders. The Ultimate Copilot for User Feedback](https://www.kraftful.com/)
 * [2025년, UI디자인을 도와주는 AI서비스 삼대장](https://brunch.co.kr/@ghidesigner/190) Relume Creatie Visily
 * [re-buttonization : 터치스크린이 사라지고 촉각(Tactile) 컨트롤이 돌아 | GeekNews](https://news.hada.io/topic?id=17571)
+* [AI로부터 일자리 지키는 웹개발 (성공 사례 5가지) - YouTube](https://www.youtube.com/watch?v=WRZLxYW6Kgc) 보면서 automat restaurant가 연상
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
