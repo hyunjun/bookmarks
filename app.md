@@ -2844,6 +2844,9 @@ App
 * [저사양 PC에 윈도우11 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=b6bTaSABWlQ)
 * [Windows in a Docker container](https://github.com/dockur/windows) M2에서는 prerequisite 설치 문제때문에 잘 되지 않음. linux에서 해봐야 할 듯
   * [Running Windows in a Docker Container! - YouTube](https://www.youtube.com/watch?v=xhGYobuG508)
+* [WinToUSB - MajorGeeks](https://www.majorgeeks.com/files/details/wintousb.html)
+  * [외장하드 및 USB에 윈도우 11을 설치하여 휴대용으로 들고 다니는 매우 간단한 방법 - YouTube](https://www.youtube.com/watch?v=V_q13nSsOlg)
+    * [USB 및 외장하드에 윈도우11 설치하는 초간단 방법, 윈도우를 휴대용으로 들고 다니세요!! - 인포헬풀](https://infohelpful.com/usb-%eb%b0%8f-%ec%99%b8%ec%9e%a5%ed%95%98%eb%93%9c%ec%97%90-%ec%9c%88%eb%8f%84%ec%9a%b011-%ec%84%a4%ec%b9%98%ed%95%98%eb%8a%94-%ec%b4%88%ea%b0%84%eb%8b%a8-%eb%b0%a9%eb%b2%95/)
 
 ## Window Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
