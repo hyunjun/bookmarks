@@ -2523,6 +2523,8 @@ NLP
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
     * [simple-r1](https://github.com/goddoe/simple-r1)
       * [simple-r1 또 다른 DeepSeek-R1 Reproduction 하지만 멀티 노드 RL 학습 환경에서 Training Node, Inference Node 분리와 vLLM 기반 Inference Worker에 대해 NCCL을 활용한 빠른 Weight Update를 곁들인](https://www.linkedin.com/posts/sungju-kim-3b0406b0_simple-r1-%EB%98%90-%EB%8B%A4%EB%A5%B8-deepseek-r1-reproduction-%ED%95%98%EC%A7%80%EB%A7%8C-ugcPost-7298064153900892160-odV7/)
+    * [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
+      * [DeepSeek just open-sourced a lightweight data processing framework](https://www.linkedin.com/posts/sumanth077_damn-deepseek-just-open-sourced-a-lightweight-activity-7301492125559332864-sqmr/)
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
