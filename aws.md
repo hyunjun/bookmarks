@@ -1956,6 +1956,8 @@ AWS
   * [함수 대 컨테이너 서버리스 환경 - Marcia Villalba & Julian Wood | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147153)
 * [AWS Lambda turns 10: A rare look at the doc that started it | All Things Distributed](https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [AWS EC2 인스턴스 프로파일 자동 부여 아키텍처 구현 | by rex.chun | Medium](https://medium.com/@7424069/aws-ec2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9E%90%EB%8F%99-%EB%B6%80%EC%97%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-8667724dd06b)
+* [awskrug/aiengineering-demo · GitHub](https://github.com/awskrug/aiengineering-demo/tree/main/backend)
+  * [AI 를 사용한 인프라 자판기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_WFbhroUFSOSdg2IgFolAPQwFWhaFZt6EWMBkYtmWkvAEE51y2kcJRasiGCcFSAcAV7It2oVXq5VB/pub)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
   * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
