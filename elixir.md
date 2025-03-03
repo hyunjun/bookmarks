@@ -102,7 +102,7 @@ Elixir
 * [Processes](https://www.basicswithamit.com/blog/processes/)
 * [An Incremental Approach to Declarative Design](https://zachdaniel.dev/incremental-declarative-design/)
 * livebook [Launch Week 1 - YouTube](https://www.youtube.com/playlist?list=PLWBV_a-x-Zzi9U0X0edwNsdtxK4gd5T2p)
-* [Elixir Book Club](https://elixirbookclub.com/)
+* [Elixir Book Club](https://elixirbookclub.github.io/website/)
 * [ElixirClub](https://www.elixirclub.org/)
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
 * [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
