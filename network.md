@@ -112,6 +112,8 @@ Network
 * [ICANN, ".INTERNAL"을 사적 용도 애플리케이션 전용 도메인으로 예약 | GeekNews](https://news.hada.io/topic?id=16257)
 * [속도, 확장성, 안정성: 25년간의 Google 데이터센터 네트워킹 진화 과정 | GeekNews](https://news.hada.io/topic?id=17573)
 * [http와 https 대신 hxxp와 hxxps를 사용하는 이유 | Novemberde's Blog](https://novemberde.github.io/post/2024/11/07/http-https-hxxp-hxxps/)
+* [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
+  * [TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까? | GeekNews](https://news.hada.io/topic?id=19467)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
