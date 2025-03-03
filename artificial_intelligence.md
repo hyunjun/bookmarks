@@ -846,6 +846,8 @@ Artificial Intelligence
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
+* [https://proxy.convergence.ai](https://proxy.convergence.ai/)
+  * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
 * [Shots - Create Amazing Mockups](https://shots.so/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
