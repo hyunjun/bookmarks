@@ -247,6 +247,7 @@ Finance
     * TIGER 미국나스닥넥스젠
     * KODEX 미국FANG플러스
   * [미국 AI반도체 대장만 모은 ETF가 나왔습니다! (ft.SOL 미국AI반도체칩메이커) - YouTube](https://www.youtube.com/watch?v=8kNThGpximc)
+  * [JP모간의 올인원 ETF, 하나의 ETF만 투자해도 됩니다 (ft. JFLI) - YouTube](https://www.youtube.com/watch?v=04MyDbeJLIc)
   * [ETF 랭킹 - 시가총액](https://www.etfcheck.co.kr/mobile/rank/marketCap)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
