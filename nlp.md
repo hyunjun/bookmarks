@@ -2019,6 +2019,7 @@ NLP
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
 * [OpenAI will Transform Data Science - Here's How - YouTube](https://www.youtube.com/watch?v=NBseu9f3P5U) function calling
 * [Function Calling 연쇄 호출 테스트](https://aifactory.space/task/8841/discussion/4172)
+* [LLM Function Calling에 대한 요약](https://sturdy-mink-c2f.notion.site/LLM-Function-Calling-1a8020f4210280838773ccaf52c2be46)
 * [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
 * [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [Large Language Models (in 2023) - YouTube](https://www.youtube.com/watch?v=dbo3kNKPaUA)
