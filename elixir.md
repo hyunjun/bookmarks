@@ -502,6 +502,7 @@ Elixir
 * [OKKY 3월 세미나 Elixir: 대용량 분산 웹개발의 혁명 (부제: Java / C++ / Python이 OOP 언어가 아닌 이유) - YouTube](https://www.youtube.com/watch?v=Rjyf_dELAeg)
 * [Mobile Convergence :: Elixir 기초 시작하기 및 타입, 연산, 함수](https://mobicon.tistory.com/596)
 * [1. Elixir Motivation - YouTube](https://www.youtube.com/watch?v=uq_4iwWZ998)
+* [Functional Programming with Elixir – Full Course - YouTube](https://www.youtube.com/watch?v=IiIgm_yaoOA)
 * [Learn Elixir | How To Learn Elixir Free](https://learn-elixir.dev/blogs/how-to-learn-elixir-free)
   * [Task with Learn Elixir's Alvaro Callero - YouTube](https://www.youtube.com/watch?v=BjoUOJhoCyk)
 * [json_corp/apps/json_corp_web/lib/json_corp_web/live/playgrounds/chat_live.ex at main · nallwhy/json_corp](https://github.com/nallwhy/json_corp/blob/main/apps/json_corp_web/lib/json_corp_web/live/playgrounds/chat_live.ex)
