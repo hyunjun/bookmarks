@@ -8401,6 +8401,8 @@ Programming
 # TDD, Test
 * book
   * [소프트웨어 장인 CHAPTER 6 동작하는 소프트웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-6-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
+  * [aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code"](https://github.com/johnousterhout/aposd-vs-clean-code)
+    * [TDD에 대한 두권의 책 비교](https://brunch.co.kr/@jowlee/176)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)
 * [TDD 예제(점진적으로 설계하기](http://newy.tistory.com/entry/post-1)
