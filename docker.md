@@ -610,6 +610,7 @@ Docker
 * [Jonathan Bergknoff: Run More Stuff in Docker](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 * [LINE의 프라이빗 클라우드 Verda 플랫폼의 Verda Reliability Engineering 팀을 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/verda-reliability-engineering-team/)
 * [Docker Engine 20.10 Released: Supports cgroups v2 and Dual Logging](https://www.infoq.com/news/2021/01/docker-engine-cgroups-logging/)
+* [리눅스의 Control Groups 기능이 Kubernetes에 어떻게 적용되는지 살펴보기](https://d2.naver.com/helloworld/7248350) cgroups
 * [How to Download Fedora, RHEL, and Windows Operating System (OS) Images and Verify through CheckSum - YouTube](https://www.youtube.com/watch?v=XDcOWGoD2UQ) ISO image
 * [Hypervisor KVM 모니터링하기 1](https://naleejang.tistory.com/241)
 * [Hypervisor KVM 모니터링하기 2](https://naleejang.tistory.com/242)
@@ -2578,6 +2579,7 @@ Docker
     * SealedSecret의 인증서로 시크릿 데이터를 암호화해서 Git 저장소에 커밋하면 Kubernetes 클러스터에 적용될 때 SealedSecret 컨트롤러가 암호화된 값을 복호화해서 Kubernetes Secret으로 작성
   * [Managing your sensitive information during GitOps process with Secret Sealed | by Jerome Tarte | Dec, 2021 | Medium](https://medium.com/@jerome_tarte/managing-your-sensitive-information-during-gitops-process-with-secret-sealed-27498c77e2b8)
   * [Sealed Secrets for Kubernetes. How to encrypt Kubernetes Secret… | by Bharathiraja | CodeX | Jan, 2022 | Medium](https://medium.com/codex/sealed-secrets-for-kubernetes-722d643eb658)
+  * [쿠버네티스에서 Sealed Secrets을 활용한 시크릿 암호화 방법 | by LG U+ Techblog | Feb, 2025 | LG유플러스기술 블로그](https://techblog.uplus.co.kr/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%97%90%EC%84%9C-sealed-secrets%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%9C%ED%81%AC%EB%A6%BF-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EB%B2%95-1f44635a53e3)
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
