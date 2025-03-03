@@ -1623,6 +1623,7 @@ Javascript
   * [Dale Seo (달레) on LinkedIn: Projects | Component Encyclopedia | Storybook](https://www.linkedin.com/posts/daleseo_projects-component-encyclopedia-storybook-activity-7223425541951930370-gPt-)
 * [DAN 24 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
 * [한 스타트업의 사내 디자인 시스템 성장기](https://velog.io/@osohyun0224/%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%82%AC%EB%82%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%B1%EC%9E%A5%EA%B8%B0)
+* [0에서 시작하는 디자인 시스템 구축기 — 1. 안녕하세요. 엘박스 프로덕트 디자이너 구찬회입니다. 지난 2년여간… | by Koo Paul | LBOX Team | Feb, 2025 | Medium](https://medium.com/lbox-team/0%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%EA%B8%B0-1-cf33b4e6cab2)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
@@ -5866,6 +5867,7 @@ Javascript
   * [모닥불 | EP.6 프론트엔드 개발에서 Next.js, 꼭 써야 할까?](https://toss.tech/article/firesidechat_frontend_6)
   * [Next.js Full Course - Supabase를 사용하여 나만의 TASK 관리 애플리케이션 만들기 - YouTube](https://www.youtube.com/watch?v=fXLBVDa6J2s)
   * [Email Testing with Mailtrap in NextJS - CodingTricks](https://codingtricks.co/posts/email-testing-with-mailtrap-in-nextjs)
+  * [Next.js 미들웨어와 shallow 옵션으로 최적화된 라우팅 만들기](https://velog.io/@eotkd4791/Nextjs-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4-%EA%B0%9C%EC%9E%85%EC%97%86%EC%9D%B4-%EB%9D%BC%EC%9A%B0%ED%8C%85%ED%95%98%EA%B8%B0)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
