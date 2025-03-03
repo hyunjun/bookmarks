@@ -4223,6 +4223,7 @@ Business
   * 사소한 것도 리액션/칭찬을 굉장히 잘해줍니다. 이게 사기에 큰 영향을 주는데 한국 회사랑 가장 큰 문화적 차이점
   * 새로운 피쳐 Shipping이 주 단위로 이루어질 정도로 빠른 iteration
   * 같이 일하는 팀원들과 Daily call을 합니다. 진행상황과 아이디어를 공유하면서 방향을 빠르게 조정할 수 있고 remote setup의 도덕적 해이를 방지
+* [아무도 없던 플랫폼, 비핸스는 어떻게 '100명'으로 판을 깔고 4천만 유저를 모았을까요?](https://lcreator.beehiiv.com/p/behance)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
