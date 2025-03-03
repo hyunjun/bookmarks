@@ -2081,6 +2081,14 @@ Docker
 * [08. 왜 쿠버네티스에 백업이 필요할까요 - YouTube](https://www.youtube.com/watch?v=A6w5p8zfF3Q&list=PL-AoIAa-OgNkdxO3fRJzb5i61_DaXuJbX&index=8)
   * [IT 인프라 엔지니어 그룹 | 2개의 영상(🎬)이 릴리즈 되었습니다 😊 | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3791634991151274)
 * [CEL만 알면 나도 쿠버네티스 보안 정책 전문가! | 요즘IT](https://yozm.wishket.com/magazine/detail/2922/) common expression language
+* [Kubernetes 클러스터: HOSTNAME으로 IP 유연하게 관리하기 – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/03/02/kubernetes-%ed%81%b4%eb%9f%ac%ec%8a%a4%ed%84%b0-hostname%ec%9c%bc%eb%a1%9c-ip-%ec%9c%a0%ec%97%b0%ed%95%98%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%98%ea%b8%b0/)
+  * Kubernetes 노드의 IP를 변경해야 한다면?
+  * 네트워크 변경이나 인프라 재구성으로 마스터 노드의 IP를 바꿔야 할 때, 어떻게 하면 클러스터를 재설치하지 않고 안전하게 변경할 수 있을까요?
+  * etcd와 kube-apiserver에서 수정해야 할 설정과 /etc/hosts 업데이트, kubelet 재시작까지 단계별로 정리
+  * 💡 특히, controlPlaneEndpoint를 IP 대신 호스트네임으로 설정하면?
+  * ✔ 미리 설정된 클러스터를 다양한 환경에서 쉽게 배포 가능
+  * ✔ IP 변경이 필요할 때 설정 몇 개만 수정하면 해결!
+  * ✔ 네트워크 변경에도 유연하게 대응 가능
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
