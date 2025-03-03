@@ -3026,6 +3026,7 @@ CVPR2016)
   * [알리바바, 140억·13억 매개변수의 AI 비디오 생성 모델 ‘Wan2.1’ 4종 오픈소스로 공개...비디오 생성 모델 위한 VBench리더보드 1위 기록 < 이미지 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34067)
   * [Wan 2.1 by Wan AI :best cost efficient video generation model Now Available](https://huggingface.co/blog/LLMhacker/wanai-wan21)
   * [Home Page · ModelScope](https://modelscope.cn/home)
+  * [📹🚀🔓Wan2.1: Sora보다 강력한 알리바바의 최강 오픈소스 비디오 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%93%B9%F0%9F%9A%80%F0%9F%94%93Wan21-Sora%EB%B3%B4%EB%8B%A4-%EA%B0%95%EB%A0%A5%ED%95%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B9%84%EB%94%94%EC%98%A4-AI)
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
