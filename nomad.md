@@ -281,6 +281,8 @@ Nomad & Remote
 * [Remote Working Approaches That Worked (And Some That Didn’t) • Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=sQOHhoCSfak)
 * [재택근무, 사이드잡, 그리고 떨](https://www.thestartupbible.com/2023/08/work-from-home-side-jobs-and-weed.html)
 * [글로벌 칼럼 | “직원 유지냐 강제 출근이냐” 기업이 홈오피스를 수용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/328901)
+* [재택은 복지가 아니다. - by Hyungsuk Kim - divercity](https://divercitystory.substack.com/p/c6b)
+  * [재택은 복지가 아니다](https://www.linkedin.com/posts/divercity_%EC%9E%AC%ED%83%9D%EC%9D%80-%EB%B3%B5%EC%A7%80%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%9D%80-%EC%B6%9C%ED%87%B4%EA%B7%BC%EC%9D%B4-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%A0%EB%8B%A4-%EC%B6%9C%EA%B7%BC%EC%8B%9C%EA%B0%84%EB%8F%84-%ED%87%B4%EA%B7%BC%EC%8B%9C%EA%B0%84%EB%8F%84-activity-7302156094389305344-urD4/)
 * [Basecamp: Remote Work](https://basecamp.com/articles/category/remote-work)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
