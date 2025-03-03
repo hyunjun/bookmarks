@@ -1069,6 +1069,7 @@ Interview
 * [안드로이드 기술 이력서의 최소 조건 - Speaker Deck](https://speakerdeck.com/pluu/andeuroideu-gisul-iryeogseoyi-coeso-jogeon)
 * [주니어 개발자분들께 도움이 될 만한 저만의 이력서 작성 프레임워크를 공유](https://www.linkedin.com/posts/kijepark_%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%A0%9C-%EC%9D%B4%EB%A0%A5%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%A9%B4%EC%84%9C-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B6%84%EB%93%A4%EA%BB%98-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-%EC%A0%80%EB%A7%8C%EC%9D%98-activity-7253945011073908736-cjNP/)
 * [서류 탈락을 거듭한 끝에 깨달은 신입 개발자 이력서 작성법](https://velog.io/@jhbae0420/%EC%84%9C%EB%A5%98-%ED%83%88%EB%9D%BD%EC%9D%84-%EA%B1%B0%EB%93%AD%ED%95%9C-%EB%81%9D%EC%97%90-%EA%B9%A8%EB%8B%AC%EC%9D%80-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1%EB%B2%95)
+* [(1) How to write a strong resume summary | LinkedIn](https://www.linkedin.com/news/story/how-to-write-a-strong-resume-summary-7166690/)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
