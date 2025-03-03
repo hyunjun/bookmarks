@@ -2512,6 +2512,7 @@ Javascript
   * [NestJs: 🐶 Puppies Api - Dor Moshe's Blog](https://dormoshe.io/trending-news/nestjs-puppies-api-k4d-50266)
   * [NestJs 파일업로드 이 글로 끝!](https://velog.io/@dev_leewoooo/NestJs-%ED%8C%8C%EC%9D%BC%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4-%EA%B8%80%EB%A1%9C-%EB%81%9D)
   * [NestJs에서 미들웨어를 통해 인증처리 (with Passport)](https://velog.io/@dev_leewoooo/NestJs%EC%97%90%EC%84%9C-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%9D%B8%EC%A6%9D%EC%B2%98%EB%A6%AC-with-Passport)
+  * [NestJS Guards Authentication with Passport](https://jminc00.tistory.com/94)
   * [DIP 의존성 역전 - nestjs를 이용하여 todo 구현](https://blog.naver.com/pjt3591oo/222805317573)
   * [모노레포(monorepo) 관리와 모노레포에서 테스트 코드 작성시 유의사항](https://blog.naver.com/pjt3591oo/222810290625)
   * [Nest.js는 실제로 어떻게 의존성을 주입해줄까?](https://velog.io/@coalery/nest-injection-how)
