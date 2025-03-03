@@ -872,6 +872,7 @@ Data Science
   * [High Performance Python - Gus Cavanaugh | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ewaY9CcjLt0)
   * [Polars GPU Engine Powered by RAPIDS cuDF Now Available in Open Beta | NVIDIA Technical Blog](https://developer.nvidia.com/blog/polars-gpu-engine-powered-by-rapids-cudf-now-available-in-open-beta/)
     * [데이터 사이언티스트가 단일 머신에서 수억개의 데이터행을 몇 초만에 처리할 수 있게](https://www.linkedin.com/posts/chanran-kim_polars-gpu-engine-powered-by-rapids-cudf-activity-7242425372401696769-w1VT/)
+  * [NVIDIA RAPIDS로 배우는 데이터 과학 가속화 기초 - WikiDocs](https://wikidocs.net/book/13459)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [siuba: Python library for using dplyr like syntax with pandas and SQL](https://github.com/machow/siuba)
