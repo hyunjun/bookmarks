@@ -600,6 +600,7 @@ Vision
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
 * [nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)
 * [olmOCR – Open-Source OCR for Accurate Document Conversion](https://olmocr.allenai.org/)
+  * [olmOCR - The Open OCR System - YouTube](https://www.youtube.com/watch?v=38loqDtlLok)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 
