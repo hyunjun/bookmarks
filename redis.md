@@ -311,6 +311,7 @@ Redis
     * 이 라이브러리는 모든 Valkey와 Redis 명령 지원, 클러스터 토폴로지 변경 감지, 복제본에서의 읽기, 상태 저장 연결과 같은 최고 수준 기능 제공
     * Rust로 핵심 엔진 작성, 언어별 바인딩으로 여러 언어를 지원하는 형태
     * Java와 Python에서 사용할 수 있으며, 주요 오픈소스 패키지 관리자에서 다운로드 가능
+  * [Stop Using Redis. Use Open Source Instead - YouTube](https://www.youtube.com/watch?v=npnagMgbruc)
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
