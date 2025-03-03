@@ -4215,6 +4215,14 @@ Business
 * [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
   * [1인 여성 개발팀으로 2백만명 사용자 달성하기 | GeekNews](https://news.hada.io/topic?id=18932)
 * [“당연한 성공 전략”을 따르지 않고도 1억 달러를 번 회사](https://www.linkedin.com/posts/%EC%9E%A5%EA%B7%9C-%EC%9D%B4-019a981b8_%EB%8B%B9%EC%97%B0%ED%95%9C-%EC%84%B1%EA%B3%B5-%EC%A0%84%EB%9E%B5%EC%9D%84-%EB%94%B0%EB%A5%B4%EC%A7%80-%EC%95%8A%EA%B3%A0%EB%8F%84-1%EC%96%B5-%EB%8B%AC%EB%9F%AC%EB%A5%BC-%EB%B2%88-%ED%9A%8C%EC%82%AC-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C%EB%8A%94-activity-7299257061454794752-5gA0/) "컴파운드 스타트업(Compound Startup)" 전략
+* [잘 되는 스타트업은 왜 잘될까?](https://www.linkedin.com/posts/daehan-kim-16212214a_%EC%9E%98-%EB%90%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%99%9C-%EC%9E%98%EB%90%A0%EA%B9%8C-%EC%A0%80%EB%8A%94-%EC%B5%9C%EA%B7%BC%EC%97%90-%EC%9D%B4%EC%A7%81%EC%9D%84-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-activity-7302210668919697408-kP81/)
+  * 팀원들이 미친듯이 proactive
+  * 팀원들이 모두 질문, 제안을 많이 하는 편인데 Ego를 내세우지 않고 오직 공통의 목표를 이루는 것에만 관심... 그렇기 때문에 문제점에 대해서도 straight하게 이야기
+  * 생산성 툴을 과할 정도로 많이 사용
+  * 정량화, A/B 테스트를 정말 빡세게 합니다. 프로젝트를 시작할때는 KPI를 정하는 세션을 갖고 AI 피쳐를 개발할 때는 정량평가 방식을 먼저 고안
+  * 사소한 것도 리액션/칭찬을 굉장히 잘해줍니다. 이게 사기에 큰 영향을 주는데 한국 회사랑 가장 큰 문화적 차이점
+  * 새로운 피쳐 Shipping이 주 단위로 이루어질 정도로 빠른 iteration
+  * 같이 일하는 팀원들과 Daily call을 합니다. 진행상황과 아이디어를 공유하면서 방향을 빠르게 조정할 수 있고 remote setup의 도덕적 해이를 방지
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
