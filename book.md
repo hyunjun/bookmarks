@@ -439,6 +439,7 @@ Book
   * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun - Medium](https://nymets.medium.com/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4-f9dd22b0e550)
   * [나는 메트로폴리탄 미술관의 경비원입니다 - Jun’s Substack](https://recur.substack.com/p/991)
   * [나는 메트로폴리탄 미술관의 경비원입니다](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%98-%EA%B2%BD%EB%B9%84%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
+  * [책 같이 읽어요! | 나는 메트로폴리탄 미술관의 경비원입니다 by 패트릭 브링리 - YouTube](https://www.youtube.com/watch?v=veckJXUz7-Q)
   * [경비원이 된 뉴요커, 패트릭 브링리가 말하는 명화 감상법 | 패트릭 브링리, 미술관, 미술 - YouTube](https://www.youtube.com/watch?v=euf1yKv9BBo)
 * 떼루아의 맛 [한국으로 귀촌한 프랑스 남자의 고군분투 와인 만들기...‘떼루아의 맛’ - 뉴스N제주](https://www.newsnjeju.com/news/articleView.html?idxno=142787)
   * ★★★☆☆ August 10, 2024
