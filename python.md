@@ -3156,6 +3156,9 @@ Python
     * [드래그 앤 드롭으로 10분 만에 멋진 Python GUI 만들기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/806954)
   * [Tkinter-Designer: An easy and fast way to create a Python GUI 🐍](https://github.com/ParthJadhav/Tkinter-Designer)
     * [I use Drag and Drop to build modern Python Apps - YouTube](https://www.youtube.com/watch?v=9oaqCMwcoQ4)
+* [ttkbootstrap](https://ttkbootstrap.readthedocs.io/)
+  * [TTKBootstrap: Easiest Way To Build Modern GUIs in Python - YouTube](https://www.youtube.com/watch?v=aAk3ORDr63U)
+    * [TTKBootstrap at main · NeuralNine/youtube-tutorials](https://github.com/NeuralNine/youtube-tutorials/tree/main/TTKBootstrap)
 
 # IPython & Jupyter
 * [Jupyter](http://jupyter.org/try)
