@@ -2879,6 +2879,7 @@ NLP
       * [Building Knowledge Graph Agents With LlamaIndex Workflows - Graph Database & Analytics](https://neo4j.com/blog/developer/knowledge-graph-agents-llamaindex/)
       * [text2cypher_llama_agent: A collection of LlamaIndex Workflows-powered agents that convert natural language to Cypher queries designed to retrieve information from a Neo4j database to answer the question with included benchmark data.](https://github.com/tomasonjo-labs/text2cypher_llama_agent)
       * [GraphRAG : Neo4j 생성형 AI 패키지(Neo4j-GraphRAG)로 영화 정보 질의응답 구현하기 | Cypher 쿼리 자동 생성 — After work](https://uoahvu.tistory.com/entry/GraphRAG-Neo4j-%EC%83%9D%EC%84%B1%ED%98%95-AI-%ED%8C%A8%ED%82%A4%EC%A7%80Neo4j-GenAI%EB%A1%9C-%EC%98%81%ED%99%94-%EC%A0%95%EB%B3%B4-%EC%A7%88%EC%9D%98%EC%9D%91%EB%8B%B5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Cypher-%EC%BF%BC%EB%A6%AC-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1)
+    * [LangGraph를 활용한 Agentic AI 시스템 구축](https://linktr.ee/teddynote)
     * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
       * [Intro to CoAgents (Public Beta)](https://docs.copilotkit.ai/coagents)
       * [Build Agent-Native Apps with LangGraph & CoAgents (tutorial) - YouTube](https://www.youtube.com/watch?v=0b6BVqPwqA0)
