@@ -1464,6 +1464,7 @@ SQL
 * [트랜잭셔널 메시징에도, 그냥 PostgreSQL 쓰세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/2833/) PGMQ
 * [PostgreSQL, 2024년 올해의 DBMS로 선정 | GeekNews](https://news.hada.io/topic?id=18751)
 * [7+ million Postgres tables | Kailash Nadh | IndiaFOSS 2024 | FOSS United - YouTube](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
+* [I replaced my entire tech stack with Postgres... - YouTube](https://www.youtube.com/watch?v=3JW732GrMdg)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
