@@ -2341,6 +2341,10 @@ NLP
   * 특히 모델의 각 파라미터와 동일한 크기를 가지는 First/Second Order Momentum이 어떻게 추가 메모리를 사용하며, 이것이 학습에 어떤 영향을 주는지 정리
 * [Use Prolog to improve LLM's reasoning](https://www.linkedin.com/posts/shchegrikovich_use-prolog-to-improve-llms-reasoning-on-activity-7251342511439233026-3rJA/)
   * [Prolog를 활용하여 LLM(대형 언어 모델)의 추론 능력을 향상시키는 방법](https://www.linkedin.com/posts/activity-7251362436010672128-XUhM/)
+* [The State of LLM Reasoning Models](https://magazine.sebastianraschka.com/p/state-of-llm-reasoning-and-inference-scaling)
+  * This article explores recent research advancements in reasoning-optimized LLMs, focusing on inference-time compute scaling methods since the release of DeepSeek R1
+  * It discusses several interesting research papers, such as s1: Simple Test-Time Scaling, which introduces "wait" tokens to control response length and improve accuracy
+  * also covers other methods like Test-Time Preference Optimization, Thought Switching Penalty, and self-backtracking mechanisms to enhance LLMs' reasoning abilities
 * [LLM vs. 전문가: AI가 인간의 직관과 경험을 대체할 수 있는가? - 인간의 직관이 중요한 이유. - 해경](https://www.haegyung.com/llm-vs-%EC%A0%84%EB%AC%B8%EA%B0%80-ai%EA%B0%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%A7%81%EA%B4%80%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EA%B0%80/)
 * [경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인](https://d2.naver.com/helloworld/8866888)
 * [LLM 기반 체크리스트 생성 툴 공유](https://chance-doe.tistory.com/26)
