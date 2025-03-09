@@ -2364,6 +2364,8 @@ NLP
     * [pretraining.ipynb at main · HongLabInc/HongLabLLM](https://github.com/HongLabInc/HongLabLLM/blob/main/pretraining.ipynb)
 * [LLMs - YouTube](https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm)
   * [One of the first steps to code LLMs, either for educational, research, or production purposes is to set up your code environment](https://www.linkedin.com/posts/sebastianraschka_build-an-llm-from-scratch-1-set-up-your-activity-7300579403514748928-qvH4/)
+* [한 단어 씩 생성하는 트랜스포머 LLM… 정말 곧 대체되겠네요. 지금 바로 사용 가능 | 10배 빠르고 10배 싸다. 텍스트-이미지 생성처럼 한 방에 텍스트 생성하는 LLM 출시 - YouTube](https://www.youtube.com/watch?v=s2bTE1FPb50) dLLM LLaDA
+  * [Mercury Coder](https://chat.inceptionlabs.ai/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
