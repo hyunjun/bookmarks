@@ -742,6 +742,7 @@ AWS
 * [생성형 AI로 혁신하는 법률 서비스: Amazon Bedrock으로 구현한 법무법인대륜의 서면 작성 AI 시스템 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/daeryun-lawsuit-writing-ai-using-amazon-bedrock/)
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 * [Deploy DeepSeek-R1 distilled Llama models with Amazon Bedrock Custom Model Import | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/)
+* [AWS GenAI 공개 고객 사례집](https://antique-skipjack-fdd.notion.site/AWS-GenAI-17876a71128680798755e8b90bd1a89f)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -2939,6 +2940,7 @@ AWS
 * [Terraform AWS Rolesanywhere 버그 수정 - rex.chun - Medium](https://medium.com/@7424069/merged-terraform-aws-rolesanywhere-%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95-3d25285df298)
 * [Trivy를 활용한 Terraform 코드 점검 문제점. TL;DR | by rex.chun | Medium](https://medium.com/@7424069/trivy%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-terraform-%EC%BD%94%EB%93%9C-%EC%A0%90%EA%B2%80-%EB%AC%B8%EC%A0%9C%EC%A0%90-59767a1d1e5f)
 * [Terraform과 AWS Well-Architected Framework를 이용한 마이그레이션과 현대화 | by 이준호(CTC) | Cloud Villains | Medium](https://medium.com/cloudvillains/aws-partner-summit-seoul-hands-on-%EC%84%B8%EC%85%98-%EC%A7%80%EC%9B%90-%ED%9B%84%EA%B8%B0-well-architected-%EC%97%90-%EA%B8%B0%EB%B0%98%ED%95%98%EC%97%AC-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-a5a389a61bd6)
+* [Terraform을 경험해보자..](https://velog.io/@skypentum/Terraform%EC%9D%84-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90)
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
