@@ -86,8 +86,6 @@ Book
   * 2014.10.28
 * [왓슨 인간의 사고를 시작하다](https://jh4hj.tistory.com/entry/%EC%99%93%EC%8A%A8-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8B%A4)
   * 2014.12.18
-* [인공지능, 붓다를 꿈꾸다](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%93%EB%8B%A4%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8B%A4)
-  * 2015.06.05
 * [파리에서 살아보기](https://jh4hj.tistory.com/entry/%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%B3%B4%EA%B8%B0)
   * 2015.08.25
 * [찌질한 위인전](https://jh4hj.tistory.com/entry/%EC%B0%8C%EC%A7%88%ED%95%9C-%EC%9C%84%EC%9D%B8%EC%A0%84)
@@ -130,8 +128,6 @@ Book
   * [`고독한 미식가` 다니구치 지로, 영혼을 위로하는 만화가 - 매경프리미엄](https://www.mk.co.kr/premium/life/view/2018/09/23538/)
 * [넬슨 만델라 그래픽 평전](https://blog.naver.com/ary68017/220054245724)
   * ★★★★☆ 2021.12.20 대략은 알고 있었지만 생각보다 훨씬 힘들었던 넬슨 만델라의 생애. 27년의 감옥생활은 정말 상상도 할 수가 없다. 풀려난 후에도 그 지난한 협상과 설득의 기록은 범인으로서는 도저히 따라갈 수 없는 정치력, 끈질김등을 조금이나마 느낄 수 있게 해준다
-* [앨런 튜링: 생각하는 기계, 인공지능을 처음 생각한 남자](https://www.itworld.co.kr/news/100542)
-  * ★★★☆☆ 2021.12.21 비극적인 천재의 전형이랄까. 2013년에 영국 왕실에서 사면을 했다고 하지만 그게 튜링에게 무슨 의미가 있을까. 마음이 좀 좋지 않았다
 * [그래픽 노블로 읽는 에드가 앨런 포 단편선](https://blog.naver.com/naninkan/220532569136)
   * ★★☆☆☆ 2022.01.23 에드가 앨런 포를 이해하기엔 나의 예술적 소양이 부족함
 * [우주: 우주와 예술을 창조하는 원동력](https://esoope.wordpress.com/2018/07/16/%EC%9A%B0%EC%A3%BC-%EC%9A%B0%EC%A3%BC%EC%99%80-%EC%98%88%EC%88%A0%EC%9D%84-%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94-%EC%9B%90%EB%8F%99%EB%A0%A5/)
@@ -143,11 +139,6 @@ Book
 * [지브리의 천재들](https://butter-shower.tistory.com/228)
   * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
   * ★★☆☆☆ 2022.04.25 지브리의 작품이나 스튜디오와 관련된 뒷 이야기인데 개인적인 기대와 다르게 별로 흥미롭지 않았음
-* [인공지능과 흙](https://blog.daum.net/marie2005/15723342)
-  * ★★★☆☆ 2022.06.07
-  * [인공지능과 흙](https://github.com/hyunjun/bookmarks/blob/master/books/ai_and_soil.md)
-  * [인공지능과 흙. 르네상스, 상상과 현실의 세계 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99-991fbc03b47)
-  * [인공지능과 흙](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99)
 * [데일카네기 인간관계론](https://brunch.co.kr/@reading15m/94)
   * 탐라 문331.18-카213ㅋ
   * ★★★☆☆ 2022.06.27
@@ -387,13 +378,6 @@ Book
   * [우리에게는 다른 데이터가 필요하다 - Jun’s Substack](https://recur.substack.com/p/5f9)
   * [우리에게는 다른 데이터가 필요하다](https://jh4hj.tistory.com/entry/%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4)
   * [우리에게는 다른 데이터가 필요하다](https://www.notion.so/1003/e07cb883f2e24905a28766f4098dda9f)
-* [인간을 진화시키는 AI](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323347870)
-  * ★★★☆☆ 2023.12.03,06,07
-  * 탐라 문321.97-호848ㅇ
-  * [인간을 진화시키는 AI](https://github.com/hyunjun/bookmarks/blob/master/books/amplifying_our_humanity_through_ai.md)
-  * [인간을 진화시키는 AI - Jun - Medium](https://nymets.medium.com/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-ai-b2ca12d54834)
-  * [인간을 진화시키는 AI - Jun’s Substack](https://recur.substack.com/p/ai)
-  * [인간을 진화시키는 AI](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-AI)
 * [만화로 배우는 잡학지식, 잡학툰 더 게임 오리진 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9e%a1%ed%95%99%ed%88%b0-%eb%8d%94-%ea%b2%8c%ec%9e%84-%ec%98%a4%eb%a6%ac%ec%a7%84/)
   * ★★★☆☆ 2024.01.14
   * 제주 691.15-돈39더
@@ -540,8 +524,6 @@ Book
 * (NOT YET) [자동차 인터페이스 디자인](https://www.onlybook.co.kr/entry/car-ux-design)
   * 우당 문556.11-박57ㅈ
   * [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
-* (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
-  * 한라 004.73-메85ㅇ
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
@@ -640,6 +622,41 @@ Book
   * ★★★☆☆ 2017.05.22
 * [아이가 말했다 잘 왔다 아프리카](https://medium.com/@strncpy/%EC%95%84%EC%9D%B4%EA%B0%80-%EB%A7%90%ED%96%88%EB%8B%A4-%EC%9E%98-%EC%99%94%EB%8B%A4-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-9162407268d2)
   * ★★★☆☆ 2017.05.28
+
+# AI Artificial Intelligence
+* [인공지능, 붓다를 꿈꾸다](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%93%EB%8B%A4%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8B%A4)
+  * 2015.06.05
+* [앨런 튜링: 생각하는 기계, 인공지능을 처음 생각한 남자](https://www.itworld.co.kr/news/100542)
+  * ★★★☆☆ 2021.12.21 비극적인 천재의 전형이랄까. 2013년에 영국 왕실에서 사면을 했다고 하지만 그게 튜링에게 무슨 의미가 있을까. 마음이 좀 좋지 않았다
+* [인공지능과 흙](https://blog.daum.net/marie2005/15723342)
+  * ★★★☆☆ 2022.06.07
+  * [인공지능과 흙](https://github.com/hyunjun/bookmarks/blob/master/books/ai_and_soil.md)
+  * [인공지능과 흙. 르네상스, 상상과 현실의 세계 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99-991fbc03b47)
+  * [인공지능과 흙](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99)
+* [AI 빅뱅 (생성 인공지능과 인문학 르네상스)](https://www.youtube.com/watch?v=5rKlhmCOJGQ)
+  * ★★★★☆ 2023.07.01 트렌드에 맞춰 나온 책이라고 생각할 수도 있지만, 그래서 오히려 더 좋은 책을 고르는 게 필요할텐데, 주저잆이 추천할 수 있을만한 책이다. 철학자의 관점에서 인공지능 자체뿐만이 아니라, 인공지능으로 인해 변화가 필요한 사람의 인식이나 사회에 대해서 폭넓게 다루고 있다. 두고두고 읽을만한 책이다.
+  * 탐라 문126-김72ㅇ
+* [인간을 진화시키는 AI](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323347870)
+  * ★★★☆☆ 2023.12.03,06,07
+  * 탐라 문321.97-호848ㅇ
+  * [인간을 진화시키는 AI](https://github.com/hyunjun/bookmarks/blob/master/books/amplifying_our_humanity_through_ai.md)
+  * [인간을 진화시키는 AI - Jun - Medium](https://nymets.medium.com/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-ai-b2ca12d54834)
+  * [인간을 진화시키는 AI - Jun’s Substack](https://recur.substack.com/p/ai)
+  * [인간을 진화시키는 AI](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%A7%84%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-AI)
+* [박태웅의 AI 강의 2025](https://www.notion.so/1003/AI-2025-1b13f0c2cf65801ea9b7f0189818d5c5)
+  * ★★★☆☆ 2025.03.08~09
+    * 시기가 적절하기도 하지만, 내용도 좋으니 1년만에 개정판이 나온 책. AI에 대해 전반적으로 알고 싶은 사람들을 위해 입문서격으로 매우 좋기도 하지만, 다른 AI 책에서는 정말 보기 힘든, 정책적인 제언이나 사회 전반을 생각하는 저자의 마음씀, 걱정이 느껴지는 면도 좋다. 나이가 들어서인지 모르겠으나, (나 같은 평범한 사람이 걱정한다고 바뀔 건 없겠지만) AI의 발전은 기대보다는 걱정이 더 크다.
+    * 《박태웅의 AI 강의》가 1년 만에 개정판으로 출간된 것은 AI 기술의 급속한 진화 속도와 시기적 적절성을 동시에 반영한 결과라 할 수 있다. 이 책은 단순한 기술 설명서를 넘어 AI의 사회적 영향과 윤리적 문제를 꼬집으면서도, 초보자에게도 친절한 접근성을 갖춘 입문서로 자리 잡고 있다. 특히 다른 AI 책에서는 보기 힘든 정책적 제언과 사회적 고민이 돋보인다.
+    * 저자는 AI의 기술적 트렌드(예: AI as OS, 멀티모달, 휴머노이드)를 체계적으로 설명하는 동시에, 이로 인해 발생할 수 있는 위험과 대응 방안을 제시한다. 예를 들어, 거대 언어 모델(LLM)의 근본적 한계인 "할루시네이션" 문제나, AI 개발 과정의 데이터 편향, (투입하는 자원의 거대화에 따른 자연스러운) 독점화 위험 등을 지적하며, "AI는 선택이 아닌 필수"라는 인식을 강조한다. 이는 단순한 기술 혁신을 넘어 사회적 책임과 윤리적 토론이 필수적임을 일깨워준다.
+    * 특히 주목할 만한 점은 정부와 정책의 실패 사례에 대한 직설적 비판이다. 한국 정부의 녹서에 대한 평가는(p273), 기술 혁신의 글로벌 경쟁에서 뒤처질 수 있는 위험을 경고하며, 공론화와 민주적 논의의 중요성을 강조한다. 또한 독일의 녹서·백서 프로세스(p273), 유럽의 AI법을 사례로 들며, "브뤼셀 효과"와 같은 국제적 규제 동향을 통해 정책의 방향성을 제시한다(p293).
+    * 저자는 "AI는 스며드는 기술"이라며, 기술의 급속한 확산 속에서도 윤리적·사회적 관점에서의 통제가 필요함을 역설한다. 개인적으로는 나이가 들어서인지 AI의 발전으로 기대보다는 걱정이 더 크다.
+    * 책의 두께가 일부 독자들에게는 과도한 느낌을 줄 수도 있고, 정책 제언의 구체성은 다소 부족할 수 있다. 그럼에도 이 책은 AI의 기술적 진보와 그에 따른 사회적 책임을 동시에 들여다보는 "AI 리터러시" 함양의 필수 도서로 평가받을 만하다. 초보자는 기술 용어를 쉽게 이해할 수 있고, 전문가나 정책 입안자는 윤리적 논쟁과 글로벌 트렌드를 통찰할 수 있는 균형 잡힌 안내서라 할 수 있다.
+  * [박태웅의 AI 강의 2025](https://github.com/hyunjun/bookmarks/blob/master/books/ai_lecture_2025.md)
+  * [박태웅의 AI 강의 2025. ★★★☆☆ March 8, 2025 → March 9, 2025 | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/%EB%B0%95%ED%83%9C%EC%9B%85%EC%9D%98-ai-%EA%B0%95%EC%9D%98-2025-271bfeb9e221)
+  * [박태웅의 AI 강의 2025 - Jun’s Substack](https://recur.substack.com/p/ai-2025)
+  * [박태웅의 AI 강의 2025](https://jh4hj.tistory.com/entry/%EB%B0%95%ED%83%9C%EC%9B%85%EC%9D%98-AI-%EA%B0%95%EC%9D%98-2025)
+* (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
+  * 한라 004.73-메85ㅇ
 
 # Art
 * [춤추는 죽음](https://jh4hj.tistory.com/entry/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%A3%BD%EC%9D%8C) 진중권
@@ -1960,9 +1977,6 @@ Book
   * [아들은 아버지의 등을 보고 자란다. ★★★☆☆ 2023.05.09 전반적으로 좋은 책. 급격한 감정/생각의… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98-%EB%93%B1%EC%9D%84-%EB%B3%B4%EA%B3%A0-%EC%9E%90%EB%9E%80%EB%8B%A4-59138c50e8a9)
   * [아들은 아버지의 등을 보고 자란다](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98-%EB%93%B1%EC%9D%84-%EB%B3%B4%EA%B3%A0-%EC%9E%90%EB%9E%80%EB%8B%A4)
   * [아들은 아버지의 등을 보고 자란다 - Jun’s Substack](https://recur.substack.com/p/69f)
-* [AI 빅뱅 (생성 인공지능과 인문학 르네상스)](https://www.youtube.com/watch?v=5rKlhmCOJGQ)
-  * ★★★★☆ 2023.07.01 트렌드에 맞춰 나온 책이라고 생각할 수도 있지만, 그래서 오히려 더 좋은 책을 고르는 게 필요할텐데, 주저잆이 추천할 수 있을만한 책이다. 철학자의 관점에서 인공지능 자체뿐만이 아니라, 인공지능으로 인해 변화가 필요한 사람의 인식이나 사회에 대해서 폭넓게 다루고 있다. 두고두고 읽을만한 책이다.
-  * 탐라 문126-김72ㅇ
 * [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
   * ★★★☆☆ 2023.07.09 나쁘지 않은 책이지만 이렇게 자잘하게 나뉘어진 각 챕터들을 생각하고 바로 반응하기란 정말 어렵지 않을까? 하는 생각이 들었다
   * 한라 189.2-엘294ㅁ
