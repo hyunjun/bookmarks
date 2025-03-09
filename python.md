@@ -1090,6 +1090,7 @@ Python
   * [The Must-Know Tools from the Python Library itertools | Python in Plain English](https://python.plainenglish.io/the-must-know-tools-from-the-python-library-itertools-f5b413a3cfff)
   * [Itertools in Python 3, By Example – Real Python](https://realpython.com/python-itertools/)
   * ["groupby" in Python is Awesome - YouTube](https://www.youtube.com/watch?v=2d1BIiX8Kfw)
+  * [Infinite Iterators in Python are Awesome - YouTube](https://www.youtube.com/watch?v=ANbT38UktZI) count cycle repeat
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
