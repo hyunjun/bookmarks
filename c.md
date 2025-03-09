@@ -192,6 +192,7 @@ C
 * [What is A Void Function In The C Programming language?](https://learncplusplus.org/what-is-a-void-function-in-the-c-programming-language/)
 * [NaN boxing or how to make the world dynamic - Blog by Piotr Duperas](https://piotrduperas.com/posts/nan-boxing)
 * [왜 백악관은 C와 C ++를 쓰지말라는걸까? - YouTube](https://www.youtube.com/watch?v=wFRr-RNhyG0)
+* [왜 C를 먼저 배우고 Rust를 나중에 배워야 할까? (Rust의 보완적 역할은?) - YouTube](https://www.youtube.com/watch?v=696MgAD4g6c)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -313,7 +314,7 @@ C
   ```
 * [Clay - UI Layout Library](https://www.nicbarker.com/clay)
   * [clay: High performance UI layout library in C](https://github.com/nicbarker/clay)
-  * [Introducing Clay - High Performance UI Layout in C - YouTube](https://www.youtube.com/watch?v=DYWTw19_8r4&ab_channel=NicBarker)
+  * [Introducing Clay - High Performance UI Layout in C - YouTube](https://www.youtube.com/watch?v=DYWTw19_8r4)
 * [cli: goJS를 사용하여 c/c++ call graph를 그립니다](https://github.com/jhlee100/cli)
 * [clib: C package manager-ish](https://github.com/clibs/clib)
 * [CMake](https://cmake.org/)
