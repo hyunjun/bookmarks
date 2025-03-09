@@ -661,6 +661,7 @@ Python
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
 * [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+* [12 Must-Know Python Built-in Functions - YouTube](https://www.youtube.com/watch?v=ho24rK_AYrQ&ab_channel=ArjanCodes) help dir range all any zip filter map iter slice type vars
 * [Top 10 Ways To Write Better Python Code - ActiveState](https://www.activestate.com/blog/top-10-ways-to-write-better-python-code/)
 * [3 ways to deal with large datasets in Python | by Georgia Deaconu | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/5-ways-to-deal-with-large-datasets-in-python-9a80786c4182)
 * [최신 ‘파이썬’ 작성 팁 4가지 - CIO Korea](https://www.ciokorea.com/news/223879)
