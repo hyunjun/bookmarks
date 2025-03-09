@@ -198,6 +198,8 @@ Linux
 * [Exploring COSMIC Desktop: A New Era for Linux Users? - YouTube](https://www.youtube.com/watch?v=ehJ3hopzT3c)
 * alpine [there is no such thing as a “glibc based alpine image” – Ariadne's Space](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
+* [Tiny Core Linux, Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable](http://tinycorelinux.net/)
+  * [Tiny Core Linux is Basically Magic - YouTube](https://www.youtube.com/watch?v=sxeRCpg9mfc)
 
 ## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기 - 용균](https://edykim.com/ko/post/installing-the-dell-latitude-e7240-archlinux/)
