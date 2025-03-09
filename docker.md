@@ -2876,6 +2876,7 @@ Docker
   * [자바 개발자를 위한 컨테이너 이미지 빌드 | 요즘IT](https://yozm.wishket.com/magazine/detail/2018/)
 * [Kasm Workspaces | The Container Streaming Platform](https://kasmweb.com/)
   * [Kasm Workspaces: Your Solution for Remote Desktops? Full Review! - YouTube](https://www.youtube.com/watch?v=hXkZVqqAg7c)
+  * [Protect Yourself Online: Disposable Browsing & Virtual Environments - YouTube](https://www.youtube.com/watch?v=TbtGd3lWc4M)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Kyverno](https://kyverno.io/) Kubernetes Native Policy Management
 * [lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
