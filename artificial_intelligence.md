@@ -362,7 +362,10 @@ Artificial Intelligence
   * [Meta, 미국 대상으로 AI 스튜디오 출시 | GeekNews](https://news.hada.io/topic?id=16125)
 * [alphaXiv](https://www.alphaxiv.org/)
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
+* [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
+* [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
+  * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
 * [codel: ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor](https://github.com/semanser/codel)
@@ -447,6 +450,7 @@ Artificial Intelligence
 * [kyutai: open science AI lab](http://kyutai.org/)
   * [3억 3천만 달러 예산을 가진 'Kyutai AI' 연구소, 모든 것을 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=11943)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
+* [Lucid - Write in Flow](https://www.getlucid.app/)
 * [Marblism - Launch your React and Node.js app in minutes](https://www.marblism.com/)
   * [프롬프트 하나로 풀스택 웹앱을 만드는 Marblism | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%ED%95%98%EB%82%98%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-marblism)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
@@ -463,6 +467,8 @@ Artificial Intelligence
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
 * [nebullvm: Easy-to-use library to boost AI inference leveraging multiple DL compilers](https://github.com/nebuly-ai/nebullvm)
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
+* [NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://github.com/ElectricAlexis/NotaGen) classic 음악 특화
+  * [NotaGen](https://electricalexis.github.io/notagen-demo/)
 * [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
   * [OpenDevin - AI 소프트웨어 엔지니어 Devin의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=13997)
   * [LlamaIndex Webinar: Build an Open-Source Coding Assistant with OpenDevin - YouTube](https://www.youtube.com/watch?v=_1JZfv7r4mY)
