@@ -52,10 +52,6 @@ Product
 * [이런 멀티탭도 있다고? - 베스트5 - YouTube](https://www.youtube.com/watch?v=KQQxxoH39b8)
 * [신개념 멀티탭 추천!! '고용량 멀티탭 끝판왕'과 '자동 정리케이블'을 가지고 와봤습니다! (Vertitap) 【🤴Ep.456】 - YouTube](https://www.youtube.com/watch?v=M4FlWqlpeyU)
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
-* [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/) e-ink
-* [Should you still buy a reMarkable 2 in 2024? - YouTube](https://www.youtube.com/watch?v=8WpyCaQkkiM)
-* [Daylight Computer | The Fast 60fps E-paper and Blue-Light Free Tablet](https://daylightcomputer.com/product)
-  * [데이라이트 컴퓨터 – 새로운 60fps e-paper 태블릿 | GeekNews](https://news.hada.io/topic?id=14966)
 * [스팸기름 떡칠도 닦아버리는 미친 성능의 안경닦이 물티슈ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=Jl4lTbH2YRY)
 * [오직 대한민국에만 있는 만년필 시필 매장! (feat. 만년필 쓰는 이유, 만년필 고르는 법 + 구독자 이벤트🎁) - YouTube](https://www.youtube.com/watch?v=-VEt1nDTM_g)
 * [입문 만년필 종결 "홍디안"은 이런 브랜드입니다｜HongDian - YouTube](https://www.youtube.com/watch?v=OuJvgfwtjog)
@@ -184,6 +180,13 @@ Product
   * [크게 진화하는 작은 드론 텔로](https://brunch.co.kr/@dronestarting/605) 프로그램 가능한 드론
   * [DRONE PROGRAMMING | loG](https://log.diginori.com/logs/tech/drone/)
 * [dronecheap.net/ - compare drone prices and features](https://dronecheap.net/)
+
+# E ink
+* [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/)
+* [Should you still buy a reMarkable 2 in 2024? - YouTube](https://www.youtube.com/watch?v=8WpyCaQkkiM)
+* [Daylight Computer | The Fast 60fps E-paper and Blue-Light Free Tablet](https://daylightcomputer.com/product)
+  * [데이라이트 컴퓨터 – 새로운 60fps e-paper 태블릿 | GeekNews](https://news.hada.io/topic?id=14966)
+* [Viwoods AI Paper eInk Tablet Unboxing Impressions - YouTube](https://www.youtube.com/watch?v=LZ0QcAl5xVo)
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard | CyberShadow's blog](https://blog.cy.md/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
