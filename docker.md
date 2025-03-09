@@ -3072,6 +3072,7 @@ Docker
 * [Hyper-V Open Stack이란?](https://junyharang.tistory.com/466)
 * [Hyper-V Open Stack Controller Node Hyper-V 구성 및 Ubuntu 22.04.3 LTS Server 설치](https://junyharang.tistory.com/467)
 * [Hyper-V Open Stack Controller Node ② NTP Server 구성](https://junyharang.tistory.com/468)
+* [OpenStack CCM 기반 Istio Ingress Gateway 동작 원리 및 사례 분석 | by Sigrid Jin | Feb, 2025 | Medium](https://sigridjin.medium.com/openstack-ccm-%EA%B8%B0%EB%B0%98-istio-ingress-gateway-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%EB%B0%8F-%EC%82%AC%EB%A1%80-%EB%B6%84%EC%84%9D-4d8e29e1e9a1)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
