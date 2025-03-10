@@ -119,6 +119,7 @@ Data Visualization
 * [데이터 시각화 별거 아니다 | Popit](https://www.popit.kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%9c%ea%b0%81%ed%99%94-%eb%b3%84%ea%b1%b0-%ec%95%84%eb%8b%88%eb%8b%a4/)
 * [흐름을 보여주는 시각화, 생키 다이어그램(Sankey Diagram) - 뉴스젤리 : 데이터 시각화 전문 기업](https://newsjel.ly/archives/newsjelly-report/14459)
   * [Visualized: Food Waste in the United States](https://www.visualcapitalist.com/cp/visualized-food-waste-in-the-united-states/)
+* [2025 쉽고 빠른 노코드 데이터 시각화 툴 추천 5가지 - 뉴스젤리 : 데이터 시각화 전문 기업](https://newsjel.ly/archives/newsjelly/16376) daisy datawrapper infogram graphy flourish
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
