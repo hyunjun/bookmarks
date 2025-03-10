@@ -410,6 +410,9 @@ NLP
   * The talk also touches on the speaker's background and experiences, including their work with distributed systems, websites, and the programming language Rockstar
   * It emphasizes the value of text encoding and sharing ideas, concepts, and media through technology
 * [트랜스포머 2.0 등장인가... 구글, 기존 단점 제대로 극복한 새로운 AI 모델 ’Titans' 공개 | AI 칩 경쟁 판 바뀌나 | On-Device AI 시작 - YouTube](https://www.youtube.com/watch?v=qoKggLbjkGU)
+* [2305.18323 ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323)
+  * [AI 시대 취업 및 사업 - 이것을 준비하세요. ReWOO 소스코드 분석 및 IT 직무 변화 전망 - YouTube](https://www.youtube.com/watch?v=_MnR4K59fVg)
+    * [ReasoningWithoutObservation.ipynb - Colab](https://colab.research.google.com/drive/1J2vYIErlpZqRsNzetFLy0w0mkITGgO05?usp=sharing#scrollTo=byAW1Rp1RulY)
 
 # 띄어쓰기
 
@@ -2526,6 +2529,7 @@ NLP
       * [DeepSeek Open Source Week Day 3: DeepGEMM - DEV Community](https://dev.to/apilover/deepseek-open-source-week-day-3-deepgemm-1h0)
       * [DeepSeek Open Source Week Day 4: DualPipe and EPLB - DEV Community](https://dev.to/apilover/deepseek-open-source-week-day-3-dualpipe-and-eplb-17l4)
       * [DeepSeek Open Source Week Day 5: 3FS - DEV Community](https://dev.to/apilover/deepseek-open-source-week-day-5-3fs-jkj)
+    * [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기 - YouTube](https://www.youtube.com/watch?v=4j6J-9hxfhk)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
     * [simple-r1](https://github.com/goddoe/simple-r1)
@@ -2593,6 +2597,7 @@ NLP
   * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
   * [이미지도 찰떡같이 이해하는 카카오의 멀티모달 언어모델 Kanana-v 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/667)
   * [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
+  * [카카오 카나나 kanana nano 나노 모델.. : 네이버블로그](https://blog.naver.com/ulsancoding/223785754788)
   * [kanana-nano-2.1b-base · Hugging Face](https://huggingface.co/kakaocorp/kanana-nano-2.1b-base)
     * [카카오, 자체 개발 언어 AI 모델 ‘카나나' 연구 성과 및 고성능 경량 모델 ‘카나나 나노 2.1B’ 오픈소스로 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34052)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
@@ -3199,6 +3204,7 @@ NLP
   * [🚀Motif: KMMLU에서 GPT-4o를 뛰어넘은 한국어 오픈소스 LLM](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80Motif-KMMLU%EC%97%90%EC%84%9C-GPT-4o%EB%A5%BC-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM)
 * [Msty - Using AI Models made Simple and Easy](https://msty.app/)
   * [평생 공짜! 내 PC에 챗GPT 비슷한 인공지능 LLM 설치 방법 | Msty - YouTube](https://www.youtube.com/watch?v=WhuyVpiHIcU)
+  * [MSTY를 사용한 카카오 kanana 모델 로.. : 네이버블로그](https://blog.naver.com/ulsancoding/223790524681)
 * [MyChatGPT: The ultimate PyQt6 application that integrates the power of OpenAI, Google Gemini, Claude, and other open-source AI models](https://github.com/hyun-yang/MyChatGPT)
 * [NExT-GPT](https://next-gpt.github.io/)
   * [NExT-GPT: Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model](https://github.com/NExT-GPT/NExT-GPT)
