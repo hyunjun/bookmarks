@@ -1768,6 +1768,8 @@ Business
     * 분위기 쇄신을 위한 희생양일 수도 있겠지만, 뭐가 어찌 되었든 시끄러운 부서는 부서장 책임이니까
 * [중도 탈락하는 CTO vs 실패하는 CTO](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstk-qpqrqe-activity-7250688086622232576-ymd9/)
 * [CTO의 역할, 그리고 개발자?](https://brunch.co.kr/@chickenmoim/35)
+* [How to Hire a CTO | Khosla](https://www.khoslaventures.com/how-to-hire-a-cto/)
+  * [CTO를 뽑는 방법 - 코슬라벤처스 | GeekNews](https://news.hada.io/topic?id=19660)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
