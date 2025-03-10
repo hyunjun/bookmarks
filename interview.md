@@ -270,6 +270,7 @@ Interview
   * [AirPods를 잃어버렸나요? | GeekNews](https://news.hada.io/topic?id=16447)
 * [개발자 기술 면접. 지난 16년 동안 8개의 회사를 거치면서, 후보자의 입장에서 여러 번의… | by Greg Lee | Sep, 2024 | Medium](https://medium.com/@greg.shiny82/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-144a1fe28ca4)
 * [막막한 개발자 면접, 1분 자기소개 준비하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2832/)
+* [코딩 테스트 이모저모 | kciter.so](https://kciter.so/posts/coding-test-story/)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
