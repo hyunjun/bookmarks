@@ -3756,6 +3756,7 @@ Programming
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Architecture Modernization • Nick Tune & Eduardo da Sliva • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=sDLGB6VWrDg)
   * [VidiGo Architecture Modernization • Nick Tune & Eduardo d](https://vidigo.ai/share/summary/2f71071f6256)
+* [Cognitect](https://www.cognitect.com/archive.html)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
 * [Evidence-based Software Engineering: based on the publicly available data](http://www.knosof.co.uk/ESEUR/)
