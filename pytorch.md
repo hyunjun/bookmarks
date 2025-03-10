@@ -202,6 +202,8 @@ PyTorch
 * ["GPU 기반 파이썬 머신러닝" 파이토치(PyTorch)의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/235884)
 * [Clara Hoffmann: I broke the PyTorch model - Debugging custom PyTorch models in a structured manner - YouTube](https://www.youtube.com/watch?v=BDEBF62iZx0)
 * [jinaai_late_chunking.ipynb at main · jlonge4/gen_ai_utils](https://github.com/jlonge4/gen_ai_utils/blob/main/jinaai_late_chunking.ipynb)
+* [중국산 GPU, 인텔 XPU, 구글TPU등 파.. : 네이버블로그](https://blog.naver.com/ulsancoding/223784344290)
+  * [NPU_XPU.ipynb - Colab](https://colab.research.google.com/drive/1rQL9_S_nuicy9JjuoblJ5YXoQj-S4qdX?usp=sharing)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
