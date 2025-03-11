@@ -388,6 +388,7 @@ SQL
 * [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
   * [SQL의 문제점과 해결 방안: SQL의 파이프 문법 | GeekNews](https://news.hada.io/topic?id=16466)
 * [Base Entity 활용하기](https://sturdy-mink-c2f.notion.site/Base-Entity-18a020f4210280478408cf40759bc576)
+* [가독성 좋은 GUID, 왜 RDBMS에서 이렇게 유용해졌을까? - YouTube](https://www.youtube.com/watch?v=ekwNi5_u72I)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
