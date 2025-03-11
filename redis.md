@@ -171,6 +171,8 @@ Redis
   * Chrono provides non-decreasing return values for LatestAttemptTimestamp even with crashes/restarts and decouples data caching and write attempt tracking components for scalability
 * [Introducing Netflix’s Key-Value Data Abstraction Layer | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30)
 * [주니어 서버 개발자가 유저향 서비스를 개발하며 마주쳤던 이슈와 해결 방안 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/troubleshooting-logs-as-a-junior-developer/)
+* [You might not need Redis - viblo.se](https://www.viblo.se/posts/no-need-redis/)
+  * [당신에겐 Redis가 필요하지 않을 수도 있습니다 | GeekNews](https://news.hada.io/topic?id=19665)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
