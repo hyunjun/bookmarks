@@ -1265,6 +1265,8 @@ NLP
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [lecture/GPT/prompt at main · dremdeveloper/lecture · GitHub](https://github.com/dremdeveloper/lecture/tree/main/GPT/prompt)
+* [Maskara.ai](https://www.maskara.ai/)
+  * [프롬프트 개선 서비스 사이트](https://www.linkedin.com/posts/duckjungkim_%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC-%EB%9D%BC%EB%8A%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EA%B0%9C%EC%84%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%A7%8C%EC%9D%BC-%EC%A0%9C%EA%B0%80-%EA%B0%84%EB%8B%A8%ED%95%9C-activity-7298698976835342337-Fre4/)
 * [open-prompt](https://github.com/smarteasy/open-prompt/)
 * PoE Panel of Experts
   * [PoE(Panel-of-Experts), 더 나은 문제 해결 방법을 제시하는 프롬프트 엔지니어링 기법 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/10829)
