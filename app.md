@@ -2214,6 +2214,8 @@ App
 * [Free Image Highlight](https://www.simplehighlighterpngjpg.com/)
   * [간단한 이미지 하이라이터 | GeekNews](https://news.hada.io/topic?id=15221)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
+* [Immich](https://immich.app/)
+  * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
 * [Jellyfin: The Free Software Media System](https://jellyfin.org/)
