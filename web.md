@@ -443,6 +443,7 @@ Web
   * [2025년 디자이너를 위한 새로운 프론트엔드 기능들 | GeekNews](https://news.hada.io/topic?id=18627)
 * [A new learning experience on MDN | MDN Blog](https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development/)
   * [MDN, 새로운 웹 개발 학습 섹션 공개 | GeekNews](https://news.hada.io/topic?id=18446)
+* [프로그래스 바, 로딩 바, 스피너의 차이점](https://brunch.co.kr/@hnjnkm/38)
 
 # Apache
 * installation
