@@ -2505,6 +2505,7 @@ App
   * [안피곤 성장블로그](https://anpigon.tistory.com/)
   * [My Obsidian Note-Taking Workflow | ssp.sh](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
     * [나의 Obsidian 노트 작성 워크플로우 | GeekNews](https://news.hada.io/topic?id=16070)
+  * [Obsidian Keyboard Shortcuts](https://keycombiner.com/collections/obsidian/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
