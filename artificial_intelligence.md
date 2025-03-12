@@ -263,6 +263,9 @@ Artificial Intelligence
 * [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
 * [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
+* [이제 디자인 프로세스는 뒤집어진다: 프로토타이핑 먼저, 디자인은 나중에](https://www.linkedin.com/posts/leedavid_ai-ux-engineer-%EC%9D%BC%EA%B8%B0-1-%EC%9D%B4%EC%A0%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8A%94-%EB%92%A4%EC%A7%91%EC%96%B4%EC%A7%84%EB%8B%A4-activity-7304693309455708160-ez_n/)
+  * 결론: 프로토타입이 중심이 되는 새로운 개발 문화
+  * 엔지니어분들은 정말 엔지니어링에 힘쓸수 있는 시기. 어떻게 하면, 빨리, 더 안정되게, 더 오래 지속되게, scalableg하게, 더 efficient 하게
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
