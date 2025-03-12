@@ -3991,6 +3991,10 @@ Programming Books
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
+  * [Being Glue — No Idea Blog](https://www.noidea.dog/glue)
+    * [(1) Being Glue: 조직을 지탱하는 보이지 않는 역할 | LinkedIn](https://www.linkedin.com/pulse/being-glue-%EC%A1%B0%EC%A7%81%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%97%AD%ED%95%A0-toby-lee-sxove/)
+    * [Glue: 묵묵히 조직이 굴러가게 만드는 사람들](https://www.stdy.blog/glue-who-silently-keep-the-organization-running/)
+    * [배휘동 - Glue: 묵묵히 조직이 굴러가게 만드는 사람들 지인과 얘기하다가 생각나서, 옛날에 인상적으로 봤던 글... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid02zJiwDjxsotuo4ngu6mrgx7LktvLqK3Rkm4iJFkaqGogwjh2masiBboveC9JQQAwl)
 * (NOT YET) [시작하는 개발자들을 위한 기술 여행 가이드](https://jaeyo.github.io/tech-travel-guide/)
   * 한라 005.104-이73ㄱ
 * (NOT YET) 크리에이티브 프로그래머 [창의적인 프로그래머가 되는 법: 더 창의적이 되기 위한 로드맵 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1452860666)
