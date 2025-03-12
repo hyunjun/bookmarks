@@ -4361,6 +4361,10 @@ Programming
   * save time and effort by making it easier to catch mistakes early on and by reducing the amount of work that needs to be rolled back or re-reviewed
   * However, may not always be possible due to various factors such as reviewer availability, feature dependencies, and refactoring scope
 * [Thoughtful Code Reviews](https://www.jasonpearson.dev/thoughtful-code-reviews/)
+* ["많은 경험을 쌓고 DDD와 같은 기법을 동원하더라도 초기 설계에는 실수가 빈번하다." - 마틴 파울러](https://www.linkedin.com/posts/tobyilee_%EB%A7%8E%EC%9D%80-%EA%B2%BD%ED%97%98%EC%9D%84-%EC%8C%93%EA%B3%A0-ddd%EC%99%80-%EA%B0%99%EC%9D%80-%EA%B8%B0%EB%B2%95%EC%9D%84-%EB%8F%99%EC%9B%90%ED%95%98%EB%8D%94%EB%9D%BC%EB%8F%84-%EC%B4%88%EA%B8%B0-%EC%84%A4%EA%B3%84%EC%97%90%EB%8A%94-%EC%8B%A4%EC%88%98%EA%B0%80-activity-7303225872931512320-18eQ/)
+  * 마틴 파울러가 제안하는 가장 이상적인 코드 리뷰는 코드를 작성한 사람과 리뷰어가 함께 코드를 보며 이야기를 나누고, 개선할 점이 있다면 같이 리팩터링하는 방식
+  * 컨텍스트도 없이 갑자기 던져지는 코드 리뷰는 그래서 별로, 그 과정을 통해서 개발자와 리뷰어가 함께 배운다
+  * 도메인에 대해서 더 잘 이해하게 되고, 최적의 기술 사용방법을 발견. 그리고 만들고 있는 애플리케이션에 대해서도
 * [CodeBuddy 와 함께하는 AI 코드리뷰 - if (kakao AI) 2024](https://if.kakao.com/session/35)
   * [베네딕트는 왜 이프카카오에서 안성재 성대모사를 했을까? - tech.kakao.com](https://tech.kakao.com/posts/659)
 * [code climate platform](https://codeclimate.com/platform)
