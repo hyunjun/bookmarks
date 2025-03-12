@@ -488,6 +488,7 @@ Javascript
 * ['This is this', JS의 this 알아보기](https://blog.scienceoflove.co.kr/misunderstanding-of-this/)
 * [자바스크립트 "this" 완벽 가이드](https://www.hamadevelop.me/what-is-this/)
 * [자바스크립트와 this](https://velog.io/@onezerokang/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-this)
+* [자바스크립트에서 ‘this’ 마스터하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3009/)
 * [keyWords in javaScript](https://medium.com/@sharmapriyanka84510/keywords-in-javascript-8a280ad3bc8d)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
