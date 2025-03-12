@@ -40,6 +40,7 @@ Business
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [류랑도 칼럼 잘못된 성과주의 문화가 기업을 망친다... 성과주의 문화, 성과평가 그리고 성과급주의 - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119590)
 * [근로시간이 곧 업무성과라는 착각에서 탈출하기](https://brunch.co.kr/@graypool/928)
+* [눈에 보이지 않으면 사람들이 일을 하지 않는다고 생각하는 리더가 많다. 이러한 리더들이 그러한 생각을 굳히게 된 이유는 의외로 간단하다](https://www.linkedin.com/posts/divercity_%EB%88%88%EC%97%90-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9D%BC%EC%9D%84-%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%A7%8E%EB%8B%A4-%EC%9D%B4%EB%9F%AC%ED%95%9C-activity-7302458836177559552-6dd4/) 재택/성과 이야기
 * [CIA가 알려주는 조직 망치는 비결 – Subin Kim](https://subin.kim/2581)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [CEO 심리학 직원들 번아웃 막고 싶다면 성장하는 재미를 느끼게하라](https://n.news.naver.com/mnews/hotissue/article/009/0004984823)
@@ -141,6 +142,14 @@ Business
 * [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [스타트업이 의사결정 잘할수 있는법 – InnoVibeCrafter](https://innovibecrafter.com/2024/05/21/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%9d%b4-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95-%ec%9e%98%ed%95%a0%ec%88%98-%ec%9e%88%eb%8a%94%eb%b2%95/) 공헌이익 contribution margin
+* [작은 실험이 토스를 키운다ㅣ장민영 토스 CPO | Square of Toss - YouTube](https://www.youtube.com/watch?v=TXIjkk6UfBQ)
+  * 속도를 위해 의사결정을 실행자가 진행(그래서 silo의 PO = mini CEO), 관련된 사람은 10명 이하(여담으로 CPO도 silo가 좋은 작명은 아니었다고 말함)
+  * TUBA
+    * 실험 속도 향상을 위해 실험 도구까지 직접 제작
+    * 내부 제품임에도 사용성을 향상시켜서 내부 사용자를 증가시켜야 함(개발자만 설정할 수 있으면 속도 저하)
+    * data 분석을 별도로 할 필요없이 실험 결과를 자동으로 볼 수 있도록
+    * 기획 회의를 할 필요없이 실험을 하고 지표 결과를 통해 사용자를 이해 e.g. text만 바꾸는 경우 심하면 20개까지 실험을 한다고 함
+  * 제품의 질 < 도전의 양
 * [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
   * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
 * [왓차와 오늘의집 비즈니스의 결정적인 차이점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=7LNhvZblRMc)
@@ -859,6 +868,7 @@ Business
 * [목적은 믿음의 차이를 극복하는 개념](https://brunch.co.kr/@graypool/718)
 * [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
 * [위기에 인력 구조조정을 하지 않는 회사, 어떻게 만들 수 있을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nolayoff20230309) 인재 경영을 통한 건강한 조직 만들기
+* [S급 인재 만능론을 경계하다](https://www.linkedin.com/posts/ethan-yj-cho_s%EA%B8%89-%EC%9D%B8%EC%9E%AC-%EB%A7%8C%EB%8A%A5%EB%A1%A0%EC%9D%84-%EA%B2%BD%EA%B3%84%ED%95%98%EB%8B%A4-%EC%9D%B4%EA%B1%B4%ED%9D%AC-%ED%9A%8C%EC%9E%A5%EC%9D%80-s%EA%B8%89-%EC%9D%B8%EC%9E%AC-%EB%A7%8C%EB%8A%A5%EB%A1%A0%EC%9D%84-%EB%88%84%EA%B5%AC%EB%B3%B4%EB%8B%A4-activity-7305339240018567168-uk6A/) 핵심은 인재의 등급이 아니라, 회사와 구성원의 이해관계를 얼마나 정확히 맞추느냐
 * [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 * [**“측정하지 않으면 관리할 수 없다.” 품질 경영의 아버지, 에드워드 데밍이 한 말**](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7221272808276799490-r6NM/)
   * 측정 가능하려면 측정 가능한 구조부터 만들어야 한다. 핵심은 가치를 만들어낼 수 있는 최소 단위를 찾아내어 최적으로 조직화하는데에 있다
@@ -998,6 +1008,7 @@ Business
 * [3. 당신은 할 일들의 우선순위를 어떻게 판단하시나요?](https://maily.so/boost.life.density/posts/1dd70d5a)
 * [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
 * [우선순위를 어떻게 정할까](https://brunch.co.kr/@hyungsukkim/174)
+* [두 가지만 분명히 하면 된다 1) 중요하지 않은 것은 그냥 넘어가도 된다 2) 중요한 것을 미해결인 상태로 두지 않는다](https://www.linkedin.com/posts/divercity_%EB%91%90-%EA%B0%80%EC%A7%80%EB%A7%8C-%EB%B6%84%EB%AA%85%ED%9E%88-%ED%95%98%EB%A9%B4-%EB%90%9C%EB%8B%A4-1-%EC%A4%91%EC%9A%94%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B2%83%EC%9D%80-%EA%B7%B8%EB%83%A5-%EB%84%98%EC%96%B4%EA%B0%80%EB%8F%84-%EB%90%9C%EB%8B%A4-activity-7302813740184285184-Y2_n/) "기준"이 필요함
 * [Why do most lists of top-level priorities read like bucket lists?](https://www.linkedin.com/feed/update/urn:li:activity:7109328490398720000/)
   * [우선순위의 미로: 버킷 리스트를 해석하는 사람들](https://brunch.co.kr/@yongjinjinipln/117)
 * [ICE를 활용한 우선순위 관리](https://brunch.co.kr/@yongjinjinipln/120)
@@ -1409,6 +1420,7 @@ Business
 * [스타트업 성공의 골든 티켓, CEO Staff | 요즘IT](https://yozm.wishket.com/magazine/detail/2172/)
 * [Everything vs. Anything - The Startup CEO blog](https://startupceo.com/2023/11/everything-vs-anything)
   * [번역 Everything vs. Anything (모든 것 vs. 무엇이든) | Daily Log](https://jiyeonseo.github.io/2023/11/19/everything-vs-anything/)
+* ["하면 된다"의 시대는 이미 지나간 지 오래다. 이제는 최소의 비용으로 실험해 보고 "되면 한다"의 시대](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7302447691622477826-cwO4/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
