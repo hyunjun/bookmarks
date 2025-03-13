@@ -368,6 +368,7 @@ Artificial Intelligence
 * [alphaXiv](https://www.alphaxiv.org/)
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
 * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
+* [awesome-vibecoding: A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between humans and AI is reshaping the future of programming](https://github.com/roboco-io/awesome-vibecoding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
