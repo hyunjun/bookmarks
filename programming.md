@@ -4746,6 +4746,7 @@ Programming
 * [배포 전략: Rolling, Blue/Green, Canary](https://onlywis.tistory.com/10)
 * [카나리 테스트와 함께하는 안전한 서버 배포 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2021/04/canary/)
 * [**무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)**](https://hudi.blog/zero-downtime-deployment/) 그림으로 잘 표현
+* [6가지 배포전략 8분컷 - YouTube](https://www.youtube.com/watch?v=eyzzwHcAZSY) bigbang blue/green rolling canary shadow A/B test
 * [프론트엔드 배포 시스템의 진화 (1) - 결제 SDK에 카나리 배포 적용하기](https://toss.tech/article/engineering-note-9)
 * [프론트엔드 배포 시스템의 진화 (1) - 결제 SDK에 카나리 배포 적용하기](https://velog.io/@tosspayments/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%A7%84%ED%99%94-1-%EA%B2%B0%EC%A0%9C-SDK%EC%97%90-%EC%B9%B4%EB%82%98%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Fast & Simple Deployments for Code & Infra • Jessica Kerr & Ian Smith • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=BgwLsl7sHvc)
