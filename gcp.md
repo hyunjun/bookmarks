@@ -199,6 +199,9 @@ Google Cloud Platform GCP
 * [Google AI Studio](https://aistudio.google.com/)
   * [Ai 엑셀 선생님, 충격 등장..!! 이제 Ai가 화면을 보며 실시간으로 알려줍니다! (100% 무료, 바로 사용해보세요!) - YouTube](https://www.youtube.com/watch?v=Tt1V1orkA18)
 * [GCP Cloud Site to Site VPN을 위한 strongswan(openvpn), Cloud VPN 설정방안](https://seonggi.kr/255)
+* [GCP Google cloud 를 좀 더 효과적이고 체계적으로 관리하기 위한 방안 알아보기 1부 — Label 과 Tag | by 이정운 (Jungwoon Lee) | google-cloud-apac | Jan, 2025 | Medium](https://medium.com/google-cloud-apac/gcp-google-cloud-%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B4%EA%B3%A0-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EC%95%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%EB%B6%80-label-%EA%B3%BC-tag-f0f9726def7d)
+* [GCP Google cloud 를 좀 더 효과적이고 체계적으로 관리하기 위한 방안 알아보기 2부 — Tag 와 IAM Condition & Deny policy | by 이정운 (Jungwoon Lee) | google-cloud-apac | Feb, 2025 | Medium](https://medium.com/google-cloud-apac/gcp-google-cloud-%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B4%EA%B3%A0-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EC%95%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2%EB%B6%80-tag-%EC%99%80-iam-condition-deny-policy-d0e3f4de104e)
+* [GCP Google cloud 를 좀 더 효과적이고 체계적으로 관리하기 위한 방안 알아보기 3부 — 조직 정책과 Tag | by 이정운 (Jungwoon Lee) | google-cloud-apac | Mar, 2025 | Medium](https://medium.com/google-cloud-apac/gcp-google-cloud-%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B4%EA%B3%A0-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EC%95%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3%EB%B6%80-%EC%A1%B0%EC%A7%81-%EC%A0%95%EC%B1%85%EA%B3%BC-tag-c31e2bc506a2)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
