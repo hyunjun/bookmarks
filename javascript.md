@@ -6680,6 +6680,8 @@ Javascript
 * [타입스크립트스럽게 성능과 생산성 두 마리 토끼 모두 잡기](https://tech.devsisters.com/posts/typescript-ish-way-to-improve-performance/) gRPC
 * [블럭스 엔지니어팀이 개발 언어를 바꾼 이유 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%ED%8C%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C-%EC%96%B8%EC%96%B4%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-30517)
 * [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/#region-prioritized-diagnostics-in-editors)
+* [A 10x Faster TypeScript - TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+  * [10배 더 빠른 TypeScript | GeekNews](https://news.hada.io/topic?id=19695)
 * [agentica: TypeScript Agentic AI Library specialized for LLM Function Calling enhanced by compiler skills](https://github.com/wrtnlabs/agentica)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
