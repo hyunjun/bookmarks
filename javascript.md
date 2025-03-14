@@ -6680,9 +6680,6 @@ Javascript
 * [타입스크립트스럽게 성능과 생산성 두 마리 토끼 모두 잡기](https://tech.devsisters.com/posts/typescript-ish-way-to-improve-performance/) gRPC
 * [블럭스 엔지니어팀이 개발 언어를 바꾼 이유 - 블럭스 매거진](https://blog.blux.ai/%EB%B8%94%EB%9F%AD%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%ED%8C%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C-%EC%96%B8%EC%96%B4%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EC%9D%B4%EC%9C%A0-30517)
 * [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/#region-prioritized-diagnostics-in-editors)
-* [A 10x Faster TypeScript - TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
-  * [10배 더 빠른 TypeScript | GeekNews](https://news.hada.io/topic?id=19695)
-  * [로직 한줄도 안바꾸고 10배가 빨라져버린 안건에 대하여.. - YouTube](https://www.youtube.com/watch?v=q0LtSR04hW0)
 * [agentica: TypeScript Agentic AI Library specialized for LLM Function Calling enhanced by compiler skills](https://github.com/wrtnlabs/agentica)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
@@ -6832,6 +6829,11 @@ Javascript
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
 * [typescript-coding-guide: TypeScript 코딩 가이드입니다](https://github.com/wisedog/typescript-coding-guide)
+* [typescript-go: Staging repo for development of native port of TypeScript](https://github.com/microsoft/typescript-go)
+  * [A 10x Faster TypeScript - TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+    * [10배 더 빠른 TypeScript | GeekNews](https://news.hada.io/topic?id=19695)
+  * [로직 한줄도 안바꾸고 10배가 빨라져버린 안건에 대하여.. - YouTube](https://www.youtube.com/watch?v=q0LtSR04hW0)
+  * [번역 TypeScript 네이티브 포트 발표(Javascript에서 GO로 전환)](https://velog.io/@kyujenius/%EB%B2%88%EC%97%AD-TypeScript-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%ED%8F%AC%ED%8A%B8-%EB%B0%9C%ED%91%9CJavascript%EC%97%90%EC%84%9C-GO%EB%A1%9C-%EC%A0%84%ED%99%98)
 * [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) TypeScript에 대한 1시간 20분 정도 분량의 다큐멘터리
 * [TypeSpec](https://typespec.io/) Describe your data up front and generate schemas, API specifications, client / server code, docs, and more
   * [Introducing TypeSpec: A New Language for API-Centric Development | TypeSpec](https://typespec.io/blog/2024-04-25-introducing)
