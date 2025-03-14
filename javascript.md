@@ -6682,6 +6682,7 @@ Javascript
 * [Announcing TypeScript 5.6 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/#region-prioritized-diagnostics-in-editors)
 * [A 10x Faster TypeScript - TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
   * [10배 더 빠른 TypeScript | GeekNews](https://news.hada.io/topic?id=19695)
+  * [로직 한줄도 안바꾸고 10배가 빨라져버린 안건에 대하여.. - YouTube](https://www.youtube.com/watch?v=q0LtSR04hW0)
 * [agentica: TypeScript Agentic AI Library specialized for LLM Function Calling enhanced by compiler skills](https://github.com/wrtnlabs/agentica)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
