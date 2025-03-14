@@ -325,28 +325,6 @@ Artificial Intelligence
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
-# Cursor AI
-* [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
-* [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
-* [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
-* [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
-* [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
-* [I Made an iOS App in MINUTES with This AI Tool! - YouTube](https://www.youtube.com/watch?v=oe3Jn6FRoII)
-* [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트](https://www.youtube.com/watch?v=KRJv7YMkjaA)
-* [AI따라하기 시리즈 at main · jeong-wooseok/AIdoingai](https://github.com/jeong-wooseok/AIdoingai/tree/main/AI%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0_%EC%8B%9C%EB%A6%AC%EC%A6%88)
-  * [🔥 개발자 필수 도구 Cursor! VS Code에 AI를 더한 강력한 코딩 도우미 (10분 만에 프로그램 뚝딱!)#Cursor #AI코딩 #obsidian #AItools - YouTube](https://www.youtube.com/watch?v=sFJ1TasNZMU&list=PLuySsHNr_M9IHW4o7sIyUz4x6Og7lsbK9&index=9)
-  * [AI 개발자를 위한 Docker 환경설정 (Cursor AI 활용) - YouTube](https://www.youtube.com/watch?v=fC6YLcLSPno)
-* [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
-* [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
-* [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
-* [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
-* [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
-* [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
-* [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
-  * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
-* [.CursorRules](https://dotcursorrules.com/)
-  * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
-
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
 * [The Best Agent Framework Has Arrived (Coding Tutorial for PydanticAI w/ OpenAI, Ollama, AzureOpenAI) - YouTube](https://www.youtube.com/watch?v=xVe87QpNE80)
@@ -381,8 +359,6 @@ Artificial Intelligence
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
-* [Continue](https://www.continue.dev/) open-source AI code assistant
-  * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [crewAI - Platform for Multi AI Agents Systems](https://www.crewai.com/)
   * [Crew AI로 AI 에이전트 팀을 몇 분 안에 구축하기!](https://www.toolify.ai/ko/ai-news-kr/crew-ai-ai-1317636)
   * [크루 AI: AutoGEN 보다 더 나은 인공지능](https://www.toolify.ai/ko/ai-news-kr/ai-autogen-2396938)
@@ -865,8 +841,36 @@ Artificial Intelligence
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
 * [Shots - Create Amazing Mockups](https://shots.so/)
+* [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
+
+## Tool coding assistant
+* [Continue](https://www.continue.dev/) open-source AI code assistant
+  * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
+* Cursor AI
+  * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
+  * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
+  * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
+  * [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
+  * [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
+  * [I Made an iOS App in MINUTES with This AI Tool! - YouTube](https://www.youtube.com/watch?v=oe3Jn6FRoII)
+  * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트](https://www.youtube.com/watch?v=KRJv7YMkjaA)
+  * [AI따라하기 시리즈 at main · jeong-wooseok/AIdoingai](https://github.com/jeong-wooseok/AIdoingai/tree/main/AI%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0_%EC%8B%9C%EB%A6%AC%EC%A6%88)
+    * [🔥 개발자 필수 도구 Cursor! VS Code에 AI를 더한 강력한 코딩 도우미 (10분 만에 프로그램 뚝딱!)#Cursor #AI코딩 #obsidian #AItools - YouTube](https://www.youtube.com/watch?v=sFJ1TasNZMU&list=PLuySsHNr_M9IHW4o7sIyUz4x6Og7lsbK9&index=9)
+    * [AI 개발자를 위한 Docker 환경설정 (Cursor AI 활용) - YouTube](https://www.youtube.com/watch?v=fC6YLcLSPno)
+  * [Cursor 개발팀이 말하는 Cursor 에디터의 작동 방식](https://maily.so/seanlee/posts/1gz244qdr3q)
+  * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트 - YouTube](https://www.youtube.com/watch?v=KRJv7YMkjaA)
+  * [Cursor로 코딩없이 Flutter 앱 개발 - Gemini API로 AI 채팅 앱 만들기 - YouTube](https://www.youtube.com/watch?v=0LxUf3MKxIs)
+  * [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
+  * [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
+  * [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
+  * [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
+    * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
+  * [.CursorRules](https://dotcursorrules.com/)
+    * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
+* [Trae - Ship Faster with Trae](https://www.trae.ai/)
+  * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
