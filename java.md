@@ -2763,6 +2763,7 @@ Java
 * [도메인 특화 언어와 단위 테스트 - 4부 :: Eternity's Chit-Chat](https://eternity-object.tistory.com/37)
 * [도메인 특화 언어와 단위 테스트 - 5부 :: Eternity's Chit-Chat](https://eternity-object.tistory.com/38)
 * [도메인 특화 언어와 단위 테스트 - 6부 :: Eternity's Chit-Chat](https://eternity-object.tistory.com/39)
+* [SaaS 테스트 안정감을 N배로 확보할 수 있었던 이유](https://blog.gangnamunni.com/post/how-we-improved-test-stability/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
