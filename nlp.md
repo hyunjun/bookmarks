@@ -2375,6 +2375,7 @@ NLP
   * [One of the first steps to code LLMs, either for educational, research, or production purposes is to set up your code environment](https://www.linkedin.com/posts/sebastianraschka_build-an-llm-from-scratch-1-set-up-your-activity-7300579403514748928-qvH4/)
 * [한 단어 씩 생성하는 트랜스포머 LLM… 정말 곧 대체되겠네요. 지금 바로 사용 가능 | 10배 빠르고 10배 싸다. 텍스트-이미지 생성처럼 한 방에 텍스트 생성하는 LLM 출시 - YouTube](https://www.youtube.com/watch?v=s2bTE1FPb50) dLLM LLaDA
   * [Mercury Coder](https://chat.inceptionlabs.ai/)
+* [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2534,7 +2535,10 @@ NLP
     * [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기 - YouTube](https://www.youtube.com/watch?v=4j6J-9hxfhk)
     * [북경 대학의 딥시크 분석 자료 바탕으로 허깅페.. : 네이버블로그](https://blog.naver.com/ulsancoding/223793159665)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
+    * [DualPipe: A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.](https://github.com/deepseek-ai/DualPipe)
+    * [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/eplb)
     * [open-r1: Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
+    * [profile-data: Analyze computation-communication overlap in V3/R1.](https://github.com/deepseek-ai/profile-data)
     * [simple-r1](https://github.com/goddoe/simple-r1)
       * [simple-r1 또 다른 DeepSeek-R1 Reproduction 하지만 멀티 노드 RL 학습 환경에서 Training Node, Inference Node 분리와 vLLM 기반 Inference Worker에 대해 NCCL을 활용한 빠른 Weight Update를 곁들인](https://www.linkedin.com/posts/sungju-kim-3b0406b0_simple-r1-%EB%98%90-%EB%8B%A4%EB%A5%B8-deepseek-r1-reproduction-%ED%95%98%EC%A7%80%EB%A7%8C-ugcPost-7298064153900892160-odV7/)
     * [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
@@ -2546,6 +2550,8 @@ NLP
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
+* ERNIE Bot [文心一言](https://yiyan.baidu.com/)
+  * [바이두, GPT-4.5보다 성능이 뛰어난 ‘어니 4.5’와 딥시크와 동등한 성능의 ‘어니 X1’ 오픈소스로 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34258)
 * [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!](https://github.com/corca-ai/EVAL)
 * [evalverse: The Universe of Evaluation. All about the evaluation for LLMs](https://github.com/UpstageAI/evalverse)
   * [Introduction to Evalverse | Open-Source Project for LLM Evaluations - YouTube](https://www.youtube.com/watch?v=-VviAutjpgM)
@@ -2944,6 +2950,7 @@ NLP
   * [Why Developers Are Flocking to LLaMA, Meta’s Open Source LLM - The New Stack](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
   * [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
     * [메타, 속도 향상 및 메모리 사용량 감소된 양자화(Quantized) Llama 모델 공개 | GeekNews](https://news.hada.io/topic?id=17418)
+  * [풀버전 Local LLM - YouTube](https://www.youtube.com/watch?v=KnjWSWNmmOI)
   * code-llama
     * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
       * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
