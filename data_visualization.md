@@ -252,6 +252,8 @@ Data Visualization
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * [McKinsey Chart of the Day | McKinsey & Company](https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/chart-of-the-day) data에 맞는 chart의 예시를 보고 싶을 때
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
+* [data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
+  * [Microsoft released a new AI powered data analysis tool](https://www.linkedin.com/posts/sumanth077_microsoft-released-a-new-ai-powered-data-activity-7307302736302153729-wDQy/)
 * [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
   * [뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper' | 요즘IT](https://yozm.wishket.com/magazine/detail/2011/)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
