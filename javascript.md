@@ -6017,6 +6017,7 @@ Javascript
     * 지난 4년간 Remix 개발하면서
       * React Router와 밀접하게 연결, 개선 과정에서 Remix가 React Router를 더 의존하게 만들다 보니 Remix가 React Router 레이어에 불과하다는 걸 깨달음
     * 그래서 두 프로젝트를 합쳐서 Remix v3를 React Router v7으로 출사하기로 결정
+  * [어느날 갑자기 되던게 안된다. - REACT Router; 조건에 따른 createBrowserRouter | miori tech blog](https://techblog.iammiori.com/0003-reactrouter_issue)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
@@ -6468,6 +6469,7 @@ Javascript
 * [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
 * [Typescript — Enum](https://engineering.huiseoul.com/typescript-enum-bff9b7666b14)
 * ['타입스크립트 enum 을 사용하지 않는 방법' 을 사용하지 않는게 좋은 이유](https://velog.io/@vraimentres/typescript-enum)
+* [Why I Don't Like Enums | Total TypeScript](https://www.totaltypescript.com/why-i-dont-like-typescript-enums)
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈 - 용균](https://edykim.com/ko/post/namespaces-and-modules-in-type-scripts/)
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
