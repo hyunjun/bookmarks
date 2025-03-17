@@ -347,6 +347,7 @@ Artificial Intelligence
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
 * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
 * [awesome-vibecoding: A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between humans and AI is reshaping the future of programming](https://github.com/roboco-io/awesome-vibecoding)
+  * [Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 :: ROBOCO](https://roboco.io/posts/vibe-coding-manual/)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -448,6 +449,8 @@ Artificial Intelligence
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
   * [🚀 MCP: 웹 검색부터 파일 관리까지, AI의 한계를 확장하는 표준 기술](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-MCP-%EC%9B%B9-%EA%B2%80%EC%83%89%EB%B6%80%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC%EA%B9%8C%EC%A7%80-AI%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%ED%91%9C%EC%A4%80-%EA%B8%B0%EC%88%A0)
+  * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
+  * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
   * [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models | NVIDIA Blog](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
     * [Nvidia, LLM 훈련을 위한 합성 데이터 생성 파이프라인 공개 | GeekNews](https://news.hada.io/topic?id=15376)
