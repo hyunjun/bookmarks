@@ -384,6 +384,7 @@ Linux
 * [Boost your development environment with Ubuntu Multipass - Let’s Debug It!](https://letsdebug.it/post/21-ubuntu-multipass/)
   * [Ubuntu Multipass로 개발 환경 강화하기 | GeekNews](https://news.hada.io/topic?id=16653)
 * [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/24.10/release/)
+* [Macbook M1/M2에 Ubuntu Asahi Linux 설치 하는 방법 - YouTube](https://www.youtube.com/watch?v=Z946l_4t7VE)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
