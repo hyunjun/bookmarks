@@ -301,6 +301,14 @@ Business
 * [작은 스타트업이 건강한 조직문화를 만드는 방법. 딜라이트룸이 조직문화에 관심을 두기 시작한 이유 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-9db3438e4868)
 * [건강한 조직문화를 찾아서 : 얼라인먼트와 자율조직](https://brunch.co.kr/@f2899d6dae6a477/21)
 * [조직문화는 '같이 만들어가는 것'. 이것은 리더에게만 하는 말이 아니다. 회사의 구성원에게도 똑같이 적용](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%8A%94-%EA%B0%99%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EA%B2%83-%EC%9D%B4%EA%B2%83%EC%9D%80-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C%EB%A7%8C-%ED%95%98%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-activity-7237613467279507456--KcI/)
+* [조직문화를 바꿔야 한다고요?](https://www.linkedin.com/posts/activity-7306678781409140736-qlBA/)
+  * 조직이 어떠한 전략이나 목표 달성을 위해 조직문화를 개선해야 한다는 말은 비현실적
+    * 문화를 바꾸기보다 차라리 전략을 변경하는 편이 현실적으로 훨씬 더 쉬운 선택이기 때문
+  * Edgar H. Schein은 조직문화를 '한 집단이 외부 적응과 내부 통합 과정에서 배운 공유된 기본 가정의 집합'이라고 정의
+    * 이 기본 가정은 조직 구성원들의 사고, 행동, 의사소통 방식과 같은 가장 깊은 층위에서 무의식적으로 작동하며, 쉽게 관찰할 수도, 바꾸기도 어렵
+  * 결론적으로, 조직문화를 바꾸겠다는 목표는 대부분 작동하기 어렵
+    * 매일의 업무 방식, 예를 들어 회의 방식, 피드백 주는 방법, 업무 우선순위를 정하는 기준 등 구체적이고 실천 가능한 부분을 바꾸는 것이 현실적
+    * 그리고 그렇게 자연스럽게 바뀌어가는 문화를 관찰
 * [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
