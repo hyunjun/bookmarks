@@ -52,6 +52,7 @@ Web
 * [API 없이 웹 애니메이션 구현: 인터랙티브 웹 개발 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/dion-interactive-animation/)
 * [API 없이 웹 애니메이션 구현: 인터랙티브 웹 개발 2편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/dion-interactive-animation-2/)
 * [애니메이티드 커서 적용하기](https://miriya.net/blog/cljt1vroo0001wbs5usxscp79)
+* [자바스크립트로 구현하는 웹 애니메이션](https://blog.shiren.dev/ko/post/2025-03-04)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
