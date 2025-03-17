@@ -451,6 +451,7 @@ App
   * [How to set up a blog with Hugo and Cloudflare (and why you should) | Smaller Fish](https://smaller.fish/posts/hugo)
   * [Vercel에 Hugo 사이트 배포하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/deploying-hugo-with-vercel/)
   * [hugo-paper에 tag cloud 추가하기 - rein's world](https://rein.kr/posts/2024-09-15-hugo-paper-theme-tag-cloud/)
+  * [원래는 기술블로그만 만들려고 했었다 | 엡실론델타 테크블로그](https://tech.epsilondelta.ai/posts/create-hugo-blog-with-theme/)
 * [inblog | Boost your sales through SEO-optimized blog](https://inblog.ai/)
   * [SEO 최적화 내세운 노션 기반 블로그 플랫폼 ‘인블로그’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2091/)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
