@@ -439,6 +439,9 @@ Artificial Intelligence
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
 * [Manus](https://manus.im/)
   * [ANUS](https://github.com/nikmcfly/ANUS)
+  * [OpenManus - Open-source Framework for Building AI Agents](https://openmanus.github.io/)
+    * [OpenManus: No fortress, purely open ground. OpenManus is Coming](https://github.com/mannaandpoem/OpenManus)
+    * [자율에이전트 Manus 로컬로 써보기 - YouTube](https://www.youtube.com/watch?v=ZJzxje3rmnI)
 * [Mem – The AI Notes App That Keeps You Organized](https://get.mem.ai/) AI notepad
 * [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
