@@ -2407,6 +2407,8 @@ Javascript
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [lozad.js - Intersection Observer API와 lozad.js 로 이미지 지연 로딩하기](https://rhostem.github.io/posts/2017-10-21-lazay-image-loading-with-lodzad-js/)
 * [Luckysheet - JS 스프레드시트 라이브러리 오픈소스 | GeekNews](https://news.hada.io/topic?id=6481)
+* [Lynx](https://lynxjs.org/)
+  * [Lynx 틱톡의 새로운 프레임워크를 써봤다...! - YouTube](https://www.youtube.com/watch?v=K61ycZ_zjhc)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
   * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
