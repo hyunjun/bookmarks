@@ -3397,6 +3397,7 @@ Programming Books
   * [실리콘밸리의 팀장들](https://github.com/hyunjun/bookmarks/blob/master/programming_books/radical_candor.md)
   * [실리콘밸리의 팀장들. Radical Candor — Be A Kick-Ass Leader… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4-f7677ca4f8b7)
   * [실리콘밸리의 팀장들](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4)
+  * [유능한 팀장이 팀원들과 소통하는 방법 - YouTube](https://www.youtube.com/watch?v=rAhT9FaF5PY)
 * 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
   * 우당
   * ★★★★☆ 2022.04.23
