@@ -116,6 +116,7 @@ Sports
 * [Trajekt Sports](https://www.trajektsports.com/)
   * [완벽하게 투수가 ‘복제’ 된다 | 빅리그 기술 전쟁 - YouTube](https://www.youtube.com/watch?v=gIFsePR5rPQ) Trajekt Arc
 * [컴퓨터 비전의 시대에서 야구를 외치다 - 야구공작소](https://yagongso.com/?p=23186)
+* [류선규 : ‘재야의 야구 덕후 → SSG 초대 단장’ KBO의 새 역사를 쓰다!](https://prologue.rememberapp.co.kr/25031201)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
@@ -227,6 +228,7 @@ Sports
 * [**농구의 길은 대체 무엇일까?**](https://sports.v.daum.net/v/20220325090956952)
 * [골든스테이트 워리어스를 'NBA의 구글'이라고 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goldenstatewarriors20220624)
 * [14화 전설의 마이클 조던,코비 브라이언트,샤킬오닐의 공통점?](https://brunch.co.kr/@kfinland100/139)
+* [최희암 : 기업인이 된 레전드 농구인, 불굴의 ‘리바운드’로 역전을 경영하다](https://prologue.rememberapp.co.kr/25012001)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
