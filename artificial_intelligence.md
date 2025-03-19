@@ -457,6 +457,8 @@ Artificial Intelligence
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
+* [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
+  * [AI Agent Framework Built for Software Engineers](https://www.linkedin.com/posts/sumanth077_ai-agent-framework-built-for-software-engineers-activity-7307671067265810432-yB4q)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
   * [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models | NVIDIA Blog](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
     * [Nvidia, LLM 훈련을 위한 합성 데이터 생성 파이프라인 공개 | GeekNews](https://news.hada.io/topic?id=15376)
