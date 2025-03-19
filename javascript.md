@@ -700,6 +700,7 @@ Javascript
 * [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
 * [클라이언트 테이블과 서버 테이블 개념](https://velog.io/@leehyunho2001/client-table-server-table) component
+* [자료구조를 활용한 복잡한 프론트엔드 컴포넌트 제작하기](https://toss.tech/article/frontend-tree-structure)
 * [역할에 맞는 테이블](https://velog.io/@leehyunho2001/client-server-table)
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
