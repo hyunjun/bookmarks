@@ -530,6 +530,7 @@
 * [dokka: Documentation Engine for Kotlin](https://github.com/Kotlin/dokka)
   * [Dokka로 프로젝트 문서화하기](https://cliearl.github.io/posts/android/dokka-example/)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
+  * [Spring Boot MVC with Exposed](https://debop.notion.site/Spring-Boot-MVC-with-Exposed-1ad2744526b0807f86a1eaaeb4c6baae)
   * [exposed-study at master · cheese10yun/blog-sample](https://github.com/cheese10yun/blog-sample/tree/master/exposed-study)
     * [Exposed - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed/)
     * [Exposed 추가 정리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed-2/)
