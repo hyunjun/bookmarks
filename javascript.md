@@ -1564,6 +1564,7 @@ Javascript
   * [VidiGo The Most Important Skill You Never Learned.mp4](https://vidigo.ai/share/summary/cd3b364837d7)
   * [배우지 못한 가장 중요한 기술 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747927)
 * [Node Express 디버깅 기법 소개](https://mixedcode.com/blog/detail?pid=22)
+* [여전히 에러가 두려운 프론트엔드 개발자들에게 | 요즘IT](https://yozm.wishket.com/magazine/detail/3021/)
 
 # Design System
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
