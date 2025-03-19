@@ -2044,9 +2044,11 @@ NLP
   * ["💡 LoRA를 넘어선 새로운 패러다임! MoRA가 메모리 문제를 해결하는 방법" - YouTube](https://www.youtube.com/watch?v=_goMNbhRIkI)
     * [AGI KR | 오늘 소개해드릴 논문은 "MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning"입니다 | Facebook](https://www.facebook.com/groups/agikr/posts/%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%95%B4%EB%93%9C%EB%A6%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-mora-high-rank-updating-for-parameter-efficient-fine-tuning%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4-%EB%85%BC%EB%AC%B8/2442336092774101/)
 * [ReFT: A New Way of Finetuning LLMs 🧠 ♻ ](https://www.linkedin.com/posts/pascalbiese_reft-a-new-way-of-finetuning-llms-activity-7155504535883374592-PjnJ/)
-*  Andrej Karpathy
+* Andrej Karpathy
   * [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   * [Let's build the GPT Tokenizer - YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)
+  * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+    * [How I use LLMs |](https://lilys.ai/digest/2785246/977598)
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
