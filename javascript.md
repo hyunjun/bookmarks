@@ -6341,6 +6341,8 @@ Javascript
 * [모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까?](https://toss.tech/article/firesidechat_frontend_3)
   * [VidiGo 모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까?.mp4](https://vidigo.ai/share/summary/829c43a3c4f2)
   * [모닥불 | EP.3 프론트엔드 개발에서 테스트 자동화, 꼭 해야 할까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927289)
+* [테스트는 어떻게 좋은 코드를 만드는가(feat. 험블 객체 패턴)](https://d2.naver.com/helloworld/9921217)
+  * 험블 객체 패턴은 테스트하기 어려운 행위와 테스트하기 쉬운 행위를 단위 테스트 작성자가 분리하기 쉽게 하는 방법으로 고안된 디자인 패턴
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
