@@ -311,6 +311,7 @@ Flutter
   * [GetX 상태관리 이 영상 하나면 끝! #2 - State Management - YouTube](https://www.youtube.com/watch?v=CoFLunStYdU)
   * [상태, 네비게이션, 의존성 관리를 위한 GetX](https://blog.naver.com/pjt3591oo/222596875295)
   * [http 통신을 위한 GetX - GetConnect](https://blog.naver.com/pjt3591oo/222599743256)
+  * [GetX 상태 관리 - Flutter에서 GetX를 사용하여 상태 관리를 하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/flutter/getx/state/)
 * [Flutter chat SDK | Build a Flutter chat app | In app chat | Sendbird](https://sendbird.com/products/sdk/flutter-chat-sdk)
 * [Flutterflow - Build Native Apps Visually](https://flutterflow.io/)
   * [FlutterFlow - Flutter앱을 드래그앤 드랍으로 개발 | GeekNews](https://news.hada.io/topic?id=5604)
