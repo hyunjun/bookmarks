@@ -962,6 +962,7 @@ Business
   * 1~6번을 종합해서 한 단어로 표현하면, 내가 일하기 편했고 그래서 많이 배울 수 있었던 분들은 '성숙한 사람'
 * [Growth industries and the next big arenas of competition | McKinsey](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
   * [차세대 경쟁 Arena 18가지 - 맥킨지 보고서 213p PDF | GeekNews](https://news.hada.io/topic?id=17582)
+* [실리콘밸리가 사용하는 일하는 프로세스 - YouTube](https://www.youtube.com/watch?v=F42oxFb9gfc) owner 오너
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
