@@ -687,6 +687,7 @@ iOS
   * [Swift는 더 편리한 Rust입니다 | GeekNews](https://news.hada.io/topic?id=16646)
 * [Swift 6 - @retroactive :: iOYES](https://green1229.tistory.com/507)
 * [MapoFM-iOS: 마포FM 앱의 iOS 버전 제안](https://github.com/nedpark/MapoFM-iOS)
+* [macOS 또는 Linux 가상 머신 만들기 - YouTube](https://www.youtube.com/watch?v=mg5GxH81X5M) VZVirtualMachine
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
