@@ -1673,6 +1673,13 @@ Git
 * [Git-User-Switch: Switch git user and email at ease](https://github.com/geongeorge/Git-User-Switch)
 * [gitv](https://github.com/gregsexton/gitv)
 * [git-visualizer](http://veniversum.me/git-visualizer/)
+* [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
+  * "누가 작성한 코드야?" 를 쉽게 알아보는 git 프로그램
+    * 누가 제일 많이 기여하고 수정했나
+    * 누가 지웠나
+    * 어떤 버전에서 누가 뭘했나 
+    * 이 메소드는 누구 책임인가 
+    * 특정인이 언제 어느 폴더에서 뭘 했나
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [Gource - a software version control visualization tool](https://gource.io/)
