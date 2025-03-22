@@ -461,6 +461,17 @@ Book
   * [세계사를 바꾼 맥주 이야기 - Jun - Medium](https://nymets.medium.com/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0-65b0dd264472)
   * [세계사를 바꾼 맥주 이야기 - Jun’s Substack](https://recur.substack.com/p/22f)
   * [세계사를 바꾼 맥주 이야기](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* [1984](https://www.notion.so/1003/1984-1be3f0c2cf6580b687c2c0424a9a7c35)
+  * ★★★☆☆ 2025.03.22
+    * 조지 오웰의 『1984』를 다시 읽었다. 어린 시절 접했지만, 내용이 기억나지 않았기에 도서관에 들렀다가 눈에 띄어 다시 펼쳤다. 가장 크게 다가온 감정은 두 가지였다. 첫째, 조지 오웰은 대단한 천재라는 것. 둘째, 작품이 전하는 암울함.
+    * 1920년대의 작가가 미래를 이렇게 정확하게 예측할 수 있었을까? 물론 그의 천재성도 있겠지만, 인간의 정치 체제가 근본적으로 변하지 않았기 때문일 수도 있다. 읽는 내내 감탄과 함께 깊은 침잠을 경험했다.
+    * 윈스턴이 빅 브라더의 감시를 피했다고 생각했지만, 사실 모든 것이 감시 아래 있었던 것처럼, 우리의 삶도 빅 테크와 각종 감시 장비로부터 벗어나기 어렵다. 머지않아 『1984』의 텔레스크린처럼 모든 순간이 기록될지도 모른다. 중국의 AI 발전 속도를 보면, 이미 실현되었을 수도 있다는 생각이 든다. 이 글을 온라인에 저장하는 내 모습도 아이러니하게 느껴진다.
+    * 한 가지 이해가 가지 않는 점, 이 책과 함께 조지 오웰의 또 다른 명작 ‘동물 농장’이 왜 어린이 도서관에 있는걸까? 중고교생 정도면 읽을만 하기 때문일까?
+  * [1984](https://github.com/hyunjun/bookmarks/blob/master/books/1984.md)
+  * [1984. ★★★☆☆ March 22, 2025 | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/1984-6b5da2c6f9db)
+  * [1984 - Jun’s Substack](https://recur.substack.com/p/1984)
+  * [1984](https://jh4hj.tistory.com/entry/1984)
+  * [1984 : 네이버 블로그](https://blog.naver.com/octoberblue/223806148366)
 * (NOT COMPLETED) [아빠의 법칙](http://www.loginbook.com/book/view.asp?bcode=1543455000184)
   * ★☆☆☆☆ 2024.12.11
 * (NOT COMPLETED) [디 에센셜: 다자이 오사무](https://brunch.co.kr/@santafe9723/37)
