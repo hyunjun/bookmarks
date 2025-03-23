@@ -461,6 +461,10 @@ Book
   * [세계사를 바꾼 맥주 이야기 - Jun - Medium](https://nymets.medium.com/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0-65b0dd264472)
   * [세계사를 바꾼 맥주 이야기 - Jun’s Substack](https://recur.substack.com/p/22f)
   * [세계사를 바꾼 맥주 이야기](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A7%A5%EC%A3%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* (NOT COMPLETED) [아빠의 법칙](http://www.loginbook.com/book/view.asp?bcode=1543455000184)
+  * ★☆☆☆☆ 2024.12.11
+* (NOT COMPLETED) [디 에센셜: 다자이 오사무](https://brunch.co.kr/@santafe9723/37)
+  * ★★☆☆☆ 2024.12.12
 * [1984](https://www.notion.so/1003/1984-1be3f0c2cf6580b687c2c0424a9a7c35)
   * ★★★☆☆ 2025.03.22
     * 조지 오웰의 『1984』를 다시 읽었다. 어린 시절 접했지만, 내용이 기억나지 않았기에 도서관에 들렀다가 눈에 띄어 다시 펼쳤다. 가장 크게 다가온 감정은 두 가지였다. 첫째, 조지 오웰은 대단한 천재라는 것. 둘째, 작품이 전하는 암울함.
@@ -472,10 +476,18 @@ Book
   * [1984 - Jun’s Substack](https://recur.substack.com/p/1984)
   * [1984](https://jh4hj.tistory.com/entry/1984)
   * [1984 : 네이버 블로그](https://blog.naver.com/octoberblue/223806148366)
-* (NOT COMPLETED) [아빠의 법칙](http://www.loginbook.com/book/view.asp?bcode=1543455000184)
-  * ★☆☆☆☆ 2024.12.11
-* (NOT COMPLETED) [디 에센셜: 다자이 오사무](https://brunch.co.kr/@santafe9723/37)
-  * ★★☆☆☆ 2024.12.12
+* [어딘가엔 나의 서점이 있다 Bookstores Around the World](https://www.notion.so/1003/Bookstores-Around-the-World-1bf3f0c2cf658099bbcfd05c31a2ac62)
+  * ★★★☆☆ 2025.03.23 딱히 분류하기 애매한(?) 책, 그림이 예쁘다. 언젠가 꼭 방문해보고 싶다고 생각한 서점들이 있어 일단 여행 태그로 낙점. 한국 서점도 두 군데 포함된 게 신기하다(소리소문, 평산책방). 어쩌다 보니 실제로 방문했던 곳은 샌프란시스코의 City Lights 딱 한 군데. 가장 가보고 싶은 곳은 El Ateneo.
+  * [새책 어딘가엔 나의 서점이 있다](https://v.daum.net/v/20250102094123317)
+  * [책방 소리소문](https://www.instagram.com/sorisomoonbooks)
+  * [평산책방](https://www.psbooks.kr/)
+  * [City Lights Booksellers & Publishers | A Literary Meetingplace Since 1953](https://citylights.com/)
+  * [El Ateneo Grand Splendid - Wikipedia](https://en.wikipedia.org/wiki/El_Ateneo_Grand_Splendid)
+  * [어딘가엔 나의 서점이 있다 Bookstores Around the World](https://github.com/hyunjun/bookmarks/blob/master/books/bookstores_around_the_world.md)
+  * [어딘가엔 나의 서점이 있다 Bookstores Around the World - Jun - Medium](https://nymets.medium.com/%EC%96%B4%EB%94%98%EA%B0%80%EC%97%94-%EB%82%98%EC%9D%98-%EC%84%9C%EC%A0%90%EC%9D%B4-%EC%9E%88%EB%8B%A4-bookstores-around-the-world-bb3ec4b8a321)
+  * [어딘가엔 나의 서점이 있다 Bookstores Around the World - Jun’s Substack](https://recur.substack.com/p/bookstores-around-the-world)
+  * [어딘가엔 나의 서점이 있다 Bookstores Around the World](https://jh4hj.tistory.com/entry/%EC%96%B4%EB%94%98%EA%B0%80%EC%97%94-%EB%82%98%EC%9D%98-%EC%84%9C%EC%A0%90%EC%9D%B4-%EC%9E%88%EB%8B%A4-Bookstores-Around-the-World)
+  * [어딘가엔 나의 서점이 있다 Bookstores.. : 네이버블로그](https://blog.naver.com/octoberblue/223806874024)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
