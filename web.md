@@ -2636,6 +2636,7 @@ Web
 * [Pushy to the Limit: Evolving Netflix’s WebSocket proxy for the future | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658)
 * [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
   * [Discord가 웹소켓 트래픽을 40% 감소시킨 방법 | GeekNews](https://news.hada.io/topic?id=16885)
+* [토스ㅣSLASH 24 - N개의 탭, 단 하나의 웹소켓: SharedWorker - YouTube](https://www.youtube.com/watch?v=SVt1-Opp3Wo)
 * [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
   * [웹소켓으로 AWS 비용 10억을 날리고 얻은 교훈 | 요즘IT](https://yozm.wishket.com/magazine/detail/2902/)
 * [soketi](https://soketi.app/)
