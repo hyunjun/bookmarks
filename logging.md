@@ -18,7 +18,7 @@ Logging
 * [**#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해**](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
-* [로그 데이터로 유저 이해하기](http://woowabros.github.io/woowabros/2017/07/30/logdata.html)
+* [로그 데이터로 유저 이해하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2536/) data analyst
 * [로그를 잘 남기기](https://ash84.net/2017/09/29/how-do-you-keep-your-logs/)
 * [구글 스택드라이버를 이용한 애플리케이션 로그 모니터링](http://bcho.tistory.com/1214)
 * [The Architecture of the Next CERN Accelerator Logging Service](https://databricks.com/blog/2017/12/14/the-architecture-of-the-next-cern-accelerator-logging-service.html)

@@ -1431,7 +1431,7 @@ Docker
 * [Kubernetes Logging with Fluent Bit, Elasticsearch and Kibana | by Raju Dawadi | Medium](https://dwdraju.medium.com/kubernetes-logging-with-fluent-bit-elasticsearch-and-kibana-c4234f71e65b)
 * [Tail logs from multiple Kubernetes pods the easy way | by Geshan Manandhar | THE ICONIC Tech](https://theiconic.tech/tail-logs-from-multiple-kubernetes-pods-the-easy-way-71401b84d7f)
 * ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유 - CIO Korea](https://www.ciokorea.com/news/190458)
-* [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
+* [우리는 불편함을 어떻게 마주하고 있는가 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2696/)
 * [Kubernetes에서 NFS(EFS) 사용하기 | PSH's Blog](https://pseonghoon.github.io/post/k8s-and-nfs)
 * [Canonical introduces high-availability Micro-Kubernetes | ZDNet](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
@@ -3104,7 +3104,7 @@ Docker
 * [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
 * [How to Dockerize your End-to-End acceptance tests | by Dominic Fraser | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-dockerize-your-end-to-end-acceptance-tests-dbb593acb8e0)
 * [Distributed load testing with Gatling and Kubernetes | by Anna Shepeleva | De Bijenkorf Techblog | Medium](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
-* [**쿠버네티스를 이용해 테스팅 환경 구현해보기**](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)
+* [**쿠버네티스를 이용해 테스팅 환경 구현해보기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/2562/)
 * [The Subtle Art of Test Automation Using Docker Compose | by Shreyas Chaudhari | Better Programming | Medium](https://medium.com/better-programming/the-subtle-art-of-test-automation-using-docker-compose-69a10fc9aac5)
 
 # Triton

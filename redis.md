@@ -135,7 +135,7 @@ Redis
 * [Redis Eviction 정책을 적용하여 효율적인 캐시 띄우기](https://chagokx2.tistory.com/102)
 * [서버가 여러대면 로그인 정보는 어디에 저장할까? - Sticky Session, Session Clustering, Redis Session Storage](https://tjdrnr05571.tistory.com/3)
 * [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
-* [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2021/01/19/product-stock.html) redis + RDB 배민 재고 관리
+* [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? | 우아한형제들 기술블로그**](https://techblog.woowahan.com/2709/) redis + RDB 배민 재고 관리
 * [레디스(Redis)는 언제 어떻게 사용하는 게 좋을까](https://brunch.co.kr/@skykamja24/575)
 * [Improve Cache Speed at Scale - RedisConf 2020 - YouTube](https://www.youtube.com/watch?v=mPg20ykAFU4) Cache Stampede, TTL, PER, 디바운싱, Hot Keys, 읽기분산, 레플리카, 압축
 * [How to Set up a Firewall for Redis using ufw | thisDaveJ](https://thisdavej.com/how-to-set-up-a-firewall-for-redis-using-ufw/)

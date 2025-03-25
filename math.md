@@ -249,7 +249,7 @@ Math
 ## Linear Algebra Python
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.albertauyeung.com/post/python-matrix-factorization/)
-* [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
+* [파이썬으로 Linear Regression 해보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2582/)
 * [Simon Ward-Jones | Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)

@@ -18,7 +18,7 @@ Programming Books
 * [SW교육도서 소개](http://hicoding.kr/?page_id=38623) 초등학생용이지만 수준이 상당함
 * [전자책 출간 후기](https://www.popit.kr/%EC%A0%84%EC%9E%90%EC%B1%85-%EC%B6%9C%EA%B0%84-%ED%9B%84%EA%B8%B0)
 * [전자책 1인출판 도전기 #6 출판사 신고하기 (1)](https://brunch.co.kr/@merryseo/9)
-* [독서가 내게 가져다 준 것들 - 우아한형제들 기술 블로그](https://woowabros.github.io/growth/2020/11/25/what-reading-gave-to-me.html)
+* [독서가 내게 가져다 준 것들 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2702/)
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
 * [2021 개발자 필독서 ](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)

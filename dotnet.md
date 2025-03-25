@@ -65,7 +65,7 @@
 * [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
-* [Dll을 이용하여 배달대행 주문정보 연동](http://woowabros.github.io/study/2019/06/27/delivery-dll-relaytion.html)
+* [Dll을 이용하여 배달대행 주문정보 연동 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2635/)
 * [**메시지 유효성 검사에 대한 다양한 관점**](https://blog.aliencube.org/ko/2019/10/09/many-meanings-of-message-validation/) 메시지 유효성 검사에 대한 매우 좋은 글
 * [**애저 메시징 서비스를 위한 스키마 저장소 구현**](https://blog.aliencube.org/ko/2019/10/23/introducing-schema-registry-for-azure-messaging-services/) WSDL, Open API, 스키마 저장소
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/)

@@ -4,8 +4,8 @@ GIS
 * [10 Free GIS Data Sources: Best Global Raster and Vector Datasets](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
 * [github.com/gaia3d](https://github.com/gaia3d)
 * [오픈소스GIS 개발 일반 강의자료](https://www.slideshare.net/jangbi882/gis-73194454)
-* [Hello, Geo-fence!](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)
-* [**배달아~ 배달 가는길 알려줘!(단호함)**](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html) 배달 거리 계산. A\*
+* [Hello, Geo-fence! | 우아한형제들 기술블로그](https://techblog.woowahan.com/2567/)
+* [**배달아~ 배달 가는길 알려줘!(단호함) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/2608/) 배달 거리 계산. A\*
 * [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
 * what3words
   * [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
@@ -43,7 +43,7 @@ GIS
   * [Find3 - 고정밀도 실내 GPS 오픈소스 | GeekNews](https://news.hada.io/topic?id=3861)
 
 # Java
-* [가게 배달지역 관리방식 개편 프로젝트 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/27/s2-project.html)
+* [가게 배달지역 관리방식 개편 프로젝트 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2717/)
 
 # Javascript
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)

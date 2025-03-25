@@ -264,7 +264,7 @@
 * [안드로이드 스튜디오 3.0 (혹은 안드로이드 그래들 플러그인 3.0) 이상에서 코틀린 프로젝트를 빌드하는 경우 발생하는 호환성 문제를 해결하려면?](http://kunny.github.io/tip/2017/06/11/kotlin_with_android_gradle_3_0/)
 * [Android 를 Kotlin 으로 개발해봅시다!](https://json.postype.com/post/58130/)
 * [Android Kotlin 시작하기](http://thdev.net/680)
-* [똑똑, 프로젝트에 코틀린을 도입하려고 합니다](http://woowabros.github.io/experience/2017/07/18/introduction-to-kotlin-in-baeminfresh.html)
+* [똑똑, 프로젝트에 코틀린을 도입하려고 합니다. | 우아한형제들 기술블로그](https://techblog.woowahan.com/2532/)
 * [Kotlin의 안드로이드 아키텍처 컴포넌트](https://academy.realm.io/kr/posts/android-architecture-component-on-kotlin/)
 * [Kotlin Android Extensions - 리사이클러뷰의 뷰홀더에서 올바르게 사용하는 방법](http://kunny.github.io/lecture/kotlin/2017/11/26/kotlin_android_extensions_on_viewholder/)
 * [안드로이드와 코틀린. 내가 만난 문제](https://medium.com/@jsuch2362/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EB%AC%B8%EC%A0%9C-80d109ad2d81)
@@ -472,7 +472,7 @@
 # DSL
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
 * [Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
-* ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
+* [‘Gradle Kotlin DSL’ 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2625/)
 * [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
 * [The Art of Building a Gradle Plugin with Kotlin | by Kerry Bisset | Nov, 2023 | Stackademic](https://blog.stackademic.com/the-art-of-building-a-gradle-plugin-with-kotlin-20756f61666b)
 * [Kotlin DSL, Gradle 빌드 기본 언어 채택… 왜 Kotlin DSL일까?](https://blog.imqa.io/kotlin-dsl/)
@@ -514,7 +514,7 @@
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
-* [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+* [코틀린에서 하이버네이트를 사용할 수 있을까? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2675/)
 * [Kotlin-Algorithms-and-Design-Patterns: This repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns)
 * [7 Features in Kotlin's Standard Library that You Might Have Overlooked - YouTube](https://www.youtube.com/watch?v=OFWMtmqocV8)
 * [apollo-kotlin:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform](https://github.com/apollographql/apollo-kotlin)

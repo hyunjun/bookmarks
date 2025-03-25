@@ -264,7 +264,7 @@ NLP
   * [(Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 * [Natural Language Understanding benchmark](https://github.com/snipsco/nlu-benchmark)
   * [NLU / Intent Detection Benchmark by Intento, August 2017](https://www.slideshare.net/KonstantinSavenkov/nlu-intent-detection-benchmark-by-intento-august-2017)
-* [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
+* [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2612/) 메뉴 검색을 위해 초중종성 분리 검색 개발
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 * [Deploying Handwritten Text Recognition Using Tensorflow and CNN](https://artificialintelligence.oodles.io/dev-blogs/Deploying-Handwritten-Text-Recognition-Using-Tensorflow-and-CNN/)
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)

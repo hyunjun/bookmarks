@@ -349,7 +349,7 @@ Data Science
 * [데이터사이언스 취업 전에 꼭 고민하면 좋을 내용 공개!](https://www.youtube.com/watch?v=03AWzU5mkOI)
 * [**다시 찾아간 지표의 세계**](https://cojette.github.io/metrics_revisited/) vanity metrics, actionable metrics
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
-* [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
+* [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2686/)
 * [제로베이스 데이터 사이언스 스쿨 | 직무 인터뷰 ③ 현직 네이버 계열사 데이터 분석가가 말하는 ‘데이터 분석가의 일’ | zero-base](https://zero-base.co.kr/event/media_ds_school_interview_da)
 * [컬리에서 데이터 분석가로 일한다는 것 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/how-to-work-da/) 요구사항에 대한 이야기가 인상적, 맘에 듦
 * [Becoming A Data Analyst: Step by Step Guide - YouTube](https://www.youtube.com/watch?v=mzE-6l5W4QE)

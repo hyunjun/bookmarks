@@ -1003,7 +1003,7 @@ Interview
   * [hsol.github.io](https://github.com/hsol/hsol.github.io)
 * [2017년 개발자 이력서 작성 가이드](https://brunch.co.kr/@imagineer/215)
 * [개발자가 영문 이력서 쓸 때 자주 저지르는 실수](https://brunch.co.kr/@imagineer/272)
-* [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
+* [이직초보 어느 개발자의 이력서 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2531/)
 * [페북 채용담당자의 조언: 이력서에서 가장 먼저 보는 것](http://ppss.kr/archives/60561)
 * [레쥬메 작성 팁 모음](https://www.facebook.com/groups/devresume/permalink/187460318308510/)
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)

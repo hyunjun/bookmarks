@@ -837,7 +837,7 @@ Javascript
 * [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
 * [FE Guide | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/fe-guide/ko)
   * [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
-* [프로모션용 웹앱 빌더, 만다오 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/08/mandao.html)
+* [프로모션용 웹앱 빌더, 만다오 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2719/)
 * [운명의 Devs VOD 서비스의 시청시간 수집하기 - 피터 - YouTube](https://www.youtube.com/watch?v=CEBPWBtXXg8)
 * [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/05/03/study-project/) Angular Observable Docker Node-restful node-summarizer
@@ -1744,7 +1744,7 @@ Javascript
   * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
   * [약한 참조와 Finalizer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210624) WeakRef
   * [WeakMap이 알고 싶다 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210901) ES2015
-  * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
+  * [신선함으로 다가온 ES6 경험 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2554/)
   * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
   * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
   * [ES6 for beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
@@ -5641,7 +5641,7 @@ Javascript
   * [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velog.io/@velopert/redux-or-mobx)
     * [리덕스 예시코드](https://codesandbox.io/s/96m70mj6p)
     * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
-  * [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
+  * [React에서 Mobx 경험기 (Redux와 비교기) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2599/)
   * [React + MobX - YouTube](https://www.youtube.com/playlist?list=PLOSNUO27qFbtYC5oRwJVsNavcPEI5uoiJ)
   * [React Mobx 안어렵습니다! - YouTube](https://www.youtube.com/watch?v=tjHljJRooHU)
   * [mobx-react-lite - Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
@@ -5662,7 +5662,7 @@ Javascript
   * [리액트(React)와 찰떡 궁합 Next.js](https://www.youtube.com/watch?v=jg2ha2RIWN0)
   * [앱 내 Webview 개발기](https://hyperconnect.github.io/2019/10/25/webview-history.html) Django + React에서 Next.js + Express로 변경하는 이야기
   * [Next.js 9.3 Released, Improves Static Site Generation](https://www.infoq.com/news/2020/03/nextjs-93-ssg-sass-preview/)
-  * [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) realword.io
+  * [Todo list 만들기는 이제 그만 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2672/) realword.io
   * [useSWR Hook 알아보기!](https://jaeseokim.tistory.com/113)
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
   * [Authentication in Next.js using Amazon Cognito](https://medium.com/frontend-digest/authentication-in-next-js-using-amazon-cognito-f30efed6a24f)
@@ -6959,7 +6959,7 @@ Javascript
 * [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
 * [옛날 웹 개발자가 잠깐 맛 본 Vue.js 소개](http://javacan.tistory.com/entry/OKKY-PT-Vuejs-intro-for-old-web-developer)
 * [VueJS 폼 검증](http://blog.jeonghwan.net/2018/05/31/vue-form-validation.html)
-* [배민찬은 Vue를 어떻게 사용하나요?](http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html)
+* [배민찬은 Vue를 어떻게 사용하나요? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2577/)
 * [NAVER Tech Talk: FE devtalk 11회 (2018년 4월)](https://d2.naver.com/news/6104477)
 * [Vue.js: the good, the meh, and the ugly](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684) Prometheus, PostgreSQL + TimescaleDB, and Grafana for storing
 * [Securing MEVN Stack (Vue.js 2) Web Application using Passport](https://www.djamware.com/post/5ac8338780aca714d19d5b9e/securing-mevn-stack-vuejs-2-web-application-using-passport)
@@ -6986,7 +6986,7 @@ Javascript
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
 * [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
-* [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS)](http://woowabros.github.io/experience/2018/12/27/node-express-vue-with-ejs.html)
+* [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2596/)
 * [Vue 라이프사이클 이해하기 - Vue 인스턴스의 상태가 변화함에 따라, 각 상태가 어떤 특징을 가지고 있는지 알아봅니다](https://wormwlrm.github.io/2018/12/29/Understanding-Vue-Lifecycle-hooks.html)
 * From Zero to Hero with Vue
   * [But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
@@ -7020,7 +7020,7 @@ Javascript
 * [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
 * [Vue 에서 Axios를 사용하여 서버통신 해보기](https://mishka.kr/2020/02/19/axios/)
 * [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
-* [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
+* [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2668/)
 * [Do Your Vue Components Communicate Correctly?](https://medium.com/better-programming/do-your-vue-components-communicate-correctly-9239c30cc495)
 * [List Rendering with Vue.js — Numbers, Components, and Templates](https://medium.com/javascript-in-plain-english/list-rendering-with-vue-js-numbers-components-and-templates-aa856f8ca95f)
 * [React aficionados! Start using Vue.js in four minutes or less!](https://robopress.robotsandpencils.com/react-aficionados-start-using-vue-js-in-four-minutes-or-less-4235f8c0a018)

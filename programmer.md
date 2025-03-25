@@ -112,7 +112,7 @@ Programmer
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 * [개발자 부업, 어디까지 해봤니? - 코드쓰는사람](https://taegon.kim/archives/10292)
 * [**1. 우아한형제들 부검 - 왜 떠나는지**](https://jojoldu.tistory.com/562)
-* [퇴사 부검 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/04/18/autopsy.html)
+* [퇴사 부검 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2723/)
 * [**2. 우아한형제들 부검 - 어디로 가는지**](https://jojoldu.tistory.com/564)
 * [욕 안 먹는 개발자되기 · shiren the creator](https://blog.shiren.dev/2021-04-20/)
 * [1억 글로벌 서비스를 만들며 배운 것들 2](https://brunch.co.kr/@jinaseong/29) 디자이너 이야기이지만 읽어볼만 함
@@ -459,7 +459,7 @@ Programmer
 * book
   * [소프트웨어 장인 CHAPTER 13 배움의 문화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-13-%EB%B0%B0%EC%9B%80%EC%9D%98-%EB%AC%B8%ED%99%94)
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
-* [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
+* [팀 문화의 탄생 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2677/) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
 * [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/) 이직할 회사 선택 기준
 * [개발자 경험(Dex)이 주목받는 시대 | 요즘IT](https://yozm.wishket.com/magazine/detail/1436/) Developer Experience

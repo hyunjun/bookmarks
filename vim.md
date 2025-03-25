@@ -251,7 +251,7 @@ Vim
 # Plugin
 * [Vim Awesome](https://vimawesome.com/)
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
-* [레거시 코드를 파괴하는 Vim 벽돌 깨기](http://woowabros.github.io/tools/2017/07/06/vim-game-code-break.html)
+* [레거시 코드를 파괴하는 Vim 벽돌 깨기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2526/)
 * [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
 * [How to Configure Vim like VSCode - YouTube](https://www.youtube.com/watch?v=gnupOrSEikQ)
 * [4 Vim Plugins to Boost Your Programming Efficiency | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/4-vim-plugins-to-boost-efficiency-6922add12e83)
@@ -265,7 +265,7 @@ Vim
 * [EditorConfig plugin for Vim http://editorconfig.org](https://github.com/editorconfig/editorconfig-vim)
   * [EditorConfig](http://editorconfig.org/) 서로 다른 IDE에서 코딩 스타일을 통일
 * IdeaVim
-  * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
+  * [IntelliJ 의 VIM 플러그인 마개조하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2500/)
   * [WebStorm 및 기타 JetBrains IDE에서 Vim의 강력한 성능 이용하기 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2022/11/ideavim-in-webstorm/)
 * [llama.vim: Vim plugin for LLM-assisted code/text completion](https://github.com/ggml-org/llama.vim)
   * [Llama.vim – LLM을 이용한 VIM용 코드/텍스트 자동완성 플러그인 | GeekNews](https://news.hada.io/topic?id=18885)

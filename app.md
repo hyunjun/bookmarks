@@ -584,7 +584,7 @@ App
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 * [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
-* [크롬 확장 플러그인 톺아보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
+* [크롬 확장 플러그인 톺아보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2707/)
 * [Vue.js로 크롬 확장 프로그램 만들기 강의 - 1부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-1/)
 * [Vue.js로 크롬 확장 프로그램 만들기 강의 - 2부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-2/)
 * [Vue.js로 크롬 확장 프로그램 만들기 강의 - 3부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-3/)

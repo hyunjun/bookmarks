@@ -1240,8 +1240,8 @@ Business
 * [인포그랩이 찾는 FE 개발자(feat. 채용 경험과 성공적인 구직 조언) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/17/infograb-fe-hiring-experience/)
 
 ## 채용 onboarding
-* [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
-* [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
+* [How to onboard a new hire / 신규입사자 조직안착 과정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2648/) 정확히는 인사에 관한 이야기이지만 참고할만 함
+* [~정산시스템팀~](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
 * [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
 * [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
 * [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
