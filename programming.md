@@ -8457,6 +8457,7 @@ Programming
 * [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [그게 통합 테스트라고?  정말?](https://justhackem.wordpress.com/2018/01/16/is-that-integration-test-really/)
 * [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
+* [토스ㅣSLASH 24 - 약은 약사에게, 테스트는 토스 닥터에게! - YouTube](https://www.youtube.com/watch?v=DwqwUsFmoCU) smoke test automation, appium, @pytest.fixture, testrail
 * [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
 * [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
 * [Integration tests are needed and simple by Piotr Przybyl - YouTube](https://www.youtube.com/watch?v=SxJG4uZdvj8)
