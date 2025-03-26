@@ -151,6 +151,7 @@ House
 * ["기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강 풀버전) - YouTube](https://www.youtube.com/watch?v=ATldkEUNDgA)
   * [VidiGo "기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강](https://vidigo.ai/share/summary/9f46ac18b5f6)
   * ["기회가 왔는데 다들 모르고 있어요" 이 시기를 절대 놓치지 마세요 (너바나 부동산 특강 풀버전) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824931)
+* ["부동산 어려운 분들은 반드시 봐야 할 영상" 현장에서 활용할 수 있는 꿀팁 공개합니다. 이대로만 따라하세요! 너나위와 함께 보는 부동산 현장 - YouTube](https://www.youtube.com/watch?v=2pGPd9Y2Ork)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
