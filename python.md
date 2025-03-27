@@ -867,6 +867,7 @@ Python
   * [Python Tutorial: Decorators With Arguments](https://www.youtube.com/watch?v=KlBPCzcQNU8)
   * [Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
   * [Why Bother Using Property Decorators in Python? | by Yong Cui, Ph.D. | Better Programming | Medium](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)
+  * [Python's property(): Add Managed Attributes to Your Classes – Real Python](https://realpython.com/python-property/)
   * [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson](https://www.youtube.com/watch?v=yW0cK3IxlHc)
   * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
   * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
