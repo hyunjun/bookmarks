@@ -3422,6 +3422,12 @@ Programming
       * MSA 라는 게 그런 게 아닐텐데 왜 그런 식으로 하는 사람들이 많이 생길까?
     * 뭔가를 하기 전에 항상 ask yourself "What problem does that solve?"
 * [마이크로서비스 아키텍처의 사실과 오해 | 요즘IT](https://yozm.wishket.com/magazine/detail/2884/)
+* [상태 관리에 대한 이해가 필요한 비대칭 분산 시스템](https://brunch.co.kr/@graypool/2218)
+  * [Mastering Data Consistency Across Microservices](https://blog.bytebytego.com/p/mastering-data-consistency-across)
+  * [Choreography와 Orchestration 차이](https://www.perplexity.ai/search/daeum-gisae-pohamdoen-geurimyi-ZnGn.u.BTGm4_escMR0pcQ)
+    * Orchestration: 중앙 집중형, Orchestrator가 지시, Tight Coupling, SPOF(단일 장애점)
+    * Choreography: 분산형, 이벤트 기반 자율 반응, Loose Coupling, 부분 장애 격리 가능
+  * CQRS, CDC
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
@@ -8542,6 +8548,10 @@ Programming
       * 앱 리뷰 요약 및 분석
       * 회고 정리 등
   * 생성형 AI를 도입하기 전에, 조직의 요구사항, 품질 활동에 필요한 요소, 생성형 AI의 활용 수준 등을 고려 필요
+* [생성형 AI로 테스트 자동화를! 세미남427@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=CuMirRXYNEI)
+  * 생성형 AI기반 테스트 코딩
+  * cursor로 레거시 소스코드 분석
+  * (다양한) 요구사항에서 테스트코드 추출, 다만 이 경우 환경을 구체적으로 제시 필요
 * [29CM QA팀은 어떻게 테스트 자동화 지표를 활용하여 신뢰성을 확보할 수 있었을까? | by 박현준 | 29CM TEAM | Jul, 2024 | Medium](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EC%A7%80%ED%91%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8B%A0%EB%A2%B0%EC%84%B1%EC%9D%84-%ED%99%95%EB%B3%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C-93ee5cca76ce)
   * 29CM QA팀은 Postgresql과 Grafana를 활용하여 테스트 자동화 지표를 설정하고, 신뢰성을 확보하기 위해 데이터를 시각화
   * 필수적인 지표를 수집하고, 선택 지표를 선택하여 사용할 수 있도록 설정
