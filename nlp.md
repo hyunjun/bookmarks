@@ -2909,6 +2909,8 @@ NLP
       * [Intro to CoAgents (Public Beta)](https://docs.copilotkit.ai/coagents)
       * [Build Agent-Native Apps with LangGraph & CoAgents (tutorial) - YouTube](https://www.youtube.com/watch?v=0b6BVqPwqA0)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
+    * [LLMCompiler : 한국인이 만든 추론 방법론으로 AI Agent를 만듭니다. 역시 '빨리빨리' - YouTube](https://www.youtube.com/watch?v=PSTsSCvuoMk)
+      * [LG_LLMCompiler.ipynb - Colab](https://colab.research.google.com/drive/1LEiKJ21l3Z-9HbKXmjque_PL5Qd9v2gm?usp=sharing)
     * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
       * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
     * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
