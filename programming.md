@@ -4027,6 +4027,8 @@ Programming
     * Workers AI에서는 Meta, OpenAI, Hugging Face, Microsoft의 다양한 모델을 사용해서 추론을 쉽게 사용 가능
 * [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
+* [Coolify](https://coolify.io/)
+  * [Coolify - 오픈소스 Heroku & Netlify 대체제 | GeekNews](https://news.hada.io/topic?id=4138)
 * [클라우드타입](https://cloudtype.io/)
   * [클라우드타입 | Disquiet\*](https://disquiet.io/product/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%83%80%EC%9E%85-1652628787292)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
@@ -4041,6 +4043,9 @@ Programming
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
   * [Get a #linux #Ubuntu machine in 10 mins on DigitalOcean Cloud - YouTube](https://www.youtube.com/watch?v=a8a0iPmyMJA)
   * [DigitalOcean Enters the Serverless Arena with DigitalOcean Functions](https://www.infoq.com/news/2022/05/digitalocean-functions-serverles/)
+* [Dokploy - Effortless Deployment Solutions](https://dokploy.com/)
+  * [dokploy: Open Source Alternative to Vercel, Netlify and Heroku.](https://github.com/Dokploy/dokploy)
+  * [Dokploy - Vercel, Heroku, Netlify의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=19979)
 * Fly [Deploy app servers close to your users · Fly](https://fly.io/)
   * [Fly.io wants to change the way companies deploy apps at the edge | TechCrunch](https://techcrunch.com/2022/07/28/fly-io-wants-to-change-the-way-companies-deploy-apps-at-the-edge/)
     * Fly.io의 CEO인 Kurt Mackey 인터뷰
