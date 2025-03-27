@@ -2772,6 +2772,14 @@ Programming
   * 화룡점정은 각자 도생(Separate Ways)
     * 협력을 완전히 포기하는 방법
     * 협력하는 비용이 협력을 통해 얻는 이득보다 적다면 그냥 각자 자기 길을 가는 것도 좋은 선택
+* [도메인 주도 설계(DDD)의 창시자 Eric Evans는 '보편 언어(Ubiquitous Language)'에서 'ubiquitous'라는 단어 선택을 후회한다고 밝힌 적이 있다](https://www.linkedin.com/posts/tobyilee_%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84ddd%EC%9D%98-%EC%B0%BD%EC%8B%9C%EC%9E%90-eric-evans%EB%8A%94-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4ubiquitous-activity-7310457858578403331-_bhs/)
+  * 이 단어는 '어디에나 존재하는', 즉 편재(遍在)하는 것을 의미
+    * 영어 사용자에게도 직관적으로 이해하기 쉽지 않은 단어
+    * 이 단어의 의미 때문에 많은 사람이 시스템 전체를 아우르는 단일한 언어와 이를 사용하는 포괄적인 하나의 도메인 모델이 존재해야 한다고 오해
+  * Evans가 본래 의도했던 '보편적'의 의미는
+    * 도메인 전문가와 설계자, 개발자가 구분 없이 하나의 공통된 언어로 소통할 수 있도록 도메인 모델을 둘러싼 공유 언어를 개발해야 한다는 것
+    * 분석과 설계, 구현의 전 과정에서 일관성 있게 사용되는 언어
+    * 기술을 모르는 도메인 전문가라도 개발자가 작성한 코드를 보여주면서 그 안에 담긴 도메인 로직을 설명할 때 그게 이해될 수 있어야
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
