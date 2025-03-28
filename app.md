@@ -2539,6 +2539,11 @@ App
     * [Using custom scripts in Obsidian | Code In Focus](https://codeinfocus.com/blog/2024-12/using-custom-scripts-in-obsidian/)
     * [how-to-use-templater-js-scripts - shabeblog](https://shbgm.ca/blog/obsidian/how-to-use-templater-js-scripts)
     * [Templater snippets](https://zachyoung.dev/posts/templater-snippets/)
+    * [Obsidian plugin - templater](https://www.notion.so/1003/Obsidian-plugin-templater-1c43f0c2cf6580078125f91bc5c7a2de)
+      * [Jun - Obsidian plugin - templater (+ ChatGPT 삽질기)](https://hyunjun.github.io/skunk-html/obsidian-plugin-templater-chatgpt-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
+      * [Obsidian plugin — templater (+ ChatGPT 삽질기) | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/obsidian-plugin-templater-chatgpt-%EC%82%BD%EC%A7%88%EA%B8%B0-5e0e8439ed82)
+      * [Obsidian plugin - templater (+ ChatGPT 삽질기)](https://recur.substack.com/p/obsidian-plugin-templater-chatgpt)
+      * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
