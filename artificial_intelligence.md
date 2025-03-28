@@ -349,6 +349,7 @@ Artificial Intelligence
   * [Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 :: ROBOCO](https://roboco.io/posts/vibe-coding-manual/)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
   * [바이브 코딩 2탄, php언어와 AI 파운데이.. : 네이버블로그](https://blog.naver.com/ulsancoding/223811417531)
+  * [바이브 코딩에 대한 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibe-coding-truth/)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -455,6 +456,7 @@ Artificial Intelligence
     * ![](https://media.licdn.com/dms/image/v2/D4D22AQHGGgmxS-3nhg/feedshare-shrink_800/B4DZWi2dqEG4Ak-/0/1742193942959?e=1745452800&v=beta&t=xen3hapetzGazSrXD4lw7KYZfIxVcKFqEkyHaoNgJYg)
   * [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! - YouTube](https://www.youtube.com/watch?v=jwevCa96Z4Q)
     * integration between Hue Smart Lights and Claude Desktop using the Model Context Protocol (mCP) Kotlin SDK
+  * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -868,6 +870,8 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 ## Tool coding assistant
+* [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
+  * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * Cursor AI
