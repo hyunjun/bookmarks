@@ -479,6 +479,11 @@ App
 * [skunk-html: Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
   * [SkunkHTML - 마크다운으로 GitHub Page에 웹사이트 자동 생성 | GeekNews](https://news.hada.io/topic?id=18522)
   * [Jun](https://hyunjun.github.io/skunk-html/)
+  * [How do I escape a backtick \` within in-line code in Markdown? - Meta Stack Exchange](https://meta.stackexchange.com/questions/82718/how-do-i-escape-a-backtick-within-in-line-code-in-markdown)
+    * jsx syntax로 code block 표시할 때 backtick 자체를 출력하는 방법
+      * 일반적인 경우 backtick 3개를 사용해 code block을 감싸지만
+      * backtick 3개도 같이 보여주고 싶으면 backtick 4개를 사용해 block을 감싸주면 됨
+    * e.g. [Jun - Obsidian plugin - templater (+ ChatGPT 삽질기)](https://hyunjun.github.io/skunk-html/obsidian-plugin-templater-chatgpt-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * tistory [소개 · GitBook](https://tistory.github.io/document-tistory-apis/)
