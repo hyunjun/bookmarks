@@ -1014,6 +1014,12 @@ Book
   * [창업가의 질문. ★★★★☆ October 1, 2024 창업할 생각은 없지만… | by Jun | Oct, 2024 | Medium](https://nymets.medium.com/%EC%B0%BD%EC%97%85%EA%B0%80%EC%9D%98-%EC%A7%88%EB%AC%B8-a10575bcc95d)
   * [창업가의 질문 - Jun’s Substack](https://recur.substack.com/p/de5)
   * [창업가의 질문](https://jh4hj.tistory.com/entry/%EC%B0%BD%EC%97%85%EA%B0%80%EC%9D%98-%EC%A7%88%EB%AC%B8)
+* [가챠가챠의 경제학](https://www.notion.so/1003/1c53f0c2cf6580e89808cb6ae418f1e9)
+  * ★★★☆☆ 2025.03.29
+    * '가챠가챠의 경제학'은 캡슐 토이 산업의 다양한 측면을 심층적으로 탐구한 비즈니스 서적이다. 이 책은 업계의 변화, 비즈니스 구조, 그리고 업체 사장이나 크리에이터와의 인터뷰를 통해 우리가 미처 알지 못했던 캡슐 토이 세계를 상세히 조명한다.
+    * 특히 매달 새로운 상품을 기획하고 출시해야 하는 업계의 역동성, 환경을 고려한 캡슐 성분의 변경이나 캡슐이 필요 없는 상품의 제작, 그리고 디지털 상품에 대한 고민 등 캡슐 토이를 진지한 비즈니스로 바라보는 다양한 시각을 제공한다. 책을 읽으면서 캡슐 토이 산업이 단순한 장난감 판매를 넘어서는 복합적인 산업임을 알 수 있었다.
+  * [Jun - 가챠가챠의 경제학](https://hyunjun.github.io/skunk-html/%EA%B0%80%EC%B1%A0%EA%B0%80%EC%B1%A0%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99.html)
+  * [회당 7000원씩 받아도 불티…문방구 '캡슐 뽑기'의 화려한 부활](https://n.news.naver.com/mnews/article/277/0005543526?sid=103)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
