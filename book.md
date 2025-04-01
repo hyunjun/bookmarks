@@ -1156,6 +1156,8 @@ Book
 * [만화로 보는 바빌론 부자들의 돈 버는 지혜](https://www.hanbit.co.kr/store/books/look.php?p_code=B8115627505)
   * ★★★☆☆ 2024.03.02
   * 탐라 문327.04-클232ㅂ
+* [나는 소유의 삶을 살기로 결심했다](https://brunch.co.kr/brunchbook/investor-eddie)
+  * ★★☆☆☆ 2025.03.31~04.01 내가 좋아하는 스타일의 책은 아니지만, 저자가 대단한 것만은 사실. 회사 밖에서 스스로의 힘으로 살기 위해 여러가지 측면으로 시도하고 성공시켜서 자신이 원하는 삶을 사는 모습이 존경스럽다
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [승자의 저주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=975431)
