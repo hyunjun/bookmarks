@@ -1831,6 +1831,12 @@ Business
 * [대기업 사업전략 담당자가 100개 스타트업 코칭하고 깨달은 것](https://eopla.net/magazines/17410)
 * [최효석 - 오늘은 경영 전략의 Golden rule인 STP전략에 대해 한번 알아보겠습니다. 컨설팅 많이 해보신... | Facebook](https://www.facebook.com/whyhyo/posts/pfbid0EQK6pbM3v5yK5K7cBXtZRDkrmpi86PM6K7FBQ1nYdrV6Lxe1YYUAfmfVUXqdqFcwl)
   * 1. Segmentation 2. Targeting 3. Positioning
+* [데이터가 독이 될 때 : Analysis Paralysis를 주의](https://www.linkedin.com/posts/activity-7309466211572924417-cWSn/)
+  * 분석 마비(Analysis Paralysis), 유명한 잼 종류에 대한 소비자 선택 예시
+  * ① 명확한 마감 시한(Drop-dead Date)를 설정, 무한한 분석보다는 기한 내 신속한 결정이 더 중요
+  * ② 완벽한 결정이 아닌 ‘지금 가능한 최선’을 선택, 환경은 계속 변화, 완벽한 결정은 없음
+  * ③ 핵심 데이터에 집중하고 나머지는 과감히 버리세요. 모든 데이터를 확인하려고 하지 말고, 주요 지표 중심으로 빠르게 판단하는 방식이 더욱 효과적
+  * ④ 작고 자주 실험하세요. 한 번에 큰 결정을 내리기 어렵다면 소규모 파일럿 테스트로 시장 반응을 신속히 확인한 후 단계적으로 확장
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
