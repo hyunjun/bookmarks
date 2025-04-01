@@ -457,6 +457,7 @@ Artificial Intelligence
   * [Building MCP with Kotlin: Claude Desktop Controls My Smart Home Lights! - YouTube](https://www.youtube.com/watch?v=jwevCa96Z4Q)
     * integration between Hue Smart Lights and Claude Desktop using the Model Context Protocol (mCP) Kotlin SDK
   * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
+  * [MCP는 그냥 이런식으로 LLM이 호출할수 있는 operation이 (tool이라고 부릅니다만) 뭐가 있는지 선언하는 형식 프로토콜](https://www.linkedin.com/posts/kurt-lee-70010391_%EC%A3%BC%EB%A7%90%EC%97%90-%EC%A7%A7%EA%B2%8C-mcp-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%98%B9%EC%8B%9C-%EA%B4%80%EB%A0%A8%ED%95%B4%EC%84%9C-%EA%B6%81%EA%B8%88%ED%95%98%EC%8B%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-activity-7309519199146545152-kffc/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
