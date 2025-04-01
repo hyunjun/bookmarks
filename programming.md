@@ -748,6 +748,11 @@ Programming
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 2편](https://velog.io/@juunini/traffic-zergling-blood-2)
 * ['대규모 트래픽 경험' 이라는 환상 - 1부](https://velog.io/@juunini/delusion-of-large-scale-traffic-1)
 * [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
+* [포스트모템은 대다수 회사에서 쓸모없다](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7312594552584876032-huT6/)
+  * 포스트모템은 사고가 발생했을 때 사고가 발생하기까지의 타임라인을 분석하고 원인을 찾아내어 프로세스를 수정하고 재발을 막는 방법
+  * 대다수 회사는 주먹구구로 일하기에 수정할 프로세스 자체가 없다
+  * 프로세스가 있다면 포스트모템의 목적이 프로세스의 개선이 될 수 있지만, 프로세스가 없다면 포스트모템의 목적은 단순한 마녀사냥... 시간만 흐르면 똑같은 사고는 또다시 발생
+  * 체르노빌, 레가소프(핵물리학자): 진실이 불쾌할 때, 진실의 존재를 잊을 때까지 우리는 거짓을 반복합니다
 * [More More More! Why the Most Resilient Companies Want More Incidents - YouTube](https://www.youtube.com/watch?v=qXZo3cIv6-s)
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
