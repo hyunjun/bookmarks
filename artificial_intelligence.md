@@ -461,7 +461,12 @@ Artificial Intelligence
   * [MCP – Model Context Protocol이 시사하는 점 :: Channy's Blog](https://channy.creation.net/blog/1932)
   * [MCP는 그냥 이런식으로 LLM이 호출할수 있는 operation이 (tool이라고 부릅니다만) 뭐가 있는지 선언하는 형식 프로토콜](https://www.linkedin.com/posts/kurt-lee-70010391_%EC%A3%BC%EB%A7%90%EC%97%90-%EC%A7%A7%EA%B2%8C-mcp-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%98%B9%EC%8B%9C-%EA%B4%80%EB%A0%A8%ED%95%B4%EC%84%9C-%EA%B6%81%EA%B8%88%ED%95%98%EC%8B%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-activity-7309519199146545152-kffc/)
   * [MCP는 모델과 툴을 연결해주는 일종의 규약이라 생각](https://www.linkedin.com/posts/%EC%8A%B9%EC%9C%A4-%EB%B0%B1-aa40a4211_mcp%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%9C-%EC%83%9D%EA%B0%81%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B4%85%EB%8B%88%EB%8B%A4-mcp%EA%B0%80-%EB%84%88%EB%AC%B4-%ED%95%AB%ED%95%9C-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EB%82%98%EC%98%A4%EA%B3%A0-activity-7312832627927838720-KmkG/)
+  * [MCP Host --> Client --> Server 구조에서 Client 역할](https://www.facebook.com/groups/backendlabs/?multi_permalinks=520969004146549&notif_id=1743488672030257&notif_t=group_activity&ref=notif)
+    * MCP Host는 Application이고, Client는 Server를 호출하기 위한 SDK로 생각하면 편안
+    * MCP Host가 Java application이고, Client는 JDBC Driver 정도로 생각하면 되고, Server는 Oracle/MS SQL과 같은 DB로
+    * 개념도에서 MCP Host와 Client를 따로 분리해놔서 헷갈렸는데, MCP Host + Client = 하나의 애플리케이션 코드 이기때문에 Client를 그냥 SDK로 봐도 무방
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
+  * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
