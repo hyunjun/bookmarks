@@ -465,11 +465,15 @@ Artificial Intelligence
     * MCP Host는 Application이고, Client는 Server를 호출하기 위한 SDK로 생각하면 편안
     * MCP Host가 Java application이고, Client는 JDBC Driver 정도로 생각하면 되고, Server는 Oracle/MS SQL과 같은 DB로
     * 개념도에서 MCP Host와 Client를 따로 분리해놔서 헷갈렸는데, MCP Host + Client = 하나의 애플리케이션 코드 이기때문에 Client를 그냥 SDK로 봐도 무방
+  * [**MCP의 모든 것을 알아봅시다**](https://velog.io/@k-svelte-master/what-is-mcp)
+  * [간단하게 만들면서 이해해보는 MCP](https://velog.io/@todd/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-MCP)
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
   * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
+  * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
+  * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
@@ -747,6 +751,7 @@ Artificial Intelligence
 * [The AI agents stack | Letta](https://www.letta.com/blog/ai-agents-stack)
 * [AI 뉴스 - 엔비디아 Fugatto, 소라 유출, 딥마인드 Cat-4D, 오픈AI 로스차일드 음모론, 옵티머스 22 DoF, KLING TRY-ON 등 - YouTube](https://www.youtube.com/watch?v=g1XIwhDgs1o)
 * [보고서: 엔지니어가 보는 2025 AI 산업 : 오호츠크](https://55check.com/?bmode=view&idx=146282222)
+* [그게 뭔가요 생성형 AI에서 ‘추론’이란 – 바이라인네트워크](https://byline.network/2025/04/1-1295/) inference와 reasoning
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
