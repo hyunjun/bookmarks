@@ -467,6 +467,8 @@ Artificial Intelligence
     * 개념도에서 MCP Host와 Client를 따로 분리해놔서 헷갈렸는데, MCP Host + Client = 하나의 애플리케이션 코드 이기때문에 Client를 그냥 SDK로 봐도 무방
   * [**MCP의 모든 것을 알아봅시다**](https://velog.io/@k-svelte-master/what-is-mcp)
   * [간단하게 만들면서 이해해보는 MCP](https://velog.io/@todd/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-MCP)
+  * [MCP 개념 10분만에 이해하기 - YouTube](https://www.youtube.com/watch?v=-b0IEN4JAGE)
+  * [MCP는 AI 업계의 표준이 될까요?](https://channel.io/ko/blog/articles/what-is-mcp-52c77e72)
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
   * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
   * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
