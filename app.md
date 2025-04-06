@@ -2093,6 +2093,7 @@ App
 * [GitDiagram](https://gitdiagram.com/)
   * [gitdiagram: Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram](https://github.com/ahmedkhaleel2004/gitdiagram)
   * [GitDiagram - GitHub Repo를 인터랙티브 다이어그램으로 시각화 | GeekNews](https://news.hada.io/topic?id=18781)
+  * [아직도 프로젝트마다 다이어그램을 직접 그리고 있나요? - YouTube](https://www.youtube.com/watch?v=KN1OGYfOkws)
 * [GitMind - AI Powered Mind Map, Flowchart, Whiteboard.](https://gitmind.com/)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [HackerDraw | Diagramming Made Easy](https://www.hackerdraw.com/)
