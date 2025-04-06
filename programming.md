@@ -2511,6 +2511,50 @@ Programming
 * [What happens when you make a move in lichess.org?](https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess)
   * [체스사이트 Lichess.org에서 한 수를 둘 때 일어나는 일 | GeekNews](https://news.hada.io/topic?id=17404)
 * [결과물만 보고 설계 노하우를 즉시 채용하기](https://brunch.co.kr/@graypool/2013)
+* [How Notion Handles 200 BILLION Notes (Without Crashing) - YouTube](https://www.youtube.com/watch?v=NwZ26lxl8wU)
+  * how Notion handles billions of notes without crashing
+    * Notion used a single Postgres database for all its data, but as it grew, it faced performance issues
+      * To solve this, they implemented sharding, splitting the database into smaller machines
+    * They also created a data lake using Amazon S3, Apache Spark, and Apache Kafka to store raw and processed data
+      * The data lake was designed to handle Notion's update-heavy block data extremely fast
+    * However, as Notion continued to grow, the data lake hit 90% utilization rates, causing instability and connection limits
+      * To solve this, they tripled the number of database machines and sharded pgbouncer again. The entire process was done without any downtime for users
+  * [1억 명이 쓰는 노션, 이 엄청난 트래픽을 어떻게 처리할까?](https://www.linkedin.com/feed/update/urn:li:activity:7313132212374183936/)
+    * 1️⃣ 모든 콘텐츠는 '블록' 단위 저장
+      * 노션에서 페이지를 열면, 텍스트, 체크박스, 이미지 등 각각이 하나의 블록으로 저장
+      * 각각의 블록은 고유 ID, 블록 타입, 계층 관계 정보까지 포함된 데이터베이스 행(Row)으로 취급
+      * 일반적인 페이지 하나에도 200~400개 블록이 들어갈 수 있음
+    * 2️⃣ 단일 DB 사용으로 인한 문제점
+      * 노션은 2021년까지 단일 Postgres DB 하나로 모든 데이터를 처리
+      * 블록 수가 200억 개를 넘기면서 성능이 급격히 저하
+      * 그래서 적용한 기술이 Sharding(샤딩)
+    * 3️⃣ 샤딩으로 데이터를 분산 저장
+      * 샤딩은 하나의 대형 DB 대신, 여러 개의 작은 DB로 나누어 데이터를 저장
+      * 노션은 워크스페이스 ID를 기준으로 데이터를 480개 샤드로 나눴고, 이걸 32대의 머신에 나눠 저장
+      * 나중에는 이걸 다시 96대 머신으로 확장해서 안정성 향상
+    * 4️⃣ 데이터 분석은 Snowflake + S3 + Spark 조합
+      * Postgres는 실시간 OLTP 처리에 쓰고, 분석에는 Snowflake 기반 데이터 레이크 활용
+      * Fivetran으로 데이터 추출 → Snowflake로 적재 → Apache Spark로 변환하는 ELT 파이프라인 구축
+      * 업데이트가 많은 노션 특성상, 자체 데이터 레이크 플랫폼을 만들어 운영
+    * 5️⃣ 실시간 + 대용량 처리는 Kafka + Apache Hudi + S3
+      * Kafka로 변경되거나 생성되는 데이터를 실시간 수집
+      * 저장되는 테이블에 대한 버전 관리와 파이프라인 효율화를 위해 Apache Hudi 사용
+      * 데이터의 통합 저장소로 Amazon S3를 활용하여 S3 중심의 데이터 저장 및 분석 구조를 완성
+    * 6️⃣ 접속량 폭증 pgBouncer로 해결
+      * 많은 접속이 한꺼번에 몰리면 DB 과부하 발생 가능
+      * 따라서, 이러한 접속들을 풀링해서 효율적으로 관리해주는 pgBouncer라는 미들웨어 도입
+      * 샤드가 늘어날수록 pgBouncer도 그룹으로 나눠 관리하면서 확장성 확보
+    * 7️⃣ 무중단 전환 전략
+      * 새 시스템을 'Dark Read' 방식으로 미리 테스트. 'Dark Read'란, 새로운 시스템이 실제로 잘 작동하는지 백그라운드에서 테스트하는 방식
+      * 실제 사용자에게 영향을 주진 않지만, 뒤에서는 똑같은 요청을 새 시스템에도 보내서 결과 비교
+      * 이러한 방식으로 순차적으로 트래픽을 전환하여 다운타임을 거의 0으로
+    * dark read != strangler
+      * 'Dark Read' 패턴과 'Strangler' 패턴은 시스템 전환 시 활용되는 서로 다른 전략
+      * 'Dark Read'는 새로운 시스템을 기존 시스템과 병행하여 실행하면서, 실제 사용자 요청을 기존 시스템과 새로운 시스템에 동일하게 보내어 그 결과를 모니터링하는 방식
+        * 이를 통해 새로운 시스템의 성능과 정확성을 실제 환경에서 검증할 수 있으며, 사용자 경험에 영향을 주지 않고 문제를 식별하고 수정 가능
+      * 'Strangler' 패턴은 기존 시스템의 기능을 새로운 시스템으로 점진적으로 대체하는 전략
+        * 초기에 기존 시스템 앞에 프록시를 배치하여 요청을 가로채고, 새로운 시스템이 준비된 기능부터 하나씩 기존 시스템의 기능을 대체
+        * 이러한 방식으로 시간이 지남에 따라 모든 기능이 새로운 시스템으로 이전되면, 기존 시스템은 완전히 폐기
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
