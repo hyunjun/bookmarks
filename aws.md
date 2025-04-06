@@ -569,6 +569,7 @@ AWS
 * [HPC Workload Service - AWS Parallel Computing Service (PCS) - AWS](https://aws.amazon.com/pcs/)
   * [AWS announces Parallel Computing Service (AWS PCS)](https://www.techwrix.com/aws-announces-parallel-computing-service-aws-pcs/)
 * [AWS상에서 비용 효율적으로 영상 컨텐츠 화질 개선하기 – Video Super Resolution(VSR) on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/super-resolution-solution-on-aws/)
+* [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
