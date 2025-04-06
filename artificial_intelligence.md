@@ -485,6 +485,7 @@ Artificial Intelligence
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
     * [MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY](https://dytis.tistory.com/113)
+  * [github-mcp-server: GitHub's official MCP Server](https://github.com/github/github-mcp-server)
   * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
   * [py-mcp-naver: python MCP NAVER](https://github.com/pfldy2850/py-mcp-naver)
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
