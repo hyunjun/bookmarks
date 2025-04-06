@@ -3325,6 +3325,7 @@ NLP
 * [synthid-text](https://github.com/google-deepmind/synthid-text)
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
+* [Tiktokenizer](https://tiktokenizer.vercel.app/)
 * [TinyAgent: Function Calling at the Edge – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
   * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
 * [tokencost: Easy token price estimates for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
