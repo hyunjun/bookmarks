@@ -352,6 +352,7 @@ Artificial Intelligence
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
   * [바이브 코딩 2탄, php언어와 AI 파운데이.. : 네이버블로그](https://blog.naver.com/ulsancoding/223811417531)
   * [바이브 코딩에 대한 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibe-coding-truth/)
+  * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -468,7 +469,9 @@ Artificial Intelligence
   * [**MCP의 모든 것을 알아봅시다**](https://velog.io/@k-svelte-master/what-is-mcp)
   * [간단하게 만들면서 이해해보는 MCP](https://velog.io/@todd/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-MCP)
   * [MCP 개념 10분만에 이해하기 - YouTube](https://www.youtube.com/watch?v=-b0IEN4JAGE)
-  * [MCP는 AI 업계의 표준이 될까요?](https://channel.io/ko/blog/articles/what-is-mcp-52c77e72)
+  * [**MCP는 AI 업계의 표준이 될까요?**](https://channel.io/ko/blog/articles/what-is-mcp-52c77e72)
+  * [MCP (Model Context Protocol) 1. 개념 이해](https://bcho.tistory.com/1470)
+  * [MCP (Model Context Protocol) 2. 서버 개발하기](https://bcho.tistory.com/1471)
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
   * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
   * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
@@ -887,6 +890,8 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 
 ## Tool coding assistant
+* [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
+  * [내가 AI 코드 편집기 사용을 중단한 이유 | GeekNews](https://news.hada.io/topic?id=20145)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
