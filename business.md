@@ -2751,6 +2751,7 @@ Business
 * [나는 리더로서 종종, 어떤 문제에 직면하면 그 일을 ‘가장 잘 해낼 것 같은 구성원’ 을 제외하고 업무를 분배한다](https://www.linkedin.com/posts/mjpark03_%EB%82%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EB%A1%9C%EC%84%9C-%EC%A2%85%EC%A2%85-%EC%96%B4%EB%96%A4-%EB%AC%B8%EC%A0%9C%EC%97%90-%EC%A7%81%EB%A9%B4%ED%95%98%EB%A9%B4-%EA%B7%B8-%EC%9D%BC%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%9E%98-%ED%95%B4%EB%82%BC-%EA%B2%83-%EA%B0%99%EC%9D%80-activity-7298963289496031233-j8XV/)
 * [상사는 자기 자랑을 하고, 리더는 후배 자랑을 한다](https://plus.hankyung.com/apps/newsinside.view?aid=201704229558A&sns=y) 상사와 리더의 차이
   * 직장을 옮긴 사람의 40%가 첫번째 이유를 상사때문이라고 답했습니다. 기업의 네임밸류고 뭐고 상사가 더 중요했다는 결과
+* [함께하고 싶은 리더 | Iol-lshh's](https://iol-lshh.github.io/%ED%9A%8C%EA%B3%A0/leadership/charming_leader/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
