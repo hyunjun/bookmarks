@@ -1518,6 +1518,7 @@ AWS
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
   * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
   * [EKS Anywhere 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10221/)
+* [EKS Workshop | EKS Workshop](https://www.eksworkshop.com/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 * [hardeneks: Runs checks to see if an EKS cluster follows EKS Best Practices](https://github.com/aws-samples/hardeneks)
