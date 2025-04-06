@@ -661,7 +661,7 @@ Python
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
 * [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
-* [12 Must-Know Python Built-in Functions - YouTube](https://www.youtube.com/watch?v=ho24rK_AYrQ&ab_channel=ArjanCodes) help dir range all any zip filter map iter slice type vars
+* [12 Must-Know Python Built-in Functions - YouTube](https://www.youtube.com/watch?v=ho24rK_AYrQ) help dir range all any zip filter map iter slice type vars
 * [Top 10 Ways To Write Better Python Code - ActiveState](https://www.activestate.com/blog/top-10-ways-to-write-better-python-code/)
 * [3 ways to deal with large datasets in Python | by Georgia Deaconu | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/5-ways-to-deal-with-large-datasets-in-python-9a80786c4182)
 * [최신 ‘파이썬’ 작성 팁 4가지 - CIO Korea](https://www.ciokorea.com/news/223879)
@@ -4810,6 +4810,7 @@ Python
   * [uv IS the Future of Python Packaging! 🐍📦 - YouTube](https://www.youtube.com/watch?v=8UuW8o4bHbw)
   * [Uv has a killer feature you should know about | Lukas Valatka](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
     * [Uv의 킬러 기능은 즉석(ad-hoc) 환경을 쉽게 만드는 것 | GeekNews](https://news.hada.io/topic?id=18711)
+  * [Python: EP122 - 미친듯이 빠른 uv에 대해 알아보자 - YouTube](https://www.youtube.com/watch?v=M_YER9jM9lY)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
