@@ -2378,6 +2378,7 @@ NLP
 * [한 단어 씩 생성하는 트랜스포머 LLM… 정말 곧 대체되겠네요. 지금 바로 사용 가능 | 10배 빠르고 10배 싸다. 텍스트-이미지 생성처럼 한 방에 텍스트 생성하는 LLM 출시 - YouTube](https://www.youtube.com/watch?v=s2bTE1FPb50) dLLM LLaDA
   * [Mercury Coder](https://chat.inceptionlabs.ai/)
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
+* [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -3054,6 +3055,7 @@ NLP
       * [Kyoungsu Park on LinkedIn: #rag #llama3](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_rag-llama3-activity-7212618732764872704-qDn5)
     * [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars | by Aksh Garg | May, 2024 | Medium](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
       * [Llama 3-V - GPT4-V와 동등한 성능을 100배 작은 모델과 500달러로 구현하 | GeekNews](https://news.hada.io/topic?id=15076)
+    * [Llama 4: 핵심 기능, 성능 비교, 활용 사례 완벽 분석 - DX Talk](https://dxtalk.net/llama-4-analysis/)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
