@@ -963,6 +963,8 @@ Business
 * [Growth industries and the next big arenas of competition | McKinsey](https://www.mckinsey.com/mgi/our-research/the-next-big-arenas-of-competition)
   * [차세대 경쟁 Arena 18가지 - 맥킨지 보고서 213p PDF | GeekNews](https://news.hada.io/topic?id=17582)
 * [실리콘밸리가 사용하는 일하는 프로세스 - YouTube](https://www.youtube.com/watch?v=F42oxFb9gfc) owner 오너
+* [Jobs-to-be-Done | A Comprehensive Guide](https://strategyn.com/jobs-to-be-done/)
+  * [Jobs-to-be-Done: A Framework for Customer Needs | by Tony Ulwick | JTBD + Outcome-Driven Innovation](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
