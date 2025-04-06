@@ -4229,6 +4229,7 @@ Business
         * 문화란 여러분이 그 방에 없을 때 일어나는 일
         * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
     * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
+  * [상위 조직장의 관심](https://jojoldu.tistory.com/822)
 * [‘스타트업 창업자=경영자’ 공식, 맞는 걸까? < Wheel of Fortune < Magazine < 기사본문 - 포춘코리아 디지털 뉴스](https://www.fortunekorea.co.kr/news/articleView.html?idxno=42979)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
