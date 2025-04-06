@@ -235,6 +235,7 @@ Deep Learning
     * [OpenAI의 "12 Days of OpenAI" 발표 요약 | GeekNews](https://news.hada.io/topic?id=18411)
   * [Open AI 딥 리서치 결과 15개 공유](https://stock79.tistory.com/entry/Open-AI-%EB%94%A5-%EB%A6%AC%EC%84%9C%EC%B9%98-%EA%B2%B0%EA%B3%BC-15%EA%B0%9C-%EA%B3%B5%EC%9C%A0)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
+  * [OpenAI Academy](https://academy.openai.com/)
   * [OpenAI Canvas - ChatGPT와 함께하는 새로운 작성 및 코딩 방식 | GeekNews](https://news.hada.io/topic?id=17061)
   * [OpenAI.fm](https://www.openai.fm/)
     * [Audio and speech - OpenAI API](https://platform.openai.com/docs/guides/audio)
