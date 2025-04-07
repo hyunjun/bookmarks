@@ -2379,6 +2379,7 @@ NLP
   * [Mercury Coder](https://chat.inceptionlabs.ai/)
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
+* [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -3058,6 +3059,7 @@ NLP
     * [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
       * [Llama 4: 핵심 기능, 성능 비교, 활용 사례 완벽 분석 - DX Talk](https://dxtalk.net/llama-4-analysis/)
       * [🐪🖼️ Llama 4: Meta 최초의 MoE 기반 개방형 멀티모달 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%90%AA%F0%9F%96%BC%EF%B8%8F-Llama-4-Meta-%EC%B5%9C%EC%B4%88%EC%9D%98-MoE-%EA%B8%B0%EB%B0%98-%EA%B0%9C%EB%B0%A9%ED%98%95-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-AI)
+      * [뉴테크프라임 » 스마티지와 글 읽기 – The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](http://www.umlcert.com/myaismarteasy-04-04-1-2/)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
@@ -3369,6 +3371,8 @@ NLP
   * [Meet Yi-Coder: A Small but Mighty LLM for Code - 01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
     * [Yi-Coder - 코드를 위한 작고 강력한 LLM | GeekNews](https://news.hada.io/topic?id=16626)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
+* [ZHIPU AI OPEN PLATFORM](https://open.bigmodel.cn/)
+  * ["오픈AI와 딥시크는 저리비켜!"... 中 즈푸AI, 고성능 'AI 에이전트' 무료 공개로 글로벌 AI 패권 경쟁 가속 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34428)
 
 ## Language Model LM GPT
 
