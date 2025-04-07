@@ -358,6 +358,7 @@ Artificial Intelligence
   * [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
     * [(1) 권정혁 - 주니어 개발자의 역습 AI 기반 코딩의 발전 단계는 다음과 같음 1. 전통적인 코딩 (2022) 2.... | Facebook](https://www.facebook.com/xguru/posts/pfbid02dkZ5Z12gg1hmFBpmvJ79dmZFV6DCHc1VgE86rZLzrg3rwU1iJarostkgxM4sob3ql)
     * [주니어 개발자의 역습 | GeekNews](https://news.hada.io/topic?id=20068)
+  * [바이브 코딩 - 개발자들이 없어진다고 하는데, 바이브 코딩 오해와 진실](https://bcho.tistory.com/1472)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
