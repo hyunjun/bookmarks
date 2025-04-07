@@ -165,6 +165,7 @@ Deep Learning
     * [OpenAI o1 모델: AI 추론의 새로운 지평 - 모두의 Ai](https://moduai.net/openai-o1-%eb%aa%a8%eb%8d%b8-ai-%ec%b6%94%eb%a1%a0%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a7%80%ed%8f%89/)
     * [김태현 - OpenAI o1의 프롬프팅은 챗GPT와 다릅니다. OpenAI에서 제공한 가장 큰 세 가지 차이점입니다.... | Facebook](https://www.facebook.com/tkimdotco/posts/pfbid0o4bZov37VXZRoetHX46Li5z6oEU2qFEqyAkqkHHX3ieQjer7Uf6p7e8hiYGFZzUwl)
       * [새로운 프롬프트 엔지니어링: OpenAI o1 사례 공유 스터디](https://www.gpters.org/ai-study-list/post/study-solves-shares-what-YPSEVaNp53qJMi8)
+  * [GPU가 녹고 있다! 이런.. 말도 안되는 O.. : 네이버블로그](https://blog.naver.com/fstory97/223817603354)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
     * [DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)￼ – 이바닥늬우스](https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/)
     * [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned | Deephaven](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
