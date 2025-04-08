@@ -744,6 +744,8 @@ AWS
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 * [Deploy DeepSeek-R1 distilled Llama models with Amazon Bedrock Custom Model Import | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/)
 * [AWS GenAI 공개 고객 사례집](https://antique-skipjack-fdd.notion.site/AWS-GenAI-17876a71128680798755e8b90bd1a89f)
+* [Effectively use prompt caching on Amazon Bedrock | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/)
+  * [Amazon Bedrock의 프롬프트 캐싱(Prompt Caching) 기능 요약 및 설명](https://www.facebook.com/groups/awskrug/posts/8884940204941258/)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
