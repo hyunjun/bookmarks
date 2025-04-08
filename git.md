@@ -502,6 +502,7 @@ Git
   * [Github 액션을 다시 사용하기 전에 한번 더 생각해보려고 합니다 | GeekNews](https://news.hada.io/topic?id=18845)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
+  * [다들 Github Actions 파이프라인을 만드실 때, 매번 Github에 올려서 테스트하시나요?](https://www.linkedin.com/posts/%EB%B3%91%EC%A7%84-%EC%98%A4-5aa905237_github-nektosact-run-your-github-actions-activity-7314995231215480833-7oY_/)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
