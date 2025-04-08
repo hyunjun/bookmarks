@@ -8,6 +8,9 @@ Book
 * [책으로 성장하기 - by Jinu Kim - Jinu Notes](https://jinu.substack.com/p/034)
 * [The Joy of Reading Books You Don't Entirely Understand - Reactor](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
   * [완전히 이해하지 못하는 책을 읽는 즐거움 | GeekNews](https://news.hada.io/topic?id=15683)
+* [아무리 책에 관심 없는 사람이라 해도, 독서의 필요를 느끼는 날은 꼭 오게 되어있다](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7315131268185088000-UZIq/)
+  * 1203년 콘스탄티노플을 정복한 베네치아를 아는 사람은 처음 만나는 아르세날레 앞에서 멈춰 설 수 밖에 없다...
+  * 책을 읽는다는 건 이런 것이다. 깊은 곳을 향해 아는 만큼만 들어갈 수 있고, 깊게 들어가면 더 깊은 곳을 볼 수 있다. 그리고 어느 순간에는 내가 빠져든 지식의 호수에서 지식의 바다로 연결되는 해구를 발견하게 되고, 모든 카테고리의 호수들이 하나의 바다에 연결되어 있음을 깨닫게 된다
 * [I fear books are going the way of vinyl records – a rarefied pursuit for hobbyists | Gaby Hinsliff | The Guardian](https://www.theguardian.com/commentisfree/article/2024/aug/06/fear-books-vinyl-records-rarified-pursuit-hobbyists?CMP=Share_iOSApp_Other)
   * [책이 LP판처럼 취미로만 남게 되는건 아니겠지 (번역) – 이바닥늬우스](https://ebadak.news/2024/08/06/fear-books-vinyl-records/)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
