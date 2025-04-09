@@ -359,6 +359,7 @@ Artificial Intelligence
     * [(1) 권정혁 - 주니어 개발자의 역습 AI 기반 코딩의 발전 단계는 다음과 같음 1. 전통적인 코딩 (2022) 2.... | Facebook](https://www.facebook.com/xguru/posts/pfbid02dkZ5Z12gg1hmFBpmvJ79dmZFV6DCHc1VgE86rZLzrg3rwU1iJarostkgxM4sob3ql)
     * [주니어 개발자의 역습 | GeekNews](https://news.hada.io/topic?id=20068)
   * [바이브 코딩 - 개발자들이 없어진다고 하는데, 바이브 코딩 오해와 진실](https://bcho.tistory.com/1472)
+  * [르포 “한 줄 입력하니 게임이 뚝딱”… 실리콘밸리 ‘바이브 코딩’ 열풍 - 더밀크 | The Miilk](https://www.themiilk.com/articles/a4e956344?u=1b5c382f&t=aae08ea52&from)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -864,6 +865,7 @@ Artificial Intelligence
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
+* [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
@@ -907,6 +909,7 @@ Artificial Intelligence
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
+* [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
