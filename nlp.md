@@ -4273,6 +4273,7 @@ NLP
 * [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
 * [Find anything blazingly fast with Google's vector search technology | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 * [Vector Databases and Large Language Models // Samuel Partee // LLMs in Production Conference - YouTube](https://www.youtube.com/watch?v=GJDN8u3Y-T4)
+* [(8) 고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%EA%B3%A0%EC%B0%A8%EC%9B%90-%EC%9E%84%EB%B2%A0%EB%94%A9%EC%97%90%EC%84%9C-%EB%B2%A1%ED%84%B0-%EC%9C%A0%EC%82%AC%EB%8F%84%EB%A5%BC-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-jin-hyung-park-bvjsc/)
 * [string-similarity: Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance](https://github.com/aceakash/string-similarity)
 
 # Summary, Summarize
