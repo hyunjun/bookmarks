@@ -338,6 +338,8 @@ Artificial Intelligence
   * [Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
   * [(1) Minho Hwang - 구글, Agent2Agent (A2A) 프로토콜 전격 공개! 🚀 : AI 에이전트 협업의 새... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0aiqgSUxUkobphnX7fyN4bUMb5XwpGJqawFADnTKNPV27p2mxaXrgDdbC3pdwbgpKl)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
+* [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
+  * [Agent Development Kit](https://google.github.io/adk-docs/)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
@@ -494,6 +496,7 @@ Artificial Intelligence
     * [A Deep Dive Into MCP and the Future of AI Tooling | Andreessen Horowitz](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
   * [사이오닉 MCP 시리즈 1 MCP를 이용하여 IntelliJ 와 코딩해보자! - YouTube](https://www.youtube.com/playlist?list=PLhZjirOnaXNy6v4jX_tEM0pCd7ADiC0vZ)
     * [Sionic MCP 시리즈 1 Model Context Protocol을 이용하여 IntelliJ 와 코딩해보자!](https://blog.sionic.ai/mcp-intellij)
+  * [AI가 직접 작업하는 시대, MCP 활용법 총정리 (feat. Claude) - 한빛+](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4871755260)
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
   * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
   * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
