@@ -3135,6 +3135,7 @@ Business
 * [OKR을 잘 작성하기 위한 4가지 Metric :: StoneI Developer — A simple theme for Hugo](https://stoneidev.netlify.app/posts/okr/)
 * [Hitting OKRs vs Doing Your Job – Jessitron](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
   * [OKR 달성하기 vs. 업무 수행 하기 | GeekNews](https://news.hada.io/topic?id=18612)
+* [Alignment와 communication. 이들이 조직에서 OKR을 사용하는 목적이라 생각](https://www.linkedin.com/posts/spike-jee-480225a_okr%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B1%85%EB%8F%84-%EA%B0%95%EC%9D%98%EB%8F%84-%EB%A7%8E%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%9F%B0-%EA%B1%B8-%EC%9D%BD%EA%B1%B0%EB%82%98-%EC%88%98%EA%B0%95%ED%95%B4-%EB%B3%B8-activity-7315888105566130177-QiOo)
 
 # Patent
 * 세기의 특허전쟁
