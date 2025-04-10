@@ -2049,6 +2049,8 @@ NLP
   * [Let's build the GPT Tokenizer - YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)
   * [How I use LLMs - YouTube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
     * [How I use LLMs |](https://lilys.ai/digest/2785246/977598)
+  * [(1) Andrej Karpathy on X: "Power to the people: How LLMs flip the script on technology diffusion" / X](https://x.com/karpathy/status/1909308143156240538)
+    * [(1) 김성완 - 안드레이 카파시의 에세이입니다. 인민에게 권력을: LLM이 기술 확산의 패턴을 뒤집다 혁신적인 기술은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0mHwpwVgLTmCyatpuqRN2ioDkqFfjuoXXGRkkTi5PH6hixTu21mxxqWjzmmH1suWHl)
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
@@ -2539,6 +2541,7 @@ NLP
       * [DeepSeek Open Source Week Day 5: 3FS - DEV Community](https://dev.to/apilover/deepseek-open-source-week-day-5-3fs-jkj)
     * [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기 - YouTube](https://www.youtube.com/watch?v=4j6J-9hxfhk)
     * [북경 대학의 딥시크 분석 자료 바탕으로 허깅페.. : 네이버블로그](https://blog.naver.com/ulsancoding/223793159665)
+    * [로컬 컴퓨터로 ‘딥시크 챗봇’ 만들어봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3057/)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [DualPipe: A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.](https://github.com/deepseek-ai/DualPipe)
     * [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/eplb)
@@ -2960,6 +2963,8 @@ NLP
   * [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
     * [메타, 속도 향상 및 메모리 사용량 감소된 양자화(Quantized) Llama 모델 공개 | GeekNews](https://news.hada.io/topic?id=17418)
   * [풀버전 Local LLM - YouTube](https://www.youtube.com/watch?v=KnjWSWNmmOI)
+  * [A practical guide to Llama Stack for Node.js developers | Red Hat Developer](https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers#)
+    * [Node.js 개발자를 위한 Llama Stack 실용 가이드 | GeekNews](https://news.hada.io/topic?id=20245)
   * code-llama
     * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
       * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
