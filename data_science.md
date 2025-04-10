@@ -842,6 +842,8 @@ Data Science
   * [Introducing Dagster. A open-source Python library for… | by Nick Schrock | Dagster | Medium](https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7)
   * [Dagster: The Data Orchestrator. As machine learning, analytics, and… | by Nick Schrock | Dagster | Aug, 2020 | Medium](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb)
   * [Sandy Ryza - Data pipelines != workflows: orchestrating data with Dagster | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=tE1H8fYQ95M)
+  * [Dagster Architecture, Object – ssup2 Blog / Software](https://ssup2.github.io/blog-software/docs/theory-analysis/dagster-architecture-object/)
+  * [Dagster Architecture on Kubernetes – ssup2 Blog / Software](https://ssup2.github.io/blog-software/docs/theory-analysis/dagster-architecture-kubernetes/)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun ](https://github.com/lucidrains/deep-daze)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
