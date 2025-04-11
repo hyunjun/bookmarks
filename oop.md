@@ -284,6 +284,7 @@
       * 나쁜 라이브러리로부터 발생하는 코드 난잡함을 방지하기 위해, 코드 내에서 새로운 로거 인터페이스를 만들어 이를 활용
       * 다른 디자인 패턴 중 Facade pattern 외에도 18가지가 있으며, 문제 해결 시 참고할 수 있도록 숙지해두는 것이 유용
 * [**다이내믹 스크래핑과 전월세대출 이동제의 실행**](https://toss.tech/article/severdeveloper_dynamic_scraping) composition strategy state saga
+* [**디자인 패턴, 패턴 언어, 그리고 질서의 본질 | Warmblood TechBlog**](https://warmblood-kr.github.io/dev-practice/2025/03/31/pattern-language-and-noo.html)
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
