@@ -722,6 +722,7 @@ Machine Learning
 * [확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘 | 요즘IT](https://yozm.wishket.com/magazine/detail/1931/)
 * [Back to Basics: Scalable, Portable ML in Pure SQL - YouTube](https://www.youtube.com/watch?v=iyH8GPXzBpk)
 * [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
+* [ML 예측 결과를 다운스트림 애플리케이션에 사용할 수 있을까?](https://www.notion.so/ML-1cfe323ea2b580a985f9f7b69ddad326)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
