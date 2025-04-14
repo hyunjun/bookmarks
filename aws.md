@@ -1096,6 +1096,7 @@ AWS
   * LLM의 클라우드 기반 API 서비스는 데이터 보안, 커스터마이징 부족, 반복 호출 시 비용 증가 등의 문제
   * 이에 따라, 금융권과 같은 폐쇄망 환경에서는 LLM을 직접 개발하여 운영할 필요
   * AWS Inferentia2를 사용하여 비용 효율적인 추론을 위한 실험 결과와 Hugging Face Optimum을 사용하여 LLM을 Inferentia2에 최적화하는 방법 소개
+* [Nota AI가 제안하는 Transformer 모델을 AWS Inferentia/Trainium에 손쉽게 배포하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/tips-for-using-transformer-models-on-aws-inf-and-trn/)
 * [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
   * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
@@ -2500,6 +2501,7 @@ AWS
 * [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
   * AWS에서 사용자의 프라이빗 코드를 기반으로 AI를 이용한 코드 자동완성과 채팅을 할 수 있는 Q Devloper 프리뷰 출시
   * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
+* [Amazon Q Developer CLI와 함께하는 바이브 코딩 (Vibe Coding) - YouTube](https://www.youtube.com/watch?v=XwjRAVTrHgc)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
