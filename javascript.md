@@ -702,7 +702,7 @@ Javascript
 * [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
 * [클라이언트 테이블과 서버 테이블 개념](https://velog.io/@leehyunho2001/client-table-server-table) component
-* [자료구조를 활용한 복잡한 프론트엔드 컴포넌트 제작하기](https://toss.tech/article/frontend-tree-structure)
+* [**자료구조를 활용한 복잡한 프론트엔드 컴포넌트 제작하기**](https://toss.tech/article/frontend-tree-structure)
 * [역할에 맞는 테이블](https://velog.io/@leehyunho2001/client-server-table)
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
@@ -5987,6 +5987,7 @@ Javascript
   * [사용자 경험 증대를 위한 낙관적 업데이트 (feat. React Query) | Univdev](https://univdev.page/posts/optimistic-update/)
   * [Type-safe TanStack Query with OpenAPI | Ruan Martinelli](https://ruanmartinelli.com/blog/tanstack-query-openapi)
     * [번역 OpenAPI와 함께 타입 안전성을 갖춘 Tanstack Query | by 조영제 | Oct, 2024 | Medium](https://siosio3103.medium.com/%EB%B2%88%EC%97%AD-openapi%EC%99%80-%ED%95%A8%EA%BB%98-%ED%83%80%EC%9E%85-%EC%95%88%EC%A0%84%EC%84%B1%EC%9D%84-%EA%B0%96%EC%B6%98-tanstack-query-665143f85f3c)
+  * [React Query 도입 시, 왜 상태 관리와 아키텍처도 함께 바꿔야 할까? | by Sigrid Jin | Feb, 2025 | Medium](https://sigridjin.medium.com/react-query-%EB%8F%84%EC%9E%85-%EC%8B%9C-%EC%99%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8F%84-%ED%95%A8%EA%BB%98-%EB%B0%94%EA%BF%94%EC%95%BC-%ED%95%A0%EA%B9%8C-a74103bd4fb6)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
