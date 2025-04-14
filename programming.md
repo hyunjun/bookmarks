@@ -494,6 +494,7 @@ Programming
 * [platform-engineering-group/presentations/0009-개발자-경험을-향상시키는-내부-개발자-플랫폼(IDP)-구축하기.pdf at main · awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group/blob/main/presentations/0009-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%82%B4%EB%B6%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%9E%AB%ED%8F%BC(IDP)-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.pdf)
   * [내부 개발자 플랫폼(IDP) 데모 - YouTube](https://www.youtube.com/watch?v=g2haJ3wOO9Q)
 * [**내가 생각하는 플랫폼 엔지니어링** :: Outsider's Dev Story](https://blog.outsider.ne.kr/1736)
+* [**개발자를 위한 최고의 복지, 플랫폼 엔지니어링**](https://www.notion.so/1d2e323ea2b580658421de909b2656bf)
 * [Sustainable Operations in Complex Systems with Production Excellence - InfoQ](https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
