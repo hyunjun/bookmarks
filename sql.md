@@ -330,6 +330,7 @@ SQL
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
+* [DB 시간 값을 DEFAULT로 넣지 마세요](https://sturdy-mink-c2f.notion.site/DB-DEFAULT-17f020f4210280a9a574e9ea99680ee2)
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
 * [Database Performance Secrets of the Stars! - YouTube](https://www.youtube.com/watch?v=J9Z30ie5J6Q)
 * [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
