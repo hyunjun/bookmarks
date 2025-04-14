@@ -1304,6 +1304,7 @@ NLP
   * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
   * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
+  * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
 * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
