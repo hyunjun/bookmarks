@@ -1136,6 +1136,9 @@ Python
   * [How slow is python list.pop(0) ?. An empirical study on python list.pop… | by Hongjian Wang | Medium](https://medium.com/@shuangzizuobh2/how-well-do-you-code-python-9bec36bbc322)
   * [파이썬의 list.pop(0)을 쓰면 안 되나요?](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-listpop0%EC%9D%84-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%82%98%EC%9A%94) collections.deque가 가장 빠르다는 이야기
   * [Python Lists Are Overrated. Consider these potentially superior… | by Aashish Nair | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/python-lists-are-overrated-776e87cda3e5)
+  * [파이썬 리스트(list) 완벽 가이드 | Engineering Blog by Dale Seo](https://www.daleseo.com/python-list/)
+    * [파이썬 리스트(list) 완벽 가이드 | 달레의 파이썬 - YouTube](https://www.youtube.com/watch?v=ful312rzFN4)
+    * [Blog | Deepnote](https://deepnote.com/workspace/dale-seo-dc7078e7-0cb4-468a-9bd6-576063fa0466/project/Blog-61ddfe0e-c57f-41e1-aaa3-801467b1721e/notebook/python-list-ae6378bd8b054df797f79e36d908afb1)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
@@ -3376,6 +3379,7 @@ Python
   * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)
 * [cheat-sheet](https://github.com/Pseudo-Lab/cheat-sheet)
 * [Converter_py-ipynb-md: Converter : Python file(.py) , Jupyter Notebook file (.ipynb), Markdown file(.md)](https://github.com/Finfra/Converter_py-ipynb-md)
+* [Deepnote: Analytics and data science notebook for teams](https://deepnote.com/)
 * [drawdata: Draw datasets from within Jupyter](https://github.com/koaning/drawdata)
   * [calmcode - learn code calmly](https://calmcode.io/labs/drawdata.html)
   * 선을 그리거나, 점을 찍으면 2차원 데이터 생성. 데이터는 csv나 json 포맷 데이터셋으로 다운 가능
