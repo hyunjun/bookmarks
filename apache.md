@@ -634,7 +634,8 @@ Apache
 * [Confluent Schema Registry 도입기!. Schema Registry 도입을 위한 PoC 여정을 소개합니다! | by Suyeon Kim | Sep, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)
 * [(Kafka) 객체를 JSON 타입으로 넘겨보자 :: 당근케잌](https://yeon-kr.tistory.com/181)
 * [Kafka 스키마 관리, Schema Registry](https://dol9.tistory.com/274)
-    * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
+  * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
+* [Kafka Schema Registry](https://workingscorpion.notion.site/Kafka-Schema-Registry-121a87a296d8807d8048e6a48540ee32)
 * [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster)
   * 카프카 클러스터에서 파티션 수. 클러스터 내 브로커 한대 기준
   * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
