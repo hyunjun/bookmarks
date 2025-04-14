@@ -1893,6 +1893,10 @@ Business
   * 언제까지, 무엇을, 얼마나 달성하고 싶어하는가?
   * KPI를 달성하지 못하면 어떻게 되는가?
   * 허수 지표와도 연결되는 이야기
+* [어느 조직에 가든 ‘모든 구성원들이 정렬(Align)되어 있는가’를 확인한다](https://www.linkedin.com/posts/divercity_%EC%96%B4%EB%8A%90-%EC%A1%B0%EC%A7%81%EC%97%90-%EA%B0%80%EB%93%A0-%EB%AA%A8%EB%93%A0-%EA%B5%AC%EC%84%B1%EC%9B%90%EB%93%A4%EC%9D%B4-%EC%A0%95%EB%A0%ACalign%EB%90%98%EC%96%B4-%EC%9E%88%EB%8A%94%EA%B0%80%EB%A5%BC-%ED%99%95%EC%9D%B8%ED%95%9C%EB%8B%A4-activity-7316232108975235074-apLY/)
+  * 1. 북극성 지표 North Start Metric
+  * 2. 달성하고 싶은 마음
+  * 3. 작동원리 이해하기
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
