@@ -468,6 +468,8 @@
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 2편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-02/)
+* [kotlinx-rpc: Add asynchronous RPC services to your multiplatform applications](https://github.com/Kotlin/kotlinx-rpc)
+  * [Introduction to kotlinx.rpc - Speaker Deck](https://speakerdeck.com/arawn/introduction-to-kotlinx-dot-rpc)
 
 # DSL
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
@@ -592,6 +594,8 @@
     * [VidiGo Using Ktor 3.0 with All the Shiny Things • Garth G](https://vidigo.ai/share/summary/44129a1b5a5f)
   * [Ktor로 팀 환경에 맞는 API 서버 구현하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ktor-api-server/)
 * MockK [코틀린 mock 프레임워크 MockK 소개](https://javacan.tistory.com/entry/kotlin-mock-framework-mockk-intro)
+* [multi-datasource-query-counter: Check the number of Queries per Request in a Multi-DataSource environment](https://github.com/Hyeon9mak/multi-datasource-query-counter)
+  * [API 요청 당 쿼리 개수를 알고 싶어 라이브러리까지 만든 이야기 — 호환성의 늪에서 헤엄치기 | by Hyeon9mak | Apr, 2025 | Medium](https://medium.com/@hyeon9mak/api-%EC%9A%94%EC%B2%AD-%EB%8B%B9-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%88%98%EB%A5%BC-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EC%96%B4-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EA%B9%8C%EC%A7%80-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%98-%EB%8A%AA%EC%97%90%EC%84%9C-%ED%97%A4%EC%97%84%EC%B9%98%EA%B8%B0-352a2903217f)
 * [parsix: Parse, don't validate](https://github.com/parsix/parsix)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
