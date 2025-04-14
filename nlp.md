@@ -1307,6 +1307,9 @@ NLP
   * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
 * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
+* [Prompt Engineering | Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
+  * [구글 프롬프트 엔지니어링 백서 바이브 코딩 관련 내용 요약 :: ROBOCO](https://roboco.io/posts/google-prompt-engineering-whitepaper/)
+  * [궁극의 프롬프팅](https://brunch.co.kr/@7efd1b0de0604d5/56)
 * [promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
   * [Developing LLM Powered XApplications: A Low/No Code Chat Application using Prompt Flow (6/n) | by Madhusudhan Konda | Oct, 2023 | Medium](https://mkonda007.medium.com/developing-llm-powered-xapplications-a-low-no-code-chat-application-using-prompt-flow-6-n-464738fd6364)
   * [LLMOps 도구인 Prompt Flow 활용한 LLM API 만들기 - YouTube](https://www.youtube.com/watch?v=ECl0D8rHoDc)
