@@ -1139,6 +1139,7 @@ Data Science
         * 서버와 클라이언트 간 *비동기* 학습 구조로, 모델 갱신빈도 상승 중
         * 유저 개인정보 보호를 위해 **세션** 동기화 필요하며, 릴리스 후 **AB테스트**와 **학습 갱신**이 이루어짐
 * [아자르에서 AI 기반 추천 모델의 타겟 지표를 설정하는 방법 (feat. 아하 모멘트) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/04/26/azar-aha-moment.html)
+* [아자르에서는 어떤 추천 모델을 사용하고 있을까? | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/11/19/azar-recommendation-model.html)
 * [추천 시스템 개선을 위한 Feature Store 도입기 - RIDI Corp.](https://ridicorp.com/story/ridi-personalization-system-feature-store/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development/)
 * [함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/cart-recommend-model-development_second/)
@@ -1156,6 +1157,7 @@ Data Science
 * [AI와 함께하는 패션 큐레이션 — 무신사 2.0 시나리오 기반 추천 시스템 개발 | by 최영민 | MUSINSA tech | Oct, 2024 | Medium](https://medium.com/musinsa-tech/ai%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%EB%AC%B4%EC%8B%A0%EC%82%AC-2-0-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C-db7020b20b68)
 * [오늘의집이 ‘실시간 AI 추천’으로 88% 더 성장한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2958/)
 * [쇼핑에 영상을 더하다: GSSHOP 숏픽 추천 알고리즘 진화기](https://gsretail.tistory.com/79)
+* [논문 리뷰 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://dhgudxor.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BERT4Rec-Sequential-Recommendation-with-Bidirectional-Encoder-Representations-from-Transformer)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
