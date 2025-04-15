@@ -33,6 +33,7 @@ Food
 * [특별한 아침식사를 위한 계란 요리법 11](http://www.huffingtonpost.kr/2015/05/14/story_n_7280158.html)
 * [오믈렛을 가장 쉽게 만드는 방법(동영상)](http://www.huffingtonpost.kr/2015/06/19/story_n_7618532.html)
 * [셰프처럼 스크램블 에그를 만드는 방법](http://www.huffingtonpost.kr/panna-cooking-/story_b_8149984.html)
+* [초간단 푸딩계란찜](https://www.facebook.com/reel/961464769401576)
 
 # 냉면
 * [을밀대, 진심을 우려내다 - 김영길 을밀대 사장](http://www.huffingtonpost.kr/2015/02/05/story_n_6627486.html)
@@ -47,6 +48,7 @@ Food
 
 # 두부
 * [넓고도 깊어라 중국 두부의 세계](http://www.huffingtonpost.kr/2015/04/30/story_n_7177708.html)
+* [두부 김말이 부침](https://www.facebook.com/reel/976898277970096)
 
 # 돼지고기
 * [냉장고를 부탁해 – 목살은 매운 요리](http://www.creativeworksofknowledge.com/2015/03/25/pork-chop-with-pan-fried-cabbage/)
@@ -223,3 +225,6 @@ Food
 * [이 텀블러 하나면…어디서나 차 한잔](http://techholic.co.kr/archives/33599)
 * [Next Story 아이스티 특별하게 마시는 방법 15](http://www.huffingtonpost.kr/2015/06/11/story_n_7558278.html)
 * [서울에서 세계여행을? 인생 밀크티 카페 6 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240937)
+
+# Toast
+* [컵 토스트](https://www.facebook.com/reel/1181047363397058)
