@@ -1647,6 +1647,7 @@ Programming
   * 11. SSE (Server-Sent Events)
     * [Server-Sent Events (SSE) Are Underrated | Igor's Techno Club](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
       * [과소평가된 Server-Sent Events (SSE) 기술 | GeekNews](https://news.hada.io/topic?id=18450)
+    * [SSE 기반 AI Agent 스트리밍 적용기 — Alpy에 자연스러운 대화를 불어넣다 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/sse-%EA%B8%B0%EB%B0%98-ai-agent-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%A0%81%EC%9A%A9%EA%B8%B0-alpy%EC%97%90-%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%EB%B6%88%EC%96%B4%EB%84%A3%EB%8B%A4-e6431b687ea5) Custom EventSource 제작 이유, 설계, 구현
 * [Building Software Better: API Lifecycle Management for Developers • Erik Wilde • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=KLYkvRbtCIk)
   * [VidiGo Building Software Better: API Lifecycle Management](https://vidigo.ai/share/summary/c05120704c2a)
   * [소프트웨어 구축 및 API 최적화 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106534)
