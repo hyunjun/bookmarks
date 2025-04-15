@@ -338,6 +338,8 @@ Artificial Intelligence
   * [Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
   * [(1) Minho Hwang - 구글, Agent2Agent (A2A) 프로토콜 전격 공개! 🚀 : AI 에이전트 협업의 새... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0aiqgSUxUkobphnX7fyN4bUMb5XwpGJqawFADnTKNPV27p2mxaXrgDdbC3pdwbgpKl)
   * [구글이 제대로 작정을하고 나왔습니다. Agent간 통신 A2A와 Agent 개발키트 - YouTube](https://www.youtube.com/watch?v=zGwb-agU3yg)
+  * [MCP vs. A2A](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7316420758648315907-Tzuy/)
+    * [MCP vs. A2A: Friends or Foes? - by Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes)
   * [Google A2A - a First Look at Another Agent-agent Protocol | HackerNoon](https://hackernoon.com/google-a2a-a-first-look-at-another-agent-agent-protocol)
     * [Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews](https://news.hada.io/topic?id=20274)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
@@ -372,6 +374,7 @@ Artificial Intelligence
   * [바이브 코딩 - 개발자들이 없어진다고 하는데, 바이브 코딩 오해와 진실](https://bcho.tistory.com/1472)
   * [르포 “한 줄 입력하니 게임이 뚝딱”… 실리콘밸리 ‘바이브 코딩’ 열풍 - 더밀크 | The Miilk](https://www.themiilk.com/articles/a4e956344?u=1b5c382f&t=aae08ea52&from)
   * [바이브 코딩 (AI 코딩 에이전트 사용법) - WikiDocs](https://wikidocs.net/book/17550)
+  * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
