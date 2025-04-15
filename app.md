@@ -2515,6 +2515,7 @@ App
   * [My Obsidian Note-Taking Workflow | ssp.sh](https://www.ssp.sh/blog/obsidian-note-taking-workflow/)
     * [나의 Obsidian 노트 작성 워크플로우 | GeekNews](https://news.hada.io/topic?id=16070)
   * [Obsidian Keyboard Shortcuts](https://keycombiner.com/collections/obsidian/)
+  * [옵시디언 어려우셨던분들 꼭 보세요! 클로드 MCP의 엄청난 기능.옵시디언 노트 작성부터 유튜브 요약까지 (AI 팟캐스트 #57) @cmdspace @hero_system - YouTube](https://www.youtube.com/watch?v=NQYzjrJ7jKY)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * Excalidraw
