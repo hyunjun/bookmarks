@@ -727,33 +727,9 @@ Programming
 * [서비스 구하기 4부 : 그 끝](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-4%EB%B6%80-%EA%B7%B8-%EB%81%9D)
 * [소프트웨어를 더이상 건설로 이해하지 말자](https://subokim.wordpress.com/2020/04/13/how-to-explain-software/)
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
-* [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
-* [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
-* [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
-  * [Project Zero: A walk through Project Zero metrics](https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html)
-* [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
-* [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
-  * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
-  * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
-  * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애
-  * 원인을 알고 보면 쉽지만, 장애는 급한 상황이고 원인 파악에도 시간이 걸리는 경우가 많고 어떤 서비스든 겪을 수 있기 때문에 이렇게 각 상황에 가설을 세우고 원인을 찾아서 해결해 나가는 과정이 정리된 글 소중
-* [I Regret My $46k Website Redesign · mtlynch.io](https://mtlynch.io/tinypilot-redesign/) postmortem
-* [Roblox Return to Service 10/28-10/31 2021 - Roblox Blog](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
-  * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
-  * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
-  * Consul의 새 스트리밍 기능을 도입하면서 과도한 경합으로 인한 성능 저하가 발생했고 이 문제가 Consul 내부의 구현 문제와 BoltDB의 문제였기 때문에 해당 문제를 찾아서 해결하는 데 오랜 시간 소요
-  * [Roblox의 5000만 유저 서비스 복구 노하우 | 커리어리](https://careerly.co.kr/comments/87102)
-  * [Roblox의 4D 생성형 AI 로드맵 | GeekNews](https://news.hada.io/topic?id=15547)
-* [트래픽이 몰려온다, 장애 대응 - 어느날 갑자기 장애가 발생했다 3회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1nnYH0omM4qIl9WzeNBQtqdt8uMoDKgwvpu8gj3GSmPw/edit)
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 1편](https://velog.io/@juunini/traffic-zergling-blood-1)
 * [대규모인지 대용량인지 암튼 트래픽 뭐시기 광고하는 그거 - 2편](https://velog.io/@juunini/traffic-zergling-blood-2)
 * ['대규모 트래픽 경험' 이라는 환상 - 1부](https://velog.io/@juunini/delusion-of-large-scale-traffic-1)
-* [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
-* [포스트모템은 대다수 회사에서 쓸모없다](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7312594552584876032-huT6/)
-  * 포스트모템은 사고가 발생했을 때 사고가 발생하기까지의 타임라인을 분석하고 원인을 찾아내어 프로세스를 수정하고 재발을 막는 방법
-  * 대다수 회사는 주먹구구로 일하기에 수정할 프로세스 자체가 없다
-  * 프로세스가 있다면 포스트모템의 목적이 프로세스의 개선이 될 수 있지만, 프로세스가 없다면 포스트모템의 목적은 단순한 마녀사냥... 시간만 흐르면 똑같은 사고는 또다시 발생
-  * 체르노빌, 레가소프(핵물리학자): 진실이 불쾌할 때, 진실의 존재를 잊을 때까지 우리는 거짓을 반복합니다
 * [More More More! Why the Most Resilient Companies Want More Incidents - YouTube](https://www.youtube.com/watch?v=qXZo3cIv6-s)
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
@@ -9355,7 +9331,6 @@ Programming
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
 * [NDC22-프로그래밍 쿠키런: 킹덤, 총 56시간의 긴급 점검 회고 - YouTube](https://www.youtube.com/watch?v=AZbCZ2KOcwU)
-* [쿠키런: 킹덤 길드 업데이트 이후 서비스 이슈 되돌아보기](https://tech.devsisters.com/posts/crk-hot-range-postmortem/)
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
@@ -9375,40 +9350,11 @@ Programming
     * [CircleCI incident report for January 4, 2023 security incident](https://circleci.com/blog/jan-4-2023-incident-report/)
 * [시스템 재부팅 이슈: 문제를 해결하는 두 가지 접근법 (귀납적, 연역적)](https://velog.io/@joosing/system-reboot-without-log)
 * [문제를 대하는 태도 되돌아보기](https://yeonyeon.tistory.com/301)
-* [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
-  * ChatGPT에서 오픈소스 라이브러리의 버그로 다른 사용자의 채팅 기록의 제목을 볼 수 있는 문제가 발생했고 그 포스트모템
-  * 조사 결과 이 문제로 다른 사용자의 결제 정보를 볼 수 있는 가능성도 있었지만, 발생 조건이 까다로워서 실제로 확인된 사례는 아직 없음
-  * Redis에 사용자 정보를 캐시하고 있는데 이번 버그는 Redis 클라이언트인 redis-py에서 발생
-    * 연결 풀에서 연결을 재사용하면서 응답을 받기 전에 요청이 취소되면 다음 요청이 응답을 받게되어 발생, 지금은 패치
 * [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes) MySQL 최적화, circuit breaker, bulkhead
 * [Car Allergic to Vanilla Ice Cream ― Andreas Zwinkau](http://beza1e1.tuxen.de/lore/allergic_car.html)
   * [바닐라 아이스크림에 알레르기가 있는 자동차.jpg : 클리앙](https://www.clien.net/service/board/park/14924850)
 * [It's High Tide! ― Andreas Zwinkau](https://beza1e1.tuxen.de/lore/high_tide.html)
   * [⚜어? on Twitter: "서버 이야기는 이겁니다 서버가 이상하게 일정시간마다 멈춰서 수리기사가 확인하러 몇시간 걸려서 서버실에 도착하면 서버가 다시 문제없이 도착합니다 그리고 다시 회사로 돌아가면 다시 서버가 멈춥니다 다시 서버실에 도착하면 또 문제없이 도착합니다" / Twitter](https://twitter.com/Abupyss_N/status/1653100168957534209)
-* [2023-03-08 Incident: Infrastructure Connectivity Issue Affecting Multiple Regions | Datadog](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/)
-  * 지난 3월 Datadog에서 발생했던 대규모 장애에 대한 포스트모텀
-  * 장애는 UTC 기준 3월 8일 06:03에 시작 16:44 처음으로 주요 서비스를 다시 운영 시작 9일 08:58에 모든 지역 모든 서비스 운영 시작 10일 06:25분 과거 데이터를 채운 후 완전히 해결
-  * 장애 대응 팀은 10명의 선임 엔지니어링 리더, 70명의 현지 장애 지휘관, 450~750명의 장애 대응자로 구성된 비상 운영 센터 운영, 장애 해결까지 4교대 근무
-  * 실시간 텔레메트리 데이터가 가장 중요했기에 데이터의 정상적인 수집과 처리를 복구하는 데 먼저 집중, 서비스 복구후 과거 데이터를 복구
-  * 장애 원인은 systemd의 보안 업데이트가 여러 VM에 자동으로 적용되면서 systemd-networkd가 재시작, Kubernetes CNI 플러그인(Cilium)이 관리하는 라우팅 테이블을 systemd-networkd가 삭제하면서 노드가 오프라인 상태로 변경
-  * 정상적인 부팅 절차에서는 systemd-networkd를 먼저 시작하고 CNI 플러그인이 라우팅 테이블을 설치하기 때문에 새로 부팅하거나 재부팅된 노드에서는 해당 현상이 재현되지 않아서 문제 확인이 어려웠음
-  * 보안 업데이트는 기본 OS 이미지의 레거시 보안 업데이트 채널이 활성화되어 있었기 때문에 자동 업데이트 적용. OS 이미지를 최소한으로 사용했기에 기존에 이런 업데이트가 거의 없어서 놓쳤던 부분
-  * 각 리전에 있는 인프라는 의도적인 설계상 집적접인 네트워크 연결이 전혀 없었음에도 자동 업데이트가 UTC 06:00~07:00 사이의 윈도우로 설정되어 있었기 때문에 비슷한 시간에 여러 리전에 걸쳐서 장애가 발생하는 원인을 찾기가 쉽지 않았고 이렇게 간접적으로 연결되었다는 것을 생각하지 못했기에 초기 대응에서 원인을 찾지 못함
-  * 레거시 보안 업데이트 채널을 비활성화해서 자동 업데이트가 되지 않게 하고 systemd-networkd가 라우팅 테이블을 변경하지 않도록 수정
-* [2023-03-08 Incident: A Deep Dive Into the Platform-Level Impact | Datadog](https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/)
-  * 위 Datadog 장애의 플랫폼 레벨 영향을 더 깊게 살펴보는 포스트모텀
-  * Datadog을 오랫동안 Ubuntu를 사용했고 Kubernetes로 마이그레이션 하면서도 Ubuntu를 계속 사용했다. 최신 LTS를 사용하는 것이 목표이지만 보통 새 버전이 다 오면 몇 달 동안 기다리다가 테스트를 시작한다.
-  * Ubuntu 22.04는 2022년 6월 테스트 시작 2022년 11월부터 프로덕션에 점진적 적용 시작
-  * Ubuntu 20.04는 systemd v245 사용 Ubuntu 22.04는 v249 사용
-  * systemd v248에서 알지 못하는 IP 규칙을 플러시 하는 새 동작 추가 v249에서 이를 옵트아웃 할 수 있는 설정 추가, v248, 247에 백포트
-  * Ubuntu 22.04에 이 새로운 systemd-networkd 동작 포함, 그러나 앞에 글에서 얘기한 대로 systemd-networkd를 시작한 뒤에 라우팅 규칙을 추가하므로 문제가 되지 않음
-  * 2023년 3월 7일 Ubuntu 레포지토리에 systemd의 취약점 패치 등록, 이 패치를 설치하면 systemd의 구성 요소 모두 재시작. 2022년 말 Ubuntu 22.04를 적용하기 시작한 뒤로 systemd 패치는 없었기 때문에 systemd-networkd 재시작으로 발생하는 문제를 이전에 발견하지 못함
-  * 같은 CVE 패치가 Ubutun 20.04에 포함된 systemd v245에도 적용, 그러나 여기서는 IP 규칙이 플러시 되지 않으므로 Ubutun 20.04를 사용하는 노드는 영향 없었음
-  * 무인 업그레이드를 위해 Ubuntu 기본값을 사용하고 UTC 06:00, 18:00 두 번 1시간의 윈도우를 통해서 업그레이드 실행
-  * 이는 서버가 실행된 뒤에 systemd-networkd가 재시작된 경우에만 발생하기 때문에 노드마다 차이. Google Cloud에서는 UTC 3월 7일 18:50부터 패치가 적용된 systemd를 사용할 수 있던 것으로 보여 그 이전에 업데이트가 실행된 노드는 영향 없었음
-  * AWS, Azure, Google Cloud를 모두 쓰기 때문에 클라우드마다 설정이 약간 다르지만, Cilium이 Pod 네트워킹을 대체할 수 있도록 IP 규칙이 구성
-  * systemd-networkd가 재시작 되면서 이 규칙이 플러시되었기 때문에 클라우드마다 약간 다르지만 네트워크 문제 발생
-  * AWS는 헬스 체크 문제를 감지하고 인스턴스를 종료하고 재시작했기에 바로 복구, Google Cloud와 Azure는 네트워크만 끊어졌고 인스턴스는 괜찮았기 때문에 API를 통해 직접 재시작해서 복구. 이때문에 장애시에는 Google Cloud와 Azure가 더 심각한 상황이라고 판단했지만 Google Cloud와 Azure는 재시작할 때 디스크까지 같이 복구 되었지만 AWS는 인스턴스가 종료되면서 로컬 디스크의 데이터도 잃었기 때문에 이후 복구가 훨씬 어려웠음
 * [장애 대응 ‘이것’부터 시작하세요 - 구름 공식 블로그 (goorm blog)](https://blog.goorm.io/goormseminar_3rd/)
 * [How do you troubleshoot front-end compatibility with back-end systems?](https://www.linkedin.com/advice/0/how-do-you-troubleshoot-front-end-compatibility)
 * [OS 10 이하에서 Backstack 에 Activity 가 중첩되어 쌓이는 이슈](https://dev.gmarket.com/85)
@@ -9425,35 +9371,6 @@ Programming
     * 라우터/방화벽/서버에서 처리할 수 있는 패킷보다 더 많은 패킷을 보내는 IP 패킷 집중형 DDoS
     * 인터넷을 포화 상태로 만드는 비트 집중형 DDoS 
   * 이전에 비해 HTTP DDoS 공격을 줄어들고 Network 계층의 DDoS 공격 증가. 분야별 지역별 DDoS 위협 소개
-* [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage)
-  * [Cloudflare 장애 관련 타임라인 정리](https://www.facebook.com/jongho.seo.5811/posts/pfbid028zC6CmdrATz7JybUeZipr3vrNQxtjq62JD31mAUYftqTEzJ2PDnQoYEReCCNUKitl)
-  * 11월 2일 데이터센터의 전력이 나가면서 11월 2일 11:44(UTC)부터 11월 4일 04:25(UTC)까지 2일 정도 지속된 Cloudflare 장애의 포스트모템
-    * 장애의 심각성 때문인지 Cloudflare의 CEO인 Matthew Prince가 복구되자마자 바로 포스트모템 작성
-  * 컨트롤 플레인과 분석 서비스는 오리건주 힐즈버러 주변의 3개 데이터 센터에서 실행, 이 3개의 데이터 센터는 자연재해로 영향받지 않도록 충분히 떨어져 있으며 액티브-액티브로 클러스터를 이중화해서 운영할 수 있도록 충분히 가깝게 선택이 돼서 서로 데이터를 동기화
-  * 이 세 곳 중 하나는 PDX-DC04라고 불렀는데 가장 큰 분석 클러스터와 고가용성 클러스터의 1/3에 해당
-  * 11월 2일 08시 50분(UTC) PDX-DC04의 유틸리티 회사인 포틀랜드 제너럴 일렉트릭(PGE)의 전력 공급 중 하나에 예기치 않은 유지보수가 발생했고 데이터센터를 운영하는 Flexential는 발전기를 돌려서 이를 보완
-  * Flexential는 이를 Cloudflare에 알리지 않았고 발전기와 유틸리티 라인을 같이 가동한 이유를 Flexential이 아직 알려주지 않음
-  * 11:40(UTC) PGE의 변압기 중 하나에 그라운드 폴트가 발생했고 첫 유지보수 작업으로 인해 발생했을 것으로 추측
-  * 이 그라운드 폴트로 인한 보호 조치로 PDX-DC04의 모든 발전기가 중단되어 데이터센터의 전력 공급원이 모두 오프라인
-  * 데이터센터에 UPS 장비가 있고 10분 동안 버틸 수 있었지만 4분 만에 UPS에 문제가 생기기 시작, 데이터센터는 10분만에 발전기를 복구하지 못함
-  * 발전기를 복구하는데 3가지 문제가 있었는데 그라운드 폴트로 인한 문제였으므로 발전기에 물리적으로 접근해서 수동으로 재시작해야 했고, Flexential의 접근제어 시스템도 전원 공급이 되지 않아 오프라인 상태였으며, 현장 야간 근무자에 전문가가 포함되어 있지 않고 보안요원과 근무한 지 일주일 된 근무자 뿐
-  * 11:44~12:01(UTC)에 UPS가 방전되어 데이터센터의 모든 전기가 끊겼지만 Flexential은 이를 Cloudflare에 알리지 않았고 전 세계를 연결하는 라우터 2대가 내려간 후 이를 알게 되었고 데이터센터에 팀 파견
-  * Flexential은 12:28(UTC)에야 처음으로 전원 문제 공지
-  * 고가용성으로 설계되어 다른 두 데이터센터에서 동작해야 했지만 Kafka와 Clickhouse 두 서비스는 고가용성 클러스터에 있지 않고 PDX-DC04에만 있었으면 고가용성 클러스터에 이 두 서비스에 의존성을 가진 서비스가 존재. 고가용성 테스트도 했었지만 PDX-DC04를 모두 오프라인으로 하는 테스트는 진행하지 않았기에 이러한 의존성이 있다는 걸 놓침
-  * 또한 새로운 제품이나 데이터베이스가 고가용성 클러스터에 통합되도록 요구하는 절차 부족
-  * 12:48(UTC) Flexential은 발전기를 재 가동하고 과부하를 막기 위해 한 회로씩 점진적으로 켜다가 Cloudflare 회로에 문제가 있음을 발견하고 회로 차단기 교체를 시도했지만 보유 차단기보다 고장난 차단기가 많았기에 차단기 조달 필요
-  * 13:40(UTC) 복구 시간을 예측할 수 없었기에 유럽에 있는 재해복구 사이트에 페일오버 요청. 다행히 대부분의 서비스는 나머지 두 데이터센터에서 운영중이었으므로 컨트롤 플레인의 일부만 복구하면 되는 상황
-  * 13:43(UTC) 재해복구 사이트에서 첫 서비스 시작. 과부하가 걸려서 속도 제한을 구현해야 했지만 17:57(UTC) 안정적으로 서비스를 제공 가능
-  * 신규 제품 등 재해복구 사이트에서 동작하지 않는 서비스가 있었고(대표적으로 동영상 스트림) 서비스 복구를 위해 1) 재해 복구 사이트에서 서비스를 다시 구현하고 2) 고가용성 클러스터로 마이그레이션하는 두 트랙을 동시에 진행
-  * 22:48(UTC) Flexential이 회로 차단기를 모두 교체하고 전력을 복구했음을 확인했지만 하루종일 비상상태로 일한 Cloudflare 팀은 바로 이동하기 보다는 휴식 후 아침에 데이터센터로 가기로 결정. 약간 복구가 늦어지지만 추가적인 실수를 줄였다고 생각
-  * 11월 3일 새벽부터 PDX-DC04에서 작업을 시작하고 서버를 재구축하는데 3시간 소요
-  * 11월 4일 04시 25분(UTC) 완전히 복구
-* [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
-  * Cloudflare가 운영하는 DNS 서비스인 1.1.1.1에서 지난 6월 27일 연결이 안 되거나 성능이 저해되는 장애 발생
-    * 이 장애는 BGP(Border Gateway Protocol) 하이재킹과 라우팅 유출로 인한 장애
-  * Cloudflare가 RPKI를 사용해 1.1.1.0/24를 서명한 리소스로 사용하고 있었음에도
-    * 1.1.1.1/32를 블랙홀 경로로 여러 네트워크에서 수락
-    * AS262504(Nova)가 라우팅을 유출하면서 영향이 확대
 * [결제는 계속된다: 결제 담당자가 장애에 대응하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15236/)
 * [29CM 의 이굿위크 장애대응 기록. 이굿위크란? | by Greg Lee | Jan, 2024 | Medium](https://medium.com/@greg.shiny82/29cm-%EC%9D%98-%EC%9D%B4%EA%B5%BF%EC%9C%84%ED%81%AC-%EC%9E%A5%EC%95%A0%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-177b6b2f07a0)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/#more-100)
@@ -9483,6 +9400,92 @@ Programming
     * Windows Vista를 만들 때 EU가 이 접근을 막지 못하게 하면서 발생
   * 그럼에도 소프트웨어 엔지니어가 이러한 문제를 막기 위해 어떤 대처를 할 수 있는지를 설명
 * [IT 인프라 엔지니어 그룹 | https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3671104469870994/)
+
+## Troubleshooting, 장애 해결 Postmortem
+* [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
+* [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
+* [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+  * [Project Zero: A walk through Project Zero metrics](https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html)
+* [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
+* [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
+  * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
+  * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
+  * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애
+  * 원인을 알고 보면 쉽지만, 장애는 급한 상황이고 원인 파악에도 시간이 걸리는 경우가 많고 어떤 서비스든 겪을 수 있기 때문에 이렇게 각 상황에 가설을 세우고 원인을 찾아서 해결해 나가는 과정이 정리된 글 소중
+* [I Regret My $46k Website Redesign · mtlynch.io](https://mtlynch.io/tinypilot-redesign/) postmortem
+* [Roblox Return to Service 10/28-10/31 2021 - Roblox Blog](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
+  * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
+  * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
+  * Consul의 새 스트리밍 기능을 도입하면서 과도한 경합으로 인한 성능 저하가 발생했고 이 문제가 Consul 내부의 구현 문제와 BoltDB의 문제였기 때문에 해당 문제를 찾아서 해결하는 데 오랜 시간 소요
+  * [Roblox의 5000만 유저 서비스 복구 노하우 | 커리어리](https://careerly.co.kr/comments/87102)
+  * [Roblox의 4D 생성형 AI 로드맵 | GeekNews](https://news.hada.io/topic?id=15547)
+* [트래픽이 몰려온다, 장애 대응 - 어느날 갑자기 장애가 발생했다 3회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1nnYH0omM4qIl9WzeNBQtqdt8uMoDKgwvpu8gj3GSmPw/edit)
+* [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
+* [포스트모템은 대다수 회사에서 쓸모없다](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7312594552584876032-huT6/)
+  * 포스트모템은 사고가 발생했을 때 사고가 발생하기까지의 타임라인을 분석하고 원인을 찾아내어 프로세스를 수정하고 재발을 막는 방법
+  * 대다수 회사는 주먹구구로 일하기에 수정할 프로세스 자체가 없다
+  * 프로세스가 있다면 포스트모템의 목적이 프로세스의 개선이 될 수 있지만, 프로세스가 없다면 포스트모템의 목적은 단순한 마녀사냥... 시간만 흐르면 똑같은 사고는 또다시 발생
+  * 체르노빌, 레가소프(핵물리학자): 진실이 불쾌할 때, 진실의 존재를 잊을 때까지 우리는 거짓을 반복합니다
+* [쿠키런: 킹덤 길드 업데이트 이후 서비스 이슈 되돌아보기](https://tech.devsisters.com/posts/crk-hot-range-postmortem/)
+* [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
+  * ChatGPT에서 오픈소스 라이브러리의 버그로 다른 사용자의 채팅 기록의 제목을 볼 수 있는 문제가 발생했고 그 포스트모템
+  * 조사 결과 이 문제로 다른 사용자의 결제 정보를 볼 수 있는 가능성도 있었지만, 발생 조건이 까다로워서 실제로 확인된 사례는 아직 없음
+  * Redis에 사용자 정보를 캐시하고 있는데 이번 버그는 Redis 클라이언트인 redis-py에서 발생
+    * 연결 풀에서 연결을 재사용하면서 응답을 받기 전에 요청이 취소되면 다음 요청이 응답을 받게되어 발생, 지금은 패치
+* [2023-03-08 Incident: Infrastructure Connectivity Issue Affecting Multiple Regions | Datadog](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/)
+  * 지난 3월 Datadog에서 발생했던 대규모 장애에 대한 포스트모텀
+  * 장애는 UTC 기준 3월 8일 06:03에 시작 16:44 처음으로 주요 서비스를 다시 운영 시작 9일 08:58에 모든 지역 모든 서비스 운영 시작 10일 06:25분 과거 데이터를 채운 후 완전히 해결
+  * 장애 대응 팀은 10명의 선임 엔지니어링 리더, 70명의 현지 장애 지휘관, 450~750명의 장애 대응자로 구성된 비상 운영 센터 운영, 장애 해결까지 4교대 근무
+  * 실시간 텔레메트리 데이터가 가장 중요했기에 데이터의 정상적인 수집과 처리를 복구하는 데 먼저 집중, 서비스 복구후 과거 데이터를 복구
+  * 장애 원인은 systemd의 보안 업데이트가 여러 VM에 자동으로 적용되면서 systemd-networkd가 재시작, Kubernetes CNI 플러그인(Cilium)이 관리하는 라우팅 테이블을 systemd-networkd가 삭제하면서 노드가 오프라인 상태로 변경
+  * 정상적인 부팅 절차에서는 systemd-networkd를 먼저 시작하고 CNI 플러그인이 라우팅 테이블을 설치하기 때문에 새로 부팅하거나 재부팅된 노드에서는 해당 현상이 재현되지 않아서 문제 확인이 어려웠음
+  * 보안 업데이트는 기본 OS 이미지의 레거시 보안 업데이트 채널이 활성화되어 있었기 때문에 자동 업데이트 적용. OS 이미지를 최소한으로 사용했기에 기존에 이런 업데이트가 거의 없어서 놓쳤던 부분
+  * 각 리전에 있는 인프라는 의도적인 설계상 집적접인 네트워크 연결이 전혀 없었음에도 자동 업데이트가 UTC 06:00~07:00 사이의 윈도우로 설정되어 있었기 때문에 비슷한 시간에 여러 리전에 걸쳐서 장애가 발생하는 원인을 찾기가 쉽지 않았고 이렇게 간접적으로 연결되었다는 것을 생각하지 못했기에 초기 대응에서 원인을 찾지 못함
+  * 레거시 보안 업데이트 채널을 비활성화해서 자동 업데이트가 되지 않게 하고 systemd-networkd가 라우팅 테이블을 변경하지 않도록 수정
+* [2023-03-08 Incident: A Deep Dive Into the Platform-Level Impact | Datadog](https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/)
+  * 위 Datadog 장애의 플랫폼 레벨 영향을 더 깊게 살펴보는 포스트모텀
+  * Datadog을 오랫동안 Ubuntu를 사용했고 Kubernetes로 마이그레이션 하면서도 Ubuntu를 계속 사용했다. 최신 LTS를 사용하는 것이 목표이지만 보통 새 버전이 다 오면 몇 달 동안 기다리다가 테스트를 시작한다.
+  * Ubuntu 22.04는 2022년 6월 테스트 시작 2022년 11월부터 프로덕션에 점진적 적용 시작
+  * Ubuntu 20.04는 systemd v245 사용 Ubuntu 22.04는 v249 사용
+  * systemd v248에서 알지 못하는 IP 규칙을 플러시 하는 새 동작 추가 v249에서 이를 옵트아웃 할 수 있는 설정 추가, v248, 247에 백포트
+  * Ubuntu 22.04에 이 새로운 systemd-networkd 동작 포함, 그러나 앞에 글에서 얘기한 대로 systemd-networkd를 시작한 뒤에 라우팅 규칙을 추가하므로 문제가 되지 않음
+  * 2023년 3월 7일 Ubuntu 레포지토리에 systemd의 취약점 패치 등록, 이 패치를 설치하면 systemd의 구성 요소 모두 재시작. 2022년 말 Ubuntu 22.04를 적용하기 시작한 뒤로 systemd 패치는 없었기 때문에 systemd-networkd 재시작으로 발생하는 문제를 이전에 발견하지 못함
+  * 같은 CVE 패치가 Ubutun 20.04에 포함된 systemd v245에도 적용, 그러나 여기서는 IP 규칙이 플러시 되지 않으므로 Ubutun 20.04를 사용하는 노드는 영향 없었음
+  * 무인 업그레이드를 위해 Ubuntu 기본값을 사용하고 UTC 06:00, 18:00 두 번 1시간의 윈도우를 통해서 업그레이드 실행
+  * 이는 서버가 실행된 뒤에 systemd-networkd가 재시작된 경우에만 발생하기 때문에 노드마다 차이. Google Cloud에서는 UTC 3월 7일 18:50부터 패치가 적용된 systemd를 사용할 수 있던 것으로 보여 그 이전에 업데이트가 실행된 노드는 영향 없었음
+  * AWS, Azure, Google Cloud를 모두 쓰기 때문에 클라우드마다 설정이 약간 다르지만, Cilium이 Pod 네트워킹을 대체할 수 있도록 IP 규칙이 구성
+  * systemd-networkd가 재시작 되면서 이 규칙이 플러시되었기 때문에 클라우드마다 약간 다르지만 네트워크 문제 발생
+  * AWS는 헬스 체크 문제를 감지하고 인스턴스를 종료하고 재시작했기에 바로 복구, Google Cloud와 Azure는 네트워크만 끊어졌고 인스턴스는 괜찮았기 때문에 API를 통해 직접 재시작해서 복구. 이때문에 장애시에는 Google Cloud와 Azure가 더 심각한 상황이라고 판단했지만 Google Cloud와 Azure는 재시작할 때 디스크까지 같이 복구 되었지만 AWS는 인스턴스가 종료되면서 로컬 디스크의 데이터도 잃었기 때문에 이후 복구가 훨씬 어려웠음
+* [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage)
+  * [Cloudflare 장애 관련 타임라인 정리](https://www.facebook.com/jongho.seo.5811/posts/pfbid028zC6CmdrATz7JybUeZipr3vrNQxtjq62JD31mAUYftqTEzJ2PDnQoYEReCCNUKitl)
+  * 11월 2일 데이터센터의 전력이 나가면서 11월 2일 11:44(UTC)부터 11월 4일 04:25(UTC)까지 2일 정도 지속된 Cloudflare 장애의 포스트모템
+    * 장애의 심각성 때문인지 Cloudflare의 CEO인 Matthew Prince가 복구되자마자 바로 포스트모템 작성
+  * 컨트롤 플레인과 분석 서비스는 오리건주 힐즈버러 주변의 3개 데이터 센터에서 실행, 이 3개의 데이터 센터는 자연재해로 영향받지 않도록 충분히 떨어져 있으며 액티브-액티브로 클러스터를 이중화해서 운영할 수 있도록 충분히 가깝게 선택이 돼서 서로 데이터를 동기화
+  * 이 세 곳 중 하나는 PDX-DC04라고 불렀는데 가장 큰 분석 클러스터와 고가용성 클러스터의 1/3에 해당
+  * 11월 2일 08시 50분(UTC) PDX-DC04의 유틸리티 회사인 포틀랜드 제너럴 일렉트릭(PGE)의 전력 공급 중 하나에 예기치 않은 유지보수가 발생했고 데이터센터를 운영하는 Flexential는 발전기를 돌려서 이를 보완
+  * Flexential는 이를 Cloudflare에 알리지 않았고 발전기와 유틸리티 라인을 같이 가동한 이유를 Flexential이 아직 알려주지 않음
+  * 11:40(UTC) PGE의 변압기 중 하나에 그라운드 폴트가 발생했고 첫 유지보수 작업으로 인해 발생했을 것으로 추측
+  * 이 그라운드 폴트로 인한 보호 조치로 PDX-DC04의 모든 발전기가 중단되어 데이터센터의 전력 공급원이 모두 오프라인
+  * 데이터센터에 UPS 장비가 있고 10분 동안 버틸 수 있었지만 4분 만에 UPS에 문제가 생기기 시작, 데이터센터는 10분만에 발전기를 복구하지 못함
+  * 발전기를 복구하는데 3가지 문제가 있었는데 그라운드 폴트로 인한 문제였으므로 발전기에 물리적으로 접근해서 수동으로 재시작해야 했고, Flexential의 접근제어 시스템도 전원 공급이 되지 않아 오프라인 상태였으며, 현장 야간 근무자에 전문가가 포함되어 있지 않고 보안요원과 근무한 지 일주일 된 근무자 뿐
+  * 11:44~12:01(UTC)에 UPS가 방전되어 데이터센터의 모든 전기가 끊겼지만 Flexential은 이를 Cloudflare에 알리지 않았고 전 세계를 연결하는 라우터 2대가 내려간 후 이를 알게 되었고 데이터센터에 팀 파견
+  * Flexential은 12:28(UTC)에야 처음으로 전원 문제 공지
+  * 고가용성으로 설계되어 다른 두 데이터센터에서 동작해야 했지만 Kafka와 Clickhouse 두 서비스는 고가용성 클러스터에 있지 않고 PDX-DC04에만 있었으면 고가용성 클러스터에 이 두 서비스에 의존성을 가진 서비스가 존재. 고가용성 테스트도 했었지만 PDX-DC04를 모두 오프라인으로 하는 테스트는 진행하지 않았기에 이러한 의존성이 있다는 걸 놓침
+  * 또한 새로운 제품이나 데이터베이스가 고가용성 클러스터에 통합되도록 요구하는 절차 부족
+  * 12:48(UTC) Flexential은 발전기를 재 가동하고 과부하를 막기 위해 한 회로씩 점진적으로 켜다가 Cloudflare 회로에 문제가 있음을 발견하고 회로 차단기 교체를 시도했지만 보유 차단기보다 고장난 차단기가 많았기에 차단기 조달 필요
+  * 13:40(UTC) 복구 시간을 예측할 수 없었기에 유럽에 있는 재해복구 사이트에 페일오버 요청. 다행히 대부분의 서비스는 나머지 두 데이터센터에서 운영중이었으므로 컨트롤 플레인의 일부만 복구하면 되는 상황
+  * 13:43(UTC) 재해복구 사이트에서 첫 서비스 시작. 과부하가 걸려서 속도 제한을 구현해야 했지만 17:57(UTC) 안정적으로 서비스를 제공 가능
+  * 신규 제품 등 재해복구 사이트에서 동작하지 않는 서비스가 있었고(대표적으로 동영상 스트림) 서비스 복구를 위해 1) 재해 복구 사이트에서 서비스를 다시 구현하고 2) 고가용성 클러스터로 마이그레이션하는 두 트랙을 동시에 진행
+  * 22:48(UTC) Flexential이 회로 차단기를 모두 교체하고 전력을 복구했음을 확인했지만 하루종일 비상상태로 일한 Cloudflare 팀은 바로 이동하기 보다는 휴식 후 아침에 데이터센터로 가기로 결정. 약간 복구가 늦어지지만 추가적인 실수를 줄였다고 생각
+  * 11월 3일 새벽부터 PDX-DC04에서 작업을 시작하고 서버를 재구축하는데 3시간 소요
+  * 11월 4일 04시 25분(UTC) 완전히 복구
+* [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
+  * Cloudflare가 운영하는 DNS 서비스인 1.1.1.1에서 지난 6월 27일 연결이 안 되거나 성능이 저해되는 장애 발생
+    * 이 장애는 BGP(Border Gateway Protocol) 하이재킹과 라우팅 유출로 인한 장애
+  * Cloudflare가 RPKI를 사용해 1.1.1.0/24를 서명한 리소스로 사용하고 있었음에도
+    * 1.1.1.1/32를 블랙홀 경로로 여러 네트워크에서 수락
+    * AS262504(Nova)가 라우팅을 유출하면서 영향이 확대
+* [Postmortem on Next.js Middleware bypass - Vercel](https://vercel.com/blog/postmortem-on-next-js-middleware-bypass)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
