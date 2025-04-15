@@ -978,6 +978,8 @@ Docker
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
 * [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
 * [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
+* [망 밖은 위험 ⚠️ 해! 폐쇄망에서 Docker 이미지를 날렵하게 관리하는 법](https://blog.sionic.ai/enterprise-update-docker-strategy) docker-diff
+  * [온프레미스 폐쇄망 환경에서 Docker 이미지를 효율적으로 관리하기 | GeekNews](https://news.hada.io/topic?id=20331)
 * [Secure Container Images with Chainguard's Tooling: Melange, Apko & Wolfi • Matt Turner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bAgCyR0EkTY)
   * [VidiGo Secure Container Images with Chainguards Tooling:](https://vidigo.ai//chatbot/summary/bQ9OxkHaqkSa6xw)
     * 3. 도구의 고민과 해결 Bazel부터 Apko까지
