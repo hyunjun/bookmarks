@@ -786,6 +786,12 @@ Docker
 * logs
   * `docker logs -f [container id]`
   * [docker 컨테이너 log 남기기](https://hoony-gunputer.tistory.com/entry/docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-log-%EB%82%A8%EA%B8%B0%EA%B8%B0)
+* model
+  * [Docker Model Runner | Docker Docs](https://docs.docker.com/desktop/features/model-runner/)
+  * [Introducing Docker Model Runner | Docker](https://www.docker.com/blog/introducing-docker-model-runner/)
+  * [How to Run Gemma 3 Locally with Docker Model Runner | Docker](https://www.docker.com/blog/run-gemma-3-locally-with-docker-model-runner/)
+  * [Docker Desktop 4.40 Release | Docker](https://www.docker.com/blog/docker-desktop-4-40/)
+  * [Docker, 이제 AI 모델도 로컬에서 돌린다! Docker Model Runner 전격 분석 - YouTube](https://www.youtube.com/watch?v=mLTvWutlvJg)
 * nsenter
   * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
   * [docker nsenter - 쩨로그](https://jaeho.tistory.com/22)
