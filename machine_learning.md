@@ -360,6 +360,7 @@ Machine Learning
 * [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
 * [정보 이론 2편: KL-Divergence](https://brunch.co.kr/@chris-song/69)
 * [가장 쉬운 KL Divergence 완전정복!](https://www.youtube.com/watch?v=Dc0PQlNQhGY)
+* [크로스 엔트로피와 KL 발산에 대하여 | LinkedIn](https://www.linkedin.com/pulse/%ED%81%AC%EB%A1%9C%EC%8A%A4-%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%99%80-kl-%EB%B0%9C%EC%82%B0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-jin-hyung-park-0onkc/?trackingId=4qnLHILYGF46T3OYPSC1fA%3D%3D)
 * [초보를 위한 정보이론 안내서 - Entropy란 무엇일까](https://hyunw.kim/blog/2017/10/14/Entropy.html)
 * [초보를 위한 정보이론 안내서 - Cross Entropy 파헤쳐보기](https://hyunw.kim/blog/2017/10/26/Cross_Entropy.html)
 * [초보를 위한 정보이론 안내서 - KL divergence 쉽게 보기](https://hyunw.kim/blog/2017/10/27/KL_divergence.html)
