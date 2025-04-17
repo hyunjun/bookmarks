@@ -4816,6 +4816,8 @@ Python
     * [Uv의 킬러 기능은 즉석(ad-hoc) 환경을 쉽게 만드는 것 | GeekNews](https://news.hada.io/topic?id=18711)
   * [Python: EP122 - 미친듯이 빠른 uv에 대해 알아보자 - YouTube](https://www.youtube.com/watch?v=M_YER9jM9lY)
   * [진짜 빠르고 편한 파이썬 uv - YouTube](https://www.youtube.com/watch?v=1kZ-touiEQ8)
+  * [uv-demo: Demo of uv for a streamlined Python package management experience](https://github.com/prrao87/uv-demo)
+    * [파이썬 개발자라면 uv 를 사용합시다. Poetry, Anaconda, virtualenv 는 이제 그만! | by Sigrid Jin | Medium](https://sigridjin.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-uv-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A9%EC%8B%9C%EB%8B%A4-546d523f7178)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
