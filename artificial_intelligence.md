@@ -375,6 +375,7 @@ Artificial Intelligence
   * [르포 “한 줄 입력하니 게임이 뚝딱”… 실리콘밸리 ‘바이브 코딩’ 열풍 - 더밀크 | The Miilk](https://www.themiilk.com/articles/a4e956344?u=1b5c382f&t=aae08ea52&from)
   * [바이브 코딩 (AI 코딩 에이전트 사용법) - WikiDocs](https://wikidocs.net/book/17550)
   * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
+  * [Vibe Coding 기업 적응기 Part3: 바이브를 타며 AI 시대 코딩의 의미 되짚기 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part3-%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A5%BC-%ED%83%80%EB%A9%B0-ai-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%9D%98%EB%AF%B8-%EB%90%98%EC%A7%9A%EA%B8%B0-cd32adcf7d08)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -974,6 +975,7 @@ Artificial Intelligence
   * [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
   * [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
   * [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
+  * [Vibe Coding 기업 적응기 Part2: 설계 문서 기반 Vibe Coding으로 MVP 개발에 도전 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part2-%EC%84%A4%EA%B3%84-%EB%AC%B8%EC%84%9C-%EA%B8%B0%EB%B0%98-vibe-coding%EC%9C%BC%EB%A1%9C-mvp-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%A0%84-2327853dab31)
   * [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
     * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
   * [What I learned using CursorAI every day as an Engineer – Codeaholicguy](https://codeaholicguy.com/2025/04/12/what-i-learned-using-cursorai-every-day-as-an-engineer/)
@@ -981,6 +983,8 @@ Artificial Intelligence
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)
   * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
+* [v0 by Vercel](https://v0.dev/)
+  * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
