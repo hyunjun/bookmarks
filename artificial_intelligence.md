@@ -814,6 +814,8 @@ Artificial Intelligence
 * [그게 뭔가요 생성형 AI에서 ‘추론’이란 – 바이라인네트워크](https://byline.network/2025/04/1-1295/) inference와 reasoning
 * [(1) John Carmack on X: "@rubyrangerr I think you are misunderstanding what this tech demo actually is, but I will engage with what I think your gripe is — AI tooling trivializing the skillsets of programmers, artists, and designers. My first games involved hand assembling machine code and turning graph paper" / X](https://x.com/ID_AA_Carmack/status/1909311174845329874)
   * [게임 프로그래밍에서 AI에 대한 John Carmack의 견해 | GeekNews](https://news.hada.io/topic?id=20223)
+* [One of the biggest lessons I learned when I first moved to Silicon Valley… | Jeetu Patel | 댓글 351](https://www.linkedin.com/feed/update/urn:li:activity:7315171315848564736/)
+  * [박종천 - Shopify CEO 의 원문도 꼭 읽으셔야 합니다. 그리고, Jeetu 의 글도 너무 좋습니다. AI... | Facebook](https://www.facebook.com/soubau/posts/pfbid0fAMxtHWvHiPLi5PSqkmoGtZjhw6AhYFjXXsvnYfxReBh3oPgDavt4DecHk1uwDsbl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
