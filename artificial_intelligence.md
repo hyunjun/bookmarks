@@ -528,6 +528,8 @@ Artificial Intelligence
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
     * [MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY](https://dytis.tistory.com/113)
+  * [genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade usage in mind](https://github.com/googleapis/genai-toolbox)
+    * [Introduction | MCP Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
   * [github-mcp-server: GitHub's official MCP Server](https://github.com/github/github-mcp-server)
   * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
   * [MCP Servers](https://mcp.so/)
