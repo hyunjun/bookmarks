@@ -1000,6 +1000,7 @@ NLP
   * [BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins](https://github.com/OpenBMB/BMTools)
   * [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
+  * [ChatGPT o3의 환각 현상 유도 방법](https://velog.io/@skynet/ChatGPT-o3%EC%9D%98-%ED%99%98%EA%B0%81-%ED%98%84%EC%83%81-%EC%9C%A0%EB%8F%84-%EB%B0%A9%EB%B2%95)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
     * OpenAI에서 ChatGPT의 기능을 확장할 수 있는 플러그인을 공개했고 현재는 승인받아야 개발 가능
     * 첫 플러그인은 Expedia, FiscalNote, Instacart, KAYAK, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram, Zapier이 작성
