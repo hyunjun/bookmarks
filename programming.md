@@ -5598,6 +5598,7 @@ Programming
 * [Causal profiling – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4454)
 * [더 많은 정보가 필요하면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=fUCMIf_4Pnc) 기술적인 이야기보다는 문화, processs, management에 대한 이야기
 * [디버깅 원칙 | kciter.so](https://kciter.so/posts/principles-of-debugging/)
+* [딜리버리 프로덕트 개발팀의 개발 문화 - 주니어 디버깅 스터디 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2025-delivery-debug-study/)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
@@ -7733,6 +7734,7 @@ Programming
 * [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring)
   * [(번역) 좋은 리팩터링 vs 나쁜 리팩터링 | Ykss](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
 * [(09/19) 좋은 리팩토링 vs 나쁜 리팩토링 - YouTube](https://www.youtube.com/watch?v=kCfRKWXFiYU)
+* [코드 블록을 이리저리 옮기는 것, 그건 중요한 일입니다](https://subtleflo.com/ko/2025/4/18/moving-code-important)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
