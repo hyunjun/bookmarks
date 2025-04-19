@@ -957,6 +957,8 @@ Artificial Intelligence
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
+* [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+  * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * Cursor AI
@@ -977,6 +979,9 @@ Artificial Intelligence
   * [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
   * [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
   * [Vibe Coding 기업 적응기 Part2: 설계 문서 기반 Vibe Coding으로 MVP 개발에 도전 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part2-%EC%84%A4%EA%B3%84-%EB%AC%B8%EC%84%9C-%EA%B8%B0%EB%B0%98-vibe-coding%EC%9C%BC%EB%A1%9C-mvp-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%A0%84-2327853dab31)
+  * [Vibe코딩의 실제와 프롬프트 해킹으로 확인한.. : 네이버블로그](https://blog.naver.com/fstory97/223805503153)
+    * 결론: json은 1. 더 적은 토큰으로 2. 더 정확한 규칙을 3. 더 효율적으로 처리
+    * 특히 Cursor IDE와 같은 도구에서는 이러한 구조화된 규칙이 AI의 코드 생성/수정 품질을 크게 향상
   * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
   * [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
     * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
