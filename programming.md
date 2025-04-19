@@ -3749,6 +3749,8 @@ Programming
     * Linked List는 앞뒤 아이템만 업데이트해 주면 되지만 조회할 때 풀 스캔 필요
   * Atlassian이 이러한 문제를 해결하기 위해 LexoRank 작성
     * 사전적 정렬을 위해 `Bucket|FixedKey:VariableKey`를 사용해 O(1) 정렬 가능, 공간 고갈 시 무중단으로 재조정
+* ['Programming/Jira&Confluence' 카테고리의 글 목록 :: 1D1C](https://1d1cblog.tistory.com/category/Programming/Jira%26Confluence)
+  * [Confluence ScriptRunner 이용하여 버전 댓글 없이 업데이트 시 이메일로 알림 :: 1D1C](https://1d1cblog.tistory.com/532)
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
 * [Tegon AI](https://www.tegon.ai/)
   * [tegon: Tegon is an open-source, AI-first alternative to Jira, Linear](https://github.com/tegonhq/tegon)
