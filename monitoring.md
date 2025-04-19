@@ -328,6 +328,7 @@ Monitoring
   * [Sentry로 사내 에러 로그 수집 시스템 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
   * [라이브 서비스의 친구 Sentry. 이호성 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=28PAPRLit4Q)
   * [Sentry로 우아하게 프론트엔드 에러 추적하기 | Kakao Pay Tech](https://tech.kakaopay.com/post/frontend-sentry-monitoring)
+  * [선제적 장애 대응을 위한 Sentry 최적화 적용기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/21604/)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [SigNoz - an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz)
   * [Open source APM | SigNoz](https://signoz.io/)
