@@ -428,7 +428,25 @@ Artificial Intelligence
     * 긴 컨텍스트 LLM을 처리하는 새로운 아키텍처 제안. 대기 시간/비용 교환을 위한 지능적인 라우팅, 검색 증가형 KV 캐싱을 잠재적인 전략으로 제안
   * [모두의AI-MOAI Gemini Google Workspace Guide 한국어 번역 자료](https://mo-ai.notion.site/AI-MOAI-Gemini-Google-Workspace-Guide-99bd8d96c6ea40e6ac91d98ad24067d5)
   * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
-  * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
+  * [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
+  * [Gemini 의 숨겨진 유용한 기능과 colab과 함께 사용하기 - YouTube](https://www.youtube.com/watch?v=f2JapEcvr9k)
+    * 생성형 AI인 Gemini와 구글 코랩을 연동하여 데이터를 분석하는 방법 소개
+    * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능 
+    * 광고 데이터 분석과 같은 프롬프트를 작성하면 Gemini가 파이썬 코드를 생성하여 다양한 분석 기법 사용 가능
+    * 생성된 코드를 구글 코랩에서 실행하면 데이터 분석 및 시각화 가능
+    * Gemini와 코랩을 연동하여 데이터 분석 작업을 더욱 효율적으로 수행 가능
+  * [입사하고 4년만에 나간 Gemini 공모전 회고](https://jyami.tistory.com/160)
+    * [geminiApiDevKorea/diary_flutter: 다이어리 플러터 프로젝트](https://github.com/geminiApiDevKorea/diary_flutter)
+    * [geminiApiDevKorea/gem-api: gem api server](https://github.com/geminiApiDevKorea/gem-api)
+  * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
+  * [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
+  * Gemini 2.0
+    * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
+    * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
+    * [Gemini 2.0의 동영상과 이미지 비전 기능 : 네이버 블로그](https://blog.naver.com/ulsancoding/223696043077)
+      * [Gemini2_vision.ipynb의 사본 - Colab](https://colab.research.google.com/drive/1VRG_gPtBOhcmKz61ANYOw6KAWM0UkUp0?usp=sharing)
+    * [🤖📚누구나 쉽게 만드는 Gemini 2.0 Flash Exp 멀티모달 노트북 챗봇](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%93%9A%EB%88%84%EA%B5%AC%EB%82%98-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-Gemini-20-Flash-Exp-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%B1%97%EB%B4%87)
+  * [🔥Gemini 2.5 Pro-Exp: LMArena 1위! 구글의 최신 플래그십 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5%E2%99%8AGemini-25-Pro-Exp-LMArena-1%EC%9C%84-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD-AI-%EB%AA%A8%EB%8D%B8)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
@@ -987,6 +1005,7 @@ Artificial Intelligence
     * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
   * [What I learned using CursorAI every day as an Engineer – Codeaholicguy](https://codeaholicguy.com/2025/04/12/what-i-learned-using-cursorai-every-day-as-an-engineer/)
   * [How Cursor (AI IDE) Works - by Shrivu Shankar](https://blog.sshh.io/p/how-cursor-ai-ide-works)
+  * [The Problem with “Vibe Coding” : dylanbeattie.net](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)

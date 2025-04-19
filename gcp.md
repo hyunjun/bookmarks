@@ -169,22 +169,6 @@ Google Cloud Platform GCP
 * [Python GCP ubuntu에 아나콘다 설치 및 jupyter 자동 실행 - 미완성의신](https://unfinishedgod.netlify.app/2023/08/17/python-gcp-ubuntu-jupyter/)
 * [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
-* [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
-* [Gemini 의 숨겨진 유용한 기능과 colab과 함께 사용하기 - YouTube](https://www.youtube.com/watch?v=f2JapEcvr9k)
-  * 생성형 AI인 Gemini와 구글 코랩을 연동하여 데이터를 분석하는 방법 소개
-  * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능 
-  * 광고 데이터 분석과 같은 프롬프트를 작성하면 Gemini가 파이썬 코드를 생성하여 다양한 분석 기법 사용 가능
-  * 생성된 코드를 구글 코랩에서 실행하면 데이터 분석 및 시각화 가능
-  * Gemini와 코랩을 연동하여 데이터 분석 작업을 더욱 효율적으로 수행 가능
-* [입사하고 4년만에 나간 Gemini 공모전 회고](https://jyami.tistory.com/160)
-  * [geminiApiDevKorea/diary_flutter: 다이어리 플러터 프로젝트](https://github.com/geminiApiDevKorea/diary_flutter)
-  * [geminiApiDevKorea/gem-api: gem api server](https://github.com/geminiApiDevKorea/gem-api)
-* [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
-* [Gemini 2.0의 동영상과 이미지 비전 기능 : 네이버 블로그](https://blog.naver.com/ulsancoding/223696043077)
-  * [Gemini2_vision.ipynb의 사본 - Colab](https://colab.research.google.com/drive/1VRG_gPtBOhcmKz61ANYOw6KAWM0UkUp0?usp=sharing)
-* [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
-* [🤖📚누구나 쉽게 만드는 Gemini 2.0 Flash Exp 멀티모달 노트북 챗봇](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%93%9A%EB%88%84%EA%B5%AC%EB%82%98-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-Gemini-20-Flash-Exp-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%B1%97%EB%B4%87)
-* [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
 * [tldraw computer](https://computer.tldraw.com/)
   * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
