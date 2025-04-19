@@ -1401,7 +1401,8 @@ Deep Learning
 * [PyG](https://pyg.org/)
   * [Ramona Bendias, Matthias Fey: Practical Session - Learning on Heterogeneous Graphs with PyG - YouTube](https://www.youtube.com/watch?v=ORh-3Nhz_mo)
 
-# Image to image
+# Image
+* [TrainRLHFmodel_for_ImageClassification: A reinforcement learning from human feedback (RLHF) implementation for image classification between ants and bees](https://github.com/bemoregt/TrainRLHFmodel_for_ImageClassification)
 * [Whisk - labs.google/fx](https://labs.google/fx/tools/whisk)
   * [구글, 새로운 생성형 AI 툴 ‘위스크’ 출시](https://blog.google/intl/ko-kr/company-news/technology/whisk-kr/)
   * [✨🖼️구글 위스크(Whisk): 이미지 조합으로 이미지를 생성하는 AI 도구](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%F0%9F%96%BC%EF%B8%8F%EA%B5%AC%EA%B8%80-%EC%9C%84%EC%8A%A4%ED%81%ACWhisk-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%95%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC)
