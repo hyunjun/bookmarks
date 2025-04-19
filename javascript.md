@@ -4721,6 +4721,7 @@ Javascript
   * React 18에 도입된 Concurrent 렌더러 설명
   * Concurrent 렌더러의 도입으로 이제는 렌더링을 중단할 수 있게 되어서 급한 렌더링과 급하지 않은 렌더링을 구분해서 처리 가능
   * 급하지 않은 렌더링을 위해 변화하는 상태에 `useDeferredValue`와 `useTransition`를 사용해서 별도로 렌더링을 처리하고 중단될 수 있게 구성하는 방법 설명
+* [코드 한 줄로 경험하는 React 동시성의 마법. 안녕하세요! 리멤버앤컴퍼니 파운데이션 크루에서 Web Frontend… | by 성정민 | Apr, 2025 | remember-tech](https://tech.remember.co.kr/%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EA%B2%BD%ED%97%98%ED%95%98%EB%8A%94-react-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%A7%88%EB%B2%95-5ff18aee148d) useTransition
 * [Concept of React Scheduler :: Normal Coder](https://yeoulcoding.me/337)
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
