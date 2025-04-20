@@ -446,6 +446,8 @@ Artificial Intelligence
     * [Gemini 2.0의 동영상과 이미지 비전 기능 : 네이버 블로그](https://blog.naver.com/ulsancoding/223696043077)
       * [Gemini2_vision.ipynb의 사본 - Colab](https://colab.research.google.com/drive/1VRG_gPtBOhcmKz61ANYOw6KAWM0UkUp0?usp=sharing)
     * [🤖📚누구나 쉽게 만드는 Gemini 2.0 Flash Exp 멀티모달 노트북 챗봇](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%93%9A%EB%88%84%EA%B5%AC%EB%82%98-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-Gemini-20-Flash-Exp-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%B1%97%EB%B4%87)
+  * [Start building with Gemini 2.5 Flash - Google Developers Blog](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
+    * [릴리즈노트 구글 Gemini 2.5 Flash 소개: 추론 강화, 속도·비용 우선시 | 요즘IT](https://yozm.wishket.com/magazine/detail/3082/)
   * [🔥Gemini 2.5 Pro-Exp: LMArena 1위! 구글의 최신 플래그십 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5%E2%99%8AGemini-25-Pro-Exp-LMArena-1%EC%9C%84-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD-AI-%EB%AA%A8%EB%8D%B8)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
