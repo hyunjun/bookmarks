@@ -203,6 +203,7 @@ Product
 * [너무 신기한 요즘 키보드 - YouTube](https://www.youtube.com/watch?v=oHK74O5G9us) Filco & UHK
 * [나무 키보드를 만드는 과정. 100만원 상당의 고급 목재 키보드를 만드는 일본의 장인. - YouTube](https://www.youtube.com/watch?v=ki8je1ZMjmM)
 * [키보드 똑똑하게 쓰는 프로그램 | 'VIA' 사용법 - YouTube](https://www.youtube.com/watch?v=oz0yCiogCAU)
+* [키보드사면 모니터는 덤? 심지어 10.1인치 터치 디스플레이? 이색키보드 4종 모아봄 ㅋㅋㅋ AIZO 클래식 - YouTube](https://www.youtube.com/watch?v=g0n5zmcbypE)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
@@ -211,6 +212,7 @@ Product
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
 * Dygma [인체공학의 정수, 디자인은 보너스 - 디그마 디파이 (Dygma Defy) 어고노믹 키보드 - YouTube](https://www.youtube.com/watch?v=pjUWSKP-4G8)
 * [펀키스 공식 홈페이지](https://funkeys.co.kr/)
+* freewrite traveler [80만원짜리 키보드의 맛... | 디지털 타자기라고 들어 보셨나요? | 프리라이트 트래블러 freewrite traveler 리뷰 - YouTube](https://www.youtube.com/watch?v=MikFdx4qBR8)
 * [GEONWORKS](https://geon.works/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
