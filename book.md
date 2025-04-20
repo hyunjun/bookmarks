@@ -501,6 +501,9 @@ Book
   * [대온실 수리 보고서 - Jun’s Substack](https://recur.substack.com/p/74c)
   * [대온실 수리 보고서 -](https://jh4hj.tistory.com/entry/%EB%8C%80%EC%98%A8%EC%8B%A4-%EC%88%98%EB%A6%AC-%EB%B3%B4%EA%B3%A0%EC%84%9C)
   * [Jun - 대온실 수리 보고서](https://hyunjun.github.io/skunk-html/%EB%8C%80%EC%98%A8%EC%8B%A4-%EC%88%98%EB%A6%AC-%EB%B3%B4%EA%B3%A0%EC%84%9C.html)
+* [우리가 사랑한 영화의 탄생 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ed%95%9c-%ec%98%81%ed%99%94%ec%9d%98-%ed%83%84%ec%83%9d/)
+  * ★★★☆☆ 2025.04.20
+  * [우리가 사랑한 영화의 탄생](https://www.notion.so/1003/1db3f0c2cf65809883e3e3a577c7c56e)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
