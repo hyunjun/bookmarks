@@ -376,6 +376,7 @@ Artificial Intelligence
   * [바이브 코딩 (AI 코딩 에이전트 사용법) - WikiDocs](https://wikidocs.net/book/17550)
   * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
   * [Vibe Coding 기업 적응기 Part3: 바이브를 타며 AI 시대 코딩의 의미 되짚기 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part3-%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A5%BC-%ED%83%80%EB%A9%B0-ai-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%9D%98%EB%AF%B8-%EB%90%98%EC%A7%9A%EA%B8%B0-cd32adcf7d08)
+  * [AUD DEV DAY 2025 우리가 알던 코딩의 종말 / 한빛앤 임백준 대표 기조강연 - YouTube](https://www.youtube.com/watch?v=F5cyVIECgaI)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
