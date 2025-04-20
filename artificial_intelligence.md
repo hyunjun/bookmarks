@@ -986,11 +986,12 @@ Artificial Intelligence
   * [OpenAI Codex CLI 전격 해부! 터미널에서 AI 코딩 에이전트가?! (o3, o4미니, GPT4.1 활용) - YouTube](https://www.youtube.com/watch?v=tN5EVoLMMuU)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
-* Cursor AI
+* [Cursor - The AI Code Editor](https://www.cursor.com/)
   * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
   * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
   * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
   * [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
+  * [Cursor AI 초보자 가이드 - YouTube](https://www.youtube.com/watch?v=Jk5-a25sPzY)
   * [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
   * [I Made an iOS App in MINUTES with This AI Tool! - YouTube](https://www.youtube.com/watch?v=oe3Jn6FRoII)
   * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트](https://www.youtube.com/watch?v=KRJv7YMkjaA)
@@ -1014,6 +1015,7 @@ Artificial Intelligence
   * [What I learned using CursorAI every day as an Engineer – Codeaholicguy](https://codeaholicguy.com/2025/04/12/what-i-learned-using-cursorai-every-day-as-an-engineer/)
   * [How Cursor (AI IDE) Works - by Shrivu Shankar](https://blog.sshh.io/p/how-cursor-ai-ide-works)
   * [The Problem with “Vibe Coding” : dylanbeattie.net](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+  * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
 * [Replit – Build apps and sites with AI](https://replit.com/)
