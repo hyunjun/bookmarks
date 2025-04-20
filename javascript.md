@@ -334,6 +334,7 @@ Javascript
 * [Javascript Closure는 Private 변수 만드는 용도인가? | by Seunglak Choi | 네이버 플레이스 개발 블로그 | Apr, 2021 | Medium](https://medium.com/naver-place-dev/javascript-closure%EB%8A%94-private-%EB%B3%80%EC%88%98-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9A%A9%EB%8F%84%EC%9D%B8%EA%B0%80-d5868489c421)
 * [JavaScript - closure - YouTube](https://www.youtube.com/watch?v=bwwaSwf7vkE)
 * [javascript Closure(클로저) 정리](https://devkingdom.tistory.com/331)
+* [10분 만에 이해하는 자바스크립트 ‘클로저(Closure)’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3072/)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
