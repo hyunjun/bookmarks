@@ -295,6 +295,8 @@ Javascript
 * [JavaScript Best Practices — Things to Avoid](https://medium.com/better-programming/javascript-best-practice-things-to-avoid-be8e8fa30cca)
 * [번역 11가지 극도로 유용한 JavaScript 팁](https://chaewonkong.github.io/posts/11-useful-js-tips.html)
 * [javascript-tips-and-tidbits: A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding](https://github.com/nas5w/javascript-tips-and-tidbits)
+* [Debunking Common NodeJS Misconceptions | by Manik Mudholkar | Medium](https://medium.com/@manikmudholkar831995/debunking-common-nodejs-misconceptions-7172b41d7afe)
+  * [번역 Node.js에 대한 일반적인 오해 바로잡기](https://velog.io/@surim014/debunking-common-nodejs-misconceptions)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
