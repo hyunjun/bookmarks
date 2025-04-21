@@ -845,6 +845,8 @@ Artificial Intelligence
 * [One of the biggest lessons I learned when I first moved to Silicon Valley… | Jeetu Patel | 댓글 351](https://www.linkedin.com/feed/update/urn:li:activity:7315171315848564736/)
   * [박종천 - Shopify CEO 의 원문도 꼭 읽으셔야 합니다. 그리고, Jeetu 의 글도 너무 좋습니다. AI... | Facebook](https://www.facebook.com/soubau/posts/pfbid0fAMxtHWvHiPLi5PSqkmoGtZjhw6AhYFjXXsvnYfxReBh3oPgDavt4DecHk1uwDsbl)
 * [**YC를 통해 본 AI 에이전트의 현재와 미래 | 요즘IT**](https://yozm.wishket.com/magazine/detail/3068/)
+* [‘나는 왜 AI를 써도 좋은 보고서가 안 나올까?’ (김덕중 Firb AI연구소장) - YouTube](https://www.youtube.com/watch?v=Mpk4LNZ_P4c)
+* [엑셀만 넣어도 보고서 작성! 입 벌어지게 하는 AI툴들 (김덕중 Firb AI연구소장) - YouTube](https://www.youtube.com/watch?v=6IsYJy3ussQ)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
