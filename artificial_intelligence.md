@@ -562,6 +562,8 @@ Artificial Intelligence
   * [PyHub MCP Tools](https://mcp.pyhub.kr/)
     * [pyhub-mcptools](https://github.com/pyhub-kr/pyhub-mcptools)
     * [누구나 쉽게 Claude와 함께 엑셀 MCP 협업하기 (개발툴 NO 설치, 설치 3분 컷 가능) - YouTube](https://www.youtube.com/watch?v=MfPBhVPGz_4)
+  * [py-mcp-ko-weather](https://github.com/jikime/py-mcp-ko-weather)
+    * [기상청 Open API를 활용한 날씨 MCP 서버를 만들어보자. (1)](https://devway.tistory.com/47)
   * [py-mcp-naver: python MCP NAVER](https://github.com/pfldy2850/py-mcp-naver)
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
