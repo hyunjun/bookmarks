@@ -342,6 +342,8 @@ Artificial Intelligence
     * [MCP vs. A2A: Friends or Foes? - by Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes)
   * [Google A2A - a First Look at Another Agent-agent Protocol | HackerNoon](https://hackernoon.com/google-a2a-a-first-look-at-another-agent-agent-protocol)
     * [Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews](https://news.hada.io/topic?id=20274)
+  * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
+    * [인공지능 A2A란 무엇인가? 데모(demo.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223839552262)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
   * [Agent Development Kit](https://google.github.io/adk-docs/)
