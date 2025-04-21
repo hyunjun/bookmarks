@@ -1023,10 +1023,12 @@ App
   * [Zed 에디터, SSH Remote 기능 지원 | GeekNews](https://news.hada.io/topic?id=17529)
 
 # Etc
-* [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
-* [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
+* [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
+* [ferdium-app: All your services in one place, built by the community](https://github.com/ferdium/ferdium-app)
+* [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
+* Rambox [Workspace simplifier - Rambox](https://rambox.app/)
 * textografo
   * [플로 차트를 손쉽게 만들자](https://brunch.co.kr/@sonujung/24)
 * VS Code, visual studio code
@@ -1915,6 +1917,7 @@ App
   * [How to setup your Mac Terminal to be beautiful - YouTube](https://www.youtube.com/watch?v=wNQpDWLs4To) oh-my-zsh, powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting, gruvbox itermcolors, colorls gem
   * [iTerm2 and AI hype overload - Xe Iaso](https://xeiaso.net/notes/2024/ai-hype/)
     * [iTerm2 와 AI 과대 광고 | GeekNews](https://news.hada.io/topic?id=14973)
+  * [dimidium: A terminal color scheme crafted with science](https://github.com/dofuuz/dimidium)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -2555,6 +2558,10 @@ App
       * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
+* [remark - markdown processor powered by plugins](https://remark.js.org/)
+  * [remark-lint: plugins to check (lint) markdown code style](https://github.com/remarkjs/remark-lint)
+    * [remark-lint - remark-lint를 사용하여 마크다운(Markdown) 파일의 작성 스타일을 검사해 봅시다](https://deku.posstree.com/ko/code_quality/remark-lint/)
+    * [study-linters/remark-lint-example at main · dev-yakuza/study-linters · GitHub](https://github.com/dev-yakuza/study-linters/tree/main/remark-lint-example)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
 * [Saner.AI - Personal AI Note & Search Engine](https://saner.ai/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
@@ -2631,6 +2638,7 @@ App
 
 # Search
 * [DuckDuckGo — 개인정보 보호, 쉬워졌네요](https://duckduckgo.com/)
+  * [DuckDuckGo !Bangs](https://duckduckgo.com/bangs)
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
 
 # Social media
