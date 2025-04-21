@@ -114,6 +114,8 @@ Finance
   * [왜 미국 주식인가 | GeekNews](https://news.hada.io/topic?id=18777)
 * [증권사 CES 2025 리포트(pdf) 모음](https://freewlan.tistory.com/1092)
   * [국내 증권사 CES 2025 리포트 파일 모음 | GeekNews](https://news.hada.io/topic?id=18881)
+* [GPL](https://www.notion.so/1003/GPL-1dc3f0c2cf6580b3837fc46566e8da88?pvs=12)
+  * [Jun - GPL](https://hyunjun.github.io/skunk-html/gpl.html)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
