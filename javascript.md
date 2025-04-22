@@ -2085,6 +2085,7 @@ Javascript
   * [아일랜드 아키텍쳐](https://velog.io/@composite/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [Getting Started With Astro: The All-In-One Web Framework](https://semaphoreci.com/blog/astro-framework)
   * [Astro와 Bun 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/914)
+  * [하루만에 홈페이지 만들기 with Astro - 마도학자 로스카츠의 AI 머신러닝](https://losskatsu.github.io/frontend/onday-homepage/)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * [awesome-jsx: ⚡ A curated list of awesome JSX ecosystem and resources](https://github.com/composite/awesome-jsx)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
@@ -5153,6 +5154,9 @@ Javascript
 * [React Anti-Pattern: Stop Passing Setters Down the Components Tree | Matan Borenkraout](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components)
 * [You don't need Next.js](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
   * [당신에겐 Next.js가 필요하지 않습니다 - 우리가 Next에서 React로 이관한 이유 | GeekNews](https://news.hada.io/topic?id=18547)
+* [이제 React는 프론트엔드? 아니, 풀스택이다](https://velog.io/@composite/%EC%9D%B4%EC%A0%9C-React%EB%8A%94-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%EB%8B%88-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%8B%A4)
+* [React Tech Stack 2025](https://www.robinwieruch.de/react-tech-stack/)
+  * [2025년 리액트 기술 스택 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/3029/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
