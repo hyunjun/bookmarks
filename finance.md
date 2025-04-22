@@ -116,6 +116,8 @@ Finance
   * [국내 증권사 CES 2025 리포트 파일 모음 | GeekNews](https://news.hada.io/topic?id=18881)
 * [GPL](https://www.notion.so/1003/GPL-1dc3f0c2cf6580b3837fc46566e8da88?pvs=12)
   * [Jun - GPL](https://hyunjun.github.io/skunk-html/gpl.html)
+  * [GPL 채권 투자의 안전성, 장단점, 고려사항을 알아봅시다](https://rune-fehu.tistory.com/entry/GPL-%EC%B1%84%EA%B6%8C-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%95%88%EC%A0%84%EC%84%B1-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [목돈굴리기 채권투자 "또 하나의월급 GPL채권.. : 네이버블로그](https://blog.naver.com/sunnny82/223125901983)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
