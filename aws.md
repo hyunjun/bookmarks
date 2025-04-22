@@ -571,6 +571,7 @@ AWS
 * [AWS상에서 비용 효율적으로 영상 컨텐츠 화질 개선하기 – Video Super Resolution(VSR) on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/super-resolution-solution-on-aws/)
 * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
 * [Harness the power of MCP servers with Amazon Bedrock Agents | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
+* [Alexa+ gets us a step closer to ambient interfaces | All Things Distributed](https://www.allthingsdistributed.com/2025/04/alexa-plus-gets-us-a-step-closer-to-ambient-interfaces.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
