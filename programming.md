@@ -330,6 +330,7 @@ Programming
 * [좋은 코드 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/28/%ec%a2%8b%ec%9d%80-%ec%bd%94%eb%93%9c/)
 * [좋은 코드를 만드는 이유, 좋은 코드를 만드는 방법](https://velog.io/@joosing/why-make-good-code-how-to-make-good-code)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
+* [2025 DevOps의 본질과 최신 트렌드](https://bcho.tistory.com/1465)
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
 * [#2 SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
 * [#3 SRE의 주요 지표 SLI/SLO (Service Level Indicatior, Service Level Objectives)](https://bcho.tistory.com/1328)
