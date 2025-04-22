@@ -872,6 +872,8 @@ Apache
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
   * 디테일하게 'Destionation Topic의 Partition별 offset' 을 보고 싶은 경우 Destination Topic을 모니터링 시스템에 연결하는 방식
+* [Kafka MCP Server | kafka-mcp-server](https://tuannvm.com/kafka-mcp-server/)
+  * [kafka-mcp-server: A Model Context Protocol (MCP) server for Apache Kafka implemented in Go, leveraging franz-go and mcp-go.](https://github.com/tuannvm/kafka-mcp-server)
 * [Kafka Offset Monitor - an app to monitor your kafka consumers and their position (offset) in the queue](https://github.com/quantifind/KafkaOffsetMonitor)
 * [kafka-sink-connector: Kafka Connect connector that reads JSON data from Apache Kafka and send JSON record to Another Kafka topic](https://github.com/kakao/kafka-sink-connector)
   * [카프카 커넥트 소개](https://www.linkedin.com/posts/andersonchoi_github-kakaokafka-sink-connector-kafka-activity-7019173388220858368-1j8m/)
