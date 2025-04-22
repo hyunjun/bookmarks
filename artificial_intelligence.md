@@ -268,6 +268,8 @@ Artificial Intelligence
   * 엔지니어분들은 정말 엔지니어링에 힘쓸수 있는 시기. 어떻게 하면, 빨리, 더 안정되게, 더 오래 지속되게, scalableg하게, 더 efficient 하게
 * [재택근무로 가능했던 일, 전부 AI가 할 수 있습니다 - by Taeho - 브라이언의 이어지는 이야기](https://briandwjang.substack.com/p/ai-085)
 * [AI, 그리고 Engineer | Jbee.io](https://jbee.io/articles/essay/ai-and-engineer)
+* [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
+  * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -340,6 +342,7 @@ Artificial Intelligence
   * [구글이 제대로 작정을하고 나왔습니다. Agent간 통신 A2A와 Agent 개발키트 - YouTube](https://www.youtube.com/watch?v=zGwb-agU3yg)
   * [MCP vs. A2A](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7316420758648315907-Tzuy/)
     * [MCP vs. A2A: Friends or Foes? - by Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/mcp-vs-a2a-friends-or-foes)
+  * [A2A 를 비지니스에 적용해볼 수 있을까 PoC 수준의 구현](https://www.linkedin.com/posts/rascal-hyunjun_%EA%B7%BC%EB%9E%98-%EB%93%A4%EC%96%B4-a2a-%EB%A5%BC-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-poc-%EC%88%98%EC%A4%80%EC%9D%98-%EA%B5%AC%ED%98%84-activity-7319676649581555712-Ae51/)
   * [Google A2A - a First Look at Another Agent-agent Protocol | HackerNoon](https://hackernoon.com/google-a2a-a-first-look-at-another-agent-agent-protocol)
     * [Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews](https://news.hada.io/topic?id=20274)
   * [adk-bedrock-samples: A collection of sample agents built with Agent Development (ADK) and Amazon Bedrock](https://github.com/ksmin23/adk-bedrock-samples)
@@ -546,6 +549,7 @@ Artificial Intelligence
   * [MCP – Model Context Protocol 보안 위험 :: Channy's Blog](https://channy.creation.net/blog/1937)
     * [MCP Servers are not safe!. Serious security risks are associated… | by Mehul Gupta | Data Science in Your Pocket | Apr, 2025 | Medium](https://medium.com/data-science-in-your-pocket/mcp-servers-are-not-safe-bfbc2bb7aef8)
     * [The MCP Authorization Spec Is... a Mess for Enterprise – Software Blog](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
+  * [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -568,6 +572,8 @@ Artificial Intelligence
     * [누구나 쉽게 Claude와 함께 엑셀 MCP 협업하기 (개발툴 NO 설치, 설치 3분 컷 가능) - YouTube](https://www.youtube.com/watch?v=MfPBhVPGz_4)
   * [py-mcp-ko-weather](https://github.com/jikime/py-mcp-ko-weather)
     * [기상청 Open API를 활용한 날씨 MCP 서버를 만들어보자. (1)](https://devway.tistory.com/47)
+    * [기상청 Open API를 활용한 날씨 MCP 서버를 만들어보자. (2)](https://devway.tistory.com/48)
+    * [기상청 Open API를 활용한 날씨 MCP 서버를 만들어보자. (3)](https://devway.tistory.com/49)
   * [py-mcp-naver: python MCP NAVER](https://github.com/pfldy2850/py-mcp-naver)
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
@@ -849,6 +855,11 @@ Artificial Intelligence
 * [**YC를 통해 본 AI 에이전트의 현재와 미래 | 요즘IT**](https://yozm.wishket.com/magazine/detail/3068/)
 * [‘나는 왜 AI를 써도 좋은 보고서가 안 나올까?’ (김덕중 Firb AI연구소장) - YouTube](https://www.youtube.com/watch?v=Mpk4LNZ_P4c)
 * [엑셀만 넣어도 보고서 작성! 입 벌어지게 하는 AI툴들 (김덕중 Firb AI연구소장) - YouTube](https://www.youtube.com/watch?v=6IsYJy3ussQ)
+* [AI 인사이트 3대 컨설팅사 인사이트 번역 & 정리 (McKinsey / Bain / BCG)](https://cheesechaser.tistory.com/89)
+* [The Era of Experience Paper.pdf](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+  * [최승준 - 경험의 시대에 오신 것을 환영합니다 데이비드 실버, 리처드 S. 서튼 요약 우리는 인공지능 분야에서... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02sCyqpwVeg6vszf8oHZZ2nU5AjzEg5TmUbT8nhVsiqJPJ6UbGnz4ynnGXZ18NQSKQl)
+  * [최승준 - 리처드 서튼, 튜링상 수상 인터뷰 "경험으로부터 배우는 것, 그것이 핵심입니다" 🎉 튜링상 수상이라는... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0pBbB5SefJXzqmNivd8RiwUsTFdV5daEV1mZJiP2NWAEuxNuAbr1ksGoxyB7Y3Lthl)
+  * [최승준 - 인간 데이터만으로 충분한가? 🤔: 안녕하세요, 구글 딥마인드 팟캐스트에 다시 오신 것을 환영합니다. 오늘... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0mDhAYShQ3ssSuLBadcbMfsbfj6sqymdzACzb4XP9pG1vNe8APeLK5DHMLBncFuZGl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -943,6 +954,8 @@ Artificial Intelligence
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
   * [FELO 파워포인트 120장 만들어주는 괴물같은 생성형 AI 서비스 펠로 - YouTube](https://www.youtube.com/watch?v=XGnsPWrnRrY)
+* [FLORA ©](https://www.florafauna.ai/)
+  * [이미지를 업로드하거나 텍스트 입력으로 이미지를 생성할 뿐아니라 (마치 비지오처럼) 노드를 연결해서 계속 새로운 형태로 변형](https://www.linkedin.com/posts/duckjungkim_%ED%8F%89%EC%86%8C%EC%97%90-ai%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%82%98-%EC%98%81%EC%83%81%EC%9D%84-%EB%A7%8C%EB%93%A4-%EA%B8%B0%ED%9A%8C%EA%B0%80-%EC%97%86%EC%97%88%EB%8A%94%EB%8D%B0-%EC%9D%B4-%ED%88%B4%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EB%8B%88-activity-7319369168649170945-DVEY/)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
@@ -965,6 +978,8 @@ Artificial Intelligence
   * [💡NotebookLM: 구글의 최신 AI 연구 어시스턴트 리뷰](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1NotebookLM-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EC%97%B0%EA%B5%AC-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
+* otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
+  * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
 * [PDFMathTranslate: PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译](https://github.com/blog2i2j/Byaidu.._..PDFMathTranslate)
   * [충격적인 pdf 파일 번역의 혁신, 역대급 번역 툴, PDFMathTranslate 공개!](https://stock79.tistory.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B8-pdf-%ED%8C%8C%EC%9D%BC-%EB%B2%88%EC%97%AD%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%B2%88%EC%97%AD-%ED%88%B4-PDFMathTranslate-%EA%B3%B5%EA%B0%9C)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
@@ -987,6 +1002,8 @@ Artificial Intelligence
   * [내가 AI 코드 편집기 사용을 중단한 이유 | GeekNews](https://news.hada.io/topic?id=20145)
 * [AI 코드 에디터 Cursor vs Windsurf, 뭐가 더 좋을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2955/)
 * [이 AI 못 쓰는 개발자, 즉시 대체됩니다 | AI 코딩 어시스턴트 | 제미나이2.0 | 깃헙코파일럿 | 커서 | 리플릿 - YouTube](https://www.youtube.com/watch?v=OkOKrUxjAR0)
+* [비교한 툴: v0, Lovable, Replit, Bolt, Tempo, Mocha](https://www.linkedin.com/posts/hwidongbae_ai-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91-%EB%8F%84%EA%B5%AC%EB%93%A4v0-lovable-replit%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%B4%EB%8B%AC%EB%9D%BC%EB%8A%94-activity-7319165851096555520-XJj5/)
+* [알파의 보고서 LLM 통합 분석 보고서: 코딩 자동화 및 실무 병합 작업 기반 ToC 최적화 전략](https://blog.naver.com/fstory97/223829162926)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
@@ -1019,6 +1036,8 @@ Artificial Intelligence
     * 결론: json은 1. 더 적은 토큰으로 2. 더 정확한 규칙을 3. 더 효율적으로 처리
     * 특히 Cursor IDE와 같은 도구에서는 이러한 구조화된 규칙이 AI의 코드 생성/수정 품질을 크게 향상
   * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
+  * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
+    * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
   * [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
     * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
   * [What I learned using CursorAI every day as an Engineer – Codeaholicguy](https://codeaholicguy.com/2025/04/12/what-i-learned-using-cursorai-every-day-as-an-engineer/)
