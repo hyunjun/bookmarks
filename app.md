@@ -861,6 +861,7 @@ App
   * [Deploying Containers on NixOS](https://bkiran.com/blog/deploying-containers-nixos)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Quire - Dream. Plan. Achieve.](https://quire.io/)
 * [Trello](https://trello.com/)
   * [5천만 명이 이용하는 협업 ·업무관리 툴··· ‘트렐로’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/206324)
 
