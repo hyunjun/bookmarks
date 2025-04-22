@@ -598,6 +598,8 @@ Vision
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
 * [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
+* [mistral_ocr_webapp: mistral-ocr-latest application](https://github.com/myeong-ga/mistral_ocr_webapp)
+  * [AGI KR | "문서 OCR과 대화형 UI 통합, 복잡하고 시간 소모적이지 않으신가요 | Facebook](https://www.facebook.com/groups/agikr/posts/2552430411764668/)
 * [nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)
 * [olmOCR – Open-Source OCR for Accurate Document Conversion](https://olmocr.allenai.org/)
   * [olmOCR - The Open OCR System - YouTube](https://www.youtube.com/watch?v=38loqDtlLok)
