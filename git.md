@@ -1486,6 +1486,10 @@ Git
   * [쉽게 살 수 있을까 ? :: GitHub Copilot 소송..](https://hl1itj.tistory.com/263)
   * [코파일럿, 1년 동안 써봤습니다](https://pxdstory.tistory.com/1825)
     * [깃허브 코파일럿, 1년 동안 써보고 느낀 점들 | 요즘IT](https://yozm.wishket.com/magazine/detail/2931/)
+  * [AI로 AI 웹앱을 만듭니다. 코딩 몰라도 5분만에 뚝딱! 첨부터 끝까지 모두 무료 - YouTube](https://www.youtube.com/watch?v=0GWfJoDgQZ0)
+  * [(1) 생활코딩 | Vibe Coding - 이제 앱 개발 직접 하세요 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/29482852161328606/)
+    * [GitHub Copilot - YouTube](https://www.youtube.com/playlist?list=PLRQGNaa1hGF1eBvNMVquJ5_hFw4mW7_MO)
+  * [나만의 Visual Studio Code Copilot 지침 만들고 활용하기](https://d2.naver.com/helloworld/6615449)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
