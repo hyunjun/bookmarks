@@ -159,57 +159,6 @@
   * [2021-composition-vs-inheritance](https://github.com/ArjanCodes/2021-composition-vs-inheritance)
 * ["Java Composition Tutorial: How to Use Composition to Create Powerful Code" - YouTube](https://www.youtube.com/watch?v=fwTeYl4x7h4)
 
-# Dependency Injection
-* [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
-* [Your DI framework is killing your code](http://blog.activelylazy.co.uk/2015/09/25/your-di-framework-is-killing-your-code/)
-* [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
-* [테스트 용이성(TESTBILITY) 향상을 위한 DI(DEPENDENCY INJECTION)](http://prostars.net/228)
-* [**DI는 IoC를 사용하지 않아도 된다**](https://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)
-  * 인수를 취하는 것이 DI의 개념의 대부분
-  * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
-* [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
-  * DI와 DIP의 차이
-* [의존성 역전의 원칙 제대로 이해하기 - YouTube](https://www.youtube.com/watch?v=CwzOiLQgkbs)
-* [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
-* [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/) react IoC
-* [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
-* [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
-* [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion)
-* [Demystifying the Dependency Inversion Principle in Angular](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
-* [헐리우드 원칙](http://doublem.org/Hollywood-Principle/)
-* [You Don’t Need a Dependency Injection Container](https://hackernoon.com/you-dont-need-a-dependency-injection-container-10a5d4a5f878)
-* [Dependency Injection is EVIL](http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html)
-* [세 가지 DI 컨테이너로 향하는 저녁 산책](http://www.nextree.co.kr/p11247)
-* [A quick intro to Dependency Injection: what it is, and when to use it](https://medium.freecodecamp.org/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
-* [우아한 객체지향-2019년 6월 우아한 Tech 세미나 참석 후기](https://jojoldu.tistory.com/425) class간 의존성 결과에 대한 이야기
-* [Dependency Injection(DI)에 대해서 알아보자](https://developer88.tistory.com/172)
-* [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
-* [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
-* [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
-* [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
-* [.NET6 Dependency Injection — One Interface, Multiple Implementations | by Bernardo Teixeira | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014)
-* [Dependency Inversion Principle of SOLID | DIP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/dependency-inversion-principle.html)
-* [Dependency Inversion vs. Dependency Injection | by Guy Erez | Feb, 2022 | Better Programming](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
-* [From dependency injection to dependency rejection](https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
-* [Loosely-coupled 그리고 스프링 프레임워크](https://brunch.co.kr/@graypool/512)
-* [DI 적용도 생각하는 힘과 함께 하자](https://brunch.co.kr/@graypool/520)
-* [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
-* [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
-* [의존성 주입 안티패턴: Ambient Context · Soojin Ro](https://soojin.ro/blog/ambient-context-anti-pattern)
-* [의존성 주입에 대한 오해와 진실 · Soojin Ro](https://soojin.ro/blog/dependency-injection-basics)
-* [의존성 주입을 하면 잃게 되는 것 · Soojin Ro](https://soojin.ro/blog/three-dimensions-of-di)
-* [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
-  * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
-
-## Dependency Injection Python
-* [Python Dependency Injection](https://www.hides.kr/1053)
-  * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
-* [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
-* [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
-* [Dependency Injection Explained In One Minute // Python Tips - YouTube](https://www.youtube.com/watch?v=-rf_wzK6vPU)
-* [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
-  * [**파이썬 오픈소스 라이브러리 개발기**](https://hides.tistory.com/1056)
-
 # Design Pattern
 * 케빈 TV
   * [30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
@@ -296,6 +245,59 @@
 * [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)
 * [예제로 배우는 스프링 입문 5. Inversion of Control](https://www.youtube.com/watch?v=NZ_lPFvu9oU)
+* [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
+  * DI와 DIP의 차이
+* [의존성 역전의 원칙 제대로 이해하기 - YouTube](https://www.youtube.com/watch?v=CwzOiLQgkbs)
+* [Jun - Inversion of control, dependency injection](https://hyunjun.github.io/skunk-html/inversion-of-control-dependency-injection.html)
+* [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
+* [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion)
+* [Demystifying the Dependency Inversion Principle in Angular](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
+* [Dependency Inversion Principle of SOLID | DIP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/dependency-inversion-principle.html)
+* [Dependency Inversion Principle in Java : SOLID Principles | by Rajkumar | Mar, 2025 | Medium](https://medium.com/@ProgrammingTutorials/mastering-dependency-inversion-in-java-58320e5143f8)
+
+## IoC Inversion of Control -> Dependency Injection
+* [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
+* [Your DI framework is killing your code](http://blog.activelylazy.co.uk/2015/09/25/your-di-framework-is-killing-your-code/)
+* [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
+* [테스트 용이성(TESTBILITY) 향상을 위한 DI(DEPENDENCY INJECTION)](http://prostars.net/228)
+* [**DI는 IoC를 사용하지 않아도 된다**](https://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)
+  * 인수를 취하는 것이 DI의 개념의 대부분
+  * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
+* [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
+* [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/) react IoC
+* [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
+* [헐리우드 원칙](http://doublem.org/Hollywood-Principle/)
+* [You Don’t Need a Dependency Injection Container](https://hackernoon.com/you-dont-need-a-dependency-injection-container-10a5d4a5f878)
+* [Dependency Injection is EVIL](http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html)
+* [세 가지 DI 컨테이너로 향하는 저녁 산책](http://www.nextree.co.kr/p11247)
+* [A quick intro to Dependency Injection: what it is, and when to use it](https://medium.freecodecamp.org/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
+* [우아한 객체지향-2019년 6월 우아한 Tech 세미나 참석 후기](https://jojoldu.tistory.com/425) class간 의존성 결과에 대한 이야기
+* [Dependency Injection(DI)에 대해서 알아보자](https://developer88.tistory.com/172)
+* [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
+* [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
+* [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
+* [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
+* [.NET6 Dependency Injection — One Interface, Multiple Implementations | by Bernardo Teixeira | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014)
+* [Dependency Inversion vs. Dependency Injection | by Guy Erez | Feb, 2022 | Better Programming](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
+* [From dependency injection to dependency rejection](https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
+* [Loosely-coupled 그리고 스프링 프레임워크](https://brunch.co.kr/@graypool/512)
+* [DI 적용도 생각하는 힘과 함께 하자](https://brunch.co.kr/@graypool/520)
+* [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
+* [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+* [의존성 주입 안티패턴: Ambient Context · Soojin Ro](https://soojin.ro/blog/ambient-context-anti-pattern)
+* [의존성 주입에 대한 오해와 진실 · Soojin Ro](https://soojin.ro/blog/dependency-injection-basics)
+* [의존성 주입을 하면 잃게 되는 것 · Soojin Ro](https://soojin.ro/blog/three-dimensions-of-di)
+* [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
+  * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
+
+### IoC Inversion of Control -> Dependency Injection -> Python
+* [Python Dependency Injection](https://www.hides.kr/1053)
+  * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
+* [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
+* [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
+* [Dependency Injection Explained In One Minute // Python Tips - YouTube](https://www.youtube.com/watch?v=-rf_wzK6vPU)
+* [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
+  * [**파이썬 오픈소스 라이브러리 개발기**](https://hides.tistory.com/1056)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
