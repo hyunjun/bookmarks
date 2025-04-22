@@ -966,6 +966,12 @@ Business
 * [더블 체크는 효과 없다](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7317667976671825921-6uk5/) 하나의 과업을 한 사람이 책임 owner, 더 좋은 방법은 크로스 체크
 * [Jobs-to-be-Done | A Comprehensive Guide](https://strategyn.com/jobs-to-be-done/)
   * [Jobs-to-be-Done: A Framework for Customer Needs | by Tony Ulwick | JTBD + Outcome-Driven Innovation](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
+* [조직의 비효율성을 낳는 예시](https://www.linkedin.com/posts/divercity_%ED%9A%8C%EC%82%AC%EB%A5%BC-%EB%8B%A4%EB%8B%88%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EA%BD%A4-%EB%A7%8E%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%ED%98%84%EC%83%81%EC%9D%B4-%EC%9E%88%EB%8B%A4-%EB%A7%8E%EC%9D%80-%EA%B5%AC%EC%84%B1%EC%9B%90%EB%93%A4%EC%9D%B4-activity-7318103164379963392-l7tf/)
+  * 1. 리소스-Impact 비율
+  * 2 .서로 상충하는 업무
+  * 3. 업무 순서
+  * 4. 프로세스를 개선해야 하는 일 vs. Ad-hoc으로 처리할 일
+  * 5. 안해도 되는 일
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -2265,6 +2271,14 @@ Business
   * 7단계: 행동하고 실패하면 보고
   * 8단계: 행동하라 No 보고
 * [핵심은 직원들을 믿고 맡겨야 하는가, 아니면 리더가 적극적으로 관여해야 하는가 하는 것이 아니다. 언제 위임하고, 언제 관여할 지를 리더가 어떻게 올바르게 판단할 수 있는가가 훨씬 더 중요](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%95%B5%EC%8B%AC%EC%9D%80-%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%84-%EB%AF%BF%EA%B3%A0-%EB%A7%A1%EA%B2%A8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-%EC%95%84%EB%8B%88%EB%A9%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-activity-7237249940601630722-tkx1/)
+* [같이 의논하고 한 명이 결정한다](https://www.linkedin.com/posts/divercity_%EA%B0%99%EC%9D%B4-%EC%9D%98%EB%85%BC%ED%95%98%EA%B3%A0-%ED%95%9C-%EB%AA%85%EC%9D%B4-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4-1%EC%9C%84%EC%9E%84%EC%9D%B4%EB%9E%80-%EC%9C%84%EC%9E%84%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%B4-%EA%B2%B0%EC%A0%95%ED%95%A0-activity-7320185650522046466-yxks/)
+  * 1. 위임이란?
+  * 2. 각자가 스스로 결정하는 비율이 높아져야 한다
+  * 3. 위임의 핵심은 '방향'이다
+  * 4. 수평문화는 모두가 의견을 자유롭게 낼 수 있다는 것을 의미한다
+  * 5. 결정은 한 명이 한다
+  * 6. 그 한 명은 누구인가?
+  * 7. 위임은 언제라도 회수될 수 있다
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
