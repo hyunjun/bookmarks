@@ -3028,6 +3028,7 @@ Business
   6. 명태균은 마케터가 아니다
   7. 내란의 기동성 뒤에는 TF가 있다
   8. 쇠퇴하는 조직의 문화, 조직 침묵
+* [집을 짓는데 기초 공사와 기둥과 보, 문과 창호가 필요한 것처럼, 200명 이상 규모의 모든 기업에겐, 경쟁력 있는 지속성장을 위한 필수 요소들이 있다](https://www.facebook.com/wonjoon.hyoung/posts/pfbid0vWqV2sfdKPADuL7qCNAVPK1dMfsJK1A3rEysaYY8i96z56KuPZsAbiQQLe8q3rWgl)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
