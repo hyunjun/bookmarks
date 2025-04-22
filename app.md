@@ -232,6 +232,9 @@ App
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
+* [filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
+  * [Welcome | File Browser](https://filebrowser.org/)
+  * [(EP.08) 월 결제없이 나만의 대용량 웹하드 마음껏 사용하기 - YouTube](https://www.youtube.com/watch?v=QzOy0apnkjk)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
