@@ -6435,8 +6435,6 @@ Javascript
   * [Pitfalls to Avoid in Playwright for Node.js - DEV Community](https://dev.to/appsignal/pitfalls-to-avoid-in-playwright-for-nodejs-3hpl)
   * [멈춰! 버그 멈춰! E2E 테스트로 버그 멈추기 Feat. Playwright | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/28/e2e-test-with-playwright.html)
   * [사용자 동작을 중심으로 Playwright로 E2E 테스트 작성하기 - Part 1 | Onepredict Engineering](https://onepredict.github.io/playwright-e2e-part1/)
-  * [테스트 코드 직접 작성하지 마세요 | Cursor + Playwright - YouTube](https://www.youtube.com/watch?v=3zOkNHf6sik)
-    * [Playwright 테스트 작성 가이드 · GitHub](https://gist.github.com/devbrother2024/7803601764476f79dbdfaf312a7e2454)
   * [Next js 기본앱으로 1분만에 playwright 맛보기 - YouTube](https://www.youtube.com/watch?v=uGCZamw5bt8)
   * [토스ㅣSLASH 24 - 클릭 한 번으로 테스트 45만 개 완료! 테스트 자동화 플랫폼 구축기 - YouTube](https://www.youtube.com/watch?v=cGks5f2f0YE)
   * [PlaywrightExamples](https://github.com/ek121268/PlaywrightExamples)
