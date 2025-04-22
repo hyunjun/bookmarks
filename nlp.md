@@ -1240,6 +1240,11 @@ NLP
   * The author argues that this approach can improve the efficiency and accuracy of AI responses by providing clear and structured input
   * The author also provides a sample JSON prompt for a security awareness training bot and discusses the potential advantages of using this approach, such as easier programmatic manipulation and versioning.
 * [프롬프트 엔지니어링 - YouTube](https://www.youtube.com/playlist?list=PLlqh_fi1f9ZFyBddaeaSC0-pOHAAm-UpG)
+* [GPT 프롬프트 개발자도 놀란 1% 비밀코드: 실제 전문가들이 사용하는 예시 - 파이널의 건강한 이야기](https://write-final.com/gpt-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%b5%9c%ec%a0%81%ed%99%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ec%83%9d%ec%84%b1%ed%98%95/)
+* [강수진 박사님(Sujin Kang Ph.D.)의 영상기반 프롬프트 제작을 이런 방식으로 해봐도 유용](https://www.linkedin.com/posts/duckjungkim_%EC%96%B4%EC%A0%9C-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%95%9C-%EA%B0%95%EC%88%98%EC%A7%84-%EB%B0%95%EC%82%AC%EB%8B%98sujin-kang-phd%EC%9D%98-%EC%98%81%EC%83%81%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-activity-7318120029823123456-cvFc/)
+  * 1) NotebookLM에서 노트를 하나 만들고 소스에 강수진 박사님의 영상을 추가함.
+  * 2) 채팅창에서 이전과 동일하게 "~강수진 박사님이라면 어떻게 프롬프트를 만들까?"를 입력
+  * 3) 마인드맵에서 강박사님의 영상을 구조화 시켜서 확인 (참고 목적)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -2449,6 +2454,7 @@ NLP
   * CPU에서 직접 실행되는 초고속 1비트 LLM 추론 프레임워크인 bitnet.cpp 오픈소스화
   * GPU 없이도 로컬 장치에서 최대 6배 향상된 속도와 82% 더 적은 에너지 소비로 100억 개의 파라미터 모델 실행 가능
   * [AI판 LK-99 사실이었다...지금 사용 가능 | Microsoft 1-bit으로 학습한 BitNet | 경쟁 모델보다 앞선 성능에도, 겨우 400MB 사용, CPU로 구동 가능 - YouTube](https://www.youtube.com/watch?v=XHoj9MrEFA8)
+  * [Microsoft just changed the game! 🔥](https://www.linkedin.com/posts/sumanth077_microsoft-just-changed-the-game-theyve-ugcPost-7318891713194872835-uIcr/)
 * [browser-use: Open-Source Web Automation library with any LLM](https://github.com/gregpr07/browser-use)
   * [Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스 | GeekNews](https://news.hada.io/topic?id=17665)
   * [🤖Browser Use: AI가 스스로 웹을 탐색하고 상호작용하는 혁신적 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Browser-Use-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9B%B9%EC%9D%84-%ED%83%90%EC%83%89%ED%95%98%EA%B3%A0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%84%EA%B5%AC)
@@ -3622,6 +3628,7 @@ NLP
     * LLM as a judge 관점을 활용한 single point , reference based , pair wise based scoring ...
   * [Graph RAG은 무엇인가?](https://turingpost.co.kr/p/graph-rag)
     * [RAG의 한계와 Graph RAG의 이점](https://www.linkedin.com/posts/jinsoo-lee33_graph-rag%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-rag%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-graph-rag%EC%9D%98-%EC%9D%B4%EC%A0%90-activity-7218047969256779779-BNHI/)
+  * [Graph RAG의 모든 것 - DEV Community](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
   * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
