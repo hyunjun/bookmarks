@@ -1051,6 +1051,8 @@ Artificial Intelligence
   * [What I learned using CursorAI every day as an Engineer – Codeaholicguy](https://codeaholicguy.com/2025/04/12/what-i-learned-using-cursorai-every-day-as-an-engineer/)
   * [How Cursor (AI IDE) Works - by Shrivu Shankar](https://blog.sshh.io/p/how-cursor-ai-ide-works)
   * [The Problem with “Vibe Coding” : dylanbeattie.net](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
+  * [테스트 코드 직접 작성하지 마세요 | Cursor + Playwright - YouTube](https://www.youtube.com/watch?v=3zOkNHf6sik)
+    * [Playwright 테스트 작성 가이드 · GitHub](https://gist.github.com/devbrother2024/7803601764476f79dbdfaf312a7e2454)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
