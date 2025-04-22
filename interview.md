@@ -34,6 +34,12 @@ Interview
 * [The Rise And Looming Fall Of The Engineering Whiteboard Interview](http://www.forbes.com/sites/vivekravisankar/2015/05/04/the-rise-and-looming-fall-of-the-engineering-whiteboard-interview/)
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [왜 화이트보드 코딩 인터뷰를 하는가?. 지난 7월 4일 루닛케어(이하 케어)의 백엔드 채용 프로세스에… | by 김준형 | Dec, 2022 | Medium](https://medium.com/@ghilbut/%EC%99%9C-%ED%99%94%EC%9D%B4%ED%8A%B8%EB%B3%B4%EB%93%9C-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%A5%BC-%ED%95%98%EB%8A%94%EA%B0%80-6c15e5c868ff)
+* [백엔드 기술 면접에서 준비해야할 것들](https://www.linkedin.com/posts/yuyeonoh_%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC%ED%95%A0-%EA%B2%83%EB%93%A4-%EC%B1%84%EC%9A%A9%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EC%A2%8B%EC%A7%80%EB%8A%94-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8-activity-7318452201620652032-WC3P/)
+  * 1. 다이어 그램 그리기
+  * 2. 인증/보안 알아두기
+  * 3. Write 요청이 많은 경우에 대한 해결방안 알아두기
+  * 4. 자신이 사용했던 기술과 사용하지 않은 기술 장단점 파악하기
+  * 5. 시스템 설계에 대해 공부하기
 * [Embarrassing code I wrote under stress at a job interview](http://www.smashcompany.com/technology/embarrassing-code-i-wrote-under-stress-at-a-job-interview)
 * [Technical Phone Screen HOWTO](http://caseywest.com/technical-phone-screen-howto/)
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
@@ -271,6 +277,11 @@ Interview
 * [개발자 기술 면접. 지난 16년 동안 8개의 회사를 거치면서, 후보자의 입장에서 여러 번의… | by Greg Lee | Sep, 2024 | Medium](https://medium.com/@greg.shiny82/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-144a1fe28ca4)
 * [막막한 개발자 면접, 1분 자기소개 준비하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2832/)
 * [코딩 테스트 이모저모 | kciter.so](https://kciter.so/posts/coding-test-story/)
+* [Top-tier 후보자를 파악하는 4가지 방법](https://www.linkedin.com/posts/candid-juan_swmtnktxuslh-trgsqb-stwtfn-activity-7319869949785583616-39XQ/)
+  * 1️⃣ 답변이 구조화되어 있는가
+  * 2️⃣ ‘프로젝트를 설명할 때, ‘왜’를 먼저 말하는가
+  * 3️⃣ 커리어 목표를 갖고 있는가
+  * 4️⃣ 인생의 목표가 있는가
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
