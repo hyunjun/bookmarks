@@ -2321,7 +2321,7 @@ Deep Learning
 * [GPT and BERT: A Comparison of Transformer Architectures - DEV Community](https://dev.to/meetkern/gpt-and-bert-a-comparison-of-transformer-architectures-2k46)
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
-* [어텐션 메커니즘과 transfomer(self-attention) | by platfarm tech team | platfarm | Medium](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
+* [어텐션 메커니즘과 transformer(self-attention) | by platfarm tech team | platfarm | Medium](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
 * [A Bird’s Eye View of Research on Attention](https://machinelearningmastery.com/a-birds-eye-view-of-research-on-attention/)
 * [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
