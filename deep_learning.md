@@ -2277,6 +2277,7 @@ Deep Learning
 * [Long Short-Term Memory Networks Are Dying: What’s Replacing It? | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe)
 * [Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
 * [An Introduction To Recurrent Neural Networks And The Math That Powers Them](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
+* [5. 시간을 잇는 딥러닝: 순환 신경망(RNN.. : 네이버블로그](https://blog.naver.com/softrelu/223762820791)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
