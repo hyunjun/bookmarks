@@ -44,6 +44,7 @@
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 * [올바른 객체지향 설계 - 'solid 원칙' 이란?](https://dimohy.slogger.today/oriented-solid)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
+* [복잡한 클래스를 엮어서 단순한 복합체를 만드는 OCP](https://brunch.co.kr/@graypool/2191)
 * [객체지향 SOLID 원칙 - SRP, OCP, LSP, ISP, DIP](https://devkingdom.tistory.com/296)
 * [Why SOLID principles are still the foundation for modern software architecture - Stack Overflow Blog](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
 * [Interface Segregation Principle of SOLID | ISP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/interface-segregation-principle.html)
