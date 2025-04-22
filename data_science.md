@@ -148,6 +148,7 @@ Data Science
 * [버즈피드의 교훈: 분산 미디어와 데이터 분석](http://slownews.kr/39933)
 * [실리콘 밸리 데이터 사이언티스트의 하루](http://www.slideshare.net/jaimiekwon/ss-45274089)
 * [“데이터의 잡음 속 숨겨진 진실을 찾아라”](http://www.itdaily.kr/news/articleView.html?idxno=64170)
+* [김성완 - 잡음(Noise)이 유용한 이유 왼쪽에 있는 연속적인 음영을 가운데처럼 단순 흑백 음영으로 줄이면 50%... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02Pr2tdBZA78AToDrgwX6qK39LjVRRpQjkSAyiPcFMYUvwveV5ddW1CFz5zfxaTNVKl)
 * [Data Science From Scratch: First Principles with Python](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/)
 * [Three Things About Data Science You Won't Find In the Books](http://blog.mikiobraun.de/2015/03/three-things-about-data-science.html)
 * [Weekly Digest, January 8](https://www.datasciencecentral.com/profiles/blogs/weekly-digest-january-8)
