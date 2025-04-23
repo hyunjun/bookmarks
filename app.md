@@ -1756,6 +1756,7 @@ App
   * [SketchyBar: A highly customizable macOS status bar replacement](https://github.com/FelixKratz/SketchyBar)
 * [skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
   * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
+* [Snippety - Productivity App for macOS](https://snippety.app/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
