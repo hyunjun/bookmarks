@@ -379,6 +379,7 @@ Artificial Intelligence
     * [(1) 권정혁 - 주니어 개발자의 역습 AI 기반 코딩의 발전 단계는 다음과 같음 1. 전통적인 코딩 (2022) 2.... | Facebook](https://www.facebook.com/xguru/posts/pfbid02dkZ5Z12gg1hmFBpmvJ79dmZFV6DCHc1VgE86rZLzrg3rwU1iJarostkgxM4sob3ql)
     * [주니어 개발자의 역습 | GeekNews](https://news.hada.io/topic?id=20068)
   * [바이브 코딩 - 개발자들이 없어진다고 하는데, 바이브 코딩 오해와 진실](https://bcho.tistory.com/1472)
+  * [바이브vibe 코드는 재앙인가? : 네이버 블로그](https://blog.naver.com/oldpens/223843619326) 개발자에 대한 일반적인 이야기이나 거기에 최근의 현상을 덧붙여 내용 전개
   * [르포 “한 줄 입력하니 게임이 뚝딱”… 실리콘밸리 ‘바이브 코딩’ 열풍 - 더밀크 | The Miilk](https://www.themiilk.com/articles/a4e956344?u=1b5c382f&t=aae08ea52&from)
   * [바이브 코딩 (AI 코딩 에이전트 사용법) - WikiDocs](https://wikidocs.net/book/17550)
   * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
