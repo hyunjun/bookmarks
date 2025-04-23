@@ -3273,6 +3273,16 @@ Programming Books
   * [일을 잘 맡기는 기술](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_art_of_assigning_tasks.md)
   * [일을 잘 맡기는 기술 - Jun - Medium](https://nymets.medium.com/%EC%9D%BC%EC%9D%84-%EC%9E%98-%EB%A7%A1%EA%B8%B0%EB%8A%94-%EA%B8%B0%EC%88%A0-781a4a8db59f)
   * [일을 잘 맡기는 기술](https://jh4hj.tistory.com/entry/%EC%9D%BC%EC%9D%84-%EC%9E%98-%EB%A7%A1%EA%B8%B0%EB%8A%94-%EA%B8%B0%EC%88%A0)
+* [실리콘밸리 프로세스의 힘 The Power of Process](https://www.notion.so/1003/The-Power-of-Process-1dd3f0c2cf65809c97dddb3a70b0fa98)
+  * ★★★★☆ April 21, 2025 → April 22, 2025
+    * 경력 방향을 매니지먼트로 전환한 후, 관련 도서를 많이 읽었다. 그중에서도 아마존과 제프 베이조스에 관한 여러 책들을 인상깊게 읽고 참고했다. 저자는 아마존에서 일한 경험도 있고, 회사 자체가 워낙 강력한 프로세스로 잘 알려진 회사라 아마존의 사례를 많이 든다.
+    * 책의 가장 큰 특징은 모든 업무를 **프로세스 관점** 에서 해석한 점이다. **Working Backwards나 PR/FAQ** 개념을 알고 있었지만, 이 책은 모든 업무를 체계적으로 프로세스화한 접근 방식에서 차별성을 갖는다. 단순히 개별 사례를 소개하는 데 그치지 않고, 프로세스가 조직 전체에 미치는 영향을 깊이 있게 다룬다.
+    * 책의 내용을 일반적인 업무에 적용하기는 비교적 쉬울 것이라고 생각한다.대부분의 회사에서 진행되는 주간 회의에 저자가 제안한 방식을 도입하면 큰 변화를 일으킬 수 있다. 예를 들어, 단순 보고 중심의 회의를 데이터와 분석 기반의 의사결정 중심으로 바꾸는 방식은 management를 맡은 후 시도했던 변화의 경험을 바탕으로 생각해보면 실질적인 효율성 향상을 가져올 수 있다. 다만 모든 변화가 그렇듯, 내부 구성원의 협조와 지지가 필수적이다. 특히 전통적인 산업이나 과거의 한국 회사처럼 변화에 저항이 큰 조직에서는 더 많은 노력이 필요할 수 있다.
+  * [실리콘밸리가 사용하는 일하는 프로세스 - YouTube](https://www.youtube.com/watch?v=F42oxFb9gfc)
+  * [Jun - 실리콘밸리 프로세스의 힘 The Power of Process](https://hyunjun.github.io/skunk-html/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%ED%9E%98-the-power-of-process.html)
+  * [실리콘밸리 프로세스의 힘 The Power of Process | by Jun | Apr, 2025 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%ED%9E%98-the-power-of-process-27bcb5c1654d)
+  * [실리콘밸리 프로세스의 힘 The Power of Process - Jun’s Substack](https://recur.substack.com/p/the-power-of-process)
+  * [실리콘밸리 프로세스의 힘 The Power o.. : 네이버블로그](https://blog.naver.com/octoberblue/223843187338)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
