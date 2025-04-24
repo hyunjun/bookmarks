@@ -259,6 +259,7 @@ Finance
 # Artificial Intelligence AI
 * [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
 * [MODUCON 2021 주린이를 위한 기업분석 근데 이제 AI까지 곁들인 AI +X4 - YouTube](https://www.youtube.com/watch?v=UunsENLIP1w)
+* [AI로 주식 단타 매매 사이트 만들기 - YouTube](https://www.youtube.com/playlist?list=PLlcbhi4JmNZq2vQMo1KanjcHvS4p4kZdK)
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
