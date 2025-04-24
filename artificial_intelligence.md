@@ -543,6 +543,7 @@ Artificial Intelligence
   * [MCP(Model Context Protocol) 란?](https://www.notion.so/MCP-Model-Context-Protocol-1cce323ea2b580cfb029c8349e1dbd8c)
   * [AI 모델을 위한 최적의 데이터 연결 솔루션, Model Context Protocol(MCP)](https://www.notion.so/AI-Model-Context-Protocol-MCP-1cfe323ea2b580d7ac8ffc707ec0a7e2)
   * [인공지능 AI의 대변환, MCP 쉬운 설명 | 클로드 챗지피티 - YouTube](https://www.youtube.com/watch?v=oAxunD8k0C8)
+  * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
   * [이주환 - MCP가 무엇인지에 대해서는 이미 많은 전문가들께서 잘 설명해 주고 계시기에, 저는 이 agentic... | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0F9vVgJSFDreX8aaocD3k36o2NYKwTXMwbJ3GJ2nBZhJsqJJ5mF19GaVqQPoBTnsyl)
   * [박성철 - MCP를 코드의 종말 측면에서 바라볼 수 있다. 여러 번 말했지만, 나는 AI가 코드를 생성하는 방식이... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02uJ5iJKSvqxBjwva7NAvpwMb725nfY8p17y2Mm8jHeQk7rRvKfGJJaoTpSQsEcb6al)
   * [사이오닉 MCP 시리즈 1 MCP를 이용하여 IntelliJ 와 코딩해보자! - YouTube](https://www.youtube.com/playlist?list=PLhZjirOnaXNy6v4jX_tEM0pCd7ADiC0vZ)
@@ -1046,6 +1047,7 @@ Artificial Intelligence
     * 결론: json은 1. 더 적은 토큰으로 2. 더 정확한 규칙을 3. 더 효율적으로 처리
     * 특히 Cursor IDE와 같은 도구에서는 이러한 구조화된 규칙이 AI의 코드 생성/수정 품질을 크게 향상
   * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
+  * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
   * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
     * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
