@@ -2511,6 +2511,8 @@ App
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [클라우드 없이 🙅 모든 디바이스 연결하기 - YouTube](https://www.youtube.com/watch?v=uimJqa0zxHU)
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
+  * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc) smart composer
+  * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
