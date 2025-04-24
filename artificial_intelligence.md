@@ -1046,6 +1046,7 @@ Artificial Intelligence
   * [Vibe코딩의 실제와 프롬프트 해킹으로 확인한.. : 네이버블로그](https://blog.naver.com/fstory97/223805503153)
     * 결론: json은 1. 더 적은 토큰으로 2. 더 정확한 규칙을 3. 더 효율적으로 처리
     * 특히 Cursor IDE와 같은 도구에서는 이러한 구조화된 규칙이 AI의 코드 생성/수정 품질을 크게 향상
+  * [Cursor팁 AI와 일하는 것이 SW공학.. : 네이버블로그](https://blog.naver.com/fstory97/223807566892)
   * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
   * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
   * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
