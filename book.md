@@ -504,6 +504,9 @@ Book
 * [우리가 사랑한 영화의 탄생 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ed%95%9c-%ec%98%81%ed%99%94%ec%9d%98-%ed%83%84%ec%83%9d/)
   * ★★★☆☆ 2025.04.20
   * [우리가 사랑한 영화의 탄생](https://www.notion.so/1003/1db3f0c2cf65809883e3e3a577c7c56e)
+* [우주 라이크 유니버스](https://www.hanbit.co.kr/store/books/look.php?p_code=B2107371868)
+  * ★★★☆☆ 2025.04.26
+  * [우주 라이크 유니버스](https://www.notion.so/1003/1e13f0c2cf658081b8f2f97a7596dc88)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
