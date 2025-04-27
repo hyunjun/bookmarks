@@ -137,6 +137,7 @@ Finance
 * [슬기로운 대체투자 (3) 감옥 (교정시설) 펀드편](https://brunch.co.kr/@daegukim/66)
 * [오늘자 키움불리오 펀드 : 네이버 블로그](https://blog.naver.com/juliuschun/222995094175)
 * [쓰다 남은 달러로 불황에도 할 수있는 투자방법 알려드림(feat.美교도소주) / 돈워리스쿨](https://www.youtube.com/watch?v=ZZM-m-JP8-o)
+* [이 정도 떨어지면 기회예요. 순식간에 오를 겁니다. 10만원으로 이것 사모으세요 (100억 자산가 박성현) - YouTube](https://www.youtube.com/watch?v=aa70St_unfo) dollar
 * [태국주식 사는 방법, 주식매매 따라해보기, 입금출금 해보기](https://www.youtube.com/watch?v=MWbVVKKOQgY)
 * [SaaS, Slack, Amazon SEO, Pinduoduo, Meituan, KPCB, a16z](https://medium.com/translink/two-cents-2-saas-slack-amazon-seo-pinduoduo-meituan-kpcb-a16z-c98c61b80e9c)
 * [월가의 퀀트 여제, 세계에서 가장 가벼운 금융회사를 꿈꾸다: 이지혜 대표 인터뷰](https://ppss.kr/archives/184025)
