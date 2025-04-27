@@ -385,6 +385,7 @@ Artificial Intelligence
   * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
   * [Vibe Coding 기업 적응기 Part3: 바이브를 타며 AI 시대 코딩의 의미 되짚기 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part3-%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A5%BC-%ED%83%80%EB%A9%B0-ai-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%9D%98%EB%AF%B8-%EB%90%98%EC%A7%9A%EA%B8%B0-cd32adcf7d08)
   * [AUD DEV DAY 2025 우리가 알던 코딩의 종말 / 한빛앤 임백준 대표 기조강연 - YouTube](https://www.youtube.com/watch?v=F5cyVIECgaI)
+  * [**푸시 알림을 구현하며 겪은 설정 지옥**](https://brunch.co.kr/@johs/6) xcode ios push
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -1044,6 +1045,7 @@ Artificial Intelligence
   * [Cursor 에디터 Chat 히스토리를 마크다운으로 정리해주는 익스텐션 – 노마드 코더 Nomad Coders](https://nomadcoders.co/community/thread/10458)
   * [Cursor AI 초보자 가이드 | 프로젝트 세팅부터 배포까지 진행합니다. - YouTube](https://www.youtube.com/watch?v=6JuC2N5ZckM)
   * [무료 공개 Cursor AI 설치하기 - AI 개발의 첫걸음 | 코딩AI - YouTube](https://www.youtube.com/watch?v=yBJ51EZNa-g)
+  * [Cursor 사용법 완전 정복ㅣ설치부터 프롬프트 실전까지 AI 코딩 가이드](https://media.fastcampus.co.kr/insight/ai_tech/cursor_ai_tool/)
   * [코딩 없이 누구나 Cursor AI로 인공지능 비서, AI 에이전트 만들기 | MCP, Google ADK - YouTube](https://www.youtube.com/watch?v=zRgAEIoZEVQ)
   * [Vibe Coding 기업 적응기 Part2: 설계 문서 기반 Vibe Coding으로 MVP 개발에 도전 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part2-%EC%84%A4%EA%B3%84-%EB%AC%B8%EC%84%9C-%EA%B8%B0%EB%B0%98-vibe-coding%EC%9C%BC%EB%A1%9C-mvp-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%A0%84-2327853dab31)
   * [Vibe코딩의 실제와 프롬프트 해킹으로 확인한.. : 네이버블로그](https://blog.naver.com/fstory97/223805503153)
