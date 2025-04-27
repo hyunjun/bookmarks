@@ -370,6 +370,7 @@ Artificial Intelligence
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
 * [awesome-vibecoding: A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between humans and AI is reshaping the future of programming](https://github.com/roboco-io/awesome-vibecoding)
   * [Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 :: ROBOCO](https://roboco.io/posts/vibe-coding-manual/)
+  * [바이브 코딩 메뉴얼 - AI 에이전트를 활용한 더 빠르고 스마트한 개발](https://bcho.tistory.com/1467)
   * [바이브 코딩에 대한 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibe-coding-truth/)
   * [바이브 코딩 시대 개발자가 지녀야 하는 특성 :: ROBOCO](https://roboco.io/posts/vibecoding-best-programmers/)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
@@ -385,6 +386,8 @@ Artificial Intelligence
   * [개발자, 도둑놈, 관리자 : 네이버 블로그](https://blog.naver.com/oldpens/223833767725)
   * [Vibe Coding 기업 적응기 Part3: 바이브를 타며 AI 시대 코딩의 의미 되짚기 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part3-%EB%B0%94%EC%9D%B4%EB%B8%8C%EB%A5%BC-%ED%83%80%EB%A9%B0-ai-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%9D%98%EB%AF%B8-%EB%90%98%EC%A7%9A%EA%B8%B0-cd32adcf7d08)
   * [AUD DEV DAY 2025 우리가 알던 코딩의 종말 / 한빛앤 임백준 대표 기조강연 - YouTube](https://www.youtube.com/watch?v=F5cyVIECgaI)
+  * [The End of Programming as We Know It – O’Reilly](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
+    * [우리가 알고 있던 프로그래밍의 종말 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS3881553890)
   * [**푸시 알림을 구현하며 겪은 설정 지옥**](https://brunch.co.kr/@johs/6) xcode ios push
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -1082,6 +1085,7 @@ Artificial Intelligence
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
+  * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
