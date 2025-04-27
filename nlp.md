@@ -4675,6 +4675,7 @@ NLP
 * [moshi.chat](https://us.moshi.chat/)
   * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
 * [MVSEP - Music & Voice Separation](https://mvsep.com/en)
+* [Nari Labs: Dia Examples](https://yummy-fir-7a4.notion.site/dia)
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
