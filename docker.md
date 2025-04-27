@@ -2105,6 +2105,8 @@ Docker
 * [🚀 Kubernetes에서 Too many open files 오류 해결 – 파일 핸들 개수 조정하기 – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/02/15/%f0%9f%9a%80-kubernetes%ec%97%90%ec%84%9c-too-many-open-files-%ec%98%a4%eb%a5%98-%ed%95%b4%ea%b2%b0-%ed%8c%8c%ec%9d%bc-%ed%95%b8%eb%93%a4-%ea%b0%9c%ec%88%98-%ec%a1%b0%ec%a0%95%ed%95%98/)
 * [라즈베리 파이로 홈 쿠버네티스 클러스터 구축 매뉴얼](https://dev-ryuon.tistory.com/121)
 * [icarus: Cloud를 손에 잡으려다 추락한 자들](https://infoteam-rulrudino.notion.site/icarus-Cloud-1d8365ea27df80adb4d7efbb0910d7cb)
+* [Kubernetes v1.33: Octarine | Kubernetes](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
+  * [Kubernetes v1.33 - Octarine](https://zerotay-blog.vercel.app/4.RESOURCE/KNOWLEDGE/Kubernetes/etc/%EB%B2%84%EC%A0%84/Kubernetes%20v1.33%20-%20Octarine/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
