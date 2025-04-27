@@ -751,6 +751,8 @@ AWS
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
 * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
+* [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus at master · aws-samples/aws-ai-ml-workshop-kr · GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus)
+  * [Demo Bedrock-Manus: Data analysis and Report Automation - YouTube](https://www.youtube.com/watch?v=DwWICGLEv14)
 * [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [korean-chatbot-using-amazon-bedrock: It shows a question and answering chatbot using Multi-LLM and Multi-RAG](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock)
   * [RAG를 활용하여 향상된 Korean Chatbot 만들기 - LLM관련 LangChain으로 만들었던 여러 프로젝트들을 하나로 통합하고, 다수의 문서/코드를 RAG에 넣을때 필요한 Event-driven 구조를 적용](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EA%B4%80%EB%A0%A8-langchain%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8D%98-%EC%97%AC%EB%9F%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4%EC%9D%84-%ED%95%98%EB%82%98%EB%A1%9C-%ED%86%B5%ED%95%A9%ED%95%98%EA%B3%A0-activity-7167686512178872321-rQgV)
@@ -866,6 +868,7 @@ AWS
 * [AWS Lambda S3 Image Resize with URL Parameter (Cloudfront 요금 30% 감면)](https://tabmania.tistory.com/entry/AWS-Lambda-S3-Image-Resize-with-URL-Parameter) cost, image upload 최적화 등
 * [Terraform AWS CloudFront 인증서 오류](https://jybaek.tistory.com/1020)
 * [Amazon CloudFront의 원본 액세스 제어를 활용하여 Lambda 함수 URL을 안전하게 관리하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/secure-your-lambda-function-urls-using-amazon-cloudfront-origin-access-control/)
+* [월급쟁이부자들 CDN 다이어트. Overview | by 강현서 빌리 | weolbu_tech | Apr, 2025 | Medium](https://medium.com/weolbu/%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4%EB%B6%80%EC%9E%90%EB%93%A4-cdn-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-22370b0c94b7)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
