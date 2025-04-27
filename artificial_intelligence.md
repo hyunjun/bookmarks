@@ -424,6 +424,7 @@ Artificial Intelligence
   * [Firebase Studio 소개](https://www.notion.so/Firebase-Studio-1d2e323ea2b580838868c9f757efe01b)
   * [(1) 배휘동 - Firebase Studio 찍먹해본 감상 4월 10일 Google에서 Firebase Studio(이하... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid033woQjcDNtRsAJTgsJmp3aevozVeoq1AWjM8geUw9sQTySMhc6WdGGjqk8kjqTG6ql)
   * [Gemini2.5가 탑재된 구글 파이어베이스를 사용해 보니, 구글도 Vibe Coding에 큰 역할을 할것 같습니다](https://www.linkedin.com/posts/duckjungkim_gemini25%EA%B0%80-%ED%83%91%EC%9E%AC%EB%90%9C-%EA%B5%AC%EA%B8%80-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EB%8B%88-%EA%B5%AC%EA%B8%80%EB%8F%84-vibe-activity-7316446139858202624-FoT-/)
+  * [구글의 새로운 바이브 코딩 도구 FireStudio 빠르게 알아보기!! - YouTube](https://www.youtube.com/watch?v=kJ59oBVnUbc)
 * [Fluid - private AI assistant for Mac](https://getfluid.app/)
 * [Gemini - Google DeepMind](https://deepmind.google/technologies/gemini/#introduction)
   * [Introducing Gemini: Google’s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
@@ -987,6 +988,7 @@ Artificial Intelligence
     * [구글의 NotebookLM 사용법 - 내 문서를 기반으로 작동하는 AI | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/754184)
   * [💡NotebookLM: 구글의 최신 AI 연구 어시스턴트 리뷰](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1NotebookLM-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EC%97%B0%EA%B5%AC-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
+  * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
@@ -1048,11 +1050,6 @@ Artificial Intelligence
     * 결론: json은 1. 더 적은 토큰으로 2. 더 정확한 규칙을 3. 더 효율적으로 처리
     * 특히 Cursor IDE와 같은 도구에서는 이러한 구조화된 규칙이 AI의 코드 생성/수정 품질을 크게 향상
   * [Cursor팁 AI와 일하는 것이 SW공학.. : 네이버블로그](https://blog.naver.com/fstory97/223807566892)
-  * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
-  * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
-  * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
-    * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
-    * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g&ab_channel=%EB%8C%80%EB%AA%A8%EC%82%B0%EA%B0%9C%EB%B0%9C%EB%8B%A8)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
   * [Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
     * [LLM과 Cursor로 사이드 프로젝트 완성하기 | GeekNews](https://news.hada.io/topic?id=18608)
@@ -1066,6 +1063,13 @@ Artificial Intelligence
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
+  * figma
+    * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
+    * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
+    * [Cursor AI + 피그마 MCP 실전 가이드 | 커서 코드 한 줄 안 쓰고 figma 디자인 구현하기 - YouTube](https://www.youtube.com/watch?v=ONqfqSiS7JM)
+    * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
+      * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
+      * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [Replit – Build apps and sites with AI](https://replit.com/)
 * [Roo Code – Your AI-Powered Dev Team in VS Code](https://roocode.com/)
