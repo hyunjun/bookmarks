@@ -94,6 +94,7 @@ Lisp
 * [Why LISP Is The Language of Legends - YouTube](https://www.youtube.com/watch?v=V02SQDh47gA)
 * [리스프에서 멋진 3가지. :: BlaCk_Log](https://black7375.tistory.com/98)
   * [리스프에서 멋진 3가지. | GeekNews](https://news.hada.io/topic?id=17569)
+* [(within parens...): Emacs Lisp Programming with DeepSeek: A New Widget](https://within-parens.blogspot.com/2025/04/emacs-lisp-programming-with-deepseek.html)
 
 # Bel
 * [Bel](http://www.paulgraham.com/bel.html)
