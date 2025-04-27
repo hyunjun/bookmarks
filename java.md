@@ -193,6 +193,7 @@ Java
 * [Java를 사용한 T-50 항공전자 내장형 소프트웨어 개발 - 한국항공우주산업(KAI) | GeekNews](https://news.hada.io/topic?id=17620)
 * [Cay Horstmann's Unblog](https://horstmann.com/unblog/2024-12-11/index.html)
   * [Java로 간단한 작업 처리하기 | GeekNews](https://news.hada.io/topic?id=18346)
+* [How Netflix Uses Java - 2025 Edition - YouTube](https://www.youtube.com/watch?v=XpunFFS-n8I)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
