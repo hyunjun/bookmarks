@@ -332,6 +332,8 @@ Writing
 * [보이지 않는 로직, 읽을 수 있는 문서로 만들기!](https://techblog.lycorp.co.jp/ko/turn-invisible-logic-into-readable-document) 정책서 policy
 * [**문서 작성 및 관리 노하우를 알리는 행사, Technical Documentation Day 참석 후기**](https://techblog.lycorp.co.jp/ko/internal-event-for-technical-writing-and-document-engineering)
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
+* [technical-writing: 개발자를 위한 글쓰기 기본기](https://github.com/toss/technical-writing)
+  * [테크니컬 라이팅 가이드](https://technical-writing.dev/)
 * [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
 # Reading
