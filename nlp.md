@@ -3607,6 +3607,7 @@ NLP
 * [RAG Architectures](https://www.linkedin.com/posts/kalyanksnlp_rag-llms-nlproc-activity-7272451928540758016-TPYC/)
 * [RAG #01. RAG 밑바닥부터 웹 채팅까지 - 파이썬사랑방 튜토리얼](https://ai.pyhub.kr/rag-01/)
 * [RAG - LLM 데이터 생성 시 발생하는 오류 해결 방법 모음 - 텍스트넷 공식 블로그](https://article.textnet.kr/errors-and-solutions-in-rag-llm)
+* [왜 내가 만든 LLM 서비스는 멍청할까요? | 요즘IT](https://yozm.wishket.com/magazine/detail/3086/) CoRAG
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
