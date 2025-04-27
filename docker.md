@@ -789,9 +789,13 @@ Docker
 * model
   * [Docker Model Runner | Docker Docs](https://docs.docker.com/desktop/features/model-runner/)
   * [Introducing Docker Model Runner | Docker](https://www.docker.com/blog/introducing-docker-model-runner/)
+    * [Introducing Docker Model Runner - YouTube](https://www.youtube.com/watch?v=zQi-8mCTNf8)
+  * [Announcing Docker MCP Catalog and Docker MCP Toolkit - YouTube](https://www.youtube.com/watch?v=98M_6njOnus)
   * [How to Run Gemma 3 Locally with Docker Model Runner | Docker](https://www.docker.com/blog/run-gemma-3-locally-with-docker-model-runner/)
   * [Docker Desktop 4.40 Release | Docker](https://www.docker.com/blog/docker-desktop-4-40/)
   * [Docker, 이제 AI 모델도 로컬에서 돌린다! Docker Model Runner 전격 분석 - YouTube](https://www.youtube.com/watch?v=mLTvWutlvJg)
+  * [Minho Hwang - Ollama야 안녕? 난 도커라고 해! - Docker, Model Runner & MCP... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid02Wc7fAxn4RH3CeoQjvf93hGn1Fo9NnN4gnaM7JXu26Co9C5UiRcNfciGLuBCZRoQil)
+    * [(한글자막) Docker가 누구나 AnythingLLM으로 AI 앱을 쉽게 만들 수 있도록 돕는 방법 - YouTube](https://www.youtube.com/watch?v=d50AA7yGelA)
 * nsenter
   * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
   * [docker nsenter - 쩨로그](https://jaeho.tistory.com/22)
