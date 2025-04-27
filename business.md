@@ -2775,6 +2775,7 @@ Business
   * 직장을 옮긴 사람의 40%가 첫번째 이유를 상사때문이라고 답했습니다. 기업의 네임밸류고 뭐고 상사가 더 중요했다는 결과
 * [함께하고 싶은 리더 | Iol-lshh's](https://iol-lshh.github.io/%ED%9A%8C%EA%B3%A0/leadership/charming_leader/)
 * [완벽한 의사결정은 없다: AI보다 리더가 필요한 이유](https://www.linkedin.com/posts/activity-7317127797938761728-nTIw/)
+* [회사에서 무조건 이런 사람과 같이 일하세요 | 팀원을 성장시키는 상사 유형 - YouTube](https://www.youtube.com/watch?v=KIGtKYoM7Xo)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
