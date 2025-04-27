@@ -4390,6 +4390,8 @@ NLP
 * [카테고리 자동완성 개발기. 안녕하세요. 29CM 발견스쿼드에서 백엔드개발을 담당하고 있는… | by Circlee7 | 29CM TEAM | Oct, 2022 | Medium](https://medium.com/29cm/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B0%9C%EB%B0%9C%EA%B8%B0-93069d5835c4)
 * [단디 - 한국어 맞춤법 검사기](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
 * [if(kakao)dev2022 딥(Deep)하게 오타 교정하기](https://if.kakao.com/2022/session/72)
+* [cspell: A Spell Checker for Code!](https://github.com/streetsidesoftware/cspell)
+  * [Code Quality CSpell - CSpell을 사용하여 오탈자를 검사하는 방법에 대해서 알아봅시다.](https://deku.posstree.com/ko/code_quality/cspell/)
 * [kled-js: KLED: Fuzzy Matching Library with Levenshtein Edit Distance, Tailored for Korean Language Support](https://github.com/taggon/kled-js)
   * [KLED: 한국어를 지원하는 퍼지 검색 라이브러리 - 코드쓰는사람](https://taegon.kim/archives/10671)
 * [ko-prfrdr: Utils for Korean proofreader](https://github.com/ychoi-kr/ko-prfrdr)
