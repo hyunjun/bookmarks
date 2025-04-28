@@ -465,6 +465,7 @@
 * [코루틴 SupervisorJob](https://brunch.co.kr/@mystoryg/224)
 * [코루틴 공유 자원 관리](https://brunch.co.kr/@mystoryg/227)
 * [데이터 흐름(Data flow)을 이해해 보는 데 있어 필요한 것은? 짝퉁 개발자처럼 논하기](https://thdev.tech/dataflow/2024/11/09/Data-flow/)
+* [Suspending Kotlin Beyond Coroutines | by Sam Cooper | Apr, 2025 | Medium](https://sam-cooper.medium.com/suspending-kotlin-beyond-coroutines-4c97543b9782)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
   * [여러 제휴사와 연동하는 신규 프로젝트 개발기 1편 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/katfun-joy-multiple-biz-partner-01/)
