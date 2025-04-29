@@ -556,6 +556,7 @@ Artificial Intelligence
   * [사이오닉 MCP 시리즈 1 MCP를 이용하여 IntelliJ 와 코딩해보자! - YouTube](https://www.youtube.com/playlist?list=PLhZjirOnaXNy6v4jX_tEM0pCd7ADiC0vZ)
     * [Sionic MCP 시리즈 1 Model Context Protocol을 이용하여 IntelliJ 와 코딩해보자!](https://blog.sionic.ai/mcp-intellij)
   * [AI가 직접 작업하는 시대, MCP 활용법 총정리 (feat. Claude) - 한빛+](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4871755260)
+  * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운 광고사업 모델 이야기) | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rKmPgEBRFsZGdZ7tk8ezNQPFhrym5dTuD7wMBGqoVJZpHhvoHvWuGKwi8DXpwRqEl)
   * [Cursor와 Model Context Protocol(MCP)로 Figma 디자인 자동화 경험하기 — ddhelop](https://ddhelop.tistory.com/14)
   * [The power of MCP in Agentic RAG Systems](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7312764236781264896-APYM/)
   * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
