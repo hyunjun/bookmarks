@@ -233,6 +233,7 @@ Artificial Intelligence
   * [고객이 생성한 AI 코드를 수정하는 데 지쳤어요 | GeekNews](https://news.hada.io/topic?id=16418)
 * [The Top 100 Gen AI Consumer Apps - 3rd Edition | Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-3/)
   * [a16z가 선정한 소비자용 "생성형 AI" 앱/서비스 Top 100 | GeekNews](https://news.hada.io/topic?id=16487)
+* [Real-world gen AI use cases from the world's leading organizations | Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
 * [AI 어플리케이션을 개발하는 스타트업의 생각 (f. 스타트업에게 Moat이란?)](https://www.linkedin.com/posts/honghyun_ai-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%83%9D%EA%B0%81-f-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EA%B2%8C-moat%EC%9D%B4%EB%9E%80-activity-7229149993146687489-bgTS/)
 * [Multi-GPU(DDP)를 다루는 방법들을 정리한 내용을 공유](https://www.linkedin.com/posts/jjunsss-84b39122b_multi-gpu-%EC%B4%9D%EC%A0%95%EB%A6%AC-activity-7223307260167344128-IqnF/)
   * [Multi-GPU 총정리 : 네이버 블로그](https://blog.naver.com/jjunsss/222920508815) 1. Data Parallel (DP)
@@ -261,6 +262,7 @@ Artificial Intelligence
 * [The Next 10 Years Will Be About the AI Agent Economy](https://www.nfx.com/post/ai-agent-marketplaces)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
 * [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
+* [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent)
 * [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 * [이제 디자인 프로세스는 뒤집어진다: 프로토타이핑 먼저, 디자인은 나중에](https://www.linkedin.com/posts/leedavid_ai-ux-engineer-%EC%9D%BC%EA%B8%B0-1-%EC%9D%B4%EC%A0%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8A%94-%EB%92%A4%EC%A7%91%EC%96%B4%EC%A7%84%EB%8B%A4-activity-7304693309455708160-ez_n/)
@@ -391,6 +393,7 @@ Artificial Intelligence
   * [The End of Programming as We Know It – O’Reilly](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/)
     * [우리가 알고 있던 프로그래밍의 종말 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS3881553890)
   * [**푸시 알림을 구현하며 겪은 설정 지옥**](https://brunch.co.kr/@johs/6) xcode ios push
+  * [바이브 코딩 바이블: AI 에이전트 시대의 새로운 코딩 패러다임 - tech.kakao.com](https://tech.kakao.com/posts/696)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -567,6 +570,7 @@ Artificial Intelligence
   * [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
   * [Minho Hwang - 🚀 MCP 열풍! 앤트로픽의 AI 연결 표준, 빅테크는 왜 주목하나? AI 기술에 관심 있는... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid033LrVfzLbebfcsFpgC4QiMiWzE2JdhEQ2BG7kXESgSZpYDfw1YqqHi2T1wFazfg8il)
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
+  * [Why your MCP server fails (how to make 100% successful MCP server) - DEV Community](https://dev.to/samchon/why-your-mcp-server-fails-how-to-make-100-successful-mcp-server-iem)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
