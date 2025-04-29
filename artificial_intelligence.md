@@ -574,6 +574,7 @@ Artificial Intelligence
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
+    * [Agentica Series' Articles - DEV Community](https://dev.to/samchon/series/31016)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
