@@ -2107,6 +2107,7 @@ Docker
 * [icarus: Cloud를 손에 잡으려다 추락한 자들](https://infoteam-rulrudino.notion.site/icarus-Cloud-1d8365ea27df80adb4d7efbb0910d7cb)
 * [Kubernetes v1.33: Octarine | Kubernetes](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
   * [Kubernetes v1.33 - Octarine](https://zerotay-blog.vercel.app/4.RESOURCE/KNOWLEDGE/Kubernetes/etc/%EB%B2%84%EC%A0%84/Kubernetes%20v1.33%20-%20Octarine/)
+* [How Kubernetes Runs Containers : A Practical Deep Dive](https://blog.esc.sh/kubernetes-containers-linux-processes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
