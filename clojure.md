@@ -523,6 +523,8 @@ Clojure
   * [Reducers in Clojure - Level Up Coding](https://levelup.gitconnected.com/reducers-in-clojure-c088a5627412)
   * [Faster csv reading/processing, how I got there with core.async - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/faster-csv-reading-processing-how-i-got-there-with-core-async/7420)
   * [concurrently - A clojure library for making concurrent process-engine backed by core.async](https://github.com/uzabase/concurrently)
+  * core.async.flow
+    * [A quick demo of core.async.flow - YouTube](https://www.youtube.com/watch?v=lXFwf3O4BVY)
   * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
   * [wsscode-async: Core.async utilities package](https://github.com/wilkerlucio/wsscode-async)
 * [core.logic](https://github.com/clojure/core.logic)
