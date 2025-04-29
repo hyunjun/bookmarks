@@ -123,6 +123,7 @@ Concurrency
 * [CUDA Accelerated: NVIDIA, 가속 컴퓨팅을 확장하고 과학 및 산업 애플리케이션에 획기적인 속도 향상을 제공하는 새로운 CUDA 라이브러리 출시 - NVIDIA Blog Korea](https://blogs.nvidia.co.kr/blog/cuda-accelerated-computing-energy-efficiency/)
 * [NVIDIA Finally Adds Native Python Support to CUDA - The New Stack](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
   * [NVIDIA, CUDA에 드디어 네이티브 Python 지원 추가 | GeekNews](https://news.hada.io/topic?id=20153)
+* [CUDA OOM 해결 사례 공유 - PyTorch all_gather_object 의 비밀](https://devocean.sk.com/blog/techBoardDetail.do?ID=167403)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
