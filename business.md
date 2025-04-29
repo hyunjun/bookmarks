@@ -2776,6 +2776,7 @@ Business
 * [함께하고 싶은 리더 | Iol-lshh's](https://iol-lshh.github.io/%ED%9A%8C%EA%B3%A0/leadership/charming_leader/)
 * [완벽한 의사결정은 없다: AI보다 리더가 필요한 이유](https://www.linkedin.com/posts/activity-7317127797938761728-nTIw/)
 * [회사에서 무조건 이런 사람과 같이 일하세요 | 팀원을 성장시키는 상사 유형 - YouTube](https://www.youtube.com/watch?v=KIGtKYoM7Xo)
+* [중간관리자 무용론, 구글은 실패했다. 인텔은 왜 다시 실험하는가?](https://www.linkedin.com/posts/ethan-yj-cho_intel-google-tyzrbitquswmtxusxqtnitfmreoqte-activity-7320976188519198720-2tDw/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
