@@ -572,6 +572,7 @@ AWS
 * [Introducing AWS MCP Servers for code assistants (Part 1) | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
 * [Harness the power of MCP servers with Amazon Bedrock Agents | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
 * [Alexa+ gets us a step closer to ambient interfaces | All Things Distributed](https://www.allthingsdistributed.com/2025/04/alexa-plus-gets-us-a-step-closer-to-ambient-interfaces.html)
+* [토스증권의 Nasdaq Smart Options 실시간 제공 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/toss-securities-nasdaq-options-realtime-pipeline/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -763,6 +764,9 @@ AWS
 * [llm-rag-vectordb-python: Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit](https://github.com/build-on-aws/llm-rag-vectordb-python)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
+* [Prompt Management for Amazon Bedrock - AWS](https://aws.amazon.com/bedrock/prompt-management/)
+  * [Prompt Optimization in Amazon Bedrock now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available/)
+  * [Amazon Bedrock – Prompt Optimization 정식 출시!](https://www.linkedin.com/posts/woohyungchoi_prompt-optimization-in-amazon-bedrock-now-activity-7321036702171439104-wQgi/)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
