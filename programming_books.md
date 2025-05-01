@@ -3638,6 +3638,8 @@ Programming Books
   * [hello-transformer](https://github.com/jinkilee/hello-transformer)
 * (NOT YET) [모두의 한국어 텍스트 분석 with 파이썬 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003747)
   * [pytextbook: 모두의 한국어 텍스트 분석 with 파이썬](https://github.com/pytextbook/pytextbook)
+* (NOT YET) [소프트웨어 개발에 ChatGPT 사용하기](https://jpub.tistory.com/468767)
+  * [jpub_chatgpt: 《소프트웨어 개발에 ChatGPT 사용하기》 소스 코드](https://github.com/choonholic/jpub_chatgpt)
 
 # NoSQL
 
