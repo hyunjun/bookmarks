@@ -6706,6 +6706,8 @@ Javascript
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
+* [bhvr](https://bhvr.dev/)
+  * [bhvr - 풀스택 웹앱 개발용 경량 스택 | GeekNews](https://news.hada.io/topic?id=20580)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
   * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
