@@ -699,6 +699,18 @@ Book
   * [박태웅의 AI 강의 2025. ★★★☆☆ March 8, 2025 → March 9, 2025 | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/%EB%B0%95%ED%83%9C%EC%9B%85%EC%9D%98-ai-%EA%B0%95%EC%9D%98-2025-271bfeb9e221)
   * [박태웅의 AI 강의 2025 - Jun’s Substack](https://recur.substack.com/p/ai-2025)
   * [박태웅의 AI 강의 2025](https://jh4hj.tistory.com/entry/%EB%B0%95%ED%83%9C%EC%9B%85%EC%9D%98-AI-%EA%B0%95%EC%9D%98-2025)
+* [듀얼 브레인 Dual BrAIn](https://hyunjun.github.io/skunk-html/%EB%93%80%EC%96%BC-%EB%B8%8C%EB%A0%88%EC%9D%B8-dual-brain.html)
+  * ★★★☆☆ April 28, 2025
+    * 제목에서 잘 드러나지만 결론부터 말하면 AI를 “제2의 두뇌”로 적극 수용하자는 메시지를 담았다.
+    * 와튼 스쿨 교수인 저자는 AI를 전공하거나 연구하지는 않았으나, 실제 생활이나 작업에 어떤 영향을 줄지 초반부터 고민했다. 자신의 수업에도 적극 수용해, 학생들의 AI 사용을 무제한으로 허용하되, 결과 역시 책임지도록 한다. 새로운 도구 사용을 막을 수 없고, 사회에 나가서 겪을 문제를 미리 학교에서 경험하도록 했다는 점을 생각해보면, 미리 시대의 흐름을 파악하고 빠르게 적용하는 선견지명을 보여준, 매우 뛰어난 대처였다(책 표지에 나왔듯 24년에 상을 받았다는 점을 보면 23년에 이미 이런 식의 수업을 했다는 의미이다. 25년 현재와 비교할 때 2년 전의 AI 성능을 생각해보면 이런 신속하고 과감한 결정은 아무나 할 수 있는 일은 아니다).
+    * 1부는 AI의 기본 개념을 비기술자도 이해할 수 있도록 간단히 설명한다. 2부에서는 역할별 조언으로 다양한 직업과 역할에서 AI와 공존하는 방법을 제안하고, AI를 단순 도구 이상으로, 함께 성장할 동반자로 다룬다.
+    * 마침 이 책을 읽으면서 뉴스를 보니 메타버스한다고 이름을 바꿨던 Meta는 AI에 주력하더니 이제 AI 앱을 별도로 출시했고, 듀오링고의 CEO는 전사 전면 도입을 공식적으로 선언했다. 이렇게 조만간(혹은 지금 즉시!) AI 도입이 불가피한 지금, 이 책은 AI를 이해하고 효과적으로 활용하고자 하는 이들에게 귀중한 길잡이가 될 수 있다. 읽어보면 조금이라도 이해도를 높이고 충격을 줄여, AI를 단순한 도구가 아닌 강력한 동반자로 받아들이는 데 한 걸음 다가설 수 있다.
+      * [Introducing the Meta AI App: A New Way to Access Your AI Assistant](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/)
+      * [Duolingo will replace contract workers with AI | The Verge](https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)
+  * [듀얼 브레인 Dual BrAIn. Tags: artificial-intelligence Date… | by Jun | May, 2025 | Medium](https://nymets.medium.com/%EB%93%80%EC%96%BC-%EB%B8%8C%EB%A0%88%EC%9D%B8-dual-brain-0f0ea9878fdc)
+  * [듀얼 브레인 Dual BrAIn - Jun’s Substack](https://recur.substack.com/p/dual-brain)
+  * [듀얼 브레인 Dual BrAIn -](https://jh4hj.tistory.com/entry/%EB%93%80%EC%96%BC-%EB%B8%8C%EB%A0%88%EC%9D%B8-Dual-BrAIn)
+  * [듀얼 브레인 Dual BrAIn : 네이버 블로그](https://blog.naver.com/octoberblue/223852600489)
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
 
