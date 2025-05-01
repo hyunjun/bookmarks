@@ -3874,6 +3874,18 @@ Programming Books
   * [최고의 프로덕트는 무엇이 다른가. ★★★★☆ July 27, 2024 | by Jun | Jul, 2024 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-e08427fed3a4)
   * [최고의 프로덕트는 무엇이 다른가 - Jun’s Substack](https://recur.substack.com/p/1aa)
   * [최고의 프로덕트는 무엇이 다른가](https://jh4hj.tistory.com/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80)
+* [제품을 성공시키는 프로덕트 매니저의 비밀 The Secret of product managers who make products succeed](https://www.notion.so/1003/The-Secret-of-product-managers-who-make-products-succeed-1e53f0c2cf658079bdc5e5dc0268087c)
+  * ★★★☆☆ April 29, 2025 → April 30, 2025
+  * 최근 Product Manager, Product Management 관련 서적이 많이 출간되면서 이제는 “PO가 무슨 일을 하냐”고 묻는 사람이 줄었지만, 여전히 이 직무에 대한 명확한 소개와 실제적인 안내가 필요한 시점임을 느꼈다.
+  * 이 책은 쿠팡, SSG닷컴 등에서 PM 경험을 쌓은 저자가 단순 이론이 아니라 실제 업무에서 겪었던 사례와 구체적인 예시를 풍부하게 담은 것이 큰 강점이다. 특히 JTBD나 PRD 등 핵심 개념을 실제와 유사한 상황에 적용해 보여주기 때문에, 현업에 바로 적용할 수 있는 실질적인 도움을 준다.
+  * 다른 PM 서적과 차별화되는 점은, 현장감 있는 실무 경험과 구체적인 예시를 통해 이론과 실무의 간극을 좁혀준다는 점이다. PM 직무에 관심 있는 초보자뿐 아니라, 실무에서 바로 적용할 수 있는 팁과 사례를 찾는 이들에게 추천할 만하다.
+  * 마지막에는 PM과 협업하는 다양한 직군 실무자, 그리고 PM으로 일하는 사람들과의 인터뷰를 통해 PM 외부와 내부의 시각을 모두 보여줘, 이론과 실제가 적절히 섞인 좋은 책이라고 생각한다.
+  * PM 직무에 관심 있는 초보자뿐 아니라, 실무에서 바로 적용할 수 있는 팁과 사례를 찾는 이들에게도 강력히 추천할 만하다.
+  * [Jun - 제품을 성공시키는 프로덕트 매니저의 비밀 The Secret of product managers who make products succeed](https://hyunjun.github.io/skunk-html/%EC%A0%9C%ED%92%88%EC%9D%84-%EC%84%B1%EA%B3%B5%EC%8B%9C%ED%82%A4%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98-%EB%B9%84%EB%B0%80-the-secret-of-product-managers-who-make-products-succeed.html)
+  * [제품을 성공시키는 프로덕트 매니저의 비밀 The Secret of product managers who make products succeed | by Jun | May, 2025 | Medium](https://nymets.medium.com/%EC%A0%9C%ED%92%88%EC%9D%84-%EC%84%B1%EA%B3%B5%EC%8B%9C%ED%82%A4%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98-%EB%B9%84%EB%B0%80-the-secret-of-product-managers-who-make-products-succeed-5e8d7ae1156c)
+  * [제품을 성공시키는 프로덕트 매니저의 비밀 The Secret of product managers who make products succeed](https://recur.substack.com/p/the-secret-of-product-managers-who)
+  * [제품을 성공시키는 프로덕트 매니저의 비밀 The Secret of product managers who make products succeed -](https://jh4hj.tistory.com/entry/%EC%A0%9C%ED%92%88%EC%9D%84-%EC%84%B1%EA%B3%B5%EC%8B%9C%ED%82%A4%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EC%9D%98-%EB%B9%84%EB%B0%80-The-Secret-of-product-managers-who-make-products-succeed)
+  * [제품을 성공시키는 프로덕트 매니저의 비밀 Th.. : 네이버블로그](https://blog.naver.com/octoberblue/223852327174)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
   * 한라 005.1-맥17ㅍ
