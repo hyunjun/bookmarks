@@ -394,6 +394,8 @@ Artificial Intelligence
     * [우리가 알고 있던 프로그래밍의 종말 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS3881553890)
   * [**푸시 알림을 구현하며 겪은 설정 지옥**](https://brunch.co.kr/@johs/6) xcode ios push
   * [바이브 코딩 바이블: AI 에이전트 시대의 새로운 코딩 패러다임 - tech.kakao.com](https://tech.kakao.com/posts/696)
+  * [How To Get The Most Out Of Vibe Coding | Startup School - YouTube](https://www.youtube.com/watch?v=BJjsfNO5JTo)
+    * [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌, 요즘 서비스는 다 이렇게 만듭니다 - YouTube](https://www.youtube.com/watch?v=Y2SZNbnBjN0)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -571,10 +573,12 @@ Artificial Intelligence
   * [Minho Hwang - 🚀 MCP 열풍! 앤트로픽의 AI 연결 표준, 빅테크는 왜 주목하나? AI 기술에 관심 있는... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid033LrVfzLbebfcsFpgC4QiMiWzE2JdhEQ2BG7kXESgSZpYDfw1YqqHi2T1wFazfg8il)
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
   * [Why your MCP server fails (how to make 100% successful MCP server) - DEV Community](https://dev.to/samchon/why-your-mcp-server-fails-how-to-make-100-successful-mcp-server-iem)
+  * [Model Context Protocol (MCP) with practical examples - Part 1: High level overview - YouTube](https://www.youtube.com/watch?v=1jNmSiU0QYM)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
     * [Agentica Series' Articles - DEV Community](https://dev.to/samchon/series/31016)
+    * [AI를 만들 수 있게 된 개발자들. Agent부터 MCP, A2A 그리고 Agentica까지 | by luke | Apr, 2025 | Ne(o)rdinary Tech](https://tech.neordinary.co.kr/ai%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-ed277603584f)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
