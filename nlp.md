@@ -421,6 +421,13 @@ NLP
 * [텍스트 정규화 #5 — 숫자 표현 차이. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-5-%EC%88%AB%EC%9E%90-%ED%91%9C%ED%98%84-%EC%B0%A8%EC%9D%B4-49404e60f7a3)
 * [텍스트 정규화 #6 — 단어 순서만 바뀐 경우. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-6-%EB%8B%A8%EC%96%B4-%EC%88%9C%EC%84%9C%EB%A7%8C-%EB%B0%94%EB%80%90-%EA%B2%BD%EC%9A%B0-d3d339e28234)
 * [텍스트 정규화 #7 — 동의어 사용. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-7-%EB%8F%99%EC%9D%98%EC%96%B4-%EC%82%AC%EC%9A%A9-5255c50269cd)
+* [텍스트 정규화 #8 — 접두사/접미사 또는 줄임말. 접두사·접미사·줄임말 표기 차이로 인한 엔티티 불일치를 룰 기반 제거와… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-8-%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC-%EB%98%90%EB%8A%94-%EC%A4%84%EC%9E%84%EB%A7%90-ae9ce482a757)
+* [텍스트 정규화 #9 — 오타 또는 철자 오류. 오타·철자 오류로 인한 불일치를 Levenshtein… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-9-%EC%98%A4%ED%83%80-%EB%98%90%EB%8A%94-%EC%B2%A0%EC%9E%90-%EC%98%A4%EB%A5%98-9af0d06ea6a2)
+* [텍스트 정규화 #10 — 언어 혼용. 한영이 혼용된 텍스트에서 영어 구문을 추출·번역 매핑·패턴 기반으로… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-10-%EC%96%B8%EC%96%B4-%ED%98%BC%EC%9A%A9-1183d9567a01)
+* [텍스트 정규화 #11 — 중복된 단어 포함. 중복 단어(동일 단어·동의어 포함)로 인한 데이터 불일치를… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-11-%EC%A4%91%EB%B3%B5%EB%90%9C-%EB%8B%A8%EC%96%B4-%ED%8F%AC%ED%95%A8-3f27c545b6db)
+* [텍스트 정규화 #12 — 불용어(stopwords)의 포함 여부 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-12-%EB%B6%88%EC%9A%A9%EC%96%B4-stopwords-%EC%9D%98-%ED%8F%AC%ED%95%A8-%EC%97%AC%EB%B6%80-21cf90dbb165)
+* [텍스트 정규화 #13 — 인코딩 문제. 인코딩 불일치로 발생하는 한글 깨짐·모지바케를 탐지·변환·복구하는… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-13-%EC%9D%B8%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C-3e5688e74fd7)
+* [텍스트 정규화 #14 — 단위 표현 차이. 무게(kg, g, lb, oz)와 길이(m, cm, ft, in 등)… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-14-%EB%8B%A8%EC%9C%84-%ED%91%9C%ED%98%84-%EC%B0%A8%EC%9D%B4-c67b376117db)
 
 # 띄어쓰기
 
@@ -4678,6 +4685,8 @@ NLP
   * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
 * [MVSEP - Music & Voice Separation](https://mvsep.com/en)
 * [Nari Labs: Dia Examples](https://yummy-fir-7a4.notion.site/dia)
+  * [dia: A TTS model capable of generating ultra-realistic dialogue in one pass](https://github.com/nari-labs/dia)
+    * [Dia-1.6B · Hugging Face](https://huggingface.co/nari-labs/Dia-1.6B)
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
