@@ -2403,6 +2403,8 @@ AWS
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
 * [aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart](https://github.com/aws-samples/aim402-using-publicly-available-fms-on-amazon-sagemaker-jumpstart)
+* [aws-samples/sagemaker-genai-hosting-examples](https://github.com/aws-samples/sagemaker-genai-hosting-examples)
+  * [Qwen3 Models Released & Now Deployable on Amazon SageMaker AI!](https://www.linkedin.com/posts/peiyaoli_github-aws-samplessagemaker-genai-hosting-examples-activity-7323218227935805442-JuaM/)
 * LEX
   * [Amazon Lex에서 Open API를 이용한 대화형 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-lex-chatgpt-communication/)
   * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
@@ -2693,6 +2695,9 @@ AWS
     * 여러 spark job에서 같은 경로에 대해 동시 쓰기(update, delete, merge)시에는 보장을 할 수 있는 방법이 없어서
     * s3에서는 결국 Lock을 구현하기 위한 도구를 연동해야했었는데(dynamodb 예시 [Delta Lake on S3 | Delta Lake](https://delta.io/blog/delta-lake-s3/) 참고) 이제 그럴 필요 없어짐
   * [데이터 엔지니어링 전망: Data Engineering Weekly의 2025년 예상 | GeekNews](https://news.hada.io/topic?id=18402) 5번 항목이 유사한 전망
+* [Amazon Data Firehose와 S3Tables를 활용한 실시간 스트리밍 데이터 파이프라인 소개](https://www.linkedin.com/posts/sungminkim23_s3tables-apacheiceberg-datafirehose-activity-7322804616977383425-S0-Y/)
+  * [aws-kr-startup-samples/analytics/streaming-data-to-s3tables-with-datafirehose at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/analytics/streaming-data-to-s3tables-with-datafirehose)
+  * [saas-metering-system-on-aws/v3 at main · aws-samples/saas-metering-system-on-aws · GitHub](https://github.com/aws-samples/saas-metering-system-on-aws/tree/main/v3)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
