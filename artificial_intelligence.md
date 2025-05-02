@@ -1082,6 +1082,8 @@ Artificial Intelligence
   * [(1) Ryo Lu on X: "Using Cursor well = fast, clean code. Using it wrong = AI spaghetti you’ll be cleaning up all week. Here’s how to actually use it right: 1. Set 5-10 clear project rules upfront so Cursor knows your structure and constraints. Try /generate rules for existing codebases. 2. Be" / X](https://x.com/ryolu_/status/1914384195138511142)
     * [커서를 제대로 사용하는 12가지 방법 - by 김욱영 - Commits](https://www.commits.world/p/12-ways-to-properly-use-cursor)
     * [커서를 제대로 사용하는 12가지 방법 | GeekNews](https://news.hada.io/topic?id=20595)
+  * [로켓 AI회사 '커서(CURSOR)' 인터뷰 - YouTube](https://www.youtube.com/watch?v=oK-Skn4v4Cs)
+    * [로켓 AI회사 '커서(CURSOR)' 인터뷰 | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3835985/2556486)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
