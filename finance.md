@@ -236,6 +236,12 @@ Finance
     * 200 ETF를 구매하는 방법과 일정한 투자의 중요성에 대해 설명
   * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
   * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
+  * [금리 인하 사이클↘ 미국 국채 ETF 딱! 찍어드립니다｜미국ETF 2부 - YouTube](https://www.youtube.com/watch?v=UWKXOSQfnEo)
+    * [금리 인하 사이클↘ 미국 국채 ETF 딱! 찍어드립니다｜미국ETF 2부 | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3835825/2556240)
+    * [VidiGo 금리 인하 사이클 미국 국채 ETF 딱! 찍어드립니다｜미국ETF 2부.mp4](https://vidigo.ai//share/summary/4207c7adbf50)
+    * SY 단기체 ETF 낮은 변동성
+    * IEF 중기체 ETF 중간 위험
+    * 금리 하락 시 장기체인 TLT가 가장 유리
   * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
   * [시장금리 반등! 지금 미국채권 매수 기회? #미국채권 #채권ETF #ETF추천 ✦ 어떤 ETF 살까? ✦ 투꼰 - YouTube](https://www.youtube.com/watch?v=DxFr2FD-ClA)
   * [세상에 나온지 2달만에 1500억 모은 혼합형 ETF (SOL미국배당미국채혼합50) - YouTube](https://www.youtube.com/watch?v=-7nBM8os-ns)
