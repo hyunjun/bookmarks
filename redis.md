@@ -314,6 +314,7 @@ Redis
     * Rust로 핵심 엔진 작성, 언어별 바인딩으로 여러 언어를 지원하는 형태
     * Java와 Python에서 사용할 수 있으며, 주요 오픈소스 패키지 관리자에서 다운로드 가능
   * [Stop Using Redis. Use Open Source Instead - YouTube](https://www.youtube.com/watch?v=npnagMgbruc)
+  * [Redis 와 Valkey 무엇을 선택해야 할까? | Charsyam's Blog](https://charsyam.wordpress.com/2025/05/03/redis-%ec%99%80-valkey-%eb%ac%b4%ec%97%87%ec%9d%84-%ec%84%a0%ed%83%9d%ed%95%b4%ec%95%bc-%ed%95%a0%ea%b9%8c/)
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
