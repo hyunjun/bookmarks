@@ -4680,6 +4680,8 @@ NLP
 * [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
   * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
+* [MeloTTS](https://github.com/myshell-ai/MeloTTS)
+  * [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](https://webnautes.com/tts-raibeureori-melottsro-hangugeo-eumseong-habseonghaebogi/)
 * [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
 * [moshi.chat](https://us.moshi.chat/)
   * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
