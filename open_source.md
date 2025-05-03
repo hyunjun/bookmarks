@@ -95,6 +95,8 @@ Open Source
 * [Redis, 라이선스를 BSD 에서 듀얼 라이선스로 변경 | GeekNews](https://news.hada.io/topic?id=13942) Redis Source Available License (RSALv2), Server Side Public License (SSPLv1)
   * [글로벌 칼럼 | ‘레디스 무임승차’ AWS의 당혹스러운 ‘벨키 포크’ - ITWorld Korea](https://www.itworld.co.kr/news/332633)
   * [레디스(Redis) 이슈로 보는 오픈소스 논쟁 - 인프런 | 스토리](https://www.inflearn.com/pages/infmation-67-20240409)
+  * [Redis, 다시 오픈소스로 돌아오다 | GeekNews](https://news.hada.io/topic?id=20634)
+    * [Redis 8 에서의 AGPLv3 추가의 의미(오픈소스로의 리턴?) | Charsyam's Blog](https://charsyam.wordpress.com/2025/05/02/redis-8-%ec%97%90%ec%84%9c%ec%9d%98-agplv3-%ec%b6%94%ea%b0%80%ec%9d%98-%ec%9d%98%eb%af%b8%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%eb%a1%9c%ec%9d%98-%eb%a6%ac%ed%84%b4/)
 * [OpenTF Foundation](https://opentf.org/) Hashicorp의 Terraform license가 MPL -> BUSL로 변경하는 데 대한 반응
   * [OpenTF Foundation](https://opentf.org/announcement)
     * HashiCorp가 Terraform 등 자사의 제품을 BSL로 변경해서 오픈소스가 아니게 된 상황에 대해 OpenTF 형성
