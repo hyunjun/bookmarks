@@ -582,6 +582,9 @@ Artificial Intelligence
     * [AI를 만들 수 있게 된 개발자들. Agent부터 MCP, A2A 그리고 Agentica까지 | by luke | Apr, 2025 | Ne(o)rdinary Tech](https://tech.neordinary.co.kr/ai%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-ed277603584f)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
+  * [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
+    * [Claude, 외부 도구와 연동되는 'Integrations' 기능 공개 | GeekNews](https://news.hada.io/topic?id=20655)
+    * [AI 챗봇 클로드, 업무 자동화와 협업 혁신 위한 도구 통합...더 정교하고, 유기적인 작업 실현 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34814)
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
     * [MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY](https://dytis.tistory.com/113)
@@ -1026,6 +1029,8 @@ Artificial Intelligence
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
+* [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
+  * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -1084,9 +1089,11 @@ Artificial Intelligence
     * [커서를 제대로 사용하는 12가지 방법 | GeekNews](https://news.hada.io/topic?id=20595)
   * [로켓 AI회사 '커서(CURSOR)' 인터뷰 - YouTube](https://www.youtube.com/watch?v=oK-Skn4v4Cs)
     * [로켓 AI회사 '커서(CURSOR)' 인터뷰 | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3835985/2556486)
+  * [Cursor 사용자들의 선호 언어 모델 TOP 3 및 그 이유 | GeekNews](https://news.hada.io/topic?id=20629)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
+  * [Cursor Korea | 커서 공식 한국 사용자 모임](https://www.cursorkorea.org/) -> chung gmail 계정
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
