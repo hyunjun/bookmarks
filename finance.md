@@ -247,6 +247,8 @@ Finance
     * 금리 하락 시 장기체인 TLT가 가장 유리
   * [월 배당 ETF는 돈 복사 기계일까? (feat 커버드 콜, 옵션배당)](https://blog.naver.com/ranto28/223512199557?)
   * [시장금리 반등! 지금 미국채권 매수 기회? #미국채권 #채권ETF #ETF추천 ✦ 어떤 ETF 살까? ✦ 투꼰 - YouTube](https://www.youtube.com/watch?v=DxFr2FD-ClA)
+  * [은행은 절대 알려주지 않는 상품 총정리 (5월 적금탈출) - YouTube](https://www.youtube.com/watch?v=cUo7mDXtXAE)
+    * [은행은 절대 알려주지 않는 상품 총정리 (5월 적금탈출) | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3859332/2590790)
   * [세상에 나온지 2달만에 1500억 모은 혼합형 ETF (SOL미국배당미국채혼합50) - YouTube](https://www.youtube.com/watch?v=-7nBM8os-ns)
   * [이런 독보적인 ETF는 그냥 사는거라고 배웠습니다. - YouTube](https://www.youtube.com/watch?v=nzgLL7HGR5M) moat ACE미국WideMoat동일가중
   * [수억 연봉 펀드매니저들 짐싸게한 ETF - YouTube](https://www.youtube.com/watch?v=B5RS_vfL8iA) ACE미국주식베스트셀러 KODEX미국서학개미
