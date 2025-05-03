@@ -3101,6 +3101,7 @@ Business
   * [How-To-Succeed-At-MrBeast-Production.pdf - Google Drive](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view)
   * [MrBeast의 프로덕션 성공 비법 (유출된 PDF) | GeekNews](https://news.hada.io/topic?id=16784)
 * [GN#272 MrBeast의 프로덕션 성공 비법 | GeekNews](https://news.hada.io/weekly/202439)
+* [구글 직원은 왜 ‘구글러’일까? 커뮤니케이션 브랜딩의 힘 | 요즘IT](https://yozm.wishket.com/magazine/detail/3102/)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
