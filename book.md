@@ -1269,7 +1269,7 @@ Book
   * [문학의 도시 런던 Literary London - Jun - Medium](https://nymets.medium.com/%EB%AC%B8%ED%95%99%EC%9D%98-%EB%8F%84%EC%8B%9C-%EB%9F%B0%EB%8D%98-literary-london-8beb61a43164)
   * [문학의 도시 런던 Literary London](https://jh4hj.tistory.com/entry/%EB%AC%B8%ED%95%99%EC%9D%98-%EB%8F%84%EC%8B%9C-%EB%9F%B0%EB%8D%98-Literary-London)
 * [나라를 위해서 일한다는 거짓말](https://www.notion.so/1003/1a93f0c2cf65801dad63fce08bc2d714)
-  * ★★★☆☆ March 1, 2025
+  * ★★★☆☆ 2025.03.01
     * 이미 유튜브 등을 통해 책의 핵심 이야기를 접해서인지, 『나라를 위해서 일한다는 거짓말』을 단숨에 읽었다. 행정고시에 합격해 10년간 사무관으로 일하고, 서기관 승진 후 퇴직한 저자가 쓴 공직사회 비판서이지만, 실상은 한국 사회 전반의 구조적 문제에 대한 이야기이기도 하다.
     * 책을 관통하는 주된 문제의식은 “왜 관료들은 유난히 무기력해졌는가?”라는 질문이다. 저자는 공무원 개인의 태만이나 무능보다, 체계적으로 불필요한 업무를 양산하는 상명하복식 구조를 핵심 원인으로 지목한다. 겉으로는 “나라를 위해 일한다”라고 말하면서도 실제로는 윗선의 지시만 추종하며, ‘가짜 성과’나 ‘불필요한 일’이 반복·확대되는 현실은 결국 공무원을 무기력하게 만들고, 공직사회의 역량을 갉아먹는다. 특히, 문제에 대한 책임을 회피하기 위해 점점 더 많은 ‘서류 작업’과 ‘보고서 간소화’를 강제하는 시스템은 하위직급 공무원의 적극적인 업무 수행을 방해한다.
     * 그렇다고 공무원 개개인을 일방적으로 비난하기는 어렵다. 저자가 강조하듯, 실제로 하위직급에서 성실하게 일하며 전문성을 쌓은 이들은 많다. 문제는 이들의 역량이 무의미한 보고 체계와 권위적인 조직문화에 갇혀 제대로 활용되지 못한다는 점이다. 이러한 구조적 병폐를 타파하기 위해서는 결국 “위로부터의 인식 변화”와 “국민의 선택”이 필수적이다. 즉, 실질적인 변화를 주도할 수 있는 리더를 선출하는 정치 문화가 자리 잡아야 하고, 그것이 조직 내부에서 변화를 요구하는 목소리와 맞물려야만 비효율을 제거할 수 있다는 것이다.
@@ -1278,6 +1278,16 @@ Book
   * [나라를 위해서 일한다는 거짓말. Tags: essay Date: March 1, 2025 Score… | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/%EB%82%98%EB%9D%BC%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%A7%93%EB%A7%90-a7747b866b6b)
   * [나라를 위해서 일한다는 거짓말 - Jun’s Substack](https://recur.substack.com/p/bda)
   * [나라를 위해서 일한다는 거짓말](https://jh4hj.tistory.com/entry/%EB%82%98%EB%9D%BC%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%A7%93%EB%A7%90)
+* [인생의 의미 Seven Meanings in Life](https://www.notion.so/1003/Seven-Meanings-in-Life-1813f0c2cf65801a9734c02c7ac934cb)
+  * ★★★☆☆ 2025.01.20
+    * 한동안 마음이 불안정했던 시기에 우연히 발견한 책이다. 유사한 죽음을 대하는 사람들의 책을 반복적으로 읽으며 마음을 달래던 중 읽었는데, 잠시나마 어지러운 마음이 환기가 되었다. 나이가 들며 삶에 대한 시각이 변했는지, 과거에는 공감하기 어려웠던 이야기들이 마음에 와닿았다.
+    * 이 책은 ‘집착’과 ‘번뇌’라는 인간의 보편적 고민을 다루는데, 벗어나려 애쓰기보다 심리적 수용의 중요함을 강조한다. 불완전함을 인정하는 과정 자체를 통해 위로를 얻을 수 있다고 알려준다. 물론 이런 서적이 그렇듯 뜬구름 잡는 이야기를 한다고 생각할 수 있으므로 실제로 나아질 게 없다고 생각할 수도 있다. 나도 읽는 동안은 잠시 걱정을 덜 수 있었지만 실제 생활로 돌아와서는 (나의 부족함 때문이겠지만) 크게 변화한 건 없다고 생각한다.
+    * 그럼에도 불구하고, 여러 고민으로 지친 사람들에게 잠시나마 쉬어갈 시간을 제공한다는 점에서 읽을 가치가 있다.
+  * [Jun - 인생의 의미 Seven Meanings in Life](https://hyunjun.github.io/skunk-html/%EC%9D%B8%EC%83%9D%EC%9D%98-%EC%9D%98%EB%AF%B8-seven-meanings-in-life.html)
+  * [인생의 의미 Seven Meanings in Life. Tags: essay Date: January 20, 2025… | by Jun | May, 2025 | Medium](https://nymets.medium.com/%EC%9D%B8%EC%83%9D%EC%9D%98-%EC%9D%98%EB%AF%B8-seven-meanings-in-life-0b46021fdcca)
+  * [인생의 의미 Seven Meanings in Life - Jun’s Substack](https://recur.substack.com/p/seven-meanings-in-life)
+  * [인생의 의미 Seven Meanings in Life -](https://jh4hj.tistory.com/entry/%EC%9D%B8%EC%83%9D%EC%9D%98-%EC%9D%98%EB%AF%B8-Seven-Meanings-in-Life)
+  * [인생의 의미 Seven Meanings in .. : 네이버블로그](https://blog.naver.com/octoberblue/223855464932)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
