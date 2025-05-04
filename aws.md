@@ -2512,6 +2512,8 @@ AWS
   * AWS에서 사용자의 프라이빗 코드를 기반으로 AI를 이용한 코드 자동완성과 채팅을 할 수 있는 Q Devloper 프리뷰 출시
   * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
 * [Amazon Q Developer CLI와 함께하는 바이브 코딩 (Vibe Coding) - YouTube](https://www.youtube.com/watch?v=XwjRAVTrHgc)
+* [Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context | AWS DevOps & Developer Productivity Blog](https://aws.amazon.com/ko/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
+* [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
@@ -3027,6 +3029,7 @@ AWS
 * [AWS 53탄-1. AWS개발환경 구축-2024-09](https://brunch.co.kr/@topasvga/4030)
 * [인프런 비전공자도 이해할 수 있는 AWS 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6qr33RT-UiguSsCr_2Gq0S3)
 * [동영상강의 목록/README.md at main · ryujt/pages](https://github.com/ryujt/pages/blob/main/etc/%EB%8F%99%EC%98%81%EC%83%81%EA%B0%95%EC%9D%98%20%EB%AA%A9%EB%A1%9D/README.md)
+* [클라우드의 기초 - 주니어 개발자를 위한 AWS 가이드](https://indosaram.github.io/aws-intro-book/)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud 강의 기초 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
