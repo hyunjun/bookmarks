@@ -2620,6 +2620,7 @@ NLP
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
+* [GritLM](https://jypthemiracle.notion.site/GritLM-1e9ff228a18080eb9f61fe9c94011119)
 * [grok-1: Grok open release](https://github.com/xai-org/grok-1)
   * [Open Release of Grok-1](https://x.ai/blog/grok-os)
   * [Grok-2 Beta Release](https://x.ai/blog/grok-2)
@@ -3617,6 +3618,7 @@ NLP
 * [RAG #01. RAG 밑바닥부터 웹 채팅까지 - 파이썬사랑방 튜토리얼](https://ai.pyhub.kr/rag-01/)
 * [RAG - LLM 데이터 생성 시 발생하는 오류 해결 방법 모음 - 텍스트넷 공식 블로그](https://article.textnet.kr/errors-and-solutions-in-rag-llm)
 * [왜 내가 만든 LLM 서비스는 멍청할까요? | 요즘IT](https://yozm.wishket.com/magazine/detail/3086/) CoRAG
+* [검색 시스템에서 길이 편향(size bias)이란 무엇이며 어떻게 극복할 수 있을까요? | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B2%2580%25EC%2583%2589-%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2597%2590%25EC%2584%259C-%25EA%25B8%25B8%25EC%259D%25B4-%25ED%258E%25B8%25ED%2596%25A5size-bias%25EC%259D%25B4%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B4%25EB%25A9%25B0-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25EA%25B7%25B9%25EB%25B3%25B5%25ED%2595%25A0-%25EC%2588%2598-%25EC%259E%2588%25EC%259D%2584%25EA%25B9%258C%25EC%259A%2594-jin-hyung-park-xalqc/)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
@@ -4130,17 +4132,8 @@ NLP
 
 # Paper
 
-* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
-* [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
-* [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709)
-* [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
-* [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
-* [100-nlp-papers: 100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
-* [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
-* [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
 * [EMNLP-IJCNLP 2019 프리뷰](https://blog.pingpong.us/emnlp2019-preview)
 * [Paper Digest: EMNLP 2019 Highlights](https://www.paperdigest.org/2019/11/emnlp-2019-highlights)
 * [핑퐁팀 ML 세미나, 그 네번째](https://blog.pingpong.us/ml-seminar-season-4/)
@@ -4148,7 +4141,17 @@ NLP
 * [핑퐁팀 ML 세미나, 그 여섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-6/)
 * [**집현전 NLP 리뷰 모임**](https://github.com/jiphyeonjeon/nlp-review)
 * [Text Processing Functions | Pega Devlog](https://jehyunlee.github.io/2022/08/27/Python-DS-111-textprocfn/) Open API를 이용한 고속 논문 분석
+* [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
+* [100-nlp-papers: 100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+* [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
+* [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
+* [BRIGHT & JudgeRank](https://jypthemiracle.notion.site/BRIGHT-JudgeRank-1e9ff228a18080dcb7baeadd0744fc5c)
 * [Kakao Enterprise AI Research | 카카오엔터프라이즈 연구 성과를 공개하는 리서치 플랫폼](https://kakaoenterprise.github.io/)
+* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
+* [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
+* [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
+* [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709)
+* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
 * [SSL-narratives-NLP-1: 거꾸로 읽는 self-supervised learning in NLP](https://github.com/jwkanggist/SSL-narratives-NLP-1)
 * [SSL-NLP 파트1 - YouTube](https://www.youtube.com/playlist?list=PLMSTs9nojhszeFer8gYnEI5yA5JenWzEA)
 
@@ -4936,6 +4939,7 @@ NLP
 * [MODUCON 2019 자연어 처리 모델의 성능을 높이는 비결 Embedding - 이기창](https://www.youtube.com/watch?v=FpWe2PBu_PE)
 * [Identifying Lexico-Semantic Word Relations — A Beginner’s Guide | by Karan Praharaj | Towards Data Science](https://towardsdatascience.com/identification-of-lexico-semantic-word-relations-a-beginners-guide-427ed331e287)
 * [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=_K7ZuZi0gXE)
+* [고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B3%25A0%25EC%25B0%25A8%25EC%259B%2590-%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%25A9%25EC%2597%2590%25EC%2584%259C-%25EB%25B2%25A1%25ED%2584%25B0-%25EC%259C%25A0%25EC%2582%25AC%25EB%258F%2584%25EB%25A5%25BC-%25ED%258C%258C%25ED%2597%25A4%25EC%25B9%2598%25EA%25B8%25B0-jin-hyung-park-bvjsc/) 임베딩 기반 검색에서 높은 유사도 점수가 얼마나 중요한 시그널이 될 수 있는지
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
