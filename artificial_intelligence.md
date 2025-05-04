@@ -896,6 +896,8 @@ Artificial Intelligence
   * [최승준 - 리처드 서튼, 튜링상 수상 인터뷰 "경험으로부터 배우는 것, 그것이 핵심입니다" 🎉 튜링상 수상이라는... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0pBbB5SefJXzqmNivd8RiwUsTFdV5daEV1mZJiP2NWAEuxNuAbr1ksGoxyB7Y3Lthl)
   * [최승준 - 인간 데이터만으로 충분한가? 🤔: 안녕하세요, 구글 딥마인드 팟캐스트에 다시 오신 것을 환영합니다. 오늘... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0mDhAYShQ3ssSuLBadcbMfsbfj6sqymdzACzb4XP9pG1vNe8APeLK5DHMLBncFuZGl)
 * [앤트로픽을 모델 사용 통계를 통한 LLM 사용 현황](https://bcho.tistory.com/1469)
+* [“왜 8명이나 필요하죠? 1명이면 다 하는데” (곽근봉 원지랩스 대표) - YouTube](https://www.youtube.com/watch?v=BvjWJU09AGQ)
+* [“AI는 기술이 아니라 HR로 봐야 한다” (곽근봉 원지랩스 대표) - YouTube](https://www.youtube.com/watch?v=_j7NjmCbrDQ)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1035,6 +1037,7 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
+* [Visily - AI-powered UI design software](https://www.visily.ai/)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
