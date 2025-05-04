@@ -3780,6 +3780,7 @@ Business
 * [Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연 - YouTube](https://www.youtube.com/watch?v=RLnBSwZ-flw)
   * [VidiGo Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연.mp4](https://vidigo.ai/share/summary/0703c06c5800)
   * [Ep.39 B2B 스타트업이 글로벌 시장 진출하는 방법 - 세콰이아 캐피탈 강연 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/585302)
+* [본격 탐구, B2B와 B2C 마케팅의 다른 점 : 네이버 블로그](https://blog.naver.com/merchantkim/223854785082)
 * [(1) Jinhwan Kim - 3년 전에 썼던 "스타트업이 영업을 간과하는 이유와 그 대안"이 작게나마 파장을 불러일으켰다.... | Facebook](https://www.facebook.com/jinhwan.kim.319/posts/pfbid0nTpUU1PnA3vjiu5P8Tgo6cdrJZzDuApde2CNingkY4BChKRwptZC1ibcfmoVWhBXl)
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
