@@ -558,6 +558,7 @@ Artificial Intelligence
   * [AI 모델을 위한 최적의 데이터 연결 솔루션, Model Context Protocol(MCP)](https://www.notion.so/AI-Model-Context-Protocol-MCP-1cfe323ea2b580d7ac8ffc707ec0a7e2)
   * [인공지능 AI의 대변환, MCP 쉬운 설명 | 클로드 챗지피티 - YouTube](https://www.youtube.com/watch?v=oAxunD8k0C8)
   * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
+  * [AI 생태계 연결하는 USB-C 포트, MCP 알아보기 - YouTube](https://www.youtube.com/watch?v=OdwuHsXPqn4)
   * [이주환 - MCP가 무엇인지에 대해서는 이미 많은 전문가들께서 잘 설명해 주고 계시기에, 저는 이 agentic... | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0F9vVgJSFDreX8aaocD3k36o2NYKwTXMwbJ3GJ2nBZhJsqJJ5mF19GaVqQPoBTnsyl)
   * [박성철 - MCP를 코드의 종말 측면에서 바라볼 수 있다. 여러 번 말했지만, 나는 AI가 코드를 생성하는 방식이... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02uJ5iJKSvqxBjwva7NAvpwMb725nfY8p17y2Mm8jHeQk7rRvKfGJJaoTpSQsEcb6al)
   * [사이오닉 MCP 시리즈 1 MCP를 이용하여 IntelliJ 와 코딩해보자! - YouTube](https://www.youtube.com/playlist?list=PLhZjirOnaXNy6v4jX_tEM0pCd7ADiC0vZ)
