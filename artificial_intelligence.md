@@ -570,6 +570,7 @@ Artificial Intelligence
   * [MCP – Model Context Protocol 보안 위험 :: Channy's Blog](https://channy.creation.net/blog/1937)
     * [MCP Servers are not safe!. Serious security risks are associated… | by Mehul Gupta | Data Science in Your Pocket | Apr, 2025 | Medium](https://medium.com/data-science-in-your-pocket/mcp-servers-are-not-safe-bfbc2bb7aef8)
     * [The MCP Authorization Spec Is... a Mess for Enterprise – Software Blog](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
+  * [모르고 쓰면 개인정보 털려... 개발자 사이에 제2의 딥시크라는 AI 앱 혁명 MCP, 보안 유지하려면 어떻게? - YouTube](https://www.youtube.com/watch?v=bV-7pofmpng)
   * [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
   * [Minho Hwang - 🚀 MCP 열풍! 앤트로픽의 AI 연결 표준, 빅테크는 왜 주목하나? AI 기술에 관심 있는... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid033LrVfzLbebfcsFpgC4QiMiWzE2JdhEQ2BG7kXESgSZpYDfw1YqqHi2T1wFazfg8il)
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
