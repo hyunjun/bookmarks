@@ -1097,6 +1097,7 @@ Artificial Intelligence
   * [Cursor 사용자들의 선호 언어 모델 TOP 3 및 그 이유 | GeekNews](https://news.hada.io/topic?id=20629)
   * [AI 코드 편집기 Cursor 내에서 Context 활용하기](https://devway.tistory.com/57)
   * [커서의 커스텀 모드 설정 가이드: 워크플로우를 최적화하는 방법](https://devway.tistory.com/58)
+  * [코딩 몰라도 앱 잘 만드는 개발자 쏟아진다 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=tiC5k9P93cE)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
