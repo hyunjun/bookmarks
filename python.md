@@ -5839,6 +5839,8 @@ Python
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
+* [ty: Astral's new Type Checker (formerly Red-Knot) - Talk Python Live Stream - YouTube](https://www.youtube.com/watch?v=XVwpL_cAvrw)
+  * [Playground | ty](https://types.ruff.rs/)
 
 # Tutorial
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
