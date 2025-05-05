@@ -348,6 +348,7 @@ Artificial Intelligence
   * [Google A2A - a First Look at Another Agent-agent Protocol | HackerNoon](https://hackernoon.com/google-a2a-a-first-look-at-another-agent-agent-protocol)
     * [Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews](https://news.hada.io/topic?id=20274)
   * [Building Multi-Agent with Google's A2A (Agent2Agent) Protocol, Agent Development Kit(ADK), and MCP (Model Context Protocol) - A Deep Dive(Full Code) | AI Cloud Lab](https://medium.com/ai-cloud-lab/building-multi-agent-ai-app-with-googles-a2a-agent2agent-protocol-adk-and-mcp-a-deep-a94de2237200)
+  * [Google A2A Official Sample tutorials demo - YouTube](https://www.youtube.com/watch?v=3KXWyWeLWmg)
   * [adk-bedrock-samples: A collection of sample agents built with Agent Development (ADK) and Amazon Bedrock](https://github.com/ksmin23/adk-bedrock-samples)
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
