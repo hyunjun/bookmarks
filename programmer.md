@@ -376,6 +376,8 @@ Programmer
 * [프로그래밍이 꼭 그런 것만을 말하지는 않습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/2797/)
 * [Kind Engineering: How To Engineer Kindness](https://kind.engineering/)
   * [친절 엔지니어링 - 구체적인 친절 가이드 | GeekNews](https://news.hada.io/topic?id=18837)
+* [Mastering the Human Side of Engineering: Lessons from Apple, Palantir and Slack](https://review.firstround.com/engineering-lessons-apple-palantir-slack/)
+  * [엔지니어링의 인간적 측면 마스터하기: Apple, Palantir, Slack에서 배운 리 | GeekNews](https://news.hada.io/topic?id=20707)
 * [If you want to sharpen up your skills as a software engineer, read the following 10 articles](https://www.linkedin.com/posts/fernando-franco-4696708_database-sharding-case-study-postgresql-activity-7297940734702219265-g5Oo/)
 * [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/)
   * [내가 아는 최고의 개발자들이 공통적으로 가진 특성 | GeekNews](https://news.hada.io/topic?id=20244)
