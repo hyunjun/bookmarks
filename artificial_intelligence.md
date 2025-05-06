@@ -1074,6 +1074,7 @@ Artificial Intelligence
   * [Cursor AI Chat 첫 번째 - YouTube](https://www.youtube.com/watch?v=PEdNCNO7eDE)
   * [Cursor AI 사용법 - 모두가 코딩을 쉽게할 수 있는 시대가 왔다! - YouTube](https://www.youtube.com/watch?v=fjrKz4KAJQ0)
   * [Cursor AI 초보자 가이드 - YouTube](https://www.youtube.com/watch?v=Jk5-a25sPzY)
+  * [코딩의 첫걸음: 도구와 프로젝트 구성](https://devway.tistory.com/60)
   * [Cursor를 사용한 코드 작성 방법 | GeekNews](https://news.hada.io/topic?id=17488)
   * [I Made an iOS App in MINUTES with This AI Tool! - YouTube](https://www.youtube.com/watch?v=oe3Jn6FRoII)
   * [인공지능 AI 코딩 에디터 커서의 새로운 인공지능 에이전트 활용법 | 컴포저 에이전트](https://www.youtube.com/watch?v=KRJv7YMkjaA)
