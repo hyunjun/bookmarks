@@ -2033,6 +2033,7 @@ App
   * [GitLab 밋업으로 알아보는 VSM 기반 DevSecOps와 슬랙봇 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-korea-18-meetup/)
   * [리눅스 서버에서 실행한 작업이 중단될 때 슬랙으로 알림 보내기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/6851)
   * [개발자가 업무효율을 높이는 방법 | 슬랙(Slack)봇 개념부터 개발까지 - YouTube](https://www.youtube.com/watch?v=dyENPJdtsmQ)
+  * [미니아숙업 슬랙앱 따라잡기 - 생성형 AI 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223102390530)
   * [everymoji](https://everymoji.com/)
     * [사이드 프로젝트는 사이드가 아니다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/16158)
       * 슬랙에서 사용하는 텍스트 기반 이모지를 쉽게 만들게 하고 싶다는 생각에 사이드 프로젝트로 애니메이션 이모지를 쉽게 만드는 에브리모지 작성
