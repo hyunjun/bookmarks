@@ -3283,6 +3283,16 @@ Programming Books
   * [실리콘밸리 프로세스의 힘 The Power of Process | by Jun | Apr, 2025 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%ED%9E%98-the-power-of-process-27bcb5c1654d)
   * [실리콘밸리 프로세스의 힘 The Power of Process - Jun’s Substack](https://recur.substack.com/p/the-power-of-process)
   * [실리콘밸리 프로세스의 힘 The Power o.. : 네이버블로그](https://blog.naver.com/octoberblue/223843187338)
+* [일하는 방식의 혁신이 진짜 혁신이다](https://www.notion.so/1003/1e23f0c2cf65801880c0d875888e46c0)
+  * ★★★☆☆ April 26, 2025 → April 27, 2025
+    * [나라를 위해서 일한다는 거짓말](https://www.notion.so/1a93f0c2cf65801dad63fce08bc2d714?pvs=21) 과 유사한 내용이지만 퇴직 후 소회를 쓴 느낌이 아니라, 제대로 된 일을 하기 위해 정책 제언을 하는 느낌이라 좀 더 내용이 구체적이고 문제 해결을 목표로 대안을 제시하는 점이 인상적이다. 국문과 출신의 사무관, 관료 출신과 성공한 IT 서비스를 두 개나 성공시킨 CEO 출신의 NIA 원장 출신이란 점 역시 내용의 차이를 만들었다.
+    * 저자는 우리나라가 한때 정보화 선진국이었지만, 현재는 낡은 레거시 시스템과 관행, ‘승자의 저주’에 갇혀 혁신이 정체되었다고 진단한다. 디지털 전환, AI 도입 등 새로운 기술 환경에 맞춰 정부와 공공 기관이 일하는 방식 자체를 근본적으로 바꿔야 한다고 강조한다. 예를 들어, 애자일 방법론이 만능은 아니지만, 필요한 부분에는 적용이 필요하다고 하는 부분은, 그래도 나름 이쪽을 안다고 생각하는 내가 보기에, 적절한 제언이다. 폭포수를 무조건 배제하고 애자일을 도입해야 한다는 주장이 아니다. 기술, 제도 도입이나 종합 대책이 아니라 일하는 방식 자체의 혁신이 진짜 혁신임을 역설한다.
+    * 개인적으로는 개발자 출신이란 배경 때문에 저자의 주장에 공감이 가지만, 너무나 경직된 관료 사회에 과연 변화가 가능할까하는 의심이 든다. 대다수 우리나라 공무원들의 유능함은 의심하지 않지만, 정무직 출신에 의해 방향이 휘둘릴 수 밖에 없는 현실의 벽은 정말 높고, 상의하달식 조직 구조로 인해 사회의 변화도 쫓기 어려운데 기술의 변화를 따라간다는 건 어림도 없는 일이다. 저자도 정책 추진 과정에서 직접 경험한 한계나 실패, 원인을 솔직히 기술했다.
+    * [실리콘밸리 프로세스의 힘 The Power of Process](https://www.notion.so/The-Power-of-Process-1dd3f0c2cf65809c97dddb3a70b0fa98?pvs=21) 의 읽으면서 역시 시스템으로 바꿔야 한단 생각을 하던 중이었으나, “일하는 방식의 변화”라는 건 저자의 말처럼 근본적인 변화라 시스템만으로는 저자가 겪었듯 역부족이다. 작은 변화도 귀찮아하는게 사람이라 (좋건 나쁘건) 수십년 동작한 조직의 업무 방식은 속성상 비범한 리더가 있어야 조금이라도 변화할 수 있을텐데, 이건 시스템으로 어떻게 할 수 있는 영역이 아니기 때문(후반부에 나오듯 현 정부들어 망가진 수많은 영역을 생각해보면)에 어쩔 수 없이 의구심부터 든다. 과연 다음 정부에선 변화가 있을까? 기대해봐도 될까?
+  * [Jun - 일하는 방식의 혁신이 진짜 혁신이다](https://hyunjun.github.io/skunk-html/%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%98%81%EC%8B%A0%EC%9D%B4-%EC%A7%84%EC%A7%9C-%ED%98%81%EC%8B%A0%EC%9D%B4%EB%8B%A4.html)
+  * [일하는 방식의 혁신이 진짜 혁신이다. Tags: management Date: April 26, 2025 →… | by Jun | May, 2025 | Medium](https://nymets.medium.com/%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%98%81%EC%8B%A0%EC%9D%B4-%EC%A7%84%EC%A7%9C-%ED%98%81%EC%8B%A0%EC%9D%B4%EB%8B%A4-3d027a223806)
+  * [일하는 방식의 혁신이 진짜 혁신이다 - Jun’s Substack](https://recur.substack.com/p/ae3)
+  * [일하는 방식의 혁신이 진짜 혁신이다 : 네이버 블로그](https://blog.naver.com/octoberblue/223856694885)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
