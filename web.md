@@ -1713,6 +1713,7 @@ Web
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+  * [FastAPI Cloud — You code. We Cloud.](https://fastapicloud.com/)
   * [fastapi-from-dj: FastAPI quick start from Django](https://github.com/pincoin/fastapi-from-dj)
   * [fastapi-rocket-boilerplate: 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!](https://github.com/asacristani/fastapi-rocket-boilerplate)
     * [Presenting the FastAPI Rocket Boilerplate](https://www.linkedin.com/posts/asacristani_fastapi-backenddevelopment-opensource-activity-7117118952064851969-b0gV/)
