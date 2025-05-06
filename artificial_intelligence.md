@@ -400,6 +400,7 @@ Artificial Intelligence
   * [How To Get The Most Out Of Vibe Coding | Startup School - YouTube](https://www.youtube.com/watch?v=BJjsfNO5JTo)
     * [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌, 요즘 서비스는 다 이렇게 만듭니다 - YouTube](https://www.youtube.com/watch?v=Y2SZNbnBjN0)
   * [AI랑 일하면서 생긴 나누고 싶은 생각들](https://brunch.co.kr/@boorownie/16)
+  * [**(내가 아는) 바이브 코딩에 대한 모든 것 - haebom**](https://haebom.dev/archive?post=xjqy1g2vdrgyp26vd54z)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
