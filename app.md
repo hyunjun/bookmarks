@@ -827,6 +827,7 @@ App
   * [Zapier로 노션 데이터와 슬랙을 연동해보자](https://onboardingsohard.ghost.io/zapier1/)
   * [노코드 자동화 툴로 일잘러 데이터 분석가 되기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/01/nocode-tool.html) Integromat
   * [오프라이트 & TickTick 연동하기 (feat. Zapier)](https://jojoldu.tistory.com/796)
+  * [Zapier MCP—Connect your AI to any app instantly](https://zapier.com/mcp)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 ## Development File Manager
