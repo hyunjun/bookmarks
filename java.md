@@ -644,6 +644,10 @@ Java
 * [Introduction and pitfalls of Java's new concurrency model by David Vlijmincx - YouTube](https://www.youtube.com/watch?v=UjzLaVI87mA)
 * [Structured Concurrency in Java: The What & Why • Balkrishna Rawool • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fbI3qveS_Is) virtual thread
 * [조회 속도 개선하기 (ESM '문의하기' 기능 개편)](https://ebay-korea.tistory.com/109)
+* [Concurrency - Part 1 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%201/)
+* [Concurrency - Part 2 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%202/)
+* [Concurrency - Part 3 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%203/)
+* [Concurrency - Part 4 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%204/)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -2767,6 +2771,7 @@ Java
 * [도메인 특화 언어와 단위 테스트 - 5부 :: Eternity's Chit-Chat](https://eternity-object.tistory.com/38)
 * [도메인 특화 언어와 단위 테스트 - 6부 :: Eternity's Chit-Chat](https://eternity-object.tistory.com/39)
 * [SaaS 테스트 안정감을 N배로 확보할 수 있었던 이유](https://blog.gangnamunni.com/post/how-we-improved-test-stability/)
+* [Mock vs Spy in Mockito — Never Ask Again - Curiosity into `Code`](https://moham.dev/java/Mock%20vs%20Spy%20in%20Mockito%20%E2%80%94%20Never%20Ask%20Again/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
