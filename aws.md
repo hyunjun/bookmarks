@@ -2382,6 +2382,7 @@ AWS
 * [Amazon SageMaker Clarify – 파운데이션 모델 평가 기능 출시 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
+* [AWS SageMaker HyperPod (w. EKS) 도입기](https://dev-ryuon.tistory.com/120)
 * [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
 * [GenAI 모델 배포를 위한 툰스퀘어의 Amazon SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amazon-sagemaker-for-genai-model-deployment/)
 * [Amazon SageMaker 기반 완전 관리형 MLflow 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/)
