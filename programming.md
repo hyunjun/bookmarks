@@ -9222,6 +9222,8 @@ Programming
 * [Using Causal ML Instead of A/B Testing | by Samuele Mazzanti | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7fc0)
 * [Benjamin Vincent - What-if- Causal reasoning meets Bayesian Inference | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=gV6wzTk3o1U)
 * [Causal-Inference-with-Python: Causal Inference for The Brave and True 책의 한국어 번역 자료입니다](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)
+* [2504.09723 AgentA/B: Automated and Scalable Web A/B Testing with Interactive LLM Agents](https://arxiv.org/abs/2504.09723)
+  * [LLM을 활용한 사용자 시뮬레이션으로 기존 A/B 테스트를 일부 대체할 수 있다](https://www.linkedin.com/posts/%ED%8F%89%EC%9B%90-%EC%84%9C-312944156_%EC%B5%9C%EA%B7%BC-ab-test%EC%97%90-%EA%B4%80%ED%95%9C-%EB%85%BC%EB%AC%B8%EC%9D%84-%ED%95%98%EB%82%98-%EC%9D%BD%EC%96%B4%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-llm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-activity-7322803935092637696-vE1i/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
@@ -9252,6 +9254,7 @@ Programming
   * [FEConf 2024 A3 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며... | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1185330)
 * [04화 QA 엔지니어의 도구 활용 팁](https://brunch.co.kr/@jamescompany/63) Selenium Cypress Playwright
 * [생성형 AI로 모의 이력서 테스트 데이터 만들기](https://chance-doe.tistory.com/29)
+* [Python을 이용해 Builder 패턴으로 API 자동화 테스트 코드 구성하기](https://chance-doe.tistory.com/32)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
