@@ -2948,6 +2948,23 @@ Programming
 * [Monolithic to Microservices Architecture with Patterns & Best Practices | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Aug, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 * [From monolith to microservices: How applications evolve | Red Hat Developer](https://developers.redhat.com/articles/2022/01/19/monolith-microservices-how-applications-evolve)
 * [Monolithic to Microservices: Why and How - Discover Better Value Faster](https://www.cloudnowtech.com/blog/monolithic-to-microservices-why-and-how/)
+* [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
+* [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
+* [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
+* [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
+* [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
+* [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
+* [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
+* [Considering Migrating a Monolith to Microservices? • Chris Richardson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
+* [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
+* [Airbnb at Scale: From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=PIw1WF1UXNc)
+  * Invest in common infra early - API Framework, Powergrid, OneTouch, Spinnaker
+  * Simplify service dependencies
+  * Platformize data hydration
+  * Unify client-facing API - Layouts & Placements, Deferred sections, Loggin
+* [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
+  * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
+* [Patterns for Monolith to Microservice Migration](https://newsletter.systemdesigncodex.com/p/patterns-for-monolith-to-microservice)
 * [Breaking down the monolith - Embracing new opportunities by Vassilis Poursalidis & Yannis Rizos - YouTube](https://www.youtube.com/watch?v=2ibxtNw0qaA)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
@@ -3000,8 +3017,6 @@ Programming
   * 이외에도 non blocking IO를 통해 cpu bound 문제 해결
 * [결과적 일관성인가? 최종적 일관성인가? | Popit](https://www.popit.kr/%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80-%ec%b5%9c%ec%a2%85%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80)
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
-* [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
-* [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 * [API Gateway Throttling 구현 | Doublem.org](https://doublem.org/api-gateway-basic/)
 * [How Do I Choose? API Gateway vs. Ingress Controller vs. Service Mesh - NGINX](https://www.nginx.com/blog/how-do-i-choose-api-gateway-vs-ingress-controller-vs-service-mesh/)
@@ -3019,9 +3034,6 @@ Programming
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [Understanding the API Gateway](https://www.linkedin.com/posts/sahnlam_understanding-the-api-gateway-an-api-gateway-ugcPost-7145281251187339265-og7g/)
 * [What does API gateway do?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7178775881576820737-Cg3W/)
-* [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
-* [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
-* [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
 * [Spring Camp 2018 : 11번가 Spring Cloud 기반 MSA로의 전환 – 지난 1년간의 이야기](http://readme.skplanet.com/?p=13933) spring boot, hystrix, ribbon, eureka, zuul
 * [Why Microservices Work For Us](https://segment.com/blog/why-microservices/)
 * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
@@ -3116,9 +3128,6 @@ Programming
 * [Why Microservices Fail - YouTube](https://www.youtube.com/watch?v=B3O-qYM-Kkw)
 * [Seven Ways to Fail at Microservices - YouTube](https://www.youtube.com/watch?v=nEO4eAr2AGE)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
-* [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
-* [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
-* [Considering Migrating a Monolith to Microservices? • Chris Richardson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Lessons from DAZN: Scaling Your Project with Micro-frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
@@ -3256,7 +3265,6 @@ Programming
 * [A Design Analysis of Cloud-based Microservices Architecture at Netflix | by Cao Duc Nguyen | The Startup | Medium](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 * [우아콘2020 배달의민족 데이터베이스 IDC 탈출기 - YouTube](https://www.youtube.com/watch?v=kIVevqv1sEY) monolith DB 이전
 * [Best of 2020: When To Use - and Not To Use - Microservices - Container Journal](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
-* [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
 * [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
 * [6 overlooked facts of microservices | Enable Architect](https://www.redhat.com/architect/microservices-overlooked-facts)
 * [Beyond Microservices in a one page | Joe's Happy Life](http://www.moneystock.net/wp_e/2021/04/30/beyond-microservices-in-a-one-page/)
@@ -3311,11 +3319,6 @@ Programming
 * [Talk&Talk 누구나 쉽게 이해할수 있는 마이크로서비스 아키텍처(MSA) #1편 - YouTube](https://www.youtube.com/watch?v=8d4h7K_Fq-0)
 * [Is my Microservice actually a Distributed Monolith in disguise? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/is-my-microservice-actually-a-distributed-monolith-in-disguise/)
 * [**The Human Side of Airbnb’s Microservice Architecture - YouTube**](https://www.youtube.com/watch?v=yGOtTd-l_3E)
-* [Airbnb at Scale: From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=PIw1WF1UXNc)
-  * Invest in common infra early - API Framework, Powergrid, OneTouch, Spinnaker
-  * Simplify service dependencies
-  * Platformize data hydration
-  * Unify client-facing API - Layouts & Placements, Deferred sections, Loggin
 * [7 Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
 * [How Coupang built a microservice architecture | Coupang Engineering](https://medium.com/coupang-engineering/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 * [**How to Design Reliable Microservices | by Chinedu Ikechi | Mar, 2022 | Level Up Coding**](https://levelup.gitconnected.com/how-to-design-reliable-microservices-5efba55172da) 실패 이유와 해결/방지 방법 전반적인 내용 정리
@@ -3363,8 +3366,6 @@ Programming
 * [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
 * [Microservices – Please, don’t | Riak Technologies](https://riak.com/posts/technical/microservices-please-dont/index.html)
 * [What Are Microservices Really All About? (And When Not To Use It) - YouTube](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
-* [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
-  * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
 * [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
 * [엔터프라이즈 MSA 이야기 1탄 - 주문서비스(Milestone1) :: GS Retail Engineering](https://gsretail.tistory.com/26)
