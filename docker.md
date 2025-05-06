@@ -720,6 +720,7 @@ Docker
 * [맥을 Docker remote host로 사용하기](https://puddingcamp.com/topic/using-an-imac-as-a-docker-remote-host)
 * [도커가 바꾼 개발바닥 - YouTube](https://www.youtube.com/watch?v=e0koWWAmXSk) 설명을 잘 함(역시 강의 만들만 함)
 * [자고 일어나니 Docker Captain이 되었다](https://ykarma1996.tistory.com/219)
+* [Docker의 문제들이 탈출 러시를 부른 이유 (5가지 대안 컨테이너 런타임) - YouTube](https://www.youtube.com/watch?v=NGAxHC0f1wU)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2108,6 +2109,7 @@ Docker
 * [Kubernetes v1.33: Octarine | Kubernetes](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
   * [Kubernetes v1.33 - Octarine](https://zerotay-blog.vercel.app/4.RESOURCE/KNOWLEDGE/Kubernetes/etc/%EB%B2%84%EC%A0%84/Kubernetes%20v1.33%20-%20Octarine/)
 * [How Kubernetes Runs Containers : A Practical Deep Dive](https://blog.esc.sh/kubernetes-containers-linux-processes/)
+* [쿠버네티스 StatefulSet 환경에서 Redis RDB 손상 긴급 대응하기 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4-statefulset-%25ED%2599%2598%25EA%25B2%25BD%25EC%2597%2590%25EC%2584%259C-redis-rdb-%25EC%2586%2590%25EC%2583%2581-%25EA%25B8%25B4%25EA%25B8%2589-%25EB%258C%2580%25EC%259D%2591-jin-hyung-park-vbcgf/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
