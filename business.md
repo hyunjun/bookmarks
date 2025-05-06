@@ -973,6 +973,7 @@ Business
   * 3. 업무 순서
   * 4. 프로세스를 개선해야 하는 일 vs. Ad-hoc으로 처리할 일
   * 5. 안해도 되는 일
+* [약 3000조의 가치를 창출해낸 실리콘벨리의 코치가 말하는 '협력'](https://eopla.net/magazines/29244)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
