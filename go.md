@@ -243,7 +243,6 @@ Go
 * [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
 * [**Request-Response Olympics — The Search For The Perfect Request-Response Protocol**](https://medium.com/perimeterx/rpc-olympics-the-search-for-the-perfect-rpc-protocol-269ae97f59cc)
 * [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
-* [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 * [project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
   * [byounghoonkim/project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
 * [Golang: Three common programming Problems - Higher-Order Functions - Medium](https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af) tips like Set, ==, ...
@@ -665,6 +664,10 @@ Go
 * [caddy2 - A new kind of extensible platform for server apps](https://caddyserver.com/v2)
 * [casbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang](https://github.com/casbin/casbin)
 * [Clones of the \*nix utilities written in go](https://github.com/polegone/gonix)
+* [curing: io_uring based rootkit](https://github.com/armosec/curing)
+  * [io_uring Rootkit Bypasses Linux Security Tools - ARMO](https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security/)
+    * [curing/poc/POC.md at main · armosec/curing · GitHub](https://github.com/armosec/curing/blob/main/poc/POC.md)
+  * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
 * [BrodalOkasakiHeap - An implementation of Brodal-Okasaki heap using Go](https://github.com/ckaygusu/BrodalOkasakiHeap)
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
