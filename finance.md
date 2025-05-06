@@ -43,12 +43,6 @@ Finance
 * ["나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀버전) - YouTube](https://www.youtube.com/watch?v=wFZwsbQnLzw)
   * [VidiGo "나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀](https://vidigo.ai/share/summary/f30ea11b2cc4)
   * ["나중에는 못 바꾼다" 지금 당장 '이걸' 없애야 세금이 확 줄어듭니다 (안수남 세무사 풀버전) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/933496)
-* [재편집본 연금저축, IRP 잘못 가입하면 세금 토해낼 수 있습니다 - YouTube](https://www.youtube.com/watch?v=EQfK73-WaLk) 퇴직
-* [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw) 퇴직
-* [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
-* ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 - YouTube](https://www.youtube.com/watch?v=TarBHRN6zNA) IRP
-  * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824830)
-* [퇴직금 1억으로 노후 돈 걱정 끝내는 법 "IRP에서 이렇게 하면 평생 연금 나와요" | 김범곤 대표 4부 - YouTube](https://www.youtube.com/watch?v=j_3BVr9Z2WA)
 * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=ZrJPldU0574)
   * [VidiGo "역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드](https://vidigo.ai/share/summary/88f64fabcae6)
   * ["역대급 고금리" 나이제한 없는 1억 만들기 치트키 통장 찾았습니다. 올해 안에 당장 만드세요#돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808558)
@@ -77,16 +71,6 @@ Finance
     * 상방이 닫혀있는 구조이기 때문에 비추천
     * 예금자 보호가 되기 때문에 하방이 꽉 막혀있음
 * [광고❌ 아직도 안하고 계세요? 🤔 목돈은 이렇게 굴리세요ㅣ목돈굴리기ㅣ파킹통장 ,CMA, 채권 금리 비교 & 상품 추천 - YouTube](https://www.youtube.com/watch?v=jaMI4NrRYcY)
-* ISA
-  * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
-  * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8)
-    * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
-    * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
-  * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 - YouTube](https://www.youtube.com/watch?v=s4P8Rx1KdBk)
-    * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/914043)
-  * [당장 안 만들면 손해, 만능 계좌 ‘ISA’의 모든 것 - PUBLY](https://publy.co/content/7609)
-  * [ISA 계좌 지금 당장 만들어야합니다ㅣ나수지의 글로벌ETF - YouTube](https://www.youtube.com/watch?v=wZk9NfqbW4c)
-  * ["한국 신용도 추락?" 예적금 말고 ISA계좌에 '이것' 사모으세요. 노후준비 끝입니다｜마경환 대표 4부 - YouTube](https://www.youtube.com/watch?v=hBzQqn4NPaM)
 * [제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면) - YouTube](https://www.youtube.com/watch?v=QGHZgpwO-4k)
   * [VidiGo 제발 주식, 코인하지말고 이것부터 해줘요... (본인이 안전지향이라면).mp4](https://vidigo.ai/share/summary/749fd46d76f2)
   * [평범한 사람도 목돈 모으는 최적의 5가지 방법 ✅ | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/927504)
@@ -154,9 +138,6 @@ Finance
 * [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
 * [개미들만 모르는 증권사 리포트 읽는 법](https://blog.toss.im/article/desperate-shareholders-07)
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
-* [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
-* [이 좋은 걸 왜 지금에서야…퇴직연금 묵혀둔 직장인 희소식 | 한국경제](https://www.hankyung.com/article/202410078863i)
-* ["연평균 8% 찍었어요" 매달 여윳돈 75만원씩 이것 사 모으세요. 노후 돈 걱정 끝입니다 | 이상건 센터장 3부 #퇴직연금 - YouTube](https://www.youtube.com/watch?v=0z96YHJIK-4)
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
@@ -192,11 +173,7 @@ Finance
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 * [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
-* [연말정산과 노후 준비를 위한 필수템 “연금저축펀드”를 소개합니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/253195)
-* ["사람들이 몰라서 잘 안해요" 직장 다니시는 분들은 무조건 이 통장으로 2천만원 이상 받아가세요. (해커스 금융 일타강사 송영욱) - YouTube](https://www.youtube.com/watch?v=gAQ_eNCGNoc) 연금저축 IRP
-* 국민연금 ["제발 속지마세요." 이것 모르면 피같은 내 돈 '전부' 사라질 겁니다. (이영주 대표 1부) - YouTube](https://www.youtube.com/watch?v=mXYlYCdbBC8)
 * [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
-* [투자가 어렵다면 이 포트폴리오를 따라해보세요(ft.국민연금) - YouTube](https://www.youtube.com/watch?v=wLsg34oPIOU)
 * 발행어음
   * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw)
   * [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E)
@@ -215,7 +192,6 @@ Finance
   * [(주식) 미국 주식 입문자들을 위한 ETF 간단 소개](https://pgr21.com/freedom/92619) IVV, VOO, SPLG, VTI, QQQ, SMH, XLF, XLV, ...
   * [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
     * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
-  * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
   * [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
   * [S&P500 폭락이요? 오든 말든 이렇게만 사 모으세요｜김동면 작가 풀버전 - YouTube](https://www.youtube.com/watch?v=tgbQDeEUKl0) SPY VOO IVV SPLG / Tiger KODEX ACE / 6:4, 영구, 올웨더 포트폴리오
   * [KB자산운용 X 전인구경제연구소 배당의 킹이 온다! KBSTAR 미국S&P배당킹 ETF👑 - YouTube](https://www.youtube.com/watch?v=HyXuZCOGrj4)
@@ -258,16 +234,47 @@ Finance
     * 총수수료 기준 한국투신탁운용 ACE미국S&P500, 국내ETF는 ISA/연금저축계좌로 2000만원까지, 2000만원 초과시 글로벌ETF
     * KB자산운용 KBSTAR미국나스닥100, 2000만원 초과시 글로벌ETF
   * [주가 상승 + 고배당 + 배당성장 3박자를 갖춘 우리나라 종목들로 구성된 희한한 ETF - YouTube](https://www.youtube.com/watch?v=qEzWKCnPOnQ) PLUS고배당주, 0.2846%
-  * ["은퇴 후 월 400씩 나옵니다" ISA계좌에 담을 최고의 ETF 4가지 | 곽병열 이사 4부 - YouTube](https://www.youtube.com/watch?v=eexRzkIqiEQ)
-    * ARIRANG 글로벌인플레대응ETF
-    * KODEX 미국S&P500TR
-    * TIGER 미국나스닥넥스젠
-    * KODEX 미국FANG플러스
   * [미국 AI반도체 대장만 모은 ETF가 나왔습니다! (ft.SOL 미국AI반도체칩메이커) - YouTube](https://www.youtube.com/watch?v=8kNThGpximc)
   * [JP모간의 올인원 ETF, 하나의 ETF만 투자해도 됩니다 (ft. JFLI) - YouTube](https://www.youtube.com/watch?v=04MyDbeJLIc)
   * [ETF 랭킹 - 시가총액](https://www.etfcheck.co.kr/mobile/rank/marketCap)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
+
+# 퇴직
+* [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
+* [연말정산과 노후 준비를 위한 필수템 “연금저축펀드”를 소개합니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/253195)
+* 국민연금
+  * ["제발 속지마세요." 이것 모르면 피같은 내 돈 '전부' 사라질 겁니다. (이영주 대표 1부) - YouTube](https://www.youtube.com/watch?v=mXYlYCdbBC8)
+  * [투자가 어렵다면 이 포트폴리오를 따라해보세요(ft.국민연금) - YouTube](https://www.youtube.com/watch?v=wLsg34oPIOU)
+* 퇴직연금
+  * [이 좋은 걸 왜 지금에서야…퇴직연금 묵혀둔 직장인 희소식 | 한국경제](https://www.hankyung.com/article/202410078863i)
+  * ["연평균 8% 찍었어요" 매달 여윳돈 75만원씩 이것 사 모으세요. 노후 돈 걱정 끝입니다 | 이상건 센터장 3부 #퇴직연금 - YouTube](https://www.youtube.com/watch?v=0z96YHJIK-4)
+  * [퇴직연금 받을 때 1년에 한번씩 '이것' 하세요. 남들보다 훨씬 많이 받습니다 | 이영주 대표 15분 요약 - YouTube](https://www.youtube.com/watch?v=pKe6fPaWHS8)
+    * [퇴직연금 받을 때 1년에 한번씩 '이것' 하세요. 남들보다 훨씬 많이 받습니다 | 이영주 대표 15분 요약 | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3893825/2641056)
+* IRP
+  * [재편집본 연금저축, IRP 잘못 가입하면 세금 토해낼 수 있습니다 - YouTube](https://www.youtube.com/watch?v=EQfK73-WaLk)
+  * [일당백 인터뷰 41조원 몰린 IRP, 매력이 뭐길래 f.행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=XPKRMAoaqdw)
+  * ["사람들이 몰라서 잘 안해요" 직장 다니시는 분들은 무조건 이 통장으로 2천만원 이상 받아가세요. (해커스 금융 일타강사 송영욱) - YouTube](https://www.youtube.com/watch?v=gAQ_eNCGNoc) 연금저축 IRP
+  * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
+  * [연말에 IRP 당장 해야 하는 이유, 저만의 투자법 - YouTube](https://www.youtube.com/watch?v=AAKz3SxX2nk)
+  * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 - YouTube](https://www.youtube.com/watch?v=TarBHRN6zNA) IRP
+    * ["이 통장 무조건 만드세요" 매달 75만 원씩 넣으면 노후준비 한방에 끝입니다｜이천 대표 4부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/824830)
+  * [퇴직금 1억으로 노후 돈 걱정 끝내는 법 "IRP에서 이렇게 하면 평생 연금 나와요" | 김범곤 대표 4부 - YouTube](https://www.youtube.com/watch?v=j_3BVr9Z2WA)
+* ISA
+  * [일당백 인터뷰 이프로 추천, ISA 통장 100% 활용 방법 f. 행복자산관리연구소 김현우 소장 - YouTube](https://www.youtube.com/watch?v=fLsv3OsQv1A)
+  * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 - YouTube](https://www.youtube.com/watch?v=V2lVssjlDw8)
+    * [VidiGo 이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐](https://vidigo.ai/share/summary/58038d4312f3)
+    * [이제 '이 통장' 없으면 1억 모으기 못 합니다. 당장 넣을 돈 없어도 꼭 만드세요 #돈쭐남 #김경필 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/825159)
+  * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 - YouTube](https://www.youtube.com/watch?v=s4P8Rx1KdBk)
+    * [ISA계좌 개설부터 연금이전, 상품선택까지 모두 정리!📚 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/914043)
+  * [당장 안 만들면 손해, 만능 계좌 ‘ISA’의 모든 것 - PUBLY](https://publy.co/content/7609)
+  * [ISA 계좌 지금 당장 만들어야합니다ㅣ나수지의 글로벌ETF - YouTube](https://www.youtube.com/watch?v=wZk9NfqbW4c)
+  * ["한국 신용도 추락?" 예적금 말고 ISA계좌에 '이것' 사모으세요. 노후준비 끝입니다｜마경환 대표 4부 - YouTube](https://www.youtube.com/watch?v=hBzQqn4NPaM)
+  * ["은퇴 후 월 400씩 나옵니다" ISA계좌에 담을 최고의 ETF 4가지 | 곽병열 이사 4부 - YouTube](https://www.youtube.com/watch?v=eexRzkIqiEQ)
+    * ARIRANG 글로벌인플레대응ETF
+    * KODEX 미국S&P500TR
+    * TIGER 미국나스닥넥스젠
+    * KODEX 미국FANG플러스
 
 # Artificial Intelligence AI
 * [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
