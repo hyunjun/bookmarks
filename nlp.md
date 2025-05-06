@@ -3007,6 +3007,7 @@ NLP
     * [Node.js 개발자를 위한 Llama Stack 실용 가이드 | GeekNews](https://news.hada.io/topic?id=20245)
   * [Everything we announced at our first-ever LlamaCon](https://ai.meta.com/blog/llamacon-llama-news/)
     * [Meta가 첫번째 LlamaCon에서 발표한 모든 것 | GeekNews](https://news.hada.io/topic?id=20667)
+  * [라마 API (llama API) 바이브 코딩.. : 네이버블로그](https://blog.naver.com/ulsancoding/223855611631)
   * code-llama
     * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
       * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
