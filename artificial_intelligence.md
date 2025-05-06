@@ -377,6 +377,7 @@ Artificial Intelligence
   * [바이브 코딩 메뉴얼 - AI 에이전트를 활용한 더 빠르고 스마트한 개발](https://bcho.tistory.com/1467)
   * [바이브 코딩에 대한 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibe-coding-truth/)
   * [바이브 코딩 시대 개발자가 지녀야 하는 특성 :: ROBOCO](https://roboco.io/posts/vibecoding-best-programmers/)
+  * [바이브 코딩의 기술 :: ROBOCO](https://roboco.io/posts/the-art-of-vibe-coding/)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
   * [바이브 코딩 2탄, php언어와 AI 파운데이.. : 네이버블로그](https://blog.naver.com/ulsancoding/223811417531)
   * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
@@ -398,6 +399,7 @@ Artificial Intelligence
   * [재미로 하는 Vibe Coding -AI 통역 앱 개발 강좌 : 코딩 몰라도 따라만 하세요 - YouTube](https://www.youtube.com/live/r9zwLkMV1DE)
   * [How To Get The Most Out Of Vibe Coding | Startup School - YouTube](https://www.youtube.com/watch?v=BJjsfNO5JTo)
     * [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌, 요즘 서비스는 다 이렇게 만듭니다 - YouTube](https://www.youtube.com/watch?v=Y2SZNbnBjN0)
+  * [AI랑 일하면서 생긴 나누고 싶은 생각들](https://brunch.co.kr/@boorownie/16)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -900,6 +902,8 @@ Artificial Intelligence
 * [앤트로픽을 모델 사용 통계를 통한 LLM 사용 현황](https://bcho.tistory.com/1469)
 * [“왜 8명이나 필요하죠? 1명이면 다 하는데” (곽근봉 원지랩스 대표) - YouTube](https://www.youtube.com/watch?v=BvjWJU09AGQ)
 * [“AI는 기술이 아니라 HR로 봐야 한다” (곽근봉 원지랩스 대표) - YouTube](https://www.youtube.com/watch?v=_j7NjmCbrDQ)
+* [AI 데이터센터는 어떻게 만들어질까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3105/)
+* [AI 제품의 품질은 어떻게 판단할까?](https://brunch.co.kr/@purplesunshine/4)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1007,6 +1011,9 @@ Artificial Intelligence
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
+  * [Prompting 1.1 - Lovable Documentation](https://docs.lovable.dev/tips-tricks/prompting-one)
+* [Memex - Everything Builder for Your Computer](https://memex.tech/)
+  * [10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트 | GeekNews](https://news.hada.io/topic?id=20698)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
@@ -1124,6 +1131,7 @@ Artificial Intelligence
   * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
 * [v0 by Vercel](https://v0.dev/)
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
+  * [Next.js + shadcn/ui 개발, AI UI 생성 도구 뭐 쓸까? v0 vs Lovable 비교 후기!](https://www.facebook.com/groups/1183007433518603/posts/1186112866541393/)
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
