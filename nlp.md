@@ -318,6 +318,7 @@ NLP
 * [PRODUCTIONIZING NLP MODELS](https://www.topbots.com/productionizing-nlp-models/)
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Processing)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
+* [AI 모델 ‘지식 증류’의 모든 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3107/) distillation
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
 * [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
@@ -3350,6 +3351,8 @@ NLP
       * [AGI KR | 🤖 Arcee Spark: 작은 몸집의 AI 괴물 | Facebook](https://www.facebook.com/groups/agikr/posts/2333064283701283/)
   * [🤖💪Qwen2.5 Coder 32B: 오픈소스로 GPT-4o급 성능에 아티팩트까지!](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%AAQwen25-Coder-32B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-GPT-4o%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%97%90-%EC%95%84%ED%8B%B0%ED%8C%A9%ED%8A%B8%EA%B9%8C%EC%A7%80)
   * [Qwen3: Think Deeper, Act Faster | Qwen](https://qwenlm.github.io/blog/qwen3/)
+    * [qwen3-on-sagemaker](https://github.com/Napkin-DL/qwen3-on-sagemaker)
+      * [최근 공개된 Qwen3 모델을 Amazon SageMaker에서 효율적으로 학습하고 배포하는 전체 워크플로우 예제 코드](https://www.linkedin.com/posts/napkin_github-napkin-dlqwen3-on-sagemaker-activity-7325315642205577216-2P5o/)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -4628,6 +4631,7 @@ NLP
 * [Web Speech API로 프론트엔드에서 TTS 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2024/03/09/Web-Speech-API.html)
 * [Hi, AI: Our Thesis on AI Voice Agents | Andreessen Horowitz](https://a16z.com/ai-voice-agents/)
   * [a16z가 정리한 AI Voice 에이전트에 대한 모든 것 | GeekNews](https://news.hada.io/topic?id=15304)
+* [RAG 시스템에서의 Relevance Feedback 활용 방안 | LinkedIn](https://www.linkedin.com/pulse/rag-%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2597%2590%25EC%2584%259C%25EC%259D%2598-relevance-feedback-%25ED%2599%259C%25EC%259A%25A9-%25EB%25B0%25A9%25EC%2595%2588-jin-hyung-park-wdvpc/)
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
@@ -4796,6 +4800,7 @@ NLP
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
 * [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale | Meta AI Research](https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
+* [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
 * [Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers](https://github.com/Zyphra/Zonos)
   * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/) Zonos-v0.1: 고품질 오픈소스 TTS 모델 공개!
 
