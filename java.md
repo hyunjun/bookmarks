@@ -788,6 +788,7 @@ Java
 * [IntelliJ http Client 응답값 변수로 저장하고 사용하기](https://jojoldu.tistory.com/366)
 * [맥 환경에서 vscode, intelliJ에 zsh 지정하기](https://jojoldu.tistory.com/400)
 * [IntelliJ에서 코드 한 줄 안 짜고 JPQL 실행하기](https://www.popit.kr/intellij%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%95%88-%EC%A7%9C%EA%B3%A0-jpql-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
+* [JPQL UPDATE와 비관적 락, 낙관적 락 차이: 동시성 문제를 실무처럼 고민하기](https://velog.io/@nova-kim/JPQL-UPDATE%EC%99%80-%EB%B9%84%EA%B4%80%EC%A0%81-%EB%9D%BD-%EB%82%99%EA%B4%80%EC%A0%81-%EB%9D%BD-%EC%B0%A8%EC%9D%B4-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%8B%A4%EB%AC%B4%EC%B2%98%EB%9F%BC-%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B8%B0)
 * [인텔리J 단축키 잘 쓰는 방법](https://www.youtube.com/watch?v=0D-YYVfUxFM)
 * [IntelliJ 단축키](https://jybaek.tistory.com/834)
 * [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
