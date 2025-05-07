@@ -541,6 +541,8 @@
     * [Kotlin 기반 경량 ORM Exposed - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed/)
     * [Kotlin 기반 경량 ORM Exposed 추가 정리 part 1 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed-2/)
     * [Kotlin 기반 경량 ORM Exposed 추가 정리 part 3 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed-3/)
+  * [Kotlin Exposed Book](https://debop.notion.site/Kotlin-Exposed-Book-1ad2744526b080428173e9c907abdae2)
+    * [exposed-workshop: Kotlin Exposed 에 대한 학습 자료](https://github.com/bluetape4k/exposed-workshop/tree/develop)
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [fuel: The easiest HTTP networking library for Kotlin/Android](https://github.com/kittinunf/fuel)
   * [HTTP Client 책임 분리하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/http-client/)
