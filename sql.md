@@ -321,6 +321,8 @@ SQL
 * [Database of Databases - Home](https://dbdb.io/)
 * [How to use Indexing for SQL Query Optimization | Towards Data Science](https://towardsdatascience.com/indexing-for-sql-query-optimization-139b57db9fc6)
 * [SERIES: 데이터베이스 인덱스 공부](https://hudi.blog/series/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B3%B5%EB%B6%80)
+* [Speed Up DB Queries Like a Pro - DEV Community](https://dev.to/lovestaco/speed-up-db-queries-like-a-pro-2d95)
+  * [데이터베이스 쿼리 속도를 높이는 인덱스 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3045/)
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
