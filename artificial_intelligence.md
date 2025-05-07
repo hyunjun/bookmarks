@@ -617,6 +617,7 @@ Artificial Intelligence
   * [py-mcp-naver-search](https://github.com/jikime/py-mcp-naver-search)
     * [네이버 검색 API를 활용한 MCP 서버를 만들어보자](https://devway.tistory.com/55)
   * [py-mcp-youtube-toolbox](https://github.com/jikime/py-mcp-youtube-toolbox)
+    * [Youtube API를 이용하여 MCP Server를 만들어보자.](https://devway.tistory.com/63)
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
