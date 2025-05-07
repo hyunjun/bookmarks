@@ -1714,6 +1714,7 @@ Web
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [FastAPI Cloud — You code. We Cloud.](https://fastapicloud.com/)
+    * [fastapi 창시자가 fastapicloud 를 시작했습니다. | GeekNews](https://news.hada.io/topic?id=20731)
   * [fastapi-from-dj: FastAPI quick start from Django](https://github.com/pincoin/fastapi-from-dj)
   * [fastapi_mcp: Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!](https://github.com/tadata-org/fastapi_mcp)
     * [Welcome to FastAPI-MCP! - FastAPI MCP](https://fastapi-mcp.tadata.com/getting-started/welcome)
