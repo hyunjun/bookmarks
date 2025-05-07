@@ -2500,6 +2500,7 @@ NLP
   * [Claude 클로드 사용법 | AI로 데이터 분석하기 | Daily Log](https://jiyeonseo.github.io/2024/05/31/data-analytic-with-claude/)
   * [Introducing Claude 3.5 Sonnet \ Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
     * [Claude 3.5 Sonnet 출시: GPT4o를 뛰어넘는 성능 | GeekNews](https://news.hada.io/topic?id=15439)
+  * [챗GPT보다 좋다고? ‘클로드’로 업무 생산성 높이기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2775/)
   * [모두의AI Claude 프롬프팅 가이드](https://mo-ai.notion.site/AI-Claude-f2d0acd56ee74bd8b00354a2bb2d273d)
   * [Anthropic, Claude Projects 기능 추가 | GeekNews](https://news.hada.io/topic?id=15549)
   * [무료 배포 클로드 프롬프트 엔지니어링 가이드 북!](https://news.aikoreacommunity.com/claude-prompt-engineering-guide/)
