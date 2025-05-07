@@ -1145,6 +1145,8 @@ Clojure
 * [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
   * [(mcorbin.fr): Mirabelle, a new stream processing engine for monitoring](https://mcorbin.fr/posts/2021-03-01-mirabelle-stream-processing/)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
+* [modex: Modex is a Clojure MCP Library to augment your AI models with Tools, Resources & Prompts using Clojure (Model Context Protocol). Implements MCP Server & Client.](https://github.com/theronic/modex)
+  * [Scicloj AI Meetup 4 # LLM tools feedback loop # MCPs, Modex, and Datomic MCP - YouTube](https://www.youtube.com/watch?v=DN0l78bFsDY)
 * [Monger - an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [mongrove: A Clojure library designed to interact with MongoDB using the latest java-sync drivers : https://mongodb.github.io/mongo-java-driver/4.1/driver/](https://github.com/helpshift/mongrove)
 * [Muse](https://github.com/kachayev/muse)
