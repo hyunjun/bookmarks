@@ -3492,6 +3492,7 @@ Business
 * [시장수요가 무조건 존재하는 프로덕트를 만드는 방법 · 사실, 프로덕트 기획 전에 이미 게임은 끝났다 · 대표가 풀타임 PM을 해야 하는 이유](https://www.linkedin.com/posts/shndon0220_%EC%8B%9C%EC%9E%A5%EC%88%98%EC%9A%94%EA%B0%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%82%AC%EC%8B%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-activity-7257613344080044032-Ye3h/) 고객을 탐구하는 문화를 팀 전반에 심어라
 * [안정현 - 진짜 갈라파고스는 어디인가 - 윤석열 이후 한국을 생각하다 헌법재판소가 윤석열 전 대통령을 최종적으로... | Facebook](https://www.facebook.com/jhahn912/posts/pfbid034mQwbKoQnDiQMW5VwM8TpgPAo8UrbzMbUsfKM7YNo42LvdP72hamYDGiBwCUmWYMl)
   * 중요한 것은 그 기술이 누구와 연결되고, 누구에게 열려 있으며, 어떻게 확산될 수 있는가다. 관광객이 체감하는 ‘편리함’은 단순한 서비스 품질의 문제가 아니다. 그것은 한국이라는 국가 전체가 다른 전세계 문명과 어떻게 호흡하고 있는가를 상징적으로 보여주는 지표다
+* [스타트업 제품 개발 계획 수립 가이드 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS7002878448)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
