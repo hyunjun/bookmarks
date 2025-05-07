@@ -3360,6 +3360,8 @@ NLP
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
   * [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/)
     * [Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 | GeekNews](https://news.hada.io/topic?id=18764)
+  * [smoothie-qwen: A lightweight adjustment tool for smoothing token probabilities in the Qwen models to encourage balanced multilingual generation.](https://github.com/dnotitia/smoothie-qwen)
+    * [박상길 - 저희가 이번에 Smoothie Qwen이라는 이름의 오픈소스를 릴리즈 했습니다. - 공식 깃헙... | Facebook](https://www.facebook.com/likejazz/posts/pfbid0rFQJ9i2YMWf3z85XiqY1biDnmxJ5e6TesH5Vw4QRrnaNA93DNA8kYXSiD5XmY9Fzl)
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
@@ -4710,6 +4712,9 @@ NLP
 * [Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯](https://github.com/lifeiteng/OmniSenseVoice)
   * [Omni SenseVoice - 단어별 타임스탬프 가능한 고속 음성 인식 | GeekNews](https://news.hada.io/topic?id=17671)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
+* [parakeet-tdt-0.6b-v2 · Hugging Face](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2)
+  * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 공개 < 뉴테크 < 기술 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=170202)
+  * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 parakeet-tdt-0.6b-v2 공개](https://www.facebook.com/groups/255834461424286/user/100001182289254/)
 * [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
   * [Welcome! | Pipecat](https://pipecat.ai/)
