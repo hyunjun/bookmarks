@@ -170,6 +170,7 @@ Finance
 * [관세전쟁 다음은 국채 금리, 채권투자 '이렇게' 대응합시다 (김영익 교수) | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3836703/2557597)
   * [관세전쟁 다음은 국채 금리, 채권투자 '이렇게' 대응합시다 (김영익 교수) - YouTube](https://www.youtube.com/watch?v=T-T3Qhjj9To)
   * [미국 관세전쟁 다음은 달러전쟁? 주식투자 '이렇게' 대응하세요 (김영익 교수) - YouTube](https://www.youtube.com/watch?v=UhJgYq6JIvM)
+* [‘목돈’ 예금말고 주식말고 제대로 굴리고싶다면? - YouTube](https://www.youtube.com/watch?v=g-Vnc3S6ikA)
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 * [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
