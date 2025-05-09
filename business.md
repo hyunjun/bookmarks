@@ -3017,6 +3017,7 @@ Business
       * 어설프게 독학하는 대신 전문가의 도움을 받아 지속적인 성장과 효과적인 방법을 모색 필요
 * [LINE SHOPPING JP, 글로벌 협업 프로세스 개선 회고](https://techblog.lycorp.co.jp/ko/tpm-retrospective-on-global-collaboration-process-improvement) TPM
 * [카카오페이 TPM은 어떤 일을 하나요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/tech-strategy-tpm/)
+* [2025 TPM Meet-Up 핫한 테크 기업 TPM으로 일하기](https://www.linkedin.com/posts/arawn_%EC%98%A4%EB%8A%98-%EC%9B%90%ED%8B%B0%EB%93%9C%EC%97%90%EC%84%9C-%EC%A3%BC%EA%B4%80%ED%95%9C-2025-tpm-meet-up-%ED%95%AB%ED%95%9C-%ED%85%8C%ED%81%AC-%EA%B8%B0%EC%97%85-tpm%EC%9C%BC%EB%A1%9C-activity-7319309338269884416-KiAA/)
 * [플랫폼 팀의 1년, 일본 최대 규모의 배달 서비스에 안착하기까지](https://techblog.lycorp.co.jp/ko/one-year-retrospective-of-platform-team-at-demaecan)
 * [Google이 공개했던 re:Work 웹사이트에 있던 Manager Feerback Survey 폼 번역](https://www.linkedin.com/posts/edward-jee-480225a_rework-terms-conditions-activity-7193191395120025600-e3zs/)
 * [팀의 이번 분기 목표는 무엇인가요?. 5초 만에 대답해 보세요. | by Stephan Seunghwan Seo | DelightRoom | Aug, 2024 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9D%98-%EC%9D%B4%EB%B2%88-%EB%B6%84%EA%B8%B0-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-22c2130a59f1)
