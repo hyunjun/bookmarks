@@ -381,6 +381,8 @@ Programmer
 * [If you want to sharpen up your skills as a software engineer, read the following 10 articles](https://www.linkedin.com/posts/fernando-franco-4696708_database-sharding-case-study-postgresql-activity-7297940734702219265-g5Oo/)
 * [The Best Programmers I Know | Matthias Endler](https://endler.dev/2025/best-programmers/)
   * [내가 아는 최고의 개발자들이 공통적으로 가진 특성 | GeekNews](https://news.hada.io/topic?id=20244)
+* [Getting things "done" in large tech companies | sean goedecke](https://www.seangoedecke.com/getting-things-done/)
+  * [빅테크 회사에서 '일을 끝냈다(Done)'는 것의 진짜 의미 | GeekNews](https://news.hada.io/topic?id=20798)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
