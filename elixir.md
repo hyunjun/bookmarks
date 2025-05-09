@@ -469,6 +469,7 @@ Elixir
       * [A handy script to install live_svelte for Phoenix framework projects. · GitHub](https://gist.github.com/bus710/9967c776a1d19254fea2741fc44b370f)
   * [potion_shop: A vulnerable Elixir and Phoenix application for learning web security](https://github.com/securityelixir/potion_shop)
     * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
+  * PhoenixERD [Home · Michael Munavu](https://erdgenerator.michaelmunavu.com/) AI System that generates an ERD from your migrations in seconds
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
