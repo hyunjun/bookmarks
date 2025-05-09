@@ -9195,6 +9195,7 @@ Programming
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
 * [AutoParams: Enjoy your TDD! AutoParams is an arbitrary test data generator for parameterized tests in Java inspired by AutoFixture](https://github.com/AutoParams/AutoParams)
+  * [AutoParams에 도입된 DSL(Domain-Specific Language) | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/autoparams/dsl/)
 * [ConfigCat - Feature Flag Service for Teams](https://configcat.com/)
 * [dorkly: Contains source code for GitHub Action and docker bits for backend service](https://github.com/dorklyorg/dorkly)
   * [Home · dorklyorg/dorkly Wiki · GitHub](https://github.com/dorklyorg/dorkly/wiki)
