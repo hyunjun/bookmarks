@@ -424,11 +424,20 @@ NLP
 * [텍스트 정규화 #7 — 동의어 사용. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-7-%EB%8F%99%EC%9D%98%EC%96%B4-%EC%82%AC%EC%9A%A9-5255c50269cd)
 * [텍스트 정규화 #8 — 접두사/접미사 또는 줄임말. 접두사·접미사·줄임말 표기 차이로 인한 엔티티 불일치를 룰 기반 제거와… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-8-%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC-%EB%98%90%EB%8A%94-%EC%A4%84%EC%9E%84%EB%A7%90-ae9ce482a757)
 * [텍스트 정규화 #9 — 오타 또는 철자 오류. 오타·철자 오류로 인한 불일치를 Levenshtein… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-9-%EC%98%A4%ED%83%80-%EB%98%90%EB%8A%94-%EC%B2%A0%EC%9E%90-%EC%98%A4%EB%A5%98-9af0d06ea6a2)
+* [텍스트 정규화 #9.2 — 한글의 오타 또는 철자 오류. 한글 텍스트에서 비슷한 자모 혼동·모음·자음 누락·중복·분리, 띄어쓰기… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-9-2-%ED%95%9C%EA%B8%80%EC%9D%98-%EC%98%A4%ED%83%80-%EB%98%90%EB%8A%94-%EC%B2%A0%EC%9E%90-%EC%98%A4%EB%A5%98-3fd6a7fed84c)
 * [텍스트 정규화 #10 — 언어 혼용. 한영이 혼용된 텍스트에서 영어 구문을 추출·번역 매핑·패턴 기반으로… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-10-%EC%96%B8%EC%96%B4-%ED%98%BC%EC%9A%A9-1183d9567a01)
 * [텍스트 정규화 #11 — 중복된 단어 포함. 중복 단어(동일 단어·동의어 포함)로 인한 데이터 불일치를… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-11-%EC%A4%91%EB%B3%B5%EB%90%9C-%EB%8B%A8%EC%96%B4-%ED%8F%AC%ED%95%A8-3f27c545b6db)
 * [텍스트 정규화 #12 — 불용어(stopwords)의 포함 여부 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-12-%EB%B6%88%EC%9A%A9%EC%96%B4-stopwords-%EC%9D%98-%ED%8F%AC%ED%95%A8-%EC%97%AC%EB%B6%80-21cf90dbb165)
 * [텍스트 정규화 #13 — 인코딩 문제. 인코딩 불일치로 발생하는 한글 깨짐·모지바케를 탐지·변환·복구하는… | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-13-%EC%9D%B8%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C-3e5688e74fd7)
 * [텍스트 정규화 #14 — 단위 표현 차이. 무게(kg, g, lb, oz)와 길이(m, cm, ft, in 등)… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-14-%EB%8B%A8%EC%9C%84-%ED%91%9C%ED%98%84-%EC%B0%A8%EC%9D%B4-c67b376117db)
+* [텍스트 정규화 #15 — 특수문자 유사 표현. 스마트 따옴표·전각 기호 등 특수문자의 다양한 유사 표현을… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-15-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%9C%A0%EC%82%AC-%ED%91%9C%ED%98%84-65cac5229c02)
+* [텍스트 정규화 #16 — HTML/이모지 등 이질 문자 포함 | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-16-html-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%93%B1-%EC%9D%B4%EC%A7%88-%EB%AC%B8%EC%9E%90-%ED%8F%AC%ED%95%A8-13b41eb7c1c2)
+* [텍스트 정규화 #17 — 약어 vs 풀네임. 약어(‘UN’, ‘EU’ 등)와 풀네임(‘United Nations’… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-17-%EC%95%BD%EC%96%B4-vs-%ED%92%80%EB%84%A4%EC%9E%84-c9bb864ff417)
+* [텍스트 정규화 #18 — 날짜/시간 표현 다양성. 다양한 형식의 날짜·시간 표현(ISO·미국식·유럽식·문자 포함·상대… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-18-%EB%82%A0%EC%A7%9C-%EC%8B%9C%EA%B0%84-%ED%91%9C%ED%98%84-%EB%8B%A4%EC%96%91%EC%84%B1-da7ef7919eef)
+* [텍스트 정규화 #19 — 단수/복수 표현 차이. 영어 단수형과 복수형의 표현 차이로 발생하는 집계·검색·유사도 오류를… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-19-%EB%8B%A8%EC%88%98-%EB%B3%B5%EC%88%98-%ED%91%9C%ED%98%84-%EC%B0%A8%EC%9D%B4-070ee68b3b1c)
+* [텍스트 정규화 #20 — 동사의 활용·시제 차이. 동사의 다양한 활용형(과거·현재·미래·수·인칭 등)으로 인한… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-20-%EB%8F%99%EC%82%AC%EC%9D%98-%ED%99%9C%EC%9A%A9-%EC%8B%9C%EC%A0%9C-%EC%B0%A8%EC%9D%B4-0395b2548014)
+* [텍스트 정규화 #21 — 비교급, 최상급. 비교급(‘-er’/more)과 최상급(‘-est’/most)의 불규칙… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-21-%EB%B9%84%EA%B5%90%EA%B8%89-%EC%B5%9C%EC%83%81%EA%B8%89-c422f8872617)
+* [텍스트 정규화 #22 — 표준화되지 않은 접두/접미. 비표준화된 접두어·접미어(“\[공지\]”, “★”, “Re:”, “FW:”… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-22-%ED%91%9C%EC%A4%80%ED%99%94%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%91%EB%91%90-%EC%A0%91%EB%AF%B8-3510299809dd)
 
 # 띄어쓰기
 
@@ -1254,6 +1263,8 @@ NLP
   * 1) NotebookLM에서 노트를 하나 만들고 소스에 강수진 박사님의 영상을 추가함.
   * 2) 채팅창에서 이전과 동일하게 "~강수진 박사님이라면 어떻게 프롬프트를 만들까?"를 입력
   * 3) 마인드맵에서 강박사님의 영상을 구조화 시켜서 확인 (참고 목적)
+* [Prompt Engineer, the Hottest AI Job of 2023, Is Already Obsolete - WSJ](https://www.wsj.com/articles/the-hottest-ai-job-of-2023-is-already-obsolete-1961b054)
+  * [프롬프트 엔지니어에 대한 빗나간 예측](https://www.linkedin.com/posts/daleseo_the-hottest-ai-job-of-2023-is-already-obsolete-activity-7325994484641464322-jjnB/)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
