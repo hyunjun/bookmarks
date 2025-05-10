@@ -1125,6 +1125,7 @@ Artificial Intelligence
     * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
     * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
     * [Cursor AI + 피그마 MCP 실전 가이드 | 커서 코드 한 줄 안 쓰고 figma 디자인 구현하기 - YouTube](https://www.youtube.com/watch?v=ONqfqSiS7JM)
+    * [AI에이전트들을 MCP로 연결하면 얼마나 강력해질까? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=9NH3FhBX2ng)
     * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
       * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
@@ -1137,6 +1138,9 @@ Artificial Intelligence
 * [v0 by Vercel](https://v0.dev/)
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
   * [Next.js + shadcn/ui 개발, AI UI 생성 도구 뭐 쓸까? v0 vs Lovable 비교 후기!](https://www.facebook.com/groups/1183007433518603/posts/1186112866541393/)
+* [Void](https://voideditor.com/)
+  * [void](https://github.com/voideditor/void)
+  * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
