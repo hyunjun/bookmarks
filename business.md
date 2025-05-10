@@ -2778,6 +2778,8 @@ Business
 * [완벽한 의사결정은 없다: AI보다 리더가 필요한 이유](https://www.linkedin.com/posts/activity-7317127797938761728-nTIw/)
 * [회사에서 무조건 이런 사람과 같이 일하세요 | 팀원을 성장시키는 상사 유형 - YouTube](https://www.youtube.com/watch?v=KIGtKYoM7Xo)
 * [중간관리자 무용론, 구글은 실패했다. 인텔은 왜 다시 실험하는가?](https://www.linkedin.com/posts/ethan-yj-cho_intel-google-tyzrbitquswmtxusxqtnitfmreoqte-activity-7320976188519198720-2tDw/)
+* ["미쳐야 한다고!" - 이정효 감독의 집요한 리더십 철학 - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/ijung-hyo-leadership-philosophy)
+* [중간 관리자의 딜레마, 어떤 리더로 성장해야 할까? - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/mid-level-manager-leadership-dilemma)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3044,6 +3046,7 @@ Business
 * [리멤버 대표가 망할 것 같다고 생각한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/remember20220118) micromanagement의 실패
 * [‘마이크로 매니징은 해법 아니다’ 개발자 관리 방안 7가지 - CIO Korea](https://www.ciokorea.com/news/225789)
 * ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27556423)
+* [마이크로매니징에서 벗어나는 위임의 힘 - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/delegation-leadership-strategy)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
