@@ -1144,6 +1144,7 @@ Artificial Intelligence
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
+  * [AI가 디자인 다 해줍니다! | Figma 소개 및 Windsurf에서 Figma MCP 사용하는 방법, Talk to Figma MCP 설치 및 프로그램 GUI 디자인 - YouTube](https://www.youtube.com/watch?v=oYZl8tWTj-c)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
