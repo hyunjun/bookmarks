@@ -2758,6 +2758,7 @@ App
   * Config 2025
     * [피그마는 이제 UI/UX 디자인 툴이 아니다. 웹퍼블리싱, 바이브코딩, 아트웍 등 올인원 서비스로 도약한 Config 2025 내용 총정리 #figma #AI - YouTube](https://www.youtube.com/watch?v=JC5Xk-axIyc)
     * [Figma Config 2025: 핵심 10분 요약｜피그마 사이트, 메이크, 버즈, 드로우 리뷰 - YouTube](https://www.youtube.com/watch?v=i35O5aU6NvQ)
+    * [Figma AI 혁신: 웹사이트 제작과 마케팅의 판을 바꾸다 - DX Talk](https://dxtalk.net/figma-ai-revolution/)
   * [Figma 플러그인, 디자이너가 직접 만들어 보기 - 넷마블 기술 블로그](https://netmarble.engineering/create-figma-plugin-by-designer/)
   * [메모 Figma에서 사용할 수 있는 러프한 와이어프레임 툴들 – 형우의 웹개발](https://mytory.net/archives/16731)
   * [개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/2802/)
