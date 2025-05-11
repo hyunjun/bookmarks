@@ -106,6 +106,7 @@ ElasticSearch - Lucene
   * [Amazon OpenSearch Service 의 LTR 플러그인을 활용한 검색 품질 개선 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/enhancing-search-with-ltr-plugin-for-amazon-opensearch-service/)
     * [kr-tech-blog-sample-code/opensearch_ltr at main · aws-samples/kr-tech-blog-sample-code · GitHub](https://github.com/aws-samples/kr-tech-blog-sample-code/tree/main/opensearch_ltr)
     * [OpenSearch에서 LTR을 활용할때 가장 큰 허들이 judgment list를 만드는 작업 입니다. 이 작업을 위해선 Query 별 도큐먼트 CTR을 수집해야 하고 이를 바탕으로 연관성을 5점 척도로 판단하여 학습 데이터를 만들어야 합니다. 이 블로그는 이러한 복잡한 과정을 LLM을 통해 수행 하였고 더미 데이터 생성부터 더미 쿼리를 활용한 judgment list 생성까지 진행할 수 있는 Sample Code 를 제공](https://www.linkedin.com/posts/kim-sewoong_amazon-opensearch-service-%EC%9D%98-ltr-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-activity-7325705374009806849-yuZp/)
+  * [Announcing OpenSearch 3.0 - OpenSearch](https://opensearch.org/blog/unveiling-opensearch-3-0/)
   * [aws-opensearch-ingestion-tutorials: This sample codes show how to ingest data into Amazon OpenSearch or OpenSearch Serverless using OpenSearch Ingestion. Amazon OpenSearch Ingestion is a kind of alternative for OpenSource Logstash or Amazon Kinesis Data Firehose](https://github.com/aws-samples/aws-opensearch-ingestion-tutorials)
   * [kor-case-law-search-engine: A Korean case law search engine that offers semantic search, advanced query processing, and summarization](https://github.com/ceres-technologies/kor-case-law-search-engine)
     * [AI 프로젝트 #1 대한민국 판례 검색 엔진 — 인프라 구축, 데이터 처리, 시맨틱 검색 (1/4) | by Inhyuk Na | Sep, 2024 | Medium](https://medium.com/@ihna/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%ED%8C%90%EB%A1%80-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EA%B2%80%EC%83%89-1-4-e56743581168)
@@ -418,6 +419,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 병렬 테스트를 향한 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18486/)
 * [(youtube)도메인 정의부터 시작하는 검색 개발. 도메인 핵심 정의를 시작으로 리팩토링 작업 및 속성 패싯 자동 추출… | by 29CM | 29CM TEAM | Aug, 2024 | Medium](https://medium.com/29cm/youtube-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B0%9C%EB%B0%9C-934e2f44ba9b)
 * [인공지능을 쉽게 시작할 수 있는 엘라스틱 서치](https://wizmusa.tistory.com/1170964522)
+* [작은 청크 검색 문제를 해결하는 Contextual BM25F 전략 엿보기 👀](https://blog.sionic.ai/introducing-contextual-bm25f)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
