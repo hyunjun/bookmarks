@@ -90,6 +90,7 @@ App
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
+* [Dub - The Modern Link Attribution Platform](https://dub.co/) url shortner
 * [Ebook Reader for web](https://www.loudreader.com/)
 * [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
@@ -2085,6 +2086,7 @@ App
   * [Automated Architecture Diagrams with Python](https://www.linkedin.com/posts/skander-nabli-244356292_systemdesign-coding-interviewtips-activity-7201164142706089984-IbJW/)
   * [Diagrams - Diagram as Code | GeekNews](https://news.hada.io/topic?id=17604)
 * [Diagram as Code - by Alex Xu - ByteByteGo Newsletter](https://blog.bytebytego.com/p/diagram-as-code) diagrams, mermaid, ascii editor, plantuml, markmap, go diagrams
+* [diagram-parsing: Amazon Bedrock 의 Nova, Claude 3.7 모델을 활용하여 pdf 도면을 파싱 합니다](https://github.com/jesamkim/diagram-parsing)
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [Domain Story Modeler](https://www.wps.de/modeler/)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
