@@ -106,6 +106,7 @@ Product
 * 오주코 9405
   * [오주코 옥스퍼드 3세대 9405 백팩 소개 영상 - YouTube](https://www.youtube.com/watch?v=E2IjOIimqPg)
   * 2021.11.02 구입 (배송비 포함 25640원)
+* ESHENA 바그람팩15 [백팩 쳐돌이의 기능성 디자인 백팩 8년 롱텀사용기 (ESHENA 바그람팩15) - YouTube](https://www.youtube.com/watch?v=0mho-yLwFZ0)
 * Fintie [Amazon.com: Anti-theft Travel Laptop Backpack, Fintie 15.6 Inch TSA-Friendly Water Resistant Daypack Rucksack with RFID Protection and USB Charging Port for Mens Business School Outdoor, Black : Electronics](https://www.amazon.com/Anti-theft-Backpack-Fintie-Resistant-Protection/dp/B07T2KB389/)
 * [엑스디디자인 2in1 직장인 스포츠 헬스 비즈니스 플렉스 백팩 - 엑스디디자인 코리아 공식 온라인스토어](https://xd-design.co.kr/product/detail.html?product_no=58&cate_no=42&display_group=1)
   * [직장인을 위한 비즈니스 백팩 추천! 깔끔한 디자인과 완벽에 가까운 기능! - YouTube](https://www.youtube.com/watch?v=uufhtsOqya8)
