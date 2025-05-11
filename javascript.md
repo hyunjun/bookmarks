@@ -2323,6 +2323,8 @@ Javascript
 * [gu-upload](http://forest71.tistory.com/70)
   * [forest71.tistory.com/category/JavaScript](http://forest71.tistory.com/category/JavaScript)
 * [hack.chat](https://hack.chat/)
+* [Hako - by Andrew Sampson - ./make](https://andrews.substack.com/p/hako)
+  * [Hako - 임베드 가능한 고성능/경량 자바스크립트 엔진 | GeekNews](https://news.hada.io/topic?id=20794)
 * [Handlebar를 사용하여 배포까지 (+grunt +gradle)](http://jojoldu.tistory.com/23)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
 * [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
