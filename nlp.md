@@ -3364,6 +3364,7 @@ NLP
       * [AGI KR | 🤖 Arcee Spark: 작은 몸집의 AI 괴물 | Facebook](https://www.facebook.com/groups/agikr/posts/2333064283701283/)
   * [🤖💪Qwen2.5 Coder 32B: 오픈소스로 GPT-4o급 성능에 아티팩트까지!](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%AAQwen25-Coder-32B-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-GPT-4o%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%97%90-%EC%95%84%ED%8B%B0%ED%8C%A9%ED%8A%B8%EA%B9%8C%EC%A7%80)
   * [Qwen3: Think Deeper, Act Faster | Qwen](https://qwenlm.github.io/blog/qwen3/)
+    * [Qwen3 의 Hybrid thinking mode](https://devocean.sk.com/blog/techBoardDetail.do?ID=167448) Hybrid Thinking mode
     * [qwen3-on-sagemaker](https://github.com/Napkin-DL/qwen3-on-sagemaker)
       * [최근 공개된 Qwen3 모델을 Amazon SageMaker에서 효율적으로 학습하고 배포하는 전체 워크플로우 예제 코드](https://www.linkedin.com/posts/napkin_github-napkin-dlqwen3-on-sagemaker-activity-7325315642205577216-2P5o/)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
