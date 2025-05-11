@@ -2110,6 +2110,7 @@ Docker
   * [Kubernetes v1.33 - Octarine](https://zerotay-blog.vercel.app/4.RESOURCE/KNOWLEDGE/Kubernetes/etc/%EB%B2%84%EC%A0%84/Kubernetes%20v1.33%20-%20Octarine/)
 * [How Kubernetes Runs Containers : A Practical Deep Dive](https://blog.esc.sh/kubernetes-containers-linux-processes/)
 * [쿠버네티스 StatefulSet 환경에서 Redis RDB 손상 긴급 대응하기 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4-statefulset-%25ED%2599%2598%25EA%25B2%25BD%25EC%2597%2590%25EC%2584%259C-redis-rdb-%25EC%2586%2590%25EC%2583%2581-%25EA%25B8%25B4%25EA%25B8%2589-%25EB%258C%2580%25EC%259D%2591-jin-hyung-park-vbcgf/)
+* [한 달이 지나서 쓰는 Kubestronaut 후기](https://xfrnk2.tistory.com/16)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2175,6 +2176,7 @@ Docker
       * ArgoCD와 Tekton을 이용해서 프리뷰 환경을 구성하는 방법 설명
       * Argo CD를 이용해서 GitHub의 Pull Request를 모니터링하다가 새 브랜치나 커밋이 올라오면 Tekton으로 빌드하고 Argo CD의 앱을 생성해서 Kubernetes 클러스터에 프리뷰 환경을 배포하는 예시를 보여줌
     * [ArgoCD와 GitOps를 인터넷(IGW) 없는 환경에서 구축하기 - 정영진, LG U+AWS :: Community Day 2023 - YouTube](https://www.youtube.com/watch?v=xNdVGmYuVdA)
+    * [The Argo CD MCP Server | Akuity](https://akuity.io/blog/argo-cd-mcp-server)
     * [malwareanalysis.tistory.com/search/ArgoCD](https://malwareanalysis.tistory.com/search/ArgoCD)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
@@ -3006,6 +3008,7 @@ Docker
 * LXD
   * [Linux Containers - LXD - Introduction](https://linuxcontainers.org/lxd/introduction/)
   * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
+  * [LXD 설치 및 설정 가이드: Ubuntu에서의 활용법 – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/05/04/lxd-%ec%84%a4%ec%b9%98-%eb%b0%8f-%ec%84%a4%ec%a0%95-%ea%b0%80%ec%9d%b4%eb%93%9c-ubuntu%ec%97%90%ec%84%9c%ec%9d%98-%ed%99%9c%ec%9a%a9%eb%b2%95/)
 * [minivm: A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)
 * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/) 우분투 기반 도커 호스팅을 매우 빠르게 실행
   * [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
