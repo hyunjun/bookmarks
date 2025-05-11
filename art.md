@@ -78,7 +78,7 @@ Art
 * [제갈량에게는 황위를 찬탈할 마음이 없었다](http://blog.daum.net/shanghaicrab/16154604)
 
 ## George Orwel
-* [조지 오웰의 <동물농장> | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책](http://www.huffingtonpost.kr/kyongwhan-ahn/story_b_7106192.html)
+* [조지 오웰의 | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책 < 뉴스&이슈 < 기사본문 - 허프포스트코리아](https://www.huffingtonpost.kr/news/articleView.html?idxno=3215)
 * [반공주의자로 오독되고 있는 조지 오웰](http://ppss.kr/archives/37713)
 
 ## Haiku

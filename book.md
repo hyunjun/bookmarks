@@ -509,6 +509,8 @@ Book
   * [우주 라이크 유니버스](https://www.notion.so/1003/1e13f0c2cf658081b8f2f97a7596dc88)
 * [5차원 AI](https://www.notion.so/1003/5-AI-1e33f0c2cf658039bfe9e382c69e2022)
   * 2025.04.29
+* [동물 농장](https://hyunjun.github.io/skunk-html/%EB%8F%99%EB%AC%BC-%EB%86%8D%EC%9E%A5.html)
+  * ★★★☆☆ 2025.05.11
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
