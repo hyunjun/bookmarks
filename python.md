@@ -4821,6 +4821,7 @@ Python
     * [Uv의 킬러 기능은 즉석(ad-hoc) 환경을 쉽게 만드는 것 | GeekNews](https://news.hada.io/topic?id=18711)
   * [Python: EP122 - 미친듯이 빠른 uv에 대해 알아보자 - YouTube](https://www.youtube.com/watch?v=M_YER9jM9lY)
   * [진짜 빠르고 편한 파이썬 uv - YouTube](https://www.youtube.com/watch?v=1kZ-touiEQ8)
+  * [python uv 가 python conda 보다 좋은 이유 - YouTube](https://www.youtube.com/watch?v=cJlboGKkaJ4)
   * [uv : 엄청 빠르고 편리한 Python 프로젝트, 패키지 관리 프로그램 - YouTube](https://www.youtube.com/watch?v=hN1rh2MkzW8)
     * [uv : 엄청 빠르고 편리한 Python 프로젝트, 패키지 관리 프로그램 | Mattabu Tech](https://wiki.mattabu.com/blog/uv-fast-and-convenient-python-project-package-manager)
   * [uv-demo: Demo of uv for a streamlined Python package management experience](https://github.com/prrao87/uv-demo)
