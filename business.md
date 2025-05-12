@@ -974,6 +974,8 @@ Business
   * 4. 프로세스를 개선해야 하는 일 vs. Ad-hoc으로 처리할 일
   * 5. 안해도 되는 일
 * [약 3000조의 가치를 창출해낸 실리콘벨리의 코치가 말하는 '협력'](https://eopla.net/magazines/29244)
+* [Reading "Business" Books Is A Waste Of Time - by Jack](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
+  * [비즈니스 책들은 전략적 도구가 아니라 오락임 | GeekNews](https://news.hada.io/topic?id=20819)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
