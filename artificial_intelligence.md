@@ -1151,6 +1151,7 @@ Artificial Intelligence
     * [Cursor AI + 피그마 MCP 실전 가이드 | 커서 코드 한 줄 안 쓰고 figma 디자인 구현하기 - YouTube](https://www.youtube.com/watch?v=ONqfqSiS7JM)
     * [AI에이전트들을 MCP로 연결하면 얼마나 강력해질까? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=9NH3FhBX2ng)
     * [피그마 디자인을 리액트 코드로 자동변환! MCP + CursorAI로 개발 시간 단축하기 - YouTube](https://www.youtube.com/watch?v=jC04qn8fdk4)
+    * [요즘 난리라는 figma(피그마)mcp,오류없이 완전 쉽게 연결하는 팁 - YouTube](https://www.youtube.com/watch?v=QDQv2Dq5A1c)
     * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
       * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
