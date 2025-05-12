@@ -1510,6 +1510,7 @@ NLP
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 * [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 * [smarter-prompt: 모두의AI에서 제공하는 SMART+ER Prompt](https://github.com/modu-ai/smarter-prompt)
+* [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/tree/main)
 
 ## ChatBot Python
 
@@ -2197,6 +2198,7 @@ NLP
       * 모델 병합 시 최적화된 리더보드를 위해 더 좋은 모델을 가져올 수도 있지만, 오버피팅 문제 또한 발생 가능
       * 모델이 훈련 데이터의 세부 정보를 너무 잘 학습하여 일반화하지 못하고 새로운 데이터에 적용하지 못할 수 있는 위험
       * 모델을 병합할 때 데이터 오염에 주의해야 하며, 믿을만한 벤치마크 도움이 실제로 얼마나 유용한지도 의문
+* [명확한 검증을 위한 LLM 성능 평가 벤치마크 데이터셋 구축 방법 - 텍스트넷 공식 블로그](https://article.textnet.kr/llm-benchmark-dataset-creation-methods)
 * [Nick Sorros - A Tour of Large Language Models - YouTube](https://www.youtube.com/watch?v=ksVED-hacKA)
   * [VidiGo Nick Sorros - A Tour of Large Language Models.mp4](https://vidigo.ai/share/summary/e3c4074acaeb)
     * LLM 훈련 과정의 단계 설명
@@ -2539,6 +2541,8 @@ NLP
     * [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) Claude Code 프롬프트
     * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
+  * [system_prompts_leaks/claude-3.7-full-system-message-with-all-tools.md at main · asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude-3.7-full-system-message-with-all-tools.md)
+    * ["Claude는 어떻게 응답을 결정할까?" — 유출된 시스템 프롬프트가 말해주는 AI의 내부 규칙](https://digitalbourgeois.tistory.com/1204)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
   * [We created the first open-source implementation of Meta’s TestGen–LLM | CodiumAI](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
   * [Meta의 TestGen-LLM을 최초로 오픈소스로 구현 | GeekNews](https://news.hada.io/topic?id=14957)
