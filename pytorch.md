@@ -204,6 +204,7 @@ PyTorch
 * [jinaai_late_chunking.ipynb at main · jlonge4/gen_ai_utils](https://github.com/jlonge4/gen_ai_utils/blob/main/jinaai_late_chunking.ipynb)
 * [중국산 GPU, 인텔 XPU, 구글TPU등 파.. : 네이버블로그](https://blog.naver.com/ulsancoding/223784344290)
   * [NPU_XPU.ipynb - Colab](https://colab.research.google.com/drive/1rQL9_S_nuicy9JjuoblJ5YXoQj-S4qdX?usp=sharing)
+* [FSDP 쉽게 설명하기](https://beeny-ds.tistory.com/entry/FSDP-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EA%B8%B0)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
