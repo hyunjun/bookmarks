@@ -254,6 +254,8 @@ Bitcoin
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [Mainnet Merge Announcement | Ethereum Foundation Blog](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement)
 * [이더리움 머지(Merge), 긴 여정의 시작일 뿐](https://xangle.io/insight/research/63107797f69fa8b075aeb490)
+* [Simplicity as the Final Card: Ethereum’s Strategic Choice in High-Performance L1 Competition | by Simon Seojoon Kim | Hashed Team Blog | May, 2025 | Medium](https://medium.com/hashed-official/simplifying-eth-ea73a4529bcb)
+  * [단순함이라는 최후의 카드: 고성능 L1 경쟁 속 이더리움(Ethereum)의 전략적 선택 | by Simon Seojoon Kim | 해시드 팀 블로그 | May, 2025 | Medium](https://medium.com/hashed-kr/simplifying-eth-90764ea64c11)
 * [Account Abstraction에 대하여. 이더리움 커뮤니티의 꿈 : Account Abstraction과… | by Mark | Boom💥Labs — The open basecamp for Web3 Builders. | Oct, 2022 | Medium](https://medium.com/boom-labs/account-abstraction%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-99b557753d6c)
 * [ethereum 서명 데이터 포맷 - EI.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223457982893)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
