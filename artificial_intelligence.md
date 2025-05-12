@@ -564,6 +564,7 @@ Artificial Intelligence
   * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
   * [AI 생태계 연결하는 USB-C 포트, MCP 알아보기 - YouTube](https://www.youtube.com/watch?v=OdwuHsXPqn4)
   * [이주환 - MCP가 무엇인지에 대해서는 이미 많은 전문가들께서 잘 설명해 주고 계시기에, 저는 이 agentic... | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0F9vVgJSFDreX8aaocD3k36o2NYKwTXMwbJ3GJ2nBZhJsqJJ5mF19GaVqQPoBTnsyl)
+  * [Model Context Protocol (MCP) - A Deep Dive - WWT](https://www.wwt.com/blog/model-context-protocol-mcp-a-deep-dive)
   * [박성철 - MCP를 코드의 종말 측면에서 바라볼 수 있다. 여러 번 말했지만, 나는 AI가 코드를 생성하는 방식이... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02uJ5iJKSvqxBjwva7NAvpwMb725nfY8p17y2Mm8jHeQk7rRvKfGJJaoTpSQsEcb6al)
   * [사이오닉 MCP 시리즈 1 MCP를 이용하여 IntelliJ 와 코딩해보자! - YouTube](https://www.youtube.com/playlist?list=PLhZjirOnaXNy6v4jX_tEM0pCd7ADiC0vZ)
     * [Sionic MCP 시리즈 1 Model Context Protocol을 이용하여 IntelliJ 와 코딩해보자!](https://blog.sionic.ai/mcp-intellij)
