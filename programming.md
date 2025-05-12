@@ -3469,6 +3469,8 @@ Programming
     * Orchestration: 중앙 집중형, Orchestrator가 지시, Tight Coupling, SPOF(단일 장애점)
     * Choreography: 분산형, 이벤트 기반 자율 반응, Loose Coupling, 부분 장애 격리 가능
   * CQRS, CDC
+* [Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership & MVP Development for Startups](https://nexo.sh/posts/microservices-for-startups/)
+  * [마이크로서비스는 스타트업이 감당할 수 없는 세금임 | GeekNews](https://news.hada.io/topic?id=20814)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
