@@ -916,6 +916,7 @@ Artificial Intelligence
 * [How to become an AI engineering company - Vercel](https://vercel.com/blog/becoming-an-ai-engineering-company)
 * [Requests for Startups | Y Combinator](https://www.ycombinator.com/rfs?s25)
 * [AI 시대 IT 종사자들의 운명은?](https://brunch.co.kr/@aimuse/49)
+* [AI로 프로젝트 36개 만들고 깨달은 최악의 실수 7가지](https://newneek.co/@highoutputclub/article/31857)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
