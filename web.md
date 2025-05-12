@@ -2560,6 +2560,7 @@ Web
   * [Introduction to Hippo: the WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
   * [히포를 이용한 웹어셈블리 입문 - ITWorld Korea](https://www.itworld.co.kr/news/210909)
 * [howto-wasm-minimal: How to create minimal wasm module](https://github.com/ern0/howto-wasm-minimal)
+* [jawsm: JavaScript to WASM compiler](https://github.com/drogus/jawsm)
 * [jco: JavaScript tooling for working with WebAssembly Components](https://github.com/bytecodealliance/jco)
   * [jco - WebAssembly 컴포넌트와 협업하기 위한 자바스크립트 툴체인 | GeekNews](https://news.hada.io/topic?id=13840)
 * [kotlin-wasm-examples/compose-imageviewer at main · Kotlin/kotlin-wasm-examples · GitHub](https://github.com/Kotlin/kotlin-wasm-examples/tree/main/compose-imageviewer)
