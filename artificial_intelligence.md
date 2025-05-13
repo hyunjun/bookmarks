@@ -468,6 +468,7 @@ Artificial Intelligence
   * [빠르고 꼬운 잼민이(Gemini) 만들기](https://velog.io/@juunini/fast-and-hoxy-gemini)
   * [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
   * [Gemini와 함께 10분만에 레이싱 시뮬레이터 만들기 (프롬프트 & 코드 예제 포함)](https://www.stdy.blog/build-racing-simulator-in-10-min-with-gemini/)
+  * [GEMINI 무료버전에서도 GPTS와 같은 나만의 챗봇 만들기가 가능](https://www.linkedin.com/posts/duckjungkim_gemini-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C%EB%8F%84-gpts%EC%99%80-%EA%B0%99%EC%9D%80-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%A1%8C%EB%84%A4%EC%9A%94-activity-7325516445902155777-UJLf/)
   * Gemini 2.0
     * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
     * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
@@ -1261,6 +1262,8 @@ Artificial Intelligence
   * [rag-with-amazon-memorydb-and-sagemaker at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-memorydb-and-sagemaker)
 * [벡터 데이터베이스가 진짜 필요하다는 사람을 위한 변명 | LinkedIn](https://www.linkedin.com/pulse/%EB%B2%A1%ED%84%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EA%B0%80-%EC%A7%84%EC%A7%9C-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B3%80%EB%AA%85-jin-hyung-park-olnyc/)
   * [Built for Vector Search - Qdrant](https://qdrant.tech/articles/dedicated-vector-search/)
+* [Underneath the most common vector DB library (HNSW) is Beam search](https://www.linkedin.com/posts/softwaredoug_beam-search-wikipedia-activity-7325489899875311616-32Zd/)
+  * [Build a vector database from scratch](https://maven.com/p/866f13/doug-live-codes-a-vector-database)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
