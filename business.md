@@ -676,6 +676,7 @@ Business
 * [Data-Driven하게 일하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1785/)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [3개월 만에 10명대 조직이 2배 이상 커지면 생기는 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20220415)
+* [팀 규모를 늘려나갈 때 주의해야 하는 점.](https://brunch.co.kr/@seunghoon82/681)
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
   * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
 * [**How HashiCorp Works**](https://works.hashicorp.com/)
