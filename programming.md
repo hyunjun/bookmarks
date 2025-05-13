@@ -4677,6 +4677,7 @@ Programming
   * [Facebook F8 2019 후기 #1](https://blog.outsider.ne.kr/1443)
   * [Facebook F8 2019 후기 #2](https://blog.outsider.ne.kr/1444)
 * Google
+  * [Google Cloud Next 2025 참석기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1760)
   * [프론트엔드 개발자가 구글 I/O 2023 웹 세션에서 배운 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/2152/) web, android, flutter, chrome developer tool, WebDriver BiDi
   * [Codelabs - Google I/O 2017](https://codelabs.developers.google.com/io2017)
   * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
