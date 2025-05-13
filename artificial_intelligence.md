@@ -583,6 +583,7 @@ Artificial Intelligence
   * [서동욱 - MCP로 인해 기존 온라인 서비스들은 어떤 영향을 받게 될까? (조금 길지만 재미있을 수 있는 새로운... | Facebook](https://www.facebook.com/dsuh8/posts/pfbid0rVvPyNTA5GnU43CRUBSWTFebAA393BXTcaZbS5EvT6iHJKEtsTfT7vxrc3b9vn71l)
   * [Why your MCP server fails (how to make 100% successful MCP server) - DEV Community](https://dev.to/samchon/why-your-mcp-server-fails-how-to-make-100-successful-mcp-server-iem)
   * [Model Context Protocol (MCP) with practical examples - Part 1: High level overview - YouTube](https://www.youtube.com/watch?v=1jNmSiU0QYM)
+  * [MCP & Agents: Crash Course - YouTube](https://www.youtube.com/watch?v=OJ6ZLqO8HZI)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
