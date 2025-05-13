@@ -1046,6 +1046,7 @@ Artificial Intelligence
   * [💡NotebookLM: 구글의 최신 AI 연구 어시스턴트 리뷰](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1NotebookLM-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-AI-%EC%97%B0%EA%B5%AC-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
+  * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
