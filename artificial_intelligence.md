@@ -918,6 +918,10 @@ Artificial Intelligence
 * [Requests for Startups | Y Combinator](https://www.ycombinator.com/rfs?s25)
 * [AI 시대 IT 종사자들의 운명은?](https://brunch.co.kr/@aimuse/49)
 * [AI로 프로젝트 36개 만들고 깨달은 최악의 실수 7가지](https://newneek.co/@highoutputclub/article/31857)
+* [Unbundling the BPO: How AI Will Disrupt Outsourced Work | Andreessen Horowitz](https://a16z.com/unbundling-the-bpo-how-ai-will-disrupt-outsourced-work/)
+  * [the new startup playbook looks NOTHING like the old one](https://www.linkedin.com/posts/gisenberg_the-new-startup-playbook-looks-nothing-like-activity-7319732806266343426-3hfG/)
+  * [Daero Won - 😂"아웃소싱? 이제 그만! AI가 인도 콜센터를 삼키는 중" - 3,000억 달러짜리 BPO... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid0j8hZ9Eiq5ouxquLCKieAi6kqrvNHJXggH1Vy9qh5JC4Av2ihhVKapSUozm5yoR4El)
+  * [Daero Won - 😂"아웃소싱? 이제 그만! AI가 인도 콜센터를 삼키는 중"](https://www.linkedin.com/posts/wondaero_ai-bpo-qzcslhundsxu-activity-7327340204044746752-mJbZ/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1070,6 +1074,8 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
+* UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
+  * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
 
 ## Tool coding assistant
