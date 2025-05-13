@@ -107,6 +107,12 @@ Finance
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
 * [일반인을 위한 주식투자 조언](http://www.huffingtonpost.kr/daein-sun/story_b_7280008.html)
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
+* [버핏은 하락을 준비하고 있다 - YouTube](https://www.youtube.com/watch?v=CTby89NnjaY)
+  * 버핏지수 = 주가 / 국가 GDP
+  * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
+* [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
+* [Avoid Unforced Errors and Stay Humble: Warren Buffett’s Leadership Lessons - WSJ](https://www.wsj.com/business/avoid-unforced-errors-and-stay-humble-warren-buffetts-leadership-lessons-293ce3bb)
+  * [워런 버핏이 은퇴하면서 많은 기사들](https://www.linkedin.com/posts/swchun_avoid-unforced-errors-and-stay-humble-warren-activity-7325519122430070784-5frs/)
 * [그래햄의 NCAV(순유동자산) 전략 – 거저 먹기 투자, 한국에서 아직도 가능하다](https://www.snek.ai/alpha/article/108066)
 * [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
 * [국가가 시키는대로 저PBR주식 사세요? - YouTube](https://www.youtube.com/watch?v=C8xi2fUK1mY&t=295s)
@@ -125,9 +131,6 @@ Finance
 * [태국주식 사는 방법, 주식매매 따라해보기, 입금출금 해보기](https://www.youtube.com/watch?v=MWbVVKKOQgY)
 * [SaaS, Slack, Amazon SEO, Pinduoduo, Meituan, KPCB, a16z](https://medium.com/translink/two-cents-2-saas-slack-amazon-seo-pinduoduo-meituan-kpcb-a16z-c98c61b80e9c)
 * [월가의 퀀트 여제, 세계에서 가장 가벼운 금융회사를 꿈꾸다: 이지혜 대표 인터뷰](https://ppss.kr/archives/184025)
-* [버핏은 하락을 준비하고 있다 - YouTube](https://www.youtube.com/watch?v=CTby89NnjaY)
-  * 버핏지수 = 주가 / 국가 GDP
-  * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
 * [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
 * [SCHD바닥 신호에서 사모아야 할 ETF 2개. - YouTube](https://www.youtube.com/watch?v=Qeidk7sOdQA) Tiger ACE SOL KODEX 미국배당다우존스, Tiger KODEX 미국배당커버드콜액티브
@@ -174,7 +177,6 @@ Finance
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 * [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
-* [버핏이 말한 회계부정 기업은 테슬라? 엔비디아? TSMC? (ft.곽상빈 회계사 1부) - YouTube](https://www.youtube.com/watch?v=DtoTL-HnAIY) 현금흐름 -> 영업
 * 발행어음
   * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw)
   * [💰목돈은 여기에 넣어두세요 (2024년 5월 이자율 비교) - YouTube](https://www.youtube.com/watch?v=zf9C5vJbD4E)
