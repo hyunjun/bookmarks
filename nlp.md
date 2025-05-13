@@ -2944,6 +2944,8 @@ NLP
     * [#langchain 밋업 발표 R.A.G. 우리가 절대 쉽게 결과물을 얻을 수 없는 이유 - YouTube](https://www.youtube.com/watch?v=NfQrRQmDrcc)
     * [11-Retriever/11-Korean-Tokenizer-Tutorial.ipynb at main · teddylee777/langchain-kr · GitHub](https://github.com/teddylee777/langchain-kr/blob/main/11-Retriever/11-Korean-Tokenizer-Tutorial.ipynb)
   * [LangChain_misc/TokenUsageinStreaming.ipynb at main · NotoriousH2/LangChain_misc · GitHub](https://github.com/NotoriousH2/LangChain_misc/blob/main/TokenUsageinStreaming.ipynb)
+  * [langchain-naver-community: 🚀 Community-driven Naver integrations for LangChain! Seamlessly connect Naver's search, translation, and AI services with LangChain to build powerful AI-driven applications](https://github.com/e7217/langchain-naver-community)
+    * [NAVER | 🦜️🔗 LangChain](https://python.langchain.com/docs/integrations/providers/naver/)
   * [langchain-python-basic: langchain-python-basic book](https://github.com/sw-woo/langchain-python-basic/tree/main)
     * [langchain-python-basic/rangserve-fastapi-server at main · sw-woo/langchain-python-basic · GitHub](https://github.com/sw-woo/langchain-python-basic/tree/main/rangserve-fastapi-server)
   * [langchain-python-pr/langGraph-finace/app.py at main · sw-woo/langchain-python-pr · GitHub](https://github.com/sw-woo/langchain-python-pr/blob/main/langGraph-finace/app.py)
