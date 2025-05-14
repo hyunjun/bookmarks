@@ -721,6 +721,7 @@ Docker
 * [도커가 바꾼 개발바닥 - YouTube](https://www.youtube.com/watch?v=e0koWWAmXSk) 설명을 잘 함(역시 강의 만들만 함)
 * [자고 일어나니 Docker Captain이 되었다](https://ykarma1996.tistory.com/219)
 * [Docker의 문제들이 탈출 러시를 부른 이유 (5가지 대안 컨테이너 런타임) - YouTube](https://www.youtube.com/watch?v=NGAxHC0f1wU)
+* [🐳 컨터이너에 앱 담기 dockerize - YouTube](https://www.youtube.com/watch?v=ie19qpwK8Dg)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
