@@ -356,6 +356,7 @@ Artificial Intelligence
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
   * [Agent Development Kit](https://google.github.io/adk-docs/)
+  * [Google ADKAgent Development Kit - YouTube](https://www.youtube.com/watch?v=RmHXSALwFMY)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
@@ -1098,6 +1099,7 @@ Artificial Intelligence
   * [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
+  * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
   * [OpenAI Codex CLI 전격 해부! 터미널에서 AI 코딩 에이전트가?! (o3, o4미니, GPT4.1 활용) - YouTube](https://www.youtube.com/watch?v=tN5EVoLMMuU)
