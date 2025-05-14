@@ -2517,8 +2517,6 @@ App
   * [어디서나 똑같은 환경 그대로 옵시디언 사용하기 - YouTube](https://www.youtube.com/watch?v=TSkgfGciuPw) synchronization
   * [클라우드 없이 🙅 모든 디바이스 연결하기 - YouTube](https://www.youtube.com/watch?v=uimJqa0zxHU)
   * [인생 노트앱...드디어 찾았습니다..! - YouTube](https://www.youtube.com/watch?v=qY1P_CmL8aQ)
-  * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc) smart composer
-  * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
   * [20 Must have Obsidian Plugins - YouTube](https://www.youtube.com/watch?v=Gbt1T8MDp24)
   * [Use these 10 Obsidian Tips to Level Up Your Note Taking Productivity in 2024 - YouTube](https://www.youtube.com/watch?v=b75egxi4v2c)
   * [The 9 Best Obsidian Plugins You've (Probably) Never Heard of - YouTube](https://www.youtube.com/watch?v=GcsTvY5Luz0)
@@ -2556,6 +2554,10 @@ App
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
+  * smart composer
+    * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
+    * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
+    * [옵시디언에서 AI로 노트 작성하기 (Smart Composer Plugin) - YouTube](https://www.youtube.com/watch?v=YYiok_C9o7M)
   * [Templater: A template plugin for obsidian](https://github.com/SilentVoid13/Templater?tab=readme-ov-file)
     * [Introduction - Templater](https://silentvoid13.github.io/Templater/)
     * [Templater 옵시디언 문서의 update 날짜 자동 갱신하기](https://kaminik.tistory.com/entry/Templater-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EB%AC%B8%EC%84%9C%EC%9D%98-update-%EB%82%A0%EC%A7%9C-%EC%9E%90%EB%8F%99-%EA%B0%B1%EC%8B%A0%ED%95%98%EA%B8%B0)
