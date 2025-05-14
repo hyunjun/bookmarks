@@ -1572,6 +1572,9 @@ Git
   * GitHub의 데이터를 내보내기 쉽게 도와주는 GitHub에서 만든 패키지. 현재 이슈를 CSV나 JSON으로 export
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
 * [GitHub Awesome: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
+* [GitHub CLI | Take GitHub to the command line](https://cli.github.com/)
+  * [gh](https://okdevtv.com/mib/gh)
+    * [GitHub CLI command line interface with Copilot - YouTube](https://www.youtube.com/watch?v=ZPCD6iCXN5g)
 * [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
   * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
   * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
