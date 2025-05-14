@@ -1178,6 +1178,7 @@ Artificial Intelligence
 * [v0 by Vercel](https://v0.dev/)
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
   * [Next.js + shadcn/ui 개발, AI UI 생성 도구 뭐 쓸까? v0 vs Lovable 비교 후기!](https://www.facebook.com/groups/1183007433518603/posts/1186112866541393/)
+  * [20분동안 직접 코드 한줄도 안씀 - YouTube](https://www.youtube.com/watch?v=YanHWhp9vkk)
 * [Void](https://voideditor.com/)
   * [void](https://github.com/voideditor/void)
   * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
