@@ -3180,6 +3180,9 @@ Programming Books
   * [실리콘밸리에선 어떻게 일하나요. 1 BOTTOM-UP CULTURE 가까운 사람의 책임이 더 크다 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ef1ce9721500)
   * [실리콘밸리에선 어떻게 일하나요](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94)
   * [리더들이 피드백할 때 많이 하는 실수 2가지](https://www.linkedin.com/posts/%EC%9D%80%EB%B9%84-%EC%B0%A8-291b95250_%EB%A9%94%ED%83%80%EC%97%90%EC%84%9C-10%EB%85%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%80%EC%9E%A5%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%84%B1%EA%B3%BC-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%A9%EB%B2%95-%EA%B0%80%EC%9D%B8%EC%A7%80%EC%BA%A0%ED%8D%BC%EC%8A%A4-activity-7015997439849500672-OmJC/)
+  * [처음 리더가 된 사람들을 위한 조언 by 전 메타(META) 수석팀장 - YouTube](https://www.youtube.com/watch?v=UADiwl9SHss)
+  * [저커버그도 따라야 하는 메타(META)의 피드백 원칙 - YouTube](https://www.youtube.com/watch?v=Fn3fGp9s3bY)
+  * [마크 저커버그 바로 건너편에서 일해보니(f. 크리스 채 전 메타 AI신규 사업팀 수석팀장) - YouTube](https://www.youtube.com/watch?v=K81MgWP0hgE)
 * [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
   * ★★★☆☆ 2022.12.24~25
   * 탐라 문325.3-페231ㅍ
