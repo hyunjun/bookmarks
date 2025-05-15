@@ -616,6 +616,8 @@ SQL
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
 * table_ddl [mariadb mysql 특정 스키마 테이블 ddl 추출 프로그램 배포](https://stricky.tistory.com/468)
+* [TigerBeetle - 1000x Faster Financial Transactions (OLTP) Database](https://tigerbeetle.com/)
+  * [The FASTEST and SAFEST Database - YouTube](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [Trino | Distributed SQL query engine for big data](https://trino.io/)
   * [Trino | Why leaving Facebook/Meta was the best thing we could do for the Trino Community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
     * 페이스북에서 만든 Presto의 초기 멤버들이 페이스북을 나와서 Trino로 리브랜딩하고 Trino 재단을 만들었는데 그게 왜 좋은 결정이었는지를 설명한 글
