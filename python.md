@@ -4824,6 +4824,8 @@ Python
   * [python uv 가 python conda 보다 좋은 이유 - YouTube](https://www.youtube.com/watch?v=cJlboGKkaJ4)
   * [uv : 엄청 빠르고 편리한 Python 프로젝트, 패키지 관리 프로그램 - YouTube](https://www.youtube.com/watch?v=hN1rh2MkzW8)
     * [uv : 엄청 빠르고 편리한 Python 프로젝트, 패키지 관리 프로그램 | Mattabu Tech](https://wiki.mattabu.com/blog/uv-fast-and-convenient-python-project-package-manager)
+  * [python uv ⚡Ultrafast Package Installer - YouTube](https://www.youtube.com/watch?v=dpUb7rtiEcI)
+    * [uv](https://okdevtv.com/mib/uv)
   * [uv-demo: Demo of uv for a streamlined Python package management experience](https://github.com/prrao87/uv-demo)
     * [파이썬 개발자라면 uv 를 사용합시다. Poetry, Anaconda, virtualenv 는 이제 그만! | by Sigrid Jin | Medium](https://sigridjin.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-uv-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A9%EC%8B%9C%EB%8B%A4-546d523f7178)
 * virtualenv
