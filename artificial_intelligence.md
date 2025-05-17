@@ -1155,6 +1155,7 @@ Artificial Intelligence
   * [Cursor 로 탭 기능 200% 활용하기](https://devway.tistory.com/64)
   * [Cursor AI Editor의 Tab 기능, 개발자 생산성을 한 단계 끌어올리는 비결](https://devway.tistory.com/69)
   * [Cursor 의 숨겨진 강력함, Cursor Rule 제대로 활용하기](https://devway.tistory.com/67)
+  * [Cursor AI, 왜 같은 질문에도 다른 코드를 줄까요?](https://devway.tistory.com/77)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
@@ -1188,6 +1189,7 @@ Artificial Intelligence
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
   * [AI가 디자인 다 해줍니다! | Figma 소개 및 Windsurf에서 Figma MCP 사용하는 방법, Talk to Figma MCP 설치 및 프로그램 GUI 디자인 - YouTube](https://www.youtube.com/watch?v=oYZl8tWTj-c)
+  * [“개발 속도 99% 더 빠르게 만들 것”··· 윈드서프, 코딩 특화 AI 모델 ‘SWE-1’ 공개 | CIO](https://www.cio.com/article/3987217/%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84%eb%a5%bc-99-%eb%8d%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ea%b2%83%c2%b7%c2%b7%c2%b7-%ec%9c%88%eb%93%9c%ec%84%9c%ed%94%84.html)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
