@@ -1206,6 +1206,7 @@ Artificial Intelligence
   * [웹 디자인 자동 생성 및 코딩/배포. UI/UX 혁신! Figma AI 활용 - YouTube](https://www.youtube.com/watch?v=lpfhZMeYWzM)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [Replit – Build apps and sites with AI](https://replit.com/)
+  * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
 * [Roo Code – Your AI-Powered Dev Team in VS Code](https://roocode.com/)
   * [Roo-Code: Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor](https://github.com/RooVetGit/Roo-Code)
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)
