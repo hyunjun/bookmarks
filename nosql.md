@@ -542,6 +542,7 @@ NoSQL
 * [MongoDB Update 성능 측정 및 분석 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-data-mongodb-update-performance/)
 * [DBA is free! MongoDB 자동 업그레이드 시스템 개발기 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=2jP2YKedPF0)
   * [DBA is free! MongoDB 자동 업그레이드 시스템 개발기 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-75)
+* [Atlas to Self-Hosted MongoDB 이관기(1부) | by bumhwak | 레브잇 테크블로그 | Apr, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/atlas-to-self-hosted-mongodb-%EC%9D%B4%EA%B4%80%EA%B8%B0-1%EB%B6%80-66951164b8c6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
 * Mongoose
@@ -660,6 +661,7 @@ NoSQL
   * supabase에 Kakao OIDC 지원을 직접 추가하신 분이 이를 사용해서 카카오 로그인을 연동하는 예시를 설명한 글
 * [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/86)
 * [정말 다시는 쓰고 싶지 않은 최악의 프로덕트](https://www.linkedin.com/posts/sigridjineth_supabase-client-requires-explicit-signout-activity-7284176517197189120-jbOW)
+* [Supabase API Key 생성하기](https://devway.tistory.com/76)
 * [crossplatformkorea/CPK](https://github.com/crossplatformkorea/cpk)
   * [커뮤니티 앱 개발 리뷰 - YouTube](https://www.youtube.com/watch?v=U_wgty0DMjE)
 
