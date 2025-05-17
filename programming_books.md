@@ -3763,6 +3763,10 @@ Programming Books
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 * (NOT YET) [디자인 패턴의 아름다움](https://jpub.tistory.com/1417)
   * 우당 문005.13-왕73ㄷ
+* (NOT YET) 성공과 실패를 결정하는 1%의 객체 지향 원리
+  * 우당 문005.115-아829ㅅ
+  * [누가 나한테 객체 지향 프로그래밍에 대해서 물으면 이 <성공과 실패를 결정하는 1%의 객체 지향 원리>와 로버트 C. 마틴의 "휴리스틱과 커피"를 가장 많이 추천했다](https://www.linkedin.com/posts/fupfin_%EB%88%84%EA%B0%80-%EB%82%98%ED%95%9C%ED%85%8C-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%AC%BC%EC%9C%BC%EB%A9%B4-%EC%9D%B4-%EC%84%B1%EA%B3%B5%EA%B3%BC-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-activity-7325337388572905472-660X/)
+  * [Heuristics and Coffee](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/readings/gt-sad-martin-chapter-11.pdf)
 
 # PHP
 
