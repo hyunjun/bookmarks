@@ -360,6 +360,9 @@ Artificial Intelligence
 * [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
   * [Agent Development Kit](https://google.github.io/adk-docs/)
   * [Google ADKAgent Development Kit - YouTube](https://www.youtube.com/watch?v=RmHXSALwFMY)
+  * [구글 ADK에서 MCP를 사용하는 방법! (feat. Blender, Obsidian) - YouTube](https://www.youtube.com/watch?v=pZrYYcgu-Lg)
+  * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
+    * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
@@ -405,6 +408,7 @@ Artificial Intelligence
     * [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌, 요즘 서비스는 다 이렇게 만듭니다 - YouTube](https://www.youtube.com/watch?v=Y2SZNbnBjN0)
   * [AI랑 일하면서 생긴 나누고 싶은 생각들](https://brunch.co.kr/@boorownie/16)
   * [**(내가 아는) 바이브 코딩에 대한 모든 것 - haebom**](https://haebom.dev/archive?post=xjqy1g2vdrgyp26vd54z)
+  * [재미로 하는 Vibe Coding - Web에서 코딩하기, 에러 확인 및 수정하기 (구독자님 질문) - YouTube](https://www.youtube.com/live/emERx9tiS0E)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -568,6 +572,7 @@ Artificial Intelligence
   * [인공지능 AI의 대변환, MCP 쉬운 설명 | 클로드 챗지피티 - YouTube](https://www.youtube.com/watch?v=oAxunD8k0C8)
   * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
   * [AI 생태계 연결하는 USB-C 포트, MCP 알아보기 - YouTube](https://www.youtube.com/watch?v=OdwuHsXPqn4)
+  * [MCP써야 진짜 Claude다! 500% 활용 튜토리얼 (개념부터 활용까지) - YouTube](https://www.youtube.com/watch?v=fkqXQOjj8cA)
   * [이주환 - MCP가 무엇인지에 대해서는 이미 많은 전문가들께서 잘 설명해 주고 계시기에, 저는 이 agentic... | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0F9vVgJSFDreX8aaocD3k36o2NYKwTXMwbJ3GJ2nBZhJsqJJ5mF19GaVqQPoBTnsyl)
   * [Model Context Protocol (MCP) - A Deep Dive - WWT](https://www.wwt.com/blog/model-context-protocol-mcp-a-deep-dive)
   * [박성철 - MCP를 코드의 종말 측면에서 바라볼 수 있다. 여러 번 말했지만, 나는 AI가 코드를 생성하는 방식이... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02uJ5iJKSvqxBjwva7NAvpwMb725nfY8p17y2Mm8jHeQk7rRvKfGJJaoTpSQsEcb6al)
@@ -609,6 +614,9 @@ Artificial Intelligence
   * [genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade usage in mind](https://github.com/googleapis/genai-toolbox)
     * [Introduction | MCP Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
   * [github-mcp-server: GitHub's official MCP Server](https://github.com/github/github-mcp-server)
+  * [kimpalbok-slack-mcp-server](https://github.com/dev-palboksoft/kimpalbok-slack-mcp-server)
+    * [mcp server 만들기 - 1편 (customizing mcp server 만들기 1편) 개발일기 - YouTube](https://www.youtube.com/watch?v=-w-dshzURX0)
+    * [mcp server 만들기 - 2편 완결 (MCP 마켓플레이스에 등록) 개발일기 - YouTube](https://www.youtube.com/watch?v=Gr7VN1zmXFk)
   * [langgraph-mcp-agents: LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools](https://github.com/teddynote-lab/langgraph-mcp-agents/)
     * [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥 - YouTube](https://www.youtube.com/watch?v=ISrYHGg2C2c)
   * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
@@ -1103,6 +1111,8 @@ Artificial Intelligence
   * [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
+  * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
+  * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
   * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
@@ -1167,6 +1177,10 @@ Artificial Intelligence
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
   * [Cursor Korea | 커서 공식 한국 사용자 모임](https://www.cursorkorea.org/) -> chung gmail 계정
+  * [Cursor AI Editor와 uv로 가상환경 빠르게~ .py .ipynb 바이브 코딩도 빠르게~ - YouTube](https://www.youtube.com/watch?v=XCv-fVHtZgs)
+  * [이것만알아도 커서의 80%는 이해합니다 - YouTube](https://www.youtube.com/watch?v=XOgGLvI05i4)
+  * [커서AI로 네이버 부동산 매물 자동 수집하기 | cursor ai - YouTube](https://www.youtube.com/watch?v=izHnKG8_cpA)
+  * [Cursor AI 에디터로 개발 초기세팅 날먹하는 미친 방법 | 디자인 패턴, 클린 아키텍쳐, 디자인 시스템, 상태관리 - YouTube](https://www.youtube.com/watch?v=6-j9-xdATuQ)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
