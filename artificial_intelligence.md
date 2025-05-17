@@ -1109,6 +1109,7 @@ Artificial Intelligence
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
   * [OpenAI Codex CLI 전격 해부! 터미널에서 AI 코딩 에이전트가?! (o3, o4미니, GPT4.1 활용) - YouTube](https://www.youtube.com/watch?v=tN5EVoLMMuU)
+  * [단 30초 만에 '딸깍', ChatGPT Codex 에이전트 발표 리뷰 - YouTube](https://www.youtube.com/watch?v=FkutE0GhFJs)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
