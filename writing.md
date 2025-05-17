@@ -133,6 +133,7 @@ Writing
 * [Make better documents. - Anil Dash](https://www.anildash.com//2024/03/10/make-better-documents/)
 * [당신의 글에 숨어있는 불필요한 부사들](https://brunch.co.kr/@cliche-cliche/241)
 * [글을 쓰는 사람과 그렇지 않은 사람 | GeekNews](https://news.hada.io/topic?id=17452)
+* [임승수 - <출판 계약 시 예비 저자가 알아두면 좋은 것> 출판사와 처음으로 계약을 추진하게 되면, 예비 저자는... | Facebook](https://www.facebook.com/chamworld/posts/pfbid02Yxk2HKdKtEdfkgRjAi27odNtgVcywpBfERoMiMs6qQcYRvGxtEfsf1yWLdktsCf7l)
 
 # App
 * latex
