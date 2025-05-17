@@ -3377,6 +3377,9 @@ NLP
     * [Qwen3 의 Hybrid thinking mode](https://devocean.sk.com/blog/techBoardDetail.do?ID=167448) Hybrid Thinking mode
     * [Qwen 3 (큐웬 3) MoE 서빙 최적화를 위한 사이오닉의 전략](https://blog.sionic.ai/qwen3-moe-upscaling)
       * [Qwen 3 (큐웬 3) 서빙 최적화를 위한 MoE 업스케일링 전략 | GeekNews](https://news.hada.io/topic?id=20946)
+    * [Qwen3_(4B)-GRPO.ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3_\(4B\)-GRPO.ipynb)
+      * [Qwen3: How to Run & Fine-tune | Unsloth Documentation](https://docs.unsloth.ai/basics/qwen3-how-to-run-and-fine-tune#fine-tuning-qwen3-with-unsloth)
+      * [releasing a new advanced GRPO notebook to fine-tune Qwen3 for free](https://www.linkedin.com/posts/danielhanchen_were-releasing-a-new-advanced-grpo-notebook-activity-7328108784994656257-wNn8/)
     * [qwen3-on-sagemaker](https://github.com/Napkin-DL/qwen3-on-sagemaker)
       * [최근 공개된 Qwen3 모델을 Amazon SageMaker에서 효율적으로 학습하고 배포하는 전체 워크플로우 예제 코드](https://www.linkedin.com/posts/napkin_github-napkin-dlqwen3-on-sagemaker-activity-7325315642205577216-2P5o/)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
