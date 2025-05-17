@@ -1125,6 +1125,8 @@ Artificial Intelligence
   * [A research preview of Codex in ChatGPT - YouTube](https://www.youtube.com/watch?v=hhdpnbfH6NU)
     * [(한글자막) ChatGPT의 Codex에 대한 연구 미리보기 - YouTube](https://www.youtube.com/watch?v=JqSGtfWAVSY)
   * [단 30초 만에 '딸깍', ChatGPT Codex 에이전트 발표 리뷰 - YouTube](https://www.youtube.com/watch?v=FkutE0GhFJs)
+  * [Vibe Check: Codex—OpenAI’s New Coding Agent](https://every.to/chain-of-thought/vibe-check-codex-openai-s-new-coding-agent)
+    * [Seung Joon Choi - Codex 개발자와의 대담 코딩 에이전트 격전이라고 볼 수 있네요.... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0xCjKEbpDmyF9hkbpgWyCME6Ah8jgk1m2tkqhSuHtmjodQhMdFai2inxnvzT8Speil)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
