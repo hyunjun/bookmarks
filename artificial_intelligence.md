@@ -1184,6 +1184,7 @@ Artificial Intelligence
   * [이것만알아도 커서의 80%는 이해합니다 - YouTube](https://www.youtube.com/watch?v=XOgGLvI05i4)
   * [커서AI로 네이버 부동산 매물 자동 수집하기 | cursor ai - YouTube](https://www.youtube.com/watch?v=izHnKG8_cpA)
   * [Cursor AI 에디터로 개발 초기세팅 날먹하는 미친 방법 | 디자인 패턴, 클린 아키텍쳐, 디자인 시스템, 상태관리 - YouTube](https://www.youtube.com/watch?v=6-j9-xdATuQ)
+  * [커서로 파이어베이스 DB만들기(데이터베이스가 이렇게 쉽다니...) - YouTube](https://www.youtube.com/watch?v=QC4p4h4t6bw)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
