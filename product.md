@@ -183,6 +183,7 @@ Product
 * [dronecheap.net/ - compare drone prices and features](https://dronecheap.net/)
 
 # E ink
+* [필기 + 그림 + 이북 리더기를 하나의 기기로 - XPPen 매직 노트패드 태블릿 - YouTube](https://www.youtube.com/watch?v=NQPsnO3OU2M) e ink는 아님
 * [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/)
 * [Should you still buy a reMarkable 2 in 2024? - YouTube](https://www.youtube.com/watch?v=8WpyCaQkkiM)
 * [Daylight Computer | The Fast 60fps E-paper and Blue-Light Free Tablet](https://daylightcomputer.com/product)
