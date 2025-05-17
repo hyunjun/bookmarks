@@ -377,6 +377,7 @@ SQL
 * [고가용성의 웹 서비스를 위한 데이터베이스 클러스터링](https://hudi.blog/database-clustering/) clustering
 * [오래된 DB와 이별하는 방법 :: GS Retail Engineering](https://gsretail.tistory.com/25)
 * [DB migration 방법론 :: GS Retail Engineering](https://gsretail.tistory.com/29)
+* [DB 마이그레이션 시 순번 전략 체크하자! - YouTube](https://www.youtube.com/watch?v=rCmNGDc2e5Q)
 * [Number와 boolean 은 최대한 Not Null로 선언하기](https://jojoldu.tistory.com/718)
 * ['is not NULL'과 '!= NULL'은 다르다?](https://yeonyeon.tistory.com/307)
 * [SQL NULLs are Weird!](https://jirevwe.github.io/sql-nulls-are-weird.html)
