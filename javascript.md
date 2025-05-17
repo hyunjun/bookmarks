@@ -1376,6 +1376,12 @@ Javascript
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
 * [10분 테코톡 우디의 비동기 처리 - YouTube](https://www.youtube.com/watch?v=s3gDWV3x038)
 * [한 번에 이해하는 자바스크립트 비동기 프로그래밍 | 요즘IT](https://yozm.wishket.com/magazine/detail/3034/)
+* [async/await의 숨겨진 문제점 (미움받는 이유) - YouTube](https://www.youtube.com/watch?v=RzSuKnidc3I)
+  * async/await는 비동기 코드를 동기적으로 보이게 하고 UI 차단을 방지하려는 목적을 가지고 있지만
+    * "함수 컬러링(function coloring)"과 미흡한 추상화 문제로 인해
+    * 여전히 비동기적 복잡성을 개발자가 관리해야 하며, 성능 문제를 초래할 수 있다는 점에서 "깨진 추상화(broken abstraction)"라고 평가
+  * 따라서, 콜백 함수나 Go 언어의 동시성(concurrency) 모델과 같은 대체 방법과 모델을 제시
+    * 특정 프로그래밍 상황에서는 이러한 방법들이 더 투명하거나 효율적일 수 있다
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
