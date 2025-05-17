@@ -2112,6 +2112,7 @@ Docker
 * [How Kubernetes Runs Containers : A Practical Deep Dive](https://blog.esc.sh/kubernetes-containers-linux-processes/)
 * [쿠버네티스 StatefulSet 환경에서 Redis RDB 손상 긴급 대응하기 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4-statefulset-%25ED%2599%2598%25EA%25B2%25BD%25EC%2597%2590%25EC%2584%259C-redis-rdb-%25EC%2586%2590%25EC%2583%2581-%25EA%25B8%25B4%25EA%25B8%2589-%25EB%258C%2580%25EC%259D%2591-jin-hyung-park-vbcgf/)
 * [한 달이 지나서 쓰는 Kubestronaut 후기](https://xfrnk2.tistory.com/16)
+* [K8s in Wonderland: Why? Many of Unknown Code in My Workload? - Hoon Jo, Megazone - YouTube](https://www.youtube.com/watch?v=GvIPSgt69Sg)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
