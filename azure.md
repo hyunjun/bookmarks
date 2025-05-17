@@ -215,6 +215,7 @@ Azure
 * [구독에 소유자 역할을 추가하는 방법](https://www.dokyun.pe.kr/338)
 * [How to pass objects between tasks in Azure pipeline | Devops](https://dotnet-helpers.com/devops/pass-objects-between-tasks-in-azure-pipeline/)
 * [Azure App 서비스 제거 오류 해결 방법](https://www.dokyun.pe.kr/351)
+* [Enhancing AI Integrations with MCP and Azure API Management | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/enhancing-ai-integrations-with-mcp-and-azure-api-management/4407114)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
