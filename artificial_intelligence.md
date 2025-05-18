@@ -939,6 +939,12 @@ Artificial Intelligence
   * [the new startup playbook looks NOTHING like the old one](https://www.linkedin.com/posts/gisenberg_the-new-startup-playbook-looks-nothing-like-activity-7319732806266343426-3hfG/)
   * [Daero Won - 😂"아웃소싱? 이제 그만! AI가 인도 콜센터를 삼키는 중" - 3,000억 달러짜리 BPO... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid0j8hZ9Eiq5ouxquLCKieAi6kqrvNHJXggH1Vy9qh5JC4Av2ihhVKapSUozm5yoR4El)
   * [Daero Won - 😂"아웃소싱? 이제 그만! AI가 인도 콜센터를 삼키는 중"](https://www.linkedin.com/posts/wondaero_ai-bpo-qzcslhundsxu-activity-7327340204044746752-mJbZ/)
+* [AI-Driven Software: Why a Strong CI/CD Foundation Is Essential - The New Stack](https://thenewstack.io/ai-driven-software-why-a-strong-ci-cd-foundation-is-essential/)
+  * The article emphasizes the importance of a robust CI/CD foundation for AI-driven software development
+  * While AI promises increased speed and efficiency, it also creates challenges such as higher throughput, increased testing demands, and potential bottlenecks
+  * To harness the benefits of AI, a scalable CI/CD platform is necessary to handle rapid iterations, reduce feedback cycles, and maintain quality and security standards
+  * The author provides a checklist of essential capabilities for selecting the right CI/CD partner, including integrated pipeline management, advanced caching architecture, distributed execution framework, resource optimization, developer experience, and enterprise readiness
+  * In summary, a strong CI/CD platform is crucial for turning AI into a strategic advantage rather than a bottleneck in the software development lifecycle
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
