@@ -4626,6 +4626,8 @@ Programming Books
   * [Tidy First](https://velog.io/@joosing/Tidy-First)
   * [<켄트 벡의 Tidy First?> 역자 북토크 Q&A](https://brunch.co.kr/@graypool/1831)
   * [스프링캠프 2024 Track 1 1.켄트 벡의 Tidy First? (안영회) - YouTube](https://www.youtube.com/watch?v=IF9Uv5ceB1Q)
+  * [Design in TDD - by Kent Beck - Software Design: Tidy First?](https://tidyfirst.substack.com/p/design-in-tdd)
+    * [TDD는 디자인에 반한다는 교수의 주장에 대해](https://brunch.co.kr/@graypool/2295)
 * [현직 LINE 개발자가 알려주는 읽기 쉽고 코드 리뷰하기 좋은 코드 작성 가이드](https://www.gilbut.co.kr/book/view?bookcode=BN004068)
   * ★★★☆☆ July 1, 2024 좋은 책이지만 kotlin 위주로 작성되어서 다른 언어 사용자에겐 약간 유용성이 낮아질 수 있음
   * 탐라 문005.133-이59ㅋ
