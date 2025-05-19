@@ -9062,6 +9062,17 @@ Programming
   * [rqlite가 테스트하는 방법 | GeekNews](https://news.hada.io/topic?id=18772)
 * [Test-Driven Development with an LLM for Fun and Profit | blog.yfzhou](https://blog.yfzhou.fyi/posts/tdd-llm/)
   * [재미와 이익을 위한 "LLM 기반 TDD" | GeekNews](https://news.hada.io/topic?id=18828)
+* [Programmer Test Principles. BDD versus TDD. This test tool versus… | by Kent Beck | Medium](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
+  * [Kent Beck이 TDD에서 말하는 단위테스트는 자동화된 단위테스트와 혼동되어 사용되고 있습니다. 그래서 Kent Beck은 TDD에서의 테스트를 Programmer Test(programmer가 작성하므로)라고 부르고 다음과 같은 특성](https://www.linkedin.com/posts/myeongseok-baek-b9b1591b_programmer-test-principles-activity-7302160638707961858-_hnw/)
+    * TDD 이런 원칙 준수
+    * 1. 빠른 속도(fast)
+    * 2. 결정론적(deterministic)
+    * 3. 예측성(predictive)
+    * 4. 동작 변경(behavior change)에 민감하고 구조 변경(structure change)에 둔감
+    * 5. 작성 비용이 저렴함(cheap to write)
+    * 6. 읽기 비용이 저렴함(cheap to read)
+    * 7. 변경 비용이 저렴함(cheap to change)
+* [소프트웨어QA 포럼](https://qaforum.kr/)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
@@ -9109,16 +9120,6 @@ Programming
   * [야, 너도 WireMock으로 테스트할 수 있어 | 우아한형제들 기술블로그](https://techblog.woowahan.com/17674/)
 * [zerocode: A community-developed, free, open source, microservices API automation and load testing framework built using JUnit core runners for Http REST, SOAP, Security, Database, Kafka and much more. Zerocode Open Source enables you to create, change, orchestrate and maintain your automated test cases declaratively with absolute ease](https://github.com/authorjapps/zerocode)
   * [zerocode-docker-factory: Docker compose for various images needed by Zerocode to run e.g. Kafka, ZooKeeper, Postgres etc](https://github.com/authorjapps/zerocode-docker-factory)
-* [Programmer Test Principles. BDD versus TDD. This test tool versus… | by Kent Beck | Medium](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934)
-  * [Kent Beck이 TDD에서 말하는 단위테스트는 자동화된 단위테스트와 혼동되어 사용되고 있습니다. 그래서 Kent Beck은 TDD에서의 테스트를 Programmer Test(programmer가 작성하므로)라고 부르고 다음과 같은 특성](https://www.linkedin.com/posts/myeongseok-baek-b9b1591b_programmer-test-principles-activity-7302160638707961858-_hnw/)
-    * TDD 이런 원칙 준수
-    * 1. 빠른 속도(fast)
-    * 2. 결정론적(deterministic)
-    * 3. 예측성(predictive)
-    * 4. 동작 변경(behavior change)에 민감하고 구조 변경(structure change)에 둔감
-    * 5. 작성 비용이 저렴함(cheap to write)
-    * 6. 읽기 비용이 저렴함(cheap to read)
-    * 7. 변경 비용이 저렴함(cheap to change)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
@@ -9265,6 +9266,7 @@ Programming
 * [04화 QA 엔지니어의 도구 활용 팁](https://brunch.co.kr/@jamescompany/63) Selenium Cypress Playwright
 * [생성형 AI로 모의 이력서 테스트 데이터 만들기](https://chance-doe.tistory.com/29)
 * [Python을 이용해 Builder 패턴으로 API 자동화 테스트 코드 구성하기](https://chance-doe.tistory.com/32)
+* [무신사 Web 테스트 자동화 2.0: 더 빠르고 효율적인 테스트 환경 만들기 | by Hochul Shin | MUSINSA tech | May, 2025 | Medium](https://medium.com/musinsa-tech/%EB%AC%B4%EC%8B%A0%EC%82%AC-web-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-2-0-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-af3ad971e0af)
 * [Ace Automation Academy - YouTube](https://www.youtube.com/@aceautomationacademy6926/videos)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
