@@ -163,6 +163,7 @@ Artificial Intelligence
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능과 데이터의 관계 | YES24 채널예스](https://ch.yes24.com/Article/View/48422)
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능 서비스 실현의 현실 | YES24 채널예스](https://ch.yes24.com/Article/View/50666)
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능 서비스를 실현하는 기술 | YES24 채널예스](https://ch.yes24.com/Article/View/50910)
+* [바이브 코딩뿐만 아니라 바이브 운영.. AIOps 데모 - YouTube](https://www.youtube.com/watch?v=swXW7LMvwAI)
 * [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
 * [인터뷰 김광섭 카카오브레인 CTO AI로 '불쾌한 골짜기' 건넌다 | 아주경제](https://www.ajunews.com/view/20220214145910701)
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
@@ -249,6 +250,8 @@ Artificial Intelligence
 * [김유신 - 기업에서 AI를 구축하고 활용하려고 할 때, 가장 큰 난관은 무엇일까요? 저는 Data 라고 생각합니다.... | Facebook](https://www.facebook.com/neotevan/posts/pfbid0sMVGxjdtbxoE8WVWHDL63aryzbPUmCnFukmjep2XMwQHHWQN4hNNQ1R5xD9pFV9Tl)
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
   * AI Agent, AI agentic, AI assistant 차이
+* [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
+  * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [**Agent:LLM의 새로운 응용프로그램-1부. 안녕하세요, 서비스 개발실 실장으로 크라우드웍스에서 일을 하게 된… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium**](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1%EB%B6%80-b4bf7c3eb176)
 * [Agent:LLM의 새로운 응용프로그램 -2부. 안녕하세요, 서비스 개발실에서 AI engineer로 일하고 있는… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2%EB%B6%80-b722ad1cf151)
 * [제목은 안정적인 AI 서빙 시스템으로 하겠습니다. 근데 이제 자동화를 곁들인… | 우아한형제들 기술블로그](https://techblog.woowahan.com/19548/)
@@ -946,6 +949,7 @@ Artificial Intelligence
   * The author provides a checklist of essential capabilities for selecting the right CI/CD partner, including integrated pipeline management, advanced caching architecture, distributed execution framework, resource optimization, developer experience, and enterprise readiness
   * In summary, a strong CI/CD platform is crucial for turning AI into a strategic advantage rather than a bottleneck in the software development lifecycle
 * [AI 코딩 에이전트는 정말 개발자의 직업을 빼앗을까?](https://maily.so/seanlee/posts/8mo5pm54z9p)
+* [인공지능에 대한 두려움을 ‘함께 할 결심’으로 채우기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3111/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1115,6 +1119,8 @@ Artificial Intelligence
 * [알파의 보고서 LLM 통합 분석 보고서: 코딩 자동화 및 실무 병합 작업 기반 ToC 최적화 전략](https://blog.naver.com/fstory97/223829162926)
 * [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
   * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3)
+* [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai)
+  * [LLM으로 몇 달간 코딩한 후, 다시 내 두뇌를 쓰기로 했어요 | GeekNews](https://news.hada.io/topic?id=20955)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
