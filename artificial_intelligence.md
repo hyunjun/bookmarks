@@ -945,6 +945,7 @@ Artificial Intelligence
   * To harness the benefits of AI, a scalable CI/CD platform is necessary to handle rapid iterations, reduce feedback cycles, and maintain quality and security standards
   * The author provides a checklist of essential capabilities for selecting the right CI/CD partner, including integrated pipeline management, advanced caching architecture, distributed execution framework, resource optimization, developer experience, and enterprise readiness
   * In summary, a strong CI/CD platform is crucial for turning AI into a strategic advantage rather than a bottleneck in the software development lifecycle
+* [AI 코딩 에이전트는 정말 개발자의 직업을 빼앗을까?](https://maily.so/seanlee/posts/8mo5pm54z9p)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
