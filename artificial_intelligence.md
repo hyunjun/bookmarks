@@ -164,6 +164,7 @@ Artificial Intelligence
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능 서비스 실현의 현실 | YES24 채널예스](https://ch.yes24.com/Article/View/50666)
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능 서비스를 실현하는 기술 | YES24 채널예스](https://ch.yes24.com/Article/View/50910)
 * [바이브 코딩뿐만 아니라 바이브 운영.. AIOps 데모 - YouTube](https://www.youtube.com/watch?v=swXW7LMvwAI)
+* [바이브 코딩 다음은 AIOps](https://bcho.tistory.com/1476)
 * [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
 * [인터뷰 김광섭 카카오브레인 CTO AI로 '불쾌한 골짜기' 건넌다 | 아주경제](https://www.ajunews.com/view/20220214145910701)
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
@@ -413,6 +414,7 @@ Artificial Intelligence
   * [AI랑 일하면서 생긴 나누고 싶은 생각들](https://brunch.co.kr/@boorownie/16)
   * [**(내가 아는) 바이브 코딩에 대한 모든 것 - haebom**](https://haebom.dev/archive?post=xjqy1g2vdrgyp26vd54z)
   * [재미로 하는 Vibe Coding - Web에서 코딩하기, 에러 확인 및 수정하기 (구독자님 질문) - YouTube](https://www.youtube.com/live/emERx9tiS0E)
+  * [아! 바이브코딩이 이런 거였구나!! (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=tTeCnBi6GPU)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
