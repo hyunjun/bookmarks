@@ -573,6 +573,10 @@ AWS
 * [Harness the power of MCP servers with Amazon Bedrock Agents | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
 * [Alexa+ gets us a step closer to ambient interfaces | All Things Distributed](https://www.allthingsdistributed.com/2025/04/alexa-plus-gets-us-a-step-closer-to-ambient-interfaces.html)
 * [토스증권의 Nasdaq Smart Options 실시간 제공 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/toss-securities-nasdaq-options-realtime-pipeline/)
+* [클라우드 관리 80% 이상 자동화 HelpNow AutoMSP by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-01) - YouTube](https://www.youtube.com/watch?v=dLoql_X3TmI)
+* [10년 MSP 경험을 응축한 버티컬 AI 솔루션 AutoMSP 주요 기능 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-02) - YouTube](https://www.youtube.com/watch?v=RVuyyrLpgz8)
+* [베스핀글로벌 AutoMSP 개발 배경과 차별화 포인트 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-03) - YouTube](https://www.youtube.com/watch?v=mo3J4bSjnDg)
+* [AutoMSP DEMO, 400가지 이상 클라우드 업무 자동화 데모 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-04) - YouTube](https://www.youtube.com/watch?v=6cCzBdXr8E0)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
