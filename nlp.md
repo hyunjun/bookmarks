@@ -3534,6 +3534,8 @@ NLP
 * [Effectively Building with LLMs in the Browser with Jacob - YouTube](https://www.youtube.com/watch?v=-1sdWLr3TbI) WebML
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [Introducing GPT-4.5 | OpenAI](https://openai.com/index/introducing-gpt-4-5/)
+  * [GPT-4.5 Pre-Training과정에서 얻은 데이터 압축과 지능의 관계에 대해 – Data Rabbit](https://flonelin.wordpress.com/2025/05/18/gpt-4-5-pre-training%ea%b3%bc%ec%a0%95%ec%97%90%ec%84%9c-%ec%96%bb%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%95%95%ec%b6%95%ea%b3%bc-%ec%a7%80%eb%8a%a5%ec%9d%98-%ea%b4%80%ea%b3%84%ec%97%90-%eb%8c%80/)
 * [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
 * [alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
   * [chat - cloud](https://sysnet4admin.gitbook.io/cloud/others/tools/alpaca/chat)
