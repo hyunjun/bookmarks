@@ -310,6 +310,8 @@ Business
     * 매일의 업무 방식, 예를 들어 회의 방식, 피드백 주는 방법, 업무 우선순위를 정하는 기준 등 구체적이고 실천 가능한 부분을 바꾸는 것이 현실적
     * 그리고 그렇게 자연스럽게 바뀌어가는 문화를 관찰
 * [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
+* [프로세스를 촘촘하게 만드는 사람](https://jojoldu.tistory.com/829)
+  * [이동욱 - 최근에 쿠팡의 조직 문화에 대해 이야기를 나눌 기회가 있었다. "쿠팡의 인재론은 한 축은 실적, 한 축은... | Facebook](https://www.facebook.com/jojoldu/posts/pfbid035wurythW5upDzrZYyByewcj6mMCFbKzzmgS7qdtuXthimpd4BuKP5RcHcSNTAEmfl)
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
