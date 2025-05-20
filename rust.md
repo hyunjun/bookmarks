@@ -212,6 +212,9 @@
 * [한국 러스트 사용자 그룹](https://rust-kr.org/)
 * [Rust Korea: 국내 러스트 사용자 커뮤니티](https://rust-lang.kr/)
   * [Rust 커뮤니티를 Django 와 AI 로 만들었다고? | GeekNews](https://news.hada.io/topic?id=18617)
+* [250505_Rust_Profiling러스트 프로파일링(Stack스택 메모리 심화분석) profiling - YouTube](https://www.youtube.com/watch?v=UURgjYutpF4)
+* [250518_Rust_Profiling러스트 프로파일링(Heap힙 메모리 심화분석) profiling #dhat - YouTube](https://www.youtube.com/watch?v=p8KrioHMmXY)
+
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
