@@ -202,6 +202,10 @@ Linux
 * [Tiny Core Linux, Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable](http://tinycorelinux.net/)
   * [Tiny Core Linux is Basically Magic - YouTube](https://www.youtube.com/watch?v=sxeRCpg9mfc)
 
+## 배포판 AnduinOS
+* [Open Source & Linux - AnduinOS](https://www.anduinos.com/)
+* [Drop Windows and Install AnduinOS (Made By Microsoft Employee) - YouTube](https://www.youtube.com/watch?v=oSks9dNWNaE)
+
 ## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기 - 용균](https://edykim.com/ko/post/installing-the-dell-latitude-e7240-archlinux/)
 * [Arch Linux에서 커널 소스코드 다운로드 하는 법](http://kkamagui.tistory.com/898)
