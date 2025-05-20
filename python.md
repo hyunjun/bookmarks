@@ -96,6 +96,7 @@ Python
     * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
   * [올바르게 GIL 이해하기 - 바이트코드와 쓰레드 안정성](https://blog.naver.com/pjt3591oo/222926625510)
   * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
+  * [Visualizing Python GIL Bottleneck](https://devroach.hashnode.dev/python-gil)
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
     * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
