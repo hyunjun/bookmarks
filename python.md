@@ -109,6 +109,8 @@ Python
         * 사용자들이 테스트할 수 있도록 python3 외에 no-GIL도 설치해서 테스트해 봐야 하는데 python-nogil3, python-nogil3.13 등의 이름도 제안
         * 반대로 GIL이 뭔지 일반적인 개발자들이 알 필요 없으므로 nogil이라는 단어를 사용하지 않아야 한다는 의견도 존재
       * 이후 새로운 ABI인 abi4를 만들자는 아이디어를 채택해서 프로토타입을 개발 중이며 PEP가 필요하다는 데까지 합의가 된 상황
+    * [Eyes For you — 지금이 Free Threading Python에 기여하기 좋은 시점입니다](https://iz4u.net/free-threading-pyconus2025-ko.html)
+      * [지금이 Free Threading Python에 기여하기 좋은 시점입니다 | GeekNews](https://news.hada.io/topic?id=21017)
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
