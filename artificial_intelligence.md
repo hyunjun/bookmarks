@@ -959,6 +959,9 @@ Artificial Intelligence
   * In summary, a strong CI/CD platform is crucial for turning AI into a strategic advantage rather than a bottleneck in the software development lifecycle
 * [AI 코딩 에이전트는 정말 개발자의 직업을 빼앗을까?](https://maily.so/seanlee/posts/8mo5pm54z9p)
 * [인공지능에 대한 두려움을 ‘함께 할 결심’으로 채우기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3111/)
+* [AI 개발 시대에서, 개발자로 살아남기 위해서..](https://bcho.tistory.com/1477)
+* [Expanding on what we missed with sycophancy | OpenAI](https://openai.com/index/expanding-on-sycophancy/)
+  * [아첨꾼이 된 GPT '롤백'한 오픈AI: 우리가 아첨에 대해 놓친 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3114/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
