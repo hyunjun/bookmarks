@@ -3186,6 +3186,8 @@ NLP
     * [LLM 노트북에 설치하기, 인터넷 없이 사용, 간단함, 빠름 - YouTube](https://www.youtube.com/watch?v=AQmYY8N8iy8)
     * [ollama](https://okdevtv.com/mib/ollama)
     * [오픈소스 로컬 LLM 활용 OpenWebUI와 MCP 통합 가이드 (실습파일 제공) - YouTube](https://www.youtube.com/watch?v=C_VOGWjTyTs)
+    * [Function calling with Gemma3 using Ollama | by Arjun Prabhulal | Google Cloud - Community | Mar, 2025 | Medium | Google Cloud - Community](https://medium.com/google-cloud/function-calling-with-gemma3-using-ollama-120194577fa6)
+      * [Ollama와 Gemma3를 활용한 함수 호출](https://devway.tistory.com/80)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [KOllama: A UI client for Ollama written in Compose Multiplatform focused on running Deepseek r1 locally](https://github.com/Kashif-E/KOllama)
