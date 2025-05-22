@@ -159,6 +159,7 @@ Elixir
 * [How to Use Flume in your Elixir Application | AppSignal Blog](https://blog.appsignal.com/2024/04/02/how-to-use-flume-in-your-elixir-app.html)
 * [Agent with Learn Elixir's Alvaro Callero - YouTube](https://www.youtube.com/watch?v=lcf4tfrkVTE)
 * [Automating Advent of Code Setup with Igniter - YouTube](https://www.youtube.com/watch?v=gpaV4bgEG-g)
+* [How to Simulate Type Safety with Elixir - YouTube](https://www.youtube.com/watch?v=mGuhcxBpKI0&t=430s)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
