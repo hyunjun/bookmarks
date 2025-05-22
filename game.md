@@ -66,6 +66,8 @@ Game
 * [What it Takes to Make a Game by Yourself](https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/)
 * [The Best Command-Line-Only Video Games | Linux Journal](https://www.linuxjournal.com/content/best-command-line-only-video-games)
 * [snake6502.asm](https://gist.github.com/wkjagt/9043907)
+* [Making Video Games in 2025 (without an engine) - Noel Berry](https://noelberry.ca/posts/making_games_in_2025/)
+  * [게임 엔진 없이 비디오 게임 개발하기 (2025) | GeekNews](https://news.hada.io/topic?id=21021)
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
