@@ -62,6 +62,7 @@ Product
 * [Must-Have Gadgets for a Perfect Workspace - YouTube](https://www.youtube.com/watch?v=HJiZWkoypW4)
 * ["최소 3천만 원 쓰고 알았어요.." 가장 만족한 데스크 셋업 인생템 BEST 7 - YouTube](https://www.youtube.com/watch?v=HE72aDe_BjU)
 * [공유기계의 애플? Unifi 써보고 감탄했습니다 - YouTube](https://www.youtube.com/watch?v=nLD50V4P2IM)
+* [스마트폰 중독? 부모 필수템 등장 MSI Roamii BE Lite Mesh 시스템 이걸로 해결! - YouTube](https://www.youtube.com/watch?v=43DOaa8SqR4)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
