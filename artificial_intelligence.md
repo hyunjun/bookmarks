@@ -986,6 +986,10 @@ Artificial Intelligence
 * [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
 * [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
 
+# Paper
+* [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
+  * [Tae Hyung Kim - 기다리던 훌륭한 논문이 드디어 나왔네요. 여러 대학 연구진과 IBM, 마이크로소프트... | Facebook](https://www.facebook.com/socialego/posts/pfbid02s8JSLPzGVfxYK5T9QBPEwJe1CQ8GUoQwKT6qoZkyd5EXEogu7Asj7wUR2VgXjkZxl)
+
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
 
