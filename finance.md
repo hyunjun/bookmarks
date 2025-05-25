@@ -239,6 +239,8 @@ Finance
   * [주가 상승 + 고배당 + 배당성장 3박자를 갖춘 우리나라 종목들로 구성된 희한한 ETF - YouTube](https://www.youtube.com/watch?v=qEzWKCnPOnQ) PLUS고배당주, 0.2846%
   * [미국 AI반도체 대장만 모은 ETF가 나왔습니다! (ft.SOL 미국AI반도체칩메이커) - YouTube](https://www.youtube.com/watch?v=8kNThGpximc)
   * [JP모간의 올인원 ETF, 하나의 ETF만 투자해도 됩니다 (ft. JFLI) - YouTube](https://www.youtube.com/watch?v=04MyDbeJLIc)
+  * [안정성, 진짜 고심해봄. - YouTube](https://www.youtube.com/watch?v=6I2wllRtPEs)
+  * [5분만에 예금 특판 탈출할 수 있음. - YouTube](https://www.youtube.com/watch?v=BkbC31u2Mls) KODEX 단기채권 PLUS
   * [ETF 랭킹 - 시가총액](https://www.etfcheck.co.kr/mobile/rank/marketCap)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
