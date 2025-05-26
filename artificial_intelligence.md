@@ -415,6 +415,7 @@ Artificial Intelligence
   * [**(내가 아는) 바이브 코딩에 대한 모든 것 - haebom**](https://haebom.dev/archive?post=xjqy1g2vdrgyp26vd54z)
   * [재미로 하는 Vibe Coding - Web에서 코딩하기, 에러 확인 및 수정하기 (구독자님 질문) - YouTube](https://www.youtube.com/live/emERx9tiS0E)
   * [아! 바이브코딩이 이런 거였구나!! (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=tTeCnBi6GPU)
+  * [바이브코딩 잘 하는 법 보여드립니다 (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=Ak2SiHYekdA)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
