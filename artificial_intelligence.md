@@ -608,6 +608,8 @@ Artificial Intelligence
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
     * [Agentica Series' Articles - DEV Community](https://dev.to/samchon/series/31016)
     * [AI를 만들 수 있게 된 개발자들. Agent부터 MCP, A2A 그리고 Agentica까지 | by luke | Apr, 2025 | Ne(o)rdinary Tech](https://tech.neordinary.co.kr/ai%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-ed277603584f)
+  * [autobe: AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code](https://github.com/wrtnlabs/autobe)
+    * [AutoBE Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy - DEV Community](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
@@ -1219,6 +1221,7 @@ Artificial Intelligence
   * [커서AI로 네이버 부동산 매물 자동 수집하기 | cursor ai - YouTube](https://www.youtube.com/watch?v=izHnKG8_cpA)
   * [Cursor AI 에디터로 개발 초기세팅 날먹하는 미친 방법 | 디자인 패턴, 클린 아키텍쳐, 디자인 시스템, 상태관리 - YouTube](https://www.youtube.com/watch?v=6-j9-xdATuQ)
   * [커서로 파이어베이스 DB만들기(데이터베이스가 이렇게 쉽다니...) - YouTube](https://www.youtube.com/watch?v=QC4p4h4t6bw)
+  * [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
