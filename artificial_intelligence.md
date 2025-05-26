@@ -1149,6 +1149,7 @@ Artificial Intelligence
   * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
   * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
+  * ["인공지능, 코딩 및 에이전트의 새로운 시대 열었다!"...앤트로픽, 차세대 대형언어모델 '클로드 4' 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35034)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
