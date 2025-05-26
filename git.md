@@ -676,6 +676,7 @@ Git
     $ git commit --amend -m "Some message..." # fix up the most recent commit
     ```
   * `git add [the_left_out_file]; git commit --amend --no-edit` [How to add a file to the last commit in git?](https://stackoverflow.com/questions/40503417/how-to-add-a-file-to-the-last-commit-in-git)
+  * [Git 마지막 커밋 메시지 수정 - Git에서 amend 옵션을 사용하여 마지막 커밋 메시지를 수정하는 방법에 대해서 알아봅시다.](https://deku.posstree.com/ko/git/amend/)
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
   * [GIT BISECT를 이용하여 버그발생시점 찾아내기](https://iamsang.com/blog/2014/03/02/git-bisect/)
