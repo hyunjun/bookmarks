@@ -503,6 +503,7 @@ Network
 * [개발일기 #107 : 진짜 필요한 일인가?](https://velog.io/@joosing/dev-diary-107) buffer 이야기
 * [서버의 응답을 지연시키는 2가지 외부 요인](https://velog.io/@joosing/2-external-factors-that-can-delay-a-server-response)
 * [주니어 개발자를 위한 TCP/IP 주요 프로토콜 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2005/)
+* [네트워크 소켓(윈속)과 연결상태, 동시성,.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223101051947)
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 
 # UDP
