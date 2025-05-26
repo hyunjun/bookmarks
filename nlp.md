@@ -2431,6 +2431,8 @@ NLP
 * [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 1) 무작위성 낮추기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EB%AC%B4%EC%9E%91%EC%9C%84%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-uuuic/)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
+* [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
+  * [GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4260190/3189469)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
