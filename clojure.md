@@ -463,6 +463,7 @@ Clojure
 * [DB 현재는 모든 과거의 필연적인 산물이다 - Bitemporal 을 곁들인 타임머신](https://see-ro-e.tistory.com/368)
 * ["Clojure for Data Science in the Real World" by Kira McLean - YouTube](https://www.youtube.com/watch?v=MguatDl5u2Q)
 * [FrankenScore: a Body Resurrected - OOLOI.ORG](https://www.ooloi.org/home/claude-37-meta-reflects-on-clojure-vs-python)
+* [Bruce Hauman Has Done It Again – Metosin](https://www.metosin.fi/blog/2025-05-27-bruce-hauman-has-done-it-again) REPL에 LLM
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
