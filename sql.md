@@ -535,6 +535,7 @@ SQL
   * [새로운 jq로서의 DuckDB | GeekNews](https://news.hada.io/topic?id=13948)
 * [DuckDB 사용법(DuckDB Python + Jupyter Lab) · 어쩐지 오늘은](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
   * [DuckDB 사용법(DuckDB Python + Jupyter Lab) | GeekNews](https://news.hada.io/topic?id=17450)
+* [DuckLake: SQL as a Lakehouse Format – DuckDB](https://duckdb.org/2025/05/27/ducklake.html)
 
 # Library
 * [alasql.org](http://alasql.org/)
