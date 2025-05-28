@@ -2236,6 +2236,8 @@ App
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [Free Image Highlight](https://www.simplehighlighterpngjpg.com/)
   * [간단한 이미지 하이라이터 | GeekNews](https://news.hada.io/topic?id=15221)
+* [Frigate NVR](https://frigate.video/)
+  * [(EP.11) 남는 스마트폰으로 미니PC에 홈CCTV 만들기 (frigate 서버 구축방법) - YouTube](https://www.youtube.com/watch?v=pJ5dNEqv_vU)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
