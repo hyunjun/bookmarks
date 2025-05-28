@@ -117,6 +117,7 @@ Sports
   * [완벽하게 투수가 ‘복제’ 된다 | 빅리그 기술 전쟁 - YouTube](https://www.youtube.com/watch?v=gIFsePR5rPQ) Trajekt Arc
 * [컴퓨터 비전의 시대에서 야구를 외치다 - 야구공작소](https://yagongso.com/?p=23186)
 * [류선규 : ‘재야의 야구 덕후 → SSG 초대 단장’ KBO의 새 역사를 쓰다!](https://prologue.rememberapp.co.kr/25031201)
+* [이랜드 뮤지엄](https://elandmuseum.com/)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
