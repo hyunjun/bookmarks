@@ -1223,6 +1223,7 @@ Artificial Intelligence
   * [Cursor AI 에디터로 개발 초기세팅 날먹하는 미친 방법 | 디자인 패턴, 클린 아키텍쳐, 디자인 시스템, 상태관리 - YouTube](https://www.youtube.com/watch?v=6-j9-xdATuQ)
   * [커서로 파이어베이스 DB만들기(데이터베이스가 이렇게 쉽다니...) - YouTube](https://www.youtube.com/watch?v=QC4p4h4t6bw)
   * [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
+  * [바이브 코더를 위한 딸깍 UI 10배 개선 방법 | Cursor X v0 신규 기능 - YouTube](https://www.youtube.com/watch?v=3Ih6O1VS-ZE)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
