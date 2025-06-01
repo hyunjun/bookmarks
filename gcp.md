@@ -67,6 +67,8 @@ Google Cloud Platform GCP
 * [구글 Cloud SQL 에 이모티콘 들어가게 설정하기](https://jungwoon.github.io/google%20cloud,%20mysql/2019/01/10/Google-Cloud-SQL-Enable-Emojis/)
 * [MySQL, Google Cloud, and a REST API that Generates Itself](https://hackingandslacking.com/mysql-google-cloud-and-a-rest-api-that-generates-itself-9872fc9dc84f)
 * [How to Automate Google Cloud SQL Backups - Better Programming - Medium](https://medium.com/better-programming/how-to-automate-google-cloud-sql-backups-2de6d3cc7d01)
+* [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
+* [GCP Cloud SQL 백업을 타프로젝트 및 다른 인스턴스로 복원하기 (gcloud+shell script)](https://seonggi.kr/264)
 * [GCP를 이용해서 머신러닝 프로덕트 만들기](https://docs.google.com/presentation/d/11MxXhGxJKgdbGnuwwm0QlsVc6-kYNjCYnbsrZeGFnFw)
 * [**머신러닝 파이프라인에서 데이터 변환. 머신러닝 파이프라인에서, 데이터는 모델 학습 및 서빙의 입력에 알맞게… | by Terry Cho | google-cloud-apac | Aug, 2020 | Medium**](https://medium.com/google-cloud-apac/gcp-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%ED%99%98-da834f3dff48)
 * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
@@ -172,7 +174,6 @@ Google Cloud Platform GCP
 * [tldraw computer](https://computer.tldraw.com/)
   * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
-* [Aurora/RDS 전문가의 GCP Cloud SQL 이전기 | by Ian Lee | May, 2024 | Team QANDA](https://blog.mathpresso.com/aurora-mysql-rds-for-mysql-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-gcp-cloud-sql-for-mysql%EC%9D%B4%EC%A0%84%EA%B8%B0-%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-cloud-db-%EC%9D%B4%EC%A0%84%EA%B8%B0-27db5b17450d) migration
 * [GCP 규칙 기반 평가 서비스 제공을 위한 Workload Manager Evaluation 알아보기 — #1 Workload Manager Evaluation | by 이정운 (Jungwoon Lee) | google-cloud-apac | Aug, 2024 | Medium](https://medium.com/google-cloud-apac/gcp-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%8F%89%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-workload-manager-evaluation-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-workload-manager-evaluation-7471c19b834e)
 * [왜 맨날 AWS만 써요? GCP는 안 하나요? - YouTube](https://www.youtube.com/watch?v=eQ0bANqOxyU)
 * [Three different ways to run Apache Airflow on Google Cloud | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/different-ways-to-run-apache-airflow-on-google-cloud?hl=en)
