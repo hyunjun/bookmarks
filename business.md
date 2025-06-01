@@ -3094,6 +3094,7 @@ Business
 * [AI 글에서 업무 자동화를 떠올리기](https://brunch.co.kr/@graypool/108)
 * [닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"](https://www.longblack.co/note/392?ticket=NTc496aef98e291d4d434144a964512b21bb9e94f7)
 * [B2B 마케팅 업무를 더 나아지게 만드는 지표들](https://brunch.co.kr/@yennyjeong/38)
+* [**AARRR을 뒤집어 만든 B2B SaaS 프레임워크, RRCAA**](https://changyeong.ghost.io/rrcaa-framework-b2b-saas/)
 * [좋아 보이는 광고 소재의 비밀](https://brunch.co.kr/@cliche-cliche/191)
 * [0원으로 미국 유명 뉴스에 소개되기 (feat. CNET). Scalable 하지 않은 글로벌 마케팅을 하던 딜라이트룸 초기… | by Jaemyung Shin | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EA%B5%AD-%EC%9C%A0%EB%AA%85-%EB%89%B4%EC%8A%A4%EC%97%90-%EC%86%8C%EA%B0%9C%EB%90%98%EA%B8%B0-feat-cnet-8511386cb335)
 * [26살에 연매출 9000억을 만든 세계 1위 유튜버가 팀을 운영하는 방법](https://maily.so/founderstory/posts/ccea6d6c)
