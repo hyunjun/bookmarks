@@ -965,6 +965,8 @@ Artificial Intelligence
 * [AI 개발 시대에서, 개발자로 살아남기 위해서..](https://bcho.tistory.com/1477)
 * [Expanding on what we missed with sycophancy | OpenAI](https://openai.com/index/expanding-on-sycophancy/)
   * [아첨꾼이 된 GPT '롤백'한 오픈AI: 우리가 아첨에 대해 놓친 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3114/)
+* [OECD Teaching Compass | OECD](https://www.oecd.org/en/publications/oecd-teaching-compass_8297a24a-en.html)
+  * [Archive/OECD Teaching Compass at main · minsuklee/Archive](https://github.com/minsuklee/Archive/tree/main/OECD%20Teaching%20Compass)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1224,6 +1226,7 @@ Artificial Intelligence
   * [커서로 파이어베이스 DB만들기(데이터베이스가 이렇게 쉽다니...) - YouTube](https://www.youtube.com/watch?v=QC4p4h4t6bw)
   * [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
   * [바이브 코더를 위한 딸깍 UI 10배 개선 방법 | Cursor X v0 신규 기능 - YouTube](https://www.youtube.com/watch?v=3Ih6O1VS-ZE)
+  * [**Cursor를 더 똑똑하게 사용하고 싶은 분들을 위해 엄선한 참고자료 모음**](https://www.stdy.blog/curated-resources-for-better-cursor-usage/)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
   * figma
