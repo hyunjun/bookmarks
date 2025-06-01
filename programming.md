@@ -9076,6 +9076,7 @@ Programming
     * 5. 작성 비용이 저렴함(cheap to write)
     * 6. 읽기 비용이 저렴함(cheap to read)
     * 7. 변경 비용이 저렴함(cheap to change)
+* [테스트 코드 도입을 위한 여정 🫠](https://velog.io/@brince/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EB%8F%84%EC%9E%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95)
 * [소프트웨어QA 포럼](https://qaforum.kr/)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
