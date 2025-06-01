@@ -570,6 +570,8 @@ Vision
     * [How to train YOLOv8 objection detection on a custom dataset](https://www.trainyolo.com/blog/how-to-train-yolov8-objection-detection-on-a-custom-dataset)
   * v10
     * [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
+  * v11
+    * [오브젝트365 데이터 세트 > 인공 지능 - Hell Maker](https://www.hellmaker.kr/post/1068)
   * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://github.com/AILab-CVC/YOLO-World)
     * [YOLO-World: Real-Time, Zero-Shot Object Detection Explained - YouTube](https://www.youtube.com/watch?v=X7gKBGVz4vs)
   * yolox
