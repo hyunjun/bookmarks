@@ -390,6 +390,7 @@ Artificial Intelligence
   * [바이브 코딩에 대한 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibe-coding-truth/)
   * [바이브 코딩 시대 개발자가 지녀야 하는 특성 :: ROBOCO](https://roboco.io/posts/vibecoding-best-programmers/)
   * [바이브 코딩의 기술 :: ROBOCO](https://roboco.io/posts/the-art-of-vibe-coding/)
+  * [바이브 코딩의 약점과 장점 :: ROBOCO](https://roboco.io/posts/vibe-coding-strengths-and-weaknesses/)
   * [바이브 코딩, gcc와 AI 파운데이션 모델을.. : 네이버블로그](https://blog.naver.com/ulsancoding/223810517530)
   * [바이브 코딩 2탄, php언어와 AI 파운데이.. : 네이버블로그](https://blog.naver.com/ulsancoding/223811417531)
   * [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
