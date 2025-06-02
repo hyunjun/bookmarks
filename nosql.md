@@ -646,6 +646,7 @@ NoSQL
   * [Discord팀이 조 단위 메세지를 DB에 저장하는 방... | 커리어리](https://careerly.co.kr/comments/85802)
   * [디스코드가 10조 메시지를 저장하는 방법?! - YouTube](https://www.youtube.com/watch?v=oIaQuX7Nk7c)
 * [ScyllaDB, Source Avaliable License로 변경 | GeekNews](https://news.hada.io/topic?id=18366)
+* [Building Resilient, High Performance ScyllaDB Clusters with Super Disk | Hyperconnect Tech Blog](https://hyperconnect.github.io/2025/05/15/Building-Resilient-High-Performance-ScyllaDB-Clusters-with-Super-Disk.html)
 
 # Supabase
 * [Supabase - The open source Firebase alternative](https://supabase.io/)
