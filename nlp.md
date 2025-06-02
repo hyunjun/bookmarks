@@ -319,6 +319,7 @@ NLP
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Processing)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
 * [AI 모델 ‘지식 증류’의 모든 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3107/) distillation
+* [LLM 지식 90%는 쓸모 없는 지식 LLM에서 핵심 지식만 뽑아내는 기술-Distillation - YouTube](https://www.youtube.com/shorts/jj4QnalJ5Oo)
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
 * [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
@@ -2433,6 +2434,8 @@ NLP
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
 * [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
   * [GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4260190/3189469)
+* [LLM 앱 성능, 여기서 갈립니다. 개발자라면 반드시 알아야 할 고급 아키텍처 4가지 (Agent,RAG,워크플로우,튜닝)- LLM 시스템 아키텍처 2 - YouTube](https://www.youtube.com/watch?v=LxJthxHLwdI)
+  * [LLM 앱 성능, 여기서 갈립니다. 개발자라면 반드시 알아야 할 고급 아키텍처 4가지 (Agent,RAG,워크플로우,튜닝)- LLM 시스템 아키텍처 2 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4371245/3354426)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
