@@ -1821,6 +1821,8 @@ Programming
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
 * [QCon London: Meta Used Monolithic Architecture to Ship Threads in Only Five Months - InfoQ](https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/)
   * [메타는 모놀리식 아키텍처로 5개월만에 스레드를 출시하고, 1억명의 유저를 처리했다](https://jaymepark.tistory.com/13)
+* [왜 스택오버 플로우는 모놀리식을 선택했을까? feat. Scaling Monolith](https://velog.io/@wsh096/%EC%99%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%8A%94-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80)
+* [Stack Overflow's Shocking Architecture #javascript #python #web #coding #programming - YouTube](https://www.youtube.com/shorts/TWaLeC-kmyU)
 * [Moving from a Monolith to a Distributed Monolith • Nish Mahanty • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=57mD5G81Y4Y)
   * [VidiGo Moving from a Monolith to a Distributed Monolith •](https://vidigo.ai/share/summary/d6e5aa0210a6)
   * [모노리스에서 분산형 모노리스로의 전환 - Nish Mahanty - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522809)
