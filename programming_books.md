@@ -998,6 +998,16 @@ Programming Books
   * [AI 반도체 혁명 - Jun - Medium](https://nymets.medium.com/ai-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%98%81%EB%AA%85-4b220eb58d48)
   * [AI 반도체 혁명 - Jun’s Substack](https://recur.substack.com/p/ai-637)
   * [AI 반도체 혁명](https://jh4hj.tistory.com/entry/AI-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%98%81%EB%AA%85)
+* [요즘 우아한 AI 개발](https://www.notion.so/1003/AI-2073f0c2cf65805bb64ad75152d9821d)
+  * ★★★★☆ 2025.06.02
+    * 우아한형제들이 실제 현장에서 AI를 어떻게 활용하고, 서비스에 적용해왔는지 생생하게 담아낸 책이다. ‘요즘 우아한 개발’에 이어 두 번째로, AI를 중심으로 데이터·로봇 등 최신 기술을 활용한 사내 개발 사례를 엮었다.
+    * 실제 프로젝트에서 겪은 시행착오와 고민, 그리고 그 해결 과정을 공개 가능한 선에서 솔직하게 기록했다. AI 추천 시스템, 데이터 분석 자동화, 로봇 머신러닝 모델 경량화, MLOps 구축 등 다양한 분야에서 직접 경험한 노하우와 인사이트가 가득하다.
+    * 비즈니스적으로는 최근 소상공인 수수료 논란 등 비판도 있지만, 개발 관점에서 우아한형제들은 국내에서 보기 드문 실전 적용 사례를 꾸준히 공개하며, 업계 기술 발전과 공유 문화 확산에 크게 기여한다는 생각이다. 이 책은 이런 가치 있는 테크 브랜딩의 또 하나의 모범 사례라고 본다.
+  * [Jun - 요즘 우아한 AI 개발](https://hyunjun.github.io/skunk-html/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-ai-%EA%B0%9C%EB%B0%9C.html)
+  * [요즘 우아한 AI 개발. Tags: artificial-intelligence, devrel… | by Jun | Jun, 2025 | Medium](https://nymets.medium.com/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-ai-%EA%B0%9C%EB%B0%9C-3b2f3f12b833)
+  * [요즘 우아한 AI 개발 - Jun’s Substack](https://recur.substack.com/p/ai-76d)
+  * [요즘 우아한 AI 개발 -](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C)
+  * [요즘 우아한 AI 개발 : 네이버 블로그](https://blog.naver.com/octoberblue/223886996203)
 * (NOT YET) [인공지능 전문가가 알려 주는 챗GPT로 대화하는 기술](https://www.hanbit.co.kr/store/books/look.php?p_code=B2266571115)
   * [2025 수능 국어 지문 출제 디퓨전 모델(diffusion model) 쉽게 이해하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6968709109&cate_cd=)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
