@@ -4987,6 +4987,7 @@ Programming
 * [DevSecOps Pipeline](https://www.linkedin.com/posts/satya619_%F0%9D%91%AB%F0%9D%92%86%F0%9D%92%97%F0%9D%91%BA%F0%9D%92%86%F0%9D%92%84%F0%9D%91%B6%F0%9D%92%91%F0%9D%92%94%F0%9D%91%B7%F0%9D%92%8A%F0%9D%92%91%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-activity-7298651296163667969-8L2p/)
   * ![](https://media.licdn.com/dms/image/v2/D5622AQH02aZTzv8EaQ/feedshare-shrink_800/B56ZUoEqM.GsAg-/0/1740134068092?e=1743638400&v=beta&t=CzOhvXiPbXeihWCxs3kaOMYPMxYTtoiebWxlG8IqIzs)
 * [A CI/CD pipeline is a tool that automates the process of building, testing, and deploying software](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7241472242054828033-nGVp/)
+* [How Big Tech Ships Code to Production - YouTube](https://www.youtube.com/shorts/551lh10g_go)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
