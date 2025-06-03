@@ -968,6 +968,7 @@ Artificial Intelligence
   * [아첨꾼이 된 GPT '롤백'한 오픈AI: 우리가 아첨에 대해 놓친 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3114/)
 * [OECD Teaching Compass | OECD](https://www.oecd.org/en/publications/oecd-teaching-compass_8297a24a-en.html)
   * [Archive/OECD Teaching Compass at main · minsuklee/Archive](https://github.com/minsuklee/Archive/tree/main/OECD%20Teaching%20Compass)
+* [Trends - Artificial Intelligence | BOND](https://www.bondcap.com/reports/tai) Mary Meeker
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1075,6 +1076,8 @@ Artificial Intelligence
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
+* [Google AI 에지  |  Google AI Edge  |  Google AI for Developers](https://ai.google.dev/edge?hl=ko)
+  * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
 * [Guse](https://www.guse.io/)
   * [Guse라는 서비스... research → write → edit → share 라는 컨셉... 채팅창에서 뭔가 요구를 하면 Perplexity 와 같은 기능으로 리서치를 하고 그 결과가 구글닥스처럼... 수정하거나 채팅으로 내용을 추가... 마지막으로 결과를 여러 포맷(PPT 포함)으로 다운 받거나 공유](https://www.linkedin.com/posts/duckjungkim_%EC%BB%A8%EC%84%A4%ED%8C%85%EC%9D%84-%ED%95%98%EA%B1%B0%EB%82%98-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%80-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-guse%EB%9D%BC%EB%8A%94-activity-7290720119142395904-oNQO/)
 * IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
