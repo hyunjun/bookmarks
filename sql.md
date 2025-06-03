@@ -562,6 +562,8 @@ SQL
   * [Dblab - 인터랙티브한 터미널용 DB 클라이언트 | GeekNews](https://news.hada.io/topic?id=15284)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
+* [DbSchema – Database Design & Management Tool for Teams](https://dbschema.com/)
+  * [Visual Database Design and Management Tool - DbSchema - YouTube](https://www.youtube.com/watch?v=IjWRQ7qfLhg)
 * [Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
