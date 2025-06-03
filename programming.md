@@ -576,43 +576,6 @@ Programming
 * [카카오페이 개발 문화, 다시 고민하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-dr-03/)
 * [Guide to Better Dev Culture. 믿음직한 라이프스타일 가이드 29CM의 개발 조직은 어떻게 협업하고… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/guide-to-better-dev-culture-590e905e2f5b)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
-* 쉽게 알아보는 서버 인증
-  * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
-  * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
-  * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
-* [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
-* [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
-* [Google IDToken 풀기 - 이상선 - Medium](https://medium.com/@sunyi233/google-idtoken-%ED%92%80%EA%B8%B0-a3a0eaaeb5a8) OAuth 2.0
-* [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
-* [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
-* [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
-* [OAuth에 대해 알아보자 - 이은비 | F-Lab 미니 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=n2smhUBGaK8)
-* [From Idea to Standard How the JWT Profile for OAuth 2.0 Access Tokens Became RFC9068](https://auth0.com/blog/how-the-jwt-profile-for-oauth-20-access-tokens-became-rfc9068/)
-  * OAuth 2 Core는 Access Token의 모양을 정의하지 않아서 다양한 변형이 많이 발생
-    * 이 문제를 해결하려고 OAuth 2.0 AT(Access Token)을 JWT로 인코딩하고 검증하는 새로운 표준인 RFC9068를 2021년 제작
-  * OAuth 2에서는 인가 서버와 리소스 서버가 분리
-    * 같은 조직 내에서 인가 서버에 접속할 수 있다면 AT를 쉽게 검증 가능
-    * 인가 서버와 상태를 공유할 수 없다면 AT를 검증할 다른 방법이 필요, 이때 JWT를 쓰면 편하게 사용 가능
-      * 하지만 JWT내의 데이터는 비슷했지만, 클레임의 형태가 달랐기에 이를 프로필로 통일시킬 수 있다고 생각, 조사한 뒤 IETF에 제안
-      * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
-* [Customizing scopes in the OAuth app authorization flow - Dropbox](https://dropbox.tech/developers/customizing-scopes-in-oauth-flow)
-* [**OAuth 2.0 개념과 동작원리**](https://hudi.blog/oauth-2.0/)
-* [Dear OAuth providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
-  * [OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 | GeekNews](https://news.hada.io/topic?id=18224)
-* [Cerbos: Open-Source Authorization Layer & Access Control System](https://www.cerbos.dev/)
-  * [Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.](https://github.com/cerbos/cerbos)
-  * [Cerbos - 언어무관, 확장가능한 사용자 권한 관리 솔루션 | GeekNews](https://news.hada.io/topic?id=18308)
-* [openauth: ▦ Universal, standards-based auth provider.](https://github.com/openauthjs/openauth)
-  * [OpenAUTH - 표준 기반의 웹앱/모바일 앱을 위한 인증 프로바이더 | GeekNews](https://news.hada.io/topic?id=18397)
-* [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
-* [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
-* [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
-  * ["auth" 대신 "permissions"와 "login"을 사용합시다 | GeekNews](https://news.hada.io/topic?id=15051)
-  * 보통 auth라고 할 때 인증(authentication)과 인가(authorization)라는 2가지 문제가 있어서 혼란
-  * authn과 authz로 나누어서 부르기도 하지만 해결책이 되지 않기 때문에 이를 로그인과 권한으로 부르는 것이 더 좋다고 이야기
-* [왜 Authorization "Bearer"인가요?](https://velog.io/@oneook/%EC%99%9C-Authorization-Bearer%EC%9D%B8%EA%B0%80%EC%9A%94)
-* [PKCE: What and Why? - Dropbox](https://dropbox.tech/developers/pkce--what-and-why-)
-* [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
@@ -5260,6 +5223,38 @@ Programming
   * [SAML에 대한 간단한 소개 | GeekNews](https://news.hada.io/topic?id=16064)
 * [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
+* 쉽게 알아보는 서버 인증
+  * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
+  * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
+  * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
+* [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
+* [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
+* [Google IDToken 풀기 - 이상선 - Medium](https://medium.com/@sunyi233/google-idtoken-%ED%92%80%EA%B8%B0-a3a0eaaeb5a8) OAuth 2.0
+* [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
+* [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
+* [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
+* [OAuth에 대해 알아보자 - 이은비 | F-Lab 미니 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=n2smhUBGaK8)
+* [From Idea to Standard How the JWT Profile for OAuth 2.0 Access Tokens Became RFC9068](https://auth0.com/blog/how-the-jwt-profile-for-oauth-20-access-tokens-became-rfc9068/)
+  * OAuth 2 Core는 Access Token의 모양을 정의하지 않아서 다양한 변형이 많이 발생
+    * 이 문제를 해결하려고 OAuth 2.0 AT(Access Token)을 JWT로 인코딩하고 검증하는 새로운 표준인 RFC9068를 2021년 제작
+  * OAuth 2에서는 인가 서버와 리소스 서버가 분리
+    * 같은 조직 내에서 인가 서버에 접속할 수 있다면 AT를 쉽게 검증 가능
+    * 인가 서버와 상태를 공유할 수 없다면 AT를 검증할 다른 방법이 필요, 이때 JWT를 쓰면 편하게 사용 가능
+      * 하지만 JWT내의 데이터는 비슷했지만, 클레임의 형태가 달랐기에 이를 프로필로 통일시킬 수 있다고 생각, 조사한 뒤 IETF에 제안
+      * 이후 IETF의 표준화 프로세스를 거쳐서 표준화
+* [Customizing scopes in the OAuth app authorization flow - Dropbox](https://dropbox.tech/developers/customizing-scopes-in-oauth-flow)
+* [**OAuth 2.0 개념과 동작원리**](https://hudi.blog/oauth-2.0/)
+* [Dear OAuth providers](https://pilcrowonpaper.com/blog/dear-oauth-providers/)
+  * [OAuth 제공자에게 - 잘못된 OAuth 토큰 설계 모음 | GeekNews](https://news.hada.io/topic?id=18224)
+* [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
+* [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+* [Instead of "auth", we should say "permissions" and "login" | nicole@web](https://ntietz.com/blog/lets-say-instead-of-auth)
+  * ["auth" 대신 "permissions"와 "login"을 사용합시다 | GeekNews](https://news.hada.io/topic?id=15051)
+  * 보통 auth라고 할 때 인증(authentication)과 인가(authorization)라는 2가지 문제가 있어서 혼란
+  * authn과 authz로 나누어서 부르기도 하지만 해결책이 되지 않기 때문에 이를 로그인과 권한으로 부르는 것이 더 좋다고 이야기
+* [왜 Authorization "Bearer"인가요?](https://velog.io/@oneook/%EC%99%9C-Authorization-Bearer%EC%9D%B8%EA%B0%80%EC%9A%94)
+* [PKCE: What and Why? - Dropbox](https://dropbox.tech/developers/pkce--what-and-why-)
+* [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
 * [How does Google Authenticator work? (Part 2)](https://prezu.ca/post/2021-08-12-totp-2/) python hmac
 * [How does Google Authenticator work? (Part 3)](https://prezu.ca/post/2021-08-16-totp-3/) base32
@@ -5434,6 +5429,9 @@ Programming
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
+* [Cerbos: Open-Source Authorization Layer & Access Control System](https://www.cerbos.dev/)
+  * [Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.](https://github.com/cerbos/cerbos)
+  * [Cerbos - 언어무관, 확장가능한 사용자 권한 관리 솔루션 | GeekNews](https://news.hada.io/topic?id=18308)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
 * [coraza: OWASP Coraza WAF is a golang modsecurity compatible web application firewall library](https://github.com/corazawaf/coraza)
@@ -5510,6 +5508,8 @@ Programming
   * [인터뷰 네이버의 보안관 - Security 윤상진, 김도경 님](https://d2.naver.com/news/9483612)
 * NTS [Network Time Security · Cloudflare Time Services docs](https://developers.cloudflare.com/time-services/nts/)
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
+* [openauth: ▦ Universal, standards-based auth provider.](https://github.com/openauthjs/openauth)
+  * [OpenAUTH - 표준 기반의 웹앱/모바일 앱을 위한 인증 프로바이더 | GeekNews](https://news.hada.io/topic?id=18397)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
@@ -5524,6 +5524,8 @@ Programming
   * ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
   * [Defending against SSRF attacks (with help from our bug bounty program) - Dropbox](https://dropbox.tech/security/bug-bounty-program-ssrf-attack)
 * [Suricata - Intrusion Detection and Prevention Security Tool](https://www.tecmint.com/suricata-intrusion-detection-prevention-linux/)
+* [tesseral: Open source auth infrastructure for B2B SaaS](https://github.com/tesseral-labs/tesseral)
+  * [Tesseral - 오픈소스 B2B SaaS 인증 인프라 플랫폼 | GeekNews](https://news.hada.io/topic?id=21224)
 * [tracecat: 😼 The AI-native, open source alternative to Tines / Splunk SOAR](https://github.com/TracecatHQ/tracecat)
   * [TraceCat - AI 기반의 보안 경고 자동화 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=14029)
 * [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
