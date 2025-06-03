@@ -33,7 +33,6 @@ Product
 * [Wooden combination lock](https://woodgears.ca/combolock/index.html)
 * [불장난을 예술로 승화시키다](http://www.earlyadopter.co.kr/59640)
 * [바캉스 필수 스마트폰 액세서리 7개](http://www.earlyadopter.co.kr/59602)
-* [나무로 가방을? 친환경 백팩](http://techholic.co.kr/archives/33606)
 * [노트북의 생산성을 높여주는 휴대용 디스플레이](http://www.earlyadopter.co.kr/59969)
 * [집안 인테리어를 완성하는 5가지 디자인 소품](http://www.earlyadopter.co.kr/60231)
 * [여행 가방의 변신은 무죄](http://www.earlyadopter.co.kr/60248)
@@ -104,10 +103,13 @@ Product
 * [집 지어주는 거대한 3D프린터](http://techholic.co.kr/archives/40960)
 
 # Backpack
+* [나무로 가방을? 친환경 백팩](http://techholic.co.kr/archives/33606)
+* [직장인 백팩은 이게 최고라길래 두 달 내내 다 써봄ㅋㅋ 디자인 실용성 편안함까지 네덜란드 브랜드 XD디자인 - YouTube](https://www.youtube.com/watch?v=r9LAlhFeN8E)
 * 오주코 9405
   * [오주코 옥스퍼드 3세대 9405 백팩 소개 영상 - YouTube](https://www.youtube.com/watch?v=E2IjOIimqPg)
   * 2021.11.02 구입 (배송비 포함 25640원)
 * ESHENA 바그람팩15 [백팩 쳐돌이의 기능성 디자인 백팩 8년 롱텀사용기 (ESHENA 바그람팩15) - YouTube](https://www.youtube.com/watch?v=0mho-yLwFZ0)
+* [수납최강! 인류최고 백팩이라 불릴만 하네요. 애버키 오닉스 EKP132 - YouTube](https://www.youtube.com/watch?v=LDamQb9yqRc)
 * Fintie [Amazon.com: Anti-theft Travel Laptop Backpack, Fintie 15.6 Inch TSA-Friendly Water Resistant Daypack Rucksack with RFID Protection and USB Charging Port for Mens Business School Outdoor, Black : Electronics](https://www.amazon.com/Anti-theft-Backpack-Fintie-Resistant-Protection/dp/B07T2KB389/)
 * [엑스디디자인 2in1 직장인 스포츠 헬스 비즈니스 플렉스 백팩 - 엑스디디자인 코리아 공식 온라인스토어](https://xd-design.co.kr/product/detail.html?product_no=58&cate_no=42&display_group=1)
   * [직장인을 위한 비즈니스 백팩 추천! 깔끔한 디자인과 완벽에 가까운 기능! - YouTube](https://www.youtube.com/watch?v=uufhtsOqya8)
