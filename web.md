@@ -277,6 +277,8 @@ Web
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [HTTP Status Code Definitions. Each Status-Code is described below… | by Mitku Dubale | Jun, 2022 | Medium](https://medium.com/@mitkudubale3864/http-status-code-definitions-261a7db36bda)
 * [HTTP 상태 코드 정리 | 와탭 블로그](https://www.whatap.io/ko/blog/40/index.html)
+* [더욱 덜 귀찮게 HTTP 에러를 처리하기 + RFC7807](https://gosuda.org/ko/blog/posts/handling-http-errors-more-conveniently-+-rfc7807-z862df968)
+  * [HTTP API 에러 처리의 어려움과 RFC7807 | GeekNews](https://news.hada.io/topic?id=21229)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
