@@ -3336,6 +3336,7 @@ NLP
 * [OpenRouter](https://openrouter.ai/)
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
+  * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
 * [oscar - Git at Google](https://go.googlesource.com/oscar)
   * [Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처 | GeekNews](https://news.hada.io/topic?id=16291)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
