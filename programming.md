@@ -40,6 +40,7 @@ Programming
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
+    * [모든 개발자가 알아야 할 깃허브 리소스 (도커, 데이터베이스, 게임, 신경망, 블록체인 등 프로젝트 튜토리얼 저장소) - YouTube](https://www.youtube.com/watch?v=niBmMhW37B4)
   * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning)
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
