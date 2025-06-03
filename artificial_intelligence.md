@@ -417,6 +417,7 @@ Artificial Intelligence
   * [재미로 하는 Vibe Coding - Web에서 코딩하기, 에러 확인 및 수정하기 (구독자님 질문) - YouTube](https://www.youtube.com/live/emERx9tiS0E)
   * [아! 바이브코딩이 이런 거였구나!! (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=tTeCnBi6GPU)
   * [바이브코딩 잘 하는 법 보여드립니다 (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=Ak2SiHYekdA)
+  * [무료 바이브 코딩 실습 교육프로그램을 오픈소스.. : 네이버블로그](https://blog.naver.com/fstory97/223887376667)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -1156,6 +1157,15 @@ Artificial Intelligence
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
   * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
   * ["인공지능, 코딩 및 에이전트의 새로운 시대 열었다!"...앤트로픽, 차세대 대형언어모델 '클로드 4' 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35034)
+  * [Claude's extended thinking \ Anthropic](https://www.anthropic.com/news/visible-extended-thinking)
+  * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
+    * Claude Code는 그대로 사용하고 싶은데
+    * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
+      * 말 그대로 Claude Code 라는 프로그램은 그대로지만, 프록시를 거쳐 모델만 바꿔치는 방식으로 사용이 가능
+    * 2) cursor 등의 이점도 같이 누리고 싶다면, cursor 편집기의 터미널에 Claude Code를 켜두고 사용
+      * cursor가 제공하는 Agent 기능, 다양한 모델로 스위치하는 기능과 더불어 인라인 코드 편집/생성이 가능한 영역은 cursor를 사용하는 충분한 이유
+      * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
+      * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
