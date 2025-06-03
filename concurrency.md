@@ -124,6 +124,8 @@ Concurrency
 * [NVIDIA Finally Adds Native Python Support to CUDA - The New Stack](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
   * [NVIDIA, CUDA에 드디어 네이티브 Python 지원 추가 | GeekNews](https://news.hada.io/topic?id=20153)
 * [CUDA OOM 해결 사례 공유 - PyTorch all_gather_object 의 비밀](https://devocean.sk.com/blog/techBoardDetail.do?ID=167403)
+* [Stanford CRFM](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
+  * [Stanford CRFM: AI로 생성된 CUDA 커널, PyTorch 최적화 코드 성능을 | GeekNews](https://news.hada.io/topic?id=21215)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
