@@ -2521,6 +2521,7 @@ AWS
   * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
 * [Amazon Q Developer CLI와 함께하는 바이브 코딩 (Vibe Coding) - YouTube](https://www.youtube.com/watch?v=XwjRAVTrHgc)
 * [Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context | AWS DevOps & Developer Productivity Blog](https://aws.amazon.com/ko/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
+* [Amazon Q Developer CLI에서 MCP 활용하기 - YouTube](https://www.youtube.com/watch?v=HwAeHhbZYlQ)
 * [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
 
 # R
