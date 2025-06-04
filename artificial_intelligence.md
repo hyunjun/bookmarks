@@ -504,6 +504,9 @@ Artificial Intelligence
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
     * ["이제 누구나 개발자! AI 코드 혁신 가속화"...구글, ‘제미나이 코드 어시스트’ 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34015)
+  * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
+    * 초고도화된 리서치 프로젝트를 오픈소스로 공개
+    * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
