@@ -398,6 +398,7 @@ AWS
 * [HPC(eVDI) 전문 MSP를 이용한 AWS 클라우드 기반의 R&D 환경 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/msp-offering-for-hpc-on-aws/)
 * [HPC 클러스터를 구성하는 핵심요소, AWS EC2 인스턴스 소개 1부: CAE 워크로드에 따른 EC2 인스턴스 선택 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc_cluster_ec2_1/)
 * [HPC 클러스터를 구성하는 핵심요소, AWS EC2 인스턴스 소개 2부: EC2 인스턴스가 고성능을 보장하는 이유 및 EC2 인스턴스의 구매 옵션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hpc_cluster_ec2_2/)
+* [AWS 클라우드 기반의 원격 스트리밍 프로토콜, Amazon DCV -1 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-dcv-1/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
 * [Amazon QuickSight를 사용하여 SaaS 환경을 위한 멀티테넌트 애플리케이션 지원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/support-multi-tenant-applications-for-saas-environments-using-amazon-quicksight/)
