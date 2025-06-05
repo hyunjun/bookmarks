@@ -640,6 +640,7 @@ Artificial Intelligence
     * [MCP Gateway Registry dynamic tools - YouTube](https://www.youtube.com/watch?v=ZXU8f6NwgE4)
   * [mcp-k8s-go: MCP server connecting to Kubernetes](https://github.com/strowk/mcp-k8s-go)
   * [MCP Servers](https://mcp.so/)
+  * [mcp-voice-agent at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/mcp-voice-agent)
   * [notion-mcp-server: Official Notion MCP Server](https://github.com/makenotion/notion-mcp-server#readme)
     * [Claude 검색 기능 등장? Perplexity 와 Notion MCP 조합으로 업무 효율을 높이세요! - YouTube](https://www.youtube.com/watch?v=_v8RdolRazY)
   * [PyHub MCP Tools](https://mcp.pyhub.kr/)
