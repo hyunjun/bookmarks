@@ -140,6 +140,7 @@ Functional Programming
 * [모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까?](https://toss.tech/article/firesidechat_frontend_2)
   * [VidiGo 모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까?.mp4](https://vidigo.ai/share/summary/8e6f1a36efb2)
   * [모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883491)
+* [함수형 프로그래밍이 어려운 이유 (사고의 전환 등 배울 가치 충분) - YouTube](https://www.youtube.com/watch?v=mGfXE7Gf3QE)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
