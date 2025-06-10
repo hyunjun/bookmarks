@@ -214,7 +214,9 @@
   * [Rust 커뮤니티를 Django 와 AI 로 만들었다고? | GeekNews](https://news.hada.io/topic?id=18617)
 * [250505_Rust_Profiling러스트 프로파일링(Stack스택 메모리 심화분석) profiling - YouTube](https://www.youtube.com/watch?v=UURgjYutpF4)
 * [250518_Rust_Profiling러스트 프로파일링(Heap힙 메모리 심화분석) profiling #dhat - YouTube](https://www.youtube.com/watch?v=p8KrioHMmXY)
-
+* [Just make it scale: An Aurora DSQL story | All Things Distributed](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
+  * [**Just make it scale: An Aurora DSQL story**](https://whchoi98.notion.site/Just-make-it-scale-An-Aurora-DSQL-story-20004ef7e60e8068b84be4a2f2bd3364)
+    * Rust로의 migration뿐만 아니라 그와 관련된 많은 이야기가 있음
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
