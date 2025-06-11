@@ -195,6 +195,7 @@ Programming Language
 * [9가지 프로그래밍 언어로 배우는 개념: 2편 - 다형성](https://tech.devsisters.com/posts/programming-languages-2-polymorphism)
 * [9가지 프로그래밍 언어로 배우는 개념: 3편 - 메타프로그래밍](https://tech.devsisters.com/posts/programming-languages-3-metaprogramming/)
 * [9가지 프로그래밍 언어로 배우는 개념: 4편 - 하이 레벨 언어와 동적 타입 언어](https://tech.devsisters.com/posts/programming-languages-4-high-level-languages-and-dynamically-typed-languages/)
+* [9가지 프로그래밍 언어로 배우는 개념: 5편 - 동시성 프로그래밍](https://tech.devsisters.com/posts/programming-languages-5-concurrent-programming/)
 * [여러 개발 언어를 안다는 것의 유용성 – 다양한 관점 | 웹으로 말하기](https://mytory.net/archives/14197)
 * [**Calling Functions Across Languages • Richard Feldman • GOTO 2023 - YouTube**](https://www.youtube.com/watch?v=ZOvxa9aKCCg) network, ipc inter-process communication, same process
 * [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
