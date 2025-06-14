@@ -457,6 +457,8 @@ Linux
   * [Switching From Windows to Nix or a Newbie to Linux – 20 Useful Commands for Linux Newbies](http://www.tecmint.com/useful-linux-commands-for-newbies/)
   * [20 Advanced Commands for Middle Level Linux Users](http://www.tecmint.com/20-advanced-commands-for-middle-level-linux-users/)
   * [20 Advanced Commands for Linux Experts](http://www.tecmint.com/20-advanced-commands-for-linux-experts/)
+* [37 INSANE Linux Commands you NEED to Know in 2025 - YouTube](https://www.youtube.com/watch?v=6P-vjgPx9ww)
+  * ncdu, duff, ripGrep or rg, mosh, lshw, mtr, fd, fzf, ranger, zoxide or z, exa, glances, iotop, stat, dstack, watch, progress, dig, dog, tcpdump, tshark, termshark, lsof, ipcalc, wormhole, systemd-analyze blame, systemd-analyze critical-chain, ps, procs, lazydocker, rsync, rm, shred, moreutils (which includes), ts, errno, ifdata, vidir, vip, unp, jq, taskwarrior, asciinema or asc, fabric, ollama
 * [Command Line Analytics](http://www.drbunsen.org/command-line-analytics/)
 * [commandlinefu.com](www.commandlinefu.com)
 * [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)
