@@ -2545,10 +2545,13 @@ NLP
       * [easy-pdf-rag: This is an example of implementing the RAG feature based on OpenAI Assistant V2 and Anthropic's PDF feature](https://github.com/teddylee777/easy-pdf-rag)
   * [코딩 능력은 역시 클로드인가보네요 | Claude 3.7 Sonnet & Claude Code - YouTube](https://www.youtube.com/watch?v=qV3opTT526U)
   * [27년 된 EXE 파일을 Claude 3.7에 업로드한 후 일어난 놀라운 일 | GeekNews](https://news.hada.io/topic?id=19493)
+  * [Statement on Anthropic Model Availability](https://windsurf.com/blog/anthropic-models)
   * [Claude Code 만들기](https://www.facebook.com/groups/langchainkr/posts/3318180704984305)
     * [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) Claude Code 프롬프트
     * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
+  * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
+    * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
   * [system_prompts_leaks/claude-3.7-full-system-message-with-all-tools.md at main · asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude-3.7-full-system-message-with-all-tools.md)
     * ["Claude는 어떻게 응답을 결정할까?" — 유출된 시스템 프롬프트가 말해주는 AI의 내부 규칙](https://digitalbourgeois.tistory.com/1204)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
@@ -2915,6 +2918,8 @@ NLP
   * [🤖🧑🏻💻📱누구나 5분만에 LLM 활용하기! LangChain #langchain #데이터분석 - YouTube](https://www.youtube.com/watch?v=PQhd1FIMHeE)
   * ["의류 추천 multimodal-rag"구축 따라해보기(langchain, chroma, huggingface) - YouTube](https://www.youtube.com/watch?v=_Cc3-_pEDyk)
   * [직접 만든 Langgraph Agent에서 MCP 서버 연결하기 | Langchain MCP Adapters - YouTube](https://www.youtube.com/watch?v=EaTUa3h1EtU)
+  * [Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure - Microsoft for Developers](https://devblogs.microsoft.com/blog/microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure)
+    * [(4) Korea Azure & AI Group | LLM계에서는 사실상 LangChain이 표준처럼 사용되고 있는데 이번에 Microsoft와 LangChain의 협업 결과물이 나와서 공유 ?... | Facebook](https://www.facebook.com/groups/krazure/posts/29866503039631814/)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
