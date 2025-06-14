@@ -419,6 +419,8 @@ Artificial Intelligence
   * [아! 바이브코딩이 이런 거였구나!! (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=tTeCnBi6GPU)
   * [바이브코딩 잘 하는 법 보여드립니다 (정도현 로보코 수석 컨설턴트) - YouTube](https://www.youtube.com/watch?v=Ak2SiHYekdA)
   * [무료 바이브 코딩 실습 교육프로그램을 오픈소스.. : 네이버블로그](https://blog.naver.com/fstory97/223887376667)
+  * [AI로 아키텍처 다이어그램 그리기 :: ROBOCO](https://roboco.io/posts/how-to-draw-diagram/)
+  * [Hello! Vibe - AI와 함께하는 스마트한 개발](https://hellovibe.io/)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -1164,6 +1166,7 @@ Artificial Intelligence
   * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
   * ["인공지능, 코딩 및 에이전트의 새로운 시대 열었다!"...앤트로픽, 차세대 대형언어모델 '클로드 4' 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35034)
   * [Claude's extended thinking \ Anthropic](https://www.anthropic.com/news/visible-extended-thinking)
+  * [Claude Code 시작하기](https://aifactory.space/page/claude/forum/discussion/4543)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -1249,6 +1252,7 @@ Artificial Intelligence
   * [**Cursor를 더 똑똑하게 사용하고 싶은 분들을 위해 엄선한 참고자료 모음**](https://www.stdy.blog/curated-resources-for-better-cursor-usage/)
   * [.CursorRules](https://dotcursorrules.com/)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
+  * [cursor-security-rules: This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development.](https://github.com/matank001/cursor-security-rules)
   * figma
     * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
     * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
