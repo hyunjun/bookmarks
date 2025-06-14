@@ -5425,6 +5425,8 @@ Programming
 * [안전한 패스워드의 저장 - Google Slides](https://docs.google.com/presentation/d/17BQy1kQA_rIbY41HOFM8icM9eOo7zVkgXJAKPaW8j_M/edit) 결론: argon2 사용하자
 * [Product Security Bad Practices | CISA](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices)
   * [제품 보안에 있어 나쁜 방식 | GeekNews](https://news.hada.io/topic?id=18823)
+* [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
+* [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -7121,6 +7123,8 @@ Programming
   * [5월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/05/b-5-2.html)
   * [5월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/05/b-5-3.html)
   * [5월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/05/b-5-4.html)
+  * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/06/b-6-1.html)
+  * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/06/b-6-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
