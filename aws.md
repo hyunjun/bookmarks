@@ -579,6 +579,7 @@ AWS
 * [10년 MSP 경험을 응축한 버티컬 AI 솔루션 AutoMSP 주요 기능 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-02) - YouTube](https://www.youtube.com/watch?v=RVuyyrLpgz8)
 * [베스핀글로벌 AutoMSP 개발 배경과 차별화 포인트 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-03) - YouTube](https://www.youtube.com/watch?v=mo3J4bSjnDg)
 * [AutoMSP DEMO, 400가지 이상 클라우드 업무 자동화 데모 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-04) - YouTube](https://www.youtube.com/watch?v=6cCzBdXr8E0)
+* [AWS 서비스 API 모델 레포지터리 및 Maven 패키지 정식 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1394,6 +1395,7 @@ AWS
 * [Amazon ECS Anywhere 환경에서 이벤트 브릿지와 람다를 활용한 배포 프로세스 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-the-deployment-process-with-amazon-eventbridge-and-aws-lambda-in-amazon-ecs-anywhere/)
 * [AWS ECS Fargate Demo | AWS ECS Tutorial | AWS Fargate - YouTube](https://www.youtube.com/watch?v=C8Z8XrGTicQ)
 * [Seekable OCI 및 AWS Fargate를 사용한 컨테이너 이미지 지연 로딩으로 더 빠르게 컨테이너 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/under-the-hood-lazy-loading-container-images-with-seekable-oci-and-aws-fargate/)
+* [ecs-fargate-fast-scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout/)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EFS
