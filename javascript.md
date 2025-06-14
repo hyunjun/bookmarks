@@ -5899,6 +5899,7 @@ Javascript
   * [Next.js Full Course - Supabase를 사용하여 나만의 TASK 관리 애플리케이션 만들기 - YouTube](https://www.youtube.com/watch?v=fXLBVDa6J2s)
   * [Email Testing with Mailtrap in NextJS - CodingTricks](https://codingtricks.co/posts/email-testing-with-mailtrap-in-nextjs)
   * [Next.js 미들웨어와 shallow 옵션으로 최적화된 라우팅 만들기](https://velog.io/@eotkd4791/Nextjs-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4-%EA%B0%9C%EC%9E%85%EC%97%86%EC%9D%B4-%EB%9D%BC%EC%9A%B0%ED%8C%85%ED%95%98%EA%B8%B0)
+  * [개발자들이 Next.js를 떠나는 이유 (5가지 대안 프레임워크) - YouTube](https://www.youtube.com/watch?v=CqQtjS6ZKxo)
   * [book-byte](https://github.com/Book-Byte/book-byte)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
