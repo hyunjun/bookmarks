@@ -1504,6 +1504,7 @@ App
 * [최신정보 수집하고 까먹는 당신, 정보 중독입니다](https://eopla.net/magazines/17731) Fabric Findr
 * [무료지만, macOS를 말도 못하게 편하게 만드는 5가지 앱 - YouTube](https://www.youtube.com/watch?v=7m4BiHwSIpo) Folder Hub, Only Switch, IINA, Speediness, ProNotes
 * [10 Mac Apps You Haven't Heard Of (but should be using) - YouTube](https://www.youtube.com/watch?v=JqKB97HpWrk) Itsycal, Local Send, Transnomino, ChatGPT for the Mac, OnlySwitch, Image Optim, HyperDuck, Grab2Text, Rocket, CleanShot X
+* [MacOS의 부족함을 채워주는 필수 앱 7가지 - YouTube](https://www.youtube.com/watch?v=bfqQE1lQZMU) Folder Preview (폴더 Quick Look 미리보기) IINA (미디어 플레이어) GIFski (GIF 변환기) Speediness (인터넷 속도 측정) Homebrew 설치방법 Only Switch (빠른 설정 스위치) Launchy (앱 전환 런처) Ice (메뉴바 공간 정리)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -2558,6 +2559,8 @@ App
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
+  * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
+    * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
   * smart composer
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
     * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
