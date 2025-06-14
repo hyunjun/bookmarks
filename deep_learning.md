@@ -245,6 +245,7 @@ Deep Learning
   * [OpenAI.fm](https://www.openai.fm/)
     * [Audio and speech - OpenAI API](https://platform.openai.com/docs/guides/audio)
     * [한영자막 OpenAI 음성 에이전트 SDK 공개! 개발자 필수 도구 - YouTube](https://www.youtube.com/watch?v=465J8jxwEd4)
+  * [openai-realtime-console: React app for inspecting, building and debugging with the Realtime API](https://github.com/openai/openai-realtime-console)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
