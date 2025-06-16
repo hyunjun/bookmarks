@@ -5013,6 +5013,7 @@ Programming
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
   * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
+* [Release Drafter · Actions · GitHub Marketplace](https://github.com/marketplace/actions/release-drafter)
 * [Qodana: The code quality platform for your favorite CI by JetBrains](https://www.jetbrains.com/qodana/)
   * [Qodana: 즐겨 사용하는 CI를 위한 JetBrains의 코드 품질 플랫폼](https://www.jetbrains.com/ko-kr/qodana/)
   * [정적 분석을 통해 코드 검토 및 프로젝트 계획 시간 단축 | The Qodana Blog](https://blog.jetbrains.com/ko/qodana/2022/02/cut-time-on-code-reviews-and-project-planning-with-static-analysis/)
