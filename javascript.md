@@ -92,6 +92,9 @@ Javascript
 * [How Node.js uses the V8 JavaScript engine to run your code | Red Hat Developer](https://developers.redhat.com/articles/2021/12/09/how-nodejs-uses-v8-javascript-engine-run-your-code)
 * [Maglev - V8’s Fastest Optimizing JIT · V8](https://v8.dev/blog/maglev)
   * 2021년까지 V8의 실행 계층은 인터프리터인 Ignition과 최적화 컴파일러인 TurboFan이 있어서 모든 JavaScript 코드를 Ignition 바이트 코드로 먼저 컴파일한 후 실행. 실행하면서 동작 방식을 추적해서 메타데이터와 바이트 코드를 최적화 컴파일러에 제공해서 인터프리터보다 훨씬 빠르게 실행되는 고성능 머신 코드를 생성. Ignition과 TurboFan 간의 속도 차이가 크기 때문에 2021년 Sparkplug라는 JIT를 도입해서 성능을 개선했지만, 한계가 있었기에 훨씬 빠른 코드를 생성할 수 있도록 최적화 JIT Maglev 도입. Maglev는 Sparkplug와 TurboFan 사이의 간극을 메우기 위해 도입
+* [JavaScript's New Superpower: Explicit Resource Management · V8](https://v8.dev/features/explicit-resource-management)
+* [How V8 JavaScript Engine Works Behind the Scenes](https://www.deepintodev.com/blog/how-v8-javascript-engine-works-behind-the-scenes)
+* [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](https://v8.dev/blog/explicit-compile-hints)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
@@ -762,6 +765,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2025-06.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2025-06.md)
   * [2025-05.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2025-05.md)
   * [2024-12.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2024-12.md)
   * [2024-11.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2024-11.md)
@@ -900,6 +904,7 @@ Javascript
 * [Javascript를 2개의 언어로 분할해야 할까? | GeekNews](https://news.hada.io/topic?id=17470)
 * [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들](https://miryang.dev/blog/frontend-in-startup-chosen-things) supabase TypeScript pnpm Next.js Vercel Sentry React Native
 * [프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다! 모닥불 | EP.9](https://toss.tech/article/32583) optimization
+* [Javascript Security Best Practices | Security Articles](https://hub.corgea.com/articles/javascript-security-best-practices)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3788,6 +3793,7 @@ Javascript
 * [Node.js Now Supports TypeScript By Default | Total TypeScript](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
   * [Node.js 타입스크립트를 기본으로 지원하기 시작 | GeekNews](https://news.hada.io/topic?id=18670)
 * [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
+* [Unpacking Node.js Memory - From Raw Bytes to Usable Data | banjocode](https://www.banjocode.com/post/node/memory-management)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
