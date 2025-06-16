@@ -334,6 +334,7 @@ Functional Programming
 * [Handling Optimistic Concurrency in Web Frontends | by Lakindu Hewawasam | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/handling-optimistic-concurrency-in-web-frontends-1ae7eb0e57a4)
 * [함수형 코딩 스터디를 해봅시다!](https://velog.io/@teo/functional-programming-study)
 * [함수형 elseIf 유틸리티 함수 제작기. 목차 사건의 계기 마구잡이 구현 조금 더 나아간 구현 그래서 뭐가… | by Jinwoo Kim | Aug, 2024 | Medium](https://medium.com/@superlucky84/%ED%95%A8%EC%88%98%ED%98%95-elseif-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%95%A8%EC%88%98-%EC%A0%9C%EC%9E%91%EA%B8%B0-73a2850d3b43)
+* [Recursive Data Structures and Lazy Evaluation | Roman Liutikov, Software Engineer](https://romanliutikov.com/blog/recursive-data-structures-and-lazy-evaluation)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
