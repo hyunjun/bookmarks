@@ -2791,6 +2791,7 @@ Business
 * ["미쳐야 한다고!" - 이정효 감독의 집요한 리더십 철학 - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/ijung-hyo-leadership-philosophy)
 * [중간 관리자의 딜레마, 어떤 리더로 성장해야 할까? - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/mid-level-manager-leadership-dilemma)
 * [언어 능력이 뛰어나면 기업 경영도 잘할까?](https://www.linkedin.com/posts/ki-soo-kim-6002905_ceo-sluslqqvzrwd-qsvsmpqvzrwd-activity-7328943766117982208-zxOw/)
+* [리더들이 놓치고 있는 몰락의 신호 ‘히든 피드백’](https://v.daum.net/v/20250605120106630)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
