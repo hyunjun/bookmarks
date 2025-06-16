@@ -847,6 +847,9 @@ App
   * [24인조 걸그룹을 만들던 개발자는 왜 PM을 위한 SaaS를 창업했을까? | Disquiet\*](https://disquiet.io/@therne/makerlog/24%EC%9D%B8%EC%A1%B0-%EA%B1%B8%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%8D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%99%9C-pm%EC%9D%84-%EC%9C%84%ED%95%9C-saa-s%EB%A5%BC-%EC%B0%BD%EC%97%85%ED%96%88%EC%9D%84%EA%B9%8C)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
+* [Kan.bn | The open source alternative to Trello](https://kan.bn/)
+  * [kan: The open source Trello alternative](https://github.com/kanbn/kan)
+    * [Kan.bn - Trello의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=21257)
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
   * [Nix – taming Unix with functional programming - Tweag](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
