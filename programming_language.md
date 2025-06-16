@@ -518,6 +518,7 @@ Programming Language
   * [Exploring Clang/LLVM optimization on programming horror](https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/)
   * [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
   * [Building Your Own Compiler The Slightly Easier Way With LLVM • Erik Corry • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=_XbOTRunqHk)
+  * [Compiler backends: From outsider to insider! — by Quentin Colombet | by Vinishka K | Packt Hub | May, 2025 | Medium](https://medium.com/packt-hub/compiler-backends-from-outsider-to-insider-by-quentin-colombet-011f36d37ff7)
   * [llvm-bindings: LLVM bindings for Node.js/JavaScript/TypeScript](https://github.com/ApsarasX/llvm-bindings)
     * [Use LLVM by JavaScript/TypeScript - DEV Community](https://dev.to/apsarasx/use-llvm-by-javascripttypescript-27c3)
   * [“llvm-libc” C Standard Library — LLVM 13 documentation](https://llvm.org/docs/Proposals/LLVMLibC.html)
