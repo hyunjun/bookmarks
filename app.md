@@ -229,13 +229,13 @@ App
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
 * [**Tiny Helpers**](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers
-* [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
   * [Welcome | File Browser](https://filebrowser.org/)
   * [(EP.08) 월 결제없이 나만의 대용량 웹하드 마음껏 사용하기 - YouTube](https://www.youtube.com/watch?v=QzOy0apnkjk)
+* TrueNAS [(EP.05) 미니PC에 TrueNAS 설치하는 방법 - (USB 직접 설치) - YouTube](https://www.youtube.com/watch?v=fQap9UDXOg4)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
@@ -1311,6 +1311,10 @@ App
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 * [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
   * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
+
+# Homeserver
+* [(EP.12) 평생 서버비용 아끼는 방법. 무료 홈서버 BEST 5 (N100 미니PC 활용) - YouTube](https://www.youtube.com/watch?v=2SuHn0jMjIM)
+* [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
 
 # iPhone iOS
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
