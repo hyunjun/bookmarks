@@ -2186,6 +2186,8 @@ AWS
 * [gossm: 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager](https://github.com/gjbae1212/gossm)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [ksmin23 (Sungmin Kim) · GitHub](https://github.com/ksmin23)
+* [lifecycle](https://aws.amazon.com/products/lifecycle/)
+  * [AWS 제품 수명 주기 페이지 및 AWS 서비스 변경 업데이트 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-the-aws-product-lifecycle-page-and-aws-service-availability-updates/)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [multi-agent-orchestrator: Flexible and powerful framework for managing multiple AI agents and handling complex conversations](https://github.com/awslabs/multi-agent-orchestrator)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
@@ -2520,12 +2522,14 @@ AWS
 * [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 * [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
 * [AWS Top3 Tech Trend Session 01 : Amazon Q를 이용한 업무 효율성 향상 & 사례 시연 - YouTube](https://www.youtube.com/watch?v=e3Jt3gnroAw)
-* [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
-  * AWS에서 사용자의 프라이빗 코드를 기반으로 AI를 이용한 코드 자동완성과 채팅을 할 수 있는 Q Devloper 프리뷰 출시
-  * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
-* [Amazon Q Developer CLI와 함께하는 바이브 코딩 (Vibe Coding) - YouTube](https://www.youtube.com/watch?v=XwjRAVTrHgc)
-* [Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context | AWS DevOps & Developer Productivity Blog](https://aws.amazon.com/ko/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
-* [Amazon Q Developer CLI에서 MCP 활용하기 - YouTube](https://www.youtube.com/watch?v=HwAeHhbZYlQ)
+* [소프트웨어 개발용 생성형 AI 어시스턴트 – Amazon Q Developer – AWS](https://aws.amazon.com/ko/q/developer/)
+  * [Amazon Q Developer, 2025 상반기 혁신을 돌아보며](https://www.linkedin.com/posts/woohyungchoi_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9A%A9-%EC%83%9D%EC%84%B1%ED%98%95-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-amazon-q-developer-activity-7341460844712443904-0z_8/)
+  * [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
+    * AWS에서 사용자의 프라이빗 코드를 기반으로 AI를 이용한 코드 자동완성과 채팅을 할 수 있는 Q Devloper 프리뷰 출시
+    * 현재 JetBrains, Visual Studio Code 및 Visual Studio용 확장 사용 가능
+  * [Amazon Q Developer CLI와 함께하는 바이브 코딩 (Vibe Coding) - YouTube](https://www.youtube.com/watch?v=XwjRAVTrHgc)
+  * [Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context | AWS DevOps & Developer Productivity Blog](https://aws.amazon.com/ko/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/)
+  * [Amazon Q Developer CLI에서 MCP 활용하기 - YouTube](https://www.youtube.com/watch?v=HwAeHhbZYlQ)
 * [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
 
 # R
