@@ -230,6 +230,7 @@ Java
 * [7 java tricky parts may probably face you as java developer | by Nour Krichene | Jan, 2022 | Medium](https://medium.com/@krichenenour2/7-java-tricky-parts-may-probably-face-you-as-java-developer-f6a6c0cd29a2)
 * [java number 클래스에 대해 간단하게 알아봅시다.](https://codingdog.tistory.com/672)
 * [Top 10 Easy Performance Optimizations in Java | by Jassica Den | Medium](https://synergisticm.medium.com/top-10-easy-performance-optimizations-in-java-6370025f847e)
+* [The One Java Optimization That Made My Code 10x Faster — Without Changing Frameworks | by The Quantum Yogi | Jun, 2025 | Medium](https://medium.com/@kanishksinghpujari/the-one-java-optimization-that-made-my-code-10x-faster-without-changing-frameworks-1541cf79ec35)
 * [10 Java Idioms Every Developer Should Know | by javinpaul | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
 * [Principles of Fluent API Design by David Beaumont - YouTube](https://www.youtube.com/watch?v=VPu-ytfYTeU)
   * [VidiGo Principles of Fluent API Design by David Beaumont](https://vidigo.ai//chatbot/summary/jB521CWlmFZMBMX)
