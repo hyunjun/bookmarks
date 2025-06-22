@@ -502,6 +502,7 @@ Artificial Intelligence
   * [🔥Gemini 2.5 Pro-Exp: LMArena 1위! 구글의 최신 플래그십 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5%E2%99%8AGemini-25-Pro-Exp-LMArena-1%EC%9C%84-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD-AI-%EB%AA%A8%EB%8D%B8)
     * [Hands on with Gemini 2.5 Pro: why it might be the most useful reasoning model yet | VentureBeat](https://venturebeat.com/ai/beyond-benchmarks-gemini-2-5-pro-is-probably-the-best-reasoning-model-yet/)
       * [Gemini 2.5 Pro 사용 후기: 가장 유용한 추론 모델이 될 수 있는 이유... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0n9XvGMnHjgRJaEXkunnZoSQFwsePYMBVrd6VuHrVYSiimFZe3C1PAeAjavEXxekgl)
+  * [버튼 하나로 AI 가 코딩한 코드를 자동으로 실행하고, 구글 검색도 하고, 생각도 깊게 하게 만들기 - 개발자라면 알아야 하는 AI API의 숨겨진 기능!! - YouTube](https://www.youtube.com/watch?v=qQUwUZREoTQ)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
