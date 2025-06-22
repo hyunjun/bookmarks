@@ -503,6 +503,8 @@ Artificial Intelligence
     * [Hands on with Gemini 2.5 Pro: why it might be the most useful reasoning model yet | VentureBeat](https://venturebeat.com/ai/beyond-benchmarks-gemini-2-5-pro-is-probably-the-best-reasoning-model-yet/)
       * [Gemini 2.5 Pro 사용 후기: 가장 유용한 추론 모델이 될 수 있는 이유... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0n9XvGMnHjgRJaEXkunnZoSQFwsePYMBVrd6VuHrVYSiimFZe3C1PAeAjavEXxekgl)
   * [버튼 하나로 AI 가 코딩한 코드를 자동으로 실행하고, 구글 검색도 하고, 생각도 깊게 하게 만들기 - 개발자라면 알아야 하는 AI API의 숨겨진 기능!! - YouTube](https://www.youtube.com/watch?v=qQUwUZREoTQ)
+    * [잘알려지지 않은 Gemini의 유용한 기능-#1 Thinking & Context URL](https://bcho.tistory.com/1478)
+    * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
