@@ -291,6 +291,7 @@ Interview
 * [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 * [**The really important job interview questions engineers should ask (but don't) - PostHog**](https://posthog.com/blog/what-to-ask-in-interviews)
   * [엔지니어들이 면접에서 물어야 할 질문들 | GeekNews](https://news.hada.io/topic?id=6862)
+* [경력직 면접시 마지막 질문 이렇게 하세요!](https://www.linkedin.com/posts/so-yeon-lim-679ba2226_%EA%B2%BD%EB%A0%A5%EC%A7%81-%EB%A9%B4%EC%A0%91%EC%8B%9C-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%A7%88%EB%AC%B8-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%98%EC%84%B8%EC%9A%94-%EC%96%B4%EC%84%A4%ED%94%84%EA%B2%8C-%EC%97%B4%EC%A0%95-%EC%96%B4%ED%95%84%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-activity-7340596027541942273-VgsH/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
