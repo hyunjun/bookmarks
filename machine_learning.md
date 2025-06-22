@@ -1253,6 +1253,7 @@ Machine Learning
   * [토스ㅣSLASH 22 - Data Scientist는 어떻게 비즈니스에 기여할 수 있을까? - YouTube](https://www.youtube.com/watch?v=mKf1kvWXiPY)
   * [lightgbm-serving: A lightweight server for LightGBM](https://github.com/jeongukjae/lightgbm-serving)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
+* [Machine-Unlearning-Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods](https://github.com/gnueaj/Machine-Unlearning-Comparator)
 * [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
   * [MediaPipe to openFrameworks](https://github.com/madelinegannon/example-mediapipe-udp/)
   * [가위바위보를 인식하는 Mediapipe hand Python 예제 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1641)
