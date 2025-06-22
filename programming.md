@@ -5310,6 +5310,7 @@ Programming
 * [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
 * [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
 * [GCP 보안 운영 시리즈  제로 트러스트 기반 보안 운영 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/identity-security/google-cloud-security-based-on-zerotrust)
+* [퇴사자가 AWS에 남아있던 날, 우리는 Zero Trust를 시작했다 | by JLand | 레브잇 테크블로그 | Jun, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/%ED%87%B4%EC%82%AC%EC%9E%90%EA%B0%80-aws%EC%97%90-%EB%82%A8%EC%95%84%EC%9E%88%EB%8D%98-%EB%82%A0-%EC%9A%B0%EB%A6%AC%EB%8A%94-zero-trust%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4-074a6f5cb5f3)
 * [애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성 | GeekNews](https://news.hada.io/topic?id=7153)
 * [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser · Felix Krause](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
   * Instagram과 Facebook에서 인앱브라우저로 웹사이트를 열었을 때 pcm.js같은 파일을 자동으로 주입하기 때문에
@@ -7126,6 +7127,7 @@ Programming
   * [5월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/05/b-5-4.html)
   * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/06/b-6-1.html)
   * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/06/b-6-2.html)
+  * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/06/b-6-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -9449,6 +9451,9 @@ Programming
     * Windows Vista를 만들 때 EU가 이 접근을 막지 못하게 하면서 발생
   * 그럼에도 소프트웨어 엔지니어가 이러한 문제를 막기 위해 어떤 대처를 할 수 있는지를 설명
 * [IT 인프라 엔지니어 그룹 | https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3671104469870994/)
+* [Google Cloud Service Health](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
+  * [The Google Cloud outage on Jun12th 2025 had a significant impact on various GCP services and impacted products at OpenAI, Spotify, and Cloudflare](https://www.linkedin.com/feed/update/urn:li:activity:7340525180361838592/)
+    * [exponential back-off은, 그냥 하면 되는 게 아니고 randomness를 주는 게 중요](https://www.linkedin.com/posts/spike-jee-480225a_googlecloud-activity-7340810500236091396-F4Ps/)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
