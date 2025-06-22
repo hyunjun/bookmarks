@@ -613,6 +613,7 @@ Artificial Intelligence
   * [MCP & Agents: Crash Course - YouTube](https://www.youtube.com/watch?v=OJ6ZLqO8HZI)
   * [Getting Started with Apollo MCP Server for any GraphQL API | Apollo GraphQL Blog](https://www.apollographql.com/blog/getting-started-with-apollo-mcp-server-for-any-graphql-api)
   * [How We're Using MCP to Automate Real Workflows: 6 Working Use Cases | Runbear](https://runbear.io/posts/How-Were-Using-MCP-to-Automate-Real-Workflows-6-Working-Use-Cases)
+  * [The Complete MCP Experience: Full Specification Support in VS Code](https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -979,6 +980,8 @@ Artificial Intelligence
 * [OECD Teaching Compass | OECD](https://www.oecd.org/en/publications/oecd-teaching-compass_8297a24a-en.html)
   * [Archive/OECD Teaching Compass at main · minsuklee/Archive](https://github.com/minsuklee/Archive/tree/main/OECD%20Teaching%20Compass)
 * [Trends - Artificial Intelligence | BOND](https://www.bondcap.com/reports/tai) Mary Meeker
+* [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://www.linkedin.com/posts/leekh929_%EB%AA%A8%EB%93%A0-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%B6%A9%EA%B2%A9%EC%A0%81-%ED%98%84%EC%8B%A4-ai-vs-saas-%EC%A0%84%EC%9F%81-activity-7342367206992683009-Ciyr/)
+  * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://jober.io/wall-write-document/8eed3ca9-62d2-49af-a9c2-e514e1ba792a)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1139,6 +1142,7 @@ Artificial Intelligence
   * [claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
   * [내가 사용해 본 가장 유용한 MCP 서버 😎 - YouTube](https://www.youtube.com/watch?v=ktr-4JjDsU0&t=1s)
   * [AI 코딩 프로젝트 매니저, Taskmaster AI를 소개합니다! 🚀 - 지니코딩랩](https://www.jiniai.biz/2025/05/09/ai-%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80-taskmaster-ai%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%F0%9F%9A%80/)
+* [ThesisAI](https://thesisai.io/)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
@@ -1170,6 +1174,7 @@ Artificial Intelligence
   * ["인공지능, 코딩 및 에이전트의 새로운 시대 열었다!"...앤트로픽, 차세대 대형언어모델 '클로드 4' 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35034)
   * [Claude's extended thinking \ Anthropic](https://www.anthropic.com/news/visible-extended-thinking)
   * [Claude Code 시작하기](https://aifactory.space/page/claude/forum/discussion/4543)
+  * [How Anthropic teams use Claude Code](https://whchoi98.notion.site/How-Anthropic-teams-use-Claude-Code-20b04ef7e60e80febfb1d3581905f99a)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -1178,6 +1183,7 @@ Artificial Intelligence
       * cursor가 제공하는 Agent 기능, 다양한 모델로 스위치하는 기능과 더불어 인라인 코드 편집/생성이 가능한 영역은 cursor를 사용하는 충분한 이유
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
+  * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
