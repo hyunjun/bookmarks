@@ -231,6 +231,9 @@ Vim
 
 # Library
 * [how-to-exit-vim: Below are some simple methods for exiting vim.](https://github.com/hakluke/how-to-exit-vim)
+* [LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
+  * [🚀 Getting Started | LazyVim](https://www.lazyvim.org/)
+  * [chris-lazyvim: Chris LazyVim Setting](https://github.com/chriskr7/chris-lazyvim/)
 * [Penumbra Color Theme](https://github.com/nealmckee/penumbra)
   * [Penumbra - 자연광을 기반으로 만든 색상구성표 | GeekNews](https://news.hada.io/topic?id=7172)
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
