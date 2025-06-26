@@ -256,6 +256,7 @@ Math
 * [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)
 * [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 * [파이썬으로 간단히 구현해보는 선형 회귀](https://brunch.co.kr/@cookery/120)
+* [파이썬 코드를 작성하며 간단히 살펴보는 선형대수](https://webnautes.kr/paisseon-kodeureul-jagseonghamyeo-gandanhi-salpyeoboneun-seonhyeongdaesu/)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
