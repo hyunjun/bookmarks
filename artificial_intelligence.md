@@ -1179,6 +1179,7 @@ Artificial Intelligence
   * [Claude Code 시작하기](https://aifactory.space/page/claude/forum/discussion/4543)
   * [How Anthropic teams use Claude Code](https://whchoi98.notion.site/How-Anthropic-teams-use-Claude-Code-20b04ef7e60e80febfb1d3581905f99a)
   * [클로드 코드 설치 5분 컷! | VS 코드, 커서 AI 통합 사용법 - YouTube](https://www.youtube.com/watch?v=J0IWxZXczxs)
+  * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
