@@ -1275,6 +1275,7 @@ NLP
   * [Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy](https://github.com/katanemo/arch)
     * [Arch - 지능형 프롬프트 게이트웨이 | GeekNews](https://news.hada.io/topic?id=17438)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+* [Cluely System prompt](https://gist.github.com/cablej/ccfe7fe097d8bbb05519bacfeb910038)
 * CoD Chain of Density
   * [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
   * [세밀한 요약을 위한 프롬프팅 Elment-Aware Summary Chain-of-Density (CoD) Prompting](https://www.linkedin.com/posts/ugcPost-7262473989036343297-Luji/)
