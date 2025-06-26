@@ -1952,6 +1952,8 @@ Business
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
 * [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 * [직원 900명을 줌으로 해고한 회사의 최후 - T Times](http://www.ttimes.co.kr/view.html?no=2021121717457753101)
+* [A Message from Co-Founder and CEO Brian Chesky](https://news.airbnb.com/a-message-from-co-founder-and-ceo-brian-chesky/)
+  * [브라이언 체스키가 에어비앤비 직원 1,900명을 해고하며 올린 글](https://eopla.net/magazines/31232)
 * [The Sunny Side of Firing Someone - The Mad Ned Memo](https://madned.substack.com/p/the-sunny-side-of-firing-someone)
 * [한기용 - 해고란?](https://www.linkedin.com/posts/activity-6972064364631666688-0WLd/)
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
