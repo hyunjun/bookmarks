@@ -1215,6 +1215,150 @@ Artificial Intelligence
   * [소프트웨어 개발의 미래 - OpenAI Codex 소개 - YouTube](https://www.youtube.com/watch?v=ZyIjLz6mPm8)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
+* [Copilot · Your AI pair programmer](https://copilot.github.com/)
+  * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
+  * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
+  * [Github Copilot에 관한 생각](https://brunch.co.kr/@advisor/34)
+  * [AI로 코딩?! 깃허브 코파일럿(GitHub Copilot) 프리뷰를 써봤습니다! - YouTube](https://www.youtube.com/watch?v=Km7LT5SJch8)
+  * [GitHub Copilot: A Powerful, Controversial Autocomplete for Developers – The New Stack](https://thenewstack.io/github-copilot-a-powerful-controversial-autocomplete-for-developers)
+  * [백지장도 'AI'가 맞들면 더 낫다··· 코딩 돕는 ML 도구 3가지 - CIO Korea](https://www.ciokorea.com/news/200444)
+  * [깃허브 코파일럿, 개발자 반응은?··· "놀랍도록 유용"vs"아직 미흡" - CIO Korea](https://www.ciokorea.com/news/200619)
+  * [Research recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)
+  * [GitHub Copilot의 8가지 대안](https://open-support.tistory.com/entry/GitHub-Copilot%EC%9D%98-8%EA%B0%80%EC%A7%80-%EB%8C%80%EC%95%88)
+  * [Copilot 설명 및 사용기 | GeekNews](https://news.hada.io/topic?id=4745)
+  * [GitHub's Copilot Still a Long Way From Autopilot](https://www.infoq.com/news/2021/10/github-copilot-study/)
+  * [칼럼ㅣ깃허브 코파일럿에서 ‘희망’을 보았다 - CIO Korea](https://www.ciokorea.com/news/214314)
+  * [GitHub Next | GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/)
+    * GitHub이 공개한 AI 페어 프로그래머인 Copilot의 테크니컬 프리뷰를 하면서 제안 품질과 안정적인 기능을 개선하고 있는데
+      * 이를 더 도와줄 수 있는 GitHub Copilot Labs VS Code 익스텐션 공개
+    * 이 익스텐션에는 코드 설명하기(Explain this code), 코드 변환하기(Translate this code) 두 가지 기능 제공
+      * "Explain this code"는 코드 블록의 동작을 영어로 설명
+      * "Translate this code"는 해당 코드를 다른 프로그래밍 언어로 바꿔주는 기능
+    * 이 익스텐션은 Copilot 익스텐션을 필요로 하므로 현재는 Copilot 익스텐션을 사용할 수 있는 사람만 사용 가능
+  * [깃허브 코파일럿(Copilot)은 무엇이며, 왜 욕먹는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/933/)
+  * [Codeberg.org](https://codeberg.org/)
+  * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
+  * [GitHub Copilot JetBrains IDE/VS Code에서 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1603)
+  * [“개발자들, 코파일럿 많이 쓸수록 생산성 향상됐다 느껴” 깃허브 - CIO Korea](https://www.ciokorea.com/news/245056)
+  * [ML code generation vs. coding by hand - what we think programming is going to look like | Wasp](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+  * [GitHub Copilot: your AI pair programmer - GitHub Checkout - YouTube](https://www.youtube.com/watch?v=St2CMvK4hK0)
+  * [Could GitHub Copilot produce a vulnerable code? | by YevhSec1 | Aug, 2022 | Medium](https://yevhsec1.medium.com/could-github-copilot-produce-a-vulnerable-code-8c23c890e578)
+  * [Github Copilot AI가 만든 코인 자동매매 봇 돌려봄... 와 - YouTube](https://www.youtube.com/watch?v=PQigbak7H9I)
+  * [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness | The GitHub Blog](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+    * [Github Copilot이 개발자의 생산성과 행복에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=7359)
+  * [Google Published Results on How ML-Enhanced Code Compilation Could Improve Developers’ Productivity](https://www.infoq.com/news/2022/08/google-ai-code-compilation/)
+  * [GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](https://githubcopilotinvestigation.com/)
+    * GitHub Copilot을 조사하는 사이트
+    * Copilot이 학습한 코드에 대해 문제 제기
+      * 오픈소스는 라이선스의 의무를 따르거나 라이선스의 예외 적용을 받는 공정 사용 둘 중 하나여야 하는데
+      * Copilot이 라이선스 의무를 따를 수는 없으므로 공정 사용이어야 하고 실제로 GitHub에서도 공정 사용이라고 대답
+    * 하지만 이에 대한 자료를 제공하지 않고 있고
+      * AI의 공정 사용도 어떻게 적용될지 알 수 없고
+      * 일부에서는 라이센스 문제가 있는 코드도 학습에 사용되었다는 의혹도 제기
+    * 이 사이트에서는 AI 코딩을 반대한다기보다
+      * GitHub Copilot에 문제를 제기하고 있고
+      * 잘못된 코드의 생산으로 오픈소스 생태계에 장기적으로 안 좋은 영향을 줄 수 있다고 하며
+      * 사용자들의 의견과 제보를 받고 있음
+  * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
+  * [Amazing GitHub CoPilot - Create a Java to check if a number is prime and if a string is a palindrome - YouTube](https://www.youtube.com/watch?v=nq7i3RLlITI)
+  * [How I used GitHub Copilot to build a browser extension | The GitHub Blog](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
+    * 크롬 확장 프로그램을 GitHub Copilot을 사용해서 만드는 과정을 정리한 글
+    * GitHub Copilot의 채팅 기능을 이용해서 질문하면서 파일에 자세한 설명을 제공하면서 코드를 자동완성 하면서 익스텐션 작성
+    * GitHub Copilot의 도움으로 익스텐션을 만들어 보지 않았음에 만들 수 있었지만 쉽게 배울 수 있을 학습 작업 자체를 대체하진 않으므로 프롬프트도 실행해 보고 다양한 질문이나 검색도 했다고 함
+  * [GitHub Copilot X: The AI-powered developer experience | The GitHub Blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
+    * OpenAI와 협업해서 Codex 모델로 GitHub Copilot을 공개했지만, AI 기반 자동완성은 시작점에 불과했고 GitHub Next의 R&D 팀은 개발 라이프사이클 전체에 AI 지원을 받을 수 있도록 노력한 결과 GitHub Copilot X를 공개
+    * GitHub Copilot X는 GPT-4 모델을 사용해서 VS Code와 Visual Studio에서 개발자 시나리오에 맞춰 GitHub Copilot Chat을 제공하고 GitHub Copilot Voice도 지원
+    * Copilot for Pull Requests를 통해 Pull Requests를 GPT-4 모델 기반으로 AI가 작성한 설명 지원
+    * GitHub Copilot for Docs는 채팅 인터페이스로 문서에 대해 AI가 답변하도록 지원하며 React, Azure Docs, MDN을 지원하고 있으며 Copilot for CLI도 개발
+    * 각 서비스는 대기열에 추가해서 승인되면 사용
+  * [AI를 활용한 개발 효율성 향상 방법 : 네이버 블로그](https://blog.naver.com/drvoss/223110196164)
+  * [“세상 참 좋아졌네”…깃허브 코파일럿 리뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1634/)
+  * [Inside GitHub: Working with the LLMs behind GitHub Copilot | The GitHub Blog](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
+    * GitHub에서 Copilot을 어떻게 만들고 개선해 왔는지 설명
+      * 이전에도 범용 코드 생성에 관해서 얘기하고 있었지만 불가능하다고 얘기했었다가 2020년 6월 OpenAI가 GPT-3를 출시하면서 모든 게 변경
+      * OpenAI에서 API를 테스트하면서 코드 스니펫을 생성하는 프로토타입을 만들고 IDE에 넣기로 결정하면서 GitHub Copilot 만들기 시작
+      * 처음 받은 모델은 Python 전용 모델이었지만 그다음에는 JavaScript 모델을 받고 여러 언어를 지원하는 모델을 제공받음
+      * 2021년 OpenAI와 파트너십을 통해 GPT-3에서 파생되어 코드를 학습한 Codex 모델 출시
+      * 모델은 강력했지만, 사용자에게 좋은 결과를 제공하기 위해서는 개선 필요, 현재 편집 중인 파일만이 아니라 더욱 정확한 결과가 나오도록 추가 컨텍스트를 제공 필요
+      * 편집기 탭에서 유사한 텍스트를 가져오게 한 뒤에 수락률이 많이 증가, 파일명이나 확장자를 통해 결과를 더 개선
+  * [VDIASI23 - Vlad Iliescu - Future-Proof Development with GitHub Codespaces, Copilot, and GPT-4 - YouTube](https://www.youtube.com/watch?v=dbJfnCcdA6o)
+  * [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform - The GitHub Blog](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
+    * GitHub 콘퍼런스인 Universe에서 AI 관련 기능 출시
+    * GitHub Copilot Chat이 12월 정시 출시 예정
+      * 기존 Copilot 사용자는 사용할 수 있고 GPT-4 기반이며 에디터의 코드 기반으로 질문을 하거나 /fix, /test같은 명령어 사용 가능
+      * JetBrains IDE도 지원
+    * GitHub Copilot Chat이 github.com에도 통합되어 웹에서 바로 대화를 나눌 수 있으며 GitHub 앱에도 통합될 예정
+    * GitHub Copilot Enterprise 출시
+      * 24년 2월 정식 출시 예정
+      * GitHub Copilot Enterprise 최상위 요금재로 매월 사용자당 $39(Copilot Business는 $19, 개인은 $10)
+      * 회사의 github 저장소와 연결해서 비공개 코드를 기반으로 제안 가능
+      * Pull Request 요약 생성 기능 지원
+    * GitHub Advanced Security에서 AI 기반 보안 기능 지원
+      * GitHub Copilot Chat에서 IDE에서 취약점 수정 제안
+      * Pull Request에서 JavaScript/TypeScript에 대해 코드 스캐닝을 통해 AI가 취약점 수정 사안 제안
+    * [GitHub Next | Copilot Workspace](https://githubnext.com/projects/copilot-workspace)
+      * GitHub 이슈에서 워크스페이스를 열면 변경에 대한 제안을 AI가 해주고 이를 바로 코드 수정 및 실행한 후 Pull Request까지 가능
+      * 24년 출시 예정
+      * [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment - The GitHub Blog](https://github.blog/2024-04-29-github-copilot-workspace/)
+        * GitHub 이슈에서 AI를 이용해서 변경 사항을 제시하고 Pull Request까지 올릴 수 있는 GitHub Copilot Workspace의 테크니컬 프리뷰 공개
+      * [돌겠네... Copilot 때문에 XX프로그래머 사라질수도... - YouTube](https://www.youtube.com/watch?v=0R3eZqvaE4Q)
+  * [GitHub Copilot Workspace: 이슈에서 시작하는 Copilot 네이티브 개발 환경 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1730)
+  * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+    * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
+  * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
+  * [Let's Build a Website in 10 minutes with GitHub Copilot // Bryant Son // AI in Production Conference - YouTube](https://www.youtube.com/watch?v=gAw-f6vt32Q)
+    * [MLOps Community](https://home.mlops.community/public/videos/lets-build-a-website-in-10-minutes-with-github-copilot)
+  * [코딩속도 200%? 코파일럿 제대로 활용하는 꿀팁! - YouTube](https://www.youtube.com/watch?v=xx7Ykh0VpF0)
+  * [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
+    * GitClear의 "Coding on Copilot" 백서에서 AI 지원 코드의 품질과 유지 관리성을 조사했습니다.
+      * 주요 결과:
+        * 코드 청크: 2024년에 2021년 대비 두 배 증가할 것으로 예상
+        * 추가 코드 및 복사/붙여넣기 코드 비율 증가
+        * AI 생성 코드는 단기 계약자의 코드와 유사한 특성을 보임
+    * 이는 GitHub의 2022년 연구 결과와 대조되는데, 해당 연구에서는 Copilot 사용 시 개발자 생산성과 만족도 향상을 발견했음
+    * GitClear 연구 결과 요약:
+      1. 코드 청크 증가: AI 사용과 관련된 "오류 코드" 푸시 증가
+      2. 리팩토링과 재사용 감소: 복사/붙여넣기 코드 증가
+      3. 유지 관리 어려움 증가: 불필요한 코드 복제가 늘어남
+    * 다른 연구들도 Copilot의 장단점을 조사했으며, 향후 지속적인 평가가 필요할 것으로 보임
+    * GitClear는 153백만 줄의 코드 변경 내역을 분석했음
+  * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+    * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
+    * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
+    * Copilot 모델에 보낼 프롬프트를 만들 때 접두사와 접미사를 통해 다른 파일에서 비교할 정보를 보내서 정확도를 향상
+    * 모델을 호출할 때 도움이 되지 않는 완성은 호출되지 않도록 하고 어떤 텔레메트리가 수집되는지를 살펴봄
+    * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
+    * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
+  * [GitHub Copilot: Coding Will Never Be The Same Again • Ryan J. Salva • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=m0skYNIO3mk)
+    * [VidiGo GitHub Copilot: Coding Will Never Be The Same Agai](https://vidigo.ai/share/summary/68000a93f1b3)
+    * [깃허브 코파일럿: 코딩은 다시는 예전과 같지 않을 것입니다 - Ryan J. Salva - YOW! 2023 | The fastest way to absorb knowledge | Lilys AI | Lilys AI](https://lilys.ai/digest/417754?sId=m0skYNIO3mk)
+      14. 개발자가 AI 시스템 개발 도구를 사용하면 Pull requests와 빌드 수 증가
+        * 최초 개발자들은 건의를 제출하면서 30%의 수락률을 보이며, 시간이 흐를수록 능숙해지면서 매달 수락률이 조금씩 증가
+        * 450명의 개발자를 대상으로 6개월간 시행한 연구에서, AI 시스템 개발 도구를 사용하면 Pull requests 수가 50% 늘어나고, 병합된 PR 수도 15% 증가
+        * 또한 빌드 수도 50% 증가하며 빌드 성공률이 45% 향상되어 시간을 줄이고 코드 품질 향상
+        * 이로 인해 소프트웨어 개발 산업에 약 1.5조 달러의 경제적 영향이 예상되며, 세계적으로 3.75조 달러에 이를 수 있다는 연구 결과도 있음
+      15. AI 활용으로 창의적 역할 및 시스템 아키텍트로 발전
+        * AI를 활용할 때, 더 창의적으로 활동하며 시스템 아키텍트처럼 보이는 세상으로 접근해야
+        * 메일 주소의 정규식을 기억하기 위해 문서를 찾아보는 것이 아니라, 노동자로서의 역할을 한정짓지 않게 될 것이다. 이것이 흥미롭고, 기대
+    * [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners - The GitHub Blog](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
+      * GitHub Copilot의 Extensions 발표, 아직 Limited Beta라 직접 볼 수는 없지만
+      * 서드파티 서비스가 Copilot Extension을 만들면 VS Code를 벗어나지 않고 Copilot Chat에서 해당 서비스에 연결된 정보 질문 가능
+        * 바로 등록된 리소스의 정보나 배포 상태 등 확인 가능
+      * 회사 내에서 비공개 Extension도 만들 수 있어서 내부 API나 데이터와 연동하면 회사 내의 정보도 Copilot에서 사용 가능
+  * [GitHub Copilot을 CLI 명령어에서 도움받을 수 있는 GitHub Copilot in the CLI :: Outsider's Dev Story](https://blog.outsider.ne.kr/1717)
+  * [Copilot 깃허브 코파일럿은 어떻게 작동하는가? | Daily Log](https://jiyeonseo.github.io/2024/05/31/how-github-copilot-works/)
+  * [Github Copilot 기능 톺아보기 | 개발자 Story | SKT Enterprise](https://www.sktenterprise.com/bizInsight/blogDetail/dev/9417)
+  * [쉽게 살 수 있을까 ? :: GitHub Copilot 소송..](https://hl1itj.tistory.com/263)
+  * [코파일럿, 1년 동안 써봤습니다](https://pxdstory.tistory.com/1825)
+    * [깃허브 코파일럿, 1년 동안 써보고 느낀 점들 | 요즘IT](https://yozm.wishket.com/magazine/detail/2931/)
+  * [AI로 AI 웹앱을 만듭니다. 코딩 몰라도 5분만에 뚝딱! 첨부터 끝까지 모두 무료 - YouTube](https://www.youtube.com/watch?v=0GWfJoDgQZ0)
+  * [(1) 생활코딩 | Vibe Coding - 이제 앱 개발 직접 하세요 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/29482852161328606/)
+    * [GitHub Copilot - YouTube](https://www.youtube.com/playlist?list=PLRQGNaa1hGF1eBvNMVquJ5_hFw4mW7_MO)
+  * [나만의 Visual Studio Code Copilot 지침 만들고 활용하기](https://d2.naver.com/helloworld/6615449)
+  * [Cursor AI 와 Github Copilot 비교해 봤습니다 - 남들은 Cursor AI 가 더 좋다고 하던데 저는... - YouTube](https://www.youtube.com/watch?v=scG3agQQ79E)
+  * [바이브 코딩을 포기하거나 멈춰있는 고급 사용자를 위한 실전 팁 - YouTube](https://www.youtube.com/watch?v=gP92KZq4N9s)
+  * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
+  * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
   * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
   * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
