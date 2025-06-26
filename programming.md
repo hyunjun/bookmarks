@@ -3958,6 +3958,7 @@ Programming
 * [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
 * [신한은행이 클라우드 구축에서 배운 것 “이론에 기대지 말라” - 바이라인네트워크](https://byline.network/2023/11/24-283/)
 * [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
+* [테라폼 네이버 클라우드 매거진](https://brunch.co.kr/magazine/ncp-terraform)
 * [클라우드 컴퓨팅 입문자들을 위한 가이드 : 네이버 블로그](https://blog.naver.com/drvoss/223275359487)
 * [(자료) 클라우드 스터디 자료 -2023](https://brunch.co.kr/@topasvga/3385)
 * [클라우드의 세션 - Part1 스티키/클러스터.. : 네이버블로그](https://blog.naver.com/wharup/223281848620)
