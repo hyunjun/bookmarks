@@ -1421,6 +1421,7 @@ Python
         * 기본 logging은 sync이기 때문에 bufferred or async logging을 사용하지 않으면 async web에서 성능 저하 발생
       * 또한 여기서 mysqlclient(libmysql 기반)와 aiomysql(PyMySQL)을 비교했는데, 기본적으로 PyMySQL이 mysqlclient보다 2~4배 느림
         * mysqlclient는 sync 기반으로 threadpool로만 동작
+    * [Yappi로 Python에서도 성능을 챙겨보자](https://d2.naver.com/helloworld/4394645)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
