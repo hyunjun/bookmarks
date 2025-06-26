@@ -684,6 +684,7 @@ Javascript
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [호이스팅과 var, let, const | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/hoisting-var-let-const/)
+* [자바스크립트 함수 선언식과 표현식, 제대로 알고 쓰기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3191/)
 * [실행 컨텍스트(Execution Context)를 통해 알아본 호이스팅(Hoisting) 현상의 발생 원인과 이를 통한 let과 var의 차이](https://blog.naver.com/dlaxodud2388/222238394694)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Beginners Guide to Tagged Template Literals in JavaScript](https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862)
