@@ -364,6 +364,9 @@ Artificial Intelligence
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
     * [인공지능 A2A란 무엇인가? 데모(demo.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223839552262)
+* [ag2: AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ](https://github.com/ag2ai/ag2)
+  * [AgentOS](https://ag2.ai/)
+  * [Chi Wang + Tim Santos - Building Vertical Agent with AG2 AgentOS | PyData London 25 - YouTube](https://www.youtube.com/watch?v=iVDNflrBBH4)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
   * [Agent Development Kit](https://google.github.io/adk-docs/)
@@ -423,6 +426,7 @@ Artificial Intelligence
   * [무료 바이브 코딩 실습 교육프로그램을 오픈소스.. : 네이버블로그](https://blog.naver.com/fstory97/223887376667)
   * [AI로 아키텍처 다이어그램 그리기 :: ROBOCO](https://roboco.io/posts/how-to-draw-diagram/)
   * [Hello! Vibe - AI와 함께하는 스마트한 개발](https://hellovibe.io/)
+  * [Vibe Coding의 미래: Agentic AI가 변화 시킬 시장 분석](https://whchoi98.notion.site/Vibe-Coding-Agentic-AI-21c04ef7e60e8040a4d6cb9d07ebd43f)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -507,6 +511,11 @@ Artificial Intelligence
     * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
+  * [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+    * [Google announces Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+    * [Gemini CLI 소개 - YouTube](https://www.youtube.com/watch?v=KUCZe1xBKFM)
+    * [6분 만에 배우는 Gemini CLI: Google의 무료 오픈 소스 코딩 도우미 - YouTube](https://www.youtube.com/watch?v=T76NbeTdDFA)
+    * [개발자 터미널에 AI 에이전트가?.... 구글, 오픈소스 '제미나이 CLI' 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35422)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
@@ -1115,6 +1124,7 @@ Artificial Intelligence
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
+* [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
@@ -1189,6 +1199,8 @@ Artificial Intelligence
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+  * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
+    * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
