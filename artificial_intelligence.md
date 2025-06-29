@@ -313,6 +313,7 @@ Artificial Intelligence
   * [VidiGo The AI-First Data Infrastructure | Barak Yagour.mp](https://vidigo.ai//share/summary/3c5c303e6a69)
   * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
 * [다시 보기 8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19317/)
+* [Theo van Kraay - Data Challenges for Scaling Multi-Agent GenAI Apps with Python | PyData London 25 - YouTube](https://www.youtube.com/watch?v=S9U96uLJoLg)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
