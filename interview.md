@@ -338,6 +338,7 @@ Interview
 * [글로벌 칼럼 | 직장으로서의 AWS에 대해 잘 알려지지 않은 것 - ITWorld Korea](https://www.itworld.co.kr/news/206629)
 * [Amazon PIP 호러 스토리 | GeekNews](https://news.hada.io/topic?id=5902)
 * [2022 회고.. 가 아닌 해고 썰 · JSLEE'S DEV BLOG](https://sudojslee.github.io/posts/2022-amazon-layoff/)
+* [아마존 면접 때 묻는 이상한 질문 (제프 베조스에게 뽑히는 방법) - YouTube](https://www.youtube.com/watch?v=KfXbWlQ2QoM) Are you a lucky person?
 
 # Apple
 * [Top 30 Apple Coding Interview Questions (With Solutions) | by The Educative Team | Better Programming](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
