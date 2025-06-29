@@ -1561,7 +1561,9 @@ Git
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 * [Jandi | Disquiet\*](https://disquiet.io/product/jandi) 깃헙 잔디를 맥 상태바에서 손쉽게 볼 수 있게 도와주는 동기부여 도구
-* [jj: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
+* [Jujutsu docs](https://jj-vcs.github.io/jj/)
+  * [jj: A Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
+  * [JJ With Git is My New Favorite Workflow - YouTube](https://www.youtube.com/watch?v=ou4ZNRFXkO0)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
   * [How I improved my programming workflow with Lazygit - YouTube](https://www.youtube.com/watch?v=Ir3WD7a4MwI)
