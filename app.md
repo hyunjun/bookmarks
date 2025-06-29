@@ -1561,6 +1561,7 @@ App
       * [StreamPot - ffmpeg 을 API로 만들기 | GeekNews](https://news.hada.io/topic?id=16082)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
       * [vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구 | GeekNews](https://news.hada.io/topic?id=5252)
+    * [video-compressor-macos: MacOS 동영상 압축 스크립트](https://github.com/jvisualschool/video-compressor-macos)
 * 절전 모드 방지
   * Amphetamine
   * caffeinate [맥용 잠자기 방지 도구 caffeinate](https://seorenn.tistory.com/61)
