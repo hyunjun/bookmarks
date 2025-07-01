@@ -134,6 +134,7 @@ Finance
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
 * [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
 * [SCHD바닥 신호에서 사모아야 할 ETF 2개. - YouTube](https://www.youtube.com/watch?v=Qeidk7sOdQA) Tiger ACE SOL KODEX 미국배당다우존스, Tiger KODEX 미국배당커버드콜액티브
+* [배당률 최강 ETF: MSTY가 미친 배당을 주는 방법 (feat. ASTS 10,000주 모으기) - YouTube](https://www.youtube.com/watch?v=5ttq7FpGkIk)
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀 주식계좌 개설 꿀팁과 11가지 종목 - YouTube](https://www.youtube.com/watch?v=vxTV54VC-NE)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
