@@ -1336,6 +1336,8 @@ Javascript
       * 새 창을 여는 경우 rel=noopener를 사용하는 것이 좋으며, 마이크로태스크는 태스크보다 먼저 실행되어 렌더링에 영향 가능
       * 애니메이션을 만들 때는 requestAnimationFrame을 사용 필요
         * JavaScript 코드를 볼 때 '이게 뭔 용도지?'라는 의문이 생기면 과거 개발자가 왜 그렇게 했는지, 작동 방식 등 이해, 피할 수 있는 방법 찾아야 함
+* [**Node.js가 싱글스레드 서버라는 미신(feat. Node.js의 대용량 데이터 처리) | by twkim913 | NAVER Pay Dev Blog | Jun, 2025 | Medium**](https://medium.com/naverfinancial/node-js%EA%B0%80-%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%84%9C%EB%B2%84%EB%9D%BC%EB%8A%94-%EB%AF%B8%EC%8B%A0-feat-node-js%EC%9D%98-%EB%8C%80%EC%9A%A9%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-cf1d651290be)
+  * [Node.js가 싱글스레드 서버라는 미신(feat. Node.js의 대용량 데이터 처리) | by twkim913 | NAVER Pay Dev Blog | Jun, 2025 | M | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4837125/4086604)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
