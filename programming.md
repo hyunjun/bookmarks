@@ -7125,6 +7125,9 @@ Programming
   * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/06/b-6-1.html)
   * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/06/b-6-2.html)
   * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/06/b-6-3.html)
+  * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/06/b-6-4.html)
+  * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/07/b-7-1.html)
+  * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/07/b-7-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8485,6 +8488,7 @@ Programming
   * [스타트업에서의 모던 스태프 엔지니어링 | GeekNews](https://news.hada.io/topic?id=18310)
 * [The Hidden Costs of Running a Global Engineering Team and Recipes for Mitigation - Michael Bensoussan – Engineering & Leadership](https://michaelbensoussan.com/posts/challenges-of-global-engineering-teams/)
   * [글로벌 엔지니어링 팀을 운영하는데 숨겨진 비용과 이를 완화하는 방법 | GeekNews](https://news.hada.io/topic?id=19347)
+* [Software Development Principles by Masters - Fowler, Sajaniemi, Martin, Beck, Zimmermann · GitHub](https://gist.github.com/shane-shim/acc7d8b68aeb6d03af0ddd08c2d1de4c)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
