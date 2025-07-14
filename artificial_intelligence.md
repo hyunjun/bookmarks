@@ -282,6 +282,8 @@ Artificial Intelligence
 * [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
   * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
+* context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
+  * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -428,6 +430,7 @@ Artificial Intelligence
   * [AI로 아키텍처 다이어그램 그리기 :: ROBOCO](https://roboco.io/posts/how-to-draw-diagram/)
   * [Hello! Vibe - AI와 함께하는 스마트한 개발](https://hellovibe.io/)
   * [Vibe Coding의 미래: Agentic AI가 변화 시킬 시장 분석](https://whchoi98.notion.site/Vibe-Coding-Agentic-AI-21c04ef7e60e8040a4d6cb9d07ebd43f)
+  * [바이브 코딩으로 48시간 만에 250명 규모 해커톤 AI 심사 시스템 구축기 - tech.kakao.com](https://tech.kakao.com/posts/710)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -517,6 +520,7 @@ Artificial Intelligence
     * [Gemini CLI 소개 - YouTube](https://www.youtube.com/watch?v=KUCZe1xBKFM)
     * [6분 만에 배우는 Gemini CLI: Google의 무료 오픈 소스 코딩 도우미 - YouTube](https://www.youtube.com/watch?v=T76NbeTdDFA)
     * [개발자 터미널에 AI 에이전트가?.... 구글, 오픈소스 '제미나이 CLI' 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35422)
+    * [제미나이 CLI(Gemini CLI)로 쿠버네티스 관리하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3228/)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
@@ -627,6 +631,7 @@ Artificial Intelligence
   * [Getting Started with Apollo MCP Server for any GraphQL API | Apollo GraphQL Blog](https://www.apollographql.com/blog/getting-started-with-apollo-mcp-server-for-any-graphql-api)
   * [How We're Using MCP to Automate Real Workflows: 6 Working Use Cases | Runbear](https://runbear.io/posts/How-Were-Using-MCP-to-Automate-Real-Workflows-6-Working-Use-Cases)
   * [The Complete MCP Experience: Full Specification Support in VS Code](https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support)
+  * [주목할 만한 10가지 MCP 서버 | 블로그](https://www.claudemcp.com/ko/blog/10-awesome-mcp-servers)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -1005,7 +1010,9 @@ Artificial Intelligence
 * [Every time OpenAI launches something new, another 100 AI startups quietly die](https://www.linkedin.com/posts/zainjaffer_every-time-openai-launches-something-new-activity-7340775023361650689-_0k5/)
 * [Augmented Coding: Beyond the Vibes - by Kent Beck](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
   * [켄트 벡의 Augmented Coding: Beyond the Vibes 요약 및 추가 의견 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BC%2584%25ED%258A%25B8-%25EB%25B2%25A1%25EC%259D%2598-augmented-coding-beyond-vibes-%25EC%259A%2594%25EC%2595%25BD-%25EB%25B0%258F-%25EC%25B6%2594%25EA%25B0%2580-%25EC%259D%2598%25EA%25B2%25AC-toby-lee-mcy8e)
+* [바이브 코딩과 엔지니어링 성숙도 향상, 어느쪽이 먼저일까? :: ROBOCO](https://roboco.io/posts/vibe-coding-vs-engineering-maturity/)
 * [1인 유니콘의 조건: 혼자서 얼마나 많은 LLM 토큰을 쓸 수 있으신가요? - by Taeho](https://briandwjang.substack.com/p/1-llm)
+* [바이브 코딩 시대의 채용 전략 :: ROBOCO](https://roboco.io/posts/vibe-coding-hiring-strategy/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
