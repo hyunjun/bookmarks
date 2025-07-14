@@ -756,6 +756,8 @@ App
 * [8 Best Developers Tools for Linux | Linux Tutorial](https://blog4hacking.blogspot.com/2022/01/8-best-developers-tools-for-linux-linux.html)
 * [최고의 오픈 소스 개발 도구 Top 8 | 요즘IT](https://yozm.wishket.com/magazine/detail/1569/) VS Code, Budibase, Snyk, PostHog, Prisma, Gitlab, Storybook, Supabase
 * [Dev tools: The ex-Googler guide](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+* [2025년, 내가 선택한 프로그래머 필수 도구 Top10!](https://velog.io/@takuya/2025%EB%85%84-%EB%82%B4%EA%B0%80-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%ED%95%84%EC%88%98-%EB%8F%84%EA%B5%AC-Top10)
+  * 1. Apidog 2. Warp 3. Cursor 4. Todoist 5. GitKraken 6. GitHub Copilot 7. Figma 8. LM Studio 9. CodeRabbit 10. Firebase
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
