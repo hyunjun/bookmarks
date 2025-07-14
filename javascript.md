@@ -1137,6 +1137,7 @@ Javascript
 * [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
 * [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
 * [지연 평가(Lazy evaluation) 를 이용한 성능 개선](https://armadillo-dev.github.io/javascript/whit-is-lazy-evaluation/)
+* [ECMAScript 2025로 본 Lazy Evaluation — JavaScript와 Java에서 어떻게 다를까? | by Sunghyun Roh | Jul, 2025 | Medium](https://medium.com/@sunghyunroh/ecmascript-2025%EB%A1%9C-%EB%B3%B8-lazy-evaluation-javascript%EC%99%80-java%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-a6bce161cc91)
 * [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 * [How to enable ahead-of-time compilation in an Angular hybrid app](https://medium.freecodecamp.org/angular-hybrid-app-ahead-of-time-compilation-204ced918ec7)
 * [Angular Authentication: Using Route Guards](https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3)
