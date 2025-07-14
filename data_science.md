@@ -90,6 +90,7 @@ Data Science
 * [FMS(차량 관제 시스템) 데이터 파이프라인 구축기 2편. 신뢰성 높은 데이터를 위한 테스트 환경 구축기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/25/build-fms-data-pipeline-2.html)
 * [FMS(Fleet Management System) 주행이벤트 파이프라인 개선기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/06/11/fms-trip-event-pipeline.html)
 * [Data Pipelines Overview](https://www.linkedin.com/feed/update/urn:li:activity:7153537923546533888/)
+* [AI가 지켜보는 데이터 파이프라인: 노이즈 제거부터 장애 대응까지](https://d2.naver.com/helloworld/5251464)
 * [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
