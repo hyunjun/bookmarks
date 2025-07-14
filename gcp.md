@@ -171,6 +171,7 @@ Google Cloud Platform GCP
 * [Python GCP ubuntu에 아나콘다 설치 및 jupyter 자동 실행 - 미완성의신](https://unfinishedgod.netlify.app/2023/08/17/python-gcp-ubuntu-jupyter/)
 * [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 * [GCP 아주 간단한 파이썬에서 Google Gemini 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/01/09/gcp-google-gemini/)
+* [Gemini CLI와 GCP MCP Server 를 통한 Google Cloud 관리방안](https://seonggi.kr/272)
 * [tldraw computer](https://computer.tldraw.com/)
   * [Tldraw Computer - 자연어 컴퓨팅을 위한 무한 캔버스 | GeekNews](https://news.hada.io/topic?id=18386)
 * [Data Evolution: The Shift from AWS DMS to GCP Datastream - PortOne 기술블로그](https://developers.portone.io/blog/posts/2024-04/gcp-datastream/)
