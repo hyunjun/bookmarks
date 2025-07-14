@@ -2440,6 +2440,7 @@ NLP
   * [LLM 앱 성능, 여기서 갈립니다. 개발자라면 반드시 알아야 할 고급 아키텍처 4가지 (Agent,RAG,워크플로우,튜닝)- LLM 시스템 아키텍처 2 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4371245/3354426)
 * [LLM - Diffusion LLM vs Autoregressive LLM (근데 이제 논문을 곁들인...)](https://velog.io/@qlgks1/LLM-Diffusion-LLM-vs-Autoregressive-LLM-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EB%85%BC%EB%AC%B8%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8)
 * [LLM 추론 최적화를 위한 Dynamic Quantization](https://velog.io/@isanghao/LLM-%EC%B6%94%EB%A1%A0-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Dynamic-Quantization)
+* [데이터 인터페이스로서 LLM이 갖는 중요한 역할](https://brunch.co.kr/@graypool/2306)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
