@@ -303,6 +303,7 @@
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals](https://github.com/tracel-ai/burn)
   * [Rust AI - Burn DL Framework - YouTube](https://www.youtube.com/watch?v=pem68BWRXQo)
+* [C2Rust Demonstration](https://c2rust.com/)
 * [candle: Minimalist ML framework for Rust](https://github.com/huggingface/candle)
   * [Rust AI - Candle in Huggingface - YouTube](https://www.youtube.com/watch?v=2ID9qLjpaQE)
 * [cchead: head implementation with Rust](https://github.com/dnzk/cchead)
