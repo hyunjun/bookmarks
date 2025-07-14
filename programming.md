@@ -1631,7 +1631,6 @@ Programming
 * [open-apis-korea: 🇰🇷 한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
-* Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Platformatic Open Source Software | Platformatic OSS](https://oss.platformatic.dev/)
   * 내부 개발 플랫폼을 쉽게 만들 수 있게 API 개발을 도와주는 오픈소스 도구의 세트
   * 첫 도구는 데이터베이스를 API로 노출해 주는 Platformatic DB
@@ -1705,8 +1704,6 @@ Programming
 * [굿닥의 테크스택에 관하여 – 1 – 서버 스택편](http://dev.goodoc.co.kr/?p=10)
 * [멜론 빅데이터 이야기](http://www.popit.kr/%EB%A9%9C%EB%A1%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
-* [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
-* [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
 * [**Antman 프로젝트 개발기**](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
 * [카트 개발 연대기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/my-cart-development-history/)
 * [ODC를 구축한 기술 - Serverless, SPA, AWS Lambda Edge](https://blog.roto.codes/odc-tech-stack-aws-lambda-edge/)
@@ -2217,7 +2214,6 @@ Programming
 * [Cloud Native가 무슨 말인가?](https://brunch.co.kr/@graypool/751)
 * [Cloud Native가 만드는 규모의 경제](https://brunch.co.kr/@graypool/797) 응집력, 안전한 변경을 가능하게 하는가? Kent Beck
 * [Building the next-gen healthcare platform using cloud native bingo by Nils Béosier - YouTube](https://www.youtube.com/watch?v=mDj_3nr5hG4)
-* [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 – 시스템 구축 스토리 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2705/)
 * [How I scaled a software system's performance by 35,000% | by Joseph Gefroh | The Startup](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)

@@ -110,7 +110,6 @@ Business
 * [VDIASI23 - Tudor Juravlea - Design Thinking for teams who want to create their own products - YouTube](https://www.youtube.com/watch?v=TZniKdaXr1s)
 * [뉴 디자인싱킹이 필요할 때](https://brunch.co.kr/@cliche-cliche/194)
 * [Ramona Sartipi - When Design Thinking Meets Opensource | PyData Global 2023 - YouTube](https://www.youtube.com/watch?v=oNuFqBAHpxU)
-* [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
 * [A mile wide, an inch deep](https://medium.com/@ev/a-mile-wide-an-inch-deep-48f36e48d4cb)

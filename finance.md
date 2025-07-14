@@ -365,8 +365,6 @@ Finance
 
 # Javascript
 * [가상화폐 트레이딩 봇 만들기](https://brunch.co.kr/@skykamja24/542)
-* [iso20022.js](https://www.iso20022js.com/)
-  * [ISO20022.js - 몇줄의 코드만으로 국가간 은행 Payment 구현하기 | GeekNews](https://news.hada.io/topic?id=16244)
 * [joshephan/upbit_tradingbot](https://github.com/joshephan/upbit_tradingbot)
 
 # Library
@@ -386,6 +384,18 @@ Finance
   * [Wallstreetlocal – 미국 최대 투자자들의 투자 현황 조회 오픈소스 | GeekNews](https://news.hada.io/topic?id=13732)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
   * [우리은행 Developer](https://developer.wooribank.com/about-openapi)
+
+# Payment
+* [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
+* [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
+* [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
+* [Autumn - Pricing and Billing](https://useautumn.com/)
+  * [Autumn is an open-source pricing & billing platform](https://github.com/useautumn/autumn)
+  * [몇 줄의 코드로 SaaS 요금제를 자동화하다 – 오픈소스 빌링 플랫폼 Autumn](https://digitalbourgeois.tistory.com/1605)
+* [iso20022.js](https://www.iso20022js.com/)
+  * [ISO20022.js - 몇줄의 코드만으로 국가간 은행 Payment 구현하기 | GeekNews](https://news.hada.io/topic?id=16244)
+* [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
+* Stripe [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
