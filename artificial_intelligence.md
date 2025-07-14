@@ -995,6 +995,8 @@ Artificial Intelligence
 * [Trends - Artificial Intelligence | BOND](https://www.bondcap.com/reports/tai) Mary Meeker
 * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://www.linkedin.com/posts/leekh929_%EB%AA%A8%EB%93%A0-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%B6%A9%EA%B2%A9%EC%A0%81-%ED%98%84%EC%8B%A4-ai-vs-saas-%EC%A0%84%EC%9F%81-activity-7342367206992683009-Ciyr/)
   * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://jober.io/wall-write-document/8eed3ca9-62d2-49af-a9c2-e514e1ba792a)
+* [**The AI-Native Software Engineer | Substack**](https://substack.com/home/post/p-165160941)
+  * [AI-네이티브 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=21890)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
