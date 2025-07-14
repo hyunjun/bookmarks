@@ -711,6 +711,7 @@ SQL
   * [AWS에서 SQL Server의 재해 복구 아키텍처 설계: Part3 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part3/)
 * [Architect a disaster recovery for SQL Server on AWS: Part 4 | AWS Database Blog](https://aws.amazon.com/blogs/database/part-4-architect-a-disaster-recovery-for-sql-server-on-aws/)
   * [AWS에서 SQL Server를 위한 재해 복구 아키텍처 설계: 4부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part4/)
+* [database MSSQL 데이터베이스, EC2 우분투에 설치하고 SSMS로 접속하기 - 마도학자 로스카츠의 AI 머신러닝](https://losskatsu.github.io/database/mssql-ec2-ubuntu/)
 
 # MySQL
 * practice
