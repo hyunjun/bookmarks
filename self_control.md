@@ -152,3 +152,10 @@ Self Control
 
 * [100 Scrappy Things | Florin Pop](https://www.florin-pop.com/blog/100-scrappy-things/) Quality over quantity?
   * [100개의 소소한 것들(100 Scrappy Things) | GeekNews](https://news.hada.io/topic?id=17667)
+
+* [A receipt printer cured my procrastination ADHD](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
+  * [영수증 프린터가 내 미루는 버릇을 고쳐줌 | GeekNews](https://news.hada.io/topic?id=21421)
+  * [영수증 프린터로 할 일 관리 - 시작](https://jusths.tistory.com/482)
+  * [영수증 프린터로 할 일 관리 - 프린터 준비](https://jusths.tistory.com/483)
+  * [영수증 프린터로 할 일 관리 - 프린터 코드](https://jusths.tistory.com/484)
+  * [영수증 프린터로 할 일 관리 - MCP 서버 코드](https://jusths.tistory.com/485)
