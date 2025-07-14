@@ -2967,6 +2967,7 @@ Python
 * [Flask Web Framework - 생활코딩](https://opentutorials.org/course/4904)
 * [Python Flask Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y)
 * [Docker, Apache, Gunicorn을 사용하여 Flask 애플리케이션을 배포하는 방법](https://webnautes.tistory.com/2439)
+* [간단히 정리한 Flask 강좌](https://webnautes.kr/gandanhi-jeongrihan-flask-gangjwa/)
 * [darkmode-session: walk through darkmode with redis session clustering](https://github.com/cloudacode/darkmode-session)
   * [Build a dark/light mode feature with a session from scratch | by KC | Nov, 2022 | Medium](https://blog.cloudacode.com/build-a-dark-light-mode-feature-with-a-session-from-scratch-fc371c40dd69)
 
