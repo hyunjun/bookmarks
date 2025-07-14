@@ -227,6 +227,7 @@ Git
   * 실수 방어 도구 - git commit --amend, git commit --fixup [hash], git rebase --interactive main, git stash, git blame
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
+* [Git Email Workflow Made Easy: a Walkthrough — Dan's Musings](https://blog.djhaskin.com/blog/git-email-workflow-made-easy/)
 * [Include diagrams in your Markdown files with Mermaid | The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
   * 텍스트 기반으로 다이어그램을 그릴 수 있는 Mermaid를 GitHub에서 지원
   * 이슈나 Pull Request 등 GitHub의 마크다운을 작성할 수 있는 곳에서 간단히 다이어그램 포함 가능
@@ -815,7 +816,6 @@ Git
   * [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
   * [git commit author 변경 (커밋 작성자 변경하기)](https://madplay.github.io/post/change-git-author-name)
   * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
-  * [Conventional Commits](https://www.conventionalcommits.org/ko/v1.0.0-beta.4/)
   * [Commit Often, Perfect Later, Publish Once—Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
   * [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
   * [Why should I write good commit messages? | by Ankit Muchhala | The Startup | Medium](https://medium.com/swlh/why-should-i-write-good-commit-messages-e15d37bf45cb)
@@ -825,6 +825,7 @@ Git
   * [How to Change the Author and Committer Name and Email of Multiple Commits in Git | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-change-the-author-and-committer-name-and-email-of-multiple-commits-in-git/)
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
+  * [Conventional Commits](https://www.conventionalcommits.org)
 * `config`
   * basics
 
