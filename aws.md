@@ -1155,6 +1155,7 @@ AWS
 * [Bare Metal Vs AWS: Is It Cheaper To Switch? | SysAdminXpert](https://sysadminxpert.com/bare-metal-vs-aws-is-it-cheaper-to-switch/)
 * [WebSocket 때문에 AWS 비용으로 $1M(13억) 내다가 절감한 방법 | GeekNews](https://news.hada.io/topic?id=17639)
 * [AWS의 숨겨진 비용 - YouTube](https://www.youtube.com/watch?v=xUKudCftBCw)
+* [👉 AWS 인프라 비용 절감기: 월 10억 → 5억. 안녕하세요. 디스커버리 커머스를 기반으로 “모두가 매일 사용하는 초저가… | by Yonghyun Kim | 레브잇 테크블로그 | Jul, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%B9%84%EC%9A%A9-%EC%A0%88%EA%B0%90%EA%B8%B0-%EC%9B%94-10%EC%96%B5-5%EC%96%B5-a42c4d174757)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
