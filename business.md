@@ -1142,6 +1142,9 @@ Business
 * [(조용히) 회사를 떠나게 하는 이유들 : 네이버 블로그](https://blog.naver.com/help2000/222867303150)
 * [글로벌 칼럼 | 기업이 '조용한 퇴직'을 방지하기 위해 해야 할 일 - ITWorld Korea](https://www.itworld.co.kr/news/254806)
 * [직원들은 회사가 아닌, 매니저를 떠난다](https://www.linkedin.com/posts/jungwook-park-%EB%B0%95%EC%A0%95%EC%9A%B1-1a22161b_%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%80-%ED%9A%8C%EC%82%AC%EA%B0%80-%EC%95%84%EB%8B%8C-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EB%96%A0%EB%82%9C%EB%8B%A4-mars%EC%97%90%EC%84%9C-9%EB%85%84%EA%B0%84-%EA%B7%BC%EB%AC%B4%ED%96%88%EB%8B%A4-activity-7288704313869094912-XPMP/) 퇴사
+* [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
+* [(PDF) Who Is Leaving and Why? The Dynamics of High-Quality Human Capital Outflows](https://www.researchgate.net/publication/367566724_Who_Is_Leaving_and_Why_The_Dynamics_of_High-Quality_Human_Capital_Outflows)
+  * [고성과자와 저성과자의 퇴사가 이후 조직에 어떤 영향을 주는지](https://www.linkedin.com/posts/sangjin-ahn-282374166_pdf-who-is-leaving-and-why-the-dynamics-activity-7341234514012028931-mDuD/)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -1164,7 +1167,6 @@ Business
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
 * [Why is recruiting developers so difficult?](https://polyfill.work/blog/why-is-recruiting-developers-so-difficult)
 * [물경력을 피하는 방법](https://brunch.co.kr/@zseo/59)
-* [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
 * [취업‧이직때 대박날 스타트업 고르는 법 - YouTube](https://www.youtube.com/watch?v=SuDldpt1Vlc)
