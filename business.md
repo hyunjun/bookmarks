@@ -2796,6 +2796,10 @@ Business
 * [중간 관리자의 딜레마, 어떤 리더로 성장해야 할까? - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/mid-level-manager-leadership-dilemma)
 * [언어 능력이 뛰어나면 기업 경영도 잘할까?](https://www.linkedin.com/posts/ki-soo-kim-6002905_ceo-sluslqqvzrwd-qsvsmpqvzrwd-activity-7328943766117982208-zxOw/)
 * [리더들이 놓치고 있는 몰락의 신호 ‘히든 피드백’](https://v.daum.net/v/20250605120106630)
+* [첫 팀장 경험이 망한 것 같다면 봐야하는 영상 (with. 한국 마이크로소프트 HR 디렉터 김형규) | 더 리더십 - YouTube](https://www.youtube.com/watch?v=LAgLQZD0dRA)
+  * [첫 팀장 경험이 망한 것 같다면 봐야하는 영상 (with. 한국 마이크로소프트 HR 디렉터 김형규) 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4989971/4329954)
+* [MS 디렉터가 말하는 진짜 리더십 "말 안 듣는 팀원은 이렇게 다룹니다" | 더 리더십 - YouTube](https://www.youtube.com/watch?v=ecWUexOQP0E)
+  * [MS 디렉터가 말하는 진짜 리더십 "말 안 듣는 팀원은 이렇게 다룹니다" | 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4989874/4329799)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3722,6 +3726,7 @@ Business
   * [네 명의 기획자, 누구에게 어떤 업무를 맡기는가](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%84%A4-%EB%AA%85%EC%9D%98-%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%88%84%EA%B5%AC%EC%97%90%EA%B2%8C-%EC%96%B4%EB%96%A4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EB%A7%A1%EA%B8%B0%EB%8A%94%EA%B0%80-activity-7253961821169016832-iuLp/)
 * [5 Technical Skills Product Managers Should Have](https://www.codecademy.com/resources/blog/technical-skills-for-product-managers/)
 * [27가지 PM의 고민과 답변](https://minieetea.com/woowacon-2024-pm-mentoring/)
+* [Beyond Coding: The PM’s Secret Weapon for Technical Discussions | by Mariam J. | Product Coalition](https://medium.productcoalition.com/beyond-coding-the-pms-secret-weapon-for-technical-discussions-4e4f0d9fbe6d)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
