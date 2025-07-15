@@ -3005,6 +3005,7 @@ NLP
       * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
     * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
       * [LangGraph 기반의 multi-agent는 사람의 글쓰기 사고 과정을 모방한 agent](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-langgraph-multiagent-activity-7242144172319653889-OpVr/)
+  * LangMem [Introduction](https://langchain-ai.github.io/langmem/)
   * [LangServe 리뷰 초간편 LLM 웹앱 제작 & 배포기능까지! 과연, Streamlit 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=mdzMBF56HOM)
   * [memory-agent](https://github.com/langchain-ai/memory-agent)
     * [LLM Agent에 장기 기억 심어주기](https://www.linkedin.com/posts/ee-juni_long-term-memory-agent-template-activity-7249925915353210880-HJQB/)
