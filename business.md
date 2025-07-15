@@ -2799,6 +2799,8 @@ Business
   * [첫 팀장 경험이 망한 것 같다면 봐야하는 영상 (with. 한국 마이크로소프트 HR 디렉터 김형규) 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4989971/4329954)
 * [MS 디렉터가 말하는 진짜 리더십 "말 안 듣는 팀원은 이렇게 다룹니다" | 더 리더십 - YouTube](https://www.youtube.com/watch?v=ecWUexOQP0E)
   * [MS 디렉터가 말하는 진짜 리더십 "말 안 듣는 팀원은 이렇게 다룹니다" | 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4989874/4329799)
+* “기대-관찰-간극” 프레임워크 [Keeyong Han 님의 스타트업 리더십 워크샵](https://www.linkedin.com/posts/minchul-jung-3007ab2a_eo-planet-%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%8A%94-keeyong-han-%EB%8B%98%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%A6%AC%EB%8D%94%EC%8B%AD-activity-7350307113539149824-ndUZ)
+  * “간극” 과 “기대” 를 어떻게 채워야 하는지로 대화의 결론이 이동하면서 각자 앞으로 해야할 Action item이 도출 되었고 이것은 서로에게 큰 도움이 되는 경험
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
