@@ -758,6 +758,8 @@ App
 * [Dev tools: The ex-Googler guide](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2025년, 내가 선택한 프로그래머 필수 도구 Top10!](https://velog.io/@takuya/2025%EB%85%84-%EB%82%B4%EA%B0%80-%EC%84%A0%ED%83%9D%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%ED%95%84%EC%88%98-%EB%8F%84%EA%B5%AC-Top10)
   * 1. Apidog 2. Warp 3. Cursor 4. Todoist 5. GitKraken 6. GitHub Copilot 7. Figma 8. LM Studio 9. CodeRabbit 10. Firebase
+* [프로그래머 필독! 일상 개발을 획기적으로 효율화하는 최신 도구 8선](https://velog.io/@takuya/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%ED%95%84%EB%8F%85-%EC%9D%BC%EC%83%81-%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%9A%8D%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%9A%A8%EC%9C%A8%ED%99%94%ED%95%98%EB%8A%94-%EC%B5%9C%EC%8B%A0-%EB%8F%84%EA%B5%AC-8%EC%84%A0)
+  * 1. Apidog 2. Capture 3. Flowchart 4. Astuto 5. Livecodes 6. Fly.io 7. Checkmate 8. SQL Playground
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
