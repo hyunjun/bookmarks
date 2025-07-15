@@ -528,6 +528,9 @@ Artificial Intelligence
   * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
     * 초고도화된 리서치 프로젝트를 오픈소스로 공개
     * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
+  * [GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors)
+    * [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
+    * [Park Chansung - 구글의 GenAI Processor 라는 오픈소스 공개 지난 주 Google에서... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid0zDwoVAu9ZdTDt74CGwkf4jLHJvJ13e65fVhktYXRnqb1e2BCpJ6ULJXALkqCn348l)
 * [Gemma - a family of lightweight, state-of-the art open models from Google.  |  Google AI for Developers](https://ai.google.dev/gemma/)
   * [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/)
   * [colab에서 gemma를 사용해봤어요](https://webnautes.tistory.com/2275)
@@ -1457,6 +1460,9 @@ Artificial Intelligence
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
   * [구글 미쳤다! 2025 구글 IO에서 월 200달러짜리 OpenAI Codex를 '무료'로 풀었다고?? - YouTube](https://www.youtube.com/watch?v=PRP9FyJQLvw)
+* [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
+  * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
+  * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
