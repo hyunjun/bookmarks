@@ -125,6 +125,7 @@ Web
     * 4. `@font-face` 를 잘 사용
       * `@font-face` 선언은 폰트를 바로 다운로드 X `font-family` 에 해당 폰트를 적용해야 다운로드(상세한 사용 방법도 공유)
     * 5. 일반적인 웹 성능 최적화도 잘 적용
+* [백엔드 속이는 프론트엔드 성능 최적화, ‘Optimistic UI’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3211/) 백엔드에 요청을 보내는 즉시, 성공 여부를 기다리지 않고 화면을 업데이트하는 패턴
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [요즘 '모던' 프론트엔드 개발하려면 알아야할 것들 - YouTube](https://www.youtube.com/watch?v=ZM55pce2AkY)
