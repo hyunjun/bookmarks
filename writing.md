@@ -134,6 +134,9 @@ Writing
 * [당신의 글에 숨어있는 불필요한 부사들](https://brunch.co.kr/@cliche-cliche/241)
 * [글을 쓰는 사람과 그렇지 않은 사람 | GeekNews](https://news.hada.io/topic?id=17452)
 * [임승수 - <출판 계약 시 예비 저자가 알아두면 좋은 것> 출판사와 처음으로 계약을 추진하게 되면, 예비 저자는... | Facebook](https://www.facebook.com/chamworld/posts/pfbid02Yxk2HKdKtEdfkgRjAi27odNtgVcywpBfERoMiMs6qQcYRvGxtEfsf1yWLdktsCf7l)
+* [The Anatomy of An Amazon 6-Page | PDF](https://www.scribd.com/document/576952168/The-Anatomy-of-an-Amazon-6-page?v=0.099)
+  * [공유 아마존의 6페이지 문서 / 제시 프리먼 : 네이버 블로그](https://blog.naver.com/naks1/222202841510)
+  * [아마존의 상징 '6페이지 문서', 어떻게 쓰는지 들여다봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/amazon6pagers20201118)
 
 # App
 * latex
