@@ -1103,6 +1103,7 @@ SQL
 * [MAMP의 MySQL 포트가 3306이 아닌데도 localhost라고만 적었을 때 접속이 되는 이유 – 형우의 웹개발](https://mytory.net/archives/16179)
 * [VARCHAR vs. TEXT, 뭐가 다를까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2726/)
 * [CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2717/)
+* [MySQL 의 Geospatial Index (1) – Changhyun Lee – software engineer](https://chang12.github.io/mysql-geospatial-index-1/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
