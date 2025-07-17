@@ -2448,6 +2448,8 @@ NLP
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
   * [42dot LLM 1.3B](https://42dot.ai/blog/178)
+* [A.X-4.0: SKT A.X LLM 4.0](https://github.com/SKT-AI/A.X-4.0)
+  * [SKT에서 개발한 상용 LLM 인 A.X 4.0 LLM 개발과정](https://www.linkedin.com/posts/skt-a-x_skt%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EC%83%81%EC%9A%A9-llm-%EC%9D%B8-ax-40-llm-%EA%B0%9C%EB%B0%9C%EA%B3%BC%EC%A0%95-%EA%B7%B8-%EB%91%90-ugcPost-7345373784654139392-9zm1/)
 * [AdalFlow: The library to build & auto-optimize any LLM task.](https://github.com/SylphAI-Inc/AdalFlow)
   * [Unites Research and Production — AdalFlow: The Library to Build and Auto-Optimize LLM Task Pipelines](https://adalflow.sylph.ai/)
   * [adalflow_object_count_auto_optimization.ipynb - Colab](https://colab.research.google.com/drive/1n3mHUWekTEYHiBdYBTw43TKlPN41A9za?usp=sharing)
@@ -3352,6 +3354,7 @@ NLP
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
+  * [아직도 Streamlit으로 챗봇 만드신다면 보세요 feat.OpenWebUI, Msty, AnythingLLM - YouTube](https://www.youtube.com/watch?v=4Hx1uE6UYnw)
 * [oscar - Git at Google](https://go.googlesource.com/oscar)
   * [Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처 | GeekNews](https://news.hada.io/topic?id=16291)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
