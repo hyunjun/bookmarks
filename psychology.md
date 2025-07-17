@@ -38,6 +38,9 @@ Psychology
   * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
   * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)
 * [실패](https://interpiler.com/2019/04/09/1302/) 펄서 행성 발견에 관련된 이야기
+* [How I turned seemingly ‘failed’ experiments into a successful Ph.D. | Science | AAAS](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
+  * [원병묵 - 실패로부터 배우기! 실험에 실패했지만 '실패 경험'을 공유하여 성공적으로 박사를 마친 Shreya... | Facebook](https://www.facebook.com/bmweon/posts/pfbid02wAhS2iz4uMRMt9YM1rvSpoBLGsuVvjmW3oyqGqfWJPtjrAMUcESqWeMhW7BvZ777l)
+    * 교훈: 실패는 성공을 위한 정상적인 과정입니다. 실패를 극복하는 좋은 방법은 실패를 동료에게 오픈하고 협력하는 것입니다
 * [똑똑한 사람이 나쁜 결정을 내리는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/221326)
 * [일상생활에서 자존감을 높이는 방법들](https://imgur.com/a/xTHuEbJ)
   * [정신과 의사가 알려준 자존감 확실히 높이는 법](https://youtu.be/KWm9asILbnE)
