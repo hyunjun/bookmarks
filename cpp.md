@@ -513,6 +513,7 @@ C++
 * [Back to Basics: Concurrency - YouTube](https://www.youtube.com/watch?v=5pYKAoD3Apk)
 * [C++ Threads for beginners. Hi guys and girls ;). I am going to… | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/c-threads-for-beginners-f2da778bc4e2)
 * [How to debug Linux multi threaded code - Greg Law - Meeting C++ 2024 - YouTube](https://www.youtube.com/watch?v=KhcbRC8LDvo)
+* [C++에서 안정적인 멀티 스레드 코드를 위한 스레드 안전성 개념 정리](https://d2.naver.com/helloworld/2774577)
 * [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 
 # Tutorial
