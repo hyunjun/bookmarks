@@ -2116,6 +2116,7 @@ Docker
 * [what-would-a-kubernetes-2-0-look-like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
   * [Kubernetese 2.0은 어떤 모습일까 | GeekNews](https://news.hada.io/topic?id=21571)
 * [Kubernetes GPU 클러스터에서 AI 서비스 오토스케일링하기](https://d2.naver.com/helloworld/0251755)
+* [쿠버네티스 컨테이너 한방 정리 #3 - 일프로님의 블로그 - 인프런 | 커뮤니티](https://www.inflearn.com/blogs/3576)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
