@@ -2692,6 +2692,8 @@ NLP
   * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
   * [이미지도 찰떡같이 이해하는 카카오의 멀티모달 언어모델 Kanana-v 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/667)
   * [허깅페이스 Pre-Trained 모델 로컬에서.. : 네이버블로그](https://blog.naver.com/ulsancoding/223791843957)
+  * [카카오 AI Safety 팀에서 AI 가드레일 모델 3종을 오픈소스로 공개](https://www.linkedin.com/posts/kyunghoon-kim-8b5962bb_%EC%B9%B4%EC%B9%B4%EC%98%A4-ai-%EA%B0%80%EB%93%9C%EB%A0%88%EC%9D%BC-%EB%AA%A8%EB%8D%B8-kanana-safeguard-%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7333679267026739200-vXbC/)
+    * [카카오 AI 가드레일 모델, Kanana Safeguard 시리즈를 소개합니다. - tech.kakao.com](https://tech.kakao.com/posts/705)
   * kanana nano
     * [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
     * [카카오 카나나 kanana nano 나노 모델.. : 네이버블로그](https://blog.naver.com/ulsancoding/223785754788)
@@ -4976,13 +4978,13 @@ NLP
 * [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * [Mapping Medium’s Tags](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
 * [Exploring Word2Vec](http://sujayskumar.blogspot.com/2017/03/exploring-word2vec_3.html)
-* [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
 * Word2Vec 모델 기초
   * [(1) - 개념 정리](http://pythonkim.tistory.com/92)
   * [(2) - 코드 분석](http://pythonkim.tistory.com/93)
 * [Text Embedding Models Contain Bias. Here's Why That Matters](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
   * WEAT 테스트는 목표 단어 세트(예 : 아프리카계 미국인 이름, 유럽계 미국인 이름, 꽃, 곤충)와 속성 단어 세트 (예 : "안정", "즐거운"또는 "불쾌한")를 모델이 연관시키는 정도를 측정
   * 두개의 주어진 단어 사이의 연관성은 단어에 대한 임베딩 벡터 사이의 코사인 유사성으로 정의
+* [Text Embedding Paper를 읽고자 하는 이들을 위한 히치하이커 가이드](https://aifactory.space/task/9170/overview)
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [PyData Tel Aviv Meetup: Node2vec - Elior Cohen](https://www.youtube.com/watch?v=828rZgV9t1g)
@@ -5042,6 +5044,7 @@ NLP
 * [role2vec - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018)](https://github.com/benedekrozemberczki/role2vec)
 * [semantic-grep: grep for words with similar meaning to the query](https://github.com/arunsupe/semantic-grep)
   * [Semantic Grep - Word2Vec 기반 검색 도구 | GeekNews](https://news.hada.io/topic?id=16056)
+* [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
 * [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
 * [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
 * [word2vec4kor](https://github.com/bage79/word2vec4kor)
