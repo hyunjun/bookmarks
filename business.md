@@ -1114,6 +1114,13 @@ Business
 * [좋은 인재의 세가지 특징 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25A2%258B%25EC%259D%2580-%25EC%259D%25B8%25EC%259E%25AC%25EC%259D%2598-%25EC%2584%25B8%25EA%25B0%2580%25EC%25A7%2580-%25ED%258A%25B9%25EC%25A7%2595-yung-nok-chun-1e/) 열망 호기심 주도성. 다소 뻔하지만 중요한 이야기
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
 * [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
+* [스타트업에서 핵심인력을 구성하고 채용하는 방법 : 네이버 블로그](https://blog.naver.com/dmchoi888/222695901389)
+* [스타트업의 핵심인력이 가져야할 조건 1편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696110781)
+* [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
+* [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
+* [스타트업에서 핵심인재는 떠나게 되어 있다](https://brunch.co.kr/@5e7ac6b8a3314c9/74)
+  * 다 좋은 이야기, 특히 개발자 이외의 직군을 쉽게 대체할 수 있다는 생각은 잘못되었다는 점에 동의
+* [핵심인재는 채용보다 성장 방법이 더 중요](https://www.linkedin.com/posts/elfpenguin_%ED%95%B5%EC%8B%AC%EC%9D%B8%EC%9E%AC%EB%8A%94-%EC%B1%84%EC%9A%A9%EB%B3%B4%EB%8B%A4-%EC%84%B1%EC%9E%A5-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EB%8D%94-%EC%A4%91%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%B6%80%EC%A0%9C-%ED%83%80%EA%B3%A0%EB%82%A8%EB%B3%B4%EB%8B%A4-%EC%84%B1%EC%9E%A5%EA%B3%BC%EC%A0%95%EA%B3%BC-activity-7346091754636382209-ADXw/)
 * [떡상할 회사의 채용 과정 공통점 4가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244787)
 * [채용하는데 2주, 퇴사하는데도 2주? 넷플릭스, '부검 메일'로 퇴사 문화 만들어 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=4247)
 * [백종화 A급 직원의 퇴사에는 이유가 있다](http://www.apparelnews.co.kr/news/news_view/?idx=192806)
@@ -1181,9 +1188,6 @@ Business
 * [A급 인재는 A급을 추천할까?](https://brunch.co.kr/@seanchoi-hr/28)
 * [스타트업을 위한 아웃바운드 채용 팁 8가지. 힘들게 발품, 손품을 팔고 계실 스타트업 채용담당자 분들께 도움이… | by Dayoung Seo | Apr, 2022 | Medium](https://dayoungseo.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%9B%83%EB%B0%94%EC%9A%B4%EB%93%9C-%EC%B1%84%EC%9A%A9-%ED%8C%81-a5eac6d9135e)
 * [채용 브랜딩을 왜 하실건데요? 스타트업 밑바닥 HR ③ | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing3/)
-* [스타트업에서 핵심인력을 구성하고 채용하는 방법 : 네이버 블로그](https://blog.naver.com/dmchoi888/222695901389)
-* [스타트업의 핵심인력이 가져야할 조건 1편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696110781)
-* [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
 * [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
 * [스타트업 인재 채용, ‘보상 설계’가 중요합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiresystem20220825)
 * [“네 사진도 언젠간 여기 걸릴 것이라 생각하면 설레지 않니?”](https://contents.premium.naver.com/saramin/waytowork/contents/221118103945167kd) 즉각적인 보상에 대한 이야기
@@ -1214,7 +1218,6 @@ Business
 * [‘처음 3년’을 버텨라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/207638) 경력 인재
 * [전 Uber 리크루팅 디렉터이자 현 Fynd의 CEO인 Andrew의 방식](https://www.linkedin.com/posts/recruitlucas_%EC%98%AC-%ED%95%98%EB%B0%98%EA%B8%B0%EC%97%90%EB%8A%94-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%B6%84%EC%95%BC%EC%9D%98-%EA%B5%AC%EB%A3%A8%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%A0%84-uber-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%94%94%EB%A0%89%ED%84%B0%EC%9D%B4%EC%9E%90-activity-7008367388123439104-eBxr/)
 * [미국 TOP 리크루터가 알려주는 스타트업 채용의 비밀](https://brunch.co.kr/@olivialee/30)
-* [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
 * [비즈니스 인사이트 외부 전문가를 영입할 때 종종하는 실수](https://n.news.naver.com/article/015/0004812238)
 * [Candidate Journey 설계에 5A Model 활용하기](https://www.linkedin.com/feed/update/urn:li:activity:7018436948591603712/)
 * [스타트업 대표가 놓치기 쉬운 채용 팁 8가지](https://eopla.net/magazines/2706)
@@ -1222,8 +1225,6 @@ Business
 * [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs) Behavioral Event Interview
 * [스타트업 팀 빌딩, 채용 타겟팅이 성패를 좌우합니다](https://blog.wehire.kr/recruitment-targeting/)
 * [초기 스타트업 상황별 필요한 인재상 정리](https://eopla.net/magazines/5307)
-* [스타트업에서 핵심인재는 떠나게 되어 있다](https://brunch.co.kr/@5e7ac6b8a3314c9/74)
-  * 다 좋은 이야기, 특히 개발자 이외의 직군을 쉽게 대체할 수 있다는 생각은 잘못되었다는 점에 동의
 * [한기용 - 매니저 채용시 꼭 물어봐야하는 질문들](https://www.linkedin.com/feed/update/urn:li:activity:7092713884716847104/)
 * [5년차 프론트엔드 개발자 이직 후기](https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0) 5개 회사 케이스 참고 가능
 * [인스타그램보다 오래 쓰는 AI 사진 앱의 탄생 | 팀러너스](https://teamlearners.career.greetinghr.com/) 채용 페이지로서도 좋고, 회사 및 business에 대한 소개로도 좋다고 생각
@@ -1242,6 +1243,8 @@ Business
 * [최고의 개발자들을 붙잡아 두는 법 | GeekNews](https://news.hada.io/topic?id=16019)
 * [Your company needs Junior devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
   * [당신 회사는 주니어 개발자가 필요해요 | GeekNews](https://news.hada.io/topic?id=16682)
+* [채용도 투자 유치처럼 접근해야 성공할 수 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiring20220722)
+* [채용이란 무엇인가? - Google Docs](https://docs.google.com/document/d/1HVmOG4-_mgpqUDPCqPLjfRfl91JbnBPiVH7zy9XEiiI/edit?tab=t.0)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1448,6 +1451,7 @@ Business
 * [Everything vs. Anything - The Startup CEO blog](https://startupceo.com/2023/11/everything-vs-anything)
   * [번역 Everything vs. Anything (모든 것 vs. 무엇이든) | Daily Log](https://jiyeonseo.github.io/2023/11/19/everything-vs-anything/)
 * ["하면 된다"의 시대는 이미 지나간 지 오래다. 이제는 최소의 비용으로 실험해 보고 "되면 한다"의 시대](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7302447691622477826-cwO4/)
+* [모든 창업자, CEO들이 귀담아 들어야 할 말](https://www.linkedin.com/posts/douglasguen_%EB%AA%A8%EB%93%A0-%EC%B0%BD%EC%97%85%EC%9E%90-ceo%EB%93%A4%EC%9D%B4-%EA%B7%80%EB%8B%B4%EC%95%84-%EB%93%A4%EC%96%B4%EC%95%BC-%ED%95%A0-%EB%A7%90-%EC%B5%9C%EA%B3%A0%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EA%B3%A0-%EA%B6%8C%EB%A0%A5%EC%9D%84-%EA%B0%80%EC%A1%8C%EB%8B%A4%EA%B3%A0-activity-7346088309313388544-DD9x/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -3057,6 +3061,9 @@ Business
   7. 내란의 기동성 뒤에는 TF가 있다
   8. 쇠퇴하는 조직의 문화, 조직 침묵
 * [집을 짓는데 기초 공사와 기둥과 보, 문과 창호가 필요한 것처럼, 200명 이상 규모의 모든 기업에겐, 경쟁력 있는 지속성장을 위한 필수 요소들이 있다](https://www.facebook.com/wonjoon.hyoung/posts/pfbid0vWqV2sfdKPADuL7qCNAVPK1dMfsJK1A3rEysaYY8i96z56KuPZsAbiQQLe8q3rWgl)
+* [worry about great engineers getting lost in the system in large software companies](https://www.linkedin.com/feed/update/urn:li:activity:7345831181164191744/)
+  * [이상적인 매니지먼트라면 이렇게 getting lost되는 사람이 없도록 해야](https://www.linkedin.com/posts/spike-jee-480225a_i-often-worry-about-great-engineers-%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-activity-7346284320636006401-z9mW/)
+  * [I often worry about great engineers getting lost in the system in large softwa | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5025793/4385175)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -3286,6 +3293,7 @@ Business
 * [SaaS 성공의 핵심은 신규 고객 유치가 아니다](https://www.linkedin.com/posts/jhyunpark_saas-churnabrrate-stwtnsrcg-activity-6969945898332151808-L6wD/) 기존 유저의 이탈률(Churn rate)
 * [**SaaS 비즈니스의 15개의 metrics**](https://maily.so/saascenter/posts/01722a3f)
 * [SaaS 고객도 모르는 고객의 모든 것을 알아내기](https://blog.gangnamunni.com/post/find-what-customers-really-want/)
+* [올해도 어김없이 공개된 SaaS GTM 바이블](https://www.linkedin.com/posts/leekh929_iconiq-gtm-report-ugcPost-7344308443475824640-z5ya/)
 * [The ultimate list of product metrics for PMs](https://www.linkedin.com/posts/pawel-huryn_the-ultimate-list-of-product-metrics-ugcPost-7111709371503435777-vPl3/)
 * [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
 * [Calm: 바이럴 제품 만들기](https://aerial-tip-118.notion.site/Calm-ac1caa71c6a94ac09aab9f33eb36d59a)
