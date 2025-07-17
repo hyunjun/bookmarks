@@ -164,6 +164,10 @@ Programming
   * 이 디자인 문서는 빠른 반복을 통해서 발전시킨 뒤 여러 리뷰를 거치고 구현하고 이후 유지 관리하며 시간이 지나 다시 학습에 사용하는 생명주기
 * [설계가 잘 쓰이려면 독자와 쓰임새가 분명해야 한다](https://brunch.co.kr/@graypool/1779)
 * [거창하지 않아도 괜찮을 수 있는 설계 - 엘키의 주절 주절](https://elky84.github.io/2024/11/03/design/)
+* [향후 변경에 대비해 코드가 얼마나 유연해야 하는지 기준](https://www.linkedin.com/posts/fupfin_%EC%98%A4%EB%8A%98-%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%84%EC%9D%98-%ED%8C%A8%EB%84%90-%ED%86%A0%EC%9D%98%EC%97%90%EC%84%9C-%ED%96%A5%ED%9B%84-%EB%B3%80%EA%B2%BD%EC%97%90-%EB%8C%80%EB%B9%84%ED%95%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%9C%A0%EC%97%B0%ED%95%B4%EC%95%BC-activity-7344747961416880130-YETh/)
+  * 설계에는 정답이 없다
+  * 어떨 때는 이것이 좋고 어떨 때는 저것이 좋을 수 있으니 가능한 단순하게 만들라
+  * 상대적인 문제라는 사실을 빨리 깨우칠수록 더 자유롭고 다양한 설계의 가능성을 즐길 수 있다
 * [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
@@ -1394,6 +1398,7 @@ Programming
   * 많은 기업들이 스크럼을 겉치레로만 도입하면서 정작 중요한 팀의 자율성, 협업, 고객 중심 사고 등은 놓치고 있다
   * [ChatGPT - Scrum Sage: Zen Edition](https://chatgpt.com/g/g-pajO1fBss-scrum-sage-zen-edition)
 * [애자일 원칙을 위한 새로운 접근, 스크럼의 한계를 고민하다 - ITWorld Korea](https://www.itworld.co.kr/news/353539)
+* [한성희 - PO가 꼭 알아야 할 것 #24 우리 팀은 애자일일까, 스크럼일까? 헷갈리는 개념 "이 회사는 애자일을... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid0oZhTHvusRxZaLvfqMNYfJcJBZpMxHvw5KzQuK6ecCVimGfhbNvJqvMBw1tbd8hbjl)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -3436,6 +3441,8 @@ Programming
   * [마이크로서비스는 스타트업이 감당할 수 없는 세금임 | GeekNews](https://news.hada.io/topic?id=20814)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
+  * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
+    * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 리뷰](https://velog.io/@bik1111/APISIX%EB%A1%9C-11%EB%B2%88%EA%B0%80-Open-API-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8B%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-%EB%A6%AC%EB%B7%B0)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -3993,6 +4000,7 @@ Programming
   * 의외로 많은 Azure DC와 의외로 적은 Google DC. Google은 cloud 사업에는 별 뜻이 없을까?
 * [Public Cloud의 새 레퍼런스를 만드는 사람들](https://brunch.co.kr/@kakaobankplus/122?li_fat_id=1e54f775-02ab-4c1c-b7de-1ba845641595)
 * [비 대신, 가뭄을 주는 구름(cloud) – Interpreting Compiler](https://interpiler.com/2024/07/12/%eb%b9%84-%eb%8c%80%ec%8b%a0-%ea%b0%80%eb%ad%84%ec%9d%84-%ec%a3%bc%eb%8a%94-%ea%b5%ac%eb%a6%84cloud/)
+* [클라우드 보안의 핵심 도전과제: 보안 강화와 DevOps 협업의 균형점 찾기](https://velog.io/@lufianlee/Cloud-security-journey01)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -4047,6 +4055,7 @@ Programming
 * [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 * [GCP Google Cloud Platform](gcp.md)
 * [Gigalixir](https://www.gigalixir.com/)
+* [CloudBro AI - CloudBro AI](https://www.cloudbro.ai/)
 * [Golem Cloud](https://golem.cloud/)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
