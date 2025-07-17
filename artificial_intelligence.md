@@ -1267,6 +1267,8 @@ Artificial Intelligence
   * [Claude Code 만들기](https://www.facebook.com/groups/langchainkr/posts/3318180704984305)
     * [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) Claude Code 프롬프트
     * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
+  * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code?ref=stdy.blog)
+    * [요약 번역 How I use Claude Code (+ my best tips) by Steve Swell](https://www.stdy.blog/summary-of-how-i-use-claude-code-my-best-tips-by-steve-swell/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
