@@ -259,6 +259,7 @@ Artificial Intelligence
 * [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
   * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
+* [AI 로 만든 여행 일정 서비스, 부족한 데이터로 시작한 실험 | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/ai-%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EC%A1%B1%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%8B%A4%ED%97%98-919296cec080)
 * context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
