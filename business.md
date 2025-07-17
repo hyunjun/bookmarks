@@ -68,6 +68,9 @@ Business
 * [Managing and Overcoming Burnout (feat. Mannerism, Slump) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out-en/)
   * [번아웃을 통제하고 이겨내는 방법(feat. 매너리즘, 슬럼프) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out/)
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
+* [Reflections on OpenAI](https://calv.info/openai-reflections) 1인당 약 78k의 PR은 LLM/AI로 작성하는 게 아니라면 불가능할 걸로 생각하는 수치
+  * [OpenAI에 대한 회고 | GeekNews](https://news.hada.io/topic?id=22012)
+  * [OpenAI 퇴사썰 푼다 : 네이버 블로그](https://blog.naver.com/bizucafe/223936400781)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
 * [How Google Blew Up Its Open Culture and Compromised Its Product](https://www.bigtechnology.com/p/how-google-blew-up-its-open-culture)
