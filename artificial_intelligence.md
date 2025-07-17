@@ -263,6 +263,11 @@ Artificial Intelligence
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
+* misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
+  * [Agentic Misalignment: How LLMs could be insider threats \ Anthropic](https://www.anthropic.com/research/agentic-misalignment)
+    * [(1) Tae Hyung Kim - 방금 인공지능 스타트업 앤트로픽(Anthropic)이 자사의 대형 언어 모델(LLM)에... | Facebook](https://www.facebook.com/socialego/posts/pfbid02MXCzU2EjV6BqZ2qwsUZh5AvBRuwDEwB7NinmEe74YHCMDb1eJq7rtsGpcUA4swcrl)
+  * [Toward understanding and preventing misalignment generalization | OpenAI](https://openai.com/index/emergent-misalignment/)
+* [최승준 - 향후 10년의 방향 최근 봤던 일련의 팟캐스트들의 행간에서 화자들이 비슷하면서도 다른 미디엄텀(5 -... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0njCpybQvqjFdEd9pkQVCyooEAEq6bbDnfpBVJFgr23zk16EfpKhq6dUMDB1T8U1hl)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -435,6 +440,9 @@ Artificial Intelligence
   * [Hello! Vibe - AI와 함께하는 스마트한 개발](https://hellovibe.io/)
   * [Vibe Coding의 미래: Agentic AI가 변화 시킬 시장 분석](https://whchoi98.notion.site/Vibe-Coding-Agentic-AI-21c04ef7e60e8040a4d6cb9d07ebd43f)
   * [바이브 코딩으로 48시간 만에 250명 규모 해커톤 AI 심사 시스템 구축기 - tech.kakao.com](https://tech.kakao.com/posts/710)
+  * [GitHub CEO: The AI Coding Gold Rush, Vibe Coding & Cursor - YouTube](https://www.youtube.com/watch?v=Gp-oPGYrQDs)
+    * [김영욱 - <AI 코딩 도구 시대에 소프트웨어 엔지니어가 "승리하기 위한 핵심"> GitHub CEO 토마스... | Facebook](https://www.facebook.com/youngwook.kim.7549/posts/pfbid02bf3n3vK4S49So3xVcWL7oY3A7tfQAwg8rraFvyxRY1Wm6t2k9YEP2RsGMQAYtQvJl)
+  * [재미로 하는 Vibe Coding - AI 코딩 시대의 신개념 리팩토링 – Prompt-Driven Restart - YouTube](https://www.youtube.com/live/VmSDRP1B6j4)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -515,7 +523,7 @@ Artificial Intelligence
   * [🔥Gemini 2.5 Pro-Exp: LMArena 1위! 구글의 최신 플래그십 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5%E2%99%8AGemini-25-Pro-Exp-LMArena-1%EC%9C%84-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EC%8B%A0-%ED%94%8C%EB%9E%98%EA%B7%B8%EC%8B%AD-AI-%EB%AA%A8%EB%8D%B8)
     * [Hands on with Gemini 2.5 Pro: why it might be the most useful reasoning model yet | VentureBeat](https://venturebeat.com/ai/beyond-benchmarks-gemini-2-5-pro-is-probably-the-best-reasoning-model-yet/)
       * [Gemini 2.5 Pro 사용 후기: 가장 유용한 추론 모델이 될 수 있는 이유... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0n9XvGMnHjgRJaEXkunnZoSQFwsePYMBVrd6VuHrVYSiimFZe3C1PAeAjavEXxekgl)
-  * [버튼 하나로 AI 가 코딩한 코드를 자동으로 실행하고, 구글 검색도 하고, 생각도 깊게 하게 만들기 - 개발자라면 알아야 하는 AI API의 숨겨진 기능!! - YouTube](https://www.youtube.com/watch?v=qQUwUZREoTQ)
+  * [**버튼 하나로 AI 가 코딩한 코드를 자동으로 실행하고, 구글 검색도 하고, 생각도 깊게 하게 만들기 - 개발자라면 알아야 하는 AI API의 숨겨진 기능!! - YouTube**](https://www.youtube.com/watch?v=qQUwUZREoTQ)
     * [잘알려지지 않은 Gemini의 유용한 기능-#1 Thinking & Context URL](https://bcho.tistory.com/1478)
     * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
@@ -531,6 +539,7 @@ Artificial Intelligence
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
     * ["이제 누구나 개발자! AI 코드 혁신 가속화"...구글, ‘제미나이 코드 어시스트’ 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34015)
+    * [더 똑똑해진 AI 코딩 도우미, Gemini Code Assist 2.5 업데이트 총정리](https://digitalbourgeois.tistory.com/1434)
   * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
     * 초고도화된 리서치 프로젝트를 오픈소스로 공개
     * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
@@ -1038,6 +1047,8 @@ Artificial Intelligence
 * [기업이 돈 되는 AI 도입을 위한 3가지 핵심전략...장동인 KAIST AI대학원 교수 “문제해결 아닌 문제정의가 핵심“ - 전자신문](https://www.etnews.com/20250626000082)
 * [The New Rules of AI Investing: Why Speed Beats Strategy and Labor Budget Is the New Software Budget with Google Cloud’s COO | SaaStr](https://www.saastr.com/the-new-rules-of-ai-investing-why-speed-beats-strategy-and-labor-budget-is-the-new-software-budget-with-google-clouds-coo/)
   * [구글 클라우드 COO가 말하는 구글이 가지 않을 길](https://www.linkedin.com/posts/leekh929_%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-coo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%80%EC%A7%80-%EC%95%8A%EC%9D%84-%EA%B8%B8-1-%EC%9A%94%EC%A6%98-%EA%B5%AC%EA%B8%80%EC%9D%B4-ai-activity-7337250900119343105-bPM7/)
+* [Seungwon Go - <일회용 애플리케이션 시대가 오고 있다> 인공지능이 개발의 거의 모든 단계를... | Facebook](https://www.facebook.com/seungwon.go.9/posts/pfbid0366n28eygDymzGnFf3Sm39Yevkkq9qaP6ttxvQct9PeNyuJaytrz7GP9dGZEFsmMxl)
+  * 남은 과제는 “당장의 불편을 해결할 작은 앱을 오늘 만들 용기가 있는가”라는 질문에 스스로 ‘예’라고 답하는 일뿐
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1242,6 +1253,8 @@ Artificial Intelligence
     * [https://bagerbach.com/blog/how-i-use-claude-code... - Google Docs](https://docs.google.com/document/d/1u66_r4g9JsH-z8FKK3xvmENj26irSvDvnlAWwgdR-kI/edit?tab=t.0)
     * [Custom command to open Claude Code with optimized configurations. · GitHub](https://gist.github.com/spilist/6b065cda20c0e75436d018e147f0cad9)
   * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
+  * [Claude Code時代のソフトウェアエンジニア生存戦略｜suthio](https://note.com/suthio/n/n4f79fbe4efda)
+    * [(2) 최진주 - <Claude Code 시대 개발자 생존전략> 클로드 코드가 나온 후 성능에 대한 찬사가 이어지고... | Facebook](https://www.facebook.com/pariscom/posts/pfbid023XVGk4o2QwJMtCziogV7LMbks5YRRpRtXGp2EqWi1GR3Qjedxis3qLB7H5syLxoAl)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
