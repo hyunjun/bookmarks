@@ -1277,6 +1277,7 @@ NLP
     * [Arch - 지능형 프롬프트 게이트웨이 | GeekNews](https://news.hada.io/topic?id=17438)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [Cluely System prompt](https://gist.github.com/cablej/ccfe7fe097d8bbb05519bacfeb910038)
+  * ['Cluely'의 시스템 프롬프트가 유출](https://www.linkedin.com/posts/jaeyunhenrylee_cluely%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-%EC%9C%A0%EC%B6%9C%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-ai%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%84-activity-7342544831841280000-Fv59/)
 * CoD Chain of Density
   * [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
   * [세밀한 요약을 위한 프롬프팅 Elment-Aware Summary Chain-of-Density (CoD) Prompting](https://www.linkedin.com/posts/ugcPost-7262473989036343297-Luji/)
@@ -1307,7 +1308,7 @@ NLP
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
-* [leaked-system-prompts: Collection of leaked system prompts](https://github.com/jujumilk3/leaked-system-prompts)
+* [leaked-system-prompts: Collection of leaked system prompts](https://github.com/jujumilk3/leaked-system-prompts) 빅테크 회사 시스템 프롬프트 유출 모음
 * [lecture/GPT/prompt at main · dremdeveloper/lecture · GitHub](https://github.com/dremdeveloper/lecture/tree/main/GPT/prompt)
 * [Maskara.ai](https://www.maskara.ai/)
   * [프롬프트 개선 서비스 사이트](https://www.linkedin.com/posts/duckjungkim_%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC-%EB%9D%BC%EB%8A%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EA%B0%9C%EC%84%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%A7%8C%EC%9D%BC-%EC%A0%9C%EA%B0%80-%EA%B0%84%EB%8B%A8%ED%95%9C-activity-7298698976835342337-Fre4/)
