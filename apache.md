@@ -858,6 +858,8 @@ Apache
 * [Apache Kafka for Developers #11: Creating and Managing Kafka Topics](https://millionvisit.blogspot.com/2025/01/apache-kafka-for-developers-11-creating-and-managing-kafka-topics.html)
 * [Apache Kafka for Developers #12: Setting Up a Kafka Producer in Node.js using KafkaJS](https://millionvisit.blogspot.com/2025/01/apache-kafka-for-developers-12-setting-up-a-kafka-producer-in-nodejs-using-kafkajs.html)
 * [Apache Kafka for Developers #13: Setting Up a Kafka Consumer in Node.js using KafkaJS](https://millionvisit.blogspot.com/2025/01/apache-kafka-for-developers-13-setting-up-a-kafka-consumer-in-nodejs-using-kafkajs.html)
+* [서비스 조직에서 Kafka를 사용할 때 알아 두어야 할 것들 (3)](https://d2.naver.com/helloworld/2472336)
+* [서비스 조직에서 Kafka를 사용할 때 알아 두어야 할 것들 (4)](https://d2.naver.com/helloworld/1025526)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
