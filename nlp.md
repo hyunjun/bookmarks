@@ -1269,6 +1269,7 @@ NLP
 * [Prompt Engineer, the Hottest AI Job of 2023, Is Already Obsolete - WSJ](https://www.wsj.com/articles/the-hottest-ai-job-of-2023-is-already-obsolete-1961b054)
   * [프롬프트 엔지니어에 대한 빗나간 예측](https://www.linkedin.com/posts/daleseo_the-hottest-ai-job-of-2023-is-already-obsolete-activity-7325994484641464322-jjnB/)
 * [추론모델은 프롬프트를 길게? 아니면 짧게 써야 할까? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=F4ExQ3P_A5w)
+* [ChatGPT에 아래 JSON 파일을 넣어 이미지를 생성해 보고, 다양한 형태로 활용](https://www.linkedin.com/posts/joshuamyungcho_chatgpt%EC%97%90-%EC%95%84%EB%9E%98-json-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%84%A3%EC%96%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%B4-%EB%B3%B4%EA%B3%A0-%EB%8B%A4%EC%96%91%ED%95%9C-activity-7342037736947666944-YPY8/)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -2385,6 +2386,8 @@ NLP
 * [Think about mid-sized LLM intelligence · The Missing Papers](https://docs.likejazz.com/llm-intelligence/)
   * [(4) 박상길 - 7B ~ 10B 사이의 중형 모델에 대한 지능 평가 결과를 소개합니다. 이 평가는 영어와 한국어 두 언어를... | Facebook](https://www.facebook.com/likejazz/posts/pfbid025aTaNhPjbsb2yb9HxnKS5gzfkpoypEKriyj6Jc3Wz39robaZ65vigogWigodLbPSl)
 * [MoE 정리 : A Survey on Mixture of Experts – Data Rabbit](https://flonelin.wordpress.com/2024/08/25/moe-%ec%a0%95%eb%a6%ac-a-survey-on-mixture-of-experts/)
+* [이 MoE 모델은 무료로 임베딩 해줍니다](https://obsidian-blog-gilt.vercel.app/paper-review/%EC%9D%B4%20MoE%20%EB%AA%A8%EB%8D%B8%EC%9D%80%20%EB%AC%B4%EB%A3%8C%EB%A1%9C%20%EC%9E%84%EB%B2%A0%EB%94%A9%20%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4/) PromptEOL 방법론
+  * [MoE LLM은 "추가 훈련 없이" 무료로 임베딩 모델로 사용할 수 있습니다](https://www.linkedin.com/posts/jeffrey-dongkyu_%EC%9D%B4-moe-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%9E%84%EB%B2%A0%EB%94%A9-%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-activity-7341380955334483968--BDG/)
 * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 * [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - tech.kakao.com](https://tech.kakao.com/posts/633)
 * [Jonas Kim - 지난주 AWS AI Day에서 'AI Agentic Workflow: 단순 업무 보조에서 비즈니스... | Facebook](https://www.facebook.com/aldente0630/posts/pfbid02VUugMrLApo6zftJv6UF4NGEtu9P2UQykm778tPE13ixdSFBXY6H3QobTW96sU5p6l)
@@ -3418,6 +3421,7 @@ NLP
     * [Qwen3 의 Hybrid thinking mode](https://devocean.sk.com/blog/techBoardDetail.do?ID=167448) Hybrid Thinking mode
     * [Qwen 3 (큐웬 3) MoE 서빙 최적화를 위한 사이오닉의 전략](https://blog.sionic.ai/qwen3-moe-upscaling)
       * [Qwen 3 (큐웬 3) 서빙 최적화를 위한 MoE 업스케일링 전략 | GeekNews](https://news.hada.io/topic?id=20946)
+    * [LLMs-from-scratch/ch05/11_qwen3 at main · rasbt/LLMs-from-scratch · GitHub](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/11_qwen3)
     * [Qwen3_(4B)-GRPO.ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3_\(4B\)-GRPO.ipynb)
       * [Qwen3: How to Run & Fine-tune | Unsloth Documentation](https://docs.unsloth.ai/basics/qwen3-how-to-run-and-fine-tune#fine-tuning-qwen3-with-unsloth)
       * [releasing a new advanced GRPO notebook to fine-tune Qwen3 for free](https://www.linkedin.com/posts/danielhanchen_were-releasing-a-new-advanced-grpo-notebook-activity-7328108784994656257-wNn8/)
