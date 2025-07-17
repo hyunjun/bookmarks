@@ -1786,6 +1786,7 @@ Web
   * [PyScript](https://paullabworkspace.notion.site/PyScript-537f89da75654273822767f9767c66fe)
   * [웹브라우저로 python 실행하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163882)
   * [Chris Laffra - PyScript - Python in the browser - YouTube](https://www.youtube.com/watch?v=5nseG-iU62g)
+  * [Chris Laffra - PyScript - Python in the Browser | PyData London 25 - YouTube](https://www.youtube.com/watch?v=ljPUuC85Au4)
 * [Mesop](https://google.github.io/mesop/)
   * [mesop](https://github.com/google/mesop)
   * [Google Mesop - 파이썬으로 웹앱 만들기 | GeekNews](https://news.hada.io/topic?id=15301)
