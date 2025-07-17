@@ -1269,6 +1269,7 @@ Artificial Intelligence
     * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
   * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code?ref=stdy.blog)
     * [요약 번역 How I use Claude Code (+ my best tips) by Steve Swell](https://www.stdy.blog/summary-of-how-i-use-claude-code-my-best-tips-by-steve-swell/)
+  * [클로드 동시에 10개씩 돌리며 뽕뽑는법 - YouTube](https://www.youtube.com/watch?v=0ZlDxNYdXf8)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
