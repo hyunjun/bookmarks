@@ -258,6 +258,7 @@ Monitoring
     * 각 저장소에서 워크플로우를 설정해서 바로 Datadog에 정보를 업데이트 가능
     * GitHub의 org 밑에 규칙 파일을 두어 `division` 태그를 필수로 검사하거나 유효한 `division`만 사용하게 한다든지 하는 조직적 관리 방법도 같이 설명
   * [Datadog Live with Devsisters 돌아보기](https://tech.devsisters.com/posts/datadog-live-talk/)
+  * [Best practices for modern frontend monitoring | Datadog](https://www.datadoghq.com/blog/modern-frontend-monitoring/)
   * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
     * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 * [data-prepper: Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale](https://github.com/opensearch-project/data-prepper)
