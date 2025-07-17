@@ -7434,6 +7434,8 @@ Programming
 * [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
 * [오픈소스 운영체제 100선 - WikiDocs](https://wikidocs.net/book/7739)
 * [외장 하드 드라이브에 ChromeOS(Google Play)를 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=fiUQqL8tilY)
+* [How we ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler | Fueled by Coffee](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+  * [집에서 만든 CPU와 C 컴파일러로 Xv6 유닉스 계열 OS를 구동한 경험 | GeekNews](https://news.hada.io/topic?id=21714)
 * [mjg59 | What the fuck is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
   * [SBAT란 무엇이며 왜 갑자기 모두가 관심을 가지는가 | GeekNews](https://news.hada.io/topic?id=16423)
 * netboot.xyz [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
