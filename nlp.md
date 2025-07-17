@@ -1683,7 +1683,6 @@ NLP
     * [발표 및 스탭 안내](https://2024langcon.oopy.io/ad8826ed-57f6-4a98-b864-3d5aadccc5c1)
 * [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
 * [이 선 넘으면 침범이야 BEEP! - 문지형 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P0fyKb3U9yo)
-* [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
 * [Highly-Scalable NLP to Answer Questions on COVID-19 WhatsApp Hotline | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=EzQ3i3yOZNY)
 * [Natural Language Processing: Trends, Challenges and Opportunities | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Y2WZEV-Ds-o)
 * [Using NLP to Detect Knots in Protein Structures — Eva Klimentová - YouTube](https://www.youtube.com/watch?v=Kah5QOWnLrM)
@@ -3027,9 +3026,6 @@ NLP
     * [07-RAG/09-RAPTOR-Long-Context-RAG.ipynb at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/blob/main/07-RAG/09-RAPTOR-Long-Context-RAG.ipynb)
 * [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
-* [lbox-open](https://github.com/lbox-kr/lbox-open)
-  * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
-* [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
   * [Home · aymara/lima Wiki](https://github.com/aymara/lima/wiki)
 * [lingoose: 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines](https://github.com/henomis/lingoose)
@@ -3752,6 +3748,13 @@ NLP
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
 * [retriever-simple-benchmark: Make running benchmark simple yet maintainable, again. Now only supports Korean-based cross-encoder](https://github.com/instructkr/retriever-simple-benchmark)
   * [가볍고 효율적인 RAG 모델 평가 코드 프로젝트 | GeekNews](https://news.hada.io/topic?id=18501)
+
+# Law
+* [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
+* [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
+* [lbox-open](https://github.com/lbox-kr/lbox-open)
+  * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
+* [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 
 # LDA Latent Dirichlet Allocation
 
