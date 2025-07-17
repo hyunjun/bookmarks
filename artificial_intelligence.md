@@ -249,6 +249,22 @@ Artificial Intelligence
   * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
   * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
 * [김유신 - 기업에서 AI를 구축하고 활용하려고 할 때, 가장 큰 난관은 무엇일까요? 저는 Data 라고 생각합니다.... | Facebook](https://www.facebook.com/neotevan/posts/pfbid0sMVGxjdtbxoE8WVWHDL63aryzbPUmCnFukmjep2XMwQHHWQN4hNNQ1R5xD9pFV9Tl)
+* [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
+* [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
+* [이제 디자인 프로세스는 뒤집어진다: 프로토타이핑 먼저, 디자인은 나중에](https://www.linkedin.com/posts/leedavid_ai-ux-engineer-%EC%9D%BC%EA%B8%B0-1-%EC%9D%B4%EC%A0%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8A%94-%EB%92%A4%EC%A7%91%EC%96%B4%EC%A7%84%EB%8B%A4-activity-7304693309455708160-ez_n/)
+  * 결론: 프로토타입이 중심이 되는 새로운 개발 문화
+  * 엔지니어분들은 정말 엔지니어링에 힘쓸수 있는 시기. 어떻게 하면, 빨리, 더 안정되게, 더 오래 지속되게, scalableg하게, 더 efficient 하게
+* [재택근무로 가능했던 일, 전부 AI가 할 수 있습니다 - by Taeho - 브라이언의 이어지는 이야기](https://briandwjang.substack.com/p/ai-085)
+* [AI, 그리고 Engineer | Jbee.io](https://jbee.io/articles/essay/ai-and-engineer)
+* [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
+  * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
+* [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
+* context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
+  * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
+* [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
+  * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
+
+# AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
   * AI Agent, AI agentic, AI assistant 차이
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
@@ -272,22 +288,8 @@ Artificial Intelligence
 * [JobKorea LOOP 에이전트 개발기: 3. 잡코리아 정보 검색 에이전트 | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84-%EC%A0%95%EB%B3%B4-%EA%B2%80%EC%83%89-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-a938ca92066d)
 * [AI 에이전트 커머스 혁명: 쇼핑의 주체가 AI로 바뀌는 시대](https://thecore.media/aiagentcommerce/)
 * [Mohamed Rashad - Taking AI Agents from Prototype to Production - YouTube](https://www.youtube.com/watch?v=uDysrELDjMw)
-* [senior-care-agent: Senior Care Agent Recipe using LiveKit & Twilio](https://github.com/Marker-Inc-Korea/senior-care-agent)
-  * [AI Agent로 독거노인 안부전화까지? 실제로 구현](https://www.linkedin.com/posts/taehalim_voiceai-livekit-openai-ugcPost-7341067060782764032-o3Da/)
-* [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
-* [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
-* [이제 디자인 프로세스는 뒤집어진다: 프로토타이핑 먼저, 디자인은 나중에](https://www.linkedin.com/posts/leedavid_ai-ux-engineer-%EC%9D%BC%EA%B8%B0-1-%EC%9D%B4%EC%A0%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8A%94-%EB%92%A4%EC%A7%91%EC%96%B4%EC%A7%84%EB%8B%A4-activity-7304693309455708160-ez_n/)
-  * 결론: 프로토타입이 중심이 되는 새로운 개발 문화
-  * 엔지니어분들은 정말 엔지니어링에 힘쓸수 있는 시기. 어떻게 하면, 빨리, 더 안정되게, 더 오래 지속되게, scalableg하게, 더 efficient 하게
-* [재택근무로 가능했던 일, 전부 AI가 할 수 있습니다 - by Taeho - 브라이언의 이어지는 이야기](https://briandwjang.substack.com/p/ai-085)
-* [AI, 그리고 Engineer | Jbee.io](https://jbee.io/articles/essay/ai-and-engineer)
-* [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
-  * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
-* [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
-* context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
-  * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
-* [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
-  * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
+* [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
+  * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -351,8 +353,6 @@ Artificial Intelligence
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
 * [The Best Agent Framework Has Arrived (Coding Tutorial for PydanticAI w/ OpenAI, Ollama, AzureOpenAI) - YouTube](https://www.youtube.com/watch?v=xVe87QpNE80)
-* [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
-  * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 * [A2A](https://github.com/google/A2A)
   * [Home](https://google.github.io/A2A/)
   * [/staticttps://a2a.dev/.html](https://a2a.dev/)
@@ -468,6 +468,7 @@ Artificial Intelligence
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
+* [Embabel · GitHub](https://github.com/embabel)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
 * [Firebase Studio](https://firebase.google.com/docs/studio)
   * [Firebase Studio](https://studio.firebase.google.com/)
@@ -525,6 +526,7 @@ Artificial Intelligence
     * [6분 만에 배우는 Gemini CLI: Google의 무료 오픈 소스 코딩 도우미 - YouTube](https://www.youtube.com/watch?v=T76NbeTdDFA)
     * [개발자 터미널에 AI 에이전트가?.... 구글, 오픈소스 '제미나이 CLI' 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35422)
     * [제미나이 CLI(Gemini CLI)로 쿠버네티스 관리하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3228/)
+    * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
@@ -639,6 +641,8 @@ Artificial Intelligence
   * [How We're Using MCP to Automate Real Workflows: 6 Working Use Cases | Runbear](https://runbear.io/posts/How-Were-Using-MCP-to-Automate-Real-Workflows-6-Working-Use-Cases)
   * [The Complete MCP Experience: Full Specification Support in VS Code](https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support)
   * [주목할 만한 10가지 MCP 서버 | 블로그](https://www.claudemcp.com/ko/blog/10-awesome-mcp-servers)
+  * [channel-talk-integration-mcp 결과를 공유합니다!](https://channelio.notion.site/channel-talk-integration-mcp-21a74b55ec7c8081a7a9f8a95e26822d)
+    * [단 한 줄로 Channel Talk을 붙일 수 있는 MCP를 공개](https://www.linkedin.com/posts/byeongchan-park-249472367_channeltalk-mcp-cursor-activity-7342691615557263362-jWnJ/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -727,6 +731,8 @@ Artificial Intelligence
   * [screenpipe - 데스크탑의 모든 데이터를 가져오는 API | GeekNews](https://news.hada.io/topic?id=18198)
 * [Screenshot to Code](https://screenshottocode.com/)
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
+* [senior-care-agent: Senior Care Agent Recipe using LiveKit & Twilio](https://github.com/Marker-Inc-Korea/senior-care-agent)
+  * [AI Agent로 독거노인 안부전화까지? 실제로 구현](https://www.linkedin.com/posts/taehalim_voiceai-livekit-openai-ugcPost-7341067060782764032-o3Da/)
 * [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
   * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
 * [Stanford Webinar - Agentic AI: A Progression of Language Model Usage - YouTube](https://www.youtube.com/watch?v=kJLiOGle3Lw)
@@ -869,6 +875,8 @@ Artificial Intelligence
   * [AI 에이전트 - 기회, 도전 과제, 그리고 일상에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=18727)
   * [권정혁 - AI 에이전트 - 기회, 도전 과제, 그리고 일상에 미치는 영향 "AI 에이전트"는 최근 18개월 동안... | Facebook](https://www.facebook.com/xguru/posts/pfbid02eePJ1HHN1quziasnw1iqDvz3jFYpKTwi5Tovyax9MJ5py5NvU9PysdpH1PLwaA9Cl)
 * [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
+* [AI가 기존 SaaS 가격 모델을 어떻게 변화 시키고 있는가](https://maily.so/saascenter/posts/g1o4k9vvrve)
+  * [AI가 가져올 SaaS 가격 모델의 변화와 전략에 관한 글](https://www.linkedin.com/posts/jinseo-jang-2554b651_ai%EA%B0%80-%EA%B8%B0%EC%A1%B4-saas-%EA%B0%80%EA%B2%A9-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%99%94-%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-activity-7343770450902073344-VAZv/)
 * ["AI 여친에게 월 1000만원을 쓴다" AI 연인 비즈니스 한판 정리](https://maily.so/founderstory/posts/6531f0e2)
 * [Can AI Startups Outrun Dot-Com Bubble Comparisons? Investors Aren’t So Sure. - WSJ](https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0)
   * [AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다. | GeekNews](https://news.hada.io/topic?id=15580)
@@ -1131,6 +1139,8 @@ Artificial Intelligence
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
   * [FELO 파워포인트 120장 만들어주는 괴물같은 생성형 AI 서비스 펠로 - YouTube](https://www.youtube.com/watch?v=XGnsPWrnRrY)
+* [fireplexity: 🔥 Blazing-fast AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl](https://github.com/mendableai/fireplexity)
+  * [Firecrawl Tools - AI-Powered Web Scraping & Data Enrichment](https://tools.firecrawl.dev/fireplexity)
 * [FLORA ©](https://www.florafauna.ai/)
   * [이미지를 업로드하거나 텍스트 입력으로 이미지를 생성할 뿐아니라 (마치 비지오처럼) 노드를 연결해서 계속 새로운 형태로 변형](https://www.linkedin.com/posts/duckjungkim_%ED%8F%89%EC%86%8C%EC%97%90-ai%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%82%98-%EC%98%81%EC%83%81%EC%9D%84-%EB%A7%8C%EB%93%A4-%EA%B8%B0%ED%9A%8C%EA%B0%80-%EC%97%86%EC%97%88%EB%8A%94%EB%8D%B0-%EC%9D%B4-%ED%88%B4%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EB%8B%88-activity-7319369168649170945-DVEY/)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
