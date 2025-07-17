@@ -1202,6 +1202,8 @@ Artificial Intelligence
     * [AI로 어려운 코드를 튜토리얼로 변환하기 - YouTube](https://www.youtube.com/watch?v=cJpw-0QosVQ)
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
+* [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
+  * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
 * [Revyl](https://www.revyl.ai/) AI를 통해 test를 한다고 하는 도구
 * [Reworkd](https://auth.reworkd.ai/)
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
