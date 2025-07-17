@@ -8300,6 +8300,14 @@ Programming
 * [배민스토어 서비스개발 팀장의 일반셀러 프로젝트 진행기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13030/)
 * [The Art of Software Development • Sander Mak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fUVfkLUmII4)
 * [How to Run Pre-Mortem Exercises Templates Included](https://www.atlassian.com/team-playbook/plays/pre-mortem) post mortem과 반대로 미리 실패를 가정해보고 어떤 요인에 의해서 그런지 분석하고 예방하는 방법
+* [프로젝트가 매번 비슷한 난관에 빠지는 주요 원인은 인간의 미래 예측 능력이 구조적으로 낙관 편향을 띠기 때문](https://www.linkedin.com/posts/sryoo_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%A7%A4%EB%B2%88-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%82%9C%EA%B4%80%EC%97%90-%EB%B9%A0%EC%A7%80%EB%8A%94-%EC%A3%BC%EC%9A%94-%EC%9B%90%EC%9D%B8%EC%9D%80-%EC%9D%B8%EA%B0%84%EC%9D%98-%EB%AF%B8%EB%9E%98-%EC%98%88%EC%B8%A1-%EB%8A%A5%EB%A0%A5%EC%9D%B4-activity-7342026175575113730-5T5Z/)
+  * 심리학자 대니얼 카너먼과 아모스 트버스키가 소개한 ‘플래닝 폴라시(Planning Fallacy)’ 연구
+    * 뇌가 확률적 사고 대신 ‘서사적 확실성’을 선호
+  * 이 악순환을 끊으려면 ‘호행(護行) 전략’이 필요
+  * 먼저 프로젝트 착수 단계에서 ‘프리모텀(Pre-mortem)’을 도입해 보는 것이 효과적
+  * 일정과 예산에는 의도적으로 ‘안전 마진’을 포함
+  * 거대한 일정을 한 번에 잠그기보다는 짧은 주기로 결과물을 검증하고, 매 반복마다 요구사항과 가정을 업데이트
+  * 팀 문화 차원에서 ‘블레임리스(blameless) 회고’
 * [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
 * [진짜 문제는 무엇이고, 가장 중요한 변수는 무엇인가?](https://brunch.co.kr/@graypool/1128) 기술 이야기는 아니나 중요한 부분, 생산 시스템의 심장 = 코드, 가장 중요한 변수, 고객 분류
 * [한빛N 개발 생산성 향상을 위한 체크리스트 12가지 - 기술과 환경의 변화 - YouTube](https://www.youtube.com/watch?v=kk7ujbXFaPg) joel test의 cloud version
@@ -8498,6 +8506,8 @@ Programming
 * [The Hidden Costs of Running a Global Engineering Team and Recipes for Mitigation - Michael Bensoussan – Engineering & Leadership](https://michaelbensoussan.com/posts/challenges-of-global-engineering-teams/)
   * [글로벌 엔지니어링 팀을 운영하는데 숨겨진 비용과 이를 완화하는 방법 | GeekNews](https://news.hada.io/topic?id=19347)
 * [Software Development Principles by Masters - Fowler, Sajaniemi, Martin, Beck, Zimmermann · GitHub](https://gist.github.com/shane-shim/acc7d8b68aeb6d03af0ddd08c2d1de4c)
+* [Monolith or Microservices? - by Khang Tran](https://testinprod.substack.com/p/monolith-or-microservices)
+  * [소프트웨어 엔지니어링의 여러 분야에서 진짜 대단한 고수 엔지니어들... 특징은 탄탄한 기본기, 어떤 코드가 좋은 코드인가 및 어떤 설계가 좋은 설계인가에 대한 감각, 문제에 대한 깊은 이해, clear하고 논리적이고 비판적인 사고, 본질과 핵심을 추구하는 성향, 실행력](https://www.linkedin.com/posts/spike-jee-480225a_monolith-or-microservices-activity-7343750811992150018-Pptf/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
