@@ -284,6 +284,8 @@ Artificial Intelligence
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
 * context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
+* [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
+  * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -1019,6 +1021,11 @@ Artificial Intelligence
 * [바이브 코딩과 엔지니어링 성숙도 향상, 어느쪽이 먼저일까? :: ROBOCO](https://roboco.io/posts/vibe-coding-vs-engineering-maturity/)
 * [1인 유니콘의 조건: 혼자서 얼마나 많은 LLM 토큰을 쓸 수 있으신가요? - by Taeho](https://briandwjang.substack.com/p/1-llm)
 * [바이브 코딩 시대의 채용 전략 :: ROBOCO](https://roboco.io/posts/vibe-coding-hiring-strategy/)
+* [Project Vend: Can Claude run a small shop? (And why does that matter?) \ Anthropic](https://www.anthropic.com/research/project-vend-1)
+  * [AI가 진짜 장사를 한다면? Claude의 한 달간 실전 창업기](https://www.linkedin.com/posts/wondaero_ai%EA%B0%80-%EC%A7%84%EC%A7%9C-%EC%9E%A5%EC%82%AC%EB%A5%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-claude%EC%9D%98-%ED%95%9C-%EB%8B%AC%EA%B0%84-%EC%8B%A4%EC%A0%84-%EC%B0%BD%EC%97%85%EA%B8%B0-ugcPost-7345006464844894208-Sgwy/)
+* [기업이 돈 되는 AI 도입을 위한 3가지 핵심전략...장동인 KAIST AI대학원 교수 “문제해결 아닌 문제정의가 핵심“ - 전자신문](https://www.etnews.com/20250626000082)
+* [The New Rules of AI Investing: Why Speed Beats Strategy and Labor Budget Is the New Software Budget with Google Cloud’s COO | SaaStr](https://www.saastr.com/the-new-rules-of-ai-investing-why-speed-beats-strategy-and-labor-budget-is-the-new-software-budget-with-google-clouds-coo/)
+  * [구글 클라우드 COO가 말하는 구글이 가지 않을 길](https://www.linkedin.com/posts/leekh929_%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-coo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%80%EC%A7%80-%EC%95%8A%EC%9D%84-%EA%B8%B8-1-%EC%9A%94%EC%A6%98-%EA%B5%AC%EA%B8%80%EC%9D%B4-ai-activity-7337250900119343105-bPM7/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1216,6 +1223,11 @@ Artificial Intelligence
   * [Claude Code 시작하기](https://aifactory.space/page/claude/forum/discussion/4543)
   * [How Anthropic teams use Claude Code](https://whchoi98.notion.site/How-Anthropic-teams-use-Claude-Code-20b04ef7e60e80febfb1d3581905f99a)
   * [클로드 코드 설치 5분 컷! | VS 코드, 커서 AI 통합 사용법 - YouTube](https://www.youtube.com/watch?v=J0IWxZXczxs)
+  * [How I use Claude Code | Christian B. B. Houmann](https://bagerbach.com/blog/how-i-use-claude-code/)
+    * [배휘동 - 굉장히 좋은 클로드 코드 팁 모음 글을 발견했습니다.... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0rCvLoWSmmqnzcgiaECxo79Qi8fH2d89J8fS9S5tBFohnfxenoQ4DDVa1YnwtuPn7l)
+    * [https://bagerbach.com/blog/how-i-use-claude-code... - Google Docs](https://docs.google.com/document/d/1u66_r4g9JsH-z8FKK3xvmENj26irSvDvnlAWwgdR-kI/edit?tab=t.0)
+    * [Custom command to open Claude Code with optimized configurations. · GitHub](https://gist.github.com/spilist/6b065cda20c0e75436d018e147f0cad9)
+  * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
