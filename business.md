@@ -163,6 +163,7 @@ Business
   * 기존 고객을 유지하고 재구매를 유도하기 위해 한 번 더 판매하고 묶어서 판매하는 전략 소개
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
+* [고객들은 'ChatGPT 스타일'을 원하는 게 아니라 'ChatGPT 편의성'을 원하는](https://www.linkedin.com/posts/dohwan-kim-b76a38299_%EC%9A%B0%EB%A6%AC%EB%8F%84-chatgpt-%EA%B0%99%EC%9D%80-%EA%B1%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94-%EA%B3%A0%EA%B0%9D%EC%82%AC-%EB%AF%B8%ED%8C%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-activity-7343420164517875713-Lp4a/)
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장에서 공감이 필요한 이유](https://www.traw.io/blog/why-you-need-empathy-at-work)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
@@ -2806,6 +2807,8 @@ Business
   * [MS 디렉터가 말하는 진짜 리더십 "말 안 듣는 팀원은 이렇게 다룹니다" | 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4989874/4329799)
 * “기대-관찰-간극” 프레임워크 [Keeyong Han 님의 스타트업 리더십 워크샵](https://www.linkedin.com/posts/minchul-jung-3007ab2a_eo-planet-%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%8A%94-keeyong-han-%EB%8B%98%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%A6%AC%EB%8D%94%EC%8B%AD-activity-7350307113539149824-ndUZ)
   * “간극” 과 “기대” 를 어떻게 채워야 하는지로 대화의 결론이 이동하면서 각자 앞으로 해야할 Action item이 도출 되었고 이것은 서로에게 큰 도움이 되는 경험
+* [리더가 6월에 꼭 해야 할 업무 '반기 평가' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/half20240620)
+  * [리더가 해야 할 역할... '팀원의 성과 창출을 위한 조력자(assistant)'](https://www.linkedin.com/posts/cys712_%EB%A6%AC%EB%8D%94%EA%B0%80-6%EC%9B%94%EC%97%90-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%97%85%EB%AC%B4-%EB%B0%98%EA%B8%B0-%ED%8F%89%EA%B0%80-activity-7343088333289361409-xV77/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
