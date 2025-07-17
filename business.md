@@ -1192,6 +1192,9 @@ Business
 * [스타트업 인재 채용, ‘보상 설계’가 중요합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiresystem20220825)
 * [“네 사진도 언젠간 여기 걸릴 것이라 생각하면 설레지 않니?”](https://contents.premium.naver.com/saramin/waytowork/contents/221118103945167kd) 즉각적인 보상에 대한 이야기
 * [세계 최고 뇌 과학자가 말하는 보상을 바라면 망하는 이유 | 앤드류 후버만 Andrew Huberman - YouTube](https://www.youtube.com/watch?v=_IpS020giJ4) 내재적 보상
+* [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
+* [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
+* [성과가 뛰어난 직원을 보상하지 못하면, 그들은 스스로를 보상한다](https://www.linkedin.com/posts/byunggwon-bang_rumsmxsxbtrh-milkovich-hrswkruv-activity-7351377600436453377-Aojq/)
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
@@ -1366,8 +1369,6 @@ Business
     * 평가는 대상자가 제출하는 성과 보고서를 기준으로 진행
 * [우리는 성과를 잘못 알고 있다 < 김영학의 직장에서 살아남기 < 전문가칼럼 < 오피니언 < 기사본문 - 이코노믹리뷰](https://www.econovill.com/news/articleView.html?idxno=377271)
 * [Reinventing Performance Management](https://hbr.org/2015/04/reinventing-performance-management)
-* [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
-* [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
 * [평가자에게 당부하고 싶은 것 < 인사관리 < 아티클 < 기사본문 - 월간 인재경영](https://www.abouthr.co.kr/news/articleView.html?idxno=5247)
 * [등급이라는 후광이 착시를 일으킨다! - YouTube](https://www.youtube.com/watch?v=IDvW4Ul1aHI)
 * [The rise and fall of peer review - by Adam Mastroianni](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
@@ -3075,6 +3076,7 @@ Business
 * [‘마이크로 매니징은 해법 아니다’ 개발자 관리 방안 7가지 - CIO Korea](https://www.ciokorea.com/news/225789)
 * ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27556423)
 * [마이크로매니징에서 벗어나는 위임의 힘 - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/delegation-leadership-strategy)
+* [좋은 리더가 되기 위해선 '마이크로 매니지먼트'와 '디테일 매니지먼트'의 차이를 이해하고 실전에서 적용할 수 있어야](https://www.linkedin.com/posts/do-young-kim-1436423a_%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%A0-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%94%94%ED%85%8C%EC%9D%BC-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%9D%98-activity-7335490104288755712-y-Mf/)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -4066,6 +4068,7 @@ Business
 * [IT 기업 이직 Tip. 공헌이익 파악하기](https://brunch.co.kr/@yongjinjinipln/115)
 * [“이직은 가장 잘나갈 때 하는 겁니다” (전 우버 아시아 채용총괄 앤드류 김) - 티타임즈](https://www.ttimes.co.kr/article/2023091217327771196)
 * [이직할 시점일까?](https://www.linkedin.com/posts/joonchon_stwtfnqterpy-tecreeslqsyoslu-tfnsutqlwqtkqsc-activity-7314815717197918208-E4Ow/)
+* [이직 성공률이 높은 인재들의 특징](https://www.linkedin.com/posts/%EB%B0%95%ED%98%B8%EC%A7%84%EC%9D%B4%EC%82%AC_unarguumctps-stwtfn-ukhqsb-activity-7350895012299034625-NdyI/)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
