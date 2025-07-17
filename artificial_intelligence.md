@@ -444,6 +444,7 @@ Artificial Intelligence
   * [GitHub CEO: The AI Coding Gold Rush, Vibe Coding & Cursor - YouTube](https://www.youtube.com/watch?v=Gp-oPGYrQDs)
     * [김영욱 - <AI 코딩 도구 시대에 소프트웨어 엔지니어가 "승리하기 위한 핵심"> GitHub CEO 토마스... | Facebook](https://www.facebook.com/youngwook.kim.7549/posts/pfbid02bf3n3vK4S49So3xVcWL7oY3A7tfQAwg8rraFvyxRY1Wm6t2k9YEP2RsGMQAYtQvJl)
   * [재미로 하는 Vibe Coding - AI 코딩 시대의 신개념 리팩토링 – Prompt-Driven Restart - YouTube](https://www.youtube.com/live/VmSDRP1B6j4)
+  * [바이브 코딩 교육의 3가지 허들을 넘는 방법](https://www.stdy.blog/vibe-coding-session-difficulty-three-reasons/)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
