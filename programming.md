@@ -2035,6 +2035,7 @@ Programming
 * [Neal Ford and Mark Richards - Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
 * [오버엔지니어링과 언더엔지니어링의 경계](https://huns.me/posts/2019-09-26-overengineering-vs-underengineering)
 * [Avoiding the Temptation to Over-Engineer • Jessica Cregg • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=h4pH0JsasVk)
+* [부트캠프의 함정, 오버엔지니어링 – IT의 중심에서](https://subokim.wordpress.com/2025/06/20/overengineering/)
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Microservices: Mono repo vs. multiple repositories](https://jaxenter.com/microservices-mono-repo-vs-multiple-repositories-130148.html)
@@ -7451,6 +7452,7 @@ Programming
 # Parser
 * [Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
+* [파서만들기 - YouTube](https://www.youtube.com/playlist?list=PLjWlHC7K-T-mTU5kcc0qLSu5tBiqCM64o)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
   * [**카카오페이만의 AB 테스트 서비스를 만든 이유 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/kakaopay-growth-platform-abtest/)
