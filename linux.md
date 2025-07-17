@@ -146,6 +146,7 @@ Linux
 * [poll vs select vs event-based](https://daniel.haxx.se/docs/poll-vs-select.html)
 * [poll on mac 10.12 is broken | daniel.haxx.se](https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/)
 * [How We Saved Millions in SSD Costs by Upgrading Our Filesystem - Heap](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ZFS
+* [ZFS ARC thrashing 현상 대응 방법](https://velog.io/@skynet/ZFS-ARC-thrashing-%ED%98%84%EC%83%81-%EB%8C%80%EC%9D%91-%EB%B0%A9%EB%B2%95)
 * [Why Folders are Called Directory in Linux?](https://itsfoss.com/folder-directory-linux)
 * [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
 * [구글 클라우드 셸: 간편하게 리눅스 환경 마련하기](https://jhrogue.blogspot.com/2022/02/b.html) google cloud shell
