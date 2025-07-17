@@ -124,3 +124,8 @@ bookmarks
   * [svn](svn.md)
   * [time series](time_series.md)
   * [web](web.md)
+  * ### My Awesome Python Project
+- **Project Name**: Python File Processor
+- **Description**: A simple Python script that processes files to count word frequency.
+- **Link**: [GitHub link](https://github.com/your-project)
+
