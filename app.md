@@ -1210,7 +1210,8 @@ App
     * [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
     * `git config --global credential.helper osxkeychain`
     * [Visual Studio Code에서 Github에 업로드하는 방법( 연동하는 방법 )](https://webnautes.tistory.com/2008)
-    * [VSCode와 Git 프로그램 설치 및 GitHub Copilot 서비스 연동하기](https://mixedcode.com/blog/71)
+    * [vscode-copilot-chat: Copilot Chat extension for VS Code](https://github.com/microsoft/vscode-copilot-chat)
+      * [VSCode와 Git 프로그램 설치 및 GitHub Copilot 서비스 연동하기](https://mixedcode.com/blog/71)
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
@@ -2547,6 +2548,7 @@ App
     * [나의 Obsidian 노트 작성 워크플로우 | GeekNews](https://news.hada.io/topic?id=16070)
   * [Obsidian Keyboard Shortcuts](https://keycombiner.com/collections/obsidian/)
   * [옵시디언 어려우셨던분들 꼭 보세요! 클로드 MCP의 엄청난 기능.옵시디언 노트 작성부터 유튜브 요약까지 (AI 팟캐스트 #57) @cmdspace @hero_system - YouTube](https://www.youtube.com/watch?v=NQYzjrJ7jKY)
+  * [옵시디언 - MCP Server](https://jusths.tistory.com/489)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
