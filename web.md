@@ -1828,6 +1828,8 @@ Web
   * [Streamlit Tutorials - YouTube](https://www.youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
   * [Streamlit Explained: Python Tutorial for Data Scientists - YouTube](https://www.youtube.com/watch?v=c8QXUrvSSyg)
   * [Simple Pretty Maps That Will Better Your Python Streamlit Skills](https://johnloewen.substack.com/p/simple-pretty-maps-that-will-better)
+  * [Streamlit의 기본 개념과 예제](https://webnautes.kr/streamlityi-gibon-gaenyeomgwa-yeje/)
+  * [Streamlit의 고급 개념과 예제](https://webnautes.kr/streamlityi-gogeub-gaenyeomgwa-yeje-2/)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
   * [toy_filemover_streamlit: Sometimes the process of editing MP3 tags is the result of an old man's work](https://github.com/halfenif/toy_filemover_streamlit)
