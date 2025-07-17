@@ -269,6 +269,7 @@ Artificial Intelligence
     * [(1) Tae Hyung Kim - 방금 인공지능 스타트업 앤트로픽(Anthropic)이 자사의 대형 언어 모델(LLM)에... | Facebook](https://www.facebook.com/socialego/posts/pfbid02MXCzU2EjV6BqZ2qwsUZh5AvBRuwDEwB7NinmEe74YHCMDb1eJq7rtsGpcUA4swcrl)
   * [Toward understanding and preventing misalignment generalization | OpenAI](https://openai.com/index/emergent-misalignment/)
 * [최승준 - 향후 10년의 방향 최근 봤던 일련의 팟캐스트들의 행간에서 화자들이 비슷하면서도 다른 미디엄텀(5 -... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0njCpybQvqjFdEd9pkQVCyooEAEq6bbDnfpBVJFgr23zk16EfpKhq6dUMDB1T8U1hl)
+* [우리 팀에도 Jarvis 가 생겼다 – 생성형 AI 로 만든 에러 분석가 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2025-delivery-jarvis-story/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -536,6 +537,7 @@ Artificial Intelligence
     * [6분 만에 배우는 Gemini CLI: Google의 무료 오픈 소스 코딩 도우미 - YouTube](https://www.youtube.com/watch?v=T76NbeTdDFA)
     * [개발자 터미널에 AI 에이전트가?.... 구글, 오픈소스 '제미나이 CLI' 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35422)
     * [제미나이 CLI(Gemini CLI)로 쿠버네티스 관리하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3228/)
+    * [제미나이 CLI(Gemini CLI)로 프로메테우스/그라파나 배포하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3239/)
     * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
@@ -573,6 +575,7 @@ Artificial Intelligence
 * HawkEye [AI debugging at Meta with HawkEye - Engineering at Meta](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
 * [Hugging Face – The AI community building the future.](https://huggingface.co/)
   * [저만 알고 싶은 수천개의 AI 기술 사이트🤗 코드존재 | 허깅페이스 HuggingFace - YouTube](https://www.youtube.com/watch?v=EtKpn-XRxHA)
+  * [GitHub - jkf87/agents-course-kr: This repository contains the Hugging Face Agents Course for korean](https://github.com/jkf87/agents-course-kr)
   * [Welcome, Gradio 5](https://huggingface.co/blog/gradio-5)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [Karya | We solve data needs](https://karya.in/)
@@ -654,6 +657,7 @@ Artificial Intelligence
   * [주목할 만한 10가지 MCP 서버 | 블로그](https://www.claudemcp.com/ko/blog/10-awesome-mcp-servers)
   * [channel-talk-integration-mcp 결과를 공유합니다!](https://channelio.notion.site/channel-talk-integration-mcp-21a74b55ec7c8081a7a9f8a95e26822d)
     * [단 한 줄로 Channel Talk을 붙일 수 있는 MCP를 공개](https://www.linkedin.com/posts/byeongchan-park-249472367_channeltalk-mcp-cursor-activity-7342691615557263362-jWnJ/)
+  * [넌 AI 하나만 쓰니? 내 뒤엔 'AI 드림팀' 있다 | 중앙일보](https://www.joongang.co.kr/article/25346428)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -1051,6 +1055,7 @@ Artificial Intelligence
   * [구글 클라우드 COO가 말하는 구글이 가지 않을 길](https://www.linkedin.com/posts/leekh929_%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-coo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%80%EC%A7%80-%EC%95%8A%EC%9D%84-%EA%B8%B8-1-%EC%9A%94%EC%A6%98-%EA%B5%AC%EA%B8%80%EC%9D%B4-ai-activity-7337250900119343105-bPM7/)
 * [Seungwon Go - <일회용 애플리케이션 시대가 오고 있다> 인공지능이 개발의 거의 모든 단계를... | Facebook](https://www.facebook.com/seungwon.go.9/posts/pfbid0366n28eygDymzGnFf3Sm39Yevkkq9qaP6ttxvQct9PeNyuJaytrz7GP9dGZEFsmMxl)
   * 남은 과제는 “당장의 불편을 해결할 작은 앱을 오늘 만들 용기가 있는가”라는 질문에 스스로 ‘예’라고 답하는 일뿐
+* sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1259,6 +1264,9 @@ Artificial Intelligence
   * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
   * [Claude Code時代のソフトウェアエンジニア生存戦略｜suthio](https://note.com/suthio/n/n4f79fbe4efda)
     * [(2) 최진주 - <Claude Code 시대 개발자 생존전략> 클로드 코드가 나온 후 성능에 대한 찬사가 이어지고... | Facebook](https://www.facebook.com/pariscom/posts/pfbid023XVGk4o2QwJMtCziogV7LMbks5YRRpRtXGp2EqWi1GR3Qjedxis3qLB7H5syLxoAl)
+  * [Claude Code 만들기](https://www.facebook.com/groups/langchainkr/posts/3318180704984305)
+    * [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) Claude Code 프롬프트
+    * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
@@ -1269,6 +1277,7 @@ Artificial Intelligence
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+  * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
@@ -1487,6 +1496,8 @@ Artificial Intelligence
   * [바이브 코더를 위한 딸깍 UI 10배 개선 방법 | Cursor X v0 신규 기능 - YouTube](https://www.youtube.com/watch?v=3Ih6O1VS-ZE)
   * [**Cursor를 더 똑똑하게 사용하고 싶은 분들을 위해 엄선한 참고자료 모음**](https://www.stdy.blog/curated-resources-for-better-cursor-usage/)
   * [커서 AI, 실무에서 이렇게 쓰더라구요 - YouTube](https://www.youtube.com/watch?v=aeM_QF1BMUY)
+  * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 (장문주의)](https://www.stdy.blog/12-tips-for-smarter-cursor-usage/)
+    * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 | GeekNews](https://news.hada.io/topic?id=21608)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
