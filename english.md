@@ -1,32 +1,5 @@
 English
 =======
-* [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
-* [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
-* [cnn.com/cnn10](https://edition.cnn.com/cnn10)
-* [dictionary.cambridge.org](https://dictionary.cambridge.org/)
-* [English 4 IT Talking Dictionary](http://www.english4it.com/dictionary)
-* [Flewent](http://groff.co/flewent/)
-* [gamelingu.com](http://gamelingu.com/)
-* [Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com/)
-* [jargonism.com](http://jargonism.com/)
-* [lang-8.com](http://lang-8.com/)
-* [learn.livemocha.com](https://learn.livemocha.com)
-* [memrise](https://www.memrise.com/)
-* [mylanguageexchange.com](http://mylanguageexchange.com/)
-* [youglish.com](https://youglish.com/) 실제 쓰이는 영어의 발음을 바로 검색해서 확인
-* youtube
-  * [라이브 아카데미](https://www.youtube.com/channel/UCGDA1e6qQSAH0R9hoip9VrA)
-    * [영어회화 | 어휘 | '찾다'의 3가지 모습 - find | look for | search](https://www.youtube.com/watch?v=uXPxXG5NUYo)
-    * [직장영어 get back to / on short notice](https://www.youtube.com/watch?v=VB0RFlkXb3s)
-    * [continuously - constantly - consistently 조금씩 감을 잡아가자 - YouTube](https://www.youtube.com/watch?v=i8V06JBijuI)
-      * I've been going to that coffee shop continuously for over three years
-      * And the workers there are constantly chainging
-      * But there coffee is consistenlty very good
-      * I honestly don't know how they manage to do that
-    * [영어 표현 1개로 ☝️ " 말을 설득력 있게 잘하다" / "사람을 잘 다루다" 💬 have a way with - YouTube](https://www.youtube.com/watch?v=0esXeajGk5E)
-  * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
-  * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
-  * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
 * [Your Weekly Address](https://www.whitehouse.gov/briefing-room/weekly-address)
 * [Words to Use Instead of VERY](http://www.fluentland.com/groups/learn-english/forum/topic/words-to-use-instead-of-very-3/)
 * email
@@ -82,6 +55,34 @@ English
 * [How To Say No](https://www.starterstory.com/how-to-say-no)
 * [영어 문법 검사기 사이트 베스트 3](https://blog-ko.pcanpi.com/3-best-grammar-checker/)
 * [ChatGPT로 집에서 아이 원어민 만드는 방법 - YouTube](https://www.youtube.com/watch?v=HLxlKtEAL5U)
+* [11 Common English Words And Phrases With Racist Origins](https://www.babbel.com/en/magazine/common-racist-words-phrases) 조심해야 하는 영어표현들
+* [외국어가 정말 늘고 싶으면 이 영상을 보세요 - YouTube](https://www.youtube.com/watch?v=AN1-HonwJeY)
+* [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
+* [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
+* [cnn.com/cnn10](https://edition.cnn.com/cnn10)
+* [dictionary.cambridge.org](https://dictionary.cambridge.org/)
+* [English 4 IT Talking Dictionary](http://www.english4it.com/dictionary)
+* [Flewent](http://groff.co/flewent/)
+* [gamelingu.com](http://gamelingu.com/)
+* [Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com/)
+* [jargonism.com](http://jargonism.com/)
+* [lang-8.com](http://lang-8.com/)
+* [learn.livemocha.com](https://learn.livemocha.com)
+* [memrise](https://www.memrise.com/)
+* [mylanguageexchange.com](http://mylanguageexchange.com/)
+* [youglish.com](https://youglish.com/) 실제 쓰이는 영어의 발음을 바로 검색해서 확인
 * [Read Along](https://readalong.google.com/)
   * [자녀가 영어책을 읽게 해 보자 - Google Read Along : 클리앙](https://www.clien.net/service/board/use/18177041)
-* [11 Common English Words And Phrases With Racist Origins](https://www.babbel.com/en/magazine/common-racist-words-phrases) 조심해야 하는 영어표현들
+* youtube
+  * [라이브 아카데미](https://www.youtube.com/channel/UCGDA1e6qQSAH0R9hoip9VrA)
+    * [영어회화 | 어휘 | '찾다'의 3가지 모습 - find | look for | search](https://www.youtube.com/watch?v=uXPxXG5NUYo)
+    * [직장영어 get back to / on short notice](https://www.youtube.com/watch?v=VB0RFlkXb3s)
+    * [continuously - constantly - consistently 조금씩 감을 잡아가자 - YouTube](https://www.youtube.com/watch?v=i8V06JBijuI)
+      * I've been going to that coffee shop continuously for over three years
+      * And the workers there are constantly chainging
+      * But there coffee is consistenlty very good
+      * I honestly don't know how they manage to do that
+    * [영어 표현 1개로 ☝️ " 말을 설득력 있게 잘하다" / "사람을 잘 다루다" 💬 have a way with - YouTube](https://www.youtube.com/watch?v=0esXeajGk5E)
+  * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
+  * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
+  * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
