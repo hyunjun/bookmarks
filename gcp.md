@@ -272,6 +272,8 @@ Google Cloud Platform GCP
 * [Host your LLMs on Cloud Run | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/run-your-ai-inference-applications-on-cloud-run-with-nvidia-gpus?hl=en)
 * [I Didn't Need Kubernetes](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
   * [저는 Kubernetes가 필요하지 않았고, 여러분도 아마 필요하지 않을겁니다 | GeekNews](https://news.hada.io/topic?id=17991)
+* [PSC 연결을 통한 Cloud Run to Google AI Studio Gemini API 호출방안](https://seonggi.kr/269)
+* [PSC 연결을 통한 Cloud Run to Vertex AI Gemini API 호출방안](https://seonggi.kr/270)
 * [palm2bot](https://github.com/znot34/palm2bot)
   * [GCP Cloud Run을 활용한 Palm 2 챗봇 만들기 :: Jflip의 기술 블로그](https://jflip.tistory.com/90)
   * [2023 Devfest Cloud - 최치영 - Google Slides](https://docs.google.com/presentation/d/1o-xbEnqakrjqJCxceSCqSzrWkIPEfPyasfRt5KskJi0/)
