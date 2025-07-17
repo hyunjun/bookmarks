@@ -758,6 +758,7 @@ AWS
 * [Effectively use prompt caching on Amazon Bedrock | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/)
   * [Amazon Bedrock의 프롬프트 캐싱(Prompt Caching) 기능 요약 및 설명](https://www.facebook.com/groups/awskrug/posts/8884940204941258/)
 * [Amazon Bedrock기반 Agentic Text-to-Image로 사용자 의도를 정확히 반영하기 (프롬프트 분해에서 검증까지) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-nova-agentic-text-to-image/)
+* [Amazon Bedrock을 활용한 Omelet의 경로 최적화 AI 에이전트, TOAST | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-omelet-path-optimization-ai-agent-toast/)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
