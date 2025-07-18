@@ -1527,6 +1527,7 @@ Artificial Intelligence
   * [Cursor, Claude Code 킬러 등장?! 개발자들이 난리난 아마존 Kiro IDE 실체 - YouTube](https://www.youtube.com/watch?v=ONURp6vYftM)
   * [아마존에서 출시한 미친 AI 코딩툴 키로(Kiro)! 커서AI 넘을까? | 실제 사용 찐 리뷰 - YouTube](https://www.youtube.com/watch?v=Nce6cFJGEts)
   * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
+  * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
