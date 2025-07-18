@@ -3536,6 +3536,7 @@ Business
 * [안정현 - 진짜 갈라파고스는 어디인가 - 윤석열 이후 한국을 생각하다 헌법재판소가 윤석열 전 대통령을 최종적으로... | Facebook](https://www.facebook.com/jhahn912/posts/pfbid034mQwbKoQnDiQMW5VwM8TpgPAo8UrbzMbUsfKM7YNo42LvdP72hamYDGiBwCUmWYMl)
   * 중요한 것은 그 기술이 누구와 연결되고, 누구에게 열려 있으며, 어떻게 확산될 수 있는가다. 관광객이 체감하는 ‘편리함’은 단순한 서비스 품질의 문제가 아니다. 그것은 한국이라는 국가 전체가 다른 전세계 문명과 어떻게 호흡하고 있는가를 상징적으로 보여주는 지표다
 * [스타트업 제품 개발 계획 수립 가이드 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS7002878448)
+* [모바일 컨텐츠 이야기 :: 금융과 커뮤니티 사이, 토스뱅크](http://www.mobizen.pe.kr/1474)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
