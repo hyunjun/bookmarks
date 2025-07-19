@@ -315,6 +315,10 @@ Business
 * [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
 * [프로세스를 촘촘하게 만드는 사람](https://jojoldu.tistory.com/829)
   * [이동욱 - 최근에 쿠팡의 조직 문화에 대해 이야기를 나눌 기회가 있었다. "쿠팡의 인재론은 한 축은 실적, 한 축은... | Facebook](https://www.facebook.com/jojoldu/posts/pfbid035wurythW5upDzrZYyByewcj6mMCFbKzzmgS7qdtuXthimpd4BuKP5RcHcSNTAEmfl)
+* [Reflections on Palantir - Nabeel S. Qureshi](https://nabeelqu.substack.com/p/reflections-on-palantir)
+  * [7thPseudoCon 정이태 그래프 오마카세 주방장이 말하는 현업과 학업간 괴리 - Google Slides](https://docs.google.com/presentation/d/1U4ndOKl1SAnfYuR2Up9QNMG4y--8yfqI5_rhFBGsxn0/edit?slide=id.g25d16e6e663_0_71#slide=id.g25d16e6e663_0_71)
+  * [팔란티어에서 FDE(forward deployed engineer)로 근무했던 Nabeel S. Qureshi 팔란티어 8년 회고글](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%EA%B8%80%EC%9D%B4-%EC%9D%B4%EC%A0%84-%EB%8C%80%EB%B9%84-%EB%8D%94%EC%9A%B1-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EA%B3%A0-activity-7352189163703558146-9a6C/)
+    * 제품 이전에 사람과 조직문화가 중요
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
@@ -2812,6 +2816,7 @@ Business
   * “간극” 과 “기대” 를 어떻게 채워야 하는지로 대화의 결론이 이동하면서 각자 앞으로 해야할 Action item이 도출 되었고 이것은 서로에게 큰 도움이 되는 경험
 * [리더가 6월에 꼭 해야 할 업무 '반기 평가' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/half20240620)
   * [리더가 해야 할 역할... '팀원의 성과 창출을 위한 조력자(assistant)'](https://www.linkedin.com/posts/cys712_%EB%A6%AC%EB%8D%94%EA%B0%80-6%EC%9B%94%EC%97%90-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%97%85%EB%AC%B4-%EB%B0%98%EA%B8%B0-%ED%8F%89%EA%B0%80-activity-7343088333289361409-xV77/)
+* [적절한 질문을 하는 게 큰 가치를 만들어 낼 수 있다](https://www.linkedin.com/posts/spike-jee-480225a_%EB%82%B4%EA%B0%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%98%EA%B2%8C-%EB%90%98%EA%B3%A0%EB%B6%80%ED%84%B0%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%98%EB%8A%94-%EB%A7%90-%EC%A4%91%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%A7%88%EB%AC%B8-%EC%95%84%EB%8B%8C-activity-7350134026004819968-nOlf/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
