@@ -1478,6 +1478,7 @@ SQL
 * [PostgreSQL, 2024년 올해의 DBMS로 선정 | GeekNews](https://news.hada.io/topic?id=18751)
 * [7+ million Postgres tables | Kailash Nadh | IndiaFOSS 2024 | FOSS United - YouTube](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 * [I replaced my entire tech stack with Postgres... - YouTube](https://www.youtube.com/watch?v=3JW732GrMdg)
+* [Kubernetes 환경에서 PostgreSQL 백업과 복구하기 – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/19/kubernetes-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c-postgresql-%eb%b0%b1%ec%97%85%ea%b3%bc-%eb%b3%b5%ea%b5%ac%ed%95%98%ea%b8%b0/)
 * [Postgres Sandbox](https://database.build/)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
