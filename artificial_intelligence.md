@@ -260,8 +260,12 @@ Artificial Intelligence
   * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
 * [AI 로 만든 여행 일정 서비스, 부족한 데이터로 시작한 실험 | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/ai-%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EC%A1%B1%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%8B%A4%ED%97%98-919296cec080)
-* context engineering [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
-  * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
+* context engineering
+  * [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
+    * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
+  * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
+    * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
+    * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -270,6 +274,10 @@ Artificial Intelligence
   * [Toward understanding and preventing misalignment generalization | OpenAI](https://openai.com/index/emergent-misalignment/)
 * [최승준 - 향후 10년의 방향 최근 봤던 일련의 팟캐스트들의 행간에서 화자들이 비슷하면서도 다른 미디엄텀(5 -... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0njCpybQvqjFdEd9pkQVCyooEAEq6bbDnfpBVJFgr23zk16EfpKhq6dUMDB1T8U1hl)
 * [우리 팀에도 Jarvis 가 생겼다 – 생성형 AI 로 만든 에러 분석가 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2025-delivery-jarvis-story/)
+* [바이브 코딩 시대에서 Java의 한계 | AIstar](https://haseong.github.io/blog/2025/07/06/java-crisis.html)
+* [바이브 엔지니어링: 코드 다음으로 AI가 정복할 영역 | AIstar](https://haseong.github.io/blog/2025/07/12/vibe-engineering.html)
+* [《AI 시대의 자발적 노예화: 분석 리포트》 : 네이버 블로그](https://blog.naver.com/jooshik_lee/223938879877)
+  * [《AI 시대의 자발적 노예화: 분석 리포트》 AI가 대중을 자발적으로 AI와... - David JooShik Lee | Facebook](https://www.facebook.com/jooshik.lee/posts/pfbid0ACytdat663CLew9HJZB4CGPcKGC9ZyhDHHTW8MnCZGeL2Y5ic8wn1zPf23EjWYEbl)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -544,6 +552,7 @@ Artificial Intelligence
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
     * ["이제 누구나 개발자! AI 코드 혁신 가속화"...구글, ‘제미나이 코드 어시스트’ 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34015)
     * [더 똑똑해진 AI 코딩 도우미, Gemini Code Assist 2.5 업데이트 총정리](https://digitalbourgeois.tistory.com/1434)
+    * [Gemini Code Assist’s June 2025 updates: Agent Mode arrives](https://blog.google/technology/developers/gemini-code-assist-updates-july-2025/)
   * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
     * 초고도화된 리서치 프로젝트를 오픈소스로 공개
     * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
@@ -1271,6 +1280,7 @@ Artificial Intelligence
   * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code?ref=stdy.blog)
     * [요약 번역 How I use Claude Code (+ my best tips) by Steve Swell](https://www.stdy.blog/summary-of-how-i-use-claude-code-my-best-tips-by-steve-swell/)
   * [클로드 동시에 10개씩 돌리며 뽕뽑는법 - YouTube](https://www.youtube.com/watch?v=0ZlDxNYdXf8)
+  * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
