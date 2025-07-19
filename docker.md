@@ -2117,6 +2117,7 @@ Docker
   * [Kubernetese 2.0은 어떤 모습일까 | GeekNews](https://news.hada.io/topic?id=21571)
 * [Kubernetes GPU 클러스터에서 AI 서비스 오토스케일링하기](https://d2.naver.com/helloworld/0251755)
 * [쿠버네티스 컨테이너 한방 정리 #3 - 일프로님의 블로그 - 인프런 | 커뮤니티](https://www.inflearn.com/blogs/3576)
+* [k8s 마스터 장애, 당황하지 마세요! kubeadm HA etcd 백업/복구 Step-by-Step – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/05/k8s-%eb%a7%88%ec%8a%a4%ed%84%b0-%ec%9e%a5%ec%95%a0-%eb%8b%b9%ed%99%a9%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-kubeadm-ha-etcd-%eb%b0%b1%ec%97%85-%eb%b3%b5%ea%b5%ac-step-by-step/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
