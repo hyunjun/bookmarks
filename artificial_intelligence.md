@@ -1255,6 +1255,7 @@ Artificial Intelligence
   * [LLM으로 몇 달간 코딩한 후, 다시 내 두뇌를 쓰기로 했어요 | GeekNews](https://news.hada.io/topic?id=20955)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
+  * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
