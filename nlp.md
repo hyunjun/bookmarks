@@ -2704,6 +2704,8 @@ NLP
 * [Kimi - 更强大的 AI 助手](https://www.kimi.com/)
   * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
     * [🛠️🤖🔓Kimi K2: 오픈소스 에이전트 AI 시대의 개막](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F%F0%9F%A4%96%F0%9F%94%93Kimi-K2-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%A7%89)
+    * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – Kimi K2: 오픈소스 에이전트 AI 시대의 개막](http://www.umlcert.com/0718-03/)
+    * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 저스틴의 AI 특강 “답만 하는 AI는 가라!” 스스로 일하는 괴물, Kimi K2 완벽 분석](http://www.umlcert.com/0719-02/)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
   * [klue-transformers-tutorial: KLUE 데이터를 활용한 HuggingFace Transformers 튜토리얼](https://github.com/Huffon/klue-transformers-tutorial)
