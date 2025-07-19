@@ -267,6 +267,12 @@ Artificial Intelligence
     * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
     * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
   * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 컨텍스트 엔지니어링 101 – AI 코딩을 100배 향상시키는 간단한 전략](http://www.umlcert.com/0718-04/)
+  * [Context Engineering: Isaac Miller on Context Engineering with DSPy - YouTube](https://www.youtube.com/watch?v=1I9PoXzvWcs)
+    * [Context Engineering: Isaac Miller on Context Engineering with DSPy | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059697/4437722)
+  * [Context Engineering: The Outer Loop | Hammad Bashir - YouTube](https://www.youtube.com/watch?v=vsfbplnJyA8)
+    * [Context Engineering: The Outer Loop | Hammad Bashir | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059799/4437871)
+  * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
+    * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -1543,6 +1549,7 @@ Artificial Intelligence
   * [아마존에서 출시한 미친 AI 코딩툴 키로(Kiro)! 커서AI 넘을까? | 실제 사용 찐 리뷰 - YouTube](https://www.youtube.com/watch?v=Nce6cFJGEts)
   * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
   * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
+  * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro - YouTube](https://www.youtube.com/watch?v=Z9fUPyowRLI)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
