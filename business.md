@@ -67,6 +67,9 @@ Business
 * [끝없는 애자일·디지털 변혁 등에 지쳤다면... '번아웃' 대처법 5가지 - CIO Korea](https://www.ciokorea.com/news/251392)
 * [Managing and Overcoming Burnout (feat. Mannerism, Slump) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out-en/)
   * [번아웃을 통제하고 이겨내는 방법(feat. 매너리즘, 슬럼프) | Novemberde's Blog](https://novemberde.github.io/post/2024/02/18/throttle-input-to-prevent-burning-out/)
+* [번아웃이 온 것 같으면 보세요. ‘관계형 리더’가 번아웃에 더 취약한 이유 | 더 리더십 - YouTube](https://www.youtube.com/watch?v=ZoZ9cGfibOM)
+  * 메타인지 = 거울을 보면서 화장을 하는 거, 비판단 있는 그대로 받아들이기
+  * [번아웃이 온 것 같으면 보세요. ‘관계형 리더’가 번아웃에 더 취약한 이유 | 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059041/4436688)
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Reflections on OpenAI](https://calv.info/openai-reflections) 1인당 약 78k의 PR은 LLM/AI로 작성하는 게 아니라면 불가능할 걸로 생각하는 수치
   * [OpenAI에 대한 회고 | GeekNews](https://news.hada.io/topic?id=22012)
