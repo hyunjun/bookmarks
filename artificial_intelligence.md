@@ -273,6 +273,7 @@ Artificial Intelligence
     * [Context Engineering: The Outer Loop | Hammad Bashir | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059799/4437871)
   * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
     * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
+  * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -1550,6 +1551,8 @@ Artificial Intelligence
   * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
   * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
   * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro - YouTube](https://www.youtube.com/watch?v=Z9fUPyowRLI)
+  * [AI 코딩 에이전트 간의 시너지: Kiro × Claude Code](https://www.linkedin.com/posts/xavierchoi_ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%84%EC%9D%98-%EC%8B%9C%EB%84%88%EC%A7%80-kiro-claude-code-activity-7352270105680007188-Bmhl/)
+    * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
