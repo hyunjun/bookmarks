@@ -793,6 +793,7 @@ Business
   * [폴 그레이엄 에세이 한글 번역본 아카이브 | GeekNews](https://news.hada.io/topic?id=14020)
 * [조직을 무너뜨리는 작은 거짓말, '이 방법'으로 막을 수 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ethics20220118)
 * [Post 35: Your Standards are Too High — Neel Nanda](https://www.neelnanda.io/blog/35-standards) 자신에 대한 평가
+* [묵묵히 하면 알아줄 줄 알았다는 착각:말하지 않으면 아무 일도 일어나지 않는다](https://www.linkedin.com/posts/soojung-shin-%EC%8B%A0%EC%88%98%EC%A0%95-30398b75_%EB%AC%B5%EB%AC%B5%ED%9E%88-%ED%95%98%EB%A9%B4-%EC%95%8C%EC%95%84%EC%A4%84-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8B%A4%EB%8A%94-%EC%B0%A9%EA%B0%81%EB%A7%90%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4-%EC%95%84%EB%AC%B4-%EC%9D%BC%EB%8F%84-%EC%9D%BC%EC%96%B4%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-activity-7352137046691340291-Xy5k/)
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
 * [넷플릭스가 성공한 이유는 문화도, 알고리즘도, 제품도 아니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240583) 규모의 경제
 * [Building a data team at a mid-stage startup: a short story · Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
