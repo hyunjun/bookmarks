@@ -286,6 +286,7 @@ Artificial Intelligence
 * [바이브 엔지니어링: 코드 다음으로 AI가 정복할 영역 | AIstar](https://haseong.github.io/blog/2025/07/12/vibe-engineering.html)
 * [《AI 시대의 자발적 노예화: 분석 리포트》 : 네이버 블로그](https://blog.naver.com/jooshik_lee/223938879877)
   * [《AI 시대의 자발적 노예화: 분석 리포트》 AI가 대중을 자발적으로 AI와... - David JooShik Lee | Facebook](https://www.facebook.com/jooshik.lee/posts/pfbid0ACytdat663CLew9HJZB4CGPcKGC9ZyhDHHTW8MnCZGeL2Y5ic8wn1zPf23EjWYEbl)
+* [서버 없이 이렇게 동작합니다 - YouTube](https://www.youtube.com/watch?v=1zVBW8KWWS8) browser built-in API
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
