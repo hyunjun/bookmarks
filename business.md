@@ -322,6 +322,10 @@ Business
   * [7thPseudoCon 정이태 그래프 오마카세 주방장이 말하는 현업과 학업간 괴리 - Google Slides](https://docs.google.com/presentation/d/1U4ndOKl1SAnfYuR2Up9QNMG4y--8yfqI5_rhFBGsxn0/edit?slide=id.g25d16e6e663_0_71#slide=id.g25d16e6e663_0_71)
   * [팔란티어에서 FDE(forward deployed engineer)로 근무했던 Nabeel S. Qureshi 팔란티어 8년 회고글](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%EA%B8%80%EC%9D%B4-%EC%9D%B4%EC%A0%84-%EB%8C%80%EB%B9%84-%EB%8D%94%EC%9A%B1-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EA%B3%A0-activity-7352189163703558146-9a6C/)
     * 제품 이전에 사람과 조직문화가 중요
+* [직급 없앤다며 영어 이름 쓰는 회사들의 공통점ㅣ지식인초대석 EP.49 (황성현 교수 1부) - YouTube](https://www.youtube.com/watch?v=bn9nhe7w9xc)
+  * [직급 없앤다며 영어 이름 쓰는 회사들의 공통점ㅣ지식인초대석 EP.49 (황성현 교수 1부) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5061579/4440657)
+* [전 구글 인사담당자가 면접에서 반드시 물어보는 질문ㅣ지식인초대석 EP.50 (황성현 교수 2부) - YouTube](https://www.youtube.com/watch?v=-TYSiaWpIB4)
+  * [전 구글 인사담당자가 면접에서 반드시 물어보는 질문ㅣ지식인초대석 EP.50 (황성현 교수 2부) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5063773/4443840)
 * [The epistemology of software quality – Increment: Teams](https://increment.com/teams/the-epistemology-of-software-quality/)
   * [당신은 힘든 시기를 견디고 있는 개발팀의 팀장으로 임명되었습니다. 팀의 능률과 코드의 안정성을 올리기 위해 당신은 어떠한 정책을 시행하시겠나요?](https://www.linkedin.com/posts/danielylee_%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%94%94%EA%B3%A0-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%9E%84%EB%AA%85%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%8C%80%EC%9D%98-ugcPost-7168391591424974848-VfBO/)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
