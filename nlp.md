@@ -3026,6 +3026,8 @@ NLP
     * [LLM Agent에 장기 기억 심어주기](https://www.linkedin.com/posts/ee-juni_long-term-memory-agent-template-activity-7249925915353210880-HJQB/)
       * [Long-Term Memory Agent Template - YouTube](https://www.youtube.com/watch?v=-xkduCeudgY)
       * [Launching Long-Term Memory Support in LangGraph](https://blog.langchain.dev/launching-long-term-memory-support-in-langgraph/)
+  * [open_deep_research](https://github.com/langchain-ai/open_deep_research)
+    * [LangChain Open Deep Research 코드 분석](https://hyun941213.tistory.com/entry/LangChain-Open-Deep-Research-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D)
   * [RAPTOR](https://teddylee777.notion.site/RAPTOR-e835d306fc664dc2ad76191dee1cd859)
     * [👀 긴 문서(long context) 에 대한 참신한 RAG 방법론: RAPTOR! 논문 리뷰와 코드를 준비했습니다👌 - YouTube](https://www.youtube.com/watch?v=gcdkISrpMCA)
     * [RAG관련 최신 논문 RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval(2024)](https://www.facebook.com/groups/2743655075770207/?multi_permalinks=3020420234760355)
