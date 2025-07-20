@@ -1129,6 +1129,7 @@ App
   * [VS Code 확장 프로그램 개발 팁 #2 - 풍선 도움말 다루기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/411)
   * [VSC에서 클로드를 사용할 수 있다! - YouTube](https://www.youtube.com/playlist?list=PLkfUwwo13dlVwQ3PubzfRQl9dRr7NlHT5)
   * [The ULTIMATE VS Code Setup - Extensions & Settings 2025 - YouTube](https://www.youtube.com/watch?v=lxRAj1Gijic)
+  * [macOS에 Node.js 설치하여 Visual Studio Code에서 테스트](https://webnautes.kr/macose-node-js-seolcihayeo-visual-studio-codeeseo-teseuteu/)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
