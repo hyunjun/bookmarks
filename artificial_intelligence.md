@@ -561,6 +561,7 @@ Artificial Intelligence
     * ["이제 누구나 개발자! AI 코드 혁신 가속화"...구글, ‘제미나이 코드 어시스트’ 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34015)
     * [더 똑똑해진 AI 코딩 도우미, Gemini Code Assist 2.5 업데이트 총정리](https://digitalbourgeois.tistory.com/1434)
     * [Gemini Code Assist’s June 2025 updates: Agent Mode arrives](https://blog.google/technology/developers/gemini-code-assist-updates-july-2025/)
+    * [제미나이 코드 어시스트는 무료 풀리퀘 리뷰 노예로 딱입니다 - YouTube](https://www.youtube.com/watch?v=Kwq5iuoJtfM)
   * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
     * 초고도화된 리서치 프로젝트를 오픈소스로 공개
     * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
@@ -1300,6 +1301,7 @@ Artificial Intelligence
       * cursor가 제공하는 Agent 기능, 다양한 모델로 스위치하는 기능과 더불어 인라인 코드 편집/생성이 가능한 영역은 cursor를 사용하는 충분한 이유
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
+  * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
@@ -1570,6 +1572,7 @@ Artificial Intelligence
   * [Vibe Coding 기업 적응기 Part1: v0.dev와 함께한 3주간의 기록 | by crowdworks | 크라우드웍스 Tech Blog | Apr, 2025 | Medium](https://medium.com/crowdworks-tech/vibe-coding-%EA%B8%B0%EC%97%85-%EC%A0%81%EC%9D%91%EA%B8%B0-part1-v0-dev%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-3%EC%A3%BC%EA%B0%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-7fdb290e3535)
   * [Next.js + shadcn/ui 개발, AI UI 생성 도구 뭐 쓸까? v0 vs Lovable 비교 후기!](https://www.facebook.com/groups/1183007433518603/posts/1186112866541393/)
   * [20분동안 직접 코드 한줄도 안씀 - YouTube](https://www.youtube.com/watch?v=YanHWhp9vkk)
+  * [AI 디자인 파트너 v0를 200% 활용하기](https://devway.tistory.com/88)
 * [Void](https://voideditor.com/)
   * [void](https://github.com/voideditor/void)
   * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
