@@ -489,6 +489,7 @@ SQL
 * [Distributed SQL Databases - Amazon Aurora DSQL - AWS](https://aws.amazon.com/ko/rds/aurora/dsql/)
   * [Introducing Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/introducing-amazon-aurora-dsql/)
   * [Concurrency control in Amazon Aurora DSQL | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/concurrency-control-in-amazon-aurora-dsql/)
+  * [AWS가 SQL DB의 한계를 부셔버렸네요. Serverless SQL DB 서비스 : Aurora DSQL을 소개합니다. - YouTube](https://www.youtube.com/watch?v=TGQuSrePOPU)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
