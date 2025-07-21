@@ -759,6 +759,7 @@ AWS
   * [Amazon Bedrock의 프롬프트 캐싱(Prompt Caching) 기능 요약 및 설명](https://www.facebook.com/groups/awskrug/posts/8884940204941258/)
 * [Amazon Bedrock기반 Agentic Text-to-Image로 사용자 의도를 정확히 반영하기 (프롬프트 분해에서 검증까지) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-nova-agentic-text-to-image/)
 * [Amazon Bedrock을 활용한 Omelet의 경로 최적화 AI 에이전트, TOAST | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-omelet-path-optimization-ai-agent-toast/)
+* [경농의 스마트팜 지원을 위한 농업 AI 챗봇 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/knco-agricultural-ai-chatbot-for-smart-farm/)
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/?trk=e61dee65-4ce8-4738-84db-75305c9cd4fe&sc_channel=el)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
