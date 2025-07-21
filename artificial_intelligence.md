@@ -1308,6 +1308,7 @@ Artificial Intelligence
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
+    * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
