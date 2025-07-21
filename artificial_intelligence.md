@@ -274,6 +274,7 @@ Artificial Intelligence
   * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
     * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
+  * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a) context rot
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -677,6 +678,8 @@ Artificial Intelligence
   * [channel-talk-integration-mcp 결과를 공유합니다!](https://channelio.notion.site/channel-talk-integration-mcp-21a74b55ec7c8081a7a9f8a95e26822d)
     * [단 한 줄로 Channel Talk을 붙일 수 있는 MCP를 공개](https://www.linkedin.com/posts/byeongchan-park-249472367_channeltalk-mcp-cursor-activity-7342691615557263362-jWnJ/)
   * [넌 AI 하나만 쓰니? 내 뒤엔 'AI 드림팀' 있다 | 중앙일보](https://www.joongang.co.kr/article/25346428)
+  * [Let's Learn MCP: JavaScript (한국어) - YouTube](https://www.youtube.com/watch?v=zo9S2RNC1O8)
+    * [Let's Learn MCP: JavaScript (한국어) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5084088/4475199)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
