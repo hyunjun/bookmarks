@@ -2258,6 +2258,7 @@ App
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
+  * [스마트폰 사진 용량 부족할 때, 미니PC를 사진 백업 서버로 활용하기 (N100 PC immich 서버 설치방법) - YouTube](https://www.youtube.com/watch?v=nQHn03HEZCo)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
 * [Jellyfin: The Free Software Media System](https://jellyfin.org/)
