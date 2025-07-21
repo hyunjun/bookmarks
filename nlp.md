@@ -1270,6 +1270,7 @@ NLP
   * [프롬프트 엔지니어에 대한 빗나간 예측](https://www.linkedin.com/posts/daleseo_the-hottest-ai-job-of-2023-is-already-obsolete-activity-7325994484641464322-jjnB/)
 * [추론모델은 프롬프트를 길게? 아니면 짧게 써야 할까? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=F4ExQ3P_A5w)
 * [ChatGPT에 아래 JSON 파일을 넣어 이미지를 생성해 보고, 다양한 형태로 활용](https://www.linkedin.com/posts/joshuamyungcho_chatgpt%EC%97%90-%EC%95%84%EB%9E%98-json-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%84%A3%EC%96%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%B4-%EB%B3%B4%EA%B3%A0-%EB%8B%A4%EC%96%91%ED%95%9C-activity-7342037736947666944-YPY8/)
+* [뉴테크프라임 » My AI Smarteasy에서 프롬프트 작성하기 – 환각 식별을 위한 프롬프트 템플릿](http://www.umlcert.com/0721-04/)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
