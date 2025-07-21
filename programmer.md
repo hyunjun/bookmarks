@@ -388,6 +388,8 @@ Programmer
 * [50대 1인 개발자 살아남기 | GeekNews](https://news.hada.io/topic?id=21244)
 * [개발자에게 컴퓨터 공학 지식은 언제나 중요합니다](https://www.linkedin.com/posts/%EB%AC%B8%EB%8C%80%EC%8A%B9_%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-%EC%A7%80%EC%8B%9D%EC%9D%80-%EC%96%B8%EC%A0%9C%EB%82%98-%EC%A4%91%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4-1kb-%EC%A4%84%EC%9D%B8%EB%8B%A4%EA%B3%A0-%EB%AD%90%EA%B0%80-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%82%98%EC%9A%94-activity-7340936308900446208-_Ues/)
   * 고속도로에서 배우는 네트워크 원리 - TCP slow start, 14KB의 비밀, Qwik이 다른 점, 1KB가 만드는 차이
+* [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474 - YouTube](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+  * [렉스 프리드먼 팟캐스트 #474: DHH : 네이버 블로그](https://blog.naver.com/roundpebble/223939836945)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
