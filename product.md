@@ -52,10 +52,6 @@ Product
 * [신개념 멀티탭 추천!! '고용량 멀티탭 끝판왕'과 '자동 정리케이블'을 가지고 와봤습니다! (Vertitap) 【🤴Ep.456】 - YouTube](https://www.youtube.com/watch?v=M4FlWqlpeyU)
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 * [스팸기름 떡칠도 닦아버리는 미친 성능의 안경닦이 물티슈ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=Jl4lTbH2YRY)
-* [오직 대한민국에만 있는 만년필 시필 매장! (feat. 만년필 쓰는 이유, 만년필 고르는 법 + 구독자 이벤트🎁) - YouTube](https://www.youtube.com/watch?v=-VEt1nDTM_g)
-* [입문 만년필 종결 "홍디안"은 이런 브랜드입니다｜HongDian - YouTube](https://www.youtube.com/watch?v=OuJvgfwtjog)
-* [근무시간의 질을 향상시키는 직장인 필기구 추천템 | 만년필 볼펜 - YouTube](https://www.youtube.com/watch?v=7osPMgbqKXk)
-* [볼펜추천/만년필추천/최고의 검정펜은 이겁니다/기록덕후들이 떨어지면 불안해하는 검정펜 리뷰 - YouTube](https://www.youtube.com/watch?v=MShDq0ksSzs)
 * [스마트 퍼니처 | 기발한 공간 절약 디자인 & 숨겨진 문 ▶13 - YouTube](https://www.youtube.com/watch?v=_WDPcFQw4ag)
 * [이 캐리어가 여행용 끝판왕인 이유 - 장박사의 해외여행 캐리어 추천 - YouTube](https://www.youtube.com/watch?v=xMUE9JtXEc8) RTRUNK
 * [Must-Have Gadgets for a Perfect Workspace - YouTube](https://www.youtube.com/watch?v=HJiZWkoypW4)
@@ -120,6 +116,7 @@ Product
 * Nomatic 
   * [Amazon.com: NOMATIC Backpack- Water-Resistant RFID Laptop Bag, Everyday Backpack 20L - Updated 2020 V2 : Electronics](https://www.amazon.com/NOMATIC-Backpack-Resistant-Anti-Theft-Protected/dp/B0779L2Q4X/)
   * [ENG SUB)세계적으로 대히트친 여행용 백팩 - 노매틱 트래블 백팩을 메고 실제 여행을 다녀와보았다! 진짜 좋은점과 치명적인 단점은? - YouTube](https://www.youtube.com/watch?v=m5R36M8CKOA)
+* Rawrow [쓰임새에 집착했더니 어느새 기발해졌다. 가방다운 가방을 만드는 로우로우 이야기 - YouTube](https://www.youtube.com/watch?v=PPACQdUuTpk)
 * 루퍼 닉 백팩 [수납 끝판왕! 대용량 백팩 추천 (이게 가방이야?! 캐리어야?!) - YouTube](https://www.youtube.com/watch?v=Os45tUPwLCk)
 
 # Bike
@@ -311,6 +308,14 @@ Product
 * [손바닥에 올라탄 신디사이저](http://techholic.co.kr/archives/36682)
 * [아이폰+전자기타=나홀로 밴드?](http://techholic.co.kr/archives/40419)
 * [찾았다 내 장난감 ㅋㅋ 정말 말도안되게 다 가능한 기타 | Aeroband Guitar - YouTube](https://www.youtube.com/watch?v=dBO4PhuonEs)
+
+# Pen
+* [오직 대한민국에만 있는 만년필 시필 매장! (feat. 만년필 쓰는 이유, 만년필 고르는 법 + 구독자 이벤트🎁) - YouTube](https://www.youtube.com/watch?v=-VEt1nDTM_g)
+* [입문 만년필 종결 "홍디안"은 이런 브랜드입니다｜HongDian - YouTube](https://www.youtube.com/watch?v=OuJvgfwtjog)
+* [근무시간의 질을 향상시키는 직장인 필기구 추천템 | 만년필 볼펜 - YouTube](https://www.youtube.com/watch?v=7osPMgbqKXk)
+* [볼펜추천/만년필추천/최고의 검정펜은 이겁니다/기록덕후들이 떨어지면 불안해하는 검정펜 리뷰 - YouTube](https://www.youtube.com/watch?v=MShDq0ksSzs)
+* [만년필 10년차가 매일 쓰는 실용 끝판왕 만년필 - YouTube](https://www.youtube.com/watch?v=QUZ7_kOypf0) 파이롯트캡리스
+* [이래서 카키모리 쓰는구나 🔥 카키모리 황동펜촉, 카키모리 수성펜 (롤러블) - YouTube](https://www.youtube.com/watch?v=tWc-Sh4SKeA)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
