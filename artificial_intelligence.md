@@ -1077,6 +1077,7 @@ Artificial Intelligence
   * [구글 클라우드 COO가 말하는 구글이 가지 않을 길](https://www.linkedin.com/posts/leekh929_%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-coo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%80%EC%A7%80-%EC%95%8A%EC%9D%84-%EA%B8%B8-1-%EC%9A%94%EC%A6%98-%EA%B5%AC%EA%B8%80%EC%9D%B4-ai-activity-7337250900119343105-bPM7/)
 * [Seungwon Go - <일회용 애플리케이션 시대가 오고 있다> 인공지능이 개발의 거의 모든 단계를... | Facebook](https://www.facebook.com/seungwon.go.9/posts/pfbid0366n28eygDymzGnFf3Sm39Yevkkq9qaP6ttxvQct9PeNyuJaytrz7GP9dGZEFsmMxl)
   * 남은 과제는 “당장의 불편을 해결할 작은 앱을 오늘 만들 용기가 있는가”라는 질문에 스스로 ‘예’라고 답하는 일뿐
+* [AI 자본지출이 너무 커서 경제 통계까지 뒤흔들고 있음 | GeekNews](https://news.hada.io/topic?id=22064)
 * sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
