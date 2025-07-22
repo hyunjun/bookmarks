@@ -101,6 +101,7 @@ Product
 # Backpack
 * [나무로 가방을? 친환경 백팩](http://techholic.co.kr/archives/33606)
 * [직장인 백팩은 이게 최고라길래 두 달 내내 다 써봄ㅋㅋ 디자인 실용성 편안함까지 네덜란드 브랜드 XD디자인 - YouTube](https://www.youtube.com/watch?v=r9LAlhFeN8E)
+* [직장인 백팩 추천 데일리 테크웨어 감성 바운더리 서플라이 레넨 프로 X-PAC - YouTube](https://www.youtube.com/watch?v=HsEDmRZUDbs)
 * 오주코 9405
   * [오주코 옥스퍼드 3세대 9405 백팩 소개 영상 - YouTube](https://www.youtube.com/watch?v=E2IjOIimqPg)
   * 2021.11.02 구입 (배송비 포함 25640원)
