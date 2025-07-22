@@ -22,7 +22,6 @@ Product
 * [딱 필요한 만큼만 끓일 수 있는 신개념 전기포트](http://www.earlyadopter.co.kr/42825)
 * [DIY인테리어를 가능케한 보급형 3D 공간 스캐너 아키드로우](http://besuccess.com/2015/05/%EB%B0%B0%ED%8B%80%EA%B8%B0%EC%82%AC-%EC%95%84%ED%82%A4%EB%93%9C%EB%A1%9C%EC%9A%B0%EC%88%98%EC%A0%95-%EC%A0%84/)
 * [스마트폰 현미경](http://www.earlyadopter.co.kr/43046)
-* [Phree - 전용 노트가 필요 없는 디지털 펜](http://www.earlyadopter.co.kr/42984)
 * [차세대 롤러스케이트?](http://techholic.co.kr/archives/30987)
 * [별자리 알려주는 돋보기 있다면…](http://techholic.co.kr/archives/28162)
 * [선풍기는 진화한다](http://www.huffingtonpost.kr/2015/05/17/story_n_7299758.html)
@@ -310,12 +309,14 @@ Product
 * [찾았다 내 장난감 ㅋㅋ 정말 말도안되게 다 가능한 기타 | Aeroband Guitar - YouTube](https://www.youtube.com/watch?v=dBO4PhuonEs)
 
 # Pen
+* [Phree - 전용 노트가 필요 없는 디지털 펜](http://www.earlyadopter.co.kr/42984)
 * [오직 대한민국에만 있는 만년필 시필 매장! (feat. 만년필 쓰는 이유, 만년필 고르는 법 + 구독자 이벤트🎁) - YouTube](https://www.youtube.com/watch?v=-VEt1nDTM_g)
 * [입문 만년필 종결 "홍디안"은 이런 브랜드입니다｜HongDian - YouTube](https://www.youtube.com/watch?v=OuJvgfwtjog)
 * [근무시간의 질을 향상시키는 직장인 필기구 추천템 | 만년필 볼펜 - YouTube](https://www.youtube.com/watch?v=7osPMgbqKXk)
 * [볼펜추천/만년필추천/최고의 검정펜은 이겁니다/기록덕후들이 떨어지면 불안해하는 검정펜 리뷰 - YouTube](https://www.youtube.com/watch?v=MShDq0ksSzs)
 * [만년필 10년차가 매일 쓰는 실용 끝판왕 만년필 - YouTube](https://www.youtube.com/watch?v=QUZ7_kOypf0) 파이롯트캡리스
 * [이래서 카키모리 쓰는구나 🔥 카키모리 황동펜촉, 카키모리 수성펜 (롤러블) - YouTube](https://www.youtube.com/watch?v=tWc-Sh4SKeA)
+* [그저 감탄만 나오는, 분야별 최고의 필기구 BEST 5 (볼펜, 샤프, 만년필, 연필, 멀티펜) - YouTube](https://www.youtube.com/watch?v=HQemQCezRqQ)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
