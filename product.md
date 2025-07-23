@@ -189,6 +189,7 @@ Product
 * [Should you still buy a reMarkable 2 in 2024? - YouTube](https://www.youtube.com/watch?v=8WpyCaQkkiM)
 * [Daylight Computer | The Fast 60fps E-paper and Blue-Light Free Tablet](https://daylightcomputer.com/product)
   * [데이라이트 컴퓨터 – 새로운 60fps e-paper 태블릿 | GeekNews](https://news.hada.io/topic?id=14966)
+* iFLYTEK AINOTE Air2 [필기의 새로운 기준, iFLYTEK AINOTE Air2 드디어 국내에! - YouTube](https://www.youtube.com/watch?v=wl-ne4TD3Fo)
 * [Viwoods AI Paper eInk Tablet Unboxing Impressions - YouTube](https://www.youtube.com/watch?v=LZ0QcAl5xVo)
 
 # Keyboard
