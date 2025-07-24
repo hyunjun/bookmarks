@@ -4401,6 +4401,8 @@ Programming
   * 도메인에 대해서 더 잘 이해하게 되고, 최적의 기술 사용방법을 발견. 그리고 만들고 있는 애플리케이션에 대해서도
 * [CodeBuddy 와 함께하는 AI 코드리뷰 - if (kakao AI) 2024](https://if.kakao.com/session/35)
   * [베네딕트는 왜 이프카카오에서 안성재 성대모사를 했을까? - tech.kakao.com](https://tech.kakao.com/posts/659)
+* [TODOs aren’t for doing – Sophie Alpert](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
+  * [TODO는 실제로 '처리하기 위한 것'이 아님 | GeekNews](https://news.hada.io/topic?id=22128)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
