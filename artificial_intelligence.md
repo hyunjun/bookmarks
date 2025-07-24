@@ -692,6 +692,7 @@ Artificial Intelligence
   * [autobe: AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code](https://github.com/wrtnlabs/autobe)
     * [AutoBE Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy - DEV Community](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
     * [AutoBE, Backend No-Coding Agent Achieving 100% Compilation Success (Open Source) - DEV Community](https://dev.to/samchon/autobe-no-code-agent-for-backend-application-writing-100-compilable-code-open-source-1oln)
+    * [AutoBE We made AI Friendly Compilers for Vibe Coding (open-source backend vibe coding agent) - DEV Community](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-491k)
     * [뤼튼테크놀로지스에서 혁신적인 Backend No-code Agent AutoBE를 개발하여 오픈소스로 공개](https://www.facebook.com/groups/codingeverybody/permalink/30724263520520791/)
     * [autobe-example-bbs: AutoBE Generation Example - BBS (Bullet-in Board System)](https://github.com/wrtnlabs/autobe-example-bbs)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
