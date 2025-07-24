@@ -468,6 +468,7 @@ Artificial Intelligence
     * [김영욱 - <AI 코딩 도구 시대에 소프트웨어 엔지니어가 "승리하기 위한 핵심"> GitHub CEO 토마스... | Facebook](https://www.facebook.com/youngwook.kim.7549/posts/pfbid02bf3n3vK4S49So3xVcWL7oY3A7tfQAwg8rraFvyxRY1Wm6t2k9YEP2RsGMQAYtQvJl)
   * [재미로 하는 Vibe Coding - AI 코딩 시대의 신개념 리팩토링 – Prompt-Driven Restart - YouTube](https://www.youtube.com/live/VmSDRP1B6j4)
   * [바이브 코딩 교육의 3가지 허들을 넘는 방법](https://www.stdy.blog/vibe-coding-session-difficulty-three-reasons/)
+  * [MCP 잘쓰면 아무것도 몰라도 바이브코딩 가능합니다 - YouTube](https://www.youtube.com/watch?v=fPyX6G2Bh2g)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -1271,6 +1272,8 @@ Artificial Intelligence
   * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3)
 * [After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](https://albertofortin.com/writing/coding-with-ai)
   * [LLM으로 몇 달간 코딩한 후, 다시 내 두뇌를 쓰기로 했어요 | GeekNews](https://news.hada.io/topic?id=20955)
+* [Coding with LLMs in the summer of 2025 (an update) - <antirez>](https://antirez.com/news/154)
+  * [LLM을 활용한 코딩 (2025년 여름) | GeekNews](https://news.hada.io/topic?id=22085)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
