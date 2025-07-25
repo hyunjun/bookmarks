@@ -1085,6 +1085,8 @@ Artificial Intelligence
   * 남은 과제는 “당장의 불편을 해결할 작은 앱을 오늘 만들 용기가 있는가”라는 질문에 스스로 ‘예’라고 답하는 일뿐
 * [AI 자본지출이 너무 커서 경제 통계까지 뒤흔들고 있음 | GeekNews](https://news.hada.io/topic?id=22064)
 * sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
+* [How AI Companies Will Build Real Defensibility](https://www.nfx.com/post/ai-defensibility)
+  * [AI 기업의 실질적인 방어력 구축 전략 | GeekNews](https://news.hada.io/topic?id=22126)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
