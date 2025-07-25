@@ -1325,6 +1325,10 @@ Artificial Intelligence
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
+  * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+    * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
+    * [클로드 코드를 코딩 황제로 만들어 줄 슈퍼클로드 설치 및 사용법 - YouTube](https://www.youtube.com/watch?v=tNAc4PgQyJ0)
+    * [바이브코딩 작업 환경 수립 (홈페이지 제작 실습 포함) | 챗과장](https://chatmanager.liveklass.com/classes/252907)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
