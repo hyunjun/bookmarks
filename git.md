@@ -737,6 +737,7 @@ Git
   * [Jeremy's Blog | 우리 팀에 맞는 Git Branch 전략 선택하기](https://sungjk.github.io/2023/02/20/branch-strategy.html)
   * [Git Branch 전략 제안](https://lee-lou2.notion.site/Git-Branch-78a65eecaa2d4070ad19221681a96a00)
   * [개발팀을 위한 Git branch 전략, 정답 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2827/)
+  * [우리 팀에 맞는 Git 전략 찾아가기. 재영님 원래 PR은 선빵 필승입니다! | by Jaeyoung Tae | KREAM 기술 블로그 | Medium](https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-git-%EC%A0%84%EB%9E%B5-%EC%B0%BE%EC%95%84%EA%B0%80%EA%B8%B0-6ac420194bac)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
   * [**메시징 서버 개발 프로세스 개선**](https://engineering.linecorp.com/ko/blog/improving-the-messaging-server-development-process)
   * create new branch
