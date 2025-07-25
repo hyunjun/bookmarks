@@ -2340,6 +2340,8 @@ Javascript
 * [Grid.js - Advanced table plugin](https://gridjs.io)
 * [Grunt 소개 및 사용법](http://nuli.navercorp.com/sharing/blog/post/1132682)
   * [MS Code Grunt 명령 디버깅하기](http://mobicon.tistory.com/500)
+* [Gunshi: Modern javascript command-line library](https://github.com/kazupon/gunshi)
+  * [Gunshi - 모던 자바스크립트 커맨드라인 라이브러리 | GeekNews](https://news.hada.io/topic?id=22133)
 * [gu-upload](http://forest71.tistory.com/70)
   * [forest71.tistory.com/category/JavaScript](http://forest71.tistory.com/category/JavaScript)
 * [hack.chat](https://hack.chat/)
