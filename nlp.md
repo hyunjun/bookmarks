@@ -3570,6 +3570,8 @@ NLP
 * [What to expect in GPT 4? (Natural Language Processing) - YouTube](https://www.youtube.com/watch?v=46nCp8kzAK4)
 * [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
 * [블로그는 되고 뉴스는 안 된다? 말뭉치의 종류에 따른 HyperCLOVA 인컨텍스트 러닝(In-context Learning) 성능 변화 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/05/hyperclova-corpus)
+* [2507.16003 Learning without training: The implicit dynamics of in-context learning](https://arxiv.org/abs/2507.16003)
+  * [Tae Hyung Kim - 거대언어모델에게 바이오 관련 가설을 세우기 위한 긴 프롬프트(prompt)를 잘 구조화해서... | Facebook](https://www.facebook.com/socialego/posts/pfbid02G7MgJNZ5yHRFhPRCzutD7Eq3JSeebUzWwjUm2p6RA7t4fWPmqxuDfZeUZXZ8NGcyl)
 * [HyperCLOVA X Vision: 눈을 뜨다 | CLOVA](https://clova.ai/tech-blog/hyperclova-x-vision-%ED%95%98%EC%9D%B4%ED%8D%BC%ED%81%B4%EB%A1%9C%EB%B0%94-%EB%88%88%EC%9D%84-%EB%9C%A8%EB%8B%A4)
   * [HyperCLOVA X Vision : 눈을 뜨다 | GeekNews](https://news.hada.io/topic?id=16402)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
