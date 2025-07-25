@@ -893,6 +893,9 @@ Artificial Intelligence
   * 그러면 남는 것은 독보적인 private 데이터를 가진 회사가 경쟁력을 가질 것
     * 이러한 private 데이터를 많이 가진 Google과 Apple이 장기적으로 유리한 위치를 차지할 것으로 예상
 * [Launching GenAI Productivity Tools: Insights and Lessons - InfoQ](https://www.infoq.com/articles/gen-ai-productivity-tools/)
+* [해빗팩토리가 데이터, 자동화, AI를 활용하여 생산성을 10배로 만든 방법, 100배로 만들 계획](https://www.jungyunho.com/100xhabitfactory/)
+* [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford - YouTube](https://www.youtube.com/watch?v=tbDDYKRFjhk)
+  * [AI 는 "과연" 개발자들의 생산성을 올리는걸까요?](https://www.linkedin.com/posts/kurt-lee-70010391_does-ai-actually-boost-developer-productivity-activity-7354024167538659329-Ndov/)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
 * [Artificial intelligence is already deceiving us and could have unforeseen consequences for humans](https://www.telegraph.co.uk/news/2024/05/10/ai-deceiving-humans-already-unforeseen-consequences-humans/)
@@ -1019,7 +1022,6 @@ Artificial Intelligence
 * [벌써 한계가 왔나... GPU 늘려도 AI가 똑똑해지지 않는다면? - 슬로우뉴스.](https://slownews.kr/120860)
 * [2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
   * [미국 기업 의사결정자 600인이 말하는 Gen AI 2024](https://www.linkedin.com/posts/ugcPost-7267479393193590784-TtJa/)
-* [해빗팩토리가 데이터, 자동화, AI를 활용하여 생산성을 10배로 만든 방법, 100배로 만들 계획](https://www.jungyunho.com/100xhabitfactory/)
 * [The AI agents stack | Letta](https://www.letta.com/blog/ai-agents-stack)
 * [AI 뉴스 - 엔비디아 Fugatto, 소라 유출, 딥마인드 Cat-4D, 오픈AI 로스차일드 음모론, 옵티머스 22 DoF, KLING TRY-ON 등 - YouTube](https://www.youtube.com/watch?v=g1XIwhDgs1o)
 * [보고서: 엔지니어가 보는 2025 AI 산업 : 오호츠크](https://55check.com/?bmode=view&idx=146282222)
