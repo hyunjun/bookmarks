@@ -420,6 +420,8 @@ ElasticSearch - Lucene
 * [(youtube)도메인 정의부터 시작하는 검색 개발. 도메인 핵심 정의를 시작으로 리팩토링 작업 및 속성 패싯 자동 추출… | by 29CM | 29CM TEAM | Aug, 2024 | Medium](https://medium.com/29cm/youtube-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%95%EC%9D%98%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B0%9C%EB%B0%9C-934e2f44ba9b)
 * [인공지능을 쉽게 시작할 수 있는 엘라스틱 서치](https://wizmusa.tistory.com/1170964522)
 * [작은 청크 검색 문제를 해결하는 Contextual BM25F 전략 엿보기 👀](https://blog.sionic.ai/introducing-contextual-bm25f)
+* [I was wrong about robots.txt | Evgenii Pendragon](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
+  * [robots.txt에 대해 내가 틀렸던 점 | GeekNews](https://news.hada.io/topic?id=22114)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
