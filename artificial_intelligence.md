@@ -997,6 +997,8 @@ Artificial Intelligence
   * The author outlines five areas where powerful AI could significantly improve human life: biology and physical health, neuroscience and mental health, economic development and poverty, peace and governance, and work and meaning
   * He also provides a framework for understanding the limitations and complementary factors that affect the impact of AI.
   * [Anthropic의 CEO Dario Amodei가 굉장히 긴 에세이](https://www.linkedin.com/posts/golbin_dario-amodei-machines-of-loving-grace-activity-7250726648482840577-YL7L/)
+* [Anthropic researchers discover the weird AI problem: Why thinking longer makes models dumber | VentureBeat](https://venturebeat.com/ai/anthropic-researchers-discover-the-weird-ai-problem-why-thinking-longer-makes-models-dumber/)
+  * [Anthropic 연구진, AI의 이상한 문제 발견: 왜 더 오래 생각하면 모델이... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0oZbz8xYctXpRT6UfCeBxEntEcUxHtstE5KDoUMBV2uKjid8mdQhZhDmNMcp9Us6bl)
 * [Adobe's new image rotation tool is one of the most impressive AI concepts we've seen | Creative Bloq](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
   * [Adobe의 새로운 이미지 회전 도구, 가장 인상적인 AI 도구 중 하나 | GeekNews](https://news.hada.io/topic?id=17296)
   * [Adobe MAX 2024 발표가 업계에 준 충격 | 기존 강자가 더 강력해지는 Adobe, AI로 당장 돈, 시간 아끼는 수많은 AI 편집 디자인 도구 대거 공개 - YouTube](https://www.youtube.com/watch?v=8e6GyeIBrJQ)
