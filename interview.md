@@ -628,6 +628,7 @@ Interview
     * [Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
     * [Lecture 29 — Web Search Introduction & Web Crawler | UIUC](https://www.youtube.com/watch?v=DvWmdCctYN8)
     * [System Design distributed web crawler to crawl Billions of web pages | web crawler system design](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
+    * [Design a Web Crawler | Hello Interview System Design in a Hurry](https://www.hellointerview.com/learn/system-design/problem-breakdowns/web-crawler)
   * [System Design Interview with a Senior Software Engineer @Microsoft](https://www.youtube.com/watch?v=lOcqPEOROwQ) Google maps
   * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
