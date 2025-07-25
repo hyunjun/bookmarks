@@ -319,6 +319,7 @@ Artificial Intelligence
 * [Mohamed Rashad - Taking AI Agents from Prototype to Production - YouTube](https://www.youtube.com/watch?v=uDysrELDjMw)
 * [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
+* [AI Agent가 복잡한 테이블 데이터 처리하는 방법](https://channel.io/ko/team/blog/articles/e6b1056a)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
