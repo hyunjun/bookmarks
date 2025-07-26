@@ -2450,6 +2450,8 @@ NLP
   * [**언어 모델을 왜 이렇게 고사양의 GPU가 필요할까?**](https://www.linkedin.com/posts/gim-gyungjin-7430aab4_%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B3%A0%EC%82%AC%EC%96%91%EC%9D%98-gpu%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-autoregressive-activity-7352335035087114241-U2iY/)
 * [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
   * [The Big LLM Architecture Comparison | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5064909/4445700)
+* [Beyond Tokenization: How Hierarchical Networks (H-Nets) are Revolutionizing Language Models | by Jossue Amador | Jul, 2025 | Medium](https://medium.com/@jfaa27/beyond-tokenization-how-hierarchical-networks-h-nets-are-revolutionizing-language-models-0068d242673b)
+  * [토큰화의 경계를 넘다: H-넷의 혁신 | AIB프레스](https://aibpress.com/news/7643)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
