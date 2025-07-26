@@ -113,6 +113,7 @@ Math
 * [1/499999 | Cool Math Stuff | Abakcus](https://abakcus.com/directory/1-499999/) 신기한 숫자 패턴
 * [각도가 적용 된 사각형 도형의 각 꼭짓점 좌표 구하기 | Univdev](https://www.univdev.page/posts/get-points-rotated-rect/)
 * [함수해석학 맛보기 – LY4I](https://ly4i.com/post/functional-analysis-a-sneak-peek/)
+* [상자에 공 넣기, 상자를 두 개씩 고르면? (Power of Two Choices)](https://gazelle-and-cs.tistory.com/41)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
