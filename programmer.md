@@ -108,6 +108,7 @@ Programmer
 * [그 때 성장이라고 생각했던 것들 | JBEE.io](https://jbee.io/essay/growth-mistaken-2020/)
 * [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
+* [AI가 모든 답을 아는데 왜 공부할까? 실리콘밸리를 사로잡은 드와케시의 학습 철학](https://www.linkedin.com/posts/leekh929_ai%EA%B0%80-%EB%AA%A8%EB%93%A0-%EB%8B%B5%EC%9D%84-%EC%95%84%EB%8A%94%EB%8D%B0-%EC%99%9C-%EA%B3%B5%EB%B6%80%ED%95%A0%EA%B9%8C-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EC%82%AC%EB%A1%9C%EC%9E%A1%EC%9D%80-%EB%93%9C%EC%99%80%EC%BC%80%EC%8B%9C%EC%9D%98-%ED%95%99%EC%8A%B5-activity-7354689007626174464-g6jD/)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
