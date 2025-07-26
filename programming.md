@@ -994,6 +994,7 @@ Programming
 * [최소의 비용으로 서비스 개발하기 | GeekNews](https://news.hada.io/topic?id=15786) Supabase + Flutter + Retool
 * [비개발자도 개발을 배우는 것이 좋을까... '매우 강력하게 추천'](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B2%83%EC%9D%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%9D%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C%EB%8A%94-%EC%B0%AC%EC%84%B1%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%8F%84-%EC%9E%88%EA%B3%A0-activity-7236994698425298944-JcMZ/)
 * [제품개발을 주저하는 비개발자를 위해 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4)
+* [간단한 스크립트라면 메모리 걱정은 안 해도 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3254/) OOM out of memory 메모리 누수 메모리 릭
 
 # Agile, Scrum
 * book
