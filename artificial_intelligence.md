@@ -1317,6 +1317,7 @@ Artificial Intelligence
   * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
+  * [클로드 코드 커스텀 서브에이전트 신규 업데이트 - YouTube](https://www.youtube.com/watch?v=Cvy9KzJT4ro)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
