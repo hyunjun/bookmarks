@@ -470,6 +470,8 @@ Artificial Intelligence
   * [재미로 하는 Vibe Coding - AI 코딩 시대의 신개념 리팩토링 – Prompt-Driven Restart - YouTube](https://www.youtube.com/live/VmSDRP1B6j4)
   * [바이브 코딩 교육의 3가지 허들을 넘는 방법](https://www.stdy.blog/vibe-coding-session-difficulty-three-reasons/)
   * [MCP 잘쓰면 아무것도 몰라도 바이브코딩 가능합니다 - YouTube](https://www.youtube.com/watch?v=fPyX6G2Bh2g)
+  * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
+    * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
@@ -1249,6 +1251,7 @@ Artificial Intelligence
 * [Revyl](https://www.revyl.ai/) AI를 통해 test를 한다고 하는 도구
 * [Reworkd](https://auth.reworkd.ai/)
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
+* [serena: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)](https://github.com/oraios/serena)
 * [Shots - Create Amazing Mockups](https://shots.so/)
 * [skywork.ai](https://skywork.ai/)
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
@@ -1315,6 +1318,8 @@ Artificial Intelligence
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+  * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
+    * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -1490,6 +1495,7 @@ Artificial Intelligence
   * [나만의 Visual Studio Code Copilot 지침 만들고 활용하기](https://d2.naver.com/helloworld/6615449)
   * [Cursor AI 와 Github Copilot 비교해 봤습니다 - 남들은 Cursor AI 가 더 좋다고 하던데 저는... - YouTube](https://www.youtube.com/watch?v=scG3agQQ79E)
   * [바이브 코딩을 포기하거나 멈춰있는 고급 사용자를 위한 실전 팁 - YouTube](https://www.youtube.com/watch?v=gP92KZq4N9s)
+  * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
   * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
