@@ -4577,6 +4577,7 @@ Business
   * [사용자 리서치, AI가 대신할 수 있을까?](https://brunch.co.kr/@monglec/154)
 * [Apple's Liquid Glass: When Aesthetics Beat Function - Max van IJsselmuiden](https://www.maxvanijsselmuiden.nl/liquid-glass)
   * [Apple의 Liquid Glass: 미적 일관성의 함정 | GeekNews](https://news.hada.io/topic?id=22152)
+* [Apple 디자인: 왜 우리는 계속해서 이 주제로 돌아가는 걸까? - YouTube](https://www.youtube.com/watch?v=A_h4A8caCTM)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
