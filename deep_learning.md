@@ -2890,6 +2890,8 @@ CVPR2016)
 * [Notes on Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
   * [Diffusion Models의 원리를 설명하는 글 | GeekNews](https://news.hada.io/topic?id=15013)
 * [HuggingFace 스페이스 - OOTD를 내 마음대로, OOTDiffusion | 지피터스 GPTers](https://www.gpters.org/c/huggingface/huggingface-ootd-ootdiffusion) OOTDiffusion OutfitAnyone
+* [AI Gallery - Create stunning AI-powered artwork instantly](https://aigallery.app/create)
+  * [무료+무제한+검열없음+상업용까지 = 최강 이미지 생성 AI 등장! - YouTube](https://www.youtube.com/watch?v=HH5TXYPzqTY)
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111)
 * [awesome-diffusion: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources](https://github.com/cobanov/awesome-diffusion)
 * [B^ DISCOVER - Home](https://bdiscover.kakaobrain.com/)
