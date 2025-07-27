@@ -76,6 +76,7 @@ Hardware
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [가성비 끝판 대장 N100 미니 PC로 고성능 NAS 만들기 - YouTube](https://www.youtube.com/watch?v=KUICRLV3NGE)
+* [손바닥만한 NAS에 NVMe SSD가 6개나 달립니다. - YouTube](https://www.youtube.com/watch?v=5UNCQ-K3up8)
 * [홈랩 프로젝트#1: 프롤로그 - 나에게 홈랩이란? 목적은 무엇인가? | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/07/24/home-lab-introduction/)
 * [홈랩 프로젝트#2: 현재 운영중인 장비와 구조 | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/09/14/home-lab-devices/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
