@@ -4598,6 +4598,7 @@ Programming
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 * [인터프리터 vs 컴파일러: 프로그래밍 언어계의 토끼와 거북이 - 모두의연구소](https://modulabs.co.kr/blog/interpreter-and-compiler/)
+* [일부 프로젝트에서 여러 프로그래밍 언어를 사용하는 이유 - YouTube](https://www.youtube.com/watch?v=XJC5WB2Bwrc)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
 * [Decompiler Explorer](https://dogbolt.org/)
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
