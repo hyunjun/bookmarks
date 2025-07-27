@@ -216,6 +216,8 @@ Azure
 * [How to pass objects between tasks in Azure pipeline | Devops](https://dotnet-helpers.com/devops/pass-objects-between-tasks-in-azure-pipeline/)
 * [Azure App 서비스 제거 오류 해결 방법](https://www.dokyun.pe.kr/351)
 * [Enhancing AI Integrations with MCP and Azure API Management | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/enhancing-ai-integrations-with-mcp-and-azure-api-management/4407114)
+* [Azure AI Mind Map: Visual Guide to Scalable AI Applications - YouTube](https://www.youtube.com/watch?v=gf2xfNT7Mqw)
+  * [Azure AI Mind Map: Visual Guide to Scalable AI Applications | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5154967/4586557)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
