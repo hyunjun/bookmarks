@@ -2904,6 +2904,7 @@ Python
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
 * [Optimizing task queues with Celery and Flask - LogRocket Blog](https://blog.logrocket.com/optimizing-task-queues-celery-flask/)
+* [Flask 앱에서 Celery Beat를 사용하여 동적 일정을 만드는 방법 - YouTube](https://www.youtube.com/watch?v=MNb_MqUyHsE)
 * [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
 * [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
 * [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
