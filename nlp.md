@@ -3284,6 +3284,7 @@ NLP
 * [llm-starter-pack: 🤖 Get started with LLMs on your kind cluster, today!](https://github.com/cncf/llm-starter-pack)
 * [The /llms.txt file – llms-txt](https://llmstxt.org/)
   * [Llms.txt - LLM에게 웹사이트 이용정보를 제공하기 위한 표준 제안 | GeekNews](https://news.hada.io/topic?id=16676)
+  * [생성형 엔진 최적화(GEO)의 핵심, llms.txt](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1246588737160472&hoisted_section_header_type=recently_seen)
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
