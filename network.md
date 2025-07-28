@@ -114,6 +114,7 @@ Network
 * [http와 https 대신 hxxp와 hxxps를 사용하는 이유 | Novemberde's Blog](https://novemberde.github.io/post/2024/11/07/http-https-hxxp-hxxps/)
 * [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
   * [TCP나 UDP를 사용하지 않으면 무슨 일이 일어날까? | GeekNews](https://news.hada.io/topic?id=19467)
+* [누군가 staging에서 “임시 NAT”를 설정할 때마다 어딘가에선 SRE가 눈물을 흘린다](https://www.linkedin.com/posts/victor-maltsev_devops-kubernetes-incidentresponse-activity-7354819741246451713-jVQB/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
