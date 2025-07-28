@@ -2647,6 +2647,7 @@ NLP
 * [EXAONE-Deep-32B · Hugging Face](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B)
   * [LG, 자체개발 추론AI '엑사원 딥' 공개…'에이전틱 AI' 시대 예고](https://n.news.naver.com/article/001/0015270988?sid=105)
   * [LG EXAONE 4 서버리스 슬랙 앱 연동 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223943912594)
+  * [LG EXAONE4 AI 모델 GCC 연동 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223949457227)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
   * [Falcon-40B 모델을 대규모 모델 추론 딥러닝 컨테이너(DLC)로 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/)
