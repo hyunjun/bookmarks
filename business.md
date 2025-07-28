@@ -3672,6 +3672,7 @@ Business
 * [모두가 알지만 누구도 제대로 쓰지 못하는, PRD | 요즘IT](https://yozm.wishket.com/magazine/detail/2826/)
 * [학습과 성장 컨퍼런스 2024의 연사진 소개](https://puddingcamp.com/meetups/conference2024/speakers/kwaan)
   * [권준호+-+어딜가나+PRD를+얘기하는+사람+-+학습과+성장+컨퍼런스+2024.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://s3.ap-northeast-2.amazonaws.com/pudding.camp/static/conference/2024/%E1%84%80%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A9+-+%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%86%AF%E1%84%80%E1%85%A1%E1%84%82%E1%85%A1+PRD%E1%84%85%E1%85%B3%E1%86%AF+%E1%84%8B%E1%85%A4%E1%84%80%E1%85%B5%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB+%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7+-+%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%80%E1%85%AA+%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC+%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%91%E1%85%A5%E1%84%85%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3+2024.pdf)
+* [product의 본질과 목적과 하이 레벨의 요구 사항 정도만 정해지면 구체화 및 clarification은 엔지니어들이 고객과 직접 소통하며 수행하도록 해야 한다는 주장](https://www.linkedin.com/posts/spike-jee-480225a_10x-developers-dont-use-requirements-they-activity-7355312686206738432-92Q6/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
