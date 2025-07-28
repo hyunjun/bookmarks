@@ -1793,6 +1793,7 @@ App
   * [UTM | Virtual machines for Mac](https://mac.getutm.app/)
   * [애플 실리콘 맥에서 윈도우를 무료로 돌리자! UTM 사용법](https://techtree.tistory.com/98) VHDX로 Mac에 Window 설치
   * [Installing Windows 11 on MacBook M1 (ARM64) | by Damilola Omoyiwola | Medium](https://princessdharmy.medium.com/installing-windows-11-on-macbook-m1-arm64-e1e7e0f52ce0)
+  * [MacBook Apple Silicon에서 UTM을 이용해 Debian 12 (ARM64) 설치해보기](https://webnautes.kr/macbook-apple-siliconeseo-utmeul-iyonghae-debian-12-arm64-seolcihaebogi/)
 * Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
