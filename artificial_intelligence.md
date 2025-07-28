@@ -564,6 +564,7 @@ Artificial Intelligence
     * [개발자 터미널에 AI 에이전트가?.... 구글, 오픈소스 '제미나이 CLI' 전격 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35422)
     * [제미나이 CLI(Gemini CLI)로 쿠버네티스 관리하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3228/)
     * [제미나이 CLI(Gemini CLI)로 프로메테우스/그라파나 배포하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3239/)
+    * [알아두면 쓸모있는 제미나이 CLI(Gemini CLI) 사용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3259/)
     * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
