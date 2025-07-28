@@ -1573,6 +1573,7 @@ Artificial Intelligence
     * [Cursor 의 숨겨진 강력함, Cursor Rule 제대로 활용하기](https://devway.tistory.com/67)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
     * [커서 Rule은 이 영상으로 끝납니다 | 개념부터 실전노하우까지 - YouTube](https://www.youtube.com/watch?v=5rCk0tjkvNM)
+    * [AI로 디자인 진짜 잘하는법 - YouTube](https://www.youtube.com/watch?v=RnJkhxFMWDY)
   * [cursor-security-rules: This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development.](https://github.com/matank001/cursor-security-rules)
   * figma
     * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
