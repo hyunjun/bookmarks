@@ -1277,6 +1277,7 @@ NLP
   * [Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy](https://github.com/katanemo/arch)
     * [Arch - 지능형 프롬프트 게이트웨이 | GeekNews](https://news.hada.io/topic?id=17438)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
+* [claudecode.md at main · kn1026/cc · GitHub](https://github.com/kn1026/cc/blob/main/claudecode.md) claude code system prompt 유출본(진위는 알 수 없음)
 * [Cluely System prompt](https://gist.github.com/cablej/ccfe7fe097d8bbb05519bacfeb910038)
   * ['Cluely'의 시스템 프롬프트가 유출](https://www.linkedin.com/posts/jaeyunhenrylee_cluely%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-%EC%9C%A0%EC%B6%9C%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-ai%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%84-activity-7342544831841280000-Fv59/)
 * CoD Chain of Density
