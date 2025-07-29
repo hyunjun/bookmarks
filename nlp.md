@@ -416,6 +416,8 @@ NLP
 * [2305.18323 ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323)
   * [AI 시대 취업 및 사업 - 이것을 준비하세요. ReWOO 소스코드 분석 및 IT 직무 변화 전망 - YouTube](https://www.youtube.com/watch?v=_MnR4K59fVg)
     * [ReasoningWithoutObservation.ipynb - Colab](https://colab.research.google.com/drive/1J2vYIErlpZqRsNzetFLy0w0mkITGgO05?usp=sharing#scrollTo=byAW1Rp1RulY)
+* [REST: A Stress-Testing Framework for Evaluating Multi-Problem Reasoning in Large Reasoning Models - MarkTechPost](https://www.marktechpost.com/2025/07/26/rest-a-stress-testing-framework-for-evaluating-multi-problem-reasoning-in-large-reasoning-models/)
+  * [REST로 본 대규모 추론 모델의 다중 문제 처리 능력](https://aibpress.com/news/7707)
 * [텍스트 정규화 #1 — 공백 차이. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-1-%EA%B3%B5%EB%B0%B1-%EC%B0%A8%EC%9D%B4-23a987169051)
 * [텍스트 정규화 #2 — 대소문자 차이. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-2-%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90-%EC%B0%A8%EC%9D%B4-ae05fa3ebd44)
 * [텍스트 정규화 #3 — 구두점(punctuation) 차이. 1. 문제 상황 소개 | by Jaeseong Yoo | Apr, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-3-%EA%B5%AC%EB%91%90%EC%A0%90-punctuation-%EC%B0%A8%EC%9D%B4-75182d763d46)
