@@ -902,6 +902,14 @@ Artificial Intelligence
   * [AI 는 "과연" 개발자들의 생산성을 올리는걸까요?](https://www.linkedin.com/posts/kurt-lee-70010391_does-ai-actually-boost-developer-productivity-activity-7354024167538659329-Ndov/)
 * [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) When developers are allowed to use AI tools, they take 19% longer to complete issues
   * [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5158313/4591896)
+  * [X에서 Quentin Anthony 님 : "I was one of the 16 devs in this study. I wanted to speak on my opinions about the causes and mitigation strategies for dev slowdown. I'll say as a "why listen to you?" hook that I experienced a -38% AI-speedup on my assigned issues. I think transparency helps the community. https://t.co/Qc7nSFj6kR" / X](https://x.com/QuentinAnthon15/status/1943948791775998069)
+    * [박성철 - 며칠 전에 16명의 개발자에게 AI 개발 도구(커서와 클로드 소넷)로 일하게 하고 생산성에 어떤 변화가... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02vgkGzc1NgAZTvrX24jv11oXMHcp9VrYGn5Fe2vEGZRauXeSegNnA63azNjgWMM2al)
+    * 16명의 개발자 중에 유독 한 사람(퀜틴 앤서니)만 무려 38%의 생산성 개선
+    * 예외적인 성과를 낸 이유를 다음과 같이 정리
+      * 1. 실패 모드 회피 중요. 개발을 잘한다고 AI 도구를 잘 쓰는 건 아니다. 사람들은 AI는 도구일 뿐이라고 말하면서 마법의 상자처럼 대한다. LLM에 대한 과도한 기대 때문에 지나친 과제를 부여하고 맞는 결과가 나올 때까지 계속 재시도(이런 반복된 행위 자체가 도파민이 분출되는 쾌감)
+      * 2. LLM의 능력은 극도로 편중. 학습 데이터가 풍부한 영역에서는 뛰어나지만 그렇지 않은 영역에서는 매우 취약. 잠깐 간보고 안되겠다 싶으면 직접 수동으로 처리 필요
+      * 3. 답변을 기다리면서 딴짓을 할 가능성이 높다. 집중력을 유지하기 위해 후속 작업을 준비하는 등 의식적인 맥락 관리 필요
+      * LLM은 도구일 뿐이고 LLM의 함정을 배울 뿐 아니라 자기를 성찰해야
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
 * [Artificial intelligence is already deceiving us and could have unforeseen consequences for humans](https://www.telegraph.co.uk/news/2024/05/10/ai-deceiving-humans-already-unforeseen-consequences-humans/)
