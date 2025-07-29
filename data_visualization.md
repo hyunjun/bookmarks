@@ -467,6 +467,8 @@ Data Visualization
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [scientific-visualization-book: ❗️WIP❗️An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
+* [squarify: Pure Python implementation of the squarify treemap layout algorithm](https://github.com/laserson/squarify)
+  * [🌳 직관적인 데이터 시각화, Squarify 하나면 충분! (ft.treemap) #데이터분석 #파이썬 - YouTube](https://www.youtube.com/watch?v=hg4_vynMMoM)
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
 * [sweetviz: Visualize and compare datasets, target values and associations, with one line of code](https://github.com/fbdesignpro/sweetviz)
   * [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
