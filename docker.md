@@ -2117,6 +2117,8 @@ Docker
 * [what-would-a-kubernetes-2-0-look-like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
   * [Kubernetese 2.0은 어떤 모습일까 | GeekNews](https://news.hada.io/topic?id=21571)
 * [Kubernetes GPU 클러스터에서 AI 서비스 오토스케일링하기](https://d2.naver.com/helloworld/0251755)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 01. 쿠버네티스로 구현하는 생성형 AI 클라우드 네이티브 아키텍처 - YouTube](https://www.youtube.com/watch?v=YYETIcL92NQ)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 02. Petasus AI Cloud: AI 워크로드 최적화를 위한 쿠버네티스 기반 가상화 플랫폼 - YouTube](https://www.youtube.com/watch?v=U63qZE_AZrk)
 * [쿠버네티스 컨테이너 한방 정리 #3 - 일프로님의 블로그 - 인프런 | 커뮤니티](https://www.inflearn.com/blogs/3576)
 * [k8s 마스터 장애, 당황하지 마세요! kubeadm HA etcd 백업/복구 Step-by-Step – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/05/k8s-%eb%a7%88%ec%8a%a4%ed%84%b0-%ec%9e%a5%ec%95%a0-%eb%8b%b9%ed%99%a9%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-kubeadm-ha-etcd-%eb%b0%b1%ec%97%85-%eb%b3%b5%ea%b5%ac-step-by-step/)
 
@@ -3104,6 +3106,7 @@ Docker
 * [Hyper-V Open Stack Controller Node Hyper-V 구성 및 Ubuntu 22.04.3 LTS Server 설치](https://junyharang.tistory.com/467)
 * [Hyper-V Open Stack Controller Node ② NTP Server 구성](https://junyharang.tistory.com/468)
 * [OpenStack CCM 기반 Istio Ingress Gateway 동작 원리 및 사례 분석 | by Sigrid Jin | Feb, 2025 | Medium](https://sigridjin.medium.com/openstack-ccm-%EA%B8%B0%EB%B0%98-istio-ingress-gateway-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%EB%B0%8F-%EC%82%AC%EB%A1%80-%EB%B6%84%EC%84%9D-4d8e29e1e9a1)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 03. 오픈스택 기반 AI 클라우드 플랫폼 설계 및 구축, 운영 경험 - YouTube](https://www.youtube.com/watch?v=6PcFsFKehFY)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)

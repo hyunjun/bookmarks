@@ -2072,6 +2072,7 @@ NLP
 * [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [Large Language Models: From Prototype to Production — Ines Montani - YouTube](https://www.youtube.com/watch?v=ZjjgMiCU8s4)
 * [Frameworks for Serving LLMs. A comprehensive guide into LLMs inference and serving | by Sergei Savvov | Jul, 2023 | Medium | Better Programming](https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 06. 리벨리온의 LLM Serving Stack - YouTube](https://www.youtube.com/watch?v=BNejw0Hjo7k)
 * [LLM 모델 기반 서비스 실전 가이드 | PPT](https://www.slideshare.net/taeyounglee1447/llm-261139869)
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
 * [OpenAI will Transform Data Science - Here's How - YouTube](https://www.youtube.com/watch?v=NBseu9f3P5U) function calling

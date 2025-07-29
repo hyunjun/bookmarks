@@ -248,6 +248,7 @@ Artificial Intelligence
   * [Multi-GPU 파일 저장 및 삭제 주의사항 : 네이버 블로그](https://blog.naver.com/jjunsss/223075355198) 8. Efficient usage strategy of DDP.
   * [DDP Simple usage : 네이버 블로그](https://blog.naver.com/jjunsss/223332125853)
   * [Efficiently usage strateg.. : 네이버블로그](https://blog.naver.com/jjunsss/223369001486)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 04. MPSFlow: NVIDIA MPS를 컨테이너 레벨의 분할 기술로 확장하기 - YouTube](https://www.youtube.com/watch?v=93ASL5B_3SQ)
 * [김유신 - 기업에서 AI를 구축하고 활용하려고 할 때, 가장 큰 난관은 무엇일까요? 저는 Data 라고 생각합니다.... | Facebook](https://www.facebook.com/neotevan/posts/pfbid0sMVGxjdtbxoE8WVWHDL63aryzbPUmCnFukmjep2XMwQHHWQN4hNNQ1R5xD9pFV9Tl)
 * [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
@@ -1097,6 +1098,9 @@ Artificial Intelligence
 * sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
 * [How AI Companies Will Build Real Defensibility](https://www.nfx.com/post/ai-defensibility)
   * [AI 기업의 실질적인 방어력 구축 전략 | GeekNews](https://news.hada.io/topic?id=22126)
+* [제8회 데보션(DEVOCEAN) 테크 데이 - 05. AI Without Limits: From Alternative Compute to Green Hyperscaler - YouTube](https://www.youtube.com/watch?v=eIGuDhZXyUs)
+  * [ChatGPT consumes enough power in one year to charge over three million electric cars](https://balkangreenenergynews.com/chatgpt-consumes-enough-power-in-one-year-to-charge-over-three-million-electric-cars/)
+    * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
