@@ -3861,6 +3861,8 @@ Business
   * 정말로 해결하고 싶다면 제품을 만드는 사람들 가운데 누가 이러한 이야기에 관심을 가지는지를 찾고 다가서야
 * [What I learned from tracking 443 SaaS pricing pages](https://www.growthunhinged.com/p/state-of-saas-pricing-changes-2024)
   * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
+* [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 - YouTube](https://www.youtube.com/watch?v=WHTtFWPiqkA)
+  * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5177955/4622060)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
