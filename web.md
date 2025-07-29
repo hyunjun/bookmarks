@@ -1066,6 +1066,8 @@ Web
   * [Let's start a React/Next.js + Typescript + TailwindCSS project - Zhe-Jia's Blog](https://blog.zjzhang.org/post/Lets-start-a-React-Nextjs-Typescript-TailwindCSS-project)
   * [monorepo에 tailwindcss 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-tailwind)
   * [tailwindcss에서 임포트 구문 사용하기 – 형우의 웹개발](https://mytory.net/archives/16696)
+  * [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
+    * [번역 tailwindcss는 세상에서 가장 최악의 도구다.](https://velog.io/@composite/tailwindcss%EB%8A%94-%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%B5%9C%EC%95%85%EC%9D%98-%EB%8F%84%EA%B5%AC%EB%8B%A4)
   * [shadcn-ui/ui: Beautifully designed components built with Radix UI and Tailwind CSS](https://github.com/shadcn-ui/ui)
     * shadcn-ui는 UI 라이브러리이면서 UI 라이브러리가 아님
     * UI 컴포넌트 코드가 파일로 추가되어 설치가 되는 특이한 방식으로 동작. 이러한 특성 덕분에, 코드 동작 및 스타일을 변경 용이
