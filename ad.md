@@ -64,6 +64,7 @@
   * 광고로 돈을 벌기 위해서는 광고부서만 열심히 해서는 안된다
     * 서비스가 먼저 살아나야 하고, 광고로 돈을 벌고, 여기에서 번 돈으로 다시 서비스에 재투자하는 선순환 과정이 일어나야 한다
   * 웹툰 송곳의 대사처럼 서는 자리가 변하면 보이는 것도 달라진다
+* [CEO의 불륜을 기회로 만든 천재 마케팅 feat. 기네스 팰트로 - YouTube](https://www.youtube.com/watch?v=3b6h4St4aX8) astronomer 아스트로노머
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
