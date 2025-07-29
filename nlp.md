@@ -2026,6 +2026,8 @@ NLP
 * [개발자로서 LLM 사용을 위해 알아두면 좋은 내용들 (Large Language Model for ordinary developers), Haandol](https://haandol.github.io/2023/05/02/llm-for-ordinary-developers.html)
 * [Finetuning LLMs Efficiently with Adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
 * [🔥 라이브 Q&A Open Ko(한국어) LLM 리더보드 최장기간 1위 모델 개발하신 이승유님과 #FineTuning 주제로 달려봅시다! 🔥 - YouTube](https://www.youtube.com/live/ptlmj9Y9iwE)
+* [top 5 LLM fine-tuning techniques, explained with visuals](https://www.linkedin.com/posts/akshay-pachaar_i-have-been-fine-tuning-llms-for-over-2-years-activity-7355228285615656960--zwM/)
+  * 1) LoRA 2) LoRA-FA 3) VeRA 4) Delta-LoRA 5) LoRA+
 * [HelloWorld.23 개발자를 위한 Large Language Model(LLM)- 한성민 - YouTube](https://www.youtube.com/watch?v=MQqywFK36V8)
 * [칼럼ㅣ대규모 언어 모델(LLM)에의 열광 유감 - CIO Korea](https://www.ciokorea.com/column/291979)
 * [대형 언어 모델을 바라보는 IT와 금융 업계의 시선](https://www.boannews.com/media/view.asp?idx=118316)
