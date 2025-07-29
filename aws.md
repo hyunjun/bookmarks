@@ -765,6 +765,8 @@ AWS
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
     * [MCP를 지원하는 Agent를 서버리스인 AgentCore Runtime에 배포](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-strands-activity-7353125091678801920-v-Kq/)
+  * [agentcore/code-interpreter.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/code-interpreter.md)
+    * [MCP로 Sandbox 환경에서 Code Interpreter를 활용하는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-codeinterpreter-agent-activity-7355449710465216512-McWd/)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
