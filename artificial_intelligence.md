@@ -278,8 +278,8 @@ Artificial Intelligence
   * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
     * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
   * context rot
-  * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
-  * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
+    * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
+    * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -1092,6 +1092,8 @@ Artificial Intelligence
 * [Augmented Coding: Beyond the Vibes - by Kent Beck](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
   * [켄트 벡의 Augmented Coding: Beyond the Vibes 요약 및 추가 의견 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BC%2584%25ED%258A%25B8-%25EB%25B2%25A1%25EC%259D%2598-augmented-coding-beyond-vibes-%25EC%259A%2594%25EC%2595%25BD-%25EB%25B0%258F-%25EC%25B6%2594%25EA%25B0%2580-%25EC%259D%2598%25EA%25B2%25AC-toby-lee-mcy8e)
   * [AI가 잘못하고 있다는 3가지 신호 + TDD를 돕는 시스템 프롬프트 by 켄트 벡 (feat. 증강형 코딩)](https://www.stdy.blog/warning-signs-for-off-track-ai-and-tdd-system-prompts-by-kent-beck/)
+* [TDD, AI agents and coding with Kent Beck - YouTube](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
+  * [TDD, AI agents and coding with Kent Beck | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5185989/4634407)
 * [바이브 코딩과 엔지니어링 성숙도 향상, 어느쪽이 먼저일까? :: ROBOCO](https://roboco.io/posts/vibe-coding-vs-engineering-maturity/)
 * [1인 유니콘의 조건: 혼자서 얼마나 많은 LLM 토큰을 쓸 수 있으신가요? - by Taeho](https://briandwjang.substack.com/p/1-llm)
 * [바이브 코딩 시대의 채용 전략 :: ROBOCO](https://roboco.io/posts/vibe-coding-hiring-strategy/)
@@ -1284,6 +1286,7 @@ Artificial Intelligence
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
+* [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
 
 ## Tool coding assistant
@@ -1352,6 +1355,9 @@ Artificial Intelligence
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
+  * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
+    * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
+    * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
@@ -1588,6 +1594,7 @@ Artificial Intelligence
     * [커서 Rule은 이 영상으로 끝납니다 | 개념부터 실전노하우까지 - YouTube](https://www.youtube.com/watch?v=5rCk0tjkvNM)
     * [AI로 디자인 진짜 잘하는법 - YouTube](https://www.youtube.com/watch?v=RnJkhxFMWDY)
   * [cursor-security-rules: This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development.](https://github.com/matank001/cursor-security-rules)
+  * [Easiest Next.js with Cursor | EasyNext](https://easynext.org/)
   * figma
     * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
     * [딸깍 Figma 디자인 자동화 MCP로 클리어! - YouTube](https://www.youtube.com/watch?v=oG5LgSrnXBQ)
