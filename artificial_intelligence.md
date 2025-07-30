@@ -789,6 +789,7 @@ Artificial Intelligence
 * [Strands Agents SDK](https://strandsagents.com/)
   * [strands-agent: It shows how to use strands agent.](https://github.com/kyopark2014/strands-agent)
   * [Strands agent는 Q Developer의 근간이 되는 agent로서 복잡한 요청을 reasoning을 이용해 수행하고 MCP도 연결할 수 있으며, supervisor와 swarm과 같은 multi agent도 구현할 수 있습니다. 근래에 LangGraph이 지나치게 비대해지는 느낌인데, 충분히 대체가능한 솔루션으로 보입니다](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_strands-mcp-agent-activity-7330226395630960640-IY8R/)
+  * [MCP로 AWS의 Kubernetes 서비스인 EKS에 노드를 생성하고, 여기에 Streamlit으로된 Chatbot Application을 배포할 수 있습니다. | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-strands-agent-ugcPost-7347672854814969856-SNri)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
@@ -1081,6 +1082,8 @@ Artificial Intelligence
 * [Trends - Artificial Intelligence | BOND](https://www.bondcap.com/reports/tai) Mary Meeker
 * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://www.linkedin.com/posts/leekh929_%EB%AA%A8%EB%93%A0-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%B6%A9%EA%B2%A9%EC%A0%81-%ED%98%84%EC%8B%A4-ai-vs-saas-%EC%A0%84%EC%9F%81-activity-7342367206992683009-Ciyr/)
   * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://jober.io/wall-write-document/8eed3ca9-62d2-49af-a9c2-e514e1ba792a)
+* [SaaS Is Dead. Long Live Service-As-A-Service](https://www.forbes.com/sites/alexanderpuutio/2025/07/04/saas-is-dead-long-live-service-as-a-service/)
+  * [AI는 정말 SaaS 시대를 끝내고 있는가? | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EB%8A%94-%EC%A0%95%EB%A7%90-saas-%EC%8B%9C%EB%8C%80%EB%A5%BC-%EB%81%9D%EB%82%B4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-1-%EC%9A%94%EC%A6%98-%ED%99%94%EB%91%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-activity-7347416538506764288-YHgG)
 * [**The AI-Native Software Engineer | Substack**](https://substack.com/home/post/p-165160941)
   * [AI-네이티브 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=21890)
 * [메타 CFO가 말하는 AI 시대 CFO가 고민해야 할 3가지](https://www.linkedin.com/posts/leekh929_%EB%A9%94%ED%83%80-cfo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8B%9C%EB%8C%80-cfo%EA%B0%80-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-1-ai%EA%B0%80-activity-7346281526092865536--QSp/)
@@ -1257,6 +1260,8 @@ Artificial Intelligence
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
+* Pine AI [AI Assistant to Handle Bills, Subscriptions, and Complaints | Pine AI](https://www.19pine.ai/)
+  * [아직은 미국내 서비스만 가능하지만 너무 신박해서 소개합니다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-assistant-to-handle-bills-subscriptions-activity-7347591957533085697-gJZk)
 * [PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
   * [Home | Pocket Flow](https://the-pocket.github.io/PocketFlow-Tutorial-Codebase-Knowledge/)
   * [code_to_tutorial](https://github.com/dabidstudio/code_to_tutorial)
