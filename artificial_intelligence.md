@@ -1349,6 +1349,7 @@ Artificial Intelligence
     * [LMCache x Mooncake: Unite to Pioneer KVCache-Centric LLM Serving System | LMCache blog website](https://blog.lmcache.ai/2025-05-08-mooncake/)
   * [클로드 코드: 19분 만에 초보자에서 전문가로 - YouTube](https://www.youtube.com/watch?v=zW28e7LGPRQ)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+  * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
