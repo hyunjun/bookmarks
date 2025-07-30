@@ -765,6 +765,8 @@ AWS
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
     * [MCP를 지원하는 Agent를 서버리스인 AgentCore Runtime에 배포](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-strands-activity-7353125091678801920-v-Kq/)
+  * [agentcore/browser.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/browser.md)
+    * [MCP로 직접 Browser를 조작하여 필요한 정보를 추출하면, 생성형 AI의 활용을 높일수 있습니다. | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-agentcore-browseruse-ugcPost-7356103423097794560-d1Tc)
   * [agentcore/code-interpreter.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/code-interpreter.md)
     * [MCP로 Sandbox 환경에서 Code Interpreter를 활용하는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-codeinterpreter-agent-activity-7355449710465216512-McWd/)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
