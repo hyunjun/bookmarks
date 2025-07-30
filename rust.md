@@ -217,6 +217,8 @@
 * [Just make it scale: An Aurora DSQL story | All Things Distributed](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
   * [**Just make it scale: An Aurora DSQL story**](https://whchoi98.notion.site/Just-make-it-scale-An-Aurora-DSQL-story-20004ef7e60e8068b84be4a2f2bd3364)
     * Rust로의 migration뿐만 아니라 그와 관련된 많은 이야기가 있음
+* [Rust running on every GPU | Rust GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
+  * [Rust를 모든 GPU에서 실행하기 성공 | GeekNews](https://news.hada.io/topic?id=22188)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
