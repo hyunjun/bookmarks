@@ -2091,6 +2091,8 @@ Docker
 * [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
   * [친애하는 친구야, 넌 Kubernetes를 만들었어 | GeekNews](https://news.hada.io/topic?id=17955)
 * [쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@delight412/750)
+* [왜 쿠버네티스와 조용히 결별하는 기업들이 늘고 있는가](https://brunch.co.kr/@delight412/793)
+  * [왜 쿠버네티스와 조용히 결별하는 기업들이 늘고 있는가 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%99%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%80-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EA%B2%B0%EB%B3%84%ED%95%98%EB%8A%94-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%8A%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-activity-7348516848591589377-pGUv/)
 * [인프런 비전공자도 이해할 수 있는 쿠버네티스 입문/실전 - YouTube](https://www.youtube.com/playlist?list=PLtUgHNmvcs6pBvcX0ilCncJRgBHNs40vX)
 * [2025년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/2900/)
   * [k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf)
@@ -2812,6 +2814,7 @@ Docker
 * [10 Tools That Complement Docker – CloudSavvy IT](https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/) Docker Compose, Portainer, Kubernetes, Traefik, Trivy, Syft, Dive, Flocker, Dokku, Hadolint
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
 * [apollo - an extensible Docker-based Platform as a Service (PaaS)](https://gitlab.com/p3r.one/apollo)
+* [Batect](https://batect.dev/)
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html ](https://github.com/p8952/bocker)
 * [Boot2Docker](https://github.com/boot2docker)
 * [buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit)
