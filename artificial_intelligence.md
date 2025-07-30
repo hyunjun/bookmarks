@@ -1635,6 +1635,7 @@ Artificial Intelligence
   * [Prompting 1.1 - Lovable Documentation](https://docs.lovable.dev/tips-tricks/prompting-one)
   * [웹 디자인 자동 생성 및 코딩/배포. UI/UX 혁신! Figma AI 활용 - YouTube](https://www.youtube.com/watch?v=lpfhZMeYWzM)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
+* [opencode | AI coding agent built for the terminal](https://opencode.ai/)
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [Replit – Build apps and sites with AI](https://replit.com/)
   * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
