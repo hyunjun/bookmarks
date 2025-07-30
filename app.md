@@ -628,6 +628,7 @@ App
 * [크롬 131, Direct Sockets API 추가 | GeekNews](https://news.hada.io/topic?id=17565)
 * [Chromium Blink와 렌더링 파이프라인 - YouTube](https://www.youtube.com/watch?v=_XTr2metxJg)
 * [자바스크립트 파일 하나로 떼돈버는 분들 - YouTube](https://www.youtube.com/watch?v=80gBpQbxrcU)
+* [Chrome 개발자도구에서 API 응답 조작하기](https://chance-doe.tistory.com/33)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
