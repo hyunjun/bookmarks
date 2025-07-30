@@ -1268,6 +1268,8 @@ Artificial Intelligence
     * [AI로 어려운 코드를 튜토리얼로 변환하기 - YouTube](https://www.youtube.com/watch?v=cJpw-0QosVQ)
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
+* [Qwen3 Coder: Agentic Coding Assistant in the World](https://qwen3lm.com/)
+  * [Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
 * [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
   * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
 * [Revyl](https://www.revyl.ai/) AI를 통해 test를 한다고 하는 도구
