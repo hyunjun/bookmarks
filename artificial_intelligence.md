@@ -1350,6 +1350,7 @@ Artificial Intelligence
   * [cursorIDE 도 사용하지 않던 제가 왜 갑자기 claude code 를 사용했는지](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4%EB%B2%88-%EC%A3%BC%EB%A7%90%EC%9D%80-%EC%A3%BC%EC%A4%91%EC%97%90-%EC%9D%B4%EC%8A%88%EC%98%80%EB%8D%98-claude-code-activity-7355231407411023872-4ggR/)
     * [LMCache x Mooncake: Unite to Pioneer KVCache-Centric LLM Serving System | LMCache blog website](https://blog.lmcache.ai/2025-05-08-mooncake/)
   * [클로드 코드: 19분 만에 초보자에서 전문가로 - YouTube](https://www.youtube.com/watch?v=zW28e7LGPRQ)
+  * [Ubuntu에서 Claude Code 사용하는 방법](https://webnautes.kr/ubuntueseo-claude-code-sayonghaneun-bangbeob/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
