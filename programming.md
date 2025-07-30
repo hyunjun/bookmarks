@@ -2332,6 +2332,8 @@ Programming
 * [Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture/) 기본 자세(?)
 * [Why You Should Care about Software Architecture](https://www.infoq.com/articles/care-about-architecture/)
 * [Insider Front-End Architecture | Insider Engineering](https://medium.com/insiderengineering/front-end-architecture-part-%E2%85%B0-d5d1c6f87f12)
+* [2025년에 알아야 할 프런트엔드 아키텍처 패턴 - YouTube](https://www.youtube.com/watch?v=ixee55xm_d8)
+  * [Frontend Architecture Patterns You Need to Know in 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5200338/4655771)
 * [대기업의 ‘토스처럼’과 ‘원 앱’ 전략 | 요즘IT](https://yozm.wishket.com/magazine/detail/1509/)
 * [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요 - YouTube](https://www.youtube.com/watch?v=v9rcKpUZw4o)
 * [프론트엔드 아키텍처: Business Logic의 분리. 왜 프론트엔드 아키텍처에 관심을 가져야 할까? | by 이문기 | Jun, 2022 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
