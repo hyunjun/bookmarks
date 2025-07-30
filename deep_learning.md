@@ -779,6 +779,12 @@ Deep Learning
 * [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
 * [How to Train a Very Large and Deep Model on One GPU? | by Synced | SyncedReview | Medium](https://medium.com/syncedreview/how-to-train-a-very-large-and-deep-model-on-one-gpu-7b7edfe2d072)
 * [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
+* [all-smi: Command-line utility for monitoring GPU hardware.](https://github.com/inureyes/all-smi)
+  * [신정규 - GPU 모니터링 앱을 하나 만들어서 새벽에 공개했다. all-smi 라는 이름의 앱이다. (미리 아답터를... | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid02uYZAa9HXwCxhwr4ULuuqTfwuPFgkHRuGre2vV28sFaTsTvxKafxU21swSD7t38QTl)
+    * AI 모델로 코딩을 잘 외주하려면 우선 가이드를 줄 사람이 그런 기술들이 있다는걸 알아야 한다는 부분을 갈수록 더 많이 느낀다
+    * 코딩 모델들은 핵심 구현에 대한 기술적 가이드를 줄 때는 그 방향으로 깊이 들어갈 수 있지만, 그렇지 않으면 그저그런 대답이나 코드들을 만들어낸다
+    * 알아서 좀 잘 못하냐? 하기엔 AI는 의지가 좀 허약하다
+    * 구현 디테일의 정도를 깊이 생각하지 않고 일단 지시에 따라 코드를 찍어내는 정도라, AI 모델 코딩 실력의 한계는 그걸 잡고 있는 사람의 실력 바운더리를 크게 넘지 못하는 듯 하다
 * [Releasing first online 3D Point Cloud labeling tool in Supervisely](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e)
 * [작고 빠른 딥러닝 그리고 Edge Computing](https://www.slideshare.net/slideshow/embed_code/key/9gaEyFbAxBOw9Q)
 * [Is Rectified Adam actually better than Adam?](https://www.pyimagesearch.com/2019/10/07/is-rectified-adam-actually-better-than-adam/)
