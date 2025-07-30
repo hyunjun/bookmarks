@@ -6468,6 +6468,8 @@ Javascript
   * [토스ㅣSLASH 24 - 클릭 한 번으로 테스트 45만 개 완료! 테스트 자동화 플랫폼 구축기 - YouTube](https://www.youtube.com/watch?v=cGks5f2f0YE)
   * [Automated Visual Regression Testing With Playwright | CSS-Tricks](https://css-tricks.com/automated-visual-regression-testing-with-playwright/)
   * [PlaywrightExamples](https://github.com/ek121268/PlaywrightExamples)
+  * [Playwright MCP를 쓰면 직접 클릭해가면서 테스트 할 필요 없습니다 - YouTube](https://www.youtube.com/watch?v=feognUBShqI)
+    * [Playwright MCP를 쓰면 직접 클릭해가면서 테스트 할 필요 없습니다 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5198352/4652987)
 * [Poku - Making Testing Easy](https://poku.io/)
   * [poku: 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.](https://github.com/wellwelwel/poku)
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
