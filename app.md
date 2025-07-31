@@ -88,6 +88,8 @@ App
 * [Browsh](https://www.brow.sh/) a fully-modern text-based browser
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
+* [copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty/)
+  * [introducing copyparty, the FOSS file server - YouTube](https://www.youtube.com/watch?v=15_-hgsX2V0)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
 * [Dub - The Modern Link Attribution Platform](https://dub.co/) url shortner
