@@ -2958,6 +2958,8 @@ NLP
     * [(4) Korea Azure & AI Group | LLM계에서는 사실상 LangChain이 표준처럼 사용되고 있는데 이번에 Microsoft와 LangChain의 협업 결과물이 나와서 공유 ?... | Facebook](https://www.facebook.com/groups/krazure/posts/29866503039631814/)
   * [auto-evaluator](https://github.com/langchain-ai/auto-evaluator)
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
+  * [deepagents at blog.langchain.com](https://github.com/hwchase17/deepagents?ref=blog.langchain.com)
+    * [Deep Agents](https://blog.langchain.com/deep-agents/)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
