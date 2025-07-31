@@ -1343,7 +1343,6 @@ Artificial Intelligence
   * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code?ref=stdy.blog)
     * [요약 번역 How I use Claude Code (+ my best tips) by Steve Swell](https://www.stdy.blog/summary-of-how-i-use-claude-code-my-best-tips-by-steve-swell/)
   * [클로드 동시에 10개씩 돌리며 뽕뽑는법 - YouTube](https://www.youtube.com/watch?v=0ZlDxNYdXf8)
-  * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
   * [클로드 코드 커스텀 서브에이전트 신규 업데이트 - YouTube](https://www.youtube.com/watch?v=Cvy9KzJT4ro)
@@ -1375,8 +1374,10 @@ Artificial Intelligence
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
+    * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
     * [클로드 코드를 코딩 황제로 만들어 줄 슈퍼클로드 설치 및 사용법 - YouTube](https://www.youtube.com/watch?v=tNAc4PgQyJ0)
     * [바이브코딩 작업 환경 수립 (홈페이지 제작 실습 포함) | 챗과장](https://chatmanager.liveklass.com/classes/252907)
+    * [미쳤다.. 슈퍼클로드 이렇게 쓰는 거였음? 이거 보면, 코알못도 이제 상급 개발자 - YouTube](https://www.youtube.com/watch?v=YxjLqtFGh1c)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
