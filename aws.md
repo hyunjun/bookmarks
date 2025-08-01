@@ -2534,6 +2534,7 @@ AWS
 * [Amazon Polly용 롱폼 엔진 기반 신규 영어 음성 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-long-form-voices-for-amazon-polly/)
 
 # Q
+* [AI 어시스턴트 - Amazon Q - AWS](https://aws.amazon.com/ko/q/)
 * [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
 * [Introducing Amazon Q, the generative AI-powered Assistant Tailored for Work | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=bZsIPinetV4)
 * [Amazon Q brings generative AI-powered assistance to IT pros and developers (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/)
@@ -2542,6 +2543,7 @@ AWS
 * [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 * [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
 * [AWS Top3 Tech Trend Session 01 : Amazon Q를 이용한 업무 효율성 향상 & 사례 시연 - YouTube](https://www.youtube.com/watch?v=e3Jt3gnroAw)
+* [What is Amazon Q Business? - Amazon Q Business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/what-is.html)
 * [소프트웨어 개발용 생성형 AI 어시스턴트 – Amazon Q Developer – AWS](https://aws.amazon.com/ko/q/developer/)
   * [Amazon Q Developer, 2025 상반기 혁신을 돌아보며](https://www.linkedin.com/posts/woohyungchoi_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9A%A9-%EC%83%9D%EC%84%B1%ED%98%95-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-amazon-q-developer-activity-7341460844712443904-0z_8/)
   * [Amazon Q Developer, 사내 소스 기반 IDE용 코드 추천 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
