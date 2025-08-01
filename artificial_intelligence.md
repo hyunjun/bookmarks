@@ -321,6 +321,9 @@ Artificial Intelligence
 * [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 * [AI Agent가 복잡한 테이블 데이터 처리하는 방법](https://channel.io/ko/team/blog/articles/e6b1056a)
+* [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
+  * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
+  * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
