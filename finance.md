@@ -296,6 +296,7 @@ Finance
 * [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 3](http://www.umlcert.com/aipilotsmarteasy-usecase-003/)
 * [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 4](http://www.umlcert.com/aipilotsmarteasy-usecase-4/)
 * [뉴테크프라임 » AIPilotSmarteasy 사용 사례 – AI 알고리즘 트레이딩으로 코인 거래하기 5](http://www.umlcert.com/aipilotsmarteasy-usecase-5/)
+* [퀀트투자 분야에서 LLM을 사용할 수 있을까?](https://brunch.co.kr/@gauss92tgrd/172)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
