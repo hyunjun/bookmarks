@@ -2909,6 +2909,7 @@ AWS
 * [AWS Control Tower 미리 보기 – 포괄적인 제어 관리 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-aws-control-tower-comprehensive-controls-management-preview/)
 * [단비교육의 AWS Control Tower 와 함께 시작하는 아키텍처 현대화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
 * [AWS Control Tower 개념정리](https://www.linkedin.com/posts/hodong-lee_aws-awscontroltower-activity-7214551669890506752-NlFk)
+* [카카오(Kakao Corp.)의 AWS Control Tower 환경에서 권한 최소화 및 계정 연동 자동화 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kakao-corp-aws-control-tower/)
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [Terraform Tutorial For Complete Beginners | Ashok IT - YouTube](https://www.youtube.com/watch?v=4hnI7QvPimI)
