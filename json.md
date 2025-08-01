@@ -174,6 +174,7 @@ Json
 * [Explaining Sessions, Tokens, JWT, SSO, and OAuth in One Diagram](https://www.linkedin.com/feed/update/urn:li:activity:7112462179550810112/)
 * [Should I Use JWTs For Authentication Tokens? - Tinker, Tamper, Alter, Fry](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
   * [JWT를 인증 토큰으로 사용해야 할까? | GeekNews](https://news.hada.io/topic?id=15053)
+* [JWT, 서버가 최초로 접속하는 브라우저에게 쿠키에 세션키 정보를 담는 방식으로 사용자를 구분 - YouTube](https://www.youtube.com/watch?v=bFizVy8nDOc)
 * [wffweb-demo-deployment: wffweb 12 demo project. It uses embedded tomcat 10. It is deployed in Heroku @ https://wffweb.herokuapp.com](https://github.com/webfirmframework/wffweb-demo-deployment)
 
 ## JWT Go
