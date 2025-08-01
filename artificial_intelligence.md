@@ -1148,6 +1148,10 @@ Artificial Intelligence
     * [CPAIS-Framework-and-Case-Studies-9-23.pdf](https://partnershiponai.org/wp-content/uploads/2021/08/CPAIS-Framework-and-Case-Studies-9-23.pdf?trk=public_post_comment-text)
 * [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
   * [Tae Hyung Kim - 기다리던 훌륭한 논문이 드디어 나왔네요. 여러 대학 연구진과 IBM, 마이크로소프트... | Facebook](https://www.facebook.com/socialego/posts/pfbid02s8JSLPzGVfxYK5T9QBPEwJe1CQ8GUoQwKT6qoZkyd5EXEogu7Asj7wUR2VgXjkZxl)
+* [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
+  * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
+    * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
+    * 앞으로 AI를 규제하려면, 무엇을 의도했는가보다 어떤 결과를 초래했는가를 중심으로 법과 제도를 재설계할 필요가 생길지도 모르겠다
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
