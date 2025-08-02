@@ -5639,6 +5639,7 @@ Programming
 * [더 많은 정보가 필요하면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=fUCMIf_4Pnc) 기술적인 이야기보다는 문화, processs, management에 대한 이야기
 * [디버깅 원칙 | kciter.so](https://kciter.so/posts/principles-of-debugging/)
 * [딜리버리 프로덕트 개발팀의 개발 문화 - 주니어 디버깅 스터디 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2025-delivery-debug-study/)
+* [칼럼 | 개발자·QA가 반기는 ‘버그 리포트’ 작성 노하우 5가지 | CIO](https://www.cio.com/article/4032160/%EC%B9%BC%EB%9F%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%C2%B7qa%EA%B0%80-%EB%B0%98%EA%B8%B0%EB%8A%94-%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%EC%9E%91%EC%84%B1-%EB%85%B8%ED%95%98.html)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
