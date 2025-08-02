@@ -2462,6 +2462,7 @@ NLP
 * [Beyond Tokenization: How Hierarchical Networks (H-Nets) are Revolutionizing Language Models | by Jossue Amador | Jul, 2025 | Medium](https://medium.com/@jfaa27/beyond-tokenization-how-hierarchical-networks-h-nets-are-revolutionizing-language-models-0068d242673b)
   * [토큰화의 경계를 넘다: H-넷의 혁신 | AIB프레스](https://aibpress.com/news/7643)
 * [정확도는 안 떨어졌는데, LLM 모델이 바보가 됐습니다: metric만 보면 놓치는 것](https://velog.io/@isanghao/%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EC%95%88-%EB%96%A8%EC%96%B4%EC%A1%8C%EB%8A%94%EB%8D%B0-LLM-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%B0%94%EB%B3%B4%EA%B0%80-%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-metric%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EB%86%93%EC%B9%98%EB%8A%94-%EA%B2%83)
+* [LLM 아키텍처 비교 · likejazz.com](https://likejazz.com/llm-comparison/)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -4255,10 +4256,10 @@ NLP
   * [news-analysis-8.15-rally: 8.15 광화문 집회로 인한 코로나 재확산, 통합당 책임 vs 통합당과 무관, 정부가 야당을 탄압하려는 정치적 시도? 여러분의 선택은??? 데이터 분석으로 알아보자!](https://github.com/captainnemo9292/news-analysis-8.15-rally)
 
 # Ontology
-
+* [jena Ontology API와 sparQL을 사용하여 검색시스템 만들기](http://cholol.tistory.com/225)
+* [팔란티어는 어떻게 '맥락'을 데이터로 저장할까? | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%A5%EB%9D%BD%EC%9D%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%EC%96%B4%EB%94%98%EA%B0%80-activity-7343744817501282305-mOCx)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
-* [jena Ontology API와 sparQL을 사용하여 검색시스템 만들기](http://cholol.tistory.com/225)
 
 # Paper
 
@@ -5080,6 +5081,9 @@ NLP
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
   * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
   * 3. combination weight는 downstream task의 cost function을 통해서 조정
+* [Embedding Atlas](https://apple.github.io/embedding-atlas/)
+  * [embedding-atlas: Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata](https://github.com/apple/embedding-atlas)
+  * [🚀 We've just open-sourced Embedding Atlas – a tool for exploring large embedding spaces through rich, interactive visualizations. | Donghao Ren](https://www.linkedin.com/posts/donghaoren_embedding-atlas-activity-7356797244643160065-77w_)
 * [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [KCharEmb - Tutorial for character-level embeddings in Korean sentence classification](https://github.com/warnikchow/kcharemb)
