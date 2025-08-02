@@ -322,6 +322,7 @@ Artificial Intelligence
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 * [AI Agent가 복잡한 테이블 데이터 처리하는 방법](https://channel.io/ko/team/blog/articles/e6b1056a)
 * [직접 써본 AI 코딩 도구 12종···커서·코덱스·코파일럿의 핵심 차이는? | CIO](https://www.cio.com/article/4030150/%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-12%EC%A2%85%C2%B7%C2%B7%C2%B7%EC%BB%A4%EC%84%9C%C2%B7%EC%BD%94%EB%8D%B1%EC%8A%A4%C2%B7%EC%BD%94%ED%8C%8C%EC%9D%BC.html)
+* [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
@@ -1316,6 +1317,9 @@ Artificial Intelligence
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
+* [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
+  * [Open-Source GenBI Agent — Text-to-SQL Made Easy](https://getwren.ai/oss)
+  * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
