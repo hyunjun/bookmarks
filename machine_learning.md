@@ -1455,6 +1455,7 @@ Machine Learning
   * [Shivay Lamba - Tour of UnionML: An Open Source framework for Building Machine Learn Microservices - YouTube](https://www.youtube.com/watch?v=bsa4Tbg6x4s)
 * wandb.ai [Weights & Biases – Developer tools for ML](https://wandb.ai/site) MLOps 인프라
   * [Better tracking for your deep learning training - Wandb.ai (Weights & Biases) - YouTube](https://www.youtube.com/watch?v=LQvRhQwDOm0)
+  * [Why Everyone Is Migrating from MLflow to Weights & Biases (W&B) in 2025 | by Weights & Biases Korea | Jul, 2025 | Medium](https://medium.com/@wandb-korea/why-everyone-is-migrating-from-mlflow-to-weights-biases-w-b-in-2025-12bb595c1b66)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
