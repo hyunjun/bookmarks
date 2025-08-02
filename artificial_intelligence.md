@@ -1123,6 +1123,8 @@ Artificial Intelligence
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 05. AI Without Limits: From Alternative Compute to Green Hyperscaler - YouTube](https://www.youtube.com/watch?v=eIGuDhZXyUs)
   * [ChatGPT consumes enough power in one year to charge over three million electric cars](https://balkangreenenergynews.com/chatgpt-consumes-enough-power-in-one-year-to-charge-over-three-million-electric-cars/)
     * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
+* [CEOs Are Proud Of Their Layoffs. Should They Be? – JOSH BERSIN](https://joshbersin.com/podcast/ceos-are-proud-of-their-layoffs-should-they-be/)
+  * [CEO들은 해고를 자랑스럽게 생각해야할까? | 김덕중](https://www.linkedin.com/posts/duckjungkim_ceos-are-proud-of-their-layoffs-should-they-activity-7357264741553098753-XsnD)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1371,6 +1373,7 @@ Artificial Intelligence
   * [클로드 코드: 19분 만에 초보자에서 전문가로 - YouTube](https://www.youtube.com/watch?v=zW28e7LGPRQ)
   * [Ubuntu에서 Claude Code 사용하는 방법](https://webnautes.kr/ubuntueseo-claude-code-sayonghaneun-bangbeob/)
   * [Vibe Kanban 쓰면 클로드 코드 작업 전부 트래킹 가능합니다 - YouTube](https://www.youtube.com/watch?v=qCOYgKe_F8c)
+  * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
