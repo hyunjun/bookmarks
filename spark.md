@@ -86,6 +86,7 @@
   * [Data Ingestion using Upload Data UI - YouTube](https://www.youtube.com/watch?v=aYdN9dJrxes)
   * [Data Ingestion using Auto Loader - YouTube](https://www.youtube.com/watch?v=2F6mBvLoavs)
   * [dbt Projects Integration in Databricks Workflows - YouTube](https://www.youtube.com/watch?v=C4-FOpJzhKs)
+  * [Databricks 비효율적인 작업 추적기 만들기 :: 데이터엔지니어 군고구마](https://burning-dba.tistory.com/198)
   * databricks community edition [Hands-On Training for Data Science and Machine Learning - YouTube](https://www.youtube.com/watch?v=3AdVRy1R_8s)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Spark Shuffle Partition과 최적화 – tech.kakao.com](https://tech.kakao.com/2021/10/08/spark-shuffle-partition/)
