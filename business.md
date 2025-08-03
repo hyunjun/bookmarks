@@ -71,6 +71,8 @@ Business
   * 메타인지 = 거울을 보면서 화장을 하는 거, 비판단 있는 그대로 받아들이기
   * [번아웃이 온 것 같으면 보세요. ‘관계형 리더’가 번아웃에 더 취약한 이유 | 더 리더십 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059041/4436688)
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
+* ["결국 올 게 왔다, 4050 직장인 구조조정 시작"...지금부터 정신 바짝 차려야 하는 이유 / 교양이를 부탁해 / 교양이.zip - YouTube](https://www.youtube.com/watch?v=zQycWBnP6uI) 보어아웃 boreout
+  * ["결국 올 게 왔다, 4050 직장인 구조조정 시작"...지금 정신 바짝 차려야 하는 이유 / 교양이를 부탁해 / 교양이.zip | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5244262/4723635)
 * [Reflections on OpenAI](https://calv.info/openai-reflections) 1인당 약 78k의 PR은 LLM/AI로 작성하는 게 아니라면 불가능할 걸로 생각하는 수치
   * [OpenAI에 대한 회고 | GeekNews](https://news.hada.io/topic?id=22012)
   * [OpenAI 퇴사썰 푼다 : 네이버 블로그](https://blog.naver.com/bizucafe/223936400781)
