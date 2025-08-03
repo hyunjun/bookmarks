@@ -247,6 +247,7 @@ Product
 * Nillkin [닐킨 큐브 포켓 접이식 터치패드 블루투스 키보드](https://www.nillkin.cc/ko-kr/pages/%EB%8B%90%ED%82%A8-%ED%81%90%EB%B8%8C-%ED%8F%AC%EC%BC%93-%EC%A0%91%EC%9D%B4%EC%8B%9D-%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%ED%82%A4%EB%B3%B4%EB%93%9C-%ED%84%B0%EC%B9%98%ED%8C%A8%EB%93%9C%ED%8F%AC%ED%95%A8)
 * [NocFree Lite Wireless Split Keyboard](https://www.nocfree.com/products/nocfree-lite)
   * [나눔이벤트⌨️ 개발자는 키보드를 찢어.. 인체공학 끝판왕 스플릿 키보드 NocFree Lite 65 (완.전.무.선) - YouTube](https://www.youtube.com/watch?v=aBE4XXo4Bi4)
+  * [구독자이벤트 스플릿키보드 사용해보니 목 어깨 손목까지 확실히 편하네요 녹프리 65 Lite | 사부작사부작 156편 - YouTube](https://www.youtube.com/watch?v=4tzLfFD9Q7c)
 * [NuPhy® Studio | Premium keyboards and gear beyond imagination.](https://nuphy.com/)
   * [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
   * [Eng) 입문하기 좋은 커스텀 키보드 추천, Nuphy GEM80 - YouTube](https://www.youtube.com/watch?v=T9yB3dASNmM)
