@@ -293,6 +293,8 @@ Artificial Intelligence
 * [《AI 시대의 자발적 노예화: 분석 리포트》 : 네이버 블로그](https://blog.naver.com/jooshik_lee/223938879877)
   * [《AI 시대의 자발적 노예화: 분석 리포트》 AI가 대중을 자발적으로 AI와... - David JooShik Lee | Facebook](https://www.facebook.com/jooshik.lee/posts/pfbid0ACytdat663CLew9HJZB4CGPcKGC9ZyhDHHTW8MnCZGeL2Y5ic8wn1zPf23EjWYEbl)
 * [서버 없이 이렇게 동작합니다 - YouTube](https://www.youtube.com/watch?v=1zVBW8KWWS8) browser built-in API
+* [**Domain specific architectures for AI inference**](https://fleetwood.dev/posts/domain-specific-architectures)
+  * [**AI 추론을 위한 Domain-Specific Architectures**](https://tulip-phalange-a1e.notion.site/AI-Domain-Specific-Architectures-23cc32470be28025bbffe42e15e58d99)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -322,6 +324,15 @@ Artificial Intelligence
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 * [AI Agent가 복잡한 테이블 데이터 처리하는 방법](https://channel.io/ko/team/blog/articles/e6b1056a)
 * [직접 써본 AI 코딩 도구 12종···커서·코덱스·코파일럿의 핵심 차이는? | CIO](https://www.cio.com/article/4030150/%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-12%EC%A2%85%C2%B7%C2%B7%C2%B7%EC%BB%A4%EC%84%9C%C2%B7%EC%BD%94%EB%8D%B1%EC%8A%A4%C2%B7%EC%BD%94%ED%8C%8C%EC%9D%BC.html)
+* [agent 들의 양이 방대해짐에 따라, Agent의 핵심인 Model 그리고 Tool간 multi-turn interaction 또한 커질텐데 이를 어떻게 대비할 것인가](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%A3%BC%EB%A7%90%EB%A7%88%EB%8B%A4-ai-engineering-%EB%B6%84%EC%95%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-activity-7357592519741722624-eM5H/)
+  * Vector DB와 RAG의 조화가 결국 Agent 시스템으로 확장되는 핵심적인 연결고리
+  * Agent 서비스를 Self-hosting 환경에서 효율적으로 운영하기 위해선, 1) 사용자 및 에이전트 상태를 메모리에 효율적으로 유지하고, 2) 이를 지원하는 hardware-aware vector system이 핵심
+  * [motheroffline](https://github.com/tteon/motheroffline)
+  * [DiskANN: Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search](https://github.com/microsoft/DiskANN)
+  * [클라우드 규모에서 에이전트 구축 — Antje Barth, AWS - YouTube](https://www.youtube.com/watch?v=WJjInLeaJjo)
+    * [Building Agents at Cloud Scale — Antje Barth, AWS | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5238388/4714280)
+  * [The 2025 AI Engineering Report — Barr Yaron, Amplify - YouTube](https://www.youtube.com/watch?v=mQ7_Zje7WKE)
+    * [The 2025 AI Engineering Report — Barr Yaron, Amplify | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5238383/4714269)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
