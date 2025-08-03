@@ -1290,6 +1290,7 @@ Artificial Intelligence
   * [perplexity 퍼플렉시티 모델 API 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223359316864)
   * [perplexity citation 코딩 --.. : 네이버블로그](https://blog.naver.com/ulsancoding/223660459680)
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
+  * [퍼플렉시티에서 가장 대박인 이 기능 : 해외는 충격으로 뒤집어 졌는데 국내는 의외로 모르네요 - 퍼플렉시티 랩스, Perplexity Labs ON! - YouTube](https://www.youtube.com/watch?v=DqhINxCPKCQ)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
 * Pine AI [AI Assistant to Handle Bills, Subscriptions, and Complaints | Pine AI](https://www.19pine.ai/)
