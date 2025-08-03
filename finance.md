@@ -305,6 +305,7 @@ Finance
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
+* [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
