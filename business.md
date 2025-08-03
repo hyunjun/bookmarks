@@ -1939,6 +1939,10 @@ Business
   * 1. 북극성 지표 North Start Metric
   * 2. 달성하고 싶은 마음
   * 3. 작동원리 이해하기
+* [(1) 한성희 - #성장정체해부학 #3 시리즈A 이후 성장이 멈추는 진짜 이유 시리즈A 투자 유치 성공 후 6개월, 예상과... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid032vZcGgvREtJdB7cAMfGUyQq7jKZTzSr6raw2U8qQVbZeEkY8cexx11ByZ8bBpP6Vl)
+  * 첫째, 단일 핵심가치 선언. "우리는 고객에게 어떤 하나의 핵심 가치를 제공하는가?"를 한 문장으로 정의해야. 이것이 모든 의사결정의 기준
+  * 둘째, 가치에 맞는 실험만 승인. 모든 프로젝트는 핵심가치 증대에 기여하는지를 기준으로 판단. "기술 스택을 늘리지 말고, 고객 행동을 줄여라." 핵심 경험에 집중, 그 외의 모든 것은 과감히 제거
+  * 셋째, 분기 OKR을 주간 실적과 바로 연결. 북극성 지표를 분기 OKR로 설정, 주간 단위로 추적할 수 있는 체계 수립. 그리고 주간/월간으로 실험이 실적과 연결이 되는지 체크
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
