@@ -3240,6 +3240,8 @@ NLP
     * [오픈소스 로컬 LLM 활용 OpenWebUI와 MCP 통합 가이드 (실습파일 제공) - YouTube](https://www.youtube.com/watch?v=C_VOGWjTyTs)
     * [Function calling with Gemma3 using Ollama | by Arjun Prabhulal | Google Cloud - Community | Mar, 2025 | Medium | Google Cloud - Community](https://medium.com/google-cloud/function-calling-with-gemma3-using-ollama-120194577fa6)
       * [Ollama와 Gemma3를 활용한 함수 호출](https://devway.tistory.com/80)
+    * [Ollama's new app · Ollama Blog](https://ollama.com/blog/new-app)
+      * [Ollama, 맥과 윈도우용 새로운 앱 출시 | GeekNews](https://news.hada.io/topic?id=22270)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [KOllama: A UI client for Ollama written in Compose Multiplatform focused on running Deepseek r1 locally](https://github.com/Kashif-E/KOllama)
@@ -3423,6 +3425,8 @@ NLP
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
+* [PyGPT Desktop AI Assistant: o1, o3, GPT-4, GPT-4 Vision, ChatGPT, Gemini, Claude, Grok, DeepSeek, Perplexity, Ollama](https://pygpt.net/)
+  * [py-gpt: Desktop AI Assistant powered by o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload/download, speech synthesis and recognition, access to Web, memory, presets, assistants, plugins, and more. Linux, Windows, Mac](https://github.com/szczyglis-dev/py-gpt)
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
 * QLoRA
   * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671)
