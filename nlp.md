@@ -3294,6 +3294,7 @@ NLP
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
 * [LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss](https://github.com/microsoft/LLMLingua)
 * [LLM-narratives](https://github.com/jwkangmarco/LLM-narratives)
+* [LLMSearchRecommender: This compendium reviews significant published research contributions and industrial engineering practices in leveraging Generative AI and LLMs for developing search, recommender, personalization, and question-answering systems. It aims to cover the entire spectrum of research and practices](https://github.com/alopatenko/LLMSearchRecommender)
 * [LLMServingPerfEvaluator](https://github.com/friendliai/LLMServingPerfEvaluator)
   * [Measuring LLM Serving Performance with LLMServingPerfEvaluator](https://friendli.ai/blog/llm-serving-perf-evaluator/)
 * [llm-starter-pack: 🤖 Get started with LLMs on your kind cluster, today!](https://github.com/cncf/llm-starter-pack)
