@@ -1137,6 +1137,8 @@ Artificial Intelligence
     * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
 * [CEOs Are Proud Of Their Layoffs. Should They Be? – JOSH BERSIN](https://joshbersin.com/podcast/ceos-are-proud-of-their-layoffs-should-they-be/)
   * [CEO들은 해고를 자랑스럽게 생각해야할까? | 김덕중](https://www.linkedin.com/posts/duckjungkim_ceos-are-proud-of-their-layoffs-should-they-activity-7357264741553098753-XsnD)
+* [AI is polytheistic, not monotheistic - balajis.com](https://balajis.com/p/ai-is-polytheistic-not-monotheistic)
+  * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1392,6 +1394,7 @@ Artificial Intelligence
   * [Ubuntu에서 Claude Code 사용하는 방법](https://webnautes.kr/ubuntueseo-claude-code-sayonghaneun-bangbeob/)
   * [Vibe Kanban 쓰면 클로드 코드 작업 전부 트래킹 가능합니다 - YouTube](https://www.youtube.com/watch?v=qCOYgKe_F8c)
   * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
+    * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
   * [WSL없이 Windows에서 Claude Code 사용하는 방법](https://webnautes.kr/wsleobsi-windowseseo-claude-code-sayonghaneun-bangbeob/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
