@@ -3908,6 +3908,7 @@ Business
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집 - YouTube](https://www.youtube.com/watch?v=GJ6Sw4T5gAI)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
+* [2025년 창업자들이 실제로 읽는 스타트업 도서들](https://www.linkedin.com/posts/leekh929_2025%EB%85%84-%EC%B0%BD%EC%97%85%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8F%84%EC%84%9C%EB%93%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%88%98%EB%B0%B1-%EB%AA%85%EC%9D%98-activity-7357523096804741120-AssJ/)
 * [예비창업자들이 앤틀러 프로그램을 선택해야 하는 이유](https://blog.naver.com/antlerkorea/222667025289)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
@@ -3973,6 +3974,7 @@ Business
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * [우리가 놓친 스케일업 성공 비결 | 전략 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/1_1/article_no/1950/page/1)
+* [(1) <스케일업의 전제조건 3가지 : 설계도, 프로세스, 펌프> 1. 사업을 하는... - Yibong Sanghoon Lee | Facebook](https://www.facebook.com/yibong/posts/pfbid02K53GRKPomCg3BGHMmFfH24vpSwCXMqgaiNQPKVYEWLgsRbZu7FCBYaQKKbqGRrWDl)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
 * [장난감, 취미, 그리고 사업](https://www.thestartupbible.com/2022/07/when-toys-become-great-businesses.html)
@@ -4581,6 +4583,7 @@ Business
 * [Apple's Liquid Glass: When Aesthetics Beat Function - Max van IJsselmuiden](https://www.maxvanijsselmuiden.nl/liquid-glass)
   * [Apple의 Liquid Glass: 미적 일관성의 함정 | GeekNews](https://news.hada.io/topic?id=22152)
 * [Apple 디자인: 왜 우리는 계속해서 이 주제로 돌아가는 걸까? - YouTube](https://www.youtube.com/watch?v=A_h4A8caCTM)
+* [AI가 바꾼 일의 판: 디자이너 전성시대](https://brunch.co.kr/@jiyuhan/111)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
