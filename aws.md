@@ -3074,6 +3074,7 @@ AWS
 * [동영상강의 목록/README.md at main · ryujt/pages](https://github.com/ryujt/pages/blob/main/etc/%EB%8F%99%EC%98%81%EC%83%81%EA%B0%95%EC%9D%98%20%EB%AA%A9%EB%A1%9D/README.md)
 * [클라우드의 기초 - 주니어 개발자를 위한 AWS 가이드](https://indosaram.github.io/aws-intro-book/)
 * [AWS를 이용한 클라우드 기초 - YouTube](https://www.youtube.com/playlist?list=PLbq5jHjpmq7of9-_h6JtysgYlhZf7T6gQ)
+* [AWS 서비스, A to Z 조금 더 자세히 알아보기](https://jinsungh.notion.site/AWS-A-to-Z-1d3cb8fc0fde80d8b8f6e63a8df06baf)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud 강의 기초 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [AWS Workshops](https://workshops.aws/)
