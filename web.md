@@ -719,6 +719,7 @@ Web
 * [온라인 뉴스 댓글은 정말 사람들의 목소리일까? - PART 2](https://speakerdeck.com/beomi/pyconkr-2019-onrain-nyuseu-daesgeuleun-jeongmal-saramdeulyi-mogsoriilgga-part2)
 * [SBS, KBS, MBC 크롤러 만들기](https://blog.naver.com/pjt3591oo/221631079984)
 * [네이버 블로그 자동 포스팅을 위한 네이버 블로그 에디터 분석 - 1](https://blog.naver.com/pjt3591oo/221692030179)
+* [바닥부터 시작하는 웹앱 에디터 개발기. 안녕하세요, 커뮤니티실 모임팀의 프론트엔드 엔지니어… | by Louie | 당근 테크 블로그 | Jul, 2025 | Medium](https://medium.com/daangn/%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9%EC%95%B1-%EC%97%90%EB%94%94%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0-e896c6cabfad)
 * [서버없이 동작하는 나만의 코로나 봇 만들기 - 텔레그램 활용](https://agoda.slack.com/archives/CDN5RAY3F/p1583728958000300)
 * [Scraping Nasdaq news using Python](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/scraping-nasdaq-news-using-python)
 * [파이썬으로 배우는 초보 웹크롤링(request요청, 영화차트크롤링-1)](https://blog.naver.com/luckperson7/221203847949)
