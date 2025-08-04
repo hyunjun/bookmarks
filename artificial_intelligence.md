@@ -1287,6 +1287,10 @@ Artificial Intelligence
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
+* [Opal](https://opal.withgoogle.com/landing/)
+  * [Google Opal, 디자이너도 AI로 앱을 만든다.](https://brunch.co.kr/@ghidesigner/298)
+  * [AI업무자동화 구글 오팔 Opal 미쳤습니다... N8N, 이제 안녕! (무료 AI 앱 생성기) - YouTube](https://www.youtube.com/watch?v=3VJ9U2a25so)
+  * [구글이 또 무료로? 구글 OPAL, n8n·Make 대체할 수 있을까? - YouTube](https://www.youtube.com/watch?v=-xW4rko5Q-M)
 * [openai-cs-agents-demo: Demo of a customer service use case implemented with the OpenAI Agents SDK](https://github.com/openai/openai-cs-agents-demo)
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
