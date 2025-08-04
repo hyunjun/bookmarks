@@ -1019,6 +1019,8 @@ Programming Books
   * [요즘 우아한 AI 개발 - Jun’s Substack](https://recur.substack.com/p/ai-76d)
   * [요즘 우아한 AI 개발 -](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C)
   * [요즘 우아한 AI 개발 : 네이버 블로그](https://blog.naver.com/octoberblue/223886996203)
+* [AI 에이전트 트렌드 & 활용백과](https://www.notion.so/1003/AI-23c3f0c2cf6580639e73cdaadcc2f25a)
+  * ★★★☆☆ 2025.07.26 다양한 AI 관련 서비스들을 활용하는 방법을 알려주는 책
 * (NOT YET) [인공지능 전문가가 알려 주는 챗GPT로 대화하는 기술](https://www.hanbit.co.kr/store/books/look.php?p_code=B2266571115)
   * [2025 수능 국어 지문 출제 디퓨전 모델(diffusion model) 쉽게 이해하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6968709109&cate_cd=)
 * (NOT YET) [AWS로 시작하는 AI 서비스 with 파이썬 - 나도 한번 AI 서비스 만들어 볼까?!? - YouTube](https://www.youtube.com/watch?v=jQtVtltwuvU)
