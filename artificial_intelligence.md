@@ -1396,6 +1396,8 @@ Artificial Intelligence
   * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
     * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
   * [WSL없이 Windows에서 Claude Code 사용하는 방법](https://webnautes.kr/wsleobsi-windowseseo-claude-code-sayonghaneun-bangbeob/)
+  * [인공지능 AI 코딩 도구, 클로드 코드 쉬운 시작 - YouTube](https://www.youtube.com/watch?v=HInJtt4AFtI)
+  * [6 Weeks of Claude Code - Puzzmo Blog](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
