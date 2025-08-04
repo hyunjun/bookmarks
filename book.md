@@ -511,6 +511,8 @@ Book
   * 2025.04.29
 * [동물 농장](https://hyunjun.github.io/skunk-html/%EB%8F%99%EB%AC%BC-%EB%86%8D%EC%9E%A5.html)
   * ★★★☆☆ 2025.05.11
+* [아는데 모르는 나라, 일본](https://www.notion.so/1003/2453f0c2cf6580a489aef4dc7a060f82)
+  * ★★★☆☆ 2025.08.04 제목처럼 일본의 소소한 생활상의 다른 나라와는 차이가 나는 부분을 알려주는 책. 일본에 관심이 있으면 읽을만하다
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
