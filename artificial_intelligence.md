@@ -489,6 +489,8 @@ Artificial Intelligence
   * [바이브 코딩 교육의 3가지 허들을 넘는 방법](https://www.stdy.blog/vibe-coding-session-difficulty-three-reasons/)
   * [MCP 잘쓰면 아무것도 몰라도 바이브코딩 가능합니다 - YouTube](https://www.youtube.com/watch?v=fPyX6G2Bh2g)
   * [핸드폰으로 바이브코딩 하는법 Vibe Tunnel - YouTube](https://www.youtube.com/watch?v=ZnWGuqmjFV0)
+  * [Vibe code is legacy code | Val Town Blog](https://blog.val.town/vibe-code)
+    * [바이브 코드는 레거시 코드임 | GeekNews](https://news.hada.io/topic?id=22265)
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
@@ -1433,6 +1435,7 @@ Artificial Intelligence
     * [클로드 코드를 코딩 황제로 만들어 줄 슈퍼클로드 설치 및 사용법 - YouTube](https://www.youtube.com/watch?v=tNAc4PgQyJ0)
     * [바이브코딩 작업 환경 수립 (홈페이지 제작 실습 포함) | 챗과장](https://chatmanager.liveklass.com/classes/252907)
     * [미쳤다.. 슈퍼클로드 이렇게 쓰는 거였음? 이거 보면, 코알못도 이제 상급 개발자 - YouTube](https://www.youtube.com/watch?v=YxjLqtFGh1c)
+    * [맥북에서 간단히 설치하는 방법](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1252230533262959&hoisted_section_header_type=recently_seen)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
