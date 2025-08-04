@@ -1328,6 +1328,7 @@ Git
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
 * [3 Chrome Extensions to Give GitHub Superpowers | by Alessia Amitrano | Better Programming | Medium](https://medium.com/better-programming/3-chrome-extensions-to-give-github-superpowers-e993f8703ad) Octolinker, Octotree
 * [5 open source alternatives to GitHub | Opensource.com](https://opensource.com/article/20/11/open-source-alternatives-github)
+* [시간 절약 꿀팁?⚡️깃허브에서 AI 활용하기 5분컷 - YouTube](https://www.youtube.com/watch?v=PDpdb3K0FEo) (1) GitIngest (2) DeepWiki (3) GitMCP (4) GitPodcast
 * [actions-permissions: GitHub token permissions Monitor and Advisor actions](https://github.com/GitHubSecurityLab/actions-permissions)
   * [New tool to secure your GitHub Actions | The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/)
     * GitHub Actions에서 보통 `GITHUB_TOKEN`을 사용해서 권한을 가져오는 데 필요한 것보다 많은 권한을 가지게 되는 경우 다수
