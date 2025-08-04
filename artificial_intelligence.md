@@ -742,6 +742,7 @@ Artificial Intelligence
   * [langgraph-mcp-agents: LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools](https://github.com/teddynote-lab/langgraph-mcp-agents/)
     * [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥 - YouTube](https://www.youtube.com/watch?v=ISrYHGg2C2c)
   * [mcp: It shows how to use model-context-protocol](https://github.com/kyopark2014/mcp)
+  * [MCP for Beginners - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d)
   * [mcp-gateway: MCP Gateway and Registry](https://github.com/aarora79/mcp-gateway)
     * [AI Agent Capabilities: Dynamic Tool Discovery & Invocation](https://www.linkedin.com/posts/amit-arora-539120a_mcp-gateway-registry-dynamic-tools-activity-7330040487757639680-h-L8/)
     * [MCP Gateway Registry dynamic tools - YouTube](https://www.youtube.com/watch?v=ZXU8f6NwgE4)
