@@ -990,6 +990,7 @@ NLP
   * [LinkedIn 장승국 페이지: #chatgpt #openai #tasks #gpt4o #개발공부 #study](https://www.linkedin.com/posts/lou2_chatgpt-openai-tasks-activity-7286176054145093633-e6HB)
     * [ChatGPT Tasks 기능으로 매일 개발 공부받는 방법 | GeekNews](https://news.hada.io/topic?id=18780)
   * [ChatGPT GitHub 연결 : ChatGPT 딥 리서치 도구와 GitHub 연결 기능 출시로 개발자들의 업무 혁신 시작되다 - DX Talk](https://dxtalk.net/chatgpt-github-integration/)
+  * [ChatGPT 맞춤 설정(Custom Instructions) - 모두의AI](https://mo-ai.notion.site/Custom-Instructions-b3d2a41ae563485aabafc60c7364d50a)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1276,6 +1277,9 @@ NLP
 * [추론모델은 프롬프트를 길게? 아니면 짧게 써야 할까? (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=F4ExQ3P_A5w)
 * [ChatGPT에 아래 JSON 파일을 넣어 이미지를 생성해 보고, 다양한 형태로 활용](https://www.linkedin.com/posts/joshuamyungcho_chatgpt%EC%97%90-%EC%95%84%EB%9E%98-json-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%84%A3%EC%96%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%B4-%EB%B3%B4%EA%B3%A0-%EB%8B%A4%EC%96%91%ED%95%9C-activity-7342037736947666944-YPY8/)
 * [뉴테크프라임 » My AI Smarteasy에서 프롬프트 작성하기 – 환각 식별을 위한 프롬프트 템플릿](http://www.umlcert.com/0721-04/)
+* [Google의 AI 프롬프팅 정석 TCREI 알려드립니다 - YouTube](https://www.youtube.com/watch?v=3TSjxs2oP-Q)
+  * [Google의 AI 프롬프팅 정석 TCREI 알려드립니다 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5254976/4739942)
+  * tcrei는 task(명확한 지시), context(정보 제공), reference(샘플 제시), evaluate(자체 점검), iterate(반복 개선)의 5단계로 구성
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
