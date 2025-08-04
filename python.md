@@ -4781,6 +4781,7 @@ Python
   * [PyCon KR 2023 딥러닝 개발에서의 Poetry 도입기 테스팅 및 모델 패키징에서의 의존성 관리 정호진 - YouTube](https://www.youtube.com/watch?v=33bwpDsGzF4)
   * [poetry와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/97)
   * [AI Convergence :: Python poetry의 pyproject.toml 과 requirements.txt 차이점](https://mobicon.tistory.com/604)
+  * [Poetry vs Anaconda](https://www.notion.so/Poetry-vs-Anaconda-236e323ea2b580e7bcdbc21dff334cf5)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
