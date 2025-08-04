@@ -392,6 +392,7 @@ Linux
   * [Ubuntu Multipass로 개발 환경 강화하기 | GeekNews](https://news.hada.io/topic?id=16653)
 * [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/24.10/release/)
 * [Macbook M1/M2에 Ubuntu Asahi Linux 설치 하는 방법 - YouTube](https://www.youtube.com/watch?v=Z946l_4t7VE)
+* [우분투의 크롬 웹브라우저에서 구글 문서 사용시 한글 오타 해결 방법](https://haebojayo.tistory.com/25)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
