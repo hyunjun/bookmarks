@@ -207,6 +207,7 @@ Linux
 ## 배포판 AnduinOS
 * [Open Source & Linux - AnduinOS](https://www.anduinos.com/)
 * [Drop Windows and Install AnduinOS (Made By Microsoft Employee) - YouTube](https://www.youtube.com/watch?v=oSks9dNWNaE)
+* [AnduinOS - A Linux Distro from a Microsoft Developer! - YouTube](https://www.youtube.com/watch?v=X-3HqQuZ_28)
 
 ## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기 - 용균](https://edykim.com/ko/post/installing-the-dell-latitude-e7240-archlinux/)
