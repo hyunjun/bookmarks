@@ -1526,6 +1526,7 @@ NLP
 * [prompt-poet: Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach](https://github.com/character-ai/prompt-poet)
   * [Introducing Prompt Poet](https://blog.character.ai/introducing-prompt-poet/)
     * [뉴테크프라임 » AIPromptSmarteasy 사용해 보기 – 나 교수와 글 읽기 – Introducing Prompt Poet](http://www.umlcert.com/aipromptsmarteasy_prompt-poet/)
+* [PrompTessor - AI Prompt Analysis and Optimization](https://promptessor.com/)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 * [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 * [smarter-prompt: 모두의AI에서 제공하는 SMART+ER Prompt](https://github.com/modu-ai/smarter-prompt)
