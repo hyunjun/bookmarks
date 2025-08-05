@@ -1151,6 +1151,8 @@ Artificial Intelligence
   * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [AI in Startup GTM Report 2025 Pt. 1: Benchmark Report](https://www.hubspot.com/startups/ai/ai-in-gtm-report-pt1)
   * [HubSpot 2025년 스타트업 AI GTM 전략 인사이트](https://www.linkedin.com/posts/leekh929_hubspot-2025%EB%85%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ai-gtm-%EC%A0%84%EB%9E%B5-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%8E%80%EB%94%A9-%EB%8B%A8%EA%B3%84%EB%B3%84-activity-7357877937108344832-Fz3J/)
+* [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 - YouTube](https://www.youtube.com/live/KAT-ig3vhz4)
+  * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5260832/4748701)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
