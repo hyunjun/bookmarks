@@ -1377,6 +1377,7 @@ Artificial Intelligence
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
     * [agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
+    * [agents: sharing current agents in use](https://github.com/contains-studio/agents)
     * [my-agents](https://github.com/ddhelop/my-agents)
       * [Context Engineering으로 저만의 프로덕트팀을 꾸렸습니다](https://www.linkedin.com/posts/ddhelop_%EC%B5%9C%EA%B7%BC%EC%97%90-context-engineering%EC%9C%BC%EB%A1%9C-%EC%A0%80%EB%A7%8C%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%ED%8C%80%EC%9D%84-%EA%BE%B8%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7357358834371211264-_XL_/)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
