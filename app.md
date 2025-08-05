@@ -1539,6 +1539,7 @@ App
       * 해상도(3840x1774)는 사진 해상도에 맞춰서
       * [linux - How to create a video from images using FFmpeg? - Super User](https://superuser.com/questions/624567/how-to-create-a-video-from-images-using-ffmpeg)
       * [돌하니 이야기 :: 여러 사진(png,jpg) 을 동영상으로 만들기](https://dolhani.tistory.com/526) 이건 사진 파일 하나(즉 animated image)를 동영상으로 바꾸는 경우
+    * `for F in `ls -R | grep -i '\.mov$'`; do echo $F; file_name=$(basename "$F" | cut -d. -f1); echo $file_name; time ffmpeg -n -loglevel error -i $F -vcodec libx264 -crf 28 -preset veryslow -tune film $file_name.mp4; done`
     * [FFMPEG - 깊이있는 삽질 Ubuntu Korea Community Wiki](https://wiki.ubuntu-kr.org/index.php/FFMPEG)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
