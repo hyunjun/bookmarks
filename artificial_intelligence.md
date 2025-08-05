@@ -371,6 +371,7 @@ Artificial Intelligence
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
 * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
   * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
+* [context-engineering-langGraph: context-engineering-langGraph](https://github.com/sw-woo/context-engineering-langGraph)
 * context rot
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
   * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
@@ -1260,6 +1261,7 @@ Artificial Intelligence
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
+* [Emergent | World's first agentic vibe-coding platform](https://app.emergent.sh/)
 * [Felo - Your Free AI Search Engine](https://felo.ai)
   * [Perplexity를 능가하는 실시간 AI 검색엔진, felo.ai](https://stock79.tistory.com/entry/Perplexity%EB%A5%BC-%EB%8A%A5%EA%B0%80%ED%95%98%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-feloai)
   * [FELO 파워포인트 120장 만들어주는 괴물같은 생성형 AI 서비스 펠로 - YouTube](https://www.youtube.com/watch?v=XGnsPWrnRrY)
