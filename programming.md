@@ -2583,6 +2583,8 @@ Programming
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+* [**Amazon's 3000% Growth: The Hard Truths of Engineering at Scale - YouTube**](https://www.youtube.com/watch?v=TqfgmksvGWc)
+  * [**Amazon's 3000% Growth: The Hard Truths of Engineering at Scale | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI**](https://lilys.ai/digest/5283369/4784995)
 * [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
 * [Must-Known Resiliency Patterns for Distributed Systems](https://newsletter.systemdesigncodex.com/p/must-known-resiliency-patterns-for)
   * Downstream Resiliency Patterns
