@@ -3869,6 +3869,7 @@ Business
   * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
 * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 - YouTube](https://www.youtube.com/watch?v=WHTtFWPiqkA)
   * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5177955/4622060)
+* [한국 B2B SaaS, 미국에선 왜 잘 안 먹힐까?](https://www.linkedin.com/posts/shndon0220_%ED%95%9C%EA%B5%AD-b2b-saas-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%A0-%EC%99%9C-%EC%9E%98-%EC%95%88-%EB%A8%B9%ED%9E%90%EA%B9%8C-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EA%BD%A4-%EC%9E%98-%EB%82%98%EA%B0%80%EB%8D%98-activity-7358428337788080128-4nul/)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
