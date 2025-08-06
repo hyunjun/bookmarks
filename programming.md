@@ -5640,6 +5640,8 @@ Programming
 * [디버깅 원칙 | kciter.so](https://kciter.so/posts/principles-of-debugging/)
 * [딜리버리 프로덕트 개발팀의 개발 문화 - 주니어 디버깅 스터디 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2025-delivery-debug-study/)
 * [칼럼 | 개발자·QA가 반기는 ‘버그 리포트’ 작성 노하우 5가지 | CIO](https://www.cio.com/article/4032160/%EC%B9%BC%EB%9F%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%C2%B7qa%EA%B0%80-%EB%B0%98%EA%B8%B0%EB%8A%94-%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%EC%9E%91%EC%84%B1-%EB%85%B8%ED%95%98.html)
+* [Garry Tan on X: "Startups have to rediscover zero bug bounce Every few sprints get to zero P2 bugs before you start new feature work. Otherwise your product will be a low quality mess forever. One part of great craft is getting to zero known bugs regularly. https://t.co/ILuENEj0RC" / X](https://x.com/garrytan/status/1948488376870375571)
+  * [Zero bug bounce, 좋은 제품을 향한 장인 정신](https://www.linkedin.com/posts/hiddenest_zero-bug-bounce-%EC%A2%8B%EC%9D%80-%EC%A0%9C%ED%92%88%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-y-combinator%EC%9D%98-activity-7358860067867185152-KUCT/)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
