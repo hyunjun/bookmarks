@@ -1070,6 +1070,7 @@ NLP
     * [OpenAI, 더 많이 생각하고 대답하는 o1 모델 프리뷰 공개 | GeekNews](https://news.hada.io/topic?id=16735)
     * [김성현 - 이전에 언급했던 것처럼 지금 가장 중요한 문제는 o1에 사용된 추론 능력을 위한 방법을 알아내는 것이었다.... | Facebook](https://www.facebook.com/rosinality/posts/pfbid0zuAVXRYPzRQ2zUpp32UTXbppu6EAWwefopSWJ7Ay3zu7BEBSct2BfKwr8MRKJ3rkl)
       * 결과 보상(Outcome Reward)만으로 추론 능력을 모델에 주입하는데 성공
+  * [gpt-oss를 소개합니다 | OpenAI](https://openai.com/ko-KR/index/introducing-gpt-oss/)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
