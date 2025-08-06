@@ -3747,6 +3747,9 @@ NLP
 * [RAG - LLM 데이터 생성 시 발생하는 오류 해결 방법 모음 - 텍스트넷 공식 블로그](https://article.textnet.kr/errors-and-solutions-in-rag-llm)
 * [왜 내가 만든 LLM 서비스는 멍청할까요? | 요즘IT](https://yozm.wishket.com/magazine/detail/3086/) CoRAG
 * [검색 시스템에서 길이 편향(size bias)이란 무엇이며 어떻게 극복할 수 있을까요? | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B2%2580%25EC%2583%2589-%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2597%2590%25EC%2584%259C-%25EA%25B8%25B8%25EC%259D%25B4-%25ED%258E%25B8%25ED%2596%25A5size-bias%25EC%259D%25B4%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B4%25EB%25A9%25B0-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25EA%25B7%25B9%25EB%25B3%25B5%25ED%2595%25A0-%25EC%2588%2598-%25EC%259E%2588%25EC%259D%2584%25EA%25B9%258C%25EC%259A%2594-jin-hyung-park-xalqc/)
+* [Hierarchical Reranking Unleashed: A Step-by-Step Implementation of Enhanced RAG | by M K Pavan Kumar | Jul, 2025 | Medium](https://medium.com/@manthapavankumar11/hierarchical-reranking-unleashed-a-step-by-step-implementation-of-enhanced-rag-81829353d239)
+  * [Improving RAG Accuracy with Hierarchical Reranking](https://www.linkedin.com/posts/qdrant_improving-rag-accuracy-with-hierarchical-activity-7357730714043199488-iyGb/)
+* [Stop saying "Just build a RAG system"!](https://www.linkedin.com/posts/kameshwara-pavan-kumar-mantha-91678b21_llm-genai-rag-activity-7355794248350253057-N6_j/)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
