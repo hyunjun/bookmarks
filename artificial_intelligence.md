@@ -1165,6 +1165,7 @@ Artificial Intelligence
     * ‘없는 것’ 을 지어낸 것인지 - 즉, 지금 하는 말을 ‘허위‘ 로 생성한 것인지? - Hallucination 
     * ’실제로 존재하는 정보지만 맥락을 잘못 해석해 엉뚱한 말을 하는건지‘ - 즉 있는 사실들을 잘못 연결하고 부분적으로는 꾸며내서 주장을 하는 건지’ - confabulation 
     * 정신분열증 (환각) 환자와 인지기능저하 환자 (작화) 에 대한 접근방법,치료 방법이 달라지는 것과 마찬가지
+* [현재 미국에서 논란인 TEA 앱, 그리고 그것이 터졌습니다. - YouTube](https://www.youtube.com/watch?v=-Wa7zrhtRio) vibe coding이 문제점 언급
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
