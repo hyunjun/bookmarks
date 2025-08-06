@@ -277,6 +277,7 @@ Artificial Intelligence
 * [서버 없이 이렇게 동작합니다 - YouTube](https://www.youtube.com/watch?v=1zVBW8KWWS8) browser built-in API
 * [**Domain specific architectures for AI inference**](https://fleetwood.dev/posts/domain-specific-architectures)
   * [**AI 추론을 위한 Domain-Specific Architectures**](https://tulip-phalange-a1e.notion.site/AI-Domain-Specific-Architectures-23cc32470be28025bbffe42e15e58d99)
+* [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55) security
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -497,6 +498,8 @@ Artificial Intelligence
   * [핸드폰으로 바이브코딩 하는법 Vibe Tunnel - YouTube](https://www.youtube.com/watch?v=ZnWGuqmjFV0)
   * [Vibe code is legacy code | Val Town Blog](https://blog.val.town/vibe-code)
     * [바이브 코드는 레거시 코드임 | GeekNews](https://news.hada.io/topic?id=22265)
+  * [Vibe coding in prod 프로덕션에서의 분위기 코딩 - YouTube](https://www.youtube.com/watch?v=fHWFF_pnqDk)
+    * [Vibe coding in prod | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5273363/4768962)
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
@@ -1154,6 +1157,11 @@ Artificial Intelligence
   * [HubSpot 2025년 스타트업 AI GTM 전략 인사이트](https://www.linkedin.com/posts/leekh929_hubspot-2025%EB%85%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ai-gtm-%EC%A0%84%EB%9E%B5-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%8E%80%EB%94%A9-%EB%8B%A8%EA%B3%84%EB%B3%84-activity-7357877937108344832-Fz3J/)
 * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 - YouTube](https://www.youtube.com/live/KAT-ig3vhz4)
   * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5260832/4748701)
+* [Google’s healthcare AI made up a body part — what happens when doctors don’t notice? | The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
+  * [치매에 걸린 LLM? Hallucination? Confabulation!](https://www.linkedin.com/posts/kwang-joon-kim-5b93618a_googles-healthcare-ai-made-up-a-body-part-activity-7358637602968621056-dGOa/)
+    * ‘없는 것’ 을 지어낸 것인지 - 즉, 지금 하는 말을 ‘허위‘ 로 생성한 것인지? - Hallucination 
+    * ’실제로 존재하는 정보지만 맥락을 잘못 해석해 엉뚱한 말을 하는건지‘ - 즉 있는 사실들을 잘못 연결하고 부분적으로는 꾸며내서 주장을 하는 건지’ - confabulation 
+    * 정신분열증 (환각) 환자와 인지기능저하 환자 (작화) 에 대한 접근방법,치료 방법이 달라지는 것과 마찬가지
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
