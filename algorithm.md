@@ -617,6 +617,8 @@ Algorithm
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
 * [해시 - YouTube](https://www.youtube.com/watch?v=O8NG9FLe5X4)
 * [대학생이 40년만에 해시테이블의 성능 향상](https://www.linkedin.com/posts/golbin_optimal-bounds-for-open-addressing-without-activity-7312017525813166080-8Q1z/)
+* [해쉬충돌은 피할 수 없다고? #개발자교육 #hashmap #자료구조 - YouTube](https://www.youtube.com/watch?v=Xp1Gs-OhCn0)
+  * [해쉬충돌 100% 방지 가능?](https://www.youtube.com/shorts/hzF5PaRkbOQ)
 * [MinHash란? - 완두블로그](https://wani.kr/posts/2016/11/24/minhash/)
 * [MurmurHash - Wikipedia](https://en.wikipedia.org/wiki/MurmurHash)
 * [neuralhash-collisions: A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
