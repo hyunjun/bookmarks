@@ -1071,6 +1071,7 @@ NLP
     * [김성현 - 이전에 언급했던 것처럼 지금 가장 중요한 문제는 o1에 사용된 추론 능력을 위한 방법을 알아내는 것이었다.... | Facebook](https://www.facebook.com/rosinality/posts/pfbid0zuAVXRYPzRQ2zUpp32UTXbppu6EAWwefopSWJ7Ay3zu7BEBSct2BfKwr8MRKJ3rkl)
       * 결과 보상(Outcome Reward)만으로 추론 능력을 모델에 주입하는데 성공
   * [gpt-oss를 소개합니다 | OpenAI](https://openai.com/ko-KR/index/introducing-gpt-oss/)
+    * [‘gpt-oss’ 모델은 기존의 INT8보다 높은 메모리 효율을 가져온 MXFP4라는 양자화 방식을 ’네이티브’ 하게 적용했다고 소개... 그러나 이 부분에 대해 Huizi Mao 는 이에 동의하지 않고 양자화 인지 학습(QAT, Quantization-Aware Training)에 가깝다고 분석](https://www.linkedin.com/posts/sigridjineth_%EC%B5%9C%EA%B7%BC-openai%EA%B0%80-%EA%B3%B5%EA%B0%9C%ED%95%9C-gpt-oss-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EA%B8%B0%EC%A1%B4%EC%9D%98-int8%EB%B3%B4%EB%8B%A4-%EB%86%92%EC%9D%80-activity-7359057066377818112-7i8P/)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
