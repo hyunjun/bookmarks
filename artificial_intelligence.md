@@ -318,6 +318,7 @@ Artificial Intelligence
     * [The 2025 AI Engineering Report — Barr Yaron, Amplify | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5238383/4714269)
 * [새로운 콴다 Agent는 어떻게 만들어졌을까?. 콴다는 왜 달라졌을까? Backend 팀의 Agent 설계 이야기 | by Dave Kwon | Aug, 2025 | Team QANDA](https://blog.mathpresso.com/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BD%B4%EB%8B%A4-agent%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-0788a7b37b6e)
 * [에이전트를 개발 하면서 느꼈던 고민과 중요점](https://www.linkedin.com/posts/kjh941213_%EC%9A%94%EC%A6%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EA%BC%88%EB%8D%98-%EA%B3%A0%EB%AF%BC%EA%B3%BC-%EC%A4%91%EC%9A%94%EC%A0%90%EC%9D%84-%EC%A0%81%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%8E%EC%9D%B4%EB%93%A4-activity-7358709526902042624-ZbXS/)
+* [테크인사이드 AI 에이전트로 확 바뀌는 비즈니스 컨설팅의 세계 < AI·엔터프라이즈 < 기사본문 - 디지털투데이 (DigitalToday)](https://www.digitaltoday.co.kr/news/articleView.html?idxno=583068)
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
@@ -574,6 +575,7 @@ Artificial Intelligence
   * [Chatgpt 유료 사용자들, 1년에 36만원 아끼는 방법](https://stock79.tistory.com/entry/Chatgpt-%EC%9C%A0%EB%A3%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%93%A4-%EA%B5%AC%EB%8F%85-%EB%81%8A%EC%9C%BC%EC%84%B8%EC%9A%94) gemini 1206, felo.ai
   * [Gemini와 함께 10분만에 레이싱 시뮬레이터 만들기 (프롬프트 & 코드 예제 포함)](https://www.stdy.blog/build-racing-simulator-in-10-min-with-gemini/)
   * [GEMINI 무료버전에서도 GPTS와 같은 나만의 챗봇 만들기가 가능](https://www.linkedin.com/posts/duckjungkim_gemini-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C%EB%8F%84-gpts%EC%99%80-%EA%B0%99%EC%9D%80-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%A1%8C%EB%84%A4%EC%9A%94-activity-7325516445902155777-UJLf/)
+  * [제미나이의 가이드학습(Guided learning) 모드는 나만의 사고 확장 코칭 파트너](https://www.linkedin.com/posts/minjung-kim-982762229_%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4%EC%9D%98-%EA%B0%80%EC%9D%B4%EB%93%9C%ED%95%99%EC%8A%B5guided-learning-%EB%AA%A8%EB%93%9C%EB%8A%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%82%AC%EA%B3%A0-%ED%99%95%EC%9E%A5-activity-7359067655976226817-cpvr/)
   * Gemini 2.0
     * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
     * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
