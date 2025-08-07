@@ -151,7 +151,6 @@ Hadoop
   * 하둡이 GPU를 감지하고 isolation을 구현하는 방법 등의 내용 소개
 
 # Cloudera
-* [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
 * installation
   * [practice - cloudera manager 5.13.0](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-5-13-0-md) 설치 & 제거
   * [practice - cloudera manager 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-installation-md)
