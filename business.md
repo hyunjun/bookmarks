@@ -4591,6 +4591,11 @@ Business
   * [Apple의 Liquid Glass: 미적 일관성의 함정 | GeekNews](https://news.hada.io/topic?id=22152)
 * [Apple 디자인: 왜 우리는 계속해서 이 주제로 돌아가는 걸까? - YouTube](https://www.youtube.com/watch?v=A_h4A8caCTM)
 * [AI가 바꾼 일의 판: 디자이너 전성시대](https://brunch.co.kr/@jiyuhan/111)
+* aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
+  * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
+  * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
+  * 특히 효과적인 프롬프트 작성을 위해 구체적이고 명확한 지시를 작성하는 방법, 디자인 문제에서 출발하는 접근법, 그리고 반복적인 작업을 자동화하는 전략 등
+  * 이 가이드는 AI를 활용한 디자인 워크플로를 처음 시작하는 사람부터 디자인 프로세스의 상당 부분을 자동화하려는 전문가까지 모두에게 유용한 정보를 제공
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/)
   * [생산성을 높여요 - 인프런이 일하는 법 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-31)
