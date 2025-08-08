@@ -766,6 +766,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2025-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2025-08.md)
   * [2025-06.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2025-06.md)
   * [2025-05.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2025-05.md)
   * [2024-12.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2024-12.md)
