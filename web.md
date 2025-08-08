@@ -2562,6 +2562,12 @@ Web
     * 노션의 특성상 이렇게 하면 서드파티 기능에 큰 문제 발생
     * 앱과 달리 브라우저에서는 여러 탭을 열기 때문에, 데이터베이스에 여러 탭이 동시에 접근하면서 데이터가 손상되는 문제 발생
     * 이 문제를 해결하기 위해 Shared Worker를 만들어서 여러 탭에서 노션을 열어도 활성화된 탭에서만 데이터베이스에 접근할 수 있도록 구현
+* [WebAssembly: Yes, but for What? - ACM Queue](https://queue.acm.org/detail.cfm?id=3746171)
+  * WebAssembly가 10주년을 맞이한 시점에서 실제 성공 사례와 실패 사례를 분석하여 성공적인 Wasm 배포의 패턴을 탐구
+  * 웹에서는 C++나 Rust로 작성된 데스크톱 애플리케이션을 웹으로 이식하는 데 성공했으며, Adobe Photoshop이나 Figma 같은 그래픽 디자인 도구가 대표적인 예시
+  * 또한 SQLite나 Perfetto 같은 컴포넌트 형태로도 지속적인 성공
+  * 웹 외부에서는 플러그인 시스템, 경량 가상화, 컴포넌트 모델 등 세 가지 주요 영역에서 활용되고 있으며, 특히 FaaS 플랫폼에서 밀리초 단위의 빠른 콜드 스타트를 제공하는 장점이 부각
+  * 글에서는 향후 커널 드라이버, AI 기반 신뢰할 수 없는 코드 실행 등 새로운 활용 영역을 제시하며, Wasm이 격리가 필요한 보안 중요 시스템에서 더욱 중요한 역할을 할 것으로 전망
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
