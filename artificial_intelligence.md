@@ -374,6 +374,9 @@ Artificial Intelligence
   * [바이브 코딩에는 컨텍스트 엔지니어링이 필요하다](https://blogbyash.com/translation/vibe-coding-needs-context-engineering/)
   * [바이브 코딩을 위한 컨텍스트 엔지니어링의 4가지 핵심축 번역글 | GeekNews](https://news.hada.io/topic?id=22341)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
+  * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
+  * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
+  * 특히 LLM(Large Language Models)의 성능을 극대화하기 위한 컨텍스트 관리 방법론에 중점을 두고 있으며, AI 시스템이 더 정확하고 관련성 높은 응답을 생성할 수 있도록 돕는 최신 연구와 실용적인 팁들을 제공
 * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
   * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
 * [context-engineering-langGraph: context-engineering-langGraph](https://github.com/sw-woo/context-engineering-langGraph)
@@ -507,6 +510,10 @@ Artificial Intelligence
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
+    * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
+    * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
+    * 가이드는 AI와 함께 코딩할 때의 마인드셋 변화, 효과적인 프롬프트 작성법, 그리고 AI 도구의 한계를 이해하는 방법 등을 포함
+    * 'Vibe Coding'의 핵심은 개발자가 세부 구현보다 높은 수준의 설계와 문제 해결에 집중할 수 있게 하는 것
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -601,6 +608,8 @@ Artificial Intelligence
     * [제미나이 CLI(Gemini CLI)로 프로메테우스/그라파나 배포하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3239/)
     * [알아두면 쓸모있는 제미나이 CLI(Gemini CLI) 사용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3259/)
     * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
+    * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
+      * [구글, 개발자 지원 전방위적 확대...AI 코딩 협업 도구 ‘제미나이 CLI 깃허브 액션’ 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35978)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
     * [Gemini Code Assist tools: Stay in the flow while coding - YouTube](https://www.youtube.com/watch?v=ovS7OvwORIo)
     * [Gemini Code Assist adds tools to aid developer workflows | Google Cloud Blog](https://cloud.google.com/blog/products/application-development/gemini-code-assist-launches-developer-early-access-for-tools)
@@ -744,6 +753,13 @@ Artificial Intelligence
     * [자동화는 여기서 끝! 클로드 MCP×Zapier 한 번에 끝냈다🔥 - YouTube](https://www.youtube.com/watch?v=CO0L32nVjEQ)
   * [context7: Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)
     * [Context7 MCP: LLM 코드 생성의 한계를 넘어서는 최신 정보 활용법](https://devway.tistory.com/66)
+    * Context7은 LLM이 항상 최신 문서를 참고할 수 있도록 돕는 MCP 서버
+    * 이 서버는 LLM이 특정 도메인이나 주제에 대한 최신 정보를 지속적으로 업데이트하고 활용할 수 있게 도움
+    * Context7은 문서의 변경 사항을 자동으로 감지하고, 이를 LLM의 컨텍스트에 통합하여 항상 최신 상태의 정보를 제공
+    * 이 기능은 특히 빠르게 변화하는 기술 분야나 실시간 데이터가 중요한 애플리케이션에서 유용
+    * 개발자는 Context7을 통해 LLM이 더 정확하고 관련성 높은 응답을 생성할 수 있도록 지원하며, 정보 검색과 프롬프트 최적화에 큰 도움
+    * 설치 후, 프롬프트 마지막에 use context7을 추가하면 최신 문서를 기반으로 답변을 얻을 수 있도록 해줌
+    * `Configure a Cloudflare Worker script to cache JSON API responses for five minutes. use context7`
   * [fastmcp: The fast, Pythonic way to build Model Context Protocol servers 🚀](https://github.com/jlowin/fastmcp)
     * [MCP(Model Context Protocol)이 뭐길래? — DEV.DY](https://dytis.tistory.com/112)
     * [MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY](https://dytis.tistory.com/113)
@@ -779,6 +795,11 @@ Artificial Intelligence
     * [네이버 검색 API를 활용한 MCP 서버를 만들어보자](https://devway.tistory.com/55)
   * [py-mcp-youtube-toolbox](https://github.com/jikime/py-mcp-youtube-toolbox)
     * [Youtube API를 이용하여 MCP Server를 만들어보자.](https://devway.tistory.com/63)
+  * [sequentialthinking at main · modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)
+    * 대형 언어 모델(LLM)이 복잡한 문제를 더 효과적으로 해결할 수 있도록 구조화된 사고 과정을 통해 동적이고 성찰적인 문제 해결 도구를 제공하는 MCP 서버
+    * 이 접근법은 LLM이 문제를 한 번에 해결하려고 시도하는 대신, 단계별로 나누어 체계적으로 접근하도록 유도
+    * 코드는 문제 분석, 계획 수립, 단계적 실행 및 검증 과정을 구조화하여 LLM의 추론 능력을 향상시키는 방법을 제시
+    * 이러한 순차적 사고 방식은 특히 프로그래밍, 수학 문제 해결, 복잡한 의사결정 등의 작업에서 LLM의 성능을 크게 개선
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
     * [GitHub 저장소를 이용한 Smithery 서버 등록 및 배포](https://devway.tistory.com/65)
@@ -1168,6 +1189,17 @@ Artificial Intelligence
     * ’실제로 존재하는 정보지만 맥락을 잘못 해석해 엉뚱한 말을 하는건지‘ - 즉 있는 사실들을 잘못 연결하고 부분적으로는 꾸며내서 주장을 하는 건지’ - confabulation 
     * 정신분열증 (환각) 환자와 인지기능저하 환자 (작화) 에 대한 접근방법,치료 방법이 달라지는 것과 마찬가지
 * [현재 미국에서 논란인 TEA 앱, 그리고 그것이 터졌습니다. - YouTube](https://www.youtube.com/watch?v=-Wa7zrhtRio) vibe coding이 문제점 언급
+* [The New Code — Sean Grove, OpenAI - YouTube](https://www.youtube.com/watch?v=8rABwKRsec4)
+  * AI가 소프트웨어 개발을 혁신하는 시대에 가장 가치 있는 기술은 코드를 작성하는 것이 아니라 의도를 정확하게 전달하는 것
+  * 이 세계에서는 프롬프트나 코드가 아닌 사양이 프로그래밍의 기본 단위가 되는 방법과 사양 작성이 새로운 슈퍼파워가 되는 이유를 설명
+  * 오랜 시간 동안 코드는 개발자의 가장 가치 있는 생산물로 여겨졌으나, 사실 이는 그것을 만들기 위한 명세가 제거된 결과물일 뿐이며 잘 작성된 명세는 여러 형태의 개발 언어, 문서화 등이 가능한 원천 소스임을 말한다
+  * AI 시대의 개발자는 시스템 의도를 설계할 수 있는 능력이야말로 가장 중요한 기술이 될 것이라고 주장한다
+* [Can AI Replace Web Developers: A Practical Look at Current Tools and Limitations](https://www.sitepoint.com/can-ai-replace-web-developers/)
+  * AI가 웹 개발자를 대체할 수 있는지에 대한 논의
+  * 이 글에서는 AI가 현재 웹 개발에서 수행할 수 있는 작업들과 그 한계점을 분석
+  * AI는 코드 생성, 버그 수정, 문서화 등 반복적인 작업을 자동화할 수 있지만, 복잡한 비즈니스 로직 이해, 사용자 경험 설계, 창의적 문제 해결 등은 여전히 인간 개발자의 영역
+  * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
+  * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1417,8 +1449,12 @@ Artificial Intelligence
   * [Claude Code 만들기](https://www.facebook.com/groups/langchainkr/posts/3318180704984305)
     * [Unminified prompts and tool definitions for Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) Claude Code 프롬프트
     * [ink: 🌈 React for interactive command-line apps](https://github.com/vadimdemedes/ink) Ink - Claude Code CMD line
-  * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code?ref=stdy.blog)
+  * [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code)
     * [요약 번역 How I use Claude Code (+ my best tips) by Steve Swell](https://www.stdy.blog/summary-of-how-i-use-claude-code-my-best-tips-by-steve-swell/)
+    * 이 글은 Anthropic의 Claude Code를 효과적으로 활용하는 방법과 실용적인 팁을 제공
+    * 저자는 Claude Code를 단순한 코드 생성 도구가 아닌 페어 프로그래밍 파트너로 활용하는 접근 방식을 강조
+    * 글에서는 복잡한 작업을 여러 단계로 나누어 요청하는 방법, 코드 리뷰 및 리팩토링에 Claude를 활용하는 전략, 그리고 깊이 있는 기술적 대화를 이끌어내는 효과적인 프롬프팅 기법 등을 소개
+    * 또한 Claude의 장점(정확한 구문 이해, 탁월한 설명 능력)과 한계(최신 라이브러리 지식 부족, 복잡한 설계 패턴 적용의 어려움)를 균형 있게 다루며 개발 생산성을 극대화하는 방법을 제시
   * [클로드 동시에 10개씩 돌리며 뽕뽑는법 - YouTube](https://www.youtube.com/watch?v=0ZlDxNYdXf8)
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
@@ -1435,10 +1471,19 @@ Artificial Intelligence
   * [6 Weeks of Claude Code - Puzzmo Blog](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
   * [My One-Month Journey with Claude Code 🚀 - DEV Community](https://dev.to/onlineeric/my-one-month-journey-with-claude-code-199h)
     * [My One-Month Journey with Claude Code 🚀 - DEV Community | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5280813/4780849)
+  * [My Experience With Claude Code After 2 Weeks of Adventures | sankalp's blog](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
+    * 이 글은 개발자가 2주 동안 Anthropic의 Claude Code를 사용한 경험을 상세하게 공유
+    * 저자는 Claude의 코드 생성 능력이 특히 API 문서를 읽고 이해하는 과정에서 뛰어난 성능을 보였다고 평가
+    * 복잡한 외부 API와의 통합 작업, 낯선 라이브러리 사용법 학습, 그리고 가독성 높은 코드 생성 능력이 Claude의 강점
+    * 반면, 일부 프레임워크에 대한 지식 부족과 같은 한계점도 함께 지적하며, Claude를 코딩 파트너로 활용할 때 최대한의 효과를 얻기 위한 실용적인 팁과 접근법을 제시
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
+      * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
+      * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
+      * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
+      * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -1467,6 +1512,10 @@ Artificial Intelligence
     * [바이브코딩 작업 환경 수립 (홈페이지 제작 실습 포함) | 챗과장](https://chatmanager.liveklass.com/classes/252907)
     * [미쳤다.. 슈퍼클로드 이렇게 쓰는 거였음? 이거 보면, 코알못도 이제 상급 개발자 - YouTube](https://www.youtube.com/watch?v=YxjLqtFGh1c)
     * [맥북에서 간단히 설치하는 방법](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1252230533262959&hoisted_section_header_type=recently_seen)
+    * SuperClaude Framework는 Anthropic의 Claude 모델의 성능을 최대한 활용할 수 있도록 설계된 오픈소스 프로젝트
+    * 이 프레임워크는 복잡한 작업을 수행하기 위한 프롬프트 템플릿, 구조화된 출력 형식, 그리고 다양한 사용 사례에 최적화된 프롬프팅 전략을 제공
+    * 특히 Claude의 강점인 긴 컨텍스트 처리와 복잡한 추론 능력을 극대화하기 위한 방법론을 담고 있으며, 개발자와 연구자들이 Claude를 활용해 고품질의 결과물을 일관되게 얻을 수 있도록 도움
+    * 코드 생성, 데이터 분석, 콘텐츠 생성 등 다양한 영역에서의 활용 예시와 함께 실용적인 가이드를 제공
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
