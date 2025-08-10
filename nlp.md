@@ -1065,6 +1065,7 @@ NLP
     * [20$ 유료 챗GPT 말고, 무료 GPT-4o Github Models (깃허브 모델스) 사용하세요! - YouTube](https://www.youtube.com/watch?v=VhMHl9LH2qw)
     * [GPT-4o mini: advancing cost-efficient intelligence | OpenAI](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
+    * [인공지능 AI 코딩 실력 GPT-5 vs Claude 비교 - YouTube](https://www.youtube.com/watch?v=NfoQecGo9V8)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     * [OpenAI, 더 많이 생각하고 대답하는 o1 모델 프리뷰 공개 | GeekNews](https://news.hada.io/topic?id=16735)
