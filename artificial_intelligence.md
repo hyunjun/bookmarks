@@ -1477,6 +1477,12 @@ Artificial Intelligence
     * 저자는 Claude의 코드 생성 능력이 특히 API 문서를 읽고 이해하는 과정에서 뛰어난 성능을 보였다고 평가
     * 복잡한 외부 API와의 통합 작업, 낯선 라이브러리 사용법 학습, 그리고 가독성 높은 코드 생성 능력이 Claude의 강점
     * 반면, 일부 프레임워크에 대한 지식 부족과 같은 한계점도 함께 지적하며, Claude를 코딩 파트너로 활용할 때 최대한의 효과를 얻기 위한 실용적인 팁과 접근법을 제시
+  * [Jeremy's Blog | Claude Code 101](https://sungjk.github.io/2025/08/09/claude-code-101.html)
+  * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945?multi_permalinks=1085554576519852&hoisted_section_header_type=recently_seen) Claude Code를 Super Agent로 사용하기 팁
+  * [클로드 코드 무료 템플릿 300개+ 결국 나와버렸습니다.. - YouTube](https://www.youtube.com/watch?v=oMlsOS0fzSk)
+    * [클로드 코드 무료 템플릿 300개+ 결국 나와버렸습니다.. | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5326615/4852576)
+  * [클로드 코드를 범용 인공지능 AI 에이전트로 사용하기 - YouTube](https://www.youtube.com/watch?v=CeOPHx8pCCE)
+  * [클로드 Opus 4.1 세계 최강 에이전틱 AI - YouTube](https://www.youtube.com/watch?v=jFci-l6wvOU)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
