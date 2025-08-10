@@ -1344,6 +1344,7 @@ App
 * [iOS 기본 앱 대체 서드파티 앱 시리즈 리스트 정리](https://www.clien.net/service/board/cm_iphonien/12508851)
 * [손쉽게 업무시간 절약하는 깨알 아이폰 팁 10가지 - CIO Korea](https://www.ciokorea.com/news/195754)
 * [아이폰 사용자 경험을 ‘확’ 바꾸는 10가지 숨은 설정 - ITWorld Korea](https://www.itworld.co.kr/news/220399)
+* [아이폰 핵꿀팁 🤯 꼭 해보세요! 한방에 아이폰 사진, 동영상 외장 백업 끝내기 - YouTube](https://www.youtube.com/watch?v=HDPwkcoBs5U)
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
