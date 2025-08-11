@@ -969,6 +969,13 @@ Artificial Intelligence
       * 2. LLM의 능력은 극도로 편중. 학습 데이터가 풍부한 영역에서는 뛰어나지만 그렇지 않은 영역에서는 매우 취약. 잠깐 간보고 안되겠다 싶으면 직접 수동으로 처리 필요
       * 3. 답변을 기다리면서 딴짓을 할 가능성이 높다. 집중력을 유지하기 위해 후속 작업을 준비하는 등 의식적인 맥락 관리 필요
       * LLM은 도구일 뿐이고 LLM의 함정을 배울 뿐 아니라 자기를 성찰해야
+  * [장진영 - SW 공학이 부재한 맹목적인 바이브 코딩은 생산성이 오히려 저하될 수 있다는 측면이 있었습니다(최근 논란된... | Facebook](https://www.facebook.com/jangjin.yeong.208717/posts/pfbid02mfJvAyoCS92n99soauKHupqnYoYGaFi7R41aFx9KfPH6qJKF9RVMFcYmLGSBWzNtl)
+    * SW 공학이 부재한 맹목적인 바이브 코딩은 생산성이 오히려 저하될 수 있다는 측면
+    * 이에 대한 해결책이 될 수 있을런지 모르겠으나, 최근 아마존이 기존의 소프트웨어 개발 라이프사이클에서 AI 를 개발에 적용하기 위해 내어놓은 백서가 있는데 이름이 AI-DLC (AI Driven Development Lifecycle)
+    * 코어 아이디어는 DDD(도메인 주도 설계)를 적용한 문제 영역 (Unit; 바운디드 컨텍스트) 분리와 스프린트 보다 상대적으로 더 빠른 프로토타입 (볼트)
+      * 그리고 구현된 초안을 에이전트가 결정론적으로 테스트할 수 있는 BDD/TDD의 적용
+      * 그리고 수행자가 일일이 이러한 SW 개발 프로세스를 누락없이 실행하기 위하여 엠비언트 에이전트 스타일의 휴먼-인-더-루프 개입
+    * 구현범위를 한정(바운디드 컨텍스트) 시켜 LLM 의 환각을 최소화하고 품질을 높일 수 있다는 아이디어
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
 * [Artificial intelligence is already deceiving us and could have unforeseen consequences for humans](https://www.telegraph.co.uk/news/2024/05/10/ai-deceiving-humans-already-unforeseen-consequences-humans/)
