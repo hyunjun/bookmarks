@@ -429,6 +429,8 @@ History
 * [요르단 강 서안지구에서는 경찰이 기자의 목을 조르고 무자비하게 팬다(동영상)](http://www.huffingtonpost.kr/2015/11/01/story_n_8443854.html)
 * [이스라엘인들이 정말로 원하는 것은 이거다](http://www.huffingtonpost.kr/mya-guarnieri/story_b_8414950.html)
 * [다산과 복지가 고민인 혁신의 나라 이스라엘](https://blog.naver.com/santa_croce/221460010131) 하레디 Haredi
+* [(2) أنس الشريف Anas Al-Sharif on X: "This is my will and my final message. If these words reach you, know that Israel has succeeded in killing me and silencing my voice. First, peace be upon you and Allah’s mercy and blessings. Allah knows I gave every effort and all my strength to be a support and a voice for my" / X](https://x.com/AnasAlSharif0/status/1954670507128914219)
+  * [희일이송 - "이것이 제 유언이자 마지막 메시지입니다. 이 말이 여러분에게 닿는다면, 이스라엘이 저를 죽이고 제... | Facebook](https://www.facebook.com/leesongheeil/posts/pfbid0mzyBR9pzebUrNLdW8vjWQVJXWtLPpimYXxQzkCiJMmK6LAS4v35jHTVnMnyLChVTl)
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
