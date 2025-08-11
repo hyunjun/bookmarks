@@ -3373,6 +3373,8 @@ Javascript
     * 아직 프로젝트 초기이긴 하지만 Turbopack과 달리 Webpack과의 호환을 어느 정도 염두에 두었기 때문에 기존 생태계를 어느 정도 유지할 것으로 예상
     * [Rspack 1.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=16546)
   * [webpack.kr](https://webpack.kr/)
+* [zshy: 🐒 Bundler-free build tool for TypeScript libraries. Powered by tsc](https://github.com/colinhacks/zshy)
+  * [Zshy - 번들러 없는 TypeScript 라이브러리 빌드 툴 (tsc 기반) | GeekNews](https://news.hada.io/topic?id=22443)
 
 ## Library excel xlsx
 * [10 Best Node.js XLSX Builder Libraries in 2022 | Openbase](https://openbase.com/categories/js/best-nodejs-xlsx-builder-libraries)
