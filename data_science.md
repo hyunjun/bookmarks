@@ -629,6 +629,9 @@ Data Science
 * [Decodable](https://www.decodable.co/)
   * [Announcing General Availability of the Decodable Real-Time Data Platform - Decodable](https://www.decodable.co/blog/decodable-is-ga)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
+* [DocETL – AI-Powered Document ETL Platform](https://www.docetl.org/)
+  * [docetl: A system for agentic LLM-powered data processing and ETL](https://github.com/ucbepic/docetl)
+  * [Python library for Agentic LLM-powered data processing!](https://www.linkedin.com/posts/sumanth077_python-library-for-agentic-llm-powered-data-activity-7359847637769990147-Quvp/)
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
   * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
