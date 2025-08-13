@@ -1458,6 +1458,8 @@ Artificial Intelligence
   * [LLM으로 몇 달간 코딩한 후, 다시 내 두뇌를 쓰기로 했어요 | GeekNews](https://news.hada.io/topic?id=20955)
 * [Coding with LLMs in the summer of 2025 (an update) - <antirez>](https://antirez.com/news/154)
   * [LLM을 활용한 코딩 (2025년 여름) | GeekNews](https://news.hada.io/topic?id=22085)
+* [My AI Code Prep & Cline Workflow for Budget Coding/Debugging (Part 1)](https://wuu73.org/blog/aiguide1.html)
+  * [AI를 무료 또는 저렴하게 활용하여 개발하는 방법 | GeekNews](https://news.hada.io/topic?id=22437)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
