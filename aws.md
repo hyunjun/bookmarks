@@ -2739,6 +2739,7 @@ AWS
     * 여러 spark job에서 같은 경로에 대해 동시 쓰기(update, delete, merge)시에는 보장을 할 수 있는 방법이 없어서
     * s3에서는 결국 Lock을 구현하기 위한 도구를 연동해야했었는데(dynamodb 예시 [Delta Lake on S3 | Delta Lake](https://delta.io/blog/delta-lake-s3/) 참고) 이제 그럴 필요 없어짐
   * [데이터 엔지니어링 전망: Data Engineering Weekly의 2025년 예상 | GeekNews](https://news.hada.io/topic?id=18402) 5번 항목이 유사한 전망
+* [S3 Vectors 등장](https://www.linkedin.com/posts/seul-ki-song_s3-vectors-%EB%93%B1%EC%9E%A5-%EC%B5%9C%EA%B7%BC-aws-s3%EC%97%90-%EB%B2%A1%ED%84%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-activity-7359528454934990848-Igjv/)
 * [Amazon Data Firehose와 S3Tables를 활용한 실시간 스트리밍 데이터 파이프라인 소개](https://www.linkedin.com/posts/sungminkim23_s3tables-apacheiceberg-datafirehose-activity-7322804616977383425-S0-Y/)
   * [aws-kr-startup-samples/analytics/streaming-data-to-s3tables-with-datafirehose at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/analytics/streaming-data-to-s3tables-with-datafirehose)
   * [saas-metering-system-on-aws/v3 at main · aws-samples/saas-metering-system-on-aws · GitHub](https://github.com/aws-samples/saas-metering-system-on-aws/tree/main/v3)
