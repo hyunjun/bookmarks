@@ -1323,6 +1323,8 @@ NLP
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+  * [최승준 - GPT-5 프롬프팅 가이드 "뭐 별거 있겠어?" 하고 큰 기대없이 읽어봤는데 내용이 무척 충실하고... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0aAapVPKTr6A43pDNGSFbfoDHDoNejxHkimMVTo7M2ZLDkjWxKDH2xzm6HE9msvNyl)
 * [leaked-system-prompts: Collection of leaked system prompts](https://github.com/jujumilk3/leaked-system-prompts) 빅테크 회사 시스템 프롬프트 유출 모음
 * [lecture/GPT/prompt at main · dremdeveloper/lecture · GitHub](https://github.com/dremdeveloper/lecture/tree/main/GPT/prompt)
 * [Maskara.ai](https://www.maskara.ai/)
