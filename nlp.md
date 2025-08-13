@@ -1090,6 +1090,7 @@ NLP
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
     * [Using GPT-5 - OpenAI API](https://platform.openai.com/docs/guides/latest-model)
     * [인공지능 AI 코딩 실력 GPT-5 vs Claude 비교 - YouTube](https://www.youtube.com/watch?v=NfoQecGo9V8)
+    * [ChatGPT 맞춤 설정(Custom Instructions) - 모두의AI](https://mo-ai.notion.site/Custom-Instructions-for-GPT-5-b3d2a41ae563485aabafc60c7364d50a)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     * [OpenAI, 더 많이 생각하고 대답하는 o1 모델 프리뷰 공개 | GeekNews](https://news.hada.io/topic?id=16735)
