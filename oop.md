@@ -108,6 +108,11 @@
 * [**OOP 기반 선착순 투표 시스템 아키텍처**](https://zuminternet.github.io/vote-architecture/)
 * [Early return은 무조건 좋은 코드가 아니야!](https://all-dev-kang.tistory.com/entry/Early-return%EC%9D%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%88%EC%95%BC#google_vignette)
 * [OOP에서 진짜 중요한 건 '캡슐화'도 '상속'도 아닙니다 - YouTube](https://www.youtube.com/watch?v=YV9OW_i-s8A) 객체는 생성되는 순간부터 유효해야 한다
+* [인상적인 질문이 있어서 공유](https://www.linkedin.com/posts/%EC%98%81%ED%98%B8-%EC%A1%B0-a4a363238_7-3-%EC%83%81%EC%86%8D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A4%91%EB%B3%B5-%EC%A0%9C%EA%B1%B0-%EC%A7%88%EB%AC%B8-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%A7%88%EB%AC%B8-activity-7360259304093835264-NrXH/)
+  * 인터페이스와 추상 클래스를 혼합하는 경우
+    * [7-3 상속을 이용한 중복 제거 질문 있습니다! - 인프런 | 커뮤니티 질문&답변](https://www.inflearn.com/community/questions/1650264/7-3-%EC%83%81%EC%86%8D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A4%91%EB%B3%B5-%EC%A0%9C%EA%B1%B0-%EC%A7%88%EB%AC%B8-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  * CQS(명령 쿼리 분리) 원칙과 TDA(묻지 말고 시켜라) 원칙의 적용 방법
+    * [6-2. 명령과 쿼리 분리 원칙 질문 - 인프런 | 커뮤니티 질문&답변](https://www.inflearn.com/community/questions/1655754/6-2-%EB%AA%85%EB%A0%B9%EA%B3%BC-%EC%BF%BC%EB%A6%AC-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99-%EC%A7%88%EB%AC%B8)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
