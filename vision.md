@@ -592,6 +592,7 @@ Vision
 * [NLP와 OCR, 머신 러닝으로 더욱 편리하고 특별한 LINE 가계부 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-kakeibo-with-nlp-ocr-machinelearning/)
 * [RAG에서 한국어 OCR(Clova OCR, Upstage, Llama Parse) 써보기](https://velog.io/@autorag/RAG%EC%97%90%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-OCRClova-OCR-Upstage-Llama-Parse-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
 * [이미지 캡셔닝 - Hugging Face의 BLIP 모델로 이미지 설명 자동 생성하기](https://webnautes.com/imiji-kaebsyeoning-hugging-faceyi-blip-modelro-imiji-seolmyeong-jadong-saengseonghagi/)
+* [카카오 AI가 법인카드 영수증을 처리하는 방법: AI 간편 정산 개발기 - tech.kakao.com](https://tech.kakao.com/posts/720)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
