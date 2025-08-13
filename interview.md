@@ -23,6 +23,14 @@ Interview
 * [**Google Interview University**](https://github.com/jwasham/google-interview-university/)
   * [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
   * [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+* [Prepare for your Google Interview: Tips and Example General Cognitive Ability Question - YouTube](https://www.youtube.com/watch?v=eIMR82oO2Dc)
+  * [구글 최종 면접까지 가게 해준 면접 연습 영상](https://www.linkedin.com/posts/seulki-kang_%EA%B5%AC%EA%B8%80-%EC%B5%9C%EC%A2%85-%EB%A9%B4%EC%A0%91%EA%B9%8C%EC%A7%80-%EA%B0%80%EA%B2%8C-%ED%95%B4%EC%A4%80-%EB%A9%B4%EC%A0%91-%EC%97%B0%EC%8A%B5-%EC%98%81%EC%83%81-%EA%B5%AC%EA%B8%80-%EB%88%84%EA%B5%AC%EB%82%98-%ED%95%9C%EB%B2%88%EC%AF%A4-%EA%BC%AD-ugcPost-7358328042970075136-66Uv/)
+    * ➊ 답변 전 잠시 생각하기
+    * ➋ 명확화 질문하기
+    * ➌ 논리적 가정 공유: 불완전한 정보를 바탕으로 합리적 추론하기
+    * ➍ 사고 과정 보여주기: 면접관에게 문제 해결 과정을 상세하게 설명
+    * ➎ 장단점 고려 또는 성공 측정 방법 제시
+    * ➏ 지원 직무와 연결: 가능하면 답변을 지원 역할과 연관지어 설명
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [**컴공 취준생에게 유용한 링크들 정리**](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
@@ -282,6 +290,8 @@ Interview
   * 2️⃣ ‘프로젝트를 설명할 때, ‘왜’를 먼저 말하는가
   * 3️⃣ 커리어 목표를 갖고 있는가
   * 4️⃣ 인생의 목표가 있는가
+* [Live coding sucks | Mustapha Hadid](https://hadid.dev/posts/living-coding/)
+  * [Microsoft researchers just proved what we all suspected](https://www.linkedin.com/posts/assafarkin_microsoft-researchers-just-proved-what-we-activity-7358557656493481985-GywV/)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
