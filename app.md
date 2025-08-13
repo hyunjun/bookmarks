@@ -122,7 +122,6 @@ App
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * listusb [macOS 사용자들을 위한 listusb (lsusb 와 비슷) : 클리앙](https://www.clien.net/service/board/pds/17956235)
-* [LocalSend: Share files to nearby devices](https://localsend.org/)
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
@@ -2689,6 +2688,10 @@ App
 * [DuckDuckGo — 개인정보 보호, 쉬워졌네요](https://duckduckgo.com/)
   * [DuckDuckGo !Bangs](https://duckduckgo.com/bangs)
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
+
+# Share
+* [LocalSend: Share files to nearby devices](https://localsend.org/)
+* [PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.](https://pairdrop.net/)
 
 # Social media
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
