@@ -2648,6 +2648,10 @@ App
   * [TreeSheets Tutorial](http://strlen.com/treesheets/docs/tutorial.html)
   * [TreeSheets - 오픈소스 프리폼 데이터 오거나이저 | GeekNews](https://news.hada.io/topic?id=4501)
 
+## Office Google
+* [구글시트에서 AI() 함수 사용해보기](https://blog.chatdaeri.com/google-sheets-ai-function/)
+  * [구글 시트에서 이젠 AI() 함수를 사용할 수 있다는 거 아시나요?](https://www.linkedin.com/posts/chatdaeri_%EA%B5%AC%EA%B8%80-%EC%8B%9C%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%B4%EC%A0%A0-ai-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B1%B0-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94-activity-7360958309002043392-YAAr/)
+
 # Password
 * 1password
   * [**1Password의 Service Accounts로 시크릿 관리하기 :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1700)
