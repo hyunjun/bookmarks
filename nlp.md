@@ -1309,6 +1309,9 @@ NLP
 * [Google의 AI 프롬프팅 정석 TCREI 알려드립니다 - YouTube](https://www.youtube.com/watch?v=3TSjxs2oP-Q)
   * [Google의 AI 프롬프팅 정석 TCREI 알려드립니다 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5254976/4739942)
   * tcrei는 task(명확한 지시), context(정보 제공), reference(샘플 제시), evaluate(자체 점검), iterate(반복 개선)의 5단계로 구성
+* [LLMHomogenization.pdf](https://kiaghods.com/assets/pdfs/LLMHomogenization.pdf)
+  * [이거는 진짜 흥미롭네요 일반적으로 AI가 생성하는 창작물은 인간 집단이 생산하는 결과물보다 다양성이 떨어진다는 인식이 존재한다고 합니다. 그러나 해당 연구는 이러한 가설을 부정했습니다. 연구진은 GPT-4o에게 이야기의 일부를 제공하고, 이를 완성하도록 하는 과제를 부여했습니다. 이때 ‘맥락(Context)’과 ‘무작위성(Randomness)’ 요소를 함께 포함시킨 결과, GPT-4o의 산출물은 인간 집단의 작품과 동등한 수준의 스타일적, 어휘적, 의미적 다양성을 보였다고 합니다. 흥미로운 점은 시스템 프롬프트(System Prompt)에 ‘참고용 무작위 단어’를 포함시키는 것이 결과물의 다양성에 상당한 영향을 미쳤다고 합니다.](https://www.threads.com/@aicoffeechat/post/DNRDq0vTRHd)
+  * [배휘동 - AI에게도 창의성을 높여주는 대각선 법칙 '참고용 무작위 단어'를 통해 AI의 창의성을 높일 수 있다는... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid091eUUR6RSMk2pxR55irRJDGUMJ7NnTwopTdrvEZpDTFN9F6u9qbJCKPHZfBgq5BSl)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
