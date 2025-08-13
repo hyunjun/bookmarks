@@ -1529,6 +1529,8 @@ Artificial Intelligence
   * [클로드 코드를 범용 인공지능 AI 에이전트로 사용하기 - YouTube](https://www.youtube.com/watch?v=CeOPHx8pCCE)
   * [클로드 Opus 4.1 세계 최강 에이전틱 AI - YouTube](https://www.youtube.com/watch?v=jFci-l6wvOU)
   * [Claude Code 심화 활용법 - SubAgent & Super Claude](https://tech.hyperithm.com/claude_code_guides_2)
+  * [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+    * [Claude Code is All You Need | GeekNews](https://news.hada.io/topic?id=22465)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
