@@ -9130,6 +9130,7 @@ Programming
     * 7. 변경 비용이 저렴함(cheap to change)
 * [테스트 코드 도입을 위한 여정 🫠](https://velog.io/@brince/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EB%8F%84%EC%9E%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95)
 * [소프트웨어QA 포럼](https://qaforum.kr/)
+* [TDD가 캡슐화를 망치는 이유 (그리고 유닛 테스트를 똑똑하게 하는 법) - YouTube](https://www.youtube.com/watch?v=vXw0bn4KNvY) 테스트하려면 모든 메서드를 인터페이스로 만들어야 한다? 이건 OOP의 핵심인 캡슐화를 무너뜨리는 잘못된 접근
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
