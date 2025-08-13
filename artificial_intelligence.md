@@ -278,6 +278,8 @@ Artificial Intelligence
 * [**Domain specific architectures for AI inference**](https://fleetwood.dev/posts/domain-specific-architectures)
   * [**AI 추론을 위한 Domain-Specific Architectures**](https://tulip-phalange-a1e.notion.site/AI-Domain-Specific-Architectures-23cc32470be28025bbffe42e15e58d99)
 * [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55) security
+* contextual AI [컨텍스츄얼 AI 경쟁이 온다 - YouTube](https://www.youtube.com/watch?v=m8IoKaEo5EQ)
+* vibe working [젠스파크(Genspark), 바이브 워킹-AI 기업의 새로운 일 방식: 4개월 만에 ARR 3,600만 달러를 달성한 비결 - AX 100배의 법칙](https://dxtalk.net/genspark-vibe-working-success/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -319,6 +321,36 @@ Artificial Intelligence
 * [새로운 콴다 Agent는 어떻게 만들어졌을까?. 콴다는 왜 달라졌을까? Backend 팀의 Agent 설계 이야기 | by Dave Kwon | Aug, 2025 | Team QANDA](https://blog.mathpresso.com/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BD%B4%EB%8B%A4-agent%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-0788a7b37b6e)
 * [에이전트를 개발 하면서 느꼈던 고민과 중요점](https://www.linkedin.com/posts/kjh941213_%EC%9A%94%EC%A6%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EA%BC%88%EB%8D%98-%EA%B3%A0%EB%AF%BC%EA%B3%BC-%EC%A4%91%EC%9A%94%EC%A0%90%EC%9D%84-%EC%A0%81%EC%96%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%8E%EC%9D%B4%EB%93%A4-activity-7358709526902042624-ZbXS/)
 * [테크인사이드 AI 에이전트로 확 바뀌는 비즈니스 컨설팅의 세계 < AI·엔터프라이즈 < 기사본문 - 디지털투데이 (DigitalToday)](https://www.digitaltoday.co.kr/news/articleView.html?idxno=583068)
+* [전종홍 - 최근 IBM에서 ACP(Agent Communication Protocol)을 발표함으로써, 어느덧... | Facebook](https://www.facebook.com/1biit/posts/pfbid038PAgoowApamhL8rNvGG9hbcqz53Jqbz7WQHvFYjVCEtzvVNheUwrGdQCNqcjNzEHl)
+  * AG-UI Protocol
+    * Agent ↔ User
+    * 이벤트 기반 스트림
+    * SSE / WebSockets
+    * Copilotkit 개괄
+    * Human-in-the-Loop
+  * A2A Protocol
+    * Agent ↔ Agent
+    * HTTP + JSON-RPC
+    * Agent Card 발견
+    * Google Cloud 주도
+    * 협업 & 상호운용성
+  * ACP Protocol
+    * 범용 통신
+    * REST-first HTTP
+    * MIME Type 우선형
+    * IBM / Linux Foundation
+    * Internet of Agents
+  * MCP (Model Context Protocol)
+    * Agent ↔ Tools/Data
+    * JSON-RPC 2.0
+    * stdio / HTTP + SSE
+    * Anthropic 주도
+    * 환경 감속, LLM 확장
+  * Agentic Stack 구성
+    * 각 프로토콜은 서로 다른 상호작용 축을 담당
+    * 경쟁 관계가 아닌 상호 보완적 관계
+    * 범용 시스템에 추가적으로 결합 가능
+    * AI 에이전트 생태계의 표준화 기반 제공
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
@@ -1490,6 +1522,7 @@ Artificial Intelligence
     * [클로드 코드 무료 템플릿 300개+ 결국 나와버렸습니다.. | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5326615/4852576)
   * [클로드 코드를 범용 인공지능 AI 에이전트로 사용하기 - YouTube](https://www.youtube.com/watch?v=CeOPHx8pCCE)
   * [클로드 Opus 4.1 세계 최강 에이전틱 AI - YouTube](https://www.youtube.com/watch?v=jFci-l6wvOU)
+  * [Claude Code 심화 활용법 - SubAgent & Super Claude](https://tech.hyperithm.com/claude_code_guides_2)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
