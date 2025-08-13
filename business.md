@@ -3090,6 +3090,7 @@ Business
 * [worry about great engineers getting lost in the system in large software companies](https://www.linkedin.com/feed/update/urn:li:activity:7345831181164191744/)
   * [이상적인 매니지먼트라면 이렇게 getting lost되는 사람이 없도록 해야](https://www.linkedin.com/posts/spike-jee-480225a_i-often-worry-about-great-engineers-%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-activity-7346284320636006401-z9mW/)
   * [I often worry about great engineers getting lost in the system in large softwa | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5025793/4385175)
+* [한성희 - 시리즈B 준비 중 발견하는 숨겨진 성장 정체 요인들 시리즈A 이후 지표는 꾸준히 상승했는데, 시리즈B 준비... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid047NYAQEsDQ7XtzS5CMuEesx4G683qVgeC6Wfhg9vjv3uPqn23bF4pVEHy8VPuWtgl)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
