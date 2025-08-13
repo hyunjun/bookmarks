@@ -2831,6 +2831,8 @@ Business
 * [리더가 6월에 꼭 해야 할 업무 '반기 평가' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/half20240620)
   * [리더가 해야 할 역할... '팀원의 성과 창출을 위한 조력자(assistant)'](https://www.linkedin.com/posts/cys712_%EB%A6%AC%EB%8D%94%EA%B0%80-6%EC%9B%94%EC%97%90-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%97%85%EB%AC%B4-%EB%B0%98%EA%B8%B0-%ED%8F%89%EA%B0%80-activity-7343088333289361409-xV77/)
 * [적절한 질문을 하는 게 큰 가치를 만들어 낼 수 있다](https://www.linkedin.com/posts/spike-jee-480225a_%EB%82%B4%EA%B0%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%98%EA%B2%8C-%EB%90%98%EA%B3%A0%EB%B6%80%ED%84%B0%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%98%EB%8A%94-%EB%A7%90-%EC%A4%91%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%A7%88%EB%AC%B8-%EC%95%84%EB%8B%8C-activity-7350134026004819968-nOlf/)
+* [The Best Companies Are Dictatorships - by Nikunj Kothari](https://writing.nikunjk.com/p/the-best-companies-are-dictatorships)
+  * [최고의 회사는 독재처럼 움직인다 | 하베스트](https://harvest.pub/shared/90270a61-d07e-40dd-86fb-aa0c32fbaadc)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
