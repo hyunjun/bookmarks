@@ -352,6 +352,10 @@ Artificial Intelligence
     * 범용 시스템에 추가적으로 결합 가능
     * AI 에이전트 생태계의 표준화 기반 제공
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
+* [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
+  * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+  * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
+  * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
