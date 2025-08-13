@@ -87,3 +87,4 @@ English
   * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
   * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
   * [It's bad, to say the least. 3초 안에 해석이 안되면 꼭 보세요🙇‍♀️💙 - YouTube](https://www.youtube.com/watch?v=d0ihj3BSnJU)
+  * [We'll get by. 보자마자 바로 해석 안되면 꼭 보세요 (핵심 구동사 정리🤓💛) - YouTube](https://www.youtube.com/watch?v=DP0zm-lC_0I)
