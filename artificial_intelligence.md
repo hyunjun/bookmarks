@@ -280,6 +280,7 @@ Artificial Intelligence
 * [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55) security
 * contextual AI [컨텍스츄얼 AI 경쟁이 온다 - YouTube](https://www.youtube.com/watch?v=m8IoKaEo5EQ)
 * vibe working [젠스파크(Genspark), 바이브 워킹-AI 기업의 새로운 일 방식: 4개월 만에 ARR 3,600만 달러를 달성한 비결 - AX 100배의 법칙](https://dxtalk.net/genspark-vibe-working-success/)
+* [V0.1.2 Caret Gpt5 지원, 205개 AI모델 상세 가격 정보](https://blog.naver.com/fstory97/223969880876)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -351,11 +352,14 @@ Artificial Intelligence
     * 경쟁 관계가 아닌 상호 보완적 관계
     * 범용 시스템에 추가적으로 결합 가능
     * AI 에이전트 생태계의 표준화 기반 제공
+* [Introducing ANS: DNS-Inspired Secure Discovery for AI Agents - InfoQ](https://www.infoq.com/news/2025/06/secure-agent-discovery-ans/)
+  * [Introducing ANS: DNS-Inspired Secure Discovery for AI Agents - InfoQ | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5380514/4936552)
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
+* [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
@@ -1556,6 +1560,8 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
+  * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
+    * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
@@ -1734,6 +1740,8 @@ Artificial Intelligence
   * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
   * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+* [crush: The glamourous AI coding agent for your favourite terminal 💘](https://github.com/charmbracelet/crush)
+  * [여친 있어야 쓸 자격 있는 Crush CLI - YouTube](https://www.youtube.com/watch?v=ZJ-J0WQxKPY)
 * [Cursor - The AI Code Editor](https://www.cursor.com/)
   * [How I code 159% Faster using AI (Cursor + Sonnet 3.5) - YouTube](https://www.youtube.com/watch?v=yk9lXobJ95E)
   * [AI Code Editor Cursor 배우기 - 1. 설치와 초기 설정 - YouTube](https://www.youtube.com/watch?v=tLPdZPW2VtU)
@@ -1835,6 +1843,7 @@ Artificial Intelligence
   * [웹 디자인 자동 생성 및 코딩/배포. UI/UX 혁신! Figma AI 활용 - YouTube](https://www.youtube.com/watch?v=lpfhZMeYWzM)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
+* [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [Replit – Build apps and sites with AI](https://replit.com/)
   * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
