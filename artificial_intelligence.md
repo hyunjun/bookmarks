@@ -109,7 +109,7 @@ Artificial Intelligence
   * [AGI에 대해 생각하는 법 | GeekNews](https://news.hada.io/topic?id=14976)
 * [M2M Day 90— How I used Artificial Intelligence to automate Tinder](https://towardsdatascience.com/m2m-day-89-how-i-used-artificial-intelligence-to-automate-tinder-ced91b947e53)
 * [What is the Role of an AI Software Engineer in a Data Science Team?](https://towardsdatascience.com/what-is-the-role-of-an-ai-software-engineer-in-a-data-science-team-eec987203ceb)
-* [My take on Google AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-google-ai-interview-question-with-interactive-code-part-1-db2e33a26f10)
+* [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1 | by Jae Duk Seo | TDS Archive | Medium](https://medium.com/data-science/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
 * [삼성 AI 포럼 - 2일차 리뷰](http://hyunjong-lee.github.io/review/2018/09/13/samsung_ai_forum_2nd_day.html)
 * [POSCO AI Chanllenge 과제 참여 연구노트](https://lovetoken.github.io/machinelearning/2018/09/19/posco_ai.html)
 * [Guide to Your Own AI App in 3 Easy Steps](https://www.youtube.com/watch?v=8hQBHZacVdw)
@@ -451,6 +451,10 @@ Artificial Intelligence
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
+# Interview
+* [AI를 활용한 개발과 AI Literacy를 보기 위한 코딩테스트를 도입](https://www.linkedin.com/posts/juwon-choi_%EC%95%84%EC%A7%81%EB%8F%84-%EA%B8%B0%EC%97%85%EC%9D%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-ai-%EC%82%AC%EC%9A%A9-%EA%B8%88%EC%A7%80%EB%9D%BC%EB%A9%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EC%8B%9C%EA%B8%B0-%EB%B0%94%EB%9E%8D%EB%8B%88%EB%8B%A4-activity-7361267614188298240-EzoP/)
+* [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
+
 # Library
 * [Model & API Provider Analysis | Artificial Analysis](https://artificialanalysis.ai/) 여러가지 기준으로 분석
 * [The Best Agent Framework Has Arrived (Coding Tutorial for PydanticAI w/ OpenAI, Ollama, AzureOpenAI) - YouTube](https://www.youtube.com/watch?v=xVe87QpNE80)
@@ -690,7 +694,6 @@ Artificial Intelligence
   * [저만 알고 싶은 수천개의 AI 기술 사이트🤗 코드존재 | 허깅페이스 HuggingFace - YouTube](https://www.youtube.com/watch?v=EtKpn-XRxHA)
   * [GitHub - jkf87/agents-course-kr: This repository contains the Hugging Face Agents Course for korean](https://github.com/jkf87/agents-course-kr)
   * [Welcome, Gradio 5](https://huggingface.co/blog/gradio-5)
-* [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [Karya | We solve data needs](https://karya.in/)
   * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
@@ -1431,6 +1434,8 @@ Artificial Intelligence
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
+* [surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
+  * [0$ 데이터 자산화의 좋은 시작점이 되어줄 Surya 오픈소스 라이브러리](https://www.linkedin.com/posts/h4y3j1n_upstage-activity-7361683055100485632-z-pJ/)
 * [TaskMaster AI](https://www.taskmaster.one/)
 * [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)
   * [claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
@@ -1464,6 +1469,8 @@ Artificial Intelligence
   * [LLM을 활용한 코딩 (2025년 여름) | GeekNews](https://news.hada.io/topic?id=22085)
 * [My AI Code Prep & Cline Workflow for Budget Coding/Debugging (Part 1)](https://wuu73.org/blog/aiguide1.html)
   * [AI를 무료 또는 저렴하게 활용하여 개발하는 방법 | GeekNews](https://news.hada.io/topic?id=22437)
+* [공유용 - 250814 나날이 발전하고픈 개발자를 위한 AI 활용법.pdf - Google Drive](https://drive.google.com/file/d/1h99VB5Ra5nn78ZpcXzvN8HyJbSmcX-Qn/view)
+  * [라인플러스 Tech Talk 나날이 발전하고픈 개발자를 위한 AI 활용법 - 후기 + 슬라이드 PDF](https://www.stdy.blog/how-to-use-ai-for-developers-who-want-to-develop-everyday/)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
