@@ -103,6 +103,7 @@ Finance
   * [GPL 채권 투자의 안전성, 장단점, 고려사항을 알아봅시다](https://rune-fehu.tistory.com/entry/GPL-%EC%B1%84%EA%B6%8C-%ED%88%AC%EC%9E%90%EC%9D%98-%EC%95%88%EC%A0%84%EC%84%B1-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [목돈굴리기 채권투자 "또 하나의월급 GPL채권.. : 네이버블로그](https://blog.naver.com/sunnny82/223125901983)
 * [홍장원의 불앤베어 월가 구루는 왜 한달만에 '증시 상승' 뷰 변경했나 - YouTube](https://www.youtube.com/watch?v=QsGKXxxwX5A) inflation adjusted s&p 500 line of death, 실러 지수(Shiller PE Ratio)
+* [피터 틸 미국 주식 포트폴리오 엔비디아 숏 전략과 이더리움금고 비트마인 이더질라 투자 이유 : 네이버 블로그](https://blog.naver.com/macdcross/223971700470)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
