@@ -1710,6 +1710,7 @@ Docker
 * [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
 * [Kubernetes: The Basics | DaemonSets - YouTube](https://www.youtube.com/watch?v=cdY67JqGbIc)
+* [쿠버네티스 데몬셋(DaemonSet)에 대한 핸즈온 데모 설명 | 데몬셋 배포, 예약 및 관리 - YouTube](https://www.youtube.com/watch?v=NIQnF2Gv4bM)
 * [쿠버네티스 실습 랩을 Vagrant가 아닌 이미지로 바로 구성 설치하는 법 - YouTube](https://www.youtube.com/watch?v=KxhSWf0ObEU)
 * [K8s Session 1 : Kubernetes for beginners #Devops #CICD #Kubernetes #Docker - YouTube](https://www.youtube.com/watch?v=aWtdxQBk73w)
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
