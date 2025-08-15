@@ -3465,6 +3465,7 @@ Javascript
   * [자바스크립트 마라톤 및 노드 교육 소개 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1092822)
   * [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
     * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
+* [Node.js의 동시성 문제 | VERYCOSY PLACE](https://www.verycosy.net/posts/2025/07/nodejs-concurrency-problem)
 * [Node.js Architecture Pitfalls to Avoid | AppSignal Blog](https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html)
 * [Deep Dive into Node.js with James Snell - This Dot Labs](https://www.thisdot.co/blog/deep-dive-into-node-js-with-james-snell)
   * [번역 James Snell과 함께하는 Node.js 심층 분석](https://velog.io/@surim014/deep-dive-into-node-js-with-james-snell)
