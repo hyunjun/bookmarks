@@ -5433,6 +5433,7 @@ Python
   * [Polars로 데이터 그룹화와 집계 📊 - 자주쓰는 명령어로 배우는 Polars #4](https://sjquant.tistory.com/109)
   * [데이터 결합과 재구조화 🔄 - 자주 쓰는 명령어로 배우는 Polars #5](https://sjquant.tistory.com/110)
   * [성능 최적화 및 SQL 활용 🚀 - 자주 쓰는 명령어로 배우는 Polars #6](https://sjquant.tistory.com/113)
+  * [간단히 정리한 폴라스(Polars) 사용법](https://webnautes.kr/gandanhi-jeongrihan-polraseu-polars-sayongbeob/)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
