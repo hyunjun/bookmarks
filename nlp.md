@@ -820,6 +820,7 @@ NLP
 * Chatbot Arena [Chat with Open Large Language Models](https://chat.lmsys.org/)
   * [AI 커뮤니티가 들썩... 지금 바로 써보세요 | GPT4 성능 갖는 미스터리 모델 gpt2-chatbot이 OpenAI에서 만든 Q* 적용 AGI 테스트 모델일까요? - YouTube](https://www.youtube.com/watch?v=FxlIS2KL-Lw)
 * [ChatGPT](https://chat.openai.com/)
+  * [OpenAI Developers](https://developers.openai.com/)
   * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
     * OpenAI에서 대화형으로 질문을 하면 답변을 받을 수 있는 ChatGPT 공개
     * 한국어를 포함해서 자연어로 질문을 하면 ChatGPT가 답변
@@ -3357,6 +3358,7 @@ NLP
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
 * lmarena.ai [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
+  * [이게 무료라고? 하루 만에 전 세계 뒤집은 나노 바나나 사용 방법 - YouTube](https://www.youtube.com/watch?v=ebfajXrhRkw)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
