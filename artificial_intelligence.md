@@ -179,6 +179,7 @@ Artificial Intelligence
 * [내가 AI 업계를 떠난 이유 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/707/)
 * [Open API를 이용한 고속 논문 분석 | Pega Devlog](https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/)
   * [Open API를 이용한 고속 논문 분석 | GeekNews](https://news.hada.io/topic?id=6895)
+* [AI논문 읽기 가이드](https://ffighting.net/uncategorized-ko/ai%eb%85%bc%eb%ac%b8-%ec%9d%bd%ea%b8%b0-%ea%b0%80%ec%9d%b4%eb%93%9c/)
 * [2022 AI페스티벌 / 실용 인공지능 학술대회 공개세션 - YouTube](https://www.youtube.com/watch?v=js4Lh2RJ5YM)
 * [우리는 왜 인공지능을 공부해야 하는가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48070)
 * [이제 사람 없이도 AI가 학습할 수 있는 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022072915407721178)
@@ -1563,6 +1564,8 @@ Artificial Intelligence
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+  * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=rag-engine-for-deep-document-understanding)
+    * [RAG engine for deep document understanding](https://aiengineering.beehiiv.com/p/rag-engine-for-deep-document-understanding)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
