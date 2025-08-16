@@ -1543,6 +1543,9 @@ Artificial Intelligence
   * [Claude Code 심화 활용법 - SubAgent & Super Claude](https://tech.hyperithm.com/claude_code_guides_2)
   * [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
     * [Claude Code is All You Need | GeekNews](https://news.hada.io/topic?id=22465)
+  * [Claude Code often spends more on irrelevant input than useful output — by a long shot](https://www.linkedin.com/posts/aparnadhinakaran_claude-code-often-spends-more-on-irrelevant-activity-7355755480805220352-Yskr/)
+    * [Arize AI에서 Claude Code의 동작을 분석했습니다](https://www.arizekorea.com/insights/post/arize-ai-analyzed-claude-code-behavior-CMvgget565VQLVv)
+      * 주목해야 할 지표: 컨텍스트 희석 = 불필요한 토큰 ÷ 전체 토큰
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
