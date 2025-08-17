@@ -3530,6 +3530,25 @@ Business
         * 인턴십에 발견습관을 구현하는 방법에 대해 논의. 산업이 이 방향으로 움직이기 시작했으며, 일부 팀이 이미 이런 방식으로 작업 중
         * 조직이 이 방식으로 작동하지 않을 때 개인이 이 습관을 채택할 수 있는 방법 소개. 작은 변화로 습관을 채택하라고 장려
         * 대부분의 스타트업이 고객이 원하는 제품을 찾지 못하고, 비용 효율성을 무시하는 문제 지적. 비즈니스적으로 실행가능한 제품을 발견하는 중요성 강조
+* [프로덕트 성장 전략 1: 타깃 오디언스 정의의 흔한 오류 | 매쉬업벤처스](https://www.mashupventures.co/contents/target-audience-mistakes-and-how-to-do-user-interview-for-growth)
+  * 제품 개발 시 자주 하는 실수와 타겟에 대한 이해를 높이는 방법 이야기
+  * 뛰어난 제품 기능보다 중요한 것은 타겟 고객이 원하는 가치 제공
+  * 타겟을 이해하는 것이 성공적인 제품 개발에 필수적이라고 주장
+  * 타겟을 구체적으로 정의하지 않고 기능을 우선시하는 것이 프로덕트 개발에서 흔히 하는 실수
+  * 타겟을 이해하기 위해 장기적인 사고와 인지적 공감을 갖는 것이 중요, 사용자 인터뷰를 진행하는 것이 좋음
+* [시장수요가 무조건 존재하는 프로덕트를 만드는 방법 · 사실, 프로덕트 기획 전에 이미 게임은 끝났다 · 대표가 풀타임 PM을 해야 하는 이유](https://www.linkedin.com/posts/shndon0220_%EC%8B%9C%EC%9E%A5%EC%88%98%EC%9A%94%EA%B0%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%82%AC%EC%8B%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-activity-7257613344080044032-Ye3h/) 고객을 탐구하는 문화를 팀 전반에 심어라
+* [고객의 Pain Point는 직접 물어보면 잘 안 나온다](https://www.linkedin.com/posts/shndon0220_%EA%B3%A0%EA%B0%9D%EC%9D%98-pain-point%EB%8A%94-%EC%A7%81%EC%A0%91-%EB%AC%BC%EC%96%B4%EB%B3%B4%EB%A9%B4-%EC%9E%98-%EC%95%88-%EB%82%98%EC%98%A8%EB%8B%A4-1-%EA%B3%A0%EA%B0%9D%EC%9D%80-activity-7362486223484956673-_Blk/)
+  * 1️⃣ 고객은 솔직하지 않다
+  * 2️⃣ 그래서 인터뷰에선 분위기가 매우 중요
+  * 3️⃣ 인터뷰 시 팁 8가지
+    * 1. 질문보다 대화
+    * 2. “불편한 점이 뭔가요?” 대신 “어제 하루 어떻게 일하셨나요?” 같은 맥락 질문, Open-ended 질문
+    * 3. 숫자를 캐라. “이 일에 하루 몇 시간을 쓰세요?”, “ABC 제품을 하루에 보통 얼마나 자주 접속하세요?” → 정량화된 Pain이 더 객관적
+    * 4. 사례를 들어 달라 부탁
+    * 5. 침묵을 두려워하지 마라
+    * 6. 공감하지 말고, 정리하지 말고 더 파고들어라
+    * 7. 아이디어는 숨겨라
+    * 8. 끝나고 바로 기록
 * [13화 성공한 서비스 뒤에는 가치 사다리가 있다?](https://brunch.co.kr/@cliche-cliche/219)
 * [AI 자체는 별로 중요하지 않은 것 같아요](https://eopla.net/magazines/17493)
 * [AI 네이티브 제품 프라이싱 하는 방법 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%A0%9C%ED%92%88-%ED%94%84%EB%9D%BC%EC%9D%B4%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
@@ -3543,12 +3562,6 @@ Business
   * [3-1. 돈을 어디에, 어떻게, 얼마나 써야할까? 1부](https://brunch.co.kr/@yeonnnh/4)
   * [3-2.돈을 어디에, 어떻게, 얼마나 써야 할까? 2부](https://brunch.co.kr/@yeonnnh/5)
 * ['PC지원 종료' 무신사 사례로 본 모바일 VS PC 흥미로운 통계 모음 | Disquiet\*](https://disquiet.io/@hatchhiker_marketing/makerlog/pc%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C-%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-vs-pc-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%ED%86%B5%EA%B3%84-%EB%AA%A8%EC%9D%8C)
-* [프로덕트 성장 전략 1: 타깃 오디언스 정의의 흔한 오류 | 매쉬업벤처스](https://www.mashupventures.co/contents/target-audience-mistakes-and-how-to-do-user-interview-for-growth)
-  * 제품 개발 시 자주 하는 실수와 타겟에 대한 이해를 높이는 방법 이야기
-  * 뛰어난 제품 기능보다 중요한 것은 타겟 고객이 원하는 가치 제공
-  * 타겟을 이해하는 것이 성공적인 제품 개발에 필수적이라고 주장
-  * 타겟을 구체적으로 정의하지 않고 기능을 우선시하는 것이 프로덕트 개발에서 흔히 하는 실수
-  * 타겟을 이해하기 위해 장기적인 사고와 인지적 공감을 갖는 것이 중요, 사용자 인터뷰를 진행하는 것이 좋음
 * [넷플릭스 게임의 두 번째 시즌: 도전, 변화, 그리고 앞으로의 길 | GeekNews](https://news.hada.io/topic?id=16059)
 * [앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@yongjinjinipln/156)
   * 구체적인 아이디어가 장점 < 잘못된 편향의 리스가 더 크다고 생각한다고 함
@@ -3557,7 +3570,6 @@ Business
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 1편. BX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-1/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 2편. UX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-2/)
 * [알라미에서 DAU를 분석하는 방법. Active User를 늘리고 싶다면, 이것부터 체크하세요! | by Leo Yang | DelightRoom | Sep, 2024 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8%EC%97%90%EC%84%9C-dau%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e8dee9dd7240)
-* [시장수요가 무조건 존재하는 프로덕트를 만드는 방법 · 사실, 프로덕트 기획 전에 이미 게임은 끝났다 · 대표가 풀타임 PM을 해야 하는 이유](https://www.linkedin.com/posts/shndon0220_%EC%8B%9C%EC%9E%A5%EC%88%98%EC%9A%94%EA%B0%80-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%82%AC%EC%8B%A4-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-activity-7257613344080044032-Ye3h/) 고객을 탐구하는 문화를 팀 전반에 심어라
 * [안정현 - 진짜 갈라파고스는 어디인가 - 윤석열 이후 한국을 생각하다 헌법재판소가 윤석열 전 대통령을 최종적으로... | Facebook](https://www.facebook.com/jhahn912/posts/pfbid034mQwbKoQnDiQMW5VwM8TpgPAo8UrbzMbUsfKM7YNo42LvdP72hamYDGiBwCUmWYMl)
   * 중요한 것은 그 기술이 누구와 연결되고, 누구에게 열려 있으며, 어떻게 확산될 수 있는가다. 관광객이 체감하는 ‘편리함’은 단순한 서비스 품질의 문제가 아니다. 그것은 한국이라는 국가 전체가 다른 전세계 문명과 어떻게 호흡하고 있는가를 상징적으로 보여주는 지표다
 * [스타트업 제품 개발 계획 수립 가이드 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS7002878448)
