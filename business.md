@@ -172,6 +172,7 @@ Business
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [고객들은 'ChatGPT 스타일'을 원하는 게 아니라 'ChatGPT 편의성'을 원하는](https://www.linkedin.com/posts/dohwan-kim-b76a38299_%EC%9A%B0%EB%A6%AC%EB%8F%84-chatgpt-%EA%B0%99%EC%9D%80-%EA%B1%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94-%EA%B3%A0%EA%B0%9D%EC%82%AC-%EB%AF%B8%ED%8C%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-activity-7343420164517875713-Lp4a/)
+* [CS 문제를 수년간 다루다 보니, 이게 정말 근본적인 문제](https://www.linkedin.com/posts/red-siwon-choi-33b43a24b_cs-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EC%88%98%EB%85%84%EA%B0%84-%EB%8B%A4%EB%A3%A8%EB%8B%A4-%EB%B3%B4%EB%8B%88-%EC%9D%B4%EA%B2%8C-%EC%A0%95%EB%A7%90-%EA%B7%BC%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8A%94-%EA%B1%B8-%EA%B9%A8%EB%8B%AC%EC%95%98%EC%96%B4%EC%9A%94-activity-7361284452620083201-jyWK/) 고객 상담
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장에서 공감이 필요한 이유](https://www.traw.io/blog/why-you-need-empathy-at-work)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
@@ -4580,7 +4581,7 @@ Business
 * [UX리서치 조직에서 리옵매란?](https://toss.tech/article/what-is-research-ops)
 * [디자인 조직이 성장할수록 필요한 일. 글. 황다원(Shasha) / UX Designer | by 여기어때 UX Center | Jul, 2024 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A1%B0%EC%A7%81%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%A0%EC%88%98%EB%A1%9D-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%BC-365e7a26c238) design ops
 * [당근이 '매너온도'를 포기한 이유와 경사도 실험](https://www.linkedin.com/posts/redbusbagman_rwargurseswmrqzrfm-ux-reesoktbs-ugcPost-7222178808160739331-fFmL/)
-* [레거시 제품을 버리고 CS 효율 높이기](https://toss.tech/article/rebuild-legacy-cs-products)
+* [레거시 제품을 버리고 CS 효율 높이기](https://toss.tech/article/rebuild-legacy-cs-products) 고객 상담
 * [비효율이 있는 곳엔 플랫폼 디자이너가 있다](https://toss.tech/article/platform-designer-work)
 * [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)
   * [토스트 알림은 나쁜 UX임 | GeekNews](https://news.hada.io/topic?id=16391)
