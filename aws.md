@@ -763,6 +763,8 @@ AWS
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/?trk=e61dee65-4ce8-4738-84db-75305c9cd4fe&sc_channel=el)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
+  * [agentcore: It shows how to use AgentCore for deploying LangGraph and Strands agents with MCP.](https://github.com/kyopark2014/agentcore)
+    * [OpenAI의 OSS와 MCP를 이용해 Agent를 구현](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-aws-openai-ugcPost-7362470742560555008-OBsk/)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
     * [MCP를 지원하는 Agent를 서버리스인 AgentCore Runtime에 배포](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-strands-activity-7353125091678801920-v-Kq/)
   * [agentcore/browser.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/browser.md)
@@ -2555,6 +2557,8 @@ AWS
   * [Amazon Q Developer CLI에서 MCP 활용하기 - YouTube](https://www.youtube.com/watch?v=HwAeHhbZYlQ)
   * [Overcome development disarray with Amazon Q Developer CLI custom agents | AWS DevOps & Developer Productivity Blog](https://aws.amazon.com/ko/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/)
     * [AWSKRUG- AWS한국사용자모임 | Amazon Q Developer CLI Custom Agents 기능이 업데이트 됐습니다 | Facebook](https://www.facebook.com/groups/awskrug/posts/9730563570378913/)
+  * [Amazon Q Developer 를 이용한 엑심베이의 JDK 자동화 업그레이드 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/q-developer-eximbay-journey/)
+    * [엑심베이의 JDK 1.8 → 17 업그레이드 여정](https://www.linkedin.com/posts/saintkim4_amazon-q-developer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%97%91%EC%8B%AC%EB%B2%A0%EC%9D%B4%EC%9D%98-jdk-%EC%9E%90%EB%8F%99%ED%99%94-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-activity-7360573704432504832-Q6X3/)
 * [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
 
 # R
