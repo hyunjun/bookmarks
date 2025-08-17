@@ -3148,6 +3148,7 @@ App
   * [WSL sudo 사용 시 Windows Hello 사용하기](https://velog.io/@composite/WSL-sudo-%EC%82%AC%EC%9A%A9-%EC%8B%9C-Windows-Hello-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [WSL 2 + Kali : The EASY Way - Pentestmag](https://pentestmag.com/wsl2kali-the-easy-way/)
   * [WSL2를 설치하여 Ubuntu 사용하는 방법](https://webnautes.com/wsl2reul-seolcihayeo-ubuntu-sayonghaneun-bangbeob/)
+  * [Windows에 WSL 및 Ubuntu 설치하는 방법](https://webnautes.kr/windowse-wsl-mic-ubuntu-seolcihaneun-bangbeob/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
