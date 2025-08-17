@@ -282,6 +282,11 @@ Artificial Intelligence
 * contextual AI [컨텍스츄얼 AI 경쟁이 온다 - YouTube](https://www.youtube.com/watch?v=m8IoKaEo5EQ)
 * vibe working [젠스파크(Genspark), 바이브 워킹-AI 기업의 새로운 일 방식: 4개월 만에 ARR 3,600만 달러를 달성한 비결 - AX 100배의 법칙](https://dxtalk.net/genspark-vibe-working-success/)
 * [V0.1.2 Caret Gpt5 지원, 205개 AI모델 상세 가격 정보](https://blog.naver.com/fstory97/223969880876)
+* [Measuring the impact of AI on software engineering – with Laura Tacho](https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software)
+  * [데이터는 과장 광고를 이깁니다(Data beats hype)](https://www.linkedin.com/posts/fupfin_measuring-the-impact-of-ai-on-software-engineering-activity-7362475426436276226-Q5Cf/)
+    * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
+* [검색으로 먹고 살던 시대는 끝났습니다..(제로 클릭 시대)](https://www.linkedin.com/posts/chatdaeri_%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EB%A8%B9%EA%B3%A0-%EC%82%B4%EB%8D%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4%EC%A0%9C%EB%A1%9C-%ED%81%B4%EB%A6%AD-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%EB%8A%94-%EC%95%84%EC%A7%81-activity-7358437440832880640-rS8n/) AIO AI Optimization
+  * [챗GPT 검색에 내 콘텐츠가 추천되게 하는 법은?](https://blog.chatdaeri.com/how-to-rank-1-in-chatgpt-and-other-ai-search/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1568,7 +1573,7 @@ Artificial Intelligence
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
-  * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=rag-engine-for-deep-document-understanding)
+  * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context)
     * [RAG engine for deep document understanding](https://aiengineering.beehiiv.com/p/rag-engine-for-deep-document-understanding)
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
