@@ -3058,6 +3058,7 @@ NLP
     * [LangGraph - Multi-Agent Collaboration(다중 협업 에이전트) 로 복잡한 테스크를 수행하는 LLM 어플리케이션 제작 - 테디노트](https://www.teddynote.com/langgraph/langgraph-multi-agent-collaboration/)
     * [#LangChain 이 만든 #LangGraph 출시! LangGraph 의 멀티 에이전트 콜라보레이션 찍먹하기 - YouTube](https://www.youtube.com/watch?v=G8jrAA2bPnA)
     * [LangGraph 발표자료 공유 드립니다](https://aifactory.space/task/4239/discussion/1587)
+    * [🔥 #LangGraph 개념 완전 정복 몰아보기(3시간) 🔥 - YouTube](https://www.youtube.com/watch?v=W_uwR_yx4-c)
     * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. - YouTube](https://www.youtube.com/watch?v=4JdzuB702wI)
       * [VidiGo 랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로](https://vidigo.ai/share/summary/dc9a7e8940b5)
       * [랭체인밋업 Q2 발표 제 RAG 경험은 이제 #LangGraph 경험하기 전과 후로 나뉩니다. | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/852042)
