@@ -4382,6 +4382,10 @@ Business
 * [아무도 없던 플랫폼, 비핸스는 어떻게 '100명'으로 판을 깔고 4천만 유저를 모았을까요?](https://lcreator.beehiiv.com/p/behance)
 * [Startups and the Art of Worldbuilding - by Paul O'Brien](https://paulobrien.substack.com/p/startups-and-the-art-of-worldbuilding)
   * [🎥 할리우드가 가르쳐준 스타트업 성공법 - by won dae ro](https://substack.com/@wondaero393578/p-171195864)
+* [늦게 죽는 스타트업이 가장 나쁘다](https://www.linkedin.com/posts/%EC%97%B0%EC%A4%80%EC%98%81_%EB%8A%A6%EA%B2%8C-%EC%A3%BD%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EB%82%98%EC%81%98%EB%8B%A4-1-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90-%EB%B0%9B%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-activity-7362694876381003777-RF7k/)
+  * [이코노미스트 - 실리콘밸리 스타트업은 왜 그렇게 빨리 실패하는가 실리콘밸리의 사람들](https://economist.co.kr/article/view/ecn202507290029)
+    * 실리콘밸리의 성공 비결은 '실패를 두려워하지 않는 문화'가 아니라 '실패를 전략적으로 설계하는 시스템'
+    * 마크 저커버그 "가장 큰 리스크는 리스크를 취하지 않는 것이다."
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
