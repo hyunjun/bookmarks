@@ -2168,6 +2168,7 @@ NLP
 * [Chevy Chatbot Misfire: A Case Study in LLM Guardrails and Best Practices | by Branden Mcintyre | Dec, 2023 | Medium](https://medium.com/@branden.mcintyre/chevy-chatbot-misfire-a-case-study-in-llm-guardrails-and-best-practices-7ae319088e94)
 * [Guardrails for LLMs](https://arize.com/the-complete-guide-to-jailbreaking-ai-models/guardrails-for-llms/)
   * [LLM 보안을 위한 가드레일 설계와 구현 전략 (샘플코드 포함)](https://www.arizekorea.com/insights/post/guardrails-for-llms-0h7djQwOTxhVKCc)
+* [사내 데이터에 대한 LLM 연결, 보안 없이는 불가능합니다](https://www.linkedin.com/posts/%ED%9D%AC%EC%B2%A0-%EC%9E%84-aa1223240_%EC%82%AC%EB%82%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-llm-%EC%97%B0%EA%B2%B0-%EB%B3%B4%EC%95%88-%EC%97%86%EC%9D%B4%EB%8A%94-%EB%B6%88%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%A7%8E%EC%9D%80-%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%B4-activity-7362836678366912513-kqCG/)
 * [Debugging LLMs in prod with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=Yq2DSZswPxI)
 * [SK TECH SUMMIT 2023 AI : LLM - YouTube](https://www.youtube.com/playlist?list=PLwZwCc2PHzL89Sxf9KZE_q03wlqpm8IHu)
 * [Measuring Bias, Toxicity, and Truthfulness in LLMs With Python | Real Python Podcast #188 - YouTube](https://www.youtube.com/watch?v=bloZciD8oCE)
