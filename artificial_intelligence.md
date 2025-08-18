@@ -826,6 +826,8 @@ Artificial Intelligence
     * [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥 - YouTube](https://www.youtube.com/watch?v=ISrYHGg2C2c)
   * [mcp: It shows how to use model-context-protocol](https://github.com/kyopark2014/mcp)
   * [MCP for Beginners - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d)
+  * [MCP Context Forge - Model Context Protocol Gateway](https://ibm.github.io/mcp-context-forge/)
+    * [mcp-context-forge: A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP)](https://github.com/IBM/mcp-context-forge)
   * [mcp-gateway: MCP Gateway and Registry](https://github.com/aarora79/mcp-gateway)
     * [AI Agent Capabilities: Dynamic Tool Discovery & Invocation](https://www.linkedin.com/posts/amit-arora-539120a_mcp-gateway-registry-dynamic-tools-activity-7330040487757639680-h-L8/)
     * [MCP Gateway Registry dynamic tools - YouTube](https://www.youtube.com/watch?v=ZXU8f6NwgE4)
