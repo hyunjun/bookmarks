@@ -1170,6 +1170,7 @@ Business
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [(PDF) Who Is Leaving and Why? The Dynamics of High-Quality Human Capital Outflows](https://www.researchgate.net/publication/367566724_Who_Is_Leaving_and_Why_The_Dynamics_of_High-Quality_Human_Capital_Outflows)
   * [고성과자와 저성과자의 퇴사가 이후 조직에 어떤 영향을 주는지](https://www.linkedin.com/posts/sangjin-ahn-282374166_pdf-who-is-leaving-and-why-the-dynamics-activity-7341234514012028931-mDuD/)
+* [퇴사자를 보내는 회사의 자세 : 네이버 블로그](https://blog.naver.com/hrinsightsns/223735189630)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -4379,6 +4380,8 @@ Business
   * 새로운 피쳐 Shipping이 주 단위로 이루어질 정도로 빠른 iteration
   * 같이 일하는 팀원들과 Daily call을 합니다. 진행상황과 아이디어를 공유하면서 방향을 빠르게 조정할 수 있고 remote setup의 도덕적 해이를 방지
 * [아무도 없던 플랫폼, 비핸스는 어떻게 '100명'으로 판을 깔고 4천만 유저를 모았을까요?](https://lcreator.beehiiv.com/p/behance)
+* [Startups and the Art of Worldbuilding - by Paul O'Brien](https://paulobrien.substack.com/p/startups-and-the-art-of-worldbuilding)
+  * [🎥 할리우드가 가르쳐준 스타트업 성공법 - by won dae ro](https://substack.com/@wondaero393578/p-171195864)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
