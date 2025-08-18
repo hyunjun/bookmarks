@@ -3798,6 +3798,7 @@ NLP
 * [Hierarchical Reranking Unleashed: A Step-by-Step Implementation of Enhanced RAG | by M K Pavan Kumar | Jul, 2025 | Medium](https://medium.com/@manthapavankumar11/hierarchical-reranking-unleashed-a-step-by-step-implementation-of-enhanced-rag-81829353d239)
   * [Improving RAG Accuracy with Hierarchical Reranking](https://www.linkedin.com/posts/qdrant_improving-rag-accuracy-with-hierarchical-activity-7357730714043199488-iyGb/)
 * [Stop saying "Just build a RAG system"!](https://www.linkedin.com/posts/kameshwara-pavan-kumar-mantha-91678b21_llm-genai-rag-activity-7355794248350253057-N6_j/)
+* [RAG(Retrieval-Augmented Generation)](https://www.notion.so/RAG-Retrieval-Augmented-Generation-245e323ea2b5807bb474f713f5996f99)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
