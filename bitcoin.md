@@ -97,6 +97,7 @@ Bitcoin
 * [The Open Problems of Onchain Games](https://www.paradigm.xyz/2023/08/onchain-games)
   * [온체인 게임의 미해결 과제 (번역)](https://snack.planetarium.dev/kor/2023/08/paradigm-onchain-game-kr-translation/)
 * [Securing DeFi: How Protocols are Managing Risks - YouTube](https://www.youtube.com/watch?v=YWrCamFKgLU)
+* [비트코인이 인류 역사상 최초로 해결한 문제는 바로 '탈중앙화된 환경에서의 이중지불(Double-Spending) 문제'](https://www.linkedin.com/posts/%EC%84%9D%EB%AF%BC-%EC%84%9C-82045b19a_%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%9D%B4-%EC%A7%84%EC%A7%9C-%ED%95%B4%EA%B2%B0%ED%95%9C-%EB%8B%A8-%ED%95%98%EB%82%98%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%8F%84-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%97%90-activity-7362966313251598336-GygL/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
