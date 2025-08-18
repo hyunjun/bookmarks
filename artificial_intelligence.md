@@ -360,6 +360,7 @@ Artificial Intelligence
     * AI 에이전트 생태계의 표준화 기반 제공
 * [Introducing ANS: DNS-Inspired Secure Discovery for AI Agents - InfoQ](https://www.infoq.com/news/2025/06/secure-agent-discovery-ans/)
   * [Introducing ANS: DNS-Inspired Secure Discovery for AI Agents - InfoQ | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5380514/4936552)
+* [Agentic AI의 기술적 해부 (RAG, A2A, MCP, MAS,...) - YouTube](https://www.youtube.com/watch?v=aDukCWkPbeQ)
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
