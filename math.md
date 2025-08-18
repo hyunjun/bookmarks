@@ -295,6 +295,7 @@ Math
 * [강화학습 기본기 덕질1 - Markov Decision Process](https://www.youtube.com/watch?v=slNB5SdDNFI)
 * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
 * [Reinforcement Learning 5: Markov Property and State Transition Matrix - YouTube](https://www.youtube.com/watch?v=IYH3WNS-F94)
+* [토스에서 직접 써먹었던, 마르코프 체인 모델링 이야기](https://www.linkedin.com/posts/louieha_%ED%86%A0%EC%8A%A4%EC%97%90%EC%84%9C-%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%A8%B9%EC%97%88%EB%8D%98-%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84-%EC%B2%B4%EC%9D%B8-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B5%9C%EA%B7%BC-%ED%86%A0%EC%8A%A4%EC%9D%98-ugcPost-7361775570981986305-fnys/)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
