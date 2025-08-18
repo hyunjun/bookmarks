@@ -649,6 +649,8 @@ Artificial Intelligence
   * [**버튼 하나로 AI 가 코딩한 코드를 자동으로 실행하고, 구글 검색도 하고, 생각도 깊게 하게 만들기 - 개발자라면 알아야 하는 AI API의 숨겨진 기능!! - YouTube**](https://www.youtube.com/watch?v=qQUwUZREoTQ)
     * [잘알려지지 않은 Gemini의 유용한 기능-#1 Thinking & Context URL](https://bcho.tistory.com/1478)
     * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
+  * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind - YouTube](https://www.youtube.com/watch?v=8EQo4J2BWKw)
+    * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5424932/5003073)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
   * [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
