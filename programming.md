@@ -383,6 +383,7 @@ Programming
   * SRE는 위기관리를 즐기고 장애 문제 해결을 좋아하는 경향
     * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
 * [한 발자국 내딛기 - Google Slides](https://docs.google.com/presentation/d/1jUBl_kDwPIa_L5ZTgVShPNjUo0mEKgQmFgLowGX-wTk/edit#slide=id.g26b4e388bdd_0_97) platform engineering
+* [Platform Engineering vs ‘클래식’ DevOps](https://www.linkedin.com/posts/victor-maltsev_platformengineering-devops-kubernetes-activity-7363497554488999938-jgr9/) “속도는 도구에서 나오지 않는다. 합의된 방식에서 나온다.”
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
