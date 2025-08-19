@@ -2795,6 +2795,7 @@ NLP
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LangChain](https://github.com/langchain-ai) LLM을 사용하여 애플리케이션을 만들기 위한 프레임워크로 설계. 쉽고 간편하게 애플리케이션을 만드는 게 목표
   * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/langchain-ai/langchain)
+  * [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph/)
   * [**<랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 - WikiDocs**](https://wikidocs.net/book/14314)
     * [langchain-kr/17-LangGraph at main · teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr/tree/main/17-LangGraph)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
