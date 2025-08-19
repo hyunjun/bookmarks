@@ -365,6 +365,7 @@ Artificial Intelligence
 * [Google just dropped 5 new AI Agents for Developers](https://www.linkedin.com/posts/that-aum_google-just-dropped-5-new-ai-agents-for-developers-activity-7362325005361209344-ov5F/)
 * [I have built and sold AI Agents to 100+ companies](https://www.linkedin.com/posts/that-aum_i-have-built-and-sold-ai-agents-to-100-companies-activity-7361364379407122433-Op9w/)
 * [Small Language Models are the Future of Agentic AI](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs/)
+* [Agentic PMF: 단순히 기존 업무를 자동화하는 것을 넘어, AI 에이전트를 팀의 핵심 멤버(주니어 리서처, 개발자, 분석가)처럼 활용하여 PMF(Product-Market Fit) 또는 Re-PMF를 찾는 과정의 가설-검증 사이클을 극단적으로 단축시키는 접근법](https://www.linkedin.com/posts/jungsungyoung_agentic-pmf-%EB%8B%A8%EC%88%9C%ED%9E%88-%EA%B8%B0%EC%A1%B4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%84%98%EC%96%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7355593283143700480-rAvj/)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
