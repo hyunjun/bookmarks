@@ -192,6 +192,7 @@ Google Cloud Platform GCP
 * [GCP IAP를 통한 어플리케이션(Web) 접근관리방안 feat. IAP + Cloud Run + Cloud Storage](https://seonggi.kr/274)
 * [Slack 기반 GCE Managed Instance Group 오토스케일링 자동화 구축 가이드 (Pub/Sub 연동, 상태 알림 포함)](https://seonggi.kr/278)
   * [Slack을 활용한 GCP Managed Instance Group(MIG) 오토스케일링 자동화 구축 후기](https://www.linkedin.com/posts/seonggi_slack-%EA%B8%B0%EB%B0%98-gce-managed-instance-group-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-activity-7359817999156957184-IswY/)
+* [Google Calendar 기반 GCE(VM) Managed Instance Group 오토스케일 자동화](https://seonggi.kr/280)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
