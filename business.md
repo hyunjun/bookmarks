@@ -3395,6 +3395,7 @@ Business
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 * [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
 * [B2B 비즈니스의 핵심은 기술이 아닙니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/b2b20231128)
+* [대부분의 B2B SaaS 창업자가 망하는 이유](https://www.linkedin.com/posts/shndon0220_%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98-b2b-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EB%A7%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AA%BB-%EC%A7%9C%EC%84%9C%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-activity-7363553779088052224-iMII/)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [가볍게 읽는 Product Analysis | Product Analytics Playground](https://playinpap.github.io/basic-product-analysis/)
 * [Product Analytics 201 | Product Analytics Playground](https://playinpap.github.io/product-analytics-201/)
