@@ -787,6 +787,8 @@ Artificial Intelligence
   * [Let's Learn MCP: JavaScript (한국어) - YouTube](https://www.youtube.com/watch?v=zo9S2RNC1O8)
     * [Let's Learn MCP: JavaScript (한국어) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5084088/4475199)
   * [12 Frameworks to Build MCP AI Agents](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7356711580262113281-UsE2/)
+  * [초보자를 위한 전체 과정(1-11과) MCP - YouTube](https://www.youtube.com/watch?v=VfZlglOWWZw)
+    * [Full Course (Lessons 1-11) MCP for Beginners | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5437682/5022646)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
