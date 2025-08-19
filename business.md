@@ -2835,6 +2835,8 @@ Business
 * [적절한 질문을 하는 게 큰 가치를 만들어 낼 수 있다](https://www.linkedin.com/posts/spike-jee-480225a_%EB%82%B4%EA%B0%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%98%EA%B2%8C-%EB%90%98%EA%B3%A0%EB%B6%80%ED%84%B0%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%98%EB%8A%94-%EB%A7%90-%EC%A4%91%EC%97%90-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%A7%88%EB%AC%B8-%EC%95%84%EB%8B%8C-activity-7350134026004819968-nOlf/)
 * [The Best Companies Are Dictatorships - by Nikunj Kothari](https://writing.nikunjk.com/p/the-best-companies-are-dictatorships)
   * [최고의 회사는 독재처럼 움직인다 | 하베스트](https://harvest.pub/shared/90270a61-d07e-40dd-86fb-aa0c32fbaadc)
+* [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) - YouTube](https://www.youtube.com/watch?v=88alBtMMbeg)
+  * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5436050/5020100)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
