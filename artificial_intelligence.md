@@ -362,6 +362,7 @@ Artificial Intelligence
   * [Introducing ANS: DNS-Inspired Secure Discovery for AI Agents - InfoQ | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5380514/4936552)
 * [Agentic AI의 기술적 해부 (RAG, A2A, MCP, MAS,...) - YouTube](https://www.youtube.com/watch?v=aDukCWkPbeQ)
 * [The Agent Factory - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
+* [Small Language Models are the Future of Agentic AI](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs/)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
