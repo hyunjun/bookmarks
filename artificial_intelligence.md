@@ -830,6 +830,7 @@ Artificial Intelligence
     * [mcp server 만들기 - 2편 완결 (MCP 마켓플레이스에 등록) 개발일기 - YouTube](https://www.youtube.com/watch?v=Gr7VN1zmXFk)
   * [langgraph-mcp-agents: LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing various data sources and APIs through MCP tools](https://github.com/teddynote-lab/langgraph-mcp-agents/)
     * [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥 - YouTube](https://www.youtube.com/watch?v=ISrYHGg2C2c)
+  * [lets-learn-mcp-python: MCP Python Tutorial](https://github.com/microsoft/lets-learn-mcp-python)
   * [mcp: It shows how to use model-context-protocol](https://github.com/kyopark2014/mcp)
   * [MCP for Beginners - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjYfVUpGl_-ai7D6FRBjV-d)
   * [MCP Context Forge - Model Context Protocol Gateway](https://ibm.github.io/mcp-context-forge/)
