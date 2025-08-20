@@ -1768,6 +1768,7 @@ Artificial Intelligence
   * [나만의 Visual Studio Code Copilot 지침 만들고 활용하기](https://d2.naver.com/helloworld/6615449)
   * [Cursor AI 와 Github Copilot 비교해 봤습니다 - 남들은 Cursor AI 가 더 좋다고 하던데 저는... - YouTube](https://www.youtube.com/watch?v=scG3agQQ79E)
   * [바이브 코딩을 포기하거나 멈춰있는 고급 사용자를 위한 실전 팁 - YouTube](https://www.youtube.com/watch?v=gP92KZq4N9s)
+  * [Agents panel: Launch Copilot coding agent tasks anywhere on github.com - GitHub Changelog](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com/)
   * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
   * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
