@@ -2625,6 +2625,8 @@ NLP
   * [코딩 능력은 역시 클로드인가보네요 | Claude 3.7 Sonnet & Claude Code - YouTube](https://www.youtube.com/watch?v=qV3opTT526U)
   * [27년 된 EXE 파일을 Claude 3.7에 업로드한 후 일어난 놀라운 일 | GeekNews](https://news.hada.io/topic?id=19493)
   * [Statement on Anthropic Model Availability](https://windsurf.com/blog/anthropic-models)
+  * [Anthropic 공동 창립자: Claude Code 구축, GPT-3 및 LLM 시스템 설계에서 얻은 교훈 - YouTube](https://www.youtube.com/watch?v=JdT78t1Offo)
+    * [Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5452837/5045479)
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md?fbclid=IwY2xjawLSrfpleHRuA2FlbQIxMQBicmlkETFMcGltMVI2cUtaR0psSVFaAR4I7Uvp-WsTEa7VUOB9RWjMXzlqe-3tKHMIhf-H1utaBTYBBNhR-sT0pXdjhA_aem_V2Z7LL8ch6kJZSHptLnTcA)
   * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
     * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
