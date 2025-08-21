@@ -365,6 +365,8 @@ Artificial Intelligence
 * [Google just dropped 5 new AI Agents for Developers](https://www.linkedin.com/posts/that-aum_google-just-dropped-5-new-ai-agents-for-developers-activity-7362325005361209344-ov5F/)
 * [I have built and sold AI Agents to 100+ companies](https://www.linkedin.com/posts/that-aum_i-have-built-and-sold-ai-agents-to-100-companies-activity-7361364379407122433-Op9w/)
 * [Small Language Models are the Future of Agentic AI](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs/)
+* [Unplugged 2025-08 AI Agent를 이용한 개발 - Visual Studio 2022에서 GitHub Copilot Agent로 개발하기 - dimohy - YouTube](https://www.youtube.com/watch?v=RToioPfGKQI)
+  * [Unplugged 2025-08 AI Agent를 이용한 개발 - Visual Studio 2022에서 GitHub Copilot Agent로 개발하기 - dimohy | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5463037/5060655)
 * [Agentic PMF: 단순히 기존 업무를 자동화하는 것을 넘어, AI 에이전트를 팀의 핵심 멤버(주니어 리서처, 개발자, 분석가)처럼 활용하여 PMF(Product-Market Fit) 또는 Re-PMF를 찾는 과정의 가설-검증 사이클을 극단적으로 단축시키는 접근법](https://www.linkedin.com/posts/jungsungyoung_agentic-pmf-%EB%8B%A8%EC%88%9C%ED%9E%88-%EA%B8%B0%EC%A1%B4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%84%98%EC%96%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7355593283143700480-rAvj/)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
@@ -465,6 +467,9 @@ Artificial Intelligence
 # Interview
 * [AI를 활용한 개발과 AI Literacy를 보기 위한 코딩테스트를 도입](https://www.linkedin.com/posts/juwon-choi_%EC%95%84%EC%A7%81%EB%8F%84-%EA%B8%B0%EC%97%85%EC%9D%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-ai-%EC%82%AC%EC%9A%A9-%EA%B8%88%EC%A7%80%EB%9D%BC%EB%A9%B4-%EB%8B%A4%EC%8B%9C-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EC%8B%9C%EA%B8%B0-%EB%B0%94%EB%9E%8D%EB%8B%88%EB%8B%A4-activity-7361267614188298240-EzoP/)
   * 반대 입장 [요즘은 입사면접 중 AI 도구 사용을 허용하거나 심지어 장려하는 곳이 많아지고 있다는데, 난 아직 그런 방식에 동의하지 않는다](https://www.linkedin.com/posts/spike-jee-480225a_%EC%9A%94%EC%A6%98%EC%9D%80-%EC%9E%85%EC%82%AC%EB%A9%B4%EC%A0%91-%EC%A4%91-ai-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%EC%9D%84-%ED%97%88%EC%9A%A9%ED%95%98%EA%B1%B0%EB%82%98-%EC%8B%AC%EC%A7%80%EC%96%B4-%EC%9E%A5%EB%A0%A4%ED%95%98%EB%8A%94-%EA%B3%B3%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%A7%80%EA%B3%A0-activity-7362531882841903104-vfBP/)
+* [AI 시대의 엔지니어 성장에 대한 재고 | 메리 윌리엄스 | LDX3 런던 2025 - YouTube](https://www.youtube.com/watch?v=palpFFMKuSU)
+  * [Rethinking growing engineers in the age of AI | Meri Williams | LDX3 London 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5462736/5060187)
+  * [AI 시대, 이제 엔지니어는 어떻게 성장해야 하는가? – 이바닥늬우스](https://ebadak.news/2025/08/17/ai-engineer-meri-williams/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 
 # Library
