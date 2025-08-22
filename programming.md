@@ -6580,7 +6580,7 @@ Programming
 * [맥킨지의 기술 트렌드 2024 100p PDF | GeekNews](https://news.hada.io/topic?id=16030)
 * [Thoughtworks Technology Radar, Volume 31 공개 | GeekNews](https://news.hada.io/topic?id=17466)
   * 테크닉/도구/플랫폼/개발언어 및 프레임워크 분야의 최신 트렌드들을 Hold/Assess/Trial/Adopt 4단계로 시각화 및 설명
-* [멘토 Pick! 25년 4월 셋째 주 아티클 모음](https://f-lab.kr/blog/250421-devclub?utm_source=linkedin&utm_medium=display&utm_campaign=mentor_article)
+* [멘토 Pick! 25년 4월 셋째 주 아티클 모음](https://f-lab.kr/blog/250421-devclub)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

@@ -1881,6 +1881,7 @@ Artificial Intelligence
   * [AI 코딩 에이전트 간의 시너지: Kiro × Claude Code](https://www.linkedin.com/posts/xavierchoi_ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%84%EC%9D%98-%EC%8B%9C%EB%84%88%EC%A7%80-kiro-claude-code-activity-7352270105680007188-Bmhl/)
     * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
   * [Kiro: 소프트웨어 요구사항 표기법 - EARS](https://jusths.tistory.com/492) EARS(Easy Approach to Requirements Syntax)
+  * [Kiro와 함께 Augmented Coding 기반 소프트웨어 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/augmented-coding-with-kiro/)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
