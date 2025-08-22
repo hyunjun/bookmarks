@@ -372,6 +372,10 @@ Artificial Intelligence
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
+* [AGENTS.md](https://agents.md/)
+  * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
+    * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
+    * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
@@ -799,6 +803,7 @@ Artificial Intelligence
   * [12 Frameworks to Build MCP AI Agents](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7356711580262113281-UsE2/)
   * [초보자를 위한 전체 과정(1-11과) MCP - YouTube](https://www.youtube.com/watch?v=VfZlglOWWZw)
     * [Full Course (Lessons 1-11) MCP for Beginners | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5437682/5022646)
+  * [MCP illustrated guidebook.pdf - Google Drive](https://drive.google.com/file/d/1a0OMR6NKTY-R2ZeLJVnDimkmTauarXPB/view)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -1275,6 +1280,8 @@ Artificial Intelligence
   * AI는 코드 생성, 버그 수정, 문서화 등 반복적인 작업을 자동화할 수 있지만, 복잡한 비즈니스 로직 이해, 사용자 경험 설계, 창의적 문제 해결 등은 여전히 인간 개발자의 영역
   * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
+* [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
+  * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
