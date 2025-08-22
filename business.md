@@ -2498,6 +2498,7 @@ Business
 * [그 리더의 좋은 말씀, 왜 아무도 들어 먹질 않았나](https://contents.premium.naver.com/saramin/waytowork/contents/221024104335355lu)
 * [리더십의 3가지 속성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/65149)
 * [17화 스타트업의 여성과 임포스터 신드롬](https://brunch.co.kr/@unsparing/31)
+* [DevOps에서의 임포스터 신드롬: LinkedIn 슈퍼히어로들 사이 평범한 사람을 위한 생존 매뉴얼](https://www.linkedin.com/posts/victor-maltsev_devops-slhrlgsxgree-rsisjisqb-activity-7364218110402301952-AUOf?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbMQEUBMB4uRYC4Kn5aQ940QwHNVlgc8EE)
 * [18화 스타트업의 히어로, 리더들](https://brunch.co.kr/@unsparing/32)
 * [19화 권력의 맛, 리더의 멋](https://brunch.co.kr/@unsparing/34)
 * [20화 왕관을 쓰려는 자, 그 무게를 견뎌라](https://brunch.co.kr/@unsparing/33)
