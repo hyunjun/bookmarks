@@ -573,6 +573,8 @@ Artificial Intelligence
     * [바이브 코드는 레거시 코드임 | GeekNews](https://news.hada.io/topic?id=22265)
   * [Vibe coding in prod 프로덕션에서의 분위기 코딩 - YouTube](https://www.youtube.com/watch?v=fHWFF_pnqDk)
     * [Vibe coding in prod | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5273363/4768962)
+  * ["AI First" and the Bus Factor of 0 - MindFlash - Programming and more](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
+    * [Vibe 코딩은 버스 팩터를 0으로 만든다 | GeekNews](https://news.hada.io/topic?id=22659)
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
