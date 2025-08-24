@@ -119,6 +119,10 @@ Sports
 * [류선규 : ‘재야의 야구 덕후 → SSG 초대 단장’ KBO의 새 역사를 쓰다!](https://prologue.rememberapp.co.kr/25031201)
 * [야구팬 회계사 등판⚾ KBO구단 재무제표 뜯어보기 야구에산다 159구 - YouTube](https://www.youtube.com/watch?v=avNudjjHlBc)
 * [이랜드 뮤지엄](https://elandmuseum.com/)
+* ['오심 남발' 메이저리그, 획기적인 변화가 필요하다 | 이창섭](https://v.daum.net/v/ybIpttOJ2p)
+  * 기술의 발전을 잘 활용하는 곳이 메이저리그인데, 경기 판정은 유독 보수적으로 접근하면서 같은 문제가 반복
+  * "100% 정확성이 어렵다면, 100% 일관성이라도 있어야 한다"
+  * "여성 심판은 야구계 마지막 장벽 중 하나였다. 그러나 야구에는 여성 심판이 필요한 것이 아니라, 제대로 된 심판이 필요하다(A female umpire was one of baseball’s final barriers. But the sport didn’t just need a woman; it needed the right one)"
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
