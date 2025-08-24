@@ -1284,6 +1284,7 @@ Artificial Intelligence
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
+* [AI 버블과 작별인사하고, 다가오는 붕괴에 대비하세요 | GeekNews](https://news.hada.io/topic?id=22667)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
