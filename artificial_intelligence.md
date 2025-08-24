@@ -287,6 +287,8 @@ Artificial Intelligence
     * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
 * [검색으로 먹고 살던 시대는 끝났습니다..(제로 클릭 시대)](https://www.linkedin.com/posts/chatdaeri_%EA%B2%80%EC%83%89%EC%9C%BC%EB%A1%9C-%EB%A8%B9%EA%B3%A0-%EC%82%B4%EB%8D%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4%EC%A0%9C%EB%A1%9C-%ED%81%B4%EB%A6%AD-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%EB%8A%94-%EC%95%84%EC%A7%81-activity-7358437440832880640-rS8n/) AIO AI Optimization
   * [챗GPT 검색에 내 콘텐츠가 추천되게 하는 법은?](https://blog.chatdaeri.com/how-to-rank-1-in-chatgpt-and-other-ai-search/)
+* [Inspired #20 | Claude Code, AI가 뇌를 망가뜨리는 이유, 질문이 해자, AI 네이티브 직원, DHH, 차별화와 Taste 등](https://kwondoeon.substack.com/p/inspired-20-claude-code-ai)
+  * [오랜만에 인사이트가 많았던 글, 영상 등을 정리해서 Substack에 포스팅했습니다 :) 이런 내용들이 있습니다: AI - AI가 인간의 능력, 취향, 의지까지 모방하는 시대에 인간만의 역할은 질문을 던지고 새로운 맥락을 창조하는 것 - AI는 데이터와 목표가 있어야 움직이지만, 인간은 문제 자체를 새롭게 정의하고 목적을 만든다 Technical… | 권도언](https://www.linkedin.com/posts/kwondoeon_%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B0%80-%EB%A7%8E%EC%95%98%EB%8D%98-%EA%B8%80-%EC%98%81%EC%83%81-%EB%93%B1%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%84%9C-substack%EC%97%90-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7363510258469670912-emA_/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -806,6 +808,8 @@ Artificial Intelligence
   * [초보자를 위한 전체 과정(1-11과) MCP - YouTube](https://www.youtube.com/watch?v=VfZlglOWWZw)
     * [Full Course (Lessons 1-11) MCP for Beginners | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5437682/5022646)
   * [MCP illustrated guidebook.pdf - Google Drive](https://drive.google.com/file/d/1a0OMR6NKTY-R2ZeLJVnDimkmTauarXPB/view)
+  * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
+    * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
