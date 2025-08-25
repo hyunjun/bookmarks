@@ -2514,6 +2514,8 @@ NLP
   * [토큰화의 경계를 넘다: H-넷의 혁신 | AIB프레스](https://aibpress.com/news/7643)
 * [정확도는 안 떨어졌는데, LLM 모델이 바보가 됐습니다: metric만 보면 놓치는 것](https://velog.io/@isanghao/%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EC%95%88-%EB%96%A8%EC%96%B4%EC%A1%8C%EB%8A%94%EB%8D%B0-LLM-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%B0%94%EB%B3%B4%EA%B0%80-%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-metric%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EB%86%93%EC%B9%98%EB%8A%94-%EA%B2%83)
 * [LLM 아키텍처 비교 · likejazz.com](https://likejazz.com/llm-comparison/)
+* [LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=hPbKh7c5vCo)
+  * [LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5522789/5150819)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
