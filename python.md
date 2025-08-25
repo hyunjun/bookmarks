@@ -4226,6 +4226,11 @@ Python
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
 * [spongebob-cli: Watch classic spongebob from the terminal!](https://github.com/trakBan/spongebob-cli)
+* [spy: SPy language](https://github.com/spylang/spy)
+  * [Talks - Antonio Cuni: SPy (Static Python) lang: fast as C, Pythonic as Python - YouTube](https://www.youtube.com/watch?v=hnQ0oJ_yXlw)
+    * [Talks - Antonio Cuni: SPy (Static Python) lang: fast as C, Pythonic as Python | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5513465/5137072)
+  * [Python performance myths and fairy tales LWN.net](https://lwn.net/Articles/1031707/)
+    * [Spy: 파이썬 성능 문제의 본질은 결코 인터프리터가 아니다 | LinkedIn](https://www.linkedin.com/pulse/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%B1%EB%8A%A5-%EB%AC%B8%EC%A0%9C%EC%9D%98-%EB%B3%B8%EC%A7%88%EC%9D%80-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-jin-hyung-park-sigrid-jin--nbjvc/)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
