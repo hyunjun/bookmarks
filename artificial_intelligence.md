@@ -378,6 +378,7 @@ Artificial Intelligence
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
+  * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
@@ -500,6 +501,9 @@ Artificial Intelligence
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
     * [인공지능 A2A란 무엇인가? 데모(demo.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223839552262)
+* [acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp?trk=public_post_comment-text)
+  * [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
+  * [After MCP, A2A, & AG-UI, we've a new protocol: (open-sourced by IBM research) AI agents working in silos are slowing down innovation! ACP (Agent Communication Protocol) breaks down these barriers,… | Akshay Pachaar | 댓글 30](https://www.linkedin.com/posts/akshay-pachaar_after-mcp-a2a-ag-ui-weve-a-new-protocol-activity-7365374949672280064-uXrZ)
 * [ag2: AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ](https://github.com/ag2ai/ag2)
   * [AgentOS](https://ag2.ai/)
   * [Chi Wang + Tim Santos - Building Vertical Agent with AG2 AgentOS | PyData London 25 - YouTube](https://www.youtube.com/watch?v=iVDNflrBBH4)
@@ -581,6 +585,7 @@ Artificial Intelligence
   * ["AI First" and the Bus Factor of 0 - MindFlash - Programming and more](https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608)
     * [Vibe 코딩은 버스 팩터를 0으로 만든다 | GeekNews](https://news.hada.io/topic?id=22659)
   * [바이브 코딩이 왜 레거시 코드와 기술 부채를 만드는가](https://brunch.co.kr/@graypool/2411)
+  * [바이브코딩 UI 마크다운 생성기 - 초보자용](https://jvibeschool.com/vibeUIgen/)
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
