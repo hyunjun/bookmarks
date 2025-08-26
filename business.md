@@ -3891,6 +3891,7 @@ Business
 * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 - YouTube](https://www.youtube.com/watch?v=WHTtFWPiqkA)
   * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5177955/4622060)
 * [한국 B2B SaaS, 미국에선 왜 잘 안 먹힐까?](https://www.linkedin.com/posts/shndon0220_%ED%95%9C%EA%B5%AD-b2b-saas-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%A0-%EC%99%9C-%EC%9E%98-%EC%95%88-%EB%A8%B9%ED%9E%90%EA%B9%8C-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EA%BD%A4-%EC%9E%98-%EB%82%98%EA%B0%80%EB%8D%98-activity-7358428337788080128-4nul/)
+* [이복연 - B2B 스타트업들을 만나면 꼭 해주는 말이 있다. 거래를 하게 된 기업의 '내부 효율성 향상 솔루션'이... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0so1waEJSCDLAhkbPBB21Xu19U1utg6BZ967U4KaMSJamtLXrumZLC1WqkD3xaB5Wl)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
