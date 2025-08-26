@@ -4365,6 +4365,8 @@ NLP
 * [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
 * [SSL-narratives-NLP-1: 거꾸로 읽는 self-supervised learning in NLP](https://github.com/jwkanggist/SSL-narratives-NLP-1)
 * [SSL-NLP 파트1 - YouTube](https://www.youtube.com/playlist?list=PLMSTs9nojhszeFer8gYnEI5yA5JenWzEA)
+* [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260?trk=public_post_comment-text)
+  * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
 
 # Parser
 
