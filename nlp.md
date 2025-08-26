@@ -2583,6 +2583,8 @@ NLP
   * [🤖Browser Use: AI가 스스로 웹을 탐색하고 상호작용하는 혁신적 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Browser-Use-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9B%B9%EC%9D%84-%ED%83%90%EC%83%89%ED%95%98%EA%B3%A0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%84%EA%B5%AC)
   * [🌐🤖 Browser-Use WebUI: AI로 웹 브라우저를 제어하세요](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%F0%9F%A4%96-Browser-Use-WebUI-AI%EB%A1%9C-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EC%84%B8%EC%9A%94)
   * [웹 브라우저 제어 AI 에이전트 Browser Use WebUI Deep Research 기능 사용하기 - YouTube](https://www.youtube.com/watch?v=ge0ahR_XAWE)
+* [ByteDance Seed](https://seed.bytedance.com/en/)
+  * [바이트댄스의 오픈소스 LLM 도전장, Seed-OSS 심층 분석](https://fornewchallenge.tistory.com/entry/%EB%B0%94%EC%9D%B4%ED%8A%B8%EB%8C%84%EC%8A%A4%EC%9D%98-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM-%EB%8F%84%EC%A0%84%EC%9E%A5-Seed-OSS-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D)
 * [chameleon: Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR](https://github.com/facebookresearch/chameleon)
   * [Chameleon: Meta의 새로운 멀티-모달 LLM | GeekNews](https://news.hada.io/topic?id=14954)
   * [Releasing New AI Research Models to Accelerate Innovation at Scale | Meta](https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/)
