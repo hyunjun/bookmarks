@@ -1467,6 +1467,8 @@ Linux
 * [TerminalTextEffects (TTE) is a terminal visual effects engine](https://github.com/ChrisBuilds/terminaltexteffects)
   * [TerminalTextEffects Docs](https://chrisbuilds.github.io/terminaltexteffects/)
   * [TerminalTextEffects (TTE) - 터미널 텍스트 효과 엔진 | GeekNews](https://news.hada.io/topic?id=15062)
+* [Termix](https://docs.termix.site/)
+  * [LukeGus/Termix: Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.](https://github.com/LukeGus/Termix)
 * [timeshift: System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB](https://github.com/linuxmint/timeshift)
   * [Timeshift - 리눅스용 시스템 복원 도구 | GeekNews](https://news.hada.io/topic?id=15985)
 * [tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
