@@ -1593,6 +1593,7 @@ Artificial Intelligence
   * [Claude Code often spends more on irrelevant input than useful output — by a long shot](https://www.linkedin.com/posts/aparnadhinakaran_claude-code-often-spends-more-on-irrelevant-activity-7355755480805220352-Yskr/)
     * [Arize AI에서 Claude Code의 동작을 분석했습니다](https://www.arizekorea.com/insights/post/arize-ai-analyzed-claude-code-behavior-CMvgget565VQLVv)
       * 주목해야 할 지표: 컨텍스트 희석 = 불필요한 토큰 ÷ 전체 토큰
+  * [꼭 알아야하는 클로드 코드 필수 꿀팁 60가지 - YouTube](https://www.youtube.com/watch?v=a1a9wV88MSM)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -1625,6 +1626,7 @@ Artificial Intelligence
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
+  * [Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.](https://github.com/opactorai/Claudable)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
