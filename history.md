@@ -431,6 +431,7 @@ History
 * [다산과 복지가 고민인 혁신의 나라 이스라엘](https://blog.naver.com/santa_croce/221460010131) 하레디 Haredi
 * [(2) أنس الشريف Anas Al-Sharif on X: "This is my will and my final message. If these words reach you, know that Israel has succeeded in killing me and silencing my voice. First, peace be upon you and Allah’s mercy and blessings. Allah knows I gave every effort and all my strength to be a support and a voice for my" / X](https://x.com/AnasAlSharif0/status/1954670507128914219)
   * [희일이송 - "이것이 제 유언이자 마지막 메시지입니다. 이 말이 여러분에게 닿는다면, 이스라엘이 저를 죽이고 제... | Facebook](https://www.facebook.com/leesongheeil/posts/pfbid0mzyBR9pzebUrNLdW8vjWQVJXWtLPpimYXxQzkCiJMmK6LAS4v35jHTVnMnyLChVTl)
+* [(2) 류경완 - <로이터 기자 사직서> 지난 8년 동안 나는 로이터 통신에서 프리랜서 기자로 일해 왔다. 내가 대초원... | Facebook](https://www.facebook.com/ryukyung2010/posts/pfbid0fpmYX76EPauDeFWGqrQbeDxaFYMRdaEiQVpqrP2mNFuH8XpWcu8DkmJvJCNYmz3Hl)
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
