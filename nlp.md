@@ -1103,6 +1103,7 @@ NLP
     * [GPT-OSS-120B를 8GB VRAM, 64GB RAM으로 구동시켜보기](https://webnautes.kr/gpt-oss-120breul-8gb-vram-64gb-rameuro-gudongsikyeobogi/)
     * [The Illustrated GPT-OSS - by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-gpt-oss)
       * [GPT-OSS에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/GPT-OSS-255c32470be2805dbc87c2172d697de7)
+    * [H100 위에서 GPT-5 OSS 20B 사용.. : 네이버블로그](https://blog.naver.com/ulsancoding/223983874842)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
