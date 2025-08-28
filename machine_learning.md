@@ -1273,6 +1273,7 @@ Machine Learning
   * [mlflow를 활용한 pipeline 시스템 구축](https://blog.naver.com/pjt3591oo/222298197217)
   * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
   * [Theodore Meynard - MLflow workshop | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=n-QDuILXR60)
+  * [Samsung Tech Blog - AI를 지탱하는 MLOps: Kubeflow와 MLflow를 활용한 AI 개발 시스템 구축](https://techblog.samsung.com/blog/article/70)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
