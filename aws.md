@@ -1558,6 +1558,7 @@ AWS
 * [AWS EKS Managed Node Groups Tutorial: Step-by-Step Setup & Configuration - YouTube](https://www.youtube.com/watch?v=N4np9l1ILGs)
 * [DAU 150만, MAU 300만 올웨이즈 서비스의 무중단 EKS 마이그레이션 — 실전 데브옵스 이야기 | by Yonghyun Kim | 레브잇 테크블로그 | May, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/dau-150%EB%A7%8C-mau-300%EB%A7%8C-%EC%98%AC%EC%9B%A8%EC%9D%B4%EC%A6%88-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%AC%B4%EC%A4%91%EB%8B%A8-eks-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%EC%A0%84-%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0-da6083e531ce)
 * [AWS EKS MCP, 그리고 업무 방식의 변화](https://velog.io/@lufianlee/AWS-EKS-MCP-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%97%85%EB%AC%B4-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%B3%80%ED%99%94)
+* [Amazon EKS Add-on, Falco와 함께 Kubernetes 런타임 보안 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kubernetes-runtime-security-using-amazon-eks-add-on-falco/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
