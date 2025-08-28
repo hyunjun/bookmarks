@@ -3543,6 +3543,8 @@ NLP
     * [박상길 - 저희가 이번에 Smoothie Qwen이라는 이름의 오픈소스를 릴리즈 했습니다. - 공식 깃헙... | Facebook](https://www.facebook.com/likejazz/posts/pfbid0rFQJ9i2YMWf3z85XiqY1biDnmxJ5e6TesH5Vw4QRrnaNA93DNA8kYXSiD5XmY9Fzl)
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
+* [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX?trk=public_post_comment-text)
+  * [an RL framework called RLYX (formerly, simple-r1)](https://www.linkedin.com/posts/sungju-kim-3b0406b0_github-goddoerlyx-a-hackable-simple-activity-7366509719814881281-zZ4d)
 * [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
   * [RouteLLM - LLM 라우터 서빙 및 평가를 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=15800)
 * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
