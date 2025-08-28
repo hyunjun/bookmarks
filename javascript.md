@@ -7124,6 +7124,7 @@ Javascript
 * [Things that I like better in Vue than in React - DEV Community](https://dev.to/jaydevm/things-that-i-like-better-in-vue-than-in-react-56o3)
   * React에 이미 익숙해서 불만이 없었지만, 막상 Vue를 써보니 Vue의 장점이 눈에 띄어서 정리한 글
   * 설치가 대화형이라 더 직관적, 상용구도 적으면서 단일 파일에서 관리가 훨씬 용이, 지시어 시스템이나 계산된 속성도 React보다 사용하기 쉬움, 개발자 경험이 좋아서 배울 점이 많다고 강조
+* [Vue v-on 핸들러 캐싱, 언제 되고 언제 안 될까?](https://divlook.tistory.com/29)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
