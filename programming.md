@@ -8141,6 +8141,7 @@ Programming
 * [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 * [CTO, CEO의 입장에서 기술 부채는 언제 정리해야할까?](https://www.linkedin.com/posts/testcode_swmtnktxuslh-qzcstkrwwtrg-trzslh-activity-7207931094866817025-A0ma/)
 * [기술부채의 원래 의미는? | Warmblood TechBlog](https://warmblood-kr.github.io/dev-practice/2024/09/23/technical-debt.html)
+* [기술 부채는 마이그레이션 할 때 ‘잘’ 드러난다. 어느 날 회사에서 동료와 함께 이슈를 해결하던 중이었다. 마이그레이션… | by Mijeong (Rachel) | Aug, 2025 | Medium](https://mjspring.medium.com/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84%EB%8A%94-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EB%95%8C-%EC%9E%98-%EB%93%9C%EB%9F%AC%EB%82%9C%EB%8B%A4-e7987a3f3ecf)
 * [**조직 부채 해결책**](https://www.linkedin.com/pulse/%2525EC%2525A1%2525B0%2525EC%2525A7%252581-%2525EB%2525B6%252580%2525EC%2525B1%252584-%2525EB%25258B%2525A4%2525EB%2525A3%2525A8%2525EA%2525B8%2525B0-%2525ED%252598%252584%2525EC%2525A4%252580-%2525EC%252597%2525AC-2pije/)
   * "조직 부채란, 리더가 해야 했지만 하지 않은 변화와 결정의 축적이다." - 스콧 벨스키(Scott Belsky), 비핸스(Behance) 창립자
 * [나이스 오류 - 핵심은 일을 시키는 사람이 혁신해야 한다](https://www.facebook.com/cjunekim/posts/pfbid0B4otSzBpBiE3cT8MkjbDDxWUZYnLPnriVyYvm9n5ueRFvWwEXEb59v4dWBzEzu2pl)
