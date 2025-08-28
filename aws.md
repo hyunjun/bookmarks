@@ -3151,6 +3151,7 @@ AWS
 * [Amazon S3용 마운트포인트를 사용한 Amazon VPC 트래픽 미러링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/capture-packets-with-amazon-vpc-traffic-mirroring-and-mountpoint-for-amazon-s3/)
 * [단, 두개의 AWS Lambda 함수로 Amazon OpenSearch, Amazon Bedrock 기반 이미지 검색 애플리케이션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/easiest-image-search-with-opensearch/)
 * [AWS PrivateLink를 통한 VPC Resource 접근](https://zigispace.net/1310)
+* [Centralized egress VPC를 향한 여정 - 1편](https://devocean.sk.com/blog/techBoardDetail.do?ID=167728)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
