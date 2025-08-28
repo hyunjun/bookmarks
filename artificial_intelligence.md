@@ -1867,6 +1867,7 @@ Artificial Intelligence
   * [커서 AI, 실무에서 이렇게 쓰더라구요 - YouTube](https://www.youtube.com/watch?v=aeM_QF1BMUY)
   * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 (장문주의)](https://www.stdy.blog/12-tips-for-smarter-cursor-usage/)
     * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 | GeekNews](https://news.hada.io/topic?id=21608)
+  * [Ex-Cursor engineer showed me this hack. Changed how I code forever](https://www.linkedin.com/posts/paoloperrone_ex-cursor-engineer-showed-me-this-hack-changed-activity-7366581181527547906-KT62/)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
