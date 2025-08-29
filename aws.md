@@ -771,6 +771,8 @@ AWS
     * [MCP로 직접 Browser를 조작하여 필요한 정보를 추출하면, 생성형 AI의 활용을 높일수 있습니다. | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-agentcore-browseruse-ugcPost-7356103423097794560-d1Tc)
   * [agentcore/code-interpreter.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/code-interpreter.md)
     * [MCP로 Sandbox 환경에서 Code Interpreter를 활용하는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-codeinterpreter-agent-activity-7355449710465216512-McWd/)
+  * [mcp-tools: It show how to deploy MCP tools using AgentCore](https://github.com/kyopark2014/mcp-tools)
+    * [Streamable HTTP 방식의 MCP 서버를 서버리스 환경에서 배포하고 활용하는 방법에 대해 설명](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-eks-ugcPost-7366987512562524160-BiYo)
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
