@@ -1521,6 +1521,7 @@ Artificial Intelligence
   * [AI를 무료 또는 저렴하게 활용하여 개발하는 방법 | GeekNews](https://news.hada.io/topic?id=22437)
 * [공유용 - 250814 나날이 발전하고픈 개발자를 위한 AI 활용법.pdf - Google Drive](https://drive.google.com/file/d/1h99VB5Ra5nn78ZpcXzvN8HyJbSmcX-Qn/view)
   * [라인플러스 Tech Talk 나날이 발전하고픈 개발자를 위한 AI 활용법 - 후기 + 슬라이드 PDF](https://www.stdy.blog/how-to-use-ai-for-developers-who-want-to-develop-everyday/)
+  * [나날이 발전하고픈 개발자를 위한 AI 활용법 (298p 슬라이드) - YouTube](https://www.youtube.com/watch?v=CAgn60EWDmw)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
