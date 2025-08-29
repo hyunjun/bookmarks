@@ -1597,6 +1597,8 @@ Artificial Intelligence
     * [Arize AI에서 Claude Code의 동작을 분석했습니다](https://www.arizekorea.com/insights/post/arize-ai-analyzed-claude-code-behavior-CMvgget565VQLVv)
       * 주목해야 할 지표: 컨텍스트 희석 = 불필요한 토큰 ÷ 전체 토큰
   * [꼭 알아야하는 클로드 코드 필수 꿀팁 60가지 - YouTube](https://www.youtube.com/watch?v=a1a9wV88MSM)
+  * [Turning Claude Code Into My Best Design Partner – Between the Prompts](https://betweentheprompts.com/design-partner/)
+    * [Claude Code, 단순 AI 코더가 아닌 최고의 설계 파트너로 만드는 법](https://digitalbourgeois.tistory.com/1842)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
