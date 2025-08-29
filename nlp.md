@@ -2777,6 +2777,7 @@ NLP
   * [허깅페이스 Pre-Trained 모델 로컬에서.. : 네이버블로그](https://blog.naver.com/ulsancoding/223791843957)
   * [카카오 AI Safety 팀에서 AI 가드레일 모델 3종을 오픈소스로 공개](https://www.linkedin.com/posts/kyunghoon-kim-8b5962bb_%EC%B9%B4%EC%B9%B4%EC%98%A4-ai-%EA%B0%80%EB%93%9C%EB%A0%88%EC%9D%BC-%EB%AA%A8%EB%8D%B8-kanana-safeguard-%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7333679267026739200-vXbC/)
     * [카카오 AI 가드레일 모델, Kanana Safeguard 시리즈를 소개합니다. - tech.kakao.com](https://tech.kakao.com/posts/705)
+  * [Kanana 언어모델에 추론 기능 붙여보기 (feat. Kanana-1.5) - tech.kakao.com](https://tech.kakao.com/posts/724)
   * Kanana-MoE [국내 최초 MoE 모델 ‘Kanana-MoE’ 개발기 - tech.kakao.com](https://tech.kakao.com/posts/716)
   * kanana nano
     * [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
