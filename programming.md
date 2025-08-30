@@ -3059,6 +3059,7 @@ Programming
 * [Intro to BFF Pattern - by Saurabh Dashora](https://newsletter.systemdesigncodex.com/p/intro-to-bff-pattern)
   * The BFF pattern in software development involves creating dedicated API gateways (BFFs) for each device or interface type, tailoring the API to the specific needs of the client. BFFs offer resiliency, autonomy, and faster development velocity but can also lead to code duplication and complexity
   * To effectively implement the BFF pattern, clearly define client requirements, minimize code duplication, maintain clear boundaries, and monitor performance
+* [이 아키텍처는 BFF(Backend for Frontend) 패턴의 일종으로, 프론트엔드와 마이크로서비스 사이에 GraphQL 서버를 두는 방식](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1272931014526244&hoisted_section_header_type=recently_seen)
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [느슨한 결합(loosely coupled) 원칙을 활용한 소프트웨어 설계 | 요즘IT](https://yozm.wishket.com/magazine/detail/1926/)
