@@ -2899,6 +2899,7 @@ Business
   * 효율적인 관리를 위한 휴리스틱들
     1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
     10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
+* [임원을 상사로 둔 팀장을 위한 매니징 업 가이드 1탄](https://www.linkedin.com/posts/elfpenguin_rfiqwitfhslh-managingup-activity-7366989607294431232-MIPD)
 * [Middle management: A precious but wasted resource | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/stop-wasting-your-most-precious-resource-middle-managers)
 * [Why It’s Easier to Manage 4 People Than It Is to Manage 1 Person | Stay SaaSy](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
