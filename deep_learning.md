@@ -2896,6 +2896,7 @@ CVPR2016)
 * [Notes on Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
   * [Diffusion Models의 원리를 설명하는 글 | GeekNews](https://news.hada.io/topic?id=15013)
 * [HuggingFace 스페이스 - OOTD를 내 마음대로, OOTDiffusion | 지피터스 GPTers](https://www.gpters.org/c/huggingface/huggingface-ootd-ootdiffusion) OOTDiffusion OutfitAnyone
+* [나노바나나는 어떻게 일관성을 유지하는거지? 왜 이미지는 텍스트처럼 안되는걸까?](https://www.linkedin.com/posts/jongsu-kim-63458347_rosinality-rosinality-on-x-activity-7367359743285207040-KVhe)
 * [AI Gallery - Create stunning AI-powered artwork instantly](https://aigallery.app/create)
   * [무료+무제한+검열없음+상업용까지 = 최강 이미지 생성 AI 등장! - YouTube](https://www.youtube.com/watch?v=HH5TXYPzqTY)
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111)
