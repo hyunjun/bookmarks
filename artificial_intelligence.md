@@ -1073,6 +1073,7 @@ Artificial Intelligence
       * 그리고 구현된 초안을 에이전트가 결정론적으로 테스트할 수 있는 BDD/TDD의 적용
       * 그리고 수행자가 일일이 이러한 SW 개발 프로세스를 누락없이 실행하기 위하여 엠비언트 에이전트 스타일의 휴먼-인-더-루프 개입
     * 구현범위를 한정(바운디드 컨텍스트) 시켜 LLM 의 환각을 최소화하고 품질을 높일 수 있다는 아이디어
+* [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
 * [Artificial intelligence is already deceiving us and could have unforeseen consequences for humans](https://www.telegraph.co.uk/news/2024/05/10/ai-deceiving-humans-already-unforeseen-consequences-humans/)
