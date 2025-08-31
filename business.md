@@ -638,6 +638,7 @@ Business
         * 펠릭스 산체스 바스는 세계적인 축구 명감독이지만 선수 출신도 아니고, 축구도 못함
         * 그 외에도 어떤 종목이든 선수 시절에는 숙련된 역량을 보이지 못했지만 은퇴 후 전문가로 빛나는 경우가 허다
     * 숙련은 좀 떨어져도 전문가일 수 있음. 이 차이를 잘 이해하면 조직 설계나 개인의 커리어 설계에 큰 도움
+* [일을 빠르게 하는 사람들의 3가지 힘 (부제: 속도의 본질은 속도가 아니다)](https://www.linkedin.com/posts/joonchon_reeqyssxh-chro-syotfnspfsut-activity-7365524754495123456-vzrl)
 * [일관성 품격 습관](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7223809520538394624-lFXO/)
   * 나의 언행은 일치라는 틀에 가두라. 그래야 사람들이 나를 신뢰할 수 있다. 이를 일관성이라 한다
   * 나의 품성은 내가 지향하는 사람들의 틀에 박힌 양식을 따르라. 이를 품격이라 한다
@@ -3937,6 +3938,7 @@ Business
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집 - YouTube](https://www.youtube.com/watch?v=GJ6Sw4T5gAI)
+* [미국 VC는 시장 사이즈를 어떤 방식으로 계산할까? IR Deck에서 한국 창업자들이 가장 많이 오해하는 개념 중 하나가 바로 시장 사이즈(Market Size)이다. 대부분은 통계청, 맥킨지 리포트, 산업 보고서에서 숫자를 끌어다가 TAM을 크게 부풀리곤 하는데, 대략 로직은 이렇다. “시장이 10조 원이니까, 우리가 1%만 먹어도 1천억 원”이라는… | Peter Shin](https://www.linkedin.com/posts/shndon0220_%EB%AF%B8%EA%B5%AD-vc%EB%8A%94-%EC%8B%9C%EC%9E%A5-%EC%82%AC%EC%9D%B4%EC%A6%88%EB%A5%BC-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B3%84%EC%82%B0%ED%95%A0%EA%B9%8C-ir-deck%EC%97%90%EC%84%9C-%ED%95%9C%EA%B5%AD-activity-7367524458066034689-s0k3)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [2025년 창업자들이 실제로 읽는 스타트업 도서들](https://www.linkedin.com/posts/leekh929_2025%EB%85%84-%EC%B0%BD%EC%97%85%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8F%84%EC%84%9C%EB%93%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%88%98%EB%B0%B1-%EB%AA%85%EC%9D%98-activity-7357523096804741120-AssJ/)
 * [예비창업자들이 앤틀러 프로그램을 선택해야 하는 이유](https://blog.naver.com/antlerkorea/222667025289)
