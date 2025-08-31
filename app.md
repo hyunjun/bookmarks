@@ -3165,6 +3165,10 @@ App
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
 
+# Voice
+* [캐럿 - 실시간 기록부터 요약까지 해주는 똑똑한 AI 미팅노트](https://caret.so/)
+* [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
+
 # VPN
 * [“무료인데 속도까지 빠르다” 최고의 크롬 브라우저용 VPN 4선 - ITWorld Korea](https://www.itworld.co.kr/news/244898)
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
