@@ -405,6 +405,8 @@ NLP
   * [Turn websites into knowledge bases | Embedding.io](https://www.embedding.io/)
 * [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
   * [임베딩 기술은 저평가 되었음 | GeekNews](https://news.hada.io/topic?id=17545)
+* [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가?](https://kr.linkedin.com/pulse/%EC%99%9C-%EB%8B%A8%EC%9D%BC-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B8%EC%84%9C%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%80%EB%A9%B4-%EA%B2%80%EC%83%89%EC%9D%84-%EB%AA%BB-%ED%95%98%EB%8A%94%EA%B0%80-jin-hyung-park-sigrid-jin--sbkxc?trk=public_post_feed-article-content)
+  * [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가? | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EB%8B%A8%EC%9D%BC-%EB%B2%A1%ED%84%B0-%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%80-%ED%91%9C%ED%98%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%A7%88%EC%9D%98-%EB%AC%B8%EC%84%9C-%EA%B4%80%EB%A0%A8%EC%84%B1-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%84-activity-7367381132939546624-ag59)
 * [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
   * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
 * [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
