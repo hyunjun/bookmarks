@@ -441,6 +441,10 @@ Artificial Intelligence
 * [Vibe Coding Needs Context Engineering](https://inferencebysequoia.substack.com/p/vibe-coding-needs-context-engineering)
   * [바이브 코딩에는 컨텍스트 엔지니어링이 필요하다](https://blogbyash.com/translation/vibe-coding-needs-context-engineering/)
   * [바이브 코딩을 위한 컨텍스트 엔지니어링의 4가지 핵심축 번역글 | GeekNews](https://news.hada.io/topic?id=22341)
+* [에이전트를 위한 고급 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=IS_y40zY-hc) Spec-first Development, 테스트 코드는 여전히 검토
+  * [Advanced Context Engineering for Agents | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612479/5283630)
+* [컨텍스트 엔지니어링: CoCounsel 확장에서 얻은 교훈 - YouTube](https://www.youtube.com/watch?v=sLFv3RSj_d8)
+  * [Context Engineering: Lessons Learned from Scaling CoCounsel | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612492/5283657)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
   * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
   * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
