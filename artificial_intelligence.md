@@ -289,6 +289,9 @@ Artificial Intelligence
   * [챗GPT 검색에 내 콘텐츠가 추천되게 하는 법은?](https://blog.chatdaeri.com/how-to-rank-1-in-chatgpt-and-other-ai-search/)
 * [Inspired #20 | Claude Code, AI가 뇌를 망가뜨리는 이유, 질문이 해자, AI 네이티브 직원, DHH, 차별화와 Taste 등](https://kwondoeon.substack.com/p/inspired-20-claude-code-ai)
   * [오랜만에 인사이트가 많았던 글, 영상 등을 정리해서 Substack에 포스팅했습니다 :) 이런 내용들이 있습니다: AI - AI가 인간의 능력, 취향, 의지까지 모방하는 시대에 인간만의 역할은 질문을 던지고 새로운 맥락을 창조하는 것 - AI는 데이터와 목표가 있어야 움직이지만, 인간은 문제 자체를 새롭게 정의하고 목적을 만든다 Technical… | 권도언](https://www.linkedin.com/posts/kwondoeon_%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EA%B0%80-%EB%A7%8E%EC%95%98%EB%8D%98-%EA%B8%80-%EC%98%81%EC%83%81-%EB%93%B1%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%84%9C-substack%EC%97%90-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7363510258469670912-emA_/)
+* [나는 현재 전 세계에서 "극우"가 늘어나고 있는 배경에는 "문해력의 부족"이 있다고 생각합니다. 내가 어렸을 때만 하더라도, 대부분 집에서는 신문을 받아 보고 있었고, 책도 사봤습니다. 신문은 한 눈에 모든 헤드라인과 기사가 눈에 보이고, 책도 페이지를 주욱 넘기는 맛이 있어서, 그 자체가 "편식"할 수 없는 구조였죠. 하지만, 현재는, 손바닥 만한… | Myungjip KIM](https://www.linkedin.com/posts/myungjip-kim-546352239_%EB%82%98%EB%8A%94-%ED%98%84%EC%9E%AC-%EC%A0%84-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B7%B9%EC%9A%B0%EA%B0%80-%EB%8A%98%EC%96%B4%EB%82%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94-%EB%AC%B8%ED%95%B4%EB%A0%A5%EC%9D%98-%EB%B6%80%EC%A1%B1%EC%9D%B4-activity-7367452539216171009-HGjp)
+  * 아무튼, 우리는 문해력이 부족한 시대를 살고 있습니다. 우리가 일상에서 편리성과 유희를 위해 쓰고 있는 전자기기와 인공지능 노출이 톡톡한 공을 했습니다. 우리는 이제 한 술 더 떠서, 초등학교에까지 인공지능을 집어 넣어서 교육을 하겠다는 사회에 살고 있습니다
+  * 애비 애미 말은 "됐고!" 하며 짜르고, 아이들이 교실에서 인공지능한테 뭘 그렇게 잘 배울지 모르겠군요
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1035,6 +1038,8 @@ Artificial Intelligence
       * 이제는 *비구조화, 준구조화 및 구조화된 데이터를 사용하여 자동화*하는 작업에 집중하고 있으며, 데이터 정리와 자동화에 초점
       * 데이터 발견하고 정리하며, 그 데이터와 대화, 해당 데이터를 *하위 인사이트 및 분석*에 활용 가능하게 하는 *자동화된 데이터 curation* 작업에 중점
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
+* [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트](https://harvest.pub/shared/2d68d69e-71b9-4e7c-a8e6-b6ae9e591448)
+  * [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트 | Taeho Kim](https://www.linkedin.com/posts/xissy_chatgpt%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%B9%A0%EB%A5%B8-%EC%84%B1%EC%9E%A5-lovable-ai%EC%9D%98-%EB%B9%84%EB%B0%80-ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-activity-7366736093104308225-v_og)
 * [(광고) 스켈터레터 AI 에이전트, 기업도 쓸 수 있나요? 🥹](https://skelterlabs.stibee.com/p/22/)
 * [Generative AI, 국내 기업은 어떻게 사용하고 있을까요?ㅣ3월 MI리포트 G.AI](https://www.skcc.co.kr/insight/trend/2492/5ma9umcvdz)
 * [sora와 gemini 1.5사태가 시사하는 보통 기업들의 AI전략](https://www.yonghosee.com/ai-strategies-must-align-with-data)
