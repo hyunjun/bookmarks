@@ -679,6 +679,8 @@ Data Science
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
+* [Positron](https://positron.posit.co/)
+  * [Positron: 차세대 Data Scienc.. : 네이버블로그](https://blog.naver.com/ryang137/223990004043)
 * Psyberg
   * [Psyberg: Automated end to end catch up | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/3-psyberg-automated-end-to-end-catch-up-260fbe366fe2)
   * [Streamlining Membership Data Engineering at Netflix with Psyberg | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1)
