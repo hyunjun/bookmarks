@@ -396,6 +396,8 @@ Programmer
   * [한국 개발자, 역량 문제 아니다! 실리콘밸리 엔지니어와 다른 이것!! 우버 엔지니어로 부터 듣는다. | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5083755/4474652)
 * [Welcoming The Next Generation of Programmers | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/7/20/the-next-generation/)
   * [차세대 프로그래머를 환영합니다 | GeekNews](https://news.hada.io/topic?id=22081)
+* [Professional Skills for Software Engineers • Charles Humble & Trisha Gee - YouTube](https://www.youtube.com/watch?v=Sc0vCXrbAsg)
+  * [Professional Skills for Software Engineers • Charles Humble & Trisha Gee | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5606112/5274086)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
