@@ -1305,6 +1305,7 @@ Artificial Intelligence
   * AI는 코드 생성, 버그 수정, 문서화 등 반복적인 작업을 자동화할 수 있지만, 복잡한 비즈니스 로직 이해, 사용자 경험 설계, 창의적 문제 해결 등은 여전히 인간 개발자의 영역
   * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
+* [네이버 밴드 기획자가 AI코딩 99%로 만들었다는 AI 소셜 앱 | 요즘IT](https://yozm.wishket.com/magazine/detail/3309/)
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
 * [AI 버블과 작별인사하고, 다가오는 붕괴에 대비하세요 | GeekNews](https://news.hada.io/topic?id=22667)
