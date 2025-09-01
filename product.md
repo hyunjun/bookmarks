@@ -194,6 +194,7 @@ Product
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard | CyberShadow's blog](https://blog.cy.md/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
+* [B키 2개 들어간 인체공학 무선 저소음 로우프로파일 기계식키보드 지클릭커 OFFICEPRO EK500 - YouTube](https://www.youtube.com/watch?v=XPjNYv35L80)
 * [아두이노 커스텀 키보드 제작](https://lazygyu.net/blog/make_a_custom_machanical_keyboard)
 * [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
 * [An Enthusiast's Deep Dive Into Mechanical Keyboard Switches](https://switchandclick.com/mechanical-keyboard-switch-guide/)
