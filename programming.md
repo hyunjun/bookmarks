@@ -1793,6 +1793,8 @@ Programming
 * [Moving from a Monolith to a Distributed Monolith • Nish Mahanty • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=57mD5G81Y4Y)
   * [VidiGo Moving from a Monolith to a Distributed Monolith •](https://vidigo.ai/share/summary/d6e5aa0210a6)
   * [모노리스에서 분산형 모노리스로의 전환 - Nish Mahanty - YOW! 2018 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/522809)
+* [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 | ITWorld](https://www.itworld.co.kr/article/3562665/%EC%95%84%EB%A7%88%EC%A1%B4-%ED%94%84%EB%9D%BC%EC%9E%84-%EB%B9%84%EB%94%94%EC%98%A4%EC%9D%98-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-vs-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4-%EB%85%BC.html)
+  * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 | ITWorld | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5617821/5291784)
 * [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
