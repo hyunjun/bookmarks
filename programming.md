@@ -2507,6 +2507,9 @@ Programming
         * 초기에 기존 시스템 앞에 프록시를 배치하여 요청을 가로채고, 새로운 시스템이 준비된 기능부터 하나씩 기존 시스템의 기능을 대체
         * 이러한 방식으로 시간이 지남에 따라 모든 기능이 새로운 시스템으로 이전되면, 기존 시스템은 완전히 폐기
 * [**백엔드 서비스의 분석과 설계 - YouTube**](https://www.youtube.com/playlist?list=PLJ1Rqt95dr0FyvtQpYscoPQknOxZ1XEz7)
+* [Software Architecture: It Might Not Be What You Think It Is - InfoQ](https://www.infoq.com/articles/what-software-architecture/)
+  * [Software Architecture: It Might Not Be What You Think It Is - InfoQ | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5613107/5284561)
+  * [아키텍처는 결정(decisions)을 포착하는 일이다](https://brunch.co.kr/@graypool/2429)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
