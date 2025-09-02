@@ -4876,6 +4876,8 @@ NLP
   * [생성 AI로 누구나 작곡가, 음향효과 전문가 될 수 있다!...메타, 오디오 생성 인공지능 '오디오크래프트' 오픈 소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28661)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [Awesome-Korean-Speech-Recognition: 한국어 음성인식 STT API 리스트. 각 성능 벤치마크](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)
+* [chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
+  * [chatterbox_demopage](https://resemble-ai.github.io/chatterbox_demopage/)
 * [~Coqui~](https://coqui.ai/)
   * [coqui](https://github.com/coqui-ai)
   * [TTS 0.16.3 documentation](https://tts.readthedocs.io/)
