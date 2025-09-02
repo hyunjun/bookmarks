@@ -294,6 +294,7 @@ Artificial Intelligence
   * 애비 애미 말은 "됐고!" 하며 짜르고, 아이들이 교실에서 인공지능한테 뭘 그렇게 잘 배울지 모르겠군요
 * [Some thoughts on LLMs and Software Development](https://www.martinfowler.com/articles/202508-ai-thoughts.html)
   * [LLM과 소프트웨어 개발에 대한 몇 가지 생각 | 하베스트](https://harvest.pub/shared/8abdafec-6d35-46d4-9fe6-b3b2ca7ffa72)
+* [이승현 - ☑️ AI겨울은 오지 않는다. AI winter is not coming ☑️ 요즘 들어 AI 버블을... | Facebook](https://www.facebook.com/epoko/posts/pfbid0rscmjUdecrCzPvJz8vJKv9pHN4vQfW2FmFbNQJ4XPCpo5KoJp4tQSmajATgawyPvl)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
