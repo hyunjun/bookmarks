@@ -702,6 +702,7 @@ Artificial Intelligence
     * [제미나이 CLI(Gemini CLI)로 프로메테우스/그라파나 배포하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3239/)
     * [알아두면 쓸모있는 제미나이 CLI(Gemini CLI) 사용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3259/)
     * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
+    * [Gemini CLI, 개조해 보았습니다. - YouTube](https://www.youtube.com/watch?v=_CUZaKgvPJI)
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
       * [구글, 개발자 지원 전방위적 확대...AI 코딩 협업 도구 ‘제미나이 CLI 깃허브 액션’ 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35978)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
