@@ -295,6 +295,11 @@ Artificial Intelligence
 * [Some thoughts on LLMs and Software Development](https://www.martinfowler.com/articles/202508-ai-thoughts.html)
   * [LLM과 소프트웨어 개발에 대한 몇 가지 생각 | 하베스트](https://harvest.pub/shared/8abdafec-6d35-46d4-9fe6-b3b2ca7ffa72)
 * [이승현 - ☑️ AI겨울은 오지 않는다. AI winter is not coming ☑️ 요즘 들어 AI 버블을... | Facebook](https://www.facebook.com/epoko/posts/pfbid0rscmjUdecrCzPvJz8vJKv9pHN4vQfW2FmFbNQJ4XPCpo5KoJp4tQSmajATgawyPvl)
+* [마라톤 끝의 단거리 스퍼트: 2025년의 AI - Speaker Deck](https://speakerdeck.com/inureyes/final-sprint-ai-2025)
+  * [보고서 2025년 상반기의 AI 생태계](https://www.backend.ai/ko/blog/2025-08-AI-Landscape)
+* [캐럿티브 AI챔피언/바이브코딩 AI가 정말 코드를 이해하고 있을까? 왜 AI 에이전트가 코드를 망치는가 - YouTube](https://www.youtube.com/watch?v=53ofL2EAiiQ)
+  * [캐럿티브 AI챔피언/바이브코딩 AI가 정말 코드를 이해하고 있을까? 왜 AI 에이전트가 코드를 망치는가 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5635587/5319031)
+  * [SemCoder: 코드 언어 모델의 의미론적 추론 - NotebookLM](https://notebooklm.google.com/notebook/e2b6592c-97d4-48b6-9512-202bc6a82616?authuser=0&pli=1)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
