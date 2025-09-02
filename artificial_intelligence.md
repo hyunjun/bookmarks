@@ -546,6 +546,7 @@ Artificial Intelligence
   * [Meta, 미국 대상으로 AI 스튜디오 출시 | GeekNews](https://news.hada.io/topic?id=16125)
 * [alphaXiv](https://www.alphaxiv.org/)
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
+* [awesome-generative-ai-guide: A one stop repository for generative AI research updates, interview resources, notebooks and much more!](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 * [awesome-vibecoding: A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between humans and AI is reshaping the future of programming](https://github.com/roboco-io/awesome-vibecoding)
   * [Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 :: ROBOCO](https://roboco.io/posts/vibe-coding-manual/)
   * [바이브 코딩 메뉴얼 - AI 에이전트를 활용한 더 빠르고 스마트한 개발](https://bcho.tistory.com/1467)
