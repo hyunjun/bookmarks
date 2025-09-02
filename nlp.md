@@ -4886,6 +4886,18 @@ NLP
 * [DeepSpeech: DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers](https://github.com/mozilla/DeepSpeech)
   * [DeepSpeech 0.6: Mozilla’s Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
     * [Mozilla, 음성데이터세트 ‘딥스피치(DeepSpeech)’ 공개](http://www.aitimes.kr/news/articleView.html?idxno=11072)
+* [Diffusion-Speech-Tokenizer: This repository contains a series of works on diffusion-based speech tokenizers, including the official implementation of the paper: "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling" https://arxiv.org/pdf/2508.16790](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)
+  * [TaDiCodec · Hugging Face](https://huggingface.co/amphion/TaDiCodec)
+  * TaDiCodec — 초고효율 음성 토크나이저
+    * 1. 특징
+      * Binary Spherical Quantization (BSQ) 방식 → 코드북 손상 없이 안정적
+      * 잠재 벡터(latents)를 단순 이진화 → 이산 토큰으로 변환
+      * 16,384 토큰 규모 코드북
+      * 초저비트레이트: 0.0875 kbps (24 kHz 기준)
+      * Diffusion Autoencoder 아키텍처 기반 → GAN·복잡한 구조 불필요
+    * 2. 의미
+      * 오디오를 수만 배 압축하면서도 음성 품질 유지 가능
+      * 차세대 음성 생성·통신·스트리밍 모델에 핵심 기술로 활용 가능
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * [Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation](https://github.com/SevaSk/ecoute)
 * [ElevenLabs Voice Isolator - 음성만 깨끗하게 분리 | GeekNews](https://news.hada.io/topic?id=15709)
