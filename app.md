@@ -957,6 +957,7 @@ App
 * [Syncthing is a continuous file synchronization program](https://syncthing.net/)
   * [syncthing: Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
   * [싱크띵(Syncthing), 여러 기기간 파일 동기화 애플리케이션 드롭박스 대신 무료로 사용 가능한 오픈소스 프로젝트](https://www.44bits.io/ko/post/syncthink-syncing-file-between-multiple-devices)
+  * [스마트폰 사진, 대용량 업무 파일 동기화 방법. 미니PC Syncthing 홈서버 설치방법 - YouTube](https://www.youtube.com/watch?v=GZKf3XblKUM)
 * [Transfer.sh - Easy File Sharing from Linux Commandline](https://www.tecmint.com/file-sharing-from-linux-commandline/)
 
 # Editor
