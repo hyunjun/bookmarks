@@ -4375,10 +4375,15 @@ NLP
 * [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
 * [SSL-narratives-NLP-1: 거꾸로 읽는 self-supervised learning in NLP](https://github.com/jwkanggist/SSL-narratives-NLP-1)
 * [SSL-NLP 파트1 - YouTube](https://www.youtube.com/playlist?list=PLMSTs9nojhszeFer8gYnEI5yA5JenWzEA)
+* [환각의 불가피성을 증명한 논문들](https://www.linkedin.com/posts/activity-7368110690919698434-W0uE/)
+  * [2401.11817 Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
+  * [2506.06382v2 On the Fundamental Impossibility of Hallucination Control in Large Language Models](https://arxiv.org/abs/2506.06382v2)
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
   * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
   * [DeepConf on vLLM - Minimal Patch & Usage Guide](https://jiaweizzhao.github.io/deepconf/static/htmls/code_example.html)
   * [DeepConf의 핵심은 모델이 각 토큰을 생성할 때 내부적으로 계산하는 확률 분포, 즉 모델의 '확신도(confidence)'에 주목](https://www.linkedin.com/posts/sigridjineth_%EC%B5%9C%EA%B7%BC-llm%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%B6%94%EB%A1%A0-%EB%8A%A5%EB%A0%A5%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%ED%99%95%EC%8B%A4%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9C%BC%EB%A1%9C-activity-7366399602566049796-jnnf/)
+* [2508.19229 StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229)
+  * [LLM 모델이 스스로 '사고 과정(CoT)을 평가하고 개선'](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7368421153805135874-XORP)
 
 # Parser
 
