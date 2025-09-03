@@ -961,6 +961,8 @@ Artificial Intelligence
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
     * 이 SDK는 React/Next.js, Svelte/SvelteKit을 지원하고 Nuxt/Vue도 곧 지원할 예정
     * OpenAI, LangChain, Hugging Face를 지원하고 있어서 모델 제공 업체와 상관없이 SDK 사용 가능
+* [vessel: Orchestrate physical devices with a single platform 🦾](https://github.com/cartesiancs/vessel)
+  * [군용 C2 플랫폼인 안두릴의 오픈소스 대안이 목표인 프로젝트](https://www.linkedin.com/posts/huhhyeongjun_github-cartesiancsvessel-orchestrate-activity-7368580181885612032-n5CE)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
