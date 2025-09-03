@@ -735,6 +735,7 @@ Interview
 * [모든 개발자가 시스템 디자인을 배워야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1745/)
 * [How does gRPC work?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6995426338186665985-ib1-/)
 * [사용량 기반 과금 모델 구현하기: 문제편](https://channel.io/ko/blog/bm-update-problem)
+* [**awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems**](https://github.com/binhnguyennus/awesome-scalability)
 * [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)
   * [System Design Fight Club - YouTube](https://www.youtube.com/@SDFC)
 
