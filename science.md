@@ -179,6 +179,8 @@ Science
     * 3. 병적 게으름에 대한 치료
       * 예전엔 안 그랬는데 요즘 따라 게으르고 미룬다면 병일 가능성 있다
       * 병적 게으름은 증상이기 때문에 치료만 잘 받으면 상당히 호전될 수 있다
+* [뇌과학자로서 이것만은 말리고 싶어요 - YouTube](https://www.youtube.com/watch?v=mP7E_cvdWrQ)
+  * [뇌과학자로서 이것만은 말리고 싶어요 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5650836/5341187)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
