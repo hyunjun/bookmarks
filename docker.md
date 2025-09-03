@@ -401,6 +401,7 @@ Docker
 * [Docker Korea 두번째 모임 : Docker와 로그 & 메트릭스 수집](https://www.youtube.com/watch?v=eFPsz0oCLSs)
 * [Docker Tutorial for Beginners](https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/)
 * [Docker Tutorial — Getting Started with Python, Redis, and Nginx](https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091)
+* [나는 (거의) 모든 것에 Docker를 사용합니다 - YouTube](https://www.youtube.com/watch?v=EQsYN-ALJZU)
 * [Docker, FROM scratch - Aaron Powell](https://www.youtube.com/watch?v=RBnPvQQ36mA)
 * [Docker Machine Guide (VirtualBox on Mac OS X)](http://waterlink.github.io/blog/2015/08/31/docker-machine-guide-virtualbox-mac-os-x/)
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
