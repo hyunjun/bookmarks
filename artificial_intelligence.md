@@ -1623,6 +1623,8 @@ Artificial Intelligence
   * [꼭 알아야하는 클로드 코드 필수 꿀팁 60가지 - YouTube](https://www.youtube.com/watch?v=a1a9wV88MSM)
   * [Turning Claude Code Into My Best Design Partner – Between the Prompts](https://betweentheprompts.com/design-partner/)
     * [Claude Code, 단순 AI 코더가 아닌 최고의 설계 파트너로 만드는 법](https://digitalbourgeois.tistory.com/1842)
+  * [Claude Code를 통한 에이전트 코딩의 미래 - YouTube](https://www.youtube.com/watch?v=iF9iV4xponk)
+    * [The future of agentic coding with Claude Code | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5647463/5335834)
   * [AICX: Claude Code와 Antrophic Batch API를 활용하여 고객 채팅 상담 분석하기 | by 허원진 | How we build Myrealtrip | Aug, 2025 | Medium](https://medium.com/myrealtrip-product/aicx-claude-code%EC%99%80-antrophic-batch-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B3%A0%EA%B0%9D-%EC%B1%84%ED%8C%85-%EC%83%81%EB%8B%B4-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-b077ddf21917)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
