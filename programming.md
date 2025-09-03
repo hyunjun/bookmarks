@@ -2644,6 +2644,8 @@ Programming
     * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
 * [How to manage transactions in Distributed Systems and Microservices? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/how-to-manage-transactions-in-distributed-systems-and-microservices-d66ff26b405e)
 * [Distributed patterns compared: Frameworks vs. K8s vs. Service Mesh vs. eBPF by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=QpU_qHN4MWo)
+* [Beyond the Cloud: The Local-First Software Revolution • Brooklyn Zelenka & Julian Wood - YouTube](https://www.youtube.com/watch?v=IT7Gw98q_cg)
+  * [Beyond the Cloud: The Local-First Software Revolution • Brooklyn Zelenka & Julian Wood | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5640541/5326736)
 * [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
   * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
   * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
