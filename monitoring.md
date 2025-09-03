@@ -285,6 +285,7 @@ Monitoring
 * [lmnr: Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24](https://github.com/lmnr-ai/lmnr)
   * [Laminar - LLM앱을 위한 오픈소스 Observability & 분석 플랫폼 | GeekNews](https://news.hada.io/topic?id=18329)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
+* [Middleware - A Fullstack & AI-powered Cloud Observability Platform](https://middleware.io)
 * [nestjs-grafana](https://github.com/MinChangJeong/nestjs-grafana)
   * [실시간 로그와 메트릭 모니터링: Grafana, Loki, Promtail, Prometheus 통합하기](https://jminc00.tistory.com/91)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
@@ -348,8 +349,9 @@ Monitoring
 
 # Observability
 * [cncf/tag-observability: Technical Advisory Group for Observability 🔭⚙️](https://github.com/cncf/tag-observability/tree/main)
-  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)
+  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)    
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
+* [ What is Observability 2.0](https://middleware.io/blog/observability-2-0/)
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)
 * [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
 * [Monitoring의 현재와 미래, 그리고 Observability | by KC | Dec, 2022 | Medium](https://blog.cloudacode.com/monitoring%EC%9D%98-%ED%98%84%EC%9E%AC%EC%99%80-%EB%AF%B8%EB%9E%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-observability-ab7babbc6d28)
