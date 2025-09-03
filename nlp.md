@@ -1406,6 +1406,7 @@ NLP
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
+  * [system_prompts_leaks/OpenAI/gpt-5-thinking.md at main · asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/blob/main/OpenAI/gpt-5-thinking.md)
 * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Prompt Engineering | Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
   * [구글 프롬프트 엔지니어링 백서 바이브 코딩 관련 내용 요약 :: ROBOCO](https://roboco.io/posts/google-prompt-engineering-whitepaper/)
