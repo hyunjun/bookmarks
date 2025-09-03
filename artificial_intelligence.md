@@ -2052,6 +2052,7 @@ Artificial Intelligence
   * [Built for Vector Search - Qdrant](https://qdrant.tech/articles/dedicated-vector-search/)
 * [Underneath the most common vector DB library (HNSW) is Beam search](https://www.linkedin.com/posts/softwaredoug_beam-search-wikipedia-activity-7325489899875311616-32Zd/)
   * [Build a vector database from scratch](https://maven.com/p/866f13/doug-live-codes-a-vector-database)
+* [김진중 - 기술의 발전에 따라 기존 문제의 해결 방법이 달라져야한다. RAG에 있어 벡터 서치가 유망하게 떠올랐지만,... | Facebook](https://www.facebook.com/hacker.golbin/posts/pfbid0K2Dj5cpFznCQemfzWY7GAX8FSXPCafSU7r8GvhM4Y36hg2nrW9K28rL7bePck5c9l) vector search vs. keyword search / BM25
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
