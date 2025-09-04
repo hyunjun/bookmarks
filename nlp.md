@@ -2377,6 +2377,7 @@ NLP
       * 모델에 사용된 데이터양, 60조 토큰을 사용하는 6조 모델에 대해 논의되었고 100조 토큰까지 필요할 수 있다고 언급
       * 데이터가 부족한지에 대해 다른 면을 논의하며, 사전 훈련이 충분하지 않을 때 파인튜닝이 필요한 시점을 결정하는 것에 대해 설명
       * 마지막 부분은 사전훈련을 위해 팁 공유
+* [AI 모델의 IO-bound vs Compute-bound 개념과 분석 방법 | MinGyu Kim](https://www.linkedin.com/posts/mingyu84_ai-%EB%AA%A8%EB%8D%B8%EC%9D%98-io-bound-vs-compute-bound-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B6%84%EC%84%9D-%EB%B0%A9%EB%B2%95-activity-7369153476469129216-1emK)
 * [State of the art in LLMs + Robotics - 2023 - hlfshell](https://hlfshell.ai/posts/llms-and-robotics-papers-2023/)
 * [Testing LLM models on Jetson Xavier NX #ollama #LLM #Jetson #NVIDIA - YouTube](https://www.youtube.com/watch?v=FJ6laH7hq9c)
 * ["인간의 언어/지식을 넘어선 Language Model"에 대한 생각의 묶음](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2269327740074938&hoisted_section_header_type=recently_seen)
