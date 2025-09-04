@@ -388,6 +388,14 @@ Artificial Intelligence
   * 태스크 병렬화: 작업을 나누어 효율 극대화
   * 실전 코드 예시
   * MCP 분석 및 다양한 아키텍처 패턴
+* [Event-Driven Agent Mesh. What is an Agent? | by Hubert Dulay | Medium](https://medium.com/@hubert.dulay/event-driven-agent-mesh-be29f1c36932)
+  * AI 에이전트(Agent): 사용자를 대신해 작업을 수행하는 자율 시스템으로, 간단한 챗봇에서부터 복잡한 의사결정 시스템까지 포함
+  * 에이전트 메시(Agent Mesh): 이벤트 기반 아키텍처(EDA)의 개념을 도입한 구조로, 여러 자율 에이전트가 독립적으로 특화된 작업을 수행하면서 상호 협력할 수 있게 설계된 네트워크
+    * 이 구조의 주요 장점:
+    * 실시간 데이터에 기반한 빠른 의사결정
+    * 대규모 자동화 및 고처리량 데이터 처리에 최적화
+    * 에이전트의 유연한 참여/퇴장과 확장성
+    * 복잡한 작업을 작고 전문화된 단위로 분할해 각 에이전트가 효율적으로 처리
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
