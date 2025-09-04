@@ -1704,6 +1704,7 @@ Artificial Intelligence
   * [Vibe Check: Codex—OpenAI’s New Coding Agent](https://every.to/chain-of-thought/vibe-check-codex-openai-s-new-coding-agent)
     * [Seung Joon Choi - Codex 개발자와의 대담 코딩 에이전트 격전이라고 볼 수 있네요.... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0xCjKEbpDmyF9hkbpgWyCME6Ah8jgk1m2tkqhSuHtmjodQhMdFai2inxnvzT8Speil)
   * [소프트웨어 개발의 미래 - OpenAI Codex 소개 - YouTube](https://www.youtube.com/watch?v=ZyIjLz6mPm8)
+  * [클로드 코드보다 좋아져버렸다는 Codex CLI - YouTube](https://www.youtube.com/watch?v=QPHzCpO67qY)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
