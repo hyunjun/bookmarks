@@ -2797,6 +2797,9 @@ Programming
     * 분석과 설계, 구현의 전 과정에서 일관성 있게 사용되는 언어
     * 기술을 모르는 도메인 전문가라도 개발자가 작성한 코드를 보여주면서 그 안에 담긴 도메인 로직을 설명할 때 그게 이해될 수 있어야
 * ["전략적 설계(Strategic Design)는 복잡한 시스템, 대규모 조직, 외부 시스템 및 레거시 시스템과의 상호작용에서 발생하는 상황을 다룹니다. 이 절에서는 시스템 전체에 적용되는 세 가지 원칙—컨텍스트(context), 정제(distillation), 대규모 구조(large-scale structure)—를 살펴봅니다. 전략적 설계 결정은 팀 단위로, 때로는 여러 팀 간에 이루어집니다. 전략적 설계를 통해 제1부에서 제시한 목표들을 더 큰 규모에서, 즉 방대한 기업 네트워크에 속한 대형 시스템이나 애플리케이션 수준에서 실현할 수 있습니다."](https://www.linkedin.com/posts/tobyilee_%EC%A0%84%EB%9E%B5%EC%A0%81-%EC%84%A4%EA%B3%84strategic-design%EB%8A%94-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%A1%B0%EC%A7%81-activity-7309141163251228672-dvzi/)
+* [Domain analysis for microservices - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
+  * [DDD는 전략적 패턴을 지나치게 소홀히 여기는 실수와 잘못 이해하는 실수를 반복하고 있다](https://www.linkedin.com/posts/fupfin_domain-analysis-for-microservices-azure-activity-7369221126998118401-1GKf)
+  * "일반적인 원칙으로, 마이크로 서비스는 집합체 하나 보다 작아서는 안되고 한정된 맥락보다 커서도 안된다(As a general principle, a microservice should be no smaller than an aggregate and no larger than a bounded context)."
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
