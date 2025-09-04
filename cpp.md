@@ -357,6 +357,9 @@ C++
     * 원시 루프란 ‘반복문에 구현된 알고리즘보다 함수가 더 큰 목적을 수행하는 경우의 해당 반복문’
       * 함수에 반복문 대신 표준 라이브러리 함수를 가져다 쓸 수 있다면 라이브러리를 써서 코드를 정리하도록 권장
 * [Can C++ be 10x Simpler & Safer? - Herb Sutter - CppCon 2022 - YouTube](https://www.youtube.com/watch?v=ELeZAKCN4tY)
+* [C++ in Constrained Environments - Bjarne Stroustrup - CppCon 2022 - YouTube](https://www.youtube.com/watch?v=2BuJjaGuInI)
+  * [C++ in Constrained Environments - Bjarne Stroustrup - CppCon 2022 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5663508/5360515)
+  * [C++ 창시자가 결국 인정한 프로그래밍의 진실 - YouTube](https://www.youtube.com/watch?v=0Axt9OOhvsQ)
 
 # IDE
 * CLion
