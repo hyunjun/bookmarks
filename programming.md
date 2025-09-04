@@ -2516,6 +2516,9 @@ Programming
   * [아키텍처는 결정(decisions)을 포착하는 일이다](https://brunch.co.kr/@graypool/2429)
 * [Breaking the Architecture Bottleneck • Andrew Harmel-Law & Marit van Dijk • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=zl5U8KO28rM)
   * [Breaking the Architecture Bottleneck • Andrew Harmel-Law & Marit van Dijk • GOTO 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5634691/5317521)
+* [My dad taught me the difference between cheap and frugal...It made me a better engineer](https://www.thefrugalarchitect.com/architects/craig-link-zillow.html)
+  * [아버지로부터 배운 절제와 최적화의 미학…그 가르침은 저를 더 나은 엔지니어로 성장시켰습니다.](https://www.notion.so/whchoi98/26204ef7e60e802c911aff512d4696d6)
+  * 검소한 시스템 설계(Frugal Architecture)는 단기간에 완성되는 것이 아니라 반복 학습을 통해 체화되는 능력
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
