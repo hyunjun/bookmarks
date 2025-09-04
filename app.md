@@ -2071,6 +2071,8 @@ App
     * [슬랙봇 이모티콘 제작소 개발 그 뒷이야기!! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/lily-slack-emojibot/)
     * [운영 업무 효율성 향상을 위한 자동화 슬랙봇 개발 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-bot-improving-operational-efficiency/)
     * [사내 기술 공유 슬랙봇 앙몬드 개발기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-angmondbot/)
+    * [개발자가 업무 외에 회사에 기여할 수 있는 방법(feat. 척척박사 봇, 카카오페이 용어집) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/dictionary-bot/)
+    * [변수명..변수명이 떠오르지 않아! - "너의 변수명은." 챗봇 개발 일지 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/variable-name-bot-haero-sery-bread/)
     * [슬랙봇 디자인 101](https://toss.tech/article/22439)
     * [Slack Bot in Scala and 12 Ways to Run It | by Voytek Pituła | Aug, 2023 | Medium](https://medium.com/@w.pitula/slack-bot-in-scala-and-12-ways-to-run-it-8b5f2d9f3524)
     * [슬랙봇을 활용한 기술 블로그 배포 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/10/slack-bot/)
