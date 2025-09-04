@@ -2562,6 +2562,7 @@ App
   * [Obsidian Keyboard Shortcuts](https://keycombiner.com/collections/obsidian/)
   * [옵시디언 어려우셨던분들 꼭 보세요! 클로드 MCP의 엄청난 기능.옵시디언 노트 작성부터 유튜브 요약까지 (AI 팟캐스트 #57) @cmdspace @hero_system - YouTube](https://www.youtube.com/watch?v=NQYzjrJ7jKY)
   * [옵시디언 - MCP Server](https://jusths.tistory.com/489)
+  * [최고의 새로운 Core Obsidian 플러그인: Bases - YouTube](https://www.youtube.com/watch?v=acrVqy-qHyg)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
