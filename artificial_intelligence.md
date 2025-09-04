@@ -396,6 +396,7 @@ Artificial Intelligence
     * 대규모 자동화 및 고처리량 데이터 처리에 최적화
     * 에이전트의 유연한 참여/퇴장과 확장성
     * 복잡한 작업을 작고 전문화된 단위로 분할해 각 에이전트가 효율적으로 처리
+* [새로운 콴다 Agent는 어떻게 만들어졌을까?. 콴다는 왜 달라졌을까? Backend 팀의 Agent 설계 이야기 | by Dave Kwon | Aug, 2025 | Team QANDA](https://blog.mathpresso.com/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BD%B4%EB%8B%A4-agent%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-0788a7b37b6e)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
