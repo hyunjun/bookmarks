@@ -71,6 +71,7 @@ Travel
 # 한국
 * [한국 관광 100선](www.mustgo100.or.kr/)
 * [2만원 이하로 서울서 행복해지는 방법 7](http://www.huffingtonpost.kr/terence-kim/2-_b_6989706.html)
+* [3분 만에 매진😮 요즘 가장 핫한 휴가지 수락휴 | 총총견문록 4K - YouTube](https://www.youtube.com/watch?v=CtwPHO1-xgE)
 * [외국느낌 99% 국내 이국적 여행지 best7](https://story.kakao.com/ch/bestip/fZCUQZFnOe0)
 * [Michelin guide - Seoul 2020](https://androidkr.blogspot.com/2019/12/michelin-guide-seoul-2020.html)
 * [고즈넉한 멋이 살아있는 한옥호텔 5 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252215)
