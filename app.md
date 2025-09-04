@@ -2525,6 +2525,7 @@ App
 * [marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
   * [MarkText - 오픈소스 마크다운 편집기 | GeekNews](https://news.hada.io/topic?id=5630)
 * [marp - Markdown Presentation Ecosystem](https://marp.app/)
+  * [marp: The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
 * MDCat [A python script which uses the GitHub API to convert your markdown files to GitHub styled HTML site](https://pythonawesome.com/a-python-script-which-uses-the-github-api-to-convert-your-markdown-files-to-github-styled-html-site/)
 * [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)

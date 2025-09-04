@@ -83,6 +83,7 @@ Presentation
 * [Marp](https://yhatt.github.io/marp/) presentation by markdown
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
   * [개발자를 위한 PPT 발표앱을 찾았다...! - YouTube](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
+  * [개발자를 위한 PPT, Marp 사용 후기 - YouTube](https://www.youtube.com/watch?v=HxpmYNVI73c)
 * [Mousepose](http://bedreams.tistory.com/46)
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
