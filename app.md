@@ -113,6 +113,8 @@ App
   * [프레이머 시작하는 방법 (with 3년 리뷰) - YouTube](https://www.youtube.com/watch?v=UzVbas0SR3E)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
+* [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/)
+  * [완전 무료! 아이폰 → 윈도우, 맥북 다 됨! 아이폰 사진, 파일 더 쉽게 보내는 방법 - YouTube](https://www.youtube.com/watch?v=AB-AcDFgPwc)
 * [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
