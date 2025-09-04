@@ -571,6 +571,8 @@ Programming
   * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
 * [작은 조직에서 개발문화를 제안했던 경험과 알아두면 좋을 느낀점 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/culture/%EC%9E%91%EC%9D%80-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EB%A5%BC-%EC%A0%9C%EC%95%88%ED%96%88%EB%8D%98-%EA%B2%BD%ED%97%98%EA%B3%BC-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%84-%EB%8A%90%EB%82%80%EC%A0%90/) github action으로 PR과 test 연결
 * [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과 :: Channy's Blog](https://channy.creation.net/blog/1600)
+* [The Amusement Park for Engineers - Colossus](https://joincolossus.com/article/the-amusement-park-for-engineers/) 엔지니어링 문화 및 조직 구조
+  * [Anduril의 제품 엔지니어링 머신 | GeekNews](https://news.hada.io/topic?id=22858)
 * [좋은 개발 조직을 구별하는 12가지 질문들 | Daniel Lee](https://typefully.com/dylayed/a1I3jnP)
 * [페이스북은 어떻게 배포하는가? – IT의 중심에서](https://subokim.wordpress.com/2022/06/12/how_facebook_work/) 오래된 이야기지만, 개발자 중심 문화
   * [페이스북은 어떻게 배포하는가 | GeekNews](https://news.hada.io/topic?id=6740)
