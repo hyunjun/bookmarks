@@ -313,6 +313,8 @@ Json
 * quicktype [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)
 * [REN is simple yet powerful data storage, exchange and notation format](https://github.com/humanistic/REN)
+* [The simdjson library](https://simdjson.org/)
+  * [simdjson: Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks](https://github.com/simdjson/simdjson)
 * [sondra - A validated JSON manager and REST API generator for Python, Flask, and RethinkDB](https://github.com/JeffHeard/sondra)
 * [spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://github.com/dcmoura/spyql)
   * [json_bench.ipynb - Colaboratory](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb)
