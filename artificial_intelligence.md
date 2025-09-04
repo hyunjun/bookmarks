@@ -1339,6 +1339,9 @@ Artificial Intelligence
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
 * [AI 버블과 작별인사하고, 다가오는 붕괴에 대비하세요 | GeekNews](https://news.hada.io/topic?id=22667)
+* [There's a Stunning Financial Problem With AI Data Centers](https://futurism.com/data-centers-financial-bubble)
+  * [Wontae Lee - 현재 AI 데이터센터의 심각한 경제적 문제점을 다루는 기사. 즉 핵심 문제점은 경제적... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid05xCAU8qg2LoTRLcE62Zzvr39gmjsSoMTfssxv4FmzrNcfuNfs36AuKcxch3Tg12al)
+  * [Dongsoo Lee - 새로운 돌파구가 필요한 AI 서비스 비용 문제 AI 서비스 비용 문제는 이제 산업... | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0bNP8bBRa6uwbNkxDgCPUU5Vzy2g3Tt2hL9ZCwptZhYvkjF1g9YUA9jmnTussuiQjl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
