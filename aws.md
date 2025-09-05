@@ -2103,6 +2103,9 @@ AWS
 * [Rust On AWS (Really FAST Lambdas) - YouTube](https://www.youtube.com/watch?v=EqV5wKD233c)
 * [Rust Linz, July 2021 - Stefan Baumgartner - Serverless Rust - YouTube](https://www.youtube.com/watch?v=EXqqsCss8Gk)
 * [Build an AWS Lambda in Rust (2021) - YouTube](https://www.youtube.com/watch?v=PmtwtK6jyLc)
+* [Rust + Serverless: The High-Performance Myth EXPOSED - YouTube](https://www.youtube.com/watch?v=SYUUNO3M6zw)
+  * [Rust + Serverless: The High-Performance Myth EXPOSED | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5678116/5383115)
+  * [High Performance Serverless with Rust - InfoQ](https://www.infoq.com/presentations/serverless-rust-aws/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
