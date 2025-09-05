@@ -118,6 +118,7 @@ Game
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
 * [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
+* [magictools: :video_game: A list of Game Development resources to make magic happen](https://github.com/ellisonleao/magictools)
 * [micropolisJS - 오리지널 심시티 클론 | GeekNews](https://news.hada.io/topic?id=6105)
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
