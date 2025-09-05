@@ -973,6 +973,7 @@ Artificial Intelligence
   * [strands-agent: It shows how to use strands agent.](https://github.com/kyopark2014/strands-agent)
   * [Strands agent는 Q Developer의 근간이 되는 agent로서 복잡한 요청을 reasoning을 이용해 수행하고 MCP도 연결할 수 있으며, supervisor와 swarm과 같은 multi agent도 구현할 수 있습니다. 근래에 LangGraph이 지나치게 비대해지는 느낌인데, 충분히 대체가능한 솔루션으로 보입니다](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_strands-mcp-agent-activity-7330226395630960640-IY8R/)
   * [MCP로 AWS의 Kubernetes 서비스인 EKS에 노드를 생성하고, 여기에 Streamlit으로된 Chatbot Application을 배포할 수 있습니다. | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_aws-strands-agent-ugcPost-7347672854814969856-SNri)
+* [tradeoffs.md at S2020 · ckaestne/seai](https://github.com/ckaestne/seai/blob/S2020/lectures/07_tradeoffs/tradeoffs.md)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
