@@ -301,6 +301,8 @@ Artificial Intelligence
   * [캐럿티브 AI챔피언/바이브코딩 AI가 정말 코드를 이해하고 있을까? 왜 AI 에이전트가 코드를 망치는가 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5635587/5319031)
   * [SemCoder: 코드 언어 모델의 의미론적 추론 - NotebookLM](https://notebooklm.google.com/notebook/e2b6592c-97d4-48b6-9512-202bc6a82616?authuser=0&pli=1)
 * [‘바이브옵스(VibeOps)’로 운영 생산성 극대화하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3325/)
+* [Tornike Onoprishvili | Code is Debt](https://tornikeo.com/code-is-debt/)
+  * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
