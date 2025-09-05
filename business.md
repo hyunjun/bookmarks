@@ -169,6 +169,7 @@ Business
   * 객단가는 한 명의 고객이 브랜드에 지출하는 총 금액, 이는 판매하는 상품이나 서비스의 조합과 전략에 따라 달라질 수도
   * 또한, 업계 평균가가 아닌 고객에게 어떤 가치를 제공하는지에 초점을 맞추어 가격을 설정해야 한다고 강조
   * 기존 고객을 유지하고 재구매를 유도하기 위해 한 번 더 판매하고 묶어서 판매하는 전략 소개
+* [Van Westendrop Pricing Model: Questions + Analysis](https://www.surveyking.com/help/van-westendorp-analysis)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [고객들은 'ChatGPT 스타일'을 원하는 게 아니라 'ChatGPT 편의성'을 원하는](https://www.linkedin.com/posts/dohwan-kim-b76a38299_%EC%9A%B0%EB%A6%AC%EB%8F%84-chatgpt-%EA%B0%99%EC%9D%80-%EA%B1%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94-%EA%B3%A0%EA%B0%9D%EC%82%AC-%EB%AF%B8%ED%8C%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-activity-7343420164517875713-Lp4a/)
