@@ -1243,6 +1243,8 @@ Machine Learning
   * ['책임 있는 AI' 설계 가이드… 마이크로소프트 HAX의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/203244)
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
+* [InterpretML](https://interpret.ml/)
+  * [interpret: Fit interpretable models. Explain blackbox machine learning.](https://github.com/interpretml/interpret/)
 * [interviews.ai: It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well](https://github.com/BoltzmannEntropy/interviews.ai)
   * [딥러닝 인터뷰 북 401P e북 PDF | GeekNews](https://news.hada.io/topic?id=5722)
 * [Kobra | A visual programming language for machine learning (in beta)](https://kobra.dev/)
