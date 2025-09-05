@@ -1395,7 +1395,9 @@ Git
     * GitHub의 이슈를 댓글 시스템으로 쓰는 Utterances가 있는데 최근에는 GitHub의 디스커션으로 댓글 시스템도 출시
     * Utterances도 좋긴 하지만 제약이 좀 있어서 Giscus를 설정하고 수동으로 마이그레이션하는 방법을 정리한 글
   * [Giscus 댓글, 텔레그램 (Telegram) 으로 알람 받기](https://jojoldu.tistory.com/705)
-* [Git Annex](https://git-annex.branchable.com/design/iabackup/)
+* [git-annex](https://git-annex.branchable.com/)
+  * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
+  * [git-annex - Git 사용자를 위한 대용량 파일 관리 도구 | GeekNews](https://news.hada.io/topic?id=22906)
 * [gitamine: A graphical user interface for git](https://github.com/pvigier/gitamine)
   * [Commit Graph Drawing Algorithms | pvigier’s blog](https://pvigier.github.io/2019/05/06/commit-graph-drawing-algorithms.html)
     * 글쓴이의 Design and implementation of a graphical user interface for git라는 석사 논문의 일부
