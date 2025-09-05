@@ -604,6 +604,8 @@ Programming Language
   * [Modverse Weekly - Issue 27](https://www.modular.com/newsletters/modverse-weekly-27)
   * [MojoFastTrim](https://github.com/MoSafi2/MojoFastTrim)
   * [Mojo Programming for Beginners - YouTube](https://www.youtube.com/playlist?list=PLLlTVphLQsuN6dYoDkDzBM4vETjRwKSry)
+  * [High Performance AI in the Real World with Modular – Mojo Vision and Roadmap - YouTube](https://www.youtube.com/watch?v=I0_XvXXlG5w)
+    * [High Performance AI in the Real World with Modular – Mojo Vision and Roadmap | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5677573/5382301)
 * ["Morel, a functional query language" by Julian Hyde - YouTube](https://www.youtube.com/watch?v=smUm3C5q2IM)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
