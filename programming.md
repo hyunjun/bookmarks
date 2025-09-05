@@ -5043,6 +5043,7 @@ Programming
   * [10분 만에 만드는 AI 에이전트! 자동화 끝판왕 기초 강의 🚀 - YouTube](https://www.youtube.com/watch?v=h4xKl9GMfTI)
   * [노코드 자동화 n8n + MCP로 나만의 AI 카톡 비서 만들기! (클로드 활용, 15분 완성) - YouTube](https://www.youtube.com/watch?v=XNQvED-iKUg)
   * [왜 n8n이 AI 자동화 끝판왕인지 보여드리겠습니다.공식 MCP지원으로 클로드 자동화 l n8n korea 커뮤니티 박정기(AI 팟캐스트 #58) @anyway-n8n - YouTube](https://www.youtube.com/watch?v=u9uZNZukhlU)
+  * [awesome-n8n-templates: Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.](https://github.com/enescingoz/awesome-n8n-templates)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
