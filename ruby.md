@@ -115,6 +115,8 @@ Ruby
   * [서비스 중단없이 루비 버전 2.6 업그레이드 하기](https://medium.com/daangn/서비스-중단없이-루비-버전-2-6-업그레이드-하기-db8991c19050)
   * [gem install error](https://jybaek.tistory.com/896)
   * [Gemfile.lock의 PLATFORMS 환경 통일하기 (feat. Gem) :: iOYES](https://green1229.tistory.com/360)
+* [RubyMine Is Now Free for Non-Commercial Use | The RubyMine Blog](https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/)
+  * [RubyMine이 이제 비상업적 용도로는 무료 사용 가능 | GeekNews](https://news.hada.io/topic?id=22888)
 * [ruby-packer: Packing your Ruby application into a single executable](https://github.com/pmq20/ruby-packer)
 * [rubyspeed: Compile ruby functions to C](https://github.com/agrafix/rubyspeed)
 * [scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
