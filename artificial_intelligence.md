@@ -1527,6 +1527,7 @@ Artificial Intelligence
 * [skywork.ai](https://skywork.ai/)
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
+  * [스토리텔AI로 10초 만에 운영전략 보고서 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3326/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
 * [surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
   * [0$ 데이터 자산화의 좋은 시작점이 되어줄 Surya 오픈소스 라이브러리](https://www.linkedin.com/posts/h4y3j1n_upstage-activity-7361683055100485632-z-pJ/)
