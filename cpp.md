@@ -221,6 +221,8 @@ C++
 * [구글의 C++는 왜 효과적일까? (코드 독자를 위한 최적화) - YouTube](https://www.youtube.com/watch?v=nmqJ_4tyw94)
 * [번창하는 C++ 오늘날 AI, 금융, 항공우주를 이끌다 (7가지 게임 체인저 기능) - YouTube](https://www.youtube.com/watch?v=140FxsZCqYw)
 * [왜 리눅스 창시자는 C++를 싫어할까? (커널 개발에서 C++의 숨겨진 위험) - YouTube](https://www.youtube.com/watch?v=j6m7D72nOmE)
+* [Compiler Explorer](https://godbolt.org/z/eEfqs3Es8)
+  * [Compiler Explorer - C++ | Maxim Nazarenko | 댓글 35](https://www.linkedin.com/posts/maxim-nazarenko-7b657888_compiler-explorer-c-activity-7368605816918163457-DdsM/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
