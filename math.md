@@ -171,6 +171,8 @@ Math
 
 # Library
 * [KATEX - The fastest math typesetting library for the web](https://khan.github.io/KaTeX/)
+* [Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
+  * [이상선 - 클릭 몇 번으로 수학 문제 해결하기 학생들을 위한 간단한 AI 수학 도우미, 어려운 문제를 직관적이고... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid031KyLEQh4mFAMinVxsabr953nTub7eyBjzwYZGjz8XjbnNTqKKePXySe8njGhjmr4l)
 
 # Linear Algebra
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
