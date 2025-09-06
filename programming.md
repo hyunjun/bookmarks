@@ -2651,6 +2651,36 @@ Programming
 * [Distributed patterns compared: Frameworks vs. K8s vs. Service Mesh vs. eBPF by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=QpU_qHN4MWo)
 * [Beyond the Cloud: The Local-First Software Revolution • Brooklyn Zelenka & Julian Wood - YouTube](https://www.youtube.com/watch?v=IT7Gw98q_cg)
   * [Beyond the Cloud: The Local-First Software Revolution • Brooklyn Zelenka & Julian Wood | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5640541/5326736)
+* [Linear sent me down a local-first rabbit hole | Bytemash](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+  * 전통적인 웹 앱:
+    * Client → HTTP → Server → DB → Response → Client
+  * Local-First / 동기화 방식:
+    * Client → Local DB → UI 업데이트
+    *           ↓ (비동기) Sync 엔진 → 서버 → 다른 클라이언트
+    * 로컬 데이터베이스를 사용함으로써 네트워크 지연을 제거하고, UI 반응을 즉각적으로 만들어 사용자 경험을 획기적으로 개선
+  * 구현의 현실적 난이도, 주요 기술적 도전 과제
+    * 오프라인/온라인 전환 처리
+    * 분산된 클라이언트 간 충돌 해결
+    * 전체 데이터가 아닌 일부만 동기화하는 방식 설계
+    * 캐시된 데이터의 스키마 마이그레이션
+    * 분산 시스템에서의 보안 및 접근 제어
+  * 실제 활용 가능한 Local-First 도구들
+    * Electric SQL (Postgres 기반)
+    * PowerSync (엔터프라이즈용)
+    * Jazz
+    * Replicache (오리지널, 현재는 RIP)
+    * Zero (Replicache 팀의 새 접근 방식)
+    * Triplit (TripleStore 기반)
+    * Instant (개발자 경험 중심)
+    * LiveStore (Electric 등과 결합 가능한 리액티브 레이어)
+  * Local-First 패턴이 적합한 경우 vs 그렇지 않은 경우
+
+    | **좋은 적합 사례**       | **어려운 적용 사례**                                       |
+    | ------------------ | --------------------------------------------------- |
+    | 디자인·글쓰기·음악 등 창작 도구 | 서버 중심 비즈니스 로직이 많은 시스템                               |
+    | 협업 도구              | 엄격한 감사(audit) 요구사항 있는 곳                             |
+    | 오프라인 지원이 필요한 모바일 앱 | 대규모 분석 데이터 처리 시스템                                   |
+    | 개발자 도구, 개인 생산성 앱   | 기존 깊은 통합 시스템 또는 서버 거부 로직 있는 곳   ([bytemash.net][1]) |
 * [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
   * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
   * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
@@ -7176,6 +7206,7 @@ Programming
   * [8월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/08/b-8-2.html)
   * [8월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/08/b-8-3.html)
   * [8월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/08/b-8-4.html)
+  * [9월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/09/b-9-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
