@@ -2813,6 +2813,7 @@ AWS
 * [AWS 루트 엑세스키 생성하기 (Create AWS Root Access Key) | by rex.chun | Medium](https://medium.com/@7424069/aws-%EB%A3%A8%ED%8A%B8-%EC%97%91%EC%84%B8%EC%8A%A4%ED%82%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-7cce0966f112)
 * [AWS root access key를 사용하면 안되는 이유 - rex.chun - Medium](https://medium.com/@7424069/aws-root-access-key%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-508f97a043a0)
 * [AWS Delete the access keys. Now you can use Roles Anywhere! (feat, Terraform) | by rex.chun | Medium](https://medium.com/@7424069/aws-delete-the-access-keys-now-you-can-use-rolesanywhere-feat-terraform-e52dae120f73)
+* [Pacu: 클라우드 엔지니어를 위한 AWS 공격적 보안 테스팅 프레임워크](https://velog.io/@lufianlee/pacu)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
 # TDD, Test
