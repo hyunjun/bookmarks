@@ -867,6 +867,7 @@ Artificial Intelligence
     * [AutoBE We made AI Friendly Compilers for Vibe Coding (open-source backend vibe coding agent) - DEV Community](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-491k)
     * [뤼튼테크놀로지스에서 혁신적인 Backend No-code Agent AutoBE를 개발하여 오픈소스로 공개](https://www.facebook.com/groups/codingeverybody/permalink/30724263520520791/)
     * [autobe-example-bbs: AutoBE Generation Example - BBS (Bullet-in Board System)](https://github.com/wrtnlabs/autobe-example-bbs)
+    * [autobe-example-todo-qwen3-235b-a22b: AutoBE Generation Example - To Do List (by `qwen3-235b-a22b-2507`)](https://github.com/wrtnlabs/autobe-example-todo-qwen3-235b-a22b)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
   * [awesome-mcp-servers: A collection of MCP servers](https://github.com/punkpeye/awesome-mcp-servers)
   * [Claude can now connect to your world \ Anthropic](https://www.anthropic.com/news/integrations)
