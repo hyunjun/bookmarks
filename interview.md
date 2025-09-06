@@ -962,6 +962,17 @@ Interview
 * [**알고리즘 학습에 대한 조언**](http://blog.weirdx.io/post/55358) 매우 좋은 글
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [30 seconds of interviews](https://30secondsofinterviews.org/)
+* [BigDevSoon | Level up your Frontend skills](https://bigdevsoon.me/)
+  * [bigdevsoon (BigDevSoon)](https://github.com/bigdevsoon)
+  * 프론트엔드 개발자들을 위한 트레이닝 플랫폼 — BigDevSoon
+    * 1. 특징
+      * 총 100개 챌린지 제공
+      * 단순한 UI 과제부터 완성형 프로젝트 빌드까지
+      * 대부분의 기능과 과제는 무료 이용 가능
+    * 2. 장점
+      * 실무 감각을 키울 수 있는 단계별 훈련
+      * 포트폴리오용 프로젝트 제작에도 적합
+      * 난이도별로 꾸준히 실력을 쌓을 수 있음
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
 * [Data Interview Qs](https://www.interviewqs.com)
 * [Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
