@@ -3586,6 +3586,7 @@ Business
 * [스타트업 제품 개발 계획 수립 가이드 - 한빛+](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS7002878448)
 * [모바일 컨텐츠 이야기 :: 금융과 커뮤니티 사이, 토스뱅크](http://www.mobizen.pe.kr/1474)
 * [한성희 - 제품 단순화가 스타트업 성공에 중요한 이유 스티브 잡스는 단순한 박스 형태의 목업을 만들고, 나사 하나까지... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid02zeevgWRoC4NhjK58XRkok2SEkJUG52xWStKBRiMQiBTECpTmi44FbCbrCWvbiowJl)
+* [Net Promoter Score (NPS): The Ultimate Guide - Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
