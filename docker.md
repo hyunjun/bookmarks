@@ -2969,6 +2969,8 @@ Docker
   * [Podman vs Docker in 2024: What's Really Different? - YouTube](https://www.youtube.com/watch?v=SIvoAOpXZPg)
   * [It's Making Me REPLACE Docker... - YouTube](https://www.youtube.com/watch?v=Gft9e1o3Hgg)
   * [Stop Using Docker. Use Open Source Instead - YouTube](https://www.youtube.com/watch?v=Z5uBcczJxUY)
+  * [Switching from Docker to Podman](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
+    * [내가 Docker에 Podman으로 전환한 이유 | GeekNews](https://news.hada.io/topic?id=22931)
   * [podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
     * [Leverage Podman with a Desktop App | Podman Desktop](https://podman-desktop.io/)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
