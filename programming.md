@@ -9186,6 +9186,20 @@ Programming
 * [테스트 코드 도입을 위한 여정 🫠](https://velog.io/@brince/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EB%8F%84%EC%9E%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95)
 * [소프트웨어QA 포럼](https://qaforum.kr/)
 * [TDD가 캡슐화를 망치는 이유 (그리고 유닛 테스트를 똑똑하게 하는 법) - YouTube](https://www.youtube.com/watch?v=vXw0bn4KNvY) 테스트하려면 모든 메서드를 인터페이스로 만들어야 한다? 이건 OOP의 핵심인 캡슐화를 무너뜨리는 잘못된 접근
+* [OpenAI Acquires Statsig, Appoints Vijaye Raji as CTO of Applications - Daily AI Brief](https://dailyaibrief.com/news/openai-acquires-statsig-appoints-vijaye-raji-cto-WMD4lx3K)
+  * [전종홍 - 며칠 전 뉴스이긴 하지만 OpenAI가 테스팅 전문기업인 Statsig을 11억달러(1조5400억원)에 전액... | Facebook](https://www.facebook.com/1biit/posts/pfbid02T7pmQoqPurqE6BaEoa2VYbazJ4w3DRfYFiN2QzeYn66p8yfSziYgf2XYUR8f2uhzl)
+    * Statsig는 기능 플래그·A/B 테스트·제품 분석·세션 리플레이를 하나로 묶은 “제품 개발 OS”
+      * Warehouse-native(자체 데이터웨어하우스에서 분석) 옵션도 있어 대규모 엔터프라이즈에 적합
+      * OpenAI는 “이미 내부에서 Statsig를 사용해 빠른 학습·출시를 해왔다”던 상태
+    * LLM 제품은 오프라인 벤치마크만으로 품질을 담보하기 어려워 실제 사용자 트래픽에서의 온라인 실험/관측(Observability)이 필수
+      * Statsig의 다중지표·롤백·점진 롤아웃 등 “안전한 빠른 배포”의 표준 툴링 제공이 필요했을꺼라는 예측
+    * 이번 합병의 의미
+      * 1) 제품 속도(velocity) 무기화
+        * 모델 성능이 비슷해질수록 차별점은 실험 속도·주기·학습 루프에 좌우
+        * Statsig 내재화로 ChatGPT/엔터프라이즈/교육/코딩에이전트 등의 기능 실험→측정→개선 사이클을 더 촘촘히 운영 가능
+      * 2) 신뢰·품질 라인의 제도화
+        * OpenAI가 라지의 책임 범위에 “Integrity”를 명시. 이는 안전 지표·가드레일 평가·해킹/오용 탐지 같은 온라인 품질 통제를 제품 파이프라인에 깊게 박겠다는 신호(사용자 조사 기반의 안전/품질 지표를 A/B 지표로 끌어오는 설계)
+        * Optimizely·LaunchDarkly·GrowthBook 등 실험/플래깅 생태계는 빅테크-모델랩의 내재화 흐름을 더 강하게 체감할 것. 경쟁사(예: Anthropic·Google)도 실험 스택 내재화/제휴를 서두를 가능성이 클 것으로 예상
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
