@@ -1741,6 +1741,8 @@ Python
 * [async for 구문의 작동 원리 · Wireframe](https://soooprmx.com/async-for-%ea%b5%ac%eb%ac%b8%ec%9d%98-%ec%9e%91%eb%8f%99-%ec%9b%90%eb%a6%ac/)
 * [Python has had async for 10 years -- why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
   * [파이썬 Async, 왜 아직 주류가 아닐까? | GeekNews](https://news.hada.io/topic?id=22864)
+* [**Python 기반의 ML 라이브러리는 어떻게 Rust로 작성되어진 비동기 구현체와 연결되어 있을까?**](https://kr.linkedin.com/pulse/python%EA%B3%BC-rust%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%84%B8%EA%B3%84%EB%A5%BC-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B8%8C%EB%A6%BF%EC%A7%80%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C-sigrid-jin--pzxoc)
+  * [Python 기반의 ML 라이브러리는 어떻게 Rust로 작성되어진 비동기 구현체와 연결되어 있을까? | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84-%EC%88%98%EB%A7%8E%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%93%A4%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-activity-7370389934920114176-WYcB)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
