@@ -292,6 +292,8 @@ Artificial Intelligence
 * [나는 현재 전 세계에서 "극우"가 늘어나고 있는 배경에는 "문해력의 부족"이 있다고 생각합니다. 내가 어렸을 때만 하더라도, 대부분 집에서는 신문을 받아 보고 있었고, 책도 사봤습니다. 신문은 한 눈에 모든 헤드라인과 기사가 눈에 보이고, 책도 페이지를 주욱 넘기는 맛이 있어서, 그 자체가 "편식"할 수 없는 구조였죠. 하지만, 현재는, 손바닥 만한… | Myungjip KIM](https://www.linkedin.com/posts/myungjip-kim-546352239_%EB%82%98%EB%8A%94-%ED%98%84%EC%9E%AC-%EC%A0%84-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B7%B9%EC%9A%B0%EA%B0%80-%EB%8A%98%EC%96%B4%EB%82%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94-%EB%AC%B8%ED%95%B4%EB%A0%A5%EC%9D%98-%EB%B6%80%EC%A1%B1%EC%9D%B4-activity-7367452539216171009-HGjp)
   * 아무튼, 우리는 문해력이 부족한 시대를 살고 있습니다. 우리가 일상에서 편리성과 유희를 위해 쓰고 있는 전자기기와 인공지능 노출이 톡톡한 공을 했습니다. 우리는 이제 한 술 더 떠서, 초등학교에까지 인공지능을 집어 넣어서 교육을 하겠다는 사회에 살고 있습니다
   * 애비 애미 말은 "됐고!" 하며 짜르고, 아이들이 교실에서 인공지능한테 뭘 그렇게 잘 배울지 모르겠군요
+* [I’m a High Schooler. AI Is Demolishing My Education. - The Atlantic](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/)
+  * [저는 고등학생 입니다. AI가 제 교육을 무너뜨리고 있어요 | GeekNews](https://news.hada.io/topic?id=22908)
 * [Some thoughts on LLMs and Software Development](https://www.martinfowler.com/articles/202508-ai-thoughts.html)
   * [LLM과 소프트웨어 개발에 대한 몇 가지 생각 | 하베스트](https://harvest.pub/shared/8abdafec-6d35-46d4-9fe6-b3b2ca7ffa72)
 * [이승현 - ☑️ AI겨울은 오지 않는다. AI winter is not coming ☑️ 요즘 들어 AI 버블을... | Facebook](https://www.facebook.com/epoko/posts/pfbid0rscmjUdecrCzPvJz8vJKv9pHN4vQfW2FmFbNQJ4XPCpo5KoJp4tQSmajATgawyPvl)
@@ -1722,6 +1724,7 @@ Artificial Intelligence
     * [Seung Joon Choi - Codex 개발자와의 대담 코딩 에이전트 격전이라고 볼 수 있네요.... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0xCjKEbpDmyF9hkbpgWyCME6Ah8jgk1m2tkqhSuHtmjodQhMdFai2inxnvzT8Speil)
   * [소프트웨어 개발의 미래 - OpenAI Codex 소개 - YouTube](https://www.youtube.com/watch?v=ZyIjLz6mPm8)
   * [클로드 코드보다 좋아져버렸다는 Codex CLI - YouTube](https://www.youtube.com/watch?v=QPHzCpO67qY)
+  * [Xcode용 AI 코딩 어시스턴트 Alex, OpenAI Codex에 합류 | GeekNews](https://news.hada.io/topic?id=22940)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
