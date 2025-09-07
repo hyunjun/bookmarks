@@ -954,6 +954,7 @@ Artificial Intelligence
 * [phidata: Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI](https://github.com/phidatahq/phidata)
   * [Agents - Phidata](https://docs.phidata.com/agents)
   * [🛠️Phidata Agents: 코드 4줄로 완성하는 강력한 AI 에이전트 프레임워크](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8FPhidata-Agents-%EC%BD%94%EB%93%9C-4%EC%A4%84%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EA%B0%95%EB%A0%A5%ED%95%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+* [pocket-server: An OS for your agents, built for your pocket](https://github.com/yayasoumah/pocket-server)
 * [Praison AI: AI Agency - Unlock the Power of AI for Your Business](https://praison.ai/)
   * [PraisonAI Code: AI 코딩 혁신! 이젠 전체 코드 베이스와 대화하세요!(feat. 제미나이) 💬🚀](https://fornewchallenge.tistory.com/entry/PraisonAI-Code-AI-%EC%BD%94%EB%94%A9-%ED%98%81%EC%8B%A0-%EC%9D%B4%EC%A0%A0-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94feat-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%F0%9F%92%AC%F0%9F%9A%80)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
@@ -1663,6 +1664,7 @@ Artificial Intelligence
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
+  * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
       * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
