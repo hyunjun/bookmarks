@@ -3379,6 +3379,8 @@ NLP
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
+* [LLM Visualization](https://bbycroft.net/llm)
+  * [LLM 시각화 | GeekNews](https://news.hada.io/topic?id=22925)
 * lmarena.ai [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
   * [이게 무료라고? 하루 만에 전 세계 뒤집은 나노 바나나 사용 방법 - YouTube](https://www.youtube.com/watch?v=ebfajXrhRkw)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
