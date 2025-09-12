@@ -263,6 +263,7 @@ Artificial Intelligence
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
 * [AI 로 만든 여행 일정 서비스, 부족한 데이터로 시작한 실험 | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/ai-%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EC%A1%B1%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%8B%A4%ED%97%98-919296cec080)
 * [여행 검색 경험 향상을 위한 AI 활용. 여행을 준비할 때 우리는 숙소, 투어, 액티비티, 입장권 등 다양한… | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%97%AC%ED%96%89-%EA%B2%80%EC%83%89-%EA%B2%BD%ED%97%98-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-ai-%ED%99%9C%EC%9A%A9-7b92f85e6566)
+* [3명의 개발팀이 만든 24시간 일하는 AI 동료. 부사수도 없는 작은 팀에서 일해본 경험이 있나요? 그렇다면 이런 상황은… | by Donghoon Lee (Panda) | How we build Myrealtrip | Sep, 2025 | Medium](https://medium.com/myrealtrip-product/3%EB%AA%85%EC%9D%98-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%B4-%EB%A7%8C%EB%93%A0-24%EC%8B%9C%EA%B0%84-%EC%9D%BC%ED%95%98%EB%8A%94-ai-%EB%8F%99%EB%A3%8C-0eea38d33153)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -305,6 +306,8 @@ Artificial Intelligence
 * [‘바이브옵스(VibeOps)’로 운영 생산성 극대화하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3325/)
 * [Tornike Onoprishvili | Code is Debt](https://tornikeo.com/code-is-debt/)
   * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
+* [Scalable and Effective Generative Information Retrieval](https://obsidian-blog-gilt.vercel.app/paper-review/Scalable%20and%20Effective%20Generative%20Information%20Retrieval/)
+  * [벡터DB는 가라! 이제 "생성형" 검색의 시대가 온다](https://www.linkedin.com/posts/jeffrey-dongkyu_scalable-and-effective-generative-information-activity-7371181988592140288-kBJR)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -401,6 +404,7 @@ Artificial Intelligence
     * 에이전트의 유연한 참여/퇴장과 확장성
     * 복잡한 작업을 작고 전문화된 단위로 분할해 각 에이전트가 효율적으로 처리
 * [새로운 콴다 Agent는 어떻게 만들어졌을까?. 콴다는 왜 달라졌을까? Backend 팀의 Agent 설계 이야기 | by Dave Kwon | Aug, 2025 | Team QANDA](https://blog.mathpresso.com/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BD%B4%EB%8B%A4-agent%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-0788a7b37b6e)
+* [Small Language Models are the Future of Agentic AI 최근 LLM 혁신의 흐름을 살펴보면 거의 모든 레이어에서 동시에 변화가 일어나고 있다. Chain-of-Thought(COT), reasoning, 강화학습 기반 후처리, 데이터 필터링과 합성까지 다양한 접근법이 등장하고 있다. 그 가운데 지난 2년간 가장… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -411,7 +415,12 @@ Artificial Intelligence
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
+* [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno/tree/main)
+  * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
+  * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
+* [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
+  * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
 * [Chain-of-Agents Interesting idea to train a single model with the capabilities of a multi-agent system. 84.6% reduction in inference cost! Distillation and Agentic RL are no joke! Here are my… | Elvis S. | 댓글 10](https://www.linkedin.com/posts/omarsar_chain-of-agents-interesting-idea-to-train-ugcPost-7363952245383524353-J-Tj/)
   * [Agent Foundation Model](https://chain-of-agents-afm.github.io/)
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
@@ -756,6 +765,7 @@ Artificial Intelligence
   * [✨구글 Gemma 2 분석: 최신 오픈소스 모델로 무료 챗봇 만들기 🤖🔓](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%EA%B5%AC%EA%B8%80-Gemma-2-%EB%B6%84%EC%84%9D-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%AC%B4%EB%A3%8C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%F0%9F%A4%96%F0%9F%94%93)
   * [소소한 코딩 화면 공유 - Google gemma2 서버 만들기 - YouTube](https://www.youtube.com/watch?v=8nPpLqGQNIw)
   * [Gemma3:1b, 4b, 12b, 27b 비교 - YouTube](https://www.youtube.com/watch?v=IyfhWzanyeY)
+  * [Tracing the Architectural Evolution of Gemma | by Krupa Galiya | Aug, 2025 | Medium](https://medium.com/@krupagaliya/tracing-the-architectural-evolution-of-gemma-8f95e410e6fc)
   * [DataGemma: AI open models connecting LLMs to Google’s Data Commons](https://blog.google/technology/ai/google-datagemma-ai-llm/)
     * [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
       * [Park Chansung - Google에서 Gemma 모델 패밀리에 새롭게 추가한 DataGemma Google... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid0uKPfBUM824kWZHb9hQQE8toRYUcKLpTC5Sngt1EZ2UHLTRC3VQDxAj7AeR7cavxDl)
@@ -971,6 +981,11 @@ Artificial Intelligence
   * [screenshot-to-code: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)](https://github.com/abi/screenshot-to-code)
 * [senior-care-agent: Senior Care Agent Recipe using LiveKit & Twilio](https://github.com/Marker-Inc-Korea/senior-care-agent)
   * [AI Agent로 독거노인 안부전화까지? 실제로 구현](https://www.linkedin.com/posts/taehalim_voiceai-livekit-openai-ugcPost-7341067060782764032-o3Da/)
+* [skypilot: Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).](https://github.com/skypilot-org/skypilot/)
+  * [Welcome to SkyPilot! — SkyPilot documentation](https://docs.skypilot.co/)
+* [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
+  * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+  * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
 * [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
   * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
 * [Stanford Webinar - Agentic AI: A Progression of Language Model Usage - YouTube](https://www.youtube.com/watch?v=kJLiOGle3Lw)
@@ -1080,6 +1095,8 @@ Artificial Intelligence
       * 이제는 *비구조화, 준구조화 및 구조화된 데이터를 사용하여 자동화*하는 작업에 집중하고 있으며, 데이터 정리와 자동화에 초점
       * 데이터 발견하고 정리하며, 그 데이터와 대화, 해당 데이터를 *하위 인사이트 및 분석*에 활용 가능하게 하는 *자동화된 데이터 curation* 작업에 중점
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
+* [E41: Jessica Chiew of Canva on Building AI-Native GTM Org - YouTube](https://www.youtube.com/watch?v=wI3FzuZFC20)
+  * [Canva가 GTM팀을 AI Naitve 조직으로 만든 방법 많은 조직들이 AI 도입에 어려움을 겪고 있습니다. “전 직원이 AI를 활용해야 한다”는 막연한 목표를 세우지만 실제로는 진전이 없거나, 수많은 AI 도구들 중 어떤 것을 선택해야 할지 혼란스러워합니다. 특히 기존 업무가 바쁜 상황에서 언제 AI를 학습하고 적용할 시간을 확보할 것인지, 외부… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_canva%EA%B0%80-gtm%ED%8C%80%EC%9D%84-ai-naitve-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-%EB%A7%8E%EC%9D%80-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-activity-7370564799027597312-S65C)
 * [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트](https://harvest.pub/shared/2d68d69e-71b9-4e7c-a8e6-b6ae9e591448)
   * [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트 | Taeho Kim](https://www.linkedin.com/posts/xissy_chatgpt%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%B9%A0%EB%A5%B8-%EC%84%B1%EC%9E%A5-lovable-ai%EC%9D%98-%EB%B9%84%EB%B0%80-ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-activity-7366736093104308225-v_og)
 * [(광고) 스켈터레터 AI 에이전트, 기업도 쓸 수 있나요? 🥹](https://skelterlabs.stibee.com/p/22/)
