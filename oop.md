@@ -289,6 +289,8 @@
 * [Dependency Inversion vs. Dependency Injection | by Guy Erez | Feb, 2022 | Better Programming](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 * [From dependency injection to dependency rejection](https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
 * [Loosely-coupled 그리고 스프링 프레임워크](https://brunch.co.kr/@graypool/512)
+* [Dependency Injection Revisited by Juergen Hoeller @ Spring I/O 2025 - YouTube](https://www.youtube.com/watch?v=AvZEoxH_wGo)
+  * [10년만에 해결된 이슈](https://www.linkedin.com/pulse/10%EB%85%84%EB%A7%8C%EC%97%90-%ED%95%B4%EA%B2%B0%EB%90%9C-%EC%9D%B4%EC%8A%88-springrunner-aojvc)
 * [DI 적용도 생각하는 힘과 함께 하자](https://brunch.co.kr/@graypool/520)
 * [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
 * [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
