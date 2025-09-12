@@ -594,6 +594,7 @@ Scala
 * [Migrating event sourced Akka application from CockroachDB to AlloyDB | LinkedIn](https://www.linkedin.com/pulse/migrating-event-sourced-akka-application-from-cockroachdb-alloydb-wqgvf/)
 * [What to do with your End Of Life Akka?](https://softwaremill.com/what-to-do-with-your-end-of-life-akka/)
 * [Benchmarking database sharding in Akka | Lightbend](https://www.lightbend.com/blog/benchmarking-database-sharding-in-akka)
+* [Devs + AI: From Feature Request to Pull Request (Akka Internal Demo Session) - YouTube](https://www.youtube.com/watch?app=desktop&v=hhHY1ssdJys)
 * [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
