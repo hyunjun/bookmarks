@@ -2570,6 +2570,7 @@ AWS
   * [Amazon Q Developer 를 이용한 엑심베이의 JDK 자동화 업그레이드 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/q-developer-eximbay-journey/)
     * [엑심베이의 JDK 1.8 → 17 업그레이드 여정](https://www.linkedin.com/posts/saintkim4_amazon-q-developer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%97%91%EC%8B%AC%EB%B2%A0%EC%9D%B4%EC%9D%98-jdk-%EC%9E%90%EB%8F%99%ED%99%94-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-activity-7360573704432504832-Q6X3/)
 * [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
+* [AWS Q 해커톤을 참여하며](https://aimb.tistory.com/330)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
@@ -2757,6 +2758,7 @@ AWS
 * [Amazon Data Firehose와 S3Tables를 활용한 실시간 스트리밍 데이터 파이프라인 소개](https://www.linkedin.com/posts/sungminkim23_s3tables-apacheiceberg-datafirehose-activity-7322804616977383425-S0-Y/)
   * [aws-kr-startup-samples/analytics/streaming-data-to-s3tables-with-datafirehose at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/analytics/streaming-data-to-s3tables-with-datafirehose)
   * [saas-metering-system-on-aws/v3 at main · aws-samples/saas-metering-system-on-aws · GitHub](https://github.com/aws-samples/saas-metering-system-on-aws/tree/main/v3)
+* [AWS S3 Data Transfer to GCS support Storage Transfer Service](https://seonggi.kr/282)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
@@ -3039,6 +3041,7 @@ AWS
 * [gitops-bridge-dev](https://github.com/gitops-bridge-dev)
   * [EKS GitOps Bridge](https://flavono123.oopy.io/posts/eks-gitops-bridge)
   * [Gitops Bridge를 통한 멀티클러스터 구성 자동화](https://hanhorang.tistory.com/6)
+  * [Terraform + GitOps Bridge로 누구나 딸깍 인프라 구축기 🚀 | by Yonghyun Kim | Sep, 2025 | Medium](https://medium.com/@baramboys0615/terraform-gitops-bridge%EB%A1%9C-%EB%88%84%EA%B5%AC%EB%82%98-%EB%94%B8%EA%B9%8D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-f8d076599c58)
 * [OpenTofu](https://opentofu.org/)
   * [테라폼의 포크버전 OpenTF가 OpenTofu로 이름을 변경 | GeekNews](https://news.hada.io/topic?id=10975)
   * [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
