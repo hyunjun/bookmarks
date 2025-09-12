@@ -734,6 +734,7 @@ Business
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
+* [Offpiste - 피터의 법칙과 성장이 멈춘 직장인의 특징](https://www.offpiste.ai/articles/%ED%94%BC%ED%84%B0%EC%9D%98-%EB%B2%95%EC%B9%99%EA%B3%BC-%EC%84%B1%EC%9E%A5%EC%9D%B4-%EB%A9%88%EC%B6%98-%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%8A%B9%EC%A7%95-473)
 * [Cultivate a growth mindset for a prosperous New Year - CEOWORLD magazine](https://ceoworld.biz/2020/12/15/cultivate-a-growth-mindset-for-a-prosperous-new-year/)
 * [How Microsoft Uses a Growth Mindset to Develop Leaders](https://hbr.org/2016/10/how-microsoft-uses-a-growth-mindset-to-develop-leaders)
 * [Growth mindset by Thanasis Kokkas - YouTube](https://www.youtube.com/watch?v=g8sibkyMUWo)
@@ -2842,6 +2843,7 @@ Business
   * [최고의 회사는 독재처럼 움직인다 | 하베스트](https://harvest.pub/shared/90270a61-d07e-40dd-86fb-aa0c32fbaadc)
 * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) - YouTube](https://www.youtube.com/watch?v=88alBtMMbeg)
   * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5436050/5020100)
+* [#리더십 #리더십스킬맵 #leaderskillmap #leadershipmap | 백종화](https://www.linkedin.com/posts/elfpenguin_reeqyssxh-reeqyssxhswmtnqrfz-leaderskillmap-activity-7370817849407430657-EoNe)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3577,6 +3579,9 @@ Business
 * [앤드류 응이 제안하는 AI 제품 개발 방식](https://brunch.co.kr/@yongjinjinipln/156)
   * 구체적인 아이디어가 장점 < 잘못된 편향의 리스가 더 크다고 생각한다고 함
   * 나는 잘 이해가 안 감. 모호하고 넓은 아이디어가 어떤 면에서 더 좋은 걸까?
+* [**How to Build AI Product Strategy (By OpenAI’s Product Lead)**](https://www.thevccorner.com/p/ai-product-strategy-openai-guide)
+  * [**AI 제품 전략 수립 방법 | GeekNews**](https://news.hada.io/topic?id=22985)
+* [AI B2C 창업팀이 던져야 할 질문 - by 브라이언(장동욱) - 브라이언의 이어지는 이야기](https://briandwjang.substack.com/p/ai-b2c)
 * [프로덕트 디자이너가 본 '더 인플루언서'](https://jayoung.blog/theinfluencer/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 1편. BX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-1/)
 * [이걸 진짜 만든다고요? 세상에 없던 게임, 샐러드게임 | 2편. UX | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-saladgame-2/)
@@ -4367,6 +4372,7 @@ Business
         * 브랜드는 여러분이 그 방에 없을 때 사람들이 하는 말
     * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
   * [상위 조직장의 관심](https://jojoldu.tistory.com/822)
+  * [💡 ‘창업가’ 모드에 대한 착각 : ‘창업가 모드’는 독재가 아니고, 권한 위임은 인위적 책임 분배가 아니다.](https://www.linkedin.com/pulse/%EC%B0%BD%EC%97%85%EA%B0%80-%EB%AA%A8%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B0%A9%EA%B0%81-%EB%AA%A8%EB%93%9C%EB%8A%94-%EB%8F%85%EC%9E%AC%EA%B0%80-%EC%95%84%EB%8B%88%EA%B3%A0-%EA%B6%8C%ED%95%9C-%EC%9C%84%EC%9E%84%EC%9D%80-%EC%9D%B8%EC%9C%84%EC%A0%81-%EC%B1%85%EC%9E%84-%EB%B6%84%EB%B0%B0%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-heecheol-moon-cahlc)
 * [‘스타트업 창업자=경영자’ 공식, 맞는 걸까? < Wheel of Fortune < Magazine < 기사본문 - 포춘코리아 디지털 뉴스](https://www.fortunekorea.co.kr/news/articleView.html?idxno=42979)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
