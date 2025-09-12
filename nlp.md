@@ -1577,7 +1577,8 @@ NLP
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 * [Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications. Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers](https://github.com/microsoft/prompty)
 * [smarter-prompt: 모두의AI에서 제공하는 SMART+ER Prompt](https://github.com/modu-ai/smarter-prompt)
-* [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/tree/main)
+* [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/)
+  * [나만의 AI agent 서비스를 개발 중이시라면, 이 오픈소스를 꼭 참고하세요! 🤖 OpenAI, Anthropic, Google 등 유명 LLM 챗봇 서비스들의 프롬프트를 비교 분석하고, AI 에이전트 설계에 활용해 보실 수도 있을 거예요. System Prompts Leaks 라는 오픈소스인데, 현재 7개 대형 회사의 프롬프트를 제공합니다. API… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_%EB%82%98%EB%A7%8C%EC%9D%98-ai-agent-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A4%91%EC%9D%B4%EC%8B%9C%EB%9D%BC%EB%A9%B4-%EC%9D%B4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%98%EC%84%B8%EC%9A%94-activity-7369096013514539008-YKPs)
 
 ## ChatBot Python
 
@@ -2127,6 +2128,11 @@ NLP
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
 * [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
 * [Why Large Language Models Hallucinate and How to Reduce it If you are a power user of ChatGPT you have probably been bitten by the hallucination bug. The LLM lulls you into getting comfortable with it and then springs a convincing but totally made-up story, playing you for a… https://t.co/CP5GxbNpJr / X](https://twitter.com/bindureddy/status/1699975747786641855)
+* [Why language models hallucinate | OpenAI](https://openai.com/index/why-language-models-hallucinate/)
+  * [2509.04664 Why Language Models Hallucinate](https://www.arxiv.org/abs/2509.04664)
+  * [LLM의 환각, 피할 수 없다면 관리하세요. - Deskroom | 블로그](https://blog.deskroom.so/platform/why-language-models-hallucinate)
+  * [최근 OpenAI에서 발표한 연구 “Why Language Models Hallucinate”는 LLM이 자신이 알지 못하는 정보에 대해서도 답변을 생성하는 구조적 원인을 밝혔습니다](https://www.linkedin.com/posts/%EA%B2%BD%ED%98%B8-%EB%B0%95-3b978ba5_llm%EC%9D%98-%ED%99%98%EA%B0%81-%ED%94%BC%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4%EB%A9%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EC%84%B8%EC%9A%94-deskroom-%EB%B8%94%EB%A1%9C%EA%B7%B8-activity-7370969204797132800-JC2l)
+  * [LLM - OpenAI 가 알려주는 할루시네이션의 이유?, Why Language Models Hallucinate 따끈한 논문 리뷰](https://velog.io/@qlgks1/why-language-models-hallucinate)
 * [hallucination으로 인한 Air Canada의 챗봇 손해배상 사건](https://www.linkedin.com/posts/jae-hong-e-93368248_%EB%B2%95%EC%A0%9Cbrief24-3-%EC%BA%90%EB%82%98%EB%8B%A4-%EC%B1%97%EB%B4%87-%EC%86%90%ED%95%B4%EB%B0%B0%EC%83%81-%EC%82%AC%EA%B1%B4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EB%82%B4%EC%9A%A9-%EB%B0%8F-activity-7171470902704893953-xKZk/)
 * [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [Large Language Models: From Prototype to Production — Ines Montani - YouTube](https://www.youtube.com/watch?v=ZjjgMiCU8s4)
@@ -3453,6 +3459,10 @@ NLP
   * [평생 공짜! 내 PC에 챗GPT 비슷한 인공지능 LLM 설치 방법 | Msty - YouTube](https://www.youtube.com/watch?v=WhuyVpiHIcU)
   * [MSTY를 사용한 카카오 kanana 모델 로.. : 네이버블로그](https://blog.naver.com/ulsancoding/223790524681)
 * [MyChatGPT: The ultimate PyQt6 application that integrates the power of OpenAI, Google Gemini, Claude, and other open-source AI models](https://github.com/hyun-yang/MyChatGPT)
+* [MyLLM: "LLM from Zero to Hero: An End-to-End Large Language Model Journey from Data to Application!"](https://github.com/silvaxxx1/MyLLM)
+  * [MyLLM/Modules at main · silvaxxx1/MyLLM](https://github.com/silvaxxx1/MyLLM/tree/main/Modules)
+  * [MyLLM/myllm at main · silvaxxx1/MyLLM](https://github.com/silvaxxx1/MyLLM/tree/main/myllm)
+  * [Building LLMs from Scratch: My Journey and Resources | Mohammed Sedeg님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/mohammed-sedeg-67444b307_llm-deeplearning-rlhf-activity-7369168887025745920-g6G8)
 * [NExT-GPT](https://next-gpt.github.io/)
   * [NExT-GPT: Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model](https://github.com/NExT-GPT/NExT-GPT)
 * [offsetbias: Official implementation of "OffsetBias: Leveraging Debiased Data for Tuning Evaluators"](https://github.com/ncsoft/offsetbias)
@@ -5195,6 +5205,7 @@ NLP
 * [Identifying Lexico-Semantic Word Relations — A Beginner’s Guide | by Karan Praharaj | Towards Data Science](https://towardsdatascience.com/identification-of-lexico-semantic-word-relations-a-beginners-guide-427ed331e287)
 * [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=_K7ZuZi0gXE)
 * [고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B3%25A0%25EC%25B0%25A8%25EC%259B%2590-%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%25A9%25EC%2597%2590%25EC%2584%259C-%25EB%25B2%25A1%25ED%2584%25B0-%25EC%259C%25A0%25EC%2582%25AC%25EB%258F%2584%25EB%25A5%25BC-%25ED%258C%258C%25ED%2597%25A4%25EC%25B9%2598%25EA%25B8%25B0-jin-hyung-park-bvjsc/) 임베딩 기반 검색에서 높은 유사도 점수가 얼마나 중요한 시그널이 될 수 있는지
+* [임베딩의 이론과 실무: 한계와 효율을 동시에 바라보기](https://www.linkedin.com/pulse/%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%98-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%ED%95%9C%EA%B3%84%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B8%B0-%EB%8C%80%EA%B3%A4-%EC%9C%A0-gk0ic)
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
