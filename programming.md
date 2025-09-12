@@ -998,6 +998,7 @@ Programming
 * [비개발자도 개발을 배우는 것이 좋을까... '매우 강력하게 추천'](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EA%B2%83%EC%9D%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%9D%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C%EB%8A%94-%EC%B0%AC%EC%84%B1%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%8F%84-%EC%9E%88%EA%B3%A0-activity-7236994698425298944-JcMZ/)
 * [제품개발을 주저하는 비개발자를 위해 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4)
 * [간단한 스크립트라면 메모리 걱정은 안 해도 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3254/) OOM out of memory 메모리 누수 메모리 릭
+* [선언적 프로그래밍에 대한 착각과 오해](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)
 
 # Agile, Scrum
 * book
@@ -1929,6 +1930,8 @@ Programming
 * [글로벌 칼럼 | 클라우드 아키텍트는 AI로 대체될까? - ITWorld Korea](https://www.itworld.co.kr/news/274585)
 * [Confessions of an Enterprise Architect • Scott Shaw • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=I1IrRu2SD90)
 * [The Role of a System Architect - DEV Community](https://dev.to/jesalg/the-role-of-a-system-architect-1pgl)
+* [Who Needs An Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
+  * [소프트웨어 아키텍트가 필요한가? – Martin Fowler의 이야기](https://www.linkedin.com/pulse/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-martin-fowler%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-toby-lee-ldcke) 아키텍트는 “답을 내려주는 사람”이 아니라, 팀이 더 좋은 답을 찾게 도와주는 사람
 * [VDBUH2024 - Simon Brown - Five things every developer should know about software architecture - YouTube](https://www.youtube.com/watch?v=wcrloUXSFgY) architect
   * [VidiGo VDBUH2024 - Simon Brown - Five things every deve](https://vidigo.ai/share/summary/f821f67b51d4)
   * [VDBUH2024 - Simon Brown - 모든 개발자가 소프트웨어 아키텍처에 대해 알아야 할 5가지 사항 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526804)
@@ -2519,6 +2522,7 @@ Programming
 * [My dad taught me the difference between cheap and frugal...It made me a better engineer](https://www.thefrugalarchitect.com/architects/craig-link-zillow.html)
   * [아버지로부터 배운 절제와 최적화의 미학…그 가르침은 저를 더 나은 엔지니어로 성장시켰습니다.](https://www.notion.so/whchoi98/26204ef7e60e802c911aff512d4696d6)
   * 검소한 시스템 설계(Frugal Architecture)는 단기간에 완성되는 것이 아니라 반복 학습을 통해 체화되는 능력
+* [소프트웨어 아키텍트가 필요한가? – Martin Fowler의 이야기](https://www.linkedin.com/pulse/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-martin-fowler%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-toby-lee-ldcke)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
@@ -4363,6 +4367,7 @@ Programming
 * [Want Cleaner Code? Use the Rule of Six](https://davidamos.dev/the-rule-of-six/)
   * [클린코드를 위한 6의법칙 - 개발블로그로 영어공부하기 - YouTube](https://www.youtube.com/watch?v=aGcXiH1Nfmo)
 * [CleanCode 읽기 좋은 코드로 변경시키기 예제](https://www.couchcoding.kr/blogs/couchcoding/%5BCleanCode%5D%20%EC%9D%BD%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B3%80%EA%B2%BD%EC%8B%9C%ED%82%A4%EA%B8%B0%20%EC%98%88%EC%A0%9C)
+* [2025의 클린 코드 @ 쓰리빌리언 - Google Slides](https://docs.google.com/presentation/d/13gGoAEEDFHPjvRRBm-6XIPe-tjXa5PBfGmyq33llsrc/mobilepresent?slide=id.g261f0782c07_0_0)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2673/)
@@ -5903,8 +5908,9 @@ Programming
   * [AI와 데브옵스가 제품 제작 방식을 바꾸는 방법 - Marko Klemetti - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/590156)
 * [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
   * [DevOps에 대한 추도사 | GeekNews](https://news.hada.io/topic?id=15604)
-* [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
+* [한국 게임사는 대부분 DEV-OPS 와 내부 QA 에 가치를 두지 않을까.](https://techartnomad.tistory.com/576)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+* [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [HUBOT | Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency](https://hubot.github.com/)
@@ -9564,6 +9570,8 @@ Programming
 * [Google Cloud Service Health](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
   * [The Google Cloud outage on Jun12th 2025 had a significant impact on various GCP services and impacted products at OpenAI, Spotify, and Cloudflare](https://www.linkedin.com/feed/update/urn:li:activity:7340525180361838592/)
     * [exponential back-off은, 그냥 하면 되는 게 아니고 randomness를 주는 게 중요](https://www.linkedin.com/posts/spike-jee-480225a_googlecloud-activity-7340810500236091396-F4Ps/)
+* [npm 동네에 또 사고가 터졌나보다. 예전에는 어떤 패키지 오너가 자기 패키지를 삭제해 버려서 자바스크립트를 쓰는 수많은 회사들에서 난리가 났었는데, 이번에는 누군가가 작정하고 해킹을 했나보다. 이런 사건이 계속 터지는 건, npm 및 그와 유사한 시스템들이 구조상 근본적인 취약점을 가지고 있기 때문이 아닌가. 현대의 파퓰러한 소프트웨어 기술들 및… | Spike Jee](https://www.linkedin.com/posts/spike-jee-480225a_npm-%EB%8F%99%EB%84%A4%EC%97%90-%EB%98%90-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%84%B0%EC%A1%8C%EB%82%98%EB%B3%B4%EB%8B%A4-%EC%98%88%EC%A0%84%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%98%A4%EB%84%88%EA%B0%80-%EC%9E%90%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-activity-7371565046436605952-KP21)
+  * [🚨 긴급 npm 생태계 대규모 보안 침해: 20억 다운로드 패키지 악성코드 감염 | 김남용](https://www.linkedin.com/posts/twodragon_%EA%B8%B4%EA%B8%89-npm-%EC%83%9D%ED%83%9C%EA%B3%84-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B3%B4%EC%95%88-%EC%B9%A8%ED%95%B4-20%EC%96%B5-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-activity-7371476965255540736-Xxqm)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
