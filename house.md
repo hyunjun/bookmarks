@@ -66,6 +66,7 @@ House
 * [판치는 전세사기, 이걸 모르면 전세 보증금 한 푼도 못 돌려 받아요 (구해줘월부 부동산상담) - YouTube](https://www.youtube.com/watch?v=staIMEiWLJo)
 * [전세 계약 때 근저당 말소 조건 넣고 입주 후 등본 떼어보니 그대로 있는 근저당. 그제야 뭐가 잘못됐다 싶었죠. 전세 계약 꼼꼼하게 작성하는 법｜전세사기 깡통전세｜#골라듄다큐 - YouTube](https://www.youtube.com/watch?v=OKvO53iJ1Do)
 * [전셋집 경매 진행되는데…보증금 받을 수 있을까 | 한국경제](https://www.hankyung.com/thepen/moneyist/article/202306305086Q)
+* [못 받은 전셋값 이렇게 받자…변호사가 말하는 ‘안전 회수 전략’](https://v.daum.net/v/20250905043249125)
 * [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
   * 열람할 때 '요약'도 체크해서 볼 것
 * [건축물대장과 등기부등본은 세트다. 건축물대장 보는법 속성 - YouTube](https://www.youtube.com/watch?v=W6rLIYhFUQk)
@@ -119,6 +120,7 @@ House
 * [Top 6 Best Real Estate Apps of 2019](https://hackernoon.com/top-6-best-real-estate-apps-of-2019-b3303fdb7df5)
 * [부동산 법률방 맘에 드는 집 가계약금, 공인중개사에 맡겨도 되나요?](https://realestate.daum.net/news/detail/main/20190704062901080)
 * [양담소 집값 오르자 가계약 일방적 파기, 매도인의 배상금액은?](https://news.v.daum.net/v/20200914093423310)
+* ["치매 할머니는 안 돼"…월세 계약 취소를 요구하는 집주인 중·꺾·마+: 중년 꺾이지 않는 마음](https://v.daum.net/v/20250908043306332)
 * [**모르면 쪽팔리는 중요한 부동산 기본상식 | 용도지역확인 및 관련사이트**](https://www.youtube.com/watch?v=hCVn6Cilz1Q)
 * [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
 * [아파트(부동산) 매입시 셀프등기 2](https://sieg0610.tistory.com/29)
