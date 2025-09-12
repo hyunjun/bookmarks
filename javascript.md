@@ -3064,6 +3064,8 @@ Javascript
 * [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
   * [(번역) 자바스크립트 모노레포의 깃 용량을 94% 줄인 방법 | emewjin.log](https://emewjin.github.io/git-repo-size/)
 * [종결자는 누구? - YouTube](https://www.youtube.com/watch?v=THYI_JdmQqQ)
+* [Webpack이란? CRA 없이 직접 설정하기, 다른 모듈 번들러와의 비교 (feat. vite, turbopack, rollup, parcel)](https://velog.io/@hi-rachel/Webpack%EC%9D%B4%EB%9E%80-CRA-%EC%97%86%EC%9D%B4-%EC%A7%81%EC%A0%91-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EB%93%88-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-feat.-vite-turbopack-rollup-parcel)
+* [dev-server에서 HMR 문제 해결하기 with LocatorJs](https://velog.io/@wns450/HMR-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-with-dev-server)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Farm Documentation | Farm](https://www.farmfe.org/)
   * [Farm - 매우 빠른, Vite 호환 빌드 도구 | GeekNews](https://news.hada.io/topic?id=15487)
