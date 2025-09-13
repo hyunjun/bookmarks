@@ -1112,6 +1112,7 @@ Artificial Intelligence
     * 이러한 private 데이터를 많이 가진 Google과 Apple이 장기적으로 유리한 위치를 차지할 것으로 예상
 * [Launching GenAI Productivity Tools: Insights and Lessons - InfoQ](https://www.infoq.com/articles/gen-ai-productivity-tools/)
 * [해빗팩토리가 데이터, 자동화, AI를 활용하여 생산성을 10배로 만든 방법, 100배로 만들 계획](https://www.jungyunho.com/100xhabitfactory/)
+* [클로드코드를 코딩이 아니라 업무 자동화에 사용](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%BD%94%EB%94%A9%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%98%88%EB%A5%BC-%EB%93%A4%EC%96%B4-%EB%85%B8%EC%85%98%EC%9D%84-activity-7372096134766530561-bBGM/)
 * [Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford - YouTube](https://www.youtube.com/watch?v=tbDDYKRFjhk)
   * [AI 는 "과연" 개발자들의 생산성을 올리는걸까요?](https://www.linkedin.com/posts/kurt-lee-70010391_does-ai-actually-boost-developer-productivity-activity-7354024167538659329-Ndov/)
 * [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) When developers are allowed to use AI tools, they take 19% longer to complete issues
