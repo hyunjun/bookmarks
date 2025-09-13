@@ -1538,6 +1538,8 @@ SQL
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦](https://github.com/orioledb/orioledb)
+  * [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+    * [Postgres 커뮤니티에 이제 OrioleDB 특허가 자유롭게 공개됨 | GeekNews](https://news.hada.io/topic?id=23021)
 * [pg2ch: Data streaming from postgresql to clickhouse via logical replication mechanism](https://github.com/mkabilov/pg2ch)
 * [pgagroal - a high-performance protocol-native connection pool for PostgreSQL](https://agroal.github.io/pgagroal/)
 * [pgBackRest - The Best Postgres Backup Tool with a very active community](https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-with-a-very-active-community/)
