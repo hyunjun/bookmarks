@@ -137,6 +137,8 @@ Artificial Intelligence
 * [차세대 인공지능 - 제2편](https://brunch.co.kr/@synabreu/101)
 * [**인공지능의 미래**](https://maily.so/kyeom.ai/posts/9a3151) transformer
 * [AI 프로젝트 실패의 5가지 원인. By 송호연 | by Riiid Techblog | Nov, 2020 | Medium](https://riiidtechblog.medium.com/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
+* [Why 95 Percent of AI Pilots Fail—And How to Avoid It Happening to You](https://every.to/p/why-95-percent-of-ai-pilots-fail-and-how-to-avoid-it-happening-to-you)
+  * [AI 파일럿의 95%가 실패하는 이유 — 그리고 당신이 피하는 법 | GeekNews](https://news.hada.io/topic?id=23041)
 * [NIPA 2020 인공지능 문제해결 경진대회, 4관왕 달성 후기](https://eda-ai-lab.tistory.com/542)
 * [인공지능(AI) 아나운서 개발기 – AI PLUS Tech Blog](https://blog.est.ai/2020/12/ai-anchor/)
 * [The Map of Artificial Intelligence (2020) | in AI Territory | The Startup](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
