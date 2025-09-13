@@ -2133,6 +2133,7 @@ NLP
   * [LLM의 환각, 피할 수 없다면 관리하세요. - Deskroom | 블로그](https://blog.deskroom.so/platform/why-language-models-hallucinate)
   * [최근 OpenAI에서 발표한 연구 “Why Language Models Hallucinate”는 LLM이 자신이 알지 못하는 정보에 대해서도 답변을 생성하는 구조적 원인을 밝혔습니다](https://www.linkedin.com/posts/%EA%B2%BD%ED%98%B8-%EB%B0%95-3b978ba5_llm%EC%9D%98-%ED%99%98%EA%B0%81-%ED%94%BC%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4%EB%A9%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EC%84%B8%EC%9A%94-deskroom-%EB%B8%94%EB%A1%9C%EA%B7%B8-activity-7370969204797132800-JC2l)
   * [LLM - OpenAI 가 알려주는 할루시네이션의 이유?, Why Language Models Hallucinate 따끈한 논문 리뷰](https://velog.io/@qlgks1/why-language-models-hallucinate)
+  * [김성완 - Why Language Models Hallucinate 최근 언어 모델이 헛소리를 하는 이른바 환각... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02U98RkjmpjekuFFGVyZxZYW9PxeTTyCJNzbvsD3JQRreqpzUqBc2bt4Eg9ghXAPZJl)
 * [hallucination으로 인한 Air Canada의 챗봇 손해배상 사건](https://www.linkedin.com/posts/jae-hong-e-93368248_%EB%B2%95%EC%A0%9Cbrief24-3-%EC%BA%90%EB%82%98%EB%8B%A4-%EC%B1%97%EB%B4%87-%EC%86%90%ED%95%B4%EB%B0%B0%EC%83%81-%EC%82%AC%EA%B1%B4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EB%82%B4%EC%9A%A9-%EB%B0%8F-activity-7171470902704893953-xKZk/)
 * [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [Large Language Models: From Prototype to Production — Ines Montani - YouTube](https://www.youtube.com/watch?v=ZjjgMiCU8s4)
