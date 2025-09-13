@@ -4648,3 +4648,5 @@ Business
     * GitHub에서 2020년 다크 모드를 공개한 이후 고대비 테마를 만들면서 Primer Prism이라는 색상 도구 제가
     * 이 도구를 통해 색상 스케일을 만들어서 색 대비를 쉽게 비교하고 조정할 수 있게 작성
     * 이 색상 팔레트를 JSON으로 내보내어 GitHub에 적용하여 테스트
+* [UXSnaps – Actionable UI/UX Breakdowns from Top Apps](https://www.uxsnaps.com/)
+  * [실제 UI 화면으로 핵심 UX 원칙 분석하는 ‘UXsnaps’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3337/)
