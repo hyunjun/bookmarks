@@ -1375,6 +1375,8 @@ Artificial Intelligence
   * [Dongsoo Lee - 새로운 돌파구가 필요한 AI 서비스 비용 문제 AI 서비스 비용 문제는 이제 산업... | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0bNP8bBRa6uwbNkxDgCPUU5Vzy2g3Tt2hL9ZCwptZhYvkjF1g9YUA9jmnTussuiQjl)
 * [Thanks to AI, this guy is running a Google rival from his laundry room - Fast Company](https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines)
   * [AI 덕분에 세탁실에서 구글 경쟁 서비스를 운영하는 남자 | GeekNews](https://news.hada.io/topic?id=23034)
+* [Copyright threats force AI firms to consider stronger deals with publishers](https://www.axios.com/2025/09/06/ai-publishers-deals-lawsuits)
+  * [Tae Hyung Kim - 예상했던 대로, 생성형 AI의 핵심 전선은 이제 성능 못지않게 저작권이 중요하게 되어 가고... | Facebook](https://www.facebook.com/socialego/posts/pfbid02pBnDxoxhqW3GTxhNGqrMNncuDqRtpYRKLeCS6GQSTbrDRvXP6Csc6y5YMZRKkf5Ul)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
