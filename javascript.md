@@ -3862,6 +3862,8 @@ Javascript
   * [Bun vs. Node.js | Refine](https://refine.dev/blog/bun-js-vs-node/)
   * [Bun 1.2 릴리즈 | GeekNews](https://news.hada.io/topic?id=18884)
   * [Bun is up to 20x slower than NodeJS in logic operations - DEV Community](https://dev.to/samchon/bun-is-up-to-20x-slower-than-nodejs-in-logic-operations-305d)
+  * [Behind The Scenes of Bun Install | Bun Blog](https://bun.com/blog/behind-the-scenes-of-bun-install)
+    * [Bun Install의 비하인드 스토리 | GeekNews](https://news.hada.io/topic?id=23037)
   * [Brisa - The Web Platform Framework](https://brisa.build/)
     * [brisa: The Web Platform Framework](https://github.com/brisa-build/brisa)
     * [Brisa - 웹 플랫폼 프레임워크 | GeekNews](https://news.hada.io/topic?id=18842)
