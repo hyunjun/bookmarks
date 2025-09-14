@@ -15,6 +15,7 @@ People
 * [비운의 과학자 에드윈 암스트롱](http://ppss.kr/archives/37698) FM 발명가
 * [역사 속 쿨가이, 화학의 아버지 라부아지에](http://ppss.kr/archives/56009)
 * [Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
+* Elon Musk [김택균 - 21세기 가장 혁신적인 기업가 일론 머스크는 단순한 사업가를 넘어 인류의 미래를 재설계하는 비전가다.... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02qfwsZUonUsUUP5Psxf8RomrRTcB5CJ4r9LofsSAw5ngt7JoRvV3cJJb7sQuW1nQTl&id=100010185753256)
 * Jared Diamond
   * [What I’ve Learned About the Past 13,000 Years](http://nautil.us/issue/4/the-unlikely/what-ive-learned-about-the-past-13000-years)
   * [Jared Diamond@Vimeo interview](https://vimeo.com/72741207)
