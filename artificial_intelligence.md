@@ -310,6 +310,8 @@ Artificial Intelligence
   * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
 * [Scalable and Effective Generative Information Retrieval](https://obsidian-blog-gilt.vercel.app/paper-review/Scalable%20and%20Effective%20Generative%20Information%20Retrieval/)
   * [벡터DB는 가라! 이제 "생성형" 검색의 시대가 온다](https://www.linkedin.com/posts/jeffrey-dongkyu_scalable-and-effective-generative-information-activity-7371181988592140288-kBJR)
+* [Anycrap 🛒 The Store of Infinite Products](https://anycrap.shop/)
+  * [AnyCrap - 입력한 검색어로 상품을 생성하는 스토어 | GeekNews](https://news.hada.io/topic?id=23063)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -407,6 +409,8 @@ Artificial Intelligence
     * 복잡한 작업을 작고 전문화된 단위로 분할해 각 에이전트가 효율적으로 처리
 * [새로운 콴다 Agent는 어떻게 만들어졌을까?. 콴다는 왜 달라졌을까? Backend 팀의 Agent 설계 이야기 | by Dave Kwon | Aug, 2025 | Team QANDA](https://blog.mathpresso.com/%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BD%B4%EB%8B%A4-agent%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-0788a7b37b6e)
 * [Small Language Models are the Future of Agentic AI 최근 LLM 혁신의 흐름을 살펴보면 거의 모든 레이어에서 동시에 변화가 일어나고 있다. Chain-of-Thought(COT), reasoning, 강화학습 기반 후처리, 데이터 필터링과 합성까지 다양한 접근법이 등장하고 있다. 그 가운데 지난 2년간 가장… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs)
+* [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 2025 | Medium](https://medium.com/@elliotgraebert/agentic-ai-has-changed-my-career-2c6e3dd29708)
+  * [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 20 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5815775/5594744)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
