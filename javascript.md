@@ -2453,6 +2453,8 @@ Javascript
 * [MaskPassword: This is a suggestion for passwords that change over time, not always a constant string of passwords](https://github.com/danwha/MaskPassword)
 * [massCode - A free and open source code snippets manager for developers. https://masscode.io ](https://github.com/antonreshetov/massCode)
 * [Material Design Hierarchical Display](http://zavoloklom.github.io/material-design-hierarchical-display/)
+* [mediabunny: Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser](https://github.com/Vanilagy/mediabunny)
+  * [Mediabunny - 순수 TypeScript 기반 미디어 처리 툴킷 | GeekNews](https://news.hada.io/topic?id=23029)
 * [memlab: A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
   * [Facebook MemLab Helps Finding JavaScript Memory Leaks](https://www.infoq.com/news/2022/09/memlab-javascript-memory-leaks/)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
