@@ -306,6 +306,7 @@ Artificial Intelligence
   * [캐럿티브 AI챔피언/바이브코딩 AI가 정말 코드를 이해하고 있을까? 왜 AI 에이전트가 코드를 망치는가 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5635587/5319031)
   * [SemCoder: 코드 언어 모델의 의미론적 추론 - NotebookLM](https://notebooklm.google.com/notebook/e2b6592c-97d4-48b6-9512-202bc6a82616?authuser=0&pli=1)
 * [‘바이브옵스(VibeOps)’로 운영 생산성 극대화하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3325/)
+* [제미나이 CLI vs 클로드 코드: 바이브옵스(VibeOps) 관점에서 비교하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3334/)
 * [Tornike Onoprishvili | Code is Debt](https://tornikeo.com/code-is-debt/)
   * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
 * [Scalable and Effective Generative Information Retrieval](https://obsidian-blog-gilt.vercel.app/paper-review/Scalable%20and%20Effective%20Generative%20Information%20Retrieval/)
@@ -399,6 +400,7 @@ Artificial Intelligence
   * 태스크 병렬화: 작업을 나누어 효율 극대화
   * 실전 코드 예시
   * MCP 분석 및 다양한 아키텍처 패턴
+  * ["Free 400+ page book on Agentic Design Patterns by Google Senior Engineer" | Stanislav Beliaev님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/stasbel_google-senior-engineer-just-dropped-a-activity-7368993979100504068-s7Fp)
 * [Event-Driven Agent Mesh. What is an Agent? | by Hubert Dulay | Medium](https://medium.com/@hubert.dulay/event-driven-agent-mesh-be29f1c36932)
   * AI 에이전트(Agent): 사용자를 대신해 작업을 수행하는 자율 시스템으로, 간단한 챗봇에서부터 복잡한 의사결정 시스템까지 포함
   * 에이전트 메시(Agent Mesh): 이벤트 기반 아키텍처(EDA)의 개념을 도입한 구조로, 여러 자율 에이전트가 독립적으로 특화된 작업을 수행하면서 상호 협력할 수 있게 설계된 네트워크
@@ -1508,6 +1510,8 @@ Artificial Intelligence
 * [H Company](https://www.hcompany.ai/)
 * IconScout [Download 10.1 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations | IconScout](https://iconscout.com/)
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
+* [Learn Your Way](https://learnyourway.withgoogle.com/)
+  * [Learn Your Way | 김덕중](https://www.linkedin.com/posts/duckjungkim_learn-your-way-activity-7374082724954882049-5gim)
 * [lets-talk](https://github.com/mafzaal/lets-talk)
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [Memex - Everything Builder for Your Computer](https://memex.tech/)
@@ -1724,6 +1728,7 @@ Artificial Intelligence
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
   * [Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.](https://github.com/opactorai/Claudable)
+  * [**초보를 위한 Claude Code 안내서**](https://subicura.com/2025/09/08/ai-coding.html)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
