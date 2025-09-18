@@ -1106,6 +1106,8 @@ NLP
     * [The Illustrated GPT-OSS - by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-gpt-oss)
       * [GPT-OSS에 관한 비주얼 가이드](https://tulip-phalange-a1e.notion.site/GPT-OSS-255c32470be2805dbc87c2172d697de7)
     * [H100 위에서 GPT-5 OSS 20B 사용.. : 네이버블로그](https://blog.naver.com/ulsancoding/223983874842)
+    * [gpt-oss-20b Tool Calling  - 리눅서의 기술술 블로그](https://linuxer.name/2025/09/gpt-oss-20b-tool-calling/)
+      * [gpt-oss-20b Tool Calling | TaeHwan Jeong](https://www.linkedin.com/posts/taehwan-jeong-274846190_gpt-oss-20b-tool-calling-activity-7372620893140918272-fC9R)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * GPTs
     * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
@@ -2528,6 +2530,8 @@ NLP
 * [LLM 아키텍처 비교 · likejazz.com](https://likejazz.com/llm-comparison/)
 * [LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=hPbKh7c5vCo)
   * [LLMs Are Not Black Magic At All • Preben Thorø • GOTO 2024 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5522789/5150819)
+* ["What's the real bottleneck in LLM serving throughput? How can PagedAttention help?" #machinelearning #datascience #inference | Anshuman Mishra | 댓글 29](https://www.linkedin.com/posts/anshuizme_machinelearning-datascience-inference-activity-7374072530405371904-p3ih)
+  * [#machinelearning #datascience #inference | Anshuman Mishra | 29 comments | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5890311/5708963)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
