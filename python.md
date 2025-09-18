@@ -2683,6 +2683,7 @@ Python
 * [당신의 Django 서버는 DoS 공격에 취약합니다 | GeekNews](https://news.hada.io/topic?id=17091)
 * [PyCon KR 2024 해커의 관점에서 바라본 Django](https://new-blog.ch4n3.kr/pycon-kr-2024/)
 * [Django pre-commit 사용법 - Django 프로젝트에서 pre-commit을 사용하여 Git에 커밋을 할 때, flake8을 실행하도록 설정해 보자.](https://deku.posstree.com/ko/django/pre-commit/)
+* [TMC25 | Engineering - 토스의 Python 애플리케이션과 데이터베이스 커넥션 관리 - YouTube](https://www.youtube.com/watch?v=3xjNdtmrKzA)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
