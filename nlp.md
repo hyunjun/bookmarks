@@ -444,6 +444,8 @@ NLP
 * [텍스트 정규화 #21 — 비교급, 최상급. 비교급(‘-er’/more)과 최상급(‘-est’/most)의 불규칙… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-21-%EB%B9%84%EA%B5%90%EA%B8%89-%EC%B5%9C%EC%83%81%EA%B8%89-c422f8872617)
 * [텍스트 정규화 #22 — 표준화되지 않은 접두/접미. 비표준화된 접두어·접미어(“\[공지\]”, “★”, “Re:”, “FW:”… | by Jaeseong Yoo | May, 2025 | Medium](https://medium.com/@praster1/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EA%B7%9C%ED%99%94-22-%ED%91%9C%EC%A4%80%ED%99%94%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%91%EB%91%90-%EC%A0%91%EB%AF%B8-3510299809dd)
 * [토큰화, 벡터화, 임베딩 무슨 차이일까? - NLP와 LLM 텍스트 데이터 기초 용어 이해하기 - YouTube](https://www.youtube.com/watch?v=9rbm29bCjaQ)
+* [Lightweight Guide to understanding GRPO and RL principles - Musings of Murali](https://gitlostmurali.com/blog/grpo-intro/)
+  * [my write-up on understanding GRPO](https://www.linkedin.com/posts/activity-7374322924738084864-Zdcb/)
 
 # 띄어쓰기
 
@@ -2654,6 +2656,8 @@ NLP
   * [Statement on Anthropic Model Availability](https://windsurf.com/blog/anthropic-models)
   * [Anthropic 공동 창립자: Claude Code 구축, GPT-3 및 LLM 시스템 설계에서 얻은 교훈 - YouTube](https://www.youtube.com/watch?v=JdT78t1Offo)
     * [Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5452837/5045479)
+  * [A postmortem of three recent issues \ Anthropic](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
+    * [A postmortem of three recent issues | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_a-postmortem-of-three-recent-issues-activity-7374218098897367040-jTgY)
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
   * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
     * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
@@ -4405,6 +4409,9 @@ NLP
   * [LLM 모델이 스스로 '사고 과정(CoT)을 평가하고 개선'](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7368421153805135874-XORP)
 * [2509.07414v1 Language Self-Play For Data-Free Training](https://arxiv.org/pdf/2509.07414)
   * [김성완 - Language Self-Play For Data-Free Training 메타에서 대규모 언어 모델... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0iiR4hNgVufW2r6CaQLD5mfLhMxVtfjHwG47qxDEHSAVrwnYvTd4UH2BqER4JCgZBl)
+* [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
+  * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
+    * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
 
 # Parser
 
