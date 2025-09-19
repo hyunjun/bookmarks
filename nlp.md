@@ -2713,6 +2713,8 @@ NLP
     * [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기 - YouTube](https://www.youtube.com/watch?v=4j6J-9hxfhk)
     * [북경 대학의 딥시크 분석 자료 바탕으로 허깅페.. : 네이버블로그](https://blog.naver.com/ulsancoding/223793159665)
     * [로컬 컴퓨터로 ‘딥시크 챗봇’ 만들어봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3057/)
+    * [DeepSeek R1 논문이 Nature 표지 논문으로 실렸습니다. 사실 이미 소개된 지 꽤 된 연구인데, 세계적인 저널의 표지에까지 등장하게 된 점이 흥미롭습니다. 물론 이번에도 "고작 30만 달러"라는 터무니없이 저렴한 학습 비용을 강조하는 다소 과장된 홍보가 따라붙었지만, 여러모로 의미가 크다고 생각합니다. 무엇보다 이번 연구가 보여주는 핵심은… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_deepseek-r1-%EB%85%BC%EB%AC%B8%EC%9D%B4-nature-%ED%91%9C%EC%A7%80-%EB%85%BC%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%8B%A4-activity-7374634499231420417-U7QP)
+      * 1. Pre-training 2. Post-training 3. Test-time scaling
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [DualPipe: A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.](https://github.com/deepseek-ai/DualPipe)
     * [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/eplb)
