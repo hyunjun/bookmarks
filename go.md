@@ -1069,6 +1069,7 @@ Go
   * 런타임에서 CPU와 메모리를 프로파일링하기 위한 `runtime/pprof`의 사용 방법과 웹에서 이용할 수 있는 `net/http/pprof` 소개
 * [프로파일링 적용기: 당신의 Go 어플리케이션은 좀 더 나아질 수 있다 - YouTube](https://www.youtube.com/watch?v=A51v9hBKZ_8)
   * [프로파일링 적용기 - 당신의 Go 애플리케이션은 좀 더 나아질 수 있다](https://d2.naver.com/helloworld/8404108)
+* [당근 피드시스템 안정성 향상기: 프로파일링부터 서킷 브레이커까지 | by Lebron J | 당근 테크 블로그 | Sep, 2025 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%ED%94%BC%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%88%EC%A0%95%EC%84%B1-%ED%96%A5%EC%83%81%EA%B8%B0-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC%EB%A7%81%EB%B6%80%ED%84%B0-%EC%84%9C%ED%82%B7%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4%EA%B9%8C%EC%A7%80-cac77f4b43f5)
 * [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 * pprof
   * [Profiling Go Programs - The Go Blog](https://blog.golang.org/pprof)
