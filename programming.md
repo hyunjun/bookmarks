@@ -2523,6 +2523,8 @@ Programming
   * [아버지로부터 배운 절제와 최적화의 미학…그 가르침은 저를 더 나은 엔지니어로 성장시켰습니다.](https://www.notion.so/whchoi98/26204ef7e60e802c911aff512d4696d6)
   * 검소한 시스템 설계(Frugal Architecture)는 단기간에 완성되는 것이 아니라 반복 학습을 통해 체화되는 능력
 * [소프트웨어 아키텍트가 필요한가? – Martin Fowler의 이야기](https://www.linkedin.com/pulse/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-martin-fowler%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-toby-lee-ldcke)
+* [진화하는 아키텍처의 원칙 – Amazon.com에서 배운 교훈](https://whchoi98.notion.site/Amazon-com-26b04ef7e60e806faf34d6bedb4d1181)
+  * [진화하는 아키텍처의 원칙 – Amazon.com에서 배운 교훈 | Notion | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_%EC%A7%84%ED%99%94%ED%95%98%EB%8A%94-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%9B%90%EC%B9%99-amazoncom%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88-notion-activity-7374523483223109632-c2QK) “Evolve or Die.” 변화하지 않으면 도태
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
