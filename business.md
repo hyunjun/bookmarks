@@ -1001,6 +1001,8 @@ Business
 * [Reading "Business" Books Is A Waste Of Time - by Jack](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
   * [비즈니스 책들은 전략적 도구가 아니라 오락임 | GeekNews](https://news.hada.io/topic?id=20819)
 * [CAPEX vs. 비용: PM의 전략적 판단을 가르는 5가지 질문](https://changyeong.ghost.io/identifying-true-capex-product-investments/)
+* [HRBP 선발과 육성, 살펴봐야 할 체크 포인트는?](https://www.hrinsight.co.kr/view/view.asp?in_cate=109&gopage=1&bi_pidx=38258)
+  * [HRBP 선발과 육성, 살펴봐야 할 체크 포인트는? | Junsoo Kim](https://www.linkedin.com/posts/shurinke_hrbp-%EC%84%A0%EB%B0%9C%EA%B3%BC-%EC%9C%A1%EC%84%B1-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EC%B2%B4%ED%81%AC-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%8A%94-activity-7373858120449712128-B6UW)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
