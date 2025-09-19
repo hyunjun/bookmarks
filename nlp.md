@@ -1363,6 +1363,7 @@ NLP
   * [DSPy - 언어모델을 (프롬프팅 대신) 프로그래밍하는 프레임워크 | GeekNews](https://news.hada.io/topic?id=18212)
 * [Generative AI Scripting | GenAIScript](https://microsoft.github.io/genaiscript/)
   * [Microsoft GenAIScript - 생성형 AI 스크립팅 | GeekNews](https://news.hada.io/topic?id=17417)
+* [ChatGPT for students](https://chatgpt.com/use-cases/students)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
   * [GPT-5 Prompt Migration and Improvement Using the New Optimizer](https://cookbook.openai.com/examples/gpt-5/prompt-optimization-cookbook)
