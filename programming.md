@@ -763,6 +763,8 @@ Programming
 * [TIL: 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
   * 각 버전의 UUID 의 특징이 무엇이며, 언제 사용하면 좋은지 설명
   * 일반적으로 버전 넘버가 높은 것이 더 좋은, 안정된 버전이라는 통념과 달리 UUID 는 8개의 버전이 모두 표준에 등록
+* [uuidv47: ⚡ UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47)
+  * [UUIDv47: 데이터베이스에는 UUIDv7로 저장하고, 외부에는 UUIDv4로 제공하기 | GeekNews](https://news.hada.io/topic?id=23157)
 * [Nanosecond timestamp collisions are common (evanjones.ca)](https://www.evanjones.ca/nanosecond-collisions.html)
   * [nanocollision: NanoCollision: Experiments with collisions of nanosecond timestamps](https://github.com/evanj/nanocollision)
   * [나노초 타임스탬프 충돌은 흔합니다. | GeekNews](https://news.hada.io/topic?id=9943)
