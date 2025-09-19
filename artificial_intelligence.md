@@ -1765,6 +1765,8 @@ Artificial Intelligence
   * [소프트웨어 개발의 미래 - OpenAI Codex 소개 - YouTube](https://www.youtube.com/watch?v=ZyIjLz6mPm8)
   * [클로드 코드보다 좋아져버렸다는 Codex CLI - YouTube](https://www.youtube.com/watch?v=QPHzCpO67qY)
   * [Xcode용 AI 코딩 어시스턴트 Alex, OpenAI Codex에 합류 | GeekNews](https://news.hada.io/topic?id=22940)
+  * [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/)
+    * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
