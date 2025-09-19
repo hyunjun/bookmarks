@@ -1140,6 +1140,8 @@ Artificial Intelligence
       * 그리고 구현된 초안을 에이전트가 결정론적으로 테스트할 수 있는 BDD/TDD의 적용
       * 그리고 수행자가 일일이 이러한 SW 개발 프로세스를 누락없이 실행하기 위하여 엠비언트 에이전트 스타일의 휴먼-인-더-루프 개입
     * 구현범위를 한정(바운디드 컨텍스트) 시켜 LLM 의 환각을 최소화하고 품질을 높일 수 있다는 아이디어
+* [UK government programmers trialed AI coding assistants from Microsoft, GitHub, and Google – here's what they found | IT Pro](https://www.itpro.com/software/development/uk-government-ai-coding-assistant-trial-developer-time-savings?trk=public_post_comment-text)
+  * [영국 정부가 GitHub Copilot, Google Gemini Code Assist 등 AI 코딩 어시스턴트를 도입해 1,000명 이상의 개발자를 대상으로 실험한 결과가 발표됐습니다. - 개발자 1명당 하루 평균 약 1시간 절약 - 연간으로 환산하면 28일치 노동 시간 - 응답자의 72%는 “유용하다”, 65%는 “업무 속도가 빨라졌다”, 58%는… | Seolmin Jeong](https://www.linkedin.com/posts/seolmin_%EC%98%81%EA%B5%AD-%EC%A0%95%EB%B6%80%EA%B0%80-github-copilot-google-gemini-code-activity-7374233774445821952-zPIZ)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
@@ -1328,6 +1330,8 @@ Artificial Intelligence
   * [켄트 벡의 Augmented Coding: Beyond the Vibes 요약 및 추가 의견 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BC%2584%25ED%258A%25B8-%25EB%25B2%25A1%25EC%259D%2598-augmented-coding-beyond-vibes-%25EC%259A%2594%25EC%2595%25BD-%25EB%25B0%258F-%25EC%25B6%2594%25EA%25B0%2580-%25EC%259D%2598%25EA%25B2%25AC-toby-lee-mcy8e)
   * [AI가 잘못하고 있다는 3가지 신호 + TDD를 돕는 시스템 프롬프트 by 켄트 벡 (feat. 증강형 코딩)](https://www.stdy.blog/warning-signs-for-off-track-ai-and-tdd-system-prompts-by-kent-beck/)
   * [Tidy First 방법론: Kent Beck의 Augmented Coding 해석과 적용 :: ROBOCO](https://roboco.io/posts/tidy-first-methodology/)
+  * [**켄트 벡(Kent Beck) 형님과 함께하는 Augmented Coding, "증강 코딩" 잘해보기**](https://velog.io/@qlgks1/Kent-Beck-Augmented-Coding)
+    * [켄트 벡(Kent Beck) 형님과 함께하는 Augmented Coding, "증강 코딩" 잘해보기 | Hyeonwoo Jeong](https://www.linkedin.com/posts/hyeonwoo-jeong-nuung_%EC%BC%84%ED%8A%B8-%EB%B2%A1kent-beck-%ED%98%95%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-augmented-coding-activity-7373688457396862976-oYeA)
 * [TDD, AI agents and coding with Kent Beck - YouTube](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
   * [TDD, AI agents and coding with Kent Beck | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5185989/4634407)
 * [바이브 코딩과 엔지니어링 성숙도 향상, 어느쪽이 먼저일까? :: ROBOCO](https://roboco.io/posts/vibe-coding-vs-engineering-maturity/)
@@ -1483,6 +1487,7 @@ Artificial Intelligence
   * Suno (무료) - 음악 작곡 https://suno.com
 * [연구활용 AI 도구 사용방법 | Pega Devlog](https://jehyunlee.github.io/2025/01/20/General-76_researchgenai/)
 * [인공지능 deepseek, 챗GPT, grok3, claude, gemini중 누가 퍼블리싱을 잘할까?](https://blog.naver.com/pjt3591oo/223769434169)
+* [2025 AI Darwin Award Nominees - Worst AI Failures of the Year](https://aidarwinawards.org/nominees-2025.html) AI의 가장 어리석은 작동을 수상
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
