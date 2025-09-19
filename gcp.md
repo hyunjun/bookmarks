@@ -194,6 +194,8 @@ Google Cloud Platform GCP
 * [Slack 기반 GCE Managed Instance Group 오토스케일링 자동화 구축 가이드 (Pub/Sub 연동, 상태 알림 포함)](https://seonggi.kr/278)
   * [Slack을 활용한 GCP Managed Instance Group(MIG) 오토스케일링 자동화 구축 후기](https://www.linkedin.com/posts/seonggi_slack-%EA%B8%B0%EB%B0%98-gce-managed-instance-group-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-activity-7359817999156957184-IswY/)
 * [Google Calendar 기반 GCE(VM) Managed Instance Group 오토스케일 자동화](https://seonggi.kr/280)
+* [GCP 프로젝트의 VPC 와 종속된 리소스 삭제 스크립트](https://seonggi.kr/283)
+  * [GCP 프로젝트의 VPC 와 종속된 리소스 삭제 스크립트 | Choi Seong Gi (최성기)](https://www.linkedin.com/posts/seonggi_gcp-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-vpc-%EC%99%80-%EC%A2%85%EC%86%8D%EB%90%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%82%AD%EC%A0%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-activity-7374403357928648704-mh2e)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
