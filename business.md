@@ -4636,6 +4636,8 @@ Business
   * [Apple의 Liquid Glass: 미적 일관성의 함정 | GeekNews](https://news.hada.io/topic?id=22152)
 * [Apple 디자인: 왜 우리는 계속해서 이 주제로 돌아가는 걸까? - YouTube](https://www.youtube.com/watch?v=A_h4A8caCTM)
 * [AI가 바꾼 일의 판: 디자이너 전성시대](https://brunch.co.kr/@jiyuhan/111)
+* [Design for AI - the Invisible Features](https://brajeshwar.com/2025/design-for-ai-the-invisible-features/)
+  * [AI를 위한 디자인 - 보이지 않는 기능들 | GeekNews](https://news.hada.io/topic?id=23148)
 * aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
   * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
   * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
