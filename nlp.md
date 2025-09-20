@@ -2762,6 +2762,9 @@ NLP
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
+* GPhyT
+  * [2509.13805v1.pdf TOWARDS A PHYSICS FOUNDATION MODEL](https://arxiv.org/pdf/2509.13805)
+  * [김성완 - General Physics Transformer: Towards a Physics Foundation... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02Rym1DC6TXMG8YG8hgJ9CgqF7j7hCr7q2TiXCSKBgjDKL889JZ9yJWgUAuewaJY9gl)
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
   * [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/)
