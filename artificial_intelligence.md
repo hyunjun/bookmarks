@@ -646,6 +646,7 @@ Artificial Intelligence
   * [바이브코딩 UI 마크다운 생성기 - 초보자용](https://jvibeschool.com/vibeUIgen/)
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
+  * [**내가 LLM과 함께 코딩하는 방식**](https://hackers.pub/@hongminhee/2025/how-i-code-with-llms)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -880,6 +881,7 @@ Artificial Intelligence
   * [MCP illustrated guidebook.pdf - Google Drive](https://drive.google.com/file/d/1a0OMR6NKTY-R2ZeLJVnDimkmTauarXPB/view)
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
+  * [GitHub MCP Registry: The fastest way to discover AI tools - GitHub Changelog](https://github.blog/changelog/2025-09-16-github-mcp-registry-the-fastest-way-to-discover-ai-tools/)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
