@@ -1100,6 +1100,7 @@ Book
     * 소득에 따른 삶의 모습을 보여주는 게 흔히 책에서 볼 수 있는 각 나라의 고유 복장을 보여주는 거 보다 현실에 가깝기 때문에 이런 사이트를 만들었다고 함
   * [데이터 분석가의 팩트풀니스](https://brunch.co.kr/@secreties86/40)
   * [한스 로슬링, <팩트풀니스> 요약의 요약](https://maily.so/boost.life.density/posts/2e350a69)
+  * [10명 중 9명이 틀린 문제?! 세계를 바라보는 시각을 교정해주는 팩트풀니스 요약 - YouTube](https://www.youtube.com/watch?v=w-f7aIlPV3M)
 * [데이터 스토리](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC)
   * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
