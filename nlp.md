@@ -1325,6 +1325,7 @@ NLP
   * [배휘동 - AI에게도 창의성을 높여주는 대각선 법칙 '참고용 무작위 단어'를 통해 AI의 창의성을 높일 수 있다는... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid091eUUR6RSMk2pxR55irRJDGUMJ7NnTwopTdrvEZpDTFN9F6u9qbJCKPHZfBgq5BSl)
 * [Prefix-tuning과 Prompt-tuning, 그리고 임베딩 모델과 리랭커](https://obsidian-blog-gilt.vercel.app/paper-review/Prefix-tuning%EA%B3%BC%20Prompt-tuning,%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%9E%84%EB%B2%A0%EB%94%A9%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EB%A6%AC%EB%9E%AD%EC%BB%A4/)
   * [Prefix-tuning과 Prompt-tuning, 그리고 임베딩 모델과 리랭커 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_prefix-tuning%EA%B3%BC-prompt-tuning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EA%B3%BC-activity-7363943263898107905-Q-eI)
+* [실무용 클로드 코드 프롬프트 엔지니어링 템플릿 3종 | 요즘IT](https://yozm.wishket.com/magazine/detail/3353/)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
