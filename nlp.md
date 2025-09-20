@@ -3885,6 +3885,8 @@ NLP
     * [RAG의 한계와 Graph RAG의 이점](https://www.linkedin.com/posts/jinsoo-lee33_graph-rag%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-rag%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-graph-rag%EC%9D%98-%EC%9D%B4%EC%A0%90-activity-7218047969256779779-BNHI/)
   * [Graph RAG의 모든 것 - DEV Community](https://dev.to/bits-bytes-nn/graph-ragyi-modeun-geos-1n5k)
   * [Elasticsearch 및 GraphDB를 활용한 세법 RAG 시스템: GraphRAG 도입기 | by crowdworks | 크라우드웍스 Tech Blog | May, 2025 | Medium](https://medium.com/crowdworks-tech/elasticsearch-%EB%B0%8F-graphdb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B2%95-rag-%EC%8B%9C%EC%8A%A4%ED%85%9C-graphrag-%EB%8F%84%EC%9E%85%EA%B8%B0-ffbf59f92a47)
+  * [code-graph-rag: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs](https://github.com/vitali87/code-graph-rag)
+    * [A graph-based RAG over code solution!](https://www.linkedin.com/feed/update/urn:li:activity:7372849079128805376/)
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
   * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
