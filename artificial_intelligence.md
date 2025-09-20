@@ -413,6 +413,8 @@ Artificial Intelligence
 * [Small Language Models are the Future of Agentic AI 최근 LLM 혁신의 흐름을 살펴보면 거의 모든 레이어에서 동시에 변화가 일어나고 있다. Chain-of-Thought(COT), reasoning, 강화학습 기반 후처리, 데이터 필터링과 합성까지 다양한 접근법이 등장하고 있다. 그 가운데 지난 2년간 가장… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs)
 * [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 2025 | Medium](https://medium.com/@elliotgraebert/agentic-ai-has-changed-my-career-2c6e3dd29708)
   * [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 20 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5815775/5594744)
+* ['바이브 코딩'은 옛말...'에이전트 군집 코딩' 시대 열려 < 산업일반 < AI산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=202433)
+  * [#agenticdevelopment #startuplife #ai #productdevelopment | Mark Ruddock | 댓글 68](https://www.linkedin.com/feed/update/urn:li:activity:7368647652940382209/)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
