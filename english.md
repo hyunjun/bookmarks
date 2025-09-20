@@ -88,3 +88,4 @@ English
   * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
   * [It's bad, to say the least. 3초 안에 해석이 안되면 꼭 보세요🙇‍♀️💙 - YouTube](https://www.youtube.com/watch?v=d0ihj3BSnJU)
   * [We'll get by. 보자마자 바로 해석 안되면 꼭 보세요 (핵심 구동사 정리🤓💛) - YouTube](https://www.youtube.com/watch?v=DP0zm-lC_0I)
+  * [영어를 빠르게 습득하고 절대로 잊지 않는 법!을 가르쳐 준다고? - YouTube](https://www.youtube.com/watch?v=fF4Jz9wFFHU)
