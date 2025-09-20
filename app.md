@@ -1199,6 +1199,8 @@ App
     * [개발자분들을 위한 GPT기반의 Coding Assistant Extension for VSCode(8.7MB gif첨부) : 클리앙](https://www.clien.net/service/board/pds/17952918)
     * [vscode extension recommendations - YouTube](https://www.youtube.com/watch?v=7OBwBfhBwvc)
     * [Query Databricks SQL from Visual Studio Code - YouTube](https://www.youtube.com/watch?v=tThmRuyp2cA)
+    * [AI Toolkit for Visual Studio Code](https://code.visualstudio.com/docs/intelligentapps/overview)
+      * [Microsoft의 무료 AI 툴킷, 코딩을 영원히 바꿀 것 - YouTube](https://www.youtube.com/watch?v=G4ZsoLx5bEU)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
   * Git
