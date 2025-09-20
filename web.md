@@ -2568,6 +2568,8 @@ Web
   * 또한 SQLite나 Perfetto 같은 컴포넌트 형태로도 지속적인 성공
   * 웹 외부에서는 플러그인 시스템, 경량 가상화, 컴포넌트 모델 등 세 가지 주요 영역에서 활용되고 있으며, 특히 FaaS 플랫폼에서 밀리초 단위의 빠른 콜드 스타트를 제공하는 장점이 부각
   * 글에서는 향후 커널 드라이버, AI 기반 신뢰할 수 없는 코드 실행 등 새로운 활용 영역을 제시하며, Wasm이 격리가 필요한 보안 중요 시스템에서 더욱 중요한 역할을 할 것으로 전망
+* [Wasm 3.0 Completed - WebAssembly](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+  * [WASM 3.0 완성 | GeekNews](https://news.hada.io/topic?id=23141)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
