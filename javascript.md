@@ -5198,6 +5198,8 @@ Javascript
 * [이제 React는 프론트엔드? 아니, 풀스택이다](https://velog.io/@composite/%EC%9D%B4%EC%A0%9C-React%EB%8A%94-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%EB%8B%88-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%8B%A4)
 * [React Tech Stack 2025](https://www.robinwieruch.de/react-tech-stack/)
   * [2025년 리액트 기술 스택 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/3029/)
+* [React Won by Default – And It's Killing Frontend Innovation | Loren Stewart](https://www.lorenstew.art/blog/react-won-by-default/)
+  * [React가 기본값으로 승리하고 있으며 프론트엔드 혁신을 늦추고 있음 | GeekNews](https://news.hada.io/topic?id=23111)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
