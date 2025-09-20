@@ -401,6 +401,8 @@
   * [Redox OS, "레독스OS" 라고 Rust로 작성된 OS](https://open-support.tistory.com/entry/Redox-OS-%EB%A0%88%EB%8F%85%EC%8A%A4OS-%EB%9D%BC%EA%B3%A0-Rust%EB%A1%9C-%EC%9E%91%EC%84%B1%EB%90%9C-OS)
 * [reciprocal: Faster division by constants that aren't known at compile-time](https://github.com/pkhuong/reciprocal)
   * [Baseline implementations should be predictable - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
+* [Rhai - An embedded scripting language for Rust.](https://github.com/rhaiscript/rhai)
+  * [Rhai - Rust를 위한 내장 스크립팅 언어 | GeekNews](https://news.hada.io/topic?id=23155)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [ruffle: A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
