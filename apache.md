@@ -386,6 +386,7 @@ Apache
 * [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg) | 김두진, 김용주 - YouTube](https://www.youtube.com/watch?v=xUpi8pXyiyk)
 * [AWS 분석 서비스에서 Apache Iceberg 활용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-iceberg-on-aws-analytics/)
 * [**Apache Iceberg와 Flink CDC 심층 탐구** - tech.kakao.com](https://tech.kakao.com/posts/656)
+* [토스증권 Iceberg 적용기 #1: CDC 환경은 왜 제대로 동작하지 않을까?](https://toss.tech/article/iceberg-cdc-1) COW(Copy-on-Write), MOR(Merge-on-Read), Equality Delete, Position Delete, Deletion Vector
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
@@ -860,6 +861,8 @@ Apache
 * [Apache Kafka for Developers #13: Setting Up a Kafka Consumer in Node.js using KafkaJS](https://millionvisit.blogspot.com/2025/01/apache-kafka-for-developers-13-setting-up-a-kafka-consumer-in-nodejs-using-kafkajs.html)
 * [서비스 조직에서 Kafka를 사용할 때 알아 두어야 할 것들 (3)](https://d2.naver.com/helloworld/2472336)
 * [서비스 조직에서 Kafka를 사용할 때 알아 두어야 할 것들 (4)](https://d2.naver.com/helloworld/1025526)
+* [토스증권의 수천 개 실시간 데이터 파이프라인 운영방법 #1: Visualize Lineage](https://toss.tech/article/toss-securities-visualize-lineage)
+* [토스증권의 수 천개 실시간 데이터 파이프라인 운영방법 #2: MSA 환경 Observability 높이기](https://toss.tech/article/MSA-observability)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
