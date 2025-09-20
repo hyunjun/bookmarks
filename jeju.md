@@ -23,6 +23,7 @@
 * [플렉스웍 FLEXWORK_커뮤니티 | 제주 워케이션을 위한 필수 사이트 베스트 5](https://flexwork.co.kr/community/1722221129115x578042985355411500)
 * [픽제주](https://www.picjeju.com/) 이벤트 정보 축제 소식
 * [펀제주 - 제주날씨 궁금할땐 검색창에 펀제주](https://www.funjeju.com/) 제주도 전역의 실시간 카메라 CCTV 확인
+* [제주 해녀의 ‘폭싹 속았던’ 세월, 유전자에 남아있다](https://v.daum.net/v/20250920080200786)
 
 # Coffee
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
