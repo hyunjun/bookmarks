@@ -4375,6 +4375,8 @@ Business
     * CEO들이 (micromanagement를) 오용할 거란 생각이 듦, 문서화에 대한 부분은 매우 동의, 체험(= demo) 역시 동의
   * [상위 조직장의 관심](https://jojoldu.tistory.com/822)
   * [💡 ‘창업가’ 모드에 대한 착각 : ‘창업가 모드’는 독재가 아니고, 권한 위임은 인위적 책임 분배가 아니다.](https://www.linkedin.com/pulse/%EC%B0%BD%EC%97%85%EA%B0%80-%EB%AA%A8%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%B0%A9%EA%B0%81-%EB%AA%A8%EB%93%9C%EB%8A%94-%EB%8F%85%EC%9E%AC%EA%B0%80-%EC%95%84%EB%8B%88%EA%B3%A0-%EA%B6%8C%ED%95%9C-%EC%9C%84%EC%9E%84%EC%9D%80-%EC%9D%B8%EC%9C%84%EC%A0%81-%EC%B1%85%EC%9E%84-%EB%B6%84%EB%B0%B0%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-heecheol-moon-cahlc)
+  * [대기업처럼 하지마 (에어비엔비 대표) - YouTube](https://www.youtube.com/watch?v=cQd8hurOo4Y)
+    * [에어비앤비 창업자의 'Founder Mode' 전환 스토리 17년간 에어비앤비를 키운 브라이언 체스키가 어느 날 깨달았습니다. 자신이 회사를 잃어가고 있다는 것을 말이죠. 투자자들에게가 아닙니다. 바로 자신이 고용한 직원들에게 말입니다. 1. 좋은 조언이 독이 되는 순간 처음엔 모든 게 자연스러웠습니다. Y Combinator에서 배운 대로… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-founder-mode-%EC%A0%84%ED%99%98-%EC%8A%A4%ED%86%A0%EB%A6%AC-17%EB%85%84%EA%B0%84-%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84%EB%A5%BC-activity-7372011058556776448-qGtv)
 * [‘스타트업 창업자=경영자’ 공식, 맞는 걸까? < Wheel of Fortune < Magazine < 기사본문 - 포춘코리아 디지털 뉴스](https://www.fortunekorea.co.kr/news/articleView.html?idxno=42979)
 * [김민우 - 퍼블리를 애도하며 (1) 시장이 제일 중요하다 1. 퍼블리의 첫 타겟 고객은 꼭 저같은... | Facebook](https://www.facebook.com/minwoo.minu/posts/pfbid02grY6CG1cf7HF6TxEVhRLH3RxxZpgG9a5EY8i54LSc2aH4Re7McPjjS1BKwsnnGhYl) 스타트업은 시장 크기가 거의 전부다
 * [실행 vs. 전략](https://www.linkedin.com/posts/joonmopark_rlgsxusmc-29cm-tnlsqsukusxyuln-activity-7245656229371396096-HksE/) 피드백 사이클이란 단순한 구조의 반복
