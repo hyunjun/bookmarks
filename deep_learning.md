@@ -2431,6 +2431,8 @@ CVPR2016)
 * [Paper page - Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders](https://huggingface.co/papers/2407.14435)
   * JumpReLU SAE는 기존의 Gated 및 TopK SAE와 비교했을 때 더 나은 재구성 충실도와 희소성의 균형을 제공
   * 비연속적인 활성화 함수를 사용하지만 straight-through 추정기를 통해 효과적으로 학습 가능
+* [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260?trk=public_post_comment-text)
+  * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론 #meta | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
