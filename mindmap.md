@@ -163,7 +163,7 @@ markmap:
       - [How to Improve Developer Productivity • Jez Humble • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=5_rrQND3lpQ)
         - when deployment "zero downtime during the normal business hours"
     - e.g. Deployment 개선
-      - e.g. saas helm & Argo CD 
+      - e.g. saas helm & Argo CD
 - docker
   - log rotation 미설정으로 인한 disk usage 부족 문제
 - environment

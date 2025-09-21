@@ -734,7 +734,7 @@ App
   * 코드 에디터 https://code.visualstudio.com
   * CSS 라이브러리 https://tailwindcss.com https://bulma.io
   * 깃 저장소 https://github.com https://about.gitlab.com https://bitbucket.org/product
-  * 클라이언트 https://insomnia.rest (REST) https://altair.sirmuel.design (GraphQL) 
+  * 클라이언트 https://insomnia.rest (REST) https://altair.sirmuel.design (GraphQL)
   * 검색엔진 https://www.algolia.com
   * 유저 비밀번호 관리 https://auth0.com https://aws.amazon.com/ko/cognito
   * 이메일 https://www.mailgun.com https://mailchimp.com

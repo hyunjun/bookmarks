@@ -417,7 +417,7 @@ Web
     * Investigation는 상호운용성이 부족한데 테스트 통과만으로는 개선할 수 없는 영역을 조사하는 것
       * 모바일 플랫폼과 접근성 API에서 테스트 인프라가 불충분하다고 생각해서 이 부분에 집중할 예정
 * [Celebrate a more interoperable web with Interop 2023  |  Blog  |  web.dev](https://web.dev/blog/interop-2023-wrapup)
-  * 브라우저간 호환성을 유지하기 위해 여러 브라우저가 벤더가 공동으로 테스트를 만들어서 상호 운용성을 개선하기 위한 Interop 2023 마무리 
+  * 브라우저간 호환성을 유지하기 위해 여러 브라우저가 벤더가 공동으로 테스트를 만들어서 상호 운용성을 개선하기 위한 Interop 2023 마무리
   * 작년 초와 비교, 대부분 90점대 후반으로 큰 개선, `:has()`, 컨테이너 쿼리, 서비그리드, 색공간 등 주요한 기능 추가
   * 곧 Interop 2024 발표 예정
 * [The web just gets better with Interop 2024 | WebKit](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
@@ -2275,7 +2275,7 @@ Web
     * [wanteddev/lighthouse: Chatbot to run Lighthouse audits from Slack](https://github.com/wanteddev/lighthouse)
   * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
   * [웹 퍼포먼스 개선을 위한 Lighthouse CI 도입기 – DRAMA&COMPANY](https://blog.dramancompany.com/2021/04/%ec%9b%b9-%ed%8d%bc%ed%8f%ac%eb%a8%bc%ec%8a%a4-%ea%b0%9c%ec%84%a0%ec%9d%84-%ec%9c%84%ed%95%9c-lighthouse-ci-%eb%8f%84%ec%9e%85%ea%b8%b0/)
-  * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548) 
+  * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548)
   * [Lighthouse의 User Flow | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211202)
   * [Lighthouse 성능 지표를 사용한, '웹 애플리케이션 성능 측정 자동화 모듈' 개발기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/13)
   * [Lighthouse CI를 알아보고 Github Actions에 적용하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220602-lighthouse-with-github-actions/)

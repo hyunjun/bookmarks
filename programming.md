@@ -261,7 +261,7 @@ Programming
     > 꾸준하게 반복하는 걸 통해 달인이 되려면 적어도,
     > 1. 실력을 개선하려는 동기가 있어야 하고
     > 2. 구체적인 피드백을 적절한 시기에 받아야 한다
-    > 
+    >
     > 고 말할 수 있겠습니다. 단순히 반복한다고 해서 달인이 될 수 없습니다.
 * [AC2 교육의 역사 2023/9/7 - YouTube](https://www.youtube.com/watch?v=4Kzj8iqid5A)
 * [AC2 교육의 역사 2023 9 7 - YouTube](https://www.youtube.com/watch?v=H486LS7wAfY)
@@ -430,7 +430,7 @@ Programming
       * 탁월한 소프트웨어 개발자는 자신의 작업을 효과적으로 설명하고, 팀 간 협업하며, 적절한 솔루션을 구축하는 커뮤니케이션 능력이 있어야 합니다.
 이 대화는 개발자의 생산성과 행복을 위해서는 적극적인 커뮤니케이션, 팀 간 협업, 개발 환경 개선이 중요함을 강조하고 있습니다.
     * Chat playground
-      * 리즈 퐁-존스와 마릿 반 데이크는 성공적인 소프트웨어 개발을 위해서는 효과적인 의사소통과 협업이 중요하다고 강조합니다. 그들은 워크플로우를 간소화하고, 팀 간 지식 공유를 촉진하며, "개발한 것은 운영한다"는 철학을 통해 책임감 있는 문화를 조성하는 것이 중요하다고 말합니다. 
+      * 리즈 퐁-존스와 마릿 반 데이크는 성공적인 소프트웨어 개발을 위해서는 효과적인 의사소통과 협업이 중요하다고 강조합니다. 그들은 워크플로우를 간소화하고, 팀 간 지식 공유를 촉진하며, "개발한 것은 운영한다"는 철학을 통해 책임감 있는 문화를 조성하는 것이 중요하다고 말합니다.
       * 이 대화에서는 개발자 경험 최적화, 효율적인 팀 의사소통 관행, 소프트웨어 의존성 관리, 그리고 점점 진화하는 SRE(Site Reliability Engineering) 팀의 역할 등을 다룹니다. 주요 내용은 다음과 같습니다:
         * 개발자의 생산성을 높이고 중단을 피할 수 있는 도구 제공
         * 공유 책임과 운영 우수성을 지향하는 환경 조성
@@ -2921,7 +2921,7 @@ Programming
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
-* [The HARD TRUTH About Your Microservices - YouTube](https://www.youtube.com/watch?v=yC6EEuxhglE) microservice의 속성을 중심으로 이야기 
+* [The HARD TRUTH About Your Microservices - YouTube](https://www.youtube.com/watch?v=yC6EEuxhglE) microservice의 속성을 중심으로 이야기
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
@@ -8110,7 +8110,7 @@ Programming
       * OpenBao는 Linux 재단의 인큐베이팅을 받고 있고 IBM 개발자들이 엣지 컴퓨팅 이니셔티브인 LF Edge를 통해 프로젝트를 주도하고 있으면 아직 IBM에 공식 승인이 있었던 것은 아님
   * [Hello, HashiCorp Vault. HashiCorp Vault was announced in April… | by JB | Sep, 2024 | Medium](https://medium.com/@chillcaley/hello-hashicorp-vault-6d0f6d305538)
 
-# SBOM Software Bill of Materials 
+# SBOM Software Bill of Materials
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 * [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs)
 * [SBOM(소프트웨어 자재명세서) 구현을 위한 개방형 표준 - 슬로우뉴스](https://slownews.kr/90108)
@@ -9542,7 +9542,7 @@ Programming
   * 여기서 나오는 DDoS 공격은 세가지 유형
     * 처리량보다 더 많은 요청을 보내는 HTTP 요청 집중형 DDoS
     * 라우터/방화벽/서버에서 처리할 수 있는 패킷보다 더 많은 패킷을 보내는 IP 패킷 집중형 DDoS
-    * 인터넷을 포화 상태로 만드는 비트 집중형 DDoS 
+    * 인터넷을 포화 상태로 만드는 비트 집중형 DDoS
   * 이전에 비해 HTTP DDoS 공격을 줄어들고 Network 계층의 DDoS 공격 증가. 분야별 지역별 DDoS 위협 소개
 * [결제는 계속된다: 결제 담당자가 장애에 대응하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15236/)
 * [29CM 의 이굿위크 장애대응 기록. 이굿위크란? | by Greg Lee | Jan, 2024 | Medium](https://medium.com/@greg.shiny82/29cm-%EC%9D%98-%EC%9D%B4%EA%B5%BF%EC%9C%84%ED%81%AC-%EC%9E%A5%EC%95%A0%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-177b6b2f07a0)

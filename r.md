@@ -612,8 +612,8 @@ R
   4. RStudio에서 형태소분석 실행
 
     ```
-    "한글 테스트 입니다." %>% 
-    pos(format = "data.frame", user_dic = "C:/mecab/user.dic") 
+    "한글 테스트 입니다." %>%
+    pos(format = "data.frame", user_dic = "C:/mecab/user.dic")
     ```
     * 실행결과 "model is NULL" 메시지, format을 "data.frame"으로 지정하지 않으면 Exception: list( )
     * 사용자 사전을 지정하지 않으면 정상적으로 형태소분석 ``"한글/NNG"      "테스트/NNG"    "입니다/VCP+EF" "./SF"``

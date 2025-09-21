@@ -712,7 +712,7 @@ Artificial Intelligence
   * [Gemini API로 구현하는 LangChain Rag 파이프라인: PDF 학습 - 미완성의신](https://unfinishedgod.netlify.app/2024/03/27/gemini-api-langchain-rag-pdf/)
   * [Gemini 의 숨겨진 유용한 기능과 colab과 함께 사용하기 - YouTube](https://www.youtube.com/watch?v=f2JapEcvr9k)
     * 생성형 AI인 Gemini와 구글 코랩을 연동하여 데이터를 분석하는 방법 소개
-    * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능 
+    * Gemini의 숨겨진 기능인 구글 드라이브 연동 기능을 활용하여 출장 예산서 작성과 같은 작업 가능
     * 광고 데이터 분석과 같은 프롬프트를 작성하면 Gemini가 파이썬 코드를 생성하여 다양한 분석 기법 사용 가능
     * 생성된 코드를 구글 코랩에서 실행하면 데이터 분석 및 시각화 가능
     * Gemini와 코랩을 연동하여 데이터 분석 작업을 더욱 효율적으로 수행 가능
@@ -1370,8 +1370,8 @@ Artificial Intelligence
   * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5260832/4748701)
 * [Google’s healthcare AI made up a body part — what happens when doctors don’t notice? | The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
   * [치매에 걸린 LLM? Hallucination? Confabulation!](https://www.linkedin.com/posts/kwang-joon-kim-5b93618a_googles-healthcare-ai-made-up-a-body-part-activity-7358637602968621056-dGOa/)
-    * ‘없는 것’ 을 지어낸 것인지 - 즉, 지금 하는 말을 ‘허위‘ 로 생성한 것인지? - Hallucination 
-    * ’실제로 존재하는 정보지만 맥락을 잘못 해석해 엉뚱한 말을 하는건지‘ - 즉 있는 사실들을 잘못 연결하고 부분적으로는 꾸며내서 주장을 하는 건지’ - confabulation 
+    * ‘없는 것’ 을 지어낸 것인지 - 즉, 지금 하는 말을 ‘허위‘ 로 생성한 것인지? - Hallucination
+    * ’실제로 존재하는 정보지만 맥락을 잘못 해석해 엉뚱한 말을 하는건지‘ - 즉 있는 사실들을 잘못 연결하고 부분적으로는 꾸며내서 주장을 하는 건지’ - confabulation
     * 정신분열증 (환각) 환자와 인지기능저하 환자 (작화) 에 대한 접근방법,치료 방법이 달라지는 것과 마찬가지
 * [현재 미국에서 논란인 TEA 앱, 그리고 그것이 터졌습니다. - YouTube](https://www.youtube.com/watch?v=-Wa7zrhtRio) vibe coding이 문제점 언급
 * [The New Code — Sean Grove, OpenAI - YouTube](https://www.youtube.com/watch?v=8rABwKRsec4)
@@ -1442,24 +1442,24 @@ Artificial Intelligence
 * [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
 * [AI/노코드/SaaS툴 모음](https://www.linkedin.com/posts/michelleminkyungkim_tcwqluqwksmcslh-tcwqluqwktrzslh-tcwqluqwkswmtnktxuslh-activity-7253291019171966976-oh-4/)
-  * 슈퍼잡부: ChatGPT 
+  * 슈퍼잡부: ChatGPT
   * 글쓰기: Claude
   * 코딩: Cursor, Bolt.new
-  * 자료 조사: Perplexity 
+  * 자료 조사: Perplexity
   * 사업계획서/투자제안서 : Napkin
   * PPT : Gamma
   * 랜딩페이지 : runmoa
-  * 뉴스레터 자동화: Waveon 
-  * 카톡 자동화: Chatgee 
-  * 업무 자동화: Make 
-  * 컨텐츠 자동화: Metricool 
-  * 줌미팅 녹화: tl;dv 
-  * 회의록 요약: Clova 
+  * 뉴스레터 자동화: Waveon
+  * 카톡 자동화: Chatgee
+  * 업무 자동화: Make
+  * 컨텐츠 자동화: Metricool
+  * 줌미팅 녹화: tl;dv
+  * 회의록 요약: Clova
   * 아이디어 기획: Obsidian, Notion
-  * CRM: Airtable 
+  * CRM: Airtable
   * 고객응대: 채널톡, Manychat
-  * 컨텐츠 디자인: Canva 
-  * UI 디자인: Figma 
+  * 컨텐츠 디자인: Canva
+  * UI 디자인: Figma
   * 영상 편집: CapCut
 * [외국에선 핫하지만, 국내에는 덜 알려진 AI사이트 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=humor&wr_id=1422219)
   1. Perplexity – 질문하면 즉각 답변하는 AI 검색엔진

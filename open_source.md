@@ -147,7 +147,7 @@ Open Source
     * 기존에도 오픈소스 정책을 수립해 운용하고 있었지만
     * OpenChain의 규격을 적용하기 위해 정책을 직원이 쉽게 볼 수 있도록 하고
     * OSRB(Open Source Review Board)를 만들어서 법무팀, 특허팀, 보안팀, CTO 오피스, DevRel 팀이 검토할 수 있도록 하고 사내에 교육 진행
-* [모질라 허브로 게임 만들기가 가능해집니다. (BGs 프로젝트)](https://blog.naver.com/fstory97/223199220902) 
+* [모질라 허브로 게임 만들기가 가능해집니다. (BGs 프로젝트)](https://blog.naver.com/fstory97/223199220902)
   * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 * [Why I quit open source - DEV Community](https://dev.to/sapegin/why-i-quit-open-source-1n2e)
 * [오픈 소스 메커니즘](https://velog.io/@skydoves/open-source-machenism)

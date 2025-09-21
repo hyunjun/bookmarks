@@ -163,7 +163,7 @@ Network
   * 초반에 만화로 그린 DNS 질의 과정만 봐도 이해하기 용이
   * 이미 알고 있는 루트 네임 서버에 질의한 뒤 알려주는 네임 서버를 따라가면서 계속 질의해서 결국 IP를 알아내게 되는데
   * dig 명령어를 사용할 때처럼 DNS 질의를 할 때 나오는 Question, Answer, Authority, Additional 섹션에 대해서도 이해하기 쉽게 설명
-  * Question은 질의하는 부분이고 Answer는 해당 도메인의 IP 주소가 담겨있고 이 IP를 찾을 수 있는 네임 서버는 Authority에, 이 네임 서버들의 IP 주소는 Additional에 존재 
+  * Question은 질의하는 부분이고 Answer는 해당 도메인의 IP 주소가 담겨있고 이 IP를 찾을 수 있는 네임 서버는 Authority에, 이 네임 서버들의 IP 주소는 Additional에 존재
 * [New tool: Mess with DNS!](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
 * [DNS leak test](https://dnsleaktest.com/what-is-a-dns-leak.html)
 * [브라우저에서 요청한 도메인을 DNS 를 통해 해석되는 절차에 대해서 알아보자 | by Doa Choi | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%9A%94%EC%B2%AD%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%9D%84-dns-%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%95%B4%EC%84%9D%EB%90%98%EB%8A%94-%EC%A0%88%EC%B0%A8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-a3cce5307840)

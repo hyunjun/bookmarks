@@ -691,7 +691,7 @@ Docker
     * 이를 이용해서 새로운 shim을 사용할 수 있게 해서 Wasm 지원
   * 실행
     * `--runtime=io.containerd.wasmedge.v1`로 cointainerd shim을 사용하도록 해야 하고
-    * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
+    * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게
     * 글에서 실행 가능한 예제 제공
 * [Announcing Docker+Wasm Technical Preview 2 | Docker](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/)
   * 작년 말 WasmEdge 런타임으로 Docker에서 Wasm 컨테이너를 실행하는 기능이 테크니컬 프리뷰로 공개

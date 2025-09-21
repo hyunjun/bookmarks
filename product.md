@@ -114,7 +114,7 @@ Product
 * Magforce [세상에서 가장 복잡한 '가방'. 맥포스 이야기 - YouTube](https://www.youtube.com/watch?v=jvijyeVBuTk)
 * [Neweex - Homepage](https://www.neweex.com/)
 * 테크니처 노트북 백팩 [수납의 프로가 설계한 백팩. 컨스파라 '테크니처 노트북 백팩' - YouTube](https://www.youtube.com/watch?v=UShJpg1rMBA)
-* Nomatic 
+* Nomatic
   * [Amazon.com: NOMATIC Backpack- Water-Resistant RFID Laptop Bag, Everyday Backpack 20L - Updated 2020 V2 : Electronics](https://www.amazon.com/NOMATIC-Backpack-Resistant-Anti-Theft-Protected/dp/B0779L2Q4X/)
   * [ENG SUB)세계적으로 대히트친 여행용 백팩 - 노매틱 트래블 백팩을 메고 실제 여행을 다녀와보았다! 진짜 좋은점과 치명적인 단점은? - YouTube](https://www.youtube.com/watch?v=m5R36M8CKOA)
 * Rawrow [쓰임새에 집착했더니 어느새 기발해졌다. 가방다운 가방을 만드는 로우로우 이야기 - YouTube](https://www.youtube.com/watch?v=PPACQdUuTpk)

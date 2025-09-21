@@ -363,7 +363,7 @@ Business
   * 직접적인 이야기는 아니나 채용 뿐 아니라 조직 운영 관점에서 개인의 권한과 시스템 사이의 균형에 대해 생각해볼만한 이야기로 기록
   * 이 글을 기록하는 시점(2022.08.29)에서 얼마전 소프트뱅크 손정의 회장의 막대한 손실 및 그 사과에 대한 이야기가 화제
     * [1등 스타트업 모으던 손정의는 왜 반성문 써야했나 - 티타임즈](https://www.ttimes.co.kr/article/2022082617427723998)
-    * 막대한 손실을 기록해 그간의 이익을 모두 잃을 정도로 상황이 안 좋음 
+    * 막대한 손실을 기록해 그간의 이익을 모두 잃을 정도로 상황이 안 좋음
     * 도쿠가와 이에야스가 다케다 신겐에게 크게 지고 난 후 반성을 위해 그렸다는 그림을 걸고 사과
     * 투자 방법의 문제: 분석이 아니라 손정의의 감으로 막대한 자금을 투자
       * 2000년 알리바바 투자 당시 이름없던 영어교사 마윈에게 2천만달러 투자, 2014년 상장 당시 580억 달러
@@ -626,7 +626,7 @@ Business
     * 전문가도 숙련가가 되어버리는 전통적인 기능 조직 형태
     * 이러한 구조에서 개인은 지식 기반으로 역량이 성장하기보다는, 하는 일들에 익숙해지는 쪽으로 퍼포먼스 향상
       * 조직 내 개인들은 스스로 이러한 한계를 느낄 때 이직 선택
-      * 이직 사유 2위(보통 회사에 미래가 없어서 이직한다고 말하는데, 자기 성장의 미래가 불투명하다는 뜻), 1위는 연봉 
+      * 이직 사유 2위(보통 회사에 미래가 없어서 이직한다고 말하는데, 자기 성장의 미래가 불투명하다는 뜻), 1위는 연봉
   * 일하다 보면 숙련가가 전문가를 종종 폄훼(클리셰, 내가 해봐서 아는데)
     * 역량 기반에 대한 이해가 없어서 발생하는 일
     * 소설이기는 하지만 설명하기는 편하므로 삼국지연의를 예로 들자면 관우 장비가 초기에 제갈량을 못마땅해하는 것과 비슷
@@ -1431,14 +1431,14 @@ Business
       * “상황이 좋지 못했을 때 이런저런 압박과 부담이 많을 겁니다”
       * “많은 이들이 불안감과 절망감을 감추고 애써 긍정적이고 밝은 모습을 보여주려고 하는데 결코 이것은 답은 아닙니다”
     * 2. “모든 것을 짊어지지 마세요"
-      * “사업은 혼자 하는 게 아닙니다. 어려울수록 부담을 나누고 동료들과 머리를 맞대 해결방안을 찾아야 합니다” 
+      * “사업은 혼자 하는 게 아닙니다. 어려울수록 부담을 나누고 동료들과 머리를 맞대 해결방안을 찾아야 합니다”
     * 3. “아무리 힘들어도 수는 있습니다”
       * “후속 투자유치에 실패하자 '상장'이란 카드가 있었고 자본잠식에 도달하자 '매각'이란 카드가 있었고 재무관리와 비용통제에 실패하자 '감원'이란 카드가 있었고 제품판매에 어려움을 겪자 '전원야근'이라는 카드가 있었습니다”
-      * “넷 다 악수지만 그래도 수가 없진 않았습니다” 
+      * “넷 다 악수지만 그래도 수가 없진 않았습니다”
     * 4. “최대한 버티고 버티고 버티세요”
       * “업계의 내일이 오늘과 딴판일 수 있고 일단 살아남으면 기회를 모색할 수 있습니다”
     * 5. “문제가 터지면 해결하면 됩니다”
-      * “어차피 꿈과 목표의 크기만큼 고난은 다가옵니다. 어른과 아이의 차이는 고난을 극복하는 데 있음을 잊으면 안됩니다” 
+      * “어차피 꿈과 목표의 크기만큼 고난은 다가옵니다. 어른과 아이의 차이는 고난을 극복하는 데 있음을 잊으면 안됩니다”
 * [기업문화를 개선하고 싶은 초보CEO를 위한 6가지 제언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cultureupgrade20210902)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? | GeekNews](https://news.hada.io/topic?id=5054)
@@ -1457,7 +1457,7 @@ Business
   * 이 프로그램을 통해서 GitLab의 멤버들이 회사의 관점을 이해하게 되어 더 잘 협업 가능
     * 회사는 즉각적인 피드백을 얻고 외부에도 좋은 인상
   * 그동안의 인터뷰 영상과 진행 방식, 비용 처리 등 아주 자세히 나와 있음
-    * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘 
+    * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘
 * [스타트업 대표는 외롭다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/191668)
 * [이케아(IKEA)창업주, 잉바르 캄프라드](https://blog.naver.com/help2000/222858967777)
 * [창업자 CEO는 언제 어디서나 항상 평가 받아요](https://www.linkedin.com/posts/douglasguen_qwurbaqya-swmtnktxuslh-qsvsmpstcslh-activity-6971979293669150720-lR3i/)
@@ -3773,20 +3773,20 @@ Business
     * 2. Anything remotely related to the product is in a PMs scope of work
     * 3. In an organisation, no matter the title, no matter the level, you have to do what your boss asks you to do within reason
 * [Am I being exploited as a PM?](https://www.linkedin.com/posts/vishal-bagla_productmanagement-productmanagers-interviewprep-activity-7217777293589422080-ffrL/)
-  * Myth 1️⃣ 
-    * PM is NOT some entitled position and it definitely is NOT the CEO of the product. 
+  * Myth 1️⃣
+    * PM is NOT some entitled position and it definitely is NOT the CEO of the product.
     * Don't get into PM with the expectations that you will have to just give orders and people will be at your service.
-  * Myth 2️⃣ 
+  * Myth 2️⃣
     * As a PM, you have to get the work done from others which is the most difficult part.
     * For that, you may need to do a lot of things which you may not want. So, be prepared for it.
-  * Myth 3️⃣ 
+  * Myth 3️⃣
     * In reality, no work is low-level or high-level. It's a work and it has a larger objective. Focus on the objective.
     * You may or may not like it is a different thing altogether. If you don't like it, that's your problem.
     * You will realize this as you gain more experience.
-  * Myth 4️⃣ 
+  * Myth 4️⃣
     * The engineering and design team usually don't report to PM. So, if you think you will just tell them and they will do, sorry but you are wrong.
     * You will have to learn to convince without authority.
-  * Myth 5️⃣ 
+  * Myth 5️⃣
     * Product Management is not just about launching new products and features.
     * It's about tracking them, understanding competitors & industry, planning marketing & growth initiatives, and many more things.
 * [PM, PO가 개발자를 설득할 때 참고하면 좋은 것들](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_pm-po%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%84%A4%EB%93%9D%ED%95%A0-%EB%95%8C-%EC%B0%B8%EA%B3%A0%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83%EB%93%A4-1-%EC%9D%98%EB%AF%B8%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%9C%EB%8B%A4-activity-7235838567833354241-9wiP/)
@@ -4169,7 +4169,7 @@ Business
   17. When you discover what the heart of the game is, realign everything to support it.
   18. Put your ego aside.
   19. Keep a journal.
-  20. Nobody knows what will succeed. 
+  20. Nobody knows what will succeed.
 * [사업에서 속력은 그 무엇보다 중요하다](http://moneyman.kr/archives/4670)
 * [속도가 사업에서 중요한 이유 - 인생지름길](https://lifeshortcut.kr/%EC%86%8D%EB%8F%84%EA%B0%80-%EC%82%AC%EC%97%85%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0/)
 * [혼란하게 진행하기](https://jojoldu.tistory.com/776) 혼란하더라도 신속한 속도가 중요하다는 이야기

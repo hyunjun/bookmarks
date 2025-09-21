@@ -1055,7 +1055,7 @@ Programming Books
 * (NOT YET) [XAI, 설명 가능한 AI](https://bjpublic.tistory.com/463)
   * 한라 004.73-오65ㅇ
 * (NOT YET) 핸즈온 파이썬을 이용한 설명가능한 AI
-  * 탐라 문004.73-로58ㅎ  
+  * 탐라 문004.73-로58ㅎ
 * (NOT YET) [GPT-4를 활용한 인공지능 앱 개발](https://hanbit.co.kr/store/books/look.php?p_code=B8911235759)
   * 한라 004.735-케68ㅈ 우당 문004.735-케69ㅈ
   * [lee-monster/developing-apps-with-GPT-4: GPT-4를 활용한 인공지능 앱 개발(원제: Developing apps with GPT-4 and ChatGPT)의 소스 코드를 제공합니다](https://github.com/lee-monster/developing-apps-with-GPT-4)
@@ -3863,7 +3863,7 @@ Programming Books
     * 3 UX/UI의 최적화된 사례가 필요할 때
       * [GDWEB:지디웹](https://www.gdweb.co.kr/)
       * [토픽 | 디자이너스](https://designus.io/topic)
-    * 4 개발자와 일하다 자괴감이 들 때 [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304) 
+    * 4 개발자와 일하다 자괴감이 들 때 [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
     * 5 초기 스타트업의 기획자들이 1일 1독 해야 할 사이트 [First 1000 | Ali Abouelatta | Substack](https://read.first1000.co/)
     * 6 다양한 프로덕트를 만나고 싶을 때 [Product Hunt – The best new products in tech](https://www.producthunt.com/)
 * [7가지 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300224461)
@@ -4301,7 +4301,7 @@ Programming Books
   * [엑셀 × 파이썬 업무 자동화 : 매크로, VBA는 이제 낡았다! – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/11/18/%ec%97%91%ec%85%80-x-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%eb%a7%a4%ed%81%ac%eb%a1%9c-vba%eb%8a%94-%ec%9d%b4%ec%a0%9c-%eb%82%a1%ec%95%98%eb%8b%a4/)
   * [source](https://insightbookblog.files.wordpress.com/2020/11/excel_pythonec8ba4ec8ab5ec9888eca09c.zip)
 * (NOT YET) [일 잘하는 직장인을 위한 엑셀 자동화 with 파이썬 | 위키북스](https://wikibook.co.kr/pyexcel/)
-  * 탐라 문005.133-최68ㅇ 
+  * 탐라 문005.133-최68ㅇ
   * [pyexcel: 《일 잘하는 직장인을 위한 엑셀 자동화 with 파이썬》 예제 코드](https://github.com/wikibook/pyexcel)
 * (NOT YET) [일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기](https://hanbit.co.kr/store/books/look.php?p_code=B3346434043)
   * 탐라 문005.133-포58ㅇ

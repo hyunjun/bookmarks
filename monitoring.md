@@ -239,11 +239,11 @@ Monitoring
   * [Monitoring AWS Lambda With Datadog | Datadog](https://www.datadoghq.com/blog/monitoring-aws-lambda-with-datadog/)
   * [Python Logging with Datadog](https://julien.danjou.info/python-logging-with-datadog/)
   * [Datadog & GS Retail Webinar - YouTube](https://www.youtube.com/watch?v=qnrH3GVQww4)
-    * 1. Back End to Front End까지 이어지는 모니터링을 통하여 
+    * 1. Back End to Front End까지 이어지는 모니터링을 통하여
       * (1) 장애의 원인이 인프라 단인지, API 단인지 , 고객 단말 단인지, DB단인지? 에 대한 즉각적인 원인 분석 제공을 통한 빠른 장애 대응
       * (2) 기존 산재한 모니터링 툴이 정작 장애시 여러 모니터링툴을 보느라 장애 대응이 느려지는 경우 (인프라는 Cloud watch , APM 스카우터 or 제니퍼, ELK에서 일일히 Log 검색, DB는 멕스게이지 등등)
       * (3) 모니터링 비용이 과다하거나 또는 오픈소스 모니터링 운영을 위하여 개발자들이 너무 많은 리소스를 쓰지는  않는지?
-    * 2. AWS등 퍼블릭 클라우드 전환을 할 때의 모니터링 전략 고민 
+    * 2. AWS등 퍼블릭 클라우드 전환을 할 때의 모니터링 전략 고민
       * (1) On-prem , AWS를 각각 모니터링 해야하는지?
       * (2) AWS EKS , ECS 등 컨테이너 모니터링은 어떻게 해야할지
       * (3) AWS의 RDS ,Cloudfront, Lambda , Elastic cache , DynamoDB 등등 각각의 서비스 모니터링, CodePipeLine을 어떻게 개별적으로 관리할지? (데이터독은 모두 무상으로 모니터링을 제공 드립니다.)
@@ -314,7 +314,7 @@ Monitoring
 * [pyroscope: Continuous Profiling Platform. Debug performance issues down to a single line of code](https://github.com/grafana/pyroscope)
   * [Pyroscope and Grafana Phlare join together to accelerate adoption of continuous profiling, the next pillar of observability | Grafana Labs](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling)
     * Grafana가 Continuous Profiling의 시조 프로젝트인 Pyroscope 인수
-    * Grafana는 Continuous Profiling을 위해 작년에 Phlare를 발표했으나 이번 인수로 두 프로젝트를 Grafana Pyroscope라는 이름으로 통합 
+    * Grafana는 Continuous Profiling을 위해 작년에 Phlare를 발표했으나 이번 인수로 두 프로젝트를 Grafana Pyroscope라는 이름으로 통합
   * [How to troubleshoot memory leaks in Go with Grafana Pyroscope | Grafana Labs](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/)
     * Grafana가 최근에 인수한 Continuous Profiling 회사 서비스 Pyroscope를 이용해서 Go 프로그램의 메모리 릭을 추적하는 과정 설명한 글
     * 간단하게 메모리 릭이 있는 Go 프로그램을 작성하고 프로그램에 Pyroscope를 통합시킨 뒤 메모리 추적을 통해 프레임 그래프를 보면서 문제가 되는 부분을 찾음
@@ -349,7 +349,7 @@ Monitoring
 
 # Observability
 * [cncf/tag-observability: Technical Advisory Group for Observability 🔭⚙️](https://github.com/cncf/tag-observability/tree/main)
-  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)    
+  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [ What is Observability 2.0](https://middleware.io/blog/observability-2-0/)
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)

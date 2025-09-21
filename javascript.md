@@ -3743,7 +3743,7 @@ Javascript
 * [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023/)
   * Node.js의 성능 벤치마킹, 다른 런타임과 비교한 것은 아니고 Node.js의 16, 18, 20 버전 간의 성능 차이 테스트
   * 벤치마크 제품을 Node.js internal benckmark, 자체적으로 만든 nodej-sbench-operations, HTTP 서버로 나누어 테스트
-  * 테스트 레포도 제공하고 있어서 직접 확인 가능 
+  * 테스트 레포도 제공하고 있어서 직접 확인 가능
     * [state-of-nodejs-performance-2023: Raw results of State of Node.js Performance 2023 article](https://github.com/RafaelGSS/state-of-nodejs-performance-2023)
   * 파일시스템, Event, HTTP, 모듈, 스트림, 버퍼 등으로 나누어 각 버전에서 어떻게 성능이 차이가 나는지 비교
 * [성능 패널로 Node.js 성능 프로파일링  |  DevTools  |  Chrome for Developers](https://developer.chrome.com/docs/devtools/performance/nodejs?hl=ko)
@@ -3850,7 +3850,7 @@ Javascript
   * [속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개! - YouTube](https://www.youtube.com/watch?v=t9924eteb-4)
   * [“제 2의 노드JS 노린다” 오픈소스 런타임 환경 ‘번’이란? - ITWorld Korea](https://www.itworld.co.kr/news/258112)
   * [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
-    * [Bun 1.0 is here - YouTube](https://www.youtube.com/watch?v=BsnCpESUEqM) 
+    * [Bun 1.0 is here - YouTube](https://www.youtube.com/watch?v=BsnCpESUEqM)
   * [내일까지 Bun으로 다 바꿔오세요 (Bun vs Node.js vs Spring vs Python) - YouTube](https://www.youtube.com/watch?v=a8uPDppckQk)
   * [Serverless Bun vs Node: Benchmarking on AWS Lambda | by Mitchell Kossoris | Sep, 2023 | Medium](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2)
   * [Why use Vite when Bun is also a bundler? - Vite vs. Bun - DEV Community](https://dev.to/this-is-learning/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723)

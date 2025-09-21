@@ -972,7 +972,7 @@ Apache
 * [Kafka Dashboard | Datadog](https://www.datadoghq.com/dashboards/kafka-dashboard/)
   * 모니터링을 위해 DataDog을 사용하는 사람들에게 카프카 클러스터와 모니터링 스택을 통합하는 것을 도와주는 훌륭한 카프카 대시보드를 제공
   * 많은 지푯값들을 단순화함으로써 카프카 클러스터의 상태를 한눈에 알아볼 수 있도록 디자인
-* [kafka-monitor: Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more](https://github.com/linkedin/kafka-monitor) 
+* [kafka-monitor: Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more](https://github.com/linkedin/kafka-monitor)
   * 엑스 인프라 모니터(예전 이름: 카프카 모니터(Kafka Monitor))는 링크드인에서 카프카 클러스터와 브로커의 가용성을 모니터링하기 위해 개발
   * 클러스터의 토픽 집합에 인위적으로 데이터를 생성해 넣은 뒤 지연, 가용성, 누락 여부 등을 측정하는 식으로 동작
   * 클라이언트로 직접 조작할 필요 없이 카프카 클러스터의 상태를 측정할 수 있게 해 주는 귀중한 툴

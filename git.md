@@ -299,7 +299,7 @@ Git
     * 15분, 30분이라고 생각하면 빌드시간을 줄이는 데 드는 비용이 개발자 비용보다 훨씬 적기 때문에 강력한 하드웨어를 쓰는 게 타당
 * [Building GitHub with Ruby and Rails | The GitHub Blog](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
   * Ruby on Rails로 만들어진 GitHub.com은 이제 200만 줄의 코드로 구성되어 1,000명이 협업
-  * 매주 월요일 GitHub Actions 워크플로우가 Rails 프로젝트 메인 브랜치의 최신 커밋으로 Rails 버전을 업데이트해서 모든 빌드를 새 버전으로 
+  * 매주 월요일 GitHub Actions 워크플로우가 Rails 프로젝트 메인 브랜치의 최신 커밋으로 Rails 버전을 업데이트해서 모든 빌드를 새 버전으로
   * 전에는 새 버전 업데이트에 여러 달이 걸렸지만 이제 1주일 이내로 완료
     * 이 이점으로 Rails에 패치를 보내고 기다리거나 할 필요없이 Rails 프로젝트에 바로 패치를 전송 가능(merge되면 다음 주에 바로 적용)
     * 보안에도 좋으며
@@ -392,7 +392,7 @@ Git
     •  Twilio 로 텍스트 문자 메시지 보내기
     •  Infra CI/CD 로 Azure Web App 자동 생산하기
     • App Dev CI/CD 로 NodeJS 앱을 JEST 테스트/테스트 카버리지/깃허브 페키지 빌드/깃허브 아티팩트 사용한후 Azure 웹앱으로 배포하
-    •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기 
+    •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기
 * [CI/CD Github Actions으로 내 포트폴리오에 CI/CD를 적용하기](https://velog.io/@couchcoding/CICD-Github-Actions%EC%9C%BC%EB%A1%9C-%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%97%90-CICD%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-1)
 * [GitHub Actions 워크플로우의 승인 기능 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1556)
 * [Publish to NPM using GitHub Actions | Publishing Node.js packages to NPM using GitHub Actions - YouTube](https://www.youtube.com/watch?v=GW1sY_Ipfd0)
@@ -1553,8 +1553,8 @@ Git
   * "누가 작성한 코드야?" 를 쉽게 알아보는 git 프로그램
     * 누가 제일 많이 기여하고 수정했나
     * 누가 지웠나
-    * 어떤 버전에서 누가 뭘했나 
-    * 이 메소드는 누구 책임인가 
+    * 어떤 버전에서 누가 뭘했나
+    * 이 메소드는 누구 책임인가
     * 특정인이 언제 어느 폴더에서 뭘 했나
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)

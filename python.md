@@ -630,7 +630,7 @@ Python
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [Python Performance Tuning: 20 Simple Tips – Stackify](https://stackify.com/20-simple-python-performance-tuning-tips/)
 * [**고성능 ML 백엔드를 위한 10가지 Python 성능 최적화 팁 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2023/05/30/Python-Performance-Tips.html) 정말 좋은 글 배울 점도 많고 좋은 정보도 많음
-* [Structural matching simplifies the code – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4635) 간단하며 좋은 return  값 검증에 좋은 팁 
+* [Structural matching simplifies the code – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4635) 간단하며 좋은 return  값 검증에 좋은 팁
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [7 Ways to Take Your New Python Skills to the Next Level | by Martin Andersson Aaberge | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/7-ways-to-take-your-new-python-skills-to-the-next-level-1698335844bd)
