@@ -313,6 +313,7 @@ Artificial Intelligence
   * [벡터DB는 가라! 이제 "생성형" 검색의 시대가 온다](https://www.linkedin.com/posts/jeffrey-dongkyu_scalable-and-effective-generative-information-activity-7371181988592140288-kBJR)
 * [Anycrap 🛒 The Store of Infinite Products](https://anycrap.shop/)
   * [AnyCrap - 입력한 검색어로 상품을 생성하는 스토어 | GeekNews](https://news.hada.io/topic?id=23063)
+* [좋은 AI 혁신: 일자리 감소가 아닌 워크플로우 개선에 집중 ❖ AI 자동화에... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0xC9U2tkVFbyEgHf7vJed1AybmLUQUJBZwy6XfYR6e7xuVMnGGCMkAj2KPxWYDGR4l)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
