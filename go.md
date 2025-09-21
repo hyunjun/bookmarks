@@ -370,6 +370,23 @@ Go
 * [Go 언어의 15년 | GeekNews](https://news.hada.io/topic?id=17701)
 * [Why Go Should Sometimes Be a No-Go | Brain Baking](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
   * [가끔 Go는 No-Go가 되어야 합니다 | GeekNews](https://news.hada.io/topic?id=18276)
+* [Go SIMD Bitmap Analysis: Custom Assembly vs OnesCount64 Chunking Performance Comparison](https://gist.github.com/lizthegrey/51f2f7fae1087af819724047bd17d186)
+  * [Go SIMD Bitmap Analysis: Custom Assembly vs OnesCount64 Chunking Performance Comparison | Liz Fong-Jones](https://www.linkedin.com/posts/efong_go-simd-bitmap-analysis-custom-assembly-activity-7374632633856659457-dQk5)
+    * 문제 제기: Go 표준 라이브러리에 ARM64 NEON SIMD 최적화된 비트맵 연산을 추가하면 성능이 더 좋아질까?
+    * 실험 결과:
+      * SIMD 어셈블리(VLNT, VUADDLV 등)를 쓰면 벤치마크에서 3~6배 빠름
+      * 하지만 실제 코드에서는 함수 호출 오버헤드 때문에 이득이 거의 없음
+      * Go의 현재 방식(OnesCount64 + 단순 캐스팅)은 8바이트 단위 처리로 충분히 효율적이며, 오히려 작은 배열에서는 SIMD보다 빠름
+    * Go의 장점:
+      * 자동 인라이닝 지원
+      * 플랫폼 독립적
+      * 유지보수 부담 없음 (어셈블리 관리 불필요)
+      * 복잡하지 않고 조합성이 좋음
+    * 핵심 교훈:
+      * “최고의 API = 이론적 최고 성능”이 아님
+      * 적당히 좋은 성능 + 단순성 + 재사용성이 더 가치 있음
+      * 오히려 SIMD 최적화를 추가하면 복잡성과 유지비용만 늘어나고 실무에서는 손해
+    * 결론: Go 팀의 기존 설계가 옳았다. 때로는 최적화하지 않는 것이 최적화다
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
