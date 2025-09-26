@@ -817,6 +817,7 @@ Clojure
 * [EuroClojure](http://euroclojure.org/)
   * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
+  * [EuroClojure 2012 - YouTube](https://www.youtube.com/playlist?list=PLZdCLR02grLoRVh4Beepxe4DyCYt6eGnR)
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
 * [reClojure 2022](https://www.reclojure.org/)
   * [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
