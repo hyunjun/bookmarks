@@ -384,6 +384,7 @@ Programming
     * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
 * [한 발자국 내딛기 - Google Slides](https://docs.google.com/presentation/d/1jUBl_kDwPIa_L5ZTgVShPNjUo0mEKgQmFgLowGX-wTk/edit#slide=id.g26b4e388bdd_0_97) platform engineering
 * [Platform Engineering vs ‘클래식’ DevOps](https://www.linkedin.com/posts/victor-maltsev_platformengineering-devops-kubernetes-activity-7363497554488999938-jgr9/) “속도는 도구에서 나오지 않는다. 합의된 방식에서 나온다.”
+* [진정한 혁신은 우리가 단계를 더 빠르게 만드는 데서 벗어나, 그 단계 자체를 없애는 데 집중했을 때 비로소 시작되었습니다. #platformengineering #devops #devex #developerexperience #cloudnative #digitaltransformation | Victor M.](https://www.linkedin.com/posts/victor-maltsev_platformengineering-devops-devex-activity-7376549042614345728-OiHb)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
