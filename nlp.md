@@ -3897,6 +3897,7 @@ NLP
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
 * [RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)
   * [All-in-One RAG System!](https://www.linkedin.com/posts/sumanth077_all-in-one-rag-system-rag-anything-is-a-activity-7366372905531691008-LjGy/)
+  * [A Graph-powered all-in-one RAG system! (100% open-source and multimodal) Modern documents increasingly contain diverse multimodal content like text, images, tables, equations, charts, and… | Akshay Pachaar | 댓글 17](https://www.linkedin.com/posts/akshay-pachaar_a-graph-powered-all-in-one-rag-system-activity-7376976934632730624-pDkL)
 * Ragas [Introduction | Ragas](https://docs.ragas.io/)
 * [rag-demystified: An LLM-powered advanced RAG pipeline built from scratch](https://github.com/pchunduri6/rag-demystified)
 * [RAGFlow | RAGFlow](https://ragflow.io/)
@@ -4380,6 +4381,10 @@ NLP
 # Ontology
 * [jena Ontology API와 sparQL을 사용하여 검색시스템 만들기](http://cholol.tistory.com/225)
 * [팔란티어는 어떻게 '맥락'을 데이터로 저장할까? | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%A5%EB%9D%BD%EC%9D%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80%EB%9D%BC%EB%8A%94-%EB%8B%A8%EC%96%B4%EA%B0%80-%EC%96%B4%EB%94%98%EA%B0%80-activity-7343744817501282305-mOCx)
+* [조직 데이터를 이해하는 LLM의 시작점: 온톨로지(Ontology) - Deskroom | 블로그](https://blog.deskroom.so/platform/deskroom-supports-ontology-for-ai-driven-decision-making)
+* [과거 온톨로지(Ontology) 구축을 직접 시도해본 경험이 있었다. 정말 쉽지 않았다. 비정형 문서에서 어떤 엔터티를 뽑아야 할지, 그 관계를 어떻게 정의해야 할지가 가장 큰 난관이었다. 업무 전문가들에게 물어도 “우리가 모르는 새로운 인사이트를 엔터티로 만들어야 하는 거 아닌가요?”라는 답변이 돌아오곤 했다. 결국 해당 도메인의 논문과 문서를 뒤져… | 이재훈](https://www.linkedin.com/posts/%EC%9E%AC%ED%9B%88-%EC%9D%B4-998b64108_%EA%B3%BC%EA%B1%B0-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80ontology-%EA%B5%AC%EC%B6%95%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%8B%9C%EB%8F%84%ED%95%B4%EB%B3%B8-%EA%B2%BD%ED%97%98%EC%9D%B4-%EC%9E%88%EC%97%88%EB%8B%A4-%EC%A0%95%EB%A7%90-activity-7368393340695867393-WRLB)
+  * 1. 데이터 구조를 잘 알고 원하는 답을 정확히 아는 경우에는 SQL이 더 빠르다
+  * 2. 반대로 데이터 구조를 모르거나 답이 어디에 있는지 모를 때는, 온톨로지 관계를 따라가다 보면 새로운 길을 열어줄 수도 있다
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
