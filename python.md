@@ -4950,6 +4950,8 @@ Python
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [Day 25 : Extract Text from PDF with Python - YouTube](https://www.youtube.com/watch?v=pURQKbM3e-E)
 * [High Volume PDF Text Extraction using Python Open-Source Tools — Harald Lieder - YouTube](https://www.youtube.com/watch?v=hjswZbbglbw)
+* [Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.](https://github.com/bytedance/Dolphin)
+  * [Dolphin: A Framework for Converting PDFs to Structured Formats | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_turn-pdf-files-into-clean-llm-ready-data-activity-7376162117584027648-3yNM/)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
