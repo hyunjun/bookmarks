@@ -343,6 +343,7 @@ Politics
   * ["개성공단 전면 중단은 법치주의 위반이다"](http://www.pressian.com/news/article.html?no=133166)
   * [진보는 은폐하고 보수는 외면했던 개성공단의 진실](http://www.ziksir.com/ziksir/view/2981)
   * [**박근혜 대통령 탄핵소추안 헌재는 어떻게 결정했나**](http://news.khan.co.kr/kh_storytelling/2017/judge/)
+  * ["박근혜는 연산군…대통령 하기 싫다"](https://www.pressian.com/pages/articles/126011)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)
@@ -403,6 +404,7 @@ Politics
   * 포스코
     * [‘왕차관’이 주무른 포스코 회장 인선](http://newstapa.org/24671)
     * [포스코는 MB정권 전리품?](http://newstapa.org/24679)
+  * ["MB는 교활한 양아치…문재인은 또 진다"](https://www.pressian.com/pages/articles/126077)
 * 이승만
   * [결코 무시해서는 안 될 이승만의 업적](http://ppss.kr/archives/36270)
   * [보도 연맹 양민학살](http://www.soonpenge.com/index.php?mid=slrbest&category=5537198&document_srl=8862069)
