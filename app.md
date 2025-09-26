@@ -540,6 +540,8 @@ App
 * [web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere](https://github.com/webclipper/web-clipper)
 
 # Browser
+* [Atlassian agrees to acquire The Browser Co. for $610 million](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
+  * [Arc와 Dia 브라우저 제작사 The Browser Company, Atlassian에 | GeekNews](https://news.hada.io/topic?id=22912)
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [FixBrowser](https://www.fixbrowser.org/)
   * [FixBrowser - 처음부터 새로 개발된 경량 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=18443)
