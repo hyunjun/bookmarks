@@ -279,6 +279,7 @@ Business
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
 * [나쁜 말이 나쁜 조직을 만든다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/190115)
 * [개발자가 조직문화에 대해 관심을 가져야 하는 이유](https://evan-moon.github.io/2019/08/06/developer-with-organizational-culture/)
+* [개발팀이 무너질 때 나타나는 신호 5가지 - 상세 가이드 #스타트업 #개발팀 #cto #엔지니어링관리 #조직문화 #개발문화 #컨설팅 | 이찬우](https://www.linkedin.com/posts/chanwoo-lee-chan7ee_swmtnktxuslh-qpqrqetyo-cto-activity-7376540904146440192-HJaf)
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
@@ -4640,6 +4641,7 @@ Business
 * [AI가 바꾼 일의 판: 디자이너 전성시대](https://brunch.co.kr/@jiyuhan/111)
 * [Design for AI - the Invisible Features](https://brajeshwar.com/2025/design-for-ai-the-invisible-features/)
   * [AI를 위한 디자인 - 보이지 않는 기능들 | GeekNews](https://news.hada.io/topic?id=23148)
+* [당신의 수준 파악완료: 하지말아야 할 애니메이션 실수들](https://velog.io/@k-svelte-master/ux-pattern-transition)
 * aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
   * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
   * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
