@@ -18,6 +18,7 @@ Artificial Intelligence
     * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
     * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
   * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
+* [Meta AI Infrastructure Overview (1)](https://iodized-hawthorn-94a.notion.site/Meta-AI-Infrastructure-Overview-1-27754c8e1f0a80359634c2e3c47d9e77)
 * [납품업체 75%, ‘사람보다 AI와 협상하는 게 속 편하다’ - YouTube](https://www.youtube.com/watch?v=aC_59ueNMoI)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
@@ -416,6 +417,7 @@ Artificial Intelligence
   * [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 20 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5815775/5594744)
 * ['바이브 코딩'은 옛말...'에이전트 군집 코딩' 시대 열려 < 산업일반 < AI산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=202433)
   * [#agenticdevelopment #startuplife #ai #productdevelopment | Mark Ruddock | 댓글 68](https://www.linkedin.com/feed/update/urn:li:activity:7368647652940382209/)
+* [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -519,6 +521,7 @@ Artificial Intelligence
 * [6 Best Artificial Intelligence Courses for Healthcare in 2022](https://www.mltut.com/best-artificial-intelligence-courses-for-healthcare/)
 * [10 Best Certification Courses for Artificial Intelligence in 2022](https://www.mltut.com/best-certification-courses-for-artificial-intelligence/)
 * [부스트캠프 AI Tech Product Serving, 러닝 마스터 강의 후기 · 어쩐지 오늘은](https://zzsza.github.io/diary/2022/06/17/boostcamp-aitech-lecture-design-retrospective/)
+* [Free AI courses from Amazon for 2025 | Sai V.님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sai-v-34238017a_aws-cloudcomputing-jobopportunity-activity-7375514800505868288-vXH5)
 * [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
 * [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
@@ -650,6 +653,7 @@ Artificial Intelligence
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [**내가 LLM과 함께 코딩하는 방식**](https://hackers.pub/@hongminhee/2025/how-i-code-with-llms)
+  * [“비개발자라면 v0의 바이브코딩 마법을 믿어보세요”(로빈 융 Vercel 현장엔지니어링 총괄) - YouTube](https://www.youtube.com/watch?v=4oYQbVV8tv4)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -1515,6 +1519,7 @@ Artificial Intelligence
   * [이미지를 업로드하거나 텍스트 입력으로 이미지를 생성할 뿐아니라 (마치 비지오처럼) 노드를 연결해서 계속 새로운 형태로 변형](https://www.linkedin.com/posts/duckjungkim_%ED%8F%89%EC%86%8C%EC%97%90-ai%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%82%98-%EC%98%81%EC%83%81%EC%9D%84-%EB%A7%8C%EB%93%A4-%EA%B8%B0%ED%9A%8C%EA%B0%80-%EC%97%86%EC%97%88%EB%8A%94%EB%8D%B0-%EC%9D%B4-%ED%88%B4%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EB%8B%88-activity-7319369168649170945-DVEY/)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
+  * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [Google AI 에지  |  Google AI Edge  |  Google AI for Developers](https://ai.google.dev/edge?hl=ko)
@@ -1606,6 +1611,8 @@ Artificial Intelligence
 * [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
   * [Open-Source GenBI Agent — Text-to-SQL Made Easy](https://getwren.ai/oss)
   * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
+* [Z.ai - Free AI Chatbot powered by GLM-4.5](https://chat.z.ai/)
+  * [Z.ai, 단순한 도구가 아니다: 'AI 복기'로 인간 뇌를 확장해보기 Z.ai를 테스트해보았습니다. 리서치 보고서를 업로드 한 후, "맥퀸지 컨설팅 보고서 형태로 만들어. 데이터나 도표 등은 시각화 자료도 포함해. 톤은 블루톤으로 하고, 문장은 간결형으로~함으로 끝나야해. 전문용어나 약어는 설명을 보강해” 결과는 skywork 보다 컬러나 아이콘이… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_zai-%EB%8B%A8%EC%88%9C%ED%95%9C-%EB%8F%84%EA%B5%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-ai-%EB%B3%B5%EA%B8%B0%EB%A1%9C-%EC%9D%B8%EA%B0%84-%EB%87%8C%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%B4%EB%B3%B4%EA%B8%B0-activity-7376565909454249984-aAE8)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -1780,6 +1787,9 @@ Artificial Intelligence
     * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
     * [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다 - YouTube](https://www.youtube.com/watch?v=w7aKhWjtBXQ)
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
+  * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
+    * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
+      * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
