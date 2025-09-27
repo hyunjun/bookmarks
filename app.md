@@ -545,6 +545,9 @@ App
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [FixBrowser](https://www.fixbrowser.org/)
   * [FixBrowser - 처음부터 새로 개발된 경량 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=18443)
+* [Helium Browser](https://helium.computer/)
+  * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
+  * [Helium 브라우저 | GeekNews](https://news.hada.io/topic?id=23276)
 * [Ladybird](https://ladybird.org/)
   * [Ladybird - 새로운 웹브라우저 & 웹엔진 | GeekNews](https://news.hada.io/topic?id=15640)
   * [Ladybird 브라우저, Swift 언어를 사용하기로 결정 | GeekNews](https://news.hada.io/topic?id=16284)
@@ -1652,7 +1655,6 @@ App
   * [Show Current Language in Macos](https://cliearl.github.io/posts/etc/show-current-language-in-macos/)
 * [handbrake](https://handbrake.fr/)
   * [맥에서 자막 내장한 mp4, m4v 작업하기](http://meteos.tistory.com/538)
-* [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [Hidden Bar lets you hide menu bar items to give your Mac a cleaner look](https://github.com/dwarvesf/hidden)
 * [highlight](https://github.com/taggon/highlight)
 * [Hookshot](https://hookshot.app/) spectacle 유사
