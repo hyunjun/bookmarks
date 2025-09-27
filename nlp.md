@@ -4423,6 +4423,8 @@ NLP
   * [LLM 모델이 스스로 '사고 과정(CoT)을 평가하고 개선'](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7368421153805135874-XORP)
 * [2509.07414v1 Language Self-Play For Data-Free Training](https://arxiv.org/pdf/2509.07414)
   * [김성완 - Language Self-Play For Data-Free Training 메타에서 대규모 언어 모델... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0iiR4hNgVufW2r6CaQLD5mfLhMxVtfjHwG47qxDEHSAVrwnYvTd4UH2BqER4JCgZBl)
+* [2509.15172 Internalizing Self-Consistency in Language Models: Multi-Agent Consensus Alignment](https://arxiv.org/abs/2509.15172)
+  * ["왜 언어 모델은 일관된 생각을 유지하지 못할까?"라는 질문에 정면으로 도전하는 내용 #meta #모델_일관성 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-riwqzcabrsueqtkspf-activity-7377175086182813696-64Jf)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
