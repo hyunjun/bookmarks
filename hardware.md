@@ -411,6 +411,7 @@ Hardware
   * [PiBox Mini - 라즈베리 Pi 스토리지 서버 | GeekNews](https://news.hada.io/topic?id=5507)
 * PiDog [SunFounder PiDog AI Robot Dog Kit for Raspberry Pi 5/4/3B+/3B/Zero 2W, ChatGPT-4o Enabled with Voice Command & Video Recognition | SunFounder](https://www.sunfounder.com/products/sunfounder-pidog-robot-dog-kit-for-raspberry-pi)
   * [라즈베리 파이로 작동하며 Chat GPT 연동 가능한 인공지능 로봇 개, 파이독 리뷰 - YouTube](https://www.youtube.com/watch?v=W3hnPOu0b_U)
+* [Raspberry Pi 500+ - $200로 구축하는 올인원 PC | GeekNews](https://news.hada.io/topic?id=23300)
 * [snips.ai](https://snips.ai/) 파이썬 기반 음성비서
 
 # Reverse Engineering
