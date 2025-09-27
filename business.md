@@ -1274,6 +1274,21 @@ Business
   * [당신 회사는 주니어 개발자가 필요해요 | GeekNews](https://news.hada.io/topic?id=16682)
 * [채용도 투자 유치처럼 접근해야 성공할 수 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiring20220722)
 * [채용이란 무엇인가? - Google Docs](https://docs.google.com/document/d/1HVmOG4-_mgpqUDPCqPLjfRfl91JbnBPiVH7zy9XEiiI/edit?tab=t.0)
+* [Open AI가 공개한 공식 채용기준 | Juan Lee](https://www.linkedin.com/posts/candid-juan_open-ai-recruiting-ugcPost-7375696534924886016-gnsA)
+  * 1. 오너십(Ownership)
+    * 불확실성과 속도 감수. 문제 정의 → 가설 → 실행 → 교훈까지 끝단까지 책임졌던 경험이 있는가
+    * "So ownership, end-to-end ownership, and agency, and autonomy."
+  * 2. 빌더 마인드셋(0 to 1)
+    * 완벽한 자원이 없는 상태에서도 0 to 1을 만들어내는 실행 정신. 문제를 말하는 데에서 그치지 않고 문제를 ‘해결한’ 사례를 가지고 있는가
+    * "Being a builder, having a scrappy zero-to-one mentality."
+  * 3. 호기심 & 학습 탄력성 
+    * 전공/커리어가 맞지 않아도 괜찮다. 중요한 건 새로운 영역에서 빠르게 적응해 성과를 내 본 경험
+    * "And one of them, was even a professional poker player."
+  * 4. 낮은 자아(Low Ego)
+    * '나'보다 '팀'과 '미션'. 팀 성공을 위해서 내 영역 외의 일을 돕는 태도가 가점을 만든다
+    * "Low ego is something we appreciate."
+  * 5. 인터뷰 전략: Think–Edit–Speak
+    * 정답보다 추론과정을 명확히해라. 추론 과정 설명 → 문제 해체 → 협력적 태도 → 가정 요청 → 검증
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -2331,6 +2346,8 @@ Business
   * 5. 결정은 한 명이 한다
   * 6. 그 한 명은 누구인가?
   * 7. 위임은 언제라도 회수될 수 있다
+* [How to Delegate Like a Founder CEO](https://www.the-founders-corner.com/p/how-to-delegate-like-a-founder-ceo?trk=public_post_comment-text)
+  * [🔥 <창업자가 위임 못 하면, 회사는 그냥 창업자 to-do list 수준에 묶여버린다> - 회사를 진짜로 키우려면 위임을 ‘제대로’ 배워야 한다. 😵 아침 9시인데 벌써 하루가 꼬였다. 데크는 밀리고, 배송은 지연되고, 급한 불은 세 개나 터졌다. 정작 창업자가 잡아둔 ‘비전 작업’은 아직 시작도 못 했다. 열정과 집착으로 여기까지 끌고… | Daero Won | 댓글 10](https://www.linkedin.com/posts/wondaero_%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%9C%84%EC%9E%84-%EB%AA%BB-%ED%95%98%EB%A9%B4-%ED%9A%8C%EC%82%AC%EB%8A%94-%EA%B7%B8%EB%83%A5-%EC%B0%BD%EC%97%85%EC%9E%90-to-do-list-%EC%88%98%EC%A4%80%EC%97%90-activity-7377107135182286849-gT8D)
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
