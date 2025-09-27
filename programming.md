@@ -7220,6 +7220,7 @@ Programming
   * [9월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/09/b-9-1.html)
   * [9월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/09/b-9-2.html)
   * [9월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/09/b-9-3.html)
+  * [9월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/09/b-9-4.html?fbclid=IwY2xjawNEqe9leHRuA2FlbQIxMABicmlkETE3VGExdEkxVHhXTmp0bjJMAR6T-MIXFz5Ybk3nWOGmLCOeQnk2kNLpkX6qeWXVODYkPudt0pp9SUlXQKy7JQ_aem_vDC4h4No0vBeogNDWsPl-g)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
