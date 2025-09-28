@@ -11,9 +11,9 @@ Score: ★★★★★
     - [The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
     - [컴퓨터 vs 책: [독서광] 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     - [011. 실용주의 프로그래머를 지향합니다.](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
-    
+
     [https://www.youtube.com/watch?v=4I9DZm2aBhY](https://www.youtube.com/watch?v=4I9DZm2aBhY)
-    
+
     - [실용주의 프로그래머](https://jh4hj.tistory.com/entry/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8) November 13, 2009 → November 17, 2009
         - [008. 지속 가능한 소프트웨어 개발](https://www.linkedin.com/pulse/008-%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 
@@ -28,7 +28,7 @@ Score: ★★★★★
 ![_5.jpg](the_pragmatic_programmer/_5.jpg)
 
 - `기술은 바뀌었을지 모르나 사람은 바뀌지 않았다. 20년 전에 유용했던 실천 방법이나 접근 방식은 여전히 유용`
- 
+
 ![_6.jpg](the_pragmatic_programmer/_6.jpg)
 
 - `추천하는 기법을 대부분 보편적으로 활용할 수 있다… 모듈화는 코드, 설계, 문서화, 팀 조직에 모두 적용할 수 있다`
@@ -281,8 +281,8 @@ Score: ★★★★★
 ![183.jpg](the_pragmatic_programmer/183.jpg)
 
 - `다리를 설계할 때는 그 형태가 바뀌지 않기를 바랄 것이다. 따라서 구조가 단단해야 한다… 하지만 소프트웨어를 설계할 때는 언젠가 형태를 바꾸려 할 것… 소프트웨어 구조는 유연해야 한다. 그리고 유연하려면 각각의 부품이 다른 부품에 가능한 한 조금만 연결되어야…`
-    
-    
+
+
     - software architecture의 architecture가 건축에서 유래한 말이지만, 건축의 속성까지 가져올 수 없는 이유
 
 ![189.jpg](the_pragmatic_programmer/189.jpg)
@@ -309,12 +309,12 @@ Score: ★★★★★
 - `상태를 쌓아 놓지 말고 전달하라`
     - `데이터를 전체 시스템 여기저기의 작은 웅덩이에 흩어 놓는 대신, 데이터를 거대한 강으로, 흐름으로 생각하라. 데이터는 기능과 동등해진다. 파이프라인은 코드 → 데이터 → 코드 → 데이터 ……의 연속… 데이터는 더 이상 클래스를 정의할 때처럼 특정한 함수들과 묶이지 않는다… 결합을 대폭 줄일 수 있다… 어떤 함수든 매개 변수가 다른 함수의 출력 결과와 맞기만 하면 어디서나 사용하고 또 재사용할 수 있다`
     - 역시 위에서 이야기한 unix/linux command의 pipe와 마찬가지
-        
+
         ```mermaid
         flowchart LR
           d1[data/input] --> c[code] --> d2[data/output & input] --> c2[code] --> d3[data/output & input] --> c3[...]
         ```
-        
+
 
 ![226.jpg](the_pragmatic_programmer/226.jpg)
 

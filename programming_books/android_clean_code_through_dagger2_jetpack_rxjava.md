@@ -2,7 +2,7 @@
 ==================================
 <img src="android_clean_code_through_dagger2_jetpack_rxjava/0.jpg" alt="title" width="400"/>
 
-# 01장 안드로이드 애플리케이션 설계 소개 
+# 01장 안드로이드 애플리케이션 설계 소개
 ## 2 애플리케이션의 설계 원칙
 <img src="android_clean_code_through_dagger2_jetpack_rxjava/2.jpg" width="400"/>
 

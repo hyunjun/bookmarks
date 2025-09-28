@@ -99,7 +99,7 @@ THE NATURE OF SOFTWARE DEVELOPMENT
 ## CHAPTER 09 요약
 <img src="the_nature_of_software_development/23.jpg" alt="" width="400"/>
 
-> 이것이 전부입니다. 무척 간결합니다. 가장 높은 위치에 있는 경영진부터 가장 아래쪽에 있는 제품 책임자, 그리고 개발자 모두가 알아야만 합니다. 
+> 이것이 전부입니다. 무척 간결합니다. 가장 높은 위치에 있는 경영진부터 가장 아래쪽에 있는 제품 책임자, 그리고 개발자 모두가 알아야만 합니다.
 
 # PART 2 메모와 에세이
 

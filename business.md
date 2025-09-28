@@ -1284,7 +1284,7 @@ Business
   * 2. 빌더 마인드셋(0 to 1)
     * 완벽한 자원이 없는 상태에서도 0 to 1을 만들어내는 실행 정신. 문제를 말하는 데에서 그치지 않고 문제를 ‘해결한’ 사례를 가지고 있는가
     * "Being a builder, having a scrappy zero-to-one mentality."
-  * 3. 호기심 & 학습 탄력성 
+  * 3. 호기심 & 학습 탄력성
     * 전공/커리어가 맞지 않아도 괜찮다. 중요한 건 새로운 영역에서 빠르게 적응해 성과를 내 본 경험
     * "And one of them, was even a professional poker player."
   * 4. 낮은 자아(Low Ego)

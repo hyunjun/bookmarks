@@ -10,12 +10,12 @@ Score: ★★★☆☆
     - 탐라 문691.15-오79ㄹ
     - [리그 오브 레전드 플레이어 중심주의](https://jhrogue.blogspot.com/2023/09/blog-post_21.html)
 - bottom up vs. top down. 지금 제일 고민이 되는 지점 중 하나여서 기록으로 남겨둠.
-    
+
     ![player_focus_1.jpg](player_focus/player_focus_1.jpg)
-    
+
     - `뭐든 밸런스가 중요하다` 정말 그렇다. 나이가 들수록 더 느끼는 것 중 하나
 - `efficiency vs effectiveness` 역시 조직의 성장과 함께 중요하다고 느끼는 것 중 하나
-    
+
     ![player_focus_2.jpg](player_focus/player_focus_2.jpg)
-    
+
     - Peter Drucker의 이야기도 기억이 나고, 또 Klaus Bucka-Lassen의 4사분면 설명도 기억이 난다

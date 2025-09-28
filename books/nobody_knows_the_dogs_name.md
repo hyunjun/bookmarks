@@ -8,9 +8,9 @@ Score: ★★★☆☆
 
 - ★★★☆☆ June 3, 2024
     - 한라 838-가64ㄱ
-    
+
     [https://www.youtube.com/watch?v=LLUz01LBhlA&ab_channel=SBS뉴스](https://www.youtube.com/watch?v=LLUz01LBhlA)
-    
+
     - [남극서 살아남은 개들…'그 개의 이름은 아무도 모른다' | 연합뉴스](https://www.yna.co.kr/view/AKR20240308156600005)
 
 ![japan_antartica_dog_1.jpg](nobody_knows_the_dogs_name/japan_antartica_dog_1.jpg)

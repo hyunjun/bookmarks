@@ -15,22 +15,22 @@
 # Comparison
 
 - 대상 동영상:
-    
+
     [https://www.youtube.com/watch?v=4ijnajzwor8](https://www.youtube.com/watch?v=4ijnajzwor8)
-    
+
 - Summarization
     - [https://vidigo.ai//chatbot/summary/kupgzvNDYTVZHVI](https://vidigo.ai//chatbot/summary/kupgzvNDYTVZHVI)
-        
+
         ![SCR-20240306-noiw.jpeg](youtube_summarization_comparison/SCR-20240306-noiw.jpeg)
-        
+
     - [https://lilys.ai/digest/350318?sId=4ijnajzwor8](https://lilys.ai/digest/350318?sId=4ijnajzwor8)
-        
+
         ![SCR-20240306-nogx.png](youtube_summarization_comparison/SCR-20240306-nogx.png)
-        
+
     - Whisper(large model)는 진행하다가 너무 느려 취소
-        
+
         ![SCR-20240306-nnyc.png](youtube_summarization_comparison/SCR-20240306-nnyc.png)
-        
+
 
 ## Speed
 
@@ -40,9 +40,9 @@
     - Whisper: (동영상을 download해 진행) local이긴 하지만 Macbook M2 Pro(16GB)에서 하는데 시작한 지 1시간이 넘었지만 아직도 진행중이고 언제 끝날지 모르겠음
         - 추가로 작업 진행하는 동안 Macbook을 거의 제대로 사용할 수 없을 정도로 부하가 심함
         - 다른 동영상(11m39s라 위의 대상 동영상 22m의 절반 길이)으로, model을 small로 한 경우에는 25분만에 script를 다 받았는데, 이걸 다시 번역해서 요약을 시키는 경우에도 결국 작업시간이 들어가기 때문에 속도나 사용 편의성 면에서 위의 두 가지 상용 product와는 비교하긴 어려움. 다만 원하는 LLM을 선택 사용할 수 있다는 점 정도가 작은 장점일 수 있음
-            
+
             ![SCR-20240306-oavx.png](youtube_summarization_comparison/SCR-20240306-oavx.png)
-            
+
 
 ## Quality
 
@@ -152,5 +152,5 @@
 - 다만 Lilys.ai가 먼저 개발한 product여서 그런지 좀 더 다양한 기능을 제공하는 걸 알 수 있음
     - 세션 유지 시간을 짧게 설정했는지 로그인이 너무 빠르게 풀리고, 새로운 url을 입력할 때나 공유하기 버튼을 사용할 때 이상하게 한 번에 동작하는 경우가 없는 등 소소한 오류나 불편함이 있음
 - VidiGo가 채택한 카카오톡 이용하는 방식이 확실히 사용이 간단해서 우리나라에서는 강점이 있을 걸로 예상
-    
+
     ![SCR-20240306-nzlp.png](youtube_summarization_comparison/SCR-20240306-nzlp.png)

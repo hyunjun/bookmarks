@@ -26,7 +26,7 @@
   * 매출총이익
   * 네트워크 효과
     * 1. 네트워크 효과 5가지
-      * (1) 직접 네트워크 효과(Direct Network Effects) 
+      * (1) 직접 네트워크 효과(Direct Network Effects)
       * (2) 간접 네트워크 효과(Indirect Network Effects)
       * (3) 양면적 네트워크 효과(Two-Sided Network Effects)
       * (4) 지역 네트워크 효과(Local Network Effects)

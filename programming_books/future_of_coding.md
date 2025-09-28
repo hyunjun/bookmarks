@@ -150,7 +150,7 @@
 
 <img src="future_of_coding/24.jpg" width="400"/> <img src="future_of_coding/25.jpg" width="400"/> <img src="future_of_coding/26.jpg" width="400"/> <img src="future_of_coding/27.jpg" width="400"/> <img src="future_of_coding/28.jpg" width="400"/>
 
-> 다른 엔지니어링 분야는 공정률이 정확히 나오는 경우가 많지만 소프트웨어 분야는 그렇지 않았습니다. 작업 자체가 정확히 떨어지지 않고, 작업의 분량도 확정하기 어렵습니다. 
+> 다른 엔지니어링 분야는 공정률이 정확히 나오는 경우가 많지만 소프트웨어 분야는 그렇지 않았습니다. 작업 자체가 정확히 떨어지지 않고, 작업의 분량도 확정하기 어렵습니다.
 >
 > 실리콘 밸리의 기업들은 이와 같은 피라미드식 조직 구조로는 기업이 생존할 수 없음을 알았습니다. 그래서 다른 방식의 조직 구조를 실험했죠.
 >

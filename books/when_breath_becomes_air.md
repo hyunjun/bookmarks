@@ -13,37 +13,37 @@ Score: ★★★☆☆
     - 하지만 그는 끝까지 살아가기로 결심했다. 아내와 함께 아이를 갖기로 결정하고, 죽기 얼마 전 딸을 만나게 되는 기쁨을 통해 그는 새로운 의미를 찾았다. 그리고 마지막까지 자신의 경험과 생각을 글로 기록하며 자신의 삶을 완성해 나갔다. 그의 글은 단순히 개인적인 투병기를 넘어, 삶과 죽음, 인간의 존재에 대한 고민을 담고 있다.
     - 죽음은 인간이라면 누구도 피할 수 없는 미래다. 나이가 들수록 그 주제에 대해 더 자주 생각하게 되는 요즘, 죽음이라는 주제에 관심이 있거나, 삶의 본질을 성찰해보고자 하는 사람들에게 이 책을 추천하고 싶다.
 - p178, p192 어렸을 때 병원에 3개월 넘게 입원했던 일이 있어서 이런 감정적인 혼란이 잘 이해가 간다
-    
+
     ![when_breath_becomes_air_2.jpg](when_breath_becomes_air/when_breath_becomes_air_2.jpg)
-    
+
     ![when_breath_becomes_air_3.jpg](when_breath_becomes_air/when_breath_becomes_air_3.jpg)
-    
+
 - pp197~198 누구나 그렇지만 이렇게 죽음을 앞에 둔 상황이라고 해도 결국 자신에 대한 인식은 스스로 찾고 정립해야 한다
-    
+
     ![when_breath_becomes_air_4.jpg](when_breath_becomes_air/when_breath_becomes_air_4.jpg)
-    
+
     ![when_breath_becomes_air_5.jpg](when_breath_becomes_air/when_breath_becomes_air_5.jpg)
-    
+
 - pp201~203
-    
+
     ![when_breath_becomes_air_6.jpg](when_breath_becomes_air/when_breath_becomes_air_6.jpg)
-    
+
     ![when_breath_becomes_air_7.jpg](when_breath_becomes_air/when_breath_becomes_air_7.jpg)
-    
+
     ![when_breath_becomes_air_8.jpg](when_breath_becomes_air/when_breath_becomes_air_8.jpg)
-    
+
 - p223 `WICOS(Who Is the Captain Of the Ship: 이 배의 선장은 누구인가?) 문제`
-    
+
     ![when_breath_becomes_air_9.jpg](when_breath_becomes_air/when_breath_becomes_air_9.jpg)
-    
+
 - p232 `그레이엄 그린`, `인생은 첫 20년까지이고 나머지 시간은 그 20년을 회고하며 보내는 법`
-    
+
     ![when_breath_becomes_air_10.jpg](when_breath_becomes_air/when_breath_becomes_air_10.jpg)
-    
+
 - p234 아이를 가진 부모가 아니면 쉽게 이해하기 어려울 감정이다. 다만 죽음을 앞둔 상황에서는 얼마나 극적이었을지 상상이 가지 않는다.
-    
+
     ![when_breath_becomes_air_11.jpg](when_breath_becomes_air/when_breath_becomes_air_11.jpg)
-    
+
 - p262 `C. S. 루이스`, `“사별은 부부애의 중단이 아니라, 신혼여행처럼 그 정상적인 과정중 하나이다. 우리가 바라는 건 결혼 생활을 잘 영위하여 이 과정도 충실하게 헤쳐나가는 것이다.”`
-    
+
     ![when_breath_becomes_air_12.jpg](when_breath_becomes_air/when_breath_becomes_air_12.jpg)

@@ -10,7 +10,7 @@ Score: ★★★☆☆
     - https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34103427&start=slayer
 
 - pp143~144
-    
+
     ![haruki_world_0.jpg](welcome_to_the_haruki_world/haruki_world_0.jpg)
-    
+
     ![haruki_world_1.jpg](welcome_to_the_haruki_world/haruki_world_1.jpg)

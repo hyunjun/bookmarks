@@ -68,7 +68,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 >
 > 애자일 전환은 끝나지 않는 여정이며, 복사해다 붙일 수 있는 프로젝트가 아니다. 사람들이 새로운 운영모델을 만들고 거기에 익숙해질 시간이 필요하다. 어떤 특정 변화가 조직에 영향을 줄지 정확하게 예측하는 것은 어렵다. 때문에 테스트하고 배우며 단계적으로 규모를 늘려나가는 과정이 반드시 필요하다.
 >
-> 다른 경영관리 방법들과 마찬가지로 애자일 방법에도 장점과 단점이 있다. 애자일 방법은 문제를 완전히 해결하지 못한다. 적합한 상황에서 적절히 사용하면 끔찍한 결과로 이어질 문제를 좀더 바람직한 방향으로 바꾸어주는 것뿐이다. 
+> 다른 경영관리 방법들과 마찬가지로 애자일 방법에도 장점과 단점이 있다. 애자일 방법은 문제를 완전히 해결하지 못한다. 적합한 상황에서 적절히 사용하면 끔찍한 결과로 이어질 문제를 좀더 바람직한 방향으로 바꾸어주는 것뿐이다.
 
 <img src="doing_agile_right/15.jpg" alt="" width="400"/> <img src="doing_agile_right/16.jpg" alt="" width="400"/>
 
@@ -122,7 +122,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 
 > 애자일은 전형적인 경영 방법론에 비해 장점이 많다. 이미 이에 대한 연구가 진행되었고 효과가 확인되었다. 애자일은 팀의 생산성과 직원의 만족도를 높인다. 애자일은 쓸데없는 회의, 반복적인 기획, 과다한 문서화, 품질 결함, 가치가 낮은 제품 기능 등에 내재되어 있는 낭비를 최소화한다.
 >
-> 애자일은 가시성을 높이고 고객들의 우선순위 변화에 지속적으로 적응한다. 
+> 애자일은 가시성을 높이고 고객들의 우선순위 변화에 지속적으로 적응한다.
 >
 > 애자일은 기능적 프로젝트의 상세한 관리에 낭비되는 시간을 극적으로 줄여서 경영진들이 그들만 할 수 있는 좀 더 가치 있는 일에 역량을 온전히 쏟아부을 수 있게 한다.
 
@@ -229,7 +229,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 # 3장 얼마나 민첩해질 것인가? HOW AGILE DO YOU WANT TO BE?
 <img src="doing_agile_right/48.jpg" alt="" width="400"/> <img src="doing_agile_right/49.jpg" alt="" width="400"/> <img src="doing_agile_right/50.jpg" alt="" width="400"/>
 
-> 앨런은 필 매피톤Phil Maffetone이라는 코치를 만났다. 그는 남다른 훈련 철학을 갖고 있었다. 매피톤은 힘들지만 지속가능한 속도, 즉 이른바 최대유산소심박수maximum aerobic heart rate에 맞춘 속도로 운동할 것을 조언했다. 
+> 앨런은 필 매피톤Phil Maffetone이라는 코치를 만났다. 그는 남다른 훈련 철학을 갖고 있었다. 매피톤은 힘들지만 지속가능한 속도, 즉 이른바 최대유산소심박수maximum aerobic heart rate에 맞춘 속도로 운동할 것을 조언했다.
 >
 > 인명구조원에서 시작해 최고의 경지에 오른 마크 앨런의 여정은 인간이 빚어내는 모든 변환에 대해 주목할 만한 식견을 보여준다. 그런 변환은 애자일 비즈니스 시스템의 창출에도 시사하는 바가 크다. 애자일 기업으로의 변환 과정은 트라이애슬리트의 훈련과 비슷하다. 이것은 야심찬 프로젝트이다. 거기에는 최적의 속도가 있다. 열매를 맛볼 때까지 수년이 걸린다. 하지만 성공을 거둔 기업은 대부분의 사람들이 생각지도 못하는 일들을 할 수 있다.
 
@@ -359,7 +359,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 
 <img src="doing_agile_right/79.jpg" alt="" width="400"/>
 
-> 변환팀이 규정한 다섯 가지 작업 경로는 전략, 조직, 리더십, 프로세스 및 방식, 문화였다. 이 팀은 3년에 걸쳐 본사 기능부서들은 물론 6개 사업부 각각을 공략했다. 리더십의 경우 가장 중요한 것은 대화를 위한 시간과 공간이었다. 
+> 변환팀이 규정한 다섯 가지 작업 경로는 전략, 조직, 리더십, 프로세스 및 방식, 문화였다. 이 팀은 3년에 걸쳐 본사 기능부서들은 물론 6개 사업부 각각을 공략했다. 리더십의 경우 가장 중요한 것은 대화를 위한 시간과 공간이었다.
 
 # 5장 계획은 유연하게,실행은 민첩하게 AGILE PLANNING, BUDGETING, AND REVIEWING
 <img src="doing_agile_right/81.jpg" alt="" width="400"/>
@@ -586,7 +586,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 > 우리는 이렇게 조언하고 싶다. 변화 프로세스가 당신이나 직원을 행복하게 만들지 못한다면 당장 중단하라! 꺼림칙한 일은 하지 말라. 마지못해 받아들이는 직원들의 점진적인 체념을 다소 이상한 작업 방식이라고 착각하지 말라. 사실 애자일 과정은 처음부터 좋은 느낌으로 받아들여져야 한다. 애자일에 노력이 필요하지 않다는 것이 아니다. 러너스 하이 runner's high (운동을 통해 건전한 마음과 몸을 향한 눈에 보이는 진전을 만들면서 느끼는 좋은 기분)와 같은 것을 낳아야 한다는 말이다. 많은 행복과 혁신은 불가분하게 연결되어 있다는 것을 보여준다. 행복이 혁신을 만드는지 혁신이 행복을 만드는지는 중요치 않다. 하나를 개선하면, 두 가지 모두를 지속적으로 개선해갈 사이클이 시작된다. 성공은 습관 형성이다. 우리 두뇌는 성공적인 달성을 이루면 기분이 좋아지는 신경 화학물질을 생산한다. 설정한 목표를 달성하면 두뇌는 도파민을 분비한다. 즐거움을 가져다주는 일을 계속 하도록 하는 보상 호르몬이다. 다른 사람들과 유대감을 형성하고 신뢰를 강화하면 옥시토신을 분비한다. 이는 충성심을 높이며 사교성을 키워준다. 어려운 문제를 극복하면 엔돌핀을 분비해 기분 좋게 만들고 피로감을 낮춘다. 굳건한 목적 의식을 강화하는 활동에 참여할 때에는 세로토닌을 생성하여 자신감과 안정감을 느끼게 한다. 이처럼 여러 화학물질이 바람직한 행동을 촉진하고 팀으로서의 혁신 능력과 행복감을 높인다.
 >
 > 일을 할 때 행복하지 않다면, 보람 있는 일을 하고 있지 않거나 두뇌가 일을 즐겁게 만드는 화학물질을 충분히 만들고 있지 않은 것이다. 이렇게 되면 일에 열의를 갖지 못할 뿐 아니라 일종의 신경 화학물질 금단 현상을 겪게 된다. 좋은 애자일 리더들은 혁신을 재미있고 보람 있는 일로 만들어서 성과를 높이는 방법을 배워야 한다. 그들은 팀이 목표를 설정하고 달성하며, 다른 사람들과 연대하고, 어려운 도전을 극복하고, 목적의식을 다지고, 성공적인 성과로 즐거워지도록 할 방법을 찾아야 한다.
-* [Doing Agile Right - Rigby, Darrell <Darrell.Rigby@Bain.com>](https://gist.github.com/hyunjun/7ab272793c30413c7c6e1ebf7f6f7fa2#file-qa2-md) 
+* [Doing Agile Right - Rigby, Darrell <Darrell.Rigby@Bain.com>](https://gist.github.com/hyunjun/7ab272793c30413c7c6e1ebf7f6f7fa2#file-qa2-md)
   * 사람들은 변화를 싫어하는 게 아니라 상실을 싫어하므로, 더 높은 목표를 달성하기 위해 더 나은 방법이 있다는 걸 알려주면 변화를 유도함과 동시에 행복하게 할 수 있다는 이야기
 
 <img src="doing_agile_right/128.jpg" alt="" width="400"/>
@@ -672,7 +672,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
   * 고위 경영진의 지원, 이해관계인의 참여, 전담팀, 애자일 방법의 지원, 프로덕트 오너와의 잦은 회의, 바람직한 팀 태도가 프로젝트의 성공과 관련된다.
 * Serrador, Pedro, and Jeffrey K. Pinto. [Does Agile work? — A quantitative analysis of agile project success - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0263786315000071) International Journal of Project Management 33, no. 5 (July 1, 2015): 1040-1051.
   * 애자일 방법들은 효율성과 전체 주주 만족도에 긍정적인 영향을 미친다.
-* Standish Group. [The CHAOS Report: Decision Latency Theory & Project Environmental Benc – The Standish Group](https://standishgroup.myshopify.com/collections/frontpage/products/project-resolution-benchmark): It's All about the Interval. Boston: Lulu.com, 2018. 
+* Standish Group. [The CHAOS Report: Decision Latency Theory & Project Environmental Benc – The Standish Group](https://standishgroup.myshopify.com/collections/frontpage/products/project-resolution-benchmark): It's All about the Interval. Boston: Lulu.com, 2018.
   * 애자일 프로젝트의 성공 확률은 5분의 3 (42.5퍼센트 : 26퍼센트)이고 실패 확률은 3분의 1이다(8퍼센트 : 21퍼센트).
 
 #### 관계 없음
@@ -722,7 +722,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
   * 결과는 부분적이라도 애자일 방식이 대규모 소프트웨어 개발에서 전통적인 엔지니어링 요구 조건과 관련하여 발생하는 여러 문제와 사안을 해결한다는 것을 보여준다. 하지만 새로운 문제를 제기하기도 한다.
 * Conboy, Kieran, and Noel Carroll. [Implementing Large-Scale Agile Frameworks: Challenges and Recommendations | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/8648270) IEEE Software 36, no. 2 (March-April 2019): 44-50.
   * 애자일 확장의 여러 문제를 설명하고 문제를 줄일 수 있는 조언을 제시한다.
-* Dikert, Kim, Maria Paasivaara, and Casper Lassenius. [Challenges and success factors for large-scale agile transformations: A systematic literature review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121216300826?via%3Dihub) A Systematic Literature Journal of Systems and Software 119 (September 2016): 87-108. 
+* Dikert, Kim, Maria Paasivaara, and Casper Lassenius. [Challenges and success factors for large-scale agile transformations: A systematic literature review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121216300826?via%3Dihub) A Systematic Literature Journal of Systems and Software 119 (September 2016): 87-108.
   * 대규모 애자일 변환에서의 문제와 성공 요인을 확인한다.
 * Moe, Nils, Bjørn Dahl, Viktoria Karlsen, and Stine Schjødt-Osmo. [Team Autonomy in Large-Scale Agile](https://scholarspace.manoa.hawaii.edu/items/08c41ff7-dabb-45f6-b895-49163ccef132) ScholarSpace, January 8
   * 애자일 확장시 팀 자율권에 대한 장애물들을 찾고 장애물을 제거할 수 있는 방법들을 제안한다.
@@ -758,7 +758,7 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
   * 애자일/스테이지게이트 혼종을 실행한 5개 기업은 효율 향상 프로세스 반복의감소, 가시성 개선, 목표의 더 나은 규정, 고객 불만의 감소, 팀원의 주인의식과 사기 진작 등의 상당히 긍정적인 영향을 보고했다.
 * Sutherland, Jeff, and J. J. Sutherland. Scrum: The Art of Doing Twice the Work in Half the Time. New York: Crown Business, 2014.
   * 다양한 기능부서와 업계에 걸쳐 스크럼을 성공적으로 채택한 기업들의 사례를 제공한다. 예를 들어 스크럼은 네덜란드의 학교들에서 활용되어 시험 성적의 10퍼센트 향상이라는 결과를 낳았다.
-* Van Solingen, Rini, Jeff Sutherland, and Denny de Waard. [Scrum in Sales: How to Improve Account Management and Sales Processes | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/6005833) In Agile 2011 Conference, 284-288. Institute of Electronics and Electronics Engineers, August 20, 2011. 
+* Van Solingen, Rini, Jeff Sutherland, and Denny de Waard. [Scrum in Sales: How to Improve Account Management and Sales Processes | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/6005833) In Agile 2011 Conference, 284-288. Institute of Electronics and Electronics Engineers, August 20, 2011.
   * 영업과 회계관리에서 스크럼 채택한 경우 매출 증가, 팀의 자기 동기 부여, 매출의 예측 가능성 등의 이점이 있었다.
 * Willeke, Marian H. H. [Agile in Academics: Applying Agile to Instructional Design | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/6005511) In Agile 2011 Conference, 246-251. Institute of Electronics and Electronics Engineers, August 30, 2011.
   * 커리큘럼 설계에 대한 애자일 적용은 생산성과 직원 사기를 끌어올린다.

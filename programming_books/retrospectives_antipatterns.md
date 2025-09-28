@@ -84,14 +84,14 @@
 ### 5장 수다
 <img src="retrospectives_antipatterns/35.jpg" alt="" width="400"/>
 
-> 그라운드 룰(Ground Rules) 팀을 이루려고 한다면 일을 목적으로 다양한 기대가 있는 사람들이 모인 이질적인 집단일 가능성이 있음을 스스로 받아들여야 한다... 팀은 그룹 업무에 관해 그들의 기대에 근거한 그라운드 룰을 수립해야 한다. 
+> 그라운드 룰(Ground Rules) 팀을 이루려고 한다면 일을 목적으로 다양한 기대가 있는 사람들이 모인 이질적인 집단일 가능성이 있음을 스스로 받아들여야 한다... 팀은 그룹 업무에 관해 그들의 기대에 근거한 그라운드 룰을 수립해야 한다.
 
 ### 6장 열매 없는 민주주의
 <img src="retrospectives_antipatterns/37.jpg" alt="" width="400"/>
 
 > 민주주의적 프로세스의 문제는 소수 의견이 간과될 때가 많다는 점이다.
 >
-> 이 문제를 해결하는 방법의 하나로 합의를 통한 의사 결정 Consensus Decision Making 소수 투표 Minority Vote 
+> 이 문제를 해결하는 방법의 하나로 합의를 통한 의사 결정 Consensus Decision Making 소수 투표 Minority Vote
 
 <img src="retrospectives_antipatterns/38.jpg" alt="" width="400"/>
 
@@ -194,7 +194,7 @@
 
 > 신뢰 = '관계+확실함'
 >
-> 최근 맥나이트 McKnight 와 체르바시 Chervacy 
+> 최근 맥나이트 McKnight 와 체르바시 Chervacy
 >
 > 자비심 Benevolence 이란 기회주의자처럼 행동하기보다 다른 사람의 이익을 위해 행동하도록 배려하고 동기를 부여하는 것을 의미한다.
 >

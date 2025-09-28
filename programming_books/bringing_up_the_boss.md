@@ -32,7 +32,7 @@
 > 팀원의 업무에 일일이 간섭하라는 의미가 아니다. 업무를 제대로 수행했을 때 기대할 수 있는 가장 바람직한 결과가 어떤 것인지에대해 명확한 그림을 제시하라는 것이다.
 >
 > 더닝 크루거 효과는 심리학자 데이비드 더닝(David Dunning)과 저스틴 크루거 (Justin Kruger)의 이름을 따서 만든 용어로, 일종의 '인지 편향' 현상을 가리킨다. 이 이론에 따르면, '초보자일수록 자신의 능력을 실제보다 높게 평가하고, 실수하더라도 스스로 알아차리지 못하기 때문에 계속해서 우월감을 느낀다. 다른 한편으로 '전문가'의 경우에는 자신에게 쉬운 일은 남들에게도 쉬울 것이라 믿는 경향이 있는데, 이 역시 더닝 크루거 효과에서 비롯된다.
- 
+
 <img src="bringing_up_the_boss/10.jpg" alt="" width="400"/> <img src="bringing_up_the_boss/11.jpg" alt="" width="400"/>
 
 > 명확한 기대치를 설정하는 방법
@@ -318,10 +318,10 @@
 <img src="bringing_up_the_boss/64.jpg" alt="" width="400"/>
 
 > 훌륭한 팀을 만들기 위해 가장 먼저 해야 할 일은 시간과 노력을 들여 기초공사를 탄탄하게 하는 것이다. 반복적이고 그리 즐겁지 않아 보이더라도 기초공사를 제대로 해야만 일순간에 무너지지 않는 강한 팀을 만들 수 있다.
- 
+
 <img src="bringing_up_the_boss/66.jpg" alt="" width="400"/> <img src="bringing_up_the_boss/67.jpg" alt="" width="400"/>
 
-> 탁월한 팀의 두 가지 공통점 
+> 탁월한 팀의 두 가지 공통점
 >
 > 인력구성이나 운영 방식은 탁월한 팀을 만드는 핵심 요건이 아니었다. 탁월한 팀에는 두 가지 공통점이 있었는데, 그것은 바로 '명확한 규범'과 '심리적 안전감'이었다.
 * 아리스토텔레스 프로젝트 [What Google Learned From Its Quest to Build the Perfect Team - The New York Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)

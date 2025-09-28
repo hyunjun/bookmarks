@@ -81,9 +81,9 @@
 <img src="how_to_work_in_silicon_valley/18.jpg" width="400"/>
 
 > • 비전 기대치와 분기별 기대치 정의하기
-> 
+>
 > • 비전 기대치는 최대한 높게 잡기
-> 
+>
 > • 분기별 기대치는 현실적으로 잡기
 
 <img src="how_to_work_in_silicon_valley/19.jpg" width="400"/>

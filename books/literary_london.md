@@ -8,9 +8,9 @@ Score: ★★☆☆☆
 
 - ★★☆☆☆ January 8, 2025 → January 10, 2025
 - p238 “나이를 먹는 것은 점차 짓지도 않은 죗값을 치르는 것과 같다.”
-    
+
     ![literary_london_2.jpg](literary_london/literary_london_2.jpg)
-    
+
     - https://www.goodreads.com/quotes/25158-growing-old-is-like-being-increasingly-penalized-for-a-crime
         - “Growing old is like being increasingly penalized for a crime you haven't committed.” ― **Anthony Powell**
         - 영화 은교로 잘 알려진 `너의 젊음이 너의 노력으로 얻은 상이 아니듯 나의 늙음도 나의 잘못으로 받은 벌이 아니다.` 라는 대사가 연상되는 글

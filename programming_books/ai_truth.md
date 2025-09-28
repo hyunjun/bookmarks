@@ -11,47 +11,47 @@ Score: ★★★☆☆
     - 저자는 개인적인 노력으로는 이러한 문제를 해결할 수 없으며, 전 세계가 함께 움직여야 한다고 말한다. 그러나 역사 속 크고 작은 다툼이 멈춘 적 없음을 떠올리면, 이는 사실상 불가능한 일처럼 느껴진다. 이미 늦었고, 어쩌면 속도를 약간 늦추는 것이 최선일지도 모르겠다. 그러나 그마저도 인류가 자발적으로 할 것 같지는 않다. 오히려 전력 공급의 어려움이나 데이터 부족 같은 외부적 요인에 의해 그 속도가 늦춰질 가능성이 더 높지 않을까.
     - https://www.hanbit.co.kr/store/books/look.php?p_code=B4715598966
 - p130
-    
+
     ![ai_truth_2.jpg](ai_truth/ai_truth_2.jpg)
-    
+
 - p208
-    
+
     ![ai_truth_3.jpg](ai_truth/ai_truth_3.jpg)
-    
+
 - pp224~227
-    
+
     ![ai_truth_4.jpg](ai_truth/ai_truth_4.jpg)
-    
+
     ![ai_truth_5.jpg](ai_truth/ai_truth_5.jpg)
-    
+
     ![ai_truth_6.jpg](ai_truth/ai_truth_6.jpg)
-    
+
     ![ai_truth_7.jpg](ai_truth/ai_truth_7.jpg)
-    
+
 - pp265~268
-    
+
     ![ai_truth_8.jpg](ai_truth/ai_truth_8.jpg)
-    
+
     ![ai_truth_9.jpg](ai_truth/ai_truth_9.jpg)
-    
+
     ![ai_truth_10.jpg](ai_truth/ai_truth_10.jpg)
-    
+
     ![ai_truth_11.jpg](ai_truth/ai_truth_11.jpg)
-    
+
 - pp276~277
-    
+
     ![ai_truth_12.jpg](ai_truth/ai_truth_12.jpg)
-    
+
     ![ai_truth_13.jpg](ai_truth/ai_truth_13.jpg)
-    
+
 - pp278~280
-    
+
     ![ai_truth_14.jpg](ai_truth/ai_truth_14.jpg)
-    
+
     ![ai_truth_15.jpg](ai_truth/ai_truth_15.jpg)
-    
+
     ![ai_truth_16.jpg](ai_truth/ai_truth_16.jpg)
-    
+
 - p286
-    
+
     ![ai_truth_17.jpg](ai_truth/ai_truth_17.jpg)

@@ -54,7 +54,7 @@
 
 <img src="maritime_history/11.jpg" alt="title" width="400"/>
 
-> 베네치아는 대단히 불리한 환경을 이겨내고 강력한 상업 공화국을 만들어낸 사례다. 
+> 베네치아는 대단히 불리한 환경을 이겨내고 강력한 상업 공화국을 만들어낸 사례다.
 
 <img src="maritime_history/12.jpg" alt="title" width="400"/>
 

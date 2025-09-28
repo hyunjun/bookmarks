@@ -11,31 +11,31 @@ Score: ★★★☆☆
     - [유럽 엘리트 교육의 최종단계 ‘여행’ :: 문화일보 munhwa](https://www.munhwa.com/news/view.html?no=2013030801032530024002)
 - pp161~163
     - p161
-        
+
         ![the_grand_tour_1.jpg](the_grand_tour/the_grand_tour_1.jpg)
-        
+
         - 상대방을 기쁘게 해주는 기술은 매우 필요하며, 네가 대접받고 싶은 대로 남을 대접하라
         - 대화를 나누는 요령… 절대 당황해서는 안 된다… 침착하고 무심한 척… 태평한 척
     - p162
-        
+
         ![the_grand_tour_2.jpg](the_grand_tour/the_grand_tour_2.jpg)
-        
+
         - 스프레차투라 sprezzatura 냉담함이나 초연함… 아부를 하려거든 우아하게 하라
             - https://brunch.co.kr/@tjkmix/583
     - p163
-        
+
         ![the_grand_tour_3.jpg](the_grand_tour/the_grand_tour_3.jpg)
-        
+
         - 교육이 늘 투자한 만큼 효과가 있는 것은 아니라는 사실을 보여주는 대표적 사례
             - http://www.postnews.kr/cpost_life/sub_read.asp?cate=21&BoardID=337
 - pp308~309
     - p308
-        
+
         ![the_grand_tour_4.jpg](the_grand_tour/the_grand_tour_4.jpg)
-        
+
         - 유럽인들은 그 낯선 공간에 비유럽보다 훨씬 더 먼 과거인, ‘원시’라는 시간적 개념을 부여
     - p309
-        
+
         ![the_grand_tour_5.jpg](the_grand_tour/the_grand_tour_5.jpg)
-        
+
         - 문명화된 유럽과는 전혀 다른 풍토와 감각을 지닌 곳으로 ‘열대’를 발명
