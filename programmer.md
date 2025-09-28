@@ -402,6 +402,10 @@ Programmer
   * [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612473/5283624)
 * [Being good isn’t enough | people, ideas, machines](https://joshs.bearblog.dev/being-good-isnt-enough/)
   * [잘하는 것만으로는 충분하지 않음 | GeekNews](https://news.hada.io/topic?id=22998)
+* [Ex-Stripe CTO on What Grew His Career, Hiring Without Leetcode, Coding as a Leader (Career Story) - YouTube](https://www.youtube.com/watch?v=hl6Ryc_NUm8)
+  * [Ex-Stripe CTO on What Grew His Career, Hiring Without Leetcode, Coding as a Leader (Career Story) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6020530/5908816)
+  * [Ex-Stripe CTO on What Grew His Career, Hiring Without Leetcode, Coding as a Leader (Career Story) - Google Docs](https://docs.google.com/document/d/1ZyDWqQ2Yj-YQWeYKuwS6XIZ5lmXkJBJ8YnPdFuOQqXU/edit?tab=t.0)
+  * [데이비드_싱글턴에게_배우는_구글,_스트라이프_리더십과_성장_비밀___엔지니어케이션_부터__행복한_팀의_역설_까지.m4a - Google Drive](https://drive.google.com/file/d/1yzVZ0u8g2oz6uCKxiJkrJzQKqoPQpAZ1/view)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
