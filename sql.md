@@ -1809,6 +1809,8 @@ SQL
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlite3 fiddle](https://sqlite.org/fiddle/)
 * [sqlite3-to-mysql: Transfer data from SQLite to MySQL](https://github.com/techouse/sqlite3-to-mysql)
+* [sqlite-data: A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronization](https://github.com/pointfreeco/sqlite-data)
+  * [SQLiteData - SwiftData의 빠르고 가벼운 대체제, SQL 기반이며 Clou | GeekNews](https://news.hada.io/topic?id=23297)
 * [SQLite DB Browser - SQLite 비쥬얼 브라우저 오픈소스 | GeekNews](https://news.hada.io/topic?id=15765)
   * [DB Browser for SQLite](https://sqlitebrowser.org/)
   * [DB Browser for SQLite 3.13.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15977)
