@@ -1232,6 +1232,9 @@ Git
 * stash
   * [A practical guide to using the git stash command | Opensource.com](https://opensource.com/article/21/4/git-stash)
   * [recovery - How do I recover a dropped stash in Git? - Stack Overflow](https://stackoverflow.com/questions/89332/how-do-i-recover-a-dropped-stash-in-git)
+  * [급할 때 제일 많이 쓰는 명령 - YouTube](https://www.youtube.com/watch?v=mhZkl7PQBg4)
+    * `--include-untracked` 추척 중이지 않은 새로 생성된 파일도 stash
+    * `--staged` 스테이지 된 파일들만 stash에 넣어줘서 분리해서 stash
 * submodule
   * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)
