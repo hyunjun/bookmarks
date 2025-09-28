@@ -1608,6 +1608,8 @@ Programming
 * [7 Amazing Terminal API Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=eyXxEBZMVQI)
   * cURL, xh, Nushell http, Httpie, Curlie, Kulala nvim, Posting
 * [안전한 프로토콜의 설계 - Google Slides](https://docs.google.com/presentation/d/15edIsK14U7iVnDEcTV6epv68SN6PY56zecElEyZXsuI/edit#slide=id.p) 결제 API 설계 예시
+* [Architecting and Evaluating an AI-First Search API](https://research.perplexity.ai/articles/architecting-and-evaluating-an-ai-first-search-api)
+  * [Architecting and Evaluating an AI-First Search API | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6021813/5910775)
 * [Apidog An integrated platform for API design, debugging, development, mock, and testing](https://apidog.com/)
   * [Apidog](https://github.com/Apidog)
   * [🐶 Walk through Apidog - Pet Store Demo](https://yne9jx46p8.apidog.io/)
