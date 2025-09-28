@@ -589,6 +589,8 @@ Business
   * 2. 의사결정을 위한 논의에 시간을 투자하고 단순 정보 공유는 서면으로 진행
   * 3. 내가 없으면 의사결정이 달라지는 미팅위주로 참석
   * 4. 고민되는 미팅은 줄이거나 없애보기
+* [Meeting Strategies From Top Executives Credits to Igor Buinevici, follow him for more practical content. ------ Here's the original post: 71% of meetings are unproductive. This results in… | Business Infographics | 댓글 39](https://www.linkedin.com/posts/business-infographics_meeting-strategies-from-top-executives-credits-activity-7229731198657290240-tOdg)
+  * [<세계 최고 경영자들의 회의법> 1. 일론 머스크 : 구성원들에게 철저한 사전 준비를 요구합니다. 후속 및 추가 질문에 대해서도 완벽하게 대답할 준비되어 있어야 합니다 . 높은 기준을 유지하고 회의의 효율성을 극대화할 수 있습니다. 2. 스티브 잡스 : 회의의 규모가 커지는 것을 경계합니다. 불필요한 인원을 배제하고, 꼭 필요한 인력만 회의에… | 윤썸원](https://www.linkedin.com/posts/somew0n_%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0-%EA%B2%BD%EC%98%81%EC%9E%90%EB%93%A4%EC%9D%98-%ED%9A%8C%EC%9D%98%EB%B2%95-1-%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EA%B5%AC%EC%84%B1%EC%9B%90%EB%93%A4%EC%97%90%EA%B2%8C-%EC%B2%A0%EC%A0%80%ED%95%9C-ugcPost-7371700127943782400-KgU8)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
