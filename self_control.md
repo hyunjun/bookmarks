@@ -25,6 +25,8 @@ Self Control
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
 * [페이스북 개발자 시간관리의 5가지 비밀 – FactVirus](https://factvirus.co.kr/archives/22052)
 * ['일잘러'는 회의 어떻게 하나요?…김지현 SK 부사장이 제시하는 시간관리법](https://www.bloter.net/newsView/blt202204290052)
+* [시간 관리의 세 단계 진화: 왜 빈 큐를 먼저 만들어야 하는가](https://unnud.com/the-three-stage-evolution-of-time-management-why-you-should-create-an-empty-queue-first/)
+  * [시간 관리의 진화: 빈 큐(Queue)를 먼저 만들고 할 일은 나중에 채우는 발상 | GeekNews](https://news.hada.io/topic?id=23274)
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
 * [‘중독’에 대한 편견과 진실](http://ppss.kr/archives/55339)
 * [내 안의 가짜 열정과 진짜 열정을 구분해내는 법](http://www.huffingtonpost.kr/polangpolang-/story_b_8192992.html)
