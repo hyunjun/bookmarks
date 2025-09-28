@@ -96,6 +96,8 @@ Hardware
 * [Foqos - NFC를 물리적 스위치로 사용하여 방해 요소를 차단하는 앱 | GeekNews](https://news.hada.io/topic?id=18840)
 * [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
   * [This Open-Source E-Ink Screen Is My Favorite New Gadget - YouTube](https://www.youtube.com/watch?v=eIcZZX10pa4)
+* [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
+  * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
