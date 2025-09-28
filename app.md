@@ -58,7 +58,6 @@ App
 * [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
-* [기획자가 알면 좋은 협업 툴 선정 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1727/)
 * [빠른 목업 제작을 위해 알아두면 좋은 서비스들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1083/) mockup
 * [35년간의 뉴스레터 운영에서 얻은 경험들 | GeekNews](https://news.hada.io/topic?id=6201) newsletter
 * [개발자와 대화할 때 유용한 도구 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1597/)
@@ -679,6 +678,8 @@ App
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
+* [기획자가 알면 좋은 협업 툴 선정 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1727/)
+* [국산 협업툴은 슬랙과 팀즈의 대안이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3366/)
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
   * [💡 How to work with ALIGN FUNCTIONS in Excalidraw 👀 | TUTORIAL #14 - YouTube](https://www.youtube.com/watch?v=hROUh9lmtik)
