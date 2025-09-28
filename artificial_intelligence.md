@@ -666,6 +666,10 @@ Artificial Intelligence
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [**내가 LLM과 함께 코딩하는 방식**](https://hackers.pub/@hongminhee/2025/how-i-code-with-llms)
   * [“비개발자라면 v0의 바이브코딩 마법을 믿어보세요”(로빈 융 Vercel 현장엔지니어링 총괄) - YouTube](https://www.youtube.com/watch?v=4oYQbVV8tv4)
+  * [코딩 에이전트, 돈 아깝지 않게 쓰는 법 - YouTube](https://www.youtube.com/watch?v=Dja8fqyaFqQ)
+    * [개발자를 위한 프롬프트 작성 테크닉 - Google Slides](https://docs.google.com/presentation/d/1xWmcBbSCKgQfN1WOdvG-_uF9AeQwWIm7TdNArQyAMII/edit)
+  * [실무에서 쓰는 프롬프트 공개 - YouTube](https://www.youtube.com/watch?v=JaWhUahPFNk)
+    * [2부 실전 마이그레이션 예시 및 컨텍스트 기여 모델에서 고인물(팀에 오래된 경력 가지신분)/ 청정수(새로 합류하신분) 의 역할론](https://p-iknow.notion.site/2-2661aaa68f2f806fb62ad3c51bc32e4d)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
