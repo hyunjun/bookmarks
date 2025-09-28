@@ -2825,6 +2825,7 @@ App
   * [개발자의 Claude 사용 꿀팁 #4 | Figma 디자인을 코드로 변환! - YouTube](https://www.youtube.com/watch?v=GxYkugT1ktc)
   * [상세페이지 디자인 반복작업 탈출하는 방법 (피그마플러그인, 구글시트싱크) - YouTube](https://www.youtube.com/watch?v=exlRsV86dNk)
   * [Veryfront Figma Kit - 웹/앱용 UI 컴포넌트 라이브러리 | GeekNews](https://news.hada.io/topic?id=18264)
+  * [피그마 메이크 제대로 써보는 법 | 기획, 디자인, 기능, DB연결까지 - YouTube](https://www.youtube.com/watch?v=moZmpSPr070)
 * [Figr](https://figr.design/)
   * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Konty | Sketch your app ideas without stress](https://konty.app/)
