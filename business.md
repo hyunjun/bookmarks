@@ -1765,6 +1765,11 @@ Business
 * [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
   * [창의성의 근본은 암기에서 비롯되는가? | GeekNews](https://news.hada.io/topic?id=16113)
 * [사업의 본질: 활동 분석 → 고효율 시스템 구축 → 높은 생산성 → 조직에 여유 → 직원들이 스스로 생각 → 창의성 → 고객](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7244103275078201345-YUW5/)
+* [MIT 미디어랩의 위기와 융합 연구의 허상 “기술과 예술의... - Geun-jun Chungwoo-Michael Lim | Facebook](https://www.facebook.com/2020sSEOULKOREA/posts/pfbid02hM2a4kXJBX8Y9pGcg725qFjMXQgrwjXzmYYBpjVCJ3FcQjw388geHEdFCQBf9c7ql)
+  * 미디어랩은 미래를 그리는 데는 능했지만, 그것을 현실로 만드는 데는 실패했다
+  * 문제는 “융합”이라는 개념 자체에 있었다. 미디어랩이 추진한 대부분의 프로젝트는 실제 융합이 아닌 피상적 조합에 그쳤다. 컴퓨터 과학에서 획기적인 알고리즘을 개발하지도, 예술 분야에서 새로운 장르를 창조하지도 못했다. 대신 화려한 데모와 프로토타입만 양산했을 뿐이다
+  * [MIT 미디어랩의 위기와 융합 연구의 허상 앞에서 이어짐... - Geun-jun Chungwoo-Michael Lim | Facebook](https://www.facebook.com/2020sSEOULKOREA/posts/pfbid0He5E2PJuSWy7SnessJjMjsXYY2MAtvNQJwuHMVR4wW4pQhFAzzytKZBY5trkzwXEl)
+  * [MIT 미디어랩의 위기와 융합 연구의 허상 앞에서 이어짐... - Geun-jun Chungwoo-Michael Lim | Facebook](https://www.facebook.com/2020sSEOULKOREA/posts/pfbid07ephdSCHNQeDNXPhZNEuTtfjV5CXxfQG2vi938thyMNLQrwjhUY6wwfgYELbJwKGl) 통섭(統攝) Consilience
 
 # CTO
 * [Modern CTO - YouTube](https://www.youtube.com/c/ModernCTO/featured)
