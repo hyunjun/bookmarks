@@ -315,6 +315,18 @@ Artificial Intelligence
 * [Anycrap 🛒 The Store of Infinite Products](https://anycrap.shop/)
   * [AnyCrap - 입력한 검색어로 상품을 생성하는 스토어 | GeekNews](https://news.hada.io/topic?id=23063)
 * [좋은 AI 혁신: 일자리 감소가 아닌 워크플로우 개선에 집중 ❖ AI 자동화에... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid0xC9U2tkVFbyEgHf7vJed1AybmLUQUJBZwy6XfYR6e7xuVMnGGCMkAj2KPxWYDGR4l)
+* [AI made writing code cheap. Shipping it safely has never been more expensive. That’s the paradox most teams are living with right now. The bottleneck isn’t generating code, it’s validating and… | Rob Zuber | 댓글 21](https://www.linkedin.com/posts/robzuber_ai-made-writing-code-cheap-shipping-it-safely-activity-7377305210483871744-2A1u)
+  * AI 덕분에 코드 작성은 쉬워졌지만, 이를 안전하게 검증하고 배포하는 과정은 여전히 큰 병목으로 남아 있다. 이로 인해 많은 팀이 테스트 축소, 대규모 배치, 형식적 코드 리뷰 같은 과거의 잘못된 습관으로 돌아가며, 결국 생산성과 품질 모두를 위협한다. 진정한 효용을 얻으려면 코드 생성뿐 아니라 검증과 배포까지 포함한 소프트웨어 전달 시스템 전반을 함께 개선해야 하며, CircleCI는 이를 AI로 보완하는 데 집중하고 있다.
+  * AI → 코드 작성 속도는 빨라짐
+  * 문제 → 검증과 배포 과정이 더 비싸고 느려짐
+  * “신뢰 격차(Confidence Gap)” 발생 [Growing Risk](https://media.licdn.com/dms/image/v2/D5622AQF0ZklD48mvvA/feedshare-shrink_800/B56ZmFz_kCIsAg-/0/1758886624016?e=2147483647&v=beta&t=9iHGag_G9-uy9Z89crHC2AdN6d8z8UXpJVCmjvkilxc)
+    * 빠른 코드 생성 vs 느린 딜리버리
+  * 많은 팀의 대응 → 잘못된 단축키 사용
+    * 테스트 축소, 큰 단위 배치, 형식적 PR 승인
+  * 핵심 메시지 → 소프트웨어 전달은 시스템 전체 문제
+    * AI 코드 생성만으로는 한계
+    * 검증·배포 체계까지 함께 개선 필요
+  * CircleCI → AI를 활용해 안전한 소프트웨어 전달 시스템 강화 중
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
