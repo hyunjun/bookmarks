@@ -3568,6 +3568,7 @@ NLP
       * [속도는 vllm 이 더 빨랐고 자원소모는 sglang이 더 적었습니다 qwen-8b/BENCHMARK_REPORT_KR.md at main · Cloud-Linuxer/qwen-8b | TaeHwan Jeong](https://www.linkedin.com/posts/taehwan-jeong-274846190_qwen-8bbenchmarkreportkrmd-at-main-activity-7373730152242888704-gzSu)
     * [qwen3-on-sagemaker](https://github.com/Napkin-DL/qwen3-on-sagemaker)
       * [최근 공개된 Qwen3 모델을 Amazon SageMaker에서 효율적으로 학습하고 배포하는 전체 워크플로우 예제 코드](https://www.linkedin.com/posts/napkin_github-napkin-dlqwen3-on-sagemaker-activity-7325315642205577216-2P5o/)
+    * Qwen3-Max [알리바바의 Qwen3-Max: 1조 파라미터의 진실](https://fornewchallenge.tistory.com/entry/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-Qwen3-Max-1%EC%A1%B0-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%9D%98-%EC%A7%84%EC%8B%A4)
     * [text-embeddings-inference/Dockerfile-cuda at feat/qwen3-reranker-support · danielchalef/text-embeddings-inference](https://github.com/danielchalef/text-embeddings-inference/blob/feat/qwen3-reranker-support/Dockerfile-cuda)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
