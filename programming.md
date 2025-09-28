@@ -5623,6 +5623,8 @@ Programming
   * [URLhaus - 멀웨어 배포에 사용되는 악성 URL 데이터베이스 | GeekNews](https://news.hada.io/topic?id=14860)
 * [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
 * [ZAP](https://www.zaproxy.org/) vulnerability scanner
+* [ZITADEL - Identity infrastructure, simplified for you.](https://github.com/zitadel/zitadel)
+  * [ZITADEL - 아이덴티티 인프라 오픈소스 | GeekNews](https://news.hada.io/topic?id=23278)
 * [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
   * [비밀번호의 강도를 알려주는 zxcvbn - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/901)
 
