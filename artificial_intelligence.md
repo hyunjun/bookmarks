@@ -467,6 +467,7 @@ Artificial Intelligence
 * [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
 * [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+* [AI 관련 오픈서적(프롬프트 엔지니어링 포함)](https://www.facebook.com/lsszz1/posts/pfbid02kXNgErWsGbtw3o9uQwwhMMmp13JXUqXqupfxH9SLVDvXmjqzRC1CNyw1RUZPGz2el)
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Artificial Intelligence and Games](http://gameaibook.org/)
 * [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
