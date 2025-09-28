@@ -291,6 +291,7 @@ Business
 * [수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부 - YouTube](https://www.youtube.com/watch?v=YcFUhsBKtrA)
   * [VidiGo 수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부](https://vidigo.ai//share/summary/d1f12e5ec465)
   * [수평적 조직문화, 무조건 좋다고요? | H.PODCAST 한국마이크로소프트 김형규 1부 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/748316)
+* [수평 조직에도 권위는 필요하다 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7373490816717344768-wQuy)
 * [한국인 구글러 1호는 왜 야놀자로 옮겼을까? (f.이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061018347779901) 조직문화
 * [‘한국인 구글러 1호’가 구글에서 20년간 날마다 받은 것 (이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061618387757979)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
