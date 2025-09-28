@@ -9583,6 +9583,7 @@ Programming
     * [exponential back-off은, 그냥 하면 되는 게 아니고 randomness를 주는 게 중요](https://www.linkedin.com/posts/spike-jee-480225a_googlecloud-activity-7340810500236091396-F4Ps/)
 * [npm 동네에 또 사고가 터졌나보다. 예전에는 어떤 패키지 오너가 자기 패키지를 삭제해 버려서 자바스크립트를 쓰는 수많은 회사들에서 난리가 났었는데, 이번에는 누군가가 작정하고 해킹을 했나보다. 이런 사건이 계속 터지는 건, npm 및 그와 유사한 시스템들이 구조상 근본적인 취약점을 가지고 있기 때문이 아닌가. 현대의 파퓰러한 소프트웨어 기술들 및… | Spike Jee](https://www.linkedin.com/posts/spike-jee-480225a_npm-%EB%8F%99%EB%84%A4%EC%97%90-%EB%98%90-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%84%B0%EC%A1%8C%EB%82%98%EB%B3%B4%EB%8B%A4-%EC%98%88%EC%A0%84%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%98%A4%EB%84%88%EA%B0%80-%EC%9E%90%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-activity-7371565046436605952-KP21)
   * [🚨 긴급 npm 생태계 대규모 보안 침해: 20억 다운로드 패키지 악성코드 감염 | 김남용](https://www.linkedin.com/posts/twodragon_%EA%B8%B4%EA%B8%89-npm-%EC%83%9D%ED%83%9C%EA%B3%84-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B3%B4%EC%95%88-%EC%B9%A8%ED%95%B4-20%EC%96%B5-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-activity-7371476965255540736-Xxqm)
+* [이승현 - ☑️ 또다시 반복된 국가 IT 대란, 해법은 클라우드 네이티브+민간 클라우드 전환 ☑️ 이번 장애를 보면서... | Facebook](https://www.facebook.com/epoko/posts/pfbid02ue4UPyBqWT9QJWMgyvPPyCQMNDoYwr3scZgN5mZw9DM4cWFL1qV3uSfpn2SEKpmbl) 공통점은 SPoF
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
