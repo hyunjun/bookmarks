@@ -36,6 +36,8 @@ Programming Books
 * [개발자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/04/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
 * [데이터 과학자를 위한 30가지 소양서 - 골든래빗](https://goldenrabbit.co.kr/2023/07/12/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-30%EA%B0%80%EC%A7%80-%EC%86%8C%EC%96%91%EC%84%9C/)
 * [(책) 앱 개발 책 - 2023](https://brunch.co.kr/@topasvga/1452)
+* [The Software Essays that Shaped Me · Refactoring English](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
+  * [나를 만들어준 소프트웨어 에세이들 | GeekNews](https://news.hada.io/topic?id=23406)
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
