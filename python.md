@@ -1790,6 +1790,7 @@ Python
   * [유튜브 조회수 수집기 (YouTube View count Scraper) — 글 쓰는 기획자 '길'](https://gilhwan.com/entry/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%A1%B0%ED%9A%8C%EC%88%98-%EC%88%98%EC%A7%91%EA%B8%B0-YouTube-View-count-Scraper)
     * [유저 분석 자동화와 보상 최적화를 향한 여정 — 글 쓰는 기획자 '길'](https://gilhwan.com/entry/%EA%B3%A0%EA%B0%9D-%EB%B6%84%EC%84%9D-%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80-%EB%B3%B4%EC%83%81-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95)
   * [AsyncIO, await, and async - Concurrency in Python - YouTube](https://www.youtube.com/watch?v=K56nNuBEd0c)
+  * [Scaling asyncio on Free-Threaded Python | Labs](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python)
 
 ## Async Asynchronous AsyncIO Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -4952,6 +4953,7 @@ Python
 * [High Volume PDF Text Extraction using Python Open-Source Tools — Harald Lieder - YouTube](https://www.youtube.com/watch?v=hjswZbbglbw)
 * [Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.](https://github.com/bytedance/Dolphin)
   * [Dolphin: A Framework for Converting PDFs to Structured Formats | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_turn-pdf-files-into-clean-llm-ready-data-activity-7376162117584027648-3yNM/)
+  * [텍스트/표/수식/그림을 JSON/md로 변환하는 멀티모달 AI 모델 #bytedance #ticktok #acl_2025 #오픈소스 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-ticktok-aclabr2025-ugcPost-7378253258961637376-URw4)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
