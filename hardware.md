@@ -79,6 +79,7 @@ Hardware
 * [손바닥만한 NAS에 NVMe SSD가 6개나 달립니다. - YouTube](https://www.youtube.com/watch?v=5UNCQ-K3up8)
 * NucBox G9 [Is this the perfect Mini NAS? - YouTube](https://www.youtube.com/watch?v=M_Ft8OAPQ3g)
 * [Beelink ME Mini vs GMKtec G9 vs CWWK P6 NAS Comparison - YouTube](https://www.youtube.com/watch?v=FL4nVv6lMHU&ab_channel=NASCompares)
+* [고물 노트북 초대박 NAS 서버로 변신하는 방법, 오래되서 사용하지 않던 노트북을 NAS 서버로 만들어보세요!! - YouTube](https://www.youtube.com/watch?v=N6jqbhCfZNM)
 * [홈랩 프로젝트#1: 프롤로그 - 나에게 홈랩이란? 목적은 무엇인가? | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/07/24/home-lab-introduction/)
 * [홈랩 프로젝트#2: 현재 운영중인 장비와 구조 | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/09/14/home-lab-devices/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
