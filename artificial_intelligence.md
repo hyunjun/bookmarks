@@ -327,6 +327,11 @@ Artificial Intelligence
     * AI 코드 생성만으로는 한계
     * 검증·배포 체계까지 함께 개선 필요
   * CircleCI → AI를 활용해 안전한 소프트웨어 전달 시스템 강화 중
+* [Agile is Out, Architecture is Back | by Craig Adam | Sep, 2025 | Medium](https://medium.com/@craig_32726/agile-is-out-architecture-is-back-7586910ab810)
+  * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
+* [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
+  * [AI가 주니어를 빛나게 할 것이라 했지만, 왜 시니어만 더 강해졌을까? | GeekNews](https://news.hada.io/topic?id=23205)
+* [조금 늦게 AI를 따라가는 회사와 사람들에게 | 요즘IT](https://yozm.wishket.com/magazine/detail/3375/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
