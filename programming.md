@@ -9347,6 +9347,7 @@ Programming
 * [A/A Test: Is the distribu.. : 네이버블로그](https://blog.naver.com/hancury/223739271051)
 * [e2e 테스트 Best Practice 및 자동화 - YouTube](https://www.youtube.com/watch?v=jqC1epb96nU)
 * [A/B 테스트에서 읽은 건 p-value가 아닙니다. (Feat. 테일러 급수)](https://www.linkedin.com/posts/louieha_ab-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%BD%EC%9D%80-%EA%B1%B4-p-value%EA%B0%80-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-feat-%ED%85%8C%EC%9D%BC%EB%9F%AC-activity-7365559799675015169-4EpH/)
+* [혹시 실험 전에 MDE를 설정하시나요? #mde #ab테스트 #실험설계 #데이터분석 #그로스전략 | 이승민](https://www.linkedin.com/posts/neo-growth_mde-abtquswmtxu-sxyumososqsc-activity-7377921561082834944-mLKo)
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
