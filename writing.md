@@ -150,6 +150,7 @@ Writing
   * Tectonic [Rust로 작성된 TeX 컴파일러, Tectonic](https://www.jiwon.me/tectonic/)
 * [Typst: Compose papers faster](https://typst.app/)
   * [새로운 Latex인 Typst 자습서](https://velog.io/@huansock/%EC%83%88%EB%A1%9C%EC%9A%B4-Latex%EC%9D%B8-Typst%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
+  * [Typst - LaTeX를 대체할 수 있는 가능성 | GeekNews](https://news.hada.io/topic?id=23312)
   * [awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
 
 # Book
