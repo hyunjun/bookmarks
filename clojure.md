@@ -214,6 +214,7 @@ Clojure
 * [Clojure Concurrency: The Ultimate Guide](https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide)
 * [The Dawn of Lightweight Concurrency for Java and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
 * [Clojure: virtual thread and dynamic var performance](https://andersmurphy.com/2024/05/30/clojure-virtual-thread-dynamic-var-performance.html)
+* [Evolving Clojure with Java’s Virtual Threads #JVMLS - YouTube](https://www.youtube.com/watch?v=umeUXG56JA8)
 * [This will cover 95% of all your needs - Clojure concurrency pragmatic guide! - YouTube](https://www.youtube.com/watch?v=46fTgn6y1GM)
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
