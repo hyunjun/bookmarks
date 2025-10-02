@@ -8603,6 +8603,8 @@ Programming
 * [Software Development Principles by Masters - Fowler, Sajaniemi, Martin, Beck, Zimmermann · GitHub](https://gist.github.com/shane-shim/acc7d8b68aeb6d03af0ddd08c2d1de4c)
 * [Monolith or Microservices? - by Khang Tran](https://testinprod.substack.com/p/monolith-or-microservices)
   * [소프트웨어 엔지니어링의 여러 분야에서 진짜 대단한 고수 엔지니어들... 특징은 탄탄한 기본기, 어떤 코드가 좋은 코드인가 및 어떤 설계가 좋은 설계인가에 대한 감각, 문제에 대한 깊은 이해, clear하고 논리적이고 비판적인 사고, 본질과 핵심을 추구하는 성향, 실행력](https://www.linkedin.com/posts/spike-jee-480225a_monolith-or-microservices-activity-7343750811992150018-Pptf/)
+* [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)
+  * [소프트웨어 엔지니어링에서의 "좋은 취향"이란 무엇인가? | GeekNews](https://news.hada.io/topic?id=23365)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
