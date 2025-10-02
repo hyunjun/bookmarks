@@ -1518,6 +1518,7 @@ Artificial Intelligence
 * [연구활용 AI 도구 사용방법 | Pega Devlog](https://jehyunlee.github.io/2025/01/20/General-76_researchgenai/)
 * [인공지능 deepseek, 챗GPT, grok3, claude, gemini중 누가 퍼블리싱을 잘할까?](https://blog.naver.com/pjt3591oo/223769434169)
 * [2025 AI Darwin Award Nominees - Worst AI Failures of the Year](https://aidarwinawards.org/nominees-2025.html) AI의 가장 어리석은 작동을 수상
+* [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
@@ -1588,6 +1589,9 @@ Artificial Intelligence
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
 * Pine AI [AI Assistant to Handle Bills, Subscriptions, and Complaints | Pine AI](https://www.19pine.ai/)
   * [아직은 미국내 서비스만 가능하지만 너무 신박해서 소개합니다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-assistant-to-handle-bills-subscriptions-activity-7347591957533085697-gJZk)
+* [parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)
+  * [Home | Parlant](https://www.parlant.io/)
+  * [LLM이 정확히 내가 원하는 대로만 동작하게 #금융 #의료 #법률 #오픈소스 #parlant | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_qyossl-sturzo-rsvrcg-activity-7379292787067904000-IqeE)
 * [PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
   * [Home | Pocket Flow](https://the-pocket.github.io/PocketFlow-Tutorial-Codebase-Knowledge/)
   * [code_to_tutorial](https://github.com/dabidstudio/code_to_tutorial)
@@ -1603,6 +1607,7 @@ Artificial Intelligence
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
 * [serena: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)](https://github.com/oraios/serena)
   * [Serena MCP 개요와 설치, Claude Code 통합 - Hans Tech Blog](https://hansdev.kr/tech/serena-mcp/)
+  * [🤖 Serena: 무료 오픈소스 코딩 에이전트 툴킷 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Serena-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%88%B4%ED%82%B7-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Shots - Create Amazing Mockups](https://shots.so/)
 * [Shortcut](https://www.tryshortcut.ai/) 실험에서 이 AI는 맥킨지와 골드만삭스 신입 애널리스트들과의 엑셀 작업 대결에서 무려 89.1%의 승률(220:27)을 기록
 * [skywork.ai](https://skywork.ai/)
@@ -1735,6 +1740,7 @@ Artificial Intelligence
   * [AICX: Claude Code와 Antrophic Batch API를 활용하여 고객 채팅 상담 분석하기 | by 허원진 | How we build Myrealtrip | Aug, 2025 | Medium](https://medium.com/myrealtrip-product/aicx-claude-code%EC%99%80-antrophic-batch-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B3%A0%EA%B0%9D-%EC%B1%84%ED%8C%85-%EC%83%81%EB%8B%B4-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-b077ddf21917)
   * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
     * [첫 시도는 95%가 쓰레기: Claude Code와 함께한 Staff Engineer의 여 | GeekNews](https://news.hada.io/topic?id=22882)
+  * [충격! 이제 바이브 코딩도 끝이라고? 클로드 Imagine이 보여준 새로운 미래 - YouTube](https://www.youtube.com/watch?v=LV6LktXKKdE)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
