@@ -58,6 +58,11 @@ Science
 * [포유류처럼…이 물고기는 피가 따뜻하다](http://techholic.co.kr/archives/33559)
 * [The story of rhinos and how they conquered the world](http://www.bbc.com/earth/story/20150518-the-epic-history-of-rhinos)
 * [시속 233km의 턱으로 점프하는 개미의 생존기술](http://www.huffingtonpost.kr/2015/05/20/story_n_7339142.html)
+* [사하라 개미 털의 비밀](http://ppss.kr/archives/55702)
+* [One mother for two species via obligate cross-species cloning in ants | Nature](https://www.nature.com/articles/s41586-025-09425-w)
+  * [Pgr21 - 일반 개미때문에 종의 기원을 다시 쓰게 생겼네요](https://pgr21.com/freedom/105108)
+  * [‘종의 기원’을 뒤집어 놓은 충격적인 혼종의 탄생! 한 마리의 개미가 다른 ‘종‘의 개미를 낳는다?! 제노페러스 탄생의 비밀! 1/2(성균관대학교 이대한 교수) - YouTube](https://www.youtube.com/watch?v=HkKSkZpHUFE)
+  * [충격적인 번식 시스템의 등장! 다윈도 깜짝 놀랄 번식 시스템의 비밀은?! 여왕 개미의 유전자가 사라졌다?! 제노페러스 탄생의 비밀 2/2 대한늬우스 (성균관대학교 이대한 교수) - YouTube](https://www.youtube.com/watch?v=KAFFaEjJ2Zs)
 * [몸이 하얗기 때문에 슬픈 '알비노'를 아시나요?](http://www.huffingtonpost.kr/hyungju-lee/story_b_7339506.html)
 * [예술적인 물고기와 지옥에서 온 닭: 올해 가장 쿨하고 새로운 종 10](http://www.huffingtonpost.kr/2015/05/25/story_n_7431056.html)
 * [과학자들이 행복한 기억을 재활성화해서 쥐의 우울증을 치료하다](http://www.huffingtonpost.kr/2015/06/22/story_n_7634014.html)
@@ -66,7 +71,6 @@ Science
 * [지구에서 가장 오래된 수생 포식자는 무시무시한 거대 ‘바다 전갈'이었다](http://www.huffingtonpost.kr/2015/09/06/story_n_8097512.html)
 * [소용돌이 화석의 비밀 2/2](http://slownews.kr/45383) 헬리코프리온
 * [지금은 사라진 거대 생물 TOP10](http://techholic.co.kr/archives/38859)
-* [사하라 개미 털의 비밀](http://ppss.kr/archives/55702)
 * [문어가 가장 고도로 진화한 고등동물?](http://www.huffingtonpost.kr/jaeyeon-jang/story_b_8290992.html)
 
 ## Bee
