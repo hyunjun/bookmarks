@@ -765,6 +765,8 @@ AWS
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
   * [agentcore: It shows how to use AgentCore for deploying LangGraph and Strands agents with MCP.](https://github.com/kyopark2014/agentcore)
     * [OpenAI의 OSS와 MCP를 이용해 Agent를 구현](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-aws-openai-ugcPost-7362470742560555008-OBsk/)
+  * [Accelerate development with the Amazon Bedrock AgentCore MCP server | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/)
+    * [(2) AWSKRUG- AWS한국사용자모임 | Amazon Bedrock AgentCore MCP 서버로 개발 가속화하기 🚀 | Facebook](https://www.facebook.com/groups/awskrug/permalink/24021352290873469/?mibextid=wwXIfr&rdid=u5uS8P1EizARtnPp#)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
     * [MCP를 지원하는 Agent를 서버리스인 AgentCore Runtime에 배포](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-strands-activity-7353125091678801920-v-Kq/)
   * [agentcore/browser.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/browser.md)
