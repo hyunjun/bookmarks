@@ -1748,6 +1748,8 @@ Artificial Intelligence
   * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
     * [첫 시도는 95%가 쓰레기: Claude Code와 함께한 Staff Engineer의 여 | GeekNews](https://news.hada.io/topic?id=22882)
   * [충격! 이제 바이브 코딩도 끝이라고? 클로드 Imagine이 보여준 새로운 미래 - YouTube](https://www.youtube.com/watch?v=LV6LktXKKdE)
+  * [The Magic of Claude Code](https://www.alephic.com/writing/the-magic-of-claude-code)
+    * [Claude Code의 마법: 유닉스 철학과 파일시스템 접근성이 Claude Code를 특 | GeekNews](https://news.hada.io/topic?id=23408)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
