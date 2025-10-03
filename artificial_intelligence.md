@@ -282,7 +282,6 @@ Artificial Intelligence
 * [서버 없이 이렇게 동작합니다 - YouTube](https://www.youtube.com/watch?v=1zVBW8KWWS8) browser built-in API
 * [**Domain specific architectures for AI inference**](https://fleetwood.dev/posts/domain-specific-architectures)
   * [**AI 추론을 위한 Domain-Specific Architectures**](https://tulip-phalange-a1e.notion.site/AI-Domain-Specific-Architectures-23cc32470be28025bbffe42e15e58d99)
-* [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55) security
 * contextual AI [컨텍스츄얼 AI 경쟁이 온다 - YouTube](https://www.youtube.com/watch?v=m8IoKaEo5EQ)
 * vibe working [젠스파크(Genspark), 바이브 워킹-AI 기업의 새로운 일 방식: 4개월 만에 ARR 3,600만 달러를 달성한 비결 - AX 100배의 법칙](https://dxtalk.net/genspark-vibe-working-success/)
 * [V0.1.2 Caret Gpt5 지원, 205개 AI모델 상세 가격 정보](https://blog.naver.com/fstory97/223969880876)
@@ -1465,6 +1464,10 @@ Artificial Intelligence
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
     * 앞으로 AI를 규제하려면, 무엇을 의도했는가보다 어떤 결과를 초래했는가를 중심으로 법과 제도를 재설계할 필요가 생길지도 모르겠다
 
+# Security
+* [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55)
+* [AI의 "치명적인 삼중 위협"을 막는 방법 | GeekNews](https://news.hada.io/topic?id=23396)
+
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
 
@@ -2085,6 +2088,8 @@ Artificial Intelligence
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
   * [Prompting 1.1 - Lovable Documentation](https://docs.lovable.dev/tips-tricks/prompting-one)
   * [웹 디자인 자동 생성 및 코딩/배포. UI/UX 혁신! Figma AI 활용 - YouTube](https://www.youtube.com/watch?v=lpfhZMeYWzM)
+* [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
+  * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
