@@ -394,6 +394,8 @@ SQL
 * [Base Entity 활용하기](https://sturdy-mink-c2f.notion.site/Base-Entity-18a020f4210280478408cf40759bc576)
 * [가독성 좋은 GUID, 왜 RDBMS에서 이렇게 유용해졌을까? - YouTube](https://www.youtube.com/watch?v=ekwNi5_u72I)
 * [DB PK로 사용해도 되는 GUID, UUID7은 축복인가 vs 폭탄인가? - YouTube](https://www.youtube.com/watch?v=PQOcbo2NqMw)
+* [스냅샷 구조 이해하기](https://sturdy-mink-c2f.notion.site/1ad901fdcb0549978173459ed5a50e77)
+  * [스냅샷 구조 이해하기 | Notion | 강경수 | 댓글 18](https://www.linkedin.com/posts/kakasoo_%EC%8A%A4%EB%83%85%EC%83%B7-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-notion-activity-7378990939673063424-4RtU)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
