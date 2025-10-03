@@ -281,6 +281,8 @@ Vision
 * [3D Computer Vision | National University of Singapore - YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 * [이미지 기반 스팸 대응을 위한 카카오의 AI 기술 활용 / 제6회 Kakao Tech Meet - tech.kakao.com](https://tech.kakao.com/posts/625)
 * [실제 광고 이미지 만들기](https://aifactory.space/task/6679/overview)
+* [How to Detect, Track, and Identify Basketball Players with Computer Vision](https://blog.roboflow.com/identify-basketball-players/)
+  * [농구 선수 식별을 위한 컴퓨터 비전 시스템 요약 | GeekNews](https://news.hada.io/topic?id=23387)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
