@@ -164,6 +164,8 @@ Open Source
 * [Yaak Is Now Open Source](https://yaak.app/blog/now-open-source)
   * [데스크탑 API 클라이언트 Yaak, 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=16723)
 * [오픈 소스 자체만으로는 빅 테크의 대안이 될 수 없습니다 | GeekNews](https://news.hada.io/topic?id=17558)
+* [F-Droid and Google's Developer Registration Decree | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
+  * [F-Droid와 Google의 개발자 등록 명령 | GeekNews](https://news.hada.io/topic?id=23361)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
