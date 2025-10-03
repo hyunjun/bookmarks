@@ -332,6 +332,9 @@ Artificial Intelligence
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
   * [AI가 주니어를 빛나게 할 것이라 했지만, 왜 시니어만 더 강해졌을까? | GeekNews](https://news.hada.io/topic?id=23205)
 * [조금 늦게 AI를 따라가는 회사와 사람들에게 | 요즘IT](https://yozm.wishket.com/magazine/detail/3375/)
+* [AI 2027](https://ai-2027.com/)
+  * [AI 2027 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-2027-activity-7378799365131374593-coYJ)
+  * [We're Not Ready for Superintelligence - YouTube](https://www.youtube.com/watch?v=5KVDDfAkRgc)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -514,6 +517,8 @@ Artificial Intelligence
   * [Advanced Context Engineering for Agents | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612479/5283630)
 * [컨텍스트 엔지니어링: CoCounsel 확장에서 얻은 교훈 - YouTube](https://www.youtube.com/watch?v=sLFv3RSj_d8)
   * [Context Engineering: Lessons Learned from Scaling CoCounsel | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612492/5283657)
+* [Effective context engineering for AI agents \ Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+  * [Effective context engineering for AI agents | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_effective-context-engineering-for-ai-agents-activity-7378955364547043329-ulsI)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
   * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
   * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
@@ -1662,6 +1667,7 @@ Artificial Intelligence
   * [나날이 발전하고픈 개발자를 위한 AI 활용법 (298p 슬라이드) - YouTube](https://www.youtube.com/watch?v=CAgn60EWDmw)
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
+* [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
@@ -1747,7 +1753,11 @@ Artificial Intelligence
   * [AICX: Claude Code와 Antrophic Batch API를 활용하여 고객 채팅 상담 분석하기 | by 허원진 | How we build Myrealtrip | Aug, 2025 | Medium](https://medium.com/myrealtrip-product/aicx-claude-code%EC%99%80-antrophic-batch-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B3%A0%EA%B0%9D-%EC%B1%84%ED%8C%85-%EC%83%81%EB%8B%B4-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-b077ddf21917)
   * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
     * [첫 시도는 95%가 쓰레기: Claude Code와 함께한 Staff Engineer의 여 | GeekNews](https://news.hada.io/topic?id=22882)
-  * [충격! 이제 바이브 코딩도 끝이라고? 클로드 Imagine이 보여준 새로운 미래 - YouTube](https://www.youtube.com/watch?v=LV6LktXKKdE)
+  * [Introducing Claude Sonnet 4.5 \ Anthropic](https://www.anthropic.com/news/claude-sonnet-4-5)
+    * [An experimental new way to design software - YouTube](https://www.youtube.com/watch?v=dGiqrsv530Y)
+      * [충격! 이제 바이브 코딩도 끝이라고? 클로드 Imagine이 보여준 새로운 미래 - YouTube](https://www.youtube.com/watch?v=LV6LktXKKdE)
+      * [SW를 디자인하고 만드는 새로운 접근법 #ai #sw #dev #career | 고영혁](https://www.linkedin.com/posts/gonnector_ai-sw-dev-activity-7378562329275342848-jWZT)
+    * [와우.. AI에 관심이 있으시다면, 오늘 이 소식은 꼭 보셔야합니다. Anthropic이 새로운 AI 모델 '클로드 소네트 4.5'를 발표했습니다. 현존하는 세계 최고 코딩 모델입니다. Anthropic에서 Claude의 버전별로 ‘claude.ai’ 웹사이트를 직접 코딩하게 시키는 흥미로운 실험을 진행했습니다. 최신 모델인 Sonnet 4.5는 이전… | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-ai%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%9E%88%EC%9C%BC%EC%8B%9C%EB%8B%A4%EB%A9%B4-%EC%98%A4%EB%8A%98-%EC%9D%B4-%EC%86%8C%EC%8B%9D%EC%9D%80-%EA%BC%AD-%EB%B3%B4%EC%85%94%EC%95%BC%ED%95%A9%EB%8B%88%EB%8B%A4-anthropic%EC%9D%B4-ugcPost-7378559932138221568-UCZa) Sonnet 4.5
   * [The Magic of Claude Code](https://www.alephic.com/writing/the-magic-of-claude-code)
     * [Claude Code의 마법: 유닉스 철학과 파일시스템 접근성이 Claude Code를 특 | GeekNews](https://news.hada.io/topic?id=23408)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
