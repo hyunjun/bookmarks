@@ -1169,6 +1169,8 @@ Business
 * [순조로운 퇴사를 위해 해야 할 일 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1313/)
 * [개발자 A씨의 퇴사 이야기 | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/story-of-a-developers-resignation/)
 * [퇴사 인터뷰들은 함정입니다 | GeekNews](https://news.hada.io/topic?id=6304)
+* [𝐈 𝐧𝐞𝐯𝐞𝐫 𝐝𝐨 𝐞𝐱𝐢𝐭 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬 because: ❌️ Exit interviews are for HR to get heads up and prepare for damage control. ❌️ I speak up when I'm working at the company despite its… | Alex Ewerlöf | 댓글 25](https://www.linkedin.com/posts/alexewerlof_%F0%9D%90%88-%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%9D%F0%9D%90%A8-%F0%9D%90%9E%F0%9D%90%B1%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%AC-activity-7377627300109914113-OP7I)
+  * 대신 stay interview를 하라는 이야기. 나도 이 쪽이 더 맞다고 생각
 * [해외 취업의 로망과 현실 퇴사 이유를 캐묻는 영국 회사 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/09/01/exit-interview/)
 * [How to Ask Whether an Employee Is Happy at Work](https://hbr.org/2022/04/how-to-ask-whether-an-employee-is-happy-at-work)
   * [퇴사 예방(?) 미팅 방법](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-how_to_ask_whether_an_employee_is_happy_at_work-md)
