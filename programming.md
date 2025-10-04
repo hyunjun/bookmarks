@@ -1407,6 +1407,11 @@ Programming
   * [ChatGPT - Scrum Sage: Zen Edition](https://chatgpt.com/g/g-pajO1fBss-scrum-sage-zen-edition)
 * [애자일 원칙을 위한 새로운 접근, 스크럼의 한계를 고민하다 - ITWorld Korea](https://www.itworld.co.kr/news/353539)
 * [한성희 - PO가 꼭 알아야 할 것 #24 우리 팀은 애자일일까, 스크럼일까? 헷갈리는 개념 "이 회사는 애자일을... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid0oZhTHvusRxZaLvfqMNYfJcJBZpMxHvw5KzQuK6ecCVimGfhbNvJqvMBw1tbd8hbjl)
+* [박준표 - Agile Core Test (ACT): 애자일 변화의 구심점 LG Uplus 에서 애자일 코칭을 하던... | Facebook](https://www.facebook.com/story.php?story_fbid=10162275932098163&id=552883162&mibextid=wwXIfr&rdid=kNar6MaHXriZbKn5#)
+  * ACT의 세 가지 질문
+    * 고객과 함께 일하고 있는가?
+    * (주기적으로) 계획이 변경되는가?
+    * 프로세스가 개선되는가?
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -7228,7 +7233,8 @@ Programming
   * [9월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/09/b-9-1.html)
   * [9월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/09/b-9-2.html)
   * [9월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/09/b-9-3.html)
-  * [9월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/09/b-9-4.html?fbclid=IwY2xjawNEqe9leHRuA2FlbQIxMABicmlkETE3VGExdEkxVHhXTmp0bjJMAR6T-MIXFz5Ybk3nWOGmLCOeQnk2kNLpkX6qeWXVODYkPudt0pp9SUlXQKy7JQ_aem_vDC4h4No0vBeogNDWsPl-g)
+  * [9월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/09/b-9-4.html)
+  * [10월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/10/b-10-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
