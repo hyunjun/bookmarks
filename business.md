@@ -4149,6 +4149,8 @@ Business
 * [한국에서 싱가포르로 ‘플립’하기 < 기고 < 오피니언 < 기사본문 - K글로벌타임스](https://www.kglobaltimes.com/news/articleView.html?idxno=11854)
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 * [사내정치는 반드시 필요합니다. (feat 결정.. : 네이버블로그](https://blog.naver.com/madaboutit/222932198024)
+* [Stop Avoiding Politics – Terrible Software](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+  * [사내 정치를 피하지 마세요 | GeekNews](https://news.hada.io/topic?id=23404)
 * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
   * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
