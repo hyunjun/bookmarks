@@ -1428,6 +1428,8 @@ Artificial Intelligence
   * [AI 덕분에 세탁실에서 구글 경쟁 서비스를 운영하는 남자 | GeekNews](https://news.hada.io/topic?id=23034)
 * [Copyright threats force AI firms to consider stronger deals with publishers](https://www.axios.com/2025/09/06/ai-publishers-deals-lawsuits)
   * [Tae Hyung Kim - 예상했던 대로, 생성형 AI의 핵심 전선은 이제 성능 못지않게 저작권이 중요하게 되어 가고... | Facebook](https://www.facebook.com/socialego/posts/pfbid02pBnDxoxhqW3GTxhNGqrMNncuDqRtpYRKLeCS6GQSTbrDRvXP6Csc6y5YMZRKkf5Ul)
+* [State of the Markets Report H2 2025](https://www.svb.com/trends-insights/reports/state-of-the-markets-report/)
+  * [실리콘밸리은행이 말하는 2025년 흐름, AI는 거품일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3376/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
