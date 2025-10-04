@@ -210,6 +210,9 @@ Programming Language
 * [A Definition of Closures](http://gafter.blogspot.kr/2007/01/definition-of-closures.html)
 * [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
 
+# Cobol
+* [webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol/)
+
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
 * [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
