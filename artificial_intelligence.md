@@ -334,6 +334,7 @@ Artificial Intelligence
 * [AI 2027](https://ai-2027.com/)
   * [AI 2027 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-2027-activity-7378799365131374593-coYJ)
   * [We're Not Ready for Superintelligence - YouTube](https://www.youtube.com/watch?v=5KVDDfAkRgc)
+* [“이래야 월드 클래스 IT” 생성형 AI가 바꾸는 CIO의 미션과 전략 | CIO](https://www.cio.com/article/4066105/%ec%9d%b4%eb%9e%98%ec%95%bc-%ec%9b%94%eb%93%9c-%ed%81%b4%eb%9e%98%ec%8a%a4-it-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-cio%ec%9d%98-%eb%af%b8%ec%85%98.html)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1536,6 +1537,8 @@ Artificial Intelligence
 * [인공지능 deepseek, 챗GPT, grok3, claude, gemini중 누가 퍼블리싱을 잘할까?](https://blog.naver.com/pjt3591oo/223769434169)
 * [2025 AI Darwin Award Nominees - Worst AI Failures of the Year](https://aidarwinawards.org/nominees-2025.html) AI의 가장 어리석은 작동을 수상
 * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
+* [Slack is giving AI unprecedented access to your workplace conversations | VentureBeat](https://venturebeat.com/ai/slack-is-giving-ai-unprecedented-access-to-your-workplace-conversations?trk=public_post_comment-text)
+  * [가장 폐쇄적이어야 할 것을 Slack이 개방했습니다 회사의 모든 대화를 외부에 풀어줬습니다. 전략 회의, 프로젝트 논의, 심지어 비공식 결정까지. 권한만 주면 외부 AI 툴이 접근할 수 있습니다. Slack은 이것이 AI 전쟁의 승부처라고 본 것 같습니다. 얼마전 발표된 Real-time Search API와 Model Context Protocol을… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EA%B0%80%EC%9E%A5-%ED%8F%90%EC%87%84%EC%A0%81%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%84-slack%EC%9D%B4-%EA%B0%9C%EB%B0%A9%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EB%8C%80%ED%99%94%EB%A5%BC-activity-7380002282551246849-hq0Q)
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
@@ -1773,6 +1776,8 @@ Artificial Intelligence
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
+  * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
+    * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
       * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
