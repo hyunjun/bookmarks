@@ -2601,6 +2601,8 @@ NLP
   * GPU 없이도 로컬 장치에서 최대 6배 향상된 속도와 82% 더 적은 에너지 소비로 100억 개의 파라미터 모델 실행 가능
   * [AI판 LK-99 사실이었다...지금 사용 가능 | Microsoft 1-bit으로 학습한 BitNet | 경쟁 모델보다 앞선 성능에도, 겨우 400MB 사용, CPU로 구동 가능 - YouTube](https://www.youtube.com/watch?v=XHoj9MrEFA8)
   * [Microsoft just changed the game! 🔥](https://www.linkedin.com/posts/sumanth077_microsoft-just-changed-the-game-theyve-ugcPost-7318891713194872835-uIcr/)
+  * [2504.12285 BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
+  * [Tae Hyung Kim - 마이크로소프트가 LLM을 1-bit 연산으로 구현할 수 있는 혁신적인 기술을 발표했다.... | Facebook](https://www.facebook.com/socialego/posts/pfbid07NZ757rfkp7yAj3WWZR7jFSEitwy7fkhvk6S6vXFtPj29JoGEXwaxfNv9VSGkhf1l)
 * [browser-use: Open-Source Web Automation library with any LLM](https://github.com/gregpr07/browser-use)
   * [Browser-Use - LLM을 이용한 웹 오토메이션 오픈소스 | GeekNews](https://news.hada.io/topic?id=17665)
   * [🤖Browser Use: AI가 스스로 웹을 탐색하고 상호작용하는 혁신적 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Browser-Use-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%9B%B9%EC%9D%84-%ED%83%90%EC%83%89%ED%95%98%EA%B3%A0-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81-%EB%8F%84%EA%B5%AC)
