@@ -1539,6 +1539,8 @@ Artificial Intelligence
 * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
 * [Slack is giving AI unprecedented access to your workplace conversations | VentureBeat](https://venturebeat.com/ai/slack-is-giving-ai-unprecedented-access-to-your-workplace-conversations?trk=public_post_comment-text)
   * [가장 폐쇄적이어야 할 것을 Slack이 개방했습니다 회사의 모든 대화를 외부에 풀어줬습니다. 전략 회의, 프로젝트 논의, 심지어 비공식 결정까지. 권한만 주면 외부 AI 툴이 접근할 수 있습니다. Slack은 이것이 AI 전쟁의 승부처라고 본 것 같습니다. 얼마전 발표된 Real-time Search API와 Model Context Protocol을… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EA%B0%80%EC%9E%A5-%ED%8F%90%EC%87%84%EC%A0%81%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%84-slack%EC%9D%B4-%EA%B0%9C%EB%B0%A9%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EB%8C%80%ED%99%94%EB%A5%BC-activity-7380002282551246849-hq0Q)
+* [The 28 AI tools I wish existed](https://sharif.io/28-ideas-2025)
+  * [내가 바라는 28가지 AI 도구 | GeekNews](https://news.hada.io/topic?id=23395)
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
