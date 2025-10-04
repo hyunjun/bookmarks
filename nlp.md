@@ -569,6 +569,9 @@ NLP
   * EMTs are evaluated on a new counterfactual retrieval Benchmark and compared to fine-tuned models
   * The results show that EMTs are competitive with fine-tuned models and outperform them when combined with more information and context
   * The talk also discusses the importance of citations in AI applications
+* [2510.01149 ModernVBERT: Towards Smaller Visual Document Retrievers](https://arxiv.org/abs/2510.01149)
+  * [ModernVBERT (ModernVBERT)](https://huggingface.co/ModernVBERT)
+  * [작지만 강력한 멀티모달 임베딩 모델, ModernVBERT | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EC%A7%80%EB%82%9C-2%EB%85%84%EA%B0%84-vlm-%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9D%B4-%EB%8C%80%EC%84%B8%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-moca-vlm2vec-colpali-activity-7380071925659754496-kA2o)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
@@ -3539,6 +3542,9 @@ NLP
   * [Building an LLM fine-tuning Dataset - YouTube](https://www.youtube.com/watch?v=pCX_3p40Efc)
   * [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code) - YouTube](https://www.youtube.com/watch?v=XpoKB3usmKc)
   * [QLoRA 파인튜닝 실습 ( Gemma-3-270m-it 사용)](https://webnautes.kr/qlora-paintyuning-silseub-gemma-3-270m-it-sayong/)
+* [OpenTSLM](https://www.opentslm.com/)
+  * [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](https://github.com/StanfordBDHG/OpenTSLM)
+  * [OpenTSLM - 시계열 데이터를 이해하는 언어 모델 | GeekNews](https://news.hada.io/topic?id=23420)
 * [opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards](https://github.com/comet-ml/opik)
   * [Home | Opik Documentation](https://www.comet.com/docs/opik/)
   * [Build faster, better, and cheaper LLM systems!](https://www.linkedin.com/posts/akshay-pachaar_build-faster-better-and-cheaper-llm-systems-activity-7350513973617709057-xe8B/)
