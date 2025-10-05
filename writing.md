@@ -127,6 +127,8 @@ Writing
 * [The Anatomy of An Amazon 6-Page | PDF](https://www.scribd.com/document/576952168/The-Anatomy-of-an-Amazon-6-page?v=0.099)
   * [공유 아마존의 6페이지 문서 / 제시 프리먼 : 네이버 블로그](https://blog.naver.com/naks1/222202841510)
   * [아마존의 상징 '6페이지 문서', 어떻게 쓰는지 들여다봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/amazon6pagers20201118)
+* [미디어 플랫폼 “얼룩소” 데이터 분석 : 과연 유저들에게 충분히 많은 ‘글값’을 주면 공론장이 만들어질까? | Notion](https://minvv23.notion.site/2753236d0cb18089a489f06da73c9278)
+  * [강태영 - 4년 전 오늘, 기업인 이재웅(전 다음 커뮤니케이션 창업자, 전 쏘카 대표)이 투자하고 저명 언론사의... | Facebook](https://www.facebook.com/rkdxodud/posts/pfbid02jsUwKeNygWVTTqHTYEmB2btkZhhkWQ82s5tgt5o7GoEgaTWbP7du13HiSHajdun8l)
 
 # App
 * latex
