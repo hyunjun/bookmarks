@@ -442,6 +442,9 @@ Network
   * `traceroute`와 `mtr`의 플래그를 통해서 어떤 AS를 거쳐 가는지 볼 수 있음
   * PCH(packet clearing house) Looking Glass로 BGP 경로를 볼 수 있음 [Looking Glass | PCH](https://www.pch.net/tools/looking_glass/)
   * BGPlay에서는 이전 시간의 BGP도 볼 수 있으므로 페이스북의 장애 시점에서 BGP 경로가 사라진 것도 볼 수 있음 [RIPEStat BGPlay](https://stat.ripe.net/special/bgplay)
+* [Open Social — overreacted](https://overreacted.io/open-social/)
+  * [Where It's at:// — overreacted](https://overreacted.io/where-its-at/)
+    * [at://의 위치는 어디인가 | GeekNews](https://news.hada.io/topic?id=23438)
 * [XMODEM in 2022](https://www.mattkeeter.com/blog/2022-05-31-xmodem/)
 * XMPP
   * [Modern XMPP](https://docs.modernxmpp.org/)
