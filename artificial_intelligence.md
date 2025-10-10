@@ -335,6 +335,7 @@ Artificial Intelligence
   * [AI 2027 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-2027-activity-7378799365131374593-coYJ)
   * [We're Not Ready for Superintelligence - YouTube](https://www.youtube.com/watch?v=5KVDDfAkRgc)
 * [“이래야 월드 클래스 IT” 생성형 AI가 바꾸는 CIO의 미션과 전략 | CIO](https://www.cio.com/article/4066105/%ec%9d%b4%eb%9e%98%ec%95%bc-%ec%9b%94%eb%93%9c-%ed%81%b4%eb%9e%98%ec%8a%a4-it-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-cio%ec%9d%98-%eb%af%b8%ec%85%98.html)
+* [IT 불황에서 살아남기: 서바이벌 키트 모음 | 요즘IT](https://yozm.wishket.com/magazine/detail/3380/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1829,8 +1830,10 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
-  * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
-    * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022&mibextid=wwXIfr&rdid=oTqSd1U9xMoIgLgf#)
+  * claude.md
+    * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
+      * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022&mibextid=wwXIfr&rdid=oTqSd1U9xMoIgLgf#)
+    * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
@@ -2143,6 +2146,8 @@ Artificial Intelligence
   * [Roo-Code: Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor](https://github.com/RooVetGit/Roo-Code)
 * [Shadow](https://www.shadowrealm.ai/)
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
+* [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
+  * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
 * [Tidewave](https://github.com/tidewave-ai)
   * [Welcome - Tidewave](https://tidewave.ai/)
   * [천재 개발자가 만든 코딩 AI, TIDEWAVE, 그냥 알아서 다 만들어줌 - YouTube](https://www.youtube.com/watch?v=rVXwurv8XNY)
