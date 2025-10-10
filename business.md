@@ -2876,6 +2876,7 @@ Business
 * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) - YouTube](https://www.youtube.com/watch?v=88alBtMMbeg)
   * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5436050/5020100)
 * [#리더십 #리더십스킬맵 #leaderskillmap #leadershipmap | 백종화](https://www.linkedin.com/posts/elfpenguin_reeqyssxh-reeqyssxhswmtnqrfz-leaderskillmap-activity-7370817849407430657-EoNe)
+* [AI 시대, 대체 불가능한 5가지 리더십 역량 ❖ AI 시대의 리더십 패러다임... - Duke Donghyun Kim | Facebook](https://www.facebook.com/706739147/posts/10166173114084148/?mibextid=wwXIfr&rdid=voMJDe6bfm3ZokWm#)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
