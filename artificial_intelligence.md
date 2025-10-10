@@ -438,6 +438,9 @@ Artificial Intelligence
 * ['바이브 코딩'은 옛말...'에이전트 군집 코딩' 시대 열려 < 산업일반 < AI산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=202433)
   * [#agenticdevelopment #startuplife #ai #productdevelopment | Mark Ruddock | 댓글 68](https://www.linkedin.com/feed/update/urn:li:activity:7368647652940382209/)
 * [(3) 신동형 - 신동형 인사이트 The Bible of 「AI 에이전트, 에이전틱AI 」보고서 안녕하십니까?... | Facebook](https://www.facebook.com/100063518148321/posts/1372657551528170/?mibextid=wwXIfr&rdid=M6nngTxtkxbDdmhf#)
+* [Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교) 최근 AI 업계의 두 거인, 구글과 OpenAI가 코딩 없이 AI를 만들 수 있는 '노코드 AI 빌더'를 각각 출시하며 큰 화제를 모으고 있습니다. 구글의 'Opal'과 OpenAI의 '에이전트 빌더'가 바로 그 주인공인데요. 기존 자동화 툴의 강자… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_google-opal-openai-agent-builder-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-activity-7381961556214910976-kZHf)
+* [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
+  * [에이전트 루프 설계하기 | GeekNews](https://news.hada.io/topic?id=23470)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -520,6 +523,9 @@ Artificial Intelligence
   * [Context Engineering: Lessons Learned from Scaling CoCounsel | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5612492/5283657)
 * [Effective context engineering for AI agents \ Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
   * [Effective context engineering for AI agents | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_effective-context-engineering-for-ai-agents-activity-7378955364547043329-ulsI)
+  * [최승준 - AI 에이전트를 위한 효과적인 컨텍스트 엔지니어링 응용 AI 분야에서 몇 년 동안 프롬프트 엔지니어링이... | Facebook](https://www.facebook.com/seungjoon.choi/posts/10238051495041965)
+  * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링](https://www.stdy.blog/korean-summary-effective-context-engineering-for-ai-agents/)
+    * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링 | 배휘동](https://www.linkedin.com/posts/hwidongbae_%EC%9A%94%EC%95%BD-%EB%B2%88%EC%97%AD-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-activity-7381007159620386816-dB6t)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
   * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
   * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
@@ -682,6 +688,11 @@ Artificial Intelligence
     * [개발자를 위한 프롬프트 작성 테크닉 - Google Slides](https://docs.google.com/presentation/d/1xWmcBbSCKgQfN1WOdvG-_uF9AeQwWIm7TdNArQyAMII/edit)
   * [실무에서 쓰는 프롬프트 공개 - YouTube](https://www.youtube.com/watch?v=JaWhUahPFNk)
     * [2부 실전 마이그레이션 예시 및 컨텍스트 기여 모델에서 고인물(팀에 오래된 경력 가지신분)/ 청정수(새로 합류하신분) 의 역할론](https://p-iknow.notion.site/2-2661aaa68f2f806fb62ad3c51bc32e4d)
+  * [Vibe coding will destroy your codebase but, you're probably not doing it](https://www.adaptivealchemist.com/vibe-coding-will-destroy-your-codebase-but-youre-probably-not-doing-it/)
+    * [바이브 코딩을 이야기하는 사람에게 "코드가 올바르게 동작하는 건 어떻게 보장하실 생각인가요?" 또는 단적으로 "테스트는 어떻게 하시나요?"라고 물으면 대부분 직접 돌려본다고 답한다 | 박성철](https://www.linkedin.com/posts/fupfin_vibe-coding-will-destroy-your-codebase-but-activity-7381684157908918272-PeXe)
+      * 그럼 "(AI 시대와 맞지 않게) 무척 원시적이네요"란 말이 머리에 떠오른다
+      * 이 글은 AI를 활용한 개발 방식을 좀 더 정확히 여러 종류로 분류하기 위해서 두 개의 축을 가정한다. 하나는 엄밀성이다. 또 하나는 AI 자동화 수준이다. 그리고 이 두 축으로 이루어진 2차원 공간 위에 AI를 활용한 개발 방식을 다섯가지로 유형으로 분류해서 배치한 후에 각 방식을 설명한다
+      * 바이브 코딩이란 멋진 이름 뒤에 숨은 위험을 인지하고 올바른 방향을 가늠하는데 도움이 될만한 시각적 도구라고 생각된다
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -1055,6 +1066,8 @@ Artificial Intelligence
     * OpenAI, LangChain, Hugging Face를 지원하고 있어서 모델 제공 업체와 상관없이 SDK 사용 가능
 * [vessel: Orchestrate physical devices with a single platform 🦾](https://github.com/cartesiancs/vessel)
   * [군용 C2 플랫폼인 안두릴의 오픈소스 대안이 목표인 프로젝트](https://www.linkedin.com/posts/huhhyeongjun_github-cartesiancsvessel-orchestrate-activity-7368580181885612032-n5CE)
+* [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
+  * [바이브 엔지니어링 | GeekNews](https://news.hada.io/topic?id=23521)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
@@ -1432,6 +1445,10 @@ Artificial Intelligence
   * [Tae Hyung Kim - 예상했던 대로, 생성형 AI의 핵심 전선은 이제 성능 못지않게 저작권이 중요하게 되어 가고... | Facebook](https://www.facebook.com/socialego/posts/pfbid02pBnDxoxhqW3GTxhNGqrMNncuDqRtpYRKLeCS6GQSTbrDRvXP6Csc6y5YMZRKkf5Ul)
 * [State of the Markets Report H2 2025](https://www.svb.com/trends-insights/reports/state-of-the-markets-report/)
   * [실리콘밸리은행이 말하는 2025년 흐름, AI는 거품일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3376/)
+* [오픈AI 상위 30 고객리스트가 보여주는 인사이트](https://brunch.co.kr/@ywkim36/190)
+  * [(1) 김영욱 - <오픈AI 상위 30 고객리스트가 의미하는 것> 지난 10월 6일 OpenAI DevDay 2025행사에서... | Facebook](https://www.facebook.com/story.php?story_fbid=10235753085941101&id=1037158560&mibextid=wwXIfr&rdid=NJlgfy7dAHh1H0SL#)
+* [Apply AI Strategy | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/apply-ai)
+  * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409&mibextid=wwXIfr&rdid=a9ZdWWg0oq6uSXzW#)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1689,7 +1706,10 @@ Artificial Intelligence
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
   * [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
+    * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
+      * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
+    * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -1734,8 +1754,6 @@ Artificial Intelligence
   * [클로드 코드: 19분 만에 초보자에서 전문가로 - YouTube](https://www.youtube.com/watch?v=zW28e7LGPRQ)
   * [Ubuntu에서 Claude Code 사용하는 방법](https://webnautes.kr/ubuntueseo-claude-code-sayonghaneun-bangbeob/)
   * [Vibe Kanban 쓰면 클로드 코드 작업 전부 트래킹 가능합니다 - YouTube](https://www.youtube.com/watch?v=qCOYgKe_F8c)
-  * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
-    * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
   * [WSL없이 Windows에서 Claude Code 사용하는 방법](https://webnautes.kr/wsleobsi-windowseseo-claude-code-sayonghaneun-bangbeob/)
   * [인공지능 AI 코딩 도구, 클로드 코드 쉬운 시작 - YouTube](https://www.youtube.com/watch?v=HInJtt4AFtI)
   * [6 Weeks of Claude Code - Puzzmo Blog](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
@@ -1779,6 +1797,8 @@ Artificial Intelligence
       * [최승준 - 지수 함수를 이해하지 못하는 실패, 또다시 2025년 9월 27일 토요일 AI 발전과 소위 "거품"이라는... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0c9wTBs6WyY2BwcvvkLvFqtTrz8uu8PbsTCXYwJE3T8NfeYKZzjoVeFiL7vfx7ymol)
   * [The Magic of Claude Code](https://www.alephic.com/writing/the-magic-of-claude-code)
     * [Claude Code의 마법: 유닉스 철학과 파일시스템 접근성이 Claude Code를 특 | GeekNews](https://news.hada.io/topic?id=23408)
+  * [Agent SDK overview - Claude Docs](https://docs.claude.com/en/api/agent-sdk/overview)
+    * [🤖Claude Agents SDK: AI 애플리케이션의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Claude-Agents-SDK-AI-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -1809,6 +1829,8 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
+  * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
+    * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022&mibextid=wwXIfr&rdid=oTqSd1U9xMoIgLgf#)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
