@@ -201,6 +201,7 @@ Monitoring
   * [따끈따끈한 전사 로그 시스템 전환기: ELK Stack에서 Loki로 전환한 이유 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14505/)
   * [**17. 로깅 시스템 구축 – 로키 – 제니퍼소프트**](https://jennifersoft.com/ko/blog/tech/2024-01-17-kubernetes-17/)
   * [loki logcli 사용법](https://catchv.tistory.com/102)
+  * [당근에서 Loki 1년간 운영기 | 당근 SRE 밋업 4회 - YouTube](https://www.youtube.com/watch?v=pzvzOmZOKWc)
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
