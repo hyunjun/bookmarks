@@ -175,6 +175,9 @@ Redis
   * [당신에겐 Redis가 필요하지 않을 수도 있습니다 | GeekNews](https://news.hada.io/topic?id=19665)
 * [개발자가 알면 좋은 Redis 꿀팁 모음 | 올리브영 테크블로그](https://oliveyoung.tech/2025-07-23/redis-tips-for-developer/)
 
+# AI artificial intelligence
+* [Redis Semantic Cache로 LLM 호출 비용 절감하는 법 - YouTube](https://www.youtube.com/watch?v=m_r_ySLBWJ4)
+
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
 
