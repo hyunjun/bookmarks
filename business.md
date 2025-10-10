@@ -262,6 +262,8 @@ Business
     * 기술을 훔치는 힘은, 암묵지를 본인의 의식으로 자체 해석하여 형식지로 발현하고, 이를 다시 자기 안에 스며들게 하는 힘을 말한다.
 * [조직문화를 만들어가는 비법 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=3RVxxkwWohA) 문화는 bottom up(X), top down(O), 그러므로 top leader가 지켜야 함
 * [조직 문화 담당자의 성과, 이렇게 측정 가능합니다 | H.PODCAST SAP Korea 오용석 1부 - YouTube](https://www.youtube.com/watch?v=FNXVh5wvGIw) BHCI index
+* [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+  * [소프트웨어 회사처럼 바라보기 | GeekNews](https://news.hada.io/topic?id=23527) 조직을 가독성(legibility) 관점에서 보는 게 흥미로움
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
 * [TED Giver & Taker](https://www.slid.cc/ko/share/vdocs/ted-giver-taker-68bc78d2806a403290ff161ce85111aa) 성공하는 조직의 giver, taker
