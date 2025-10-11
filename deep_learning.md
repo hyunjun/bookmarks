@@ -170,6 +170,7 @@ Deep Learning
   * [Introducing AgentKit | OpenAI](https://openai.com/index/introducing-agentkit/)
     * [오픈AI, AI 에이전트 구축·배포용 개발자 도구 '에이전트키트' 출시  < 산업일반 < AI산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=202995)
     * [류내원 - 오픈AI, AI 에이전트 구축·배포용 개발자 도구 '에이전트키트(AgentKit)' 출시 (출처: 뉴스)... | Facebook](https://www.facebook.com/story.php?story_fbid=24587354694220599&id=100001182289254&mibextid=wwXIfr&rdid=xAZInDm0yNInkMIH#)
+    * [AgentKit: 에이전트 개발의 판을 바꾸는 툴킷 — 시각적 설계에서 평가까지](https://digitalbourgeois.tistory.com/2078)
   * [agent builder](https://platform.openai.com/agent-builder)
     * [OpenAI Agent Builder는 n8n을 대체할 수 있을까요? 어제밤 또 엄청난게 공개 되었습니다. OpenAI의 DevDay에서 Sam Altman이 AgentKit과 Agent Builder를 발표했습니다. 이벤트가 끝나자마자 "n8n 킬러가 나왔다", "Zapier도 위험하다"는 반응들이 쏟아졌습니다. 수억 명의 ChatGPT 사용자가 매우… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_openai-agent-builder%EB%8A%94-n8n%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-%EC%96%B4%EC%A0%9C%EB%B0%A4-activity-7381124370305437696-Fy07)
   * OpenAI DevDay 2025
