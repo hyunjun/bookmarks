@@ -383,6 +383,10 @@ Algorithm
 * [Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 * [History of Lossless Data Compression Algorithms - ETHW](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
+* [OpenZL](https://openzl.org/)
+  * [Introducing OpenZL: An Open Source Format-Aware Compression Framework - Engineering at Meta](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
+    * [OpenZL: 파일 포맷 인식이 가능한 오픈소스 압축 프레임워크 | GeekNews](https://news.hada.io/topic?id=23499)
+  * [Meta(구 Facebook), 내부 사용하던 AI용 고성능 압축 솔루션 'OpenZL' | GeekNews](https://news.hada.io/topic?id=23498)
 * [Zip: Data compression (20분만에 배우는 압축 알고리즘) - Speaker Deck](https://speakerdeck.com/dalinaum/zip-data-compression-20bunmane-baeuneun-abcug-algorijeum)
 
 # Consensus
