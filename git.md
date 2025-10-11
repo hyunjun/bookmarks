@@ -1591,6 +1591,7 @@ Git
   * [Probot: Scheduler 사용하기](https://blog.outsider.ne.kr/1402)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * PyGithub [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+* [qwe (pronounced kiwi) is a simple yet powerful version control system that tracks individual files, not entire projects. Unlike Git, which manages repositories as a whole, qwe provides a more granular approach — perfect for quick file-level tracking, experimentation, or standalone scripts](https://github.com/mainak55512/qwe)
 * [ReadmePlants/about-project.md at main · devxb/ReadmePlants](https://github.com/devxb/ReadmePlants/blob/main/about-project.md)
 * [refined-github: Browser extension that simplifies the GitHub interface and adds useful features](https://github.com/refined-github/refined-github)
 * [release: Generate changelogs with a single command](https://github.com/vercel/release)
