@@ -346,8 +346,6 @@ App
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
 * [BookStack - a simple, self-hosted, easy-to-use platform for organising and storing information](https://www.bookstackapp.com/)
-* [crssnt: 🥐 Open source RSS feed generator for Google Sheets](https://github.com/tgel0/crssnt)
-  * [crssnt - 구글 시트에서 RSS 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4860)
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
   * [아 docusaurus 그렇게 쓰는거 아닌데 쿸쿠루삥뽕](https://velog.io/@juunini/%EC%95%84-docusaurus-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%93%B0%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%8C%EB%8D%B0-%EC%BF%B8%EC%BF%A0%EB%A3%A8%EC%82%A5%EB%BD%95)
@@ -2699,6 +2697,12 @@ App
 
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
+
+# RSS feed
+* [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive)
+  * [RSS 피드 리더 현황 | GeekNews](https://news.hada.io/topic?id=23545)
+* [crssnt: 🥐 Open source RSS feed generator for Google Sheets](https://github.com/tgel0/crssnt)
+  * [crssnt - 구글 시트에서 RSS 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4860)
 
 # Screen marker
 * [macOS Screen Annotation Tools: What's the best app? - 9to5Mac](https://9to5mac.com/2020/05/03/macos-screen-annotation-tools/)
