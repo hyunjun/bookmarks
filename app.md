@@ -597,6 +597,7 @@ App
 * [모바일에서 개발자 도구를 사용하는 팁. - YouTube](https://www.youtube.com/shorts/xWk3qHleZ4c)
 * [Hidden Features of Chrome DevTools | by Martin Heinz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/hidden-features-of-chrome-devtools-33d9de390dc0)
 * [AI 에이전트를 위한 Chrome DevTools (MCP)  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/chrome-devtools-mcp?hl=ko)
+  * [디버깅 없이 디버깅하기 (feat. Chrome DevTools MCP) - YouTube](https://www.youtube.com/watch?v=22tL3Hl-NwA)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
