@@ -756,6 +756,8 @@ ElasticSearch - Lucene
   * [2백만개 음식 레시피 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3370)
   * [우분투 20.04에서 typesense 서버 설치부터 node.js 클라이언트 예제 실행까지 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/13/from-installing-the-typesense-server-to-running-nodejs-client-example-on-ubuntu-20-04.html)
   * [Typesense를 활용한 검색용 API 서버 그리고 데모용 웹페이지 만들기 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/15/creating-an-api-server-for-search-using-typesense-and-a-web-page-for-demo.html)
+* [user-behavior-insights-elasticsearch: User Behavior Insights (UBI) plugin for Elasticsearch](https://github.com/o19s/user-behavior-insights-elasticsearch)
+  * [Using UBI in Elasticsearch: Creating an app with UBI and search-ui - Elasticsearch Labs](https://www.elastic.co/search-labs/blog/ubi-elasticsearch-creating-app-search-ui)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 * [Zinc 검색 엔진 - 경량 ElasticSearch 대체제 | GeekNews](https://news.hada.io/topic?id=5490)
 * [ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client](https://github.com/lambdaworks/zio-elasticsearch)
