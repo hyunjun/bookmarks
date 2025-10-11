@@ -1492,6 +1492,8 @@ Linux
 * [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
+* [WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
+  * [리눅스에서 윈도우 앱을 매끄럽게 실행하는 WinBoat | GeekNews](https://news.hada.io/topic?id=23549)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
