@@ -8634,6 +8634,9 @@ Programming
   * [소프트웨어 엔지니어링에서의 "좋은 취향"이란 무엇인가? | GeekNews](https://news.hada.io/topic?id=23365)
 * [The Great Software Quality Collapse: How We Normalized Catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
   * [대규모 소프트웨어 품질 붕괴, 그리고 재앙이 일상화된 과정 | GeekNews](https://news.hada.io/topic?id=23573) 비판하는 댓글이 많지만 나는 동감
+* [Managing the development of large software systems: concepts and techniques | Proceedings of the 9th international conference on Software Engineering](https://dl.acm.org/doi/10.5555/41765.41801)
+  * [<Managing the Development of Large Software Systems> 윈스턴 W. 로이스가 1970년에 발표한 논문으로 폭포수 모델이 제시된 논문으로 알려졌다. 첫번째 페이지의 그림 2가 소위 말하는 폭포수 모델이다. 그리고 그 다음 페이지의 그림 3이 흔히 폭포수 모델의 단점을 해소한다고 거론되는 보완 모델이다. 많은… | 박성철](https://www.linkedin.com/posts/fupfin_managing-the-development-of-large-software-activity-7373162759594639360-XtsN)
+    * 피드백 경로와 프로토타이핑이 처음부터 포함되어 있었다는 설명
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
