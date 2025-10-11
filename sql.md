@@ -1796,6 +1796,8 @@ SQL
 * [Litestream - Streaming SQLite Replication](https://litestream.io/)
   * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
   * [Litestream - SQLite 스트리밍 복제 도구 | GeekNews](https://news.hada.io/topic?id=6438)
+  * [Litestream v0.5.0 is Here · The Fly Blog](https://fly.io/blog/litestream-v050-is-here/)
+    * [Litestream v0.5.0 | GeekNews](https://news.hada.io/topic?id=23422)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [rqlite](https://rqlite.io/)
   * [rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
