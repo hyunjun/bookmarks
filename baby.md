@@ -102,6 +102,8 @@ Baby
   * [아들을 절대 체벌하지 않으면이렇게 됩니다. 최민준 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/808463)
 * [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
   * [당신은 멍청하지 않다, 단지 선행 지식이 부족할 뿐이다 | GeekNews](https://news.hada.io/topic?id=16458)
+* [Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains - YouTube](https://www.youtube.com/watch?v=0xS68sl2D70)
+  * [박용섭 - 무려 1900만명이 넘는 구독자를 가진 과학 유튜브 Veritasium의 Derek Muller가 캐나다의... | Facebook](https://www.facebook.com/story.php?story_fbid=25322447544025841&id=100000618319680&mibextid=wwXIfr&rdid=TpL7y8zpC4yzyWOV#)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
