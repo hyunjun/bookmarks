@@ -261,6 +261,8 @@
 * [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703)
 * [How Do In-Memory Data Grids Differ from Spark?](https://www.scaleoutsoftware.com/technology/how-do-in-memory-data-grids-differ-from-spark/)
 * [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
+* [Handling Data Skew in Apache Spark: Techniques, Tips and Tricks to Improve Performance | by Suffyan Asad | Medium](https://medium.com/@suffyan.asad1/handling-data-skew-in-apache-spark-techniques-tips-and-tricks-to-improve-performance-e2934b00b021)
+  * [데이터가 Even하게 분산되지 않았어요, Spark에서 Data Skew 해결하기! — Hit the books!](https://suminii.tistory.com/entry/Spark%EC%97%90%EC%84%9C-Data-Skew-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-Even%ED%95%98%EA%B2%8C-%EB%B6%84%EC%82%B0%EB%90%98%EC%A7%80-%EC%95%8A%EC%95%98%EC%96%B4%EC%9A%94)
 * [Skew Mitigation For Facebook PetabyteScale Joins - YouTube](https://www.youtube.com/watch?v=QxfFbu65Hn8)
 * [처음해보는 스파크(spark)로 24시간안에 부동산 과열 분석해보기](http://angeliot.blogspot.com/2016/11/24-spark.html)
 * [Intro to Apache Spark for Java and Scala Developers - Ted Malaska (Cloudera)](https://www.youtube.com/watch?v=x8xXXqvhZq8)
