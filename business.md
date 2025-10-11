@@ -919,6 +919,8 @@ Business
 * [**DANO 모형**](https://dano.oopy.io/34b0bff7-e0a2-4201-a47f-2c6b60937e72)
 * [AI 통합, 앞서가는 회사는 무엇을 알고 있나](https://brunch.co.kr/@graypool/1127) 결국 business의 성공에 필요한 process는 분야에 무관하게 적용 가능하다
 * [5,000억 회사 창업자가 말하는 쉬운 비즈니스와 어려운 비즈니스 (feat. 86년생)](https://maily.so/unsexybusinesskr/posts/9c2c8920)
+* [The Unsexy Startup Advantage: Why Boring Markets Create the Biggest Winners](https://www.linkedin.com/pulse/unsexy-startup-advantage-why-boring-markets-create-rahul-chaudhary-u6oje/)
+  * [지루한 시장에서 가장 큰 승자가 탄생하는 이유: ‘언섹시(UNSEXY) 스타트업’의 장점 | GeekNews](https://news.hada.io/topic?id=23560)
 * [대표님은 어떻게 지하3층에서 탈출하셨나요?](https://www.linkedin.com/posts/%EC%9D%B4%EC%A3%BC%ED%98%B8-philip-299252111_tfmukq3tbjslssoktnstymukqqvirsv-qwksqmsviuiktxu-activity-7175248866177417216--SWc/) 다운쉬프트 downshift
 * [김수보 작가의 페이지 | 요즘IT](https://yozm.wishket.com/magazine/@subokim/)
   * [SI 산업 가이드북⑥ 1억 넘는 ‘진짜 프로젝트’는 어떻게 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2578/)
