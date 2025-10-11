@@ -3625,6 +3625,8 @@ Business
 * [모바일 컨텐츠 이야기 :: 금융과 커뮤니티 사이, 토스뱅크](http://www.mobizen.pe.kr/1474)
 * [한성희 - 제품 단순화가 스타트업 성공에 중요한 이유 스티브 잡스는 단순한 박스 형태의 목업을 만들고, 나사 하나까지... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid02zeevgWRoC4NhjK58XRkok2SEkJUG52xWStKBRiMQiBTECpTmi44FbCbrCWvbiowJl)
 * [Net Promoter Score (NPS): The Ultimate Guide - Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)
+* [Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com) - YouTube](https://www.youtube.com/watch?v=2BKmNmnEj9w)
+  * [제품에서 숨겨진 성장 기회를 찾는 법 | GeekNews](https://news.hada.io/topic?id=23561) 탐색(Explore)과 활용(Exploit) 프레임워크
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
