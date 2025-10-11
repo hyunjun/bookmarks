@@ -694,6 +694,8 @@ Artificial Intelligence
       * 그럼 "(AI 시대와 맞지 않게) 무척 원시적이네요"란 말이 머리에 떠오른다
       * 이 글은 AI를 활용한 개발 방식을 좀 더 정확히 여러 종류로 분류하기 위해서 두 개의 축을 가정한다. 하나는 엄밀성이다. 또 하나는 AI 자동화 수준이다. 그리고 이 두 축으로 이루어진 2차원 공간 위에 AI를 활용한 개발 방식을 다섯가지로 유형으로 분류해서 배치한 후에 각 방식을 설명한다
       * 바이브 코딩이란 멋진 이름 뒤에 숨은 위험을 인지하고 올바른 방향을 가늠하는데 도움이 될만한 시각적 도구라고 생각된다
+  * [**Agentic Coding Questions and Current Workflow - YouTube**](https://www.youtube.com/watch?v=X8M6U3QiC8Q)
+    * [(3) 이상선 - 바이브코딩 강의 영상, 당분간 이걸로 끝입니다. 플라스크의 창시자 아르민 로나허(Armin... | Facebook](https://www.facebook.com/100001916096643/posts/31664568689856922/?mibextid=wwXIfr&rdid=4ZrvQQ3lbqzdSTmL#)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
