@@ -188,6 +188,7 @@ Book
   * [김현종, 한미 FTA를 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/FTA.md)
   * [김현종, 한미 FTA를 말하다. 1부 22세기 희망 전략 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-fta%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4-9b19010d0daf)
   * [김현종, 한미 FTA를 말하다](https://jh4hj.tistory.com/entry/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-FTA%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4)
+  * [당신이 만약 한국이라는 섬 나라를 벗어나서 큰 세계로 나아가고 싶다면 영어를... - Bin Lee의 MasterClass | Facebook](https://www.facebook.com/BinLeeMasterClass/posts/pfbid02aJooYBCTD4L3V1WsWrDGaL7GC3zyGx7vR3MgQ4SGjNE6LLYjqphCiRFFdTCW5MqHl)
 * [임포스터 (Impostor)](https://blog.naver.com/junedec369/222670625109)
   * 한라 598.5-손298ㅇ, 탐라 문378.9-손239ㅇ, 우당 문378.9-손239ㅇ
   * ★★★☆☆ 2022.08.01~02
