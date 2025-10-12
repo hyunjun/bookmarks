@@ -2404,6 +2404,8 @@ App
   * [Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ https://joplinapp.org ](https://github.com/laurent22/joplin)
   * Markdown 문법/미리보기 지원, 모든 OS 지원(윈도우, 맥, 리눅스, 아이폰, 안드로이드), Webdav/ftp 동기화, 트리구조 노트 생성
   * ToDo 생성/알림 가능, 테마 변경 가능, pdf 내보내기 기능, vi/emacs 키보드 모드 지원
+* [KnotNet - 기록을 정리하고, 기억을 연결하다](https://knotnet.strux.pro/)
+  * [노션의 한계를 넘은 진짜 기록 앱 - YouTube](https://www.youtube.com/watch?v=08zo3hgodiQ)
 * [Loglike - 생각날 때마다 바로, 타임라인 일기/메모 | GeekNews](https://news.hada.io/topic?id=23371)
 * [memotron.io](https://memotron.io/)
   * [Memotron - The Personal Knowledge Management (PKM) app - YouTube](https://www.youtube.com/watch?v=SeWdndc7y4A)
