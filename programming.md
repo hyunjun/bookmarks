@@ -7592,6 +7592,7 @@ Programming
 * [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
 * [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 * [쉽게 이해하는 다중큐비트 양자컴퓨팅 시뮬레이션 - 미래인공지능18 - YouTube](https://www.youtube.com/watch?v=2HpKYC2tkr8)
+* ["양자 안 된다"던 엔비디아까지 양자에 뛰어든 이유 - YouTube](https://www.youtube.com/watch?v=Ng5zkX_E5As)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
@@ -8637,6 +8638,10 @@ Programming
 * [Managing the development of large software systems: concepts and techniques | Proceedings of the 9th international conference on Software Engineering](https://dl.acm.org/doi/10.5555/41765.41801)
   * [<Managing the Development of Large Software Systems> 윈스턴 W. 로이스가 1970년에 발표한 논문으로 폭포수 모델이 제시된 논문으로 알려졌다. 첫번째 페이지의 그림 2가 소위 말하는 폭포수 모델이다. 그리고 그 다음 페이지의 그림 3이 흔히 폭포수 모델의 단점을 해소한다고 거론되는 보완 모델이다. 많은… | 박성철](https://www.linkedin.com/posts/fupfin_managing-the-development-of-large-software-activity-7373162759594639360-XtsN)
     * 피드백 경로와 프로토타이핑이 처음부터 포함되어 있었다는 설명
+* [Vibe Coding Is The WORST IDEA Of 2025 - YouTube](https://www.youtube.com/watch?v=1A6uPztchXk)
+  * [(1) 이일민 - https://www.youtube.com/watch?v=1A6uPztchXk 모든 개발자의 필독서인... | Facebook](https://www.facebook.com/1070166746/posts/10233463679068461/?mibextid=wwXIfr&rdid=SqVx79QKwps9QVv8#)
+    * 좋은 소프트웨어는 여전히 명확한 사고, 좋은 설계, 철저한 테스팅을 요구
+    * 바이브 코딩이 아니라, 정밀한 의도 명세와 자동화된 검증으로 무장한 AI 보조 엔지니어링—이것이 진짜 미래
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
