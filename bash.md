@@ -160,6 +160,7 @@ Shell
 * [intelli-shell: Like IntelliSense, but for shells](https://github.com/lasantosr/intelli-shell)
   * [Introduction - IntelliShell Book](https://lasantosr.github.io/intelli-shell/)
   * [IntelliShell - 쉘을 위한 IntelliSense | GeekNews](https://news.hada.io/topic?id=23553)
+* [neofetch: 🖼️ A command-line system information tool written in bash 3.2+](https://github.com/dylanaraps/neofetch)
 * [NuShell - An Introduction - YouTube](https://www.youtube.com/watch?v=qCtgtex7XMg)
 * [Oil](http://www.oilshell.org/)
   * [Oil - 새로운 Unix 쉘 | GeekNews](https://news.hada.io/topic?id=5408)
