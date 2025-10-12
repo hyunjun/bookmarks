@@ -110,6 +110,7 @@ App
   * [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기) | by ruucm | Harbor School (하버 스쿨) | Medium](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
   * [Framer로 블로그 만들기 - 01 - My Framer Site](https://hyojung.framer.website/blog/create-blog-with-framer-01)
   * [프레이머 시작하는 방법 (with 3년 리뷰) - YouTube](https://www.youtube.com/watch?v=UzVbas0SR3E)
+* [ghosttime: Ghostty animation for any terminal with customizable colors](https://github.com/SohelIslamImran/ghosttime) ascii animation
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [Kagi News 공개 | GeekNews](https://news.hada.io/topic?id=23381)
@@ -543,6 +544,8 @@ App
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [FixBrowser](https://www.fixbrowser.org/)
   * [FixBrowser - 처음부터 새로 개발된 경량 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=18443)
+* [Glide - 확장 가능한 키보드 중심의 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=23419)
+  * [Introducing Glide, an extensible, keyboard-focused web browser | Robert Craigie](https://blog.craigie.dev/introducing-glide/)
 * [Helium Browser](https://helium.computer/)
   * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
   * [Helium 브라우저 | GeekNews](https://news.hada.io/topic?id=23276)
