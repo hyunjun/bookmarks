@@ -663,6 +663,8 @@ NoSQL
 * [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인) — Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/86)
 * [정말 다시는 쓰고 싶지 않은 최악의 프로덕트](https://www.linkedin.com/posts/sigridjineth_supabase-client-requires-explicit-signout-activity-7284176517197189120-jbOW)
 * [Supabase API Key 생성하기](https://devway.tistory.com/76)
+* [AI 시대, 오픈소스 백엔드의 강자 Supabase](https://brunch.co.kr/@ywkim36/188)
+  * [김영욱 - <🚀 AI 시대, 오픈소스 백엔드의 진짜 주인공 — 수파베이스(Supabase) > 요즘 AI 바이브... | Facebook](https://www.facebook.com/story.php?story_fbid=10235710653320312&id=1037158560&mibextid=wwXIfr&rdid=J1vZqhsOpTshavEd#)
 * [crossplatformkorea/CPK](https://github.com/crossplatformkorea/cpk)
   * [커뮤니티 앱 개발 리뷰 - YouTube](https://www.youtube.com/watch?v=U_wgty0DMjE)
 
