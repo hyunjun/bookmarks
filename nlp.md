@@ -4458,6 +4458,11 @@ NLP
   * ["왜 언어 모델은 일관된 생각을 유지하지 못할까?"라는 질문에 정면으로 도전하는 내용 #meta #모델_일관성 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-riwqzcabrsueqtkspf-activity-7377175086182813696-64Jf)
 * [2509.20186 Thinking Augmented Pre-training](https://arxiv.org/abs/2509.20186)
   * [최근 논문을 보면 대기업들의 관심사는 “적은 데이터로 대규모 언어 모델을 더 똑똑하게 만들 수 있을까?” #microsoft에서도 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoftslssokrba-activity-7379077625656479744-3Vcr)
+* [2509.08825 Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/pdf/2509.08825)
+  * [Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02LMnBA3m7gjyAZjip1Z8MrHP3QoSF39qL8wYKCxmP9syFw165L6sUnRFFbww63HHTl)
+    * 37개의 실제 데이터를 가지고 실험을 했는데 모든 LLM 모델에서 30% 이상의 오류가 발생
+    * 프롬프트에 따라 통계결과가 완전히 뒤집히는 결과가 대다수
+    * 여전한 기본 데이터의 중요성
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
