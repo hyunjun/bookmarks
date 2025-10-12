@@ -4463,6 +4463,9 @@ NLP
     * 37개의 실제 데이터를 가지고 실험을 했는데 모든 LLM 모델에서 30% 이상의 오류가 발생
     * 프롬프트에 따라 통계결과가 완전히 뒤집히는 결과가 대다수
     * 여전한 기본 데이터의 중요성
+* [2510.07192 Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples](https://arxiv.org/abs/2510.07192)
+  * [A small number of samples can poison LLMs of any size \ Anthropic](https://www.anthropic.com/research/small-samples-poison)
+    * [(3) 전종홍 - 250개의 샘플만으로도 LLM 학습데이터 오염과 변조가 가능하고 그것을 기반으로한 추가 공격이 가능하다는... | Facebook](https://www.facebook.com/story.php?story_fbid=10164607057756410&id=683301409&mibextid=wwXIfr&rdid=D2UA7vpkWy5feZTn#)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
