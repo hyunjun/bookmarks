@@ -827,6 +827,8 @@ Git
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
   * [Conventional Commits](https://www.conventionalcommits.org)
+  * [lumen: Instant AI Git Commit message, Git changes summary from the CLI (no API key required)](https://github.com/jnsahaj/lumen)
+    * [이상선 - Lumen — Git 워크플로우 AI 자동화 CLI Lumen은 Git 워크플로우를 AI로 최적화해주는... | Facebook](https://www.facebook.com/100001916096643/posts/31606581362322322/?mibextid=wwXIfr&rdid=eu0eL8xuk0IsW3OJ#)
 * `config`
   * basics
 
