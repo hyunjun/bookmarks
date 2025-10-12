@@ -3969,12 +3969,7 @@ Programming
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
 * [Netflix Cloud Packaging in the Terabyte Era | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae) MezzFS
 * [데이터부터 ID까지 다 지킨다··· 클라우드 '빅3' 사이버 보안 제품 가이드 - CIO Korea](https://www.ciokorea.com/news/209062)
-* [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
-* [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
-* [A New Hope for Object Storage: R2 enters open beta](https://blog.cloudflare.com/r2-open-beta/)
 * [‘오브젝트 스토리지’는 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2541/)
-* [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
-  * [Cloudflare, Workers 용 SQL 데이터베이스 D1 공개 | GeekNews](https://news.hada.io/topic?id=6553)
 * [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
@@ -4079,13 +4074,20 @@ Programming
   * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
 * [cign - Cloud As Design](https://www.cigncloud.com/) visualization
 * [Cloud Champ - YouTube](https://www.youtube.com/channel/UCbg9O0JF3rVKev6wpI5_u5g)
-* [Cloudflare Workers | Build and deploy code with Easy-to Use Developer Tools | Cloudflare](https://www.cloudflare.com/developer-platform/workers/)
-  * [Re-introducing the Cloudflare Workers Playground](https://blog.cloudflare.com/workers-playground/)
-    * Cloudflare Workers를 공개할 때 같이 공개했던 Playground가 오랫동안 방치되어 있었음
-    * 그동안 Workers의 발전에 맞추어 Playground를 새로 만들어서 새로운 편집기 환경에서 Workers를 바로 테스트해 볼 수 있고 공유하거나 배포 가능
-  * [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
-    * Cloudflare에서 서버리스 GPU를 이용할 수 있는 Workers AI 출시
-    * Workers AI에서는 Meta, OpenAI, Hugging Face, Microsoft의 다양한 모델을 사용해서 추론을 쉽게 사용 가능
+* Cloudflare
+  * [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/)
+    * [Cloudflare, Workers 용 SQL 데이터베이스 D1 공개 | GeekNews](https://news.hada.io/topic?id=6553)
+  * [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+  * [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+  * [A New Hope for Object Storage: R2 enters open beta](https://blog.cloudflare.com/r2-open-beta/)
+  * [Cloudflare Workers | Build and deploy code with Easy-to Use Developer Tools | Cloudflare](https://www.cloudflare.com/developer-platform/workers/)
+    * [Re-introducing the Cloudflare Workers Playground](https://blog.cloudflare.com/workers-playground/)
+      * Cloudflare Workers를 공개할 때 같이 공개했던 Playground가 오랫동안 방치되어 있었음
+      * 그동안 Workers의 발전에 맞추어 Playground를 새로 만들어서 새로운 편집기 환경에서 Workers를 바로 테스트해 볼 수 있고 공유하거나 배포 가능
+    * [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
+      * Cloudflare에서 서버리스 GPU를 이용할 수 있는 Workers AI 출시
+      * Workers AI에서는 Meta, OpenAI, Hugging Face, Microsoft의 다양한 모델을 사용해서 추론을 쉽게 사용 가능
+  * [2025 최고의 개발자 플랫폼은? - YouTube](https://www.youtube.com/watch?v=bClgGbYfeWE)
 * [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Coolify](https://coolify.io/)
