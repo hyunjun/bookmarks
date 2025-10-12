@@ -4442,6 +4442,8 @@ NLP
 * [환각의 불가피성을 증명한 논문들](https://www.linkedin.com/posts/activity-7368110690919698434-W0uE/)
   * [2401.11817 Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
   * [2506.06382v2 On the Fundamental Impossibility of Hallucination Control in Large Language Models](https://arxiv.org/abs/2506.06382v2)
+* [2501.09223 Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+  * [NLPBook: A comprehensive book on neural networks and large language models in NLP](https://github.com/NiuTrans/NLPBook)
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
   * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
   * [DeepConf on vLLM - Minimal Patch & Usage Guide](https://jiaweizzhao.github.io/deepconf/static/htmls/code_example.html)
