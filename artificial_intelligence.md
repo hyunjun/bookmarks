@@ -336,6 +336,7 @@ Artificial Intelligence
   * [We're Not Ready for Superintelligence - YouTube](https://www.youtube.com/watch?v=5KVDDfAkRgc)
 * [“이래야 월드 클래스 IT” 생성형 AI가 바꾸는 CIO의 미션과 전략 | CIO](https://www.cio.com/article/4066105/%ec%9d%b4%eb%9e%98%ec%95%bc-%ec%9b%94%eb%93%9c-%ed%81%b4%eb%9e%98%ec%8a%a4-it-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-cio%ec%9d%98-%eb%af%b8%ec%85%98.html)
 * [IT 불황에서 살아남기: 서바이벌 키트 모음 | 요즘IT](https://yozm.wishket.com/magazine/detail/3380/)
+* [AI를 사용하는 3가지 방법 Cli, Agent, Locally - YouTube](https://www.youtube.com/watch?v=Dyt197JInPU)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1715,6 +1716,8 @@ Artificial Intelligence
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
+* [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
+  * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
