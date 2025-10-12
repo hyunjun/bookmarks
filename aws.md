@@ -1364,6 +1364,7 @@ AWS
 * [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
   * [EC2 부팅 시간 단축하기 | GeekNews](https://news.hada.io/topic?id=15046)
 * [AWS EC2 GPU 서버 & ollama통한 nvidia,cuda 구축 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/21/aws-ec2-gpu-ollama-nvidia-cuda/)
+* [`오픈 소스` AWS EC2 docker #odevtube - YouTube](https://www.youtube.com/watch?v=oFYi_6lqKhk)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
