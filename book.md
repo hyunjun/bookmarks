@@ -1295,7 +1295,7 @@ Book
   * [나라를 위해서 일한다는 거짓말 - Jun’s Substack](https://recur.substack.com/p/bda)
   * [나라를 위해서 일한다는 거짓말](https://jh4hj.tistory.com/entry/%EB%82%98%EB%9D%BC%EB%A5%BC-%EC%9C%84%ED%95%B4%EC%84%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B1%B0%EC%A7%93%EB%A7%90)
 * [나는 어떤 죽음에도 익숙해지지 않는다 Code Gray](https://www.notion.so/1003/Code-Gray-1e83f0c2cf65806595bdf1b8d7384a65)
-  * ★★★☆☆ May 3, 2025
+  * ★★★☆☆ 2025.05.03
     * 작년 말부터 올해 초까지 ‘죽음’을 화두로 삼은 여러 책을 읽었는데, 우연히 이 책을 발견하고 읽게 되었다. 이 책은 가족의 사별로 인한 상실감을 전면에 내세우기는 책은 아니고, ‘인생의 의미’와 유사하게 삶의 태도를 탐색하는 데 초점을 맞춘다. 저자는 응급의학과 의사라는 직업상 하루에도 수차례 죽음을 마주해, 현장에서 겪은 다채로운 사례를 통해 우리가 어떤 마음으로 오늘을 살아가야 할지 풀어낸다.
     * 저자가 강조하듯 응급실은 결코 독특한 문제가 발생하는 장소가 아니다. 오히려 일반적인 문제들이 독특하게 드러나는데, 이를 받아들이는 태도는 각자의 정신적 모델에 따라 다양하다. 그래서 정답은 존재하지 않는다. ‘아는 것이 힘이다’와 ‘무지는 축복이다’ 사이의 희미한 경계 위에서 인생은 해결되지 않는 딜레마와 답 없는 질문들로 가득 차 있다. 그럴 때일수록 저자는 불편한 경험과 불확실성을 있는 그대로 받아들이고(즐기라고 권한다), 삶의 속도를 잠시 늦춰 일상을 면밀히 들여다보라고 권한다. 이러한 권고는 우리가 삶을 단단히 지탱할 수 있게 해 주는 한 가지 좋은 자세를 알려준다.
   * [Jun - 나는 어떤 죽음에도 익숙해지지 않는다 Code Gray](https://hyunjun.github.io/skunk-html/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A3%BD%EC%9D%8C%EC%97%90%EB%8F%84-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-code-gray.html)
@@ -1303,6 +1303,8 @@ Book
   * [나는 어떤 죽음에도 익숙해지지 않는다 Code Gray - Jun’s Substack](https://recur.substack.com/p/code-gray)
   * [나는 어떤 죽음에도 익숙해지지 않는다 Code Gray -](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A3%BD%EC%9D%8C%EC%97%90%EB%8F%84-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-Code-Gray)
   * [나는 어떤 죽음에도 익숙해지지 않는다 Code.. : 네이버블로그](https://blog.naver.com/octoberblue/223856204074)
+* [지극히 사적인 이탈리아](https://www.notion.so/1003/28a3f0c2cf65808e996bd7bd82b7d4bf)
+  * ★★★☆☆ 2025.10.12
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
