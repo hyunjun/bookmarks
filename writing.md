@@ -129,6 +129,10 @@ Writing
   * [아마존의 상징 '6페이지 문서', 어떻게 쓰는지 들여다봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/amazon6pagers20201118)
 * [미디어 플랫폼 “얼룩소” 데이터 분석 : 과연 유저들에게 충분히 많은 ‘글값’을 주면 공론장이 만들어질까? | Notion](https://minvv23.notion.site/2753236d0cb18089a489f06da73c9278)
   * [강태영 - 4년 전 오늘, 기업인 이재웅(전 다음 커뮤니케이션 창업자, 전 쏘카 대표)이 투자하고 저명 언론사의... | Facebook](https://www.facebook.com/rkdxodud/posts/pfbid02jsUwKeNygWVTTqHTYEmB2btkZhhkWQ82s5tgt5o7GoEgaTWbP7du13HiSHajdun8l)
+* [일본의 기묘한 미스터리 & 미제사건 설명회 - YouTube](https://www.youtube.com/watch?v=vF6sifWpj6k)
+  * 좋은 이야기
+    * 낯선 곳에서 벌어지는 익숙한 이야기(e.g. 반지의 제왕)
+    * 익숙한 곳에서 벌어지는 낯선 이야기(e.g. 실종)
 
 # App
 * latex
