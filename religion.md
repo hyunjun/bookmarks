@@ -67,6 +67,7 @@ Religion
 * ["진리가 테러리즘이 될 수 있다"](http://m.newsnjoy.or.kr/news/articleView.html?idxno=203904)
 * [y-jesus.org/korean](http://y-jesus.org/korean/)
 * [출애굽기](https://librewiki.net/wiki/%EC%B6%9C%EC%95%A0%EA%B5%BD%EA%B8%B0)
+* [기독교인은 왜 종종 무례할까요? 복음이 그런 건가요?ㅣ김학철 교수ㅣ잘잘법 180회 - YouTube](https://www.youtube.com/watch?v=OkqRYY6dycA) 비유는 잘 와닿지는 않으나 전반적으로 괜찮은 영상
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
