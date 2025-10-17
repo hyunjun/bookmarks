@@ -177,6 +177,8 @@ Deep Learning
     * [Open AI Day 2025 발표 내용 정리 #1](https://bcho.tistory.com/1493)
     * [(한글자막) OpenAI DevDay 2025 - YouTube](https://www.youtube.com/watch?v=bSM9or0pRVM)
       * [Minho Hwang - OpenAI DevDay 2025: 앱스 SDK, 에이전트킷, 코덱스 등 OpenAI가... | Facebook](https://www.facebook.com/100000303155893/posts/25113959708197455/?mibextid=wwXIfr&rdid=tibDSQKtleDgNDoZ#)
+    * [ChatGPT 내 앱과 새로운 Apps SDK를 소개합니다 | OpenAI](https://openai.com/ko-KR/index/introducing-apps-in-chatgpt/)
+      * [(2) 이창원 - 기업공시 자료에 관심 있고 챗GPT 유료 쓰는 분들 보세요. 챗GPT에 앱을 추가 하는 기능이 생겼습니다.... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid0VKQU4DAfBE75K6cmWnFHhfkKPhBasJKbmXFdz7cZBQzESSmknGWXhMxY6RBMhUVEl)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
     * [DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)￼ – 이바닥늬우스](https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/)
     * [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned | Deephaven](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
