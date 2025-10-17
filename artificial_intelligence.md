@@ -337,6 +337,9 @@ Artificial Intelligence
 * [“이래야 월드 클래스 IT” 생성형 AI가 바꾸는 CIO의 미션과 전략 | CIO](https://www.cio.com/article/4066105/%ec%9d%b4%eb%9e%98%ec%95%bc-%ec%9b%94%eb%93%9c-%ed%81%b4%eb%9e%98%ec%8a%a4-it-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-cio%ec%9d%98-%eb%af%b8%ec%85%98.html)
 * [IT 불황에서 살아남기: 서바이벌 키트 모음 | 요즘IT](https://yozm.wishket.com/magazine/detail/3380/)
 * [AI를 사용하는 3가지 방법 Cli, Agent, Locally - YouTube](https://www.youtube.com/watch?v=Dyt197JInPU)
+* [Is human data enough? With David Silver - YouTube](https://www.youtube.com/watch?v=zzXyPGEtseI)
+  * [Is human data enough? :: akwiki](https://wiki.g15e.com/pages/Is%20human%20data%20enough)
+  * [경험의 시대에 오신 걸 환영합니다 :: akwiki](https://wiki.g15e.com/pages/Welcome%20to%20the%20Era%20of%20Experience)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1443,8 +1446,12 @@ Artificial Intelligence
   * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
 * [네이버 밴드 기획자가 AI코딩 99%로 만들었다는 AI 소셜 앱 | 요즘IT](https://yozm.wishket.com/magazine/detail/3309/)
+* [**AI 시대의 소스코드 품질 :: akwiki**](https://wiki.g15e.com/pages/Source%20code%20quality%20in%20the%20AI%20era)
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
+* [AI in the workplace: A report for 2025 | McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work)
+  * [Superagency in the workplace: Empowering people to unlock AI’s full potential | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_superagency-in-the-workplace-empowering-activity-7384852193352294400-VLDu)
+    * 이 변화의 흐름에 가장 큰 장벽은 바로 '리더' 자신
 * [AI 버블과 작별인사하고, 다가오는 붕괴에 대비하세요 | GeekNews](https://news.hada.io/topic?id=22667)
 * [There's a Stunning Financial Problem With AI Data Centers](https://futurism.com/data-centers-financial-bubble)
   * [Wontae Lee - 현재 AI 데이터센터의 심각한 경제적 문제점을 다루는 기사. 즉 핵심 문제점은 경제적... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid05xCAU8qg2LoTRLcE62Zzvr39gmjsSoMTfssxv4FmzrNcfuNfs36AuKcxch3Tg12al)
@@ -1713,6 +1720,8 @@ Artificial Intelligence
 * [공유용 - 250814 나날이 발전하고픈 개발자를 위한 AI 활용법.pdf - Google Drive](https://drive.google.com/file/d/1h99VB5Ra5nn78ZpcXzvN8HyJbSmcX-Qn/view)
   * [라인플러스 Tech Talk 나날이 발전하고픈 개발자를 위한 AI 활용법 - 후기 + 슬라이드 PDF](https://www.stdy.blog/how-to-use-ai-for-developers-who-want-to-develop-everyday/)
   * [나날이 발전하고픈 개발자를 위한 AI 활용법 (298p 슬라이드) - YouTube](https://www.youtube.com/watch?v=CAgn60EWDmw)
+  * [원티드 AXCONF 251016 AI에게 대체될까 두려운 개발자들에게.pdf - Google Drive](https://drive.google.com/file/d/1T4PhOUeHSW8iwKeAdT1xSpUC6hj9bS4P/view)
+    * [원티드 AX 컨퍼런스 AI에게 대체될까 두려운 개발자들에게 - 후기 + 슬라이드 PDF](https://www.stdy.blog/for-developers-who-are-afraid-of-being-replaced-by-ai/)
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
 * [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
@@ -1819,6 +1828,8 @@ Artificial Intelligence
     * [Claude Code의 마법: 유닉스 철학과 파일시스템 접근성이 Claude Code를 특 | GeekNews](https://news.hada.io/topic?id=23408)
   * [Agent SDK overview - Claude Docs](https://docs.claude.com/en/api/agent-sdk/overview)
     * [🤖Claude Agents SDK: AI 애플리케이션의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Claude-Agents-SDK-AI-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
+  * [Everyone should be using Claude Code more](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
+    * [How to use Claude Code for work and life | Lenny Rachitsky님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/lennyrachitsky_everyone-should-be-using-claude-code-more-activity-7383899473485316096-uCFM)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
