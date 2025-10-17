@@ -29,6 +29,9 @@ Science
 * [그의 불길한 예감](https://otterletter.com/his-foreboding/) 칼 세이건
 * [태초의 우주를 보는 눈, 제임스웹 우주망원경](https://original.donga.com/2022/jameswebb/)
 * [Ten Minute Physics - YouTube](https://www.youtube.com/@TenMinutePhysics/videos)
+* [China launches ambitious collaboration to map primate brains—including ours | Science | AAAS](https://www.science.org/content/article/china-launches-ambitious-collaboration-map-primate-brains-including-ours)
+  * [Tae Hyung Kim - 지금까지 성체의 뇌가 완벽하게 지도화된 생명체는 초파리 단 하나뿐이었다. 그러나 이제 그... | Facebook](https://www.facebook.com/socialego/posts/pfbid0XjrCuc7jDheYt7V8PJSXhpiGiMgd1o5RYEArij4hjrT9X5smXLfbyqugTVFcf1Ptl)
+  * ‘Stereo-cell’이라 불리는 혁신적 단일세포 전사체 분석 기술을 개발
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
