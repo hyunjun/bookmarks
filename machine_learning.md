@@ -1220,6 +1220,8 @@ Machine Learning
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
 * [cuml: cuML - RAPIDS Machine Learning Library](https://github.com/rapidsai/cuml)
+* [A-Curated-List-of-ML-System-Design-Case-Studies: This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases.](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
+  * [이상선 - 실무형 머신러닝 사례 아카이브 공개! 이 GitHub 저장소에는 80개 이상의 기업에서 실제로 구축한... | Facebook](https://www.facebook.com/100001916096643/posts/31799142853066171/)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
   * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
