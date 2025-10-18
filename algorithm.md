@@ -885,6 +885,7 @@ Algorithm
 * [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)
 * [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
 * [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
+* [LSM Tree 구조와 이해 - Google Slides](https://docs.google.com/presentation/d/18Eqchw1IhA76hROEoBuuXmes_Rojm35Gr79QHxWEsiM/edit?slide=id.p#slide=id.p)
 * [트리(tree)와 이진트리(binary tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/21/tree/)
 * [Binary tree traversal - breadth-first and depth-first strategies](https://www.youtube.com/watch?v=9RHO6jU--GU)
 * [How to calculate a Binary Tree’s height -Part 1: Using array iteration in Ruby](https://medium.freecodecamp.org/how-to-calculate-a-binary-trees-height-using-array-iteration-in-ruby-63551c6c65fe)
