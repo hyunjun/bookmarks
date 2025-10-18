@@ -1481,6 +1481,8 @@ Artificial Intelligence
   * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409)
 * [PagedOut_007.pdf](https://pagedout.institute/download/PagedOut_007.pdf)
   * [Paged Out! 7호 PDF | GeekNews](https://news.hada.io/topic?id=23453)
+* [Tae Hyung Kim - 워싱턴포스트가 최근 AI의 거대한 변화에 대해 흥미로운 사실 하나를 짚었다. 중국의... | Facebook](https://www.facebook.com/story.php?story_fbid=10238714373338117&id=1237608086)  
+  * 중국의 빅테크 기업들이 오픈웨이트(Open-Weight) AI 모델을 앞세워, 오히려 미국을 제치고 생태계의 주도권을 잡아가고 있다
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
