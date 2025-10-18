@@ -2358,6 +2358,8 @@ Java
   * [스프링 데이터 및 아키텍처 추상화 이해하기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106420)
 * [URL이 이상해요! Java와 Spring 중 범인은 누구? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/url-is-strange/) Java의 URI 클래스와 Spring의 UriComponentsBuilder 클래스 간의 불일치가 장애의 원인
 * [spring 배포 후 발생하는 latency원인과 jvm warmup(feat. 부하테스트) | record study](https://ydj515.github.io/posts/spring-warmup/)
+* [spring](https://okdevtv.com/mib/spring)
+  * [스프링 프레임워크는 자바 개발자에게 여러 가지 이유로 필수적 - YouTube](https://www.youtube.com/watch?v=jDwZ0jaaNfA)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
