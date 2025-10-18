@@ -2936,6 +2936,8 @@ App
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html)
+* [parsec-vdd: ✨ Perfect virtual display for game streaming](https://github.com/nomi-san/parsec-vdd)
+  * [(2) 이상선 - Windows용 가상 디스플레이 드라이버 — Parsec Virtual Display Driver 포트... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02d7RetJPswnZHnnGfSYt4wkqtpvuRevLazB4R1q1ZU7mFasRjVDDDBrxdcHX65nPDl)
 * Plaintext Productivity [Introduction | Plaintext Productivity](https://plaintext-productivity.net/)
 * [PortableApps.com Hits 1 Billion Apps Downloaded - Thanks a Billion! | PortableApps.com](https://portableapps.com/news/2021-12-22--portableapps.com-hits-1-billion-portable-apps-downloaded)
   * [PortableApps 10억 다운로드 돌파 | GeekNews](https://news.hada.io/topic?id=5616)
