@@ -610,6 +610,8 @@ Programming
 * [Kevlin Henney - Software is details (Keynote) - YouTube](https://www.youtube.com/watch?v=9hlBEI-3Gro)
 * [프로젝트가 장난이야?! | 우아한형제들 기술블로그](https://techblog.woowahan.com/2590/) 토이 프로젝트를 하자는 이야기
 * [Here’s Yet Another List of Exciting Projects to Build](https://medium.com/better-programming/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
+* [Project-Ideas-And-Resources: A Collection of application ideas that can be used to improve your coding skills ❤.](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
+  * [이상선 - GitHub 프로젝트 아이디어 & 리소스 라이브러리 — The Cool Coders 1. 실전형 코딩... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0RMBvoHGSew2uPVm7dxYsT1WoXNnBCM53wTsXGzgrn4thYWXVpuREjBcZ7QFuA2Hkl)
 * [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
 * [파일럿 프로젝트와 함께 우아한개발자 되어가기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2592/)
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2591/)
@@ -804,6 +806,7 @@ Programming
 * [Latency Numbers Every Programmer Should Know By Year](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 * [Numbers](https://samwho.dev/numbers/?fo)
   * [모든 프로그래머가 알아야 할 필수 숫자들 | GeekNews](https://news.hada.io/topic?id=13749)
+* [Latency Numbers Every Data Streaming Engineer Should Know](https://streamnative.io/blog/latency-numbers-every-data-streaming-engineer-should-know)
 * [Single binary executable packages -- Volution Notes](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
 * [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 * [MySQL 타임스탬프와 Y2K38 문제 | 요즘IT](https://yozm.wishket.com/magazine/detail/2209/)
@@ -1065,6 +1068,7 @@ Programming
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [사용자 스토리 포인트로 스마트하게 프로젝트 진행하기(feat. LINE Pay 개발 팀) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/user-story-point-in-line-pay-team/)
 * [사용자 스토리 기반의 제품 개발 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/03/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C/)
+* [제가 현재 코칭하는 팀은, 심지어 유저스토리 템플릿을 쓰지도 않습니다 #userstory #agile #requirement #xp #scrum | junpyo Park](https://www.linkedin.com/posts/pyopark_userstory-agile-requirement-activity-7384949734727147520-Le05)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
 * [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
@@ -1407,7 +1411,7 @@ Programming
   * [ChatGPT - Scrum Sage: Zen Edition](https://chatgpt.com/g/g-pajO1fBss-scrum-sage-zen-edition)
 * [애자일 원칙을 위한 새로운 접근, 스크럼의 한계를 고민하다 - ITWorld Korea](https://www.itworld.co.kr/news/353539)
 * [한성희 - PO가 꼭 알아야 할 것 #24 우리 팀은 애자일일까, 스크럼일까? 헷갈리는 개념 "이 회사는 애자일을... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid0oZhTHvusRxZaLvfqMNYfJcJBZpMxHvw5KzQuK6ecCVimGfhbNvJqvMBw1tbd8hbjl)
-* [박준표 - Agile Core Test (ACT): 애자일 변화의 구심점 LG Uplus 에서 애자일 코칭을 하던... | Facebook](https://www.facebook.com/story.php?story_fbid=10162275932098163&id=552883162&mibextid=wwXIfr&rdid=kNar6MaHXriZbKn5#)
+* [박준표 - Agile Core Test (ACT): 애자일 변화의 구심점 LG Uplus 에서 애자일 코칭을 하던... | Facebook](https://www.facebook.com/story.php?story_fbid=10162275932098163&id=552883162)
   * ACT의 세 가지 질문
     * 고객과 함께 일하고 있는가?
     * (주기적으로) 계획이 변경되는가?
@@ -2055,6 +2059,8 @@ Programming
 * [오버엔지니어링과 언더엔지니어링의 경계](https://huns.me/posts/2019-09-26-overengineering-vs-underengineering)
 * [Avoiding the Temptation to Over-Engineer • Jessica Cregg • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=h4pH0JsasVk)
 * [부트캠프의 함정, 오버엔지니어링 – IT의 중심에서](https://subokim.wordpress.com/2025/06/20/overengineering/)
+* [만약 초기 스타트업인데 CTO가 k8s로 가자고 하면, 결별하세요 From the aws community on Reddit | Chris Han](https://www.linkedin.com/posts/chriskr7_from-the-aws-community-on-reddit-activity-7384541084032368640-ZVBa)
+  * k8s vs. ECS, App Runner, Heroku 같은 관리형 서비스
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Microservices: Mono repo vs. multiple repositories](https://jaxenter.com/microservices-mono-repo-vs-multiple-repositories-130148.html)
@@ -3123,6 +3129,7 @@ Programming
   * The BFF pattern in software development involves creating dedicated API gateways (BFFs) for each device or interface type, tailoring the API to the specific needs of the client. BFFs offer resiliency, autonomy, and faster development velocity but can also lead to code duplication and complexity
   * To effectively implement the BFF pattern, clearly define client requirements, minimize code duplication, maintain clear boundaries, and monitor performance
 * [이 아키텍처는 BFF(Backend for Frontend) 패턴의 일종으로, 프론트엔드와 마이크로서비스 사이에 GraphQL 서버를 두는 방식](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1272931014526244&hoisted_section_header_type=recently_seen)
+* [핀테크그룹의 GraphQL 기반 BFF와 프론트엔드 활용기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/fintech-bff-introduction/)
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [느슨한 결합(loosely coupled) 원칙을 활용한 소프트웨어 설계 | 요즘IT](https://yozm.wishket.com/magazine/detail/1926/)
@@ -4701,7 +4708,7 @@ Programming
   * [AI, 플랫폼 엔지니어링 및 스태프 플러스 탐색하기: InfoQ 개발자 서밋 미리보기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/512366)
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [11번가 TechTalk - YouTube](https://www.youtube.com/@11TechTalk)
-* [제주 AI 컨퍼런스](https://jejuai.kr/) 
+* [제주 AI 컨퍼런스](https://jejuai.kr/)
   * [보라돌이UI탈출기.pdf - Google Drive](https://drive.google.com/file/d/1vK5MOkwYMhVPa5pWFuffdrJ4romAzxAw/view)
   * [Gemini CLI로 배우는 바이브코딩: 나만의 웹페이지 만들기(GDG) 제주AI 컨퍼런스 - Google Slides](https://docs.google.com/presentation/d/1WkmvBXMly3wS7cDnmyWqqKEtIiUPAR0o6P0ufj3kv5c/mobilepresent?slide=id.g374ad2c8d90_0_0)
     * [Interview_Question_for_Beginner: :boy: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:](https://github.com/jbee37142/Interview_Question_for_Beginner)
@@ -8641,7 +8648,7 @@ Programming
   * [<Managing the Development of Large Software Systems> 윈스턴 W. 로이스가 1970년에 발표한 논문으로 폭포수 모델이 제시된 논문으로 알려졌다. 첫번째 페이지의 그림 2가 소위 말하는 폭포수 모델이다. 그리고 그 다음 페이지의 그림 3이 흔히 폭포수 모델의 단점을 해소한다고 거론되는 보완 모델이다. 많은… | 박성철](https://www.linkedin.com/posts/fupfin_managing-the-development-of-large-software-activity-7373162759594639360-XtsN)
     * 피드백 경로와 프로토타이핑이 처음부터 포함되어 있었다는 설명
 * [Vibe Coding Is The WORST IDEA Of 2025 - YouTube](https://www.youtube.com/watch?v=1A6uPztchXk)
-  * [(1) 이일민 - https://www.youtube.com/watch?v=1A6uPztchXk 모든 개발자의 필독서인... | Facebook](https://www.facebook.com/1070166746/posts/10233463679068461/?mibextid=wwXIfr&rdid=SqVx79QKwps9QVv8#)
+  * [(1) 이일민 - https://www.youtube.com/watch?v=1A6uPztchXk 모든 개발자의 필독서인... | Facebook](https://www.facebook.com/1070166746/posts/10233463679068461/)
     * 좋은 소프트웨어는 여전히 명확한 사고, 좋은 설계, 철저한 테스팅을 요구
     * 바이브 코딩이 아니라, 정밀한 의도 명세와 자동화된 검증으로 무장한 AI 보조 엔지니어링—이것이 진짜 미래
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
