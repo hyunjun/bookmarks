@@ -340,12 +340,11 @@ Artificial Intelligence
 * [Is human data enough? With David Silver - YouTube](https://www.youtube.com/watch?v=zzXyPGEtseI)
   * [Is human data enough? :: akwiki](https://wiki.g15e.com/pages/Is%20human%20data%20enough)
   * [경험의 시대에 오신 걸 환영합니다 :: akwiki](https://wiki.g15e.com/pages/Welcome%20to%20the%20Era%20of%20Experience)
+* [저희는 AI로 슬랙에서 일어나는 소통을 모두 지우기로 했습니다. 렛서는 연말까지 관료제 조직에서, 중간관리자 없이 AI 중심으로 의사결정을 수행하는 ‘AI중심체제’로 전환하고 있습니다. 🫡 물론 제가 중심에 있는 Executive 팀도 하나의 기능 단위가 되며, 회사에 위계가 사라집니다. 이 중심에는 AI 시스템의 프레임워크 변화가… | Gyuhyeon Sim (심규현) | 댓글 21](https://www.linkedin.com/posts/ghsim_%EC%A0%80%ED%9D%AC%EB%8A%94-ai%EB%A1%9C-%EC%8A%AC%EB%9E%99%EC%97%90%EC%84%9C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%86%8C%ED%86%B5%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%A7%80%EC%9A%B0%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A0%9B%EC%84%9C%EB%8A%94-activity-7384715484530868224-nOOG)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
   * AI Agent, AI agentic, AI assistant 차이
-* [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
-  * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [**Agent:LLM의 새로운 응용프로그램-1부. 안녕하세요, 서비스 개발실 실장으로 크라우드웍스에서 일을 하게 된… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium**](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1%EB%B6%80-b4bf7c3eb176)
 * [Agent:LLM의 새로운 응용프로그램 -2부. 안녕하세요, 서비스 개발실에서 AI engineer로 일하고 있는… | by crowdworks | 크라우드웍스 Tech Blog | Sep, 2024 | Medium](https://medium.com/crowdworks-tech/agent-llm%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2%EB%B6%80-b722ad1cf151)
 * [제목은 안정적인 AI 서빙 시스템으로 하겠습니다. 근데 이제 자동화를 곁들인… | 우아한형제들 기술블로그](https://techblog.woowahan.com/19548/)
@@ -442,10 +441,14 @@ Artificial Intelligence
   * [Agentic AI has changed my career. I don’t write code… or at least, I… | by Elliot Graebert | Sep, 20 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5815775/5594744)
 * ['바이브 코딩'은 옛말...'에이전트 군집 코딩' 시대 열려 < 산업일반 < AI산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=202433)
   * [#agenticdevelopment #startuplife #ai #productdevelopment | Mark Ruddock | 댓글 68](https://www.linkedin.com/feed/update/urn:li:activity:7368647652940382209/)
-* [(3) 신동형 - 신동형 인사이트 The Bible of 「AI 에이전트, 에이전틱AI 」보고서 안녕하십니까?... | Facebook](https://www.facebook.com/100063518148321/posts/1372657551528170/?mibextid=wwXIfr&rdid=M6nngTxtkxbDdmhf#)
+* [(3) 신동형 - 신동형 인사이트 The Bible of 「AI 에이전트, 에이전틱AI 」보고서 안녕하십니까?... | Facebook](https://www.facebook.com/100063518148321/posts/1372657551528170/)
 * [Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교) 최근 AI 업계의 두 거인, 구글과 OpenAI가 코딩 없이 AI를 만들 수 있는 '노코드 AI 빌더'를 각각 출시하며 큰 화제를 모으고 있습니다. 구글의 'Opal'과 OpenAI의 '에이전트 빌더'가 바로 그 주인공인데요. 기존 자동화 툴의 강자… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_google-opal-openai-agent-builder-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-activity-7381961556214910976-kZHf)
 * [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
   * [에이전트 루프 설계하기 | GeekNews](https://news.hada.io/topic?id=23470)
+* [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
+  * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
+* [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
+  * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -576,6 +579,7 @@ Artificial Intelligence
 * [AI 시대의 엔지니어 성장에 대한 재고 | 메리 윌리엄스 | LDX3 런던 2025 - YouTube](https://www.youtube.com/watch?v=palpFFMKuSU)
   * [Rethinking growing engineers in the age of AI | Meri Williams | LDX3 London 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5462736/5060187)
   * [AI 시대, 이제 엔지니어는 어떻게 성장해야 하는가? – 이바닥늬우스](https://ebadak.news/2025/08/17/ai-engineer-meri-williams/)
+* [ai-tech-interview: 👩‍💻👨‍💻 AI 엔지니어 기술 면접 스터디 (⭐️ 2k+)](https://github.com/boost-devs/ai-tech-interview)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 
 # Library
@@ -616,6 +620,9 @@ Artificial Intelligence
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
+* [AI Compiler Study](https://carpedm30.notion.site/AI-Compiler-Study-aaf4cff2c8734e50ad95ac6230dbd80b) OpenAI의 멤버 김태훈 님의 notion
+* [AI Design: A Beginner's Guide - gulli](https://docs.google.com/document/d/1GWShQ74DwZRUVs4e0yoS3rYmBxUVR-x4N_Xt5xl5dtE/mobilebasic)
+  * [이상선 - 글 엔지니어가 공개한 250페이지 무료 AI 디자인 북 - 핵심내용 - 1. AI 설계 전반을 총망라한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02Ei3TQVHAXQcZYVoUgYvkLoEnySgQrEyg1DMQA9Aeby6QdbzqB6woj9hVUxoJZJnFl)
 * [AI Gateway · Cloudflare AI Gateway docs](https://developers.cloudflare.com/ai-gateway/)
   * [Announcing AI Gateway: making AI applications more observable, reliable, and scalable](https://blog.cloudflare.com/announcing-ai-gateway/)
     * Cloudflare에서 AI 플랫폼의 API 중간에 둘 수 있는 AI Gateway 공개
@@ -699,7 +706,9 @@ Artificial Intelligence
       * 이 글은 AI를 활용한 개발 방식을 좀 더 정확히 여러 종류로 분류하기 위해서 두 개의 축을 가정한다. 하나는 엄밀성이다. 또 하나는 AI 자동화 수준이다. 그리고 이 두 축으로 이루어진 2차원 공간 위에 AI를 활용한 개발 방식을 다섯가지로 유형으로 분류해서 배치한 후에 각 방식을 설명한다
       * 바이브 코딩이란 멋진 이름 뒤에 숨은 위험을 인지하고 올바른 방향을 가늠하는데 도움이 될만한 시각적 도구라고 생각된다
   * [**Agentic Coding Questions and Current Workflow - YouTube**](https://www.youtube.com/watch?v=X8M6U3QiC8Q)
-    * [(3) 이상선 - 바이브코딩 강의 영상, 당분간 이걸로 끝입니다. 플라스크의 창시자 아르민 로나허(Armin... | Facebook](https://www.facebook.com/100001916096643/posts/31664568689856922/?mibextid=wwXIfr&rdid=4ZrvQQ3lbqzdSTmL#)
+    * [(3) 이상선 - 바이브코딩 강의 영상, 당분간 이걸로 끝입니다. 플라스크의 창시자 아르민 로나허(Armin... | Facebook](https://www.facebook.com/100001916096643/posts/31664568689856922/)
+  * [Agentic Coding Recommendations | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
+    * [이상선 - Armin Ronacher가 2025년 6월 12일에 발표한 블로그 글 "Agentic Coding... | Facebook](https://www.facebook.com/100001916096643/posts/31843829241930865/)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -806,6 +815,8 @@ Artificial Intelligence
     * [gemini_cli로 이미지파일 CRC체크 바.. : 네이버블로그](https://blog.naver.com/ulsancoding/223913773187)
     * [Gemini CLI, 개조해 보았습니다. - YouTube](https://www.youtube.com/watch?v=_CUZaKgvPJI)
     * [데이터 분석 과금없이 에이전트 모드 넉넉하게 사용하고 싶다면? GEMINI CLI로 VSCode에서 주피터로 데이터 분석하기 - YouTube](https://www.youtube.com/watch?v=YSscvDczPn4)
+    * [🚀 Gemini CLI Extensions: 새로운 확장 기능과 커스텀 명령어](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Gemini-CLI-Extensions-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
+    * [🤖 Gemini CLI(2): MCP 프롬프트 - 슬래시 명령어 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Gemini-CLI-MCP-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
       * [구글, 개발자 지원 전방위적 확대...AI 코딩 협업 도구 ‘제미나이 CLI 깃허브 액션’ 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35978)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
@@ -1110,6 +1121,8 @@ Artificial Intelligence
     * 대부분 카테고리에서 2배 미만의 격차를 보여서 최근 성장세를 생각하면 충분히 극복할 수 있는 차이
     * 다른 산업과 다르게 AI 기업들은 유료 마케팅 없이 성장, 소비자는 생성형 AI에 기꺼이 비용을 지불해서 50개 제품 중 90%가 이미 수익
     * 리소스를 앱에 분산하고 싶지 않아서 대부분 웹을 기반으로 제공, 모바일 앱으로 제공하는 서비스들이 나오고 있고 참여도도 훨씬 높기 때문에 앞으로는 모바일 우선 생성형 AI 제품이 더 등장할 것
+* [2510.08338 LLMs Reproduce Human Purchase Intent via Semantic Similarity Elicitation of Likert Ratings](https://arxiv.org/abs/2510.08338)
+  * [전종홍 - 논문에서 제안한 Semantic Similarity Rating (SSR) 방식을 활용하면 LLM이 인간 소비자 패널의 행동 패턴을 90% 수준으로 상당히 정확하게 재현할 수 있다 | Facebook](https://www.facebook.com/story.php?story_fbid=10164607906956410&id=683301409)
 * [감성 AI 시장, 얼마나 커질까? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/emotion-ai-market/)
 * [Generative AI’s Act Two | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * ["우린 벌써 뛰고 있어" 생성형 AI를 워크플로우와 결합한 기업 3곳의 경험 - ITWorld Korea](https://www.itworld.co.kr/news/308413)
@@ -1463,9 +1476,9 @@ Artificial Intelligence
 * [State of the Markets Report H2 2025](https://www.svb.com/trends-insights/reports/state-of-the-markets-report/)
   * [실리콘밸리은행이 말하는 2025년 흐름, AI는 거품일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3376/)
 * [오픈AI 상위 30 고객리스트가 보여주는 인사이트](https://brunch.co.kr/@ywkim36/190)
-  * [(1) 김영욱 - <오픈AI 상위 30 고객리스트가 의미하는 것> 지난 10월 6일 OpenAI DevDay 2025행사에서... | Facebook](https://www.facebook.com/story.php?story_fbid=10235753085941101&id=1037158560&mibextid=wwXIfr&rdid=NJlgfy7dAHh1H0SL#)
+  * [(1) 김영욱 - <오픈AI 상위 30 고객리스트가 의미하는 것> 지난 10월 6일 OpenAI DevDay 2025행사에서... | Facebook](https://www.facebook.com/story.php?story_fbid=10235753085941101&id=1037158560)
 * [Apply AI Strategy | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/apply-ai)
-  * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409&mibextid=wwXIfr&rdid=a9ZdWWg0oq6uSXzW#)
+  * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409)
 * [PagedOut_007.pdf](https://pagedout.institute/download/PagedOut_007.pdf)
   * [Paged Out! 7호 PDF | GeekNews](https://news.hada.io/topic?id=23453)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
@@ -1830,6 +1843,7 @@ Artificial Intelligence
     * [🤖Claude Agents SDK: AI 애플리케이션의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96Claude-Agents-SDK-AI-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Everyone should be using Claude Code more](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
     * [How to use Claude Code for work and life | Lenny Rachitsky님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/lennyrachitsky_everyone-should-be-using-claude-code-more-activity-7383899473485316096-uCFM)
+  * [Claude Haiku 4.5 출시: Sonnet 4 성능을 1/3 비용으로! 코드 생성 73.3% 달성한 경량 모델 심층 분석](https://fornewchallenge.tistory.com/entry/Claude-Haiku-45-%EC%B6%9C%EC%8B%9C-Sonnet-4-%EC%84%B1%EB%8A%A5%EC%9D%84-13-%EB%B9%84%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-733-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -1844,6 +1858,7 @@ Artificial Intelligence
       * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
       * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
       * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
+  * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -1862,7 +1877,7 @@ Artificial Intelligence
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
   * claude.md
     * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
-      * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022&mibextid=wwXIfr&rdid=oTqSd1U9xMoIgLgf#)
+      * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022)
     * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
@@ -1905,6 +1920,8 @@ Artificial Intelligence
     * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
     * [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다 - YouTube](https://www.youtube.com/watch?v=w7aKhWjtBXQ)
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
+  * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
+    * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
@@ -2180,6 +2197,9 @@ Artificial Intelligence
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
   * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
+* [Tabby - Opensource, self-hosted AI coding assistant](https://www.tabbyml.com/)
+  * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트](https://devocean.sk.com/blog/techBoardDetail.do?ID=167941)
+  * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트 | SeongReol Park](https://www.linkedin.com/posts/seongreol-park-6bb2ba22b_tabbyml-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-activity-7383844756092538880-ds5M)
 * [Tidewave](https://github.com/tidewave-ai)
   * [Welcome - Tidewave](https://tidewave.ai/)
   * [천재 개발자가 만든 코딩 AI, TIDEWAVE, 그냥 알아서 다 만들어줌 - YouTube](https://www.youtube.com/watch?v=rVXwurv8XNY)
