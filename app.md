@@ -2176,7 +2176,6 @@ App
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [**Pencil Project**](http://pencil.evolus.vn/)
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
-* [Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 * [Penrose: from mathematical notation to beautiful diagrams](https://penrose.ink/siggraph20.html)
 * [PlantText UML Editor](http://www.planttext.com/)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
@@ -2849,6 +2848,7 @@ App
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
   * [피그마(figma) 대신 펜팟(penpot) 써볼까 - YouTube](https://www.youtube.com/watch?v=rFsD5KYHJxc)
+  * [Penpot: Free Open Source Design Tool - YouTube](https://www.youtube.com/watch?v=vbBp5mIGRfE)
 * [Polymet - Idea to prototype within seconds](https://www.polymet.ai/)
   * [UI와 프로토타입, 코드까지 생성해 주는 ‘Polymet’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2835/)
 
