@@ -56,7 +56,7 @@
 * [집무실 - 집 근처 사무실](https://www.jibmusil.com/)
 * [오피스제주(O-PEACE)](https://o-peace.com/)
 * [리플로우 re:flow(@reflow.city) • Instagram 사진 및 동영상](https://www.instagram.com/reflow.city/)
-  * [지속가능한 커뮤니티의 조건, 지역 니즈 채워주는 ‘공간’에 있어 | 스페셜리포트 | DBR](https://dbr.donga.com/article/view/1101/article_no/10863/ac/search?mibextid=Zxz2cZ)
+  * [지속가능한 커뮤니티의 조건, 지역 니즈 채워주는 ‘공간’에 있어 | 스페셜리포트 | DBR](https://dbr.donga.com/article/view/1101/article_no/10863/ac/search)
 * [spacemono.co.kr](https://www.spacemono.co.kr/)
 * [TRUSTAY](https://trustay.kr/)
 * 함덕 [공유오피스 페이지를 소개합니다](https://blog.naver.com/shareoffice_page/223017617349)

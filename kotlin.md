@@ -182,7 +182,7 @@
 * [상태를 가변적으로 관리했을 때 발생하는 문제 — 시행착오를 줄이는 방법](https://weekly.ac/65)
 * [K2 컴파일러로 가는 길 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/02/the-road-to-the-k2-compiler/)
 * [K2 컴파일러로 가는 길 - YouTube](https://www.youtube.com/watch?v=iTdJJq_LyoY)
-* [Kotlin의 증분 컴파일에 대한 새로운 접근 방식 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/08/a-new-approach-to-incremental-compilation-in-kotlin/?mibextid=3f2an5)
+* [Kotlin의 증분 컴파일에 대한 새로운 접근 방식 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/08/a-new-approach-to-incremental-compilation-in-kotlin/)
 * [Differentiable Programming in Kotlin - YouTube](https://www.youtube.com/watch?v=VO7pYFa-TeE)
 * [Optics/Lens 내 멋대로 Optics 이해하기 Feat) arrow-kt](https://see-ro-e.tistory.com/333)
 * [Get started with Kotlin/JS for React | Kotlin](https://kotlinlang.org/docs/js-get-started.html)
