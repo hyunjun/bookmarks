@@ -341,6 +341,9 @@ Artificial Intelligence
   * [Is human data enough? :: akwiki](https://wiki.g15e.com/pages/Is%20human%20data%20enough)
   * [경험의 시대에 오신 걸 환영합니다 :: akwiki](https://wiki.g15e.com/pages/Welcome%20to%20the%20Era%20of%20Experience)
 * [저희는 AI로 슬랙에서 일어나는 소통을 모두 지우기로 했습니다. 렛서는 연말까지 관료제 조직에서, 중간관리자 없이 AI 중심으로 의사결정을 수행하는 ‘AI중심체제’로 전환하고 있습니다. 🫡 물론 제가 중심에 있는 Executive 팀도 하나의 기능 단위가 되며, 회사에 위계가 사라집니다. 이 중심에는 AI 시스템의 프레임워크 변화가… | Gyuhyeon Sim (심규현) | 댓글 21](https://www.linkedin.com/posts/ghsim_%EC%A0%80%ED%9D%AC%EB%8A%94-ai%EB%A1%9C-%EC%8A%AC%EB%9E%99%EC%97%90%EC%84%9C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%86%8C%ED%86%B5%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%A7%80%EC%9A%B0%EA%B8%B0%EB%A1%9C-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A0%9B%EC%84%9C%EB%8A%94-activity-7384715484530868224-nOOG)
+* [<애당초, AI> 코드가 공짜가 될 때, 진짜 돈은 어디서 나오는가](https://www.linkedin.com/pulse/%EC%95%A0%EB%8B%B9%EC%B4%88-ai-%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B3%B5%EC%A7%9C%EA%B0%80-%EB%90%A0-%EB%95%8C-%EC%A7%84%EC%A7%9C-%EB%8F%88%EC%9D%80-%EC%96%B4%EB%94%94%EC%84%9C-%EB%82%98%EC%98%A4%EB%8A%94%EA%B0%80-ethan-cho-sejac)
+  * [조여준 - <애당초, AI> 코드가 공짜가 될 때, 진짜 돈은 어디서 나오는가 요즘 정말 하루하루 새로운 LLM과 툴... | Facebook](https://www.facebook.com/ethan.cho.12/posts/pfbid0AYUKYeLxF4SFrjme1fc3xS7uWecGuTUtBH7pAiv9TrKrFehaLjHbBWTSdR24fjVLl)
+* [AI는 8할이 프롬프트라..](https://chance-doe.tistory.com/34)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -615,6 +618,10 @@ Artificial Intelligence
   * [Google ADKAgent Development Kit - YouTube](https://www.youtube.com/watch?v=RmHXSALwFMY)
   * [구글 ADK에서 MCP를 사용하는 방법! (feat. Blender, Obsidian) - YouTube](https://www.youtube.com/watch?v=pZrYYcgu-Lg)
   * [AI 에이전트 개발 오리엔테이션 강의 | 대시보드 - 인프런](https://www.inflearn.com/course/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98/dashboard)
+  * [Remember this: Agent state and memory with ADK | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/remember-this-agent-state-and-memory-with-adk?hl=en)
+    * [AI Agent의 '기억력'🧠, 어떻게 관리하고 계신가요? #aiagent #vertexai #agentengine #llm #memorybank #adk #googlecloud #genai | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-vertexai-agentengine-activity-7383322479118774272-ZcP8)
+    * [adk-python-community/src/google/adk_community/sessions/redis_session_service.py at main · google/adk-python-community](https://github.com/google/adk-python-community/blob/main/src/google/adk_community/sessions/redis_session_service.py)
+    * [devrel-demos/ai-ml/python-tutor at main · ksmin23/devrel-demos](https://github.com/ksmin23/devrel-demos/tree/main/ai-ml/python-tutor)
   * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
@@ -804,6 +811,8 @@ Artificial Intelligence
     * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
   * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind - YouTube](https://www.youtube.com/watch?v=8EQo4J2BWKw)
     * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5424932/5003073)
+  * [Gemini Browser](https://gemini.browserbase.com/)
+    * [나 대신 앱을 사용해주는 AI (구글 제미니 브라우져를 사용해 본 소감) | 김덕중](https://www.linkedin.com/posts/duckjungkim_gemini-browser-activity-7383023297233502208-S-Z5)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
     * [Next.js AI Chatbot - Next.js Gemini Chatbot](https://pdf-questions-userplane-jaehyus-projects.vercel.app/)
   * [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
@@ -1486,10 +1495,18 @@ Artificial Intelligence
   * [Paged Out! 7호 PDF | GeekNews](https://news.hada.io/topic?id=23453)
 * [Tae Hyung Kim - 워싱턴포스트가 최근 AI의 거대한 변화에 대해 흥미로운 사실 하나를 짚었다. 중국의... | Facebook](https://www.facebook.com/story.php?story_fbid=10238714373338117&id=1237608086)
   * 중국의 빅테크 기업들이 오픈웨이트(Open-Weight) AI 모델을 앞세워, 오히려 미국을 제치고 생태계의 주도권을 잡아가고 있다
+* [Tae Hyung Kim - 월스트리트저널에 흥미로운 글이 있어 공유합니다. 주제는 이렇습니다. AI는 이미 숙련된 전문가일수록 더 강력한 무기... | Facebook](https://www.facebook.com/socialego/posts/pfbid02c8XYSiBJGSj7Vvy6XzwT4JW4Yr1yhR5rDqNScFqMwqLiLeQnHAdVacL8HwpJJ3Pxl)
+  * 바로 아래 link와 반대 주장
+* [Generative AI at Work* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article/140/2/889/7990658)
+  * [AI는 '일잘러'가 아니라 '일못러'를 키운다](https://stibee.com/api/v1.0/emails/share/D1aTNbWEvcVHeACh7IkfEoB4rwomTRA)
+    * AI 도입의 핵심은 '에이스를 더 강하게'가 아니라 '직원들의 스킬 혹은 역량을 끌어올려 평균을 높이는 것'
+  * 바로 위 link와 서로 상반된 주장
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
+* [Cartography of generative AI](https://cartography-of-generative-ai.net/)
+  * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
 * [dropofahat.zone](https://dropofahat.zone/)
 * [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
 * [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
@@ -1522,6 +1539,14 @@ Artificial Intelligence
 * [2509.25140 ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
   * [대박... 구글이 실시간으로 자신의 실수로부터 학습하는 AI를 공개했습니다. ReasoningBank에서는 대화 기록을 저장하는 대신, 실패 원인과 비효율적인 사고 패턴까지 함께 기록하는 방식을 제안했습니다. 예를 들어, 에이전트가 작업 중 3단계에서 실패했다면 단순히 "3단계에서 실패"로 끝나지 않고, 어떤 사고 과정이 틀렸는지, 왜 오류가 발생했는지를 기록합니다. 이후 비슷한 문제를 다시 만나면 이 데이터를 불러와 더 나은 접근법을 선택합니다. 이 시스템은 MaTTS(memory-aware test-time scaling)와 결합되어, 모델이 과거 시도 결과를 참고해 전략을 조정합니다. 추가 학습 없이도 작업 성공률이 34%, 수행 효율이 16% 향상됐습니다. 이 접근은 “모델을 키우는 것”이 아니라 “모델이 경험을 쌓는 것”에 가깝습니다. 모델이 스스로 학습 노트를 남기며 성장하는 구조로, 인간이 같은 실수를 반복하지 않기 위해 메모를 남기는 방식과 비슷합니다.](https://www.threads.com/@choi.openai/post/DPr6TDmE77b)
   * [하신승 - 1 천개의 뇌라는 책에서는 진정한 지능은 특정 영역에서 뛰어난 것이 아니라 배우고 적응하는 능력이라고... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0LRGvskp4pqqewu14aSbDGdwdMeXgfgAui6f13riXXUKExevqcRiJE5y59hsFdcTAl&id=100009326385897)
+* [2510.04033 A global log for medical AI](https://arxiv.org/abs/2510.04033)
+  * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409&mibextid=wwXIfr&rdid=Vn50sewVHbNzyHVg#)
+    * 활동기록(Log)를 남기는 것은 시스템 관리를 위해서도 중요한 일
+    * EU AI Act에서도 기본 요구로 하고 있어, 이를 위한 "AI system logging" 표준도 ISO/IEC 24970으로 개발
+* [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
+  * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
+    * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
+    * 이 방식은 데이터가 거의 없어도 놀라울 만큼 효율적이다. AI는 완전하지 않은 정보 속에서도 스스로 규칙을 추론하고, 보이지 않는 부분을 상상하며 세상을 완성해간다. 이 과정은 마치 인간이 제한된 경험 속에서 세상의 원리를 발견해내는 사고 과정과 닮아
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
@@ -1757,6 +1782,8 @@ Artificial Intelligence
       * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
     * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
+  * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
+    * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -1765,6 +1792,8 @@ Artificial Intelligence
         * [I was using sub-agents wrong... Here is my way after 20+ hrs test | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5594613/5256713)
     * [agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
     * [agents: sharing current agents in use](https://github.com/contains-studio/agents)
+    * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
+      * [Claude Agent SDK로 개발한 agent로 복잡한 동작을 수행했을 때의 결과 #claude #langgraph #aws #planning #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-langgraph-aws-ugcPost-7383118953402961920-xkl0)
     * [my-agents](https://github.com/ddhelop/my-agents)
       * [Context Engineering으로 저만의 프로덕트팀을 꾸렸습니다](https://www.linkedin.com/posts/ddhelop_%EC%B5%9C%EA%B7%BC%EC%97%90-context-engineering%EC%9C%BC%EB%A1%9C-%EC%A0%80%EB%A7%8C%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%ED%8C%80%EC%9D%84-%EA%BE%B8%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7357358834371211264-_XL_/)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
@@ -1826,6 +1855,7 @@ Artificial Intelligence
   * [꼭 알아야하는 클로드 코드 필수 꿀팁 60가지 - YouTube](https://www.youtube.com/watch?v=a1a9wV88MSM)
   * [Turning Claude Code Into My Best Design Partner – Between the Prompts](https://betweentheprompts.com/design-partner/)
     * [Claude Code, 단순 AI 코더가 아닌 최고의 설계 파트너로 만드는 법](https://digitalbourgeois.tistory.com/1842)
+  * [Claude Code System Prompt](https://gist.github.com/agokrani/919b536246dd272a55157c21d46eda14)
   * [Claude Code를 통한 에이전트 코딩의 미래 - YouTube](https://www.youtube.com/watch?v=iF9iV4xponk)
     * [The future of agentic coding with Claude Code | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5647463/5335834)
   * [AICX: Claude Code와 Antrophic Batch API를 활용하여 고객 채팅 상담 분석하기 | by 허원진 | How we build Myrealtrip | Aug, 2025 | Medium](https://medium.com/myrealtrip-product/aicx-claude-code%EC%99%80-antrophic-batch-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B3%A0%EA%B0%9D-%EC%B1%84%ED%8C%85-%EC%83%81%EB%8B%B4-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-b077ddf21917)
@@ -2039,6 +2069,8 @@ Artificial Intelligence
       3. 유지 관리 어려움 증가: 불필요한 코드 복제가 늘어남
     * 다른 연구들도 Copilot의 장단점을 조사했으며, 향후 지속적인 평가가 필요할 것으로 보임
     * GitClear는 153백만 줄의 코드 변경 내역을 분석했음
+  * [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
+    * [CamoLeak: GitHub Copilot의 치명적 취약점이 프라이빗 소스코드를 유출함 | GeekNews](https://news.hada.io/topic?id=23631)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
