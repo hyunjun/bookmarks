@@ -3517,6 +3517,7 @@ Programming
   * CQRS, CDC
 * [Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership & MVP Development for Startups](https://nexo.sh/posts/microservices-for-startups/)
   * [마이크로서비스는 스타트업이 감당할 수 없는 세금임 | GeekNews](https://news.hada.io/topic?id=20814)
+* [마이크로서비스(MSA)의 복잡한 세계와 모니터링의 필요성﻿ – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2025-09-24-msa-monitoring/)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
@@ -5650,6 +5651,8 @@ Programming
 * [URLhaus | Malware URL exchange](https://urlhaus.abuse.ch/)
   * [URLhaus - 멀웨어 배포에 사용되는 악성 URL 데이터베이스 | GeekNews](https://news.hada.io/topic?id=14860)
 * [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
+* [WebAuthn : 네이버 카페](https://cafe.naver.com/xxxjjhhh/454)
+  * [WebAuthn : 비밀번호 없는 로그인 시스템 - YouTube](https://www.youtube.com/watch?v=ZgRmEHHj1CM)
 * [ZAP](https://www.zaproxy.org/) vulnerability scanner
 * [ZITADEL - Identity infrastructure, simplified for you.](https://github.com/zitadel/zitadel)
   * [ZITADEL - 아이덴티티 인프라 오픈소스 | GeekNews](https://news.hada.io/topic?id=23278)
@@ -7915,6 +7918,7 @@ Programming
   * [(번역) 좋은 리팩터링 vs 나쁜 리팩터링 | Ykss](https://ykss.netlify.app/translation/good_refactoring_vs_bad_refactoring/)
 * [(09/19) 좋은 리팩토링 vs 나쁜 리팩토링 - YouTube](https://www.youtube.com/watch?v=kCfRKWXFiYU)
 * [코드 블록을 이리저리 옮기는 것, 그건 중요한 일입니다](https://subtleflo.com/ko/2025/4/18/moving-code-important)
+* [심층 모델을 향한 리팩터링. 이 글은 Eric Evans의『Domain-Driven Design』… | by Jinwoo Cheon | Oct, 2025 | Medium](https://medium.com/@woojin8787/%EC%8B%AC%EC%B8%B5-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%96%A5%ED%95%9C-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-b2e21c09aaf1)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
