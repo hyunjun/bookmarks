@@ -342,6 +342,8 @@ Redis
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
   * [redis-py](http://redis-py.readthedocs.io/)
+    * [redis-py-csc-demo: A simple demo application that showcases client-side caching with redis-py](https://github.com/redis-developer/redis-py-csc-demo)
+      * [Cache me if you can: Boosted application performance with Redis and client-side caching - YouTube](https://www.youtube.com/watch?v=lzxh1ZKVFqU)
   * [practice - `hgetall` vs. `hscan_iter`, `hmset` vs. `hset` encoding 문제 발생](https://gist.github.com/hyunjun/1a607507f420efb5bcbc3dd3ef37b7ee)
   * [practice - `hset hget hmset hgetall` + json dumps/loads](https://github.com/hyunjun/practice/tree/master/python/test-redis)
   * [fakeredis: A fake version of a redis-py](https://pypi.org/project/fakeredis/)
