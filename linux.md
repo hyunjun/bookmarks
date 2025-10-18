@@ -617,6 +617,8 @@ Linux
   * [Scheduling without CRON | Pega Devlog](https://jehyunlee.github.io/2022/06/22/Python-General-10-schedule_no_cron/)
   * [Cronicle: A simple, distributed task scheduler and runner with a web based UI.](https://github.com/jhuckaby/Cronicle)
     * [Cronicle - 단순/분산 작업 스케줄러(웹 기반 Cron) | GeekNews](https://news.hada.io/topic?id=22885)
+  * Temporal [Durable Execution Solutions | Temporal](https://temporal.io/)
+    * [실행이 보장되는 Cron](https://velog.io/@480/%EC%8B%A4%ED%96%89%EC%9D%B4-%EB%B3%B4%EC%9E%A5%EB%90%98%EB%8A%94-Cron)
 * `curl`
   * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
