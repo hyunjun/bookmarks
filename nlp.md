@@ -446,6 +446,8 @@ NLP
 * [토큰화, 벡터화, 임베딩 무슨 차이일까? - NLP와 LLM 텍스트 데이터 기초 용어 이해하기 - YouTube](https://www.youtube.com/watch?v=9rbm29bCjaQ)
 * [Lightweight Guide to understanding GRPO and RL principles - Musings of Murali](https://gitlostmurali.com/blog/grpo-intro/)
   * [my write-up on understanding GRPO](https://www.linkedin.com/posts/activity-7374322924738084864-Zdcb/)
+* [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
+  * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 
 # 띄어쓰기
 
@@ -1332,6 +1334,10 @@ NLP
   * [Prefix-tuning과 Prompt-tuning, 그리고 임베딩 모델과 리랭커 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_prefix-tuning%EA%B3%BC-prompt-tuning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EA%B3%BC-activity-7363943263898107905-Q-eI)
 * [실무용 클로드 코드 프롬프트 엔지니어링 템플릿 3종 | 요즘IT](https://yozm.wishket.com/magazine/detail/3353/)
 * [만일 ChatGPT 유료 버전을 사용하시는 분이라면 Agent 모드를 이용해서 전문적인 글로벌 뉴스레터를 만들어 보세요.  (아래는 Prompt이고 \[ \] 안의 내용을 바꿔서 사용해 보세요.) ———————————————————————— You are a **\[인공지능과 인사관리\] Daily News Watcher Agent**. GOAL •… | 김덕중 | 댓글 10](https://www.linkedin.com/posts/duckjungkim_%EB%A7%8C%EC%9D%BC-chatgpt-%EC%9C%A0%EB%A3%8C-%EB%B2%84%EC%A0%84%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EC%9D%B4%EB%9D%BC%EB%A9%B4-agent-%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-activity-7380591913034317824-oMGL)
+* [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
+  * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
+* [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
+  * [이상선 - 펜실베이니아 주립대 연구진: “무례하게 말할수록 ChatGPT가 더 똑똑해진다” 1. 연구 개요... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0UmxFF5SfeNogKZQmKvVDDyp8HhN6JKJJHNUMZ4esZoHnhiWBZmnSYcekipiAU7FCl)
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -2839,6 +2845,9 @@ NLP
 * [Korean-SAT-LLM-Leaderboard: Korean SAT leader board](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/tree/main)
   * [수능 국어 LLM 벤치마크 리더보드 오픈 | GeekNews](https://news.hada.io/topic?id=17292)
   * [Korean-SAT-LLM-Leaderboard/Korean_README.md at main · Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)
+* [KORMo-Team (KORMo)](https://huggingface.co/KORMo-Team)
+  * [2510.09426 KORMo:Korean OpenReasoning Model for Everyone](https://arxiv.org/pdf/2510.09426)
+  * [임경태 - 안녕하세요. 비영어권 최초의 Fully Open Source LLM, #KORMo 를 공유드리고 싶습니다.... | Facebook](https://www.facebook.com/100002653915950/posts/24506164355722021/)
 * [KULLM: 구름(KULLM): 고려대학교에서 개발한, 한국어에 특화된 LLM](https://github.com/nlpai-lab/KULLM)
 * [Lakera Guard - Protect your LLM applications against security threats, instantly](https://www.lakera.ai/lakera-guard)
   * [How we use Lakera Guard to secure our LLMs - Dropbox](https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms)
@@ -3879,6 +3888,7 @@ NLP
 * [Probing LLMs' Knowledge Boundary: Adaptive RAG, Part 3 - Sumit's Diary](https://blog.reachsumit.com/posts/2025/09/probing-llms-knowledge-boundary/)
   * [Probing LLMs' Knowledge Boundary: Adaptive RAG, Part 3 | Sumit Kumar](https://www.linkedin.com/posts/reachsumit_probing-llms-knowledge-boundary-adaptive-activity-7378974219197476864-CEOI)
   * [Adaptive RAG: 지능적 검색 결정 및 LLM 지식 경계 탐색 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6087889/6011498)
+* [Building a HybridRAG Document Question-Answering System - YouTube](https://www.youtube.com/watch?v=KTpG-T3DK6k)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
@@ -4455,7 +4465,7 @@ NLP
 * [2509.07980 Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://arxiv.org/abs/2509.07980)
   * [Tencent AI Lab에서 저번주에 발표한 논문에 굉장히 흥미로운 내용이 있네요. LLM의 넥스트는 CoT를 넘어 다중 생각인 듯합니다. 대규모 언어 모델이 여러 사고 경로를 동시에 탐색할 수 있다면 어떨까요? 논문의 핵심을 요약 공유합니다. 📑 논문명: Parallel-R1: Towards Parallel Thinking via… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-ai-lab%EC%97%90%EC%84%9C-%EC%A0%80%EB%B2%88%EC%A3%BC%EC%97%90-%EB%B0%9C%ED%91%9C%ED%95%9C-%EB%85%BC%EB%AC%B8%EC%97%90-%EA%B5%89%EC%9E%A5%ED%9E%88-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%82%B4%EC%9A%A9%EC%9D%B4-activity-7373856969507397632-fS5O)
 * [2509.08825 Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/abs/2509.08825)
-  * [전종홍 - “LLM은 편리한 조교가 아니라, 반드시 교정·검증이 필요한 불안정한 계측기이다.” LLM이 사회과학 연구의... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592570216410&id=683301409&mibextid=wwXIfr&rdid=ZCa0x2XAAYQcTrcA#)
+  * [전종홍 - “LLM은 편리한 조교가 아니라, 반드시 교정·검증이 필요한 불안정한 계측기이다.” LLM이 사회과학 연구의... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592570216410&id=683301409)
 * [2509.15172 Internalizing Self-Consistency in Language Models: Multi-Agent Consensus Alignment](https://arxiv.org/abs/2509.15172)
   * ["왜 언어 모델은 일관된 생각을 유지하지 못할까?"라는 질문에 정면으로 도전하는 내용 #meta #모델_일관성 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-riwqzcabrsueqtkspf-activity-7377175086182813696-64Jf)
 * [2509.20186 Thinking Augmented Pre-training](https://arxiv.org/abs/2509.20186)
@@ -4467,7 +4477,7 @@ NLP
     * 여전한 기본 데이터의 중요성
 * [2510.07192 Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples](https://arxiv.org/abs/2510.07192)
   * [A small number of samples can poison LLMs of any size \ Anthropic](https://www.anthropic.com/research/small-samples-poison)
-    * [(3) 전종홍 - 250개의 샘플만으로도 LLM 학습데이터 오염과 변조가 가능하고 그것을 기반으로한 추가 공격이 가능하다는... | Facebook](https://www.facebook.com/story.php?story_fbid=10164607057756410&id=683301409&mibextid=wwXIfr&rdid=D2UA7vpkWy5feZTn#)
+    * [(3) 전종홍 - 250개의 샘플만으로도 LLM 학습데이터 오염과 변조가 가능하고 그것을 기반으로한 추가 공격이 가능하다는... | Facebook](https://www.facebook.com/story.php?story_fbid=10164607057756410&id=683301409)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
