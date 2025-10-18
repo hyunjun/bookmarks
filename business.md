@@ -482,7 +482,7 @@ Business
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
-* [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
+* [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526)
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
 * [B2B SaaS 스타트업 잘 성장하고 있는지 알려면 ARR을 봐야 합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/arrsaas20240229)
 * [SaaS 기술 기업에게 규모의 경제 의미](https://maily.so/saascenter/posts/3fafeeed)
@@ -2878,7 +2878,7 @@ Business
 * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) - YouTube](https://www.youtube.com/watch?v=88alBtMMbeg)
   * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5436050/5020100)
 * [#리더십 #리더십스킬맵 #leaderskillmap #leadershipmap | 백종화](https://www.linkedin.com/posts/elfpenguin_reeqyssxh-reeqyssxhswmtnqrfz-leaderskillmap-activity-7370817849407430657-EoNe)
-* [AI 시대, 대체 불가능한 5가지 리더십 역량 ❖ AI 시대의 리더십 패러다임... - Duke Donghyun Kim | Facebook](https://www.facebook.com/706739147/posts/10166173114084148/?mibextid=wwXIfr&rdid=voMJDe6bfm3ZokWm#)
+* [AI 시대, 대체 불가능한 5가지 리더십 역량 ❖ AI 시대의 리더십 패러다임... - Duke Donghyun Kim | Facebook](https://www.facebook.com/706739147/posts/10166173114084148/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4027,6 +4027,8 @@ Business
 * [**전세계 1,363개 유니콘 기업의 사업모델 5줄 요약 모음**](https://www.fastventures.co.kr/post/unicorn2024)
   * [Unicorn Club_FV - Google Sheets](https://docs.google.com/spreadsheets/d/1mvmaz1CKiKCHuGu3G5rZ0LGeSCylHOeHLo3GzjBm8f0/edit?gid=1590354486#gid=1590354486)
   * [Unicorn Club_FV의 사본 - Google Sheets](https://docs.google.com/spreadsheets/d/1ksEX0Owet4UoPvJ_QQ2HzCpyR1G6GQWbjvlK-2WIHLg/edit?gid=1590354486#gid=1590354486)
+* [K-컬처 인기에도 국내 역직구가 활성화되기 어려운 진짜 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/crossbordertrading20251017)
+  * 글로벌 이커머스로 성장하기 어려운 구조적인 BM 문제
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
