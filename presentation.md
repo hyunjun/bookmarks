@@ -84,6 +84,8 @@ Presentation
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
   * [개발자를 위한 PPT 발표앱을 찾았다...! - YouTube](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
   * [개발자를 위한 PPT, Marp 사용 후기 - YouTube](https://www.youtube.com/watch?v=HxpmYNVI73c)
+* [mdpre: claude code로 만든 마크다운 프레젠테이션](https://github.com/weniv/mdpre)
+  * [WENIV Presenter - 마크다운 프레젠테이션 도구](https://weniv.github.io/mdpre/)
 * [Mousepose](http://bedreams.tistory.com/46)
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
