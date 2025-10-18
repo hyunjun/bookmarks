@@ -2064,6 +2064,11 @@ Docker
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 02. Petasus AI Cloud: AI 워크로드 최적화를 위한 쿠버네티스 기반 가상화 플랫폼 - YouTube](https://www.youtube.com/watch?v=U63qZE_AZrk)
 * [쿠버네티스 컨테이너 한방 정리 #3 - 일프로님의 블로그 - 인프런 | 커뮤니티](https://www.inflearn.com/blogs/3576)
 * [k8s 마스터 장애, 당황하지 마세요! kubeadm HA etcd 백업/복구 Step-by-Step – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/05/k8s-%eb%a7%88%ec%8a%a4%ed%84%b0-%ec%9e%a5%ec%95%a0-%eb%8b%b9%ed%99%a9%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-kubeadm-ha-etcd-%eb%b0%b1%ec%97%85-%eb%b3%b5%ea%b5%ac-step-by-step/)
+* [Kubernetes Korea Group | 여기에 마지막으로 글을 쓴 게 언제였더라 찾아보니, 작년 12월 14일이네요 | Facebook](https://www.facebook.com/groups/k8skr/permalink/4326636030951370/)
+  * [Pytorch Jupyter Notebook with GPU | by DaeGon Kim | Oct, 2025 | Dev Genius](https://blog.devgenius.io/pytorch-jupyter-notebook-with-gpu-05164ee6284e)
+    * GPU가 사용가능한 Jupyter Notebook를 만드는 방법
+  * [GPU Cluster Provisioning. In this article, we will show a process… | by DaeGon Kim | T3CH | Aug, 2025 | Medium](https://medium.com/h7w/gpu-cluster-provisioning-962cc723cc9c)
+    * GPU를 Kubernetes에 설치하는 부분
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2130,6 +2135,7 @@ Docker
       * Argo CD를 이용해서 GitHub의 Pull Request를 모니터링하다가 새 브랜치나 커밋이 올라오면 Tekton으로 빌드하고 Argo CD의 앱을 생성해서 Kubernetes 클러스터에 프리뷰 환경을 배포하는 예시를 보여줌
     * [ArgoCD와 GitOps를 인터넷(IGW) 없는 환경에서 구축하기 - 정영진, LG U+AWS :: Community Day 2023 - YouTube](https://www.youtube.com/watch?v=xNdVGmYuVdA)
     * [The Argo CD MCP Server | Akuity](https://akuity.io/blog/argo-cd-mcp-server)
+    * [ArgoCD vs FluxCD? #devops #kubernetes #gitops #argocd #fluxcd | Victor M.](https://www.linkedin.com/posts/victor-maltsev_devops-kubernetes-gitops-activity-7383850345053044736-FOVl)
     * [malwareanalysis.tistory.com/search/ArgoCD](https://malwareanalysis.tistory.com/search/ArgoCD)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
