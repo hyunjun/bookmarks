@@ -378,6 +378,8 @@ Finance
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
+* [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
+  * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
