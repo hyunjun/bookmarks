@@ -768,7 +768,7 @@ AWS
   * [agentcore: It shows how to use AgentCore for deploying LangGraph and Strands agents with MCP.](https://github.com/kyopark2014/agentcore)
     * [OpenAI의 OSS와 MCP를 이용해 Agent를 구현](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-aws-openai-ugcPost-7362470742560555008-OBsk/)
   * [Accelerate development with the Amazon Bedrock AgentCore MCP server | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/)
-    * [(2) AWSKRUG- AWS한국사용자모임 | Amazon Bedrock AgentCore MCP 서버로 개발 가속화하기 🚀 | Facebook](https://www.facebook.com/groups/awskrug/permalink/24021352290873469/?mibextid=wwXIfr&rdid=u5uS8P1EizARtnPp#)
+    * [(2) AWSKRUG- AWS한국사용자모임 | Amazon Bedrock AgentCore MCP 서버로 개발 가속화하기 🚀 | Facebook](https://www.facebook.com/groups/awskrug/permalink/24021352290873469/)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
     * [MCP를 지원하는 Agent를 서버리스인 AgentCore Runtime에 배포](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_mcp-agent-strands-activity-7353125091678801920-v-Kq/)
   * [agentcore/browser.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/browser.md)
@@ -1365,6 +1365,7 @@ AWS
   * [EC2 부팅 시간 단축하기 | GeekNews](https://news.hada.io/topic?id=15046)
 * [AWS EC2 GPU 서버 & ollama통한 nvidia,cuda 구축 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/21/aws-ec2-gpu-ollama-nvidia-cuda/)
 * [`오픈 소스` AWS EC2 docker #odevtube - YouTube](https://www.youtube.com/watch?v=oFYi_6lqKhk)
+* [🚀 AWS EC2를 활용한 개발 환경 구축부터 YouTube API 통합까지! (Full Stack Development Guide) - YouTube](https://www.youtube.com/watch?v=Zh8iT5kdmaY)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
