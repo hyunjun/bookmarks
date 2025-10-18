@@ -3605,6 +3605,10 @@ Business
 * [사용자 이해와 가치 창출을 위한 도전](https://brunch.co.kr/@ebprux/1349)
 * [가치 제안 (Value Propostion) 연습하기](https://brunch.co.kr/@yongjinjinipln/140) value prop statement, Steve Blank xyz framework
   * [Gemini - “Summarize using nested bullets and quotes: (https://www.youtube.com/watch?v=q8d9uuO1Cf4&t=477s )."](https://gemini.google.com/share/c04455642464)
+* [카카오톡은 오래전부터 인스타 DM에 위기감을 느꼈던 것 같다 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7377323222637158400-f4Rx)
+  * 1. 가치제안은 손바닥 뒤집듯 바꾸는 게 아니다
+  * 2. 차별화를 버리려면 뭔가 다른 우위가 있어야 한다
+  * 3. 하나의 이름에는 하나의 가치를 담아야 한다
 * [Yeon Seung Hong on LinkedIn: 1. 문제 진단과 프레임워크 - 모든 캠페인의 시작](https://www.linkedin.com/posts/yeon-seung-hong-89283717_1-%EB%AC%B8%EC%A0%9C-%EC%A7%84%EB%8B%A8%EA%B3%BC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%AA%A8%EB%93%A0-%EC%BA%A0%ED%8E%98%EC%9D%B8%EC%9D%98-%EC%8B%9C%EC%9E%91-activity-7208796231039426560-O7-u)
   * [1. 문제 진단과 프레임워크 - 모든 캠페인의 시작](https://brunch.co.kr/@yeonnnh/2)
   * [2. 메시지 상위기획 - 선긋기와 디스럽션](https://brunch.co.kr/@yeonnnh/3)
