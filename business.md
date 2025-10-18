@@ -491,6 +491,7 @@ Business
 * [GTM 전략의 이해](https://bcho.tistory.com/1438) Go-to-Market
 * [Tools over process](https://www.canda.blog/tools-over-process/)
   * SaaS를 도입한다는 것은 도구 그 자체보다도 잘 정립된 프로세스를 도입한다는 것과 같고, 그 관점에서는 SaaS는 마치 컨설팅 회사와 같은 역할을 한다
+* [절차를 밟아라 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7383637666581512192-qsr-) process
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
