@@ -746,6 +746,8 @@ Artificial Intelligence
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
+* [edgeai-for-beginners: This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents](https://github.com/microsoft/edgeai-for-beginners)
+  * [edgeai-for-beginners: This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques… | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-microsoftedgeai-for-beginners-activity-7383644216666734593-u_Rg)
 * [Embabel · GitHub](https://github.com/embabel)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
 * [Firebase Studio](https://firebase.google.com/docs/studio)
