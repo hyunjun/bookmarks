@@ -1125,6 +1125,7 @@ Artificial Intelligence
     * 리소스를 앱에 분산하고 싶지 않아서 대부분 웹을 기반으로 제공, 모바일 앱으로 제공하는 서비스들이 나오고 있고 참여도도 훨씬 높기 때문에 앞으로는 모바일 우선 생성형 AI 제품이 더 등장할 것
 * [2510.08338 LLMs Reproduce Human Purchase Intent via Semantic Similarity Elicitation of Likert Ratings](https://arxiv.org/abs/2510.08338)
   * [전종홍 - 논문에서 제안한 Semantic Similarity Rating (SSR) 방식을 활용하면 LLM이 인간 소비자 패널의 행동 패턴을 90% 수준으로 상당히 정확하게 재현할 수 있다 | Facebook](https://www.facebook.com/story.php?story_fbid=10164607906956410&id=683301409)
+  * [와.. LLM이 ‘가상 소비자’로 연기하며, 실제 구매 의도를 90% 정확도로 예측합니다. 최근 연구에서 LLM이 특정 인구통계적 프로필(예: 나이, 성별, 직업 등)을 ‘가상의 고객’으로 연기하도록 설정했을 때, 실제 구매 의도를 90% 정확도로 예측할 수 있다는 결과가 발표되었습니다. 놀라운 점은 이 과정이 별도의 파인튜닝이나 추가 학습 없이도… | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80-llm%EC%9D%B4-%EA%B0%80%EC%83%81-%EC%86%8C%EB%B9%84%EC%9E%90%EB%A1%9C-%EC%97%B0%EA%B8%B0%ED%95%98%EB%A9%B0-%EC%8B%A4%EC%A0%9C-%EA%B5%AC%EB%A7%A4-%EC%9D%98%EB%8F%84%EB%A5%BC-90-%EC%A0%95%ED%99%95%EB%8F%84%EB%A1%9C-activity-7382697256203800576-aIIq)
 * [감성 AI 시장, 얼마나 커질까? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/emotion-ai-market/)
 * [Generative AI’s Act Two | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * ["우린 벌써 뛰고 있어" 생성형 AI를 워크플로우와 결합한 기업 3곳의 경험 - ITWorld Korea](https://www.itworld.co.kr/news/308413)
@@ -1483,7 +1484,7 @@ Artificial Intelligence
   * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409)
 * [PagedOut_007.pdf](https://pagedout.institute/download/PagedOut_007.pdf)
   * [Paged Out! 7호 PDF | GeekNews](https://news.hada.io/topic?id=23453)
-* [Tae Hyung Kim - 워싱턴포스트가 최근 AI의 거대한 변화에 대해 흥미로운 사실 하나를 짚었다. 중국의... | Facebook](https://www.facebook.com/story.php?story_fbid=10238714373338117&id=1237608086)  
+* [Tae Hyung Kim - 워싱턴포스트가 최근 AI의 거대한 변화에 대해 흥미로운 사실 하나를 짚었다. 중국의... | Facebook](https://www.facebook.com/story.php?story_fbid=10238714373338117&id=1237608086)
   * 중국의 빅테크 기업들이 오픈웨이트(Open-Weight) AI 모델을 앞세워, 오히려 미국을 제치고 생태계의 주도권을 잡아가고 있다
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
