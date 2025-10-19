@@ -3889,6 +3889,7 @@ NLP
   * [Probing LLMs' Knowledge Boundary: Adaptive RAG, Part 3 | Sumit Kumar](https://www.linkedin.com/posts/reachsumit_probing-llms-knowledge-boundary-adaptive-activity-7378974219197476864-CEOI)
   * [Adaptive RAG: 지능적 검색 결정 및 LLM 지식 경계 탐색 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6087889/6011498)
 * [Building a HybridRAG Document Question-Answering System - YouTube](https://www.youtube.com/watch?v=KTpG-T3DK6k)
+* [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
