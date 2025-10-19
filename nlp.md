@@ -4479,6 +4479,8 @@ NLP
 * [2510.07192 Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples](https://arxiv.org/abs/2510.07192)
   * [A small number of samples can poison LLMs of any size \ Anthropic](https://www.anthropic.com/research/small-samples-poison)
     * [(3) 전종홍 - 250개의 샘플만으로도 LLM 학습데이터 오염과 변조가 가능하고 그것을 기반으로한 추가 공격이 가능하다는... | Facebook](https://www.facebook.com/story.php?story_fbid=10164607057756410&id=683301409)
+* [2510.13928 LLMs Can Get "Brain Rot"!](https://www.arxiv.org/abs/2510.13928)
+  * [Tae Hyung Kim - 최근 공개된 한 논문이 시선을 사로잡았다. 제목부터 엄청나다. 거대 언어모델(LLM)도... | Facebook](https://www.facebook.com/socialego/posts/pfbid0DJgczRpXqmoWUnZ6JUMzAcgNYJyavKiBGbXNM2abDvBofQe96TJVQLYgXLxNUd3Cl)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
