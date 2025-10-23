@@ -448,6 +448,8 @@ Artificial Intelligence
 * [Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교) 최근 AI 업계의 두 거인, 구글과 OpenAI가 코딩 없이 AI를 만들 수 있는 '노코드 AI 빌더'를 각각 출시하며 큰 화제를 모으고 있습니다. 구글의 'Opal'과 OpenAI의 '에이전트 빌더'가 바로 그 주인공인데요. 기존 자동화 툴의 강자… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_google-opal-openai-agent-builder-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-activity-7381961556214910976-kZHf)
 * [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
   * [에이전트 루프 설계하기 | GeekNews](https://news.hada.io/topic?id=23470)
+* [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
+  * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
@@ -1939,6 +1941,8 @@ Artificial Intelligence
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
+* [CocoIndex](https://cocoindex.io/)
+  * [cocoindex-io/cocoindex: Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!](https://github.com/cocoindex-io/cocoindex)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
   * [Introducing Codex | OpenAI](https://openai.com/index/introducing-codex/)
