@@ -19,6 +19,7 @@ Hardware
 * [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
 * [ESP8266을 활용해 스마트워치 DIY 하는 법](https://smartaedi.tistory.com/351)
 * [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
+* [ROPPOR 소스 코드 군집 드론 소프트웨어 : 네이버 블로그](https://blog.naver.com/roppordrone/223334559944)
 * [아마존의 알렉사를 이용해서 음성인식하기](http://nemoroom.com/mobile/view.html?p_w0_idx=566&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [When hardware met Node-RED](https://github.com/kyungw00k/IBMDeveloperConnect-2017)
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
