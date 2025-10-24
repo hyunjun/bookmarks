@@ -194,6 +194,7 @@ Java
 * [Cay Horstmann's Unblog](https://horstmann.com/unblog/2024-12-11/index.html)
   * [Java로 간단한 작업 처리하기 | GeekNews](https://news.hada.io/topic?id=18346)
 * [How Netflix Uses Java - 2025 Edition - YouTube](https://www.youtube.com/watch?v=XpunFFS-n8I)
+* [왜 은행 금융은 여전히 Java가 지배할까? (92%가 코어에 사용) - YouTube](https://www.youtube.com/watch?v=WzcW_xraLsk)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
