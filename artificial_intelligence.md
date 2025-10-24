@@ -450,6 +450,7 @@ Artificial Intelligence
   * [에이전트 루프 설계하기 | GeekNews](https://news.hada.io/topic?id=23470)
 * [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
   * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
+* [Emma Saroyan - Build Your Own AI Agent (Boston Oct 2025) - YouTube](https://www.youtube.com/watch?v=reY64KgG6ds)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
