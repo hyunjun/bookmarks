@@ -465,6 +465,7 @@ Clojure
 * ["Clojure for Data Science in the Real World" by Kira McLean - YouTube](https://www.youtube.com/watch?v=MguatDl5u2Q)
 * [FrankenScore: a Body Resurrected - OOLOI.ORG](https://www.ooloi.org/home/claude-37-meta-reflects-on-clojure-vs-python)
 * [Bruce Hauman Has Done It Again – Metosin](https://www.metosin.fi/blog/2025-05-27-bruce-hauman-has-done-it-again) REPL에 LLM
+* [Creating code on the fly using Clojure eval - YouTube](https://www.youtube.com/watch?v=m91rehSyVhM)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
