@@ -1450,6 +1450,7 @@ Artificial Intelligence
     * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
 * [CEOs Are Proud Of Their Layoffs. Should They Be? – JOSH BERSIN](https://joshbersin.com/podcast/ceos-are-proud-of-their-layoffs-should-they-be/)
   * [CEO들은 해고를 자랑스럽게 생각해야할까? | 김덕중](https://www.linkedin.com/posts/duckjungkim_ceos-are-proud-of-their-layoffs-should-they-activity-7357264741553098753-XsnD)
+* [빅테크의 ‘대규모 해고’는 내 일이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3409/)
 * [AI is polytheistic, not monotheistic - balajis.com](https://balajis.com/p/ai-is-polytheistic-not-monotheistic)
   * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [AI in Startup GTM Report 2025 Pt. 1: Benchmark Report](https://www.hubspot.com/startups/ai/ai-in-gtm-report-pt1)
