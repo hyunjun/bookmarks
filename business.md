@@ -3142,6 +3142,7 @@ Business
   * [I often worry about great engineers getting lost in the system in large softwa | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5025793/4385175)
 * [한성희 - 시리즈B 준비 중 발견하는 숨겨진 성장 정체 요인들 시리즈A 이후 지표는 꾸준히 상승했는데, 시리즈B 준비... | Facebook](https://www.facebook.com/simplifier.seoul/posts/pfbid047NYAQEsDQ7XtzS5CMuEesx4G683qVgeC6Wfhg9vjv3uPqn23bF4pVEHy8VPuWtgl)
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d)
+* [외국계 회사 지사장 포지션에 초임으로 지원하시.. : 네이버블로그](https://blog.naver.com/best-headhunter/224050748063)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
