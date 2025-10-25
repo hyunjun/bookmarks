@@ -7619,6 +7619,8 @@ Programming
 * [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 * [쉽게 이해하는 다중큐비트 양자컴퓨팅 시뮬레이션 - 미래인공지능18 - YouTube](https://www.youtube.com/watch?v=2HpKYC2tkr8)
 * ["양자 안 된다"던 엔비디아까지 양자에 뛰어든 이유 - YouTube](https://www.youtube.com/watch?v=Ng5zkX_E5As)
+* [The Quantum Echoes algorithm breakthrough](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+  * [구글의 Willow 양자칩, 하드웨어에서 검증 가능한 양자 우위를 시연함 | GeekNews](https://news.hada.io/topic?id=23858)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
