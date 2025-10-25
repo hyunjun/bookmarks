@@ -969,6 +969,8 @@ Artificial Intelligence
   * [MCP를 이용해서 LLM 서비스 만들기 - 예제와 함께](https://brunch.co.kr/@chaesang/121)
     * [NIA 한국지능정보사회진흥원 디지털서비스 이슈리포트2025-9 AI PaaS의 필요성과 글로벌 AI PaaS 동향 | 정채상](https://www.linkedin.com/posts/chaesang_nia-%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B3%B4%EC%82%AC%ED%9A%8C%EC%A7%84%ED%9D%A5%EC%9B%90%EB%94%94%EC%A7%80%ED%84%B8%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%8A%88%EB%A6%AC%ED%8F%AC%ED%8A%B82025-9-ai-activity-7379677818902859776-IYYg)
   * [PICK MCP 총정리: 개념과 사용기 | 요즘IT](https://yozm.wishket.com/magazine/collection/67889/)
+  * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) - YouTube](https://www.youtube.com/watch?v=-AFOcmTFTT8)
+    * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6403900/6491153)
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
