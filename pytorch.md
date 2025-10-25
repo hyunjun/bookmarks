@@ -362,6 +362,9 @@ PyTorch
   * [matorage documentation — matorage 0.1.0 documentation](https://matorage.readthedocs.io/en/stable/)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
+* [monarch: PyTorch Single Controller](https://github.com/meta-pytorch/monarch)
+  * [Introducing PyTorch Monarch – PyTorch](https://pytorch.org/blog/introducing-pytorch-monarch/)
+  * [이상선 - PyTorch Monarch — “클러스터를 하나의 파이썬 머신처럼” Meta AI의 PyTorch 팀이... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0kMTC6s84by3pv8aCewq86XNsSafo2F7khpvrKtv7NWSht3Yoj5Z6GRYLMVXsCXrel)
 * [opacus: Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
   * [Introducing Opacus: A high-speed library for training PyTorch models with differential privacy](https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
