@@ -589,6 +589,12 @@ Linux
 * `cat`
   * [Cat and friends (Netcat and Socat) - Kubernetes, CI/CD, Git, Linux, Containers, Golang... and more](https://techsquad.rocks/blog/cat_and_friends_netcat_socat/)
   * [bat 명령어 - 기계인간 John Grib](https://johngrib.github.io/wiki/cmd/bat/)
+* `cd`
+  * [lacy: Fast magical cd alternative for lacy terminal navigators](https://github.com/timothebot/lacy)
+  * [zoxide: A smarter cd command. Supports all major shells](https://github.com/ajeetdsouza/zoxide)
+    * [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
+    * [Smart tmux sessions with zoxide and fzf - YouTube](https://www.youtube.com/watch?v=l_TTxc0AcCw)
+    * [Zoxide - 모든 주요 셸을 지원하는 더 똑똑한 cd 명령어 | GeekNews](https://news.hada.io/topic?id=23616)
 * `comm`
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
@@ -887,6 +893,9 @@ Linux
   * [Illustrated Redirection Tutorial - Bash Hackers Wiki](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www.tecmint.com/recover-deleted-file-in-linux/)
+  * [rm-safely: 'rm' safely – a safety net for rm](https://github.com/zdk/rm-safely)
+    * [rm-safely - 안전하게 ‘rm’ 하세요 | GeekNews](https://news.hada.io/topic?id=23635)
+  * [trash-cli: Move files and folders to the trash](https://github.com/wicksome/trash-cli)
 * `rsync`
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
@@ -1093,6 +1102,7 @@ Linux
     * [리눅스 환경에서 프로세스 동작을 모니터링하는 도구 소개 #top #htop #qps - YouTube](https://www.youtube.com/watch?v=nZ9yKKejRiE)
     * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
   * [highest-cpu.sh](https://gist.github.com/Sangdol/168b3a687b2becc2f74d1d5a5f7670f5) Threadhold 값 (30%) 이상 CPU 점유하고 있는 프로세스 중 가장 높은 CPU 점유하고 있는 프로세스 반환
+  * [mactop: mactop - Apple Silicon Monitor Top](https://github.com/context-labs/mactop)
   * [nvtop: GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm](https://github.com/Syllo/nvtop)
     * [Nvtop - Nvidia/AMD/Intel GPU를 위한 리눅스 태스크 모니터 | GeekNews](https://news.hada.io/topic?id=13792)
 * `tr`
@@ -1146,9 +1156,6 @@ Linux
   * [꿀벌개발일지 :: 파일을 바이너리로 보기](https://ohgyun.com/793)
 * `yes` [A Little Story About the `yes` Unix Command | Matthias Endler](https://endler.dev/2017/yes/)
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
-* [zoxide: A smarter cd command. Supports all major shells](https://github.com/ajeetdsouza/zoxide)
-  * [zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
-  * [Smart tmux sessions with zoxide and fzf - YouTube](https://www.youtube.com/watch?v=l_TTxc0AcCw)
 
 ## Command Mail
 * [Linux mail command examples – send mails from command line](https://www.binarytides.com/linux-mail-command-examples/)
@@ -1485,6 +1492,8 @@ Linux
 * [Unikraft](https://unikraft.org/)
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
+* [ut: A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech](https://github.com/ksdme/ut)
+  * [ut — 개발자를 위한 CLI 기반 유틸리티 도구상자 | GeekNews](https://news.hada.io/topic?id=23849)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * [watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 * Wayland
