@@ -20,6 +20,8 @@ AWS
 * [Lessons learned from running GraphQL at scale | by Dream11 Engineering | Dream11 Engineering](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [AWS AppSync GraphQL APIs Supports JavaScript Resolvers | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
+* [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes - DEV Community](https://dev.to/ianbrumby/realtime-event-driven-applications-with-appsync-events-and-eventbridge-pipes-1b27)
+  * [How to use EventBridge Pipes with AppSync Events for real-time notifications | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_realtime-event-driven-applications-with-appsync-activity-7386634936088281089-FSQU)
 * [Igor Soroka | How have I united multiple GraphQL schemas under one facade | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=W43Wv-kxcRI)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
@@ -976,6 +978,9 @@ AWS
 * 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
   * [데이터사이언스 없이 추천시스템 만들기 - 디큐 :: 제39회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=bOjE3IWYSS8)
 * [AWS 앱 현대화 및 개발](https://kr-resources.awscloud.com/aws-modern-applications-kr)
+* [AWS AI x Industry Week](https://aws.amazon.com/ko/events/industry-week/)
+  * [2025 Agentic AI Workshop : AWS AI x Industry Week](https://gonsoo.notion.site/2025-Agentic-AI-Workshop-AWS-AI-x-Industry-Week-2657708d25f58052aee5c1bb0ecfef9d)
+    * [안녕하세요? 이번 주 (2025년 10월 14일 부터 16일) 까지의 “2025 Agentic AI Workshop : AWS AI x Industry Week” 행사에서 나온 워크샵 자료를 공유 드립니다. AWS 의 기술자 29명이 78일 동안 아래와 같은 6개의 워크샵 ( 가이드 + 코드) 을 만드셨습니다.  Agentic AI 의 최신 유스 케이스… | Gonsoo Moon | 16 comments](https://www.linkedin.com/posts/gonsoomoon_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%9D%B4%EB%B2%88-%EC%A3%BC-2025%EB%85%84-10%EC%9B%94-14%EC%9D%BC-%EB%B6%80%ED%84%B0-16%EC%9D%BC-%EA%B9%8C%EC%A7%80%EC%9D%98-2025-activity-7385098624042614784-gv2x)
 * [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
 * AWS Community Day
   * [AWS Community Day 2024 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpPCc9wfHkc16TSs4DsNWL6R)
@@ -2832,6 +2837,8 @@ AWS
 * [AWS 루트 엑세스키 생성하기 (Create AWS Root Access Key) | by rex.chun | Medium](https://medium.com/@7424069/aws-%EB%A3%A8%ED%8A%B8-%EC%97%91%EC%84%B8%EC%8A%A4%ED%82%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-7cce0966f112)
 * [AWS root access key를 사용하면 안되는 이유 - rex.chun - Medium](https://medium.com/@7424069/aws-root-access-key%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-508f97a043a0)
 * [AWS Delete the access keys. Now you can use Roles Anywhere! (feat, Terraform) | by rex.chun | Medium](https://medium.com/@7424069/aws-delete-the-access-keys-now-you-can-use-rolesanywhere-feat-terraform-e52dae120f73)
+* [Securing AI agents with Amazon Bedrock AgentCore Identity | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/securing-ai-agents-with-amazon-bedrock-agentcore-identity/)
+  * [Amazon Web Services Bedrock AgentCore Identity: Secure AuthN/Z for AI Agents | Mahmoud Rabie posted on the topic | LinkedIn](https://www.linkedin.com/posts/mahmoudrabie2004_cyberabrsecurityabrhighlights-didabryouabrknowabrthat-activity-7386157006711152640-_34N)
 * [Pacu: 클라우드 엔지니어를 위한 AWS 공격적 보안 테스팅 프레임워크](https://velog.io/@lufianlee/pacu)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
