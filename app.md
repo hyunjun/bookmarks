@@ -178,6 +178,10 @@ App
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
   * [pdfsizeopt: PDF file size optimizer](https://github.com/pts/pdfsizeopt)
+  * [pdfly: CLI tool to extract (meta)data from PDF and manipulate PDF files](https://github.com/py-pdf/pdfly)
+    * [Welcome to pdfly — pdfly 0.5.1 documentation](https://pdfly.readthedocs.io/)
+    * [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
+    * [pdfly - PDF 파일을 위한 스위스 아미 나이프 | GeekNews](https://news.hada.io/topic?id=23639)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [PSPDFKit API - PDF처리용 HTTP API | GeekNews](https://news.hada.io/topic?id=6326)
   * [qpdf: A content-preserving PDF document transformer](https://github.com/qpdf/qpdf)
@@ -214,6 +218,8 @@ App
     1. 7메가 분량의 그레이스케일 스캔 파일 8장을 PDF로 그냥 만들면 6.5메가 정도, 스캔테일러를 거치면 대략 335kb (단, 모든 문서가 텍스트일 때)
     2. 스캔 이미지를 흑백모드와 그레이스케일, 컬러모드로 수동 지정 가능. 즉, 텍스트 영역을 모두 흑백처리해 용량 축소
     3. 600DPI로 이미지를 처리해도 책한권 파일 용량이 20메가 정도 -> OCR성능 및 가독성 향상
+* [screenpipe | computer use AI SDK](https://screenpi.pe/)
+  * [screenpipe: AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording](https://github.com/mediar-ai/screenpipe)
 * [send-anywhere.com](https://send-anywhere.com/)
 * sendtime [센드타임 무료로 시작하기 | 비즈니스 미팅 스케줄링에는, sendtime!](https://landing.sendtime.io/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
@@ -1635,6 +1641,8 @@ App
 * [CotEditor -Text Editor for macOS](https://coteditor.com/)
 * [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
+* [Dayflow: Generate a timeline of your day, automatically](https://github.com/JerryZLiu/Dayflow)
+  * [Dayflow - 하루의 타임라인을 자동으로 생성해주는 macOS 앱 | GeekNews](https://news.hada.io/topic?id=23727)
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [DeskPad: A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
   * 모니터 해상도가 너무 높으면 화면 공유할 때 너무 작게 보이는 문제를 해결하기 위해
@@ -1761,10 +1769,18 @@ App
   * [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
     * [AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
     * [Aerospace Is Probably The Best MacOS Tiling Manager I've Ever Used - YouTube](https://www.youtube.com/watch?v=5nwnJjr5eOo)
+  * [Divvy](https://mizage.com/divvy/)
+  * [komorebi: A tiling window manager for Windows 🍉](https://github.com/LGUG2Z/komorebi)
+    * [Index - Komorebi](https://lgug2z.github.io/komorebi/)
+    * [My Favorite Tiling Window Manager is Finally on macOS - YouTube](https://www.youtube.com/watch?v=u3eJcsa_MJk)
   * [MacsyZones, FancyZones for macOS](https://macsyzones.com/)
   * [Rectangle](https://rectangleapp.com/)
+  * [rift: a tiling window manager for macos](https://github.com/acsandmann/rift)
+    * [nix-config/packages/rift.nix at main · bromanko/nix-config](https://github.com/bromanko/nix-config/blob/main/packages/rift.nix)
+    * [Rift - macOS용 타일링 윈도우 매니저 | GeekNews](https://news.hada.io/topic?id=23634)
   * [Spectacle](https://github.com/eczarny/spectacle)
     * [www.spectacleapp.com](https://www.spectacleapp.com/)
+  * [Swish for macOS](https://highlyopinionated.co/swish/)
   * [yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
     * [Blazing Fast Window Management on macOS | Josh Medeski](https://www.joshmedeski.com/posts/blazing-fast-window-management-on-macos/)
 * Screenshot
