@@ -1405,6 +1405,8 @@ AWS
     * 1️⃣ 롤링 업데이트 메커니즘을 통해, 기존 Task를 새로운 버전으로 점진적으로 교체할 때 배포 이력 조회 가능
     * 2️⃣ 배포 상세 정보 확인 가능이 가능
     * 3️⃣ 서비스 버전의 불변(Immutable) 설정도 조회 가능
+* [Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/)
+  * [How to use AWS ECS for blue/green deployments | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_accelerate-safe-software-releases-with-new-activity-7385775571433172992-UQI7)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
