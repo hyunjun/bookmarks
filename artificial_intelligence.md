@@ -451,6 +451,12 @@ Artificial Intelligence
 * [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
   * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
 * [Emma Saroyan - Build Your Own AI Agent (Boston Oct 2025) - YouTube](https://www.youtube.com/watch?v=reY64KgG6ds)
+* [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
+  * [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_7-must-know-agentic-ai-design-patterns-activity-7387226865666752512-sIj7)
+    * ReAct, Reflection, Planning, Tool Use, Multi-Agent Collaboration, Sequential Workflows, Human-in-the-Loop
+* [The Complete Guide to AI Agents — Build from Scratch | Maryam Miradi, PhD | 47 comments](https://www.linkedin.com/posts/maryammiradi_the-complete-guide-to-ai-agents-build-from-ugcPost-7384249905340448768-i9R1)
+* [A Visual Guide to AI Agents - by Rohit Kumar Tiwari](https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents)
+  * [A Visual Guide to AI Agents | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_a-visual-guide-to-ai-agents-activity-7382937387913535488--P9o)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
@@ -1083,12 +1089,6 @@ Artificial Intelligence
   * [AI Agent로 독거노인 안부전화까지? 실제로 구현](https://www.linkedin.com/posts/taehalim_voiceai-livekit-openai-ugcPost-7341067060782764032-o3Da/)
 * [skypilot: Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).](https://github.com/skypilot-org/skypilot/)
   * [Welcome to SkyPilot! — SkyPilot documentation](https://docs.skypilot.co/)
-* [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
-  * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
-  * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
-  * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
-  * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
-  * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
 * [stagehand: An AI web browsing framework focused on simplicity and extensibility](https://github.com/browserbase/stagehand)
   * [Stagehand - AI 기반 오픈 소스 브라우저 자동화 프레임워크 | GeekNews](https://news.hada.io/topic?id=18660)
 * [Stanford Webinar - Agentic AI: A Progression of Language Model Usage - YouTube](https://www.youtube.com/watch?v=kJLiOGle3Lw)
@@ -1457,6 +1457,8 @@ Artificial Intelligence
   * [인공지능에 대한 10가지 생각 (발라지) : 네이버 블로그](https://blog.naver.com/bizucafe/223957612876)
 * [AI in Startup GTM Report 2025 Pt. 1: Benchmark Report](https://www.hubspot.com/startups/ai/ai-in-gtm-report-pt1)
   * [HubSpot 2025년 스타트업 AI GTM 전략 인사이트](https://www.linkedin.com/posts/leekh929_hubspot-2025%EB%85%84-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ai-gtm-%EC%A0%84%EB%9E%B5-%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%8E%80%EB%94%A9-%EB%8B%A8%EA%B3%84%EB%B3%84-activity-7357877937108344832-Fz3J/)
+* [AI 모델의 IO-bound vs Compute-bound 개념과 분석 방법](https://velog.io/@isanghao/AI-%EB%AA%A8%EB%8D%B8%EC%9D%98-IO-bound-vs-Compute-bound-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B6%84%EC%84%9D-%EB%B0%A9%EB%B2%95)
+* [연산 밀도를 넘어서: 다양한 연산과 시스템 관점에서 본 AI 성능 분석](https://velog.io/@isanghao/%EC%97%B0%EC%82%B0-%EB%B0%80%EB%8F%84%EB%A5%BC-%EB%84%98%EC%96%B4%EC%84%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%97%B0%EC%82%B0%EA%B3%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-AI-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D) performance benchmark
 * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 - YouTube](https://www.youtube.com/live/KAT-ig3vhz4)
   * [2025 인공지능 전문가 특강 | ChatGPT 이후 3년, 달라진 우리 사회 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5260832/4748701)
 * [Google’s healthcare AI made up a body part — what happens when doctors don’t notice? | The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
@@ -1507,6 +1509,8 @@ Artificial Intelligence
   * [AI는 '일잘러'가 아니라 '일못러'를 키운다](https://stibee.com/api/v1.0/emails/share/D1aTNbWEvcVHeACh7IkfEoB4rwomTRA)
     * AI 도입의 핵심은 '에이스를 더 강하게'가 아니라 '직원들의 스킬 혹은 역량을 끌어올려 평균을 높이는 것'
   * 바로 위 link와 서로 상반된 주장
+* [YC Partners Answer Your Questions | Office Hours - YouTube](https://www.youtube.com/watch?v=nGLmpKi-jRU)
+  * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1540,6 +1544,8 @@ Artificial Intelligence
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029?trk=public_post_comment-text)
     * [Human-AI Collaboration: The Future of Team Dynamics](https://www.functionly.com/orginometry/the-ai-revolution/human-ai-collaboration-the-future-of-team-dynamics)
     * [CPAIS-Framework-and-Case-Studies-9-23.pdf](https://partnershiponai.org/wp-content/uploads/2021/08/CPAIS-Framework-and-Case-Studies-9-23.pdf?trk=public_post_comment-text)
+* [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
+  * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
   * [Tae Hyung Kim - 기다리던 훌륭한 논문이 드디어 나왔네요. 여러 대학 연구진과 IBM, 마이크로소프트... | Facebook](https://www.facebook.com/socialego/posts/pfbid02s8JSLPzGVfxYK5T9QBPEwJe1CQ8GUoQwKT6qoZkyd5EXEogu7Asj7wUR2VgXjkZxl)
 * [2509.25140 ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
@@ -1557,6 +1563,10 @@ Artificial Intelligence
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
     * 앞으로 AI를 규제하려면, 무엇을 의도했는가보다 어떤 결과를 초래했는가를 중심으로 법과 제도를 재설계할 필요가 생길지도 모르겠다
+* [Contagious depression: Automatic mimicry and the mirror neuron system - A review - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763421005807?fbclid=IwY2xjawNpiqdleHRuA2FlbQIxMABicmlkETFKcm1Xek00WFRSNURIandBAR6cqOq-qhIiKRRcclid-j-7zIWVbSN4qgIeSWsEVXMQyrUjUwAL85flcUnztQ_aem_3Jnjyzoe75TTP2MSvOdYag)
+  * [Tae Hyung Kim - 최근에 뇌인지 관련 AI 모델을 어떻게하면 잘 만들수 있을까 고민을 하면서 논문들을 보고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0yfMDmKb8KfWoyQod1BSWRCHEbyTuHuGaY2GBUnsd6xcpXofmsB43hWeWrneHRmVTl)
+    * 비유하자면 감정은 공기 중의 미세먼지 같다
+    * 이 미세먼지를 들이마시는 순간, 뇌 속의 거울신경(mirror neuron) 이 작동하기
 
 # Security
 * [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55)
@@ -1690,6 +1700,8 @@ Artificial Intelligence
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
+* [open-notebook: An Open Source implementation of Notebook LM with more flexibility and features](https://github.com/lfnovo/open-notebook)
+  * [이상선 - 오픈소스 버전 NotebookLM 등장 — 학습과 연구를 위한 ‘Open Notebook’ 공개 Open... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02oWhkbPNGiszZhNRxvty8LfGPpu6PNRF6jR4xrc95RJZiAaC9fjK7YhByF611DvMl)
 * [PDFMathTranslate: PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译](https://github.com/blog2i2j/Byaidu.._..PDFMathTranslate)
   * [충격적인 pdf 파일 번역의 혁신, 역대급 번역 툴, PDFMathTranslate 공개!](https://stock79.tistory.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B8-pdf-%ED%8C%8C%EC%9D%BC-%EB%B2%88%EC%97%AD%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%B2%88%EC%97%AD-%ED%88%B4-PDFMathTranslate-%EA%B3%B5%EA%B0%9C)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
@@ -1699,6 +1711,8 @@ Artificial Intelligence
   * [perplexity citation 코딩 --.. : 네이버블로그](https://blog.naver.com/ulsancoding/223660459680)
   * [퍼플렉시티 Perplexity 검색증강생성 R.. : 네이버블로그](https://blog.naver.com/ulsancoding/223417059439)
   * [퍼플렉시티에서 가장 대박인 이 기능 : 해외는 충격으로 뒤집어 졌는데 국내는 의외로 모르네요 - 퍼플렉시티 랩스, Perplexity Labs ON! - YouTube](https://www.youtube.com/watch?v=DqhINxCPKCQ)
+  * [pplx-at-work.pdf](https://r2cdn.perplexity.ai/pdf/pplx-at-work.pdf)
+    * [퍼플렉시티, 직장에서 AI 활용 사례 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0-%EC%A7%81%EC%9E%A5%EC%97%90%EC%84%9C-ai-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-ugcPost-7386592603514978304-b7wO)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
 * Pine AI [AI Assistant to Handle Bills, Subscriptions, and Complaints | Pine AI](https://www.19pine.ai/)
@@ -1744,6 +1758,8 @@ Artificial Intelligence
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
+* [WaterCrawl: Transform Web Content into LLM-Ready Data](https://github.com/watercrawl/WaterCrawl)
+  * [이상선 - WaterCrawl — 웹 스크래핑을 예술로 만든 AI급 크롤링 툴 혁신적 웹 스크래핑 도구:... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02v6qEr68FBV2mjh1UYAi3EqHJFZXvqEBryeTRtBERkgVof4YcLYVRVgwgLc1R2TiWl)
 * [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
   * [Open-Source GenBI Agent — Text-to-SQL Made Easy](https://getwren.ai/oss)
   * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
@@ -1790,6 +1806,7 @@ Artificial Intelligence
     * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
   * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
     * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
+    * [Claude의 Skills 구조를 보고나서 든 생각은 AI 생태계의 Amazon Web Services (AWS) Lambda 라는 생각이 들었다. 왜 OpenAI , Anthropic 이 계속 Infra Engineer 를 채용하는지도 알것 같다. 이제 LLM의 확장이 어떤 형태로 될지도 어느 정도 이해된다. 단 ChatGPT 는 User… | Jedi Kim](https://www.linkedin.com/posts/jedikim_claude%EC%9D%98-skills-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C-%EB%93%A0-%EC%83%9D%EA%B0%81%EC%9D%80-ai-%EC%83%9D%ED%83%9C%EA%B3%84%EC%9D%98-amazon-activity-7385502936623357952-y73d)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -1885,6 +1902,7 @@ Artificial Intelligence
   * [Everyone should be using Claude Code more](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code)
     * [How to use Claude Code for work and life | Lenny Rachitsky님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/lennyrachitsky_everyone-should-be-using-claude-code-more-activity-7383899473485316096-uCFM)
   * [Claude Haiku 4.5 출시: Sonnet 4 성능을 1/3 비용으로! 코드 생성 73.3% 달성한 경량 모델 심층 분석](https://fornewchallenge.tistory.com/entry/Claude-Haiku-45-%EC%B6%9C%EC%8B%9C-Sonnet-4-%EC%84%B1%EB%8A%A5%EC%9D%84-13-%EB%B9%84%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-733-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D)
+  * [최진주 - <실패에서 배우는 바이브 코딩 주의사항> 클로드 코드를 이용한 바이브 코딩이 간단한 프로그램 만들기에는... | Facebook](https://www.facebook.com/pariscom/posts/pfbid02WVmt1SmX94NuLHuugaWGRMLEbwUxYGcPPQo8qhWJ9NqFpsoJjodbR3NdWZDkJbBDl)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -1899,6 +1917,9 @@ Artificial Intelligence
       * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
       * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
       * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
+  * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
+    * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+    * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
   * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
@@ -2185,6 +2206,7 @@ Artificial Intelligence
   * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 (장문주의)](https://www.stdy.blog/12-tips-for-smarter-cursor-usage/)
     * [Cursor를 더 똑똑하게 사용하고 싶은 분들을 위한 팁 12개 | GeekNews](https://news.hada.io/topic?id=21608)
   * [Ex-Cursor engineer showed me this hack. Changed how I code forever](https://www.linkedin.com/posts/paoloperrone_ex-cursor-engineer-showed-me-this-hack-changed-activity-7366581181527547906-KT62/)
+  * [Cursor Vibe Coding Tutorial - For COMPLETE Beginners (No Experience Needed) - YouTube](https://www.youtube.com/watch?v=8AWEPx5cHWQ)
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
@@ -2210,18 +2232,6 @@ Artificial Intelligence
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
   * [구글 미쳤다! 2025 구글 IO에서 월 200달러짜리 OpenAI Codex를 '무료'로 풀었다고?? - YouTube](https://www.youtube.com/watch?v=PRP9FyJQLvw)
 * [Junie, the AI coding agent by JetBrains](https://www.jetbrains.com/junie/)
-* [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
-  * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
-  * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
-  * [Cursor, Claude Code 킬러 등장?! 개발자들이 난리난 아마존 Kiro IDE 실체 - YouTube](https://www.youtube.com/watch?v=ONURp6vYftM)
-  * [아마존에서 출시한 미친 AI 코딩툴 키로(Kiro)! 커서AI 넘을까? | 실제 사용 찐 리뷰 - YouTube](https://www.youtube.com/watch?v=Nce6cFJGEts)
-  * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
-  * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
-  * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro - YouTube](https://www.youtube.com/watch?v=Z9fUPyowRLI)
-  * [AI 코딩 에이전트 간의 시너지: Kiro × Claude Code](https://www.linkedin.com/posts/xavierchoi_ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%84%EC%9D%98-%EC%8B%9C%EB%84%88%EC%A7%80-kiro-claude-code-activity-7352270105680007188-Bmhl/)
-    * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
-  * [Kiro: 소프트웨어 요구사항 표기법 - EARS](https://jusths.tistory.com/492) EARS(Easy Approach to Requirements Syntax)
-  * [Kiro와 함께 Augmented Coding 기반 소프트웨어 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/augmented-coding-with-kiro/)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
@@ -2265,6 +2275,28 @@ Artificial Intelligence
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
   * [AI가 디자인 다 해줍니다! | Figma 소개 및 Windsurf에서 Figma MCP 사용하는 방법, Talk to Figma MCP 설치 및 프로그램 GUI 디자인 - YouTube](https://www.youtube.com/watch?v=oYZl8tWTj-c)
   * [“개발 속도 99% 더 빠르게 만들 것”··· 윈드서프, 코딩 특화 AI 모델 ‘SWE-1’ 공개 | CIO](https://www.cio.com/article/3987217/%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84%eb%a5%bc-99-%eb%8d%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ea%b2%83%c2%b7%c2%b7%c2%b7-%ec%9c%88%eb%93%9c%ec%84%9c%ed%94%84.html)
+
+## Tool coding assistant SDD Spec Driven Development
+* [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+  * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl | 박성철](https://www.linkedin.com/posts/fupfin_understanding-spec-driven-development-kiro-activity-7385279368434159616-E8Wp)
+* [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
+  * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
+  * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
+  * [Cursor, Claude Code 킬러 등장?! 개발자들이 난리난 아마존 Kiro IDE 실체 - YouTube](https://www.youtube.com/watch?v=ONURp6vYftM)
+  * [아마존에서 출시한 미친 AI 코딩툴 키로(Kiro)! 커서AI 넘을까? | 실제 사용 찐 리뷰 - YouTube](https://www.youtube.com/watch?v=Nce6cFJGEts)
+  * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
+  * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
+  * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro - YouTube](https://www.youtube.com/watch?v=Z9fUPyowRLI)
+  * [AI 코딩 에이전트 간의 시너지: Kiro × Claude Code](https://www.linkedin.com/posts/xavierchoi_ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%84%EC%9D%98-%EC%8B%9C%EB%84%88%EC%A7%80-kiro-claude-code-activity-7352270105680007188-Bmhl/)
+    * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
+  * [Kiro: 소프트웨어 요구사항 표기법 - EARS](https://jusths.tistory.com/492) EARS(Easy Approach to Requirements Syntax)
+  * [Kiro와 함께 Augmented Coding 기반 소프트웨어 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/augmented-coding-with-kiro/)
+* [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
+  * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
+  * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+  * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
+  * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
+  * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
