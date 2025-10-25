@@ -292,6 +292,7 @@ Interview
   * 4️⃣ 인생의 목표가 있는가
 * [Live coding sucks | Mustapha Hadid](https://hadid.dev/posts/living-coding/)
   * [Microsoft researchers just proved what we all suspected](https://www.linkedin.com/posts/assafarkin_microsoft-researchers-just-proved-what-we-activity-7358557656493481985-GywV/)
+* [iid 토스 vs 구글,‘좋은 회사’는 어디일까?](https://brunch.co.kr/@iid-hr/199)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
