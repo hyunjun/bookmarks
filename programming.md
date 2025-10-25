@@ -26,6 +26,8 @@ Programming
 * [The Best Github Repos for Self-Taught - DEV Community](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [30 seconds of code](https://www.30secondsofcode.org/)
+  * [30-seconds-of-code: Coding articles to level up your development skills](https://github.com/Chalarangelo/30-seconds-of-code)
 * [dev-info: 좋은 학습 자료 및 GitHub 활동 하시는 분들을 정리했습니다](https://github.com/cheese10yun/dev-info)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)
@@ -1005,6 +1007,8 @@ Programming
 * [제품개발을 주저하는 비개발자를 위해 | Disquiet\*](https://disquiet.io/@williamjung/makerlog/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4)
 * [간단한 스크립트라면 메모리 걱정은 안 해도 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3254/) OOM out of memory 메모리 누수 메모리 릭
 * [선언적 프로그래밍에 대한 착각과 오해](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)
+* [1.5시간 안에 바이브 코딩으로 수익형 미니앱 개발하고 3000만 유저에게 런칭하기 with 앱인토스 - YouTube](https://www.youtube.com/watch?v=SNOjrzGpUkQ)
+  * [(광고) 3000만 명 이상이 사용하는 ‘토스’ 앱 안에 내 서비스를 출시할 수 있는 '앱인토스' 기능이 생겼습니다! 아직 블루오션인 지금 바로 시작해 보세요!! (☕스타벅스 커피 100% 증정 & 수수료 및 마케팅 무료 이벤트 진행 중) 저도 직접 강의 촬영 겸 앱인토스로 'AI 사진관' 앱을 만들어 출시해 봤습니다. 디자인, 개발, 수익화… | 조동근](https://www.linkedin.com/posts/jocoding_%EA%B4%91%EA%B3%A0-3000%EB%A7%8C-%EB%AA%85-%EC%9D%B4%EC%83%81%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%86%A0%EC%8A%A4-%EC%95%B1-%EC%95%88%EC%97%90-%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%A0-ugcPost-7386035844832223232-2s0b)
 
 # Agile, Scrum
 * book
@@ -2336,6 +2340,10 @@ Programming
     * 코드 품질을 개선할 때 고민해야 할 부분과 기준이 될 레퍼런스를 제공한 부분 좋음
     * 코드를 본질적인 복잡성과 우발적인 복잡성을 나누어서 설명한 부분도 명쾌
     * 코드 품질 개선은 더 빨리 개발하기 위해서라는 부분도 좋은 기준이라고 생각
+* [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+  * [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
+  * [Every service should have a killswitch](https://www.seangoedecke.com/killswitches/)
+  * [좋은 시스템 설계에 대해 내가 아는 모든 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3401/)
 * [현대차의 모빌리티 서비스 플랫폼, 셔클 개발기 – 현대모터그룹 TECH](https://tech.hyundaimotorgroup.com/kr/developers-blog/hyundai-motor-companys-mobility-service-platform-shucle-development-story/)
 * [Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News](https://news.ycombinator.com/item?id=30986893)
 * [In defense of simple architectures](https://danluu.com/simple-architectures/)
@@ -7575,6 +7583,8 @@ Programming
 * [You should be reading academic computer science papers - Stack Overflow Blog](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
 * [ar5iv – Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
   * [ar5iv - arXiv의 PDf를 HTML5로 보기 | GeekNews](https://news.hada.io/topic?id=5874)
+* [arxiv에서 논문이나 최신 아티클을 읽으신다면 다음 방법을 사용해 보세요. 1) 특정 논문 사이트로 이동하신 다음 2) 브라우저 창의 URL 주소를 확인하세요. 3) 예를들어 https://www.arxiv.org/ 이하 주소...라는 사이트라면    https://www.alphaxiv.org/ 이하 주소...로 변경하세요. 즉 arxiv를… | 김덕중](https://www.linkedin.com/posts/duckjungkim_arxiv%EC%97%90%EC%84%9C-%EB%85%BC%EB%AC%B8%EC%9D%B4%EB%82%98-%EC%B5%9C%EC%8B%A0-%EC%95%84%ED%8B%B0%ED%81%B4%EC%9D%84-%EC%9D%BD%EC%9C%BC%EC%8B%A0%EB%8B%A4%EB%A9%B4-%EB%8B%A4%EC%9D%8C-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-activity-7385937040778981376-JQhU)
+  * [Explore | alphaXiv](https://www.alphaxiv.org/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [paperswelove.org](http://paperswelove.org/)
 
@@ -9642,6 +9652,9 @@ Programming
 * [npm 동네에 또 사고가 터졌나보다. 예전에는 어떤 패키지 오너가 자기 패키지를 삭제해 버려서 자바스크립트를 쓰는 수많은 회사들에서 난리가 났었는데, 이번에는 누군가가 작정하고 해킹을 했나보다. 이런 사건이 계속 터지는 건, npm 및 그와 유사한 시스템들이 구조상 근본적인 취약점을 가지고 있기 때문이 아닌가. 현대의 파퓰러한 소프트웨어 기술들 및… | Spike Jee](https://www.linkedin.com/posts/spike-jee-480225a_npm-%EB%8F%99%EB%84%A4%EC%97%90-%EB%98%90-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%84%B0%EC%A1%8C%EB%82%98%EB%B3%B4%EB%8B%A4-%EC%98%88%EC%A0%84%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%98%A4%EB%84%88%EA%B0%80-%EC%9E%90%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-activity-7371565046436605952-KP21)
   * [🚨 긴급 npm 생태계 대규모 보안 침해: 20억 다운로드 패키지 악성코드 감염 | 김남용](https://www.linkedin.com/posts/twodragon_%EA%B8%B4%EA%B8%89-npm-%EC%83%9D%ED%83%9C%EA%B3%84-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%B3%B4%EC%95%88-%EC%B9%A8%ED%95%B4-20%EC%96%B5-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-activity-7371476965255540736-Xxqm)
 * [이승현 - ☑️ 또다시 반복된 국가 IT 대란, 해법은 클라우드 네이티브+민간 클라우드 전환 ☑️ 이번 장애를 보면서... | Facebook](https://www.facebook.com/epoko/posts/pfbid02ue4UPyBqWT9QJWMgyvPPyCQMNDoYwr3scZgN5mZw9DM4cWFL1qV3uSfpn2SEKpmbl) 공통점은 SPoF
+* [Amazon brain drain finally caught up with AWS • The Register](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
+  * [오늘은 아마존의 인재 유출로 인해 AWS가 마침내 망가진 날 | GeekNews](https://news.hada.io/topic?id=23806)
+  * [AWS가 멈췄다고요? 멀티클라우드가 답은 아니다 | 포프머신](https://blog.popekim.com/ko/2025/10/23/aws-outage-multi-cloud.html)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
