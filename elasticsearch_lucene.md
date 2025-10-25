@@ -422,6 +422,8 @@ ElasticSearch - Lucene
 * [작은 청크 검색 문제를 해결하는 Contextual BM25F 전략 엿보기 👀](https://blog.sionic.ai/introducing-contextual-bm25f)
 * [I was wrong about robots.txt | Evgenii Pendragon](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
   * [robots.txt에 대해 내가 틀렸던 점 | GeekNews](https://news.hada.io/topic?id=22114)
+* [사용자에게 선택권을 주는 Cloudflare의 새로운 콘텐츠 신호 정책](https://blog.cloudflare.com/ko-kr/content-signals-policy/) robots.txt
+  * [Giving users choice with Cloudflare’s new Content Signals Policy | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_giving-users-choice-with-cloudflares-new-activity-7385816352097415168-BrWG)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
