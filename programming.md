@@ -941,6 +941,8 @@ Programming
       * 새로운 혁신적인 방법이나 변화가 있을지 주목할만
       * AWS와 생태계 파트너가 미래에 무엇을 만들어낼 수 있는지 기대
       * 미래에 더 많은 *반복과 개선*이 있을 것이고, 서버리스 월드는 이미 여기에 있으며 더 많은 발전 예상
+* [Embracing Complexity in Serverless • Sheen Brisals • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=zms-iepcLpw)
+  * [Embracing Complexity in Serverless • Sheen Brisals • GOTO 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6403918/6491186)
 * [Build Abstractions Not Illusions • Gregor Hohpe • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=aWZFRk-w3ng)
   * [VidiGo Build Abstractions Not Illusions • Gregor Hohpe •](https://vidigo.ai//chatbot/summary/lGxmUHkDfQ1PZpi)
     * 좋은 추상화는 인지 부하를 줄이면서도 필요한 복잡성을 적절히 노출시켜 개발자가 효율적으로 작업할 수 있게 돕는다
