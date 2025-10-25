@@ -448,6 +448,11 @@ NLP
   * [my write-up on understanding GRPO](https://www.linkedin.com/posts/activity-7374322924738084864-Zdcb/)
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
+* [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
+  * [How KV caching boosts LLM performance | Harshada Jivane posted on the topic | LinkedIn](https://www.linkedin.com/posts/harshadajivane_understanding-kv-caching-in-transformers-activity-7385951225428713472-e4HH)
+* [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 - YouTube](https://www.youtube.com/watch?v=zHQLPJ8-9Qc)
+  * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%88%98%EB%A7%8E%EC%9D%80-%EC%A0%95%EB%B3%B4%EB%8A%94-llm-%EB%AA%A8%EB%8D%B8-%EC%86%8D-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C-dl-7-activity-7386236075452764160-XNhk)
+    * 대규모 언어 모델(LLM), 특히 트랜스포머 아키텍처의 핵심 구성 요소인 멀티레이어 퍼셉트론(MLP) 레이어가 사실적 지식을 저장하고 처리하는 방식을 설명
 
 # 띄어쓰기
 
@@ -571,6 +576,7 @@ NLP
   * EMTs are evaluated on a new counterfactual retrieval Benchmark and compared to fine-tuned models
   * The results show that EMTs are competitive with fine-tuned models and outperform them when combined with more information and context
   * The talk also discusses the importance of citations in AI applications
+* [BERT is just a Single Text Diffusion Step | nathan.rs](https://nathan.rs/posts/roberta-diffusion/)
 * [2510.01149 ModernVBERT: Towards Smaller Visual Document Retrievers](https://arxiv.org/abs/2510.01149)
   * [ModernVBERT (ModernVBERT)](https://huggingface.co/ModernVBERT)
   * [작지만 강력한 멀티모달 임베딩 모델, ModernVBERT | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EC%A7%80%EB%82%9C-2%EB%85%84%EA%B0%84-vlm-%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9D%B4-%EB%8C%80%EC%84%B8%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-moca-vlm2vec-colpali-activity-7380071925659754496-kA2o)
@@ -2040,6 +2046,8 @@ NLP
       * LLMOps에 접근할 때 중요한 단계는 foundational 모델 선택부터 retrieval, generation, evaluation까지 다양한 parameter 및 구성 평가를 거쳐 fine-tuning과 prompt engineering 조합 가능
     * 평가를 위한 도구들, 특히 MLflow와 DeepChecks가 가장 잘 알려진 도구 중 하나
 * [Research on How to Create Data for Fine-Tuning](https://www.perplexity.ai/search/research-on-how-to-create-data-5hEr4F8lQd.D_AKU29IEhg)
+* [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities (Version 1.0)](https://arxiv.org/html/2408.13296v1)
+  * [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_the-ultimate-guide-to-fine-tuning-llms-from-activity-7387598858261831680-QDD8)
 * [Simplify LLMOps & Build LLM Pipeline in Minutes - YouTube](https://www.youtube.com/watch?v=4ijnajzwor8)
   * [VidiGo Simplify LLMOps & Build LLM Pipeline in Minutes](https://vidigo.ai//chatbot/summary/kupgzvNDYTVZHVI)
   * [몇 분 만에 LLMOps 간소화 및 LLM 파이프라인 구축 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/350318?sId=4ijnajzwor8)
@@ -2177,6 +2185,8 @@ NLP
 * [지극히 사적인 나만의 LLM, 가질 수 있을까? 2편 - WebGPU Build & Run](https://blog.sionic.ai/webgpu-build-and-run)
 * [LoRA is a genius idea](https://www.linkedin.com/posts/svpino_lora-is-a-genius-idea-to-understand-the-activity-7156653694069932032-2GO8/)
 * [LLM 파인튜닝 기법 LoRA에 대한 개념 이해](https://bcho.tistory.com/1452) PEFT, LoRA, Adapter
+* [Let's fine-tune a Small Vision Model - by Pau Labarta Bajo](https://paulabartabajo.substack.com/p/lets-fine-tune-a-small-vision-model)
+  * [Let's fine-tune a Small Vision Model | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-fine-tune-a-small-vision-model-activity-7385492040274526210-opjL)
 * MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
   * ["💡 LoRA를 넘어선 새로운 패러다임! MoRA가 메모리 문제를 해결하는 방법" - YouTube](https://www.youtube.com/watch?v=_goMNbhRIkI)
     * [AGI KR | 오늘 소개해드릴 논문은 "MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning"입니다 | Facebook](https://www.facebook.com/groups/agikr/posts/%EC%98%A4%EB%8A%98-%EC%86%8C%EA%B0%9C%ED%95%B4%EB%93%9C%EB%A6%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-mora-high-rank-updating-for-parameter-efficient-fine-tuning%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4-%EB%85%BC%EB%AC%B8/2442336092774101/)
@@ -2188,6 +2198,7 @@ NLP
     * [How I use LLMs |](https://lilys.ai/digest/2785246/977598)
   * [(1) Andrej Karpathy on X: "Power to the people: How LLMs flip the script on technology diffusion" / X](https://x.com/karpathy/status/1909308143156240538)
     * [(1) 김성완 - 안드레이 카파시의 에세이입니다. 인민에게 권력을: LLM이 기술 확산의 패턴을 뒤집다 혁신적인 기술은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0mHwpwVgLTmCyatpuqRN2ioDkqFfjuoXXGRkkTi5PH6hixTu21mxxqWjzmmH1suWHl)
+  * [김성완 - 최근 안드레이 카파시의 인터뷰 내용에 많이 동의합니다. 특히, 교육자의 관점에서 뭐든 제대로 이해하려면... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0qaBZEfFL3a7BbSYJKfaWvjRyynz6DzRb8N7qo3LXyir2WNq5d3aKMmqvmERV8riwl)
 * [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
 * [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
@@ -2481,6 +2492,8 @@ NLP
   * [MoE LLM은 "추가 훈련 없이" 무료로 임베딩 모델로 사용할 수 있습니다](https://www.linkedin.com/posts/jeffrey-dongkyu_%EC%9D%B4-moe-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%9E%84%EB%B2%A0%EB%94%A9-%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-activity-7341380955334483968--BDG/)
 * [노토랩 변형호 Mixture-of-Experts (MoE) 정리](https://bustling-pea-9a9.notion.site/Mixture-of-Experts-MoE-28193e636af1809ca756cbacea186bf6)
   * [노토랩 변형호 Mixture-of-Experts (MoE) 정리 | Notion | Hyungho Byun](https://www.linkedin.com/posts/hyungho-byun-6b2588224_%EB%85%B8%ED%86%A0%EB%9E%A9-%EB%B3%80%ED%98%95%ED%98%B8-mixture-of-experts-moe-%EC%A0%95%EB%A6%AC-notion-activity-7380441486330564608-KSy2)
+* [MoE (Mixture-of-Experts) | noviceforever](https://housekdk.gitbook.io/ml/genai/moe) MoE 딥다이브 기술 가이드
+  * [MoE (Mixture-of-Experts) | noviceforever | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_moe-mixture-of-experts-noviceforever-activity-7386671947801223168-R5WF)
 * [인공지능소사이어티 - 연구활용 실전 LLMs | Pega Devlog](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 * [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게 - tech.kakao.com](https://tech.kakao.com/posts/633)
 * [Jonas Kim - 지난주 AWS AI Day에서 'AI Agentic Workflow: 단순 업무 보조에서 비즈니스... | Facebook](https://www.facebook.com/aldente0630/posts/pfbid02VUugMrLApo6zftJv6UF4NGEtu9P2UQykm778tPE13ixdSFBXY6H3QobTW96sU5p6l)
@@ -4782,6 +4795,8 @@ NLP
 * [비지도 학습 기반의 경쟁적 신경 언어 모델로 단어 분할하기 | by 쿠팡 엔지니어링 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/unsupervised-competing-neural-language-model-for-word-segmentation-8f43ac811c7d)
 * [**You Should Probably Pay Attention to Tokenizers** - Cybernetist](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
   * [Tokenizer에 주의를 기울여야 합니다 | GeekNews](https://news.hada.io/topic?id=17398)
+* [Let’s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs – fast.ai](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers.html)
+  * [Let’s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs – fast.ai | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-build-the-gpt-tokenizer-a-complete-activity-7386148858172665856-Uf6Q)
 * [kortok: The code and models for "An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks" (AACL-IJCNLP 2020)](https://github.com/kakaobrain/kortok)
 
 # Topic Modeling
@@ -4851,6 +4866,7 @@ NLP
 * [전문 번역에서 고객 대응까지··· NLP 성공 사례 5선 - CIO Korea](https://www.ciokorea.com/news/255760)
 * [번역 모델 비교 - 성능, 시간, 요금 | Pega Devlog](https://jehyunlee.github.io/2023/02/20/Python-DS-128-transqual/)
 * [ML simple works - A Gentle Introduction to Creating an English-to-Korean translator with Transformers](https://metamath1.github.io/blog/posts/gentle-t5-trans/gentle_t5_trans.html)
+* [Adam Bittlingmayer - Accelerating Human-Quality Translation in the Real World - YouTube](https://www.youtube.com/watch?v=5Wrs_jmbOD4)
 * [cjk\_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
 * [dodari: AI 영한-한영 번역기, 도다리 en-ko/ ko-en AI translator](https://github.com/vEduardovich/dodari)
 * fairseq [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
