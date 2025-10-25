@@ -4427,7 +4427,6 @@ NLP
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
 # Paper
-
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
 * [EMNLP-IJCNLP 2019 프리뷰](https://blog.pingpong.us/emnlp2019-preview)
@@ -4484,6 +4483,10 @@ NLP
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
+* [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/tree/main)
+  * [이상선 - DeepSeek OCR — 문서 이해의 새로운 패러다임 핵심 요약 DeepSeek 팀이 공개한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid06mWUWBDdaVAqLWQ1u7r9pwRRpB9gBYHoiE3eKdMhiGZqSrC7s3Bp1m5kRpuyyYL5l)
+  * DeepEncoder [중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 | 텍스트를 이미지로 10배 압축 - YouTube](https://www.youtube.com/watch?v=S2VCvsE2iOk)
+  * [문서를 스캔떠서 LLM에 입력한다면 더 효율적이지 않을까? (w. DeepSeek) | 고영건](https://www.linkedin.com/posts/%EC%98%81%EA%B1%B4-%EA%B3%A0-860b262bb_deepseek-ocrdeepseekocrpaperpdf-at-main-activity-7386321067092381696-_3RM)
 
 # Parser
 
