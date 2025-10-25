@@ -2071,6 +2071,7 @@ Docker
     * GPU를 Kubernetes에 설치하는 부분
 * [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 - Bro's Lounge - CloudBro AI](https://www.cloudbro.ai/t/kubernetes-10/2799)
   * [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_kubernetes%EC%9D%98-%ED%94%BC%EB%A1%9C%EB%A5%BC-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%98%81%EC%8B%A0-%EB%8F%84%EA%B5%AC-10%EA%B0%9C-activity-7386165514374656000-8WYy)
+* [사이드카가 프로드를 멈춰 세웠다 원인: Pod 단위 프로브 설정 | Victor M. | 10 comments](https://www.linkedin.com/posts/victor-maltsev_kubernetes-devops-fluentbit-activity-7387379674911318016-W-iz) 관찰성(Observability)이 안정성을 잡아먹게 두지 말 것
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
