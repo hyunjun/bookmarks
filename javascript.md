@@ -67,6 +67,7 @@ Javascript
 * [JavaScript Garbage collection](https://techstack.hashnode.dev/javascript-garbage-collection)
 * [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
 * [그래서 자바스크립트는 어떻게 쓰레기를 수거하나요? - hyesungoh](https://www.hyesungoh.xyz/how-to-collect-garbage-in-js)
+* [실무자를 위한 자바스크립트 ‘가비지 컬렉션’ 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/3404/)
 * [V8 Engine 그것을 알아보자](https://blog.naver.com/pjt3591oo/222553226915)
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
@@ -908,6 +909,7 @@ Javascript
 * [초기 스타트업에서 프론트엔드 개발자로서 첫 세팅, 내가 선택한 것들](https://miryang.dev/blog/frontend-in-startup-chosen-things) supabase TypeScript pnpm Next.js Vercel Sentry React Native
 * [프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다! 모닥불 | EP.9](https://toss.tech/article/32583) optimization
 * [Javascript Security Best Practices | Security Articles](https://hub.corgea.com/articles/javascript-security-best-practices)
+* [jQuery부터 AI까지, 20년간 어떤 기술이 살아남았을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3400/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -5213,7 +5215,6 @@ Javascript
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
 * [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
-* [useHooks - One new React Hook recipe every day](https://usehooks.com)
 * [React UseEffect 어디까지 알아보고 오셨어요? | Medium](https://medium.com/@sgwanlee/useeffect%EC%9D%98-dependency-array-ebd15f35403a)
 * [리액트 useEffect 개발자가 알아야 할 네가지 팁 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20200916/)
 * [useEffect를 테스트 하는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201126)
@@ -5311,6 +5312,9 @@ Javascript
 * [토스ㅣSLASH 23 - 퍼널: 쏟아지는 페이지 한 방에 관리하기 - YouTube](https://www.youtube.com/watch?v=NwLWX2RNVcw)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 * [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
+* [useHooks - One new React Hook recipe every day](https://usehooks.com)
+  * [usehooks: A collection of modern, server-safe React hooks – from the ui.dev team](https://github.com/uidotdev/usehooks)
+    * [이상선 - 실무에 바로 쓰는 React Hooks 컬렉션 소개 - 핵심내용 - 다양한 실무 상황에 바로 적용 가능한... | Facebook](https://www.facebook.com/story.php?story_fbid=793269503320491&id=100001916096643)
 
 ## React Native
 * [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
