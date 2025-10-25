@@ -2069,6 +2069,8 @@ Docker
     * GPU가 사용가능한 Jupyter Notebook를 만드는 방법
   * [GPU Cluster Provisioning. In this article, we will show a process… | by DaeGon Kim | T3CH | Aug, 2025 | Medium](https://medium.com/h7w/gpu-cluster-provisioning-962cc723cc9c)
     * GPU를 Kubernetes에 설치하는 부분
+* [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 - Bro's Lounge - CloudBro AI](https://www.cloudbro.ai/t/kubernetes-10/2799)
+  * [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_kubernetes%EC%9D%98-%ED%94%BC%EB%A1%9C%EB%A5%BC-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%98%81%EC%8B%A0-%EB%8F%84%EA%B5%AC-10%EA%B0%9C-activity-7386165514374656000-8WYy)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
