@@ -262,6 +262,7 @@
 * [Rust & Zig Combined • Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [카카오워크 메시징 엔진의 Rust 교체 개발 사례 from C / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=opXVcycfMO4)
   * [카카오워크 메시징 엔진의 Rust 교체 개발 사례 from C - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-68)
+* [Kotlin to Rust: The Hard Truths of Rewriting a High-Scale Data Plane - YouTube](https://www.youtube.com/watch?v=sN78oLqfUaM)
 * [2022-INFCON-Rust-CrossPlatform: INFCON 2022 - Rust 크로스 플랫폼 프로그래밍 발표 자료 및 예제 코드](https://github.com/utilForever/2022-INFCON-Rust-CrossPlatform)
   * [Rust 크로스 플랫폼 프로그래밍 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=V6TR2FeCK5c)
 * [P99 CONF: Rust, Wright's Law, and the Future of Low-Latency Systems - YouTube](https://www.youtube.com/watch?v=cuvp-e4ztC0)
