@@ -1289,6 +1289,7 @@ AWS
 * [채널코퍼레이션의 Amazon DynamoDB와 함께한 아키텍처 현대화 여정 – 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/architecture-modernization-journey-of-channel-corporation-with-amazon-dynamodb-part2/)
 * [채널톡 스타트업 기술 성장기: RDBMS에서 NoSQL로의 전환 - YouTube](https://www.youtube.com/watch?v=hMTaMRsuIf8)
 * [삼성 클라우드의 Amazon DynamoDB 비용 최적화 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sec-cloud-amazon-dynamodb-cost-optimization-journey/)
+* [How Amazon Dynamo Works - by Saurabh Dashora](https://newsletter.systemdesigncodex.com/p/how-amazon-dynamo-works)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
