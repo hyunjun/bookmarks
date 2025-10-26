@@ -2024,6 +2024,9 @@ Programming
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
   * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
+  * [Caching in Distributed Systems - Part I](https://newsletter.francofernando.com/p/caching-in-distributed-systems-part)
+  * [Caching in Distributed Systems - Part II](https://newsletter.francofernando.com/p/caching-in-distributed-systems-part-6ca)
+  * [Caching in Distributed Systems - Part III](https://newsletter.francofernando.com/p/caching-in-distributed-systems-part-586)
   * [Cache made consistent: Meta’s cache invalidation solution | 문섭스블로그](https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/)
     * [Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역) | GeekNews](https://news.hada.io/topic?id=6725)
   * [Hard things in Computer Science](https://blog.frankel.ch/hard-things-computer-science/)
@@ -5750,6 +5753,8 @@ Programming
 * [Garry Tan on X: "Startups have to rediscover zero bug bounce Every few sprints get to zero P2 bugs before you start new feature work. Otherwise your product will be a low quality mess forever. One part of great craft is getting to zero known bugs regularly. https://t.co/ILuENEj0RC" / X](https://x.com/garrytan/status/1948488376870375571)
   * [Zero bug bounce, 좋은 제품을 향한 장인 정신](https://www.linkedin.com/posts/hiddenest_zero-bug-bounce-%EC%A2%8B%EC%9D%80-%EC%A0%9C%ED%92%88%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-y-combinator%EC%9D%98-activity-7358860067867185152-KUCT/)
 * [코드 수정 없는 디버깅이 생산성을 높인다](https://velog.io/@isanghao/%EC%BD%94%EB%93%9C-%EC%88%98%EC%A0%95-%EC%97%86%EB%8A%94-%EB%94%94%EB%B2%84%EA%B9%85%EC%9D%B4-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B8%EB%8B%A4)
+* [우아한 디버깅 툴 1부: 웹뷰/웹페이지 원격으로 디버깅하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/23343/)
+* [우아한 디버깅 툴 2부: 좀 더 편하게 일하기 위한 개선들 | 우아한형제들 기술블로그](https://techblog.woowahan.com/23457/)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
@@ -9660,6 +9665,7 @@ Programming
 * [Amazon brain drain finally caught up with AWS • The Register](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
   * [오늘은 아마존의 인재 유출로 인해 AWS가 마침내 망가진 날 | GeekNews](https://news.hada.io/topic?id=23806)
   * [AWS가 멈췄다고요? 멀티클라우드가 답은 아니다 | 포프머신](https://blog.popekim.com/ko/2025/10/23/aws-outage-multi-cloud.html)
+* [Postman이 내 컴퓨터에서만 동작하는 줄 알았는데, 현재 서비스 중단 발생 | GeekNews](https://news.hada.io/topic?id=23810)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
