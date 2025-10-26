@@ -1558,7 +1558,7 @@ Artificial Intelligence
   * [대박... 구글이 실시간으로 자신의 실수로부터 학습하는 AI를 공개했습니다. ReasoningBank에서는 대화 기록을 저장하는 대신, 실패 원인과 비효율적인 사고 패턴까지 함께 기록하는 방식을 제안했습니다. 예를 들어, 에이전트가 작업 중 3단계에서 실패했다면 단순히 "3단계에서 실패"로 끝나지 않고, 어떤 사고 과정이 틀렸는지, 왜 오류가 발생했는지를 기록합니다. 이후 비슷한 문제를 다시 만나면 이 데이터를 불러와 더 나은 접근법을 선택합니다. 이 시스템은 MaTTS(memory-aware test-time scaling)와 결합되어, 모델이 과거 시도 결과를 참고해 전략을 조정합니다. 추가 학습 없이도 작업 성공률이 34%, 수행 효율이 16% 향상됐습니다. 이 접근은 “모델을 키우는 것”이 아니라 “모델이 경험을 쌓는 것”에 가깝습니다. 모델이 스스로 학습 노트를 남기며 성장하는 구조로, 인간이 같은 실수를 반복하지 않기 위해 메모를 남기는 방식과 비슷합니다.](https://www.threads.com/@choi.openai/post/DPr6TDmE77b)
   * [하신승 - 1 천개의 뇌라는 책에서는 진정한 지능은 특정 영역에서 뛰어난 것이 아니라 배우고 적응하는 능력이라고... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0LRGvskp4pqqewu14aSbDGdwdMeXgfgAui6f13riXXUKExevqcRiJE5y59hsFdcTAl&id=100009326385897)
 * [2510.04033 A global log for medical AI](https://arxiv.org/abs/2510.04033)
-  * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409&mibextid=wwXIfr&rdid=Vn50sewVHbNzyHVg#)
+  * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409)
     * 활동기록(Log)를 남기는 것은 시스템 관리를 위해서도 중요한 일
     * EU AI Act에서도 기본 요구로 하고 있어, 이를 위한 "AI system logging" 표준도 ISO/IEC 24970으로 개발
 * [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
@@ -1569,7 +1569,7 @@ Artificial Intelligence
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
     * 앞으로 AI를 규제하려면, 무엇을 의도했는가보다 어떤 결과를 초래했는가를 중심으로 법과 제도를 재설계할 필요가 생길지도 모르겠다
-* [Contagious depression: Automatic mimicry and the mirror neuron system - A review - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763421005807?fbclid=IwY2xjawNpiqdleHRuA2FlbQIxMABicmlkETFKcm1Xek00WFRSNURIandBAR6cqOq-qhIiKRRcclid-j-7zIWVbSN4qgIeSWsEVXMQyrUjUwAL85flcUnztQ_aem_3Jnjyzoe75TTP2MSvOdYag)
+* [Contagious depression: Automatic mimicry and the mirror neuron system - A review - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763421005807)
   * [Tae Hyung Kim - 최근에 뇌인지 관련 AI 모델을 어떻게하면 잘 만들수 있을까 고민을 하면서 논문들을 보고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0yfMDmKb8KfWoyQod1BSWRCHEbyTuHuGaY2GBUnsd6xcpXofmsB43hWeWrneHRmVTl)
     * 비유하자면 감정은 공기 중의 미세먼지 같다
     * 이 미세먼지를 들이마시는 순간, 뇌 속의 거울신경(mirror neuron) 이 작동하기
@@ -1686,6 +1686,8 @@ Artificial Intelligence
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [Memex - Everything Builder for Your Computer](https://memex.tech/)
   * [10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트 | GeekNews](https://news.hada.io/topic?id=20698)
+* [Mistral AI Studio - your AI production platform | Mistral AI](https://mistral.ai/products/ai-studio)
+  * [🚀 Mistral AI Studio 출시: 기업 AI의 생산성 혁신을 위한 완성형 플랫폼](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Mistral-AI-Studio-%EC%B6%9C%EC%8B%9C-%EA%B8%B0%EC%97%85-AI%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%98%81%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%99%84%EC%84%B1%ED%98%95-%ED%94%8C%EB%9E%AB%ED%8F%BC)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
