@@ -344,6 +344,7 @@ Artificial Intelligence
 * [<애당초, AI> 코드가 공짜가 될 때, 진짜 돈은 어디서 나오는가](https://www.linkedin.com/pulse/%EC%95%A0%EB%8B%B9%EC%B4%88-ai-%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B3%B5%EC%A7%9C%EA%B0%80-%EB%90%A0-%EB%95%8C-%EC%A7%84%EC%A7%9C-%EB%8F%88%EC%9D%80-%EC%96%B4%EB%94%94%EC%84%9C-%EB%82%98%EC%98%A4%EB%8A%94%EA%B0%80-ethan-cho-sejac)
   * [조여준 - <애당초, AI> 코드가 공짜가 될 때, 진짜 돈은 어디서 나오는가 요즘 정말 하루하루 새로운 LLM과 툴... | Facebook](https://www.facebook.com/ethan.cho.12/posts/pfbid0AYUKYeLxF4SFrjme1fc3xS7uWecGuTUtBH7pAiv9TrKrFehaLjHbBWTSdR24fjVLl)
 * [AI는 8할이 프롬프트라..](https://chance-doe.tistory.com/34)
+* [“수학 공식으로 주가 예측”…8만명 투자대회 우승한 韓대학생 그! 사람 | David K.](https://www.linkedin.com/posts/zoominlife_%EC%88%98%ED%95%99-%EA%B3%B5%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A18%EB%A7%8C%EB%AA%85-%ED%88%AC%EC%9E%90%EB%8C%80%ED%9A%8C-%EC%9A%B0%EC%8A%B9%ED%95%9C-%E9%9F%93%EB%8C%80%ED%95%99%EC%83%9D-%EA%B7%B8-%EC%82%AC%EB%9E%8C-activity-7385199975649067008-OZ_k)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -550,6 +551,7 @@ Artificial Intelligence
   * [최승준 - AI 에이전트를 위한 효과적인 컨텍스트 엔지니어링 응용 AI 분야에서 몇 년 동안 프롬프트 엔지니어링이... | Facebook](https://www.facebook.com/seungjoon.choi/posts/10238051495041965)
   * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링](https://www.stdy.blog/korean-summary-effective-context-engineering-for-ai-agents/)
     * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링 | 배휘동](https://www.linkedin.com/posts/hwidongbae_%EC%9A%94%EC%95%BD-%EB%B2%88%EC%97%AD-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-activity-7381007159620386816-dB6t)
+* [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI | Towards Data Science](https://towardsdatascience.com/beyond-rag/)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
   * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
   * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
@@ -1797,6 +1799,7 @@ Artificial Intelligence
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
+* [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
@@ -2241,6 +2244,7 @@ Artificial Intelligence
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
   * [Prompting 1.1 - Lovable Documentation](https://docs.lovable.dev/tips-tricks/prompting-one)
   * [웹 디자인 자동 생성 및 코딩/배포. UI/UX 혁신! Figma AI 활용 - YouTube](https://www.youtube.com/watch?v=lpfhZMeYWzM)
+  * [Top design hacks for Lovable - by Felix Haas](https://designplusai.com/p/top-design-hacks-for-lovable)
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
