@@ -385,6 +385,7 @@ NLP
   * The article focuses on the pre-training and post-training pipelines of Alibaba's Qwen 2, Apple's foundation language models, and Google's Gemma 2
   * The author highlights the importance of data quality, the use of synthetic data, and the focus on long-context training and alignment
   * The article also mentions the popular two-phase post-training methodology, supervised instruction fine-tuning, and direct preference optimization (DPO)
+* [DPO 톺아보기 · likejazz.com](https://likejazz.com/dpo/)
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
 * [Fine-Grained Human Feedback으로 LLM을 더 잘 학습 할 수 있는가? | NeurIPS 2023 | 김강민 - YouTube](https://www.youtube.com/watch?v=JATgComUQiw)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
