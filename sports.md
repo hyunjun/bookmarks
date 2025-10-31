@@ -123,6 +123,7 @@ Sports
   * 기술의 발전을 잘 활용하는 곳이 메이저리그인데, 경기 판정은 유독 보수적으로 접근하면서 같은 문제가 반복
   * "100% 정확성이 어렵다면, 100% 일관성이라도 있어야 한다"
   * "여성 심판은 야구계 마지막 장벽 중 하나였다. 그러나 야구에는 여성 심판이 필요한 것이 아니라, 제대로 된 심판이 필요하다(A female umpire was one of baseball’s final barriers. But the sport didn’t just need a woman; it needed the right one)"
+* [김경문 감독은 듣고 있는가? 염경엽 감독의 포스트시즌 투수 운용을..."포스트시즌엔 맞은 투수를 계속 쓰면 계속 맞는다"](https://v.daum.net/v/20251031071713990)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
