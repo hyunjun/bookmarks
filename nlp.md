@@ -660,6 +660,8 @@ NLP
   * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/\~yogo/nnlp.pdf)
 * [practical-nlp: Official Repository for 'Practical Natural Language Processing' by O'Reilly](https://github.com/practical-nlp/practical-nlp)
 * [Quantitative corpus linguistics with R: a practical introduction](http://www.linguistics.ucsb.edu/faculty/stgries/research/qclwr/qclwr.html)
+* [The Smol Training Playbook: The Secrets to Building World-Class LLMs - a Hugging Face Space by HuggingFaceTB](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+  * [김성완 - The Smol Training Playbook: The Secrets to Building... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02pezwpwmVR58WL5nmhFZ7nuNWt8Pr7cCRX5zEGQbWFqYsnQ6t7k7X9L1EvcJ3g6rhl)
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/\~jurafsky/slp3/)
 
 # Category
@@ -3616,6 +3618,8 @@ NLP
     * [Sky-T1: $450로 o1 preview급의 고성능 추론 모델 훈련하기 | GeekNews](https://news.hada.io/topic?id=18764)
   * [smoothie-qwen: A lightweight adjustment tool for smoothing token probabilities in the Qwen models to encourage balanced multilingual generation.](https://github.com/dnotitia/smoothie-qwen)
     * [박상길 - 저희가 이번에 Smoothie Qwen이라는 이름의 오픈소스를 릴리즈 했습니다. - 공식 깃헙... | Facebook](https://www.facebook.com/likejazz/posts/pfbid0rFQJ9i2YMWf3z85XiqY1biDnmxJ5e6TesH5Vw4QRrnaNA93DNA8kYXSiD5XmY9Fzl)
+    * [캐럿 노트북 LM AI 검열 해제 스무디 의 혁신 - YouTube](https://www.youtube.com/watch?v=suwTPkaEZ_E)
+      * [양병석 - 이제 제 노트북에서 로컬 llm돌릴수 있는 환경이 됬습니다. 그런데 역시 deepseek답네요. ㅜㅡ... | Facebook](https://www.facebook.com/fstory97/posts/pfbid02pfex8AJ8z7v9KDa4HJR47x55LWPKFfi6TXfw1aERzGKSwRnNuhdnC2Gsgzh8wFcQl)
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX?trk=public_post_comment-text)
