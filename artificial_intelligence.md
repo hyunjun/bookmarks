@@ -1554,6 +1554,9 @@ Artificial Intelligence
   * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
   * [Tae Hyung Kim - 기다리던 훌륭한 논문이 드디어 나왔네요. 여러 대학 연구진과 IBM, 마이크로소프트... | Facebook](https://www.facebook.com/socialego/posts/pfbid02s8JSLPzGVfxYK5T9QBPEwJe1CQ8GUoQwKT6qoZkyd5EXEogu7Asj7wUR2VgXjkZxl)
+* [2507.18074 AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074)
+  * [장동인 - 중국 AI 연구자들이 무시무시한 논문을 냈습니다. 제목은 알파고 모먼트 라고 하지만 내용을 AI가 인간을... | Facebook](https://www.facebook.com/jang.cloud/posts/pfbid0tjSX4wfimS8HTUNBNfX7vtkGxg8meg7pxu4zdW83LfKUV1ATCGGTaiXD2JFoKZcul)
+    * 총 1,773회의 자율 실험과 20,000 GPU 시간을 통해 SOTA급 106개의 혁신적인 최첨단 아키텍처를 발견
 * [2509.25140 ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
   * [대박... 구글이 실시간으로 자신의 실수로부터 학습하는 AI를 공개했습니다. ReasoningBank에서는 대화 기록을 저장하는 대신, 실패 원인과 비효율적인 사고 패턴까지 함께 기록하는 방식을 제안했습니다. 예를 들어, 에이전트가 작업 중 3단계에서 실패했다면 단순히 "3단계에서 실패"로 끝나지 않고, 어떤 사고 과정이 틀렸는지, 왜 오류가 발생했는지를 기록합니다. 이후 비슷한 문제를 다시 만나면 이 데이터를 불러와 더 나은 접근법을 선택합니다. 이 시스템은 MaTTS(memory-aware test-time scaling)와 결합되어, 모델이 과거 시도 결과를 참고해 전략을 조정합니다. 추가 학습 없이도 작업 성공률이 34%, 수행 효율이 16% 향상됐습니다. 이 접근은 “모델을 키우는 것”이 아니라 “모델이 경험을 쌓는 것”에 가깝습니다. 모델이 스스로 학습 노트를 남기며 성장하는 구조로, 인간이 같은 실수를 반복하지 않기 위해 메모를 남기는 방식과 비슷합니다.](https://www.threads.com/@choi.openai/post/DPr6TDmE77b)
   * [하신승 - 1 천개의 뇌라는 책에서는 진정한 지능은 특정 영역에서 뛰어난 것이 아니라 배우고 적응하는 능력이라고... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0LRGvskp4pqqewu14aSbDGdwdMeXgfgAui6f13riXXUKExevqcRiJE5y59hsFdcTAl&id=100009326385897)
