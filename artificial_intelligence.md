@@ -1042,6 +1042,7 @@ Artificial Intelligence
   * [mcp-package-version: An MCP server that provides LLMs with the latest stable package versions when coding](https://github.com/sammcj/mcp-package-version)
   * [MCP Servers](https://mcp.so/)
   * [mcp-voice-agent at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/mcp-voice-agent)
+  * [mindsdb: Federated query engine for AI - The only MCP Server you'll ever need](https://github.com/mindsdb/mindsdb)
   * [notion-mcp-server: Official Notion MCP Server](https://github.com/makenotion/notion-mcp-server#readme)
     * [Claude 검색 기능 등장? Perplexity 와 Notion MCP 조합으로 업무 효율을 높이세요! - YouTube](https://www.youtube.com/watch?v=_v8RdolRazY)
   * [PyHub MCP Tools](https://mcp.pyhub.kr/)
