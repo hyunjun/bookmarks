@@ -1012,6 +1012,9 @@ Business
 * [CAPEX vs. 비용: PM의 전략적 판단을 가르는 5가지 질문](https://changyeong.ghost.io/identifying-true-capex-product-investments/)
 * [HRBP 선발과 육성, 살펴봐야 할 체크 포인트는?](https://www.hrinsight.co.kr/view/view.asp?in_cate=109&gopage=1&bi_pidx=38258)
   * [HRBP 선발과 육성, 살펴봐야 할 체크 포인트는? | Junsoo Kim](https://www.linkedin.com/posts/shurinke_hrbp-%EC%84%A0%EB%B0%9C%EA%B3%BC-%EC%9C%A1%EC%84%B1-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EC%B2%B4%ED%81%AC-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%8A%94-activity-7373858120449712128-B6UW)
+* [How to Keep Winning](https://amasad.me/keep-winning)
+  * [김정수 - "존버는 승리한다" 세계적인 AI 코딩 도구인 Replit의 성장곡선을 보면 떠오르는 말입니다. 연간 반복... | Facebook](https://www.facebook.com/kimjungsoo/posts/pfbid0AxPvnMN52tadPM9HEEY39ghvLrD1pPyh6yLPuihWSAiszoWHodmU9NxJN3MEeXaWl)
+    * 1. 죽지 마라 2. 절대 포기하지 마라 3. 몰입하라 (Lock In) 4. 어려운 일을 하라 5. 규칙을 지켜라 6. 다시 돌려줘라
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -3845,6 +3848,9 @@ Business
 * [5 Technical Skills Product Managers Should Have](https://www.codecademy.com/resources/blog/technical-skills-for-product-managers/)
 * [27가지 PM의 고민과 답변](https://minieetea.com/woowacon-2024-pm-mentoring/)
 * [Beyond Coding: The PM’s Secret Weapon for Technical Discussions | by Mariam J. | Product Coalition](https://medium.productcoalition.com/beyond-coding-the-pms-secret-weapon-for-technical-discussions-4e4f0d9fbe6d)
+* [Product Roadmapping with AI: Why Product Managers Should Pay Attention | by Pankaj Bisht | Agile Insider | Medium](https://medium.com/agileinsider/product-roadmapping-with-ai-why-product-managers-should-pay-attention-c8a56c99c134)
+  * [로드맵도 AI가 쓰는 시대, 그럼 PM은 뭘 해야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3415/)
+    * AI가 방대한 데이터에서 인사이트를 추출하고, 우선순위 결정과 협업 과정에 도움을 주면서 제품 개발의 효율성과 민첩성이 크게 향상
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
