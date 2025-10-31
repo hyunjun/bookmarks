@@ -2724,6 +2724,8 @@ App
   * [RSS 피드 리더 현황 | GeekNews](https://news.hada.io/topic?id=23545)
 * [crssnt: 🥐 Open source RSS feed generator for Google Sheets](https://github.com/tgel0/crssnt)
   * [crssnt - 구글 시트에서 RSS 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4860)
+* [HN RSS Translator - Multilingual Hacker News Feeds (Korean, English, Japanese, and 1 more)](https://hevinxx.github.io/hn-summary-and-translate/)
+  * [HN RSS Translator - Hacker News를 AI로 요약하고 번역하는 무료 | GeekNews](https://news.hada.io/topic?id=23750)
 
 # Screen marker
 * [macOS Screen Annotation Tools: What's the best app? - 9to5Mac](https://9to5mac.com/2020/05/03/macos-screen-annotation-tools/)
