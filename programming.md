@@ -3967,6 +3967,17 @@ Programming
 * [“비용 차이 10배 이상” 클라우드보다 코로케이션이 HPC에 더 적합한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/285793)
 * [블로그 | 클라우드 비용을 절감하고 IT 운영을 개선하는 5가지 지혜 - CIO Korea](https://www.ciokorea.com/news/285685)
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
+* [AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
+  * [AWS에서 베어메탈로 이전한 지 2년: AWS 탈출에 대한 질문에 답하다 | GeekNews](https://news.hada.io/topic?id=24011)
+    * 셀프호스팅 성공담엔 확증편향
+      * 서버 직접 운영은 초기엔 좋아 보이지만, 1년쯤 지나면 문서와 실제 설정이 달라지고, 담당자가 퇴사하면 혼란 증가
+      * 결국 많은 스타트업이 다시 AWS로 돌아감. 이런 실패담은 잘 공유되지 않음
+    * 베어메탈을 잘 돌리려면 숙련된 엔지니어 필요. 신입이나 컨설팅 회사 출신 “클라우드 전문가”로는 어려움
+    * 클라우드는 초기 스타트업엔 유용
+      * 용량 계획 걱정 없이 빠르게 성장 가능
+      * 하지만 성장률이 낮은 회사가 계속 클라우드에 머무르면 비효율적
+    * 온프레미스는 커스텀화가 심해 인력 교체 어려움. 반면 AWS 인력은 어디서나 구할 수 있음
+    * 숙련된 시스템 관리자는 실제로 구하기 어렵고 비쌈. 싸게 하려다 백업이 2년째 안 된 경우도 봄
 * [달러💰 이렇게 비싸져도 되냐?! AWS를 탈출하고 비용절약하자! | Disquiet\*](https://disquiet.io/@bamchi/makerlog/%EB%8B%AC%EB%9F%AC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B9%84%EC%8B%B8%EC%A0%B8%EB%8F%84-%EB%90%98%EB%83%90-aws%EB%A5%BC-%ED%83%88%EC%B6%9C%ED%95%98%EA%B3%A0-%EB%B9%84%EC%9A%A9%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
 * [Fastmail이 자체 하드웨어를 사용하는 이유 | GeekNews](https://news.hada.io/topic?id=18388) 절약 비용절감
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
