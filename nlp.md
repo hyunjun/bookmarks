@@ -4498,6 +4498,8 @@ NLP
     * [(3) 전종홍 - 250개의 샘플만으로도 LLM 학습데이터 오염과 변조가 가능하고 그것을 기반으로한 추가 공격이 가능하다는... | Facebook](https://www.facebook.com/story.php?story_fbid=10164607057756410&id=683301409)
 * [2510.13928 LLMs Can Get "Brain Rot"!](https://www.arxiv.org/abs/2510.13928)
   * [Tae Hyung Kim - 최근 공개된 한 논문이 시선을 사로잡았다. 제목부터 엄청나다. 거대 언어모델(LLM)도... | Facebook](https://www.facebook.com/socialego/posts/pfbid0DJgczRpXqmoWUnZ6JUMzAcgNYJyavKiBGbXNM2abDvBofQe96TJVQLYgXLxNUd3Cl)
+* 2510.24701 [Tongyi DeepResearch Technical Report | alphaXiv](https://www.alphaxiv.org/abs/2510.24701v1)
+  * [이승현 - ☑️ “답을 잘하는 모델”에서 “조사를 잘하는 모델” 로 ☑️ <Tongyi DeepResearch... | Facebook](https://www.facebook.com/epoko/posts/pfbid02SAA7WhqM6Ry8qyvM3QWwdGTSLkD5GEPQgXgeKDWkyCgxe2KAC5y851AsKVs8BHnwl)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
