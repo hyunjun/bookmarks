@@ -1834,9 +1834,12 @@ Artificial Intelligence
       * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
     * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
-  * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
-    * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
-    * [Claude의 Skills 구조를 보고나서 든 생각은 AI 생태계의 Amazon Web Services (AWS) Lambda 라는 생각이 들었다. 왜 OpenAI , Anthropic 이 계속 Infra Engineer 를 채용하는지도 알것 같다. 이제 LLM의 확장이 어떤 형태로 될지도 어느 정도 이해된다. 단 ChatGPT 는 User… | Jedi Kim](https://www.linkedin.com/posts/jedikim_claude%EC%9D%98-skills-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C-%EB%93%A0-%EC%83%9D%EA%B0%81%EC%9D%80-ai-%EC%83%9D%ED%83%9C%EA%B3%84%EC%9D%98-amazon-activity-7385502936623357952-y73d)
+  * [Claude Skills: Customize AI for your workflows \ Anthropic](https://www.anthropic.com/news/skills)
+    * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
+      * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
+      * [Claude의 Skills 구조를 보고나서 든 생각은 AI 생태계의 Amazon Web Services (AWS) Lambda 라는 생각이 들었다. 왜 OpenAI , Anthropic 이 계속 Infra Engineer 를 채용하는지도 알것 같다. 이제 LLM의 확장이 어떤 형태로 될지도 어느 정도 이해된다. 단 ChatGPT 는 User… | Jedi Kim](https://www.linkedin.com/posts/jedikim_claude%EC%9D%98-skills-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C-%EB%93%A0-%EC%83%9D%EA%B0%81%EC%9D%80-ai-%EC%83%9D%ED%83%9C%EA%B3%84%EC%9D%98-amazon-activity-7385502936623357952-y73d)
+    * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
+      * [streamlit + claude agent sdk (MCP+Skills)로 구현한 예제 | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_anthropic-claude-aws-ugcPost-7387001174740234240-R8a1/)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -1941,6 +1944,7 @@ Artificial Intelligence
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
+  * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
       * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
@@ -2309,6 +2313,8 @@ Artificial Intelligence
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
   * [AI가 디자인 다 해줍니다! | Figma 소개 및 Windsurf에서 Figma MCP 사용하는 방법, Talk to Figma MCP 설치 및 프로그램 GUI 디자인 - YouTube](https://www.youtube.com/watch?v=oYZl8tWTj-c)
   * [“개발 속도 99% 더 빠르게 만들 것”··· 윈드서프, 코딩 특화 AI 모델 ‘SWE-1’ 공개 | CIO](https://www.cio.com/article/3987217/%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84%eb%a5%bc-99-%eb%8d%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ea%b2%83%c2%b7%c2%b7%c2%b7-%ec%9c%88%eb%93%9c%ec%84%9c%ed%94%84.html)
+* [WrenAI: ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds](https://github.com/Canner/WrenAI)
+  * [Generative BI Agent that lets you query any database in plain language and instantly get accurate SQL, charts, and AI-generated insights | LinkedIn](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7387390598065897473-yrML/)
 
 ## Tool coding assistant SDD Spec Driven Development
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
