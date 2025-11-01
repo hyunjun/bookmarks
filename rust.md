@@ -430,6 +430,9 @@
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [shellfirm: Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification](https://github.com/kaplanelad/shellfirm)
+* [sierradb: SierraDB: The immutable database for events](https://github.com/sierra-db/sierradb)
+  * [SierraDB: A Distributed Event Store Built in Rust | Ari Seyhun](https://tqwewe.com/blog/building-sierradb/)
+    * [SierraDB: A Distributed Event Store Built in Rust | Alexander Reelsen](https://www.linkedin.com/posts/alexanderreelsen_sierradb-a-distributed-event-store-built-activity-7388936678599467009-23gv)
 * Slint [Design to Deploy — Slint](https://slint.dev/)
   * [Slint: 크로스플랫폼 경량 GUI 런타임 | GeekNews](https://news.hada.io/topic?id=15666)
 * [Slitter - a C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features](https://github.com/backtrace-labs/slitter)
