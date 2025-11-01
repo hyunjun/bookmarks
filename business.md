@@ -2883,6 +2883,7 @@ Business
   * [요즘 왜 ’리더 하기‘가 점점 어려워졌나? (SK아카데미 임창현 박사) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5436050/5020100)
 * [#리더십 #리더십스킬맵 #leaderskillmap #leadershipmap | 백종화](https://www.linkedin.com/posts/elfpenguin_reeqyssxh-reeqyssxhswmtnqrfz-leaderskillmap-activity-7370817849407430657-EoNe)
 * [AI 시대, 대체 불가능한 5가지 리더십 역량 ❖ AI 시대의 리더십 패러다임... - Duke Donghyun Kim | Facebook](https://www.facebook.com/706739147/posts/10166173114084148/)
+* [팀장님, 뭘 모르는지를 모르겠어요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3417/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4462,6 +4463,10 @@ Business
   * [이코노미스트 - 실리콘밸리 스타트업은 왜 그렇게 빨리 실패하는가 실리콘밸리의 사람들](https://economist.co.kr/article/view/ecn202507290029)
     * 실리콘밸리의 성공 비결은 '실패를 두려워하지 않는 문화'가 아니라 '실패를 전략적으로 설계하는 시스템'
     * 마크 저커버그 "가장 큰 리스크는 리스크를 취하지 않는 것이다."
+* [의료 AI 스타트업은 어떻게 해자를 쌓고 8조원 회사가 되었을까요? 며칠전 OpenEvidence는 약 8조원 밸류에이션으로 약 3천억원을 투자받았습니다. 단 3개월 만에 밸류에이션이 2배가 되었습니다. 2022년 설립 3년 만에 미국 의사의 40%가 매일 사용하는 플랫폼이 되었습니다. ChatGPT가 의료 질문에도 답할 수 있는 시대에, 어떻게 이런… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EC%9D%98%EB%A3%8C-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%9E%90%EB%A5%BC-%EC%8C%93%EA%B3%A0-8%EC%A1%B0%EC%9B%90-%ED%9A%8C%EC%82%AC%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94-%EB%A9%B0%EC%B9%A0%EC%A0%84-activity-7386872734380773376-PYsF)
+  * 1단계: 신뢰를 설계하다 (2022-2023)
+  * 2단계: 습관이 해자가 되다 (2023-2024)
+  * 3단계: 성공이 파트너십을 부르다 (2025)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
