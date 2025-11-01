@@ -5557,6 +5557,10 @@ Programming
 * [안전한 패스워드의 저장 - Google Slides](https://docs.google.com/presentation/d/17BQy1kQA_rIbY41HOFM8icM9eOo7zVkgXJAKPaW8j_M/edit) 결론: argon2 사용하자
 * [Product Security Bad Practices | CISA](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices)
   * [제품 보안에 있어 나쁜 방식 | GeekNews](https://news.hada.io/topic?id=18823)
+* [Introducing Aardvark: OpenAI’s agentic security researcher | OpenAI](https://openai.com/index/introducing-aardvark/)
+  * GPT‑5 기반의 에이전트 Aardvark를 공개해 코드 취약점을 자율 분석·검증·수정하는 보안 AI 시스템 공개
+  * 기존 도구보다 정밀도가 높고, 내부 테스트에서 92%의 취약점 탐지율 기록
+  * 오픈소스 생태계 보안을 강화하기 위한 무료 스캐닝 제공도 계획 중
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
@@ -8688,6 +8692,7 @@ Programming
   * [(1) 이일민 - https://www.youtube.com/watch?v=1A6uPztchXk 모든 개발자의 필독서인... | Facebook](https://www.facebook.com/1070166746/posts/10233463679068461/)
     * 좋은 소프트웨어는 여전히 명확한 사고, 좋은 설계, 철저한 테스팅을 요구
     * 바이브 코딩이 아니라, 정밀한 의도 명세와 자동화된 검증으로 무장한 AI 보조 엔지니어링—이것이 진짜 미래
+* [내가 '소프트웨어 공학'에 관심을 가지게 된 것은 업계에 들어와서 약 5~6년 정도 되었을 때, 일이 생각처럼 잘 진행되지 않는다는 생각 때문이었다. 내가 그동안 배운 여러 좋다는 프로그래밍 기법들이 프로젝트 진행에는 별 도움이 되지 않아 보였다. 하지만, 수년간 탐구한 소프트웨어 공학도 별 도움이 되지 않았다. 어느 날 한 교수님과 나눈 대화에서 그… | 박성철](https://www.linkedin.com/posts/fupfin_%EB%82%B4%EA%B0%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%84-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%9C-%EA%B2%83%EC%9D%80-%EC%97%85%EA%B3%84%EC%97%90-%EB%93%A4%EC%96%B4%EC%99%80%EC%84%9C-%EC%95%BD-5-activity-7390210271127969793-y-22)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
