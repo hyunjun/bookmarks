@@ -345,6 +345,7 @@ Artificial Intelligence
   * [조여준 - <애당초, AI> 코드가 공짜가 될 때, 진짜 돈은 어디서 나오는가 요즘 정말 하루하루 새로운 LLM과 툴... | Facebook](https://www.facebook.com/ethan.cho.12/posts/pfbid0AYUKYeLxF4SFrjme1fc3xS7uWecGuTUtBH7pAiv9TrKrFehaLjHbBWTSdR24fjVLl)
 * [AI는 8할이 프롬프트라..](https://chance-doe.tistory.com/34)
 * [“수학 공식으로 주가 예측”…8만명 투자대회 우승한 韓대학생 그! 사람 | David K.](https://www.linkedin.com/posts/zoominlife_%EC%88%98%ED%95%99-%EA%B3%B5%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A18%EB%A7%8C%EB%AA%85-%ED%88%AC%EC%9E%90%EB%8C%80%ED%9A%8C-%EC%9A%B0%EC%8A%B9%ED%95%9C-%E9%9F%93%EB%8C%80%ED%95%99%EC%83%9D-%EA%B7%B8-%EC%82%AC%EB%9E%8C-activity-7385199975649067008-OZ_k)
+* [🚀 AI 인프라 엔지니어: LLM 시대의 엔지니어링 백본 역할 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B0%B1%EB%B3%B8-%EC%97%AD%ED%95%A0-activity-7389819601339187200-0od1) AI Infra Engineer
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -466,6 +467,11 @@ Artificial Intelligence
 * [Introducing Agent HQ: Any agent, any way you work - The GitHub Blog](https://github.blog/news-insights/company-news/welcome-home-agents/)
   * [Introducing Agent HQ: Any agent, any way you work | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-agent-hq-any-agent-any-way-activity-7389411287853821952-3kK_)
 * [Multi Agent 시스템 Scaling Out Architecture(Hybrid Cloud) | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_multi-agent-%EC%8B%9C%EC%8A%A4%ED%85%9C-scaling-out-architecture-ugcPost-7389311558046138368-Wcwh)
+* [Agentic AI의 엔지니어링 복잡도 작년부터 Agentic AI가 시장에서 급부상하며 온갖 기술 논의의 중심에 서있습니다. AI 도메인에 종사하지 않는 사람이라도 MCP, Agent라는 말을 많이 들어보셨을 겁니다. 이 글은 지난 1년 반 동안 AI 도메인 최전선에서 개발했던 경험을 다룹니다. 제가 만들던 앱은 순도 99% LLM으로… | Sin-Woo Bang](https://www.linkedin.com/posts/sinwoobang_agentic-ai%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EC%9E%91%EB%85%84%EB%B6%80%ED%84%B0-agentic-ai%EA%B0%80-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-activity-7387109850272522240-_JWu)
+* [New trend: programming by kicking off parallel AI agents - The Pragmatic Engineer](https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/)
+  * 여러 AI 코딩 에이전트를 병렬로 실행해 작업 효율을 높이는 새로운 프로그래밍 트렌드 설명
+  * 특히 숙련된 시니어 개발자들이 병렬 에이전트를 활용해 여러 과제를 동시에 처리하며 생산성이 상승하는 경험
+  * 하지만 일부 개발자는 에이전트가 생산성을 '느끼게'만 할 뿐 실제로는 코드 리뷰 병목 등 한계도 존재한다고 평가
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
@@ -496,6 +502,7 @@ Artificial Intelligence
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode?trk=public_post_comment-text)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
+* [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
@@ -560,6 +567,9 @@ Artificial Intelligence
   * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링](https://www.stdy.blog/korean-summary-effective-context-engineering-for-ai-agents/)
     * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링 | 배휘동](https://www.linkedin.com/posts/hwidongbae_%EC%9A%94%EC%95%BD-%EB%B2%88%EC%97%AD-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-activity-7381007159620386816-dB6t)
 * [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI | Towards Data Science](https://towardsdatascience.com/beyond-rag/)
+* [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
+  * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
+    * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
   * AI 개발에 있어 중요성이 날로 커지고 있는 '컨텍스트 엔지니어링'에 관한 포괄적인 리소스 모음
   * 이 레포지토리는 컨텍스트 최적화, 프롬프트 엔지니어링, 레트리벌 증강 생성(RAG), 학습된 정보 검색 등 다양한 컨텍스트 관련 기술에 대한 논문, 도구, 튜토리얼을 체계적으로 정리
@@ -1821,6 +1831,8 @@ Artificial Intelligence
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
 * [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
+* [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme?trk=public_post_feed-article-content)
+  * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
