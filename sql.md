@@ -1549,6 +1549,10 @@ SQL
 * [pgcat - Enhanced PostgreSQL logical replication](https://github.com/kingluo/pgcat)
 * [pgcat: Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support](https://github.com/levkk/pgcat)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
+* [pg_easy_replicate: Easily setup logical replication and switchover to new database with minimal downtime](https://github.com/shayonj/pg_easy_replicate)
+  * PostgreSQL 데이터베이스 간 논리적 복제를 간편하게 설정하는 CLI 도구
+  * 소스 데이터베이스를 타깃 데이터베이스로 복제하고, 스위치오버(주 데이터베이스 변경)를 최소한의 다운타임으로 수행하는 데 중점
+  * AWS, GCP 환경에서도 특수 사용자 권한을 지원, 복제 중 발생하는 스키마 변경(DDL) 관리 기능도 포함
 * [pg_flame - A flamegraph generator for Postgres EXPLAIN ANALYZE output](https://github.com/mgartner/pg_flame)
 * [pg_flo - Stream, transform, and route PostgreSQL data in real-time.](https://www.pgflo.io/)
   * [pg_flo – PostgreSQL 데이터를 실시간으로 스트리밍, 변환 및 재라우팅 | GeekNews](https://news.hada.io/topic?id=17585)
