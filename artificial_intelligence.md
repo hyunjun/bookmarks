@@ -423,6 +423,8 @@ Artificial Intelligence
 * [Small Language Models are the Future of Agentic AI](https://www.linkedin.com/posts/dongsoo-lee-45028017_small-language-models-are-the-future-of-activity-7363470813943001088-dmQs/)
 * [Unplugged 2025-08 AI Agent를 이용한 개발 - Visual Studio 2022에서 GitHub Copilot Agent로 개발하기 - dimohy - YouTube](https://www.youtube.com/watch?v=RToioPfGKQI)
   * [Unplugged 2025-08 AI Agent를 이용한 개발 - Visual Studio 2022에서 GitHub Copilot Agent로 개발하기 - dimohy | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5463037/5060655)
+* [All Products - LangChain Academy](https://academy.langchain.com/collections/quickstart)
+  * LangChain에서 Python과 TypeScript 기반의 에이전트 구축을 빠르게 배울 수 있는 무료 강좌가 공개
 * [Agentic PMF: 단순히 기존 업무를 자동화하는 것을 넘어, AI 에이전트를 팀의 핵심 멤버(주니어 리서처, 개발자, 분석가)처럼 활용하여 PMF(Product-Market Fit) 또는 Re-PMF를 찾는 과정의 가설-검증 사이클을 극단적으로 단축시키는 접근법](https://www.linkedin.com/posts/jungsungyoung_agentic-pmf-%EB%8B%A8%EC%88%9C%ED%9E%88-%EA%B8%B0%EC%A1%B4-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%84%98%EC%96%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7355593283143700480-rAvj/)
 * [Agentic Design Patterns - Google Docs](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit)
   * [Agentic Design Patterns의 사본 - Google Docs](https://docs.google.com/document/d/1b4Zah1XUfs-NYJMbhELFvKeUcJY6HP1zlR9qlBG_A_k/edit)
@@ -1838,6 +1840,8 @@ Artificial Intelligence
     * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
       * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
       * [Claude의 Skills 구조를 보고나서 든 생각은 AI 생태계의 Amazon Web Services (AWS) Lambda 라는 생각이 들었다. 왜 OpenAI , Anthropic 이 계속 Infra Engineer 를 채용하는지도 알것 같다. 이제 LLM의 확장이 어떤 형태로 될지도 어느 정도 이해된다. 단 ChatGPT 는 User… | Jedi Kim](https://www.linkedin.com/posts/jedikim_claude%EC%9D%98-skills-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C-%EB%93%A0-%EC%83%9D%EA%B0%81%EC%9D%80-ai-%EC%83%9D%ED%83%9C%EA%B3%84%EC%9D%98-amazon-activity-7385502936623357952-y73d)
+    * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
+      * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
       * [streamlit + claude agent sdk (MCP+Skills)로 구현한 예제 | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_anthropic-claude-aws-ugcPost-7387001174740234240-R8a1/)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
