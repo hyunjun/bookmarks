@@ -1873,6 +1873,8 @@ Business
 * [CTO의 역할, 그리고 개발자?](https://brunch.co.kr/@chickenmoim/35)
 * [How to Hire a CTO | Khosla](https://www.khoslaventures.com/how-to-hire-a-cto/)
   * [CTO를 뽑는 방법 - 코슬라벤처스 | GeekNews](https://news.hada.io/topic?id=19660)
+* [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto) 본인은 모르겠지만 안 좋은 사례일 가능성이 높음
+  * [CTO로서 내가 코드를 작성하는 이유 | GeekNews](https://news.hada.io/topic?id=23930)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
