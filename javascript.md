@@ -5206,6 +5206,8 @@ Javascript
   * [2025년 리액트 기술 스택 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/3029/)
 * [React Won by Default – And It's Killing Frontend Innovation | Loren Stewart](https://www.lorenstew.art/blog/react-won-by-default/)
   * [React가 기본값으로 승리하고 있으며 프론트엔드 혁신을 늦추고 있음 | GeekNews](https://news.hada.io/topic?id=23111)
+* [What’s new in React 19.2.0. React 19.2.0 introduces significant… | by Onix React | Oct, 2025 | Medium](https://medium.com/@onix_react/whats-new-in-react-19-2-0-04b9019ceb27)
+  * [번역 리액트 19.2.0의 새로운 기능. 원문… | by 조영제 | Oct, 2025 | Medium](https://siosio3103.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-19-2-0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-ebda8956006f)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
