@@ -928,6 +928,8 @@ Python
   * [AI Convergence :: Python 여러 Dictionary 병합하기](https://mobicon.tistory.com/619)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
+  * [PyLingual](https://pylingual.io/)
+    * [파이썬은 역컴파일이 매우 쉽다 | Jiyoung Lee](https://www.linkedin.com/posts/jaylee86_pylingual-activity-7389957098891087872-YWKl)
 * encoding
   * practice
     * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
