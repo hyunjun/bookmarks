@@ -2566,6 +2566,8 @@ Docker
       * [온프레미스 쿠버네티스 프로덕션 환경 10개월 운영기.pdf - Google Drive](https://drive.google.com/file/d/1Atl5TPsIaPMQuRCWMhtr1LY17Qz7inp-/view)
     * [온프레미스 쿠버네티스에서 NAS, GPU 사용하기 (with RKE2, NFS, gpu-operator) | by Kevin Jo | 오토피디아 | Aug, 2022 | Medium](https://medium.com/autopedia/%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%97%90%EC%84%9C-gpu-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-with-rke2-gpu-operator-12ec53919a25)
 * [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
+* [rustcost](https://github.com/rustcost)
+  * [Cloud 자원의 효율적 사용과 비용 최적화를 목표로 하는 FinOps 도구 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_rustcost-activity-7389199355246714881-4OKL)
 * [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
   * [GitOps Secret 관리 | 커피고래의 노트](https://coffeewhale.com/sealedsecret)
     * GitOps를 할 때 시크릿은 Git 저장소에 넣을 수가 없으므로 이 부분을 따로 관리해야 하는데 이 부분을 해결하기 위해서 SealedSecret 이용 방법 설명
