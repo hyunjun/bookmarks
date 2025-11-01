@@ -3678,6 +3678,7 @@ NLP
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
   * [LLM AWS T4 GPU 서버에서 vllm 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/07/08/llm-aws-t4-gpu-vllm/)
   * [LLM llama3.1을 vllm API를 통해 서빙해보자. (feat. FastAPi) - 미완성의신](https://unfinishedgod.netlify.app/2024/07/26/llm-llama3-1-vllm-api-feat-fastapi/)
+  * [SOLID 원칙의 최고 예제! vLLM | Kyunam Cho](https://www.linkedin.com/posts/mystous_vllm-llm-pagedattention-ugcPost-7389894978275217409-NFA3)
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
