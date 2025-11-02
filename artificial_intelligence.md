@@ -348,6 +348,7 @@ Artificial Intelligence
 * [🚀 AI 인프라 엔지니어: LLM 시대의 엔지니어링 백본 역할 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B0%B1%EB%B3%B8-%EC%97%AD%ED%95%A0-activity-7389819601339187200-0od1) AI Infra Engineer
 * [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
   * ["외과의사"처럼 코딩하기 | GeekNews](https://news.hada.io/topic?id=23912)
+* [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
