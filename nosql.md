@@ -12,8 +12,8 @@ NoSQL
 * [2015년 4월 9일자 오픈소스 임베디드 DB 리스트](http://blog.hazard.kr/archives/412)
 * [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
-* [The CAP FAQ](The CAP FAQ)
 * [CAP theorem](http://blog.seulgi.kim/2018/03/cap-theorem.html)
+* [이놈의 링크드인은 글을 수정하고 저장을 해도 한참동안 글이 수정 전 상태로 보이는 것 같다. 그래서 그 글을 다시 수정하면 수정했던 건 날아가는 것 같다. Eric Brewer의 CAP 이론에서 말하는 A와 P를 위해 C를 희생한 거라 할 수 있을까? 돈도 많을텐데 어지간히 다 되게 만들면 안될까. | Spike Jee](https://www.linkedin.com/posts/spike-jee-480225a_%EC%9D%B4%EB%86%88%EC%9D%98-%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8%EC%9D%80-%EA%B8%80%EC%9D%84-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%9D%84-%ED%95%B4%EB%8F%84-%ED%95%9C%EC%B0%B8%EB%8F%99%EC%95%88-%EA%B8%80%EC%9D%B4-%EC%88%98%EC%A0%95-%EC%A0%84-%EC%83%81%ED%83%9C%EB%A1%9C-activity-7390239098046783488-hLY4) 재미있어서 기록
 * [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/) CAP 이론을 설명 증명
 * [EP06: CAP Theorem & NoSQL BASE Properties - YouTube](https://www.youtube.com/watch?v=IRFbhR3Ei7E)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
