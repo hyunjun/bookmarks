@@ -346,6 +346,8 @@ Artificial Intelligence
 * [AI는 8할이 프롬프트라..](https://chance-doe.tistory.com/34)
 * [“수학 공식으로 주가 예측”…8만명 투자대회 우승한 韓대학생 그! 사람 | David K.](https://www.linkedin.com/posts/zoominlife_%EC%88%98%ED%95%99-%EA%B3%B5%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A18%EB%A7%8C%EB%AA%85-%ED%88%AC%EC%9E%90%EB%8C%80%ED%9A%8C-%EC%9A%B0%EC%8A%B9%ED%95%9C-%E9%9F%93%EB%8C%80%ED%95%99%EC%83%9D-%EA%B7%B8-%EC%82%AC%EB%9E%8C-activity-7385199975649067008-OZ_k)
 * [🚀 AI 인프라 엔지니어: LLM 시대의 엔지니어링 백본 역할 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B0%B1%EB%B3%B8-%EC%97%AD%ED%95%A0-activity-7389819601339187200-0od1) AI Infra Engineer
+* [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
+  * ["외과의사"처럼 코딩하기 | GeekNews](https://news.hada.io/topic?id=23912)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
