@@ -514,6 +514,10 @@ Book
   * ★★★☆☆ 2025.05.11
 * [아는데 모르는 나라, 일본](https://www.notion.so/1003/2453f0c2cf6580a489aef4dc7a060f82)
   * ★★★☆☆ 2025.08.04 제목처럼 일본의 소소한 생활상의 다른 나라와는 차이가 나는 부분을 알려주는 책. 일본에 관심이 있으면 읽을만하다
+* [고전 리뷰툰 -냉정과 열정- 열정편](https://www.notion.so/1003/12d3f0c2cf658000a09af36883e900fb)
+  * ★★★☆☆ 2024.10.28 잠시나마 어지러운 마음을 잊고 책이나 보던 시절로 돌아가면 좋겠다는 마음을 돌아보게 해준다
+* [고전 리뷰툰 - 냉정과 열정 - 냉정편](https://www.notion.so/1003/29f3f0c2cf65809e84c6ea21066f7ec2)
+  * ★★★☆☆ 2025.11.02 @고전 리뷰툰 -냉정과 열정- 열정편 의 후속편. 대부분 최소한 제목이나 기본적인 내용은 알고 있어서, 여유가 있다면 읽어보고 싶은데 여유가 정말 없다. 그래서 고전이 다들 이름은 알고 아는 척도 하지만, 내용은 모르는 작품인가 싶다.
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
