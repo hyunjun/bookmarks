@@ -3876,6 +3876,7 @@ Programming
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+  * [free-programming-books-ko.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ko.md)
   * [프로그래밍 무료 학습 자료 모음 | GeekNews](https://news.hada.io/topic?id=7378)
 * [GOTO Book Club - GOTOpia](https://gotopia.tech/bookclub)
 * [hacker shelf](http://hackershelf.com/)
