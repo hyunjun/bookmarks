@@ -472,8 +472,12 @@ Artificial Intelligence
   * 여러 AI 코딩 에이전트를 병렬로 실행해 작업 효율을 높이는 새로운 프로그래밍 트렌드 설명
   * 특히 숙련된 시니어 개발자들이 병렬 에이전트를 활용해 여러 과제를 동시에 처리하며 생산성이 상승하는 경험
   * 하지만 일부 개발자는 에이전트가 생산성을 '느끼게'만 할 뿐 실제로는 코드 리뷰 병목 등 한계도 존재한다고 평가
+* [Let's build a local agentic workflow - by Pau Labarta Bajo](https://paulabartabajo.substack.com/p/lets-build-a-local-agentic-workflow)
+  * [Let's build a local agentic workflow | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-build-a-local-agentic-workflow-activity-7390317811820240896-dNxX)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
+* [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
+  * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -1037,6 +1041,9 @@ Artificial Intelligence
   * [genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade usage in mind](https://github.com/googleapis/genai-toolbox)
     * [Introduction | MCP Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)
   * [github-mcp-server: GitHub's official MCP Server](https://github.com/github/github-mcp-server)
+  * [google-ads-mcp](https://github.com/googleads/google-ads-mcp)
+    * [Google Ads MCP 설정 총정리](https://whoknewayden.tistory.com/24)
+    * [Google Ads가 최근 MCP 연동을 공식 지원하기 시작했습니다. LLM을 통해 광고 데이터를 자연어로 조회하고 분석할 수 있는 환경이 열리고 있습니다. https://lnkd.in/gTbSn8xy 현재는 조회(read) 중심 기능이 주로 구현되어 있다고 하여, 이번에 이를 직접 연결해보며 간단한 프롬프트만으로 광고 계정 정보를 불러오고 리포트를… | 곽헌우](https://www.linkedin.com/posts/hunwoo-kwak-714642183_google-ads%EA%B0%80-%EC%B5%9C%EA%B7%BCmcp-%EC%97%B0%EB%8F%99%EC%9D%84-%EA%B3%B5%EC%8B%9D-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-llm%EC%9D%84-ugcPost-7390541624000507904-HcG5)
   * [kimpalbok-slack-mcp-server](https://github.com/dev-palboksoft/kimpalbok-slack-mcp-server)
     * [mcp server 만들기 - 1편 (customizing mcp server 만들기 1편) 개발일기 - YouTube](https://www.youtube.com/watch?v=-w-dshzURX0)
     * [mcp server 만들기 - 2편 완결 (MCP 마켓플레이스에 등록) 개발일기 - YouTube](https://www.youtube.com/watch?v=Gr7VN1zmXFk)
@@ -1857,6 +1864,7 @@ Artificial Intelligence
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
       * [streamlit + claude agent sdk (MCP+Skills)로 구현한 예제 | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_anthropic-claude-aws-ugcPost-7387001174740234240-R8a1/)
+      * [Token이 없어도 주식정보 조회가 가능한 FinanceDataReader를 사용 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-mcp-anthropic-ugcPost-7390263921162620928-aEbc)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
