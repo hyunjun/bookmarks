@@ -595,6 +595,8 @@ Vision
 * [RAG에서 한국어 OCR(Clova OCR, Upstage, Llama Parse) 써보기](https://velog.io/@autorag/RAG%EC%97%90%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-OCRClova-OCR-Upstage-Llama-Parse-%EC%8D%A8%EB%B3%B4%EA%B8%B0)
 * [이미지 캡셔닝 - Hugging Face의 BLIP 모델로 이미지 설명 자동 생성하기](https://webnautes.com/imiji-kaebsyeoning-hugging-faceyi-blip-modelro-imiji-seolmyeong-jadong-saengseonghagi/)
 * [카카오 AI가 법인카드 영수증을 처리하는 방법: AI 간편 정산 개발기 - tech.kakao.com](https://tech.kakao.com/posts/720)
+* [chandra: OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
+  * [Everyone is sleeping on this new OCR model! (supports 40+ languages & it's open-source) Datalab's Chandra topped independent benchmarks and beat the previously best dots-ocr. - Supports 40+… | Akshay Pachaar | 38 comments](https://www.linkedin.com/posts/akshay-pachaar_everyone-is-sleeping-on-this-new-ocr-model-ugcPost-7390387191006494720-5ylc)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
