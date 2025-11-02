@@ -1598,10 +1598,6 @@ Artificial Intelligence
   * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409)
     * 활동기록(Log)를 남기는 것은 시스템 관리를 위해서도 중요한 일
     * EU AI Act에서도 기본 요구로 하고 있어, 이를 위한 "AI system logging" 표준도 ISO/IEC 24970으로 개발
-* [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
-  * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
-    * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
-    * 이 방식은 데이터가 거의 없어도 놀라울 만큼 효율적이다. AI는 완전하지 않은 정보 속에서도 스스로 규칙을 추론하고, 보이지 않는 부분을 상상하며 세상을 완성해간다. 이 과정은 마치 인간이 제한된 경험 속에서 세상의 원리를 발견해내는 사고 과정과 닮아
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
@@ -2523,3 +2519,12 @@ Artificial Intelligence
 * [Lore Machine](https://www.loremachine.ai/)
   * [소설을 웹툰으로 만드는 AI 등장..어렵고 복잡한 프롬프트에 지쳤다면 원클릭 AI시대의 도래 - YouTube](https://www.youtube.com/watch?v=omwekbyuM5Q)
   * [누구나 할 수 있는 5분만에 AI로 쇼츠만화만들기 (로어머신 Lore Machine) - YouTube](https://www.youtube.com/watch?v=S2l77ueKweA)
+
+# World Model
+* [(1) 류내원 - 얀 르쿤 "5년 내 LLM 한계…AI의 다음 혁명은 월드 모델" (출처: 뉴스) 현재 AI 모델은 세계를... | Facebook](https://www.facebook.com/story.php?story_fbid=24784508421171891&id=100001182289254)
+* [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
+  * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
+    * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
+    * 이 방식은 데이터가 거의 없어도 놀라울 만큼 효율적이다. AI는 완전하지 않은 정보 속에서도 스스로 규칙을 추론하고, 보이지 않는 부분을 상상하며 세상을 완성해간다. 이 과정은 마치 인간이 제한된 경험 속에서 세상의 원리를 발견해내는 사고 과정과 닮아
+* [Awesome-World-Models: A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling](https://github.com/knightnemo/Awesome-World-Models)
+  * 월드 모델 연구를 다방면에서 집대성한 저장소로, 자율주행, 임베디드 AI, 게임 시뮬레이션, 로봇 조작, 자연과학, 사회과학 등 다양한 분야의 최신 논문과 모델을 체계적으로 분류
