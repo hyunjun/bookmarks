@@ -2470,6 +2470,8 @@ Docker
   * [KubeVela: 클라우드 네이티브 애플리케이션 및 플랫폼 엔지니어링으로 가는 길(2023.03.31) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/project/kubevela-2023.03.31)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
+* [Kueue](https://kueue.sigs.k8s.io/)
+  * [Mastering Workloads in Kubernetes with Kueue — part 1: Queues and Priorities | by Michał Żyliński | Google Cloud - Community | Oct, 2025 | Medium](https://medium.com/google-cloud/mastering-workloads-in-kubernetes-with-kueue-part-1-queues-and-priorities-339257d8b4ba)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
   * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
 * [kURL - Open Source Kubernetes Installer](https://kurl.sh/)
