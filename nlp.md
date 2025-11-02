@@ -3479,6 +3479,7 @@ NLP
 * [MiniMax Official Website - Intelligence with everyone](https://www.minimax.io/)
   * [MiniMax · GitHub](https://github.com/minimax-ai)
   * [미니맥스, 100만 토큰까지 추론 가능한 ‘미니맥스-M1’ 오픈 소스 공개 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=171405)
+  * [🤖 MiniMax-M2 스트리밍 챗봇 만들기 튜토리얼](https://fornewchallenge.tistory.com/entry/MiniMax-M2-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
   * [🤖 MiniMax-M2를 활용한 Claude Code 설정 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-MiniMax-M2%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Claude-Code-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
@@ -4444,6 +4445,7 @@ NLP
 * [과거 온톨로지(Ontology) 구축을 직접 시도해본 경험이 있었다. 정말 쉽지 않았다. 비정형 문서에서 어떤 엔터티를 뽑아야 할지, 그 관계를 어떻게 정의해야 할지가 가장 큰 난관이었다. 업무 전문가들에게 물어도 “우리가 모르는 새로운 인사이트를 엔터티로 만들어야 하는 거 아닌가요?”라는 답변이 돌아오곤 했다. 결국 해당 도메인의 논문과 문서를 뒤져… | 이재훈](https://www.linkedin.com/posts/%EC%9E%AC%ED%9B%88-%EC%9D%B4-998b64108_%EA%B3%BC%EA%B1%B0-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80ontology-%EA%B5%AC%EC%B6%95%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%8B%9C%EB%8F%84%ED%95%B4%EB%B3%B8-%EA%B2%BD%ED%97%98%EC%9D%B4-%EC%9E%88%EC%97%88%EB%8B%A4-%EC%A0%95%EB%A7%90-activity-7368393340695867393-WRLB)
   * 1. 데이터 구조를 잘 알고 원하는 답을 정확히 아는 경우에는 SQL이 더 빠르다
   * 2. 반대로 데이터 구조를 모르거나 답이 어디에 있는지 모를 때는, 온톨로지 관계를 따라가다 보면 새로운 길을 열어줄 수도 있다
+* [이길환 - https://www.webig.ai 온톨로지는 특정 도메인의 개념과 그들 간의 관계를 형식적으로 정의한... | Facebook](https://www.facebook.com/story.php?story_fbid=122136470114942599&id=61578277976192)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
