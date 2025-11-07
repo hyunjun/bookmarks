@@ -31,6 +31,7 @@ Interview
     * ➍ 사고 과정 보여주기: 면접관에게 문제 해결 과정을 상세하게 설명
     * ➎ 장단점 고려 또는 성공 측정 방법 제시
     * ➏ 지원 직무와 연결: 가능하면 답변을 지원 역할과 연관지어 설명
+* [AWS, Google, MS 등에서 사용하는 - STAR 방식 면접을 잘보는 방법](https://blog.naver.com/best-headhunter/224055784962)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [**컴공 취준생에게 유용한 링크들 정리**](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
