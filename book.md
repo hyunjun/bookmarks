@@ -1621,6 +1621,8 @@ Book
   * [소현세자는 말이 없다](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%98%84%EC%84%B8%EC%9E%90%EB%8A%94-%EB%A7%90%EC%9D%B4-%EC%97%86%EB%8B%A4)
 * [중세 유럽 세계관 사전](https://jpub.tistory.com/468778)
   * ★★☆☆☆ 2024.11.25 워낙 방대한 시기를 얇은 책으로 간단하게 정리했기 때문에 중간 중간 오류(혹은 특정 시기에 국한된 이야기)도 보이긴 하지만, 어떤 컨텐츠를 시작하는 단계라거나 그냥 재미로 읽기에는 충분하다
+* [한국사 배틀](https://www.notion.so/1003/2a43f0c2cf658055a32efc5ac5f8d1d2?v=9b72a0a8eb2746b399ee0853d854bbd8&source=copy_link)
+  * ★★★☆☆ 2025.11.06~07 청소년용 책 느낌이 들긴 하지만, 역사속 인물들의 가상 토론이란 형식으로 쉽게 읽을 수 있어서 좋음
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
