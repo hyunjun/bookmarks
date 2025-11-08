@@ -8459,7 +8459,9 @@ Programming
 * [Developer Joy – How great teams get s%\*t done by Sven Peters - YouTube](https://www.youtube.com/watch?v=Aws4CIe426I)
 * [Software Engineering vs Software Craftsmanship • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=PvxQDEFTJzs)
 * ["우수한 개발팀"의 지표를 딱 하나 꼽으라면](https://typefully.com/dylayed/RPoCpU2)
-* [Guns, Lots of Guns: There Is No Silver Bullet • Lars Kruse • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7IB2cN1iI4A)
+* No Silver Bullet
+  * [Guns, Lots of Guns: There Is No Silver Bullet • Lars Kruse • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7IB2cN1iI4A)
+  * [• 돈으로 살 수 있다면 구축하지 말고 대중 시장을 적극 이용하라. • 소프트웨어 요구 사항을 수립하면서 반복 과정을 계획하고, 그 일환으로 신속한 프로토타이핑을 활용하라. • 소프트웨어를 유기적으로 성장시켜라. 시스템을 운영, 사용, 테스트하는 중에 기능을 지속적으로 추가하라. • 탁월한 후대 개념 설계자를 발굴하고 육성하라. 무척이나 현대적으로… | 박성철](https://www.linkedin.com/posts/fupfin_%EB%8F%88%EC%9C%BC%EB%A1%9C-%EC%82%B4-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%A9%B4-%EA%B5%AC%EC%B6%95%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EB%8C%80%EC%A4%91-%EC%8B%9C%EC%9E%A5%EC%9D%84-%EC%A0%81%EA%B7%B9-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%9D%BC-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-activity-7389136596689674240-Ifw4)
 * [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [Improving Software Flow • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=XMyt5S8limQ)
 * [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
