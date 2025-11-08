@@ -2989,6 +2989,8 @@ Javascript
   * [cobe: 5kB WebGL globe lib](https://github.com/shuding/cobe)
     * WebGL로 구현한 [지구](https://cobe.vercel.app/)로 자세한 구현과정은 [트위터 스레드](https://twitter.com/shuding_/status/1475916082875666441)에
     * 기존에 Three.js로 지구를 구현했지만, 최적화를 잘하지는 못했는데 GitHub이 구현한 글을 보고 아이디어를 얻어서 점으로 구성된 세계 지도를 구성하고 극점 부분의 표현을 최적화
+  * [engine: A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.](https://github.com/galacean/engine)
+    * [(2) 이상선 - Galacean Engine — 웹과 모바일을 위한 실시간 인터랙티브 엔진 Galacean Engine은... | Facebook](https://www.facebook.com/100001916096643/posts/32203908989256220/)
   * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
   * [nanogl: webgl micro framework](https://github.com/plepers/nanogl)
   * [WebGLStudio.js](http://webglstudio.org/)
