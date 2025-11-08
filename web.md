@@ -1305,6 +1305,8 @@ Web
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [FlowMapp web planning platform. Visual Sitemaps, User Flows and Wireframe tools](https://www.flowmapp.com/)
   * [사이트맵, 와이어프레임, 유저 플로우 한번에 관리하는 ‘flowmapp’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2243/)
+* [Frontend Fundamentals](https://frontend-fundamentals.com/code-quality/)
+  * [Toss Frontend Fundamentals, 그리고 10개월 후의 변화 | Huns Log](https://blog.huns.site/blog/posts/frontend/toss-frontend-fundamentals-and-changes)
 * [Frontend Practice | Become a better frontend developer](https://www.frontendpractice.com/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [glTF: glTF – Runtime 3D Asset Delivery](https://github.com/KhronosGroup/glTF)
