@@ -86,6 +86,7 @@ Artificial Intelligence
 * [인공지능이 소프트웨어 개발자 모두를 먹어 치울까?](https://brunch.co.kr/@synabreu/18)
 * [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
 * [**AI 시대를 준비하는 개발자를 위한 안내서(부제: AI 시대에는 개발자가 필요없다며?)** | PPT](https://www.slideshare.net/slideshow/ai-ai-2d08/270030962)
+* [진짜로 AI 때문에 신입 개발자 안 뽑습니까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3435/)
 * [4회 파이토치코리아 발표자료 - 왜 AI백엔드 개발자인가? (NLP, LLM 중심, by 최남규) : 네이버 카페](https://cafe.naver.com/aidev/878)
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
   * [AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가: 불편한 진실 | GeekNews](https://news.hada.io/topic?id=18712)
@@ -483,6 +484,7 @@ Artificial Intelligence
   * 하지만 일부 개발자는 에이전트가 생산성을 '느끼게'만 할 뿐 실제로는 코드 리뷰 병목 등 한계도 존재한다고 평가
 * [Let's build a local agentic workflow - by Pau Labarta Bajo](https://paulabartabajo.substack.com/p/lets-build-a-local-agentic-workflow)
   * [Let's build a local agentic workflow | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-build-a-local-agentic-workflow-activity-7390317811820240896-dNxX)
+* [AI 에이전트가 정말 사람을 대체할지, Scale AI가 실험했습니다 실제 프리랜서 플랫폼에서 거래된 240개 프로젝트를 모았습니다. 건축 설계, 게임 개발, 3D 모델링, 음악 작곡, 데이터 분석 등 평균 28.9시간이 걸리는 일들이며 총 가치는 $143,991 입니다. 그리고 이를 해결하기 위해 6개의 최첨단 AI 에이전트를 투입했습니다… | Kyunghun Lee | 12 comments](https://www.linkedin.com/posts/leekh929_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%A0%95%EB%A7%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0%EC%A7%80-scale-ai%EA%B0%80-%EC%8B%A4%ED%97%98%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8B%A4%EC%A0%9C-activity-7390859003121168384-PZwa) 1등의 성공률도 단 2.5%... 숙련된 사람의 손에서 AI는 매우 강력한 도구
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -1903,6 +1905,10 @@ Artificial Intelligence
   * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
   * [Claude에서 Figma MCP 사용하는 방법, Talk to Figma MCP, - YouTube](https://www.youtube.com/watch?v=FmTGmxZ5rIY)
+  * [Code execution with MCP: building more efficient AI agents \ Anthropic](https://www.anthropic.com/engineering/code-execution-with-mcp)
+    * 코드 실행 환경에서 MCP(Model Context Protocol)를 활용하면 AI 에이전트가 툴 정의와 중간 결과로 인한 토큰 낭비 감소
+    * 파일 시스템 기반의 코드 접근과 progressive disclosure, 데이터 필터링 및 보안 강화가 가능해 효율성과 안전성을 동시 향상
+    * 코드 실행 접근법은 기존 소프트웨어 패턴을 AI 에이전트 설계에 적용, 운영비용과 복잡성도 고려 필요
   * ["인공지능, 코딩 및 에이전트의 새로운 시대 열었다!"...앤트로픽, 차세대 대형언어모델 '클로드 4' 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35034)
   * [Claude's extended thinking \ Anthropic](https://www.anthropic.com/news/visible-extended-thinking)
   * [Claude Code 시작하기](https://aifactory.space/page/claude/forum/discussion/4543)
@@ -1983,6 +1989,7 @@ Artificial Intelligence
     * [How to use Claude Code for work and life | Lenny Rachitsky님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/lennyrachitsky_everyone-should-be-using-claude-code-more-activity-7383899473485316096-uCFM)
   * [Claude Haiku 4.5 출시: Sonnet 4 성능을 1/3 비용으로! 코드 생성 73.3% 달성한 경량 모델 심층 분석](https://fornewchallenge.tistory.com/entry/Claude-Haiku-45-%EC%B6%9C%EC%8B%9C-Sonnet-4-%EC%84%B1%EB%8A%A5%EC%9D%84-13-%EB%B9%84%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-733-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D)
   * [최진주 - <실패에서 배우는 바이브 코딩 주의사항> 클로드 코드를 이용한 바이브 코딩이 간단한 프로그램 만들기에는... | Facebook](https://www.facebook.com/pariscom/posts/pfbid02WVmt1SmX94NuLHuugaWGRMLEbwUxYGcPPQo8qhWJ9NqFpsoJjodbR3NdWZDkJbBDl)
+  * [클로드 코드로 스타트업 개발팀 자동화한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3431/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -2391,6 +2398,7 @@ Artificial Intelligence
 * [45 Best Resources to Learn Artificial Intelligence (YouTube,Tutorials, etc)](https://www.mltut.com/best-resources-to-learn-artificial-intelligence/)
 * [AI Python for Beginners - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
   * [초보자를 위한 AI Python - Andrew Ng 의 무료 강의 | GeekNews](https://news.hada.io/topic?id=18419)
+* [Artificial Intelligence | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
 * [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
 * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
