@@ -3177,6 +3177,7 @@ Business
 * [드디어! 진짜 잘 파는 IT기업 특징 5가지](https://how-to-growup-our-income.tistory.com/8) 고객
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
 * [05화 완벽한 CTA를 찾아서](https://brunch.co.kr/@cliche-cliche/201)
+* [CTA 뜻: 클릭을 부르는 행동 유도 버튼이란?](https://blog.bizgo.io/trend/what-is-marketing-cta/)
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
 * [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
@@ -3230,6 +3231,8 @@ Business
   * [MrBeast의 프로덕션 성공 비법 (유출된 PDF) | GeekNews](https://news.hada.io/topic?id=16784)
 * [GN#272 MrBeast의 프로덕션 성공 비법 | GeekNews](https://news.hada.io/weekly/202439)
 * [구글 직원은 왜 ‘구글러’일까? 커뮤니케이션 브랜딩의 힘 | 요즘IT](https://yozm.wishket.com/magazine/detail/3102/)
+* [마케팅은 생산자 중심 사고에 대한 반성으로 탄생한 고객 중심 사고방식 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7388711106250186752-1tuU)
+  * “마케팅은 너무도 기본적인 것이어서 기업이 강력한 영업 담당부서를 두고 또 그 부서에 마케팅 기능을 부여하는 것만으로는 충분하지 않다. 마케팅은 판매보다 그 범위가 훨씬 넓을 뿐 아니라, 아예 하나의 특수한 활동만을 의미하는 것이 아니다. 기업의 최종적인 결과라는 관점에서 보면, 즉 고객의 관점에서 보면 기업 활동 전체다. 그러므로 마케팅에 대한 관심과 책임은 기업의 모든 활동 영역에 스며들어 있다.” 피터 드러커
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
