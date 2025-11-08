@@ -324,6 +324,7 @@ Algorithm
 * [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
   * [우리의 소프트웨어 개발 알고리듬 | GeekNews](https://news.hada.io/topic?id=16383)
 * [2024 NYPC 예선 Round 1 / 2-A / 2-B 풀이 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/08/25/2024-nypc-qual/)
+* [Designing a SIMD Algorithm from Scratch · mcyoung](https://mcyoung.xyz/2023/11/27/simd-base64/) SIMD(단일 명령어 다중 데이터)를 이용하여 base64 디코딩을 최적화한 알고리즘 소개
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
