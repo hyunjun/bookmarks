@@ -1955,6 +1955,12 @@ Business
 * [AI와 노코드 툴로 빠르게 SaaS 아이디어 검증하는 법](https://eopla.net/magazines/19895)
 * [아이디어의 가치: 기록을 넘어 실행으로](https://soulduse.tistory.com/147)
 * [Ask HN: 솔로창업자 여러분, 어떻게 아이디어를 떠올리셨나요? | GeekNews](https://news.hada.io/topic?id=17264)
+* [Stop Trying to Validate Your Startup Idea - by Paul O'Brien](https://paulobrien.substack.com/p/stop-trying-to-validate-your-startup)
+  * [원대로 - 😂 "아이디어 검증? 그거 하지 마세요" - 10년간 수천개 스타트업을 본 전문가가 알려주는 진짜 방법론... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid02pqABapEjHZQMDBEKj3Le4SecAdRDwmv98p8CAEu1mciY9S35vMCVCnKnbsUcUP1l)
+    * 빠른 반증(rapid invalidation) 능력이 진짜 창업자와 나머지를 가름
+    * '제품시장적합성'이 아니라 '시장제품적합성' - 시장이 원하는 걸 만들어야 함
+    * 자기 확신을 시험하는 게 아니라 약점을 찾아내는 게 목표
+    * "고객과 대화"가 아니라 "모든 사람과 대화"
 
 # KPI
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
