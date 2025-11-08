@@ -5981,6 +5981,7 @@ Programming
 * [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
   * [DevOps에 대한 추도사 | GeekNews](https://news.hada.io/topic?id=15604)
 * [한국 게임사는 대부분 DEV-OPS 와 내부 QA 에 가치를 두지 않을까.](https://techartnomad.tistory.com/576)
+* [아무도 말하지 않는 10가지 핵심 데브옵스 실천 전략 | ITWorld](https://www.itworld.co.kr/article/4085465)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
@@ -8694,6 +8695,15 @@ Programming
     * 좋은 소프트웨어는 여전히 명확한 사고, 좋은 설계, 철저한 테스팅을 요구
     * 바이브 코딩이 아니라, 정밀한 의도 명세와 자동화된 검증으로 무장한 AI 보조 엔지니어링—이것이 진짜 미래
 * [내가 '소프트웨어 공학'에 관심을 가지게 된 것은 업계에 들어와서 약 5~6년 정도 되었을 때, 일이 생각처럼 잘 진행되지 않는다는 생각 때문이었다. 내가 그동안 배운 여러 좋다는 프로그래밍 기법들이 프로젝트 진행에는 별 도움이 되지 않아 보였다. 하지만, 수년간 탐구한 소프트웨어 공학도 별 도움이 되지 않았다. 어느 날 한 교수님과 나눈 대화에서 그… | 박성철](https://www.linkedin.com/posts/fupfin_%EB%82%B4%EA%B0%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%84-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%9C-%EA%B2%83%EC%9D%80-%EC%97%85%EA%B3%84%EC%97%90-%EB%93%A4%EC%96%B4%EC%99%80%EC%84%9C-%EC%95%BD-5-activity-7390210271127969793-y-22)
+* [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
+  * 소프트웨어 개발의 본질은 지속적인 학습(continuous learning), 이러한 학습 과정을 건너뛸 수 없음을 강조
+  * 소프트웨어 개발이 반복적이고 예측 가능한 조립 라인(assembly line)과는 다름
+  * 디자인이 구현을 통해 출현한다(design emerges through implementation)는 애자일 원칙 재확인
+  * 대규모 언어 모델(LLMs)이 코드 생성을 통해 생산성을 높인다는 유혹
+    * 이는 개발자가 깊은 맥락(deep context)과 경험을 얻는 본질적인 학습 루프(관찰, 실험, 적용)를 저해
+    * 결국 유지보수 절벽(Maintenance Cliff)으로 이끌 수 있다고 경고
+  * LLMs는 초기 설정이나 아이디어 구상 단계에서 마찰을 줄여 실험의 문턱을 낮추는 데(lower the threshold for experimentation) 유용
+    * 자연어 코드 생성 능력이 곧 시스템에 대한 깊은 이해(deeper understanding)를 대체할 수는 없다는 것이 핵심 주장
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
