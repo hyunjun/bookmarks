@@ -56,6 +56,8 @@ Robot
       * 인간의 시연을 통해 오프라인으로 학습된 보상 함수에 기반하여 행동 후 인간의 교정을 통해 행동을 고도화
       * 이를 통해 HIL-SERL은 USB 접지, 케이블 자르기부터 IKEA 가구조립, 차량 조립까지 다양한 작업에서 이전 강화학습 접근법들을 크게 능가
       * 평균적으로 성공률은 2배, 실행 속도는 1.8배 향상
+* [로보틱스: 아주 기초적인 것부터](https://turingpost.co.kr/p/inside-robotics)
+  * [Robot Learning: A Tutorial - a Hugging Face Space by lerobot](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
