@@ -330,6 +330,7 @@
   * [Episode 4: Storing data locally | RustJobs.dev](https://rustjobs.dev/blog/episode-4-storing-data-locally/)
   * [Episode 5: Scraping the Whole Dofus Encyclopedia | RustJobs.dev](https://rustjobs.dev/blog/episode-5-scraping-the-whole-dofus-encyclopedia/)
   * [Episode 6: Testing in Rust — Because Even Pet Projects Deserve Some Love | RustJobs.dev](https://rustjobs.dev/blog/episode-6-unit-testing-in-rust/)
+  * [Episode 7: Completing the Model & Wiring a CLI | RustJobs.dev](https://rustjobs.dev/blog/episode-7-completing-the-model-and-wiring-a-cli/)
 * [dotslash: Simplified executable deployment](https://github.com/facebook/dotslash)
 * [doxx - Rust](https://bgreenwell.github.io/doxx/)
   * [doxx: Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!](https://github.com/bgreenwell/doxx)
