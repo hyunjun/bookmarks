@@ -2445,6 +2445,8 @@ Docker
   * [(1) 스케줄러 동작 원리와 Scheduling Framework 이해 - DeepDivers](https://deepdivers.gitbook.io/deepdivers/kubernetes-scheduler/1)
   * [Kubernetes scheduler deep dive | by Daniele Polencic | ITNEXT](https://itnext.io/kubernetes-scheduler-deep-dive-fdfcb516be30)
     * Kubernetes 스케쥴러가 팟을 할당하기 위해 13개의 기본 필터를 거쳐서 노드에 점수를 매겨서 노드를 선택하는 과정 설명
+  * [talks/KubeCon/2025-NA/DEMO/k8s-scheduler at main · sysnet4admin/talks](https://github.com/sysnet4admin/talks/tree/main/KubeCon/2025-NA/DEMO/k8s-scheduler)
+    * [Kubernetes Korea Group | #KubeCon + #CloudNativeCon 북미 2025 발표 자료인데, 만들고 보니 꽤 쿠버네티스 스케줄러를 이해하는데 도움이 는거 같?... | Facebook](https://www.facebook.com/groups/k8skr/permalink/4348893955392244/)
 * [Kubernetes Spec v1.32: Reference Guide and Documentation](https://kubespec.dev/)
   * [Kubernetes Spec Explorer | GeekNews](https://news.hada.io/topic?id=18248)
 * [Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning](https://github.com/armosec/kubescape)
