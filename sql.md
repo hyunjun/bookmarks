@@ -396,6 +396,9 @@ SQL
 * [DB PK로 사용해도 되는 GUID, UUID7은 축복인가 vs 폭탄인가? - YouTube](https://www.youtube.com/watch?v=PQOcbo2NqMw)
 * [스냅샷 구조 이해하기](https://sturdy-mink-c2f.notion.site/1ad901fdcb0549978173459ed5a50e77)
   * [스냅샷 구조 이해하기 | Notion | 강경수 | 댓글 18](https://www.linkedin.com/posts/kakasoo_%EC%8A%A4%EB%83%85%EC%83%B7-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-notion-activity-7378990939673063424-4RtU)
+* [the-5-types-of-database: Slides and notes for the talk "Explaining the 5 types of database and how to choose between them"](https://github.com/Aiven-Labs/the-5-types-of-database)
+  * [Explaining the 5 types of database and how to choose between them — Tibs - YouTube](https://www.youtube.com/watch?v=YZmyumwFWOg)
+  * [데이터베이스 5가지 유형과 선택 가이드: 관계형, 컬럼, 문서, 키-값, 그래프](https://livewiki.com/ko/content/database-types-choose-tibs)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
