@@ -194,6 +194,8 @@ Linux
   * [리눅스커널, 20년만에 RTOS(실시간 운영체제) 내장 - 바이라인네트워크](https://byline.network/2024/10/2-224/)
 * [Linux 코드를 30줄만 수정하면, 전력 사용량을 최대 30% 절감할 수 있음 | GeekNews](https://news.hada.io/topic?id=20472)
 * [0xNews - 새로운 Linux 결함이 Ubuntu·RHEL·Fedora 사용자 암호 해시에서 발견 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/05/0xnews-linux-ubunturhelfedora.html)
+* [Ken Thompson Recalls Unix's Rowdy, Lock-Picking Origins - The New Stack](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
+  * [Ken Thompson이 회상한 Unix의 소란스럽고 자물쇠를 따던 시절 | GeekNews](https://news.hada.io/topic?id=23955)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -555,7 +557,7 @@ Linux
 * [how to diagnose a mysterious process that’s taking too much CPU, memory, IO, etc?](https://www.linkedin.com/feed/update/urn:li:activity:7175126348724654080/)
   * `vmstat` `iostat` `netstat` `lsof` `pidstat`
 * [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
-* [8 Command Line Tools that will Change Your Terminal Experience - YouTube](https://www.youtube.com/watch?v=CbMbGV9GT8I) mas cli, fuzzzBat , fzf, man pages tips , tldr , fzf-git , zoxide , eza , Duck , tmux
+* [8 Command Line Tools that will Change Your Terminal Experience - YouTube](https://www.youtube.com/watch?v=CbMbGV9GT8I) mas cli, fuzzzBat, fzf, man pages tips, tldr, fzf-git, zoxide, eza, Duck, tmux
 * acl access control list
   * [리눅스, 특정 폴더에 생길 미래의 파일/하위 폴더 권한을 미리 설정하는 데 사용하는 acl – 형우의 웹개발](https://mytory.net/archives/16151)
 * `at`
@@ -1648,6 +1650,7 @@ Linux
 * [tmux 입문자 시리즈 요약 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/tmux-introductory-series-summary/)
 * [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [Tmux From Scratch - YouTube](https://www.youtube.com/playlist?list=PLiNR9hlcxJhAq0jzTK7O1Qev7HUCjuqnd)
+* [tmux + tailscale 도대체 어디에 쓰는거야?](https://velog.io/@480/tmux-tailscale-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
