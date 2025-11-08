@@ -209,6 +209,7 @@ Business
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
   * [규모가 안 나오는 일도 해라](http://ppss.kr/archives/34709)
+  * [노가다 먼저 해라(스케일이 안되는 일을 먼저 해라)](https://www.thestartupbible.com/2025/11/its-okay-to-do-things-that-dont-scale.html)
 * [확장 가능하지 않은 일을 하라. Do things that don’t scale | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%99%95%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%9D%BC%EC%9D%84-%ED%95%98%EB%9D%BC-do-things-that-dont-scale-96005587d368)
 * [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
 * [어떻게 나는 내 친구들과 사이드 프로젝트를 $17,000/월 비지니스로 성장시켰는가 (How my friends and I grew our side project into a $17,000/month business)](https://www.vobour.com/book/view/eSbfGjLiAoEyY6yBq)
