@@ -349,6 +349,7 @@ Web
 * [Forget SEO. Welcome to the World of Generative Engine Optimization | WIRED](https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/)
   * [Forget SEO. Welcome to the World of Generative Engine Optimization | Angela Kim](https://www.linkedin.com/posts/angieapril_forget-seo-welcome-to-the-world-of-generative-activity-7387062807772639232-w9er)
     * SEO의 시대가 저물고, GEO의 시대가 오고 있다
+* [프론트엔드 개발자가 알아야 할 SEO — 쿠키의 주저리](https://insengnewbie.tistory.com/635)
 * [사이트를 임시로 닫을 때 구글에 알려 주기 | 웹으로 말하기](https://mytory.net/archives/11692)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
