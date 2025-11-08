@@ -1566,6 +1566,8 @@ Machine Learning
   * [Patrick Blöbaum: Performing Root Cause Analysis with DoWhy, a Causal Machine-Learning Library - YouTube](https://www.youtube.com/watch?v=icpHrbDlGaw)
 * [easyopt: zero-code hyperparameters optimization framework](https://github.com/galatolofederico/easyopt)
 * [edenai-python: The best AI engines in one API: vision, text, speech, translation, OCR, machine learning, etc. SDK and examples for Python developers](https://github.com/edenai/edenai-python)
+* [ggml: Tensor library for machine learning](https://github.com/ggml-org/ggml)
+  * [ggml-python: Python bindings for ggml. Fork of the original project to use the latest version of ggml](https://github.com/neuml/ggml-python)
 * [Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [facet: Human-explainable AI](https://github.com/BCG-Gamma/facet/)
   * [Jan Ittner & Mateusz Sokół - Exploring Feature Redundancy and Synergy with FACET 2.0 - YouTube](https://www.youtube.com/watch?v=fTQhfxZxavQ)
