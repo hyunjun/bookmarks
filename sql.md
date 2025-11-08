@@ -1485,6 +1485,8 @@ SQL
 * [7+ million Postgres tables | Kailash Nadh | IndiaFOSS 2024 | FOSS United - YouTube](https://www.youtube.com/watch?v=xhi5Q_wL9i0)
 * [I replaced my entire tech stack with Postgres... - YouTube](https://www.youtube.com/watch?v=3JW732GrMdg)
 * [Kubernetes 환경에서 PostgreSQL 백업과 복구하기 – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/19/kubernetes-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c-postgresql-%eb%b0%b1%ec%97%85%ea%b3%bc-%eb%b3%b5%ea%b5%ac%ed%95%98%ea%b8%b0/)
+* [TeslaMate (테슬라메이트) 자동백업 스크립트](https://seonggi.kr/291)
+  * [TeslaMate (테슬라메이트) 자동백업 스크립트 | Choi Seong Gi (최성기)](https://www.linkedin.com/posts/seonggi_teslamate-%ED%85%8C%EC%8A%AC%EB%9D%BC%EB%A9%94%EC%9D%B4%ED%8A%B8-%EC%9E%90%EB%8F%99%EB%B0%B1%EC%97%85-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-activity-7391660851105099777-mko4)
 * [백엔드는 PostgreSQL 하나로 끝 (DB 비용 반으로 줄이는 방법) - YouTube](https://www.youtube.com/watch?v=OZrmFD2ajlQ)
 * [Postgres Sandbox](https://database.build/)
 * Vacuum
