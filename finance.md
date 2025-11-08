@@ -537,6 +537,7 @@ Finance
 * [최적의 투자 비중 구하기 (2) - Kelly 공식 파이썬 실습 - YouTube](https://www.youtube.com/watch?v=yVXsS5qLjTg)
 * [가상화폐 트렌드 자동 분석 프로그램 만들기 1편 (Ft. 파이썬) - YouTube](https://www.youtube.com/watch?v=m0p7RQ9WKfE)
 * [가상화폐 트렌드 자동 분석 프로그램 만들기 2편 (Ft. 파이썬) - YouTube](https://www.youtube.com/watch?v=tH6ei_JOcCM)
+* [Anonymization of sensitive information in financial documents using python — Piotr Gryko - YouTube](https://www.youtube.com/watch?v=ZV7iLbz65EU)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
