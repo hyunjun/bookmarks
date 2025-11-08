@@ -74,6 +74,8 @@ GIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
 * [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
 * [**Luavis' Dev Story - Spatial data를 10,000배 잘 다루는 방법**](https://b.luavis.kr/server/how-to-deal-with-spatial-data)
+* [Running every street in Paris with Python and PostGIS — Vinayak Mehta - YouTube](https://www.youtube.com/watch?v=ll7qwO2P6yQ)
+  * [Python과 PostGIS를 활용하여 파리 전역의 모든 거리를 달리기 프로젝트](https://livewiki.com/ko/content/running-streets-paris-python-postgis)
 
 # Python
 * 주소DB가지고놀기
