@@ -2072,6 +2072,11 @@ Docker
 * [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 - Bro's Lounge - CloudBro AI](https://www.cloudbro.ai/t/kubernetes-10/2799)
   * [🧠 Kubernetes의 피로를 줄이는 혁신 도구 10개 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_kubernetes%EC%9D%98-%ED%94%BC%EB%A1%9C%EB%A5%BC-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%98%81%EC%8B%A0-%EB%8F%84%EA%B5%AC-10%EA%B0%9C-activity-7386165514374656000-8WYy)
 * [사이드카가 프로드를 멈춰 세웠다 원인: Pod 단위 프로브 설정 | Victor M. | 10 comments](https://www.linkedin.com/posts/victor-maltsev_kubernetes-devops-fluentbit-activity-7387379674911318016-W-iz) 관찰성(Observability)이 안정성을 잡아먹게 두지 말 것
+  * [사이드카(Fluent Bit)가 프로덕션을 멈추게 한 이야기 - 원인과 대책 #kubernetes #fluentbit #loki #observability #sre #devops #reliability | Victor M.](https://www.linkedin.com/posts/victor-maltsev_kubernetes-fluentbit-loki-activity-7388890010957287424--Np8)
+    * Kubernetes에서 Pod Ready는 readinessProbe가 있는 모든 컨테이너가 Ready여야만 참
+      * 즉, 로깅 사이드카에 readiness를 두면 관측 계층의 작은 장애가 트래픽 차단으로 전파
+    * 스테이지에서 Loki 인입을 살짝 제한하자(경험상 429 유도) Fluent Bit의 메모리 버퍼가 붙고, curl :8080은 200 OK인데도 Pod가 Endpoints에서 빠짐
+    * 로깅이 병목이 되면 안 됨 — 건강 신호를 컨테이너 단위로 분리
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2699,6 +2704,7 @@ Docker
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
+* [Implementing Network Policies to Control Traffic Between Pods in Kubernetes | by Platform Engineers | Medium](https://medium.com/@platform.engineers/implementing-network-policies-to-control-traffic-between-pods-in-kubernetes-c89c8d7ee3dd)
 * [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 * [Kubernetes 네트워킹 101 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/kubernetes-networking-101/)
 * [Kubernetes Network Plugins - kubedex.com](https://kubedex.com/kubernetes-network-plugins/)
