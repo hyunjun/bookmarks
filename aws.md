@@ -2782,6 +2782,7 @@ AWS
   * [aws-kr-startup-samples/analytics/streaming-data-to-s3tables-with-datafirehose at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/analytics/streaming-data-to-s3tables-with-datafirehose)
   * [saas-metering-system-on-aws/v3 at main · aws-samples/saas-metering-system-on-aws · GitHub](https://github.com/aws-samples/saas-metering-system-on-aws/tree/main/v3)
 * [AWS S3 Data Transfer to GCS support Storage Transfer Service](https://seonggi.kr/282)
+* [Bucket monopoly : 간단한 S3 이름의 함정](https://beaver-dam.tistory.com/8)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
