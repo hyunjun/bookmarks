@@ -59,6 +59,9 @@ Time Series
 * [Alyona Galyeva & Dr. Sebastian Werner - 5 ways to fail with time series - YouTube](https://www.youtube.com/watch?v=5jOW6baXYI4)
 * [Time Series Data Augmentation in Industrial - YouTube](https://www.youtube.com/watch?v=MrFwL0qS3qA)
 * [Boosting Time Series Accuracy: The Power of Ensemble Methods - Robert Haase (Paretos) - YouTube](https://www.youtube.com/watch?v=Gp8E7OCyx_M)
+* [Embrace the uncertainty: start building your probabilistic forecast with a Level Set Forecaster or Quantile Regression Forest | by Inge van den Ende | Medium](https://medium.com/@icvandenende/embrace-the-uncertainty-start-building-your-probabilistic-forecast-with-a-level-set-forecaster-or-c55d9f44f0c4)
+  * [Inge van den Ende - Kickstart Your Probabilistic Forecasting | PyData Amsterdam 2025 - YouTube](https://www.youtube.com/watch?v=RIIfZ_Akeoc)
+    * [확률론적 예측으로 포인트 예측 확장하기: PyData Amsterdam 2025 강연 요약](https://livewiki.com/ko/content/inge-ende-probabilistic-forecasting-pydata)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
