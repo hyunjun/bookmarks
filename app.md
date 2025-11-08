@@ -2597,6 +2597,7 @@ App
   * [최고의 새로운 Core Obsidian 플러그인: Bases - YouTube](https://www.youtube.com/watch?v=acrVqy-qHyg)
   * [Homepage - Jin's Second Brain - Obsidian Publish](https://publish.obsidian.md/lifidea/Publish/Homepage)
     * [AI-powered PKM 실습 | Obsidian과 Gemini CLI로 나만의 Second Brain 시작하기 - YouTube](https://www.youtube.com/watch?v=Ku4_N4b78rc)
+  * [옵시디언과 함께 쓰는 AI 리서치 도구 Ponder - PKM 워크플로우 완성하기 - YouTube](https://www.youtube.com/watch?v=se-cFCZ_1ZA)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
