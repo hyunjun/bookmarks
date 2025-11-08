@@ -349,6 +349,12 @@ Artificial Intelligence
 * [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
   * ["외과의사"처럼 코딩하기 | GeekNews](https://news.hada.io/topic?id=23912)
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
+* [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
+  * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+  * AI 코딩 도구가 개발 생산성을 크게 향상시켰음에도 불구하고 프로젝트 전체 속도는 크게 개선되지 않음
+  * 원인은 제대로 구조화되지 않은 파편적인 기획, 기획 단계의 중요성이 AI 시대에 더욱 커짐
+  * AI가 빠른 코딩을 가능케 하나 불명확한 요구사항은 재작업과 프로젝트 지연 초래
+  * 따라서 AI 활용의 핵심은 '기획'의 정확하고 체계적 구조화
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -513,6 +519,8 @@ Artificial Intelligence
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
+* [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
+  * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 
 # Artificial Neural Networks
@@ -1554,6 +1562,8 @@ Artificial Intelligence
   * 바로 위 link와 서로 상반된 주장
 * [YC Partners Answer Your Questions | Office Hours - YouTube](https://www.youtube.com/watch?v=nGLmpKi-jRU)
   * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
+* [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
+  * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1601,6 +1611,8 @@ Artificial Intelligence
   * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409)
     * 활동기록(Log)를 남기는 것은 시스템 관리를 위해서도 중요한 일
     * EU AI Act에서도 기본 요구로 하고 있어, 이를 위한 "AI system logging" 표준도 ISO/IEC 24970으로 개발
+* [2510.26787v1.pdf](https://arxiv.org/pdf/2510.26787)
+  * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
@@ -1859,6 +1871,17 @@ Artificial Intelligence
     * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
       * [Claude Skills는 굉장하다, MCP보다 더 큰 혁신일지도 | GeekNews](https://news.hada.io/topic?id=23734)
       * [Claude의 Skills 구조를 보고나서 든 생각은 AI 생태계의 Amazon Web Services (AWS) Lambda 라는 생각이 들었다. 왜 OpenAI , Anthropic 이 계속 Infra Engineer 를 채용하는지도 알것 같다. 이제 LLM의 확장이 어떤 형태로 될지도 어느 정도 이해된다. 단 ChatGPT 는 User… | Jedi Kim](https://www.linkedin.com/posts/jedikim_claude%EC%9D%98-skills-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C-%EB%93%A0-%EC%83%9D%EA%B0%81%EC%9D%80-ai-%EC%83%9D%ED%83%9C%EA%B3%84%EC%9D%98-amazon-activity-7385502936623357952-y73d)
+    * [Agent SDK overview - Claude Docs](https://docs.claude.com/en/docs/agent-sdk/overview)
+      * [클로드 코드급 데모를 하루만에 만드는 방법이 있습니다. Claude Agent SDK 와 Vercel AI SDK 를 사용 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-vercel-labsai-sdk-preview-rag-activity-7392484161288122368-NuU8)
+        * [ai-sdk-preview-rag: Retrieval-augmented generation (RAG) template powered by the AI SDK](https://github.com/vercel-labs/ai-sdk-preview-rag)
+        * [ai-sdk-reasoning-starter: Next.js + AI SDK chatbot starter template for reasoning models](https://github.com/vercel-labs/ai-sdk-reasoning-starter)
+        * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
+    * [통제 가능한 Tool 호출을 원한다면, Claude Code Skills 톺아보기](https://www.linkedin.com/pulse/%ED%86%B5%EC%A0%9C-%EA%B0%80%EB%8A%A5%ED%95%9C-tool-%ED%98%B8%EC%B6%9C%EC%9D%84-%EC%9B%90%ED%95%9C%EB%8B%A4%EB%A9%B4-claude-code-skills-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-sigrid-jin--f8c6c)
+      * [Anthropic's Claude Skills Are Taking the AI Community by Storm](https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide)
+      * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
+      * [awesome-claude-skills: A curated list of Claude Skills](https://github.com/BehiSecc/awesome-claude-skills)
+      * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills)
+      * [Skill_Seekers: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection](https://github.com/yusufkaraaslan/Skill_Seekers)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
