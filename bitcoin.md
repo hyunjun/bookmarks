@@ -103,6 +103,9 @@ Bitcoin
 * [비트코인이 인류 역사상 최초로 해결한 문제는 바로 '탈중앙화된 환경에서의 이중지불(Double-Spending) 문제'](https://www.linkedin.com/posts/%EC%84%9D%EB%AF%BC-%EC%84%9C-82045b19a_%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%9D%B4-%EC%A7%84%EC%A7%9C-%ED%95%B4%EA%B2%B0%ED%95%9C-%EB%8B%A8-%ED%95%98%EB%82%98%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%98%A4%EB%8A%98%EB%8F%84-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%EC%97%90-activity-7362966313251598336-GygL/)
 * [Tempo: The Blockchain Designed for Payments](https://tempo.xyz/)
   * [Stripe, L1 블록체인 Tempo 출시 | GeekNews](https://news.hada.io/topic?id=22907)
+* [(1) 김형중 - 이상과 현실. 비트코인은 "일하지 않는 자는 먹지도 말라"는 원리를 실천하기 위해 작업증명(PoW) 방식을... | Facebook](https://www.facebook.com/hyoungjoong.kim.1/posts/pfbid02oYu5LoQzYCjwnDRd8sLCn3XTzmntp2jMMw4bjn9M9Z1VK2M2FpWLzziMNKQ18bPpl)
+  * 작업증명(PoW) 지분증명(PoS) 용량증명(PoC) 역사증명(PoH)
+  * 블록체인의 다양한 합의 방식은 저마다의 '이상'을 구현하려 했으나, 현실의 기술적 한계와 인센티브 구조 때문에 예상치 못한 문제들과 지속적인 한계
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
