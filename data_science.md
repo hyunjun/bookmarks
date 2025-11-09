@@ -1007,6 +1007,9 @@ Data Science
     * 또한 한 유저의 글이 랭킹 점수가 비슷해 피드에 연달아 나온다면 유저 경험이 좋지 않기 때문에 순서를 다시 Ordering 할 필요 존재
 * [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
 * [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+* [협업 필터링을 넘어서: 하이퍼커넥트 AI의 추천 모델링 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/10/21/beyond-collaborative-filtering.html)
+  * [협업 필터링을 넘어서: 하이퍼커넥트 AI의 추천 모델링 | Joonyoung Yi](https://www.linkedin.com/posts/joonyoungyi_%ED%98%91%EC%97%85-%ED%95%84%ED%84%B0%EB%A7%81%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%9C-%ED%95%98%EC%9D%B4%ED%8D%BC%EC%BB%A4%EB%84%A5%ED%8A%B8-ai%EC%9D%98-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8%EB%A7%81-activity-7390919187449274368-yCKM)
+    * collaborative filtering은 여전히 중요한 기초이지만, 이제는 그 위에서 더 넓은 추상화와 새로운 접근을 고민해야 할 때
 * [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 * [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
 * [카카오 AI추천 : 카카오의 콘텐츠 기반 필터링 (Content-based Filtering in Kakao) – tech.kakao.com](https://tech.kakao.com/2021/12/27/content-based-filtering-in-kakao/)
