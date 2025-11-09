@@ -67,6 +67,7 @@
 * [CEO의 불륜을 기회로 만든 천재 마케팅 feat. 기네스 팰트로 - YouTube](https://www.youtube.com/watch?v=3b6h4St4aX8) astronomer 아스트로노머
 * [AI로 만든 광고 저만 부담스럽나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/3323/)
 * [아이폰 RCS 시대, 마케터가 꼭 알아야 할 '통합 RCS' 완벽 가이드](https://blog.bizgo.io/trend/iphone-rcs-unified-rcs-guide/)
+* [광고 알고리즘 최적화시도 - Roach Wiki](https://roach-wiki.com/wiki/doc-1761055814) MAB Multi-Armed Bandit 톰슨 샘플링 Thompson Sampling
 * Amplitude
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
