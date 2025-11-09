@@ -3913,6 +3913,8 @@ NLP
   * [Adaptive RAG: 지능적 검색 결정 및 LLM 지식 경계 탐색 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6087889/6011498)
 * [Building a HybridRAG Document Question-Answering System - YouTube](https://www.youtube.com/watch?v=KTpG-T3DK6k)
 * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
+* [RAG is not just one technique, it is an entire ecosystem of intelligence. From context-aware assistants to domain-specific systems, here are 16 types of RAG models shaping the next wave of AI… | Shalini Goyal | 41 comments](https://www.linkedin.com/posts/goyalshalini_rag-is-not-just-one-technique-it-is-an-entire-activity-7391744178835169280-geW8)
+  * 1. Standard RAG 2. Agentic RAG 3. Graph RAG 4. Modular RAG 5. Memory-Augmented RAG 6. Multi-Modal RAG 7. Federated RAG 8. Streaming RAG 9. ODQA RAG (Open-Domain QA) 10. Contextual Retrieval RAG 11. Knowledge-Enhanced RAG 12. Domain-Specific RAG 13. Hybrid RAG 14. Self-RAG 15. HyDE RAG (Hypothetical Document Embeddings) 16. Recursive / Multi-Step RAG
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
