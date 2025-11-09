@@ -356,6 +356,9 @@ Artificial Intelligence
   * 원인은 제대로 구조화되지 않은 파편적인 기획, 기획 단계의 중요성이 AI 시대에 더욱 커짐
   * AI가 빠른 코딩을 가능케 하나 불명확한 요구사항은 재작업과 프로젝트 지연 초래
   * 따라서 AI 활용의 핵심은 '기획'의 정확하고 체계적 구조화
+* [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
+* [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
+  * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -495,7 +498,7 @@ Artificial Intelligence
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
     * [Google A2A Protocol과 Microsoft Agent Framework를 기반으로 한 멀티 에이전트 시스템](https://www.linkedin.com/posts/kjh941213_github-microsoftagent-framework-a-framework-activity-7387371253554331648-92Ot/)
-* [Agent Lightning](https://microsoft.github.io/agent-lightning/latest/)
+* [Agent Lightning](https://microsoft.github.io/agent-lightning/) 마이크로소프트에서 공개한 Agent 튜닝/최적화/관리 오픈소스 툴
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
@@ -517,12 +520,19 @@ Artificial Intelligence
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode?trk=public_post_comment-text)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
+* [Embabel](https://github.com/embabel)
+  * [GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=yMDw0nlWd7s)
+    * [JVM에서 프로덕션 준비 에이전트 구축: GenAI 비즈니스 성공 전략 (Rod Johnson, GOTO 2025)](https://livewiki.com/ko/content/genai-production-agents-jvm)
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
+* [openenv (OpenEnv: Agentic Execution Environments)](https://huggingface.co/openenv)
+  * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
+    * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
+    * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 
 # Artificial Neural Networks
@@ -1532,6 +1542,7 @@ Artificial Intelligence
   * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
 * [네이버 밴드 기획자가 AI코딩 99%로 만들었다는 AI 소셜 앱 | 요즘IT](https://yozm.wishket.com/magazine/detail/3309/)
+* [AI 시대의 개발자: 현업 개발자의 솔직한 이야기](https://velog.io/@teo/ai-and-developer)
 * [**AI 시대의 소스코드 품질 :: akwiki**](https://wiki.g15e.com/pages/Source%20code%20quality%20in%20the%20AI%20era)
 * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
   * [MIT report: 95% of generative AI pilots at companies are failing | Sean Lee](https://www.linkedin.com/posts/sean-lee-97908319_mit-report-95-of-generative-ai-pilots-at-activity-7363840701177974785-ply-)
@@ -1566,6 +1577,7 @@ Artificial Intelligence
   * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
 * [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
   * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
+* [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
