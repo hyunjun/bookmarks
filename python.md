@@ -5061,6 +5061,8 @@ Python
   * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
 * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
 * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
+* [Textual](https://textual.textualize.io/)
+  * [Building UIs in the Terminal With Python Textual: Your First TUI, Text Widgets & TCSS - YouTube](https://www.youtube.com/watch?v=dpJrM2_NOT8)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [trafilatura: Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments](https://github.com/adbar/trafilatura)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
