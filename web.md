@@ -653,6 +653,7 @@ Web
 * [How to Build a Web Scraper using Golang with Colly](https://morioh.com/p/8d07efbd9e9f)
 * Colly [Scraping Framework for Golang](http://go-colly.org/)
   * [GO Project for Beginners - Web Scraping with Golang - YouTube](https://www.youtube.com/watch?v=NU4OlJVj1gs)
+* [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [wbot: A sample & efficient web crawler](https://github.com/twiny/wbot)
 
