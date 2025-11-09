@@ -717,6 +717,7 @@ Go
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [File-Handling-Packages-in-Golang: The built-in library of Go offers excellent support to perform file-related operations, such as creating a file, read/write operations, file rename or move, copy, getting metadata information of the file, and so forth.](https://github.com/mustafakraizim98/File-Handling-Packages-in-Golang)
+* [fswatcher: Cross-platform file watcher written in Go for native concurrent monitoring](https://github.com/sgtdi/fswatcher)
 * [~FRAGMENTA - websites with Go~](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [Fuego: Functional Experiment in Golang](https://morioh.com/a/6bfc2ecd584e/fuego-functional-experiment-in-golang)
