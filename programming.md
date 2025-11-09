@@ -4084,6 +4084,14 @@ Programming
   * 기술적인 부분만이 아니라 process/culture 측면에서도 좋은 이야기들
 * [블로그 | 도대체 클라우드 핀옵스에는 무슨 일이? - ITWorld Korea](https://www.itworld.co.kr/news/327249)
 * [10 top cloud cost management tools to save your cloud budget](https://www.digitalocean.com/resources/article/cloud-cost-management-tools)
+* [The Hidden Costs of Data Ownership: Why Cheap Platforms Become Expensive Mistakes | Towards Data Experience](https://medium.com/towards-data-experience/the-most-expensive-mistake-in-data-architecture-d740c6f1e5b2)
+  * [💥 눈에 보이는 게 다가 아니다! 데이터 플랫폼 선택 전 꼭 알아야 할 숨은 비용들 💰 비용이 싸다고 무조건 좋은 데이터 플랫폼일까요? 🤔 데이터 관련 회의에서 자주 나오는 이야기 중 하나는 “이 플랫폼이 OO% 더 저렴해요!”라는 말입니다. 하지만, 이게 정말 전체 비용을 줄이는 선택일까요? 바로 여기서 많은 실수가 나옵니다. ‘운영… | Hyunsoo (Ryan) Lee](https://www.linkedin.com/posts/hyunsoo-ryan-lee_%EB%88%88%EC%97%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%8C-%EB%8B%A4%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%84%A0%ED%83%9D-%EC%A0%84-%EA%BC%AD-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-activity-7391388082387857408-pQTs)
+    * 1️⃣ Run Cost - 작업 비용은 빙산의 일각
+    * 2️⃣ Process Cost - 보이지 않는 운영 세금
+    * 3️⃣ Interoperability Cost - 플랫폼 락인(Lock-in)에 대한 비용
+    * 4️⃣ Human Effort - 개발자 피로라는 숨은 비용
+    * 5️⃣ Flexibility Cost - 유연한 대응을 위한 가격
+    * 6️⃣ Opportunity Cost - 하지 못한 일의 손실
 * [SSD는 엄청나게 빨라졌지만, 클라우드는 제외임 | GeekNews](https://news.hada.io/topic?id=13456)
 * [Cloud Career Journeys • Prasad Rao & David Linthicum • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=FcYLQLeuVh0)
   * [VidiGo Cloud Career Journeys • Prasad Rao & David Linthic](https://vidigo.ai/share/summary/00c9fc57268a)
@@ -5083,6 +5091,7 @@ Programming
 * [DevSecOps Pipeline](https://www.linkedin.com/posts/satya619_%F0%9D%91%AB%F0%9D%92%86%F0%9D%92%97%F0%9D%91%BA%F0%9D%92%86%F0%9D%92%84%F0%9D%91%B6%F0%9D%92%91%F0%9D%92%94%F0%9D%91%B7%F0%9D%92%8A%F0%9D%92%91%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86-%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-activity-7298651296163667969-8L2p/)
   * ![](https://media.licdn.com/dms/image/v2/D5622AQH02aZTzv8EaQ/feedshare-shrink_800/B56ZUoEqM.GsAg-/0/1740134068092?e=1743638400&v=beta&t=CzOhvXiPbXeihWCxs3kaOMYPMxYTtoiebWxlG8IqIzs)
 * [A CI/CD pipeline is a tool that automates the process of building, testing, and deploying software](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7241472242054828033-nGVp/)
+* [CICD 세미나 - YouTube](https://www.youtube.com/watch?v=FzDAxyftYhk) CI/CD가 궁극적으로 뭘 하려는건지 설명
 * [How Big Tech Ships Code to Production - YouTube](https://www.youtube.com/shorts/551lh10g_go)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
@@ -9389,6 +9398,8 @@ Programming
 * [Decision Making at Netflix. Part 1 in a multipart series about… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 * [What is an A/B Test?. This is the second post in a multi-part… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
 * [A/B 테스트의 확장판, MAB (Multi-Armed Bandits) 알고리즘 | Be Geeky](https://assaeunji.github.io/bayesian/2021-01-30-mab/) 문제의식은 이해하지만 활용은 아직 어려울 듯
+* [MAB 알고리즘 1/2 - A/B 테스트의 한계, MAB 알고리즘과 Thompson Sampling 이해하기](https://kukim.tistory.com/205)
+* [MAB 알고리즘 2/2 - MAB와 Thompson Sampling의 아키텍처 및 실전 구현 (w. Kotlin)](https://kukim.tistory.com/206)
 * [Interpreting A/B test results: false positives and statistical significance | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
 * [1주 1개 실험하는 프로덕트 팀이 되는 여정. 안녕하세요 당근마켓 중고거래팀에서 데이터 분석가로 일하고 있는… | by matthew l | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
 * [데이터 기반의 의사결정, 실패하지 않는 프로덕트의 비밀 #핵클 | 원티드](https://www.wanted.co.kr/events/22_04_s06_b01)
