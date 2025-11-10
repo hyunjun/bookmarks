@@ -443,6 +443,9 @@ Interview
   * [If You're into Microservices & System Design, Don't Ignore These Topics:](https://www.linkedin.com/posts/akashsinnghh_if-youre-into-microservices-system-design-activity-7298562622713454593-n_Lt/)
   * [best-system-design-resources: A collection of best resources to learn System Design, Software architecture, and prepare for System Design Interviews](https://github.com/javabuddy/best-system-design-resources/)
   * [system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews](https://github.com/ByteByteGoHq/system-design-101)
+    * 복잡한 시스템 설계를 시각적 자료와 쉬운 용어로 설명해서 시스템 디자인 면접 준비나 시스템 구조 이해에 도움
+      * API, 웹 개발, 데이터베이스, 클라우드, 보안, DevOps, 마이크로서비스, AI 등 광범위한 주제
+      * 실무 사례와 핵심 개념, 설계 패턴, 최신 기술 동향까지 포함해서 실무와 학습에 두루 활용할 수 있도록 설계
     * [Open-sourcing over 100 byte-sized system design concepts with high-resolution diagrams](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7119709900187820033-E9Zw/)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
