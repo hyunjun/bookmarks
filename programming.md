@@ -3981,6 +3981,8 @@ Programming
     * 숙련된 시스템 관리자는 실제로 구하기 어렵고 비쌈. 싸게 하려다 백업이 2년째 안 된 경우도 봄
 * [달러💰 이렇게 비싸져도 되냐?! AWS를 탈출하고 비용절약하자! | Disquiet\*](https://disquiet.io/@bamchi/makerlog/%EB%8B%AC%EB%9F%AC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B9%84%EC%8B%B8%EC%A0%B8%EB%8F%84-%EB%90%98%EB%83%90-aws%EB%A5%BC-%ED%83%88%EC%B6%9C%ED%95%98%EA%B3%A0-%EB%B9%84%EC%9A%A9%EC%A0%88%EC%95%BD%ED%95%98%EC%9E%90)
 * [Fastmail이 자체 하드웨어를 사용하는 이유 | GeekNews](https://news.hada.io/topic?id=18388) 절약 비용절감
+* [Send this article to your friend who still thinks the cloud is a good idea](https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/)
+  * [클라우드가 여전히 좋은 생각이라고 믿는 친구에게 이 글을 보내세요 | GeekNews](https://news.hada.io/topic?id=24160)
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
