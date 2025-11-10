@@ -4516,10 +4516,6 @@ NLP
   * [calm: Official implementation of "Continuous Autoregressive Language Models"](https://github.com/shaochenze/calm)
   * [#토큰 #데이터 #llm #calm #인공지능 #ai #텐센트 #언어모델 | Suk Hyun Kim | 12 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_tsatmi-qzustwtps-llm-activity-7391569501068316672-GYXc)
   * [Comparison/Contrast between HUFD and CALM | J Harlow](https://www.linkedin.com/posts/activity-7391921093298720768-587u)
-* [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/tree/main)
-  * [이상선 - DeepSeek OCR — 문서 이해의 새로운 패러다임 핵심 요약 DeepSeek 팀이 공개한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid06mWUWBDdaVAqLWQ1u7r9pwRRpB9gBYHoiE3eKdMhiGZqSrC7s3Bp1m5kRpuyyYL5l)
-  * DeepEncoder [중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 | 텍스트를 이미지로 10배 압축 - YouTube](https://www.youtube.com/watch?v=S2VCvsE2iOk)
-  * [문서를 스캔떠서 LLM에 입력한다면 더 효율적이지 않을까? (w. DeepSeek) | 고영건](https://www.linkedin.com/posts/%EC%98%81%EA%B1%B4-%EA%B3%A0-860b262bb_deepseek-ocrdeepseekocrpaperpdf-at-main-activity-7386321067092381696-_3RM)
 
 # Parser
 
