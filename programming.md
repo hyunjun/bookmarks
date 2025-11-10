@@ -2557,6 +2557,10 @@ Programming
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
+  * Architecture Decision Record(ADR)는 소프트웨어 설계에서 중요한 아키텍처 결정과 그 맥락, 결과를 간결하게 기록하는 문서
+    * 주로 마크다운 형식으로 관리
+    * 강점은 팀 내 의사결정 공유와 미래 개발자들의 이해 증진
+    * 의사결정의 이유, 대안, 결과를 명확히 남기는 것이 중요하며, 문서의 상태, 컨텍스트, 근거, 결과, 대안 등을 포함해 작성
   * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/) architecture decision record
   * [3회 ADR을 써야하는 이유,슈퍼셀의 교훈,QRPicture,Puppeteer와 Playwright,eBPF - YouTube](https://www.youtube.com/watch?v=aCw0YwEHpCU&t=137s)
     * [GN#59 ADR을 써야 하는 이유 와 슈퍼셀의 10가지 교훈 | GeekNews](https://news.hada.io/weekly/202034)
