@@ -351,6 +351,11 @@ Apache
   * Apache Flume용 새로운 channel selector인 "Round-Robin Channel Selector" 설명
   * 이 선택기를 사용하면 기본 배치 처리량의 약 10배까지 확장
 
+# Flus
+* [Apache Fluss™ (Incubating)](https://fluss.apache.org/)
+  * a streaming storage built for real-time analytics which can serve as the real-time data layer for Lakehouse architectures
+  * With its columnar stream and real-time update capabilities, Fluss integrates seamlessly with Apache Flink to enable high-throughput, low-latency, cost-effective streaming data warehouses tailored for real-time applications
+
 # Geode
 * [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
