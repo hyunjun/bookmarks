@@ -318,6 +318,7 @@
   * [System76 - Linux Laptops, Desktops, and Servers](https://system76.com/cosmic)
 * [cxx: Safe interop between Rust and C++](https://github.com/dtolnay/cxx)
   * [Rust ❤️ C++](https://cxx.rs/)
+* [deepwiki-rs: AI-Powered open-source deepwiki generator built with Rust – Transform your codebase into professional architecture documentation in minutes](https://github.com/sopaco/deepwiki-rs)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [Diesel is a Safe, Extensible ORM and Query Builder for Rust](https://diesel.rs/)
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
