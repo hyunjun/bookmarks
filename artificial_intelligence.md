@@ -1047,6 +1047,8 @@ Artificial Intelligence
     * [AutoBE, Backend No-Coding Agent Achieving 100% Compilation Success (Open Source) - DEV Community](https://dev.to/samchon/autobe-no-code-agent-for-backend-application-writing-100-compilable-code-open-source-1oln)
     * [AutoBE We made AI Friendly Compilers for Vibe Coding (open-source backend vibe coding agent) - DEV Community](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-491k)
     * [뤼튼테크놀로지스에서 혁신적인 Backend No-code Agent AutoBE를 개발하여 오픈소스로 공개](https://www.facebook.com/groups/codingeverybody/permalink/30724263520520791/)
+    * [로컬 LLM의 흥미로운 Mode Collapse 사례를 공유 | Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=32776453058635150&hoisted_section_header_type=recently_seen)
+      * 간단한 TODO 애플리케이션 백엔드를 생성하던 중, 모델이 갑자기 3000단어 분량의 종말론적 신화를 작성하기 시작
     * [autobe-example-bbs: AutoBE Generation Example - BBS (Bullet-in Board System)](https://github.com/wrtnlabs/autobe-example-bbs)
     * [autobe-example-todo-qwen3-235b-a22b: AutoBE Generation Example - To Do List (by `qwen3-235b-a22b-2507`)](https://github.com/wrtnlabs/autobe-example-todo-qwen3-235b-a22b)
   * [awesome-mcp-clients: A collection of MCP clients](https://github.com/punkpeye/awesome-mcp-clients)
