@@ -1031,6 +1031,12 @@ Artificial Intelligence
   * [PICK MCP 총정리: 개념과 사용기 | 요즘IT](https://yozm.wishket.com/magazine/collection/67889/)
   * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) - YouTube](https://www.youtube.com/watch?v=-AFOcmTFTT8)
     * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6403900/6491153)
+  * [Agent Tools & Interoperability with MCP | Kaggle](https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp)
+    * 에이전트 도구 및 MCP와의 상호 운용성
+      * 먼저 파운데이션 모델에서 사용하는 도구의 특성, 즉 도구가 무엇이며 어떻게 사용하는지에 대해 설명
+      * 효과적인 도구를 설계하고 효과적으로 사용하기 위한 몇 가지 모범 사례와 지침 제공
+      * 그런 다음 모델 컨텍스트 프로토콜을 살펴보고 기본 구성 요소와 그에 수반되는 몇 가지 과제 및 위험에 대해 이야기
+      * 마지막으로, MCP가 엔터프라이즈 환경에 도입되고 고부가가치 외부 시스템에 연결될 때 발생하는 보안 문제 탐구
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -1711,8 +1717,10 @@ Artificial Intelligence
 * [생각은 내가, 정리는 AI가! 생산성 도구모음 | 요즘IT](https://yozm.wishket.com/magazine/collection/69240/)
   * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
   * [“AI가 대신 일해주면 정말 좋겠네~” 업무용 AI 툴 추천 | 요즘IT](https://yozm.wishket.com/magazine/detail/3379/)
-* [Pomelli by Google Labs](https://labs.google.com/pomelli/about/)
-  * [Google, 스타트업을 위한 무료 마케팅 AI 도구 ‘Pomelli’ 공개](https://www.facebook.com/reel/705044685396665)
+* [amplifier](https://github.com/microsoft/amplifier)
+  * 복잡한 작업 프로세스를 '메타인지 레시피'로 기술하면, 이를 기반으로 반복적이고 재사용 가능한 AI 도구 자동 생성 시스템
+  * 개발자는 코드 없이 워크플로우 자동화 가능, 다양한 유틸리티와 협업 환경을 통해 프로젝트를 체계적으로 관리할 수 있도록 도움
+  * 아직 초기 개발 단계로, 실험적이고 빈번한 변화가 예상되며, 신중한 사용 요구
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
@@ -1798,6 +1806,8 @@ Artificial Intelligence
   * [Home | Pocket Flow](https://the-pocket.github.io/PocketFlow-Tutorial-Codebase-Knowledge/)
   * [code_to_tutorial](https://github.com/dabidstudio/code_to_tutorial)
     * [AI로 어려운 코드를 튜토리얼로 변환하기 - YouTube](https://www.youtube.com/watch?v=cJpw-0QosVQ)
+* [Pomelli by Google Labs](https://labs.google.com/pomelli/about/)
+  * [Google, 스타트업을 위한 무료 마케팅 AI 도구 ‘Pomelli’ 공개](https://www.facebook.com/reel/705044685396665)
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
 * [Qwen3 Coder: Agentic Coding Assistant in the World](https://qwen3lm.com/)
