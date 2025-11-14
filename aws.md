@@ -2781,6 +2781,8 @@ AWS
     * s3에서는 결국 Lock을 구현하기 위한 도구를 연동해야했었는데(dynamodb 예시 [Delta Lake on S3 | Delta Lake](https://delta.io/blog/delta-lake-s3/) 참고) 이제 그럴 필요 없어짐
   * [데이터 엔지니어링 전망: Data Engineering Weekly의 2025년 예상 | GeekNews](https://news.hada.io/topic?id=18402) 5번 항목이 유사한 전망
 * [S3 Vectors 등장](https://www.linkedin.com/posts/seul-ki-song_s3-vectors-%EB%93%B1%EC%9E%A5-%EC%B5%9C%EA%B7%BC-aws-s3%EC%97%90-%EB%B2%A1%ED%84%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-activity-7359528454934990848-Igjv/)
+* [S3 Vectors를 사용한 RAG | AWS Startups](https://aws.amazon.com/startups/build/s3-vectors)
+  * [RAG with S3 Vectors | Taehyun Kim](https://www.linkedin.com/posts/taehyun-kim-33637922_rag-with-s3-vectors-activity-7394637384782368768-Y5fX)
 * [How AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
   * [AWS S3가 느린 HDD 위에서 초당 1페타바이트를 처리하는 방식 | GeekNews](https://news.hada.io/topic?id=23294)
 * [How Not to Partition Data in S3 (And What to Do Instead)](https://luminousmen.substack.com/p/how-not-to-partition-data-in-s3-and)
