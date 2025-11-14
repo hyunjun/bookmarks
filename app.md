@@ -64,6 +64,7 @@ App
   * whatismybrowser.com [What browser? My browser? Is my browser out of date?](https://www.whatismybrowser.com/)
   * locaping.com/traceroute [Traceroute From Multiple Locations | LocaPing](https://locaping.com/traceroute)
   * [Screenfly - The Ultimate Screen Testing Tool 📱 - Blue Tree](https://bluetree.ai/screenfly/)
+* [IT 필수 프로덕트 TOP 15: 2025 IT 실무자가 선택한 필수 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/3438/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * Allo [알로: 즉각적으로, 회사에 ‘극단적 가시성'을 만들어내세요](https://allo.io/)
