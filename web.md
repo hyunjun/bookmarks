@@ -795,6 +795,7 @@ Web
 * [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
   * [dark-patterns: Code and data belonging to our CSCW 2019 paper: "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites"](https://github.com/aruneshmathur/dark-patterns)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
+* [facebook-scraper: Scrape Facebook public pages without an API key](https://github.com/0xSojalSec/facebook-scraper)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
 * [KoreaNewsCrawler: 대량의 뉴스 데이터를 수집하기 위해 만들어진 뉴스 크롤러입니다](https://github.com/lumyjuwon/KoreaNewsCrawler)
