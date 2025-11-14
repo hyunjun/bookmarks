@@ -3611,6 +3611,8 @@ NLP
     * [Qwen3 의 Hybrid thinking mode](https://devocean.sk.com/blog/techBoardDetail.do?ID=167448) Hybrid Thinking mode
     * [Qwen 3 (큐웬 3) MoE 서빙 최적화를 위한 사이오닉의 전략](https://blog.sionic.ai/qwen3-moe-upscaling)
       * [Qwen 3 (큐웬 3) 서빙 최적화를 위한 MoE 업스케일링 전략 | GeekNews](https://news.hada.io/topic?id=20946)
+    * [2508.10355 Making Qwen3 Think in Korean with Reinforcement Learning](https://arxiv.org/abs/2508.10355)
+      * [Making Qwen 3 Think in Korean with Reinforcement Learning | by Dnotitia Inc. | Medium](https://medium.com/@dnotitia/making-qwen-3-think-in-korean-with-reinforcement-learning-fb3d3ed98215)
     * [LLMs-from-scratch/ch05/11_qwen3 at main · rasbt/LLMs-from-scratch · GitHub](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/11_qwen3)
     * [Qwen3_(4B)-GRPO.ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3_\(4B\)-GRPO.ipynb)
       * [Qwen3: How to Run & Fine-tune | Unsloth Documentation](https://docs.unsloth.ai/basics/qwen3-how-to-run-and-fine-tune#fine-tuning-qwen3-with-unsloth)
