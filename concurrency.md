@@ -127,6 +127,8 @@ Concurrency
 * [Stanford CRFM](https://crfm.stanford.edu/2025/05/28/fast-kernels.html)
   * [Stanford CRFM: AI로 생성된 CUDA 커널, PyTorch 최적화 코드 성능을 | GeekNews](https://news.hada.io/topic?id=21215)
 * ["You're learning CUDA all wrong," the NVIDIA engineer said Then he showed me their internal training path "Wait, you DON'T start with code?" Here's the exact 90-day roadmap they use👇 Phase 1️⃣… | Paolo Perrone | 118 comments](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
+* [Chirag Nagendra — Portfolio](https://chiragnagendra.vercel.app/cuda-kernel)
+  * [From crashing kernels to matching PyTorch speed: My CUDA journey | Chirag Nagendra posted on the topic | LinkedIn](https://www.linkedin.com/posts/chiragnagendra4575_cuda-kernel-optimization-project-activity-7389140560361709568-5iYe)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
