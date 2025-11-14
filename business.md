@@ -1556,6 +1556,8 @@ Business
   * [여현준 on LinkedIn: #비즈니스로어](https://www.linkedin.com/posts/yeosolutions_sakteiqwiswmrxgslq-activity-7211850727516741633-qAeE)
 * [김정훈 on LinkedIn: 협업 시 유독 손이 많이 가는 사람이 있다. 그들의 대표적인 특징 중 하나는 커뮤니케이션이 수동적이라는 점이다. 일반적인 사례는… | 12 comments](https://www.linkedin.com/posts/%EC%A0%95%ED%9B%88-%EA%B9%80-18b04251_%ED%98%91%EC%97%85-%EC%8B%9C-%EC%9C%A0%EB%8F%85-%EC%86%90%EC%9D%B4-%EB%A7%8E%EC%9D%B4-%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%9E%88%EB%8B%A4-%EA%B7%B8%EB%93%A4%EC%9D%98-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-activity-7213025886713888768-kD26)
 * [Erin Lee - 질문과 협업하는 방법은, 업무 방식과 사내 문화 형성과 관련이 있다 생각합니다. 시스템을 갖추고... | Facebook](https://www.facebook.com/erin20000/posts/pfbid0isTZhndEab3WnaA9DAZAs5dxev4QsxYfDHUjY1gWYx2EYNLakFqFqcuYGPypHsT9l)
+* [Collaboration sucks - by Charles Cook](https://newsletter.posthog.com/p/collaboration-sucks)
+  * [협업은 쓸모없다 | GeekNews](https://news.hada.io/topic?id=24312)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
