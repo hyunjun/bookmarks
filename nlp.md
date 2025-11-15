@@ -4472,6 +4472,7 @@ NLP
   * 1. 데이터 구조를 잘 알고 원하는 답을 정확히 아는 경우에는 SQL이 더 빠르다
   * 2. 반대로 데이터 구조를 모르거나 답이 어디에 있는지 모를 때는, 온톨로지 관계를 따라가다 보면 새로운 길을 열어줄 수도 있다
 * [이길환 - https://www.webig.ai 온톨로지는 특정 도메인의 개념과 그들 간의 관계를 형식적으로 정의한... | Facebook](https://www.facebook.com/story.php?story_fbid=122136470114942599&id=61578277976192)
+* [쉽게 쓰여진 온톨로지 만약 온톨로지를 공부해봐도 도대체 어떻게 쓰이는건지 아리쏭하다면, 바로 당신을 위한 글이다.   배경은 다들 알다시피 이러하다. 팔란티어(Palantir)가 이제는 다소 진부해진 LLM이나 RAG 대신 '온톨로지'를 전면에 내세워 기술력을 강조했고, 이것이 먹혀들어가며 시장을 점령했다. 그렇다면 이 온톨로지라는 것은 무엇이고… | Onion Kim](https://www.linkedin.com/posts/onion-kim-371976229_%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EB%A7%8C%EC%95%BD%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B4%90%EB%8F%84-%EB%8F%84%EB%8C%80%EC%B2%B4%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EC%9D%B4%EB%8A%94%EA%B1%B4%EC%A7%80-activity-7392501072008929280-d-d2)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
