@@ -266,6 +266,8 @@ Hardware
 
 # Jetson
 * [installJupyterNotebook: 젯슨나노에서 주피터노트북과 주피터랩을 설치하는 법](https://github.com/jugfk/installJupyterNotebook)
+* [🔴 GCP T4 실증 Jetson에서 YOLOv8이 '느린' 진짜 이유 | 43배(65ms→1.49ms) 성능 향상의 비밀 - YouTube](https://www.youtube.com/watch?v=ZFTiFPbPmG4)
+  * [Jetson Orin에서 YOLOv8 모델을 TensorRT로 변환했음에도, 65ms라는 '느린' 속도의 병목 현상 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2785284958479211&hoisted_section_header_type=recently_seen)
 * [DIY-ai-art: How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
 * [jetbot: An educational AI robot based on NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetbot)
   * [Jetson User Group For Korean | Facebook](https://www.facebook.com/groups/JUGFK/permalink/682904155863206/)
