@@ -2152,6 +2152,9 @@ App
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
+* [drawy: Your handy, infinite, brainstorming tool](https://github.com/Prayag2/drawy)
+  * Drawy is an infinite whiteboard tool (app) Written in Qt/C++
+  * it is designed as a native desktop alternative to the popular web based tool, Excalidraw
 * [egon.io](https://egon.io/)
 * [Eraser – The whiteboard for engineering teams](https://www.eraser.io/)
   * [Eraser AI](https://www.eraser.io/ai)
