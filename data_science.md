@@ -678,6 +678,7 @@ Data Science
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
+* [Octro](https://www.octro.io/) document to knowledge base
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [Positron](https://positron.posit.co/)
   * [Positron: 차세대 Data Scienc.. : 네이버블로그](https://blog.naver.com/ryang137/223990004043)
@@ -687,6 +688,8 @@ Data Science
   * [Diving Deeper into Psyberg: Stateless vs Stateful Data Processing | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb)
 * [quary: Open-source BI for engineers](https://github.com/quarylabs/quary)
   * [Quary - 엔지니어를 위한 오픈소스 BI | GeekNews](https://news.hada.io/topic?id=14953)
+* [Tensorlake](https://www.tensorlake.ai/)
+  * [Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs](https://github.com/tensorlakeai/tensorlake)
 * [Trellis AI](https://runtrellis.com/)
   * [Launch HN: Trellis – 비정형 데이터용 AI 기반 워크플로우 | GeekNews](https://news.hada.io/topic?id=16322)
 * Velox [Hello from Velox | Velox](https://velox-lib.io/)
