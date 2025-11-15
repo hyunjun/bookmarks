@@ -5203,6 +5203,8 @@ NLP
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
 * [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale | Meta AI Research](https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
+* [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
+  * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
 * [Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers](https://github.com/Zyphra/Zonos)
   * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/) Zonos-v0.1: 고품질 오픈소스 TTS 모델 공개!
