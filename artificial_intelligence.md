@@ -359,6 +359,8 @@ Artificial Intelligence
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
+* [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence?trk=public_post_comment-text) 공간 지능(Spatial Intelligence)
+  * [ImageNet 이후, Fei-Fei Li가 찾은 AI의 다음 문제 2012년, ImageNet이라는 데이터셋이 공개됩니다. 120만 개의 레이블된 이미지. 당시엔 그저 거대한 데이터베이스였지만, 이것이 현대 AI 혁명의 시작이었습니다. 신경망 알고리즘, GPU 컴퓨팅과 함께 ImageNet은 딥러닝 시대를 여는 세 가지 핵심 요소 중 하나가 됩니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_imagenet-%EC%9D%B4%ED%9B%84-fei-fei-li%EA%B0%80-%EC%B0%BE%EC%9D%80-ai%EC%9D%98-%EB%8B%A4%EC%9D%8C-%EB%AC%B8%EC%A0%9C-2012%EB%85%84-activity-7394120492422471680-LfpI)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
