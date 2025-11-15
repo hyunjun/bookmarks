@@ -496,6 +496,13 @@ Artificial Intelligence
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
+* [2510.26658 The Era of Agentic Organization: Learning to Organize with Language Models](https://arxiv.org/abs/2510.26658)
+  * [(2) Md Ismail Sojal - Microsoft Research just launched something that... | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid02d2rXupDqDk2xrYFemR7wJDq737GEpM5CdhN8uMDF5cntBW1dQ2gXvxv5Ck3zQQcSl)
+    * AsyncThink라는 새로운 추론 프로토콜 구축
+      * 복잡한 문제를 하위 질의로 깨는 Organizer
+      * 그 하위 부분을 동시에 해결하는 Workers
+      * 모두 수행하는 모델이 AsyncThink라는 새로운 추론 프로토콜 구축
+    * 마치 ""지능적인 에이전트" → "지능적인 조직""
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
@@ -597,6 +604,10 @@ Artificial Intelligence
   * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링](https://www.stdy.blog/korean-summary-effective-context-engineering-for-ai-agents/)
     * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링 | 배휘동](https://www.linkedin.com/posts/hwidongbae_%EC%9A%94%EC%95%BD-%EB%B2%88%EC%97%AD-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-activity-7381007159620386816-dB6t)
 * [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI | Towards Data Science](https://towardsdatascience.com/beyond-rag/)
+* [Context Engineering for Agents. TL;DR | by Kushal Banda | Towards AI](https://pub.towardsai.net/context-engineering-for-agents-e9585a8e60ad)
+  * Context engineering은 AI 에이전트가 진행하는 각 단계에서 필요한 정보를 적절히 선택하여 문맥 창에 채우는 기술
+  * 에이전트의 정확도와 효율성을 높이기 위한 핵심 기법
+  * "작업성과, 연산 효율성, 그리고 의사결정 품질 향상 목적"
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
