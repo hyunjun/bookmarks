@@ -320,6 +320,7 @@ Writing
   * 회의 때는 미리 작성한 문서를 다 같이 읽어서 정보 일치
   * "잘한 점", "못한 점", "배운 점", "문제점"을 꼭 모두 작성
   * 소통할 때는 항상 예의를 차려서 정중하게
+* [6페이지 미팅 진행 방법](https://joonanlab.notion.site/6-f623a1f12ef84b43b301da75780b7490) 6 pager
 * [개발자에서 기술 작가로 전직하기까지 2년 간의 이야기](https://tech.devsisters.com/posts/from-engineer-to-techwriter/)
   * 15년 넘게 엔지니어로 일하다가 기술 작가(테크니컬 라이터)로 전직한 경험 정리
   * 기술 작가는 "복잡한 정보를 독자의 눈높이에 맞추어 다양한 형태의 매체로 알기 쉽게 풀어서 설명해주는 일을 하는 사람"
@@ -343,6 +344,7 @@ Writing
 * [practice - 기술 작가와 함께 알아가는 테크니컬 라이팅 - 비문학 정보전달 글쓰기의 기본](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#37298e1c32f04906832782f6a1fb593a)
 * [보이지 않는 로직, 읽을 수 있는 문서로 만들기!](https://techblog.lycorp.co.jp/ko/turn-invisible-logic-into-readable-document) 정책서 policy
 * [**문서 작성 및 관리 노하우를 알리는 행사, Technical Documentation Day 참석 후기**](https://techblog.lycorp.co.jp/ko/internal-event-for-technical-writing-and-document-engineering)
+* [나의 첫번째 논문 쓰기 - 책](https://chaek.org/books/how-to-write-paper/README)
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
 * [technical-writing: 개발자를 위한 글쓰기 기본기](https://github.com/toss/technical-writing)
   * [테크니컬 라이팅 가이드](https://technical-writing.dev/)
