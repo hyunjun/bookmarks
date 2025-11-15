@@ -1747,6 +1747,8 @@ Programming
   * [Architects Live in the First Derivative • Gregor Hohpe • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=aKVwsv4u2kc)
 * [건축가, 최초의 파생상품에 살다 - 그레고르 호페 - YOW! 2019 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/698449)
 * [자주 보는 개발 설계 패턴 가지 탄 | 커리어리](https://careerly.co.kr/comments/78185)
+* [Design Patterns: Build better software from day one — Marine Guyot - YouTube](https://www.youtube.com/watch?v=mB5uGoXYG3A)
+  * [디자인 패턴: 소프트웨어 구축 및 연구 활용 | Marine Guyot](https://livewiki.com/ko/content/design-patterns-software-build)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
