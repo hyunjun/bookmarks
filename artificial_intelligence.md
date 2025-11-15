@@ -359,7 +359,7 @@ Artificial Intelligence
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
-* [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence?trk=public_post_comment-text) 공간 지능(Spatial Intelligence)
+* [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) 공간 지능(Spatial Intelligence)
   * [ImageNet 이후, Fei-Fei Li가 찾은 AI의 다음 문제 2012년, ImageNet이라는 데이터셋이 공개됩니다. 120만 개의 레이블된 이미지. 당시엔 그저 거대한 데이터베이스였지만, 이것이 현대 AI 혁명의 시작이었습니다. 신경망 알고리즘, GPU 컴퓨팅과 함께 ImageNet은 딥러닝 시대를 여는 세 가지 핵심 요소 중 하나가 됩니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_imagenet-%EC%9D%B4%ED%9B%84-fei-fei-li%EA%B0%80-%EC%B0%BE%EC%9D%80-ai%EC%9D%98-%EB%8B%A4%EC%9D%8C-%EB%AC%B8%EC%A0%9C-2012%EB%85%84-activity-7394120492422471680-LfpI)
 
 # AI agent
@@ -528,7 +528,7 @@ Artificial Intelligence
 * [Chain-of-Agents Interesting idea to train a single model with the capabilities of a multi-agent system. 84.6% reduction in inference cost! Distillation and Agentic RL are no joke! Here are my… | Elvis S. | 댓글 10](https://www.linkedin.com/posts/omarsar_chain-of-agents-interesting-idea-to-train-ugcPost-7363952245383524353-J-Tj/)
   * [Agent Foundation Model](https://chain-of-agents-afm.github.io/)
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
-* [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode?trk=public_post_comment-text)
+* [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
 * [Embabel](https://github.com/embabel)
   * [GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=yMDw0nlWd7s)
@@ -680,7 +680,7 @@ Artificial Intelligence
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
     * [인공지능 A2A란 무엇인가? 데모(demo.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223839552262)
-* [acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp?trk=public_post_comment-text)
+* [acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
   * [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
   * [After MCP, A2A, & AG-UI, we've a new protocol: (open-sourced by IBM research) AI agents working in silos are slowing down innovation! ACP (Agent Communication Protocol) breaks down these barriers,… | Akshay Pachaar | 댓글 30](https://www.linkedin.com/posts/akshay-pachaar_after-mcp-a2a-ag-ui-weve-a-new-protocol-activity-7365374949672280064-uXrZ)
 * [ag2: AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ](https://github.com/ag2ai/ag2)
@@ -1324,7 +1324,7 @@ Artificial Intelligence
       * 그리고 구현된 초안을 에이전트가 결정론적으로 테스트할 수 있는 BDD/TDD의 적용
       * 그리고 수행자가 일일이 이러한 SW 개발 프로세스를 누락없이 실행하기 위하여 엠비언트 에이전트 스타일의 휴먼-인-더-루프 개입
     * 구현범위를 한정(바운디드 컨텍스트) 시켜 LLM 의 환각을 최소화하고 품질을 높일 수 있다는 아이디어
-* [UK government programmers trialed AI coding assistants from Microsoft, GitHub, and Google – here's what they found | IT Pro](https://www.itpro.com/software/development/uk-government-ai-coding-assistant-trial-developer-time-savings?trk=public_post_comment-text)
+* [UK government programmers trialed AI coding assistants from Microsoft, GitHub, and Google – here's what they found | IT Pro](https://www.itpro.com/software/development/uk-government-ai-coding-assistant-trial-developer-time-savings)
   * [영국 정부가 GitHub Copilot, Google Gemini Code Assist 등 AI 코딩 어시스턴트를 도입해 1,000명 이상의 개발자를 대상으로 실험한 결과가 발표됐습니다. - 개발자 1명당 하루 평균 약 1시간 절약 - 연간으로 환산하면 28일치 노동 시간 - 응답자의 72%는 “유용하다”, 65%는 “업무 속도가 빨라졌다”, 58%는… | Seolmin Jeong](https://www.linkedin.com/posts/seolmin_%EC%98%81%EA%B5%AD-%EC%A0%95%EB%B6%80%EA%B0%80-github-copilot-google-gemini-code-activity-7374233774445821952-zPIZ)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
@@ -1640,9 +1640,9 @@ Artificial Intelligence
 # Paper
 * [2502.01493 The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration](https://arxiv.org/abs/2502.01493)
   * [이 논문은 인간-AI 협업이 기능하기 위해 반드시 갖추어야 할 세 가지 조건을 제시한다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-%EC%9D%B8%EA%B0%84-ai-%ED%98%91%EC%97%85%EC%9D%B4-%EA%B8%B0%EB%8A%A5%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-activity-7350147720826798080-rsLH)
-  * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029?trk=public_post_comment-text)
+  * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
     * [Human-AI Collaboration: The Future of Team Dynamics](https://www.functionly.com/orginometry/the-ai-revolution/human-ai-collaboration-the-future-of-team-dynamics)
-    * [CPAIS-Framework-and-Case-Studies-9-23.pdf](https://partnershiponai.org/wp-content/uploads/2021/08/CPAIS-Framework-and-Case-Studies-9-23.pdf?trk=public_post_comment-text)
+    * [CPAIS-Framework-and-Case-Studies-9-23.pdf](https://partnershiponai.org/wp-content/uploads/2021/08/CPAIS-Framework-and-Case-Studies-9-23.pdf)
 * [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
   * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
@@ -1735,7 +1735,7 @@ Artificial Intelligence
 * [연구활용 AI 도구 사용방법 | Pega Devlog](https://jehyunlee.github.io/2025/01/20/General-76_researchgenai/)
 * [인공지능 deepseek, 챗GPT, grok3, claude, gemini중 누가 퍼블리싱을 잘할까?](https://blog.naver.com/pjt3591oo/223769434169)
 * [2025 AI Darwin Award Nominees - Worst AI Failures of the Year](https://aidarwinawards.org/nominees-2025.html) AI의 가장 어리석은 작동을 수상
-* [Slack is giving AI unprecedented access to your workplace conversations | VentureBeat](https://venturebeat.com/ai/slack-is-giving-ai-unprecedented-access-to-your-workplace-conversations?trk=public_post_comment-text)
+* [Slack is giving AI unprecedented access to your workplace conversations | VentureBeat](https://venturebeat.com/ai/slack-is-giving-ai-unprecedented-access-to-your-workplace-conversations)
   * [가장 폐쇄적이어야 할 것을 Slack이 개방했습니다 회사의 모든 대화를 외부에 풀어줬습니다. 전략 회의, 프로젝트 논의, 심지어 비공식 결정까지. 권한만 주면 외부 AI 툴이 접근할 수 있습니다. Slack은 이것이 AI 전쟁의 승부처라고 본 것 같습니다. 얼마전 발표된 Real-time Search API와 Model Context Protocol을… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EA%B0%80%EC%9E%A5-%ED%8F%90%EC%87%84%EC%A0%81%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%84-slack%EC%9D%B4-%EA%B0%9C%EB%B0%A9%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%9A%8C%EC%82%AC%EC%9D%98-%EB%AA%A8%EB%93%A0-%EB%8C%80%ED%99%94%EB%A5%BC-activity-7380002282551246849-hq0Q)
 * [The 28 AI tools I wish existed](https://sharif.io/28-ideas-2025)
   * [내가 바라는 28가지 AI 도구 | GeekNews](https://news.hada.io/topic?id=23395)
@@ -1902,7 +1902,7 @@ Artificial Intelligence
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
 * [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
-* [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme?trk=public_post_feed-article-content)
+* [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
@@ -1935,6 +1935,7 @@ Artificial Intelligence
       * [awesome-claude-skills: A curated list of Claude Skills](https://github.com/BehiSecc/awesome-claude-skills)
       * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills)
       * [Skill_Seekers: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection](https://github.com/yusufkaraaslan/Skill_Seekers)
+    * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
@@ -1946,12 +1947,17 @@ Artificial Intelligence
     * [I was using sub-agents wrong... Here is my way after 20+ hrs test | Chris Han](https://www.linkedin.com/posts/chriskr7_i-was-using-sub-agents-wrong-here-is-my-activity-7367091969870712832-0jAL)
       * [저는 하위 에이전트를 잘못 사용했습니다... 20시간 이상 테스트한 후의 제 방법은 다음과 같습니다. - YouTube](https://www.youtube.com/watch?v=LCYBVpSB0Wo)
         * [I was using sub-agents wrong... Here is my way after 20+ hrs test | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5594613/5256713)
+    * [Claude Code Subagent: Context Engineering | by jongwony | DelightRoom | Nov, 2025 | Medium](https://medium.com/delightroom/claude-code-subagent-context-engineering-5d8123ed4252)
+      * [Claude Code Subagent: Context Engineering | Jongwon Choi](https://www.linkedin.com/posts/jongwon-choi-366b5b111_claude-code-subagent-context-engineering-activity-7394187236797423616-UAAU)
     * [agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
     * [agents: sharing current agents in use](https://github.com/contains-studio/agents)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
       * [Claude Agent SDK로 개발한 agent로 복잡한 동작을 수행했을 때의 결과 #claude #langgraph #aws #planning #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-langgraph-aws-ugcPost-7383118953402961920-xkl0)
     * [my-agents](https://github.com/ddhelop/my-agents)
       * [Context Engineering으로 저만의 프로덕트팀을 꾸렸습니다](https://www.linkedin.com/posts/ddhelop_%EC%B5%9C%EA%B7%BC%EC%97%90-context-engineering%EC%9C%BC%EB%A1%9C-%EC%A0%80%EB%A7%8C%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%ED%8C%80%EC%9D%84-%EA%BE%B8%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7357358834371211264-_XL_/)
+  * [Use Cases | Claude](https://claude.com/resources/use-cases)
+    * [Use Cases | Claude | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_use-cases-claude-activity-7394015977232953345-PpV6)
+    * [와우 .. 솔직히 저만 보고 싶을 정도로 너무 잘 정리되어있네요. 클로드에서 "AI 활용법 45가지"를 굉장히 잘 정리된 자료가 있어 공유합니다. 이 자료가 특히 유용한 이유는, 단순히 팁만 나열하는 것이 아닌 디테일한 프롬프트 작업, 레퍼런스 자료 업로드와 같은 순서도 구체적으로 나와있습니다. 예를 들어, 클로드 등을 활용해 고퀄리티의 시각 자료나… | Jaeyun Henry Lee | 28 comments](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%A0%80%EB%A7%8C-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%84%88%EB%AC%B4-%EC%9E%98-%EC%A0%95%EB%A6%AC%EB%90%98%EC%96%B4%EC%9E%88%EB%84%A4%EC%9A%94-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%97%90%EC%84%9C-activity-7393864328803840000-Hm97)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
   * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
@@ -2050,6 +2056,8 @@ Artificial Intelligence
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
+  * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
+    * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
       * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
