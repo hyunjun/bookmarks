@@ -3820,6 +3820,9 @@ Javascript
   * [Node.js 타입스크립트를 기본으로 지원하기 시작 | GeekNews](https://news.hada.io/topic?id=18670)
 * [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
 * [Unpacking Node.js Memory - From Raw Bytes to Usable Data | banjocode](https://www.banjocode.com/post/node/memory-management)
+* [Node.js — Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices)
+  * 보안 모범 사례 문서는 웹 서버, 의존성 관리, 민감 정보 노출 등 다양한 공격 벡터와 대응 방법 제시
+  * 서버 취약점, 서드파티 패키지 위험, 타임 어택 방지 등 현실적 위협과 그에 대한 구체적 대응책 안내
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
