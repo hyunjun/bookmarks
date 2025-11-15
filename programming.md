@@ -1011,6 +1011,8 @@ Programming
 * [선언적 프로그래밍에 대한 착각과 오해](https://evan-moon.github.io/2025/09/07/declarative-programming-misconceptions-and-essence/)
 * [1.5시간 안에 바이브 코딩으로 수익형 미니앱 개발하고 3000만 유저에게 런칭하기 with 앱인토스 - YouTube](https://www.youtube.com/watch?v=SNOjrzGpUkQ)
   * [(광고) 3000만 명 이상이 사용하는 ‘토스’ 앱 안에 내 서비스를 출시할 수 있는 '앱인토스' 기능이 생겼습니다! 아직 블루오션인 지금 바로 시작해 보세요!! (☕스타벅스 커피 100% 증정 & 수수료 및 마케팅 무료 이벤트 진행 중) 저도 직접 강의 촬영 겸 앱인토스로 'AI 사진관' 앱을 만들어 출시해 봤습니다. 디자인, 개발, 수익화… | 조동근](https://www.linkedin.com/posts/jocoding_%EA%B4%91%EA%B3%A0-3000%EB%A7%8C-%EB%AA%85-%EC%9D%B4%EC%83%81%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%86%A0%EC%8A%A4-%EC%95%B1-%EC%95%88%EC%97%90-%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%A0-ugcPost-7386035844832223232-2s0b)
+* [Reconstructing the Simulmatics Code](https://storymaps.arcgis.com/stories/1a21155318ee48c3bd407b993d4a2336)
+  * [what the Simulmatics Corporation actually did has been solved](https://www.linkedin.com/posts/adampool_reconstructing-the-simulmatics-code-activity-7394472644504363008-3-Qv)
 
 # Agile, Scrum
 * book
@@ -5786,6 +5788,9 @@ Programming
 * [코드 수정 없는 디버깅이 생산성을 높인다](https://velog.io/@isanghao/%EC%BD%94%EB%93%9C-%EC%88%98%EC%A0%95-%EC%97%86%EB%8A%94-%EB%94%94%EB%B2%84%EA%B9%85%EC%9D%B4-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B8%EB%8B%A4)
 * [우아한 디버깅 툴 1부: 웹뷰/웹페이지 원격으로 디버깅하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/23343/)
 * [우아한 디버깅 툴 2부: 좀 더 편하게 일하기 위한 개선들 | 우아한형제들 기술블로그](https://techblog.woowahan.com/23457/)
+* [The Debugging Book • Andreas Zeller & Clare Sudbery - YouTube](https://www.youtube.com/watch?v=EdLwVt4LCXo)
+  * [The Debugging Book | gotopia.tech](https://gotopia.tech/episodes/387/the-debugging-book)
+  * [디버깅 북: 안드레아스 젤러와 클레어 서드베리가 말하는 자동화된 디버깅의 미래와 디버깅 도구 제작](https://livewiki.com/ko/content/debugging-book-andreas-clare)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
