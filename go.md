@@ -387,6 +387,13 @@ Go
       * 적당히 좋은 성능 + 단순성 + 재사용성이 더 가치 있음
       * 오히려 SIMD 최적화를 추가하면 복잡성과 유지비용만 늘어나고 실무에서는 손해
     * 결론: Go 팀의 기존 설계가 옳았다. 때로는 최적화하지 않는 것이 최적화다
+* [5 API Design Patterns in Go That Solve Your Biggest Problems (2025)](https://cristiancurteanu.com/5-api-design-patterns-in-go-that-solve-your-biggest-problems-2025/)
+  * Go API 프로젝트에서 발생하는 가장 큰 문제들을 해결하기 위한 다섯 가지 핵심 디자인 패턴 설명
+  * Golang의 미니멀한 표준 라이브러리가 복잡한 애플리케이션 구조화에 대한 지침을 제한적으로 제공한다는 점을 지적
+    * 이로 인해 유지보수성이 떨어지는 코드가 발생하는 문제 강조
+  * 제시된 다섯 가지 패턴은 Repository, Middleware, Handler, Service, Context 패턴
+    * 이들은 각각 데이터 접근 추상화, 요청 전반의 관심사 중앙 집중화, HTTP 처리 구조화, 비즈니스 로직 캡슐화, 요청 생명주기 관리 담당
+  * 궁극적인 목표는 이러한 전략적 설계 결정을 통해 Go REST API를 더욱 견고하고, 테스트 용이하며, 확장 가능하게 만드는 것
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
