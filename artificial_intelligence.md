@@ -1379,6 +1379,7 @@ Artificial Intelligence
   * LLM이 만든 텍스트는 광고성인 경우가 많아서 인터넷이 앞으로 정보의 출처로서 영구적으로 퇴보할 가능성이 높다
   * 에세이 쓰기는 두뇌를 위한 근력운동이기 때문에 LLM으로는 인지능력을 향상할 수 없고
   * 예술은 표현의 한 형태이기 때문에 욕구가 없는 ChatGPT는 예술을 할 수 없다고 이야기
+* [AI에 일자리를 위협받는 경영 컨설턴트 - YouTube](https://www.youtube.com/watch?v=v3458BvXXIA) 대체
 * [AI는 전기를 먹고 자란다 < 사회 < 기사본문 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=53307)
   * AI의 인기로 하이퍼스케일 데이터센터가 생겨나고 있고
     * 기존에 기업에서 쓰던 전력을 100% 재생에너지로 충당하겠다는 RE100 선언에 동참했던 빅테크 기업들도
@@ -1723,6 +1724,7 @@ Artificial Intelligence
 * [생각은 내가, 정리는 AI가! 생산성 도구모음 | 요즘IT](https://yozm.wishket.com/magazine/collection/69240/)
   * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
   * [“AI가 대신 일해주면 정말 좋겠네~” 업무용 AI 툴 추천 | 요즘IT](https://yozm.wishket.com/magazine/detail/3379/)
+* [사용자가 찾아오는 제품: AI로 만든 항공가 스캐너 ‘럭키글라이드’의 한 달 | by Myrealtrip | How we build Myrealtrip | Nov, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%B0%BE%EC%95%84%EC%98%A4%EB%8A%94-%EC%A0%9C%ED%92%88-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%95%AD%EA%B3%B5%EA%B0%80-%EC%8A%A4%EC%BA%90%EB%84%88-%EB%9F%AD%ED%82%A4%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%ED%95%9C-%EB%8B%AC-bc47e46f3628)
 * [amplifier](https://github.com/microsoft/amplifier)
   * 복잡한 작업 프로세스를 '메타인지 레시피'로 기술하면, 이를 기반으로 반복적이고 재사용 가능한 AI 도구 자동 생성 시스템
   * 개발자는 코드 없이 워크플로우 자동화 가능, 다양한 유틸리티와 협업 환경을 통해 프로젝트를 체계적으로 관리할 수 있도록 도움
