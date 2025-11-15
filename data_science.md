@@ -689,7 +689,7 @@ Data Science
   * [Diving Deeper into Psyberg: Stateless vs Stateful Data Processing | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb)
 * [quary: Open-source BI for engineers](https://github.com/quarylabs/quary)
   * [Quary - 엔지니어를 위한 오픈소스 BI | GeekNews](https://news.hada.io/topic?id=14953)
-* [Tensorlake](https://www.tensorlake.ai/)
+* [Tensorlake](https://www.tensorlake.ai/) 구조화되지 않은 문서에서 맞춤 정의된 구조화된 데이터를 3단계로 추출하는 도구
   * [Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs](https://github.com/tensorlakeai/tensorlake)
 * [Trellis AI](https://runtrellis.com/)
   * [Launch HN: Trellis – 비정형 데이터용 AI 기반 워크플로우 | GeekNews](https://news.hada.io/topic?id=16322)
