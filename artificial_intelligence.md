@@ -512,6 +512,7 @@ Artificial Intelligence
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
   * [이상선 - 마소에서 공개한 Agent 튜닝/최적화/관리 오픈소스 tool 링크... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02JdDUk4esoRE1sBWameKuj14ETgxsZaEiYH3uxhXpLhehSBmXz3W1RXNpQMSmYqw6l)
+  * [코드변경 없이 모든 AI 에이전트를 최적화 가능한 강화학습 머신으로 변환해주는 오픈소스 프레임워크 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoft-activity-7391613983985852416-mKXy)
 * [AGENTS.md](https://agents.md/)
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
@@ -1935,6 +1936,7 @@ Artificial Intelligence
       * [awesome-claude-skills: A curated list of Claude Skills](https://github.com/BehiSecc/awesome-claude-skills)
       * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code](https://github.com/travisvn/awesome-claude-skills)
       * [Skill_Seekers: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection](https://github.com/yusufkaraaslan/Skill_Seekers)
+    * [Claude Skills.. 앤트로픽에 $200를 내야하는 이유 - YouTube](https://www.youtube.com/watch?v=jxzpitU9YBg)
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
