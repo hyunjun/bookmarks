@@ -682,6 +682,8 @@ Docker
 * [Why Docker isn't always a good idea Part 1 - DEV Community 👩💻👨💻](https://dev.to/n00d13/why-docker-isnt-always-a-good-idea-part-1-5ha1)
 * [Implementing Container Manager](https://iximiuz.com/en/series/implementing-container-manager/)
 * [What are Docker, Containers, Virtual Machines, and Containerization? | by Dineshchandgr | Medium](https://dineshchandgr.medium.com/what-are-docker-containers-virtual-machines-and-containerization-e68bf076edf4)
+* [Containerization ≠ Modernization: Kick-Start Your Transformation Journey • Jeevan Dongre • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ULcWhYFMEKY)
+  * [컨테이너화 ≠ 현대화: 혁신 여정을 시작하세요 | Jeevan Dongre | GOTO 2025](https://livewiki.com/ko/content/containerization-modernization-transformation-journey)
 * [Container Orchestration and Kubernetes — Part 2 | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/container-orchestration-and-kubernetes-part-2-8bf0ff2637e0)
 * [컨테이너 인터널 #1 컨테이너 톺아보기](https://tech.kakaoenterprise.com/154)
 * [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
@@ -2713,6 +2715,8 @@ Docker
   * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
   * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
   * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
+* [eBPF를 활용한 문제 해결 사례 - EBUSY — IndieCoder](https://back1ash.tistory.com/entry/eBPF%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%AC%EB%A1%80-EBUSY)
+  * [eBPF를 활용한 문제 해결 사례 - EBUSY | 이해준](https://www.linkedin.com/posts/back1ash_ebpf%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%AC%EB%A1%80-ebusy-activity-7394359872340844544-tSKT)
 * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
 * [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
 * [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
