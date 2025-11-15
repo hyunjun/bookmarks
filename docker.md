@@ -2338,6 +2338,10 @@ Docker
     * [Kubernetes, KEDA 및 Karpenter로 EDA 워크로드 확장하기 - 나타샤 라이트 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/840633)
   * [Scale to zero on GKE with KEDA | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda?hl=en)
   * [Mastering Auto-Scaling with KEDA HTTP Add-on | by JB | Jan, 2025 | Medium](https://medium.com/@chillcaley/mastering-auto-scaling-with-keda-http-add-on-ea3a737d2a91)
+  * [Autoscaling .NET APIs with KEDA and Kubernetes Metrics | by Bhagya Rana | Medium](https://medium.com/@bhagyarana80/autoscaling-net-apis-with-keda-and-kubernetes-metrics-9a8b6a6a9a21)
+    * .NET API를 Kubernetes 환경에서 KEDA(Kubernetes Event-driven Autoscaling)와 Kubernetes 메트릭 활용 실시간 자동 확장하는 방법 설명
+    * 전통적인 CPU/메모리 기반 자동 확장이 아닌, 이벤트 기반 스케일링으로 트래픽 급증 상황에서도 빠르게 대응 가능
+    * KEDA는 외부 이벤트 및 맞춤형 지표를 활용해 효율적으로 컨테이너 수를 조절하는 핵심 도구
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
