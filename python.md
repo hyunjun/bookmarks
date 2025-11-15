@@ -1960,6 +1960,7 @@ Python
 * [Best Python Books To Read Out in 2021 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * A Byte of Python [Introduction · HonKit](https://python.swaroopch.com/)
   * ["A Byte of Python" is a free book on programming using the Python language](https://python.swaroopch.com/)
+  * [A Byte of Python (한국어판) - 책](https://chaek.org/books/a_byte_of_python-korean_translation)
   * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
