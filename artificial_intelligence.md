@@ -502,6 +502,7 @@ Artificial Intelligence
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
+  * [이상선 - 마소에서 공개한 Agent 튜닝/최적화/관리 오픈소스 tool 링크... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02JdDUk4esoRE1sBWameKuj14ETgxsZaEiYH3uxhXpLhehSBmXz3W1RXNpQMSmYqw6l)
 * [AGENTS.md](https://agents.md/)
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
