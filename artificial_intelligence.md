@@ -1383,6 +1383,11 @@ Artificial Intelligence
   * 에세이 쓰기는 두뇌를 위한 근력운동이기 때문에 LLM으로는 인지능력을 향상할 수 없고
   * 예술은 표현의 한 형태이기 때문에 욕구가 없는 ChatGPT는 예술을 할 수 없다고 이야기
 * [AI에 일자리를 위협받는 경영 컨설턴트 - YouTube](https://www.youtube.com/watch?v=v3458BvXXIA) 대체
+* [The State of AI: Global Survey 2025 | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+  * [(2) Tae Hyung Kim - AI가 발전하면서 사람 대신 데이터를 분석하고, 보고서를 만드는 일까지 할 수 있게 되어서... | Facebook](https://www.facebook.com/socialego/posts/pfbid02WDx6FjTgQ7KRnSb7zWQ4mLHZRQ2eEuLppWjvZ7vzypxC4rHtXBHyuwoRHCviD5eDl)
+    * 이 보고서는 AI 때문에 컨설팅이 끝났다가 아니라, AI 시대이기 때문에 우리가 더 필요한 이유가 바로 여기에 있다고 말하고 있다
+    * 이 놀라운 맥킨지의 변신을 배워야 할것 같다
+    * 개인도, 조직도 맥킨지처럼 자기 존재의 이유를 새롭게 정의하고, AI 시대에 맞게 변신할 필요가 있다
 * [AI는 전기를 먹고 자란다 < 사회 < 기사본문 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=53307)
   * AI의 인기로 하이퍼스케일 데이터센터가 생겨나고 있고
     * 기존에 기업에서 쓰던 전력을 100% 재생에너지로 충당하겠다는 RE100 선언에 동참했던 빅테크 기업들도
