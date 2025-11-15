@@ -2792,6 +2792,8 @@ AWS
   * [aws-kr-startup-samples/analytics/streaming-data-to-s3tables-with-datafirehose at main · aws-samples/aws-kr-startup-samples · GitHub](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/analytics/streaming-data-to-s3tables-with-datafirehose)
   * [saas-metering-system-on-aws/v3 at main · aws-samples/saas-metering-system-on-aws · GitHub](https://github.com/aws-samples/saas-metering-system-on-aws/tree/main/v3)
 * [AWS S3 Data Transfer to GCS support Storage Transfer Service](https://seonggi.kr/282)
+* [Secure File Uploads Made Simple: Mastering S3 Presigned URLs with React and FastAPI | by Sanmugam | Oct, 2025 | Medium](https://medium.com/@sanmugamsanjai98/secure-file-uploads-made-simple-mastering-s3-presigned-urls-with-react-and-fastapi-258a8f874e97)
+  * [How to use S3 presigned URLs for file uploads | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_secure-file-uploads-made-simple-mastering-activity-7393768959579299840-mXo9)
 * [Bucket monopoly : 간단한 S3 이름의 함정](https://beaver-dam.tistory.com/8)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
