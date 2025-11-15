@@ -2039,6 +2039,9 @@ AWS
 * [AWS EC2 인스턴스 프로파일 자동 부여 아키텍처 구현 | by rex.chun | Medium](https://medium.com/@7424069/aws-ec2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EC%9E%90%EB%8F%99-%EB%B6%80%EC%97%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84-8667724dd06b)
 * [Handling billions of invocations – best practices from AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/)
 * [The dangers of serverless at scale: a cautionary tale | Charlie Holland님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/chaholl_serverless-at-scale-is-bullshit-on-a-recent-activity-7376198764505493505-U6jm)
+* [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
+  * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
+    * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
 * [awskrug/aiengineering-demo · GitHub](https://github.com/awskrug/aiengineering-demo/tree/main/backend)
   * [AI 를 사용한 인프라 자판기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_WFbhroUFSOSdg2IgFolAPQwFWhaFZt6EWMBkYtmWkvAEE51y2kcJRasiGCcFSAcAV7It2oVXq5VB/pub)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
