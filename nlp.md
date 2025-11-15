@@ -2265,6 +2265,17 @@ NLP
     * 사용자 경험을 최적화하기 위해 프롬프트 템플릿을 포함한 전체 LLM 기반 시스템을 평가 중요성 강조
     * 최적의 결과를 얻기 위한 최선의 방법, 표준 도구 및 선별된 데이터셋의 역할 강조
 * [On-device용 AI 모델과, Cloud향 AI 모델의 구조가 점점 달라지는 방향으로 최적화될 거 같다는 예상](https://www.facebook.com/groups/TensorFlowKR/posts/2252038391803873)
+* [SK AI 경연 최우수상 수상 후기: 1B 모델로 tool calling하기 SK그룹에서는 매년 전 계열사가 참여하는 AI… | Jihwan Kim](https://www.linkedin.com/posts/jihwan-kim-749ba6164_sk-ai-%EA%B2%BD%EC%97%B0-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EC%88%98%EC%83%81-%ED%9B%84%EA%B8%B0-1b-%EB%AA%A8%EB%8D%B8%EB%A1%9C-tool-calling%ED%95%98%EA%B8%B0-activity-7393153299140681728-Z6jh) on-device 경량 언어모델 개발
+  * 1B 크기의 경량 모델(llama 3.2 1b)로 수십 종류의 function call을 정확하게 수행 필요
+    * 처음에는 파인튜닝 없이 접근, 1B 모델은 복잡한 instruction도, 다양한 function call도 제대로 소화 불가능
+  * 결국 파인튜닝을 선택, 접근 방법은 의외로 단순
+    * 상용 LLM으로 각 tool별 충분한 학습 데이터 생성
+    * Unsloth를 활용한 full finetuning (학습 시간 30분 이내)
+    * Runpod의 A100 GPU 사용 (1회 학습 비용 1달러), 비용 부담이 적어서 다양한 실험을 부담 없이 진행
+  * 결과는 기대 이상
+    * 잘 파인튜닝된 1B LLM은 여러 건의 tool calling을 동시에 처리하는 복잡한 문제도 안정적으로 해결
+    * 결과적으로 95% 이상의 정답률을 달성하여 상용 LLM 급의 성능
+    * 적절한 도구와 학습 전략만 있다면, 경량 LLM 파인튜닝은 프로덕션 환경에서 충분히 실용적인 선택지
 * [Blend LLMs to Make Best Performing AI Model - YouTube](https://www.youtube.com/watch?v=byf-y0P4hMg)
   * [VidiGo Blend LLMs to Make Best Performing AI Model](https://vidigo.ai//chatbot/summary/5c9gOYk8qXRPuV5)
   * [LLM을 혼합하여 최고 성능의 AI 모델 만들기 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/386585?sId=byf-y0P4hMg)
@@ -2571,6 +2582,9 @@ NLP
   * [#machinelearning #datascience #inference | Anshuman Mishra | 29 comments | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5890311/5708963)
 * [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
   * [LLM들은 왜 해마 이모지에서 이상 행동을 보일까? | GeekNews](https://news.hada.io/topic?id=23487)
+* [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋 | Elice](https://www.linkedin.com/posts/elice_b200-gpu%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%86%8C%ED%98%95-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%E2%91%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-activity-7394531899060338689-vcX0)
+  * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋](https://elice.io/ko/newsroom/b200-korean-llm-dataset-1)
+  * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ② - 학습·평가](https://elice.io/ko/newsroom/b200-korean-llm-dataset-2)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -5136,6 +5150,7 @@ NLP
       * response time for GPT-4 is 1.2 seconds, they think it is able to get it down to 1 second soon
     * TTS - using PlayHT, also run on premise, said PlayHT > ElevenLabs
     * WebRTC - using Daily.co
+* [VibeVoiceFusion: A complete full-stack voice generation solution with an intuitive user interface, project management, and advanced VRAM optimization features](https://github.com/zhao-kun/VibeVoiceFusion/)
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
