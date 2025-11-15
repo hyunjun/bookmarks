@@ -2377,7 +2377,7 @@ Business
   * 5. 결정은 한 명이 한다
   * 6. 그 한 명은 누구인가?
   * 7. 위임은 언제라도 회수될 수 있다
-* [How to Delegate Like a Founder CEO](https://www.the-founders-corner.com/p/how-to-delegate-like-a-founder-ceo?trk=public_post_comment-text)
+* [How to Delegate Like a Founder CEO](https://www.the-founders-corner.com/p/how-to-delegate-like-a-founder-ceo)
   * [🔥 <창업자가 위임 못 하면, 회사는 그냥 창업자 to-do list 수준에 묶여버린다> - 회사를 진짜로 키우려면 위임을 ‘제대로’ 배워야 한다. 😵 아침 9시인데 벌써 하루가 꼬였다. 데크는 밀리고, 배송은 지연되고, 급한 불은 세 개나 터졌다. 정작 창업자가 잡아둔 ‘비전 작업’은 아직 시작도 못 했다. 열정과 집착으로 여기까지 끌고… | Daero Won | 댓글 10](https://www.linkedin.com/posts/wondaero_%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%9C%84%EC%9E%84-%EB%AA%BB-%ED%95%98%EB%A9%B4-%ED%9A%8C%EC%82%AC%EB%8A%94-%EA%B7%B8%EB%83%A5-%EC%B0%BD%EC%97%85%EC%9E%90-to-do-list-%EC%88%98%EC%A4%80%EC%97%90-activity-7377107135182286849-gT8D)
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)

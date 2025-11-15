@@ -548,7 +548,7 @@ Machine Learning
     * 1) XGBoost 2) MLP neural network 3) simple siamese neural network 4) siamese recurrent neural network
   * [Part 2 of the Tutorial Neural-network-based models + assessment on test set](https://blog.daftcode.pl/building-supervised-models-for-user-verification-part-2-of-the-tutorial-1ba807029f74)
     * 신경망 기반 모델에 중점을 두고 테스트 세트에서 네 가지 모델의 성능을 살펴봄
-* [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup?trk=v-feed)
+* [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup)
   * [High Performance TensorFlow in Production with Kubernetes + GPUs @ Seattle Kubernetes Meetup](https://www.youtube.com/watch?v=eoGazZ6wa8g)
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)

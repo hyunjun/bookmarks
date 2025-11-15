@@ -406,7 +406,7 @@ NLP
   * [Turn websites into knowledge bases | Embedding.io](https://www.embedding.io/)
 * [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
   * [임베딩 기술은 저평가 되었음 | GeekNews](https://news.hada.io/topic?id=17545)
-* [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가?](https://kr.linkedin.com/pulse/%EC%99%9C-%EB%8B%A8%EC%9D%BC-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B8%EC%84%9C%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%80%EB%A9%B4-%EA%B2%80%EC%83%89%EC%9D%84-%EB%AA%BB-%ED%95%98%EB%8A%94%EA%B0%80-jin-hyung-park-sigrid-jin--sbkxc?trk=public_post_feed-article-content)
+* [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가?](https://kr.linkedin.com/pulse/%EC%99%9C-%EB%8B%A8%EC%9D%BC-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EB%AC%B8%EC%84%9C%EA%B0%80-%EB%A7%8E%EC%95%84%EC%A7%80%EB%A9%B4-%EA%B2%80%EC%83%89%EC%9D%84-%EB%AA%BB-%ED%95%98%EB%8A%94%EA%B0%80-jin-hyung-park-sigrid-jin--sbkxc)
   * [왜 단일 임베딩 모델은 문서가 많아지면 검색을 못 하는가? | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EB%8B%A8%EC%9D%BC-%EB%B2%A1%ED%84%B0-%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%80-%ED%91%9C%ED%98%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%A7%88%EC%9D%98-%EB%AC%B8%EC%84%9C-%EA%B4%80%EB%A0%A8%EC%84%B1-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%A3%BC%EC%96%B4%EC%A7%84-activity-7367381132939546624-ag59)
 * [It's all just text - stitcher.io](https://stitcher.io/blog/its-all-just-text) 단순화된 관점으로 보면 복잡한 문제들을 더 쉽게 이해하고 해결 가능
   * [결국 모든 것은 텍스트이다 | GeekNews](https://news.hada.io/topic?id=17050)
@@ -3650,7 +3650,7 @@ NLP
       * [양병석 - 이제 제 노트북에서 로컬 llm돌릴수 있는 환경이 됬습니다. 그런데 역시 deepseek답네요. ㅜㅡ... | Facebook](https://www.facebook.com/fstory97/posts/pfbid02pfex8AJ8z7v9KDa4HJR47x55LWPKFfi6TXfw1aERzGKSwRnNuhdnC2Gsgzh8wFcQl)
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
-* [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX?trk=public_post_comment-text)
+* [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX)
   * [an RL framework called RLYX (formerly, simple-r1)](https://www.linkedin.com/posts/sungju-kim-3b0406b0_github-goddoerlyx-a-hackable-simple-activity-7366509719814881281-zZ4d)
 * [RouteLLM: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!](https://github.com/lm-sys/RouteLLM)
   * [RouteLLM - LLM 라우터 서빙 및 평가를 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=15800)

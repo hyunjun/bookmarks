@@ -484,7 +484,7 @@ SQL
 * [Sendbird의 Amazon Aurora MySQL 에서의 대용량 테이블 스키마 변경을 위한 SB-OSC 개발 및 적용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-sendbird-developed-and-applied-sb-osc-for-very-large-amazon-aurora-mysql-operations/)
 * [Amazon Aurora MySQL 버전 3의 바이너리 로깅을 이용한 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/binary-logging-optimizations-in-amazon-aurora-mysql-version-3/)
 * [Amazon Aurora MySQL 스토리지 공간 활용도 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-amazon-aurora-mysql-storage-space-utilization/)
-* [Amazon Aurora MySQL 블루/그린 배포 전환 후 롤백 전략 구현 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/?sc_channel=sm&sc_campaign=Korean_blog&sc_publisher=FACEBOOK&sc_country=global&sc_geo=APAC&sc_outcome=awareness&trk=implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover)
+* [Amazon Aurora MySQL 블루/그린 배포 전환 후 롤백 전략 구현 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/)
 * [Amazon Aurora Blue/Green Deployment를 활용하여 애플리케이션 계층을 포함한 데이터베이스 변경 사전 테스트하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/pretesting-database-changes-including-application-with-amazon-aurora-blue-green-deployments/)
   * Amazon Aurora Blue/Green Deployment는 애플리케이션 계층을 포함한 데이터베이스 변경의 사전 테스트를 가능하게 하는 효과적인 방법
   * 이 플랫폼은 CQRS 패턴, Amazon Route53의 트래픽 흐름 및 트래픽 정책, 그리고 블루/그린 배포를 활용하여 프로덕션 환경에서 현실적인 테스트 수행
