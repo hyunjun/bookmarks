@@ -608,6 +608,8 @@ Android
       * Jetpack Compose를 도입해서 Trio 구축 시작
     * Trio를 통해 모듈 경계를 넘어 통신할 때 type safety를 보장하고 스크린샷과 UI 테스트가 가능한 장점 존재
 * [ThreeLevelExpandableListView: Android 3 Level Expendable ListView example](https://github.com/DonggeunJung/ThreeLevelExpandableListView)
+* [Vectras-VM-Android: It's a Virtual Machine App for Android Which is Based on QEMU](https://github.com/xoureldeen/Vectras-VM-Android/)
+  * Virtual machine app for Android based on QEMU
 * [ViewPager2 사용하는 방법 정리](https://developer88.tistory.com/242)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Volley와 Stetho로 네트워크 디버깅](http://sunphiz.me/wp/archives/3473)
