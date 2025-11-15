@@ -3454,6 +3454,8 @@ NLP
 * [LLMSearchRecommender: This compendium reviews significant published research contributions and industrial engineering practices in leveraging Generative AI and LLMs for developing search, recommender, personalization, and question-answering systems. It aims to cover the entire spectrum of research and practices](https://github.com/alopatenko/LLMSearchRecommender)
 * [LLMServingPerfEvaluator](https://github.com/friendliai/LLMServingPerfEvaluator)
   * [Measuring LLM Serving Performance with LLMServingPerfEvaluator](https://friendli.ai/blog/llm-serving-perf-evaluator/)
+* [LLMStack | AI Agents in Minutes | No-code AI App Builder | LLMStack](https://llmstack.trypromptly.com/)
+  * [LLMStack: No-code multi-agent framework to build LLM Agents, workflows and applications with your data](https://github.com/trypromptly/LLMStack)
 * [llm-starter-pack: 🤖 Get started with LLMs on your kind cluster, today!](https://github.com/cncf/llm-starter-pack)
 * [The /llms.txt file – llms-txt](https://llmstxt.org/)
   * [Llms.txt - LLM에게 웹사이트 이용정보를 제공하기 위한 표준 제안 | GeekNews](https://news.hada.io/topic?id=16676)
