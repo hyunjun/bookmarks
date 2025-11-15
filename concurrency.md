@@ -33,6 +33,11 @@ Concurrency
 * [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 / if(kakaoAI)2024 - YouTube](https://www.youtube.com/watch?v=4wGTavSyLxE) functional spring AOP
   * [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 - Speaker Deck](https://speakerdeck.com/kakao/ifkakao24-86)
 * [VLL(Very Light Lock) lock manager 소개](https://velog.io/@skynet/VLLVery-Light-Lock-lock-manager-%EC%86%8C%EA%B0%9C)
+* [Blog: The Concurrency Conundrum: A Story of Curiosity and Code | Wawandco](https://wawand.co/blog/posts/the-concurrency-conundrum/)
+  * Concurrency(동시성)는 단일 스레드 한정에서 "무엇을 할 것인가"와 "언제 끝날 것인가"를 분리해 시스템 처리량과 구조를 개선
+  * 다중 사용자를 동시에 처리해 성능 향상이 가능하지만, 오히려 오버헤드가 발생할 수 있어 항상 성능 향상 보장은 불가능
+  * 잘못된 동시성 코드는 deadlock, livelock, 처리량 저하 문제 야기
+  * 따라서 동시성 코드는 다른 코드와 분리하고 단일 책임 원칙을 준수하며, 읽기-쓰기 문제 같은 핵심 문제 해결 집중 필요
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
