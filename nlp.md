@@ -3993,6 +3993,7 @@ NLP
   * [Retrieval-Augmented Generation for Large Language Models: A Survey - 요즘 주목받는 키워드 중 하나인 RAG(Retrieval-Augmented Generation)에 대한 종합적인 연구동향 조사 분석 분석](https://www.facebook.com/1biit/posts/pfbid02ELvS8Qo77LKJJ9qLBg5AgWzpeR2FTb3HXg2ByKyvoeAsjdsown9SumY9uJkUDxr1l)
 * [retriever-simple-benchmark: Make running benchmark simple yet maintainable, again. Now only supports Korean-based cross-encoder](https://github.com/instructkr/retriever-simple-benchmark)
   * [가볍고 효율적인 RAG 모델 평가 코드 프로젝트 | GeekNews](https://news.hada.io/topic?id=18501)
+* [torchv-unstructured: TorchV开源的解析代码仓库](https://github.com/torchv/torchv-unstructured)
 
 # Law
 * [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
