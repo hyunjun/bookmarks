@@ -1747,6 +1747,9 @@ Artificial Intelligence
   * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
   * [“AI가 대신 일해주면 정말 좋겠네~” 업무용 AI 툴 추천 | 요즘IT](https://yozm.wishket.com/magazine/detail/3379/)
 * [사용자가 찾아오는 제품: AI로 만든 항공가 스캐너 ‘럭키글라이드’의 한 달 | by Myrealtrip | How we build Myrealtrip | Nov, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%B0%BE%EC%95%84%EC%98%A4%EB%8A%94-%EC%A0%9C%ED%92%88-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%95%AD%EA%B3%B5%EA%B0%80-%EC%8A%A4%EC%BA%90%EB%84%88-%EB%9F%AD%ED%82%A4%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%ED%95%9C-%EB%8B%AC-bc47e46f3628)
+* [Alt - AI Lecture Notetaker](https://www.altalt.io/)
+  * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
+  * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
 * [amplifier](https://github.com/microsoft/amplifier)
   * 복잡한 작업 프로세스를 '메타인지 레시피'로 기술하면, 이를 기반으로 반복적이고 재사용 가능한 AI 도구 자동 생성 시스템
   * 개발자는 코드 없이 워크플로우 자동화 가능, 다양한 유틸리티와 협업 환경을 통해 프로젝트를 체계적으로 관리할 수 있도록 도움
@@ -2411,6 +2414,7 @@ Artificial Intelligence
 * [Rocket.new | Build Web & Mobile Apps 10x Faster Without Code](https://www.rocket.new/)
 * [Roo Code – Your AI-Powered Dev Team in VS Code](https://roocode.com/)
   * [Roo-Code: Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor](https://github.com/RooVetGit/Roo-Code)
+* [Rork — create a mobile app using AI in minutes](https://rork.com/)
 * [Shadow](https://www.shadowrealm.ai/)
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
