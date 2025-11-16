@@ -888,6 +888,7 @@ Artificial Intelligence
     * [잘알려지지 않은 Gemini의 유용한 기능 #2 - 구글 검색 연동과, 코드 실행](https://bcho.tistory.com/1479)
   * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind - YouTube](https://www.youtube.com/watch?v=8EQo4J2BWKw)
     * [Thinking Deeper in Gemini — Jack Rae, Google DeepMind | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5424932/5003073)
+  * [Google Gemini AI의 신기술 | File Search API - YouTube](https://www.youtube.com/watch?v=m_0s5bQLfJA)
   * [Gemini Browser](https://gemini.browserbase.com/)
     * [나 대신 앱을 사용해주는 AI (구글 제미니 브라우져를 사용해 본 소감) | 김덕중](https://www.linkedin.com/posts/duckjungkim_gemini-browser-activity-7383023297233502208-S-Z5)
   * [gemini-chatbot: Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini](https://github.com/vercel-labs/gemini-chatbot)
