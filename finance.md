@@ -301,6 +301,7 @@ Finance
 * [전종홍 - DeepSeek는 정말 실제로는 헤지펀드를 위한 사이드 프로젝트였던 것일까요 ? 미국 시장 조사 회사인... | Facebook](https://www.facebook.com/1biit/posts/pfbid02RSmx8ban35iGztCpKatY8tqAKvXMcaYwfiWExBQ1kibuSMYQvQ3bwQfvaEh9GZhil)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
+* [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [ChatGPT-Micro-Cap-Experiment: This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
