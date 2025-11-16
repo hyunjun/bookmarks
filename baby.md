@@ -41,6 +41,7 @@ Baby
   * 쇼츠도 그렇고 짧은 시간에 소비할 수 있는게 더 위험. 차라리 넷플릭스같은 게 그나마 나음(덜 중독적)
 * [어떤 상황에서도 아들을 설득해내는 무적의 설득법 최민준 - YouTube](https://www.youtube.com/watch?v=fqVUArIoN0Q)
 * [(2) Oh Hyeunseung - 청소년들은 부모님이 살아가는 방식과 세계관을 당연하게 여긴다. 돈을 중요시 하는 부모에게... | Facebook](https://www.facebook.com/hyeunseung82/posts/pfbid02G3ZDePQV3wtfPRorpqbLNSG4dCioycy8tU3VKjHCdcrAcn5BEou2GXGaGSzfvKG9l) default mode network
+* [아이들에게 스마트폰을 준다는 것은 물리학자 김상욱의 ‘격물치지’](https://v.daum.net/v/20251116094200562) 불안 세대, 인간은 의례를 갈망한다, 가짜 결핍, 포르노, 그리고 당신의 뇌
 
 # 육아휴직
 * [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
