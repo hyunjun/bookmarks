@@ -6391,6 +6391,8 @@ Programming
 * [메모리 취약점:과거, 현재, 미래 (5) Format String Attacks](https://cpuu.postype.com/post/4042449)
 * [메모리 취약점:과거, 현재, 미래 (6) Address Space Layout Randomization (ASLR)](https://cpuu.postype.com/post/4077799)
 * [메모리 관리 전략(Memory Managing Strategy) 및 가상 메모리 (Virtual Memory)](https://jungwoon.github.io/2019/09/25/2019-07-31-Virtual-Memory/)
+* [Home — Memory Management Reference 4.0 documentation](https://www.memorymanagement.org/)
+  * 메모리 관리에 관한 용어, 기초 개념, 논문, FAQ 등을 제공, 다양한 메모리 관리 기법과 관련 기술 소개
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
