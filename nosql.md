@@ -48,6 +48,11 @@ NoSQL
 * [SQL vs NoSQL](https://velog.io/@yh_lee/SQL-vs-NoSQL)
 * [10 Things You Didn’t Know Your Data Can Do for You by Stanimira Vlaeva - YouTube](https://www.youtube.com/watch?v=OsfVj5mdaVw)
 
+# Aerospike
+* [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
+  * [Aerospike & IoT using MQTT | Aerospike](https://aerospike.com/blog/aerospike-and-iot-using-mqtt)
+* [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
+
 # AnnaDB
 * [AnnaDB](https://annadb.dev/)
 * [Announcing AnnaDB - next-gen NoSQL database - DEV Community 👩💻👨💻](https://dev.to/romanright/announcing-annadb-next-gen-nosql-database-3k3n)
@@ -57,10 +62,6 @@ NoSQL
 * [Benchmark: PostgreSQL, MongoDB, Neo4j, OrientDB and ArangoDB](https://www.arangodb.com/2015/10/benchmark-postgresql-mongodb-arangodb/)
 * [Data modeling with multi-model databases](http://radar.oreilly.com/2015/07/data-modeling-with-multi-model-databases.html)
 * [NoSQL Performance Benchmark 2018 – MongoDB, PostgreSQL, OrientDB, Neo4j and ArangoDB](https://www.arangodb.com/2018/02/nosql-performance-benchmark-2018-mongodb-postgresql-orientdb-neo4j-arangodb)
-
-# Aerospike
-* [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
-* [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
