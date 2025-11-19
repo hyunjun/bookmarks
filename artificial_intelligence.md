@@ -352,10 +352,10 @@ Artificial Intelligence
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
 * [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
   * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+  * [‘더 이상 IT 기획 실패는 없다’...IT 기획 자동화 플랫폼 ‘매니패스트’](https://www.venturesquare.net/1010613)
   * AI 코딩 도구가 개발 생산성을 크게 향상시켰음에도 불구하고 프로젝트 전체 속도는 크게 개선되지 않음
   * 원인은 제대로 구조화되지 않은 파편적인 기획, 기획 단계의 중요성이 AI 시대에 더욱 커짐
   * AI가 빠른 코딩을 가능케 하나 불명확한 요구사항은 재작업과 프로젝트 지연 초래
-  * 따라서 AI 활용의 핵심은 '기획'의 정확하고 체계적 구조화
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
@@ -531,6 +531,9 @@ Artificial Intelligence
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
+* [Browser Use - The AI browser agent](https://browser-use.com/)
+  * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
+  * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
 * [Chain-of-Agents Interesting idea to train a single model with the capabilities of a multi-agent system. 84.6% reduction in inference cost! Distillation and Agentic RL are no joke! Here are my… | Elvis S. | 댓글 10](https://www.linkedin.com/posts/omarsar_chain-of-agents-interesting-idea-to-train-ugcPost-7363952245383524353-J-Tj/)
   * [Agent Foundation Model](https://chain-of-agents-afm.github.io/)
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
@@ -547,6 +550,8 @@ Artificial Intelligence
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
+* [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
+  * [옴에이전트](https://om-agent.cn/)
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
 * [openenv (OpenEnv: Agentic Execution Environments)](https://huggingface.co/openenv)
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
@@ -1767,6 +1772,8 @@ Artificial Intelligence
   * [회의의 늪에서 벗어나는 법, ‘AI 회의 시뮬레이션’ | 요즘IT](https://yozm.wishket.com/magazine/detail/3368/)
   * [“AI가 대신 일해주면 정말 좋겠네~” 업무용 AI 툴 추천 | 요즘IT](https://yozm.wishket.com/magazine/detail/3379/)
 * [사용자가 찾아오는 제품: AI로 만든 항공가 스캐너 ‘럭키글라이드’의 한 달 | by Myrealtrip | How we build Myrealtrip | Nov, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%B0%BE%EC%95%84%EC%98%A4%EB%8A%94-%EC%A0%9C%ED%92%88-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%95%AD%EA%B3%B5%EA%B0%80-%EC%8A%A4%EC%BA%90%EB%84%88-%EB%9F%AD%ED%82%A4%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%ED%95%9C-%EB%8B%AC-bc47e46f3628)
+* [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars | by NocoBase | Oct, 2025 | Medium](https://medium.com/@nocobase/top-11-open-source-no-code-ai-tools-with-the-most-github-stars-eea56126a8e3)
+  * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars - NocoBase](https://www.nocobase.com/en/blog/top-11-github-open-source-no-code-ai-tools)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
@@ -1903,6 +1910,7 @@ Artificial Intelligence
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
+* [VibeDoc: 🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds](https://github.com/JasonRobertDestiny/VibeDoc)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
 * [WaterCrawl: Transform Web Content into LLM-Ready Data](https://github.com/watercrawl/WaterCrawl)
   * [이상선 - WaterCrawl — 웹 스크래핑을 예술로 만든 AI급 크롤링 툴 혁신적 웹 스크래핑 도구:... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02v6qEr68FBV2mjh1UYAi3EqHJFZXvqEBryeTRtBERkgVof4YcLYVRVgwgLc1R2TiWl)
@@ -1941,6 +1949,7 @@ Artificial Intelligence
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
 * [Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion - YouTube](https://www.youtube.com/watch?v=CrE2cpW4CGQ)
   * [AI 지원 개발: 시스템, 관계, 그리고 대응 | Jessica Kerr & Diana Montalion](https://livewiki.com/ko/content/ai-assisted-development)
+* [Joe Magerramov's blog: The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
