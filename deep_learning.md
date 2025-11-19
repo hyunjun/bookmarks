@@ -1884,8 +1884,13 @@ Deep Learning
   * [Neural Networks: Zero to Hero - YouTube](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
   * [GN#186 신경망 개발을 밑바닥부터 코딩하며 배우기 | GeekNews](https://news.hada.io/weekly/202305)
 * [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
-* [triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
+* [triton: Development repository for the Triton language and compiler](https://github.com/triton-lang/triton)
   * [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
+  * [Welcome to Triton’s documentation! — Triton documentation](https://triton-lang.org)
+  * [Deep Dive into Triton Internals (Part 1) | Kapil Sharma](https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals/)
+  * [Deep Dive into Triton Internals (Part 2) | Kapil Sharma](https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals-2/)
+  * [Deep Dive into Triton Internals (Part 3) | Kapil Sharma](https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals-3/)
+  * [Dive into Triton Internals - Speaker Deck](https://speakerdeck.com/appleparan/dive-into-triton-internals)
 
 ## Neural Network ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
