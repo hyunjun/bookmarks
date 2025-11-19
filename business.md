@@ -1561,6 +1561,7 @@ Business
 * [Erin Lee - 질문과 협업하는 방법은, 업무 방식과 사내 문화 형성과 관련이 있다 생각합니다. 시스템을 갖추고... | Facebook](https://www.facebook.com/erin20000/posts/pfbid0isTZhndEab3WnaA9DAZAs5dxev4QsxYfDHUjY1gWYx2EYNLakFqFqcuYGPypHsT9l)
 * [Collaboration sucks - by Charles Cook](https://newsletter.posthog.com/p/collaboration-sucks)
   * [협업은 쓸모없다 | GeekNews](https://news.hada.io/topic?id=24312)
+* [감정을 돌보면 일이 잘 되고, 공감 없는 협업은 없다](https://brunch.co.kr/@graypool/2516)
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
