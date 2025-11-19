@@ -1613,6 +1613,13 @@ Artificial Intelligence
   * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
 * [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
 * [충격적입니다. Claude Code 가 Cursor를 앞질렀고, 6개월 안에 Copilot도 제끼고 1등입니다.. 사티아(MS CEO)가 "1등이지만, 혁신 안 하면 죽는다"라고 말했습니다. 모든 자료를 모은 NotebookLM 에서 보세요. Claude Code, Cursor, Copilot이 모두 약 10억 달러 규모의 비슷한 수익을 내고 있고… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9E%85%EB%8B%88%EB%8B%A4-claude-code-%EA%B0%80-cursor%EB%A5%BC-%EC%95%9E%EC%A7%88%EB%A0%80%EA%B3%A0-6%EA%B0%9C%EC%9B%94-%EC%95%88%EC%97%90-activity-7395585141512966146-OT1U)
+* [Build for the Future 2025.. : 네이버블로그](https://blog.naver.com/bcg_kr/224073406379)
+  * 핵심 비즈니스 영역에서의 가치 창출
+    * BCG의 연구에 따르면, AI로부터 창출될 수 있는 잠재 가치의 70%는 영업과 마케팅, 제조, 공급망, 가격 결정 등 핵심 비즈니스 기능에 집중
+    * 연구개발과 혁신 영역만 해도 전체 잠재 가치의 15%
+    * 이는 2024년 보고서에서 확인된 추세 즉, AI 가치의 62%가 핵심 비즈니스 기능에서 발생한다는 결과가 여전히 유효함을 방증
+    * 유일하게 예외적인 부문은 IT. IT 부문의 AI 가치 비중은 2025년에 6% 상승해 전체의 13%
+  * [박우범 - AI 혁명, '파일럿'의 함정을 넘어 '진짜 AX'로 가는 길 최근 BCG에서 발표한 'Build... | Facebook](https://www.facebook.com/woobeom/posts/pfbid02XHf2iR5r8DgotrsiajPUXKeRfJ64ALwZQC5nuUba8KmXTA6PjsfXzkaTU9H499eXl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1791,6 +1798,7 @@ Artificial Intelligence
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [Memex - Everything Builder for Your Computer](https://memex.tech/)
   * [10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트 | GeekNews](https://news.hada.io/topic?id=20698)
+* [Metis is an open-source, AI-driven tool for deep security code review](https://github.com/0xSojalSec/metis)
 * [Mistral AI Studio - your AI production platform | Mistral AI](https://mistral.ai/products/ai-studio)
   * [🚀 Mistral AI Studio 출시: 기업 AI의 생산성 혁신을 위한 완성형 플랫폼](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Mistral-AI-Studio-%EC%B6%9C%EC%8B%9C-%EA%B8%B0%EC%97%85-AI%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%98%81%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%99%84%EC%84%B1%ED%98%95-%ED%94%8C%EB%9E%AB%ED%8F%BC)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
@@ -1913,6 +1921,8 @@ Artificial Intelligence
 * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
+* [Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion - YouTube](https://www.youtube.com/watch?v=CrE2cpW4CGQ)
+  * [AI 지원 개발: 시스템, 관계, 그리고 대응 | Jessica Kerr & Diana Montalion](https://livewiki.com/ko/content/ai-assisted-development)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
@@ -2409,6 +2419,7 @@ Artificial Intelligence
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
+* [RA.Aid: Develop software autonomously.](https://github.com/ai-christianson/RA.Aid) Coding agent for autonomous software development
 * [Replit – Build apps and sites with AI](https://replit.com/)
   * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
 * [Rocket.new | Build Web & Mobile Apps 10x Faster Without Code](https://www.rocket.new/)
