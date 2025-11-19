@@ -641,6 +641,8 @@ Web
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai)
   * [Home - Crawl4AI Documentation (v0.7.x)](https://docs.crawl4ai.com/)
+* [CrawlerDetect - the web crawler detection library](https://crawlerdetect.io/)
+  * [Crawler-Detect: 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent](https://github.com/JayBizzle/Crawler-Detect/)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
 * [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
