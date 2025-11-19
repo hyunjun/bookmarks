@@ -4303,6 +4303,8 @@ Business
     * 공동창업자들이 싸우는 경우가 많음
     * 주변을 카피하면서 평범
     * 제품이 아주 느리게 개선
+* [Inside Gravel: When Founder Conflicts Killed a $14 Million Dream](https://www.therunway.ventures/p/gravel)
+  * [원대로 - 😥<1400만 달러 투자받고 1년 만에 망한 스타트업의 진짜 이유> - "친구끼리 공동 창업? 돈 들어오면... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid02dy8kLiXKpWzn6ta1b72JbW4grFLGK51vmNSpkJSRqNmvXWZjG88etUGU71mW4GBil)
 * [유니콘이 된 스타트업들의 Go to Market 전략 12가지](https://www.fall-moon.com/64?category=935177)
 * [소노스 CEO가 블랙베리 실패에서 배운 4가지 교훈 - 티타임즈](https://www.ttimes.co.kr/article/2022080818247772113) 안전지대
 * [비키, 빙글, 더벤처스 그리고 캔 문지원·호창성 부부의 창업기 - 티타임즈](https://www.ttimes.co.kr/article/2022080817567789392)
