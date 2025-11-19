@@ -61,6 +61,8 @@ Monitoring
 * [p95, 어떻게 구할까? (DD-sketch를 통한 백분위수 구하기)](https://blog.imqa.io/dd-sketch/)
 * [CPU 이용률의 두 가지 얼굴 - CPU 코어 사용량(Usage)과 활용률(Utilization) - 넷마블 기술 블로그](https://netmarble.engineering/cpu-core-usage-and-utilization)
 * [Reliable Architectures through Observability - YouTube](https://www.youtube.com/watch?v=21nYUG1puyQ)
+* [Why Observability Matters (More!) with AI Applications - YouTube](https://www.youtube.com/watch?v=KjFFpjKSNHM)
+  * [AI 애플리케이션의 관측 가능성: LLM 모니터링 및 최적화를 위한 오픈 소스 스택 구축](https://livewiki.com/ko/content/observability-ai-applications)
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
