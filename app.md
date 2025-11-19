@@ -123,6 +123,9 @@ App
 * [Libby - Welcome](https://libbyapp.com)
   * [영패훈 리비가 뭐야? 오버드라이브가 뭐야? 우리집 근처에 영어전자도서관이 있을까? - YouTube](https://www.youtube.com/watch?v=7G4hDjwBbmw)
   * [Locate Library · OverDrive: Free ebooks, audiobooks & movies from your library](https://www.overdrive.com/libraries) 우편번호 63644 사용
+* [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
+  * LibrePods provides access to Apple's exclusive AirPods features on Android and Linux devices
+  * Get access to noise control modes, adaptive transparency, ear detection, hearing aid features, customized transparency mode, battery status, and other premium features that Apple confines to their ecosystem
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * listusb [macOS 사용자들을 위한 listusb (lsusb 와 비슷) : 클리앙](https://www.clien.net/service/board/pds/17956235)
