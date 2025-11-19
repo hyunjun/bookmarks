@@ -601,6 +601,8 @@ Machine Learning
 * [~An Introduction to Causal Inference with Gaussian Processes, Part I~](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
 * [A Survey of Causal Inference Applications at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
 * [Round 2: A Survey of Causal Inference Applications at Netflix | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb)
+* [Avik Basu - Beyond Just Prediction: Causal Thinking in Machine Learning | PyData Seattle 2025 - YouTube](https://www.youtube.com/watch?v=KhEgqEE7LDY)
+  * [예측을 넘어: 머신러닝의 인과적 사고 | PyData Seattle 2025](https://livewiki.com/ko/content/avik-basu-causal-thinking-machine-learning)
 * [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 * [머신러닝 관점에서 가우시안 프로세스의 소개 (최성준 박사님)](https://www.youtube.com/watch?v=Kgr-BQLVhuA)
 * [가우시안 혼합 모델(Gaussian mixture model) 기초 개념](https://losskatsu.github.io/machine-learning/gmm/)
