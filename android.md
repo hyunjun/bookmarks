@@ -409,6 +409,8 @@ Android
 * [AndroidRaptor: Stealth Android Remote Manager](https://github.com/elieser9001/AndroidRaptor)
 * [android-template](https://github.com/vidinoti/android-template)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
+* [Andronix App](https://andronix.app/)
+  * [AndronixOrigin: This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎](https://github.com/AndronixApp/AndronixOrigin/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
   * [안드로이드 테스팅의 효자손 '앱피움' 파헤치기(2)](https://www.imaso.co.kr/news/article_view.php?article_idx=20150904170524)
