@@ -503,6 +503,7 @@ Artificial Intelligence
       * 그 하위 부분을 동시에 해결하는 Workers
       * 모두 수행하는 모델이 AsyncThink라는 새로운 추론 프로토콜 구축
     * 마치 ""지능적인 에이전트" → "지능적인 조직""
+* [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
@@ -531,6 +532,8 @@ Artificial Intelligence
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
+* [Dynamiq: The Operating Platform for GenAI Applications](https://www.getdynamiq.ai/)
+  * [Dynamiq is an orchestration framework for agentic AI and LLM applications](https://github.com/dynamiq-ai/dynamiq)
 * [Embabel](https://github.com/embabel)
   * [GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=yMDw0nlWd7s)
     * [JVM에서 프로덕션 준비 에이전트 구축: GenAI 비즈니스 성공 전략 (Rod Johnson, GOTO 2025)](https://livewiki.com/ko/content/genai-production-agents-jvm)
@@ -1880,6 +1883,8 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [toon: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK](https://github.com/toon-format/toon)
   * [Md Ismail Sojal - RIP JSON. AI just got a data format that... | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid02rkEQsqxSY1k9yV9LWVp6KRuYZBoE4CQjNyF1dp9uziMyKnYmoxe3qKmg8ke8CnSHl)
+* [TrendRadar: 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点](https://github.com/sansan0/TrendRadar)
+  * [AI로 35개 플랫폼을 24시간 모니터링하고, 내 관심사만 골라 푸시해주는 맞춤형 뉴스 레이더 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_github-activity-7396325019641024512-O_va)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
@@ -2309,6 +2314,8 @@ Artificial Intelligence
   * [바이브 코딩을 포기하거나 멈춰있는 고급 사용자를 위한 실전 팁 - YouTube](https://www.youtube.com/watch?v=gP92KZq4N9s)
   * [GitHub Copilot CLI is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/)
     * [조남호 - Github Copilot CLI가 Preview로 공개되었습니다. IDE나 에디터 내부가 아니라 터미널... | Facebook](https://www.facebook.com/namojo/posts/pfbid035PDryYJRykfyb2JWNBoMfsFoFgMGvHoukmDQ3gLGpn3PdeU4xftQmBwk6Z462Ak4l)
+  * [GITHUB COPILOT CODE REVIEW / AI에게 코드 리뷰를 시키는 방법 - YouTube](https://www.youtube.com/watch?v=ghFvqUeOc8A)
+    * [GitHub Copilot을 활용한 AI 코드 리뷰 자동화 및 활용 팁 (Remote Indexing, LLM 모델, 모드, 프롬프트, 인스트럭션)](https://livewiki.com/ko/content/github-copilot-code-review-ai)
   * [Agents panel: Launch Copilot coding agent tasks anywhere on github.com - GitHub Changelog](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com/)
   * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
