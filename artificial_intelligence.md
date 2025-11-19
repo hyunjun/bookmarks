@@ -1814,6 +1814,9 @@ Artificial Intelligence
   * [keploy: API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!](https://github.com/keploy/keploy)
   * [AI 시대 개발자를 위한 필수 테스트 도구, Keploy 완전 정복](https://digitalbourgeois.tistory.com/1964)
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
+* [langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization](https://github.com/google/langextract)
+  * Extract entities, attributes, and relations with exact source grounding from unstructured documents
+  * Flexible LLM support (Gemini, OpenAI, Ollama)
 * [Learn Your Way](https://learnyourway.withgoogle.com/)
   * [Learn Your Way | 김덕중](https://www.linkedin.com/posts/duckjungkim_learn-your-way-activity-7374082724954882049-5gim)
 * [lets-talk](https://github.com/mafzaal/lets-talk)
