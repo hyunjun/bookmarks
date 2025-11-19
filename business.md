@@ -1063,6 +1063,7 @@ Business
   * 피드백 정기 모니터링
 * [원온원 6년의 기록: 시행착오와 배움들 · 어쩐지 오늘은](https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/)
 * [1on1 잘하는 요즘 조직은 이렇게 합니다. | 그로플 백종화 2부 H.PODCAST - YouTube](https://www.youtube.com/watch?v=Iw4N0HKmi_o)
+* ["직원관리 돈 쓸 필요 없다. 그냥 1가지만 하세요" 팀장 되기 전에 꼭 알아야 할 것ㅣ리더십 200% 발휘하는 원온원 미팅 핵심 노하우 (윤수환 작가) - YouTube](https://www.youtube.com/watch?v=_6NymbUqe_o)
 
 # 우선순위
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
@@ -4487,6 +4488,7 @@ Business
   * 1단계: 신뢰를 설계하다 (2022-2023)
   * 2단계: 습관이 해자가 되다 (2023-2024)
   * 3단계: 성공이 파트너십을 부르다 (2025)
+* [**미국 사회를 배웁니다 - Small Business**](https://blog.cliwant.com/small-business-in-usa/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
