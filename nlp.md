@@ -4079,7 +4079,6 @@ NLP
 * [은전한닢 프로젝트 - 검색에서 쓸만한 오픈소스 한국어 형태소 분석기를 만들자!](http://eunjeon.blogspot.kr/)
   * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 * [academictorrents.com](http://academictorrents.com/)
-* [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
   * [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
     * [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional_random_field.py)
@@ -4168,7 +4167,6 @@ NLP
   * [kiwipiepy: Python API for Kiwi](https://github.com/bab2min/kiwipiepy)
     * [Kiwi로 한국어 문장 분리하기](https://bab2min.tistory.com/669)
     * [한국어 형태소 분석기 Kiwipiepy 사용방법 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/2362)
-* [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * [KoParadigm: Korean Inflectional Paradigm Generator](https://github.com/Kyubyong/paradigm)
   * paradigm은 용언 활용 테이블을 뜻하는 언어학 용어. 예를 들어, 영어의 go는 go, went, going, goes 등과 같이 어형이 변화
@@ -4209,7 +4207,6 @@ NLP
 * [Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://github.com/going-doer/Paper2Code)
   * [최신 논문을 자동으로 완전한 코드로 변환해주는 Multi Agent 오픈소스 라이브러리](https://www.linkedin.com/posts/h4y3j1n_sota-activity-7352842254383812608-yqo4/)
   * [md2tex: a simple and customizable markdown 2 (la)tex command line interface conversion tool](https://github.com/hongsw/md2tex)
-* [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [pattern: Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization](https://github.com/clips/pattern)
 * [pecab: Pure python mecab analyzer for Japanese and Korean](https://github.com/hyunwoongko/pecab)
 * [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
@@ -4477,6 +4474,8 @@ NLP
   * 2. 반대로 데이터 구조를 모르거나 답이 어디에 있는지 모를 때는, 온톨로지 관계를 따라가다 보면 새로운 길을 열어줄 수도 있다
 * [이길환 - https://www.webig.ai 온톨로지는 특정 도메인의 개념과 그들 간의 관계를 형식적으로 정의한... | Facebook](https://www.facebook.com/story.php?story_fbid=122136470114942599&id=61578277976192)
 * [쉽게 쓰여진 온톨로지 만약 온톨로지를 공부해봐도 도대체 어떻게 쓰이는건지 아리쏭하다면, 바로 당신을 위한 글이다.   배경은 다들 알다시피 이러하다. 팔란티어(Palantir)가 이제는 다소 진부해진 LLM이나 RAG 대신 '온톨로지'를 전면에 내세워 기술력을 강조했고, 이것이 먹혀들어가며 시장을 점령했다. 그렇다면 이 온톨로지라는 것은 무엇이고… | Onion Kim](https://www.linkedin.com/posts/onion-kim-371976229_%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EB%A7%8C%EC%95%BD%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B4%90%EB%8F%84-%EB%8F%84%EB%8C%80%EC%B2%B4%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EC%9D%B4%EB%8A%94%EA%B1%B4%EC%A7%80-activity-7392501072008929280-d-d2)
+* [AI 답변 성능의 핵심은 GraphRAG와 온톨로지.팔란티어의 사례를 파헤쳐 봅니다 l Sionic AI ML 엔지니어 정세민,박진형(AI 팟캐스트 #74) - YouTube](https://www.youtube.com/watch?v=Y0wb27QFaFU)
+  * [AI 답변 성능의 핵심: 그래프 RAG와 온톨로지, 팔란티어 사례 분석 (Sionic AI ML 엔지니어 정세민, 박진형)](https://livewiki.com/ko/content/graphrag-ontology-palantir-ai)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 
@@ -4550,7 +4549,20 @@ NLP
 
 # Parser
 
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)
+* [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
+  * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
+  * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
+  * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l\&did=79)
+* [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
+* [Grammatical Framework - A programming language for multilingual grammar applications](http://www.grammaticalframework.org/)
+* [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
+* [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
+* [Phoenix Server - a Galaxy-wrapped version of the Phoenix robust semantic CFG parser](http://wiki.speech.cs.cmu.edu/olympus/index.php/Phoenix)
+* [SLING: A Natural Language Frame Semantic Parser](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)
+* [SQLova - a neural semantic parser translating natural language utterance to SQL query](https://github.com/naver/sqlova)
+* STORM Parse [Gemini FileSearch 보다 성능이 20% 높은 성능의 스톰 파스 (STORM Parse)](https://blog.sionic.ai/stormparse-vs-googleapi)
+  * [storm-cookbook: Welcome to the Storm Cookbook! This is your go to guide for Building with STORM Solution](https://github.com/sionic-ai/storm-cookbook)
+* SyntaxNet [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)
   * [SyntaxNet: 텐서플로우 NLP](https://tensorflow.blog/2016/05/13/syntaxnet-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-nlp/)
   * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
   * [Google SyntaxNet 설치하기(Ubuntu / Mac)](http://cpuu.postype.com/post/197684/)
@@ -4560,14 +4572,6 @@ NLP
   * [github.com/dsindex/parsing-syntaxnet](https://github.com/dsindex/blog/wiki/\[parsing]-SyntaxNet)
   * [github.com/krikit/syntaxnet](https://github.com/krikit/syntaxnet)
   * [An Upgrade to SyntaxNet, New Models and a Parsing Competition](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html)
-* [Grammatical Framework - A programming language for multilingual grammar applications](http://www.grammaticalframework.org/)
-* [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
-  * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
-  * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
-  * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l\&did=79)
-* [Phoenix Server - a Galaxy-wrapped version of the Phoenix robust semantic CFG parser](http://wiki.speech.cs.cmu.edu/olympus/index.php/Phoenix)
-* [SLING: A Natural Language Frame Semantic Parser](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)
-* [SQLova - a neural semantic parser translating natural language utterance to SQL query](https://github.com/naver/sqlova)
 
 # QA Question Answer
 
