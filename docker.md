@@ -2660,6 +2660,10 @@ Docker
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [쿠버네티스의 HPA/VPA 오토스케일링을 위한 모니터링 아키텍처](https://bcho.tistory.com/1389)
 * [Beautiful Dashboards with Grafana and Prometheus - Monitoring Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=fzny5uUaAeY)
+* [Metric, Trace. Istio vs OpenTelemetry?](https://www.anyflow.net/sw-engineer/metric-trace-istio-vs-opentelemetry)
+  * Kuberetes / Istio 환경에서 traffic metrics와 distributed tracing을 가장 효과, 효율적으로 취하는 방법
+  * traffic metrics로는 Istio가 생성하는 metric
+  * (distributed) trace로는 OpenTelemetry eBPF Instrumentation(OBI) 또는 Grafana Beyla가 생성하는 trace 사용
 
 ## Kubernetes Networking
 * [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
