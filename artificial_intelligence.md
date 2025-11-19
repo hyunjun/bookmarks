@@ -2416,6 +2416,8 @@ Artificial Intelligence
   * [awesome-cursor-rules-mdc: Curated list of awesome Cursor Rules .mdc files](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
   * [cursor-custom-agents-rules-generator: Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows](https://github.com/bmadcode/cursor-custom-agents-rules-generator)
   * [Cursor Directory - Cursor Rules & MCP Servers](https://cursor.directory/)
+  * [cursor-free-vip: Support 0.49.x（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake](https://github.com/yeongpin/cursor-free-vip)
+    * [Open-source tool that resets Cursor AI limits and boosts your coding freedom eff... | Open-source Projects | Open-source Projects](https://www.opensourceprojects.dev/post/1982084612139765823)
   * [.CursorRules](https://dotcursorrules.com/)
     * [Cursor 의 숨겨진 강력함, Cursor Rule 제대로 활용하기](https://devway.tistory.com/67)
     * [커서로 생산성 2배 뽑는 꿀팁 🍯 - YouTube](https://www.youtube.com/watch?v=nJPsvCHM0dQ)
