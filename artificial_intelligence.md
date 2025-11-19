@@ -490,6 +490,9 @@ Artificial Intelligence
 * [Let's build a local agentic workflow - by Pau Labarta Bajo](https://paulabartabajo.substack.com/p/lets-build-a-local-agentic-workflow)
   * [Let's build a local agentic workflow | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-build-a-local-agentic-workflow-activity-7390317811820240896-dNxX)
 * [AI 에이전트가 정말 사람을 대체할지, Scale AI가 실험했습니다 실제 프리랜서 플랫폼에서 거래된 240개 프로젝트를 모았습니다. 건축 설계, 게임 개발, 3D 모델링, 음악 작곡, 데이터 분석 등 평균 28.9시간이 걸리는 일들이며 총 가치는 $143,991 입니다. 그리고 이를 해결하기 위해 6개의 최첨단 AI 에이전트를 투입했습니다… | Kyunghun Lee | 12 comments](https://www.linkedin.com/posts/leekh929_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%A0%95%EB%A7%90-%EC%82%AC%EB%9E%8C%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%A0%EC%A7%80-scale-ai%EA%B0%80-%EC%8B%A4%ED%97%98%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8B%A4%EC%A0%9C-activity-7390859003121168384-PZwa) 1등의 성공률도 단 2.5%... 숙련된 사람의 손에서 AI는 매우 강력한 도구
+* [Systems Thinking & Complexity Theory for AI Architects - YouTube](https://www.youtube.com/watch?v=LxMaxrOfe1M)
+  * [AI 아키텍트를 위한 시스템 사고 및 복잡성 이론](https://livewiki.com/ko/content/systems-thinking-complexity-ai-architects)
+* [Demand to Cease and Desist (Amazon - Perplexity) | Wonsun Chung | 15 comments](https://www.linkedin.com/posts/wonsun-chung_demand-to-cease-and-desist-amazon-perplexity-ugcPost-7392181329217404928-IAeY)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -686,6 +689,11 @@ Artificial Intelligence
     * [(2) Amazon Bedrock과 Google ADK 연동 경험: AI Agent 개발의 새로운 가능성 | LinkedIn](https://www.linkedin.com/pulse/amazon-bedrock%EC%99%80-google-adk-%EC%97%B0%EB%8F%99-%EA%B2%BD%ED%97%98-ai-agent-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%80%EB%8A%A5%EC%84%B1-sungmin-kim-chpuc/?trackingId=Jgu32stehRa7c5xui4QB8A%3D%3D)
   * [ADK-sample](https://github.com/pjt3591oo/ADK-sample)
     * [인공지능 A2A란 무엇인가? 데모(demo.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223839552262)
+  * [my-adk-python-samples/plugins/bigquery-logging-plugin at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/plugins/bigquery-logging-plugin)
+    * [AI Agent의 복잡한 내부 동작 | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-observability-googleadk-ugcPost-7395707714187743232-6rcm)
+      * Agent가 왜 그런 답변을 했는지, 어떤 도구를 호출했는지 파악하기 위해
+        * 복잡한 모니터링 툴을 도입하거나, 분석을 위해 로그를 다른 시스템으로 옮기는 과정 불편
+      * Google ADK와 BigQuery Logging Plugin (BigQueryAgentAnalyticsPlugin)만으로 이 모든 것을 해결
 * [acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
   * [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
   * [After MCP, A2A, & AG-UI, we've a new protocol: (open-sourced by IBM research) AI agents working in silos are slowing down innovation! ACP (Agent Communication Protocol) breaks down these barriers,… | Akshay Pachaar | 댓글 30](https://www.linkedin.com/posts/akshay-pachaar_after-mcp-a2a-ag-ui-weve-a-new-protocol-activity-7365374949672280064-uXrZ)
@@ -2082,6 +2090,8 @@ Artificial Intelligence
   * [Claude Haiku 4.5 출시: Sonnet 4 성능을 1/3 비용으로! 코드 생성 73.3% 달성한 경량 모델 심층 분석](https://fornewchallenge.tistory.com/entry/Claude-Haiku-45-%EC%B6%9C%EC%8B%9C-Sonnet-4-%EC%84%B1%EB%8A%A5%EC%9D%84-13-%EB%B9%84%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-733-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D)
   * [최진주 - <실패에서 배우는 바이브 코딩 주의사항> 클로드 코드를 이용한 바이브 코딩이 간단한 프로그램 만들기에는... | Facebook](https://www.facebook.com/pariscom/posts/pfbid02WVmt1SmX94NuLHuugaWGRMLEbwUxYGcPPQo8qhWJ9NqFpsoJjodbR3NdWZDkJbBDl)
   * [클로드 코드로 스타트업 개발팀 자동화한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3431/)
+  * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+    * [AI는 주니어 개발자다: 클로드 코드와 함께한 6주 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3453/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
