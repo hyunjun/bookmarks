@@ -3940,6 +3940,8 @@ NLP
 * [RAG is not just one technique, it is an entire ecosystem of intelligence. From context-aware assistants to domain-specific systems, here are 16 types of RAG models shaping the next wave of AI… | Shalini Goyal | 41 comments](https://www.linkedin.com/posts/goyalshalini_rag-is-not-just-one-technique-it-is-an-entire-activity-7391744178835169280-geW8)
   * 1. Standard RAG 2. Agentic RAG 3. Graph RAG 4. Modular RAG 5. Memory-Augmented RAG 6. Multi-Modal RAG 7. Federated RAG 8. Streaming RAG 9. ODQA RAG (Open-Domain QA) 10. Contextual Retrieval RAG 11. Knowledge-Enhanced RAG 12. Domain-Specific RAG 13. Hybrid RAG 14. Self-RAG 15. HyDE RAG (Hypothetical Document Embeddings) 16. Recursive / Multi-Step RAG
 * [How to Reduce Cost and Latency of Your RAG Application Using Semantic LLM Caching - MarkTechPost](https://www.marktechpost.com/2025/11/11/how-to-reduce-cost-and-latency-of-your-rag-application-using-semantic-llm-caching/)
+* [The Truth About RAG & vLLM: Why Your Multimodal System Fails at Scale - YouTube](https://www.youtube.com/watch?v=jIgj_nVqjog)
+  * [RAG와 vLLM의 진실: 대규모 멀티모달 시스템이 실패하는 이유와 해결책](https://livewiki.com/ko/content/rag-vllm-multimodal-system-fails)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
