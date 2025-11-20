@@ -1113,6 +1113,10 @@ Go
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Early Impressions of Go From a Rust Programmer | by PingCAP | Better Programming | Medium](https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410)
 * [How writing in Rust made me a better Go developer | by Nimrod Shneor | Medium](https://medium.com/@nimrodshn/how-writing-in-rust-made-me-a-better-go-developer-4aaecb580ef2)
+* [Rust vs Go: Memory Management](https://poltora.dev/rust-vs-go-memory/)
+  * 러스트(Rust)와 고(Go)의 메모리 관리 방식 비교
+  * Go는 가비지 컬렉터로 메모리 자동 정리, 러스트는 컴파일 타임에 소유권과 수명 검사로 안전하게 관리
+  * 각각 런타임 성능과 개발 편의성에 차이가 있으며, 실제 CPU 사용량과 메모리 해제 방식에서 큰 차이
 
 # TDD, Test
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
