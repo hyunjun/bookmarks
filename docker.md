@@ -2346,6 +2346,15 @@ Docker
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
   * [Kubernetes Explorer - Reflecting Cluster Changes in Real-Time - YouTube](https://www.youtube.com/watch?v=wOqJIOwjbGk)
+* [kgateway](https://kgateway.dev/)
+  * [Kgateway v2.1 is released! | CNCF](https://www.cncf.io/blog/2025/11/18/kgateway-v2-1-is-released/)
+    * Cloud Native Computing Foundation (CNCF)의 생태계 전반 소개
+    * Kgateway v2.1이라는 주요 프로젝트의 새로운 기능에 초점
+    * CNCF는 Graduated, Incubating, Sandbox와 같은 성숙도 수준으로 프로젝트 분류, 교육, 인증, 커뮤니티 참여 등 다양한 지원 서비스 제공
+    * 이번에 발표된 Kgateway v2.1 릴리스는 Kubernetes Gateway API의 오픈 소스 구현체
+      * LLM 및 AI 에이전트 연결을 위한 agentgateway 통합이 주요 특징, AI 워크로드 관리 강화
+      * Kubernetes Gateway API 1.3.0에 대한 완전한 적합성 보장
+      * 글로벌 정책 첨부, 향상된 부하 분산 및 헬스 체크 기능 등 다양한 성능 및 운영 개선 사항 포함
 * [Killercoda Interactive Environments](https://killercoda.com/)
   * [killercoda · GitHub](https://github.com/killercoda)
   * [Killercoda Interactive Environments](https://killercoda.com/creators)
