@@ -578,6 +578,7 @@ NLP
   * The results show that EMTs are competitive with fine-tuned models and outperform them when combined with more information and context
   * The talk also discusses the importance of citations in AI applications
 * [BERT is just a Single Text Diffusion Step | nathan.rs](https://nathan.rs/posts/roberta-diffusion/)
+* [They just turned BERT into a chatbot. No, seriously | LinkedIn](https://www.linkedin.com/posts/svonava_they-just-turned-bert-into-a-chatbot-no-activity-7396220991947055104-ic7f/)
 * [2510.01149 ModernVBERT: Towards Smaller Visual Document Retrievers](https://arxiv.org/abs/2510.01149)
   * [ModernVBERT (ModernVBERT)](https://huggingface.co/ModernVBERT)
   * [작지만 강력한 멀티모달 임베딩 모델, ModernVBERT | Jin Hyung Park (Sigrid Jin)](https://www.linkedin.com/posts/sigridjineth_%EC%A7%80%EB%82%9C-2%EB%85%84%EA%B0%84-vlm-%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9D%B4-%EB%8C%80%EC%84%B8%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-moca-vlm2vec-colpali-activity-7380071925659754496-kA2o)
@@ -2782,6 +2783,7 @@ NLP
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
+* [dllm: dLLM: Simple Diffusion Language Modeling](https://github.com/ZHZisZZ/dllm)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
