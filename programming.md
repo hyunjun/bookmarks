@@ -6438,6 +6438,15 @@ Programming
   * [카프카 대 RabbitMQ 대 메시징 미들웨어 대 펄사 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/821639)
 * [네이버페이 주문에 적용된 확장 가능한 대기열 개발기](https://d2.naver.com/helloworld/6480558) Massronome
 * [최적의 메시지 브로커를 찾아서 | MADTECH](https://tech.madup.com/choosing-the-right-message-broker/)
+* [MQTT vs AMQP for IoT](https://www.hivemq.com/blog/mqtt-vs-amqp-for-iot/)
+  * IoT의 맥락에서, MQTT와 AMQP는 널리 사용되는 두 가지 메시징 프로토콜이지만, 다른 요구에 따라 사용
+  * MQTT는 특별히 경량 통신을 위해 설계되어 있으며 센서나 마이크로 컨트롤러와 같은 자원 제약 장치에 이상적
+    * TCP/IP를 통해 간단한 퍼블리쉬/구독 모델을 사용
+    * 신뢰할 수 없는 네트워크를 통해 낮은 전력 소비와 효율적인 데이터 전송 보장
+  * AMQP는 메시지 큐, 배달 보증, 고급 라우팅과 같은 기능을 제공하는 보다 복잡한 프로토콜
+    * AMQP는 클라우드 기반 분석 및 엔터프라이즈 통합과 같은 신뢰성과 제어가 필요한 백엔드 시스템에 적합
+    * footprint가 무거워 엣지 IoT 기기에 부적합
+  * 따라서 MQTT는 장치 수준에서 자주 사용되지만 AMQP는 IoT 시스템의 백엔드 인프라에서 사용
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
