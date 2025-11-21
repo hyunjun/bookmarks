@@ -361,6 +361,19 @@ Artificial Intelligence
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
 * [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) 공간 지능(Spatial Intelligence)
   * [ImageNet 이후, Fei-Fei Li가 찾은 AI의 다음 문제 2012년, ImageNet이라는 데이터셋이 공개됩니다. 120만 개의 레이블된 이미지. 당시엔 그저 거대한 데이터베이스였지만, 이것이 현대 AI 혁명의 시작이었습니다. 신경망 알고리즘, GPU 컴퓨팅과 함께 ImageNet은 딥러닝 시대를 여는 세 가지 핵심 요소 중 하나가 됩니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_imagenet-%EC%9D%B4%ED%9B%84-fei-fei-li%EA%B0%80-%EC%B0%BE%EC%9D%80-ai%EC%9D%98-%EB%8B%A4%EC%9D%8C-%EB%AC%B8%EC%A0%9C-2012%EB%85%84-activity-7394120492422471680-LfpI)
+* [The Evolution of LinkedIn’s Generative AI Tech Stack](https://blog.bytebytego.com/p/the-evolution-of-linkedins-generative)
+  * 링크드인은 분산된 AI 실험을 통합된 GenAI 플랫폼으로 발전
+    * Python 중심의 개발 체계로 전환해 생산성과 일관성 향상
+    * 프롬프트 관리, 스킬(도구) 시스템, 메모리 계층을 구축해 다양한 에이전트와 워크플로우를 안정적으로 지원
+    * 강력한 거버넌스 및 오케스트레이션, 관찰성 도구를 결합하여 확장성과 신뢰성 실현
+  * 1. 프론트와 백엔드 모두 Python을 도입해 빠른 실험과 일관성 있는 배포환경 구축
+  * 2. 중앙 집중형 프롬프트, 스킬 관리와 LangChain 기반 프레임워크 도입으로 모듈화 재사용성 향상
+  * 3. 메시징 시스템을 활용한 멀티에이전트 오케스트레이션과 대규모 마이그레이션을 성공적으로 시행
+  * 4. LangSmith/OTel 기반 추적, 관찰성과 정책 기반 개인정보 보호, 거버넌스 정책을 통해 신뢰성 강화
+  * 5. MCP/A2A와 같은 오픈 프로토콜로 상호운용성과 확장성 확보 중
+* [I Went All-In on AI. The MIT Study Is Right](https://leadershiplighthouse.substack.com/p/i-went-all-in-on-ai-the-mit-study)
+  * [How I lost control of my product to AI and what I learned | Josh Anderson posted on the topic | LinkedIn](https://www.linkedin.com/posts/joshuadavidanderson_ai-softwareengineering-techleadership-activity-7386797255103504384-wMZs)
+  * [How I Built a Production App with Claude Code](https://leadershiplighthouse.substack.com/p/how-i-built-a-production-app-with)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -564,6 +577,8 @@ Artificial Intelligence
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
+* simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
+  * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 
 # Artificial Neural Networks
@@ -722,6 +737,11 @@ Artificial Intelligence
     * [AI Agent의 '기억력'🧠, 어떻게 관리하고 계신가요? #aiagent #vertexai #agentengine #llm #memorybank #adk #googlecloud #genai | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-vertexai-agentengine-activity-7383322479118774272-ZcP8)
     * [adk-python-community/src/google/adk_community/sessions/redis_session_service.py at main · google/adk-python-community](https://github.com/google/adk-python-community/blob/main/src/google/adk_community/sessions/redis_session_service.py)
     * [devrel-demos/ai-ml/python-tutor at main · ksmin23/devrel-demos](https://github.com/ksmin23/devrel-demos/tree/main/ai-ml/python-tutor)
+  * [Vertex AI AgentEngine의 Session(단기)과 MemoryBank(장기) | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-vertexai-agentengine-activity-7383322479118774272-ZcP8)
+  * [adk-python-community의 RedisSessionService를 활용해서, ADK Agent의 세션 정보를 GCP Memorystore for Redis에 저장하고 Cloud Run으로 배포하는 전체 과정 | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_github-ksmin23my-adk-python-samples-a-activity-7388422887407456257-cbop)
+    * [my-adk-python-samples/agent-memory/redis-session-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-session-service)
+  * [ADK Python으로 구축된 샘플 Agent에서 Redis의 Vector Search 기능을 활용하여 커스텀 장기 기억 서비스를 구현하는 방법 | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-adk-redis-ugcPost-7390684497425387520-UFUc)
+    * [my-adk-python-samples/agent-memory/redis-memory-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-memory-service)
   * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
@@ -1072,6 +1092,9 @@ Artificial Intelligence
   * [PICK MCP 총정리: 개념과 사용기 | 요즘IT](https://yozm.wishket.com/magazine/collection/67889/)
   * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) - YouTube](https://www.youtube.com/watch?v=-AFOcmTFTT8)
     * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6403900/6491153)
+  * [Code execution with MCP: building more efficient AI agents \ Anthropic](https://www.anthropic.com/engineering/code-execution-with-mcp)
+    * [MCP를 통한 코드 실행(Code Execution with MCP): 더 효율적인 에이전트(Agent) 구축하기](https://whchoi98.notion.site/MCP-Code-Execution-with-MCP-Agent-2a704ef7e60e8005a2b9fe532fc4f8e5)
+      * [MCP를 통한 코드 실행(Code Execution with MCP): 더 효율적인 에이전트(Agent) 구축하기 | Notion | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_mcp%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89code-execution-with-mcp-%EB%8D%94-activity-7393726338274193408-Fm1l)
   * [Agent Tools & Interoperability with MCP | Kaggle](https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp)
     * 에이전트 도구 및 MCP와의 상호 운용성
       * 먼저 파운데이션 모델에서 사용하는 도구의 특성, 즉 도구가 무엇이며 어떻게 사용하는지에 대해 설명
@@ -2612,6 +2635,7 @@ Artificial Intelligence
 * [Underneath the most common vector DB library (HNSW) is Beam search](https://www.linkedin.com/posts/softwaredoug_beam-search-wikipedia-activity-7325489899875311616-32Zd/)
   * [Build a vector database from scratch](https://maven.com/p/866f13/doug-live-codes-a-vector-database)
 * [김진중 - 기술의 발전에 따라 기존 문제의 해결 방법이 달라져야한다. RAG에 있어 벡터 서치가 유망하게 떠올랐지만,... | Facebook](https://www.facebook.com/hacker.golbin/posts/pfbid0K2Dj5cpFznCQemfzWY7GAX8FSXPCafSU7r8GvhM4Y36hg2nrW9K28rL7bePck5c9l) vector search vs. keyword search / BM25
+* [문서 벡터는 PQ로 압축하겠는데, 쿼리 벡터도 같이 양자화할까?](https://kr.linkedin.com/pulse/%EB%AC%B8%EC%84%9C-%EB%B2%A1%ED%84%B0%EB%8A%94-pq%EB%A1%9C-%EC%95%95%EC%B6%95%ED%95%98%EA%B2%A0%EB%8A%94%EB%8D%B0-%EC%BF%BC%EB%A6%AC-%EB%B2%A1%ED%84%B0%EB%8F%84-%EA%B0%99%EC%9D%B4-%EC%96%91%EC%9E%90%ED%99%94%ED%95%A0%EA%B9%8C-jin-hyung-park-sigrid-jin--zr7ec)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
