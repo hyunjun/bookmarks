@@ -120,12 +120,13 @@
 # Conference Meetup
 * [practice - .net으로도 SPA를 개발할 수 있어요 Blazor에 대한 소개](https://www.notion.so/1003/Conference-4c675cda32a34a16bfdf4fe2cef31e11?pvs=4#4263bf2539814afc9f1c6e90a567c430)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
-* [.NET Conf 2023 x Seoul](https://www.dotnetconf.kr/2023)
+* [.NET Conf 2025 @Seoul - .NET Conf 2025 @Seoul](https://conf.dot4.kr/)
+* [.NET Conf 2023 x Seoul](https://dotnetuniverse.net/2023)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
   * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
   * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
   * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
-  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
+  * [.NET Conf Mini 21.04](https://dotnetuniverse.net/mini/2104) Blazor, Span<T>
   * [.NET Conf Mini 21.08 - YouTube](https://www.youtube.com/watch?v=i9zw6x6zQLI)
 * [2021년 1월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDSrW7baJ35bazYNnqxV8-Pn)
   * JAM stack session: 아마존 S3 버킷과 Amplify 서비스를 이용해 애플리케이션을 배포하는 과정
