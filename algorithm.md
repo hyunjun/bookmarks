@@ -200,6 +200,8 @@ Algorithm
 * [A Short Summary of Smoothing Algorithms](https://opendatascience.com/a-short-summary-of-smoothing-algorithms/)
 * [Parse Tree](http://interactivepython.org/runestone/static/pythonds/Trees/ParseTree.html)
 * [**The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language**](https://github.com/TheAlgorithms)
+  * [TheAlgorithms/Python — thealgorithms-python documentation](https://thealgorithms.github.io/Python/)
+    * [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 * [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms)
 * [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
 * [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
