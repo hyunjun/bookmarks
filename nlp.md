@@ -1022,6 +1022,11 @@ NLP
     * [Let's reproduce GPT-2 (124M) - YouTube](https://www.youtube.com/watch?v=l8pRSuU81PU)
     * [(1) Andrej Karpathy on X: "# Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20 ✨ The GPT-2 (124M) is the smallest model in the GPT-2 series released by OpenAI in 2019, and is actually quite accessible today, even for the GPU poor. For example, with llm.c you can now reproduce this model on one 8X https://t.co/C9GdaxGPhd" / X](https://x.com/karpathy/status/1795484547267834137)
     * [llm.c를 사용하여 GPT-2 모델을 저렴하게 재구현하기 | GeekNews](https://news.hada.io/topic?id=15065)
+    * [GPT Series - Positional Embedding | Julien's blog](https://bornlex.github.io/posts/positional-embedding/)
+    * [GPT Series - Multi-head Self Attention | Julien's blog](https://bornlex.github.io/posts/gpt-mha/)
+    * [GPT Series - KV Cache | Julien's blog](https://bornlex.github.io/posts/kv-cache/)
+    * [GPT Series - Triton 1 (make GPU go brrr) | Julien's blog](https://bornlex.github.io/posts/triton1/)
+      * [GPT Series - Triton 1 (make GPU go brrr) | Julien Séveno-Piltant](https://www.linkedin.com/posts/juliensevenopiltant_gpt-series-triton-1-make-gpu-go-brrr-activity-7386325466900750336-ZhiB?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbMQEUBMB4uRYC4Kn5aQ940QwHNVlgc8EE)
   * [What if...? 처음부터 다시 LLM 어플리케이션을 개발한다면 - Speaker Deck](https://speakerdeck.com/huffon/what-if-dot-dot-dot-ceoeumbuteo-dasi-llm-eopeulrikeisyeoneul-gaebalhandamyeon)
   * [Inside GPT – Large Language Models Demystified • Alan Smith • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=MznD2DzlQCc)
     * discusses the inner workings of Generative Pre-trained Transformers (GPT) algorithms and how they can be used to create engaging and useful applications
@@ -1292,6 +1297,7 @@ NLP
   * [AGI KR | 안녕하세요, LLM 답변의 신뢰도를 향상시킬 수 있는 Batch Calibration이라는 방법론을 접하게 되어 소개해드리고자 합... | Facebook](https://www.facebook.com/groups/agikr/permalink/2271661406508238)
 * [AGI KR | 2024.04.12 AI쪽 알게된 것들 간헐적 공유 | Facebook](https://www.facebook.com/groups/agikr/posts/2274626356211743/)
   * Google Cloud Next 24, Gemini 1.5 Pro 및 Gemma, Closed LLM 성능을 넘보는 오픈 LLM, Andrej Karpathy의 신규 오픈소스 llm.c, Text Generation Inference(TGI) 라이선스 변경, MoJo 🔥 표준 라이브러리의 오픈소스화
+* [Explaining Transformer with llm.c by hand in C | Tom Yeh posted on the topic | LinkedIn](https://www.linkedin.com/posts/tom-yeh_llmc-by-hand-c-meets-transformer-this-ugcPost-7391153565051994112-RT_B)
 * ["최적의 프롬프트 단어 수는 21개"...구글, 프롬프트 비결 담은 가이드북 발간 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159796)
 * [LLM과 기호. 들어가며 | by Simple | Jun, 2024 | Medium](https://medium.com/@simple0314/llm%EA%B3%BC-%EA%B8%B0%ED%98%B8-c7caf48143dd)
 * [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
@@ -3708,6 +3714,12 @@ NLP
   * [LLM AWS T4 GPU 서버에서 vllm 사용하기 - 미완성의신](https://unfinishedgod.netlify.app/2024/07/08/llm-aws-t4-gpu-vllm/)
   * [LLM llama3.1을 vllm API를 통해 서빙해보자. (feat. FastAPi) - 미완성의신](https://unfinishedgod.netlify.app/2024/07/26/llm-llama3-1-vllm-api-feat-fastapi/)
   * [SOLID 원칙의 최고 예제! vLLM | Kyunam Cho](https://www.linkedin.com/posts/mystous_vllm-llm-pagedattention-ugcPost-7389894978275217409-NFA3)
+  * [Zero-Reload Model Switching with vLLM Sleep Mode | vLLM Blog](https://blog.vllm.ai/2025/10/26/sleep-mode.html)
+    * vLLM Sleep Mode는 대형 언어모델(LLM)을 GPU에 효율적으로 서빙하기 위한 새로운 기능
+    * 모델을 즉시 하이버네이트하고 빠르게 깨우는 구조라서 재로딩의 긴 지연(30~100초)을 대폭 단축
+    * 두 가지 Sleep Mode(레벨 1/2)를 지원하며, 각각 속도와 CPU 메모리 사용량 조정
+    * 실제 벤치마크에서 모델 전환이 최대 200배, 추론속도가 61~88% 향상
+    * 즉, 멀티모델 GPU 서빙 환경에서 효율성과 속도 획기적 개선
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
@@ -4515,6 +4527,9 @@ NLP
 * [환각의 불가피성을 증명한 논문들](https://www.linkedin.com/posts/activity-7368110690919698434-W0uE/)
   * [2401.11817 Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
   * [2506.06382v2 On the Fundamental Impossibility of Hallucination Control in Large Language Models](https://arxiv.org/abs/2506.06382v2)
+* 2402.01822v1 [Building Guardrails for Large Language Models](https://arxiv.org/html/2402.01822v1)
+  * [Why LLM Guardrails are Essential for Safe AI | Pavan Belagatti posted on the topic | LinkedIn](https://www.linkedin.com/posts/pavan-belagatti_llm-systemsapplications-can-generate-harmful-activity-7388976939077652480-ScFz)
+  * [Building Safer AI: Input Guardrails for LLMs with FastAPI | by Dheeraj Bhat | Medium](https://dheerajnbhat.medium.com/building-safer-ai-input-guardrails-for-llms-with-fastapi-7109edf07bb2)
 * [2501.09223 Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
   * [NLPBook: A comprehensive book on neural networks and large language models in NLP](https://github.com/NiuTrans/NLPBook)
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
