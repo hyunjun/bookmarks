@@ -1026,7 +1026,7 @@ NLP
     * [GPT Series - Multi-head Self Attention | Julien's blog](https://bornlex.github.io/posts/gpt-mha/)
     * [GPT Series - KV Cache | Julien's blog](https://bornlex.github.io/posts/kv-cache/)
     * [GPT Series - Triton 1 (make GPU go brrr) | Julien's blog](https://bornlex.github.io/posts/triton1/)
-      * [GPT Series - Triton 1 (make GPU go brrr) | Julien Séveno-Piltant](https://www.linkedin.com/posts/juliensevenopiltant_gpt-series-triton-1-make-gpu-go-brrr-activity-7386325466900750336-ZhiB?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbMQEUBMB4uRYC4Kn5aQ940QwHNVlgc8EE)
+      * [GPT Series - Triton 1 (make GPU go brrr) | Julien Séveno-Piltant](https://www.linkedin.com/posts/juliensevenopiltant_gpt-series-triton-1-make-gpu-go-brrr-activity-7386325466900750336-ZhiB)
   * [What if...? 처음부터 다시 LLM 어플리케이션을 개발한다면 - Speaker Deck](https://speakerdeck.com/huffon/what-if-dot-dot-dot-ceoeumbuteo-dasi-llm-eopeulrikeisyeoneul-gaebalhandamyeon)
   * [Inside GPT – Large Language Models Demystified • Alan Smith • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=MznD2DzlQCc)
     * discusses the inner workings of Generative Pre-trained Transformers (GPT) algorithms and how they can be used to create engaging and useful applications
