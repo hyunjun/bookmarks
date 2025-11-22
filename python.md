@@ -5175,6 +5175,8 @@ Python
 * [NumPy 2.0.0 릴리스 | GeekNews](https://news.hada.io/topic?id=15395)
 * [Awkward Array documentation — Awkward Array 2.0.9 documentation](https://awkward-array.org/)
   * [Doug Davis - Extending Awkward Array into the broader PyData Ecosystem | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=pvrRFsFqdYs)
+* [Lucas Colley - A Hitchhiker's Guide to the Array API Standard Ecosystem - YouTube](https://www.youtube.com/watch?v=LBVzkCSmjsQ)
+  * [Array API 표준: 다차원 배열 라이브러리 간의 상호 운용성 및 에코시스템 투어](https://livewiki.com/ko/content/lucas-colley-array-api-standard)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
