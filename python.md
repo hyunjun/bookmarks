@@ -3896,7 +3896,9 @@ Python
 * [Depix: Recovers passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
-* [docling: Get your documents ready for gen AI](https://github.com/DS4SD/docling) Docling parses documents and exports them to the desired format with ease and speed
+* [docling: Get your documents ready for gen AI](https://github.com/DS4SD/docling)
+  * Docling parses documents and exports them to the desired format with ease and speed
+  * Transform any document into LLM-ready format for building AI Agents and RAG apps
 * [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
   * [extract data(paragraph, table) from docx file](http://stackrefactoring.blogspot.com/2016/10/extract-dataparagraph-table-from-docx.html)
   * [python-docx-automation: 파이썬으로 워드 문서 자동화하는 방법](https://github.com/dabidstudio/python-docx-automation)
