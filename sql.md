@@ -1830,6 +1830,8 @@ SQL
 * [SQLite DB Browser - SQLite 비쥬얼 브라우저 오픈소스 | GeekNews](https://news.hada.io/topic?id=15765)
   * [DB Browser for SQLite](https://sqlitebrowser.org/)
   * [DB Browser for SQLite 3.13.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=15977)
+* [sqlite-graph: SQLite Graph Extension](https://github.com/agentflare-ai/sqlite-graph)
+  * [SQLite-Graph - SQLite에 그래프DB 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=24351)
 * [sqlite-http: A SQLite extension for making HTTP requests purely in SQL](https://github.com/asg017/sqlite-http)
   * [Introducing sqlite-http: A SQLite extension for making HTTP requests / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-sqlite-http)
 * [sqlite-lines: A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)](https://github.com/asg017/sqlite-lines)
