@@ -2845,6 +2845,7 @@ NLP
 * [h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs](https://github.com/h2oai/h2o-llmstudio)
 * [Hermes 3 - NOUS RESEARCH](https://nousresearch.com/hermes3/)
   * [⚡Hermes 3: Llama 3.1을 넘어선 최첨단 오픈 소스 언어 모델의 등장](https://fornewchallenge.tistory.com/entry/%E2%9A%A1Hermes-3-Llama-31%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%A0-%EC%B5%9C%EC%B2%A8%EB%8B%A8-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EB%93%B1%EC%9E%A5)
+* [HuatuoGPT-o1: Medical o1, Towards medical complex reasoning with LLMs](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 * [human-eval: Code for the paper "Evaluating Large Language Models Trained on Code"](https://github.com/openai/human-eval)
 * [Hume AI](https://www.hume.ai/)
   * ["감정 이해가 LLM 성능을 높이는 길"...목소리로 의도 파악하는 AI 등장 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=158403)
@@ -5247,6 +5248,7 @@ NLP
 * [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
+* [VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](https://github.com/OpenBMB/VoxCPM/)
 * [Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers](https://github.com/Zyphra/Zonos)
   * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/) Zonos-v0.1: 고품질 오픈소스 TTS 모델 공개!
 
