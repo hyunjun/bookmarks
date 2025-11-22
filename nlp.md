@@ -1351,6 +1351,7 @@ NLP
   * [Prefix-tuning과 Prompt-tuning, 그리고 임베딩 모델과 리랭커 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_prefix-tuning%EA%B3%BC-prompt-tuning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8%EA%B3%BC-activity-7363943263898107905-Q-eI)
 * [실무용 클로드 코드 프롬프트 엔지니어링 템플릿 3종 | 요즘IT](https://yozm.wishket.com/magazine/detail/3353/)
 * [만일 ChatGPT 유료 버전을 사용하시는 분이라면 Agent 모드를 이용해서 전문적인 글로벌 뉴스레터를 만들어 보세요.  (아래는 Prompt이고 \[ \] 안의 내용을 바꿔서 사용해 보세요.) ———————————————————————— You are a **\[인공지능과 인사관리\] Daily News Watcher Agent**. GOAL •… | 김덕중 | 댓글 10](https://www.linkedin.com/posts/duckjungkim_%EB%A7%8C%EC%9D%BC-chatgpt-%EC%9C%A0%EB%A3%8C-%EB%B2%84%EC%A0%84%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EC%9D%B4%EB%9D%BC%EB%A9%B4-agent-%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-activity-7380591913034317824-oMGL)
+* [Mastering JSON Prompting for LLMs - MachineLearningMastery.com](https://machinelearningmastery.com/mastering-json-prompting-for-llms/)
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
