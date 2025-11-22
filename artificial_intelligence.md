@@ -568,6 +568,13 @@ Artificial Intelligence
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
+* [LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.](https://github.com/wxai-space/LightAgent)
+  * A framework for building an AI agent with memory
+  * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
+  * Open-source with MCP/SSE protocol integration
+* [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
+  * Internet research agent for event prediction, MiroMind Research Agent
+    * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
@@ -1817,6 +1824,10 @@ Artificial Intelligence
   * 아직 초기 개발 단계로, 실험적이고 빈번한 변화가 예상되며, 신중한 사용 요구
 * [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
+* [any-llm: Communicate with an LLM provider using a single interface](https://github.com/mozilla-ai/any-llm)
+  * [Overview - any-llm](https://mozilla-ai.github.io/any-llm/gateway/overview/)
+  * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
+    * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
@@ -1987,6 +1998,8 @@ Artificial Intelligence
 * [Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion - YouTube](https://www.youtube.com/watch?v=CrE2cpW4CGQ)
   * [AI 지원 개발: 시스템, 관계, 그리고 대응 | Jessica Kerr & Diana Montalion](https://livewiki.com/ko/content/ai-assisted-development)
 * [Joe Magerramov's blog: The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
+* ["코딩을 맥도날드처럼 한다고?" AI 환각 잡고 개발팀 칼퇴시킨 삼양식품의 비밀 - YouTube](https://www.youtube.com/watch?v=c13ormxFbxU)
+  * [AI 환각 잡고 개발팀 칼퇴시킨 삼양식품의 맥도날드식 개발 비밀](https://livewiki.com/ko/content/samyang-food-ai-coding)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
@@ -2139,6 +2152,7 @@ Artificial Intelligence
   * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
     * [AI는 주니어 개발자다: 클로드 코드와 함께한 6주 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3453/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+  * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
@@ -2684,6 +2698,7 @@ Artificial Intelligence
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer) vector DB는 아니고 비용 절감을 위한 대안의 예
   * [Turbopuffer - 오브젝트 스토리지에서 빠른 검색 기술 | GeekNews](https://news.hada.io/topic?id=15775)
+* [valori: A high-performance vector database library for Python that provides efficient storage, indexing, and search capabilities for high-dimensional vectors](https://github.com/varshith-Git/valori)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
 * [Vectorize: a vector database for shipping AI-powered applications to production, fast](https://blog.cloudflare.com/vectorize-vector-database-open-beta/)
