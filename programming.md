@@ -4118,6 +4118,7 @@ Programming
 * [Public Cloud의 새 레퍼런스를 만드는 사람들](https://brunch.co.kr/@kakaobankplus/122?li_fat_id=1e54f775-02ab-4c1c-b7de-1ba845641595)
 * [비 대신, 가뭄을 주는 구름(cloud) – Interpreting Compiler](https://interpiler.com/2024/07/12/%eb%b9%84-%eb%8c%80%ec%8b%a0-%ea%b0%80%eb%ad%84%ec%9d%84-%ec%a3%bc%eb%8a%94-%ea%b5%ac%eb%a6%84cloud/)
 * [클라우드 보안의 핵심 도전과제: 보안 강화와 DevOps 협업의 균형점 찾기](https://velog.io/@lufianlee/Cloud-security-journey01)
+* [기업이 클라우드 설정 오류를 통제하지 못하는 이유 | ITWorld](https://www.itworld.co.kr/article/4087129/%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%A4%EC%A0%95-%EC%98%A4%EB%A5%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0.html)
 * [클라우드 감 잡기 - YouTube](https://www.youtube.com/playlist?list=PLeWIi-8hd-6VWETumISWV7omy01d37GMU)
 * [aws](aws.md)
 * [azure](azure.md)
@@ -7333,6 +7334,7 @@ Programming
   * [10월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/10/b-10-4.html)
   * [10월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/11/b-10-5.html)
   * [11월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/11/b-11-2.html)
+  * [11월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/11/b-11-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -9735,6 +9737,8 @@ Programming
   * [Amazon brain drain finally caught up with AWS • The Register](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
     * [오늘은 아마존의 인재 유출로 인해 AWS가 마침내 망가진 날 | GeekNews](https://news.hada.io/topic?id=23806)
   * [AWS가 멈췄다고요? 멀티클라우드가 답은 아니다 | 포프머신](https://blog.popekim.com/ko/2025/10/23/aws-outage-multi-cloud.html)
+  * [Summary of the Amazon DynamoDB Service Disruption in the Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/ko/message/101925/)
+  * [A single point of failure triggered the Amazon outage affecting millions - Ars Technica](https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/)
 * [Postman이 내 컴퓨터에서만 동작하는 줄 알았는데, 현재 서비스 중단 발생 | GeekNews](https://news.hada.io/topic?id=23810)
 
 ## Troubleshooting, 장애 해결 Postmortem
