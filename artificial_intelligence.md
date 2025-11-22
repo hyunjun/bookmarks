@@ -970,6 +970,8 @@ Artificial Intelligence
   * [gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
     * 초고도화된 리서치 프로젝트를 오픈소스로 공개
     * Gemini 2.5 (Flash) 선택 가능, Low / Medium / High 로 리서치 난이도 조절
+  * [gemini-next-chat: Deploy your private Gemini application for free with one click, supporting Gemini 1.5, Gemini 2.0 models](https://github.com/u14app/gemini-next-chat)
+    * Deploy your private Gemini application for free with one click, supporting Gemini 1.5, Gemini 2.0 models
   * [GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors)
     * [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
     * [Park Chansung - 구글의 GenAI Processor 라는 오픈소스 공개 지난 주 Google에서... | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/pfbid0zDwoVAu9ZdTDt74CGwkf4jLHJvJ13e65fVhktYXRnqb1e2BCpJ6ULJXALkqCn348l)
