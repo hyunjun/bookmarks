@@ -582,6 +582,8 @@ AWS
 * [베스핀글로벌 AutoMSP 개발 배경과 차별화 포인트 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-03) - YouTube](https://www.youtube.com/watch?v=mo3J4bSjnDg)
 * [AutoMSP DEMO, 400가지 이상 클라우드 업무 자동화 데모 by 구상원 팀장 (BESPIN AI Tek-Tok EP.07-04) - YouTube](https://www.youtube.com/watch?v=6cCzBdXr8E0)
 * [AWS 서비스 API 모델 레포지터리 및 Maven 패키지 정식 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions)
+* [기능 | AWS Builder Center](https://builder.aws.com/build/capabilities)
+  * [AWS, ‘지역별 기능’ 도구로 클라우드 배포 계획 가시성 강화 | CIO](https://www.cio.com/article/4087211/aws-%EC%A7%80%EC%97%AD%EB%B3%84-%EA%B8%B0%EB%8A%A5-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B0%B0%ED%8F%AC-%EA%B3%84%ED%9A%8D-%EA%B0%80%EC%8B%9C%EC%84%B1.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1204,6 +1206,8 @@ AWS
 * [AWS의 숨겨진 비용 - YouTube](https://www.youtube.com/watch?v=xUKudCftBCw)
 * [👉 AWS 인프라 비용 절감기: 월 10억 → 5억. 안녕하세요. 디스커버리 커머스를 기반으로 “모두가 매일 사용하는 초저가… | by Yonghyun Kim | 레브잇 테크블로그 | Jul, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%B9%84%EC%9A%A9-%EC%A0%88%EA%B0%90%EA%B8%B0-%EC%9B%94-10%EC%96%B5-5%EC%96%B5-a42c4d174757)
 * [AB180 개발팀의 AWS 비용 관리 여정: 청구서 확인부터 Fin Ops 문화까지](https://engineering.ab180.co/stories/ab180-journey-of-aws-fin-ops)
+* [The $1,000 AWS mistake | Blog](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
+  * [$1,000짜리 AWS 실수 | GeekNews](https://news.hada.io/topic?id=24504)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
