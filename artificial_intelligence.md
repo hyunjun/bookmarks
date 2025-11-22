@@ -1830,6 +1830,7 @@ Artificial Intelligence
   * [Overview - any-llm](https://mozilla-ai.github.io/any-llm/gateway/overview/)
   * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
     * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
+* [bananalyzer: Open source AI Agent evaluation framework for web tasks 🐒🍌](https://github.com/reworkd/bananalyzer)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
