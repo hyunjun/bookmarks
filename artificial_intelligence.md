@@ -2009,6 +2009,8 @@ Artificial Intelligence
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * Antigravity [Google Antigravity](https://antigravity.google/)
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
+  * [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity - YouTube](https://www.youtube.com/watch?v=B9cm-NgD-uA)
+    * [구글 Antigravity 리뷰: IDE의 미래, 멀티 AI 에이전트 협업으로 생산성 극대화](https://livewiki.com/ko/content/google-antigravity-cursor-2)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
