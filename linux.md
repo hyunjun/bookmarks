@@ -1345,6 +1345,9 @@ Linux
 * [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](https://sunyzero.tistory.com/300)
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+* [aaPanel: Simple but Powerful web-based Control Panel](https://github.com/aaPanel/aaPanel)
+  * [nixCraft - aaPanel is a free and open source web based hosting... | Facebook](https://www.facebook.com/nixcraft/posts/pfbid02MvZFCiz8YEG6tJWs8CzHNKBgNFgTcS2KMxiW7GKg2AyVRuHo6awboRmSBzURvm9Dl)
+    * LNMP/LAMP 환경과 소프트웨어를 위한 클릭 1회 설치로 서버 관리를 간소화하는 무료 오픈소스 웹 기반 호스팅 컨트롤 패널
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 * [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/index.html)
