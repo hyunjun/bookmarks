@@ -68,6 +68,11 @@ Logging
 * [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
 * [UX 원칙에 따른 NELO 4.0 개발기](https://d2.naver.com/helloworld/2461452)
 
+# Fluent bit
+* [fluentbit](https://fluentbit.io/)
+* [Keynote: How One Line of Code Freed 30,000 CPU Cores: Deep-Diving Fluent Bit at Petabyte... F. Ponce - YouTube](https://www.youtube.com/watch?v=pbOvWxuYPIU)
+  * [OpenAI, 단 한 줄의 코드로 Fluent Bit CPU 코어 3만 개를 절약한 비결](https://livewiki.com/ko/content/fluent-bit-cpu-cores-petabyte)
+
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
