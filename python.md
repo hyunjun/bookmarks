@@ -3410,6 +3410,7 @@ Python
 * [cheat-sheet](https://github.com/Pseudo-Lab/cheat-sheet)
 * [Converter_py-ipynb-md: Converter : Python file(.py) , Jupyter Notebook file (.ipynb), Markdown file(.md)](https://github.com/Finfra/Converter_py-ipynb-md)
 * [Deepnote: Analytics and data science notebook for teams](https://deepnote.com/)
+  * [Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com ](https://github.com/deepnote/deepnote)
 * [drawdata: Draw datasets from within Jupyter](https://github.com/koaning/drawdata)
   * [calmcode - learn code calmly](https://calmcode.io/labs/drawdata.html)
   * 선을 그리거나, 점을 찍으면 2차원 데이터 생성. 데이터는 csv나 json 포맷 데이터셋으로 다운 가능
