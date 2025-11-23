@@ -2900,6 +2900,8 @@ Business
 * [AI 시대, 대체 불가능한 5가지 리더십 역량 ❖ AI 시대의 리더십 패러다임... - Duke Donghyun Kim | Facebook](https://www.facebook.com/706739147/posts/10166173114084148/)
 * [팀장님, 뭘 모르는지를 모르겠어요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3417/)
 * [AI 3강으로 가기 위한 대한민국 AI 리더들의 기본 소양 – 공부, 공부, 그리고 공부 | LinkedIn](https://www.linkedin.com/posts/dongsoo-lee-45028017_ai-3%EA%B0%95%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-ai-%EB%A6%AC%EB%8D%94%EB%93%A4%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%86%8C%EC%96%91-%EA%B3%B5%EB%B6%80-%EA%B3%B5%EB%B6%80-activity-7390389091193950208-Ya-6/)
+* [“질문만 잘 해도 직원들은 자기 능력 이상의 퍼포먼스를 발휘한다” - YouTube](https://www.youtube.com/watch?v=8pZ8JJZp3jc)
+  * [젠슨 황의 '질문 리더십': 엔비디아를 5조 달러 기업으로 만든 핵심 비결](https://livewiki.com/ko/content/employee-performance-questions)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
