@@ -580,6 +580,9 @@ Artificial Intelligence
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
   * [옴에이전트](https://om-agent.cn/)
+* [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
+  * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
+  * It brings compute verification for high stakes operations and lightning fast agent deployment
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
 * [openenv (OpenEnv: Agentic Execution Environments)](https://huggingface.co/openenv)
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
