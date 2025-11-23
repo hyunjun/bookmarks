@@ -374,6 +374,8 @@ Artificial Intelligence
 * [I Went All-In on AI. The MIT Study Is Right](https://leadershiplighthouse.substack.com/p/i-went-all-in-on-ai-the-mit-study)
   * [How I lost control of my product to AI and what I learned | Josh Anderson posted on the topic | LinkedIn](https://www.linkedin.com/posts/joshuadavidanderson_ai-softwareengineering-techleadership-activity-7386797255103504384-wMZs)
   * [How I Built a Production App with Claude Code](https://leadershiplighthouse.substack.com/p/how-i-built-a-production-app-with)
+* [You Need To Become A Full Stack Person · Den Delimarsky](https://den.dev/blog/full-stack-person/)
+  * [원대로 - 😧<"T자형 인재는 죽었다" - AI 시대, 이제 'π형 풀스택 인간'만 살아남는다> - "코딩 잘하면... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid06QLdebF9G5qNobH9wwoGajSWtmJYiVsy79wCgy4xFvdxsTmrMMPh8QhkowPhnFFJl)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
