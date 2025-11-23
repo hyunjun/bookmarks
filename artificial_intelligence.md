@@ -588,6 +588,8 @@ Artificial Intelligence
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
+* [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
+  * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
