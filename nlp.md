@@ -3229,6 +3229,8 @@ NLP
     * [LitServe 리뷰 — DEV.DY](https://dytis.tistory.com/89)
     * [최근 Lightning AI에서 AI 모델 서빙 프레임워크인 LitServe를 공개](https://www.linkedin.com/posts/dong-yong-lee-523ba9138_litserve-%EB%A6%AC%EB%B7%B0-activity-7235598025509781504-bB92)
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
+* [Liquid Docs](https://docs.liquid.ai/)
+  * [Small-fine-tuning: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK](https://github.com/0xSojalSec/Small-fine-tuning)
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
