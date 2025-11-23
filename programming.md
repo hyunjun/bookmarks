@@ -3239,6 +3239,8 @@ Programming
 * [react-native 에 모듈 페더레이션 더하기 (with. RePack) | by Jerrynim | 직방 기술 블로그 | Oct, 2023 | Medium](https://medium.com/zigbang/react-native-%EC%97%90-%EB%AA%A8%EB%93%88-%ED%8E%98%EB%8D%94%EB%A0%88%EC%9D%B4%EC%85%98-%EB%8D%94%ED%95%98%EA%B8%B0-with-repack-12288f15e617)
 * [Micro-Frontends with Module Federation: Beyond the Basics • Manfred Steyer • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=MJnCWffd7ZY)
 * [마이크로프론트엔드의 모든 것: 장단점, 도입 시기, 그리고 구현 방법](https://f-lab.kr/blog/everything-about-the-microfrontend)
+* [Micro-Frontends: Stop Building a Distributed Monolith! (Scale with Conway's Law) - YouTube](https://www.youtube.com/watch?v=YBkaO0TkNaA)
+  * [마이크로 프론트엔드: 분산 모놀리스 구축을 멈추고 콘웨이의 법칙으로 확장하세요](https://livewiki.com/ko/content/micro-frontends-distributed-monolith-conway)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
