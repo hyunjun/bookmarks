@@ -9748,6 +9748,7 @@ Programming
 * [Postman이 내 컴퓨터에서만 동작하는 줄 알았는데, 현재 서비스 중단 발생 | GeekNews](https://news.hada.io/topic?id=23810)
 * [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
   * [Cloudflare 2025년 11월 18일 장애 사후 분석 | GeekNews](https://news.hada.io/topic?id=24471)
+  * [Gemini 3 Pro 가 요약](https://www.facebook.com/seongsoo.cho/posts/pfbid04AVHVcs7Rr2eRzJFjbH4dkY9JcmAbEcv4g4H4c9ee1JsNhGQbSNqkpDrEeadzdptl)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
