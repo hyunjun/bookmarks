@@ -376,6 +376,8 @@ Artificial Intelligence
   * [How I Built a Production App with Claude Code](https://leadershiplighthouse.substack.com/p/how-i-built-a-production-app-with)
 * [You Need To Become A Full Stack Person · Den Delimarsky](https://den.dev/blog/full-stack-person/)
   * [원대로 - 😧<"T자형 인재는 죽었다" - AI 시대, 이제 'π형 풀스택 인간'만 살아남는다> - "코딩 잘하면... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid06QLdebF9G5qNobH9wwoGajSWtmJYiVsy79wCgy4xFvdxsTmrMMPh8QhkowPhnFFJl)
+* [Sapient - We are Building Self-Evolving Machine Intelligence to Solve the World's Most Challenging Problems](https://sapient.inc/)
+  * [HRM: Hierarchical Reasoning Model Official Release](https://github.com/sapientinc/HRM)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -535,6 +537,8 @@ Artificial Intelligence
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
     * [Google A2A Protocol과 Microsoft Agent Framework를 기반으로 한 멀티 에이전트 시스템](https://www.linkedin.com/posts/kjh941213_github-microsoftagent-framework-a-framework-activity-7387371253554331648-92Ot/)
+* [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
+  * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/) 마이크로소프트에서 공개한 Agent 튜닝/최적화/관리 오픈소스 툴
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -763,6 +767,7 @@ Artificial Intelligence
     * [my-adk-python-samples/agent-memory/redis-memory-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-memory-service)
   * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
+  * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
