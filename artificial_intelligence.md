@@ -516,6 +516,7 @@ Artificial Intelligence
 * [Agent Memory와 RAG, 도대체 뭐가 다른 건가요? | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_%EC%9E%AC%EC%97%85%EB%A1%9C%EB%93%9C-webinar-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B3%A0-%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-ugcPost-7394544941705834496-iEez)
 * [AI Agent 만들 때 LLM API 만 연결하면 된다고요? 한 번도 evaluation을 안 해본 분일겁니다.. 제대로 만들기 위해서는 ML 모델링하듯 평가를 접근해야 합니다. 이런 관점이 일반적인 머신러닝(ML)을 할 때의 경험이 큰 도움이 됩니다. 제가 경험하며 정리한, 특히 Vertical Domain Agent의 평가 팁은 이렇습니다. 1… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai-agent-%EB%A7%8C%EB%93%A4-%EB%95%8C-llm-api-%EB%A7%8C-%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B4-%EB%90%9C%EB%8B%A4%EA%B3%A0%EC%9A%94-%ED%95%9C-%EB%B2%88%EB%8F%84-evaluation%EC%9D%84-activity-7398129406377955328-vuRU)
   * 결국 개발자와 도메인 전문가가 함께 이터레이션을 돌며 기준을 잡아가는 과정이 필수적
+* [에이전틱AI 구조 패턴 - Assiworks Claude LangGraph CrewAI 등](https://aifactory.space/page/langchainkr/forum/discussion/4589)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
