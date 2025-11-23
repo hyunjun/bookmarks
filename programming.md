@@ -9741,6 +9741,8 @@ Programming
   * [Summary of the Amazon DynamoDB Service Disruption in the Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/ko/message/101925/)
   * [A single point of failure triggered the Amazon outage affecting millions - Ars Technica](https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/)
 * [Postman이 내 컴퓨터에서만 동작하는 줄 알았는데, 현재 서비스 중단 발생 | GeekNews](https://news.hada.io/topic?id=23810)
+* [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
+  * [Cloudflare 2025년 11월 18일 장애 사후 분석 | GeekNews](https://news.hada.io/topic?id=24471)
 
 ## Troubleshooting, 장애 해결 Postmortem
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
