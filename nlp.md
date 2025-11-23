@@ -2593,6 +2593,18 @@ NLP
 * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋 | Elice](https://www.linkedin.com/posts/elice_b200-gpu%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%86%8C%ED%98%95-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%E2%91%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-activity-7394531899060338689-vcX0)
   * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ① - 데이터셋](https://elice.io/ko/newsroom/b200-korean-llm-dataset-1)
   * [B200 GPU로 한국어 소형 파운데이션 모델 구축하기 ② - 학습·평가](https://elice.io/ko/newsroom/b200-korean-llm-dataset-2)
+* [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
+  * [김성완 - Emergent Introspective Awareness in Large Language Models... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0Q1ZapW8ac2uHR5tjr8LSqsDMAPTG9V8XvDXoRxA6erbMqmPZkvxpihgwZRnVHMZGl)
+    * 앤트로픽에서 대규모 언어 모델(LLM)이 자신의 내부 상태를 성찰적으로 인식하는 능력이 있는지에 대한 연구
+    * 연구진은 "개념 주입"이라는 기술 사용, 모델의 활성화에 의도적인 "생각" 삽입, 모델이 주입된 개념을 감지/식별할 수 있는지 측정
+    * 주요 발견
+      * 모델이 자신의 내부 상태 보고 가능
+      * 주입된 "생각"을 텍스트 입력과 구별 가능
+      * 의도된 출력과 인위적으로 사전 채워진 출력을 분별하기 위해 내부 의도 표현을 활용
+    * 가장 유능한 모델인 Claude Opus 4 및 4.1이 이러한 성찰적 능력을 가장 크게 표출
+      * 이는 LLM의 전반적인 능력 향상과 함께 성찰 능력이 출현할 수 있음을 시사
+    * 전반적으로, 이 연구는 현재 LLM이 제한적이지만 기능적인 형태의 성찰적 인식 보유 증명
+      * 이는 AI의 투명성과 통제 가능성에 중요한 영향
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
