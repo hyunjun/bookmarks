@@ -4588,6 +4588,8 @@ NLP
   * [Explorations of RDMA in LLM Systems](https://le.qun.ch/en/blog/2025/11/09/rdma-p2p-for-llm/)
     * why collective communication feels awkward for newer LLM workloads (disaggregated inference, RL weight update, MoE)
     * why people don’t just use raw RDMA, how we approached it, and some behind-the-scenes stories
+* [2511.13720 Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
+  * [우리는 수년 동안 확산 모델을 훈련시키며 “노이즈를 예측하는 것”이 생성의 핵심이라고 믿어왔다. 그러나 MIT는 이 믿음 자체가 잘못된 전제이며, 모델은 애초부터 “깨끗한 이미지를 직접 예측(x-pred)”했어야 한다고 주장 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-diffusion-ugcPost-7397761041348214785-Ibsz/)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
