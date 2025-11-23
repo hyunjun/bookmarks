@@ -65,6 +65,7 @@ PHP
 * [PHP: 잘못된 디자인의 프랙탈](https://saschanaz.github.io/PHP-a-fractal-of-bad-design-kr/)
 * [How to install or upgrade to PHP 8.3 on Ubuntu and Debian • PHP.Watch](https://php.watch/articles/php-8.3-install-upgrade-on-debian-ubuntu)
   * [메모 우분투, PHP 8.3으로 업그레이하기 명령어 – 형우의 웹개발](https://mytory.net/archives/16766)
+* [PHP 8.5 릴리즈 | GeekNews](https://news.hada.io/topic?id=24503)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
