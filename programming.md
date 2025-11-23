@@ -2589,6 +2589,10 @@ Programming
   * [Auth0의 오픈소스 대체제 Ory Kratos, 이제 Passwordless 및 SMS | GeekNews](https://news.hada.io/topic?id=13528)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 * [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
+* [software-architect-mindmap: 🧠Mindmap of 🗺️Software Architecture, Software engineering: An Overview of Software Terminologies and Concepts.](https://github.com/kimtth/software-architect-mindmap)
+  * [software-architect-mindmap: 🧠Mindmap of 🗺️Software Architecture, Software engineering: An Overview of Software Terminologies and Concepts. | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-kimtthsoftware-architect-mindmap-activity-7397852508536221696-fdZ5)
+    * 현대 애플리케이션 개발, 클라우드 컴퓨팅, 데이터 사이언스 세 주축을 중심으로 다양한 기술과 방법론 포함
+    * 주요 논문, 도구, 디자인 패턴, 분산 시스템 등 풍부한 참고 자료도 함께 제공
 * [stack-auth/stack: Open-source Clerk/Auth0 alternative](https://github.com/stack-auth/stack)
   * [Stack Auth – Auth0/Clerk 의 대안 오픈소스 | GeekNews](https://news.hada.io/topic?id=16249)
 * [clojure-polylith-realworld-example-app: Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API](https://github.com/PEZ/clojure-polylith-realworld-example-app/tree/master)
