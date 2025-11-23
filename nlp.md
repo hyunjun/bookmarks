@@ -3527,6 +3527,8 @@ NLP
   * [미니맥스, 100만 토큰까지 추론 가능한 ‘미니맥스-M1’ 오픈 소스 공개 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=171405)
   * [🤖 MiniMax-M2 스트리밍 챗봇 만들기 튜토리얼](https://fornewchallenge.tistory.com/entry/MiniMax-M2-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
   * [🤖 MiniMax-M2를 활용한 Claude Code 설정 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-MiniMax-M2%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Claude-Code-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
+* [mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities](https://github.com/gpt-omni/mini-omni/)
+  * [2408.16725 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725)
 * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
   * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
   * [마이크로소프트, OpenAI를 넘어서 Mistral과 다년간 협약 체결 | GeekNews](https://news.hada.io/topic?id=13543)
