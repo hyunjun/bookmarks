@@ -566,6 +566,8 @@ Artificial Intelligence
 * [Chain-of-Agents Interesting idea to train a single model with the capabilities of a multi-agent system. 84.6% reduction in inference cost! Distillation and Agentic RL are no joke! Here are my… | Elvis S. | 댓글 10](https://www.linkedin.com/posts/omarsar_chain-of-agents-interesting-idea-to-train-ugcPost-7363952245383524353-J-Tj/)
   * [Agent Foundation Model](https://chain-of-agents-afm.github.io/)
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
+* [Code2Video](https://showlab.github.io/Code2Video/)
+  * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
 * [cognee: Memory for AI Agents in 6 lines of code](https://github.com/topoteretes/cognee)
   * [LLM이 매번 초기화되어 과거 문맥을 잊어버리는 문제도 이제 오픈소스로 해결 가능해졌습니다🚀AI 에이전트 메모리, 이제 6줄의 코드로 충분히 구현할 수 있습니다! 왜냐하면 Cognee Inc.가 "비정형 데이터를 영구적 AI 메모리로 변환하고 벡터+그래프 하이브리드 검색 제공"해주는 오픈소스 메모리 프레임워크, Cognee를 공개했거든요. 셀프 호스팅… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_llm%EC%9D%B4-%EB%A7%A4%EB%B2%88-%EC%B4%88%EA%B8%B0%ED%99%94%EB%90%98%EC%96%B4-%EA%B3%BC%EA%B1%B0-%EB%AC%B8%EB%A7%A5%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%8F%84-%EC%9D%B4%EC%A0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0-activity-7397049792792621056-a-O-)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
