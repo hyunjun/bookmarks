@@ -587,6 +587,7 @@ Artificial Intelligence
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
 * [MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios](https://github.com/MiroMindAI/MiroThinker)
+* [MobiAgent: The Intelligent GUI Agent for Mobile Phones](https://github.com/IPADS-SAI/MobiAgent/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
@@ -1035,6 +1036,7 @@ Artificial Intelligence
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
 * [Manus](https://manus.im/)
+  * [agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)](https://github.com/Fosowl/agenticSeek)
   * [ANUS](https://github.com/nikmcfly/ANUS)
   * [OpenManus - Open-source Framework for Building AI Agents](https://openmanus.github.io/)
     * [OpenManus: No fortress, purely open ground. OpenManus is Coming](https://github.com/mannaandpoem/OpenManus)
