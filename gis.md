@@ -37,6 +37,8 @@ GIS
 * [Ad Management 파트 서버 개발자의 지역 타게팅 개선기](https://tech.buzzvil.com/blog/ad-management-geo-targeting-improvement/) convex hull 외접다각형 Graham Scan 그레이엄 스캔
 * [The C̶a̶k̶e̶ User Location is a Lie!!!](https://austingil.com/user-location-is-a-lie/)
   * [사용자 위치정보(User Location)를 믿지마세요 | GeekNews](https://news.hada.io/topic?id=16132)
+* [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
+  * [정밀한 위치 추적을 가능하게 하는 Wi-Fi 위치 결정 시스템 | GeekNews](https://news.hada.io/topic?id=24525)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
