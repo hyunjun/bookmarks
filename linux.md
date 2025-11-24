@@ -1394,6 +1394,7 @@ Linux
     * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
   * [sysz: An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 * [hello — helloSystem experimental documentation](https://hellosystem.github.io/docs/)
+* [howdy: 🛡️ Windows Hello™ style facial authentication for Linux](https://github.com/boltgolt/howdy/)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
 * [i3 - improved tiling wm](https://i3wm.org/)
   * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 플로팅 윈도우(Floating Window) 생성하기](https://kkamagui.tistory.com/929)
