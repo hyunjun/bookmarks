@@ -3998,6 +3998,7 @@ NLP
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
 * [django-pyhub-rag: 빠른 RAG 구현을 위한 장고 라이브러리](https://github.com/pyhub-kr/django-pyhub-rag)
 * [docpixie: Lightweight Vision native Multimodal Document Agent](https://github.com/qnguyen3/docpixie/)
+* [embedJs: A NodeJS RAG framework to easily work with LLMs and embeddings](https://github.com/llm-tools/embedJs)
 * [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
 * [graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag)
   * [Welcome to GraphRAG](https://microsoft.github.io/graphrag/)
