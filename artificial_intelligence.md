@@ -604,6 +604,8 @@ Artificial Intelligence
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
+* [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
+  * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
