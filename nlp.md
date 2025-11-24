@@ -3997,6 +3997,7 @@ NLP
   * [Colivara is a suite of services that allows you to store, search, and retrieve documents based on their visual embedding. ColiVara has state of the art retrieval performance on both text and visual documents. using vision models instead of chunking and text-processing for documents. No OCR, no text extraction, no broken tables, or missing images](https://github.com/tjmlabs/ColiVara)
 * [CRAG: Corrective Retrieval Augmented Generation](https://github.com/HuskyInSalt/CRAG)
 * [django-pyhub-rag: 빠른 RAG 구현을 위한 장고 라이브러리](https://github.com/pyhub-kr/django-pyhub-rag)
+* [docpixie: Lightweight Vision native Multimodal Document Agent](https://github.com/qnguyen3/docpixie/)
 * [GPT-RAG: Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences](https://github.com/Azure/GPT-RAG)
 * [graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag)
   * [Welcome to GraphRAG](https://microsoft.github.io/graphrag/)
