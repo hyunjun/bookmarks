@@ -3467,6 +3467,7 @@ NLP
   * [LLM-as-a-Judge, 이제는 "점수"만 보지 말고 "확률"까지 보자](https://www.linkedin.com/posts/suhan-jo-7113b334a_github-suhan1433llm-as-a-judge-using-g-eval-activity-7361238234422472704-D2Pw/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
+* [llm-council: LLM Council works together to answer your hardest questions](https://github.com/karpathy/llm-council)
 * [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks](https://github.com/mlabonne/llm-course)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning](https://github.com/mlabonne/llm-datasets)
