@@ -86,6 +86,7 @@ App
 * [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
   * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
 * [Browsh](https://www.brow.sh/) a fully-modern text-based browser
+* [budget_tracker_tui: A simple TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions](https://github.com/Feromond/budget_tracker_tui) CLI 가계부
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty/)
