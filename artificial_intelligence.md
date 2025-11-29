@@ -2226,7 +2226,10 @@ Artificial Intelligence
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
+    * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
+    * [Claude Code는 괴물이다 – 6개월 하드코어 사용에서 얻은 팁들 - RosettaLens 번역](https://rosettalens.com/s/ko/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use)
+    * [claude-code-infrastructure-showcase: Production-tested 기반의 Claude Code 인프라 저장소 (자동 스킬 활성화, 훅, 에이전트 포함). 한국어 번역 및 국내 개발 환경에 맞춘 가이드 제공.](https://github.com/serithemage/claude-code-infrastructure-showcase)
   * [claude-code-mastering](https://github.com/revfactory/claude-code-mastering)
     * [Claude Code 마스터하기](https://revfactory.github.io/claude-code-mastering/)
       * "Claude Code 마스터하기"는 Anthropic의 Claude를 개발 환경에서 효과적으로 활용하는 방법에 대한 포괄적인 가이드로 카카오의 황민호님이 작성
