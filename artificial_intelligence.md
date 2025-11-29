@@ -1142,7 +1142,7 @@ Artificial Intelligence
   * [6 Must-Have MCP Servers (and How to Use Them) | Docker](https://www.docker.com/blog/top-mcp-servers-2025/)
     * 1. Context7 – Enhancing AI coding accuracy
     * 2. Obsidian – Smarter note-taking and project management
-    * 3. DuckDuckGo – Bringing search capabilities to coding agents 
+    * 3. DuckDuckGo – Bringing search capabilities to coding agents
     * 4. Docker Hub – Exploring the world’s largest artifact repository
     * 5. GitHub-official
     * 6. Notion
@@ -1887,6 +1887,9 @@ Artificial Intelligence
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
+* [deep-scholar](https://deep-scholar.vercel.app)
+  * 수백 편의 논문을 소화하고 모든 출처 링크와 함께 길고 깔끔한 리뷰를 제공할 수 있는 DeepResearch의 오픈 소스 대안
+  * OpenAI의 DeepResearch보다 2배 빠르게 작동, 벤치마크 품질도 비슷하거나 더 높다는 평가
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
@@ -1940,6 +1943,7 @@ Artificial Intelligence
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
+* [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [Opal](https://opal.withgoogle.com/landing/)
   * [Google Opal, 디자이너도 AI로 앱을 만든다.](https://brunch.co.kr/@ghidesigner/298)
   * [AI업무자동화 구글 오팔 Opal 미쳤습니다... N8N, 이제 안녕! (무료 AI 앱 생성기) - YouTube](https://www.youtube.com/watch?v=3VJ9U2a25so)
