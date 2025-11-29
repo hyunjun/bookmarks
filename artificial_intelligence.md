@@ -563,6 +563,7 @@ Artificial Intelligence
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
   * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
+* [Building AI Agents](https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic)
 * [Chain-of-Agents Interesting idea to train a single model with the capabilities of a multi-agent system. 84.6% reduction in inference cost! Distillation and Agentic RL are no joke! Here are my… | Elvis S. | 댓글 10](https://www.linkedin.com/posts/omarsar_chain-of-agents-interesting-idea-to-train-ugcPost-7363952245383524353-J-Tj/)
   * [Agent Foundation Model](https://chain-of-agents-afm.github.io/)
   * [2508.13167 Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)
@@ -869,6 +870,10 @@ Artificial Intelligence
     * [(3) 이상선 - 바이브코딩 강의 영상, 당분간 이걸로 끝입니다. 플라스크의 창시자 아르민 로나허(Armin... | Facebook](https://www.facebook.com/100001916096643/posts/31664568689856922/)
   * [Agentic Coding Recommendations | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
     * [이상선 - Armin Ronacher가 2025년 6월 12일에 발표한 블로그 글 "Agentic Coding... | Facebook](https://www.facebook.com/100001916096643/posts/31843829241930865/)
+  * [True Story Non-technical founder tried to sell a 100% AI-generated MVP to a bank - I will not promote : r/startups](https://www.reddit.com/r/startups/comments/1oex6aw/true_story_nontechnical_founder_tried_to_sell_a/)
+    * [이상선 - 서툰 손에 맡겨진 바이브코딩은 악이다: Reddit에 한 핀테크 스타트업 창업자의 안타까운 이야기가... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid07qLndGKZhVxRRMeWoCppjvbXa9jUxQBZSLQcNwDZJgnLBTaHcjjRVbDGFRdZt3uVl)
+      * AI가 쓴 코드를 AI의 도움으로 300시간이나 수정
+      * 실제 있었던 일이라기 보단 챗지피티가 생성한 글일 가능성이 더 높다고
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -1116,8 +1121,6 @@ Artificial Intelligence
   * [초보자를 위한 전체 과정(1-11과) MCP - YouTube](https://www.youtube.com/watch?v=VfZlglOWWZw)
     * [Full Course (Lessons 1-11) MCP for Beginners | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5437682/5022646)
   * [MCP illustrated guidebook.pdf - Google Drive](https://drive.google.com/file/d/1a0OMR6NKTY-R2ZeLJVnDimkmTauarXPB/view)
-  * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
-    * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [GitHub MCP Registry: The fastest way to discover AI tools - GitHub Changelog](https://github.blog/changelog/2025-09-16-github-mcp-registry-the-fastest-way-to-discover-ai-tools/)
   * [AI 시대의 필수 지식 MCP 이 영상 하나로 끝내세요! - YouTube](https://www.youtube.com/watch?v=46HxP7kO9oY)
     * [mcp-server-node: Node.js / Express / TypeScript 기반 MCP (Model Context Protocol) 서버](https://github.com/cloudtype-examples/mcp-server-node)
@@ -1136,6 +1139,25 @@ Artificial Intelligence
       * 효과적인 도구를 설계하고 효과적으로 사용하기 위한 몇 가지 모범 사례와 지침 제공
       * 그런 다음 모델 컨텍스트 프로토콜을 살펴보고 기본 구성 요소와 그에 수반되는 몇 가지 과제 및 위험에 대해 이야기
       * 마지막으로, MCP가 엔터프라이즈 환경에 도입되고 고부가가치 외부 시스템에 연결될 때 발생하는 보안 문제 탐구
+  * [6 Must-Have MCP Servers (and How to Use Them) | Docker](https://www.docker.com/blog/top-mcp-servers-2025/)
+    * 1. Context7 – Enhancing AI coding accuracy
+    * 2. Obsidian – Smarter note-taking and project management
+    * 3. DuckDuckGo – Bringing search capabilities to coding agents 
+    * 4. Docker Hub – Exploring the world’s largest artifact repository
+    * 5. GitHub-official
+    * 6. Notion
+  * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
+    * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
+  * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
+    * [Tae Hyung Kim - 최근 Meta가 공개한 새로운 에이전트 프레임워크 Matrix를 보고 적잖이 놀랐다.... | Facebook](https://www.facebook.com/socialego/posts/pfbid0GGGwScGa1bPaBYLrSUotVfFdeqstqeWr8WkJt5CbVTX7STRXreTkY4PttA7Moed6l)
+      * 멀티 에이전트 시스템: 중앙 오케스트레이터가 모든 요청을 승인하고 조정하는 방식을 사용, 구조적 한계는 늘 고민
+      * 메타에서 발표한 Matrix 이 중앙 권력을 해체
+        * 작업 지시가 메시지 객체로 변해 에이전트들 사이를 직접 이동
+        * 각 에이전트는 도착한 일을 즉시 처리, 다음 에이전트에게 전달
+        * 관리자가 사라지면 병목도 사라지고, 처리량은 엄청나게 증가
+      * Matrix가 보여주는 방향은 분명
+        * 앞으로 지식은 중앙 통제가 아닌, 수십, 수백 개의 자율적 에이전트가 협력, 끊임없이 생성, 순환되는 분산형 생태계에서 작성
+    * 개인적으로는 akka와 같은 actor model이 연상됨
   * [Agentica > Home](https://wrtnlabs.io/agentica/)
     * [MCP에 대해서 얘기하려면 먼저 Function Calling에 대해서 얘기해야](https://www.linkedin.com/posts/%EA%B2%BD%EC%88%98-%EA%B0%95-2b8254211_connectorspackagesgithubsrcgithubgithubservicets-activity-7306519443910664192-8626/)
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
@@ -2034,6 +2056,8 @@ Artificial Intelligence
 * [Joe Magerramov's blog: The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * ["코딩을 맥도날드처럼 한다고?" AI 환각 잡고 개발팀 칼퇴시킨 삼양식품의 비밀 - YouTube](https://www.youtube.com/watch?v=c13ormxFbxU)
   * [AI 환각 잡고 개발팀 칼퇴시킨 삼양식품의 맥도날드식 개발 비밀](https://livewiki.com/ko/content/samyang-food-ai-coding)
+  * [클로드 코드로 프로덕트 팀 바이브코딩 표준화한 방법(aka 맥도날드 시스템) | 요즘IT](https://yozm.wishket.com/magazine/detail/3457/)
+  * 가장 중요한 일 중 하나가 결국 문서화, 기록이었다는 점이 큰 시사점이라고 생각
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
