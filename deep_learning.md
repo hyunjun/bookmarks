@@ -2456,6 +2456,10 @@ CVPR2016)
   * 비연속적인 활성화 함수를 사용하지만 straight-through 추정기를 통해 효과적으로 학습 가능
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
   * [복잡한 연산 없이 모델의 Confidence를 활용해 더 나은 추론 #meta | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7365673072051318785-GjBT)
+* [2511.16652 Evolution Strategies at the Hyperscale](https://arxiv.org/abs/2511.16652)
+  * [딥러닝 시대의 2막을 열다 - 미분이 필요없는AI | Suk Hyun Kim | 18 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_slwsakrhysji-snzswmudqrgu-ai-ugcPost-7399939021369397248-lrOQ)
+    * NVIDIA와 옥스퍼드대가 새벽에 발표한 EGGROLL 논문은 표면적으로는 단순한 기술적 개선
+    * 그러나 그 이면을 자세히 들여다보면, 딥러닝의 기존 전제를 송두리째 뒤흔드는 패러다임의 변화
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
