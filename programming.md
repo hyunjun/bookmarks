@@ -6014,6 +6014,7 @@ Programming
   * [DevOps에 대한 추도사 | GeekNews](https://news.hada.io/topic?id=15604)
 * [한국 게임사는 대부분 DEV-OPS 와 내부 QA 에 가치를 두지 않을까.](https://techartnomad.tistory.com/576)
 * [아무도 말하지 않는 10가지 핵심 데브옵스 실천 전략 | ITWorld](https://www.itworld.co.kr/article/4085465)
+* [도커 없이 SFTP로 2분 배포 (SSH Git으로 비용 절감) - YouTube](https://www.youtube.com/watch?v=124bc3KUG9o)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
@@ -8751,6 +8752,9 @@ Programming
     * 결국 유지보수 절벽(Maintenance Cliff)으로 이끌 수 있다고 경고
   * LLMs는 초기 설정이나 아이디어 구상 단계에서 마찰을 줄여 실험의 문턱을 낮추는 데(lower the threshold for experimentation) 유용
     * 자연어 코드 생성 능력이 곧 시스템에 대한 깊은 이해(deeper understanding)를 대체할 수는 없다는 것이 핵심 주장
+* [Software Failures and IT Management's Repeated Mistakes - IEEE Spectrum](https://spectrum.ieee.org/it-management-software-failures)
+  * [수조 달러를 쏟아붓고도 여전히 실패하는 대형 소프트웨어 프로젝트들 | GeekNews](https://news.hada.io/topic?id=24624)
+    * [수조 달러를 쏟아붓고도 여전히 실패하는 대형 소프트웨어 프로젝트들 | GeekNews | 박성철](https://www.linkedin.com/posts/fupfin_%EC%88%98%EC%A1%B0-%EB%8B%AC%EB%9F%AC%EB%A5%BC-%EC%8F%9F%EC%95%84%EB%B6%93%EA%B3%A0%EB%8F%84-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94-%EB%8C%80%ED%98%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4-geeknews-activity-7400060225443160064-K4Gp)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
