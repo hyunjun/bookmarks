@@ -1352,6 +1352,8 @@ NLP
 * [실무용 클로드 코드 프롬프트 엔지니어링 템플릿 3종 | 요즘IT](https://yozm.wishket.com/magazine/detail/3353/)
 * [만일 ChatGPT 유료 버전을 사용하시는 분이라면 Agent 모드를 이용해서 전문적인 글로벌 뉴스레터를 만들어 보세요.  (아래는 Prompt이고 \[ \] 안의 내용을 바꿔서 사용해 보세요.) ———————————————————————— You are a **\[인공지능과 인사관리\] Daily News Watcher Agent**. GOAL •… | 김덕중 | 댓글 10](https://www.linkedin.com/posts/duckjungkim_%EB%A7%8C%EC%9D%BC-chatgpt-%EC%9C%A0%EB%A3%8C-%EB%B2%84%EC%A0%84%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EC%9D%B4%EB%9D%BC%EB%A9%B4-agent-%EB%AA%A8%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-activity-7380591913034317824-oMGL)
 * [Mastering JSON Prompting for LLMs - MachineLearningMastery.com](https://machinelearningmastery.com/mastering-json-prompting-for-llms/)
+* [Role assignment vs self-assessment in language models | Claude](https://claude.ai/share/85bfe01d-cf37-4169-8d4b-201ad2da814d)
+  * [LLM 프롬프팅: 페르소나 지정 vs 메타인지 방식의 차이점 :: ROBOCO](https://roboco.io/posts/persona-vs-metacognition/)
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -5132,6 +5134,7 @@ NLP
 * [FastSpeech2: An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"](https://github.com/ming024/FastSpeech2)
   * [~PYRASIS.COM: 내 목소리를 TTS로 만들기(FastSpeech2)~](https://pyrasis.com/tts/2023/02/05/FastSpeech2-My-Voice-TTS)
   * [Korean-FastSpeech2-Pytorch: Implementation of Korean FastSpeech2](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)
+* [FireRedTTS2: Long-form streaming TTS system for multi-speaker dialogue generation](https://github.com/FireRedTeam/FireRedTTS2)
 * [Free Text to Speech Online Converter Tools](https://www.text-to-speech.online/)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
