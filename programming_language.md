@@ -737,6 +737,8 @@ Programming Language
   * [Trying out Unison, part 3: effects through abilities](https://softwaremill.com/trying-out-unison-part-3-effects-through-abilities/)
   * [Trying out Unison, part 4: from the edge to the cloud](https://softwaremill.com/trying-out-unison-part-4-from-the-edge-to-the-cloud/)
   * [SBTB 2023: Paul Chiusano, Typed and compositional microservices in Unison - YouTube](https://www.youtube.com/watch?v=Zp1fp5ckXQs)
+  * [Announcing Unison 1.0](https://www.unison-lang.org/unison-1-0/)
+    * [Announcing Unison 1.0 | Jechol Lee](https://www.linkedin.com/posts/jechol_announcing-unison-10-activity-7399716174139412480-UDEk)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
 * [Urn: A Lisp implementation for Lua](http://urn-lang.com/)
