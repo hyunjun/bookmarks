@@ -23,3 +23,6 @@ Speaking
   * 발음, 발성, 말 맛이라는 세 가지 딕션의 핵심 요소 설명
   * 정확한 발음과 발성으로 인해 김지원 배우의 뛰어난 딕션과 전달력
   * 말맛을 추가하여 자연스러운 말하기를 위한 멜로디, 리듬, 강세 등의 중요성 강조
+* [말이 정돈되게 나오지 않는다면, '이 구조'만 기억하세요! | 발표, 보고, 회의 모두 먹히는 말하기 공식 - YouTube](https://www.youtube.com/watch?v=CjgefsNYBOI)
+  * [말을 조리 있게 하는 4가지 비법: 발표, 보고, 회의 성공을 위한 커뮤니케이션 공식](https://livewiki.com/ko/content/presentation-speaking-formula)
+  * 4MAT Why What How (What) if
