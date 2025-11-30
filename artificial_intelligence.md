@@ -380,6 +380,9 @@ Artificial Intelligence
   * [HRM: Hierarchical Reasoning Model Official Release](https://github.com/sapientinc/HRM)
 * [한글자막 안드레이 카파시: 우리는 동물을 만드는 게 아니라 유령을 소환하고 있다 - YouTube](https://www.youtube.com/watch?v=-1wUricB7vY)
   * [안드레이 카파시: AI는 동물이 아닌 유령을 소환하는 중 (에이전트의 10년)](https://livewiki.com/ko/content/andrey-karpathy-ghosts)
+* [지금 AI에겐 결정적인 '이것'이 없다 - 일리야 수츠케버 - YouTube](https://www.youtube.com/watch?v=L3OvFcSjXRg)
+  * [지금 AI에겐 결정적인 '이것'이 없다 - 일리야 수츠케버](https://livewiki.com/ko/content/ai-critical-ingredient-ilya-sutskever)
+  * [Wontae Lee - <<일리야 수츠케버의 인터뷰를 보고 난 후>> 한상기(한상기) 선배의 추천으로 일리야... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0xtbPhqi8C7x78pS95P5e9aNPFCLJAhzjmPAAEMhETN719ieo8kvvASnPzcuN9Kt2l)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1306,6 +1309,11 @@ Artificial Intelligence
   * [군용 C2 플랫폼인 안두릴의 오픈소스 대안이 목표인 프로젝트](https://www.linkedin.com/posts/huhhyeongjun_github-cartesiancsvessel-orchestrate-activity-7368580181885612032-n5CE)
 * [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
   * [바이브 엔지니어링 | GeekNews](https://news.hada.io/topic?id=23521)
+* [When AI Fails: Real AI Horror Stories, Failures & Hallucinations (2025)](https://whenaifail.com/)
+  * ["95%의 기업 AI 프로젝트가 실패한다. 그런데 진짜 원인은 AI가 아니다." | KyongJin Won](https://www.linkedin.com/posts/wonkj_security-update-for-amazon-q-developer-extension-activity-7400639702657064960-twuf)
+  * [MIT report: 95% of generative AI pilots at companies are failing | Fortune](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
+  * [s1ngularity's aftermath: analysis of Nx supply chain attack | Wiz Blog](https://www.wiz.io/blog/s1ngularitys-aftermath)
+  * [How AWS averted an AI coding supply chain disaster | ReversingLabs](https://www.reversinglabs.com/blog/aws-amazonq-ai-incident)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
@@ -1635,6 +1643,8 @@ Artificial Intelligence
   * [Tidy First 방법론: Kent Beck의 Augmented Coding 해석과 적용 :: ROBOCO](https://roboco.io/posts/tidy-first-methodology/)
   * [**켄트 벡(Kent Beck) 형님과 함께하는 Augmented Coding, "증강 코딩" 잘해보기**](https://velog.io/@qlgks1/Kent-Beck-Augmented-Coding)
     * [켄트 벡(Kent Beck) 형님과 함께하는 Augmented Coding, "증강 코딩" 잘해보기 | Hyeonwoo Jeong](https://www.linkedin.com/posts/hyeonwoo-jeong-nuung_%EC%BC%84%ED%8A%B8-%EB%B2%A1kent-beck-%ED%98%95%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-augmented-coding-activity-7373688457396862976-oYeA)
+  * [Kent Beck Live Stream - SecondB Summary](https://secondb.ai/summary/9083/)
+    * [Kent Beck Live Stream - SecondB Summary | Geummo I](https://www.linkedin.com/posts/geummo_kent-beck-live-stream-secondb-summary-activity-7400029062477438976--smz)
 * [TDD, AI agents and coding with Kent Beck - YouTube](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
   * [TDD, AI agents and coding with Kent Beck | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5185989/4634407)
 * [AI 코딩 그렇게 하는 거 아닌데 - 켄트 백 (40년차) - YouTube](https://www.youtube.com/watch?v=AAd8taPTyTM)
@@ -1686,6 +1696,8 @@ Artificial Intelligence
   * AI는 코드 생성, 버그 수정, 문서화 등 반복적인 작업을 자동화할 수 있지만, 복잡한 비즈니스 로직 이해, 사용자 경험 설계, 창의적 문제 해결 등은 여전히 인간 개발자의 영역
   * 특히 웹 개발의 경우 사용자 인터페이스 설계, 접근성 고려, 성능 최적화 등에서 인간의 직관과 경험이 필수적
   * 결론적으로 AI는 개발자의 생산성을 향상시키는 도구로 활용되어야 하며, 완전한 대체가 아닌 협업 관계로 발전할 것으로 전망
+* [Estimating AI productivity gains \ Anthropic](https://www.anthropic.com/research/estimating-productivity-gains)
+  * [Estimating AI productivity gains | 김덕중](https://www.linkedin.com/posts/duckjungkim_estimating-ai-productivity-gains-activity-7399091977180372992-uJ3L)
 * [네이버 밴드 기획자가 AI코딩 99%로 만들었다는 AI 소셜 앱 | 요즘IT](https://yozm.wishket.com/magazine/detail/3309/)
 * [AI 시대의 개발자: 현업 개발자의 솔직한 이야기](https://velog.io/@teo/ai-and-developer)
 * [**AI 시대의 소스코드 품질 :: akwiki**](https://wiki.g15e.com/pages/Source%20code%20quality%20in%20the%20AI%20era)
