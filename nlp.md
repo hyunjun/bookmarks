@@ -3470,6 +3470,7 @@ NLP
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
 * [llm-council: LLM Council works together to answer your hardest questions](https://github.com/karpathy/llm-council)
+  * [lucas on X: "카파시가 공유한 "LLM Council".. 여러 LLM을 한 방에 몰아넣고 서로의 답변을 평가하게 만든 뒤, 의장 LLM이 최종 요약을 뽑아내는 시스템. 그런데 연관된 대화가 흥미로웠어요. Burkov가 한마디 합니다. 이 녀석들이 서로의 답변을 거의 100% 가까이 "와 이거 진짜 훌륭한데?"라고 칭찬한다는 https://t.co/Eb2dMJdiPL" / X](https://x.com/lucas_flatwhite/status/1992439324911210998)
 * [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks](https://github.com/mlabonne/llm-course)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning](https://github.com/mlabonne/llm-datasets)
