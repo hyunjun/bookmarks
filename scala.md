@@ -411,6 +411,8 @@ Scala
 * [Kalix tutorial: Building invoice application - Scala](https://scalac.io/blog/kalix-tutorial-building-invoice-application/)
 * [Business4s · GitHub](https://github.com/business4s)
   * [Announcing Business4s: a new value proposition for Scala | by Voytek Pituła | May, 2024 | Medium](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28)
+  * [Business4s: Bridging the gap between devs and the business Scala Days 2025 - YouTube](https://www.youtube.com/watch?v=eIw9TksowkI)
+    * [Business4s: 개발자와 비즈니스 간의 간극 해소 Scala Days 2025](https://livewiki.com/ko/content/business4s-devs-business-scala)
 * [(1) Jon Pretty on X: "Pseudorandom Acts of Kindness" / X](https://x.com/propensive/status/1815326193245155563)
 * [Jon Pretty on X: "Perfect Tab Completions" / X](https://x.com/propensive/status/1829111552168841329)
 
