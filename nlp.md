@@ -3132,6 +3132,15 @@ NLP
     * [Auto-Evaluator](https://autoevaluator.langchain.com/)
   * [deepagents at blog.langchain.com](https://github.com/hwchase17/deepagents?ref=blog.langchain.com)
     * [Deep Agents](https://blog.langchain.com/deep-agents/)
+    * [lab/deep-agents-from-scratch: 밑바닥부터 손수 만들어 보면서 개념을 익히는 핸즈온 Deep Agents 튜토리얼](https://github.com/teddynote-lab/deep-agents-from-scratch)
+      * LangChain 에서 얼마전 공개한 딥에이전트(Deep Agents) 의 한국어 버전 튜토리얼 "밑바닥에서 만들어 보는 Deep Agents"
+      * Deep Agents 는 "딥리서치 에이전트"가 아니라
+        * Manus 나 Claude Code, 최근에는 Google 의 Antigravity 에디터에도 적용되어있는
+        * Agent 의 작업 수행/관리 등을 최적화하여 긴 컨택스트에 대한 효율적인 처리를 가능케하는 일종의 에이전트 시스템 아키텍처
+      * 주요 특징
+        * 작업에 대한 TODO 리스트 작성 및 순차 수행
+        * file system 을 활용한 컨택스트 관리
+        * Sub-Agent 에 컨텍스트 격리로 효율적인 컨택스트 관리(비용 관점, context 최적화 관점)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
