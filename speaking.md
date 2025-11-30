@@ -26,3 +26,5 @@ Speaking
 * [말이 정돈되게 나오지 않는다면, '이 구조'만 기억하세요! | 발표, 보고, 회의 모두 먹히는 말하기 공식 - YouTube](https://www.youtube.com/watch?v=CjgefsNYBOI)
   * [말을 조리 있게 하는 4가지 비법: 발표, 보고, 회의 성공을 위한 커뮤니케이션 공식](https://livewiki.com/ko/content/presentation-speaking-formula)
   * 4MAT Why What How (What) if
+* [15년 강의를 통해 지켜본, 구글, 아마존, 테슬라에 입사한 학생들의 공통점 3가지 - YouTube](https://www.youtube.com/watch?v=CxezszfS020)
+  * [구글·아마존·테슬라 입사생 공통점: 성공을 부르는 말하기 실천법 3가지](https://livewiki.com/ko/content/google-amazon-tesla-students)
