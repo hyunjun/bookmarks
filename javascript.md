@@ -96,6 +96,13 @@ Javascript
 * [JavaScript's New Superpower: Explicit Resource Management · V8](https://v8.dev/features/explicit-resource-management)
 * [How V8 JavaScript Engine Works Behind the Scenes](https://www.deepintodev.com/blog/how-v8-javascript-engine-works-behind-the-scenes)
 * [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8](https://v8.dev/blog/explicit-compile-hints)
+* [V8 Deep Dives Understanding Map Internals | by Andrey Pechkurov | ITNEXT](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df)
+  * [V8 Deep Dives Map의 내부 구조 이해하기 | PWNZ INTERACTIVES](https://www.pwnz.kr/posts/v8-map-internals)
+* [V8 Deep Dives Understanding Array Internals | by Andrey Pechkurov | ITNEXT](https://itnext.io/v8-deep-dives-understanding-array-internals-5b17d7a28ecc)
+  * [V8 Deep Dives Array의 내부 구조 이해하기 | PWNZ INTERACTIVES](https://www.pwnz.kr/posts/v8-array-internals)
+* [V8 Deep Dives Object와 Map의 차이점 완전 분석 | PWNZ INTERACTIVES](https://www.pwnz.kr/posts/v8-object-vs-map)
+  * [V8 Deep Dives Object와 Map의 차이점 완전 분석 | Jiwon Park](https://www.linkedin.com/posts/jiwon-park-editor_v8-deep-dives-object%EC%99%80-map%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-activity-7400307521590161408-EO2z)
+* [V8 Deep Dives Random Thoughts on Math.random() | by Andrey Pechkurov | Medium](https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
