@@ -1856,6 +1856,8 @@ Web
   * [Simple Pretty Maps That Will Better Your Python Streamlit Skills](https://johnloewen.substack.com/p/simple-pretty-maps-that-will-better)
   * [Streamlit의 기본 개념과 예제](https://webnautes.kr/streamlityi-gibon-gaenyeomgwa-yeje/)
   * [Streamlit의 고급 개념과 예제](https://webnautes.kr/streamlityi-gogeub-gaenyeomgwa-yeje-2/)
+  * [Building Data Visualisations in Python in Minutes • Kris Jenkins • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=lQRq4-MiAGA)
+    * [Streamlit으로 Python 데이터 시각화를 몇 분 만에 구축하는 방법](https://livewiki.com/ko/content/data-visualisations-python-minutes)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
   * [toy_filemover_streamlit: Sometimes the process of editing MP3 tags is the result of an old man's work](https://github.com/halfenif/toy_filemover_streamlit)
