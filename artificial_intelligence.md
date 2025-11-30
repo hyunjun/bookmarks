@@ -378,6 +378,8 @@ Artificial Intelligence
   * [원대로 - 😧<"T자형 인재는 죽었다" - AI 시대, 이제 'π형 풀스택 인간'만 살아남는다> - "코딩 잘하면... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid06QLdebF9G5qNobH9wwoGajSWtmJYiVsy79wCgy4xFvdxsTmrMMPh8QhkowPhnFFJl)
 * [Sapient - We are Building Self-Evolving Machine Intelligence to Solve the World's Most Challenging Problems](https://sapient.inc/)
   * [HRM: Hierarchical Reasoning Model Official Release](https://github.com/sapientinc/HRM)
+* [한글자막 안드레이 카파시: 우리는 동물을 만드는 게 아니라 유령을 소환하고 있다 - YouTube](https://www.youtube.com/watch?v=-1wUricB7vY)
+  * [안드레이 카파시: AI는 동물이 아닌 유령을 소환하는 중 (에이전트의 10년)](https://livewiki.com/ko/content/andrey-karpathy-ghosts)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1890,6 +1892,7 @@ Artificial Intelligence
 * [deep-scholar](https://deep-scholar.vercel.app)
   * 수백 편의 논문을 소화하고 모든 출처 링크와 함께 길고 깔끔한 리뷰를 제공할 수 있는 DeepResearch의 오픈 소스 대안
   * OpenAI의 DeepResearch보다 2배 빠르게 작동, 벤치마크 품질도 비슷하거나 더 높다는 평가
+  * [DeepScholar라는 공개형 딥리서치 시스템을 출시했는데, 버클리와 스탠퍼드에서 만든 거라 꽤 신뢰할만 합니다. 수백 편의 논문을 빠르게 처리하고, OpenAI DR급 장문 연구 종합 능력을 내면서도 속도는 최대 두 배 정도 빠르다고 하네요. https://lnkd.in/gihR4wgm 연구 요약의 본질은 많은 문서를 분석하고 처리하는 능력인데… | 김덕중](https://www.linkedin.com/posts/duckjungkim_deepscholar%EB%9D%BC%EB%8A%94-%EA%B3%B5%EA%B0%9C%ED%98%95-%EB%94%A5%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%B6%9C%EC%8B%9C%ED%96%88%EB%8A%94%EB%8D%B0-%EB%B2%84%ED%81%B4%EB%A6%AC%EC%99%80-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C%EC%97%90%EC%84%9C-activity-7400043596462288896-1ZQE)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
