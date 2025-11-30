@@ -240,6 +240,7 @@ App
     * [Surfer - 온라인 플랫폼의 모든 개인 데이터를 중앙 집중화하는 도구 | GeekNews](https://news.hada.io/topic?id=16494)
 * [Tabby - a terminal for a more modern age](https://tabby.sh/)
   * [8 013 잘가! 슈퍼푸티SuperPutty 환영해! 타비Tabby - YouTube](https://www.youtube.com/watch?v=4MhZxSS3Xm8)
+  * [터미널이요? iTerm2, MobaXterm도 좋지만 저는 Tabby.sh 씁니다. - YouTube](https://www.youtube.com/live/AEOwU3dl3Jg)
 * [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) 윈도우 샌드박스를 이용해 인터넷 뱅킹/전자정부 인터넷 서비스를 사용하도록 하는 프로젝트
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
