@@ -383,6 +383,9 @@ Artificial Intelligence
 * [지금 AI에겐 결정적인 '이것'이 없다 - 일리야 수츠케버 - YouTube](https://www.youtube.com/watch?v=L3OvFcSjXRg)
   * [지금 AI에겐 결정적인 '이것'이 없다 - 일리야 수츠케버](https://livewiki.com/ko/content/ai-critical-ingredient-ilya-sutskever)
   * [Wontae Lee - <<일리야 수츠케버의 인터뷰를 보고 난 후>> 한상기(한상기) 선배의 추천으로 일리야... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0xtbPhqi8C7x78pS95P5e9aNPFCLJAhzjmPAAEMhETN719ieo8kvvASnPzcuN9Kt2l)
+* [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입 | Seung-gyon (Robin) Hur](https://www.linkedin.com/posts/seung-gyon-robin-hur-537232116_%EC%8A%A4%EC%9C%99-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84%EC%9D%84-71-%EB%8B%A8%EC%B6%95%ED%96%88%EB%82%98-2%EB%B6%80-synapse-activity-7396485568500686848-l6SX)
+  * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 1부: 게시판으로 전환](https://www.theswing.tech/cx_center_synapse_concierge_1/)
+  * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입](https://www.theswing.tech/cx_center_synapse_concierge_2/)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
