@@ -386,6 +386,7 @@ Artificial Intelligence
 * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입 | Seung-gyon (Robin) Hur](https://www.linkedin.com/posts/seung-gyon-robin-hur-537232116_%EC%8A%A4%EC%9C%99-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84%EC%9D%84-71-%EB%8B%A8%EC%B6%95%ED%96%88%EB%82%98-2%EB%B6%80-synapse-activity-7396485568500686848-l6SX)
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 1부: 게시판으로 전환](https://www.theswing.tech/cx_center_synapse_concierge_1/)
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입](https://www.theswing.tech/cx_center_synapse_concierge_2/)
+* [챗봇 위주 AI 사용의 한계는 명확합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vibecoding20251204)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -1639,6 +1640,7 @@ Artificial Intelligence
   * [Software Is Changing (Again)](https://www.linkedin.com/posts/spike-jee-480225a_%EA%B0%93%EB%B0%94%EC%B9%98-%EB%8B%98%EC%9D%98-y-combinator-%ED%82%A4%EB%85%B8%ED%8A%B8-%EC%A0%95%ED%99%95%ED%9E%88%EB%8A%94-yc%EA%B0%80-%EC%84%A4%EB%A6%BD%ED%95%9C-ai-activity-7345623043248934912-fTrZ/)
   * [안드레이 카파시가 말하는 AI 시대의 소프트웨어](https://maily.so/seanlee/posts/wdr9790gzlx)
   * [안드레이 카파시 "소프트웨어는 (다시) 변화하고 있다" 강연 노트](https://apidog.com/kr/blog/notes-on-andrej-karpathy-talk-software-is-changing-again/)
+  * [생활코딩 | 안드레이 카파시의 개발 방법론을 최신 유튜브 인터뷰에서 발췌하여 첨부 이미지들로 시각화 해 봤습니다(PDF 파?... | Facebook](https://www.facebook.com/groups/codingeverybody/posts/33063002643313522/)
 * [Every time OpenAI launches something new, another 100 AI startups quietly die](https://www.linkedin.com/posts/zainjaffer_every-time-openai-launches-something-new-activity-7340775023361650689-_0k5/)
 * [Augmented Coding: Beyond the Vibes - by Kent Beck](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
   * [켄트 벡의 Augmented Coding: Beyond the Vibes 요약 및 추가 의견 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BC%2584%25ED%258A%25B8-%25EB%25B2%25A1%25EC%259D%2598-augmented-coding-beyond-vibes-%25EC%259A%2594%25EC%2595%25BD-%25EB%25B0%258F-%25EC%25B6%2594%25EA%25B0%2580-%25EC%259D%2598%25EA%25B2%25AC-toby-lee-mcy8e)
@@ -1908,6 +1910,8 @@ Artificial Intelligence
   * 수백 편의 논문을 소화하고 모든 출처 링크와 함께 길고 깔끔한 리뷰를 제공할 수 있는 DeepResearch의 오픈 소스 대안
   * OpenAI의 DeepResearch보다 2배 빠르게 작동, 벤치마크 품질도 비슷하거나 더 높다는 평가
   * [DeepScholar라는 공개형 딥리서치 시스템을 출시했는데, 버클리와 스탠퍼드에서 만든 거라 꽤 신뢰할만 합니다. 수백 편의 논문을 빠르게 처리하고, OpenAI DR급 장문 연구 종합 능력을 내면서도 속도는 최대 두 배 정도 빠르다고 하네요. https://lnkd.in/gihR4wgm 연구 요약의 본질은 많은 문서를 분석하고 처리하는 능력인데… | 김덕중](https://www.linkedin.com/posts/duckjungkim_deepscholar%EB%9D%BC%EB%8A%94-%EA%B3%B5%EA%B0%9C%ED%98%95-%EB%94%A5%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%B6%9C%EC%8B%9C%ED%96%88%EB%8A%94%EB%8D%B0-%EB%B2%84%ED%81%B4%EB%A6%AC%EC%99%80-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C%EC%97%90%EC%84%9C-activity-7400043596462288896-1ZQE)
+* [Draftie - 4줄 아이디어가 2만자 전략 문서로](https://draftie.pro/)
+  * [4줄의 아이디어가 2만자 전략 문서로 드래프티 베타를 공개한 지 7일이 지났습니다. 솔직히 말하면… “전략 문서 AI를 얼마나 써줄까?” 걱정이 컸습니다. 그런데 예상보다 훨씬 많은 분들이 찾아와 주셨습니다. - 50명 가입 - 생성 전환율 80% - 유료 전환율 10% 그리고 무엇보다 감사했던 건 고객 분들이 직접 10~20분씩 시간을… | Kyung Jin Jung](https://www.linkedin.com/posts/kyung-jin-jung_4%EC%A4%84%EC%9D%98-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B0%80-2%EB%A7%8C%EC%9E%90-%EC%A0%84%EB%9E%B5-%EB%AC%B8%EC%84%9C%EB%A1%9C-%EB%93%9C%EB%9E%98%ED%94%84%ED%8B%B0-%EB%B2%A0%ED%83%80%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EC%A7%80-7%EC%9D%BC%EC%9D%B4-activity-7402149123723997184-AfQH)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
   * [eliza: Autonomous agents for everyone](https://github.com/elizaOS/eliza)
   * [eliza - 모두를 위한 자동화 에이전트 | GeekNews](https://news.hada.io/topic?id=18299)
@@ -2045,6 +2049,7 @@ Artificial Intelligence
   * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
 * [Z.ai - Free AI Chatbot powered by GLM-4.5](https://chat.z.ai/)
   * [Z.ai, 단순한 도구가 아니다: 'AI 복기'로 인간 뇌를 확장해보기 Z.ai를 테스트해보았습니다. 리서치 보고서를 업로드 한 후, "맥퀸지 컨설팅 보고서 형태로 만들어. 데이터나 도표 등은 시각화 자료도 포함해. 톤은 블루톤으로 하고, 문장은 간결형으로~함으로 끝나야해. 전문용어나 약어는 설명을 보강해” 결과는 skywork 보다 컬러나 아이콘이… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_zai-%EB%8B%A8%EC%88%9C%ED%95%9C-%EB%8F%84%EA%B5%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-ai-%EB%B3%B5%EA%B8%B0%EB%A1%9C-%EC%9D%B8%EA%B0%84-%EB%87%8C%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%B4%EB%B3%B4%EA%B8%B0-activity-7376565909454249984-aAE8)
+  * [임백호 - 블프라 해도 특별히 물건을 잘 사질 않는데 살다 살다 중국산 LLM 1년치 토큰을 결제했습니다. GPT,... | Facebook](https://www.facebook.com/100ho/posts/pfbid02Bzv7xzNahQ7YEvAMgngSy69WPnvzRcP7o1gUcmuZkeoa7rNwmSwhLd9XFhniu35Ml)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -2233,6 +2238,8 @@ Artificial Intelligence
   * [클로드 코드로 스타트업 개발팀 자동화한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3431/)
   * [First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
     * [AI는 주니어 개발자다: 클로드 코드와 함께한 6주 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3453/)
+  * [클로드 코드 CLI: 터미널과 VS Code의 연결 - by Yongkyun Lee - 코드 포인터](https://codepointerko.substack.com/p/cli-vs-code)
+    * [이용균 - 클로드 코드 CLI를 쓰면 클로드 코드가 VS Code의 빨간 밑줄을 참고하여, 컴파일 하지 않고 문법을... | Facebook](https://www.facebook.com/yongkyun.lee.12/posts/pfbid0317To7wbXS7KBC2wU1TURJtHUBhhBTVXGRzUjiHvu9ZJ19Hg3sVoBE4A8howU13Jtl)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
