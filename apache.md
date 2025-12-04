@@ -379,6 +379,7 @@ Apache
 # Hudi
 * [Hello from Apache Hudi | Apache Hudi](https://hudi.apache.org/)
 * [Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
+* [Apache Hudi: 동적 블룸 필터 - by Yongkyun Lee - 코드 포인터](https://codepointerko.substack.com/p/apache-hudi)
 
 # Iceberg
 * [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
