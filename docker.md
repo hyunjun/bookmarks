@@ -3279,6 +3279,7 @@ Docker
 * [ARM 서버 기반 KVM 가상화 : 네이버 블로그](https://blog.naver.com/xslab/223404140262)
 * [가상화에 대한 짧은 단상](https://ebay-korea.tistory.com/107)
 * [Virt Tools](https://www.virt-tools.org/)
+* [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm) 아직은 속도 문제로 뭔가 하기 어렵지만 기대가 됨
 
 # VMWare
 * [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
