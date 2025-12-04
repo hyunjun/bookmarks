@@ -727,6 +727,7 @@ Docker
 * [🐳 컨터이너에 앱 담기 dockerize - YouTube](https://www.youtube.com/watch?v=ie19qpwK8Dg)
 * [간단히 사용해본 도커(Docker)](https://webnautes.kr/gandanhi-sayonghaebon-dokeo-docker/)
 * [개발자 대부분 도커가 필요 없는 이유 (가볍고 빠른 대체 도구들) - YouTube](https://www.youtube.com/watch?v=vp1aBhsoNu4)
+* <img src="images/docker_k8s_comparison.jpg" alt="docker, docker compose, and kubernetes" width="300"/>
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
