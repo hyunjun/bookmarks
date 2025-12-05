@@ -2080,6 +2080,8 @@ Docker
       * 즉, 로깅 사이드카에 readiness를 두면 관측 계층의 작은 장애가 트래픽 차단으로 전파
     * 스테이지에서 Loki 인입을 살짝 제한하자(경험상 429 유도) Fluent Bit의 메모리 버퍼가 붙고, curl :8080은 200 OK인데도 Pod가 Endpoints에서 빠짐
     * 로깅이 병목이 되면 안 됨 — 건강 신호를 컨테이너 단위로 분리
+* [Kubernetes Gateway API PoC Research/gateway-PoC/README_ko.md at main · sysnet4admin/Research](https://github.com/sysnet4admin/Research/blob/main/gateway-PoC/README_ko.md)
+  * Ingress에서 Gateway API로 마이그레이션을 위한 Gateway 구현체 비교 PoC (Proof of Concept)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
