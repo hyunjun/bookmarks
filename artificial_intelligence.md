@@ -545,6 +545,11 @@ Artificial Intelligence
       * 그 하위 부분을 동시에 해결하는 Workers
       * 모두 수행하는 모델이 AsyncThink라는 새로운 추론 프로토콜 구축
     * 마치 ""지능적인 에이전트" → "지능적인 조직""
+* [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
+  * [Md Ismail Sojal - If you care about autonomous systems,... | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid0348draFq8Nwfdi6KEv6guZhPvAh2iXUm3XDz7GSgDMgSgG4Dhn5Ux4UkdgLm5RBBal)
+    * "Latent Collaboration in Multi-Agent Systems" shows that agents can coordinate without communication channels, predefined roles, or any explicit teamwork instructions
+    * They invent hidden internal signals inside their policy networks that only other agents understand
+    * They tested scenarios without giving agents any communication tools… and collaboration still emerged. Purely from training pressure and shared rewards
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
@@ -568,6 +573,8 @@ Artificial Intelligence
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
 * [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
+* [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
+  * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
@@ -2665,6 +2672,8 @@ Artificial Intelligence
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
 * [25분만에 끝내는 인공지능 기초와 활용 및 사례 (ㄹㅇ블루오션) - YouTube](https://www.youtube.com/watch?v=mRnXgBDf_oE)
 * [45 Best Resources to Learn Artificial Intelligence (YouTube,Tutorials, etc)](https://www.mltut.com/best-resources-to-learn-artificial-intelligence/)
+* [ai-hero: AI Hero's open-source examples and course material. Learn AI Engineering with a single repo](https://github.com/0xSojalSec/ai-hero)
+  * [From Zero to AI Hero](https://www.aihero.dev/)
 * [AI Python for Beginners - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
   * [초보자를 위한 AI Python - Andrew Ng 의 무료 강의 | GeekNews](https://news.hada.io/topic?id=18419)
 * [Artificial Intelligence | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
