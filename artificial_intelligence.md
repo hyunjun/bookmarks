@@ -387,6 +387,9 @@ Artificial Intelligence
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 1부: 게시판으로 전환](https://www.theswing.tech/cx_center_synapse_concierge_1/)
   * [스윙 고객센터, 어떻게 응답 시간을 71% 단축했나? - 2부: Synapse AI 도입](https://www.theswing.tech/cx_center_synapse_concierge_2/)
 * [챗봇 위주 AI 사용의 한계는 명확합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vibecoding20251204)
+* [What’s Next for AI? OpenAI’s Łukasz Kaiser (Transformer Co-Author) - YouTube](https://www.youtube.com/watch?v=3K-R4yVjJfU)
+  * [AI의 다음 혁명: OpenAI Łukasz Kaiser가 말하는 트랜스포머와 추론 모델의 미래](https://livewiki.com/ko/content/ai-openai-lukasz-kaiser)
+  * [최승준 - AI의 다음 단계는 무엇인가? OpenAI의 루카스 카이저 (트랜스포머 공동 저자) 최근 트랜스포머 저자... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02KTPXJnmCt5C18xbjKWYcPdhhrVTnxEhkd7h1jyv1mpMt7zDKSSjbhASZbSrGCTrWl)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
