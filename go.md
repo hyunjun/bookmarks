@@ -866,6 +866,7 @@ Go
   * [MinIO object storage scala client](https://medium.com/rahasak/minio-object-storage-scala-client-48c8535b9dd2)
   * [MinIO 도입기— HA 이해 및 DR 전략 구성. 네이버 G플레이스AI개발 팀에서는 ML 학습과 모델 서빙 과정에서… | by UJ | 네이버 플레이스 개발 블로그 | Apr, 2023 | Medium](https://medium.com/naver-place-dev/minio-%EB%8F%84%EC%9E%85%EA%B8%B0-ha-%EC%9D%B4%ED%95%B4-%EB%B0%8F-dr-%EC%A0%84%EB%9E%B5-%EA%B5%AC%EC%84%B1-92c9897dd0ee)
   * [MinIO, 무료 Docker 이미지 배포 중단 | GeekNews](https://news.hada.io/topic?id=23850)
+  * [MinIO가 유지보수 모드로 전환됨 | GeekNews](https://news.hada.io/topic?id=24823)
   * mc [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * [mmap-go: A portable mmap package for Go](https://github.com/edsrzf/mmap-go)
   * [Discovering and exploring mmap using Go](https://brunocalza.me/discovering-and-exploring-mmap-using-go/)
