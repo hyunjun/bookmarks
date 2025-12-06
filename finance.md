@@ -248,6 +248,7 @@ Finance
   * [ETF 랭킹 - 시가총액](https://www.etfcheck.co.kr/mobile/rank/marketCap)
 * ETN
   * [TIGER, KODEX의 시대는 갔다... - YouTube](https://www.youtube.com/watch?v=XE-mBMUkYlk)
+* [KCIF 국제금융센터 - 정기보고서 - 전체보고서](https://www.kcif.or.kr/annual/reportList)
 
 # 퇴직
 * [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
