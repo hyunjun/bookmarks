@@ -1354,6 +1354,8 @@ NLP
 * [Mastering JSON Prompting for LLMs - MachineLearningMastery.com](https://machinelearningmastery.com/mastering-json-prompting-for-llms/)
 * [Role assignment vs self-assessment in language models | Claude](https://claude.ai/share/85bfe01d-cf37-4169-8d4b-201ad2da814d)
   * [LLM 프롬프팅: 페르소나 지정 vs 메타인지 방식의 차이점 :: ROBOCO](https://roboco.io/posts/persona-vs-metacognition/)
+* [😇👀 프롬프트 초보자들이여, Prompt Library를 보라! #promptengineering #chatgpt - YouTube](https://www.youtube.com/watch?v=HFOCLRhvSis)
+  * [초보자들을 위한 챗GPT 프롬프트 라이브러리 활용법 (feat. 오픈 AI 아카데미, GPTs, 프롬프트 제너레이터)](https://livewiki.com/ko/content/prompt-library-beginners-chatgpt)
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -2788,6 +2790,8 @@ NLP
     * [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기 - YouTube](https://www.youtube.com/watch?v=4j6J-9hxfhk)
     * [북경 대학의 딥시크 분석 자료 바탕으로 허깅페.. : 네이버블로그](https://blog.naver.com/ulsancoding/223793159665)
     * [로컬 컴퓨터로 ‘딥시크 챗봇’ 만들어봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3057/)
+    * [DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
+      * [류내원 - 딥시크, 제미나이 3·GPT-5와 맞먹는 새 모델 2종 'Deepseek-V3.2'... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02vRkR1QjZAgTTwtnZxmPm9SMkZ5sS6SAvTtFtEQNYfveLA1X8ytAnw8rrV6Vufd6Hl)
     * [DeepSeek R1 논문이 Nature 표지 논문으로 실렸습니다. 사실 이미 소개된 지 꽤 된 연구인데, 세계적인 저널의 표지에까지 등장하게 된 점이 흥미롭습니다. 물론 이번에도 "고작 30만 달러"라는 터무니없이 저렴한 학습 비용을 강조하는 다소 과장된 홍보가 따라붙었지만, 여러모로 의미가 크다고 생각합니다. 무엇보다 이번 연구가 보여주는 핵심은… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_deepseek-r1-%EB%85%BC%EB%AC%B8%EC%9D%B4-nature-%ED%91%9C%EC%A7%80-%EB%85%BC%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%8B%A4-activity-7374634499231420417-U7QP)
       * 1. Pre-training 2. Post-training 3. Test-time scaling
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
