@@ -327,6 +327,8 @@ Business
 * [Alex (SangHyeon) Ahn on LinkedIn: 실리콘밸리에서 배운 "좋은 직장 문화" 좋은 직장 문화란 무엇일까요? 제가 수년간 실리콘밸리에서 배운 직장 문화의 정의는 바로..…](https://www.linkedin.com/posts/alexsanghyeonahn_%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94-%EC%A2%8B%EC%9D%80-%EC%A7%81%EC%9E%A5-%EB%AC%B8%ED%99%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EC%A0%9C%EA%B0%80-activity-7193844465839542272-UZVE) 신뢰 다양성 성장
 * [프로세스를 촘촘하게 만드는 사람](https://jojoldu.tistory.com/829)
   * [이동욱 - 최근에 쿠팡의 조직 문화에 대해 이야기를 나눌 기회가 있었다. "쿠팡의 인재론은 한 축은 실적, 한 축은... | Facebook](https://www.facebook.com/jojoldu/posts/pfbid035wurythW5upDzrZYyByewcj6mMCFbKzzmgS7qdtuXthimpd4BuKP5RcHcSNTAEmfl)
+* [Instagram Chief Adam Mosseri Sets Five Day RTO for US Staff in 2026 - Business Insider](https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12)
+  * [인스타그램 CEO, 2026년부터 전직원 주 5일 사무실 근무 지시 | GeekNews](https://news.hada.io/topic?id=24810)
 * [Reflections on Palantir - Nabeel S. Qureshi](https://nabeelqu.substack.com/p/reflections-on-palantir)
   * [7thPseudoCon 정이태 그래프 오마카세 주방장이 말하는 현업과 학업간 괴리 - Google Slides](https://docs.google.com/presentation/d/1U4ndOKl1SAnfYuR2Up9QNMG4y--8yfqI5_rhFBGsxn0/edit?slide=id.g25d16e6e663_0_71#slide=id.g25d16e6e663_0_71)
   * [팔란티어에서 FDE(forward deployed engineer)로 근무했던 Nabeel S. Qureshi 팔란티어 8년 회고글](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%EA%B8%80%EC%9D%B4-%EC%9D%B4%EC%A0%84-%EB%8C%80%EB%B9%84-%EB%8D%94%EC%9A%B1-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EA%B3%A0-activity-7352189163703558146-9a6C/)
@@ -2843,6 +2845,7 @@ Business
       * 교훈 중요성 강조, 대단한 결과에 조금씩 점수 향상하기, 사람들을 통한 변화, 작은 것에서 큰 결과 가능성 강조
       * 2017년 3월, 국제항공 그룹은 새로운 항공사 '레벨'을 론칭
       * 이 항공사는 유럽에서 미국으로 이륙하는 최초의 대서양 저비용 항공사로, 기존 티켓 판매량을 뛰어넘는 성공
+* [“10년에서 2년으로…” IT 역량의 ‘유통기한’이 짧아진다 | CIO](https://www.cio.com/article/4095727/10%EB%85%84%EC%97%90%EC%84%9C-2%EB%85%84%EC%9C%BC%EB%A1%9C-it-%EC%97%AD%EB%9F%89%EC%9D%98-%EC%9C%A0%ED%86%B5%EA%B8%B0%ED%95%9C%EC%9D%B4-%EC%A7%A7%EC%95%84.html) unlearn
 * [어떤 감독이 될 것인가?](https://jojoldu.tistory.com/781)
 * [시니어 리더가 해야 하는 일](https://www.linkedin.com/posts/edward-jee-480225a_%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%A0%84%EB%AC%B8%EC%84%B1%EA%B3%BC-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%A4%EB%B2%84%EB%93%A4%EC%9D%B4-activity-7194786293128523776-YWAa/)
 * [I’ll take it from here (여기서부터는 제가 할게요) – 조성문의 블로그](https://sungmooncho.com/2024/05/26/ill-take-it-from-here-%ec%97%ac%ea%b8%b0%ec%84%9c%eb%b6%80%ed%84%b0%eb%8a%94-%ec%a0%9c%ea%b0%80-%ed%95%a0%ea%b2%8c%ec%9a%94/)
@@ -2904,6 +2907,10 @@ Business
 * [AI 3강으로 가기 위한 대한민국 AI 리더들의 기본 소양 – 공부, 공부, 그리고 공부 | LinkedIn](https://www.linkedin.com/posts/dongsoo-lee-45028017_ai-3%EA%B0%95%EC%9C%BC%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-ai-%EB%A6%AC%EB%8D%94%EB%93%A4%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%86%8C%EC%96%91-%EA%B3%B5%EB%B6%80-%EA%B3%B5%EB%B6%80-activity-7390389091193950208-Ya-6/)
 * [“질문만 잘 해도 직원들은 자기 능력 이상의 퍼포먼스를 발휘한다” - YouTube](https://www.youtube.com/watch?v=8pZ8JJZp3jc)
   * [젠슨 황의 '질문 리더십': 엔비디아를 5조 달러 기업으로 만든 핵심 비결](https://livewiki.com/ko/content/employee-performance-questions)
+* ["Good engineering management" is a fad | Irrational Exuberance](https://lethain.com/good-eng-mgmt-is-a-fad/) Will Larson
+  * ["Good engineering management" is a fad - YouTube](https://www.youtube.com/watch?v=IJlrX4Z4QWs)
+    * [좋은 엔지니어링 관리: 시대에 따라 변하는 원칙과 성공 전략](https://livewiki.com/ko/content/good-engineering-management-fad)
+  * ["좋은 엔지니어링 관리"는 유행일 뿐이다 | GeekNews](https://news.hada.io/topic?id=24620)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
