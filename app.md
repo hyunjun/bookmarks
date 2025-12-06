@@ -2623,6 +2623,7 @@ App
   * Excalidraw
     * [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
     * [The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube](https://www.youtube.com/watch?v=P_Q6avJGoWI)
+    * [excaliapp: An simple tauri app to look at and edit excalidraw files easily](https://github.com/tyrchen/excaliapp/)
   * git
     * [옵시디언 깃허브 연동하기 - Obsidian Git Plugin](https://alive-wong.tistory.com/65#google_vignette)
     * [Obsidian 커뮤니티 플러그인 추천 및 Git을 활용한 연동법 — ERROR DENY](https://dnai-deny.tistory.com/96)
