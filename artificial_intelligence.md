@@ -310,6 +310,13 @@ Artificial Intelligence
 * [제미나이 CLI vs 클로드 코드: 바이브옵스(VibeOps) 관점에서 비교하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3334/)
 * [Tornike Onoprishvili | Code is Debt](https://tornikeo.com/code-is-debt/)
   * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
+* [코드 쌓일수록 멀어지는 혁신…AI가 되살린 ‘996식’ 과로 문화 | ITWorld](https://www.itworld.co.kr/article/4095668/%EC%BD%94%EB%93%9C-%EC%8C%93%EC%9D%BC%EC%88%98%EB%A1%9D-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8A%94-%ED%98%81%EC%8B%A0ai%EA%B0%80-%EB%90%98%EC%82%B4%EB%A6%B0-996%EC%8B%9D-%EA%B3%BC.html)
+  * 코드 변경이 초래하는 높은 비용
+  * 코드는 자산이 아니라 부채
+  * 기술 스택에서 인간이 맡는 역할
+    * 문제 정의하기
+    * 불필요한 코드 과감하게 걷어내기
+    * 문제 발생 범위 책임지기
 * [Scalable and Effective Generative Information Retrieval](https://obsidian-blog-gilt.vercel.app/paper-review/Scalable%20and%20Effective%20Generative%20Information%20Retrieval/)
   * [벡터DB는 가라! 이제 "생성형" 검색의 시대가 온다](https://www.linkedin.com/posts/jeffrey-dongkyu_scalable-and-effective-generative-information-activity-7371181988592140288-kBJR)
 * [Anycrap 🛒 The Store of Infinite Products](https://anycrap.shop/)
@@ -390,6 +397,10 @@ Artificial Intelligence
 * [What’s Next for AI? OpenAI’s Łukasz Kaiser (Transformer Co-Author) - YouTube](https://www.youtube.com/watch?v=3K-R4yVjJfU)
   * [AI의 다음 혁명: OpenAI Łukasz Kaiser가 말하는 트랜스포머와 추론 모델의 미래](https://livewiki.com/ko/content/ai-openai-lukasz-kaiser)
   * [최승준 - AI의 다음 단계는 무엇인가? OpenAI의 루카스 카이저 (트랜스포머 공동 저자) 최근 트랜스포머 저자... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02KTPXJnmCt5C18xbjKWYcPdhhrVTnxEhkd7h1jyv1mpMt7zDKSSjbhASZbSrGCTrWl)
+* [I don't care how well your "AI" works - fiona fokus](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
+  * [나는 당신의 ‘AI’가 얼마나 잘 작동하는가는 상관없다 | GeekNews](https://news.hada.io/topic?id=24650)
+* [I Reverse-Engineered 200 AI Startups. 73% Are Lying | Towards AI](https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3)
+  * [AI 스타트업 200곳을 역공학해 보니, 73%가 단순한 프롬프트 엔지니어링에 불과 | GeekNews](https://news.hada.io/topic?id=24586)
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
@@ -572,6 +583,7 @@ Artificial Intelligence
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno/tree/main)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
+* [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
 * [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
 * [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
   * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
@@ -1461,6 +1473,14 @@ Artificial Intelligence
     * 구현범위를 한정(바운디드 컨텍스트) 시켜 LLM 의 환각을 최소화하고 품질을 높일 수 있다는 아이디어
 * [UK government programmers trialed AI coding assistants from Microsoft, GitHub, and Google – here's what they found | IT Pro](https://www.itpro.com/software/development/uk-government-ai-coding-assistant-trial-developer-time-savings)
   * [영국 정부가 GitHub Copilot, Google Gemini Code Assist 등 AI 코딩 어시스턴트를 도입해 1,000명 이상의 개발자를 대상으로 실험한 결과가 발표됐습니다. - 개발자 1명당 하루 평균 약 1시간 절약 - 연간으로 환산하면 28일치 노동 시간 - 응답자의 72%는 “유용하다”, 65%는 “업무 속도가 빨라졌다”, 58%는… | Seolmin Jeong](https://www.linkedin.com/posts/seolmin_%EC%98%81%EA%B5%AD-%EC%A0%95%EB%B6%80%EA%B0%80-github-copilot-google-gemini-code-activity-7374233774445821952-zPIZ)
+* [AI 코딩 '10배 생산성' 신화, 데이터가 말하는 냉혹한 현실 | Facebook](https://www.facebook.com/groups/1015790320162945?multi_permalinks=1172243831184259&hoisted_section_header_type=recently_seen)
+  * AI 코딩 효능에 대한 연구 결과의 경고
+    * 최근 공개된 METR 연구 결과는 AI 코딩 도구에 대한 우리의 인식과 현실 사이에 균열이 존재함을 보여줍니다. 해당 연구에 따르면, 많은 개발자들은 AI 도구가 자신의 생산성을 약 20% 향상시켰다고 생각
+    * 그러나 실제 업무 수행 시간을 측정한 객관적 데이터는 정반대의 결과를 나타냈습니다. AI를 사용했을 때 작업 완료 시간이 평균 19% 더 늦어지는 것으로 분석됐습니다. 이는 개발자 스스로의 감각이 생산성 향상에 대한 환상을 만들 가능성이 있음을 시사
+  * 신규 소프트웨어 출시 데이터가 증명하는 '변화 없음'
+  * 업계 내 형성된 압박과 왜곡된 현실 인식
+  * 전문가 진단: 생산성의 본질과 AI의 올바른 자리
+  * 개발자가 취해야 할 자세: 데이터에 기반한 냉정한 평가
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
@@ -1912,6 +1932,7 @@ Artificial Intelligence
   * [Overview - any-llm](https://mozilla-ai.github.io/any-llm/gateway/overview/)
   * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
     * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
+* [automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.](https://github.com/cporter202/automate-for-growth)
 * [bananalyzer: Open source AI Agent evaluation framework for web tasks 🐒🍌](https://github.com/reworkd/bananalyzer)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
