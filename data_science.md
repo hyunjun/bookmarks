@@ -534,6 +534,8 @@ Data Science
 * [A Recap of the Data Engineering Open Forum at Netflix | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f)
 * [SOCAR DATA MeetUp 2022 - YouTube](https://www.youtube.com/playlist?list=PLEZRFe2YmFouerg-jmQ5EMivTeSSlwP3z)
 * [Phillip Cloud & Gil Forsyth - Ibis: A fast, flexible, and portable tool for data analytics - YouTube](https://www.youtube.com/watch?v=TyopbrmlZx8)
+* [Ilana Makover: Let Your Data Tell Its Story | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=pIK53ybDVhk) data lineage
+  * [데이터 리니지: 데이터가 스스로 이야기를 하게 하라 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/ilana-makover-pydata-tel-aviv)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
