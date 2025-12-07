@@ -981,6 +981,7 @@ Artificial Intelligence
   * [Gemini와 함께 10분만에 레이싱 시뮬레이터 만들기 (프롬프트 & 코드 예제 포함)](https://www.stdy.blog/build-racing-simulator-in-10-min-with-gemini/)
   * [GEMINI 무료버전에서도 GPTS와 같은 나만의 챗봇 만들기가 가능](https://www.linkedin.com/posts/duckjungkim_gemini-%EB%AC%B4%EB%A3%8C%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C%EB%8F%84-gpts%EC%99%80-%EA%B0%99%EC%9D%80-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%A1%8C%EB%84%A4%EC%9A%94-activity-7325516445902155777-UJLf/)
   * [제미나이의 가이드학습(Guided learning) 모드는 나만의 사고 확장 코칭 파트너](https://www.linkedin.com/posts/minjung-kim-982762229_%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4%EC%9D%98-%EA%B0%80%EC%9D%B4%EB%93%9C%ED%95%99%EC%8A%B5guided-learning-%EB%AA%A8%EB%93%9C%EB%8A%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%82%AC%EA%B3%A0-%ED%99%95%EC%9E%A5-activity-7359067655976226817-cpvr/)
+  * [프롬프트 설계 전략  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=ko)
   * Gemini 2.0
     * [Google Deepmind, 에이전틱 시대를 위한 새 AI 모델 Gemini 2.0 공개 | GeekNews](https://news.hada.io/topic?id=18220)
     * [Gemini 2.0의 오디오 언더스탠딩 실습 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223693236648)
@@ -2271,6 +2272,8 @@ Artificial Intelligence
     * [AI는 주니어 개발자다: 클로드 코드와 함께한 6주 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3453/)
   * [클로드 코드 CLI: 터미널과 VS Code의 연결 - by Yongkyun Lee - 코드 포인터](https://codepointerko.substack.com/p/cli-vs-code)
     * [이용균 - 클로드 코드 CLI를 쓰면 클로드 코드가 VS Code의 빨간 밑줄을 참고하여, 컴파일 하지 않고 문법을... | Facebook](https://www.facebook.com/yongkyun.lee.12/posts/pfbid0317To7wbXS7KBC2wU1TURJtHUBhhBTVXGRzUjiHvu9ZJ19Hg3sVoBE4A8howU13Jtl)
+  * [Claude 4.5 Opus' Soul Document — LessWrong](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
+    * [전종홍 - 아마 향후 많은 논쟁을 불러 일으킬 내용이지 않을까 싶네요. 정부의 압력과 규제도 있을 것 같고...... | Facebook](https://www.facebook.com/1biit/posts/pfbid027eRafMz3fTdpWvJkfSUqLTXx7ew2ytCgdFmnqh9VyXQF7GrvV9RRcRre21Pz68Pol)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
