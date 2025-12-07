@@ -183,6 +183,8 @@ Programmer
 * [The XY Problem](https://xyproblem.info/)
   * [XY 문제](https://lazymatlab.tistory.com/165) 진짜 문제를 질문하지 않고, 해결책을 미리 가정하고 질문하는 것
 * [내 질문에 답이 달리지 않는다면?](https://lazymatlab.tistory.com/166)
+* [천재 파인만이 AI에 질문한다면? | 새로운 관점으로 이끄는 힘 | #지식채널e - YouTube](https://www.youtube.com/watch?v=9OHew1xxIiA)
+  * [AI 시대, 진짜를 이해하기 위한 천재들의 질문 공식](https://livewiki.com/ko/content/ai-genius-question-understanding)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 * [남의 일을 끊임없이 공부해야하는 이유 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/186169)
 * [Subject Matter Expert가 되어라 | zero-base](https://zero-base.co.kr/event/media_insight_contents_50)
