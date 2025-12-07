@@ -2609,6 +2609,8 @@ NLP
       * 이는 LLM의 전반적인 능력 향상과 함께 성찰 능력이 출현할 수 있음을 시사
     * 전반적으로, 이 연구는 현재 LLM이 제한적이지만 기능적인 형태의 성찰적 인식 보유 증명
       * 이는 AI의 투명성과 통제 가능성에 중요한 영향
+* [Sigal Shaked: Fine-Tuning Small Language Models with Python (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=RIFjLtffoXQ) SLM PEFT LoRA QLoRA
+  * [파이썬으로 소규모 언어 모델 미세 조정: 비용 절감 및 성능 향상 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/sigal-shaked-fine-tuning-llms)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -3533,6 +3535,7 @@ NLP
   * [LSP-AI : AI기능을 위한 오픈소스 랭귀지 서버 | GeekNews](https://news.hada.io/topic?id=15278)
 * [maestro: A framework for Claude Opus to intelligently orchestrate subagents](https://github.com/Doriandarko/maestro)
   * [Ollama 활용 🤖AI 자동화로 손쉽게 앱 만들기: Maestro 설치 및 활용](https://fornewchallenge.tistory.com/entry/Ollama-%ED%99%9C%EC%9A%A9-%F0%9F%A4%96AI-%EC%9E%90%EB%8F%99%ED%99%94%EB%A1%9C-%EC%86%90%EC%89%BD%EA%B2%8C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Maestro-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%9C%EC%9A%A9)
+* [MedLLMsPracticalGuide: Nature Reviews Bioengineering🔥 Application of Large Language Models in Medicine. A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
 * [Mellum - 개발자를 위해 설계된 JetBrains의 새로운 LLM | JetBrains 블로그](https://blog.jetbrains.com/ko/blog/2024/11/21/introducing-mellum-jetbrains-new-llm-built-for-developers/)
 * [mem0: The memory layer for Personalized AI](https://github.com/mem0ai/mem0)
   * [Mem0 - 개인화 AI를 위한 Long-Term 메모리 | GeekNews](https://news.hada.io/topic?id=16084)
@@ -5169,6 +5172,7 @@ NLP
   * [음성인식모델로 음성합성 데이터 만들기 (kaldi 음성 인식 모델 환경 구현)](http://nblog.syszone.co.kr/archives/9788)
   * [Kaldi on AWS](http://jrmeyer.github.io/asr/2017/10/13/Kaldi-AWS.html)
   * [docker-kaldi-gstreamer-server: Dockerfile for kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server)
+* [kani-tts](https://github.com/nineninesix-ai/kani-tts/)
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
