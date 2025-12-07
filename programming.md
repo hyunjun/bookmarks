@@ -136,6 +136,9 @@ Programming
     * 순서가 중요. 거꾸로 적용하면 안됨
 * [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles)
 * [일론 머스크 알고리즘](https://www.linkedin.com/posts/maro-jeon-79935113b_%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%A0%84%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%9D%BC%EB%A1%A0-%EB%A8%B8%EC%8A%A4%ED%81%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-1-activity-7171430232074207232-smag/)
+* [후천적으로 천재 두뇌 만드는 일론 머스크 학습법 - YouTube](https://www.youtube.com/watch?v=zauFFWEqa8I)
+  * [일론 머스크 학습법: 후천적으로 천재 두뇌 만드는 3가지 사고법 (GPT 활용)](https://livewiki.com/ko/content/elon-musk-learning-genius-brain)
+* [이렇게 하면 세상 모든 문제 해결 가능...? l 제1원칙 사고 - YouTube](https://www.youtube.com/shorts/bjW3Fejw-rI)
 * [제1원칙 사고에 대한 '진짜' 의미 (마크 주커버그, 네발) - YouTube](https://www.youtube.com/watch?v=N4lAL2_1oKY)
 * [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
@@ -585,6 +588,8 @@ Programming
 * [우리는 개발 문화에 진심입니다 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/10639/)
 * [카카오페이 개발 문화, 다시 고민하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-dr-03/)
 * [Guide to Better Dev Culture. 믿음직한 라이프스타일 가이드 29CM의 개발 조직은 어떻게 협업하고… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/guide-to-better-dev-culture-590e905e2f5b)
+* [이직한 회사의 개발 문화 갱생시키기 - YouTube](https://www.youtube.com/watch?v=F3oFitxWBEY)
+  * [이직 후 회사 개발 문화 개선 전략: 팀 응집과 신뢰 구축으로 변화 주도하기](https://livewiki.com/ko/content/developer-culture-revitalization)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
