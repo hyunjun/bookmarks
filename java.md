@@ -1948,6 +1948,8 @@ Java
   * [Devoxx Greece 2024 - Quarkus meets AI : Build your own LLM-powered application - YouTube](https://www.youtube.com/watch?v=glQcaVRTlV0)
     * [VidiGo Devoxx Greece 2024 - Quarkus meets AI : Build your](https://vidigo.ai/share/summary/752d0b28bb1f)
     * [note_06월12일19시41분{{lilys_init}} | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/772607)
+  * [Quarkus in Action • Martin Stefanko, Jan Martiska & Holly Cummins • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=j0h7wu7gjoU)
+    * [Quarkus In Action: 개발자 경험, 성능, 클라우드 배포 (GOTO 북클럽)](https://livewiki.com/ko/content/quarkus-martin-stefanko-jan-martiska-holly-cummins)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
