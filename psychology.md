@@ -76,6 +76,7 @@ Psychology
 * [긍정적으로 짜증을 해결하는 방법: 5가지 핵심 팁 - Wonderful Mind](https://wonderfulmind.co.kr/managing-frustration-positively-5-essential-tips/)
 * [관계에서 긍정적으로 문제를 제기하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/positively-bring-issue-relationship/)
 * [<행복한 관계과 불행한 관계의 차이> 1. 미국의 이혼율은 천정부지로 치솟았다. 1979년에는 10년 전보다 3배 늘어난 100만 명의 부부가 결혼 생활을 끝냈다. 2. 연구자들은 궁금해서 수집한 데이터를 분석하기 시작했다. (특히) 연구자들은 행복한 부부와 불행한 부부의 차이를 찾아 나섰다. 특히 연구팀은 두 집단이 다투는 방식이 어떤 점에서 다른지… | Somewon Yoon](https://www.linkedin.com/posts/somew0n_%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B4%80%EA%B3%84%EA%B3%BC-%EB%B6%88%ED%96%89%ED%95%9C-%EA%B4%80%EA%B3%84%EC%9D%98-%EC%B0%A8%EC%9D%B4-1-%EB%AF%B8%EA%B5%AD%EC%9D%98-%EC%9D%B4%ED%98%BC%EC%9C%A8%EC%9D%80-%EC%B2%9C%EC%A0%95%EB%B6%80%EC%A7%80%EB%A1%9C-%EC%B9%98%EC%86%9F%EC%95%98%EB%8B%A4-activity-7388061252251607040--244)
+* [인간 관계 술술 풀리는 치트키 - YouTube](https://www.youtube.com/shorts/sRYUTA7NYHA)
 * [왜 “귀여우면 다” 용서될까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/257321)
 * [Positivity & Motivation: How They Impact Your Career & Life Pt 1/2 • Katharina Probst • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=w3-0vdVRXzA)
 * [Positivity & Motivation: How They Impact Your Career & Life Pt 2/2 • Katharina Probst • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=zrGUGXeEEZA)
@@ -85,6 +86,7 @@ Psychology
   * [Goodbye to MBTI, the Fad That Won’t Die | Psychology Today](https://www.psychologytoday.com/intl/blog/give-and-take/201309/goodbye-to-mbti-the-fad-that-wont-die)
 * [‘피할 수 없으면 즐겨라’는 그럴듯한 거짓말이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263258) 인지부조화 cognitive dissonance
 * [거짓말을 간파하는 고도의 심리 기술 - YouTube](https://www.youtube.com/shorts/YC2novSjGNc)
+* [사람들의 진짜 생각 알아내는 기술😮 - YouTube](https://www.youtube.com/shorts/4sV1pGBnxpA)
 * [언젠가 써먹는 심리효과 101](https://slashpage.com/haebom/psychology101)
   * [언젠가 써먹는 심리효과 101 | GeekNews](https://news.hada.io/topic?id=11481)
 * [멘탈관리와 GPT](https://jayoung.blog/mental-health-care-gpt/)
