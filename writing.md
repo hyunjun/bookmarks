@@ -157,6 +157,8 @@ Writing
 * [Typst: Compose papers faster](https://typst.app/)
   * [새로운 Latex인 Typst 자습서](https://velog.io/@huansock/%EC%83%88%EB%A1%9C%EC%9A%B4-Latex%EC%9D%B8-Typst%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
   * [Typst - LaTeX를 대체할 수 있는 가능성 | GeekNews](https://news.hada.io/topic?id=23312)
+  * [What is Typst? The Modern LaTeX Alternative - YouTube](https://www.youtube.com/watch?v=NTGkb4FCLhM)
+    * [Typst란? 현대 LaTeX 대안 상세 리뷰 및 활용법](https://livewiki.com/ko/content/typst-modern-latex-alternative)
   * [awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
 
 # Book
