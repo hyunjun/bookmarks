@@ -891,6 +891,8 @@ Machine Learning
 * [Dean Pleban - ML in Production–What does “Production” even mean? | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zns25GyFL8E)
 * [(1) Alejandro Saucedo - Metadata Systems for End-to-End Data & Machine Learning | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=OSbH4dfswCY)
 * [The Importance of Forgetting for Both Humans & Machines • Robert Crowe • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zfncyiD_sH4)
+* [Teddy Lazebnik: Admiral-Driven ML Framework for Marine Operations (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=YOCxk7-0yP4) 결국 RL
+  * [해군 작전을 위한 Admiral 기반 머신러닝 프레임워크 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/teddy-lazebnik-ml-marine-operations)
 
 # Course MOOC Lecture
 * [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
