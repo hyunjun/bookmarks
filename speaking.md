@@ -28,3 +28,9 @@ Speaking
   * 4MAT Why What How (What) if
 * [15년 강의를 통해 지켜본, 구글, 아마존, 테슬라에 입사한 학생들의 공통점 3가지 - YouTube](https://www.youtube.com/watch?v=CxezszfS020)
   * [구글·아마존·테슬라 입사생 공통점: 성공을 부르는 말하기 실천법 3가지](https://livewiki.com/ko/content/google-amazon-tesla-students)
+* [갑작스러운 질문에 막힘없이 답하려면, '이 공식'만 기억하세요! - YouTube](https://www.youtube.com/watch?v=0UokyQulZ1I)
+  * PREP Point Reason Example Point
+  * [30초 만에 신뢰 얻는 즉흥 스피치: PREP 공식 마스터하기](https://livewiki.com/ko/content/impromptu-speaking-trust-formula)
+* [목소리 180도 바꾼 아나운서가 알려주는 목소리 좋아지는 법 | 고급스러운 이미지 만들기 - YouTube](https://www.youtube.com/watch?v=ghMqRG_9gqw)
+  * [목소리 좋아지는 법: 아나운서의 고급스러운 발성 연습 팁](https://livewiki.com/ko/content/voice-transformation-tips-announcer)
+* [품격 있는 목소리는 이렇게 나온다🗣️ - YouTube](https://www.youtube.com/shorts/erGVwMlbq2s)
