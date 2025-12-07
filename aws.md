@@ -1816,6 +1816,8 @@ AWS
 * [Embrace Step Functions for Efficient Workflow Management • Ben Smith & Eric Johnson • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=0caADKrbl5M)
   * [VidiGo Embrace Step Functions for Efficient Workflow Mana](https://vidigo.ai/share/summary/4d7446e411d8)
   * [효율적인 워크플로 관리를 위한 단계 기능 도입 - Ben Smith & Eric Johnson - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/747771)
+* [Orchestration Lightning: Rapid-Fire AWS Step Functions Patterns • Eric Johnson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=Sxsp2p0Nio4)
+  * [Step Functions: 코드 없이 AWS 오케스트레이션 패턴 구축하기](https://livewiki.com/ko/content/orchestration-lightning-aws-step-functions)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [Building Serverless Applications That Scale The Perfect Amount | Ready, Set, Cloud!](https://www.readysetcloud.io/blog/allen.helton/how-to-design-serverless-apps-that-scale-the-perfect-amount/)
 * [Serverless Design Patterns - The Ambassador - YouTube](https://www.youtube.com/watch?v=kB4yChEzHa0)
