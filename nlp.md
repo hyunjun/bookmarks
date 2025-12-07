@@ -5015,6 +5015,7 @@ NLP
 
 # Tutorial
 
+* [Devfest Incheon 2025 모두를 위한 친절한 언어모델(LLM) 학습 가이드 - Speaker Deck](https://speakerdeck.com/beomi/devfest-incheon-2025-modureul-wihan-cinjeolhan-eoneomodel-llm-hagseub-gaideu)
 * [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
 * [**Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition**](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
