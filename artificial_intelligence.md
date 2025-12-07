@@ -2275,6 +2275,7 @@ Artificial Intelligence
   * [Claude 4.5 Opus' Soul Document — LessWrong](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
     * [전종홍 - 아마 향후 많은 논쟁을 불러 일으킬 내용이지 않을까 싶네요. 정부의 압력과 규제도 있을 것 같고...... | Facebook](https://www.facebook.com/1biit/posts/pfbid027eRafMz3fTdpWvJkfSUqLTXx7ew2ytCgdFmnqh9VyXQF7GrvV9RRcRre21Pz68Pol)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+  * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
@@ -2646,6 +2647,8 @@ Artificial Intelligence
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
   * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
+* [skills](https://github.com/huggingface/skills) Agent Context Protocol (ACP) definitions for AI/ML tasks like dataset creation, model training, and evaluation
+  * [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training)
 * [Tabby - Opensource, self-hosted AI coding assistant](https://www.tabbyml.com/)
   * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트](https://devocean.sk.com/blog/techBoardDetail.do?ID=167941)
   * [TabbyML: 완전한 온프레미스 AI 코드 어시스턴트 | SeongReol Park](https://www.linkedin.com/posts/seongreol-park-6bb2ba22b_tabbyml-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-activity-7383844756092538880-ds5M)
