@@ -1310,6 +1310,9 @@ Business
     * "Low ego is something we appreciate."
   * 5. 인터뷰 전략: Think–Edit–Speak
     * 정답보다 추론과정을 명확히해라. 추론 과정 설명 → 문제 해체 → 협력적 태도 → 가정 요청 → 검증
+* [Why Elon Outcompetes Everyone | Shaun Maguire, Sequoia - YouTube](https://www.youtube.com/watch?v=62X1vm3QBuE)
+  * [일론 머스크는 어떻게 경쟁자를 압도하는가? 그의 성공 비결과 비선형적 사고방식 | 션 맥과이어](https://livewiki.com/ko/content/elon-outcompetes-shaun-maguire)
+  * [일론머스크 회사 경영의 진짜 비밀. - YouTube](https://www.youtube.com/watch?v=SJCqdO1wLJA)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
