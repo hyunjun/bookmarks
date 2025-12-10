@@ -28,6 +28,7 @@ Google Cloud Platform GCP
 * [TPU-INFO로 TPU HBM 메모리 사용량.. : 네이버블로그](https://blog.naver.com/ulsancoding/224093917093)
 * [VSCODE에서 COLAB서버 TPU를 원격 .. : 네이버블로그](https://blog.naver.com/ulsancoding/224095197597)
 * [구글 TPU환경에서 CUDA를 대체하는 기술 .. : 네이버블로그](https://blog.naver.com/ulsancoding/224096602529)
+* [EdgeTPU로 티처블머신의 TF Lite 모.. : 네이버블로그](https://blog.naver.com/ulsancoding/224103319607)
 * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
 * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
