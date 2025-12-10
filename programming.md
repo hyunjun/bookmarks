@@ -8381,6 +8381,8 @@ Programming
     * 매니저와의 대화에서 자주 상호평가를 하고, 성과검토와 함께 평가 기준을 충족하는지 확인
       * 넷플릭스는 프로세스를 만들지 않고 평가 요소를 일상에 반영하며, 연속적인 피드백 제공
       * 평가는 승진과 보상에 연관돼 있지만, 일상에도 적용되어 있어서 6개월을 기다리지 않고 실시간으로 피드백 가능
+* [Netflix’s Engineering Culture - YouTube](https://www.youtube.com/watch?v=sAp9RjO79cU)
+  * [넷플릭스 엔지니어링: 라이브 스트리밍, 대규모 운영 및 혁신 문화](https://livewiki.com/ko/content/netflix-engineering-culture)
 * [(25) Roundtable: Development Culture | LinkedIn](https://www.linkedin.com/pulse/roundtable-development-culture-wook-jin-lee/)
   * 슈퍼셀의 이욱진 님이 한국에 오셔서 라운드테이블로 게임 업체 간 문화를 공유하는 자리를 만들고 그 결과를 공유한 자리
   * 슈퍼셀을 각 게임을 만드는 담당자들이 게임 종료를 포함해서 직접 의사결정을 하고 가능한 한 투명하게 정보를 공유하려고 노력하는 문화, 슈퍼셀의 문화와 참가자들과 논의한 내용 정리
