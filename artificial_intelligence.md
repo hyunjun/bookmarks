@@ -1195,6 +1195,7 @@ Artificial Intelligence
     * 6. Notion
   * [NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity! - YouTube](https://www.youtube.com/watch?v=ButAp5rF69E)
     * [새로운 MCP 툴킷: AI 코딩 생산성을 10배 높이는 궁극의 MCP 설정!](https://livewiki.com/ko/content/mcp-toolkit-ai-productivity)
+  * [Anthropic, MCP를 Linux Foundation에 기증 | GeekNews](https://news.hada.io/topic?id=24953)
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
@@ -2302,6 +2303,7 @@ Artificial Intelligence
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
+  * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
     * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
