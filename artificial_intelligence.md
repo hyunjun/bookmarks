@@ -1797,6 +1797,8 @@ Artificial Intelligence
     * 이는 2024년 보고서에서 확인된 추세 즉, AI 가치의 62%가 핵심 비즈니스 기능에서 발생한다는 결과가 여전히 유효함을 방증
     * 유일하게 예외적인 부문은 IT. IT 부문의 AI 가치 비중은 2025년에 6% 상승해 전체의 13%
   * [박우범 - AI 혁명, '파일럿'의 함정을 넘어 '진짜 AX'로 가는 길 최근 BCG에서 발표한 'Build... | Facebook](https://www.facebook.com/woobeom/posts/pfbid02XHf2iR5r8DgotrsiajPUXKeRfJ64ALwZQC5nuUba8KmXTA6PjsfXzkaTU9H499eXl)
+* [Pentagon launches GenAI.mil military platform powered by Google Gemini | Fox Business](https://www.foxbusiness.com/technology/pentagon-launches-military-ai-platform-powered-google-gemini-defense-operations)
+  * [최인식 - <<GenAI.mil이 여는 ‘AI 전장 혁명’…한국은 무엇을 준비해야 하나>> 미국 국방부가 공식 출범한... | Facebook](https://www.facebook.com/kooksung/posts/pfbid02bCVrRBDfhF7mkj48DNWzsK9hSSFv5KqWu9wX44d7DVZELNBT643oGgixFoiMTYeYl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
