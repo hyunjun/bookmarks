@@ -1196,6 +1196,9 @@ Artificial Intelligence
   * [NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity! - YouTube](https://www.youtube.com/watch?v=ButAp5rF69E)
     * [새로운 MCP 툴킷: AI 코딩 생산성을 10배 높이는 궁극의 MCP 설정!](https://livewiki.com/ko/content/mcp-toolkit-ai-productivity)
   * [Anthropic, MCP를 Linux Foundation에 기증 | GeekNews](https://news.hada.io/topic?id=24953)
+  * [AI 코딩, 이제 디버깅까지 알아서 한다?! Inngest MCP 혁신! - YouTube](https://www.youtube.com/watch?v=WOMrDAdA2Yg)
+    * [AI 코딩, 이제 Inngest MCP로 디버깅까지 자동화하다!](https://livewiki.com/ko/content/ai-coding-inngest-mcp-debugging)
+    * [Model Context Protocol (MCP) Integration - Inngest Documentation](https://www.inngest.com/docs/ai-dev-tools/mcp)
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
@@ -1850,6 +1853,14 @@ Artificial Intelligence
   * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [2511.07885 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
   * [AI 인프라에 $500B 쏟아붓는 순간, 스탠포드가 발견한 것 대부분의 AI 요청은 이미 로컬 기기로 충분할 수 있다는 분석입니다. OpenAI가 $500B Stargate 프로젝트를 발표했고, McKinsey는 AI 데이터센터에 2030년까지 $5.2~7.9조가 필요할 것으로 전망했습니다. 한편 스탠포드 연구진은 다소 다른 관점을 제시합니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90-500b-%EC%8F%9F%EC%95%84%EB%B6%93%EB%8A%94-%EC%88%9C%EA%B0%84-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83-%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98-activity-7397019597113176064-kaIl)
+* [2512.05117v2.pdf](https://arxiv.org/pdf/2512.05117)
+  * [(1) 김성완 - THE UNIVERSAL WEIGHT SUBSPACE HYPOTHESIS 존스 홉킨스 대학에서 아주... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0g7yVyQdoj36dUMapqx2Ty9mzNpwDefpzUgVnGzcoh4hT9LXYhqcZDsdYB6aHxKjtl)
+    * 수백 개의 AI 모델이 사실은 하나? 신경망의 놀라운 비밀 '보편적 부분 공간'
+    * '보편적 부분 공간' 발견이 가져오는 가장 충격적이고 실용적인 결과는 바로 모델 압축과 통합
+      * 만약 수백 개의 모델이 동일한 기본 지도를 공유한다면, 각 모델의 전체 데이터 저장 불필요
+      * 공통된 '지도' 하나와 각 모델의 고유한 '경로' 정보만 저장
+    * 새로운 작업을 학습할 때, 우리는 더 이상 모델의 모든 가중치 조정 불필요
+      * 대신, 이 보편적 공간 위에서 아주 적은 수의 '계수(coefficients)'만 학습
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
