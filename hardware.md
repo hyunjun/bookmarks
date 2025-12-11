@@ -100,6 +100,10 @@ Hardware
   * [This Open-Source E-Ink Screen Is My Favorite New Gadget - YouTube](https://www.youtube.com/watch?v=eIcZZX10pa4)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
+* [Making Software](https://www.makingsoftware.com/)
+  * [김성완 - Making Software 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트입니다.... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fAvz8oi8Z8Nuce7hotWvTzWwmK2HvsNZHzkwmLCESBEpATRPY7VDBFjz1BK697Tkl)
+    * 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트
+    * 소프트웨어가 구동되는 아래쪽의 하드웨어에 대한 정보를 시각적으로 잘 정리
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
