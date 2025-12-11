@@ -1096,6 +1096,11 @@ Docker
 * [k8s-stnd-arch/2023](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2023) 2023 표준 구성
   * 선정 기준 1) 충분한 기능을 가지고 있을 것 2) 도입이 쉬울 것 3) 한국에 사용자 층이 많거나 가능한 알려져 있을 것
 * [2023년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/1998/)
+* [2025년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/2900/)
+  * [k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf)
+* [2026년 쿠버네티스 표준 아키텍처 | Hoon Jo](https://www.linkedin.com/posts/hoonjo_kubernetes-k8s-cloudnative-activity-7404367643325087745-Hely)
+  * [_Book_k8sInfra/docs/k8s-stnd-arch/2026 at main · sysnet4admin/_Book_k8sInfra](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2026)
+  * [_Book_k8sInfra/docs/k8s-stnd-arch/2026/README_en.md at main · sysnet4admin/_Book_k8sInfra](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2026/README_en.md)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
@@ -2038,8 +2043,6 @@ Docker
 * [쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@delight412/750)
 * [왜 쿠버네티스와 조용히 결별하는 기업들이 늘고 있는가](https://brunch.co.kr/@delight412/793)
   * [왜 쿠버네티스와 조용히 결별하는 기업들이 늘고 있는가 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%99%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%80-%EC%A1%B0%EC%9A%A9%ED%9E%88-%EA%B2%B0%EB%B3%84%ED%95%98%EB%8A%94-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EB%8A%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-activity-7348516848591589377-pGUv/)
-* [2025년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/2900/)
-  * [k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/k8s-stnd-arch/2025/2025-k8s-stnd-arch.pdf)
 * [08. 왜 쿠버네티스에 백업이 필요할까요 - YouTube](https://www.youtube.com/watch?v=A6w5p8zfF3Q&list=PL-AoIAa-OgNkdxO3fRJzb5i61_DaXuJbX&index=8)
   * [IT 인프라 엔지니어 그룹 | 2개의 영상(🎬)이 릴리즈 되었습니다 😊 | Facebook](https://www.facebook.com/groups/InfraEngineer/posts/3791634991151274)
 * [CEL만 알면 나도 쿠버네티스 보안 정책 전문가! | 요즘IT](https://yozm.wishket.com/magazine/detail/2922/) common expression language
@@ -2564,6 +2567,8 @@ Docker
   * [Setup #minikube cluster in 2 minutes - YouTube](https://www.youtube.com/watch?v=zc5ks0Vd8Oc)
 * [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
   * [mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6721)
+* [multi-kubectl: Multi Cluster Kubectl](https://github.com/suminhong/multi-kubectl)
+  * [multi-kubectl: Multi Cluster Kubectl | Sumin Hong](https://www.linkedin.com/posts/sumin-hong-a34589224_github-suminhongmulti-kubectl-multi-cluster-activity-7403020515784744960-hc-n)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [Octant](https://octant.dev/)
 * [OKD 개요](https://velog.io/@_gyullbb/OKD-%EA%B0%9C%EC%9A%94)
