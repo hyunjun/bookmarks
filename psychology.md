@@ -87,6 +87,7 @@ Psychology
 * [‘피할 수 없으면 즐겨라’는 그럴듯한 거짓말이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263258) 인지부조화 cognitive dissonance
 * [거짓말을 간파하는 고도의 심리 기술 - YouTube](https://www.youtube.com/shorts/YC2novSjGNc)
 * [사람들의 진짜 생각 알아내는 기술😮 - YouTube](https://www.youtube.com/shorts/4sV1pGBnxpA)
+* [CIA가 사람의 속마음을 읽는 방법 - YouTube](https://www.youtube.com/shorts/iDRz6fS-tjY)
 * [언젠가 써먹는 심리효과 101](https://slashpage.com/haebom/psychology101)
   * [언젠가 써먹는 심리효과 101 | GeekNews](https://news.hada.io/topic?id=11481)
 * [멘탈관리와 GPT](https://jayoung.blog/mental-health-care-gpt/)
