@@ -408,6 +408,8 @@ Finance
   * [ISO20022.js - 몇줄의 코드만으로 국가간 은행 Payment 구현하기 | GeekNews](https://news.hada.io/topic?id=16244)
 * [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * Stripe [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
+* [x402-whitepaper.pdf](https://www.x402.org/x402-whitepaper.pdf)
+  * [김형중 - 결제혁명 x402. 사람들은 아직 x402가 왜 중요한지, 그리고 왜 이 프로토콜이 “결제혁명”이라고... | Facebook](https://www.facebook.com/hyoungjoong.kim.1/posts/pfbid0Doyv3XiwcgeZ3qiFAB9Ve9VE3an27CDzXnRXRSri2W9RqKW2wY7UwCdbweei6Nqnl)
 
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
