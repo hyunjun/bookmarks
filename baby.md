@@ -107,6 +107,8 @@ Baby
 * [Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains - YouTube](https://www.youtube.com/watch?v=0xS68sl2D70)
   * [박용섭 - 무려 1900만명이 넘는 구독자를 가진 과학 유튜브 Veritasium의 Derek Muller가 캐나다의... | Facebook](https://www.facebook.com/story.php?story_fbid=25322447544025841&id=100000618319680)
 * [부모의 이 행동이 아이의 자존감을 훔친다 - YouTube](https://www.youtube.com/shorts/eqxasZvwyNo)
+* [똑똑한데 문제를 자꾸 틀리는 아이? 이 두 질문이면 바로 달라집니다 | 생각루트 - YouTube](https://www.youtube.com/watch?v=TSKrj1y5GUc)
+  * ["똑똑한데 자꾸 틀리는 아이, 이 두 질문이면 바로 달라집니다 | 생각루트"](https://livewiki.com/ko/content/smart-child-problem-solving-questions)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
