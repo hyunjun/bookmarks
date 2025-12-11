@@ -2107,6 +2107,17 @@ Docker
 * [“알짜만 남겼다” 단출한 컨테이너 관리를 위한 쿠버네티스 배포판 3가지 - ITWorld Korea](https://www.itworld.co.kr/news/269655)
 * AiSuite [DEVIEW 2021 :: AiSuite : Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기](https://deview.kr/2021/sessions/465)
   * [AI 플랫폼과 데이터 플랫폼을 이어주는 Alluxio 적용기](https://d2.naver.com/helloworld/3863967)
+* [Aptakube · Kubernetes GUI | macOS, Windows, Linux](https://aptakube.com/)
+  * [aptakube: Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux](https://github.com/aptakube/aptakube)
+    * 가볍고 네이티브(GUI) + 멀티클러스터 관리 도구
+    * 1. 멀티클러스터 통합 뷰: 여러 K8s 컨텍스트의 Pod/Deployment를 하나의 화면에서 관리
+    * 2. 멀티 로그 스트리밍: 여러 Pod 로그 동시 스트림, 필터, 다운로드
+    * 3. 실시간 메트릭: 노드, 애플리케이션 CPU/Memory 사용량 시각화
+    * 4. 원클릭 Port-forward
+    * 5. 클러스터/네임스페이스 간 리소스 비교 기능
+    * 6. YAML 편집 + 사람이 읽기 좋은 UI
+    * 7. 설정 필요 없음: kubectl 설정만 있으면 즉시 작동
+    * 깔끔하고 빠르고, 드디어 편하게 Kubernetes를 다룰 수 있는 도구
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
   * [Intezer - New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
