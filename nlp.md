@@ -4551,6 +4551,10 @@ NLP
   * [AI 답변 성능의 핵심: 그래프 RAG와 온톨로지, 팔란티어 사례 분석 (Sionic AI ML 엔지니어 정세민, 박진형)](https://livewiki.com/ko/content/graphrag-ontology-palantir-ai)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
+* [TypeDB: The AI-native database for intelligent systems](https://typedb.com/)
+  * [TypeDB: the power of programming, in your database](https://github.com/typedb/typedb)
+  * [온톨로지를 코드로 구현하기 | TypeDB 완전정복 - YouTube](https://www.youtube.com/watch?v=qMGpzTxX5xk)
+    * [TypeDB 완전 정복: 온톨로지 데이터베이스로 지식 그래프 구축하기](https://livewiki.com/ko/content/ontology-typedb-code)
 
 # Paper
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
