@@ -286,6 +286,10 @@ Sports
   * [VidiGo Football AI Tutorial: From Basics to Advanced Stat](https://vidigo.ai/share/summary/f754c387001e)
   * [파이썬을 사용한 축구 AI 튜토리얼: 기초부터 고급 통계까지 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147119)
 * [World Cup Penalty Shootouts | Tableau Public](https://public.tableau.com/app/profile/athan.mavrantonis/viz/WorldCupPenaltyShoot-outs/WorldCupPenaltyShoot-outs)
+* [거스 포옛의 사임이 K리그에 남긴 것 - YouTube](https://www.youtube.com/watch?v=Jgja8YD_hE0)
+  * [거스 포옛 감독 사임, K리그에 남긴 유산과 미래 과제](https://livewiki.com/ko/content/gus-poyet-resignation-kleague)
+    * 전북 스쿼드의 큰 변화 없이 이뤄낸 이러한 성과는 기본에 충실했을 때 얼마나 큰 위력을 발휘할 수 있는지 보여주는 사례
+    * 이는 2002 월드컵 당시 거스 히딩크 감독이 한국 축구의 체력과 멘탈 관리를 강조했던 것과 유사한 맥락
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
