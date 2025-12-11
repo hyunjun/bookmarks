@@ -60,8 +60,8 @@
 * [주간닷넷 2017년 4월 4일](https://blogs.msdn.microsoft.com/eva/?p=13815)
 * [주간닷넷 2017년 5월 9일](https://blogs.msdn.microsoft.com/eva/?p=13835)
 * [주간닷넷 2017년 5월 16일](https://blogs.msdn.microsoft.com/eva/?p=13865)
-* [Java vs .NET void](http://blog.hazard.kr/archives/783)
-* [UWP Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
+* [~Java vs .NET void~](http://blog.hazard.kr/archives/783)
+* [~UWP Hamburger Menu Example 입니다~](http://bongblog.co.kr/20)
 * [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
@@ -82,8 +82,6 @@
 * [Performance Improvements in .NET 6 | .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
 * [알아두면 쓸모 있는 .NET 이야기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31479637&memberNo=36733075&navigationType=push)
-* [.NET Microservices – Full Course - YouTube](https://www.youtube.com/watch?v=DgVjEo3OGBI)
-* [.NET Microservices Basics Course - YouTube](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 * [닷넷 Hot Reload 삭제 사건 - DEV Community](https://dev.to/composite/dasnes-hot-reload-sagje-sageon-5c3g)
 * [Named Pipes in .NET 6 with Tray Icon and Service - ErikEngberg.com](https://erikengberg.com/named-pipes-in-net-6-with-tray-icon-and-service/)
 * [.NET 6 vs .NET 5: up to 40% speedup! | by Alex Yakunin | Nov, 2021 | Medium](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
@@ -206,6 +204,8 @@
 # Tutorial
 * [.NET - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhhjwKo-fPdhppiL8i8P8Z_o)
 * [Refactoring - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhh8H3Zw2M6KDdP3aAlbfT8j)
+* [.NET Microservices Basics Course - YouTube](https://www.youtube.com/watch?v=ByYyk8eMG6c)
+* [.NET Microservices – Full Course - YouTube](https://www.youtube.com/watch?v=DgVjEo3OGBI)
 * [.NET Microservices – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=CqCDOosvZIk)
 
 # Visual Studio
