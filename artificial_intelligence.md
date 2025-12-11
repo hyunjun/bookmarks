@@ -920,6 +920,7 @@ Artificial Intelligence
     * [이상선 - 서툰 손에 맡겨진 바이브코딩은 악이다: Reddit에 한 핀테크 스타트업 창업자의 안타까운 이야기가... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid07qLndGKZhVxRRMeWoCppjvbXa9jUxQBZSLQcNwDZJgnLBTaHcjjRVbDGFRdZt3uVl)
       * AI가 쓴 코드를 AI의 도움으로 300시간이나 수정
       * 실제 있었던 일이라기 보단 챗지피티가 생성한 글일 가능성이 더 높다고
+  * [AI가 짠 코드, 진짜 써보면 개발자는 미쳐갑니다 - Billinonnapkin](https://billionnapkin.com/ai-generated-code-dev-struggle/)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -2313,6 +2314,7 @@ Artificial Intelligence
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
+  * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
@@ -2359,6 +2361,8 @@ Artificial Intelligence
     * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
+  * [Claude Orchestrator - Multi-Agent Development Automation](https://claude-orchestrator.parallax.kr/)
+    * [오픈소스 claude-code로 개발 아예 안하고도 개발 시키기](https://velog.io/@hansanghun/claude)
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
