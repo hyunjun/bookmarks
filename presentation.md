@@ -87,6 +87,7 @@ Presentation
 * [mdpre: claude code로 만든 마크다운 프레젠테이션](https://github.com/weniv/mdpre)
   * [WENIV Presenter - 마크다운 프레젠테이션 도구](https://weniv.github.io/mdpre/)
 * [Mousepose](http://bedreams.tistory.com/46)
+* [Paper2Slides: "Paper2Slides: From Paper to Presentation in One Click"](https://github.com/HKUDS/Paper2Slides)
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [pptx-tool: A script to fix up pptx font configurations considering Latin/EastAsian/ComplexScript/Symbol typeface mappings](https://github.com/achimnol/pptx-tool)
