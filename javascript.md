@@ -1660,6 +1660,8 @@ Javascript
 * [DAN 24 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
 * [한 스타트업의 사내 디자인 시스템 성장기](https://velog.io/@osohyun0224/%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%82%AC%EB%82%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%B1%EC%9E%A5%EA%B8%B0)
 * [0에서 시작하는 디자인 시스템 구축기 — 1. 안녕하세요. 엘박스 프로덕트 디자이너 구찬회입니다. 지난 2년여간… | by Koo Paul | LBOX Team | Feb, 2025 | Medium](https://medium.com/lbox-team/0%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%EA%B8%B0-1-cf33b4e6cab2)
+* [디자인시스템이 AI를 만났을 때: FE 개발 패러다임의 변화 - YouTube](https://www.youtube.com/watch?v=W06sESnB9rg)
+  * [디자인 시스템이 AI를 만났을 때: FE 개발 패러다임의 변화 - NAVER D2](https://livewiki.com/ko/content/design-system-ai-fe-paradigm-shift)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
