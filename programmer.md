@@ -266,6 +266,7 @@ Programmer
 * [커리어노트 108 커리어는 각자도생이다 : 네이버 블로그](https://blog.naver.com/junedec369/223182247564)
 * [8년차 개발자가 월 1억씩 벌게 된 이야기](https://www.jobless.blog/damon/) side hustle
 * [MODUPOP 초거대 AI시대 대체불가 개발자로 살아가기 - YouTube](https://www.youtube.com/watch?v=2-bXSTgNEtg)
+* [개발자는 이제 일하는 방식부터 재정의해야 합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3495/)
 * [구글에서의 18년을 돌아보며 | GeekNews](https://news.hada.io/topic?id=11982)
 * [OKKY - 내가 창업을 한다면 어떻게 개발자의 연봉을 책정할 것인가: 비지니스 모델에 따라 다릅니다.](https://okky.kr/articles/1210093)
 * [The 3 budgets | Swizec Teller](https://swizec.com/blog/the-3-budgets/)
