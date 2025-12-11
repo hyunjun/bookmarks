@@ -39,6 +39,9 @@ GIS
   * [사용자 위치정보(User Location)를 믿지마세요 | GeekNews](https://news.hada.io/topic?id=16132)
 * [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
   * [정밀한 위치 추적을 가능하게 하는 Wi-Fi 위치 결정 시스템 | GeekNews](https://news.hada.io/topic?id=24525)
+* [Geospatial Sovereignty in the Age of AI.pdf](https://media.licdn.com/dms/document/media/v2/D4E1FAQGT6m6_AafHjg/feedshare-document-pdf-analyzed/B4EZsCiq.0GoAc-/0/1765274212510?e=1766016000&v=beta&t=Oo0LUGI1JR42xEQKP7OwfE5aMtLrebeKiSpK-TUqx2w)
+  * OGC 행사에서 Carto 창업자가 발표한 자료
+    * 이제 공간정보가 '특별'하지 않다는 점과 AI주권이 고립된 시스템을 의미하는 게 아니라고 강조한 점이 인상적
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
