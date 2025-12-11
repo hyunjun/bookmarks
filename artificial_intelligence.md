@@ -1990,10 +1990,15 @@ Artificial Intelligence
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
-* gr.inc [Datasets | General Reasoning](https://gr.inc/)
-  * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
+* [Ghost GPT - ИИ для прохождения собеседований](https://ghostgpt.tech/)
+  * 실시간 면접 분석: 화면을 보면서 질문, 문제 해결 흐름을 즉시 분석
+  * 최적 답변 제안: 상황별로 가장 효과적인 답변 및 솔루션 자동 추천
+  * 탐지 불가 UI: 모든 창 위에서 작동하며 화면 캡처, 모니터링 도구에 미노출
+  * 화상회의 완전 은닉: Zoom / Google Meet / MS Teams에서도 감지 불가
 * [Google AI 에지  |  Google AI Edge  |  Google AI for Developers](https://ai.google.dev/edge?hl=ko)
   * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
+* gr.inc [Datasets | General Reasoning](https://gr.inc/)
+  * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [Guse](https://www.guse.io/)
   * [Guse라는 서비스... research → write → edit → share 라는 컨셉... 채팅창에서 뭔가 요구를 하면 Perplexity 와 같은 기능으로 리서치를 하고 그 결과가 구글닥스처럼... 수정하거나 채팅으로 내용을 추가... 마지막으로 결과를 여러 포맷(PPT 포함)으로 다운 받거나 공유](https://www.linkedin.com/posts/duckjungkim_%EC%BB%A8%EC%84%A4%ED%8C%85%EC%9D%84-%ED%95%98%EA%B1%B0%EB%82%98-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%80-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-guse%EB%9D%BC%EB%8A%94-activity-7290720119142395904-oNQO/)
 * [H Company](https://www.hcompany.ai/)
