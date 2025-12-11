@@ -3550,6 +3550,9 @@ Programming
 * [Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership & MVP Development for Startups](https://nexo.sh/posts/microservices-for-startups/)
   * [마이크로서비스는 스타트업이 감당할 수 없는 세금임 | GeekNews](https://news.hada.io/topic?id=20814)
 * [마이크로서비스(MSA)의 복잡한 세계와 모니터링의 필요성﻿ – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2025-09-24-msa-monitoring/)
+* [DHH on X: "Microservices is the software industry’s most successful confidence scam. It convinces small teams that they are “thinking big” while systematically destroying their ability to move at all. It flatters ambition by weaponizing insecurity: if you’re not running a constellation of" / X](https://x.com/dhh/status/1998785569468399819)
+  * [김진중 - DHH(RoR 창시자) - MSA는 사기다. ㅋㅋㅋ 저도 오래전부터 DHH와 비슷한 생각이었지만 차마 말로... | Facebook](https://www.facebook.com/hacker.golbin/posts/pfbid02otgbuMtRqMUsq9abZam4szNGNyP19qBQoCgxifSg5QMcFyv2VHCV8DVo9K89RBhol)
+  * 작은 팀이 마이크로서비스를 쓰는 건 “스케일을 꿈꾸는 척하며 스스로를 느리게 만드는 자기파괴적 선택”이며, 제대로 된 모놀리식(monolith) 아키텍처와 팀 규율이 훨씬 낫다는 주장
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
@@ -5173,6 +5176,8 @@ Programming
   * [노코드 자동화 n8n + MCP로 나만의 AI 카톡 비서 만들기! (클로드 활용, 15분 완성) - YouTube](https://www.youtube.com/watch?v=XNQvED-iKUg)
   * [왜 n8n이 AI 자동화 끝판왕인지 보여드리겠습니다.공식 MCP지원으로 클로드 자동화 l n8n korea 커뮤니티 박정기(AI 팟캐스트 #58) @anyway-n8n - YouTube](https://www.youtube.com/watch?v=u9uZNZukhlU)
   * [awesome-n8n-templates: Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.](https://github.com/enescingoz/awesome-n8n-templates)
+  * [n8n-playbook: n8n-playbook: cheastsheet, examples](https://github.com/ggplab/n8n-playbook)
+    * [n8n Cheatsheet가 'Playbook'으로 진화했습니다 (실전 예제 12종 추가!) 지난번 공유드린 'n8n 데이터 파이프라인 Cheatsheet'에 보내주신 뜨거운 반응(좋아요 200개+, 깃헙 스타 40개!) 감사합니다. 사실 Github Star를 이렇게 많이 받아본 게 처음이라 신기했습니다. 🤣 이에 보답하고자 어떤 노드가… | 임정](https://www.linkedin.com/posts/jayjunglim_n8n-cheatsheet%EA%B0%80-playbook%EC%9C%BC%EB%A1%9C-%EC%A7%84%ED%99%94%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C-activity-7404807917700308999-d4nV)
   * [n8nworkflows.xyz: N8N Workflows Catalog](https://github.com/nusquama/n8nworkflows.xyz) n8n용 약 6000개의 준비된 템플릿
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
