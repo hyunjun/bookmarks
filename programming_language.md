@@ -204,6 +204,8 @@ Programming Language
 * [Multi-Paradigm Languages – O’Reilly](https://www.oreilly.com/radar/multi-paradigm-languages/)
   * [멀티패러다임 언어(Multi-Paradigm Languages) - 한빛출판네트워크](https://hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6330645435)
   * [멀티패러다임 언어 1/6 - "우리는 함수형, 객체지향 패러다임을 제공하는 멀티패러다임 언어를 효율적으로 사용하는 법에 대해 배워야 한다." (수요코딩회 ep.2) - YouTube](https://www.youtube.com/watch?v=Ci3WGGEnmj4)
+* [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
+  * [바이브 코딩할 거면 C로 하지 그래요? | GeekNews](https://news.hada.io/topic?id=24973)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
