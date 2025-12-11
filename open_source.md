@@ -166,6 +166,8 @@ Open Source
 * [오픈 소스 자체만으로는 빅 테크의 대안이 될 수 없습니다 | GeekNews](https://news.hada.io/topic?id=17558)
 * [F-Droid and Google's Developer Registration Decree | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
   * [F-Droid와 Google의 개발자 등록 명령 | GeekNews](https://news.hada.io/topic?id=23361)
+* [쿠버네티스 '인그레스 엔진' 지원 중단, 오픈소스 구조적 한계 지적](https://v.daum.net/v/20251209103447853)
+  * OpenCV도 유사하게 이미 와해되었단 이야기가 있음
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
