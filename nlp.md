@@ -5245,6 +5245,10 @@ NLP
       * response time for GPT-4 is 1.2 seconds, they think it is able to get it down to 1 second soon
     * TTS - using PlayHT, also run on premise, said PlayHT > ElevenLabs
     * WebRTC - using Daily.co
+* [VibeVoice](https://microsoft.github.io/VibeVoice/)
+  * [VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
+  * [🎙️마이크로소프트 VibeVoice: 90분 길이 다중 화자 음성 합성 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%99%EF%B8%8F%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-VibeVoice-90%EB%B6%84-%EA%B8%B8%EC%9D%B4-%EB%8B%A4%EC%A4%91-%ED%99%94%EC%9E%90-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1-AI)
+  * [VibeVoice-Realtime-0.5B - a Hugging Face Space by anycoderapps](https://huggingface.co/spaces/anycoderapps/VibeVoice-Realtime-0.5B)
 * [VibeVoiceFusion: A complete full-stack voice generation solution with an intuitive user interface, project management, and advanced VRAM optimization features](https://github.com/zhao-kun/VibeVoiceFusion/)
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
