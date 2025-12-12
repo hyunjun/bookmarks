@@ -308,6 +308,8 @@ Json
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [Korean JSON - 한국어 데이터를 제공하는 초간단 JSON API](https://koreanjson.com/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
+* [lite3: A JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
+  * [Lite³: JSON 호환 제로-카피 직렬화 포맷 | GeekNews](https://news.hada.io/topic?id=25010)
 * [lowdb: Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)](https://github.com/typicode/lowdb)
   * [json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
 * [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
