@@ -2205,6 +2205,8 @@ Artificial Intelligence
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
       * [streamlit + claude agent sdk (MCP+Skills)로 구현한 예제 | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_anthropic-claude-aws-ugcPost-7387001174740234240-R8a1/)
       * [Token이 없어도 주식정보 조회가 가능한 FinanceDataReader를 사용 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-mcp-anthropic-ugcPost-7390263921162620928-aEbc)
+  * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
+    * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -2890,6 +2892,9 @@ Artificial Intelligence
 # Video
 * [AI로 피팅모델을 '생성'하고 실제 의류를 합성합니다 | 개발자 브이로그 - YouTube](https://www.youtube.com/watch?v=bRxymNcxjNI)
 * [Luma Dream Machine | AI Video Generator](https://lumalabs.ai/dream-machine)
+* [Live Avatar Project Page](https://liveavatar.github.io/)
+  * [LiveAvatar: Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"](https://github.com/Alibaba-Quark/LiveAvatar)
+  * [🤖 Live Avatar: 무한 길이 실시간 오디오 기반 아바타 생성 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Live-Avatar-%EB%AC%B4%ED%95%9C-%EA%B8%B8%EC%9D%B4-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%98%A4%EB%94%94%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%95%84%EB%B0%94%ED%83%80-%EC%83%9D%EC%84%B1-%ED%98%81%EC%8B%A0)
 * [OpusClip - AI-powered Video Repurposing](https://www.opus.pro/)
   * [7개월 만에 연매출 130억 찍은, 숏폼 만들어 주는 AI 스타트업](https://maily.so/founderstory/posts/0a0968c1)
 * [ToonCrafter: a research paper for generative cartoon interpolation](https://github.com/ToonCrafter/ToonCrafter)
