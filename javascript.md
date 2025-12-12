@@ -917,6 +917,7 @@ Javascript
 * [프론트엔드 서비스 최적화? 토스에서는 '이렇게' 합니다! 모닥불 | EP.9](https://toss.tech/article/32583) optimization
 * [Javascript Security Best Practices | Security Articles](https://hub.corgea.com/articles/javascript-security-best-practices)
 * [jQuery부터 AI까지, 20년간 어떤 기술이 살아남았을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3400/)
+* [자바스크립트 내부 슬롯과 내부 메서드 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3498/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
