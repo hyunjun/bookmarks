@@ -107,6 +107,19 @@ Programming
 * [Exercism - Code practice and mentorship for everyone](https://exercism.io/)
 * [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
+* [CS146S: The Modern Software Developer - Stanford University](https://themodernsoftware.dev/)
+  * 스탠포드 대학, 풀스택 AI 엔지니어링 전체 프레임워크 공개
+  * 'AI 네이티브(AI-native)' 엔지니어링 워크플로우 공식화
+  * 강의 커리큘럼
+    * 코딩 에이전트(Coding Agents) 바닥부터 직접 구현하기
+    * MCP 프로토콜 심층 분석
+    * 실제 프로덕션 환경에서 Claude Code / Devin 활용하기
+    * Warp 에이전트를 활용한 터미널 레벨 자동화
+    * AI 기반 정적 분석 및 보안 감사
+    * Graphite 워크플로우: PR(Pull Request) 자동 스택 쌓기 및 리팩토링 자동화
+    * Vercel v0를 활용한 프롬프트-투-프로덕션(Prompt-to-Production) 풀스택 생성
+    * 자가 진단 및 자가 치유(Self-healing) 해결
+    * 기말 프로젝트는 실제로 작동하는 AI 네이티브 제품 출시
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
 * Building a Content-Based Search Engine
   * [Part I: Quantifying Similarity](http://www.deepideas.net/building-content-based-search-engine-quantifying-similarity/)
