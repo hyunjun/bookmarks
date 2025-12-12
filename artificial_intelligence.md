@@ -1958,6 +1958,7 @@ Artificial Intelligence
 * [사용자가 찾아오는 제품: AI로 만든 항공가 스캐너 ‘럭키글라이드’의 한 달 | by Myrealtrip | How we build Myrealtrip | Nov, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EC%B0%BE%EC%95%84%EC%98%A4%EB%8A%94-%EC%A0%9C%ED%92%88-ai%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%95%AD%EA%B3%B5%EA%B0%80-%EC%8A%A4%EC%BA%90%EB%84%88-%EB%9F%AD%ED%82%A4%EA%B8%80%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%ED%95%9C-%EB%8B%AC-bc47e46f3628)
 * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars | by NocoBase | Oct, 2025 | Medium](https://medium.com/@nocobase/top-11-open-source-no-code-ai-tools-with-the-most-github-stars-eea56126a8e3)
   * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars - NocoBase](https://www.nocobase.com/en/blog/top-11-github-open-source-no-code-ai-tools)
+* [기획자·운영자·창업자가 꼭 써봐야 할 바이브 코딩 도구 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3496/)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
