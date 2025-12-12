@@ -188,6 +188,8 @@ Science
       * 병적 게으름은 증상이기 때문에 치료만 잘 받으면 상당히 호전될 수 있다
 * [뇌과학자로서 이것만은 말리고 싶어요 - YouTube](https://www.youtube.com/watch?v=mP7E_cvdWrQ)
   * [뇌과학자로서 이것만은 말리고 싶어요 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5650836/5341187)
+* [Social Media Use Trajectories and Cognitive Performance in Adolescents | Adolescent Medicine | JAMA | JAMA Network](https://jamanetwork.com/journals/jama/article-abstract/2839941)
+  * [미국 청소년의 경우, 9~13세 사이에 소셜 미디어 사용이 증가할수록 독해, 기억력, 어휘력, 종합 인지 능력 측정 점수가 낮아지는 것으로 나타났습니다](https://www.facebook.com/story.php?story_fbid=26188790160723181&id=100000566632124)
 * [Brain Maps](https://thehighestofthemountains.com/brainmaps.html)
   * [Tae Hyung Kim - 인간의 뇌가 어떻게 세상을 인식하고 배우는지를 이 인포그래픽스는 압축적으로 이야기하고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0324G3k1bV4RCHQaDDgUriiYofG46ixBJAjn7NonmkSskNHgYqqNTjTVR2gvXcrrMDl)
 
