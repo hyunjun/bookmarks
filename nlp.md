@@ -4003,6 +4003,8 @@ NLP
 * [RAG 정확도 왜 안 나올까? HybridRAG로 해결하세요 - YouTube](https://www.youtube.com/watch?v=VSmhII3C_ps)
   * [RAG 정확도 문제, HybridRAG로 35% 향상시키는 방법 (그래프 RAG, 벡터 RAG 비교)](https://livewiki.com/ko/content/rag-hybridrag)
     * 하이브리드 RAG의 핵심 아이디어는 벡터 검색과 그래프 검색 두 가지를 동시에 실행
+* [Agentic RAG: 95% is NOT 100%. Nailing GenAI Precision in Production - YouTube](https://www.youtube.com/watch?v=HVYCWhvz5B8)
+  * [에이전트 RAG: 95%로는 부족합니다 - GenAI 프로덕션에서 정밀도 확보하기](https://livewiki.com/ko/content/agentic-rag-genai-precision-production)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
