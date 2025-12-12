@@ -2946,6 +2946,8 @@ Javascript
   * [Three.js와 WebXR 몰입형 웹 경험의 랜더링. 인텔오픈소스 그룹에서 Three.js와 WebXR의 랜더링 아키텍처에… | by BELIVVR | BELIVVR | Oct, 2021 | Medium](https://medium.com/belivvr/three-js%EC%99%80-webxr-%EB%AA%B0%EC%9E%85%ED%98%95-%EC%9B%B9-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%9E%9C%EB%8D%94%EB%A7%81-b2e7b6af9dda)
   * [게임엔진 없이 게임을 만들었다](https://velog.io/@dipokalhhj/%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B2%8C%EC%9E%84%EC%97%94%EC%A7%84-%EC%97%86%EC%9D%B4-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%82%98)
   * [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial - YouTube](https://www.youtube.com/watch?v=0fYi8SGA20k)
+  * [Bruno's](https://bruno-simon.com/)
+    * [단연코 가장 멋진 3D 웹사이트 중 하나 | GeekNews](https://news.hada.io/topic?id=24963)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
