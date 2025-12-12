@@ -241,6 +241,9 @@ Business
     * 직원들에게 Facebook의 사명감을 심어주기 위한 메시지, e.g. “우리는 세계를 변화시키는 일을 하고 있다”는 비전 강조
     * Facebook이 팀원들에게 기대하는 역할과 책임에 대한 지침
   * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
+* [21 Lessons from 14 Years at Google - by Addy Osmani](https://addyo.substack.com/p/21-lessons-from-14-years-at-google)
+  * [Google에서 14년간 얻은 21가지 교훈 | GeekNews](https://news.hada.io/topic?id=24909)
+  * [A급 개발자가 구글에서 14년 동안 일하면서 깨달은 것들](https://www.facebook.com/somewon.yoon/posts/pfbid02yvLWA1FCAnNAzAAFdJhhM1R7VnJu1CUuqpmkiXAFW14xA2oDKNut8Hdp4qSFaVANl)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [이승훈 - 스타트업에서 성과를 내기 위한 요건](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EB%82%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7154036726452097024-SrTF/)
   * 1) 업에 대한 이해 (유저의 행동에 대한 이해) 2) 회사/맥락에 대한 이해 3) 사람에 대한 이해
