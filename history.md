@@ -355,6 +355,7 @@ History
   * [1](https://imgur.com/a/7J1HZYU) [2](https://imgur.com/a/1JGIbe9) [3](https://imgur.com/a/xZmBVyB) [4](https://imgur.com/a/znXataI)
 * [미국과 개인주의](https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/) 역사는 아니고 문화에 대한 이야기
 * [김지윤 박사와 함께 미국 정치 영화를 본다면? - YouTube](https://www.youtube.com/watch?v=P2k8uTZKOBI)
+* [“취하면 때리고 성매매하는 남편 말려주세요”...막장 다 몰린 동네에 금주령 내렸더니 히코노미](https://v.daum.net/v/20251213061501752)
 
 # Asia
 * [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
