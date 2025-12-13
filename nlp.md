@@ -451,6 +451,7 @@ NLP
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
   * [How KV caching boosts LLM performance | Harshada Jivane posted on the topic | LinkedIn](https://www.linkedin.com/posts/harshadajivane_understanding-kv-caching-in-transformers-activity-7385951225428713472-e4HH)
+* [왜 모델은 첫 문장을 내뱉기 전에 잠시 멈춰 있는 것일까?  | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-sluslqriwqzc-ai-ugcPost-7404997839216369664-jRk-) TTFT(Time to First Token) KV Caching
 * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 - YouTube](https://www.youtube.com/watch?v=zHQLPJ8-9Qc)
   * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%88%98%EB%A7%8E%EC%9D%80-%EC%A0%95%EB%B3%B4%EB%8A%94-llm-%EB%AA%A8%EB%8D%B8-%EC%86%8D-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C-dl-7-activity-7386236075452764160-XNhk)
     * 대규모 언어 모델(LLM), 특히 트랜스포머 아키텍처의 핵심 구성 요소인 멀티레이어 퍼셉트론(MLP) 레이어가 사실적 지식을 저장하고 처리하는 방식을 설명
@@ -3606,7 +3607,7 @@ NLP
 * [OLMo: Modeling, training, eval, and inference code for OLMo](https://github.com/allenai/OLMo)
   * [2402.00838 OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
     * [OLMo(Open Language Model) : 완전한 오픈소스 대형 언어 모델](https://fornewchallenge.tistory.com/entry/OLMoOpen-Language-Model-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8C%80%ED%98%95-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
-  * [Olmo 3: Charting a path through the model flow to lead open-source AI | Ai2](https://allenai.org/blog/olmo3) 
+  * [Olmo 3: Charting a path through the model flow to lead open-source AI | Ai2](https://allenai.org/blog/olmo3)
     * [Olmo 3.1 32B Think 심층 분석: 투명성과 성능의 완벽한 조화](https://fornewchallenge.tistory.com/entry/Olmo-31-32B-Think-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-%ED%88%AC%EB%AA%85%EC%84%B1%EA%B3%BC-%EC%84%B1%EB%8A%A5%EC%9D%98-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A1%B0%ED%99%94)
 * [onprem - OnPrem.LLM](https://amaiya.github.io/onprem/)
   * [onprem: A tool for running on-premises large language models with non-public data](https://github.com/amaiya/onprem)
