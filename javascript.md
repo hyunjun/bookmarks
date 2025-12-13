@@ -5225,6 +5225,9 @@ Javascript
   * [React가 기본값으로 승리하고 있으며 프론트엔드 혁신을 늦추고 있음 | GeekNews](https://news.hada.io/topic?id=23111)
 * [What’s new in React 19.2.0. React 19.2.0 introduces significant… | by Onix React | Oct, 2025 | Medium](https://medium.com/@onix_react/whats-new-in-react-19-2-0-04b9019ceb27)
   * [번역 리액트 19.2.0의 새로운 기능. 원문… | by 조영제 | Oct, 2025 | Medium](https://siosio3103.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-19-2-0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-ebda8956006f)
+* [FEConf 2025 B2 'memo'를 지울 결심 : React Compiler가 제안하는 미래 - YouTube](https://www.youtube.com/watch?v=zrAGRppDkSw)
+  * ['memo'를 지울 결심: React 컴파일러가 제안하는 미래 | 요즘IT](https://yozm.wishket.com/magazine/detail/3501/)
+  * [React Compiler: 미래의 React 개발, 메모이제이션에서 해방](https://livewiki.com/ko/content/feconf-2025-memo-react-compiler-future)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
