@@ -2840,6 +2840,8 @@ NLP
   * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
   * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
 * [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
+* [GLM-4.6V - Z.AI DEVELOPER DOCUMENT](https://docs.z.ai/guides/vlm/glm-4.6v)
+  * [🤖 GLM-4.6V: 혁신적인 멀티모달 AI 모델 분석 및 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-GLM-46V-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-AI-%EB%AA%A8%EB%8D%B8-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
@@ -2895,7 +2897,9 @@ NLP
     * [카카오 카나나 kanana nano 나노 모델.. : 네이버블로그](https://blog.naver.com/ulsancoding/223785754788)
     * [kanana-nano-2.1b-base · Hugging Face](https://huggingface.co/kakaocorp/kanana-nano-2.1b-base)
       * [카카오, 자체 개발 언어 AI 모델 ‘카나나' 연구 성과 및 고성능 경량 모델 ‘카나나 나노 2.1B’ 오픈소스로 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34052)
-  * kanana o [이미지와 음성을 아우르는 카카오의 멀티모달 언어모델 Kanana-o 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/702)
+  * kanana o
+    * [이미지와 음성을 아우르는 카카오의 멀티모달 언어모델 Kanana-o 알아보기 - tech.kakao.com](https://tech.kakao.com/posts/702)
+    * [더욱 똑똑하게 답하며, 더욱 풍부한 감정표현을 향한 Kanana-o의 진화 과정 - tech.kakao.com](https://tech.kakao.com/posts/802)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
 * [Kimi - 更强大的 AI 助手](https://www.kimi.com/)
   * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
@@ -5045,6 +5049,8 @@ NLP
 # Tutorial
 
 * [Devfest Incheon 2025 모두를 위한 친절한 언어모델(LLM) 학습 가이드 - Speaker Deck](https://speakerdeck.com/beomi/devfest-incheon-2025-modureul-wihan-cinjeolhan-eoneomodel-llm-hagseub-gaideu)
+  * [PyAI 심포지움 1회 모두를 위한 친절한 언어모델LLM 학습 가이드 - 이준범 - YouTube](https://www.youtube.com/watch?v=T8uJmrwB-xc)
+    * [모두를 위한 친절한 LLM 학습 가이드: 개념부터 파인튜닝, 멀티모달까지](https://livewiki.com/ko/content/pyai-symposium-llm-guide)
 * [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
 * [**Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition**](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
