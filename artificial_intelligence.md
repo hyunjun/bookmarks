@@ -2322,6 +2322,14 @@ Artificial Intelligence
     * [이용균 - 클로드 코드 CLI를 쓰면 클로드 코드가 VS Code의 빨간 밑줄을 참고하여, 컴파일 하지 않고 문법을... | Facebook](https://www.facebook.com/yongkyun.lee.12/posts/pfbid0317To7wbXS7KBC2wU1TURJtHUBhhBTVXGRzUjiHvu9ZJ19Hg3sVoBE4A8howU13Jtl)
   * [Claude 4.5 Opus' Soul Document — LessWrong](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
     * [전종홍 - 아마 향후 많은 논쟁을 불러 일으킬 내용이지 않을까 싶네요. 정부의 압력과 규제도 있을 것 같고...... | Facebook](https://www.facebook.com/1biit/posts/pfbid027eRafMz3fTdpWvJkfSUqLTXx7ew2ytCgdFmnqh9VyXQF7GrvV9RRcRre21Pz68Pol)
+  * [12월 10일부터 올라온 Claude Code의 최신 기능 7개를 한 눈에 정리합니다. Anthropic 은 산타인가! 1. Async Subagents (비동기 서브에이전트) Task 를 실행하면 서브에이전트가 백그라운드로 이동해서 독립적으로 계속 작업할 수 있게 됐습니다. 심지어 메인 에이전트가 작업을 끝내고 비활성화되더라도요. 로그 모니터링이나 빌드… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_12%EC%9B%94-10%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%98%AC%EB%9D%BC%EC%98%A8-claude-code%EC%9D%98-%EC%B5%9C%EC%8B%A0-%EA%B8%B0%EB%8A%A5-7%EA%B0%9C%EB%A5%BC-%ED%95%9C-%EB%88%88%EC%97%90-activity-7405362064489299968-1JZO)
+    * 1. Async Subagents (비동기 서브에이전트)
+    * 2. Instant Compact (즉시 컴팩트)
+    * 3. Custom Session Names (세션 이름 지정)
+    * 4. Usage Stats (/stats 명령어)
+    * 5. Claude Code on Android
+    * 6. Hotkey Model Switcher (단축키로 모델 변경)
+    * 7. Context Window Info in Status Line (상태 표시줄에 컨텍스트 정보)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
