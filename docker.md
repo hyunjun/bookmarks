@@ -1399,6 +1399,9 @@ Docker
 * [Kubernetes Logging with Fluent Bit, Elasticsearch and Kibana | by Raju Dawadi | Medium](https://dwdraju.medium.com/kubernetes-logging-with-fluent-bit-elasticsearch-and-kibana-c4234f71e65b)
 * [Tail logs from multiple Kubernetes pods the easy way | by Geshan Manandhar | THE ICONIC Tech](https://theiconic.tech/tail-logs-from-multiple-kubernetes-pods-the-easy-way-71401b84d7f)
 * ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유 - CIO Korea](https://www.ciokorea.com/news/190458)
+* [Top 5 hard-earned lessons from the experts on managing Kubernetes | CNCF](https://www.cncf.io/blog/2025/11/18/top-5-hard-earned-lessons-from-the-experts-on-managing-kubernetes/)
+  * 운영 오버헤드, 보안 설정, 스케일링 비용, 전문 인력 부족, 지속적인 업그레이드 등으로 인해 예상보다 훨씬 큰 복잡성/기술 부채 유발 가능
+  * "조직은 초기에 보안, 정책, 권한 모델을 제대로 설계하고, 오토스케일링 비용과 인력 계획을 명확히 하며, 모든 워크로드를 쿠버네티스에 올리려 하기보다 비즈니스 필요에 맞게 선택적으로 도입해야 한다고 강조"
 * [우리는 불편함을 어떻게 마주하고 있는가 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2696/)
 * [Kubernetes에서 NFS(EFS) 사용하기 | PSH's Blog](https://pseonghoon.github.io/post/k8s-and-nfs)
 * [Canonical introduces high-availability Micro-Kubernetes | ZDNet](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
