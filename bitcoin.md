@@ -106,6 +106,8 @@ Bitcoin
 * [(1) 김형중 - 이상과 현실. 비트코인은 "일하지 않는 자는 먹지도 말라"는 원리를 실천하기 위해 작업증명(PoW) 방식을... | Facebook](https://www.facebook.com/hyoungjoong.kim.1/posts/pfbid02oYu5LoQzYCjwnDRd8sLCn3XTzmntp2jMMw4bjn9M9Z1VK2M2FpWLzziMNKQ18bPpl)
   * 작업증명(PoW) 지분증명(PoS) 용량증명(PoC) 역사증명(PoH)
   * 블록체인의 다양한 합의 방식은 저마다의 '이상'을 구현하려 했으나, 현실의 기술적 한계와 인센티브 구조 때문에 예상치 못한 문제들과 지속적인 한계
+* [ken on X: "I Wasted 8 Years of My Life in Crypto" / X](https://x.com/kenchangh/status/1994854381267947640)
+  * [암호화폐에 인생의 8년을 낭비했다 | GeekNews](https://news.hada.io/topic?id=24918)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -297,6 +299,8 @@ Bitcoin
   * [Mako - C로 작성된 완전한 비트코인 구현체 | GeekNews](https://news.hada.io/topic?id=5389)
 * [Plutus: Haskell for Blockchain Contract Development • Manuel M T Chakravarty • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=zALlZZDdCeA)
 * Polkadot.js [How Polkadot.js Lets You Connect Infinite Parachains](https://medium.com/hackernoon/how-polkadot-js-lets-you-connect-infinite-parachains-9afb13ba7396)
+* [Polymarket](https://github.com/Polymarket/)
+  * [Polymarket: 가격은 확률이다 - by Yongkyun (Daniel) Lee - 코드 포인터](https://substack.com/home/post/p-181028478)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
