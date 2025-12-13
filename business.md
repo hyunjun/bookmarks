@@ -1707,6 +1707,7 @@ Business
   * [VidiGo Communication Patterns • Jacqui Read & Gregor Hohp](https://vidigo.ai//share/summary/38af853076b6)
   * [Communication Patterns • Jacqui Read & Gregor Hohpe • GOTO 2025 |](https://lilys.ai/digest/2410478/493022)
   * [The ACED model](https://acedmodel.com/)
+* [“API가 뭐예요?”라는 질문에 당황하지 않는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3499/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
