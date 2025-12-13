@@ -801,6 +801,7 @@ AWS
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
   * [Amazon Nova Vision 기능 모델 증류 하기: Fine-Tuning Text-Image-to-Text](https://heuristicwave.github.io/Fine-tuning-Nova)
+  * [“네이티브 vs. 포터블” 아마존 노바 2의 숨은 비용 | ITWorld](https://www.itworld.co.kr/article/4103713/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-vs-%ED%8F%AC%ED%84%B0%EB%B8%94-%EC%95%84%EB%A7%88%EC%A1%B4-%EB%85%B8%EB%B0%94-2%EC%9D%98-%EC%88%A8%EC%9D%80-%EB%B9%84%EC%9A%A9.html)
   * [aws-samples/sample-nova-sonic-mcp](https://github.com/aws-samples/sample-nova-sonic-mcp)
 * [aws-ai-ml-workshop-kr/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus at master · aws-samples/aws-ai-ml-workshop-kr · GitHub](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus)
   * [Demo Bedrock-Manus: Data analysis and Report Automation - YouTube](https://www.youtube.com/watch?v=DwWICGLEv14)
