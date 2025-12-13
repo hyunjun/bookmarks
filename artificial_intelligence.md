@@ -2331,6 +2331,8 @@ Artificial Intelligence
     * 5. Claude Code on Android
     * 6. Hotkey Model Switcher (단축키로 모델 변경)
     * 7. Context Window Info in Status Line (상태 표시줄에 컨텍스트 정보)
+  * [Amazon Bedrock의 Claude Code | AWS Startups](https://aws.amazon.com/startups/build/claude-code-with-bedrock)
+    * [Claude Code With Amazon Bedrock | Taehyun Kim](https://www.linkedin.com/posts/taehyun-kim-33637922_claude-code-with-amazon-bedrock-activity-7404743670693912576-xwm3)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
