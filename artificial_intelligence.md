@@ -1961,6 +1961,7 @@ Artificial Intelligence
 * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars | by NocoBase | Oct, 2025 | Medium](https://medium.com/@nocobase/top-11-open-source-no-code-ai-tools-with-the-most-github-stars-eea56126a8e3)
   * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars - NocoBase](https://www.nocobase.com/en/blog/top-11-github-open-source-no-code-ai-tools)
 * [기획자·운영자·창업자가 꼭 써봐야 할 바이브 코딩 도구 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3496/)
+* [Top 10+ Open Source No-Code AI Tools with the Most GitHub Stars | by Deep concept | Let’s Code Future | Dec, 2025 | Medium](https://medium.com/lets-code-future/top-10-open-source-no-code-ai-tools-with-the-most-github-stars-ef39a71cfddd)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
