@@ -1452,6 +1452,40 @@ NLP
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
   * [OpenAI just released a Prompting Guide](https://www.linkedin.com/posts/maxrascher-ai_ai-artificialintelligence-chatgpt-activity-7141419147279679488-ODMo/)
+  * [GPT-5.2 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide)
+    * 핵심: “무엇이 달라졌나 → 어떻게 프롬프트를 짜나 → 운영/마이그레이션”
+    * 1) GPT-5.2의 핵심 특성(행동 차이)
+      * 더 계획적(scaffolding)이고 구조적인 진행이 기본값, 범위/길이 제약을 명시할수록 성능 안정
+      * 전반적으로 불필요한 장황함이 줄고, 지시사항 준수(형식/의도)와 포맷 품질 강화
+      * 도구 사용은 신뢰성이 좋아졌지만, 상호작용 흐름에서 도구 호출이 더 많아질 수 있어 프롬프트로 최적화 여지가 있다고 안내
+      * 불확실한 상황에서 보수적(grounding bias) 으로 “정확성/근거”를 선호하므로, 애매함 처리는 프롬프트 설계가 중요
+    * 2) 프롬프팅 패턴(가이드가 반복 강조하는 설계 원칙)
+      * A. 길이·출력 형태를 ‘숫자/틀’로 고정
+        * “기본은 몇 문장/몇 개 불릿”, “복잡 작업은 짧은 개요 + 태그 달린 불릿 묶음”처럼 출력 상한과 형태를 구체적으로 주면 결과가 더 일관적
+      * B. 스코프 드리프트 방지(특히 프론트엔드/UX)
+        * GPT-5.2가 코드를 잘 쓰는 만큼 요구하지 않은 기능·스타일·컴포넌트를 추가할 위험이 있어, “요청한 것만”, “디자인 시스템 준수”, “임의 색/토큰/애니메이션 추가 금지”처럼 금지 규칙 명시 권장
+      * C. 장문 컨텍스트: 요약·재고정으로 “lost in the scroll” 방지
+        * 긴 문서/스레드/PDF에서는 (1) 관련 섹션 중심으로 짧은 아웃라인, (2) 사용자 제약조건(관할/기간/제품 등) 재명시, (3) 답변에서 근거를 섹션에 앵커링(“데이터 보존 섹션에 따르면…”)하는 패턴 권장
+      * D. 모호함·환각 리스크: “질문/가정/자기점검”을 규칙화
+        * 애매한 요구에는 1~3개의 정밀 질문 또는 2~3개 해석안 + 가정 라벨링을 지시
+        * 최신성이 중요한 외부 사실(가격/정책/출시 등)에서 도구가 없으면 일반론으로 답하고 변경 가능성을 고지
+        * 법무/금융/컴플라이언스 등 고위험 출력은 자기점검(근거 없는 수치/강한 단정/숨은 가정 제거) 규칙 필요
+    * 3) 장기 작업 운영: Compaction으로 유효 컨텍스트 확장
+      * 툴 호출이 많은 장기 워크플로우는 `/v1/responses/compact`로 대화 상태를 손실-인식 압축(opaque/암호화된 아이템)해 컨텍스트 한도를 넘지 않게 이어가도록 안내
+      * 운영 팁: 매 턴이 아니라 “큰 마일스톤 후”에 압축하고, 압축 결과는 내부를 파싱하지 말고 불투명 객체로 취급 권고
+    * 4) 에이전트 운영(업데이트/툴콜/병렬화)
+      * 사용자 업데이트는 짧게(1~2문장), 큰 단계 시작/계획 변경 시에만, “무엇을 발견/확인/수정했는지” 구체 결과를 포함하되, 불필요한 ‘도구 호출 내레이션’은 피하라고 제안
+      * 툴 사용은 “언제 어떤 툴을 쓰는지”를 1~2문장으로 명확히 쓰고, 독립적인 읽기 작업은 병렬화를 명시적으로 요구하며, 결제/인프라 같은 고영향 작업은 검증 단계를 강제 권고
+    * 5) PDF/오피스/추출 작업: 스키마가 성패를 좌우
+      * 표·PDF·이메일 등에서 구조화 추출은 스키마(JSON 형태)를 반드시 제공하고, 필수/선택 필드 구분, 누락은 null로(추측 금지), 완전성 재스캔 지시 필요
+    * 6) GPT-5.2로 마이그레이션(가장 실무적인 파트)
+      * `reasoning_effort`(none~xhigh)로 비용/지연 vs 추론 깊이를 고정하고, 이 값까지 포함해 “이전 모델과 동등한 동작”을 맞춘 뒤 변경 권고
+      * 기본 매핑 예: GPT-4o/4.1 → GPT-5.2는 기본을 none으로 두고, 회귀 시에만 올리는 접근 제시
+      * 절차: 모델만 교체(프롬프트는 그대로) → reasoning_effort 고정 → Evals로 베이스라인 → 회귀 시에만 프롬프트/effort를 “작게” 조정(한 번에 하나씩)
+    * 7) 웹 리서치 프롬프트 운영 원칙
+      * 검색 방식(2차 탐색, 모순 해소, 인용 포함 여부)과 “어디까지 더 조사할지(한계 효용 감소 시 종료)”를 처음부터 기준으로 작성
+      * 애매함은 “질문 늘리기”보다 지시로 범위를 포괄(가능한 의도를 커버)
+      * 출력 형식/톤(마크다운 구조, 비교표, 용어 정의, 비아첨 톤 등) 명시
   * [system_prompts_leaks/OpenAI/gpt-5-thinking.md at main · asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/blob/main/OpenAI/gpt-5-thinking.md)
 * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Prompt Engineering | Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
