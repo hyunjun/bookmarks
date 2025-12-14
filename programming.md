@@ -6204,6 +6204,8 @@ Programming
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
+* [GNU Unifont Glyphs](https://unifoundry.com/unifont/index.html)
+  * [GNU Unifont | GeekNews](https://news.hada.io/topic?id=25051)
 * Google Fonts
   * [Browse Fonts - Google Fonts](https://fonts.google.com/)
   * [Google Fonts Knowledge | GeekNews](https://news.hada.io/topic?id=5551)
