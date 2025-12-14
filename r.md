@@ -551,6 +551,7 @@ R
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * fpp2 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * fpp3 [시계열 공부 첫걸음 - 1강. 수업 교재 소개 및 fpp3 패키지 소개, timeplot 그리기 - YouTube](https://www.youtube.com/watch?v=1Y-xW5OU-Xo)
+* [freeCount: R shiny applications for various count data processing, assessment, and analyses](https://github.com/ElizabethBrooks/freeCount) 바이오정보학 앱
 * [fst - Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst)
   * [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
   * [R에서 테이블 형 객체를 파일단위로 저장할 때 특화된 fst package](https://lovetoken.github.io/r/2018/03/01/fstPackage.html)
