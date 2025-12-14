@@ -4971,6 +4971,7 @@ Python
 * [Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.](https://github.com/bytedance/Dolphin)
   * [Dolphin: A Framework for Converting PDFs to Structured Formats | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_turn-pdf-files-into-clean-llm-ready-data-activity-7376162117584027648-3yNM/)
   * [텍스트/표/수식/그림을 JSON/md로 변환하는 멀티모달 AI 모델 #bytedance #ticktok #acl_2025 #오픈소스 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-ticktok-aclabr2025-ugcPost-7378253258961637376-URw4)
+  * [🤖 Dolphin-v2: 바이트댄스의 혁신적인 문서 파싱 AI 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Dolphin-v2-%EB%B0%94%EC%9D%B4%ED%8A%B8%EB%8C%84%EC%8A%A4%EC%9D%98-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%AC%B8%EC%84%9C-%ED%8C%8C%EC%8B%B1-AI-%EB%AA%A8%EB%8D%B8)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
