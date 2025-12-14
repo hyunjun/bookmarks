@@ -2078,6 +2078,9 @@ Artificial Intelligence
 * [Metis is an open-source, AI-driven tool for deep security code review](https://github.com/0xSojalSec/metis)
 * [Mistral AI Studio - your AI production platform | Mistral AI](https://mistral.ai/products/ai-studio)
   * [🚀 Mistral AI Studio 출시: 기업 AI의 생산성 혁신을 위한 완성형 플랫폼](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Mistral-AI-Studio-%EC%B6%9C%EC%8B%9C-%EA%B8%B0%EC%97%85-AI%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%98%81%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%99%84%EC%84%B1%ED%98%95-%ED%94%8C%EB%9E%AB%ED%8F%BC)
+  * [Introducing: Devstral 2 and Mistral Vibe CLI. | Mistral AI](https://mistral.ai/news/devstral-2-vibe-cli)
+    * [Get started with Mistral Vibe | Mistral AI - Help Center](https://help.mistral.ai/en/articles/496007-get-started-with-mistral-vibe)
+    * [🚀 Mistral AI, Devstral 2와 Vibe CLI로 코딩 에이전트 시장에 도전장](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Mistral-AI-Devstral-2%EC%99%80-Vibe-CLI%EB%A1%9C-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%9E%A5%EC%97%90-%EB%8F%84%EC%A0%84%EC%9E%A5)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
@@ -2714,6 +2717,7 @@ Artificial Intelligence
     * [커서 Rule은 이 영상으로 끝납니다 | 개념부터 실전노하우까지 - YouTube](https://www.youtube.com/watch?v=5rCk0tjkvNM)
     * [AI로 디자인 진짜 잘하는법 - YouTube](https://www.youtube.com/watch?v=RnJkhxFMWDY)
   * [cursor-security-rules: This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development.](https://github.com/matank001/cursor-security-rules)
+  * [Cursor + v0.dev AI + 무료 강의 - YouTube](https://www.youtube.com/playlist?list=PLxPo6xFj6o5NyAaSBTOMYB1ik5oXpj6lU)
   * [Easiest Next.js with Cursor | EasyNext](https://easynext.org/)
   * figma
     * [Cursor AI로 Figma 플러그인 만들기, 비개발자도 할 수 있다! (MCP) - YouTube](https://www.youtube.com/watch?v=O1C7Pw_q6mc)
