@@ -1469,6 +1469,12 @@ Machine Learning
   * [Better tracking for your deep learning training - Wandb.ai (Weights & Biases) - YouTube](https://www.youtube.com/watch?v=LQvRhQwDOm0)
   * [Why Everyone Is Migrating from MLflow to Weights & Biases (W&B) in 2025 | by Weights & Biases Korea | Jul, 2025 | Medium](https://medium.com/@wandb-korea/why-everyone-is-migrating-from-mlflow-to-weights-biases-w-b-in-2025-12bb595c1b66)
 
+# Paper
+* [Nested Learning: The Illusion of Deep Learning Architecture](https://abehrouz.github.io/files/NL.pdf)
+  * [Introducing Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
+  * [Nested_Learning_A_New_Paradigm.pdf - Google Drive](https://drive.google.com/file/d/15qfM_QITJT_SllsZBXhyKz3-jz2tb5Qm/view)
+  * 기존의 역전파 , 모멘텀 , 트랜스포머등 기본적인 딥러닝의 고효율 방법론을 재해석한 연속 메모리 시스템을 기반으로한 Hope 라는 알고리즘으로 치명적 망각 문제와 모델의 정확도를 올리는 성과
+
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
