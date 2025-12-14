@@ -499,6 +499,7 @@ Artificial Intelligence
   * 실전 코드 예시
   * MCP 분석 및 다양한 아키텍처 패턴
   * ["Free 400+ page book on Agentic Design Patterns by Google Senior Engineer" | Stanislav Beliaev님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/stasbel_google-senior-engineer-just-dropped-a-activity-7368993979100504068-s7Fp)
+  * [Agentic_Design_Patterns.pdf at main · sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/blob/main/Agentic_Design_Patterns.pdf)
 * [Event-Driven Agent Mesh. What is an Agent? | by Hubert Dulay | Medium](https://medium.com/@hubert.dulay/event-driven-agent-mesh-be29f1c36932)
   * AI 에이전트(Agent): 사용자를 대신해 작업을 수행하는 자율 시스템으로, 간단한 챗봇에서부터 복잡한 의사결정 시스템까지 포함
   * 에이전트 메시(Agent Mesh): 이벤트 기반 아키텍처(EDA)의 개념을 도입한 구조로, 여러 자율 에이전트가 독립적으로 특화된 작업을 수행하면서 상호 협력할 수 있게 설계된 네트워크
@@ -2390,6 +2391,8 @@ Artificial Intelligence
     * 7. Context Window Info in Status Line (상태 표시줄에 컨텍스트 정보)
   * [Amazon Bedrock의 Claude Code | AWS Startups](https://aws.amazon.com/startups/build/claude-code-with-bedrock)
     * [Claude Code With Amazon Bedrock | Taehyun Kim](https://www.linkedin.com/posts/taehyun-kim-33637922_claude-code-with-amazon-bedrock-activity-7404743670693912576-xwm3)
+  * [AI 코딩 TDD 사이클: 클로드 코드로 RSA 암호화 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3489/)
+    * [AI 코딩 TDD 사이클 공개! 대교 개발자 바이브코딩 실전 노하우(클로드 코드로 RSA 앱 개발) - YouTube](https://www.youtube.com/watch?v=GdFbZxDLg-g)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
