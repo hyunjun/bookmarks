@@ -2956,6 +2956,7 @@ Docker
   * [Linux desktop, inside of a container, inside of a browser??? Yes. A Webtop. - YouTube](https://www.youtube.com/watch?v=Gd9bvdkIXOQ)
     * [Linux desktop, inside of a container, inside of a browser??? Yes. A Webtop. | Techno Tim](https://technotim.live/posts/webtop-container/)
   * [서버포럼 - 리눅스데스크탑을 웹으로? Webtop 소개](https://svrforum.com/svr/349515)
+* [docker-wine: Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS](https://github.com/scottyhardy/docker-wine)
 * [dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start](https://github.com/goodwithtech/dockle)
 * [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku ](https://github.com/dokku/dokku)
   * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
