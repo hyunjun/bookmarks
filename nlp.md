@@ -1360,6 +1360,17 @@ NLP
 * [😇👀 프롬프트 초보자들이여, Prompt Library를 보라! #promptengineering #chatgpt - YouTube](https://www.youtube.com/watch?v=HFOCLRhvSis)
   * [초보자들을 위한 챗GPT 프롬프트 라이브러리 활용법 (feat. 오픈 AI 아카데미, GPTs, 프롬프트 제너레이터)](https://livewiki.com/ko/content/prompt-library-beginners-chatgpt)
 * [“심호흡해”라는 한 마디가 AI 정확도를 끌어 올렸습니다 Google DeepMind 연구팀이 흥미로운 실험을 했습니다. AI에게 수학 문제를 풀게 하면서 프롬프트에 “심호흡하고 차근차근 풀어봐”라는 한 줄을 추가했습니다. 정확도가 34%에서 80%로 뛰었습니다. 물론 이 상승분 전체가 “심호흡” 덕분은 아닙니다. “차근차근 단계별로”만 추가해도… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EC%8B%AC%ED%98%B8%ED%9D%A1%ED%95%B4%EB%9D%BC%EB%8A%94-%ED%95%9C-%EB%A7%88%EB%94%94%EA%B0%80-ai-%EC%A0%95%ED%99%95%EB%8F%84%EB%A5%BC-%EB%81%8C%EC%96%B4-%EC%98%AC%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-google-deepmind-activity-7402925259915735040-hN5f)
+* ["논문, 보고서 요약해줘"라고 AI한테 시키는 것이 '최악의 프롬프팅'인 이유(이제현 박사) - YouTube](https://www.youtube.com/watch?v=vq5mTwRjikQ)
+  * [AI 활용의 함정: 논문/보고서 요약 시 환각과 오류 피하는 법 (이재현 박사)](https://livewiki.com/ko/content/ai-worst-prompting-reason)
+    * '요약' 대신 '발췌'를 권장, 환각 발생 감소
+* [안드레이 카파시가 오늘 매우 유익한 팁](https://www.facebook.com/564625039/posts/10163575527660040/)
+  * LLM을 어떤 “존재”로 생각하지 말고 시뮬레이터로 생각하세요. 예를 들어, 어떤 주제를 탐구할 때 이렇게 묻지 마세요:
+    * “너는 xyz에 대해 어떻게 생각해?”
+  * “너”라는 존재는 없습니다. 대신에 이렇게 시도해보세요:
+    * “어떤 그룹이 xyz를 탐구하기에 좋은 사람들일까? 그들은 뭐라고 할까?”
+  * LLM은 다양한 관점을 전달/시뮬레이션할 수 있지만, xyz에 대해 오랜 시간 스스로 “생각해본” 적이 없고, 자신의 의견을 형성한 것도 아닙니다
+  * 따라서 질문에 “너”라는 표현으로 강제하면, 파인튜닝 데이터의 통계에 암시된 특정 페르소나 임베딩 벡터를 채택해 그걸 시뮬레이션 할 뿐입니다
+  * 그렇게 물어봐도 괜찮지만, 사람들이 “AI에게 묻는다”는 것에 부여하는 신비함은 사실 생각보다 훨씬 덜합니다
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
