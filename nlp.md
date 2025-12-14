@@ -3807,6 +3807,10 @@ NLP
     * 두 가지 Sleep Mode(레벨 1/2)를 지원하며, 각각 속도와 CPU 메모리 사용량 조정
     * 실제 벤치마크에서 모델 전환이 최대 200배, 추론속도가 61~88% 향상
     * 즉, 멀티모델 GPU 서빙 환경에서 효율성과 속도 획기적 개선
+  * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
+    * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
+    * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
+    * [nanoRLHF/nanorlhf/nanovllm at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/tree/main/nanorlhf/nanovllm)
 * VRAM & Performance Calculator [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator)
   * [내 맥북에서 어떤 LLM까지 돌릴 수 있을까? ](https://www.facebook.com/syp.sypark/videos/1404010003932593)
 * [webGPT: LLM이 Human Sequence of Actions을 모방할 수 있는가? | OPENAI 2021 | 조용래 - YouTube](https://www.youtube.com/watch?v=0yMZyIru-X0)
