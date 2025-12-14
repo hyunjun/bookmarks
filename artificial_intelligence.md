@@ -733,6 +733,8 @@ Artificial Intelligence
   * Context engineering은 AI 에이전트가 진행하는 각 단계에서 필요한 정보를 적절히 선택하여 문맥 창에 채우는 기술
   * 에이전트의 정확도와 효율성을 높이기 위한 핵심 기법
   * "작업성과, 연산 효율성, 그리고 의사결정 품질 향상 목적"
+* [프롬프트 엔지니어링 상위 1%는 '설계'를 합니다 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=0OXCyl5Rai4)
+  * [프롬프트 엔지니어링의 한계와 컨텍스트 엔지니어링의 중요성: AI 시스템 설계의 핵심](https://livewiki.com/ko/content/prompt-engineering-context-design)
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
