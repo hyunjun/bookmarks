@@ -419,6 +419,13 @@ Monitoring
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=EJc3ppBJZrw)
   * [From k9s to OpenTelemetry: A guide to observability for your apps in K8s by Matthias Haeussle - YouTube](https://www.youtube.com/watch?v=piM7PEswmso)
   * [Observability 101 with Spring and Micrometer by Nele Uhlemann - YouTube](https://www.youtube.com/watch?v=Ssje93u2GWM)
+  * [OpenTelemetry for Go: Measuring the Overhead - DEV Community](https://dev.to/coroot/opentelemetry-for-go-measuring-the-overhead-dpi)
+    * 관측성(Observability) 도입은 항상 비용-가치 트레이드오프 존재
+      * 그 비용을 “감”이 아니라 벤치마크 수치로 제시
+    * Go에서 OpenTelemetry 트레이싱을 활성화하면, 벤치마크 결과
+      * CPU 오버헤드 약 35% 증가, p99 지연이 10ms → 15ms로 악화, 메모리 사용량 대략 50~80% 증가
+    * 결론적으로 비용이 작지 않지만, 가시성이 실제로 중요한 서비스라면 대다수 유스케이스에서 치명적이기보다는 수용 가능한 수준
+      * 다른 환경에서도 유사한지 비교·검증해 볼 만하다는 논지
   * [opentelemetry-with-scala-futures: Example Play Scala application with OpenTelemetry instrumentation and detailed walkthrough](https://github.com/wsargent/opentelemetry-with-scala-futures)
   * [otel4s: An OpenTelemetry library for Scala based on Cats-Effect](https://github.com/typelevel/otel4s)
     * [Distributed Context Propagation with otel4s | Matt Langsenkamp](https://mattlangsenkamp.github.io/posts/otel4s-context-propagation/)
