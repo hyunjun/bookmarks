@@ -2166,6 +2166,8 @@ Docker
     * [ArgoCD와 GitOps를 인터넷(IGW) 없는 환경에서 구축하기 - 정영진, LG U+AWS :: Community Day 2023 - YouTube](https://www.youtube.com/watch?v=xNdVGmYuVdA)
     * [The Argo CD MCP Server | Akuity](https://akuity.io/blog/argo-cd-mcp-server)
     * [ArgoCD vs FluxCD? #devops #kubernetes #gitops #argocd #fluxcd | Victor M.](https://www.linkedin.com/posts/victor-maltsev_devops-kubernetes-gitops-activity-7383850345053044736-FOVl)
+    * [Argo CD, Linkerd 기반 QA 병목 제거: PR Preview 환경 구축](https://tech.inflab.com/20251121-pr-preview/)
+      * [Argo CD, Linkerd 기반 QA 병목 제거: PR Preview 환경 구축 | 이동욱](https://www.linkedin.com/posts/jojoldu-%EC%9D%B4%EB%8F%99%EC%9A%B1_argo-cd-linkerd-%EA%B8%B0%EB%B0%98-qa-%EB%B3%91%EB%AA%A9-%EC%A0%9C%EA%B1%B0-pr-preview-activity-7403927513703428096-I7Dc)
     * [malwareanalysis.tistory.com/search/ArgoCD](https://malwareanalysis.tistory.com/search/ArgoCD)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
