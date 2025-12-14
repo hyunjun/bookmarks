@@ -1816,6 +1816,8 @@ Artificial Intelligence
 * [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
   * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
 * [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
+* [“90일마다 갈아엎는 AI 스택” 너무 빠른 기술 진화의 역설 | CIO](https://www.cio.com/article/4103768/90%ec%9d%bc%eb%a7%88%eb%8b%a4-%ea%b0%88%ec%95%84%ec%97%8e%eb%8a%94-ai-%ec%8a%a4%ed%83%9d-%eb%84%88%eb%ac%b4-%eb%b9%a0%eb%a5%b8-%ea%b8%b0%ec%88%a0-%ec%a7%84%ed%99%94%ec%9d%98.html)
+  * “가장 먼저 해야 할 일은 ‘AI가 어디서부터 개입하는지, 기대하는 성능 수준은 무엇인지, 무엇을 달성해야 좋은 결과로 볼 것인지, 실제로 어떤 도구를 사용할 것인지’를 매우 구체적으로 정의하는 것이다”라고 강조
 * [충격적입니다. Claude Code 가 Cursor를 앞질렀고, 6개월 안에 Copilot도 제끼고 1등입니다.. 사티아(MS CEO)가 "1등이지만, 혁신 안 하면 죽는다"라고 말했습니다. 모든 자료를 모은 NotebookLM 에서 보세요. Claude Code, Cursor, Copilot이 모두 약 10억 달러 규모의 비슷한 수익을 내고 있고… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9E%85%EB%8B%88%EB%8B%A4-claude-code-%EA%B0%80-cursor%EB%A5%BC-%EC%95%9E%EC%A7%88%EB%A0%80%EA%B3%A0-6%EA%B0%9C%EC%9B%94-%EC%95%88%EC%97%90-activity-7395585141512966146-OT1U)
 * [Build for the Future 2025.. : 네이버블로그](https://blog.naver.com/bcg_kr/224073406379)
   * 핵심 비즈니스 영역에서의 가치 창출
@@ -1844,6 +1846,10 @@ Artificial Intelligence
     * 중국이 원천 발명은 서구에 뒤졌지만 점차 독창을 만들 것이라는 낙관
   * 청년 커리어 조언은 “돈, 단기지표에 매몰되지 말고 시대의 최전선에서 큰 문제에 베팅하라”, “실패는 가설 실험이며 자산”
   * AGI/자동화로 생기는 잉여 인력은 재교육, 전환이 사회적 과제가 된다
+* [Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)
+  * 리눅스 재단이 2025년 12월 9일 AAIF 발표
+  * 앤트로픽, 블록, 오픈AI의 프로젝트(MCP, goose, AGENTS.md) 기여로 에이전틱 AI의 오픈 표준과 생태계 구축
+* [마이크로소프트가 전망하는 2026년 AI 7대 트렌드: “도구에서 파트너로의 진화”](https://www.techsuda.com/microsoft-7trendstowatchin2026/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2487,6 +2493,9 @@ Artificial Intelligence
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
+* [continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging](https://github.com/AnandChowdhary/continuous-claude)
+  * [Continuous Claude / 2025 / Open Source / Anand Chowdhary](https://anandchowdhary.com/open-source/2025/continuous-claude)
+  * [Continuous Claude - 클로드 코드를 반복 실행해 PR 생성·체크·머지까지 자 | GeekNews](https://news.hada.io/topic?id=24928)
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
   * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
