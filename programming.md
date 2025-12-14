@@ -5618,6 +5618,10 @@ Programming
 * [김승주 - 이번 쿠팡 청문회에 참고인으로 출석하게 되니, 많은 언론에서 “교수님이라면 어떤 질의를 하시겠습니까?”라고... | Facebook](https://www.facebook.com/skim71/posts/pfbid0dQPJ2CC7vmczPBBKNoPu1aVohNvjAbAdvudtmbagoySLXvJK9AJ3YESDshkdgw2El)
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
+* [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
+  * [전종홍 - “아주 단순한 무작위 변형과 반복 시도만으로도, 현존 최고 수준의 안전 장치가 얼마나 쉽게 무너질 수... | Facebook](https://www.facebook.com/1biit/posts/pfbid023K2XoAyrxExs1xZfVQFGzcNxTvcEBJUqJMKVz2oSVYvjmJk55n6VGqZTU5cWQKiPl)
+* [2512.09882 Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882) ARTEMIS
+  * [인간해커를 능가해버린 인공지능 해커 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ukstnd-ai-suaqtztfmqvz-activity-7405010750043435008-Xwtg)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
