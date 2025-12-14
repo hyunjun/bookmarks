@@ -591,9 +591,18 @@ Artificial Intelligence
   * [이상선 - 마소에서 공개한 Agent 튜닝/최적화/관리 오픈소스 tool 링크... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02JdDUk4esoRE1sBWameKuj14ETgxsZaEiYH3uxhXpLhehSBmXz3W1RXNpQMSmYqw6l)
   * [코드변경 없이 모든 AI 에이전트를 최적화 가능한 강화학습 머신으로 변환해주는 오픈소스 프레임워크 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoft-activity-7391613983985852416-mKXy)
 * [AGENTS.md](https://agents.md/)
+  * [바이브 코딩 시대의 정석: 에이전트용 프롬프트부터 설계하라](https://www.facebook.com/lsszz1/posts/pfbid0Cf9VWSPGp5ffGsdKYBASbE2jsg8n3PuY4LofPn7nnsFfknYfjwDte15Ge2Vm79Nil)
+    * 실제 코딩 전에 모델에게 먼저 다음 문서를 생성하게 할 것
+      * README.md: 사람(개발자)을 위한 프로젝트 설명
+      * [agents.md](https://agents.md/): 코딩 에이전트를 위한 작업 규칙·맥락
+      * [Claude.md](https://code.claude.com/docs/): Claude 전용 가이드(Claude 사용 시)
+      * agents.md 품질을 높이기 위해, 모델에게 참고 레포지토리 분석을 먼저 요청하는 것이 중요
+      * 생성된 파일들을 프로젝트 루트 디렉터리에 배치한 뒤 Codex/제미나이/클로드 또는 사용하는 코딩 에이전트 실행
+      * 이렇게 하면 에이전트가 맥락을 정확히 이해한 상태로 코딩 시작
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
+  * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno/tree/main)
@@ -1816,9 +1825,23 @@ Artificial Intelligence
 * [Pentagon launches GenAI.mil military platform powered by Google Gemini | Fox Business](https://www.foxbusiness.com/technology/pentagon-launches-military-ai-platform-powered-google-gemini-defense-operations)
   * [최인식 - <<GenAI.mil이 여는 ‘AI 전장 혁명’…한국은 무엇을 준비해야 하나>> 미국 국방부가 공식 출범한... | Facebook](https://www.facebook.com/kooksung/posts/pfbid02bCVrRBDfhF7mkj48DNWzsK9hSSFv5KqWu9wX44d7DVZELNBT643oGgixFoiMTYeYl)
 * [How AI Is Transforming Work at Anthropic \ Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic?ref=stdy.blog)
+  * Anthropic 사내 엔지니어, 리서처 대상 설문(132명), 인터뷰(53명), Claude Code 사용데이터(약 20만 기록)로, AI가 업무를 어떻게 바꾸는지 분석
+    * 결과적으로 Claude는 디버깅, 코드 이해, 기능 구현에서 활용이 크고, 구성원들은 평균 생산성 향상(자가보고 약 +50%)과 “없었으면 안 했을 일”의 증가 보고
+    * 동시에 검증(리뷰) 부담, 깊은 역량 약화 우려(감독의 역설), 협업/멘토링 방식 변화, 커리어 불확실성 같은 부작용도 함께 제기
+    * 사용데이터 상으로도 시간이 갈수록 Claude가 더 복잡한 작업을 더 자율적으로 수행하고, 기능 구현, 설계/플래닝 비중이 늘어난 흐름
   * [현재 하고 있는 일 중 AI가 없었다면 아예 하지 않았을 업무는 무엇인가요?](https://www.stdy.blog/wouldnt-even-try-without-ai/)
     * [(1) 배휘동 - 현재 하고 있는 일 중 AI가 없었다면 아예 하지 않았을 업무는 무엇인가요? (블로그에서 보기:... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0gwbEK1LeLDTvdgjE5fjsBvnBdvg27QhSgkEmDVD2YRBEd45LcgfUSjHPp6V5mP6nl)
   * [AI는 Anthropic의 업무를 어떻게 바꾸고 있는가 | GeekNews](https://news.hada.io/topic?id=24824)
+* [런정페이 화웨이 회장이 국제프로그래밍 대회 수상자들과 대화의 시간](https://www.facebook.com/jhkim1973/posts/pfbid02hR7TcZYzNMX76KqtMCLbrGCkGGUhFzEpZL7Ust3uxk9QNrXKndhq5NUUp2MPtEqal)
+  * 핵심 메시지는 “연구로 가능한 한 정상까지 올라가라. 더 못 오르면 내려오며 곳곳에서 성과(알)를 낳는다”는 도전과 장기지향 권유
+  * 런정페이는 AI의 장기 미래(수십~수백년)는 자신이 답할 영역이 아니라고 선을 긋고, 화웨이는 향후 3~5년의 LLM·빅데이터·컴퓨팅을 산업 현장에 적용하는 데 집중
+  * 특히 “발명”보다 “응용” 강조
+    * 고로 제철의 열효율 1% 개선, 석탄 세척 정밀도 0.1% 개선처럼 현장 공정의 미세 개선이 막대한 경제적 가치를 만든다는 관점
+    * e.g. 광산 무인화, 자율주행, AI 어시스턴트 등
+  * 교육에 대해선 학교는 0→1 혁신(실패 허용), 기업은 이를 현실 가치로 전환하는 역할 분담 제시
+    * 중국이 원천 발명은 서구에 뒤졌지만 점차 독창을 만들 것이라는 낙관
+  * 청년 커리어 조언은 “돈, 단기지표에 매몰되지 말고 시대의 최전선에서 큰 문제에 베팅하라”, “실패는 가설 실험이며 자산”
+  * AGI/자동화로 생기는 잉여 인력은 재교육, 전환이 사회적 과제가 된다
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1878,6 +1901,20 @@ Artificial Intelligence
       * 공통된 '지도' 하나와 각 모델의 고유한 '경로' 정보만 저장
     * 새로운 작업을 학습할 때, 우리는 더 이상 모델의 모든 가중치 조정 불필요
       * 대신, 이 보편적 공간 위에서 아주 적은 수의 '계수(coefficients)'만 학습
+* [2512.06506v1.pdf AI as “Co-founder”: GenAI for Entrepreneurship](https://arxiv.org/pdf/2512.06506)
+  * [AI co-founder 라는 새로운 관점의 흥미로운 논문](https://www.facebook.com/socialego/posts/pfbid029DWWqWBzUuS9dXRQqiXWMKUtWNFiKTQjp8zc2rtQFTjJFLax9nESc2qRDz8Qo5abl)
+    * 연구진은 중국 전역에서 2021~2024년 사이 새로 설립된 기업 약 1,280만 개 분석
+      * 2022년 11월 ChatGPT 공개를 기준으로, 생성형 AI가 창업에 어떤 영향을 미쳤는지를 살펴본 연구
+    * 결과는 소규모 기업 창업 급증, 대규모 기업 신규 설립 감소
+      * 전체 창업 증가분의 약 6%가 생성형 AI 확산 효과로 설명. 즉, 창업은 늘었지만 그 형태가 달라졌다는 결론
+    * 이제는 작고 빠르게 시작하는 회사가 새로운 표준
+      * 생성형 AI가 사람과 자본, 조직의 일부 역할을 대신하면서, 기업이 반드시 커야 할 이유가 줄어들었기 때문
+      * 창업의 문턱은 낮아졌고, 회사는 더 작아지고, 팀은 줄었고, 자본은 가벼워짐
+      * 특히 인상적인 점은 이 변화의 중심에 처음 창업하는 사람들이 있다는 사실
+        * 경험이 부족해도 AI가 그 공백을 보충
+    * AI가 일자리를 빼앗을 것인가라는 질문은 다소 식상
+      * 더 중요한 변화는 AI가 회사를 소수의 인원으로도 만들 수 있게 하고 있다는 점
+      * AI는 사람을 해고하는 존재라기보다, 선택지를 늘려주는 기술
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
