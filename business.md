@@ -2298,6 +2298,10 @@ Business
       * 새로 합류한 팀원이 나에게 피드백을 주어 예상치 못한 방향으로 나를 밀었을 때, 초기 대화를 거쳐 불편함을 해소하고 더 나은 방향으로 유도
       * 회사 전체가 안전하게 느껴지고 피드백을 서로 주고받을 수 있는 문화가 조성되어 작은 회사에서부터 시작된 문화가 놀라운 변화 유도
 * [멘토링의 시작: 멘티가 알아야 할 것들](https://brunch.co.kr/@yongjinjinipln/130)
+* [오픈형 멘토링: 프로젝트 성공 방정식, 협업과 커뮤니케이션 그리고 글로벌 관점 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=5-418R-RunA)
+  * [오픈형 멘토링: 프로젝트 성공 방정식, 협업과 커뮤니케이션 그리고 글로벌 관점 #우아콘2025 #우아한형제들](https://livewiki.com/ko/content/open-mentoring-project-success)
+* [오픈형 멘토링: 정신차려보니 시니어, 좋은 중니어+a 되기 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=TZfL1VHt--0)
+  * [정신 차려보니 시니어, 좋은 중니어+a 되기](https://livewiki.com/ko/content/open-mentoring-senior-junior)
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
 * [혼내는 것도 요령이 있다](http://moneyman.kr/archives/1584)
