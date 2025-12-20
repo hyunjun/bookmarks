@@ -552,6 +552,7 @@ Artificial Intelligence
 * [Introducing Agent HQ: Any agent, any way you work - The GitHub Blog](https://github.blog/news-insights/company-news/welcome-home-agents/)
   * [Introducing Agent HQ: Any agent, any way you work | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-agent-hq-any-agent-any-way-activity-7389411287853821952-3kK_)
 * [Multi Agent 시스템 Scaling Out Architecture(Hybrid Cloud) | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_multi-agent-%EC%8B%9C%EC%8A%A4%ED%85%9C-scaling-out-architecture-ugcPost-7389311558046138368-Wcwh)
+* [Armchair Architects: Best Practices For Architecting AI Agents - YouTube](https://www.youtube.com/watch?v=pwtY8O_YvSI)
 * [Agentic AI의 엔지니어링 복잡도 작년부터 Agentic AI가 시장에서 급부상하며 온갖 기술 논의의 중심에 서있습니다. AI 도메인에 종사하지 않는 사람이라도 MCP, Agent라는 말을 많이 들어보셨을 겁니다. 이 글은 지난 1년 반 동안 AI 도메인 최전선에서 개발했던 경험을 다룹니다. 제가 만들던 앱은 순도 99% LLM으로… | Sin-Woo Bang](https://www.linkedin.com/posts/sinwoobang_agentic-ai%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EC%9E%91%EB%85%84%EB%B6%80%ED%84%B0-agentic-ai%EA%B0%80-%EC%8B%9C%EC%9E%A5%EC%97%90%EC%84%9C-activity-7387109850272522240-_JWu)
 * [New trend: programming by kicking off parallel AI agents - The Pragmatic Engineer](https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/)
   * 여러 AI 코딩 에이전트를 병렬로 실행해 작업 효율을 높이는 새로운 프로그래밍 트렌드 설명
