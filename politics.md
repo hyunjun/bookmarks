@@ -176,7 +176,7 @@ Politics
     * [각자도생](http://www.huffingtonpost.kr/dongchoon-kim-/story_b_7549980.html)
     * [메르스 대응, 왜 실패했나](http://www.huffingtonpost.kr/sangyun-lee/story_b_7558104.html)
     * [낡은 정부의 혁신 없이 메르스 통제도 없다](http://ppss.kr/archives/48476)
-    * [MERS Tarnishes Korean President’s Image as Leader](http://www.nytimes.com/2015/06/13/world/mers-tarnishes-korean-presidents-image-as-leader.html?smid=pl-share&_r=0)
+    * [MERS Tarnishes Korean President’s Image as Leader](http://www.nytimes.com/2015/06/13/world/mers-tarnishes-korean-presidents-image-as-leader.html)
       * [메르스 대응 과정에서 도마 위에 오른 박근혜 대통령의 리더십](http://newspeppermint.com/2015/06/14/merspark/)
     * [격리병실 의료진과 통화하는 박 대통령](http://media.daum.net/politics/others/newsview?newsid=20150614164013014)
     * [환상의 콤비…BH와 삼성](http://newstapa.org/26605)

@@ -82,7 +82,7 @@ Nomad & Remote
 * [한국(+마국밖에서) 실리콘밸리 취업 준비 시작하기](http://blog.naver.com/shberry16/220793580210)
 * [유학 경험 없이 미국 실리콘밸리 기업에서 일할 수 있었던 이유](http://outstanding.kr/davejin20170520/)
 * [실리콘밸리에서 연봉 15만불을 번다면 어느정도의 삶을 살 수 있을까](https://medium.com/@sj.sweetest/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EC%97%B0%EB%B4%89-15%EB%A7%8C%EB%B6%88%EC%9D%84-%EB%B2%88%EB%8B%A4%EB%A9%B4-%EC%96%B4%EB%8A%90%EC%A0%95%EB%8F%84%EC%9D%98-%EC%82%B6%EC%9D%84-%EC%82%B4-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-e22e8811dad4)
-* [Is It Better to Rent or Buy?](http://www.nytimes.com/interactive/2015/06/17/upshot/100000002894612.app.html?smid=fb-nytimes&smtyp=cur&_r=0)
+* [Is It Better to Rent or Buy?](http://www.nytimes.com/interactive/2015/06/17/upshot/100000002894612.app.html)
 * [Open Working immigration](https://docs.google.com/spreadsheets/d/1GjTX5SOHNpPUq6efgo7_HU_8GQg_0SLoTA8R_3Vt3V0/edit#gid=372744243)
 * [X 같은 미국의 건강보험제도](http://ppss.kr/archives/56911)
 * [Large Companies Game H-1B Visa Program, Costing the U.S. Jobs](http://www.nytimes.com/2015/11/11/us/large-companies-game-h-1b-visa-program-leaving-smaller-ones-in-the-cold.html?_r=0)
