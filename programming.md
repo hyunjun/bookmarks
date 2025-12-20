@@ -1976,9 +1976,14 @@ Programming
 * [The Role of a System Architect - DEV Community](https://dev.to/jesalg/the-role-of-a-system-architect-1pgl)
 * [Who Needs An Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
   * [소프트웨어 아키텍트가 필요한가? – Martin Fowler의 이야기](https://www.linkedin.com/pulse/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-martin-fowler%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-toby-lee-ldcke) 아키텍트는 “답을 내려주는 사람”이 아니라, 팀이 더 좋은 답을 찾게 도와주는 사람
+* [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
 * [VDBUH2024 - Simon Brown - Five things every developer should know about software architecture - YouTube](https://www.youtube.com/watch?v=wcrloUXSFgY) architect
   * [VidiGo VDBUH2024 - Simon Brown - Five things every deve](https://vidigo.ai/share/summary/f821f67b51d4)
   * [VDBUH2024 - Simon Brown - 모든 개발자가 소프트웨어 아키텍처에 대해 알아야 할 5가지 사항 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/526804)
+* [**Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020 - YouTube**](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+  * C4 model, diagrams are maps
+  * [Simon Brown on Twitter: "I'll keep saying this ... if people can't build monoliths properly, microservices won't help. #qconlondon #DesignThinking #Modularity" / Twitter](https://twitter.com/simonbrown/status/573072777147777024)
+  * [Architect Clippy on Twitter: "I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?" / Twitter](https://twitter.com/architectclippy/status/570025079825764352)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
@@ -2178,11 +2183,6 @@ Programming
 * [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
 * [**LINE 트랜스코딩 서버 아키텍처 개선기 – 2**](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-2/)
 * [주제별 영상 제공 웹 서비스](https://zuminternet.github.io/ZUM-Pilot-provide-video/) architecture diagram까지 이어지는 문서 작성에 대해 볼만함
-* [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
-* [**Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020 - YouTube**](https://www.youtube.com/watch?v=9Az0q2XHtH8)
-  * C4 model, diagrams are maps
-  * [Simon Brown on Twitter: "I'll keep saying this ... if people can't build monoliths properly, microservices won't help. #qconlondon #DesignThinking #Modularity" / Twitter](https://twitter.com/simonbrown/status/573072777147777024)
-  * [Architect Clippy on Twitter: "I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?" / Twitter](https://twitter.com/architectclippy/status/570025079825764352)
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
 * [How to Draw Useful Technical Architecture Diagrams | by Jimmy Soh | The Internal Startup | Jun, 2020 | Medium](https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d)
 * [Creating Software with Modern Diagramming Techniques: Build Better Software with Mermaid | gotopia.tech](https://gotopia.tech/episodes/298/creating-software-with-modern-diagramming-techniques-build-better-software-with-mermaid)
@@ -2283,6 +2283,8 @@ Programming
 * [How I scaled a software system's performance by 35,000% | by Joseph Gefroh | The Startup](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
 * [The Evolution of Precomputation Technology and its Role in Data Analytics](https://www.infoq.com/articles/evolution-precomputation-technology-data-analytics/)
 * [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
+* [Why Software Architecture is Mostly Communication • David Whitney, Ian Cooper & Hannes Lowette - YouTube](https://www.youtube.com/watch?v=8y4FUEk52QM)
+  * [소프트웨어 아키텍처는 주로 소통이다 • David Whitney, Ian Cooper & Hannes Lowette](https://livewiki.com/ko/content/software-architecture-communication)
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
 * [결제 제휴를 통해 보다 편하게 결제할 수 있는 세상 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-pay-payment-alliance-cross-border/)
