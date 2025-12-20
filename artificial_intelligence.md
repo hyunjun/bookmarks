@@ -563,6 +563,8 @@ Artificial Intelligence
   * [LLM 기반 멀티 에이전트 UX 플랫폼 '앤소나' 개발기: 사용자 재현과 협업적 리서치 혁신](https://livewiki.com/ko/content/ai-voice-llm-multi-agent)
 * [5개의 논문, 하나의 결론 - 구글은 에이전트의 미래를 연 것이 아니라, 사실 그 한계를 고백했다 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_slsstwswktxu-ai-suaqtztfmqvz-activity-7404634861568839681-hUCF/)
   * [5-Day AI Agents Intensive Course with Google | Kaggle](https://www.kaggle.com/learn-guide/5-day-agents)
+* [**AI 에이전트 오케스트레이션 4단계 실전 가이드 | 요즘IT**](https://yozm.wishket.com/magazine/detail/3503/)
+  * [개발 업무 99% 자동화? AI 오케스트레이션 실전 가이드 (LangGraph 활용) - YouTube](https://www.youtube.com/watch?v=dh6tkvH6psQ)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -2045,6 +2047,7 @@ Artificial Intelligence
     * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
   * [캐럿 라우터, 왜 LiteLLM에서 any-llm으로 옮겼나 | Caret](https://caret.team/ko/blog/202512131111)
 * [automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.](https://github.com/cporter202/automate-for-growth)
+* [awesome-ai-tools: A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐](https://github.com/cporter202/awesome-ai-tools)
 * [bananalyzer: Open source AI Agent evaluation framework for web tasks 🐒🍌](https://github.com/reworkd/bananalyzer)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
@@ -2444,6 +2447,8 @@ Artificial Intelligence
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
+  * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
+    * [30가지 이상의 Claude Code 활용 팁 모음 (feat. ykdojo/claude-code-tips) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/30-claude-code-feat-ykdojo-claude-code-tips/8368)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
   * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context)
     * [RAG engine for deep document understanding](https://aiengineering.beehiiv.com/p/rag-engine-for-deep-document-understanding)
