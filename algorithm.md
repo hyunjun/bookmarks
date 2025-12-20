@@ -443,6 +443,8 @@ Algorithm
 * [Union-Find 알고리즘](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
 * [What is the most underrated data structure?](https://www.quora.com/What-is-the-most-underrated-data-structure)
 * [Union-Find Algorithm | Dev Log](https://reactiver.dev/union-find-algorithm/)
+* [Docling 코딩 인터뷰 실전 적용: LLM을 위한 Union-Find와 Spatial Indexing](https://codepointerko.substack.com/p/docling-llm-union-find-spatial-indexing)
+  * [이용균 - 취준을 하던 시절 자료구조 알고리즘 문제를 풀며 ‘실제로 잘 쓰지도 않는 거 열심히 연습해서 뭐해’라고 종종... | Facebook](https://www.facebook.com/yongkyun.lee.12/posts/pfbid02b3YkFP1MeCj9pMrPBEP8Zv143CDKTAVB1MejZDNaKeZ3LKTmsC2BK1jrSA6Dg3DSl)
 
 # Dynamic Programming
 * [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
