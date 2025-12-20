@@ -4686,6 +4686,8 @@ Business
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
 * [Bing AI의 UX분석하기: 유저 습관 만드는 '훅'모델과 함께 | 요즘IT](https://yozm.wishket.com/magazine/detail/2054/)
+* [Silicon clay: how AI is reshaping UX design | by Andrew Tipp | Dec, 2025 | UX Collective](https://uxdesign.cc/silicon-clay-how-ai-is-reshaping-ux-design-42cb0de93680)
+  * [AI가 UX 디자인을 어떻게 재편하고 있는가 | GeekNews](https://news.hada.io/topic?id=25111)
 * [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
 * [VDIASI23 - Simone de Gijt - Co-creation between UX and Software - YouTube](https://www.youtube.com/watch?v=CwHZle02rwg)
 * [How to make programmers happy and design-to-developer handoff less painful | by Helen Shabanova | Bootcamp](https://bootcamp.uxdesign.cc/how-to-make-programmers-happy-and-design-to-developer-handoff-less-painful-e0a0a299614f)
