@@ -1371,6 +1371,8 @@ NLP
   * LLM은 다양한 관점을 전달/시뮬레이션할 수 있지만, xyz에 대해 오랜 시간 스스로 “생각해본” 적이 없고, 자신의 의견을 형성한 것도 아닙니다
   * 따라서 질문에 “너”라는 표현으로 강제하면, 파인튜닝 데이터의 통계에 암시된 특정 페르소나 임베딩 벡터를 채택해 그걸 시뮬레이션 할 뿐입니다
   * 그렇게 물어봐도 괜찮지만, 사람들이 “AI에게 묻는다”는 것에 부여하는 신비함은 사실 생각보다 훨씬 덜합니다
+* ["어제 쓴 프롬프트, 오늘도 그대로 쓰시나요?" #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=YcA31dmSNMk)
+  * [AI 시대 개발자를 위한 프롬프트 엔지니어링: "어제 쓴 프롬프트, 오늘도 그대로 쓰시나요?"](https://livewiki.com/ko/content/prompt-reusability-tips)
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -4066,6 +4068,8 @@ NLP
     * 하이브리드 RAG의 핵심 아이디어는 벡터 검색과 그래프 검색 두 가지를 동시에 실행
 * [Agentic RAG: 95% is NOT 100%. Nailing GenAI Precision in Production - YouTube](https://www.youtube.com/watch?v=HVYCWhvz5B8)
   * [에이전트 RAG: 95%로는 부족합니다 - GenAI 프로덕션에서 정밀도 확보하기](https://livewiki.com/ko/content/agentic-rag-genai-precision-production)
+* [RAG, 들어는 봤는데... 내 서비스엔 어떻게 쓰지? #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=dP2wliNlvuo)
+  * [RAG(검색 증강 생성) 서비스 구축: 우아한형제들 교육 운영 사례와 구현 6단계](https://livewiki.com/ko/content/rag-service-application)
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
