@@ -297,6 +297,8 @@ Programming Language
   * [x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
   * [Assembly Nights - ratfactor](https://ratfactor.com/assembly-nights)
+  * [DIVSS/PS vs RCPSS/PS with Remove False Dependency](https://gist.github.com/devjeonghwan/b016c2138995d349ccab5843f00ee4e2)
+    * [최적화의 역설과 False Dependency : 네이버 카페](https://cafe.naver.com/megayuchi/934)
   * [asmrepl: A REPL for x86-64 assembly language](https://github.com/tenderlove/asmrepl)
   * [httpdito-readme](http://canonical.org/~kragen/sw/dev3/httpdito-readme)
     * [canonical.org/~kragen/sw/dev3/server.s](http://canonical.org/~kragen/sw/dev3/server.s)
