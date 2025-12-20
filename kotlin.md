@@ -512,6 +512,8 @@
 * [Finding Developer Joy with KMP | KotlinConfersations'24 - YouTube](https://www.youtube.com/watch?v=xUGBmGyGY30)
   * [VidiGo Finding Developer Joy with KMP | KotlinConfersatio](https://vidigo.ai/share/summary/57e6d9d21b32)
   * [KMP를 통한 개발자의 즐거움 찾기 | KotlinConfers'24 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/788806)
+* [Android 개발자가 iOS 개발자 없이 앱 출시하기: Compose Multiplatform 아키텍처 설계부터 운영까지 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=Hkw6WckWF_Y)
+  * [안드로이드 개발자가 iOS 개발자 없이 Compose Multiplatform으로 앱 출시하기: 아키텍처 설계부터 운영까지 #우아콘2025](https://livewiki.com/ko/content/android-ios-compose-multiplatform)
 * [Klibs.io — Search 1400+ KMP libraries | JetBrains](https://klibs.io/)
   * [klibs.io 소개: Kotlin Multiplatform 라이브러리를 찾는 새로운 방법 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2025/01/introducing-klibs-io-a-new-way-to-discover-kotlin-multiplatform-libraries/)
 * [recipe-app: Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop](https://github.com/SEAbdulbasit/recipe-app)
