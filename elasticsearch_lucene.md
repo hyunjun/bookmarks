@@ -431,6 +431,8 @@ ElasticSearch - Lucene
 # Conference
 * [데이터야놀자2021 꺼진 데이터도 다시보자 Dynamic Mapping의 함정 - 김종민님 - YouTube](https://www.youtube.com/watch?v=YA3BX_F0mpo)
 * [웨비나 녹화영상 The RED 검색엔진 구축을 위한 Elasticsearch 마스터 클래스 by 정호욱 - YouTube](https://www.youtube.com/watch?v=To8mTlkk8cU)
+* [Lexical, Vector & Hybrid Search with Elasticsearch • Carly Richmond • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=DeEkA9cunB4)
+  * [Elasticsearch를 활용한 어휘, 벡터 및 하이브리드 검색: AI 시대의 관련성 탐색](https://livewiki.com/ko/content/lexical-vector-hybrid-search-elasticsearch)
 
 # Docker
 * Dockerfile
