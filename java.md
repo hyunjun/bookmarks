@@ -196,6 +196,7 @@ Java
 * [How Netflix Uses Java - 2025 Edition - YouTube](https://www.youtube.com/watch?v=XpunFFS-n8I)
 * [왜 은행 금융은 여전히 Java가 지배할까? (92%가 코어에 사용) - YouTube](https://www.youtube.com/watch?v=WzcW_xraLsk)
 * [Java로 10억 행 데이터 처리 1.5초 (기계어로 바로 컴파일하는 기발한 방법) - YouTube](https://www.youtube.com/watch?v=YYvUsBIAOVo)
+* [Java가 포인터를 없애고 얻은 것들 (속도와 안전, 둘 다?) - YouTube](https://www.youtube.com/watch?v=yNq0TlI4IFI)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

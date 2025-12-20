@@ -568,6 +568,8 @@ C
 * [Joe Zbiciak's answer to What does ' (&arr) \[1\] - arr' mean in C? - Quora](https://www.quora.com/What-does-arr-1-arr-mean-in-C/answer/Joe-Zbiciak?ch=15&oid=338289191&share=2a8a0e5d&srid=hq3D&target_type=answer)
 * [2분이면 알수있는 C 언어 포인터 구구단 #코딩 #coding #c언어 #포인터 #pointer - YouTube](https://www.youtube.com/shorts/3-o9JnrMOPo)
 * [pointers.py: Bringing the hell of pointers to Python](https://github.com/ZeroIntensity/pointers.py)
+* [C 포인터 지옥을 보여드립니다 (typedef 쓰는 이유) - YouTube](https://www.youtube.com/watch?v=UacRLRRY8-A)
+* [C 포인터 별표(*)의 함정 (C언어 설계 원칙) - YouTube](https://www.youtube.com/watch?v=NySgSEOcRWs)
 
 # Standard Library
 * [fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234)
