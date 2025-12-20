@@ -5616,6 +5616,8 @@ Programming
   * 기존 도구보다 정밀도가 높고, 내부 테스트에서 92%의 취약점 탐지율 기록
   * 오픈소스 생태계 보안을 강화하기 위한 무료 스캐닝 제공도 계획 중
 * [김승주 - 이번 쿠팡 청문회에 참고인으로 출석하게 되니, 많은 언론에서 “교수님이라면 어떤 질의를 하시겠습니까?”라고... | Facebook](https://www.facebook.com/skim71/posts/pfbid0dQPJ2CC7vmczPBBKNoPu1aVohNvjAbAdvudtmbagoySLXvJK9AJ3YESDshkdgw2El)
+* [How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
+  * [X, Vercel, Cursor, Discord 등 수백 개 기업을 공급망 공격으로 침투한 | GeekNews](https://news.hada.io/topic?id=25177)
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
