@@ -3487,6 +3487,8 @@ NLP
       * [Ollama와 Gemma3를 활용한 함수 호출](https://devway.tistory.com/80)
     * [Ollama's new app · Ollama Blog](https://ollama.com/blog/new-app)
       * [Ollama, 맥과 윈도우용 새로운 앱 출시 | GeekNews](https://news.hada.io/topic?id=22270)
+    * [Ollama로 내 PC에서 코딩 AI 돌리기! MIMO 연동 & 클라우드 활용법 - YouTube](https://www.youtube.com/watch?v=nea8Cc-dcaE)
+      * [Ollama로 내 PC에서 코딩 AI 돌리기: MIMO 연동 & 클라우드 활용법](https://livewiki.com/ko/content/ollama-coding-ai-mimo-cloud)
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [Cloud - Ollama](https://docs.ollama.com/cloud)
@@ -4139,6 +4141,9 @@ NLP
 * [retriever-simple-benchmark: Make running benchmark simple yet maintainable, again. Now only supports Korean-based cross-encoder](https://github.com/instructkr/retriever-simple-benchmark)
   * [가볍고 효율적인 RAG 모델 평가 코드 프로젝트 | GeekNews](https://news.hada.io/topic?id=18501)
 * [torchv-unstructured: TorchV开源的解析代码仓库](https://github.com/torchv/torchv-unstructured)
+* [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
+  * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
+    * ReACT 패턴으로 지식베이스 + 웹 검색 + MCP 도구까지 알아서 조합해서 답변하도록 개발
 
 # Law
 * [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
