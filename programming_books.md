@@ -935,6 +935,8 @@ Programming Books
 
 # Artificial Intelligence
 * [(책모음) AI 관련책 - 2024](https://brunch.co.kr/@topasvga/3835)
+* [10 tech books I'm reading in 2026 - YouTube](https://www.youtube.com/watch?v=fjVUOR9fY24)
+  * [2026년에 제가 읽을 기술 서적 10권](https://livewiki.com/ko/content/tech-books-reading)
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
   * ★★★☆☆ 2022.05.18~19 여러가지 AI 관련 기본지식을 재미있게 읽기 좋음
 * 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
