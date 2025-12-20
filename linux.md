@@ -1545,6 +1545,7 @@ Linux
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
   * [Where the top of the stack is on x86 - Eli Bendersky's website](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/)
   * [Heap 과 Stack 차이점](https://velog.io/@480/Heap-%EA%B3%BC-Stack-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+  * [스택 메모리가 힙보다 훨씬 빠른 이유 (CPU가 메모리 관리하는 방식) - YouTube](https://www.youtube.com/watch?v=oR6e7IujXnU)
 * [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/) ASLR : Address Space Layout Randomization
 * [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 * [**Out Of Memory Killer 회피하기**](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)
