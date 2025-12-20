@@ -1878,6 +1878,8 @@ Programming
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
 * [Clean Architectures in Python - presented by Leonardo Giordani - YouTube](https://www.youtube.com/watch?v=C7MRkqP5NRI)
+* [Clean Architecture with Python • Sam Keen & Max Kirchoff • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=AeA7PShEkD8)
+  * [Clean Architecture with Python | gotopia.tech](https://gotopia.tech/episodes/418/clean-architecture-with-python)
 * [Pythonic Clean Architecture. 라스 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=EGzQvBqhUS0)
 * [클린 아키텍처: 아름다운 코드에서 아키텍처까지 - HumanBrain](https://dongjunlee.github.io/book/Clean_Architecture/)
 * [Clean architecture - making Node.js API shine! | by Michael Kibenko | ITNEXT](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
