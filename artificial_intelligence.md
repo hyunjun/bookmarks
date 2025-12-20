@@ -626,6 +626,8 @@ Artificial Intelligence
       * agents.md 품질을 높이기 위해, 모델에게 참고 레포지토리 분석을 먼저 요청하는 것이 중요
       * 생성된 파일들을 프로젝트 루트 디렉터리에 배치한 뒤 Codex/제미나이/클로드 또는 사용하는 코딩 에이전트 실행
       * 이렇게 하면 에이전트가 맥락을 정확히 이해한 상태로 코딩 시작
+  * [코딩 에이전트 성능을 20배 올리는 가장 쉬운 방법 | AGENTS.md로 표준 규칙 파일 정의하기 - YouTube](https://www.youtube.com/watch?v=LHx_EFoLonQ)
+    * [AGENTS.md로 코딩 에이전트 성능 20배 올리는 표준 규칙 파일 정의 방법](https://livewiki.com/ko/content/coding-agent-performance-agents-md)
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
@@ -1925,6 +1927,11 @@ Artificial Intelligence
   * [전종홍 - 언젠가는 이런 걸 만들어야 할텐데 하고 있던 내용인데, 미국의 여러 전문가들이 협력해서 의료 인공지능을 위한... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606346066410&id=683301409)
     * 활동기록(Log)를 남기는 것은 시스템 관리를 위해서도 중요한 일
     * EU AI Act에서도 기본 요구로 하고 있어, 이를 위한 "AI system logging" 표준도 ISO/IEC 24970으로 개발
+* [2510.04871 Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871)
+  * [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
+  * ["Tiny Recursive Model이 다시 묻는 AI의 본질" | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-sluslqriwqzc-ugcPost-7407206947139207168-v3E2)
+    * 삼성의 TRM은 AI가 단순한 확률적 언어 생성기를 넘어, 사고 과정 자체를 구조적으로 학습할 수 있음을 증명한 사례
+    * “더 큰 모델이 더 똑똑하다”는 믿음의 시대는 끝나가고, 이제 AI의 미래는 누가 더 잘 ‘생각하도록’ 설계하느냐의 경쟁으로 이동
 * [2510.26787v1.pdf](https://arxiv.org/pdf/2510.26787)
   * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [2511.07885 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
@@ -2421,6 +2428,8 @@ Artificial Intelligence
     * [Claude Code With Amazon Bedrock | Taehyun Kim](https://www.linkedin.com/posts/taehyun-kim-33637922_claude-code-with-amazon-bedrock-activity-7404743670693912576-xwm3)
   * [AI 코딩 TDD 사이클: 클로드 코드로 RSA 암호화 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3489/)
     * [AI 코딩 TDD 사이클 공개! 대교 개발자 바이브코딩 실전 노하우(클로드 코드로 RSA 앱 개발) - YouTube](https://www.youtube.com/watch?v=GdFbZxDLg-g)
+  * [Claude Code 크롬 확장 프로그램 등장! 코딩 자동화 시대 개막? - YouTube](https://www.youtube.com/watch?v=dlzt4yMct6g)
+    * [Claude Code 크롬 확장 프로그램: 브라우저 제어, 코딩 자동화 및 최신 기능 업데이트](https://livewiki.com/ko/content/claude-code-chrome-extension)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
@@ -2780,6 +2789,9 @@ Artificial Intelligence
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
   * [구글 미쳤다! 2025 구글 IO에서 월 200달러짜리 OpenAI Codex를 '무료'로 풀었다고?? - YouTube](https://www.youtube.com/watch?v=PRP9FyJQLvw)
   * [🐙Jules Extension for Gemini CLI 출시](https://fornewchallenge.tistory.com/entry/Jules-Extension-for-Gemini-CLI-%EC%B6%9C%EC%8B%9C)
+  * [Proactive Agents – Kath Korevec, Google Labs - YouTube](https://www.youtube.com/watch?v=v3u8xc0zLec)
+    * [미래의 코딩은 다르다! 구글 랩스가 제시하는 선제적 AI 에이전트 Jewels 공개 - YouTube](https://www.youtube.com/watch?v=jBdMaUpLjAQ)
+      * [구글 랩스의 선제적 AI 에이전트 Jewels: 미래 코딩의 변화와 개발자 경험 혁신](https://livewiki.com/ko/content/future-coding-ai-agents-jewels)
 * [Junie, the AI coding agent by JetBrains](https://www.jetbrains.com/junie/)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
