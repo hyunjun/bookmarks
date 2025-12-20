@@ -18,6 +18,8 @@ Artificial Intelligence
     * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
     * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
   * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
+* [우아한형제들 AI PM이 하는 일 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=zYcx38Wejbs)
+  * [우아한형제들 AI PM의 역할: 기술과 비즈니스를 잇는 실행력 (우아콘2025)](https://livewiki.com/ko/content/woowahan-ai-pm)
 * [Meta AI Infrastructure Overview (1)](https://iodized-hawthorn-94a.notion.site/Meta-AI-Infrastructure-Overview-1-27754c8e1f0a80359634c2e3c47d9e77)
 * [납품업체 75%, ‘사람보다 AI와 협상하는 게 속 편하다’ - YouTube](https://www.youtube.com/watch?v=aC_59ueNMoI)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
@@ -102,15 +104,6 @@ Artificial Intelligence
 * [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
 * [세계 최초 실시간 인공지능 생성기 KihwanNet을 소개한다](http://kr.deductiontheory.com/2018/01/kihwannet.html)
 * [ARTIFICIAL INTELLIGENCE: HOW WE HELP MACHINES LEARN](https://paidpost.nytimes.com/facebook/artificial-intelligence-how-we-help-machines-learn.html)
-* [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
-* [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond/)
-  * [샘 알트먼 'AGI를 위한 계획과 그 너머'](https://www.facebook.com/seungjoon.choi/posts/pfbid0239pj9jfAzFTET2inc2unfNWgndb98ziGas6jNs2yJTj62MxigcLyfhK9HWrik24cl)
-* [IT TREND AGI를 향한 기대와 우려](https://tech.kakaoenterprise.com/189)
-* [AGI 시대: 다음 세대의 스타트업 | Disquiet\*](https://disquiet.io/@luckydaun/makerlog/8072)
-* [Ways to think about AGI — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi)
-  * [AGI에 대해 생각하는 법 | GeekNews](https://news.hada.io/topic?id=14976)
-* [The future of intelligence | Demis Hassabis (Co-founder and CEO of DeepMind) - YouTube](https://www.youtube.com/watch?v=PqVbypvxDto)
-  * [미래 지능: Demis Hassabis와 AGI의 다음 단계 탐구](https://livewiki.com/ko/content/future-intelligence-deepmind)
 * [M2M Day 90— How I used Artificial Intelligence to automate Tinder](https://towardsdatascience.com/m2m-day-89-how-i-used-artificial-intelligence-to-automate-tinder-ced91b947e53)
 * [What is the Role of an AI Software Engineer in a Data Science Team?](https://towardsdatascience.com/what-is-the-role-of-an-ai-software-engineer-in-a-data-science-team-eec987203ceb)
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1 | by Jae Duk Seo | TDS Archive | Medium](https://medium.com/data-science/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
@@ -417,6 +410,27 @@ Artificial Intelligence
 * [The Death of Classical Computer Science • Matt Welsh & Julian Wood - YouTube](https://www.youtube.com/watch?v=P-8N7erpC9M)
   * [고전 컴퓨터 과학의 종말: AI 시대의 프로그래밍 미래와 사회적 영향](https://livewiki.com/ko/content/death-classical-computer-science)
 
+# AGI Artificial General Intelligence
+* [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
+* [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond/)
+  * [샘 알트먼 'AGI를 위한 계획과 그 너머'](https://www.facebook.com/seungjoon.choi/posts/pfbid0239pj9jfAzFTET2inc2unfNWgndb98ziGas6jNs2yJTj62MxigcLyfhK9HWrik24cl)
+* [IT TREND AGI를 향한 기대와 우려](https://tech.kakaoenterprise.com/189)
+* [AGI 시대: 다음 세대의 스타트업 | Disquiet\*](https://disquiet.io/@luckydaun/makerlog/8072)
+* [Ways to think about AGI — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi)
+  * [AGI에 대해 생각하는 법 | GeekNews](https://news.hada.io/topic?id=14976)
+* [The future of intelligence | Demis Hassabis (Co-founder and CEO of DeepMind) - YouTube](https://www.youtube.com/watch?v=PqVbypvxDto)
+  * [미래 지능: Demis Hassabis와 AGI의 다음 단계 탐구](https://livewiki.com/ko/content/future-intelligence-deepmind)
+* [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
+  * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
+* [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
+* [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
+  * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
+* [2512.16856 Distributional AGI Safety](https://arxiv.org/abs/2512.16856)
+  * [Tae Hyung Kim - 구글 딥마인드가 발표한 최신 논문 “Distributional AGI Safety”는,... | Facebook](https://www.facebook.com/socialego/posts/pfbid0qGjwdCKhgDuhp7LfWa53xgdEVNqbFsr9icWyS5s4uRzEZjQ1LzsYNRVpEaaKLv27l)
+    * AGI 안전 연구는 이제 개별 모델의 문제를 넘어, 분산된 에이전트 네트워크 전체를 어떻게 설계하고 관리할 것인가라는 새로운 단계로 발전, 진화하는 단계
+    * 머지않아 도래할 멀티 에이전트 기반의 혁신가 모델 시대를 대비해, 이 프레임워크는 안전하고 견고한 AI 생태계를 구축하기 위한 하나의 청사진 제시
+* [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
+
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
   * AI Agent, AI agentic, AI assistant 차이
@@ -523,8 +537,6 @@ Artificial Intelligence
 * [Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교) 최근 AI 업계의 두 거인, 구글과 OpenAI가 코딩 없이 AI를 만들 수 있는 '노코드 AI 빌더'를 각각 출시하며 큰 화제를 모으고 있습니다. 구글의 'Opal'과 OpenAI의 '에이전트 빌더'가 바로 그 주인공인데요. 기존 자동화 툴의 강자… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_google-opal-openai-agent-builder-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-activity-7381961556214910976-kZHf)
 * [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
   * [에이전트 루프 설계하기 | GeekNews](https://news.hada.io/topic?id=23470)
-* [Andrej Karpathy — AGI is still a decade away - YouTube](https://www.youtube.com/watch?v=lXUZvyajciY)
-  * [10월22일 오픈AI 공동 창립자 "AI 에이전트는 과장 광고...완성까지 10년은 걸릴 것" < 뉴스 브리핑 < 포커스 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=203337)
 * [Emma Saroyan - Build Your Own AI Agent (Boston Oct 2025) - YouTube](https://www.youtube.com/watch?v=reY64KgG6ds)
 * [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
   * [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_7-must-know-agentic-ai-design-patterns-activity-7387226865666752512-sIj7)
@@ -620,7 +632,7 @@ Artificial Intelligence
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
-* [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno/tree/main)
+* [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
 * [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
@@ -857,7 +869,6 @@ Artificial Intelligence
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
   * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
-* [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
 * [AI Compiler Study](https://carpedm30.notion.site/AI-Compiler-Study-aaf4cff2c8734e50ad95ac6230dbd80b) OpenAI의 멤버 김태훈 님의 notion
 * [AI Design: A Beginner's Guide - gulli](https://docs.google.com/document/d/1GWShQ74DwZRUVs4e0yoS3rYmBxUVR-x4N_Xt5xl5dtE/mobilebasic)
@@ -1566,7 +1577,6 @@ Artificial Intelligence
   * [AI 스타트업을 만드는 방법 | GeekNews](https://news.hada.io/topic?id=15457)
 * [할리우드와 게임이 AI와 싸우는 이유 | GeekNews](https://news.hada.io/topic?id=15460)
 * [생성 AI 방향 바뀌었다… ‘온디바이스AI’의 현재와 미래 - 더밀크 | The Miilk](https://themiilk.com/articles/a5138ce16)
-* [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
 * [Skelter Labs Blog - AI 에이전트의 이유 있는 성장 궤도](https://www.skelterlabs.com/blog/ai-agent-on-point)
 * [A Goldilocks Introduction to AI Agents: Opportunities, Challenges, and Everyday Impact](https://www.michaeltefula.com/a-goldilocks-introduction-to-ai-agents-opportunities-challenges-and-everyday-impact/)
   * [AI 에이전트 - 기회, 도전 과제, 그리고 일상에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=18727)
@@ -1903,8 +1913,6 @@ Artificial Intelligence
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
     * [Human-AI Collaboration: The Future of Team Dynamics](https://www.functionly.com/orginometry/the-ai-revolution/human-ai-collaboration-the-future-of-team-dynamics)
     * [CPAIS-Framework-and-Case-Studies-9-23.pdf](https://partnershiponai.org/wp-content/uploads/2021/08/CPAIS-Framework-and-Case-Studies-9-23.pdf)
-* [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
-  * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
 * [2505.13840 EfficientLLM: Efficiency in Large Language Models](https://arxiv.org/abs/2505.13840)
   * [Tae Hyung Kim - 기다리던 훌륭한 논문이 드디어 나왔네요. 여러 대학 연구진과 IBM, 마이크로소프트... | Facebook](https://www.facebook.com/socialego/posts/pfbid02s8JSLPzGVfxYK5T9QBPEwJe1CQ8GUoQwKT6qoZkyd5EXEogu7Asj7wUR2VgXjkZxl)
 * [2507.18074 AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074)
