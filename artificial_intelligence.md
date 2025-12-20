@@ -1510,8 +1510,6 @@ Artificial Intelligence
       * 이제는 *비구조화, 준구조화 및 구조화된 데이터를 사용하여 자동화*하는 작업에 집중하고 있으며, 데이터 정리와 자동화에 초점
       * 데이터 발견하고 정리하며, 그 데이터와 대화, 해당 데이터를 *하위 인사이트 및 분석*에 활용 가능하게 하는 *자동화된 데이터 curation* 작업에 중점
       * 데이터의 중요성과 올바른 데이터 입력의 중요성에 대해 강조, 올바른 데이터가 입력되지 않으면 올바른 결과를 얻을 수 없다는 것을 강조
-* [E41: Jessica Chiew of Canva on Building AI-Native GTM Org - YouTube](https://www.youtube.com/watch?v=wI3FzuZFC20)
-  * [Canva가 GTM팀을 AI Naitve 조직으로 만든 방법 많은 조직들이 AI 도입에 어려움을 겪고 있습니다. “전 직원이 AI를 활용해야 한다”는 막연한 목표를 세우지만 실제로는 진전이 없거나, 수많은 AI 도구들 중 어떤 것을 선택해야 할지 혼란스러워합니다. 특히 기존 업무가 바쁜 상황에서 언제 AI를 학습하고 적용할 시간을 확보할 것인지, 외부… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_canva%EA%B0%80-gtm%ED%8C%80%EC%9D%84-ai-naitve-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-%EB%A7%8E%EC%9D%80-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-activity-7370564799027597312-S65C)
 * [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트](https://harvest.pub/shared/2d68d69e-71b9-4e7c-a8e6-b6ae9e591448)
   * [ChatGPT보다 더 빠른 성장, 'Lovable AI'의 비밀: AI 네이티브 시대의 일과 성장 방식 대혁신 | 하베스트 | Taeho Kim](https://www.linkedin.com/posts/xissy_chatgpt%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%B9%A0%EB%A5%B8-%EC%84%B1%EC%9E%A5-lovable-ai%EC%9D%98-%EB%B9%84%EB%B0%80-ai-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-activity-7366736093104308225-v_og)
 * [(광고) 스켈터레터 AI 에이전트, 기업도 쓸 수 있나요? 🥹](https://skelterlabs.stibee.com/p/22/)
@@ -1592,6 +1590,10 @@ Artificial Intelligence
 * [彼女にフラれる→「AI元カノ」を開発→AI研究者に！ 開発者が「“悲しきモンスター”を生み出してしまった」と絶望した理由とは？ - ライブドアニュース](https://news.livedoor.com/article/detail/26682018/)
   * [Suk Namgoong - "20살 때, 실연의 충격으로 좋아하는 사람과의 LINE 대화 기록을 모두 학습시켜 그... | Facebook](https://www.facebook.com/suk.namgoong/posts/pfbid02VCUWRXSbJgmkTvF9vi8Pk7ct4VZDyBjKc6uZoXY7eYyLnmz4U45vr8dGusvYj8wVl)
 * [AI-Native 회사 만들기 | GeekNews](https://news.hada.io/topic?id=15624)
+* [E41: Jessica Chiew of Canva on Building AI-Native GTM Org - YouTube](https://www.youtube.com/watch?v=wI3FzuZFC20)
+  * [Canva가 GTM팀을 AI Naitve 조직으로 만든 방법 많은 조직들이 AI 도입에 어려움을 겪고 있습니다. “전 직원이 AI를 활용해야 한다”는 막연한 목표를 세우지만 실제로는 진전이 없거나, 수많은 AI 도구들 중 어떤 것을 선택해야 할지 혼란스러워합니다. 특히 기존 업무가 바쁜 상황에서 언제 AI를 학습하고 적용할 시간을 확보할 것인지, 외부… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_canva%EA%B0%80-gtm%ED%8C%80%EC%9D%84-ai-naitve-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EB%B0%A9%EB%B2%95-%EB%A7%8E%EC%9D%80-%EC%A1%B0%EC%A7%81%EB%93%A4%EC%9D%B4-activity-7370564799027597312-S65C)
+* [AI 네이티브 회사를 향한 새로운 항해 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=2w7UZD2e_as)
+  * [우아한형제들: AI 네이티브 회사를 향한 새로운 항해 #우아콘2025](https://livewiki.com/ko/content/ai-native-company-woahcon-woahan)
 * [일본에서 생성형 AI를 활용한 TVCM 제작이 활발해지고 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aitvcm20240702)
 * [Meta 3D Gen - 텍스트로 3D 애셋을 생성 | GeekNews](https://news.hada.io/topic?id=15658)
 * ["오픈AI 소라보다 낫네"…영상 AI 스타트업 런웨이, 새 모델 '젠-3 알파' 출시 < 월드AI < 기사본문 - AI포스트(AIPOST)](https://www.aipostkorea.com/news/articleView.html?idxno=2672)
