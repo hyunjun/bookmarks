@@ -2620,6 +2620,8 @@ App
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
     * [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
   * [claudesidian: Claude Code + Obsidian Starter Kit](https://github.com/heyitsnoah/claudesidian)
+  * [easy-gate](https://github.com/reallygood83/easy-gate)
+    * [옵시디언에서 Gemini, NotebookLM 바로 쓴다! 이지게이트 플러그인 완벽 가이드 - YouTube](https://www.youtube.com/watch?v=M-5a2Ug5oZE)
   * Excalidraw
     * [Visual note templates with Obsidian Excalidraw - YouTube](https://www.youtube.com/watch?v=zmgqMZi6QL8)
     * [The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube](https://www.youtube.com/watch?v=P_Q6avJGoWI)
@@ -2660,6 +2662,8 @@ App
       * [Obsidian plugin — templater (+ ChatGPT 삽질기) | by Jun | Mar, 2025 | Medium](https://nymets.medium.com/obsidian-plugin-templater-chatgpt-%EC%82%BD%EC%A7%88%EA%B8%B0-5e0e8439ed82)
       * [Obsidian plugin - templater (+ ChatGPT 삽질기)](https://recur.substack.com/p/obsidian-plugin-templater-chatgpt)
       * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
+  * [voice-writing](https://github.com/reallygood83/voice-writing)
+    * [노션 버리고 옵시디언 쓰는 이유 | AI 플러그인으로 노트가 나를 위해 일한다 (음성 에이전트 포함) - YouTube](https://www.youtube.com/watch?v=PydFmXOiXlY)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * [remark - markdown processor powered by plugins](https://remark.js.org/)
