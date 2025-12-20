@@ -262,6 +262,9 @@ Artificial Intelligence
   * 엔지니어분들은 정말 엔지니어링에 힘쓸수 있는 시기. 어떻게 하면, 빨리, 더 안정되게, 더 오래 지속되게, scalableg하게, 더 efficient 하게
 * [재택근무로 가능했던 일, 전부 AI가 할 수 있습니다 - by Taeho - 브라이언의 이어지는 이야기](https://briandwjang.substack.com/p/ai-085)
 * [AI, 그리고 Engineer | Jbee.io](https://jbee.io/articles/essay/ai-and-engineer)
+* [The AI software engineer in 2026](https://www.builder.io/blog/ai-software-engineer)
+  * AI 소프트웨어 엔지니어는 단순히 코드를 작성하는 사람이 아니라, 여러 AI 에이전트(agent)를 관리, 조율하는 역할로 진화
+  * AI 도구가 실제 코드를 많이 만들어주지만, 사람 엔지니어는 명세(spec), 맥락 제공, 검증, 통합 같은 고수준 작업 집중
 * [An Opinionated Guide on Which AI Model to Use in 2025](https://creatoreconomy.so/p/an-opinionated-guide-on-which-ai-model-2025)
   * [2025년에 어떤 AI 모델을 선택해야 할까? | GeekNews](https://news.hada.io/topic?id=19861)
 * [마이리얼트립 AI Lab에서 인턴이 일했던 법. 마이리얼트립 AI Lab에서 인턴으로 일하며 반복 업무를 자동화하는… | by Dayeon Kim | How we build Myrealtrip | Jun, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-ai-lab%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B4%EC%9D%B4-%EC%9D%BC%ED%96%88%EB%8D%98-%EB%B2%95-00afa118d7bf)
@@ -556,6 +559,8 @@ Artificial Intelligence
 * [사용자의 목소리를 AI로 재현하다: LLM기반 Multi Agent UX플랫폼 개발기 - YouTube](https://www.youtube.com/watch?v=0i4NRU-GIvo)
   * [DAN25 | TEAM NAVER CONFERENCE](https://dan.naver.com/25/sessions/699)
   * [LLM 기반 멀티 에이전트 UX 플랫폼 '앤소나' 개발기: 사용자 재현과 협업적 리서치 혁신](https://livewiki.com/ko/content/ai-voice-llm-multi-agent)
+* [5개의 논문, 하나의 결론 - 구글은 에이전트의 미래를 연 것이 아니라, 사실 그 한계를 고백했다 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_slsstwswktxu-ai-suaqtztfmqvz-activity-7404634861568839681-hUCF/)
+  * [5-Day AI Agents Intensive Course with Google | Kaggle](https://www.kaggle.com/learn-guide/5-day-agents)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -578,6 +583,9 @@ Artificial Intelligence
     * "Latent Collaboration in Multi-Agent Systems" shows that agents can coordinate without communication channels, predefined roles, or any explicit teamwork instructions
     * They invent hidden internal signals inside their policy networks that only other agents understand
     * They tested scenarios without giving agents any communication tools… and collaboration still emerged. Purely from training pressure and shared rewards
+* [2512.04797 SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797)
+  * [SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds - Google DeepMind](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+  * [LLM은 텍스트만 주고받지만, Embodied Agent는 화면을 보고(인식), 키보드/마우스로 조작하고(행동), 그 결과를 다시 관찰하는(피드백) 루프 | LinkedIn](https://www.linkedin.com/posts/h4y3j1n_google-embodiedabragent-activity-7404656173028925440-SBot/)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
@@ -2473,6 +2481,8 @@ Artificial Intelligence
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [CocoIndex](https://cocoindex.io/)
   * [cocoindex-io/cocoindex: Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!](https://github.com/cocoindex-io/cocoindex)
+* [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
+  * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
   * [Introducing Codex | OpenAI](https://openai.com/index/introducing-codex/)
