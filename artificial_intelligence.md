@@ -1250,6 +1250,8 @@ Artificial Intelligence
     * [Model Context Protocol (MCP) Integration - Inngest Documentation](https://www.inngest.com/docs/ai-dev-tools/mcp)
   * [Claude도 인정한 문제, Docker가 해결했다! AI 에이전트 효율성 극대화 비법 공개 - YouTube](https://www.youtube.com/watch?v=XG78svPP4BY)
     * [Claude도 인정한 문제, Docker가 해결했다! AI 에이전트 효율성 극대화 비법 공개](https://livewiki.com/ko/content/claude-docker-ai-agent-efficiency)
+  * [갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음 - YouTube](https://www.youtube.com/watch?v=szUo30BOZlo)
+    * Notion MCP Server, Context 7, Microsoft Playwright MCP Server, Sequential Thinking, Figma MCP Server, PostgreSQL MCP, Browser Tools MCP, MCP YouTube
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
