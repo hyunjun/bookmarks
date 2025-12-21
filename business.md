@@ -1316,6 +1316,8 @@ Business
 * [Why Elon Outcompetes Everyone | Shaun Maguire, Sequoia - YouTube](https://www.youtube.com/watch?v=62X1vm3QBuE)
   * [일론 머스크는 어떻게 경쟁자를 압도하는가? 그의 성공 비결과 비선형적 사고방식 | 션 맥과이어](https://livewiki.com/ko/content/elon-outcompetes-shaun-maguire)
   * [일론머스크 회사 경영의 진짜 비밀. - YouTube](https://www.youtube.com/watch?v=SJCqdO1wLJA)
+* [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
+  * [왜 당신의 최고 엔지니어들이 다른 곳에 면접을 보고 있을까 | GeekNews](https://news.hada.io/topic?id=25115)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
