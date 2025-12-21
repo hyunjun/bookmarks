@@ -108,6 +108,7 @@ Bitcoin
   * 블록체인의 다양한 합의 방식은 저마다의 '이상'을 구현하려 했으나, 현실의 기술적 한계와 인센티브 구조 때문에 예상치 못한 문제들과 지속적인 한계
 * [ken on X: "I Wasted 8 Years of My Life in Crypto" / X](https://x.com/kenchangh/status/1994854381267947640)
   * [암호화폐에 인생의 8년을 낭비했다 | GeekNews](https://news.hada.io/topic?id=24918)
+* [Weekly UndertheSEA_25년 12월 2주차 (12/07-12/14) - by Luu](https://underthesealetter.com/p/weekly-underthesea-251207-251214)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
