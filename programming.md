@@ -5631,6 +5631,7 @@ Programming
   * [전종홍 - “아주 단순한 무작위 변형과 반복 시도만으로도, 현존 최고 수준의 안전 장치가 얼마나 쉽게 무너질 수... | Facebook](https://www.facebook.com/1biit/posts/pfbid023K2XoAyrxExs1xZfVQFGzcNxTvcEBJUqJMKVz2oSVYvjmJk55n6VGqZTU5cWQKiPl)
 * [2512.09882 Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882) ARTEMIS
   * [인간해커를 능가해버린 인공지능 해커 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ukstnd-ai-suaqtztfmqvz-activity-7405010750043435008-Xwtg)
+  * [전종홍 - 어쩌면 판도라의 상자가 열리는 것일지도 모르겠네요. 이미 열렸던 것일지 모르지만.. AI 에이전트와 인간... | Facebook](https://www.facebook.com/1biit/posts/pfbid02TZRmhk2PXEmGtpdgreAeUvwR3iVBxZdQh6bhdPPsnMcayqcAeaM4EcTFBnqiGhRl)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
