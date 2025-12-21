@@ -1588,6 +1588,12 @@ Artificial Intelligence
 * [메이커 스프린트 참가자들을 통해 분석한 AI와 SaaS 트렌드 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%93%A4%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B6%84%EC%84%9D%ED%95%9C-ai%EC%99%80-saa-s-%ED%8A%B8%EB%A0%8C%EB%93%9C)
 * [AI가 기존 SaaS 가격 모델을 어떻게 변화 시키고 있는가](https://maily.so/saascenter/posts/g1o4k9vvrve)
   * [AI가 가져올 SaaS 가격 모델의 변화와 전략에 관한 글](https://www.linkedin.com/posts/jinseo-jang-2554b651_ai%EA%B0%80-%EA%B8%B0%EC%A1%B4-saas-%EA%B0%80%EA%B2%A9-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%99%94-%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-activity-7343770450902073344-VAZv/)
+* [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://www.linkedin.com/posts/leekh929_%EB%AA%A8%EB%93%A0-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%B6%A9%EA%B2%A9%EC%A0%81-%ED%98%84%EC%8B%A4-ai-vs-saas-%EC%A0%84%EC%9F%81-activity-7342367206992683009-Ciyr/)
+  * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://jober.io/wall-write-document/8eed3ca9-62d2-49af-a9c2-e514e1ba792a)
+* [SaaS Is Dead. Long Live Service-As-A-Service](https://www.forbes.com/sites/alexanderpuutio/2025/07/04/saas-is-dead-long-live-service-as-a-service/)
+  * [AI는 정말 SaaS 시대를 끝내고 있는가? | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EB%8A%94-%EC%A0%95%EB%A7%90-saas-%EC%8B%9C%EB%8C%80%EB%A5%BC-%EB%81%9D%EB%82%B4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-1-%EC%9A%94%EC%A6%98-%ED%99%94%EB%91%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-activity-7347416538506764288-YHgG)
+* [AI agents are starting to eat SaaS - Martin Alderson](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+  * [AI 에이전트가 SaaS를 잠식하기 시작했다 | GeekNews](https://news.hada.io/topic?id=25095)
 * ["AI 여친에게 월 1000만원을 쓴다" AI 연인 비즈니스 한판 정리](https://maily.so/founderstory/posts/6531f0e2)
 * [Can AI Startups Outrun Dot-Com Bubble Comparisons? Investors Aren’t So Sure. - WSJ](https://www.wsj.com/articles/can-ai-startups-outrun-dot-com-bubble-comparisons-investors-arent-so-sure-6e7d90c0)
   * [AI가 닷컴 버블과 다를까요? 투자자들은 아니라고 합니다. | GeekNews](https://news.hada.io/topic?id=15580)
@@ -1739,10 +1745,6 @@ Artificial Intelligence
 * [OECD Teaching Compass | OECD](https://www.oecd.org/en/publications/oecd-teaching-compass_8297a24a-en.html)
   * [Archive/OECD Teaching Compass at main · minsuklee/Archive](https://github.com/minsuklee/Archive/tree/main/OECD%20Teaching%20Compass)
 * [Trends - Artificial Intelligence | BOND](https://www.bondcap.com/reports/tai) Mary Meeker
-* [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://www.linkedin.com/posts/leekh929_%EB%AA%A8%EB%93%A0-saas-%EC%B0%BD%EC%97%85%EC%9E%90%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%B6%A9%EA%B2%A9%EC%A0%81-%ED%98%84%EC%8B%A4-ai-vs-saas-%EC%A0%84%EC%9F%81-activity-7342367206992683009-Ciyr/)
-  * [모든 SaaS 창업자가 알아야 할 충격적 현실: AI vs SaaS 전쟁](https://jober.io/wall-write-document/8eed3ca9-62d2-49af-a9c2-e514e1ba792a)
-* [SaaS Is Dead. Long Live Service-As-A-Service](https://www.forbes.com/sites/alexanderpuutio/2025/07/04/saas-is-dead-long-live-service-as-a-service/)
-  * [AI는 정말 SaaS 시대를 끝내고 있는가? | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EB%8A%94-%EC%A0%95%EB%A7%90-saas-%EC%8B%9C%EB%8C%80%EB%A5%BC-%EB%81%9D%EB%82%B4%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80-1-%EC%9A%94%EC%A6%98-%ED%99%94%EB%91%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-activity-7347416538506764288-YHgG)
 * [**The AI-Native Software Engineer | Substack**](https://substack.com/home/post/p-165160941)
   * [AI-네이티브 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=21890)
 * [메타 CFO가 말하는 AI 시대 CFO가 고민해야 할 3가지](https://www.linkedin.com/posts/leekh929_%EB%A9%94%ED%83%80-cfo%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8B%9C%EB%8C%80-cfo%EA%B0%80-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-1-ai%EA%B0%80-activity-7346281526092865536--QSp/)
@@ -1843,6 +1845,8 @@ Artificial Intelligence
   * [Paged Out! 7호 PDF | GeekNews](https://news.hada.io/topic?id=23453)
 * [Tae Hyung Kim - 워싱턴포스트가 최근 AI의 거대한 변화에 대해 흥미로운 사실 하나를 짚었다. 중국의... | Facebook](https://www.facebook.com/story.php?story_fbid=10238714373338117&id=1237608086)
   * 중국의 빅테크 기업들이 오픈웨이트(Open-Weight) AI 모델을 앞세워, 오히려 미국을 제치고 생태계의 주도권을 잡아가고 있다
+* [중국이 AI를 맛있게 만드는 이유. 중국의 Open Weight AI 전쟁 - YouTube](https://www.youtube.com/watch?v=uIg6Yphq0F0)
+  * [중국은 왜 AI 오픈 웨이트 모델 전쟁에서 앞서는가?](https://livewiki.com/ko/content/china-ai-open-weight)
 * [Tae Hyung Kim - 월스트리트저널에 흥미로운 글이 있어 공유합니다. 주제는 이렇습니다. AI는 이미 숙련된 전문가일수록 더 강력한 무기... | Facebook](https://www.facebook.com/socialego/posts/pfbid02c8XYSiBJGSj7Vvy6XzwT4JW4Yr1yhR5rDqNScFqMwqLiLeQnHAdVacL8HwpJJ3Pxl)
   * 바로 아래 link와 반대 주장
 * [Generative AI at Work* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article/140/2/889/7990658)
@@ -1887,7 +1891,11 @@ Artificial Intelligence
 * [Linux Foundation Announces the Formation of the Agentic AI Foundation (AAIF), Anchored by New Project Contributions Including Model Context Protocol (MCP), goose and AGENTS.md](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation)
   * 리눅스 재단이 2025년 12월 9일 AAIF 발표
   * 앤트로픽, 블록, 오픈AI의 프로젝트(MCP, goose, AGENTS.md) 기여로 에이전틱 AI의 오픈 표준과 생태계 구축
+* [MCP를 짬처리 해버린 앤트로픽. Linux Foundation에 기부 - YouTube](https://www.youtube.com/watch?v=eN_9kT4EPUE)
+  * [앤트로픽, MCP를 리눅스 재단에 기부하다: 버린 건가 혁신인가?](https://livewiki.com/ko/content/anthropic-mcp-linux-foundation)
 * [마이크로소프트가 전망하는 2026년 AI 7대 트렌드: “도구에서 파트너로의 진화”](https://www.techsuda.com/microsoft-7trendstowatchin2026/)
+* [I built an AI Supercomputer... again (2TB RAM) - YouTube](https://www.youtube.com/watch?v=bFgTxr5yst0) MLX
+  * [애플 AI 슈퍼컴퓨터: 2TB RAM 맥 스튜디오 클러스터의 부활](https://livewiki.com/ko/content/ai-supercomputer-2tb-ram)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
