@@ -512,6 +512,8 @@ C
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
 * [uftrace - Function (graph) tracer for user-space](https://github.com/namhyung/uftrace)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
+* [uvm32: Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrained devices. Single C file, no dynamic memory allocations, asynchronous design, pure C99](https://github.com/ringtailsoftware/uvm32)
+  * [uvm32 - C로 작성된 초소형 VM 샌드박스, Rust·C·Zig 앱 실행 지원 | GeekNews](https://news.hada.io/topic?id=25072)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
 * [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
