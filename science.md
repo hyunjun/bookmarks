@@ -206,6 +206,8 @@ Science
 * [DNA Deciphers Roots of Modern Europeans](http://www.nytimes.com/2015/06/16/science/dna-deciphers-roots-of-modern-europeans.html?action=click&contentCollection=Opinion&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article&_r=0)
 * [Meta-analysis of the heritability of human traits based on fifty years of twin studies](http://www.gwern.net/docs/2015-polderman.pdf)
 * [New Letters Added to the Genetic Alphabet](https://www.quantamagazine.org/20150710-genetic-alphabet/)
+* [“이걸 이제야 터트리네” 800살까지 안 죽는 생명체, 구글이 10년 만에 공개했다 ㄷㄷ - YouTube](https://www.youtube.com/watch?v=eTJGX2EBm5Q)
+  * [구글 칼리코 랩, 늙지 않는 포유류 벌거숭이두더지 비밀 풀고 노화 역전 기술 발견!](https://livewiki.com/ko/content/immortal-creature-discovery-scientists)
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
