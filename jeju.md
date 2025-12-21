@@ -149,6 +149,7 @@
   * 아라동 치유의숲(편백나무숲), 상효동 천국의 문, 블루보틀 근처 진숫내
 * [제주도여행 숨겨진 명소 여행지 10 | 제주도민이 꼽은 아름다운 제주 힐링 여행 코스 - YouTube](https://www.youtube.com/watch?v=VHejfuoCfh8)
   * 한수리방파제 관음사 돌문화공원 오조포구 노루생태공원 닭머르 군산오름 안덕계곡 공회당 고사리커피 서귀다원
+* [조선시대 표해록의 저자 ‘장한철’ 선생의 생가](https://www.facebook.com/jejuofficial/posts/pfbid02JFpsNokg4g9J6rREzB79SvuUqpTG6rVByMDwEQkQ9LvmfUdVWMSfB7knV2SCeZAbl)
 
 ## Sightseeing 오름
 * [제주 오름 트레킹 가이드](https://github.com/hyunjun/bookmarks/blob/master/books/jeju_orm.md)
