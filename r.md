@@ -83,6 +83,7 @@ R
 * [R과 파이썬을 활용한 호텔 이용 후기를 모아서(크롤링하여) 분석하기](http://cafe.naver.com/theareum/262)
 * [웹에서 하는 R 통계](http://web-r.org/)
   * [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
+  * [Web-R Notebook: 브라우저에서 바로 쓰는 데이터 분석 노트북 - 맛있는호랑이 - Web-R Notebook](https://www.web-r.org/webr/notebook/view/ecdca096-8c37-4ebb-ba62-3fe535f00386/)
 * [Handling Time Data](https://encaion.wordpress.com/2016/03/28/handling-time-data/)
 * [Tidy Time Series Analysis, Part 3: The Rolling Correlation](https://www.r-bloggers.com/tidy-time-series-analysis-part-3-the-rolling-correlation/)
 * [상관 계수 시각화](https://www.theissaclee.com/ko/courses/rstat101/week5/)
