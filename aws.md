@@ -1006,6 +1006,7 @@ AWS
 * [AWS Innovate AI/ML 2024.02.22](https://www.notion.so/1003/Conference-439c48d3dfbc4457957a0d1f23ac7dda?pvs=4#eb14ac99af684921997c4e831e6d26e7)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [AWS re:Invent 2025 주요 신규 서비스/기능 요약 및 간단 후기 - YouTube](https://www.youtube.com/watch?v=CISTRIFf6Jk)
   * [OpenLAB AWS reInvent를 통해 바라본 글로벌 Cloud 기술동향.pdf](https://www.slideshare.net/slideshow/openlab-aws-reinvent-cloud-pdf/268149233)
   * [The Frugal Architect](https://thefrugalarchitect.com/)
     * 검소한 아키텍트라는 뜻으로 비용을 고려한 지속할 수 있는 현대적인 아키텍처를 구축하기 위한 법칙을 Amazon의 CTO인 Werner Vogels이 정리
