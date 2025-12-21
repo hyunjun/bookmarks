@@ -1266,6 +1266,8 @@ App
     * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
     * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
     * [How to Use Google Colab with VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
+    * [VS Code에서 Google Colab 바로 쓰는 법! (설정 1분 컷) - YouTube](https://www.youtube.com/watch?v=OZf60mJ__74)
+      * [VS Code에서 Google Colab 파이썬 환경 활용법 (설치 및 설정 1분)](https://livewiki.com/ko/content/vscode-google-colab-setup)
     * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
     * [Python in Visual Studio Code – July 2021 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2021-release/)
     * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
@@ -2407,6 +2409,7 @@ App
   * [Note-taking with computers: Exploring alternative strategies for improved recall](https://psycnet.apa.org/record/2012-27380-001) 세 가지 실험을 통해 노트 필기 전략과 기억력과의 관계를 조사
     * 결론: 작업 기억력이 좋지 않은 사람도 컴퓨터를 이용한 필사 후 복습 방식을 택하면 더 좋은 점수를 받을 수 있음
 * [AI | AFFiNE - All In One KnowledgeOS](https://affine.pro/ai)
+  * [AFFiNE: There can be more than Notion and Miro. AFFiNE(pronounced ə‘fain) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use](https://github.com/toeverything/affine)
   * [AFFiNE AI: Notion meets Infinite Canvas! - YouTube](https://www.youtube.com/watch?v=om6jgd30MBs)
 * anytype [The Everything App](https://anytype.io/)
   * [Notion Vs Obsidian Vs Anytype - Why I Use ALL of them in 2024 (Complete Review) - YouTube](https://www.youtube.com/watch?v=MGuJMASyDUc)
@@ -2646,6 +2649,7 @@ App
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
+  * [Relay - Team collaboration in Obsidian](https://relay.md/)
   * smart composer
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
     * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
