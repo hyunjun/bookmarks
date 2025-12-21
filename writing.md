@@ -159,6 +159,7 @@ Writing
   * [Typst - LaTeX를 대체할 수 있는 가능성 | GeekNews](https://news.hada.io/topic?id=23312)
   * [What is Typst? The Modern LaTeX Alternative - YouTube](https://www.youtube.com/watch?v=NTGkb4FCLhM)
     * [Typst란? 현대 LaTeX 대안 상세 리뷰 및 활용법](https://livewiki.com/ko/content/typst-modern-latex-alternative)
+  * [개발자가 이쁜 문서 만드는 법 - YouTube](https://www.youtube.com/shorts/fQQI25uNNWc)
   * [awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
 
 # Book
