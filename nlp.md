@@ -3789,6 +3789,8 @@ NLP
   * [구글 딥마인드, LLM이 생성한 텍스트를 워터마킹하고 감지하는 SynthID를 오픈소스로 | GeekNews](https://news.hada.io/topic?id=17508)
 * [text-generation-inference: Large Language Model Text Generation Inference](https://github.com/huggingface/text-generation-inference) architecture
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
+* [Tinker - Thinking Machines Lab](https://thinkingmachines.ai/tinker/)
+  * [🤖 Tinker: 미라 무라티의 첫 번째 프로젝트, 누구나 LLM 미세조정](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Tinker-%EB%AF%B8%EB%9D%BC-%EB%AC%B4%EB%9D%BC%ED%8B%B0%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%88%84%EA%B5%AC%EB%82%98-LLM-%EB%AF%B8%EC%84%B8%EC%A1%B0%EC%A0%95)
 * [TinyAgent: Function Calling at the Edge – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/05/29/tiny-agent/)
   * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
 * [tokencost: Easy token price estimates for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
