@@ -2883,6 +2883,8 @@ Artificial Intelligence
     * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
   * [Kiro: 소프트웨어 요구사항 표기법 - EARS](https://jusths.tistory.com/492) EARS(Easy Approach to Requirements Syntax)
   * [Kiro와 함께 Augmented Coding 기반 소프트웨어 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/augmented-coding-with-kiro/)
+  * [Moving Towards Spec-Driven Development | Real Python Podcast #277 - YouTube](https://www.youtube.com/watch?v=-liy2as6zQI)
+    * [SDD Spec Driven Development](https://notebooklm.google.com/notebook/eca0c6b4-f656-42c7-b1a4-e5b3a350c98e)
 * [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
   * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
   * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
