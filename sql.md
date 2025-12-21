@@ -1792,6 +1792,8 @@ SQL
 * [Disaggregated Storage - a brief introduction - blag](https://avi.im/blag/2024/disaggregated-storage/)
 * [How bloom filters made SQLite 10x faster - blag](https://avi.im/blag/2024/sqlite-past-present-future/)
   * [Bloom 필터로 10배 빨라진 SQLite | GeekNews](https://news.hada.io/topic?id=18399)
+* [SQLite JSON Superpower: Virtual Columns + Indexing - DB Pro Blog](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
+  * [SQLite JSON을 전체 인덱스 속도로 활용하는 방법: 생성된 컬럼을 이용한 고속 쿼리 | GeekNews](https://news.hada.io/topic?id=25041)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
