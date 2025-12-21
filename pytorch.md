@@ -205,6 +205,10 @@ PyTorch
 * [중국산 GPU, 인텔 XPU, 구글TPU등 파.. : 네이버블로그](https://blog.naver.com/ulsancoding/223784344290)
   * [NPU_XPU.ipynb - Colab](https://colab.research.google.com/drive/1rQL9_S_nuicy9JjuoblJ5YXoQj-S4qdX?usp=sharing)
 * [FSDP 쉽게 설명하기](https://beeny-ds.tistory.com/entry/FSDP-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EA%B8%B0)
+* [A Beginner-friendly Guide to Multi-GPU Model Training](https://www.dailydoseofds.com/a-beginner-friendly-guide-to-multi-gpu-model-training/)
+  * PyTorch에서 멀티 GPU 훈련의 동기화와 데이터 병렬 처리 전략, 대규모 데이터셋의 훈련 속도를 높이는 방법 설명
+  * 기본적으로 단일 GPU만 사용되지만, 데이터 병렬로 워크로드를 분산해 효율화
+  * 핵심 고려사항으로 성능 최적화와 안정성 강조
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
