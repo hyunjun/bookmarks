@@ -2328,6 +2328,8 @@ Artificial Intelligence
         * [I was using sub-agents wrong... Here is my way after 20+ hrs test | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5594613/5256713)
     * [Claude Code Subagent: Context Engineering | by jongwony | DelightRoom | Nov, 2025 | Medium](https://medium.com/delightroom/claude-code-subagent-context-engineering-5d8123ed4252)
       * [Claude Code Subagent: Context Engineering | Jongwon Choi](https://www.linkedin.com/posts/jongwon-choi-366b5b111_claude-code-subagent-context-engineering-activity-7394187236797423616-UAAU)
+    * [Claude Code 백그라운드 서브에이전트 전격 해부! 개발 생산성 향상! - YouTube](https://www.youtube.com/watch?v=z08VbJbqlSM)
+      * [Claude Code 백그라운드 서브 에이전트: 개발 생산성을 높이는 병렬 작업 혁신](https://livewiki.com/ko/content/claude-code-subagent-productivity)
     * [agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
     * [agents: sharing current agents in use](https://github.com/contains-studio/agents)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
