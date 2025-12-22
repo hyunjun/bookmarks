@@ -244,6 +244,7 @@ Sports
 * [최희암 : 기업인이 된 레전드 농구인, 불굴의 ‘리바운드’로 역전을 경영하다](https://prologue.rememberapp.co.kr/25012001)
 * [칼럼 Moreyball: 수치에 기반한 데이터 농구 혁신 - MANIA](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=306905)
 * [손대범 금붕어처럼 살아 | 오늘의 농구](https://v.daum.net/v/tXOSI5EoGh)
+* [겸손이 만든 부활, 본즈 하이랜드 선수5 | 오늘의 농구](https://v.daum.net/v/x0wjgb71dk) 실패 요인으로 본인이 직접 커뮤니케이션의 부재를 꼽기도
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
