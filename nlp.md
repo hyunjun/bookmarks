@@ -5314,6 +5314,8 @@ NLP
   * [RetellAI-Web-Widget](https://github.com/marioaldayuz/RetellAI-Web-Widget)
 * [SALMONN: Speech Audio Language Music Open Neural Network](https://github.com/bytedance/SALMONN)
   * [음성과 소리를 동시에 이해하는 멀티모달 모델 공개 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2168476370160076/)
+* [sam-audio: The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/sam-audio)
+  * [메타, 원하는 오디오만 쉽게 분리하는 첨단 모델 ‘SAM Audio’ 공개 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2821261288214911&hoisted_section_header_type=recently_seen)
 * [SCE-TTS: 내 목소리로 TTS 만들기](https://sce-tts.github.io/)
 * [Seamless Communication - AI at Meta](https://ai.meta.com/research/seamless-communication/)
   * [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation | Meta AI Research](https://ai.meta.com/research/publications/seamless-m4t/)
