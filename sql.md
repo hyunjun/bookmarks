@@ -542,6 +542,7 @@ SQL
   * [새로운 jq로서의 DuckDB | GeekNews](https://news.hada.io/topic?id=13948)
 * [DuckDB 사용법(DuckDB Python + Jupyter Lab) · 어쩐지 오늘은](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
   * [DuckDB 사용법(DuckDB Python + Jupyter Lab) | GeekNews](https://news.hada.io/topic?id=17450)
+* [pandas vs Polars vs DuckDB: A Data Scientist's Guide to Choosing the Right Tool | CodeCut](https://codecut.ai/pandas-vs-polars-vs-duckdb-comparison/)
 * [DuckLake: SQL as a Lakehouse Format – DuckDB](https://duckdb.org/2025/05/27/ducklake.html)
 
 # Library
@@ -1506,6 +1507,7 @@ SQL
   * [PostgreSQL Autovacuum 장애 대응기 (1). 29CM에서는 Amazon RDS for PostgreSQL를 사용하고… | by Jimin Lee | 29CM 기술블로그 | May, 2021 | Medium](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
   * [PostgreSQL Vacuum에 대한 거의 모든 것 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9478/)
   * [How to Control Autovacuum Frequency in PostgreSQL - DEV Community](https://dev.to/farooquememon385/how-to-control-autovacuum-frequency-in-postgresql-4a65)
+  * [VACUUM Is a Lie (About Your Indexes) | boringSQL](https://boringsql.com/posts/vacuum-is-lie/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
