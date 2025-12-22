@@ -1188,6 +1188,8 @@ Web
   * Persisted Query를 사용하는 것이 아주 중요하고 권한 문제와 성능 문제, API 호환성 문제 등은 GraphQL의 문제라기 보다 모든 API가 가진 문제라고 이야기
   * 자신은 8년 동안 사용했는데 구축이 쉽지는 않지만 만족하고 있다고 설명
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
+* [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
+  * [GraphQL: 엔터프라이즈의 허니문은 끝났다 | GeekNews](https://news.hada.io/topic?id=25091)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
@@ -1251,6 +1253,7 @@ Web
     * 프론트엔드에서 JavaScript가 없어도 잘 동작하므로 쉬우면서 접근성 좋은 웹페이지를 만들 수 있고 프론트엔드/백엔드간의 협업도 더 편해진다고 이야기
   * [What the hell is HTMX? - YouTube](https://www.youtube.com/watch?v=JT37vRsBYtE&)
   * [Hypermedia Systems](https://hypermedia.systems/book/contents/)
+  * [</> htmx ~ When Should You Use Hypermedia?](https://htmx.org/essays/when-to-use-hypermedia/)
   * [The Truth About HTMX - YouTube](https://www.youtube.com/watch?v=NA5Fcgs_viU)
   * [Htmx: The newest old way to make web apps - LogRocket Blog](https://blog.logrocket.com/htmx-the-newest-old-way-to-make-web-apps/)
     * [Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법](https://velog.io/@eunbinn/htmx-the-newest-old-way-to-make-web-apps)
@@ -1259,6 +1262,12 @@ Web
   * [HTMX does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
     * [HTMX는 CSP(Content Security Policy)와 잘 호환되지 않음 | GeekNews](https://news.hada.io/topic?id=15695)
   * [Htmx의 미래 | GeekNews](https://news.hada.io/topic?id=18609)
+  * [고전적인 기술로 현대적인 웹앱 만들기 - HTMX / 2024 제주웹컨퍼런스 | PDF](https://www.slideshare.net/slideshow/htmx-2024/274315966)
+  * [Please Just Fucking Try HTMX](https://pleasejusttryhtmx.com/)
+    * [HTMX, 제발 한 번만 써보세요 | GeekNews](https://news.hada.io/topic?id=25182)
+  * [</> htmx ~ htmx sucks](https://htmx.org/essays/htmx-sucks/)
+  * [</> htmx ~ Splitting Your Data & Application APIs: Going Further](https://htmx.org/essays/splitting-your-apis/)
+  * [hx: Minimal Proof of Concept implementation of HTMX](https://github.com/iolo/hx)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 * [gomponents: HTML components in pure Go](https://github.com/maragudk/gomponents)
