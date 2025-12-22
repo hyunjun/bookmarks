@@ -2890,6 +2890,9 @@ NLP
 * [Fuzz4All: Universal Fuzzing with Large Language Models](https://fuzz4all.github.io/)
 * [GLM-4.6V - Z.AI DEVELOPER DOCUMENT](https://docs.z.ai/guides/vlm/glm-4.6v)
   * [🤖 GLM-4.6V: 혁신적인 멀티모달 AI 모델 분석 및 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-GLM-46V-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-AI-%EB%AA%A8%EB%8D%B8-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [AutoGLM Blog](https://autoglm.z.ai/blog/)
+    * [Open-AutoGLM: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone](https://github.com/zai-org/Open-AutoGLM/)
+    * [🤖 AutoGLM-Phone-Multilingual: 스마트폰을 AI 비서로 만드는 오픈소스 프로젝트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AutoGLM-Phone-Multilingual-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84-AI-%EB%B9%84%EC%84%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
