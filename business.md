@@ -948,6 +948,7 @@ Business
 * [이나모리 가즈오의 회계경영...매출은 기대한 만큼 늘지 않는다](https://www.linkedin.com/posts/douglasguen_%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%ED%9A%8C%EA%B3%84%EA%B2%BD%EC%98%81%EC%97%90%EB%8A%94-%EC%9D%B4%EB%9F%B0-%EB%A7%90%EC%9D%B4-%EC%9E%88%EC%96%B4%EC%9A%94-%EB%B3%B4%ED%86%B5-%EB%8B%B9%ED%95%B4-%EC%97%B0%EB%8F%84%EC%9D%98-activity-7203542211127365632-_laX/)
 * [이나모리 회장께서는, 세상에 타는 물질과 안 타는 물질이 있듯이 회사원도 자연성, 가연성, 불연성 (自燃性, 可燃性, 不燃性)으로 나뉜다고 설명](https://www.linkedin.com/posts/kidaelee_hr-activity-7227492216661848064-qKtn/)
   * `現在の能力でできる、できないを判断してしまっては、新しいことや困難なことはいつまでたってもやりとげられません。현재의 능력으로 할 수 있는 것과 할 수 없는 것을 판단해 버리면 새로운 것, 어려운 것은 영원히 못 합니다.`
+* [Tae Hyung Kim - 주말에 이나모리 가즈오의 『경영』을 다시 펼쳐 들었다. 왜 무생물인 회사에... | Facebook](https://www.facebook.com/socialego/posts/pfbid02pDh5AgXXHQb9CdGE79Aa2RBQXNk4AHAmfyaDUWetGftNvLUs9hYeoP8Seso8AEHdl)
 * [일본 크래프트 맥주 회사가 모래시계형 맥주잔을 만든 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/yohobrewing20240826)
 * ["Building in Public" 이 정말로 효과가 있을까? | GeekNews](https://news.hada.io/topic?id=16908)
 * [하버드 MBA에서 가장 먼저 가르치는 '이 방법' | 디커플링 - YouTube](https://www.youtube.com/watch?v=WH1psHHF4MQ)
