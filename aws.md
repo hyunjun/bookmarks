@@ -2896,6 +2896,7 @@ AWS
   * [테라폼으로 구성하여 이해하는 네트워크 - VPC, Subnet, IGW, NAT](https://blog.naver.com/pjt3591oo/223042001872)
   * [Integration testing with Weaver and Localstack - Dev notes](https://blog.michal.pawlik.dev/posts/scala/weaver-localstack/)
   * [LocalStack in VSCode. Developing using localstack from within… | by Chris Dobson | Sep, 2025 | Medium](https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10)
+  * [Run AWS Locally with Docker (LocalStack) - YouTube](https://www.youtube.com/watch?v=jz7oq-Viwew)
 * [moto: A library that allows you to easily mock out tests based on AWS infrastructure](https://github.com/getmoto/moto)
   * [how to work moto mock aws function internally? - Codingdog Blog](https://codingdog.pe.kr/2024/04/17/how-to-work-moto-mock-aws-function-internally/)
 
