@@ -634,6 +634,8 @@ Artificial Intelligence
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
+* [Agent Skills](https://agentskills.io)
+  * [Claude 가 만든 skills 가 OpenAI, Cursor 등이 받아들이며 agentskills.io 라는 표준... 이제 SKILL.md, scripts/, references/, assets/ 구조를 따르지 않으면 성능 하락](https://www.linkedin.com/posts/gb-jeong_claude-%EA%B0%80-%EB%A7%8C%EB%93%A0-skills-%EA%B0%80-openai-cursor-%EB%93%B1%EC%9D%B4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%9D%B4%EB%A9%B0-activity-7408299241556606976-Ol2y/)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
