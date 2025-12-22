@@ -2285,6 +2285,7 @@ Artificial Intelligence
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
   * [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity - YouTube](https://www.youtube.com/watch?v=B9cm-NgD-uA)
     * [구글 Antigravity 리뷰: IDE의 미래, 멀티 AI 에이전트 협업으로 생산성 극대화](https://livewiki.com/ko/content/google-antigravity-cursor-2)
+  * [“에이전트 중심 IDE” 안티그래비티(Antigravity) 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3514/)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
@@ -2452,6 +2453,7 @@ Artificial Intelligence
     * [AI 코딩 TDD 사이클 공개! 대교 개발자 바이브코딩 실전 노하우(클로드 코드로 RSA 앱 개발) - YouTube](https://www.youtube.com/watch?v=GdFbZxDLg-g)
   * [Claude Code 크롬 확장 프로그램 등장! 코딩 자동화 시대 개막? - YouTube](https://www.youtube.com/watch?v=dlzt4yMct6g)
     * [Claude Code 크롬 확장 프로그램: 브라우저 제어, 코딩 자동화 및 최신 기능 업데이트](https://livewiki.com/ko/content/claude-code-chrome-extension)
+  * [서비스 중단 위기, '클로드 코드'로 3일 만에 막아낸 썰 | 요즘IT](https://yozm.wishket.com/magazine/detail/3516/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
