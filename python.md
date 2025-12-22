@@ -2731,6 +2731,8 @@ Python
 * [Cheuk Ho - How to be Pythonic? Design a Query Language in Python - YouTube](https://www.youtube.com/watch?v=foEChBTSeQw)
 * [Lark - a modern parsing library](https://github.com/erezsh/Lark)
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
+* [PythoC: PythoC is a Python DSL compiler that compiles statically-typed Python to LLVM IR, providing C-equivalent runtime capabilities with Python syntax and compile-time metaprogramming.](https://github.com/1flei/PythoC)
+  * [파이썬으로 C를 컴파일하다…사이썬과 다른 길을 가는 파이토씨 | ITWorld](https://www.itworld.co.kr/article/4106809/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-c%EB%A5%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EB%8B%A4-%EC%82%AC%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%8B%A4%EB%A5%B8-%EA%B8%B8%EC%9D%84-%EA%B0%80%EB%8A%94.html)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
