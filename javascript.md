@@ -2111,6 +2111,7 @@ Javascript
 * [Alpine.js](https://alpinejs.dev/)
   * [리액트 모르지만 멋진 웹 사이트는 만들고싶어? - YouTube](https://www.youtube.com/watch?v=kORKuULdiKM)
   * [The Return of jQuery (Not really, just Alpine.js) - YouTube](https://www.youtube.com/watch?v=9K2yeh8Ne5U)
+  * [Alpine AJAX](https://alpine-ajax.js.org/)
 * [animejs.com](http://animejs.com/)
   * [anime.js - Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js)
 * ar.js
