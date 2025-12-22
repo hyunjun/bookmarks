@@ -109,6 +109,7 @@ Baby
 * [부모의 이 행동이 아이의 자존감을 훔친다 - YouTube](https://www.youtube.com/shorts/eqxasZvwyNo)
 * [똑똑한데 문제를 자꾸 틀리는 아이? 이 두 질문이면 바로 달라집니다 | 생각루트 - YouTube](https://www.youtube.com/watch?v=TSKrj1y5GUc)
   * ["똑똑한데 자꾸 틀리는 아이, 이 두 질문이면 바로 달라집니다 | 생각루트"](https://livewiki.com/ko/content/smart-child-problem-solving-questions)
+* [김성원 - 창의융합 교과운영의 모범. 런던의 토마스 탈리스 스쿨 Thomas Tallis School 영국 런던의... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0ApfrkidpNH5uzmdpuhcXnkL3AmEtuovkbgZJy5wmpBrQkyJrfHZbnDNzai77hkUSl)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
