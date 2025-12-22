@@ -622,6 +622,8 @@ Vision
 * [nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)
 * [olmOCR – Open-Source OCR for Accurate Document Conversion](https://olmocr.allenai.org/)
   * [olmOCR - The Open OCR System - YouTube](https://www.youtube.com/watch?v=38loqDtlLok)
+  * [Molmo 2 | A new standard for open video intelligence - YouTube](https://www.youtube.com/watch?v=Wf0ZzQqKYTo)
+    * [Hika Maeng - 얼마 전 소개한 Olmocr 모델은 allenai애들 것임 이 회사는 엄청 재밌는 회사인데... | Facebook](https://www.facebook.com/hika00/posts/pfbid032XpHth6i44Z747G2y78DnXK7uNXqjeozoNrvDJaccYoA9deCGESFTDvLdrZENTgGl)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
   * [PaddleOCR-VL Upstage만큼 강력합니다 - YouTube](https://www.youtube.com/watch?v=nL88A59qBC0)
     * [PaddleOCR-VL 문서 파싱은 이걸로 끝냅니다 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_paddleocr-vl-%EB%AC%B8%EC%84%9C-%ED%8C%8C%EC%8B%B1%EC%9D%80-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EB%81%9D%EB%83%85%EB%8B%88%EB%8B%A4-activity-7385441384272596993-OJZY)
