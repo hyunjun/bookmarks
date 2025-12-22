@@ -1662,6 +1662,8 @@ Linux
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
+* [workmux: git worktrees + tmux windows for zero-friction parallel dev](https://github.com/raine/workmux)
+  * [workmux - tmux와 git worktree를 결합한 병렬 개발 워크플로 도구 | GeekNews](https://news.hada.io/topic?id=25076)
 * XClip
   * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
   * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
