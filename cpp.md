@@ -379,6 +379,7 @@ C++
 * [C++ 프로그래밍의 감초··· ‘인기 라이브러리 8선’ - CIO Korea](http://www.ciokorea.com/news/158051)
 * [cpp-lit: Time to #include standard library and other C++ headers](https://github.com/s9w/cpp-lit)
 * [abseil.io](https://abseil.io/)
+  * [제프 딘의 Abseil 성능 최적화 가이드 | GeekNews](https://news.hada.io/topic?id=25222)
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
 * [Blasien - Valid, literal XML in C++ with Blasien](http://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html)
