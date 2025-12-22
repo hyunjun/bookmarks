@@ -1897,6 +1897,7 @@ Artificial Intelligence
 * [마이크로소프트가 전망하는 2026년 AI 7대 트렌드: “도구에서 파트너로의 진화”](https://www.techsuda.com/microsoft-7trendstowatchin2026/)
 * [I built an AI Supercomputer... again (2TB RAM) - YouTube](https://www.youtube.com/watch?v=bFgTxr5yst0) MLX
   * [애플 AI 슈퍼컴퓨터: 2TB RAM 맥 스튜디오 클러스터의 부활](https://livewiki.com/ko/content/ai-supercomputer-2tb-ram)
+* [인터넷을 성인물이 키웠다면 AI는 캐릭터챗이 키운다? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/chartai20251222)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2273,6 +2274,7 @@ Artificial Intelligence
   * [클로드 코드로 프로덕트 팀 바이브코딩 표준화한 방법(aka 맥도날드 시스템) | 요즘IT](https://yozm.wishket.com/magazine/detail/3457/)
   * 가장 중요한 일 중 하나가 결국 문서화, 기록이었다는 점이 큰 시사점이라고 생각
 * [AI를 활용한 프로그래밍 역량을 높이는 방법 | GeekNews](https://news.hada.io/topic?id=25060)
+* [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
