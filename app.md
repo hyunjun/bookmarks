@@ -2691,6 +2691,7 @@ App
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [Microsoft 365 Copilot 공개 - AI 기반 오피스 도우미 | GeekNews](https://news.hada.io/topic?id=8717)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
+* [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
@@ -2712,6 +2713,8 @@ App
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
 * Powerpoint
   * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
+* [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
+  * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
 * [TreeSheets](http://strlen.com/treesheets/)
   * [TreeSheets Tutorial](http://strlen.com/treesheets/docs/tutorial.html)
   * [TreeSheets - 오픈소스 프리폼 데이터 오거나이저 | GeekNews](https://news.hada.io/topic?id=4501)
