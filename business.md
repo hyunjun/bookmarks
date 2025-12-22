@@ -3347,6 +3347,8 @@ Business
 * [HR Breakdown - The Employee Communication Platform](https://www.workvivo.com/hr-breakdown/)
 * [올 해는 어떤 HR 분석을?! (1)](https://brunch.co.kr/@mind-ex/11)
 * [올 해는 어떤 HR 분석을?! (2)](https://brunch.co.kr/@mind-ex/13)
+* [클라우드 HR 근태관리, 왜 Time & Attendance(T&A)인가](https://5240.cloud/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-hr-%EA%B7%BC%ED%83%9C%EA%B4%80%EB%A6%AC-time-attendance/)
+  * 내용도 있지만 근태관리가 영어로 Time & Attendance라는 점부터 기록을 위해 저장
 
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
