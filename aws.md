@@ -1007,6 +1007,8 @@ AWS
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [AWS re:Invent 2025 주요 신규 서비스/기능 요약 및 간단 후기 - YouTube](https://www.youtube.com/watch?v=CISTRIFf6Jk)
+  * [“강력하지만 흩어져 있다” 리인벤트 2025에서 드러난 AWS AI 스택의 통합 한계 | CIO](https://www.cio.com/article/4104616/%EA%B0%95%EB%A0%A5%ED%95%98%EC%A7%80%EB%A7%8C-%ED%9D%A9%EC%96%B4%EC%A0%B8-%EC%9E%88%EB%8B%A4%C2%B7%C2%B7%C2%B7%EB%A6%AC%EC%9D%B8%EB%B2%A4%ED%8A%B8-2025%EC%97%90%EC%84%9C-%EB%93%9C.html)
+  * [AWS, ‘프론티어 AI 에이전트’ 제품군 출시···“소프트웨어 개발 전 과정 자율 수행” | CIO](https://www.cio.com/article/4099964/aws-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%9C%ED%92%88%EA%B5%B0-%EC%B6%9C%EC%8B%9C%C2%B7%C2%B7%C2%B7%EC%86%8C%ED%94%84%ED%8A%B8.html)
   * [OpenLAB AWS reInvent를 통해 바라본 글로벌 Cloud 기술동향.pdf](https://www.slideshare.net/slideshow/openlab-aws-reinvent-cloud-pdf/268149233)
   * [The Frugal Architect](https://thefrugalarchitect.com/)
     * 검소한 아키텍트라는 뜻으로 비용을 고려한 지속할 수 있는 현대적인 아키텍처를 구축하기 위한 법칙을 Amazon의 CTO인 Werner Vogels이 정리
@@ -2580,6 +2582,9 @@ AWS
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
 * [AWS 주간 소식 모음 – AWS Step Functions 버전 및 별칭, Graviton3E 기반 EC2 인스턴스 등 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-week-in-review-step-functions-versions-and-aliases-ec2-instances-with-graviton3e-processors-and-more-june-26-2023/)
+* [How AWS deals with a major outage - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-aws-deals-with-a-major-outage)
+* [That AWS Outage Was Nothing. When Meteors Meet Data Centers | by Tim O'Brien | Nov, 2025 | Medium](https://medium.com/@tobrien/that-aws-outage-was-nothing-730a2ac09e07)
+* [AWS, 고객 목소리에 응답하다···멀티클라우드 전략으로 방향 전환 | CIO](https://www.cio.com/article/4106162/aws-%EA%B3%A0%EA%B0%9D-%EB%AA%A9%EC%86%8C%EB%A6%AC%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EB%8B%A4%C2%B7%C2%B7%C2%B7%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%84%EB%9E%B5%EC%9C%BC.html)
 
 # Personalize
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
