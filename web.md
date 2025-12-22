@@ -1316,6 +1316,8 @@ Web
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [devd, a small, self-contained, command-line-only HTTP server for developers](http://corte.si/posts/devd/intro/index.html)
 * [DHTMLX](http://docs.dhtmlx.com/)
+* [DiceBear | Open Source Avatar Library](https://www.dicebear.com/)
+  * [DiceBear - 무료 아바타 이미지 생성 라이브러리 | GeekNews](https://news.hada.io/topic?id=25227)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi/)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
