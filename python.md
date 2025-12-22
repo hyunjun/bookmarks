@@ -485,6 +485,9 @@ Python
   * [파이썬으로 기존에 열려 있는 아래아한글 프로그램을 제어하는 방법 : 클리앙](https://www.clien.net/service/board/lecture/17988014)
   * [PyCon KR 2023 이건 정말 없네요, 없어서 시작한 아래아 한글 패키지 만들기 전다민 - YouTube](https://www.youtube.com/watch?v=JUjpvu3mGGY)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
+  * [pyhwpx](https://martiniifun.github.io/pyhwpx/)
+    * [pyhwpx: 파이썬-아래아한글 자동화를 위한 hwpx 모듈 레포.](https://github.com/martiniifun/pyhwpx)
+  * [python-hwpx](https://github.com/airmang/python-hwpx)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
