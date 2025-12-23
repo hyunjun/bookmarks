@@ -1499,6 +1499,8 @@ SQL
   * PostgreSQL에서 쿼리 성능을 최적화하는 데 필수적인 EXPLAIN 시스템 스캔 유형
     * 쿼리가 데이터를 검색하는 다양한 방식 설명
     * 단순히 쿼리의 내용뿐 아니라 Postgres가 답을 찾는 방식이 성능에 결정적인 영향
+* [Postgres is NOT A DATABASE. - YouTube](https://www.youtube.com/watch?v=b7eXdUOzUTM)
+  * [Postgres: 단순한 데이터베이스를 넘어선 올인원 백엔드 솔루션](https://livewiki.com/ko/content/postgres-not-database)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
