@@ -425,6 +425,8 @@ Artificial Intelligence
 * [비즈니스 문제는 AGI가 아닌 ‘OGI’로 < 솔루션가이드 < IT·산업 < 뉴스 < 기사본문 - 지티티코리아](https://www.gttkorea.com/news/articleView.html?idxno=11446)
 * [2503.23923 What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
   * [Wontae Lee - 이 논문은 AGI를 ‘인공 과학자’(human scientist)라고 부른다. 단순히 인간과... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0gWE7ecSj1rwEaR1gVjfBzSheUepHxYaAzwUTzFnmFeVVLCHWoWtEddyNhZKGsVQ3l)
+* [2512.05765 The Missing Layer of AGI: From Pattern Alchemy to Coordination Physics](https://arxiv.org/abs/2512.05765)
+  * [모델이 실패하는 것은 추론 능력이 없기 때문이 아니라, 추론을 안정적으로 작동시키는 ‘조정(coordination) 시스템’ 없이 모델을 사용하기 때문이라는 것이다. 이는 지금까지 LLM을 바라보던 틀을 완전히 바꾸는 시각 | Suk Hyun K. | 16 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_agi-ai-suaqtztfmqvz-activity-7404263713899253762-IeOM)
 * [2512.16856 Distributional AGI Safety](https://arxiv.org/abs/2512.16856)
   * [Tae Hyung Kim - 구글 딥마인드가 발표한 최신 논문 “Distributional AGI Safety”는,... | Facebook](https://www.facebook.com/socialego/posts/pfbid0qGjwdCKhgDuhp7LfWa53xgdEVNqbFsr9icWyS5s4uRzEZjQ1LzsYNRVpEaaKLv27l)
     * AGI 안전 연구는 이제 개별 모델의 문제를 넘어, 분산된 에이전트 네트워크 전체를 어떻게 설계하고 관리할 것인가라는 새로운 단계로 발전, 진화하는 단계
@@ -566,6 +568,12 @@ Artificial Intelligence
 * [Demand to Cease and Desist (Amazon - Perplexity) | Wonsun Chung | 15 comments](https://www.linkedin.com/posts/wonsun-chung_demand-to-cease-and-desist-amazon-perplexity-ugcPost-7392181329217404928-IAeY)
 * [AI 에이전트에 대한 한달간의 생각 – Charles Pyo](https://charlespyo.com/2025/11/02/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%8c%80%ed%95%9c-%ed%95%9c%eb%8b%ac%ea%b0%84%ec%9d%98-%ec%83%9d%ea%b0%81/)
 * [Agent Memory와 RAG, 도대체 뭐가 다른 건가요? | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_%EC%9E%AC%EC%97%85%EB%A1%9C%EB%93%9C-webinar-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B3%A0-%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-ugcPost-7394544941705834496-iEez)
+* [Making Sense of Memory in AI Agents – Leonie Monigatti](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
+  * [Making Sense of Memory in AI Agents – Leonie Monigatti | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_making-sense-of-memory-in-ai-agents-leonie-activity-7403179537934827520--A6d)
+  * 에이전트 메모리는 LLM의 무상태성 보완을 위해
+    * 컨텍스트 윈도와 외부 스토리지 간 정보를 생성, 저장, 검색, 업데이트, 삭제, 전달하는 전체 파이프라인 설계, 운영하는 문제로 정의
+  * 사람 기억 유추(CoALA)와 설계 중심(Letta) 두 분류 체계가 공존
+    * 명시적/암묵적 업데이트 전략, 메모리 팽창 방지와 망각 자동화, 지연 최소화가 핵심 도전 과제로 제시
 * [AI Agent 만들 때 LLM API 만 연결하면 된다고요? 한 번도 evaluation을 안 해본 분일겁니다.. 제대로 만들기 위해서는 ML 모델링하듯 평가를 접근해야 합니다. 이런 관점이 일반적인 머신러닝(ML)을 할 때의 경험이 큰 도움이 됩니다. 제가 경험하며 정리한, 특히 Vertical Domain Agent의 평가 팁은 이렇습니다. 1… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai-agent-%EB%A7%8C%EB%93%A4-%EB%95%8C-llm-api-%EB%A7%8C-%EC%97%B0%EA%B2%B0%ED%95%98%EB%A9%B4-%EB%90%9C%EB%8B%A4%EA%B3%A0%EC%9A%94-%ED%95%9C-%EB%B2%88%EB%8F%84-evaluation%EC%9D%84-activity-7398129406377955328-vuRU)
   * 결국 개발자와 도메인 전문가가 함께 이터레이션을 돌며 기준을 잡아가는 과정이 필수적
 * [Linoy Cohen, Shirli Di Castro Shashua: Evaluating Your AI Agent (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=YmDAcbz1YSs)
@@ -578,6 +586,11 @@ Artificial Intelligence
   * [5-Day AI Agents Intensive Course with Google | Kaggle](https://www.kaggle.com/learn-guide/5-day-agents)
 * [**AI 에이전트 오케스트레이션 4단계 실전 가이드 | 요즘IT**](https://yozm.wishket.com/magazine/detail/3503/)
   * [개발 업무 99% 자동화? AI 오케스트레이션 실전 가이드 (LangGraph 활용) - YouTube](https://www.youtube.com/watch?v=dh6tkvH6psQ)
+* [AI Agent Architecture: Beyond the Surface Level | Vaibhav Aggarwal posted on the topic | LinkedIn](https://www.linkedin.com/posts/digitalprocessarchitect_most-people-have-no-idea-what-ai-agent-architects-activity-7402701022730551296-nhTu)
+* [Why (Senior) Engineers Struggle to Build AI Agents](https://www.philschmid.de/why-engineers-struggle-building-agents)
+  * 1️⃣ Text is the new state. (Natural language is your database and configuration)
+  * 2️⃣ Errors are inputs. (Hallucinations and failures are part of the flow)
+  * 3️⃣ Evals > Tests. (Pass/Fail is dead; performance is a spectrum)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -640,11 +653,21 @@ Artificial Intelligence
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
+* [all-agentic-architectures: Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development](https://github.com/FareedKhan-dev/all-agentic-architectures)
+  * [Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems | by Fareed Khan | Level Up Coding](https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce)
+    * 다양한 Agentic AI 아키텍처와 디자인 패턴을 체계적으로 정리
+    * Agentic AI는 여러 AI 에이전트가 자율적으로 협력하여 복잡한 문제를 해결하도록 설계된 시스템
+      * 모듈식, 계층적 설계 및 다중 에이전트 시스템 등이 주요 방법론
+    * 생성형 AI의 위험성(혼란스러운 대리인 문제)과 보안 대응 방안도 설명
 * [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
 * [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
 * [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
   * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
+* [arrakis: A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows](https://github.com/abshkbh/arrakis)
+  * AI 에이전트 코드 실행, GUI 환경 사용을 위해, 안전하고 자체 호스팅 가능한 샌드박스(sandbox)를 제공하는 오픈소스 솔루션
+  * 마이크로VM 기반의 격리 환경에서 스냅샷(snapshot) 및 복원(restore) 기능 기본 제공
+    * 에이전트의 다단계 작업 흐름(multi-step workflows) 관리, REST API·Python SDK 등을 통해 programmatic하게 샌드박스 제어
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
@@ -743,9 +766,6 @@ Artificial Intelligence
 # Context Engineering
 * [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
-* [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
-  * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
-  * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
 * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 컨텍스트 엔지니어링 101 – AI 코딩을 100배 향상시키는 간단한 전략](http://www.umlcert.com/0718-04/)
 * [Context Engineering: Isaac Miller on Context Engineering with DSPy - YouTube](https://www.youtube.com/watch?v=1I9PoXzvWcs)
   * [Context Engineering: Isaac Miller on Context Engineering with DSPy | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5059697/4437722)
@@ -772,7 +792,10 @@ Artificial Intelligence
   * "작업성과, 연산 효율성, 그리고 의사결정 품질 향상 목적"
 * [프롬프트 엔지니어링 상위 1%는 '설계'를 합니다 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=0OXCyl5Rai4)
   * [프롬프트 엔지니어링의 한계와 컨텍스트 엔지니어링의 중요성: AI 시스템 설계의 핵심](https://livewiki.com/ko/content/prompt-engineering-context-design)
+* [프롬프트 엔지니어링"의 시대는 끝났다...이제는 "컨텍스트 엔지니어링"의 시대다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_suaqtztfmqvz-ai-uikrxwuiktxuslwtfmqwislqrez-activity-7407179446538952704-CVLG)
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
+  * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
+  * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
@@ -870,6 +893,7 @@ Artificial Intelligence
     * [my-adk-python-samples/agent-memory/redis-session-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-session-service)
   * [ADK Python으로 구축된 샘플 Agent에서 Redis의 Vector Search 기능을 활용하여 커스텀 장기 기억 서비스를 구현하는 방법 | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-adk-redis-ugcPost-7390684497425387520-UFUc)
     * [my-adk-python-samples/agent-memory/redis-memory-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-memory-service)
+  * [구글이 오픈소스로 공개한 에이전트 운영의 비밀 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_tegtqvswmtxu-uikrxwuiktxu-tegtqvswmtxuslwtfmqwislqrez-activity-7408627379788509184-WAKK)
   * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
   * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
@@ -1900,6 +1924,10 @@ Artificial Intelligence
 * [I built an AI Supercomputer... again (2TB RAM) - YouTube](https://www.youtube.com/watch?v=bFgTxr5yst0) MLX
   * [애플 AI 슈퍼컴퓨터: 2TB RAM 맥 스튜디오 클러스터의 부활](https://livewiki.com/ko/content/ai-supercomputer-2tb-ram)
 * [인터넷을 성인물이 키웠다면 AI는 캐릭터챗이 키운다? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/chartai20251222)
+* [내부육성, 외부영입, 컨설팅, 에이전트의 황금비율은? (김덕중 퍼브 AI연구소장) - YouTube](https://www.youtube.com/watch?v=NPBEqf4AcCs)
+  * [AI 시대, 기업의 인력 운영 전략 '4B' (Buy, Build, Borrow, Bot) 황금 비율은?](https://livewiki.com/ko/content/talent-acquisition-strategy)
+  * 4B는 외부 채용(Buy), 내부 육성(Build), 컨설팅 활용(Borrow) 및 지능형 에이전트(Bot) 소개
+  * 4B를 통한 자동화라는 네 가지 방식으로 조직의 리소스를 어떻게 배치할지 결정하는 틀 제공
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2135,6 +2163,8 @@ Artificial Intelligence
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [llm-answer-engine: Perplexity Inspired Answer Engine](https://github.com/developersdigest/llm-answer-engine)
 * [llm-api-engine: Build and deploy AI-powered APIs in seconds](https://github.com/developersdigest/llm-api-engine)
+* [llm-newsletter-kit-core: An extensible framework to automate your entire newsletter workflow. Handles data collection, LLM-based content analysis, and email generation, letting you focus on your unique domain logic](https://github.com/kimhongyeon/llm-newsletter-kit-core)
+  * [고고학 출신 개발자가 만든 LLM 기반 뉴스레터 자동화 키트 | GeekNews](https://news.hada.io/topic?id=24900)
 * [Memex - Everything Builder for Your Computer](https://memex.tech/)
   * [10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트 | GeekNews](https://news.hada.io/topic?id=20698)
 * [Metis is an open-source, AI-driven tool for deep security code review](https://github.com/0xSojalSec/metis)
@@ -2143,6 +2173,8 @@ Artificial Intelligence
   * [Introducing: Devstral 2 and Mistral Vibe CLI. | Mistral AI](https://mistral.ai/news/devstral-2-vibe-cli)
     * [Get started with Mistral Vibe | Mistral AI - Help Center](https://help.mistral.ai/en/articles/496007-get-started-with-mistral-vibe)
     * [🚀 Mistral AI, Devstral 2와 Vibe CLI로 코딩 에이전트 시장에 도전장](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Mistral-AI-Devstral-2%EC%99%80-Vibe-CLI%EB%A1%9C-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%9E%A5%EC%97%90-%EB%8F%84%EC%A0%84%EC%9E%A5)
+* [Nano-PDF: Edit PDF files with Nano Banana](https://github.com/gavrielc/Nano-PDF)
+  * [Nano-PDF: Gemini 3 Pro Image 기반 자연어 PDF 슬라이드 편집 도구 (feat. Nano Banana) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/nano-pdf-gemini-3-pro-image-pdf-feat-nano-banana/8342)
 * [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 * [NotebookLM](https://notebooklm.google/)
   * [How to Use NotebookLM (Google's New AI Tool) - YouTube](https://www.youtube.com/watch?v=iWPjBwXy_Io)
