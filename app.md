@@ -553,6 +553,21 @@ App
 # Browser
 * [Atlassian agrees to acquire The Browser Co. for $610 million](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
   * [Arc와 Dia 브라우저 제작사 The Browser Company, Atlassian에 | GeekNews](https://news.hada.io/topic?id=22912)
+* 최신 브라우저의 내부 살펴보기
+  * [Inside look at modern web browser (part 1) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part1/)
+    * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
+    * [모던 웹브라우저 내부살펴보기 part1 요약. 원문: | by Dublincity | Medium](https://medium.com/@rnrjsah789/%EB%AA%A8%EB%8D%98-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%82%B4%EB%B6%80%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-part1-%EC%9A%94%EC%95%BD-709ae6cb0de9)
+  * [Inside look at modern web browser (part 2) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part2/)
+    * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+  * [Inside look at modern web browser (part 3) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part3/)
+    * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
+  * [Inside look at modern web browser (part 4) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part4/)
+    * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+  * '모던 웹 브라우저 들여다보기' 번역글이 있었는데 사라졌음
+* [How modern browsers work. A very deep-dive into how modern web… | by Addy Osmani | Nov, 2025 | Medium](https://medium.com/@addyosmani/how-modern-browsers-work-7e1cc7337fff)
+  * 현대 브라우저는 멀티프로세스 구조로 안정성과 보안 강화
+  * URL 입력부터 네트워킹, 파싱, DOM/CSSOM 생성, 레이아웃, 페인트, 컴포지팅 과정을 거쳐 화면에 픽셀 drawing
+  * 렌더링은 점진적으로 최적화되어 반응성 유지
 * [Cốc Cốc](https://coccoc.com/en) 동영상 다운로드 기능 편리
 * [FixBrowser](https://www.fixbrowser.org/)
   * [FixBrowser - 처음부터 새로 개발된 경량 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=18443)
@@ -567,6 +582,8 @@ App
 * [LibreWolf](https://librewolf.net/)
 * [Luakit Web Browser](https://luakit.github.io/)
   * [Luakit - 빠르고 확장 가능하며 사용자 정의 가능한 웹 브라우저 | GeekNews](https://news.hada.io/topic?id=15710)
+* [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
+  * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * [plasmo: 🧩 The Browser Extension Framework](https://github.com/PlasmoHQ/plasmo)
   * [Plasmo - 브라우저 확장 개발을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=16427)
 * [verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
