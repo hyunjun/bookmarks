@@ -2665,6 +2665,8 @@ NLP
   * [파이썬으로 소규모 언어 모델 미세 조정: 비용 절감 및 성능 향상 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/sigal-shaked-fine-tuning-llms)
 * [LLM이지만 PDF는 읽고 싶어: 복잡한 PDF를 LLM이 이해하는 방법 - YouTube](https://www.youtube.com/watch?v=LTX27YIS_CI)
   * [복잡한 PDF, LLM이 이해하는 방법: 팔라딘(Paladin) PDF 파서 개발 및 성능 평가](https://livewiki.com/ko/content/llm-pdf-understanding)
+* [Architectural Decisions for Training LLMs - by Sanat Sharma](https://sanatsharma.substack.com/p/architectural-decisions-for-training)
+  * [Huggingface LLM Guide: Top Learnings on Model Architecture | Sanat Sharma posted on the topic | LinkedIn](https://www.linkedin.com/posts/sanat-sharma_architectural-decisions-for-training-llms-activity-7402187932066852864-HVyE)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2861,6 +2863,8 @@ NLP
       * [DeepSeek just open-sourced a lightweight data processing framework](https://www.linkedin.com/posts/sumanth077_damn-deepseek-just-open-sourced-a-lightweight-activity-7301492125559332864-sqmr/)
   * [DeepSeek-V3-0324 · Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)
     * [🐳 DeepSeek V3-0324 공개! 오픈소스 LLM의 새로운 강자 등장](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-DeepSeek-V3-0324-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%95%EC%9E%90-%EB%93%B1%EC%9E%A5)
+  * [2512.02556 DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
+    * [DeepSeek‑V3.2은 단순히 파라미터를 키운 모델이 아니라, 긴 컨텍스트를 감당할 수 있는 스파스 어텐션(DSA), 사전학습 비용의 10%를 넘게 투자한 대규모 RL, 그리고 합성 에이전트 과제를 통한 도구 사용 학습까지, 모델이 어떻게 “생각하고 행동하는지”를 끝까지 디자인 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_2d0aa38511b9df084d12a00fe04a96595496af772cb766c516c4e6aee1e21246-activity-7401476793561718785-uYLj)
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
@@ -4732,6 +4736,20 @@ NLP
   * [MDAP(Massively Decomposed Agentic Processes) 에이젠틱 코딩은 엄청난 반복인데, 이 경우 복잡도 낮은게 오히려 해법 | Jedi Kim](https://www.linkedin.com/posts/jedikim_solving-a-million-step-llm-task-with-zero-activity-7397071564950667264-IzSa)
 * [2511.13720 Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
   * [우리는 수년 동안 확산 모델을 훈련시키며 “노이즈를 예측하는 것”이 생성의 핵심이라고 믿어왔다. 그러나 MIT는 이 믿음 자체가 잘못된 전제이며, 모델은 애초부터 “깨끗한 이미지를 직접 예측(x-pred)”했어야 한다고 주장 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-diffusion-ugcPost-7397761041348214785-Ibsz/)
+* [2511.18538 From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538)
+  * [LLM의 몰락, SLM이 진가를 드러내는 시대 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-slm-sluslqriwqzc-activity-7402104559206092800-dvuW)
+    * reasoning 훈련에서 구조가 내용보다 중요
+      * 모델이 모방하는 대상은 ‘사실’이 아니라 문제를 분해하는 ‘인지적 템플릿’
+      * 좋은 reasoning 성능을 위해 가장 중요한 요소는 콘텐츠가 아니라 사고 흐름의 설계라는 뜻
+    * multi-agent debate 역시 강력한 방식이지만, 구조가 조금만 잘못되면 모델들이 서로의 착각을 강화하는 역효과가 발생
+    * 모델 구조 측면에서는 MoE가 높은 능력을 제공하지만, SFT 단계에서는 매우 불안정하고 hyperparameter에 민감
+      * Dense 모델은 안정적이지만 용량 면에서 한계가 있다. 여기에는 능력 vs 안정성이라는 뚜렷한 교환 관계가 존재
+    * RLVR(Reinforcement Learning from Verified Rewards)은 매우 희망적인 결과
+      * 고품질 검증 데이터를 기반으로 훈련된 14B 모델이 OpenAI o3과 비슷한 성능을 냈다는 사실
+      * 초거대 모델만이 높은 지능을 보장하는 것이 아니다라는 점을 증명
+      * 정교한 데이터와 훈련 방식이 모델 크기보다 더 중요한 시대가 도래
+    * 앞으로는 문제 정의 → 코드 생성 → 실행 → 검증 → 수정의 전체 루프를 모델이 스스로 처리하는 수준까지 발전할 가능성
+    * 코드 LLM의 미래는 단순한 성능 향상이 아니라, 인간처럼 사고하고 검증하며 발전하는 지능 구조의 재설계
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
