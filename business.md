@@ -2927,6 +2927,8 @@ Business
   * ["Good engineering management" is a fad - YouTube](https://www.youtube.com/watch?v=IJlrX4Z4QWs)
     * [좋은 엔지니어링 관리: 시대에 따라 변하는 원칙과 성공 전략](https://livewiki.com/ko/content/good-engineering-management-fad)
   * ["좋은 엔지니어링 관리"는 유행일 뿐이다 | GeekNews](https://news.hada.io/topic?id=24620)
+* [The End of Engineering's Blank Check: Accountability in SW Leadership • Laura Tacho & Charles Humble - YouTube](https://www.youtube.com/watch?v=MJjmRN2Xteo)
+  * [The End of Engineering's Blank Check: Accountability in SW Leadership](https://notebooklm.google.com/notebook/860d1dd0-e4ea-49ec-a5b4-a4cbfcc23cb0)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4755,6 +4757,10 @@ Business
   * [AI를 위한 디자인 - 보이지 않는 기능들 | GeekNews](https://news.hada.io/topic?id=23148)
 * [‘바이브 디자인’은 디자이너에게 위기일까, 기회일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3433/)
 * [당신의 수준 파악완료: 하지말아야 할 애니메이션 실수들](https://velog.io/@k-svelte-master/ux-pattern-transition)
+* [UX업계(?)에 널리 알려진 이야기가 있습니다. 1900년대 초 미시건 주립대 에서 겨울을 기다렸다가 학생들이 눈 위에 만든 이동 패턴을 관찰해 보도를 설계했다는 이야기 입니다. 사실 여부는 불확실하지만 이 이야기가 오래 회자되는 이유는 분명합니다. 사용자는 스스로 가장 효율적인 길을 만든다는 사실을 정확히 보여주기 때문입니다. 이렇게 자연스럽게… | 진영규](https://www.linkedin.com/posts/ykjin_ux%EC%97%85%EA%B3%84%EC%97%90-%EB%84%90%EB%A6%AC-%EC%95%8C%EB%A0%A4%EC%A7%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-1900%EB%85%84%EB%8C%80-%EC%B4%88-%EB%AF%B8%EC%8B%9C%EA%B1%B4-%EC%A3%BC%EB%A6%BD%EB%8C%80-activity-7403689093760737280-tjv2) Desire Path
+  * 제품이 출시되고 나면 알게 됩니다. 사용자는 우리가 만든 길이 아니라 자기에게 가장 효율적인 길을 걷는다는 사실
+  * 검색 로그, 클릭 패턴, 이탈 지점. 이 모든 것이 디지털에서의 Desire Path
+    * 그 길이 우리의 의도와 다르다고 해서 잘못된 것이 아닙니다. 잘못된 것은 그 길을 무시하고 막으려는 태도
 * aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
   * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
   * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
