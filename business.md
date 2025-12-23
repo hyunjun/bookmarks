@@ -4523,6 +4523,9 @@ Business
   * 2단계: 습관이 해자가 되다 (2023-2024)
   * 3단계: 성공이 파트너십을 부르다 (2025)
 * [**미국 사회를 배웁니다 - Small Business**](https://blog.cliwant.com/small-business-in-usa/)
+* [The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm - YouTube](https://www.youtube.com/watch?v=jO-SWlW6DFY)
+  * [a16z를 전설적인 벤처 캐피털 회사로 만든 비밀 마케팅 전략](https://livewiki.com/ko/content/a16z-marketing-strategy-vc)
+  * [2009년, 모든 VC가 a16z를 비웃었습니다 VC란 회전초밥 같은거야. 카운터에 앉아 있으면 스타트업들이 알아서 지나가거든. 가끔 손만 뻗으면 돼. 2009년, 벤 호로위츠와 마크 앤드리슨이 VC 업계에서 들었던 조언입니다. LP(출자자)는 어떻게 관리하냐고요? 한 VC가 답했습니다. "버섯처럼 대해. 상자에 넣고, 뚜껑 닫고, 침대 밑에 2년간… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_2009%EB%85%84-%EB%AA%A8%EB%93%A0-vc%EA%B0%80-a16z%EB%A5%BC-%EB%B9%84%EC%9B%83%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-vc%EB%9E%80-%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5-%EA%B0%99%EC%9D%80%EA%B1%B0%EC%95%BC-activity-7401730636103008256-5FO5)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
