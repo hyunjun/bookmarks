@@ -802,6 +802,8 @@ Machine Learning
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
+* [Mathematical Foundations of Machine Learning](https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf)
+  * [mathTalent - YouTube](https://www.youtube.com/@mathtalent)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
