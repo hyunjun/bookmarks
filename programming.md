@@ -1443,6 +1443,7 @@ Programming
     * 고객과 함께 일하고 있는가?
     * (주기적으로) 계획이 변경되는가?
     * 프로세스가 개선되는가?
+* [Peter Girnus 🦅 on X: "The company hired me to lead their "Agile Transformation." I don't know what Agile means. Nobody does. That's why it works. I make $425,000 a year. To move sticky notes. From left to right. On a board. The board is digital now. The sticky notes cost $80,000 in Jira licenses." / X](https://x.com/gothburz/status/2002786661608874443)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
