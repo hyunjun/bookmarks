@@ -2118,17 +2118,6 @@ Programming
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
 * [**캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안 | by Junhyun Park | JaM2in | Oct, 2020 | Medium**](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
-* 최신 브라우저의 내부 살펴보기
-  * [Inside look at modern web browser (part 1) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part1/)
-    * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
-    * [모던 웹브라우저 내부살펴보기 part1 요약. 원문: | by Dublincity | Medium](https://medium.com/@rnrjsah789/%EB%AA%A8%EB%8D%98-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%82%B4%EB%B6%80%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-part1-%EC%9A%94%EC%95%BD-709ae6cb0de9)
-  * [Inside look at modern web browser (part 2) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part2/)
-    * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
-  * [Inside look at modern web browser (part 3) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part3/)
-    * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
-  * [Inside look at modern web browser (part 4) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part4/)
-    * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
-  * '모던 웹 브라우저 들여다보기' 번역글이 있었는데 사라졌음
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
@@ -4241,8 +4230,6 @@ Programming
   * [m3o: The open source public cloud platform. We are building an AWS alternative for the next generation of developers](https://github.com/m3o/m3o)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
   * [M3O— An open source AWS alternative | by Asim Aslam | M3O ☁️](https://blog.m3o.com/m3o-an-open-source-aws-alternative-61e3699b3d2a)
-* [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
-  * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * [Nextcloud - Open source content collaboration platform](https://nextcloud.com/)
   * [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
   * [(EP.09) 구글드라이브, iCloud 용량이 부족하다면?!! 미니PC에 Nextcloud 설치해보세요. - YouTube](https://www.youtube.com/watch?v=q56o7s6mrKM)
@@ -5668,6 +5655,15 @@ Programming
 * [EnvKey: End-To-End Encrypted Environments](https://v2.envkey.com/)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * Fail2Ban [기본적 서버 보안 프로그램, Fail2Ban 사용법 기초부터 실전 사용법까지 알아 보기 | 웹으로 말하기](https://mytory.net/2022/01/16/fail2ban.html)
+* [feistel_cipher](https://github.com/devall-org/feistel_cipher)
+  * [Feistel Cipher - Computerphile - YouTube](https://www.youtube.com/watch?v=FGhj3CGxl8I)
+  * [52년 전 탄생한 알고리즘으로 막을 수 있었던 쿠팡 3천만명 유출 사태 | Jechol Lee | 14 comments](https://www.linkedin.com/posts/jechol_github-devall-orgfeistelcipher-activity-7401759087161741313-V65c)
+    * UUID보다 나은 방식
+    * 1:1 매핑이면서 동시에 자기 자신이 역함수 역할을 하는 우아한 알고리즘
+    * 열거 공격 완전 차단
+    * 회원 수 같은 비즈니스 메트릭 은닉
+    * 짧고 깔끔한 숫자 ID 유지 (비트수 설정 가능)
+    * DB 레벨에서 자동 처리 → 애플리케이션 코드 수정 불필요
 * FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
   * [What is FIDO? - FIDO Alliance](https://fidoalliance.org/what-is-fido/)
     * FIDO: 패스워드 없이 인증을 할 수 있게 하는 표준
