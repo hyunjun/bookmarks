@@ -3105,8 +3105,9 @@ Docker
   * [Deprecation Warnings in containerd - Getting Ready for 2.0!](https://samuel.karp.dev/blog/2024/01/deprecation-warnings-in-containerd-getting-ready-for-2.0/)
     * containerd가 2017년 1.0 릴리스 이후 6년간의 개발을 통해 2.0가 나올 예정이므로 이를 준비하라고 알리는 글
     * `ctr deprecations list` 명령어로 사용량 기반으로 중단되는 기능을 확인 가능
-* [devbox: Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+* [devbox: Instant, easy, and predictable development environments](https://github.com/jetify-com/devbox)
   * [Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구 | GeekNews](https://news.hada.io/topic?id=7279)
+  * [I replaced Docker with THIS. - YouTube](https://www.youtube.com/watch?v=Mpmjl5RTAlA)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
