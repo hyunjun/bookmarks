@@ -727,6 +727,8 @@ Artificial Intelligence
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
+* [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
+  * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -1928,6 +1930,8 @@ Artificial Intelligence
   * [AI 시대, 기업의 인력 운영 전략 '4B' (Buy, Build, Borrow, Bot) 황금 비율은?](https://livewiki.com/ko/content/talent-acquisition-strategy)
   * 4B는 외부 채용(Buy), 내부 육성(Build), 컨설팅 활용(Borrow) 및 지능형 에이전트(Bot) 소개
   * 4B를 통한 자동화라는 네 가지 방식으로 조직의 리소스를 어떻게 배치할지 결정하는 틀 제공
+* [Introducing Anthropic Interviewer \ Anthropic](https://www.anthropic.com/news/anthropic-interviewer)
+* [Generative AI Weaponized: Why Zero Trust Isn’t Enough - YouTube](https://www.youtube.com/watch?v=EOJrKZtKoOQ)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1982,6 +1986,8 @@ Artificial Intelligence
   * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [2511.07885 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
   * [AI 인프라에 $500B 쏟아붓는 순간, 스탠포드가 발견한 것 대부분의 AI 요청은 이미 로컬 기기로 충분할 수 있다는 분석입니다. OpenAI가 $500B Stargate 프로젝트를 발표했고, McKinsey는 AI 데이터센터에 2030년까지 $5.2~7.9조가 필요할 것으로 전망했습니다. 한편 스탠포드 연구진은 다소 다른 관점을 제시합니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90-500b-%EC%8F%9F%EC%95%84%EB%B6%93%EB%8A%94-%EC%88%9C%EA%B0%84-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83-%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98-activity-7397019597113176064-kaIl)
+* [2512.02589 PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589)
+  * [논문 작성 방식이 붕괴한다 - PaperDebugger가 여는 연구 생산성 대폭발의 시대 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_qporlk-ai-qygshcqzc-activity-7402468931145265153-hG86)
 * [2512.03043 OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)
   * [멀티모달 끝판왕의 등장 - OneThinker 혁명 “인간처럼 보고 추론하는 AI, 새로운 시대의 개막” | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_rgwtyyriwqws-onethinker-ai-activity-7403202352549167104-2Gxq)
   * [🔥 OneThinker: All-in-one Reasoning Model for Image and Video](https://github.com/tulerfeng/onethinker)
