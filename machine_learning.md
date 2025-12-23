@@ -1605,6 +1605,8 @@ Machine Learning
   * [Google JAX 소개](https://bcho.tistory.com/1393)
   * [PyTorch is dead. Long live JAX. | Neel Gupta](https://neel04.github.io/my-website/blog/pytorch_rant/)
     * [PyTorch는 죽었다. JAX 만세 | GeekNews](https://news.hada.io/topic?id=16369)
+  * [JAX와 TPU를 이용한 Decoder-based Tiny LLM 사전학습 | Sungmin Han](https://blog.sungmin.me/ko/posts/decoder-based-tiny-llm-with-jax-tpu)
+    * JAX와 TPU를 활용한 작은 디코더 기반 LLM 학습과 추론 환경 구축 과정 설명
   * [Keras-community-week_Flax_and_Keras.pptx](https://www.slideshare.net/ssuser2ef1bc/kerascommunityweekflaxandkeraspptx-261360597)
   * [Flax: A neural network library for JAX designed for flexibility](https://github.com/google-research/flax)
   * [Haiku - a simple neural network library for JAX developed by some of the authors of Sonnet, a neural network library for TensorFlow](https://github.com/deepmind/dm-haiku)
