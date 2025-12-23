@@ -394,6 +394,8 @@ Apache
 * [AWS 분석 서비스에서 Apache Iceberg 활용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-iceberg-on-aws-analytics/)
 * [**Apache Iceberg와 Flink CDC 심층 탐구** - tech.kakao.com](https://tech.kakao.com/posts/656)
 * [토스증권 Iceberg 적용기 #1: CDC 환경은 왜 제대로 동작하지 않을까?](https://toss.tech/article/iceberg-cdc-1) COW(Copy-on-Write), MOR(Merge-on-Read), Equality Delete, Position Delete, Deletion Vector
+* [Apache Iceberg Specs Explained: v1, v2, v3 Innovations and What’s Coming in v4](https://community.cloudera.com/t5/Developer-Blogs/Apache-Iceberg-Key-Innovations-So-Far-and-What-s-Next-for/ba-p/413024)
+  * [Apache Iceberg Evolution: Key Innovations & Future Directions | Dipankar Mazumdar posted on the topic | LinkedIn](https://www.linkedin.com/posts/dipankar-mazumdar_dataengineering-softwareengineering-activity-7402742507585077248-rF8S)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
