@@ -1012,6 +1012,8 @@ AWS
   * [“강력하지만 흩어져 있다” 리인벤트 2025에서 드러난 AWS AI 스택의 통합 한계 | CIO](https://www.cio.com/article/4104616/%EA%B0%95%EB%A0%A5%ED%95%98%EC%A7%80%EB%A7%8C-%ED%9D%A9%EC%96%B4%EC%A0%B8-%EC%9E%88%EB%8B%A4%C2%B7%C2%B7%C2%B7%EB%A6%AC%EC%9D%B8%EB%B2%A4%ED%8A%B8-2025%EC%97%90%EC%84%9C-%EB%93%9C.html)
   * [AWS re:Invent 2025 - Keynote with Dr. Werner Vogels - YouTube](https://www.youtube.com/watch?v=3Y1G9najGiI)
     * [AI 시대, 르네상스 개발자로 거듭나기 위한 5가지 자질 :: Channy's Blog](https://channy.creation.net/blog/1971)
+  * [re:Invent 2025 - Developer](https://whchoi98.notion.site/re-Invent-2025-Developer-2b504ef7e60e80e6a640db9dd6779e10)
+    * [Agentic AI로 재정의되는 엔터프라이즈 Modernization re:Invent 2025 - Developer | Notion | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_reinvent-2025-developer-notion-activity-7401421891561005056-sNN0) AWS Transform
   * [AWS, 'AI 팩토리' 공개…"엔비디아 컴퓨팅 결합" | Inkyu Park](https://www.linkedin.com/posts/inkyu-park-1008083b_aws-ai-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EA%B3%B5%EA%B0%9C%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%BB%B4%ED%93%A8%ED%8C%85-%EA%B2%B0%ED%95%A9-activity-7403245957406257153-USBu)
   * [AWS, 에이전틱 AI 대공세... "인터넷·클라우드급 패러다임" | Inkyu Park](https://www.linkedin.com/posts/inkyu-park-1008083b_aws-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%8C%80%EA%B3%B5%EC%84%B8-%EC%9D%B8%ED%84%B0%EB%84%B7%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B8%89-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84-activity-7403249362925248512-Sg9P)
   * [AWS, ‘프론티어 AI 에이전트’ 제품군 출시···“소프트웨어 개발 전 과정 자율 수행” | CIO](https://www.cio.com/article/4099964/aws-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%A0%9C%ED%92%88%EA%B5%B0-%EC%B6%9C%EC%8B%9C%C2%B7%C2%B7%C2%B7%EC%86%8C%ED%94%84%ED%8A%B8.html)
