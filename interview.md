@@ -948,6 +948,7 @@ Interview
 * [영어면접 망치는 표현 5가지 + 개선법](https://www.youtube.com/watch?v=WRvb_RSPalc)
 * [지원자가 보면 안 되는, 면접관이 되고 배운 10가지](https://brunch.co.kr/@youngductive/51)
 * [Owain Lewis on LinkedIn: How to pass your interview. 5 tips from a manager at Amazon. Here are 5… | 21 comments](https://www.linkedin.com/posts/theowainlewis_how-to-pass-your-interview-5-tips-from-activity-7222533964161261568-cZCm)
+* [미국 인터뷰 준비하기 - 행동기반 질문 (Behavioral Interview Questions) 에 관해서. 그리고 예시](https://kaita.org/learning/blog/-OfTBLUqs0U6y2lGtp7t)
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
