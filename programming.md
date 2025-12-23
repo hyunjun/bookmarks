@@ -4149,6 +4149,8 @@ Programming
 * [기업이 클라우드 설정 오류를 통제하지 못하는 이유 | ITWorld](https://www.itworld.co.kr/article/4087129/%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%A4%EC%A0%95-%EC%98%A4%EB%A5%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0.html)
 * [클라우드 감 잡기 - YouTube](https://www.youtube.com/playlist?list=PLeWIi-8hd-6VWETumISWV7omy01d37GMU)
 * [AWS AI 팩토리, 혁신의 뒤에 숨은 비용과 종속성 | ITWorld](https://www.itworld.co.kr/article/4107475/aws-ai-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%98%81%EC%8B%A0%EC%9D%98-%EB%92%A4%EC%97%90-%EC%88%A8%EC%9D%80-%EB%B9%84%EC%9A%A9%EA%B3%BC-%EC%A2%85%EC%86%8D%EC%84%B1.html)
+* [Apache OpenWhisk is a serverless, open source cloud platform](https://openwhisk.apache.org/)
+  * [openwhisk: Apache OpenWhisk is an open source serverless cloud platform](https://github.com/apache/openwhisk)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
