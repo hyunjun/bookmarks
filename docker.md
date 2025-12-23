@@ -2246,6 +2246,7 @@ Docker
   * [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator](https://www.infoq.com/news/2020/01/falco-security-cncf/)
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
   * [falcosidekick: Connect Falco to your ecosystem](https://github.com/falcosecurity/falcosidekick)
+* [Fission](https://fission.io/) Open source Kubernetes-native Serverless Framework
 * [fluent-operator: Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator](https://github.com/fluent/fluent-operator)
   * [로그수집기 fluentbit in TACO LMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164136)
   * [ElasticSearch Index LifeCycle to Template with Fluentbit](https://ykarma1996.tistory.com/115)
@@ -2532,6 +2533,7 @@ Docker
 * [Kyverno](https://kyverno.io/)
   * [Best practices and lessons learnt from running Kyverno in production kubernetes | by amitagarwal | Feb, 2022 | Medium](https://amit-agarwal.medium.com/best-practices-and-lessons-learnt-from-running-kyverno-in-production-kubernetes-cd1bbecd2305)
     * [How to Generate Kyverno Admission Controller Policies with KubeArmor®](https://www.accuknox.com/blog/kyverno-admission-controller-policies-kubearmor)
+  * [Automate Pod Disruption Budgets with Kyverno Policy-as-Code | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_automating-pod-disruption-budgets-with-kyverno-activity-7401565736273338368-OKF1)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
   * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
 * Linkerd [The world's lightest, fastest service mesh. | Linkerd](https://linkerd.io/)
