@@ -700,6 +700,10 @@ Artificial Intelligence
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [Hashbrown: The TypeScript Framework for Generative UI](https://hashbrown.dev/)
   * [Hashbrown is a framework for building agents that run the browser. Built for Angular and React](https://github.com/liveloveapp/hashbrown)
+* [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://github.com/gen-verse/latentmas)
+  * [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
+  * [Princeton/UIUC/Stanford 텍스트 없는 대화: 잠재 공간(Latent Space)에서의 협업을 통한 멀티 에이전트 시스템의 혁신 ‘LatentMAS’ | by YouShin kim | Nov, 2025 | Medium](https://medium.com/@mdpman/princeton-uiuc-stanford-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%86%EB%8A%94-%EB%8C%80%ED%99%94-%EC%9E%A0%EC%9E%AC-%EA%B3%B5%EA%B0%84-latent-space-%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%91%EC%97%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%ED%98%81%EC%8B%A0-latentmas-2829777fc73a)
+  * ["AI가 스스로 협력하는 법을 배우기 시작했다!" 프린스턴, 스탠퍼드의 충격적 논문 - LCMAS | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-slsstwswktxu-activity-7401742864352768002-_-HE)
 * [LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.](https://github.com/wxai-space/LightAgent)
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
