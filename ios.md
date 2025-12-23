@@ -694,6 +694,7 @@ iOS
 * [MapoFM-iOS: 마포FM 앱의 iOS 버전 제안](https://github.com/nedpark/MapoFM-iOS)
 * [macOS 또는 Linux 가상 머신 만들기 - YouTube](https://www.youtube.com/watch?v=mg5GxH81X5M) VZVirtualMachine
 * [iOS App Extension의 안정성 확보하기. iOS 앱을 개발하다 보면 App Extension(확장 프로그램)에서… | by jaden.jhlee | KREAM 기술 블로그 | Medium](https://medium.com/kream-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8/ios-app-extension%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1-%ED%99%95%EB%B3%B4%ED%95%98%EA%B8%B0-0b7009754d80)
+* [애플은 왜 Java를 버리고 Swift를 택했을까? (안전 = 공짜 아님) - YouTube](https://www.youtube.com/watch?v=BgJGoyIquRw)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
