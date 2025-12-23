@@ -67,6 +67,15 @@ Logging
 * [프론트엔드 로깅 신경 안 쓰기](https://toss.tech/article/engineering-note-5)
 * [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
 * [UX 원칙에 따른 NELO 4.0 개발기](https://d2.naver.com/helloworld/2461452)
+* [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
+  * [로깅은 엉망이다 | GeekNews](https://news.hada.io/topic?id=25239)
+    * Structured Logging: 문자열 대신 키-값(JSON) 형태로 기록하는 방식
+    * Cardinality(카디널리티) : 필드의 고유값 개수, 예를 들어 user_id는 매우 높음
+    * Dimensionality(차원 수) : 로그 이벤트 내 필드 개수, 많을수록 분석 가능성이 높음
+    * Wide Event / Canonical Log Line: 요청당 하나의 맥락이 풍부한 단일 로그 이벤트
+    * 대부분의 로깅 시스템은 고카디널리티 데이터를 비용 문제로 제한하지만, 실제로는 그것이 디버깅에 가장 유용
+  * log간 관계에 대한 이야기를 보다 보니
+    * 과거 c programming을 하던 시절 모든 function call에 caller - callee 관계 기록을 위한 arg를 추가했던 기억이 남
 
 # Fluent bit
 * [fluentbit](https://fluentbit.io/)
