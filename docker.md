@@ -2777,6 +2777,12 @@ Docker
   * PID를 찾아서 `nsenter`로 네트워크 네임스페이스를 찾거나
   * 이더넷 인터페이스 찾기 `conntrack`으로 연결을 보거나
   * `iptables`, `ipvsadm`를 살펴보는 방법 설명
+* [Kubernetes Networking from Packets to Pods | Blog | Luca Cavallin](https://www.lucavall.in/blog/kubernetes-networking-from-packets-to-pods)
+  * 복잡한 쿠버네티스 네트워킹의 전 과정을, 가장 근본적인 TCP/IP 모델과 리눅스 커널의 기본 원리부터 시작, 체계적으로 해부
+  * 컨테이너 격리를 위한 네임스페이스와 최신 eBPF 기술을 기반
+    * CNI 플러그인이 모든 Pod당 고유 IP를 할당하는 쿠버네티스 네트워크의 핵심 구조 설명
+  * 임시적인 Pod IP를 안정적인 접근점으로 만드는 Service 추상화와 함께, 진화된 트래픽 관리 기준인 Gateway API 소개, 상위 수준의 네트워킹 패턴 탐구
+  * 하부 패킷 처리부터 상위의 서비스 메시까지 전체 계층 구조를 이해하는 것이 쿠버네티스 환경을 성공적으로 진단하고 운영하는 데 필수적
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
