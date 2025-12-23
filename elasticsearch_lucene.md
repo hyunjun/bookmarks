@@ -406,6 +406,7 @@ ElasticSearch - Lucene
 * [ElasticON EMEA: The Search for Relevance with Vector Search - YouTube](https://www.youtube.com/watch?v=MUve9LiEAeI)
 * [Vector Databases and the Future of AI-powered Search - Sam Partee - YouTube](https://www.youtube.com/watch?v=g2bNHLeKlAg)
 * [Lexical and Semantic Search with Elasticsearch — Elastic Search Labs](https://www.elastic.co/search-labs/blog/articles/lexical-and-semantic-search-with-elasticsearch) vector search
+* [RaBitQ: 1-Bit Vector Quantization (Part 1) | by Dnotitia Inc. | Dec, 2025 | Medium](https://medium.com/@dnotitia/rabitq-1-bit-vector-quantization-part-1-1495172e88ec)
 * [엘라스틱서치 주요 용어 정리 : 네이버 블로그](https://blog.naver.com/gi_balja/223175399401)
 * [엘라스틱서치 검색 : 네이버 블로그](https://blog.naver.com/gi_balja/223176602239)
 * [엘라스틱서치 ELK 설치 방법 : 네이버 블로그](https://blog.naver.com/gi_balja/223178660486)
