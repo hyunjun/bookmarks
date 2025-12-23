@@ -240,7 +240,6 @@ Algorithm
   * [House Robber Google, Amazon, Apple, Microsoft coding interview question Dynamic programming Leetcode - YouTube](https://www.youtube.com/watch?v=b1D84bDIObc)
   * [Binary Tree Maximum Path Sum: 124 - Tree interview Question @ Google, apple, Amazon, meta, microsoft - YouTube](https://www.youtube.com/watch?v=6wv9yMSenvQ)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
-* [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
 * [좌표 압축 알고리즘 : 범위가 클 때 어떻게 공간을 줄일까요?](https://codingdog.tistory.com/entry/%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%94%EC%9C%84%EA%B0%80-%ED%81%B4-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [큰 수를 어떻게 좌표 압축하면 좋을까요](https://codingdog.tistory.com/entry/%ED%81%B0-%EC%88%98%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
@@ -319,14 +318,12 @@ Algorithm
 * [The Drunk Passenger Problem. An interesting and seemingly difficult… | by Rishi Dey Chowdhury (RishiDarkDevil) | Medium](https://medium.com/@rishidarkdevil/the-drunk-passenger-problem-554ebb7bd151)
   * [" 초봉 3억 외국 회사 면접 질문 " - YouTube](https://www.youtube.com/watch?v=zznpJFhuLTg)
     * [drunkpassenger.py](https://github.com/CodingVillainKor/manim-kor/blob/main/drunkpassenger.py)
-* [100배 더 빠른 경로 최적화 솔루션을 제공하는 기록적인 NVIDIA cuOpt 알고리즘 - NVIDIA Technical Blog](https://developer.nvidia.com/ko-kr/blog/record-breaking-nvidia-cuopt-algorithms-deliver-route-optimization-solutions-100x-faster)
 * [1 Billion Row Challenge](https://1brc.dev/)
 * [세션 게임의 매치메이킹 알고리즘. Elo, Glicko, TrueSkill, EOMM 그리고… | by scalalang2 | 취미로 논문 읽는 그룹 | Jun, 2024 | Medium](https://medium.com/rate-labs/%EC%84%B8%EC%85%98-%EA%B2%8C%EC%9E%84%EC%9D%98-%EB%A7%A4%EC%B9%98%EB%A9%94%EC%9D%B4%ED%82%B9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-c29989ddadcc)
 * [24' 현대모비스 알고리즘 대회 후기. 2024년 현대모비스 알고리즘 경진대회에 다녀왔습니다.  간단하게… | by scalalang2 | scalalang | Jul, 2024 | Medium](https://medium.com/scalalang/24-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8C%80%ED%9A%8C-%ED%9B%84%EA%B8%B0-c2ce076311ec)
 * [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
   * [우리의 소프트웨어 개발 알고리듬 | GeekNews](https://news.hada.io/topic?id=16383)
 * [2024 NYPC 예선 Round 1 / 2-A / 2-B 풀이 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/08/25/2024-nypc-qual/)
-* [Designing a SIMD Algorithm from Scratch · mcyoung](https://mcyoung.xyz/2023/11/27/simd-base64/) SIMD(단일 명령어 다중 데이터)를 이용하여 base64 디코딩을 최적화한 알고리즘 소개
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -671,11 +668,6 @@ Algorithm
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [OpenDSA - infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages](https://opendsa-server.cs.vt.edu/)
   * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
-* [OR-Tools  |  Google Developers](https://developers.google.com/optimization)
-  * [or-tools: Google's Operations Research tools:](https://github.com/google/or-tools)
-  * [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html)
-    * 쏘카에서 차량의 운영효율을 높이기 위해 알고리즘 개발에 비해 짧은 시간 안에 좋은 결과를 도출할 수 있는 Solver를 사용해서 최적화 문제 해결
-    * 최적화 모델을 찾아서 Google OR-Tools로 구현해서 GCP 배포해서 운영한 결과 이전보다 평균적인 차량 사용 비율이 4% 증가
 * [Pyalgo20](https://pyalgo.co.kr/)
 * [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [thewalnut.io](https://thewalnut.io)
@@ -697,6 +689,18 @@ Algorithm
 * [Minimax with Alpha Beta Pruning](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
 * [minimax algorithm](https://www.youtube.com/watch?v=6ELUvkSkCts)
 * [Predict the Winner](https://leetcode.com/problems/predict-the-winner/solution/)
+
+# Optimization
+* [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
+* [100배 더 빠른 경로 최적화 솔루션을 제공하는 기록적인 NVIDIA cuOpt 알고리즘 - NVIDIA Technical Blog](https://developer.nvidia.com/ko-kr/blog/record-breaking-nvidia-cuopt-algorithms-deliver-route-optimization-solutions-100x-faster)
+* [Designing a SIMD Algorithm from Scratch · mcyoung](https://mcyoung.xyz/2023/11/27/simd-base64/) SIMD(단일 명령어 다중 데이터)를 이용하여 base64 디코딩을 최적화한 알고리즘 소개
+* [Algorithms for Optimization](https://algorithmsbook.com/optimization/)
+  * [최적화를 위한 알고리듬 PDF 이북, 621p | GeekNews](https://news.hada.io/topic?id=24757)
+* [OR-Tools  |  Google Developers](https://developers.google.com/optimization)
+  * [or-tools: Google's Operations Research tools:](https://github.com/google/or-tools)
+  * [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html)
+    * 쏘카에서 차량의 운영효율을 높이기 위해 알고리즘 개발에 비해 짧은 시간 안에 좋은 결과를 도출할 수 있는 Solver를 사용해서 최적화 문제 해결
+    * 최적화 모델을 찾아서 Google OR-Tools로 구현해서 GCP 배포해서 운영한 결과 이전보다 평균적인 차량 사용 비율이 4% 증가
 
 # Page Rank
 * [‘쉽게 설명한’ 구글의 페이지 랭크 알고리즘](https://sungmooncho.com/2012/08/26/pagerank/)
