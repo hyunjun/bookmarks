@@ -265,6 +265,9 @@ ElasticSearch - Lucene
 * [Elastic IaC 기반의 Cluster 관리](https://jjeong.tistory.com/1505)
 * [토스ㅣSLASH 23 - 대규모 로그 처리도 OK! Elasticsearch 클러스터 개선기 - YouTube](https://www.youtube.com/watch?v=_SJYU4lHa28)
 * [대규모 로그 처리도 OK! Elasticsearch 클러스터 개선기](https://toss.tech/article/slash23-data)
+* [How to Create a Sizing Formula for Your Elasticsearch Queries | by Michael B. Cizmar | Dec, 2025 | Medium](https://michaelcizmar.com/how-to-create-a-sizing-formula-for-your-elasticsearch-queries-3b56e2899869)
+  * Been coming across a lot of ignorance in how you can simply tune up your Elasticsearch cluster
+  * Some pointers of #ClusterSizing. very simple, less shards or more nodes
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
@@ -425,6 +428,7 @@ ElasticSearch - Lucene
   * [robots.txt에 대해 내가 틀렸던 점 | GeekNews](https://news.hada.io/topic?id=22114)
 * [사용자에게 선택권을 주는 Cloudflare의 새로운 콘텐츠 신호 정책](https://blog.cloudflare.com/ko-kr/content-signals-policy/) robots.txt
   * [Giving users choice with Cloudflare’s new Content Signals Policy | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_giving-users-choice-with-cloudflares-new-activity-7385816352097415168-BrWG)
+  * but how to do that tends to be complicated, an assessment service which can help
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
@@ -434,6 +438,8 @@ ElasticSearch - Lucene
 * [웨비나 녹화영상 The RED 검색엔진 구축을 위한 Elasticsearch 마스터 클래스 by 정호욱 - YouTube](https://www.youtube.com/watch?v=To8mTlkk8cU)
 * [Lexical, Vector & Hybrid Search with Elasticsearch • Carly Richmond • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=DeEkA9cunB4)
   * [Elasticsearch를 활용한 어휘, 벡터 및 하이브리드 검색: AI 시대의 관련성 탐색](https://livewiki.com/ko/content/lexical-vector-hybrid-search-elasticsearch)
+* [Station M: LLM 그냥 쓰지마세요. 네이버 AI 검색의 모델 오케스트레이션 DAN25 | TEAM NAVER CONFERENCE](https://dan.naver.com/25/sessions/721)
+* [검색 서비스에 최적화된 LLM 만들기: 데이터, 학습, 서비스 적용 사례 DAN25 | TEAM NAVER CONFERENCE](https://dan.naver.com/25/sessions/724)
 
 # Docker
 * Dockerfile
