@@ -557,6 +557,8 @@ PyTorch
 * [PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 * [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 * [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)
+* [From Single GPU to Clusters: A Practical Journey into Distributed Training with PyTorch and Ray – My Blog](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/)
+  * [Distributed Training Tutorial: Scaling Model Architectures | Suman Debnath posted on the topic | LinkedIn](https://www.linkedin.com/posts/suman-d_from-single-gpu-to-clusters-a-practical-activity-7401339274077503488-OpVz)
 * [M1 iMac 24” 에 pytorch 를 돌려보았다](https://taekangwoo.notion.site/M1-iMac-24-pytorch-2b2998c452c2430e921399b67cae3299)
 * [Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 * [파이토치 자세한 튜토리얼 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/torch-tutorial/#22-%EA%B0%80%EC%A4%91%EC%B9%98-%EC%B4%88%EA%B8%B0%EA%B0%92-%EC%83%9D%EC%84%B1)
