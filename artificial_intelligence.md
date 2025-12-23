@@ -591,6 +591,8 @@ Artificial Intelligence
   * 1️⃣ Text is the new state. (Natural language is your database and configuration)
   * 2️⃣ Errors are inputs. (Hallucinations and failures are part of the flow)
   * 3️⃣ Evals > Tests. (Pass/Fail is dead; performance is a spectrum)
+* [Agents 2.0: From Shallow Loops to Deep Agents](https://www.philschmid.de/agents-2.0-deep-agents)
+  * [Web 2.0에서 시작된 만큼, 2.0 접미사는 기존보다 훨씬 혁신적이자 기존 방식에서는 상상도 하지 못할 활용의 한계를 뛰어 넘는데 사용되는 것인데 이번 건은 적절해 보인다. 그렇지만 그 구조 자체를 생각해보면 Depp을 붙이는 게 더 맞을 거 같다. 깊이만 깊어지는 게 아니라고 생각한다면 multi라는 수식어도 괜찮고 complex 또는… | Sungjin Kim](https://www.linkedin.com/posts/jamessungjinkim_agents-20-from-shallow-loops-to-deep-agents-activity-7400224449683439617-8ZPu)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -724,9 +726,14 @@ Artificial Intelligence
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
+* [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
-* [Qoder - The Agentic Coding Platform](https://qoder.com/)
+* [ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows](https://github.com/NVlabs/ToolOrchestra)
+  * [ToolOrchestra](https://research.nvidia.com/labs/lpr/ToolOrchestra/)
+  * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
+  * [AI 에이전트 비용의 해결책 NVIDIA 가 "8B 파라미터 오케스트레이터가 GPT-5, Claude, 전문 모델들을 적재적소에 호출하며 더 나은 결과를 만들어내는" 프레임워크, ToolOrchestra를 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-activity-7402119478349905921-dGF5)
+    * 거대 모델 하나에 의존하는 대신, 작은 지휘자가 여러 도구를 조율하는 발상의 전환
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
   * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
 
@@ -898,6 +905,10 @@ Artificial Intelligence
   * [구글이 오픈소스로 공개한 에이전트 운영의 비밀 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_tegtqvswmtxu-uikrxwuiktxu-tegtqvswmtxuslwtfmqwislqrez-activity-7408627379788509184-WAKK)
   * [adk-codingtest-gen-agent: 구글 ADK를 기반으로 코딩테스트를 자동으로 만들어주는 에이전트입니다](https://github.com/jeyong-shin/adk-codingtest-gen-agent)
     * [구글 ADK로 코딩테스트 자동 생성 Agent 구현하기 - LoopAgent의 활용 - YouTube](https://www.youtube.com/watch?v=GiqqlQm73sQ)
+  * [agent-development-kit-crash-course](https://github.com/bhancockio/agent-development-kit-crash-course)
+    * 구글의 Agent Development Kit(ADK)를 학습할 수 있는 예제들로 구성, LLM 기반 에이전트를 개발하는 데 중점
+    * 기본 에이전트부터 멀티 에이전트, 상태 관리, 도구 사용, 콜백 처리 등 다양한 실습 제공
+    * API 키 설정, 환경 세팅 방법 등 실무 적용에 필요한 절차도 포함
   * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
