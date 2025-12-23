@@ -8817,6 +8817,8 @@ Programming
     * [수조 달러를 쏟아붓고도 여전히 실패하는 대형 소프트웨어 프로젝트들 | GeekNews | 박성철](https://www.linkedin.com/posts/fupfin_%EC%88%98%EC%A1%B0-%EB%8B%AC%EB%9F%AC%EB%A5%BC-%EC%8F%9F%EC%95%84%EB%B6%93%EA%B3%A0%EB%8F%84-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94-%EB%8C%80%ED%98%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4-geeknews-activity-7400060225443160064-K4Gp)
 * [3편) IT 개발 회사에서 경험한 소프트웨어 공학 이야기 | devops , agile - YouTube](https://www.youtube.com/watch?v=ipBhtUdORhA)
   * [IT 개발 회사 소프트웨어 공학: DevOps, 애자일, 아키텍처 핵심 개념 및 활용 전략](https://livewiki.com/ko/content/it-devops-agile)
+* [Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans — ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data | Tom's Hardware](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
+  * [Helldivers 2 개발팀, 설치 용량을 154GB에서 23GB로 축소 | GeekNews](https://news.hada.io/topic?id=24832)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
