@@ -2598,6 +2598,8 @@ Web
   * 글에서는 향후 커널 드라이버, AI 기반 신뢰할 수 없는 코드 실행 등 새로운 활용 영역을 제시하며, Wasm이 격리가 필요한 보안 중요 시스템에서 더욱 중요한 역할을 할 것으로 전망
 * [Wasm 3.0 Completed - WebAssembly](https://webassembly.org/news/2025-09-17-wasm-3.0/)
   * [WASM 3.0 완성 | GeekNews](https://news.hada.io/topic?id=23141)
+* [Building Reactive Data Apps with Shinylive and WebAssembly - YouTube](https://www.youtube.com/watch?v=vHFTeSCvpw0)
+  * [Shinylive와 WebAssembly로 반응형 데이터 앱 구축하기](https://livewiki.com/ko/content/shinylive-webassembly-reactive-apps)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
