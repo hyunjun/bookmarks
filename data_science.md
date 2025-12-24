@@ -675,6 +675,9 @@ Data Science
   * 원하는 실험 단계의 결과를 조합해서 분석 가능 (tagging도 가능)
   * MetaFlow는 기본적으로, "first class support for various services on AWS" 인 라이브러리. Amazon S3에 배포하는 튜토리얼도 잘 작성
   * [How Metaflow Became Netflix's Beloved Data Science Framework • Julie Amundson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=3p4QMfXp8TU)
+  * [Netflix's Metaflow Spin: Faster ML Development | Netflix TechBlog](https://netflixtechblog.com/supercharging-the-ml-and-ai-development-experience-at-netflix-b2d5b95c63eb)
+    * 미디어 자산(영상, 오디오, 이미지 등)을 효과적으로 관리하고 활용하기 위해 ‘Media ML Data Engineering’과 ‘Media Data Lake’를 도입
+    * 이를 통해 표준화된 데이터와 다양한 도구(UI·API)로 ML 모델 개발과 실험이 빨라지고, 추천·검색 등 AI 기능의 품질 향상
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Mockium - A test data generator with no limit on the number of rows](https://softwium.com/mockium/)
