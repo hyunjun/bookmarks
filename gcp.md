@@ -199,6 +199,7 @@ Google Cloud Platform GCP
 * [Google Calendar 기반 GCE(VM) Managed Instance Group 오토스케일 자동화](https://seonggi.kr/280)
 * [GCP 프로젝트의 VPC 와 종속된 리소스 삭제 스크립트](https://seonggi.kr/283)
   * [GCP 프로젝트의 VPC 와 종속된 리소스 삭제 스크립트 | Choi Seong Gi (최성기)](https://www.linkedin.com/posts/seonggi_gcp-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-vpc-%EC%99%80-%EC%A2%85%EC%86%8D%EB%90%9C-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%82%AD%EC%A0%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-activity-7374403357928648704-mh2e)
+* [Google Cloud's Agentic AI Architecture Blueprint for GCP | Mahmoud Rabie posted on the topic | LinkedIn](https://www.linkedin.com/posts/mahmoudrabie2004_forabrsolutionsabrarchitects-forabraiabrarchitects-activity-7401007979006767104-jHZ3)
 
 # BigQuery
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
