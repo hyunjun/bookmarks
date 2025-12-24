@@ -2422,6 +2422,10 @@ Business
 * [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
 * [여현준 on LinkedIn: #일의편린 #인사 대체 불가한 인재](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-suasmc-activity-7194816070203908096-NGwu)
 * ["단 한번도 후회 안 해" 김태호 PD가 21년만에 MBC 퇴사한 구체적 이유를 고백했고, '시대가 정말 달라졌구나' 싶다(서울체크인) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/kim-tae-ho-ott_kr_624d12b8e4b0981745076861) 핵심 인재에 대한 자율 보장
+* [- 진짜 핵심인재 vs. 유독한 고성과자 AI 시대, 기업 경영의 핵심 화두는 단연 ‘인재 밀도’입니다. 소수 정예의 핵심 인재가 만드는 생산성이 곧 기업 경쟁력이 되는 시대 흐름은 이제 선택이 아니라 생존 전략입니다. 하지만 여기서 많은 리더가 치명적인 착시에 빠집니다. 핵심인재와 유독한 고성과자를 구분하지 못하는 것입니다. 우리 주변에는 일 잘하는… | Do Young kim | 12 comments](https://www.linkedin.com/posts/do-young-kim-1436423a_%EC%A7%84%EC%A7%9C-%ED%95%B5%EC%8B%AC%EC%9D%B8%EC%9E%AC-vs-%EC%9C%A0%EB%8F%85%ED%95%9C-%EA%B3%A0%EC%84%B1%EA%B3%BC%EC%9E%90-ai-%EC%8B%9C%EB%8C%80-%EA%B8%B0%EC%97%85-%EA%B2%BD%EC%98%81%EC%9D%98-%ED%95%B5%EC%8B%AC-activity-7397813573676261376-hyo_)
+  * 1. 떠난 뒤 ‘노하우’가 남는가, ‘공백’이 남는가
+  * 2. 문제가 생겼을 때 ‘스스로를 보는가’, ‘남을 탓하는가’
+  * 3. 주변을 ‘더 똑똑하게’ 만드는가, ‘더 조용하게’ 만드는가
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
