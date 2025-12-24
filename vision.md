@@ -603,6 +603,8 @@ Vision
   * [이상선 - DeepSeek OCR — 문서 이해의 새로운 패러다임 핵심 요약 DeepSeek 팀이 공개한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid06mWUWBDdaVAqLWQ1u7r9pwRRpB9gBYHoiE3eKdMhiGZqSrC7s3Bp1m5kRpuyyYL5l)
   * DeepEncoder [중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 | 텍스트를 이미지로 10배 압축 - YouTube](https://www.youtube.com/watch?v=S2VCvsE2iOk)
   * [문서를 스캔떠서 LLM에 입력한다면 더 효율적이지 않을까? (w. DeepSeek) | 고영건](https://www.linkedin.com/posts/%EC%98%81%EA%B1%B4-%EA%B3%A0-860b262bb_deepseek-ocrdeepseekocrpaperpdf-at-main-activity-7386321067092381696-_3RM)
+  * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역](https://kr.linkedin.com/pulse/adaptiveavgpool1d-deepseekocr-%EC%97%90%EC%84%9C%EC%9D%98-%EC%8B%9C%ED%80%80%EC%8A%A4-%EC%95%95%EC%B6%95%EC%9D%98-%EC%88%A8%EC%9D%80-%EC%A3%BC%EC%97%AD-sigrid-jin--ncgqc)
+    * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EC%88%98%EB%A7%8E%EC%9D%80-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4%EC%9D%84-%EB%A7%8C%EB%82%98%EA%B2%8C-%EB%90%A9%EB%8B%88%EB%8B%A4-%EA%B7%B8%EC%A4%91%EC%97%90%EC%84%9C-activity-7400813199480004608-MJDO)
   * [Deepseek_OCR_(3B).ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Deepseek_OCR_\(3B\).ipynb)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
