@@ -1823,6 +1823,9 @@ Programming
 * [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+* [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+  * [시작은 모놀리스면 충분합니다](https://www.linkedin.com/pulse/%EC%8B%9C%EC%9E%91%EC%9D%80-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4%EB%A9%B4-%EC%B6%A9%EB%B6%84%ED%95%A9%EB%8B%88%EB%8B%A4-springrunner-qzmyc)
+    * [시작은 모놀리스면 충분합니다 | SpringRunner](https://www.linkedin.com/posts/springrunner_%EC%96%BC%EB%A7%88%EC%A0%84-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%AA%A8%EB%93%88%EB%A6%AC%EC%8A%A4spring-modulith%EB%8F%84-20-ga-%EB%B2%84%EC%A0%84%EC%9D%B4-ugcPost-7400814873284243456-_KG3)
 * [**Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech**](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
   * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
@@ -3569,6 +3572,7 @@ Programming
   * 작은 팀이 마이크로서비스를 쓰는 건 “스케일을 꿈꾸는 척하며 스스로를 느리게 만드는 자기파괴적 선택”이며, 제대로 된 모놀리식(monolith) 아키텍처와 팀 규율이 훨씬 낫다는 주장
 * [MSA로 분리 후 행복하게 살았답니다?: Go Server의 성장기 | 2025 당근 플랫폼 밋업 - YouTube](https://www.youtube.com/watch?v=V4jPe5RnyUY)
   * [MSA 분리 후 Go 서버 성장기: 레이어드 아키텍처와 성능 최적화 경험 | 2025 당근 플랫폼 밋업](https://livewiki.com/ko/content/go-server-growth-danggeun-meetup)
+* [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
