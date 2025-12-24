@@ -634,6 +634,7 @@ Web
 * [Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
   * [24시간 만에 10억 웹페이지를 크롤링한 2025년형 대규모 크롤러 구축기 | GeekNews](https://news.hada.io/topic?id=22118)
+* [awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing](https://github.com/lorien/awesome-web-scraping)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
