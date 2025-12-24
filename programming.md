@@ -616,6 +616,8 @@ Programming
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [Listener 함수 이름은 어떻게 지어야 할까? — onUserChange() vs onUserChanged() | by Ted Park | PRND | Feb, 2023 | Medium](https://medium.com/prnd/listener-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%80%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-onuserchange-vs-onuserchanged-28a0aa95a192) naming
 * [함수, 이렇게 만들면 넌 주니어 - YouTube](https://www.youtube.com/watch?v=Wd6FJ1s_ZUc) naming
+* [재사용은커녕 단 한 번 호출... 그런데도 합당했던 함수 | 포프머신](https://blog.popekim.com/ko/2025/08/17/tempdata-helper.html)
+  * [딱 한 번 호출되는 함수, 자랑스럽습니다 - YouTube](https://www.youtube.com/watch?v=groyUh7x24I)
 * [시간을 초월한 개발자에 대한 조언: 이름 짓기 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4620)
 * [개발시 내용을 정확히 반영하는 변수명을 사용하는 것은 아주 중요합니다 – 형우의 웹개발](https://mytory.net/archives/15897)
 * [Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Sep, 2022 | Better Programming](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
@@ -5631,6 +5633,7 @@ Programming
   * [X, Vercel, Cursor, Discord 등 수백 개 기업을 공급망 공격으로 침투한 | GeekNews](https://news.hada.io/topic?id=25177)
 * [React, NextJS 해킹 당했습니다. 지금 당장 업데이트 하세요 - YouTube](https://www.youtube.com/watch?v=Ne_-V3NAXpY)
 * [누적식 보안의 위험: 취약점 클리닝 서비스에서 발견된 RCE 사례 - Theori 블로그](https://theori.io/ko/blog/security-risk-of-security-vulnerability-cleaning-service)
+* [이메일 인증은 어떻게 구현하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3515/)
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
