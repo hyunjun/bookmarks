@@ -597,6 +597,8 @@ Vision
 * [카카오 AI가 법인카드 영수증을 처리하는 방법: AI 간편 정산 개발기 - tech.kakao.com](https://tech.kakao.com/posts/720)
 * [chandra: OCR model that handles complex tables, forms, handwriting with full layout.](https://github.com/datalab-to/chandra)
   * [Everyone is sleeping on this new OCR model! (supports 40+ languages & it's open-source) Datalab's Chandra topped independent benchmarks and beat the previously best dots-ocr. - Supports 40+… | Akshay Pachaar | 38 comments](https://www.linkedin.com/posts/akshay-pachaar_everyone-is-sleeping-on-this-new-ocr-model-ugcPost-7390387191006494720-5ylc)
+  * [Chandra OCR이란?](https://lsjsj92.tistory.com/709)
+    * [(개인적인) 2025년 최고의 오픈소스 OCR: Chandra | soojin lee](https://www.linkedin.com/posts/lsjsj92_ocr-documentai-rag-activity-7408478042437742592-OI1b)
 * [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/tree/main)
   * [이상선 - DeepSeek OCR — 문서 이해의 새로운 패러다임 핵심 요약 DeepSeek 팀이 공개한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid06mWUWBDdaVAqLWQ1u7r9pwRRpB9gBYHoiE3eKdMhiGZqSrC7s3Bp1m5kRpuyyYL5l)
   * DeepEncoder [중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 | 텍스트를 이미지로 10배 압축 - YouTube](https://www.youtube.com/watch?v=S2VCvsE2iOk)
