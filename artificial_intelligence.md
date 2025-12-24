@@ -595,6 +595,8 @@ Artificial Intelligence
   * 3️⃣ Evals > Tests. (Pass/Fail is dead; performance is a spectrum)
 * [Agents 2.0: From Shallow Loops to Deep Agents](https://www.philschmid.de/agents-2.0-deep-agents)
   * [Web 2.0에서 시작된 만큼, 2.0 접미사는 기존보다 훨씬 혁신적이자 기존 방식에서는 상상도 하지 못할 활용의 한계를 뛰어 넘는데 사용되는 것인데 이번 건은 적절해 보인다. 그렇지만 그 구조 자체를 생각해보면 Depp을 붙이는 게 더 맞을 거 같다. 깊이만 깊어지는 게 아니라고 생각한다면 multi라는 수식어도 괜찮고 complex 또는… | Sungjin Kim](https://www.linkedin.com/posts/jamessungjinkim_agents-20-from-shallow-loops-to-deep-agents-activity-7400224449683439617-8ZPu)
+* [What it means to get your data ready for AI | by Lak Lakshmanan | Nov, 2025 | AI Advances](https://ai.gopubby.com/what-it-means-to-get-your-data-ready-for-ai-518861a8f025)
+  * [새로운 데이터 소비자, AI Agent를 맞이하기 위한 DE의 준비 | JONG GOO YEO](https://www.linkedin.com/posts/jong-goo-yeo-4998bb49_what-it-means-to-get-your-data-ready-for-activity-7398965559163351040-XgIj)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -829,6 +831,8 @@ Artificial Intelligence
 * context rot
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
   * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
+* [fenic: Declarative context engineering for agents](https://github.com/typedef-ai/fenic)
+  * [What is fenic? - fenic, by typedef](https://docs.fenic.ai/)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
@@ -2165,6 +2169,7 @@ Artificial Intelligence
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
   * [Ollama + Chatbox AI 자신의 PC에 DeepSeek과 같은 언어 모델을 설치해서 ChatGPT처럼 사용하기 - YouTube](https://www.youtube.com/watch?v=V1b7l6ybQXc)
+* [CUA - Computer Use Agent 2.0 - a Hugging Face Space by smolagents](https://huggingface.co/spaces/smolagents/computer-use-agent)
 * [deep-scholar](https://deep-scholar.vercel.app)
   * 수백 편의 논문을 소화하고 모든 출처 링크와 함께 길고 깔끔한 리뷰를 제공할 수 있는 DeepResearch의 오픈 소스 대안
   * OpenAI의 DeepResearch보다 2배 빠르게 작동, 벤치마크 품질도 비슷하거나 더 높다는 평가
@@ -2317,6 +2322,8 @@ Artificial Intelligence
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [VibeDoc: 🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds](https://github.com/JasonRobertDestiny/VibeDoc)
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
+* [VoiceTypr — Offline AI voice to text app for founders and builders](https://voicetypr.com/)
+  * [VoiceTypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper](https://github.com/moinulmoin/voicetypr/)
 * [WaterCrawl: Transform Web Content into LLM-Ready Data](https://github.com/watercrawl/WaterCrawl)
   * [이상선 - WaterCrawl — 웹 스크래핑을 예술로 만든 AI급 크롤링 툴 혁신적 웹 스크래핑 도구:... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02v6qEr68FBV2mjh1UYAi3EqHJFZXvqEBryeTRtBERkgVof4YcLYVRVgwgLc1R2TiWl)
 * [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
@@ -2638,6 +2645,7 @@ Artificial Intelligence
     * 특히 Claude의 강점인 긴 컨텍스트 처리와 복잡한 추론 능력을 극대화하기 위한 방법론을 담고 있으며, 개발자와 연구자들이 Claude를 활용해 고품질의 결과물을 일관되게 얻을 수 있도록 도움
     * 코드 생성, 데이터 분석, 콘텐츠 생성 등 다양한 영역에서의 활용 예시와 함께 실용적인 가이드를 제공
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
+  * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [CocoIndex](https://cocoindex.io/)
@@ -2662,6 +2670,7 @@ Artificial Intelligence
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
   * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
     * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
+  * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
@@ -3013,6 +3022,7 @@ Artificial Intelligence
   * [From Zero to AI Hero](https://www.aihero.dev/)
 * [AI Python for Beginners - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
   * [초보자를 위한 AI Python - Andrew Ng 의 무료 강의 | GeekNews](https://news.hada.io/topic?id=18419)
+* [AI-Tutorial-Codes-Included: Codes/Notebooks for AI Projects](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 * [Artificial Intelligence | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
 * [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
