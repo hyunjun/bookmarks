@@ -1919,6 +1919,7 @@ App
 * [개발자를 위한 애플 실리콘 M1 맥 세팅 | 44BITS](https://www.44bits.io/ko/post/setup-apple-silicon-m1-for-developers)
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * [M1 맥북 개발 환경 세팅](https://jojoldu.tistory.com/571)
+* [맥 개발환경 시작하기 - YouTube](https://www.youtube.com/watch?v=BQzILLuVNkg)
 * [애플 실리콘(M1) 터미널 환경 설정하기 | ~/xo.dev](https://xo.dev/m1-terminal-environment-setup/)
 * [macOS Setup after 15 Years of Linux · HookRace Blog](https://hookrace.net/blog/macos-setup/) M1 설정
 * [Python M1 맥북에서 Python 설치하기. Apple M1 ARM 아키텍쳐에서 파이썬 3.9.1 미만의 버전을… | by chrisjune | Medium](https://chrisjune-13837.medium.com/python-m1-%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-python-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-4f0907dd5da8)
