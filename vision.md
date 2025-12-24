@@ -345,6 +345,7 @@ Vision
 * [Deep Learning at Scale: Distributed Training and Hyperparameter Search for Image Recognition Problems](https://www.infoq.com/presentations/train-large-models/)
 * [서비스에서 야경 좋은 식당 찾기 — Vision, Semi-supervised learning, Hierarchical classification | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%BC%EA%B2%BD-%EC%A2%8B%EC%9D%80-%EC%8B%9D%EB%8B%B9-%EC%B0%BE%EA%B8%B0-vision-semi-supervised-learning-hierarchical-classification-126b19572d8b)
 * [Face Recognition](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23)
+* [Face Recognition Technology Evaluation (FRTE) 1:1 Verification](https://pages.nist.gov/frvt/html/frvt11.html)
 * [데이터야놀자2021 Transfer Learning으로 효율적인 이미지 분류모델 만들기 - 박경호/정현희님 - YouTube](https://www.youtube.com/watch?v=EVCKPRmlQGA)
 * [이미지 분류 모델 개발, 아직도 데이터만 기다려? - tech.kakao.com](https://tech.kakao.com/posts/623)
 * [A new, unique AI dataset for animating amateur drawings](https://ai.facebook.com/blog/ai-dataset-animating-kids-drawings/)
