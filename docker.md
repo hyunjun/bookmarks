@@ -2072,6 +2072,10 @@ Docker
 * [Kubernetes GPU 클러스터에서 AI 서비스 오토스케일링하기](https://d2.naver.com/helloworld/0251755)
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 01. 쿠버네티스로 구현하는 생성형 AI 클라우드 네이티브 아키텍처 - YouTube](https://www.youtube.com/watch?v=YYETIcL92NQ)
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 02. Petasus AI Cloud: AI 워크로드 최적화를 위한 쿠버네티스 기반 가상화 플랫폼 - YouTube](https://www.youtube.com/watch?v=U63qZE_AZrk)
+* [AI Infrastructure on Kubernetes](https://kube.today/ai-infrastructure-2025)
+  * 대부분 조직은 수천 노드 이하의 클러스터를 운영하면서 GPU 비용 최적화와 활용도 개선에 어려움 경험
+  * AI 훈련과 추론 워크로드 통합 운영이 선호되며, 노드 관리에서는 자동화 도구 사용이 늘고 있으나 아직 수동 관리도 상당
+  * 인프라 확장보다는 조직의 역량과 운영 성숙도가 더 중요하다고 평가
 * [쿠버네티스 컨테이너 한방 정리 #3 - 일프로님의 블로그 - 인프런 | 커뮤니티](https://www.inflearn.com/blogs/3576)
 * [k8s 마스터 장애, 당황하지 마세요! kubeadm HA etcd 백업/복구 Step-by-Step – 매주 한 page, 기술 한 spoon](https://showinfo8.com/2025/07/05/k8s-%eb%a7%88%ec%8a%a4%ed%84%b0-%ec%9e%a5%ec%95%a0-%eb%8b%b9%ed%99%a9%ed%95%98%ec%a7%80-%eb%a7%88%ec%84%b8%ec%9a%94-kubeadm-ha-etcd-%eb%b0%b1%ec%97%85-%eb%b3%b5%ea%b5%ac-step-by-step/)
 * [Kubernetes Korea Group | 여기에 마지막으로 글을 쓴 게 언제였더라 찾아보니, 작년 12월 14일이네요 | Facebook](https://www.facebook.com/groups/k8skr/permalink/4326636030951370/)
@@ -2092,6 +2096,12 @@ Docker
 * [오픈소스 ‘인그레스 엔진엑스’ 대안, ‘F5 엔진엑스 인그레스 컨트롤러’ - 데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=207919)
 * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark](https://palark.com/blog/in-place-pod-resizing-kubernetes/)
   * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_in-place-pod-resizing-in-kubernetes-how-activity-7398830039225683968-FBId)
+* [From Linux Primitives to Kubernetes Security Contexts](https://learnkube.com/security-contexts)
+  * 리눅스 컨테이너 보안의 근간이 되는 원시적인 개념부터 쿠버네티스의 추상화된 Security Contexts를 활용하는 실용적인 방법까지 심도 있게 탐구
+  * 컨테이너가 기본적으로 root 권한으로 실행되어 프로덕션 환경에서 불필요한 위험을 초래한다는 문제점을 지적하며 시작
+  * 이를 해결하기 위해, 컨테이너 격리의 기반이 되는 리눅스의 핵심 메커니즘인 시스템 호출(Syscalls), 자원 제한을 강제하는 cgroups, 그리고 프로세스 가시성을 격리하는 Namespaces의 역할 설명
+  * 궁극적으로 쿠버네티스의 runAsNonRoot, allowPrivilegeEscalation: false, readOnlyRootFilesystem: true 설정과 Linux Capabilities 제어를 통해
+    * 애플리케이션에 필요한 최소한의 권한만을 부여하여 보안 위험을 최소화하는 계층화된 방어 전략 강조
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
