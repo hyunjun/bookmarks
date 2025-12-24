@@ -543,6 +543,8 @@ Artificial Intelligence
 * [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)
   * [7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_7-must-know-agentic-ai-design-patterns-activity-7387226865666752512-sIj7)
     * ReAct, Reflection, Planning, Tool Use, Multi-Agent Collaboration, Sequential Workflows, Human-in-the-Loop
+* [Agent Design Is Still Hard | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+  * [에이전트 설계는 여전히 어렵다 | GeekNews](https://news.hada.io/topic?id=24549)
 * [Function Calling + ReAct— From Generation to Agent | by Yuanyuan Lu | Nov, 2025 | Medium](https://medium.com/@monodara.lu/function-calling-react-from-generation-to-agent-457694cf9566)
   * [Function Calling + ReAct— From Generation to Agent | Yuanyuan Lu](https://www.linkedin.com/posts/yuan-yuan-lu_function-calling-react-from-generation-activity-7393599316688359424-9r_j)
 * [The Complete Guide to AI Agents — Build from Scratch | Maryam Miradi, PhD | 47 comments](https://www.linkedin.com/posts/maryammiradi_the-complete-guide-to-ai-agents-build-from-ugcPost-7384249905340448768-i9R1)
@@ -623,6 +625,8 @@ Artificial Intelligence
 * [2512.13564 Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)
   * [전종홍 - 에이전트 메모리(agent memory) 연구 분야에서의 개념적 혼란과 분류 체계의 한계를 해결하고자 한... | Facebook](https://www.facebook.com/1biit/posts/pfbid0q6UUmg6gjMzjxFFeHJWB3hS2CMYAH4NiqJA6Z6wRX7Bc7WKEMBfn2d9wiHmoNbSrl)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
+* [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
+  * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
@@ -1959,6 +1963,8 @@ Artificial Intelligence
 * [AI뉴스 - Z-Image, Flux 2, 클로드 오퍼스 4.5, 오픈AI 광고, 쇼핑, DeepSeekMath-V2, Fara-7B, HunyuanOCR 등 - YouTube](https://www.youtube.com/watch?v=2y58QCE18Jw)
   * [Z-Image, 클로드 오퍼스 4.5, 플럭스 2 등 이번 주 AI 뉴스 총정리 (조코딩)](https://livewiki.com/ko/content/ai-news-z-image-flux-2-claude-opus-4-5-openai-ads-shopping-deepseekmath-v2-fara-7b-hunyuanocr)
 * [특별대담 어느날 AI가 내 옆자리로 출근했다 - MIT 테크놀로지 리뷰 | MIT Technology Review Korea](https://www.technologyreview.kr/%EC%96%B4%EB%8A%90%EB%82%A0-ai%EA%B0%80-%EB%82%B4-%EC%98%86%EC%9E%90%EB%A6%AC%EB%A1%9C-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8B%A4/)
+* [초고속 제품 팀이 AI로 날개를 다는 법. 분명 올해 초에는 AI 업계가 아닌 사람들을 만나면 “그쪽 업계는… | by Yechanny | Nov, 2025 | Medium](https://medium.com/@yechanny/%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%9C%ED%92%88-%ED%8C%80%EC%9D%B4-ai%EB%A1%9C-%EB%82%A0%EA%B0%9C%EB%A5%BC-%EB%8B%A4%EB%8A%94-%EB%B2%95-c9a12241b7e5)
+  * [초고속 제품 팀이 AI로 날개를 다는 법 | 이예찬](https://www.linkedin.com/posts/yechanny_%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%9C%ED%92%88-%ED%8C%80%EC%9D%B4-ai%EB%A1%9C-%EB%82%A0%EA%B0%9C%EB%A5%BC-%EB%8B%A4%EB%8A%94-%EB%B2%95-activity-7398277878855028736-bf-6)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -1988,6 +1994,8 @@ Artificial Intelligence
 
 # Paper
 * [The 2025 AI Engineering Reading List - Latent.Space](https://www.latent.space/p/2025-papers)
+* [AI for Science 21/11/25](https://www.notion.so/koomook/AI-for-Science-21-11-25-2b22b37d07c4806a8befeb3dc8d53434)
+  * [AI for Science 21/11/25 | Notion | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai-for-science-211125-notion-activity-7397506385451724800-C7lB)
 * [2502.01493 The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration](https://arxiv.org/abs/2502.01493)
   * [이 논문은 인간-AI 협업이 기능하기 위해 반드시 갖추어야 할 세 가지 조건을 제시한다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-%EC%9D%B8%EA%B0%84-ai-%ED%98%91%EC%97%85%EC%9D%B4-%EA%B8%B0%EB%8A%A5%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-activity-7350147720826798080-rsLH)
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
@@ -2547,6 +2555,7 @@ Artificial Intelligence
   * [클로드 코드로 63일 만에 혼자서 엔터프라이즈급 웹앱 구축한 사연 | 요즘IT](https://yozm.wishket.com/magazine/detail/3469/)
     * [개발자 5명 몫을 혼자? 클로드 코드와 함께한 63일, 950시간의 개발 기록 | 이애본 한신대 AI SW 겸임교수 & 개발자 - YouTube](https://www.youtube.com/watch?v=2X3phzeo-uY)
       * [클로드 코드와 63일, 950시간 개발 기록: AI 협업으로 5인 몫 해내다](https://livewiki.com/ko/content/claude-ai-development-record)
+  * [모바일 기기를 그래픽 타블렛으로 바꿔주는 VirtualTablet: Bluetooth 앱 개발기 (Feat. 클로드코드) | letmecompile](https://www.letmecompile.com/virtualtablet-bluetooth-devlog-with-claude-code/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
