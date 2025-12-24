@@ -141,6 +141,8 @@ Functional Programming
   * [VidiGo 모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까?.mp4](https://vidigo.ai/share/summary/8e6f1a36efb2)
   * [모닥불 | EP.2 함수형 프로그래밍, 프론트엔드 개발에 진짜 도움 될까? | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883491)
 * [함수형 프로그래밍이 어려운 이유 (사고의 전환 등 배울 가치 충분) - YouTube](https://www.youtube.com/watch?v=mGfXE7Gf3QE)
+* [How to Get People Excited about Functional Programming • Russ Olsen & James Lewis - YouTube](https://www.youtube.com/watch?v=9_kMT4hQkME)
+  * [함수형 프로그래밍에 대한 사람들의 흥미를 유발하는 방법 • Russ Olsen & James Lewis](https://livewiki.com/ko/content/functional-programming-excitement)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
