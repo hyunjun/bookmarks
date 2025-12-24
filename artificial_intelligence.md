@@ -1014,6 +1014,10 @@ Artificial Intelligence
       * AI가 쓴 코드를 AI의 도움으로 300시간이나 수정
       * 실제 있었던 일이라기 보단 챗지피티가 생성한 글일 가능성이 더 높다고
   * [AI가 짠 코드, 진짜 써보면 개발자는 미쳐갑니다 - Billinonnapkin](https://billionnapkin.com/ai-generated-code-dev-struggle/)
+  * [How we vibe code at a FAANG. : r/vibecoding](https://www.reddit.com/r/vibecoding/comments/1myakhd/how_we_vibe_code_at_a_faang/)
+    * [Reddit에서 "How we vibe code at a FAANG(Google, Meta, Amazon 등에서 바이브코딩하는 법)"이라는 글을 흥미롭게 보았습니다. 어떻게 AI를 활용해 프로덕션 코드를 짜고 있는지, 생산성은 얼마나 올렸는지 상세한 워크플로우를 공유했습니다. 이걸 본 사람들은 "최고의 바이브코딩 방법은 바이브코딩을 전혀 하지 않는… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_reddit%EC%97%90%EC%84%9C-how-we-vibe-code-at-a-faanggoogle-activity-7401387124752846848-ctM4)
+      * 최고의 바이브코딩 방법은 바이브코딩을 전혀 하지 않는 것
+      * 완벽한 가이드가 있어야 AI가 춤춘다
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -1314,6 +1318,7 @@ Artificial Intelligence
     * [connectors/packages/github/src/github/GithubService.ts at main · wrtnlabs/connectors · GitHub](https://github.com/wrtnlabs/connectors/blob/main/packages/github/src/github/GithubService.ts)
     * [Agentica Series' Articles - DEV Community](https://dev.to/samchon/series/31016)
     * [AI를 만들 수 있게 된 개발자들. Agent부터 MCP, A2A 그리고 Agentica까지 | by luke | Apr, 2025 | Ne(o)rdinary Tech](https://tech.neordinary.co.kr/ai%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4-ed277603584f)
+  * [atlas-mcp-server: A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows. Now with Deep Research](https://github.com/cyanheads/atlas-mcp-server)
   * [autobe: AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code](https://github.com/wrtnlabs/autobe)
     * [AutoBE Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy - DEV Community](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
     * [AutoBE, Backend No-Coding Agent Achieving 100% Compilation Success (Open Source) - DEV Community](https://dev.to/samchon/autobe-no-code-agent-for-backend-application-writing-100-compilable-code-open-source-1oln)
@@ -1949,6 +1954,8 @@ Artificial Intelligence
   * 4B를 통한 자동화라는 네 가지 방식으로 조직의 리소스를 어떻게 배치할지 결정하는 틀 제공
 * [Introducing Anthropic Interviewer \ Anthropic](https://www.anthropic.com/news/anthropic-interviewer)
 * [Generative AI Weaponized: Why Zero Trust Isn’t Enough - YouTube](https://www.youtube.com/watch?v=EOJrKZtKoOQ)
+* [AI뉴스 - Z-Image, Flux 2, 클로드 오퍼스 4.5, 오픈AI 광고, 쇼핑, DeepSeekMath-V2, Fara-7B, HunyuanOCR 등 - YouTube](https://www.youtube.com/watch?v=2y58QCE18Jw)
+  * [Z-Image, 클로드 오퍼스 4.5, 플럭스 2 등 이번 주 AI 뉴스 총정리 (조코딩)](https://livewiki.com/ko/content/ai-news-z-image-flux-2-claude-opus-4-5-openai-ads-shopping-deepseekmath-v2-fara-7b-hunyuanocr)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2049,6 +2056,8 @@ Artificial Intelligence
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
+* [Strix - The AI Penetration Testing Agent](https://www.strix.ai/)
+  * [strix: Open-source AI agents for penetration testing](https://github.com/usestrix/strix)
 
 # Tool
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
@@ -2351,6 +2360,8 @@ Artificial Intelligence
   * [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity - YouTube](https://www.youtube.com/watch?v=B9cm-NgD-uA)
     * [구글 Antigravity 리뷰: IDE의 미래, 멀티 AI 에이전트 협업으로 생산성 극대화](https://livewiki.com/ko/content/google-antigravity-cursor-2)
   * [“에이전트 중심 IDE” 안티그래비티(Antigravity) 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3514/)
+  * [코딩 몰라도 OK! 구글 제미나이 3.0 안티그라비티 (Antigravity) 로 나만의 'AI 주식 자동 분석 앱' 만들기 (무료) - YouTube](https://www.youtube.com/watch?v=6ALU6SVIDdw)
+    * [코딩 없이 구글 Antigravity로 'AI 주식 자동 분석 앱' 만드는 법 (무료)](https://livewiki.com/ko/content/google-antigravity-ai-stock-app)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
@@ -2578,6 +2589,8 @@ Artificial Intelligence
     * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
       * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022)
     * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
+    * [Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+      * [좋은 Claude.md 작성법 | GeekNews](https://news.hada.io/topic?id=24744)
   * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
@@ -2953,6 +2966,7 @@ Artificial Intelligence
 ## Tool coding assistant SDD Spec Driven Development
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl | 박성철](https://www.linkedin.com/posts/fupfin_understanding-spec-driven-development-kiro-activity-7385279368434159616-E8Wp)
+  * [스펙 주도 개발(SDD) 심층 탐구하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3477/)
 * [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
   * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
   * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
