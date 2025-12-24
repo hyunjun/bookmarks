@@ -137,6 +137,8 @@ Concurrency
 * [GPU의 메모리 모델과 인터커넥트(Network) 설계 (원문)](https://appleparan.notion.site/gpu-memory-network-2bc0a9b5b5588013b65ce66cb693f0c0)
   * [GPU의 메모리 모델과 인터커넥트(Network) 설계 - RosettaLens 번역](https://rosettalens.com/s/ko/gpu-memory-model-and-interconnect-network-design-1)
 * [Jukan on X: "Discussing Blackwell’s drawbacks and dissecting its architecture Translation " / X](https://x.com/jukan05/status/1992531045485531164)
+* [NVSwitch 기반 멀티 GPU 환경의 복잡한 장애 상황](https://kr.linkedin.com/pulse/nvswitch-%EA%B8%B0%EB%B0%98-%EB%A9%80%ED%8B%B0-gpu-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%9E%A5%EC%95%A0-%EC%83%81%ED%99%A9-jin-hyung-park-sigrid-jin--q8ezc)
+  * [NVSwitch 기반 멀티 GPU 환경의 복잡한 장애 상황 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_a100-sxm-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-8%EA%B0%9C%EC%9D%98-gpu%EA%B0%80-nvswitch%EB%A5%BC-%ED%86%B5%ED%95%B4-600gb-ugcPost-7400578299044818945-e2uR)
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
