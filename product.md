@@ -215,6 +215,7 @@ Product
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
+* Azeron Cyborg 2 ["해외에서 미친듯이 편하다는 키보드..?" | 컨트롤러와 매크로 키보드를 합쳐놓은 괴작, 아제론 사이보그 2 - YouTube](https://www.youtube.com/watch?v=cZxarV0fHFE)
 * [Cosmos Keyboard](https://ryanis.cool/cosmos/)
   * [Cosmos - 손을 스캔해서 만드는 맞춤형 키보드 | GeekNews](https://news.hada.io/topic?id=18771)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
