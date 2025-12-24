@@ -3567,6 +3567,8 @@ Programming
 * [DHH on X: "Microservices is the software industry’s most successful confidence scam. It convinces small teams that they are “thinking big” while systematically destroying their ability to move at all. It flatters ambition by weaponizing insecurity: if you’re not running a constellation of" / X](https://x.com/dhh/status/1998785569468399819)
   * [김진중 - DHH(RoR 창시자) - MSA는 사기다. ㅋㅋㅋ 저도 오래전부터 DHH와 비슷한 생각이었지만 차마 말로... | Facebook](https://www.facebook.com/hacker.golbin/posts/pfbid02otgbuMtRqMUsq9abZam4szNGNyP19qBQoCgxifSg5QMcFyv2VHCV8DVo9K89RBhol)
   * 작은 팀이 마이크로서비스를 쓰는 건 “스케일을 꿈꾸는 척하며 스스로를 느리게 만드는 자기파괴적 선택”이며, 제대로 된 모놀리식(monolith) 아키텍처와 팀 규율이 훨씬 낫다는 주장
+* [MSA로 분리 후 행복하게 살았답니다?: Go Server의 성장기 | 2025 당근 플랫폼 밋업 - YouTube](https://www.youtube.com/watch?v=V4jPe5RnyUY)
+  * [MSA 분리 후 Go 서버 성장기: 레이어드 아키텍처와 성능 최적화 경험 | 2025 당근 플랫폼 밋업](https://livewiki.com/ko/content/go-server-growth-danggeun-meetup)
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
@@ -5624,6 +5626,7 @@ Programming
 * [How we pwned X (Twitter), Vercel, Cursor, Discord, and hundreds of companies through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
   * [X, Vercel, Cursor, Discord 등 수백 개 기업을 공급망 공격으로 침투한 | GeekNews](https://news.hada.io/topic?id=25177)
 * [React, NextJS 해킹 당했습니다. 지금 당장 업데이트 하세요 - YouTube](https://www.youtube.com/watch?v=Ne_-V3NAXpY)
+* [누적식 보안의 위험: 취약점 클리닝 서비스에서 발견된 RCE 사례 - Theori 블로그](https://theori.io/ko/blog/security-risk-of-security-vulnerability-cleaning-service)
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
