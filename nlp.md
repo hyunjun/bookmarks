@@ -1374,6 +1374,10 @@ NLP
 * ["어제 쓴 프롬프트, 오늘도 그대로 쓰시나요?" #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=YcA31dmSNMk)
   * [AI 시대 개발자를 위한 프롬프트 엔지니어링: "어제 쓴 프롬프트, 오늘도 그대로 쓰시나요?"](https://livewiki.com/ko/content/prompt-reusability-tips)
 * [AI의 핵심은 기술이 아닌 공감지능 그리고 사회성 | Suk Hyun K. | 58 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_tfmqvz-ai-suaqtztfmqvz-ugcPost-7403920648101666816-SIZk)
+* [Gemini 3 Prompting: Best Practices for General Usage](https://www.philschmid.de/gemini-3-prompt-practices)
+  * Gemini 3 AI 모델의 최적 활용법 가이드
+  * 명확한 지시와 구조화된 프롬프트 작성이 모델 성능을 극대화
+  * 간결하면서도 직접적인 명령과 역할 정의, 컨텍스트 제공, 결과 형식 명시가 중요
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -2669,6 +2673,7 @@ NLP
   * [Huggingface LLM Guide: Top Learnings on Model Architecture | Sanat Sharma posted on the topic | LinkedIn](https://www.linkedin.com/posts/sanat-sharma_architectural-decisions-for-training-llms-activity-7402187932066852864-HVyE)
 * [Štěpán Procházka - LLMs, the do-it-yourself edition (PyData Prague #27) - YouTube](https://www.youtube.com/watch?v=kqTVY1CwgS8)
   * [LLM과 DIY: 지능형 문서 처리를 위한 Rossum의 LLM 활용 전략 (PyData Prague #27)](https://livewiki.com/ko/content/stepan-prochazka-llms-diy)
+* [Beyond Chat: Bringing Models to the Canvas • Lu Wilson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=pSTOENRgt7g)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -2796,6 +2801,7 @@ NLP
   * [A postmortem of three recent issues \ Anthropic](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
     * [A postmortem of three recent issues | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_a-postmortem-of-three-recent-issues-activity-7374218098897367040-jTgY)
   * [Opus 4.5! 오늘도 다 지우는 날~! 기모링 - YouTube](https://www.youtube.com/watch?v=t6fMLeh9DMo)
+  * [클로드 4.5 Opus 인공지능 AI가 똑똑해진 진짜 이유 - YouTube](https://www.youtube.com/watch?v=45dlLw18A-E)
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
   * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
     * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
@@ -2890,6 +2896,8 @@ NLP
   * [LG, 자체개발 추론AI '엑사원 딥' 공개…'에이전틱 AI' 시대 예고](https://n.news.naver.com/article/001/0015270988?sid=105)
   * [LG EXAONE 4 서버리스 슬랙 앱 연동 .. : 네이버블로그](https://blog.naver.com/ulsancoding/223943912594)
   * [LG EXAONE4 AI 모델 GCC 연동 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223949457227)
+  * [“주식 상식 깨졌다” 증권사 초토화된 AI신기술 등장, LG 진짜 무섭네 ㄷㄷ - YouTube](https://www.youtube.com/watch?v=KMMeRKr8w4Y)
+    * [LG AI, 뉴욕 증시를 뚫다! 한국 최초의 AI상업화 성공 - 하이젠버그](https://heisenberg.kr/lg_financial/)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
   * [Falcon-40B 모델을 대규모 모델 추론 딥러닝 컨테이너(DLC)로 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/)
@@ -3685,6 +3693,8 @@ NLP
     * [OLMo(Open Language Model) : 완전한 오픈소스 대형 언어 모델](https://fornewchallenge.tistory.com/entry/OLMoOpen-Language-Model-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8C%80%ED%98%95-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
   * [Olmo 3: Charting a path through the model flow to lead open-source AI | Ai2](https://allenai.org/blog/olmo3)
     * [Olmo 3.1 32B Think 심층 분석: 투명성과 성능의 완벽한 조화](https://fornewchallenge.tistory.com/entry/Olmo-31-32B-Think-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-%ED%88%AC%EB%AA%85%EC%84%B1%EA%B3%BC-%EC%84%B1%EB%8A%A5%EC%9D%98-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A1%B0%ED%99%94)
+* [OmniVinci: Joint Visual-Audio Understanding](https://nvlabs.github.io/OmniVinci/)
+  * [OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language](https://github.com/NVlabs/OmniVinci/)
 * [onprem - OnPrem.LLM](https://amaiya.github.io/onprem/)
   * [onprem: A tool for running on-premises large language models with non-public data](https://github.com/amaiya/onprem)
 * [OpenCoder: Top-Tier Open Code Large Language Models](https://opencoder-llm.github.io/)
@@ -4759,6 +4769,8 @@ NLP
   * [MDAP(Massively Decomposed Agentic Processes) 에이젠틱 코딩은 엄청난 반복인데, 이 경우 복잡도 낮은게 오히려 해법 | Jedi Kim](https://www.linkedin.com/posts/jedikim_solving-a-million-step-llm-task-with-zero-activity-7397071564950667264-IzSa)
 * [2511.13720 Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
   * [우리는 수년 동안 확산 모델을 훈련시키며 “노이즈를 예측하는 것”이 생성의 핵심이라고 믿어왔다. 그러나 MIT는 이 믿음 자체가 잘못된 전제이며, 모델은 애초부터 “깨끗한 이미지를 직접 예측(x-pred)”했어야 한다고 주장 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-diffusion-ugcPost-7397761041348214785-Ibsz/)
+* [2511.16664 Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664)
+  * [NVIDIA가 "12B 모델 안에 9B, 6B를 중첩시켜 단일 학습으로 추출 가능"하게 만드는 Nemotron Elastic을 발표 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-activity-7398861734364704768-cKKG)
 * [2511.18538 From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538)
   * [LLM의 몰락, SLM이 진가를 드러내는 시대 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-slm-sluslqriwqzc-activity-7402104559206092800-dvuW)
     * reasoning 훈련에서 구조가 내용보다 중요
