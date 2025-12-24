@@ -298,6 +298,8 @@ Interview
 * [리크루터나 구직자 전부 서로서로 "고스팅"을 많이 한다](https://www.facebook.com/story.php?story_fbid=1369586374532459&id=100044433279530)
   * "고스팅"이란 단어의 유래는 원래 온라인 데이팅 등에서 상대의 메세지에 더 이상 반응하지 않고 잠수하며 관계를 끊어버리는 행동을 가리키는 단어
   * 그러나 지난 몇 년 동안 이 용어는 범용적으로 쓰이기 시작하고, 최근 취업 시장에서도 아주 흔한 일
+* [tech-vault: A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)](https://github.com/moabukar/tech-vault)
+  * 기술 인터뷰 질문과 실전 과제를 Terraform부터 Kubernetes, CI/CD까지 다양하게 수집한 자료집
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
