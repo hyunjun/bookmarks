@@ -5194,6 +5194,9 @@ Programming
   * [n8n-playbook: n8n-playbook: cheastsheet, examples](https://github.com/ggplab/n8n-playbook)
     * [n8n Cheatsheet가 'Playbook'으로 진화했습니다 (실전 예제 12종 추가!) 지난번 공유드린 'n8n 데이터 파이프라인 Cheatsheet'에 보내주신 뜨거운 반응(좋아요 200개+, 깃헙 스타 40개!) 감사합니다. 사실 Github Star를 이렇게 많이 받아본 게 처음이라 신기했습니다. 🤣 이에 보답하고자 어떤 노드가… | 임정](https://www.linkedin.com/posts/jayjunglim_n8n-cheatsheet%EA%B0%80-playbook%EC%9C%BC%EB%A1%9C-%EC%A7%84%ED%99%94%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C-activity-7404807917700308999-d4nV)
   * [n8nworkflows.xyz: N8N Workflows Catalog](https://github.com/nusquama/n8nworkflows.xyz) n8n용 약 6000개의 준비된 템플릿
+  * [Sim - AI Agent Workflow Builder | Open Source Platform](https://www.sim.ai/)
+    * [sim: Open-source platform to build and deploy AI agent workflows.](https://github.com/simstudioai/sim)
+    * [N8N을 위협할 오픈소스 🔥Copilot 기능을 통해 <자연어로 노드를 생성>하고 오류 수정 가능, OpenAI/Anthropic/Gemini는 물론 Ollama로 로컬 LLM까지 연동 가능 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_n8n-githubabr1sroabrsnyuiosqsswm-activity-7409367226274775040-Z6zv)
 * [Pierre](https://pierre.co/)
   * [Bootstrap 개발자가 만든 제품 엔지니어링 도구 Pierre :: Outsider's Dev Story](https://blog.outsider.ne.kr/1715)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
