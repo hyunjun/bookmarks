@@ -498,6 +498,8 @@ Business
 * [SaaS 전성시대라는데.. 왜 대기업은 SaaS를 안 살까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saasbuy20220517)
 * [링크드인 부사장이 알려주는 시장진출전략 101](https://brunch.co.kr/@taewookim/117) SaaS 창업자를 위한 GTM 가이드 101
 * [GTM 전략의 이해](https://bcho.tistory.com/1438) Go-to-Market
+* [Going to market when no market exists - by Martin Casado](https://www.a16z.news/p/going-to-market-when-no-market-exists)
+  * [시장이 존재하지 않을 때 시장에 진입하는 방법 | GeekNews](https://news.hada.io/topic?id=24748) GTM Go-To-Market
 * [Tools over process](https://www.canda.blog/tools-over-process/)
   * SaaS를 도입한다는 것은 도구 그 자체보다도 잘 정립된 프로세스를 도입한다는 것과 같고, 그 관점에서는 SaaS는 마치 컨설팅 회사와 같은 역할을 한다
 * [절차를 밟아라 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7383637666581512192-qsr-) process
@@ -3021,6 +3023,9 @@ Business
 * [스타플레이어가 꼭 있어야 할까?](https://www.facebook.com/shinsoojungceo/posts/pfbid02miiozDZeFc7NnUCtZHmiEPbutZLKySaG8ekoVseDNNDecqLGnBobiN1SBe9pozerl)
 * [A Guide To Managing Technical Teams • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=urghSC21Mx0)
 * [조직과 삶을 효과적으로 관리 하기 위한 방법: 파킨슨의 3가지 법칙](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EC%A7%81%EA%B3%BC-%EC%82%B6%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%ED%8C%8C%ED%82%A8%EC%8A%A8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B2%95%EC%B9%99-1-%EA%B0%84%ED%98%B9-activity-7052798656927715328-3M89/)
+* [2,000억 대표가 뼈저리게 느낀, '작은 조직'vs'큰 조직' 차이 3가지 급격하게 회사를 성장시키면서 느낀 점은 규모에 따라 조직의 물리 법칙이 달라진다는 것입니다. 아직 저도 많이 부족하지만, 내부 자료로 만들다가 혹시나 도움 되실까 제가 경험한 현상과 고찰, 그리고 개선안까지 공유합니다. 1. 말보다 숫자가 조직을 움직인다. · 직원은… | 김민기 | 36 comments](https://www.linkedin.com/posts/%EB%AF%BC%EA%B8%B0-%EA%B9%80-ab7b2723b_2000%EC%96%B5-%EB%8C%80%ED%91%9C%EA%B0%80-%EB%BC%88%EC%A0%80%EB%A6%AC%EA%B2%8C-%EB%8A%90%EB%82%80-%EC%9E%91%EC%9D%80-%EC%A1%B0%EC%A7%81vs%ED%81%B0-%EC%A1%B0%EC%A7%81-%EC%B0%A8%EC%9D%B4-3%EA%B0%80%EC%A7%80-activity-7397910340757352448-_Kb7)
+  * 1. 말보다 숫자가 조직을 움직인다 2. 비효율의 대부분은 능력 부족이 아니라 소통 부족 3. 스타트업의 뾰족함(상향 목표) 유지 하는 법
+  * 창업자는 목표보단 우선 순위를, ‘무엇을 할지’보다 ‘무엇을 안 할지’에 집중 필요
 * [프로젝트 진행 계획표, 왜 필요하고 어떻게 작성해야 할까? | 웹으로 말하기](https://mytory.net/archives/14075)
 * [Managers are from Mars, Developers are from Venus by Ted Neward - YouTube](https://www.youtube.com/watch?v=iORx119qrWE)
 * [Managers Are Not That Stupid • Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TP3Rjd-51DE)
