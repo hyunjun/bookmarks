@@ -1977,6 +1977,7 @@ Artificial Intelligence
 * [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
 
 # Paper
+* [The 2025 AI Engineering Reading List - Latent.Space](https://www.latent.space/p/2025-papers)
 * [2502.01493 The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration](https://arxiv.org/abs/2502.01493)
   * [이 논문은 인간-AI 협업이 기능하기 위해 반드시 갖추어야 할 세 가지 조건을 제시한다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-%EC%9D%B8%EA%B0%84-ai-%ED%98%91%EC%97%85%EC%9D%B4-%EA%B8%B0%EB%8A%A5%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-activity-7350147720826798080-rsLH)
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
