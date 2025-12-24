@@ -2090,6 +2090,8 @@ Docker
 * [Kubernetes Gateway API PoC Research/gateway-PoC/README_ko.md at main · sysnet4admin/Research](https://github.com/sysnet4admin/Research/blob/main/gateway-PoC/README_ko.md)
   * Ingress에서 Gateway API로 마이그레이션을 위한 Gateway 구현체 비교 PoC (Proof of Concept)
 * [오픈소스 ‘인그레스 엔진엑스’ 대안, ‘F5 엔진엑스 인그레스 컨트롤러’ - 데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=207919)
+* [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark](https://palark.com/blog/in-place-pod-resizing-kubernetes/)
+  * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_in-place-pod-resizing-in-kubernetes-how-activity-7398830039225683968-FBId)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2170,6 +2172,8 @@ Docker
     * [ArgoCD vs FluxCD? #devops #kubernetes #gitops #argocd #fluxcd | Victor M.](https://www.linkedin.com/posts/victor-maltsev_devops-kubernetes-gitops-activity-7383850345053044736-FOVl)
     * [Argo CD, Linkerd 기반 QA 병목 제거: PR Preview 환경 구축](https://tech.inflab.com/20251121-pr-preview/)
       * [Argo CD, Linkerd 기반 QA 병목 제거: PR Preview 환경 구축 | 이동욱](https://www.linkedin.com/posts/jojoldu-%EC%9D%B4%EB%8F%99%EC%9A%B1_argo-cd-linkerd-%EA%B8%B0%EB%B0%98-qa-%EB%B3%91%EB%AA%A9-%EC%A0%9C%EA%B1%B0-pr-preview-activity-7403927513703428096-I7Dc)
+    * [GitOps & Argo CD: A Complete Introduction. - DEV Community](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
+      * [GitOps & Argo CD: A Complete Introduction. | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_gitops-argo-cd-a-complete-introduction-activity-7399688475060510720-B5Hl)
     * [malwareanalysis.tistory.com/search/ArgoCD](https://malwareanalysis.tistory.com/search/ArgoCD)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
