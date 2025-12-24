@@ -1740,6 +1740,8 @@ Docker
 * [Kubernetes의 CPU requests와 limits :: Outsider's Dev Story](https://blog.outsider.ne.kr/1653)
 * [Kubernetes CronJob의 스케줄 변경 시 소급 적용된다? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1662)
 * [Access your local cluster like a managed Kubernetes engine – Inlets – The Cloud Native Tunnel](https://inlets.dev/blog/2022/07/07/access-kubernetes-api-server.html)
+* [Build a Local Kubernetes Cluster in Minutes with Terraform and Multipass - DEV Community](https://dev.to/todoroff/build-a-local-kubernetes-cluster-in-minutes-with-terraform-and-multipass-14e4)
+  * [Build a Local Kubernetes Cluster in Minutes with Terraform and Multipass | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-local-kubernetes-cluster-in-minutes-activity-7399318529474469888-B0Tn)
 * [Service Mesh: The best way to Encrypt East-West traffic in Kubernetes | by Nagarjoon B | Sep, 2022 | Medium](https://medium.com/@nagarjoon.b/service-mesh-the-best-way-to-encrypt-east-west-traffic-in-kubernetes-89aab0c77794)
 * [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
 * [Bringing Sub-Second Resilience in Kubernetes Cluster](https://www.loxilb.io/post/bringing-sub-second-resilience-in-kubernetes-cluster)
