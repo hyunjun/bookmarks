@@ -610,6 +610,8 @@ Artificial Intelligence
       * 그 하위 부분을 동시에 해결하는 Workers
       * 모두 수행하는 모델이 AsyncThink라는 새로운 추론 프로토콜 구축
     * 마치 ""지능적인 에이전트" → "지능적인 조직""
+* [2511.16043 Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning](https://arxiv.org/abs/2511.16043)
+  * [Agent0 - 무에서 유를 창조하는 AI의 등장! | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-agent-activity-7399198782690656257-O_IL)
 * [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
   * [Md Ismail Sojal - If you care about autonomous systems,... | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid0348draFq8Nwfdi6KEv6guZhPvAh2iXUm3XDz7GSgDMgSgG4Dhn5Ux4UkdgLm5RBBal)
     * "Latent Collaboration in Multi-Agent Systems" shows that agents can coordinate without communication channels, predefined roles, or any explicit teamwork instructions
@@ -1956,6 +1958,7 @@ Artificial Intelligence
 * [Generative AI Weaponized: Why Zero Trust Isn’t Enough - YouTube](https://www.youtube.com/watch?v=EOJrKZtKoOQ)
 * [AI뉴스 - Z-Image, Flux 2, 클로드 오퍼스 4.5, 오픈AI 광고, 쇼핑, DeepSeekMath-V2, Fara-7B, HunyuanOCR 등 - YouTube](https://www.youtube.com/watch?v=2y58QCE18Jw)
   * [Z-Image, 클로드 오퍼스 4.5, 플럭스 2 등 이번 주 AI 뉴스 총정리 (조코딩)](https://livewiki.com/ko/content/ai-news-z-image-flux-2-claude-opus-4-5-openai-ads-shopping-deepseekmath-v2-fara-7b-hunyuanocr)
+* [특별대담 어느날 AI가 내 옆자리로 출근했다 - MIT 테크놀로지 리뷰 | MIT Technology Review Korea](https://www.technologyreview.kr/%EC%96%B4%EB%8A%90%EB%82%A0-ai%EA%B0%80-%EB%82%B4-%EC%98%86%EC%9E%90%EB%A6%AC%EB%A1%9C-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8B%A4/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2011,6 +2014,8 @@ Artificial Intelligence
   * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [2511.07885 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
   * [AI 인프라에 $500B 쏟아붓는 순간, 스탠포드가 발견한 것 대부분의 AI 요청은 이미 로컬 기기로 충분할 수 있다는 분석입니다. OpenAI가 $500B Stargate 프로젝트를 발표했고, McKinsey는 AI 데이터센터에 2030년까지 $5.2~7.9조가 필요할 것으로 전망했습니다. 한편 스탠포드 연구진은 다소 다른 관점을 제시합니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90-500b-%EC%8F%9F%EC%95%84%EB%B6%93%EB%8A%94-%EC%88%9C%EA%B0%84-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83-%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98-activity-7397019597113176064-kaIl)
+* [2511.13653 Weight-sparse transformers have interpretable circuits](https://arxiv.org/abs/2511.13653)
+  * [OpenAI 가 AI의 '생각 회로'를 눈으로 볼 수 있게 만들었다는 요지의 논문을 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_openai-activity-7399586508376203264-hUgU)
 * [2512.02589 PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589)
   * [논문 작성 방식이 붕괴한다 - PaperDebugger가 여는 연구 생산성 대폭발의 시대 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_qporlk-ai-qygshcqzc-activity-7402468931145265153-hG86)
 * [2512.03043 OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)
@@ -2539,6 +2544,9 @@ Artificial Intelligence
   * [서비스 중단 위기, '클로드 코드'로 3일 만에 막아낸 썰 | 요즘IT](https://yozm.wishket.com/magazine/detail/3516/)
   * [6개월만에 1조 벌고 빵을 인수해버린 앤트로픽 - YouTube](https://www.youtube.com/watch?v=RMwRhRyZ0Jo)
     * [앤트로픽, 6개월 만에 1조 벌고 '번(Bun)' 인수! 개발자의 낭만과 현실 | 코드팩토리](https://livewiki.com/ko/content/anthropic-1-trillion-acquisition)
+  * [클로드 코드로 63일 만에 혼자서 엔터프라이즈급 웹앱 구축한 사연 | 요즘IT](https://yozm.wishket.com/magazine/detail/3469/)
+    * [개발자 5명 몫을 혼자? 클로드 코드와 함께한 63일, 950시간의 개발 기록 | 이애본 한신대 AI SW 겸임교수 & 개발자 - YouTube](https://www.youtube.com/watch?v=2X3phzeo-uY)
+      * [클로드 코드와 63일, 950시간 개발 기록: AI 협업으로 5인 몫 해내다](https://livewiki.com/ko/content/claude-ai-development-record)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
