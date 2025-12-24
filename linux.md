@@ -1005,6 +1005,7 @@ Linux
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [ggh: Recall your SSH sessions (also search your SSH config file)](https://github.com/byawitz/ggh/)
     * [GGH - SSH 세션을 Recall하는 도구 | GeekNews](https://news.hada.io/topic?id=18674)
+  * [intellissh: A secure and user-friendly web app for managing Linux servers with Artifical Intelligence via SSH—right from your browser](https://github.com/clusterzx/intellissh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH
     * [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
