@@ -57,6 +57,8 @@ English
 * [ChatGPT로 집에서 아이 원어민 만드는 방법 - YouTube](https://www.youtube.com/watch?v=HLxlKtEAL5U)
 * [11 Common English Words And Phrases With Racist Origins](https://www.babbel.com/en/magazine/common-racist-words-phrases) 조심해야 하는 영어표현들
 * [외국어가 정말 늘고 싶으면 이 영상을 보세요 - YouTube](https://www.youtube.com/watch?v=AN1-HonwJeY)
+* [구동사, 즉 Phrasal Verbs  도대체 왜 원어민들은 tolerate라는 멋진 라틴어 계열 단어를 두고 굳이 put up with라고 말하는 걸까](https://www.facebook.com/BinLeeMasterClass/posts/pfbid0g6ZXXJRFFSVEE1L7YAeXX4Gwi7FrenEH2E6yYCjFV8UjBAXNeCHNp1Ezn9YxEmEml)
+  * 중요한 인지언어학적 개념, 영상 도식(Image Schema)과 개념적 은유(Conceptual Metaphor)
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
