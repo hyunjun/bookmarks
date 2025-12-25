@@ -110,6 +110,8 @@ Baby
 * [똑똑한데 문제를 자꾸 틀리는 아이? 이 두 질문이면 바로 달라집니다 | 생각루트 - YouTube](https://www.youtube.com/watch?v=TSKrj1y5GUc)
   * ["똑똑한데 자꾸 틀리는 아이, 이 두 질문이면 바로 달라집니다 | 생각루트"](https://livewiki.com/ko/content/smart-child-problem-solving-questions)
 * [김성원 - 창의융합 교과운영의 모범. 런던의 토마스 탈리스 스쿨 Thomas Tallis School 영국 런던의... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0ApfrkidpNH5uzmdpuhcXnkL3AmEtuovkbgZJy5wmpBrQkyJrfHZbnDNzai77hkUSl)
+* [김성원 - 경제 데이터 리터러시를 중점 교육하는 경제금융 고등학교 - HSEF 경제 데이터 리터러시(Economic... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid02P3zSLmJG49zjufBR8RWTA7NWjHd1ifq4NbAouVZuD4g74vKaauGmZj33HztocUR3l)
+* [김성원 - 핀란드의 멀티 미디어 리터러시 교육, 1960년대 모더니즘 학교 건축 핀란드는 급변하는 디지털 정보 환경에... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0Ecqj6i24zyFgACPxv8DngDtTd6eUxVrMNSvG7MyC8nn4kyh6m41tMzngEjXMLdCZl)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
