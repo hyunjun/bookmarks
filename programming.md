@@ -8832,6 +8832,8 @@ Programming
   * [IT 개발 회사 소프트웨어 공학: DevOps, 애자일, 아키텍처 핵심 개념 및 활용 전략](https://livewiki.com/ko/content/it-devops-agile)
 * [Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans — ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data | Tom's Hardware](https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives)
   * [Helldivers 2 개발팀, 설치 용량을 154GB에서 23GB로 축소 | GeekNews](https://news.hada.io/topic?id=24832)
+* [Slowness is a Virtue - Jakob Schwichtenberg’s Newsletter](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
+  * [느림은 미덕이다 | GeekNews](https://news.hada.io/topic?id=25310)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
