@@ -675,6 +675,8 @@ Programming Language
 * [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
+* [The Ring Programming Language](https://ring-lang.github.io/)
+  * [Ring - Best Programming Language for 2026? - YouTube](https://www.youtube.com/watch?v=zW6bw8dMPc0)
 * [Ritchie language has the power of C language and the convenience of a high level language](https://github.com/riolet/ritchie#)
 * [ROC - Documentation](https://www.roc-lang.org/)
   * [Simple Functional Effects with Tag Unions • Richard Feldman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=7SidSvJcPd0)
