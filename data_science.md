@@ -516,6 +516,8 @@ Data Science
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
 * [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
+* [Advanced Data Analysis from an Elementary Point of View](https://stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+  * 카네기 멜론의 Cosma Rohilla Shalizi 교수, Undergraduate Advanced Data Analysis라는 수업의 교재
 * [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 * [Free Book: Foundations of Data Science (from Microsoft Research Lab) - DataScienceCentral.com](https://www.datasciencecentral.com/new-book-foundations-of-data-science-from-microsoft-research-lab/)
 * [PDA_Book: Code Examples Data Science using Python](https://github.com/hmcuesta/PDA_Book/)
