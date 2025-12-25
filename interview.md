@@ -747,6 +747,7 @@ Interview
 * [**awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems**](https://github.com/binhnguyennus/awesome-scalability)
 * [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)
   * [System Design Fight Club - YouTube](https://www.youtube.com/@SDFC)
+* [system-design-visualizer: An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI](https://github.com/mallahyari/system-design-visualizer)
 
 # Book
 * [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
