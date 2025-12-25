@@ -2004,6 +2004,8 @@ Artificial Intelligence
 * [The 2025 AI Engineering Reading List - Latent.Space](https://www.latent.space/p/2025-papers)
 * [AI for Science 21/11/25](https://www.notion.so/koomook/AI-for-Science-21-11-25-2b22b37d07c4806a8befeb3dc8d53434)
   * [AI for Science 21/11/25 | Notion | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai-for-science-211125-notion-activity-7397506385451724800-C7lB)
+* [Human-AI teaming in healthcare: 1 + 1 > 2? | npj Artificial Intelligence](https://www.nature.com/articles/s44387-025-00052-4)
+  * [최윤섭 - 의사 <<< 의사+AI <<< AI 의 미래 제가 최근 의료 인공지능 연구 결과들을 보면서 어렴풋이... | Facebook](https://www.facebook.com/yoonsup.choi/posts/pfbid0ipNVyrvtGGTbcerbNEEU4pYfBjzdBfKYiqiXt115wVdZjaDSLQ5tAPMqYVvTYRrWl)
 * [2502.01493 The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration](https://arxiv.org/abs/2502.01493)
   * [이 논문은 인간-AI 협업이 기능하기 위해 반드시 갖추어야 할 세 가지 조건을 제시한다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-%EC%9D%B8%EA%B0%84-ai-%ED%98%91%EC%97%85%EC%9D%B4-%EA%B8%B0%EB%8A%A5%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-activity-7350147720826798080-rsLH)
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
