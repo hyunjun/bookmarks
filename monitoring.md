@@ -265,6 +265,9 @@ Monitoring
   * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
     * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 * [data-prepper: Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale](https://github.com/opensearch-project/data-prepper)
+* [ESP-DASH Pro - Real-time Dashboard Library For ESP32, RP2040+W & RP2350+W](https://espdash.pro/)
+  * [ESP-DASH: Blazing fast library to create a functional, on-device dashboard for ESP32, RP2040+W and RP2350+W microcontrollers](https://github.com/ayushsharma82/ESP-DASH/)
+  * [ESP-DASH: a real-time, on-device dashboard for IoT devices « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2025/12/23/esp-dash-a-real-time-on-device-dashboard-for-iot-devices/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
