@@ -4195,6 +4195,7 @@ NLP
 * [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
   * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
     * ReACT 패턴으로 지식베이스 + 웹 검색 + MCP 도구까지 알아서 조합해서 답변하도록 개발
+  * [김헌기 - 단상 LLM이 매번 다른 대답을 하는 걸 보면서, 나도 한동안은 “프롬프트를 더 잘 쓰면 해결되겠지”라고... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0EM7dQkyd9nnRu5TmBNFr6KbeBrEREan4RSu1mbQ944QL1a9tceoR54V6rjbg7ywgl)
 
 # Law
 * [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
