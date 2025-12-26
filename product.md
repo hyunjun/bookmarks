@@ -329,6 +329,7 @@ Product
 * [이래서 카키모리 쓰는구나 🔥 카키모리 황동펜촉, 카키모리 수성펜 (롤러블) - YouTube](https://www.youtube.com/watch?v=tWc-Sh4SKeA)
 * [그저 감탄만 나오는, 분야별 최고의 필기구 BEST 5 (볼펜, 샤프, 만년필, 연필, 멀티펜) - YouTube](https://www.youtube.com/watch?v=HQemQCezRqQ)
 * [파이롯트 캡리스 매트블랙 소개를 빼먹었다니!! pilot capless vanishing point matte black - YouTube](https://www.youtube.com/watch?v=MRA7zdvIeq0)
+* [의외로 잘 모르는 신박한 만년필 용품 7가지 - YouTube](https://www.youtube.com/watch?v=4oqAphXmR1k)
 
 # Speaker
 * [소니의 춤추는 스피커가 돌아온다](http://www.earlyadopter.co.kr/43025)
