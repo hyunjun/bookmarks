@@ -1183,6 +1183,7 @@ Data Science
 * [쇼핑에 영상을 더하다: GSSHOP 숏픽 추천 알고리즘 진화기](https://gsretail.tistory.com/79)
 * [논문 리뷰 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://dhgudxor.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BERT4Rec-Sequential-Recommendation-with-Bidirectional-Encoder-Representations-from-Transformer)
 * [Paper review Sampling-Bias Corrected Neural Modeling for Large Corpus Item Recommendations | by chrisjune | Medium](https://chrisjune-13837.medium.com/paper-review-sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations-fee7710c5640) 유튜브 추천 시스템의 일부를 자세하게 소개
+* [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
