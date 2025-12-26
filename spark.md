@@ -958,6 +958,8 @@
 * [Downloading spark and getting started with python notebooks (jupyter) locally on a single computer](https://medium.com/explore-artificial-intelligence/downloading-spark-and-getting-started-with-python-notebooks-jupyter-locally-on-a-single-computer-98a76236f8c1)
 * [A Brief Introduction to PySpark - A primer on PySpark for data science](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 * [Introducing Pandas UDF for PySpark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
+* [PyCon Korea 2025 PySpark Python UDF 2배 빠르게 만들기 - 권혁진 - YouTube](https://www.youtube.com/watch?v=xV4R_pmZsZg)
+  * [PySpark Python UDF 2배 빠르게 만들기 - 권혁진 (PyCon Korea 2025)](https://livewiki.com/ko/content/pyspark-python-udf-faster)
 * [Reading CSV & JSON files in Spark – Word Count Example](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark)
 * [How to Upload/Download Files to/from Notebook in my Local machine](https://medium.com/ibm-data-science-experience/how-to-upload-download-files-to-from-notebook-in-my-local-machine-6a4e65a15767)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
