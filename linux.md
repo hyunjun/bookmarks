@@ -160,6 +160,9 @@ Linux
 * [10 resources every sysadmin should know about | Opensource.com](https://opensource.com/article/19/7/resources-sysadmin)
 * [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [A journey into the Linux scheduler | Maxgio's blog](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+* [Steps Towards a Gaming-Optimized Scheduler - Dr Changwoo Min (Igalia) - YouTube](https://www.youtube.com/watch?v=5F-vQgv4sI0) LAVD 스케줄러
+  * [scx/scheds/rust/scx_lavd at main · sched-ext/scx](https://github.com/sched-ext/scx/tree/main/scheds/rust/scx_lavd)
+  * [How do we make a Steamdeck scheduler work on large servers - David Dai (Meta), Ryan Newton (Meta) - YouTube](https://www.youtube.com/watch?v=KFItEHbFEwg&t=740s)
 * [뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 - 넷마블 기술 블로그](https://netmarble.engineering/protect-root-account-at-linux/)
 * [알리바바가 외친 “열려라 참깨”에는 열리지 않는 문 - 넷마블 기술 블로그](https://netmarble.engineering/optimize-linux-account-and-password/) 계정
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
