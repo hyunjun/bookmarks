@@ -425,6 +425,7 @@ Programmer
   * [나이가 들수록 개발은 더 나아진다 (Development gets better with Age)](https://whchoi98.notion.site/Development-gets-better-with-Age-28d04ef7e60e8001993ced588d75bd07)
 * [AI 시대, 개발자의 역할은 '실행자'에서 '전략가'로 진화합니다.](https://kr.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%8B%A4%ED%96%89%EC%9E%90%EC%97%90%EC%84%9C-%EC%A0%84%EB%9E%B5%EA%B0%80%EB%A1%9C-%EC%A7%84%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4-kihung-thomas-kim-mnqie)
   * [AI 시대, 개발자의 역할은 '실행자'에서 '전략가'로 진화합니다. | Kihung (Thomas) KIM](https://www.linkedin.com/posts/tkim1223_tgkrgurumqwkrlksxisxbstu-qpqrqesuyslssokswkruvqoorxg-activity-7394260455604510720-TKp1)
+* [개발자에게 가장 중요한 능력은 무엇일까요?](https://www.linkedin.com/posts/choijyoong_%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-%EB%A9%B4%EC%A0%91%EB%95%8C%EB%82%98-%EC%8A%A4%EC%8A%A4%EB%A1%9C-activity-7409027523688181760-4fHy/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
