@@ -402,6 +402,10 @@ Vision
   * face detect는 cv2, face align은 dlib
 * [Dataset Annotator - Tool for annotating image datasets](https://github.com/omenyayl/dataset-annotator)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
+* [deface: Video anonymization by face detection](https://github.com/ORB-HD/deface)
+  * 동영상이나 사진에서 얼굴을 자동으로 감지해 모자이크, 블러 등으로 익명 처리하는 명령줄 도구
+  * 높은 해상도 영상 처리 시 속도와 정확도를 조절하는 옵션이 있으며, GPU 가속을 지원해 처리 속도를 개선 가능
+  * 얼굴 인식에는 CenterFace라는 딥러닝 모델 사용
 * [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
 * [delira - Deep Learning In RAdiology](https://delira.readthedocs.io)
   * PyTorch 기반 CT/MRI 등의 이미지 딥러닝 프레임워크
