@@ -942,6 +942,7 @@ Git
   * [**Heroku-style deployments with Docker and git tags**](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
   * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
   * [pre-commit 도구로 Git Hook 사용하기 | Engineering Blog by Dale Seo](https://www.daleseo.com/pre-commit/)
+  * [Pre-commit Hook으로 반복작업 자동화하기](https://www.facebook.com/tlc500/posts/pfbid0tVPEtCeF8sJYStgNAEnNnzcvFC9qRwMzo9YSFcvitVdLaRGzXfsdvT4cq9sUSB3Wl) Git 커밋할 때마다 자동으로 실행되는 스크립트로 반복 작업을 없애는 방법
   * [Why & How to Use Git Hooks in ReactJS Application ? - YouTube](https://www.youtube.com/watch?v=ZCXAyd5gcjA)
   * [자주 쓰이는 Git 훅들 - AnyDoc](https://dev.alliknow.info/posts/2023/5/frequently-used-git-hooks)
   * [Git Hooks를 사용한 커밋 메시지 Prefix 자동화](https://hudi.blog/commit-message-prefix-automation/)
