@@ -477,6 +477,10 @@ Data Science
 * [우아한 데이터 허브. 일 200억 건 데이터 안전하게 처리하는 대용량 시스템 구축하기 #우아콘2024 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=AtmI56DGhi4)
 * [아자르 Data Lifecycle Policy 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2024/11/11/azar-data-life-cycle-policy.html)
 * [데이터 분석 스타터를 위한 학습추천 2025 ver.](https://brunch.co.kr/@youngwungkim/244)
+* [Data Engineering Whitepapers](https://www.ssp.sh/brain/data-engineering-whitepapers/)
+  * 데이터 엔지니어링 분야의 중요 연구 백서 모음
+  * 데이터 플랫폼 아키텍처, 분산 시스템, 대용량 데이터처리, 데이터 카탈로그, 그리고 AI 연관 기술까지 광범위한 주제를 포괄
+  * 최신 분산 SQL 시스템, 데이터 레이크 하우스, 데이터 스트리밍, 그리고 대규모 데이터 분석 기술을 이해하는 데 필수적인 백서들도 포함
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
