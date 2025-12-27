@@ -128,6 +128,7 @@ History
 * [日극우재단 자금 받는 뉴라이트와 한국교수](http://theimpeter.com/32931/)
 * [26년생 김희숙, 26년생 김종필 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=a0002451712)
 * [기사 - 4·3, 기나긴 침묵 밖으로 : 왜 그리 많이 죽었고 왜 그리 많이 떠났나](https://www.ddanzi.com/ddanziNews/768462506)
+* [조태용 - 한국 농산물은 다른 나라에 비하여 가격이 꽤 높은 편이다. 하지만 농산물만 비쌀까? 아니다. 대한민국은... | Facebook](https://www.facebook.com/farmmate0617836245/posts/pfbid0tL6rnD8W4geEbThUosKS64WBNVxVxR8zXfL6MKKkoEQX4CnDosUsGbhVKQt8PVmQl)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
