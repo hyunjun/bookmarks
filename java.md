@@ -2402,6 +2402,9 @@ Java
   * Whether you want to add chatbots to your app, generate recommendations, or analyze sentiments in text, Spring AI provides a streamlined and efficient approach to integrating these features
   * By the end of this talk, you will have a solid grasp of AI basics and how to incorporate them into your Spring applications using Spring AI
 * [Spring AI Is All You Need • Christian Tzolov • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=vuhMti8B5H0)
+* [Beyond JSON: Converting Spring AI Tool Response Formats to TOON, XML, CSV, YAML, ...](https://spring.io/blog/2025/11/25/spring-ai-tool-response-formats)
+  * Spring AI는 AI 도구 응답 형식을 JSON, TOON, XML, CSV, YAML 등으로 유연하게 변환 가능하게 지원
+  * JSON 기본 변환 후 TOON 등 다른 형식으로 변환하는 방식을 채택
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
