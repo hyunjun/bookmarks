@@ -409,6 +409,9 @@ Artificial Intelligence
   * [오윤명_-_AI_시대에_파이썬_개발자가_쌓아야_할_비파이썬적_소양들.pdf](https://s3.ap-northeast-2.amazonaws.com/pyconkr-backend-prod-public/public/%EC%98%A4%EC%9C%A4%EB%AA%85_-_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80_%EC%8C%93%EC%95%84%EC%95%BC_%ED%95%A0_%EB%B9%84%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%A0%81_%EC%86%8C%EC%96%91%EB%93%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAXRG76FVYGQNJREJX%2F20251207%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20251207T091940Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIgCy7WTD42kOjqJTQEJ%2BQQrOfM58OBNVbQ1AyC8ygjy8gCIQCVpH0r1E1F8nT%2BllNuJoxIhliPN%2B7yu%2FsEqzq1K4bKbiqKAwiK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDUxODAxMzIwMTc3NiIMn%2BME30qb7eqdQooiKt4CkRiDjPiCo2utAV4wY7H1dF%2BhP4j%2FhdE7%2BBLI%2FE20bpUdFSUWcrpFEMBJZojfew1y3XHnWM%2BIJn%2BF3iYMGoguejMa3bgRgDSgAqQBrvcuZigQTvF4SgAWInlolCnXojFTAxyMFPyovm8oCY1SUuEWpe%2FHPWNVp5%2BABFZoUK3M%2F3vuoAqX%2FhiXipK%2B77jhGtOy9IvikJwTHZq7SeHFCOy%2FkLs6H6J33iEYEPO4ayeSCjALrGO7fMZzvRDEvtu2E%2FHrIzNhi%2FCqbg0BbTUezJjuNJo7V9Lm8%2FJmXjxMefsXU3a4gG5tL8rLGATEkRMyUDlfPIeSYqGv%2BZXfX2jRIhpmiiC2iB%2Fih9KtKS7RYIlMF%2BczqIKYnUtv%2FzR7LP3kn3t%2F5AN%2B67RMyuscrthlcW%2FoBhHUS6sRxbBZ8Co5ropsw9cEdWk0hp1eXyzySX08KzMXTJkmLeeIdD65oj9IdC4wgIrVyQY6ngEd1iyDPbP8sp1HZXVvj4X5ri9hiCdQqsGvQdFIoQ0j4zOtoxh%2FMnA97lOxdNy71Nqmn4k8YG8qHDshKAdd1XGMhyDeCKt9DyavA8R7t13rEDrqwK4nHXhwIy3zpKXh8k1dDlf7atWidO5W%2BR%2B6R8WsCMiQuLkRnjyYw6HFcq8tuuY9QjYQ%2FgsK0iSSim02Jcvy7mf0j7CGPmQwbFYxDA%3D%3D&X-Amz-Signature=5c13807cb11e5b9862dc5105348d88f1b90966bc022e5e07aab6b580b5658bcb)
 * [The Death of Classical Computer Science • Matt Welsh & Julian Wood - YouTube](https://www.youtube.com/watch?v=P-8N7erpC9M)
   * [고전 컴퓨터 과학의 종말: AI 시대의 프로그래밍 미래와 사회적 영향](https://livewiki.com/ko/content/death-classical-computer-science)
+* [LLM vs RAG vs Agents 개념 한 번에 정리! "이 세개를 구분할 줄 알아야 AI를 이해할 수 있다" | Suk Hyun K. | 12 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_aiagents-llm-rag-activity-7397021160422404096-Ymsl)
+  * LLM은 생각하고(Thinking), RAG는 알고(Knowing), Agents는 행동한다(Doing)
+  * 행동은 Tool로, Agent는 LLM, RAG, Tool이 모두 더해진 형태라 봐야한다는 의견도 댓글에 존재
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -1149,6 +1152,8 @@ Artificial Intelligence
     * [데이터 분석 과금없이 에이전트 모드 넉넉하게 사용하고 싶다면? GEMINI CLI로 VSCode에서 주피터로 데이터 분석하기 - YouTube](https://www.youtube.com/watch?v=YSscvDczPn4)
     * [🚀 Gemini CLI Extensions: 새로운 확장 기능과 커스텀 명령어](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Gemini-CLI-Extensions-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
     * [🤖 Gemini CLI(2): MCP 프롬프트 - 슬래시 명령어 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Gemini-CLI-MCP-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips)
+      * [Gemini CLI를 활용한 에이전틱 코딩 팁과 트릭 | GeekNews](https://news.hada.io/topic?id=24661)
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
       * [구글, 개발자 지원 전방위적 확대...AI 코딩 협업 도구 ‘제미나이 CLI 깃허브 액션’ 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35978)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
@@ -1976,6 +1981,8 @@ Artificial Intelligence
 * [특별대담 어느날 AI가 내 옆자리로 출근했다 - MIT 테크놀로지 리뷰 | MIT Technology Review Korea](https://www.technologyreview.kr/%EC%96%B4%EB%8A%90%EB%82%A0-ai%EA%B0%80-%EB%82%B4-%EC%98%86%EC%9E%90%EB%A6%AC%EB%A1%9C-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8B%A4/)
 * [초고속 제품 팀이 AI로 날개를 다는 법. 분명 올해 초에는 AI 업계가 아닌 사람들을 만나면 “그쪽 업계는… | by Yechanny | Nov, 2025 | Medium](https://medium.com/@yechanny/%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%9C%ED%92%88-%ED%8C%80%EC%9D%B4-ai%EB%A1%9C-%EB%82%A0%EA%B0%9C%EB%A5%BC-%EB%8B%A4%EB%8A%94-%EB%B2%95-c9a12241b7e5)
   * [초고속 제품 팀이 AI로 날개를 다는 법 | 이예찬](https://www.linkedin.com/posts/yechanny_%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%9C%ED%92%88-%ED%8C%80%EC%9D%B4-ai%EB%A1%9C-%EB%82%A0%EA%B0%9C%EB%A5%BC-%EB%8B%A4%EB%8A%94-%EB%B2%95-activity-7398277878855028736-bf-6)
+* [Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)
+  * [그녀의 딸은 무너져 내리고 있었지만, 그녀는 이유를 몰랐습니다. 그러다 AI 채팅 로그를 발견했습니다](https://www.facebook.com/anywhereanytime/posts/pfbid0A3MNNVY9owxTtFJf8Tsyu7sHr6ayiAbqFz5TrGpotukS4Q3Hke4gYUehupq9BLc7l)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2439,12 +2446,19 @@ Artificial Intelligence
       * [Sionic AI Leverages Claude Code for Efficient ML Experimentation | Jin Hyung Park (Sigrid Jin) 🌈 posted on the topic | LinkedIn](https://www.linkedin.com/posts/sigridjineth_how-we-use-claude-code-skills-to-run-1000-activity-7403866537516077056-k8r-)
     * [클로드 스킬 이 영상으로 끝! | Subagent, MCP, Custom Commands 차이점 완벽 정리! - YouTube](https://www.youtube.com/watch?v=wKIQbRMZ4Cs)
       * [클로드 스킬 완벽 정리: Subagent, MCP, Custom Commands 차이점 분석](https://livewiki.com/ko/content/claude-subagent-mcp-commands)
+    * [agent-browse: Claude Agent SDK with a web browsing tool](https://github.com/browserbase/agent-browse)
+      * 브라우저 오토메이션하는 skill, 스킬 중 mcp 대비 효율이 단연코 높은 도메인이 브라우저 오토메이션
+        * 정확도와 비용은 물론 특히나 속도가 어마어마하게 개선
+        * 프로덕션 환경에서 더 안정적인 것은 덤
+      * browser use 에서 skill 기능을 발표해서 화제가 됐는데, 오픈소스로 사용 가능
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
       * [streamlit + claude agent sdk (MCP+Skills)로 구현한 예제 | LinkedIn](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_anthropic-claude-aws-ugcPost-7387001174740234240-R8a1/)
       * [Token이 없어도 주식정보 조회가 가능한 FinanceDataReader를 사용 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-mcp-anthropic-ugcPost-7390263921162620928-aEbc)
+    * [claude-code-analyzer/SKILL.md at main · nicknisi/dotfiles](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/claude-code-analyzer/SKILL.md)
+    * [claude-code-bmad-skills: BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment](https://github.com/aj-geddes/claude-code-bmad-skills)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
@@ -2610,6 +2624,8 @@ Artificial Intelligence
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
   * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
+  * [Claude Code Plugins & Agent Skills - Community Registry with CLI](https://claude-plugins.dev/)
+    * claude code plugin 을 모아놓은 서비스. skills 가 있는 프로젝트만 따로 필터링 가능
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -2628,6 +2644,9 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
+  * [claudekit: A toolkit of custom commands, hooks, and utilities for Claude Code](https://github.com/carlrannaberg/claudekit)
+    * 매우 많은 기능 포함
+    * thinking-level 0,1,2,3 을 정해두면 항상 think 레벨을 고정 가능, 3=ultrathink
   * claude.md
     * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
       * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022)
@@ -3026,6 +3045,7 @@ Artificial Intelligence
   * [Kiro와 함께 Augmented Coding 기반 소프트웨어 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/augmented-coding-with-kiro/)
   * [Moving Towards Spec-Driven Development | Real Python Podcast #277 - YouTube](https://www.youtube.com/watch?v=-liy2as6zQI)
     * [SDD Spec Driven Development](https://notebooklm.google.com/notebook/eca0c6b4-f656-42c7-b1a4-e5b3a350c98e)
+  * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
 * [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
   * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
   * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
