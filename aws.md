@@ -3176,6 +3176,7 @@ AWS
 * [AWS 서비스, A to Z 조금 더 자세히 알아보기](https://jinsungh.notion.site/AWS-A-to-Z-1d3cb8fc0fde80d8b8f6e63a8df06baf)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud 강의 기초 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
+* [aws ubuntu - YouTube](https://www.youtube.com/watch?v=IozDMzYpLy0)
 * [AWS Workshops](https://workshops.aws/)
 
 # VPC
