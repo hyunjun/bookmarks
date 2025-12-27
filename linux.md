@@ -1503,6 +1503,8 @@ Linux
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [tufirewall: tufirewall using netfilter hook api](https://github.com/txuna/tufirewall)
+* [Tunnel to dev - Expose your local web server to the internet with a public URL](https://tunnelto.dev/)
+  * [tunnelto: Expose your local web server to the internet with a public URL](https://github.com/agrinman/tunnelto/)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [Unikraft](https://unikraft.org/)
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
@@ -1511,6 +1513,8 @@ Linux
   * [ut — 개발자를 위한 CLI 기반 유틸리티 도구상자 | GeekNews](https://news.hada.io/topic?id=23849)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * [watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
+* [Wait4X - Wait for anything!](https://wait4x.dev/)
+  * [Wait4X allows you to wait for a port or a service to enter the requested state](https://github.com/wait4x/wait4x)
 * Wayland
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
