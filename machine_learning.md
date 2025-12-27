@@ -726,6 +726,8 @@ Machine Learning
 * [Back to Basics: Scalable, Portable ML in Pure SQL - YouTube](https://www.youtube.com/watch?v=iyH8GPXzBpk)
 * [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/2157)
 * [ML 예측 결과를 다운스트림 애플리케이션에 사용할 수 있을까?](https://www.notion.so/ML-1cfe323ea2b580a985f9f7b69ddad326)
+* [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
+  * [런던의 식당 생태계를 조용히 재편하는 구글 지도, 그리고 그 구조를 들여다 본 대시보드 만 | GeekNews](https://news.hada.io/topic?id=25113)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
