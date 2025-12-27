@@ -1466,6 +1466,7 @@ NLP
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
   * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
+  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
   * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
 * [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering)
   * [**Best practices for prompt engineering with the OpenAI API | OpenAI Help Center**](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) 구체적인 설명
@@ -1505,7 +1506,6 @@ NLP
       * 애매함은 “질문 늘리기”보다 지시로 범위를 포괄(가능한 의도를 커버)
       * 출력 형식/톤(마크다운 구조, 비교표, 용어 정의, 비아첨 톤 등) 명시
   * [system_prompts_leaks/OpenAI/gpt-5-thinking.md at main · asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/blob/main/OpenAI/gpt-5-thinking.md)
-* [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Prompt Engineering | Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
   * [구글 프롬프트 엔지니어링 백서 바이브 코딩 관련 내용 요약 :: ROBOCO](https://roboco.io/posts/google-prompt-engineering-whitepaper/)
   * [궁극의 프롬프팅](https://brunch.co.kr/@7efd1b0de0604d5/56)
@@ -3574,6 +3574,8 @@ NLP
 * [llm-colosseum: Make LLMs fight for their survival! The new way to evaluate the quality of an LLM](https://github.com/OpenGenerativeAI/llm-colosseum)
 * [llm-council: LLM Council works together to answer your hardest questions](https://github.com/karpathy/llm-council)
   * [lucas on X: "카파시가 공유한 "LLM Council".. 여러 LLM을 한 방에 몰아넣고 서로의 답변을 평가하게 만든 뒤, 의장 LLM이 최종 요약을 뽑아내는 시스템. 그런데 연관된 대화가 흥미로웠어요. Burkov가 한마디 합니다. 이 녀석들이 서로의 답변을 거의 100% 가까이 "와 이거 진짜 훌륭한데?"라고 칭찬한다는 https://t.co/Eb2dMJdiPL" / X](https://x.com/lucas_flatwhite/status/1992439324911210998)
+  * [AIboard](https://github.com/Hyeong-soo/AIboard)
+    * [GitHub - Hyeong-soo/AIboard | Hyeong-soo Kim](https://www.linkedin.com/posts/henry---kim_github-hyeong-sooaiboard-activity-7400459351049760768-iBMY)
 * [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks](https://github.com/mlabonne/llm-course)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning](https://github.com/mlabonne/llm-datasets)
@@ -4731,6 +4733,12 @@ NLP
 * [2505.06708v1 Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708v1)
   * [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_gated-attention-for-large-language-models-activity-7401306789860007936-9bih)
     * Attention Sink 현상을 “구조적으로 없애 보자”는 시도
+* [2505.24189v2 Fine-Tune an SLM or Prompt an LLM? The Case of Generating Low-Code Workflows](https://arxiv.org/html/2505.24189v2)
+  * [Vibe-Tuning: The Art of Fine-Tuning Small Language Models with a Prompt](https://www.distillabs.ai/blog/vibe-tuning-the-art-of-fine-tuning-small-language-models-with-a-prompt)
+  * [Fine-tune a SLM or prompt engineer a LLM? It’s becoming slightly more clear when to do which. This paper, by the original agent pioneers at ServiceNow, presents a clear, tangible use case where… | Mary Newhauser | 26 comments](https://www.linkedin.com/posts/mary-newhauser_fine-tune-a-slm-or-prompt-engineer-a-llm-activity-7398737223061450752-S5tt)
+    * Cost → At scale and over time, SLMs will likely be cheaper
+    * Task specificity → SLMs will likely be better at very specific tasks, LLMs will be better at handling a variety of tasks
+    * Privacy → SLMs can run locally, meaning data doesn’t go through an external API
 * [2507.18546v1 GLiNER2: An Efficient Multi-Task Information Extraction System with Schema-Driven Interface](https://arxiv.org/html/2507.18546v1)
   * [You should be using BERT-based SLMs. Because they are tiny! (And can be better at specific tasks than large proprietary models.) GLiNER2, released by Fastino is a SLM fine-tuned for structured data… | Mary Newhauser | 70 comments](https://www.linkedin.com/posts/mary-newhauser_you-should-be-using-bert-based-slms-because-activity-7397287634982719489-CzqD)
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
@@ -4790,6 +4798,12 @@ NLP
       * 정교한 데이터와 훈련 방식이 모델 크기보다 더 중요한 시대가 도래
     * 앞으로는 문제 정의 → 코드 생성 → 실행 → 검증 → 수정의 전체 루프를 모델이 스스로 처리하는 수준까지 발전할 가능성
     * 코드 LLM의 미래는 단순한 성능 향상이 아니라, 인간처럼 사고하고 검증하며 발전하는 지능 구조의 재설계
+* [2511.21140 How to Correctly Report LLM-as-a-Judge Evaluations](https://arxiv.org/abs/2511.21140)
+  * [LLM 평가가 드러낸 충격적이고 불편한 진실 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llmuchqoo-rsktbsregtme-ai-ugcPost-7400302479810404352-Jes6)
+    * LLM은 완벽한 심판이 될 수 없다
+      * 정답을 정답으로 판단할 확률(q1), 오답을 오답으로 판단할 확률(q0)이 각각 존재하며, 이 값들이 1이 아닌 이상 오판은 불가피
+      * 그럼에도 우리는 지금까지 ‘LLM이 맞다고 판단한 비율(p̂)’을 모델의 실제 정확도와 동일시하는 오류
+      * 문제는 p̂가 단순히 흔들리는 값 정도가 아니라, 일관된 방향으로 왜곡되는 편향된 지표라는 점
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
@@ -5352,6 +5366,7 @@ NLP
   * [docker-kaldi-gstreamer-server: Dockerfile for kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server)
 * [kani-tts](https://github.com/nineninesix-ai/kani-tts/)
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
+* [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
