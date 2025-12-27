@@ -3882,6 +3882,7 @@ Python
   * [CPython 인터프리터 구조 파헤치기 - PyCon Korea 24 - Speaker Deck](https://speakerdeck.com/kennethanceyer/cpython-inteopeuriteo-gujo-pahecigi-pycon-korea-24)
   * [Abhinav Upadhyay on X: "Why and How CPython use Bloom Filters inside some of its String APIs, such as splitlines and strip? Let's take a tour of CPython internals to understand the use of bloom filters within CPython's string APIs and to see how it implements the bloom filter. Use of Bloom FIlters in… https://t.co/RgTmHkbyhj" / X](https://twitter.com/abhi9u/status/1702668471551840594)
   * [메모리 모델 입문 - Sequential Consistency와 Total Store Order 이해하기](https://techblog.lycorp.co.jp/ko/about-memory-model-sequential-consistency-and-total-store-order)
+  * [PyCon Korea 2025 CPython 넓고 얕게 탐험하기 - 조성빈 - YouTube](https://www.youtube.com/watch?v=saF78sWoKfk)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
