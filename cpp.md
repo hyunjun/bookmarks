@@ -274,6 +274,7 @@ C++
 * [더북(TheBook): C++14 STL 철저 입문](https://thebook.io/006842/) 1~3장만
 * [더북(TheBook): 스프링 부트 코딩 공작소](https://thebook.io/006859/) 2~5장만
 * [더북(TheBook): 코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://thebook.io/080239/) 1~3장만
+* [abseil / Performance Hints](https://abseil.io/fast/hints.html) benchmark, optimization, ...
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)
 * [C++ Template Note](https://wikidocs.net/book/54)
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
