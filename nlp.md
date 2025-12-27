@@ -4116,6 +4116,7 @@ NLP
   * [RAG(검색 증강 생성) 서비스 구축: 우아한형제들 교육 운영 사례와 구현 6단계](https://livewiki.com/ko/content/rag-service-application)
 * [RAG Isn't About Embeddings - by Alireza Rahmani Khalili](https://nidly.substack.com/p/rag-isnt-about-embeddings)
   * [Fixing RAG Systems: Index Configuration Over Embeddings | Alireza Rahmani Khalili posted on the topic | LinkedIn](https://www.linkedin.com/posts/rahmanikhalili_rag-isnt-about-embeddings-activity-7403509919057932288-X1TW)
+* [PyCon Korea 2025 RAG 애플리케이션 개발을 위한 Chunking 최적화 - 강성우 - YouTube](https://www.youtube.com/watch?v=jgFduVaa07M)
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
