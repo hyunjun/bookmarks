@@ -914,6 +914,8 @@ Apache
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 * uGroup [Introducing uGroup: Uber’s Consumer Management Framework](https://eng.uber.com/introducing-ugroup-ubers-consumer-management-framework/)
+* [walrus: 🦭 High Performance kafka alternative written in rust](https://github.com/nubskr/walrus)
+  * [Walrus - 분산 메시지 스트리밍 엔진 | GeekNews](https://news.hada.io/topic?id=25341)
 * [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
 
 ## Kafka Client library
