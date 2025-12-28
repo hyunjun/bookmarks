@@ -126,6 +126,7 @@ PHP
   * [라라벨 모델 Lazy Loading 연관 속성을 필요한 경우 미리 불러오기 – 형우의 웹개발](https://mytory.net/archives/15889)
   * [라라벨 모델 연관 속성, 중첩시에만 Eager Loading하고 싶을 때 – 형우의 웹개발](https://mytory.net/archives/15885)
   * [Laravel Eloquent 자식뿐 아니라 자손 연관속성까지 한번에 불러오는 방법 – 형우의 웹개발](https://mytory.net/archives/15949)
+  * [A Ready-to-Go Dev System for Laravel and More - DEV Community](https://dev.to/shrimpwagon/a-ready-to-go-dev-system-for-laravel-and-more-515p)
   * [codexa: Codexa is a Documentation System built using the Laravel Framework](https://github.com/devoption/codexa)
   * [corcel: Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
     * [Corcel - PHP / Laravel 웹앱에서 Wordpress를 백엔드로 사용하기 | GeekNews](https://news.hada.io/topic?id=15591)
