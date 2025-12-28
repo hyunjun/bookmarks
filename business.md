@@ -386,6 +386,10 @@ Business
       * 그러나 일반적인 VC와 달리 투자사가 exit을 할 때 그에 대한 보상이 없었다고 함
       * 당연히 경영진급의 좋은 인재들이 퇴사하고 더 이상 리크루팅도 어려운 상황이라고 함
       * 60세 당시 은퇴를 번복했던 게 악수였을까?
+* [임현상 - 오호장군은 후대에 만들어진 허구다. 하지만 유비가 이들 다섯 명을 특별히 발탁해 군부의 정점에 배치한 건... | Facebook](https://www.facebook.com/imhyeonsang.2025/posts/pfbid02T5A3odrbKaRTnGVJjfb5hJHyJb5Uyd1UGcz5ak9cimBLVJj3Nb53B6YBpRDNKzAYl)
+  * 유비의 ‘오호장군’은 후대 용어지만, 관우, 장비, 조운(핵심)과 마초, 황충(상징/영입)으로 역할, 파벌 균형을 설계해 촉의 내란을 억제
+  * 다만 1세대 이후엔 재능과 권력 배분이 잘 안 되며 불만 인사가 누적됐고, 촉은 “인재가 없어서”가 아니라 “있는 인재를 못 써서” 약화
+  * 조조의 ‘오자양장’은 정치보다 실전, 성과 경쟁 중심의 임무형 체제였고, 양 체제 모두 과하면(균형형은 관계 편향, 경쟁형은 과부하) 붕괴
 * [미션과 비전, 그리고 서비스](https://brunch.co.kr/@mojuns/16)
 * [What It Takes: Vision, Mission & Culture - YouTube](https://www.youtube.com/watch?v=RI4UKUlnIDc)
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
