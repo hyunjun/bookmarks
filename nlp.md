@@ -1384,6 +1384,11 @@ NLP
   * [이상선 - 펜실베이니아 주립대 연구진: “무례하게 말할수록 ChatGPT가 더 똑똑해진다” 1. 연구 개요... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0UmxFF5SfeNogKZQmKvVDDyp8HhN6JKJJHNUMZ4esZoHnhiWBZmnSYcekipiAU7FCl)
 * [2510.01171v3 VERBALIZED SAMPLING: HOW TO MITIGATE MODE COLLAPSE AND UNLOCK LLM DIVERSITY](https://arxiv.org/pdf/2510.01171v3)
   * [#promptengineering #verbalizedsampling #llmresearch #prompting #semanaticdiversity | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-verbalizedsampling-llmresearch-activity-7391337914993086464-Fo-W)
+* [2510.03374 Lightweight Prompt Engineering for Cognitive Alignment in Educational AI: A OneClickQuiz Case Study](https://arxiv.org/abs/2510.03374)
+  * [김진관 - 인지적 정렬이 필요한 생성에서 페르소나 프롬프트는 왜 역효과를 냈을까? 1. 연구의 목적 (1) AI가... | Facebook](https://www.facebook.com/faithfuljk/posts/pfbid0Yzx9n6JP6nUNiQZGrQZpQh3AMDwQs7mwM7QHWvwJW3dLRnnqWSWr8ZrYVPWoywPol)
+    * 블룸 분류(지식, 적용, 분석) 수준에 맞는 문항 생성에서, 정의, 행동동사를 명시한 상세 프롬프트(A)가 정렬 96%로 압도적이고 단순(B) 60%, 페르소나(C) 40%로 최악
+    * 세 방식 모두 문항의 명확성, 관련성은 높았지만, 단순 프롬프트는 목표보다 어려운 문항을 만드는 인지적 과잉(overshooting) 유발
+    * 페르소나 프롬프트는 ‘노련한 교수’ 신호가 복잡성 증가로 해석되어 낮은 수준 요청을 덮어버렸고, 실무적으로는 UI가 단순해도 백엔드에 구조화된 명시적 지시를 넣는 것이 효과적
 * [Agenta - Prompt Management, Evaluation, and Observability for LLM apps](https://agenta.ai/)
   * [agenta: The all-in-one LLM developer platform: prompt management, evaluation, human feedback, and deployment all in one place](https://github.com/Agenta-AI/agenta)
 * [Arch - Intelligent Prompt Gateway](https://archgw.com/)
@@ -4688,6 +4693,7 @@ NLP
 * [쉽게 쓰여진 온톨로지 만약 온톨로지를 공부해봐도 도대체 어떻게 쓰이는건지 아리쏭하다면, 바로 당신을 위한 글이다.   배경은 다들 알다시피 이러하다. 팔란티어(Palantir)가 이제는 다소 진부해진 LLM이나 RAG 대신 '온톨로지'를 전면에 내세워 기술력을 강조했고, 이것이 먹혀들어가며 시장을 점령했다. 그렇다면 이 온톨로지라는 것은 무엇이고… | Onion Kim](https://www.linkedin.com/posts/onion-kim-371976229_%EC%89%BD%EA%B2%8C-%EC%93%B0%EC%97%AC%EC%A7%84%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EB%A7%8C%EC%95%BD%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B4%90%EB%8F%84-%EB%8F%84%EB%8C%80%EC%B2%B4%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EC%9D%B4%EB%8A%94%EA%B1%B4%EC%A7%80-activity-7392501072008929280-d-d2)
 * [AI 답변 성능의 핵심은 GraphRAG와 온톨로지.팔란티어의 사례를 파헤쳐 봅니다 l Sionic AI ML 엔지니어 정세민,박진형(AI 팟캐스트 #74) - YouTube](https://www.youtube.com/watch?v=Y0wb27QFaFU)
   * [AI 답변 성능의 핵심: 그래프 RAG와 온톨로지, 팔란티어 사례 분석 (Sionic AI ML 엔지니어 정세민, 박진형)](https://livewiki.com/ko/content/graphrag-ontology-palantir-ai)
+* [251227_AI인터시스브랜드(온톨로지논문)](https://aibread.notion.site/251227_AI-2d58d9a8b46080089449e1fc48b42fff)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
 * [TypeDB: The AI-native database for intelligent systems](https://typedb.com/)
