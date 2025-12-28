@@ -629,6 +629,9 @@ Artificial Intelligence
   * [LLM은 텍스트만 주고받지만, Embodied Agent는 화면을 보고(인식), 키보드/마우스로 조작하고(행동), 그 결과를 다시 관찰하는(피드백) 루프 | LinkedIn](https://www.linkedin.com/posts/h4y3j1n_google-embodiedabragent-activity-7404656173028925440-SBot/)
 * [2512.13564 Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)
   * [전종홍 - 에이전트 메모리(agent memory) 연구 분야에서의 개념적 혼란과 분류 체계의 한계를 해결하고자 한... | Facebook](https://www.facebook.com/1biit/posts/pfbid0q6UUmg6gjMzjxFFeHJWB3hS2CMYAH4NiqJA6Z6wRX7Bc7WKEMBfn2d9wiHmoNbSrl)
+    * 1. 의생명과학 지식은 폭발적으로 늘어나 인간 연구자가 따라잡기 어려우며, 지식 축적 속도와 인간 인지 능력의 격차 증가
+    * 2. 「Memory in the Age of AI Agents」는 AI가 단순히 빨리 읽는 존재가 아니라 ‘무엇을, 어떻게, 언제까지 기억할 것인가’라는 메모리의 도약을 통해 한계를 돌파할 가능성 제시
+    * 3. 미래 AI는 파라미터+외부메모리 결합(형태), 사실+경험 메모리로의 확장(기능), 갱신, 망각, 정제의 진화하는 기억(동역학)으로 집단지성 협업을 가능케 해 연구의 초점이 ‘읽기’에서 ‘질문, 협업’으로 이동
 * [2512.16301 Adaptation of Agentic AI](https://arxiv.org/abs/2512.16301)
   * [“에이전틱 AI에서 ‘적응(Adaptation)’이란 무엇이며, 어디를 어떻게 적응시켜야 하는가?” 를 체계적으로 정리하려 시도한 논문](https://www.facebook.com/1biit/posts/pfbid02u6eztGKnNTKK5mkABHd3wojmxzNJBHvgsdeReznZz649Ekfs3MfyKmktUodWfJWml)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
