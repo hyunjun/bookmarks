@@ -74,6 +74,10 @@ Hardware
   * [기계식 시계는 어떻게 동작하는가 | GeekNews](https://news.hada.io/topic?id=6617)
 * [권석준 칼럼 반도체 칩4동맹과 미국의 패권 | 피렌체의 식탁](https://firenzedt.com/22271)
 * [권석준 칼럼 반도체 칩4동맹과 미국의 패권 2 | 피렌체의 식탁](https://firenzedt.com/22288)
+* [Jake Deschain - 일반적으로 반도체의 역사는 같은 면적에 더 많은 트랜지스터를 넣고, 기능을 늘리고, 가격을... | Facebook](https://www.facebook.com/unattached/posts/pfbid0L8ide2ZFiL2h14koF93X7dwNJRzQpdijwA772aHoqG2Cy8EfaKJR17C8JejyMYzWl)
+  * 고가, 다기능 중심이던 6800에 반발, MOS 6502는 “덜어냄”으로 저가(25달러), 고효율을 달성하며 Apple II 등 대중 PC/콘솔 확산의 핵심
+  * Z80까지 합류한 저가 8비트 공세에 모토롤라는 68000, 인텔은 8086/8088로 16비트 선점 전략으로 대응, PC 표준은 x86으로
+  * 이후 PowerPC(RISC)가 한때 애플에서 성공했지만 전력/발열 한계에 부딪혔고, 오늘날은 ARM/애플 실리콘 등 RISC 계열로 흐름이 재정렬
 * [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
 * [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 * [가성비 끝판 대장 N100 미니 PC로 고성능 NAS 만들기 - YouTube](https://www.youtube.com/watch?v=KUICRLV3NGE)
