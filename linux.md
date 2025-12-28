@@ -887,6 +887,8 @@ Linux
   * [10 Examples of ps command in Linux | Java67](https://www.java67.com/2022/08/10-examples-of-ps-command-in-linux.html)
   * [Linux Process Story](https://naleejang.tistory.com/276)
   * [ProcMon-for-Linux: Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system](https://github.com/Sysinternals/ProcMon-for-Linux/) process monitor
+  * [witr: Why is this running?](https://github.com/pranshuparmar/witr)
+    * [Witr - 리눅스 시스템에서 프로세스가 실행 중인 이유를 설명하는 도구 | GeekNews](https://news.hada.io/topic?id=25376)
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
   * [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
