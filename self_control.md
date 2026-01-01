@@ -75,6 +75,7 @@ Self Control
 * [좋은 습관을 만드는 3가지 방법](http://moneyman.kr/archives/711)
 * [Einstein's 7 rules for a better life - Big Think](https://bigthink.com/starts-with-a-bang/einstein-rules-better-life/)
   * [아인슈타인의 더 나은 삶을 위한 7가지 규칙 | GeekNews](https://news.hada.io/topic?id=15996)
+* [시리어스골퍼 이기적인 사람이 골프를 더 잘 칠까? | 김태훈](https://v.daum.net/v/1MYd9Q4q4Y)
 
 * [완벽주의자가 나가떨어지지 않기 위한 방법](http://www.huffingtonpost.kr/2015/08/06/story_n_7945280.html)
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
