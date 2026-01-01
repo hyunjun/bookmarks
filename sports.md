@@ -127,6 +127,10 @@ Sports
 * [김경문 감독은 듣고 있는가? 염경엽 감독의 포스트시즌 투수 운용을..."포스트시즌엔 맞은 투수를 계속 쓰면 계속 맞는다"](https://v.daum.net/v/20251031071713990)
 * ["8회는 막았다"고? 자기 보호에 갇힌 김경문 감독, 김서현 기용의 '옳음' 증명하려다 한화 가을야구까지 흔들었다](https://v.daum.net/v/20251031001246690)
 * [최인식 - <<150km 포크볼을 꿈꾸던 少年(야마모토 요시노부), 그리고 끝까지 함께한 한 사람(개인 트레이너이자... | Facebook](https://www.facebook.com/kooksung/posts/pfbid02eKmb2xrRN8g74xko63sWpGQVc5Mu4arH8c7QUws1y9U7GjQTxhhAYSTjse7JzHehl)
+* [감동실화 영어 못 하는 한국인, 미국에서 야구 코치로 살아남기?🥹 허 일 1편_야구에산다 186구 - YouTube](https://www.youtube.com/watch?v=wdpgUACMfU4)
+* [메이저리그는 알고 보니 회의 지옥(?) 허일 코치가 풀어주는 미국 코치 썰😮 허 일 2편_야구에산다 187구 - YouTube](https://www.youtube.com/watch?v=_p7f2RSTJX4)
+  * IT회사의 일하는 방법과 매우 유사
+  * 모든 레벨이 같은 정의를 사용하고 어느 시기에 사용할지 통일, 즉 alignment를 한다는 게 인상적
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
