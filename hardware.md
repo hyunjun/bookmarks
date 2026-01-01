@@ -217,13 +217,15 @@ Hardware
 * [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)
 
 # Book
+* [임베디드 엔지니어라면 책상에 반드시 있어야 할 '규칙' 시리즈 3권 리뷰! - YouTube](https://www.youtube.com/watch?v=7_9LoOFOkdk)
+  * [임베디드 엔지니어 필수! '규칙으로 배우는 임베디드 시스템' 시리즈 3권 리뷰](https://livewiki.com/ko/content/embedded-engineer-rules-books-review)
+* [더북(TheBook): 모두의 마이크로비트](https://thebook.io/080233/) 0~8장만
+* [더북(TheBook): 모두의 아두이노 환경 센서](https://thebook.io/080261/)
 * [Embedded Recipes - 친절한 임베디드 시스템 개발자 되기 강좌](http://recipes.egloos.com/)
 * [Kolban's Book on the Raspberry Pi](https://leanpub.com/pi)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read_full)
 * [Raspberry Pi Computing: Ultrasonic Distance Measurement](https://leanpub.com/rpcultra/read_full)
 * [Raspberry Pi Computing: Analog Measurement](https://leanpub.com/rpcanalog/read_full)
-* [더북(TheBook): 모두의 마이크로비트](https://thebook.io/080233/) 0~8장만
-* [더북(TheBook): 모두의 아두이노 환경 센서](https://thebook.io/080261/)
 
 # Dio
 * [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)
