@@ -122,6 +122,8 @@ Art
 * [기독교에 살(煞)을 날린 영화, ‘곡성’](http://www.christiantoday.co.kr/news/290962)
 * [The Forgotten Art of Blockbuster Cinema - Mike Hill - YouTube](https://www.youtube.com/watch?v=rhG3PJPx4Sk)
 * 왝 더 독 Wag the Dog [언더 찐윤의 활개, 국민이 가십에 매몰되는 순간 영화로 읽는 세상](https://v.daum.net/v/20250810175627740)
+* [《아바타: 불과 재》 해석 리뷰｜에이와는 실체가 없는 믿음일까? - YouTube](https://www.youtube.com/watch?v=4YMpnGep-tY)
+  * [아바타: 불과 재 해석 – 에이와는 실체가 없는 믿음일까?](https://livewiki.com/ko/content/avatar-fire-ash-review-8)
 
 # Music
 * [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
