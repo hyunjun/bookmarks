@@ -4810,6 +4810,8 @@ NLP
       * 정답을 정답으로 판단할 확률(q1), 오답을 오답으로 판단할 확률(q0)이 각각 존재하며, 이 값들이 1이 아닌 이상 오판은 불가피
       * 그럼에도 우리는 지금까지 ‘LLM이 맞다고 판단한 비율(p̂)’을 모델의 실제 정확도와 동일시하는 오류
       * 문제는 p̂가 단순히 흔들리는 값 정도가 아니라, 일관된 방향으로 왜곡되는 편향된 지표라는 점
+* [2512.19428 Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
+  * [Attention Is Not What You Need... | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_attention-slqtqysps-ai-activity-7411556934257922049-6CUh/)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
