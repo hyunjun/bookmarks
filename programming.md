@@ -9461,6 +9461,7 @@ Programming
       * 2) 신뢰·품질 라인의 제도화
         * OpenAI가 라지의 책임 범위에 “Integrity”를 명시. 이는 안전 지표·가드레일 평가·해킹/오용 탐지 같은 온라인 품질 통제를 제품 파이프라인에 깊게 박겠다는 신호(사용자 조사 기반의 안전/품질 지표를 A/B 지표로 끌어오는 설계)
         * Optimizely·LaunchDarkly·GrowthBook 등 실험/플래깅 생태계는 빅테크-모델랩의 내재화 흐름을 더 강하게 체감할 것. 경쟁사(예: Anthropic·Google)도 실험 스택 내재화/제휴를 서두를 가능성이 클 것으로 예상
+* [E2E 자동화 리팩토링으로 만든 QA 시스템 (feat. 하루 30회 배포) - 라포랩스 팀블로그](https://blog.rapportlabs.kr/80433)
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
