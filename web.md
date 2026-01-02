@@ -1755,6 +1755,7 @@ Web
   * [Helping FastAPI: How to contribute to docs translations - DEV Community](https://dev.to/ceb10n/helping-fastapi-how-to-contribute-to-docs-translations-44a7)
   * [1.  FastAPI로 API 만들고 배포하기](https://brunch.co.kr/@topasvga/4167)
   * [AI•Data FastAPI와 데이터베이스(이론) - YouTube](https://www.youtube.com/watch?v=DpvowOakOaw)
+  * [인상적인 프로젝트 만들려면 FastAPI 꼭 써보세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3528/)
   * [FastAPI 첫걸음 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQyPLmc4zF6yLEl-Rc6D9lg)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
