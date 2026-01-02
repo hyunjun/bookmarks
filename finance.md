@@ -302,6 +302,8 @@ Finance
 * [전종홍 - DeepSeek는 정말 실제로는 헤지펀드를 위한 사이드 프로젝트였던 것일까요 ? 미국 시장 조사 회사인... | Facebook](https://www.facebook.com/1biit/posts/pfbid02RSmx8ban35iGztCpKatY8tqAKvXMcaYwfiWExBQ1kibuSMYQvQ3bwQfvaEh9GZhil)
 * [구글 제미나이 3.0: 8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포) - YouTube](https://www.youtube.com/watch?v=8BsHVuJdJgE)
   * [8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포)](https://livewiki.com/ko/content/ai-stock-trading-system-source-code)
+* [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
+  * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
   * [@aicoffeechat • Anthropic, 금융 전문가 'Quick Start' 공개 여러분, Anthropic에서 정말 흥미진진?... • Threads](https://www.threads.net/@aicoffeechat/post/DBRdapBT_kr)
 * [AutoHedge: Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution](https://github.com/The-Swarm-Corporation/AutoHedge)
