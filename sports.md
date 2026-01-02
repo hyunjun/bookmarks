@@ -119,6 +119,7 @@ Sports
 * [컴퓨터 비전의 시대에서 야구를 외치다 - 야구공작소](https://yagongso.com/?p=23186)
 * [류선규 : ‘재야의 야구 덕후 → SSG 초대 단장’ KBO의 새 역사를 쓰다!](https://prologue.rememberapp.co.kr/25031201)
 * [야구팬 회계사 등판⚾ KBO구단 재무제표 뜯어보기 야구에산다 159구 - YouTube](https://www.youtube.com/watch?v=avNudjjHlBc)
+* ["수익 만큼 지출도 늘었다" 흥행 대박→구단 살림살이 얼마나 나아졌나 1200만 프로야구 GO!②](https://v.daum.net/v/20260102135149874)
 * [이랜드 뮤지엄](https://elandmuseum.com/)
 * ['오심 남발' 메이저리그, 획기적인 변화가 필요하다 | 이창섭](https://v.daum.net/v/ybIpttOJ2p)
   * 기술의 발전을 잘 활용하는 곳이 메이저리그인데, 경기 판정은 유독 보수적으로 접근하면서 같은 문제가 반복
