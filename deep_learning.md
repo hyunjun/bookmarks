@@ -2389,6 +2389,9 @@ Deep Learning
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
 * [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* [Deep Delta Learning](https://yifanzhang-pro.github.io/deep-delta-learning/)
+  * [deep-delta-learning: Official Project Page for "Deep Delta Learning"](https://github.com/yifanzhang-pro/deep-delta-learning)
+  * [딥러닝을 뒤집는 델타 딥러닝 | Suk Hyun K](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_rhprvyqwd-deeplearning-ddl-ugcPost-7412629269165748224-lTlh)
 * [Deep Learning without Backpropagation Tutorial: DeepMind's Synthetic Gradients](https://iamtrask.github.io/2017/03/21/synthetic-gradients/)
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
