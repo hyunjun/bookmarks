@@ -2092,6 +2092,7 @@ Artificial Intelligence
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
+* [라포랩스의 QA - 품질을 테스트하는 게 아니라 설계합니다. - 라포랩스 팀블로그](https://blog.rapportlabs.kr/78344)
 * [Strix - The AI Penetration Testing Agent](https://www.strix.ai/)
   * [strix: Open-source AI agents for penetration testing](https://github.com/usestrix/strix)
 
