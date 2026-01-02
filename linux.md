@@ -199,6 +199,8 @@ Linux
 * [0xNews - 새로운 Linux 결함이 Ubuntu·RHEL·Fedora 사용자 암호 해시에서 발견 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/05/0xnews-linux-ubunturhelfedora.html)
 * [Ken Thompson Recalls Unix's Rowdy, Lock-Picking Origins - The New Stack](https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/)
   * [Ken Thompson이 회상한 Unix의 소란스럽고 자물쇠를 따던 시절 | GeekNews](https://news.hada.io/topic?id=23955)
+* [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop | PC Gamer](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
+  * [리눅스는 이제 충분히 좋다, 2026년은 당신의 데스크톱에서 리눅스의 해로 만들자 | GeekNews](https://news.hada.io/topic?id=25502)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
