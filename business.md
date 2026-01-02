@@ -2940,6 +2940,8 @@ Business
   * ["좋은 엔지니어링 관리"는 유행일 뿐이다 | GeekNews](https://news.hada.io/topic?id=24620)
 * [The End of Engineering's Blank Check: Accountability in SW Leadership • Laura Tacho & Charles Humble - YouTube](https://www.youtube.com/watch?v=MJjmRN2Xteo)
   * [The End of Engineering's Blank Check: Accountability in SW Leadership](https://notebooklm.google.com/notebook/860d1dd0-e4ea-49ec-a5b4-a4cbfcc23cb0)
+* [AI시대 리더의 자격은? (변형균 퓨처웨이브 대표) - YouTube](https://www.youtube.com/watch?v=w4c7yXzUmkI)
+  * [AI 시대, 리더의 조건: 엔비디아 젠슨 황에게 배우는 조직 운영 전략과 인간 고유 역량](https://livewiki.com/ko/content/ai-leader-qualification)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
