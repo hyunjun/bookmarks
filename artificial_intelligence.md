@@ -602,6 +602,8 @@ Artificial Intelligence
   * [새로운 데이터 소비자, AI Agent를 맞이하기 위한 DE의 준비 | JONG GOO YEO](https://www.linkedin.com/posts/jong-goo-yeo-4998bb49_what-it-means-to-get-your-data-ready-for-activity-7398965559163351040-XgIj)
 * [Agentic Al in SW Development: Evolving Patterns & Protocols • Bhuvaneswari Subramani • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=JD3yNaWs70A)
   * [SW 개발의 에이전트 AI: 진화하는 패턴과 프로토콜](https://livewiki.com/ko/content/agentic-ai-sw-development)
+* [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기!](https://aifactory.space/task/9253/overview)
+  * [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기! - YouTube](https://www.youtube.com/watch?v=Ipa6JNbFq4g)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -830,6 +832,10 @@ Artificial Intelligence
 * [프롬프트 엔지니어링"의 시대는 끝났다...이제는 "컨텍스트 엔지니어링"의 시대다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_suaqtztfmqvz-ai-uikrxwuiktxuslwtfmqwislqrez-activity-7407179446538952704-CVLG)
 * [코칭 관점에서 본 AI 대화의 기술 | Warmblood TechBlog](https://warmblood-kr.github.io/techstack/2025/11/25/coaching-and-context-engineering.html)
   * [Warmblood Co., Ltd. 기술 블로그에 올라온 '코칭 관점에서 본 AI 대화의 기술'이라는 글을 소개합니다. LLM에게 컨텍스트 엔지니어링을 한다는 건 단순한 프롬프트 설계가 아니라, '대화의 깊이'를 만들어 가는 과정입니다. 그리고 이 과정은 코칭의 원리와 생각보다 닮아 있습니다. 몆달 전 동료분과 함께 ‘페어 AI 증강 코딩’을 하고 난… | Jeongsoo Park](https://www.linkedin.com/posts/toracle_warmblood-co-ltd-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%98%AC%EB%9D%BC%EC%98%A8-%EC%BD%94%EC%B9%AD-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-activity-7401498923934408704-GEGH)
+* [🤖 메타에 5조원에 인수된 마누스의 비밀: AI 에이전트가 실패하는 진짜 이유 메타가 최근 약 4~5조원에 인수한 마누스는 매일 수백만 건의 대화를 안정적으로 처리할 수 있었던 이유는 '컨텍스트 엔지니어링(Context Engineering)'이라는 전혀 다른 접근에 있었습니다. 사실 마누스는 일반 AI 에이전트(General AI Agent)… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EB%A9%94%ED%83%80%EC%97%90-5%EC%A1%B0%EC%9B%90%EC%97%90-%EC%9D%B8%EC%88%98%EB%90%9C-%EB%A7%88%EB%88%84%EC%8A%A4%EC%9D%98-%EB%B9%84%EB%B0%80-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94-%EC%A7%84%EC%A7%9C-activity-7411700296009228288-EOWE)
+  * [AI 에이전트를 위한 컨텍스트 엔지니어링: Manus 구축에서 얻은 교훈](https://manus.im/ko/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
+  * [와이드 리서치: 컨텍스트 윈도우를 넘어서](https://manus.im/ko/blog/manus-wide-research-solve-context-problem)
+  * ["만약 내가 딱 하나의 지표만 선택해야 한다면, KV-cache 히트율이 프로덕션 단계 AI 에이전트에서 가장 중요한 지표라고 주장하겠습니다." 최근 메타에 합병된 마누스 글에서 발췌한 문구입니다. 1.제 입장에서 End-user 이자 Customer라고 생각되는 곳에서 이런 스탠스를 취하고 있구나 하며 흥미롭게 읽은 글입니다. 딥러닝 거장 얀 르쿤이… | Yitae Jeong](https://www.linkedin.com/posts/yitaejeong_%EB%A7%8C%EC%95%BD-%EB%82%B4%EA%B0%80-%EB%94%B1-%ED%95%98%EB%82%98%EC%9D%98-%EC%A7%80%ED%91%9C%EB%A7%8C-%EC%84%A0%ED%83%9D%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-kv-cache-%ED%9E%88%ED%8A%B8%EC%9C%A8%EC%9D%B4-activity-7412315528268247040-EWEI)
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -1830,7 +1836,10 @@ Artificial Intelligence
   * [안드레이 카파시가 말하는 AI 시대의 소프트웨어](https://maily.so/seanlee/posts/wdr9790gzlx)
   * [안드레이 카파시 "소프트웨어는 (다시) 변화하고 있다" 강연 노트](https://apidog.com/kr/blog/notes-on-andrej-karpathy-talk-software-is-changing-again/)
   * [생활코딩 | 안드레이 카파시의 개발 방법론을 최신 유튜브 인터뷰에서 발췌하여 첨부 이미지들로 시각화 해 봤습니다(PDF 파?... | Facebook](https://www.facebook.com/groups/codingeverybody/posts/33063002643313522/)
+* [Andrej Karpathy on X: "I've never felt this much behind as a programmer. The profession is being dramatically refactored as the bits contributed by the programmer are increasingly sparse and between. I have a sense that I could be 10X more powerful if I just properly string together what has become" / X](https://x.com/karpathy/status/2004607146781278521)
   * [유수호 - Andrej Karpathy, 스탠퍼드 박사에 OpenAI 공동 창업 후 테슬라 AI 총괄하고 지금은... | Facebook](https://www.facebook.com/simmany/posts/pfbid0219sx4gHkUZZ1iimwkv8pfFi7BndQCGmusV94UyfQai5PjRiVoDhRPQH2NLdCyDAFl)
+  * [Andrej Karpathy 의 고백에서 시작된 이야기](https://whchoi98.notion.site/Andrej-Karpathy-2dc04ef7e60e80e7a4f2f19a402efcbf)
+  * [Karpathy의 프로그래밍 관련 발언: "이렇게까지 뒤처진 느낌은 처음이다" | GeekNews](https://news.hada.io/topic?id=25434)
 * [Every time OpenAI launches something new, another 100 AI startups quietly die](https://www.linkedin.com/posts/zainjaffer_every-time-openai-launches-something-new-activity-7340775023361650689-_0k5/)
 * [Augmented Coding: Beyond the Vibes - by Kent Beck](https://tidyfirst.substack.com/p/augmented-coding-beyond-the-vibes)
   * [켄트 벡의 Augmented Coding: Beyond the Vibes 요약 및 추가 의견 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BC%2584%25ED%258A%25B8-%25EB%25B2%25A1%25EC%259D%2598-augmented-coding-beyond-vibes-%25EC%259A%2594%25EC%2595%25BD-%25EB%25B0%258F-%25EC%25B6%2594%25EA%25B0%2580-%25EC%259D%2598%25EA%25B2%25AC-toby-lee-mcy8e)
@@ -1840,6 +1849,10 @@ Artificial Intelligence
     * [켄트 벡(Kent Beck) 형님과 함께하는 Augmented Coding, "증강 코딩" 잘해보기 | Hyeonwoo Jeong](https://www.linkedin.com/posts/hyeonwoo-jeong-nuung_%EC%BC%84%ED%8A%B8-%EB%B2%A1kent-beck-%ED%98%95%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-augmented-coding-activity-7373688457396862976-oYeA)
   * [Kent Beck Live Stream - SecondB Summary](https://secondb.ai/summary/9083/)
     * [Kent Beck Live Stream - SecondB Summary | Geummo I](https://www.linkedin.com/posts/geummo_kent-beck-live-stream-secondb-summary-activity-7400029062477438976--smz)
+  * [Party of One for Code Review! - by Kent Beck](https://tidyfirst.substack.com/p/party-of-one-for-code-review)
+    * 전통적인 코드 리뷰는 대기 시간과 협업 비용으로 인해 개발 속도를 늦추는 병목 현상이 되어버림
+    * AI(Genie)를 활용하면 다른 사람의 승인을 기다릴 필요 없이 즉각적으로 고품질의 피드백을 받을 수 있는 '1인 코드 리뷰' 가능
+    * 이는 개발 주기를 단축시키고 개발자의 의도를 실시간으로 검증하여 소프트웨어 품질과 생산성을 동시에 높이는 새로운 방식임을 강조
 * [TDD, AI agents and coding with Kent Beck - YouTube](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
   * [TDD, AI agents and coding with Kent Beck | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5185989/4634407)
 * [AI 코딩 그렇게 하는 거 아닌데 - 켄트 백 (40년차) - YouTube](https://www.youtube.com/watch?v=AAd8taPTyTM)
@@ -2607,6 +2620,14 @@ Artificial Intelligence
     * [개발자 5명 몫을 혼자? 클로드 코드와 함께한 63일, 950시간의 개발 기록 | 이애본 한신대 AI SW 겸임교수 & 개발자 - YouTube](https://www.youtube.com/watch?v=2X3phzeo-uY)
       * [클로드 코드와 63일, 950시간 개발 기록: AI 협업으로 5인 몫 해내다](https://livewiki.com/ko/content/claude-ai-development-record)
   * [모바일 기기를 그래픽 타블렛으로 바꿔주는 VirtualTablet: Bluetooth 앱 개발기 (Feat. 클로드코드) | letmecompile](https://www.letmecompile.com/virtualtablet-bluetooth-devlog-with-claude-code/)
+  * [raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt](https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt)
+    * 최근 Anthropic의 Claude용 시스템 프롬프트(system prompt) 가 GitHub를 통해 유출
+      * 약 24,000 토큰에 달하는 분량의 장문의 내부 지침(internal instructions)
+    * 특히 주목받는 이유는, Claude가 어떻게 사고하고, 도구를 사용하며, 답변을 구성하는지를 규정하는 핵심 구조가 비교적 상세히 드러났기 때문
+    * 유출된 문서는 Claude가 처리하는 세 가지 핵심 기능을 명확히 보여줌
+      * 1/모델 행동 가이드라인(Model behavior guidelines)
+      * 2/도구 사용 프로토콜(Tool usage protocols)
+      * 3/인용 형식 규칙(Citation formatting rules)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
@@ -2615,6 +2636,7 @@ Artificial Intelligence
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
+  * [cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio)
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
@@ -2673,6 +2695,10 @@ Artificial Intelligence
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
+  * [claude-workflow: Universal Claude Code workflow plugin with agents, skills, hooks, and commands](https://github.com/CloudAI-X/claude-workflow)
+    * Claude Code를 위한 범용 워크플로우 플러그인, 소프트웨어 개발 과정을 자동화하고 최적화하기 위해 설계
+    * 7개의 전문 에이전트와 6개의 지식 기술, 8개의 자동화 훅을 통해 복잡한 개발 작업을 체계적으로 관리
+    * 사용자의 의도에 따라 아키텍처 설계, 빠른 개발, 멘토링 등 다양한 모드로 전환하여 작업 효율 극대화
   * [Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.](https://github.com/opactorai/Claudable)
   * [**초보를 위한 Claude Code 안내서**](https://subicura.com/2025/09/08/ai-coding.html)
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
