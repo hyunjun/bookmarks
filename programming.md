@@ -5636,6 +5636,8 @@ Programming
 * [React, NextJS 해킹 당했습니다. 지금 당장 업데이트 하세요 - YouTube](https://www.youtube.com/watch?v=Ne_-V3NAXpY)
 * [누적식 보안의 위험: 취약점 클리닝 서비스에서 발견된 RCE 사례 - Theori 블로그](https://theori.io/ko/blog/security-risk-of-security-vulnerability-cleaning-service)
 * [이메일 인증은 어떻게 구현하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3515/)
+* [Bluetooth Headphone Jacking: A Key to Your Phone - media.ccc.de](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
+  * [블루투스 헤드폰 해킹: 스마트폰 침투의 새로운 경로 | GeekNews](https://news.hada.io/topic?id=25501)
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
