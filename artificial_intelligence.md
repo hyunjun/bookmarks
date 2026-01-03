@@ -2428,6 +2428,7 @@ Artificial Intelligence
     * [AI Co-Scientist를 위한 가상 연구실 구축: Claude Code로 끝내는 에이전트 인터페이스](https://livewiki.com/ko/content/ai-co-scientist-virtual-lab)
     * 기획(Gemini), 프론트엔드(V0), 백엔드(Claude Code), 보고서 작성(Notebook LM)의 풀 사이클
     * [데이터 - Track 2 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회) - 대상수상팀 최대 25억원 사업화 지원](https://aifactory.space/task/9237/data)
+* [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
