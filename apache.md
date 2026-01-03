@@ -1368,6 +1368,9 @@ Apache
 * [One Stone, Three Birds: Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/)
 * [Demystifying the Parquet File Format | by Michael Berk | Towards Data Science](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
 * [Dremel made simple with Parquet](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet)
+* [FastLanes](https://fastlanes.io/)
+  * [FastLanes: Next-Gen Big Data File Format](https://github.com/cwida/FastLanes)
+  * [FastLanes – 차세대 빅데이터 파일 포맷 | GeekNews](https://news.hada.io/topic?id=25426)
 * [vortex: An extensible, state-of-the-art columnar file format](https://github.com/spiraldb/vortex)
   * [Vortex - 고성능 Columnar 파일 포맷 | GeekNews](https://news.hada.io/topic?id=17284)
 
