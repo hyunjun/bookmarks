@@ -1085,7 +1085,9 @@ Deep Learning
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-* CME295 [Stanford CME295: Transformers and Large Language Models I Autumn 2025 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+* CME295
+  * [Stanford CME295: Transformers and Large Language Models I Autumn 2025 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+  * [Large Language Models (LLMs) - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05)
 * [CS 221: 인공지능 (봄 2019), CS 229: 기계 학습 (가을 2018), CS 230: 딥 러닝 (겨울 2019)](https://stanford.edu/~shervine/l/ko/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [시리즈 | CS224W Review - 투빅스 GNN 스터디](https://velog.io/@tobigs-gnn1213/series/Part1-CS224W)
