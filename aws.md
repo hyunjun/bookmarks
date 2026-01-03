@@ -2835,6 +2835,7 @@ AWS
 * [Secure File Uploads Made Simple: Mastering S3 Presigned URLs with React and FastAPI | by Sanmugam | Oct, 2025 | Medium](https://medium.com/@sanmugamsanjai98/secure-file-uploads-made-simple-mastering-s3-presigned-urls-with-react-and-fastapi-258a8f874e97)
   * [How to use S3 presigned URLs for file uploads | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_secure-file-uploads-made-simple-mastering-activity-7393768959579299840-mXo9)
 * [Bucket monopoly : 간단한 S3 이름의 함정](https://beaver-dam.tistory.com/8)
+* [S3 server access logs at scale](https://engineeringblog.yelp.com/2025/09/s3-server-access-logs-at-scale.html)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
@@ -3135,6 +3136,7 @@ AWS
   * [Writing Terraform for unsupported resources](https://www.hashicorp.com/blog/writing-terraform-for-unsupported-resources)
     * Terraform으로 인프라는 코드화할 때 프로바이더가 필요하기 때문에 원하는 리소스 관리에 프로바이더가 없으면 프로바이더를 기다리거나 원하는 기능이 추가되기를 기다려야 함
     * 하지만 해당 서비스가 API를 제공하고 있다면 TerraCurl를 이용해서 API를 호출해서 프로바이더를 기다리지 않고 코드화 가능
+* [terraform-provisioning](https://github.com/DevopsArtFactory/terraform-provisioning)
 
 # Transcribe
 * [Amazon transcribe로 한국어 음성인식 Speech To Text(STT) 사용하기](https://daeunnniii.tistory.com/122)
