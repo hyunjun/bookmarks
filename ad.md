@@ -117,6 +117,8 @@
 * [구글이 지난 4월 17일 미국 법원에서 ‘온라인 광고 시장 독점’ 판결](https://www.linkedin.com/posts/hunwoo-kwak-714642183_%EA%B5%AC%EA%B8%80%EC%9D%B4-%EC%A7%80%EB%82%9C-4%EC%9B%94-17%EC%9D%BC-%EB%AF%B8%EA%B5%AD-%EB%B2%95%EC%9B%90%EC%97%90%EC%84%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%9E%A5-%EB%8F%85%EC%A0%90-%ED%8C%90%EA%B2%B0%EC%9D%84-activity-7319243454427852800-NFcz/)
   * 첫 번째 흐름은 플랫폼 광고 내재화
   * 두 번째 흐름은 지면을 수익화하고 싶은 기업들의 수요는 여전히 증가
+* [Google is dead. Where do we go now? - Circus Scientist](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+  * [Google Ads는 죽었다. 이제 어디로 가야 할까? | GeekNews](https://news.hada.io/topic?id=25431)
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
