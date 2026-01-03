@@ -1017,6 +1017,12 @@ Clojure
   * [Migration from Postgres to Datomic](https://grishaev.me/en/pg-to-datomic/)
   * [Day of Datomic Cloud - Session 2 - YouTube](https://www.youtube.com/watch?v=ZP-E2IgqKfA&t=2255s)
   * [Max Datom - Interactive Datomic Tutorial](https://max-datom.com/)
+  * [A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix) - YouTube](https://www.youtube.com/watch?v=gJ9UZlr6C6M)
+    * [넷플릭스의 10년간 데이토믹 활용: 안정성, 확장, 파이프라인 혁신](https://livewiki.com/ko/content/decade-datomic-netflix)
+    * 넷플릭스의 개인화 추천 오케스트레이션 프로젝트가 Clojure + Datomic
+    * Clojure 스택의 높은 안정성 덕분에
+      * 10년간 Python, Scala, Spark 등 주변 생태계의 잦은 변경 및 대규모 마이그레이션에도 불구하고
+      * 코어 코드 변경 없이 원활하게 업그레이드
 * [deps.clj: A port of the clojure CLI bash script to Clojure. Can be run as executable or from source with babashka or JVM](https://github.com/borkdude/deps.clj)
 * [devart-codefactory: Create a piece of art using code](https://github.com/postspectacular/devart-codefactory)
 * [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
