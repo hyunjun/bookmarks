@@ -291,6 +291,7 @@ History
 * [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)
 
 # Africa
+* [최근 국제사회에 갑자기 등장한 나라... 소말릴랜드](https://www.facebook.com/aghon123/posts/pfbid0EQ4u6akYcgroQniHeSThLo3gatTrSQ6SqjuaJuXqSEH2YHReK8uu63jVEGiXwiWLl)
 * [The true size of Africa](http://kai.subblue.com/en/africa.html)
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
   * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
