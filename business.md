@@ -3919,6 +3919,7 @@ Business
   * [로드맵도 AI가 쓰는 시대, 그럼 PM은 뭘 해야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3415/)
     * AI가 방대한 데이터에서 인사이트를 추출하고, 우선순위 결정과 협업 과정에 도움을 주면서 제품 개발의 효율성과 민첩성이 크게 향상
 * [실리콘밸리 PM이 말해주는 AI시대 PM 생존법 | Glean 김수연 - YouTube](https://www.youtube.com/watch?v=2bBhnfh4StU)
+* [API 문서 읽는 법 (개발자 도움 없이) - Billinonnapkin](https://billionnapkin.com/api-%eb%ac%b8%ec%84%9c-%ec%9d%bd%eb%8a%94-%eb%b2%95-%ea%b0%9c%eb%b0%9c%ec%9e%90-%eb%8f%84%ec%9b%80-%ec%97%86%ec%9d%b4/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
