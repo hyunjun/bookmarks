@@ -529,6 +529,7 @@
   * [Rust: PyO3 파이썬 모듈 Rust 언어로 만들기 :: PROGRAMMING PER SE](https://choiseokwon.tistory.com/314)
   * [PyCon KR 2023 PyO3를 활용한 분산 시스템 알고리즘 구현체 바인딩 작성 도전기 이규봉 - YouTube](https://www.youtube.com/watch?v=9nuV_tc77OI)
   * [Combining Rust and Python: The Best of Both Worlds? - YouTube](https://www.youtube.com/watch?v=lyG6AKzu4ew)
+  * [Rust is Awesome in Python - YouTube](https://www.youtube.com/watch?v=IKANyuUn1rc)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
