@@ -1961,3 +1961,4 @@ Machine Learning
 * [The Complete Course Catalog | End to End Machine Learning](https://end-to-end-machine-learning.teachable.com/p/complete-course-library-full-end-to-end-machine-learning-catalog)
 * [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
+* [Stanford CS329H: Machine Learning from Human Preferences I Autumn 2024 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
