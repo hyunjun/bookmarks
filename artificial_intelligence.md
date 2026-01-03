@@ -308,6 +308,10 @@ Artificial Intelligence
 * [제미나이 CLI vs 클로드 코드: 바이브옵스(VibeOps) 관점에서 비교하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3334/)
 * [Tornike Onoprishvili | Code is Debt](https://tornikeo.com/code-is-debt/)
   * [코드는 부채임 (Code is Debt) | GeekNews](https://news.hada.io/topic?id=22871)
+* [The Hidden Costs of Coding With Generative AI](https://sloanreview.mit.edu/article/the-hidden-costs-of-coding-with-generative-ai/)
+  * [AI Coding Tools: The Productivity Trap Most Companies Miss](https://sloanreview.mit.edu/video/ai-coding-tools-the-productivity-trap-most-companies-miss/)
+  * [lucas on X: "AI 코딩의 숨겨진 기술부채: 모르는 사이 쌓이는 '속도의 이자'" / X](https://x.com/lucas_flatwhite/status/2004426458392154414)
+  * 위기가 빠르게 온다는 점에 동감
 * [코드 쌓일수록 멀어지는 혁신…AI가 되살린 ‘996식’ 과로 문화 | ITWorld](https://www.itworld.co.kr/article/4095668/%EC%BD%94%EB%93%9C-%EC%8C%93%EC%9D%BC%EC%88%98%EB%A1%9D-%EB%A9%80%EC%96%B4%EC%A7%80%EB%8A%94-%ED%98%81%EC%8B%A0ai%EA%B0%80-%EB%90%98%EC%82%B4%EB%A6%B0-996%EC%8B%9D-%EA%B3%BC.html)
   * 코드 변경이 초래하는 높은 비용
   * 코드는 자산이 아니라 부채
@@ -412,6 +416,7 @@ Artificial Intelligence
 * [LLM vs RAG vs Agents 개념 한 번에 정리! "이 세개를 구분할 줄 알아야 AI를 이해할 수 있다" | Suk Hyun K. | 12 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_aiagents-llm-rag-activity-7397021160422404096-Ymsl)
   * LLM은 생각하고(Thinking), RAG는 알고(Knowing), Agents는 행동한다(Doing)
   * 행동은 Tool로, Agent는 LLM, RAG, Tool이 모두 더해진 형태라 봐야한다는 의견도 댓글에 존재
+* [Systems design 3: LLMs and the semantic revolution - apenwarr](https://apenwarr.ca/log/20251120)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -2007,6 +2012,12 @@ Artificial Intelligence
   * [초고속 제품 팀이 AI로 날개를 다는 법 | 이예찬](https://www.linkedin.com/posts/yechanny_%EC%B4%88%EA%B3%A0%EC%86%8D-%EC%A0%9C%ED%92%88-%ED%8C%80%EC%9D%B4-ai%EB%A1%9C-%EB%82%A0%EA%B0%9C%EB%A5%BC-%EB%8B%A4%EB%8A%94-%EB%B2%95-activity-7398277878855028736-bf-6)
 * [Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)
   * [그녀의 딸은 무너져 내리고 있었지만, 그녀는 이유를 몰랐습니다. 그러다 AI 채팅 로그를 발견했습니다](https://www.facebook.com/anywhereanytime/posts/pfbid0A3MNNVY9owxTtFJf8Tsyu7sHr6ayiAbqFz5TrGpotukS4Q3Hke4gYUehupq9BLc7l)
+* ["AI로 인건비 줄이려다 비용만 늘어"…뼈아픈 ‘도어맨 오류’ - ZDNet korea](https://zdnet.co.kr/view/?no=20251228085643)
+* [“AI 시대의 경쟁력, 역설적이게도 가장 고전적 기본기에서 나와”](https://v.daum.net/v/20251225160749932)
+* [현업에 번진 AI 기대감, 리더십 부재로 추진력 잃다 | CIO](https://www.cio.com/article/4111486/%ED%98%84%EC%97%85%EC%97%90-%EB%B2%88%EC%A7%84-ai-%EA%B8%B0%EB%8C%80%EA%B0%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B6%80%EC%9E%AC%EB%A1%9C-%EC%B6%94%EC%A7%84%EB%A0%A5-%EC%9E%83%EB%8B%A4.html)
+* [개발자 AI 지원, 어디까지 왔나…앤트로픽·토스·올리브영 등이 전한 현장의 고민과 전망 | CIO](https://www.cio.com/article/4111488/%EA%B0%9C%EB%B0%9C%EC%9E%90-ai-%EC%A7%80%EC%9B%90-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%99%94%EB%82%98%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%C2%B7%ED%86%A0%EC%8A%A4%C2%B7%EC%98%AC%EB%A6%AC.html)
+* [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
+  * [(1) 전종홍 - 2025년, 극단적 경우 2027년이면 ASI 세상이 올지도 모른다는 "AI 2027" 블로그 글로 주목을... | Facebook](https://www.facebook.com/1biit/posts/pfbid02QBxcDEUShnfxhDoRs7gopzcBkh7r1J1XN6xR9k8uF95Gx8qMwkY5b5sMGRTWuPcml)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2432,6 +2443,7 @@ Artificial Intelligence
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
+  * [AI 코딩 툴, 생산성 높이지만 오류도 1.7배 더 많아…코드래빗 보고서 | ITWorld](https://www.itworld.co.kr/article/4110154/ai-%EC%BD%94%EB%94%A9-%ED%88%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%86%92%EC%9D%B4%EC%A7%80%EB%A7%8C-%EC%98%A4%EB%A5%98%EB%8F%84-1-7%EB%B0%B0-%EB%8D%94-%EB%A7%8E%EC%95%84%EC%BD%94%EB%93%9C.html)
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * Antigravity [Google Antigravity](https://antigravity.google/)
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
@@ -2638,6 +2650,11 @@ Artificial Intelligence
       * 3/인용 형식 규칙(Citation formatting rules)
   * [AI Co-Scientist를 위한 가상 연구실(Lab) 구축: Claude Code로 끝내는 에이전트 인터페이스](https://aifactory.space/task/9250/overview)
     * [AI Co-Scientist를 위한 가상 연구실(Lab) 구축: Claude Code로 끝내는 에이전트 인터페이스 - YouTube](https://www.youtube.com/watch?v=Pz1rM5jjw1w)
+  * [Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
+    * [Claude Code로 바이브 코딩한 책장 프로젝트 | GeekNews](https://news.hada.io/topic?id=25443)
+  * [How Claude Code is built - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
+    * [lucas on X: "Claude Code 어떻게 만들어졌을까" / X](https://x.com/lucas_flatwhite/status/2006192256106258614)
+  * [비개발자, 클로드 코드로 외주 개발 시작하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3525/)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
