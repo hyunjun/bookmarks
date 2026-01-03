@@ -2155,6 +2155,7 @@ App
 * [16 Popular Free And Open Source UML tools](https://medevel.com/open-source-uml-tools/)
 * [Create animated architecture diagrams in minutes on powerpoint - YouTube](https://www.youtube.com/watch?v=yg3WcAjmR90) ppt의 animation 이용이라 나에겐 큰 유용함은 없을 듯
 * [Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube](https://www.youtube.com/watch?v=jCd6XfWLZsg)
+  * Go Diagrams, Mermaid, Plant UML, ASCII editors asciiflow & monodraw, Markmap
 * [🔥 업무 효율을 높여주는 아이데이션 툴](https://eopla.net/magazines/17697) ideamap Whimsical
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
@@ -2642,6 +2643,8 @@ App
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
     * [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
   * [claudesidian: Claude Code + Obsidian Starter Kit](https://github.com/heyitsnoah/claudesidian)
+  * [Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain](https://www.obsidiancopilot.com/)
+    * [obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)
   * [easy-gate](https://github.com/reallygood83/easy-gate)
     * [옵시디언에서 Gemini, NotebookLM 바로 쓴다! 이지게이트 플러그인 완벽 가이드 - YouTube](https://www.youtube.com/watch?v=M-5a2Ug5oZE)
   * Excalidraw
