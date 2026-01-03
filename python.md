@@ -1405,6 +1405,8 @@ Python
   * [Visualizing the Results of Profiling Python Code - Thirld Word Blog](https://thirld.com/blog/2014/11/30/visualizing-the-results-of-profiling-python-code/) pyprof2calltree pyinstrument
   * [How to profile slow code in Python - YouTube](https://www.youtube.com/watch?v=nnkY3dcH74o)
   * [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)
+  * [Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
+    * [파이썬 프로그래머가 알아야 할 주요 성능 수치 | GeekNews](https://news.hada.io/topic?id=25516)
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
     * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
   * [Prodfiler](https://prodfiler.com/)
@@ -3710,6 +3712,33 @@ Python
 * [Must-Know Python Libraries - DZone Web Dev](https://dzone.com/articles/must-know-python-libraries) PySnooper Faker Pickle
 * [15 Python Libraries You Should Know About in 2023 - YouTube](https://www.youtube.com/watch?v=o06MyVhYte4)
 * [15 POWERFUL Python Libraries You Should Be Using - YouTube](https://www.youtube.com/watch?v=OiLgG4CabPo)
+* [Top Python libraries of 2025 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2025)
+  * [2025년 파이썬에서 주목받은 라이브러리들 | GeekNews](https://news.hada.io/topic?id=25458)
+  * ty — Rust로 작성된 초고속 Python 타입 체커
+  * complexipy — 코드의 인지 복잡도(cognitive complexity) 측정 도구
+  * Kreuzberg — 다언어 문서 인텔리전스 프레임워크
+  * throttled-py — 5가지 알고리듬(Fixed/Sliding Window, Token/Leaky Bucket, GCRA) 기반 요청 속도 제어
+  * httptap — HTTP 요청의 세부 타이밍 분석 및 시각화
+  * fastapi-guard — FastAPI용 보안 미들웨어 통합 솔루션
+  * modshim — 모듈 오버레이 방식으로 기존 라이브러리 확장
+  * Spec Kit — GitHub의 명세 기반 개발(Spec-Driven Development) 도구
+  * skylos — 죽은 코드 탐지 및 보안 취약점 분석 도구
+  * FastOpenAPI — 모든 웹 프레임워크에서 OpenAPI 문서 자동 생성
+  * MCP Python SDK & FastMCP — LLM을 외부 데이터와 연결하는 Model Context Protocol 구현
+  * TOON (Token-Oriented Object Notation) — LLM용 압축 JSON 대체 포맷
+  * Deep Agents — LangChain 기반 장기 작업형 LLM 에이전트 프레임워크
+  * smolagents — Hugging Face의 경량 코드 실행형 에이전트 프레임워크
+  * LlamaIndex Workflows — 이벤트 기반 AI 워크플로우 프레임워크
+  * Batchata — OpenAI·Anthropic·Gemini용 통합 배치 처리 API
+  * MarkItDown — Microsoft의 문서→Markdown 변환기
+  * Data Formulator — Microsoft Research의 AI 기반 데이터 시각화 도구
+  * LangExtract — Google의 정확한 텍스트 구조 추출 라이브러리
+  * GeoAI — OpenGeos의 AI-지리정보 통합 분석 프레임워크
+  * AuthTuna — 비동기 Python용 인증·인가 프레임워크
+  * FastRTC — Python 함수를 실시간 오디오·비디오 스트림으로 변환
+  * hexora — 악성 코드 패턴 탐지용 정적 분석 도구
+  * opentemplate — 최신 개발·보안·CI/CD 설정을 포함한 프로젝트 템플릿
+  * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
