@@ -132,6 +132,8 @@ Programming
   * [Rise of Worse is Better | Daniel Lee](https://typefully.com/dylayed/dxcVfbU) MIT style vs. New Jersey style
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
+* [You can't design software you don't work on](https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/)
+  * [직접 만들고 고치지 않으면 소프트웨어를 설계할 수 없다 | GeekNews](https://news.hada.io/topic?id=25445)
 * [Starbase Tour with Elon Musk PART 1 // Summer 2021 - YouTube](https://www.youtube.com/watch?v=t705r8ICkRw&t=810s)
   * [**엔지니어라면 꼭 보고가야 할 일론 머스크의 5단계 원칙**](https://maily.so/electricshock/posts/767236) 일단 시작하기 전에 0. 현황 파악부터
     1. 설계 요구사항이 정말 맞는 것인지 검증해라
@@ -1941,6 +1943,7 @@ Programming
 * [소프트웨어 설계를 위한 추상적, 구조적 사고 · Present](https://present.do/documents/64db4b7310ab9a5ae5684fa9)
 * [**The Grand Unified Theory of Software Architecture - danuker | freedom & tech**](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) I/O at the top & decoupling, pure function
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
+* [A Deeper Look at Software Architecture Anti-Patterns | by Srinath Perera | Nov, 2025 | Medium](https://medium.com/@srinathperera/a-deeper-look-at-software-architecture-anti-patterns-9ace30f59354)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
@@ -4224,6 +4227,8 @@ Programming
 * [GCP Google Cloud Platform](gcp.md)
 * [Gigalixir](https://www.gigalixir.com/)
 * [CloudBro AI - CloudBro AI](https://www.cloudbro.ai/)
+* [Cloud Cost Handbook](https://handbook.vantage.sh/)
+  * [handbook.vantage.sh: The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud infrastructure and service providers in plain english](https://github.com/vantage-sh/handbook.vantage.sh/)
 * [Golem Cloud](https://golem.cloud/)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
@@ -4248,6 +4253,9 @@ Programming
 * [Open Source Cloud Guide](https://open-cloud-guide.dev/)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [Why (and how) GitHub is adopting OpenTelemetry | The GitHub Blog](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
+* [OpenWorkers](https://github.com/openworkers)
+  * [Introducing OpenWorkers – Self-hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
+  * [OpenWorkers – Rust로 구현된 셀프호스팅 Cloudflare Workers | GeekNews](https://news.hada.io/topic?id=25503)
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
 * Oracle cloud
   * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
@@ -7422,6 +7430,7 @@ Programming
   * [12월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/12/b-12-2.html)
   * [12월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2025/12/b-12-3.html)
   * [12월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2025/12/b-12-4.html)
+  * [12월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/01/b-12-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8842,6 +8851,8 @@ Programming
   * [Helldivers 2 개발팀, 설치 용량을 154GB에서 23GB로 축소 | GeekNews](https://news.hada.io/topic?id=24832)
 * [Slowness is a Virtue - Jakob Schwichtenberg’s Newsletter](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
   * [느림은 미덕이다 | GeekNews](https://news.hada.io/topic?id=25310)
+* [Akin's Laws of Spacecraft Design.pdf](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
+  * [우주선 설계의 법칙 (Akin's Laws of Spacecraft Design) | GeekNews](https://news.hada.io/topic?id=25489)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
