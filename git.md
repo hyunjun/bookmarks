@@ -340,6 +340,8 @@ Git
       * 어디서나 스파크를 관리하고 시작할 수 있는 PWA 지원 대시보드로 구성
     * 아직 초기 단계이며, 협업 방식, 편집기, 런타임 환경 확장 업데이트를 통하여 어플리케이션의 생성 패러다임을 바꿔나갈 것으로 기대
 * [리누스 토발즈의 ‘깃(Git)’ 20주년 소회 “별일 아니었다” – 바이라인네트워크](https://byline.network/2025/04/17-440/)
+* [Package managers keep using git as a database, it never works out | Andrew Nesbitt](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
+  * [Git을 데이터베이스로 사용하는 패키지 관리자들, 결국 실패한다 | GeekNews](https://news.hada.io/topic?id=25365)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
