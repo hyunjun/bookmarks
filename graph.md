@@ -68,6 +68,8 @@ Graph
 * [Reverse Searching Netflix’s Federated Graph | Netflix TechBlog](https://netflixtechblog.com/reverse-searching-netflixs-federated-graph-222ac5d23576)
 * [Introducing Graph in Microsoft Fabric – Connected Data for the Era of AI | Microsoft Fabric 블로그 | Microsoft Fabric](https://blog.fabric.microsoft.com/ko-kr/blog/graph-in-microsoft-fabric?ft=Real-time-intelligence:category)
   * [안녕하세요 정이태입니다. 1.엊그제 그래프 산업계에서 큰 이슈가 있었습니다. Table join based graph operator& embedded database (non-server-client) 으로 유명했던 kuzudb 가 archiving 된 이슈였는데요. 2.각종 그래프 & AI 유명 행사에서 Panelist 로 자주 등장하며… | Yitae Jeong](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-1%EC%97%8A%EA%B7%B8%EC%A0%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%B0%EC%97%85%EA%B3%84%EC%97%90%EC%84%9C-%ED%81%B0-%EC%9D%B4%EC%8A%88%EA%B0%80-%EC%9E%88%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7382957116447371265-NR_P)
+* [How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data Streams at Internet Scale | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc)
+* [How and Why Netflix Built a Real-Time Distributed Graph: Part 2 — Building a Scalable Storage Layer | by Netflix Technology Blog | Nov, 2025 | Medium](https://netflixtechblog.medium.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-2-building-a-scalable-storage-layer-ff4a8dbd3d1f)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
