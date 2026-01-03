@@ -1240,6 +1240,7 @@ Business
   * 1. 자본최적화 이직
   * 2. 인생은 행복 이직
   * 3. 로드맵형 이직
+* [보스랑 안 맞을 때는 그냥 회사를 떠나는 것이 낫다 | LinkedIn](https://www.linkedin.com/posts/jeongyeol-cho-20349640_%EB%B3%B4%EC%8A%A4%EB%9E%91-%EC%95%88-%EB%A7%9E%EC%9D%84-%EB%95%8C%EB%8A%94-%EA%B7%B8%EB%83%A5-%ED%9A%8C%EC%82%AC%EB%A5%BC-%EB%96%A0%EB%82%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EB%82%AB%EB%8B%A4-%ED%9A%8C%EC%82%AC%EB%A5%BC-%EA%B4%80%EB%91%98-activity-7406107886357114880-c8Y0/)
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
