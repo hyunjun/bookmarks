@@ -189,6 +189,8 @@
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
   * [Microsoft, Mono Project를 Wine 팀에 기부 | GeekNews](https://news.hada.io/topic?id=16495)
+  * [Unity's Mono problem: Why your C# code runs slower than it should | Marek's blog](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
+    * [Unity의 Mono 문제: 왜 당신의 C# 코드는 기대보다 느리게 실행되는가 | GeekNews](https://news.hada.io/topic?id=25421)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 * [.NET nanoFramework – Making it easy to write C# code for embedded systems](https://www.nanoframework.net/)
