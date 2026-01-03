@@ -1048,6 +1048,7 @@ Artificial Intelligence
     * [Reddit에서 "How we vibe code at a FAANG(Google, Meta, Amazon 등에서 바이브코딩하는 법)"이라는 글을 흥미롭게 보았습니다. 어떻게 AI를 활용해 프로덕션 코드를 짜고 있는지, 생산성은 얼마나 올렸는지 상세한 워크플로우를 공유했습니다. 이걸 본 사람들은 "최고의 바이브코딩 방법은 바이브코딩을 전혀 하지 않는… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_reddit%EC%97%90%EC%84%9C-how-we-vibe-code-at-a-faanggoogle-activity-7401387124752846848-ctM4)
       * 최고의 바이브코딩 방법은 바이브코딩을 전혀 하지 않는 것
       * 완벽한 가이드가 있어야 AI가 춤춘다
+  * [바이브 코딩과 보안: 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibecoding-security/)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -2343,6 +2344,7 @@ Artificial Intelligence
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
   * [스토리텔AI로 10초 만에 운영전략 보고서 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3326/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
+* [Super Productivity – Open-Source Deep Work Task Manager](https://super-productivity.com/)
 * [surya: OCR, layout analysis, reading order, table recognition in 90+ languages](https://github.com/datalab-to/surya)
   * [0$ 데이터 자산화의 좋은 시작점이 되어줄 Surya 오픈소스 라이브러리](https://www.linkedin.com/posts/h4y3j1n_upstage-activity-7361683055100485632-z-pJ/)
 * [TaskMaster AI](https://www.taskmaster.one/)
@@ -2745,7 +2747,9 @@ Artificial Intelligence
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
   * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
     * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
-  * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
+  * [Agent Skills](https://developers.openai.com/codex/skills/)
+    * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
+    * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
@@ -3020,6 +3024,7 @@ Artificial Intelligence
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
