@@ -324,6 +324,7 @@ Algorithm
 * [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
   * [우리의 소프트웨어 개발 알고리듬 | GeekNews](https://news.hada.io/topic?id=16383)
 * [2024 NYPC 예선 Round 1 / 2-A / 2-B 풀이 | JusticeHui가 PS하는 블로그](https://justicehui.github.io/review/2024/08/25/2024-nypc-qual/)
+* [Shamir's Secret Sharing 과 Reed Solomon Code - Google Slides](https://docs.google.com/presentation/d/1D9jc646ie8XB9KiIN8Tc9xB-vIbE5jMpBz-bPAHisOs/edit)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
