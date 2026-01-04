@@ -2374,6 +2374,7 @@ Artificial Intelligence
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [toon: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK](https://github.com/toon-format/toon)
   * [Md Ismail Sojal - RIP JSON. AI just got a data format that... | Facebook](https://www.facebook.com/0xSojalSec/posts/pfbid02rkEQsqxSY1k9yV9LWVp6KRuYZBoE4CQjNyF1dp9uziMyKnYmoxe3qKmg8ke8CnSHl)
+  * [JSON vs TOON: LLM 입력 포맷만 바꿔도 토큰 효율은 달라질까 - 활용법 & Cookbook - NAVER Cloud Platform Forum](https://www.ncloud-forums.com/topic/594/)
 * [TrendRadar: 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点](https://github.com/sansan0/TrendRadar)
   * [AI로 35개 플랫폼을 24시간 모니터링하고, 내 관심사만 골라 푸시해주는 맞춤형 뉴스 레이더 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_github-activity-7396325019641024512-O_va)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
