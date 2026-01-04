@@ -649,6 +649,7 @@ Web
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
 * Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
+* [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
