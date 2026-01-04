@@ -636,6 +636,7 @@ Programming
 * [Here’s Yet Another List of Exciting Projects to Build](https://medium.com/better-programming/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 * [Project-Ideas-And-Resources: A Collection of application ideas that can be used to improve your coding skills ❤.](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
   * [이상선 - GitHub 프로젝트 아이디어 & 리소스 라이브러리 — The Cool Coders 1. 실전형 코딩... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0RMBvoHGSew2uPVm7dxYsT1WoXNnBCM53wTsXGzgrn4thYWXVpuREjBcZ7QFuA2Hkl)
+* [Ideabrowser | #1 Software to Find Startup Ideas Worth Building](https://www.ideabrowser.com/)
 * [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
 * [파일럿 프로젝트와 함께 우아한개발자 되어가기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2592/)
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2591/)
