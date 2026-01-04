@@ -614,6 +614,8 @@ Artificial Intelligence
 * [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기!](https://aifactory.space/task/9253/overview)
   * [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기! - YouTube](https://www.youtube.com/watch?v=Ipa6JNbFq4g)
 * [AI 에이전트 101](https://aifactory.space/task/9254/overview)
+* [Agentic Al in SW Development: Evolving Patterns & Protocols • Bhuvaneswari Subramani • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=JD3yNaWs70A)
+  * [SW 개발의 에이전트 AI: 진화하는 패턴과 프로토콜](https://livewiki.com/ko/content/agentic-ai-sw-development)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -2655,6 +2657,7 @@ Artificial Intelligence
   * [How Claude Code is built - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
     * [lucas on X: "Claude Code 어떻게 만들어졌을까" / X](https://x.com/lucas_flatwhite/status/2006192256106258614)
   * [비개발자, 클로드 코드로 외주 개발 시작하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3525/)
+  * [Claude Code 오픈소스 창시자의 Claude 사용법](https://www.notion.so/grumatic/Claude-Code-Claude-2dd0586bce7480eb8f0cc5a07d5dd7ae)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
