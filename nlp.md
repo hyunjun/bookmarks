@@ -2534,6 +2534,8 @@ NLP
 * [Solar 10.7B: 간단하지만 효과적으로 수리능력이 강화된 sLLM | Upstage 2023 | 조진욱 - YouTube](https://www.youtube.com/watch?v=DRq4ZGXCc6M)
   * [솔라 프리뷰 프로 DocumentParse 테.. : 네이버블로그](https://blog.naver.com/ulsancoding/223639638559)
   * [LIVE From Scratch로 학습한 Solar-Open-100B 공개 검증세션 - YouTube](https://www.youtube.com/live/2YY9aAUSo_w)
+    * [이진원 - 2026년 첫 날 들었던 믿기 힘들고 굉장히 충격적이었던 외혹 제기가 하루만에 정리가 되는 분위기네요 어제... | Facebook](https://www.facebook.com/jinwon.lee.330/posts/pfbid0xP8JMwMc9nLqiHF7BCPVYKwrQfWr1AoHXrwUa5GUzUqowsgAKvbEceSyLiXspuzZl)
+    * [solar-vs-glm-vs-phi: Solar vs GLM vs Phi](https://github.com/hyunwoongko/solar-vs-glm-vs-phi)
   * [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling - Google Slides](https://docs.google.com/presentation/d/1jSRbNQ5ZAjLu09BkLR1Mk7FbxCYozg13eRvHtOLkv9M/edit#slide=id.p)
   * [Solar-LLM-ZeroToAll/99_all.ipynb at main · UpstageAI/cookbook](https://github.com/UpstageAI/cookbook/blob/main/Solar-LLM-ZeroToAll/99_all.ipynb)
     * [AGI KR | 오픈소스인 `arize-phoenix[evals]` 프로젝트를 소개 합니다 | Facebook](https://www.facebook.com/groups/agikr/posts/2344760702531641/)
@@ -2973,6 +2975,7 @@ NLP
   * [카카오 AI Safety 팀에서 AI 가드레일 모델 3종을 오픈소스로 공개](https://www.linkedin.com/posts/kyunghoon-kim-8b5962bb_%EC%B9%B4%EC%B9%B4%EC%98%A4-ai-%EA%B0%80%EB%93%9C%EB%A0%88%EC%9D%BC-%EB%AA%A8%EB%8D%B8-kanana-safeguard-%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7333679267026739200-vXbC/)
     * [카카오 AI 가드레일 모델, Kanana Safeguard 시리즈를 소개합니다. - tech.kakao.com](https://tech.kakao.com/posts/705)
   * [Kanana 언어모델에 추론 기능 붙여보기 (feat. Kanana-1.5) - tech.kakao.com](https://tech.kakao.com/posts/724)
+  * [Kanana-2: 카카오의 오픈소스 에이전틱 AI 구현 차세대 언어모델](https://fornewchallenge.tistory.com/entry/Kanana-2-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-AI-%EA%B5%AC%ED%98%84-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8)
   * Kanana-MoE [국내 최초 MoE 모델 ‘Kanana-MoE’ 개발기 - tech.kakao.com](https://tech.kakao.com/posts/716)
   * kanana nano
     * [작지만 강한 Kanana Nano 효율적으로 개발하기 - tech.kakao.com](https://tech.kakao.com/posts/682)
