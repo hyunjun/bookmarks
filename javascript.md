@@ -2748,6 +2748,8 @@ Javascript
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [ray-optics: Simulate reflection and refraction of light](https://github.com/ricktu288/ray-optics)
   * [Ray Optics Simulation - Home](https://ricktu288.github.io/ray-optics/)
+* [readdirp: Recursive version of fs.readdir with small RAM & CPU footprint](https://github.com/paulmillr/readdirp)
+  * [readdirp - 대규모 디렉터리를 효율적으로 읽기 위한 Node.js용 리더 | GeekNews](https://news.hada.io/topic?id=25542)
 * [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com ](https://github.com/jasonbio/reddit-shell)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [Remix - Build Better Websites](https://remix.run/)
