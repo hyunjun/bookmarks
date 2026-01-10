@@ -3781,6 +3781,8 @@ NLP
   * [Home | Opik Documentation](https://www.comet.com/docs/opik/)
   * [Build faster, better, and cheaper LLM systems!](https://www.linkedin.com/posts/akshay-pachaar_build-faster-better-and-cheaper-llm-systems-activity-7350513973617709057-xe8B/)
 * Qwen
+  * [A 30B Qwen Model Walks Into a Raspberry Pi… and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
+    * [라즈베리 파이에서 실시간으로 구동되는 300억 파라미터 Qwen 모델 | GeekNews](https://news.hada.io/topic?id=25628)
   * [Nexusflow.ai | Blog :: Introducing Athene-V2: Advancing Beyond the Limits of Scaling with Targeted Post-training](https://nexusflow.ai/blogs/athene-v2)
     * [🚀Athene-V2 : GPT-4o를 넘어선 최신 오픈소스 모델 ! (+무료 API)](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80Athene-V2-GPT-4o%EB%A5%BC-%EB%84%98%EC%96%B4%EC%84%A0-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%EB%AC%B4%EB%A3%8C-API)
   * [🤖🔍QVQ-Max: 생각하고 이해하는 알리바바의 최첨단 시각적 추론 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%94%8DQVQ-Max-%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EC%B2%A8%EB%8B%A8-%EC%8B%9C%EA%B0%81%EC%A0%81-%EC%B6%94%EB%A1%A0-AI)
