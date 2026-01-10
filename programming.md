@@ -8855,6 +8855,8 @@ Programming
   * [느림은 미덕이다 | GeekNews](https://news.hada.io/topic?id=25310)
 * [Akin's Laws of Spacecraft Design.pdf](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
   * [우주선 설계의 법칙 (Akin's Laws of Spacecraft Design) | GeekNews](https://news.hada.io/topic?id=25489)
+* [Building Better Software: Why Workflows Beat Code Every Time • Ben Smith & James Beswick - YouTube](https://www.youtube.com/watch?v=bWhm2rAo12Y)
+  * [코드 대신 워크플로우를 사용해야 하는 이유: 소프트웨어 개발 혁신](https://livewiki.com/ko/content/software-workflows-code-smith-beswick)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
