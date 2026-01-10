@@ -2335,6 +2335,7 @@ App
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
   * [스마트폰 사진 용량 부족할 때, 미니PC를 사진 백업 서버로 활용하기 (N100 PC immich 서버 설치방법) - YouTube](https://www.youtube.com/watch?v=nQHn03HEZCo)
+  * [I Moved to Immich… Can It Really Replace Google Photos? - YouTube](https://www.youtube.com/watch?v=h5tdK10CRFE)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
 * [Jellyfin: The Free Software Media System](https://jellyfin.org/)
@@ -2638,6 +2639,7 @@ App
   * [Homepage - Jin's Second Brain - Obsidian Publish](https://publish.obsidian.md/lifidea/Publish/Homepage)
     * [AI-powered PKM 실습 | Obsidian과 Gemini CLI로 나만의 Second Brain 시작하기 - YouTube](https://www.youtube.com/watch?v=Ku4_N4b78rc)
   * [옵시디언과 함께 쓰는 AI 리서치 도구 Ponder - PKM 워크플로우 완성하기 - YouTube](https://www.youtube.com/watch?v=se-cFCZ_1ZA)
+  * [노션보다 강력한 옵시디언 사용법! AI 웹클리퍼 4종 | 유튜브·깃허브·도서·채용 자동 정리 | 템플릿 무료제공 - YouTube](https://www.youtube.com/watch?v=JQFjhQPwD9I)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
@@ -3018,6 +3020,7 @@ App
   * [이게바로 윈도우판 굿락? 상상보다 훨씬 더 편해지는 윈도우 '무료 프로그램' 핵꿀팁 공개합니다. - YouTube](https://www.youtube.com/watch?v=bzg3otFT3zI)
   * ['윈도우 속 만능 도구함' MS 파워토이 활용법 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/222279)
   * [PowerToys - 11 awesome features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
+  * [Microsoft PowerToys를 처음 쓰면 묘한 이질감이 든다. 같은 회사 제품인데 다르다. 가볍고, 빠르고, 쓸데없는 설명이 없다. 설치 즉시 "아 이건 만든 사람이 직접 쓰려고 만들었구나"라는 느낌이 온다](https://www.facebook.com/unattached/posts/pfbid0UMyStgd5xcCJ3Q7epoTHAi3E2AnjEQtPprVZKV6DS6LtDkty7MBK11rdCPQ5SCadl)
 * [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
