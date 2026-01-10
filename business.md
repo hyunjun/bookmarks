@@ -1033,6 +1033,7 @@ Business
     * 1. 죽지 마라 2. 절대 포기하지 마라 3. 몰입하라 (Lock In) 4. 어려운 일을 하라 5. 규칙을 지켜라 6. 다시 돌려줘라
 * [Suho Park - 이호성 하나은행장과 만날 일이 있었다. #영업왕 으로 유명한 분이었다. 시종일관 유쾌하게 대화를... | Facebook](https://www.facebook.com/suhoz/posts/pfbid02yaZeLo3UYQMyzp4Les13Ud5q8hYPBzrPnF1a9Nr81QP7eXycvUZ5R3EkiXRNRo6Gl)
 * [헤지펀드가 책방을 부활시키면 : 라이브러리](https://coffeepot.me/library/?bmode=view&idx=169157689)
+* [버크셔 통신 '천재 CEO' 워런 버핏](https://www.buffettclub.co.kr/article-20251231/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
