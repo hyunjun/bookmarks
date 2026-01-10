@@ -266,6 +266,7 @@ Artificial Intelligence
 * [AI 로 만든 여행 일정 서비스, 부족한 데이터로 시작한 실험 | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/ai-%EB%A1%9C-%EB%A7%8C%EB%93%A0-%EC%97%AC%ED%96%89-%EC%9D%BC%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%80%EC%A1%B1%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%8B%A4%ED%97%98-919296cec080)
 * [여행 검색 경험 향상을 위한 AI 활용. 여행을 준비할 때 우리는 숙소, 투어, 액티비티, 입장권 등 다양한… | by Donghoon Lee (Panda) | How we build Myrealtrip | Jul, 2025 | Medium](https://medium.com/myrealtrip-product/%EC%97%AC%ED%96%89-%EA%B2%80%EC%83%89-%EA%B2%BD%ED%97%98-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-ai-%ED%99%9C%EC%9A%A9-7b92f85e6566)
 * [3명의 개발팀이 만든 24시간 일하는 AI 동료. 부사수도 없는 작은 팀에서 일해본 경험이 있나요? 그렇다면 이런 상황은… | by Donghoon Lee (Panda) | How we build Myrealtrip | Sep, 2025 | Medium](https://medium.com/myrealtrip-product/3%EB%AA%85%EC%9D%98-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%B4-%EB%A7%8C%EB%93%A0-24%EC%8B%9C%EA%B0%84-%EC%9D%BC%ED%95%98%EB%8A%94-ai-%EB%8F%99%EB%A3%8C-0eea38d33153)
+* [세상에는 3 종류의 AI 프로덕트만이 있다 (아직까진)](https://eopla.net/magazines/37976)
 * [(1) 이창원 - AI 업계를 들여다 보면 개발자들은 매일 와 이렇게 좋은 새로운 코딩 기능이 나왔어 하면서 놀라는데 실제로... | Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02EW5Pipyvv9FBUr6aDoJrQU1kikV2zysgYufE85tze21cu8xfgkzsL1FT1qHx36GEl)
   * 워드프로세서로 글쓰는 시대가 도래 한지 오래 되었는데 과거 원고지에 펜으로 쓰던 시절보다 좋은 작품이 많이 나오고 있는가?
 * misalignment [전종홍 - 최근에 며칠 사이로 OpenAI와 Anthropic에서 LLM이 인간을 속이며 인간의 의도와는 다르게... | Facebook](https://www.facebook.com/1biit/posts/pfbid02ixg4WqHjjn2ybLpHkE1BBiEvQ3PoN6oi3mwp4LhnWyJYBB4m8HjNfnzWzJkLPCjZl)
@@ -1064,6 +1065,11 @@ Artificial Intelligence
   * [바이브 코딩과 보안: 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibecoding-security/)
   * [공부하는 개발자는 굶지 않는다 (AI시대, 앞으로 개발자의 역할은?) - 토비편 - YouTube](https://www.youtube.com/watch?v=8VcnF40x8L0)
     * [공부하는 개발자는 굶지 않는다: AI 시대, 개발자의 역할과 미래 (토비 이일민)](https://livewiki.com/ko/content/developer-ai-role-toby)
+  * [Vibe Coding as a Coding Veteran. From 8-bit Assembly to English-as-Code | by Marco Benedetti | Level Up Coding](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
+    * [베테랑 개발자가 직접 경험한 바이브 코딩의 모든 것 (1) | 요즘IT](https://yozm.wishket.com/magazine/detail/3472/)
+    * [베테랑 개발자가 직접 경험한 바이브 코딩의 모든 것 (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/3473/)
+  * [cresco](https://github.com/delos-cresco/cresco)
+    * [바이브 코딩으로 어디까지 개발할 수 있을까? | GeekNews](https://news.hada.io/topic?id=25611)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -2688,6 +2694,7 @@ Artificial Intelligence
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
+  * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
