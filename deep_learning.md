@@ -1436,6 +1436,7 @@ Deep Learning
   * [구글, 새로운 생성형 AI 툴 ‘위스크’ 출시](https://blog.google/intl/ko-kr/company-news/technology/whisk-kr/)
   * [✨🖼️구글 위스크(Whisk): 이미지 조합으로 이미지를 생성하는 AI 도구](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%F0%9F%96%BC%EF%B8%8F%EA%B5%AC%EA%B8%80-%EC%9C%84%EC%8A%A4%ED%81%ACWhisk-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%95%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC)
   * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/)
+* [🖼️Z-Image-Turbo: 4GB VRAM 실행 가능한 고품질 이미지 생성 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%96%BC%EF%B8%8FZ-Image-Turbo-4GB-VRAM-%EC%8B%A4%ED%96%89-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B3%A0%ED%92%88%EC%A7%88-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8)
 
 # Java
 * [SmallData | Blog | Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
