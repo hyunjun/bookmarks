@@ -109,6 +109,10 @@ Hardware
     * 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트
     * 소프트웨어가 구동되는 아래쪽의 하드웨어에 대한 정보를 시각적으로 잘 정리
 
+# AI
+* [Tiiny AI Inc](https://tiiny.ai/)
+  * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
+
 # Arduino
 * [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
