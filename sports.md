@@ -132,6 +132,7 @@ Sports
 * [메이저리그는 알고 보니 회의 지옥(?) 허일 코치가 풀어주는 미국 코치 썰😮 허 일 2편_야구에산다 187구 - YouTube](https://www.youtube.com/watch?v=_p7f2RSTJX4)
   * IT회사의 일하는 방법과 매우 유사
   * 모든 레벨이 같은 정의를 사용하고 어느 시기에 사용할지 통일, 즉 alignment를 한다는 게 인상적
+* [다저스는 본래 야마모토가 탐탁지 않았다 | 백종인](https://v.daum.net/v/WZ7SnDRfRk)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
