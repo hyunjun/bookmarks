@@ -350,6 +350,7 @@ Programmer
   * 전체 엔지니어링 조직을 설득하는 과정에서 한 기술이 다른 기술보다 더 우수해서가 아니라 "사려 깊은 커뮤니케이션"이 중요했음
   * "소통과 친절함"이 개발 도구 세계에서 중요한 가치임을 강조
 * [AI시대에 필요한 개발자, Product Engineer | 요즘IT](https://yozm.wishket.com/magazine/detail/2485/)
+* [기획과 테스트가 사라진 세상, 풀스택빌더(FSB)의 등장 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/fullstackbuilder20260107)
 * [The Art and Science of Thriving Developers: 7 Key Strategies by Dimitris Andreadis - YouTube](https://www.youtube.com/watch?v=IBUBm0WyZW8)
   * [VidiGo The Art and Science of Thriving Developers: 7 Key](https://vidigo.ai//chatbot/summary/Sa7jkmsooXPopLb)
   * [성공하는 개발자의 예술과 과학: 디미트리스 안드레디스의 7가지 핵심 전략 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/383917?sId=IBUBm0WyZW8)
