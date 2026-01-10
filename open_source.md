@@ -430,6 +430,7 @@ Open Source
 * [오픈소스 라이선스 변화의 흐름 – tech.kakao.com](https://tech.kakao.com/2021/09/08/opensource-license/)
   * [오픈소스 라이선스 변화의 흐름 | GeekNews](https://news.hada.io/topic?id=4991)
 * [NASA "오픈소스 정확한 의미 모르는 개발자 많아" - ZDNet korea](https://zdnet.co.kr/view/?no=20211111154404)
+* [아파치 라이선스(Apache License)는 "매우 관대하고 친기업적인(Permissive)" 라이선스이어서, 이것을 사용하면 Fast Follower입장에서, 그리고 소스 재활용(Source Reuse) 측면에서 볼 때 매우 유리](https://www.facebook.com/parkshkhu/posts/pfbid02mbngxEqvsoz7s4WoywP2xY8oNLdEu9JAYbtsFFSgmWMF4qS2w3W5jHzmVG9GxtdXl)
 * [오픈소스 라이센스 표시 :: iOYES](https://green1229.tistory.com/381)
 * [Opensource License - GPL LGPL Apache BSD MIT](https://www.notion.so/1003/e7e20a25ade841fd82c9dc21a5ba61f0?pvs=4#8af707b924f245b2beac7d9341f1889c)
 * [KubeSphere kills open source edition • The Register](https://www.theregister.com/2025/08/01/kubesphere_open_source_edition/)
