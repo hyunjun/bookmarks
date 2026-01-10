@@ -1516,6 +1516,8 @@ SQL
 * [AlloyDB versus PostgreSQL: a performance review - Vettabase](https://vettabase.com/blog/alloydb-versus-postgresql/)
 * [What is AlloyDB? - YouTube](https://www.youtube.com/watch?v=YODa-x0_3l0)
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
+* [Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries](https://github.com/CrystallineCore/Biscuit)
+  * [Biscuit - PostgreSQL에서 LIKE / ILIKE 패턴 검색을 고속화하기 위 | GeekNews](https://news.hada.io/topic?id=25649)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
 * EdgeDB
