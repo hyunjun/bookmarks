@@ -2635,6 +2635,7 @@ AWS
     * [AWSKRUG- AWS한국사용자모임 | Amazon Q Developer CLI Custom Agents 기능이 업데이트 됐습니다 | Facebook](https://www.facebook.com/groups/awskrug/posts/9730563570378913/)
   * [Amazon Q Developer 를 이용한 엑심베이의 JDK 자동화 업그레이드 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/q-developer-eximbay-journey/)
     * [엑심베이의 JDK 1.8 → 17 업그레이드 여정](https://www.linkedin.com/posts/saintkim4_amazon-q-developer-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%97%91%EC%8B%AC%EB%B2%A0%EC%9D%B4%EC%9D%98-jdk-%EC%9E%90%EB%8F%99%ED%99%94-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-activity-7360573704432504832-Q6X3/)
+* [Simplifying Serverless with AI-Powered CLI Tools • Todd Shaffer • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=W6f8nslLYzk)
 * [MCP on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/4bfd0cd5-45d4-4183-ab13-6992de68d888/ko-KR)
 * [AWS Q 해커톤을 참여하며](https://aimb.tistory.com/330)
 
