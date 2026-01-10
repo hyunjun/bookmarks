@@ -5574,6 +5574,7 @@ Javascript
   * [3D 이미지인 GLTF를 이용해서 여러 구도에서 그걸 봐야할 때 어떻게 해야할까요?](https://velog.io/@juunini/3D-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%B8-GLTF%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%97%AC%EB%9F%AC-%EA%B5%AC%EB%8F%84%EC%97%90%EC%84%9C-%EA%B7%B8%EA%B1%B8-%EB%B4%90%EC%95%BC%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [arctext: 💿 UI component to draw curved text in circles](https://github.com/junhoyeo/arctext)
+* [awesome-react: A collection of awesome things regarding React ecosystem](https://github.com/enaqx/awesome-react)
 * [Blitz.js - The Fullstack React Framework](https://blitzjs.com/)
   * [Blitz - 풀스택 React 프레임워크 | GeekNews](https://news.hada.io/topic?id=5244)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
