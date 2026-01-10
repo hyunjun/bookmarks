@@ -104,6 +104,8 @@ Finance
   * [목돈굴리기 채권투자 "또 하나의월급 GPL채권.. : 네이버블로그](https://blog.naver.com/sunnny82/223125901983)
 * [홍장원의 불앤베어 월가 구루는 왜 한달만에 '증시 상승' 뷰 변경했나 - YouTube](https://www.youtube.com/watch?v=QsGKXxxwX5A) inflation adjusted s&p 500 line of death, 실러 지수(Shiller PE Ratio)
 * [피터 틸 미국 주식 포트폴리오 엔비디아 숏 전략과 이더리움금고 비트마인 이더질라 투자 이유 : 네이버 블로그](https://blog.naver.com/macdcross/223971700470)
+* [Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)
+  * [대중에게는 잘 알려지지 않았지만, 세계에서 가장 큰 에너지 트레이더이자... - Martin Sae Hoon Oh | Facebook](https://www.facebook.com/martin.sae.hoon.oh/posts/pfbid02T6Fp2fH3ssKdr8McJ99yvAtvuQyGS1u4ZrjDzZk4rmQoh9Nay3mFL4VLsexxdVekl)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
