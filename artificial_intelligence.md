@@ -2028,6 +2028,8 @@ Artificial Intelligence
   * [출시하자마자 털린 AI 에디터 - YouTube](https://www.youtube.com/watch?v=hY-VTx7-c0g)
 * [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
   * [(1) 전종홍 - 2025년, 극단적 경우 2027년이면 ASI 세상이 올지도 모른다는 "AI 2027" 블로그 글로 주목을... | Facebook](https://www.facebook.com/1biit/posts/pfbid02QBxcDEUShnfxhDoRs7gopzcBkh7r1J1XN6xR9k8uF95Gx8qMwkY5b5sMGRTWuPcml)
+* [Benjamin Verbeek on X: "I'm an engineer at Lovable and I spent the holidays improving our system prompt. Lovable is now 4% faster and a lot better at creating good designs. The crazy part is that this also ended up decreasing our LLM costs by $20M per year! Below is how I did it." / X](https://x.com/benjaminvrbk/status/2009297105458716753)
+  * [러버블 팀이 연간 300억원의 LLM 비용을 줄인 노하우 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/7605930/8337586)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
