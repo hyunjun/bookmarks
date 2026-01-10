@@ -1062,6 +1062,8 @@ Artificial Intelligence
       * 최고의 바이브코딩 방법은 바이브코딩을 전혀 하지 않는 것
       * 완벽한 가이드가 있어야 AI가 춤춘다
   * [바이브 코딩과 보안: 진실 혹은 거짓 :: ROBOCO](https://roboco.io/posts/vibecoding-security/)
+  * [공부하는 개발자는 굶지 않는다 (AI시대, 앞으로 개발자의 역할은?) - 토비편 - YouTube](https://www.youtube.com/watch?v=8VcnF40x8L0)
+    * [공부하는 개발자는 굶지 않는다: AI 시대, 개발자의 역할과 미래 (토비 이일민)](https://livewiki.com/ko/content/developer-ai-role-toby)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
     * 'Vibe Coding'은 AI 시대에 코딩하는 새로운 접근 방식을 제안하는 가이드
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
@@ -2019,6 +2021,11 @@ Artificial Intelligence
 * [“AI 시대의 경쟁력, 역설적이게도 가장 고전적 기본기에서 나와”](https://v.daum.net/v/20251225160749932)
 * [현업에 번진 AI 기대감, 리더십 부재로 추진력 잃다 | CIO](https://www.cio.com/article/4111486/%ED%98%84%EC%97%85%EC%97%90-%EB%B2%88%EC%A7%84-ai-%EA%B8%B0%EB%8C%80%EA%B0%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B6%80%EC%9E%AC%EB%A1%9C-%EC%B6%94%EC%A7%84%EB%A0%A5-%EC%9E%83%EB%8B%A4.html)
 * [개발자 AI 지원, 어디까지 왔나…앤트로픽·토스·올리브영 등이 전한 현장의 고민과 전망 | CIO](https://www.cio.com/article/4111488/%EA%B0%9C%EB%B0%9C%EC%9E%90-ai-%EC%A7%80%EC%9B%90-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%99%94%EB%82%98%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%C2%B7%ED%86%A0%EC%8A%A4%C2%B7%EC%98%AC%EB%A6%AC.html)
+* [우리가 15년간 배운 전략의 70%를 버려야 했던 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3544/)
+  * [The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year - YouTube](https://www.youtube.com/watch?v=6qAB6aUMIeA)
+    * [AI 시대의 성장 해킹: Lovable, 1년 만에 2억 달러 ARR 달성 비결 (feat. 엘레나 베르나)](https://livewiki.com/ko/content/ai-growth-playbook-lovable)
+  * [업데이트 전쟁 중인 AI 디자인 툴! 무섭게 치고 올라오는 구글과 더 이상 UI 디자인 툴 아닌 피그마의 변화 총 정리 - YouTube](https://www.youtube.com/watch?v=gKsRyd1fQfY)
+  * [출시하자마자 털린 AI 에디터 - YouTube](https://www.youtube.com/watch?v=hY-VTx7-c0g)
 * [AI Futures Model: Dec 2025 Update](https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update)
   * [(1) 전종홍 - 2025년, 극단적 경우 2027년이면 ASI 세상이 올지도 모른다는 "AI 2027" 블로그 글로 주목을... | Facebook](https://www.facebook.com/1biit/posts/pfbid02QBxcDEUShnfxhDoRs7gopzcBkh7r1J1XN6xR9k8uF95Gx8qMwkY5b5sMGRTWuPcml)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
@@ -2248,6 +2255,7 @@ Artificial Intelligence
   * [Run local AI on any PC or Mac - Microsoft Foundry Local - YouTube](https://www.youtube.com/watch?v=qL3HADDI6W4)
   * [Foundry Local: 모든 PC와 Mac에서 로컬 AI 앱 구축 및 실행](https://livewiki.com/ko/content/microsoft-foundry-local-ai)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
+* [generative-ai-arbitrage: A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular models like Veo, Sora, Runway-class video, Midjourney-level images, and Suno-quality music — often at 70–90% lower cost 🤯](https://github.com/cporter202/generative-ai-arbitrage)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
 * [Ghost GPT - ИИ для прохождения собеседований](https://ghostgpt.tech/)
@@ -2507,6 +2515,7 @@ Artificial Intelligence
       * [Token이 없어도 주식정보 조회가 가능한 FinanceDataReader를 사용 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-mcp-anthropic-ugcPost-7390263921162620928-aEbc)
     * [claude-code-analyzer/SKILL.md at main · nicknisi/dotfiles](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/claude-code-analyzer/SKILL.md)
     * [claude-code-bmad-skills: BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment](https://github.com/aj-geddes/claude-code-bmad-skills)
+    * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
@@ -2660,6 +2669,7 @@ Artificial Intelligence
     * [lucas on X: "Claude Code 어떻게 만들어졌을까" / X](https://x.com/lucas_flatwhite/status/2006192256106258614)
   * [비개발자, 클로드 코드로 외주 개발 시작하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3525/)
   * [Claude Code 오픈소스 창시자의 Claude 사용법](https://www.notion.so/grumatic/Claude-Code-Claude-2dd0586bce7480eb8f0cc5a07d5dd7ae)
+  * [Claude Code 2.1.0 주요 업데이트](https://fornewchallenge.tistory.com/entry/Claude-Code-210-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
@@ -2668,6 +2678,8 @@ Artificial Intelligence
   * [ccusage](https://ccusage.com/)
     * [Agentic Coding(에이전틱 코딩) | Claude Code TIP 대방출: | Facebook](https://www.facebook.com/groups/agentic.coding/posts/1085457189862924/)
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
+  * [cc-plugins: Collection of Claude Code plugins for various domains - Auth0 security, MFA, token security, compliance](https://github.com/modu-ai/cc-plugins)
+    * [astory-blog-writers 완벽 가이드: DNA 기반 하이브리드 저자 시스템과 7인 협업 Crew Mode | DevBlog](https://goos.kim/ko/blog/astory-hybrid-author-system)
   * [cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio)
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
