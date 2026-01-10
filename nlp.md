@@ -1378,6 +1378,17 @@ NLP
   * Gemini 3 AI 모델의 최적 활용법 가이드
   * 명확한 지시와 구조화된 프롬프트 작성이 모델 성능을 극대화
   * 간결하면서도 직접적인 명령과 역할 정의, 컨텍스트 제공, 결과 형식 명시가 중요
+* [Prompt Decorators: A Simple Way to Improve AI Responses | by Mostapha Kalami Heris | Medium](https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c)
+  * `+++Reasoning`
+  * `+++StepByStep`
+  * `+++Socratic`
+  * `+++Debate`
+  * `+++Critique`
+  * `+++Refine(iterations=N)`
+  * `+++CiteSources`
+  * `+++FactCheck`
+  * `+++OutputFormat(format=FORMAT)`
+  * `+++Tone(style=STYLE)`
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -4825,6 +4836,9 @@ NLP
   * [calm: Official implementation of "Continuous Autoregressive Language Models"](https://github.com/shaochenze/calm)
   * [#토큰 #데이터 #llm #calm #인공지능 #ai #텐센트 #언어모델 | Suk Hyun Kim | 12 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_tsatmi-qzustwtps-llm-activity-7391569501068316672-GYXc)
   * [Comparison/Contrast between HUFD and CALM | J Harlow](https://www.linkedin.com/posts/activity-7391921093298720768-587u)
+* [S1-MMAlign: A Large-Scale, Multi-Disciplinary Dataset for Scientific Figure–Text Understanding](https://arxiv.org/html/2601.00264v1)
+  * [ScienceOne-AI/S1-MMAlign · Datasets at Hugging Face](https://huggingface.co/datasets/ScienceOne-AI/S1-MMAlign)
+  * [Jehyun Lee - ● 과학논문 figure-text dataset 15.5M - 중국과학원이 과학 논문의... | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid02QpYnNF4rGHY5aq4gU5L4EFYUvG8Pupr4Z84M7mkLYfWS1x2E2652rdrEUkLoqHRvl)
 
 # Parser
 
