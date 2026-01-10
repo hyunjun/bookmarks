@@ -11,6 +11,8 @@ Self Control
 * [How to Improve Your Productivity and Time Management | Hama Develop](https://www.hamadevelop.me/time/)
 * [생산성을 높이는 방법 - Guide to Pe.. : 네이버블로그](https://blog.naver.com/bizucafe/223071723556)
 * [샘 알트먼의 생산성 (한글 번역) | Prod.. : 네이버블로그](https://blog.naver.com/bizucafe/223108381378)
+* [할 일은 산더미인데 오늘도 또 미뤘다면? 게으름이 아닌 '감정 고장' 치료법 & 미루는 습관 끝장내는 법 | 이동귀 연세대학교 심리학과 교수 | 자기계발 성장 독서 | 잠바시 5회 - YouTube](https://www.youtube.com/watch?v=FMRjgvk97OU)
+  * [게으름 탈출: 미루는 습관, 자책에서 벗어나 갓생 사는 법 (이동귀 교수)](https://livewiki.com/ko/content/laziness-escape-sleep-psychology)
 * [자기 자신을 이겨내는 법 (한글 번역) | H.. : 네이버블로그](https://blog.naver.com/bizucafe/223072083549)
 * [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 * [착한 자기계발서를 꿈꾸며](http://ppss.kr/archives/20017)
@@ -76,11 +78,17 @@ Self Control
 * [Einstein's 7 rules for a better life - Big Think](https://bigthink.com/starts-with-a-bang/einstein-rules-better-life/)
   * [아인슈타인의 더 나은 삶을 위한 7가지 규칙 | GeekNews](https://news.hada.io/topic?id=15996)
 * [시리어스골퍼 이기적인 사람이 골프를 더 잘 칠까? | 김태훈](https://v.daum.net/v/1MYd9Q4q4Y)
+* [내 노력이 수포로 돌아가지 않기 위해서ㅣ프로 선수식 목표 설정법ㅣ#클래스e - YouTube](https://www.youtube.com/watch?v=dM6zveCXkg0)
+  * [프로 선수식 목표 설정법: 현실적 최종 목표, 단계별 수행 목표, 그리고 공유의 중요성](https://livewiki.com/ko/content/pro-player-goal-setting)
+  * 축구를 배경으로 하지만, alignment에 대한 이야기와 유사하다는 점을 생각하면 조직 운영과 연결이 된다
 
 * [완벽주의자가 나가떨어지지 않기 위한 방법](http://www.huffingtonpost.kr/2015/08/06/story_n_7945280.html)
 * [실수와 책임](http://www.huffingtonpost.kr/soeun-lee/story_b_7112508.html)
 * [의도하지 않은 결과에 대응하는 자세](http://www.huffingtonpost.kr/woojung-kim/story_b_7105664.html)
 * [실패는 정말 성공의 어머니일까?](https://brunch.co.kr/@forpeople/38)
+* [페이커가 멘탈 무너질 때마다 스스로 되뇌이는 말/ KNN - YouTube](https://www.youtube.com/watch?v=4qSc0YkKW88)
+  * [페이커, 멘탈 관리 비법과 심호흡의 중요성 - 흔들릴 때마다 되뇌는 말](https://livewiki.com/ko/content/faker-mental-breakdown-quote)
+  * 결과보다 과정에 집중
 
 * ['A형 행동유형'에 대해 당신이 알아야 할 11가지](http://www.huffingtonpost.kr/2015/05/20/story_n_7339530.html)
 * [내성적인 사람을 이해하는 12가지 키워드](http://www.huffingtonpost.kr/2015/04/24/story_n_7133818.html)
