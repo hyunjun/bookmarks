@@ -430,6 +430,8 @@ Programmer
 * [개발자에게 가장 중요한 능력은 무엇일까요?](https://www.linkedin.com/posts/choijyoong_%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-%EB%A9%B4%EC%A0%91%EB%95%8C%EB%82%98-%EC%8A%A4%EC%8A%A4%EB%A1%9C-activity-7409027523688181760-4fHy/)
 * [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/)
   * [소프트웨어 엔지니어는 약간은 냉소적일 필요가 있다 | GeekNews](https://news.hada.io/topic?id=25420)
+* [한글더빙 "당신은 AI의 승객입니까, 설계자입니까?" (하버드 CS50 명강의) - YouTube](https://www.youtube.com/watch?v=7ZJ4oo4h8vI)
+  * [코딩은 망했다는 말에 하버드 교수가 책을 찢은 이유: CS50 1강 요약](https://livewiki.com/ko/content/harvard-cs50-coding-lectures)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
