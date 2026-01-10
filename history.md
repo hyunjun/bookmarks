@@ -555,6 +555,7 @@ History
 * [새로운 리더로 정통 좌파 제레미 코빈을 선택한 영국 노동당 (2)](http://newspeppermint.com/2015/09/15/jeremycorbyn2/)
 * [장미전쟁1](https://imgur.com/a/I0gdvNX)
 * [장미전쟁2](https://imgur.com/a/VQ5Tj4N)
+* [안계환 - 19세기 잉글랜드는 지구촌의 상당수지역을 식민지로 만들었다. 이름하여 대영제국. 해가지지 않는 나라가... | Facebook](https://www.facebook.com/aghon123/posts/pfbid02ycDzaXuXoWtWuqnw4FBxuLovTuGXsrkXVEwavRx5TDKVGRoyn7SuBmXdipexesVJl)
 
 ## Finland
 * [핀란드 교육 대개혁, 우리가 주목해야 할 3가지](http://www.huffingtonpost.kr/2015/03/30/story_n_6967152.html)
