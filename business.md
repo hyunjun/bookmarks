@@ -2441,6 +2441,7 @@ Business
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
 * [리더십을 넘어 팔로워십, 필요한 역량과 제대로 알아야 하는 4가지 이유? < 경영 인사이트 < 기사본문 - 사례뉴스](https://www.casenews.co.kr/news/articleView.html?idxno=16751)
+* [조직생활의 금기](https://www.facebook.com/imhyeonsang.2025/posts/pfbid036r8iYg74q1hBq6bws1WLo3dQcCav6wNMTfxAK6gAgyytmPrH8Q64fKwDMeMKXp7zl) 삼국지로 이야기하는 팔로워십
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
 * [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [토스에서의 시간을 돌아보며 | Evans Library](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
