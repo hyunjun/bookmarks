@@ -418,6 +418,7 @@ Artificial Intelligence
   * LLM은 생각하고(Thinking), RAG는 알고(Knowing), Agents는 행동한다(Doing)
   * 행동은 Tool로, Agent는 LLM, RAG, Tool이 모두 더해진 형태라 봐야한다는 의견도 댓글에 존재
 * [Systems design 3: LLMs and the semantic revolution - apenwarr](https://apenwarr.ca/log/20251120)
+* [에이전트(코딩 AI)에게 처음부터 모든 정보/도구 설명을 프롬프트에 다 넣지 말고, 필요할 때만 파일시스템(폴더/파일)과 bash 같은 도구로 찾아 읽게 하자](https://www.facebook.com/jinho.yoo.10/posts/pfbid0EJHTbRnbeZBptmHww2Uxfd8FCWqF3KsYXjF8yy5dDVcZVaPeGcpvqBARfCZdLYLMl)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
