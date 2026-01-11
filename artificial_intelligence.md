@@ -1994,6 +1994,32 @@ Artificial Intelligence
   * [현재 하고 있는 일 중 AI가 없었다면 아예 하지 않았을 업무는 무엇인가요?](https://www.stdy.blog/wouldnt-even-try-without-ai/)
     * [(1) 배휘동 - 현재 하고 있는 일 중 AI가 없었다면 아예 하지 않았을 업무는 무엇인가요? (블로그에서 보기:... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0gwbEK1LeLDTvdgjE5fjsBvnBdvg27QhSgkEmDVD2YRBEd45LcgfUSjHPp6V5mP6nl)
   * [AI는 Anthropic의 업무를 어떻게 바꾸고 있는가 | GeekNews](https://news.hada.io/topic?id=24824)
+  * [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html)
+    * 1) Anthropic의 “사내 개발에서 AI가 어떻게 쓰이는가”: AI 활용이 실제 개발 업무에서 어디에 집중되는지
+      * 주 사용처: 디버깅, 기존 코드 이해 보조
+      * 증가 추세: 신규 기능 구현에 사용하는 비중이 “눈에 띄게” 증가
+      * 생산성 주장(보고서 요약): 개발자들이 업무의 상당 비율을 AI와 함께 수행, 생산성 증가 보고
+      * “파워 유저” 소수 집단은 더 큰 효과를 보고
+      * AI가 개발자가 본업/전문영역 밖의 작업을 수행하는 데 도움
+    * 2) “AI 코딩이 좋다”가 아니라 “워크플로 디테일”이 중요
+      * LLM 활용 논의가 구체적인 작업 방식(워크플로)을 충분히 다루지 못한다고 지적, 사람이 무엇을 결정하고 무엇을 검토, 수정하는지 같은 “거친 디테일”을 알고 싶음
+    * 3) Obie Fernandez 글: Claude로 ‘프로덕션급’ 시스템을 만든 과정과 TDD의 역할
+      * [What Used to Take Months Now Takes Days | by Obie Fernandez | Jan, 2026 | Medium](https://obie.medium.com/what-used-to-take-months-now-takes-days-cc8883cc21e9)
+      * Claude를 활용해, 세션/슬랙/PR 스레드 등에서 지식을 추출해 RDF 그래프 DB로 만들고, 자연어로 질의하는 웹앱을 구축한 경험을 “워크플로 단위”로 설명
+      * 포인트: TDD가 “사람을 루프 안에” 묶어둔다
+      * 핵심 메시지: AI가 많은 코드를 생산할수록, 사람이 이해를 유지하도록 강제하는 장치가 필요하고 그 역할을 TDD가 한다는 주장
+        * 이 사례가 대규모 리팩터링과 진화까지 포함, “AI 툴링이 RDF를 쓸모 있게 만들지도”라는 관찰도 추가
+    * 4) 요구사항/우선순위 “버킷”을 UI 비용으로 재해석: Obvious / Easy / Possible
+      * 요구사항 우선순위 논의는 보통 MoSCoW(Must/Should/Could/Won’t)
+      * Jason Fried가 제안한 인터페이스 디자인 버킷 Obvious / Easy / Possible “사용자 인지 비용을 어디에 배분할지”라는 관점
+    * 5) AI가 “그럴듯한 증거”를 싸게 만들 때: 가짜 제보/문서·이미지와 기자의 검증 비용
+      * AI는 특히 기존 신념/공포를 강화하는 내용일 때 더 위험해진다고 경고
+    * 6) Spec-Driven 개발 비판과 “학습, 피드백 루프”의 중요성
+      * Kent Beck의 말을 인용해, 사양(스펙)을 전부 먼저 고정하는 방식이 구현 중 학습이 스펙을 바꿀 수 있다는 현실을 무시한다고 비판
+      * 실험/학습 루프가 스펙 자체의 모델링에 필수라고 동의, XP의 핵심 가치였던 피드백을 AI 시대에도 중심에
+      * AI의 진짜 가치는 “코드 생산 속도”보다, 피드백 루프 가속, 더 빨리 배우고 더 잘 이해하도록 만드는 데 있다는 취지
+    * 7) AI 코딩의 실무적 관건: “컨텍스트 관리”와 맞춤형 도구
+      * AI 보조 프로그래밍을 진지하게 하는 사람들을 보면 핵심이 컨텍스트 관리
 * [런정페이 화웨이 회장이 국제프로그래밍 대회 수상자들과 대화의 시간](https://www.facebook.com/jhkim1973/posts/pfbid02hR7TcZYzNMX76KqtMCLbrGCkGGUhFzEpZL7Ust3uxk9QNrXKndhq5NUUp2MPtEqal)
   * 핵심 메시지는 “연구로 가능한 한 정상까지 올라가라. 더 못 오르면 내려오며 곳곳에서 성과(알)를 낳는다”는 도전과 장기지향 권유
   * 런정페이는 AI의 장기 미래(수십~수백년)는 자신이 답할 영역이 아니라고 선을 긋고, 화웨이는 향후 3~5년의 LLM·빅데이터·컴퓨팅을 산업 현장에 적용하는 데 집중
