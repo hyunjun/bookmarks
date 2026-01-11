@@ -237,6 +237,7 @@ C
   * [Zig vs Rust at work: the choice we made | Ludwig](https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/)
     * [업무에서의 Zig vs. Rust : 우리의 선택은 Zig | GeekNews](https://news.hada.io/topic?id=15493)
   * [신생 시스템 프로그래밍 언어, Zig에 대해… Zig의 철학은 다음과 같다: “프로그래밍 언어 지식을 디버깅하기보다는 응용 프로그램을 디버깅하는 데 집중하세요.” - 숨겨진 제어 흐름이 없습니다. - 숨겨진 메모리 할당 없습니다. - 전처리기도 없고 매크로도 없습니다. — 얼마전 Rust의 wgpu를 활용한 그래픽스 개발을 하고 있었다… | Hwankee Baik](https://www.linkedin.com/posts/hwankee-baik-272948266_%EC%8B%A0%EC%83%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-zig%EC%97%90-%EB%8C%80%ED%95%B4-zig%EC%9D%98-%EC%B2%A0%ED%95%99%EC%9D%80-%EB%8B%A4%EC%9D%8C%EA%B3%BC-%EA%B0%99%EB%8B%A4-activity-7389816132884418560-nu--)
+  * [Zig는 왜 AI 코딩에 딱 맞을까? (Rust보다 컴파일 빠름) - YouTube](https://www.youtube.com/watch?v=dpn9XlqEEnU)
   * [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
   * [zig-book: An open, technical and introductory book for the Zig programming language 📚📖](https://github.com/pedropark99/zig-book)
     * [Introduction to Zig](https://pedropark99.github.io/zig-book/)
