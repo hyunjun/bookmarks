@@ -2762,6 +2762,8 @@ Artificial Intelligence
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
+  * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
+    * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
