@@ -179,6 +179,7 @@ Ruby
     * [propshaft: Deliver assets for Rails](https://github.com/rails/propshaft)
   * 그외에도 Kamal 배포도구, HTTP 기본 인증 생성기, 벤치마크 도구, Rails 8의 Language Server 등의 도구 포함 예정
 * [1인 개발자를 위한 완벽한 프레임워크, 루비온레일즈 8, Windsurf/Cursor와 완벽한 궁합 - YouTube](https://www.youtube.com/watch?v=ByW7MuZmicM)
+* [Rails 8이 PostgreSQL 대신 SQLite를 권하는 진짜 이유 - YouTube](https://www.youtube.com/watch?v=TFASrm63wYc)
 
 # TDD, Test
 * [factory_bot: A library for setting up Ruby objects as test data](https://github.com/thoughtbot/factory_bot)
