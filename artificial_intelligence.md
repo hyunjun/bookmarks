@@ -1068,6 +1068,8 @@ Artificial Intelligence
   * [Vibe Coding as a Coding Veteran. From 8-bit Assembly to English-as-Code | by Marco Benedetti | Level Up Coding](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
     * [베테랑 개발자가 직접 경험한 바이브 코딩의 모든 것 (1) | 요즘IT](https://yozm.wishket.com/magazine/detail/3472/)
     * [베테랑 개발자가 직접 경험한 바이브 코딩의 모든 것 (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/3473/)
+  * [바이브코딩 6계명 | 효율에 미친 비개발자가 직접 배운 모든 것을 공유합니다 - YouTube](https://www.youtube.com/watch?v=5GMZgBHwoGY)
+    * [바이브코딩 6계명: 효율에 미친 비개발자가 공유하는 모든 것](https://livewiki.com/ko/content/vibecoding-efficient-non-developer-lessons)
   * [cresco](https://github.com/delos-cresco/cresco)
     * [바이브 코딩으로 어디까지 개발할 수 있을까? | GeekNews](https://news.hada.io/topic?id=25611)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
