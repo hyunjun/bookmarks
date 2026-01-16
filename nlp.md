@@ -2693,6 +2693,7 @@ NLP
 * [Štěpán Procházka - LLMs, the do-it-yourself edition (PyData Prague #27) - YouTube](https://www.youtube.com/watch?v=kqTVY1CwgS8)
   * [LLM과 DIY: 지능형 문서 처리를 위한 Rossum의 LLM 활용 전략 (PyData Prague #27)](https://livewiki.com/ko/content/stepan-prochazka-llms-diy)
 * [Beyond Chat: Bringing Models to the Canvas • Lu Wilson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=pSTOENRgt7g)
+* [Lily Xu-Traditional AI + LLMs to Automate Complex and Critical Docs in Healthcare-PyData Boston 2025 - YouTube](https://www.youtube.com/watch?v=Pumn_YLgQ6M)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
