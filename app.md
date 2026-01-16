@@ -1571,6 +1571,8 @@ App
 * [10 Mac Apps You Haven't Heard Of (but should be using) - YouTube](https://www.youtube.com/watch?v=JqKB97HpWrk) Itsycal, Local Send, Transnomino, ChatGPT for the Mac, OnlySwitch, Image Optim, HyperDuck, Grab2Text, Rocket, CleanShot X
 * [MacOS의 부족함을 채워주는 필수 앱 7가지 - YouTube](https://www.youtube.com/watch?v=bfqQE1lQZMU) Folder Preview (폴더 Quick Look 미리보기) IINA (미디어 플레이어) GIFski (GIF 변환기) Speediness (인터넷 속도 측정) Homebrew 설치방법 Only Switch (빠른 설정 스위치) Launchy (앱 전환 런처) Ice (메뉴바 공간 정리)
 * [맥이라 불편하다고요? 지금 설치하면 삶의 질이 바뀌는 앱 12가지 / 오목교 전자상가 - YouTube](https://www.youtube.com/watch?v=1nrdU-sxhAo)
+* [맥을 다시 재밌게 써보자! 무료 유료 앱 8가지 추천 - YouTube](https://www.youtube.com/watch?v=fhzDRyN1XPY)
+  * Zone Bar, Hidden Bar, LaunchOS, DockDoor, RefBox, MD Clock
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
