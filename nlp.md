@@ -4832,6 +4832,9 @@ NLP
       * 문제는 p̂가 단순히 흔들리는 값 정도가 아니라, 일관된 방향으로 왜곡되는 편향된 지표라는 점
 * [2512.19428 Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
   * [Attention Is Not What You Need... | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_attention-slqtqysps-ai-activity-7411556934257922049-6CUh/)
+* [2601.05437 Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437)
+  * [Moll on X: "Do LLMs have morality? The authors build on Moral Foundations Theory - the idea that human morality consists of several relatively independent foundations: care/harm, fairness, loyalty, authority, and sanctity. Instead of looking at surface-level answers, they search for these https://t.co/A3CCfl7bwS" / X](https://x.com/Moleh1ll/status/2010981563098411016)
+  * [김성완 - LLM의 내부에 도덕적인 구조가 있는지 조사한 연구입니다. --- LLM에 도덕성이 있을까? 저자들은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fuypQi94nvk7PMwmLEvApRyooYuRWy6sNsdVVXKaWa8iSSdwVdvgGadVytcwjwHel)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
