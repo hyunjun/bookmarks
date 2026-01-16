@@ -2645,6 +2645,7 @@ App
   * [옵시디언과 함께 쓰는 AI 리서치 도구 Ponder - PKM 워크플로우 완성하기 - YouTube](https://www.youtube.com/watch?v=se-cFCZ_1ZA)
   * [노션보다 강력한 옵시디언 사용법! AI 웹클리퍼 4종 | 유튜브·깃허브·도서·채용 자동 정리 | 템플릿 무료제공 - YouTube](https://www.youtube.com/watch?v=JQFjhQPwD9I)
   * [옵시디안(Obsidian) V1.9 업데이트 만능 메모 데이터베이스 Base - YouTube](https://www.youtube.com/watch?v=hhAPEu5iFfs)
+  * [My Obsidian And Gemini CLI Workflow - YouTube](https://www.youtube.com/watch?v=JGwFsyyewYc) terminal, templater
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
