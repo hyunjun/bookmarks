@@ -2587,6 +2587,7 @@ Programming
   * [Cex-Backend](https://github.com/GiHoon1123/Cex-Backend)
   * [Cex-Frontend](https://github.com/GiHoon1123/Cex-Frontend)
   * [Building an Exchange - Project Overview and Purpose | 황기운](https://www.linkedin.com/posts/%EA%B8%B0%EC%9A%B4-%ED%99%A9-4b0a71296_building-an-exchange-project-overview-activity-7404054053317505024-YLwY)
+* [수천 개의 API/BATCH 서버를 하나의 설정 체계로 관리하기](https://toss.tech/article/42683)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
