@@ -658,6 +658,9 @@ Artificial Intelligence
 * [2512.16301 Adaptation of Agentic AI](https://arxiv.org/abs/2512.16301)
   * [“에이전틱 AI에서 ‘적응(Adaptation)’이란 무엇이며, 어디를 어떻게 적응시켜야 하는가?” 를 체계적으로 정리하려 시도한 논문](https://www.facebook.com/1biit/posts/pfbid02u6eztGKnNTKK5mkABHd3wojmxzNJBHvgsdeReznZz649Ekfs3MfyKmktUodWfJWml)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
+* [agent-browser](https://agent-browser.dev/)
+  * [agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
+  * [에이전트 브라우저 AI가 스스로 작업물을 테스트하다 - YouTube](https://www.youtube.com/watch?v=OjzAVFlU8JQ)
 * [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
   * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -3226,6 +3229,7 @@ Artificial Intelligence
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
+  * [지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode) - YouTube](https://www.youtube.com/watch?v=BhZofx0Ms88)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
