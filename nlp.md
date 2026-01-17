@@ -4844,6 +4844,8 @@ NLP
       * 문제는 p̂가 단순히 흔들리는 값 정도가 아니라, 일관된 방향으로 왜곡되는 편향된 지표라는 점
 * [2512.19428 Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
   * [Attention Is Not What You Need... | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_attention-slqtqysps-ai-activity-7411556934257922049-6CUh/)
+* [2601.05106 Token-Level LLM Collaboration via FusionRoute](https://arxiv.org/abs/2601.05106)
+  * [전종홍 - 멀티 LLM 협력도 이젠 라우팅 방식으로 하네요. Meta에서 여러 전문 LLM을 효율적으로 협업시키면서도,... | Facebook](https://www.facebook.com/1biit/posts/pfbid0Xv4JbUCpBxN9p6rPyU3yFdKfUbG1AEU6ZPZBNLNfHrrDsZfG4hmAuLsxKonEBfrdl)
 * [2601.05242 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242)
   * [GDPO: Official implementation of GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://github.com/NVlabs/GDPO)
   * [NVIDIA 가 "다중 보상 RL에서 GRPO를 쓰면 서로 다른 보상 조합들이 동일한 값으로 붕괴된다"는 충격적인 결함을 발견하고, 이를 해결한 GDPO를 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-share-7416362821661184000-jEud/)
