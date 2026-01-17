@@ -120,6 +120,8 @@ Programming
     * Vercel v0를 활용한 프롬프트-투-프로덕션(Prompt-to-Production) 풀스택 생성
     * 자가 진단 및 자가 치유(Self-healing) 해결
     * 기말 프로젝트는 실제로 작동하는 AI 네이티브 제품 출시
+  * [stanford-cs146s-kr: Stanford CS146S: The Modern Software Developer - Korean Edition](https://github.com/team-attention/stanford-cs146s-kr/)
+    * [AI로 인한 변화는 SF에서 가장 먼저 느낄테고, 그렇기 때문에 Stanford 는 가장 면밀하게 움직일 수밖에 없습니다. 원작자와 연락이 닿아 stanford 에서 강의한 자료를 번역하고 있스니다. https://lnkd.in/dEdThrdf 이 페이지는 저 혼자 만든 게 아니라 많은 분들의 도움으로 같이 만들어지고 있는데요. Seojin Kim… | 정구봉 Goobong Jeong | 15 comments](https://www.linkedin.com/posts/gb-jeong_ai%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%B3%80%ED%99%94%EB%8A%94-sf%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80-%EB%8A%90%EB%82%84%ED%85%8C%EA%B3%A0-%EA%B7%B8%EB%A0%87%EA%B8%B0-%EB%95%8C%EB%AC%B8%EC%97%90-stanford-activity-7417675782208077824-SV_U)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
 * Building a Content-Based Search Engine
   * [Part I: Quantifying Similarity](http://www.deepideas.net/building-content-based-search-engine-quantifying-similarity/)
@@ -3871,6 +3873,10 @@ Programming
 * ['Programming/Jira&Confluence' 카테고리의 글 목록 :: 1D1C](https://1d1cblog.tistory.com/category/Programming/Jira%26Confluence)
   * [Confluence ScriptRunner 이용하여 버전 댓글 없이 업데이트 시 이메일로 알림 :: 1D1C](https://1d1cblog.tistory.com/532)
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
+* [Plane - The Open Source Project Management Tool](https://plane.so/)
+  * [plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage](https://github.com/makeplane/plane)
+  * [The Open Source Jira Alternative - YouTube](https://www.youtube.com/watch?v=pgWHATQzkHk)
+    * [개발자를 위한 '진짜' 도구: Jira보다 빠르고 Linear보다 자유로운 오픈소스 Plane - YouTube](https://www.youtube.com/watch?v=uL2i8aOd_8g)
 * [Tegon AI](https://www.tegon.ai/)
   * [tegon: Tegon is an open-source, AI-first alternative to Jira, Linear](https://github.com/tegonhq/tegon)
   * [Tegon - 오픈소스 Jira/Linear 대체제 | GeekNews](https://news.hada.io/topic?id=15795)
