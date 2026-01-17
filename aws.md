@@ -3177,6 +3177,8 @@ AWS
 * [클라우드의 기초 - 주니어 개발자를 위한 AWS 가이드](https://indosaram.github.io/aws-intro-book/)
 * [AWS를 이용한 클라우드 기초 - YouTube](https://www.youtube.com/playlist?list=PLbq5jHjpmq7of9-_h6JtysgYlhZf7T6gQ)
 * [AWS 서비스, A to Z 조금 더 자세히 알아보기](https://jinsungh.notion.site/AWS-A-to-Z-1d3cb8fc0fde80d8b8f6e63a8df06baf)
+* [->> Day-18 Image Processing Serverless Project using AWS Lambda (with terraform) - DEV Community](https://dev.to/amit_kumar_7db8e36a64dd45/image-processing-serverless-project-using-aws-lambda-with-terraform-53je)
+  * [Building Serverless Image Pipeline with AWS Lambda and S3 | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_image-processing-serverless-project-using-activity-7417039190397448192-49KJ)
 * [aws - YouTube](https://www.youtube.com/playlist?list=PL0pOsIEhSh0vEfODeKefigWZk6_Mti-QV)
 * [AWS Cloud 강의 기초 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ95lSnVnTUxo5wBDvY3cjgWw)
 * [aws ubuntu - YouTube](https://www.youtube.com/watch?v=IozDMzYpLy0)
