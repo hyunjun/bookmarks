@@ -2646,6 +2646,8 @@ App
   * [노션보다 강력한 옵시디언 사용법! AI 웹클리퍼 4종 | 유튜브·깃허브·도서·채용 자동 정리 | 템플릿 무료제공 - YouTube](https://www.youtube.com/watch?v=JQFjhQPwD9I)
   * [옵시디안(Obsidian) V1.9 업데이트 만능 메모 데이터베이스 Base - YouTube](https://www.youtube.com/watch?v=hhAPEu5iFfs)
   * [My Obsidian And Gemini CLI Workflow - YouTube](https://www.youtube.com/watch?v=JGwFsyyewYc) terminal, templater
+  * [My Ultimate Obsidian Setup - YouTube](https://www.youtube.com/watch?v=ZQTj8ZSDFw4)
+    * File Color, Colored Tags, Code Styler, File Explorer++, Omnisearch, Commander, Editor Syntax Highlighter, Importer, Tag Wrangler
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
