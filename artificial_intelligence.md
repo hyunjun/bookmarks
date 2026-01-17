@@ -2828,6 +2828,8 @@ Artificial Intelligence
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
+  * [claude-canvas: Give Claude Code an external monitor](https://github.com/dvdsgl/claude-canvas)
+    * [Claude Canvas Turns Claude Code Into a Visual Terminal App! - YouTube](https://www.youtube.com/watch?v=M_iCVJSZsu0)
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
