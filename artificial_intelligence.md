@@ -251,6 +251,7 @@ Artificial Intelligence
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 04. MPSFlow: NVIDIA MPS를 컨테이너 레벨의 분할 기술로 확장하기 - YouTube](https://www.youtube.com/watch?v=93ASL5B_3SQ)
 * [김유신 - 기업에서 AI를 구축하고 활용하려고 할 때, 가장 큰 난관은 무엇일까요? 저는 Data 라고 생각합니다.... | Facebook](https://www.facebook.com/neotevan/posts/pfbid0sMVGxjdtbxoE8WVWHDL63aryzbPUmCnFukmjep2XMwQHHWQN4hNNQ1R5xD9pFV9Tl)
 * [유럽연합 인공지능법(번역본) ; EU Artificial Intelligence Act | 한국법제연구원 KLRI](https://klri.re.kr/kor/data/S/1026/view.do)
+* [The AI Engineer's Guide to Surviving the EU AI Act • Larysa Visengeriyeva & Barbara Lampl - YouTube](https://www.youtube.com/watch?v=qv1771pMwSQ)
 * [페이증권의 업무도우미 AI봇을 소개합니다! 근데 이제 춘식이를 곁들인 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/choonsiri/)
 * [이제 디자인 프로세스는 뒤집어진다: 프로토타이핑 먼저, 디자인은 나중에](https://www.linkedin.com/posts/leedavid_ai-ux-engineer-%EC%9D%BC%EA%B8%B0-1-%EC%9D%B4%EC%A0%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%8A%94-%EB%92%A4%EC%A7%91%EC%96%B4%EC%A7%84%EB%8B%A4-activity-7304693309455708160-ez_n/)
   * 결론: 프로토타입이 중심이 되는 새로운 개발 문화
@@ -2054,6 +2055,7 @@ Artificial Intelligence
   * [그녀의 딸은 무너져 내리고 있었지만, 그녀는 이유를 몰랐습니다. 그러다 AI 채팅 로그를 발견했습니다](https://www.facebook.com/anywhereanytime/posts/pfbid0A3MNNVY9owxTtFJf8Tsyu7sHr6ayiAbqFz5TrGpotukS4Q3Hke4gYUehupq9BLc7l)
 * ["AI로 인건비 줄이려다 비용만 늘어"…뼈아픈 ‘도어맨 오류’ - ZDNet korea](https://zdnet.co.kr/view/?no=20251228085643)
 * [“AI 시대의 경쟁력, 역설적이게도 가장 고전적 기본기에서 나와”](https://v.daum.net/v/20251225160749932)
+* ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
 * [현업에 번진 AI 기대감, 리더십 부재로 추진력 잃다 | CIO](https://www.cio.com/article/4111486/%ED%98%84%EC%97%85%EC%97%90-%EB%B2%88%EC%A7%84-ai-%EA%B8%B0%EB%8C%80%EA%B0%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B6%80%EC%9E%AC%EB%A1%9C-%EC%B6%94%EC%A7%84%EB%A0%A5-%EC%9E%83%EB%8B%A4.html)
 * [개발자 AI 지원, 어디까지 왔나…앤트로픽·토스·올리브영 등이 전한 현장의 고민과 전망 | CIO](https://www.cio.com/article/4111488/%EA%B0%9C%EB%B0%9C%EC%9E%90-ai-%EC%A7%80%EC%9B%90-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%99%94%EB%82%98%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%C2%B7%ED%86%A0%EC%8A%A4%C2%B7%EC%98%AC%EB%A6%AC.html)
 * [우리가 15년간 배운 전략의 70%를 버려야 했던 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3544/)
@@ -2065,6 +2067,8 @@ Artificial Intelligence
   * [(1) 전종홍 - 2025년, 극단적 경우 2027년이면 ASI 세상이 올지도 모른다는 "AI 2027" 블로그 글로 주목을... | Facebook](https://www.facebook.com/1biit/posts/pfbid02QBxcDEUShnfxhDoRs7gopzcBkh7r1J1XN6xR9k8uF95Gx8qMwkY5b5sMGRTWuPcml)
 * [Benjamin Verbeek on X: "I'm an engineer at Lovable and I spent the holidays improving our system prompt. Lovable is now 4% faster and a lot better at creating good designs. The crazy part is that this also ended up decreasing our LLM costs by $20M per year! Below is how I did it." / X](https://x.com/benjaminvrbk/status/2009297105458716753)
   * [러버블 팀이 연간 300억원의 LLM 비용을 줄인 노하우 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/7605930/8337586)
+* [AI Startup Replit Launches 'Vibe Coding' Feature for Building Mobile Apps | eWEEK](https://www.eweek.com/news/replit-vibe-coding-feature/)
+* [네이버·SKT·업스테이지가 베꼈다고? '프롬 스크래치' 논란 완벽 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/3551/) from scratch
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2501,6 +2505,7 @@ Artificial Intelligence
   * [“에이전트 중심 IDE” 안티그래비티(Antigravity) 체험기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3514/)
   * [코딩 몰라도 OK! 구글 제미나이 3.0 안티그라비티 (Antigravity) 로 나만의 'AI 주식 자동 분석 앱' 만들기 (무료) - YouTube](https://www.youtube.com/watch?v=6ALU6SVIDdw)
     * [코딩 없이 구글 Antigravity로 'AI 주식 자동 분석 앱' 만드는 법 (무료)](https://livewiki.com/ko/content/google-antigravity-ai-stock-app)
+  * [구글 안티그래비티: 디자이너의 창작 놀이터](https://brunch.co.kr/@ghidesigner/393)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
@@ -3095,6 +3100,8 @@ Artificial Intelligence
     * [미래의 코딩은 다르다! 구글 랩스가 제시하는 선제적 AI 에이전트 Jewels 공개 - YouTube](https://www.youtube.com/watch?v=jBdMaUpLjAQ)
       * [구글 랩스의 선제적 AI 에이전트 Jewels: 미래 코딩의 변화와 개발자 경험 혁신](https://livewiki.com/ko/content/future-coding-ai-agents-jewels)
 * [Junie, the AI coding agent by JetBrains](https://www.jetbrains.com/junie/)
+* [Kombai - The AI Agent Built for Frontend Development](https://kombai.com/)
+  * [가장 아름다운 UI/UX, Figma 디자인 그대로 옮겨 올 수 있는 프론트엔드 최적화 AI! Kombai! - YouTube](https://www.youtube.com/watch?v=Zm_N4H4wcWQ)
 * [Lovable](https://lovable.dev/)
   * [현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev - YouTube](https://www.youtube.com/watch?v=2ko3f9rPAoQ)
   * [소소한 코딩화면 공유 - obsidian - YouTube](https://www.youtube.com/watch?v=hQ3TEeG754M)
