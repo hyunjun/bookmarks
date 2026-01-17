@@ -690,6 +690,12 @@ Artificial Intelligence
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
+* [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
+  * [Video Makers by AI Agents A-Z](https://www.skool.com/ai-agents-az/about)
+  * AI 에이전트 입문부터 실전까지 AI 에이전트의 핵심 전부 정리: 개념 → 구조 → 메모리 → 툴 사용 → 자율 실행
+  * 스크래치부터 설명: 프레임워크, 용어 몰라도 이해 가능
+  * 이론이 아니라 실전 중심: “왜 이렇게 설계하는지”가 명확
+  * 초보자 길잡이 + 숙련자 체크리스트 역할 동시
 * [all-agentic-architectures: Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development](https://github.com/FareedKhan-dev/all-agentic-architectures)
   * [Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems | by Fareed Khan | Level Up Coding](https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce)
     * 다양한 Agentic AI 아키텍처와 디자인 패턴을 체계적으로 정리
