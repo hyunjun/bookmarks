@@ -1960,5 +1960,6 @@ Machine Learning
 * [AI-ML-Roadmap-from-scratch: Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)
 * [The Complete Course Catalog | End to End Machine Learning](https://end-to-end-machine-learning.teachable.com/p/complete-course-library-full-end-to-end-machine-learning-catalog)
 * [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
+* [machine-learning](https://github.com/patchy631/machine-learning)
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Stanford CS329H: Machine Learning from Human Preferences I Autumn 2024 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
