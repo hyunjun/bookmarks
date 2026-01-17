@@ -309,6 +309,7 @@ Statistics
 * [Conditional probability explained visually (Bayes' Theorem)](https://www.youtube.com/watch?v=Zxm4Xxvzohk)
 * [Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
 * [Monty Hall & Bayes Thm](http://rpubs.com/foxeyboy/346435)
+* [Eyal Kazin - Lessons in Decision Making from the Monty Hall Problem-PyData Global 2025 - YouTube](https://www.youtube.com/watch?v=fh1Vmwy0pyM)
 * Probability concepts explained
   * [Introduction](https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465)
   * [Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
