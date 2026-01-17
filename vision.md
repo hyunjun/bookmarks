@@ -579,6 +579,13 @@ Vision
     * [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
   * v11
     * [오브젝트365 데이터 세트 > 인공 지능 - Hell Maker](https://www.hellmaker.kr/post/1068)
+  * [yolo-training-template: In this repo there are some tips and a template to train your YOLO model for any kind of computer vision application](https://github.com/computer-vision-with-marco/yolo-training-template)
+    * YOLO Training Template — 라벨링부터 배포까지 한 번에
+    * YOLO Training Template: 프레임만 그리면 바운딩 박스 자동 생성 → 라벨링 속도 급상승
+    * 데이터 전 과정 지원: 데이터 업로드 → 수동/자동 라벨링(DINOv3) → 데이터 증강
+    * 즉시 학습, 추론: 내 데이터로 YOLO 모델 학습 후 바로 인퍼런스
+    * 엣지 배포 친화: ONNX / NCNN 내보내기 → 엣지 HW, 스마트폰 호환
+    * 완전 무료, 지금 바로 테스트 가능
   * [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://github.com/AILab-CVC/YOLO-World)
     * [YOLO-World: Real-Time, Zero-Shot Object Detection Explained - YouTube](https://www.youtube.com/watch?v=X7gKBGVz4vs)
   * yolox
