@@ -408,6 +408,7 @@ Finance
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
+* [MoR 서비스 중에 가장 유명한 두 개가 Paddle이랑 Lemon Squeezy | LinkedIn](https://www.linkedin.com/posts/sangrok-jung-9ab787311_%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-saas-%ED%95%98%EB%82%98-%EB%9A%9D%EB%94%B1-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94-%EA%B2%B0%EC%A0%9C-%EB%B6%99%EC%9D%B4%EB%A0%A4%EB%8B%88%EA%B9%8C-%EB%A7%89%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7414630397856145408-hc8W/)
 * [Autumn - Pricing and Billing](https://useautumn.com/)
   * [Autumn is an open-source pricing & billing platform](https://github.com/useautumn/autumn)
   * [몇 줄의 코드로 SaaS 요금제를 자동화하다 – 오픈소스 빌링 플랫폼 Autumn](https://digitalbourgeois.tistory.com/1605)
