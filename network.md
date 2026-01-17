@@ -513,6 +513,10 @@ Network
 * [네트워크 소켓(윈속)과 연결상태, 동시성,.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223101051947)
 * [It's always TCP_NODELAY. Every damn time. - Marc's Blog](https://brooker.co.za/blog/2024/05/09/nagle.html)
   * [항상 문제는 TCP_NODELAY다 | GeekNews](https://news.hada.io/topic?id=25277) Nagle 알고리듬, TCP_QUICKACK
+* [Part 1: SSH Tunnels Deep Dive - Local Port Forwarding](https://blog.sysxplore.com/p/part-1-ssh-local-port-forwarding)
+  * SSH 로컬 포트 포워딩은 로컬 머신의 특정 포트로 들어오는 트래픽을 SSH 터널을 통해 원격 서버나 제3의 목적지로 안전하게 전달하는 기술
+  * 방화벽으로 막힌 내부 네트워크 서비스에 접근하거나 보안되지 않은 프로토콜을 암호화하여 전송할 때 매우 유용
+  * 복잡한 네트워크 구조에서도 안전한 통로를 구축하는 핵심 기법
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 * [wa-tunnel: Tunneling Internet traffic over Whatsapp](https://github.com/aleixrodriala/wa-tunnel)
 
