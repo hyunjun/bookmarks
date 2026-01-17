@@ -2104,6 +2104,10 @@ Docker
   * 이를 해결하기 위해, 컨테이너 격리의 기반이 되는 리눅스의 핵심 메커니즘인 시스템 호출(Syscalls), 자원 제한을 강제하는 cgroups, 그리고 프로세스 가시성을 격리하는 Namespaces의 역할 설명
   * 궁극적으로 쿠버네티스의 runAsNonRoot, allowPrivilegeEscalation: false, readOnlyRootFilesystem: true 설정과 Linux Capabilities 제어를 통해
     * 애플리케이션에 필요한 최소한의 권한만을 부여하여 보안 위험을 최소화하는 계층화된 방어 전략 강조
+* [Kubernetes Security: Best Practices to Protect Your Cluster](https://protsenko.dev/kubernetes-security-top-12-best-practices-to-protect-your-cluster/)
+  * 쿠버네티스 클러스터를 보호하기 위한 12가지 보안 강화 핵심 수칙을 체계적으로 정리한 기술적인 가이드라인
+  * "컨테이너가 호스트 시스템에 직접 접근하거나 과도한 권한을 갖지 않도록 최소 권한 원칙을 적용하는 데 집중되어 있으며, 특히 비루트(Non-root) 실행, 특권 모드 금지, 그리고 호스트 네임스페이스 공유 제한 등을 강조"
+  * 개발 초기 단계부터 보안을 고려하는 시프트 레프트(Shift-left) 실천을 통해 클러스터 전체의 방어력을 높이는 것을 목적
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
