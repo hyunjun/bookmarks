@@ -352,6 +352,8 @@ Programmer
 * [AI시대에 필요한 개발자, Product Engineer | 요즘IT](https://yozm.wishket.com/magazine/detail/2485/)
 * [기획과 테스트가 사라진 세상, 풀스택빌더(FSB)의 등장 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/fullstackbuilder20260107)
 * [실리콘밸리에서 느낀 AI시대의 인재상](https://bcho.tistory.com/1497)
+* [Ideas are cheap, execution is cheaper | Dave Kiss](https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/)
+  * [아이디어는 싸다, 실행은 더 싸다 | GeekNews](https://news.hada.io/topic?id=25868)
 * [The Art and Science of Thriving Developers: 7 Key Strategies by Dimitris Andreadis - YouTube](https://www.youtube.com/watch?v=IBUBm0WyZW8)
   * [VidiGo The Art and Science of Thriving Developers: 7 Key](https://vidigo.ai//chatbot/summary/Sa7jkmsooXPopLb)
   * [성공하는 개발자의 예술과 과학: 디미트리스 안드레디스의 7가지 핵심 전략 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/383917?sId=IBUBm0WyZW8)
