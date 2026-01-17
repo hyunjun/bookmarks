@@ -273,6 +273,7 @@ Json
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
 * [JSON Crack - Crack your data into pieces](https://jsoncrack.com/)
+  * [아직도 JSON을 텍스트로 읽나요? 개발 시간을 10배 줄여주는 'JSON Crack' - YouTube](https://www.youtube.com/watch?v=wgUlAK9sfV4)
 * [Json Data Generator - A robust, generic, streaming random json data generator for your data](https://github.com/acesinc/json-data-generator)
   * [JSON-DATA-GENERATOR](http://www.popit.kr/json-data-generator/)
 * [jsoneditor.com](http://jsoneditor.com/)
