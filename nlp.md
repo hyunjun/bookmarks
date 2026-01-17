@@ -2717,6 +2717,8 @@ NLP
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
+* [airllm: AirLLM 70B inference with single 4GB GPU](https://github.com/0xSojalSec/airllm)
+  * [What?! You can now run 70B LLMs on a 4GB GPU 🤯 AirLLM is a memory-optimized inference approach that makes very large models usable on low-memory hardware. The key idea is simple: models are… | Charly Wargnier | 61 comments](https://www.linkedin.com/posts/charlywargnier_what-you-can-now-run-70b-llms-on-a-4gb-activity-7416586634135228416-sH-_)
 * [AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
   * [Local Docker Installation ~ AnythingLLM](https://docs.anythingllm.com/installation/self-hosted/local-docker)
   * [anything-llm: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.](https://github.com/Mintplex-Labs/anything-llm)
@@ -2882,6 +2884,7 @@ NLP
       * [류내원 - 딥시크, 제미나이 3·GPT-5와 맞먹는 새 모델 2종 'Deepseek-V3.2'... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02vRkR1QjZAgTTwtnZxmPm9SMkZ5sS6SAvTtFtEQNYfveLA1X8ytAnw8rrV6Vufd6Hl)
     * [DeepSeek R1 논문이 Nature 표지 논문으로 실렸습니다. 사실 이미 소개된 지 꽤 된 연구인데, 세계적인 저널의 표지에까지 등장하게 된 점이 흥미롭습니다. 물론 이번에도 "고작 30만 달러"라는 터무니없이 저렴한 학습 비용을 강조하는 다소 과장된 홍보가 따라붙었지만, 여러모로 의미가 크다고 생각합니다. 무엇보다 이번 연구가 보여주는 핵심은… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_deepseek-r1-%EB%85%BC%EB%AC%B8%EC%9D%B4-nature-%ED%91%9C%EC%A7%80-%EB%85%BC%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%8B%A4%EB%A0%B8%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%8B%A4-activity-7374634499231420417-U7QP)
       * 1. Pre-training 2. Post-training 3. Test-time scaling
+    * [Transform LLMs with Unsloth and GRPO | Kalyan KS posted on the topic | LinkedIn](https://www.linkedin.com/posts/kalyanksnlp_reasoning-deepseekr1-llms-activity-7417083955755036672-4_gn)
     * [deepseek-r1-azureml: This is a simple example of how to serve a DeepSeek model with Azure ML](https://github.com/daekeun-ml/deepseek-r1-azureml)
     * [DualPipe: A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training.](https://github.com/deepseek-ai/DualPipe)
     * [EPLB: Expert Parallelism Load Balancer](https://github.com/deepseek-ai/eplb)
@@ -3004,6 +3007,11 @@ NLP
     * [🛠️🤖🔓Kimi K2: 오픈소스 에이전트 AI 시대의 개막](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F%F0%9F%A4%96%F0%9F%94%93Kimi-K2-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%A7%89)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – Kimi K2: 오픈소스 에이전트 AI 시대의 개막](http://www.umlcert.com/0718-03/)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 저스틴의 AI 특강 “답만 하는 AI는 가라!” 스스로 일하는 괴물, Kimi K2 완벽 분석](http://www.umlcert.com/0719-02/)
+  * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
+    * [2510.26692 Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
+    * [와.. 이 논문 정말 뜨겁습니다. Moonshot AI에서 공개한 Kimi Linear가 주목받고 있습니다. Kimi Linear는 기존의 full attention와 linear attention과 결합한 하이브리드 방식을 사용하는 것이 특징인데요. 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현한 점입니다. 예를 들어, 1백만 토큰 디코딩 길이에서 기존 full attention 대비 6.3배 빠르게 디코딩하면서도, MMLU-Pro 성능은 51.0으로 full attention(MLA 모델, 47.2점)보다 높습니다. 기존 선형linear attention은 품질이 떨어져 주류에서 멀어졌지만, Kimi Linear는 속도와 품질 모두를 확보하며 실사용 가능한 수준에 도달한 것으로 보입니다.](https://www.threads.com/@choi.openai/post/DQmJi0Bj44E/%EC%99%80-%EC%9D%B4-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A7%90-%EB%9C%A8%EA%B2%81%EC%8A%B5%EB%8B%88%EB%8B%A4moonshot-ai%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%95%9C-kimi-linear%EA%B0%80-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4kimi-linear%EB%8A%94-%EA%B8%B0%EC%A1%B4%EC%9D%98-full-att?hl=ko)
+      * 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현
+    * [중국 'Kimi Linear'가 일으킨 AI 스푸트니크: 미국은 왜 충격에 빠졌나 - 하이젠버그](https://heisenberg.kr/kimi_linear/)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
   * [klue-transformers-tutorial: KLUE 데이터를 활용한 HuggingFace Transformers 튜토리얼](https://github.com/Huffon/klue-transformers-tutorial)
@@ -4836,6 +4844,9 @@ NLP
       * 문제는 p̂가 단순히 흔들리는 값 정도가 아니라, 일관된 방향으로 왜곡되는 편향된 지표라는 점
 * [2512.19428 Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
   * [Attention Is Not What You Need... | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_attention-slqtqysps-ai-activity-7411556934257922049-6CUh/)
+* [2601.05242 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242)
+  * [GDPO: Official implementation of GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://github.com/NVlabs/GDPO)
+  * [NVIDIA 가 "다중 보상 RL에서 GRPO를 쓰면 서로 다른 보상 조합들이 동일한 값으로 붕괴된다"는 충격적인 결함을 발견하고, 이를 해결한 GDPO를 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-share-7416362821661184000-jEud/)
 * [2601.05437 Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437)
   * [Moll on X: "Do LLMs have morality? The authors build on Moral Foundations Theory - the idea that human morality consists of several relatively independent foundations: care/harm, fairness, loyalty, authority, and sanctity. Instead of looking at surface-level answers, they search for these https://t.co/A3CCfl7bwS" / X](https://x.com/Moleh1ll/status/2010981563098411016)
   * [김성완 - LLM의 내부에 도덕적인 구조가 있는지 조사한 연구입니다. --- LLM에 도덕성이 있을까? 저자들은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fuypQi94nvk7PMwmLEvApRyooYuRWy6sNsdVVXKaWa8iSSdwVdvgGadVytcwjwHel)
