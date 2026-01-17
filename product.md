@@ -269,6 +269,7 @@ Product
 * [Sensel Morph](https://morph.sensel.com/)
   * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
 * [Sonder keyboard](https://www.sonderdesign.com/)
+* SPM PN06 LOOMI [구독자 이벤트🎁 저소음 스위치 고트 목새스위치와 SPM 신제품 풀 알루미늄 조합 SPM PN06 LOOMI 루미 - YouTube](https://www.youtube.com/watch?v=3srXkxISg90)
 * [스웨그키 공식 온라인 스토어](https://www.swagkey.kr/)
 * Thinkway TV99 [가성비 키보드 전쟁 - YouTube](https://www.youtube.com/watch?v=v9mR7c3AGkU)
 * TOMAK [새로운 스플릿 커스텀 키보드 종결템 시리안 인더스트리 토막61 TOMAK61 미리 살펴 보기 - YouTube](https://www.youtube.com/watch?v=ehRU_lJ9TvY)
