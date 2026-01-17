@@ -1130,6 +1130,7 @@ Artificial Intelligence
     * [베테랑 개발자가 직접 경험한 바이브 코딩의 모든 것 (2) | 요즘IT](https://yozm.wishket.com/magazine/detail/3473/)
   * [바이브코딩 6계명 | 효율에 미친 비개발자가 직접 배운 모든 것을 공유합니다 - YouTube](https://www.youtube.com/watch?v=5GMZgBHwoGY)
     * [바이브코딩 6계명: 효율에 미친 비개발자가 공유하는 모든 것](https://livewiki.com/ko/content/vibecoding-efficient-non-developer-lessons)
+  * [Best Free AI Training Courses for Vibe Coding in January 2026](https://tech.co/news/best-free-ai-training-courses-vibe-coding-january-2026)
   * [cresco](https://github.com/delos-cresco/cresco)
     * [바이브 코딩으로 어디까지 개발할 수 있을까? | GeekNews](https://news.hada.io/topic?id=25611)
   * [vibe-coding](https://github.com/EnzeD/vibe-coding)
@@ -2802,6 +2803,7 @@ Artificial Intelligence
     * [Anthropic Ralph Loop: Claude Code의 UI 개발 한계를 넘는 실전 워크플로우](https://livewiki.com/ko/content/anthropic-ralph-loop-claude-code)
   * [Introducing Cowork | Claude](https://claude.com/blog/cowork-research-preview)
     * [앤트로픽이 10일만에 바이브 코딩 한, 완벽한 비서에 도전하는 클로드 코워크 - YouTube](https://www.youtube.com/watch?v=-3ty-0b035k)
+    * [Cowork, a research preview | Claude](https://claude.com/resources/tutorials/claude-cowork-a-research-preview)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
