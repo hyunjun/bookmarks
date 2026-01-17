@@ -70,6 +70,7 @@ Ruby
 * [Best Ruby on Rails IDEs and Editors To Use In 2022 - DEV Community 👩💻👨💻](https://dev.to/rachgrey/best-ruby-on-rails-ides-and-editors-to-use-in-2022-3cph)
 * [ActiveRecord Internals : You are not ready for this - DEV Community](https://dev.to/yet_anotherdev/activerecord-internals-you-are-not-ready-for-this-a93)
 * [Ruby의 unless 쉽게 읽기 | K리그 프로그래머](https://jeho.page/essay/2024/08/28/ruby-unless.html)
+* [파이썬보다 쉽고, 자바스크립트보다 일관적인 언어 루비 훑어보기 - YouTube](https://www.youtube.com/watch?v=HHSCynhjXrs)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
