@@ -3736,6 +3736,8 @@ NLP
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
   * [아직도 Streamlit으로 챗봇 만드신다면 보세요 feat.OpenWebUI, Msty, AnythingLLM - YouTube](https://www.youtube.com/watch?v=4Hx1uE6UYnw)
+* [OptiMind: Teaching LLMs to Think Like Optimization Experts - Microsoft Research](https://www.microsoft.com/en-us/research/publication/optimind-teaching-llms-to-think-like-optimization-experts/)
+  * [OptiMind: A small language model with optimization expertise - Microsoft Research](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)
 * [oscar - Git at Google](https://go.googlesource.com/oscar)
   * [Oscar - 구글의 오픈소스 컨트리뷰터 에이전트 아키텍처 | GeekNews](https://news.hada.io/topic?id=16291)
 * [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen) security check for LLM
