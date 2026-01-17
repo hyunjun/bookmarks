@@ -51,6 +51,7 @@
 * [Building modern applications with GraphQL and .NET by Michael Staib - YouTube](https://www.youtube.com/watch?v=0jRkFwaIoaA)
 * [Get started with OpenAI in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/)
   * [.NET에서 OpenAI 시작하기](https://itist.net/126)
+* [.NET AI Community Standup Topic: Let's talk about the new .NET AI Stack - YouTube](https://www.youtube.com/watch?v=MH-_J8gLZn4)
 * [.NET Profiler API 활용하기| 와탭 블로그](https://www.whatap.io/ko/blog/176/index.html)
 * [InterlockedObjectPool 검증 결과 | 와탭 블로그](https://www.whatap.io/ko/blog/189/index.html)
 * [Announcing .NET 10 - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
