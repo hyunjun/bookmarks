@@ -1058,6 +1058,8 @@ Artificial Intelligence
   * [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
     * [(1) 권정혁 - 주니어 개발자의 역습 AI 기반 코딩의 발전 단계는 다음과 같음 1. 전통적인 코딩 (2022) 2.... | Facebook](https://www.facebook.com/xguru/posts/pfbid02dkZ5Z12gg1hmFBpmvJ79dmZFV6DCHc1VgE86rZLzrg3rwU1iJarostkgxM4sob3ql)
     * [주니어 개발자의 역습 | GeekNews](https://news.hada.io/topic?id=20068)
+    * [주니어 개발자의 복수. 바이브코딩(출판사: 제이펍)의 공동 저자 Steve Yegge가… | by Bora Lee | Jan, 2026 | Medium](https://violetboralee.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B3%B5%EC%88%98-dd32737c0fc8)
+      * [이보라 - 주니어 개발자의 복수 아마존에서 2-티어 아키텍처 --> N-티어 아키텍처의 전환을 이끌고 구글에서... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02R97sEHQeKksNswDDuyAcpzzTQ289FjN5nFQLim8XmVee8tHPZyaHBw97Ty9HZTDal)
   * [바이브 코딩 - 개발자들이 없어진다고 하는데, 바이브 코딩 오해와 진실](https://bcho.tistory.com/1472)
   * [바이브vibe 코드는 재앙인가? : 네이버 블로그](https://blog.naver.com/oldpens/223843619326) 개발자에 대한 일반적인 이야기이나 거기에 최근의 현상을 덧붙여 내용 전개
   * [르포 “한 줄 입력하니 게임이 뚝딱”… 실리콘밸리 ‘바이브 코딩’ 열풍 - 더밀크 | The Miilk](https://www.themiilk.com/articles/a4e956344?u=1b5c382f&t=aae08ea52&from)
@@ -1526,6 +1528,8 @@ Artificial Intelligence
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
     * [GitHub 저장소를 이용한 Smithery 서버 등록 및 배포](https://devway.tistory.com/65)
+  * [unreal-mcp: Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP)](https://github.com/chongdashu/unreal-mcp)
+    * [클로드가 언리얼 엔진을 자동으로 조작하는 시대가 왔다](https://www.facebook.com/reel/1589989091994992)
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
   * [AI Agent Framework Built for Software Engineers](https://www.linkedin.com/posts/sumanth077_ai-agent-framework-built-for-software-engineers-activity-7307671067265810432-yB4q)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
