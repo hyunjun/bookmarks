@@ -447,6 +447,15 @@ NLP
 * [토큰화, 벡터화, 임베딩 무슨 차이일까? - NLP와 LLM 텍스트 데이터 기초 용어 이해하기 - YouTube](https://www.youtube.com/watch?v=9rbm29bCjaQ)
 * [Lightweight Guide to understanding GRPO and RL principles - Musings of Murali](https://gitlostmurali.com/blog/grpo-intro/)
   * [my write-up on understanding GRPO](https://www.linkedin.com/posts/activity-7374322924738084864-Zdcb/)
+* [7x Longer Context Reinforcement Learning GRPO | Unsloth Documentation](https://unsloth.ai/docs/new/grpo-long-context)
+  * Unsloth가 도입한 새로운 기술을 통해 강화학습(GRPO) 시 메모리 사용량을 획기적으로 줄이고 컨텍스트 길이를 최대 12배까지 확장
+    * 기존에는 대규모 GPU 자원이 필요했던 긴 문맥의 추론 모델 학습을 24GB VRAM 수준의 소비자용 GPU에서도 가능하게 구현
+    * 정확도 손실 없이 학습 속도와 효율성을 동시에 달성
+  * 1. 메모리 효율 극대화: 새로운 커널과 알고리즘을 통해 GRPO 학습 시 VRAM 사용량을 80% 절감
+    * 동일 자원에서 최대 12배 더 긴 컨텍스트 지원
+  * 2. 소비자용 GPU 지원: 과거 192GB VRAM이 필요했던 작업을 24GB VRAM(RTX 3090/4090 등)에서 수행 가능, 개인 개발자 접근성 향상
+  * 3. 정확도 보존: 근사치 계산이 아닌 정확한 계산 방식을 사용하여 성능 저하 없이 최적화 달성
+  * 4. 통합 최적화: vLLM 대기 모드(Standby), 플렉스 어텐션(Flex Attention)등 신기술을 결합, 긴 문맥 학습 시 발생하는 병목 현상 해결
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
