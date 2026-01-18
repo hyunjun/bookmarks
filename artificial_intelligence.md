@@ -2815,6 +2815,8 @@ Artificial Intelligence
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
     * 이를 방지하기 위해 실제 키 대신 가짜 키를 제공, mitmproxy와 같은 프록시 서버에서 실제 요청 시에만 키를 주입해 보안을 강화하는 것이 핵심
+  * [일주일프/03 attention-hook: Claude가 사용자 입력을 기다릴 때 슬랙으로 알려주는 hook](https://www.stdy.blog/1p1w-03-attention-hook/)
+    * [배휘동 - 일주일프/03 attention-hook: Claude가 사용자 입력을 기다릴 때 슬랙으로 알려주는... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid027hqKtpChTZFGnhiVnmyMWCpXbtJT9wBdWeif13sTkSr85wYZwCJAYeBS2qw463zkl)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
     * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
       * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
