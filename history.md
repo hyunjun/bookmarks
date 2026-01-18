@@ -296,6 +296,7 @@ History
   * [지도의 왜곡: 아프리카의 눈물](http://ppss.kr/archives/36366) 실제 아프리카 대륙의 크기는 미국, 중국, 유럽, 일본의 합보다 크다
   * [Africa Dwarfs China, Europe and the U.S.](http://www.scientificamerican.com/article/africa-dwarfs-china-europe-and-the-u-s/)
   * [메르카토르 지도에서 피터스법 지도로 바꿔야](http://blog.naver.com/aghon/220963350483)
+* [서도영 - 2020년부터 2025년까지 아프리카에서 성공한 쿠데타 지도 2020년 이후 아프리카에서 발생한 성공적인... | Facebook](https://www.facebook.com/taehyun.jung/posts/pfbid0gFe767oxrGmfWLes5yHm7kBmDadZBv14TuzqtSE9vZgftPAXspziev2RhThY7DkZl)
 * [birthisadream.org](http://www.birthisadream.org/)
 
 ## Ghana
