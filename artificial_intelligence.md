@@ -623,6 +623,8 @@ Artificial Intelligence
 * [AI 에이전트 101](https://aifactory.space/task/9254/overview)
 * [Agentic Al in SW Development: Evolving Patterns & Protocols • Bhuvaneswari Subramani • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=JD3yNaWs70A)
   * [SW 개발의 에이전트 AI: 진화하는 패턴과 프로토콜](https://livewiki.com/ko/content/agentic-ai-sw-development)
+* [Gregor Zunic on X: "The Bitter Lesson of Agent Frameworks" / X](https://x.com/gregpr07/status/2012052139384979773)
+  * ["99%의 작업은 모델 안에서 이루어진다." Browser Use 팀이 에이전트를 다 뜯어고치고 나서 깨달은 겁니다. 그들의 첫 에이전트는 수천 줄의 추상화로 이루어져 있었습니다. 작동은 했습니다. 뭔가를 바꾸려고 하기 전까지는요. 모든 실험이 프레임워크와 싸워야 했습니다. 결국 전부 버렸습니다. 에이전트가 실패한 건 모델이 멍청해서가… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_99%EC%9D%98-%EC%9E%91%EC%97%85%EC%9D%80-%EB%AA%A8%EB%8D%B8-%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%EB%8B%A4-browser-use-%ED%8C%80%EC%9D%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7418068288674369536-zf4l)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
