@@ -68,6 +68,10 @@ Religion
 * [y-jesus.org/korean](http://y-jesus.org/korean/)
 * [출애굽기](https://librewiki.net/wiki/%EC%B6%9C%EC%95%A0%EA%B5%BD%EA%B8%B0)
 * [기독교인은 왜 종종 무례할까요? 복음이 그런 건가요?ㅣ김학철 교수ㅣ잘잘법 180회 - YouTube](https://www.youtube.com/watch?v=OkqRYY6dycA) 비유는 잘 와닿지는 않으나 전반적으로 괜찮은 영상
+* [Sanghwan Lee - “많은 성서학자들은 그리스도교가 유대교의 한 종파로 시작하여 성장해왔다고 믿기 때문에,... | Facebook](https://www.facebook.com/sanghwan.lee/posts/pfbid0dcRF1mvAMAEHafSKDDYmzMCA8ZN3uCzH1UywNXfrABbD3NvgRcKMaamuHq72whK1l)
+  * 신약성경 연구는 유대적 배경과 더불어 그리스–로마적 배경을 함께 고려하며 이루어져야 한다
+* [김성아 - 수업 중에 종종 이런 비유를 하곤 한다. 신학대학을 졸업한 목사들이 거의 예외 없이 각자의 교회를 세우는... | Facebook](https://www.facebook.com/kim.sungah/posts/pfbid02c7bWDS1ArvEi2aJJAStp41Rqjd1YA166FQXtp6ZpWuRuMP7kpbRBQsg8FGDwESovl)
+  * 한국 교회나 건축을 언급하지만 결국 사회 시스템의 문제
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
