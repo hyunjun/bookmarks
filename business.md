@@ -266,6 +266,10 @@ Business
     * 기술을 훔치는 힘은, 암묵지를 본인의 의식으로 자체 해석하여 형식지로 발현하고, 이를 다시 자기 안에 스며들게 하는 힘을 말한다.
 * [조직문화를 만들어가는 비법 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=3RVxxkwWohA) 문화는 bottom up(X), top down(O), 그러므로 top leader가 지켜야 함
 * [조직 문화 담당자의 성과, 이렇게 측정 가능합니다 | H.PODCAST SAP Korea 오용석 1부 - YouTube](https://www.youtube.com/watch?v=FNXVh5wvGIw) BHCI index
+* [신수정 - 잘 해줘봤자 떠난다? 좋은 문화의 가치는 어느 정도일까? ---- 1. 대표들을 만날 때 힘드실때 가끔... | Facebook](https://www.facebook.com/shinsoojungceo/posts/pfbid0MUvdLxVomoLKAZBKsz7fRSmsfueTHMomJ1e6A6C3nT6cFG7CdAwpsKAGqjfqNwHAl)
+  * 체감 연봉 = 실 연봉 + 정서적 연봉
+  * 좋은 문화를 만들고, 좋은 동료가 있는 조직을 만드는 일은 ‘해봤자 소용없고 쓸데없는 일’이 아니라 투자 대비 효과가 매우 큰 전략적 선택
+  * 특히 연봉을 많이 주기 어려운 기업일수록 더욱 깊이 새겨들어야 할 부분
 * [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
   * [소프트웨어 회사처럼 바라보기 | GeekNews](https://news.hada.io/topic?id=23527) 조직을 가독성(legibility) 관점에서 보는 게 흥미로움
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
