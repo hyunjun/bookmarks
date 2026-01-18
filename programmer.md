@@ -604,4 +604,6 @@ Programmer
     * Reflections: Is there anything you wish went better recently?
     * Relationships: How are things with your manager and other people you’re working with?
   * They also documented accomplishments in a format the manager cared about and connected this to conversations with the manager to work toward a promotion
+* [Why Senior Engineers Let Bad Projects Fail - Lalit Maganti](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
+  * [왜 시니어 엔지니어들은 나쁜 프로젝트를 그냥 두는가 | GeekNews](https://news.hada.io/topic?id=25884)
 * [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
