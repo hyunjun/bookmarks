@@ -3713,6 +3713,8 @@ Business
 * [Net Promoter Score (NPS): The Ultimate Guide - Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/)
 * [Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com) - YouTube](https://www.youtube.com/watch?v=2BKmNmnEj9w)
   * [제품에서 숨겨진 성장 기회를 찾는 법 | GeekNews](https://news.hada.io/topic?id=23561) 탐색(Explore)과 활용(Exploit) 프레임워크
+* [품질로 승부하지 마라 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7416614967648407552-vrqy)
+  * 승리는 항상 품질이 아닌 차별화
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
