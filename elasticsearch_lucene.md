@@ -429,6 +429,7 @@ ElasticSearch - Lucene
 * [사용자에게 선택권을 주는 Cloudflare의 새로운 콘텐츠 신호 정책](https://blog.cloudflare.com/ko-kr/content-signals-policy/) robots.txt
   * [Giving users choice with Cloudflare’s new Content Signals Policy | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_giving-users-choice-with-cloudflares-new-activity-7385816352097415168-BrWG)
   * but how to do that tends to be complicated, an assessment service which can help
+* [11만 개 데이터에서 100ms 내에 응답](https://velog.io/@newcodes7/11%EB%A7%8C%EA%B0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-100ms-%EB%82%B4%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EA%B8%B0)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
