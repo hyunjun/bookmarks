@@ -1280,6 +1280,8 @@ Git
   * [Git에서 다수의 워킹 디렉토리를 관리하는 worktree :: Outsider's Dev Story](https://blog.outsider.ne.kr/1588)
   * [I was wrong about git stash... - YouTube](https://www.youtube.com/watch?v=ntM7utSjeVU)
   * [고수들이 꿀빠는 git 명령 - YouTube](https://www.youtube.com/watch?v=nV9NW899zE8)
+  * [Git Worktree로 여러 피처 동시에 개발하기 | AI 코딩 시대의 필수 스킬 - YouTube](https://www.youtube.com/watch?v=JtA2JeqlTnI)
+    * [Git Worktree: AI 시대, 여러 기능을 동시에 개발하는 효율적인 방법 | 완벽 가이드](https://livewiki.com/ko/content/git-worktree-ai)
 
 # Conference
 * [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
