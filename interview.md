@@ -300,6 +300,8 @@ Interview
   * 그러나 지난 몇 년 동안 이 용어는 범용적으로 쓰이기 시작하고, 최근 취업 시장에서도 아주 흔한 일
 * [tech-vault: A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)](https://github.com/moabukar/tech-vault)
   * 기술 인터뷰 질문과 실전 과제를 Terraform부터 Kubernetes, CI/CD까지 다양하게 수집한 자료집
+* [회고 실리콘밸리 AI 유니콘 'Cohere' 과제 합격 회고 (비록 채용은 취소됐지만) | 정유희](https://www.linkedin.com/posts/%EC%9C%A0%ED%9D%AC-%EC%A0%95-a53271ab_%ED%9A%8C%EA%B3%A0-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-ai-%EC%9C%A0%EB%8B%88%EC%BD%98-cohere-%EA%B3%BC%EC%A0%9C-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0-%EB%B9%84%EB%A1%9D-%EC%B1%84%EC%9A%A9%EC%9D%80-activity-7419604713836359681-D87z)
+  * [회고 실리콘밸리 AI 유니콘 'Cohere' 과제 합격 회고 (비록 채용은 취소됐지만)](https://velog.io/@chung/%ED%9A%8C%EA%B3%A0-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-AI-%EC%9C%A0%EB%8B%88%EC%BD%98-Cohere-%EA%B3%BC%EC%A0%9C-%ED%95%A9%EA%B2%A9-%EB%B0%8F-%EA%B7%B8-%ED%9B%84-%EB%B9%84%EB%A1%9D-%EC%B1%84%EC%9A%A9%EC%9D%80-%EC%B7%A8%EC%86%8C%EB%90%90%EC%A7%80%EB%A7%8C)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
