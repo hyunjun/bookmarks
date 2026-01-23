@@ -441,6 +441,7 @@ Programmer
   * [한글더빙 개발자는 결국 이렇게 살아남습니다 with 인공지능의 스승 앤드류 응 - YouTube](https://www.youtube.com/watch?v=vENN6-d_3AQ)
     * [2026 코딩 개발자 생존법: AI 시대의 기회, 동료, 그리고 성장의 기술 (앤드류 응)](https://livewiki.com/ko/content/2026-coding-developer-survival)
 * [개발자는 AI에게 대체될 것인가](https://toss.tech/article/44377)
+* ISMS-P 심사원 자격증 [미리미리 노후 대비 해 놓자구요 😎 #개발자노후대비 - YouTube](https://www.youtube.com/watch?v=lN6Y5VM3YkI)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
