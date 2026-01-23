@@ -72,6 +72,11 @@
   * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
   * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
   * [Listen to users at scale with AI | Donghun Choi](https://www.linkedin.com/posts/dc-amplitude_listen-to-users-at-scale-with-ai-activity-7394521600643162113-vxtk)
+* Anthropic
+  * [Anthropic 그로스 마케팅 팀의 업무 방식 | 임근영](https://www.linkedin.com/posts/keunyoung0924_anthropic-growth-marketing-activity-7419170378784251904-1S9X)
+    * API가 있는 반복 업무부터 식별해서 자동화 효과를 크게 가져가라고 제안
+    * 워크플로우는 하위 에이전트로 분리하여 역할을 나누면 품질 관리와 디버깅 용이
+    * 코딩 전, 흐름부터 설계, Claude로 전체 구조를 먼저 그리면 자동화 오류 크게 감소
 * CRO [A Guide to Conversion Rate Optimization](https://www.digitalocean.com/resources/article/conversion-rate-optimization)
 * funnel
   * [Automated data collection & marketing reports | Funnel](https://funnel.io/)
