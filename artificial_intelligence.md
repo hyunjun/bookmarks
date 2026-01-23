@@ -736,7 +736,9 @@ Artificial Intelligence
 * [Code2Video](https://showlab.github.io/Code2Video/)
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
 * [cognee: Memory for AI Agents in 6 lines of code](https://github.com/topoteretes/cognee)
+  * [Improve your AI infrastructure - AI memory engine](https://www.cognee.ai/)
   * [LLM이 매번 초기화되어 과거 문맥을 잊어버리는 문제도 이제 오픈소스로 해결 가능해졌습니다🚀AI 에이전트 메모리, 이제 6줄의 코드로 충분히 구현할 수 있습니다! 왜냐하면 Cognee Inc.가 "비정형 데이터를 영구적 AI 메모리로 변환하고 벡터+그래프 하이브리드 검색 제공"해주는 오픈소스 메모리 프레임워크, Cognee를 공개했거든요. 셀프 호스팅… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_llm%EC%9D%B4-%EB%A7%A4%EB%B2%88-%EC%B4%88%EA%B8%B0%ED%99%94%EB%90%98%EC%96%B4-%EA%B3%BC%EA%B1%B0-%EB%AC%B8%EB%A7%A5%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%8F%84-%EC%9D%B4%EC%A0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0-activity-7397049792792621056-a-O-)
+  * [Build Agents that never forget. (100% open-source, self-evolving AI memory) Most agents have no real memory. Every conversation starts fresh with no recall of yesterday and no understanding of how… | Akshay Pachaar | 22 comments](https://www.linkedin.com/posts/akshay-pachaar_build-agents-that-never-forget-100-open-source-activity-7419726822680129536--GjM)
 * [CUGA](https://cuga.dev/)
   * [cuga-agent: CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features](https://github.com/cuga-project/cuga-agent)
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
@@ -766,6 +768,9 @@ Artificial Intelligence
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
   * Open-source with MCP/SSE protocol integration
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
+* [MemOS: OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory](https://github.com/MemTensor/MemOS)
+  * [INTELLIGENCE BEGINS WITH MEMORY](https://memos.openmem.net/)
+  * [Introducing MemOS: Open-Source AI Memory Framework | Sumanth P posted on the topic | LinkedIn](https://www.linkedin.com/posts/sumanth077_memory-operating-system-for-ai-agents-memos-activity-7419359497284087808-heFj)
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
@@ -809,6 +814,10 @@ Artificial Intelligence
 * [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
 * [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+* [The Agentic AI Handbook: Production-Ready Patterns - Log - nibzard](https://www.nibzard.com/agentic-handbook/)
+  * 단순한 LLM 호출을 넘어 자율적 추론, 도구 활용, 메모리 관리를 갖춘 '에이전틱(Agentic) AI' 구축을 위한 실무 지침서
+  * 110개 이상의 검증된 패턴을 통해 신뢰성 있는 에이전트 시스템 설계 방법 제시
+  * 개발 환경의 표준화와 명확한 피드백 루프 구축이 성공의 핵심
 * [AI 관련 오픈서적(프롬프트 엔지니어링 포함)](https://www.facebook.com/lsszz1/posts/pfbid02kXNgErWsGbtw3o9uQwwhMMmp13JXUqXqupfxH9SLVDvXmjqzRC1CNyw1RUZPGz2el)
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Artificial Intelligence and Games](http://gameaibook.org/)
@@ -1255,6 +1264,7 @@ Artificial Intelligence
     * [데이터 분석 과금없이 에이전트 모드 넉넉하게 사용하고 싶다면? GEMINI CLI로 VSCode에서 주피터로 데이터 분석하기 - YouTube](https://www.youtube.com/watch?v=YSscvDczPn4)
     * [🚀 Gemini CLI Extensions: 새로운 확장 기능과 커스텀 명령어](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Gemini-CLI-Extensions-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
     * [🤖 Gemini CLI(2): MCP 프롬프트 - 슬래시 명령어 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Gemini-CLI-MCP-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * [터미널 AI 도구 Gemini CLI – 설치부터 간단 사용 후기까지](https://velog.io/@dnjstjdgus03/GeminiCLI)
     * [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips)
       * [Gemini CLI를 활용한 에이전틱 코딩 팁과 트릭 | GeekNews](https://news.hada.io/topic?id=24661)
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
@@ -1807,6 +1817,19 @@ Artificial Intelligence
   * 3. 검색 (인덱싱, 랭킹)을 잘 하기 위한 기술 요소들
   * 4. Perplexity의 Sonar 모델, 그럼에도 Model-agnostic하게 만들기
   * 5. Latency가 매우 낮고, 계속 낮아지게 하는 동력에 관해서
+* [AI 헛소리는 버그 아니다... 할루시네이션 구조적 이유, 최신 기술, 꿀팁 | GPT, Gemini, Grok, Claude 비교 - YouTube](https://www.youtube.com/watch?v=4JDVS-JyYNc)
+  * [AI 할루시네이션: 구조적 원인, 최신 기술, 프롬프트 꿀팁 (GPT, Gemini, Claude 비교)](https://livewiki.com/ko/content/ai-hallucination-reason-tech-tip-compare)
+  * 할루시네이션 감소를 위한 프롬프트 설계 팁
+    * 첫째, '모르는 내용은 절대 지어내지 말고 해당 정보는 제공된 자료나 제 지식 범위를 벗어납니다라고 말해달라'고 요청, 추측 방지
+    * 둘째, '근거 출처 혹은 정확도를 표시해 달라'고 요청, 모델이 불필요한 디테일을 꾸며낼 때 '정확도 낮음'이라고 스스로 표시하게
+    * 셋째, 질문의 범위를 좁히고 구체적으로 제안
+      * 광범위하고 모호한 질문은 모델에게 상상력을 발휘해도 된다는 신호
+      * 시간, 범위, 도메인을 극단적으로 좁혀서 물으면 모델이 패턴 회상 모드로 전환되어 창작 모드 감소
+    * 넷째, 체크리스트 기반 응답을 요구하여 모델이 답변 시 스스로 한 번 더 검열하도록 메타 인스트럭션 부여
+    * 마지막으로 두 단계로 질문하는 방법
+      * 첫 번째 프롬프트에서는 할루시네이션이 나와도 상관없으니 초안을 작성
+      * 두 번째 프롬프트로 작성된 초안을 비판적으로 검토해 달라고 요청
+      * 이처럼 같은 모델을 생성기와 비평가 역할로 순차적으로 활용하면 최종 답변의 할루시네이션 강도 감소
 * [퍼플렉시티(Perplexity): AI 검색의 미래](https://brunch.co.kr/@yongjinjinipln/173)
 * [Disquiet on LinkedIn: RISE | Disquiet\*](https://www.linkedin.com/posts/disquiet_rise-disquiet-activity-7215992365658820608-RnPf)
 * [LLM과 모바일 UX의 매력적인 만남, 트레이스 | by Corca | Corca | Jul, 2024 | Medium](https://medium.com/corca/llm%EA%B3%BC-%EB%AA%A8%EB%B0%94%EC%9D%BC-ux%EC%9D%98-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EB%A7%8C%EB%82%A8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-3efc2c9650b9)
@@ -2341,6 +2364,7 @@ Artificial Intelligence
   * [Top 11 Open Source No-Code AI Tools with the Most GitHub Stars - NocoBase](https://www.nocobase.com/en/blog/top-11-github-open-source-no-code-ai-tools)
 * [기획자·운영자·창업자가 꼭 써봐야 할 바이브 코딩 도구 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3496/)
 * [Top 10+ Open Source No-Code AI Tools with the Most GitHub Stars | by Deep concept | Let’s Code Future | Dec, 2025 | Medium](https://medium.com/lets-code-future/top-10-open-source-no-code-ai-tools-with-the-most-github-stars-ef39a71cfddd)
+* [AI 한테 UI 센스 심어주는 도구 3가지 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_rams-design-engineer-for-claude-code-activity-7418645099066175488-PrGF)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
@@ -2481,6 +2505,7 @@ Artificial Intelligence
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
 * [Qwen3 Coder: Agentic Coding Assistant in the World](https://qwen3lm.com/)
   * [Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
+* [rams - AI Design Engineer & Design Reviews](https://www.rams.ai/) 접근성, 시각적 일관성 리뷰하는 디자인 엔지니어 스킬
 * [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
   * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
 * [Revyl](https://www.revyl.ai/) AI를 통해 test를 한다고 하는 도구
@@ -2500,6 +2525,9 @@ Artificial Intelligence
     * [GOTO 2025: Sam Aaron의 Sonic Pi를 넘어선 Tau5와 AI 코딩 예술](https://livewiki.com/ko/content/tau5-coding-ai-sam-aaron)
   * [Tau5](https://tau5.live/)
     * [tau5: Code. Art. Together.](https://github.com/samaaron/tau5)
+* [Stitch - Design with AI](https://stitch.withgoogle.com/)
+  * [GitHub - gemini-cli-extensions/stitch: The Stitch extension for Gemini CLI enables you to interact with the Stitch MCP server using natural language commands. | SangRok Jung](https://www.linkedin.com/posts/sangrok-jung-9ab787311_github-gemini-cli-extensionsstitch-the-activity-7419563139156992000-YbdF)
+  * [stitch-mcp: Universal MCP Server for Google Stitch. Connect AI agents to your UI designs](https://github.com/Kargatharaakash/stitch-mcp)
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
   * [스토리텔AI로 10초 만에 운영전략 보고서 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3326/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
@@ -2520,6 +2548,7 @@ Artificial Intelligence
   * [AI로 35개 플랫폼을 24시간 모니터링하고, 내 관심사만 골라 푸시해주는 맞춤형 뉴스 레이더 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_github-activity-7396325019641024512-O_va)
 * [UFO: The Desktop AgentOS](https://github.com/microsoft/UFO)
   * [새로운 논문 "UFO2: The Desktop AgentOS"는 대규모 언어 모델(LLM) 기반의 데스크톱 자동화 에이전트(CUA)의 한계를 해결하는 운영 체제 통합 접근 방식을 제시](https://www.linkedin.com/posts/himskim_github-microsoftufo-the-desktop-agentos-activity-7324212164846592001-LPKD/)
+* [UI Skills - A set of skills to polish interfaces built by agents](https://www.ui-skills.com/) 에이전트가 따라야 할 UI 제약 조건
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
@@ -2914,12 +2943,16 @@ Artificial Intelligence
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
+  * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [language-skills](https://github.com/tmdgusya/language-skills)
     * [Claude code 코드를 쓰다보면 영어로 프롬프팅을 할때가 많은데 이럴때 어휘력이 딸려서 어떤 영어로 적어야 잘 설명하지? 라는 고민이 네이티브가 아니다 보니 항상든다. 그래서 현재 Session 의 영어로 최대한 적은 프롬프트를 /save 커맨드로 저장하고 추후에 /review 를 통해 적절한 문장을 알려주는 Claude code plugin 을… | Seong Hyeon Jeong](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_claude-code-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%93%B0%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%98%81%EC%96%B4%EB%A1%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%95%A0%EB%95%8C%EA%B0%80-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%9D%B4%EB%9F%B4%EB%95%8C-activity-7415404860054872064-9f1D)
+  * [oh-my-claudecode | Multi-agent Orchestration for Claude Code](https://yeachan-heo.github.io/oh-my-claudecode-website/)
+    * [oh-my-claudecode: Multi-agent orchestration for Claude Code. Zero learning curve. 28 agents, 28 skills, delegation-first architecture](https://github.com/Yeachan-Heo/oh-my-claudecode)
+    * [Oh My Claude Code - Claude Code를 ‘팀’으로 쓰는 플러그인 :: ROBOCO](https://roboco.io/posts/oh-my-claudecode-distilled/)
   * [openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills)
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
@@ -2927,6 +2960,15 @@ Artificial Intelligence
     * [Anthropic의 비밀 병기 'Ralph Loop' 공개! Claude Code의 한계를 넘는 실전 워크플로우 - YouTube](https://www.youtube.com/watch?v=4IpL5tnbZFA)
       * [Anthropic Ralph Loop: Claude Code의 UI 개발 한계를 넘는 실전 워크플로우](https://livewiki.com/ko/content/anthropic-ralph-loop-claude-code)
     * [🤖 Ralph for Claude Code: AI가 알아서 개발해주는 자율 개발 루프 도구](https://javaexpert.tistory.com/1559)
+    * [Ralph를 쓰면 시간당 $10으로 Sonnet 4.5가 쉬지 않고 돌아갑니다. 코드 짜고, 실패하면 고치고, 성공하면 다음 태스크로 넘어가요. Anthropic은 이 현실을 채용에 반영했습니다. 성능 최적화 과제를 공개하면서 "Opus 4.5가 11.5시간 걸려 달성한 1487 사이클, 이보다 잘하면 연락 달라"고 했거든요. Ralph는… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ralph%EB%A5%BC-%EC%93%B0%EB%A9%B4-%EC%8B%9C%EA%B0%84%EB%8B%B9-10%EC%9C%BC%EB%A1%9C-sonnet-45%EA%B0%80-%EC%89%AC%EC%A7%80-%EC%95%8A%EA%B3%A0-%EB%8F%8C%EC%95%84%EA%B0%91%EB%8B%88%EB%8B%A4-activity-7419853805862809600-gWgh)
+      * [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/)
+      * [original_performance_takehome: Anthropic's original performance take-home, now open for you to try!](https://github.com/anthropics/original_performance_takehome)
+      * [Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+    * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
+      * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
+  * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
+    * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
+    * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
@@ -2938,6 +2980,8 @@ Artificial Intelligence
     * 이 프레임워크는 복잡한 작업을 수행하기 위한 프롬프트 템플릿, 구조화된 출력 형식, 그리고 다양한 사용 사례에 최적화된 프롬프팅 전략을 제공
     * 특히 Claude의 강점인 긴 컨텍스트 처리와 복잡한 추론 능력을 극대화하기 위한 방법론을 담고 있으며, 개발자와 연구자들이 Claude를 활용해 고품질의 결과물을 일관되게 얻을 수 있도록 도움
     * 코드 생성, 데이터 분석, 콘텐츠 생성 등 다양한 영역에서의 활용 예시와 함께 실용적인 가이드를 제공
+  * [superpowers: An agentic skills framework & software development methodology that works](https://github.com/obra/superpowers)
+    * [Claude Code로 2시간 동안 자율 코딩 시켜본 적 있으세요?🤯보통은 10분만 지나도 엉뚱한 방향으로 가거나, 테스트 없이 코드만 쏟아내거나, 같은 버그를 반복하죠. 오늘은 이 문제를 해결하는 데에 도움이 될 오픈소스, Superpowers를 소개해 드리려 해요. AI 에이전트에게 시니어 개발자의 워크플로우를 이식하는 스킬 라이브러리입니다. 핵심은… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-code%EB%A1%9C-2%EC%8B%9C%EA%B0%84-%EB%8F%99%EC%95%88-%EC%9E%90%EC%9C%A8-%EC%BD%94%EB%94%A9-%EC%8B%9C%EC%BC%9C%EB%B3%B8-%EC%A0%81-%EC%9E%88%EC%9C%BC%EC%84%B8%EC%9A%94%EB%B3%B4%ED%86%B5%EC%9D%80-activity-7419880228942004225-TsnO)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
@@ -3242,9 +3286,13 @@ Artificial Intelligence
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
   * [지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode) - YouTube](https://www.youtube.com/watch?v=BhZofx0Ms88)
+  * [Oh my open code.클로드 코드보다 강력한 자동화 에이전트.대한민국 최초 개발자 인터뷰.꿀팁 공개! l 울트라워크 엔지니어 김연규(AI 팟캐스트 #78) - YouTube](https://www.youtube.com/watch?v=o-rE93-nLpY)
+    * [오마이 오픈 코드: 클로드 코드보다 강력한 자동화 에이전트 개발자 인터뷰 (울트라워크 엔지니어 김연규)](https://livewiki.com/ko/content/ultrawork-automation-agent-interview)
+  * [✍🏻 Open Code와 Oh-my-opencode](https://velog.io/@takealittletime/Open-Code%EC%99%80-Oh-my-opencode)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
+  * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
