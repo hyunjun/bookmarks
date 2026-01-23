@@ -206,6 +206,7 @@ Sports
 * [이 선수들은 왜 변화구를 못 던질까? - 야구공작소](https://yagongso.com/?p=25044)
 * [토아일당 - kbo리그 타자 에이징커브 분석방법은 팬그래프와 기본적으로 같다. = 델타메소드? 전년도, 당년도 모두... | Facebook](https://www.facebook.com/toa.united/posts/pfbid0ahDV4rThwTDqmrVYeyoPGvKFepWeuDqqxPTqohZ7u2PVo2cJQqJ7kLYRbBYnfdVJl)
 * [무명 투수에게 마법이…9개월 만에 143km→151km, 어떻게 가능했나](https://v.daum.net/v/20260114200724417) 부상 위험과 구속은 어깨 수치와 상관관계
+* [야구의 절대 근본이 흔들린다? 죽어가는 포심 패스트볼 - YouTube](https://www.youtube.com/watch?v=PlJi8EEMmsI) 포심 가치 하락과 반등
 * [한국야구학회 - YouTube](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%EC%95%BC%EA%B5%AC%ED%95%99%ED%9A%8C)
 
 # Basketball
@@ -299,6 +300,8 @@ Sports
   * [거스 포옛 감독 사임, K리그에 남긴 유산과 미래 과제](https://livewiki.com/ko/content/gus-poyet-resignation-kleague)
     * 전북 스쿼드의 큰 변화 없이 이뤄낸 이러한 성과는 기본에 충실했을 때 얼마나 큰 위력을 발휘할 수 있는지 보여주는 사례
     * 이는 2002 월드컵 당시 거스 히딩크 감독이 한국 축구의 체력과 멘탈 관리를 강조했던 것과 유사한 맥락
+* [알론소에게 가장 부족했던 것 ㅣ 원투펀치축구연구소_ep.01 - YouTube](https://www.youtube.com/watch?v=Im_eIZyWEOI)
+  * 레알 마드리드의 정체성 및 운영 철학에 맞는 스타일을 갖지 못하고 시스템 축구를 섣부르게 도입하려면서 정치력이 부족했던 알론소
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
