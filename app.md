@@ -2722,6 +2722,8 @@ App
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [Microsoft 365 Copilot 공개 - AI 기반 오피스 도우미 | GeekNews](https://news.hada.io/topic?id=8717)
+* [.new Shortcuts | A Domain Exclusively for Shortcuts | Google Registry](https://whats.new/shortcuts/)
+  * [엑셀, 워드, PPT... 설치 없이 무료로 쓰는 방법⚡#shorts | JinKwon Jeon](https://www.linkedin.com/posts/jeonjk_%EC%97%91%EC%85%80-%EC%9B%8C%EB%93%9C-ppt-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95shorts-activity-7419384190468612096-RWgJ)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
 * Excel, Spreadsheet
