@@ -1115,6 +1115,7 @@ SQL
 * [VARCHAR vs. TEXT, 뭐가 다를까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2726/)
 * [CHAR vs. VARCHAR, 언제 어떻게 써야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2717/)
 * [MySQL 의 Geospatial Index (1) – Changhyun Lee – software engineer](https://chang12.github.io/mysql-geospatial-index-1/)
+* [스마트스토어센터 Oracle에서 MySQL로의 무중단 전환기](https://d2.naver.com/helloworld/6512234)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
