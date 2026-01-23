@@ -728,6 +728,8 @@ Docker
 * [간단히 사용해본 도커(Docker)](https://webnautes.kr/gandanhi-sayonghaebon-dokeo-docker/)
 * [개발자 대부분 도커가 필요 없는 이유 (가볍고 빠른 대체 도구들) - YouTube](https://www.youtube.com/watch?v=vp1aBhsoNu4)
 * <img src="images/docker_k8s_comparison.jpg" alt="docker, docker compose, and kubernetes" width="300"/>
+* [Demystifying Docker Base Images: Why Ubuntu in a Container Isn't Really Ubuntu](https://oneuptime.com/blog/post/2026-01-19-how-os-base-images-work-in-docker/view)
+  * [Docker 베이스 이미지 이해하기: 컨테이너 속 Ubuntu는 진짜 Ubuntu가 아님 | GeekNews](https://news.hada.io/topic?id=25997)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2991,6 +2993,8 @@ Docker
     * [Linux desktop, inside of a container, inside of a browser??? Yes. A Webtop. | Techno Tim](https://technotim.live/posts/webtop-container/)
   * [서버포럼 - 리눅스데스크탑을 웹으로? Webtop 소개](https://svrforum.com/svr/349515)
 * [docker-wine: Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS](https://github.com/scottyhardy/docker-wine)
+* [Dockhand - Modern Docker Management](https://dockhand.pro/)
+  * [Dockhand: The Easiest Way I’ve Found to Manage and Update Docker Containers - YouTube](https://www.youtube.com/watch?v=F7aXfYGf5q4)
 * [dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start](https://github.com/goodwithtech/dockle)
 * [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku ](https://github.com/dokku/dokku)
   * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
