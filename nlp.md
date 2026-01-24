@@ -2728,6 +2728,7 @@ NLP
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [airllm: AirLLM 70B inference with single 4GB GPU](https://github.com/0xSojalSec/airllm)
   * [What?! You can now run 70B LLMs on a 4GB GPU 🤯 AirLLM is a memory-optimized inference approach that makes very large models usable on low-memory hardware. The key idea is simple: models are… | Charly Wargnier | 61 comments](https://www.linkedin.com/posts/charlywargnier_what-you-can-now-run-70b-llms-on-a-4gb-activity-7416586634135228416-sH-_)
+  * [이길환 - 제목: AI 대형 언어모델, 이제 일반 PC에서도 돌아간다… '레이어 단위 실행' 기술로 메모리 장벽 허물어... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0nb2WKmrcbuwcaRTcm6QXGhVdewEpq9fBPBP7RNpeUwg6M85QHiixh93d4G7bwHtol)
 * [AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
   * [Local Docker Installation ~ AnythingLLM](https://docs.anythingllm.com/installation/self-hosted/local-docker)
   * [anything-llm: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.](https://github.com/Mintplex-Labs/anything-llm)
