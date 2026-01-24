@@ -3911,6 +3911,8 @@ NLP
     * 두 가지 Sleep Mode(레벨 1/2)를 지원하며, 각각 속도와 CPU 메모리 사용량 조정
     * 실제 벤치마크에서 모델 전환이 최대 200배, 추론속도가 61~88% 향상
     * 즉, 멀티모델 GPU 서빙 환경에서 효율성과 속도 획기적 개선
+  * [Inference startup Inferact lands $150M to commercialize vLLM | TechCrunch](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
+    * [vLLM 제작자들이 설립한 'Inferact', 오픈소스 추론 엔진 상용화 위해 1억 5천 | GeekNews](https://news.hada.io/topic?id=26066)
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
@@ -5571,6 +5573,9 @@ NLP
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
 * [VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](https://github.com/OpenBMB/VoxCPM/)
+  * [VoxCPM은 토큰화를 완전히 건너뛴다. 엔드투엔드 디퓨전 자동그레시브 아키텍처를 사용하여 연속 공간에서 오디오를 모델링](https://www.facebook.com/thanhhm/posts/pfbid02ctGPGCooHE12q8NEZH7zH1kAGHdjipTZE231mJrLnV6pQLPhhNSAHWhcYMBB7BHol)
+    * 1. 문맥 인식 생성. 이것은 당신의 텍스트를 읽고 적절한 프로소디, 감정 및 페이싱을 자동으로 유도. 수동 조정이 불필요
+    * 2. 제로샷 음성 복제. 짧은 오디오 클립을 주면 목소리뿐만 아니라 억양, 리듬, 감정적인 음색을 캡쳐
 * [Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers](https://github.com/Zyphra/Zonos)
   * [AGI KR | 250220 모두에게 전하는 모두연 AI뉴스🥨 | Facebook](https://www.facebook.com/groups/agikr/posts/2523780197963023/) Zonos-v0.1: 고품질 오픈소스 TTS 모델 공개!
 
