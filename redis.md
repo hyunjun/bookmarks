@@ -150,6 +150,8 @@ Redis
 * [Alex Xu on Twitter: "1. How do we build a simple 𝐜𝐡𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 using 𝐑𝐞𝐝𝐢𝐬? The diagram below shows how we can leverage the pub-sub functionality of Redis to develop a chat application. https://t.co/4w7aFPrNvg" / Twitter](https://twitter.com/alexxubyte/status/1555210693921542144)
 * [Redis Explained](https://architecturenotes.co/redis/)
 * [레디스를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
+* [수백만 동시 접속을 처리하는 예매 시스템 아키텍처 설계 - YouTube](https://www.youtube.com/watch?v=c-ERjEodn_o) sorted set
+  * [수백만 동시 접속을 처리하는 예매 시스템 아키텍처 설계](https://livewiki.com/ko/content/ticketing-system-architecture-design)
 * [**Redis를 활용한 다양한 시스템 설계**](https://devs0n.tistory.com/92) Redis로 구현 가능한 예제 간결하게 설명한 글, 토이 프로젝트에 참고하기 좋음
 * [Redis를 활용한 선착순 쿠폰 발급 서버 설계](https://jgrammer.tistory.com/entry/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%84%9C%EB%B2%84-%EC%84%A4%EA%B3%84)
   * [우아한테크토크 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?! - YouTube](https://www.youtube.com/watch?v=MTSn93rNPPE)
