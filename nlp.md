@@ -4862,6 +4862,9 @@ NLP
 * [2601.05437 Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437)
   * [Moll on X: "Do LLMs have morality? The authors build on Moral Foundations Theory - the idea that human morality consists of several relatively independent foundations: care/harm, fairness, loyalty, authority, and sanctity. Instead of looking at surface-level answers, they search for these https://t.co/A3CCfl7bwS" / X](https://x.com/Moleh1ll/status/2010981563098411016)
   * [김성완 - LLM의 내부에 도덕적인 구조가 있는지 조사한 연구입니다. --- LLM에 도덕성이 있을까? 저자들은... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fuypQi94nvk7PMwmLEvApRyooYuRWy6sNsdVVXKaWa8iSSdwVdvgGadVytcwjwHel)
+* [2601.10639 STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)
+  * [추론의 시대가 가고, STEM의 시대가 온다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-rhqtnk-activity-7419514213116559361-bjGm)
+    * STEM이 진짜로 던지는 질문은 이것이다. 지능이란 진정으로 무엇인가?
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)
@@ -5411,6 +5414,8 @@ NLP
 * [Free Text to Speech Online Converter Tools](https://www.text-to-speech.online/)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
+* [GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)](https://github.com/RVC-Boss/GPT-SoVITS)
+  * [이 말투로 TTS를 만들면 어떻게 될까 - YouTube](https://www.youtube.com/watch?v=bYxwtLvFNRI)
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
   * [숨쉬기 힘들 때까지 말해도…놀라운 음성인식엔진](http://techholic.co.kr/archives/35360)
 * [icefall](https://github.com/k2-fsa/icefall)
