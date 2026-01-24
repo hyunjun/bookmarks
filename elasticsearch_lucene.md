@@ -430,6 +430,9 @@ ElasticSearch - Lucene
   * [Giving users choice with Cloudflare’s new Content Signals Policy | Dale Seo (달레)](https://www.linkedin.com/posts/daleseo_giving-users-choice-with-cloudflares-new-activity-7385816352097415168-BrWG)
   * but how to do that tends to be complicated, an assessment service which can help
 * [11만 개 데이터에서 100ms 내에 응답](https://velog.io/@newcodes7/11%EB%A7%8C%EA%B0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-100ms-%EB%82%B4%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EA%B8%B0)
+* [1억행 데이터, 엘라스틱서치에 빠르게 넣기 - YouTube](https://www.youtube.com/watch?v=V396UE0tIAU)
+  * [엘라스틱서치 1억 행 데이터 빠르게 인덱싱하기: 13분→5분 최적화 회고](https://livewiki.com/ko/content/100-million-data-elasticsearch-import)
+  * [1억행 데이터, 엘라스틱서치에 빠르게 넣기 : 네이버 카페](https://cafe.naver.com/xxxjjhhh/508)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
