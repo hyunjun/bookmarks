@@ -795,6 +795,7 @@ Artificial Intelligence
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
+* skills.sh [The Agent Skills Directory](https://skills.sh/)
 * [ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows](https://github.com/NVlabs/ToolOrchestra)
   * [ToolOrchestra](https://research.nvidia.com/labs/lpr/ToolOrchestra/)
   * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
