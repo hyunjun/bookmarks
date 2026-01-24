@@ -663,6 +663,7 @@ Artificial Intelligence
 * [agent-browser](https://agent-browser.dev/)
   * [agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
   * [에이전트 브라우저 AI가 스스로 작업물을 테스트하다 - YouTube](https://www.youtube.com/watch?v=OjzAVFlU8JQ)
+  * [⚡Vercel이 만든 무료 AI 브라우저 자동화 도구, 웹 스크래핑 봇 5분 만들기](https://fornewchallenge.tistory.com/entry/%E2%9A%A1Vercel%EC%9D%B4-%EB%A7%8C%EB%93%A0-%EB%AC%B4%EB%A3%8C-AI-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EB%B4%87-5%EB%B6%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
   * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -2868,6 +2869,8 @@ Artificial Intelligence
     * [Claude Code가 Claude Agent SDK로 업그레이드 #claude #mcp #aws #streamlit #agent | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_claude-mcp-aws-ugcPost-7379510994848501760-DLqh)
   * [claude-canvas: Give Claude Code an external monitor](https://github.com/dvdsgl/claude-canvas)
     * [Claude Canvas Turns Claude Code Into a Visual Terminal App! - YouTube](https://www.youtube.com/watch?v=M_iCVJSZsu0)
+  * [Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works](https://github.com/blader/Claudeception)
+    * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
@@ -2952,6 +2955,7 @@ Artificial Intelligence
     * [The Claude Code setup that won a hackathon | by JP Caparas | Jan, 2026 | Dev Genius](https://blog.devgenius.io/the-claude-code-setup-that-won-a-hackathon-a75a161cd41c)
     * [GitHub MCP Server | Awesome MCP Servers](https://mcpservers.org/servers/asifdotpy/github-mcp-server-asifdotpy)
     * [Anthropicハッカソン優勝者のClaude Code設定集「everything-claude-code」を読み解く](https://zenn.dev/ttks/articles/a54c7520f827be)
+    * [⚠️ 어제 공개된 클로드 전문가의 클로드 코드 완전판 세팅, 저도 다 바꿨습니다 앤트로픽 해커톤 우승자가 어제 공개한 클로드 코드 세팅 가이드 보자마자 바로 적용했어요. 하루 종일 매달렸는데 진짜 달라지더라고요. 10개월간 매일 클로드 코드 쓴 affaan(@affaanmustafa)의 완전판 세팅인데, 읽는 순간 "내가 지금까지 뭘 한 거지?"… | Jeongmin Lee | 10 comments](https://www.linkedin.com/posts/jyoung105_%EC%96%B4%EC%A0%9C-%EA%B3%B5%EA%B0%9C%EB%90%9C-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%99%84%EC%A0%84%ED%8C%90-%EC%84%B8%ED%8C%85-%EC%A0%80%EB%8F%84-%EB%8B%A4-%EB%B0%94%EA%BF%A8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7419142685543882752-KXud)
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
@@ -2962,6 +2966,7 @@ Artificial Intelligence
     * [oh-my-claudecode: Multi-agent orchestration for Claude Code. Zero learning curve. 28 agents, 28 skills, delegation-first architecture](https://github.com/Yeachan-Heo/oh-my-claudecode)
     * [Oh My Claude Code - Claude Code를 ‘팀’으로 쓰는 플러그인 :: ROBOCO](https://roboco.io/posts/oh-my-claudecode-distilled/)
   * [openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills)
+    * [OpenSkills 2.0 곧 출시 — 진짜 오픈한 AI 스킬 관리 생태계](https://www.facebook.com/lsszz1/posts/pfbid0fMLFeA3piUgggFQzKQTk55jFBu9N7zn8bTvVbgcpmdCS89A3hpgHtJNEh26a69Hxl)
   * [original_performance_takehome: Anthropic's original performance take-home, now open for you to try!](https://github.com/anthropics/original_performance_takehome)
     * [Anthropic이 성능평가 테이크홈 과제를 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=26026)
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
@@ -2978,6 +2983,10 @@ Artificial Intelligence
       * [Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
     * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
       * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
+    * [요즘 개발자들이 Ralph 플러그인에 주목하는 이유 : 랄프 루프 실제 후기](https://litmers.com/blog/%EC%9A%94%EC%A6%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ralph-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%9E%84%ED%94%84-%EB%A3%A8%ED%94%84-%EC%8B%A4%EC%A0%9C-%ED%9B%84%EA%B8%B0)
+      * Claude Code 기반의 자율 반복 루프 도구
+      * AI가 한 번에 완벽한 결과를 내길 기대하기보다, 실패를 전제로 성공할 때까지 스스로 테스트와 수정을 반복하도록 설계
+      * 개발자가 잠든 사이에도 작업을 완수하는 '야간 작업자'로서의 면모를 보이며 AI 코딩을 단순 보조에서 자율 실행 주체로 격상
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
@@ -3295,6 +3304,7 @@ Artificial Intelligence
   * [Top design hacks for Lovable - by Felix Haas](https://designplusai.com/p/top-design-hacks-for-lovable)
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
+  * [moai-adk | Code Wiki](https://codewiki.google/github.com/modu-ai/moai-adk)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
