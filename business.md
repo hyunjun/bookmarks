@@ -3227,6 +3227,8 @@ Business
 * ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27556423)
 * [마이크로매니징에서 벗어나는 위임의 힘 - 심리 데이터 기반 1:1 리더십 코칭, UpPeople](https://up-people.com/blog/delegation-leadership-strategy)
 * [좋은 리더가 되기 위해선 '마이크로 매니지먼트'와 '디테일 매니지먼트'의 차이를 이해하고 실전에서 적용할 수 있어야](https://www.linkedin.com/posts/do-young-kim-1436423a_%EC%A2%8B%EC%9D%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%A0-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%94%94%ED%85%8C%EC%9D%BC-%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8%EC%9D%98-activity-7335490104288755712-y-Mf/)
+* [Is All Micromanagement Bad? Here's How the Best Founders and Operators Balance Details and Delegation](https://review.firstround.com/how-to-be-a-good-micromanager/)
+  * [좋은 마이크로매니저가 되는 법 | GeekNews](https://news.hada.io/topic?id=25971)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
