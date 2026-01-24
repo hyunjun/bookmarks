@@ -342,6 +342,8 @@ Git
 * [리누스 토발즈의 ‘깃(Git)’ 20주년 소회 “별일 아니었다” – 바이라인네트워크](https://byline.network/2025/04/17-440/)
 * [Package managers keep using git as a database, it never works out | Andrew Nesbitt](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
   * [Git을 데이터베이스로 사용하는 패키지 관리자들, 결국 실패한다 | GeekNews](https://news.hada.io/topic?id=25365)
+* [GitHub로부터 도망친 곳에 대안은 없을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3564/)
+  * GitLab, Bitbucket, Codeberg, Gitea, Forgejo
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
