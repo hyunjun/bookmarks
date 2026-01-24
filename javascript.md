@@ -2955,6 +2955,12 @@ Javascript
   * [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial - YouTube](https://www.youtube.com/watch?v=0fYi8SGA20k)
   * [Bruno's](https://bruno-simon.com/)
     * [단연코 가장 멋진 3D 웹사이트 중 하나 | GeekNews](https://news.hada.io/topic?id=24963)
+  * [threejs-skills](https://github.com/CloudAI-X/threejs-skills) Three.js Skills for Claude Code
+    * Claude Code에 Three.js 기본 조작 스킬 사전 탑재
+    * 10개 Skill 파일로 Scene, Shader, Animation, PostFX 커버
+    * 긴 설명 없이 바로 3D 웹 요소 생성
+    * 컨텍스트 절약 → 속도, 품질 동시 향상
+    * 3D 랜딩, 인터랙티브 UI에 즉시 활용
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
