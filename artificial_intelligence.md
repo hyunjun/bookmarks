@@ -2060,6 +2060,7 @@ Artificial Intelligence
   * [실리콘밸리은행이 말하는 2025년 흐름, AI는 거품일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3376/)
 * [오픈AI 상위 30 고객리스트가 보여주는 인사이트](https://brunch.co.kr/@ywkim36/190)
   * [(1) 김영욱 - <오픈AI 상위 30 고객리스트가 의미하는 것> 지난 10월 6일 OpenAI DevDay 2025행사에서... | Facebook](https://www.facebook.com/story.php?story_fbid=10235753085941101&id=1037158560)
+* [왜 사람들은 AI에게 더 솔직할까요 | LinkedIn](https://www.linkedin.com/posts/leekh929_%EC%99%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-ai%EC%97%90%EA%B2%8C-%EB%8D%94-%EC%86%94%EC%A7%81%ED%95%A0%EA%B9%8C%EC%9A%94-9%EA%B0%9C%EC%9B%94-%EB%A7%8C%EC%97%90-%EB%A7%A4%EC%B6%9C%EC%9D%B4-15%EB%B0%B0-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0-activity-7419129031763177472-mcpy/)
 * [Apply AI Strategy | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/apply-ai)
   * [전종홍 - 오늘 새벽에 발표된 EU의 인공지능(AI) 활용 및 확산 전략인 "Apply AI Strategy".... | Facebook](https://www.facebook.com/story.php?story_fbid=10164592958961410&id=683301409)
 * [PagedOut_007.pdf](https://pagedout.institute/download/PagedOut_007.pdf)
@@ -2624,6 +2625,21 @@ Artificial Intelligence
     * [데이터 - Track 2 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회) - 대상수상팀 최대 25억원 사업화 지원](https://aifactory.space/task/9237/data)
 * [끝난 줄 알았던 AI 코딩 도구 경쟁, 1인 개발자가 뒤집었습니다 AI 코딩 도구 시장은 어느정도 결판이 난 게임처럼 보였습니다. Anthropic은 수십억 달러를 투자받아 Claude Code를 출시했습니다. OpenAI에서도 Codex를 내놓았습니다. Cursor는 수억 달러를 유치했습니다. 자본, 인력, 데이터. 개인이 이길 방법이 없어… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EB%81%9D%EB%82%9C-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EA%B2%BD%EC%9F%81-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%92%A4%EC%A7%91%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-activity-7414417993180303360--BM0)
 * [기업/헤비유저 관점에서 본 최고의 프로덕션레벨 가성비 바이브 코딩 도구 (2026년 1월 기준) :: ROBOCO](https://roboco.io/posts/best-production-vibe-coding-tool-jan2026/)
+* [Agent Skills vs. Rules vs. Commands](https://www.builder.io/blog/agent-skills-rules-commands)
+  * AI 코딩 도구가 발전함에 따라 컨텍스트 관리의 중요성 상승
+    * 모든 지침을 한곳에 넣으면 노이즈가 발생하므로, 상황에 따라 정보를 '지연 로딩(Lazy Loading)'하는 기술(Skills) 개념이 핵심
+    * 이를 통해 모델의 컨텍스트를 효율적으로 유지하면서 작업의 정확도 향상 가능
+  * 1. 기술(Skills)의 도입
+    * 모든 정보를 상시 제공 X
+    * 에이전트가 필요할 때만 특정 폴더(.claude/ 또는 .builder/)에서 지침을 로드하여 컨텍스트 낭비 방지
+  * 2. 규칙 vs 명령 vs 기술
+    * 규칙(Rules)은 모든 상황에 적용되는 불변의 원칙
+    * 명령(Commands)은 사용자가 의도적으로 실행하는 반복 워크플로
+    * 기술(Skills)은 특정 작업 시에만 선택적으로 꺼내 쓰는 전문 지식
+  * 3. 점진적 노출(Progressive Disclosure)
+    * 에이전트는 처음에 기술의 메타데이터(설명)만 스캔하고, 관련성이 있을 때만 전체 내용을 읽어 효율성 극대화
+  * 4. 구조적 관리
+    * 규칙은 짧게 유지하고, 복잡한 절차나 체크리스트는 기술 단위로 분리하여 관리하는 것이 유지보수와 성능 면에서 유리
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -3014,6 +3030,8 @@ Artificial Intelligence
   * [superpowers: An agentic skills framework & software development methodology that works](https://github.com/obra/superpowers)
     * [Claude Code로 2시간 동안 자율 코딩 시켜본 적 있으세요?🤯보통은 10분만 지나도 엉뚱한 방향으로 가거나, 테스트 없이 코드만 쏟아내거나, 같은 버그를 반복하죠. 오늘은 이 문제를 해결하는 데에 도움이 될 오픈소스, Superpowers를 소개해 드리려 해요. AI 에이전트에게 시니어 개발자의 워크플로우를 이식하는 스킬 라이브러리입니다. 핵심은… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-code%EB%A1%9C-2%EC%8B%9C%EA%B0%84-%EB%8F%99%EC%95%88-%EC%9E%90%EC%9C%A8-%EC%BD%94%EB%94%A9-%EC%8B%9C%EC%BC%9C%EB%B3%B8-%EC%A0%81-%EC%9E%88%EC%9C%BC%EC%84%B8%EC%9A%94%EB%B3%B4%ED%86%B5%EC%9D%80-activity-7419880228942004225-TsnO)
     * [superpowers: An agentic skills framework & software development methodology that works. | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-obrasuperpowers-an-agentic-skills-activity-7418423126750900224-PpzK)
+    * [superpowers/skills/writing-skills/SKILL.md at main · obra/superpowers · GitHub](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)
+      * [문서를 테스트한다고? TDD로 Skill 작성하기 | LinkedIn](https://www.linkedin.com/posts/bumgeunsong_%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%9C%EB%8B%A4%EA%B3%A0-tdd%EB%A1%9C-skill-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-skill%EC%9D%B4-%EC%A0%95%EB%A7%90-activity-7417845156407558144-3fCM/)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
