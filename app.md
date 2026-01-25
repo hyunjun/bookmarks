@@ -3178,6 +3178,8 @@ App
   * [VMware can FINALLY GAME on Mac and.. IT'S FREE? - YouTube](https://www.youtube.com/watch?v=Mqn1yoV_OW4) 설치중 network 연결이 안 되서 진행 못하는 문제 해결에 도움
 * [WelsonJS - Build a Windows app on the Windows built-in JavaScript engine](https://github.com/gnh1201/welsonjs)
   * [WelsonJS - 윈도우즈 내장 자바스크립트 엔진으로 앱 빌드 | GeekNews](https://news.hada.io/topic?id=17054)
+* [winappCli: winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework](https://github.com/microsoft/WinAppCli)
+  * [Announcing winapp, the Windows App Development CLI - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
