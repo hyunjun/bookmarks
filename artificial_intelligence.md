@@ -797,6 +797,9 @@ Artificial Intelligence
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
+  * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
+    * [agent-skills](https://github.com/vercel-labs/agent-skills)
+    * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
 * [ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows](https://github.com/NVlabs/ToolOrchestra)
   * [ToolOrchestra](https://research.nvidia.com/labs/lpr/ToolOrchestra/)
   * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
@@ -2383,6 +2386,8 @@ Artificial Intelligence
   * [캐럿 라우터, 왜 LiteLLM에서 any-llm으로 옮겼나 | Caret](https://caret.team/ko/blog/202512131111)
 * [automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.](https://github.com/cporter202/automate-for-growth)
 * [awesome-ai-tools: A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐](https://github.com/cporter202/awesome-ai-tools)
+* [Backend.AI GO](https://go.backend.ai/ko/)
+  * [신정규 - 김영근님의 이야기를 읽으며 반 년 전 이야기한 내용이 떠올라 찾아봤다. 개발자 신정규의 우울.... | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid02jZrThwe9k9r7nFonTXPcbeTvymfvW6RddKLSorVXNVMGEVcvtoQeK9CgfArqkbdbl)
 * [bananalyzer: Open source AI Agent evaluation framework for web tasks 🐒🍌](https://github.com/reworkd/bananalyzer)
 * [ChartAI - Diagramming as a Service](https://chartai.io/)
 * [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
@@ -2570,6 +2575,7 @@ Artificial Intelligence
   * [임백호 - 블프라 해도 특별히 물건을 잘 사질 않는데 살다 살다 중국산 LLM 1년치 토큰을 결제했습니다. GPT,... | Facebook](https://www.facebook.com/100ho/posts/pfbid02Bzv7xzNahQ7YEvAMgngSy69WPnvzRcP7o1gUcmuZkeoa7rNwmSwhLd9XFhniu35Ml)
   * [오픈토크 역대 가성비 바이브코딩 GLM 코딩 플랜 함께 얘기하기 - YouTube](https://www.youtube.com/live/Kpbce3wUCKA)
     * [GLM 코딩 플랜 & 클로드 코드: 바이브 코딩 생산성 극대화 전략 (ft. 스킬스, 에이전트 SDK)](https://livewiki.com/ko/content/vibecoding-glm-coding-plan)
+  * [🔥 GLM-4.7-Flash: 완전 무료! 30B급 최강 AI로 ChatGPT 비용 100% 절감하는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%81%E2%9C%A8GLM-47-Flash-GPT-5%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%AC%B4%EB%A3%8C-API%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -2617,6 +2623,7 @@ Artificial Intelligence
     * 기획(Gemini), 프론트엔드(V0), 백엔드(Claude Code), 보고서 작성(Notebook LM)의 풀 사이클
     * [데이터 - Track 2 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회) - 대상수상팀 최대 25억원 사업화 지원](https://aifactory.space/task/9237/data)
 * [끝난 줄 알았던 AI 코딩 도구 경쟁, 1인 개발자가 뒤집었습니다 AI 코딩 도구 시장은 어느정도 결판이 난 게임처럼 보였습니다. Anthropic은 수십억 달러를 투자받아 Claude Code를 출시했습니다. OpenAI에서도 Codex를 내놓았습니다. Cursor는 수억 달러를 유치했습니다. 자본, 인력, 데이터. 개인이 이길 방법이 없어… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EB%81%9D%EB%82%9C-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EA%B2%BD%EC%9F%81-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%92%A4%EC%A7%91%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-activity-7414417993180303360--BM0)
+* [기업/헤비유저 관점에서 본 최고의 프로덕션레벨 가성비 바이브 코딩 도구 (2026년 1월 기준) :: ROBOCO](https://roboco.io/posts/best-production-vibe-coding-tool-jan2026/)
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -2850,6 +2857,7 @@ Artificial Intelligence
   * [왜 "Claude Code"를 공짜로 풀었을까? - YouTube](https://www.youtube.com/watch?v=su2qmgY7-YI)
     * [클로드 코드 무료 전환의 진짜 의미와 앤스로픽의 전략적 노림수](https://livewiki.com/ko/content/claude-code-free-3)
   * [**초보를 위한 Claude Code 안내서**](https://subicura.com/2025/09/08/ai-coding.html)
+  * [Anthropic Just Added Task Management to Claude Code - YouTube](https://www.youtube.com/watch?v=6omInQipcag)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
     * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
       * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
@@ -2891,6 +2899,7 @@ Artificial Intelligence
   * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
   * [Claude Code Plugins & Agent Skills - Community Registry with CLI](https://claude-plugins.dev/)
     * claude code plugin 을 모아놓은 서비스. skills 가 있는 프로젝트만 따로 필터링 가능
+  * [claude-code-for-power-users: From Autocomplete to AI Architect: Mastering Claude Code for Professional Development](https://github.com/automazeio/claude-code-for-power-users)
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -2962,6 +2971,7 @@ Artificial Intelligence
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [language-skills](https://github.com/tmdgusya/language-skills)
     * [Claude code 코드를 쓰다보면 영어로 프롬프팅을 할때가 많은데 이럴때 어휘력이 딸려서 어떤 영어로 적어야 잘 설명하지? 라는 고민이 네이티브가 아니다 보니 항상든다. 그래서 현재 Session 의 영어로 최대한 적은 프롬프트를 /save 커맨드로 저장하고 추후에 /review 를 통해 적절한 문장을 알려주는 Claude code plugin 을… | Seong Hyeon Jeong](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_claude-code-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%93%B0%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%98%81%EC%96%B4%EB%A1%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%95%A0%EB%95%8C%EA%B0%80-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%9D%B4%EB%9F%B4%EB%95%8C-activity-7415404860054872064-9f1D)
+  * [marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering](https://github.com/coreyhaines31/marketingskills)
   * [oh-my-claudecode | Multi-agent Orchestration for Claude Code](https://yeachan-heo.github.io/oh-my-claudecode-website/)
     * [oh-my-claudecode: Multi-agent orchestration for Claude Code. Zero learning curve. 28 agents, 28 skills, delegation-first architecture](https://github.com/Yeachan-Heo/oh-my-claudecode)
     * [Oh My Claude Code - Claude Code를 ‘팀’으로 쓰는 플러그인 :: ROBOCO](https://roboco.io/posts/oh-my-claudecode-distilled/)
