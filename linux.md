@@ -1308,6 +1308,24 @@ Linux
   * 커널 스페이스에서 실행되는 eBPF와 eBPF 기반으로 패킷을 처리할 수 있는 XDP 설명
   * eBPF로 작성해서 이를 커널로 로드하는 예시
   * 2018년에 나온 XDP의 설계를 보여주는The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel 논문 요약
+* [Hands-On with XDP: eBPF for High-Performance Networking](https://labs.iximiuz.com/tutorials/ebpf-xdp-fundamentals-6342d24e)
+  * XDP(eXpress Data Path)는 리눅스 커널의 네트워크 스택 초기 단계에서 패킷을 처리할 수 있게 해주는 고성능 eBPF 프로그램 유형
+    * 커널을 완전히 우회하는 DPDK와 달리
+      * 커널 내 인프라를 활용하면서도, 데이터가 커널 스택 상단으로 올라가기 전에 처리하여 성능 병목 해결
+    * XDP의 세 가지 모드(Generic, Native, Offload)와 패킷 파싱 원리, 그리고 주요 액션 코드(PASS, DROP 등)를 설명
+    * 고성능 방화벽이나 로드 밸런서 구축의 기초 제시
+  * 1. 성능 최적화의 핵심
+    * 패킷처리 시 msec 단위 지연 감소를 위해 커널의 무거운 네트워크 스택 거치기 전, 드라이버 단계/NIC 하드웨어에서 직접 패킷 처리
+  * 2. 커널 우회 방식과의 차별성
+    * DPDK 같은 방식은 커널을 완전히 우회하여 보안 및 네트워킹 기능을 재구현 필요
+    * XDP는 커널 내에서 실행되어 기존 보안 모델을 재사용 가능
+  * 3. 단계별 패킷 파싱
+    * Ethernet 헤더부터 시작 IPv4/IPv6, TCP/UDP/ICMP 헤더 순차적으로 분석, xdp_md 컨텍스트의 포인터를 사용해 안전하게 데이터 접근
+  * 4. 결정적 액션 제어
+    * 프로그램은 처리 결과에 따라 패킷을 통과(PASS), 차단(DROP), 재전송(TX), 리다이렉트(REDIRECT) 중 하나로 결정하여 즉각 응답
+  * 5. 어플리케이션 계층의 한계
+    * XDP는 단일 MTU 프레임 내의 원시 데이터만 접근 가능
+    * HTTP와 같은 상위 계층 프로토콜 파싱에는 상위 스택의 eBPF 훅을 병용하는 것이 유리
 * [Noisy Neighbor Detection with eBPF | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
 * [bpftop: bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program](https://github.com/Netflix/bpftop)
   * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5/)
