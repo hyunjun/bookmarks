@@ -2949,6 +2949,14 @@ Artificial Intelligence
     * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
     * [Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
       * [좋은 Claude.md 작성법 | GeekNews](https://news.hada.io/topic?id=24744)
+    * [Claude Code customization guide: CLAUDE.md, skills, subagents explained | alexop.dev](https://alexop.dev/posts/claude-code-customization-guide-claudemd-skills-subagents/)
+      * Claude Code에서 프로젝트 문맥을 학습시키고 워크플로우를 자동화하는 4가지 방법(CLAUDE.md, Slash Commands, Subagents, Skills)의 차이점 활용법 정리
+        * 특히 문서 데이터 추출 시 메인 컨텍스트를 깨끗하게 유지할 수 있는 '서브에이전트(Subagents)' 활용이 가장 효율적
+        * 1. CLAUDE.md: 프로젝트 실행 시 항상 로드되는 메모리 역할, 팀 간 공유가 쉽지만 세션이 길어지면 내용이 무시될 수 있음
+        * 2. Slash Commands: 사용자가 / 명령어로 직접 호출하는 프롬프트 매크로, 특정 작업을 명시적으로 실행할 때 유용
+        * 3. Subagents: 독립된 컨텍스트 창을 가진 별도의 AI 페르소나, 복잡한 문서 검색 등을 위임해 메인 대화의 토큰 낭비 방지
+        * 4. Skills: 자동 감지 기능을 갖춘 고도화된 기능, 여러 파일과 패턴을 포함하여 전문적인 작업 수행
+        * 5. 도구 선택 기준: 단순 지침 CLAUDE.md, 명시적 실행 슬래시 명령어, 컨텍스트 분리가 필요한 조사는 서브에이전트가 적합
   * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
