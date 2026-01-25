@@ -5968,6 +5968,7 @@ Python
 * [pnu-sudoku-solver: 부산대학교 2023년 1학기에 진행된 컴퓨터및프로그래밍입문 (CB1501007-004/005) 분반에 사용된 Sudoku 문제 풀이 패키지 입니다. 즐거운 여름 방학 되세요!](https://github.com/sigmadream/pnu-sudoku-solver)
   * [PyCon KR 2023 리스트와 딕셔너리 학습을 위한 패키지 개발 여정 한상곤 - YouTube](https://www.youtube.com/watch?v=p4_bqu0yuD0)
 * [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
+* [python-training: Python training for business analysts and traders](https://github.com/jpmorganchase/python-training)
 * [tinkerstellar | Learn by tinkering](https://tinkerstellar.com/)
   * [Tinkerstellar - iPad에서 Python 배우기 | GeekNews](https://news.hada.io/topic?id=5735)
 
