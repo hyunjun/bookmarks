@@ -420,6 +420,8 @@ Network
   * [Tesla Transport Protocol over Ethernet (TTPoE) | GeekNews](https://news.hada.io/topic?id=16902)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
+* [whosthere: Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪](https://github.com/ramonvermeulen/whosthere)
+  * [Whosthere - Go로 작성된 현대적 TUI 기반 LAN 탐색 도구 | GeekNews](https://news.hada.io/topic?id=26096)
 * Wireshark
   * [Decrypting your own HTTPS traffic with Wireshark – Trickster Dev](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
   * [네트워크 성능 문제를 해결하는 필수 오픈소스 툴 ‘와이어샤크’ - ITWorld Korea](https://www.itworld.co.kr/news/239629)
