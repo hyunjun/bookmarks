@@ -1270,6 +1270,10 @@ Artificial Intelligence
     * [🚀 Gemini CLI Extensions: 새로운 확장 기능과 커스텀 명령어](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Gemini-CLI-Extensions-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
     * [🤖 Gemini CLI(2): MCP 프롬프트 - 슬래시 명령어 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Gemini-CLI-MCP-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [터미널 AI 도구 Gemini CLI – 설치부터 간단 사용 후기까지](https://velog.io/@dnjstjdgus03/GeminiCLI)
+    * [Gemini CLI: Code & Create with an Open-Source Agent - DeepLearning.AI](https://www.deeplearning.ai/short-courses/gemini-cli-code-and-create-with-an-open-source-agent/)
+      * [Minho Hwang - Gemini CLI 완벽 가이드: 설치부터 고급 활용 사례까지 Google과... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0281XfPXazaB3UeCC1X36EHrLRiytwyM5mdBEb5Rer63WPc1RTTEYvCgwY5hoyLv76l)
+        * [robin-cc-extension](https://github.com/revfactory/robin-cc-extension)
+        * [gemini-cli-sub.zip - Google Drive](https://drive.google.com/file/d/1ureAUSgBfO6AVAoJugZsYFpCJ-Dz5uPV/view)
     * [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips)
       * [Gemini CLI를 활용한 에이전틱 코딩 팁과 트릭 | GeekNews](https://news.hada.io/topic?id=24661)
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
@@ -3032,6 +3036,7 @@ Artificial Intelligence
     * [superpowers: An agentic skills framework & software development methodology that works. | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-obrasuperpowers-an-agentic-skills-activity-7418423126750900224-PpzK)
     * [superpowers/skills/writing-skills/SKILL.md at main · obra/superpowers · GitHub](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)
       * [문서를 테스트한다고? TDD로 Skill 작성하기 | LinkedIn](https://www.linkedin.com/posts/bumgeunsong_%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%9C%EB%8B%A4%EA%B3%A0-tdd%EB%A1%9C-skill-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-skill%EC%9D%B4-%EC%A0%95%EB%A7%90-activity-7417845156407558144-3fCM/)
+    * [💪⚡초보자를 위한 Superpowers 사용법 & Claude Code 코딩 자동화 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%AA%E2%9A%A1%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Superpowers-%EC%82%AC%EC%9A%A9%EB%B2%95-Claude-Code-%EC%BD%94%EB%94%A9-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
