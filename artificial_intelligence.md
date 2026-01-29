@@ -424,6 +424,8 @@ Artificial Intelligence
   * 2. 원자적 도구(Atomic Tools)와 세분화: 기능(Feature)을 코드로 고정하지 말고, 에이전트가 조합할 수 있는 가장 작은 단위의 도구들로 쪼개야 함. 결과물은 코드가 아닌 프롬프트 수정을 통해 결정
   * 3. 창발적 능력(Emergent Capability): 개발자가 미리 설계하지 않은 기능도 에이전트가 도구들을 조합하여 스스로 수행할 수 있게 되어, 소프트웨어의 활용 범위가 무한히 확장
   * 4. 누적된 문맥을 통한 발전: 코드를 새로 배포하지 않아도 에이전트가 사용자의 작업 문맥을 기억하고 프롬프트를 최적화함으로써 시간이 지날수록 앱의 성능이 스스로 향상
+* [AI-Driven Development Lifecycle](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)
+  * [AI 주도 개발 생명주기 (AI-DLC) 방법론 정의서 | AI-DLC 방법론 한국어 번역](https://serithemage.github.io/AI-DLC/)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -625,6 +627,8 @@ Artificial Intelligence
   * [SW 개발의 에이전트 AI: 진화하는 패턴과 프로토콜](https://livewiki.com/ko/content/agentic-ai-sw-development)
 * [Gregor Zunic on X: "The Bitter Lesson of Agent Frameworks" / X](https://x.com/gregpr07/status/2012052139384979773)
   * ["99%의 작업은 모델 안에서 이루어진다." Browser Use 팀이 에이전트를 다 뜯어고치고 나서 깨달은 겁니다. 그들의 첫 에이전트는 수천 줄의 추상화로 이루어져 있었습니다. 작동은 했습니다. 뭔가를 바꾸려고 하기 전까지는요. 모든 실험이 프레임워크와 싸워야 했습니다. 결국 전부 버렸습니다. 에이전트가 실패한 건 모델이 멍청해서가… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_99%EC%9D%98-%EC%9E%91%EC%97%85%EC%9D%80-%EB%AA%A8%EB%8D%B8-%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%EB%8B%A4-browser-use-%ED%8C%80%EC%9D%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7418068288674369536-zf4l)
+* [Building Agentic AI systems with AWS Serverless • Uma Ramadoss • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=nAcyi2BGwMo)
+  * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -2868,6 +2872,7 @@ Artificial Intelligence
   * [Introducing Cowork | Claude](https://claude.com/blog/cowork-research-preview)
     * [앤트로픽이 10일만에 바이브 코딩 한, 완벽한 비서에 도전하는 클로드 코워크 - YouTube](https://www.youtube.com/watch?v=-3ty-0b035k)
     * [Cowork, a research preview | Claude](https://claude.com/resources/tutorials/claude-cowork-a-research-preview)
+    * [이제 AI가 AI를 관리한다? Claude의 역대급 업데이트 'Agent Swarm' 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Wq8w4jz6Kz8)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
@@ -3346,6 +3351,11 @@ Artificial Intelligence
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
   * [moai-adk | Code Wiki](https://codewiki.google/github.com/modu-ai/moai-adk)
+* [Moltbot — Personal AI Assistant](https://www.molt.bot/)
+  * [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
+    * [MoltBot 제작자: “나는 읽지 않은 코드를 배포한다” | GeekNews](https://news.hada.io/topic?id=26222)
+  * [이제 그냥 다 지우세요! 차 마저 저렴하게 대신 구매 해주는 클로드봇 - YouTube](https://www.youtube.com/watch?v=UBx4il7x78I)
+  * [응 지워. 클로드봇, 몰트봇 해킹 위험! 어떻게 대처 해야할까? - YouTube](https://www.youtube.com/watch?v=KEM3Gqwz8sc)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
