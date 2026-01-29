@@ -3913,6 +3913,7 @@ NLP
     * 즉, 멀티모델 GPU 서빙 환경에서 효율성과 속도 획기적 개선
   * [Inference startup Inferact lands $150M to commercialize vLLM | TechCrunch](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
     * [vLLM 제작자들이 설립한 'Inferact', 오픈소스 추론 엔진 상용화 위해 1억 5천 | GeekNews](https://news.hada.io/topic?id=26066)
+  * [vLLM PagedAttention: 낭비되는 GPU 메모리 수 백만 달러 절약하기](https://codepointerko.substack.com/p/vllm-pagedattention-gpu)
   * [nano-vllm: Nano vLLM](https://github.com/GeeeekExplorer/nano-vllm)
     * [nanoRLHF 프로젝트에서 가장 어려웠던 nanovllm 개발 종료](https://www.facebook.com/story.php?story_fbid=3811983599094612&id=100008490288977)
     * [nanoRLHF/examples/nanovllm.py at main · hyunwoongko/nanoRLHF](https://github.com/hyunwoongko/nanoRLHF/blob/main/examples/nanovllm.py)
@@ -5471,6 +5472,7 @@ NLP
 * [🤖 Qwen3-TTS: AI 음성 합성의 새로운 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Qwen3-TTS-AI-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-1)
   * [Qwen3 TTS Voice Design - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design)
   * [Qwen TTS Clone Demo - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo)
+  * [📖 Qwen3-TTS 무료 사용법: 음성 복제부터 디자인까지 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%93%96-Qwen3-TTS-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%9D%8C%EC%84%B1-%EB%B3%B5%EC%A0%9C%EB%B6%80%ED%84%B0-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
   * [Baum-Welch Algorithm - ratsgo's speechbook](https://ratsgo.github.io/speechbook/docs/am/baumwelch)
 * [Retell AI - Conversational speech API for your LLM](https://www.retellai.com/)
