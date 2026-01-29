@@ -1189,6 +1189,7 @@ Data Science
 * [Paper review Sampling-Bias Corrected Neural Modeling for Large Corpus Item Recommendations | by chrisjune | Medium](https://chrisjune-13837.medium.com/paper-review-sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations-fee7710c5640) 유튜브 추천 시스템의 일부를 자세하게 소개
 * [(광고아님) 유독 스포티파이가 노래 추천을 잘한다는 평이 많은 이유 - YouTube](https://www.youtube.com/watch?v=uUwzkAc9rXc)
   * 소리를 이미지처럼 분석하는 CNN, 플레이리스트 제목과 가사를 해석하는 NLP 임베딩, 유저와 노래를 벡터로 매핑하는 협업 필터링 구조
+* [x-algorithm X/트위터가 5억 5천만 사용자의 피드를 결정하는 방법 - by Yongkyun](https://codepointerko.substack.com/p/x-algorithm-x-5-5)
 * [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 
 ## Recommendation Python
