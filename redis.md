@@ -152,6 +152,7 @@ Redis
 * [레디스를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
 * [수백만 동시 접속을 처리하는 예매 시스템 아키텍처 설계 - YouTube](https://www.youtube.com/watch?v=c-ERjEodn_o) sorted set
   * [수백만 동시 접속을 처리하는 예매 시스템 아키텍처 설계](https://livewiki.com/ko/content/ticketing-system-architecture-design)
+  * [좋은 질문 많이 주셨네요. 다른 분들께도 도움이 될거 같아 영상으로 답변 드립니다. - YouTube](https://www.youtube.com/watch?v=R3PlzNMg_c4)
   * [대규모 예매 시스템에서 대기열에 Kafka가 아닌 Redis를 사용하는 이유 - YouTube](https://www.youtube.com/watch?v=IjI4DJvZcAs)
     * [대규모 예매 시스템에서 대기열에 Kafka 대신 Redis Sorted Set을 사용하는 이유](https://livewiki.com/ko/content/redis-queue-large-scale-ticketing)
 * [**Redis를 활용한 다양한 시스템 설계**](https://devs0n.tistory.com/92) Redis로 구현 가능한 예제 간결하게 설명한 글, 토이 프로젝트에 참고하기 좋음
