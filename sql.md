@@ -1504,6 +1504,8 @@ SQL
   * [Postgres: 단순한 데이터베이스를 넘어선 올인원 백엔드 솔루션](https://livewiki.com/ko/content/postgres-not-database)
 * [Scaling PostgreSQL to power 800 million ChatGPT users | OpenAI](https://openai.com/index/scaling-postgresql/)
   * [OpenAI: 8억 명의 사용자를 지탱하는 PostgreSQL 대규모 확장 전략 | GeekNews](https://news.hada.io/topic?id=26069)
+  * [오픈AI가 8억 사용자를 PostgreSQL로 처리하는 비결 - YouTube](https://www.youtube.com/watch?v=RKl6NZ2msTg)
+    * [OpenAI는 왜 8억 사용자 DB를 단일 PostgreSQL로 운영할까?](https://livewiki.com/ko/content/openai-800m-users-postgresql)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
