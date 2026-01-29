@@ -6548,6 +6548,7 @@ Programming
     * footprint가 무거워 엣지 IoT 기기에 부적합
   * 따라서 MQTT는 장치 수준에서 자주 사용되지만 AMQP는 IoT 시스템의 백엔드 인프라에서 사용
 * [성능튜닝의 양대산맥, Cache와 MQ - YouTube](https://www.youtube.com/watch?v=dVCB5jQAYMA)
+* [대규모 예매 시스템에서 대기열과 통신하는 방법 (feat. 폴링) - YouTube](https://www.youtube.com/watch?v=tJeQoxceipY)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
