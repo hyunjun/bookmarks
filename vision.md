@@ -643,6 +643,9 @@ Vision
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
   * [PaddleOCR-VL Upstage만큼 강력합니다 - YouTube](https://www.youtube.com/watch?v=nL88A59qBC0)
     * [PaddleOCR-VL 문서 파싱은 이걸로 끝냅니다 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_paddleocr-vl-%EB%AC%B8%EC%84%9C-%ED%8C%8C%EC%8B%B1%EC%9D%80-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EB%81%9D%EB%83%85%EB%8B%88%EB%8B%A4-activity-7385441384272596993-OJZY)
+* [paperless-stack: Docker Compose stack for running Paperless-ngx with optional local AI capabilities](https://github.com/timothystewart6/paperless-stack)
+  * [Self-Hosted Paperless-ngx + Optional Local AI: Private Documents and Improves OCR & Search (Full Setup) | Techno Tim](https://technotim.com/posts/paperless-ngx-local-ai/)
+  * [Paperless-ngx: Keep Your Documents Private (Optional Local AI OCR) - YouTube](https://www.youtube.com/watch?v=NMAwHjleqHg)
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 * [Texo: A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。](https://github.com/alephpi/Texo/)
 
