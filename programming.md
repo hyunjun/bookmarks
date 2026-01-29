@@ -1838,6 +1838,7 @@ Programming
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
   * [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
   * [마이크로서비스, 서버리스 버렸더니 비용 90% 절감 - 아마존 프라임 비디오, 모놀리스 전환 - YouTube](https://www.youtube.com/watch?v=K8FKn4sI16Q)
+* [마이크로서비스 vs 모노리스, 스타트업 90%가 틀리는 선택 - YouTube](https://www.youtube.com/watch?v=sh3I-Z7vNa8)
 * [Goodbye Microservices | Twilio](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
   * [Twilio Segment가 마이크로서비스에서 모놀리식 아키텍처로 회귀한 이유 | GeekNews](https://news.hada.io/topic?id=25065)
 * [In defense of simple architectures](https://danluu.com/simple-architectures/)
