@@ -1702,6 +1702,10 @@ Linux
 * [Zellij](https://zellij.dev/)
   * [zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
   * [What the hell is Zellij? - YouTube](https://www.youtube.com/watch?v=ZPfQS5FHNYQ)
+  * [Zellij vs Tmux: Complete Comparison (or almost) | by Rodrigo Martins | Medium](https://rrmartins.medium.com/zellij-vs-tmux-complete-comparison-or-almost-8e5b57d234ae)
+    * Tmux는 2007년부터 쌓아온 안정성과 매우 낮은 리소스 사용량이 강점
+    * Zellij는 Rust 기반의 현대적인 UI와 WASM 플러그인 등 사용자 편의성에 집중
+    * 효율 중심이라면 Tmux, 현대적 기능과 쉬운 사용을 원한다면 Zellij가 적합
 
 ## Tmux command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
