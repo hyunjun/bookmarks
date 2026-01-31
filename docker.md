@@ -3363,6 +3363,7 @@ Docker
       * [VMware Documentation for macOS 13](https://partnerweb.vmware.com/GOSIG/MacOS_13.html)
       * [Installing macOS Ventura in VMWare Fusion Pro 13 | MacRumors Forums](https://forums.macrumors.com/threads/installing-macos-ventura-in-vmware-fusion-pro-13.2397170/)
 * [VMware Fusion 사용하여 Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법](https://webnautes.tistory.com/2413)
+* [맥북 가상윈도우 설치 & 업무포털 접속 완벽 해결 - YouTube](https://www.youtube.com/watch?v=Xoe4l2xUrjU)
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
