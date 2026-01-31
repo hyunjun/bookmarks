@@ -629,6 +629,8 @@ Artificial Intelligence
   * ["99%의 작업은 모델 안에서 이루어진다." Browser Use 팀이 에이전트를 다 뜯어고치고 나서 깨달은 겁니다. 그들의 첫 에이전트는 수천 줄의 추상화로 이루어져 있었습니다. 작동은 했습니다. 뭔가를 바꾸려고 하기 전까지는요. 모든 실험이 프레임워크와 싸워야 했습니다. 결국 전부 버렸습니다. 에이전트가 실패한 건 모델이 멍청해서가… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_99%EC%9D%98-%EC%9E%91%EC%97%85%EC%9D%80-%EB%AA%A8%EB%8D%B8-%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%EB%8B%A4-browser-use-%ED%8C%80%EC%9D%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7418068288674369536-zf4l)
 * [Building Agentic AI systems with AWS Serverless • Uma Ramadoss • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=nAcyi2BGwMo)
   * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
+* [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
+  * [배휘동 - 에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개) (블로그에서... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0BFvR7UAHzqYtvTSTEzH2itTE91PLRet3QoHMbvLwsDnMm6WWzCk4ZDTnpJm9sZhXl)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -2666,6 +2668,9 @@ Artificial Intelligence
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
+* [bkit - Vibecoding Kit](https://www.bkit.ai/)
+  * [바이브코딩의 근본 문제들을 해결해주는 도구 bkit | AI 인공지능 클로드코드 - YouTube](https://www.youtube.com/watch?v=EZwffHVx05U)
+    * [바이브 코딩 근본 문제 해결 도구 bkit, AI 클로드 코드 활용 노하우](https://livewiki.com/ko/content/bkit-ai-claude-code)
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
@@ -3623,6 +3628,8 @@ Artificial Intelligence
 
 # World Model
 * [(1) 류내원 - 얀 르쿤 "5년 내 LLM 한계…AI의 다음 혁명은 월드 모델" (출처: 뉴스) 현재 AI 모델은 세계를... | Facebook](https://www.facebook.com/story.php?story_fbid=24784508421171891&id=100001182289254)
+* [구글이 이걸 푸네요… HBM 더 폭증 | 월드모델 Genie 3 사용자들 경악 | 월드 모델은 LLM과는 아예 다른 경쟁 기준이 됩니다 - YouTube](https://www.youtube.com/watch?v=JIhQ-30VASQ)
+  * [구글 딥마인드 Genie 3 출시: HBM 병목 및 LLM과 다른 월드 모델 경쟁 기준 분석](https://livewiki.com/ko/content/google-hbm-world-model-genie)
 * [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
   * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
     * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
