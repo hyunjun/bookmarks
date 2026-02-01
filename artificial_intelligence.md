@@ -3399,6 +3399,8 @@ Artificial Intelligence
   * [🔥 Github 역대 최고 속도 스타 달성한 개발자가 공개한 "AI 코딩 10가지 원칙" Moltbot(구 Clawdbot) 창시자 Peter Steinberger 의 인터뷰를 보고 적잖이 충격 받았어요. 그는 13년간 70명 규모 회사를 운영하고 매각한 후, 4년 휴식 끝에 2023년 4월 복귀한 베테랑인데요. 그가 말하는 AI 시대 개발은… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B3%A0-%EC%86%8D%EB%8F%84-%EC%8A%A4%ED%83%80-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EA%B0%9C%ED%95%9C-ai-%EC%BD%94%EB%94%A9-activity-7422780935894544384-LyWS)
     * [The creator of Clawd: "I ship code I don't read" - YouTube](https://www.youtube.com/watch?v=8lF7HmQ_RgY)
     * [🦞 Moltbot / Clawdbot Creator Peter Steinberger, Palmer Luckey, and more - YouTube](https://www.youtube.com/live/c4kLgSWUfC8)
+  * [How Clawdbot Remembers Everything - Manthan](https://manthanguptaa.in/posts/clawdbot_memory/)
+    * [Clawdbot이 기억을 관리하는 법: Markdown 기반의 하이브리드 메모리 아키텍처 | GeekNews](https://news.hada.io/topic?id=26299)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
