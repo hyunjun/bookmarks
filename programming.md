@@ -8559,6 +8559,8 @@ Programming
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
   * 특히 비개발자들에게 이야기하기 좋게 씌여졌다고 생각함
+* [조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다](https://evan-moon.github.io/2026/01/24/leading-frontend-organization/)
+  * [토스 프론트엔드 챕터 140명 조직을 운영하며 배운 것 | GeekNews](https://news.hada.io/topic?id=26274)
 * [How we build software at Cloudflare](https://blog.cloudflare.com/building-software-at-cloudflare/)
 * [How do Google engineers work? | LinkedIn](https://www.linkedin.com/pulse/how-do-google-engineers-work-edward-jee/)
 * [Uncomfortable Truths in Software Engineering • Buttondown](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/)
