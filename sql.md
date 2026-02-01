@@ -1525,6 +1525,8 @@ SQL
   * [Biscuit - PostgreSQL에서 LIKE / ILIKE 패턴 검색을 고속화하기 위 | GeekNews](https://news.hada.io/topic?id=25649)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
+* [DocumentDB - Open Source Document Database](https://documentdb.io/)
+  * [documentdb: MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity](https://github.com/documentdb/documentdb)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -1810,6 +1812,9 @@ SQL
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
+* [graphqlite: A SQLite extension that adds graph database capabilities with Cypher query language support and built-in graph algorithms](https://github.com/colliery-io/graphqlite)
+  * [Introduction - GraphQLite Documentation](https://colliery-io.github.io/graphqlite/)
+  * [GraphQLite - Cypher 쿼리 언어와 내장 그래프 알고리듬을 지원하는 SQLit | GeekNews](https://news.hada.io/topic?id=25913)
 * [IceFireDB SQLite database - a decentralized SQLite database](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite)
 * LiteFS [Introducing LiteFS · Fly](https://fly.io/blog/introducing-litefs/)
   * fly.io에서 Litestream의 아이디어를 확장한 LiteFS 공개
