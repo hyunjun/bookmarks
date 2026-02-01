@@ -2186,6 +2186,10 @@ Artificial Intelligence
 * [네이버·SKT·업스테이지가 베꼈다고? '프롬 스크래치' 논란 완벽 정리 | 요즘IT](https://yozm.wishket.com/magazine/detail/3551/) from scratch
 * [Aatish Nayak on X: "Collaborative Intelligence" / X](https://x.com/nayakkayak/status/2009660549554913574)
   * [AI가 개인에게는 잘 작동하고, 조직에서는 실패하는 이유 요즘 AI는 쓰면 쓸수록 놀랍니다. 개인 생산성 측면에서는 혁신입니다. 하지만 조직 안으로 들어가면 성과가 급격히 떨어진다고 합니다. 왜 그럴까요? 회사에서 일은 개인이 아니라 사람들 사이에서 일어나기 때문입니다. 협업, 협상, 에스컬레이션, 시간에 걸친 공유된 판단. 아무리 뛰어난 개인이라도… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EA%B0%80-%EA%B0%9C%EC%9D%B8%EC%97%90%EA%B2%8C%EB%8A%94-%EC%9E%98-%EC%9E%91%EB%8F%99%ED%95%98%EA%B3%A0-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EB%8A%94-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EC%9A%94%EC%A6%98-ai%EB%8A%94-%EC%93%B0%EB%A9%B4-activity-7417675702587535360-DOdg)
+* [순정으로 시작해 내게 딱 맞는 워크플로우를 자라나게 하는 방법](https://www.stdy.blog/growing-custom-workflow/)
+  * [배휘동 - 순정으로 시작해 내게 딱 맞는 워크플로우를 자라나게 하는 방법 (블로그에서 보시려면:... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0g5vqHYnwBAUCyzEPP7JTuCGRy3iBYsi76TchBQQYx7D6KFGEaAtzfCQgtnR8xvB6l)
+* [Top AI Coding Trends for 2026 - Beyond Vibe Coding](https://beyond.addy.ie/2026-trends/)
+  * [2026년에 주목해야 할 AI 코딩의 주요 토픽과 트렌드 | GeekNews](https://news.hada.io/topic?id=26277)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
