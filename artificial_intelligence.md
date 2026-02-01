@@ -631,6 +631,15 @@ Artificial Intelligence
   * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
 * [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
   * [배휘동 - 에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개) (블로그에서... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0BFvR7UAHzqYtvTSTEzH2itTE91PLRet3QoHMbvLwsDnMm6WWzCk4ZDTnpJm9sZhXl)
+* [The 80% Problem in Agentic Coding - by Addy Osmani](https://addyo.substack.com/p/the-80-problem-in-agentic-coding)
+  *  AI 코딩 에이전트가 작업의 80%를 빠르게 해결, 나머지 20%의 복잡한 문제를 해결하지 못해 완료 단계에서 정체되는 현상 분석
+    * 단순 반복 업무의 효율은 극대화되, 시스템 아키텍처 이해와 엄격한 검증이 필요한 심화 단계에서는 여전히 인간 개입 필수
+  * 1. 에이전트의 한계: 에이전트가 초반의 80%는 신속히 처리, 엣지 케이스나 복잡한 디버깅이 포함된 마지막 20%에서 '벽'에 부딪힘
+  * 2. 신뢰의 격차: AI가 생성한 코드 양은 증가, 이에 대한 리뷰 및 테스트 부하가 인간 개발자에게 전가되어 전체 프로세스 병목 발생
+  * 3. 도구에서 협업으로: 단순한 코드 생성을 넘어 시스템 전체의 문맥(Context)을 파악하는 능력이 차세대 에이전트의 핵심 과제
+  * 4. 인간의 역할 변화: 개발자는 직접 코딩하는 시간보다 AI가 산출한 결과물의 논리적 결함을 검토하고 통합하는 설계자 역할 중요
+* [Open Coding Agents: Fast, accessible coding agents that adapt to any repo | Ai2](https://allenai.org/blog/open-coding-agents)
+  * 강력한 코드 LLM을 저렴하게 구축, 적용 및 재현할 수 있도록 지원하는 효율적인 코딩 에이전트 및 학습 레시피의 공개 세트
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -665,6 +674,8 @@ Artificial Intelligence
     * 3. 미래 AI는 파라미터+외부메모리 결합(형태), 사실+경험 메모리로의 확장(기능), 갱신, 망각, 정제의 진화하는 기억(동역학)으로 집단지성 협업을 가능케 해 연구의 초점이 ‘읽기’에서 ‘질문, 협업’으로 이동
 * [2512.16301 Adaptation of Agentic AI](https://arxiv.org/abs/2512.16301)
   * [“에이전틱 AI에서 ‘적응(Adaptation)’이란 무엇이며, 어디를 어떻게 적응시켜야 하는가?” 를 체계적으로 정리하려 시도한 논문](https://www.facebook.com/1biit/posts/pfbid02u6eztGKnNTKK5mkABHd3wojmxzNJBHvgsdeReznZz649Ekfs3MfyKmktUodWfJWml)
+* [2601.20048 Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
+  * [Amazon Research: Lightweight Multi-Agent System for Business Data Analysis | Elvis S. posted on the topic | LinkedIn](https://www.linkedin.com/posts/omarsar_new-research-from-amazon-great-paper-showing-activity-7422645738649812993-_rZ9)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agent-browser](https://agent-browser.dev/)
   * [agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
@@ -799,6 +810,8 @@ Artificial Intelligence
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
+* [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
+  * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
@@ -1165,6 +1178,8 @@ Artificial Intelligence
     * 이 프로젝트는 전통적인 코딩 방식에서 벗어나 AI 코딩 조수를 활용해 더 효율적이고 창의적으로 개발하는 방법을 설명
     * 가이드는 AI와 함께 코딩할 때의 마인드셋 변화, 효과적인 프롬프트 작성법, 그리고 AI 도구의 한계를 이해하는 방법 등을 포함
     * 'Vibe Coding'의 핵심은 개발자가 세부 구현보다 높은 수준의 설계와 문제 해결에 집중할 수 있게 하는 것
+  * [Vibe Index - Vibe Coding Directory](https://www.vibeindex.ai/)
+    * [조태호 - 25,960개의 바이브 코딩 자료를 한 곳에 정리했습니다. 바이브코딩 책을 쓰며 안타까웠던 것은, MCP,... | Facebook](https://www.facebook.com/taeho.jo/posts/pfbid02uue2z7QJuZ1ne1g71qYPojjhT2z5m6VNnNciL868pvazAzwQeDVVzsFLj7DZUMUTl)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -1276,6 +1291,7 @@ Artificial Intelligence
     * [🚀 Gemini CLI Extensions: 새로운 확장 기능과 커스텀 명령어](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Gemini-CLI-Extensions-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%99%95%EC%9E%A5-%EA%B8%B0%EB%8A%A5)
     * [🤖 Gemini CLI(2): MCP 프롬프트 - 슬래시 명령어 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Gemini-CLI-MCP-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [터미널 AI 도구 Gemini CLI – 설치부터 간단 사용 후기까지](https://velog.io/@dnjstjdgus03/GeminiCLI)
+    * [Ralph Loop를 활용한 Gemini CLI 반복 작업 자동화 방법 정리](https://digitalbourgeois.tistory.com/2695)
     * [Gemini CLI: Code & Create with an Open-Source Agent - DeepLearning.AI](https://www.deeplearning.ai/short-courses/gemini-cli-code-and-create-with-an-open-source-agent/)
       * [Minho Hwang - Gemini CLI 완벽 가이드: 설치부터 고급 활용 사례까지 Google과... | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0281XfPXazaB3UeCC1X36EHrLRiytwyM5mdBEb5Rer63WPc1RTTEYvCgwY5hoyLv76l)
         * [robin-cc-extension](https://github.com/revfactory/robin-cc-extension)
@@ -1450,6 +1466,8 @@ Artificial Intelligence
     * [Claude도 인정한 문제, Docker가 해결했다! AI 에이전트 효율성 극대화 비법 공개](https://livewiki.com/ko/content/claude-docker-ai-agent-efficiency)
   * [갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음 - YouTube](https://www.youtube.com/watch?v=szUo30BOZlo)
     * Notion MCP Server, Context 7, Microsoft Playwright MCP Server, Sequential Thinking, Figma MCP Server, PostgreSQL MCP, Browser Tools MCP, MCP YouTube
+  * [Anthropic extends MCP with a UI framework - The New Stack](https://thenewstack.io/anthropic-extends-mcp-with-an-app-framework/)
+    * [Anthropic, MCP에 UI 프레임워크 확장 - 대화형 AI를 ‘앱 플랫폼’으로 진화시키는 MCP Apps의 등장](https://digitalbourgeois.tistory.com/2677)
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
@@ -2190,6 +2208,7 @@ Artificial Intelligence
   * [배휘동 - 순정으로 시작해 내게 딱 맞는 워크플로우를 자라나게 하는 방법 (블로그에서 보시려면:... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0g5vqHYnwBAUCyzEPP7JTuCGRy3iBYsi76TchBQQYx7D6KFGEaAtzfCQgtnR8xvB6l)
 * [Top AI Coding Trends for 2026 - Beyond Vibe Coding](https://beyond.addy.ie/2026-trends/)
   * [2026년에 주목해야 할 AI 코딩의 주요 토픽과 트렌드 | GeekNews](https://news.hada.io/topic?id=26277)
+* [AI가 회사를 직접 운영하는 시대, Twin이 보여주는 자동화 비즈니스의 현실](https://digitalbourgeois.tistory.com/2686)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2591,6 +2610,7 @@ Artificial Intelligence
   * [오픈토크 역대 가성비 바이브코딩 GLM 코딩 플랜 함께 얘기하기 - YouTube](https://www.youtube.com/live/Kpbce3wUCKA)
     * [GLM 코딩 플랜 & 클로드 코드: 바이브 코딩 생산성 극대화 전략 (ft. 스킬스, 에이전트 SDK)](https://livewiki.com/ko/content/vibecoding-glm-coding-plan)
   * [🔥 GLM-4.7-Flash: 완전 무료! 30B급 최강 AI로 ChatGPT 비용 100% 절감하는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%81%E2%9C%A8GLM-47-Flash-GPT-5%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%AC%B4%EB%A3%8C-API%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [my-claude-code-setup: Shared starter template configuration and CLAUDE.md memory bank system for Claude Code](https://github.com/centminmod/my-claude-code-setup?fbclid=IwY2xjawPr9mpleHRuA2FlbQIxMQBicmlkETFqWGppaEhtSUhjS2lRbmNyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmyXFCYWkJ-Zg0BrMNOITWwpRb-gw97dgxjmIC4UYrFk9O75lDlCKq9Y0iF3_aem_PbXdXZy1kvwruQwL_y-row#using-zai-with-claude-code)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -2893,6 +2913,7 @@ Artificial Intelligence
     * [클로드 코드 무료 전환의 진짜 의미와 앤스로픽의 전략적 노림수](https://livewiki.com/ko/content/claude-code-free-3)
   * [**초보를 위한 Claude Code 안내서**](https://subicura.com/2025/09/08/ai-coding.html)
   * [Anthropic Just Added Task Management to Claude Code - YouTube](https://www.youtube.com/watch?v=6omInQipcag)
+  * [최훈민 - 🧑🏻‍💻 Claude Code 사용자라면 Boris Cherny의 팁을 듣기만 해도 생산성이 팍팍... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0344Qj9TefpLKrw2PL3pNEGBxuVAtezxLsVFQqrHnkRmbpNUog63Yw3SohBivsni2Ml&id=100083771214192)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
     * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
       * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
@@ -3030,6 +3051,7 @@ Artificial Intelligence
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
+    * [Claude Code로 카카오톡 메시지를 읽고 쓸 수 있는 플러그인을 만들었습니다. 1. 맥락을 파악하고 허락을 맡습니다. 무턱대로 메시지를 보내는게 아니라 이전 메시지를 읽고 적절한 메시지로 만듭니다. 그리고선 바로 보내는게 아니라 반드시 ask user question 으로 유저에게 반드시 메시지 내용을 보여주고 허락을 받습니다. 2… | 정구봉 Goobong Jeong | 19 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7418700836995899410-m9fH)
   * [ralph-claude-code: Autonomous AI development loop for Claude Code with intelligent exit detection](https://github.com/frankbria/ralph-claude-code)
     * [Anthropic의 비밀 병기 'Ralph Loop' 공개! Claude Code의 한계를 넘는 실전 워크플로우 - YouTube](https://www.youtube.com/watch?v=4IpL5tnbZFA)
       * [Anthropic Ralph Loop: Claude Code의 UI 개발 한계를 넘는 실전 워크플로우](https://livewiki.com/ko/content/anthropic-ralph-loop-claude-code)
@@ -3364,6 +3386,9 @@ Artificial Intelligence
 * [Modu-AI's Agentic Development Kit](https://github.com/modu-ai/moai-adk)
   * [Agentic Coding(에이전틱 코딩) | Facebook](https://www.facebook.com/groups/1015790320162945/?multi_permalinks=1125291609212815&hoisted_section_header_type=recently_seen)
   * [moai-adk | Code Wiki](https://codewiki.google/github.com/modu-ai/moai-adk)
+* [moltbook - the front page of the agent internet](https://www.moltbook.com/)
+  * [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/)
+    * [최승준 - Moltbook: 지금 인터넷에서 가장 흥미로운 공간 2026년 1월 30일, Simon Willison... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0yWtPueNf6Jhhpz9aBHGZLA1SV9tVnbk9LeqNW4oStP2oBukgUJyqXCwZYxvQQAjol)
 * [Moltbot — Personal AI Assistant](https://www.molt.bot/)
   * [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
     * [MoltBot 제작자: “나는 읽지 않은 코드를 배포한다” | GeekNews](https://news.hada.io/topic?id=26222)
@@ -3371,6 +3396,9 @@ Artificial Intelligence
   * [응 지워. 클로드봇, 몰트봇 해킹 위험! 어떻게 대처 해야할까? - YouTube](https://www.youtube.com/watch?v=KEM3Gqwz8sc)
   * [맥 미니 품절 대란의 주범! 오픈 소스 AI 'Clawdbot' 설치 전 필수 시청 - YouTube](https://www.youtube.com/watch?v=qtKpaGbiTSA)
   * [Moltbot - 모든 OS와 플랫폼에서 작동하는 개인용 AI 비서 | GeekNews](https://news.hada.io/topic?id=26122)
+  * [🔥 Github 역대 최고 속도 스타 달성한 개발자가 공개한 "AI 코딩 10가지 원칙" Moltbot(구 Clawdbot) 창시자 Peter Steinberger 의 인터뷰를 보고 적잖이 충격 받았어요. 그는 13년간 70명 규모 회사를 운영하고 매각한 후, 4년 휴식 끝에 2023년 4월 복귀한 베테랑인데요. 그가 말하는 AI 시대 개발은… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B3%A0-%EC%86%8D%EB%8F%84-%EC%8A%A4%ED%83%80-%EB%8B%AC%EC%84%B1%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EA%B0%9C%ED%95%9C-ai-%EC%BD%94%EB%94%A9-activity-7422780935894544384-LyWS)
+    * [The creator of Clawd: "I ship code I don't read" - YouTube](https://www.youtube.com/watch?v=8lF7HmQ_RgY)
+    * [🦞 Moltbot / Clawdbot Creator Peter Steinberger, Palmer Luckey, and more - YouTube](https://www.youtube.com/live/c4kLgSWUfC8)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
