@@ -7795,6 +7795,8 @@ Programming
 * [AI와 양자는 왜 결국 만날 수밖에 없는가… 스톡폴리오 사례로 본 ‘퀀텀 의료 AI’의 미래 < 사회 < 소셜 < 기사본문 - 뉴스로드](https://www.newsroad.co.kr/news/articleView.html?idxno=49643)
   * [AI와 양자는 왜 결국 만날 수밖에 없는가… 스톡폴리오 사례로 본 ‘퀀텀 의료 AI’의 미래 | Yeonwoo(Linslet) Oh](https://www.linkedin.com/posts/linsletoh_ai%EC%99%80-%EC%96%91%EC%9E%90%EB%8A%94-%EC%99%9C-%EA%B2%B0%EA%B5%AD-%EB%A7%8C%EB%82%A0-%EC%88%98%EB%B0%96%EC%97%90-%EC%97%86%EB%8A%94%EA%B0%80-%EC%8A%A4%ED%86%A1%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-%ED%80%80%ED%85%80-activity-7399232927617728512-l_Dh)
 * [양자컴퓨터, 언제 상용화될까? (AI 평행이론으로 본 5년 뒤 미래) - YouTube](https://www.youtube.com/watch?v=PExf7yshZms)
+* [“세상에 없던 연산 속도” 하버드 물리학 박사가 가장 쉽게 설명해 주는 양자 컴퓨터#과학 #EBS지식 - YouTube](https://www.youtube.com/watch?v=EfSuSGyECuo)
+  * [하버드 물리학 박사가 쉽게 설명하는 양자 컴퓨터의 모든 것 (중첩, 얽힘, 큐비트, 원리)](https://livewiki.com/ko/content/quantum-computer-harvard-physicist)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
