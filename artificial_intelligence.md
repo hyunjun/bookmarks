@@ -640,6 +640,8 @@ Artificial Intelligence
   * 4. 인간의 역할 변화: 개발자는 직접 코딩하는 시간보다 AI가 산출한 결과물의 논리적 결함을 검토하고 통합하는 설계자 역할 중요
 * [Open Coding Agents: Fast, accessible coding agents that adapt to any repo | Ai2](https://allenai.org/blog/open-coding-agents)
   * 강력한 코드 LLM을 저렴하게 구축, 적용 및 재현할 수 있도록 지원하는 효율적인 코딩 에이전트 및 학습 레시피의 공개 세트
+* [Sandboxing AI agents in Linux — Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+  * [리눅스에서 AI 에이전트를 샌드박싱하기 | GeekNews](https://news.hada.io/topic?id=26415)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -2732,6 +2734,8 @@ Artificial Intelligence
       * [클로드 스킬 완벽 정리: Subagent, MCP, Custom Commands 차이점 분석](https://livewiki.com/ko/content/claude-subagent-mcp-commands)
     * [How to Make Claude Code Skills Activate Reliably - Scott Spence](https://scottspence.com/posts/how-to-make-claude-code-skills-activate-reliably)
       * [Claude Skill 발동률 20% -> 84% 만드는 방법 좋다고 해서 열심히 추가한다. 막상 일 시켜보면 엥? 발동이 안 된다. 일부러 Skill 쓰라고 말해도 잘 안 된다. 잔뜩 Skill이 있어도 막상 발동이 안 되니 체감을 못했다. Scott Spence 블로그에서 스킬 발동률을 20%에서 84%로 끌어올리는 방법을 배웠다. 프롬프트를… | 송범근](https://www.linkedin.com/posts/bumgeunsong_claude-skill-%EB%B0%9C%EB%8F%99%EB%A5%A0-20-84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%A2%8B%EB%8B%A4%EA%B3%A0-%ED%95%B4%EC%84%9C-activity-7417148730602201088-zCSg)
+    * [Claude Code Skill 10만 개 중 진짜 살아남은 4개 | LinkedIn](https://www.linkedin.com/posts/jyoung105_claude-code-skill-10%EB%A7%8C-%EA%B0%9C-%EC%A4%91-%EC%A7%84%EC%A7%9C-%EC%82%B4%EC%95%84%EB%82%A8%EC%9D%80-4%EA%B0%9C-activity-7425792970475462656-utPs/)
+      * Superpowers, Humanizer, UI/UX Pro Max, Find Skills
     * [agent-browse: Claude Agent SDK with a web browsing tool](https://github.com/browserbase/agent-browse)
       * 브라우저 오토메이션하는 skill, 스킬 중 mcp 대비 효율이 단연코 높은 도메인이 브라우저 오토메이션
         * 정확도와 비용은 물론 특히나 속도가 어마어마하게 개선
