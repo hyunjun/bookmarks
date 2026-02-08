@@ -2250,6 +2250,9 @@ Javascript
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
   * [How to set up continuous integration with Circle CI, EmberJS, and GitHub](https://medium.freecodecamp.org/first-steps-into-continuous-integration-with-circle-ci-emberjs-and-github-1e273ea62f0c)
+* [EmulatorJS: A web-based frontend for RetroArch](https://github.com/EmulatorJS/EmulatorJS)
+  * [Home · EmulatorJS](https://emulatorjs.org/)
+  * [EmulatorJS - 콘솔 게임을 위한 웹 기반 프런트엔드 | GeekNews](https://news.hada.io/topic?id=26495)
 * [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
   * [Enact 개발환경 설정](https://devwaf.blogspot.com/2018/03/enact-20180329_30.html)
   * [Hello Enact
