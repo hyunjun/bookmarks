@@ -2548,6 +2548,8 @@ Artificial Intelligence
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
 * [Qwen3 Coder: Agentic Coding Assistant in the World](https://qwen3lm.com/)
   * [Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
+  * [Qwen3-Coder-Next: How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3-coder-next)
+    * [Qwen3-Coder-Next 로컬 실행 가이드와 모델 특징 정리](https://digitalbourgeois.tistory.com/2710)
 * [rams - AI Design Engineer & Design Reviews](https://www.rams.ai/) 접근성, 시각적 일관성 리뷰하는 디자인 엔지니어 스킬
 * [ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews](https://www.researchrabbit.ai/)
   * [김성원 - 연구자들을 위해 구축한 가장 강력한 문헌 조사 도구 Research Rabbit AI... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0x3vFUEVdampsvgB122a2JXSFVz5ZKqiKe3vMYmBuEPNoAERmirAquuHsShpS8tUTl)
