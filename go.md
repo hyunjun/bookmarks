@@ -911,6 +911,8 @@ Go
 * sidh [Golang: 양자 컴퓨터 이후의 암호기술 구현 패키지 sidh 분석](https://jusths.tistory.com/258)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [slog-ctx: The slog-ctx library is designed to facilitate handling context using slog](https://github.com/honestfunction/slog-ctx)
+* [spine: 요청 처리 과정을 명시적으로 드러내는 실행 중심 백엔드 프레임워크, Execution-centric backend framework that makes request handling explicit](https://github.com/NARUBROWN/spine)
+  * [웹 프레임워크 Spine을 직접 만들며 깨달은 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/3593/)
 * [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
 * [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
