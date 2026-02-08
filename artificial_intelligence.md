@@ -426,6 +426,7 @@ Artificial Intelligence
   * 4. 누적된 문맥을 통한 발전: 코드를 새로 배포하지 않아도 에이전트가 사용자의 작업 문맥을 기억하고 프롬프트를 최적화함으로써 시간이 지날수록 앱의 성능이 스스로 향상
 * [AI-Driven Development Lifecycle](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)
   * [AI 주도 개발 생명주기 (AI-DLC) 방법론 정의서 | AI-DLC 방법론 한국어 번역](https://serithemage.github.io/AI-DLC/)
+  * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
