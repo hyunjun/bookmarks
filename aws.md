@@ -584,6 +584,8 @@ AWS
 * [AWS 서비스 API 모델 레포지터리 및 Maven 패키지 정식 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions)
 * [기능 | AWS Builder Center](https://builder.aws.com/build/capabilities)
   * [AWS, ‘지역별 기능’ 도구로 클라우드 배포 계획 가시성 강화 | CIO](https://www.cio.com/article/4087211/aws-%EC%A7%80%EC%97%AD%EB%B3%84-%EA%B8%B0%EB%8A%A5-%EB%8F%84%EA%B5%AC%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%B0%B0%ED%8F%AC-%EA%B3%84%ED%9A%8D-%EA%B0%80%EC%8B%9C%EC%84%B1.html)
+* [Building Agentic AI systems with AWS Serverless • Uma Ramadoss • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=nAcyi2BGwMo)
+  * [AWS Serverless를 활용한 에이전트 AI 시스템 구축: 목표 지향적 AI를 위한 개발 가이드](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
