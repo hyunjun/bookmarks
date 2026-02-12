@@ -7798,6 +7798,8 @@ Programming
 * [양자컴퓨터, 언제 상용화될까? (AI 평행이론으로 본 5년 뒤 미래) - YouTube](https://www.youtube.com/watch?v=PExf7yshZms)
 * [“세상에 없던 연산 속도” 하버드 물리학 박사가 가장 쉽게 설명해 주는 양자 컴퓨터#과학 #EBS지식 - YouTube](https://www.youtube.com/watch?v=EfSuSGyECuo)
   * [하버드 물리학 박사가 쉽게 설명하는 양자 컴퓨터의 모든 것 (중첩, 얽힘, 큐비트, 원리)](https://livewiki.com/ko/content/quantum-computer-harvard-physicist)
+* [After Q-Day: Quantum Applications at Scale • Matthew Keesan • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=oE9dGufCxoo)
+  * [Q-Day 이후: 대규모 양자 애플리케이션 • 매튜 키슨 • YOW! 2025](https://livewiki.com/ko/content/q-day-quantum-applications-scale)
 * [Guppy](https://docs.quantinuum.com/guppy/)
   * [Guppy: Programming the Next Generation of Quantum Computers](https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers)
   * [파이썬으로 더 쉽게…퀀티뉴엄, 양자 프로그래밍 언어 '구피' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20250822092501)
