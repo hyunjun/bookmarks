@@ -427,6 +427,8 @@ Artificial Intelligence
 * [AI-Driven Development Lifecycle](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)
   * [AI 주도 개발 생명주기 (AI-DLC) 방법론 정의서 | AI-DLC 방법론 한국어 번역](https://serithemage.github.io/AI-DLC/)
   * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
+* [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
+  * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -3424,6 +3426,12 @@ Artificial Intelligence
   * [OpenClaw's Creator: "This Will Replace 80% of Your Apps" | Peter Steinberger - YouTube](https://www.youtube.com/watch?v=AcwK1Uuwc0U)
     * [OpenClaw: AI 비서로 삶을 혁신하는 방법 | Peter Steinberger](https://livewiki.com/ko/content/openclaw-ai-life-peter-steinberger)
     * [전종홍 - OpenClaw(구 Clawdbot)의 개발자인 피터 슈타인버거(Peter Steinberger)가 직접 이... | Facebook](https://www.facebook.com/1biit/posts/pfbid02pfpNtm1VrmNX8ZBM3BwKBq429zsXQecfQeGyLyTPBWBjD6RKZT2gQCsyUMrxhowpl)
+  * [OpenClaw (구 Moltbot, 구 Clawdbot) 리뷰(9) : OpenClaw가 똑똑한 이유는 'Pi' 때문? (OpenClaw의 심장, Pi: Self-extending 아키텍처 살펴보기)](https://goddaehee.tistory.com/512)
+  * [OpenClaw 윈도우 환경에서 Docker로 AI 에이전트 구축하기 (feat. Discord 연동) - YouTube](https://www.youtube.com/watch?v=FdbUWsqefPQ)
+  * [moltworker: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers](https://github.com/cloudflare/moltworker)
+  * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
+    * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
+    * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
