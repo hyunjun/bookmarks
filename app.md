@@ -2232,6 +2232,9 @@ App
 * [Ok! So... Draw online](https://okso.app/)
   * 아이디어 시각화 도구. 빠르게 아이디어를 스케치하고 하위 페이지 구성 가능, 아직 초기 베타 단계
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
+* [Pencil – Design on canvas. Land in code](https://www.pencil.dev/)
+  * [Claude Code로 동작하는 Figma 킬러앱 Pencil이 출시됐습니다. Claude Agent SDK를 사용해 내 Claude Code 토큰을 소모하면서 디자인을 합니다. 직접 앱을 뜯어봤습니다. Electron 앱이라 asar 파일을 추출해서 코드를 분석했어요. 그냥 디자인 도구가 아니라, Claude Code의 능력을 디자인 영역에 이식한… | 정구봉 Goobong Jeong | 11 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-figma-%ED%82%AC%EB%9F%AC%EC%95%B1-pencil%EC%9D%B4-%EC%B6%9C%EC%8B%9C%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7421318462238695424-5m0b)
+    * Claude Agent SDK를 사용해 내 Claude Code 토큰을 소모하면서 디자인
 * [**Pencil Project**](http://pencil.evolus.vn/)
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [Penrose: from mathematical notation to beautiful diagrams](https://penrose.ink/siggraph20.html)
