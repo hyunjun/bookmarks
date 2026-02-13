@@ -2839,6 +2839,7 @@ AWS
   * [How to use S3 presigned URLs for file uploads | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_secure-file-uploads-made-simple-mastering-activity-7393768959579299840-mXo9)
 * [Bucket monopoly : 간단한 S3 이름의 함정](https://beaver-dam.tistory.com/8)
 * [S3 server access logs at scale](https://engineeringblog.yelp.com/2025/09/s3-server-access-logs-at-scale.html)
+* [AWS Cloud Engineer Guide: Creating an S3 Bucket with AWS CLI and Migrating Data Using Sync | by Cloud with Hamza | Feb, 2026 | Medium](https://medium.com/@hamza46/create-an-s3-bucket-and-migrate-data-using-aws-s3-sync-d5f3ecafe511)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
