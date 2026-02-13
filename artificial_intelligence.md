@@ -2214,6 +2214,7 @@ Artificial Intelligence
 * [Top AI Coding Trends for 2026 - Beyond Vibe Coding](https://beyond.addy.ie/2026-trends/)
   * [2026년에 주목해야 할 AI 코딩의 주요 토픽과 트렌드 | GeekNews](https://news.hada.io/topic?id=26277)
 * [AI가 회사를 직접 운영하는 시대, Twin이 보여주는 자동화 비즈니스의 현실](https://digitalbourgeois.tistory.com/2686)
+* [Y Combinator "모든 앱은 사라지거나, API화 될 것“ OpenClaw 발표 이후 스타트업의 최전방에 있는 YC에서 이야기에요. 핵심 메세지는 5개입니다. 1. 모든 앱은 API가 되거나 사라진다. 2. 남는건 게임이나 센서 앱 뿐이다. 3. AI 에이전트가 소프트웨어의 소비자가 된다. 4. Personal AI가 워크플로우를… | Seolmin Jeong](https://www.linkedin.com/posts/seolmin_y-combinator-%EB%AA%A8%EB%93%A0-%EC%95%B1%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B1%B0%EB%82%98-api%ED%99%94-%EB%90%A0-%EA%B2%83-openclaw-activity-7425827195362897920-MKMW)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2560,6 +2561,7 @@ Artificial Intelligence
 * [Reworkd](https://auth.reworkd.ai/)
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
 * [SalesGPT: Context-aware AI Sales Agent to automate sales outreach](https://github.com/filip-michalsky/SalesGPT/)
+* [scholar-translator: Academic paper PDF translator with Korean language focus, powered by AWS Bedrock and preserving formulas, charts, and layouts](https://github.com/hi-space/scholar-translator)
 * [serena: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)](https://github.com/oraios/serena)
   * [Serena MCP 개요와 설치, Claude Code 통합 - Hans Tech Blog](https://hansdev.kr/tech/serena-mcp/)
   * [🤖 Serena: 무료 오픈소스 코딩 에이전트 툴킷 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Serena-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%88%B4%ED%82%B7-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -3432,6 +3434,7 @@ Artificial Intelligence
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
+    * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
