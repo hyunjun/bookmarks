@@ -1580,6 +1580,8 @@ Artificial Intelligence
     * [GitHub 저장소를 이용한 Smithery 서버 등록 및 배포](https://devway.tistory.com/65)
   * [unreal-mcp: Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP)](https://github.com/chongdashu/unreal-mcp)
     * [클로드가 언리얼 엔진을 자동으로 조작하는 시대가 왔다](https://www.facebook.com/reel/1589989091994992)
+  * [webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools)
+    * [WebMCP (Web Model Context Protocol) 공개 | GeekNews](https://news.hada.io/topic?id=26597)
 * [motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
   * [AI Agent Framework Built for Software Engineers](https://www.linkedin.com/posts/sumanth077_ai-agent-framework-built-for-software-engineers-activity-7307671067265810432-yB4q)
 * [NeMo: A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)](https://github.com/NVIDIA/NeMo)
