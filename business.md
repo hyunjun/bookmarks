@@ -340,6 +340,9 @@ Business
   * [7thPseudoCon 정이태 그래프 오마카세 주방장이 말하는 현업과 학업간 괴리 - Google Slides](https://docs.google.com/presentation/d/1U4ndOKl1SAnfYuR2Up9QNMG4y--8yfqI5_rhFBGsxn0/edit?slide=id.g25d16e6e663_0_71#slide=id.g25d16e6e663_0_71)
   * [팔란티어에서 FDE(forward deployed engineer)로 근무했던 Nabeel S. Qureshi 팔란티어 8년 회고글](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9A%94%EC%A6%98-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%EA%B8%80%EC%9D%B4-%EC%9D%B4%EC%A0%84-%EB%8C%80%EB%B9%84-%EB%8D%94%EC%9A%B1-%EB%A7%8E%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EA%B3%A0-activity-7352189163703558146-9a6C/)
     * 제품 이전에 사람과 조직문화가 중요
+* [The Anthropic Hive Mind. As you’ve probably noticed, something… | by Steve Yegge | Feb, 2026 | Medium](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
+  * [AI기업 Anthropic은 어떻게 일하는가](https://brunch.co.kr/@230kimi/47)
+  * [Anthropic이 OpenAI보다 잘하고 있는 핵심 포인트를 정리했습니다. 90일 이상 계획 없음, 일이 넘침, 정치 없음, Yes 모드, 도그푸딩. Steve Yegge가 Anthropic 직원 40명과 대화하고 쓴 'The Anthropic Hive Mind' 글에서 뽑은 6가지입니다. 1. Golden Age = 일 > 사람 일이 사람보다… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_anthropic%EC%9D%B4-openai%EB%B3%B4%EB%8B%A4-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A5%BC-%EC%A0%95%EB%A6%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7426380560358383617-fKli)
 * [Palantir 의 FDE 가 던지는 AI SI 업계에 시사점 Forward Deployed Engineer (FDE), 현장 배치 엔지니어. Palantir 가 정의하는 새로운 직무 포지션이자 그들의 차별화의 중심에 서 있는 키워드이다. 간단하게 요약하자면 "고객사 현장에 파견되어 복잡한 기술 문제를 해결하는 핵심 엔지니어"를 의미하며 조금 더… | Onion Kim | 11 comments](https://www.linkedin.com/posts/onion-kim-371976229_palantir%EC%9D%98-fde-%EA%B0%80-%EB%8D%98%EC%A7%80%EB%8A%94-ai-si-%EC%97%85%EA%B3%84%EC%97%90-%EC%8B%9C%EC%82%AC%EC%A0%90-forward-activity-7397625127481487361-gdJF)
 * [How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)](https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi)
   * [팔란티어 8년차가 말하는 창업자 사관학교가 된 비밀 팔란티어에서 거의 8년을 보냈습니다. Nabeel Qureshi는 FDE로 일하면서 프랑스에서 1년 반을 살았고, 에어버스와 NIH에서 수천만 달러 규모의 프로젝트를 이끌었습니다. 팔란티어를 떠나는 PM의 30%가 창업을 합니다. YC 창업자 중 팔란티어 출신이 구글 출신보다 많습니다. Nabeel의… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-8%EB%85%84%EC%B0%A8%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B0%BD%EC%97%85%EC%9E%90-%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EA%B0%80-%EB%90%9C-%EB%B9%84%EB%B0%80-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4%EC%97%90%EC%84%9C-%EA%B1%B0%EC%9D%98-8%EB%85%84%EC%9D%84-activity-7393796769731518465-9lRW)
@@ -2949,6 +2952,7 @@ Business
   * [The End of Engineering's Blank Check: Accountability in SW Leadership](https://notebooklm.google.com/notebook/860d1dd0-e4ea-49ec-a5b4-a4cbfcc23cb0)
 * [AI시대 리더의 자격은? (변형균 퓨처웨이브 대표) - YouTube](https://www.youtube.com/watch?v=w4c7yXzUmkI)
   * [AI 시대, 리더의 조건: 엔비디아 젠슨 황에게 배우는 조직 운영 전략과 인간 고유 역량](https://livewiki.com/ko/content/ai-leader-qualification)
+* ["경쟁은 성장의 동력이 아니다".. 1할대 타자는 어떻게 우승 감독이 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/lgtwins20260203)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
