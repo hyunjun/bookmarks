@@ -6849,6 +6849,9 @@ Programming
 * [맥킨지의 기술 트렌드 2024 100p PDF | GeekNews](https://news.hada.io/topic?id=16030)
 * [Thoughtworks Technology Radar, Volume 31 공개 | GeekNews](https://news.hada.io/topic?id=17466)
   * 테크닉/도구/플랫폼/개발언어 및 프레임워크 분야의 최신 트렌드들을 Hold/Assess/Trial/Adopt 4단계로 시각화 및 설명
+* [소프트웨어 산업의 미래는 신문이다 (마크 레너.. : 네이버블로그](https://blog.naver.com/mynameisdj/224178076111)
+  * [(2) Software-as-a-Newspaper - by Eugene Ting - csu_nerd](https://csunerd.substack.com/p/software-as-a-newspaper)
+  * [Microsoft and Software Survival – Stratechery by Ben Thompson](https://stratechery.com/2026/microsoft-and-software-survival/)
 * [멘토 Pick! 25년 4월 셋째 주 아티클 모음](https://f-lab.kr/blog/250421-devclub)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
@@ -7448,6 +7451,7 @@ Programming
   * [1월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/01/b-1-3.html)
   * [1월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/02/b-1-4.html)
   * [2월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/02/b-2-1.html)
+  * [2월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/02/b-2-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
