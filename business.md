@@ -1141,6 +1141,7 @@ Business
   * [(1) 박성철 - 조직의 역량 분포는 어떤 것이 이상적인가 생각하다가 찾은 논문이다. 기존 리더-팔로워의 단순 2단계 구조를... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0BJSinMo6wD24TeyGndWs2fXVT6AcEBTvYTrSioGVfAg8MntKqgPYDPi4ft1p4dMnl)
 * [Skills-based organizations | Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/talent/organizational-skill-based-hiring.html?ref=blog.comento.kr)
   * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
+* [“성과가 떨어지면 구조를 의심하라” IT 조직의 재편이 필요한 7가지 신호 | CIO](https://www.cio.com/article/4130532/%EC%84%B1%EA%B3%BC%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%A9%B4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%9D%98%EC%8B%AC%ED%95%98%EB%9D%BC-it-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%AC%ED%8E%B8.html)
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
@@ -1335,6 +1336,7 @@ Business
   * [일론머스크 회사 경영의 진짜 비밀. - YouTube](https://www.youtube.com/watch?v=SJCqdO1wLJA)
 * [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
   * [왜 당신의 최고 엔지니어들이 다른 곳에 면접을 보고 있을까 | GeekNews](https://news.hada.io/topic?id=25115)
+* [나이 많은 직원을 유지하는 장점에 대해 더 많은 기업이 주목하는 이유 | GeekNews](https://news.hada.io/topic?id=26431)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
