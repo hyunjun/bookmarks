@@ -429,6 +429,7 @@ Artificial Intelligence
   * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
 * [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
   * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
+* [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -705,7 +706,6 @@ Artificial Intelligence
     * 실제 코딩 전에 모델에게 먼저 다음 문서를 생성하게 할 것
       * README.md: 사람(개발자)을 위한 프로젝트 설명
       * [agents.md](https://agents.md/): 코딩 에이전트를 위한 작업 규칙·맥락
-      * [Claude.md](https://code.claude.com/docs/): Claude 전용 가이드(Claude 사용 시)
       * agents.md 품질을 높이기 위해, 모델에게 참고 레포지토리 분석을 먼저 요청하는 것이 중요
       * 생성된 파일들을 프로젝트 루트 디렉터리에 배치한 뒤 Codex/제미나이/클로드 또는 사용하는 코딩 에이전트 실행
       * 이렇게 하면 에이전트가 맥락을 정확히 이해한 상태로 코딩 시작
@@ -2414,6 +2414,7 @@ Artificial Intelligence
 * [기획자·운영자·창업자가 꼭 써봐야 할 바이브 코딩 도구 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3496/)
 * [Top 10+ Open Source No-Code AI Tools with the Most GitHub Stars | by Deep concept | Let’s Code Future | Dec, 2025 | Medium](https://medium.com/lets-code-future/top-10-open-source-no-code-ai-tools-with-the-most-github-stars-ef39a71cfddd)
 * [AI 한테 UI 센스 심어주는 도구 3가지 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_rams-design-engineer-for-claude-code-activity-7418645099066175488-PrGF)
+* [검색 말고 ‘리서치’ 잘하는 사람이 쓰는 도구 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3604/)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
@@ -2691,6 +2692,10 @@ Artificial Intelligence
 * [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
   * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
   * 2026년 기준, 개발자 85%가 AI 도구 사용 중, 생산성 향상을 위해 단순 자동완성에서 터미널 기반의 실행형 에이전트로 패러다임 전환
+* [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)
+  * 소프트웨어 개발 과정에서 속도만 치중하면, 프로젝트 중반(7~8주 차)에 기술 부채로 인해 수동적인 수정조차 불가능한 한계에 직면
+  * 단순한 코드 품질의 문제를 넘어, 미래의 소프트웨어 개발은
+    * 인간이 AI의 코딩 과정을 관리하고 검토하는 '감독형 프로그래밍'의 효율적인 워크플로우를 정립하는 방향으로 나아갈 것으로 예상
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -2803,7 +2808,6 @@ Artificial Intelligence
     * [배휘동 - 굉장히 좋은 클로드 코드 팁 모음 글을 발견했습니다.... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0rCvLoWSmmqnzcgiaECxo79Qi8fH2d89J8fS9S5tBFohnfxenoQ4DDVa1YnwtuPn7l)
     * [https://bagerbach.com/blog/how-i-use-claude-code... - Google Docs](https://docs.google.com/document/d/1u66_r4g9JsH-z8FKK3xvmENj26irSvDvnlAWwgdR-kI/edit?tab=t.0)
     * [Custom command to open Claude Code with optimized configurations. · GitHub](https://gist.github.com/spilist/6b065cda20c0e75436d018e147f0cad9)
-  * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
   * [Claude Code時代のソフトウェアエンジニア生存戦略｜suthio](https://note.com/suthio/n/n4f79fbe4efda)
     * [(2) 최진주 - <Claude Code 시대 개발자 생존전략> 클로드 코드가 나온 후 성능에 대한 찬사가 이어지고... | Facebook](https://www.facebook.com/pariscom/posts/pfbid023XVGk4o2QwJMtCziogV7LMbks5YRRpRtXGp2EqWi1GR3Qjedxis3qLB7H5syLxoAl)
   * [Claude Code 만들기](https://www.facebook.com/groups/langchainkr/posts/3318180704984305)
@@ -3008,7 +3012,7 @@ Artificial Intelligence
   * [claudekit: A toolkit of custom commands, hooks, and utilities for Claude Code](https://github.com/carlrannaberg/claudekit)
     * 매우 많은 기능 포함
     * thinking-level 0,1,2,3 을 정해두면 항상 think 레벨을 고정 가능, 3=ultrathink
-  * claude.md
+  * [Claude.md](https://code.claude.com/docs/): Claude 전용 가이드(Claude 사용 시)
     * [CLAUDE.md 템플릿 모음 | VIBE Coding Notes](https://hohyon.com/teaching/vibe-coding-notes/claude-md-templates/)
       * [유호현 - 지금까지 온갖 삽질 경험을 통해 만든 CLAUDE.md를 공개합니다. Claude Code에 이 내용들만... | Facebook](https://www.facebook.com/story.php?story_fbid=10172597058110023&id=634740022)
     * [CLAUDE.md 이렇게 쓰면 정말 편합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3339/)
@@ -3022,6 +3026,11 @@ Artificial Intelligence
         * 3. Subagents: 독립된 컨텍스트 창을 가진 별도의 AI 페르소나, 복잡한 문서 검색 등을 위임해 메인 대화의 토큰 낭비 방지
         * 4. Skills: 자동 감지 기능을 갖춘 고도화된 기능, 여러 파일과 패턴을 포함하여 전문적인 작업 수행
         * 5. 도구 선택 기준: 단순 지침 CLAUDE.md, 명시적 실행 슬래시 명령어, 컨텍스트 분리가 필요한 조사는 서브에이전트가 적합
+    * [claude code에게 gemini cli 와 협업하여 티키타카해보도록 CLAUDE.md에 룰을 추가](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1224496989369647&hoisted_section_header_type=recently_seen)
+    * [가장 좋은 Claude Code 강의는 Claude Code 자체 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code-overview-claude-code-docs-activity-7428223979623989248-kbGv)
+    * [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+      * [65 lines of Markdown - a Claude Code sensation | Blog](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
+        * [65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체 | GeekNews](https://news.hada.io/topic?id=26655)
   * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
@@ -3450,6 +3459,8 @@ Artificial Intelligence
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
     * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
+  * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
+    * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
