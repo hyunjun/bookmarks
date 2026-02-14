@@ -11,6 +11,8 @@ Self Control
 * [How to Improve Your Productivity and Time Management | Hama Develop](https://www.hamadevelop.me/time/)
 * [생산성을 높이는 방법 - Guide to Pe.. : 네이버블로그](https://blog.naver.com/bizucafe/223071723556)
 * [샘 알트먼의 생산성 (한글 번역) | Prod.. : 네이버블로그](https://blog.naver.com/bizucafe/223108381378)
+* [The Napoleon Technique: Postponing Things to Increase Productivity – Effectiviology](https://effectiviology.com/napoleon/)
+  * [나폴레옹 기법: 일을 미뤄서 생산성을 높이는 방법 | GeekNews](https://news.hada.io/topic?id=26615)
 * [할 일은 산더미인데 오늘도 또 미뤘다면? 게으름이 아닌 '감정 고장' 치료법 & 미루는 습관 끝장내는 법 | 이동귀 연세대학교 심리학과 교수 | 자기계발 성장 독서 | 잠바시 5회 - YouTube](https://www.youtube.com/watch?v=FMRjgvk97OU)
   * [게으름 탈출: 미루는 습관, 자책에서 벗어나 갓생 사는 법 (이동귀 교수)](https://livewiki.com/ko/content/laziness-escape-sleep-psychology)
 * ["맨날 미루는 사람들 꼭 보세요" 게으름에서 벗어나 갑자기 성실해지는 방법 (황농문 교수 통합본) - YouTube](https://www.youtube.com/watch?v=EDwIHbML0Zw)
