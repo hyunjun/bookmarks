@@ -2771,6 +2771,8 @@ Artificial Intelligence
       * [Token이 없어도 주식정보 조회가 가능한 FinanceDataReader를 사용 | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-mcp-anthropic-ugcPost-7390263921162620928-aEbc)
     * [claude-code-analyzer/SKILL.md at main · nicknisi/dotfiles](https://github.com/nicknisi/dotfiles/blob/main/home/.claude/skills/claude-code-analyzer/SKILL.md)
     * [claude-code-bmad-skills: BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment](https://github.com/aj-geddes/claude-code-bmad-skills)
+    * [kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)
+      * [코팩의 두번째 선물. 스킬을 검증하고, 스킬을 만들고, 스킬을 실행하는 스킬 무료 배포 - YouTube](https://www.youtube.com/watch?v=J1F8zH_QCt8)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
