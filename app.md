@@ -2229,6 +2229,8 @@ App
     * [Creating Beautiful Flowcharts with Chat GPT, Mermaid Live & Overleaf - YouTube](https://www.youtube.com/watch?v=UyMlSzlB3J0)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
+* [MonoSketch - Unleash your ideas with ASCII](https://monosketch.io/)
+  * [MonoSketch - ASCII 기반 다이어그램 제작 도구 | GeekNews](https://news.hada.io/topic?id=26675)
 * [Ok! So... Draw online](https://okso.app/)
   * 아이디어 시각화 도구. 빠르게 아이디어를 스케치하고 하위 페이지 구성 가능, 아직 초기 베타 단계
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
