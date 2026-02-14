@@ -26,6 +26,8 @@ Politics
 * [EQUALITY, EQUITY AND JUSTICE. “When God speaks about equity, that… | by Sandeep Kumar | Medium](https://medium.com/@sandeepkumar_52041/equality-equity-and-justice-5f71ebe31245)
   * [Equality vs Equity : 네이버 블로그](https://blog.naver.com/chungvelysam/221554707013)
   * <img src="images/reality_equality_equity_justice.jpg" alt="" width="300"/>
+* [Polis](https://pol.is/home2)
+  * [대규모 시민 숙의를 위한 오픈소스 플랫폼, Polis | GeekNews](https://news.hada.io/topic?id=26667)
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
