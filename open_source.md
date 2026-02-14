@@ -168,6 +168,7 @@ Open Source
   * [F-Droid와 Google의 개발자 등록 명령 | GeekNews](https://news.hada.io/topic?id=23361)
 * [쿠버네티스 '인그레스 엔진' 지원 중단, 오픈소스 구조적 한계 지적](https://v.daum.net/v/20251209103447853)
   * OpenCV도 유사하게 이미 와해되었단 이야기가 있음
+* [AI 시대, ‘닫힌 세계’로 향하는 오픈소스의 미래 | ITWorld](https://www.itworld.co.kr/article/4129811/ai-%EC%8B%9C%EB%8C%80-%EB%8B%AB%ED%9E%8C-%EC%84%B8%EA%B3%84%EB%A1%9C-%ED%96%A5%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%9D%98-%EB%AF%B8%EB%9E%98.html)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
