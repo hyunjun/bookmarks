@@ -2442,6 +2442,8 @@ Artificial Intelligence
   * 수백 편의 논문을 소화하고 모든 출처 링크와 함께 길고 깔끔한 리뷰를 제공할 수 있는 DeepResearch의 오픈 소스 대안
   * OpenAI의 DeepResearch보다 2배 빠르게 작동, 벤치마크 품질도 비슷하거나 더 높다는 평가
   * [DeepScholar라는 공개형 딥리서치 시스템을 출시했는데, 버클리와 스탠퍼드에서 만든 거라 꽤 신뢰할만 합니다. 수백 편의 논문을 빠르게 처리하고, OpenAI DR급 장문 연구 종합 능력을 내면서도 속도는 최대 두 배 정도 빠르다고 하네요. https://lnkd.in/gihR4wgm 연구 요약의 본질은 많은 문서를 분석하고 처리하는 능력인데… | 김덕중](https://www.linkedin.com/posts/duckjungkim_deepscholar%EB%9D%BC%EB%8A%94-%EA%B3%B5%EA%B0%9C%ED%98%95-%EB%94%A5%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%B6%9C%EC%8B%9C%ED%96%88%EB%8A%94%EB%8D%B0-%EB%B2%84%ED%81%B4%EB%A6%AC%EC%99%80-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C%EC%97%90%EC%84%9C-activity-7400043596462288896-1ZQE)
+* [DeepTutor](https://hkuds.github.io/DeepTutor/)
+  * [DeepTutor: "DeepTutor: AI-Powered Personalized Learning Assistant"](https://github.com/HKUDS/DeepTutor)
 * [Draftie - 4줄 아이디어가 2만자 전략 문서로](https://draftie.pro/)
   * [4줄의 아이디어가 2만자 전략 문서로 드래프티 베타를 공개한 지 7일이 지났습니다. 솔직히 말하면… “전략 문서 AI를 얼마나 써줄까?” 걱정이 컸습니다. 그런데 예상보다 훨씬 많은 분들이 찾아와 주셨습니다. - 50명 가입 - 생성 전환율 80% - 유료 전환율 10% 그리고 무엇보다 감사했던 건 고객 분들이 직접 10~20분씩 시간을… | Kyung Jin Jung](https://www.linkedin.com/posts/kyung-jin-jung_4%EC%A4%84%EC%9D%98-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B0%80-2%EB%A7%8C%EC%9E%90-%EC%A0%84%EB%9E%B5-%EB%AC%B8%EC%84%9C%EB%A1%9C-%EB%93%9C%EB%9E%98%ED%94%84%ED%8B%B0-%EB%B2%A0%ED%83%80%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EC%A7%80-7%EC%9D%BC%EC%9D%B4-activity-7402149123723997184-AfQH)
 * [eliza | eliza](https://elizaos.github.io/eliza/)
