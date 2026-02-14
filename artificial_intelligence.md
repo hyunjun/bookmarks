@@ -1794,6 +1794,8 @@ Artificial Intelligence
   * 업계 내 형성된 압박과 왜곡된 현실 인식
   * 전문가 진단: 생산성의 본질과 AI의 올바른 자리
   * 개발자가 취해야 할 자세: 데이터에 기반한 냉정한 평가
+* [2601.20245v2 How AI Impacts Skill Formation](https://arxiv.org/pdf/2601.20245)
+  * [AI 코딩이 오히려 개발자의 생산성을 떨어뜨린다? - Anthropic 논문](https://bcho.tistory.com/1500)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
   * 멋진 데이터로만 오염될 위기, 사람이 감소하는 인터넷: 사람이 만드는 데이터의 가치 상승
@@ -2511,6 +2513,7 @@ Artificial Intelligence
   * [NotebookLM Podcast . Interactive Mode Beta - Join the conversation! - YouTube](https://www.youtube.com/watch?v=ElDE8i-VgNo)
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
+  * [NotebookLM과 Google Gemini Gems를 함께 쓰는 방식 | LinkedIn](https://www.linkedin.com/posts/minjungkimcoco_%EC%9A%94%EC%A6%98-notebooklm-%EA%B3%A0%EC%88%98%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%94%81%EB%8B%88%EB%8B%A4-notebooklm%EA%B3%BC-share-7425809474478714880-I8WB/)
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
@@ -2685,6 +2688,9 @@ Artificial Intelligence
     * 에이전트는 처음에 기술의 메타데이터(설명)만 스캔하고, 관련성이 있을 때만 전체 내용을 읽어 효율성 극대화
   * 4. 구조적 관리
     * 규칙은 짧게 유지하고, 복잡한 절차나 체크리스트는 기술 단위로 분리하여 관리하는 것이 유지보수와 성능 면에서 유리
+* [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
+  * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
+  * 2026년 기준, 개발자 85%가 AI 도구 사용 중, 생산성 향상을 위해 단순 자동완성에서 터미널 기반의 실행형 에이전트로 패러다임 전환
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -2928,6 +2934,13 @@ Artificial Intelligence
   * [Anthropic Just Added Task Management to Claude Code - YouTube](https://www.youtube.com/watch?v=6omInQipcag)
   * [최훈민 - 🧑🏻‍💻 Claude Code 사용자라면 Boris Cherny의 팁을 듣기만 해도 생산성이 팍팍... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0344Qj9TefpLKrw2PL3pNEGBxuVAtezxLsVFQqrHnkRmbpNUog63Yw3SohBivsni2Ml&id=100083771214192)
   * [Claude ‘구독형’ 요금제가 API보다 최대 36배 저렴한 이유와 ‘Max 5x’가 진 | GeekNews](https://news.hada.io/topic?id=26256)
+  * [Anthropic 해커톤 우승자가 공유한 Claude Code 실전 팁 70가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3607/)
+    * [Claude_Code_완전_가이드_70가지_팁.pdf - Google Drive](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
+    * [claude-code-tips: 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin](https://github.com/ykdojo/claude-code-tips)
+    * [Advent of Claude: 31 Days of Claude Code — adocomplete](https://adocomplete.com/advent-of-claude-2025/)
+    * [18 Predictions for 2026](https://www.uxtigers.com/post/2026-predictions)
+    * [10 Usability Heuristics for User Interface Design - NN/G](https://www.nngroup.com/articles/ten-usability-heuristics/)
+    * [Get the most from Claude Opus 4.6 | Claude](https://claude.com/resources/tutorials/get-the-most-from-claude-opus-4-6)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
