@@ -4175,6 +4175,8 @@ Business
   * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 * [4 Lessons From a Failed Startup — From and For First Time Founders](https://medium.com/swlh/4-lessons-from-a-failed-startup-from-and-for-first-time-founders-c61913df3bb5)
 * [Ask HN: What Happened to Evernote? | Hacker News](https://news.ycombinator.com/item?id=30975586) fail
+  * [Evernote의 몰락, 한때 10억 달러 가치의 서비스는 어떻게 무너졌나 - 푸른곰의 모노로그](https://purengom.com/2026/02/04/evernote%ec%9d%98-%eb%aa%b0%eb%9d%bd-%ed%95%9c%eb%95%8c-10%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b0%80%ec%b9%98%ec%9d%98-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%ac%b4%eb%84%88/)
+  * [Evernote의 몰락, 다루지 못한 이야기들 - 푸른곰의 모노로그](https://purengom.com/2026/02/06/evernote%ec%9d%98-%eb%aa%b0%eb%9d%bd-%eb%8b%a4%eb%a3%a8%ec%a7%80-%eb%aa%bb%ed%95%9c-%ec%9d%b4%ec%95%bc%ea%b8%b0%eb%93%a4/)
 * [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
 * [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
 * [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
