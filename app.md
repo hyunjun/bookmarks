@@ -2375,6 +2375,8 @@ App
 * [pianochord.io: A pure frontend Web Application for people to browse through a large collection of piano chords](https://github.com/JNKKKK/pianochord.io)
   * [PianoChord.io - Explore Piano Chords Freely](https://pianochord.io/)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
+* [Piwigo - Open source photo management software](https://www.piwigo.org/)
+  * [개인용 사진 저장 프로젝트](https://share.evernote.com/note/b3d59803-7658-40b9-9ca6-d93021393374)
 * [pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos](https://github.com/pytube/pytube)
   * [pytube — pytube 11.0.1 documentation](https://pytube.io/)
   * [파이썬 유튜브 음원 추출 Youtube mp4 mp3](https://blog.naver.com/dsz08082/221753467977)
