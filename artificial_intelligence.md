@@ -2778,6 +2778,8 @@ Artificial Intelligence
         * 정확도와 비용은 물론 특히나 속도가 어마어마하게 개선
         * 프로덕션 환경에서 더 안정적인 것은 덤
       * browser use 에서 skill 기능을 발표해서 화제가 됐는데, 오픈소스로 사용 가능
+    * [ai-native-camp/camp-1: AI Native Camp 1기 강의 자료](https://github.com/ai-native-camp/camp-1)
+      * [강의 자료 대신 interactive하게 claude code를 배울 수 있는 SKILLS: AI Native Camp 1기 강의 자료 | 정구봉 Goobong Jeong | 30 comments](https://www.linkedin.com/posts/gb-jeong_github-ai-native-campcamp-1-ai-native-activity-7428551113521491968-9YA4)
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
@@ -3078,6 +3080,9 @@ Artificial Intelligence
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
+  * [COps - Code agent Ops](https://github.com/team-attention/cops/)
+    * [Create TanStack App - web](https://cops.team-attention.com/)
+    * [Vercel의 Claude 사용 팀은 비-Claude 팀보다 7.6배 자주 배포합니다. 매주 14%씩 가속 중입니다. Vercel CEO Guillermo Rauch가 직접 공개한 프로덕션 데이터입니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentioncops-cops-code-activity-7427463952588034048-T-lC)
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [Everything Claude Code - 해커톤 우승자의 AI 개발 팀 레시피 :: ROBOCO](https://roboco.io/posts/everything-claude-code-distilled/)
@@ -3109,6 +3114,7 @@ Artificial Intelligence
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
     * [Claude Code로 카카오톡 메시지를 읽고 쓸 수 있는 플러그인을 만들었습니다. 1. 맥락을 파악하고 허락을 맡습니다. 무턱대로 메시지를 보내는게 아니라 이전 메시지를 읽고 적절한 메시지로 만듭니다. 그리고선 바로 보내는게 아니라 반드시 ask user question 으로 유저에게 반드시 메시지 내용을 보여주고 허락을 받습니다. 2… | 정구봉 Goobong Jeong | 19 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7418700836995899410-m9fH)
+    * [/clarify 스킬을 업데이트했습니다. metamedium, unknwon라는 프레임워크를 기반으로 총 3가지 스킬로 만들어두었어요. 기존 스킬은 이제 vague 라는 이름으로 부릅니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentionplugins-for-claude-natives-activity-7426767193155231744-NY5Q)
   * [ralph-claude-code: Autonomous AI development loop for Claude Code with intelligent exit detection](https://github.com/frankbria/ralph-claude-code)
     * [Anthropic의 비밀 병기 'Ralph Loop' 공개! Claude Code의 한계를 넘는 실전 워크플로우 - YouTube](https://www.youtube.com/watch?v=4IpL5tnbZFA)
       * [Anthropic Ralph Loop: Claude Code의 UI 개발 한계를 넘는 실전 워크플로우](https://livewiki.com/ko/content/anthropic-ralph-loop-claude-code)
