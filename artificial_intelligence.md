@@ -2235,6 +2235,8 @@ Artificial Intelligence
   * [2026년에 주목해야 할 AI 코딩의 주요 토픽과 트렌드 | GeekNews](https://news.hada.io/topic?id=26277)
 * [AI가 회사를 직접 운영하는 시대, Twin이 보여주는 자동화 비즈니스의 현실](https://digitalbourgeois.tistory.com/2686)
 * [Y Combinator "모든 앱은 사라지거나, API화 될 것“ OpenClaw 발표 이후 스타트업의 최전방에 있는 YC에서 이야기에요. 핵심 메세지는 5개입니다. 1. 모든 앱은 API가 되거나 사라진다. 2. 남는건 게임이나 센서 앱 뿐이다. 3. AI 에이전트가 소프트웨어의 소비자가 된다. 4. Personal AI가 워크플로우를… | Seolmin Jeong](https://www.linkedin.com/posts/seolmin_y-combinator-%EB%AA%A8%EB%93%A0-%EC%95%B1%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B1%B0%EB%82%98-api%ED%99%94-%EB%90%A0-%EA%B2%83-openclaw-activity-7425827195362897920-MKMW)
+* [Spotify says its best developers haven't written a line of code since December, thanks to AI | TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/)
+  * [스포티파이의 AI 기반 개발 프로세스 혁신 및 성과 ❖ 개발 패러다임의 변화:... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid02q4sLVkmkrhuu9MahNdLDWseGwDaAfBa7CYEDaek8ypS1XKJBX6UuL2fQbKtdmz8Hl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
