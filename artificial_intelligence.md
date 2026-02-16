@@ -225,7 +225,6 @@ Artificial Intelligence
 * [AI Training Orchestration Evolution with Serverless Building Blocks - YouTube](https://www.youtube.com/watch?v=spkhx7kSe3A)
   * [VidiGo AI Training Orchestration Evolution with Serverles](https://vidigo.ai/share/summary/c57796ab220f)
   * [서버리스 빌딩 블록을 통한 AI 트레이닝 오케스트레이션의 진화 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/804569)
-* [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
 * [Writing Path: MBTI J처럼 체계적으로 글쓰는 AI](https://d2.naver.com/helloworld/8011540)
 * [AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리! - YouTube](https://www.youtube.com/watch?v=GhDpjskMdQQ) ChatGPT + Midjourney + Runway Gen-3
   * [VidiGo AI로 이미지, 영상, 음악 단 5분만에 만드는 법 총정리!.mp4](https://vidigo.ai/share/summary/dbbcfa4c529f)
@@ -407,7 +406,10 @@ Artificial Intelligence
 * [Sycophancy is the first LLM "dark pattern"](https://www.seangoedecke.com/ai-sycophancy/)
   * [LLM의 첫 번째 ‘다크 패턴’은 아첨(sycophancy)이다 | GeekNews](https://news.hada.io/topic?id=24842)
 * [AI 시대에 파이썬 개발자가 쌓아야 할 비파이썬적 소양들 | 요즘IT](https://yozm.wishket.com/magazine/detail/3479/)
-  * [오윤명_-_AI_시대에_파이썬_개발자가_쌓아야_할_비파이썬적_소양들.pdf](https://s3.ap-northeast-2.amazonaws.com/pyconkr-backend-prod-public/public/%EC%98%A4%EC%9C%A4%EB%AA%85_-_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80_%EC%8C%93%EC%95%84%EC%95%BC_%ED%95%A0_%EB%B9%84%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%A0%81_%EC%86%8C%EC%96%91%EB%93%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAXRG76FVYGQNJREJX%2F20251207%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Date=20251207T091940Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIgCy7WTD42kOjqJTQEJ%2BQQrOfM58OBNVbQ1AyC8ygjy8gCIQCVpH0r1E1F8nT%2BllNuJoxIhliPN%2B7yu%2FsEqzq1K4bKbiqKAwiK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDUxODAxMzIwMTc3NiIMn%2BME30qb7eqdQooiKt4CkRiDjPiCo2utAV4wY7H1dF%2BhP4j%2FhdE7%2BBLI%2FE20bpUdFSUWcrpFEMBJZojfew1y3XHnWM%2BIJn%2BF3iYMGoguejMa3bgRgDSgAqQBrvcuZigQTvF4SgAWInlolCnXojFTAxyMFPyovm8oCY1SUuEWpe%2FHPWNVp5%2BABFZoUK3M%2F3vuoAqX%2FhiXipK%2B77jhGtOy9IvikJwTHZq7SeHFCOy%2FkLs6H6J33iEYEPO4ayeSCjALrGO7fMZzvRDEvtu2E%2FHrIzNhi%2FCqbg0BbTUezJjuNJo7V9Lm8%2FJmXjxMefsXU3a4gG5tL8rLGATEkRMyUDlfPIeSYqGv%2BZXfX2jRIhpmiiC2iB%2Fih9KtKS7RYIlMF%2BczqIKYnUtv%2FzR7LP3kn3t%2F5AN%2B67RMyuscrthlcW%2FoBhHUS6sRxbBZ8Co5ropsw9cEdWk0hp1eXyzySX08KzMXTJkmLeeIdD65oj9IdC4wgIrVyQY6ngEd1iyDPbP8sp1HZXVvj4X5ri9hiCdQqsGvQdFIoQ0j4zOtoxh%2FMnA97lOxdNy71Nqmn4k8YG8qHDshKAdd1XGMhyDeCKt9DyavA8R7t13rEDrqwK4nHXhwIy3zpKXh8k1dDlf7atWidO5W%2BR%2B6R8WsCMiQuLkRnjyYw6HFcq8tuuY9QjYQ%2FgsK0iSSim02Jcvy7mf0j7CGPmQwbFYxDA%3D%3D&X-Amz-Signature=5c13807cb11e5b9862dc5105348d88f1b90966bc022e5e07aab6b580b5658bcb)
+  * [오윤명_-_AI_시대에_파이썬_개발자가_쌓아야_할_비파이썬적_소양들.pdf](https://s3.ap-northeast-2.amazonaws.com/pyconkr-backend-prod-public/public/%EC%98%A4%EC%9C%A4%EB%AA%85_-_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80_%EC%8C%93%EC%95%84%EC%95%BC_%ED%95%A0_%EB%B9%84%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%A0%81_%EC%86%8C%EC%96%91%EB%93%A4.pdf)
+* [Code is cheap. Show me the talk. - nadh.in](https://nadh.in/blog/code-is-cheap/)
+  * [코드는 싸다. 이제는 ‘말’을 보여줘라 | GeekNews](https://news.hada.io/topic?id=26333)
+  * "Talk is cheap. Show me the code" — Linus Torvalds, August 2000 이 말을 뒤집는 pun
 * [The Death of Classical Computer Science • Matt Welsh & Julian Wood - YouTube](https://www.youtube.com/watch?v=P-8N7erpC9M)
   * [고전 컴퓨터 과학의 종말: AI 시대의 프로그래밍 미래와 사회적 영향](https://livewiki.com/ko/content/death-classical-computer-science)
 * [LLM vs RAG vs Agents 개념 한 번에 정리! "이 세개를 구분할 줄 알아야 AI를 이해할 수 있다" | Suk Hyun K. | 12 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_aiagents-llm-rag-activity-7397021160422404096-Ymsl)
@@ -2215,7 +2217,6 @@ Artificial Intelligence
   * [그녀의 딸은 무너져 내리고 있었지만, 그녀는 이유를 몰랐습니다. 그러다 AI 채팅 로그를 발견했습니다](https://www.facebook.com/anywhereanytime/posts/pfbid0A3MNNVY9owxTtFJf8Tsyu7sHr6ayiAbqFz5TrGpotukS4Q3Hke4gYUehupq9BLc7l)
 * ["AI로 인건비 줄이려다 비용만 늘어"…뼈아픈 ‘도어맨 오류’ - ZDNet korea](https://zdnet.co.kr/view/?no=20251228085643)
 * [“AI 시대의 경쟁력, 역설적이게도 가장 고전적 기본기에서 나와”](https://v.daum.net/v/20251225160749932)
-* ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
 * [현업에 번진 AI 기대감, 리더십 부재로 추진력 잃다 | CIO](https://www.cio.com/article/4111486/%ED%98%84%EC%97%85%EC%97%90-%EB%B2%88%EC%A7%84-ai-%EA%B8%B0%EB%8C%80%EA%B0%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B6%80%EC%9E%AC%EB%A1%9C-%EC%B6%94%EC%A7%84%EB%A0%A5-%EC%9E%83%EB%8B%A4.html)
 * [개발자 AI 지원, 어디까지 왔나…앤트로픽·토스·올리브영 등이 전한 현장의 고민과 전망 | CIO](https://www.cio.com/article/4111488/%EA%B0%9C%EB%B0%9C%EC%9E%90-ai-%EC%A7%80%EC%9B%90-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%99%94%EB%82%98%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%C2%B7%ED%86%A0%EC%8A%A4%C2%B7%EC%98%AC%EB%A6%AC.html)
 * [우리가 15년간 배운 전략의 70%를 버려야 했던 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3544/)
@@ -2343,8 +2344,12 @@ Artificial Intelligence
     * 이 미세먼지를 들이마시는 순간, 뇌 속의 거울신경(mirror neuron) 이 작동하기
 
 # Security
+* [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
 * [클릭하지 않는 세상, 로그도 남지 않는 보안 위협](https://law-difficult-tech-people.tistory.com/55)
 * [AI의 "치명적인 삼중 위협"을 막는 방법 | GeekNews](https://news.hada.io/topic?id=23396)
+* ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
+* [오픈클로, 실제 행동하는 AI가 만든 새로운 보안 위기 | ITWorld](https://www.itworld.co.kr/article/4126872/%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B3%B4%EC%95%88-%EC%9C%84%EA%B8%B0.html)
+* [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
