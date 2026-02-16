@@ -400,6 +400,7 @@ SQL
   * [Explaining the 5 types of database and how to choose between them — Tibs - YouTube](https://www.youtube.com/watch?v=YZmyumwFWOg)
   * [데이터베이스 5가지 유형과 선택 가이드: 관계형, 컬럼, 문서, 키-값, 그래프](https://livewiki.com/ko/content/database-types-choose-tibs)
 * [밑바닥 부터 구현하는 데이터베이스 1 - 운영체제에 파일을 어떻게 읽고 쓸까? - Roach Wiki](https://roach-wiki.com/wiki/doc-1762867059)
+* [SQ라이트의 대안, 설치 없이 바로 쓰는 데이터베이스 4종 | ITWorld](https://www.itworld.co.kr/article/4127743/sq%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%8C%80%EC%95%88-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-4%EC%A2%85.html)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -624,7 +625,9 @@ SQL
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
-* [sqldef: Idempotent schema management for MySQL, PostgreSQL, and more](https://github.com/k0kubun/sqldef)
+* [sqldef.github.io](https://sqldef.github.io/)
+  * [sqldef: Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server](https://github.com/sqldef/sqldef)
+  * [Sqldef: MySQL, PostgreSQL, SQLite용 멱등적 스키마 관리 도구 | GeekNews](https://news.hada.io/topic?id=26557)
 * [sqlglot: Python SQL Parser and Transpiler](https://github.com/tobymao/sqlglot)
 * [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
@@ -1506,6 +1509,8 @@ SQL
   * [OpenAI: 8억 명의 사용자를 지탱하는 PostgreSQL 대규모 확장 전략 | GeekNews](https://news.hada.io/topic?id=26069)
   * [오픈AI가 8억 사용자를 PostgreSQL로 처리하는 비결 - YouTube](https://www.youtube.com/watch?v=RKl6NZ2msTg)
     * [OpenAI는 왜 8억 사용자 DB를 단일 PostgreSQL로 운영할까?](https://livewiki.com/ko/content/openai-800m-users-postgresql)
+* [It’s 2026, Just Use Postgres | Tiger Data](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
+  * [2026년, 그냥 Postgres를 쓰자 (It's 2026. Just Use Postgr | GeekNews](https://news.hada.io/topic?id=26388)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
