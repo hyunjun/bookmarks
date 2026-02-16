@@ -430,6 +430,9 @@ Artificial Intelligence
 * [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
   * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
+* [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
+  * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
+    * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero | Dongwook Park](https://www.linkedin.com/posts/lewis34_what-is-agentic-sre-the-next-evolution-of-activity-7426621751188672512-FsxS)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -647,6 +650,16 @@ Artificial Intelligence
 * [Sandboxing AI agents in Linux — Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
   * [리눅스에서 AI 에이전트를 샌드박싱하기 | GeekNews](https://news.hada.io/topic?id=26415)
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
+* [The System Design Behind Stripe’s Minions AI Factory - YouTube](https://www.youtube.com/watch?v=GQ6piqfwr5c)
+  * [스트라이프 AI 코딩 에이전트: 주 1,000개 이상 PR 병합 비밀 (6계층 아키텍처)](https://livewiki.com/ko/content/stripe-ai-agents-pull-requests)
+  * [1조 달러 결제를 처리하는 Stripe가 AI에게 코딩을 맡기는 방법 - YouTube](https://www.youtube.com/watch?v=etiHx4RJil0)
+  * 스트라이프(Stripe)는 '미니언스(Minions)'라 불리는 AI 코딩 에이전트를 통해
+    * 인간의 개입 없이 매주 1,000개 이상의 코드를 병합하는 완전 무인화된 개발 워크플로우를 구축
+  * 핵심은 단순한 AI 모델 성능이 아니라, 오픈소스 에이전트를 감싸고 있는 6계층의 하이브리드 아키텍처와 독자적인 개발 인프라
+  * 이들은 AI의 창의적 코드 작성과 결정론적인 하드코딩 게이트(린터, 테스트 등)를 결합하고
+    * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
+  * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
+    * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -719,6 +732,7 @@ Artificial Intelligence
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [Agent Skills](https://agentskills.io)
   * [Claude 가 만든 skills 가 OpenAI, Cursor 등이 받아들이며 agentskills.io 라는 표준... 이제 SKILL.md, scripts/, references/, assets/ 구조를 따르지 않으면 성능 하락](https://www.linkedin.com/posts/gb-jeong_claude-%EA%B0%80-%EB%A7%8C%EB%93%A0-skills-%EA%B0%80-openai-cursor-%EB%93%B1%EC%9D%B4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%9D%B4%EB%A9%B0-activity-7408299241556606976-Ol2y/)
+  * [🔍 Anthropic 이 공개한 SKILL.md body 작성 규칙 5가지, 문서에 숨어 있었습니다 놓치기 쉬운 부분입니다. Skill 은 YAML frontmatter 두 줄이면 만들 수 있지만 body 를 어떻게 쓰느냐에 따라 결과물 품질이 완전히 갈리거든요. Anthropic 공식 문서와 엔지니어링 블로그를 교차 검증하면서 작동 구조와… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_anthropic-%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-skillmd-body-%EC%9E%91%EC%84%B1-%EA%B7%9C%EC%B9%99-5%EA%B0%80%EC%A7%80-activity-7428729561946722304-O3kE)
 * [Agent TARS](https://agent-tars.com/)
   * [UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra](https://github.com/bytedance/UI-TARS-desktop)
   * [GUI Agent와 Vision을 터미널, 컴퓨터, 브라우저에 통합해주는 멀티모달 AI Agent 스택을 오픈소스로 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-tiktok-snyuiosqsswm-activity-7416618742526201856-wNFN)
@@ -3460,6 +3474,9 @@ Artificial Intelligence
   * [OpenClaw (구 Moltbot, 구 Clawdbot) 리뷰(9) : OpenClaw가 똑똑한 이유는 'Pi' 때문? (OpenClaw의 심장, Pi: Self-extending 아키텍처 살펴보기)](https://goddaehee.tistory.com/512)
   * [OpenClaw 윈도우 환경에서 Docker로 AI 에이전트 구축하기 (feat. Discord 연동) - YouTube](https://www.youtube.com/watch?v=FdbUWsqefPQ)
   * [moltworker: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers](https://github.com/cloudflare/moltworker)
+  * [NadirClaw: Nadir Router for OpenClaw](https://github.com/doramirdor/NadirClaw)
+    * [OpenClaw AI Community (Formerly Clawdbot, Moltbot) The AI Agent | I had a moment last week where I maxed out my Claude because of openClaw | Facebook](https://www.facebook.com/groups/marketingngrowth/posts/928139326337488/)
+    * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
