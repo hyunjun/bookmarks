@@ -2791,6 +2791,8 @@ Artificial Intelligence
     * [kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)
       * [코팩의 두번째 선물. 스킬을 검증하고, 스킬을 만들고, 스킬을 실행하는 스킬 무료 배포 - YouTube](https://www.youtube.com/watch?v=J1F8zH_QCt8)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
+    * [smart-cowork-life/smart-cowork-life at main · modu-ai/smart-cowork-life](https://github.com/modu-ai/smart-cowork-life/tree/main/smart-cowork-life)
+      * [Goos Kim - @팔로워 모두의AI 4번째 오픈소스, Claude Cowork Plugin '슬기로운 코워크... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0271svtLduk3CPFprSSJU8WdBSgmhU7uqpR7X9TfcjMNxWokKxVAxATzBPAh7fitAql)
     * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
