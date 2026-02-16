@@ -481,6 +481,9 @@ Data Science
   * 데이터 엔지니어링 분야의 중요 연구 백서 모음
   * 데이터 플랫폼 아키텍처, 분산 시스템, 대용량 데이터처리, 데이터 카탈로그, 그리고 AI 연관 기술까지 광범위한 주제를 포괄
   * 최신 분산 SQL 시스템, 데이터 레이크 하우스, 데이터 스트리밍, 그리고 대규모 데이터 분석 기술을 이해하는 데 필수적인 백서들도 포함
+* [Table of Contents - Data Engineering for Large Models: Architecture, Algorithms & Projects](https://datascale-ai.github.io/data_engineering_book/en/)
+  * [data_engineering_book/README_en.md at main · datascale-ai/data_engineering_book](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
+  * [대규모 모델을 위한 데이터 엔지니어링: 아키텍처, 알고리듬 및 프로젝트 | GeekNews](https://news.hada.io/topic?id=26712)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
