@@ -828,6 +828,8 @@ AWS
 * [Prompt Management for Amazon Bedrock - AWS](https://aws.amazon.com/bedrock/prompt-management/)
   * [Prompt Optimization in Amazon Bedrock now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available/)
   * [Amazon Bedrock – Prompt Optimization 정식 출시!](https://www.linkedin.com/posts/woohyungchoi_prompt-optimization-in-amazon-bedrock-now-activity-7321036702171439104-wQgi/)
+* [sample-aws-kr-enterprise/ai-ml/bedrock-detailed-monitoring-dashboard at main · aws-samples/sample-aws-kr-enterprise](https://github.com/aws-samples/sample-aws-kr-enterprise/tree/main/ai-ml/bedrock-detailed-monitoring-dashboard)
+  * [요즘 Claude Code on Bedrock 을 구성해서 우주에서 가장 보안이 뛰어난 환경에서 Claude Code 를 마음껏 활용하고 있다. 그러다 문득 내가 토큰을 얼마나 불태우고 있나 궁금해서 CloudWatch 에 이런 저런 수학표현식 잔뜩 활용하여 대시보드를 구성했었다. 그러다 캐시로 절감 효과도 좀 보고 싶고, 모델 별로 활용에 따라 비용… | Hyobin An](https://www.linkedin.com/posts/hyobin-an-a139a888_%EC%9A%94%EC%A6%98-claude-code-on-bedrock-%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%B4%EC%84%9C-%EC%9A%B0%EC%A3%BC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-activity-7428061872874000384-vpsI)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
