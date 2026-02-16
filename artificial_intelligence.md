@@ -662,6 +662,7 @@ Artificial Intelligence
     * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
   * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
     * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
+* [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
