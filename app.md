@@ -1653,6 +1653,7 @@ App
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Awesome Mac application sharing recommendation - Awesome Mac](https://wangchujiang.com/awesome-mac/)
   * [awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories](https://github.com/jaywcjlove/awesome-mac)
+* [awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [cactusformac.com](http://cactusformac.com/)
 * Calculator
@@ -1757,6 +1758,8 @@ App
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
+* [Mole: 🐹 Deep clean and optimize your Mac.](https://github.com/tw93/Mole)
+  * [Mole - Mac을 깊게 청소하고 최적화하는 올인원 도구 | GeekNews](https://news.hada.io/topic?id=26527)
 * [MonitorControl: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs](https://github.com/MonitorControl/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
@@ -3160,6 +3163,8 @@ App
   * [Module 6 - Hands-On Lab: Working with CIM and WMI Technologies in Windows PowerShell - YouTube](https://www.youtube.com/watch?v=SxMkE98bTSY)
   * [Bloodguy :: Windows 배치 스크립트 파일을 관리자 권한으로 실행시 현재 디렉토리 (current working directory when run batch script as administrator, UAC, %cd%)](https://bloodguy.tistory.com/entry/Windows-%EB%B0%B0%EC%B9%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B6%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-current-working-directory-when-run-batch-script-as-administrator-UAC-cd)
   * [윈도우 파워셸 스크립팅이란 무엇인가요? - All Things N](https://new.atsit.in/23163/)
+* [psmux - Terminal Multiplexer for Windows | tmux Alternative](https://psmux.pages.dev/)
+  * [psmux: Tmux on Windows Powershell - tmux alternative for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is your Tmux on Windows](https://github.com/marlocarlo/psmux)
 * putty
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
   * [How to export/import PuTTy sessions list?](https://stackoverflow.com/questions/13023920/how-to-export-import-putty-sessions-list)
