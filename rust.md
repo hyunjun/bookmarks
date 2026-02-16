@@ -219,6 +219,15 @@
     * Rust로의 migration뿐만 아니라 그와 관련된 많은 이야기가 있음
 * [Rust running on every GPU | Rust GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
   * [Rust를 모든 GPU에서 실행하기 성공 | GeekNews](https://news.hada.io/topic?id=22188)
+* [Deploying Rust to production checklist](https://kerkour.com/rust-production-checklist)
+  * Rust 서비스를 실제 운영 환경(Production)에 배포하기 위해 필요한 보안, 성능, 안정성 측면 필수 체크리스트 정리
+    * 단순 코드 작성을 넘어 Docker 최적화, 컴파일러 설정, 로깅 및 모니터링 체계 구축 등 견고한 인프라와 운영 전략이 핵심
+  * 1. 아티팩트 최적화
+    * cargo build --release 사용은 기본, LTO(Link Time Optimization) 활성화/심볼 제거(strip)를 통해 바이너리 크기 감소 실행 속도 향상
+  * 2. 보안 강화
+    * 루트 권한이 없는(non-root) 사용자로 컨테이너 실행, distroless나 alpine 같은 최소형 베이스 이미지를 사용하여 공격 표면 축소
+  * 3. 관측 가능성(Observability): tracing 크레이트로 구조화된 로깅/Prometheus 등을 이용한 메트릭 수집으로 시스템 내부 상태 가시화
+  * 4. 의존성 관리: cargo-audit을 통해 알려진 취약점 주기적 점검, 의존성 라이브러리 개수를 최소화하여 공급망 공격 리스크 관리
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -275,9 +284,11 @@
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [The success of Go heralds that of Rust](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
-* [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
-* [Why discord switched from Go to Rust? - YouTube](https://www.youtube.com/watch?v=viJ92zBa5yc)
-* [Yong Kang Chia on LinkedIn: Why Discord is switching from Go to Rust | 25 comments](https://www.linkedin.com/posts/chiayong-eth_why-discord-is-switching-from-go-to-rust-activity-7135995746130030592-Bst6)
+* [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
+  * [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+  * [Why discord switched from Go to Rust? - YouTube](https://www.youtube.com/watch?v=viJ92zBa5yc)
+  * [Yong Kang Chia on LinkedIn: Why Discord is switching from Go to Rust | 25 comments](https://www.linkedin.com/posts/chiayong-eth_why-discord-is-switching-from-go-to-rust-activity-7135995746130030592-Bst6)
+  * [디스코드는 왜 Go를 버리고 Rust로 갔을까? | 아티클 딥 다이브 - YouTube](https://www.youtube.com/watch?v=-RG5b1me91o)
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
 * ["러스트"와 "고"를 선택하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/186713)
