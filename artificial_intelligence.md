@@ -2973,6 +2973,7 @@ Artificial Intelligence
     * [18 Predictions for 2026](https://www.uxtigers.com/post/2026-predictions)
     * [10 Usability Heuristics for User Interface Design - NN/G](https://www.nngroup.com/articles/ten-usability-heuristics/)
     * [Get the most from Claude Opus 4.6 | Claude](https://claude.com/resources/tutorials/get-the-most-from-claude-opus-4-6)
+  * [개발자 6인, 비개발자 4인의 클로드 코드 실전 사례집 | 요즘IT](https://yozm.wishket.com/magazine/detail/3610/)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
