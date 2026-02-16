@@ -725,6 +725,7 @@ Artificial Intelligence
       * 이렇게 하면 에이전트가 맥락을 정확히 이해한 상태로 코딩 시작
   * [코딩 에이전트 성능을 20배 올리는 가장 쉬운 방법 | AGENTS.md로 표준 규칙 파일 정의하기 - YouTube](https://www.youtube.com/watch?v=LHx_EFoLonQ)
     * [AGENTS.md로 코딩 에이전트 성능 20배 올리는 표준 규칙 파일 정의 방법](https://livewiki.com/ko/content/coding-agent-performance-agents-md)
+  * [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
@@ -2532,6 +2533,7 @@ Artificial Intelligence
   * [친절한 달쌤 노트북LM을 사용해서 410만원 절약하는 방법 - YouTube](https://www.youtube.com/watch?v=gYgJ13GAVxU)
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
   * [NotebookLM과 Google Gemini Gems를 함께 쓰는 방식 | LinkedIn](https://www.linkedin.com/posts/minjungkimcoco_%EC%9A%94%EC%A6%98-notebooklm-%EA%B3%A0%EC%88%98%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%94%81%EB%8B%88%EB%8B%A4-notebooklm%EA%B3%BC-share-7425809474478714880-I8WB/)
+  * [노트북LM으로 포스터 만들고 코딩하고, 별걸 다하네? (김민정 이사) - YouTube](https://www.youtube.com/watch?v=8hwNZeB_ZgQ)
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
