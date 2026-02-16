@@ -3526,6 +3526,22 @@ Artificial Intelligence
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl | 박성철](https://www.linkedin.com/posts/fupfin_understanding-spec-driven-development-kiro-activity-7385279368434159616-E8Wp)
   * [스펙 주도 개발(SDD) 심층 탐구하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3477/)
+* [AddyOsmani.com - How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
+  * [(번역) AI 에이전트를 위한 좋은 스펙 작성법 | Ykss](https://ykss.netlify.app/translation/2026/how-to-write-a-good-spec-for-ai-agents/)
+  * AI 에이전트에게 방대한 정보를 한꺼번에 던지기보다, 명확한 구조와 경계를 가진 '스마트한 스펙' 제공이 핵심
+    * 상위 수준의 비전을 먼저 제시하고 세부 사항은 AI와 함께 구체화
+    * 작업을 작은 단위로 나누어 모델의 주의력 예산을 효율적으로 관리 필요
+    * 이를 통해 AI가 프로젝트의 맥락을 잃지 않고 고품질의 결과물을 낼 수 있도록 유도
+  * 1. 상위 비전 우선 및 AI 초안 활용
+    * 처음부터 과도하게 설계하지 말고, 간결한 목표로 AI가 상세 스펙(spec.md) 초안을 쓰게 한 뒤 이를 다듬는 '계획 우선' 방식 사용
+  * 2. 구조화된 PRD 형식 도입
+    * 명령어, 테스트, 프로젝트 구조, 코드 스타일, Git 워크플로우, 작업 경계 등 6가지 핵심 영역 포함한 전문적인 문서 형태로 작성
+  * 3. 3단계 경계 시스템 설정
+    * '항상 할 것(Always)', '승인 후 할 것(Ask first)', '절대 금지(Never)'로 가이드라인을 나눠 에이전트의 자율성/통제권을 명확히
+  * 4. 컨텍스트 분할 관리
+    * 모델 기억 한계를 고려해 전체 스펙을 한 번에 넣지 말고, 현재 작업에 필요한 부분만 잘라 제공하는 '컨텍스트 엔지니어링' 필요
+  * 5. 읽기 전용 계획 모드 활용
+    * 코드 작성 전 Claude Code 'Plan Mode'처럼 수정 권한 없이 분석/계획만 세우는 단계를 거쳐 실수 방지
 * [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
   * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
   * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
