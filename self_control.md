@@ -142,6 +142,7 @@ Self Control
 * [PARA Method(노트 관리법) 옵시디언 적용 및 후기 - PARA Obsidian](https://alive-wong.tistory.com/53)
 * [PARA 시스템 쉽게 배우기 | 구글 드라이브, 노션에 흩어져있는 글, 사진, 영상 깔끔하게 정리하세요 (thx. 티아고 포르테) - YouTube](https://www.youtube.com/watch?v=Yr76qG65t_M)
   * 단계자아(단기 프로젝트, 계속 관리, 자료, 아카이빙)로 정리한 게 기억하기 좋음
+* [Ask HN: 메모나 링크를 "쌓아두기만" 하고, 실제 행동으로 옮기지 못하나요? | GeekNews](https://news.hada.io/topic?id=26310)
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
