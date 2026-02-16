@@ -550,6 +550,14 @@ AWS
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
 * [AWS Scale - by Neo Kim - System Design Newsletter](https://newsletter.systemdesign.one/p/aws-scale)
 * [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
+* [We Killed Our CI/CD Pipelines. Now AWS CodeCatalyst Deploys on Every Git Commit → For Free. | by Sneha | DevOps | AWS | AI | Jan, 2026 | AWS in Plain English](https://aws.plainenglish.io/we-killed-our-ci-cd-pipelines-now-aws-codecatalyst-deploys-on-every-git-commit-for-free-bbc18261409b)
+  * 복잡한 수동 CI/CD 파이프라인 운영 대신 AWS CodeCatalyst를 도입하여 개발 효율을 높인 사례
+    * 깃 커밋 시마다 자동 빌드 및 배포 진행, 클라우드 기반 개발 환경과 청사진(Blueprints) 기능을 통해 설정 시간 대폭 단축
+    * 특히 비용 효율성과 AWS 생태계와의 긴밀한 통합 강조
+  * 1. 운영 오버헤드 제거: 복잡한 YAML 설정이나 젠킨스(Jenkins) 같은 서버 관리 없이도 즉시 배포 가능한 환경을 구축
+  * 2. 청사진(Blueprints) 활용: 검증된 프로젝트 템플릿을 통해 인프라 설정 오류를 방지하고 표준화된 워크플로우를 빠르게 복제
+  * 3. 통합 개발 환경(Dev Environments): 로컬 사양에 구애받지 않고 클라우드 상에서 일관된 개발 및 테스트 환경을 즉각 생성
+  * 4. AWS 서비스와의 심리스한 연동: 별도의 자격 증명 관리 없이도 AWS 리소스에 안전하고 빠르게 접근하여 배포 프로세스를 단순화
 * [Fine-tune Llama 7B on AWS Trainium](https://www.philschmid.de/fine-tune-llama-7b-trainium)
 * [AWS AI 서비스를 활용한 미디어 자막 성능 개선 및 컨텐츠 현지화 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/contents-subtitle-localization/)
 * [LucidLink와 Leostream으로 PCoIP 원격 영상 편집 시스템 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-pcoip-editing-system-with-lucidlink-and-leostream/)
