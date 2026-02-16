@@ -3482,6 +3482,7 @@ Artificial Intelligence
     * [전종홍 - OpenClaw(구 Clawdbot)의 개발자인 피터 슈타인버거(Peter Steinberger)가 직접 이... | Facebook](https://www.facebook.com/1biit/posts/pfbid02pfpNtm1VrmNX8ZBM3BwKBq429zsXQecfQeGyLyTPBWBjD6RKZT2gQCsyUMrxhowpl)
   * [OpenClaw (구 Moltbot, 구 Clawdbot) 리뷰(9) : OpenClaw가 똑똑한 이유는 'Pi' 때문? (OpenClaw의 심장, Pi: Self-extending 아키텍처 살펴보기)](https://goddaehee.tistory.com/512)
   * [OpenClaw 윈도우 환경에서 Docker로 AI 에이전트 구축하기 (feat. Discord 연동) - YouTube](https://www.youtube.com/watch?v=FdbUWsqefPQ)
+  * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
   * [moltworker: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers](https://github.com/cloudflare/moltworker)
   * [NadirClaw: Nadir Router for OpenClaw](https://github.com/doramirdor/NadirClaw)
     * [OpenClaw AI Community (Formerly Clawdbot, Moltbot) The AI Agent | I had a moment last week where I maxed out my Claude because of openClaw | Facebook](https://www.facebook.com/groups/marketingngrowth/posts/928139326337488/)
