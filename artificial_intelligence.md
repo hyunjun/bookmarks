@@ -2642,7 +2642,7 @@ Artificial Intelligence
   * [오픈토크 역대 가성비 바이브코딩 GLM 코딩 플랜 함께 얘기하기 - YouTube](https://www.youtube.com/live/Kpbce3wUCKA)
     * [GLM 코딩 플랜 & 클로드 코드: 바이브 코딩 생산성 극대화 전략 (ft. 스킬스, 에이전트 SDK)](https://livewiki.com/ko/content/vibecoding-glm-coding-plan)
   * [🔥 GLM-4.7-Flash: 완전 무료! 30B급 최강 AI로 ChatGPT 비용 100% 절감하는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%81%E2%9C%A8GLM-47-Flash-GPT-5%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%AC%B4%EB%A3%8C-API%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
-  * [my-claude-code-setup: Shared starter template configuration and CLAUDE.md memory bank system for Claude Code](https://github.com/centminmod/my-claude-code-setup?fbclid=IwY2xjawPr9mpleHRuA2FlbQIxMQBicmlkETFqWGppaEhtSUhjS2lRbmNyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmyXFCYWkJ-Zg0BrMNOITWwpRb-gw97dgxjmIC4UYrFk9O75lDlCKq9Y0iF3_aem_PbXdXZy1kvwruQwL_y-row#using-zai-with-claude-code)
+  * [my-claude-code-setup: Shared starter template configuration and CLAUDE.md memory bank system for Claude Code](https://github.com/centminmod/my-claude-code-setup)
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -2791,6 +2791,7 @@ Artificial Intelligence
     * [kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)
       * [코팩의 두번째 선물. 스킬을 검증하고, 스킬을 만들고, 스킬을 실행하는 스킬 무료 배포 - YouTube](https://www.youtube.com/watch?v=J1F8zH_QCt8)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
+    * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
