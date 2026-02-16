@@ -1960,6 +1960,8 @@ App
   * [Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기 - Homebrew와 Shell Script를 사용하여 맥 개발 환경 구축을 자동화해 봅니다. 이렇게 만든 Brefile과 Shell Script로 새로운 맥에 개발 환경을 구축해 봅니다.](https://deku.posstree.com/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
   * [brew-sync: 🔄 Sync your Homebrew packages across multiple Macs with automatic cloud backup and restore](https://github.com/kyungw00k/brew-sync)
   * [brew-updates: Get Brew Packages to update, just like you've experienced from Ubuntu](https://github.com/code-yeongyu/brew-updates)
+  * [zerobrew: A 5-20x faster experimental Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
+    * [zerobrew - Homebrew 보다 5~20배 빠른 패키지 관리자 | GeekNews](https://news.hada.io/topic?id=26586)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
 * [DevUtils - All-in-one Toolbox for Developers](https://devutils.com/)
