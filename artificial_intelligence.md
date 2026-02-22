@@ -1599,6 +1599,7 @@ Artificial Intelligence
   * [serverless-rag-mcp-server](https://github.com/sionic-ai/serverless-rag-mcp-server)
   * [Smithery - Model Context Protocol Registry](https://smithery.ai/)
     * [GitHub 저장소를 이용한 Smithery 서버 등록 및 배포](https://devway.tistory.com/65)
+  * [universal-db-mcp: 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据](https://github.com/Anarkh-Lee/universal-db-mcp)
   * [unreal-mcp: Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP)](https://github.com/chongdashu/unreal-mcp)
     * [클로드가 언리얼 엔진을 자동으로 조작하는 시대가 왔다](https://www.facebook.com/reel/1589989091994992)
   * [webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools)
@@ -2332,6 +2333,9 @@ Artificial Intelligence
     * AI가 일자리를 빼앗을 것인가라는 질문은 다소 식상
       * 더 중요한 변화는 AI가 회사를 소수의 인원으로도 만들 수 있게 하고 있다는 점
       * AI는 사람을 해고하는 존재라기보다, 선택지를 늘려주는 기술
+* [2602.08234 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
+  * [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://github.com/aiming-lab/SkillRL)
+  * [최적의 데이터를 선별하여 LLM pre-training 효율을 극대화하는 OPUS | 0211 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2870190993321940)
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -2351,6 +2355,9 @@ Artificial Intelligence
 * ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
 * [오픈클로, 실제 행동하는 AI가 만든 새로운 보안 위기 | ITWorld](https://www.itworld.co.kr/article/4126872/%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B3%B4%EC%95%88-%EC%9C%84%EA%B8%B0.html)
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
+* [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
+  * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
+    * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -2445,6 +2452,8 @@ Artificial Intelligence
 * [Top 10+ Open Source No-Code AI Tools with the Most GitHub Stars | by Deep concept | Let’s Code Future | Dec, 2025 | Medium](https://medium.com/lets-code-future/top-10-open-source-no-code-ai-tools-with-the-most-github-stars-ef39a71cfddd)
 * [AI 한테 UI 센스 심어주는 도구 3가지 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_rams-design-engineer-for-claude-code-activity-7418645099066175488-PrGF)
 * [검색 말고 ‘리서치’ 잘하는 사람이 쓰는 도구 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3604/)
+* [AI Workflow - Supercharge your AI coding session - AI Workflow](https://ai-workflow.xiaominglab.com/en/)
+  * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
   * [alt - ai lecture notetaker | 이정연](https://www.linkedin.com/posts/pa-rang_alt-ai-lecture-notetaker-activity-7391336738700353536-o8yo) Local AI 강의 필기·요약앱, Alt를 완전 무료로 배포
   * [Lightning-SimulWhisper: An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance](https://github.com/altalt-org/Lightning-SimulWhisper)
@@ -2576,6 +2585,7 @@ Artificial Intelligence
     * [퍼플렉시티, 직장에서 AI 활용 사례 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0-%EC%A7%81%EC%9E%A5%EC%97%90%EC%84%9C-ai-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-ugcPost-7386592603514978304-b7wO)
 * PicLumen [Free AI Image Generator for AI Art Creation - PicLumen](https://www.piclumen.com/)
   * [무료 AI로 애니부터 실사 사진까지? PicLumen 미쳤다! - YouTube](https://www.youtube.com/watch?v=j4B_JMfv0-0)
+* [pinchtab: High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard](https://github.com/pinchtab/pinchtab)
 * Pine AI [AI Assistant to Handle Bills, Subscriptions, and Complaints | Pine AI](https://www.19pine.ai/)
   * [아직은 미국내 서비스만 가능하지만 너무 신박해서 소개합니다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-assistant-to-handle-bills-subscriptions-activity-7347591957533085697-gJZk)
 * [parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)
@@ -3517,6 +3527,11 @@ Artificial Intelligence
     * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
+  * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
+    * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
+  * [ZeroClaw Hub | Private Gateway Control Plane](https://zeroclawlabs.ai/)
+    * [zeroclaw: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀](https://github.com/zeroclaw-labs/zeroclaw)
+    * [🦀 OpenClaw보다 좋을까? 5MB RAM으로 구동되는 ZeroClaw AI 정복하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%80-OpenClaw%EB%B3%B4%EB%8B%A4-%EC%A2%8B%EC%9D%84%EA%B9%8C-5MB-RAM%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-ZeroClaw-AI-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
