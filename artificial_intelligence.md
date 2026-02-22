@@ -663,6 +663,8 @@ Artificial Intelligence
   * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
     * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
+* [Manus Agents Challenge OpenClaw With No-Setup Personal AI Assistants](https://www.trendingtopics.eu/manus-agents-challenge-openclaw-with-no-setup-personal-ai-assistants/)
+  * [메신저 안에서 완성하는 개인 AI 에이전트 경쟁: Manus Agents와 OpenClaw의 전략 분석](https://digitalbourgeois.tistory.com/2777)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -839,6 +841,7 @@ Artificial Intelligence
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Rowboat - Your AI coworker, with memory](https://www.rowboatlabs.com/)
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
+  * [Rowboat: 지식 그래프 기반 로컬 퍼스트 AI 코워커의 개념과 활용 방법](https://digitalbourgeois.tistory.com/2766)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
@@ -3487,7 +3490,6 @@ Artificial Intelligence
 * [moltbook - the front page of the agent internet](https://www.moltbook.com/)
   * [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/)
     * [최승준 - Moltbook: 지금 인터넷에서 가장 흥미로운 공간 2026년 1월 30일, Simon Willison... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0yWtPueNf6Jhhpz9aBHGZLA1SV9tVnbk9LeqNW4oStP2oBukgUJyqXCwZYxvQQAjol)
-* [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
@@ -3517,11 +3519,16 @@ Artificial Intelligence
   * [OpenClaw으로 나만의 AI 비서 만들기 - Django Notion Blog](https://ucanlabs.kr/blog/openclaw-install/)
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
+  * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
+  * [MimiClaw — Run OpenClaw on $5 Chips](https://mimiclaw.io/)
+    * [mimiclaw: MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw](https://github.com/memovai/mimiclaw)
+  * [MiniClaw: Enable Your AI Copilot Act Smart Like OpenClaw. MCP for Claude CoWork, Qoderwork, WorkBuddy, OpenWork etc](https://github.com/8421bit/miniclaw)
   * [moltworker: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers](https://github.com/cloudflare/moltworker)
   * [NadirClaw: Nadir Router for OpenClaw](https://github.com/doramirdor/NadirClaw)
     * [OpenClaw AI Community (Formerly Clawdbot, Moltbot) The AI Agent | I had a moment last week where I maxed out my Claude because of openClaw | Facebook](https://www.facebook.com/groups/marketingngrowth/posts/928139326337488/)
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
+  * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
