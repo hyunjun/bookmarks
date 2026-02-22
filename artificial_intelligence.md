@@ -3090,6 +3090,7 @@ Artificial Intelligence
     * [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
       * [65 lines of Markdown - a Claude Code sensation | Blog](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
         * [65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체 | GeekNews](https://news.hada.io/topic?id=26655)
+      * [65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개 - YouTube](https://www.youtube.com/watch?v=tcDoacn64Lo)
   * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
