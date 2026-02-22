@@ -3530,6 +3530,7 @@ Artificial Intelligence
     * [OpenClaw AI Community (Formerly Clawdbot, Moltbot) The AI Agent | I had a moment last week where I maxed out my Claude because of openClaw | Facebook](https://www.facebook.com/groups/marketingngrowth/posts/928139326337488/)
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
+  * [opencrabs: The AI terminal-native orchestration layer for software development. Built with Rust](https://github.com/adolfousier/opencrabs)
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
