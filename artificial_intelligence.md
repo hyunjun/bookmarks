@@ -3053,6 +3053,7 @@ Artificial Intelligence
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
+  * [claude-code-telegram: A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence](https://github.com/RichardAtCT/claude-code-telegram)
   * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
     * [30가지 이상의 Claude Code 활용 팁 모음 (feat. ykdojo/claude-code-tips) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/30-claude-code-feat-ykdojo-claude-code-tips/8368)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
