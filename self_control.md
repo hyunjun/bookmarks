@@ -143,6 +143,13 @@ Self Control
 * [PARA 시스템 쉽게 배우기 | 구글 드라이브, 노션에 흩어져있는 글, 사진, 영상 깔끔하게 정리하세요 (thx. 티아고 포르테) - YouTube](https://www.youtube.com/watch?v=Yr76qG65t_M)
   * 단계자아(단기 프로젝트, 계속 관리, 자료, 아카이빙)로 정리한 게 기억하기 좋음
 * [Ask HN: 메모나 링크를 "쌓아두기만" 하고, 실제 행동으로 옮기지 못하나요? | GeekNews](https://news.hada.io/topic?id=26310)
+* [second-brain-ai-assistant-course: Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques](https://github.com/decodingai-magazine/second-brain-ai-assistant-course)
+  * [Build your Second Brain AI assistant: Using LLMs and RAG](https://www.decodingai.com/p/build-your-second-brain-ai-assistant)
+  * [Data Pipelines for AI Assistants with MLOps Best Practices](https://www.decodingai.com/p/data-pipelines-for-ai-assistants)
+  * [Generate High-Quality Instruct Datasets for Fine-Tuning LLMs](https://www.decodingai.com/p/from-noisy-docs-to-fine-tuning-datasets)
+  * [Fine-tune & Deploy Open-Source LLMs for Production](https://www.decodingai.com/p/playbook-to-fine-tune-and-deploy)
+  * [Build RAG Pipelines for AI Assistants That Actually Work](https://www.decodingai.com/p/build-rag-pipelines-that-actually)
+  * [Build Production Agentic RAG With LLMOps at Its Core](https://www.decodingai.com/p/llmops-for-production-agentic-rag)
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
