@@ -435,6 +435,7 @@ Artificial Intelligence
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
     * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero | Dongwook Park](https://www.linkedin.com/posts/lewis34_what-is-agentic-sre-the-next-evolution-of-activity-7426621751188672512-FsxS)
+* [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -743,6 +744,8 @@ Artificial Intelligence
   * [UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra](https://github.com/bytedance/UI-TARS-desktop)
   * [GUI Agent와 Vision을 터미널, 컴퓨터, 브라우저에 통합해주는 멀티모달 AI Agent 스택을 오픈소스로 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-tiktok-snyuiosqsswm-activity-7416618742526201856-wNFN)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
+* [agf: Agent Finder — One TUI to find, resume, and manage AI coding agent sessions (Claude Code, Codex, Opencode, Gemini)](https://github.com/subinium/agf)
+  * [agf: AI 코딩 에이전트 세션을 한눈에 관리하는 터미널 TUI](https://digitalbourgeois.tistory.com/2807)
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
@@ -2508,6 +2511,7 @@ Artificial Intelligence
 * [generative-ai-arbitrage: A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular models like Veo, Sora, Runway-class video, Midjourney-level images, and Suno-quality music — often at 70–90% lower cost 🤯](https://github.com/cporter202/generative-ai-arbitrage)
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
+* [get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode](https://github.com/gsd-build/get-shit-done)
 * [Ghost GPT - ИИ для прохождения собеседований](https://ghostgpt.tech/)
   * 실시간 면접 분석: 화면을 보면서 질문, 문제 해결 흐름을 즉시 분석
   * 최적 답변 제안: 상황별로 가장 효과적인 답변 및 솔루션 자동 추천
@@ -3003,11 +3007,13 @@ Artificial Intelligence
     * [10 Usability Heuristics for User Interface Design - NN/G](https://www.nngroup.com/articles/ten-usability-heuristics/)
     * [Get the most from Claude Opus 4.6 | Claude](https://claude.com/resources/tutorials/get-the-most-from-claude-opus-4-6)
   * [개발자 6인, 비개발자 4인의 클로드 코드 실전 사례집 | 요즘IT](https://yozm.wishket.com/magazine/detail/3610/)
+  * [How To Make Digital Products Using Claude AI 2.0](https://digitalwealthwithsa.gumroad.com/l/claudeai)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
     * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
       * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
+  * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
@@ -3590,6 +3596,8 @@ Artificial Intelligence
 * [Void](https://voideditor.com/)
   * [void](https://github.com/voideditor/void)
   * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
+* [VoltAgent - Open Source TypeScript AI Agent Framework](https://voltagent.dev/)
+  * [voltagent: AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework](https://github.com/VoltAgent/voltagent)
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
@@ -3618,6 +3626,9 @@ Artificial Intelligence
     * 모델 기억 한계를 고려해 전체 스펙을 한 번에 넣지 말고, 현재 작업에 필요한 부분만 잘라 제공하는 '컨텍스트 엔지니어링' 필요
   * 5. 읽기 전용 계획 모드 활용
     * 코드 작성 전 Claude Code 'Plan Mode'처럼 수정 권한 없이 분석/계획만 세우는 단계를 거쳐 실수 방지
+* [freebsd-brcmfmac: FreeBSD native WiFi driver for BCM4350 (MBP 2016) — in progress](https://github.com/narqo/freebsd-brcmfmac)
+  * [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI built one for me - Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+  * [FreeBSD에는 내 오래된 MacBook용 Wi-Fi 드라이버가 없었다, 그래서 AI가 | GeekNews](https://news.hada.io/topic?id=26957)
 * [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
   * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
   * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
