@@ -2841,6 +2841,8 @@ Artificial Intelligence
     * [claude-code-bmad-skills: BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment](https://github.com/aj-geddes/claude-code-bmad-skills)
     * [kimoring-ai-skills](https://github.com/codefactory-co/kimoring-ai-skills)
       * [코팩의 두번째 선물. 스킬을 검증하고, 스킬을 만들고, 스킬을 실행하는 스킬 무료 배포 - YouTube](https://www.youtube.com/watch?v=J1F8zH_QCt8)
+    * [oh-my-cloud-skills: 클라우드에 대한 이해 및 컨텐츠 제작을 위한 skills](https://github.com/Atom-oh/oh-my-cloud-skills)
+      * [노드 라이프사이클 & 모니터링 - EKS Auto Mode](https://presentation.atomai.click/eks-observability-ops/02-node-lifecycle.html#6)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [smart-cowork-life/smart-cowork-life at main · modu-ai/smart-cowork-life](https://github.com/modu-ai/smart-cowork-life/tree/main/smart-cowork-life)
       * [Goos Kim - @팔로워 모두의AI 4번째 오픈소스, Claude Cowork Plugin '슬기로운 코워크... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0271svtLduk3CPFprSSJU8WdBSgmhU7uqpR7X9TfcjMNxWokKxVAxATzBPAh7fitAql)
