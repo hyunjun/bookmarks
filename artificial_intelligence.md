@@ -652,6 +652,7 @@ Artificial Intelligence
   * 강력한 코드 LLM을 저렴하게 구축, 적용 및 재현할 수 있도록 지원하는 효율적인 코딩 에이전트 및 학습 레시피의 공개 세트
 * [Sandboxing AI agents in Linux — Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
   * [리눅스에서 AI 에이전트를 샌드박싱하기 | GeekNews](https://news.hada.io/topic?id=26415)
+* [AgentFS AI 에이전트의 안전한 I/O를 위한 파일시스템](https://codepointerko.substack.com/p/agentfs-ai-io)
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
 * [The System Design Behind Stripe’s Minions AI Factory - YouTube](https://www.youtube.com/watch?v=GQ6piqfwr5c)
   * [스트라이프 AI 코딩 에이전트: 주 1,000개 이상 PR 병합 비밀 (6계층 아키텍처)](https://livewiki.com/ko/content/stripe-ai-agents-pull-requests)
@@ -1213,6 +1214,8 @@ Artificial Intelligence
     * 'Vibe Coding'의 핵심은 개발자가 세부 구현보다 높은 수준의 설계와 문제 해결에 집중할 수 있게 하는 것
   * [Vibe Index - Vibe Coding Directory](https://www.vibeindex.ai/)
     * [조태호 - 25,960개의 바이브 코딩 자료를 한 곳에 정리했습니다. 바이브코딩 책을 쓰며 안타까웠던 것은, MCP,... | Facebook](https://www.facebook.com/taeho.jo/posts/pfbid02uue2z7QJuZ1ne1g71qYPojjhT2z5m6VNnNciL868pvazAzwQeDVVzsFLj7DZUMUTl)
+  * [Claude Code + Analytics = Vibe PMing](https://www.news.aakashg.com/p/frank-lee-podcast)
+    * [Claude Code + Analytics = Vibe PMing | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-analytics-vibe-pming-share-7433107438414905344-eQ5L/)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
