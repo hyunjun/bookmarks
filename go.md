@@ -1068,6 +1068,8 @@ Go
 # Memory
 * [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 * [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+* [The Memory Allocator | Internals for Interns](https://internals-for-interns.com/posts/go-memory-allocator/)
+  * [The Memory Allocator | Internals for Interns | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_the-memory-allocator-internals-for-interns-activity-7432925104122130433-yeQD)
 * [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
 * [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
 * [research!rsc: Hardware Memory Models (Memory Models, Part 1)](https://research.swtch.com/hwmm)
