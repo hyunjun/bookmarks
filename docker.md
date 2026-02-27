@@ -1666,6 +1666,8 @@ Docker
 * [쿠버네티스에서 파드를 분산 처리하기 위한 토폴로지 분배 제약 조건 활용 사례 소개](https://techblog.lycorp.co.jp/ko/using-topology-spread-constraints-to-spread-out-pods)
 * [Do you really need Kubernetes? | InfoWorld](https://www.infoworld.com/article/3527217/do-you-really-need-kubernetes.html)
 * [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
+* [May the Control Plane be with you: Kamaji and the rise of Kubernetes at scale by Dario Tranchitella - YouTube](https://www.youtube.com/watch?v=tzmEudUS9Os)
+  * [May the Control Plane be with you: Kamaji and the rise of Kubernetes at scale by Dario Tranchitella](https://livewiki.com/ko/content/kamaji-kubernetes-control-plane-scale)
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
 * [Kubernetes: The Basics | DaemonSets - YouTube](https://www.youtube.com/watch?v=cdY67JqGbIc)
 * [쿠버네티스 데몬셋(DaemonSet)에 대한 핸즈온 데모 설명 | 데몬셋 배포, 예약 및 관리 - YouTube](https://www.youtube.com/watch?v=NIQnF2Gv4bM)
