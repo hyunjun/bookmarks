@@ -113,6 +113,8 @@
     * [7-3 상속을 이용한 중복 제거 질문 있습니다! - 인프런 | 커뮤니티 질문&답변](https://www.inflearn.com/community/questions/1650264/7-3-%EC%83%81%EC%86%8D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A4%91%EB%B3%B5-%EC%A0%9C%EA%B1%B0-%EC%A7%88%EB%AC%B8-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
   * CQS(명령 쿼리 분리) 원칙과 TDA(묻지 말고 시켜라) 원칙의 적용 방법
     * [6-2. 명령과 쿼리 분리 원칙 질문 - 인프런 | 커뮤니티 질문&답변](https://www.inflearn.com/community/questions/1655754/6-2-%EB%AA%85%EB%A0%B9%EA%B3%BC-%EC%BF%BC%EB%A6%AC-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99-%EC%A7%88%EB%AC%B8)
+* [Effect Oriented Programming • Bill Frasure, Bruce Eckel, James Ward & Andrew Harmel-Law - YouTube](https://www.youtube.com/watch?v=UOiVp1ZjUs4)
+  * [이펙트 중심 프로그래밍이란 무엇인가? • 빌 프레이저, 브루스 에켈, 제임스 워드 & 앤드류 하멜-로](https://livewiki.com/ko/content/effect-oriented-programming)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
