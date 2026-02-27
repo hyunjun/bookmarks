@@ -2092,6 +2092,7 @@ App
   * [Discord.py 없이 requests만으로 File 첨부해서 메시지 전송하기 | by Junah | Jun, 2024 | Medium](https://junah201.medium.com/discord-py-%EC%97%86%EC%9D%B4-requests%EB%A7%8C%EC%9C%BC%EB%A1%9C-file-%EC%B2%A8%EB%B6%80%ED%95%B4%EC%84%9C-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-f8cd4a03681b)
   * [3분 안에 디스코드 앱 만들기? - YouTube](https://www.youtube.com/watch?v=SJLeyUGTMhM)
   * [DiscordChatExporter: Exports Discord chat logs to a file](https://github.com/Tyrrrz/DiscordChatExporter)
+  * [fluxer: A free and open source instant messaging and VoIP platform built for friends, groups, and communities](https://github.com/fluxerapp/fluxer)
   * [juny-discord-bot-test: JDA를 이용한 Spring Boot Discord Bot 연습이에요](https://github.com/junyharang-personal-project/juny-discord-bot-test)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기](https://junyharang.tistory.com/381)
     * [Spring Boot Discord Bot(디스코드 봇) 만들기 - Spring Boot(스프링 부트)를 이용한 간단한 API 만들기 feat.mybatis(마이바티스)](https://junyharang.tistory.com/382)
