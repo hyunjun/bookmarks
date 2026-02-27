@@ -5935,6 +5935,8 @@ Python
     * [파이다틱 데이터 유효성 검사 및 파이썬 웹 보안 사례 | 실제 파이썬 팟캐스트 #202 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/551948)
   * [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/)
   * [AI Convergence :: Python Pydantic 의 BaseModel 클래스 사용](https://mobicon.tistory.com/627)
+  * [Start Building With FastAPI: Getting Started With FastAPI & Introducing Pydantic - YouTube](https://www.youtube.com/watch?v=MUFLVmmppP0)
+    * [FastAPI 시작하기: Pydantic으로 REST API 구축](https://livewiki.com/ko/content/fastapi-pydantic-getting-started)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
