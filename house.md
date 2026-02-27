@@ -89,6 +89,8 @@ House
 * ["수억 원 지킵니다." 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가사 1부) - YouTube](https://www.youtube.com/watch?v=1LA3xdQ1vpc) 등기부등본 토지대장 건축물대장 소유이전가등기 청구권가등기 근저당권설정 부동산권리보험 전입신고 확정일자
   * [VidiGo "수억 원 지킵니다." 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가](https://vidigo.ai/share/summary/0c6eecb9aea1)
   * [수억 원 지킵니다. 부동산 계약 전 꼭 추가해야 하는 문자 '한 줄' (박은정 감정평가사 1부) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/964926)
+* ["깨끗한 등기부등본이었는데 전재산 날려" 전세 매매계약시 '이것' 놓치면 큰일납니다｜전세 매매계약시 주의사항｜11년차 형사전문변호사 - YouTube](https://www.youtube.com/watch?v=MrQ8fEspE64)
+  * [등기부등본 믿고 전재산 날리는 전세사기, 내 집 지키는 법 (feat. 형사전문변호사)](https://livewiki.com/ko/content/jeonse-scam-lawyer)
 * [근저당 해지해주세요](https://brunch.co.kr/@buildingking/143)
 * [비품, 장기수선충당금 등의 문제](https://pgr21.com/qna/139934)
   * 부동산 전문 변호사와 대한법률구조공단을 통해 안내받은 내용
@@ -100,6 +102,7 @@ House
 * ["여기다 절대 도장 찍지 마세요 몇억을 날리실 수 있습니다." 부동산 매매 계약서 작성시 절대 주의사항](https://0k-cal.com/%EC%97%AC%EA%B8%B0%EB%8B%A4-%EC%A0%88%EB%8C%80-%EB%8F%84%EC%9E%A5-%EC%B0%8D%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-%EB%AA%87%EC%96%B5%EC%9D%84-%EB%82%A0%EB%A6%AC%EC%8B%A4-%EC%88%98-%EC%9E%88%EC%8A%B5/)
 * [내 돈이 남의 집 관리비로 쓰인다?..이사할때 꼭 챙기세요 부동산백서 | Daum 부동산](https://realestate.daum.net/news/detail/all/20220430080017956) 장기수선충당금 관리비예치금
 * [전세 살다가 훼손된 벽지·바닥·도어락...수리비는 누가 낼까 - 머니투데이](https://news.mt.co.kr/mtview.php?no=2021122114425657245)
+* [원상복구 때문에 집주인이 보증금 깔때 치트키 - YouTube](https://www.youtube.com/shorts/hQjgC2gppcU)
 * [공간의 가치 - 한국 상업용 주거용 부동산의 구조적 이해](http://www.valueofspace.com/wordpress/)
 * ['헬조선'의 아파트는 왜 비싼가](https://storyfunding.daum.net/project/1589/episodes)
 * [한국의 주거비가 세계에서 가장 적은 이유가 무엇인지 생각해보면](https://www.clien.net/service/board/park/11718623)
@@ -108,6 +111,8 @@ House
 * [11 green building materials that are way better than concrete](http://inhabitat.com/11-green-building-materials-that-are-way-better-than-concrete/)
 * [입주 전 새 아파트, 어디를 어떻게 점검해야 할까?](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=1011&pageIndex=1)
 * [묵시적 갱신](https://blog.naver.com/cy4028/221146795130)
+* [피해 속출 전·월세 갱신할 때 '이것' 하면 보증금 1억 날립니다..! (단희쌤) - YouTube](https://www.youtube.com/watch?v=jCfogjcZuW4)
+  * [전월세 재계약 시 '이것' 모르면 보증금 1억 날립니다! (확정일자, 묵시적 갱신, 계약갱신청구권)](https://livewiki.com/ko/content/rent-deposit-renewal-risk)
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
 * [90%는 모르는 집 계약 시 주의 사항! 집 구할 때 '이거' 모르면 수백만 원 손해봅니다 ㅣ 월천대사 이주현 찐코노미 - YouTube](https://www.youtube.com/watch?v=Vuywrj4PQSw)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
