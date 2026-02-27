@@ -3533,6 +3533,7 @@ Artificial Intelligence
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
+  * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
   * [MimiClaw — Run OpenClaw on $5 Chips](https://mimiclaw.io/)
     * [mimiclaw: MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw](https://github.com/memovai/mimiclaw)
@@ -3547,6 +3548,11 @@ Artificial Intelligence
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
     * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
+  * [pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw)
+  * [RemoteClaw - Easier to Create New OpenClaw Bot](https://remoteclaw.io/)
+    * [OpenClaw Community | 🦞 RemoteClaw.io — Your 24/7 OpenClaw Agent, Hosted in the Cloud | Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1605174587299598/?mibextid=wwXIfr&rdid=wJHFklHU4OaHSc4f#)
+  * [sample-OpenClaw-on-AWS-with-Bedrock](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock)
+    * [AWSKRUG- AWS한국사용자모임 | 🦞 OpenClaw on AWS with Bedrock - 나만의 AI 비서를 AWS에 올려보자 | Facebook](https://www.facebook.com/groups/awskrug/posts/25272014385807247)
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
