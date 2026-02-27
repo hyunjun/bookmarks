@@ -819,3 +819,5 @@ Programming Language
 * [A Taste of Type Theory • Bartosz Milewski • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=--2jJwdQ5js)
 * [Why Static Typing Came Back • Richard Feldman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=Tml94je2edk)
 * [Java and Scala's type systems are unsound: the existential crisis of null pointers | Prof. Nada Amin](https://namin.seas.harvard.edu/publications/java-and-scalas-type-systems-are-unsound-existential-crisis-null-pointers) 언어 설계부터 생긴 오류에 대한 논문
+* [Type Clash: When Structural and Nominal Systems Collide by Matteo Orlandi and Luca Caputo - YouTube](https://www.youtube.com/watch?v=mbY696LZhc8)
+  * [Type Clash: When Structural and Nominal Systems Collide by Matteo Orlandi and Luca Caputo](https://livewiki.com/ko/content/type-clash-structural-nominal-systems)
