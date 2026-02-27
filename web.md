@@ -810,6 +810,8 @@ Web
 * [ScrapeGraphAI](https://scrapegraphai.com/)
   * [Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
   * [🆓 완전 무료! ScrapeGraph AI와 Ollama로 AI 웹 스크래핑 정복](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-ScrapeGraph-AI%EC%99%80-Ollama%EB%A1%9C-AI-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EC%A0%95%EB%B3%B5)
+* [Scrapling: 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
+  * [Index - Scrapling](https://scrapling.readthedocs.io/)
 * [scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python](https://github.com/scrapy/scrapy)
   * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
