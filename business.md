@@ -1041,6 +1041,8 @@ Business
 * [Suho Park - 이호성 하나은행장과 만날 일이 있었다. #영업왕 으로 유명한 분이었다. 시종일관 유쾌하게 대화를... | Facebook](https://www.facebook.com/suhoz/posts/pfbid02yaZeLo3UYQMyzp4Les13Ud5q8hYPBzrPnF1a9Nr81QP7eXycvUZ5R3EkiXRNRo6Gl)
 * [헤지펀드가 책방을 부활시키면 : 라이브러리](https://coffeepot.me/library/?bmode=view&idx=169157689)
 * [버크셔 통신 '천재 CEO' 워런 버핏](https://www.buffettclub.co.kr/article-20251231/)
+* [보잉도, 3M도 '이 회사'를 따라하다 망했습니다 (GE 편) - YouTube](https://www.youtube.com/watch?v=htgiSO2NW-E) 잭 웰치 Jack Welch
+  * [세계 1위 GE의 '최악' 경영 방식이 글로벌 기업들을 망가뜨린 이유](https://livewiki.com/ko/content/ge-worst-management)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
