@@ -735,6 +735,7 @@ Artificial Intelligence
   * [agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
     * AI에게 프로젝트에 대한 중요한 정보와 규칙들을 알려주기 위한 방식
     * 마치 README.md 가 인간을 위한 프로젝트 설명의 기본 파일
+  * [/init으로 생성한 AGENTS.md가 오히려 비용을 20% 늘리는 이유와 올바른 컨텍스트 설계 전략](https://digitalbourgeois.tistory.com/2811)
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
 * [Agent Skills](https://agentskills.io)
