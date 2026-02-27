@@ -1258,6 +1258,8 @@ SQL
 * [High availability and scalable reads in PostgreSQL](https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af)
 * [Making Postgres and Elasticsearch work together like it's 2015](https://github.com/zombodb/zombodb)
 * [Documenting Your PostgreSQL Database](http://www.craigkerstiens.com/2013/07/29/documenting-your-postgres-database/)
+* [Harnessing Postgres race conditions](https://www.lirbank.com/harnessing-postgres-race-conditions)
+  * [Harnessing Postgres race conditions | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_harnessing-postgres-race-conditions-activity-7432913371550789632-jrhc)
 * [Transaction ID Wraparound in Postgres](http://blog.getsentry.com/2015/07/23/transaction-id-wraparound-in-postgres.html)
 * [Making Postgres Bloom](http://www.pipelinedb.com/blog/making-postgres-bloom)
 * [POSTGRESQL: A FULL TEXT SEARCH ENGINE - PART 1](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
