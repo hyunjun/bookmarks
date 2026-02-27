@@ -79,6 +79,8 @@ Docker
 * [Virtual Machine (VM) vs Docker - YouTube](https://www.youtube.com/watch?v=a1M_thDTqmU)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
+* [Learn Docker in a Month of Lunches • Elton Stoneman & Bret Fisher • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=7G7eEk7AZxw)
+  * [Docker 초보자를 위한 최적화 및 최신 컨테이너 기술: 'Learn Docker in a Month of Lunches' 2판 (GOTO 2026)](https://livewiki.com/ko/content/learn-docker-month-lunches)
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
 * [virtual machines image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116324#gistcomment-4116324)
 * [**가상 머신의 성능을 높이는 것도 지구 온난화에 도움이 될까요?**](https://techblog.lycorp.co.jp/ko/increase-vm-performance-to-reduce-global-warming)
