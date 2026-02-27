@@ -778,6 +778,8 @@ AWS
   * [대한항공의 AI 대전환: Amazon Bedrock 기반 AI 컨택센터 지식 검색 챗봇 구축 사례 | 김영민](https://www.linkedin.com/posts/aldente0630_%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5%EC%9D%98-ai-%EB%8C%80%EC%A0%84%ED%99%98-amazon-bedrock-%EA%B8%B0%EB%B0%98-ai-%EC%BB%A8%ED%83%9D%EC%84%BC%ED%84%B0-%EC%A7%80%EC%8B%9D-activity-7377987988041019392-TkL8)
 * [Custom Intelligence: Building AI that matches your business DNA | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/)
   * [Custom Intelligence: Building AI that matches your business DNA | Amazon Web Services | Charlie Changsub Chang](https://www.linkedin.com/posts/changsubchang_custom-intelligence-building-ai-that-matches-activity-7390890759186673664-aZbi)
+* [Amazon Bedrock과 함께 Claude Code 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-with-claude-code/)
+  * [Claude Code on Amazon Bedrock](https://catalog.workshops.aws/claude-code-on-amazon-bedrock/en-US)
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
