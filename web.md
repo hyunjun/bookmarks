@@ -652,6 +652,7 @@ Web
 * Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
+* [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
