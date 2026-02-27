@@ -148,6 +148,7 @@ Artificial Intelligence
   * [State of AI Report 2022 - ONLINE - Google Slides](https://docs.google.com/presentation/d/1WrkeJ9-CjuotTXoa4ZZlB3UPBXpxe4B3FMs9R9tn34I/mobilepresent?slide=id.g164b1bac824_0_2748)
   * [State of AI 2021 보고서 구글 Slide, 188P | GeekNews](https://news.hada.io/topic?id=5224)
 * [Software 2.0. I sometimes see people refer to neural… | by Andrej Karpathy | Medium](https://karpathy.medium.com/software-2-0-a64152b37c35)
+* [소프트웨어 3.0 시대를 맞이하며](https://toss.tech/article/software-3-0-era)
 * [인공지능의 음악 인지 모델 - 제65차 한국음악지각인지학회 기조강연. 발표자 최근우. - YouTube](https://www.youtube.com/watch?v=VLE2Wnxn9hQ)
   * [인공지능의 음악 인지 모델 - 65차 한국음악지각인지학회 기조강연 (최근우 박사)](https://www.slideshare.net/KeunwooChoi/65-250772321)
 * [로봇 주방의 자동화 레벨 | GeekNews](https://news.hada.io/topic?id=5459)
