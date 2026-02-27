@@ -1500,6 +1500,8 @@ Artificial Intelligence
     * Notion MCP Server, Context 7, Microsoft Playwright MCP Server, Sequential Thinking, Figma MCP Server, PostgreSQL MCP, Browser Tools MCP, MCP YouTube
   * [Anthropic extends MCP with a UI framework - The New Stack](https://thenewstack.io/anthropic-extends-mcp-with-an-app-framework/)
     * [Anthropic, MCP에 UI 프레임워크 확장 - 대화형 AI를 ‘앱 플랫폼’으로 진화시키는 MCP Apps의 등장](https://digitalbourgeois.tistory.com/2677)
+  * [Exploring MCP Apps & Adding Interactive UIs to Clients | Real Python Podcast #285 - YouTube](https://www.youtube.com/watch?v=M2rI0Rw1l9I)
+    * [Real Python 팟캐스트 #285: MCP 앱과 인터랙티브 UI로 Python 개발 향상](https://livewiki.com/ko/content/mcp-apps-interactive-uis)
   * [2508.14704 MCP-Universe: Benchmarking Large Language Models with Real-World Model Context   Protocol Servers](https://arxiv.org/abs/2508.14704)
     * [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers | Andrei Lopatenko 🇺🇦](https://www.linkedin.com/posts/lopatenko_mcp-universe-benchmarking-large-language-activity-7365180977863716866-XVH-/)
   * [2511.21686 Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686)
@@ -2750,6 +2752,8 @@ Artificial Intelligence
   * 소프트웨어 개발 과정에서 속도만 치중하면, 프로젝트 중반(7~8주 차)에 기술 부채로 인해 수동적인 수정조차 불가능한 한계에 직면
   * 단순한 코드 품질의 문제를 넘어, 미래의 소프트웨어 개발은
     * 인간이 AI의 코딩 과정을 관리하고 검토하는 '감독형 프로그래밍'의 효율적인 워크플로우를 정립하는 방향으로 나아갈 것으로 예상
+* [Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson - YouTube](https://www.youtube.com/watch?v=c1K3H0z7vbw)
+  * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -3337,6 +3341,8 @@ Artificial Intelligence
       3. 유지 관리 어려움 증가: 불필요한 코드 복제가 늘어남
     * 다른 연구들도 Copilot의 장단점을 조사했으며, 향후 지속적인 평가가 필요할 것으로 보임
     * GitClear는 153백만 줄의 코드 변경 내역을 분석했음
+  * [Agent‑ready in 30 days: a practical blueprint for Copilot Agents - YouTube](https://www.youtube.com/watch?v=Yb0-x49n7Nk)
+    * [30일 만에 에이전트 준비: Copilot 에이전트를 위한 실용적인 청사진](https://livewiki.com/ko/content/copilot-agents-blueprint)
   * [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
     * [CamoLeak: GitHub Copilot의 치명적 취약점이 프라이빗 소스코드를 유출함 | GeekNews](https://news.hada.io/topic?id=23631)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
