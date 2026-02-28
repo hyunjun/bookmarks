@@ -861,6 +861,8 @@ Artificial Intelligence
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
   * [Rowboat: 지식 그래프 기반 로컬 퍼스트 AI 코워커의 개념과 활용 방법](https://digitalbourgeois.tistory.com/2766)
   * [회의 준비 1분 만에 끝내기: Rowboat 지식 그래프로 업무 생산성 극대화](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%ED%9A%8C%EC%9D%98-%EC%A4%80%EB%B9%84-1%EB%B6%84-%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-Rowboat-%EC%A7%80%EC%8B%9D-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%97%85%EB%AC%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B7%B9%EB%8C%80%ED%99%94)
+* [safepilot: AI assistant that executes real work, safely](https://github.com/3DCF-Labs/safepilot)
+  * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
