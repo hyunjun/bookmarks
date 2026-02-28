@@ -852,6 +852,7 @@ Artificial Intelligence
 * [Rowboat - Your AI coworker, with memory](https://www.rowboatlabs.com/)
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
   * [Rowboat: 지식 그래프 기반 로컬 퍼스트 AI 코워커의 개념과 활용 방법](https://digitalbourgeois.tistory.com/2766)
+  * [회의 준비 1분 만에 끝내기: Rowboat 지식 그래프로 업무 생산성 극대화](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%ED%9A%8C%EC%9D%98-%EC%A4%80%EB%B9%84-1%EB%B6%84-%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-Rowboat-%EC%A7%80%EC%8B%9D-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%97%85%EB%AC%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B7%B9%EB%8C%80%ED%99%94)
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
@@ -1401,7 +1402,7 @@ Artificial Intelligence
   * [agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)](https://github.com/Fosowl/agenticSeek)
   * [ANUS](https://github.com/nikmcfly/ANUS)
   * [OpenManus - Open-source Framework for Building AI Agents](https://openmanus.github.io/)
-    * [OpenManus: No fortress, purely open ground. OpenManus is Coming](https://github.com/mannaandpoem/OpenManus)
+    * [OpenManus: No fortress, purely open ground. OpenManus is Coming](https://github.com/FoundationAgents/OpenManus)
     * [자율에이전트 Manus 로컬로 써보기 - YouTube](https://www.youtube.com/watch?v=ZJzxje3rmnI)
 * [Mem – The AI Notes App That Keeps You Organized](https://get.mem.ai/) AI notepad
 * [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
@@ -3031,6 +3032,7 @@ Artificial Intelligence
   * [개발자 6인, 비개발자 4인의 클로드 코드 실전 사례집 | 요즘IT](https://yozm.wishket.com/magazine/detail/3610/)
   * [How To Make Digital Products Using Claude AI 2.0](https://digitalwealthwithsa.gumroad.com/l/claudeai)
   * [I Left My Desk… But My System Kept Coding (Claude Remote Control) - YouTube](https://www.youtube.com/watch?v=6hssXvkijxQ)
+  * [Claude Code에 최근 작업 내용을 저장하고 불러오는 MEMORY 기능이 생겼습니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%91%EC%97%85-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B3%A0-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-memory-activity-7433273480298782720-9uoL)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
@@ -3553,6 +3555,7 @@ Artificial Intelligence
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
+  * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
