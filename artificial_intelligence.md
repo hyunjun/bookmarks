@@ -851,7 +851,10 @@ Artificial Intelligence
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
   * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
-* [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
+* [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
+  * [Pi – 간결한 터미널 코딩 하니스 | GeekNews](https://news.hada.io/topic?id=26999)
+  * 미니멀한 CLI 코딩 에이전트. 15개+ AI 프로바이더 지원, TypeScript 확장·스킬·테마 커스터마이징, 트리 구조 세션 히스토리, 자동 요약 맥락 관리. MCP 등은 확장으로 직접 구현하는 철학
+  * [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
   * [무료 터미널 AI 코딩 도우미 Pi 무료 사용법 및 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%ED%84%B0%EB%AF%B8%EB%84%90-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9A%B0%EB%AF%B8-Pi-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Rowboat - Your AI coworker, with memory](https://www.rowboatlabs.com/)
@@ -864,6 +867,8 @@ Artificial Intelligence
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
     * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
+* [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
+  * 장기 메모리, 다중 LLM 프로바이더, 토큰 관리, 자기학습, Telegram 통합을 갖춘 자율 운영 AI 에이전트 스웜. Linux 24/7 운영 설계
 * [TinyFish - The web wasn't built for agents. We're fixing that](https://www.tinyfish.ai/)
   * 엔터프라이즈급 웹 에이전트 자동화 플랫폼. 수백 사이트 병렬 운영, 인증/페이월 뒤 데이터 접근, 서버리스 아키텍처로 브라우저/프록시 관리 불필요
   * [tinyfish-cookbook: A collection of sample apps and recipes built with the TinyFish web agent](https://github.com/tinyfish-io/tinyfish-cookbook)
@@ -2801,6 +2806,13 @@ Artificial Intelligence
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
   * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
+* [Aperant — Software that builds itself](https://aperant.com/)
+  * 자율형 AI 코딩 플랫폼. 멀티 에이전트 파이프라인으로 아키텍처 설계→테스트→배포→유지보수 전체 라이프사이클 자동화. 코딩 관례와 아키텍처 결정사항 자동 학습
+  * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
+    * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
+      * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
+    * [Auto-Claude - 자율적 멀티 세션 AI 코딩 | GeekNews](https://news.hada.io/topic?id=27038)
+    * 최대 12개 병렬 에이전트 터미널, Git Worktree 기반 워크스페이스 격리 및 AI 자동 머지, 메모리 레이어로 에이전트 간 인사이트 공유
 * Antigravity [Google Antigravity](https://antigravity.google/)
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
   * [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity - YouTube](https://www.youtube.com/watch?v=B9cm-NgD-uA)
@@ -3059,12 +3071,24 @@ Artificial Intelligence
   * [개발자 6인, 비개발자 4인의 클로드 코드 실전 사례집 | 요즘IT](https://yozm.wishket.com/magazine/detail/3610/)
   * [How To Make Digital Products Using Claude AI 2.0](https://digitalwealthwithsa.gumroad.com/l/claudeai)
   * [I Left My Desk… But My System Kept Coding (Claude Remote Control) - YouTube](https://www.youtube.com/watch?v=6hssXvkijxQ)
+  * [Claude Code Remote Control — 로컬 세션을 어디서든 이어받는 공식 기능 출시 | GeekNews](https://news.hada.io/topic?id=26977)
+    * Pro/Max 구독자 대상 리서치 프리뷰. 코드는 로컬에서 실행되며 브라우저/모바일 앱으로 실시간 동기화. 세션당 1개 원격 연결, 로컬 터미널 종료 시 세션 종료
+  * [Claude Code에 Auto-Memory 기능 추가 | GeekNews](https://news.hada.io/topic?id=27046)
+    * CLAUDE.md(사용자 가이드라인)와 MEMORY.md(Claude 자체 학습 기록) 분리. 세션 간 프로젝트 컨텍스트·디버깅 경험·선호 접근법을 자동 저장/검색. `/memory` 명령으로 토글
   * [Claude Code에 최근 작업 내용을 저장하고 불러오는 MEMORY 기능이 생겼습니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%91%EC%97%85-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B3%A0-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-memory-activity-7433273480298782720-9uoL)
+  * [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
+    * [Claude Code 활용 방식: 계획과 실행의 분리 | GeekNews](https://news.hada.io/topic?id=26907)
+    * Cloudflare 엔지니어링 리드의 Claude Code 워크플로우. 리서치→계획→주석 순환→구현 4단계로, 코드 작성 전 research.md와 plan.md로 계획을 검토·승인한 뒤 실행하는 방식
+  * [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
+    * [Claude는 왜 Electron 앱일까? | GeekNews](https://news.hada.io/topic?id=26890)
+    * Claude 데스크톱 앱이 Electron인 이유 분석. AI가 크로스플랫폼 네이티브 코드 생성에 능해도, 엣지 케이스 처리와 유지보수의 마지막 10%가 여전히 어려움. 개발자 친숙성과 플랫폼 간 일관성이 성능 최적화보다 우선
+  * [Lessons from Building Claude Code: Seeing like an Agent | trq212 on X](https://x.com/trq212/status/2027463795355095314)
+    * [Claude Code 개발에서 얻은 교훈: 에이전트처럼 생각하기 | lucas_flatwhite on X](https://x.com/lucas_flatwhite/status/2027530715450180022)
+  * [What Claude Code Actually Chooses](https://amplifying.ai/research/claude-code-picks)
+    * [Claude Code가 실제로 선택하는 것 | GeekNews](https://news.hada.io/topic?id=27056)
+    * 2,430개 실제 저장소 분석. 20개 카테고리 중 12개에서 커스텀 솔루션 직접 구축. Sonnet 4.5는 기존 도구 선호, Opus 4.6은 최신 기술 선호. Express/Redux/Jest 등 업계 표준이 의외로 비선택
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
-  * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
-    * [Auto Claude: Turn Claude Code Into a Multi-Agent Coding ARMY (Open Source!) - YouTube](https://www.youtube.com/watch?v=su9UcFzCnh8)
-      * [1인 개발자가 대규모 프로젝트를 순식간에 끝내는 비결 (feat. Auto Claude) - YouTube](https://www.youtube.com/watch?v=VhTumpkXylk)
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
@@ -3120,6 +3144,8 @@ Artificial Intelligence
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
   * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context)
     * [RAG engine for deep document understanding](https://aiengineering.beehiiv.com/p/rag-engine-for-deep-document-understanding)
+  * [claude-delegator: Delegate tasks to Codex GPT 5.2 directly from within Claude Code](https://github.com/jarrodwatts/claude-delegator)
+    * Claude Code 내에서 Codex GPT 5.2에 태스크를 직접 위임하는 플러그인. 멀티 모델 협업으로 Claude의 강점과 Codex의 강점을 동시에 활용
   * [claude-dev: Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way](https://github.com/saoudrizwan/claude-dev)
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
@@ -3194,6 +3220,10 @@ Artificial Intelligence
     * [Everything Claude Code vs Oh My ClaudeCode - 팀/기업 도입 관점 비교 :: ROBOCO](https://roboco.io/posts/everything-claude-code-vs-oh-my-claude-code/)
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
+  * [Garry's plan-exit-review skill](https://gist.github.com/garrytan/001f9074cab1a8f545ebecbc73a813df)
+    * [garry's-plan-exit-review-skill.md](https://drive.google.com/file/d/15Rpjq21M0iwcuz2ACxMHHx2xiTCJuSjb/view)
+    * Y Combinator Garry Tan의 Claude Code 코드 리뷰 스킬. 스코프 도전→아키텍처/코드품질/테스트/성능 4단계 리뷰→의견 기반 권장사항 제시. DRY 원칙, 엣지 케이스 처리 중심
+    * [lucas_flatwhite on X](https://x.com/lucas_flatwhite/status/2026904649035624651)
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [language-skills](https://github.com/tmdgusya/language-skills)
@@ -3210,6 +3240,9 @@ Artificial Intelligence
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
+  * [pixel-agents: Pixel office](https://github.com/pablodelucca/pixel-agents)
+    * [Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents | GeekNews](https://news.hada.io/topic?id=26921)
+    * Claude Code 터미널별 AI 에이전트를 가상 사무실의 픽셀 아트 캐릭터로 시각화하는 VS Code 확장. 실시간 활동 추적(타이핑/읽기/대기), 사무실 커스터마이징, 음성 알림 지원
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
     * [Claude Code로 카카오톡 메시지를 읽고 쓸 수 있는 플러그인을 만들었습니다. 1. 맥락을 파악하고 허락을 맡습니다. 무턱대로 메시지를 보내는게 아니라 이전 메시지를 읽고 적절한 메시지로 만듭니다. 그리고선 바로 보내는게 아니라 반드시 ask user question 으로 유저에게 반드시 메시지 내용을 보여주고 허락을 받습니다. 2… | 정구봉 Goobong Jeong | 19 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7418700836995899410-m9fH)
