@@ -565,6 +565,9 @@ Programming Language
     * [루아(Lua)와 정규표현식 :: 류광의 번역 이야기](https://occamsrazr.net/tt/385)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
+* [Magpie - The LLM-Native Programming Language](https://magpie-lang.com/)
+  * [magpie](https://github.com/magpie-lang/magpie)
+  * [홍석현 - (아마도) 세계 최초로 LLM과 AI 에이전트만을 위한 프로그래밍 언어를 만들었습니다.... | Facebook](https://www.facebook.com/unifiedh/posts/pfbid0EsHwcT1suczYvUJP3SWmBbyC3Mrs4zDv8ZrSe8Wy8Umd7kqFZ4Byhcd5X3a9tLnRl)
 * Nim
   * [nim-lang.org](http://nim-lang.org/)
   * [Araq/Nim](https://github.com/Araq/Nim)
