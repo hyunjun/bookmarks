@@ -587,6 +587,8 @@ Web
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
+* [브라우저가 곧 데이터베이스…로컬 퍼스트의 성숙 | ITWorld](https://www.itworld.co.kr/article/4138184/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ea%b0%80-%ea%b3%a7-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4%eb%a1%9c%ec%bb%ac-%ed%8d%bc%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%84%b1%ec%88%99.html)
+  * PGLite(브라우저 내 PostgreSQL), WebAssembly 기반 로컬 DB로 네트워크 지연 없는 즉각적 UI 반응성 확보. 형상 기반 동기화로 필요한 데이터만 선택적 동기화
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
