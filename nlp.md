@@ -2853,6 +2853,7 @@ NLP
   * [무료인데 역대급 성능! 딥시크(Deep Seek) | 챗GPT, 클로드 뛰어 넘지만 불안한 한가지! - YouTube](https://www.youtube.com/watch?v=dOv0tivK1oc)
   * [Meta의 생성형 AI 조직은 DeepSeek때문에 충격에 빠져있음 | GeekNews](https://news.hada.io/topic?id=18896)
   * [딥시크, "자기 스스로 개선하는 AI, '딥시크-GRM' 공개"... 차세대 언어모델 패러다임 바꾼다! < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34523)
+  * [awesome-deepseek-integration: Integrate the DeepSeek API into popular software](https://github.com/deepseek-ai/awesome-deepseek-integration)
   * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
     * [DeepSeek-R1 모델 공개 | GeekNews](https://news.hada.io/topic?id=18824)
     * [Hugging Face Journal Club - DeepSeek R1 - YouTube](https://www.youtube.com/watch?v=1xDVbu-WaFo)
