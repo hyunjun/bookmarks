@@ -1194,6 +1194,8 @@ Data Science
   * 소리를 이미지처럼 분석하는 CNN, 플레이리스트 제목과 가사를 해석하는 NLP 임베딩, 유저와 노래를 벡터로 매핑하는 협업 필터링 구조
 * [x-algorithm X/트위터가 5억 5천만 사용자의 피드를 결정하는 방법 - by Yongkyun](https://codepointerko.substack.com/p/x-algorithm-x-5-5)
 * [the-algorithm: Source code for the X Recommendation Algorithm](https://github.com/twitter/the-algorithm)
+* [200밀리초의 벽을 지켜라…개발자를 위한 실시간 개인화 가이드 | ITWorld](https://www.itworld.co.kr/article/4135624/200%EB%B0%80%EB%A6%AC%EC%B4%88%EC%9D%98-%EB%B2%BD%EC%9D%84-%EC%A7%80%EC%BC%9C%EB%9D%BC%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B0%9C%EC%9D%B8.html)
+  * 투타워 아키텍처로 후보 생성/랭킹 분리, HNSW 그래프 인덱스로 콜드 스타트 해결, 모델 양자화로 크기 1/4 압축 및 속도 2배 향상, p99.9 지연 시간 기준 사용자 경험 평가
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
