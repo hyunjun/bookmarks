@@ -1185,6 +1185,9 @@ Artificial Intelligence
     * [Vibe 코딩은 버스 팩터를 0으로 만든다 | GeekNews](https://news.hada.io/topic?id=22659)
   * [바이브 코딩이 왜 레거시 코드와 기술 부채를 만드는가](https://brunch.co.kr/@graypool/2411)
   * [바이브코딩 UI 마크다운 생성기 - 초보자용](https://jvibeschool.com/vibeUIgen/)
+  * [Vibe Coding and the Maker Movement](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
+    * [바이브 코딩은 메이커 운동처럼 끝날 것인가 | GeekNews](https://news.hada.io/topic?id=27059)
+    * 메이커 운동과 vibe coding의 구조적 유사성 분석. 메이커 운동은 취미 커뮤니티 단계를 거쳤으나 vibe coding은 즉시 프로덕션에 배포되는 차이. 가치는 취향 개발, 주목 획득, 선물 경제, 신호 포착의 4가지 소비 관점에서 재해석
   * [BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development](https://github.com/bmadcode/BMAD-METHOD)
     * [바이브코딩을 정교하게, 애자일 개발팀 BMAD METHOD (feat. AI 에이전트 설계의 미래)](https://eopla.net/magazines/32389)
   * [**내가 LLM과 함께 코딩하는 방식**](https://hackers.pub/@hongminhee/2025/how-i-code-with-llms)
@@ -2275,6 +2278,8 @@ Artificial Intelligence
   * [스포티파이의 AI 기반 개발 프로세스 혁신 및 성과 ❖ 개발 패러다임의 변화:... - Duke Donghyun Kim | Facebook](https://www.facebook.com/idreaming/posts/pfbid02q4sLVkmkrhuu9MahNdLDWseGwDaAfBa7CYEDaek8ypS1XKJBX6UuL2fQbKtdmz8Hl)
 * [Hatchet · Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
   * [터미널 UI 구축이 이제 쉬워졌다 | GeekNews](https://news.hada.io/topic?id=26694)
+* [수천 명의 CEO들이 AI가 고용이나 생산성에 영향을 주지 않았다고 인정함 | GeekNews](https://news.hada.io/topic?id=26778)
+  * NBER 6,000명 임원 설문에서 약 90%가 AI가 고용·생산성에 영향 없었다고 응답. 임원들의 AI 사용 시간은 주당 ~1.5시간에 불과. 1987년 솔로우의 '생산성 역설'과 유사하게 J-커브 패턴으로 지연된 생산성 돌파가 예상
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2397,6 +2402,10 @@ Artificial Intelligence
 * [Measuring the impact of AI on software engineering – with Laura Tacho](https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software)
   * [데이터는 과장 광고를 이깁니다(Data beats hype)](https://www.linkedin.com/posts/fupfin_measuring-the-impact-of-ai-on-software-engineering-activity-7362475426436276226-Q5Cf/)
     * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
+* [AI 에이전트와 잘못된 생산성 지표 | ITWorld](https://www.itworld.co.kr/article/4136313/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%99%80-%ec%9e%98%eb%aa%bb%eb%90%9c-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%a7%80%ed%91%9c.html)
+  * 하루 1,800건 커밋 같은 지표는 기술 부채의 대량 생산일 수 있음. 코드 작성이 아닌 검증·통합·시스템 이해가 진정한 병목. DORA 메트릭 등 실제 비즈니스 성과 지표 활용 권장
+* [AI가 다시 쓰는 소프트웨어 엔지니어링 전문성 | ITWorld](https://www.itworld.co.kr/article/4136233/ai%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EC%93%B0%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A0%84%EB%AC%B8%EC%84%B1.html)
+  * AI는 코드 작성 비용을 낮추지만 사고 비용은 낮추지 못함. 실제 티켓에는 모호성과 암묵적 맥락이 존재하며, 시스템 아키텍처 품질이 구현 속도보다 중요. 숙련된 엔지니어의 판단력은 대체 불가
 * [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
   * [구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망 | GeekNews](https://news.hada.io/topic?id=15258)
 * [GN#289 AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가 | GeekNews](https://news.hada.io/weekly/202503)
@@ -3140,7 +3149,9 @@ Artificial Intelligence
       * [65 lines of Markdown - a Claude Code sensation | Blog](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
         * [65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체 | GeekNews](https://news.hada.io/topic?id=26655)
       * [65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개 - YouTube](https://www.youtube.com/watch?v=tcDoacn64Lo)
-  * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
+  * [Claude-Mem - Your AI's Perfect Memory Archive](https://claude-mem.ai/)
+    * 전용 관찰 AI가 코딩 세션을 실시간 모니터링하며 의사결정·버그수정·기능·발견 등을 자동 분류 기록. 파일 경로나 개념으로 검색 가능
+    * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
     * [Claude Code 세션 간 메모리가 초기화되는 문제, 이제 플러그인 하나로 해결 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_claude-activity-7406468130274930688-7GPV)
   * [claude-o-clock](https://github.com/beingcognitive/claude-o-clock)
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
