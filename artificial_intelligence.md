@@ -2364,6 +2364,7 @@ Artificial Intelligence
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
+* [AI Explained - Stanford Research Paper](https://drive.google.com/file/d/1H2_QWjauxlrj1UKO2nPd8jd7J8IkKpYm/view)
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
     * AI가 주도하는 거래 방식은 기존의 법과 규제 시스템의 사각지대에 놓여 있다
@@ -2656,6 +2657,9 @@ Artificial Intelligence
 * [Stitch - Design with AI](https://stitch.withgoogle.com/)
   * [GitHub - gemini-cli-extensions/stitch: The Stitch extension for Gemini CLI enables you to interact with the Stitch MCP server using natural language commands. | SangRok Jung](https://www.linkedin.com/posts/sangrok-jung-9ab787311_github-gemini-cli-extensionsstitch-the-activity-7419563139156992000-YbdF)
   * [stitch-mcp: Universal MCP Server for Google Stitch. Connect AI agents to your UI designs](https://github.com/Kargatharaakash/stitch-mcp)
+* [Stax - The complete toolkit for AI evaluation](https://stax.withgoogle.com/landing/index.html)
+  * Google Labs의 AI 평가 플랫폼. 수동 테스트 대신 재사용 가능한 평가 체계 구축, 맞춤형 지표 설정, 데이터 기반 모델 선택 지원. Experiment → Evaluate → Analyze 3단계 워크플로우
+  * [Streamline LLM evaluation with Stax | Google Developers Blog](https://developers.googleblog.com/en/streamline-llm-evaluation-with-stax/)
 * [Storytell.ai | Turn Data into Business Intelligence with AI](https://storytell.ai/)
   * [스토리텔AI로 10초 만에 운영전략 보고서 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3326/)
 * [SuperFoodAI: Python, FastAPI, SQLAlchemy, Node.js, Express.js, JWT, Sequelize, PostgreSQL, React.js, Bootstrap, Jest, Selenium](https://github.com/doganenes/SuperFoodAI)
