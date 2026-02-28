@@ -2116,6 +2116,7 @@ Docker
   * 쿠버네티스 클러스터를 보호하기 위한 12가지 보안 강화 핵심 수칙을 체계적으로 정리한 기술적인 가이드라인
   * "컨테이너가 호스트 시스템에 직접 접근하거나 과도한 권한을 갖지 않도록 최소 권한 원칙을 적용하는 데 집중되어 있으며, 특히 비루트(Non-root) 실행, 특권 모드 금지, 그리고 호스트 네임스페이스 공유 제한 등을 강조"
   * 개발 초기 단계부터 보안을 고려하는 시프트 레프트(Shift-left) 실천을 통해 클러스터 전체의 방어력을 높이는 것을 목적
+* [How Kubernetes Learned to Resize Pods Without Restarting Them | by Dinidu Sachintha | Medium](https://medium.com/@dinidusachintha/how-kubernetes-learned-to-resize-pods-without-restarting-them-158241b5eb06)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
