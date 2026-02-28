@@ -172,6 +172,8 @@ Open Source
 * [한국 연합우주 개발자 모임](https://fedidev.kr/)
   * [글로벌 오픈소스 개발자들은 왜 페디버스에 모일까? 지금, 우리도 페디버스를 탐험할 시간! - 이재열 | UbuCon Korea 2025 - YouTube](https://www.youtube.com/watch?v=FhEhBdvN0Wg)
     * [글로벌 오픈소스 개발자들이 페디버스에 모이는 이유와 페디버스 탐험 가이드: 탈중앙화 SNS의 미래](https://livewiki.com/ko/content/global-open-source-fediverse)
+* [코드를 오픈소스로 공개했더니 이렇게 됩니다... - YouTube](https://www.youtube.com/watch?v=3QxpDK_pikg)
+  * Mutable Instruments, Faker.js, Parse, Meteor, OpenSolaris, Mozilla Firefox
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
