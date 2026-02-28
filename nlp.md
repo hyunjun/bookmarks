@@ -2651,6 +2651,10 @@ NLP
   * [One of the first steps to code LLMs, either for educational, research, or production purposes is to set up your code environment](https://www.linkedin.com/posts/sebastianraschka_build-an-llm-from-scratch-1-set-up-your-activity-7300579403514748928-qvH4/)
 * [한 단어 씩 생성하는 트랜스포머 LLM… 정말 곧 대체되겠네요. 지금 바로 사용 가능 | 10배 빠르고 10배 싸다. 텍스트-이미지 생성처럼 한 방에 텍스트 생성하는 LLM 출시 - YouTube](https://www.youtube.com/watch?v=s2bTE1FPb50) dLLM LLaDA
   * [Mercury Coder](https://chat.inceptionlabs.ai/)
+  * [Introducing Mercury 2 – Inception](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
+    * [Mercury 2: 확산 기반 초고속 추론 LLM | GeekNews](https://news.hada.io/topic?id=27005)
+    * [Mercury 2: 확산 기반 병렬 정제로 1,009토큰/초를 구현한 초고속 추론 LLM](https://digitalbourgeois.tistory.com/2813)
+    * 여러 토큰을 동시에 생성·정제하는 병렬 방식으로 1,009토큰/초 달성, 128K 컨텍스트 지원. OpenAI API 완전 호환
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
 * [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
