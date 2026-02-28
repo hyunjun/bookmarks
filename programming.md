@@ -2608,6 +2608,8 @@ Programming
     * [When Should I Write an Architecture Decision Record - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)
     * [아키텍처 결정 레코드 개요  |  클라우드 아키텍처 센터  |  Google Cloud](https://cloud.google.com/architecture/architecture-decision-records?hl=ko)
   * [govuk-aws: Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure](https://github.com/alphagov/govuk-aws)
+  * [How to Decentralize Architecture Decisions (Without Chaos) - YouTube](https://www.youtube.com/watch?v=8xuptSUYV20)
+    * [아키텍처 의사 결정을 분산화하는 방법 (혼란 없이)](https://livewiki.com/ko/content/decentralize-architecture-decisions-chaos)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [AUTHNZ — Authentication and Authorization in Micro-Service Architecture | by Tanya Sharma | Myntra Engineering | Mar, 2022 | Medium](https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
