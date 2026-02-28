@@ -302,6 +302,8 @@ Sports
     * 이는 2002 월드컵 당시 거스 히딩크 감독이 한국 축구의 체력과 멘탈 관리를 강조했던 것과 유사한 맥락
 * [알론소에게 가장 부족했던 것 ㅣ 원투펀치축구연구소_ep.01 - YouTube](https://www.youtube.com/watch?v=Im_eIZyWEOI)
   * 레알 마드리드의 정체성 및 운영 철학에 맞는 스타일을 갖지 못하고 시스템 축구를 섣부르게 도입하려면서 정치력이 부족했던 알론소
+* [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편 - YouTube](https://www.youtube.com/watch?v=EN1b4PDp4MU)
+  * [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편](https://livewiki.com/ko/content/soccer-coach-commentary-player-impression)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
