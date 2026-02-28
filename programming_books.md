@@ -935,6 +935,8 @@ Programming Books
 
 # Artificial Intelligence
 * [(책모음) AI 관련책 - 2024](https://brunch.co.kr/@topasvga/3835)
+* [Books: Freely shareable AI & Machine-Learning books](https://github.com/AniruddhaChattopadhyay/Books)
+  * 선형대수, 심층학습 면접, LLM 기초, 강화학습, 에이전트 구축, 미세조정, ML 시스템 엔지니어링, 컨텍스트 엔지니어링 등 AI/ML 분야 PDF 13권 모음
 * [10 tech books I'm reading in 2026 - YouTube](https://www.youtube.com/watch?v=fjVUOR9fY24)
   * [2026년에 제가 읽을 기술 서적 10권](https://livewiki.com/ko/content/tech-books-reading)
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
