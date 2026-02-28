@@ -844,6 +844,9 @@ Artificial Intelligence
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
+* [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
+  * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
+  * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
@@ -3574,6 +3577,8 @@ Artificial Intelligence
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
+  * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
+    * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
     * [Claude 3.5 수준 성능을 1/10 가격으로: MaxClaw 229억 파라미터 AI 무료 클라우드 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude-35-%EC%88%98%EC%A4%80-%EC%84%B1%EB%8A%A5%EC%9D%84-110-%EA%B0%80%EA%B2%A9%EC%9C%BC%EB%A1%9C-MaxClaw-229%EC%96%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-AI-%EB%AC%B4%EB%A3%8C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [MimiClaw — Run OpenClaw on $5 Chips](https://mimiclaw.io/)
