@@ -2780,6 +2780,8 @@ Artificial Intelligence
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
   * [AI 코딩 툴, 생산성 높이지만 오류도 1.7배 더 많아…코드래빗 보고서 | ITWorld](https://www.itworld.co.kr/article/4110154/ai-%EC%BD%94%EB%94%A9-%ED%88%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%86%92%EC%9D%B4%EC%A7%80%EB%A7%8C-%EC%98%A4%EB%A5%98%EB%8F%84-1-7%EB%B0%B0-%EB%8D%94-%EB%A7%8E%EC%95%84%EC%BD%94%EB%93%9C.html)
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
+* [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
+  * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
 * Antigravity [Google Antigravity](https://antigravity.google/)
   * [Google Antigravity - 에이전트 시대에 어울리는 새로운 AI 기반 IDE | GeekNews](https://news.hada.io/topic?id=24462)
   * [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity - YouTube](https://www.youtube.com/watch?v=B9cm-NgD-uA)
