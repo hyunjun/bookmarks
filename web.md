@@ -641,6 +641,8 @@ Web
 * [awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing](https://github.com/lorien/awesome-web-scraping)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
+* [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
+  * Apify의 브라우저 핑거프린팅 도구. 스크래퍼의 브라우저 지문을 실제 사용자처럼 생성하여 봇 탐지 우회
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
