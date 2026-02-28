@@ -861,6 +861,9 @@ Artificial Intelligence
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
     * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
+* [TinyFish - The web wasn't built for agents. We're fixing that](https://www.tinyfish.ai/)
+  * 엔터프라이즈급 웹 에이전트 자동화 플랫폼. 수백 사이트 병렬 운영, 인증/페이월 뒤 데이터 접근, 서버리스 아키텍처로 브라우저/프록시 관리 불필요
+  * [tinyfish-cookbook: A collection of sample apps and recipes built with the TinyFish web agent](https://github.com/tinyfish-io/tinyfish-cookbook)
 * [ToolOrchestra: ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows](https://github.com/NVlabs/ToolOrchestra)
   * [ToolOrchestra](https://research.nvidia.com/labs/lpr/ToolOrchestra/)
   * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
