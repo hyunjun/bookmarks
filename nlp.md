@@ -3839,6 +3839,8 @@ NLP
     * [text-embeddings-inference/Dockerfile-cuda at feat/qwen3-reranker-support · danielchalef/text-embeddings-inference](https://github.com/danielchalef/text-embeddings-inference/blob/feat/qwen3-reranker-support/Dockerfile-cuda)
   * [Qwen3.5 - a Qwen Collection](https://huggingface.co/collections/Qwen/qwen35)
     * [Qwen 3.5 Medium 시리즈 공개: 35B 모델이 235B 플래그십을 넘어선 이유](https://digitalbourgeois.tistory.com/2809)
+    * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5)](https://jackyoung96.github.io/2026/02/26/Qwen3-5-GLM-5/)
+      * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5) | Jaekyung Cho](https://www.linkedin.com/posts/jaekyung-cho-7361b521a_diary-llm%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-2-feat-qwen-activity-7432800170339115008-rnlL)
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
