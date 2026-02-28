@@ -1400,6 +1400,8 @@ Docker
 * [글로벌 칼럼 | 쿠버네티스가 풀지 못한 '앱 현대화' 문제의 나머지 절반 - ITWorld Korea](http://www.itworld.co.kr/news/159121)
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
+* [Application Log Transfer Strategies in Kubernetes: A Complete Guide | by Rohit Jindal | Medium](https://medium.com/@r.jindalrohit/application-log-transfer-strategies-in-kubernetes-a-complete-guide-ee36afe6cebc)
+  * [Application Log Transfer Strategies in Kubernetes: A Complete Guide | Donald Lutz](https://www.linkedin.com/posts/donald-lutz-5a9b0b2_application-log-transfer-strategies-in-kubernetes-activity-7432892666834477056-Yllx)
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
 * [Kubernetes Logging with Fluent Bit, Elasticsearch and Kibana | by Raju Dawadi | Medium](https://dwdraju.medium.com/kubernetes-logging-with-fluent-bit-elasticsearch-and-kibana-c4234f71e65b)
 * [Tail logs from multiple Kubernetes pods the easy way | by Geshan Manandhar | THE ICONIC Tech](https://theiconic.tech/tail-logs-from-multiple-kubernetes-pods-the-easy-way-71401b84d7f)
