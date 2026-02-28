@@ -3195,6 +3195,9 @@ Artificial Intelligence
       * 머신러닝/AI (PyTorch Lightning, scikit-learn, SHAP)
       * 물리학/천문학 (Astropy, SymPy)
       * 양자컴퓨팅 (Qiskit, PennyLane) 등
+  * [claude-skills](https://github.com/Jeffallan/claude-skills)
+    * [80개 전문 스킬로 10년 경력 엔지니어 수준 코드 생성: Claude Skills](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-80%EA%B0%9C-%EC%A0%84%EB%AC%B8-%EC%8A%A4%ED%82%AC%EB%A1%9C-10%EB%85%84-%EA%B2%BD%EB%A0%A5-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%88%98%EC%A4%80-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-Claude-Skills)
+    * Python Pro, React Expert, FastAPI Expert, RAG Architect, Debugging Wizard 등 80개+ 전문 스킬. 무료·로컬 환경 사용 가능
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
@@ -3636,6 +3639,7 @@ Artificial Intelligence
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
   * [openclaw-memopt: Memory optimization and organizational protocol for AI agents](https://github.com/jason-allen-oneal/openclaw-memopt)
+  * [openclaw-skill-scanner: Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation](https://github.com/jason-allen-oneal/openclaw-skill-scanner)
   * [OpenClaw-WORKSPACE-GOVERNANCE](https://github.com/Adamchanadam/OpenClaw-WORKSPACE-GOVERNANCE)
   * [opencrabs: The AI terminal-native orchestration layer for software development. Built with Rust](https://github.com/adolfousier/opencrabs)
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
