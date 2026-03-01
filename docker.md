@@ -3094,6 +3094,8 @@ Docker
     * [내가 Docker에 Podman으로 전환한 이유 | GeekNews](https://news.hada.io/topic?id=22931)
   * [podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
     * [Leverage Podman with a Desktop App | Podman Desktop](https://podman-desktop.io/)
+  * [아직도 Docker 쓰시나요? 데몬 없는 컨테이너 'Podman' 완벽 가이드 - YouTube](https://www.youtube.com/watch?v=211IadGwiXQ)
+    * Docker의 중앙 데몬(dockerd) 단일 장애점 문제를 Podman의 데몬리스·루트리스 설계로 해결. 사용자 네임스페이스 맵핑으로 컨테이너 탈출 시에도 호스트 권한 없음. podman generate kube/play kube로 로컬-K8s 간 YAML 양방향 변환. 기존 Docker CLI와 호환(alias docker=podman)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
   * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
   * [videos/portainer-tutorial at main · ChristianLempa/videos](https://github.com/christianlempa/videos/tree/main/portainer-tutorial)
