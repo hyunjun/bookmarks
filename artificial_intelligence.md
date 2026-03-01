@@ -771,6 +771,8 @@ Artificial Intelligence
 * [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
   * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
 * [AI Engineering](https://aiengineering.beehiiv.com/)
+* [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
+  * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
 * [arrakis: A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows](https://github.com/abshkbh/arrakis)
   * AI 에이전트 코드 실행, GUI 환경 사용을 위해, 안전하고 자체 호스팅 가능한 샌드박스(sandbox)를 제공하는 오픈소스 솔루션
   * 마이크로VM 기반의 격리 환경에서 스냅샷(snapshot) 및 복원(restore) 기능 기본 제공
@@ -847,6 +849,7 @@ Artificial Intelligence
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
   * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
+  * [류내원 - Alibaba just handed the AI agent community a... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0hHBbeWKfzHj1b7uV3SV6zrASLx9N1CAmHn5gTXQA8hmCPHgdDdX1H5USsjr2njfSl)
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
@@ -2398,6 +2401,8 @@ Artificial Intelligence
 * [AI의 "치명적인 삼중 위협"을 막는 방법 | GeekNews](https://news.hada.io/topic?id=23396)
 * ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
 * [오픈클로, 실제 행동하는 AI가 만든 새로운 보안 위기 | ITWorld](https://www.itworld.co.kr/article/4126872/%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B3%B4%EC%95%88-%EC%9C%84%EA%B8%B0.html)
+* [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+  * 악의적 웹사이트가 localhost WebSocket으로 OpenClaw 에이전트 제어권 탈취. 게이트웨이 비밀번호 무차별 대입 후 신뢰 장치 등록. 2026.2.25 버전에서 수정
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
