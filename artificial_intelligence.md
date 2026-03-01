@@ -3096,6 +3096,8 @@ Artificial Intelligence
   * [What Claude Code Actually Chooses](https://amplifying.ai/research/claude-code-picks)
     * [Claude Code가 실제로 선택하는 것 | GeekNews](https://news.hada.io/topic?id=27056)
     * 2,430개 실제 저장소 분석. 20개 카테고리 중 12개에서 커스텀 솔루션 직접 구축. Sonnet 4.5는 기존 도구 선호, Opus 4.6은 최신 기술 선호. Express/Redux/Jest 등 업계 표준이 의외로 비선택
+  * [Claude Code: NEW Remote Control, Auto Memory, Plugins & More - YouTube](https://www.youtube.com/watch?v=N-8cVtAl4oI)
+    * Claude Code/Cowork 통합 업데이트 요약. Remote Control(폰/웹에서 세션 접근), Scheduled Tasks(반복 워크플로우), 새 플러그인 레포, Auto Memory, Simplify/Batch 스킬 소개
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
