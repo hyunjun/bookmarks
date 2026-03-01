@@ -3087,6 +3087,8 @@ Artificial Intelligence
   * [Claude Code에 Auto-Memory 기능 추가 | GeekNews](https://news.hada.io/topic?id=27046)
     * CLAUDE.md(사용자 가이드라인)와 MEMORY.md(Claude 자체 학습 기록) 분리. 세션 간 프로젝트 컨텍스트·디버깅 경험·선호 접근법을 자동 저장/검색. `/memory` 명령으로 토글
   * [Claude Code에 최근 작업 내용을 저장하고 불러오는 MEMORY 기능이 생겼습니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%91%EC%97%85-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B3%A0-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-memory-activity-7433273480298782720-9uoL)
+  * [Claude Code 메모리 관리 완전 가이드](https://digitalbourgeois.tistory.com/2816)
+    * Auto Memory(패턴 축적)와 CLAUDE.md(규칙 정의)의 차이, .claude/rules 디렉토리를 통한 모듈형 규칙 관리, Path 기반 조건부 규칙 적용, CLAUDE.md Import 기능 설명
   * [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
     * [Claude Code 활용 방식: 계획과 실행의 분리 | GeekNews](https://news.hada.io/topic?id=26907)
     * Cloudflare 엔지니어링 리드의 Claude Code 워크플로우. 리서치→계획→주석 순환→구현 4단계로, 코드 작성 전 research.md와 plan.md로 계획을 검토·승인한 뒤 실행하는 방식
@@ -3246,6 +3248,8 @@ Artificial Intelligence
     * [lucas_flatwhite on X](https://x.com/lucas_flatwhite/status/2026904649035624651)
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
+  * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
+    * Claude Code CLI용 자동 루프 드라이버, 슬래시 명령어, 카운실 자동화, MCP 브라우저 브릿지, 포트폴리오 거버넌스 통합 도구 모음
   * [language-skills](https://github.com/tmdgusya/language-skills)
     * [Claude code 코드를 쓰다보면 영어로 프롬프팅을 할때가 많은데 이럴때 어휘력이 딸려서 어떤 영어로 적어야 잘 설명하지? 라는 고민이 네이티브가 아니다 보니 항상든다. 그래서 현재 Session 의 영어로 최대한 적은 프롬프트를 /save 커맨드로 저장하고 추후에 /review 를 통해 적절한 문장을 알려주는 Claude code plugin 을… | Seong Hyeon Jeong](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_claude-code-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%93%B0%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%98%81%EC%96%B4%EB%A1%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%95%A0%EB%95%8C%EA%B0%80-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%9D%B4%EB%9F%B4%EB%95%8C-activity-7415404860054872064-9f1D)
   * [marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering](https://github.com/coreyhaines31/marketingskills)
