@@ -167,6 +167,8 @@ Finance
 * [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
 * [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
 * [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
+* ["당장 현금으로 이것 사라" 예적금 돈 싹다 빼서 여기로 옮기세요. 역대급 인생 베팅의 기회 왔습니다 | 박성현 작가 2부 - YouTube](https://www.youtube.com/watch?v=IOwAUtgBVSs)
+  * 달러/엔화/원화 분할매수·매도 전략. 엔화는 850~917원 바닥권으로 투자 시작에 유리한 구간. 원화 투자는 고환율 시 달러 매수로 환차익 실현하는 역발상. 스테이블코인(USDT) 거래소 활용 시 거래 포인트로 추가 수익 가능. 종잣돈 100만원으로도 경험 축적이 핵심
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
 * [특집 올해 채권 투자 전략, '이것'만은 꼭 알고 투자하세요 (김영익 교수) - YouTube](https://www.youtube.com/watch?v=jHE8y9xDH7A)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
