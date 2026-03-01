@@ -2425,6 +2425,8 @@ Artificial Intelligence
   * 개발자 역할이 "코더"에서 "오케스트레이터"로 변화. 명확한 작업 설계, 에이전트 관리, 결과 검토 능력이 새로운 경쟁력. 모호한 목표와 감각적 판단은 여전히 인간 개입 필요
 * [AddyOsmani.com - The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
   * [소프트웨어 엔지니어링의 향후 2년 | GeekNews](https://news.hada.io/topic?id=25769)
+* [김태영 - AI 멀티 에이전트 개발 효과성 분석 - AI 에이전트 11명에게 스프린트를 통째로 맡겨봤습니다 (AI SDLC Agentic Coding 주제로) | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
+  * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
