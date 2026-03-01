@@ -622,6 +622,8 @@ SQL
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+* [SpacetimeDB](https://spacetimedb.com/)
+  * [1000X Faster Than PostgreSQL?! - YouTube](https://www.youtube.com/watch?v=k7ZemI82Qxs)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
