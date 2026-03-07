@@ -3180,6 +3180,8 @@ Artificial Intelligence
   * [Claude Code의 컨텍스트 윈도우, 왜 30분이면 바닥나는가 - Context Mode의 원리와 효과](https://www.fullstackfamily.com/@urstory/posts/13992/Claude-Code%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%99%9C-30%EB%B6%84%EC%9D%B4%EB%A9%B4-%EB%B0%94%EB%8B%A5%EB%82%98%EB%8A%94%EA%B0%80-Context-Mode%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%9A%A8%EA%B3%BC)
     * MCP 도구 출력이 컨텍스트에 영구 축적되어 ~30분 후 성능 저하. Context Mode는 도구 출력을 샌드박스에서 처리 후 필요한 결과만 반환하여 98% 압축, 세션 지속 시간 30분→3시간으로 연장
     * [AI Agents KR | Claude Code 컨텍스트 소비 98% 절감, Context Mode MCP 서버로 세션 6배 확장하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27040012425587833/)
+  * [Claude Code 에이전트 팀 운영 가이드: iTerm2와 tmux로 AI 개발팀 만들기](https://www.fullstackfamily.com/@urstory/posts/14067)
+    * macOS에서 Claude Code 멀티 에이전트 구성. tmux 통합 모드, 에이전트 3~5개가 적절(그 이상은 조율 비용 증가). Git 워크트리로 파일 충돌 방지, 2시간 예상 작업을 10분으로 단축한 사례
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
