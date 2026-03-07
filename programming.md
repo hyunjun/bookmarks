@@ -5764,6 +5764,9 @@ Programming
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [openauth: ▦ Universal, standards-based auth provider.](https://github.com/openauthjs/openauth)
   * [OpenAUTH - 표준 기반의 웹앱/모바일 앱을 위한 인증 프로바이더 | GeekNews](https://news.hada.io/topic?id=18397)
+* [OSINT PH - Digital Forensics & Cybersecurity Consulting](https://www.osintph.info/)
+  * [darkweb-scanner: Cyber Threat Intelligence Platform](https://github.com/osintph/darkweb-scanner)
+  * 셀프호스팅 오픈소스 위협 인텔리전스 플랫폼. 다크웹 크롤링, 텔레그램 키워드 모니터링, 랜섬웨어 그룹 추적, Docker 단일 배포
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
@@ -7464,6 +7467,7 @@ Programming
   * [2월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/02/b-2-2.html)
   * [2월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/02/b-2-3.html)
   * [2월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/02/b-2-4.html)
+  * [3월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/03/b-3-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
