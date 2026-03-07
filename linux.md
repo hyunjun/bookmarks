@@ -1210,6 +1210,7 @@ Linux
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
+* [chartli: CLI that turns plain numbers into terminal charts (ascii, sparkline, bar, heatmap, braille, SVG)](https://github.com/ahmadawais/chartli)
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
 * [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
