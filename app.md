@@ -2459,6 +2459,7 @@ App
 * [Briefer](https://briefer.cloud/)
   * [Briefer – 일정, SQL, 내장 LLM이 포함된 멀티플레이어 노트북 | GeekNews](https://news.hada.io/topic?id=16012)
 * [dddraft.com](http://dddraft.com/)
+* [docmost: Open-source alternative to Notion](https://github.com/docmost/docmost)
 * [Capacities – A studio for your mind](https://capacities.io/)
   * [인간의 두뇌를 닮은 노트 테이킹! - Capacities📒✏️로 세컨드 브레인 만들기 Tutorial #1 - YouTube](https://www.youtube.com/watch?v=txB6-hb7myo)
 * [coda - A doc as powerful as an app](https://coda.io)
