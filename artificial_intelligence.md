@@ -441,6 +441,9 @@ Artificial Intelligence
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
     * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero | Dongwook Park](https://www.linkedin.com/posts/lewis34_what-is-agentic-sre-the-next-evolution-of-activity-7426621751188672512-FsxS)
 * [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
+* [Agentic Engineering Patterns - Simon Willison](https://simonwillison.net/guides/agentic-engineering-patterns/)
+  * [Simon Willison 에이전틱 엔지니어링 패턴 | Youshin Kim](https://www.linkedin.com/pulse/simon-willison-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%A8%ED%84%B4-agentic-engineering-patterns-youshin-kim-hfk1c)
+  * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
 * [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
@@ -2452,6 +2455,15 @@ Artificial Intelligence
 * [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
   * [구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망 | GeekNews](https://news.hada.io/topic?id=15258)
 * [GN#289 AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가 | GeekNews](https://news.hada.io/weekly/202503)
+* [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)
+  * 소프트웨어 개발 과정에서 인공지능 에이전트와 인간의 협업 모델을 사용자 루프(Why Loop), 구현 루프(How Loop) 개념으로 설명
+  * 인간의 가장 이상적인 위치를 '루프 위(On the loop)'라고 정의
+  * 인간이 코드 한 줄씩 검토하는 '루프 안(In the loop)'의 방식은 병목 현상
+  * 반대로 AI에게 모든 것을 맡기는 '바이브 코딩'은 내부 품질 저하를 초래
+  * 따라서 개발자는 직접 코드를 수정하기보다 '하네스 엔지니어링(Harness Engineering)'을 통해
+    * AI가 품질을 스스로 측정하고 개선할 수 있는 통제 체계와 가이드라인을 설계하는 데 집중 필요
+  * 궁극적으로 이러한 체계는 데이터 피드백을 통해 스스로 성능을 높이는 '에이전트 플라이휠'로 진화
+  * 인간이 시스템의 전체적인 방향과 신뢰성을 관리하며 지속적인 개선을 이끌어내는 것을 목표
 * [에이전트 AI 코딩, 프로그래밍 패러다임을 바꾸다](https://digitalbourgeois.tistory.com/2814)
   * 개발자 역할이 "코더"에서 "오케스트레이터"로 변화. 명확한 작업 설계, 에이전트 관리, 결과 검토 능력이 새로운 경쟁력. 모호한 목표와 감각적 판단은 여전히 인간 개입 필요
 * [AddyOsmani.com - The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
@@ -2878,6 +2890,7 @@ Artificial Intelligence
   * [코딩 몰라도 OK! 구글 제미나이 3.0 안티그라비티 (Antigravity) 로 나만의 'AI 주식 자동 분석 앱' 만들기 (무료) - YouTube](https://www.youtube.com/watch?v=6ALU6SVIDdw)
     * [코딩 없이 구글 Antigravity로 'AI 주식 자동 분석 앱' 만드는 법 (무료)](https://livewiki.com/ko/content/google-antigravity-ai-stock-app)
   * [구글 안티그래비티: 디자이너의 창작 놀이터](https://brunch.co.kr/@ghidesigner/393)
+  * [딸깍! 안티그래비티로 네이버API 사용해서 비즈니스 보고서와 대시보드 만들고 무료 배포하기 - YouTube](https://www.youtube.com/watch?v=C8WxCXHSiko)
   * [antigravity-awesome-skills: The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel](https://github.com/sickn33/antigravity-awesome-skills)
 * [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
