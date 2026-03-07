@@ -127,6 +127,8 @@ Art
   * [아바타: 불과 재 해석 – 에이와는 실체가 없는 믿음일까?](https://livewiki.com/ko/content/avatar-fire-ash-review-8)
 * [한국영상자료원 KMDb - 월간 스크린 잡지 아카이브](https://www.facebook.com/koreanfilmarchive/posts/1326207129538676/)
   * KMDb에서 월간 스크린 1984년 3월호~2000년 12월호 통권 열람 가능
+* [유성호 - 국내 최초 100% 생성형 AI 프로덕션 중장편 영화 | Facebook](https://www.facebook.com/share/p/1BDFRypyue/)
+  * 한 명의 감독과 한 명의 작가, 컴퓨터만으로 제작한 생성형 AI 영화
 
 # Music
 * [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
