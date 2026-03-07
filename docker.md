@@ -1414,6 +1414,11 @@ Docker
 * [Canonical introduces high-availability Micro-Kubernetes | ZDNet](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 * [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
+* [VITO CI/CD 변천사 #1 | 손스케일링. 안녕하세요. 리턴제로에서 서버팀을 맡고있는 Castor입니다. 저희가… | by Kim Seong Su | returnzero | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-1-%EC%86%90%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-a7a8eb9a4407)
+* [VITO CI/CD 변천사 #2 | Container Orchestration | by Choi Geonu | returnzero | Aug, 2022 | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-2-container-orchestration-fcd466d6479c)
+* [AI-Powered Self-Healing CI/CD Pipelines Using GitLab and Kubernetes](https://medium.com/@prem17/ai-powered-self-healing-ci-cd-pipelines-using-gitlab-and-kubernetes-9a14b93058fc)
+  * [Donald Lutz](https://www.linkedin.com/posts/donald-lutz-5a9b0b2_ai-powered-self-healing-cicd-pipelines-using-activity-7434988169822998528-4jVp)
+  * GitLab + K8s로 AI 기반 자가 치유 CI/CD 파이프라인 구현 가이드
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
 * [Living with Kubernetes: 12 Commands to Debug Your Workloads – The New Stack](https://thenewstack.io/living-with-kubernetes-12-commands-to-debug-your-workloads/)
 * [Cheat Sheet – Kubernetes and Linux Commands | ReviewNPrep](https://reviewnprep.com/blog/cheat-sheet-kubernetes-and-linux-commands/)
@@ -1739,8 +1744,6 @@ Docker
 * [Kubeadm을 이용한 ARMv8 클러스터 구축. 최근 다양한 기업들이 ARM 진영에 관심을 가지면서 고성능 프로세서들이… | by inerplat | Aug, 2021 | Medium](https://medium.com/@inerplat/kubeadm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-armv8-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95-12a642af3213)
 * [DevOps Tutorials | Set Up k8s with KubeAdm Initializing a worker Node and Joining to K8S Cluster - YouTube](https://www.youtube.com/watch?v=R8llq3z2D3Y)
 * [kubeadm Master 3개 설정 (Haproxy)](https://velog.io/@pingping95/Kubernetes-kubeadm-Master-%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
-* [VITO CI/CD 변천사 #1 | 손스케일링. 안녕하세요. 리턴제로에서 서버팀을 맡고있는 Castor입니다. 저희가… | by Kim Seong Su | returnzero | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-1-%EC%86%90%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-a7a8eb9a4407)
-* [VITO CI/CD 변천사 #2 | Container Orchestration | by Choi Geonu | returnzero | Aug, 2022 | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-2-container-orchestration-fcd466d6479c)
 * [Kubernetes Native Edge Computing Framework, kubeEdge I Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=JEdRAW6O-kM)
 * [Re: 제로부터 구축한 새 홈페이지, homin.dev | Homin Lee's blog](https://suapapa.github.io/blog/post/20220908_homin-dev_with_k8s/)
 * [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
@@ -2318,6 +2321,9 @@ Docker
     * 혹은 사이드카보다 서비스 컨테이너가 먼저 뜨면 네트워크에 접속하지 못하는 문제
     * Kubernetes가 이를 해결하기로 해서 1.28부터 사이드카를 지원하는 `SidecarContainers` 기능이 드디어 추가
       * 이를 사용해서 istio 프락시를 실행했을 때 `initContainers`로 실행되고 컨테이너가 죽었을 때 사이드카도 같이 죽음
+  * [How a Request Travels Through Kubernetes Using Gateway API and Istio](https://medium.com/@nirupamagr738/how-a-request-travels-through-kubernetes-using-gateway-api-and-istio-a-real-networking-story-2ff03adc4ba7)
+    * [Donald Lutz](https://www.linkedin.com/posts/donald-lutz-5a9b0b2_how-a-request-travels-through-kubernetes-activity-7434959739106795520-BrWj)
+    * Gateway API와 Istio 서비스 메시를 통해 요청이 Kubernetes 클러스터에서 이동하는 전체 흐름 설명
   * [kyc-docker-k8-istio: ServiceMesh with Docker K8 Istio - KYC scenario](https://github.com/vijayredkar/kyc-docker-k8-istio)
     * [BankNext Case Study — ServiceMesh with Docker-K8-Istio-Sidecar | by Vijay Redkar | Nov, 2021 | Medium](https://vijayredkar.medium.com/banknext-case-study-servicemesh-with-docker-k8-istio-sidecar-b5e3ba930835)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
