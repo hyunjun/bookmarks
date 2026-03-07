@@ -333,6 +333,9 @@ Google Cloud Platform GCP
 * [generative-ai: Sample code and notebooks for Generative AI on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai)
 * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
   * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
+* [Google Workspace CLI: one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more](https://github.com/googleworkspace/cli)
+  * [Google Workspace를 CLI 하나로 제어하는 도구, gws 완전 정리](https://digitalbourgeois.tistory.com/2841)
+  * Google Discovery Service 기반으로 동적 빌드. Drive/Gmail/Calendar/Sheets/Docs/Chat/Admin 등 통합 CLI. AI 에이전트 스킬 포함
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
 
 # TDD, Test
