@@ -653,6 +653,8 @@ Java
 * [Concurrency - Part 2 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%202/)
 * [Concurrency - Part 3 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%203/)
 * [Concurrency - Part 4 - Curiosity into `Code`](https://moham.dev/java/Concurrency%20-%20Part%204/)
+* [Java Concurrency Evolution](https://hackmd.io/@HomoEfficio/H1V21v4K-l)
+  * Java 동시성 진화 과정: Thread → ExecutorService → Fork/Join → CompletableFuture → Reactive → Project Loom Virtual Threads 비교
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -1136,7 +1138,6 @@ Java
 
 # Java25
 * [Java 25 / JDK 25 정식 출시 | GeekNews](https://news.hada.io/topic?id=23133)
-
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
@@ -2657,6 +2658,7 @@ Java
   * [자바ㆍ자바스크립트용 풀 스택 프레임워크, 제이힙스터의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/239909)
 * [Namastack Outbox for Spring Boot](https://outbox.namastack.io/)
   * [컬리의 입고 시스템이 외부 인입 데이터를 안전하게 동기화하는 방법 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2026-outbox-pattern-and-retry-topic/) outbox pattern
+* [로그 데이터 운영 비용 효율화 - Spring Batch 병렬 처리 전략](https://medium.com/@hyeon9mak/%EB%A1%9C%EA%B7%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9A%B4%EC%98%81-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%ED%99%94-spring-batch-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC-%EC%A0%84%EB%9E%B5-e2c76b3e39c4)
 * [project-web-starter: KYUNGSEO.PoC - Project Web Starter Template (웹 애플리케이션 개발 프로젝트를 시작하기 위한 기반 템플릿)](https://github.com/kyungseo/project-web-starter)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [spring-boot-jwt-vue3: Spring @RestController로 구현한 'API 서버'와 Vue.js로 구현한 'SPA 클라이언트' 간의 인증(Authentication) 및 인가(Authorization) 기능을 JWT로 구현한 Demo App입니다](https://github.com/kyungseo/spring-boot-jwt-vue3)
@@ -2703,6 +2705,8 @@ Java
       * 이 균열을 해소하는 것이 프로젝트 발할라의 목적
     * 객체 참조로 성능 최적화에 어려움이 있고 참조 버킷으로 인해서 부풀려진 메모리가 저장되는 문제 존재
       * 이를 해결하기 위해 값 클래스와 프리미티브 클래스를 도입
+
+* [Tracing Java's Hidden Performance Traps by Victor Rentea - YouTube](https://www.youtube.com/watch?v=gfBTuL7xkp8)
 
 # Reactive
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
