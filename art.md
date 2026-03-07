@@ -57,6 +57,7 @@ Art
 * [행동을 유도하는 재밌는 방법, 넛지](http://ppss.kr/archives/40549)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth)
 * [Dieter Rams: If I Could Do It Again, "I Would Not Want To Be A Designer"](http://m.fastcompany.com/3043815/dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer)
+* [지금 받아야 무료인 개꿀 디자인 툴 - YouTube](https://www.youtube.com/watch?v=xJoEKjgXsbI)
 
 # Fashion
 * [사토리얼리스트 스콧 슈먼이 패션을 말하다](http://www.huffingtonpost.kr/ahmad-khan/story_b_7157998.html)
@@ -124,6 +125,8 @@ Art
 * 왝 더 독 Wag the Dog [언더 찐윤의 활개, 국민이 가십에 매몰되는 순간 영화로 읽는 세상](https://v.daum.net/v/20250810175627740)
 * [《아바타: 불과 재》 해석 리뷰｜에이와는 실체가 없는 믿음일까? - YouTube](https://www.youtube.com/watch?v=4YMpnGep-tY)
   * [아바타: 불과 재 해석 – 에이와는 실체가 없는 믿음일까?](https://livewiki.com/ko/content/avatar-fire-ash-review-8)
+* [한국영상자료원 KMDb - 월간 스크린 잡지 아카이브](https://www.facebook.com/koreanfilmarchive/posts/1326207129538676/)
+  * KMDb에서 월간 스크린 1984년 3월호~2000년 12월호 통권 열람 가능
 
 # Music
 * [apps.avid.com/ProToolsFirst](http://apps.avid.com/ProToolsFirst/)
