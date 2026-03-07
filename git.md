@@ -1312,6 +1312,8 @@ Git
 * [Observability and GitOps - DZone DevOps](https://dzone.com/articles/observability-and-gitops)
 * [데브옵스의 확장 모델 - 깃옵스(GitOps) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30601103&memberNo=36733075&navigationType=push)
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
+* [GitOps architecture, patterns and anti-patterns](https://platformengineering.org/blog/gitops-architecture-patterns-and-anti-patterns)
+  * 프로덕션 GitOps 구현 가이드. 아키텍처 기초, 상태 저장소 옵션, 멀티 클러스터 전략, 안티패턴
 * [OpenGitOps 1.0 is finally here and why you should care | OpenGitOps](https://opengitops.dev/blog/1.0-announcement/)
 * [A ‘Hello World’ GitOps Example Walkthrough – zwischenzugs](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough/)
 * [GitOps (Flux) Extension for VS Code with Kingdon Barrett - YouTube](https://www.youtube.com/watch?v=bY-yFdc73Zc)
