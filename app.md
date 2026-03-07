@@ -359,6 +359,9 @@ App
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
 * [BookStack - a simple, self-hosted, easy-to-use platform for organising and storing information](https://www.bookstackapp.com/)
+* [cafelua.com: AI 기반 커피 챗, 타로, 일기, 방명록을 제공하는 가상 찻집 웹앱](https://github.com/luke-n-alpha/cafelua.com)
+  * [카페루아 인프라 - 거의 공짜로 굴리는 법](https://www.cafelua.com/ko/desk/20260306-%EC%B9%B4%ED%8E%98%EB%A3%A8%EC%95%84-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B1%B0%EC%9D%98-%EA%B3%B5%EC%A7%9C%EB%A1%9C-%EA%B5%B4%EB%A6%AC%EB%8A%94-%EB%B2%95/)
+  * Next.js 16 + Gemini 2.5 Flash. Vercel/Firebase 무료 티어로 도메인 등록비만 월 고정 비용
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
   * [아 docusaurus 그렇게 쓰는거 아닌데 쿸쿠루삥뽕](https://velog.io/@juunini/%EC%95%84-docusaurus-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%93%B0%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%8C%EB%8D%B0-%EC%BF%B8%EC%BF%A0%EB%A3%A8%EC%82%A5%EB%BD%95)
