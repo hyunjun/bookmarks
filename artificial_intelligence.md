@@ -752,6 +752,7 @@ Artificial Intelligence
   * [/init으로 생성한 AGENTS.md가 오히려 비용을 20% 늘리는 이유와 올바른 컨텍스트 설계 전략](https://digitalbourgeois.tistory.com/2811)
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
+* [Agent를 일잘러로 만드는 스킬 작성의 기본 | Sungjin Kim, Ph.D.](https://kr.linkedin.com/pulse/agent%EB%A5%BC-%EC%9D%BC%EC%9E%98%EB%9F%AC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%ED%82%AC-%EC%9E%91%EC%84%B1%EC%9D%98-%EA%B8%B0%EB%B3%B8-sungjin-kim-ph-d--3rtic)
 * [Agent Skills](https://agentskills.io)
   * [Claude 가 만든 skills 가 OpenAI, Cursor 등이 받아들이며 agentskills.io 라는 표준... 이제 SKILL.md, scripts/, references/, assets/ 구조를 따르지 않으면 성능 하락](https://www.linkedin.com/posts/gb-jeong_claude-%EA%B0%80-%EB%A7%8C%EB%93%A0-skills-%EA%B0%80-openai-cursor-%EB%93%B1%EC%9D%B4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%9D%B4%EB%A9%B0-activity-7408299241556606976-Ol2y/)
   * [🔍 Anthropic 이 공개한 SKILL.md body 작성 규칙 5가지, 문서에 숨어 있었습니다 놓치기 쉬운 부분입니다. Skill 은 YAML frontmatter 두 줄이면 만들 수 있지만 body 를 어떻게 쓰느냐에 따라 결과물 품질이 완전히 갈리거든요. Anthropic 공식 문서와 엔지니어링 블로그를 교차 검증하면서 작동 구조와… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_anthropic-%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-skillmd-body-%EC%9E%91%EC%84%B1-%EA%B7%9C%EC%B9%99-5%EA%B0%80%EC%A7%80-activity-7428729561946722304-O3kE)
@@ -2321,6 +2322,9 @@ Artificial Intelligence
   * [터미널 UI 구축이 이제 쉬워졌다 | GeekNews](https://news.hada.io/topic?id=26694)
 * [수천 명의 CEO들이 AI가 고용이나 생산성에 영향을 주지 않았다고 인정함 | GeekNews](https://news.hada.io/topic?id=26778)
   * NBER 6,000명 임원 설문에서 약 90%가 AI가 고용·생산성에 영향 없었다고 응답. 임원들의 AI 사용 시간은 주당 ~1.5시간에 불과. 1987년 솔로우의 '생산성 역설'과 유사하게 J-커브 패턴으로 지연된 생산성 돌파가 예상
+* [개발자는 결국 이렇게 살아남습니다 with 인공지능의 스승 앤드류 응 - YouTube](https://www.youtube.com/watch?v=vENN6-d_3AQ)
+  * [박성철 - 응 사마 영상 추천](https://www.linkedin.com/posts/fupfin_%EC%96%B4%EC%A0%9C-%ED%87%B4%EA%B7%BC%EA%B8%B8%EC%97%90-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%B4-%EC%A4%98%EC%84%9C-%EB%B3%B8-%EC%9D%91-%EC%82%AC%EB%A7%88-%EC%98%81%EC%83%81%EC%9D%B8%EB%8D%B0-%EC%9E%A0%EC%9D%84-%EB%AA%BB-%EC%9E%98-%EC%A0%95%EB%8F%84%EB%A1%9C-activity-7419877920317513728-11kF)
+  * Andrew Ng 인터뷰. AI가 실험 비용을 줄여 리스크를 0에 가깝게 만듦. 개발자에게 낙관적 메시지
 * [Dario Amodei and Ali Ghodsi: Anthropic + Databricks, AI Agents in the Enterprise - YouTube](https://www.youtube.com/watch?v=MTsoRWPS46o)
   * Anthropic CEO와 Databricks CEO 대담. 엔터프라이즈 AI 에이전트, AI 스케일링 법칙, Anthropic-Databricks 파트너십
 * [AI를 잘 쓰는 사람과 못 쓰는 사람의 차이 | DEVLOG Facebook](https://www.facebook.com/groups/765872100510405/posts/2412852515812347/)
@@ -3752,6 +3756,10 @@ Artificial Intelligence
   * [ClawEval: OpenClaw Backend Local on GPU](https://github.com/explaindio/ClawEval)
     * [OpenClaw Community | ClawEval | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611344723349251/)
     * 단일 GPU(24GB VRAM)에서 14개 AI 에이전트를 100% 로컬로 실행하는 벤치마크
+  * [ClawHost - Deploy OpenClaw. One click. Done.](https://clawhost.cloud/)
+    * [clawhost: One-click cloud hosting for OpenClaw AI agents](https://github.com/bfzli/clawhost)
+    * [ClawHost로 OpenClaw를 단 1분 만에 VPS에 배포하는 방법과 아키텍처 완전 정리](https://digitalbourgeois.tistory.com/2764)
+    * Hetzner/DigitalOcean/Vultr에서 OpenClaw 원클릭 배포. DNS, SSL, 인프라 자동 프로비저닝
   * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
     * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
