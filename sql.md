@@ -1501,6 +1501,11 @@ SQL
 * [TeslaMate (테슬라메이트) 자동백업 스크립트](https://seonggi.kr/291)
   * [TeslaMate (테슬라메이트) 자동백업 스크립트 | Choi Seong Gi (최성기)](https://www.linkedin.com/posts/seonggi_teslamate-%ED%85%8C%EC%8A%AC%EB%9D%BC%EB%A9%94%EC%9D%B4%ED%8A%B8-%EC%9E%90%EB%8F%99%EB%B0%B1%EC%97%85-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-activity-7391660851105099777-mko4)
 * [백엔드는 PostgreSQL 하나로 끝 (DB 비용 반으로 줄이는 방법) - YouTube](https://www.youtube.com/watch?v=OZrmFD2ajlQ)
+* [Slotted Page - Roach Wiki](https://roach-wiki.com/slotted-page)
+  * 가변 크기 레코드를 고정 크기 페이지에 저장할 때 내부 단편화 해결을 위한 Slotted Page 자료구조. Pointer Array와 Cell 영역 분리로 간접 참조 및 빈 공간 회수
+* [RDB에서 큰 컬럼을 인덱스로 잡으면 안되는 이유 - Roach Wiki](https://roach-wiki.com/rdb)
+  * B-Tree 인덱스에서 큰 데이터의 Page Split과 Overflow Page 격리. Primary Page를 가볍게 유지해 Fanout 최대화 및 디스크 I/O 최소화
+  * [요즘 근황 - github issue 자동 처리 cron job | 승현 정](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_%EC%9A%94%EC%A6%98-%EA%B7%BC%ED%99%A9-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C%EB%8A%94-github-issue-%EB%A5%BC-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%97%90-%EB%A7%9E%EA%B2%8C-%EC%98%AC%EB%A6%AC%EB%A9%B4-activity-7432756344430030848-89i2)
 * [PostgreSQL SharedBuffer 깊이 파헤치기 - Roach Wiki](https://roach-wiki.com/wiki/doc-1760077774)
 * [Postgres Sandbox](https://database.build/)
 * [Postgres Scan Types in EXPLAIN Plans | Crunchy Data Blog](https://www.crunchydata.com/blog/postgres-scan-types-in-explain-plans)
