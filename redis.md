@@ -326,6 +326,9 @@ Redis
     * Java와 Python에서 사용할 수 있으며, 주요 오픈소스 패키지 관리자에서 다운로드 가능
   * [Stop Using Redis. Use Open Source Instead - YouTube](https://www.youtube.com/watch?v=npnagMgbruc)
   * [Redis 와 Valkey 무엇을 선택해야 할까? | Charsyam's Blog](https://charsyam.wordpress.com/2025/05/03/redis-%ec%99%80-valkey-%eb%ac%b4%ec%97%87%ec%9d%84-%ec%84%a0%ed%83%9d%ed%95%b4%ec%95%bc-%ed%95%a0%ea%b9%8c/)
+  * [valkey-glide-test](https://github.com/whchoi98/valkey-glide-test)
+    * [Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_github-whchoi98valkey-glide-test-valkey-glide-test-activity-7435351195633885185-uBtu)
+    * EKS 환경에서 Valkey + GLIDE 클라이언트로 AZ-aware 연결, cross-AZ 네트워크 비용 절감 및 지연 시간 감소
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
