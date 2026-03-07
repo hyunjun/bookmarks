@@ -112,6 +112,8 @@ Baby
 * [김성원 - 창의융합 교과운영의 모범. 런던의 토마스 탈리스 스쿨 Thomas Tallis School 영국 런던의... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0ApfrkidpNH5uzmdpuhcXnkL3AmEtuovkbgZJy5wmpBrQkyJrfHZbnDNzai77hkUSl)
 * [김성원 - 경제 데이터 리터러시를 중점 교육하는 경제금융 고등학교 - HSEF 경제 데이터 리터러시(Economic... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid02P3zSLmJG49zjufBR8RWTA7NWjHd1ifq4NbAouVZuD4g74vKaauGmZj33HztocUR3l)
 * [김성원 - 핀란드의 멀티 미디어 리터러시 교육, 1960년대 모더니즘 학교 건축 핀란드는 급변하는 디지털 정보 환경에... | Facebook](https://www.facebook.com/fatdogfish/posts/pfbid0Ecqj6i24zyFgACPxv8DngDtTd6eUxVrMNSvG7MyC8nn4kyh6m41tMzngEjXMLdCZl)
+* [경제학자가 밝힌 가장 확실한 자녀 투자법](https://heesight.com/1657)
+  * 헤크만 곡선에 따르면 투자 효과가 가장 큰 시기는 영유아기(~만 5세). AI가 인지 기능을 대체하므로, 공감·자존감·정서적 안정성 같은 비인지 기능을 영유아기부터 키워야 함
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
