@@ -3873,6 +3873,11 @@ Artificial Intelligence
     * 모델 기억 한계를 고려해 전체 스펙을 한 번에 넣지 말고, 현재 작업에 필요한 부분만 잘라 제공하는 '컨텍스트 엔지니어링' 필요
   * 5. 읽기 전용 계획 모드 활용
     * 코드 작성 전 Claude Code 'Plan Mode'처럼 수정 권한 없이 분석/계획만 세우는 단계를 거쳐 실수 방지
+* [Backlog.md: A tool for managing project collaboration between humans and AI Agents in a git ecosystem](https://github.com/MrLesk/Backlog.md)
+  * [Backlog.md: The simplest project management tool for the AI Era by Alex Gavrilescu - YouTube](https://www.youtube.com/watch?v=c8l5Lai1454)
+  * [Backlog.md로 AI 에이전트와 프로젝트 관리하기](https://livewiki.com/ko/content/backlog-md-project-management-ai)
+  * [AI와 Git을 품은 태스크 관리 도구, Markdown 업무보드 Backlog.md](https://blog.pages.kr/3564)
+  * 마크다운 기반 프로젝트 관리 도구. 인간과 AI 에이전트가 Git 생태계에서 협업하는 가장 단순한 방식
 * [freebsd-brcmfmac: FreeBSD native WiFi driver for BCM4350 (MBP 2016) — in progress](https://github.com/narqo/freebsd-brcmfmac)
   * [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI built one for me - Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
   * [FreeBSD에는 내 오래된 MacBook용 Wi-Fi 드라이버가 없었다, 그래서 AI가 | GeekNews](https://news.hada.io/topic?id=26957)
