@@ -2314,6 +2314,10 @@ AWS
 * [Smithy — Smithy 1.0 documentation](https://awslabs.github.io/smithy/)
   * [AWS Smithy - 서비스 및 SDK 정의용 언어 | GeekNews](https://news.hada.io/topic?id=4218)
 * [ssh-over-ssm Configure SSH and use AWS SSM to connect to instances](https://github.com/elpy1/ssh-over-ssm)
+* [strands-labs](https://github.com/strands-labs)
+  * [Introducing Strands Labs: State-of-the-Art Experimental Approaches to Agentic Development](https://aws.amazon.com/blogs/opensource/introducing-strands-labs-get-hands-on-today-with-state-of-the-art-experimental-approaches-to-agentic-development/)
+    * [Amazon Launches Strands Labs for Open Source AI Innovation | Swaminathan Sivasubramanian](https://www.linkedin.com/posts/swaminathansivasubramanian_today-aws-is-furthering-our-commitment-to-ugcPost-7431777460066799616-Voeb)
+    * AWS의 에이전틱 AI 실험 프로젝트 허브. AI Functions, Robots, Robots Sim 포함. Strands SDK 1400만+ 다운로드
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
