@@ -387,6 +387,9 @@ NLP
   * The article also mentions the popular two-phase post-training methodology, supervised instruction fine-tuning, and direct preference optimization (DPO)
 * [DPO 톺아보기 · likejazz.com](https://likejazz.com/dpo/)
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
+* [ART: Agent Reinforcement Trainer - Open-source RL for LLMs](https://github.com/OpenPipe/ART)
+  * [How to fine-tune LLMs in 2026 (100% open-source, reward-free RFT) | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_how-to-fine-tune-llms-in-2026-100-open-source-activity-7434989161377558528-Wktz)
+  * GRPO+RULER(LLM-as-judge) 조합으로 수동 reward function 없이 LLM 파인튜닝. Multi-turn tool call 네이티브 지원
 * [Fine-Grained Human Feedback으로 LLM을 더 잘 학습 할 수 있는가? | NeurIPS 2023 | 김강민 - YouTube](https://www.youtube.com/watch?v=JATgComUQiw)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
@@ -2954,6 +2957,8 @@ NLP
   * [AutoGLM Blog](https://autoglm.z.ai/blog/)
     * [Open-AutoGLM: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone](https://github.com/zai-org/Open-AutoGLM/)
     * [🤖 AutoGLM-Phone-Multilingual: 스마트폰을 AI 비서로 만드는 오픈소스 프로젝트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AutoGLM-Phone-Multilingual-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84-AI-%EB%B9%84%EC%84%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+* [glm-5, qwen3-max, MiniMax-M2.5 AI 모델에 웹 검색과 이미지 인식 기능 추가하기](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8Fglm-5-qwen3-max-MiniMax-M25-AI-%EB%AA%A8%EB%8D%B8%EC%97%90-%EC%9B%B9-%EA%B2%80%EC%83%89%EA%B3%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+  * Alibaba Cloud Model Studio에서 웹 검색 기능 추가 + Firecrawl MCP와 Skill/Agent로 텍스트 전용 모델에 시각 기능 확장
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
@@ -3743,6 +3748,8 @@ NLP
   * [2402.00838 OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
     * [OLMo(Open Language Model) : 완전한 오픈소스 대형 언어 모델](https://fornewchallenge.tistory.com/entry/OLMoOpen-Language-Model-%EC%99%84%EC%A0%84%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8C%80%ED%98%95-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
   * [Olmo 3: Charting a path through the model flow to lead open-source AI | Ai2](https://allenai.org/blog/olmo3)
+  * [75% 향상된 추론 효율성, 무료 Olmo Hybrid 7B 사용법](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Olmo-Hybrid-7B%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+    * RNN+Transformer 결합. 2배 데이터 효율성, 75% 추론 효율성 향상
     * [Olmo 3.1 32B Think 심층 분석: 투명성과 성능의 완벽한 조화](https://fornewchallenge.tistory.com/entry/Olmo-31-32B-Think-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-%ED%88%AC%EB%AA%85%EC%84%B1%EA%B3%BC-%EC%84%B1%EB%8A%A5%EC%9D%98-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A1%B0%ED%99%94)
 * [OmniVinci: Joint Visual-Audio Understanding](https://nvlabs.github.io/OmniVinci/)
   * [OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language](https://github.com/NVlabs/OmniVinci/)
@@ -3955,7 +3962,6 @@ NLP
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 * [ZHIPU AI OPEN PLATFORM](https://open.bigmodel.cn/)
   * ["오픈AI와 딥시크는 저리비켜!"... 中 즈푸AI, 고성능 'AI 에이전트' 무료 공개로 글로벌 AI 패권 경쟁 가속 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34428)
-
 ## Language Model LM GPT
 
 * [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
