@@ -3744,6 +3744,7 @@ Artificial Intelligence
     * 설치 가이드 + 수익 창출 5가지 방법: 고객 서비스 봇, 콘텐츠 자동화 대행사, AI 컨설팅, 리드 생성 봇, 개인 AI 어시스턴트 서비스
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
+  * [OpenClaw Ollama Qwen 3.5-0.8B 연동 No API key 오류 해결 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%A8-OpenClaw-Ollama-Qwen-35-08B-%EC%97%B0%EB%8F%99-No-API-key-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
   * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
     * AgentMail, Here Now, Tavily, FireCrawl, Remotio 등 OpenClaw 에이전트와 함께 매일 사용하는 무료 도구 5선
