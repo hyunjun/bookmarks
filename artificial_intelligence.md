@@ -434,6 +434,8 @@ Artificial Intelligence
   * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
   * [Unlocking the Codex harness | OpenAI](https://openai.com/index/unlocking-the-codex-harness/)
     * [Codex App Server 아키텍처: OpenAI가 표준 하네스로 통합한 에이전트 실행 구조](https://digitalbourgeois.tistory.com/2804)
+  * [Agent-First 시대의 소프트웨어 개발 전략: Codex로 코드 한 줄 안 쓰고 제품 만든 엔지니어링 인사이트](https://digitalbourgeois.tistory.com/2825)
+    * AI 에이전트가 코드 100% 생성하는 실험적 제품 개발 사례. 인간의 역할이 코딩에서 시스템 설계, 아키텍처 관리, 피드백 루프 최적화로 전환
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
@@ -711,6 +713,8 @@ Artificial Intelligence
   * [Amazon Research: Lightweight Multi-Agent System for Business Data Analysis | Elvis S. posted on the topic | LinkedIn](https://www.linkedin.com/posts/omarsar_new-research-from-amazon-great-paper-showing-activity-7422645738649812993-_rZ9)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [agent-browser](https://agent-browser.dev/)
+  * [Vercel agent-browser 소개: AI 에이전트를 위한 새로운 헤드리스 브라우저 자동화 CLI](https://digitalbourgeois.tistory.com/2840)
+    * Rust 기반 CLI, Chrome DevTools Protocol 직접 호출로 AI 에이전트 웹 브라우저 자동화 성능 향상
   * [agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
   * [에이전트 브라우저 AI가 스스로 작업물을 테스트하다 - YouTube](https://www.youtube.com/watch?v=OjzAVFlU8JQ)
   * [⚡Vercel이 만든 무료 AI 브라우저 자동화 도구, 웹 스크래핑 봇 5분 만들기](https://fornewchallenge.tistory.com/entry/%E2%9A%A1Vercel%EC%9D%B4-%EB%A7%8C%EB%93%A0-%EB%AC%B4%EB%A3%8C-AI-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EB%B4%87-5%EB%B6%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
@@ -841,6 +845,9 @@ Artificial Intelligence
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
   * [옴에이전트](https://om-agent.cn/)
+* [Naia OS - Next AI Networks OS](https://naia.nextain.io/ko/blog/20260304-why-naia-os)
+  * [naia-os](https://github.com/nextain/naia-os)
+  * 개인 AI 운영체제. 3D VRM 아바타, 다중 LLM 지원(Gemini/Claude/GPT/Ollama), 음성 합성, 70+ 스킬, Discord 통합, USB 부팅 지원. Tauri 데스크톱 앱
 * [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
@@ -869,6 +876,8 @@ Artificial Intelligence
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
   * [Rowboat: 지식 그래프 기반 로컬 퍼스트 AI 코워커의 개념과 활용 방법](https://digitalbourgeois.tistory.com/2766)
   * [회의 준비 1분 만에 끝내기: Rowboat 지식 그래프로 업무 생산성 극대화](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%ED%9A%8C%EC%9D%98-%EC%A4%80%EB%B9%84-1%EB%B6%84-%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-Rowboat-%EC%A7%80%EC%8B%9D-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C-%EC%97%85%EB%AC%B4-%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B7%B9%EB%8C%80%ED%99%94)
+* [sage: (Sovereign) Agent Governed Experience - Byzantine fault-tolerant consensus-based institutional memory for multi-agent systems](https://github.com/l33tdawg/sage/)
+  * 멀티 에이전트 시스템을 위한 Byzantine fault-tolerant 합의 기반 검증 가능 기관 메모리 레이어. CometBFT 합의를 통해 에이전트가 지식을 축적, 검증, 공유
 * [safepilot: AI assistant that executes real work, safely](https://github.com/3DCF-Labs/safepilot)
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
@@ -2570,6 +2579,8 @@ Artificial Intelligence
   * [Foundry Local: 모든 PC와 Mac에서 로컬 AI 앱 구축 및 실행](https://livewiki.com/ko/content/microsoft-foundry-local-ai)
 * [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [generative-ai-arbitrage: A curated list showing how to access the exact same top-tier generative AI models (video, image, and music) for significantly less money. This repo focuses on alternative API access paths to popular models like Veo, Sora, Runway-class video, Midjourney-level images, and Suno-quality music — often at 70–90% lower cost 🤯](https://github.com/cporter202/generative-ai-arbitrage)
+* [GitNexus: Index your codebase into a searchable knowledge graph for AI agents](https://github.com/abhigyanpatwari/GitNexus)
+  * 코드베이스를 검색 가능한 지식 그래프로 인덱싱. AI 에이전트가 코드 의존성, 호출 체인, 아키텍처 관계를 이해할 수 있도록 지원. CLI(MCP 서버 통합) 및 웹 UI
 * [Genspark - The AI Agent Engine that revolutionizes search with trustworthy AI answers and unbiased, comprehensive results. Save time with our team of AI agents for various research & tasks.](https://www.genspark.ai/) perplexity같은 검색
   * [Genspark AI 슬라이드가 일하는 방식, CO-STAR 방식의 프롬프트로 에이전트 길들이기 AI 지배자라는 책에서 나오는 CO-STAR 프롬프트를 활용해 젠스파크를 테스트해 보았습니다. CO-STAR 프롬프트의 6가지 요소 Context(맥락): AI가 작업할 배경 정보 설명 Objective(목표): AI가 달성해야 할 구체적인 목적을… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_genspark-ai-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EA%B0%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-co-start-%EB%B0%A9%EC%8B%9D%EC%9D%98-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-activity-7374662279092424705-ll-B)
 * [get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode](https://github.com/gsd-build/get-shit-done)
@@ -3117,6 +3128,8 @@ Artificial Intelligence
     * Claude Code/Cowork 통합 업데이트 요약. Remote Control(폰/웹에서 세션 접근), Scheduled Tasks(반복 워크플로우), 새 플러그인 레포, Auto Memory, Simplify/Batch 스킬 소개
   * [OAuth2 자동 인증으로 Gmail 자동화 완성: Claude Code MCP 서버 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-OAuth2-%EC%9E%90%EB%8F%99-%EC%9D%B8%EC%A6%9D%EC%9C%BC%EB%A1%9C-Gmail-%EC%9E%90%EB%8F%99%ED%99%94-%EC%99%84%EC%84%B1-Claude-Code-MCP-%EC%84%9C%EB%B2%84-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * Gmail MCP 서버로 이메일 발송/수신/검색/라벨 관리를 자연어로 처리. Google Cloud OAuth 2.0 설정부터 Claude Code 연동, 첨부파일·HTML 이메일·일괄처리까지 실전 가이드
+  * [Vercel react-best-practices 스킬로 코드 리뷰 자동화하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3641/)
+    * Vercel의 57개 React/Next.js 성능 최적화 규칙 스킬을 GitHub Actions CI/CD와 통합하여 코드 리뷰 자동화. 번들 사이즈 감소 및 Lighthouse 점수 향상 사례
   * [10 CLI Tools I'm using alongside Claude Code | Starmorph AI - YouTube](https://www.youtube.com/watch?v=3NzCBIcIqD0)
     * LazyGit(실시간 git 변경 모니터링), Glow(CLI 마크다운 리더), LLM Fit(로컬 하드웨어에 맞는 모델 추천), Models CLI(프로바이더별 가격/벤치마크 비교), Zoxide(퍼지 디렉토리 점프), Btop(시스템 모니터링), eza(ls 대체), Ranger(터미널 파일 탐색기) 등
   * [Claude Code의 컨텍스트 윈도우, 왜 30분이면 바닥나는가 - Context Mode의 원리와 효과](https://www.fullstackfamily.com/@urstory/posts/13992/Claude-Code%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%99%9C-30%EB%B6%84%EC%9D%B4%EB%A9%B4-%EB%B0%94%EB%8B%A5%EB%82%98%EB%8A%94%EA%B0%80-Context-Mode%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%9A%A8%EA%B3%BC)
@@ -3161,6 +3174,9 @@ Artificial Intelligence
   * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
+  * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
+    * [Claude Code HTTP Hook 기능 추가: 자동화 워크플로우 확장 방법 정리](https://digitalbourgeois.tistory.com/2836)
+    * 특정 라이프사이클 시점에 셸 명령/HTTP 엔드포인트/LLM 프롬프트를 자동 실행. 외부 시스템 연결로 중앙 집중식 정책 관리와 워크플로우 자동화
   * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
   * [Claude Code Plugins & Agent Skills - Community Registry with CLI](https://claude-plugins.dev/)
     * claude code plugin 을 모아놓은 서비스. skills 가 있는 프로젝트만 따로 필터링 가능
