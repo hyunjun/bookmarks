@@ -1573,6 +1573,10 @@ App
 * [맥이라 불편하다고요? 지금 설치하면 삶의 질이 바뀌는 앱 12가지 / 오목교 전자상가 - YouTube](https://www.youtube.com/watch?v=1nrdU-sxhAo)
 * [맥을 다시 재밌게 써보자! 무료 유료 앱 8가지 추천 - YouTube](https://www.youtube.com/watch?v=fhzDRyN1XPY)
   * Zone Bar, Hidden Bar, LaunchOS, DockDoor, RefBox, MD Clock
+* [내 시간 아껴주는 맥북 필수 무료앱 5가지 - YouTube](https://www.youtube.com/watch?v=KlOLKMcazPg)
+  * Raycast(런처/퀵링크/클립보드 히스토리), ChatGPT 연결 등 맥북 생산성 무료 앱 소개
+* [맥북 쓰면 이거 꼭 해보세요 macOS 신기능! AI로 합체되는 단축어 자동화 - YouTube](https://youtube.com/watch?v=vA94F43rl-k)
+  * macOS Tahoe의 단축어 자동화와 AI 모델(Apple/GPT) 통합. 조건 기반 자동 실행, iPhone/iPad 연동
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
