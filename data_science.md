@@ -282,6 +282,9 @@ Data Science
 * [ds-cheatsheets: List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
 * [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 * [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
+* [Data Engineering After AI](https://www.dataengineeringweekly.com/p/data-engineering-after-ai)
+  * [AI 이후의 데이터 엔지니어링: ETL을 넘어 ECL과 Context Architect로](https://digitalbourgeois.tistory.com/2831)
+  * AI가 변환 코드를 자동화하면서 데이터 엔지니어링의 핵심 가치가 데이터 이동에서 ECL(Extract, Contextualize, Link) 기반 시맨틱 의미 관리로 전환. 미래 데이터 엔지니어는 Context Architect로 진화
 * [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
 * [Roadmap: Data Infrastructure · Bessemer Venture Partners](https://www.bvp.com/atlas/roadmap-data-infrastructure)
