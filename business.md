@@ -4568,6 +4568,9 @@ Business
 * [The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm - YouTube](https://www.youtube.com/watch?v=jO-SWlW6DFY)
   * [a16z를 전설적인 벤처 캐피털 회사로 만든 비밀 마케팅 전략](https://livewiki.com/ko/content/a16z-marketing-strategy-vc)
   * [2009년, 모든 VC가 a16z를 비웃었습니다 VC란 회전초밥 같은거야. 카운터에 앉아 있으면 스타트업들이 알아서 지나가거든. 가끔 손만 뻗으면 돼. 2009년, 벤 호로위츠와 마크 앤드리슨이 VC 업계에서 들었던 조언입니다. LP(출자자)는 어떻게 관리하냐고요? 한 VC가 답했습니다. "버섯처럼 대해. 상자에 넣고, 뚜껑 닫고, 침대 밑에 2년간… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_2009%EB%85%84-%EB%AA%A8%EB%93%A0-vc%EA%B0%80-a16z%EB%A5%BC-%EB%B9%84%EC%9B%83%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-vc%EB%9E%80-%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5-%EA%B0%99%EC%9D%80%EA%B1%B0%EC%95%BC-activity-7401730636103008256-5FO5)
+* [The $1B AI company training ChatGPT, Claude & Gemini | Edwin Chen - YouTube](https://www.youtube.com/watch?v=dduQeaqmpnI)
+  * [VC 투자 받지 않고 4년 만에 1조원 매출을 기록한 Surge AI | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_vc-%ED%88%AC%EC%9E%90-%EB%B0%9B%EC%A7%80-%EC%95%8A%EA%B3%A0-4%EB%85%84-%EB%A7%8C%EC%97%90-1%EC%A1%B0%EC%9B%90-%EB%A7%A4%EC%B6%9C%EC%9D%84-%EA%B8%B0%EB%A1%9D%ED%95%9C-%EA%B3%B3%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%81%EC%9B%90%EC%9D%80-activity-7403904962864537600-c6Fe)
+  * Surge AI: VC 투자 없이 4년 만에 1조원 매출, 100명 미만. OpenAI/Anthropic/Google에 AI 학습 데이터 품질 관리
 * [founders-kit: Essential resources, tools, and playbooks for startup founders](https://github.com/avinash201199/founders-kit)
   * 스타트업 창업자를 위한 필수 리소스, 도구, 플레이북 모음. 학습 자료, 강좌, 디자인 도구, 펀드레이징 가이드, 커뮤니티 네트워크를 카테고리별 정리
 
