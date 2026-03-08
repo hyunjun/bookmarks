@@ -1402,6 +1402,8 @@ Artificial Intelligence
         * [gemini-cli-sub.zip - Google Drive](https://drive.google.com/file/d/1ureAUSgBfO6AVAoJugZsYFpCJ-Dz5uPV/view)
     * [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips)
       * [Gemini CLI를 활용한 에이전틱 코딩 팁과 트릭 | GeekNews](https://news.hada.io/topic?id=24661)
+    * [gemini-swarm: Multi-agent orchestration for Gemini CLI](https://github.com/tmdgusya/gemini-swarm)
+      * Claude Code Agent Teams에서 영감. 에이전트들이 TaskBoard에서 자율적으로 작업을 청구하여 병렬 실행. Tmux 시각화, 하트비트 장애 복구, 계획 기반 실행 지원
     * [run-gemini-cli: A GitHub Action invoking the Gemini CLI.](https://github.com/google-github-actions/run-gemini-cli)
       * [구글, 개발자 지원 전방위적 확대...AI 코딩 협업 도구 ‘제미나이 CLI 깃허브 액션’ 무료 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=35978)
   * [Gemini Code Assist: an AI coding assistant | Google Cloud](https://cloud.google.com/products/gemini/code-assist?hl=en)
