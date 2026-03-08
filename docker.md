@@ -2121,6 +2121,7 @@ Docker
   * 개발 초기 단계부터 보안을 고려하는 시프트 레프트(Shift-left) 실천을 통해 클러스터 전체의 방어력을 높이는 것을 목적
 * [Kubernetes Volumes, PVs, PVCs, and StorageClasses: A Practical Hands-on Guide](https://aws.plainenglish.io/kubernetes-volumes-pvs-pvcs-and-storageclasses-a-practical-hands-on-guide)
 * [Kubernetes Capacity Planning: Getting It Wrong Is Step One](https://medium.com/@jeremycastle/kubernetes-capacity-planning-getting-it-wrong-is-step-one-and-thats-ok)
+* [Taints and Tolerations in Kubernetes: Attaching a Filter at the Node | Medium](https://medium.com/@manishaprep/taints-and-tolerations-in-kubernetes-attaching-a-filter-at-the-node-2412cccaba13)
 * [How Kubernetes Learned to Resize Pods Without Restarting Them | by Dinidu Sachintha | Medium](https://medium.com/@dinidusachintha/how-kubernetes-learned-to-resize-pods-without-restarting-them-158241b5eb06)
 
 ## Kubernetes Library
