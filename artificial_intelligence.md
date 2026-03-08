@@ -786,6 +786,8 @@ Artificial Intelligence
 * [AI Engineering](https://aiengineering.beehiiv.com/)
 * [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
+* [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
+  * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
 * [arrakis: A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows](https://github.com/abshkbh/arrakis)
   * AI 에이전트 코드 실행, GUI 환경 사용을 위해, 안전하고 자체 호스팅 가능한 샌드박스(sandbox)를 제공하는 오픈소스 솔루션
   * 마이크로VM 기반의 격리 환경에서 스냅샷(snapshot) 및 복원(restore) 기능 기본 제공
@@ -1026,7 +1028,7 @@ Artificial Intelligence
     * Manus의 todo.md: 목표를 컨텍스트 끝에 반복 삽입해 'lost-in-the-middle' 문제 해결
     * 메모리 분리 운영: 단기(작업 컨텍스트), 중기(세션 히스토리), 장기(파일 시스템)
     * 실패한 액션과 스택 트레이스를 남겨두면 모델이 같은 실수를 반복하지 않음
-    * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
+  * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
       * [메타가 4조원에 인수한 마누스, 그 핵심 기술이 오픈소스로 풀렸습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-othmanadiplanning-with-files-claude-activity-7414070699071442944-IJIs)
         * [Local Context Weighting (LCW): A Structural Framework for Efficient and Stable Long-Context LLM Inference](https://zenodo.org/records/18005821)
           * 대규모 언어모델이 긴 문맥을 처리할 때 발생하는 연산 폭증과 추론 불안정 문제를, 학습이나 모델 구조를 바꾸지 않고 추론 단계에서 해결하자는 제안
@@ -2653,6 +2655,7 @@ Artificial Intelligence
 * [llm-newsletter-kit-core: An extensible framework to automate your entire newsletter workflow. Handles data collection, LLM-based content analysis, and email generation, letting you focus on your unique domain logic](https://github.com/kimhongyeon/llm-newsletter-kit-core)
   * [고고학 출신 개발자가 만든 LLM 기반 뉴스레터 자동화 키트 | GeekNews](https://news.hada.io/topic?id=24900)
 * [llmfit: 497 models. 133 providers. One command to find what runs on your hardware](https://github.com/AlexsJones/llmfit)
+  * [내 PC에서 돌릴 수 있는 LLM, 한 줄이면 찾아준다: llmfit의 가능성과 한계](https://wikidocs.net/blog/@jaehong/8605/)
 * [Memex - Everything Builder for Your Computer](https://memex.tech/)
   * [10,000개의 Vibe 코딩 프로젝트에서 얻은 인사이트 | GeekNews](https://news.hada.io/topic?id=20698)
 * [Metis is an open-source, AI-driven tool for deep security code review](https://github.com/0xSojalSec/metis)
@@ -3371,6 +3374,9 @@ Artificial Intelligence
     * [OpenSkills 2.0 곧 출시 — 진짜 오픈한 AI 스킬 관리 생태계](https://www.facebook.com/lsszz1/posts/pfbid0fMLFeA3piUgggFQzKQTk55jFBu9N7zn8bTvVbgcpmdCS89A3hpgHtJNEh26a69Hxl)
   * [original_performance_takehome: Anthropic's original performance take-home, now open for you to try!](https://github.com/anthropics/original_performance_takehome)
     * [Anthropic이 성능평가 테이크홈 과제를 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=26026)
+  * [ouroboros: Stop prompting. Start specifying](https://github.com/Q00/ouroboros)
+    * [I've been using Claude Code as my daily driver | Harry Munro](https://www.linkedin.com/posts/harryjmunro_ive-been-using-claude-code-as-my-daily-driver-activity-7435736122942664706-2yux)
+    * 코드 작성 전 소크라테스식 인터뷰로 모호성을 0-1 스케일로 평가, 0.2 이하로 낮춰야 실행. 9개 전문 에이전트(반론가 포함)로 사양 안정화
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
@@ -3783,6 +3789,9 @@ Artificial Intelligence
     * Hetzner/DigitalOcean/Vultr에서 OpenClaw 원클릭 배포. DNS, SSL, 인프라 자동 프로비저닝
   * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
     * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
+  * [ClawWork: OpenClaw as Your AI Coworker - $15K earned in 11 Hours](https://github.com/HKUDS/ClawWork)
+    * [ClawWork - OpenClaw 경제 생존 벤치마크 | GeekNews](https://news.hada.io/topic?id=26797)
+    * [AI가 8시간 만에 $19000 벌어 - ClawWork 경제 생존 벤치마크](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AI%EA%B0%80-8%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-19000-%EB%B2%8C%EC%96%B4-ClawWork-%EA%B2%BD%EC%A0%9C-%EC%83%9D%EC%A1%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC)
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
     * [AI Agents KR | MaxClaw: 10초 만에 상시 온라인 개인 AI 에이전트 구축하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27033655679556841/)
     * [Claude 3.5 수준 성능을 1/10 가격으로: MaxClaw 229억 파라미터 AI 무료 클라우드 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude-35-%EC%88%98%EC%A4%80-%EC%84%B1%EB%8A%A5%EC%9D%84-110-%EA%B0%80%EA%B2%A9%EC%9C%BC%EB%A1%9C-MaxClaw-229%EC%96%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-AI-%EB%AC%B4%EB%A3%8C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
