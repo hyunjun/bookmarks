@@ -3349,6 +3349,9 @@ Artificial Intelligence
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
+  * [ClaudeTuner — Real-Time Claude.ai Usage Tracker & Rate Limit Monitor](https://claudetuner.com/)
+    * [Claude 사용량을 한눈에: ClaudeTuner로 실시간 사용량 추적과 플랜 최적화하기](https://digitalbourgeois.tistory.com/2838)
+    * Chrome 확장으로 5시간/7일 사용량 실시간 모니터링, 리셋 예측, 14일 패턴 분석 플랜 최적화. 팀 대시보드 지원
   * [claude-workflow: Universal Claude Code workflow plugin with agents, skills, hooks, and commands](https://github.com/CloudAI-X/claude-workflow)
     * Claude Code를 위한 범용 워크플로우 플러그인, 소프트웨어 개발 과정을 자동화하고 최적화하기 위해 설계
     * 7개의 전문 에이전트와 6개의 지식 기술, 8개의 자동화 훅을 통해 복잡한 개발 작업을 체계적으로 관리
