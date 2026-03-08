@@ -4604,6 +4604,7 @@ Business
 * [Dynamic Reteaming: The Art & Wisdom of Changing Teams • Heidi Helfand • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=T6euYPEcCGI)
   * Tuckman's model: forming -> storming -> norming -> performing
   * Deliberately reteam to spread knowledge & fulfillment
+* [AI 때문에 개인생산성 높아졌는데 팀성과 줄어든 이유 (배수정 SK아카데미 RF) - YouTube](https://www.youtube.com/watch?v=ys6dWId6hgU)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
