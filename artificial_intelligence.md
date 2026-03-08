@@ -469,6 +469,10 @@ Artificial Intelligence
   * [Tae Hyung Kim - 구글 딥마인드가 발표한 최신 논문 “Distributional AGI Safety”는,... | Facebook](https://www.facebook.com/socialego/posts/pfbid0qGjwdCKhgDuhp7LfWa53xgdEVNqbFsr9icWyS5s4uRzEZjQ1LzsYNRVpEaaKLv27l)
     * AGI 안전 연구는 이제 개별 모델의 문제를 넘어, 분산된 에이전트 네트워크 전체를 어떻게 설계하고 관리할 것인가라는 새로운 단계로 발전, 진화하는 단계
     * 머지않아 도래할 멀티 에이전트 기반의 혁신가 모델 시대를 대비해, 이 프레임워크는 안전하고 견고한 AI 생태계를 구축하기 위한 하나의 청사진 제시
+* [2602.23643v1 AI Must Embrace Specialization via Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643v1)
+  * [Response: AI Must Embrace Specialization via Superhuman Adaptable Intelligence | dietwald C.](https://www.linkedin.com/pulse/response-ai-must-embrace-specialization-via-superhuman-dietwald-claus-d5rrf)
+  * [Yann LeCun의 초인적 적응형 지능(SAI) 논문 요약 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_skqrdatjy-agi-ai-share-7435834979068194816-Vo_N)
+  * LeCun 팀이 AGI를 "근본적으로 잘못된 목표"로 비판하고 SAI(초인적 적응형 지능)를 제안. 지능을 학습 속도·적응력으로 재정의, 전문화를 통해 생물학적 한계 극복
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 
 # AI agent
