@@ -2441,6 +2441,8 @@ Artificial Intelligence
 * [AI의 "치명적인 삼중 위협"을 막는 방법 | GeekNews](https://news.hada.io/topic?id=23396)
 * ["바이브코딩 벌써 옛말…보안위험에 초고수 개발자 선호 흐름" | 연합뉴스](https://www.yna.co.kr/view/AKR20260117018200091)
 * [오픈클로, 실제 행동하는 AI가 만든 새로운 보안 위기 | ITWorld](https://www.itworld.co.kr/article/4126872/%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C-%EC%8B%A4%EC%A0%9C-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B3%B4%EC%95%88-%EC%9C%84%EA%B8%B0.html)
+* [Meta AI 안전 연구자 OpenClaw 에이전트에 의해 이메일 200통 삭제 사건 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%98%A4%EB%8A%98-%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%ED%99%94%EC%A0%9C%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%86%8C%EC%8B%9D%EC%9D%BC-%EA%B2%81%EB%8B%88%EB%8B%A4-meta-ai-%EC%95%88%EC%A0%84-share-7431858694792904704-pZeh)
+  * 컨텍스트 윈도우 압축 시 안전 지시 누락으로 이메일 200통 삭제. 원격 킬 스위치 부재, 과도한 권한 설정이 원인. 입력 신뢰 수준 분류, 인간 승인 필수화 제안
 * [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
   * 악의적 웹사이트가 localhost WebSocket으로 OpenClaw 에이전트 제어권 탈취. 게이트웨이 비밀번호 무차별 대입 후 신뢰 장치 등록. 2026.2.25 버전에서 수정
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
@@ -3417,6 +3419,9 @@ Artificial Intelligence
 * [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
   * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+  * [Codex 101 — OpenAI Codex Practical Guide for Real Work](https://swhan0329.github.io/codex-101/)
+    * [Codex 101 | swhan0329](https://www.linkedin.com/posts/swhan0329_codex-ugcPost-7436225045300985856-0gTH)
+    * 한국 실무자를 위한 OpenAI Codex 완전 가이드. CLI/앱/IDE 확장/웹 대시보드 활용법, GPT-5.4 프롬프팅, MCP 연동까지 실무 적용 순서
   * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
   * [Introducing Codex | OpenAI](https://openai.com/index/introducing-codex/)
   * [OpenAI Codex CLI 전격 해부! 터미널에서 AI 코딩 에이전트가?! (o3, o4미니, GPT4.1 활용) - YouTube](https://www.youtube.com/watch?v=tN5EVoLMMuU)
