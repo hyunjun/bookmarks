@@ -542,6 +542,8 @@ Programmer
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 * [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
   * [한세희 - * 디지털 게시판(BBS) 개발자, 현대 온라인 문화의 창시자가 라이프 퇴갤하심 디씨, 일베, 펨코, 레딧... | Facebook](https://www.facebook.com/hahn32/posts/pfbid02wL3aG8sMPYAiAjnENy5XLnBpWchy1yN3obLCrsbRCnkCvXy71bL8V4zuRV5jjD8ql)
+* [스탠포드에서 빅테크로 조용히 퍼지는 개발자 생존법 | 미하일 에릭 - YouTube](https://www.youtube.com/watch?v=qEF-eUaTq0Y)
+  * [스탠포드에서 빅테크로 조용히 퍼지는 개발자 생존법](https://livewiki.com/ko/content/developer-survival-bigtech-stanford)
 
 # Senior
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
