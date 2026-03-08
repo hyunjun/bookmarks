@@ -627,3 +627,6 @@ Finance
 * [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
 * [AI퀀트 금융머신러닝 공부를 위해 봐야할 동영상](https://brunch.co.kr/@gauss92tgrd/48)
 * [주가 regression에 어떤 loss를 써야할까 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4379)
+* [quant-trading-rest: 키움증권/한국투자증권 REST API 자동매매](https://github.com/CyberFlower/quant-trading-rest)
+  * [Dong-Kwan Lee](https://www.linkedin.com/posts/dong-kwan-lee-b35a741bb_github-cyberflowerquant-trading-rest-activity-7436322079949430784--nJZ)
+  * 시그널 조건을 체인 구조로 조합, 다중 브로커 실행 엔진 재사용. 낮(키움/국내장)·밤(한투/미국장) 세션별 crontab 운용
