@@ -2702,6 +2702,7 @@ App
   * [Obsidian 3D graph plugin (official release, features walkthrough) - YouTube](https://www.youtube.com/watch?v=w1H-pcM8nOU)
   * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
+  * [obsidian-excalidraw-plugin: Obsidian plugin to edit and view Excalidraw drawings](https://github.com/zsviczian/obsidian-excalidraw-plugin)
   * [obsidian-excel-to-markdown-table: An Obsidian plugin to paste Excel data as Markdown table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
