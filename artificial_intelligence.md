@@ -845,6 +845,8 @@ Artificial Intelligence
   * [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
   * [Princeton/UIUC/Stanford 텍스트 없는 대화: 잠재 공간(Latent Space)에서의 협업을 통한 멀티 에이전트 시스템의 혁신 ‘LatentMAS’ | by YouShin kim | Nov, 2025 | Medium](https://medium.com/@mdpman/princeton-uiuc-stanford-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%86%EB%8A%94-%EB%8C%80%ED%99%94-%EC%9E%A0%EC%9E%AC-%EA%B3%B5%EA%B0%84-latent-space-%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%91%EC%97%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%ED%98%81%EC%8B%A0-latentmas-2829777fc73a)
   * ["AI가 스스로 협력하는 법을 배우기 시작했다!" 프린스턴, 스탠퍼드의 충격적 논문 - LCMAS | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-slsstwswktxu-activity-7401742864352768002-_-HE)
+* [LangGraph Multi-Agent Communication System Design](https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/)
+  * LangGraph로 엔터프라이즈급 멀티 에이전트 시스템 구축. 구조화된 메시징 인프라, ACP 로깅, 영구 공유 상태 아키텍처 설계
 * [LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.](https://github.com/wxai-space/LightAgent)
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
@@ -2479,6 +2481,8 @@ Artificial Intelligence
 * [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
   * [구글 소프트웨어 엔지니어링의 AI: 진전과 향후 전망 | GeekNews](https://news.hada.io/topic?id=15258)
 * [GN#289 AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가 | GeekNews](https://news.hada.io/weekly/202503)
+* [AI 시대에 코드 리뷰, 어떻게 해야할까?](https://flowkater.io/posts/2026-03-08-ai-code-review/)
+  * AI가 코드 생산량을 급격히 늘리는 시대의 코드 리뷰 방향: 기존 유지, 폐지, 의도 리뷰 전환 세 가지 관점 탐구
 * [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)
   * 소프트웨어 개발 과정에서 인공지능 에이전트와 인간의 협업 모델을 사용자 루프(Why Loop), 구현 루프(How Loop) 개념으로 설명
   * 인간의 가장 이상적인 위치를 '루프 위(On the loop)'라고 정의
@@ -3804,6 +3808,7 @@ Artificial Intelligence
     * [clawhost: One-click cloud hosting for OpenClaw AI agents](https://github.com/bfzli/clawhost)
     * [ClawHost로 OpenClaw를 단 1분 만에 VPS에 배포하는 방법과 아키텍처 완전 정리](https://digitalbourgeois.tistory.com/2764)
     * Hetzner/DigitalOcean/Vultr에서 OpenClaw 원클릭 배포. DNS, SSL, 인프라 자동 프로비저닝
+  * [claw-memory: Shared persistent memory for AI agent instances via Cloudflare Workers + TiDB Cloud](https://github.com/siddontang/claw-memory)
   * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
     * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
   * [ClawWork: OpenClaw as Your AI Coworker - $15K earned in 11 Hours](https://github.com/HKUDS/ClawWork)
