@@ -721,6 +721,8 @@ Artificial Intelligence
   * [agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)
   * [에이전트 브라우저 AI가 스스로 작업물을 테스트하다 - YouTube](https://www.youtube.com/watch?v=OjzAVFlU8JQ)
   * [⚡Vercel이 만든 무료 AI 브라우저 자동화 도구, 웹 스크래핑 봇 5분 만들기](https://fornewchallenge.tistory.com/entry/%E2%9A%A1Vercel%EC%9D%B4-%EB%A7%8C%EB%93%A0-%EB%AC%B4%EB%A3%8C-AI-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EB%B4%87-5%EB%B6%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  * [AI에게 Playwright MCP를 주면 안되는 이유](https://www.productengineer.info/community/articles/pec/agent-browser)
+    * Playwright MCP는 클릭마다 전체 DOM 반환으로 토큰 소진. agent-browser는 Accessibility Tree + Snapshot/Refs로 93% 토큰 절감. 도구 17개→2개로 줄여 성공률 80%→100%, 토큰 37% 감소
 * [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
   * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -3124,6 +3126,7 @@ Artificial Intelligence
     * [앤트로픽이 10일만에 바이브 코딩 한, 완벽한 비서에 도전하는 클로드 코워크 - YouTube](https://www.youtube.com/watch?v=-3ty-0b035k)
     * [Cowork, a research preview | Claude](https://claude.com/resources/tutorials/claude-cowork-a-research-preview)
     * [이제 AI가 AI를 관리한다? Claude의 역대급 업데이트 'Agent Swarm' 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Wq8w4jz6Kz8)
+    * [클로드 코워크 누구나 쉽게 13분만 따라하세요 | 설치법, AI 비서, 업무 자동화 - YouTube](https://www.youtube.com/watch?v=rX8H8e5QZuk)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
@@ -3749,6 +3752,7 @@ Artificial Intelligence
   * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
     * AgentMail, Here Now, Tavily, FireCrawl, Remotio 등 OpenClaw 에이전트와 함께 매일 사용하는 무료 도구 5선
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
+  * [LLM 다음 단계로 OpenClaw가 필연인 이유 - 도커 다음엔 쿠버네티스가 나왔다 - YouTube](https://www.youtube.com/watch?v=X35eq65Rnj0)
   * [Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)
     * [OpenClaw Community | Alvin Bot | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611128223370901/)
     * 클라우드 기반 OpenClaw 서비스. 자체 서버 없이 Telegram에서 Claude/GPT-4o/Gemini 기반 AI 어시스턴트 사용
