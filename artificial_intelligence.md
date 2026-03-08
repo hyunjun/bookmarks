@@ -3176,6 +3176,9 @@ Artificial Intelligence
   * [Claude Import Memory](https://claude.com/import-memory)
     * [Claude, 다른 LLM에서 전환하는 Import Memory 기능 추가 | GeekNews](https://news.hada.io/topic?id=27115)
     * 다른 AI 서비스의 개인 설정·맥락을 Claude 메모리로 가져오기. 프롬프트 복사·붙여넣기 방식, 모든 유료 요금제 이용 가능, 대화별 프로젝트 맥락 구분 관리
+  * [Claude Code 메모리 문제 해결: QMD 검색 엔진과 /recall 스킬로 만드는 컨텍스트 중심 AI 워크플로우](https://digitalbourgeois.tistory.com/2845)
+    * [artemxtech on X](https://x.com/artemxtech/status/2028330693659332615)
+    * QMD(Obsidian 볼트용 로컬 검색 엔진)로 BM25/시맨틱/하이브리드 검색. /recall 스킬로 Temporal/Topic/Graph 모드 과거 컨텍스트 복원. 터미널 종료 시 세션 기록 자동 인덱싱
   * [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
     * [Claude Code 활용 방식: 계획과 실행의 분리 | GeekNews](https://news.hada.io/topic?id=26907)
     * Cloudflare 엔지니어링 리드의 Claude Code 워크플로우. 리서치→계획→주석 순환→구현 4단계로, 코드 작성 전 research.md와 plan.md로 계획을 검토·승인한 뒤 실행하는 방식
