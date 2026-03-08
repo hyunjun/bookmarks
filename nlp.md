@@ -3962,8 +3962,8 @@ NLP
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 * [ZHIPU AI OPEN PLATFORM](https://open.bigmodel.cn/)
   * ["오픈AI와 딥시크는 저리비켜!"... 中 즈푸AI, 고성능 'AI 에이전트' 무료 공개로 글로벌 AI 패권 경쟁 가속 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34428)
-## Language Model LM GPT
 
+## Language Model LM GPT
 * [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
 * [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
   * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
@@ -4196,6 +4196,8 @@ NLP
 * [RAG Isn't About Embeddings - by Alireza Rahmani Khalili](https://nidly.substack.com/p/rag-isnt-about-embeddings)
   * [Fixing RAG Systems: Index Configuration Over Embeddings | Alireza Rahmani Khalili posted on the topic | LinkedIn](https://www.linkedin.com/posts/rahmanikhalili_rag-isnt-about-embeddings-activity-7403509919057932288-X1TW)
 * [PyCon Korea 2025 RAG 애플리케이션 개발을 위한 Chunking 최적화 - 강성우 - YouTube](https://www.youtube.com/watch?v=jgFduVaa07M)
+* [RAG가 더 이상 AI 제품의 표준 아키텍처가 아닌 이유 | Minkyu Jung](https://www.linkedin.com/posts/minkyujung_boris-cherny-bcherny-on-x-activity-7436238540520194048-6RcM)
+  * 구조 있는 데이터는 SQL/파일시스템 직접 탐색(Claude Code는 Glob+Grep만으로 수백만줄 탐색), 구조 없는 데이터는 Knowledge Graph로 구조화, 프롬프트 캐싱으로 100만+ 토큰 전체 포함
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
