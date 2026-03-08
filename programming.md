@@ -6596,6 +6596,9 @@ Programming
   * [MQTT : IoT를 위한 표준 메시징 서비스](https://naleejang.tistory.com/250)
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
+  * [A Series: Building a Scheduled Messaging Architecture with NATS (Zero Redis) 1/4 | Soohyun Kim](https://www.linkedin.com/pulse/series-building-scheduled-messaging-architecture-nats-soohyun-kim-ye9pc)
+    * [A Series: Building a Scheduled Messaging Architecture with NATS (Zero Redis) 2/4 | Soohyun Kim](https://www.linkedin.com/pulse/series-building-scheduled-messaging-architecture-nats-soohyun-kim-hpw3e)
+    * Redis/DB 폴링을 NATS JetStream으로 대체하여 추가 인프라 없이 지연 메시징 구현. AllowMsgSchedules, dual-subject 접근
 * [psc: PubSubClient (PSC)](https://github.com/pinterest/psc)
   * [Running Unified PubSub Client in Production at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/running-unified-pubsub-client-in-production-at-pinterest-64ae2e721daa)
   * [Pinterest Open-Sources a Production-Ready PubSub Java Client for Kafka, Flink, and MemQ - InfoQ](https://www.infoq.com/news/2024/02/pinterest-pubsub-kafka-flink/)
