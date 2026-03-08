@@ -2854,6 +2854,7 @@ Docker
     * 1. Cilium은 클러스터 내부 통신은 파드 IP 그대로 라우팅하지만, 외부로 나갈 때는 자동으로 노드 IP로 SNAT (외부 네트워크가 파드 CIDR을 모르기 때문)
     * 2. ip-masq-agent를 사용하면 특정 대역(e.g. 내부망)에 대해 SNAT 예외 설정 가능 (이 때에는 해당 네트워크에 파드 CIDR 라우팅 추가를 해야 라우팅 경로를 어디로 할 지 앎)
     * 3. NodeLocal DNS + LocalRedirectPolicy를 조합하면 DNS 쿼리가 eBPF로 로컬 캐시로 리다이렉트되어 네트워크 홉 없이 처리 (캐시 미스만 CoreDNS로 전달)
+  * [Cilium Deep Dive](https://jysk.tech/cilium-deep-dive-6b6a596e398e)
 * [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
   * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
