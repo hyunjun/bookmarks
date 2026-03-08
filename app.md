@@ -2637,6 +2637,7 @@ App
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
   * [옵시디안(Obsidian)과 제텔카스텐 기본 과정(완결) - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUUJlu0L-_U7c1jy_bqvPMR6)
   * [옵시디안 중급 활용팁 - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC)
+  * [How to Make Obsidian Beautiful](https://www.thethinkers.club/p/how-to-make-obsidian-beautiful)
   * [How the Heck Do I Use Obsidian? (Part I) - YouTube](https://www.youtube.com/watch?v=a0a98Ko8e3g)
   * [Zettelkasten Obsidian Tutorial (Simplest way) - YouTube](https://www.youtube.com/watch?v=ATXERF3MiIY)
   * [Obsidian & iOS 16로 메모에 날개 달기. 메모법을 떠올리면 2장쓰고 버려진 노트나 자료는 남아있는지 궁금한… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/obsidian-ios-16%EB%A1%9C-%EB%A9%94%EB%AA%A8%EC%97%90-%EB%82%A0%EA%B0%9C-%EB%8B%AC%EA%B8%B0-7d0a89b08a45)
