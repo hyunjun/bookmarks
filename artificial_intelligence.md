@@ -794,6 +794,9 @@ Artificial Intelligence
     * 에이전트의 다단계 작업 흐름(multi-step workflows) 관리, REST API·Python SDK 등을 통해 programmatic하게 샌드박스 제어
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
+* [autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
+  * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
+  * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
