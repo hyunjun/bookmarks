@@ -873,6 +873,7 @@ Apache
 * [서비스 조직에서 Kafka를 사용할 때 알아 두어야 할 것들 (4)](https://d2.naver.com/helloworld/1025526)
 * [토스증권의 수천 개 실시간 데이터 파이프라인 운영방법 #1: Visualize Lineage](https://toss.tech/article/toss-securities-visualize-lineage)
 * [토스증권의 수 천개 실시간 데이터 파이프라인 운영방법 #2: MSA 환경 Observability 높이기](https://toss.tech/article/MSA-observability)
+* [Kafka는 메시지를 보내지 않는다 파일을 흘려보낸다](https://velog.io/@rlaejrqo465/Kafka%EB%8A%94-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EB%B3%B4%EB%82%B4%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-%ED%8C%8C%EC%9D%BC%EC%9D%84-%ED%9D%98%EB%A0%A4%EB%B3%B4%EB%82%B8%EB%8B%A4)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
