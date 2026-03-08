@@ -331,6 +331,7 @@ Google Cloud Platform GCP
 * [gcpdiag](https://gcpdiag.dev/)
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * [generative-ai: Sample code and notebooks for Generative AI on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai)
+  * [always-on-memory-agent: Gemini agents with persistent memory](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent)
 * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
   * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
 * [Google Workspace CLI: one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more](https://github.com/googleworkspace/cli)
