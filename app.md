@@ -2729,6 +2729,7 @@ App
   * [voice-writing](https://github.com/reallygood83/voice-writing)
     * [노션 버리고 옵시디언 쓰는 이유 | AI 플러그인으로 노트가 나를 위해 일한다 (음성 에이전트 포함) - YouTube](https://www.youtube.com/watch?v=PydFmXOiXlY)
 * [**prose.io**](http://prose.io) github
+* [quarkdown: Turing-complete Markdown variant with modern typesetting. HTML/PDF output, slides, papers, wiki](https://github.com/iamgio/quarkdown)
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * [remark - markdown processor powered by plugins](https://remark.js.org/)
   * [remark-lint: plugins to check (lint) markdown code style](https://github.com/remarkjs/remark-lint)
