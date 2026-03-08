@@ -862,6 +862,9 @@ Artificial Intelligence
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
+* [OpenAI Symphony: turns project work into isolated, autonomous implementation runs](https://github.com/openai/symphony)
+  * [OpenAI Symphony: 에이전트 기반 프로젝트 관리 자동화 도구 완전 정리](https://digitalbourgeois.tistory.com/2843)
+  * 작업 생성→에이전트 자동 생성→코드 작성→결과 제출→PR 병합까지 자동화. 개발자는 작업 정의와 검증에 집중
 * [openenv (OpenEnv: Agentic Execution Environments)](https://huggingface.co/openenv)
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
@@ -2485,6 +2488,8 @@ Artificial Intelligence
 * [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
   * [테스트 코드가 새로운 해자(Moat)가 되는 시대: AI가 바꾸는 오픈소스 경쟁 전략](https://digitalbourgeois.tistory.com/2817)
   * AI가 코드 복제를 쉽게 만들면서, 좋은 문서·테스트·API 명세가 오히려 경쟁사에 유리하게 작용. SQLite는 92M 줄의 비공개 테스트로 해자 구축. Cloudflare는 Vercel의 공개 테스트를 활용해 Next.js 대체제를 1주 만에 구축한 사례
+* [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills)
+  * AI 에이전트 스킬 체계적 테스트 방법. Gemini API 스킬 통과율 66.7%→100%로 개선한 사례
 * [Strix - The AI Penetration Testing Agent](https://www.strix.ai/)
   * [strix: Open-source AI agents for penetration testing](https://github.com/usestrix/strix)
 
@@ -2672,8 +2677,10 @@ Artificial Intelligence
   * [유튜브 영상을 교육자료로 만드는 팁](https://www.linkedin.com/posts/duckjungkim_%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8C%81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-%EB%B3%B4%EC%8B%9C%EB%8B%A4%EA%B0%80-%EC%9D%B4%EB%A5%BC-%EA%B5%90%EC%9C%A1%EC%8B%9C-activity-7310922348012986368-kUSr/)
   * [NotebookLM과 Google Gemini Gems를 함께 쓰는 방식 | LinkedIn](https://www.linkedin.com/posts/minjungkimcoco_%EC%9A%94%EC%A6%98-notebooklm-%EA%B3%A0%EC%88%98%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%94%81%EB%8B%88%EB%8B%A4-notebooklm%EA%B3%BC-share-7425809474478714880-I8WB/)
   * [노트북LM으로 포스터 만들고 코딩하고, 별걸 다하네? (김민정 이사) - YouTube](https://www.youtube.com/watch?v=8hwNZeB_ZgQ)
+  * [NotebookLM MCP CLI 가이드: Claude와 NotebookLM을 무료로 연동](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude%EC%99%80-NotebookLM%EC%9D%84-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%97%B0%EB%8F%99-NotebookLM-MCP-CLI-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
+  * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [Opal](https://opal.withgoogle.com/landing/)
   * [Google Opal, 디자이너도 AI로 앱을 만든다.](https://brunch.co.kr/@ghidesigner/298)
@@ -2874,6 +2881,7 @@ Artificial Intelligence
     * 인간이 AI의 코딩 과정을 관리하고 검토하는 '감독형 프로그래밍'의 효율적인 워크플로우를 정립하는 방향으로 나아갈 것으로 예상
 * [Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson - YouTube](https://www.youtube.com/watch?v=c1K3H0z7vbw)
   * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
+* [Claude Code 29개 vs Codex 7개, 설계 철학이 정반대였습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-29%EA%B0%9C-vs-codex-7%EA%B0%9C-%EC%84%A4%EA%B3%84-%EC%B2%A0%ED%95%99%EC%9D%B4-%EC%A0%95%EB%B0%98%EB%8C%80%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%A4%EC%A3%BC-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-share-7435825294554484736)
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -3191,6 +3199,7 @@ Artificial Intelligence
     * [AI Agents KR | Claude Code 컨텍스트 소비 98% 절감, Context Mode MCP 서버로 세션 6배 확장하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27040012425587833/)
   * [Claude Code 에이전트 팀 운영 가이드: iTerm2와 tmux로 AI 개발팀 만들기](https://www.fullstackfamily.com/@urstory/posts/14067)
     * macOS에서 Claude Code 멀티 에이전트 구성. tmux 통합 모드, 에이전트 3~5개가 적절(그 이상은 조율 비용 증가). Git 워크트리로 파일 충돌 방지, 2시간 예상 작업을 10분으로 단축한 사례
+  * [Claude Code /loop로 반복 작업 자동 예약하는 법](https://fornewchallenge.tistory.com/entry/%E2%8F%B0Claude-Code-loop%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%9E%91%EC%97%85-%EC%9E%90%EB%8F%99-%EC%98%88%EC%95%BD%ED%95%98%EB%8A%94-%EB%B2%95)
   * [Claude Code로 문서 스캔 앱 만들어봤습니다 (이제 정말 코드를 안 봐도 되네요) - YouTube](https://www.youtube.com/watch?v=rJ6Y3p3yflc)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
@@ -3753,6 +3762,7 @@ Artificial Intelligence
     * 설치 가이드 + 수익 창출 5가지 방법: 고객 서비스 봇, 콘텐츠 자동화 대행사, AI 컨설팅, 리드 생성 봇, 개인 AI 어시스턴트 서비스
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
+  * [Get started with OpenClaw on Lightsail - Amazon Lightsail](https://docs.aws.amazon.com/lightsail/latest/userguide/amazon-lightsail-quick-start-guide-openclaw.html)
   * [OpenClaw Ollama Qwen 3.5-0.8B 연동 No API key 오류 해결 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%A8-OpenClaw-Ollama-Qwen-35-08B-%EC%97%B0%EB%8F%99-No-API-key-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
   * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
@@ -3799,6 +3809,7 @@ Artificial Intelligence
     * [AWSKRUG- AWS한국사용자모임 | 🦞 OpenClaw on AWS with Bedrock - 나만의 AI 비서를 AWS에 올려보자 | Facebook](https://www.facebook.com/groups/awskrug/posts/25272014385807247)
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
+  * [SkyClaw — Rust AI agent runtime | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/posts/1612248343258889/)
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
     * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
   * [ZeroClaw Hub | Private Gateway Control Plane](https://zeroclawlabs.ai/)
