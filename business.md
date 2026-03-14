@@ -3013,6 +3013,9 @@ Business
   * 엔지니어링 매니저가 모든 작업을 수행하고 결정하는 것은 아니지만 경험상 작업이 제대로 이루어지고 잘 수행되도록 하는 데는 절대적으로 중요한 역할
   * 사실 관리는 오버헤드. 작업은 중요하지만, 그 자체가 비즈니스를 발전시키는 것은 아니고 꼭 필요한 만큼만 하고 그 이상은 하지 않아야 함
 * [5 Reasons Why the Engineering Manager Role is so Demanding](https://www.leadbeyondcode.com/blog/engineering-manager-role)
+* [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
+  * [엔지니어링 매니저가 되지 마세요 | GeekNews](https://news.hada.io/topic?id=27192)
+  * 2026년 기준 EM 전환을 재고해야 하는 이유: 기술 변화 가속화로 핸즈온 경험의 기회비용 증가, 기업의 관리 계층 축소로 승진 병목, Staff/Senior IC가 EM보다 20~30% 높은 보상. 다만 매니지먼트에 진정한 열정이 있다면 본능을 따를 것을 권고
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
