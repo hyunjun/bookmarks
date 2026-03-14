@@ -841,6 +841,8 @@ Artificial Intelligence
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [Hashbrown: The TypeScript Framework for Generative UI](https://hashbrown.dev/)
   * [Hashbrown is a framework for building agents that run the browser. Built for Angular and React](https://github.com/liveloveapp/hashbrown)
+* [kaida-shield: The secure runtime for AI agents. Run anything. Break nothing.](https://github.com/ajpandit775/kaida-shield)
+  * AI 에이전트를 위한 보안 런타임. 샌드박스 환경에서 안전하게 실행
 * [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://github.com/gen-verse/latentmas)
   * [2511.20639 Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)
   * [Princeton/UIUC/Stanford 텍스트 없는 대화: 잠재 공간(Latent Space)에서의 협업을 통한 멀티 에이전트 시스템의 혁신 ‘LatentMAS’ | by YouShin kim | Nov, 2025 | Medium](https://medium.com/@mdpman/princeton-uiuc-stanford-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%86%EB%8A%94-%EB%8C%80%ED%99%94-%EC%9E%A0%EC%9E%AC-%EA%B3%B5%EA%B0%84-latent-space-%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%91%EC%97%85%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%ED%98%81%EC%8B%A0-latentmas-2829777fc73a)
@@ -1319,6 +1321,9 @@ Artificial Intelligence
   * AI 연구 보조 도구. 아이디어 발굴부터 과학적 발견까지 지원하는 AI 리서치 코파일럿
 * [deep-searcher: Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python](https://github.com/zilliztech/deep-searcher)
   * [Jehyun Lee - ● Deep Research is everywhere - 며칠 전만 해도 Google,... | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid022fBduMh2WX9fSduey3WzCnvhu4jDyaFxMf67ph5zQVzSjT3Q67FjgLgNqhbzio6Pl)
+* [deer-flow: An open-source SuperAgent harness that researches, codes, and creates](https://github.com/bytedance/deer-flow)
+  * [GitHub 200k 스타 돌파 ByteDance DeerFlow 2.0 다중 AI 에이전트 무료 사용법 및 Docker 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-GitHub-200k-%EC%8A%A4%ED%83%80-%EB%8F%8C%ED%8C%8C-ByteDance-DeerFlow-20-%EB%8B%A4%EC%A4%91-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-Docker-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * ByteDance의 오픈소스 SuperAgent. 리서치, 코딩, 창작을 샌드박스·메모리·도구·스킬·서브에이전트로 처리
 * [Devin](https://devin.ai/)
   * [Thoughts On A Month With Devin – Answer.AI](https://www.answer.ai/posts/2025-01-08-devin.html)
     * [Devin과 함께한 한 달에 대한 소회 | GeekNews](https://news.hada.io/topic?id=18787)
@@ -3283,6 +3288,7 @@ Artificial Intelligence
       * cursor가 제공하는 Agent 기능, 다양한 모델로 스위치하는 기능과 더불어 인라인 코드 편집/생성이 가능한 영역은 cursor를 사용하는 충분한 이유
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
+  * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [claude-code-telegram: A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence](https://github.com/RichardAtCT/claude-code-telegram)
   * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
@@ -3798,6 +3804,7 @@ Artificial Intelligence
   * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
     * AgentMail, Here Now, Tavily, FireCrawl, Remotio 등 OpenClaw 에이전트와 함께 매일 사용하는 무료 도구 5선
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
+  * [OpenClaw 바이브 코딩 베스트 프랙티스 :: ROBOCO](https://roboco.io/posts/openclaw-vibe-coding-best-practices/)
   * [LLM 다음 단계로 OpenClaw가 필연인 이유 - 도커 다음엔 쿠버네티스가 나왔다 - YouTube](https://www.youtube.com/watch?v=X35eq65Rnj0)
   * [Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)
     * [OpenClaw Community | Alvin Bot | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611128223370901/)
