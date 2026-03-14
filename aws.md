@@ -2856,6 +2856,7 @@ AWS
 * [Bucket monopoly : 간단한 S3 이름의 함정](https://beaver-dam.tistory.com/8)
 * [S3 server access logs at scale](https://engineeringblog.yelp.com/2025/09/s3-server-access-logs-at-scale.html)
 * [AWS Cloud Engineer Guide: Creating an S3 Bucket with AWS CLI and Migrating Data Using Sync | by Cloud with Hamza | Feb, 2026 | Medium](https://medium.com/@hamza46/create-an-s3-bucket-and-migrate-data-using-aws-s3-sync-d5f3ecafe511)
+* [Twenty years of Amazon S3 and building what's next | AWS](https://aws.amazon.com/ko/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
