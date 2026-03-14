@@ -732,6 +732,8 @@ Docker
 * <img src="images/docker_k8s_comparison.jpg" alt="docker, docker compose, and kubernetes" width="300"/>
 * [Demystifying Docker Base Images: Why Ubuntu in a Container Isn't Really Ubuntu](https://oneuptime.com/blog/post/2026-01-19-how-os-base-images-work-in-docker/view)
   * [Docker 베이스 이미지 이해하기: 컨테이너 속 Ubuntu는 진짜 Ubuntu가 아님 | GeekNews](https://news.hada.io/topic?id=25997)
+* [A Decade of Docker Containers | ACM](https://cacm.acm.org/research/a-decade-of-docker-containers/)
+  * [Docker 컨테이너 10년 | GeekNews](https://news.hada.io/topic?id=27313)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2429,6 +2431,9 @@ Docker
   * [Kind로 Kubernetes control plane의 로그 레벨 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1659)
   * [Kind의 Kubernetes 노드 이미지 직접 생성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1661)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
+* [klaw.sh: kubectl for AI Agents — enterprise AI agent orchestration as a single binary](https://github.com/klawsh/klaw.sh)
+  * [klaw.sh | GeekNews](https://news.hada.io/topic?id=27448)
+  * Kubernetes 방식의 AI 에이전트 오케스트레이션. 단일 바이너리, 수백 에이전트 확장
 * [Knative](https://knative.dev/)
   * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
   * 서버리스 오픈소스 - knative
