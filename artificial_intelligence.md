@@ -886,6 +886,10 @@ Artificial Intelligence
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
     * 핵심 허브(OpenEnv Hub)에서 다양한 '에이전틱 환경(agentic environment)'을 제작, 테스트, 안전하고 일관된 에이전트 운영이 가능하도록 지원
+* [OpenFang — The Agent Operating System](https://www.openfang.sh/)
+  * [openfang: The Agent Operating System — open-source, built in Rust](https://github.com/RightNow-AI/openfang)
+  * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * Rust 기반 오픈소스 에이전트 OS. 32MB 단일 바이너리로 7개 자율 Hands(영상 편집, 리드 발굴, OSINT, 예측, 리서치, 트위터, 브라우저), 40개 메시징 어댑터, 27개 LLM 프로바이더, 16개 보안 레이어(WASM 샌드박스, Ed25519 서명, Merkle 감사 추적) 제공
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
