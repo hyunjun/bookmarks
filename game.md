@@ -68,6 +68,8 @@ Game
 * [snake6502.asm](https://gist.github.com/wkjagt/9043907)
 * [Making Video Games in 2025 (without an engine) - Noel Berry](https://noelberry.ca/posts/making_games_in_2025/)
   * [게임 엔진 없이 비디오 게임 개발하기 (2025) | GeekNews](https://news.hada.io/topic?id=21021)
+* [FEAT. AI 아티스트는 왜 데이터 스펙 가이드가 있어도 확인하지 않고 커밋하는 걸까?](https://techartnomad.tistory.com/714)
+  * 20년 경력 테크니컬 아티스트 관점에서 아티스트의 스펙 미준수를 인문학·심리학·뇌과학으로 분석. 미술 교육의 규칙 파괴 문화, 시각적 사고와 텍스트 기반 스펙의 불일치, 몰입 상태 중단 비용 등이 원인. 자동화된 검증 시스템과 DCC 도구 내장 스펙, 즉각적 피드백 루프를 해결책으로 제안
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
