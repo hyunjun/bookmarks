@@ -1011,6 +1011,8 @@ Linux
     * IANA에서 22번을 할당해 주고 Tatu Ylonen을 담당자로 지정해 주어 바로 SSH의 베타테스터들에게 공개
   * [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
     * [SSH Honeypot을 30일 동안 운영하면 보게 되는 것 | GeekNews](https://news.hada.io/topic?id=15378)
+  * [SSH에 비밀 메뉴가 있다는 거 아세요?](https://x.com/rebane2001/status/2031037389347406054)
+    * [SSH에 비밀 메뉴가 있다는 거 아세요? | GeekNews](https://news.hada.io/topic?id=27460)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [ggh: Recall your SSH sessions (also search your SSH config file)](https://github.com/byawitz/ggh/)
     * [GGH - SSH 세션을 Recall하는 도구 | GeekNews](https://news.hada.io/topic?id=18674)
