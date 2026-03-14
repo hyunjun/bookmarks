@@ -800,7 +800,9 @@ Artificial Intelligence
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
 * [autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
-  * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석
+  * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
+    * [Claude Code + Autoresearch = 자기 개선 AI](https://livewiki.com/ko/content/claude-autoresearch-self-improving-ai)
+  * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
@@ -2905,6 +2907,9 @@ Artificial Intelligence
 * [Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson - YouTube](https://www.youtube.com/watch?v=c1K3H0z7vbw)
   * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
 * [Claude Code 29개 vs Codex 7개, 설계 철학이 정반대였습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-29%EA%B0%9C-vs-codex-7%EA%B0%9C-%EC%84%A4%EA%B3%84-%EC%B2%A0%ED%95%99%EC%9D%B4-%EC%A0%95%EB%B0%98%EB%8C%80%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%A4%EC%A3%BC-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-share-7435825294554484736)
+* [Claude Code + Playwright = 놀라운 브라우저 자동화입니다 - YouTube](https://www.youtube.com/watch?v=GaVoI5ZxV10)
+  * [Claude Code와 Playwright로 놀라운 브라우저 자동화](https://livewiki.com/ko/content/claude-code-playwright-automation)
+  * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
@@ -3490,6 +3495,10 @@ Artificial Intelligence
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
+* [context-mode: Context virtualization layer for AI agents](https://github.com/mksglu/context-mode)
+  * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
+    * [Claude Code 비용 문제를 해결하는 MCP 서버 Context Mode](https://livewiki.com/ko/content/claude-code-expensive-fix)
+  * MCP 서버로 컨텍스트를 가상화하여 토큰 최대 99% 절감. 원시 데이터를 로컬 샌드박스에 인덱싱하고 FTS5 검색으로 필요한 부분만 전달. SQLite 기반 세션 연속성으로 대화 압축 후에도 작업 상태 유지
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging](https://github.com/AnandChowdhary/continuous-claude)
