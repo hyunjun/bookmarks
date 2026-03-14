@@ -1046,6 +1046,16 @@ Business
 * [버크셔 통신 '천재 CEO' 워런 버핏](https://www.buffettclub.co.kr/article-20251231/)
 * [보잉도, 3M도 '이 회사'를 따라하다 망했습니다 (GE 편) - YouTube](https://www.youtube.com/watch?v=htgiSO2NW-E) 잭 웰치 Jack Welch
   * [세계 1위 GE의 '최악' 경영 방식이 글로벌 기업들을 망가뜨린 이유](https://livewiki.com/ko/content/ge-worst-management)
+* [Strategic Choices: When Both Options Are Good](https://longform.asmartbear.com/strategic-choices/)
+  * [전략적 선택 | GeekNews](https://news.hada.io/topic?id=27186)
+* [The Brand Age | Paul Graham](https://paulgraham.com/brandage.html)
+  * [브랜드의 시대 | GeekNews](https://news.hada.io/topic?id=27260)
+* [The Phone Company Always Wins: Don't Bet Against Network Effects](https://99d.substack.com/p/dont-bet-against-network-effects)
+  * [네트워크 효과에 맞서지 마라 | GeekNews](https://news.hada.io/topic?id=27425)
+* [Workers Who Love 'Synergizing Paradigms' Might Be Bad at Their Jobs | Cornell](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
+  * [유행어를 좋아하는 직원이 실제로 업무를 못할 수도 있다 | GeekNews](https://news.hada.io/topic?id=27269)
+* [How to Prepare for the Next Decade](https://thewakeupcallnewsletter.substack.com/p/how-to-prepare-for-the-next-decade)
+  * [향후 10년을 준비하는 방법 | GeekNews](https://news.hada.io/topic?id=27333)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -4574,6 +4584,8 @@ Business
 * [The $1B AI company training ChatGPT, Claude & Gemini | Edwin Chen - YouTube](https://www.youtube.com/watch?v=dduQeaqmpnI)
   * [VC 투자 받지 않고 4년 만에 1조원 매출을 기록한 Surge AI | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_vc-%ED%88%AC%EC%9E%90-%EB%B0%9B%EC%A7%80-%EC%95%8A%EA%B3%A0-4%EB%85%84-%EB%A7%8C%EC%97%90-1%EC%A1%B0%EC%9B%90-%EB%A7%A4%EC%B6%9C%EC%9D%84-%EA%B8%B0%EB%A1%9D%ED%95%9C-%EA%B3%B3%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%81%EC%9B%90%EC%9D%80-activity-7403904962864537600-c6Fe)
   * Surge AI: VC 투자 없이 4년 만에 1조원 매출, 100명 미만. OpenAI/Anthropic/Google에 AI 학습 데이터 품질 관리
+* [Three Metrics Every New Founder Should Track](https://www.dearstage2.com/p/three-metrics-every-new-founder-should)
+  * [새로운 창업자가 추적해야 할 3가지 지표 | GeekNews](https://news.hada.io/topic?id=27185)
 * [founders-kit: Essential resources, tools, and playbooks for startup founders](https://github.com/avinash201199/founders-kit)
   * 스타트업 창업자를 위한 필수 리소스, 도구, 플레이북 모음. 학습 자료, 강좌, 디자인 도구, 펀드레이징 가이드, 커뮤니티 네트워크를 카테고리별 정리
 
@@ -4816,6 +4828,8 @@ Business
   * 검색 로그, 클릭 패턴, 이탈 지점. 이 모든 것이 디지털에서의 Desire Path
     * 그 길이 우리의 의도와 다르다고 해서 잘못된 것이 아닙니다. 잘못된 것은 그 길을 무시하고 막으려는 태도
 * [텍스트 접근성을 개선했더니 거래액이 올랐습니다. - 라포랩스 팀블로그](https://blog.rapportlabs.kr/88141)
+* [Product Design Is Changing](https://rogerwong.me/2026/02/product-design-is-changing)
+  * [프로덕트 디자인이 변하고 있다 | GeekNews](https://news.hada.io/topic?id=27120)
 * aidesign.guide [Introduction - The AI design library](https://aidesign.guide/)
   * AI Design Guide는 디자인과 인공지능의 결합으로 가능한 새로운 워크플로와 방법론을 소개하는 리소스 컬렉션
   * 이 가이드는 프롬프트 작성법, 효과적인 AI 활용 전략, 디자인 자동화를 위한 실용적인 팁을 제공하며 디자이너의 워크플로를 개선할 수 있는 다양한 도구와 방법을 소개
