@@ -892,6 +892,9 @@ Artificial Intelligence
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
   * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
   * [류내원 - Alibaba just handed the AI agent community a... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0hHBbeWKfzHj1b7uV3SV6zrASLx9N1CAmHn5gTXQA8hmCPHgdDdX1H5USsjr2njfSl)
+* [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
+  * [류내원 - ByteDance just open-sourced a brain for AI agents: OpenViking | Facebook](https://www.facebook.com/won.wizard/posts/pfbid027DFYveWzg6wzSHtFSQivRVtkiet4Q5Jco8NnSsYVkgJULXi3B5wo9oGo2EtMu9sQl)
+  * ByteDance의 AI 에이전트용 오픈소스 컨텍스트 DB. 파일 시스템 패러다임으로 메모리·리소스·스킬을 통합 관리하고, L0/L1/L2 3단계 계층적 컨텍스트 로딩으로 토큰 소비 절감. 디렉토리 재귀 검색과 시맨틱 검색을 결합한 정밀 컨텍스트 획득
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
@@ -2897,6 +2900,10 @@ Artificial Intelligence
     * 에이전트는 처음에 기술의 메타데이터(설명)만 스캔하고, 관련성이 있을 때만 전체 내용을 읽어 효율성 극대화
   * 4. 구조적 관리
     * 규칙은 짧게 유지하고, 복잡한 절차나 체크리스트는 기술 단위로 분리하여 관리하는 것이 유지보수와 성능 면에서 유리
+* [How to Make Claude Code Skills Activate Reliably](https://scottspence.com/posts/how-to-make-claude-code-skills-activate-reliably)
+  * [클로드 스킬을 안정적으로 불러오는 방법](https://siosio3103.medium.com/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC%EC%9D%84-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-a68ea430d044)
+  * [svelte-claude-skills: Claude Code skills for Svelte and SvelteKit development](https://github.com/spences10/svelte-claude-skills)
+  * 기본 스킬 활성화율은 20%에 불과. Forced Eval Hook(84%)은 Claude가 각 스킬을 YES/NO로 명시적 평가 후 활성화하도록 강제하고, LLM Eval Hook(80%)은 Claude API로 사전 평가하여 비용 10% 절감·속도 17% 향상
 * [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
   * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
   * 2026년 기준, 개발자 85%가 AI 도구 사용 중, 생산성 향상을 위해 단순 자동완성에서 터미널 기반의 실행형 에이전트로 패러다임 전환
