@@ -2226,6 +2226,7 @@ Artificial Intelligence
   * 이 세계에서는 프롬프트나 코드가 아닌 사양이 프로그래밍의 기본 단위가 되는 방법과 사양 작성이 새로운 슈퍼파워가 되는 이유를 설명
   * 오랜 시간 동안 코드는 개발자의 가장 가치 있는 생산물로 여겨졌으나, 사실 이는 그것을 만들기 위한 명세가 제거된 결과물일 뿐이며 잘 작성된 명세는 여러 형태의 개발 언어, 문서화 등이 가능한 원천 소스임을 말한다
   * AI 시대의 개발자는 시스템 의도를 설계할 수 있는 능력이야말로 가장 중요한 기술이 될 것이라고 주장한다
+* ["사람이 낫다" AI 인력 대체론에 관리자까지 반발 | CIO](https://www.cio.com/article/4142162/%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%82%AB%EB%8B%A4-ai-%EC%9D%B8%EB%A0%A5-%EB%8C%80%EC%B2%B4%EB%A1%A0%EC%97%90-%EA%B4%80%EB%A6%AC%EC%9E%90%EA%B9%8C%EC%A7%80-%EB%B0%98%EB%B0%9C.html)
 * [Can AI Replace Web Developers: A Practical Look at Current Tools and Limitations](https://www.sitepoint.com/can-ai-replace-web-developers/)
   * AI가 웹 개발자를 대체할 수 있는지에 대한 논의
   * 이 글에서는 AI가 현재 웹 개발에서 수행할 수 있는 작업들과 그 한계점을 분석
@@ -2501,11 +2502,16 @@ Artificial Intelligence
 * [Meta AI 안전 연구자 OpenClaw 에이전트에 의해 이메일 200통 삭제 사건 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%98%A4%EB%8A%98-%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%ED%99%94%EC%A0%9C%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%86%8C%EC%8B%9D%EC%9D%BC-%EA%B2%81%EB%8B%88%EB%8B%A4-meta-ai-%EC%95%88%EC%A0%84-share-7431858694792904704-pZeh)
   * 컨텍스트 윈도우 압축 시 안전 지시 누락으로 이메일 200통 삭제. 원격 킬 스위치 부재, 과도한 권한 설정이 원인. 입력 신뢰 수준 분류, 인간 승인 필수화 제안
 * [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+* [How We Hacked McKinsey's AI Platform | CodeWall](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+  * [맥킨지의 AI 플랫폼 해킹 사건 | GeekNews](https://news.hada.io/topic?id=27431)
   * 악의적 웹사이트가 localhost WebSocket으로 OpenClaw 에이전트 제어권 탈취. 게이트웨이 비밀번호 무차별 대입 후 신뢰 장치 등록. 2026.2.25 버전에서 수정
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
+* [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
+  * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
+  * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -2739,6 +2745,9 @@ Artificial Intelligence
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
   * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
+* [omni: Workplace AI Assistant and Search Platform](https://github.com/getomnico/omni)
+  * [omni | GeekNews](https://news.hada.io/topic?id=27390)
+  * 셀프 호스팅 워크플레이스 AI 어시스턴트. Google Workspace, Slack, Confluence, Jira 연결 통합 시맨틱 검색
 * [Opal](https://opal.withgoogle.com/landing/)
   * [Google Opal, 디자이너도 AI로 앱을 만든다.](https://brunch.co.kr/@ghidesigner/298)
   * [AI업무자동화 구글 오팔 Opal 미쳤습니다... N8N, 이제 안녕! (무료 AI 앱 생성기) - YouTube](https://www.youtube.com/watch?v=3VJ9U2a25so)
@@ -2747,6 +2756,9 @@ Artificial Intelligence
 * [OpenAlex: The open catalog to the global research system](https://openalex.org/) 논문 검색
 * otranslator [Precise AI Document Translator – Flawless PDFs, DOCX, EPUB](https://otranslator.com/)
   * [O.Translator는 GPT-4.1 mini 및 Claude와 같은 AI 기술을 활용하여 PDF, DOCX, PPTX, XLSX, EPUB, SRT, PO, TXT, XML, JSON 등 다양한 형식의 문서를 고품질로 번역하는 AI 기반 번역 서비스](https://www.linkedin.com/posts/duckjungkim_otranslator%EB%8A%94-gpt-41-mini-%EB%B0%8F-claude%EC%99%80-%EA%B0%99%EC%9D%80-ai-activity-7319364605284073472-PfhD/)
+* [openchrome: Open-source browser automation MCP server for AI agents via CDP](https://github.com/shaun0927/openchrome)
+  * [openchrome | GeekNews](https://news.hada.io/topic?id=27072)
+  * 45개 도구, 20+ 병렬 작업, 세션 지속성 지원. AI 에이전트가 실제 Chrome 인스턴스 제어
 * [open-notebook: An Open Source implementation of Notebook LM with more flexibility and features](https://github.com/lfnovo/open-notebook)
   * [What is Open Notebook? | Open Notebook](https://www.open-notebook.ai/)
   * [이상선 - 오픈소스 버전 NotebookLM 등장 — 학습과 연구를 위한 ‘Open Notebook’ 공개 Open... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02oWhkbPNGiszZhNRxvty8LfGPpu6PNRF6jR4xrc95RJZiAaC9fjK7YhByF611DvMl)
@@ -2774,6 +2786,10 @@ Artificial Intelligence
 * [parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)
   * [Home | Parlant](https://www.parlant.io/)
   * [LLM이 정확히 내가 원하는 대로만 동작하게 #금융 #의료 #법률 #오픈소스 #parlant | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_qyossl-sturzo-rsvrcg-activity-7379292787067904000-IqeE)
+* [pm-skills: PM Skills Marketplace — 100+ agentic skills, commands, and plugins for product managers](https://github.com/phuryn/pm-skills)
+  * [pm-skills | GeekNews](https://news.hada.io/topic?id=27327)
+* [Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents](https://github.com/deanpeters/Product-Manager-Skills)
+  * PRD 작성, 사용자 스토리, 경쟁 분석, 로드맵 등 프로덕트 매니지먼트 워크플로우를 AI 코딩 에이전트용 스킬로 체계화
 * [PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
   * [Home | Pocket Flow](https://the-pocket.github.io/PocketFlow-Tutorial-Codebase-Knowledge/)
   * [code_to_tutorial](https://github.com/dabidstudio/code_to_tutorial)
@@ -2941,6 +2957,8 @@ Artificial Intelligence
   * 기본 스킬 활성화율은 20%에 불과. Forced Eval Hook(84%)은 Claude가 각 스킬을 YES/NO로 명시적 평가 후 활성화하도록 강제하고, LLM Eval Hook(80%)은 Claude API로 사전 평가하여 비용 10% 절감·속도 17% 향상
 * [Skills vs MCP — Why Your AI Needs an Orchestration Layer](https://alexmoening.com/dev-thoughts/skills-vs-mcp-orchestration-layer.html)
   * MCP는 도구 접근을 제공하지만 워크플로우 인식이 없어 도구 50개 이상 시 정확도 42%로 하락(필터링 시 85%). 스킬 기반 오케스트레이션 레이어로 인텐트→워크플로우 라우팅하면 요청당 토큰 23K→400으로 절감, 멀티스텝 성공률 60%→92%로 개선
+* [How Uber Uses AI for Development | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development)
+* [다시 문제는 네트워킹: AI 시대 개발자가 인프라에 | ITWorld](https://www.itworld.co.kr/article/4140335/%EB%8B%A4%EC%8B%9C-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90.html)
 * [Claude Code 와 Codex 를 구독했다면 전 세계 상위 0.3% | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-%EC%99%80-codex-%EB%A5%BC-%EA%B5%AC%EB%8F%85%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%83%81%EC%9C%84-03-activity-7436523651807604736-FKlr)
 * [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
   * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
@@ -3037,6 +3055,7 @@ Artificial Intelligence
     * [ai-native-camp/camp-1: AI Native Camp 1기 강의 자료](https://github.com/ai-native-camp/camp-1)
       * [강의 자료 대신 interactive하게 claude code를 배울 수 있는 SKILLS: AI Native Camp 1기 강의 자료 | 정구봉 Goobong Jeong | 30 comments](https://www.linkedin.com/posts/gb-jeong_github-ai-native-campcamp-1-ai-native-activity-7428551113521491968-9YA4)
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
+      * [mcp-builder: MCP builder skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder)
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
@@ -3281,6 +3300,7 @@ Artificial Intelligence
   * [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개) - YouTube](https://www.youtube.com/watch?v=3lMjX5Gq1zE)
   * [Claude Code로 1시간 만에 책 한 권을 만들기 | Facebook](https://www.facebook.com/reel/2074282333352953)
     * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
+  * [Harness Engineering: How to Supervise AI Agents](https://decision.substack.com/p/harness-engineering-how-to-supervise)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
@@ -3306,6 +3326,8 @@ Artificial Intelligence
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
+  * [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)
+  * [Claude Code Guide | Manus](https://claudeguide-dv5ktqnq.manus.space/)
   * [claude-code-harness: LLM 코드 에이전트의 출력 품질을 구조화된 사전 설정으로 개선하는 프레임워크](https://github.com/revfactory/claude-code-harness)
     * [harness-paper-ko.pdf](https://github.com/revfactory/claude-code-harness/blob/main/paper/harness-paper-ko.pdf)
     * [Minho Hwang - Claude Code의 잠재력을 최대로 끌어올리는 비결 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0BnX8K2upZagm8BKbtZAsfVaA3q2UXbkZaQKBQCrCD5kxtTHC956uaCMxsL3XmuFyl)
@@ -3464,6 +3486,7 @@ Artificial Intelligence
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
+  * [playwright-skill: Claude Skill for writing and executing Playwright browser automation](https://github.com/lackeyjb/playwright-skill)
   * [pixel-agents: Pixel office](https://github.com/pablodelucca/pixel-agents)
     * [Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents | GeekNews](https://news.hada.io/topic?id=26921)
     * Claude Code 터미널별 AI 에이전트를 가상 사무실의 픽셀 아트 캐릭터로 시각화하는 VS Code 확장. 실시간 활동 추적(타이핑/읽기/대기), 사무실 커스터마이징, 음성 알림 지원
@@ -3471,8 +3494,6 @@ Artificial Intelligence
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
     * [Claude Code로 카카오톡 메시지를 읽고 쓸 수 있는 플러그인을 만들었습니다. 1. 맥락을 파악하고 허락을 맡습니다. 무턱대로 메시지를 보내는게 아니라 이전 메시지를 읽고 적절한 메시지로 만듭니다. 그리고선 바로 보내는게 아니라 반드시 ask user question 으로 유저에게 반드시 메시지 내용을 보여주고 허락을 받습니다. 2… | 정구봉 Goobong Jeong | 19 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7418700836995899410-m9fH)
     * [/clarify 스킬을 업데이트했습니다. metamedium, unknwon라는 프레임워크를 기반으로 총 3가지 스킬로 만들어두었어요. 기존 스킬은 이제 vague 라는 이름으로 부릅니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentionplugins-for-claude-natives-activity-7426767193155231744-NY5Q)
-  * [Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents](https://github.com/deanpeters/Product-Manager-Skills)
-    * PRD 작성, 사용자 스토리, 경쟁 분석, 로드맵 등 프로덕트 매니지먼트 워크플로우를 AI 코딩 에이전트용 스킬로 체계화
   * [ralph-claude-code: Autonomous AI development loop for Claude Code with intelligent exit detection](https://github.com/frankbria/ralph-claude-code)
     * [Anthropic의 비밀 병기 'Ralph Loop' 공개! Claude Code의 한계를 넘는 실전 워크플로우 - YouTube](https://www.youtube.com/watch?v=4IpL5tnbZFA)
       * [Anthropic Ralph Loop: Claude Code의 UI 개발 한계를 넘는 실전 워크플로우](https://livewiki.com/ko/content/anthropic-ralph-loop-claude-code)
@@ -4221,6 +4242,9 @@ Artificial Intelligence
   * 이 벡터 데이터베이스를 이용하면 모델에 조회한 내용을 저장해 두고 사용 가능
 * [Weaviate - vector database](https://weaviate.io/)
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
+* [zvec: A lightweight, lightning-fast, in-process vector database](https://github.com/alibaba/zvec)
+  * [Zvec - 가볍고 초고속 인프로세스 벡터 데이터베이스 | GeekNews](https://news.hada.io/topic?id=27147)
+  * Alibaba Proxima 기반 임베디드 벡터 검색 엔진. 수십억 벡터 밀리초 검색, dense/sparse 벡터 및 하이브리드 검색 지원. Python/Node.js 라이브러리로 별도 서버 불필요
 
 # Video
 * [AI로 피팅모델을 '생성'하고 실제 의류를 합성합니다 | 개발자 브이로그 - YouTube](https://www.youtube.com/watch?v=bRxymNcxjNI)
