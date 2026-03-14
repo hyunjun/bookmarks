@@ -337,6 +337,9 @@ Artificial Intelligence
   * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
   * [AI가 주니어를 빛나게 할 것이라 했지만, 왜 시니어만 더 강해졌을까? | GeekNews](https://news.hada.io/topic?id=23205)
+* [AI is Making Junior Devs Useless - Be a Better Dev](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+  * [AI가 주니어 개발자를 쓸모없게 만들고 있다 | GeekNews](https://news.hada.io/topic?id=27162)
+  * AI가 주니어의 '얕은 역량'을 양산하는 문제를 지적. 시니어의 가치는 실패를 통한 패턴 인식에서 나오므로, AI를 단축키가 아닌 교육 도구로 활용하여 기본기(설계 패턴, 시스템 설계)를 먼저 익히고, 이해하지 못하는 코드는 커밋하지 말 것을 강조
 * [조금 늦게 AI를 따라가는 회사와 사람들에게 | 요즘IT](https://yozm.wishket.com/magazine/detail/3375/)
 * [AI 2027](https://ai-2027.com/)
   * [AI 2027 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-2027-activity-7378799365131374593-coYJ)
