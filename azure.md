@@ -259,6 +259,8 @@ Azure
 * [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
 * [azure-llm-fine-tuning: This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML](https://github.com/daekeun-ml/azure-llm-fine-tuning)
   * [Daekeun Kim on LinkedIn: GitHub - Azure/azure-llm-fine-tuning: This hands-on walks you through…](https://www.linkedin.com/posts/daekeun-kim_github-azureazure-llm-fine-tuning-this-activity-7213163452121432064-jRqR)
+* [azure-skills: Agent plugin providing skills and MCP server configurations for Azure scenarios](https://github.com/microsoft/azure-skills)
+  * 20개 큐레이션 워크플로우 + 40개 이상 Azure 서비스에 대한 200+ 도구 제공
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
