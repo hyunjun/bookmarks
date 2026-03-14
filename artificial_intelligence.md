@@ -2908,6 +2908,8 @@ Artificial Intelligence
   * [클로드 스킬을 안정적으로 불러오는 방법](https://siosio3103.medium.com/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%8A%A4%ED%82%AC%EC%9D%84-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-a68ea430d044)
   * [svelte-claude-skills: Claude Code skills for Svelte and SvelteKit development](https://github.com/spences10/svelte-claude-skills)
   * 기본 스킬 활성화율은 20%에 불과. Forced Eval Hook(84%)은 Claude가 각 스킬을 YES/NO로 명시적 평가 후 활성화하도록 강제하고, LLM Eval Hook(80%)은 Claude API로 사전 평가하여 비용 10% 절감·속도 17% 향상
+* [Skills vs MCP — Why Your AI Needs an Orchestration Layer](https://alexmoening.com/dev-thoughts/skills-vs-mcp-orchestration-layer.html)
+  * MCP는 도구 접근을 제공하지만 워크플로우 인식이 없어 도구 50개 이상 시 정확도 42%로 하락(필터링 시 85%). 스킬 기반 오케스트레이션 레이어로 인텐트→워크플로우 라우팅하면 요청당 토큰 23K→400으로 절감, 멀티스텝 성공률 60%→92%로 개선
 * [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
   * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
   * 2026년 기준, 개발자 85%가 AI 도구 사용 중, 생산성 향상을 위해 단순 자동완성에서 터미널 기반의 실행형 에이전트로 패러다임 전환
