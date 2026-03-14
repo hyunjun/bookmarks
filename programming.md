@@ -7780,6 +7780,7 @@ Programming
   * [SBAT란 무엇이며 왜 갑자기 모두가 관심을 가지는가 | GeekNews](https://news.hada.io/topic?id=16423)
 * netboot.xyz [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
   * [Netboot.xyz - 당신이 좋아하는 OS를 한 곳에 | GeekNews](https://news.hada.io/topic?id=16403)
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # Paper
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
