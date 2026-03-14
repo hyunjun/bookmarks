@@ -2594,6 +2594,9 @@ Programming
   * [Building an Exchange - Project Overview and Purpose | 황기운](https://www.linkedin.com/posts/%EA%B8%B0%EC%9A%B4-%ED%99%A9-4b0a71296_building-an-exchange-project-overview-activity-7404054053317505024-YLwY)
 * [수천 개의 API/BATCH 서버를 하나의 설정 체계로 관리하기](https://toss.tech/article/42683)
 * [SW Design, Architecture & Clarity at Scale • Sam Newman, Jacqui Read & Simon Rohrer • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=t67oWHa00iE)
+* [Every Software Org is Dysfunctional • R. Parsons, G. Hohpe, B. O'Reilly & A. Harmel-Law • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=WpcKJ9TR5_Y)
+  * [모든 소프트웨어 조직은 역기능적이다 • GOTO 2025](https://livewiki.com/ko/content/software-org-dysfunctional)
+  * ThoughtWorks CTO Emerita Rebecca Parsons, Gregor Hohpe, Barry O'Reilly, Andrew Harmel-Law 4인의 아키텍처 패널 토론. 조직의 역기능은 버그가 아니라 인간적 특성이며, 무엇을 결정하느냐보다 어떻게 결정하느냐가 더 중요하다는 점, 하드웨어가 소프트웨어 아키텍처를 형성하는 방식, 아키텍트의 외교관 역할, AI가 아키텍트를 대체할 것인가 등을 논의
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
