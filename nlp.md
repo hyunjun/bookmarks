@@ -3765,6 +3765,7 @@ NLP
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * [OpenRouter](https://openrouter.ai/)
+  * [완전 무료 Claude Code를 OpenRouter로 0원 코딩 에이전트 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-Claude-Code%EB%A5%BC-OpenRouter%EB%A1%9C-0%EC%9B%90-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
