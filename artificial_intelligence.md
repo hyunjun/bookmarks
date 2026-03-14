@@ -3935,7 +3935,10 @@ Artificial Intelligence
     * [AWSKRUG- AWS한국사용자모임 | 🦞 OpenClaw on AWS with Bedrock - 나만의 AI 비서를 AWS에 올려보자 | Facebook](https://www.facebook.com/groups/awskrug/posts/25272014385807247)
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
-  * [SkyClaw — Rust AI agent runtime | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/posts/1612248343258889/)
+  * [SkyClaw — Hyper-lean AI Agent Runtime](https://skyclaw.vn/)
+    * [temm1e: Autonomous AI agent runtime in Rust](https://github.com/nagisanzenin/temm1e)
+    * [OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/posts/1612248343258889/)
+    * Rust 기반 초경량 자율 AI 에이전트 런타임. 9MB 바이너리, 15MB RAM, 31ms 콜드 스타트. 자가 치유·크래시 복구로 수주간 무인 운영. Blueprint 기반 프로시저럴 메모리로 반복 작업 학습
   * [SuperClaw — ClawScan: Free AI Automation Assessment](https://www.superclaw.io/clawscan)
     * 비즈니스 AI 자동화 기회를 분석하는 무료 평가 도구. 업종별 경쟁 분석, 즉시 적용 가능한 퀵윈, 단계별 구현 로드맵 제공
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
