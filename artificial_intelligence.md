@@ -439,6 +439,19 @@ Artificial Intelligence
     * [Codex App Server 아키텍처: OpenAI가 표준 하네스로 통합한 에이전트 실행 구조](https://digitalbourgeois.tistory.com/2804)
   * [Agent-First 시대의 소프트웨어 개발 전략: Codex로 코드 한 줄 안 쓰고 제품 만든 엔지니어링 인사이트](https://digitalbourgeois.tistory.com/2825)
     * AI 에이전트가 코드 100% 생성하는 실험적 제품 개발 사례. 인간의 역할이 코딩에서 시스템 설계, 아키텍처 관리, 피드백 루프 최적화로 전환
+  * [하네스 엔지니어링, 에이전트 우선 세계에서 Codex 활용하기 | GeekNews](https://news.hada.io/topic?id=27457)
+  * [하네스 엔지니어링 에이전트 우선 세계에서 Codex 활용하기 | raging-wind](https://www.linkedin.com/posts/raging-wind_%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9A%B0%EC%84%A0-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-codex-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-geeknews-activity-7438212039631773696-7Qdh)
+  * [Agent Harness | bijit211987 | Medium](https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1)
+  * [Harness | LangChain Docs](https://docs.langchain.com/oss/python/deepagents/harness)
+  * [Harness Engineering | Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
+  * [Agent Harness 2026 | Philipp Schmid](https://www.philschmid.de/agent-harness-2026)
+  * [Agent Harness | mseagle2023](https://www.linkedin.com/posts/mseagle2023_agent-harness-activity-7434502179484471296-x1yE)
+  * [Harness Engineering 2026년 실리콘밸리에서 | seungpil](https://www.linkedin.com/posts/seungpil_harness-engineering%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-2026%EB%85%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-activity-7436547143496151040-SNti)
+  * [하네스 엔지니어링 시대: 코딩 에이전트를 위한 새로운 프레임워크](https://digitalbourgeois.tistory.com/2857)
+  * [Harness 개념 정리](https://sungeuns.substack.com/p/harness)
+  * [opencode oh my opencode harness](https://velog.io/@qlgks1/opencode-oh-my-opencode-harness)
+  * [Effective Harnesses for Long-Running Codex | Team Attention](https://long-running-codex-meetup.team-attention.com/)
+    * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
@@ -447,6 +460,7 @@ Artificial Intelligence
 * [Agentic Engineering Patterns - Simon Willison](https://simonwillison.net/guides/agentic-engineering-patterns/)
   * [Simon Willison 에이전틱 엔지니어링 패턴 | Youshin Kim](https://www.linkedin.com/pulse/simon-willison-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%A8%ED%84%B4-agentic-engineering-patterns-youshin-kim-hfk1c)
   * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
+* [에이전트 시대 우리가 설계해야 할 것은 모델이 아니라 시스템이다 | Seowoo Han](https://www.linkedin.com/pulse/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%80-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%8B%A4-seowoo-han-bzxzc)
 * [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
@@ -884,6 +898,7 @@ Artificial Intelligence
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
 * [OpenAI Symphony: turns project work into isolated, autonomous implementation runs](https://github.com/openai/symphony)
   * [OpenAI Symphony: 에이전트 기반 프로젝트 관리 자동화 도구 완전 정리](https://digitalbourgeois.tistory.com/2843)
+  * [OpenAI Symphony 에이전트 기반 프로젝트 작업의 자율적 구현 및 관리 프레임워크 | Youshin Kim](https://kr.linkedin.com/pulse/openai-symphony-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9E%91%EC%97%85%EC%9D%98-%EC%9E%90%EC%9C%A8%EC%A0%81-%EA%B5%AC%ED%98%84-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-youshin-kim-52jhc)
   * 작업 생성→에이전트 자동 생성→코드 작성→결과 제출→PR 병합까지 자동화. 개발자는 작업 정의와 검증에 집중
   * [Running OpenAI Symphony with Claude Code](https://www.sapsaldog.com/posts/symphony-with-claude-code)
     * Symphony를 포크하여 Claude Code 백엔드 추가. JSON-RPC 2.0으로 Claude Code 래핑, GitHub Issues 지원, 다중 백엔드 추상화
@@ -1339,7 +1354,8 @@ Artificial Intelligence
   * AI 연구 보조 도구. 아이디어 발굴부터 과학적 발견까지 지원하는 AI 리서치 코파일럿
 * [deep-searcher: Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python](https://github.com/zilliztech/deep-searcher)
   * [Jehyun Lee - ● Deep Research is everywhere - 며칠 전만 해도 Google,... | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid022fBduMh2WX9fSduey3WzCnvhu4jDyaFxMf67ph5zQVzSjT3Q67FjgLgNqhbzio6Pl)
-* [deer-flow: An open-source SuperAgent harness that researches, codes, and creates](https://github.com/bytedance/deer-flow)
+* [DeerFlow](https://deerflow.tech/)
+  * [deer-flow: An open-source SuperAgent harness that researches, codes, and creates](https://github.com/bytedance/deer-flow)
   * [GitHub 200k 스타 돌파 ByteDance DeerFlow 2.0 다중 AI 에이전트 무료 사용법 및 Docker 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-GitHub-200k-%EC%8A%A4%ED%83%80-%EB%8F%8C%ED%8C%8C-ByteDance-DeerFlow-20-%EB%8B%A4%EC%A4%91-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-Docker-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * ByteDance의 오픈소스 SuperAgent. 리서치, 코딩, 창작을 샌드박스·메모리·도구·스킬·서브에이전트로 처리
 * [Devin](https://devin.ai/)
@@ -2739,6 +2755,8 @@ Artificial Intelligence
   * [충격적인 pdf 파일 번역의 혁신, 역대급 번역 툴, PDFMathTranslate 공개!](https://stock79.tistory.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B8-pdf-%ED%8C%8C%EC%9D%BC-%EB%B2%88%EC%97%AD%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%B2%88%EC%97%AD-%ED%88%B4-PDFMathTranslate-%EA%B3%B5%EA%B0%9C)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
   * [Perplexica - AI 기반의 검색엔진. Perplexity AI의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=15017)
+  * [Vane: Privacy-focused AI answering engine](https://github.com/ItzCrazyKns/Vane)
+    * Perplexica 저자의 후속 프로젝트. 로컬 LLM(Ollama) + 클라우드(OpenAI/Claude/Groq) 지원, SearxNG 기반 프라이버시 검색, 출처 인용 답변. Speed/Balanced/Quality 3단계 모드, 학술 논문·이미지·비디오 검색
 * [Perplexity](https://www.perplexity.ai/)
   * [perplexity 퍼플렉시티 모델 API 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223359316864)
   * [perplexity citation 코딩 --.. : 네이버블로그](https://blog.naver.com/ulsancoding/223660459680)
@@ -2923,6 +2941,7 @@ Artificial Intelligence
   * 기본 스킬 활성화율은 20%에 불과. Forced Eval Hook(84%)은 Claude가 각 스킬을 YES/NO로 명시적 평가 후 활성화하도록 강제하고, LLM Eval Hook(80%)은 Claude API로 사전 평가하여 비용 10% 절감·속도 17% 향상
 * [Skills vs MCP — Why Your AI Needs an Orchestration Layer](https://alexmoening.com/dev-thoughts/skills-vs-mcp-orchestration-layer.html)
   * MCP는 도구 접근을 제공하지만 워크플로우 인식이 없어 도구 50개 이상 시 정확도 42%로 하락(필터링 시 85%). 스킬 기반 오케스트레이션 레이어로 인텐트→워크플로우 라우팅하면 요청당 토큰 23K→400으로 절감, 멀티스텝 성공률 60%→92%로 개선
+* [Claude Code 와 Codex 를 구독했다면 전 세계 상위 0.3% | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-%EC%99%80-codex-%EB%A5%BC-%EA%B5%AC%EB%8F%85%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%83%81%EC%9C%84-03-activity-7436523651807604736-FKlr)
 * [Top 20 Agentic Coding CLI Tools in 2026 - Big Data Analytics News](https://bigdataanalyticsnews.com/top-agentic-coding-cli-tools/)
   * 에이전트 기반 코딩 CLI 도구는 단순 코드 제안을 넘어 스스로 계획 수립, 파일 수정, 디버깅까지 수행하는 자율형 소프트웨어 엔지니어처럼 동작
   * 2026년 기준, 개발자 85%가 AI 도구 사용 중, 생산성 향상을 위해 단순 자동완성에서 터미널 기반의 실행형 에이전트로 패러다임 전환
@@ -3260,6 +3279,8 @@ Artificial Intelligence
   * [Claude Code /loop로 반복 작업 자동 예약하는 법](https://fornewchallenge.tistory.com/entry/%E2%8F%B0Claude-Code-loop%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%9E%91%EC%97%85-%EC%9E%90%EB%8F%99-%EC%98%88%EC%95%BD%ED%95%98%EB%8A%94-%EB%B2%95)
   * [Claude Code로 문서 스캔 앱 만들어봤습니다 (이제 정말 코드를 안 봐도 되네요) - YouTube](https://www.youtube.com/watch?v=rJ6Y3p3yflc)
   * [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개) - YouTube](https://www.youtube.com/watch?v=3lMjX5Gq1zE)
+  * [Claude Code로 1시간 만에 책 한 권을 만들기 | Facebook](https://www.facebook.com/reel/2074282333352953)
+    * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
@@ -3302,6 +3323,7 @@ Artificial Intelligence
       * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
       * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
       * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
+  * [claude-code-starter: Claude Code 프로젝트 시작을 위한 CLAUDE.md, 스킬, 커맨드 템플릿](https://github.com/revfactory/claude-code-starter)
   * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
