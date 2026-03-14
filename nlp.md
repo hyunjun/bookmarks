@@ -3350,6 +3350,8 @@ NLP
     * [LangGraph를 활용한 Agentic AI 시스템 구축](https://linktr.ee/teddynote)
     * [Langchain이 있는데, Langgraph가 왜 필요할까?](https://bcho.tistory.com/1490)
     * [AI Agent 개념, 사례, 실습 이 영상 하나로 끝내드립니다ㅣLangGraph로 Agent 실습까지 - YouTube](https://www.youtube.com/watch?v=nxsa38ZfGY4)
+    * [agent-skills: LangGraph Agent Skill 가이드](https://github.com/kyopark2014/agent-skills)
+      * [LangGraph Agent Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_langgraph-agent-skill-ugcPost-7433472108283748352-N6RL)
     * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
       * [Intro to CoAgents (Public Beta)](https://docs.copilotkit.ai/coagents)
       * [Build Agent-Native Apps with LangGraph & CoAgents (tutorial) - YouTube](https://www.youtube.com/watch?v=0b6BVqPwqA0)
