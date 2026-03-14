@@ -1413,6 +1413,9 @@ Web
 * [Transform](https://transform.tools/) A polyglot web converter
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
+* [WaffleBase](https://wafflebase.io/)
+  * [wafflebase: Web-based collaborative spreadsheet with database capabilities](https://github.com/wafflebase/wafflebase)
+  * 스프레드시트와 데이터베이스를 결합한 웹 기반 협업 도구. Canvas 가상화 고성능 그리드, ANTLR4 수식 엔진, Yorkie CRDT 실시간 동시 편집. React 19 + NestJS + PostgreSQL
 * [Wapp - A Web-Application Framework for TCL](https://wapp.tcl.tk/home/doc/trunk/README.md)
   * [Wapp - TCL을 위한 웹 어플리케이션 스택 | GeekNews](https://news.hada.io/topic?id=5817)
 * [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
