@@ -722,6 +722,8 @@ Artificial Intelligence
 * [2601.20048 Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
   * [Amazon Research: Lightweight Multi-Agent System for Business Data Analysis | Elvis S. posted on the topic | LinkedIn](https://www.linkedin.com/posts/omarsar_new-research-from-amazon-great-paper-showing-activity-7422645738649812993-_rZ9)
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
+* [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
+  * SOUL.md/MEMORY.md/AGENTS.md 템플릿으로 AI 에이전트에 영구 메모리 설정. OpenClaw, n8n, LangChain 등 8개 이상 플랫폼 지원
 * [agent-browser](https://agent-browser.dev/)
   * [Vercel agent-browser 소개: AI 에이전트를 위한 새로운 헤드리스 브라우저 자동화 CLI](https://digitalbourgeois.tistory.com/2840)
     * Rust 기반 CLI, Chrome DevTools Protocol 직접 호출로 AI 에이전트 웹 브라우저 자동화 성능 향상
@@ -899,11 +901,15 @@ Artificial Intelligence
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
   * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
   * [류내원 - Alibaba just handed the AI agent community a... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0hHBbeWKfzHj1b7uV3SV6zrASLx9N1CAmHn5gTXQA8hmCPHgdDdX1H5USsjr2njfSl)
+  * [7.3k 스타 알리바바 OpenSandbox로 AI 코딩 샌드박스 완전 정복](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-73k-%EC%8A%A4%ED%83%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94-OpenSandbox%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
 * [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
   * [류내원 - ByteDance just open-sourced a brain for AI agents: OpenViking | Facebook](https://www.facebook.com/won.wizard/posts/pfbid027DFYveWzg6wzSHtFSQivRVtkiet4Q5Jco8NnSsYVkgJULXi3B5wo9oGo2EtMu9sQl)
   * ByteDance의 AI 에이전트용 오픈소스 컨텍스트 DB. 파일 시스템 패러다임으로 메모리·리소스·스킬을 통합 관리하고, L0/L1/L2 3단계 계층적 컨텍스트 로딩으로 토큰 소비 절감. 디렉토리 재귀 검색과 시맨틱 검색을 결합한 정밀 컨텍스트 획득
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
+* [PaperClip — Open-Source Orchestration Platform for zero-human companies](https://paperclip.ing/)
+  * [paperclip: Open-Source Orchestration Platform](https://github.com/paperclipai/paperclip)
+  * [PaperClip + OpenClaw + OpenCode: The Ultimate Open Source Swarm Intelligence Mission Control - YouTube](https://www.youtube.com/watch?v=iNxNkvZfNHM)
 * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities](https://github.com/dev-whitecrow/philosophy_ai)
   * [Philosophy_AI: Your AI is smart, but does it know you? Don't build just Agents. Build Identities. | Yung J. Choi | 16 comments](https://www.linkedin.com/posts/yungdi_github-dev-whitecrowphilosophyai-your-activity-7421378252973416448-_Qdg)
 * [Pi - There are many coding agents, but this one is mine](https://pi.dev/)
@@ -2777,6 +2783,10 @@ Artificial Intelligence
 * [Shortcut](https://www.tryshortcut.ai/) 실험에서 이 AI는 맥킨지와 골드만삭스 신입 애널리스트들과의 엑셀 작업 대결에서 무려 89.1%의 승률(220:27)을 기록
 * [skywork.ai](https://skywork.ai/)
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
+  * [Skywork Desktop](https://skywork.ai/desktop)
+    * [Introducing Skywork Desktop - YouTube](https://www.youtube.com/watch?v=bDjInScl32c)
+    * [Skywork︱The Originator of AI Workspace Agents | 김덕중](https://www.linkedin.com/posts/duckjungkim_skyworkthe-originator-of-ai-workspace-agents-activity-7428072418298011649-Jk0N)
+    * OS에 직접 통합되는 AI 워크스페이스 에이전트. 폴더 내 파일 검색·분석·보고서 생성, PPT 등 다양한 포맷 출력. 로컬 설치로 데이터 유출 우려 감소
 * [Sonic Pi - The Live Coding Music Synth for Everyone](https://sonic-pi.net/)
   * [Beyond Sonic Pi: Tau5 & the Art of Coding with AI • Sam Aaron • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=RAd5RkuZPb4)
     * [Beyond Sonic Pi: Tau5 and the Art of Coding with AI](https://gotocph.com/2025/sessions/3744/beyond-sonic-pi-tau5-and-the-art-of-coding-with-ai)
@@ -3249,6 +3259,7 @@ Artificial Intelligence
     * macOS에서 Claude Code 멀티 에이전트 구성. tmux 통합 모드, 에이전트 3~5개가 적절(그 이상은 조율 비용 증가). Git 워크트리로 파일 충돌 방지, 2시간 예상 작업을 10분으로 단축한 사례
   * [Claude Code /loop로 반복 작업 자동 예약하는 법](https://fornewchallenge.tistory.com/entry/%E2%8F%B0Claude-Code-loop%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%9E%91%EC%97%85-%EC%9E%90%EB%8F%99-%EC%98%88%EC%95%BD%ED%95%98%EB%8A%94-%EB%B2%95)
   * [Claude Code로 문서 스캔 앱 만들어봤습니다 (이제 정말 코드를 안 봐도 되네요) - YouTube](https://www.youtube.com/watch?v=rJ6Y3p3yflc)
+  * [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개) - YouTube](https://www.youtube.com/watch?v=3lMjX5Gq1zE)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
@@ -3478,6 +3489,9 @@ Artificial Intelligence
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
+* [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
+  * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
+  * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [CocoIndex](https://cocoindex.io/)
@@ -3831,11 +3845,35 @@ Artificial Intelligence
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
   * [OpenClaw 바이브 코딩 베스트 프랙티스 :: ROBOCO](https://roboco.io/posts/openclaw-vibe-coding-best-practices/)
   * [LLM 다음 단계로 OpenClaw가 필연인 이유 - 도커 다음엔 쿠버네티스가 나왔다 - YouTube](https://www.youtube.com/watch?v=X35eq65Rnj0)
+  * [OpenClaw Seoul Builder Meetup 2026. 03 - YouTube](https://www.youtube.com/watch?v=iQ-f_91VdCQ)
+  * [OpenClaw가 바이럴된 지 60일, 모든 빅테크가 움직였습니다 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_openclaw%EA%B0%80-%EB%B0%94%EC%9D%B4%EB%9F%B4%EB%90%9C-%EC%A7%80-60%EC%9D%BC-%EB%AA%A8%EB%93%A0-%EB%B9%85%ED%85%8C%ED%81%AC%EA%B0%80-%EC%9B%80%EC%A7%81%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-openai%EB%8A%94-activity-7438234596950970368-m3NB)
+    * OpenClaw 바이럴 60일 후 빅테크 대응 정리. OpenAI는 창시자 영입, Anthropic은 Vercept 인수, NVIDIA는 NemoClaw 출시. OSWorld 72~75% 벤치마크로 인간 수준 컴퓨터 조작 입증했으나 512개 보안 취약점 노출
+  * [OpenClaw 전사 도입 3일만에 벌써 슬랙에서 하루에 수천 개의 메세지를 | Joongsoo Park](https://www.linkedin.com/posts/fitz-sw_openclaw-%EC%A0%84%EC%82%AC-%EB%8F%84%EC%9E%85-3%EC%9D%BC%EB%A7%8C%EC%97%90-%EB%B2%8C%EC%8D%A8-%EC%8A%AC%EB%9E%99%EC%97%90%EC%84%9C-%ED%95%98%EB%A3%A8%EC%97%90-%EC%88%98%EC%B2%9C-%EA%B0%9C%EC%9D%98-%EB%A9%94%EC%84%B8%EC%A7%80%EB%A5%BC-activity-7438013022733815811-Xj1N)
+    * 전사 도입 3일 만에 Slack에서 하루 수천 메시지 교환. 전문가가 harness·skill 최적화, 구성원은 요구사항 정의와 품질 기준 설정에 집중하는 분업 모델
+  * [Benjamin Jeongwon Ryu - OpenClaw | Facebook](https://www.facebook.com/benjamin.ryu.1/posts/pfbid0z1deWt3vS2qTneakXZ6GXboxCsotMvyLbjXkT41c8mKmFTgYbBzdg3f5WfiX6yD4l)
+  * [당신의 삶을 바꿔줄 클로드봇 실전 워크플로우 - YouTube](https://www.youtube.com/watch?v=dYXHJKnIT_I)
+  * [34 INSANE Use Cases for OpenClaw! - YouTube](https://www.youtube.com/watch?v=TZya5hsVAzg)
+  * [Railway로 OpenClaw 8분만에 세팅하기 (초기세팅 5$, 비용최적화 팁) - YouTube](https://www.youtube.com/watch?v=BjOAZuInuXI)
+  * [OpenClaw, 개발자를 코드 작성자에서 관리자 역할로 전환하는 범용 에이전트](https://digitalbourgeois.tistory.com/2748)
+  * [OpenClaw Stop Losing Context: 8 Techniques](https://codepointer.substack.com/p/openclaw-stop-losing-context-8-techniques)
+  * [OpenClaw AI 8가지 컨텍스트 유지 기법](https://codepointerko.substack.com/p/openclaw-ai-8)
+  * [Installing GPT OSS on Private Server and Serving via API](https://lonehades.github.io/ai%20platform/ai%20agent/openclaw/2026/02/16/installing-gpt-oss-on-private-server-and-serving-via-api/)
+  * [OpenClaw Architecture and Insights](https://navant.github.io/posts/openclaw-architecture-and-insights/)
+    * [OpenClaw Architecture and Insights | Navan Tirupathi](https://www.linkedin.com/posts/navan-tirupathi-3a482817_openclaw-architecture-and-insights-activity-7428978091231887360-w9RJ)
+  * [OpenClaw Deployment Guide](https://almenardian.gumroad.com/l/openclaw-deployment-guide)
+  * [My OpenClaw setup + open source projects | Eric Blue | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1616830196134037/)
+  * [OpenClaw 캐싱 완전 가이드 | thomasjeong](https://slashpage.com/thomasjeong/36nj8v2wq5zqj25ykq9z)
+    * [OpenClaw 캐싱 완전 가이드 | Heerak Jeong](https://www.linkedin.com/posts/heerak-jeong-556b7a79_openclaw-%EC%BA%90%EC%8B%B1-%EC%99%84%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C-thomasjeong%EC%9D%98-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81-activity-7429868462467928064-isO-)
   * [Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)
     * [OpenClaw Community | Alvin Bot | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611128223370901/)
     * 클라우드 기반 OpenClaw 서비스. 자체 서버 없이 Telegram에서 Claude/GPT-4o/Gemini 기반 AI 어시스턴트 사용
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
+  * [ClaudeBot: Claude AI Telegram Bot with OpenClaw integration](https://github.com/Jeffrey0117/ClaudeBot)
+  * [claude-openclaw-bridge: Bridge between Claude Code and OpenClaw for seamless AI agent collaboration](https://github.com/ericblue/claude-openclaw-bridge)
+  * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
+  * [Claw_Cowork: Your Personal AI Workspace, Running Locally](https://github.com/Sompote/Claw_Cowork)
+    * [OpenClaw Community | Claw Cowork | Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1614683536348703/)
   * [ClawEval: OpenClaw Backend Local on GPU](https://github.com/explaindio/ClawEval)
     * [OpenClaw Community | ClawEval | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611344723349251/)
     * 단일 GPU(24GB VRAM)에서 14개 AI 에이전트를 100% 로컬로 실행하는 벤치마크
@@ -3843,15 +3881,24 @@ Artificial Intelligence
     * [clawhost: One-click cloud hosting for OpenClaw AI agents](https://github.com/bfzli/clawhost)
     * [ClawHost로 OpenClaw를 단 1분 만에 VPS에 배포하는 방법과 아키텍처 완전 정리](https://digitalbourgeois.tistory.com/2764)
     * Hetzner/DigitalOcean/Vultr에서 OpenClaw 원클릭 배포. DNS, SSL, 인프라 자동 프로비저닝
+  * ClawHub Skills
+    * [seojoonkim/prompt-guard](https://clawhub.ai/seojoonkim/prompt-guard)
+    * [JimLiuxinghai/find-skills](https://clawhub.ai/JimLiuxinghai/find-skills)
+    * [peterokase42/dont-hack-me](https://clawhub.ai/peterokase42/dont-hack-me)
   * [claw-memory: Shared persistent memory for AI agent instances via Cloudflare Workers + TiDB Cloud](https://github.com/siddontang/claw-memory)
   * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
     * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
   * [ClawWork: OpenClaw as Your AI Coworker - $15K earned in 11 Hours](https://github.com/HKUDS/ClawWork)
     * [ClawWork - OpenClaw 경제 생존 벤치마크 | GeekNews](https://news.hada.io/topic?id=26797)
     * [AI가 8시간 만에 $19000 벌어 - ClawWork 경제 생존 벤치마크](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AI%EA%B0%80-8%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-19000-%EB%B2%8C%EC%96%B4-ClawWork-%EA%B2%BD%EC%A0%9C-%EC%83%9D%EC%A1%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC)
+  * [Entropic — Downloadable OpenClaw Securely Isolated on Your Device](https://entropic.qu.ai/)
+    * 로컬 실행 데스크톱 OpenClaw. macOS/Windows/Linux 지원, 샌드박스 격리, 자체 API 키 사용 가능
+  * [habit-sprint: AI-powered habit tracking and productivity sprint manager for OpenClaw](https://github.com/ericblue/habit-sprint)
+  * [mac-agent-gateway: macOS agent gateway for OpenClaw with native system integration](https://github.com/ericblue/mac-agent-gateway)
   * [MaxClaw: Cloud-Hosted AI Agent by MiniMax](https://maxclaw.ai/)
     * [AI Agents KR | MaxClaw: 10초 만에 상시 온라인 개인 AI 에이전트 구축하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27033655679556841/)
     * [Claude 3.5 수준 성능을 1/10 가격으로: MaxClaw 229억 파라미터 AI 무료 클라우드 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude-35-%EC%88%98%EC%A4%80-%EC%84%B1%EB%8A%A5%EC%9D%84-110-%EA%B0%80%EA%B2%A9%EC%9C%BC%EB%A1%9C-MaxClaw-229%EC%96%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-AI-%EB%AC%B4%EB%A3%8C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [memspan: Persistent memory and context spanning for OpenClaw agents](https://github.com/ericblue/memspan)
   * [MimiClaw — Run OpenClaw on $5 Chips](https://mimiclaw.io/)
     * [mimiclaw: MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw](https://github.com/memovai/mimiclaw)
   * [MiniClaw: Enable Your AI Copilot Act Smart Like OpenClaw. MCP for Claude CoWork, Qoderwork, WorkBuddy, OpenWork etc](https://github.com/8421bit/miniclaw)
@@ -3860,11 +3907,24 @@ Artificial Intelligence
     * [OpenClaw AI Community (Formerly Clawdbot, Moltbot) The AI Agent | I had a moment last week where I maxed out my Claude because of openClaw | Facebook](https://www.facebook.com/groups/marketingngrowth/posts/928139326337488/)
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
+  * [nanoclaw: Lightweight OpenClaw alternative](https://github.com/qwibitai/nanoclaw)
+  * NemoClaw
+    * [Nvidia, 오픈소스 AI 에이전트 플랫폼 'NemoClaw' 출시 예고 – 보안 중심 AI 에이전트의 새 흐름](https://digitalbourgeois.tistory.com/2871)
+    * [NVIDIA NemoClaw Launch | The New Stack](https://thenewstack.io/nvidia-nemoclaw-launch)
+    * NVIDIA의 보안 중심 오픈소스 AI 에이전트 플랫폼. GPU 벤더 무관, Salesforce·Google·Cisco·Adobe·CrowdStrike 파트너. OpenClaw 보안 취약점 사례를 교훈으로 엔터프라이즈 신뢰성 강조. GTC 2026에서 공식 발표
+  * [openclaw: OpenClaw AWS Skill 가이드](https://github.com/kyopark2014/openclaw)
+    * [OpenClaw AWS Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_openclaw-aws-skill-activity-7434525929520971776-KmxA)
+  * [openclaw-api-list: Curated list of APIs for OpenClaw agents](https://github.com/cporter202/openclaw-api-list)
   * [openclaw-memopt: Memory optimization and organizational protocol for AI agents](https://github.com/jason-allen-oneal/openclaw-memopt)
   * [openclaw-skill-scanner: Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation](https://github.com/jason-allen-oneal/openclaw-skill-scanner)
+  * [openclaw-supermemory: SuperMemory integration for OpenClaw agents](https://github.com/supermemoryai/openclaw-supermemory)
   * [OpenClaw-WORKSPACE-GOVERNANCE](https://github.com/Adamchanadam/OpenClaw-WORKSPACE-GOVERNANCE)
   * [opencrabs: The AI terminal-native orchestration layer for software development. Built with Rust](https://github.com/adolfousier/opencrabs)
+  * [orkestra: Multi-agent orchestration framework for OpenClaw](https://github.com/imperativelabs/orkestra)
+  * [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
+    * [Pi: OpenClaw 내부의 미니멀 에이전트 | GeekNews](https://news.hada.io/topic?id=26298)
   * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
+    * [Chinese engineers just made OpenClaw 99% lighter: PicoClaw on $10 Linux Board | Avi Chawla](https://www.linkedin.com/posts/avi-chawla_chinese-engineers-just-made-openclaw-99-ugcPost-7428591155816308736-Cm29)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
     * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
@@ -3876,6 +3936,8 @@ Artificial Intelligence
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
   * [SkyClaw — Rust AI agent runtime | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/posts/1612248343258889/)
+  * [SuperClaw — ClawScan: Free AI Automation Assessment](https://www.superclaw.io/clawscan)
+    * 비즈니스 AI 자동화 기회를 분석하는 무료 평가 도구. 업종별 경쟁 분석, 즉시 적용 가능한 퀵윈, 단계별 구현 로드맵 제공
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
     * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
   * [ZeroClaw Hub | Private Gateway Control Plane](https://zeroclawlabs.ai/)
