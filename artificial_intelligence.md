@@ -699,6 +699,8 @@ Artificial Intelligence
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
 * [Manus Agents Challenge OpenClaw With No-Setup Personal AI Assistants](https://www.trendingtopics.eu/manus-agents-challenge-openclaw-with-no-setup-personal-ai-assistants/)
   * [메신저 안에서 완성하는 개인 AI 에이전트 경쟁: Manus Agents와 OpenClaw의 전략 분석](https://digitalbourgeois.tistory.com/2777)
+* [Half the AI Agent Market Is One Category. The Rest Is Wide Open.](https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open)
+  * [AI 에이전트 시장의 절반은 한 카테고리. 나머지는 활짝 열려 있다 | GeekNews](https://news.hada.io/topic?id=26915)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -3891,6 +3893,8 @@ Artificial Intelligence
     * AgentMail, Here Now, Tavily, FireCrawl, Remotio 등 OpenClaw 에이전트와 함께 매일 사용하는 무료 도구 5선
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
   * [OpenClaw 바이브 코딩 베스트 프랙티스 :: ROBOCO](https://roboco.io/posts/openclaw-vibe-coding-best-practices/)
+  * [개인용 AI 에이전트 구축기: OpenClaw를 활용한 가족 비서 'Stella'와 구글 계정 정지 사건](https://trond.ai/p/clawdbot-was-rad-until-google-killed)
+    * [OpenClaw를 활용한 가족 비서 'Stella'와 구글 계정 정지 사건 | GeekNews](https://news.hada.io/topic?id=26952)
   * [LLM 다음 단계로 OpenClaw가 필연인 이유 - 도커 다음엔 쿠버네티스가 나왔다 - YouTube](https://www.youtube.com/watch?v=X35eq65Rnj0)
   * [OpenClaw Seoul Builder Meetup 2026. 03 - YouTube](https://www.youtube.com/watch?v=iQ-f_91VdCQ)
   * [OpenClaw가 바이럴된 지 60일, 모든 빅테크가 움직였습니다 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_openclaw%EA%B0%80-%EB%B0%94%EC%9D%B4%EB%9F%B4%EB%90%9C-%EC%A7%80-60%EC%9D%BC-%EB%AA%A8%EB%93%A0-%EB%B9%85%ED%85%8C%ED%81%AC%EA%B0%80-%EC%9B%80%EC%A7%81%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-openai%EB%8A%94-activity-7438234596950970368-m3NB)
@@ -3990,6 +3994,8 @@ Artificial Intelligence
     * 비즈니스 AI 자동화 기회를 분석하는 무료 평가 도구. 업종별 경쟁 분석, 즉시 적용 가능한 퀵윈, 단계별 구현 로드맵 제공
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
     * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
+  * [zclaw: Personal AI assistant running on ESP32 with 888KB](https://github.com/tnm/zclaw)
+    * [zclaw - ESP32에서 888KB로 구동되는 개인용 AI 비서 | GeekNews](https://news.hada.io/topic?id=26902)
   * [ZeroClaw Hub | Private Gateway Control Plane](https://zeroclawlabs.ai/)
     * [zeroclaw: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀](https://github.com/zeroclaw-labs/zeroclaw)
     * [🦀 OpenClaw보다 좋을까? 5MB RAM으로 구동되는 ZeroClaw AI 정복하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%80-OpenClaw%EB%B3%B4%EB%8B%A4-%EC%A2%8B%EC%9D%84%EA%B9%8C-5MB-RAM%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-ZeroClaw-AI-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
