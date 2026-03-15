@@ -2002,6 +2002,8 @@ NLP
   * [:BaseKB Gold Ultimate](http://basekb.com/gold/)
   * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
+* [sift-kg: CLI tool that transforms document collections into interactive knowledge graphs](https://github.com/juanceresa/sift-kg)
+  * LLM 기반 엔티티·관계 추출, 3단계 중복 제거(자동 정규화 → LLM 제안 → 사람 검토), 브라우저 시각화. 75+ 파일 포맷, 다국어 지원, 출처 추적
 
 # Language Model LM
 * 언어 모델링은 음성-텍스트, 대화식 시스템, 텍스트 요약과 같은 여러 가지 자연어 처리 작업에 핵심적인 문제
@@ -4280,6 +4282,8 @@ NLP
   * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석](https://kr.linkedin.com/pulse/huggingface-teitext-embeddings-inference-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-sigrid-jin--k3jgc)
     * [HuggingFace TEI(Text Embeddings Inference) 아키텍처 심층 분석 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%88%AB%EC%9E%90-%EB%B2%A1%ED%84%B0%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9E%91%EC%97%85%EC%9D%84-ugcPost-7402511241640091648-nNmU)
 * [torchv-unstructured: TorchV开源的解析代码仓库](https://github.com/torchv/torchv-unstructured)
+* [urstory-rag: 한국어 최적화 프로덕션 RAG 시스템](https://github.com/urstory/urstory-rag)
+  * PGVector + Elasticsearch(Nori) 하이브리드 검색, bge-reranker-v2-m3-ko 한국어 리랭킹, HyDE 합성 문서, PII 마스킹·프롬프트 인젝션 방어. RAGAS 자동 평가 + Langfuse v3 모니터링. 평균 92.0/100점, 96% 성공률
 * [WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm](https://github.com/Tencent/WeKnora)
   * [Tencent 올인원 RAG 프레임워크를 오픈소스로 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-activity-7407555266591932416-7ScG)
     * ReACT 패턴으로 지식베이스 + 웹 검색 + MCP 도구까지 알아서 조합해서 답변하도록 개발
@@ -5490,6 +5494,9 @@ NLP
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
+* [moonshine: Real-time on-device speech recognition](https://github.com/moonshine-ai/moonshine)
+  * [Moonshine - 엣지 디바이스용 고속·고정확도 음성 인식 오픈소스 | GeekNews](https://news.hada.io/topic?id=27103)
+  * Medium 모델 WER 6.65%로 Whisper Large v3(7.44%) 능가. 스트리밍 기반, Python/iOS/Android 지원, 8개 언어 다국어
 * [omnilingual-asr: Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages](https://github.com/facebookresearch/omnilingual-asr)
   * [Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/)
     * [모든 ASR 시스템에서 제공하지 않은 500개의 저커버 언어를 포함하여 1,600여 개의 언어에 대한 ASR 기능을 제공하는 모델 모음인 Meta Omnilingual Automatic Speech Recognition(ASR)을 소개](https://www.facebook.com/reel/1201241428559224)
@@ -5526,6 +5533,10 @@ NLP
     * [Introducing a foundational multimodal model for speech translation](https://ai.meta.com/blog/seamless-m4t/)
     * [Introducing SeamlessM4T, a Multimodal AI Model for Speech and Text Translations | Meta](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [SEPIA Framework](https://sepia-framework.github.io/)
+* [shuo: Open source voice agent framework](https://github.com/NickTikhonov/shuo)
+  * [How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+  * [500ms 이하 지연 시간의 음성 에이전트를 처음부터 구축한 방법 | GeekNews](https://news.hada.io/topic?id=27164)
+  * Deepgram Flux + LLM 스트리밍 + TTS 파이프라이닝으로 ~400ms E2E 지연. 상용 플랫폼(Vapi) 대비 2배 빠름
 * [silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
