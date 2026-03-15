@@ -317,6 +317,8 @@ Programming
 * [Make it work, Make it right, Make it fast](https://thetombomb.com/posts/make-it-work-right-fast) Kent Beck
   * [**일정 예상은 왜 실패할까?**](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html) 호프스테터의 법칙, make it work, right, fast
 * [The Pyramid of Coding Principles. There are a lot of processes that need… | by Muhammad Rahmatullah 🇮🇩 | Medium](https://muhammad-rahmatullah.medium.com/the-pyramid-of-basic-coding-principles-e33b7c3cb316) make it work부터 make it fast까지 사이에 또 다른 방식으로 단계를 두어 설명하는 글
+* [Programming principles for self taught front-end developers - Piccalilli](https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/)
+  * [번역 독학 프런트엔드 개발자들을 위한 프로그래밍 원칙](https://hanameee.github.io/posts/programming_principles)
 * [이 일은 언제 끝나나요?](https://brunch.co.kr/@jinhoyooephf/19) 일정
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
