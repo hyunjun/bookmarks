@@ -818,6 +818,7 @@ Web
 * [Scrapling: 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!](https://github.com/D4Vinci/Scrapling)
   * [Index - Scrapling](https://scrapling.readthedocs.io/)
   * [Scrapling - 현대 웹을 위한 적응형 웹 스크래핑 | GeekNews](https://news.hada.io/topic?id=27352)
+  * [Cloudflare 우회 웹 스크래핑을 무료로 Scrapling MCP Server 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%93-Cloudflare-%EC%9A%B0%ED%9A%8C-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91%EC%9D%84-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Scrapling-MCP-Server-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python](https://github.com/scrapy/scrapy)
   * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
