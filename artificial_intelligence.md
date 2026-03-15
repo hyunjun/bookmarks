@@ -2932,6 +2932,7 @@ Artificial Intelligence
 * [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
 * [Revised You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
   * [로컬 코딩 모델 가이드 | GeekNews](https://news.hada.io/topic?id=25250)
+* [무료 로컬 AI 코딩 에이전트 구축 가이드 Claude Code + Qwen 3.5 완벽 설정법](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C-Claude-Code-Qwen-35-%EC%99%84%EB%B2%BD-%EC%84%A4%EC%A0%95%EB%B2%95)
 * [Handling AI-Generated Code: Challenges & Best Practices • Roman Zhukov & Damian Brady • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=SsiDLh9-TN8)
   * [AI 생성 코드: 과제, 모범 사례 및 개발자 워크플로우에 미치는 영향](https://livewiki.com/ko/content/ai-code-challenges-best-practices)
 * [발표자료 황민호|AI Co-Scientist를 위한 가상 랩 구축 Claude Code](https://aifactory.space/task/9237/discussion/4603)
