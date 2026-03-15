@@ -821,6 +821,7 @@ Artificial Intelligence
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
   * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
     * [Claude Code + Autoresearch = 자기 개선 AI](https://livewiki.com/ko/content/claude-autoresearch-self-improving-ai)
+  * [Andrej Karpathy의 autoresearch 밤새 100개 실험을 자동으로 돌리는 AI 연구 자동화 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Andrej-Karpathy%EC%9D%98-autoresearch-%EB%B0%A4%EC%83%88-100%EA%B0%9C-%EC%8B%A4%ED%97%98%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EB%A6%AC%EB%8A%94-AI-%EC%97%B0%EA%B5%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-1)
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
@@ -862,6 +863,8 @@ Artificial Intelligence
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [Hashbrown: The TypeScript Framework for Generative UI](https://hashbrown.dev/)
   * [Hashbrown is a framework for building agents that run the browser. Built for Angular and React](https://github.com/liveloveapp/hashbrown)
+* [Jarda — Personal AI Assistant](https://asistentbudoucnosti.cz/)
+  * 개인 AI 어시스턴트 1분 배포 서비스. WhatsApp/Telegram 통합, Claude Opus/GPT 지원, 전용 서버 기반, 200 Kč/월(~$8)
 * [kaida-shield: The secure runtime for AI agents. Run anything. Break nothing.](https://github.com/ajpandit775/kaida-shield)
   * AI 에이전트를 위한 보안 런타임. 샌드박스 환경에서 안전하게 실행
 * [LatentMAS: Latent Collaboration in Multi-Agent Systems](https://github.com/gen-verse/latentmas)
@@ -3301,6 +3304,7 @@ Artificial Intelligence
   * [Claude Code로 1시간 만에 책 한 권을 만들기 | Facebook](https://www.facebook.com/reel/2074282333352953)
     * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
   * [Harness Engineering: How to Supervise AI Agents](https://decision.substack.com/p/harness-engineering-how-to-supervise)
+  * [잠자는 동안 코드를 작성하는 AI 에이전트, 수용 기준 기반 자동 검증 파이프라인](https://digitalbourgeois.tistory.com/2873)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
