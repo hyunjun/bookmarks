@@ -212,6 +212,8 @@ Product
 * [개발자 키보드 추천 종결합니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3079/) 스플릿 키보드
 * [분리형 키보드 매니아의 추천 키보드 - YouTube](https://www.youtube.com/watch?v=l6asbVWZqCo) 에포메이커 P75, NocFree Lite 무선 스플릿 키보드, UHK 키보드, 필코 분리형 키보드
 * [내 경력을 구한 키보드 - YouTube](https://www.youtube.com/watch?v=BpDYrkHiNLc) ergonomic
+* [A Beginner's Guide to Split Keyboards](https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
+  * [분리형 키보드 초보자 가이드 | GeekNews](https://news.hada.io/topic?id=26853)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
   * [집에서 석유가 솟으면 사고 싶은 키보드. 앵그리 미아오 AM AFA R2 - YouTube](https://www.youtube.com/watch?v=UrHt3nJxriI)
