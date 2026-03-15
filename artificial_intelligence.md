@@ -737,6 +737,8 @@ Artificial Intelligence
   * [“에이전틱 AI에서 ‘적응(Adaptation)’이란 무엇이며, 어디를 어떻게 적응시켜야 하는가?” 를 체계적으로 정리하려 시도한 논문](https://www.facebook.com/1biit/posts/pfbid02u6eztGKnNTKK5mkABHd3wojmxzNJBHvgsdeReznZz649Ekfs3MfyKmktUodWfJWml)
 * [2601.20048 Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
   * [Amazon Research: Lightweight Multi-Agent System for Business Data Analysis | Elvis S. posted on the topic | LinkedIn](https://www.linkedin.com/posts/omarsar_new-research-from-amazon-great-paper-showing-activity-7422645738649812993-_rZ9)
+* [2603.10165 OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)
+  * 대화형 피드백으로 에이전트 강화학습. PRM 판단기로 평가 신호→보상 변환, Hindsight-Guided On-Policy Distillation으로 지시 신호 복원. 비동기 아키텍처로 서빙·평가·업데이트 동시 수행
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
   * SOUL.md/MEMORY.md/AGENTS.md 템플릿으로 AI 에이전트에 영구 메모리 설정. OpenClaw, n8n, LangChain 등 8개 이상 플랫폼 지원
@@ -819,6 +821,9 @@ Artificial Intelligence
     * 에이전트의 다단계 작업 흐름(multi-step workflows) 관리, REST API·Python SDK 등을 통해 programmatic하게 샌드박스 제어
 * [AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
   * [AutoAgent: A Zero-Code LLM Agent Framework | Sumanth P님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sumanth077_build-and-deploy-llm-agents-just-using-natural-activity-7370726161796034561-4N0b)
+* [autokernel: Autonomous research system for GPU kernel optimization](https://github.com/RightNow-AI/autokernel)
+  * [AutoKernel: GPU 커널 최적화를 자동화하는 연구 시스템의 구조와 의미](https://digitalbourgeois.tistory.com/2876)
+  * AI 에이전트가 Triton/CUDA C++ 커널을 자동 프로파일링→최적화→검증. Amdahl's law 기반 우선순위, 9종 커널 타입, GPT-2/LLaMA/BERT 내장
 * [autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
   * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
@@ -1105,6 +1110,9 @@ Artificial Intelligence
 * context rot
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
   * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
+* [deepagents: Open-source agent framework built on LangChain and LangGraph](https://github.com/langchain-ai/deepagents)
+  * [Deep Agents | LangChain Docs](https://docs.langchain.com/oss/python/deepagents)
+  * Claude Code에서 영감받은 오픈소스 에이전트 하네스. 계획·파일시스템·셸·서브에이전트·컨텍스트 자동 요약 내장. 모든 tool-calling LLM 지원
 * [fenic: Declarative context engineering for agents](https://github.com/typedef-ai/fenic)
   * [What is fenic? - fenic, by typedef](https://docs.fenic.ai/)
 
@@ -2921,6 +2929,8 @@ Artificial Intelligence
 * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
+* [병렬 에이전트 코딩, 이렇게 세팅합니다](https://maily.so/effy/posts/8mo54q84z9p)
+  * Ghostty + tmux + OpenCode + lazygit + Git Worktree 기반 병렬 에이전트 코딩 환경. 에이전트는 코드 생성, 사람은 diff 리뷰. 워크트리로 세션 격리하여 진정한 병렬 개발
 * [Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion - YouTube](https://www.youtube.com/watch?v=CrE2cpW4CGQ)
   * [AI 지원 개발: 시스템, 관계, 그리고 대응 | Jessica Kerr & Diana Montalion](https://livewiki.com/ko/content/ai-assisted-development)
 * [Joe Magerramov's blog: The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
@@ -3304,6 +3314,7 @@ Artificial Intelligence
   * [Claude Code /loop로 반복 작업 자동 예약하는 법](https://fornewchallenge.tistory.com/entry/%E2%8F%B0Claude-Code-loop%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%9E%91%EC%97%85-%EC%9E%90%EB%8F%99-%EC%98%88%EC%95%BD%ED%95%98%EB%8A%94-%EB%B2%95)
   * [Claude Code로 문서 스캔 앱 만들어봤습니다 (이제 정말 코드를 안 봐도 되네요) - YouTube](https://www.youtube.com/watch?v=rJ6Y3p3yflc)
   * [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개) - YouTube](https://www.youtube.com/watch?v=3lMjX5Gq1zE)
+  * [Claude Code Agent Teams: One AI Isn't Enough Anymore | 조대협](https://medium.com/@terrycho/claude-code-agent-teams-one-ai-isnt-enough-anymore-7022f70076a6)
   * [Claude Code로 1시간 만에 책 한 권을 만들기 | Facebook](https://www.facebook.com/reel/2074282333352953)
     * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
   * [Harness Engineering: How to Supervise AI Agents](https://decision.substack.com/p/harness-engineering-how-to-supervise)
@@ -3463,6 +3474,8 @@ Artificial Intelligence
     * [⚠️ 어제 공개된 클로드 전문가의 클로드 코드 완전판 세팅, 저도 다 바꿨습니다 앤트로픽 해커톤 우승자가 어제 공개한 클로드 코드 세팅 가이드 보자마자 바로 적용했어요. 하루 종일 매달렸는데 진짜 달라지더라고요. 10개월간 매일 클로드 코드 쓴 affaan(@affaanmustafa)의 완전판 세팅인데, 읽는 순간 "내가 지금까지 뭘 한 거지?"… | Jeongmin Lee | 10 comments](https://www.linkedin.com/posts/jyoung105_%EC%96%B4%EC%A0%9C-%EA%B3%B5%EA%B0%9C%EB%90%9C-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%99%84%EC%A0%84%ED%8C%90-%EC%84%B8%ED%8C%85-%EC%A0%80%EB%8F%84-%EB%8B%A4-%EB%B0%94%EA%BF%A8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7419142685543882752-KXud)
     * [Everything Claude Code - 해커톤 우승자의 AI 개발 팀 레시피 :: ROBOCO](https://roboco.io/posts/everything-claude-code-distilled/)
     * [Everything Claude Code vs Oh My ClaudeCode - 팀/기업 도입 관점 비교 :: ROBOCO](https://roboco.io/posts/everything-claude-code-vs-oh-my-claude-code/)
+  * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
+    * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
   * [excalidraw-diagram-skill: Claude Code skill for building diagrams with Excalidraw](https://github.com/coleam00/excalidraw-diagram-skill)
     * [Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) - YouTube](https://www.youtube.com/watch?v=m3fqyXZ4k4I)
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
@@ -3514,6 +3527,10 @@ Artificial Intelligence
       * Claude Code 기반의 자율 반복 루프 도구
       * AI가 한 번에 완벽한 결과를 내길 기대하기보다, 실패를 전제로 성공할 때까지 스스로 테스트와 수정을 반복하도록 설계
       * 개발자가 잠든 사이에도 작업을 완수하는 '야간 작업자'로서의 면모를 보이며 AI 코딩을 단순 보조에서 자율 실행 주체로 격상
+    * [Stop Using The Ralph Loop Plugin - YouTube](https://www.youtube.com/watch?v=yAE3ONleUas)
+      * [Stop Using The Ralph Loop Plugin](https://livewiki.com/ko/content/stop-using-ralph-loop-plugin)
+      * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
+      * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
@@ -3539,6 +3556,9 @@ Artificial Intelligence
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
+  * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
+    * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
+    * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
   * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
