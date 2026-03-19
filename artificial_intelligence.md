@@ -1722,6 +1722,8 @@ Artificial Intelligence
   * [MCP Servers](https://mcp.so/)
   * [MCPSpy: MCP Monitoring with eBPF](https://github.com/alex-ilgayev/MCPSpy)
     * [Vibecoded a terminal UI for MCPSpy with Claude Code | Alex Ilgayev posted on the topic | LinkedIn](https://www.linkedin.com/posts/ilgayev_ai-claudecode-claude-activity-7397323166660042752-YjPD)
+  * [mcp-tool-forge: MCP 서버 도구를 boto3/AWS CLI/OpenAPI/AgentCore/Skills로 변환하는 CLI](https://github.com/whchoi98/mcp-tool-forge)
+    * MCP 도구 정의를 네이티브 코드로 변환하여 토큰 약 62% 절감. IAM·CloudWatch·비용분석·EKS·Bedrock 등 9개 AWS 스킬 내장
   * [mcp-voice-agent at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/mcp-voice-agent)
   * [mindsdb: Federated query engine for AI - The only MCP Server you'll ever need](https://github.com/mindsdb/mindsdb)
   * [notion-mcp-server: Official Notion MCP Server](https://github.com/makenotion/notion-mcp-server#readme)
@@ -3363,6 +3365,8 @@ Artificial Intelligence
       * 이 가이드북은 Claude와의 코딩 협업에 관한 핵심 철학(유연성, 투명성, 협업, 맥락 이해)부터 기본 사용법, 프로젝트 맞춤 설정까지 단계별로 설명
       * 특히 CLAUDE.md를 통한 프로젝트 컨텍스트 제공 방법, 효율적인 개발 워크플로우, AI 증강 코드 리뷰와 페어 프로그래밍 방법론을 소개
       * 다양한 조직과 팀에서의 실제 활용 사례와 성과 측정 방법을 통해 Claude를 개발 과정에 성공적으로 통합하는 방법 제시
+  * [claude-code-otel-gcp: Claude Code 텔레메트리를 GCP에서 수집·모니터링](https://github.com/jinseo-jang/claude-code-otel-gcp)
+    * Cloud Run에 OTel Collector 배포, Cloud Monitoring + Cloud Logging으로 토큰 사용량·비용·세션·생산성 지표 추적. Terraform IaC, Grafana 대시보드 포함
   * [claude-code-starter: Claude Code 프로젝트 시작을 위한 CLAUDE.md, 스킬, 커맨드 템플릿](https://github.com/revfactory/claude-code-starter)
   * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
