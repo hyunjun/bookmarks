@@ -462,6 +462,7 @@ Artificial Intelligence
   * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
 * [에이전트 시대 우리가 설계해야 할 것은 모델이 아니라 시스템이다 | Seowoo Han](https://www.linkedin.com/pulse/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%80-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%8B%A4-seowoo-han-bzxzc)
 * [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
+* [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
 
@@ -738,6 +739,8 @@ Artificial Intelligence
 * [2601.20048 Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
   * [Amazon Research: Lightweight Multi-Agent System for Business Data Analysis | Elvis S. posted on the topic | LinkedIn](https://www.linkedin.com/posts/omarsar_new-research-from-amazon-great-paper-showing-activity-7422645738649812993-_rZ9)
 * [2603.10165 OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)
+  * [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
+  * [OpenClaw-RL: 대화만으로 개인화 AI 에이전트를 학습하는 비동기 강화학습 프레임워크](https://digitalbourgeois.tistory.com/2884)
   * 대화형 피드백으로 에이전트 강화학습. PRM 판단기로 평가 신호→보상 변환, Hindsight-Guided On-Policy Distillation으로 지시 신호 복원. 비동기 아키텍처로 서빙·평가·업데이트 동시 수행
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
@@ -1010,6 +1013,7 @@ Artificial Intelligence
   * [AI 시대, 빠르게 배우는 법: 이론과 실습을 통한 에이전트 개발 (PyData Tel Aviv 2025)](https://livewiki.com/ko/content/learning-ai-era)
 
 # Context Engineering
+* [사내 AI 세션 발표 자료: Google AI Agents Guide + OpenAI GPT-5 Prompting + Anthropic Context Engineering | 정희영](https://www.linkedin.com/posts/%ED%9D%AC%EC%98%81-%EC%A0%95-9b13311ba_%EC%82%AC%EB%82%B4-ai-%EC%84%B8%EC%85%98%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%96%88%EB%8D%98-%EC%9E%90%EB%A3%8C%EB%A5%BC-%EA%B3%B5%EC%9C%A0%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-%ED%98%84-ai-3%EB%8C%80%EC%9E%A5-ugcPost-7439896718839783424-L1T3)
 * [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
 * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 컨텍스트 엔지니어링 101 – AI 코딩을 100배 향상시키는 간단한 전략](http://www.umlcert.com/0718-04/)
@@ -3353,6 +3357,7 @@ Artificial Intelligence
     * [Minho Hwang - Claude Code의 잠재력을 최대로 끌어올리는 비결 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0BnX8K2upZagm8BKbtZAsfVaA3q2UXbkZaQKBQCrCD5kxtTHC956uaCMxsL3XmuFyl)
     * CLAUDE.md(아키텍처 청사진), Skills(도메인 지식), Agents(역할 분해), Commands(워크플로우 조율) 4가지 지침으로 기준선 대비 평균 점수 49.5→79.3(약 60% 개선). 특히 테스트 커버리지, 아키텍처 설계, 오류 처리에서 큰 향상
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
+  * [코딩 몰라도 됩니다 — 클로드 코드 설치부터 기본 세팅까지 | EP.01 - YouTube](https://www.youtube.com/watch?v=ZY9RNQghsf0)
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
     * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
@@ -3935,6 +3940,12 @@ Artificial Intelligence
   * [OpenClaw, 개발자를 코드 작성자에서 관리자 역할로 전환하는 범용 에이전트](https://digitalbourgeois.tistory.com/2748)
   * [OpenClaw Stop Losing Context: 8 Techniques](https://codepointer.substack.com/p/openclaw-stop-losing-context-8-techniques)
   * [OpenClaw AI 8가지 컨텍스트 유지 기법](https://codepointerko.substack.com/p/openclaw-ai-8)
+  * [OpenClaw Ollama Tutorial: Local AI Agent](https://www.adwaitx.com/openclaw-ollama-tutorial-local-ai-agent/)
+  * [Advanced Local AI: Building Digital Employees with Ollama + OpenClaw](https://dev.to/baboon/advanced-local-ai-building-digital-employees-with-ollama-openclaw-2fn2)
+  * [Docker로 Ollama+OpenClaw 격리 컨테이너 만들기](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-Docker%EB%A1%9C-OllamaOpenClaw-%EA%B2%A9%EB%A6%AC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  * [안전한 OpenClaw를 만들었습니다: AI 비서실장 조직 구조 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EC%95%88%EC%A0%84%ED%95%9C-openclaw%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%96%B4%EC%A0%9C-ai-%EB%B9%84%EC%84%9C%EC%8B%A4%EC%9E%A5-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0%EB%A5%BC-ugcPost-7438921519331917824-ETQp)
+  * [AI Agent가 돈을 쓰기 시작했다. 그리고 그 돈은 스테이블코인이다 | simpsonsim](https://www.linkedin.com/posts/simpsonsim_ai-agent%EA%B0%80-%EB%8F%88%EC%9D%84-%EC%93%B0%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EB%8F%88%EC%9D%80-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8%EC%9D%B4%EB%8B%A4-activity-7439103668412456960-i8Hf)
+  * [OpenClaw 스킬 생태계 한눈에 보기 - 커뮤니티가 만든 5,490개 AI 스킬](https://digitalbourgeois.tistory.com/2878)
   * [Installing GPT OSS on Private Server and Serving via API](https://lonehades.github.io/ai%20platform/ai%20agent/openclaw/2026/02/16/installing-gpt-oss-on-private-server-and-serving-via-api/)
   * [OpenClaw Architecture and Insights](https://navant.github.io/posts/openclaw-architecture-and-insights/)
     * [OpenClaw Architecture and Insights | Navan Tirupathi](https://www.linkedin.com/posts/navan-tirupathi-3a482817_openclaw-architecture-and-insights-activity-7428978091231887360-w9RJ)
@@ -3942,14 +3953,19 @@ Artificial Intelligence
   * [My OpenClaw setup + open source projects | Eric Blue | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1616830196134037/)
   * [OpenClaw 캐싱 완전 가이드 | thomasjeong](https://slashpage.com/thomasjeong/36nj8v2wq5zqj25ykq9z)
     * [OpenClaw 캐싱 완전 가이드 | Heerak Jeong](https://www.linkedin.com/posts/heerak-jeong-556b7a79_openclaw-%EC%BA%90%EC%8B%B1-%EC%99%84%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C-thomasjeong%EC%9D%98-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81-activity-7429868462467928064-isO-)
-  * [Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)
+  * ~~[Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)~~
     * [OpenClaw Community | Alvin Bot | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611128223370901/)
     * 클라우드 기반 OpenClaw 서비스. 자체 서버 없이 Telegram에서 Claude/GPT-4o/Gemini 기반 AI 어시스턴트 사용
+  * [Apex — Your Digital Twin](https://apex.host/)
+    * 자율 AI 에이전트 플랫폼. 이메일·캘린더·콘텐츠·비즈니스 모니터링을 24/7 자동화. 셀프 호스팅, Slack/WhatsApp 통합
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
   * [ClaudeBot: Claude AI Telegram Bot with OpenClaw integration](https://github.com/Jeffrey0117/ClaudeBot)
   * [claude-openclaw-bridge: Bridge between Claude Code and OpenClaw for seamless AI agent collaboration](https://github.com/ericblue/claude-openclaw-bridge)
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
+  * [ContextGraph: Visual knowledge graph for OpenClaw agent context](https://github.com/AllenMaxi/ContextGraph)
+  * [Crew — Your Personal AI Agent](https://crew.you/)
+    * OpenClaw 상용 버전. 50+ 도구, 7+ 메신저 연결, Gmail·Calendar·Slack·Discord 통합 관리형 AI 에이전트 서비스
   * [Claw_Cowork: Your Personal AI Workspace, Running Locally](https://github.com/Sompote/Claw_Cowork)
     * [OpenClaw Community | Claw Cowork | Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1614683536348703/)
   * [ClawEval: OpenClaw Backend Local on GPU](https://github.com/explaindio/ClawEval)
@@ -3986,9 +4002,12 @@ Artificial Intelligence
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
   * [nanoclaw: Lightweight OpenClaw alternative](https://github.com/qwibitai/nanoclaw)
+    * [nanoclaw 사용기 - OpenClaw Meetup Seoul | Jeffrey Dongkyu](https://www.linkedin.com/posts/jeffrey-dongkyu_nanoclaw-%EC%82%AC%EC%9A%A9%EA%B8%B0-openclaw-meetup-seoul-ugcPost-7439334034800832514-awEj)
   * NemoClaw
     * [Nvidia, 오픈소스 AI 에이전트 플랫폼 'NemoClaw' 출시 예고 – 보안 중심 AI 에이전트의 새 흐름](https://digitalbourgeois.tistory.com/2871)
     * [NVIDIA NemoClaw Launch | The New Stack](https://thenewstack.io/nvidia-nemoclaw-launch)
+    * [NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community - YouTube](https://www.youtube.com/watch?v=kRmZ5zmMS2o)
+      * [NVIDIA Jenson Hwang, NemoClaw과 OpenClaw](https://livewiki.com/ko/content/nvidia-jenson-hwang-nemoclaw-openclaw)
     * NVIDIA의 보안 중심 오픈소스 AI 에이전트 플랫폼. GPU 벤더 무관, Salesforce·Google·Cisco·Adobe·CrowdStrike 파트너. OpenClaw 보안 취약점 사례를 교훈으로 엔터프라이즈 신뢰성 강조. GTC 2026에서 공식 발표
   * [openclaw: OpenClaw AWS Skill 가이드](https://github.com/kyopark2014/openclaw)
     * [OpenClaw AWS Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_openclaw-aws-skill-activity-7434525929520971776-KmxA)
@@ -4019,6 +4038,9 @@ Artificial Intelligence
     * Rust 기반 초경량 자율 AI 에이전트 런타임. 9MB 바이너리, 15MB RAM, 31ms 콜드 스타트. 자가 치유·크래시 복구로 수주간 무인 운영. Blueprint 기반 프로시저럴 메모리로 반복 작업 학습
   * [SuperClaw — ClawScan: Free AI Automation Assessment](https://www.superclaw.io/clawscan)
     * 비즈니스 AI 자동화 기회를 분석하는 무료 평가 도구. 업종별 경쟁 분석, 즉시 적용 가능한 퀵윈, 단계별 구현 로드맵 제공
+  * [SwarmClaw — Self-Hosted AI Agent Runtime](https://www.swarmclaw.ai/)
+    * [swarmclaw: Multi-agent swarm orchestration for OpenClaw](https://github.com/swarmclawai/swarmclaw)
+    * SuperClaw와 유사
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
     * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
   * [zclaw: Personal AI assistant running on ESP32 with 888KB](https://github.com/tnm/zclaw)
