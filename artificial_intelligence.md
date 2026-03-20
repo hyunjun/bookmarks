@@ -831,8 +831,10 @@ Artificial Intelligence
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
   * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
     * [Claude Code + Autoresearch = 자기 개선 AI](https://livewiki.com/ko/content/claude-autoresearch-self-improving-ai)
+  * [autoresearch: AI가 program.md를 읽고 밤새 train.py를 바꾸는 연구실](https://medium.com/@aristojeff/autoresearch-ai%EA%B0%80-program-md%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EB%B0%A4%EC%83%88-train-py%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%97%B0%EA%B5%AC%EC%8B%A4-ef0b5501e03d)
   * [Andrej Karpathy의 autoresearch 밤새 100개 실험을 자동으로 돌리는 AI 연구 자동화 도구](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Andrej-Karpathy%EC%9D%98-autoresearch-%EB%B0%A4%EC%83%88-100%EA%B0%9C-%EC%8B%A4%ED%97%98%EC%9D%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EB%A6%AC%EB%8A%94-AI-%EC%97%B0%EA%B5%AC-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-1)
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
+  * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
@@ -873,6 +875,8 @@ Artificial Intelligence
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
 * [Hashbrown: The TypeScript Framework for Generative UI](https://hashbrown.dev/)
   * [Hashbrown is a framework for building agents that run the browser. Built for Angular and React](https://github.com/liveloveapp/hashbrown)
+* [Hermes Agent — An Agent That Grows With You](https://hermes-agent.nousresearch.com/)
+  * Nous Research의 자율 AI 에이전트. 서버 상주·영구 메모리·자동 스킬 생성. Telegram/Discord/Slack/WhatsApp 멀티채널, Docker/SSH 샌드박스 실행. MIT 오픈소스
 * [Jarda — Personal AI Assistant](https://asistentbudoucnosti.cz/)
   * 개인 AI 어시스턴트 1분 배포 서비스. WhatsApp/Telegram 통합, Claude Opus/GPT 지원, 전용 서버 기반, 200 Kč/월(~$8)
 * [kaida-shield: The secure runtime for AI agents. Run anything. Break nothing.](https://github.com/ajpandit775/kaida-shield)
@@ -2536,6 +2540,7 @@ Artificial Intelligence
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
+* [IronClaw - Your Personal AI Assistant, Hosted](https://ironclaw.co/)
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
@@ -2815,6 +2820,7 @@ Artificial Intelligence
   * [LLM이 정확히 내가 원하는 대로만 동작하게 #금융 #의료 #법률 #오픈소스 #parlant | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_qyossl-sturzo-rsvrcg-activity-7379292787067904000-IqeE)
 * [pm-skills: PM Skills Marketplace — 100+ agentic skills, commands, and plugins for product managers](https://github.com/phuryn/pm-skills)
   * [pm-skills | GeekNews](https://news.hada.io/topic?id=27327)
+  * [PM 분들 바이브코딩 시대에 이거 하나 설치해두면 됩니다 | Sungjae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_pm-%EB%B6%84%EB%93%A4-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9D%B4%EA%B1%B0-%ED%95%98%EB%82%98-%EC%84%A4%EC%B9%98%ED%95%B4%EB%91%90%EB%A9%B4-%EB%90%A9%EB%8B%88%EB%8B%A4-github-activity-7438766833035284481-vTTL)
 * [Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents](https://github.com/deanpeters/Product-Manager-Skills)
   * PRD 작성, 사용자 스토리, 경쟁 분석, 로드맵 등 프로덕트 매니지먼트 워크플로우를 AI 코딩 에이전트용 스킬로 체계화
 * [PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
@@ -2842,6 +2848,9 @@ Artificial Intelligence
   * [🤖 Serena: 무료 오픈소스 코딩 에이전트 툴킷 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Serena-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%88%B4%ED%82%B7-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Shots - Create Amazing Mockups](https://shots.so/)
 * [Shortcut](https://www.tryshortcut.ai/) 실험에서 이 AI는 맥킨지와 골드만삭스 신입 애널리스트들과의 엑셀 작업 대결에서 무려 89.1%의 승률(220:27)을 기록
+* [SiteAgent — AI 웹 어시스턴트 by Ginigen AI](https://siteagent.ginigen.ai/)
+  * [AI가 내 브라우저 안에 들어왔다: 보고 읽고 생각하고 스스로 클릭하는 AI 에이전트](https://arxivgpt.medium.com/ai%EA%B0%80-%EB%82%B4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%95%88%EC%97%90-%EB%93%A4%EC%96%B4%EC%99%94%EB%8B%A4-%EB%B3%B4%EA%B3%A0-%EC%9D%BD%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%81%B4%EB%A6%AD%ED%95%98%EB%8A%94-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-1b1f465f9e6f)
+  * Chrome/Edge 확장 기반 16개 AI 도구 통합 패널. MARL 5단계 메타인지 추론, 한국어 최적화, 무료
 * [skywork.ai](https://skywork.ai/)
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
   * [Skywork Desktop](https://skywork.ai/desktop)
@@ -3261,6 +3270,8 @@ Artificial Intelligence
     * [이제 AI가 AI를 관리한다? Claude의 역대급 업데이트 'Agent Swarm' 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Wq8w4jz6Kz8)
     * [클로드 코워크 누구나 쉽게 13분만 따라하세요 | 설치법, AI 비서, 업무 자동화 - YouTube](https://www.youtube.com/watch?v=rX8H8e5QZuk)
     * [Claude Cowork Dispatch 기능 정리: 모바일에서 데스크톱 Claude를 원격으로 작업시키는 방법과 한계](https://digitalbourgeois.tistory.com/2896)
+  * [4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! - YouTube](https://www.youtube.com/watch?v=uub34E4DwZI)
+    * [클로드 채널 업데이트: 어떤 서비스든 클로드 코드에 연동](https://livewiki.com/ko/content/claude-channel-update-service-integration)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
@@ -3344,6 +3355,8 @@ Artificial Intelligence
     * Claude Code 자율 실행 세션에 Discord 브릿지 연결. 작업 중 대화 가능, 중단 시 알림 수신
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+  * [awesome-claude-code-security: Security resources, hardening tools, and governance frameworks for Claude Code](https://github.com/efij/awesome-claude-code-security)
+    * [awesome-claude-code-security | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijawesome-claude-code-security-activity-7437977413059272704-iust)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
@@ -3555,6 +3568,7 @@ Artificial Intelligence
     * [Stop Using The Ralph Loop Plugin - YouTube](https://www.youtube.com/watch?v=yAE3ONleUas)
       * [Stop Using The Ralph Loop Plugin](https://livewiki.com/ko/content/stop-using-ralph-loop-plugin)
       * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
+      * [Stop Using The Ralph Loop Plugin | tobyilee](https://www.linkedin.com/posts/tobyilee_stop-using-the-ralph-loop-plugin-activity-7438021804327145473-lBLZ)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
     * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
     * [ralph: The Original RALF Loop Implementation](https://github.com/snarktank/ralph)
@@ -3937,6 +3951,8 @@ Artificial Intelligence
   * [Get started with OpenClaw on Lightsail - Amazon Lightsail](https://docs.aws.amazon.com/lightsail/latest/userguide/amazon-lightsail-quick-start-guide-openclaw.html)
   * [오픈클로(OpenClaw) 설치, 서버 없이 구글에서 30분 만에 끝내기! (설치·연동·운영 총정리) - YouTube](https://www.youtube.com/watch?v=_5R0ahdT0ew)
     * [OpenClaw 설치 구글 서버리스로 30분 만에 끝내기](https://livewiki.com/ko/content/openclaw-install-google-serverless)
+  * [맥미니 구매하지 않고 완전 초보도 1클릭으로 OpenClaw 설치 하는법 - YouTube](https://www.youtube.com/watch?v=tDnxBO-pmZI)
+    * [OpenClaw 맥미니 없이 1클릭 설치](https://livewiki.com/ko/content/openclaw-mac-mini-install)
   * [OpenClaw Ollama Qwen 3.5-0.8B 연동 No API key 오류 해결 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%A8-OpenClaw-Ollama-Qwen-35-08B-%EC%97%B0%EB%8F%99-No-API-key-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
   * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
@@ -4025,6 +4041,8 @@ Artificial Intelligence
     * [이길환 - ‘NadirClaw’ 등장… AI 비용 절감 위한 스마트 라우팅 시대 열리나 최근 개인용 AI 에이전트... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02aes98LGzBrcAznTKmJLpHA2MMkdiTzzAseDUfRJ5it98P6FzQVVBVWGF3eRz2acBl)
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
   * [nanoclaw: Lightweight OpenClaw alternative](https://github.com/qwibitai/nanoclaw)
+    * [NanoClaw Docker Sandboxes](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+      * [Docker 샌드박스에서 실행되는 NanoClaw의 보안 중심 AI 에이전트 아키텍처 이해하기](https://digitalbourgeois.tistory.com/2881)
     * [nanoclaw 사용기 - OpenClaw Meetup Seoul | Jeffrey Dongkyu](https://www.linkedin.com/posts/jeffrey-dongkyu_nanoclaw-%EC%82%AC%EC%9A%A9%EA%B8%B0-openclaw-meetup-seoul-ugcPost-7439334034800832514-awEj)
   * [NemoClaw: NVIDIA open-source AI agent security stack](https://github.com/NVIDIA/NemoClaw)
     * [Nvidia, 오픈소스 AI 에이전트 플랫폼 'NemoClaw' 출시 예고 – 보안 중심 AI 에이전트의 새 흐름](https://digitalbourgeois.tistory.com/2871)
