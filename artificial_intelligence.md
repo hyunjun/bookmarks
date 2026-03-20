@@ -924,6 +924,7 @@ Artificial Intelligence
   * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * Rust 기반 오픈소스 에이전트 OS. 32MB 단일 바이너리로 7개 자율 Hands(영상 편집, 리드 발굴, OSINT, 예측, 리서치, 트위터, 브라우저), 40개 메시징 어댑터, 27개 LLM 프로바이더, 16개 보안 레이어(WASM 샌드박스, Ed25519 서명, Merkle 감사 추적) 제공
 * [OpenJarvis: Opinionated framework for local-first personal AI](https://github.com/open-jarvis/OpenJarvis)
+  * [로컬 퍼스트 개인 AI를 위한 프레임워크, OpenJarvis 완전 정리](https://digitalbourgeois.tistory.com/2885)
   * Stanford Hazy Research. 온디바이스 AI 에이전트 프레임워크, 에너지·지연 시간을 1차 제약 조건으로 평가, 로컬 트레이스 데이터 학습 루프
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
@@ -3259,6 +3260,7 @@ Artificial Intelligence
     * [Cowork, a research preview | Claude](https://claude.com/resources/tutorials/claude-cowork-a-research-preview)
     * [이제 AI가 AI를 관리한다? Claude의 역대급 업데이트 'Agent Swarm' 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Wq8w4jz6Kz8)
     * [클로드 코워크 누구나 쉽게 13분만 따라하세요 | 설치법, AI 비서, 업무 자동화 - YouTube](https://www.youtube.com/watch?v=rX8H8e5QZuk)
+    * [Claude Cowork Dispatch 기능 정리: 모바일에서 데스크톱 Claude를 원격으로 작업시키는 방법과 한계](https://digitalbourgeois.tistory.com/2896)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
@@ -3332,6 +3334,10 @@ Artificial Intelligence
     * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
   * [Harness Engineering: How to Supervise AI Agents](https://decision.substack.com/p/harness-engineering-how-to-supervise)
   * [잠자는 동안 코드를 작성하는 AI 에이전트, 수용 기준 기반 자동 검증 파이프라인](https://digitalbourgeois.tistory.com/2873)
+  * [코딩 몰라도 됩니다 — 클로드 코드 설치부터 기본 세팅까지 | EP.01 - YouTube](https://www.youtube.com/watch?v=ZY9RNQghsf0)
+  * [Claude Code 스킬을 직접 고치지 마세요. Autoresearch가 대신 해줍니다 - YouTube](https://www.youtube.com/watch?v=7MaUhmZijak)
+  * [Claude Code 10가지 꿀팁 — Anthropic 해커톤 우승자가 다 알려줬습니다 - YouTube](https://www.youtube.com/watch?v=QhZJyg47JW0)
+  * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
@@ -3364,10 +3370,6 @@ Artificial Intelligence
     * [Minho Hwang - Claude Code의 잠재력을 최대로 끌어올리는 비결 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0BnX8K2upZagm8BKbtZAsfVaA3q2UXbkZaQKBQCrCD5kxtTHC956uaCMxsL3XmuFyl)
     * CLAUDE.md(아키텍처 청사진), Skills(도메인 지식), Agents(역할 분해), Commands(워크플로우 조율) 4가지 지침으로 기준선 대비 평균 점수 49.5→79.3(약 60% 개선). 특히 테스트 커버리지, 아키텍처 설계, 오류 처리에서 큰 향상
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
-  * [코딩 몰라도 됩니다 — 클로드 코드 설치부터 기본 세팅까지 | EP.01 - YouTube](https://www.youtube.com/watch?v=ZY9RNQghsf0)
-  * [Claude Code 스킬을 직접 고치지 마세요. Autoresearch가 대신 해줍니다 - YouTube](https://www.youtube.com/watch?v=7MaUhmZijak)
-  * [Claude Code 10가지 꿀팁 — Anthropic 해커톤 우승자가 다 알려줬습니다 - YouTube](https://www.youtube.com/watch?v=QhZJyg47JW0)
-  * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
     * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
