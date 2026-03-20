@@ -4026,11 +4026,13 @@ Artificial Intelligence
   * [nanobot: "🐈 nanobot: The Ultra-Lightweight Clawdbot"](https://github.com/HKUDS/nanobot)
   * [nanoclaw: Lightweight OpenClaw alternative](https://github.com/qwibitai/nanoclaw)
     * [nanoclaw 사용기 - OpenClaw Meetup Seoul | Jeffrey Dongkyu](https://www.linkedin.com/posts/jeffrey-dongkyu_nanoclaw-%EC%82%AC%EC%9A%A9%EA%B8%B0-openclaw-meetup-seoul-ugcPost-7439334034800832514-awEj)
-  * NemoClaw
+  * [NemoClaw: NVIDIA open-source AI agent security stack](https://github.com/NVIDIA/NemoClaw)
     * [Nvidia, 오픈소스 AI 에이전트 플랫폼 'NemoClaw' 출시 예고 – 보안 중심 AI 에이전트의 새 흐름](https://digitalbourgeois.tistory.com/2871)
     * [NVIDIA NemoClaw Launch | The New Stack](https://thenewstack.io/nvidia-nemoclaw-launch)
     * [NVIDIA's Jenson Hwang launches NemoClaw to the OpenClaw community - YouTube](https://www.youtube.com/watch?v=kRmZ5zmMS2o)
       * [NVIDIA Jenson Hwang, NemoClaw과 OpenClaw](https://livewiki.com/ko/content/nvidia-jenson-hwang-nemoclaw-openclaw)
+    * [NemoClaw Documentation](https://docs.nvidia.com/nemoclaw/latest/index.html)
+    * [NVIDIA NemoClaw란 무엇인가? OpenClaw 에이전트를 안전하게 실행하는 오픈소스 스택 정리](https://digitalbourgeois.tistory.com/2891)
     * NVIDIA의 보안 중심 오픈소스 AI 에이전트 플랫폼. GPU 벤더 무관, Salesforce·Google·Cisco·Adobe·CrowdStrike 파트너. OpenClaw 보안 취약점 사례를 교훈으로 엔터프라이즈 신뢰성 강조. GTC 2026에서 공식 발표
   * [openclaw: OpenClaw AWS Skill 가이드](https://github.com/kyopark2014/openclaw)
     * [OpenClaw AWS Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_openclaw-aws-skill-activity-7434525929520971776-KmxA)
@@ -4129,6 +4131,8 @@ Artificial Intelligence
   * [“개발 속도 99% 더 빠르게 만들 것”··· 윈드서프, 코딩 특화 AI 모델 ‘SWE-1’ 공개 | CIO](https://www.cio.com/article/3987217/%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84%eb%a5%bc-99-%eb%8d%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ea%b2%83%c2%b7%c2%b7%c2%b7-%ec%9c%88%eb%93%9c%ec%84%9c%ed%94%84.html)
 * [WrenAI: ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds](https://github.com/Canner/WrenAI)
   * [Generative BI Agent that lets you query any database in plain language and instantly get accurate SQL, charts, and AI-generated insights | LinkedIn](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7387390598065897473-yrML/)
+* [xurl: Client for AI agent URLs](https://github.com/Xuanwo/xurl)
+  * `agents://<provider>/<role>` URI로 6개 AI 에이전트(Amp, Codex, Claude, Gemini, Pi, OpenCode) 대화 읽기·검색·시작·계속. Rust 기반 GitHub 에이전트 스킬
 
 ## Tool coding assistant SDD Spec Driven Development
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
