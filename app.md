@@ -2349,6 +2349,8 @@ App
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
 * [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
+* [FreeCut: A professional-grade video editor that runs entirely in your browser](https://github.com/walterlow/freecut)
+  * 브라우저 기반 로컬 비디오 에디터. 멀티트랙 편집, CSS 필터/키프레임 애니메이션, WebCodecs로 MP4/WebM/MOV 직접 내보내기. 파일 업로드 없이 5GB까지 처리
 * [Free Image Highlight](https://www.simplehighlighterpngjpg.com/)
   * [간단한 이미지 하이라이터 | GeekNews](https://news.hada.io/topic?id=15221)
 * [Frigate NVR](https://frigate.video/)
