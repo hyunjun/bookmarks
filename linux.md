@@ -1696,6 +1696,8 @@ Linux
 * [Tmux From Scratch - YouTube](https://www.youtube.com/playlist?list=PLiNR9hlcxJhAq0jzTK7O1Qev7HUCjuqnd)
 * [tmux + tailscale 도대체 어디에 쓰는거야?](https://velog.io/@480/tmux-tailscale-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
+* [tmux-ide: Turn any project into a tmux-powered terminal IDE with ide.yml config](https://github.com/wavyrai/tmux-ide)
+  * [Tmux Cheat Sheet](https://tmux.thijsverreck.com/)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
