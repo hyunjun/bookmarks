@@ -320,8 +320,12 @@ Finance
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
+* [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
+  * YouTube Shorts 자동 생성, Twitter 봇, 아마존 제휴 마케팅, 로컬 비즈니스 콜드 아웃리치 자동화
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
+* [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
+  * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
