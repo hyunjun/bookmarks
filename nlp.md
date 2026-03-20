@@ -4203,6 +4203,8 @@ NLP
 * [PyCon Korea 2025 RAG 애플리케이션 개발을 위한 Chunking 최적화 - 강성우 - YouTube](https://www.youtube.com/watch?v=jgFduVaa07M)
 * [RAG가 더 이상 AI 제품의 표준 아키텍처가 아닌 이유 | Minkyu Jung](https://www.linkedin.com/posts/minkyujung_boris-cherny-bcherny-on-x-activity-7436238540520194048-6RcM)
   * 구조 있는 데이터는 SQL/파일시스템 직접 탐색(Claude Code는 Glob+Grep만으로 수백만줄 탐색), 구조 없는 데이터는 Knowledge Graph로 구조화, 프롬프트 캐싱으로 100만+ 토큰 전체 포함
+* [How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs](https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/)
+  * Cloudflare Workers + Vectorize + Workers AI로 프로덕션 RAG 구축. 월 $8~10으로 운영 가능(경쟁사 $50~200 대비). 데이터 파이프라인·쿼리 처리·에러 핸들링·보안까지 실전 코드 포함
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
