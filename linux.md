@@ -769,6 +769,9 @@ Linux
   * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
   * [hgrep: Grep with human-friendly search results](https://github.com/rhysd/hgrep)
   * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
+  * [mgrep: Semantic search for code, images, PDFs and more](https://github.com/mixedbread-ai/mgrep)
+    * [CLI-native way to semantically grep everything](https://www.opensourceprojects.dev/post/b4ec22f5-eac5-4f60-91cf-fa09a8115d6c)
+    * 자연어로 코드베이스·이미지·PDF 시맨틱 검색. Claude Code 등 에이전트 통합 시 토큰 ~2배 절감. `mgrep watch`로 백그라운드 인덱싱
   * [ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
     * [Finding CSV files that start with a BOM using ripgrep | Simon Willison’s TILs](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
   * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
