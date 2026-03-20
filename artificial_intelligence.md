@@ -923,6 +923,8 @@ Artificial Intelligence
   * [openfang: The Agent Operating System — open-source, built in Rust](https://github.com/RightNow-AI/openfang)
   * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * Rust 기반 오픈소스 에이전트 OS. 32MB 단일 바이너리로 7개 자율 Hands(영상 편집, 리드 발굴, OSINT, 예측, 리서치, 트위터, 브라우저), 40개 메시징 어댑터, 27개 LLM 프로바이더, 16개 보안 레이어(WASM 샌드박스, Ed25519 서명, Merkle 감사 추적) 제공
+* [OpenJarvis: Opinionated framework for local-first personal AI](https://github.com/open-jarvis/OpenJarvis)
+  * Stanford Hazy Research. 온디바이스 AI 에이전트 프레임워크, 에너지·지연 시간을 1차 제약 조건으로 평가, 로컬 트레이스 데이터 학습 루프
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
@@ -1527,6 +1529,8 @@ Artificial Intelligence
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
 * [Manus](https://manus.im/)
+  * [Manus My Computer Desktop](https://manus.im/ko/blog/manus-my-computer-desktop)
+    * [Manus My Computer Desktop | GeekNews](https://news.hada.io/topic?id=27567)
   * [agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)](https://github.com/Fosowl/agenticSeek)
   * [ANUS](https://github.com/nikmcfly/ANUS)
   * [OpenManus - Open-source Framework for Building AI Agents](https://openmanus.github.io/)
@@ -1534,6 +1538,9 @@ Artificial Intelligence
     * [자율에이전트 Manus 로컬로 써보기 - YouTube](https://www.youtube.com/watch?v=ZJzxje3rmnI)
 * [Mem – The AI Notes App That Keeps You Organized](https://get.mem.ai/) AI notepad
 * [Microsoft Designer (1) 스마트폰 | Pega Devlog](https://jehyunlee.github.io/2024/06/19/General-55-microsoftdesigner/)
+* [MiroFish: AI prediction engine powered by multi-agent simulation](https://github.com/666ghj/MiroFish)
+  * [또다른 MiroFish 대박 프로젝트입니다 | seungpil](https://www.linkedin.com/posts/seungpil_%EB%98%90%EB%8B%A4%EB%A5%B8-mirofish-%EB%8C%80%EB%B0%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%94-op0jogggg%EB%8A%94-ugcPost-7439287445332033536-CtKr)
+  * 뉴스·정책·금융 신호를 추출해 디지털 시뮬레이션 구축, 수천 AI 에이전트가 상호작용하며 미래 예측. OASIS 프레임워크 기반
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -3358,6 +3365,9 @@ Artificial Intelligence
     * CLAUDE.md(아키텍처 청사진), Skills(도메인 지식), Agents(역할 분해), Commands(워크플로우 조율) 4가지 지침으로 기준선 대비 평균 점수 49.5→79.3(약 60% 개선). 특히 테스트 커버리지, 아키텍처 설계, 오류 처리에서 큰 향상
   * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
   * [코딩 몰라도 됩니다 — 클로드 코드 설치부터 기본 세팅까지 | EP.01 - YouTube](https://www.youtube.com/watch?v=ZY9RNQghsf0)
+  * [Claude Code 스킬을 직접 고치지 마세요. Autoresearch가 대신 해줍니다 - YouTube](https://www.youtube.com/watch?v=7MaUhmZijak)
+  * [Claude Code 10가지 꿀팁 — Anthropic 해커톤 우승자가 다 알려줬습니다 - YouTube](https://www.youtube.com/watch?v=QhZJyg47JW0)
+  * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
     * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
@@ -3430,6 +3440,7 @@ Artificial Intelligence
       * [2601.20404 On the Impact of AGENTS.md Files on the Efficiency of AI Coding Agents](https://arxiv.org/abs/2601.20404)
       * [2602.11988 Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
     * [가장 좋은 Claude Code 강의는 Claude Code 자체 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code-overview-claude-code-docs-activity-7428223979623989248-kbGv)
+    * [CLAUDE.md 하나로 AI 코딩 품질이 3배 달라집니다 - YouTube](https://www.youtube.com/watch?v=cZ8_Dkk_Ce0)
     * [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
       * [65 lines of Markdown - a Claude Code sensation | Blog](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
         * [65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체 | GeekNews](https://news.hada.io/topic?id=26655)
@@ -3483,7 +3494,10 @@ Artificial Intelligence
     * [⚠️ 어제 공개된 클로드 전문가의 클로드 코드 완전판 세팅, 저도 다 바꿨습니다 앤트로픽 해커톤 우승자가 어제 공개한 클로드 코드 세팅 가이드 보자마자 바로 적용했어요. 하루 종일 매달렸는데 진짜 달라지더라고요. 10개월간 매일 클로드 코드 쓴 affaan(@affaanmustafa)의 완전판 세팅인데, 읽는 순간 "내가 지금까지 뭘 한 거지?"… | Jeongmin Lee | 10 comments](https://www.linkedin.com/posts/jyoung105_%EC%96%B4%EC%A0%9C-%EA%B3%B5%EA%B0%9C%EB%90%9C-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%9D%98-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%99%84%EC%A0%84%ED%8C%90-%EC%84%B8%ED%8C%85-%EC%A0%80%EB%8F%84-%EB%8B%A4-%EB%B0%94%EA%BF%A8%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7419142685543882752-KXud)
     * [Everything Claude Code - 해커톤 우승자의 AI 개발 팀 레시피 :: ROBOCO](https://roboco.io/posts/everything-claude-code-distilled/)
     * [Everything Claude Code vs Oh My ClaudeCode - 팀/기업 도입 관점 비교 :: ROBOCO](https://roboco.io/posts/everything-claude-code-vs-oh-my-claude-code/)
-  * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
+  * [gstack: YC CEO Garry Tan's Claude Code workflow — opinionated slash commands for shipping](https://github.com/garrytan/gstack)
+    * [YC CEO Garry Tan의 Claude Code 워크플로우 gstack - YouTube](https://www.youtube.com/watch?v=vfn_Ezu1qfk)
+      * [gstack: YC CEO Garry Tan의 Claude Code 워크플로우](https://livewiki.com/ko/content/gstack-yc-ceo-garry-tan)
+    * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
     * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
   * [excalidraw-diagram-skill: Claude Code skill for building diagrams with Excalidraw](https://github.com/coleam00/excalidraw-diagram-skill)
     * [Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) - YouTube](https://www.youtube.com/watch?v=m3fqyXZ4k4I)
@@ -3540,6 +3554,8 @@ Artificial Intelligence
       * [Stop Using The Ralph Loop Plugin](https://livewiki.com/ko/content/stop-using-ralph-loop-plugin)
       * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
+    * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
+    * [ralph: The Original RALF Loop Implementation](https://github.com/snarktank/ralph)
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
@@ -3960,6 +3976,11 @@ Artificial Intelligence
     * 자율 AI 에이전트 플랫폼. 이메일·캘린더·콘텐츠·비즈니스 모니터링을 24/7 자동화. 셀프 호스팅, Slack/WhatsApp 통합
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
+  * [AutoResearchClaw: Fully autonomous research pipeline — from idea to conference-ready paper](https://github.com/aiming-lab/AutoResearchClaw)
+    * [2603.17187 AutoResearchClaw](https://arxiv.org/abs/2603.17187)
+    * 23단계 8페이즈 파이프라인으로 논문 아이디어→문헌 조사→가설 생성→실험→작성→피어리뷰까지 자율 수행. 자가 치유 실험, 4단계 인용 검증
+  * [MetaClaw: Open-source agent framework for continuous learning from real-world interactions](https://github.com/aiming-lab/MetaClaw)
+    * 투명 프록시로 사용자↔에이전트 대화에서 실시간 학습. Skills Only/RL/MadMax 3모드, OpenClaw·CoPaw·IronClaw 등 다중 에이전트 지원
   * [ClaudeBot: Claude AI Telegram Bot with OpenClaw integration](https://github.com/Jeffrey0117/ClaudeBot)
   * [claude-openclaw-bridge: Bridge between Claude Code and OpenClaw for seamless AI agent collaboration](https://github.com/ericblue/claude-openclaw-bridge)
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
