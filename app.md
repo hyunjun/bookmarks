@@ -1372,6 +1372,8 @@ App
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
+* [GWS: Google Workspace CLI](https://github.com/googleworkspace/cli)
+  * [GWS 구글 워크스페이스 CLI | joonlab](https://www.linkedin.com/posts/joonlab_gws-%EA%B5%AC%EA%B8%80-%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-cli-geeknews-activity-7438004325697892352-7bbO)
 * [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
   * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
 
