@@ -344,6 +344,7 @@ Git
   * [Git을 데이터베이스로 사용하는 패키지 관리자들, 결국 실패한다 | GeekNews](https://news.hada.io/topic?id=25365)
 * [GitHub로부터 도망친 곳에 대안은 없을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3564/)
   * GitLab, Bitbucket, Codeberg, Gitea, Forgejo
+* [Trivy Under Attack Again: Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
