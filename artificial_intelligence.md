@@ -4136,6 +4136,7 @@ Artificial Intelligence
       * [NVIDIA Jenson Hwang, NemoClaw과 OpenClaw](https://livewiki.com/ko/content/nvidia-jenson-hwang-nemoclaw-openclaw)
     * [NemoClaw Documentation](https://docs.nvidia.com/nemoclaw/latest/index.html)
     * [NVIDIA NemoClaw란 무엇인가? OpenClaw 에이전트를 안전하게 실행하는 오픈소스 스택 정리](https://digitalbourgeois.tistory.com/2891)
+    * [Nvidia NemoClaw Cloud Setup in Under 15 Minutes - YouTube](https://www.youtube.com/watch?v=dEL9tKwvejo)
     * NVIDIA의 보안 중심 오픈소스 AI 에이전트 플랫폼. GPU 벤더 무관, Salesforce·Google·Cisco·Adobe·CrowdStrike 파트너. OpenClaw 보안 취약점 사례를 교훈으로 엔터프라이즈 신뢰성 강조. GTC 2026에서 공식 발표
   * [nullclaw: World's smallest AI assistant at 678KB](https://github.com/nullclaw/nullclaw)
     * [NullClaw | GeekNews](https://news.hada.io/topic?id=27568)
