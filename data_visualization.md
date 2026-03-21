@@ -262,6 +262,8 @@ Data Visualization
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
 * [flourish.studio](https://flourish.studio/) Beautiful and easy data visualization and storytelling
+* [Graphic Walker — Open-source Tableau-style visual analytics](https://kanaries.net/graphic-walker)
+  * [graphic-walker](https://github.com/Kanaries/graphic-walker)
 * [Graph Toy](http://memorystomp.com/graphtoy/)
 * [Metabase - the easy, open source way for everyone in your company to ask questions and learn from data](https://www.metabase.com/)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
