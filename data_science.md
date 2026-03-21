@@ -698,6 +698,8 @@ Data Science
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Octro](https://www.octro.io/) document to knowledge base
+* [OpenDataLoader](https://opendataloader.org/)
+  * [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [Positron](https://positron.posit.co/)
   * [Positron: 차세대 Data Scienc.. : 네이버블로그](https://blog.naver.com/ryang137/223990004043)
