@@ -3400,6 +3400,7 @@ Artificial Intelligence
   * [Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works](https://github.com/blader/Claudeception)
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
+    * [앤트로픽이 직접 만든 클로드 코드 강의 핵심만 요약했습니다 | 성국 한](https://www.linkedin.com/posts/%EC%84%B1%EA%B5%AD-%ED%95%9C-5b433128a_%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%B4-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A0-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EA%B0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%9A%94%EC%95%BD%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C%EC%A3%BC-share-7440849401809571841-WJQs/)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)
   * [Claude Code Guide | Manus](https://claudeguide-dv5ktqnq.manus.space/)
@@ -3670,6 +3671,9 @@ Artificial Intelligence
   * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
     * [Claude Code 비용 문제를 해결하는 MCP 서버 Context Mode](https://livewiki.com/ko/content/claude-code-expensive-fix)
   * MCP 서버로 컨텍스트를 가상화하여 토큰 최대 99% 절감. 원시 데이터를 로컬 샌드박스에 인덱싱하고 FTS5 검색으로 필요한 부분만 전달. SQLite 기반 세션 연속성으로 대화 압축 후에도 작업 상태 유지
+* [Composio](https://composio.dev/)
+  * [agent-orchestrator: Agentic orchestrator for parallel coding agents](https://github.com/ComposioHQ/agent-orchestrator)
+    * 병렬 코딩 에이전트 오케스트레이터. 태스크 계획→에이전트 스폰→CI 수정·머지 충돌·코드 리뷰 자동 처리. Claude Code/Codex/Aider 지원, git worktree 격리
 * [Continue](https://www.continue.dev/) open-source AI code assistant
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging](https://github.com/AnandChowdhary/continuous-claude)
