@@ -2564,6 +2564,8 @@ Artificial Intelligence
   * [맥킨지의 AI 플랫폼 해킹 사건 | GeekNews](https://news.hada.io/topic?id=27431)
   * 악의적 웹사이트가 localhost WebSocket으로 OpenClaw 에이전트 제어권 탈취. 게이트웨이 비밀번호 무차별 대입 후 신뢰 장치 등록. 2026.2.25 버전에서 수정
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
+* [The "Safety" Myth in AI: Why Better Performance ≠ Better Security - YouTube](https://www.youtube.com/watch?v=d7drlYAtkk0)
+  * [AI 안전 신화: 성능 향상 ≠ 보안 향상](https://livewiki.com/ko/content/ai-safety-performance-security)
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
@@ -2571,6 +2573,8 @@ Artificial Intelligence
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
+* [Nexus: Structural verification system for AI agent commands](https://github.com/Mephisto1122/Nexus)
+  * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -4099,6 +4103,8 @@ Artificial Intelligence
   * [habit-sprint: AI-powered habit tracking and productivity sprint manager for OpenClaw](https://github.com/ericblue/habit-sprint)
   * [hermitclaw: Autonomous AI creature that researches in folders](https://github.com/brendanhogan/hermitclaw/)
     * [HermitClaw: 폴더 안에서 스스로 연구하는 자율 AI 크리처 아키텍처와 동작 원리](https://digitalbourgeois.tistory.com/2779)
+  * [herd: Intelligent Ollama router for GPU node swarms — built for OpenClaw](https://github.com/tom-swift-tech/herd)
+    * 모델 로드 상태·GPU 메모리 인지 라우팅, 가중 라운드로빈, 서킷 브레이커, 실시간 대시보드, OpenAI 호환 엔드포인트
   * [KiloClaw](https://kilo.ai/kiloclaw)
     * [KiloClaw Discord 봇 연동 가이드 60초 만에 AI 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-KiloClaw-Discord-%EB%B4%87-%EC%97%B0%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-60%EC%B4%88-%EB%A7%8C%EC%97%90-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
   * [mac-agent-gateway: macOS agent gateway for OpenClaw with native system integration](https://github.com/ericblue/mac-agent-gateway)
