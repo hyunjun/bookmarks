@@ -429,6 +429,7 @@ Vision
     * exif를 인식하지 못하여, exif에 있는 orientaion 항목이 아니라, exif를 무시한체 raw한 픽셀정보로 띄우다 보니
     * 만약 orientaion과 실제 픽셀이 구성된 방향이 다르면 자연스럽게 뒤집어져서 로드
 * [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
+* [LabelAnything: Multi-class few-shot semantic segmentation using visual prompts (ECAI 2025)](https://github.com/pasqualedem/LabelAnything)
 * [LAION-400M - 4억개짜리 이미지-텍스트 쌍 데이터셋 | GeekNews](https://news.hada.io/topic?id=5016)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
@@ -642,6 +643,8 @@ Vision
   * [olmOCR - The Open OCR System - YouTube](https://www.youtube.com/watch?v=38loqDtlLok)
   * [Molmo 2 | A new standard for open video intelligence - YouTube](https://www.youtube.com/watch?v=Wf0ZzQqKYTo)
     * [Hika Maeng - 얼마 전 소개한 Olmocr 모델은 allenai애들 것임 이 회사는 엄청 재밌는 회사인데... | Facebook](https://www.facebook.com/hika00/posts/pfbid032XpHth6i44Z747G2y78DnXK7uNXqjeozoNrvDJaccYoA9deCGESFTDvLdrZENTgGl)
+* [OpenOCR: General-OCR toolkit for text detection, recognition, formula/table recognition, document parsing](https://github.com/Topdu/OpenOCR/)
+  * Fudan FVL Lab. OpenDoc-0.1B(초경량 문서 파싱), UniRec-0.1B(텍스트+수식 통합 인식), SVTRv2(ICCV 2025)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
   * [PaddleOCR-VL Upstage만큼 강력합니다 - YouTube](https://www.youtube.com/watch?v=nL88A59qBC0)
     * [PaddleOCR-VL 문서 파싱은 이걸로 끝냅니다 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_paddleocr-vl-%EB%AC%B8%EC%84%9C-%ED%8C%8C%EC%8B%B1%EC%9D%80-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EB%81%9D%EB%83%85%EB%8B%88%EB%8B%A4-activity-7385441384272596993-OJZY)
