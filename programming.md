@@ -2602,6 +2602,7 @@ Programming
 * [Master Software Architecture: From Simplicity to Complexity • Maciej «MJ» Jedrzejewski • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=ZCrCqbblXjk)
   * [소프트웨어 아키텍처 마스터: 단순함에서 복잡함으로](https://livewiki.com/ko/content/master-software-architecture-simplicity-complexity)
   * "Always do X" 식의 독단적 접근 대신 컨텍스트 의존적 아키텍처 진화를 강조. 모듈러 모놀리스에서 시작해 실제 트래픽·팀 역량·비즈니스 요구에 따라 점진적으로 분해하는 접근법과 팀 역량 매트릭스 활용법을 사례와 함께 제시
+* [Design a complete architecture of an error report system for an ecommerce app](https://programmingappliedai.substack.com/p/design-a-complete-architecture-of)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
