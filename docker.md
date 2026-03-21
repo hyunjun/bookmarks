@@ -2456,6 +2456,9 @@ Docker
   * [Serverless Machine Learning Model Inference on Kubernetes with KServe by Stavros Kontopoulos - YouTube](https://www.youtube.com/watch?v=ldSzwF11HBk)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
+* [Kubara — Open-source Kubernetes platform framework built on GitOps](https://kubara.io/)
+  * [kubara](https://github.com/kubara-io/kubara)
+  * [Kubara: An Open-Source Kubernetes Platform Framework Built on GitOps](https://itnext.io/kubara-an-open-source-kubernetes-platform-framework-built-on-gitops-8990b8a635b3)
 * [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
 * [Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder)
   * [Introduction - The Kubebuilder Book](https://book.kubebuilder.io/)
