@@ -3716,6 +3716,8 @@ NLP
     * [Ministral_3_VL_(3B)_Vision.ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Ministral_3_VL_\(3B\)_Vision.ipynb)
   * [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
     * [LLM을 활용하여 최고의 Text Embedding 만들기](https://blog.sionic.ai/e5-mistral)
+  * [Mistral Forge](https://mistral.ai/news/forge)
+    * [Mistral Forge | GeekNews](https://news.hada.io/topic?id=27616)
   * [mixtral-offloading: Run Mixtral-8x7B models in Colab or consumer desktops](https://github.com/dvmazur/mixtral-offloading/tree/master)
     * [What is better than running a Mixtral-8x7B model?](https://www.linkedin.com/posts/itamar-g1_what-is-better-than-running-a-mixtral-8x7b-activity-7146889906101948416-62bp/)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb)
@@ -3863,6 +3865,9 @@ NLP
       * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5) | Jaekyung Cho](https://www.linkedin.com/posts/jaekyung-cho-7361b521a_diary-llm%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-2-feat-qwen-activity-7432800170339115008-rnlL)
     * [명령어 한 줄로 로컬 AI 실행! Qwen3.5-0.8B 최적 활용 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%8B%A4%ED%96%89-Qwen35-08B-%EC%B5%9C%EC%A0%81-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
       * 262,144 토큰 컨텍스트, 멀티모달 기능. Ollama/HuggingFace/vLLM/SGLang으로 명령어 한 줄 로컬 실행
+    * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
+      * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
+      * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -3924,6 +3929,8 @@ NLP
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
   * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
+  * [Qwen3.5: How to Run & Fine-tune | Unsloth](https://unsloth.ai/docs/models/qwen3.5)
+    * [Qwen3.5 | GeekNews](https://news.hada.io/topic?id=27315)
   * [Unsloth Studio](https://unsloth.ai/docs/new/studio)
     * [Unsloth Studio 로컬 환경에서 AI 모델을 실행·학습하는 통합 노코드 플랫폼](https://digitalbourgeois.tistory.com/2895)
 * [Unstructured](https://unstructured.io/)
@@ -5408,6 +5415,7 @@ NLP
 * [Hi, AI: Our Thesis on AI Voice Agents | Andreessen Horowitz](https://a16z.com/ai-voice-agents/)
   * [a16z가 정리한 AI Voice 에이전트에 대한 모든 것 | GeekNews](https://news.hada.io/topic?id=15304)
 * [RAG 시스템에서의 Relevance Feedback 활용 방안 | LinkedIn](https://www.linkedin.com/pulse/rag-%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2597%2590%25EC%2584%259C%25EC%259D%2598-relevance-feedback-%25ED%2599%259C%25EC%259A%25A9-%25EB%25B0%25A9%25EC%2595%2588-jin-hyung-park-wdvpc/)
+* [Speech Embeddings for Engineers](https://colab.research.google.com/drive/1pUy9tp145qlWni2CIuBvQUNdokiB6rx6)
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
@@ -5527,6 +5535,7 @@ NLP
 * [Qwen2-Audio: The official repo of Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen2-Audio/)
 * [Qwen3-ASR: Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction](https://github.com/QwenLM/Qwen3-ASR)
   * [Qwen3-ASR 및 Qwen3-ForcedAligner가 오픈소스로 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2857185841289122&hoisted_section_header_type=recently_seen)
+  * [맥에서 Qwen3 ASR 쓰는 팁](https://x.com/xrath/status/2031588181347328165)
 * [🤖 Qwen3-TTS: AI 음성 합성의 새로운 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Qwen3-TTS-AI-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-1)
   * [Qwen3 TTS Voice Design - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design)
   * [Qwen TTS Clone Demo - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo)
