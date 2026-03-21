@@ -3697,6 +3697,8 @@ NLP
   * [🤖 MiniMax M2.1: 루빅스 큐브 시뮬레이터 성공한 오픈소스 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-MiniMax-M21-%EB%A3%A8%EB%B9%85%EC%8A%A4-%ED%81%90%EB%B8%8C-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI)
   * [MiniMax M2.5: 更快更强更智能，为真实世界生产力而生 - MiniMax News | MiniMax](https://www.minimax.io/news/minimax-m25)
     * [MiniMax M2.5 출시 - 실제 업무 생산성을 위해 설계된 모델 | GeekNews](https://news.hada.io/topic?id=26658)
+  * [MiniMax M2.7](https://www.minimax.io/news/minimax-m27-en)
+    * [MiniMax M2.7: 자기 진화를 시작한 차세대 에이전트 AI 모델의 기술적 의미와 활용 가능성](https://digitalbourgeois.tistory.com/2897)
 * [mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities](https://github.com/gpt-omni/mini-omni/)
   * [2408.16725 Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725)
 * Mistral [Frontier AI LLMs, assistants, agents, services | Mistral AI](https://mistral.ai/)
@@ -3922,6 +3924,8 @@ NLP
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
   * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
+  * [Unsloth Studio](https://unsloth.ai/docs/new/studio)
+    * [Unsloth Studio 로컬 환경에서 AI 모델을 실행·학습하는 통합 노코드 플랫폼](https://digitalbourgeois.tistory.com/2895)
 * [Unstructured](https://unstructured.io/)
 * [UpTrain | Full-Stack LLMOps Platform](https://uptrain.ai/)
   * [Lost in Translation: The Critical Impact of Neglecting Guideline Adherence in LLMs - UpTrain AI](https://blog.uptrain.ai/lost-in-translation-the-critical-impact-of-neglecting-guideline-adherence-in-llms/) LLMOps
