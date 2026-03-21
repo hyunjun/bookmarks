@@ -530,6 +530,7 @@ Deep Learning
 * [Batch normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://blog.soundcorset.kr/2017/07/batch-normalization-accelerating-deep.html)
 * [Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)
 * [Introduction to Deep Learning Normalization](https://subinium.github.io/introduction-to-normalization)
+* [Using Normalization Layers to Improve Deep Learning Models](https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-learning-models/)
 * [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 * [XPU(GPU, IPU, TPU 등) – Hardware Acceleration #1 – <A Story about…/>](http://kyunam.com/?p=259)
