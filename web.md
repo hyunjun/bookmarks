@@ -650,6 +650,9 @@ Web
   * [Home - Crawl4AI Documentation (v0.7.x)](https://docs.crawl4ai.com/)
 * [CrawlerDetect - the web crawler detection library](https://crawlerdetect.io/)
   * [Crawler-Detect: 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent](https://github.com/JayBizzle/Crawler-Detect/)
+* [DeepCrawl — Open-source edge Firecrawl alternative with better links extraction for agents](https://deepcrawl.dev/)
+  * [deepcrawl](https://github.com/lumpinif/deepcrawl/)
+  * 웹 페이지를 정제된 마크다운 + 계층 링크 트리로 변환. LLM 토큰 비용 절감·환각 최소화 설계. Cloudflare/Vercel 배포
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
 * [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
