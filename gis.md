@@ -76,6 +76,8 @@ GIS
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
   * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
   * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
+* [Shadowbroker: Open-source real-time geospatial intelligence OSINT dashboard](https://github.com/BigBodyCobain/Shadowbroker)
+  * [Shadowbroker | GeekNews](https://news.hada.io/topic?id=27351)
 
 # PostGIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
