@@ -3513,6 +3513,7 @@ Artificial Intelligence
     * [Vercel의 Claude 사용 팀은 비-Claude 팀보다 7.6배 자주 배포합니다. 매주 14%씩 가속 중입니다. Vercel CEO Guillermo Rauch가 직접 공개한 프로덕션 데이터입니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentioncops-cops-code-activity-7427463952588034048-T-lC)
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
+    * [ECC Tools](https://ecc.tools/)
     * [Everything Claude Code - 해커톤 우승자의 AI 개발 팀 레시피 :: ROBOCO](https://roboco.io/posts/everything-claude-code-distilled/)
     * [Everything Claude Code로 Claude 코딩 환경 업그레이드하기 - TILNOTE](https://tilnote.io/en/pages/696db2d265a2e4dd63f35cc7)
     * [The Claude Code setup that won a hackathon | by JP Caparas | Jan, 2026 | Dev Genius](https://blog.devgenius.io/the-claude-code-setup-that-won-a-hackathon-a75a161cd41c)
@@ -3615,6 +3616,8 @@ Artificial Intelligence
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
+* [claudiomiro: Autonomous AI-powered development agent](https://github.com/samuelfaj/claudiomiro)
+  * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
   * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
@@ -4047,6 +4050,8 @@ Artificial Intelligence
     * [AI가 8시간 만에 $19000 벌어 - ClawWork 경제 생존 벤치마크](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AI%EA%B0%80-8%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-19000-%EB%B2%8C%EC%96%B4-ClawWork-%EA%B2%BD%EC%A0%9C-%EC%83%9D%EC%A1%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC)
   * [EasyClaw](https://easyclaw.com/)
     * [EasyClaw 한국어](https://easyclaw.kr/)
+  * [edgeclaw: Edge-Cloud Collaborative AI Agent](https://github.com/openbmb/edgeclaw)
+    * OpenClaw 확장. 데이터 민감도 자동 분류(S1~S3), 로컬/클라우드 라우팅으로 프라이버시 보호 + API 비용 60~80% 절감. Tsinghua/Renmin 공동 개발
   * [Entropic — Downloadable OpenClaw Securely Isolated on Your Device](https://entropic.qu.ai/)
     * 로컬 실행 데스크톱 OpenClaw. macOS/Windows/Linux 지원, 샌드박스 격리, 자체 API 키 사용 가능
   * [habit-sprint: AI-powered habit tracking and productivity sprint manager for OpenClaw](https://github.com/ericblue/habit-sprint)
@@ -4138,6 +4143,8 @@ Artificial Intelligence
   * Claude Code/Codex/OpenCode 원격 관리. 폰·데스크톱·CLI 크로스 디바이스, 음성 제어 지원
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [RA.Aid: Develop software autonomously.](https://github.com/ai-christianson/RA.Aid) Coding agent for autonomous software development
+* [remodex: Local-first open-source bridge + iOS app for remote Codex control](https://github.com/Emanuele-web04/remodex)
+  * [iPhone으로 Mac의 Codex를 제어한다 - 로컬 퍼스트 원격 개발 도구 Remodex 완전 정리](https://digitalbourgeois.tistory.com/2890)
 * [Replit – Build apps and sites with AI](https://replit.com/)
   * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
 * [Rocket.new | Build Web & Mobile Apps 10x Faster Without Code](https://www.rocket.new/)
