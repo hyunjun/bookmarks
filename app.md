@@ -2446,6 +2446,7 @@ App
   * [Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=6372)
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
+* [ytm-player: Full-featured YouTube Music player for the terminal with vim-style keybindings](https://github.com/peternaame-boop/ytm-player)
 * [Zrythm - Digital Audio Workstation](https://www.zrythm.org/en/index.html)
 
 # Note
