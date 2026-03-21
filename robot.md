@@ -94,6 +94,8 @@ Robot
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
 * [symforce: Fast symbolic computation, code generation, and nonlinear optimization for robotics](https://github.com/symforce-org/symforce)
   * [Open-sourcing SymForce | Skydio](https://www.skydio.com/blog/open-sourcing-symforce/)
+* [Webots — Open-source robot simulator](https://cyberbotics.com/)
+  * [webots](https://github.com/cyberbotics/webots/)
 
 # ROS
 * [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
