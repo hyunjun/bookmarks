@@ -1694,6 +1694,7 @@ Linux
 * [tmux 입문자 시리즈 요약 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/tmux-introductory-series-summary/)
 * [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [Tmux From Scratch - YouTube](https://www.youtube.com/playlist?list=PLiNR9hlcxJhAq0jzTK7O1Qev7HUCjuqnd)
+* [TMUX 마스터클래스 | tmux 기본~AI 에이전트 교차 검증까지 - YouTube](https://www.youtube.com/watch?v=vlg8X0N8z08)
 * [tmux + tailscale 도대체 어디에 쓰는거야?](https://velog.io/@480/tmux-tailscale-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-ide: Turn any project into a tmux-powered terminal IDE with ide.yml config](https://github.com/wavyrai/tmux-ide)
