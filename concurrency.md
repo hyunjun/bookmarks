@@ -41,6 +41,8 @@ Concurrency
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
+* [The Isolation Trap](https://causality.blog/essays/the-isolation-trap/)
+  * Erlang의 엄격한 격리(프로세스 힙 분리, 메시지 복사)가 결국 공유 가변 상태 문제로 회귀하는 과정. 성능 병목으로 ETS/persistent_term 등 격리 우회 도입 → 원래 방지하려던 버그 재도입. Actor 모델과 메시지 패싱 채널 모두 같은 근본 문제에 도달
 
 # Async
 * [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
