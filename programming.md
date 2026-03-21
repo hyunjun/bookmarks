@@ -195,6 +195,8 @@ Programming
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
+  * [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+    * [Rob Pike's 5 Rules of Programming | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_rob-pikes-5-rules-of-programming-share-7441002951915065344-oloy/)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [Free for developers](https://free-for.dev/)
