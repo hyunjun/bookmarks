@@ -837,6 +837,8 @@ Artificial Intelligence
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
   * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
   * [Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임 | GeekNews](https://news.hada.io/topic?id=26883)
+  * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
+    * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
@@ -915,6 +917,9 @@ Artificial Intelligence
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
+* [OpenAGI — Make autonomous agent development accessible](https://openagi.aiplanet.com/)
+  * [openagi](https://github.com/aiplanethub/openagi/)
+  * 멀티에이전트 시스템, 장기 메모리, 태스크 분해·계획, 웹 검색. OpenAI/Gemini 지원
 * [OpenAI Symphony: turns project work into isolated, autonomous implementation runs](https://github.com/openai/symphony)
   * [OpenAI Symphony: 에이전트 기반 프로젝트 관리 자동화 도구 완전 정리](https://digitalbourgeois.tistory.com/2843)
   * [OpenAI Symphony 에이전트 기반 프로젝트 작업의 자율적 구현 및 관리 프레임워크 | Youshin Kim](https://kr.linkedin.com/pulse/openai-symphony-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9E%91%EC%97%85%EC%9D%98-%EC%9E%90%EC%9C%A8%EC%A0%81-%EA%B5%AC%ED%98%84-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-youshin-kim-52jhc)
@@ -3032,6 +3037,9 @@ Artificial Intelligence
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
   * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
+* [AxonHub — Open-source AI gateway for 100+ LLMs](https://axonhub.onrender.com/)
+  * [axonhub](https://github.com/looplj/axonhub)
+  * 하나의 API로 100+ LLM 호출, sub-100ms 페일오버, RBAC, 실시간 비용 추적. OpenAI/Anthropic/Gemini 호환
 * [Aperant — Software that builds itself](https://aperant.com/)
   * 자율형 AI 코딩 플랫폼. 멀티 에이전트 파이프라인으로 아키텍처 설계→테스트→배포→유지보수 전체 라이프사이클 자동화. 코딩 관례와 아키텍처 결정사항 자동 학습
   * [Auto-Claude: Autonomous multi-session AI coding](https://github.com/AndyMik90/Auto-Claude)
@@ -3056,6 +3064,8 @@ Artificial Intelligence
 * [bkit - Vibecoding Kit](https://www.bkit.ai/)
   * [바이브코딩의 근본 문제들을 해결해주는 도구 bkit | AI 인공지능 클로드코드 - YouTube](https://www.youtube.com/watch?v=EZwffHVx05U)
     * [바이브 코딩 근본 문제 해결 도구 bkit, AI 클로드 코드 활용 노하우](https://livewiki.com/ko/content/bkit-ai-claude-code)
+* [bmalph: BMAD-METHOD planning + Ralph autonomous implementation loop](https://github.com/LarsCowe/bmalph)
+  * BMAD(분석·설계 3단계) + Ralph(자율 구현 루프) 통합. Claude Code/Codex/OpenCode/Cursor 등 멀티 에이전트 지원
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
 * [cmux](https://www.cmux.dev/)
@@ -3124,6 +3134,9 @@ Artificial Intelligence
     * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
+  * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
+    * [Claude Code HTTP Hook 기능 추가: 자동화 워크플로우 확장 방법 정리](https://digitalbourgeois.tistory.com/2836)
+    * 특정 라이프사이클 시점에 셸 명령/HTTP 엔드포인트/LLM 프롬프트를 자동 실행. 외부 시스템 연결로 중앙 집중식 정책 관리와 워크플로우 자동화
   * [Sub agents - Anthropic](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
     * [확장할 시간입니다... AI 코딩의 90%는 이제 불필요합니다 - YouTube](https://www.youtube.com/watch?v=Ppu6pJ5yyD4)
       * [Time to SCALE... 90% of AI Coding is Unnecessary Now | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5187465/4636563)
@@ -3413,9 +3426,6 @@ Artificial Intelligence
   * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
-  * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
-    * [Claude Code HTTP Hook 기능 추가: 자동화 워크플로우 확장 방법 정리](https://digitalbourgeois.tistory.com/2836)
-    * 특정 라이프사이클 시점에 셸 명령/HTTP 엔드포인트/LLM 프롬프트를 자동 실행. 외부 시스템 연결로 중앙 집중식 정책 관리와 워크플로우 자동화
   * [Claude Code Plugin Marketplace](https://plugins.pleaseai.dev/)
   * [Claude Code Plugins & Agent Skills - Community Registry with CLI](https://claude-plugins.dev/)
     * claude code plugin 을 모아놓은 서비스. skills 가 있는 프로젝트만 따로 필터링 가능
@@ -3496,6 +3506,8 @@ Artificial Intelligence
   * [Claude Squad - Manage Multiple AI Code Assistants](https://smtg-ai.github.io/claude-squad/)
     * [claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.](https://github.com/smtg-ai/claude-squad)
     * [클로드 스쿼드 쓰면 워크트리 병렬 작업이 너무 쉽습니다.. 심지어 무료예요 - YouTube](https://www.youtube.com/watch?v=DGwXIi9wgIQ)
+  * [claude-subconscious: Background agent that whispers to Claude Code — persistent memory by Letta](https://github.com/letta-ai/claude-subconscious)
+    * Letta 에이전트가 Claude Code 세션 관찰, 코드베이스 탐색, 메모리 축적 후 각 프롬프트 전 관련 정보 제공. 상태 없는 코딩 에이전트에 영구 메모리 추가
   * [ClaudeTuner — Real-Time Claude.ai Usage Tracker & Rate Limit Monitor](https://claudetuner.com/)
     * [Claude 사용량을 한눈에: ClaudeTuner로 실시간 사용량 추적과 플랜 최적화하기](https://digitalbourgeois.tistory.com/2838)
     * Chrome 확장으로 5시간/7일 사용량 실시간 모니터링, 리셋 예측, 14일 패턴 분석 플랜 최적화. 팀 대시보드 지원
@@ -4151,6 +4163,10 @@ Artificial Intelligence
 * [Roo Code – Your AI-Powered Dev Team in VS Code](https://roocode.com/)
   * [Roo-Code: Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor](https://github.com/RooVetGit/Roo-Code)
 * [Rork — create a mobile app using AI in minutes](https://rork.com/)
+* [Rover — Manage multiple AI coding agents in parallel](https://endor.dev/rover)
+  * [rover](https://github.com/endorhq/rover/)
+  * Claude Code/Codex/Cursor/Gemini/Qwen 에이전트를 격리된 컨테이너 워크트리에서 병렬 실행. 네트워크/샌드박스 제어, MCP 서버 기능
+  * [iPhone으로 Mac의 Codex를 제어한다 - 로컬 퍼스트 원격 개발 도구 Remodex 완전 정리](https://digitalbourgeois.tistory.com/2890)
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
 * [Shadow](https://www.shadowrealm.ai/)
