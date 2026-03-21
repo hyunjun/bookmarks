@@ -1168,6 +1168,7 @@ Artificial Intelligence
 * [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Anthropic Courses](https://anthropic.skilljar.com/)
+  * [Claude 101](https://anthropic.skilljar.com/claude-101)
   * [이상선 - Anthropic이 무료 AI 교육 과정과 공식 수료증을 제공하는 온라인 코스를 공개 | Facebook](https://www.facebook.com/lsszz1/posts/34127032743610492/)
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
