@@ -822,6 +822,9 @@ Artificial Intelligence
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
 * [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
   * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
+* [ArgentOS — The Operating System for Personal AI](https://argentos.ai/features/consciousness)
+  * [ArgentOS Core](https://github.com/ArgentAIOS/core)
+  * 채팅 기반 개인 AI OS. 영구 메모리, 태스크 실행, 브라우저·터미널 제어, 워크스페이스 서피스
 * [arrakis: A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows](https://github.com/abshkbh/arrakis)
   * AI 에이전트 코드 실행, GUI 환경 사용을 위해, 안전하고 자체 호스팅 가능한 샌드박스(sandbox)를 제공하는 오픈소스 솔루션
   * 마이크로VM 기반의 격리 환경에서 스냅샷(snapshot) 및 복원(restore) 기능 기본 제공
