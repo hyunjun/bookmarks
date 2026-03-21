@@ -314,6 +314,8 @@ Finance
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [ChatGPT-Micro-Cap-Experiment: This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
+* [daily_stock_analysis: LLM-powered intelligent analyzer for A-shares, HK stocks, US equities](https://github.com/ZhuLinsen/daily_stock_analysis)
+  * AI 대시보드 자동 생성→기업 위챗/Telegram/Slack 등 푸시. 기술 분석·뉴스 센티먼트·펀더멘탈 통합, GitHub Actions 무료 배포
 * [dexter: An autonomous agent for deep financial research](https://github.com/virattt/dexter)
 * [edgartools: The world's easiest, most powerful edgar library](https://github.com/dgunning/edgartools)
 * [FinAgent-Lab · GitHub](https://github.com/FinAgent-Lab)
