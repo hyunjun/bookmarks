@@ -2922,6 +2922,9 @@ Artificial Intelligence
     * [GLM 코딩 플랜 & 클로드 코드: 바이브 코딩 생산성 극대화 전략 (ft. 스킬스, 에이전트 SDK)](https://livewiki.com/ko/content/vibecoding-glm-coding-plan)
   * [🔥 GLM-4.7-Flash: 완전 무료! 30B급 최강 AI로 ChatGPT 비용 100% 절감하는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%81%E2%9C%A8GLM-47-Flash-GPT-5%EA%B8%89-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%AC%B4%EB%A3%8C-API%EB%B6%80%ED%84%B0-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [my-claude-code-setup: Shared starter template configuration and CLAUDE.md memory bank system for Claude Code](https://github.com/centminmod/my-claude-code-setup)
+* [zeroboot: Sub-millisecond VM sandboxes for AI agents via copy-on-write forking](https://github.com/zerobootdev/zeroboot)
+  * [zeroboot | Open Source Projects](https://www.opensourceprojects.dev/post/35925682-fbba-4d65-90da-6a793159fac5)
+  * Firecracker 스냅샷 + CoW 포킹으로 ~0.8ms KVM 샌드박스 생성. Python/TypeScript SDK, Apache-2.0
 
 ## Tool coding assistant
 * [Why I stopped using AI code editors · Luciano Nooijen](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
@@ -3602,6 +3605,9 @@ Artificial Intelligence
     * [superpowers: Claude Code superpowers: core skills library](https://github.com/abudhahir/superpowers)
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
+  * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
+    * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+    * [Understand-Anything | Open Source Projects](https://www.opensourceprojects.dev/post/b206659e-38d5-4ae0-83e8-54c04caa16cb)
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
