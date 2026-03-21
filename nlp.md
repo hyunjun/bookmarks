@@ -5478,6 +5478,8 @@ NLP
   * [Kaldi on AWS](http://jrmeyer.github.io/asr/2017/10/13/Kaldi-AWS.html)
   * [docker-kaldi-gstreamer-server: Dockerfile for kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server)
 * [kani-tts](https://github.com/nineninesix-ai/kani-tts/)
+* [KittenTTS: Open-source text-to-speech library — high-quality voice synthesis on CPU](https://github.com/KittenML/KittenTTS)
+  * GPU 불필요 CPU 전용 TTS. 15M~80M 파라미터 3종 모델, 8개 프리트레인 음성, 24kHz 오디오, ONNX 기반 엣지 배포 최적화
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
@@ -5488,6 +5490,9 @@ NLP
 * [MeloTTS](https://github.com/myshell-ai/MeloTTS)
   * [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](https://webnautes.com/tts-raibeureori-melottsro-hangugeo-eumseong-habseonghaebogi/)
 * [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
+* [moonshine: Real-time on-device speech recognition](https://github.com/moonshine-ai/moonshine)
+  * [Moonshine - 엣지 디바이스용 고속·고정확도 음성 인식 오픈소스 | GeekNews](https://news.hada.io/topic?id=27103)
+  * Medium 모델 WER 6.65%로 Whisper Large v3(7.44%) 능가. 스트리밍 기반, Python/iOS/Android 지원, 8개 언어 다국어
 * [moshi.chat](https://us.moshi.chat/)
   * [Unveiling of Moshi: the first voice-enabled AI openly accessible to all. - YouTube](https://www.youtube.com/watch?v=hm2IJSKcYvo)
 * [MVSEP - Music & Voice Separation](https://mvsep.com/en)
@@ -5497,9 +5502,6 @@ NLP
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
-* [moonshine: Real-time on-device speech recognition](https://github.com/moonshine-ai/moonshine)
-  * [Moonshine - 엣지 디바이스용 고속·고정확도 음성 인식 오픈소스 | GeekNews](https://news.hada.io/topic?id=27103)
-  * Medium 모델 WER 6.65%로 Whisper Large v3(7.44%) 능가. 스트리밍 기반, Python/iOS/Android 지원, 8개 언어 다국어
 * [omnilingual-asr: Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages](https://github.com/facebookresearch/omnilingual-asr)
   * [Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/)
     * [모든 ASR 시스템에서 제공하지 않은 500개의 저커버 언어를 포함하여 1,600여 개의 언어에 대한 ASR 기능을 제공하는 모델 모음인 Meta Omnilingual Automatic Speech Recognition(ASR)을 소개](https://www.facebook.com/reel/1201241428559224)
