@@ -1120,6 +1120,9 @@ Artificial Intelligence
 * [context-engineering-intro: Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!](https://github.com/coleam00/context-engineering-intro/)
   * [컨텍스트 엔지니어링 101 - AI 코딩을 100배 향상시키는 간단한 전략 - YouTube](https://www.youtube.com/watch?v=Mk87sFlUG28)
 * [context-engineering-langGraph: context-engineering-langGraph](https://github.com/sw-woo/context-engineering-langGraph)
+* [context-hub: Curated, versioned docs for coding agents](https://github.com/andrewyng/context-hub)
+  * [Context Hub란 무엇인가? - 코딩 에이전트를 똑똑하게 만드는 문서 관리 허브](https://digitalbourgeois.tistory.com/2889)
+  * Andrew Ng의 프로젝트. 에이전트에게 큐레이션된 API 문서 제공, 세션 간 학습·피드백으로 점진 개선
 * context rot
   * [OpenAI, 구글, 클로드 다 마찬가지... 입력 길이 길어지면 생각보다 훨씬 더 성능 떨어진다 - 어떻게 대응해야 하나 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=EbN_DWM3DJc)
   * [AI 모델의 성능 저하, '컨텍스트 로트'의 진실 | AIB프레스](https://aibpress.com/news/7368a)
@@ -4013,6 +4016,10 @@ Artificial Intelligence
     * 투명 프록시로 사용자↔에이전트 대화에서 실시간 학습. Skills Only/RL/MadMax 3모드, OpenClaw·CoPaw·IronClaw 등 다중 에이전트 지원
   * [ClaudeBot: Claude AI Telegram Bot with OpenClaw integration](https://github.com/Jeffrey0117/ClaudeBot)
   * [claude-openclaw-bridge: Bridge between Claude Code and OpenClaw for seamless AI agent collaboration](https://github.com/ericblue/claude-openclaw-bridge)
+  * [ClaudePilot](https://projectsparks.ai/claudepilot)
+    * [claudepilot-openclaw: 🤖 ClaudePilot — the AI-guided way to get started with OpenClaw](https://github.com/GuyMannDude/claudepilot-openclaw/tree/main)
+      * [claudepilot-openclaw/CLAUDEPILOT-STANDARD.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-STANDARD.md)
+      * [claudepilot-openclaw/CLAUDEPILOT-PRO.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-PRO.md)
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
   * [ContextGraph: Visual knowledge graph for OpenClaw agent context](https://github.com/AllenMaxi/ContextGraph)
   * [Crew — Your Personal AI Agent](https://crew.you/)
@@ -4100,14 +4107,15 @@ Artificial Intelligence
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
   * [SkyClaw — Hyper-lean AI Agent Runtime](https://skyclaw.vn/)
-    * [temm1e: Autonomous AI agent runtime in Rust](https://github.com/nagisanzenin/temm1e)
     * [OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/posts/1612248343258889/)
-    * Rust 기반 초경량 자율 AI 에이전트 런타임. 9MB 바이너리, 15MB RAM, 31ms 콜드 스타트. 자가 치유·크래시 복구로 수주간 무인 운영. Blueprint 기반 프로시저럴 메모리로 반복 작업 학습
   * [SuperClaw — ClawScan: Free AI Automation Assessment](https://www.superclaw.io/clawscan)
     * 비즈니스 AI 자동화 기회를 분석하는 무료 평가 도구. 업종별 경쟁 분석, 즉시 적용 가능한 퀵윈, 단계별 구현 로드맵 제공
   * [SwarmClaw — Self-Hosted AI Agent Runtime](https://www.swarmclaw.ai/)
     * [swarmclaw: Multi-agent swarm orchestration for OpenClaw](https://github.com/swarmclawai/swarmclaw)
     * SuperClaw와 유사
+  * [temm1e](https://temm1e.com/)
+    * [temm1e: Autonomous AI agent runtime in Rust](https://github.com/temm1e-labs/temm1e)
+    * Rust 기반 초경량 자율 AI 에이전트 런타임. 9MB 바이너리, 15MB RAM, 31ms 콜드 스타트. 자가 치유·크래시 복구로 수주간 무인 운영. Blueprint 기반 프로시저럴 메모리로 반복 작업 학습
   * [TinyClaw is a team of personal agents that collaborate with each other](https://github.com/TinyAGI/tinyclaw)
     * [🦞 TinyClaw: 무료로 나만의 AI 에이전트 팀 24시간 운영하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%9E-TinyClaw-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%8C%80-24%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0)
   * [zclaw: Personal AI assistant running on ESP32 with 888KB](https://github.com/tnm/zclaw)
@@ -4121,8 +4129,13 @@ Artificial Intelligence
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
+* [open-swe: Open-source framework for internal coding agents](https://github.com/langchain-ai/open-swe)
+  * [내부 코딩 에이전트를 위한 오픈소스 프레임워크 Open SWE 정리](https://digitalbourgeois.tistory.com/2898)
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
+* [Paseo — One interface for all your coding agents](https://paseo.sh/)
+  * [paseo](https://github.com/getpaseo/paseo)
+  * Claude Code/Codex/OpenCode 원격 관리. 폰·데스크톱·CLI 크로스 디바이스, 음성 제어 지원
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [RA.Aid: Develop software autonomously.](https://github.com/ai-christianson/RA.Aid) Coding agent for autonomous software development
 * [Replit – Build apps and sites with AI](https://replit.com/)
