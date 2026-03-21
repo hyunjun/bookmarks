@@ -465,6 +465,7 @@ Artificial Intelligence
 * [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
+* [바이브 코딩 시대의 조직 설계 :: ROBOCO](https://roboco.io/posts/organizational-design-for-vibe-coding/)
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -2853,6 +2854,9 @@ Artificial Intelligence
 * [SiteAgent — AI 웹 어시스턴트 by Ginigen AI](https://siteagent.ginigen.ai/)
   * [AI가 내 브라우저 안에 들어왔다: 보고 읽고 생각하고 스스로 클릭하는 AI 에이전트](https://arxivgpt.medium.com/ai%EA%B0%80-%EB%82%B4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%95%88%EC%97%90-%EB%93%A4%EC%96%B4%EC%99%94%EB%8B%A4-%EB%B3%B4%EA%B3%A0-%EC%9D%BD%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%81%B4%EB%A6%AD%ED%95%98%EB%8A%94-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-1b1f465f9e6f)
   * Chrome/Edge 확장 기반 16개 AI 도구 통합 패널. MARL 5단계 메타인지 추론, 한국어 최적화, 무료
+* [Skales — Free Desktop AI Agent](https://skales.app/)
+  * [skales: Free native desktop AI agent for Windows, macOS, and Linux](https://github.com/skalesapp/skales)
+  * 터미널·Docker 없이 설치하는 로컬 데스크톱 AI 에이전트. 이메일·캘린더·Telegram/WhatsApp, Playwright 브라우저 자동화, 13+ LLM 프로바이더, ~300MB RAM
 * [skywork.ai](https://skywork.ai/)
   * [SNS에서 난리 난 역대급 AI.... 데이터 찾고 그래프 그려주는 미친 퀄리티 PPT, 문서를 5분 만에 Skywork x 안될공학 - YouTube](https://www.youtube.com/watch?v=lcjIVXb-aLU)
   * [Skywork Desktop](https://skywork.ai/desktop)
