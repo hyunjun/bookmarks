@@ -271,6 +271,9 @@ Hardware
 * [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net ](https://github.com/Samsung/iotjs)
 * [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
 * [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
+* [RuView: Edge AI perception — WiFi signals to human pose estimation, vital signs, presence detection](https://github.com/ruvnet/RuView)
+  * [ruvector: WiFi CSI signal processing framework](https://github.com/ruvnet/ruvector/)
+  * WiFi CSI 분석으로 카메라 없이 인체 포즈 추정(17 키포인트), 호흡/심박 모니터링, 벽 통과 감지. ESP32-S3(~$8) 기반, 60개 WASM 엣지 모듈
 
 # Javascript
 * [elk: A low footprint JavaScript engine for embedded systems](https://github.com/cesanta/elk)
