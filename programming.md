@@ -5798,6 +5798,8 @@ Programming
 * [Suricata - Intrusion Detection and Prevention Security Tool](https://www.tecmint.com/suricata-intrusion-detection-prevention-linux/)
 * [tesseral: Open source auth infrastructure for B2B SaaS](https://github.com/tesseral-labs/tesseral)
   * [Tesseral - 오픈소스 B2B SaaS 인증 인프라 플랫폼 | GeekNews](https://news.hada.io/topic?id=21224)
+* [tookie-osint: Advanced OSINT information gathering tool — discover social media accounts by username](https://alfredredbird.github.io/tookie-osint/)
+  * [tookie-osint](https://github.com/Alfredredbird/tookie-osint)
 * [tracecat: 😼 The AI-native, open source alternative to Tines / Splunk SOAR](https://github.com/TracecatHQ/tracecat)
   * [TraceCat - AI 기반의 보안 경고 자동화 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=14029)
 * [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
