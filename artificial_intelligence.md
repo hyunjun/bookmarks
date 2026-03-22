@@ -3060,6 +3060,8 @@ Artificial Intelligence
 * [Claude Code + Playwright = 놀라운 브라우저 자동화입니다 - YouTube](https://www.youtube.com/watch?v=GaVoI5ZxV10)
   * [Claude Code와 Playwright로 놀라운 브라우저 자동화](https://livewiki.com/ko/content/claude-code-playwright-automation)
   * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
+* [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
+  * Pi/OpenClaw/Codex/Claude용 ACP 클라이언트. 영구 세션, 병렬 세션, 프롬프트 큐잉, 크래시 복구, JSON 출력
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
