@@ -2915,6 +2915,9 @@ AWS
 * [AWS Delete the access keys. Now you can use Roles Anywhere! (feat, Terraform) | by rex.chun | Medium](https://medium.com/@7424069/aws-delete-the-access-keys-now-you-can-use-rolesanywhere-feat-terraform-e52dae120f73)
 * [Securing AI agents with Amazon Bedrock AgentCore Identity | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/securing-ai-agents-with-amazon-bedrock-agentcore-identity/)
   * [Amazon Web Services Bedrock AgentCore Identity: Secure AuthN/Z for AI Agents | Mahmoud Rabie posted on the topic | LinkedIn](https://www.linkedin.com/posts/mahmoudrabie2004_cyberabrsecurityabrhighlights-didabryouabrknowabrthat-activity-7386157006711152640-_34N)
+* [cloudfox: Find exploitable attack paths in cloud infrastructure](https://github.com/BishopFox/cloudfox)
+  * [Introducing CloudFox | Bishop Fox](https://bishopfox.com/blog/introducing-cloudfox)
+  * AWS(34개)/Azure(4개)/GCP(60개) 커맨드로 클라우드 인프라 공격 경로 탐색. IAM 권한 분석, 노출 엔드포인트 발견, 크로스 계정 접근 벡터 매핑
 * [Pacu: 클라우드 엔지니어를 위한 AWS 공격적 보안 테스팅 프레임워크](https://velog.io/@lufianlee/pacu)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
