@@ -327,6 +327,7 @@ Finance
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
+  * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
 
 # Bank
