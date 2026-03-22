@@ -67,6 +67,8 @@ GIS
 
 # Library
 * [2021년 최신 시각화된 지도 제작 프로그램 &사이트 모음!](https://www.finereport.com/kr/%EC%A7%80%EB%8F%84-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
+* [Crucix: Open-source intelligence aggregation platform — 27 OSINT sources, one command, zero cloud](https://github.com/calesthio/Crucix)
+  * 위성 화재 감지, 항공기 추적, 방사선, 분쟁, 경제 지표, 시장 가격, 소셜 센티먼트를 15분 주기로 3D WebGL 대시보드에 통합. Telegram/Discord 알림
 * [dawarich: Self-hosted alternative to Google Location History (Google Maps Timeline)](https://github.com/Freika/dawarich)
   * [Hello from Dawarich | Dawarich](https://dawarich.app/)
   * [Dawarich - 구글 맵 타임라인의 셀프호스트 대체제 | GeekNews](https://news.hada.io/topic?id=18855)
