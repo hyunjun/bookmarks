@@ -113,6 +113,8 @@ Programmer
 * [**High School Dropout to OpenAI Researcher - Gabriel Petersson Interview (Extraordinary) - YouTube**](https://www.youtube.com/watch?v=vq5WhoPCWQ8)
   * [고등학교 중퇴자가 OpenAI 연구 과학자가 되기까지: 가브리엘 페테르손의 성공 비결과 AI 학습 전략](https://livewiki.com/ko/content/high-school-dropout-openai-researcher)
   * [고졸 출신이 OpenAI 연구원이 된 이야기 (정말 많이 공감되는 AI 시대 학습법) 스웨덴 시골 마을 고등학교 중퇴자가 어떻게 최고의 기업인 OpenAI, 그것도 Sora 팀의 연구원이 됐는지 가브리엘 피터슨이 직접 그 비결을 풀었습니다. AI 시대에 어떻게 변화해서 학습하고, 앞으론 어떻게 커리어를 쌓아야 하는지에 대한 "진짜 공략집"입니다.… | Jaeyun Henry Lee | 12 comments](https://www.linkedin.com/posts/jaeyunhenrylee_%EA%B3%A0%EC%A1%B8-%EC%B6%9C%EC%8B%A0%EC%9D%B4-openai-%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9D%B4-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%A0%95%EB%A7%90-%EB%A7%8E%EC%9D%B4-%EA%B3%B5%EA%B0%90%EB%90%98%EB%8A%94-ai-%EC%8B%9C%EB%8C%80-activity-7400448558228774912-hAVq)
+* [How AI assistance impacts the formation of coding skills \ Anthropic](https://www.anthropic.com/research/AI-assistance-coding-skills)
+  * [Anthropic이 자기 제품이 개발자 실력을 깎는다는 연구를 직접 발표했어. 52명 주니어 개발자한테 새 Python 라이브러리(Trio, 비동기 프로그래밍)를 배우게 했어. AI 쓴 그룹 퀴즈 점수 50%, 안 쓴 그룹 67%. 거의 두 등급 차이야. 특히 디버깅 문제에서 격차가 제일 컸어. 속도는? AI 쓴 그룹이 2분 빨랐는데, 통계적으로 유의미하지 않았어. AI한테 질문하고 프롬프트 다듬는 데 세션 시간의 30%를 쓰고 있었거든.](https://www.threads.com/@softdaddy_o/post/DWKoWKvk9iK)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
