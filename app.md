@@ -2680,6 +2680,12 @@ App
   * [My Obsidian And Gemini CLI Workflow - YouTube](https://www.youtube.com/watch?v=JGwFsyyewYc) terminal, templater
   * [My Ultimate Obsidian Setup - YouTube](https://www.youtube.com/watch?v=ZQTj8ZSDFw4)
     * File Color, Colored Tags, Code Styler, File Explorer++, Omnisearch, Commander, Editor Syntax Highlighter, Importer, Tag Wrangler
+  * MoC Map of Content
+    * [Linking Your Thinking](https://www.linkingyourthinking.com/)
+    * [Linking Your Thinking with Nick Milo - YouTube](https://www.youtube.com/@linkingyourthinking)
+    * [+ Start Here - LYT Kit](https://notes.linkingyourthinking.com/)
+    * [A case for MOCs - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/a-case-for-mocs/2418)
+    * [Maps of Content: Effortless organization for notes - Obsidian Rocks](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
