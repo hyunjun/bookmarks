@@ -4147,6 +4147,8 @@ Artificial Intelligence
     * [OpenClaw AWS Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_openclaw-aws-skill-activity-7434525929520971776-KmxA)
   * [openclaw-api-list: Curated list of APIs for OpenClaw agents](https://github.com/cporter202/openclaw-api-list)
   * [openclaw-memopt: Memory optimization and organizational protocol for AI agents](https://github.com/jason-allen-oneal/openclaw-memopt)
+  * [openclaw-outer-loop: Autonomous agent continuation across multiple turns](https://github.com/ARegalado1/openclaw-outer-loop)
+    * OpenClaw 3.13용 자율 연속 실행 플러그인. 에이전트가 조기 중단 없이 태스크 완료까지 멀티턴 자동 계속. /outerloop on/off 라이브 제어
   * [openclaw-skill-scanner: Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation](https://github.com/jason-allen-oneal/openclaw-skill-scanner)
   * [openclaw-supermemory: SuperMemory integration for OpenClaw agents](https://github.com/supermemoryai/openclaw-supermemory)
   * [OpenClaw-WORKSPACE-GOVERNANCE](https://github.com/Adamchanadam/OpenClaw-WORKSPACE-GOVERNANCE)
