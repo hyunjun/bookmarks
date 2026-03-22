@@ -2579,6 +2579,9 @@ Artificial Intelligence
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
 * [Nexus: Structural verification system for AI agent commands](https://github.com/Mephisto1122/Nexus)
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
+* [PentAGI — Penetration Testing AGI](https://pentagi.com/)
+  * [pentagi](https://github.com/vxcontrol/pentagi)
+  * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -4287,6 +4290,10 @@ Artificial Intelligence
 * [freebsd-brcmfmac: FreeBSD native WiFi driver for BCM4350 (MBP 2016) — in progress](https://github.com/narqo/freebsd-brcmfmac)
   * [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI built one for me - Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
   * [FreeBSD에는 내 오래된 MacBook용 Wi-Fi 드라이버가 없었다, 그래서 AI가 | GeekNews](https://news.hada.io/topic?id=26957)
+* [Kilo — All-in-one agentic engineering platform](https://kilo.ai/)
+  * [kilocode](https://github.com/Kilo-Org/kilocode)
+  * [Kilo CLI NVIDIA NIM으로 무료 AI 코딩 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Kilo-CLI-NVIDIA-NIM%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-Kimi-K25%EB%B6%80%ED%84%B0-GLM-47%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * OpenRouter 1위, 150만+ 사용자. VS Code 확장 + CLI, 500+ AI 모델, Architect/Coder/Debugger 모드
 * [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
   * [Introducing Kiro - Kiro](https://kiro.dev/blog/introducing-kiro/)
   * [전문 AI 코딩 도우미, Kiro를 소개합니다! :: Channy's Blog](https://channy.creation.net/blog/1941)
