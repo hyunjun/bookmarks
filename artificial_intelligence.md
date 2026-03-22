@@ -3460,6 +3460,8 @@ Artificial Intelligence
   * [claude-code-otel-gcp: Claude Code 텔레메트리를 GCP에서 수집·모니터링](https://github.com/jinseo-jang/claude-code-otel-gcp)
     * Cloud Run에 OTel Collector 배포, Cloud Monitoring + Cloud Logging으로 토큰 사용량·비용·세션·생산성 지표 추적. Terraform IaC, Grafana 대시보드 포함
   * [claude-code-starter: Claude Code 프로젝트 시작을 위한 CLAUDE.md, 스킬, 커맨드 템플릿](https://github.com/revfactory/claude-code-starter)
+  * [claude-cortex: File-based persistent memory system for Claude Code](https://github.com/renefichtmueller/claude-cortex)
+    * 세션 간 영구 메모리. 계층적 Markdown 파일(활동 로그, 프로젝트, 인시던트, 선호도)로 컨텍스트 유지. 백엔드 불필요, Git/클라우드 동기화
   * [Claude Code on the web - YouTube](https://www.youtube.com/watch?v=s-avRazvmLg)
     * [🌐클로드 코드 웹/모바일 출시: GitHub Actions로 완벽한 AI 개발 환경 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%8C%90%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%9B%B9%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%B6%9C%EC%8B%9C-GitHub-Actions%EB%A1%9C-%EC%99%84%EB%B2%BD%ED%95%9C-AI-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
     * [AGI KR | 앤트로픽, 웹 브라우저에서 병렬 코딩 가능한 'Claude Code' 출시 (출처: 뉴스) | Facebook](https://www.facebook.com/groups/agikr/permalink/2762127610794946/)
