@@ -1046,6 +1046,17 @@ Business
 * [버크셔 통신 '천재 CEO' 워런 버핏](https://www.buffettclub.co.kr/article-20251231/)
 * [보잉도, 3M도 '이 회사'를 따라하다 망했습니다 (GE 편) - YouTube](https://www.youtube.com/watch?v=htgiSO2NW-E) 잭 웰치 Jack Welch
   * [세계 1위 GE의 '최악' 경영 방식이 글로벌 기업들을 망가뜨린 이유](https://livewiki.com/ko/content/ge-worst-management)
+* [Researchers Asked LLMs for Strategic Advice. They Got Trendslop in Return | HBR](https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return)
+  * 주요 LLM(ChatGPT, Claude, GPT-5, Gemini 등)에 7가지 전략적 이항 선택 질문 → 맥락 무관한 유행어 편향(Trendslop) 일관 발생
+  * 발견된 편향: 원가 우위보다 차별화 선호, 자동화보다 증강 선호, 단기보다 장기 사고를 거의 항상 추천, 업종/상황 달라도 비슷한 "트렌디한" 전략 제안
+  * 원인: LLM이 인터넷의 비즈니스 담론을 학습하면서 "협업", "지속가능성", "차별화" 같은 단어에 긍정적 편향을 내면화. 맥락 분석이 아닌 "사회적으로 바람직한 평균 응답" 예측
+  * 더 나은 프롬프팅이나 추가 컨텍스트를 제공해도 편향 보정 효과 미미
+  * 리더를 위한 권고
+    * LLM은 옵션 확장용으로, 최종 선택에는 쓰지 말 것
+    * 알려진 편향을 의도적으로 반대 프롬프팅으로 상쇄
+    * 모델 버전마다 편향이 달라짐에 주의
+    * "둘 다 하라"는 하이브리드 함정 경계
+    * 맥락 정보 추가만으로는 편향 해결 불가
 * [Strategic Choices: When Both Options Are Good](https://longform.asmartbear.com/strategic-choices/)
   * [전략적 선택 | GeekNews](https://news.hada.io/topic?id=27186)
 * [The Brand Age | Paul Graham](https://paulgraham.com/brandage.html)
