@@ -5817,6 +5817,8 @@ Programming
 * [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
 * [WebAuthn : 네이버 카페](https://cafe.naver.com/xxxjjhhh/454)
   * [WebAuthn : 비밀번호 없는 로그인 시스템 - YouTube](https://www.youtube.com/watch?v=ZgRmEHHj1CM)
+* [xpfarm: Open-source vulnerability scanner — 10 security tools in a unified web interface](https://github.com/canuk40/xpfarm)
+  * Subfinder·Naabu·Nuclei·Nmap 등 10개 보안 도구 통합. AI 바이너리 분석 에이전트(Overlord), Discord/Telegram 알림
 * [ZAP](https://www.zaproxy.org/) vulnerability scanner
 * [ZITADEL - Identity infrastructure, simplified for you.](https://github.com/zitadel/zitadel)
   * [ZITADEL - 아이덴티티 인프라 오픈소스 | GeekNews](https://news.hada.io/topic?id=23278)
