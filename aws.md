@@ -2085,6 +2085,7 @@ AWS
 * [The dangers of serverless at scale: a cautionary tale | Charlie Holland님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/chaholl_serverless-at-scale-is-bullshit-on-a-recent-activity-7376198764505493505-U6jm)
 * [Reliable AWS Lambda Data Pipelines with AsyncAPI Specification • Hari Krishnan • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=3McRayR31D4)
   * [AsyncAPI로 AWS Lambda 데이터 파이프라인 테스트 및 계약 기반 개발](https://livewiki.com/ko/content/aws-lambda-data-pipelines-asyncapi)
+* [Powertools for AWS Lambda - Best Practices By Default](https://darryl-ruggles.cloud/powertools-for-aws-lambda-best-practices-by-default)
 * [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
   * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
     * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
