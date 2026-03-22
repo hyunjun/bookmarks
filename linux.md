@@ -1610,6 +1610,7 @@ Linux
 * [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 * [Linux Kernel network (networking stack)](https://pr0gr4m.tistory.com/entry/Linux-Kernel-network-networking-stack)
 * [What they don't teach you about sockets](https://macoy.me/blog/programming/Sockets)
+* [sonar: CLI tool to inspect and manage services listening on localhost ports](https://github.com/raskrebs/sonar)
 
 # Shell
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
