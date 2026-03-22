@@ -1379,6 +1379,8 @@ App
 
 # Homeserver
 * [(EP.12) 평생 서버비용 아끼는 방법. 무료 홈서버 BEST 5 (N100 미니PC 활용) - YouTube](https://www.youtube.com/watch?v=2SuHn0jMjIM)
+* [project-nomad: Node for Offline Media, Archives, and Data — self-contained offline-first knowledge and AI platform](https://github.com/Crosstalk-Solutions/project-nomad)
+  * Docker 기반 오프라인 지식/AI 플랫폼. Ollama AI 채팅, 오프라인 Wikipedia/Kiwix, 지역 지도, CyberChef 암호화, 교육 콘텐츠. 인터넷 없이 운영
 * [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
 
 # iPhone iOS
