@@ -2594,6 +2594,7 @@ NLP
   * [LLM 기반으로 AI 제품 평가하기. LLM을 이용한 평가 자동화 방법과 그 한계 알기 | by Jonas Kim | Jul, 2024 | Medium](https://medium.com/@aldente0630/llm-%EA%B8%B0%EB%B0%98-rag-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%8F%89%EA%B0%80-5aaeca30365e)
 * [A Visual Guide to Quantization - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   * [LLM 양자화에 대한 비쥬얼 가이드 | GeekNews](https://news.hada.io/topic?id=16107)
+* [LLM 양자화(Quantization): 원리부터 코드까지 - GPU 메모리는 왜 4배 줄어들까?](https://doobeom-coding.tistory.com/84)
 * [Lean Copilot: An AI Tool that Allows Large Language Models (LLMs) to be used in Lean for Proof Automation - MarkTechPost](https://www.marktechpost.com/2024/07/30/lean-copilot-an-ai-tool-that-allows-large-language-models-llms-to-be-used-in-lean-for-proof-automation/)
 * [Arpita Gupta on LinkedIn: What’s the diff between LLMs & Transformers ? Lets go Back to Roots LLMs… | 24 comments](https://www.linkedin.com/posts/arpita-gupta-5a05b044_whats-the-diff-between-llms-transformers-activity-7225575147443793920-yfD0)
   * LLMs and transformers are both open-source AI models based on deep learning
