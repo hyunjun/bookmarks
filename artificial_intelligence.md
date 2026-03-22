@@ -3678,6 +3678,7 @@ Artificial Intelligence
 * [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
   * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+  * [How OpenAI Codex Works | ByteByteGo](https://blog.bytebytego.com/p/how-openai-codex-works)
   * [Codex 101 — OpenAI Codex Practical Guide for Real Work](https://swhan0329.github.io/codex-101/)
     * [Codex 101 | swhan0329](https://www.linkedin.com/posts/swhan0329_codex-ugcPost-7436225045300985856-0gTH)
     * 한국 실무자를 위한 OpenAI Codex 완전 가이드. CLI/앱/IDE 확장/웹 대시보드 활용법, GPT-5.4 프롬프팅, MCP 연동까지 실무 적용 순서
@@ -4152,6 +4153,9 @@ Artificial Intelligence
     * [OpenClaw AWS Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_openclaw-aws-skill-activity-7434525929520971776-KmxA)
   * [openclaw-api-list: Curated list of APIs for OpenClaw agents](https://github.com/cporter202/openclaw-api-list)
   * [openclaw-memopt: Memory optimization and organizational protocol for AI agents](https://github.com/jason-allen-oneal/openclaw-memopt)
+  * [openclaw-memory-decay: Memory plugin inspired by how human memory actually works](https://github.com/tmdgusya/openclaw-memory-decay)
+    * [openclaw-memory-decay | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7441169450155974656/)
+    * 시간 기반 망각, 검색 강화(테스트 효과), 확산 활성화. 그래프 기반 아키텍처로 자주 쓰는 기억은 유지, 노이즈는 자동 소멸
   * [openclaw-outer-loop: Autonomous agent continuation across multiple turns](https://github.com/ARegalado1/openclaw-outer-loop)
     * OpenClaw 3.13용 자율 연속 실행 플러그인. 에이전트가 조기 중단 없이 태스크 완료까지 멀티턴 자동 계속. /outerloop on/off 라이브 제어
   * [openclaw-skill-scanner: Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation](https://github.com/jason-allen-oneal/openclaw-skill-scanner)
