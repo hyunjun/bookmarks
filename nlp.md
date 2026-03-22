@@ -3970,6 +3970,8 @@ NLP
 * [Xiaomi MiMo API Open Platform](https://platform.xiaomimimo.com/)
   * [MiMo-V2-Flash: MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model](https://github.com/XiaomiMiMo/MiMo-V2-Flash?tab=readme-ov-file)
     * [Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-v2-flash)
+  * [MiMo V2 Pro](https://mimo.xiaomi.com/mimo-v2-pro)
+    * [Hunter Alpha 미스터리 샤오미 MiMo-V2-Pro 정체 공개](https://fornewchallenge.tistory.com/entry/%F0%9F%94%8D-Hunter-Alpha-%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%EC%83%A4%EC%98%A4%EB%AF%B8-MiMo-V2-Pro-%EC%A0%95%EC%B2%B4-%EA%B3%B5%EA%B0%9C)
 * [xionic-ko-llama-3-70b](https://github.com/sionic-ai/xionic-ko-llama-3-70b)
 * [Yi: A series of large language models trained from scratch by developers @01-ai](https://github.com/01-ai/yi)
   * [Yi - 차세대 오픈소스 이중언어 LLM | GeekNews](https://news.hada.io/topic?id=13767)
