@@ -3026,6 +3026,11 @@ Artificial Intelligence
     * [데이터 - Track 2 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회) - 대상수상팀 최대 25억원 사업화 지원](https://aifactory.space/task/9237/data)
 * [끝난 줄 알았던 AI 코딩 도구 경쟁, 1인 개발자가 뒤집었습니다 AI 코딩 도구 시장은 어느정도 결판이 난 게임처럼 보였습니다. Anthropic은 수십억 달러를 투자받아 Claude Code를 출시했습니다. OpenAI에서도 Codex를 내놓았습니다. Cursor는 수억 달러를 유치했습니다. 자본, 인력, 데이터. 개인이 이길 방법이 없어… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EB%81%9D%EB%82%9C-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EA%B2%BD%EC%9F%81-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%92%A4%EC%A7%91%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-activity-7414417993180303360--BM0)
 * [기업/헤비유저 관점에서 본 최고의 프로덕션레벨 가성비 바이브 코딩 도구 (2026년 1월 기준) :: ROBOCO](https://roboco.io/posts/best-production-vibe-coding-tool-jan2026/)
+* [바이브코딩: 프롬프팅을 넘어 파이프라인으로 - 커서맛피아(최수민) | 모두콘 2025 - YouTube](https://www.youtube.com/watch?v=238848ZqvsE)
+  * [개발자가 바이브코딩하는 법 | SU MIN CHOI](https://www.linkedin.com/posts/su-min-choi-265a961b2_feat-interactive-run-mode-p-first-class-share-7441111062780968960-PdiG/)
+  * [cc-company task-create.md](https://github.com/greatSumini/cc-company/blob/main/prompts/task-create.md)
+  * [cc-company plan-and-build.md](https://github.com/greatSumini/cc-company/blob/main/.claude/commands/plan-and-build.md)
+  * AI와 대화로 컨텍스트 축적 → 태스크 페이즈 분할 → Python 스크립트로 순차 실행. git 등 반복 작업은 CLI에 위임, LLM 세션은 핵심 코딩에 집중
 * [Agent Skills vs. Rules vs. Commands](https://www.builder.io/blog/agent-skills-rules-commands)
   * AI 코딩 도구가 발전함에 따라 컨텍스트 관리의 중요성 상승
     * 모든 지침을 한곳에 넣으면 노이즈가 발생하므로, 상황에 따라 정보를 '지연 로딩(Lazy Loading)'하는 기술(Skills) 개념이 핵심
