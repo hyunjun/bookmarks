@@ -3558,6 +3558,8 @@ Artificial Intelligence
   * [claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more](https://github.com/getAsterisk/claudia)
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
+  * [code-review-graph: Local knowledge graph for Claude Code](https://github.com/tirth8205/code-review-graph)
+    * Tree-sitter 파싱으로 코드베이스 구조 그래프 생성, blast-radius 분석으로 관련 파일만 읽기. 코드 리뷰 토큰 6.8배 절감(대형 모노레포 최대 49배). 14개 언어, SQLite 로컬
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
   * [COps - Code agent Ops](https://github.com/team-attention/cops/)
     * [Create TanStack App - web](https://cops.team-attention.com/)
