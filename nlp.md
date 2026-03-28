@@ -459,6 +459,8 @@ NLP
   * 2. 소비자용 GPU 지원: 과거 192GB VRAM이 필요했던 작업을 24GB VRAM(RTX 3090/4090 등)에서 수행 가능, 개인 개발자 접근성 향상
   * 3. 정확도 보존: 근사치 계산이 아닌 정확한 계산 방식을 사용하여 성능 저하 없이 최적화 달성
   * 4. 통합 최적화: vLLM 대기 모드(Standby), 플렉스 어텐션(Flex Attention)등 신기술을 결합, 긴 문맥 학습 시 발생하는 병목 현상 해결
+* [2603.19220v2 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/html/2603.19220v2)
+  * [NVIDIA Nemotron-Cascade-2: 활성화 3B 모델로 IMO 금메달 달성](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%86-NVIDIA-Nemotron-Cascade-2-30B-%EB%A1%9C-%EA%B8%88%EB%A9%94%EB%8B%AC-%EB%8B%AC%EC%84%B1)
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
@@ -3405,6 +3407,8 @@ NLP
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
 * [Liquid Docs](https://docs.liquid.ai/)
   * [Small-fine-tuning: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK](https://github.com/0xSojalSec/Small-fine-tuning)
+* [LiteLLM — Call 100+ LLMs using the OpenAI format](https://docs.litellm.ai/)
+  * [litellm](https://github.com/BerriAI/litellm)
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
@@ -4220,6 +4224,7 @@ NLP
 * [PyCon Korea 2025 RAG 애플리케이션 개발을 위한 Chunking 최적화 - 강성우 - YouTube](https://www.youtube.com/watch?v=jgFduVaa07M)
 * [RAG가 더 이상 AI 제품의 표준 아키텍처가 아닌 이유 | Minkyu Jung](https://www.linkedin.com/posts/minkyujung_boris-cherny-bcherny-on-x-activity-7436238540520194048-6RcM)
   * 구조 있는 데이터는 SQL/파일시스템 직접 탐색(Claude Code는 Glob+Grep만으로 수백만줄 탐색), 구조 없는 데이터는 Knowledge Graph로 구조화, 프롬프트 캐싱으로 100만+ 토큰 전체 포함
+* [RAG 시스템의 치명적 약점 | Seongeun So](https://www.linkedin.com/posts/sungeuns2_rag-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%B9%98%EB%AA%85%EC%A0%81-%EC%95%BD%EC%A0%90)
 * [How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs](https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/)
   * Cloudflare Workers + Vectorize + Workers AI로 프로덕션 RAG 구축. 월 $8~10으로 운영 가능(경쟁사 $50~200 대비). 데이터 파이프라인·쿼리 처리·에러 핸들링·보안까지 실전 코드 포함
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
