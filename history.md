@@ -129,6 +129,7 @@ History
 * [26년생 김희숙, 26년생 김종필 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=a0002451712)
 * [기사 - 4·3, 기나긴 침묵 밖으로 : 왜 그리 많이 죽었고 왜 그리 많이 떠났나](https://www.ddanzi.com/ddanziNews/768462506)
 * [조태용 - 한국 농산물은 다른 나라에 비하여 가격이 꽤 높은 편이다. 하지만 농산물만 비쌀까? 아니다. 대한민국은... | Facebook](https://www.facebook.com/farmmate0617836245/posts/pfbid0tL6rnD8W4geEbThUosKS64WBNVxVxR8zXfL6MKKkoEQX4CnDosUsGbhVKQt8PVmQl)
+* ["끔찍한 '한국 정부 학살' 세계에 알릴 것" 안녕 진화위㉓](https://v.daum.net/v/20260323070628687)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
@@ -359,6 +360,7 @@ History
 * [미국과 개인주의](https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/) 역사는 아니고 문화에 대한 이야기
 * [김지윤 박사와 함께 미국 정치 영화를 본다면? - YouTube](https://www.youtube.com/watch?v=P2k8uTZKOBI)
 * [“취하면 때리고 성매매하는 남편 말려주세요”...막장 다 몰린 동네에 금주령 내렸더니 히코노미](https://v.daum.net/v/20251213061501752)
+* [미국은 폭격기를, 쿠바는 의사들을 보냈다](https://n.news.naver.com/article/006/0000134965)
 
 # Asia
 * [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
