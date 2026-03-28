@@ -230,21 +230,69 @@ Travel
 * [My First Glimpses of Bali, An Island for Everyone](https://medium.com/@guptapranky/my-first-glimpses-of-bali-an-island-for-everyone-and-some-essential-travel-tips-c18c300cdb54)
 
 ## Japan
-* [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
-* [퇴사준비생의 도쿄 출장지 27](http://1boon.kakao.com/publy/tokyo1)
 * [ko.wasa-bi.com](http://ko.wasa-bi.com/)
 * [livejapan.com/ko](https://livejapan.com/ko/)
-* [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
-* [로컬 문화를 경험할 수 있는 오사카 숙소 5 | ㅍㅍㅅㅅ](https://ppss.kr/archives/259133)
-* [세계 문화 유산 지정 논란의 장소, 일본 '군함 섬'에 가다](http://www.huffingtonpost.kr/2015/05/25/story_n_7434496.html)
 * [연휴 활용해 갈 수 있는 일본 여행지 4](http://www.huffingtonpost.kr/2015/09/24/story_n_8187334.html)
-* [역사와 로망이 깃든 섬, 나가사키](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161013094617186&RIGHT_LIFE=R3)
-* ['유니버셜 스튜디오 재팬' 여행 꿀팁 총정리](http://1boon.daum.net/wishbeen/20161101)
-* [잘 먹고 갑니다, 후쿠오카 먹다 보면 알게 되는 것들](https://brunch.co.kr/@mistyfriday/113)
+* [직항으로 갈 수 있는 일본 소도시 여행지 10](https://brunch.co.kr/@expediakr/352)
+
+### 간토 (도쿄)
+* [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
+* [퇴사준비생의 도쿄 출장지 27](http://1boon.kakao.com/publy/tokyo1)
+
+### 간사이
+* [일본 가기 전 필수시청 무조건 챙겨야하는 일본여행 준비물 필수템 추천 - YouTube](https://www.youtube.com/watch?v=MYDJlffibaM)
+* [오사카 쇼핑 이건 꼭 사! 일본에서 더 안 산 걸 후회하는 만족도 100% 쇼핑리스트 - YouTube](https://www.youtube.com/watch?v=JNmA3qbZYtk)
+
+#### 오사카
+* 종합 가이드
+  * [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
+  * [오사카 여행 여행 전 알고 가면 유익한 오사카 정보 15가지 - YouTube](https://www.youtube.com/watch?v=wZIwKZUbtEE)
+  * [오사카 3박 4일 재방문의사 200% 찐맛집부터 우메다·난바·신사이바시까지 - YouTube](https://www.youtube.com/watch?v=UKks3nfu80k)
+  * [나 혼자 7번째 오사카여행 오친자가 말아주는 1박2일 맛집코스 - YouTube](https://www.youtube.com/watch?v=mzlxS63DtF0)
+  * [오사카 2박3일 vlog 인생 디저트+맛집 발견 - YouTube](https://www.youtube.com/watch?v=SUlKMNIqVbE)
+  * [오사카 ep.2 우메다 찐맛집 대방출+교토 자유여행 - YouTube](https://www.youtube.com/watch?v=SR94Lzf8_sM)
+* 숙소
+  * [로컬 문화를 경험할 수 있는 오사카 숙소 5 | ㅍㅍㅅㅅ](https://ppss.kr/archives/259133)
+  * [오사카 호텔 추천 절대 후회 없을 숙소로만 엄선 - YouTube](https://www.youtube.com/watch?v=ocIanDoF8oE)
+* 맛집
+  * [오사카 6일 29끼 찐맛집 족보정리 - YouTube](https://www.youtube.com/shorts/bVEWtDpZlP4)
+  * [오사카 맛집 특집 매년 오사카 가는 파워J가 추천하는 오사카 맛집 베스트6 - YouTube](https://www.youtube.com/watch?v=GsgG-WhHuus)
+  * [오사카 4박 5일 먹방: 구글 평점 보지 마세요, 직접 먹어본 솔직후기 - YouTube](https://www.youtube.com/watch?v=eSEmea4Cc6I)
+  * [먹다 탕진 가능한 음식의 천국 오사카 맛집 투어 톡파원 25시 - YouTube](https://www.youtube.com/watch?v=lIaKvdWzASk)
+  * [24년 오사카 맛집 14곳 추천 밥집, 이자카야, 카페 총정리 - YouTube](https://www.youtube.com/watch?v=LBgchmnXq6g)
+  * [도톤보리에서 뭐 먹지? 맛집 10군데 - YouTube](https://youtube.com/shorts/zJeTfGAA3WU)
+* 관광/놀거리
+  * [오사카에 가면 이 중에 4곳은 무조건 다녀와야 됩니다 - YouTube](https://www.youtube.com/shorts/sS5EB71FNSs)
+  * [일본 추천 여행지 오사카 관광명소 BEST5 - YouTube](https://www.youtube.com/shorts/VxsPpG1lncY)
+  * [마츠다부장님이 알려주는 오사카 동네한바퀴 - 난바 도톤보리편 - YouTube](https://www.youtube.com/watch?v=5Sxfq3n-EIQ)
+  * ['유니버셜 스튜디오 재팬' 여행 꿀팁 총정리](http://1boon.daum.net/wishbeen/20161101)
+  * [올해 가장 재밌었던 오사카 USJ 유니버설 스튜디오 재팬 - YouTube](https://www.youtube.com/watch?v=_4Lbllr3lJU)
+  * [C시즌 USJ후기 유니버셜스튜디오 솔찍후기](https://naver.me/xSBOWzAX)
+
+#### 교토
+* 종합 가이드
+  * [교토 제대로 보고 싶은 사람들을 위한 가이드 - YouTube](https://www.youtube.com/watch?v=eao3LXfyN-A)
+  * [꿈같던 교토 4박5일 흔하지 않은 '요즘' 교토 코스 - YouTube](https://www.youtube.com/watch?v=AAvsbTMtpsE)
+  * [교토 여행 vlog 꼭 가야하는 교토 스팟·쇼핑 성공템 - YouTube](https://www.youtube.com/watch?v=wOEOpMISCCY)
+  * [사람많은 교토여행은 이제 그만! 교토의 숨겨진 장소들 3박4일 - YouTube](https://www.youtube.com/watch?v=JGzl7EVoF-Q)
+  * [나홀로 교토여행 2박 3일 예쁜 곳만 모았어요 교토 인생카페,숙소 추천 - YouTube](https://www.youtube.com/watch?v=6iuSjjZsd1E)
+  * [황홀했던 나혼자 교토 3박4일 여행 왕복 13만원으로 뽕뽑기 - YouTube](https://www.youtube.com/watch?v=B-pyb6cpqUo)
+* 맛집/카페
+  * [2025 최신편! NEW 필수 교토맛집 560년 전통부터 현지인맛집까지 - YouTube](https://www.youtube.com/watch?v=s8Pmna5_Sqk)
+  * [교토 5박6일 브이로그 음식이 제일 중요한 사람 맛집·카페 완벽 코스 여행 - YouTube](https://www.youtube.com/watch?v=86CN2TpcR_M)
+  * [교토 맛집 후회없는 4곳 가성비 좋고 맛도 좋은 곳 - YouTube](https://www.youtube.com/shorts/n2UhT3W0BLU)
+  * [春に行きたい最新おすすめ京都カフェ10選 - YouTube](https://www.youtube.com/watch?v=szuE5joWwic)
+  * [春の嵐山でカフェも食べ歩きも桜も楽しむ日 - YouTube](https://www.youtube.com/watch?v=TvvOU0gNu5Y)
+
+### 홋카이도
 * [홋카이도 단상](https://estimastory.com/2017/08/13/hokkaido/)
 * [홋카이도 한달살기](https://brunch.co.kr/magazine/summerhokkaido)
-* [직항으로 갈 수 있는 일본 소도시 여행지 10](https://brunch.co.kr/@expediakr/352)
-* [노천탕이 매력적인 유후인 료칸 추천 4선 | ㅍㅍㅅㅅ](https://ppss.kr/archives/261635)
+
+### 규슈
+* [세계 문화 유산 지정 논란의 장소, 일본 '군함 섬'에 가다](http://www.huffingtonpost.kr/2015/05/25/story_n_7434496.html) 나가사키
+* [역사와 로망이 깃든 섬, 나가사키](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161013094617186&RIGHT_LIFE=R3)
+* [잘 먹고 갑니다, 후쿠오카 먹다 보면 알게 되는 것들](https://brunch.co.kr/@mistyfriday/113)
+* [노천탕이 매력적인 유후인 료칸 추천 4선 | ㅍㅍㅅㅅ](https://ppss.kr/archives/261635) 오이타
 
 ## Laos
 * [라오스 여행을 가기 전에 반드시 알아야 할 7가지](http://ppss.kr/archives/33117)
