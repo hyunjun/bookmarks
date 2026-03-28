@@ -2984,6 +2984,7 @@ Business
 * [Relationship Between Leadership, Personality, and the Dark Triad in Workplace: A Systematic Review](https://www.mdpi.com/2076-328X/15/3/297)
   * [리더십, 성격, 다크 트라이어드 | Soojeong Bae](https://www.linkedin.com/posts/crystal0224_relationship-between-leadership-personality-share-7438031123735019520-WdBA)
   * 나르시시즘 높은 리더가 승진·연봉에서 유리하나 실제 리더십 성과는 낮음. 다크 트라이어드 특성 결합 시 성과 급락, 유사 성향 후임 승진시켜 조직 문화 악화. 360도 하향 피드백과 팀 건강 지표 반영 필요
+* [불편함 피하는 회피형 리더가 팀도, 커리어도 망치는 이유ㅣ한기용의 나침반 - YouTube](https://www.youtube.com/watch?v=PXu_ryiqTm0)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
