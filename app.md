@@ -1662,6 +1662,8 @@ App
   * [Applescript로 간단한 카톡 자동 대화하기](https://jiyeonseo.github.io/2019/12/28/applescript/)
   * [(예제로 알아보는) AppleScript와 Hammerspoon을 이용한 반복업무 자동화](https://spilist.notion.site/AppleScript-Hammerspoon-f5af9b201916431f955a30cc8591ba68)
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
+* [Atoll — Dynamic Island for macOS](https://altic.dev/fluid)
+  * [FluidVoice](https://github.com/altic-dev/FluidVoice)
 * [Awesome Mac application sharing recommendation - Awesome Mac](https://wangchujiang.com/awesome-mac/)
   * [awesome-mac:  Now we have become very big, Different from the original idea. Collect premium software in various categories](https://github.com/jaywcjlove/awesome-mac)
 * [awesome-macOS:  A curated list of awesome applications, softwares, tools and shiny things for macOS.](https://github.com/iCHAIT/awesome-macOS)
