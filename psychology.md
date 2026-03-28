@@ -111,3 +111,4 @@ Psychology
   * [VidiGo 뇌과학적으로 게으름, 무기력 끊어내는 방법.mp4](https://vidigo.ai//share/summary/10be2e561d35)
   * [뇌과학적으로 게으름, 무기력 끊어내는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438624)
   * [그녀는 웃을 때마다 나를 본다…왜 그럴까 의사소통의 심리학](https://v.daum.net/v/20251220084209441) 공동주의(共同注意, Joint-attention)
+* [밖에서는 참는데 집에 오면 폭발하는 이유 - YouTube](https://www.youtube.com/watch?v=HvKP6qlB4eA)
