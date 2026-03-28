@@ -466,6 +466,8 @@ NLP
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
   * [How KV caching boosts LLM performance | Harshada Jivane posted on the topic | LinkedIn](https://www.linkedin.com/posts/harshadajivane_understanding-kv-caching-in-transformers-activity-7385951225428713472-e4HH)
 * [왜 모델은 첫 문장을 내뱉기 전에 잠시 멈춰 있는 것일까?  | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-sluslqriwqzc-ai-ugcPost-7404997839216369664-jRk-) TTFT(Time to First Token) KV Caching
+* [TurboQuant: Redefining AI Efficiency with Extreme Compression | Google Research](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+  * [KV 캐시를 이렇게까지 압축해도 성능이 유지된다면? TurboQuant 초압축 AI 기술 핵심](https://digitalbourgeois.tistory.com/2924)
 * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 - YouTube](https://www.youtube.com/watch?v=zHQLPJ8-9Qc)
   * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%88%98%EB%A7%8E%EC%9D%80-%EC%A0%95%EB%B3%B4%EB%8A%94-llm-%EB%AA%A8%EB%8D%B8-%EC%86%8D-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C-dl-7-activity-7386236075452764160-XNhk)
     * 대규모 언어 모델(LLM), 특히 트랜스포머 아키텍처의 핵심 구성 요소인 멀티레이어 퍼셉트론(MLP) 레이어가 사실적 지식을 저장하고 처리하는 방식을 설명
