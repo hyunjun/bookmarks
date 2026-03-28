@@ -3004,6 +3004,7 @@ Artificial Intelligence
     * [원티드 AX 컨퍼런스 AI에게 대체될까 두려운 개발자들에게 - 후기 + 슬라이드 PDF](https://www.stdy.blog/for-developers-who-are-afraid-of-being-replaced-by-ai/)
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
+* [토스 최초의 PO와 최연소 PO가 해커톤에서 AI 클론 연애 서비스를 만들고 있습니다 | rdod](https://www.linkedin.com/posts/rdod_%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%B4%88%EC%9D%98-po-%EC%9D%B4%ED%83%9C%EC%96%91-%EB%8C%80%ED%91%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%97%B0%EC%86%8C-po-%EC%B5%9C%ED%98%95%EB%B9%88)
 * [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
 * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
@@ -3085,6 +3086,7 @@ Artificial Intelligence
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
   * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
+* [AI WhatChelin? — AI 코딩/생산성 도구 비교 가이드 (자동 업데이트)](https://github.com/tykimos/ai-whatchelin)
 * [AxonHub — Open-source AI gateway for 100+ LLMs](https://axonhub.onrender.com/)
   * [axonhub](https://github.com/looplj/axonhub)
   * 하나의 API로 100+ LLM 호출, sub-100ms 페일오버, RBAC, 실시간 비용 추적. OpenAI/Anthropic/Gemini 호환
@@ -3425,6 +3427,8 @@ Artificial Intelligence
   * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
+  * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
+  * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
     * Claude Code 자율 실행 세션에 Discord 브릿지 연결. 작업 중 대화 가능, 중단 시 알림 수신
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
@@ -3703,6 +3707,7 @@ Artificial Intelligence
 * [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
   * [코딩 에이전트들이 이제는 정말 완벽... 그 결과물을 읽고 리뷰하기 전까지는 | LinkedIn](https://www.linkedin.com/posts/eatnug_github-team-attentionsidecar-stay-in-activity-7404656180175982593-lo30/)
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+  * [Codex App Server README](https://github.com/openai/codex/blob/main/codex-rs/app-server/README.md)
   * [How OpenAI Codex Works | ByteByteGo](https://blog.bytebytego.com/p/how-openai-codex-works)
   * [Codex 101 — OpenAI Codex Practical Guide for Real Work](https://swhan0329.github.io/codex-101/)
     * [Codex 101 | swhan0329](https://www.linkedin.com/posts/swhan0329_codex-ugcPost-7436225045300985856-0gTH)
@@ -4142,6 +4147,8 @@ Artificial Intelligence
     * OpenClaw 확장. 데이터 민감도 자동 분류(S1~S3), 로컬/클라우드 라우팅으로 프라이버시 보호 + API 비용 60~80% 절감. Tsinghua/Renmin 공동 개발
   * [Entropic — Downloadable OpenClaw Securely Isolated on Your Device](https://entropic.qu.ai/)
     * 로컬 실행 데스크톱 OpenClaw. macOS/Windows/Linux 지원, 샌드박스 격리, 자체 API 키 사용 가능
+  * [fastclaw: Lightweight self-hosted AI Agent framework in Go — faster OpenClaw alternative](https://github.com/fastclaw-ai/fastclaw)
+    * Go 단일 바이너리, OpenAI 호환 API, 멀티채널 메시징, 플러그인 시스템, 웹 대시보드. 외부 의존성 제로
   * [GoClaw — Multi-agent AI gateway built in Go](https://goclaw.sh/)
     * [goclaw](https://github.com/nextlevelbuilder/goclaw)
     * OpenClaw Go 포트. ~25MB 단일 바이너리, 멀티테넌트 PostgreSQL, 20+ LLM, 7채널, 5계층 권한 시스템
