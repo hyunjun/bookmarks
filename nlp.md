@@ -4230,6 +4230,10 @@ NLP
     * [Meta Superintelligence, 놀라운 첫 논문 ‘REFRAG’으로 RAG 효율 | GeekNews](https://news.hada.io/topic?id=23603)
   * [REFRAG: Rethinking RAG based Decoding, 논문 정리](https://velog.io/@gathers/REFRAG-Rethinking-RAG-based-Decoding-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC)
   * [REFRAG-style RAG (compress → sense/select → expand) — Single-file reference implementation](https://github.com/simulanics/REFRAG)
+* [2603.23516 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens](https://arxiv.org/abs/2603.23516)
+  * [GitHub Stars 2200개 코드는 아직 한 줄도 없는데 논문 | Hansol Nam](https://www.linkedin.com/posts/hansol-nam_github-stars-2200%EA%B0%9C-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%95%84%EC%A7%81-%ED%95%9C-%EC%A4%84%EB%8F%84-%EC%97%86%EB%8A%94%EB%8D%B0-%EB%85%BC%EB%AC%B8-share-7443215773956931584-P8sJ/)
+  * 16K→100M 토큰 스케일링 시 성능 저하 9% 미만. 스파스 어텐션 + 문서별 포지셔널 인코딩으로 소비자 GPU에서 추론 가능. 기존 프론티어 모델·RAG 대비 장문맥 벤치마크 대폭 개선
+  * [MSA](https://github.com/EverMind-AI/MSA)
 * [Arctic_Agentic_RAG](https://github.com/Snowflake-Labs/Arctic_Agentic_RAG)
   * [Arctic Agentic RAG: Smarter, Faster, and More Reliable AI for Enterprise](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-enterprise-ai/)
   * [Arctic Agentic RAG Ep. 1: Enhancing Query Clarity for Faster AI Responses](https://www.snowflake.com/en/engineering-blog/arctic-agentic-rag-query-clarification/)
