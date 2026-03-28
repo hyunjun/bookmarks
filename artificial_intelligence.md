@@ -4133,6 +4133,9 @@ Artificial Intelligence
     * OpenClaw 확장. 데이터 민감도 자동 분류(S1~S3), 로컬/클라우드 라우팅으로 프라이버시 보호 + API 비용 60~80% 절감. Tsinghua/Renmin 공동 개발
   * [Entropic — Downloadable OpenClaw Securely Isolated on Your Device](https://entropic.qu.ai/)
     * 로컬 실행 데스크톱 OpenClaw. macOS/Windows/Linux 지원, 샌드박스 격리, 자체 API 키 사용 가능
+  * [GoClaw — Multi-agent AI gateway built in Go](https://goclaw.sh/)
+    * [goclaw](https://github.com/nextlevelbuilder/goclaw)
+    * OpenClaw Go 포트. ~25MB 단일 바이너리, 멀티테넌트 PostgreSQL, 20+ LLM, 7채널, 5계층 권한 시스템
   * [habit-sprint: AI-powered habit tracking and productivity sprint manager for OpenClaw](https://github.com/ericblue/habit-sprint)
   * [hermitclaw: Autonomous AI creature that researches in folders](https://github.com/brendanhogan/hermitclaw/)
     * [HermitClaw: 폴더 안에서 스스로 연구하는 자율 AI 크리처 아키텍처와 동작 원리](https://digitalbourgeois.tistory.com/2779)
@@ -4220,6 +4223,7 @@ Artificial Intelligence
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
+* [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
