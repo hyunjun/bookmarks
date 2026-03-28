@@ -124,6 +124,8 @@
   * 두 번째 흐름은 지면을 수익화하고 싶은 기업들의 수요는 여전히 증가
 * [Google is dead. Where do we go now? - Circus Scientist](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
   * [Google Ads는 죽었다. 이제 어디로 가야 할까? | GeekNews](https://news.hada.io/topic?id=25431)
+* [Tips to Collaborate with Agentic Advisors | Google](https://blog.google/products/ads-commerce/tips-to-collaborate-with-agentic-advisors)
+  * [Ads Advisor와 Analytics Advisor로 협업하는 5가지 방법](https://digitalbourgeois.tistory.com/2926)
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
