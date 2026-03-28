@@ -846,7 +846,6 @@ Artificial Intelligence
     * [Andrej Karpathy on Code Agents | GeekNews](https://news.hada.io/topic?id=27706)
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
   * [Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임 | GeekNews](https://news.hada.io/topic?id=26883)
-  * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
     * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
   * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
   * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
@@ -2582,6 +2581,8 @@ Artificial Intelligence
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
 * [Nexus: Structural verification system for AI agent commands](https://github.com/Mephisto1122/Nexus)
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
+* [onecli: Secret management gateway for AI agent security](https://github.com/onecli/onecli)
+  * [AI 에이전트 보안을 위한 비밀 관리 게이트웨이, OneCLI 기술 정리](https://digitalbourgeois.tistory.com/2916)
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
@@ -2616,6 +2617,9 @@ Artificial Intelligence
   * [소프트웨어 엔지니어링의 향후 2년 | GeekNews](https://news.hada.io/topic?id=25769)
 * [김태영 - AI 멀티 에이전트 개발 효과성 분석 - AI 에이전트 11명에게 스프린트를 통째로 맡겨봤습니다 (AI SDLC Agentic Coding 주제로) | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
   * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
+* [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
+  * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
+  * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
@@ -3076,6 +3080,8 @@ Artificial Intelligence
 * [Claude Code + Playwright = 놀라운 브라우저 자동화입니다 - YouTube](https://www.youtube.com/watch?v=GaVoI5ZxV10)
   * [Claude Code와 Playwright로 놀라운 브라우저 자동화](https://livewiki.com/ko/content/claude-code-playwright-automation)
   * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
+* [Death of the IDE](https://addyo.substack.com/p/death-of-the-ide)
+  * [IDE의 죽음인가, 진화인가: 에이전트 오케스트레이션 시대로 이동하는 개발 환경의 중심](https://digitalbourgeois.tistory.com/2918)
 * [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
   * Pi/OpenClaw/Codex/Claude용 ACP 클라이언트. 영구 세션, 병렬 세션, 프롬프트 큐잉, 크래시 복구, JSON 출력
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
@@ -3182,6 +3188,9 @@ Artificial Intelligence
     * [smart-cowork-life/smart-cowork-life at main · modu-ai/smart-cowork-life](https://github.com/modu-ai/smart-cowork-life/tree/main/smart-cowork-life)
       * [Goos Kim - @팔로워 모두의AI 4번째 오픈소스, Claude Cowork Plugin '슬기로운 코워크... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0271svtLduk3CPFprSSJU8WdBSgmhU7uqpR7X9TfcjMNxWokKxVAxATzBPAh7fitAql)
     * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+  * [Auto mode for Claude Code](https://claude.com/blog/auto-mode)
+    * [Claude Code Auto Mode 공개: 권한 승인 부담을 줄이면서 안전성을 유지하는 새로운 퍼미션 전략](https://digitalbourgeois.tistory.com/2922)
+    * 분류기가 도구 호출을 사전 검토하여 안전한 작업은 자동 실행, 위험한 작업(파일 대량 삭제, 데이터 유출 등)은 차단. `claude --enable-auto-mode`로 활성화
   * [Claude and Slack | Claude](https://claude.com/claude-and-slack)
     * [🤖 Claude Code와 Slack 통합: 개발자 워크플로우의 새로운 패러다임](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Claude-Code%EC%99%80-Slack-%ED%86%B5%ED%95%A9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84)
   * [Hooks reference - Claude Code](https://code.claude.com/docs/en/hooks)
@@ -3425,6 +3434,8 @@ Artificial Intelligence
   * [Claude Code 스킬을 직접 고치지 마세요. Autoresearch가 대신 해줍니다 - YouTube](https://www.youtube.com/watch?v=7MaUhmZijak)
   * [Claude Code 10가지 꿀팁 — Anthropic 해커톤 우승자가 다 알려줬습니다 - YouTube](https://www.youtube.com/watch?v=QhZJyg47JW0)
   * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
+  * [AI가 과학 연구를 가속하는 방식: Anthropic 과학 블로그와 AI 대학원생 실험이 던지는 메시지](https://digitalbourgeois.tistory.com/2927)
+  * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
@@ -3646,6 +3657,8 @@ Artificial Intelligence
     * [Ralph를 쓰면 시간당 $10으로 Sonnet 4.5가 쉬지 않고 돌아갑니다. 코드 짜고, 실패하면 고치고, 성공하면 다음 태스크로 넘어가요. Anthropic은 이 현실을 채용에 반영했습니다. 성능 최적화 과제를 공개하면서 "Opus 4.5가 11.5시간 걸려 달성한 1487 사이클, 이보다 잘하면 연락 달라"고 했거든요. Ralph는… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ralph%EB%A5%BC-%EC%93%B0%EB%A9%B4-%EC%8B%9C%EA%B0%84%EB%8B%B9-10%EC%9C%BC%EB%A1%9C-sonnet-45%EA%B0%80-%EC%89%AC%EC%A7%80-%EC%95%8A%EA%B3%A0-%EB%8F%8C%EC%95%84%EA%B0%91%EB%8B%88%EB%8B%A4-activity-7419853805862809600-gWgh)
       * [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/)
       * [Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+      * [Harness Design for Long-Running Apps \ Anthropic](https://www.anthropic.com/engineering/harness-design-long-running-apps)
+        * [Anthropic Harness Design for Long-Running Apps 정리](https://digitalbourgeois.tistory.com/2923)
     * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
       * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
     * [요즘 개발자들이 Ralph 플러그인에 주목하는 이유 : 랄프 루프 실제 후기](https://litmers.com/blog/%EC%9A%94%EC%A6%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ralph-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%9E%84%ED%94%84-%EB%A3%A8%ED%94%84-%EC%8B%A4%EC%A0%9C-%ED%9B%84%EA%B8%B0)
@@ -3663,6 +3676,8 @@ Artificial Intelligence
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
+  * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
+    * [secure-claude-code | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijsecure-claude-code-security-activity-7442370116882927616-xKzP)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
@@ -4093,6 +4108,8 @@ Artificial Intelligence
     * [OpenClaw Architecture and Insights | Navan Tirupathi](https://www.linkedin.com/posts/navan-tirupathi-3a482817_openclaw-architecture-and-insights-activity-7428978091231887360-w9RJ)
   * [The only OpenClaw tutorial you'll ever need (March 2026 edition) - YouTube](https://www.youtube.com/watch?v=CxErCGVo-oo)
     * [OpenClaw 튜토리얼 2026](https://livewiki.com/ko/content/openclaw-tutorial-2026)
+  * [Claude Dispatch versus OpenClaw | The New Stack](https://thenewstack.io/claude-dispatch-versus-openclaw)
+    * [Anthropic Claude Dispatch 등장 배경과 OpenClaw 열풍이 보여주는 AI 에이전트 경쟁 구도](https://digitalbourgeois.tistory.com/2919)
   * [OpenClaw의 5계층 게이트키핑: AI 에이전트 시대의 품질 관리 :: ROBOCO](https://roboco.io/posts/openclaw-gatekeeping-architecture/)
   * [OpenClaw Deployment Guide](https://almenardian.gumroad.com/l/openclaw-deployment-guide)
   * [My OpenClaw setup + open source projects | Eric Blue | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1616830196134037/)
