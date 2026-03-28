@@ -2125,6 +2125,8 @@ Docker
 * [Kubernetes Capacity Planning: Getting It Wrong Is Step One](https://medium.com/@jeremycastle/kubernetes-capacity-planning-getting-it-wrong-is-step-one-and-thats-ok)
 * [Taints and Tolerations in Kubernetes: Attaching a Filter at the Node | Medium](https://medium.com/@manishaprep/taints-and-tolerations-in-kubernetes-attaching-a-filter-at-the-node-2412cccaba13)
 * [How Kubernetes Learned to Resize Pods Without Restarting Them | by Dinidu Sachintha | Medium](https://medium.com/@dinidusachintha/how-kubernetes-learned-to-resize-pods-without-restarting-them-158241b5eb06)
+* [Kubernetes Native AI Infrastructure | The New Stack](https://thenewstack.io/kubernetes-native-ai-infrastructure)
+  * [Kubernetes 네이티브 AI 인프라 패턴으로 대규모 추론 환경 운영하기](https://digitalbourgeois.tistory.com/2921)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
