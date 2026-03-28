@@ -3336,6 +3336,7 @@ App
 
 # Voice
 * [캐럿 - 실시간 기록부터 요약까지 해주는 똑똑한 AI 미팅노트](https://caret.so/)
+* collabo [콜라보 - 개인과 기업 모두를 위한 AI 회의록](https://callabo.ai/)
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
