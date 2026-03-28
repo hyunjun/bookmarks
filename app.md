@@ -2166,6 +2166,7 @@ App
     * [반복 업무의 구원자, AI 슬랙봇 “도비”의 개발 여정. 이번에는 슬랙과 지라의 반복 업무를 자동화한 AI 슬랙봇 ‘도비’의… | by Donghoon Lee (Panda) | How we build Myrealtrip | May, 2025 | Medium](https://medium.com/myrealtrip-product/%EB%B0%98%EB%B3%B5-%EC%97%85%EB%AC%B4%EC%9D%98-%EA%B5%AC%EC%9B%90%EC%9E%90-ai-%EC%8A%AC%EB%9E%99%EB%B4%87-%EB%8F%84%EB%B9%84-%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EC%97%AC%EC%A0%95-8890eccd8d46)
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
+* [Telegram-Drive: Turn your Telegram account into unlimited secure cloud storage](https://github.com/caamer20/Telegram-Drive)
 * [Zulip](https://zulip.com/)
   * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
