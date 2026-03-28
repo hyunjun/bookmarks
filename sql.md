@@ -545,6 +545,8 @@ SQL
   * [DuckDB 사용법(DuckDB Python + Jupyter Lab) | GeekNews](https://news.hada.io/topic?id=17450)
 * [pandas vs Polars vs DuckDB: A Data Scientist's Guide to Choosing the Right Tool | CodeCut](https://codecut.ai/pandas-vs-polars-vs-duckdb-comparison/)
 * [DuckLake: SQL as a Lakehouse Format – DuckDB](https://duckdb.org/2025/05/27/ducklake.html)
+* [Unleashing the Power of DuckDB: A Modern Analytical Database Engine | Barani Dakshinamoorthy](https://kr.linkedin.com/pulse/unleashing-power-duckdb-modern-analytical-database-dakshinamoorthy-j6hie)
+  * DuckDB의 주요 활용법 종합 가이드. 로컬 인메모리 분석, MotherDuck 클라우드 배포, Streamlit·Apache Superset 연동, ML 데이터 전처리까지. 라이선스 비용 없이 ad-hoc 분석부터 프로덕션 파이프라인까지 커버
 
 # Library
 * [alasql.org](http://alasql.org/)
