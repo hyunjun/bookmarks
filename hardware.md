@@ -111,6 +111,8 @@ Hardware
 
 # AI
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
+* [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
+  * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [Tiiny AI Inc](https://tiiny.ai/)
   * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
 
