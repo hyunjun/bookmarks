@@ -706,6 +706,7 @@ Artificial Intelligence
   * [메신저 안에서 완성하는 개인 AI 에이전트 경쟁: Manus Agents와 OpenClaw의 전략 분석](https://digitalbourgeois.tistory.com/2777)
 * [Half the AI Agent Market Is One Category. The Rest Is Wide Open.](https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open)
   * [AI 에이전트 시장의 절반은 한 카테고리. 나머지는 활짝 열려 있다 | GeekNews](https://news.hada.io/topic?id=26915)
+* [Agent를 일잘러로 만드는 스킬 작성의 기본 | Sungjin Kim, Ph.D.](https://kr.linkedin.com/pulse/agent%EB%A5%BC-%EC%9D%BC%EC%9E%98%EB%9F%AC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%ED%82%AC-%EC%9E%91%EC%84%B1%EC%9D%98-%EA%B8%B0%EB%B3%B8-sungjin-kim-ph-d--3rtic)
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -788,7 +789,9 @@ Artificial Intelligence
   * [/init으로 생성한 AGENTS.md가 오히려 비용을 20% 늘리는 이유와 올바른 컨텍스트 설계 전략](https://digitalbourgeois.tistory.com/2811)
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
-* [Agent를 일잘러로 만드는 스킬 작성의 기본 | Sungjin Kim, Ph.D.](https://kr.linkedin.com/pulse/agent%EB%A5%BC-%EC%9D%BC%EC%9E%98%EB%9F%AC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%8A%A4%ED%82%AC-%EC%9E%91%EC%84%B1%EC%9D%98-%EA%B8%B0%EB%B3%B8-sungjin-kim-ph-d--3rtic)
+* [Agent-Reach: Give your AI agent eyes to see the entire internet](https://github.com/Panniantong/Agent-Reach)
+  * [Give your AI agent eyes to see the entire internet for free](https://www.opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4)
+  * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
 * [Agent Skills](https://agentskills.io)
   * [Claude 가 만든 skills 가 OpenAI, Cursor 등이 받아들이며 agentskills.io 라는 표준... 이제 SKILL.md, scripts/, references/, assets/ 구조를 따르지 않으면 성능 하락](https://www.linkedin.com/posts/gb-jeong_claude-%EA%B0%80-%EB%A7%8C%EB%93%A0-skills-%EA%B0%80-openai-cursor-%EB%93%B1%EC%9D%B4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%9D%B4%EB%A9%B0-activity-7408299241556606976-Ol2y/)
   * [🔍 Anthropic 이 공개한 SKILL.md body 작성 규칙 5가지, 문서에 숨어 있었습니다 놓치기 쉬운 부분입니다. Skill 은 YAML frontmatter 두 줄이면 만들 수 있지만 body 를 어떻게 쓰느냐에 따라 결과물 품질이 완전히 갈리거든요. Anthropic 공식 문서와 엔지니어링 블로그를 교차 검증하면서 작동 구조와… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_anthropic-%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-skillmd-body-%EC%9E%91%EC%84%B1-%EA%B7%9C%EC%B9%99-5%EA%B0%80%EC%A7%80-activity-7428729561946722304-O3kE)
@@ -2786,6 +2789,9 @@ Artificial Intelligence
   * [keploy: API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!](https://github.com/keploy/keploy)
   * [AI 시대 개발자를 위한 필수 테스트 도구, Keploy 완전 정복](https://digitalbourgeois.tistory.com/1964)
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
+* [k-skill: 한국인을 위한 스킬 모음집](https://github.com/NomaDamas/k-skill)
+  * [케이-스킬 : 한국인을 위한 스킬 모음집 | GeekNews](https://news.hada.io/topic?id=27881)
+  * Claude Code, Codex, OpenCode 등 AI 코딩 에이전트용 한국 특화 스킬 컬렉션. SRT 예매, 서울 지하철 도착 정보, KBO 경기 결과, 로또 당첨 확인, HWP 문서 변환, 우편번호 검색 등 지원
 * [langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization](https://github.com/google/langextract)
   * Extract entities, attributes, and relations with exact source grounding from unstructured documents
   * Flexible LLM support (Gemini, OpenAI, Ollama)
@@ -3077,6 +3083,8 @@ Artificial Intelligence
   * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
 * [Claude Code 29개 vs Codex 7개, 설계 철학이 정반대였습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-29%EA%B0%9C-vs-codex-7%EA%B0%9C-%EC%84%A4%EA%B3%84-%EC%B2%A0%ED%95%99%EC%9D%B4-%EC%A0%95%EB%B0%98%EB%8C%80%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%A4%EC%A3%BC-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-share-7435825294554484736)
 * [Claude Code와 Copilot 병용 전략](https://blog.naver.com/drvoss/224232231703)
+  * [Claude Code x Copilot 시너지 내기 2 - 저장소 셋업 가이드](https://blog.naver.com/drvoss/224232704315)
+  * AGENTS.md(팀 공용 규칙), CLAUDE.md(@import로 연결점), copilot-instructions.md(짧은 전역 지침), SKILL.md(반복 작업 표준화) 4개 파일 구조와 샘플 세트 제공. Claude Code는 긴 구현, Copilot CLI는 계획/리뷰, Codex CLI는 파일 생성/자동화로 역할 분담
 * [Claude Code + Playwright = 놀라운 브라우저 자동화입니다 - YouTube](https://www.youtube.com/watch?v=GaVoI5ZxV10)
   * [Claude Code와 Playwright로 놀라운 브라우저 자동화](https://livewiki.com/ko/content/claude-code-playwright-automation)
   * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
@@ -3436,6 +3444,9 @@ Artificial Intelligence
   * [2026년 AI의 승부처는 Loop의 반복입니다. Skill을... | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-ai-%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-loop-%EC%9D%98-%EB%B0%98%EB%B3%B5%EC%9E%85%EB%8B%88%EB%8B%A4-skill-%EC%9D%84-activity-7439287763121729536-g_Bk)
   * [AI가 과학 연구를 가속하는 방식: Anthropic 과학 블로그와 AI 대학원생 실험이 던지는 메시지](https://digitalbourgeois.tistory.com/2927)
   * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
+  * [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
+    * [Claude Code로 개발 생산성 향상: 6주 실전 경험](https://digitalbourgeois.tistory.com/2928)
+    * PR 자동화(/git-pr 스킬), SWC 도입으로 빌드 1초 미만, 프리뷰 기능으로 UI 검증 위임, 병렬 워크트리 시스템으로 동시 5개 작업. 기능 개발보다 피드백 루프 속도를 줄이는 인프라 구축이 핵심
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
