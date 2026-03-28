@@ -5445,6 +5445,10 @@ NLP
 * [chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
   * [chatterbox_demopage](https://resemble-ai.github.io/chatterbox_demopage/)
   * [Chatterbox-TTS-Extended: Modified version of Chatterbox that accepts text files as input and no character restrictions. I use it to make audiobooks, especially for my kids](https://github.com/petermg/Chatterbox-TTS-Extended/)
+* [cohere-transcribe-03-2026 · CohereLabs](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)
+  * [코히어, 한국어 지원하는 기업용 2B 오픈소스 음성 모델 출시 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208459)
+  * 2B 파라미터 Conformer 기반 오픈소스 ASR. 14개 언어(한국어 포함), WER 5.42%로 Open ASR 리더보드 1위, 1분에 525분 오디오 처리
+  * 하나의 .m4a이긴 했지만 실제로 테스트해봤을 때 성능은 whisper에 비해 크게 좋다고 하긴 어려웠음
 * [~Coqui~](https://coqui.ai/)
   * [coqui](https://github.com/coqui-ai)
   * [TTS 0.16.3 documentation](https://tts.readthedocs.io/)
