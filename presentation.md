@@ -50,6 +50,7 @@ Presentation
 * [강연의 전달력을 높이는 법](https://brunch.co.kr/@graypool/1208)
 * [발표 잘 하는 법..스크립트..PT장표..발표.. : 네이버블로그](https://blog.naver.com/ranto28/223480792560)
 * [대통령상 대상 받은 PPT 도형! 앞으로 그냥 이거 쓰시면 됩니다! 🙋♂️ | 파워포인트 - YouTube](https://www.youtube.com/watch?v=sqgcDFqpwHI)
+* [1.5조 원 수주한 발표 전략가가 오프닝에서 절대 안 쓰는 말 | 윤상명](https://www.linkedin.com/posts/yoonpt_15%EC%A1%B0-%EC%9B%90-%EC%88%98%EC%A3%BC%ED%95%9C-%EB%B0%9C%ED%91%9C-%EC%A0%84%EB%9E%B5%EA%B0%80%EA%B0%80-%EC%98%A4%ED%94%84%EB%8B%9D%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80-%EC%95%88-%EC%93%B0%EB%8A%94-%EB%A7%90-1-%EC%A0%9C%EA%B0%80-share-7442025697193345024-N75c)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
