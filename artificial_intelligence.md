@@ -845,10 +845,12 @@ Artificial Intelligence
     * [Andrej Karpathy, 코드 에이전트·AutoResearch·AI의 루피 시대](https://livewiki.com/ko/content/andrej-karpathy-code-agents-autoresearch-ai)
     * [Andrej Karpathy on Code Agents | GeekNews](https://news.hada.io/topic?id=27706)
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
-  * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
   * [Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임 | GeekNews](https://news.hada.io/topic?id=26883)
   * [미래를 바꾸는 것은 생성이 아니라 평가다](https://roach716464.substack.com/p/478)
     * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
+  * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
+  * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
+    * SageMaker Spot으로 원본 대비 2.3배 빠르고 5~18배 저렴. HUGI 패턴으로 병렬 실험, 세대당 86% 개선 확률
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
@@ -3069,6 +3071,7 @@ Artificial Intelligence
 * [Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson - YouTube](https://www.youtube.com/watch?v=c1K3H0z7vbw)
   * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
 * [Claude Code 29개 vs Codex 7개, 설계 철학이 정반대였습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-29%EA%B0%9C-vs-codex-7%EA%B0%9C-%EC%84%A4%EA%B3%84-%EC%B2%A0%ED%95%99%EC%9D%B4-%EC%A0%95%EB%B0%98%EB%8C%80%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%A4%EC%A3%BC-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-share-7435825294554484736)
+* [Claude Code와 Copilot 병용 전략](https://blog.naver.com/drvoss/224232231703)
 * [Claude Code + Playwright = 놀라운 브라우저 자동화입니다 - YouTube](https://www.youtube.com/watch?v=GaVoI5ZxV10)
   * [Claude Code와 Playwright로 놀라운 브라우저 자동화](https://livewiki.com/ko/content/claude-code-playwright-automation)
   * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
@@ -3342,6 +3345,7 @@ Artificial Intelligence
     * [Claude Cowork Dispatch 기능 정리: 모바일에서 데스크톱 Claude를 원격으로 작업시키는 방법과 한계](https://digitalbourgeois.tistory.com/2896)
   * [4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! - YouTube](https://www.youtube.com/watch?v=uub34E4DwZI)
     * [클로드 채널 업데이트: 어떤 서비스든 클로드 코드에 연동](https://livewiki.com/ko/content/claude-channel-update-service-integration)
+    * [Claude Code Channels 기능 공개: Telegram·Discord로 원격 작업 지시하는 방법 정리](https://digitalbourgeois.tistory.com/2917)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
