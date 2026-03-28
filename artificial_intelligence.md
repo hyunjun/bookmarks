@@ -861,6 +861,7 @@ Artificial Intelligence
   * [ChatDev 2.0 (DevAll): 데이터 시각화부터 게임 개발까지 워크플로우 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EB%B6%80%ED%84%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80-ChatDev-20-DevAll-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Code2Video](https://showlab.github.io/Code2Video/)
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
+* [AgentScope: Build and run agents you can see, understand and trust](https://github.com/agentscope-ai/agentscope)
 * [CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities](https://github.com/agentscope-ai/CoPaw)
   * [OpenClaw 따라잡은 알리바바의 CoPaw로 Discord 봇 만드는 법](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5OpenClaw-%EB%94%B0%EB%9D%BC%EC%9E%A1%EC%9D%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-CoPaw%EB%A1%9C-Discord-%EB%B4%87-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
     * CoPaw를 로컬 LLM으로 실행하고 Discord에 연동하는 단계별 가이드. 멀티 채널 지원, API 없는 로컬 실행
@@ -3537,6 +3538,7 @@ Artificial Intelligence
     * [hourly pep talk으로 나에게 말걸어주는 Claude-o-clock](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2692201897787518&hoisted_section_header_type=recently_seen)
   * [Claude Orchestrator - Multi-Agent Development Automation](https://claude-orchestrator.parallax.kr/)
     * [오픈소스 claude-code로 개발 아예 안하고도 개발 시키기](https://velog.io/@hansanghun/claude)
+  * [claude-scholar: Semi-automated research assistant for academic research](https://github.com/Galaxy-Dawn/claude-scholar)
   * [claude-scientific-skills: A set of ready to use scientific skills for Claude](https://github.com/K-Dense-AI/claude-scientific-skills)
     * Claude가 복잡한 과학 연구 워크플로우를 알아서 수행하는 리서치 툴
     * 총 28개 이상의 과학 데이터베이스와 55개 이상의 Python 패키지 포함
@@ -3672,6 +3674,7 @@ Artificial Intelligence
       * [문서를 테스트한다고? TDD로 Skill 작성하기 | LinkedIn](https://www.linkedin.com/posts/bumgeunsong_%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%9C%EB%8B%A4%EA%B3%A0-tdd%EB%A1%9C-skill-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-skill%EC%9D%B4-%EC%A0%95%EB%A7%90-activity-7417845156407558144-3fCM/)
     * [💪⚡초보자를 위한 Superpowers 사용법 & Claude Code 코딩 자동화 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%AA%E2%9A%A1%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Superpowers-%EC%82%AC%EC%9A%A9%EB%B2%95-Claude-Code-%EC%BD%94%EB%94%A9-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [superpowers: Claude Code superpowers: core skills library](https://github.com/abudhahir/superpowers)
+  * [skills: Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia](https://github.com/slavingia/skills)
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
   * [socrates-protocol: Coding skill that clarifies ambiguity, risk, and tradeoffs before implementation](https://github.com/jiyeongjun/socrates-protocol)
     * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
@@ -4006,6 +4009,7 @@ Artificial Intelligence
 * [moltbook - the front page of the agent internet](https://www.moltbook.com/)
   * [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/)
     * [최승준 - Moltbook: 지금 인터넷에서 가장 흥미로운 공간 2026년 1월 30일, Simon Willison... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0yWtPueNf6Jhhpz9aBHGZLA1SV9tVnbk9LeqNW4oStP2oBukgUJyqXCwZYxvQQAjol)
+* [mse_ai_api: FastAPI proxy that converts ChatGPT web interface into OpenAI-compatible API](https://github.com/MohamedElsayed-debug/mse_ai_api)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
@@ -4080,6 +4084,7 @@ Artificial Intelligence
     * [OpenClaw Architecture and Insights | Navan Tirupathi](https://www.linkedin.com/posts/navan-tirupathi-3a482817_openclaw-architecture-and-insights-activity-7428978091231887360-w9RJ)
   * [The only OpenClaw tutorial you'll ever need (March 2026 edition) - YouTube](https://www.youtube.com/watch?v=CxErCGVo-oo)
     * [OpenClaw 튜토리얼 2026](https://livewiki.com/ko/content/openclaw-tutorial-2026)
+  * [OpenClaw의 5계층 게이트키핑: AI 에이전트 시대의 품질 관리 :: ROBOCO](https://roboco.io/posts/openclaw-gatekeeping-architecture/)
   * [OpenClaw Deployment Guide](https://almenardian.gumroad.com/l/openclaw-deployment-guide)
   * [My OpenClaw setup + open source projects | Eric Blue | OpenClaw Community Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1616830196134037/)
   * [OpenClaw 캐싱 완전 가이드 | thomasjeong](https://slashpage.com/thomasjeong/36nj8v2wq5zqj25ykq9z)
@@ -4342,6 +4347,7 @@ Artificial Intelligence
   * [Moving Towards Spec-Driven Development | Real Python Podcast #277 - YouTube](https://www.youtube.com/watch?v=-liy2as6zQI)
     * [SDD Spec Driven Development](https://notebooklm.google.com/notebook/eca0c6b4-f656-42c7-b1a4-e5b3a350c98e)
   * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
+* [LocalGPT: Local-first AI assistant with 3D world builder and autonomous task execution](https://github.com/localgpt-app/localgpt)
 * [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
   * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
   * [Spec-driven development with AI: Get started with a new open source toolkit - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
