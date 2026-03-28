@@ -2887,6 +2887,9 @@ Artificial Intelligence
   * [Reworkd라는 서비스는 원하는 사이트를 지정하면 자동으로 코드가 생성되고, 해당 코드가 실행 되면서 컨텐츠를 크롤링](https://www.linkedin.com/posts/duckjungkim_%EC%9B%B9-%EC%BB%A8%ED%85%90%EC%B8%A0%EB%A5%BC-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0%EC%9D%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%B0%B0%EC%9A%B8%EB%95%8C-%EB%A7%8E%EC%9D%B4-%EC%8B%A4%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4-activity-7327293373856260096-b9bm/)
 * [SalesGPT: Context-aware AI Sales Agent to automate sales outreach](https://github.com/filip-michalsky/SalesGPT/)
 * [scholar-translator: Academic paper PDF translator with Korean language focus, powered by AWS Bedrock and preserving formulas, charts, and layouts](https://github.com/hi-space/scholar-translator)
+* [Sentrux — Real-time architectural sensor for AI agents](https://sentrux.dev/)
+  * [sentrux](https://github.com/sentrux/sentrux)
+  * Rust 기반 실시간 코드 아키텍처 품질 센서. 52개 언어, MCP 9개 도구, 0~10000점 품질 점수, 트리맵 시각화
 * [serena: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)](https://github.com/oraios/serena)
   * [Serena MCP 개요와 설치, Claude Code 통합 - Hans Tech Blog](https://hansdev.kr/tech/serena-mcp/)
   * [🤖 Serena: 무료 오픈소스 코딩 에이전트 툴킷 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Serena-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%88%B4%ED%82%B7-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -3593,6 +3596,9 @@ Artificial Intelligence
       * [gstack: YC CEO Garry Tan의 Claude Code 워크플로우](https://livewiki.com/ko/content/gstack-yc-ceo-garry-tan)
     * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
     * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
+  * [HolyClaude: Containerized AI development workstation with Claude Code](https://holyclaude.coderluii.dev/)
+    * [HolyClaude](https://github.com/CoderLuii/HolyClaude)
+    * Docker 원커맨드 Claude Code 워크스테이션. 웹 UI, Playwright 헤드리스 브라우저, 7개 AI CLI, 50+ 개발 도구 번들
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
@@ -3643,6 +3649,7 @@ Artificial Intelligence
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
     * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
     * [ralph: The Original RALF Loop Implementation](https://github.com/snarktank/ralph)
+  * [refactoring-ui-skill: Agent skill for professional UI design based on Refactoring UI](https://github.com/jaywilburn/refactoring-ui-skill)
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
@@ -3666,6 +3673,8 @@ Artificial Intelligence
     * [💪⚡초보자를 위한 Superpowers 사용법 & Claude Code 코딩 자동화 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%AA%E2%9A%A1%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Superpowers-%EC%82%AC%EC%9A%A9%EB%B2%95-Claude-Code-%EC%BD%94%EB%94%A9-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C)
     * [superpowers: Claude Code superpowers: core skills library](https://github.com/abudhahir/superpowers)
   * [skillshare: Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Claude Code, OpenClaw, OpenCode & more](https://github.com/runkids/skillshare)
+  * [socrates-protocol: Coding skill that clarifies ambiguity, risk, and tradeoffs before implementation](https://github.com/jiyeongjun/socrates-protocol)
+    * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
   * [stop-slop: A skill file for removing AI tells from prose](https://github.com/hardikpandya/stop-slop)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
@@ -4004,6 +4013,9 @@ Artificial Intelligence
   * [Oh my open code.클로드 코드보다 강력한 자동화 에이전트.대한민국 최초 개발자 인터뷰.꿀팁 공개! l 울트라워크 엔지니어 김연규(AI 팟캐스트 #78) - YouTube](https://www.youtube.com/watch?v=o-rE93-nLpY)
     * [오마이 오픈 코드: 클로드 코드보다 강력한 자동화 에이전트 개발자 인터뷰 (울트라워크 엔지니어 김연규)](https://livewiki.com/ko/content/ultrawork-automation-agent-interview)
   * [✍🏻 Open Code와 Oh-my-opencode](https://velog.io/@takealittletime/Open-Code%EC%99%80-Oh-my-opencode)
+* [Onyx — Open-source self-hostable AI chat platform](https://onyx.app/)
+  * [onyx](https://github.com/onyx-dot-app/onyx)
+  * 셀프 호스팅 AI 챗 플랫폼. 모든 LLM 지원, 40+ 커넥터, RAG, 커스텀 에이전트, 웹 검색, 코드 인터프리터. SSO/RBAC
 * [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
   * [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
     * [MoltBot 제작자: “나는 읽지 않은 코드를 배포한다” | GeekNews](https://news.hada.io/topic?id=26222)
@@ -4232,6 +4244,8 @@ Artificial Intelligence
   * [rover](https://github.com/endorhq/rover/)
   * Claude Code/Codex/Cursor/Gemini/Qwen 에이전트를 격리된 컨테이너 워크트리에서 병렬 실행. 네트워크/샌드박스 제어, MCP 서버 기능
   * [iPhone으로 Mac의 Codex를 제어한다 - 로컬 퍼스트 원격 개발 도구 Remodex 완전 정리](https://digitalbourgeois.tistory.com/2890)
+* [Ruflo: Enterprise-grade AI agent orchestration platform for Claude Code](https://github.com/ruvnet/ruflo)
+  * 100+ 전문 에이전트 스웜 조율, 자기학습 라우팅, 합의 기반 의사결정, 벡터 메모리. API 비용 최대 85% 절감
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
 * [Shadow](https://www.shadowrealm.ai/)
