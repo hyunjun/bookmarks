@@ -3725,6 +3725,8 @@ Artificial Intelligence
   * Claude Code를 구조화된 개발 워크플로우로 변환하는 프레임워크. 13개 TypeScript 안전 규칙(R01-R13), 병렬 워커 실행, 4관점 코드 리뷰(보안/성능/품질/접근성), 자동 체인지로그·태깅·릴리스. Breezing 모드로 자율 에이전트 팀 운영
 * [claudiomiro: Autonomous AI-powered development agent](https://github.com/samuelfaj/claudiomiro)
   * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
+* [claudy: macOS desktop AI companion for developers](https://github.com/eali959/claudy)
+  * 코딩 활동을 모니터링하며 빌드 실패, Git 작업, 야간 코딩 등에 반응하는 macOS 데스크톱 컴패니언. Claude API 연동 또는 오프라인 모드, 7가지 성격 프리셋, 포모도로 타이머, 코딩 스트릭 추적. Swift 6.0/SwiftUI
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
   * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
