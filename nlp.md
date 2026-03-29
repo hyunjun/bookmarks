@@ -5620,6 +5620,8 @@ NLP
 * [voxmlx: Realtime Transcription with Voxtral in MLX](https://github.com/awni/voxmlx)
 * [voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
   * [Mistral Voxtral Realtime 4B 음성 인식 모델의 순수 C 기반 CPU | GeekNews](https://news.hada.io/topic?id=26608)
+* [Voxtral TTS - Speaking of Voxtral | Mistral AI](https://mistral.ai/news/voxtral-tts)
+  * Mistral 최초의 TTS 모델. 3.4B 트랜스포머 디코더 + 390M flow-matching 음향 트랜스포머 + 300M 뉴럴 코덱. 9개 언어, 감정 표현, 제로샷 크로스링구얼 적응, 70ms 레이턴시(RTF ≈9.7x). Hugging Face 오픈 웨이트 공개
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
