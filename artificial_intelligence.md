@@ -2589,6 +2589,9 @@ Artificial Intelligence
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
+* [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
+  * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
+  * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
 
 # Software Engineering
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
@@ -3483,7 +3486,13 @@ Artificial Intelligence
     * [harness-paper-ko.pdf](https://github.com/revfactory/claude-code-harness/blob/main/paper/harness-paper-ko.pdf)
     * [Minho Hwang - Claude Code의 잠재력을 최대로 끌어올리는 비결 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0BnX8K2upZagm8BKbtZAsfVaA3q2UXbkZaQKBQCrCD5kxtTHC956uaCMxsL3XmuFyl)
     * CLAUDE.md(아키텍처 청사진), Skills(도메인 지식), Agents(역할 분해), Commands(워크플로우 조율) 4가지 지침으로 기준선 대비 평균 점수 49.5→79.3(약 60% 개선). 특히 테스트 커버리지, 아키텍처 설계, 오류 처리에서 큰 향상
-  * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
+    * [harness: Agent Team & Skill Architect for Claude Code](https://github.com/revfactory/harness)
+      * [Harness — Agent Team & Skill Architect](https://revfactory.github.io/harness)
+      * [Harness - Claude Code Agent Team & Skill Architect 플러그인 | GeekNews](https://news.hada.io/topic?id=27969)
+      * 단일 프롬프트로 도메인 전용 에이전트 팀 설계·스킬 자동 생성하는 메타 스킬. 6가지 아키텍처 패턴(Pipeline, Fan-out/Fan-in, Expert Pool 등), Progressive Disclosure, 드라이런 검증. SE 태스크 15개 기준 평균 60% 품질 향상
+  * [claude-code-harness: Plan→Work→Review→Release cycle with safety guardrails for Claude Code](https://github.com/Chachamaru127/claude-code-harness)
+    * Claude Code를 구조화된 개발 워크플로우로 변환하는 프레임워크. 13개 TypeScript 안전 규칙(R01-R13), 병렬 워커 실행, 4관점 코드 리뷰(보안/성능/품질/접근성), 자동 체인지로그·태깅·릴리스. Breezing 모드로 자율 에이전트 팀 운영
+    * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
   * [claude-code-infrastructure-showcase: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents](https://github.com/diet103/claude-code-infrastructure-showcase)
     * [Claude Code is a Beast – Tips from 6 Months of Hardcore Use : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/)
     * 클로드 코드 기반 인프라의 예시: 스킬 자동 활성화, 후크, 에이전트
@@ -3721,8 +3730,6 @@ Artificial Intelligence
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
-* [claude-code-harness: Plan→Work→Review→Release cycle with safety guardrails for Claude Code](https://github.com/Chachamaru127/claude-code-harness)
-  * Claude Code를 구조화된 개발 워크플로우로 변환하는 프레임워크. 13개 TypeScript 안전 규칙(R01-R13), 병렬 워커 실행, 4관점 코드 리뷰(보안/성능/품질/접근성), 자동 체인지로그·태깅·릴리스. Breezing 모드로 자율 에이전트 팀 운영
 * [claudiomiro: Autonomous AI-powered development agent](https://github.com/samuelfaj/claudiomiro)
   * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
 * [claudy: macOS desktop AI companion for developers](https://github.com/eali959/claudy)
