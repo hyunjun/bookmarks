@@ -3721,6 +3721,8 @@ Artificial Intelligence
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
+* [claude-code-harness: Plan→Work→Review→Release cycle with safety guardrails for Claude Code](https://github.com/Chachamaru127/claude-code-harness)
+  * Claude Code를 구조화된 개발 워크플로우로 변환하는 프레임워크. 13개 TypeScript 안전 규칙(R01-R13), 병렬 워커 실행, 4관점 코드 리뷰(보안/성능/품질/접근성), 자동 체인지로그·태깅·릴리스. Breezing 모드로 자율 에이전트 팀 운영
 * [claudiomiro: Autonomous AI-powered development agent](https://github.com/samuelfaj/claudiomiro)
   * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
