@@ -2985,6 +2985,8 @@ Business
   * [리더십, 성격, 다크 트라이어드 | Soojeong Bae](https://www.linkedin.com/posts/crystal0224_relationship-between-leadership-personality-share-7438031123735019520-WdBA)
   * 나르시시즘 높은 리더가 승진·연봉에서 유리하나 실제 리더십 성과는 낮음. 다크 트라이어드 특성 결합 시 성과 급락, 유사 성향 후임 승진시켜 조직 문화 악화. 360도 하향 피드백과 팀 건강 지표 반영 필요
 * [불편함 피하는 회피형 리더가 팀도, 커리어도 망치는 이유ㅣ한기용의 나침반 - YouTube](https://www.youtube.com/watch?v=PXu_ryiqTm0)
+* [승리하지 못하는 조직에게 미래는 없다](https://flowkater.io/posts/2026-01-25-no-victory-no-future/)
+  * 리더 독단은 조직 지능을 한 사람으로 수렴시킴. 방향은 제시하되 과정은 자율 부여, 1on1·투명한 정보 공유·실패 회고와 승리 축하가 핵심. 스타트업 대표/CTO 경험 기반
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3332,6 +3334,8 @@ Business
 * [구글 직원은 왜 ‘구글러’일까? 커뮤니케이션 브랜딩의 힘 | 요즘IT](https://yozm.wishket.com/magazine/detail/3102/)
 * [마케팅은 생산자 중심 사고에 대한 반성으로 탄생한 고객 중심 사고방식 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7388711106250186752-1tuU)
   * “마케팅은 너무도 기본적인 것이어서 기업이 강력한 영업 담당부서를 두고 또 그 부서에 마케팅 기능을 부여하는 것만으로는 충분하지 않다. 마케팅은 판매보다 그 범위가 훨씬 넓을 뿐 아니라, 아예 하나의 특수한 활동만을 의미하는 것이 아니다. 기업의 최종적인 결과라는 관점에서 보면, 즉 고객의 관점에서 보면 기업 활동 전체다. 그러므로 마케팅에 대한 관심과 책임은 기업의 모든 활동 영역에 스며들어 있다.” 피터 드러커
+* [AEO(AI Engine Optimization)와 SEO 비교: K-뷰티 AI 질문 1만 건 분석 | Chaeeun Lee](https://www.linkedin.com/posts/chaeeun-lee-513b68378_aeo-seo-%EB%A7%88%EC%BC%80%ED%8C%85%ED%8A%B8%EB%A0%8C%EB%93%9C-activity-7443212733166112768-kQGn)
+  * 소비자가 ChatGPT·Perplexity에 직접 질문 후 구매하는 시대. AI 검색 결과에 브랜드가 노출되려면 기존 SEO를 넘어 AEO 전략이 필요
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
