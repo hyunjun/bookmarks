@@ -4327,6 +4327,10 @@ NLP
 # Law
 * [내가 “Cursor for 로톡 변호사”를 만들며 배운 것들 | Disquiet\*](https://disquiet.io/@pungrue26/makerlog/%EB%82%B4%EA%B0%80-cursor-for-%EB%A1%9C%ED%86%A1-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4)
 * [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
+* [한국 교육법률 온톨로지 시각화 시스템](https://climtc.github.io/education-law-ontology/)
+  * 국가교육발전계획 2028-2037 기반, 47개 교육 관련 법률×9개 프로젝트 분야 매핑 매트릭스. MiroFish GraphRAG + Multi-Agent Simulation 아키텍처 기반 비공식 연구용 사이트
+* [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
+  * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
@@ -4646,6 +4650,8 @@ NLP
   * [말뭉치를 이용한 한국어 용언 분석기 (Korean Lemmatizer)](https://lovit.github.io/nlp/2019/01/22/trained_kor_lemmatizer/)
   * [docker-ubuntu-konlpy](https://hub.docker.com/r/theeluwin/ubuntu-konlpy)
   * [KoNLPy-homi: Redesigned KoNLPy (Wrapper) for Usability and Portability with gRPC Using Homi](https://github.com/wesky93/KoNLPy-homi)
+* [kordoc: 한국 문서(HWP/HWPX/PDF)를 마크다운으로 변환하는 파싱 라이브러리](https://github.com/chrisryugj/kordoc)
+  * HWP 5.x, HWPX, PDF 자동 감지 파싱, 문서 간 IR-level 비교, 정부 양식 필드 자동 추출, 마크다운→HWPX 생성, OCR 플러그인 지원. Claude·Cursor·Windsurf용 MCP 도구 7개 포함
 * [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
   * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
 * [ko\_restoration - Module for restoring Korean text working with KomornaPy](https://github.com/lynn-hong/ko_restoration)
