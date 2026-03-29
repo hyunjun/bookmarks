@@ -468,6 +468,8 @@ NLP
 * [왜 모델은 첫 문장을 내뱉기 전에 잠시 멈춰 있는 것일까?  | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-sluslqriwqzc-ai-ugcPost-7404997839216369664-jRk-) TTFT(Time to First Token) KV Caching
 * [TurboQuant: Redefining AI Efficiency with Extreme Compression | Google Research](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
   * [KV 캐시를 이렇게까지 압축해도 성능이 유지된다면? TurboQuant 초압축 AI 기술 핵심](https://digitalbourgeois.tistory.com/2924)
+  * [어텐션 방식의 또한번의 도약: 트랜스포머의 메모리 장벽을 넘는 세 번째 기술적 돌파구 | Sungjin Kim, Ph.D.](https://www.linkedin.com/pulse/%EC%96%B4%ED%85%90%EC%85%98-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%98%90%ED%95%9C%EB%B2%88%EC%9D%98-%EB%8F%84%EC%95%BD-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9E%A5%EB%B2%BD%EC%9D%84-%EB%84%98%EB%8A%94-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%8C%ED%8C%8C%EA%B5%AC-sungjin-kim-ph-d--2ranc/)
+    * 어텐션 진화 3단계(2014 동적 문맥 참조 → 2017 셀프 어텐션 → 현재 KV 캐시 압축) 정리. TurboQuant·CommVQ·KVTC 등 3~4비트 극단적 압축으로 메모리 장벽 극복, 연산-메모리 간 데이터 이동 병목 최소화
 * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 - YouTube](https://www.youtube.com/watch?v=zHQLPJ8-9Qc)
   * [수많은 정보는 LLM 모델 속 어디에 저장되어있는걸까? | DL 7 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%88%98%EB%A7%8E%EC%9D%80-%EC%A0%95%EB%B3%B4%EB%8A%94-llm-%EB%AA%A8%EB%8D%B8-%EC%86%8D-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C-dl-7-activity-7386236075452764160-XNhk)
     * 대규모 언어 모델(LLM), 특히 트랜스포머 아키텍처의 핵심 구성 요소인 멀티레이어 퍼셉트론(MLP) 레이어가 사실적 지식을 저장하고 처리하는 방식을 설명
