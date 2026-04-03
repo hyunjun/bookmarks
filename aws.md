@@ -2319,6 +2319,8 @@ AWS
   * [Introducing Strands Labs: State-of-the-Art Experimental Approaches to Agentic Development](https://aws.amazon.com/blogs/opensource/introducing-strands-labs-get-hands-on-today-with-state-of-the-art-experimental-approaches-to-agentic-development/)
     * [Amazon Launches Strands Labs for Open Source AI Innovation | Swaminathan Sivasubramanian](https://www.linkedin.com/posts/swaminathansivasubramanian_today-aws-is-furthering-our-commitment-to-ugcPost-7431777460066799616-Voeb)
     * AWS의 에이전틱 AI 실험 프로젝트 허브. AI Functions, Robots, Robots Sim 포함. Strands SDK 1400만+ 다운로드
+* [tui-aws: A terminal UI for managing AWS EC2 instances, exploring VPC networking, and troubleshooting connectivity](https://github.com/whchoi98/tui-aws)
+  * 22개 AWS 서비스 뷰를 제공하는 터미널 UI 도구. EC2, VPC, 네트워킹 관리 및 SSM 세션, 포트 포워딩, 인스턴스 간 연결성 검증을 콘솔 없이 수행
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
