@@ -2937,6 +2937,9 @@ AWS
   * [Run AWS Locally with Docker (LocalStack) - YouTube](https://www.youtube.com/watch?v=jz7oq-Viwew)
 * [moto: A library that allows you to easily mock out tests based on AWS infrastructure](https://github.com/getmoto/moto)
   * [how to work moto mock aws function internally? - Codingdog Blog](https://codingdog.pe.kr/2024/04/17/how-to-work-moto-mock-aws-function-internally/)
+* [sample-qa-studio](https://github.com/aws-samples/sample-qa-studio)
+  * [Accelerating software delivery with agentic QA automation using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/)
+  * Amazon Nova Act 기반 에이전틱 QA 자동화로 소프트웨어 딜리버리 가속화
 
 # Terraform
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
