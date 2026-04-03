@@ -3645,6 +3645,7 @@ Artificial Intelligence
     * [Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) - YouTube](https://www.youtube.com/watch?v=m3fqyXZ4k4I)
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
+  * [free-code: Independently maintained build of Claude Code with telemetry removal, security prompt modifications, and all 54 experimental features enabled](https://github.com/paoloanzn/free-code)
   * [Garry's plan-exit-review skill](https://gist.github.com/garrytan/001f9074cab1a8f545ebecbc73a813df)
     * [garry's-plan-exit-review-skill.md](https://drive.google.com/file/d/15Rpjq21M0iwcuz2ACxMHHx2xiTCJuSjb/view)
     * Y Combinator Garry Tan의 Claude Code 코드 리뷰 스킬. 스코프 도전→아키텍처/코드품질/테스트/성능 4단계 리뷰→의견 기반 권장사항 제시. DRY 원칙, 엣지 케이스 처리 중심
@@ -4084,6 +4085,8 @@ Artificial Intelligence
 * [Onyx — Open-source self-hostable AI chat platform](https://onyx.app/)
   * [onyx](https://github.com/onyx-dot-app/onyx)
   * 셀프 호스팅 AI 챗 플랫폼. 모든 LLM 지원, 40+ 커넥터, RAG, 커스텀 에이전트, 웹 검색, 코드 인터프리터. SSO/RBAC
+* [openclaude: Open-source coding-agent CLI that works with more than one model provider](https://github.com/Gitlawb/openclaude)
+  * 멀티 프로바이더(OpenAI, Gemini, Ollama 등) 지원 오픈소스 코딩 에이전트 CLI. 스트리밍, 비전, MCP, 로컬 추론 지원
 * [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
   * [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code)
     * [MoltBot 제작자: “나는 읽지 않은 코드를 배포한다” | GeekNews](https://news.hada.io/topic?id=26222)
@@ -4336,6 +4339,9 @@ Artificial Intelligence
   * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
 * [skills](https://github.com/huggingface/skills) Agent Context Protocol (ACP) definitions for AI/ML tasks like dataset creation, model training, and evaluation
   * [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training)
+* [Skills Manager](https://sm.idoevergreen.me/)
+  * [skills-manager](https://github.com/zunalabs/skills-manager)
+  * AI 에이전트 스킬 통합 관리 데스크톱 앱. Claude Code, Cursor 등 11+ 코딩 플랫폼의 스킬을 설치·활성화·공유하는 통합 인터페이스
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
   * [swark: Create architecture diagrams from code automatically using large language models (LLMs)](https://github.com/swark-io/swark)
 * [system-prompts-and-models-of-ai-tools: Collection of system prompts, internal tools, and AI model configurations of Augment Code, Claude Code, Cursor, Devin AI, Lovable, Manus, Windsurf, and more](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
