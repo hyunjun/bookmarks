@@ -288,6 +288,9 @@ Bitcoin
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
+* [Clodds - AI Trading Terminal for Crypto, Prediction Markets & DeFi](https://www.cloddsbot.com/)
+  * [CloddsBot](https://github.com/alsk1992/CloddsBot)
+  * AI 기반 암호화폐, 예측 시장, DeFi 통합 트레이딩 터미널
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list)
 * [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you would like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
