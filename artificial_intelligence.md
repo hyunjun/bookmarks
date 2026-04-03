@@ -3047,6 +3047,8 @@ Artificial Intelligence
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
 * [병렬 에이전트 코딩, 이렇게 세팅합니다](https://maily.so/effy/posts/8mo54q84z9p)
   * Ghostty + tmux + OpenCode + lazygit + Git Worktree 기반 병렬 에이전트 코딩 환경. 에이전트는 코드 생성, 사람은 diff 리뷰. 워크트리로 세션 격리하여 진정한 병렬 개발
+* [My AI Adoption Journey | Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+  * AI 회의론에서 생산적 활용까지 6단계 여정. 챗봇→전문 에이전트로 진화하며 작업 선별, 검증 시스템, 워크플로우 최적화를 통해 실질적 효율 달성
 * [Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion - YouTube](https://www.youtube.com/watch?v=CrE2cpW4CGQ)
   * [AI 지원 개발: 시스템, 관계, 그리고 대응 | Jessica Kerr & Diana Montalion](https://livewiki.com/ko/content/ai-assisted-development)
 * [Joe Magerramov's blog: The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
@@ -3517,6 +3519,9 @@ Artificial Intelligence
       * [Harness — Agent Team & Skill Architect](https://revfactory.github.io/harness)
       * [Harness - Claude Code Agent Team & Skill Architect 플러그인 | GeekNews](https://news.hada.io/topic?id=27969)
       * 단일 프롬프트로 도메인 전용 에이전트 팀 설계·스킬 자동 생성하는 메타 스킬. 6가지 아키텍처 패턴(Pipeline, Fan-out/Fan-in, Expert Pool 등), Progressive Disclosure, 드라이런 검증. SE 태스크 15개 기준 평균 60% 품질 향상
+      * [harness-100: Harness Engineering 100-step self-study course](https://github.com/revfactory/harness-100)
+      * [Minho Hwang | Facebook](https://www.facebook.com/rev.minho/posts/pfbid02ot6HSBfnMmCCDZBVX7RvmZA3Y7S2YB5KWZCBemwR2pVkhvQs4RazpdoEq6VEe3xRl)
+      * [Minho Hwang | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0ifoKJRTn4gTMdXm8adyTxpoeoE4zDk6MiA2oKdNuMFJZSQkFDZ63PAQAXBUMgJ9Gl)
   * [claude-code-harness: Plan→Work→Review→Release cycle with safety guardrails for Claude Code](https://github.com/Chachamaru127/claude-code-harness)
     * Claude Code를 구조화된 개발 워크플로우로 변환하는 프레임워크. 13개 TypeScript 안전 규칙(R01-R13), 병렬 워커 실행, 4관점 코드 리뷰(보안/성능/품질/접근성), 자동 체인지로그·태깅·릴리스. Breezing 모드로 자율 에이전트 팀 운영
     * [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) claude code academy
@@ -3665,9 +3670,13 @@ Artificial Intelligence
       * [gstack: YC CEO Garry Tan의 Claude Code 워크플로우](https://livewiki.com/ko/content/gstack-yc-ceo-garry-tan)
     * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
     * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
+    * [Why Garry Tan's Claude Code setup has gotten so much love, and hate | TechCrunch](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
   * [HolyClaude: Containerized AI development workstation with Claude Code](https://holyclaude.coderluii.dev/)
     * [HolyClaude](https://github.com/CoderLuii/HolyClaude)
     * Docker 원커맨드 Claude Code 워크스테이션. 웹 UI, Playwright 헤드리스 브라우저, 7개 AI CLI, 50+ 개발 도구 번들
+  * [hoyeon: Requirements-first AI coding plugin for Claude Code](https://github.com/team-attention/hoyeon)
+    * [hoyeon GitHub | hoyeonleekr](https://www.linkedin.com/posts/hoyeonleekr_github-team-attentionhoyeon-multi-agent-activity-7439079236365242368-Syst)
+    * 6계층 요구사항 도출(Goal→Context→Decisions→Requirements→Scenarios→Tasks), spec.json 기반 결정론적 실행, 24 Skills + 21 Agents + 18 Hooks
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
@@ -3707,6 +3716,16 @@ Artificial Intelligence
       * [Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
       * [Harness Design for Long-Running Apps \ Anthropic](https://www.anthropic.com/engineering/harness-design-long-running-apps)
         * [Anthropic Harness Design for Long-Running Apps 정리](https://digitalbourgeois.tistory.com/2923)
+        * [Harness engineering | OpenAI](https://openai.com/ko-KR/index/harness-engineering/)
+        * [하네스 엔지니어링이 뭔데? Anthropic이 직접 공개한 AI 성능의 진짜 비밀 | Seungpil Lee](https://kr.linkedin.com/pulse/%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%B4-%EB%AD%94%EB%8D%B0-anthropic%EC%9D%B4-%EC%A7%81%EC%A0%91-%EA%B3%B5%EA%B0%9C%ED%95%9C-ai-%EC%84%B1%EB%8A%A5%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%B9%84%EB%B0%80-seungpil-lee-xnnmc)
+        * [Claude Code 동작 원리 정리 - Harness, Context, Memory까지](https://malwareanalysis.tistory.com/903)
+        * [하네스 엔지니어링 개념 및 실전 적용 사례](https://eopla.net/magazines/40961)
+        * [하네스 엔지니어링: AI 에이전트를 제대로 일하게 만드는 기술](https://www.fullstackfamily.com/@urstory/posts/14265)
+        * [모델이 개선될때마다 하네스는 어떻게 바뀌어야하나 | HT Hwang](https://www.linkedin.com/posts/ht-hwang_%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EA%B0%9C%EC%84%A0%EB%90%A0%EB%95%8C%EB%A7%88%EB%8B%A4-%ED%95%98%EB%84%A4%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EB%80%8C%EC%96%B4%EC%95%BC%ED%95%98%EB%82%98-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%B4-share-7442713502244401152-GR_l)
+        * [하네스 엔지니어링이란 무엇인가](https://blog.naver.com/beyond-zero/224232832597)
+        * [gstack? 하네스 엔지니어링? 직접 써봤더니 진짜 중요한 건 따로 있었다 - YouTube](https://www.youtube.com/watch?v=OvZiSEZpzxs)
+        * [AGI KR | Facebook](https://www.facebook.com/groups/agikr/permalink/2912180799122959/)
+        * [Seungjoon Choi | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0G41HQkAkUEF7nxp797TXgRZaUBCJPFN7rETcmBURSZk6r7gyBKKqbkqyH32u1Z4Jl)
     * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
       * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
     * [요즘 개발자들이 Ralph 플러그인에 주목하는 이유 : 랄프 루프 실제 후기](https://litmers.com/blog/%EC%9A%94%EC%A6%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ralph-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%9E%84%ED%94%84-%EB%A3%A8%ED%94%84-%EC%8B%A4%EC%A0%9C-%ED%9B%84%EA%B8%B0)
@@ -3718,6 +3737,7 @@ Artificial Intelligence
       * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
       * [Stop Using The Ralph Loop Plugin | tobyilee](https://www.linkedin.com/posts/tobyilee_stop-using-the-ralph-loop-plugin-activity-7438021804327145473-lBLZ)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
+    * [AGENT THREADS: How to SHIP like Boris Cherny. Ralph Wiggum in Claude Code - YouTube](https://www.youtube.com/watch?v=-WBHNFAB0OE)
     * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
     * [ralph: The Original RALF Loop Implementation](https://github.com/snarktank/ralph)
   * [refactoring-ui-skill: Agent skill for professional UI design based on Refactoring UI](https://github.com/jaywilburn/refactoring-ui-skill)
@@ -4089,6 +4109,8 @@ Artificial Intelligence
     * [최승준 - Moltbook: 지금 인터넷에서 가장 흥미로운 공간 2026년 1월 30일, Simon Willison... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0yWtPueNf6Jhhpz9aBHGZLA1SV9tVnbk9LeqNW4oStP2oBukgUJyqXCwZYxvQQAjol)
 * [mse_ai_api: FastAPI proxy that converts ChatGPT web interface into OpenAI-compatible API](https://github.com/MohamedElsayed-debug/mse_ai_api)
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
+* [oh-my-agentic-score: Measure and visualize your agentic coding quality](https://github.com/HwangTaehyun/oh-my-agentic-score)
+  * [oh-my-agentic-score 당신의 agentic coding | Taehyun Hwang](https://www.linkedin.com/posts/taehyun-hwang-876631201_oh-my-agentic-score-%EB%8B%B9%EC%8B%A0%EC%9D%98-agentic-coding-ugcPost-7435976945043107840-t-oy)
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
   * [지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode) - YouTube](https://www.youtube.com/watch?v=BhZofx0Ms88)
