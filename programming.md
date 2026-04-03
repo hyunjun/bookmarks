@@ -5709,6 +5709,9 @@ Programming
   * [Ente Auth - Authy를 대체가능한 오픈소스 2FA앱 | GeekNews](https://news.hada.io/topic?id=15741)
 * [EnvKey: End-To-End Encrypted Environments](https://v2.envkey.com/)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
+* [EUOSINT](https://osint.scalytics.io/)
+  * [EUOSINT](https://github.com/scalytics/EUOSINT)
+  * 실시간 모니터링, 이상 탐지, 스파이크 분석, 분쟁 예측을 위한 오픈소스 OSINT 플랫폼. 다양한 데이터 소스를 크로스 분석하여 지정학적 위협 추적
 * Fail2Ban [기본적 서버 보안 프로그램, Fail2Ban 사용법 기초부터 실전 사용법까지 알아 보기 | 웹으로 말하기](https://mytory.net/2022/01/16/fail2ban.html)
 * [feistel_cipher](https://github.com/devall-org/feistel_cipher)
   * [Feistel Cipher - Computerphile - YouTube](https://www.youtube.com/watch?v=FGhj3CGxl8I)
@@ -5788,6 +5791,9 @@ Programming
   * [Keygraph: Identity, Device Management & Compliance Platform](https://keygraph.io/)
   * [shannon/sample-reports/shannon-report-juice-shop.md at main · KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon/blob/main/sample-reports/shannon-report-juice-shop.md)
   * [이보라 - 일년에 몇번이 아닌 매일, 배포마다 하는 침투테스트 Shannon이면 가능합니다. OWASP 주요 취약점... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid0UixmqebYfdS4t4PMneL3oo2MU6Kj3BJxKz46fxPZXYxLQbYy7YSyM4UPzDjP9hfnl)
+* [Sherlock](https://sherlockproject.xyz/)
+  * [sherlock: Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)
+  * 사용자명으로 400+ 소셜 네트워크에서 계정을 검색하는 OSINT 도구. CLI 기반, Python
 * [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
 * [SIEM Security & SOC Services | Cloud & Self-Hosted](https://logrhythm.com/)
   * [SIEM Rules For Companies. What is SIEM, and which rules should be… | by Guven Boyraz | Medium](https://medium.com/@guvenboyraz/siem-rules-for-companies-6ac21938d1c2)
