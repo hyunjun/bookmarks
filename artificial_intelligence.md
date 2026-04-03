@@ -3151,9 +3151,9 @@ Artificial Intelligence
   * StackBlitz의 AI 풀스택 웹 개발 도구. 프롬프트로 앱 생성·실행·편집·배포까지 브라우저에서 원스톱 처리. WebContainers 기반
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
-* [cmux](https://www.cmux.dev/)
-  * [cmux: A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
-  * [Claude Code + CMUX: 최강의 AI 코딩 터미널을 만나보세요 - YouTube](https://www.youtube.com/watch?v=FXf-KKiLZmk)
+* Claude Conway
+  * [Claude Conway라는 게 오고 있다 | Ethan Cho](https://www.linkedin.com/posts/ethan-yj-cho_claude-conway%EB%9D%BC%EB%8A%94-%EA%B2%8C-%EC%98%A4%EA%B3%A0-%EC%9E%88%EB%8B%A4-%EC%95%84%EB%A7%88%EB%8F%84-%EB%AD%94%EC%A7%80-%EC%95%84%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%84-share-7445638501456551936-RE7W/)
+  * Anthropic이 개발 중인 항상 가동되는(always-on) AI 에이전트. 웹훅 자동 활성화, 브라우저 제어. 기존 AI 스타트업 5가지 유형을 잠식할 것으로 전망
 * [Claude Code overview - Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/)
   * [Claude Code Best Practices \ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
     * [클로드 코드 모범 사례 - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
@@ -3757,6 +3757,9 @@ Artificial Intelligence
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
+* [cmux](https://www.cmux.dev/)
+  * [cmux: A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
+  * [Claude Code + CMUX: 최강의 AI 코딩 터미널을 만나보세요 - YouTube](https://www.youtube.com/watch?v=FXf-KKiLZmk)
 * [CocoIndex](https://cocoindex.io/)
   * [cocoindex-io/cocoindex: Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!](https://github.com/cocoindex-io/cocoindex)
 * [code-squad: Stay in flow while building with AI](https://github.com/team-attention/code-squad)
