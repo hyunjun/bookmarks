@@ -952,6 +952,11 @@ Artificial Intelligence
 * [OpenJarvis: Opinionated framework for local-first personal AI](https://github.com/open-jarvis/OpenJarvis)
   * [로컬 퍼스트 개인 AI를 위한 프레임워크, OpenJarvis 완전 정리](https://digitalbourgeois.tistory.com/2885)
   * Stanford Hazy Research. 온디바이스 AI 에이전트 프레임워크, 에너지·지연 시간을 1차 제약 조건으로 평가, 로컬 트레이스 데이터 학습 루프
+* [openJiuwen](https://www.openjiuwen.com/)
+  * [openJiuwen-ai](https://github.com/openJiuwen-ai)
+  * [OpenJiuwen Community Releases JiuwenClaw: A Self-Evolving AI Agent for Task Management](https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/)
+  * [JiuwenClaw: 대화를 넘어 실제 업무를 끝까지 수행하는 자기 진화형 AI 에이전트](https://digitalbourgeois.tistory.com/2937)
+  * 프로덕션급 AI 에이전트 플랫폼. 이벤트 기반 멀티 에이전트 제어, 자동 상태 관리, 텍스트 그래디언트 프롬프트 최적화. JiuwenClaw는 계층형 메모리와 자기 진화 메커니즘으로 요구사항 변화에 적응하며 작업 완수
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
@@ -987,6 +992,9 @@ Artificial Intelligence
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
+* [Sirchmunk](https://modelscope.github.io/sirchmunk-web/)
+  * [sirchmunk](https://github.com/modelscope/sirchmunk)
+  * 벡터 DB 없이 Monte Carlo 샘플링 + ReAct 에이전트로 원본 데이터에서 실시간 검색하는 에이전틱 검색 엔진. MCP, REST API, CLI, Web UI 지원
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
@@ -2623,6 +2631,8 @@ Artificial Intelligence
   * [소프트웨어 엔지니어링의 향후 2년 | GeekNews](https://news.hada.io/topic?id=25769)
 * [김태영 - AI 멀티 에이전트 개발 효과성 분석 - AI 에이전트 11명에게 스프린트를 통째로 맡겨봤습니다 (AI SDLC Agentic Coding 주제로) | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
   * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
+* [IT 회사에서 AI 가 진짜 바꿔놓을 것들](https://seokjun.kim/what-ai-really-changes-it-industry)
+  * Claude Max 한 달 사용 경험 기반 AI 시대 IT 업계 변화 분석. PM 역할 축소, 개발자 중심 조직 재편, 디자이너 역할 변화, 팀 구조 수평화, AI 접근성 격차 심화
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
@@ -4161,6 +4171,8 @@ Artificial Intelligence
       * [claudepilot-openclaw/CLAUDEPILOT-STANDARD.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-STANDARD.md)
       * [claudepilot-openclaw/CLAUDEPILOT-PRO.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-PRO.md)
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
+  * [ClawManager — Cluster-Scale OpenClaw Management](https://yuan-lab-llm.github.io/ClawManager/)
+    * [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
   * [ContextGraph: Visual knowledge graph for OpenClaw agent context](https://github.com/AllenMaxi/ContextGraph)
   * [Crew — Your Personal AI Agent](https://crew.you/)
     * OpenClaw 상용 버전. 50+ 도구, 7+ 메신저 연결, Gmail·Calendar·Slack·Discord 통합 관리형 AI 에이전트 서비스
