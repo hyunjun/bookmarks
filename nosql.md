@@ -666,6 +666,9 @@ NoSQL
 * [Supabase API Key 생성하기](https://devway.tistory.com/76)
 * [AI 시대, 오픈소스 백엔드의 강자 Supabase](https://brunch.co.kr/@ywkim36/188)
   * [김영욱 - <🚀 AI 시대, 오픈소스 백엔드의 진짜 주인공 — 수파베이스(Supabase) > 요즘 AI 바이브... | Facebook](https://www.facebook.com/story.php?story_fbid=10235710653320312&id=1037158560)
+* [Supabase CLI](https://supabase.com/docs/reference/cli/introduction)
+  * [cli: Supabase CLI](https://github.com/supabase/cli)
+  * 로컬 개발, DB 마이그레이션, Edge Functions 배포, CI/CD 통합 등 Supabase 프로젝트를 터미널에서 관리하는 공식 CLI
 * [crossplatformkorea/CPK](https://github.com/crossplatformkorea/cpk)
   * [커뮤니티 앱 개발 리뷰 - YouTube](https://www.youtube.com/watch?v=U_wgty0DMjE)
 
