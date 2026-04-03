@@ -3881,6 +3881,9 @@ NLP
     * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
       * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
       * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
+  * [Qwen3.6](https://qwen.ai/blog?id=qwen3.6)
+    * [Qwen3.6-Plus 기술 업데이트 핵심 정리: 에이전트 코딩과 멀티모달 AI의 실제 활용 단계 진입](https://digitalbourgeois.tistory.com/2947)
+    * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -3892,6 +3895,8 @@ NLP
     * [박상길 - 저희가 이번에 Smoothie Qwen이라는 이름의 오픈소스를 릴리즈 했습니다. - 공식 깃헙... | Facebook](https://www.facebook.com/likejazz/posts/pfbid0rFQJ9i2YMWf3z85XiqY1biDnmxJ5e6TesH5Vw4QRrnaNA93DNA8kYXSiD5XmY9Fzl)
     * [캐럿 노트북 LM AI 검열 해제 스무디 의 혁신 - YouTube](https://www.youtube.com/watch?v=suwTPkaEZ_E)
       * [양병석 - 이제 제 노트북에서 로컬 llm돌릴수 있는 환경이 됬습니다. 그런데 역시 deepseek답네요. ㅜㅡ... | Facebook](https://www.facebook.com/fstory97/posts/pfbid02pfex8AJ8z7v9KDa4HJR47x55LWPKFfi6TXfw1aERzGKSwRnNuhdnC2Gsgzh8wFcQl)
+* [quant.cpp: Lightweight embeddable LLM inference engine in pure C with ~4x longer context via delta KV compression](https://github.com/quantumaikr/quant.cpp)
+  * 33K LOC 순수 C11 구현, 외부 라이브러리 제로. Delta KV 압축으로 3.8~4.3배 메모리 절감, ARM NEON/AVX2/Metal/CUDA/Vulkan 지원
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
   * [Reader-LM : HTML을 마크다운으로 변환하는 작은 언어 모델 | GeekNews](https://news.hada.io/topic?id=16744)
 * [RLYX: A hackable, simple, and reseach-friendly GRPO Training Framework with high speed weight synchronization in a multinode environment.](https://github.com/goddoe/RLYX)
