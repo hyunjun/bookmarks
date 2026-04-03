@@ -312,6 +312,8 @@ App
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Explore the night sky with this open source astronomy app | Opensource.com](https://opensource.com/article/21/1/kstars)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
+* [another: A desktop app for mirroring and controlling Android devices over USB](https://github.com/Zfinix/another)
+  * Tauri + React + Rust 기반. USB를 통한 안드로이드 기기 미러링 및 제어 데스크톱 앱
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [perch - See What’s Happening At Home](https://getperch.com/)
@@ -2449,6 +2451,8 @@ App
   * [yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 * [YouTube.js: 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
   * [Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=6372)
+* [youtube-shorts-pipeline: Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload](https://github.com/rushindrasinha/youtube-shorts-pipeline)
+  * 뉴스 수집부터 스크립트 생성, AI 비주얼, 보이스오버, 자막, 업로드까지 YouTube Shorts 제작 전 과정 자동화 파이프라인
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
 * [ytm-player: Full-featured YouTube Music player for the terminal with vim-style keybindings](https://github.com/peternaame-boop/ytm-player)
@@ -2844,6 +2848,8 @@ App
 * [macOS Screen Annotation Tools: What's the best app? - 9to5Mac](https://9to5mac.com/2020/05/03/macos-screen-annotation-tools/)
   [DemoPro – Screen annotation and countdown timer for Mac](http://www.demoproapp.com/)
 * [Epic Pen: The worlds most popular screen marker app!](https://epic-pen.com/)
+* [openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks. An alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+  * Screen Studio 대체 오픈소스 화면 녹화/데모 도구. 무료, 구독 없음, 워터마크 없음, 상업적 사용 가능
 * [ZoomIt - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/ko-kr/sysinternals/downloads/zoomit)
 
 # Search
