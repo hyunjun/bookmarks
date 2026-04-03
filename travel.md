@@ -283,6 +283,8 @@ Travel
   * [교토 맛집 후회없는 4곳 가성비 좋고 맛도 좋은 곳 - YouTube](https://www.youtube.com/shorts/n2UhT3W0BLU)
   * [春に行きたい最新おすすめ京都カフェ10選 - YouTube](https://www.youtube.com/watch?v=szuE5joWwic)
   * [春の嵐山でカフェも食べ歩きも桜も楽しむ日 - YouTube](https://www.youtube.com/watch?v=TvvOU0gNu5Y)
+  * [교토 여행 매년 교토 가는 사람이 알려주는 '1일 8끼 찐맛집 루트' - YouTube](https://www.youtube.com/watch?v=DKs679DHBO4)
+  * [12월의 교토 여행 5박6일동안의 찐맛집 모음 - YouTube](https://www.youtube.com/watch?v=aSgBHOFPaLc)
 
 ### 홋카이도
 * [홋카이도 단상](https://estimastory.com/2017/08/13/hokkaido/)
