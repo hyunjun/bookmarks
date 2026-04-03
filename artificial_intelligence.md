@@ -889,6 +889,7 @@ Artificial Intelligence
   * [Don’t Talk English to Your LLM. Just because LLMs are eloquent in… | by Rod Johnson | Oct, 2025 | Medium](https://medium.com/@springrod/dont-talk-english-to-your-llm-ecbfe954bea1)
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
+* [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
@@ -1178,6 +1179,7 @@ Artificial Intelligence
 * [부스트캠프 AI Tech Product Serving, 러닝 마스터 강의 후기 · 어쩐지 오늘은](https://zzsza.github.io/diary/2022/06/17/boostcamp-aitech-lecture-design-retrospective/)
 * [Free AI courses from Amazon for 2025 | Sai V.님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sai-v-34238017a_aws-cloudcomputing-jobopportunity-activity-7375514800505868288-vXH5)
 * [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
+* [ai-agents-for-beginners: 10 Lessons to Get Started Building with AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
 * [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Anthropic Courses](https://anthropic.skilljar.com/)
@@ -3114,6 +3116,7 @@ Artificial Intelligence
 * [ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications](https://github.com/patchy631/ai-engineering-hub)
 * [ai-engineering-toolkit: A curated list of 100+ libraries and frameworks for AI engineers building with LLMs](https://github.com/Sumanth077/ai-engineering-toolkit)
   * 벡터DB, 오케스트레이션(LangChain, DSPy), 에이전트 프레임워크(AutoGen, CrewAI), 미세조정(Unsloth), 추론엔진(vLLM, Ollama), 평가(Ragas, DeepEval) 등 LLM 앱 개발 전 영역을 커버하는 도구 모음
+  * [Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
 * [AI WhatChelin? — AI 코딩/생산성 도구 비교 가이드 (자동 업데이트)](https://github.com/tykimos/ai-whatchelin)
 * [AxonHub — Open-source AI gateway for 100+ LLMs](https://axonhub.onrender.com/)
   * [axonhub](https://github.com/looplj/axonhub)
