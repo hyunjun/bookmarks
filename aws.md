@@ -2935,6 +2935,10 @@ AWS
   * [Integration testing with Weaver and Localstack - Dev notes](https://blog.michal.pawlik.dev/posts/scala/weaver-localstack/)
   * [LocalStack in VSCode. Developing using localstack from within… | by Chris Dobson | Sep, 2025 | Medium](https://chrisdobby.dev/localstack-in-vscode-a8a9e8d53d10)
   * [Run AWS Locally with Docker (LocalStack) - YouTube](https://www.youtube.com/watch?v=jz7oq-Viwew)
+* [MiniStack — Free Open-Source Local AWS Emulator](https://ministack.org/)
+  * [ministack](https://github.com/Nahuel990/ministack)
+  * [MiniStack - 무료 오픈소스 로컬 AWS 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=28106)
+  * LocalStack 무료 대안. 34개 AWS 서비스 에뮬레이션, 실제 Postgres/Redis/Docker 컨테이너, 2초 시작, 회원가입/API 키 불필요
 * [moto: A library that allows you to easily mock out tests based on AWS infrastructure](https://github.com/getmoto/moto)
   * [how to work moto mock aws function internally? - Codingdog Blog](https://codingdog.pe.kr/2024/04/17/how-to-work-moto-mock-aws-function-internally/)
 * [sample-qa-studio](https://github.com/aws-samples/sample-qa-studio)
