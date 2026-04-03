@@ -410,6 +410,8 @@ Finance
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * openbb [Investment research for everyone](https://openbb.co/)
+  * [OpenBB: Investment research for everyone, everywhere](https://github.com/OpenBB-finance/OpenBB)
+  * 오픈소스 투자 리서치 플랫폼. 주식, 옵션, 암호화폐, 외환, 거시경제 데이터 분석. Python 기반, 터미널 UI 및 SDK 제공
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [wallstreetlocal: Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful](https://github.com/leftmove/wallstreetlocal)
