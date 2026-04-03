@@ -897,6 +897,9 @@ Artificial Intelligence
   * [Hashbrown is a framework for building agents that run the browser. Built for Angular and React](https://github.com/liveloveapp/hashbrown)
 * [Hermes Agent — An Agent That Grows With You](https://hermes-agent.nousresearch.com/)
   * Nous Research의 자율 AI 에이전트. 서버 상주·영구 메모리·자동 스킬 생성. Telegram/Discord/Slack/WhatsApp 멀티채널, Docker/SSH 샌드박스 실행. MIT 오픈소스
+* [hive](https://github.com/aden-hive/hive)
+  * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
+  * 프로덕션용 AI 에이전트 런타임 프레임워크. 자연어 목표 → 에이전트 그래프 자동 생성·실행·모니터링, 상태 관리·장애 복구·비용 통제·적응형 자기 개선
 * [Jarda — Personal AI Assistant](https://asistentbudoucnosti.cz/)
   * 개인 AI 어시스턴트 1분 배포 서비스. WhatsApp/Telegram 통합, Claude Opus/GPT 지원, 전용 서버 기반, 200 Kč/월(~$8)
 * [kaida-shield: The secure runtime for AI agents. Run anything. Break nothing.](https://github.com/ajpandit775/kaida-shield)
@@ -927,6 +930,8 @@ Artificial Intelligence
 * [Naia OS - Next AI Networks OS](https://naia.nextain.io/ko/blog/20260304-why-naia-os)
   * [naia-os](https://github.com/nextain/naia-os)
   * 개인 AI 운영체제. 3D VRM 아바타, 다중 LLM 지원(Gemini/Claude/GPT/Ollama), 음성 합성, 70+ 스킬, Discord 통합, USB 부팅 지원. Tauri 데스크톱 앱
+* [ohwow: Local-first AI runtime for humans and AI agents to work together](https://github.com/ohwow-fun/ohwow)
+  * 로컬 퍼스트 AI 런타임. 48개 사전빌드 에이전트, 6개 비즈니스 유형, 150+ 통합 도구. macOS 데스크톱 자동화, 멀티디바이스 메시, 에너지 패턴 학습
 * [OmAgent: Build multimodal language agents for fast prototype and production](https://github.com/om-ai-lab/OmAgent)
   * [옴에이전트](https://om-agent.cn/)
 * [OpenAgent: The Web3 AI Agent Solution](https://github.com/webisopen/OpenAgent)
@@ -1542,6 +1547,9 @@ Artificial Intelligence
   * [✨구글 Gemma 2 분석: 최신 오픈소스 모델로 무료 챗봇 만들기 🤖🔓](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%EA%B5%AC%EA%B8%80-Gemma-2-%EB%B6%84%EC%84%9D-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%AC%B4%EB%A3%8C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%F0%9F%A4%96%F0%9F%94%93)
   * [소소한 코딩 화면 공유 - Google gemma2 서버 만들기 - YouTube](https://www.youtube.com/watch?v=8nPpLqGQNIw)
   * [Gemma3:1b, 4b, 12b, 27b 비교 - YouTube](https://www.youtube.com/watch?v=IyfhWzanyeY)
+  * [gemma4.md](https://github.com/huggingface/blog/blob/main/gemma4.md)
+    * [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4)
+    * Apache 2 오픈소스. E2B/E4B/26B MoE/31B dense 4종, 이미지·텍스트·오디오 입력, PLE·Shared KV Cache 아키텍처, llama.cpp/MLX 등 온디바이스 지원
   * [Tracing the Architectural Evolution of Gemma | by Krupa Galiya | Aug, 2025 | Medium](https://medium.com/@krupagaliya/tracing-the-architectural-evolution-of-gemma-8f95e410e6fc)
   * [DataGemma: AI open models connecting LLMs to Google’s Data Commons](https://blog.google/technology/ai/google-datagemma-ai-llm/)
     * [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
@@ -2498,6 +2506,8 @@ Artificial Intelligence
   * [AI for Science 21/11/25 | Notion | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai-for-science-211125-notion-activity-7397506385451724800-C7lB)
 * [Human-AI teaming in healthcare: 1 + 1 > 2? | npj Artificial Intelligence](https://www.nature.com/articles/s44387-025-00052-4)
   * [최윤섭 - 의사 <<< 의사+AI <<< AI 의 미래 제가 최근 의료 인공지능 연구 결과들을 보면서 어렴풋이... | Facebook](https://www.facebook.com/yoonsup.choi/posts/pfbid0ipNVyrvtGGTbcerbNEEU4pYfBjzdBfKYiqiXt115wVdZjaDSLQ5tAPMqYVvTYRrWl)
+* [AI, Human Cognition and Knowledge Collapse](https://economics.mit.edu/sites/default/files/2026-02/AI%2C%20Human%20Cognition%20and%20Knowledge%20Collapse%2002-20-26.pdf)
+  * MIT 논문. AI 의존이 인간 인지 능력과 지식 다양성에 미치는 영향. 지식 붕괴(Knowledge Collapse) 현상 분석
 * [2502.01493 The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration](https://arxiv.org/abs/2502.01493)
   * [이 논문은 인간-AI 협업이 기능하기 위해 반드시 갖추어야 할 세 가지 조건을 제시한다. | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%9D%B4-%EB%85%BC%EB%AC%B8%EC%9D%80-%EC%9D%B8%EA%B0%84-ai-%ED%98%91%EC%97%85%EC%9D%B4-%EA%B8%B0%EB%8A%A5%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%95%BC-%ED%95%A0-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%A1%B0%EA%B1%B4%EC%9D%84-activity-7350147720826798080-rsLH)
   * [2404.00029 Complementarity in Human-AI Collaboration: Concept, Sources, and Evidence](https://arxiv.org/abs/2404.00029)
@@ -4276,6 +4286,8 @@ Artificial Intelligence
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
     * [10달러 하드웨어에서 동작하는 초경량 AI 어시스턴트, PicoClaw 기술 정리](https://digitalbourgeois.tistory.com/2734)
   * [pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw)
+  * [presidio-pii-skill: Local PII protection skill for Hermes and OpenClaw agents using Microsoft Presidio](https://github.com/ARegalado1/presidio-pii-skill)
+    * Microsoft Presidio 기반 로컬 PII 보호 스킬. AI 모델 전달 전 개인정보 익명화, 전달 후 원본 복원. 이름, 전화, 이메일, 주소 등 자동 감지
   * [RemoteClaw - Easier to Create New OpenClaw Bot](https://remoteclaw.io/)
     * [OpenClaw Community | 🦞 RemoteClaw.io — Your 24/7 OpenClaw Agent, Hosted in the Cloud | Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1605174587299598/)
   * [rivonclaw: OpenClaw variant](https://github.com/gaoyangz77/rivonclaw)
