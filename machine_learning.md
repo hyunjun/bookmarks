@@ -789,6 +789,7 @@ Machine Learning
 * [A Comprehensive Guide to Machine Learning (Berkeley University) - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/free-book-a-comprehensive-guide-to-machine-learning-berkeley)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [dmls-book: Companion repo for Designing Machine Learning Systems by Chip Huyen](https://github.com/chiphuyen/dmls-book)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
   * [iml: Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/) r package
