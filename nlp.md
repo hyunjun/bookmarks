@@ -2772,6 +2772,7 @@ NLP
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
 * [awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models](https://github.com/Shubhamsaboo/awesome-llm-apps)
   * [unwind ai](https://www.theunwindai.com/)
+* [Awesome-LLM-Inference: A curated list of Awesome LLM Inference Paper with Code](https://github.com/xlite-dev/Awesome-LLM-Inference)
 * [awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
 * [awesome-llm-os: A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS)](https://github.com/bilalonur/awesome-llm-os)
@@ -3644,6 +3645,7 @@ NLP
   * [AIboard](https://github.com/Hyeong-soo/AIboard)
     * [GitHub - Hyeong-soo/AIboard | Hyeong-soo Kim](https://www.linkedin.com/posts/henry---kim_github-hyeong-sooaiboard-activity-7400459351049760768-iBMY)
 * [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks](https://github.com/mlabonne/llm-course)
+  * [mlabonne blog](https://mlabonne.github.io/blog/)
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning](https://github.com/mlabonne/llm-datasets)
 * [llm_distillation_playbook: Practical best practices for distilling large language models](https://github.com/predibase/llm_distillation_playbook)
