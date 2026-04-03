@@ -207,6 +207,7 @@ Sports
 * [토아일당 - kbo리그 타자 에이징커브 분석방법은 팬그래프와 기본적으로 같다. = 델타메소드? 전년도, 당년도 모두... | Facebook](https://www.facebook.com/toa.united/posts/pfbid0ahDV4rThwTDqmrVYeyoPGvKFepWeuDqqxPTqohZ7u2PVo2cJQqJ7kLYRbBYnfdVJl)
 * [무명 투수에게 마법이…9개월 만에 143km→151km, 어떻게 가능했나](https://v.daum.net/v/20260114200724417) 부상 위험과 구속은 어깨 수치와 상관관계
 * [야구의 절대 근본이 흔들린다? 죽어가는 포심 패스트볼 - YouTube](https://www.youtube.com/watch?v=PlJi8EEMmsI) 포심 가치 하락과 반등
+* [어깨는 쓸수록 진짜 약해지나요?](https://yagongso.com/does-the-shoulder-really-get-weaker-the-more-you-use-it/)
 * [한국야구학회 - YouTube](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%EC%95%BC%EA%B5%AC%ED%95%99%ED%9A%8C)
 
 # Basketball
