@@ -1619,6 +1619,9 @@ Business
 * [Collaboration sucks - by Charles Cook](https://newsletter.posthog.com/p/collaboration-sucks)
   * [협업은 쓸모없다 | GeekNews](https://news.hada.io/topic?id=24312)
 * [감정을 돌보면 일이 잘 되고, 공감 없는 협업은 없다](https://brunch.co.kr/@graypool/2516)
+* [번역 "Collaboration" is bullshit](https://wjkoh.com/posts/collaboration-is-bullshit/)
+  * [번역 "Collaboration" is bullshit | Woojong Koh](https://www.linkedin.com/posts/wjkoh_%EB%B2%88%EC%97%AD-collaboration-is-bullshit-share-7442503206053765120-JlNv)
+  * 협업 도구의 과다 사용이 실제 업무를 방해하고 책임 회피를 초래. 진정한 성과는 소수의 깊이 있는 개입에서 비롯된다는 주장
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
@@ -4132,6 +4135,8 @@ Business
 * [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
 * [Venturing Insights #9 - From PoC to MVP: Navigating the Alphabet Soup of Innovation](https://openroadventuress.substack.com/p/venturing-insights-9-from-poc-to)
   * [Daero Won - "idea - PoC - Prototype(혹은 Pretotype) - Pilot - MVP" 이... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid031xs5HjjS1URU13ZBhp7ajyAm2WKMkPDDspAijPtCm6AdBTkioTBC4kYZ5DBR99T3l)
+* [PoC의 시대가 가고 PoM의 시대가 되었습니다](https://outstanding.kr/pom20260326)
+  * 기술검증(PoC)에서 시장검증(PoM)으로 스타트업 평가 기준 전환. "시장이 필요로 하지 않는 제품"이 실패 주원인
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
 * [린스타트업 MVP 설정의 어려움](https://brunch.co.kr/@graypool/10)
