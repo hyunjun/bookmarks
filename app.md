@@ -2727,6 +2727,8 @@ App
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
+  * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
+    * Claude Code, Codex CLI 등 스킬 호환 에이전트에서 사용 가능한 Obsidian 스킬 모음. 마크다운, Bases, Canvas, CLI 지원
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
@@ -2761,6 +2763,7 @@ App
 * [Saner.AI - Personal AI Note & Search Engine](https://saner.ai/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
+* [treemd: A (TUI/CLI) markdown navigator with tree-based structural navigation.](https://github.com/Epistates/treemd)
 * [turndown: An HTML to Markdown converter written in JavaScript](https://mixmark-io.github.io/turndown/)
   * [turndown](https://github.com/mixmark-io/turndown)
 * [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
