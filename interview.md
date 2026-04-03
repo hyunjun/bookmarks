@@ -749,6 +749,8 @@ Interview
 * [**awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems**](https://github.com/binhnguyennus/awesome-scalability)
 * [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)
   * [System Design Fight Club - YouTube](https://www.youtube.com/@SDFC)
+* [system-design-notes](https://github.com/liquidslr/system-design-notes)
+  * [Pagefy - System Design Notes](https://pagefy.io/)
 * [system-design-visualizer: An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI](https://github.com/mallahyari/system-design-visualizer)
 
 # Book
@@ -1141,6 +1143,9 @@ Interview
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
+* [Magic Resume](https://magicv.art/)
+  * [magic-resume: AI-powered resume editor, free, privacy-first, all data stored locally](https://github.com/JOYCEQL/magic-resume)
+  * AI 기반 이력서 편집기. 무료, 프라이버시 우선(로컬 저장), PDF/JSON 내보내기 지원
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * Resume.io [Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
