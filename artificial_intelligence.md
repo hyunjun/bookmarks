@@ -2835,6 +2835,7 @@ Artificial Intelligence
   * [NotebookLM MCP CLI 가이드: Claude와 NotebookLM을 무료로 연동](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude%EC%99%80-NotebookLM%EC%9D%84-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%97%B0%EB%8F%99-NotebookLM-MCP-CLI-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
+  * [notebooklm-py: Python wrapper for Google NotebookLM](https://github.com/teng-lin/notebooklm-py)
   * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [omni: Workplace AI Assistant and Search Platform](https://github.com/getomnico/omni)
@@ -3133,6 +3134,8 @@ Artificial Intelligence
     * [바이브 코딩 근본 문제 해결 도구 bkit, AI 클로드 코드 활용 노하우](https://livewiki.com/ko/content/bkit-ai-claude-code)
 * [bmalph: BMAD-METHOD planning + Ralph autonomous implementation loop](https://github.com/LarsCowe/bmalph)
   * BMAD(분석·설계 3단계) + Ralph(자율 구현 루프) 통합. Claude Code/Codex/OpenCode/Cursor 등 멀티 에이전트 지원
+* [bolt.new: Prompt, run, edit, and deploy full-stack web applications](https://github.com/stackblitz/bolt.new)
+  * StackBlitz의 AI 풀스택 웹 개발 도구. 프롬프트로 앱 생성·실행·편집·배포까지 브라우저에서 원스톱 처리. WebContainers 기반
 * [Caret: Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency](https://github.com/aicoding-caret/caret)
   * [클라인 보다 싸다! 국산 AI바이브 코딩 툴 .. : 네이버블로그](https://blog.naver.com/fstory97/223938886463)
 * [cmux](https://www.cmux.dev/)
@@ -3405,6 +3408,7 @@ Artificial Intelligence
     * QMD(Obsidian 볼트용 로컬 검색 엔진)로 BM25/시맨틱/하이브리드 검색. /recall 스킬로 Temporal/Topic/Graph 모드 과거 컨텍스트 복원. 터미널 종료 시 세션 기록 자동 인덱싱
   * [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
     * [Claude Code 활용 방식: 계획과 실행의 분리 | GeekNews](https://news.hada.io/topic?id=26907)
+    * [Claude Code를 제대로 쓰는 방법: 계획과 실행을 분리한 개발 워크플로우 정리](https://digitalbourgeois.tistory.com/2945)
     * Cloudflare 엔지니어링 리드의 Claude Code 워크플로우. 리서치→계획→주석 순환→구현 4단계로, 코드 작성 전 research.md와 plan.md로 계획을 검토·승인한 뒤 실행하는 방식
   * [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)
     * [Claude는 왜 Electron 앱일까? | GeekNews](https://news.hada.io/topic?id=26890)
@@ -3780,6 +3784,7 @@ Artificial Intelligence
   * [agent-orchestrator: Agentic orchestrator for parallel coding agents](https://github.com/ComposioHQ/agent-orchestrator)
     * 병렬 코딩 에이전트 오케스트레이터. 태스크 계획→에이전트 스폰→CI 수정·머지 충돌·코드 리뷰 자동 처리. Claude Code/Codex/Aider 지원, git worktree 격리
 * [Continue](https://www.continue.dev/) open-source AI code assistant
+  * [continue: the leading open-source AI code assistant](https://github.com/continuedev/continue)
   * [생활코딩 | Cursor IDE와 유사한, 오픈소스 프로그램 소개합니다 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/27454110544202788/)
 * [continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging](https://github.com/AnandChowdhary/continuous-claude)
   * [Continuous Claude / 2025 / Open Source / Anand Chowdhary](https://anandchowdhary.com/open-source/2025/continuous-claude)
@@ -4280,6 +4285,9 @@ Artificial Intelligence
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
+* [Open Interpreter](https://www.openinterpreter.com/)
+  * [open-interpreter: A natural language interface for computers](https://github.com/openinterpreter/open-interpreter)
+  * 자연어로 코드 실행·파일 조작·브라우저 제어 등을 수행하는 오픈소스 인터프리터. Python, JS, Shell 등 다양한 언어 지원
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/mendableai/open-lovable)
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
 * [open-swe: Open-source framework for internal coding agents](https://github.com/langchain-ai/open-swe)
