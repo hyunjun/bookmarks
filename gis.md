@@ -67,6 +67,9 @@ GIS
 
 # Library
 * [2021년 최신 시각화된 지도 제작 프로그램 &사이트 모음!](https://www.finereport.com/kr/%EC%A7%80%EB%8F%84-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
+* [City2Graph](https://city2graph.net/)
+  * [city2graph: A Python library to convert geospatial datasets into graph representations](https://github.com/c2g-dev/city2graph)
+  * 지리공간 데이터를 Graph Neural Network용 그래프로 변환하는 Python 라이브러리. GeoPandas, NetworkX, PyTorch Geometric 통합. 도시 형태학, 교통, 모빌리티 네트워크 등 GeoAI 응용
 * [Crucix: Open-source intelligence aggregation platform — 27 OSINT sources, one command, zero cloud](https://github.com/calesthio/Crucix)
   * 위성 화재 감지, 항공기 추적, 방사선, 분쟁, 경제 지표, 시장 가격, 소셜 센티먼트를 15분 주기로 3D WebGL 대시보드에 통합. Telegram/Discord 알림
 * [dawarich: Self-hosted alternative to Google Location History (Google Maps Timeline)](https://github.com/Freika/dawarich)
