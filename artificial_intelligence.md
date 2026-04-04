@@ -1592,6 +1592,7 @@ Artificial Intelligence
 * [MiroFish: AI prediction engine powered by multi-agent simulation](https://github.com/666ghj/MiroFish)
   * [또다른 MiroFish 대박 프로젝트입니다 | seungpil](https://www.linkedin.com/posts/seungpil_%EB%98%90%EB%8B%A4%EB%A5%B8-mirofish-%EB%8C%80%EB%B0%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%94-op0jogggg%EB%8A%94-ugcPost-7439287445332033536-CtKr)
   * 뉴스·정책·금융 신호를 추출해 디지털 시뮬레이션 구축, 수천 AI 에이전트가 상호작용하며 미래 예측. OASIS 프레임워크 기반
+  * [MiroFish: 멀티 에이전트 군집 지능 기반 AI 예측 엔진](https://digitalbourgeois.tistory.com/2950)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -1846,6 +1847,9 @@ Artificial Intelligence
 * [pocket-server: An OS for your agents, built for your pocket](https://github.com/yayasoumah/pocket-server)
 * [Praison AI: AI Agency - Unlock the Power of AI for Your Business](https://praison.ai/)
   * [PraisonAI Code: AI 코딩 혁신! 이젠 전체 코드 베이스와 대화하세요!(feat. 제미나이) 💬🚀](https://fornewchallenge.tistory.com/entry/PraisonAI-Code-AI-%EC%BD%94%EB%94%A9-%ED%98%81%EC%8B%A0-%EC%9D%B4%EC%A0%A0-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EC%84%B8%EC%9A%94feat-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%F0%9F%92%AC%F0%9F%9A%80)
+* [PrismML — 1-bit Bonsai Series](https://prismml.com/)
+  * [1-bit Bonsai: 초경량 대규모 언어 모델의 실현](https://digitalbourgeois.tistory.com/2949)
+  * 82억 파라미터 전체를 1비트로 구성한 LLM. 모델 크기 1.15GB(기존 대비 14배 소형화), 인텔리전스 밀도 10.6배, 에너지 효율 4~5배 향상. iPhone에서 초당 44토큰 처리로 엣지 AI 배포 실현
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [pydantic-ai: Agent Framework / shim to use Pydantic with LLMs](https://github.com/pydantic/pydantic-ai)
   * [PydanticAI is a Python agent framework developed by the Pydantic team](https://www.linkedin.com/posts/activity-7270196261482307584-PQSn/)
@@ -3121,6 +3125,8 @@ Artificial Intelligence
 * [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
   * Pi/OpenClaw/Codex/Claude용 ACP 클라이언트. 영구 세션, 병렬 세션, 프롬프트 큐잉, 크래시 복구, JSON 출력
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
+* [agent-skills: Browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more](https://github.com/chrlsio/agent-skills)
+  * 13개 코딩 에이전트의 스킬을 통합 관리하는 크로스플랫폼 데스크톱 앱. 마켓플레이스(skills.sh, ClawHub) 연동, SKILL.md 편집기, 파일 변경 자동 감지, 원클릭 멀티 에이전트 동기화. React 19 + Tauri 2(Rust) + SQLite
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
@@ -3384,6 +3390,11 @@ Artificial Intelligence
     * [Claude Code로 바이브 코딩한 책장 프로젝트 | GeekNews](https://news.hada.io/topic?id=25443)
   * [How Claude Code is built - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
     * [lucas on X: "Claude Code 어떻게 만들어졌을까" / X](https://x.com/lucas_flatwhite/status/2006192256106258614)
+  * [How Claude Code works](https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works)
+    * [Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지 | GeekNews](https://news.hada.io/topic?id=28062)
+    * 6단계 Agentic Loop(입력→컨텍스트 조립→API 호출→권한 체크→도구 실행→응답) 구조. 시스템(Git 상태·커밋)과 사용자(CLAUDE.md) 컨텍스트 통합, 3단계 권한 모델(allow/ask/deny), 대화 JSON 저장·복원, 컨텍스트 윈도우 오버플로우 방지
+    * [Claude Code 유출보다 더 흥미로웠던 것 | Paul SungYoung Jung](https://www.linkedin.com/posts/jungsungyoung_claude-code-%EC%9C%A0%EC%B6%9C%EB%B3%B4%EB%8B%A4-%EB%8D%94-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9B%A0%EB%8D%98-%EA%B2%83-claude-code-%EA%B4%80%EB%A0%A8-share-7445238918972837888-khnr)
+      * 에이전트 시스템 운영 4원칙: 복구 계층화(가벼운 복구 우선), 선택적 요약(핵심 맥락 보호), 전환 기록(fallback 추적), 반복 중단(진전 없는 루프 관리). 좋은 AI 시스템은 실패를 더 싸게 복구하고 더 빨리 멈추는 시스템
   * [비개발자, 클로드 코드로 외주 개발 시작하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3525/)
   * [Claude Code 오픈소스 창시자의 Claude 사용법](https://www.notion.so/grumatic/Claude-Code-Claude-2dd0586bce7480eb8f0cc5a07d5dd7ae)
   * [Claude Code 2.1.0 주요 업데이트](https://fornewchallenge.tistory.com/entry/Claude-Code-210-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8)
@@ -3660,6 +3671,9 @@ Artificial Intelligence
     * [Build BEAUTIFUL Diagrams with Claude Code (Full Workflow) - YouTube](https://www.youtube.com/watch?v=m3fqyXZ4k4I)
   * [fastcampus-ai-agent-vibecoding: FastCampus AI Agent & Vibe Coding Course Materials](https://github.com/Koomook/fastcampus-ai-agent-vibecoding)
     * [패스트캠퍼스 강의 자료와 코드를 무료로 공개 | LinkedIn](https://www.linkedin.com/posts/gb-jeong_%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C%EC%99%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B3%A0-activity-7387425128395137025-8bAT/)
+  * [free-claude-code: Run Claude Code CLI and VSCode extension for free using alternative LLM providers](https://github.com/Alishahryar1/free-claude-code)
+    * [Claude Code 50만 라인 유출: Opus 4.7·Mythos 공개 + NVIDIA NIM 활용 무료 Discord Bot 원격 제어](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude-Code-50%EB%A7%8C-%EB%9D%BC%EC%9D%B8-%EC%9C%A0%EC%B6%9C-Opus-47%C2%B7Mythos-%EA%B3%B5%EA%B0%9C-NVIDIA-NIM-%ED%99%9C%EC%9A%A9-%EB%AC%B4%EB%A3%8C-Discord-Bot-%EC%9B%90%EA%B2%A9-%EC%A0%9C%EC%96%B4)
+    * NVIDIA NIM(40 req/min 무료), OpenRouter, LM Studio 등 대체 LLM 프로바이더로 Claude Code 프록시 실행. Discord/Telegram 봇으로 원격 자율 코딩 세션, 5종 경량 API 호출 로컬 처리로 쿼터 절약
   * [free-code: Independently maintained build of Claude Code with telemetry removal, security prompt modifications, and all 54 experimental features enabled](https://github.com/paoloanzn/free-code)
   * [Garry's plan-exit-review skill](https://gist.github.com/garrytan/001f9074cab1a8f545ebecbc73a813df)
     * [garry's-plan-exit-review-skill.md](https://drive.google.com/file/d/15Rpjq21M0iwcuz2ACxMHHx2xiTCJuSjb/view)
@@ -3945,6 +3959,9 @@ Artificial Intelligence
     * GitClear는 153백만 줄의 코드 변경 내역을 분석했음
   * [Agent‑ready in 30 days: a practical blueprint for Copilot Agents - YouTube](https://www.youtube.com/watch?v=Yb0-x49n7Nk)
     * [30일 만에 에이전트 준비: Copilot 에이전트를 위한 실용적인 청사진](https://livewiki.com/ko/content/copilot-agents-blueprint)
+  * [Ten Months with Copilot Coding Agent in dotnet/runtime | .NET Blog](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)
+    * [대규모 코드베이스에 AI 적용하기 - .NET runtime에서의 Copilot Coding Agent 10개월](https://blog.naver.com/drvoss/224236293512)
+    * dotnet/runtime에 CCA 10개월 적용 결과. PR 878개 중 535개 머지(67.9%), 약 27만줄 순증. 코드 정리(84.7%), 테스트(75.6%) 등 기계적 작업에 강점. 명확한 인스트럭션이 성공률(41.7%→71%)을 결정하며, 병목이 코드 생산에서 코드 리뷰로 이동
   * [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
     * [CamoLeak: GitHub Copilot의 치명적 취약점이 프라이빗 소스코드를 유출함 | GeekNews](https://news.hada.io/topic?id=23631)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
@@ -3987,6 +4004,8 @@ Artificial Intelligence
   * [GITHUB COPILOT CODE REVIEW / AI에게 코드 리뷰를 시키는 방법 - YouTube](https://www.youtube.com/watch?v=ghFvqUeOc8A)
     * [GitHub Copilot을 활용한 AI 코드 리뷰 자동화 및 활용 팁 (Remote Indexing, LLM 모델, 모드, 프롬프트, 인스트럭션)](https://livewiki.com/ko/content/github-copilot-code-review-ai)
   * [Agents panel: Launch Copilot coding agent tasks anywhere on github.com - GitHub Changelog](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com/)
+  * [copilot-cli-for-beginners: 8-chapter progressive course for GitHub Copilot CLI](https://github.com/github/copilot-cli-for-beginners)
+    * GitHub Copilot CLI 입문 과정. 설치부터 커스텀 에이전트, MCP 서버 연동까지 8챕터 구성. Python 도서 관리 앱을 실습 프로젝트로 활용, 터미널에서 코드 생성·리뷰·테스트·트러블슈팅
   * [GitHub Spark - Dream it. See it. Ship it. · GitHub](https://github.com/features/spark)
   * [localpilot](https://github.com/danielgross/localpilot) GitHub Copilot을 인터넷 연결 없이도 로컬에서 사용할 수 있게 하는 앱
   * [Mastering-GitHub-Copilot-for-Paired-Programming: A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
