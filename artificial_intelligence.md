@@ -4488,6 +4488,8 @@ Artificial Intelligence
   * [Generative BI Agent that lets you query any database in plain language and instantly get accurate SQL, charts, and AI-generated insights | LinkedIn](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7387390598065897473-yrML/)
 * [xurl: Client for AI agent URLs](https://github.com/Xuanwo/xurl)
   * `agents://<provider>/<role>` URI로 6개 AI 에이전트(Amp, Codex, Claude, Gemini, Pi, OpenCode) 대화 읽기·검색·시작·계속. Rust 기반 GitHub 에이전트 스킬
+* [ZipBuild — Next.js Boilerplate for AI-Powered Development](https://www.zipbuild.dev/)
+  * 앱 유형·사용자·수익 모델·핵심 기능 4가지 질문으로 맞춤형 Next.js 스캐폴드 108파일 생성. Supabase 인증, Stripe 결제, 20+ UI 컴포넌트, 11개 가이드 포함. Claude Code/Cursor/Codex 등 AI 코딩 도구와 연동하여 SaaS 개발 가속
 
 ## Tool coding assistant SDD Spec Driven Development
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
