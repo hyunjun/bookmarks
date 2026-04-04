@@ -3804,6 +3804,8 @@ Artificial Intelligence
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
+  * [roboco-cli: AI-native development scaffolding for full vibe coding](https://github.com/roboco-io/roboco-cli)
+    * 레포 분석+인터뷰 기반 Claude Code 환경 자동 구성. CLAUDE.md·.claude/ 설정·훅·MCP 서버 생성. 스택 자동 감지, 5단계 프로세스 템플릿(Intent→Requirements→Research→Plan→Implement), 성숙도 감사·스코어링, `roboco install`로 팀 환경 일관성 보장
   * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
     * [secure-claude-code | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijsecure-claude-code-security-activity-7442370116882927616-xKzP)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
