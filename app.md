@@ -2737,6 +2737,9 @@ App
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
     * [왜 옵시디언을 사용해야 하는가?-Smart Composer를 중심으로 - YouTube](https://www.youtube.com/watch?v=p-2JtueFFiM)
     * [옵시디언에서 AI로 노트 작성하기 (Smart Composer Plugin) - YouTube](https://www.youtube.com/watch?v=YYiok_C9o7M)
+  * [TaskNotes — Task and note management plugin for Obsidian](https://tasknotes.dev/)
+    * [tasknotes](https://github.com/callumalpass/tasknotes)
+    * 1노트=1태스크 원칙의 Obsidian 태스크 관리 플러그인. YAML 프론트매터 기반 마크다운 파일로 저장. Kanban·캘린더·포모도로 뷰, Google/Outlook 캘린더 동기화, 자연어 파싱, REST API·웹훅 자동화 지원
   * [Templater: A template plugin for obsidian](https://github.com/SilentVoid13/Templater?tab=readme-ov-file)
     * [Introduction - Templater](https://silentvoid13.github.io/Templater/)
     * [Templater 옵시디언 문서의 update 날짜 자동 갱신하기](https://kaminik.tistory.com/entry/Templater-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EB%AC%B8%EC%84%9C%EC%9D%98-update-%EB%82%A0%EC%A7%9C-%EC%9E%90%EB%8F%99-%EA%B0%B1%EC%8B%A0%ED%95%98%EA%B8%B0)
