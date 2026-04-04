@@ -5473,7 +5473,10 @@ NLP
 * [chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
   * [chatterbox_demopage](https://resemble-ai.github.io/chatterbox_demopage/)
   * [Chatterbox-TTS-Extended: Modified version of Chatterbox that accepts text files as input and no character restrictions. I use it to make audiobooks, especially for my kids](https://github.com/petermg/Chatterbox-TTS-Extended/)
-* [cohere-transcribe-03-2026 · CohereLabs](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)
+  * Chatterbox-Turbo(350M): 저지연 음성 에이전트용, 1스텝 멜 디코더, 웃음·기침 등 paralinguistic 태그 지원. Multilingual(500M): 23+ 언어 제로샷 음성 복제. Perth 워터마커로 신경 워터마크 내장. MIT 라이선스
+* [Cohere Transcribe: state-of-the-art speech recognition](https://cohere.com/blog/transcribe)
+  * [Cohere Transcribe - SOTA 오픈소스 음성 인식 모델 | GeekNews](https://news.hada.io/topic?id=28165)
+  * [cohere-transcribe-03-2026 · CohereLabs](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)
   * [코히어, 한국어 지원하는 기업용 2B 오픈소스 음성 모델 출시 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208459)
   * 2B 파라미터 Conformer 기반 오픈소스 ASR. 14개 언어(한국어 포함), WER 5.42%로 Open ASR 리더보드 1위, 1분에 525분 오디오 처리
   * 하나의 .m4a이긴 했지만 실제로 테스트해봤을 때 성능은 whisper에 비해 크게 좋다고 하긴 어려웠음
@@ -5533,9 +5536,14 @@ NLP
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
+* [KrillinAI — AI Video Translation and Dubbing Tool](https://www.klic.studio/)
+  * [KrillinAI](https://github.com/krillinai/KrillinAI)
+  * Whisper 기반 음성 인식 + LLM 스마트 자막 분할 + 100+ 언어 번역 + 음성 복제/TTS 더빙. 가로·세로 영상 모두 지원, YouTube/TikTok/Bilibili 등 플랫폼 최적화. Windows/Linux/macOS 데스크톱+서버
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
   * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
+* [LuxTTS: Lightweight voice cloning TTS model](https://github.com/ysharma3501/LuxTTS)
+  * 경량 음성 복제 특화 TTS. 150배+ 실시간 속도, 48kHz 고품질, 1GB 미만 VRAM. ZipVoice 아키텍처 4단계 추론 증류. GPU/CPU/Apple MPS 지원
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
 * [MeloTTS](https://github.com/myshell-ai/MeloTTS)
   * [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](https://webnautes.com/tts-raibeureori-melottsro-hangugeo-eumseong-habseonghaebogi/)
@@ -5607,6 +5615,9 @@ NLP
   * [Building an AI Salesman in Under 10 Minutes (Outbound & Inbound Sales) - YouTube](https://www.youtube.com/watch?v=ICnDb6kWsnI)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
+* [TEN Framework — Real-time multimodal conversational AI agents](https://agent.theten.ai/)
+  * [ten-framework](https://github.com/TEN-framework/ten-framework)
+  * 실시간 멀티모달 음성 AI 에이전트 프레임워크. RTC/WebSocket 연결, Agora+Deepgram+OpenAI+ElevenLabs 통합. 화자 분리, 립싱크 아바타, SIP 통화, TMAN 비주얼 디자이너. Docker 기반 배포
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
 * tweepy [민트 초코 논란! 자연어 처리(NLP)로 종결해드림. - YouTube](https://www.youtube.com/watch?v=QTgRNer2epE)
@@ -5628,7 +5639,9 @@ NLP
 * [voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
   * [Mistral Voxtral Realtime 4B 음성 인식 모델의 순수 C 기반 CPU | GeekNews](https://news.hada.io/topic?id=26608)
 * [Voxtral TTS - Speaking of Voxtral | Mistral AI](https://mistral.ai/news/voxtral-tts)
-  * Mistral 최초의 TTS 모델. 3.4B 트랜스포머 디코더 + 390M flow-matching 음향 트랜스포머 + 300M 뉴럴 코덱. 9개 언어, 감정 표현, 제로샷 크로스링구얼 적응, 70ms 레이턴시(RTF ≈9.7x). Hugging Face 오픈 웨이트 공개
+  * [Voxtral TTS paper](https://huggingface.co/papers/2603.25551)
+  * [Mistral just open-sourced a TTS model | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_mistral-just-open-sourced-a-tts-model-share-7443538642817617920-lg3M)
+  * Mistral 최초의 TTS 모델. 3.4B 트랜스포머 디코더 + 390M flow-matching 음향 트랜스포머 + 300M 뉴럴 코덱. 9개 언어, 감정 표현, 제로샷 크로스링구얼 적응, 70ms 레이턴시(RTF ≈9.7x). Hugging Face 오픈 웨이트 공개. 3초 음성 복제, ElevenLabs Flash v2.5 대비 68.4% win rate
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
@@ -5663,6 +5676,8 @@ NLP
     * 실습 코드에선 한국어 25초 음성을 인식하는데 12sec 정도 소요(base 모델 기준)
     * 예시 음성파일로 실험해 보니 '수서'->'수소', '우리역엔' -> '우리옆엔', '전동차와 승강장 사이가' -> '전동장와 생강장사위가'로 인식되긴 하지만 monolingual이 아닌 multilingual임에도 불구하고 전체적으로 잘 되는 느낌. 일본어 음성도 잘 인식
   * [faster-whisper-youtube: 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/lewangdev/faster-whisper-youtube)
+  * [insanely-fast-whisper: CLI tool to transcribe audio using Whisper Large v3 with Flash Attention 2](https://github.com/Vaibhavs10/insanely-fast-whisper)
+    * HuggingFace Transformers+Optimum+Flash Attention 2 기반. 150분 오디오를 ~98초에 트랜스크립션(A100). 화자 분리, 단어별 타임스탬프, 번역 지원. Apple Silicon 호환
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
   * [WhisperKit — Argmax](https://www.takeargmax.com/blog/whisperkit)
@@ -5681,7 +5696,14 @@ NLP
 * [Vocloner: Free Instant AI Voice Cloning](https://vocloner.com/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
+* [VoiceAgentRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents](https://arxiv.org/pdf/2603.02206)
+  * [세일즈포스, 음성 검색 지연 316배 줄인 'VoiceAgentRAG' 출시 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208628)
+  * Salesforce/Stanford 논문. Fast Talker(시맨틱 캐싱, 0.35ms)+Slow Thinker(백그라운드 프리페치) 이중 에이전트. 검색 속도 316배 향상(110ms→0.35ms), 캐시 적중률 75~95%
 * [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale | Meta AI Research](https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
+* [Voicebox — The Open-Source Voice Synthesis Studio](https://voicebox.sh/)
+  * [voicebox](https://github.com/jamiepine/voicebox)
+  * [Voicebox: 로컬 환경에서 완성하는 오픈소스 음성 합성 스튜디오](https://digitalbourgeois.tistory.com/2778)
+  * ElevenLabs 대안 로컬퍼스트 음성 합성 앱. Qwen3-TTS·LuxTTS·Chatterbox 등 5개 엔진, 23개 언어, 음성 복제·타임라인 편집·오디오 이펙트·5만자 자동 청킹. Tauri(Rust) 기반, Apple Silicon MLX 가속 4~5배
 * [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
