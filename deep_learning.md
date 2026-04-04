@@ -3069,6 +3069,8 @@ CVPR2016)
 * [Genmo | Open Video Generation](https://www.genmo.ai/)
   * [구글·메타 출신 개발자들이 만든 무료 동영상 AI! 이 퀄리티가 공짜라구요? - YouTube](https://www.youtube.com/watch?v=g0q67vjBRZM)
 * [Imagen Video](https://imagen.research.google/video/)
+* [InfiniteTalk: Audio-driven talking video generation with unlimited-length](https://github.com/MeiGen-AI/InfiniteTalk)
+  * 오디오 기반 토킹 비디오 생성. 립싱크+머리·몸·표정 동기화, 무제한 길이 생성. 비디오→비디오 더빙 + 이미지→비디오 2가지 모드. 480P/720P, 스트리밍·클립 모드, TeaCache 가속·int8 양자화 지원
 * [KLING AI: Next-Generation AI Creative Studio](https://klingai.com/)
   * [可灵大模型](https://kling.kuaishou.com/)
   * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
