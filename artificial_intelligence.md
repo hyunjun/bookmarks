@@ -470,6 +470,7 @@ Artificial Intelligence
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
 * [바이브 코딩 시대의 조직 설계 :: ROBOCO](https://roboco.io/posts/organizational-design-for-vibe-coding/)
 * [Shopify의 데이터 구조화 여정: One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로 | GeekNews](https://news.hada.io/topic?id=28022)
+  * [Shopify의 데이터 구조화 여정 - One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로의 전환](https://digitalbourgeois.tistory.com/2942)
   * GPT-4 원샷 프롬프팅에서 DSPy 기반 멀티에이전트+자체 호스팅 Qwen으로 전환. 비용 75배 절감, 품질 2배 향상. Flink 배치(일 15만건), K8s 에이전트, GPU 클러스터 3계층 인프라
 
 # AGI Artificial General Intelligence
@@ -993,6 +994,9 @@ Artificial Intelligence
   * [Pi – 간결한 터미널 코딩 하니스 | GeekNews](https://news.hada.io/topic?id=26999)
   * 미니멀한 CLI 코딩 에이전트. 15개+ AI 프로바이더 지원, TypeScript 확장·스킬·테마 커스터마이징, 트리 구조 세션 히스토리, 자동 요약 맥락 관리. MCP 등은 확장으로 직접 구현하는 철학
   * [pi-mono: AI agent toolkit - coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods](https://github.com/badlogic/pi-mono)
+  * [py-pimono: Python reimplementation of pi-mono for educational clarity](https://github.com/solvit-team/py-pimono)
+    * [미니멀 에이전트의 출발점: pi-mono에서 Python으로 옮긴 py-pimono 이야기](https://digitalbourgeois.tistory.com/2938)
+    * pi-mono의 Python 포팅. Engine·Session·UI 3계층 헥사고날 아키텍처, TUI/터미널/Discord 봇 3가지 인터페이스, Mock LLM 프로바이더, MCP(Notion) 통합
   * [무료 터미널 AI 코딩 도우미 Pi 무료 사용법 및 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%ED%84%B0%EB%AF%B8%EB%84%90-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9A%B0%EB%AF%B8-Pi-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
@@ -1151,6 +1155,9 @@ Artificial Intelligence
     * [oh-my-opencode: The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you](https://github.com/code-yeongyu/oh-my-opencode)
 * [AI Agent Harness, 3 Principles for Context Engineering, and the Bitter Lesson Revisited](https://hugobowne.substack.com/p/ai-agent-harness-3-principles-for)
   * Context Engineering 3원칙: reduce(불필요 컨텍스트 제거), offload(외부 저장소로 이관), isolate(서브에이전트로 격리). Bitter Lesson이 애플리케이션 레이어에도 적용
+* [엔터프라이즈 LLM 서비스 구축기 1: 컨텍스트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-1-context-engineering)
+  * [엔터프라이즈 LLM 서비스 구축기 2: 에이전트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-2-agent-engineering)
+  * 260개 도구+수백 페이지 문서 환경에서 LLM에 필요한 정보만 제공하는 점진적 컨텍스트 엔지니어링(Part 1) + 에이전트 엔지니어링(Part 2). LINE 클라우드 AI Platform 팀의 실전 구축기
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -3562,6 +3569,7 @@ Artificial Intelligence
     * [harness: Agent Team & Skill Architect for Claude Code](https://github.com/revfactory/harness)
       * [Harness — Agent Team & Skill Architect](https://revfactory.github.io/harness)
       * [Harness - Claude Code Agent Team & Skill Architect 플러그인 | GeekNews](https://news.hada.io/topic?id=27969)
+      * [Claude Code 환경에서 도메인 맞춤형 에이전트 팀을 자동 설계하는 Harness 플러그인 정리](https://digitalbourgeois.tistory.com/2933)
       * 단일 프롬프트로 도메인 전용 에이전트 팀 설계·스킬 자동 생성하는 메타 스킬. 6가지 아키텍처 패턴(Pipeline, Fan-out/Fan-in, Expert Pool 등), Progressive Disclosure, 드라이런 검증. SE 태스크 15개 기준 평균 60% 품질 향상
       * [harness-100: Harness Engineering 100-step self-study course](https://github.com/revfactory/harness-100)
       * [Minho Hwang | Facebook](https://www.facebook.com/rev.minho/posts/pfbid02ot6HSBfnMmCCDZBVX7RvmZA3Y7S2YB5KWZCBemwR2pVkhvQs4RazpdoEq6VEe3xRl)
@@ -4356,7 +4364,8 @@ Artificial Intelligence
   * [orkestra: Multi-agent orchestration framework for OpenClaw](https://github.com/imperativelabs/orkestra)
   * [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
     * [Pi: OpenClaw 내부의 미니멀 에이전트 | GeekNews](https://news.hada.io/topic?id=26298)
-  * [picoclaw: picoclaw](https://github.com/sipeed/picoclaw)
+  * [PicoClaw](https://picoclaw.io/)
+    * [picoclaw](https://github.com/sipeed/picoclaw)
     * [Chinese engineers just made OpenClaw 99% lighter: PicoClaw on $10 Linux Board | Avi Chawla](https://www.linkedin.com/posts/avi-chawla_chinese-engineers-just-made-openclaw-99-ugcPost-7428591155816308736-Cm29)
     * OpenClaw의 핵심 기능을 단 1%의 코드와 1%의 메모리만으로 구현
     * 10MB RAM을 탑재한 10달러짜리 RISCV 하드웨어로 AI 비서 실행
