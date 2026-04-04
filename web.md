@@ -660,6 +660,9 @@ Web
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 * [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
+* [Webclaw — The fastest web scraper for AI agents](https://webclaw.io/)
+  * [webclaw](https://github.com/0xMassi/webclaw)
+  * Rust 기반 로컬퍼스트 웹 콘텐츠 추출. HTML→LLM 최적화 마크다운(토큰 67% 절감), 100KB 페이지 3.2ms 처리. MCP 서버(10개 도구), TLS 핑거프린팅, 변경 감지, 브랜드 아이덴티티 추출. CLI/REST API/Docker/SDK(TS·Python·Go)
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
