@@ -4338,6 +4338,8 @@ NLP
   * 국가교육발전계획 2028-2037 기반, 47개 교육 관련 법률×9개 프로젝트 분야 매핑 매트릭스. MiroFish GraphRAG + Multi-Agent Simulation 아키텍처 기반 비공식 연구용 사이트
 * [korean-law-mcp: 대한민국 법률 검색 MCP 서버 및 CLI](https://github.com/chrisryugj/korean-law-mcp)
   * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
+  * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
+    * [나만의 AI 변호사를 만드는 방법 (코리안 로우 MCP & 코깎 DIR 활용)](https://livewiki.com/ko/content/ai-22108)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
