@@ -2625,6 +2625,8 @@ Web
 * [WebAssembly for the JVM: Beyond the Browser with Chicory - YouTube](https://www.youtube.com/watch?v=e0l-x-KamP8)
 * [Making WebAssembly a First-Class Language on the Web | Mozilla Hacks](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
   * [웹에서 WebAssembly를 퍼스트 클래스 언어로 만들기 | GeekNews](https://news.hada.io/topic?id=27429)
+* [무료 AI 동영상 업스케일러가 WebGPU + WebCodecs를 사용하여 서버 비용 없이 MAU 25만 명에게 서비스를 제공하는 방법 | web.dev](https://web.dev/case-studies/ai-video-upscaler-case-study?hl=ko)
+  * WebGPU 컴퓨트 셰이더로 AI 추론 + WebCodecs API로 로컬 인코딩/디코딩 + Streams API 파이프라인. 서버 비용 $0으로 일일 1만 동영상 처리, MAU 25만 달성
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
