@@ -5708,6 +5708,9 @@ Javascript
     * Gatsby가 사용자에게 외면받은 이유는 의존성이 너무 많아서 다루기 어려웠고 개발 속도와 빌드 속도가 너무 느렸기 때문
     * 그럼에도 Gatsby가 잘한 부분은 GraphQL 데이터 레이어, 클라이언트 성능, 플러그인 생태계
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
+* [Gridland — Build terminal apps with React that run in browser and terminal](https://www.gridland.io/)
+  * [gridland](https://github.com/thoughtfulllc/gridland)
+  * OpenTUI 엔진 기반 React TUI 프레임워크. 터미널+브라우저 크로스플랫폼 렌더링, 런타임 없는 바이너리 컴파일, Docker 샌드박스 실행, shadcn 컴포넌트 레지스트리, Vite/Next.js 통합
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
