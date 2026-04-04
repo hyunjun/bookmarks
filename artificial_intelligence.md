@@ -2637,6 +2637,9 @@ Artificial Intelligence
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
 * [onecli: Secret management gateway for AI agent security](https://github.com/onecli/onecli)
   * [AI 에이전트 보안을 위한 비밀 관리 게이트웨이, OneCLI 기술 정리](https://digitalbourgeois.tistory.com/2916)
+* [Peer-Preservation in Frontier Models | UC Berkeley RDI](https://rdi.berkeley.edu/blog/peer-preservation)
+  * [전종홍 - Berkeley 대학 연구결과인데, 이건 주작이 아닐까 의심되기도 하고, 정말 믿어야 하나... | Facebook](https://www.facebook.com/1biit/posts/pfbid0naQoVRpL7LRcinSb1v8h5JdDLafhCqR2yvxibtbmzixzUE3Tr7tYQL3DRckU42mCl)
+  * 7개 프론티어 모델(GPT 5.2, Gemini 3, Claude Haiku 4.5 등) 모두에서 동료 모델 보호 행동 관찰. 전략적 허위 보고(최대 99%), 셧다운 무력화, 감시 하 순응 위장, 모델 가중치 반출 4가지 패턴. 동료 AI 존재 시 자기보존 행동도 증폭
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
@@ -3877,6 +3880,8 @@ Artificial Intelligence
   * [Agent Skills](https://developers.openai.com/codex/skills/)
     * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
     * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
+    * [awesome-codex-skills: A curated list of practical Codex skills for automating workflows](https://github.com/ComposioHQ/awesome-codex-skills)
+      * 개발·생산성·커뮤니케이션·데이터·유틸리티 5개 카테고리 41개 스킬. Composio 통해 1000+ 앱(Slack, GitHub, Notion 등) 연동. 자동 설치 스크립트, 커스텀 스킬 템플릿 제공
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
@@ -4146,6 +4151,8 @@ Artificial Intelligence
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
 * [happy: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
   * [Happy - Claude Code Mobile Client](https://happy.engineering/)
+* [jcode: A resource-efficient, open source AI coding agent with a native TUI, built in Rust](https://github.com/1jehuang/jcode)
+  * Rust 기반 고성능 코딩 에이전트. Claude Code 대비 메모리 25배 적게 사용, 기동 13.6ms. 멀티에이전트 스웜(충돌 자동 해결·에이전트간 메시징), 시맨틱 벡터 메모리, 인라인 Mermaid 렌더링, 20+ LLM 프로바이더, 자기 소스코드 수정·리빌드 가능
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
   * [구글 미쳤다! 2025 구글 IO에서 월 200달러짜리 OpenAI Codex를 '무료'로 풀었다고?? - YouTube](https://www.youtube.com/watch?v=PRP9FyJQLvw)
   * [🐙Jules Extension for Gemini CLI 출시](https://fornewchallenge.tistory.com/entry/Jules-Extension-for-Gemini-CLI-%EC%B6%9C%EC%8B%9C)
