@@ -5183,6 +5183,9 @@ Programming
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
+* [Cronflow — The Fastest Code-First Workflow Automation Engine](https://cronflow.org/)
+  * [cronflow](https://github.com/dali-benothmen/cronflow)
+  * Rust+Bun 기반 코드퍼스트 워크플로우 자동화 엔진. n8n 대비 90배 빠른 처리(10,000+ 레코드 2ms), 스텝당 0.49MB 메모리. TypeScript 네이티브, 웹훅, 이벤트 드리븐, 병렬 실행, Human-in-the-Loop 지원
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
   * Dagger는 Buildkit과 CUE 기반으로 CI/CD 파이프라인으로 레고처럼 컴포넌트를 조립해서 원하는 CI/CD 파이프라인을 만들 수 있는 게 특징
