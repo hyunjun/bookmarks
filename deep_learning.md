@@ -3104,11 +3104,14 @@ CVPR2016)
 * [Veo - Google DeepMind](https://deepmind.google/technologies/veo/)
   * [Google DeepMind Veo - 가장 강력한 생성형 비디오 모델 | GeekNews](https://news.hada.io/topic?id=14824)
 * [VideoPoet: 구글의 제로샷(Zero-Shot) 비디오 생성 대규모 언어 모델](https://fornewchallenge.tistory.com/entry/VideoPoet-%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%A0%9C%EB%A1%9C%EC%83%B7Zero-Shot-%EB%B9%84%EB%94%94%EC%98%A4-%EC%83%9D%EC%84%B1-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8)
-* [Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models](https://github.com/Wan-Video/Wan2.1)
-  * [알리바바, 140억·13억 매개변수의 AI 비디오 생성 모델 ‘Wan2.1’ 4종 오픈소스로 공개...비디오 생성 모델 위한 VBench리더보드 1위 기록 < 이미지 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34067)
+* [Wan AI — AI Creative Platform](https://wan.video/)
+  * [Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models](https://github.com/Wan-Video/Wan2.1)
+  * [알리바바, 140억·13억 매개변수의 AI 비디오 생성 모델 ‘Wan2.1’ 4종 오픈소스로 공개 | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34067)
   * [Wan 2.1 by Wan AI :best cost efficient video generation model Now Available](https://huggingface.co/blog/LLMhacker/wanai-wan21)
   * [Home Page · ModelScope](https://modelscope.cn/home)
   * [📹🚀🔓Wan2.1: Sora보다 강력한 알리바바의 최강 오픈소스 비디오 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%93%B9%F0%9F%9A%80%F0%9F%94%93Wan21-Sora%EB%B3%B4%EB%8B%A4-%EA%B0%95%EB%A0%A5%ED%95%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B9%84%EB%94%94%EC%98%A4-AI)
+  * [알리바바, '이미지 AI 주권' 선언...Wan2.7 오픈소스 공개 | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39388)
+    * 이미지 생성·편집 통합 모델 Wan2.7 Image. 캐릭터 개인화, 색상 팔레트 제어, 12개 언어 3,000토큰 텍스트 렌더링, 클릭 편집, 참조 이미지 9장으로 동시 12장 생성. Wan2.7 Image Pro는 4K 출력 지원
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
