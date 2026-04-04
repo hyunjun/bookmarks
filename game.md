@@ -121,7 +121,12 @@ Game
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
 * [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
 * [magictools: :video_game: A list of Game Development resources to make magic happen](https://github.com/ellisonleao/magictools)
+* [Messenger](https://messenger.abeto.co/)
+  * [작은 행성에서 메시지를 전달하는 WebGL 게임 | GeekNews](https://news.hada.io/topic?id=23315)
 * [micropolisJS - 오리지널 심시티 클론 | GeekNews](https://news.hada.io/topic?id=6105)
+* [Openfoot Manager — Free and open source football manager game](https://openfootmanager.com/)
+  * [openfootmanager](https://github.com/openfootmanager/openfootmanager)
+  * Football Manager 영감의 오픈소스 축구 매니저 게임. Rust 매치 시뮬레이션 엔진 + React/TypeScript/TailwindCSS 프론트엔드 + Tauri 데스크톱 앱 + SQLite. GPLv3
 * [Owlcat Games - We create cRPGs](https://owlcat.games/learning)
   * [이상선 - Owlcat Games — 무료 게임 개발 학습 리소스 허브 공개 1. 게임 개발 입문자들을 위한 무료... | Facebook](https://www.facebook.com/100001916096643/posts/31845031711810618/)
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
@@ -165,8 +170,6 @@ Game
   * [unreal_python_recipe_book: A Recipe Book on ways to use Python in Unreal Engine 5](https://github.com/bralkor/unreal_python_recipe_book)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
-* [Messenger](https://messenger.abeto.co/)
-  * [작은 행성에서 메시지를 전달하는 WebGL 게임 | GeekNews](https://news.hada.io/topic?id=23315)
 
 ## Library DOS
 * [DOS 프로그램 저장소 - DOS 프로그램 저장소](https://oldpc.tistory.com/)
