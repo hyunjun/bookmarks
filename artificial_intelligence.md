@@ -909,6 +909,7 @@ Artificial Intelligence
 * [Hermes Agent — An Agent That Grows With You](https://hermes-agent.nousresearch.com/)
   * [Hermes Agent - 경험으로부터 스킬을 생성/개선하는 자기 학습형 자율 AI 에이전트 | GeekNews](https://news.hada.io/topic?id=28101)
   * Nous Research의 자율 AI 에이전트. 서버 상주·영구 메모리·자동 스킬 생성. Telegram/Discord/Slack/WhatsApp 멀티채널, Docker/SSH 샌드박스 실행. MIT 오픈소스
+  * [hermes-agent](https://github.com/NousResearch/hermes-agent)
 * [hive](https://github.com/aden-hive/hive)
   * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
   * 프로덕션용 AI 에이전트 런타임 프레임워크. 자연어 목표 → 에이전트 그래프 자동 생성·실행·모니터링, 상태 관리·장애 복구·비용 통제·적응형 자기 개선
@@ -4289,15 +4290,24 @@ Artificial Intelligence
   * ~~[Alvin Bot - OpenClaw cloud-based solution](https://alvinbot.com/)~~
     * [OpenClaw Community | Alvin Bot | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1611128223370901/)
     * 클라우드 기반 OpenClaw 서비스. 자체 서버 없이 Telegram에서 Claude/GPT-4o/Gemini 기반 AI 어시스턴트 사용
+  * [The Hidden Cost of AI: Tokens, Compute, and What You're Actually Paying For With OpenClaw | Darren Broemmer](https://darren-broemmer.medium.com/the-hidden-cost-of-ai-tokens-compute-and-what-youre-actually-paying-for-with-openclaw-8de72569bf72)
+  * [OpenClaw Productivity Secret: AGENTS.md 해부 :: ROBOCO](https://roboco.io/posts/openclaw-agents-md-productivity-secrets/)
+    * 1명 개발자가 8개 AI 에이전트로 월 6,600커밋. 215줄 AGENTS.md 운영 계약의 7대 원칙: 인지 매핑, 경계 강제, 빌드 게이트, 멀티에이전트 안전, 코딩 표준, 스킬 캡슐화, 보안 체크포인트
   * [Apex — Your Digital Twin](https://apex.host/)
     * 자율 AI 에이전트 플랫폼. 이메일·캘린더·콘텐츠·비즈니스 모니터링을 24/7 자동화. 셀프 호스팅, Slack/WhatsApp 통합
+  * [awesome-openclaw-agents: 187 production-ready AI agent templates for OpenClaw](https://github.com/mergisi/awesome-openclaw-agents)
+    * 24개 카테고리(생산성, 개발, 마케팅, 비즈니스, DevOps, 금융, 교육 등) 187개 SOUL.md 템플릿. 복사-붙여넣기 즉시 사용
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
   * [AutoResearchClaw: Fully autonomous research pipeline — from idea to conference-ready paper](https://github.com/aiming-lab/AutoResearchClaw)
     * [2603.17187 AutoResearchClaw](https://arxiv.org/abs/2603.17187)
     * 23단계 8페이즈 파이프라인으로 논문 아이디어→문헌 조사→가설 생성→실험→작성→피어리뷰까지 자율 수행. 자가 치유 실험, 4단계 인용 검증
-  * [MetaClaw: Open-source agent framework for continuous learning from real-world interactions](https://github.com/aiming-lab/MetaClaw)
-    * 투명 프록시로 사용자↔에이전트 대화에서 실시간 학습. Skills Only/RL/MadMax 3모드, OpenClaw·CoPaw·IronClaw 등 다중 에이전트 지원
+  * [Claw3D — 3D Virtual Office for AI Agents](https://www.claw3d.ai/)
+    * [Claw3D](https://github.com/iamlukethedev/Claw3D)
+    * AI 에이전트를 아이소메트릭 3D 가상 오피스에서 시각화·관리. 코드 리뷰, 스탠드업, 태스크 관리를 실시간 협업. 오픈소스
+  * [claw-code: Autonomous software development by AI agents](https://github.com/ultraworkers/claw-code)
+    * [What you need to learn from claw-code repo | Sigrid Jin](https://www.linkedin.com/pulse/what-you-need-learn-from-claw-code-repo-jin-hyung-park--uygoc)
+    * AI 에이전트가 인간 개발자 없이 자율적으로 소프트웨어 개발. clawhip+oh-my-codex 활용. 코드 생성 속도보다 아키텍처 명확성·태스크 분해·비전이 경쟁력
   * [ClaudeBot: Claude AI Telegram Bot with OpenClaw integration](https://github.com/Jeffrey0117/ClaudeBot)
   * [claude-openclaw-bridge: Bridge between Claude Code and OpenClaw for seamless AI agent collaboration](https://github.com/ericblue/claude-openclaw-bridge)
   * [ClaudePilot](https://projectsparks.ai/claudepilot)
@@ -4307,9 +4317,6 @@ Artificial Intelligence
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
   * [ClawManager — Cluster-Scale OpenClaw Management](https://yuan-lab-llm.github.io/ClawManager/)
     * [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
-  * [ContextGraph: Visual knowledge graph for OpenClaw agent context](https://github.com/AllenMaxi/ContextGraph)
-  * [Crew — Your Personal AI Agent](https://crew.you/)
-    * OpenClaw 상용 버전. 50+ 도구, 7+ 메신저 연결, Gmail·Calendar·Slack·Discord 통합 관리형 AI 에이전트 서비스
   * [Claw_Cowork: Your Personal AI Workspace, Running Locally](https://github.com/Sompote/Claw_Cowork)
     * [OpenClaw Community | Claw Cowork | Facebook](https://www.facebook.com/groups/1577315533418837/permalink/1614683536348703/)
   * [ClawEval: OpenClaw Backend Local on GPU](https://github.com/explaindio/ClawEval)
@@ -4331,6 +4338,11 @@ Artificial Intelligence
   * [ClawWork: OpenClaw as Your AI Coworker - $15K earned in 11 Hours](https://github.com/HKUDS/ClawWork)
     * [ClawWork - OpenClaw 경제 생존 벤치마크 | GeekNews](https://news.hada.io/topic?id=26797)
     * [AI가 8시간 만에 $19000 벌어 - ClawWork 경제 생존 벤치마크](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AI%EA%B0%80-8%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-19000-%EB%B2%8C%EC%96%B4-ClawWork-%EA%B2%BD%EC%A0%9C-%EC%83%9D%EC%A1%B4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC)
+  * [ContextGraph: Visual knowledge graph for OpenClaw agent context](https://github.com/AllenMaxi/ContextGraph)
+  * [Crew — Your Personal AI Agent](https://crew.you/)
+    * OpenClaw 상용 버전. 50+ 도구, 7+ 메신저 연결, Gmail·Calendar·Slack·Discord 통합 관리형 AI 에이전트 서비스
+  * [CrewClaw — Your AI Employee Starts in 60 Seconds](https://www.crewclaw.com/)
+    * 사전 구축된 AI 직원(메트릭 분석가, SEO 전문가, DevOps 엔지니어 등) 60초 배포. Telegram/Slack/Discord/WhatsApp, Stripe/GA4 통합. $9부터
   * [EasyClaw](https://easyclaw.com/)
     * [EasyClaw 한국어](https://easyclaw.kr/)
   * [edgeclaw: Edge-Cloud Collaborative AI Agent](https://github.com/openbmb/edgeclaw)
@@ -4342,6 +4354,9 @@ Artificial Intelligence
   * [GoClaw — Multi-agent AI gateway built in Go](https://goclaw.sh/)
     * [goclaw](https://github.com/nextlevelbuilder/goclaw)
     * OpenClaw Go 포트. ~25MB 단일 바이너리, 멀티테넌트 PostgreSQL, 20+ LLM, 7채널, 5계층 권한 시스템
+  * [Graqle — AI Code Analysis & Architecture Intelligence](https://graqle.com/)
+    * [graqle](https://github.com/quantamixsol/graqle)
+    * 코드베이스를 지식 그래프로 변환하여 AI 어시스턴트의 아키텍처 이해도 향상. 토큰 100배 절감(500 vs 50,000), 신뢰도 점수, 영향 분석. 14개 LLM 백엔드, VS Code 확장
   * [habit-sprint: AI-powered habit tracking and productivity sprint manager for OpenClaw](https://github.com/ericblue/habit-sprint)
   * [hermitclaw: Autonomous AI creature that researches in folders](https://github.com/brendanhogan/hermitclaw/)
     * [HermitClaw: 폴더 안에서 스스로 연구하는 자율 AI 크리처 아키텍처와 동작 원리](https://digitalbourgeois.tistory.com/2779)
@@ -4354,6 +4369,8 @@ Artificial Intelligence
     * [AI Agents KR | MaxClaw: 10초 만에 상시 온라인 개인 AI 에이전트 구축하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27033655679556841/)
     * [Claude 3.5 수준 성능을 1/10 가격으로: MaxClaw 229억 파라미터 AI 무료 클라우드 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-Claude-35-%EC%88%98%EC%A4%80-%EC%84%B1%EB%8A%A5%EC%9D%84-110-%EA%B0%80%EA%B2%A9%EC%9C%BC%EB%A1%9C-MaxClaw-229%EC%96%B5-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-AI-%EB%AC%B4%EB%A3%8C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [memspan: Persistent memory and context spanning for OpenClaw agents](https://github.com/ericblue/memspan)
+  * [MetaClaw: Open-source agent framework for continuous learning from real-world interactions](https://github.com/aiming-lab/MetaClaw)
+    * 투명 프록시로 사용자↔에이전트 대화에서 실시간 학습. Skills Only/RL/MadMax 3모드, OpenClaw·CoPaw·IronClaw 등 다중 에이전트 지원
   * [MimiClaw — Run OpenClaw on $5 Chips](https://mimiclaw.io/)
     * [mimiclaw: MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw](https://github.com/memovai/mimiclaw)
   * [MiniClaw: Enable Your AI Copilot Act Smart Like OpenClaw. MCP for Claude CoWork, Qoderwork, WorkBuddy, OpenWork etc](https://github.com/8421bit/miniclaw)
