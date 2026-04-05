@@ -3211,6 +3211,8 @@ Artificial Intelligence
       * [Anthropic에서 알려주는 Claude Code, 똑똑하게 쓰는 법](https://www.linkedin.com/posts/ji-woong_claude-code-best-practices-activity-7357292440174645248-C5kv/)
     * [Claude Code: 에이전트 코딩 모범 사례 요약 및 설명](https://www.linkedin.com/posts/hyunmin-kim-1356a260_claude-code-best-practices-activity-7319623371745284096-TiQl/)
     * [Claude Code 성능 극대화를 위한 베스트 프랙티스](https://bcho.tistory.com/1492)
+    * [claude-code-best-practice: practice makes claude perfect](https://github.com/shanraisshan/claude-code-best-practice)
+      * Subagent·Command·Skill·Workflow·Hook·MCP·Memory 핵심 개념 정리. Auto Mode, Agent Teams 병렬 조율, 스케줄 태스크, 코드 리뷰, 음성 입력, Remote Control, Git Worktree 등 고급 기능 가이드. Research→Plan→Execute→Review→Ship 워크플로우
   * [Claude Skills: Customize AI for your workflows \ Anthropic](https://www.anthropic.com/news/skills)
     * [skills: Public repository for Skills](https://github.com/anthropics/skills)
     * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
