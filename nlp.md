@@ -4340,6 +4340,7 @@ NLP
   * 법제처 Open API 기반 64개 법률 도구 제공. 법령·판례·행정규칙·조례·헌법재판소 결정 검색, 법률 약칭 자동 해석, 별표 마크다운 변환, 7개 복합 워크플로우 체인 도구. Claude Desktop·Cursor·Windsurf 등 MCP 클라이언트 지원
   * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
     * [나만의 AI 변호사를 만드는 방법 (코리안 로우 MCP & 코깎 DIR 활용)](https://livewiki.com/ko/content/ai-22108)
+  * [Claude Code에서 대한민국 법령 검색하는 방법 (3분 완성)](https://fornewchallenge.tistory.com/entry/%E2%9A%96%EF%B8%8F-Claude-Code%EC%97%90%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EB%A0%B9-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EB%B6%84-%EC%99%84%EC%84%B1)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
