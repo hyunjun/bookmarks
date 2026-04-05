@@ -5710,6 +5710,8 @@ NLP
 * [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
+* [VoxFlow: Free offline speech-to-text for Windows and macOS](https://github.com/aievolutionpl/VoxFlow)
+  * 핫키로 녹음→Whisper로 로컬 전사→활성 창에 자동 입력. 완전 오프라인, 폴란드어·영어·독일어 등 다국어 지원
 * [VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](https://github.com/OpenBMB/VoxCPM/)
   * [VoxCPM은 토큰화를 완전히 건너뛴다. 엔드투엔드 디퓨전 자동그레시브 아키텍처를 사용하여 연속 공간에서 오디오를 모델링](https://www.facebook.com/thanhhm/posts/pfbid02ctGPGCooHE12q8NEZH7zH1kAGHdjipTZE231mJrLnV6pQLPhhNSAHWhcYMBB7BHol)
     * 1. 문맥 인식 생성. 이것은 당신의 텍스트를 읽고 적절한 프로소디, 감정 및 페이싱을 자동으로 유도. 수동 조정이 불필요
