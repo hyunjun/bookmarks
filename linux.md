@@ -201,6 +201,9 @@ Linux
   * [Ken Thompson이 회상한 Unix의 소란스럽고 자물쇠를 따던 시절 | GeekNews](https://news.hada.io/topic?id=23955)
 * [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop | PC Gamer](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
   * [리눅스는 이제 충분히 좋다, 2026년은 당신의 데스크톱에서 리눅스의 해로 만들자 | GeekNews](https://news.hada.io/topic?id=25502)
+* [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
+  * [Claude Code, 23년간 숨겨진 Linux 취약점을 발견하다 | GeekNews](https://news.hada.io/topic?id=28207)
+  * Anthropic 연구원이 커널 소스 파일을 순회하며 Claude Code로 취약점 탐색. NFS 드라이버의 23년 된 힙 버퍼 오버플로우(112바이트 버퍼에 1,056바이트 수신) 발견. 5개 취약점 확인·패치 완료, 수백 개 추가 후보 검증 대기 중. Opus 4.6이 구형 모델 대비 탐지 성능 크게 향상
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
