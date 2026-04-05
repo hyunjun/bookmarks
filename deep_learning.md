@@ -3037,6 +3037,8 @@ CVPR2016)
   * [8장에 8초! 텍스트입력 이미지 생성모델 - Stable Diffusion+JAX+TPU](https://aifactory.space/forum/discussion/38)
   * [13 Mind-Bending Stable Diffusion Uses I've Seen So Far 🌈 - YouTube](https://www.youtube.com/watch?v=SdgN1cCeqk0)
   * [stable diffusion의 Adobe Photoshop plugin | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1927898784217837/)
+  * [aws-dlc-examples: Examples for Stability AI Deep Learning Containers on AWS SageMaker](https://github.com/Stability-AI/aws-dlc-examples/)
+    * SDXL v1, Stable Diffusion v2.1의 SageMaker 배포 예제. Jupyter Notebook 기반
   * [Stable Diffusion 3.5 — Stability AI](https://stability.ai/news/introducing-stable-diffusion-3-5)
     * [Stable Diffusion 3.5 공개 | GeekNews](https://news.hada.io/topic?id=17402)
   * [stable-diffusion-pytorch: Yet another PyTorch implementation of Stable Diffusion](https://github.com/kjsman/stable-diffusion-pytorch)
