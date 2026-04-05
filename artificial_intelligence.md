@@ -863,6 +863,7 @@ Artificial Intelligence
     * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
   * [nanochat: Streamlined language model training framework](https://github.com/karpathy/nanochat)
   * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
+    * [Serverless Autoresearch: Vibe Coding을 통한 서버리스 ML 실험 파이프라인 기록 :: ROBOCO](https://roboco.io/posts/serverless-autoresearch-vibe-coding)
     * SageMaker Spot으로 원본 대비 2.3배 빠르고 5~18배 저렴. HUGI 패턴으로 병렬 실험, 세대당 86% 개선 확률
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
@@ -2509,6 +2510,7 @@ Artificial Intelligence
   * AI가 아이디어 단계에서는 스킬 격차를 줄이지만, 실행 단계에서는 전문성 차이를 해소하지 못하는 "AI Wall" 현상. 도메인 지식 없이는 AI 결과물 평가 불가
 * ["일단 POC 해보세요" - AI 도입 논의의 Last Mile Problem | crystal0224](https://www.linkedin.com/posts/crystal0224_%EC%9D%BC%EB%8B%A8-poc-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-ai-%EB%8F%84%EC%9E%85-%EB%85%BC%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%93%A3%EB%8A%94-%EB%A7%90%EC%9E%85%EB%8B%88%EB%8B%A4-share-7440289785790930944-iGAJ)
   * 250개 이상의 LLM 연결 앱을 만들고도 하나도 운영 전환 못한 은행 사례. 기술보다 거버넌스·인력·프로세스 재설계가 핵심
+* [이승현 - CoT의 진화, 탈언어화와 검증으로 | Facebook](https://www.facebook.com/epoko/posts/pfbid02PU9GTLUySqaiZVxqHxdwFD7fMsw5M9bAdvJH8cqQdncHt4HAhJdtJcX2WmL1Tqal)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2643,6 +2645,8 @@ Artificial Intelligence
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
+* [iterance: Behavioral witness layer for AI agents](https://github.com/Tetrahedroned/iterance)
+  * 에이전트 외부에서 파일시스템 행동을 감시·기록하는 독립 감사 레이어. Git 기반 평문 영어 원장, 신뢰도 스코어(오버라이드 비율 기반), 2단계 검사, 에이전트 자기인식용 행동 이력 생성. 코드 수정 불필요
 * [Nexus: Structural verification system for AI agent commands](https://github.com/Mephisto1122/Nexus)
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
 * [onecli: Secret management gateway for AI agent security](https://github.com/onecli/onecli)
