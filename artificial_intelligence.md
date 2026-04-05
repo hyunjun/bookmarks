@@ -4409,6 +4409,8 @@ Artificial Intelligence
   * [openclaw-memory-decay: Memory plugin inspired by how human memory actually works](https://github.com/tmdgusya/openclaw-memory-decay)
     * [openclaw-memory-decay | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7441169450155974656/)
     * 시간 기반 망각, 검색 강화(테스트 효과), 확산 활성화. 그래프 기반 아키텍처로 자주 쓰는 기억은 유지, 노이즈는 자동 소멸
+  * [openclaw-operator: Self-hosted AI operations control plane built on OpenClaw](https://github.com/AyobamiH/openclaw-operator)
+    * GUI 기반 운영 콘솔(/operator). 태스크 허용 목록·승인 게이트·실행 이력, 시스템 헬스·인시던트·에이전트 상태 모니터링, 서비스 레인(코드 리팩토링·보안 감사·QA·문서 생성). Docker+MongoDB+Redis 셀프 호스팅
   * [openclaw-outer-loop: Autonomous agent continuation across multiple turns](https://github.com/ARegalado1/openclaw-outer-loop)
     * OpenClaw 3.13용 자율 연속 실행 플러그인. 에이전트가 조기 중단 없이 태스크 완료까지 멀티턴 자동 계속. /outerloop on/off 라이브 제어
   * [openclaw-skill-scanner: Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation](https://github.com/jason-allen-oneal/openclaw-skill-scanner)
