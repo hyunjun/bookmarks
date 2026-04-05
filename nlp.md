@@ -4267,6 +4267,8 @@ NLP
   * [🔥 AutoRAG 총출동 한국어 Advanced RAG 최적화를 위한 평가 데이터셋, 평가, 최적화 꿀팁들 대방출 🔥 - YouTube](https://www.youtube.com/live/zjUPWtsjdWk)
   * [AutoRAG-example-korean-embedding-benchmark: AutoRAG example about benchmarking Korean embeddings.](https://github.com/Marker-Inc-Korea/AutoRAG-example-korean-embedding-benchmark)
     * [어떤 한국어 임베딩 모델 성능이 가장 좋을까? 직접 벤치마크 해보자](https://velog.io/@autorag/%EC%96%B4%EB%96%A4-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9E%84%EB%B2%A0%EB%94%A9-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%84%EA%B9%8C-%EC%A7%81%EC%A0%91-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%ED%95%B4%EB%B3%B4%EC%9E%90)
+* [AutoRAG-Research: Automate your RAG research](https://github.com/NomaDamas/AutoRAG-Research)
+  * 통합 RAG 벤치마킹 프레임워크. BEIR/MTEB/RAGBench 등 다중 데이터셋, 사전 계산 임베딩, BasicRAG/IRCoT/ET2RAG/VisRAG 등 SOTA 파이프라인 구현. 플러그인 확장, Gradio 리더보드, 에이전트 스킬 통합
 * [chonkie: 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library](https://github.com/bhavnicksm/chonkie)
   * [Chonkie - 빠르고 경량인 RAG용 파이썬 텍스트 청킹 라이브러리 | GeekNews](https://news.hada.io/topic?id=17714)
 * [ColiVara](https://colivara.com/)
