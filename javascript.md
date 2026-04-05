@@ -2172,6 +2172,8 @@ Javascript
 * [clubhouse-profile: 🌸 Share your profile in 👋 Clubhouse, on the 🌐 Web! / 클럽하우스 프로필을 웹으로 배포할 수 있도록 하는 프로젝트](https://github.com/junhoyeo/clubhouse-profile)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
+* [code-blocks: A code-block UI component. Copy-Paste. Customizable](https://github.com/pheralb/code-blocks)
+  * React 코드 블록 UI 컴포넌트. Shiki/Sugar-High 구문 강조, 원클릭 복사, Tailwind CSS 커스터마이징, shadcn/ui CLI 통합. TypeScript/Next.js/MDX
 * [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/)
   * [무제한 무료 프론트엔드 코드 저장소 - YouTube](https://www.youtube.com/watch?v=rTcLNX2ABdI)
   * ['인기 급상승' 온라인 IDE '코드샌드박스' 시작하기 - ITWorld Korea](https://www.itworld.co.kr/news/200654)
