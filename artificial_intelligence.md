@@ -2868,6 +2868,8 @@ Artificial Intelligence
 * [k-skill: 한국인을 위한 스킬 모음집](https://github.com/NomaDamas/k-skill)
   * [케이-스킬 : 한국인을 위한 스킬 모음집 | GeekNews](https://news.hada.io/topic?id=27881)
   * Claude Code, Codex, OpenCode 등 AI 코딩 에이전트용 한국 특화 스킬 컬렉션. SRT 예매, 서울 지하철 도착 정보, KBO 경기 결과, 로또 당첨 확인, HWP 문서 변환, 우편번호 검색 등 지원
+  * [만들고 있는 오픈소스들 업데이트 폭탄 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%93%A4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%8F%AD%ED%83%84-1-%EC%BC%80%EC%9D%B4-%EC%8A%A4%ED%82%AC-https-ugcPost-7445492824927543298-HK8e)
+    * 한국 생활 자동화 스킬 모음. SRT/KTX 예약, 카카오톡 CLI, 지하철 도착정보, 미세먼지, 법령 검색, KBO/K리그, 토스증권, 쿠팡 검색, 택배 조회 등. Claude Code/Codex/OpenCode 지원
 * [langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization](https://github.com/google/langextract)
   * Extract entities, attributes, and relations with exact source grounding from unstructured documents
   * Flexible LLM support (Gemini, OpenAI, Ollama)
@@ -4497,6 +4499,8 @@ Artificial Intelligence
 * [Skills Manager](https://sm.idoevergreen.me/)
   * [skills-manager](https://github.com/zunalabs/skills-manager)
   * AI 에이전트 스킬 통합 관리 데스크톱 앱. Claude Code, Cursor 등 11+ 코딩 플랫폼의 스킬을 설치·활성화·공유하는 통합 인터페이스
+* [slides-grab: AI-powered HTML slide generation and visual editing](https://github.com/vkehfdl1/slides-grab)
+  * AI 에이전트(Claude Code/Codex)로 HTML/CSS 슬라이드 생성·편집. 드래그 선택→에이전트 수정, PDF/PPTX/Figma 내보내기, 동영상 삽입(yt-dlp), tldraw 다이어그램, 테마·템플릿 시스템
 * [Swark: AI-Powered Software Architect](https://www.swark.io/)
   * [swark: Create architecture diagrams from code automatically using large language models (LLMs)](https://github.com/swark-io/swark)
 * [system-prompts-and-models-of-ai-tools: Collection of system prompts, internal tools, and AI model configurations of Augment Code, Claude Code, Cursor, Devin AI, Lovable, Manus, Windsurf, and more](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
