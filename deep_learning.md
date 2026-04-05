@@ -3063,6 +3063,9 @@ CVPR2016)
 
 # Text to video text2video
 * [AGI KR | 중국, 비디오 생성 AI '러시'...바이트댄스·알리바바도 '소라' 라이벌 합류 - Jimeng AI, Tora (출처:뉴스) | Facebook](https://www.facebook.com/groups/agikr/posts/2358831657791212/)
+* [AI4AnimationPy — Python framework for character animation through neural networks](https://facebookresearch.github.io/ai4animationpy/)
+  * [ai4animationpy](https://github.com/facebookresearch/ai4animationpy)
+  * Meta Research의 뉴럴 네트워크 기반 캐릭터 애니메이션 프레임워크. MLP/오토인코더/코드북, GLB/FBX/BVH 모캡 임포트, 실시간 렌더링·IK, ECS 아키텍처. Unity 대비 학습 데이터 생성 4시간→5분, 추론 중 역전파 가능
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
