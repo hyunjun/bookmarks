@@ -567,6 +567,7 @@ AWS
 * [Amazon Managed Grafana에서 Keycloak SAML 기반 IdP로 사용자 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amg-keycloak-saml/)
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 * [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
+* [분산 트레이닝 관점에서의 AWS 인터커넥트 기술 소개 — AWS는 왜 EFA를 사용하는가? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efa-distributed-training-interconnect-technology/)
 * [가용 영역을 사용한 정적 안정성](https://aws.amazon.com/ko/builders-library/static-stability-using-availability-zones/) AZ
 * [AWS 환경에서 Overlay IP 주소를 활용한 고가용성 구성 및 MCCS 솔루션을 통한 자동 장애조치 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-overlay-ip-with-mccs/)
 * [AWS App Studio, 자연어 기반 엔터프라이즈급 애플리케이션 구축 도구 (미리보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
@@ -778,8 +779,13 @@ AWS
   * [대한항공의 AI 대전환: Amazon Bedrock 기반 AI 컨택센터 지식 검색 챗봇 구축 사례 | 김영민](https://www.linkedin.com/posts/aldente0630_%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5%EC%9D%98-ai-%EB%8C%80%EC%A0%84%ED%99%98-amazon-bedrock-%EA%B8%B0%EB%B0%98-ai-%EC%BB%A8%ED%83%9D%EC%84%BC%ED%84%B0-%EC%A7%80%EC%8B%9D-activity-7377987988041019392-TkL8)
 * [Custom Intelligence: Building AI that matches your business DNA | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/)
   * [Custom Intelligence: Building AI that matches your business DNA | Amazon Web Services | Charlie Changsub Chang](https://www.linkedin.com/posts/changsubchang_custom-intelligence-building-ai-that-matches-activity-7390890759186673664-aZbi)
+* [Agentic AI 기반 플랫폼 — 7주만에 기획부터 배포까지, Part1 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/agentic-ai-foundation-platform-part1/)
+  * [Agentic AI 기반 플랫폼 7주만에 기획부터 배포까지 Part1 | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_agentic-ai-%EA%B8%B0%EB%B0%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-7%EC%A3%BC%EB%A7%8C%EC%97%90-%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-part1-activity-7426801579581956096-fbqg)
+  * AI-DLC 방법론으로 MCP Registry, Knowledge Base 파이프라인, Agent Management, Playground 포함 플랫폼을 7주 만에 구축. 12일 CRUD 작업을 30분~1시간으로 단축
 * [Amazon Bedrock과 함께 Claude Code 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-with-claude-code/)
-  * [Claude Code on Amazon Bedrock](https://catalog.workshops.aws/claude-code-on-amazon-bedrock/en-US)
+  * [Claude Code on Amazon Bedrock Workshop](https://catalog.workshops.aws/claude-code-on-amazon-bedrock)
+* [Build a Production-Ready AI Agent From Scratch — With LangGraph & AWS AgentCore](https://joudwawad.medium.com/production-ready-ai-agent-from-scratch-with-langgraph-aws-agentcore-e236cd3f675f)
+  * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
   * [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview) | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
     * [Amazon Bedrock AgentCore 상세 분석 및 요약](https://www.facebook.com/groups/189675924467773/?multi_permalinks=9613723528729585&hoisted_section_header_type=recently_seen)
@@ -840,6 +846,9 @@ AWS
   * [Amazon Bedrock – Prompt Optimization 정식 출시!](https://www.linkedin.com/posts/woohyungchoi_prompt-optimization-in-amazon-bedrock-now-activity-7321036702171439104-wQgi/)
 * [sample-aws-kr-enterprise/ai-ml/bedrock-detailed-monitoring-dashboard at main · aws-samples/sample-aws-kr-enterprise](https://github.com/aws-samples/sample-aws-kr-enterprise/tree/main/ai-ml/bedrock-detailed-monitoring-dashboard)
   * [요즘 Claude Code on Bedrock 을 구성해서 우주에서 가장 보안이 뛰어난 환경에서 Claude Code 를 마음껏 활용하고 있다. 그러다 문득 내가 토큰을 얼마나 불태우고 있나 궁금해서 CloudWatch 에 이런 저런 수학표현식 잔뜩 활용하여 대시보드를 구성했었다. 그러다 캐시로 절감 효과도 좀 보고 싶고, 모델 별로 활용에 따라 비용… | Hyobin An](https://www.linkedin.com/posts/hyobin-an-a139a888_%EC%9A%94%EC%A6%98-claude-code-on-bedrock-%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%B4%EC%84%9C-%EC%9A%B0%EC%A3%BC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-activity-7428061872874000384-vpsI)
+* [sample-deep-insight: Production-grade multi-agent data analysis framework](https://github.com/aws-samples/sample-deep-insight)
+  * [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 — Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
+  * Strands SDK+Amazon Bedrock 기반 계층형 에이전트(Coordinator→Planner→Supervisor→Tool Agents). Claude Code 스타일 Skill 시스템, Human-in-the-Loop, 에이전트별 토큰 추적
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
@@ -1236,6 +1245,12 @@ AWS
 * [AB180 개발팀의 AWS 비용 관리 여정: 청구서 확인부터 Fin Ops 문화까지](https://engineering.ab180.co/stories/ab180-journey-of-aws-fin-ops)
 * [The $1,000 AWS mistake | Blog](https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/)
   * [$1,000짜리 AWS 실수 | GeekNews](https://news.hada.io/topic?id=24504)
+* [Building an Automated Cloud Cost Optimization and CI/CD Pipeline on AWS](https://medium.com/@abdulshaikhr99/building-an-automated-cloud-cost-optimization-and-ci-cd-pipeline-on-aws-169a871a0311)
+  * [Building an Automated Cloud Cost Optimization | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_building-an-automated-cloud-cost-optimization-activity-7433365887895728129-DIOI)
+  * Terraform IaC + Lambda(Scanner/Action/AI-Insights) + Docker/ECR + GitHub Actions CI/CD + Bedrock AI 인사이트. 유휴 리소스 자동 스캔/정지/태깅
+* [Serverless AWS Account Watcher](https://darryl-ruggles.cloud/serverless-aws-account-watcher)
+  * [Serverless AWS Account Watcher | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_serverless-aws-account-watcher-activity-7431077024426930178-0o5Q)
+  * EventBridge + Lambda + SNS/Slack 서버리스 계정 모니터링. S3 삭제, IAM 키 변경, 루트 로그인 등 감지. SAM IaC 배포
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [FinOps](https://github.com/newstars/FinOps)
@@ -1346,6 +1361,8 @@ AWS
 * [Amazon Elastic Block Store io2 볼륨용 NVMe 예약 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 * [Amazon EBS의 FSR을 이용해 설치형 DB 를 빠르게 스케일업 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/self-managing-db-scaleup-with-fsr/)
 * [Amazon EBS 스냅샷 공개 공유 차단 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-block-public-sharing-of-amazon-ebs-snapshots/)
+* [클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?](https://velog.io/@skynet/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EB%82%B4%EA%B5%AC%EC%84%B1%EC%9D%84-%EC%96%BC%EB%A7%88%EB%82%98-%EB%AF%BF%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+  * EBS gp3 개별 99.8~99.9%, 1000개 샤드 무중복 운영 시 연간 생존율 36.76%. RAID+별도 백업 필수
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
@@ -1481,6 +1498,9 @@ AWS
 * [Amazon ECS Anywhere 환경에서 이벤트 브릿지와 람다를 활용한 배포 프로세스 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configuring-the-deployment-process-with-amazon-eventbridge-and-aws-lambda-in-amazon-ecs-anywhere/)
 * [AWS ECS Fargate Demo | AWS ECS Tutorial | AWS Fargate - YouTube](https://www.youtube.com/watch?v=C8Z8XrGTicQ)
 * [Seekable OCI 및 AWS Fargate를 사용한 컨테이너 이미지 지연 로딩으로 더 빠르게 컨테이너 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/under-the-hood-lazy-loading-container-images-with-seekable-oci-and-aws-fargate/)
+* [The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate](https://medium.com/@shahkintur/the-complete-guide-deploying-a-dockerized-mcp-server-to-aws-ecs-fargate-and-connecting-it-to-aws-ccf8a3f65e3c)
+  * [Deploying a Dockerized MCP Server to AWS ECS Fargate | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_the-complete-guide-deploying-a-dockerized-activity-7426101726346403840-Ykh3)
+  * FastMCP 서버를 ECR/ECS Fargate에 배포하고 AgentCore Gateway에 연결하는 5단계 가이드
 * [ecs-fargate-fast-scaleout](https://github.com/serithemage/ecs-fargate-fast-scaleout/)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
@@ -1629,6 +1649,9 @@ AWS
     * plus extending visibility to EC2 services through exporters for Apache, MySQL, and Java JVM
     * S3-backed log storage for Loki is also shown
     * walks through the Helm charts, config, and integration steps to get these up and running
+* [GPU Time Slicing on AWS EKS with Bottlerocket and Karpenter](https://virtualcloud.medium.com/gpu-time-slicing-on-aws-eks-with-bottlerocket-and-karpenter-edec45c535ed)
+* [Implementing Zero-Maintenance HTTPS with AWS ACM Wildcard Certificates in Kubernetes](https://medium.com/@aniketwdubey/implementing-zero-maintenance-https-with-aws-acm-wildcard-certificates-in-kubernetes-b4e8a38a76b8)
+  * ACM 와일드카드 SSL로 K8s 앱 유지보수 없는 HTTPS. 인증서 요청→DNS 검증→ALB Ingress 설정 8단계 가이드
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1705,6 +1728,9 @@ AWS
 * [Optimizing Amazon EventBridge Pipes with Apache Kafka • Daniele Frasca & Roman Boiko • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=_KVVBOzEJdQ)
   * [VidiGo Optimizing Amazon EventBridge Pipes with Apache Ka](https://vidigo.ai/share/summary/1f2e33a77780)
   * [아파치 카프카로 Amazon EventBridge 파이프를 최적화하기 - 다니엘 프라스카 & 로만 보이코 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/970387)
+* [AWS EventBridge Pipes — The Simplest Way to Build Event Driven Architectures on AWS](https://medium.com/@ashishprajapat2/aws-eventbridge-pipes-the-simplest-way-to-build-event-driven-architectures-on-aws-78dfe9ab8316)
+  * [AWS EventBridge Pipes | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_aws-eventbridge-pipes-the-simplest-way-activity-7434062428256088064-6wY9)
+  * SQS/Kinesis/DynamoDB Streams → Lambda/Step Functions/SNS 서버리스 연결. Lambda 없이 필터링/변환 내장
 * [event-ruler](https://github.com/aws/event-ruler)
   * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
@@ -2383,6 +2409,9 @@ AWS
 * [AWS에서의 중앙 집중식 로깅 시스템 구축](https://www.joinc.co.kr/w/man/12/aws/scenario/logging)
 * [AWSLogs 컨테이너 로그 드라이버의 non-blocking 모드로 로그 손실 방지 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/preventing-log-loss-with-non-blocking-mode-in-the-awslogs-container-log-driver/)
 * [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
+* [re:Invent 2025 카카오의 5천만 사용자 로깅 시스템 — AI-native Observability - YouTube](https://www.youtube.com/watch?v=mREGY3cM_P0)
+  * [re:Invent 2025 카카오의 5천만 사용자 로깅 시스템 AI-native Observability](https://velog.io/@zuckerfrei/reInvent-2025-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98-5%EC%B2%9C%EB%A7%8C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A1%9C%EA%B9%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-AI-native-Observability)
+  * ES/Loki에서 ClickHouse+OpenTelemetry+SigNoz로 마이그레이션. 3일 핫(EBS)+장기 콜드(S3) 계층화, 복구 2-3시간, Graviton 최적화
 
 # Machine Learning
 * [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
@@ -2865,6 +2894,8 @@ AWS
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
   * [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
   * [Mountpoint for Amazon S3 정식 출시 – 오픈 소스 기반 파일 시스템 클라이언트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
+* [s3-experiments: Amazon S3를 5가지 다른 방식으로 활용하는 실험](https://github.com/roboco-io/s3-experiments)
+  * S3를 KV Store, Event Store, Litestream+SQLite RDBMS, Athena 서버리스 RDBMS, File I/O로 활용. CDK 배포, 벤치마크 포함
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
@@ -2918,6 +2949,12 @@ AWS
 * [AWS Delete the access keys. Now you can use Roles Anywhere! (feat, Terraform) | by rex.chun | Medium](https://medium.com/@7424069/aws-delete-the-access-keys-now-you-can-use-rolesanywhere-feat-terraform-e52dae120f73)
 * [Securing AI agents with Amazon Bedrock AgentCore Identity | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/securing-ai-agents-with-amazon-bedrock-agentcore-identity/)
   * [Amazon Web Services Bedrock AgentCore Identity: Secure AuthN/Z for AI Agents | Mahmoud Rabie posted on the topic | LinkedIn](https://www.linkedin.com/posts/mahmoudrabie2004_cyberabrsecurityabrhighlights-didabryouabrknowabrthat-activity-7386157006711152640-_34N)
+* [Pentesting a Pentest Agent: Here's What I've Found in AWS Security Agent](https://blog.richardfan.xyz/2026/03/14/pentesting-a-pentest-agent-heres-what-ive-found-in-aws-security-agent.html)
+  * [Pentesting a Pentest Agent | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_pentesting-a-pentest-agent-heres-what-share-7441619839414272000-tpXG)
+  * AWS Security Agent 침투 테스트에서 발견된 4가지 취약점: 과도한 IAM 권한, 입력 검증 미흡, 민감 데이터 노출, 프롬프트 인젝션 위험
+* [Understanding IAM for Managed AWS MCP Servers | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/understanding-iam-for-managed-aws-mcp-servers/)
+  * [Understanding IAM for Managed AWS MCP Servers | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_understanding-iam-for-managed-aws-mcp-servers-activity-7434743025131511808-AsKH)
+  * 관리형 MCP 서버의 IAM 보안 제어. 새 IAM 컨텍스트 키로 사람/AI 작업 구분, VPC 엔드포인트 지원 예정
 * [cloudfox: Find exploitable attack paths in cloud infrastructure](https://github.com/BishopFox/cloudfox)
   * [Introducing CloudFox | Bishop Fox](https://bishopfox.com/blog/introducing-cloudfox)
   * AWS(34개)/Azure(4개)/GCP(60개) 커맨드로 클라우드 인프라 공격 경로 탐색. IAM 권한 분석, 노출 엔드포인트 발견, 크로스 계정 접근 벡터 매핑
@@ -3144,6 +3181,8 @@ AWS
 * [Terraform과 AWS Well-Architected Framework를 이용한 마이그레이션과 현대화 | by 이준호(CTC) | Cloud Villains | Medium](https://medium.com/cloudvillains/aws-partner-summit-seoul-hands-on-%EC%84%B8%EC%85%98-%EC%A7%80%EC%9B%90-%ED%9B%84%EA%B8%B0-well-architected-%EC%97%90-%EA%B8%B0%EB%B0%98%ED%95%98%EC%97%AC-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-a5a389a61bd6)
 * [Terraform을 경험해보자..](https://velog.io/@skypentum/Terraform%EC%9D%84-%EA%B2%BD%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [인프라 몰라도 AI가 AWS 배포 다 해줌 Terraform + Claude Code - YouTube](https://www.youtube.com/watch?v=UFpqXcydq_Y) AI devops
+* [Terraform State — 당신의 인프라의 지도](https://velog.io/@lufianlee/Terraform-State)
+  * State 파일에 저장되는 평문 시크릿(DB 비밀번호, IAM 자격증명, SSH 키) 보안 위험. S3 설정 오류, CI/CD 로그 등 노출 경로와 KMS 암호화, OIDC 페더레이션 대응
 * Atlantis [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
   * [Atlantis Hardening and Review Fatigue - DoorDash Engineering Blog](https://doordash.engineering/2023/12/05/atlantis-hardening-and-review-fatigue/)
     * DoorDash에서 Terraform 코드를 관리하기 위해서 Atlantis를 사용해서 자동화한 과정
@@ -3318,3 +3357,4 @@ AWS
 * [AWS WAF 의 COUNT ACTION 이해하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-aws-waf-count-log/)
 * [AWS WAF 고급 속도 기반 규칙의 이점 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/discover-the-benefits-of-aws-waf-advanced-rate-based-rules/)
 * [AWS WAF 트래픽 개요 대시보드 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-the-aws-waf-traffic-overview-dashboard/)
+* [Protect Your Web Site with AWS WAF and CloudFront](https://dev.to/aws-builders/protect-your-web-site-with-aws-waf-and-cloudfront-2p8c)
