@@ -432,6 +432,11 @@ Artificial Intelligence
   * 4. 누적된 문맥을 통한 발전: 코드를 새로 배포하지 않아도 에이전트가 사용자의 작업 문맥을 기억하고 프롬프트를 최적화함으로써 시간이 지날수록 앱의 성능이 스스로 향상
 * [AI-Driven Development Lifecycle](https://prod.d13rzhkk8cj2z0.amplifyapp.com/)
   * [AI 주도 개발 생명주기 (AI-DLC) 방법론 정의서 | AI-DLC 방법론 한국어 번역](https://serithemage.github.io/AI-DLC/)
+  * [김태영 - AI 멀티 에이전트 개발 효과성 분석: AI 에이전트 11명에게 스프린트를 통째로... | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
+  * [aidlc-workflows: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+    * Kiro, Amazon Q Developer, Cursor, Cline, Claude Code, GitHub Copilot 등 멀티플랫폼 지원. 3단계 적응형 워크플로우, 컨텍스트 인식 규칙으로 AI 에이전트 품질 유도
+  * [sample-aidlc-kiro-power: AI-DLC Methodology Power for Kiro](https://github.com/aws-samples/sample-aidlc-kiro-power)
+    * Kiro IDE용 AI-DLC 파워. 프로젝트 복잡도 기반 자동 단계 조정(Inception→Construction→Operations), 리스크 기반 평가, 품질 게이트, aidlc-docs/ 감사 추적
   * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
 * [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
   * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
