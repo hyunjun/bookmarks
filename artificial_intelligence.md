@@ -525,6 +525,8 @@ Artificial Intelligence
 * [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
 * [AI Agent가 복잡한 테이블 데이터 처리하는 방법](https://channel.io/ko/team/blog/articles/e6b1056a)
+* [나는 AI에게 아무것도 설명하지 않는다](https://kianmoon.com/posts/ai-assistant-system)
+  * JARVIS 개인 AI 어시스턴트 시스템 구축기. 이중 레이어 메모리+자동 채널 동기화로 이메일·메시지·회의록 자동 수집, 반복 설명 없이 프로젝트 맥락 유지
 * [직접 써본 AI 코딩 도구 12종···커서·코덱스·코파일럿의 핵심 차이는? | CIO](https://www.cio.com/article/4030150/%EC%A7%81%EC%A0%91-%EC%8D%A8%EB%B3%B8-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-12%EC%A2%85%C2%B7%C2%B7%C2%B7%EC%BB%A4%EC%84%9C%C2%B7%EC%BD%94%EB%8D%B1%EC%8A%A4%C2%B7%EC%BD%94%ED%8C%8C%EC%9D%BC.html)
 * [agent 들의 양이 방대해짐에 따라, Agent의 핵심인 Model 그리고 Tool간 multi-turn interaction 또한 커질텐데 이를 어떻게 대비할 것인가](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%A3%BC%EB%A7%90%EB%A7%88%EB%8B%A4-ai-engineering-%EB%B6%84%EC%95%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-activity-7357592519741722624-eM5H/)
   * Vector DB와 RAG의 조화가 결국 Agent 시스템으로 확장되는 핵심적인 연결고리
@@ -2501,6 +2503,11 @@ Artificial Intelligence
 * [Dario Amodei and Ali Ghodsi: Anthropic + Databricks, AI Agents in the Enterprise - YouTube](https://www.youtube.com/watch?v=MTsoRWPS46o)
   * Anthropic CEO와 Databricks CEO 대담. 엔터프라이즈 AI 에이전트, AI 스케일링 법칙, Anthropic-Databricks 파트너십
 * [AI를 잘 쓰는 사람과 못 쓰는 사람의 차이 | DEVLOG Facebook](https://www.facebook.com/groups/765872100510405/posts/2412852515812347/)
+* [Gen AI Won't Make Your Employees Experts | HBR](https://hbr.org/2026/03/gen-ai-wont-make-your-employees-experts)
+  * [AI 쓰면 누구나 전문가 수준의 결과를 낼 수 있다? | crystal0224](https://www.linkedin.com/posts/crystal0224_ai-%EC%93%B0%EB%A9%B4-%EB%88%84%EA%B5%AC%EB%82%98-%EC%A0%84%EB%AC%B8%EA%B0%80-%EC%88%98%EC%A4%80%EC%9D%98-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EB%82%BC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EC%9D%B4-%EB%A7%90%EC%9D%84-%EB%93%A4%EC%9D%84-%EB%95%8C%EB%A7%88%EB%8B%A4-share-7443892423086202880-Ulr6)
+  * AI가 아이디어 단계에서는 스킬 격차를 줄이지만, 실행 단계에서는 전문성 차이를 해소하지 못하는 "AI Wall" 현상. 도메인 지식 없이는 AI 결과물 평가 불가
+* ["일단 POC 해보세요" - AI 도입 논의의 Last Mile Problem | crystal0224](https://www.linkedin.com/posts/crystal0224_%EC%9D%BC%EB%8B%A8-poc-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-ai-%EB%8F%84%EC%9E%85-%EB%85%BC%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%93%A3%EB%8A%94-%EB%A7%90%EC%9E%85%EB%8B%88%EB%8B%A4-share-7440289785790930944-iGAJ)
+  * 250개 이상의 LLM 연결 앱을 만들고도 하나도 운영 전환 못한 은행 사례. 기술보다 거버넌스·인력·프로세스 재설계가 핵심
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2600,6 +2607,8 @@ Artificial Intelligence
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
+  * [WorldGen: Text/Image to 3D scene generation](https://github.com/ZiYang-xie/WorldGen)
+    * 텍스트·이미지에서 수초 내 360도 탐색 가능 3D 씬 생성. Gaussian splat/메시 출력, 게임·시뮬레이션·VR 활용
 * [AI Explained - Stanford Research Paper](https://drive.google.com/file/d/1H2_QWjauxlrj1UKO2nPd8jd7J8IkKpYm/view)
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
@@ -3035,6 +3044,9 @@ Artificial Intelligence
 * [WrenAI: AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds](https://github.com/Canner/WrenAI)
   * [Open-Source GenBI Agent — Text-to-SQL Made Easy](https://getwren.ai/oss)
   * [100% open-source Generative BI Agent!](https://www.linkedin.com/posts/sumanth077_i-found-a-100-open-source-generative-bi-activity-7356237535787802624-5PMA/)
+* [Xinity — Sovereign AI Infrastructure Software for European Enterprises](https://xinity.ai/)
+  * [xinity-ai](https://github.com/xinity-ai/xinity-ai)
+  * 유럽 기업용 온프레미스 AI 인프라 플랫폼. 데이터 주권·GDPR 준수, OpenAI 호환 API, 모델 오케스트레이션, 멀티노드 스케일링, 관리 대시보드. 오픈소스
 * [Z.ai - Free AI Chatbot powered by GLM-4.5](https://chat.z.ai/)
   * [Z.ai, 단순한 도구가 아니다: 'AI 복기'로 인간 뇌를 확장해보기 Z.ai를 테스트해보았습니다. 리서치 보고서를 업로드 한 후, "맥퀸지 컨설팅 보고서 형태로 만들어. 데이터나 도표 등은 시각화 자료도 포함해. 톤은 블루톤으로 하고, 문장은 간결형으로~함으로 끝나야해. 전문용어나 약어는 설명을 보강해” 결과는 skywork 보다 컬러나 아이콘이… | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_zai-%EB%8B%A8%EC%88%9C%ED%95%9C-%EB%8F%84%EA%B5%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-ai-%EB%B3%B5%EA%B8%B0%EB%A1%9C-%EC%9D%B8%EA%B0%84-%EB%87%8C%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%B4%EB%B3%B4%EA%B8%B0-activity-7376565909454249984-aAE8)
   * [임백호 - 블프라 해도 특별히 물건을 잘 사질 않는데 살다 살다 중국산 LLM 1년치 토큰을 결제했습니다. GPT,... | Facebook](https://www.facebook.com/100ho/posts/pfbid02Bzv7xzNahQ7YEvAMgngSy69WPnvzRcP7o1gUcmuZkeoa7rNwmSwhLd9XFhniu35Ml)
@@ -3448,6 +3460,7 @@ Artificial Intelligence
   * [4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! - YouTube](https://www.youtube.com/watch?v=uub34E4DwZI)
     * [클로드 채널 업데이트: 어떤 서비스든 클로드 코드에 연동](https://livewiki.com/ko/content/claude-channel-update-service-integration)
     * [Claude Code Channels 기능 공개: Telegram·Discord로 원격 작업 지시하는 방법 정리](https://digitalbourgeois.tistory.com/2917)
+  * [macOS에서 실제 컴퓨터를 조작하는 Claude, Anthropic의 컴퓨터 사용 기능 업데이트 정리](https://digitalbourgeois.tistory.com/2930)
   * [Using Proxies to Hide Secrets from Claude Code - Formal](https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/)
     * 에이전트형 코딩 도구인 Claude Code의 보안 취약점을 해결하기 위해 네트워크 프록시를 활용하는 방법 제안
     * Claude Code는 실행 환경의 환경 변수와 파일에 접근할 수 있어 API 키 등 민감 정보가 유출될 위험 존재
@@ -3546,6 +3559,9 @@ Artificial Intelligence
   * [awesome-claude-code-security: Security resources, hardening tools, and governance frameworks for Claude Code](https://github.com/efij/awesome-claude-code-security)
     * [awesome-claude-code-security | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijawesome-claude-code-security-activity-7437977413059272704-iust)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
+  * [aws-skills-for-claude-code: 36 on-demand AWS skills for Claude Code](https://github.com/whchoi98/aws-skills-for-claude-code)
+    * [AWS Skills for Claude Code - 36개 Skills 세트 공개 | woohyungchoi](https://www.linkedin.com/posts/woohyungchoi_aws-skills-for-claude-code-36%EA%B0%9C-skills-share-7446170588190257152-fiT-)
+    * kirodotdev/powers(25개)+kiro-cli-power(11개) 기반 AWS 풀스택 개발 스킬. 대화 컨텍스트 기반 온디맨드 로딩, bash 스크립트 원클릭 설치
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
   * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
@@ -3628,6 +3644,8 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
+  * [claude-howto: Master Claude Code step by step](https://github.com/luongnv89/claude-howto)
+    * 10단계 체계적 학습 가이드. 기본 명령어부터 고급 에이전트 오케스트레이션까지, 복붙 가능 템플릿과 Mermaid 다이어그램 포함
   * [claude-hud: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress](https://github.com/jarrodwatts/claude-hud)
     * [🎛️ Claude Code의 블랙박스를 투명하게 만든 플러그인, 왜 개발자들이 열광하나 "Claude가 일하는 건지, 멍 때리는 건지 모르겠다." Claude Code로 복잡한 태스크를 돌려본 분이라면 공감하실 거예요. 긴 작업이 돌아가는 동안 터미널은 조용하고, 컨텍스트가 언제 터질지, 에이전트가 루프에 빠진 건 아닌지 알 길이 없죠. 이… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code%EC%9D%98-%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%EB%A5%BC-%ED%88%AC%EB%AA%85%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A0-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%99%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ugcPost-7416490048826605568-8IVr)
   * [claudekit: A toolkit of custom commands, hooks, and utilities for Claude Code](https://github.com/carlrannaberg/claudekit)
@@ -3727,6 +3745,8 @@ Artificial Intelligence
     * [lucas_flatwhite on X](https://x.com/lucas_flatwhite/status/2026904649035624651)
   * [GongMun-Doctor-MCP: AI 기반 한국어 공문서 교정 MCP 서버](https://github.com/sinmb79/GongMun-Doctor-MCP)
     * 100% 로컬 실행. 맞춤법·문법·공문서 서식 3단계 교정, hwpx/hwp 지원, 50개 행정문서 템플릿 내장
+  * [graph-workflow: Claude Code Graph Plugin Benchmark](https://graph.brnd.bio/)
+    * DAG 기반 워크플로우 오케스트레이션. 시맨틱 인텐트 분류, 스킬 우선 라우팅, 2~4개 병렬 리서치 스트림, 적대적 검증(팩트체크·모순 감지), JSON 스펙 재현 가능 실행. v3.3 기준 92/100점, ~35분 내 복잡한 리서치 태스크 완료
   * [gstack: YC CEO Garry Tan's Claude Code workflow — opinionated slash commands for shipping](https://github.com/garrytan/gstack)
     * [YC CEO Garry Tan의 Claude Code 워크플로우 gstack - YouTube](https://www.youtube.com/watch?v=vfn_Ezu1qfk)
       * [gstack: YC CEO Garry Tan의 Claude Code 워크플로우](https://livewiki.com/ko/content/gstack-yc-ceo-garry-tan)
