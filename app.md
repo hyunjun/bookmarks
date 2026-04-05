@@ -2719,6 +2719,8 @@ App
     * [hi-canvas.marknoteapp.com](https://hi-canvas.marknoteapp.com/)
     * [Kinopio](https://kinopio.club/hello-kinopio-RAwG-frHfebPi9Dw947OK)
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
+  * [mcp-obsidian: Obsidian connector via Local REST API for Claude](https://github.com/MarkusPfundstein/mcp-obsidian)
+    * [부록2 Obsidian MCP 연결 가이드 | WikiDocs](https://wikidocs.net/332259)
   * [Obsidian 3D graph plugin (official release, features walkthrough) - YouTube](https://www.youtube.com/watch?v=w1H-pcM8nOU)
   * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
@@ -2727,6 +2729,8 @@ App
     * [Excel 데이터를 옵시디언 테이블로 - Excel to Markdown Table 플러그인](https://kaminik.tistory.com/entry/Excel-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A1%9C-Excel-to-Markdown-Table-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
+  * [obsidian-mind: Obsidian vault template for persistent AI memory with Claude Code](https://github.com/breferrari/obsidian-mind)
+    * Claude Code와 함께 사용하는 Obsidian vault 템플릿. 자동 노트 정리, 컨텍스트 연결, 성과 추적으로 세션 간 영속적 메모리
   * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
     * Claude Code, Codex CLI 등 스킬 호환 에이전트에서 사용 가능한 Obsidian 스킬 모음. 마크다운, Bases, Canvas, CLI 지원
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
