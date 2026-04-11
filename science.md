@@ -75,6 +75,9 @@ Science
 * [소용돌이 화석의 비밀 2/2](http://slownews.kr/45383) 헬리코프리온
 * [지금은 사라진 거대 생물 TOP10](http://techholic.co.kr/archives/38859)
 * [문어가 가장 고도로 진화한 고등동물?](http://www.huffingtonpost.kr/jaeyeon-jang/story_b_8290992.html)
+* [Lethal conflict after group fission in wild chimpanzees | Science](https://www.science.org/doi/10.1126/science.adz4944)
+  * [Oh Hyeunseung - 아마도 올해 최고의 연구 중 하나 | Facebook](https://www.facebook.com/hyeunseung82/posts/pfbid02W2TU5sZ6sA7ew5FaULqF39Q8AnXudMmqYvdHEYgJQQqSxE8VEPQogLCKgWRotnHql)
+  * 야생 침팬지 최대 집단의 영구적 분열과 치명적 충돌을 30년 행동 관찰과 네트워크 분석으로 보고. 동물의 영토 분쟁이 인간 내전의 측면을 조명
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
