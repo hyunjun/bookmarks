@@ -51,6 +51,21 @@ Presentation
 * [발표 잘 하는 법..스크립트..PT장표..발표.. : 네이버블로그](https://blog.naver.com/ranto28/223480792560)
 * [대통령상 대상 받은 PPT 도형! 앞으로 그냥 이거 쓰시면 됩니다! 🙋♂️ | 파워포인트 - YouTube](https://www.youtube.com/watch?v=sqgcDFqpwHI)
 * [1.5조 원 수주한 발표 전략가가 오프닝에서 절대 안 쓰는 말 | 윤상명](https://www.linkedin.com/posts/yoonpt_15%EC%A1%B0-%EC%9B%90-%EC%88%98%EC%A3%BC%ED%95%9C-%EB%B0%9C%ED%91%9C-%EC%A0%84%EB%9E%B5%EA%B0%80%EA%B0%80-%EC%98%A4%ED%94%84%EB%8B%9D%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80-%EC%95%88-%EC%93%B0%EB%8A%94-%EB%A7%90-1-%EC%A0%9C%EA%B0%80-share-7442025697193345024-N75c)
+* [David Kim | Facebook](https://www.facebook.com/davidkiminhk/posts/pfbid05YQ6wodnhw8mn36PjnQg4K2SccE5xXowZDQPBhM31vJqz6h8zWpRBMepfhBr9ij6l)
+  * Most startup pitches share one fatal flaw: they try to say everything — and end up saying nothing.
+  * 자본은 ‘많이 설명하는 것’이 아니라, ‘명확하게 이해되는 것’에 반응한다
+    * 과거에는 정보가 많을수록 유리한 시대가 있었다. 하지만 지금은 게임의 규칙이 바뀌었다
+    * 이제는 길이가 아니라 압축력이 승부를 가른다
+  * 중요한 3가지 기준
+    * 명확성이 완성도를 이긴다
+      * 10분 설명이 꼭 필요한 구조라면, 그건 이미 Investable 하지 않은 비지니스이다
+    * 압축력이 진짜 실력이다
+      * 하나의 페이지 안에 수익 구조와 성장 논리가 담겨 있다면, 그 자체로 강력한 신호가 된다
+      * 설명하지 않아도 이해되는 구조가 진짜이다
+    * 침묵은 신뢰를 만든다
+      * 계속 설명하는 것은 불안을 드러내는 신호이다
+      * 투자자의 질문에 방어를 하려고 설명을 길게 하는 순간, 이미 투자자는 불신과 점검의 렌즈로 바꾸어 보고 있다
+      * 여백의 힘 - 질문을 하도록 여지를 남기는 것이 더 강력한 메시지이다
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
