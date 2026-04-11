@@ -5685,6 +5685,9 @@ Programming
   * [전종홍 - 어쩌면 판도라의 상자가 열리는 것일지도 모르겠네요. 이미 열렸던 것일지 모르지만.. AI 에이전트와 인간... | Facebook](https://www.facebook.com/1biit/posts/pfbid02TZRmhk2PXEmGtpdgreAeUvwR3iVBxZdQh6bhdPPsnMcayqcAeaM4EcTFBnqiGhRl)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
+* [Caido — Web Security Testing Platform](https://caido.io/)
+  * [caido](https://github.com/caido/caido)
+  * AI+팀워크 기반 웹 해킹 툴킷. HTTPQL 문법 요청 필터링, 노드 기반 자동화 워크플로우. 버그바운티·펜테스터·보안엔지니어 대상
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
 * [caswaf: HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com ](https://github.com/casbin/caswaf)
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
