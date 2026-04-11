@@ -2478,6 +2478,8 @@ CVPR2016)
 * [block-selection-for-OOD-detection](https://github.com/gist-ailab/block-selection-for-OOD-detection) hallucination
   * [인공지능 “모르는 건 모른다!" ... ‘모르는 데이터’ 식별하는 AI 모델, 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28076)
 * [CoDi: Generate Anything from Anything All At Once through Composable Diffusion](https://codi-gen.github.io/)
+* [cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping](https://github.com/nvidia-isaac/cuVSLAM)
+  * NVIDIA GPU 가속 비주얼 SLAM. 실시간 정밀 포지셔닝+3D 매핑. Python API, ROS2 통합 지원
 * [Deep Visual-SLAM의 미래 0 (Deep-SLAM의 시작)](https://cv-learn.com/Deep-Visual-SLAM-0-Deep-SLAM-603a26c47c3848a88b90559d273f95dc)
 * [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
 * [flash-attention: Fast and memory-efficient exact attention](https://github.com/Dao-AILab/flash-attention)
