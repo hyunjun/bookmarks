@@ -4351,6 +4351,10 @@ NLP
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
+* [legalize-kr — 법령을 코드처럼, 판례도 코드처럼](https://legalize.kr/)
+  * [legalize-kr](https://github.com/legalize-kr)
+  * [Show GN: legalize-kr | GeekNews](https://news.hada.io/topic?id=28353)
+  * 대한민국 법령·판례를 Markdown+Git으로 아카이빙. 6,907건 법령(81,629회 개정 이력), 123,467건 판례. 모든 개정을 Git 커밋으로 추적, 오프라인 접근 가능. 법제처 OpenAPI 기반, MIT/Apache-2.0
 
 # LDA Latent Dirichlet Allocation
 
