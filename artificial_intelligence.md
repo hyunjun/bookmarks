@@ -2884,6 +2884,11 @@ Artificial Intelligence
   * 화상회의 완전 은닉: Zoom / Google Meet / MS Teams에서도 감지 불가
 * [Google AI 에지  |  Google AI Edge  |  Google AI for Developers](https://ai.google.dev/edge?hl=ko)
   * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
+* [graphify: Transform code, docs, papers, images, and videos into interactive knowledge graphs](https://github.com/safishamsi/graphify)
+  * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
+  * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
+  * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
+    * Karpathy의 LLM Wiki 개념 구현. RAG 없이 원시 데이터→LLM 위키 편집→질의→결과 위키 저장의 복합 지식 축적 루프. graphify 통합으로 코드·문서·미디어를 지식 그래프로 변환, BFS/DFS 탐색
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [Guse](https://www.guse.io/)
@@ -3203,6 +3208,8 @@ Artificial Intelligence
   * Playwright CLI vs MCP vs Chrome 확장 비교: CLI가 약 9만 토큰 절약. Accessibility Tree 요약본만 전달하여 토큰 절감, 병렬 서브 에이전트로 UI 테스트 동시 실행, 워크플로우를 스킬로 패키징하여 반복 작업 자동화
 * [Death of the IDE](https://addyo.substack.com/p/death-of-the-ide)
   * [IDE의 죽음인가, 진화인가: 에이전트 오케스트레이션 시대로 이동하는 개발 환경의 중심](https://digitalbourgeois.tistory.com/2918)
+* [AI 에이전트 코딩 도구를 사용하는 시대에도 여전히 프로그래밍 언어를 배워야할까? | Toby's Codex](https://codex.epril.com/ai)
+  * AI 에이전트 시대에는 코딩보다 생성된 코드를 검증하고 제어하는 능력이 필수
 * [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
   * Pi/OpenClaw/Codex/Claude용 ACP 클라이언트. 영구 세션, 병렬 세션, 프롬프트 큐잉, 크래시 복구, JSON 출력
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
