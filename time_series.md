@@ -187,7 +187,7 @@ Time Series
   * [It’s About Time For Time Series Databases](https://www.nextplatform.com/2018/01/25/time-time-series-databases/)
   * [TimescaleDB vs. Amazon Timestream: 6000x faster inserts, 5-175x query speed](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
 * [TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting](https://github.com/google-research/timesfm/)
-  * [A decoder-only foundation model for time-series forecasting](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
+  * [A Decoder-Only Foundation Model for Time-Series Forecasting | Google Research](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/)
   * [TimesFM 2.5 완전 정리: Google Research 시계열 파운데이션 모델의 구조, 특징, 설치 및 사용 방법](https://digitalbourgeois.tistory.com/2794)
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
 * TSCoke
