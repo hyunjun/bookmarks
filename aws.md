@@ -2112,6 +2112,8 @@ AWS
 * [Reliable AWS Lambda Data Pipelines with AsyncAPI Specification • Hari Krishnan • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=3McRayR31D4)
   * [AsyncAPI로 AWS Lambda 데이터 파이프라인 테스트 및 계약 기반 개발](https://livewiki.com/ko/content/aws-lambda-data-pipelines-asyncapi)
 * [Powertools for AWS Lambda - Best Practices By Default](https://darryl-ruggles.cloud/powertools-for-aws-lambda-best-practices-by-default)
+* [Lambda Just Got a File System. I Put AI Agents on It](https://edjgeek.com/blog/s3-files-lambda-agents/)
+  * S3 Files for Lambda로 S3를 로컬 파일시스템처럼 마운트. 다운로드/업로드 보일러플레이트 제거. AI 에이전트가 마운트된 S3 워크스페이스를 공유하는 서버리스 코드 리뷰 시스템 구축 사례
 * [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
   * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
     * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
@@ -2540,6 +2542,7 @@ AWS
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [AWS SageMaker HyperPod (w. EKS) 도입기](https://dev-ryuon.tistory.com/120)
+* [Amazon SageMaker HyperPod로 슈퍼브에이아이의 비전 파운데이션 모델 'ZERO' 효율적으로 대규모 분산 학습하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-hyperpod-superbai-zero-foundation-model/)
 * [생성형 AI를 위한 Amazon SageMaker Endpoint 기반 임베딩 모델 배포 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/deploying-embedding-model-on-sagemaker-endpoint-for-genai/)
 * [GenAI 모델 배포를 위한 툰스퀘어의 Amazon SageMaker 활용 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/usecase-amazon-sagemaker-for-genai-model-deployment/)
 * [Amazon SageMaker 기반 완전 관리형 MLflow 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/)
