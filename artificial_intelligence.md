@@ -2526,6 +2526,10 @@ Artificial Intelligence
 * ["일단 POC 해보세요" - AI 도입 논의의 Last Mile Problem | crystal0224](https://www.linkedin.com/posts/crystal0224_%EC%9D%BC%EB%8B%A8-poc-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-ai-%EB%8F%84%EC%9E%85-%EB%85%BC%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%93%A3%EB%8A%94-%EB%A7%90%EC%9E%85%EB%8B%88%EB%8B%A4-share-7440289785790930944-iGAJ)
   * 250개 이상의 LLM 연결 앱을 만들고도 하나도 운영 전환 못한 은행 사례. 기술보다 거버넌스·인력·프로세스 재설계가 핵심
 * [이승현 - CoT의 진화, 탈언어화와 검증으로 | Facebook](https://www.facebook.com/epoko/posts/pfbid02PU9GTLUySqaiZVxqHxdwFD7fMsw5M9bAdvJH8cqQdncHt4HAhJdtJcX2WmL1Tqal)
+* [Andrej Karpathy - AI 역량 이해의 격차가 커지고 있다](https://x.com/karpathy/status/2042334451611693415)
+  * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
+  * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
+* [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2656,6 +2660,9 @@ Artificial Intelligence
 * [지금도 어려운 에이전틱 AI 보안, 몇 달 뒤면 악몽이 된다 | ITWorld](https://www.itworld.co.kr/article/4126930/%EC%A7%80%EA%B8%88%EB%8F%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EB%B3%B4%EC%95%88-%EB%AA%87-%EB%8B%AC-%EB%92%A4%EB%A9%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%9C.html)
 * [The "Safety" Myth in AI: Why Better Performance ≠ Better Security - YouTube](https://www.youtube.com/watch?v=d7drlYAtkk0)
   * [AI 안전 신화: 성능 향상 ≠ 보안 향상](https://livewiki.com/ko/content/ai-safety-performance-security)
+* [Claude Mythos Preview의 사이버보안 능력 평가 | Anthropic Red Team](https://red.anthropic.com/2026/mythos-preview/)
+  * [Claude Mythos Preview의 사이버보안 능력 평가 | GeekNews](https://news.hada.io/topic?id=28320)
+  * Mythos Preview가 주요 OS/브라우저에서 제로데이 취약점 자율 발견. OpenBSD 27년·FFmpeg 16년 된 버그 등 수천 개 고위험 취약점 식별. 공개 배포 않고 Project Glasswing 출범
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
@@ -3581,6 +3588,9 @@ Artificial Intelligence
     * Growth Engine, Sales Pipeline, Content Ops, SEO Ops 등 11개 마케팅/세일즈 스킬. 스크립팅·스코어링·자동화 파이프라인 포함. MIT 라이선스
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+  * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
+    * [autoskills](https://www.autoskills.sh/)
+    * `npx autoskills`로 기술 스택 자동 감지 후 skills.sh에서 관련 스킬 자동 설치+CLAUDE.md 생성. Node.js 22+
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
     * Claude Code 자율 실행 세션에 Discord 브릿지 연결. 작업 중 대화 가능, 중단 시 알림 수신
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
@@ -3784,6 +3794,9 @@ Artificial Intelligence
     * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
     * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
     * [Why Garry Tan's Claude Code setup has gotten so much love, and hate | TechCrunch](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
+  * [gyeol: AI 정체성을 위한 기억 아키텍처](https://github.com/inureyes/gyeol)
+    * [신정규 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0xjiJ29889biTQweun68aL37Jci3fPQE5cEA6cDtnDdoGx78dGWtC5dy63MKdQPPil)
+    * AI 정체성이 모델 가중치가 아닌 축적된 기억에서 나온다는 실험적 메모리 시스템. 에피소딕/시맨틱 메모리, 단계별 통합(일간/월간/연간). Claude Code/Gemini CLI/Codex 공통
   * [HolyClaude: Containerized AI development workstation with Claude Code](https://holyclaude.coderluii.dev/)
     * [HolyClaude](https://github.com/CoderLuii/HolyClaude)
     * Docker 원커맨드 Claude Code 워크스테이션. 웹 UI, Playwright 헤드리스 브라우저, 7개 AI CLI, 50+ 개발 도구 번들
@@ -4485,6 +4498,8 @@ Artificial Intelligence
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
+* [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/calesthio/OpenMontage)
+  * AI 코딩 어시스턴트를 영상 제작 스튜디오로 전환. 11개 프로덕션 파이프라인, 49개 도구, 400+ 에이전트 스킬. 리서치→편집→합성 자동화. Claude Code/Cursor/Copilot 지원
 * [Open Interpreter](https://www.openinterpreter.com/)
   * [open-interpreter: A natural language interface for computers](https://github.com/openinterpreter/open-interpreter)
   * 자연어로 코드 실행·파일 조작·브라우저 제어 등을 수행하는 오픈소스 인터프리터. Python, JS, Shell 등 다양한 언어 지원
