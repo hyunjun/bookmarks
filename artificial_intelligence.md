@@ -3493,6 +3493,10 @@ Artificial Intelligence
     * [이제 AI가 AI를 관리한다? Claude의 역대급 업데이트 'Agent Swarm' 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Wq8w4jz6Kz8)
     * [클로드 코워크 누구나 쉽게 13분만 따라하세요 | 설치법, AI 비서, 업무 자동화 - YouTube](https://www.youtube.com/watch?v=rX8H8e5QZuk)
     * [Claude Cowork Dispatch 기능 정리: 모바일에서 데스크톱 Claude를 원격으로 작업시키는 방법과 한계](https://digitalbourgeois.tistory.com/2896)
+    * [Claude Code로 코드 한 줄 없이 마케팅팀을 만드는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3696/)
+      * [How I Built an AI Marketing Team with Claude Code and Cowork](https://snow.runbear.io/how-i-built-an-ai-marketing-team-with-claude-code-and-cowork-f3405a53ee22)
+      * [I Handed My Marketing to Claude Cowork Code, Here's What a Week Looks Like](https://snow.runbear.io/i-handed-my-marketing-to-claude-cowork-code-heres-what-a-week-looks-like-3fe70fc51a8b)
+      * 마크다운만으로 5개 AI 에이전트 팀 구성. 콘텐츠 작성→소셜 미디어 운영까지 마케팅 전반 자동화. 시간 단위 스케줄·규칙 시스템·피드백 루프
   * [4시간전에 나온 따끈따끈한 클로드 채널 업데이트. 이제 어떤 서비스든 클로드 코드에 연동 가능! - YouTube](https://www.youtube.com/watch?v=uub34E4DwZI)
     * [클로드 채널 업데이트: 어떤 서비스든 클로드 코드에 연동](https://livewiki.com/ko/content/claude-channel-update-service-integration)
     * [Claude Code Channels 기능 공개: Telegram·Discord로 원격 작업 지시하는 방법 정리](https://digitalbourgeois.tistory.com/2917)
