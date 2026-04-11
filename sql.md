@@ -1699,6 +1699,8 @@ SQL
 * [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
 * [Master the SQL QUALIFY Statement: A Comprehensive Tutorial | DataCamp](https://www.datacamp.com/tutorial/qualify-the-sql-filtering-statement-you-never-knew-you-needed)
   * Row number, rank 등으로 필터링 하기 위해 sub query 를 만들었던 부분에서 훨씬 간편하게 사용 가능할 것으로 예상
+* [sql-tutorial: E-Commerce Database v2.0 기반 SQL 튜토리얼](https://github.com/civilian7/sql-tutorial)
+  * 30개 테이블, 687K+ 현실적 데이터, 22개 레슨 208개 연습문제. SQLite/MySQL/PostgreSQL 지원, 한/영 이중언어
 
 ## Query, SQL Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
