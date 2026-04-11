@@ -2993,6 +2993,8 @@ Business
 * [불편함 피하는 회피형 리더가 팀도, 커리어도 망치는 이유ㅣ한기용의 나침반 - YouTube](https://www.youtube.com/watch?v=PXu_ryiqTm0)
 * [승리하지 못하는 조직에게 미래는 없다](https://flowkater.io/posts/2026-01-25-no-victory-no-future/)
   * 리더 독단은 조직 지능을 한 사람으로 수렴시킴. 방향은 제시하되 과정은 자율 부여, 1on1·투명한 정보 공유·실패 회고와 승리 축하가 핵심. 스타트업 대표/CTO 경험 기반
+* [리더는 명확한 우선순위가 있습니다: 1순위는 고객, 2순위는 팀원 | 김민기](https://www.linkedin.com/posts/%EB%AF%BC%EA%B8%B0-%EA%B9%80-ab7b2723b_%EB%A6%AC%EB%8D%94%EB%8A%94-%EB%AA%85%ED%99%95%ED%95%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-1%EC%88%9C%EC%9C%84%EB%8A%94%EA%B3%A0%EA%B0%9D-2%EC%88%9C%EC%9C%84%EB%8A%94%EB%82%B4-%ED%8C%80%EC%9B%90-activity-7448682295172964352-tjQm)
+  * 고객(1순위), 팀원(2순위), 자신(3순위). 경험 부족할수록 팀원에 대한 헌신을 놓침. 비판적 피드백을 주는 직원은 조직에 애정 있는 신호
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
