@@ -448,6 +448,13 @@ Artificial Intelligence
   * [하네스 엔지니어링 에이전트 우선 세계에서 Codex 활용하기 | raging-wind](https://www.linkedin.com/posts/raging-wind_%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9A%B0%EC%84%A0-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-codex-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-geeknews-activity-7438212039631773696-7Qdh)
   * [Agent Harness | bijit211987 | Medium](https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1)
   * [Harness | LangChain Docs](https://docs.langchain.com/oss/python/deepagents/harness)
+    * [The Anatomy of an Agent Harness | LangChain](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
+    * [Improving Deep Agents with Harness Engineering | LangChain](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/)
+    * [How Middleware Lets You Customize Your Agent Harness | LangChain](https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/)
+    * [How We Build Evals for Deep Agents | LangChain](https://blog.langchain.com/how-we-build-evals-for-deep-agents/)
+    * [Better Harness: A Recipe for Harness Hill-Climbing with Evals | LangChain](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/)
+    * [2026년 Harness Engineering 독학 - LangChain 하네스 엔지니어링 5편 정리 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-harness-engineering-%EB%8F%85%ED%95%99-langchain-share-7448253507192791040-VRiM/)
+      * Agent = Model + Harness. 하네스만 수정하여 Terminal Bench 2.0에서 13.7점 향상(52.8%→66.5%, 30위권 밖→5위). 해부학→개선→미들웨어→평가→자동 개선 5단계 학습 경로
   * [Harness Engineering | Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
   * [Agent Harness 2026 | Philipp Schmid](https://www.philschmid.de/agent-harness-2026)
   * [Agent Harness | mseagle2023](https://www.linkedin.com/posts/mseagle2023_agent-harness-activity-7434502179484471296-x1yE)
@@ -1167,6 +1174,9 @@ Artificial Intelligence
 * [엔터프라이즈 LLM 서비스 구축기 1: 컨텍스트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-1-context-engineering)
   * [엔터프라이즈 LLM 서비스 구축기 2: 에이전트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-2-agent-engineering)
   * 260개 도구+수백 페이지 문서 환경에서 LLM에 필요한 정보만 제공하는 점진적 컨텍스트 엔지니어링(Part 1) + 에이전트 엔지니어링(Part 2). LINE 클라우드 AI Platform 팀의 실전 구축기
+* [EP 58. 컨텍스트 엔지니어링은 '목발'이다? Noam Brown 팟캐스트 읽어보기 - YouTube](https://www.youtube.com/watch?v=9yAkW-WgiWk)
+  * [컨텍스트 엔지니어링은 '목발'이다? Noam Brown 팟캐스트](https://livewiki.com/ko/content/context-engineering-crutch-noam-brown-podcast)
+  * Latent Space 팟캐스트 Noam Brown 출연 분석. 포커 AI에서 o1/o3까지의 여정, Bitter Lesson 관점, 컨텍스트 엔지니어링이 임시 방편인지 분석
 * [2507.13334 A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
   * [‘Context Engineering’을 주제로 한 160페이지가 넘는 리서치 서베이](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EB%8C%80%EB%B0%95-%EA%B6%81%EA%B8%88%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4-%EC%A0%95%EB%A6%AC%ED%95%B4%EC%A4%8D%EB%8B%88%EB%8B%A4-%ED%98%84%EC%9E%AC-%EB%A7%8E%EC%9D%80-%EB%B6%84%EB%93%A4%EC%9D%B4-activity-7352114484351561730-e3Yi/)
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
@@ -2612,6 +2622,9 @@ Artificial Intelligence
 * [2602.08234 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
   * [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://github.com/aiming-lab/SkillRL)
   * [최적의 데이터를 선별하여 LLM pre-training 효율을 극대화하는 OPUS | 0211 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2870190993321940)
+* [2604.06425 Neural Computers](https://arxiv.org/pdf/2604.06425)
+  * [김성완 - 메타에서 뉴럴 컴퓨터(Neural Computers)라는 새로운 개념을 발표했습니다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0xZSqAcu7CnhhBdkDkctNj8SKrHk9hTDtUur6TZMiGcHRm5ftqMasGfRaKv3PLdERl)
+  * 계산·메모리·I/O를 학습된 런타임 상태로 통합하는 새로운 머신 형태. 비디오 모델로 CLI/GUI 환경에서 명령+사용자 행동으로부터 화면 프레임 생성
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -2662,6 +2675,8 @@ Artificial Intelligence
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
+* [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
+  * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
 * [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
   * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
   * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
@@ -2807,6 +2822,8 @@ Artificial Intelligence
   * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
     * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=24515)
   * [캐럿 라우터, 왜 LiteLLM에서 any-llm으로 옮겼나 | Caret](https://caret.team/ko/blog/202512131111)
+* [AutoGTM by Explee — 24/7 AI-agent that finds clients while you sleep](https://explee.com/auto-gtm)
+  * 자율 AI B2B 세일즈 플랫폼. 1.05억 기업+5.36억 인물 프로필에서 월 3~15건 적격 미팅 자동 생성
 * [automate-for-growth: Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.](https://github.com/cporter202/automate-for-growth)
 * [awesome-ai-tools: A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐](https://github.com/cporter202/awesome-ai-tools)
 * [Backend.AI GO](https://go.backend.ai/ko/)
@@ -3592,6 +3609,7 @@ Artificial Intelligence
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
     * [앤트로픽이 직접 만든 클로드 코드 강의 핵심만 요약했습니다 | 성국 한](https://www.linkedin.com/posts/%EC%84%B1%EA%B5%AD-%ED%95%9C-5b433128a_%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%B4-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A0-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EA%B0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%9A%94%EC%95%BD%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C%EC%A3%BC-share-7440849401809571841-WJQs/)
+  * [claude-code-chat: AI 교육 전략보고서](https://github.com/revfactory/claude-code-chat)
   * [claude-code-cheat-sheet: Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes](https://github.com/Njengah/claude-code-cheat-sheet/)
   * [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)
   * [Claude Code Guide | Manus](https://claudeguide-dv5ktqnq.manus.space/)
@@ -3727,6 +3745,7 @@ Artificial Intelligence
     * [Claudia - The Elegant Desktop Companion for Claude Code](https://claudia.asterisk.so/)
     * [무료 클로드 코드 GUI 클로디아 - YouTube](https://www.youtube.com/watch?v=aoEjGsLnKCM)
   * [code-review-graph: Local knowledge graph for Claude Code](https://github.com/tirth8205/code-review-graph)
+    * [code-review-graph](https://code-review-graph.com/)
     * Tree-sitter 파싱으로 코드베이스 구조 그래프 생성, blast-radius 분석으로 관련 파일만 읽기. 코드 리뷰 토큰 6.8배 절감(대형 모노레포 최대 49배). 14개 언어, SQLite 로컬
   * [Conductor](https://conductor.build/) Run a bunch of Claude Codes in parallel
   * [COps - Code agent Ops](https://github.com/team-attention/cops/)
