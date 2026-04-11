@@ -2376,6 +2376,9 @@ App
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [kbd-audio: 🎤⌨️ Acoustic keyboard eavesdropping](https://github.com/ggerganov/kbd-audio)
 * Kodi [Open Source Home Theater Software | Kodi](https://kodi.tv/)
+* [Koharu — Local Manga Translation Application](https://koharu.rs/)
+  * [koharu](https://github.com/mayocream/koharu)
+  * 로컬 퍼스트 만화 번역 데스크톱 앱. ML 기반 객체 감지·OCR·인페인팅·LLM 번역 자동화. Rust 기반, Windows/macOS/Linux
 * [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
   * [GIF보다 작고 또렷한 로티 애니메이션 제작 ‘Lottielab’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2202/)
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
@@ -2406,6 +2409,8 @@ App
   * [파이썬 유튜브 음원 추출 Youtube mp4 mp3](https://blog.naver.com/dsz08082/221753467977)
   * [Pytube | How to Build a YouTube Video Downloader with Python](https://morioh.com/p/40ec5e26bd22)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
+* [reclip: Self-hosted video and audio downloader](https://github.com/averygan/reclip)
+  * yt-dlp 기반 셀프호스팅 비디오/오디오 다운로더. 1000+ 사이트(YouTube/TikTok/Instagram/X) 지원, MP4/MP3, 깔끔한 웹 UI
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
   * React로 programmatically하게 동영상 만들기
   * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
@@ -2721,6 +2726,8 @@ App
   * Markmind [New Plugin : a editable Mind map plugin for Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/new-plugin-a-editable-mind-map-plugin-for-obsidian/20673)
   * [mcp-obsidian: Obsidian connector via Local REST API for Claude](https://github.com/MarkusPfundstein/mcp-obsidian)
     * [부록2 Obsidian MCP 연결 가이드 | WikiDocs](https://wikidocs.net/332259)
+  * [My-Brain-Is-Full-Crew: AI agent team for managing your Obsidian vault](https://github.com/gnekt/My-Brain-Is-Full-Crew)
+    * 8+ AI 에이전트+14개 스킬로 Obsidian vault 관리. 지식 정리, 이메일 분류, 회의 전사, 태스크 관리. Claude Code/Gemini CLI/OpenCode 지원
   * [Obsidian 3D graph plugin (official release, features walkthrough) - YouTube](https://www.youtube.com/watch?v=w1H-pcM8nOU)
   * [Obsidian Clipper - Start Here - YouTube](https://www.youtube.com/watch?v=OiWKZBd7Hn4)
   * [Obsidian Copilot: The Best AI Integration for Your Notes - YouTube](https://www.youtube.com/watch?v=iv_u67Y-6ek)
