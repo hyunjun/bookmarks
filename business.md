@@ -1363,6 +1363,9 @@ Business
 * [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
   * [왜 당신의 최고 엔지니어들이 다른 곳에 면접을 보고 있을까 | GeekNews](https://news.hada.io/topic?id=25115)
 * [나이 많은 직원을 유지하는 장점에 대해 더 많은 기업이 주목하는 이유 | GeekNews](https://news.hada.io/topic?id=26431)
+* [FoloUp — Open-source AI Voice Interviewer](https://foloup.suveenellawela.com/)
+  * [FoloUp](https://github.com/FoloUp/FoloUp)
+  * AI 음성 기반 비동기 채용 인터뷰 플랫폼. JD로 인터뷰 생성, 공유 링크로 후보자 비동기 진행, 실시간 대화 적응, 대시보드 점수/요약. Next.js+Supabase+Retell AI. MIT
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
