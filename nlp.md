@@ -2007,6 +2007,9 @@ NLP
 * [:BaseKB Gold Ultimate is now available in AWS](https://groups.google.com/forum/#!topic/infovore-basekb/1YR9Zl5ANDQ)
   * [:BaseKB Gold Ultimate](http://basekb.com/gold/)
   * [:BaseKB Gold Ultimate](https://aws.amazon.com/marketplace/pp/B010RA39G4/)
+* [Hyper-Extract: LLM-powered knowledge extraction framework](https://yifanfeng97.github.io/Hyper-Extract/)
+  * [Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
+  * 비정형 텍스트를 지식 그래프·하이퍼그래프·시공간 추출 등 8가지 자동 타입으로 구조화. 80+ 도메인 템플릿, 선언적 YAML 구성. CLI 도구
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
 * [sift-kg: CLI tool that transforms document collections into interactive knowledge graphs](https://github.com/juanceresa/sift-kg)
   * LLM 기반 엔티티·관계 추출, 3단계 중복 제거(자동 정규화 → LLM 제안 → 사람 검토), 브라우저 시각화. 75+ 파일 포맷, 다국어 지원, 출처 추적
@@ -4343,6 +4346,8 @@ NLP
   * [나만의 인공지능 AI 변호사를 가져보세요 - YouTube](https://www.youtube.com/watch?v=GX0qaErlZuY)
     * [나만의 AI 변호사를 만드는 방법 (코리안 로우 MCP & 코깎 DIR 활용)](https://livewiki.com/ko/content/ai-22108)
   * [Claude Code에서 대한민국 법령 검색하는 방법 (3분 완성)](https://fornewchallenge.tistory.com/entry/%E2%9A%96%EF%B8%8F-Claude-Code%EC%97%90%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EB%A0%B9-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EB%B6%84-%EC%99%84%EC%84%B1)
+  * [미용실에서 흥미로운 대화 - 실업급여·보험 분쟁에 법률 MCP 활용 | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EC%96%B4%EC%A0%9C-%EB%AF%B8%EC%9A%A9%EC%8B%A4%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%9E%A5%EB%8B%98%EC%9D%B4-%ED%87%B4%EC%82%AC%ED%95%9C-%EC%A7%81%EC%9B%90%EC%9D%98-%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-share-7443832006372827136-SW1u/)
+    * 웹 검색 결과가 아닌 법제처 원본 DB 직접 연결의 차이를 강조. 실업급여·보험 분쟁 등 일상 법률 문제에 AI+법률 MCP 활용 사례
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
