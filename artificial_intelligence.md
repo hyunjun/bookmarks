@@ -3940,6 +3940,8 @@ Artificial Intelligence
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
+  * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
+    * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
 * [context-mode: Context virtualization layer for AI agents](https://github.com/mksglu/context-mode)
   * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
     * [Claude Code 비용 문제를 해결하는 MCP 서버 Context Mode](https://livewiki.com/ko/content/claude-code-expensive-fix)
