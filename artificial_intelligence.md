@@ -2904,6 +2904,8 @@ Artificial Intelligence
   * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
   * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
   * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
+    * [LLM Wiki 입문 가이드 - YouTube](https://www.youtube.com/watch?v=S6w4g2OQlVQ)
+      * 옵시디언 볼트 위에서 Raw→Wiki→Query 흐름으로 지식 베이스 구축 실습. 도구보다 도메인 지식이 핵심
     * Karpathy의 LLM Wiki 개념 구현. RAG 없이 원시 데이터→LLM 위키 편집→질의→결과 위키 저장의 복합 지식 축적 루프. graphify 통합으로 코드·문서·미디어를 지식 그래프로 변환, BFS/DFS 탐색
   * [LLM Wiki: AI for Biology — Collaborator Guide](https://gist.github.com/joonan30/cbce305684d079dbe9a3fbaefe4e3959)
     * [안준용 | Facebook](https://www.facebook.com/5432154321a/posts/pfbid0XYougHg3BxGGgaCJk5kDqwinXiB98rDowqaqiJjugmYLUvYC41NvzhBySBXmGe6zl)
