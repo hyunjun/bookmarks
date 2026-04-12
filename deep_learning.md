@@ -562,7 +562,7 @@ Deep Learning
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 딥러닝](https://www.youtube.com/watch?v=FtHwOo5aICI)
   * [딥러닝 살짝 보기](https://docs.google.com/presentation/d/1K7imkoZy0drztv5_ylP8ZajuM_lUO9wk_nlhp9Z1-vQ/)
 * [DeepMind just published a mind blowing paper: PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46)
-  * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/pdf/1701.08734.pdf](https://github.com/jaesik817/pathnet)
+  * [Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks https://arxiv.org/abs/1701.08734](https://github.com/jaesik817/pathnet)
   * [PyTorch implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/kimhc6028/pathnet-pytorch)
 * [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
   * 여러대 GPU머신을 이용하여 parallel하게 학습할 때 네트웍 오버헤드 때문에 오히려 속도가 감소
@@ -1176,7 +1176,7 @@ Deep Learning
 * [All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
 * [All-About-the-GAN](https://hollobit.github.io/All-About-the-GAN/)
 * [Generative Adversarial Networks - The Story So Far](https://blog.floydhub.com/gans-story-so-far)
-* NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
+* NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/abs/1701.00160v1) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [번역 - Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca)
 * [A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper](https://github.com/buriburisuri/ebgan)
@@ -1388,7 +1388,7 @@ Deep Learning
     * 다양한 실험으로 각 모델마다 rarity-score와 feature extractor 효과, FID 유지를 위해 널리 쓰이는 truncation trick이 독특함에 미치는 효과 등을 확인 가능
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * [sefa: Code for paper `Closed-Form Factorization of Latent Semantics in GANs`](https://github.com/genforce/sefa)
-* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473v2)
   * GAN이 처음으로 sequence generation task에 사용
   * GAN은 진짜같은 Fake data를 만들어내는 Generator과 진짜 data와 Fake data를 구분해내는 Discriminator를 학습시키는 알고리즘
   * 실수 픽셀들로 이루어진 그림과 달리 discrete한 토큰들의 sequence를 생성해낼 때 현재 얼마나 Generator가 잘 학습을 하고 있는지 평가할 방법이 마땅치 않아 sequence generation task에서는 사용되지 않음
@@ -1716,10 +1716,10 @@ Deep Learning
 * [Machine-Learning Algorithm Mines Rap Lyrics, Then Writes Its Own](http://www.technologyreview.com/view/537716/machine-learning-algorithm-mines-rap-lyrics-then-writes-its-own/)
 * [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-* [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/pdf/1506.03767.pdf)
+* [Spectral Representations for Convolutional Neural Networks](http://arxiv.org/abs/1506.03767)
 * [How to implement a neural network: Part 1](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
-* [Quantifying Creativity in Art Networks](http://arxiv.org/pdf/1506.00711v1.pdf)
+* [Quantifying Creativity in Art Networks](http://arxiv.org/abs/1506.00711v1)
 * [Neural network의 변천사 이태영](https://www.slideshare.net/secret/dzVcikxOkWg8TP)
 * [ai junkie - neural networks in plain english](http://www.ai-junkie.com/ann/evolved/nnt1.html)
 * [10 Billion Parameter Neural Networks in your Basement](http://on-demand.gputechconf.com/gtc/2014/presentations/S4694-10-billion-parameter-neural-networks.pdf)
@@ -1772,7 +1772,7 @@ Deep Learning
 * [colornet](https://techstory.shma.so/colornet-c10ec398cd45)
 * [Sketch-simplifying neural network lets artists leap from pencil to ink](http://boingboing.net/2016/04/28/sketch-simplifying-neural-netw.html)
 * [Neural Networks Are Impressively Good At Compression](https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/)
-* [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/pdf/1605.07678v1.pdf)
+* [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678v1)
 * [Why are Eight Bits Enough for Deep Neural Networks?](https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/)
 * [Adventures learning Neural Nets and Python](http://katbailey.github.io/post/neural-nets-in-python/)
 * [Deep Learning in Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
@@ -1826,18 +1826,18 @@ Deep Learning
 * [Neural Network 개선](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
 * [Using Machine Learning to Explore Neural Network Architecture](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [COMMON REPRESENTATION LEARNING USING DEEP CORRNET](https://deeplearn.school.blog/2017/05/24/common-representation-learning-using-deep-corrnet/)
-* [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
+* [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
   * 스탠포드와 FAIR이 발표한, 구성 언어 및 초등 시각 추론을 위한 진단 데이터 세트(CLEVR)
     * [cs.stanford.edu/people/jcjohns/clevr](http://cs.stanford.edu/people/jcjohns/clevr/)
-    * [arxiv.org/pdf/1612.06890.pdf](https://arxiv.org/pdf/1612.06890.pdf)
+    * [arxiv.org/abs/1612.06890.pdf](https://arxiv.org/abs/1612.06890)
   * 관련연구 : 시각 추리를 위한 프로그램 추론 및 실행
     * [cs.stanford.edu/people/jcjohns/iep](http://cs.stanford.edu/people/jcjohns/iep/)
-    * [arxiv.org/pdf/1705.03633.pdf](https://arxiv.org/pdf/1705.03633.pdf)
+    * [arxiv.org/abs/1705.03633.pdf](https://arxiv.org/abs/1705.03633)
     * [github.com/facebookresearch/clevr-iep](https://github.com/facebookresearch/clevr-iep)
   * 순수한 텍스트기반 QnA 데이터세트인 페이스북의 bAbI
     * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
     * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
-  * [keras implementation of A simple neural network module for relational reasoning https://arxiv.org/pdf/1706.01427.pdf ](https://github.com/Alan-Lee123/relation-network)
+  * [keras implementation of A simple neural network module for relational reasoning https://arxiv.org/abs/1706.01427 ](https://github.com/Alan-Lee123/relation-network)
   * [PR-018: A Simple Neural Network Module for Relational Reasoning (DeepMind)](https://www.youtube.com/watch?v=Lb1PVpFp9F8)
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
@@ -1931,7 +1931,7 @@ Deep Learning
       * 자연어처리(문장 분류)는 이미 문장 단위로 segment 되어있는 상태에서 다른 길이들을 처리
       * 음성인식은 연속적인 데이터에서 임의로 states를 나누는 경우라는 점
     * [Convolutional neural networks for speech recognition (2014)](http://research-srv.microsoft.com/…/…/TASLP2339736-proof.pdf)
-    * [Convolutional neural networks for sentence classification (2014)](http://arxiv.org/pdf/1408.5882)
+    * [Convolutional neural networks for sentence classification (2014)](http://arxiv.org/abs/1408.5882)
     * [1509.01626 Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) 자연어를 word 단위로 보는 것이 아니라 character 단위로 보고 마치 한글자 한글자를 웨이브의 한 점처럼 생각
     * Max over time pooling같은 경우 대부분의 sentence classification류의 문제에서 '실용적으로' 잘 동작
       * 굳이 한계점을 꼽자면 feature가 (예로 들어주신 것 처럼, '나는 오늘'과 같은 단어들을 검출할거라고 예상되는) 문장 내에서 나왔는지/없었는지만을 볼 수 있고, 몇 번 나왔는지는 알 수 없다는 단점
@@ -2021,7 +2021,7 @@ Deep Learning
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
 * [딥러닝을 이용한 숫자 이미지 인식 #1/2](http://bcho.tistory.com/1156)
 * [딥러닝을 이용한 숫자 이미지 인식 #2/2](http://bcho.tistory.com/1157)
-* [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012v1.pdf)
+* [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012v1)
   * 구글에서 요즘 나오는 CNN 기반의 object detectors들을 정리
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트
 * [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
@@ -2295,7 +2295,7 @@ Deep Learning
 * [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
-* [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
+* [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477)
   * [Sketch RNN](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/sketch_rnn.ipynb)
   * [Teaching Machines to Draw](http://blog.otoro.net/2017/05/19/teaching-machines-to-draw/)
 * [Implementing RNN for Spam Prediction](https://drive.google.com/file/d/0Byx2LlqPbfj2cHQ3RmJ2SXI4U3c/view)
@@ -2392,7 +2392,7 @@ Deep Learning
     * 테스트: 테스트 데이터 전체 10000개를 테스트 하는 과정을 보여줌
     * 테스트 과정에서 정답률은 1번 후보만으로 구했으나, 표시는 3번후보까지 하였음
 * [A Review on a Deep Learning that Reveals the Importance of Big Data](https://fananymi.wordpress.com/)
-* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) synthetic gradient - 뉴럴넷 업데이트 과정의 모듈간 강결합을 decouple
 * [Deep Delta Learning](https://yifanzhang-pro.github.io/deep-delta-learning/)
   * [deep-delta-learning: Official Project Page for "Deep Delta Learning"](https://github.com/yifanzhang-pro/deep-delta-learning)
   * [딥러닝을 뒤집는 델타 딥러닝 | Suk Hyun K](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_rhprvyqwd-deeplearning-ddl-ugcPost-7412629269165748224-lTlh)
@@ -2409,12 +2409,12 @@ Deep Learning
   * 기존의 각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view" 를 뒤집고
   * 각각의 블록 또는 단계마다 단계적인 feature의 변화가 반복적으로 일어난다는 "unrolled iterative estimation" 으로 설명
 * [ICLR 2024 우수 논문 수상작 공개! - 모두의연구소](https://modulabs.co.kr/blog/iclr-2024-outstanding-award/)
-* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/pdf/1505.07909v1.pdf)
-* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/pdf/1608.04062v1.pdf)
+* [Solving Verbal Comprehension Questions in IQ Test by Knowledge-Powered Word Embedding](http://arxiv.org/abs/1505.07909v1)
+* [Stacked Approximated Regression Machine: A Simple Deep Learning Approach](https://arxiv.org/abs/1608.04062v1)
   * SARM이라는 layer wise training 기법
   * Back propagation 없이 layer 단위로 학습을 시켜도 현재 state of the art DNN과 비슷하거나 더 나은 성능을 보인다는 주장
   * PCANet에 non linearity를 추가
-* [The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition ECCV 2016](https://arxiv.org/pdf/1511.06789v3.pdf)
+* [The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition ECCV 2016](https://arxiv.org/abs/1511.06789v3)
   * Fine-Grained Recognition을 할 때 Noisy Fine-Grained Data, 즉 Web에서 검색한 Noisy하지만 큰 데이터가 도움이 된다는 내용
   * Noisy Fine-Grained Data 구축
     * 새의 종을 구별하는 데이터베이스를 구축한다면, Wikipedia에서 종을 검색하여 그 키워드를 기반으로 구글링하여 이미지 구축

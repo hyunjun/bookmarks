@@ -10,7 +10,7 @@ Android
 * [Reverse Engineering the Subway Android App](http://randywestergren.com/reverse-engineering-the-subway-android-app/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 * [Mining usage patterns for the Android API](https://peerj.com/articles/cs-12/)
-* [Capturing Information Flows inside Android and Qemu Environments](http://arxiv.org/pdf/1302.5109.pdf)
+* [Capturing Information Flows inside Android and Qemu Environments](http://arxiv.org/abs/1302.5109)
 * [Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers)
 * [Windows Bridge for Android](https://dev.windows.com/en-us/uwp-bridges/android)
 * [androidexperiments.com](https://www.androidexperiments.com/)

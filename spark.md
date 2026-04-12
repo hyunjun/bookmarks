@@ -822,7 +822,7 @@
   * [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.infoq.com/presentations/mlflow-databricks/)
 * MLLib
   * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
-  * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
+  * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/abs/1505.06807)
   * [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
   * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
   * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
@@ -1094,7 +1094,7 @@
 * [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
   * 실험 단계
   * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
-  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
+  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/abs/1703.08219)
 * [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
   * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 

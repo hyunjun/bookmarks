@@ -309,7 +309,7 @@ Vision
 * Faster RCNN
   * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
     * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
-    * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/pdf/1702.02138.pdf](https://github.com/endernewton/tf-faster-rcnn)
+    * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/abs/1702.02138](https://github.com/endernewton/tf-faster-rcnn)
   * [Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
   * [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 * [“Single Image Super Resolution using Deep Learning Overview”](https://hoya012.github.io/blog/SIngle-Image-Super-Resolution-Overview/)

@@ -1321,7 +1321,7 @@ NLP
 * [Explaining Transformer with llm.c by hand in C | Tom Yeh posted on the topic | LinkedIn](https://www.linkedin.com/posts/tom-yeh_llmc-by-hand-c-meets-transformer-this-ugcPost-7391153565051994112-RT_B)
 * ["최적의 프롬프트 단어 수는 21개"...구글, 프롬프트 비결 담은 가이드북 발간 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159796)
 * [LLM과 기호. 들어가며 | by Simple | Jun, 2024 | Medium](https://medium.com/@simple0314/llm%EA%B3%BC-%EA%B8%B0%ED%98%B8-c7caf48143dd)
-* [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
+* [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)
 * [유출된 ChatGPT 프롬프트와 Personality v1~v6 | GeekNews](https://news.hada.io/topic?id=15734)
 * [LLMOps를 위한 프롬프트 엔지니어링 도구 개발 경험기](https://d2.naver.com/helloworld/3344073)
 * [System Prompts - Anthropic](https://docs.anthropic.com/en/release-notes/system-prompts)
@@ -1407,11 +1407,11 @@ NLP
   * `+++FactCheck`
   * `+++OutputFormat(format=FORMAT)`
   * `+++Tone(style=STYLE)`
-* [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/pdf/2401.12954)
+* [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
   * [이상선 - 펜실베이니아 주립대 연구진: “무례하게 말할수록 ChatGPT가 더 똑똑해진다” 1. 연구 개요... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0UmxFF5SfeNogKZQmKvVDDyp8HhN6JKJJHNUMZ4esZoHnhiWBZmnSYcekipiAU7FCl)
-* [2510.01171v3 VERBALIZED SAMPLING: HOW TO MITIGATE MODE COLLAPSE AND UNLOCK LLM DIVERSITY](https://arxiv.org/pdf/2510.01171v3)
+* [2510.01171v3 VERBALIZED SAMPLING: HOW TO MITIGATE MODE COLLAPSE AND UNLOCK LLM DIVERSITY](https://arxiv.org/abs/2510.01171v3)
   * [#promptengineering #verbalizedsampling #llmresearch #prompting #semanaticdiversity | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-verbalizedsampling-llmresearch-activity-7391337914993086464-Fo-W)
 * [2510.03374 Lightweight Prompt Engineering for Cognitive Alignment in Educational AI: A OneClickQuiz Case Study](https://arxiv.org/abs/2510.03374)
   * [김진관 - 인지적 정렬이 필요한 생성에서 페르소나 프롬프트는 왜 역효과를 냈을까? 1. 연구의 목적 (1) AI가... | Facebook](https://www.facebook.com/faithfuljk/posts/pfbid0Yzx9n6JP6nUNiQZGrQZpQh3AMDwQs7mwM7QHWvwJW3dLRnnqWSWr8ZrYVPWoywPol)
@@ -1786,7 +1786,7 @@ NLP
   * [MIT 6.S191 Lecture 2: Sequence Modeling with Neural Networks](https://www.youtube.com/watch?v=zQxm3Upr3_I)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
-* [“What is Relevant in a Text Document?”](https://arxiv.org/pdf/1612.07843v1.pdf)
+* [“What is Relevant in a Text Document?”](https://arxiv.org/abs/1612.07843v1)
   * 예를 들어, 카테고리가 있는 뉴스문서 학습데이터가 있는 경우 문서를 분류하는 분류기를 만들 때
   * 문서에서 어떤 단어가 어떤 클래스로 분류하는데 얼만큼의 영향이 있었는지 역으로 추적하기가 쉽지 않음(Maximum Entropy 같은 걸 사용하는 것이 아니라면)
   * 이를 역으로 추적하는 방법에 대한 논문
@@ -2769,7 +2769,7 @@ NLP
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
 * [aviary: Ray Aviary - evaluate multiple LLMs easily](https://github.com/ray-project/aviary)
 * [Awesome-Efficient-Arch: Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://github.com/weigao266/Awesome-Efficient-Arch)
-  * [2508.09834v1.pdf](https://arxiv.org/pdf/2508.09834)
+  * [2508.09834v1.pdf](https://arxiv.org/abs/2508.09834)
   * [#llm #awesome_efficient_arch | Donghoon Yoo (유동훈)](https://www.linkedin.com/posts/sayinel_llm-awesomeabrefficientabrarch-activity-7364104365428629504-U930)
 * [awesome-korean-llm: Awesome list of Korean Large Language Models](https://github.com/NomaDamas/awesome-korean-llm)
 * [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
@@ -2984,7 +2984,7 @@ NLP
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
 * GPhyT
-  * [2509.13805v1.pdf TOWARDS A PHYSICS FOUNDATION MODEL](https://arxiv.org/pdf/2509.13805)
+  * [2509.13805v1.pdf TOWARDS A PHYSICS FOUNDATION MODEL](https://arxiv.org/abs/2509.13805)
   * [김성완 - General Physics Transformer: Towards a Physics Foundation... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02Rym1DC6TXMG8YG8hgJ9CgqF7j7hCr7q2TiXCSKBgjDKL889JZ9yJWgUAuewaJY9gl)
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * [gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library](https://github.com/EleutherAI/gpt-neox)
@@ -3062,7 +3062,7 @@ NLP
   * [수능 국어 LLM 벤치마크 리더보드 오픈 | GeekNews](https://news.hada.io/topic?id=17292)
   * [Korean-SAT-LLM-Leaderboard/Korean_README.md at main · Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard](https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md)
 * [KORMo-Team (KORMo)](https://huggingface.co/KORMo-Team)
-  * [2510.09426 KORMo:Korean OpenReasoning Model for Everyone](https://arxiv.org/pdf/2510.09426)
+  * [2510.09426 KORMo:Korean OpenReasoning Model for Everyone](https://arxiv.org/abs/2510.09426)
   * [임경태 - 안녕하세요. 비영어권 최초의 Fully Open Source LLM, #KORMo 를 공유드리고 싶습니다.... | Facebook](https://www.facebook.com/100002653915950/posts/24506164355722021/)
 * [ktransformers: A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations](https://github.com/kvcache-ai/ktransformers)
   * [Introduction - Ktransformers](https://kvcache-ai.github.io/ktransformers/)
@@ -4510,7 +4510,7 @@ NLP
   * [한국어 오픈소스 평가 툴킷인 HRET (Haerae-Evaluation-Toolkit) v0.1.0이 드디어 첫 릴리스를 발표](https://www.linkedin.com/posts/hanwoolalbert_github-hae-raehaerae-evaluation-toolkit-activity-7314481823730782208-nGtj/)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
-* [JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf](https://github.com/microsoft/JARVIS)
+* [JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/abs/2303.17580](https://github.com/microsoft/JARVIS)
 * Jarvis [Introducing NVIDIA Jarvis: A Framework for GPU-Accelerated Conversational AI Applications](https://devblogs.nvidia.com/introducing-jarvis-framework-for-gpu-accelerated-conversational-ai-apps/)
 * [JoSH: KDD 2020 Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding](https://github.com/yumeng5/JoSH)
 * [kakaotalk\_msg\_preprocessor: 카카오톡 채팅방에서 대화 내보내기를 통해 생성한 파일을 전처리해주는 라이브러리입니다](https://github.com/uoneway/kakaotalk_msg_preprocessor)
@@ -4878,7 +4878,7 @@ NLP
 * [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
 * [BRIGHT & JudgeRank](https://jypthemiracle.notion.site/BRIGHT-JudgeRank-1e9ff228a18080dcb7baeadd0744fc5c)
 * [Kakao Enterprise AI Research | 카카오엔터프라이즈 연구 성과를 공개하는 리서치 플랫폼](https://kakaoenterprise.github.io/)
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
+* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941v1)
 * [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709)
@@ -4895,7 +4895,7 @@ NLP
 * 2402.01822v1 [Building Guardrails for Large Language Models](https://arxiv.org/html/2402.01822v1)
   * [Why LLM Guardrails are Essential for Safe AI | Pavan Belagatti posted on the topic | LinkedIn](https://www.linkedin.com/posts/pavan-belagatti_llm-systemsapplications-can-generate-harmful-activity-7388976939077652480-ScFz)
   * [Building Safer AI: Input Guardrails for LLMs with FastAPI | by Dheeraj Bhat | Medium](https://dheerajnbhat.medium.com/building-safer-ai-input-guardrails-for-llms-with-fastapi-7109edf07bb2)
-* [2501.09223 Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+* [2501.09223 Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
   * [NLPBook: A comprehensive book on neural networks and large language models in NLP](https://github.com/NiuTrans/NLPBook)
 * [2505.06708v1 Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708v1)
   * [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_gated-attention-for-large-language-models-activity-7401306789860007936-9bih)
@@ -4914,7 +4914,7 @@ NLP
   * [DeepConf의 핵심은 모델이 각 토큰을 생성할 때 내부적으로 계산하는 확률 분포, 즉 모델의 '확신도(confidence)'에 주목](https://www.linkedin.com/posts/sigridjineth_%EC%B5%9C%EA%B7%BC-llm%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%B6%94%EB%A1%A0-%EB%8A%A5%EB%A0%A5%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%ED%99%95%EC%8B%A4%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0%EC%9C%BC%EB%A1%9C-activity-7366399602566049796-jnnf/)
 * [2508.19229 StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229)
   * [LLM 모델이 스스로 '사고 과정(CoT)을 평가하고 개선'](https://www.linkedin.com/posts/h4y3j1n_meta-activity-7368421153805135874-XORP)
-* [2509.07414v1 Language Self-Play For Data-Free Training](https://arxiv.org/pdf/2509.07414)
+* [2509.07414v1 Language Self-Play For Data-Free Training](https://arxiv.org/abs/2509.07414)
   * [김성완 - Language Self-Play For Data-Free Training 메타에서 대규모 언어 모델... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0iiR4hNgVufW2r6CaQLD5mfLhMxVtfjHwG47qxDEHSAVrwnYvTd4UH2BqER4JCgZBl)
 * [2509.07980 Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://arxiv.org/abs/2509.07980)
   * [Tencent AI Lab에서 저번주에 발표한 논문에 굉장히 흥미로운 내용이 있네요. LLM의 넥스트는 CoT를 넘어 다중 생각인 듯합니다. 대규모 언어 모델이 여러 사고 경로를 동시에 탐색할 수 있다면 어떨까요? 논문의 핵심을 요약 공유합니다. 📑 논문명: Parallel-R1: Towards Parallel Thinking via… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_tencent-ai-lab%EC%97%90%EC%84%9C-%EC%A0%80%EB%B2%88%EC%A3%BC%EC%97%90-%EB%B0%9C%ED%91%9C%ED%95%9C-%EB%85%BC%EB%AC%B8%EC%97%90-%EA%B5%89%EC%9E%A5%ED%9E%88-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%82%B4%EC%9A%A9%EC%9D%B4-activity-7373856969507397632-fS5O)
@@ -4924,7 +4924,7 @@ NLP
   * ["왜 언어 모델은 일관된 생각을 유지하지 못할까?"라는 질문에 정면으로 도전하는 내용 #meta #모델_일관성 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_meta-riwqzcabrsueqtkspf-activity-7377175086182813696-64Jf)
 * [2509.20186 Thinking Augmented Pre-training](https://arxiv.org/abs/2509.20186)
   * [최근 논문을 보면 대기업들의 관심사는 “적은 데이터로 대규모 언어 모델을 더 똑똑하게 만들 수 있을까?” #microsoft에서도 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoftslssokrba-activity-7379077625656479744-3Vcr)
-* [2509.08825 Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/pdf/2509.08825)
+* [2509.08825 Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](https://arxiv.org/abs/2509.08825)
   * [Facebook](https://www.facebook.com/Nine.Dragons/posts/pfbid02LMnBA3m7gjyAZjip1Z8MrHP3QoSF39qL8wYKCxmP9syFw165L6sUnRFFbww63HHTl)
     * 37개의 실제 데이터를 가지고 실험을 했는데 모든 LLM 모델에서 30% 이상의 오류가 발생
     * 프롬프트에 따라 통계결과가 완전히 뒤집히는 결과가 대다수
@@ -4999,7 +4999,7 @@ NLP
 
 * [Syntactic Parsing of Web Queries with Question Intent](https://research.yahoo.com/publications/8709/syntactic-parsing-web-queries-question-intent)
   * [Novel Modeling of Syntactic Parsing for Web Queries](https://yahooresearch.tumblr.com/post/145926804326/novel-modeling-of-syntactic-parsing-for-web)
-  * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/pdf/1605.02945v2.pdf)
+  * [The Yahoo Query Treebank, V. 1.0](http://arxiv.org/abs/1605.02945v2)
   * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l\&did=79)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [Grammatical Framework - A programming language for multilingual grammar applications](http://www.grammaticalframework.org/)
@@ -5518,7 +5518,7 @@ NLP
   * [DeepSpeech 0.6: Mozilla’s Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
     * [Mozilla, 음성데이터세트 ‘딥스피치(DeepSpeech)’ 공개](http://www.aitimes.kr/news/articleView.html?idxno=11072)
 * [dia2: TTS model capable of streaming conversational audio in realtime](https://github.com/nari-labs/dia2)
-* [Diffusion-Speech-Tokenizer: This repository contains a series of works on diffusion-based speech tokenizers, including the official implementation of the paper: "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling" https://arxiv.org/pdf/2508.16790](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)
+* [Diffusion-Speech-Tokenizer: This repository contains a series of works on diffusion-based speech tokenizers, including the official implementation of the paper: "TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling" https://arxiv.org/abs/2508.16790](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)
   * [TaDiCodec · Hugging Face](https://huggingface.co/amphion/TaDiCodec)
   * TaDiCodec — 초고효율 음성 토크나이저
     * 1. 특징
@@ -5725,7 +5725,7 @@ NLP
 * [Vocloner: Free Instant AI Voice Cloning](https://vocloner.com/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
-* [VoiceAgentRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents](https://arxiv.org/pdf/2603.02206)
+* [VoiceAgentRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents](https://arxiv.org/abs/2603.02206)
   * [세일즈포스, 음성 검색 지연 316배 줄인 'VoiceAgentRAG' 출시 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208628)
   * Salesforce/Stanford 논문. Fast Talker(시맨틱 캐싱, 0.35ms)+Slow Thinker(백그라운드 프리페치) 이중 에이전트. 검색 속도 316배 향상(110ms→0.35ms), 캐시 적중률 75~95%
 * [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale | Meta AI Research](https://ai.meta.com/research/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)

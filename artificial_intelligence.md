@@ -743,7 +743,7 @@ Artificial Intelligence
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
   * [전종홍 - ‘자율형 LLM 에이전트(agentic LLMs)’의 보안 문제를 체계적으로 정리하려는 첫시도. 기존... | Facebook](https://www.facebook.com/story.php?story_fbid=10164606243271410&id=683301409)
-* [2510.09244v1.pdf Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/pdf/2510.09244)
+* [2510.09244v1.pdf Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
 * [2510.16720 Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://arxiv.org/abs/2510.16720)
   * [model-native-agentic-ai: Our survey's paper list on Agentic AI, continuously updated with the latest research](https://github.com/ADaM-BJTU/model-native-agentic-ai)
   * [Survey: From Pipelines to Model-Native AI Paradigm | Jihoo Kim posted on the topic | LinkedIn](https://www.linkedin.com/posts/jihoo-kim_%F0%9D%97%94%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%94%F0%9D%97%9C-from-%F0%9D%97%A3%F0%9D%97%B6%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6-activity-7395086056393564160-JGoQ)
@@ -2094,7 +2094,7 @@ Artificial Intelligence
   * 업계 내 형성된 압박과 왜곡된 현실 인식
   * 전문가 진단: 생산성의 본질과 AI의 올바른 자리
   * 개발자가 취해야 할 자세: 데이터에 기반한 냉정한 평가
-* [2601.20245v2 How AI Impacts Skill Formation](https://arxiv.org/pdf/2601.20245)
+* [2601.20245v2 How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
   * [AI 코딩이 오히려 개발자의 생산성을 떨어뜨린다? - Anthropic 논문](https://bcho.tistory.com/1500)
 * [바이브 코딩이 없앤 유지보수 | AIstar](https://haseong.github.io/blog/2025/08/30/vibe-coding-no-maintenance.html)
 * [앞으로 AI 가 가져올 위험은 딥페이크보다 더 할 수 있습니다 (더밸류컨설팅 이병주 대표 4부) - YouTube](https://www.youtube.com/watch?v=UrSlA7Y4lmg)
@@ -2605,7 +2605,7 @@ Artificial Intelligence
   * ["Tiny Recursive Model이 다시 묻는 AI의 본질" | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-sluslqriwqzc-ugcPost-7407206947139207168-v3E2)
     * 삼성의 TRM은 AI가 단순한 확률적 언어 생성기를 넘어, 사고 과정 자체를 구조적으로 학습할 수 있음을 증명한 사례
     * “더 큰 모델이 더 똑똑하다”는 믿음의 시대는 끝나가고, 이제 AI의 미래는 누가 더 잘 ‘생각하도록’ 설계하느냐의 경쟁으로 이동
-* [2510.26787v1.pdf](https://arxiv.org/pdf/2510.26787)
+* [2510.26787v1.pdf](https://arxiv.org/abs/2510.26787)
   * [최신 AI연구결과 - 최고 성능 AI도 인간의 3%수준밖에 완료하지 못함 AI가 실제 업무에서 얼마나 인간을 대체할 수 있을까요? Scale AI와 AI 안전 센터는 Remote Labor Index를 통해 실제 프리랜서 플랫폼 Upwork에서 완료된 240개의 검증된 프로젝트를 AI에게 맡긴 결과를 공개했습니다. 이 연구는 로고 디자인부터… | Jinju Park](https://www.linkedin.com/posts/chatdaeri_%EC%B5%9C%EC%8B%A0-ai%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-ai%EB%8F%84-%EC%9D%B8%EA%B0%84%EC%9D%98-3%EC%88%98%EC%A4%80%EB%B0%96%EC%97%90-%EC%99%84%EB%A3%8C%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%A8-activity-7392379907252609024-SBP9)
 * [2511.07885 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885)
   * [AI 인프라에 $500B 쏟아붓는 순간, 스탠포드가 발견한 것 대부분의 AI 요청은 이미 로컬 기기로 충분할 수 있다는 분석입니다. OpenAI가 $500B Stargate 프로젝트를 발표했고, McKinsey는 AI 데이터센터에 2030년까지 $5.2~7.9조가 필요할 것으로 전망했습니다. 한편 스탠포드 연구진은 다소 다른 관점을 제시합니다… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%97%90-500b-%EC%8F%9F%EC%95%84%EB%B6%93%EB%8A%94-%EC%88%9C%EA%B0%84-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C%EA%B0%80-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EA%B2%83-%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%98-activity-7397019597113176064-kaIl)
@@ -2616,7 +2616,7 @@ Artificial Intelligence
 * [2512.03043 OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)
   * [멀티모달 끝판왕의 등장 - OneThinker 혁명 “인간처럼 보고 추론하는 AI, 새로운 시대의 개막” | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_rgwtyyriwqws-onethinker-ai-activity-7403202352549167104-2Gxq)
   * [🔥 OneThinker: All-in-one Reasoning Model for Image and Video](https://github.com/tulerfeng/onethinker)
-* [2512.05117v2.pdf](https://arxiv.org/pdf/2512.05117)
+* [2512.05117v2.pdf](https://arxiv.org/abs/2512.05117)
   * [(1) 김성완 - THE UNIVERSAL WEIGHT SUBSPACE HYPOTHESIS 존스 홉킨스 대학에서 아주... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0g7yVyQdoj36dUMapqx2Ty9mzNpwDefpzUgVnGzcoh4hT9LXYhqcZDsdYB6aHxKjtl)
     * 수백 개의 AI 모델이 사실은 하나? 신경망의 놀라운 비밀 '보편적 부분 공간'
     * '보편적 부분 공간' 발견이 가져오는 가장 충격적이고 실용적인 결과는 바로 모델 압축과 통합
@@ -2624,7 +2624,7 @@ Artificial Intelligence
       * 공통된 '지도' 하나와 각 모델의 고유한 '경로' 정보만 저장
     * 새로운 작업을 학습할 때, 우리는 더 이상 모델의 모든 가중치 조정 불필요
       * 대신, 이 보편적 공간 위에서 아주 적은 수의 '계수(coefficients)'만 학습
-* [2512.06506v1.pdf AI as “Co-founder”: GenAI for Entrepreneurship](https://arxiv.org/pdf/2512.06506)
+* [2512.06506v1.pdf AI as “Co-founder”: GenAI for Entrepreneurship](https://arxiv.org/abs/2512.06506)
   * [AI co-founder 라는 새로운 관점의 흥미로운 논문](https://www.facebook.com/socialego/posts/pfbid029DWWqWBzUuS9dXRQqiXWMKUtWNFiKTQjp8zc2rtQFTjJFLax9nESc2qRDz8Qo5abl)
     * 연구진은 중국 전역에서 2021~2024년 사이 새로 설립된 기업 약 1,280만 개 분석
       * 2022년 11월 ChatGPT 공개를 기준으로, 생성형 AI가 창업에 어떤 영향을 미쳤는지를 살펴본 연구
@@ -2641,10 +2641,10 @@ Artificial Intelligence
 * [2602.08234 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
   * [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://github.com/aiming-lab/SkillRL)
   * [최적의 데이터를 선별하여 LLM pre-training 효율을 극대화하는 OPUS | 0211 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2870190993321940)
-* [2604.06425 Neural Computers](https://arxiv.org/pdf/2604.06425)
+* [2604.06425 Neural Computers](https://arxiv.org/abs/2604.06425)
   * [김성완 - 메타에서 뉴럴 컴퓨터(Neural Computers)라는 새로운 개념을 발표했습니다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0xZSqAcu7CnhhBdkDkctNj8SKrHk9hTDtUur6TZMiGcHRm5ftqMasGfRaKv3PLdERl)
   * 계산·메모리·I/O를 학습된 런타임 상태로 통합하는 새로운 머신 형태. 비디오 모델로 CLI/GUI 환경에서 명령+사용자 행동으로부터 화면 프레임 생성
-* [2604.06169 In-Place Test-Time Training](https://arxiv.org/pdf/2604.06169)
+* [2604.06169 In-Place Test-Time Training](https://arxiv.org/abs/2604.06169)
   * [이승현 | Facebook](https://www.facebook.com/epoko/posts/pfbid0Dc37Ys3qpv4pQ5AbnjaKEnceJydihsyq8CKMUSsGp6GvJJ3VQEgMkWgcfS9skf14l)
   * 모델 파라미터 수정 없이 추론 시 테스트 입력으로부터 학습하여 도메인 특화 성능 향상. 전통적 test-time training 대비 계산 효율성 유지
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)

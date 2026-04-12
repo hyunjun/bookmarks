@@ -659,7 +659,7 @@ Programming
 * [끊김없는 게임 플레이를 실현한 카카오페이 결제 특허 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-payment-patent/)
 * [인프랩 CTO가 말하는 결제 개발 A to Z](https://velog.io/@tosspayments/%EC%9D%B8%ED%94%84%EB%9E%A9-CTO%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B2%B0%EC%A0%9C-%EA%B0%9C%EB%B0%9C-A-to-Z)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
-  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+  * [Software Engineering at Google](https://arxiv.org/abs/1702.01715)
   * Most of Google’s code is stored in a single unified source-code repository, and is accessible to all software engineers at Google
     * 개방성. 의사소통 효율 향상
   * Almost all development occurs at the “head” of the repository, not on branches
