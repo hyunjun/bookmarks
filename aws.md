@@ -798,6 +798,8 @@ AWS
     * [aws/bedrock-agentcore-starter-toolkit: CLI toolkit for deploying AI agents to Amazon Bedrock AgentCore. Zero infrastructure management with built-in gateway and memory integrations.](https://github.com/aws/bedrock-agentcore-starter-toolkit)
     * [awslabs/amazon-bedrock-agentcore-samples: Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
     * [AWS Skill Builder](https://skillbuilder.aws/learn/FGVC1UZ2RE/agentcore-runtime--/1XDJ7XPY76)
+  * [Amazon Bedrock AgentCore 기반 공격 시나리오와 4중 방어 아키텍처](https://velog.io/@lufianlee/Amazon-Bedrock-AgentCore-memory-poision)
+    * Memory Poisoning(세션 종료 후에도 지속되는 기억 오염) + A2A 전파 위협. Guardrails·Memory Provenance Filter·Cedar 정책·A2A Zero Trust 4중 방어. Python PoC 포함
   * [Enabling Context Engineering with Neo4j + LLM Graph Builder - YouTube](https://www.youtube.com/watch?v=3dSO5_Lh3uE)
     * [AWS Bedrock 에이전트 코어: 강력한 AI 에이전트를 위한 메모리 및 아키텍처 심층 분석](https://livewiki.com/ko/content/context-engineering-neo4j-llm)
   * [agentcore/README.md at main · kyopark2014/agentcore · GitHub](https://github.com/kyopark2014/agentcore/blob/main/README.md)
