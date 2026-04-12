@@ -3373,6 +3373,7 @@ Artificial Intelligence
     * [와우 .. 솔직히 저만 보고 싶을 정도로 너무 잘 정리되어있네요. 클로드에서 "AI 활용법 45가지"를 굉장히 잘 정리된 자료가 있어 공유합니다. 이 자료가 특히 유용한 이유는, 단순히 팁만 나열하는 것이 아닌 디테일한 프롬프트 작업, 레퍼런스 자료 업로드와 같은 순서도 구체적으로 나와있습니다. 예를 들어, 클로드 등을 활용해 고퀄리티의 시각 자료나… | Jaeyun Henry Lee | 28 comments](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%A0%80%EB%A7%8C-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%84%88%EB%AC%B4-%EC%9E%98-%EC%A0%95%EB%A6%AC%EB%90%98%EC%96%B4%EC%9E%88%EB%84%A4%EC%9A%94-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%97%90%EC%84%9C-activity-7393864328803840000-Hm97)
   * [Scaling Managed Agents: Decoupling the brain from the hands | Anthropic](https://www.anthropic.com/engineering/managed-agents)
     * [What is Claude Managed Agents? - YouTube](https://www.youtube.com/watch?v=NLWiIj47IdI)
+    * [Claude Managed Agents: 프로덕션 에이전트 개발과 배포를 10배 빠르게 만드는 방법](https://digitalbourgeois.tistory.com/2974)
     * [Claude Managed Agents, Anthropic의 플랫폼 전쟁 선언인가 | WikiDocs](https://wikidocs.net/blog/@jaehong/11057/)
     * [최승준 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0TqfZZ2r2JGRcucZfkvRjyud6wdukMyRgsv5R2Wg62EE8PrQAsbhoW8p5dVdmEjgVl)
     * 에이전트의 Brain(추론)-Hands(실행)-Session(기억) 분리 아키텍처. TTFT 60% 개선, 크레덴셜 물리 격리, 세션 로그 장애 복구. 고객 VPC 내 다중 실행 환경 지원
