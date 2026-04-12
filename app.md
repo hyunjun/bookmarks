@@ -2738,6 +2738,9 @@ App
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
   * [obsidian-mind: Obsidian vault template for persistent AI memory with Claude Code](https://github.com/breferrari/obsidian-mind)
     * Claude Code와 함께 사용하는 Obsidian vault 템플릿. 자동 노트 정리, 컨텍스트 연결, 성과 추적으로 세션 간 영속적 메모리
+  * [Obsidian-RAG: 벡터DB 없는 RAG — Obsidian + Claude Code 개인 지식 관리](https://github.com/daje0601/Obsidian-RAG)
+    * [벡터DB 없는 RAG를 만들어봤습니다 — Obsidian + Claude Code | WikiDocs](https://wikidocs.net/289873)
+    * 벡터DB·임베딩 없이 마크다운+LLM만으로 개인 지식 베이스 구축. Clip(수집)→Compile(정리)→Query(질의)→Audit(점검) 4단계. 마스터 인덱스→토픽 인덱스→관련 문서 1-3개 탐색, 쿼리 결과를 새 위키 문서로 자기성장. 5,000문서 이하 개인/소규모 팀용
   * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
     * Claude Code, Codex CLI 등 스킬 호환 에이전트에서 사용 가능한 Obsidian 스킬 모음. 마크다운, Bases, Canvas, CLI 지원
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
