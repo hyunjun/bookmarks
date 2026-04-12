@@ -95,19 +95,22 @@ Hardware
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
 * [The era of open voice assistants has arrived - Home Assistant](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
   * [오픈소스 음성 비서의 시작: Home Assistant Voice (Preview Edit | GeekNews](https://news.hada.io/topic?id=18368)
-* [TEMU](https://t-emu.terma.com/)
-  * [TEMU (Terma Emulator) - LLVM 기반의 고성능 마이크로프로세서 에뮬레이 | GeekNews](https://news.hada.io/topic?id=18418)
+* [The World's Most Important Machine - YouTube](https://www.youtube.com/watch?v=MiUHjLxm3V0)
+  * [김성완 - ASML의 EUV Lithography는 아마 인류가 만든 가장 정밀하고 복잡한 기계 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid09LtshTixmJd6fFGdE2xrmptntLUFwSL2oUVp7EiWgE9aK8i42sTVTAUYFkLieK7xl)
+  * ASML의 EUV 리소그래피 장비 제작 과정. 반도체 제조의 가장 핵심적인 장비의 40년 역사
 * [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
-* [Foqos - NFC를 물리적 스위치로 사용하여 방해 요소를 차단하는 앱 | GeekNews](https://news.hada.io/topic?id=18840)
-* [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
-  * [This Open-Source E-Ink Screen Is My Favorite New Gadget - YouTube](https://www.youtube.com/watch?v=eIcZZX10pa4)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
 * [Making Software](https://www.makingsoftware.com/)
   * [김성완 - Making Software 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트입니다.... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fAvz8oi8Z8Nuce7hotWvTzWwmK2HvsNZHzkwmLCESBEpATRPY7VDBFjz1BK697Tkl)
     * 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트
     * 소프트웨어가 구동되는 아래쪽의 하드웨어에 대한 정보를 시각적으로 잘 정리
+* [Foqos - NFC를 물리적 스위치로 사용하여 방해 요소를 차단하는 앱 | GeekNews](https://news.hada.io/topic?id=18840)
+* [TEMU](https://t-emu.terma.com/)
+  * [TEMU (Terma Emulator) - LLVM 기반의 고성능 마이크로프로세서 에뮬레이 | GeekNews](https://news.hada.io/topic?id=18418)
+* [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
+  * [This Open-Source E-Ink Screen Is My Favorite New Gadget - YouTube](https://www.youtube.com/watch?v=eIcZZX10pa4)
 
 # AI
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
