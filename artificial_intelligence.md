@@ -695,6 +695,7 @@ Artificial Intelligence
   * [Agentic AI에서의 HITL (Human-in-the-Loop) 설계 - 지시하는 인간, 실행하는 에이전트 - YouTube](https://www.youtube.com/watch?v=JMn-yLj9jSM)
 * [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기!](https://aifactory.space/task/9253/overview)
   * [LangChain/LangGraph V1 업데이트 이후 신기능 활용하여 에이전트 제작하기! - YouTube](https://www.youtube.com/watch?v=Ipa6JNbFq4g)
+* [Build & Deploy a Full-Stack Agentic AI App | React + LangChain | aihub](https://www.linkedin.com/posts/aihub_build-deploy-a-full-stack-agentic-ai-app-activity-7429713384352333824-CV-u)
 * [AI 에이전트 101](https://aifactory.space/task/9254/overview)
 * [Agentic Al in SW Development: Evolving Patterns & Protocols • Bhuvaneswari Subramani • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=JD3yNaWs70A)
   * [SW 개발의 에이전트 AI: 진화하는 패턴과 프로토콜](https://livewiki.com/ko/content/agentic-ai-sw-development)
@@ -909,6 +910,7 @@ Artificial Intelligence
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
+* [dp-archive: Skill-powered agents without workflow graphs or CLI](https://github.com/dp-archive/archive)
 * [Dynamiq: The Operating Platform for GenAI Applications](https://www.getdynamiq.ai/)
   * [Dynamiq is an orchestration framework for agentic AI and LLM applications](https://github.com/dynamiq-ai/dynamiq)
 * [Embabel](https://github.com/embabel)
@@ -3180,6 +3182,7 @@ Artificial Intelligence
     * [AI Co-Scientist를 위한 가상 연구실 구축: Claude Code로 끝내는 에이전트 인터페이스](https://livewiki.com/ko/content/ai-co-scientist-virtual-lab)
     * 기획(Gemini), 프론트엔드(V0), 백엔드(Claude Code), 보고서 작성(Notebook LM)의 풀 사이클
     * [데이터 - Track 2 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회) - 대상수상팀 최대 25억원 사업화 지원](https://aifactory.space/task/9237/data)
+  * [2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회)](https://aifactory.space/task/9237/discussion/4605)
 * [끝난 줄 알았던 AI 코딩 도구 경쟁, 1인 개발자가 뒤집었습니다 AI 코딩 도구 시장은 어느정도 결판이 난 게임처럼 보였습니다. Anthropic은 수십억 달러를 투자받아 Claude Code를 출시했습니다. OpenAI에서도 Codex를 내놓았습니다. Cursor는 수억 달러를 유치했습니다. 자본, 인력, 데이터. 개인이 이길 방법이 없어… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_%EB%81%9D%EB%82%9C-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EA%B2%BD%EC%9F%81-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%92%A4%EC%A7%91%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ai-activity-7414417993180303360--BM0)
 * [기업/헤비유저 관점에서 본 최고의 프로덕션레벨 가성비 바이브 코딩 도구 (2026년 1월 기준) :: ROBOCO](https://roboco.io/posts/best-production-vibe-coding-tool-jan2026/)
 * [바이브코딩: 프롬프팅을 넘어 파이프라인으로 - 커서맛피아(최수민) | 모두콘 2025 - YouTube](https://www.youtube.com/watch?v=238848ZqvsE)
@@ -3385,6 +3388,7 @@ Artificial Intelligence
       * CSV→HTML 보고서 자동 생성. pandas+plotly 샌드박스, 내러티브 기반 분석·시각화·권장사항
     * [Build a Slack data analyst bot with Claude Managed Agents](https://platform.claude.com/cookbook/managed-agents-slack-data-bot)
       * Slack 봇에서 CSV 첨부→스레드 내 분석 보고서 생성. 멀티턴 후속 대화 지원
+    * [고영혁 - Mythos와는 다른 의미에서 또다른 거대한 폭탄을 Anthropic이... | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0THmymrTqDbM82mXoHjncc34yqNrLRdZSqWANQn71bt9ShRkJQuKJ99a2xrvQ59qfl)
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
   * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
@@ -4567,6 +4571,8 @@ Artificial Intelligence
 * [open-lovable: 🔥 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)
 * [open-swe: Open-source framework for internal coding agents](https://github.com/langchain-ai/open-swe)
   * [내부 코딩 에이전트를 위한 오픈소스 프레임워크 Open SWE 정리](https://digitalbourgeois.tistory.com/2898)
+  * [Open SWE: An open-source framework for internal coding agents | LangChain](https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/)
+  * [LangChain Korea 토론](https://aifactory.space/page/langchainkr/forum/discussion/4624)
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
   * [Orchids가 최근 정식 버전을 출시](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1289987116153967&hoisted_section_header_type=recently_seen)
 * [Paseo — One interface for all your coding agents](https://paseo.sh/)
