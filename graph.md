@@ -238,6 +238,26 @@ Graph
 * [Knowledge Graphs + Large Language Models = The ability for users to ask their own questions? | by Peter Lawrence | Mar, 2023 | Medium](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
 * [지식 그래프를 활용한 UAM 도착 지연시간에 따른 승객 이탈률 분석 및 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=165226)
 * [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
+* 그래프DB 시리즈 | 아이티데일리
+  * [1편 아리스토텔레스부터 네오포제이까지, 시대를 기다린 '지식의 망'](http://www.itdaily.kr/news/articleView.html?idxno=237741)
+  * [2편 '앵커링'과 '트래버싱'으로 맥락 증명... 성패 가르는 '모델링'](http://www.itdaily.kr/news/articleView.html?idxno=237742)
+  * [3편 '그래프 RAG'로 환각 차단 가능... RDB 대체재 아닌 상보 관계](http://www.itdaily.kr/news/articleView.html?idxno=237743)
+* [Create Context Graph — CLI scaffolding for AI agent apps with Neo4j](https://create-context-graph.dev/)
+  * [create-context-graph](https://github.com/neo4j-labs/create-context-graph)
+  * FastAPI+Next.js+Neo4j로 도메인별 AI 에이전트 앱 5분 생성. 대화·지식 그래프·결정 추적 3가지 메모리
+* [EdgeQuake — Rust-based high-performance Graph-RAG framework](https://edgequake.com/)
+  * [edgequake](https://github.com/raphaelmansuy/edgequake)
+  * [EdgeQuake: Rust 기반 고성능 Graph-RAG 프레임워크 정리](https://digitalbourgeois.tistory.com/2821)
+  * LightRAG 알고리즘을 Rust로 구현. 문서를 lineage-aware knowledge graph로 변환, 6가지 검색 모드
+* [knowledgeGraph: AI agent long-term memory via mentoring-based knowledge graph](https://github.com/ChenLiangChong/knowledgeGraph)
+  * AI 에이전트 장기 기억 시스템. 멘토링 통해 도메인 전문성 축적, 하이브리드 검색, 메모리 감쇠, 환각 방지
+* [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
+  * [LightRAG](https://github.com/HKUDS/LightRAG)
+  * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+* [PathRAG: Pruning Graph-based RAG with Relational Paths](https://arxiv.org/abs/2502.14902)
+  * [pathrag-with-spanner (ADK 구현)](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/pathrag-with-spanner/)
+  * [Google Cloud Spanner Graph + PathRAG | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_googlecloud-spannergraph-pathrag-ugcPost-7441519507074015232-YJ2v)
+  * flow-based pruning으로 중복 제거, path-based prompting으로 일관된 응답 생성
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
