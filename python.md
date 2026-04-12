@@ -1961,6 +1961,7 @@ Python
 * [Legally Free Python Books List - Python kitchen](https://www.pythonkitchen.com/legally-free-python-books-list/)
 * [그림으로 배우는 파이썬 기초 문법 - WikiDocs](https://wikidocs.net/book/7449)
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
+* [A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
 * [Al Sweigart](https://www.freetechbooks.com/al-sweigart-a4040.html)
   * [Cracking Codes with Python](https://www.freetechbooks.com/cracking-codes-with-python-t1344.html)
   * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.freetechbooks.com/automate-the-boring-stuff-with-python-practical-programming-for-total-beginners-t942.html)
