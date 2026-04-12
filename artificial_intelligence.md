@@ -1652,6 +1652,8 @@ Artificial Intelligence
   * [또다른 MiroFish 대박 프로젝트입니다 | seungpil](https://www.linkedin.com/posts/seungpil_%EB%98%90%EB%8B%A4%EB%A5%B8-mirofish-%EB%8C%80%EB%B0%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%94-op0jogggg%EB%8A%94-ugcPost-7439287445332033536-CtKr)
   * 뉴스·정책·금융 신호를 추출해 디지털 시뮬레이션 구축, 수천 AI 에이전트가 상호작용하며 미래 예측. OASIS 프레임워크 기반
   * [MiroFish: 멀티 에이전트 군집 지능 기반 AI 예측 엔진](https://digitalbourgeois.tistory.com/2950)
+  * [AI 1000명이 진짜 주식 데이터로 토론합니다 (소스코드 무료 공개) - YouTube](https://www.youtube.com/watch?v=TH_UUE017vY)
+    * MiroFish+실제 시장 데이터 13차원(ASCII Brain) 연동 AI 증권사 리서치센터. 성향 다른 5명 AI 전문가가 데이터 기반 토론, 가상 트위터 여론 시뮬레이션, CIO 최종 투자 비중 결정. 바이브 코딩으로 2주 완성
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
