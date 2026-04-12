@@ -330,7 +330,6 @@ NLP
 * [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
-* [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [AI 데이터 분석가 ‘물어보새’ 등장 – 1부. RAG와 Text-To-SQL 활용 | 우아한형제들 기술블로그](https://techblog.woowahan.com/18144/)
 * [AI 데이터 분석가 ‘물어보새’ 등장 – 2부. Data Discovery | 우아한형제들 기술블로그](https://techblog.woowahan.com/18362/)
 * [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
@@ -4856,7 +4855,9 @@ NLP
   * [RDF 온톨로지와 벡터 검색을 활용한 동적 멀티에이전트 워크플로우 발견 시스템 - YouTube](https://www.youtube.com/watch?v=eOtAZ0xl0wM)
 * [251227_AI인터시스브랜드(온톨로지논문)](https://aibread.notion.site/251227_AI-2d58d9a8b46080089449e1fc48b42fff)
 * [Disease Ontology](http://www.disease-ontology.org/)
+* [distil-text2sql: Query your data in plain English with a fine-tuned Text2SQL model](https://github.com/distil-labs/distil-text2sql)
 * [SNOMED CT](http://en.wikipedia.org/wiki/SNOMED_CT)
+* [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [TypeDB: The AI-native database for intelligent systems](https://typedb.com/)
   * [TypeDB: the power of programming, in your database](https://github.com/typedb/typedb)
   * [온톨로지를 코드로 구현하기 | TypeDB 완전정복 - YouTube](https://www.youtube.com/watch?v=qMGpzTxX5xk)
