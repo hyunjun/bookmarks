@@ -1470,6 +1470,8 @@ Artificial Intelligence
   * [5회차 : data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://modulabs.notion.site/5-data2vec-A-General-Framework-for-Self-supervised-Learning-in-Speech-Vision-and-Language-84f6acebb5b740a584670f2c6dfdda4b)
 * [DeepInnovator: AI Research Assistant - Idea Spark & Scientific Discovery](https://github.com/HKUDS/DeepInnovator)
   * AI 연구 보조 도구. 아이디어 발굴부터 과학적 발견까지 지원하는 AI 리서치 코파일럿
+* [DeepScientist: Local-first autonomous research studio](https://github.com/ResearAI/DeepScientist)
+  * 로컬퍼스트 자율 연구 스튜디오. Git 레포=연구 프로젝트, 베이스라인→실험→논문 연속 루프. 일시정지/방향 전환/재개 가능, 실패 경로도 자산으로 보존. 웹/터미널/메신저(WeChat/Telegram/WhatsApp) 접근, ~15분 셋업
 * [deep-searcher: Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python](https://github.com/zilliztech/deep-searcher)
   * [Jehyun Lee - ● Deep Research is everywhere - 며칠 전만 해도 Google,... | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid022fBduMh2WX9fSduey3WzCnvhu4jDyaFxMf67ph5zQVzSjT3Q67FjgLgNqhbzio6Pl)
 * [DeerFlow](https://deerflow.tech/)
@@ -3669,6 +3671,9 @@ Artificial Intelligence
     * [Claude Canvas Turns Claude Code Into a Visual Terminal App! - YouTube](https://www.youtube.com/watch?v=M_iCVJSZsu0)
   * [Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works](https://github.com/blader/Claudeception)
     * A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works
+  * [ClaudeClaw — Persistent agent orchestrator plugin for Claude Code](https://sbusso.github.io/claudeclaw/)
+    * [claudeclaw](https://github.com/sbusso/claudeclaw)
+    * 상시 가동 에이전트 오케스트레이터. Slack/WhatsApp/Telegram/Discord/Gmail 멀티채널 메시징, 구조화 메모리(일간 로그+토픽+장기 저장), 웹훅 트리거(HMAC-SHA256), 그룹별 에이전트 설정, 비용 추적, OS/컨테이너 샌드박스
   * [Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
     * [앤트로픽이 직접 만든 클로드 코드 강의 핵심만 요약했습니다 | 성국 한](https://www.linkedin.com/posts/%EC%84%B1%EA%B5%AD-%ED%95%9C-5b433128a_%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%B4-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A0-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EA%B0%95%EC%9D%98-%ED%95%B5%EC%8B%AC%EB%A7%8C-%EC%9A%94%EC%95%BD%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C%EC%A3%BC-share-7440849401809571841-WJQs/)
   * [claude-code-chat: AI 교육 전략보고서](https://github.com/revfactory/claude-code-chat)
