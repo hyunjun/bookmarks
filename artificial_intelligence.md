@@ -923,6 +923,9 @@ Artificial Intelligence
   * [Hermes Agent - 경험으로부터 스킬을 생성/개선하는 자기 학습형 자율 AI 에이전트 | GeekNews](https://news.hada.io/topic?id=28101)
   * Nous Research의 자율 AI 에이전트. 서버 상주·영구 메모리·자동 스킬 생성. Telegram/Discord/Slack/WhatsApp 멀티채널, Docker/SSH 샌드박스 실행. MIT 오픈소스
   * [hermes-agent](https://github.com/NousResearch/hermes-agent)
+  * [Hermes는 어떻게 스스로 배워가는가: 코드로 뜯어본 Skill Self-Evolution Architecture](https://tmdgusya.github.io/devletter/posts/hermes-skill-self-evolution/)
+    * [Hermes의 Skill 시스템 코드를 분석해봤습니다 | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_hermes%EC%9D%98-skill-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-self-evolution%EC%9D%B4%EB%9D%BC%EA%B3%A0-ugcPost-7448734487754088448-yz4l)
+    * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
 * [hive](https://github.com/aden-hive/hive)
   * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
   * 프로덕션용 AI 에이전트 런타임 프레임워크. 자연어 목표 → 에이전트 그래프 자동 생성·실행·모니터링, 상태 관리·장애 복구·비용 통제·적응형 자기 개선
@@ -944,6 +947,8 @@ Artificial Intelligence
 * [MemOS: OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory](https://github.com/MemTensor/MemOS)
   * [INTELLIGENCE BEGINS WITH MEMORY](https://memos.openmem.net/)
   * [Introducing MemOS: Open-Source AI Memory Framework | Sumanth P posted on the topic | LinkedIn](https://www.linkedin.com/posts/sumanth077_memory-operating-system-for-ai-agents-memos-activity-7419359497284087808-heFj)
+* [MemPalace: AI memory system with palace metaphor for semantic retrieval](https://github.com/MemPalace/mempalace)
+  * LongMemEval 96.6% 최고점. 요약 없이 원문 그대로 ChromaDB에 저장, 궁전 비유(Wing→Room→Hall→Drawer)로 계층적 구조화하여 검색 34% 향상. 지식 그래프(SQLite 시간 기반 엔티티), AAAK 손실 압축, MCP 통합(Claude/ChatGPT/Cursor/Gemini). MIT 오픈소스
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
@@ -3521,6 +3526,8 @@ Artificial Intelligence
   * [최훈민 - 🧑🏻‍💻 Claude Code 사용자라면 Boris Cherny의 팁을 듣기만 해도 생산성이 팍팍... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0344Qj9TefpLKrw2PL3pNEGBxuVAtezxLsVFQqrHnkRmbpNUog63Yw3SohBivsni2Ml&id=100083771214192)
     * [Claude Code 창시자 Boris Cherny의 워크플로우 | WikiDocs](https://wikidocs.net/333437)
       * 5개 로컬+5-10개 웹 세션 병렬 운영, Git 워크트리 활용. 공유 CLAUDE.md로 팀 학습 축적, Plan 모드→자동 실행 전환, 검증 피드백 루프로 품질 2~3배 향상. 별도 커스터마이징 없이 기본 설정으로 충분하다고 강조
+  * [Stop Burning Claude Code Tokens](https://brewinvaz.substack.com/p/stop-burning-claude-code-tokens)
+    * 30만+ 도구 호출 분석. 출력 토큰(narration)이 최대 비용 원인. CLAUDE.md에 anti-narration 규칙 추가, 세션 20~30턴 유지, 파일 읽기 최적화, 비피크 시간대 활용 권장
   * [Claude ‘구독형’ 요금제가 API보다 최대 36배 저렴한 이유와 ‘Max 5x’가 진 | GeekNews](https://news.hada.io/topic?id=26256)
   * [Anthropic 해커톤 우승자가 공유한 Claude Code 실전 팁 70가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3607/)
     * [Claude_Code_완전_가이드_70가지_팁.pdf - Google Drive](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
