@@ -2975,6 +2975,9 @@ NLP
     * [🤖 AutoGLM-Phone-Multilingual: 스마트폰을 AI 비서로 만드는 오픈소스 프로젝트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-AutoGLM-Phone-Multilingual-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84-AI-%EB%B9%84%EC%84%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * [glm-5, qwen3-max, MiniMax-M2.5 AI 모델에 웹 검색과 이미지 인식 기능 추가하기](https://fornewchallenge.tistory.com/entry/%F0%9F%91%81%EF%B8%8Fglm-5-qwen3-max-MiniMax-M25-AI-%EB%AA%A8%EB%8D%B8%EC%97%90-%EC%9B%B9-%EA%B2%80%EC%83%89%EA%B3%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9D%B8%EC%8B%9D-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
   * Alibaba Cloud Model Studio에서 웹 검색 기능 추가 + Firecrawl MCP와 Skill/Agent로 텍스트 전용 모델에 시각 기능 확장
+* [GLM-5.1 - How to Run Locally | Unsloth](https://unsloth.ai/docs/models/glm-5.1)
+  * [GLM-5.1 로컬 실행 가이드: 대규모 언어 모델을 내 PC에서 사용하는 방법](https://digitalbourgeois.tistory.com/2971)
+  * Z.ai 최신 오픈소스 모델, 200K 컨텍스트. Unsloth 동적 양자화로 1.65TB→220~236GB 압축. Unsloth Studio/llama.cpp/llama-server(OpenAI 호환 API) 로컬 배포
 * [good luck have fun](https://glhf.chat/landing/home)
   * [glhf - (거의) 모든 언어 모델 실행하기 | GeekNews](https://news.hada.io/topic?id=16069) vLLM 사용
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
@@ -3366,6 +3369,12 @@ NLP
     * [LangGraph를 활용한 Agentic AI 시스템 구축](https://linktr.ee/teddynote)
     * [Langchain이 있는데, Langgraph가 왜 필요할까?](https://bcho.tistory.com/1490)
     * [AI Agent 개념, 사례, 실습 이 영상 하나로 끝내드립니다ㅣLangGraph로 Agent 실습까지 - YouTube](https://www.youtube.com/watch?v=nxsa38ZfGY4)
+    * LangGraph 도장깨기 시리즈 | Anthony Kim
+      * [#2 State | Facebook](https://www.facebook.com/donghak.kim.3893/posts/pfbid0vcxhBaSYVyhcPpsfpvD2qwC7WdfLPopiUUFw5B88qDDDpyEP2eBsufWaQLHwntknl)
+      * [#3 Reducer | Facebook](https://www.facebook.com/donghak.kim.3893/posts/pfbid0cUcUUfpEjUAXkiRv9nmhrpcohNUHZKxsHXBvfRkNUExCnqmNUQXetvPHPPBNK8gyl)
+      * [#5 메시지 관리 시스템 | Facebook](https://www.facebook.com/donghak.kim.3893/posts/pfbid0DkmrB5Rp6WmcEa4HwQvwn5xHDdE6RZLHjBp2hmPNcm16AmcBykPWQrGciZSpR9yol)
+    * [agentic-rag-for-dummies: Modular Agentic RAG system using LangGraph](https://github.com/GiovanniPasq/agentic-rag-for-dummies/)
+      * 계층적 문서 인덱싱, 대화 메모리, 지능형 쿼리 명확화를 갖춘 모듈식 Agentic RAG
     * [agent-skills: LangGraph Agent Skill 가이드](https://github.com/kyopark2014/agent-skills)
       * [LangGraph Agent Skill | Kyoungsu Park](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_langgraph-agent-skill-ugcPost-7433472108283748352-N6RL)
     * [CopilotKit: React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁](https://github.com/CopilotKit/CopilotKit)
@@ -3374,6 +3383,10 @@ NLP
     * [langgraph-dynamic-mcp-agents: LangGraph ReAct Agents with an ability to use MCP Tools dynamically](https://github.com/teddynote-lab/langgraph-dynamic-mcp-agents)
       * [#MCP 에이전트 공개(동적 도구 설정 대시보드, 시스템 프롬프트 설정, 다양한 모델) - YouTube](https://www.youtube.com/watch?v=s-rDDqcGymk)
     * [langgraph/examples/multi_agent/multi-agent-collaboration.ipynb at main · langchain-ai/langgraph](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb)
+    * [langgraph-swarm-py: Python library for building swarm-style multi-agent systems](https://github.com/langchain-ai/langgraph-swarm-py/)
+      * 에이전트가 전문성에 따라 동적으로 제어권을 넘기는 스웜 스타일 멀티에이전트 시스템
+    * [langrepl: Interactive terminal CLI for building and running LLM agents](https://github.com/midodimori/langrepl/)
+      * LangChain/LangGraph 기반 대화형 터미널 CLI. 파일 접근, 명령 실행, MCP 서버 통합
     * [LLMCompiler : 한국인이 만든 추론 방법론으로 AI Agent를 만듭니다. 역시 '빨리빨리' - YouTube](https://www.youtube.com/watch?v=PSTsSCvuoMk)
       * [LG_LLMCompiler.ipynb - Colab](https://colab.research.google.com/drive/1LEiKJ21l3Z-9HbKXmjque_PL5Qd9v2gm?usp=sharing)
       * [LLMCompiler 2 : AI 시대 코딩 배워야 합니다. AI App Flow를 아시면 무엇을 배워야 하는지 아실 수 있습니다. - YouTube](https://www.youtube.com/watch?v=lBPidxUL8zg)
@@ -4648,6 +4661,8 @@ NLP
 * [자연어 처리(NLP)가 필요하다면?··· 추천 파이썬 라이브러리 8종 - CIO Korea](https://www.ciokorea.com/news/187313) CoreNLP Gensim NLTK Pattern Polyglot PyNLPI SpaCy TextBlob
 * better\_profanity [Day 36 : Remove Cuss Words using Python - YouTube](https://www.youtube.com/watch?v=r9qeg-T_9_s)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
+* [ade-python: Agentic Document Extraction Python Library by LandingAI](https://github.com/landing-ai/ade-python)
+  * 문서 파싱·분류·스키마 기반 데이터 추출 REST API SDK. Pydantic 타입 응답, 동기/비동기 클라이언트, 대용량 비동기 작업, MCP 서버 통합. Python 3.9+
 * [ecco: Visuals and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2)](https://github.com/jalammar/ecco)
 * [Ekphrasis - a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction](https://github.com/cbaziotis/ekphrasis)
 * [Emoji for Python](https://github.com/carpedm20/emoji)
