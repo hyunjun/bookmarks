@@ -385,6 +385,8 @@ Graph
 * [D2RQ Accessing Relational Databases as Virtual RDF Graphs](http://d2rq.org/)
 * [OWL Reasoning Examples](http://owl.man.ac.uk/2003/why/latest/)
 * [sparql-endpoint: Utilities to interact with a SPARQL endpoint in clojure](https://github.com/ont-app/sparql-endpoint)
+* [SPARQL-TOOL: Allow your Agent to query knowledge graphs | Vlad Korolev | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=RiBsLgGABUQ)
+  * AI 에이전트가 SPARQL로 지식 그래프를 직접 쿼리하는 도구. 벡터 임베딩 대신 RDF 그래프의 구조화된 관계 데이터 활용, 에이전트 시스템과의 통합 방법 시연
 * [UBY - A Large-Scale Unified Lexical-Semantic Resource](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/)
 * [Virtuoso SPARQL Query Editor](http://ko.dbpedia.org/sparql)
 * [YAGO: A High-Quality Knowledge Base](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)
