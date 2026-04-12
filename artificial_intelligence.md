@@ -2648,6 +2648,8 @@ Artificial Intelligence
 * [2604.06425 Neural Computers](https://arxiv.org/abs/2604.06425)
   * [김성완 - 메타에서 뉴럴 컴퓨터(Neural Computers)라는 새로운 개념을 발표했습니다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0xZSqAcu7CnhhBdkDkctNj8SKrHk9hTDtUur6TZMiGcHRm5ftqMasGfRaKv3PLdERl)
   * 계산·메모리·I/O를 학습된 런타임 상태로 통합하는 새로운 머신 형태. 비디오 모델로 CLI/GUI 환경에서 명령+사용자 행동으로부터 화면 프레임 생성
+  * [이승현 - ☑️폰 노이만의 종말? + 소프트웨어 종말? - 신경 컴퓨터(NC)☑️ 4월 8일 Meta AI와... | Facebook](https://www.facebook.com/epoko/posts/pfbid02AGdEZx9v6KZuaB5vt9m6FNv9Ycv4ZkfcHvwnY165xuSoJiRuRF3YfP3p44N2kCByl)
+  * [OpenClaw처럼 인공지능이 내 컴퓨터를 조작하는 것을 넘어서, 인공지능 자체가 하나의 운영체제가 된다면 어떨까요?](https://www.linkedin.com/posts/kiwoong-yeom_openclaw%EC%B2%98%EB%9F%BC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4-%EB%82%B4-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-ugcPost-7449030732238331904-L-Pp/)
 * [2604.06169 In-Place Test-Time Training](https://arxiv.org/abs/2604.06169)
   * [이승현 | Facebook](https://www.facebook.com/epoko/posts/pfbid0Dc37Ys3qpv4pQ5AbnjaKEnceJydihsyq8CKMUSsGp6GvJJ3VQEgMkWgcfS9skf14l)
   * 모델 파라미터 수정 없이 추론 시 테스트 입력으로부터 학습하여 도메인 특화 성능 향상. 전통적 test-time training 대비 계산 효율성 유지
