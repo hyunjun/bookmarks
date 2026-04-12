@@ -1135,6 +1135,8 @@ Interview
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [cv: Print-friendly, minimalist CV page](https://github.com/bartoszjarocki/cv) 간단한 정적 파일을 통해 이력서 페이지를 만들어주는 프로젝트
+* [CV-Praetorian-Guard: PRAETOR CV Self-Assessment Helper](https://github.com/simonesan-afk/CV-Praetorian-Guard)
+  * LLM 시스템 프롬프트 기반 무료 이력서 자가 평가 도구. 하드스킬(40점)·경력 관련성(30점)·정량적 성과(20점)·ATS 키워드(10점) 4축 평가. PII 자동 감지, 경력 공백 맥락 인식(육아·건강 등 불이익 없음), 구체적 개선 제안
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [Dopefolio 🔥 - Portfolio Template for Developers 🚀](https://github.com/rammcodes/Dopefolio)
   * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
