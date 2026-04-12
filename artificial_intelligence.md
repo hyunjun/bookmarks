@@ -464,6 +464,10 @@ Artificial Intelligence
   * [opencode oh my opencode harness](https://velog.io/@qlgks1/opencode-oh-my-opencode-harness)
   * [Effective Harnesses for Long-Running Codex | Team Attention](https://long-running-codex-meetup.team-attention.com/)
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
+  * [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
+    * 100명+ 사내 세션 발표 자료. 같은 모델이라도 컨텍스트·워크플로우·검증 기준 설계에 따라 결과가 달라짐. Green Field vs Brown Field 구현 차이, 개인 AI 활용과 조직 단위 AI 적용의 근본적 차이(품질·검증 가능성·통제 가능성·운영 지속성)
+  * [From Prompts to Harness — A 4-Year Record of AI Agentic Patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
+    * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
@@ -2634,6 +2638,9 @@ Artificial Intelligence
 * [2604.06425 Neural Computers](https://arxiv.org/pdf/2604.06425)
   * [김성완 - 메타에서 뉴럴 컴퓨터(Neural Computers)라는 새로운 개념을 발표했습니다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0xZSqAcu7CnhhBdkDkctNj8SKrHk9hTDtUur6TZMiGcHRm5ftqMasGfRaKv3PLdERl)
   * 계산·메모리·I/O를 학습된 런타임 상태로 통합하는 새로운 머신 형태. 비디오 모델로 CLI/GUI 환경에서 명령+사용자 행동으로부터 화면 프레임 생성
+* [2604.06169 In-Place Test-Time Training](https://arxiv.org/pdf/2604.06169)
+  * [이승현 | Facebook](https://www.facebook.com/epoko/posts/pfbid0Dc37Ys3qpv4pQ5AbnjaKEnceJydihsyq8CKMUSsGp6GvJJ3VQEgMkWgcfS9skf14l)
+  * 모델 파라미터 수정 없이 추론 시 테스트 입력으로부터 학습하여 도메인 특화 성능 향상. 전통적 test-time training 대비 계산 효율성 유지
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -2894,6 +2901,9 @@ Artificial Intelligence
   * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
   * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
     * Karpathy의 LLM Wiki 개념 구현. RAG 없이 원시 데이터→LLM 위키 편집→질의→결과 위키 저장의 복합 지식 축적 루프. graphify 통합으로 코드·문서·미디어를 지식 그래프로 변환, BFS/DFS 탐색
+  * [LLM Wiki: AI for Biology — Collaborator Guide](https://gist.github.com/joonan30/cbce305684d079dbe9a3fbaefe4e3959)
+    * [안준용 | Facebook](https://www.facebook.com/5432154321a/posts/pfbid0XYougHg3BxGGgaCJk5kDqwinXiB98rDowqaqiJjugmYLUvYC41NvzhBySBXmGe6zl)
+    * ~1,100편 논문 기반 생물학 지식 위키 구축 방법론. Papers(원본 PDF)→Sources(LLM 구조화 요약)→Wiki(크로스레퍼런스) 3계층 파이프라인. bioRxiv/medRxiv/PubMed 자동 모니터링, Obsidian 위키링크 통합
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [Guse](https://www.guse.io/)
@@ -3357,6 +3367,17 @@ Artificial Intelligence
   * [Use Cases | Claude](https://claude.com/resources/use-cases)
     * [Use Cases | Claude | Hyunmin Kim](https://www.linkedin.com/posts/hyunmin-kim-1356a260_use-cases-claude-activity-7394015977232953345-PpV6)
     * [와우 .. 솔직히 저만 보고 싶을 정도로 너무 잘 정리되어있네요. 클로드에서 "AI 활용법 45가지"를 굉장히 잘 정리된 자료가 있어 공유합니다. 이 자료가 특히 유용한 이유는, 단순히 팁만 나열하는 것이 아닌 디테일한 프롬프트 작업, 레퍼런스 자료 업로드와 같은 순서도 구체적으로 나와있습니다. 예를 들어, 클로드 등을 활용해 고퀄리티의 시각 자료나… | Jaeyun Henry Lee | 28 comments](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%99%80%EC%9A%B0-%EC%86%94%EC%A7%81%ED%9E%88-%EC%A0%80%EB%A7%8C-%EB%B3%B4%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EC%A0%95%EB%8F%84%EB%A1%9C-%EB%84%88%EB%AC%B4-%EC%9E%98-%EC%A0%95%EB%A6%AC%EB%90%98%EC%96%B4%EC%9E%88%EB%84%A4%EC%9A%94-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%97%90%EC%84%9C-activity-7393864328803840000-Hm97)
+  * [Scaling Managed Agents: Decoupling the brain from the hands | Anthropic](https://www.anthropic.com/engineering/managed-agents)
+    * [What is Claude Managed Agents? - YouTube](https://www.youtube.com/watch?v=NLWiIj47IdI)
+    * [Claude Managed Agents, Anthropic의 플랫폼 전쟁 선언인가 | WikiDocs](https://wikidocs.net/blog/@jaehong/11057/)
+    * [최승준 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0TqfZZ2r2JGRcucZfkvRjyud6wdukMyRgsv5R2Wg62EE8PrQAsbhoW8p5dVdmEjgVl)
+    * 에이전트의 Brain(추론)-Hands(실행)-Session(기억) 분리 아키텍처. TTFT 60% 개선, 크레덴셜 물리 격리, 세션 로그 장애 복구. 고객 VPC 내 다중 실행 환경 지원
+    * [Build an SRE incident response agent with Claude Managed Agents](https://platform.claude.com/cookbook/managed-agents-sre-incident-responder)
+      * 자율 SRE 에이전트 구축 튜토리얼. 프로덕션 알림→로그/런북 조사→PR 생성→인간 승인→머지 워크플로우
+    * [Build a data analyst agent with Claude Managed Agents](https://platform.claude.com/cookbook/managed-agents-data-analyst-agent)
+      * CSV→HTML 보고서 자동 생성. pandas+plotly 샌드박스, 내러티브 기반 분석·시각화·권장사항
+    * [Build a Slack data analyst bot with Claude Managed Agents](https://platform.claude.com/cookbook/managed-agents-slack-data-bot)
+      * Slack 봇에서 CSV 첨부→스레드 내 분석 보고서 생성. 멀티턴 후속 대화 지원
   * [검색 못하던 클로드가 MCP 달더니 별의별 걸 다 하는 모습 공개 (프롬프트 엔지니어 강수진 박사) - YouTube](https://www.youtube.com/watch?v=nfPXfsVz6jM)
   * [클로드 MCP가 지금 게임체인저인 이유.활용도가 달라집니다 l 개발자 유튜버 히로의 시스템 (AI 팟캐스트 #55) @hero_system - YouTube](https://www.youtube.com/watch?v=VCHjWQFKbc4)
   * [클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool) - YouTube](https://www.youtube.com/watch?v=qdwMosgAVUU)
@@ -3600,6 +3621,8 @@ Artificial Intelligence
   * [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
     * [Claude Code로 개발 생산성 향상: 6주 실전 경험](https://digitalbourgeois.tistory.com/2928)
     * PR 자동화(/git-pr 스킬), SWC 도입으로 빌드 1초 미만, 프리뷰 기능으로 UI 검증 위임, 병렬 워크트리 시스템으로 동시 5개 작업. 기능 개발보다 피드백 루프 속도를 줄이는 인프라 구축이 핵심
+  * [Anthropic이 '지저분한 코드'로 시장을 이긴 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3703/)
+    * 유출된 소스에서 3,167줄 함수 등 발견되었지만 AI 개발 도구 시장 점유율 ~31%. 코드 품질보다 모델-도구 통합의 매끄러운 경험이 핵심. 예방보다 빠른 배포+빠른 오류 감지 철학
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
@@ -3870,6 +3893,8 @@ Artificial Intelligence
         * [gstack? 하네스 엔지니어링? 직접 써봤더니 진짜 중요한 건 따로 있었다 - YouTube](https://www.youtube.com/watch?v=OvZiSEZpzxs)
         * [AGI KR | Facebook](https://www.facebook.com/groups/agikr/permalink/2912180799122959/)
         * [Seungjoon Choi | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0G41HQkAkUEF7nxp797TXgRZaUBCJPFN7rETcmBURSZk6r7gyBKKqbkqyH32u1Z4Jl)
+        * [앤트로픽이 공개한 $9 vs $200 실험 — 차이는 "하네스"였습니다 - YouTube](https://www.youtube.com/watch?v=yTUCyw6nAfQ)
+          * 같은 Claude에 같은 작업, $9 vs $200로 결과 22배 차이. 단일 에이전트 한계(컨텍스트 불안, 자기 평가 편향) → Planner+Generator+Evaluator 멀티에이전트 하네스 설계. 모델이 좋아져도 하네스는 사라지지 않고 "이동할 뿐"
     * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
       * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
     * [요즘 개발자들이 Ralph 플러그인에 주목하는 이유 : 랄프 루프 실제 후기](https://litmers.com/blog/%EC%9A%94%EC%A6%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ralph-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%9E%84%ED%94%84-%EB%A3%A8%ED%94%84-%EC%8B%A4%EC%A0%9C-%ED%9B%84%EA%B8%B0)
