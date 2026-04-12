@@ -2911,6 +2911,8 @@ Artificial Intelligence
 * [graphify: Transform code, docs, papers, images, and videos into interactive knowledge graphs](https://github.com/safishamsi/graphify)
   * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
   * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
+  * [LLM Knowledge Bases | DAIR.AI](https://academy.dair.ai/blog/llm-knowledge-bases-karpathy)
+    * Karpathy 방식: LLM을 컴파일러로 활용해 원시 문서→구조화된 마크다운 위키. Ingest→Compile→Query→Maintain 4단계. 벡터DB·RAG 없이 상호작용마다 지식 베이스 자동 성장
   * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
     * [LLM Wiki 입문 가이드 - YouTube](https://www.youtube.com/watch?v=S6w4g2OQlVQ)
       * 옵시디언 볼트 위에서 Raw→Wiki→Query 흐름으로 지식 베이스 구축 실습. 도구보다 도메인 지식이 핵심
