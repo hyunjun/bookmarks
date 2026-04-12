@@ -6139,6 +6139,9 @@ Programming
 * [도커 없이 SFTP로 2분 배포 (SSH Git으로 비용 절감) - YouTube](https://www.youtube.com/watch?v=124bc3KUG9o)
 * [Compliance is Broken: The DevOps Revolution for Audit & Controls (Stop Spreadsheets!) - YouTube](https://www.youtube.com/watch?v=ESMo2aWNdS8) 지속적인 규정 준수 프레임워크(CCF Continuous Compliance Framework)
   * [DevOps 기반 통제 및 감사: 스프레드시트를 넘어서는 클라우드 네이티브 규정 준수 혁명](https://livewiki.com/ko/content/compliance-devops-audit-controls)
+* [Netflix's Secret to Safe Automation at Scale • Aubrey Chipman & Roberto Perez Alcolea • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=rfjpzCqBH0k)
+  * [Netflix의 안전한 대규모 자동화 비결](https://livewiki.com/ko/content/netflix-safe-automation-scale)
+  * Netflix의 지연→고속 전환 사례. 대규모 코드베이스에서 자동화된 변경을 안전하게 배포하는 방법. 원제: From Lag to Lightning: Confident, Automated Changes at Scale
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [DevOps 기본 - YouTube](https://www.youtube.com/playlist?list=PLSJb8dsKrZ97QCyLe3HNwlpYxXJnpJqSF)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
