@@ -664,6 +664,19 @@ Web
   * [webclaw](https://github.com/0xMassi/webclaw)
   * Rust 기반 로컬퍼스트 웹 콘텐츠 추출. HTML→LLM 최적화 마크다운(토큰 67% 절감), 100KB 페이지 3.2ms 처리. MCP 서버(10개 도구), TLS 핑거프린팅, 변경 감지, 브랜드 아이덴티티 추출. CLI/REST API/Docker/SDK(TS·Python·Go)
 
+## Crawler AI
+* [AI 콘텐츠 수집 아직도 수동으로 하고 계시면, 이 5개부터 당장 깔아보세요 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%88%98%EC%A7%91-%EC%95%84%EC%A7%81%EB%8F%84-%EC%88%98%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%9C%EB%A9%B4-%EC%9D%B4-5%EA%B0%9C%EB%B6%80%ED%84%B0-%EB%8B%B9%EC%9E%A5-%EA%B9%94%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94-share-7447625928920473600-XaEL/)
+  * Agent-Reach(멀티 플랫폼 수집), web-access(Claude Code 웹 브라우징), r.jina.ai(URL→마크다운), last30days(30일 자동 요약) 등 AI 에이전트 콘텐츠 수집 도구 5종 추천
+* [Agent-Reach: Give your AI agent eyes to see the entire internet](https://github.com/Panniantong/Agent-Reach)
+  * [Give your AI agent eyes to see the entire internet for free](https://www.opensourceprojects.dev/post/98258f76-86c9-4980-9616-b5ad00cb6df4)
+  * AI 에이전트에게 인터넷 접근 능력을 부여하는 CLI 도구. Twitter, Reddit, YouTube, GitHub 등 14+ 플랫폼 통합, API 비용 없이 yt-dlp·Jina Reader·GitHub CLI 등 오픈소스 도구 활용. 원커맨드 설치, 로컬 자격증명 저장으로 프라이버시 보장
+* [bb-browser: CLI and MCP server for AI agents to control Chrome with your login state](https://github.com/epiral/bb-browser)
+  * 103개 명령어×36개 플랫폼. 인증된 브라우저 세션 그대로 사용, CLI/MCP/OpenClaw 통합. 10분만에 새 사이트 어댑터 추가 가능
+* [Jina Reader — URL to LLM-friendly content](https://r.jina.ai/)
+  * `r.jina.ai/URL`로 웹 페이지를 LLM 최적화 마크다운으로 변환, `s.jina.ai/QUERY`로 검색. API 키 불필요
+* [web-access: Agent Skill for comprehensive web access with CDP browser control](https://github.com/eze-is/web-access)
+  * AI 에이전트에 웹 접근 능력 부여. WebSearch/WebFetch/curl/Jina/CDP 자동 선택, 로그인 세션 유지 CDP 프록시 브라우저, 사이트 경험 축적(도메인별 URL 패턴·함정 기록), 병렬 서브에이전트 실행
+
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
 * [Golang tutorial: How to scrape websites with Golang & Goquery | Golang project - YouTube](https://www.youtube.com/watch?v=4VIoT50mzzo)
