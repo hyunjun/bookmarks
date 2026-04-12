@@ -174,6 +174,9 @@ Open Source
     * [글로벌 오픈소스 개발자들이 페디버스에 모이는 이유와 페디버스 탐험 가이드: 탈중앙화 SNS의 미래](https://livewiki.com/ko/content/global-open-source-fediverse)
 * [코드를 오픈소스로 공개했더니 이렇게 됩니다... - YouTube](https://www.youtube.com/watch?v=3QxpDK_pikg)
   * Mutable Instruments, Faker.js, Parse, Meteor, OpenSolaris, Mozilla Firefox
+* [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+  * [Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모 | GeekNews](https://news.hada.io/topic?id=28340)
+  * CI/CD 보안(GitHub Actions 해시 고정·최소 권한), Trusted Publishing+Sigstore 증명, 이중 승인 릴리즈, 의존성 쿨다운 정책. 수백만 개발자 사용 도구의 공급망 보안 전모
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
