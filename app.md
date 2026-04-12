@@ -2766,6 +2766,9 @@ App
       * [Obsidian plugin - templater (+ ChatGPT 삽질기) -](https://jh4hj.tistory.com/entry/Obsidian-plugin-templater-ChatGPT-%EC%82%BD%EC%A7%88%EA%B8%B0)
   * [voice-writing](https://github.com/reallygood83/voice-writing)
     * [노션 버리고 옵시디언 쓰는 이유 | AI 플러그인으로 노트가 나를 위해 일한다 (음성 에이전트 포함) - YouTube](https://www.youtube.com/watch?v=PydFmXOiXlY)
+  * [YAOS — Yet Another Obsidian Sync](https://yaos.dev/)
+    * [yaos](https://github.com/kavinsood/yaos)
+    * Yjs CRDT 기반 실시간 동기화. 터미널 설정·DB 관리 불필요, Cloudflare Worker 셀프호스팅. 충돌 없는 머지, R2 첨부파일 동기화, 자동 스냅샷·복원, git/AI 에이전트 외부 편집 호환
 * [**prose.io**](http://prose.io) github
 * [quarkdown: Turing-complete Markdown variant with modern typesetting. HTML/PDF output, slides, papers, wiki](https://github.com/iamgio/quarkdown)
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
