@@ -463,11 +463,16 @@ Artificial Intelligence
   * [Harness 개념 정리](https://sungeuns.substack.com/p/harness)
   * [opencode oh my opencode harness](https://velog.io/@qlgks1/opencode-oh-my-opencode-harness)
   * [Effective Harnesses for Long-Running Codex | Team Attention](https://long-running-codex-meetup.team-attention.com/)
+    * [OpenAI Codex Community Meetup Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대 | 정구봉 - YouTube](https://www.youtube.com/watch?v=tjEVBcPT-RA)
+      * [Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대](https://livewiki.com/ko/content/openai-codex-ai-coding-3)
     * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
   * [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
     * 100명+ 사내 세션 발표 자료. 같은 모델이라도 컨텍스트·워크플로우·검증 기준 설계에 따라 결과가 달라짐. Green Field vs Brown Field 구현 차이, 개인 AI 활용과 조직 단위 AI 적용의 근본적 차이(품질·검증 가능성·통제 가능성·운영 지속성)
   * [From Prompts to Harness — A 4-Year Record of AI Agentic Patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
     * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
+  * [Designing Domain-Specific Agent Harnesses](https://aayushmathur7.substack.com/p/designing-domain-specific-agent-harnesses)
+    * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
+  * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
@@ -2539,6 +2544,8 @@ Artificial Intelligence
   * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
   * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
 * [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
+* [2026.04 Week 1 Five Trending Repos of the Week](https://codepointer.substack.com/p/202604-week-1-five-trending-repos)
+  * Claude Code 툴링이 GitHub 트렌딩 지배. 에이전트 harness 플러그인, 스킬 레지스트리, 코드 분석 도구가 상위 100개 중 절반 차지
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3913,6 +3920,14 @@ Artificial Intelligence
   * [remotion: 🎥 Make videos programmatically with React](https://github.com/remotion-dev/remotion)
     * [Agent Skills | Remotion | Make videos programmatically](https://www.remotion.dev/docs/ai/skills)
     * [🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱 - YouTube](https://www.youtube.com/watch?v=72yb2-vqMSI)
+  * [roach-pi: Pi Engineering Discipline Extension](https://tmdgusya.github.io/roach-pi/)
+    * [roach-pi](https://github.com/tmdgusya/roach-pi)
+    * [엔지니어링을 위한 Harness | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-harness-%EC%B6%9C%EA%B7%BC%ED%95%B4%EC%84%9C-%EB%A7%9B%EB%B3%B4%EC%8B%9C%EB%9D%BC%EA%B3%A0-%EA%B3%B5%EC%9C%A0%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-ugcPost-7446704089335517184-FjeB)
+    * Pi 코딩 에이전트에 엄격한 엔지니어링 규율+멀티에이전트 오케스트레이션 추가. clarify→plan→execute 3단계 워크플로우
+    * [engineering-discipline: Systematic workflow for AI coding agents](https://tmdgusya.github.io/engineering-discipline/)
+      * [engineering-discipline](https://github.com/tmdgusya/engineering-discipline)
+      * [주말간 Openclaw에서 쓰이는 Pi Coding Agent Tool | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_%EC%A3%BC%EB%A7%90%EA%B0%84-openclaw-%EC%97%90%EC%84%9C-%EC%93%B0%EC%9D%B4%EB%8A%94-pi-coding-agent-tool-share-7446584074279993344-U5jC)
+      * 모호한 요청을 자동화된 스킬 체이닝·정보 격리·다중 리뷰어 검증으로 검증된 구현으로 변환. Claude Code/Gemini CLI/Cursor/Codex 지원
   * [roboco-cli: AI-native development scaffolding for full vibe coding](https://github.com/roboco-io/roboco-cli)
     * 레포 분석+인터뷰 기반 Claude Code 환경 자동 구성. CLAUDE.md·.claude/ 설정·훅·MCP 서버 생성. 스택 자동 감지, 5단계 프로세스 템플릿(Intent→Requirements→Research→Plan→Implement), 성숙도 감사·스코어링, `roboco install`로 팀 환경 일관성 보장
   * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
