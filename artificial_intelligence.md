@@ -737,6 +737,8 @@ Artificial Intelligence
 * [The Organizational Physics of Multi-Agent AI: Substrate-Independent Dysfunction in Autonomous Software Engineering Swarms](https://zenodo.org/records/18809207)
   * ["조직의 문제는 그대로" 멀티 에이전트 협업이 동작하지 않는 이유 | CIO](https://www.cio.com/article/4146735/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%98%91%EC%97%85%EC%9D%B4-%EB%8F%99.html)
   * 단일 에이전트 28/28 성공, 계층형 18/28, 자율조직화 9/28, 파이프라인 0/28. 조직 기능장애는 기질(substrate)에 독립적으로 발생. Crawford-Sobel 신호 열화, Goodhart 법칙 등 정보이론적 제약이 근본 원인
+* [AI 에이전트 메모리의 3가지 트렌드 | 엄상현](https://www.linkedin.com/posts/%EC%83%81%ED%98%84-%EC%97%84-5a03b628a_%ED%95%B4%EC%8B%9C%EB%93%9C-%EA%B9%80%EC%84%9C%EC%A4%80-%EB%8C%80%ED%91%9C%EB%8B%98%EC%9D%98-memkraft-garry-tan-y-%EC%BB%B4%ED%94%BC%EB%84%A4%EC%9D%B4%ED%84%B0-share-7449291698750517249-rTrI)
+  * RAG 우회(벡터 대신 마크다운+git), 복리 지식(세션마다 성장), 이중 아키텍처(컴파일 상태+append-only 타임라인) 3가지 트렌드
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -802,6 +804,8 @@ Artificial Intelligence
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
   * [이상선 - 마소에서 공개한 Agent 튜닝/최적화/관리 오픈소스 tool 링크... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02JdDUk4esoRE1sBWameKuj14ETgxsZaEiYH3uxhXpLhehSBmXz3W1RXNpQMSmYqw6l)
   * [코드변경 없이 모든 AI 에이전트를 최적화 가능한 강화학습 머신으로 변환해주는 오픈소스 프레임워크 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoft-activity-7391613983985852416-mKXy)
+* [Agent-Memory-Paper-List: AI 에이전트 메모리 연구 논문 큐레이션](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+  * 형태(토큰/파라메트릭/잠재), 기능(사실/경험/작업), 동태(형성/진화/검색) 분류 체계
 * [AGENTS.md](https://agents.md/)
   * [바이브 코딩 시대의 정석: 에이전트용 프롬프트부터 설계하라](https://www.facebook.com/lsszz1/posts/pfbid0Cf9VWSPGp5ffGsdKYBASbE2jsg8n3PuY4LofPn7nnsFfknYfjwDte15Ge2Vm79Nil)
     * 실제 코딩 전에 모델에게 먼저 다음 문서를 생성하게 할 것
@@ -826,32 +830,31 @@ Artificial Intelligence
   * [UI-TARS-desktop: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra](https://github.com/bytedance/UI-TARS-desktop)
   * [GUI Agent와 Vision을 터미널, 컴퓨터, 브라우저에 통합해주는 멀티모달 AI Agent 스택을 오픈소스로 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_bytedance-tiktok-snyuiosqsswm-activity-7416618742526201856-wNFN)
 * [agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches](https://github.com/NirDiamant/agents-towards-production)
+* [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
 * [agf: Agent Finder — One TUI to find, resume, and manage AI coding agent sessions (Claude Code, Codex, Opencode, Gemini)](https://github.com/subinium/agf)
   * [agf: AI 코딩 에이전트 세션을 한눈에 관리하는 터미널 TUI](https://digitalbourgeois.tistory.com/2807)
 * [agno: High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.](https://github.com/agno-agi/agno)
   * [agno/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py at main · agno-agi/agno](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
   * [Typesafe Agents are here 🤩 Agno 2.0 introduces Typesafe Agents. They take in structured input, and return structured output, making agentic software more reliable and deterministic. Bonus: use a… | Ashpreet B. | 댓글 22](https://www.linkedin.com/posts/ashpreetbedi_typesafe-agents-are-here-agno-20-introduces-activity-7371634213110067202--5nU)
+* [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
 * [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
   * [Video Makers by AI Agents A-Z](https://www.skool.com/ai-agents-az/about)
   * AI 에이전트 입문부터 실전까지 AI 에이전트의 핵심 전부 정리: 개념 → 구조 → 메모리 → 툴 사용 → 자율 실행
   * 스크래치부터 설명: 프레임워크, 용어 몰라도 이해 가능
   * 이론이 아니라 실전 중심: “왜 이렇게 설계하는지”가 명확
   * 초보자 길잡이 + 숙련자 체크리스트 역할 동시
+* [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
+  * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
+* [AI Engineering](https://aiengineering.beehiiv.com/)
+  * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
+* [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
+  * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
 * [all-agentic-architectures: Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development](https://github.com/FareedKhan-dev/all-agentic-architectures)
   * [Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems | by Fareed Khan | Level Up Coding](https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce)
     * 다양한 Agentic AI 아키텍처와 디자인 패턴을 체계적으로 정리
     * Agentic AI는 여러 AI 에이전트가 자율적으로 협력하여 복잡한 문제를 해결하도록 설계된 시스템
       * 모듈식, 계층적 설계 및 다중 에이전트 시스템 등이 주요 방법론
     * 생성형 AI의 위험성(혼란스러운 대리인 문제)과 보안 대응 방안도 설명
-* [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
-* [The AI agent handbook | Google Cloud](https://cloud.google.com/resources/content/ai-agent-handbook?hl=ko)
-* [AI-Agents-in-a-No-Code-Visual-Builder: Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows](https://github.com/0xSojalSec/AI-Agents-in-a-No-Code-Visual-Builder)
-  * [The No-Code + Code Agent Builder - Inkeep Open Source Docs](https://docs.inkeep.com/overview)
-* [AI Engineering](https://aiengineering.beehiiv.com/)
-* [agent-workflow-memory: AWM: Agent Workflow Memory](https://github.com/zorazrw/agent-workflow-memory)
-  * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
-* [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
-  * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
 * [ArgentOS — The Operating System for Personal AI](https://argentos.ai/features/consciousness)
   * [ArgentOS Core](https://github.com/ArgentAIOS/core)
   * 채팅 기반 개인 AI OS. 영구 메모리, 태스크 실행, 브라우저·터미널 제어, 워크스페이스 서피스
@@ -868,6 +871,7 @@ Artificial Intelligence
   * [AutoKernel | GeekNews](https://news.hada.io/topic?id=27433)
   * [AutoKernel: GPU 커널 최적화를 자동화하는 연구 시스템의 구조와 의미](https://digitalbourgeois.tistory.com/2876)
   * AI 에이전트가 Triton/CUDA C++ 커널을 자동 프로파일링→최적화→검증. Amdahl's law 기반 우선순위, 9종 커널 타입, GPT-2/LLaMA/BERT 내장
+* [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
 * [autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
   * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
@@ -884,7 +888,11 @@ Artificial Intelligence
   * [serverless-autoresearch: Parallel evolution pipeline for autoresearch on SageMaker Spot Training (H100)](https://github.com/roboco-io/serverless-autoresearch)
     * [Serverless Autoresearch: Vibe Coding을 통한 서버리스 ML 실험 파이프라인 기록 :: ROBOCO](https://roboco.io/posts/serverless-autoresearch-vibe-coding)
     * SageMaker Spot으로 원본 대비 2.3배 빠르고 5~18배 저렴. HUGI 패턴으로 병렬 실험, 세대당 86% 개선 확률
+* [Awesome-Agent-Memory: LLM 및 멀티모달 AI 시스템의 메모리 메커니즘](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory)
 * [awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
+* [Awesome-AI-Memory: LLM/AI 에이전트 메모리 시스템 연구·프레임워크·구현체 정리](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)
+* [Awesome-GraphMemory: 그래프 기반 에이전트 메모리 리소스](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
+* [basic-memory: Persistent AI conversation system with local markdown knowledge base via MCP](https://github.com/basicmachines-co/basic-memory)
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
   * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
@@ -921,6 +929,8 @@ Artificial Intelligence
   * [Don’t Talk English to Your LLM. Just because LLMs are eloquent in… | by Rod Johnson | Oct, 2025 | Medium](https://medium.com/@springrod/dont-talk-english-to-your-llm-ecbfe954bea1)
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
+* [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
+  * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
 * [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
@@ -934,6 +944,8 @@ Artificial Intelligence
   * [Hermes는 어떻게 스스로 배워가는가: 코드로 뜯어본 Skill Self-Evolution Architecture](https://tmdgusya.github.io/devletter/posts/hermes-skill-self-evolution/)
     * [Hermes의 Skill 시스템 코드를 분석해봤습니다 | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_hermes%EC%9D%98-skill-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-self-evolution%EC%9D%B4%EB%9D%BC%EA%B3%A0-ugcPost-7448734487754088448-yz4l)
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
+* [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
+  * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
   * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
   * 프로덕션용 AI 에이전트 런타임 프레임워크. 자연어 목표 → 에이전트 그래프 자동 생성·실행·모니터링, 상태 관리·장애 복구·비용 통제·적응형 자기 개선
@@ -951,12 +963,16 @@ Artificial Intelligence
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
   * Open-source with MCP/SSE protocol integration
+* [memary: Open-source memory layer for autonomous agents](https://github.com/kingjulio8238/memary)
+  * 메모리 스트림, 지식 그래프, 엔티티 추적으로 인간형 메모리 구현
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
 * [MemOS: OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory](https://github.com/MemTensor/MemOS)
   * [INTELLIGENCE BEGINS WITH MEMORY](https://memos.openmem.net/)
   * [Introducing MemOS: Open-Source AI Memory Framework | Sumanth P posted on the topic | LinkedIn](https://www.linkedin.com/posts/sumanth077_memory-operating-system-for-ai-agents-memos-activity-7419359497284087808-heFj)
 * [MemPalace: AI memory system with palace metaphor for semantic retrieval](https://github.com/MemPalace/mempalace)
   * LongMemEval 96.6% 최고점. 요약 없이 원문 그대로 ChromaDB에 저장, 궁전 비유(Wing→Room→Hall→Drawer)로 계층적 구조화하여 검색 34% 향상. 지식 그래프(SQLite 시간 기반 엔티티), AAAK 손실 압축, MCP 통합(Claude/ChatGPT/Cursor/Gemini). MIT 오픈소스
+* [memsearch: Cross-platform semantic memory for AI coding agents](https://github.com/zilliztech/memsearch)
+  * Claude Code/OpenClaw 등 에이전트용 Milvus 벡터 DB 기반 하이브리드 검색
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
@@ -1038,8 +1054,12 @@ Artificial Intelligence
   * 멀티 에이전트 시스템을 위한 Byzantine fault-tolerant 합의 기반 검증 가능 기관 메모리 레이어. CometBFT 합의를 통해 에이전트가 지식을 축적, 검증, 공유
 * [safepilot: AI assistant that executes real work, safely](https://github.com/3DCF-Labs/safepilot)
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
+* [second-brain: LLM-based personal knowledge management](https://github.com/NicholasSpisak/second-brain)
+  * 원본 자료를 Obsidian 구조화 위키로 자동 변환. 엔티티·개념·교차참조 페이지 생성
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
+* [SimpleMem: Efficient long-term memory framework for LLM agents](https://github.com/aiming-lab/SimpleMem)
+  * 시맨틱 압축+효율적 검색. 텍스트·이미지·오디오·비디오 멀티모달 지원
 * [Sirchmunk](https://modelscope.github.io/sirchmunk-web/)
   * [sirchmunk](https://github.com/modelscope/sirchmunk)
   * 벡터 DB 없이 Monte Carlo 샘플링 + ReAct 에이전트로 원본 데이터에서 실시간 검색하는 에이전틱 검색 엔진. MCP, REST API, CLI, Web UI 지원
@@ -1047,6 +1067,8 @@ Artificial Intelligence
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
     * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
+* [sqlite-memory: SQLite extension for AI agent memory](https://github.com/sqliteai/sqlite-memory)
+  * 하이브리드 시맨틱 검색(벡터+FTS5), 마크다운 청킹, llama.cpp 로컬 임베딩, 오프라인 동기화
 * [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
   * 장기 메모리, 다중 LLM 프로바이더, 토큰 관리, 자기학습, Telegram 통합을 갖춘 자율 운영 AI 에이전트 스웜. Linux 24/7 운영 설계
 * [TinyFish - The web wasn't built for agents. We're fixing that](https://www.tinyfish.ai/)
@@ -1337,6 +1359,9 @@ Artificial Intelligence
   * [apfel - Mac에 이미 내장된 무료 AI를 활용하게 해주는 도구 | GeekNews](https://news.hada.io/topic?id=28178)
   * macOS 26+ FoundationModels.framework 기반. CLI·OpenAI 호환 HTTP 서버(포트 11434)·대화형 채팅. 100% 로컬, API 키 불필요, MCP 지원
 * [awesome-generative-ai-guide: A one stop repository for generative AI research updates, interview resources, notebooks and much more!](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+* [Awesome Open Source AI](https://awesomeosai.com/)
+  * [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
+  * 프로덕션 검증된 오픈소스 AI 모델·프레임워크·도구·인프라 큐레이션. DL 프레임워크, LLM, 추론 엔진, RAG, MLOps 등 포괄. 매일 업데이트
 * [awesome-vibecoding: A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between humans and AI is reshaping the future of programming](https://github.com/roboco-io/awesome-vibecoding)
   * [Vibe Coding 매뉴얼: AI 지원 개발을 위한 템플릿 :: ROBOCO](https://roboco.io/posts/vibe-coding-manual/)
   * [바이브 코딩 메뉴얼 - AI 에이전트를 활용한 더 빠르고 스마트한 개발](https://bcho.tistory.com/1467)
@@ -2549,6 +2574,9 @@ Artificial Intelligence
 * [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
 * [2026.04 Week 1 Five Trending Repos of the Week](https://codepointer.substack.com/p/202604-week-1-five-trending-repos)
   * Claude Code 툴링이 GitHub 트렌딩 지배. 에이전트 harness 플러그인, 스킬 레지스트리, 코드 분석 도구가 상위 100개 중 절반 차지
+* [The history and future of AI at Google, with Sundar Pichai | Stripe - YouTube](https://www.youtube.com/watch?v=bTA8sjgvA4c)
+  * [AI를 만든 사람들은 왜 구글에 있었을까요 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%99%9C-%EA%B5%AC%EA%B8%80%EC%97%90-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94-demis-hassabis-share-7449008523440701441-D21U)
+  * Transformer와 TPU가 순수 연구가 아닌 실제 제품 제약(번역 품질, 추론 효율)에서 탄생. 10억 유저 스케일이 연구 프론티어를 만들고, 문제가 인재를 끌어들임
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2912,6 +2940,7 @@ Artificial Intelligence
   * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
   * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
   * [LLM Knowledge Bases | DAIR.AI](https://academy.dair.ai/blog/llm-knowledge-bases-karpathy)
+    * [LLM Wiki | Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
     * Karpathy 방식: LLM을 컴파일러로 활용해 원시 문서→구조화된 마크다운 위키. Ingest→Compile→Query→Maintain 4단계. 벡터DB·RAG 없이 상호작용마다 지식 베이스 자동 성장
   * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
     * [LLM Wiki 입문 가이드 - YouTube](https://www.youtube.com/watch?v=S6w4g2OQlVQ)
@@ -3166,6 +3195,8 @@ Artificial Intelligence
 * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)
 * [Stop Using VS Code: Build your own Terminal Workstation That's Blazing Fast - YouTube](https://www.youtube.com/watch?v=owoXjPZ8N4Y)
+* [Claude Code를 이 5가지 에이전트 패턴과 함께 쓰면 훨씬 더 잘 작동합니다 - YouTube](https://www.youtube.com/watch?v=ufr6er69kLs)
+  * Sequential Flow, Split & Merge, Agent Teams, Operator(Git worktree 기반), Headless 모드 자동화 5가지 패턴
 * [병렬 에이전트 코딩, 이렇게 세팅합니다](https://maily.so/effy/posts/8mo54q84z9p)
   * Ghostty + tmux + OpenCode + lazygit + Git Worktree 기반 병렬 에이전트 코딩 환경. 에이전트는 코드 생성, 사람은 diff 리뷰. 워크트리로 세션 격리하여 진정한 병렬 개발
 * [My AI Adoption Journey | Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
@@ -3827,6 +3858,8 @@ Artificial Intelligence
   * [COps - Code agent Ops](https://github.com/team-attention/cops/)
     * [Create TanStack App - web](https://cops.team-attention.com/)
     * [Vercel의 Claude 사용 팀은 비-Claude 팀보다 7.6배 자주 배포합니다. 매주 14%씩 가속 중입니다. Vercel CEO Guillermo Rauch가 직접 공개한 프로덕션 데이터입니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentioncops-cops-code-activity-7427463952588034048-T-lC)
+  * [deep-project: Transform vague requirements into well-scoped planning units](https://github.com/piercelamb/deep-project)
+    * "Deep Trilogy" 1단계(/deep-project→/deep-plan→/deep-implement). 적응형 인터뷰→분할 분석→의존성 매핑→스펙 자동 생성. 대규모 프로젝트를 관리 가능한 컴포넌트로 분해
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [ECC Tools](https://ecc.tools/)
@@ -3871,6 +3904,8 @@ Artificial Intelligence
     * 6계층 요구사항 도출(Goal→Context→Decisions→Requirements→Scenarios→Tasks), spec.json 기반 결정론적 실행, 24 Skills + 21 Agents + 18 Hooks
   * [hwp2md: HWP(한글 워드프로세서) 문서를 Markdown으로 변환하는 도구](https://github.com/roboco-io/hwp2md/tree/main)
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
+  * [ii-queue-runner: Self-hosted GitHub Actions on Apple Silicon with AI agent triggers](https://github.com/intelligent-iterations/ii-queue-runner)
+    * Apple Silicon Mac에서 Tart VM 기반 셀프호스트 GitHub Actions. @claude/@codex 멘션으로 AI 에이전트 트리거, 동적 작업 프로필, 유휴 자원 제로
   * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
     * Claude Code CLI용 자동 루프 드라이버, 슬래시 명령어, 카운실 자동화, MCP 브라우저 브릿지, 포트폴리오 거버넌스 통합 도구 모음
   * [language-skills](https://github.com/tmdgusya/language-skills)
