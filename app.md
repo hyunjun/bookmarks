@@ -2742,7 +2742,8 @@ App
     * [벡터DB 없는 RAG를 만들어봤습니다 — Obsidian + Claude Code | WikiDocs](https://wikidocs.net/289873)
     * 벡터DB·임베딩 없이 마크다운+LLM만으로 개인 지식 베이스 구축. Clip(수집)→Compile(정리)→Query(질의)→Audit(점검) 4단계. 마스터 인덱스→토픽 인덱스→관련 문서 1-3개 탐색, 쿼리 결과를 새 위키 문서로 자기성장. 5,000문서 이하 개인/소규모 팀용
   * [obsidian-skills: Agent skills for Obsidian (Markdown, Bases, JSON Canvas, CLI)](https://github.com/kepano/obsidian-skills/)
-    * Claude Code, Codex CLI 등 스킬 호환 에이전트에서 사용 가능한 Obsidian 스킬 모음. 마크다운, Bases, Canvas, CLI 지원
+    * [Obsidian CLI + Claude Code로 20+ 프로젝트 관리 | 배수정](https://www.linkedin.com/posts/crystal0224_obsidian-cli-obsidian-help-share-7443117177697832960-4msv)
+    * Obsidian 창시자 Steph Ango의 스킬 모음. obsidian-cli(노트·검색·태그), obsidian-markdown(위키링크·콜아웃·속성), obsidian-bases(DB), json-canvas(비주얼 캔버스), defuddle(웹→마크다운). Obsidian 1.12+ CLI 활성화 후 3줄 설치
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
