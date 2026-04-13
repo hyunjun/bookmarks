@@ -40,6 +40,9 @@ Science
 * [카멜레온 변신 방법의 비밀을 과학이 알아내다](http://www.huffingtonpost.kr/2015/03/13/story_n_6860972.html) 나노 수정체
 * [전투기보다 빠른 카멜레온의 혀놀림을 슬로모션으로 보라](http://www.huffingtonpost.kr/2015/03/26/story_n_6952798.html)
 * [완전히 기억을 복구하는 알츠하이머 치료, 쥐 실험 성공](http://www.huffingtonpost.kr/2015/03/30/story_n_6966798.html)
+* [Peripheral cancer attenuates amyloid pathology in Alzheimer's disease via cystatin-c activation of TREM2 | Cell](https://pubmed.ncbi.nlm.nih.gov/41576952/)
+  * [암 환자는 왜 치매가 드물까?…연구 15년 만에 단서 찾았다 | 한겨레](https://www.hani.co.kr/arti/science/science_general/1243409.html)
+  * 암 환자에서 알츠하이머 발병률이 낮은 역학적 관찰의 메커니즘 규명. 악성 종양이 분비하는 시스타틴-C가 아밀로이드 올리고머와 결합, TREM2 수용체를 활성화하여 뇌 면역세포가 기존 아밀로이드 플라크를 제거
 * [African elephants facing 'extinction,' Botswana summit hears](http://www.dw.de/african-elephants-facing-extinction-botswana-summit-hears/a-18334896)
 * [Defending Darwin](https://orionmagazine.org/article/defending-darwin/)
 * 사올라
