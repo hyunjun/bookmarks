@@ -2349,6 +2349,8 @@ App
   * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
+* [Durdraw - ANSI, ASCII and Unicode Art Animation Studio for Linux](https://durdraw.org/)
+  * [durdraw: Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes](https://github.com/cmang/durdraw/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
   * [Ecamm Live - Powerful Live Streaming Platform for Mac](https://www.ecamm.com/)
 * [ente: Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos](https://github.com/ente-io/ente)
