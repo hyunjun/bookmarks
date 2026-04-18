@@ -170,3 +170,4 @@ Religion
 * [이슬람 이야기 <2>](http://www.ddanzi.com/ddanziNews/3037600)
 * [이슬람 이야기 <3>](http://www.ddanzi.com/ddanziNews/3074330)
 * [이슬람 이야기 <4>](http://www.ddanzi.com/ddanziNews/3111445)
+* [순니파였던 이란, 왜 시아파가 됐을까? (박현도X알파고)ㅣ10분 토론 / 14F - YouTube](https://www.youtube.com/watch?v=FZAm7qwRYpw)
