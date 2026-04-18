@@ -4188,6 +4188,8 @@ Python
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [pymobiledevice3: Pure Python 3 implementation for working with iOS devices](https://github.com/doronz88/pymobiledevice3)
+  * iOS 디바이스 제어 Python 라이브러리. 디바이스 검색, TCP 포워딩, 시스템 로그 스트리밍, 앱/프로파일 관리, AFC 파일 접근, 크래시 리포트, 패킷 캡처, 펌웨어 업데이트, WebInspector 자동화. Windows/Linux/macOS
 * [Pymunk - a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python](http://www.pymunk.org)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
