@@ -3899,6 +3899,8 @@ NLP
   * [Qwen3.6](https://qwen.ai/blog?id=qwen3.6)
     * [Qwen3.6-Plus 기술 업데이트 핵심 정리: 에이전트 코딩과 멀티모달 AI의 실제 활용 단계 진입](https://digitalbourgeois.tistory.com/2947)
     * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
+    * [뉴런데브 - 경악스러운 Qwen 3.6 35B 성능 | YouTube](https://www.youtube.com/post/UgkxncuNbJtpUHKrJmi4l9xRmE1iDFfYMcL6)
+      * Qwen3 coder next 80B 능가. Unsloth UD-IQ3_XXS(13.2GB, VRAM 16GB), UD-IQ4_LN(18GB, 24GB 3090) 추천. 3090에서 초당 100토큰, 맥미니 M4에서 45-55토큰. 에이전트 도구호출 뛰어남
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
