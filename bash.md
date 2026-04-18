@@ -166,6 +166,7 @@ Shell
   * [Oil - 새로운 Unix 쉘 | GeekNews](https://news.hada.io/topic?id=5408)
 * [only-stackoverflow: 구글, 덕덕고 검색에서 stackoverflow 짝퉁 사이트 숨기기 (Adblock, adguard, uBlock Origin, etc...)](https://github.com/RyuaNerin/only-stackoverflow)
 * osh [Four Features That Justify a New Unix Shell](http://www.oilshell.org/blog/2020/10/osh-features.html)
+* [pure-bash-bible: 📖 A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810)

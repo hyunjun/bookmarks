@@ -825,6 +825,7 @@ Linux
 * `mv`
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
   * [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)
+  * [advcpmv: A patch for GNU Core Utilities cp, mv to add progress bars](https://github.com/jarun/advcpmv)
 * `nc`
 
   ```
@@ -1387,6 +1388,7 @@ Linux
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [Edit text on Linux with KWrite and Kate | Opensource.com](https://opensource.com/article/22/2/edit-text-linux-kde)
 * [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](https://sunyzero.tistory.com/300)
+* [Oddly useful Linux tools you probably haven't seen before - YouTube](https://www.youtube.com/watch?v=32O0a6qCQaQ)
 * [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
   * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [aaPanel: Simple but Powerful web-based Control Panel](https://github.com/aaPanel/aaPanel)
@@ -1557,11 +1559,13 @@ Linux
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
   * [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
+* [webcamize: Use (almost) any camera as a webcam](https://github.com/cowtoolz/webcamize)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
 * [WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
   * [리눅스에서 윈도우 앱을 매끄럽게 실행하는 WinBoat | GeekNews](https://news.hada.io/topic?id=23549)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
+* [Xephyr - ArchWiki](https://wiki.archlinux.org/title/Xephyr)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * Xterm [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)

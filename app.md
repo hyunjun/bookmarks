@@ -95,6 +95,8 @@ App
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
 * [Dub - The Modern Link Attribution Platform](https://dub.co/) url shortner
+* [dysk: A linux utility to get information on filesystems, like df but better](https://github.com/Canop/dysk)
+  * [Overview - dysk](https://dystroy.org/dysk/)
 * [Ebook Reader for web](https://www.loudreader.com/)
 * [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
@@ -3272,7 +3274,6 @@ App
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 * [winget.run | Finding winget packages made simple](https://winget.run/)
 * [WingetUI: WingetUI: A better UI for your package managers](https://github.com/marticliment/WingetUI)
-* [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winstall - GUI for Windows Package Manager](https://winstall.app/)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
