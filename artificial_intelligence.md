@@ -4460,6 +4460,10 @@ Artificial Intelligence
   * [The Hidden Cost of AI: Tokens, Compute, and What You're Actually Paying For With OpenClaw | Darren Broemmer](https://darren-broemmer.medium.com/the-hidden-cost-of-ai-tokens-compute-and-what-youre-actually-paying-for-with-openclaw-8de72569bf72)
   * [OpenClaw Productivity Secret: AGENTS.md 해부 :: ROBOCO](https://roboco.io/posts/openclaw-agents-md-productivity-secrets/)
     * 1명 개발자가 8개 AI 에이전트로 월 6,600커밋. 215줄 AGENTS.md 운영 계약의 7대 원칙: 인지 매핑, 경계 강제, 빌드 게이트, 멀티에이전트 안전, 코딩 표준, 스킬 캡슐화, 보안 체크포인트
+  * [Run OpenClaw and Claude Code on Android | Full Linux GPU Acceleration | Termux Tutorial 2026 - YouTube](https://www.youtube.com/watch?v=e-36kjmMJA4)
+    * [Turned Android Phone Into a Full AI Coding Machine - FREE (No PC, No Root, No API ) | Claude Code - YouTube](https://www.youtube.com/watch?v=zFI-Vb2bvSY)
+    * [OpenClaudeLinux](https://github.com/AbuZar-Ansarii/OpenClaudeLinux)
+    * [Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.termux/)
   * [Apex — Your Digital Twin](https://apex.host/)
     * 자율 AI 에이전트 플랫폼. 이메일·캘린더·콘텐츠·비즈니스 모니터링을 24/7 자동화. 셀프 호스팅, Slack/WhatsApp 통합
   * [awesome-openclaw-agents: 187 production-ready AI agent templates for OpenClaw](https://github.com/mergisi/awesome-openclaw-agents)
