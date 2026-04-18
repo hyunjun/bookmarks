@@ -426,6 +426,9 @@ Hardware
 * ["Raspberry Pi"를 네트워크 저장 서버로 전환하는 방법 - YouTube](https://www.youtube.com/watch?v=Shn8kkq9HYw) NAS
 * [라즈베리파이로 만드는 무소음 초저전력 NAS! (OMV 설치) - YouTube](https://www.youtube.com/watch?v=Jdk4t_JkbLw)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
+* [bee-write-back: Raspberry Pi WriterDeck for journaling with Claude AI](https://github.com/shmimel/bee-write-back)
+  * [bee write back Build Guide - YouTube](https://www.youtube.com/watch?v=JutsTp7yeNU)
+  * 3D 프린팅 케이스+Raspberry Pi 기반 저널링 디바이스. 터미널/Claude 채팅/저널링 3가지 모드, ~$200 제작 비용. CAD(STEP/STL) 오픈소스
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
