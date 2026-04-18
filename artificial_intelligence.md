@@ -3605,6 +3605,8 @@ Artificial Intelligence
       * 5개 로컬+5-10개 웹 세션 병렬 운영, Git 워크트리 활용. 공유 CLAUDE.md로 팀 학습 축적, Plan 모드→자동 실행 전환, 검증 피드백 루프로 품질 2~3배 향상. 별도 커스터마이징 없이 기본 설정으로 충분하다고 강조
   * [Stop Burning Claude Code Tokens](https://brewinvaz.substack.com/p/stop-burning-claude-code-tokens)
     * 30만+ 도구 호출 분석. 출력 토큰(narration)이 최대 비용 원인. CLAUDE.md에 anti-narration 규칙 추가, 세션 20~30턴 유지, 파일 읽기 최적화, 비피크 시간대 활용 권장
+  * [Token count change due to Claude’s tokenizer update | cometkim](https://gist.github.com/cometkim/f5b382e9f69b3a35513ce66725b0e42e)
+    * Opus 4.6→4.7 토크나이저 변경으로 토큰 수 1.3~1.7배 증가. 이미지 최대 3배, 시스템 프롬프트 1.67배, 텍스트/코드/CJK 1.2~1.3배
   * [Claude ‘구독형’ 요금제가 API보다 최대 36배 저렴한 이유와 ‘Max 5x’가 진 | GeekNews](https://news.hada.io/topic?id=26256)
   * [Anthropic 해커톤 우승자가 공유한 Claude Code 실전 팁 70가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3607/)
     * [Claude_Code_완전_가이드_70가지_팁.pdf - Google Drive](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
