@@ -125,6 +125,9 @@ Time Series
   * [iSAX: Indexing and Mining Terabyte Sized Time Series](http://www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [Kapacitor - Open source framework for processing, monitoring, and alerting on time series data](https://github.com/influxdb/kapacitor)
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
+* [Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2508.02739)
+  * [Kronos](https://github.com/shiyu-coder/Kronos)
+  * 금융 캔들스틱(K-line) 특화 파운데이션 모델. 45+ 글로벌 거래소, 120억 K-line 레코드로 학습. 가격 예측 RankIC 93% 향상, 변동성 예측 MAE 9% 감소. 4.1M~499.2M 파라미터 4종, Qlib 백테스팅 통합. MIT
 * [M3 - The fully open source metrics platform built on M3DB, a distributed timeseries database](https://www.m3db.io/)
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
 * [Merlion: Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/merlion) 시계열 예측, 이상치 탐지, Salesforce
