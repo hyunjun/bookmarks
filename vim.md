@@ -18,6 +18,8 @@ Vim
 * [(05/30) "Vim 도대체 왜 쓰는가" 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=LckoVnyWkX0)
 * [8 Vim Tricks That Will Take You From Beginner to Expert | by Tyler Lum | The Startup | Medium](https://medium.com/swlh/8-vim-tricks-that-will-take-you-from-beginner-to-expert-817ff4870245)
 * [7 Surprising Vim Tricks That Will Save You Hours | by Tyler Lum | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
+* [really useful vim tricks you've probably never seen - YouTube](https://www.youtube.com/watch?v=pyV3SEIWsKQ)
+  * Vim 내에서 셸 명령 조합 활용. `!date`로 날짜 삽입, `!sort`/`!uniq`으로 정렬·중복 제거, `!column -t`로 테이블 정렬, `!wc`로 단어/문자 수 세기, `%r !command`로 명령 출력 삽입. 셸 명령과 Vim을 결합하면 Vim 자체 기능 외우는 것보다 빠름
 * [au VimEnter * call Bye2023() | au VimEnter](https://au-vimenter.github.io/post/2023-12-23-au-vimenter/)
 * `:g/.*/m0` [vi로 파일 역순출력](https://pgclks.tistory.com/240)
 * buffers
