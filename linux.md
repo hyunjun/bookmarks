@@ -890,6 +890,8 @@ Linux
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+    * [extremely cool shell trick I did not know about - YouTube](https://www.youtube.com/watch?v=2A4bs40scSo)
+      * Process Substitution(`<(cmd)`, `>(cmd)`) 실전 활용. 명령어 출력을 /proc 임시 파일로 만들어 파일 경로를 요구하는 프로그램에 전달. `diff <(sort f1) <(sort f2)` 임시 파일 없이 비교, `tar cf >(ssh server 'tar xf -') dir/` 로컬 아카이브 없이 원격 전송, stdout/stderr 동시 분리 등. 파이프와 달리 실제 파일 경로 제공
   * [Monitor your Linux system in your terminal with procps-ng | Opensource.com](https://opensource.com/article/21/8/linux-procps-ng) ps and pstree, pidof, pgrep
   * [10 Example of ps -ef command in Linux and UNIX | Java67](https://www.java67.com/2020/03/10-ways-to-use-ps-command-in-linux.html)
   * [10 Examples of ps command in Linux | Java67](https://www.java67.com/2022/08/10-examples-of-ps-command-in-linux.html)
