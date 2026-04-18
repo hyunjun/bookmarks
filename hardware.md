@@ -89,6 +89,8 @@ Hardware
 * [홈랩 프로젝트#2: 현재 운영중인 장비와 구조 | Write the code. Change the world.](https://kyoungwon.me/homelab/2024/09/14/home-lab-devices/)
 * [230708 방구석 팜(스마트팜) 구축기 - 강성욱 · Present](https://present.do/documents/64aa897810ab9a5ae55bae90)
 * [미니 PC로 홈서버 운영하기 | GeekNews](https://news.hada.io/topic?id=18667)
+* [Turning an Old Laptop into a Home Server! (2026) - YouTube](https://www.youtube.com/watch?v=46T4cDQBkDs)
+  * [CasaOS - A simple, easy-to-use, elegant open-source personal cloud system](https://casaos.zimaspace.com/)
 * [Firmware Command Injection을 알아보자! : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/376)
 * [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
 * [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/2392)
