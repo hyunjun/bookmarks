@@ -1720,6 +1720,7 @@ Linux
   * [Tmux Cheat Sheet](https://tmux.thijsverreck.com/)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+  * [Make tmux BEAUTIFUL by doing this - YouTube](https://www.youtube.com/shorts/PL1EoKjy4iM)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [workmux: git worktrees + tmux windows for zero-friction parallel dev](https://github.com/raine/workmux)
