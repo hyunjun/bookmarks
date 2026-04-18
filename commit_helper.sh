@@ -1,18 +1,31 @@
 #!/bin/sh
-FILENAMES="$@"
-PYTHON3=`which python3`
+AMEND=""
+FILENAMES=()
+for arg in "$@"; do
+  if [ "$arg" = "--amend" ]; then
+    AMEND="--amend"
+  else
+    FILENAMES+=("$arg")
+  fi
+done
+PYTHON3=$(which python3)
 
-if [ 0 = '${#FILENAMES}' ]; then
+if [ ${#FILENAMES[@]} -eq 0 ]; then
   exit 1
 fi
 
-for FILENAME in $FILENAMES
+for FILENAME in "${FILENAMES[@]}"
 do
-  echo $f
-  cat $FILENAME | sed -e 's/	/  /g' > $FILENAME.tmp
-  mv $FILENAME.tmp $FILENAME
+  echo "$FILENAME"
+  sed -i '' 's/	/  /g' "$FILENAME"
 done
-#git diff $FILENAMES | grep '^[+-][ ]\{0,\}[#\*]\{1,\}[ ]\{0,\}[^+]' | sed -e 's/\](/ /' | sed -e 's/)$//' | sed -e 's/\/$//' | pbcopy
-git diff $FILENAMES | grep '^[+-][ ]\{0,\}[#\*]\{1,\}[ ]\{0,\}[^+]' | $PYTHON3 replace_commit_message.py | pbcopy
-git add $FILENAMES
-git commit
+
+if [ -n "$AMEND" ]; then
+  # amend: diff between HEAD~1 and current working tree
+  git diff HEAD~1 -- "${FILENAMES[@]}" | grep '^[+-][ ]\{0,\}[#\*]\{1,\}[ ]\{0,\}[^+]' | $PYTHON3 replace_commit_message.py | pbcopy
+else
+  git diff -- "${FILENAMES[@]}" | grep '^[+-][ ]\{0,\}[#\*]\{1,\}[ ]\{0,\}[^+]' | $PYTHON3 replace_commit_message.py | pbcopy
+fi
+
+git add "${FILENAMES[@]}"
+git commit $AMEND
