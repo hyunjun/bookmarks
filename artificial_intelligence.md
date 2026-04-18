@@ -3709,6 +3709,9 @@ Artificial Intelligence
       * Claude Code TIP 대방출: /statusline 셋팅으로 ccuseage를 Claude Code Statusline 추가해서 보기
   * [cc-plugins: Collection of Claude Code plugins for various domains - Auth0 security, MFA, token security, compliance](https://github.com/modu-ai/cc-plugins)
     * [astory-blog-writers 완벽 가이드: DNA 기반 하이브리드 저자 시스템과 7인 협업 Crew Mode | DevBlog](https://goos.kim/ko/blog/astory-hybrid-author-system)
+  * [cc-token-saver: Claude Code plugin for token and cost management](https://github.com/ww-w-ai/cc-token-saver)
+    * [cc-token-saver | taekim34](https://www.linkedin.com/posts/taekim34_github-ww-w-aicc-token-saver-claude-code-activity-7450806231449079808-Tekn)
+    * 캐시 만료 감지→재전송 차단($9/건 절약), SubTask 자동 위임(캐시 쓰기 37.5% 절감), /continue로 제로 토큰 세션 복원, 실시간 상태바, 23개 언어 대시보드, 레이트 리밋 역공학 데이터 수집
   * [cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio)
   * [ClaudeAgents: Agents I've created with and for Claude Code](https://github.com/lelandg/ClaudeAgents)
   * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP.](https://github.com/kyopark2014/claude-agent)
