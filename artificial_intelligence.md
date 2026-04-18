@@ -537,7 +537,7 @@ Artificial Intelligence
 * [The Next 10 Years Will Be About the AI Agent Economy](https://www.nfx.com/post/ai-agent-marketplaces)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
 * [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
-* [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent)
+* [How to Build an Agent - Amp](https://ampcode.com/notes/how-to-build-an-agent)
 * [JobKorea LOOP 에이전트 개발기: 1. 에이전트 개론 | by Seongtae Kim | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%A1%A0-6f2ec241d394)
 * [JobKorea LOOP 에이전트 개발기: 2.LOOP Reasoning Engine | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-loop-reasoning-engine-c53b8c69b1d4)
 * [JobKorea LOOP 에이전트 개발기: 3. 잡코리아 정보 검색 에이전트 | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84-%EC%A0%95%EB%B3%B4-%EA%B2%80%EC%83%89-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-a938ca92066d)
