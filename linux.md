@@ -1476,6 +1476,8 @@ Linux
   * [Ngrok & Localtunnel 사용](https://velog.io/@dntjd7701/Ngrok-%EC%82%AC%EC%9A%A9)
 * [LSD (LSDeluxe) The next gen ls command](https://github.com/Peltoche/lsd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
+* [Magika: Fast and accurate AI powered file content types detection](https://github.com/google/magika)
+  * Google의 딥러닝 기반 파일 타입 감지. ~수MB 모델로 5ms 추론, 200+ 콘텐츠 타입, ~99% 정확도. Rust CLI/Python/JS 지원. Gmail·Drive·Safe Browsing에서 주당 수천억 샘플 처리 중
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [Material Shell - A new desktop experience](https://material-shell.com/#material-shell)
 * [minimodem - general-purpose software audio FSK modem](http://www.whence.com/minimodem/)
