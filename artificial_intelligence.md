@@ -3652,6 +3652,9 @@ Artificial Intelligence
   * [Anthropic AI 에이전트 워크플로우 패턴: 작업 분해, 병렬 처리, 평가 구조 분리 | 임근영](https://www.linkedin.com/posts/keunyoung0924_claude-ai-activity-7435478224077275136-uVF6)
   * [10 CLI Tools I'm using alongside Claude Code | Starmorph AI - YouTube](https://www.youtube.com/watch?v=3NzCBIcIqD0)
     * LazyGit(실시간 git 변경 모니터링), Glow(CLI 마크다운 리더), LLM Fit(로컬 하드웨어에 맞는 모델 추천), Models CLI(프로바이더별 가격/벤치마크 비교), Zoxide(퍼지 디렉토리 점프), Btop(시스템 모니터링), eza(ls 대체), Ranger(터미널 파일 탐색기) 등
+  * [Using Claude Code: session management and 1M context | Claude](https://claude.com/blog/using-claude-code-session-management-and-1m-context)
+    * [임백호 - 클로드 본사 엔지니어, 타리크의 클로드 도구 활용 꿀팁 | Facebook](https://www.facebook.com/100ho/posts/pfbid0nB3hy4BGiJxioyPESACL8YWYn8veL2cU8HF7U9WvXfok5M3YVMjcJ98mnnNVwjwMl)
+    * 1M 토큰 컨텍스트 윈도우 효과적 관리 가이드. /rewind /compact /clear /subagent context rot(무관한 정보 축적으로 성능 저하) 방지
   * [Claude Code의 컨텍스트 윈도우, 왜 30분이면 바닥나는가 - Context Mode의 원리와 효과](https://www.fullstackfamily.com/@urstory/posts/13992/Claude-Code%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%99%9C-30%EB%B6%84%EC%9D%B4%EB%A9%B4-%EB%B0%94%EB%8B%A5%EB%82%98%EB%8A%94%EA%B0%80-Context-Mode%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%9A%A8%EA%B3%BC)
     * MCP 도구 출력이 컨텍스트에 영구 축적되어 ~30분 후 성능 저하. Context Mode는 도구 출력을 샌드박스에서 처리 후 필요한 결과만 반환하여 98% 압축, 세션 지속 시간 30분→3시간으로 연장
     * [AI Agents KR | Claude Code 컨텍스트 소비 98% 절감, Context Mode MCP 서버로 세션 6배 확장하는 방법 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27040012425587833/)
