@@ -133,6 +133,7 @@ Sports
   * IT회사의 일하는 방법과 매우 유사
   * 모든 레벨이 같은 정의를 사용하고 어느 시기에 사용할지 통일, 즉 alignment를 한다는 게 인상적
 * [다저스는 본래 야마모토가 탐탁지 않았다 | 백종인](https://v.daum.net/v/WZ7SnDRfRk)
+* [일반인이 천재를 따라잡기 위해 만들어낸 방법 ‘타격 메커니즘’ - YouTube](https://www.youtube.com/watch?v=-g3YST7BNBg)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
