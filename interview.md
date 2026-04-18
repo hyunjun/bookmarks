@@ -364,43 +364,19 @@ Interview
 * [Top 30 Apple Coding Interview Questions (With Solutions) | by The Educative Team | Better Programming](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
 
 # Architecture, System Design
-* [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
-  * [System Design | HiredInTech](https://www.hiredintech.com/system-design/)
-* [The System Design Primer](https://github.com/donnemartin/system-design-primer) 기본 component와 문제, 그 외 여러가지 주제들에 대한 links
-  * [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md)
-* [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
-* [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
-* [system-design: Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
-* [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
-* [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [Is Grokking Advanced System Design Interview on Educative worth it? Review | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/is-grokking-advanced-system-design-interview-on-educative-worth-it-review-d0be0148c9f0)
 * [Is Grokking System Design Fundamentals on DesignGuru.io Worth It? Review | by javinpaul | Javarevisited | Apr, 2024 | Medium](https://medium.com/javarevisited/is-grokking-system-design-fundamentals-on-designguru-io-worth-it-review-2ea2188699f1)
-* [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
-  * [bytebytego](https://github.com/alex-xu-system/bytebytego)
-  * [(1) Free System Design PDF (158 pages) - by Alex Xu](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
-  * [Algorithms you should know before you take system design interviews](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7131174125871493120-c8Ut/)
-  * [System Design Blueprint: The Ultimate Guide](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7192549898838319104-8gGx)
-* [System Design Practice Problems | LeetDesign](https://leetdesign.com/)
-* [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
-* [System Design: Fundamentals - by Ravi Tandon](https://ravisystemdesign.substack.com/p/system-design-fundamentals)
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
-* [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
-* [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com ](https://github.com/binhnguyennus/awesome-scalability)
-* [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/)
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
   * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 * [Horizontal vs Vertical Scaling | System Design | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=QUlBh64vdH8)
-* [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
 * [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
 * [System Design Interview Prep | Twitter](https://www.youtube.com/watch?v=LghAWi4H974)
 * [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 * [Systems Design Study Plan - Google Docs](https://docs.google.com/document/d/1rkocmMNpQarD07jn6LTJaRoGvyKQpUSF7_Lbn_9ngSk/edit)
-* [System Design : The Algorists](https://systemsdesign.cloud/)
-* [system-design-resources: These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)
-  * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
 * [System Design - Low Level - YouTube](https://www.youtube.com/playlist?list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
 * [**Crack the System Design Interview - TianPan.co**](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 * [System Design Series' Articles - DEV Community 👩💻👨💻](https://dev.to/karanpratapsingh/series/19332)
@@ -409,9 +385,59 @@ Interview
 * [20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
 * [10 Reasons to Learn System Design in 2024 | by javinpaul | Javarevisited | Jan, 2024 | Medium](https://medium.com/javarevisited/10-reasons-to-learn-system-design-in-2024-fa795d301f62)
 * [🌟 Mastering System Design: A Comprehensive Guide | LinkedIn](https://www.linkedin.com/pulse/mastering-system-design-comprehensive-guide-karan-rana-abglf/)
-* [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview)
 * [6 System Design Interview Problems for Practice - DEV Community](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
 * [Top 5 Courses to Crack FAANG or MAANG Interviews in 2024 | by javinpaul | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/top-5-courses-to-crack-faang-or-maang-interviews-in-2024-16465102edc8)
+* [프론트엔드 백엔드 데이터베이스 전체를 20분만에 보이게 해드립니다. | 바이브코딩 - YouTube](https://www.youtube.com/watch?v=l5z6UNa-ons)
+* [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
+* [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
+  * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
+* [What You Need To Make Your App a High Availability System: Tackling The Technical Challenges | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/what-you-need-to-make-your-app-a-high-availability-system-tackling-the-technical-challenges-8896abec363f)
+* [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
+  * reverse proxy, dynamic service discovery - service registry, heartbeat
+* [System Design — Backend for Google Photos | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36)
+* [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
+* [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
+* [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
+* [Rapid Event Notification System at Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
+* [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
+* [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
+* [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+* [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
+* [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
+* [Ace the System Design Interview — Distributed ID Generator | by Zixuan Zhang | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027)
+* [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
+* ["System Design Interview Questions with solution A thread 🧵 1. How to implement a non-blocking Queue https://t.co/5fGUnyKaN3" / Twitter](https://twitter.com/javarevisited/status/1552286870813298689)
+* [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
+* [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
+* [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
+  * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+  * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+* [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
+* [What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
+* [System design basics: Real-time data processing](https://www.youtube.com/watch?v=dZ3swmtR1As)
+* [System design basics: What is asynchronous processing?](https://www.youtube.com/watch?v=BFcNDPt6SlE)
+* [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
+* [BOJ 10 YEARS](https://startlink.blog/category/스타트링크/baekjoon-online-judge/boj-10-years/) BOJ 사이트의 구조 변경 이야기
+* [**리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기**](https://www.ridicorp.com/blog/2016/09/02/idc-outage/) 전자책 업체의 실제 시스템 구조를 볼 수 있음
+* [1억명 랭킹 실시간 처리 테스트하기](https://blog.ifunfactory.com/2018/07/02/5290/) MySQL + Redis
+* [Interview: System/API design](https://stackoverflow.com/questions/14061381/interview-system-api-design)
+* [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
+* [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
+* [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
+* [Back-of-the-envelope Calculations - byte-by-byte](https://byte-by-byte.wistia.com/medias/19dr9infcj?wvideo=19dr9infcj)
+* [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
+* [Giving back - how I cleared L6 System Design - Part 1 - Blind](https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-System-Design---Part-1-4yufM3RY)
+* [Giving back - how I cleared L6 System Design - Part 2 - Blind](https://www.teamblind.com/post/rBrt5bV8)
+* [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
+* [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
+* [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
+* [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
+* [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
+* [How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
+* [모든 개발자가 시스템 디자인을 배워야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1745/)
+* [How does gRPC work?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6995426338186665985-ib1-/)
+* [사용량 기반 과금 모델 구현하기: 문제편](https://channel.io/ko/blog/bm-update-problem)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
@@ -667,20 +693,6 @@ Interview
   * [System Design Using Bloom Filter | What is Bloom Filter | Data Structure - YouTube](https://www.youtube.com/watch?v=hFMuWNscjyI)
   * [Payment Gateway System Design | Payment Processing | System Design - YouTube](https://www.youtube.com/watch?v=NxjGFIgFCbg)
   * [Google system design interview: Design Spotify (with ex-Google EM) - YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
-* [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
-* [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
-* [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
-  * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
-* [What You Need To Make Your App a High Availability System: Tackling The Technical Challenges | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/what-you-need-to-make-your-app-a-high-availability-system-tackling-the-technical-challenges-8896abec363f)
-* [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
-  * reverse proxy, dynamic service discovery - service registry, heartbeat
-* [System Design — Backend for Google Photos | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36)
-* [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
-* [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
-* [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
-* [Rapid Event Notification System at Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
-* [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
-* [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
 * Consistent Hashing
   * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
   * [Amazon Interview question: Learn hashing and consistent hash ring](https://www.youtube.com/watch?v=bBK_So1u9ew0)
@@ -709,49 +721,36 @@ Interview
   * [8 Load Balancing Algorithms You Must Know for System Design Interview | by Soma | Javarevisited | Jul, 2024 | Medium](https://medium.com/javarevisited/8-load-balancing-algorithms-you-must-know-for-system-design-interview-bc0d1440ed42)
   * [Dropbox의 자체 로드 밸런싱 서비스 Robinhood | GeekNews](https://news.hada.io/topic?id=17525)
     * [What’s new with Robinhood, our in-house load balancing service - Dropbox](https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service)
-* [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
-* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
-* [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
-* [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
-* [Ace the System Design Interview — Distributed ID Generator | by Zixuan Zhang | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027)
-* [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
-* ["System Design Interview Questions with solution A thread 🧵 1. How to implement a non-blocking Queue https://t.co/5fGUnyKaN3" / Twitter](https://twitter.com/javarevisited/status/1552286870813298689)
-* [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
-* [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
-* [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
-  * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
-  * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
-* [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
-* [What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
-* [System design basics: Real-time data processing](https://www.youtube.com/watch?v=dZ3swmtR1As)
-* [System design basics: What is asynchronous processing?](https://www.youtube.com/watch?v=BFcNDPt6SlE)
-* [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
-* [BOJ 10 YEARS](https://startlink.blog/category/스타트링크/baekjoon-online-judge/boj-10-years/) BOJ 사이트의 구조 변경 이야기
-* [**리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기**](https://www.ridicorp.com/blog/2016/09/02/idc-outage/) 전자책 업체의 실제 시스템 구조를 볼 수 있음
-* [1억명 랭킹 실시간 처리 테스트하기](https://blog.ifunfactory.com/2018/07/02/5290/) MySQL + Redis
-* [Interview: System/API design](https://stackoverflow.com/questions/14061381/interview-system-api-design)
-* [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
-* [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
-* [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
-* [Back-of-the-envelope Calculations - byte-by-byte](https://byte-by-byte.wistia.com/medias/19dr9infcj?wvideo=19dr9infcj)
-* [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
-* [Giving back - how I cleared L6 System Design - Part 1 - Blind](https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-System-Design---Part-1-4yufM3RY)
-* [Giving back - how I cleared L6 System Design - Part 2 - Blind](https://www.teamblind.com/post/rBrt5bV8)
-* [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
-* [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
-* [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
-* [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
-* [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
-* [How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
-* [모든 개발자가 시스템 디자인을 배워야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1745/)
-* [How does gRPC work?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6995426338186665985-ib1-/)
-* [사용량 기반 과금 모델 구현하기: 문제편](https://channel.io/ko/blog/bm-update-problem)
 * [**awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems**](https://github.com/binhnguyennus/awesome-scalability)
+* [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
+  * [bytebytego](https://github.com/alex-xu-system/bytebytego)
+  * [(1) Free System Design PDF (158 pages) - by Alex Xu](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+  * [Algorithms you should know before you take system design interviews](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7131174125871493120-c8Ut/)
+  * [System Design Blueprint: The Ultimate Guide](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7192549898838319104-8gGx)
+* [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
+* [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
+* [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
+* [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
+* [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/)
+* [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
+* [System Design : The Algorists](https://systemsdesign.cloud/)
+* [System Design: Fundamentals - by Ravi Tandon](https://ravisystemdesign.substack.com/p/system-design-fundamentals)
+* [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
+* [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
+* [system-design: Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)
   * [System Design Fight Club - YouTube](https://www.youtube.com/@SDFC)
+* [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview)
 * [system-design-notes](https://github.com/liquidslr/system-design-notes)
   * [Pagefy - System Design Notes](https://pagefy.io/)
+* [System Design Practice Problems | LeetDesign](https://leetdesign.com/)
+* [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer) 기본 component와 문제, 그 외 여러가지 주제들에 대한 links
+  * [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md)
+* [system-design-resources: These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)
+  * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
 * [system-design-visualizer: An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI](https://github.com/mallahyari/system-design-visualizer)
+  * [System Design | HiredInTech](https://www.hiredintech.com/system-design/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
