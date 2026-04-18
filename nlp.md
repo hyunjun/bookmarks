@@ -3998,6 +3998,8 @@ NLP
 * [WebLLM | Home](https://webllm.mlc.ai/)
   * [Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 | GeekNews](https://news.hada.io/topic?id=8977)
   * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
+* [WeClone: Create digital avatars from chat history](https://github.com/xming521/WeClone)
+  * 채팅 기록으로 디지털 아바타 생성. PII 자동 필터링→LLM 파인튜닝(QLoRA, 이미지 멀티모달)→Telegram/WhatsApp/Discord 챗봇 배포. 4-24GB VRAM에서 학습 가능
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 * [WizardLM: LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath](https://github.com/nlpxucan/WizardLM)
   * [Huggingface KR | Facebook](https://www.facebook.com/groups/1272877526915876/?multi_permalinks=1489933088543651)
