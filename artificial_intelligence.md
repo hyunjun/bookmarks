@@ -3463,6 +3463,9 @@ Artificial Intelligence
   * [이제 대세는 Claude Code!? 찐 꿀팁 대방출 🔥 - YouTube](https://www.youtube.com/watch?v=-8JTwRH23VY)
   * [커서 요금 폭탄 끝! 지금 당장 클로드 코드를 도입해야 하는 이유! - YouTube](https://www.youtube.com/watch?v=ggPdGldZwqU)
   * [클로드 코드 커스텀 서브에이전트 신규 업데이트 - YouTube](https://www.youtube.com/watch?v=Cvy9KzJT4ro)
+  * [서브에이전트 모르면 클로드 코드 돈 버리는 겁니다 | EP.06 - YouTube](https://www.youtube.com/watch?v=Qr3pyVpd8CY)
+    * [서브에이전트로 클로드 코드 비용 절감](https://livewiki.com/ko/content/claude-subagents-money)
+    * 재무 분석가·뉴스 감성 분석가·업종 리서처·투자 전략가 4명 서브에이전트 세팅 실습. claude.md로 자동 지휘 시스템 구축, SK하이닉스 종합 투자 리포트 생성 사례
   * [cursorIDE 도 사용하지 않던 제가 왜 갑자기 claude code 를 사용했는지](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%9D%B4%EB%B2%88-%EC%A3%BC%EB%A7%90%EC%9D%80-%EC%A3%BC%EC%A4%91%EC%97%90-%EC%9D%B4%EC%8A%88%EC%98%80%EB%8D%98-claude-code-activity-7355231407411023872-4ggR/)
     * [LMCache x Mooncake: Unite to Pioneer KVCache-Centric LLM Serving System | LMCache blog website](https://blog.lmcache.ai/2025-05-08-mooncake/)
   * [클로드 코드: 19분 만에 초보자에서 전문가로 - YouTube](https://www.youtube.com/watch?v=zW28e7LGPRQ)
