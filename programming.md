@@ -6172,6 +6172,7 @@ Programming
 * [메일링 리스트를 사용하는 이유 | GeekNews](https://news.hada.io/topic?id=23376)
 * [Cloudflare Email Service: 프라이빗 베타 공개 | GeekNews](https://news.hada.io/topic?id=23285)
   * [Announcing Cloudflare Email Service’s private beta](https://blog.cloudflare.com/email-service/)
+  * [Cloudflare Email Service is Here. - YouTube](https://www.youtube.com/watch?v=0pil4xQXIVE)
 * [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
   * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
