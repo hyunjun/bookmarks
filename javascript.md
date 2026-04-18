@@ -2361,6 +2361,9 @@ Javascript
 * [gBoxShadow.js - Gravity-sensing box-shadow for Flat UI http://gigacore.github.io/demos/gBoxShadow ](https://github.com/Gigacore/gBoxShadow)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot ](https://github.com/yahoo/gifshot)
 * [glb-animation-combiner: Combine GLB with many animation GLB files](https://github.com/juunini/glb-animation-combiner)
+* [GoFish Graphics — JavaScript Charts Without the Headache](https://gofish.graphics/)
+  * [GoFish: Make Expressive Data Visualizations with Ease | Josh Pollock | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=jfRgfRME8oI)
+  * JS 차팅 라이브러리. rect/circle/area 등 마크, spread/stack/scatter 레이아웃, polar/clock 좌표계, 30+ 차트 유형. npm install gofish-graphics
 * [GPU.JS - GPU Accelerated JavaScript](http://gpu.rocks/)
 * [Gramma - command-line grammar checker](https://caderek.github.io/gramma/)
   * [Gramma - 커맨드라인 문법(grammar) 검사기 | GeekNews](https://news.hada.io/topic?id=5243)
