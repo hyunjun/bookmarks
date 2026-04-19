@@ -95,6 +95,9 @@ Hardware
 * [소프트웨어 정의 라디오(SDR)로 할 수 있는 50가지 | GeekNews](https://news.hada.io/topic?id=13864)
 * [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/2392)
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
+* [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+  * [소프트웨어 개발자를 위한 USB: 사용자 공간 USB 드라이버 작성 입문 | GeekNews](https://news.hada.io/topic?id=28356)
+  * libusb를 사용하면 소켓 프로그래밍 수준의 난이도로 사용자 공간 USB 드라이버 구현 가능. Fastboot 프로토콜 실습 예시 포함
 * [The era of open voice assistants has arrived - Home Assistant](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
   * [오픈소스 음성 비서의 시작: Home Assistant Voice (Preview Edit | GeekNews](https://news.hada.io/topic?id=18368)
 * [The World's Most Important Machine - YouTube](https://www.youtube.com/watch?v=MiUHjLxm3V0)
@@ -104,6 +107,8 @@ Hardware
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
+* [berry-doctor: 소규모 딸기 농가를 위한 무료 스마트팜 관리 도구](https://github.com/sinmb79/berry-doctor)
+  * 카카오톡 기반 병해충 진단, 날씨 알림, 수확 추적, 온실 제어 추천. 고가 스마트팜 인프라 없이 사용 가능
 * [Making Software](https://www.makingsoftware.com/)
   * [김성완 - Making Software 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트입니다.... | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02fAvz8oi8Z8Nuce7hotWvTzWwmK2HvsNZHzkwmLCESBEpATRPY7VDBFjz1BK697Tkl)
     * 소프트웨어 개발이 지나치게 추상화로 가는 것에 대한 반역같은 사이트
