@@ -1406,6 +1406,9 @@ NLP
   * `+++FactCheck`
   * `+++OutputFormat(format=FORMAT)`
   * `+++Tone(style=STYLE)`
+* [Do Emotions in Prompts Matter? Effects of Emotional Framing on Large Language Models](https://arxiv.org/abs/2604.02236)
+  * [감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과 | GeekNews](https://news.hada.io/topic?id=28217)
+  * 고정 감정 표현은 미미한 영향, 적응형 감정 프롬프팅(EmotionRL)으로 안정적 성능 개선 달성
 * [2401.12954 Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)
   * [Meta Prompt 의 문제점 "프롬프트를 만들어줘" "수정해줘" 과도 사용은 독이 됩니다 #metaprompt #promptengineering #prompting #llm #promptstrategy | Sujin Kang Ph.D.](https://www.linkedin.com/posts/sujin-prompt-engineer_metaprompt-promptengineering-prompting-ugcPost-7384610218225287168-ZG06)
 * [2510.04950 Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)](https://arxiv.org/abs/2510.04950)
@@ -3603,6 +3606,9 @@ NLP
       * [Ollama, 맥과 윈도우용 새로운 앱 출시 | GeekNews](https://news.hada.io/topic?id=22270)
     * [Ollama로 내 PC에서 코딩 AI 돌리기! MIMO 연동 & 클라우드 활용법 - YouTube](https://www.youtube.com/watch?v=nea8Cc-dcaE)
       * [Ollama로 내 PC에서 코딩 AI 돌리기: MIMO 연동 & 클라우드 활용법](https://livewiki.com/ko/content/ollama-coding-ai-mimo-cloud)
+    * [Friends Don't Let Friends Use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
+      * [로컬 LLM 생태계에는 Ollama가 필요하지 않다 | GeekNews](https://news.hada.io/topic?id=28622)
+      * llama.cpp 크레딧 부족, 커스텀 백엔드 전환 후 성능 저하, 비호환 모델 형식으로 락인, GUI 비공개 전환 비판. 대안: llama.cpp, LM Studio, Jan
     * [backend-generator-ai](https://github.com/cloudmatelabs/backend-generator-ai)
       * [AI를 이용해서 백엔드를 작성해주는 오픈소스 만듦](https://velog.io/@juunini/AI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%A7%8C%EB%93%A6)
     * [Cloud - Ollama](https://docs.ollama.com/cloud)
@@ -3901,6 +3907,9 @@ NLP
     * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
     * [뉴런데브 - 경악스러운 Qwen 3.6 35B 성능 | YouTube](https://www.youtube.com/post/UgkxncuNbJtpUHKrJmi4l9xRmE1iDFfYMcL6)
       * Qwen3 coder next 80B 능가. Unsloth UD-IQ3_XXS(13.2GB, VRAM 16GB), UD-IQ4_LN(18GB, 24GB 3090) 추천. 3090에서 초당 100토큰, 맥미니 M4에서 45-55토큰. 에이전트 도구호출 뛰어남
+    * [Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
+      * [Qwen3.6-35B-A3B: 모든 사람을 위한 에이전틱 코딩 능력 공개 | GeekNews](https://news.hada.io/topic?id=28609)
+      * MoE 아키텍처(350억 중 30억 파라미터 활성화), 에이전틱 코딩에서 Claude Sonnet 4.5 다수 항목 능가, 완전 오픈소스
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -4257,6 +4266,8 @@ NLP
 * [RAG 시스템의 치명적 약점 | Seongeun So](https://www.linkedin.com/posts/sungeuns2_rag-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%B9%98%EB%AA%85%EC%A0%81-%EC%95%BD%EC%A0%90)
 * [How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs](https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/)
   * Cloudflare Workers + Vectorize + Workers AI로 프로덕션 RAG 구축. 월 $8~10으로 운영 가능(경쟁사 $50~200 대비). 데이터 파이프라인·쿼리 처리·에러 핸들링·보안까지 실전 코드 포함
+* [Implementing a RAG system: Walk](https://medium.com/google-cloud/implementing-a-rag-system-walk-c207aea0cd6b)
+  * 문서 처리, 벡터 유사도, 재순위 지정 기술로 RAG 성능 최적화. Docling, Cohere 임베딩, LanceDB 활용 구현 사례
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
@@ -4324,6 +4335,9 @@ NLP
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
   * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
+* [LumberChunker: Long-Form Narrative Document Segmentation](https://github.com/joaodsmarques/LumberChunker)
+  * [2406.17526](https://arxiv.org/abs/2406.17526)
+  * LLM을 활용해 장문 서사 문서를 의미론적으로 독립된 청크로 동적 분할. EMNLP 2024, GutenQA 데이터셋(100권 책, 3,000 QA 쌍) 제공
 * [PageIndex — Vectorless, reasoning-based RAG](https://pageindex.ai/)
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
   * 벡터 DB 없이 문서 계층 트리 인덱스 구축 → LLM 추론 기반 검색. 청킹·임베딩 불필요, 페이지 참조 추적 가능. FinanceBench 98.7% 정확도
@@ -4371,6 +4385,7 @@ NLP
   * [legalize-kr](https://github.com/legalize-kr)
   * [Show GN: legalize-kr | GeekNews](https://news.hada.io/topic?id=28353)
   * 대한민국 법령·판례를 Markdown+Git으로 아카이빙. 6,907건 법령(81,629회 개정 이력), 123,467건 판례. 모든 개정을 Git 커밋으로 추적, 오프라인 접근 가능. 법제처 OpenAPI 기반, MIT/Apache-2.0
+  * [compiler: legalize-kr 캐시를 Git 저장소로 변환하는 컴파일러](https://github.com/legalize-kr/compiler)
 
 # LDA Latent Dirichlet Allocation
 
@@ -5481,6 +5496,9 @@ NLP
   * [a16z가 정리한 AI Voice 에이전트에 대한 모든 것 | GeekNews](https://news.hada.io/topic?id=15304)
 * [RAG 시스템에서의 Relevance Feedback 활용 방안 | LinkedIn](https://www.linkedin.com/pulse/rag-%25EC%258B%259C%25EC%258A%25A4%25ED%2585%259C%25EC%2597%2590%25EC%2584%259C%25EC%259D%2598-relevance-feedback-%25ED%2599%259C%25EC%259A%25A9-%25EB%25B0%25A9%25EC%2595%2588-jin-hyung-park-wdvpc/)
 * [Speech Embeddings for Engineers](https://colab.research.google.com/drive/1pUy9tp145qlWni2CIuBvQUNdokiB6rx6)
+* [5 Best Open Source Speech-to-Text Tools in 2026](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026)
+* [Voice dictation setup for Ollama + Gemma 4 on Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
+  * [Mac mini에서 Ollama과 Gemma 4 26B 모델 설정 요약 | GeekNews](https://news.hada.io/topic?id=28205)
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
@@ -5504,6 +5522,8 @@ NLP
   * [생성 AI로 누구나 작곡가, 음향효과 전문가 될 수 있다!...메타, 오디오 생성 인공지능 '오디오크래프트' 오픈 소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28661)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [Awesome-Korean-Speech-Recognition: 한국어 음성인식 STT API 리스트. 각 성능 벤치마크](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)
+* [awesome-voice-typing: Curated list of open-source voice typing tools](https://github.com/primaprashant/awesome-voice-typing)
+  * 다양한 플랫폼(Linux, macOS, Windows, Android, iOS)에서 사용 가능한 40여 개 오픈소스 음성 타이핑 도구 비교
 * [chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
   * [chatterbox_demopage](https://resemble-ai.github.io/chatterbox_demopage/)
   * [Chatterbox-TTS-Extended: Modified version of Chatterbox that accepts text files as input and no character restrictions. I use it to make audiobooks, especially for my kids](https://github.com/petermg/Chatterbox-TTS-Extended/)
@@ -5546,6 +5566,9 @@ NLP
 * [Free Text to Speech Online Converter Tools](https://www.text-to-speech.online/)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
+* [Gemini 3.1 Flash TTS: New text-to-speech AI model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/)
+  * [Gemini 3.1 Flash TTS - 자연어로 음성 스타일을 제어하는 차세대 AI 음성 모델 | GeekNews](https://news.hada.io/topic?id=28563)
+  * "audio tags"로 음성 스타일·속도·전달 방식 제어. 70개+ 언어, 네이티브 멀티 스피커 대화, SynthID 워터마크
 * [GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)](https://github.com/RVC-Boss/GPT-SoVITS)
   * [이 말투로 TTS를 만들면 어떻게 될까 - YouTube](https://www.youtube.com/watch?v=bYxwtLvFNRI)
 * [Handy](https://handy.computer/)
@@ -5712,6 +5735,9 @@ NLP
   * [faster-whisper-youtube: 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/lewangdev/faster-whisper-youtube)
   * [insanely-fast-whisper: CLI tool to transcribe audio using Whisper Large v3 with Flash Attention 2](https://github.com/Vaibhavs10/insanely-fast-whisper)
     * HuggingFace Transformers+Optimum+Flash Attention 2 기반. 150분 오디오를 ~98초에 트랜스크립션(A100). 화자 분리, 단어별 타임스탬프, 번역 지원. Apple Silicon 호환
+  * [lightning-whisper-mlx: An extremely fast implementation of whisper optimized for Apple Silicon using MLX](https://mustafaaljadery.github.io/lightning-whisper-mlx/)
+    * [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx)
+    * Whisper CPP보다 10배, MLX Whisper보다 4배 빠른 성능. 배치 디코딩, 증류·양자화 모델 지원
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
   * [WhisperKit — Argmax](https://www.takeargmax.com/blog/whisperkit)
@@ -5741,6 +5767,8 @@ NLP
 * [voice-pro: Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation](https://github.com/abus-aikorea/voice-pro)
   * Voice cloning toolkit for creators
 * [voice-rag-example at main · SOPT-AI-25SS/week3 · GitHub](https://github.com/SOPT-AI-25SS/week3/tree/main/tutorial/voice-rag-example)
+* [VoiceTypr — Offline AI voice to text app for founders and builders](https://voicetypr.com/)
+  * [VoiceTypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper](https://github.com/moinulmoin/voicetypr/)
 * [VoxFlow: Free offline speech-to-text for Windows and macOS](https://github.com/aievolutionpl/VoxFlow)
   * 핫키로 녹음→Whisper로 로컬 전사→활성 창에 자동 입력. 완전 오프라인, 폴란드어·영어·독일어 등 다국어 지원
 * [VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning](https://github.com/OpenBMB/VoxCPM/)
