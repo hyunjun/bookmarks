@@ -106,6 +106,9 @@ Presentation
 * [Paper2Slides: "Paper2Slides: From Paper to Presentation in One Click"](https://github.com/HKUDS/Paper2Slides)
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
+* [ppt-master: AI-powered tool to generate natively editable PPTX from PDF, DOCX, URL, and Markdown](https://hugohe3.github.io/ppt-master/)
+  * [ppt-master](https://github.com/hugohe3/ppt-master)
+  * 이미지가 아닌 실제 PowerPoint 도형·텍스트 상자를 생성하여 완전 편집 가능한 프레젠테이션 자동 생성
 * [pptx-tool: A script to fix up pptx font configurations considering Latin/EastAsian/ComplexScript/Symbol typeface mappings](https://github.com/achimnol/pptx-tool)
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
