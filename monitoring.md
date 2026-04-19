@@ -63,6 +63,8 @@ Monitoring
 * [Reliable Architectures through Observability - YouTube](https://www.youtube.com/watch?v=21nYUG1puyQ)
 * [Why Observability Matters (More!) with AI Applications - YouTube](https://www.youtube.com/watch?v=KjFFpjKSNHM)
   * [AI 애플리케이션의 관측 가능성: LLM 모니터링 및 최적화를 위한 오픈 소스 스택 구축](https://livewiki.com/ko/content/observability-ai-applications)
+* ['관찰가능성 표준' 지금 안 세우면, AI 기술 부채가 몰려온다 | ITWorld](https://www.itworld.co.kr/article/4152940/)
+  * AI 에이전트 프로덕션 배포를 위한 관찰가능성 구현, 모니터링, 에이전틱옵스 관행 필수 요구사항
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
