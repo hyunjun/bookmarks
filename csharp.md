@@ -171,6 +171,8 @@ C#
 * [Platonic.CSharp: Safe cross-platform functional programming directly in C#](https://github.com/cdiggins/Platonic.CSharp)
 * [Polly: Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+](https://github.com/App-vNext/Polly)
   * [C# - Polly를 사용하여 탄력적인 응용 프로그램 만들기 - jacking75](https://jacking75.github.io/NET_lib_polly/)
+* [dotLLM: Native .NET LLM Inference](https://dotllm.dev/)
+  * [Introducing dotLLM - Building an LLM Inference Engine in C#](https://kokosa.dev/blog/2026/dotllm/)
 * [semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
 * [Serilog Contrib](https://github.com/serilog-contrib)
