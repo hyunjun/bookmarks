@@ -849,6 +849,9 @@ App
       * 분산 IDE로 설계되어 JetBrains의 Space를 이용해서 원격에서 코드 처리
       * 로컬에서는 Fleet만 가볍게 사용하는 것도 가능
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* [Hermes IDE - AI-powered shell wrapper](https://hermes-ide.com/)
+  * [hermes-ide](https://github.com/hermes-hq/hermes-ide)
+  * AI 기반 셸 래퍼. Ghost-text 제안, 프롬프트 작성기, Git 관리, 프로젝트 검색, 프로세스 관리, 비용 추적. 무료 오픈소스
 * [Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform)
   * [Everything App for your teams](https://huly.io/)
   * [Huly | Open-source replacement for Linear, Jira, Slack & Notion - YouTube](https://www.youtube.com/watch?v=WKmpm0ms_Sg)
@@ -1253,6 +1256,8 @@ App
       * [Microsoft의 무료 AI 툴킷, 코딩을 영원히 바꿀 것 - YouTube](https://www.youtube.com/watch?v=G4ZsoLx5bEU)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
+    * [vscode-acp: VS Code extension for Agent Client Protocol](https://github.com/formulahendry/vscode-acp)
+      * VS Code에서 ACP 호환 AI 코딩 에이전트 직접 연결. GitHub Copilot, Claude Code, Gemini 등 사전 구성, 인터랙티브 채팅
   * Git
     * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
     * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -1894,6 +1899,11 @@ App
 * [Warp: The terminal for the 21st century](https://www.warp.dev/)
   * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
   * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
+* [macpow: Real-time power consumption monitoring for Apple Silicon Macs](https://github.com/k06a/macpow)
+  * 관리자 권한 불필요. 컴포넌트별 에너지 사용량, 온도, 시스템 메트릭을 인터랙티브 터미널 UI로 표시
+* [SpeakType - Voice Dictation for macOS](https://tryspeaktype.com/)
+  * [speaktype: 100% offline, open-source, Voice Dictation app for macOS](https://github.com/karansinghgit/speaktype)
+  * WhisperKit AI 기반 프라이버시 우선 오프라인 음성 받아쓰기. 100% 로컬 실행
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
 
@@ -2441,6 +2451,9 @@ App
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
   * [Vrew의 Web 기술 - VoyagerX](https://v6x.github.io/2020/06/04/vrew-web-tech.html)
 * [Wavvy - 웹기반 오디오 편집기 (Audacity 포팅) | GeekNews](https://news.hada.io/topic?id=7329)
+* [webreel: Record scripted browser demos as video](https://github.com/vercel-labs/webreel)
+  * [브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구 | GeekNews](https://news.hada.io/topic?id=28335)
+  * JSON 설정으로 클릭·타이핑·드래그 등 액션 정의, 헤드리스 Chrome이 ~60fps로 캡처 후 ffmpeg 인코딩. MP4, GIF, WebM 출력
 * [YoutubeCLI](https://github.com/icitry/YoutubeCLI)
   * [Can I Run Youtube Entirely From My Terminal? (No Browser) - YouTube](https://www.youtube.com/watch?v=CYNpdmgwNTM)
 * [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
@@ -2808,7 +2821,14 @@ App
 * [.new Shortcuts | A Domain Exclusively for Shortcuts | Google Registry](https://whats.new/shortcuts/)
   * [엑셀, 워드, PPT... 설치 없이 무료로 쓰는 방법⚡#shorts | JinKwon Jeon](https://www.linkedin.com/posts/jeonjk_%EC%97%91%EC%85%80-%EC%9B%8C%EB%93%9C-ppt-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95shorts-activity-7419384190468612096-RWgJ)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
-* [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
+* HWP
+  * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
+  * [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
+    * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
+    * [mcp-pypandoc-hwpx: MCP server for converting docx/html/md to hwpx](https://github.com/aliencube/mcp-pypandoc-hwpx)
+      * MCP 프로토콜로 문서 변환 워크플로우 연동. 로컬/컨테이너/원격 배포 지원
+  * [rhwp: Open-source HWP/HWPX viewer and editor built with Rust and WebAssembly](https://github.com/edwardkim/rhwp)
+    * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
@@ -2830,8 +2850,6 @@ App
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
 * Powerpoint
   * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
-* [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
-  * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
 * [TreeSheets](http://strlen.com/treesheets/)
   * [TreeSheets Tutorial](http://strlen.com/treesheets/docs/tutorial.html)
   * [TreeSheets - 오픈소스 프리폼 데이터 오거나이저 | GeekNews](https://news.hada.io/topic?id=4501)
@@ -3122,6 +3140,9 @@ App
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys | randyrants.com**](https://www.randyrants.com/category/sharpkeys/) a utility that manages a Registry key that allows Windows to remap one key to any other key
 * [Simplevisor -  simple, portable, Intel VT-x hypervisor](https://ionescu007.github.io/SimpleVisor/)
+* [SpanFinder: Windows file explorer with macOS Finder Miller Columns](https://github.com/LumiBearStudio/SpanFinder)
+  * [윈도우 탐색기가 답답해서 만든 맥 스타일 파일 탐색기 | GeekNews](https://news.hada.io/topic?id=28069)
+  * 멀티탭, 스플릿뷰, 키보드 중심, 30+ 언어 구문 강조, Git 상태 표시, FTP/SFTP 지원
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
