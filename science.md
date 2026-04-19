@@ -93,6 +93,7 @@ Science
 * [새의 화려한 깃털은 짝짓기용?](http://www.huffingtonpost.kr/2015/04/04/story_n_7002860.html)
 * [역사상 최초로 검은 홍학이 발견되다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052302.html)
 * [The Oldest Ancestor of Modern Birds Has Been Found in China](http://motherboard.vice.com/read/the-oldest-ancestor-of-modern-birds-has-been-found-in-china)
+* [TweetyBERT parses canary songs to better understand how brains learn language](https://techxplore.com/news/2026-03-tweetybert-parses-canary-songs-brains.html)
 
 ## Dolphin
 * [사람과 돌고래의 러브스토리? 그녀가 떠나자 돌고래는 자살했다](http://www.huffingtonpost.kr/2015/04/04/story_n_7002326.html)
