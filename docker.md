@@ -2837,6 +2837,8 @@ Docker
     * CNI 플러그인이 모든 Pod당 고유 IP를 할당하는 쿠버네티스 네트워크의 핵심 구조 설명
   * 임시적인 Pod IP를 안정적인 접근점으로 만드는 Service 추상화와 함께, 진화된 트래픽 관리 기준인 Gateway API 소개, 상위 수준의 네트워킹 패턴 탐구
   * 하부 패킷 처리부터 상위의 서비스 메시까지 전체 계층 구조를 이해하는 것이 쿠버네티스 환경을 성공적으로 진단하고 운영하는 데 필수적
+* [Duolingo's Kubernetes Leap - InfoQ](https://www.infoq.com/presentations/duolingo-eks-kubernetes/)
+  * Duolingo 500+ 백엔드 서비스를 AWS ECS에서 EKS로 마이그레이션. Argo CD 기반 GitOps, IPv6-only 포드, 셀룰러 아키텍처로 환경 격리. 128M+ 활성 사용자 대상
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
