@@ -557,6 +557,8 @@ Python
   * GIL을 비활성화했을 때 발생할 수 있는 위험 요소들과 함께, GIL이 선택적으로 사용 가능해진 이유와 앞으로의 계획에 대해 설명
 * [500 Python Interpreters • Izzy Muerte](https://izzys.casa/2024/08/463-python-interpreters/) 3.13
 * [The New Python 3.13 Is FINALLY Here! - YouTube](https://www.youtube.com/watch?v=eUDGlxu_-ic)
+* [Python 3.15's JIT is now back on track | Python Insider](https://blog.python.org/2026/03/jit-on-track/)
+  * Python 3.15a7 기준 JIT 현황. copy-and-patch JIT 최적화 진행 상황
 * [Compiled Python is FAST - YouTube](https://www.youtube.com/watch?v=umLZphwA-dw)
   * numpy mypyc cython numba taichi
 * [Stop making your python projects like it was 15 years ago… | by Bryson Meiling | Sep, 2024 | Level Up Coding](https://levelup.gitconnected.com/stop-making-your-python-projects-like-it-was-15-years-ago-125436b470a5)
@@ -3744,6 +3746,8 @@ Python
   * hexora — 악성 코드 패턴 탐지용 정적 분석 도구
   * opentemplate — 최신 개발·보안·CI/CD 설정을 포함한 프로젝트 템플릿
   * Pyrefly — Meta의 Rust 기반 고성능 타입 체커
+    * [Lessons from Pyre that Shaped Pyrefly](https://pyrefly.org/blog/lessons-from-pyre/)
+      * Pyre 개발 경험에서 얻은 교훈이 Pyrefly 설계에 어떤 영향을 미쳤는지 분석
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -4787,6 +4791,9 @@ Python
 * [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/index.html)
 * [PyCon Korea 2025 AI 시대를 위한 Python 패키징 - 김준기 - YouTube](https://www.youtube.com/watch?v=oWxCsnnmen0)
   * [AI 시대를 위한 파이썬 패키징: Wheel 규격의 진화와 미래](https://livewiki.com/ko/content/pycon-korea-2025-ai-python-packaging)
+* [Wheel Next + Packaging PEPs | Talk Python #544](https://talkpython.fm/episodes/show/544/wheel-next-packaging-peps)
+  * [pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나 | GeekNews](https://news.hada.io/topic?id=28490)
+  * NVIDIA·Astral·Quansight 협업 Wheel Next 이니셔티브. 하드웨어 자동 감지·최적화 바이너리 다운로드, PyTorch 휠 900MB→200~250MB
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
@@ -4915,6 +4922,10 @@ Python
   * [차세대 Python 패키지 프로젝트 매니저 uv | 아직도 pip랑 venv 따로쓰니? - YouTube](https://www.youtube.com/watch?v=HFZLFFXoeB0)
   * [Running scripts | uv](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
     * [Uv: 의존성이 있는 스크립트 실행하기 | GeekNews](https://news.hada.io/topic?id=22113)
+  * [uv Quick Reference](https://uv.pydevtools.com/)
+    * 워크플로우별 필수 uv 명령어 정리. 프로젝트 생성, 의존성 관리, 스크립트 실행, 도구 관리 등 치트시트
+  * [uv vs pixi: Find the right Python environment manager for data science](https://codecut.ai/uv-pixi-comparison/)
+    * 시스템 라이브러리, lockfile, 재현성 관점에서 uv와 pixi 비교
   * [uv-demo: Demo of uv for a streamlined Python package management experience](https://github.com/prrao87/uv-demo)
     * [파이썬 개발자라면 uv 를 사용합시다. Poetry, Anaconda, virtualenv 는 이제 그만! | by Sigrid Jin | Medium](https://sigridjin.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-uv-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A9%EC%8B%9C%EB%8B%A4-546d523f7178)
 * virtualenv
