@@ -450,6 +450,7 @@ PyTorch
 * [TorchShard: Slicing a PyTorch Tensor Into Parallel Shards](https://github.com/KaiyuYue/torchshard)
   * [Introduction to TorchShard. A Lightweight Library for Scaling-up… | by Kaiyu Yue | PyTorch | Jul, 2021 | Medium](https://medium.com/pytorch/torchshard-a31fcbfdc354)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
+* [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
   * [Torchvision 0.8, GPU에서 돌아가는 Scriptable Transforms 사용해서 데이터 로딩 속도 개선하기 :: 봉자씨의 코딩이야기](https://bongjasee.tistory.com/2)
