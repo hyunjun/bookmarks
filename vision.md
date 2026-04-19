@@ -612,6 +612,7 @@ Vision
   * [Everyone is sleeping on this new OCR model! (supports 40+ languages & it's open-source) Datalab's Chandra topped independent benchmarks and beat the previously best dots-ocr. - Supports 40+… | Akshay Pachaar | 38 comments](https://www.linkedin.com/posts/akshay-pachaar_everyone-is-sleeping-on-this-new-ocr-model-ugcPost-7390387191006494720-5ylc)
   * [Chandra OCR이란?](https://lsjsj92.tistory.com/709)
     * [(개인적인) 2025년 최고의 오픈소스 OCR: Chandra | soojin lee](https://www.linkedin.com/posts/lsjsj92_ocr-documentai-rag-activity-7408478042437742592-OI1b)
+* [Datalab](https://www.datalab.to/)
 * [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/tree/main)
   * [이상선 - DeepSeek OCR — 문서 이해의 새로운 패러다임 핵심 요약 DeepSeek 팀이 공개한... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid06mWUWBDdaVAqLWQ1u7r9pwRRpB9gBYHoiE3eKdMhiGZqSrC7s3Bp1m5kRpuyyYL5l)
   * DeepEncoder [중국 GPU 규제가 이렇게 돌아온다... 딥시크의 미친 아이디어, GPU 1/10로 만들다 | 텍스트를 이미지로 10배 압축 - YouTube](https://www.youtube.com/watch?v=S2VCvsE2iOk)
@@ -634,6 +635,9 @@ Vision
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
 * [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
+* [MinerU-Diffusion: Diffusion-based document OCR framework](https://github.com/opendatalab/MinerU-Diffusion)
+  * [2603.22458](https://arxiv.org/abs/2603.22458)
+  * 블록 수준 병렬 확산 디코딩으로 기존 대비 최대 3.26배 빠른 처리. 2.5B 파라미터, 레이아웃 감지·텍스트·수식·표 인식 지원
 * [mistral_ocr_webapp: mistral-ocr-latest application](https://github.com/myeong-ga/mistral_ocr_webapp)
   * [AGI KR | "문서 OCR과 대화형 UI 통합, 복잡하고 시간 소모적이지 않으신가요 | Facebook](https://www.facebook.com/groups/agikr/posts/2552430411764668/)
 * [Nanonets OCR - Advanced Document Understanding API](https://nanonets.com/research/nanonets-ocr-s/)
@@ -1003,6 +1007,13 @@ Vision
 * [VLM backbone에 대한 트렌드를 알아보자! | 강재욱 - YouTube](https://www.youtube.com/watch?v=NgxSbyoiQYM)
 * [HCX-VLM과 함께 홈피드를 더 예쁘게 바꿔보자!](https://d2.naver.com/helloworld/3247986)
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
+* [PersonaPlex: Real-time, full-duplex speech-to-speech conversational model with persona control](https://arxiv.org/abs/2602.06053)
+  * [personaplex](https://github.com/NVIDIA/personaplex)
+  * [personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)
+  * 텍스트 기반 역할 프롬프트와 오디오 기반 음성 조절로 개성 제어 가능한 실시간 전이중 음성-음성 대화 모델
+* [Phi-4-reasoning-vision-15B: Microsoft's 15B multimodal reasoning model](https://github.com/microsoft/Phi-4-reasoning-vision-15B)
+  * [Phi-4-Vision-Reasoning — training a multimodal reasoning model | Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
+  * 이미지 캡셔닝, 문서 인식, 수학·과학 추론 특화. Azure Foundry 클라우드 또는 로컬 호스팅 가능
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 
 # VR Virtual Reality
