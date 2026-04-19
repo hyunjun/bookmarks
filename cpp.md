@@ -340,6 +340,11 @@ C++
 * [Functional Parsing in C++20 - YouTube](https://www.youtube.com/watch?v=QwaoOYkoqB0)
 * [C++20: Define the Concept Regular and SemiRegular – MC++ BLOG](https://www.modernescpp.com/index.php/c-20-define-the-concept-regular-and-semiregular/) 타입 분류 체계
 
+# C++26
+* [C++26 is done! - Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
+  * [C++26 완성! C++11 이후 최대 업그레이드 | GeekNews](https://news.hada.io/topic?id=28018)
+  * 리플렉션, 메모리 안전성 강화, 계약(Contracts), std::execution 등 핵심 기능 포함. Google 배포 시 segfault 30% 감소
+
 # Conference
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
