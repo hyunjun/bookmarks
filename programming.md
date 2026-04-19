@@ -3003,6 +3003,15 @@ Programming
   * [이벤트 중심 시스템으로의 전환 과정 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1106476)
 * [아주 기모띠한 Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=qZ8F7tj4GHg)
 * [이벤트 기반 아키텍처 골칫거리 '글리치(Glitch)', 왜 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3077/)
+* [Architectural Governance at AI Speed - InfoQ](https://www.infoq.com/articles/architectural-governance-ai-speed/)
+  * GenAI 시대, ADR과 Event Model을 자동 가드레일로 변환하여 AI 생성 코드 속도에 맞는 아키텍처 거버넌스 구현
+* [Architecting Autonomy at Scale: Raising Teams without Creating Dependencies - InfoQ](https://www.infoq.com/articles/architecting-autonomy-scale/)
+  * "게이트" 대신 "가드레일" 기반 분산 아키텍처. Socratic coaching, 공유 플랫폼, 자동 drift 감지로 팀 자율성과 정렬 동시 달성
+* [How NASA Built Artemis II's Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+  * [NASA가 Artemis II의 내결함성 컴퓨터를 구축한 방법 | GeekNews](https://news.hada.io/topic?id=28389)
+  * Orion 비행 컴퓨터: 8개 CPU 병렬 다중 중복 구조, 방사선/하드웨어 결함에도 무중단. 시간 트리거형 이더넷, 백업 소프트웨어
+* [Optimization in Automated Driving: from Complexity to Real-Time Engineering - InfoQ](https://www.infoq.com/articles/optimization-in-automated-driving/)
+  * 자율주행 기술 아키텍처. 센서 퓨전, MPC 솔버 등 최적화 기법으로 원시 센서 데이터를 안전한 제어 명령으로 변환
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -4561,6 +4570,8 @@ Programming
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
+* [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team)
+  * GitHub Actions가 CI의 Internet Explorer인 이유. Buildkite가 DX 관점에서 더 나은 대안
 * [GitHub Actions로 개선하는 코드 리뷰 문화](https://velog.io/@tosspayments/GitHub-Actions%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94)
 * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기](https://d2.naver.com/helloworld/7321313)
   * [시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 - YouTube](https://www.youtube.com/watch?v=7cwFhX14nkg)
@@ -5676,6 +5687,9 @@ Programming
 * [이메일 인증은 어떻게 구현하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3515/)
 * [Bluetooth Headphone Jacking: A Key to Your Phone - media.ccc.de](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
   * [블루투스 헤드폰 해킹: 스마트폰 침투의 새로운 경로 | GeekNews](https://news.hada.io/topic?id=25501)
+* [Too Much of a Good Thing: (In-)Security of Mandatory Security Software for Financial Services in South Korea | USENIX Security](https://www.usenix.org/conference/usenixsecurity25/presentation/yun)
+  * [구라제거기, 세계 최고 권위 보안 논문(USENIX Security)에 등장](https://teus.me/ittalk/hoaxeliminator_in_paper/)
+  * 한국 금융권 필수 보안 소프트웨어의 보안 취약점 분석 논문
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
@@ -7793,12 +7807,6 @@ Programming
     * 여기서 MS-DOS 4.0의 베타 바이너리를 발견하고 이를 스캔해서 MIT 라이센스로 공개
 * [Windows NT vs. Unix: A design comparison - by Julio Merino](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
   * [Windows NT vs. Unix: 설계 비교 | GeekNews](https://news.hada.io/topic?id=16692)
-* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
-* [Essence](https://nakst.gitlab.io/essence)
-* [PureDarwin | Moving the Darwin community in the right direction!](http://www.puredarwin.org/)
-* [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
-* [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
-* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [ARM 64 Assembly Series — Data Processing (Part 1) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b)
 * [ARM 64 Assembly Series — Data Processing (Part 2) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
 * [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
@@ -7806,11 +7814,20 @@ Programming
 * [외장 하드 드라이브에 ChromeOS(Google Play)를 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=fiUQqL8tilY)
 * [How we ran a Unix-like OS (Xv6) on our home-built CPU with our home-built C compiler | Fueled by Coffee](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
   * [집에서 만든 CPU와 C 컴파일러로 Xv6 유닉스 계열 OS를 구동한 경험 | GeekNews](https://news.hada.io/topic?id=21714)
+* [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+  * [닌텐도 Wii에서 Mac OS X 10.0(Cheetah) 구동 성공 | GeekNews](https://news.hada.io/topic?id=28325)
+  * Wii의 PowerPC 하드웨어에서 Darwin/XNU 커널을 네이티브 실행. Hollywood SoC용 IOKit 드라이버, SD 카드·프레임버퍼·USB 입력 지원, GUI 부팅까지 완성. 10여 년 프로젝트
+* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
+* [Essence](https://nakst.gitlab.io/essence)
 * [mjg59 | What the fuck is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
   * [SBAT란 무엇이며 왜 갑자기 모두가 관심을 가지는가 | GeekNews](https://news.hada.io/topic?id=16423)
 * netboot.xyz [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
   * [Netboot.xyz - 당신이 좋아하는 OS를 한 곳에 | GeekNews](https://news.hada.io/topic?id=16403)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [PureDarwin | Moving the Darwin community in the right direction!](http://www.puredarwin.org/)
+* [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
+* [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
+* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
 # Paper
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
