@@ -4034,6 +4034,10 @@ Javascript
   * [Ruck - An open source buildless React web application framework for Deno](https://ruck.tech/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
+* [Edge.js - Run Node.js safely, anywhere, with any JS engine](https://edgejs.org/)
+  * [edgejs](https://github.com/wasmerio/edgejs)
+  * [edgejs - WebAssembly 기반 안전한 JS 런타임 | GeekNews](https://news.hada.io/topic?id=28071)
+  * Node.js를 재설계: 완전 샌드박스, 엔진 무관, AI/서버리스 워크로드 최적화. WebAssembly 격리 실행, Node.js 완전 호환
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express.js](http://expressjs.com/ko/)
   * [Express](https://opentutorials.org/course/3370)
