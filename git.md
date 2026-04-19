@@ -1378,6 +1378,8 @@ Git
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [every-git-commit-shorthash: Git repository with a commit for every single shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
+* [ff-for-github: Fast-forward merge branches directly from your browser](https://github.com/simnalamburt/ff-for-github)
+  * 터미널 없이 브라우저에서 PR 및 임의 브랜치/태그/ref의 fast-forward 머지 지원
 * Flat Data [GitHub OCTO | Flat Data](https://octo.github.com/projects/flat-data)
   * Git을 이용해 데이터 처리. 다른 인프라스트럭처가 필요 없이 GitHub를 이용해서 데이터를 수집하고 보여줄 수 있게 하는 프로젝트
   * 데이터를 수집하고 변환하는 GitHub Actions, 데이터 워크플로우를 작성하는 VS Code 확장 에디터, 처리된 데이터를 보는 뷰어 3가지로 구성
@@ -1405,6 +1407,8 @@ Git
   * [gh-dash: gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI](https://github.com/dlvhdr/gh-dash)
     * [GH-dash: A Beautiful CLI Dashboard for GitHub](https://morioh.com/p/95cb4777d8a6)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
+* [ghgrab: GitHub repository data grabber](https://ghgrab.readthedocs.io/)
+  * [ghgrab](https://github.com/abhixdd/ghgrab)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
 * [giscus](https://giscus.app/ko) utterances와 비슷하게 GitHub의 Discussions를 사용한 댓글 시스템
