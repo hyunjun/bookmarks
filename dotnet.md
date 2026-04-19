@@ -181,6 +181,9 @@
 * dotnet
   * [.NET 6 is now in Ubuntu 22.04 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
+  * [dotnet-skills: Installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini](https://github.com/managedcode/dotnet-skills)
+    * [.NET Skills for Modern Coding Platforms](https://skills.managed-code.com/)
+    * .NET 스킬 카탈로그. NuGet 패키지 매칭, 번들, 카테고리/스킬 페이지, 에이전트 지원
 * Kestrel
   * [ASP.NET Core에서 Kestrel 웹 서버 구현 | Microsoft Docs](https://docs.microsoft.com/ko-kr/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)
   * [IIS의 훌륭한 대체 웹 서버, 마이크로소프트 케스트렐 - ITWorld Korea](https://www.itworld.co.kr/news/252016)
