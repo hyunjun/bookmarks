@@ -641,6 +641,8 @@ Web
 * [awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing](https://github.com/lorien/awesome-web-scraping)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
+* [camofox-browser: Anti-detection browser server for AI agents](https://github.com/jo-inc/camofox-browser)
+  * Camoufox 기반 AI 에이전트용 안티탐지 브라우저 서버. C++ 레벨 Firefox 패칭으로 Google/Cloudflare 우회, 안정적 엘리먼트 참조, 접근성 스냅샷(HTML 대비 90% 토큰 절감), 세션 격리, 프록시 자동 로케일/타임존 매칭. Docker/Fly.io/Railway 배포
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. 스크래퍼의 브라우저 지문을 실제 사용자처럼 생성하여 봇 탐지 우회
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
@@ -1353,6 +1355,9 @@ Web
 * [DHTMLX](http://docs.dhtmlx.com/)
 * [DiceBear | Open Source Avatar Library](https://www.dicebear.com/)
   * [DiceBear - 무료 아바타 이미지 생성 라이브러리 | GeekNews](https://news.hada.io/topic?id=25227)
+* [EmDash - WordPress의 정신적 후속작](https://blog.cloudflare.com/emdash-wordpress/)
+  * [EmDash - 플러그인 보안 문제를 해결한 WordPress의 정신적 후속작 | GeekNews](https://news.hada.io/topic?id=28111)
+  * Cloudflare의 오픈소스 CMS. TypeScript+서버리스 아키텍처로 WordPress 재설계. 플러그인을 격리 샌드박스에서 실행하여 보안 문제 96% 차단, x402 결제 표준 내장
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi/)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
