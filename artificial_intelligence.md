@@ -1275,6 +1275,9 @@ Artificial Intelligence
 * [Free AI courses from Amazon for 2025 | Sai V.님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/sai-v-34238017a_aws-cloudcomputing-jobopportunity-activity-7375514800505868288-vXH5)
 * [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
 * [ai-agents-for-beginners: 10 Lessons to Get Started Building with AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+* [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
+  * [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+  * 20단계 260+ 레슨 ~290시간 종합 AI 교육. 수학 기초→ML→DL→NLP→Vision→Transformer→LLM→에이전트. Python/TypeScript/Rust/Julia 멀티언어, Claude Code 스킬로 대화형 평가, 모든 레슨에서 재사용 가능 아티팩트(프롬프트·스킬·에이전트·MCP 서버) 생산
 * [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Anthropic Courses](https://anthropic.skilljar.com/)
