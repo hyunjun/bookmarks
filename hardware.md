@@ -107,6 +107,8 @@ Hardware
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
+* [AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar](https://github.com/NawfalMotii79/PLFM_RADAR)
+  * 10.5GHz 오픈소스 위상배열 레이다. 3km/20km 2종, ±45° 전자 빔 조향, FPGA 신호처리(펄스 압축·도플러·CFAR), GPS/IMU 통합, Python GUI. 드론 연구자·개발자 대상
 * [berry-doctor: 소규모 딸기 농가를 위한 무료 스마트팜 관리 도구](https://github.com/sinmb79/berry-doctor)
   * 카카오톡 기반 병해충 진단, 날씨 알림, 수확 추적, 온실 제어 추천. 고가 스마트팜 인프라 없이 사용 가능
 * [Making Software](https://www.makingsoftware.com/)
