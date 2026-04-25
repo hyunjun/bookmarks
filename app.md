@@ -2823,6 +2823,9 @@ App
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * HWP
   * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
+  * [polaris_dvc: Pure Rust HWPX document validation toolchain](https://github.com/PolarisOffice/polaris_dvc)
+    * [polaris_dvc docs](https://polarisoffice.github.io/polaris_dvc)
+    * Rust 기반 HWPX 문서 4축 검증: 규칙 준수(JID 1000-7999), 구조적 무결성, 컨테이너 건전성, KS X 6101 스키마 적합성. macOS/Linux/Windows/WASM 크로스플랫폼
   * [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
     * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
     * [mcp-pypandoc-hwpx: MCP server for converting docx/html/md to hwpx](https://github.com/aliencube/mcp-pypandoc-hwpx)
