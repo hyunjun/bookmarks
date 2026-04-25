@@ -685,6 +685,9 @@ Web
 * [How to Build a Web Scraper using Golang with Colly](https://morioh.com/p/8d07efbd9e9f)
 * Colly [Scraping Framework for Golang](http://go-colly.org/)
   * [GO Project for Beginners - Web Scraping with Golang - YouTube](https://www.youtube.com/watch?v=NU4OlJVj1gs)
+* [GoScrapy: Web Scraping Framework in Go](https://github.com/tech-engine/goscrapy)
+  * [GoScrapy - Go기반 초고속 웹 스크래핑 프레임워크 | GeekNews](https://news.hada.io/topic?id=28862)
+  * Python Scrapy 아키텍처를 Go로 구현. 동시성 기반 병렬 처리, CLI 스캐폴딩, 지수 백오프 재시도, CSS/XPath 셀렉터, CSV/JSON/MongoDB/Google Sheets/Firebase 내보내기
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
   * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/0xSojalSec/pipet)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
