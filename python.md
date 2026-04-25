@@ -4227,6 +4227,9 @@ Python
 * [PyTree - a python package, which you can use to generate trees, realistic or fractal one. However the whole pricipale is based on fractals](https://github.com/PixelwarStudio/PyTree)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [PyWhatKit: Send WhatsApp message at certain time and many other things.](https://github.com/Ankit404butfound/PyWhatKit)
+* [pywho: One command to explain your Python environment, trace imports, and detect shadows](https://github.com/AhsanSheraz/pywho)
+  * [pywho docs](https://pywho.readthedocs.io/)
+  * Python 환경 검사·임포트 추적·섀도 감지 CLI. 인터프리터 버전, venv 타입, sys.path, 패키지 관리자 표시. 제로 의존성, JSON 출력, Python 3.9+
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
