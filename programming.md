@@ -8959,6 +8959,9 @@ Programming
   * [우주선 설계의 법칙 (Akin's Laws of Spacecraft Design) | GeekNews](https://news.hada.io/topic?id=25489)
 * [Building Better Software: Why Workflows Beat Code Every Time • Ben Smith & James Beswick - YouTube](https://www.youtube.com/watch?v=bWhm2rAo12Y)
   * [코드 대신 워크플로우를 사용해야 하는 이유: 소프트웨어 개발 혁신](https://livewiki.com/ko/content/software-workflows-code-smith-beswick)
+* [On sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+  * [과도한 생각, 범위 확장, 구조적 Diff로 프로젝트를 망치는 방법 | GeekNews](https://news.hada.io/topic?id=28865)
+  * 과도한 계획보다 실행 우선("Sometimes you just want a shelf"), YAGNI 원칙, LLM 생성 코드 리뷰를 위한 시맨틱 diff 도구 비교 후 treesitter 기반 최소 도구 직접 구축
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
