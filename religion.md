@@ -35,6 +35,8 @@ Religion
 * [염수정 추기경의 옹졸한 처신과 서소문공원](http://www.catholicpress.kr/m/view.php?idx=2223)
 * [새누리당 윤리위원장에 서울대교구 사제라니?](http://www.catholicpress.kr/m/view.php?idx=2834)
 * [“교황 닮아야 할 추기경, 대통령을 닮다”](http://m.gobalnews.com/news/articleView.html?idxno=9656)
+* [가톨릭으로부터 버려진 성경의 내용은...? | 역사를 보다 - YouTube](https://www.youtube.com/watch?v=F_OhLTBD0zM)
+  * [가톨릭 성경의 버려진 내용들](https://livewiki.com/ko/content/catholic-bible-content)
 
 # Buddhism
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
