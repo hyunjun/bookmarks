@@ -2938,6 +2938,8 @@ NLP
     * [TinyR1-32B-Preview: 大语言模型TinyR1-32B-Preview](https://github.com/Qihoo360/TinyR1-32B-Preview)
   * [DeepSeek-V3-0324 · Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)
     * [🐳 DeepSeek V3-0324 공개! 오픈소스 LLM의 새로운 강자 등장](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-DeepSeek-V3-0324-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%95%EC%9E%90-%EB%93%B1%EC%9E%A5)
+  * [DeepSeek V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
+    * [DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
