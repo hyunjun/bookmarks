@@ -254,6 +254,7 @@ Science
 * [2016년 노벨 물리학상에 대한 해설(스압)](http://mlbpark.donga.com/mlbpark/b.php?m=user&p=1&b=bullpen2&id=6260231&select=title&query=&user=weich719&reply=)
 * [**아인슈타인의 시계**](http://liveinguitar.blog.me/110036749036) 상대성이론에 대한 설명
 * ['하루 길이', 점점 짧아진다…왜?](https://www.bloter.net/newsView/blt202208050019)
+* [양자 이론의 9가지 핵심 요소 | 다석 유영모 | Facebook](https://www.facebook.com/groups/639233582861666?multi_permalinks=26417231647968506)
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)
