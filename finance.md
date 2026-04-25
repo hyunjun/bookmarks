@@ -334,6 +334,7 @@ Finance
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
   * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
+* [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
 
