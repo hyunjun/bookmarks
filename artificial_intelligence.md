@@ -4829,6 +4829,9 @@ Artificial Intelligence
 * [Tidewave](https://github.com/tidewave-ai)
   * [Welcome - Tidewave](https://tidewave.ai/)
   * [천재 개발자가 만든 코딩 AI, TIDEWAVE, 그냥 알아서 다 만들어줌 - YouTube](https://www.youtube.com/watch?v=rVXwurv8XNY)
+* [TokenTracker — Local-first token usage tracker for 11 AI coding tools](https://token.rynn.me/)
+  * [TokenTracker](https://github.com/mm7894215/TokenTracker)
+  * Claude Code/Codex/Cursor/Gemini 등 11개 도구 토큰 사용량 추적. 로컬 전용(클라우드 업로드 없음), 웹 대시보드+macOS 메뉴바+4개 위젯, 250+ 스킬 매니저, 7개 프로바이더 레이트 리밋 모니터링
 * [Trae - Ship Faster with Trae](https://www.trae.ai/)
   * [Bytedance에서 Cursor와 같은 AI기반 IDE 툴인 Trae를 발표](https://www.linkedin.com/posts/duckjungkim_%EC%A4%91%EA%B5%AD%EA%B8%B0%EC%97%85%EC%9D%B8-bytedance%EC%97%90%EC%84%9C-cursor%EC%99%80-%EA%B0%99%EC%9D%80-ai%EA%B8%B0%EB%B0%98-ide-%ED%88%B4%EC%9D%B8-activity-7297259258935484416-Fhv_)
 * [v0 by Vercel](https://v0.dev/)
