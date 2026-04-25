@@ -901,6 +901,10 @@ Artificial Intelligence
 * [Browser Use - The AI browser agent](https://browser-use.com/)
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
   * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
+  * [browser-harness: Minimal, self-healing browser automation for LLMs](https://github.com/browser-use/browser-harness)
+    * ~592줄 Python, Chrome DevTools Protocol 직접 연결. 자기수정(self-healing) 아키텍처로 에이전트가 실행 중 harness 자체를 확장. 도메인 스킬 시스템, 무료 원격 브라우저 3개 동시 사용
+  * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
+    * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
 * [Building AI Agents](https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic)
 * [ByteRover: Local-first AI context engineering for coding agents](https://docs.byterover.dev/)
   * 로컬 우선 AI 컨텍스트 엔지니어링. 클라우드 계정 불필요, 자체 LLM 사용 가능
@@ -988,6 +992,8 @@ Artificial Intelligence
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
 * [MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios](https://github.com/MiroMindAI/MiroThinker)
+* [ml-intern: Autonomous ML research agent using Hugging Face ecosystem](https://github.com/huggingface/ml-intern)
+  * 자율적으로 ML 코드를 연구·작성·배포하는 에이전트. HuggingFace 문서·논문·데이터셋·클라우드 컴퓨트 통합, GitHub 코드 검색, 샌드박스 실행, Doom Loop 탐지. 5.5k stars
 * [MobiAgent: The Intelligent GUI Agent for Mobile Phones](https://github.com/IPADS-SAI/MobiAgent/)
 * [Mobile-use: 자연어로 스마트폰을 자동화하는 AI 에이전트](https://www.facebook.com/groups/9546662462016100/posts/27061598440095898/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
@@ -1237,6 +1243,8 @@ Artificial Intelligence
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
+* [Context Engineering: AI 에이전트와 잘 일하는 법](https://course-builder-47m.pages.dev/)
+  * 8강 56분 과정. Instructions·Knowledge·Tools·Memory 4가지 컨텍스트 소스, Just-in-time 검색, 서브에이전트 위임, 안티패턴 진단. 프롬프트 튜닝에서 시스템 설계로
 * [Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
   * [GitHub 스타 1만 개 찍은 스킬셋. 에이전트 만드는 순서가 바뀝니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%8A%A4%ED%83%80-1%EB%A7%8C-%EA%B0%9C-%EC%B0%8D%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%85%8B-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%88%9C%EC%84%9C%EA%B0%80-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-share-7432415927805157376-nnZs)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
@@ -1492,6 +1500,7 @@ Artificial Intelligence
     * Firebase Studio, GitHub, Cursor를 사용해 비프로그래머가 AI 도구로 앱 제작·배포하는 무료 오픈소스 과정
   * [Vibe Index - Vibe Coding Directory](https://www.vibeindex.ai/)
     * [조태호 - 25,960개의 바이브 코딩 자료를 한 곳에 정리했습니다. 바이브코딩 책을 쓰며 안타까웠던 것은, MCP,... | Facebook](https://www.facebook.com/taeho.jo/posts/pfbid02uue2z7QJuZ1ne1g71qYPojjhT2z5m6VNnNciL868pvazAzwQeDVVzsFLj7DZUMUTl)
+  * [VibeMap — 아이디어에서 배포까지 :: ROBOCO](https://vibemap.roboco.io/)
 * [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Chaos Coder - Web App Generator](https://www.chaoscoder.net/)
   * [chaos-coder: 9 separate websites IN SECONDS for you to chaotically edit!](https://github.com/aj47/chaos-coder)
@@ -1529,6 +1538,8 @@ Artificial Intelligence
 * [Devin](https://devin.ai/)
   * [Thoughts On A Month With Devin – Answer.AI](https://www.answer.ai/posts/2025-01-08-devin.html)
     * [Devin과 함께한 한 달에 대한 소회 | GeekNews](https://news.hada.io/topic?id=18787)
+* [Dot: Tiny desktop companion powered by Claude](https://github.com/gAgentDot/Dot)
+  * 128px 픽셀 펫+헤드리스 데몬+Telegram 봇. 이중 메모리(단기 10턴+장기 벡터), Gmail·브라우저·클립보드 무음 관찰, 자기 코드 수정(컨테이너 격리), 7가지 무드 폼. Electron+Claude Agent SDK
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
@@ -2734,6 +2745,9 @@ Artificial Intelligence
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
   * [WorldGen: Text/Image to 3D scene generation](https://github.com/ZiYang-xie/WorldGen)
     * 텍스트·이미지에서 수초 내 360도 탐색 가능 3D 씬 생성. Gaussian splat/메시 출력, 게임·시뮬레이션·VR 활용
+* [The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness | Google DeepMind](https://deepmind.google/research/publications/231971)
+  * [Tae Hyung Kim | Facebook](https://www.facebook.com/socialego/posts/pfbid02oi45niJjRGLaR2RTk185tEzM726tABQwVMtN5f45BiVrnJdtK3R91uUVKtZUi583l)
+  * 계산적 기능주의에 대한 도전. 기호 계산은 물리를 의미 있는 상태로 매핑하는 경험 주체를 필요로 함. 시뮬레이션(행동 모방)과 인스턴스화(물리적 구성)를 구분하며, 알고리즘적 기호 조작은 기질과 무관하게 경험을 인스턴스화할 수 없다고 주장
 * [AI Explained - Stanford Research Paper](https://drive.google.com/file/d/1H2_QWjauxlrj1UKO2nPd8jd7J8IkKpYm/view)
 * [AI-Powered Trading, Algorithmic Collusion, and Price Efficiency by Winston Wei Dou, Itay Goldstein, Yan Ji :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452704)
   * [Tae Hyung Kim - 최근 미국 와튼스쿨(Wharton School)에서 발표된 한 연구는, 우리가 전혀... | Facebook](https://www.facebook.com/socialego/posts/pfbid02A5tXgBoHakLqfMPMZAtDzcpyE4147cBPNSTnKwsRSFDHYoiJXZ1qpakxfZtcPhiJl)
@@ -3667,6 +3681,9 @@ Artificial Intelligence
     * [부록 91. Claude Code 소스 코드 분석 보고서 | WikiDocs](https://wikidocs.net/338204)
       * [Claude Code (유출본) 소스 코드 분석서 | GeekNews](https://news.hada.io/topic?id=28080)
       * 1,884개 TypeScript/React 파일 구조 분석. 4단계 시스템(초기화→쿼리 루프→도구 실행→터미널 표시), 45+ 빌트인 도구, Zod 스키마 검증, fail-closed 권한 파이프라인, 리더-워커 멀티에이전트 패턴
+  * [Changes in the system prompt between Claude Opus 4.6 and 4.7 | Simon Willison](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
+    * [Claude Opus 4.7 System Prompt Update 핵심 정리](https://digitalbourgeois.tistory.com/3023)
+    * 4.6→4.7 시스템 프롬프트 변경: 질문보다 실행 우선, tool_search 먼저 탐색, 아동 안전 강화, 이모지·정치 언급 제한 해제, 대화 종료 존중. "덜 묻고 더 실행, 더 조심, 더 간결"
   * [비개발자, 클로드 코드로 외주 개발 시작하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3525/)
   * [Claude Code 오픈소스 창시자의 Claude 사용법](https://www.notion.so/grumatic/Claude-Code-Claude-2dd0586bce7480eb8f0cc5a07d5dd7ae)
   * [Claude Code 2.1.0 주요 업데이트](https://fornewchallenge.tistory.com/entry/Claude-Code-210-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8)
@@ -3980,6 +3997,9 @@ Artificial Intelligence
     * [Vercel의 Claude 사용 팀은 비-Claude 팀보다 7.6배 자주 배포합니다. 매주 14%씩 가속 중입니다. Vercel CEO Guillermo Rauch가 직접 공개한 프로덕션 데이터입니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentioncops-cops-code-activity-7427463952588034048-T-lC)
   * [deep-project: Transform vague requirements into well-scoped planning units](https://github.com/piercelamb/deep-project)
     * "Deep Trilogy" 1단계(/deep-project→/deep-plan→/deep-implement). 적응형 인터뷰→분할 분석→의존성 매핑→스펙 자동 생성. 대규모 프로젝트를 관리 가능한 컴포넌트로 분해
+  * [design.md: Format specification for describing visual identity to coding agents](https://github.com/google-labs-code/design.md)
+    * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
+    * YAML 토큰(색상·타이포·간격) + 마크다운 디자인 근거의 이중 레이어 포맷. WCAG 대비 검증, Tailwind/DTCG 내보내기, lint/diff/export CLI. Google
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [ECC Tools](https://ecc.tools/)
@@ -4464,8 +4484,13 @@ Artificial Intelligence
     * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
       * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
+* [Gas Town: Multi-agent orchestration with persistent work tracking](https://github.com/gastownhall/gastown)
+  * [Gas Town: 에이전트는 소멸해도 작업은 소멸하면 안 된다](https://digitalbourgeois.tistory.com/3020)
+  * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
 * [happy: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
   * [Happy - Claude Code Mobile Client](https://happy.engineering/)
+* [IJFW: Unified platform for 13 AI coding agents with shared local memory](https://github.com/theRealSeanDonahoe/ijfw)
+  * 13개 AI 코딩 에이전트(Claude Code/Codex/Gemini/Cursor 등) 통합. 공유 로컬 메모리(BM25+시맨틱), 6중 토큰 절감(캐싱 90%), Trident 멀티AI 감사, DESIGN.md 디자인 계약, 제로 텔레메트리
 * [jcode: A resource-efficient, open source AI coding agent with a native TUI, built in Rust](https://github.com/1jehuang/jcode)
   * Rust 기반 고성능 코딩 에이전트. Claude Code 대비 메모리 25배 적게 사용, 기동 13.6ms. 멀티에이전트 스웜(충돌 자동 해결·에이전트간 메시징), 시맨틱 벡터 메모리, 인라인 Mermaid 렌더링, 20+ LLM 프로바이더, 자기 소스코드 수정·리빌드 가능
 * [Jules - An Asynchronous Coding Agent](https://jules.google/)
