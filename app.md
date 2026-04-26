@@ -2641,6 +2641,8 @@ App
 * [Bear App](https://bear.app/)
   * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
+* [Clearance: A Markdown viewer for macOS](https://github.com/prime-radiant-inc/clearance)
+  * Swift/Xcode 네이티브 macOS 마크다운 뷰어. Tauri 기반 Windows/Linux/Android 확장 예정
 * [clipboard2markdown: Copy to clipboard and paste as Markdown](https://euangoddard.github.io/clipboard2markdown/)
   * [clipboard2markdown](https://github.com/euangoddard/clipboard2markdown)
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
