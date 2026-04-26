@@ -98,6 +98,9 @@ Government
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
 * [MusicBrainz - the open music encyclopedia](https://musicbrainz.org/)
   * [MusicBrainz: 오픈 음악 백과사전 | GeekNews](https://news.hada.io/topic?id=17021)
+* [Nemotron-Personas-Korea: 한국인 페르소나 합성 데이터셋 | NVIDIA](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea)
+  * [고영혁 - NVIDIA 한국인 페르소나 합성 데이터셋 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0pfySjakJtogba6VrEvNE2RyW9RFghj8jxRAST41sDzj4hfJ67vXdAogEsveEaG2fl)
+  * 실제 한국 인구통계 기반 100만 레코드·700만 페르소나·17억 토큰. 26개 필드(인구·지리·성격), 7가지 페르소나 유형, 20.9만 고유 이름. 통계청·대법원·건보공단 공식 통계 활용. CC BY 4.0
 * [PublicDataReader: Open Source Public Data Reader](https://github.com/WooilJeong/PublicDataReader)
 * [PUG: This is the repository for the Photorealistic Unreal Graphics (PUG) datasets for representation learning](https://github.com/facebookresearch/PUG)
   * [Home](https://pug.metademolab.com/)
