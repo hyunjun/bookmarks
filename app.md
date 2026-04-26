@@ -1076,6 +1076,8 @@ App
   * [Sublime Text 3의 untitled 탭에 첫 행 표시하기 - 용균](https://edykim.com/ko/post/displaying-the-first-line-in-the-untitled-tab-of-sublime-text-3/)
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
+* [Stirling-PDF: Open-source PDF editing platform](https://github.com/Stirling-Tools/Stirling-PDF)
+  * 셀프호스팅 PDF 편집 플랫폼. 50+ PDF 도구(병합·분할·서명·편집·OCR·압축·변환), 노코드 워크플로우 자동화, REST API, SSO·감사 로그, 40+ 언어. 데스크톱/브라우저/서버. 77.8k stars
 * [Theia - Cloud and Desktop IDE Platform](https://theia-ide.org/)
   * [theia: Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript](https://github.com/eclipse-theia/theia)
   * [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
@@ -2822,6 +2824,9 @@ App
   * [엑셀, 워드, PPT... 설치 없이 무료로 쓰는 방법⚡#shorts | JinKwon Jeon](https://www.linkedin.com/posts/jeonjk_%EC%97%91%EC%85%80-%EC%9B%8C%EB%93%9C-ppt-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95shorts-activity-7419384190468612096-RWgJ)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * HWP
+  * [HOP (HOP is Open HWP) — 오픈소스 HWP/HWPX 뷰어·에디터](https://golbin.github.io/hop)
+    * [백건우 - 오픈소스 아래한글 데스크톱 버전 | Facebook](https://www.facebook.com/marupress/posts/pfbid02Cg6SEzTvjTMQwVLMQTyPFR1myMYcYzV19qrZjSr5m17ntjKk9BLCCqrw2acvHiXTl)
+    * rhwp 엔진 기반 크로스플랫폼(macOS/Windows/Linux) HWP/HWPX 편집기. Homebrew 설치, macOS 서명/공증. 무료, 한컴 로열티 없음
   * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
   * [polaris_dvc: Pure Rust HWPX document validation toolchain](https://github.com/PolarisOffice/polaris_dvc)
     * [polaris_dvc docs](https://polarisoffice.github.io/polaris_dvc)
