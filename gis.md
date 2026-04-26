@@ -67,6 +67,8 @@ GIS
 
 # Library
 * [2021년 최신 시각화된 지도 제작 프로그램 &사이트 모음!](https://www.finereport.com/kr/%EC%A7%80%EB%8F%84-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
+* [admdongkor: 대한민국 행정동 경계 데이터 (1975-2026)](https://github.com/vuski/admdongkor)
+  * 1975~2026 읍면동 경계 62개 버전. GeoJSON/Parquet, Python/JS 라이브러리, 인터랙티브 시계열 시각화, 면적 가중 매칭으로 인구 데이터 재계산
 * [City2Graph](https://city2graph.net/)
   * [city2graph: A Python library to convert geospatial datasets into graph representations](https://github.com/c2g-dev/city2graph)
   * 지리공간 데이터를 Graph Neural Network용 그래프로 변환하는 Python 라이브러리. GeoPandas, NetworkX, PyTorch Geometric 통합. 도시 형태학, 교통, 모빌리티 네트워크 등 GeoAI 응용
