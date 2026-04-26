@@ -660,6 +660,8 @@ Web
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
 * Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
+* [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
+  * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 * [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
 * [Webclaw — The fastest web scraper for AI agents](https://webclaw.io/)
