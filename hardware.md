@@ -123,6 +123,8 @@ Hardware
 
 # AI
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
+* [스위치 없이 B300 클러스터 구성하기 | Sionic AI](https://blog.sionic.ai/dgx-b300-direct)
+  * NVIDIA DGX B300 ConnectX-8 8포트로 스위치 없는 full mesh 직접 연결. DAC 케이블로 비용 1/10, NCCL 커스텀 패치로 멀티 서브넷 분산 학습, 787GB/s(이론값 98%). 2~8대 ~100억원 이하 규모
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [Tiiny AI Inc](https://tiiny.ai/)
