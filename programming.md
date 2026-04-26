@@ -2783,6 +2783,8 @@ Programming
     * 한 서비스가 소셜 네트워크를 운영하는 것이 아니라
     * 이메일처럼 여러 소셜 네트워크가 서로 통신할 수 있게 해주어 사용자는 원하는 프로바이더를 선택할 수 있게 해주는 프로토콜
   * 블루스카이 앱도 곧 공개할 예정
+* [Distributed Systems lecture series | Martin Kleppmann - YouTube](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+  * Cambridge 대학 학부 8강 23편 분산 시스템 강의. Two Generals, Byzantine, 물리 시계/논리 시계, Broadcast, Replication, Consensus, Raft 등. 강의 노트 PDF 포함
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -7522,6 +7524,7 @@ Programming
   * [4월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/04/b-4-1.html)
   * [4월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/04/b-4-2.html)
   * [4월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/04/b-4-3.html)
+  * [4월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/04/b-4-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
