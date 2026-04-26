@@ -1658,6 +1658,10 @@ Artificial Intelligence
   * [Gemma 2: 실용적인 규모의 오픈 언어 모델 개선 | GeekNews](https://news.hada.io/topic?id=15560)
   * [✨구글 Gemma 2 분석: 최신 오픈소스 모델로 무료 챗봇 만들기 🤖🔓](https://fornewchallenge.tistory.com/entry/%E2%9C%A8%EA%B5%AC%EA%B8%80-Gemma-2-%EB%B6%84%EC%84%9D-%EC%B5%9C%EC%8B%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%AC%B4%EB%A3%8C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-%F0%9F%A4%96%F0%9F%94%93)
   * [소소한 코딩 화면 공유 - Google gemma2 서버 만들기 - YouTube](https://www.youtube.com/watch?v=8nPpLqGQNIw)
+  * [Ollama 쓰레기통에 버리고 MLX로 갈아탄 이유 - 속도 미쳤다 | 맥북 유저 필수 시청 - YouTube](https://www.youtube.com/watch?v=kvufFmGwsk0)
+    * Apple Silicon 전용 MLX 프레임워크. CPU+GPU 통합 메모리 풀로 Ollama 대비 월등한 속도. Gemma 4 MLX 연동 가이드
+  * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
+    * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
   * [Gemma3:1b, 4b, 12b, 27b 비교 - YouTube](https://www.youtube.com/watch?v=IyfhWzanyeY)
   * [Gemma 4 - Google DeepMind](https://deepmind.google/models/gemma/gemma-4/)
     * [Google, 오픈 모델 Gemma 4 공개 | GeekNews](https://news.hada.io/topic?id=28138)
@@ -3666,6 +3670,9 @@ Artificial Intelligence
     * [Claude Code로 바이브 코딩한 책장 프로젝트 | GeekNews](https://news.hada.io/topic?id=25443)
   * [How Claude Code is built - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
     * [lucas on X: "Claude Code 어떻게 만들어졌을까" / X](https://x.com/lucas_flatwhite/status/2006192256106258614)
+  * [How Anthropic's product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code) | Lenny's Podcast - YouTube](https://www.youtube.com/watch?v=PplmzlgE0kg)
+    * [최승준 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid02yvrGZumKAgzbJnstbkUyNdGwv5DNi4ENzFuYBKc8NmParjqhpPYTXy6BVmVHAUccl)
+    * Anthropic Claude Code/Cowork 제품 총괄 Cat Wu 인터뷰. AI PM 채용에서 성공하는 사람의 차이, Anthropic 제품팀이 누구보다 빠르게 움직이는 방법
   * [How Claude Code works](https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works)
     * [Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지 | GeekNews](https://news.hada.io/topic?id=28062)
     * 6단계 Agentic Loop(입력→컨텍스트 조립→API 호출→권한 체크→도구 실행→응답) 구조. 시스템(Git 상태·커밋)과 사용자(CLAUDE.md) 컨텍스트 통합, 3단계 권한 모델(allow/ask/deny), 대화 JSON 저장·복원, 컨텍스트 윈도우 오버플로우 방지
@@ -3908,6 +3915,10 @@ Artificial Intelligence
   * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
     * [30가지 이상의 Claude Code 활용 팁 모음 (feat. ykdojo/claude-code-tips) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/30-claude-code-feat-ykdojo-claude-code-tips/8368)
   * [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+  * [claude-consultant-kr: 맥킨지 지식 프레임워크 한국어 윤문 자동화 Claude Code 에이전트](https://github.com/gaebalai/claude-consultant-kr)
+    * [Claude Code 에이전트로 AI 컨설턴트 구축하기 | velog](https://velog.io/@aiengineer/Claude-Code-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-AI-%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EB%A7%A5%ED%82%A8%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9C%A4%EB%AC%B8-%EC%9E%90%EB%8F%99%ED%99%94-v0.4.0-CLI)
+    * [Claude Code 에이전트로 AI 컨설턴트 구축하기 | gaebalai](https://www.linkedin.com/posts/gaebalai_claude-code-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-ai-%EC%BB%A8%EC%84%A4%ED%84%B4%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EB%A7%A5%ED%82%A8%EC%A7%80%EC%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-share-7453685255686840320-u9iD)
+    * McKinsey/BCG 분석 프레임워크(MECE, 피라미드, 3C, SWOT, 4P) 내장. 한국 시장 1급 시민, 핀테크/헬스케어/건설/이커머스 업종별 에이전트, Humanize KR 통합. npx 원커맨드 설치
   * [claude-context: Code search MCP for Claude Code. Make entire codebase the context for any coding agent](https://github.com/zilliztech/claude-context)
     * [RAG engine for deep document understanding](https://aiengineering.beehiiv.com/p/rag-engine-for-deep-document-understanding)
   * [claude-delegator: Delegate tasks to Codex GPT 5.2 directly from within Claude Code](https://github.com/jarrodwatts/claude-delegator)
@@ -3999,6 +4010,8 @@ Artificial Intelligence
     * "Deep Trilogy" 1단계(/deep-project→/deep-plan→/deep-implement). 적응형 인터뷰→분할 분석→의존성 매핑→스펙 자동 생성. 대규모 프로젝트를 관리 가능한 컴포넌트로 분해
   * [design.md: Format specification for describing visual identity to coding agents](https://github.com/google-labs-code/design.md)
     * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
+    * [DESIGN.md 포맷 완전정복 — 28챕터 딥다이브](https://rubric.im/curriculum/design-md)
+      * [DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리) | GeekNews](https://news.hada.io/topic?id=28861)
     * YAML 토큰(색상·타이포·간격) + 마크다운 디자인 근거의 이중 레이어 포맷. WCAG 대비 검증, Tailwind/DTCG 내보내기, lint/diff/export CLI. Google
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
@@ -4048,6 +4061,8 @@ Artificial Intelligence
     * [바이브 코딩 튜토리얼: hwp2md 프로젝트 사례](https://github.com/roboco-io/hwp2md/blob/main/docs/vibe-coding-tutorial.md)
   * [ii-queue-runner: Self-hosted GitHub Actions on Apple Silicon with AI agent triggers](https://github.com/intelligent-iterations/ii-queue-runner)
     * Apple Silicon Mac에서 Tart VM 기반 셀프호스트 GitHub Actions. @claude/@codex 멘션으로 AI 에이전트 트리거, 동적 작업 프로필, 유휴 자원 제로
+  * [im-not-ai (Humanize KR): 한글 AI 티 제거기](https://github.com/epoko77-ai/im-not-ai/)
+    * 한국어 AI 문체 40+ 패턴 10개 카테고리 탐지·자연스러운 문장으로 변환. 7개 전문 에이전트, 13항목 콘텐츠 충실도 감사, 30% 경고/50% 강제 중지 안전장치. Fast/Strict 2모드, 작가 보이스 프로필
   * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
     * Claude Code CLI용 자동 루프 드라이버, 슬래시 명령어, 카운실 자동화, MCP 브라우저 브릿지, 포트폴리오 거버넌스 통합 도구 모음
   * [language-skills](https://github.com/tmdgusya/language-skills)
