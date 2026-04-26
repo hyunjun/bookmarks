@@ -2995,6 +2995,8 @@ Business
   * 리더 독단은 조직 지능을 한 사람으로 수렴시킴. 방향은 제시하되 과정은 자율 부여, 1on1·투명한 정보 공유·실패 회고와 승리 축하가 핵심. 스타트업 대표/CTO 경험 기반
 * [리더는 명확한 우선순위가 있습니다: 1순위는 고객, 2순위는 팀원 | 김민기](https://www.linkedin.com/posts/%EB%AF%BC%EA%B8%B0-%EA%B9%80-ab7b2723b_%EB%A6%AC%EB%8D%94%EB%8A%94-%EB%AA%85%ED%99%95%ED%95%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%EA%B0%80-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-1%EC%88%9C%EC%9C%84%EB%8A%94%EA%B3%A0%EA%B0%9D-2%EC%88%9C%EC%9C%84%EB%8A%94%EB%82%B4-%ED%8C%80%EC%9B%90-activity-7448682295172964352-tjQm)
   * 고객(1순위), 팀원(2순위), 자신(3순위). 경험 부족할수록 팀원에 대한 헌신을 놓침. 비판적 피드백을 주는 직원은 조직에 애정 있는 신호
+* [Ivy Lee - 일본 신칸센 청소 회사 테세이의 경영 혁신 | Facebook](https://www.facebook.com/kyusang.ivylee/posts/pfbid05fHdL3LW9VyrDnKD5AYou7YjfVT1MWCnkQ5XsrM54fuCop3LUPuvwtBUoKj5eF4al)
+  * 7분 1,000석 청소 환경에서 감시·통제를 버리고 직원을 "공연자"로 재정의. 제안 400건→1만건, 수동→능동 조직 문화 전환. 효율성보다 존엄성과 자부심이 진정한 혁신의 동력
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4615,6 +4617,8 @@ Business
   * Surge AI: VC 투자 없이 4년 만에 1조원 매출, 100명 미만. OpenAI/Anthropic/Google에 AI 학습 데이터 품질 관리
 * [Three Metrics Every New Founder Should Track](https://www.dearstage2.com/p/three-metrics-every-new-founder-should)
   * [새로운 창업자가 추적해야 할 3가지 지표 | GeekNews](https://news.hada.io/topic?id=27185)
+* [AI 시대의 Juicero | Ethan Cho](https://www.linkedin.com/posts/ethan-yj-cho_%EC%9D%B8%EA%B8%B0-%EC%97%86%EC%9D%84-%EA%B8%80-%ED%95%98%EB%82%98-%ED%88%AC%EC%B2%99-ai-%EC%8B%9C%EB%8C%80%EC%9D%98-juicero-%ED%95%9C%EA%B5%AD%EC%97%90%EB%8A%94-%EC%83%81%EB%8C%80%EC%A0%81%EC%9C%BC%EB%A1%9C-share-7449210472219971584-gYvT)
+  * 기존 도구로 충분한 작업을 AI 에이전트로 복잡하게 포장하는 현상을 Juicero에 비유. "지금 뜨거운 건 AI가 아니라 AI 서사." 투자 전 제품 필요성 검증 우선
 * [founders-kit: Essential resources, tools, and playbooks for startup founders](https://github.com/avinash201199/founders-kit)
   * 스타트업 창업자를 위한 필수 리소스, 도구, 플레이북 모음. 학습 자료, 강좌, 디자인 도구, 펀드레이징 가이드, 커뮤니티 네트워크를 카테고리별 정리
 
