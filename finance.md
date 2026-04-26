@@ -339,6 +339,8 @@ Finance
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
+* [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
+  * [블룸버그 터미널 연 구독료 약 3만 2천 달러. 한화 4,600만원 수준입니다. 같은 역할을 지향하는 오픈소스 대안이 한 명의 개발자 손에서 나와 깃허브 별 4만개를 넘겼습니다. 이번 주말 개인 서버에 설치해볼 예정이라, 공부한 내용을 정리해 공유합니다. ▶ 프로젝트: World Monitor 실시간 글로벌 인텔리전스 대시보드입니다. 한 화면에 다음… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%B0-%EA%B5%AC%EB%8F%85%EB%A3%8C-%EC%95%BD-3%EB%A7%8C-2%EC%B2%9C-%EB%8B%AC%EB%9F%AC-%ED%95%9C%ED%99%94-4600%EB%A7%8C%EC%9B%90-%EC%88%98%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-share-7452296257399861248-0t46)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
