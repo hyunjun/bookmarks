@@ -1456,6 +1456,9 @@ Programming
     * (주기적으로) 계획이 변경되는가?
     * 프로세스가 개선되는가?
 * [Peter Girnus 🦅 on X: "The company hired me to lead their "Agile Transformation." I don't know what Agile means. Nobody does. That's why it works. I make $425,000 a year. To move sticky notes. From left to right. On a board. The board is digital now. The sticky notes cost $80,000 in Jira licenses." / X](https://x.com/gothburz/status/2002786661608874443)
+* [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+  * [애자일에 작별을 고하며 | GeekNews](https://news.hada.io/topic?id=28583)
+  * 애자일의 핵심 개념(반복 개발, 고객 참여)이 1970년대 연구에서 이미 존재했으며, 명확한 정의 없이 워터폴 반대로만 규정됐다고 비판. LLM 시대에 명세 기반 개발로 회귀 필요성 제기
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
@@ -4199,6 +4202,11 @@ Programming
 * [AWS AI 팩토리, 혁신의 뒤에 숨은 비용과 종속성 | ITWorld](https://www.itworld.co.kr/article/4107475/aws-ai-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%98%81%EC%8B%A0%EC%9D%98-%EB%92%A4%EC%97%90-%EC%88%A8%EC%9D%80-%EB%B9%84%EC%9A%A9%EA%B3%BC-%EC%A2%85%EC%86%8D%EC%84%B1.html)
 * [Owning a $5M data center - comma.ai blog](https://blog.comma.ai/datacenter/)
   * [클라우드를 임대하지 말고, 직접 소유하세요 | GeekNews](https://news.hada.io/topic?id=26441)
+* [잘못된 클라우드 전략, AI 혁신 가로막는다 | CIO](https://www.cio.com/article/4161200/%EC%9E%98%EB%AA%BB%EB%90%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%A0%84%EB%9E%B5-ai-%ED%98%81%EC%8B%A0-%EA%B0%80%EB%A1%9C%EB%A7%89%EB%8A%94%EB%8B%A4.html)
+  * 14%만 AI 최적화 클라우드 단계 도달, 88% IT 리더가 클라우드 투자 부족 위험 평가. AI 파일럿에 예산 집중하면서 핵심 클라우드 인프라 소홀
+* [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+  * [나는 클라우드를 만들고 있어요 | GeekNews](https://news.hada.io/topic?id=28835)
+  * Tailscale 공동 창업자가 exe.dev 발표. 현재 클라우드의 근본 결함(VM 번들링, 느린 원격 스토리지, 비싼 이그레스)을 지적하며 로컬 NVMe·유연한 CPU/메모리 할당·글로벌 리전을 갖춘 새 인프라 구축
 * [Apache OpenWhisk is a serverless, open source cloud platform](https://openwhisk.apache.org/)
   * [openwhisk: Apache OpenWhisk is an open source serverless cloud platform](https://github.com/apache/openwhisk)
 * [aws](aws.md)
