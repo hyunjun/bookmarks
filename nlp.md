@@ -458,8 +458,6 @@ NLP
   * 2. 소비자용 GPU 지원: 과거 192GB VRAM이 필요했던 작업을 24GB VRAM(RTX 3090/4090 등)에서 수행 가능, 개인 개발자 접근성 향상
   * 3. 정확도 보존: 근사치 계산이 아닌 정확한 계산 방식을 사용하여 성능 저하 없이 최적화 달성
   * 4. 통합 최적화: vLLM 대기 모드(Standby), 플렉스 어텐션(Flex Attention)등 신기술을 결합, 긴 문맥 학습 시 발생하는 병목 현상 해결
-* [2603.19220v2 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/html/2603.19220v2)
-  * [NVIDIA Nemotron-Cascade-2: 활성화 3B 모델로 IMO 금메달 달성](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%86-NVIDIA-Nemotron-Cascade-2-30B-%EB%A1%9C-%EA%B8%88%EB%A9%94%EB%8B%AC-%EB%8B%AC%EC%84%B1)
 * [tokens are getting more expensive - by Ethan Ding](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
   * [LLM 서비스 비용은 정말로 많이 내려갔는가? LLM의 가격이 지속적으로 떨어지고 있다는 이야기가 요즘 곳곳에서 들립니다. 언론에서도, 투자 보고서에서도 “AI 모델의 단가가 급격히 낮아지고 있다”고 말하곤 합니다. 그러나 이 말은 절반만 맞습니다. 지난 2년간 LLM 서비스 비용이 눈부시게 내려간 것은 사실이지만, 그 하락이 앞으로도 같은 속도로… | Dongsoo Lee](https://www.linkedin.com/posts/dongsoo-lee-45028017_llm-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EC%9A%A9%EC%9D%80-%EC%A0%95%EB%A7%90%EB%A1%9C-%EB%A7%8E%EC%9D%B4-%EB%82%B4%EB%A0%A4%EA%B0%94%EB%8A%94%EA%B0%80-llm%EC%9D%98-%EA%B0%80%EA%B2%A9%EC%9D%B4-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C-ugcPost-7384202513224433664-iwxb) 토큰 비용 등
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
@@ -2859,8 +2857,6 @@ NLP
   * [Opus 4.5! 오늘도 다 지우는 날~! 기모링 - YouTube](https://www.youtube.com/watch?v=t6fMLeh9DMo)
   * [클로드 4.5 Opus 인공지능 AI가 똑똑해진 진짜 이유 - YouTube](https://www.youtube.com/watch?v=45dlLw18A-E)
   * [anthropic-cookbook/third_party/VoyageAI/how_to_create_embeddings.md at main · anthropics/anthropic-cookbook · GitHub](https://github.com/anthropics/anthropic-cookbook/blob/main/third_party/VoyageAI/how_to_create_embeddings.md)
-  * [gemma-2-2b Attribution Graph ｜ Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph)
-    * [(4) 박시용 - 몇일 전 Anthropic 블로그에, 'Open-sourcing circuit tracing tools'이... | Facebook](https://www.facebook.com/syp.sypark/posts/pfbid029wtW1sV6Q9z7wgunebNrYgFujbKZMEqQPSf94WjkFSmxR96GDP9Mf6VmmqB5SvEYl)
   * [system_prompts_leaks/claude-3.7-full-system-message-with-all-tools.md at main · asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude-3.7-full-system-message-with-all-tools.md)
     * ["Claude는 어떻게 응답을 결정할까?" — 유출된 시스템 프롬프트가 말해주는 AI의 내부 규칙](https://digitalbourgeois.tistory.com/1204)
 * [cover-agent: CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞](https://github.com/Codium-ai/cover-agent)
@@ -5006,6 +5002,8 @@ NLP
 * [2601.10639 STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)
   * [추론의 시대가 가고, STEM의 시대가 온다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_ai-suaqtztfmqvz-rhqtnk-activity-7419514213116559361-bjGm)
     * STEM이 진짜로 던지는 질문은 이것이다. 지능이란 진정으로 무엇인가?
+* [2603.19220v2 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/html/2603.19220v2)
+  * [NVIDIA Nemotron-Cascade-2: 활성화 3B 모델로 IMO 금메달 달성](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%86-NVIDIA-Nemotron-Cascade-2-30B-%EB%A1%9C-%EA%B8%88%EB%A9%94%EB%8B%AC-%EB%8B%AC%EC%84%B1)
 * [6019_editing_models_with_task_arith.pdf](https://openreview.net/pdf?id=6t0Kwf8-jrj)
   * [Task Arithmetic (Task Vector, Model Merge)](https://obsidian-blog-gilt.vercel.app/paper-review/Task%20Arithmetic%20\(Task%20Vector,%20Model%20Merge\)/)
     * [Task Arithmetic (Task Vector, Model Merge) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_task-arithmetic-task-vector-model-merge-activity-7374305239404830721-oSrg)

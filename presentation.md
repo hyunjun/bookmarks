@@ -100,6 +100,9 @@ Presentation
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
   * [개발자를 위한 PPT 발표앱을 찾았다...! - YouTube](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
   * [개발자를 위한 PPT, Marp 사용 후기 - YouTube](https://www.youtube.com/watch?v=HxpmYNVI73c)
+* [mckinsey-pptx: AI-powered McKinsey style PPTX generator for Claude Code](https://github.com/seulee26/mckinsey-pptx)
+  * [제안서·보고서 필요하신분들 이거 꼭 저장하세요. 맥킨지 스타일 PPTX | seungpil](https://www.linkedin.com/posts/seungpil_%EC%A0%9C%EC%95%88%EC%84%9C-%EB%B3%B4%EA%B3%A0%EC%84%9C-%ED%95%84%EC%9A%94%ED%95%98%EC%8B%A0%EB%B6%84%EB%93%A4-%EC%9D%B4%EA%B1%B0-%EA%BC%AD-%EC%A0%80%EC%9E%A5%ED%95%98%EC%84%B8%EC%9A%94-%EB%A7%A5%ED%82%A8%EC%A7%80-%EC%8A%A4%ED%83%80%EC%9D%BC-pptx-share-7453241869712543744-YBsD)
+  * 자연어로 맥킨지 스타일 PPT 자동 생성. 40개 슬라이드 템플릿(요약·차트·매트릭스·타임라인·조직도), Excel/Word/PDF/마크다운 입력, AI 서브에이전트가 템플릿 선택·디자인 근거 제시. MIT
 * [mdpre: claude code로 만든 마크다운 프레젠테이션](https://github.com/weniv/mdpre)
   * [WENIV Presenter - 마크다운 프레젠테이션 도구](https://weniv.github.io/mdpre/)
 * [Mousepose](http://bedreams.tistory.com/46)
