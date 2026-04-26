@@ -2640,9 +2640,14 @@ Artificial Intelligence
 * [음성 AI 에이전트, 왜 파일럿 단계를 넘지 못하나 | ITWorld](https://www.itworld.co.kr/article/4156945/)
 * [LLM 도입 전 체크리스트 27가지 | ITWorld](https://www.itworld.co.kr/article/4155361/)
 * [가트너 "인프라·운영 관련 AI 프로젝트 28%만 성공...20%는 완전 실패" | CIO](https://www.cio.com/article/4156257/)
+* [AI 시대에 회사를 떠나는 베테랑들...'능력 문제'가 아니야 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=208932)
+  * 고경력 전문가 조기퇴직: 기술 학습 능력이 아닌 남은 근무기간 대비 학습 투자 비용 판단. 미국 55세+ 경활인구 20년 최저치. 한국 60대는 AI 사용률 낮지만 친밀감·기대감은 오히려 높음
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
+* [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
+  * [samyeonggu | X](https://x.com/samyeonggu/status/2044041633356992522)
+  * 경쟁 압력이 기업을 노동자 재흡수 속도보다 빠르게 자동화하도록 몰아 노동자와 기업주 모두에게 해가 되는 역설. UBI·임금 조정으로 해결 불가, Pigouvian 과세만이 유효
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
   * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
@@ -3809,6 +3814,8 @@ Artificial Intelligence
     * PR 자동화(/git-pr 스킬), SWC 도입으로 빌드 1초 미만, 프리뷰 기능으로 UI 검증 위임, 병렬 워크트리 시스템으로 동시 5개 작업. 기능 개발보다 피드백 루프 속도를 줄이는 인프라 구축이 핵심
   * [Anthropic이 '지저분한 코드'로 시장을 이긴 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3703/)
     * 유출된 소스에서 3,167줄 함수 등 발견되었지만 AI 개발 도구 시장 점유율 ~31%. 코드 품질보다 모델-도구 통합의 매끄러운 경험이 핵심. 예방보다 빠른 배포+빠른 오류 감지 철학
+  * [Claude Code로 코드 리뷰 자동화하기 — 설정부터 실패 학습 루프까지 | mimul](https://www.mimul.com/blog/claude-code-review/)
+    * CLAUDE.md/Settings/Skills/MCP/Rules/Commands 계층 설명. 3단계 리뷰 워크플로우(피드백→대응→회신), 실패 패턴 memory/→rules/ 승격 학습 루프. "CLAUDE.md 50행 이하" 권장
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
@@ -5070,6 +5077,8 @@ Artificial Intelligence
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer) vector DB는 아니고 비용 절감을 위한 대안의 예
   * [Turbopuffer - 오브젝트 스토리지에서 빠른 검색 기술 | GeekNews](https://news.hada.io/topic?id=15775)
+* [turbovec: A Rust-based vector index with Python bindings built on Google Research's TurboQuant algorithm](https://github.com/RyanCodrai/turbovec)
+  * 코드북 학습 불필요한 Data-Oblivious 양자화. ARM에서 FAISS 대비 12-20% 빠르고 31GB→4GB 극한 압축. LangChain·LlamaIndex·Haystack 연동 지원
 * [valori: A high-performance vector database library for Python that provides efficient storage, indexing, and search capabilities for high-dimensional vectors](https://github.com/varshith-Git/valori)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
