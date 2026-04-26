@@ -817,6 +817,9 @@ AWS
   * [secure-soc-agent](https://github.com/Bandolo/secure-soc-agent)
     * [Building an AI Security Operations Center with AWS Bedrock AgentCore (Live Demo) - YouTube](https://www.youtube.com/watch?v=4YrduS-3Wjo)
       * [Automated IOC Triage with Bedrock SOC Agent: 87% Resolution | Ngwa Bandolo Bobga Cyril posted on the topic | LinkedIn](https://www.linkedin.com/posts/cyrilbandolo_aisecurity-bedrock-soc-activity-7393640384880599040-uHfr)
+  * [Managed Harness - Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html)
+    * [Bedrock AgentCore Managed Harness 심층 해부: 3번의 API 호출로 끝나는 에이전트 배포](https://jesamkim.github.io/ai-tech-blog/posts/2026-04-26-bedrock-agentcore-managed-harness-deep-dive/)
+    * 선언형(model+systemPrompt+tools) 에이전트 배포. Strands Agents 엔진, microVM 세션 격리, 영속 파일시스템. 프리뷰 4개 리전, 추가 과금 없음
 * [Amazon Nova - Explore Amazon Nova foundation models](https://nova.amazon.com/)
   * [아마존, 웹 브라우저에서도 작동하는 생성형 AI 에이전트 플랫폼 ‘노바’ 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=34429)
   * [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
@@ -2969,6 +2972,9 @@ AWS
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
+* [kumo: A lightweight AWS service emulator written in Go](https://github.com/sivchari/kumo)
+  * [kumo - Go로 작성된 경량 AWS 서비스 에뮬레이터 | GeekNews](https://news.hada.io/topic?id=28793)
+  * 단일 바이너리 Go 기반 76개 AWS 서비스 에뮬레이터. 인증 불필요, Docker 지원, 선택적 JSON 데이터 보존, localhost:4566. CI/CD·로컬 개발용. MIT
 * [localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!](https://github.com/localstack/localstack)
   * [LocalStack을 활용한 Integration Test 환경 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2638/)
   * [LocalStack: Turbocharging dev loops and team collaboration for cloud applications by Waldemar Hummer - YouTube](https://www.youtube.com/watch?v=YIkKsnxb9eE)
