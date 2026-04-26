@@ -3718,6 +3718,10 @@ NLP
 * [Mellum - 개발자를 위해 설계된 JetBrains의 새로운 LLM | JetBrains 블로그](https://blog.jetbrains.com/ko/blog/2024/11/21/introducing-mellum-jetbrains-new-llm-built-for-developers/)
 * [mem0: The memory layer for Personalized AI](https://github.com/mem0ai/mem0)
   * [Mem0 - 개인화 AI를 위한 Long-Term 메모리 | GeekNews](https://news.hada.io/topic?id=16084)
+* [Memento: Teaching LLMs to manage their own context](https://arxiv.org/abs/2604.09852)
+  * [memento](https://github.com/microsoft/memento)
+  * [Memento: Teaching LLMs to Manage Their Own Context | Microsoft Research](https://www.microsoft.com/en-us/research/articles/memento-teaching-llms-to-manage-their-own-context/)
+  * Microsoft. CoT를 블록+요약으로 분할, 블록 처리 후 KV 캐시에서 제거하여 고정 컨텍스트 윈도우 내에서 확장된 추론. 특수 토큰(block_start/end)으로 추론 구간 구분, vLLM 통합
 * [mergekit: Tools for merging pretrained large language models](https://github.com/cg123/mergekit)
   * [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models)
 * [MiniCPM-V: MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone](https://github.com/OpenBMB/MiniCPM-V)
