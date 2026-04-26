@@ -249,6 +249,8 @@ Graph
   * [edgequake](https://github.com/raphaelmansuy/edgequake)
   * [EdgeQuake: Rust 기반 고성능 Graph-RAG 프레임워크 정리](https://digitalbourgeois.tistory.com/2821)
   * LightRAG 알고리즘을 Rust로 구현. 문서를 lineage-aware knowledge graph로 변환, 6가지 검색 모드
+* [Enterprise-GraphRAG-Architecture: Production-grade Knowledge Graph + LLM pipeline](https://github.com/Sirishakrishna/-Enterprise-GraphRAG-Architecture)
+  * Neo4j 지식 그래프+LLM 결합. Cypher 쿼리 생성으로 확률적 유사도 대신 결정론적 그래프 검색, 멀티홉 관계 보존, 환각 완화. 금융/헬스케어/FMCG 규제 산업용. LangChain 에이전틱 라우팅
 * [knowledgeGraph: AI agent long-term memory via mentoring-based knowledge graph](https://github.com/ChenLiangChong/knowledgeGraph)
   * AI 에이전트 장기 기억 시스템. 멘토링 통해 도메인 전문성 축적, 하이브리드 검색, 메모리 감쇠, 환각 방지
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
