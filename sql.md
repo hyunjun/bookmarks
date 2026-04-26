@@ -526,6 +526,9 @@ SQL
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * [1 ~ 4세대 DBMS로 보는 데이터베이스 발전 과정과 양상에 대해 정리하기 | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/1-4%EC%84%B8%EB%8C%80-dbms%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EC%96%91%EC%83%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-b94c1d93914d)
 * [15 futuristic databases you’ve never heard of - YouTube](https://www.youtube.com/watch?v=jb2AvF8XzII)
+* [Do You Even Need a Database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
+  * [Do You Even Need a Database? | GeekNews](https://news.hada.io/topic?id=28587)
+  * 대부분의 초기 제품에는 DB가 불필요하며, 플랫 파일·인메모리 해시맵·바이너리 서치만으로도 수억 DAU까지 커버 가능. DB는 조인·다중 조건 검색·동시 쓰기·트랜잭션이 필요할 때 도입
 
 # DuckDB
 * [Announcing DuckDB 1.0.0 – DuckDB](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
@@ -592,6 +595,10 @@ SQL
   * [Building Modern Databases with the FDAP Stack • Andrew Lamb & Olimpiu Pop • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=Gd-mhbiy8Vo)
     * [현대 데이터베이스 구축: FDAP 스택 • GOTO 2025](https://livewiki.com/ko/content/fdap-stack-modern-databases)
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
+* [ggsql: A grammar of graphics for SQL](https://ggsql.org/)
+  * [ggsql: A grammar of graphics for SQL | Posit](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
+  * [ggsql - SQL을 위한 그래픽 문법 | GeekNews](https://news.hada.io/topic?id=28742)
+  * SQL 쿼리에 VISUALIZE·DRAW·PLACE 등 시각화 절을 추가해 Grammar of Graphics 기반 차트 생성. ggplot2 18년 경험을 살린 선언적 DSL, 런타임 의존성 없는 경량 바이너리
 * goose [Overview - pressly/goose](https://pressly.github.io/goose/)
 * [Harlequin: The SQL IDE for Your Terminal](https://harlequin.sh/)
 * [ingestr: ingestr is a CLI tool to copy data between any databases with a single command seamlessly](https://github.com/bruin-data/ingestr)
@@ -1540,6 +1547,8 @@ SQL
 * [Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries](https://github.com/CrystallineCore/Biscuit)
   * [Biscuit - PostgreSQL에서 LIKE / ILIKE 패턴 검색을 고속화하기 위 | GeekNews](https://news.hada.io/topic?id=25649)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
+* [db9 — Serverless Postgres for AI Agents](https://db9.ai/)
+  * 서버리스 PostgreSQL + 클라우드 파일 스토리지를 AI 에이전트용으로 결합. 내장 임베딩·벡터 검색·HTTP 확장·크론 스케줄링 지원
 * [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
 * [DocumentDB - Open Source Document Database](https://documentdb.io/)
   * [documentdb: MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity](https://github.com/documentdb/documentdb)
@@ -1604,6 +1613,9 @@ SQL
 * [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
   * [PGLite - 브라우저에서 Postgres 실행하기 | GeekNews](https://news.hada.io/topic?id=13555)
 * [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
+* [pgmicro: an in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine](https://github.com/glommer/pgmicro)
+  * [pgmicro - SQLite 기반으로 만든 인-프로세스 PostgreSQL | GeekNews](https://news.hada.io/topic?id=28464)
+  * PostgreSQL 구문을 실제 PG 파서로 파싱해 SQLite 바이트코드로 직접 컴파일. AI 에이전트·세션 스토어 등 임시 DB용. PG/SQLite 문법 동시 접속 지원
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pg-osc: Zero downtime schema changes in PostgreSQL](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
   * [Revolutionizing PostgreSQL Schema Changes with pg_osc - Mydbops | Blog](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
@@ -1611,6 +1623,8 @@ SQL
   * [PgQueuer – PostgreSQL을 작업 대기열로 이용하는 파이썬 라이브러리 | GeekNews](https://news.hada.io/topic?id=16377)
 * [pg_replicate](https://github.com/supabase/pg_replicate)
   * [pg_replicate - Postgres의 복제를 위한 도구 | GeekNews](https://news.hada.io/topic?id=16300)
+* [pgsemantic: Turn any PostgreSQL database into a semantic search engine](https://github.com/varmabudharaju/pgsemantic)
+  * 기존 PostgreSQL에 60초 만에 시맨틱 검색 추가. DB 트리거로 임베딩 자동 동기화, 크로스 테이블 검색, MCP 도구 10종 제공
 * [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
@@ -1890,6 +1904,7 @@ SQL
 * [syntaqlite: A parser, formatter, validator, and language server for SQLite SQL](https://lalitm.com/post/building-syntaqlite-ai/)
   * [syntaqlite](https://github.com/LalitMaganti/syntaqlite)
   * [8년의 갈망, 3개월의 완성 - AI가 바꾼 사이드 프로젝트의 공식 | GeekNews](https://news.hada.io/topic?id=28239)
+  * [syntaqlite - SQLite 자체 문법과 토크나이저 기반의 SQL 파서·포매터·검증기·언어 서버 | GeekNews](https://news.hada.io/topic?id=28832)
   * SQLite 전용 SQL 파서·포매터·검증기·Language Server. SQLite 자체 문법과 토크나이저 기반
 * [Turso - Databases for All](https://turso.tech/)
   * [Turso Database](https://github.com/tursodatabase)
