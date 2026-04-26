@@ -549,6 +549,9 @@ App
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
+* [Arcmark: A native macOS bookmark manager inspired by Arc browser's sidebar](https://github.com/Geek-1001/arcmark)
+  * [Arcmark - macOS용 브라우저 사이드북마크 관리자 | GeekNews](https://news.hada.io/topic?id=28425)
+  * 모든 브라우저(Chrome, Arc, Safari, Brave)에 붙는 사이드바 북마크 매니저. 워크스페이스·폴더 구조, 로컬 JSON 저장, Arc 가져오기 지원
 * [bookworms: A CLI tool for centralising and generating bookmarks](https://github.com/thearegee/bookworms)
   * [How I centralize and distribute my bookmarks | by Robin Glen | Jan, 2022 | Dev Genius](https://blog.devgenius.io/how-i-centralize-and-distribute-my-bookmarks-cc8b11bb7475)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
@@ -2202,6 +2205,9 @@ App
 * [🔥 업무 효율을 높여주는 아이데이션 툴](https://eopla.net/magazines/17697) ideamap Whimsical
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
+* [architecture-diagram-generator: Generate professional system architecture diagrams as standalone HTML/SVG files through a Claude AI skill](https://github.com/Cocoon-AI/architecture-diagram-generator)
+  * [Create Beautiful Architecture Diagram of Any Project with this Open Source AI Tool | AlphaSignal AI](https://x.com/AlphaSignalAI/status/2044791564757766569)
+  * 자연어로 아키텍처를 설명하면 Claude가 다크 테마의 HTML/SVG 다이어그램 생성. 반복 수정 가능, 단일 HTML 파일 출력
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
@@ -2907,6 +2913,9 @@ App
 * [Epic Pen: The worlds most popular screen marker app!](https://epic-pen.com/)
 * [openscreen: Create stunning demos for free. Open-source, no subscriptions, no watermarks. An alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
   * Screen Studio 대체 오픈소스 화면 녹화/데모 도구. 무료, 구독 없음, 워터마크 없음, 상업적 사용 가능
+* [Recordly: Open-source app for incredible screen recordings](https://recordly.dev/)
+  * [Recordly](https://github.com/webadderallorg/Recordly)
+  * 오픈소스 Screen Studio 대안. auto-zoom, 모션 블러 커서, 웹캠 오버레이, 타임라인 편집기, MP4/GIF 내보내기. macOS/Windows/Linux 지원
 * [ZoomIt - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/ko-kr/sysinternals/downloads/zoomit)
 
 # Search
