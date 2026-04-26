@@ -2472,6 +2472,9 @@ CVPR2016)
   * [딥러닝 시대의 2막을 열다 - 미분이 필요없는AI | Suk Hyun Kim | 18 comments](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_slwsakrhysji-snzswmudqrgu-ai-ugcPost-7399939021369397248-lrOQ)
     * NVIDIA와 옥스퍼드대가 새벽에 발표한 EGGROLL 논문은 표면적으로는 단순한 기술적 개선
     * 그러나 그 이면을 자세히 들여다보면, 딥러닝의 기존 전제를 송두리째 뒤흔드는 패러다임의 변화
+* [2604.21691 A Scientific Theory of Deep Learning Will Come](https://arxiv.org/abs/2604.21691)
+  * [딥러닝에 대한 과학적 이론이 나올 것이다 | GeekNews](https://news.hada.io/topic?id=28883)
+  * 신경망 학습의 "learning mechanics" 이론 프레임워크 제안. 5가지 연구 방향(해석 가능 이상화, 다루기 쉬운 극한, 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)과 7가지 필요 조건
 * [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis)
