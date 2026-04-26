@@ -1717,6 +1717,9 @@ Linux
 * [tmux + tailscale 도대체 어디에 쓰는거야?](https://velog.io/@480/tmux-tailscale-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC)
 * [SSH login tmux session picker](https://gist.github.com/golbin/2842fab87515ce56b3bb1a216f8c433e)
   * SSH 접속 시 대화형 메뉴로 일반 셸/새 tmux 세션/기존 세션 선택. fzf 기반, bash/zsh 설치 지원
+* [Make tmux Pretty and Usable - A Guide to Customizing Your tmux.conf](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+  * [tmux를 보기 좋고 사용하기 쉽게 만드는 방법 (2024) | GeekNews](https://news.hada.io/topic?id=28517)
+  * prefix 키 변경, 직관적 분할 단축키, 마우스 지원, 상태바 커스터마이징 등 실용적 tmux 설정 가이드
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-ide: Turn any project into a tmux-powered terminal IDE with ide.yml config](https://github.com/wavyrai/tmux-ide)
   * [Tmux Cheat Sheet](https://tmux.thijsverreck.com/)
