@@ -2672,6 +2672,8 @@ Artificial Intelligence
 * [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
 * [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
+* [Anthropic이 반복하는 패턴에 대해 | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_anthropic%EC%9D%B4-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B3%B4%ED%86%B5-%EC%8A%B5%EA%B4%80%EC%9D%80-%EC%9D%98%EB%8F%84%EB%B3%B4%EB%8B%A4-%EB%AC%B4%EA%B2%81%EB%8B%A4%EA%B3%A0-share-7453761606271991808-ujGx/)
+  * Anthropic의 반복적 소통 실패 분석: 2025.8 품질 저하(라우팅 오류 16%), 2026.3 Claude Code reasoning effort 무단 축소, 직원 60명 접근 차단. 기술 경쟁 가속에도 사용자 신뢰가 시장 지배력을 결정한다는 주장
 
 # Paper
 * [A "diff" tool for AI: Finding behavioral differences in new models | Anthropic](https://www.anthropic.com/research/diff-tool)
@@ -4542,6 +4544,9 @@ Artificial Intelligence
 * [next-ai-examples: Next.js + AI SDK examples](https://github.com/myeong-ga/next-ai-examples)
 * [oh-my-agentic-score: Measure and visualize your agentic coding quality](https://github.com/HwangTaehyun/oh-my-agentic-score)
   * [oh-my-agentic-score 당신의 agentic coding | Taehyun Hwang](https://www.linkedin.com/posts/taehyun-hwang-876631201_oh-my-agentic-score-%EB%8B%B9%EC%8B%A0%EC%9D%98-agentic-coding-ugcPost-7435976945043107840-t-oy)
+* [oh-my-codex: Multi-agent orchestration layer for OpenAI Codex CLI](https://oh-my-codex.dev/)
+  * [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  * Codex CLI용 멀티 에이전트 워크플로우 레이어. git worktree 격리 병렬 실행, 33개 전문 역할 프롬프트, 36개 스킬, plan→design→execute→verify 파이프라인. Discord·Telegram·OpenClaw 연동, 5개 MCP 서버
 * [oh-my-opencode: #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.](https://github.com/code-yeongyu/oh-my-opencode/)
   * [oh-my-opencode/README.ko.md at master · code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode/blob/master/README.ko.md)
   * [지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode) - YouTube](https://www.youtube.com/watch?v=BhZofx0Ms88)
@@ -4788,6 +4793,8 @@ Artificial Intelligence
   * [ZeroClaw Hub | Private Gateway Control Plane](https://zeroclawlabs.ai/)
     * [zeroclaw: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀](https://github.com/zeroclaw-labs/zeroclaw)
     * [🦀 OpenClaw보다 좋을까? 5MB RAM으로 구동되는 ZeroClaw AI 정복하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A6%80-OpenClaw%EB%B3%B4%EB%8B%A4-%EC%A2%8B%EC%9D%84%EA%B9%8C-5MB-RAM%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-ZeroClaw-AI-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
+* [OpenClaude: Open-source CLI coding agent that works with multiple AI providers](https://github.com/Gitlawb/openclaude)
+  * OpenAI·Gemini·DeepSeek·Ollama 등 200+ 모델을 하나의 CLI로 통합. bash 실행·파일 편집·MCP·슬래시 명령·에이전트 기능 포함. VS Code 확장·headless gRPC 서버 지원
 * [opencode | AI coding agent built for the terminal](https://opencode.ai/)
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
