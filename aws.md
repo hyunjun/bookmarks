@@ -665,6 +665,8 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 3부: 마이그레이션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-3/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 5부: 데이터 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-5/)
+* [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
+  * S3 Tables(Iceberg)+Glue Catalog+Neptune 온톨로지 그래프+Bedrock AgentCore 기반 시맨틱 레이크하우스. 자연어→SQL 변환, 시맨틱 그래프 쿼리, Lake Formation ABAC 보안, CloudFormation 원클릭 배포
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
