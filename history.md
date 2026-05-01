@@ -130,6 +130,10 @@ History
 * [기사 - 4·3, 기나긴 침묵 밖으로 : 왜 그리 많이 죽었고 왜 그리 많이 떠났나](https://www.ddanzi.com/ddanziNews/768462506)
 * [조태용 - 한국 농산물은 다른 나라에 비하여 가격이 꽤 높은 편이다. 하지만 농산물만 비쌀까? 아니다. 대한민국은... | Facebook](https://www.facebook.com/farmmate0617836245/posts/pfbid0tL6rnD8W4geEbThUosKS64WBNVxVxR8zXfL6MKKkoEQX4CnDosUsGbhVKQt8PVmQl)
 * ["끔찍한 '한국 정부 학살' 세계에 알릴 것" 안녕 진화위㉓](https://v.daum.net/v/20260323070628687)
+* [손민호 - 10년 만에 돌아온 알파고, 재수없다 | Facebook](https://www.facebook.com/share/1CwS3hmXHf/)
+  * 10년 만에 방한한 데미스 하사비스 딥마인드 CEO의 바둑 행사 참석기. 대통령부터 4대 그룹 총수까지 만난 방한 일정에서 바둑과 한국 사회를 바라보는 작가의 불편한 시선
+* [Taejun Eom - 한국의 메시아: 김일성과 북한 우상숭배의 기독교적 뿌리 | Facebook](https://www.facebook.com/taejun.eom.399/posts/28054610427461036/)
+  * WSJ 중국지부장 조나단 쳉의 신간 소개. 김일성 개인숭배·북한 우상숭배의 기독교적 뿌리 분석. 반공 성향 개신교가 이 기사를 조용히 숨기는 정황에 대한 코멘트
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
@@ -156,6 +160,8 @@ History
 * [전두환 회고록, 욕하고 넘어갈 일 아니다](http://v.media.daum.net/v/20170403201103327?d=y)
 * [**뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)**](https://www.youtube.com/watch?v=LFbcaHsY1xw)
 * [영화 “택시운전사”에 나오지 않은 네가지 이야기](http://channy.creation.net/blog/1159)
+* ["광주 계엄군 성폭행을 오보로 단정한 건 사과한다, 다만…" 안녕 진화위㉗](https://v.daum.net/v/20260501070607256)
+  * 2기 진실화해위원회가 5.18 광주 계엄군 성폭행 보도를 오보로 단정했던 입장을 사과. 3기 진화위 출범 전후의 과거사 조사기구 회고 연재
 
 ## 일제 강점기
 * [3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
@@ -438,6 +444,8 @@ History
 * [(2) أنس الشريف Anas Al-Sharif on X: "This is my will and my final message. If these words reach you, know that Israel has succeeded in killing me and silencing my voice. First, peace be upon you and Allah’s mercy and blessings. Allah knows I gave every effort and all my strength to be a support and a voice for my" / X](https://x.com/AnasAlSharif0/status/1954670507128914219)
   * [희일이송 - "이것이 제 유언이자 마지막 메시지입니다. 이 말이 여러분에게 닿는다면, 이스라엘이 저를 죽이고 제... | Facebook](https://www.facebook.com/leesongheeil/posts/pfbid0mzyBR9pzebUrNLdW8vjWQVJXWtLPpimYXxQzkCiJMmK6LAS4v35jHTVnMnyLChVTl)
 * [(2) 류경완 - <로이터 기자 사직서> 지난 8년 동안 나는 로이터 통신에서 프리랜서 기자로 일해 왔다. 내가 대초원... | Facebook](https://www.facebook.com/ryukyung2010/posts/pfbid0fpmYX76EPauDeFWGqrQbeDxaFYMRdaEiQVpqrP2mNFuH8XpWcu8DkmJvJCNYmz3Hl)
+* [Jung Wook Park - 미국이 이스라엘을 돕는 이유 | Facebook](https://www.facebook.com/share/1CexXf4Sh4/)
+  * 미국-이스라엘 협력 관계는 이념이나 유대인 로비가 아니라 첨단 기술 특허 다수를 보유한 이스라엘 벤처 강국의 핵심 기술이 미국 군사 기술로 차용되는 구조에 기반
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
