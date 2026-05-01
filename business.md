@@ -1363,6 +1363,11 @@ Business
 * [Why Your Best Engineers Are Interviewing Elsewhere, CodeGood](https://codegood.co/writing/why-your-best-engineers-are-interviewing-elsewhere)
   * [왜 당신의 최고 엔지니어들이 다른 곳에 면접을 보고 있을까 | GeekNews](https://news.hada.io/topic?id=25115)
 * [나이 많은 직원을 유지하는 장점에 대해 더 많은 기업이 주목하는 이유 | GeekNews](https://news.hada.io/topic?id=26431)
+* [How to hire people who are better than you](https://longform.asmartbear.com/hire-better-than-you/)
+  * [자신보다 뛰어난 사람을 채용하는 법 | GeekNews](https://news.hada.io/topic?id=28923)
+  * CEO가 전문성 없는 분야의 임원 평가 시 실질적 기준 제시. 면접 후 후보자 아이디어를 당장 실행하고 싶은 충동이 문화 적합성·맥락 이해의 핵심 신호. 뛰어난 리더는 자기 부서를 넘어 조직 전체의 수준을 끌어올림
+* [여현준 - 1. 인적 자원(Human Resource)이라는 용어를 두고 인간을 물건처럼 취급하는 것... | Facebook](https://www.facebook.com/hyeonjoon.yeo/posts/26947592128210420/)
+  * 인적 자원은 인간을 나사못처럼 취급하는 용어가 아니라, 오히려 인간을 유무형 자원과 구별해 제3의 자원으로 봐야 한다는 관점에서 나온 개념. 전통적 HR은 채용·평가 중심이지만 자원으로서의 중요성 재해석 필요
 * [FoloUp — Open-source AI Voice Interviewer](https://foloup.suveenellawela.com/)
   * [FoloUp](https://github.com/FoloUp/FoloUp)
   * AI 음성 기반 비동기 채용 인터뷰 플랫폼. JD로 인터뷰 생성, 공유 링크로 후보자 비동기 진행, 실시간 대화 적응, 대시보드 점수/요약. Next.js+Supabase+Retell AI. MIT
