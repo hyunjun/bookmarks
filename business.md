@@ -2547,6 +2547,9 @@ Business
 * [칼럼 | 카리스마도, 멋진 연설도 아니다··· '동기 부여'의 기술 - CIO Korea](https://www.ciokorea.com/news/321724)
 * [주먹구구식 경영 탈피 직원의 능력을 120% 발휘하게 하는 법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/08/12/employee-ability/)
 * [동기부여에 대한 새로운 시각: 조직에서 동기를 촉진하는 방법](https://www.linkedin.com/pulse/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%ED%98%84%EC%A4%80-%EC%97%AC-cexde)
+* [50년 심리학 연구로 밝힌, 팀원이 미친 듯이 일하게 만드는 절대 원칙 - YouTube](https://www.youtube.com/watch?v=Tq2Dm28p9LM)
+  * [50년 심리학 연구로 밝힌, 팀원이 미친 듯이 일하게 만드는 절대 원칙](https://livewiki.com/ko/content/team-motivation-principles)
+  * 자기결정이론(SDT)의 3가지 심리적 욕구(관계성·자율성·유능감)를 리더십 실천에 적용. 시행착오 5가지, 공헌감을 만드는 리더십, 인간 대접의 원칙
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
