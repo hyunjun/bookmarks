@@ -519,6 +519,9 @@ Programmer
 * [개발자의 승진과 성장: 회사에서 인정받고 성공하는 전략](https://f-lab.kr/blog/strategies-for-recognition-and-success-in-the-company)
 * [AI시대에 60살까지 일하고 싶으면 '리더'해야 합니다ㅣ한기용의 나침반 - YouTube](https://www.youtube.com/watch?v=_ZqtQ2ZbYIQ)
   * [AI 시대 팀원·팀장·대표 경험](https://livewiki.com/ko/content/team-member-boss-experience)
+* ["Software Fundamentals Matter More Than Ever" — Matt Pocock - YouTube](https://youtube.com/watch?v=v4F1gFy-hqg)
+  * [GN#355 잃어버린 기본기를 찾아서 | GeekNews](https://news.hada.io/weekly/202617)
+  * AI 코딩 에이전트 시대에 오히려 소프트웨어 기본기가 더 중요해짐. Cursor/Claude가 만든 코드가 프로덕션에서 6-12개월 버틸 수 있는지, 팀원 변경 시 유지보수 가능한지에 대한 문제 제기
 * [career-ladders](https://career-ladders.dev/)
 
 # Consult
