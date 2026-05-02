@@ -4991,6 +4991,9 @@ Artificial Intelligence
   * 100+ 전문 에이전트 스웜 조율, 자기학습 라우팅, 합의 기반 의사결정, 벡터 메모리. API 비용 최대 85% 절감
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
+* [sentrux — The sensor that helps AI agents close the feedback loop](https://sentrux.dev/)
+  * [sentrux](https://github.com/sentrux/sentrux)
+  * Rust 기반 오픈소스 코드 품질 측정 도구. 단일 "quality signal" 점수로 AI 에이전트(Claude Code 등)가 아키텍처 저하 감지. 5차원(modularity·acyclicity·depth·equality·redundancy) 그래프 이론 분석, MCP 프로토콜 통합
 * [Shadow](https://www.shadowrealm.ai/)
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
