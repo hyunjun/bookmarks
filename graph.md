@@ -2,7 +2,6 @@ Graph
 =====
 * [Graph Theory and — lost— Economic Development: Argentina in the 90s](https://medium.com/@JavierBurroni/graph-theory-and-the-lost-economic-development-argentina-in-the-90s-dbcbd04aad06)
 * [Graph database](http://en.wikipedia.org/wiki/Graph_database)
-* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf) GraphDB의 일반적인 장점
 * [Converting Relational to Graph Databases](http://www.slideshare.net/AntonioMaccioni/grades-27491364)
   * [Converting Relational to Graph Databases](http://event.cwi.nl/grades2013/01-DeVirgilio.pdf)
   * [R2G: a Tool for Migrating Relations to Graphs](http://openproceedings.org/EDBT/2014/edbtdemo2014_submission_2.pdf)
@@ -363,6 +362,11 @@ Graph
     * HGraphDB 데이터베이스 디자인에 대한 개요와 TinkerPop을 사용하여 그래프 데이터를 삽입하고 쿼리 할 수있는 몇 가지 예제 (코드 포함) 소개
 * [Using MongoDB as a high performance graph database](http://www.slideshare.net/robotrobot/mongodb-uk)
   * [Object Graph Mapper for managing RDF data in Mongo](https://github.com/talis/tripod-php)
+
+# GraphDB
+* [Using GraphDB Technology to Resolve Transitive Vulnerabilities at Scale • Emil Wareus • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BMr7Bz8eGus)
+* [GraphDB: At Last, the Meaningful Database](http://www.ontotext.com/documents/reports/PW_Ontotext.pdf) GraphDB의 일반적인 장점
+* [온톨로지 기반 그래프DB, 어떻게 적용할까? 김선영의 AI-ready Data@토크아이티, 김선영 그룹장 / 엔코아 #세미남847 - YouTube](https://www.youtube.com/watch?v=m-jUgshQotk)
 
 # Memory-based graph
 * [iGraph](http://igraph.org)
