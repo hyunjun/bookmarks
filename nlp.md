@@ -2936,6 +2936,11 @@ NLP
     * [🐳 DeepSeek V3-0324 공개! 오픈소스 LLM의 새로운 강자 등장](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-DeepSeek-V3-0324-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%95%EC%9E%90-%EB%93%B1%EC%9E%A5)
   * [DeepSeek V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
     * [DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)
+  * [DeepSeek-V4-Pro: Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
+    * [DeepSeek-V4 공개 | GeekNews](https://news.hada.io/topic?id=28845)
+    * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
+      * [DeepSeek-V4 논문 정독: 모델 확장·Sparse Attention·Muon | GeekNews](https://news.hada.io/topic?id=28996)
+    * 1.6T MoE(49B 활성), 1M 컨텍스트. Compressed Sparse Attention(CSA) + Heavily Compressed Attention(HCA) 하이브리드. DeepSeek-V3.2 대비 27% FLOPs, KV 캐시 90% 감소. Non-Think/Think High/Think Max 3단계 추론. MMLU-Pro 87.5, LiveCodeBench 93.5, SWE Verified 80.6. MIT
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
@@ -3016,6 +3021,8 @@ NLP
   * ["감정 이해가 LLM 성능을 높이는 길"...목소리로 의도 파악하는 AI 등장 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=158403)
 * hunyuan [腾讯混元大模型_大语言模型_自然语言大模型- 腾讯云](https://cloud.tencent.com/product/hunyuan)
   * [🏯🧠Hunyuan-T1: GPT 4.5 뛰어넘은 세계 최초 Hybrid-Transformer-Mamba MoE 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%AF%F0%9F%A7%A0Hunyuan-T1-GPT-45-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-Hybrid-Transformer-Mamba-MoE-%EB%AA%A8%EB%8D%B8)
+* HY3 [Tencent Hy Research - HY3](https://hy.tencent.com/research/hy3)
+  * [텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 HY3 공개 | CIO](https://www.cio.com/article/4164030/%ED%85%90%EC%84%BC%ED%8A%B8-%EC%98%A4%ED%94%88ai-%EC%B6%9C%EC%8B%A0-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%98%81%EC%9E%85-%ED%9B%84-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%AA%A8%EB%8D%B8-hy3.html)
 * [instructor: structured outputs for llms](https://github.com/jxnl/instructor)
   * [The Art of Crafting RANchain Code with LLMs - Network APIOps](https://www.linkedin.com/posts/jinsung-choi-48a8b61_oran-openran-orancopilot-activity-7156849383840366592-Hi-F/)
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
@@ -3046,6 +3053,9 @@ NLP
     * [🛠️🤖🔓Kimi K2: 오픈소스 에이전트 AI 시대의 개막](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F%F0%9F%A4%96%F0%9F%94%93Kimi-K2-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%A7%89)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – Kimi K2: 오픈소스 에이전트 AI 시대의 개막](http://www.umlcert.com/0718-03/)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 저스틴의 AI 특강 “답만 하는 AI는 가라!” 스스로 일하는 괴물, Kimi K2 완벽 분석](http://www.umlcert.com/0719-02/)
+  * [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
+    * [Kimi K2.6 - 오픈소스 코딩을 위한 새로운 성과 | GeekNews](https://news.hada.io/topic?id=28736)
+    * Moonshot AI 오픈소스. 장시간 코딩(Zig 최적화 12시간+, 4,000 툴 호출로 15→193 tok/s), 300개 서브에이전트 스웜, OpenClaw·Hermes 연동 24/7 자율 실행. Rust·Go·Python·풀스택·디자인
   * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
     * [2510.26692 Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
     * [와.. 이 논문 정말 뜨겁습니다. Moonshot AI에서 공개한 Kimi Linear가 주목받고 있습니다. Kimi Linear는 기존의 full attention와 linear attention과 결합한 하이브리드 방식을 사용하는 것이 특징인데요. 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현한 점입니다. 예를 들어, 1백만 토큰 디코딩 길이에서 기존 full attention 대비 6.3배 빠르게 디코딩하면서도, MMLU-Pro 성능은 51.0으로 full attention(MLA 모델, 47.2점)보다 높습니다. 기존 선형linear attention은 품질이 떨어져 주류에서 멀어졌지만, Kimi Linear는 속도와 품질 모두를 확보하며 실사용 가능한 수준에 도달한 것으로 보입니다.](https://www.threads.com/@choi.openai/post/DQmJi0Bj44E/%EC%99%80-%EC%9D%B4-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A7%90-%EB%9C%A8%EA%B2%81%EC%8A%B5%EB%8B%88%EB%8B%A4moonshot-ai%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%95%9C-kimi-linear%EA%B0%80-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4kimi-linear%EB%8A%94-%EA%B8%B0%EC%A1%B4%EC%9D%98-full-att?hl=ko)
@@ -3742,6 +3752,9 @@ NLP
   * [Mistral Large 모델 공개 | GeekNews](https://news.hada.io/topic?id=13541)
   * [미스트랄 Mistral AI 모델 무료플랜 코.. : 네이버블로그](https://blog.naver.com/ulsancoding/223630231649)
   * [Free Intro to Mistral AI Tutorial: Learn to build intelligent apps in this course by Mistral AI and Scrimba](https://scrimba.com/intro-to-mistral-ai-c035)
+  * [Remote agents in Vibe. Powered by Mistral Medium 3.5 | Mistral AI](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)
+    * [Mistral AI - Vibe 리모트 에이전트와 Mistral Medium 3.5 | GeekNews](https://news.hada.io/topic?id=29047)
+    * 128B 플래그십, 256k 컨텍스트, SWE-Bench Verified 77.6%, 4개 GPU로 셀프호스팅. Mistral Vibe CLI·Le Chat에서 비동기 병렬 리모트 코딩 에이전트. Work Mode 에이전틱 기능. HF 수정 MIT 오픈 웨이트
   * [Codestral: Hello, World! | Mistral AI | Frontier AI in your hands](https://mistral.ai/news/codestral/)
     * [Codestral - Mistral의 코드 생성 AI 모델 | GeekNews](https://news.hada.io/topic?id=15082)
   * [Le Chat - Mistral AI](https://chat.mistral.ai/chat)
@@ -3785,6 +3798,8 @@ NLP
   * [MyLLM/Modules at main · silvaxxx1/MyLLM](https://github.com/silvaxxx1/MyLLM/tree/main/Modules)
   * [MyLLM/myllm at main · silvaxxx1/MyLLM](https://github.com/silvaxxx1/MyLLM/tree/main/myllm)
   * [Building LLMs from Scratch: My Journey and Resources | Mohammed Sedeg님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/mohammed-sedeg-67444b307_llm-deeplearning-rlhf-activity-7369168887025745920-g6G8)
+* [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4)
+  * NVIDIA 30B 멀티모달. 비디오(2분)·오디오(1시간)·이미지·텍스트 입력, 256K 컨텍스트, CoT 추론·툴 호출·단어 단위 전사 타임스탬프. NVFP4 20.9GB/FP8 32.8GB/BF16 61.5GB. GUI 자동화·문서 OCR·영상/음성 분석. Blackwell/Hopper/Ampere/Lovelace
 * [NExT-GPT](https://next-gpt.github.io/)
   * [NExT-GPT: Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model](https://github.com/NExT-GPT/NExT-GPT)
 * [offsetbias: Official implementation of "OffsetBias: Leveraging Debiased Data for Tuning Evaluators"](https://github.com/ncsoft/offsetbias)
@@ -3912,6 +3927,10 @@ NLP
     * [Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
       * [Qwen3.6-35B-A3B: 모든 사람을 위한 에이전틱 코딩 능력 공개 | GeekNews](https://news.hada.io/topic?id=28609)
       * MoE 아키텍처(350억 중 30억 파라미터 활성화), 에이전틱 코딩에서 Claude Sonnet 4.5 다수 항목 능가, 완전 오픈소스
+  * [Qwen3.6-Max-Preview - 에이전틱 코딩과 세계 지식이 강화된 차세대 모델](https://qwen.ai/blog?id=qwen3.6-max-preview)
+    * [Qwen3.6-Max-Preview 공개 | GeekNews](https://news.hada.io/topic?id=28738)
+    * [Qwen3.6 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.6)
+    * 알리바바 Qwen3.6. SWE-bench Pro/Terminal-Bench 2.0 등 6개 코딩 벤치마크 최상위. SkillsBench +9.9, SuperGPQA +2.3. preserve_thinking으로 대화 간 추론 유지. Alibaba Cloud Model Studio 독점, OpenAI·Anthropic API 호환. 27B/35B-A3B 로컬 실행, 256K·201개 언어
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -4016,6 +4035,9 @@ NLP
   * [Huggingface KR | Facebook](https://www.facebook.com/groups/1272877526915876/?multi_permalinks=1489933088543651)
 * [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
 * [Xiaomi MiMo API Open Platform](https://platform.xiaomimimo.com/)
+  * [MiMo-V2.5: Native Omnimodal Model with Agentic Capabilities](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)
+    * [Xiaomi MiMo-V2.5 공개 | GeekNews](https://news.hada.io/topic?id=29006)
+    * Xiaomi 오픈소스 옴니모달. 텍스트·이미지·비디오·오디오 통합, 310B MoE(15B 활성), 1M 컨텍스트. Sliding Window+Global Attention 하이브리드(KV 6배 절감), MTP 스펙큘러티브 디코딩, 48T FP8 프리트레이닝, 에이전틱 RL+MOPD 포스트트레이닝
   * [MiMo-V2-Flash: MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model](https://github.com/XiaomiMiMo/MiMo-V2-Flash?tab=readme-ov-file)
     * [Xiaomi MiMo](https://mimo.xiaomi.com/blog/mimo-v2-flash)
   * [MiMo V2 Pro](https://mimo.xiaomi.com/mimo-v2-pro)
@@ -4334,6 +4356,8 @@ NLP
     * [GraphRAG_with_Ollama: A local-LLM based Graph RAG agent using FalkorDB](https://github.com/eastsea17/GraphRAG_with_Ollama/)
       * [Graph RAG, 복잡하지 않게 시작하는 방법 | Dong-ha K. | 16 comments](https://www.linkedin.com/posts/donghakim417_rag-graphrag-falkordb-activity-7399713370603610113-F6II)
     * [falkordb-py: FalkorDB Python Client](https://github.com/falkordb/falkordb-py)
+  * [graphrag-rs: High-performance Rust implementation of Graph-RAG with server/WASM/hybrid deployment](https://github.com/automataIA/graphrag-rs)
+    * LightRAG dual-level(6000× 토큰 감소), Fast-GraphRAG+PageRank, ROGRAG 쿼리 분해. 서버(Qdrant) / WASM(WebGPU, 100% 클라이언트) / 하이브리드 배포. Ollama 스트리밍, ONNX+WebLLM(40-62 tok/s), Metal/CUDA
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
   * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
@@ -5596,6 +5620,8 @@ NLP
   * GPU 불필요 CPU 전용 TTS. 15M~80M 파라미터 3종 모델, 8개 프리트레인 음성, 24kHz 오디오, ONNX 기반 엣지 배포 최적화
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
+* [korean-voice-acting-engine: Local-first Korean voice toolkit for record, generate, and polish](https://github.com/sinmb79/korean-voice-acting-engine)
+  * 로컬 퍼스트 한국어 음성 툴킷. 한국어 텍스트 정규화(숫자·영어·기호·날짜·조사), `kva polish` 음성 다듬기 프리셋, 품질 게이트·ASR 리뷰, 장시간 녹음 분할, 공개 한국어 AI 보이스 카탈로그, 개인정보 보호 매니페스트
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KrillinAI — AI Video Translation and Dubbing Tool](https://www.klic.studio/)
   * [KrillinAI](https://github.com/krillinai/KrillinAI)
@@ -5603,6 +5629,8 @@ NLP
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [llm-voicebot: It is a voice bot based on LLM](https://github.com/kyopark2014/llm-voicebot)
   * [LinkedIn Kyoungsu Park 페이지: LLM으로 한국어 Voice-to-Voice 방식의 Voice bot을 Serverless Architecture로 만들어…](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_llm%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-voice-to-voice-%EB%B0%A9%EC%8B%9D%EC%9D%98-voice-bot%EC%9D%84-serverless-activity-7182599717908856832-jLn8)
+* [local-korean-xtts-engine: Local Korean-first TTS on XTTS-v2 for short-form video narration](https://github.com/sinmb79/local-korean-xtts-engine)
+  * XTTS-v2 기반 한국어 특화 로컬 TTS. 사용자 음성 특성 보존(레퍼런스 오디오), 단일 테이크 합성으로 자연스러운 문장 흐름, 다국어 TTS의 한국어 발음 문제 해결. 마스터 오디오 단일 파일 출력
 * [LuxTTS: Lightweight voice cloning TTS model](https://github.com/ysharma3501/LuxTTS)
   * 경량 음성 복제 특화 TTS. 150배+ 실시간 속도, 48kHz 고품질, 1GB 미만 VRAM. ZipVoice 아키텍처 4단계 추론 증류. GPU/CPU/Apple MPS 지원
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
@@ -5692,7 +5720,9 @@ NLP
     * WebRTC - using Daily.co
 * [VibeVoice](https://microsoft.github.io/VibeVoice/)
   * [VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
+  * MS 오픈소스 음성 AI. TTS(1.5B, 최대 90분/4화자), ASR(7B, 60분 1회 처리, 50+언어), Realtime(0.5B, 300ms). 7.5Hz 저프레임 연속 토크나이저+Next-token diffusion. TTS 코드는 오남용 우려로 2025.9 제거됨. MIT, HF Transformers 통합
   * [🎙️마이크로소프트 VibeVoice: 90분 길이 다중 화자 음성 합성 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%8E%99%EF%B8%8F%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-VibeVoice-90%EB%B6%84-%EA%B8%B8%EC%9D%B4-%EB%8B%A4%EC%A4%91-%ED%99%94%EC%9E%90-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1-AI)
+  * [VibeVoice - 오픈소스 프론티어 음성 AI 모델 | GeekNews](https://news.hada.io/topic?id=28971)
   * [VibeVoice-Realtime-0.5B - a Hugging Face Space by anycoderapps](https://huggingface.co/spaces/anycoderapps/VibeVoice-Realtime-0.5B)
   * [VibeVoice-Realtime-0.5B: Low Latency TTS Model | Mahmoud Rabie posted on the topic | LinkedIn](https://www.linkedin.com/posts/mahmoudrabie2004_openabrsourceabrllms-didabryouabrknowabrthat-activity-7403482375290228736-Pvvz)
 * [VibeVoiceFusion: A complete full-stack voice generation solution with an intuitive user interface, project management, and advanced VRAM optimization features](https://github.com/zhao-kun/VibeVoiceFusion/)
