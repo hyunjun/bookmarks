@@ -1529,6 +1529,8 @@ SQL
     * [OpenAI는 왜 8억 사용자 DB를 단일 PostgreSQL로 운영할까?](https://livewiki.com/ko/content/openai-800m-users-postgresql)
 * [It’s 2026, Just Use Postgres | Tiger Data](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
   * [2026년, 그냥 Postgres를 쓰자 (It's 2026. Just Use Postgr | GeekNews](https://news.hada.io/topic?id=26388)
+* [RLS sounds great until it isn't | PlanetScale](https://planetscale.com/blog/rls-sounds-great-until-it-isnt)
+  * PostgreSQL Row Level Security가 DB 레이어 접근 제어로 깔끔해 보이지만, 풋건·풀링 비호환·성능 함정으로 득보다 실이 많을 수 있다는 비판
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
