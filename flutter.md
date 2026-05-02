@@ -402,6 +402,8 @@ Flutter
 * [플러터 2주안에 쇼핑몰 앱 만들기 1 ( 환경 세팅) - YouTube](https://www.youtube.com/watch?v=BxXioP85hQ4)
 * [5 Best Udemy Courses to Learn Flutter in 2024 | by javinpaul | Javarevisited | Jun, 2024 | Medium](https://medium.com/javarevisited/5-best-udemy-courses-to-learn-flutter-in-2024-7cf195a0a231)
 * [2주만에 출시하는 나만의 플러터 앱 만들기 - YouTube](https://www.youtube.com/playlist?list=PLQ-QV0jD0i1yjtfgNsNg0KvaKtPOa2wrz)
+* [생활코딩 - Flutter 앱 iOS/Android 동시 빌드 및 스토어 출시 가이드 | Facebook](https://www.facebook.com/groups/codingeverybody/posts/35634313922849035/)
+  * Flutter로 iOS/Android 앱 동시 빌드 및 스토어 출시 가이드. 클로드로 초안 작성 후 경험 기반 수정
 * [플루터스쿨 - YouTube](https://www.youtube.com/playlist?list=PLHmdImeDeuNnVE6B5ViwsyiAx6-w6VXpc)
 * [Flutter - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RE8V-ozNeLV3qKdXPzICVx1)
 * [flutter-chat-demo: The chat app made by Flutter and Firebase](https://github.com/duytq94/flutter-chat-demo)
