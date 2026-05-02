@@ -123,6 +123,8 @@ Data Visualization
 * [데이터 속 숨은 이야기를 풀어내는 지수(Index) 시각화 - 뉴스젤리 : 데이터 시각화 전문 기업](https://newsjel.ly/archives/newsjelly-report/16703)
 * [GraphDB로 코드 구조 시각화 하기 (1/4): Neo4j와 프로그램 분석의 만남 | STONI](https://stoni.space/posts/ko/graphdb/01-graphdb)
 * [GraphDB로 코드 구조 시각화 하기 (2/4): PHP 의존성 분석 도구 구축 실습 | STONI](https://stoni.space/posts/ko/graphdb/02-graphdb)
+* [From Uncharted Territory: Accessibility & Interactive Data Experiences • Frank Elavsky • YOW! 2025 - YouTube](https://youtube.com/watch?v=uDrlUF-KXeY)
+  * Carnegie Mellon 연구자 Frank Elavsky의 인터랙티브 데이터 경험에서 접근성을 다루는 방법
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
