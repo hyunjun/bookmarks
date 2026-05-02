@@ -5735,6 +5735,8 @@ Programming
         * 모드시큐리티는 엔진별로 다른 버전, 최근에는 플러그인과 컨테이너 대관 기능 제공
         * 인텔리전스 통합으로 *안전성이 향상*, F5 어스 크의들과 오픈소스 nginx 활용하여 네트워크 보안 강화
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
+* [DeepZero: Find zero-days while you sleep. Automated vulnerability research framework for Windows kernel drivers](https://github.com/416rehman/DeepZero)
+  * Windows 커널 드라이버 수천 개를 AI 에이전트로 파싱·디컴파일·분석해 익스플로잇 가능한 IOCTL을 네이티브로 찾는 자동 취약점 연구 프레임워크
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 * [Ente - Private cloud for your photos, videos and more](https://ente.io/auth/)
   * [Ente Auth - Authy를 대체가능한 오픈소스 2FA앱 | GeekNews](https://news.hada.io/topic?id=15741)
@@ -5793,6 +5795,8 @@ Programming
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
+* [maigret: Collect a dossier on a person by username from 3000+ sites](https://github.com/soxoj/maigret)
+  * 사용자명으로 3000+ 사이트에서 정보 수집하는 OSINT 도구
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
   * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
