@@ -377,6 +377,8 @@ Vision
     * [SAM 2, 이미지부터 비디오까지 ‘모두를 분할(Segment Anything)’한다! - YouTube](https://www.youtube.com/watch?v=TkYZgoPzxQQ)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
+* [TurboOCR — OCR Server](https://turboocr.com/)
+  * [TurboOCR](https://github.com/aiptimizer/TurboOCR)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
 
 # JavaScript
@@ -633,6 +635,9 @@ Vision
   * [PyTorchKR에 쓴 개발자의 동기](https://www.facebook.com/groups/PyTorchKR/posts/2456108624528804/)
 * [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
+* [liteparse: Open-source fast and helpful document parser](https://github.com/run-llama/liteparse)
+  * [How LiteParse Turns PDFs Into Text: A Deep-Dive Into the Grid Projection Algorithm | LlamaIndex](https://www.llamaindex.ai/blog/how-liteparse-turns-pdfs-into-text-a-deep-dive-into-the-grid-projection-algorithm)
+  * 로컬 PDF 파싱. 바운딩 박스 공간 텍스트 추출, Tesseract.js OCR 내장, 스크린샷 생성. Grid Projection 알고리즘으로 멀티컬럼/표 정렬 보존
 * [llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.](https://github.com/Dicklesworthstone/llm_aided_ocr)
   * [Show HN: LLM-Aided OCR – LLM으로 Tesseract OCR 오류 수정 | GeekNews](https://news.hada.io/topic?id=16253)
 * [MinerU-Diffusion: Diffusion-based document OCR framework](https://github.com/opendatalab/MinerU-Diffusion)
