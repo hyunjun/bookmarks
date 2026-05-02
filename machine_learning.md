@@ -1,6 +1,7 @@
 Machine Learning
 ================
-* [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Awesome production machine learning](https://ethicalml.github.io/awesome-production-machine-learning/)
+  * [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [VSBE2020: OAQA 양자 머신러닝 알고리즘의 기반 - Hyun Byung Park (박현병), 양자오리 at KAITA - YouTube](https://www.youtube.com/watch?v=ZZcyzVxYxqQ)
