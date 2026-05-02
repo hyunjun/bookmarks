@@ -419,6 +419,9 @@ Finance
 * [hometaxbot](https://github.com/finecodekr/hometaxbot)
 * [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
   * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
+* [FinceptTerminal: Open-source financial analysis platform — Bloomberg Terminal alternative](https://github.com/Fincept-Corporation/FinceptTerminal)
+  * [Fincept Terminal - 금융 분석 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=29089)
+  * C++20+Qt6 네이티브 앱. DCF·포트폴리오 최적화·리스크 지표, 37개 AI 트레이딩 에이전트(멀티 LLM), 100+ 데이터 소스, 16개 브로커 실시간 거래, QuantLib 기반 퀀트 분석. AGPL-3.0
 * [fsfupbit: Enhanced Python wrapper for Upbit API - A maintained fork of pyupbit](https://github.com/urstory/fsfupbit)
   * [Python Korea | 안녕하세요. pyupbit를 사용하시는 분들이 많은데, 원본 저장소가 2024년 이후로 업데이트가 되지 않고 있어 포크해?... | Facebook](https://www.facebook.com/groups/pythonkorea/posts/25694622306860921/)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
