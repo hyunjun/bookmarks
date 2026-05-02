@@ -950,6 +950,8 @@ Artificial Intelligence
   * LongMemEval 96.6% 최고점. 요약 없이 원문 그대로 ChromaDB에 저장, 궁전 비유(Wing→Room→Hall→Drawer)로 계층적 구조화하여 검색 34% 향상. 지식 그래프(SQLite 시간 기반 엔티티), AAAK 손실 압축, MCP 통합(Claude/ChatGPT/Cursor/Gemini). MIT 오픈소스
 * [memsearch: Cross-platform semantic memory for AI coding agents](https://github.com/zilliztech/memsearch)
   * Claude Code/OpenClaw 등 에이전트용 Milvus 벡터 DB 기반 하이브리드 검색
+* [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
+  * 권한 강화 도구·토큰 예산·멀티 채널 접근. CLI/Telegram 24/7 실행, Soul 기반 자율 에이전트
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
@@ -1256,6 +1258,8 @@ Artificial Intelligence
   * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
 * [하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3733/)
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
+* [Toby Lee - 클로드 코드는 스스로 하네스 확장 포인트를 제공한다 | Facebook](https://www.facebook.com/tobyilee/posts/10236007503342478/)
+  * Claude Code가 스킬·에이전트·훅·플러그인으로 하네스 확장. 유저 레벨 `.claude` 폴더로 직접 확장하는 방법의 한계 논의
 * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
@@ -1372,6 +1376,8 @@ Artificial Intelligence
       * Agent가 왜 그런 답변을 했는지, 어떤 도구를 호출했는지 파악하기 위해
         * 복잡한 모니터링 툴을 도입하거나, 분석을 위해 로그를 다른 시스템으로 옮기는 과정 불편
       * Google ADK와 BigQuery Logging Plugin (BigQueryAgentAnalyticsPlugin)만으로 이 모든 것을 해결
+* [ace-step-ui: Professional UI for ACE-Step 1.5 AI Music Generation](https://github.com/fspecii/ace-step-ui)
+  * Suno 대체 오픈소스 AI 음악 생성 UI. ACE-Step 1.5 기반, 로컬 실행, 무제한 사용
 * [Acontext - Agent Skills as a Memory Layer](https://acontext.io/)
   * [Acontext: Skill memory SDK for Claude Code and agent frameworks](https://github.com/memodb-io/Acontext)
   * AI 에이전트가 자신의 실행을 학습하여 재사용 가능한 스킬로 증류하는 스킬 메모리 플랫폼. Markdown으로 스킬 저장·동기화, 클라우드+오픈소스, OpenAI/Anthropic/LangGraph SDK
@@ -2731,6 +2737,10 @@ Artificial Intelligence
   * 메이퇀(美团, Meituan)이 NVIDIA 없이 1조 파라미터 AI 모델 LongCat-2.0 개발. 반도체 완전 독립 선언. 딥시크조차 하지 못한 수준의 자립
 * [LLMRisks Archive - AI 에이전트 위험 10가지 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B1%B0%EB%82%98-%EA%B8%B0%ED%9A%8D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%B4-%EA%BC%AD-%EB%B3%B4%EC%8B%9C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9E%90%EB%A3%8C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%86%94%EC%A7%81%ED%9E%88-share-7455506165297377280-va6T)
   * OWASP에서 정의한 LLM 기반 프로젝트의 10가지 위험요소. 한글 버전 포함, 개념과 사례 정리. AI 에이전트 개발·기획자를 위한 보안 가이드
+* [SungJae Shim - 3,000명을 절반으로 줄인 DeNA가 매주 회사에서 모여서 하는 일 | Facebook](https://www.facebook.com/sungjae.shim/posts/10215284897431425/)
+  * DeNA는 AI에게 일 시키는 게 아니라 AI가 어떻게 일했는지 로그를 같이 읽음. 남바 토모코 회장 강연 기반 후속 글
+* ["흩어진 GPU 하나로 묶어" 구글, '비동기·분산식' 모델 학습법 공개 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209767)
+  * Google DeepMind가 기존 완전 동기화 구조를 벗어나 비동기·분산 방식으로 대규모 모델 학습 가능한 새 아키텍처 제시
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -4137,12 +4147,15 @@ Artificial Intelligence
   * [deep-project: Transform vague requirements into well-scoped planning units](https://github.com/piercelamb/deep-project)
     * "Deep Trilogy" 1단계(/deep-project→/deep-plan→/deep-implement). 적응형 인터뷰→분할 분석→의존성 매핑→스펙 자동 생성. 대규모 프로젝트를 관리 가능한 컴포넌트로 분해
   * [design.md: Format specification for describing visual identity to coding agents](https://github.com/google-labs-code/design.md)
-    * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
     * [DESIGN.md 포맷 완전정복 — 28챕터 딥다이브](https://rubric.im/curriculum/design-md)
       * [DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리) | GeekNews](https://news.hada.io/topic?id=28861)
     * YAML 토큰(색상·타이포·간격) + 마크다운 디자인 근거의 이중 레이어 포맷. WCAG 대비 검증, Tailwind/DTCG 내보내기, lint/diff/export CLI. Google
+    * [getdesign.md - stitch가 유행시킨 DESIGN.md 모음 사이트](https://getdesign.md/)
+      * [stitch가 유행시킨 DESIGN.md를 모아놓은 사이트 | GeekNews](https://news.hada.io/topic?id=28947)
+      * Apple 등 유명 사이트의 DESIGN.md 파일 수집 사이트. 디자이너 없이 디자인 명세 기반 개발 가능성 논의
     * [Refero Styles — Design Systems for AI Agents](https://styles.refero.design/)
       * AI 에이전트용 DESIGN.md 라이브러리 검색. 상위 웹사이트의 컬러·타이포그래피·간격·컴포넌트 패턴 큐레이션
+    * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [ECC Tools](https://ecc.tools/)
