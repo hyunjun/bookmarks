@@ -190,6 +190,8 @@ Keras
 * [keras의 timeseries_dataset_from_array 사용시 주의할 점 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4430)
 * [Can not serialize… get_config() during keras model save and load and a loss func wrapper to ignore NaN in y_true – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4557)
 * [Positional encoding for timeseries data – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4651)
+* [Park Chansung - Keras + Keras Kinetic + TPU 조합으로 손쉽게 Diffusion 학습 | Facebook](https://www.facebook.com/Thomas.CS.Park/posts/10235360958750053/)
+  * Google Cloud에서 제공되는 TPU/GPU를 별도 인스턴스 프로비저닝 없이 Keras 코드에 활용. Keras Kinetic 유틸리티 라이브러리로 Diffusion 모델 간편 학습
 
 # Book
 * [더북(TheBook): 케라스 창시자에게 배우는 딥러닝](https://thebook.io/006975/) 1~3장만
