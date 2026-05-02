@@ -345,6 +345,9 @@ Git
 * [GitHub로부터 도망친 곳에 대안은 없을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3564/)
   * GitLab, Bitbucket, Codeberg, Gitea, Forgejo
 * [Trivy Under Attack Again: Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
+* [Federation of Forges | Tangled Blog](https://blog.tangled.org/federation/)
+  * [포지의 연합이 필요하다 | GeekNews](https://news.hada.io/topic?id=29030)
+  * git+AT Protocol 기반 분산 오픈소스 협업. git 서버를 "knots"로 연결, 크로스 서버 저장소 협업·포킹·PR 지원. ForgeFed(ActivityPub) 대안으로 AppView 아키텍처, 개인 데이터 저장소 분리
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
