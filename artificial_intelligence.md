@@ -4191,6 +4191,9 @@ Artificial Intelligence
     * [gstack-ko: Garry Tan의 Claude Code 워크플로우 한국어 버전](https://github.com/lucas-flatwhite/gstack-ko)
     * 8개 슬래시 커맨드(/plan-ceo-review, /plan-eng-review, /review, /ship, /browse, /qa 등)로 Claude를 CEO·엔지니어·QA 전문가 팀으로 활용
     * [Why Garry Tan's Claude Code setup has gotten so much love, and hate | TechCrunch](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
+    * [How to Make Claude Code Your AI Engineering Team - YouTube](https://www.youtube.com/watch?v=wkv2ifxPpF8)
+      * [Bora Violet Lee - thin harness, fat skills | Facebook](https://www.facebook.com/share/1ETvsuQTM4/)
+        * Ruby on Rails의 GitHub 스타 수를 훌쩍 넘긴 gstack(84만 스타). YC 수장 개리 탄이 직접 Y Combinator 채널에서 소개. thin harness + fat skills 철학
   * [gyeol: AI 정체성을 위한 기억 아키텍처](https://github.com/inureyes/gyeol)
     * [신정규 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0xjiJ29889biTQweun68aL37Jci3fPQE5cEA6cDtnDdoGx78dGWtC5dy63MKdQPPil)
     * AI 정체성이 모델 가중치가 아닌 축적된 기억에서 나온다는 실험적 메모리 시스템. 에피소딕/시맨틱 메모리, 단계별 통합(일간/월간/연간). Claude Code/Gemini CLI/Codex 공통
