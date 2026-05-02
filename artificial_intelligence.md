@@ -1038,6 +1038,8 @@ Artificial Intelligence
   * [rtk: CLI proxy that compresses command outputs for AI coding agents](https://github.com/rtk-ai/rtk)
   * [LLM 토큰 소비를 60~90% 줄여주는 CLI 프록시 | GeekNews](https://news.hada.io/topic?id=28245)
   * CLI 출력을 필터링·압축하여 토큰 60~90% 절감. Rust 바이너리, 100+ 명령어 최적화. Claude Code, Cursor, Gemini CLI 등 10개 AI 코딩 도구 지원
+  * [RTK (Rust Token Killer) - AI 코딩 에이전트용 CLI 프록시 | 배수정](https://kr.linkedin.com/posts/crystal0224_%EB%82%A8%ED%8E%B8%EC%9D%B4-%ED%9A%8C%EC%82%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%93%A4%EC%97%88%EB%8B%A4%EB%A9%B0-rtk%EB%9D%BC%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%95%8C%EB%A0%A4%EC%A4%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-claude-activity-7456111470284546048-yfCQ)
+    * AI 코딩 에이전트(Claude Code 등)와 터미널 사이 CLI 프록시. 커맨드 출력을 필터링하여 컨텍스트 윈도우 진입 전 압축. ANSI 코드·진행 바 제거, 유사 아이템 그룹화, 중복 제거, 성공 메시지 축약. 60-90% 압축률
 * [sage: (Sovereign) Agent Governed Experience - Byzantine fault-tolerant consensus-based institutional memory for multi-agent systems](https://github.com/l33tdawg/sage/)
   * 멀티 에이전트 시스템을 위한 Byzantine fault-tolerant 합의 기반 검증 가능 기관 메모리 레이어. CometBFT 합의를 통해 에이전트가 지식을 축적, 검증, 공유
 * [safepilot: AI assistant that executes real work, safely](https://github.com/3DCF-Labs/safepilot)
@@ -4212,6 +4214,9 @@ Artificial Intelligence
   * [ouroboros: Stop prompting. Start specifying](https://github.com/Q00/ouroboros)
     * [I've been using Claude Code as my daily driver | Harry Munro](https://www.linkedin.com/posts/harryjmunro_ive-been-using-claude-code-as-my-daily-driver-activity-7435736122942664706-2yux)
     * 코드 작성 전 소크라테스식 인터뷰로 모호성을 0-1 스케일로 평가, 0.2 이하로 낮춰야 실행. 9개 전문 에이전트(반론가 포함)로 사양 안정화
+    * [ouroboros: Agent OS — Stop prompting. Start specifying | 이재규](https://www.linkedin.com/posts/q00_github-q00ouroboros-agent-os-stop-prompting-share-7456008355896152064-jGQh/)
+    * [Ouroboros Deep Dive: MCP Mesh and Disposable Memory](https://wpti.dev/public-presentation/mcp-mesh-deepdive-presentation-final.html)
+      * 소크라틱 인터뷰로 숨겨진 가정 노출, 코딩 전 명세 확립, 3단계 자동 평가. 수학적 게이트(모호성 ≤0.2, 온톨로지 수렴 ≥0.95). Claude Code/Codex CLI/OpenCode/Hermes 지원. MCP Mesh 수평 조율, 일회용 메모리로 컨텍스트 고갈 해결
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
@@ -5085,6 +5090,9 @@ Artificial Intelligence
   * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
   * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
   * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
+* [Structured-Prompt-Driven Development SPDD | Martin Fowler](https://martinfowler.com/articles/structured-prompt-driven/)
+  * [Structured Prompt-Driven Development SPDD | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
+  * Thoughtworks가 제안한 SPDD. 프롬프트를 버전화·리뷰 가능한 아티팩트로 취급. REASONS Canvas 7부(Requirements/Entities/Approach/Structure/Operations/Norms/Safeguards)로 LLM 생성 코드 경계 설정. 추상화 우선·의도 정렬·반복 리뷰 3가지 핵심 역량
 
 # Tutorial
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)
