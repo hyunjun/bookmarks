@@ -861,6 +861,7 @@ Artificial Intelligence
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
   * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
   * [browser-harness: Minimal, self-healing browser automation for LLMs](https://github.com/browser-use/browser-harness)
+    * [browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-browser-usebrowser-harness-browser-activity-7453383921410428928-Rn3d)
     * ~592줄 Python, Chrome DevTools Protocol 직접 연결. 자기수정(self-healing) 아키텍처로 에이전트가 실행 중 harness 자체를 확장. 도메인 스킬 시스템, 무료 원격 브라우저 3개 동시 사용
   * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
@@ -914,6 +915,8 @@ Artificial Intelligence
   * [Hermes는 어떻게 스스로 배워가는가: 코드로 뜯어본 Skill Self-Evolution Architecture](https://tmdgusya.github.io/devletter/posts/hermes-skill-self-evolution/)
     * [Hermes의 Skill 시스템 코드를 분석해봤습니다 | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_hermes%EC%9D%98-skill-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-self-evolution%EC%9D%B4%EB%9D%BC%EA%B3%A0-ugcPost-7448734487754088448-yz4l)
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
+  * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://kr.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-activity-7455171430251405312-hVvn)
+    * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
@@ -5027,6 +5030,8 @@ Artificial Intelligence
 * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl | 박성철](https://www.linkedin.com/posts/fupfin_understanding-spec-driven-development-kiro-activity-7385279368434159616-E8Wp)
   * [스펙 주도 개발(SDD) 심층 탐구하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3477/)
+* [Spec-Driven Dev Is Back. But Not How You Think • Daniel Terhorst-North & Gojko Adzic • GOTO 2026 - YouTube](https://youtube.com/watch?v=6mLYZF97oaU)
+  * BDD 창시자 Daniel Terhorst-North와 Gojko Adzic이 대담. 명세 기반 개발의 재조명, 새로운 관점에서 살펴보는 현대적 SDD
 * [AddyOsmani.com - How to write a good spec for AI agents](https://addyosmani.com/blog/good-spec/)
   * [(번역) AI 에이전트를 위한 좋은 스펙 작성법 | Ykss](https://ykss.netlify.app/translation/2026/how-to-write-a-good-spec-for-ai-agents/)
   * AI 에이전트에게 방대한 정보를 한꺼번에 던지기보다, 명확한 구조와 경계를 가진 '스마트한 스펙' 제공이 핵심
