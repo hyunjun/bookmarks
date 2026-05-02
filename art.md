@@ -227,6 +227,8 @@ Art
 * [밤에 듣는 미술관 여성의 누드는 왜 그려졌을까? - 티타임즈](https://www.ttimes.co.kr/article/2022110418197780629)
 * [밤에 듣는 미술관 마네가 엄청난 악플에 시달렸던 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022111816387774895)
 * [밤에 듣는 미술관 왜 세잔은 ‘현대미술의 아버지’라 불릴까? - 티타임즈](https://www.ttimes.co.kr/article/2022121316347768768)
+* [Kim Jeongho - 런던 뱅크시의 새 작품 | Facebook](https://www.facebook.com/share/1G9ShWzBMZ/)
+  * 2026.4.29 런던 중심부에 설치된 뱅크시의 신작. 정장 입은 남자가 깃발을 들고 걷는 모습의 대형 조각상. 공식 인스타 계정으로 발표
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
