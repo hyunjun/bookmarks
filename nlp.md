@@ -4349,6 +4349,9 @@ NLP
   * [25년 10월 1주차(2) 그래프 오마카세](https://www.graphusergroup.com/hypergraphrag/)
     * [안녕하세요 정이태입니다. 오랜만에 그래프 오마카세 발행에 참여했습니다. 금요일 퇴근 후부터 일요일 오전까지, 논문을 깊이 분석하고 저만의 인사이트(Insight)와 색깔을 입혀 지식을 재구성하는 과정. 지식을 나눌수록 오히려 지식이 채워지고 얻어진다 현상을 경험한 주말이였네요. 첨부한 사진은 서울숲에서 발행 직전의 모습을 촬영한겁니다. 저도… | Yitae Jeong](https://www.linkedin.com/posts/yitaejeong_%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%A0%95%EC%9D%B4%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%97%90-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%98%A4%EB%A7%88%EC%B9%B4%EC%84%B8-%EB%B0%9C%ED%96%89%EC%97%90-%EC%B0%B8%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B8%88%EC%9A%94%EC%9D%BC-activity-7377998185287520256-dyJK)
   * [그래프 기술로 밥벌이를 하는 사람으로서, 'GraphRAG가 느리다'는 피드백에 대해 습관적으로 GDBMS 튜닝만을 제시했던 지난날을 반성해 본 주말이었습니다. 그동안은 Retrieval(검색) 과정이나 Knowledge Graph 구축 방식, 그리고 인프라에만 몰두해 왔습니다. 하지만 시야를 돌려, 본질적으로 결과값이 유저에게 전달되기 직전인… | Yitae Jeong](https://www.linkedin.com/posts/yitaejeong_%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EB%B0%A5%EB%B2%8C%EC%9D%B4%EB%A5%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9C%BC%EB%A1%9C%EC%84%9C-graphrag%EA%B0%80-%EB%8A%90%EB%A6%AC%EB%8B%A4%EB%8A%94-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%97%90-activity-7403343217640837120-mh8Z)
+  * [GraphRAG: Building a Smarter AI System (full walkthrough) | Thu Vu - YouTube](https://www.youtube.com/watch?v=JTVx6i6MzVw)
+    * [thu-vu92/graphRAG](https://github.com/thu-vu92/graphRAG)
+    * Microsoft의 GraphRAG 논문 기반 튜토리얼. 표준 RAG의 한계, GraphRAG란 무엇인지, GraphRAG vs 표준 RAG 사용 구분
   * [code-graph-rag: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs](https://github.com/vitali87/code-graph-rag)
     * [A graph-based RAG over code solution!](https://www.linkedin.com/feed/update/urn:li:activity:7372849079128805376/)
   * [FalkorDB Graph Database with GraphRAG for AI/ML and GenAI](https://www.falkordb.com/)
