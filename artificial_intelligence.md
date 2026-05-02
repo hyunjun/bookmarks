@@ -1741,6 +1741,9 @@ Artificial Intelligence
   * [저만 알고 싶은 수천개의 AI 기술 사이트🤗 코드존재 | 허깅페이스 HuggingFace - YouTube](https://www.youtube.com/watch?v=EtKpn-XRxHA)
   * [GitHub - jkf87/agents-course-kr: This repository contains the Hugging Face Agents Course for korean](https://github.com/jkf87/agents-course-kr)
   * [Welcome, Gradio 5](https://huggingface.co/blog/gradio-5)
+* [Is Your Site Agent-Ready? | Cloudflare](https://isitagentready.com/)
+  * [Is Your Site Agent-Ready? - Cloudflare의 AI 에이전트 친화도 진단 도구 | GeekNews](https://news.hada.io/topic?id=28650)
+  * Cloudflare 진단 도구. 5개 카테고리(발견성 robots.txt/sitemap, 콘텐츠 접근성 markdown, 봇 제어, 프로토콜 MCP/OAuth, 커머스 표준) 평가. llms.txt·MCP·agent skills 등 에이전트 친화 표준 스캔 및 개선 프롬프트 제공
 * [Karya | We solve data needs](https://karya.in/)
   * [전종홍 - 타임지의 표지 모델로 등장한 인도의 인공지능 스타트업 Karya AI. 그 선정 배경을 보니 어쩌면... | Facebook](https://www.facebook.com/1biit/posts/pfbid032VgpmasVcq9WNMKNTC3Q5Atn5NdhVrhS5Mib1BymYJCQZgHxjj4hahQqmLDbM1xil)
 * [KICE_slayer_AI_Korean: 수능 국어 1등급에 도전하는 AI](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
