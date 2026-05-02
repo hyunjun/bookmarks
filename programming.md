@@ -5385,6 +5385,7 @@ Programming
   * [Mathematics for Computer Science | MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [nand2tetris](https://www.nand2tetris.org/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
+* [omniget: Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents. · GitHub](https://github.com/tonhowtf/omniget)
 * [Online-Computer-Science-Degree: Open-Source Computer Science Degree](https://github.com/eeeear/Online-Computer-Science-Degree)
 * [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
   * [Open Logic Project Builds](http://builds.openlogicproject.org/)
