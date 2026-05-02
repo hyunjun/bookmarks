@@ -3353,6 +3353,7 @@ AWS
 * [VPN 분할 터널에 대해 배우면서 VPN환경 구축 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Sep, 2022 | Medium](https://medium.com/ctc-mzc/vpn-%EB%B6%84%ED%95%A0-%ED%84%B0%EB%84%90%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B0%B0%EC%9A%B0%EB%A9%B4%EC%84%9C-vpn%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%ED%95%B4-%EB%B3%B4%EA%B8%B0-bdeee71351)
 * [테스트하며 이해해보는 사이트 간 VPN (YAMAHA RTX830이용) | by MZC_Global | Cloud Villains | Sep, 2023 | Medium](https://medium.com/cloudvillains/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%A9%B0-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%84-vpn-yamaha-rtx830%EC%9D%B4%EC%9A%A9-f50aae055a80)
 * [AWS Site-to-Site VPN 성능 최적화를 위한 적절한 옵션 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-site-to-site-vpn-best-options-for-performance/)
+* [Building a Multi-VPC Architecture on AWS | by Ikoh Sylva | May, 2026 | Medium](https://ikoh-sylva.medium.com/building-a-multi-vpc-architecture-on-aws-08fb9951e962)
 
 # WAF Web Application Firewall
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
