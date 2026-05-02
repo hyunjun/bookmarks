@@ -2563,6 +2563,8 @@ Artificial Intelligence
   * [YC가 말하는 AI 스타트업의 레거시 산업 진입방법 회계 산업에 AI를 넣는다? 생각보다 복잡합니다. 첫날부터 완전 자동화는 불가능합니다. 그렇다면 어떻게 시작해야 할까요? 소프트웨어를 팔 것인가, 직접 회계법인을 운영할 것인가, 아니면 기존 회사를 인수할 것인가. 1. 레거시 산업 진입, 3가지 길 (회계산업 예) (1) 방식 1: 소프트웨어를… | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_yc%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%82%B0%EC%97%85-%EC%A7%84%EC%9E%85%EB%B0%A9%EB%B2%95-%ED%9A%8C%EA%B3%84-%EC%82%B0%EC%97%85%EC%97%90-ai%EB%A5%BC-activity-7387628331862679553-vged)
 * [OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, and more...](https://www.deeplearning.ai/the-batch/issue-326/)
   * [Tae Hyung Kim - 앤드루 응은 에이전트 시대엔 데이터 사일로가 더 고통스럽다고 말하며 API 키 하나 받는... | Facebook](https://www.facebook.com/socialego/posts/pfbid08SVj9B5Gy5SNjJqWNuZ9m33rWNfnYGZBwjVp3iXSRJDKwZoaPtCjs7xdsHEwtW96l)
+* [Meta Pivots From Open Weights, Big Pharma Bets On AI, Regulatory Patchwork, and more... | The Batch Issue 349](https://www.deeplearning.ai/the-batch/issue-349/)
+  * AI-native 소프트웨어 엔지니어링 팀이 전통적 팀과 다르게 운영되는 방식, Meta 오픈 웨이트 전환, 빅파마 AI 베팅, 규제 패치워크 등
 * [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
 * [“90일마다 갈아엎는 AI 스택” 너무 빠른 기술 진화의 역설 | CIO](https://www.cio.com/article/4103768/90%ec%9d%bc%eb%a7%88%eb%8b%a4-%ea%b0%88%ec%95%84%ec%97%8e%eb%8a%94-ai-%ec%8a%a4%ed%83%9d-%eb%84%88%eb%ac%b4-%eb%b9%a0%eb%a5%b8-%ea%b8%b0%ec%88%a0-%ec%a7%84%ed%99%94%ec%9d%98.html)
   * “가장 먼저 해야 할 일은 ‘AI가 어디서부터 개입하는지, 기대하는 성능 수준은 무엇인지, 무엇을 달성해야 좋은 결과로 볼 것인지, 실제로 어떤 도구를 사용할 것인지’를 매우 구체적으로 정의하는 것이다”라고 강조
@@ -2713,6 +2715,10 @@ Artificial Intelligence
   * 생성 AI가 인간 글을 구별 불가능하게 모방하면서 글의 정의가 품질에서 저자성·책임성으로 이동. 인간 글의 대체불가능함은 유창함이 아닌 '증언'—저자가 자신의 말에 책임지는 의지
 * [Building Enterprise Software with LLMs Could Cost 10x More Than Existing Platforms | Digital Today](https://www.digitaltoday.co.kr/news/articleView.html?idxno=658924)
   * ServiceNow CEO Bill McDermott. LLM으로 기존 엔터프라이즈 플랫폼 복제하면 GPU·토큰 비용으로 10배 이상. AI는 사고, 워크플로우는 실행. ServiceNow는 AI 에이전트가 고객 서비스 90% 처리
+* [AX 한다면서 왜 다들 그대로 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3738/)
+  * AI 도입에도 구성원 반응이 시큰둥한 이유 분석. 조직 구성원과 AI의 시너지를 위해 4가지 주제(도입·사용경험·학습·문화)로 정리
+* [ByungJun Jang - 기업 AX가 본격적으로 시작됐다 | Facebook](https://www.facebook.com/byungjun.jang.1/posts/26613300094997113/)
+  * OpenAI x 무신사 인플루언서 초청 행사 참관기. OpenAI 코리아 엔지니어와 무신사 CTO가 Codex 활용 사례 대담. 기업 "AI 대전환"이 본격화되고 있다는 현장 감상
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -4123,6 +4129,8 @@ Artificial Intelligence
     * [DESIGN.md 포맷 완전정복 — 28챕터 딥다이브](https://rubric.im/curriculum/design-md)
       * [DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리) | GeekNews](https://news.hada.io/topic?id=28861)
     * YAML 토큰(색상·타이포·간격) + 마크다운 디자인 근거의 이중 레이어 포맷. WCAG 대비 검증, Tailwind/DTCG 내보내기, lint/diff/export CLI. Google
+    * [Refero Styles — Design Systems for AI Agents](https://styles.refero.design/)
+      * AI 에이전트용 DESIGN.md 라이브러리 검색. 상위 웹사이트의 컬러·타이포그래피·간격·컴포넌트 패턴 큐레이션
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
     * [ECC Tools](https://ecc.tools/)
