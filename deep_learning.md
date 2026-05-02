@@ -718,6 +718,9 @@ Deep Learning
   * [FaceForensics++: Learning to Detect Manipulated Facial Images](https://github.com/ondyari/FaceForensics/)
   * [Contributing Data to Deepfake Detection Research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
   * ['아이유인데 아이유가 아닙니다' - YouTube](https://www.youtube.com/watch?v=p2POWAdB2AE)
+* [Deep Live Cam — Free AI Real-Time Face Swap & Video Deepfake Tool](https://deeplivecam.net/)
+  * [Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam)
+  * 단일 레퍼런스 이미지로 실시간 웹캠 얼굴 교체. Mouth Mask로 원본 입 움직임 유지, 다중 얼굴 매핑, ONNX 기반. CUDA/CoreML/DirectML/OpenVINO GPU 가속, OBS 연동. Windows/macOS(Apple Silicon)/Linux
 * [first-order-model: This repository contains the source code for the paper First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
   * [first-order-model-demo.ipynb - Colaboratory](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
