@@ -306,6 +306,8 @@ Finance
 * [전종홍 - DeepSeek는 정말 실제로는 헤지펀드를 위한 사이드 프로젝트였던 것일까요 ? 미국 시장 조사 회사인... | Facebook](https://www.facebook.com/1biit/posts/pfbid02RSmx8ban35iGztCpKatY8tqAKvXMcaYwfiWExBQ1kibuSMYQvQ3bwQfvaEh9GZhil)
 * [구글 제미나이 3.0: 8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포) - YouTube](https://www.youtube.com/watch?v=8BsHVuJdJgE)
   * [8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포)](https://livewiki.com/ko/content/ai-stock-trading-system-source-code)
+* [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
+  * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
 * [2512.10971 AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://arxiv.org/abs/2512.10971)
   * 주식하는 AI 에이전트, [홍콩대가 만든 밤낮없이 시장을 보고, 뉴스도 읽고, 스스로 판단하는 AI-Trader는 정작 성적표는 꽤 인간적](https://www.facebook.com/socialego/posts/pfbid0vDy6kZfygZnjAid17TiQJvvB3PunVbnpTSiAV1RHCYcDwnR9Fhszump1fS6kRWVKl)
 * [anthropic-quickstarts/financial-data-analyst at main · anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
@@ -333,11 +335,15 @@ Finance
   * YouTube Shorts 자동 생성, Twitter 봇, 아마존 제휴 마케팅, 로컬 비즈니스 콜드 아웃리치 자동화
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
+* [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
+  * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
+  * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
   * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
+  * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
 * [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
   * [블룸버그 터미널 연 구독료 약 3만 2천 달러. 한화 4,600만원 수준입니다. 같은 역할을 지향하는 오픈소스 대안이 한 명의 개발자 손에서 나와 깃허브 별 4만개를 넘겼습니다. 이번 주말 개인 서버에 설치해볼 예정이라, 공부한 내용을 정리해 공유합니다. ▶ 프로젝트: World Monitor 실시간 글로벌 인텔리전스 대시보드입니다. 한 화면에 다음… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%B0-%EA%B5%AC%EB%8F%85%EB%A3%8C-%EC%95%BD-3%EB%A7%8C-2%EC%B2%9C-%EB%8B%AC%EB%9F%AC-%ED%95%9C%ED%99%94-4600%EB%A7%8C%EC%9B%90-%EC%88%98%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-share-7452296257399861248-0t46)
