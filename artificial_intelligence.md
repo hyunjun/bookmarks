@@ -438,61 +438,20 @@ Artificial Intelligence
   * [sample-aidlc-kiro-power: AI-DLC Methodology Power for Kiro](https://github.com/aws-samples/sample-aidlc-kiro-power)
     * Kiro IDE용 AI-DLC 파워. 프로젝트 복잡도 기반 자동 단계 조정(Inception→Construction→Operations), 리스크 기반 평가, 품질 게이트, aidlc-docs/ 감사 추적
   * [aidlc-cc-plugin: AI-DLC (AI-Driven Development Life Cycle) claude code plugin](https://github.com/ijin/aidlc-cc-plugin)
-* [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
-  * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
-  * [Unlocking the Codex harness | OpenAI](https://openai.com/index/unlocking-the-codex-harness/)
-    * [Codex App Server 아키텍처: OpenAI가 표준 하네스로 통합한 에이전트 실행 구조](https://digitalbourgeois.tistory.com/2804)
-  * [Agent-First 시대의 소프트웨어 개발 전략: Codex로 코드 한 줄 안 쓰고 제품 만든 엔지니어링 인사이트](https://digitalbourgeois.tistory.com/2825)
-    * AI 에이전트가 코드 100% 생성하는 실험적 제품 개발 사례. 인간의 역할이 코딩에서 시스템 설계, 아키텍처 관리, 피드백 루프 최적화로 전환
-  * [하네스 엔지니어링, 에이전트 우선 세계에서 Codex 활용하기 | GeekNews](https://news.hada.io/topic?id=27457)
-  * [하네스 엔지니어링 에이전트 우선 세계에서 Codex 활용하기 | raging-wind](https://www.linkedin.com/posts/raging-wind_%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9A%B0%EC%84%A0-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-codex-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-geeknews-activity-7438212039631773696-7Qdh)
-  * [Agent Harness | bijit211987 | Medium](https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1)
-  * [Harness | LangChain Docs](https://docs.langchain.com/oss/python/deepagents/harness)
-    * [The Anatomy of an Agent Harness | LangChain](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
-    * [Improving Deep Agents with Harness Engineering | LangChain](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/)
-    * [How Middleware Lets You Customize Your Agent Harness | LangChain](https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/)
-    * [How We Build Evals for Deep Agents | LangChain](https://blog.langchain.com/how-we-build-evals-for-deep-agents/)
-    * [Better Harness: A Recipe for Harness Hill-Climbing with Evals | LangChain](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/)
-    * [2026년 Harness Engineering 독학 - LangChain 하네스 엔지니어링 5편 정리 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-harness-engineering-%EB%8F%85%ED%95%99-langchain-share-7448253507192791040-VRiM/)
-      * Agent = Model + Harness. 하네스만 수정하여 Terminal Bench 2.0에서 13.7점 향상(52.8%→66.5%, 30위권 밖→5위). 해부학→개선→미들웨어→평가→자동 개선 5단계 학습 경로
-  * [Harness Engineering | Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
-  * [Agent Harness 2026 | Philipp Schmid](https://www.philschmid.de/agent-harness-2026)
-  * [Agent Harness | mseagle2023](https://www.linkedin.com/posts/mseagle2023_agent-harness-activity-7434502179484471296-x1yE)
-  * [Harness Engineering 2026년 실리콘밸리에서 | seungpil](https://www.linkedin.com/posts/seungpil_harness-engineering%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-2026%EB%85%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-activity-7436547143496151040-SNti)
-  * [하네스 엔지니어링 시대: 코딩 에이전트를 위한 새로운 프레임워크](https://digitalbourgeois.tistory.com/2857)
-  * [Harness 개념 정리](https://sungeuns.substack.com/p/harness)
-  * [opencode oh my opencode harness](https://velog.io/@qlgks1/opencode-oh-my-opencode-harness)
-  * [Effective Harnesses for Long-Running Codex | Team Attention](https://long-running-codex-meetup.team-attention.com/)
-    * [OpenAI Codex Community Meetup Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대 | 정구봉 - YouTube](https://www.youtube.com/watch?v=tjEVBcPT-RA)
-      * [Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대](https://livewiki.com/ko/content/openai-codex-ai-coding-3)
-    * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
-  * [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
-    * 100명+ 사내 세션 발표 자료. 같은 모델이라도 컨텍스트·워크플로우·검증 기준 설계에 따라 결과가 달라짐. Green Field vs Brown Field 구현 차이, 개인 AI 활용과 조직 단위 AI 적용의 근본적 차이(품질·검증 가능성·통제 가능성·운영 지속성)
-  * [From Prompts to Harness — A 4-Year Record of AI Agentic Patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
-    * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
-  * [Designing Domain-Specific Agent Harnesses](https://aayushmathur7.substack.com/p/designing-domain-specific-agent-harnesses)
-    * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
-  * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [이길환 - 제목: MCP, RAG, AI 에이전트, 대체 뭐가 다를까?…'계층'으로 이해해야 쉬운 AI 기술 트리오... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid02tGCNoydznP3sSJREX76d7gp7C9Hy1f5twwam7FQcfmAray5sCg2QngBU2nkkdqvvl)
 * [The future of software engineering is SRE | Swizec Teller](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
   * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero](https://playerzero.ai/resources/what-is-agentic-sre-the-next-evolution-of-reliability-engineering)
     * [What is Agentic SRE? The Next Evolution of Reliability Engineering | PlayerZero | Dongwook Park](https://www.linkedin.com/posts/lewis34_what-is-agentic-sre-the-next-evolution-of-activity-7426621751188672512-FsxS)
-* [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
-* [Agentic Engineering Patterns - Simon Willison](https://simonwillison.net/guides/agentic-engineering-patterns/)
-  * [Simon Willison 에이전틱 엔지니어링 패턴 | Youshin Kim](https://www.linkedin.com/pulse/simon-willison-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%A8%ED%84%B4-agentic-engineering-patterns-youshin-kim-hfk1c)
-  * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
 * [Prompt caching, clearly explained](https://x.com/akshay_pachaar/status/2031021906254766128)
 * [Developers Guide to AI Agent Protocols | Google](https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/)
   * [AI 에이전트 프로토콜 개발자 가이드 | GeekNews](https://news.hada.io/topic?id=27636)
 * [에이전트 시대 우리가 설계해야 할 것은 모델이 아니라 시스템이다 | Seowoo Han](https://www.linkedin.com/pulse/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B2%83%EC%9D%80-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%8B%A4-seowoo-han-bzxzc)
-* [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
-* [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
-  * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
-  * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
 * [바이브 코딩 시대의 조직 설계 :: ROBOCO](https://roboco.io/posts/organizational-design-for-vibe-coding/)
 * [Shopify의 데이터 구조화 여정: One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로 | GeekNews](https://news.hada.io/topic?id=28022)
   * [Shopify의 데이터 구조화 여정 - One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로의 전환](https://digitalbourgeois.tistory.com/2942)
   * GPT-4 원샷 프롬프팅에서 DSPy 기반 멀티에이전트+자체 호스팅 Qwen으로 전환. 비용 75배 절감, 품질 2배 향상. Flink 배치(일 15만건), K8s 에이전트, GPU 클러스터 3계층 인프라
+* [ChatGPT는 어떤 방식으로 쿼리팬아웃을 실행할까? | BlueDot](https://blog.bluedot.so/chatgptneun-eoddeon-bangsigeuro-kweoripaenauseul-silhaenghalgga/)
+  * AEO/GEO, ChatGPT가 단일 쿼리를 여러 하위 쿼리로 분해하는 Query Fan-Out의 6가지 유형(패러프레이즈 확장, 다국어 확장, 사이트 특화 검색, 엔티티 비교, 권위 검증, 추천 쿼리) 분석
 
 # AGI Artificial General Intelligence
 * [MIT AGI: Artificial General Intelligence](https://www.youtube.com/watch?v=-GV_A9Js2nM)
@@ -991,6 +950,8 @@ Artificial Intelligence
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
+* [MiroShark: Universal swarm intelligence engine simulating scenarios with hundreds of AI agents](https://github.com/aaronjmars/MiroShark)
+  * 뉴스·정책안·질문 등 시나리오에 수백 명의 AI 에이전트가 소셜 플랫폼/예측 시장에서 반응. 시뮬레이션 Twitter/Reddit 포스팅, 속보 주입·타임라인 포킹. PR 위기 테스트·광고 검증·정책 분석에 활용, OpenRouter API로 약 $1
 * [MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios](https://github.com/MiroMindAI/MiroThinker)
 * [ml-intern: Autonomous ML research agent using Hugging Face ecosystem](https://github.com/huggingface/ml-intern)
   * 자율적으로 ML 코드를 연구·작성·배포하는 에이전트. HuggingFace 문서·논문·데이터셋·클라우드 컴퓨트 통합, GitHub 코드 검색, 샌드박스 실행, Doom Loop 탐지. 5.5k stars
@@ -1105,46 +1066,27 @@ Artificial Intelligence
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
   * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
 
-# Artificial Neural Networks
-* [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
-* [인공신경망 (ANN) 공부 루트](https://cailhuiris.github.io/code/2017/04/02/study-route-of-ann.html)
-* [A GENTLE INTRODUCTION TO NEURAL NETWORKS (WITH PYTHON)](https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python)
-* [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)
+# AI Engineering
 
-# Book
-* [더북(TheBook): 모두의 인공지능 with 파이썬](https://thebook.io/080244/)
-* [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
-* [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
-* [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
-* [The Agentic AI Handbook: Production-Ready Patterns - Log - nibzard](https://www.nibzard.com/agentic-handbook/)
-  * 단순한 LLM 호출을 넘어 자율적 추론, 도구 활용, 메모리 관리를 갖춘 '에이전틱(Agentic) AI' 구축을 위한 실무 지침서
-  * 110개 이상의 검증된 패턴을 통해 신뢰성 있는 에이전트 시스템 설계 방법 제시
-  * 개발 환경의 표준화와 명확한 피드백 루프 구축이 성공의 핵심
-* [AI 관련 오픈서적(프롬프트 엔지니어링 포함)](https://www.facebook.com/lsszz1/posts/pfbid02kXNgErWsGbtw3o9uQwwhMMmp13JXUqXqupfxH9SLVDvXmjqzRC1CNyw1RUZPGz2el)
-* [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
-* [Artificial Intelligence and Games](http://gameaibook.org/)
-* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
-* [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
-* [resources.md at main · chiphuyen/aie-book](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
-  * [AI Engineering 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=18323)
+## Agentic Engineering
+* [바이브 코딩은 지났다, 에이전틱 엔지니어링이 여는 AI 개발의 다음 단계](https://digitalbourgeois.tistory.com/2802)
+* [Agentic Engineering Patterns - Simon Willison](https://simonwillison.net/guides/agentic-engineering-patterns/)
+  * [Simon Willison 에이전틱 엔지니어링 패턴 | Youshin Kim](https://www.linkedin.com/pulse/simon-willison-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%A8%ED%84%B4-agentic-engineering-patterns-youshin-kim-hfk1c)
+  * Claude Code/Codex 등 코딩 에이전트 활용 패턴. Red/Green TDD, 선형 워크스루, 인터랙티브 설명, 주석 달린 프롬프트 등 실용적 가이드
+* [에이전틱 엔지니어링 시대의 생존 스킬 9가지](https://flowkater.io/posts/2026-03-01-agentic-engineering-9-skills/)
+* [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
+  * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
+  * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
+* [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
+  * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
+* [Andrej Karpathy: From Vibe Coding to Agentic Engineering - YouTube](https://www.youtube.com/watch?v=96jN2OCOfLs)
+  * [안드레이 카파시: 바이브 코딩에서 에이전틱 엔지니어링으로](https://livewiki.com/ko/content/karpathy-vibe-coding-agentic-engineering)
+  * [스테이지5 - 안드레이 카파시, 바이브 코딩에서 에이전틱 엔지니어링으로 | Facebook](https://www.facebook.com/stage5/posts/1504300551253766/)
+  * Karpathy가 AI Ascent 2026에서 Sequoia Stephanie Zhan과 대담. "vibe coding" 이후 1년간의 변화, 그 위에 자리잡는 본격 규율로서의 agentic engineering. LLM은 동물이 아닌 유령—뾰족하고 통계적인 소환된 존재라는 관점
+* ["코딩은 이제 공짜가 됐다" 25년차 장고 창시자가 말하는 AI 시대 | eopla.net](https://eopla.net/magazines/41947)
+  * Django 공동창시자 Simon Willison이 2025년 11월이 AI 코딩 에이전트의 변곡점이었다고 회고. "agentic engineering" 실무, 수동 리뷰가 사라진 "dark factories" 등장, OpenClaw처럼 디지털 시스템을 자율 조작하는 AI 어시스턴트의 보안 함의
 
-# Conference
-* [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
-* [AI DATA 업스테이지 박찬준 AI Research Engineer - YouTube](https://www.youtube.com/watch?v=20NXHKGV3uI)
-* [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
-  * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
-* [“Unlocking the power of Big Data, Analytics & AI” - Payzy by Cosmote - Konstantinos Megalokonomos - YouTube](https://www.youtube.com/watch?v=xhLmX9WL4Sw)
-* [Training & Monitoring AI - Drift Detection • Thomas Viehmann • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=pll9IRkeZ8o)
-* [Robert Erdmann - Keynote - Python for Imaging and Artificial Intelligence in Cultural Heritage - YouTube](https://www.youtube.com/watch?v=kMfl5SzfkVc)
-* [The AI-First Data Infrastructure | Barak Yagour - YouTube](https://www.youtube.com/watch?v=rFi0Bi7NqT8)
-  * [VidiGo The AI-First Data Infrastructure | Barak Yagour.mp](https://vidigo.ai//share/summary/3c5c303e6a69)
-  * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
-* [다시 보기 8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19317/)
-* [Theo van Kraay - Data Challenges for Scaling Multi-Agent GenAI Apps with Python | PyData London 25 - YouTube](https://www.youtube.com/watch?v=S9U96uLJoLg)
-* [Mor Hananovitz, Ortal Ashkenazi: Learning How to Learn in the AI Era (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=HvqA2hwSQUA)
-  * [AI 시대, 빠르게 배우는 법: 이론과 실습을 통한 에이전트 개발 (PyData Tel Aviv 2025)](https://livewiki.com/ko/content/learning-ai-era)
-
-# Context Engineering
+## Context Engineering
 * [사내 AI 세션 발표 자료: Google AI Agents Guide + OpenAI GPT-5 Prompting + Anthropic Context Engineering | 정희영](https://www.linkedin.com/posts/%ED%9D%AC%EC%98%81-%EC%A0%95-9b13311ba_%EC%82%AC%EB%82%B4-ai-%EC%84%B8%EC%85%98%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%96%88%EB%8D%98-%EC%9E%90%EB%A3%8C%EB%A5%BC-%EA%B3%B5%EC%9C%A0%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-%ED%98%84-ai-3%EB%8C%80%EC%9E%A5-ugcPost-7439896718839783424-L1T3)
 * [컨텍스트 엔지니어링 - 현재 AI에서 가장 인기 있는 기술 - YouTube](https://www.youtube.com/watch?v=ioOHXt7wjhM)
   * [コンテキストエンジニアリング — 今最も注目されているAIスキル | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/4993271/4335119)
@@ -1265,6 +1207,84 @@ Artificial Intelligence
   * Claude Code에서 영감받은 오픈소스 에이전트 하네스. 계획·파일시스템·셸·서브에이전트·컨텍스트 자동 요약 내장. 모든 tool-calling LLM 지원
 * [fenic: Declarative context engineering for agents](https://github.com/typedef-ai/fenic)
   * [What is fenic? - fenic, by typedef](https://docs.fenic.ai/)
+
+## Harness Engineering
+* [Harness engineering: leveraging Codex in an agent-first world | OpenAI](https://openai.com/index/harness-engineering/)
+  * [🔧 Codex 에이전트에게 100만 줄을 맡긴 OpenAI, 사람이 한 건 딱 5가지였습니다 요즘 "하네스 엔지니어링"이라는 말이 갑자기 보이기 시작했을 거예요. 솔직히 처음엔 또 새 유행어인가 싶었습니다. 그런데 OpenAI 가 오늘 새벽 공개한 블로그를 읽고 생각이 바뀌었어요. 원문: https://lnkd.in/gRj6-5G3 일단 추론… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90%EA%B2%8C-100%EB%A7%8C-%EC%A4%84%EC%9D%84-%EB%A7%A1%EA%B8%B4-openai-%EC%82%AC%EB%9E%8C%EC%9D%B4-%ED%95%9C-activity-7427487772422070272-7ShD)
+  * [Unlocking the Codex harness | OpenAI](https://openai.com/index/unlocking-the-codex-harness/)
+    * [Codex App Server 아키텍처: OpenAI가 표준 하네스로 통합한 에이전트 실행 구조](https://digitalbourgeois.tistory.com/2804)
+  * [Agent-First 시대의 소프트웨어 개발 전략: Codex로 코드 한 줄 안 쓰고 제품 만든 엔지니어링 인사이트](https://digitalbourgeois.tistory.com/2825)
+    * AI 에이전트가 코드 100% 생성하는 실험적 제품 개발 사례. 인간의 역할이 코딩에서 시스템 설계, 아키텍처 관리, 피드백 루프 최적화로 전환
+  * [하네스 엔지니어링, 에이전트 우선 세계에서 Codex 활용하기 | GeekNews](https://news.hada.io/topic?id=27457)
+  * [하네스 엔지니어링 에이전트 우선 세계에서 Codex 활용하기 | raging-wind](https://www.linkedin.com/posts/raging-wind_%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9A%B0%EC%84%A0-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-codex-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-geeknews-activity-7438212039631773696-7Qdh)
+  * [Agent Harness | bijit211987 | Medium](https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1)
+  * [Harness | LangChain Docs](https://docs.langchain.com/oss/python/deepagents/harness)
+    * [The Anatomy of an Agent Harness | LangChain](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
+    * [Improving Deep Agents with Harness Engineering | LangChain](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/)
+    * [How Middleware Lets You Customize Your Agent Harness | LangChain](https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/)
+    * [How We Build Evals for Deep Agents | LangChain](https://blog.langchain.com/how-we-build-evals-for-deep-agents/)
+    * [Better Harness: A Recipe for Harness Hill-Climbing with Evals | LangChain](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/)
+    * [2026년 Harness Engineering 독학 - LangChain 하네스 엔지니어링 5편 정리 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_2026%EB%85%84-harness-engineering-%EB%8F%85%ED%95%99-langchain-share-7448253507192791040-VRiM/)
+      * Agent = Model + Harness. 하네스만 수정하여 Terminal Bench 2.0에서 13.7점 향상(52.8%→66.5%, 30위권 밖→5위). 해부학→개선→미들웨어→평가→자동 개선 5단계 학습 경로
+  * [Harness Engineering | Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
+  * [Agent Harness 2026 | Philipp Schmid](https://www.philschmid.de/agent-harness-2026)
+  * [Agent Harness | mseagle2023](https://www.linkedin.com/posts/mseagle2023_agent-harness-activity-7434502179484471296-x1yE)
+  * [Harness Engineering 2026년 실리콘밸리에서 | seungpil](https://www.linkedin.com/posts/seungpil_harness-engineering%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-2026%EB%85%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-activity-7436547143496151040-SNti)
+  * [하네스 엔지니어링 시대: 코딩 에이전트를 위한 새로운 프레임워크](https://digitalbourgeois.tistory.com/2857)
+  * [Harness 개념 정리](https://sungeuns.substack.com/p/harness)
+  * [opencode oh my opencode harness](https://velog.io/@qlgks1/opencode-oh-my-opencode-harness)
+  * [Effective Harnesses for Long-Running Codex | Team Attention](https://long-running-codex-meetup.team-attention.com/)
+    * [OpenAI Codex Community Meetup Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대 | 정구봉 - YouTube](https://www.youtube.com/watch?v=tjEVBcPT-RA)
+      * [Effective Harnesses for Long-Running Codex: AI가 밤새 코딩하는 시대](https://livewiki.com/ko/content/openai-codex-ai-coding-3)
+    * Ralphthon(12시간 AI 해커톤), Harness Engineering 패턴, Code Factory 조직 접근법. 스펙 명확성과 진화하는 하네스, 체계적 루프가 단순 스크립트보다 자율 코딩에 효과적
+* [harness engineering.pdf | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_harness-engineeringpdf-ugcPost-7447900106281877504-9eWf)
+  * 100명+ 사내 세션 발표 자료. 같은 모델이라도 컨텍스트·워크플로우·검증 기준 설계에 따라 결과가 달라짐. Green Field vs Brown Field 구현 차이, 개인 AI 활용과 조직 단위 AI 적용의 근본적 차이(품질·검증 가능성·통제 가능성·운영 지속성)
+* [From Prompts to Harness — A 4-Year Record of AI Agentic Patterns](https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html)
+  * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
+* [Designing Domain-Specific Agent Harnesses](https://aayushmathur7.substack.com/p/designing-domain-specific-agent-harnesses)
+  * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
+* [하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3733/)
+  * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
+* [harness-eval](https://github.com/whchoi98/harness-eval)
+
+# Artificial Neural Networks
+* [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
+* [인공신경망 (ANN) 공부 루트](https://cailhuiris.github.io/code/2017/04/02/study-route-of-ann.html)
+* [A GENTLE INTRODUCTION TO NEURAL NETWORKS (WITH PYTHON)](https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python)
+* [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)
+
+# Book
+* [더북(TheBook): 모두의 인공지능 with 파이썬](https://thebook.io/080244/)
+* [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
+* [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
+* [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+* [The Agentic AI Handbook: Production-Ready Patterns - Log - nibzard](https://www.nibzard.com/agentic-handbook/)
+  * 단순한 LLM 호출을 넘어 자율적 추론, 도구 활용, 메모리 관리를 갖춘 '에이전틱(Agentic) AI' 구축을 위한 실무 지침서
+  * 110개 이상의 검증된 패턴을 통해 신뢰성 있는 에이전트 시스템 설계 방법 제시
+  * 개발 환경의 표준화와 명확한 피드백 루프 구축이 성공의 핵심
+* [AI 관련 오픈서적(프롬프트 엔지니어링 포함)](https://www.facebook.com/lsszz1/posts/pfbid02kXNgErWsGbtw3o9uQwwhMMmp13JXUqXqupfxH9SLVDvXmjqzRC1CNyw1RUZPGz2el)
+* [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
+* [Artificial Intelligence and Games](http://gameaibook.org/)
+* [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
+* [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
+* [resources.md at main · chiphuyen/aie-book](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
+  * [AI Engineering 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=18323)
+
+# Conference
+* [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
+* [AI DATA 업스테이지 박찬준 AI Research Engineer - YouTube](https://www.youtube.com/watch?v=20NXHKGV3uI)
+* [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
+  * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
+* [“Unlocking the power of Big Data, Analytics & AI” - Payzy by Cosmote - Konstantinos Megalokonomos - YouTube](https://www.youtube.com/watch?v=xhLmX9WL4Sw)
+* [Training & Monitoring AI - Drift Detection • Thomas Viehmann • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=pll9IRkeZ8o)
+* [Robert Erdmann - Keynote - Python for Imaging and Artificial Intelligence in Cultural Heritage - YouTube](https://www.youtube.com/watch?v=kMfl5SzfkVc)
+* [The AI-First Data Infrastructure | Barak Yagour - YouTube](https://www.youtube.com/watch?v=rFi0Bi7NqT8)
+  * [VidiGo The AI-First Data Infrastructure | Barak Yagour.mp](https://vidigo.ai//share/summary/3c5c303e6a69)
+  * [AI 우선 데이터 인프라 | Barak Yagour | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/679964)
+* [다시 보기 8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/19317/)
+* [Theo van Kraay - Data Challenges for Scaling Multi-Agent GenAI Apps with Python | PyData London 25 - YouTube](https://www.youtube.com/watch?v=S9U96uLJoLg)
+* [Mor Hananovitz, Ortal Ashkenazi: Learning How to Learn in the AI Era (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=HvqA2hwSQUA)
+  * [AI 시대, 빠르게 배우는 법: 이론과 실습을 통한 에이전트 개발 (PyData Tel Aviv 2025)](https://livewiki.com/ko/content/learning-ai-era)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
@@ -3232,6 +3252,9 @@ Artificial Intelligence
   * [16일간 AI와 함께 만든 AI 모니터링 도구 이야기 | GeekNews](https://news.hada.io/topic?id=26656)
 * [vibium: Browser automation for AI agents and humans](https://github.com/VibiumDev/vibium)
   * [Vibium - AI와 인간을 위한 브라우저 자동화 도구 | GeekNews](https://news.hada.io/topic?id=25327)
+* [Visa CLI - Command Line Commerce](https://visacli.sh/)
+  * [Visa CLI - AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 베타 | GeekNews](https://news.hada.io/topic?id=27655)
+  * AI 에이전트용 결제 MCP 서버. 카드 인증 후 이미지 생성·음악 API·프리미엄 데이터셋 등 자율 결제. API 키·사전 충전 불필요, 서버사이드 지출 한도·일회용 토큰으로 보안 확보
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
 * [vmlx: Fastest Local AI for Mac](https://vmlx.net/)
   * [vmlx](https://github.com/jjang-ai/vmlx)
@@ -3822,6 +3845,8 @@ Artificial Intelligence
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
     * Growth Engine, Sales Pipeline, Content Ops, SEO Ops 등 11개 마케팅/세일즈 스킬. 스크립팅·스코어링·자동화 파이프라인 포함. MIT 라이선스
+  * [ai-sales-team-claude: AI-powered sales automation for Claude Code](https://github.com/zubair-trabzada/ai-sales-team-claude)
+    * 커맨드라인 전문 영업 운영 시스템. 5개 병렬 분석 에이전트로 프로스펙트 감사, BANT/MEDDIC 리드 스코어링(0-100), 의사결정자 매핑, 이메일 시퀀스, 미팅 브리프, 제안서·PDF 리포트 생성
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
@@ -4228,8 +4253,6 @@ Artificial Intelligence
     * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
     * [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다 - YouTube](https://www.youtube.com/watch?v=w7aKhWjtBXQ)
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
-  * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
-    * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
   * [Agent Skills](https://developers.openai.com/codex/skills/)
     * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
     * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
@@ -4648,6 +4671,8 @@ Artificial Intelligence
   * [AutoResearchClaw: Fully autonomous research pipeline — from idea to conference-ready paper](https://github.com/aiming-lab/AutoResearchClaw)
     * [2603.17187 AutoResearchClaw](https://arxiv.org/abs/2603.17187)
     * 23단계 8페이즈 파이프라인으로 논문 아이디어→문헌 조사→가설 생성→실험→작성→피어리뷰까지 자율 수행. 자가 치유 실험, 4단계 인용 검증
+  * [build-your-own-openclaw: 18-step progressive tutorial for building an AI agent system](https://github.com/czl9707/build-your-own-openclaw)
+    * 채팅→툴→스킬→웹 접근→이벤트 기반→WebSocket→자율 에이전트→멀티 에이전트→동시성→장기 메모리로 점진 확장. Python+TypeScript, LiteLLM 다중 프로바이더
   * [Claw3D — 3D Virtual Office for AI Agents](https://www.claw3d.ai/)
     * [Claw3D](https://github.com/iamlukethedev/Claw3D)
     * AI 에이전트를 아이소메트릭 3D 가상 오피스에서 시각화·관리. 코드 리뷰, 스탠드업, 태스크 관리를 실시간 협업. 오픈소스
