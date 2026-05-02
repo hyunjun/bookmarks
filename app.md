@@ -3444,6 +3444,8 @@ App
 * [OpenVPN을 이용해 사설망 접근하기](https://brunch.co.kr/@alden/69)
   * 회사에서 보안을 위해서 VPN을 구현하는 일은 흔하고 구현하는 방법은 다양한 접근이 존재
   * 쉽게 사용할 수 있는 OpenVPN을 AWS EC2에 설치해서 사설망(AWS 내부망)에 접근하는 환경 설정을 설명
+* [shadowsocks-windows: A C# port of shadowsocks](https://github.com/shadowsocks/shadowsocks-windows)
+  * 시스템 프록시 PAC/글로벌 모드, GeoSite·사용자 규칙 라우팅, HTTP 프록시 서버 자동 전환, UDP 릴레이, 플러그인·글로벌 핫키. .NET Framework 4.8+, GPLv3
 * Tailscale 개인 무료
   * [headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
