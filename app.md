@@ -2354,6 +2354,9 @@ App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
   * [iOS 오픈소스 뮤직앱 신스 원 : 클리앙](https://www.clien.net/service/board/useful/16359730)
+* [AutoFlip: An Open Source Framework for Intelligent Video Reframing](https://blog.research.google/2020/02/autoflip-open-source-framework-for.html)
+  * [AutoFlip - 구글의 비디오 스마트 자르기 툴 | GeekNews](https://news.hada.io/topic?id=1523)
+  * 가로(16:9, 4:3) 영상을 세로/정사각형 레이아웃으로 스마트 자르기. AI로 얼굴·주요 요소를 분석해 프레임 내 유지
 * [Avidemux - Main Page](https://avidemux.sourceforge.net/)
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [AVPress - an in-browser video compressor](https://avpress.zaps.dev/)
@@ -2390,6 +2393,9 @@ App
 * [Frigate NVR](https://frigate.video/)
   * [(EP.11) 남는 스마트폰으로 미니PC에 홈CCTV 만들기 (frigate 서버 구축방법) - YouTube](https://www.youtube.com/watch?v=pJ5dNEqv_vU)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
+* [hyperframes: Write HTML. Render video](https://github.com/heygen-com/hyperframes)
+  * [HyperFrames - HTML로 비디오를 만드는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=28961)
+  * React 대신 순수 HTML/CSS+data attribute로 영상 구성. AI 에이전트 친화적, 빌드 단계 불필요. GSAP/Lottie/Three.js 등 커스텀 런타임 통합 Frame Adapter 패턴. Apache 2.0
 * [Immich](https://immich.app/)
   * [Don't Let Apple & Google Harvest Your Photos, Use Immich to Self-Host Your Own Cloud! - YouTube](https://www.youtube.com/watch?v=URJiQb8PwWo)
   * [스마트폰 사진 용량 부족할 때, 미니PC를 사진 백업 서버로 활용하기 (N100 PC immich 서버 설치방법) - YouTube](https://www.youtube.com/watch?v=nQHn03HEZCo)
@@ -2437,9 +2443,11 @@ App
 * [reclip: Self-hosted video and audio downloader](https://github.com/averygan/reclip)
   * yt-dlp 기반 셀프호스팅 비디오/오디오 다운로더. 1000+ 사이트(YouTube/TikTok/Instagram/X) 지원, MP4/MP3, 깔끔한 웹 UI
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
+  * [Remotion - React로 영상을 만드는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=28958)
   * React로 programmatically하게 동영상 만들기
   * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
   * React의 장점을 영상 제작에 활용할 수 있는 것이 특징 (Reusable components, Powerful composition, Fast Refresh, Package ecosystem)
+  * AI 에이전트가 자연어로 영상 코드 자동 생성 기능 추가
 * [Remove Image Background](https://www.remove.bg)
 * [revideo: Create Videos with Code](https://github.com/redotvideo/revideo)
   * [Revideo – 코드로 동영상을 제작하는 오픈소스 프레임워크 | GeekNews](https://news.hada.io/topic?id=15313)
@@ -3427,6 +3435,9 @@ App
 # VPN
 * [“무료인데 속도까지 빠르다” 최고의 크롬 브라우저용 VPN 4선 - ITWorld Korea](https://www.itworld.co.kr/news/244898)
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
+* [ClashMac - Native Proxy Experience Built for macOS](https://clashmac.app/)
+  * [ClashMac](https://github.com/666OS/ClashMac)
+  * SwiftUI 네이티브 macOS 프록시 앱. 듀얼 모드(System Proxy + TUN Enhanced), 실시간 트래픽 시각화, 연결 토폴로지 추적, 구독 관리. macOS 13.5+ 지원
 * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
