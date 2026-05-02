@@ -1024,6 +1024,9 @@ Artificial Intelligence
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
+* [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation - Engineering at Meta](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)
+  * [Ranking Engineer Agent REA: The Autonomous AI Agent Accelerating Meta's Ads Ranking Innovation | Jason Kang](https://kr.linkedin.com/posts/byeongjinkang_ranking-engineer-agent-rea-the-autonomous-activity-7455734380838342656-fUur)
+  * Meta가 광고 랭킹 모델의 end-to-end ML 라이프사이클을 자율적으로 수행하는 REA 공개
 * [Rowboat - Your AI coworker, with memory](https://www.rowboatlabs.com/)
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
   * [Rowboat: 지식 그래프 기반 로컬 퍼스트 AI 코워커의 개념과 활용 방법](https://digitalbourgeois.tistory.com/2766)
@@ -2719,6 +2722,10 @@ Artificial Intelligence
   * AI 도입에도 구성원 반응이 시큰둥한 이유 분석. 조직 구성원과 AI의 시너지를 위해 4가지 주제(도입·사용경험·학습·문화)로 정리
 * [ByungJun Jang - 기업 AX가 본격적으로 시작됐다 | Facebook](https://www.facebook.com/byungjun.jang.1/posts/26613300094997113/)
   * OpenAI x 무신사 인플루언서 초청 행사 참관기. OpenAI 코리아 엔지니어와 무신사 CTO가 Codex 활용 사례 대담. 기업 "AI 대전환"이 본격화되고 있다는 현장 감상
+* [SeonYoung Im - 중국AI미래지도 배달앱이 엔비디아 없이 1조 파라미터 AI를 만들다 메이퇀 LongCat-2.0 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/4405686616372228/)
+  * 메이퇀(美团, Meituan)이 NVIDIA 없이 1조 파라미터 AI 모델 LongCat-2.0 개발. 반도체 완전 독립 선언. 딥시크조차 하지 못한 수준의 자립
+* [LLMRisks Archive - AI 에이전트 위험 10가지 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B1%B0%EB%82%98-%EA%B8%B0%ED%9A%8D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%B4-%EA%BC%AD-%EB%B3%B4%EC%8B%9C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9E%90%EB%A3%8C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%86%94%EC%A7%81%ED%9E%88-share-7455506165297377280-va6T)
+  * OWASP에서 정의한 LLM 기반 프로젝트의 10가지 위험요소. 한글 버전 포함, 개념과 사례 정리. AI 에이전트 개발·기획자를 위한 보안 가이드
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
