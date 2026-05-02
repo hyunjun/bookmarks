@@ -329,6 +329,8 @@ PyTorch
   * ["Decrappify" at Facebook F8 - New Approaches to Image and Video Reconstruction Using Deep Learning](https://www.youtube.com/watch?v=MdlT6IypKH8)
 * [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 * [Detectron2: A PyTorch-based modular object detection library](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
+  * [Welcome to detectron2's documentation!](https://detectron2.readthedocs.io/)
+  * [detectron2: Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms](https://github.com/facebookresearch/detectron2)
 * [**Detectron2 Tutorial**](https://colab.research.google.com/github/visionNoob/detectron2_aihub_tutorial/blob/master/Detectron2_Tutorial_(kor_ver).ipynb)
 * [dinov2: PyTorch code and models for the DINOv2 self-supervised learning method](https://github.com/facebookresearch/dinov2)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
