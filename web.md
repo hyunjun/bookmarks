@@ -858,6 +858,8 @@ Web
   * [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis](https://github.com/pss2138/django_ebay_scrapy)
   * [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
   * [Cloud Web Scraper | Scrapy Cloud | Zyte](https://www.zyte.com/scrapy-cloud/)
+  * [news-please: News crawler and information extractor built on Scrapy and Newspaper](https://github.com/fhamborg/news-please)
+    * 거의 모든 뉴스 사이트에서 구조화된 정보 자동 수집. CLI/라이브러리/commoncrawl.org 뉴스 아카이브 직접 접근 지원
   * [scrapyd: A service daemon to run Scrapy spiders](https://github.com/scrapy/scrapyd)
   * [scrapy-redis: Redis-based components for Scrapy](https://github.com/rmax/scrapy-redis)
 * Selenium
