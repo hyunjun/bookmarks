@@ -134,6 +134,8 @@ Sports
   * 모든 레벨이 같은 정의를 사용하고 어느 시기에 사용할지 통일, 즉 alignment를 한다는 게 인상적
 * [다저스는 본래 야마모토가 탐탁지 않았다 | 백종인](https://v.daum.net/v/WZ7SnDRfRk)
 * [일반인이 천재를 따라잡기 위해 만들어낸 방법 ‘타격 메커니즘’ - YouTube](https://www.youtube.com/watch?v=-g3YST7BNBg)
+* ["반복 훈련 답 아니다" 좋은 제구 위해 무조건 많이 던져라? 韓 야구계 편견 깨진다... 가변성 주목한 美 야구 아마야구가 말한다②](https://www.starnewskorea.com/sports/2026/04/07/2026040109430560696)
+  * 한국 야구계의 "제구를 위해 구속 포기, 일정한 투구폼과 반복 훈련" 통념 비판. 미국 야구계는 투구 동작의 가변성(variability)을 오히려 제구 향상의 요소로 주목하는 접근 소개
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
