@@ -20,6 +20,8 @@ Hardware
 * [ESP8266을 활용해 스마트워치 DIY 하는 법](https://smartaedi.tistory.com/351)
 * [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
 * [ROPPOR 소스 코드 군집 드론 소프트웨어 : 네이버 블로그](https://blog.naver.com/roppordrone/223334559944)
+* [esp-drone: Mini drone project based on Espressif ESP32 series Wi-Fi Soc](https://github.com/espressif/esp-drone)
+  * ESP32/ESP32-S2/ESP32-S3 기반 오픈소스 드론 펌웨어. Wi-Fi 모바일 앱/게임패드 제어, 안정화·고도 유지·위치 유지(확장 보드). Crazyflie 포팅, GPL 3.0
 * [아마존의 알렉사를 이용해서 음성인식하기](http://nemoroom.com/mobile/view.html?p_w0_idx=566&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [When hardware met Node-RED](https://github.com/kyungw00k/IBMDeveloperConnect-2017)
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
