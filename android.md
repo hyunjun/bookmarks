@@ -416,6 +416,9 @@ Android
   * [안드로이드 테스팅의 효자손 '앱피움' 파헤치기(2)](https://www.imaso.co.kr/news/article_view.php?article_idx=20150904170524)
   * [Spoqa 기술 블로그 | 테스트 자동화 구축 이야기](https://spoqa.github.io/2022/05/24/test-automation-story.html)
 * [Appshark is a static taint analysis platform to scan vulnerabilities in an Android app](https://github.com/bytedance/appshark)
+* [Awesome Android Root | Master Android Rooting in 2026](https://awesome-android-root.org/)
+  * [awesome-android-root: Master Android Rooting in 2026 - 470+ curated root apps, Magisk modules, KernelSU guides, LSPosed tweaks](https://github.com/awesome-android-root/awesome-android-root)
+  * 470+ 루트 앱·모듈 큐레이션. Magisk/KernelSU/APatch/LSPosed 가이드, 광고 차단·블로트 제거·UI 커스터마이징, Pixel/Samsung/Xiaomi/OnePlus 디바이스별 지침
 * [backboard - A motion-driven animation framework for Android](https://github.com/tumblr/Backboard)
 * BMBF
   * [Modernizing our Android build system: Part I, the planning](https://blogs.dropbox.com/tech/2019/10/modernizing-our-android-build-system-part-i-the-planning/)
