@@ -1145,6 +1145,8 @@ TensorFlow
 * [텐서플로우 기초 이해하기 20160623](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [TensorFlow 로 시작하는 기계 학습과 딥 러닝](https://www.codeonweb.com/course/@deep-learning-with-tensorflow-tutorials)
 * [텐서플로우 Basic](http://devstory.ibksplatform.com/2017/08/7-basic.html)
+* [How to Train Your First TensorFlow Model in PyCharm | JetBrains](https://blog.jetbrains.com/pycharm/2026/04/how-to-train-your-first-tensorflow-model/)
+  * PyCharm 노트북 통합으로 TensorFlow 모델 구축·학습. Fashion MNIST 로드, 두 가지 Keras 모델 구성, 혼동 행렬·신뢰도 바 시각화
 * [dsmoon.tistory.com/category/Deep Learning/TensorFlow](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
 * [TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
