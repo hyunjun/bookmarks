@@ -340,6 +340,7 @@ Finance
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
   * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
+  * [TradingAgents 사용법 — LLM 9명이 주식 분석·매매 결정하는 멀티에이전트 오픈소스](https://jkf87.github.io/tradingagents-multi-agent-trading-llm-2026-04-28)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
