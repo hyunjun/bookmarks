@@ -1055,6 +1055,7 @@ Artificial Intelligence
   * 장기 메모리, 다중 LLM 프로바이더, 토큰 관리, 자기학습, Telegram 통합을 갖춘 자율 운영 AI 에이전트 스웜. Linux 24/7 운영 설계
 * [TigrimOS — Self-hosted AI desktop with autonomous agent swarms](https://tigrimos.github.io/)
   * 데이터 주권 보장 셀프호스팅 AI 데스크톱. 7가지 에이전트 토폴로지(mesh/pipeline/star/P2P/broadcast/hierarchical/hybrid), 16개 빌트인 도구, OS 레벨 샌드박스(macOS Virtualization.framework/WSL2), 크로스머신 원격 에이전트. Ollama/llama.cpp/OpenAI/Claude 유연 통합. MIT
+  * [TigrimOSR is the Rust version of TigrimOS — a high-performance native desktop rewrite of the original Python/Node.js AI assistant. Built entirely in Rust using egui for the UI, TigrimOSR delivers faster startup, lower memory usage, and a single self-contained binary with no Node.js or Python runtime required to run the app itself. · GitHub](https://github.com/Sompote/TigrimOSR)
 * [TinyFish - The web wasn't built for agents. We're fixing that](https://www.tinyfish.ai/)
   * 엔터프라이즈급 웹 에이전트 자동화 플랫폼. 수백 사이트 병렬 운영, 인증/페이월 뒤 데이터 접근, 서버리스 아키텍처로 브라우저/프록시 관리 불필요
   * [tinyfish-cookbook: A collection of sample apps and recipes built with the TinyFish web agent](https://github.com/tinyfish-io/tinyfish-cookbook)
@@ -1171,6 +1172,8 @@ Artificial Intelligence
     * [oh-my-opencode: The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you](https://github.com/code-yeongyu/oh-my-opencode)
 * [AI Agent Harness, 3 Principles for Context Engineering, and the Bitter Lesson Revisited](https://hugobowne.substack.com/p/ai-agent-harness-3-principles-for)
   * Context Engineering 3원칙: reduce(불필요 컨텍스트 제거), offload(외부 저장소로 이관), isolate(서브에이전트로 격리). Bitter Lesson이 애플리케이션 레이어에도 적용
+* [Agent Harness vs Everything Else: The Real Difference - YouTube](https://www.youtube.com/watch?v=nWzXyjXCoCE)
+  * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agent-harness-difference-2)
 * [엔터프라이즈 LLM 서비스 구축기 1: 컨텍스트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-1-context-engineering)
   * [엔터프라이즈 LLM 서비스 구축기 2: 에이전트 엔지니어링 | LY Corporation Tech Blog](https://techblog.lycorp.co.jp/ko/building-an-llm-service-for-enterprise-2-agent-engineering)
   * 260개 도구+수백 페이지 문서 환경에서 LLM에 필요한 정보만 제공하는 점진적 컨텍스트 엔지니어링(Part 1) + 에이전트 엔지니어링(Part 2). LINE 클라우드 AI Platform 팀의 실전 구축기
@@ -1246,6 +1249,9 @@ Artificial Intelligence
 * [하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3733/)
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
 * [harness-eval](https://github.com/whchoi98/harness-eval)
+* [harness-lab · GitHub](https://github.com/jikime/harness-lab)
+  * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
+  * [하네스 엔지니어링 백과사전 - WikiDocs](https://wikidocs.net/book/19689)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -2045,6 +2051,7 @@ Artificial Intelligence
   * [Multi-Agent collaboration patterns with Strands Agents and Amazon Nova | Artificial Intelligence](https://aws.amazon.com/ko/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/)
     * [How to build multi-agent AI systems with Strands framework | Darryl R. posted on the topic | LinkedIn](https://www.linkedin.com/posts/darryl-ruggles_multi-agent-collaboration-patterns-with-strands-activity-7394125528540262401-7JZm)
 * [tradeoffs.md at S2020 · ckaestne/seai](https://github.com/ckaestne/seai/blob/S2020/lectures/07_tradeoffs/tradeoffs.md)
+* [undetectable-fingerprint-browser: Free open-source Multilogin/Incogniton/Kameleo alternative for fingerprint spoofing (Canvas/WebGL/User-Agent). Perfect for Selenium/Playwright/Puppeteer automation, web scraping, social media bots, ads verification, and multi-accounting based on chromium. Avoid bans, bypass anti-bot systems, and prevent tracking with customizable stealth browsing · GitHub](https://github.com/itbrowser-net/undetectable-fingerprint-browser)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
@@ -4184,6 +4191,9 @@ Artificial Intelligence
     * 레포 분석+인터뷰 기반 Claude Code 환경 자동 구성. CLAUDE.md·.claude/ 설정·훅·MCP 서버 생성. 스택 자동 감지, 5단계 프로세스 템플릿(Intent→Requirements→Research→Plan→Implement), 성숙도 감사·스코어링, `roboco install`로 팀 환경 일관성 보장
   * [secure-claude-code: Security hardening for Claude Code](https://github.com/efij/secure-claude-code)
     * [secure-claude-code | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijsecure-claude-code-security-activity-7442370116882927616-xKzP)
+  * [Skills for Real Engineers. Straight from my .claude directory. · GitHub](https://github.com/mattpocock/skills)
+    * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법](https://jkf87.github.io/mattpocock-skills-real-engineers-claude-2026-04-27)
+    * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-skills-22%EA%B0%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%A0%95%EB%A6%AC-mattpocock-share-7454848076172775426-OE2M)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
@@ -4259,6 +4269,7 @@ Artificial Intelligence
     * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
     * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
     * [awesome-codex-skills: A curated list of practical Codex skills for automating workflows](https://github.com/ComposioHQ/awesome-codex-skills)
+      * [Codex CLI에도 Skill이 생겼음 — ComposioHQ가 정리한 awesome 리스트 1,500스타](https://jkf87.github.io/awesome-codex-skills-composio-2026-04-26)
       * 개발·생산성·커뮤니케이션·데이터·유틸리티 5개 카테고리 41개 스킬. Composio 통해 1000+ 앱(Slack, GitHub, Notion 등) 연동. 자동 설치 스크립트, 커스텀 스킬 템플릿 제공
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
