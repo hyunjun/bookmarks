@@ -446,6 +446,8 @@ History
 * [(2) 류경완 - <로이터 기자 사직서> 지난 8년 동안 나는 로이터 통신에서 프리랜서 기자로 일해 왔다. 내가 대초원... | Facebook](https://www.facebook.com/ryukyung2010/posts/pfbid0fpmYX76EPauDeFWGqrQbeDxaFYMRdaEiQVpqrP2mNFuH8XpWcu8DkmJvJCNYmz3Hl)
 * [Jung Wook Park - 미국이 이스라엘을 돕는 이유 | Facebook](https://www.facebook.com/share/1CexXf4Sh4/)
   * 미국-이스라엘 협력 관계는 이념이나 유대인 로비가 아니라 첨단 기술 특허 다수를 보유한 이스라엘 벤처 강국의 핵심 기술이 미국 군사 기술로 차용되는 구조에 기반
+* [Hae-Young Lee - 전쟁만이 살 길이다_ 이스라엘의 미래 | Facebook](https://www.facebook.com/hae.young.lee.248977/posts/1006808395343914/)
+  * 이스라엘 Ynet 기고문을 인용하며 이번 전쟁의 전말을 분석. '이스라엘의 미국이냐', '미국의 이스라엘이냐'라는 서아시아 문제의 본질적 질문 탐구
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
