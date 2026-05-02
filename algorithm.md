@@ -100,6 +100,9 @@ Algorithm
 * [Shazam in Java](https://github.com/wsieroci/audiorecognizer)
 * [**abracadabra: How does Shazam work? - Cameron MacLeod**](https://www.cameronmacleod.com/blog/how-does-shazam-work)
   * [Shazam은 어떻게 동작하는가? | GeekNews](https://news.hada.io/topic?id=6047)
+* [How The Heck Does Shazam Work? An Interactive Exploration | Per Thirty Six](https://perthirtysix.com/how-the-heck-does-shazam-work)
+  * [Shazam은 어떻게 동작할까? - 대화형 탐구 | GeekNews](https://news.hada.io/topic?id=28811)
+  * FFT로 스펙트로그램 생성 → 큰 피크만 남겨 성운 지도(constellation map) 구성 → 근접 피크 쌍을 해시로 변환 → 역색인으로 빠른 매칭. 전체 오디오 매칭 대신 음향적 랜드마크만 식별하는 것이 핵심
 * [그렙, 알고리즘 학습 서비스 무료로 공개](http://www.bloter.net/archives/256397)
 * [Coder's high 2016](http://coders-high.com/)
 * [자료구조와 알고리즘 with C++](http://ehpub.co.kr/1-%EC%86%8C%EA%B0%9C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-with-c/)
