@@ -134,6 +134,8 @@ History
   * 10년 만에 방한한 데미스 하사비스 딥마인드 CEO의 바둑 행사 참석기. 대통령부터 4대 그룹 총수까지 만난 방한 일정에서 바둑과 한국 사회를 바라보는 작가의 불편한 시선
 * [Taejun Eom - 한국의 메시아: 김일성과 북한 우상숭배의 기독교적 뿌리 | Facebook](https://www.facebook.com/taejun.eom.399/posts/28054610427461036/)
   * WSJ 중국지부장 조나단 쳉의 신간 소개. 김일성 개인숭배·북한 우상숭배의 기독교적 뿌리 분석. 반공 성향 개신교가 이 기사를 조용히 숨기는 정황에 대한 코멘트
+* [Hyung Keun Cho - 무안공항 참사, 감사 보고서로 본 구조적 문제 | Facebook](https://www.facebook.com/hyungkeun.cho.12/posts/pfbid025xKu4KHzFvZfiCjBar6djgjem5zAamaGNdnN1UD2ZvmjB7dxQoGNuaxZaiYWe2aPl)
+  * 무안공항 로컬라이저 기초가 ICAO 기준 위반. 규정상 7.6cm 이하·파괴 가능 자재여야 하나 1.73-2.46m 콘크리트 둔덕. 지방공항 예산 절감으로 경사면 안전구역 조성, 8개 공항 14개 로컬라이저가 기준 미달인 채 연례 검사 통과. 한국 감독관 14대 담당(미·프 2대 대비)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
@@ -374,6 +376,8 @@ History
 
 ## Afghanistan
 * [홀로그램으로 되살린 거대 불상](http://techholic.co.kr/archives/35411)
+* [Jake Deschain - 소련의 아프간 침공과 빈 라덴의 전략적 계산 | Facebook](https://www.facebook.com/unattached/posts/pfbid02PhJeiKgj35fUSn8dgzAKQbXJrNkKTwMW8Ax7B8ckocaHxcAE1uhBxFdyasGeZRfVl)
+  * 1979년 소련의 아프간 침공 분석. 빈 라덴이 게릴라 전술·급조 폭발물로 초강대국 격파 학습. 미국 아프간·이라크 20년 개입이 미국 경제력 약화·중국 부상 초래한 역사적 아이러니
 
 ## Burma
 * [1988.8.8의 비극: 버마의 8888항쟁](http://ppss.kr/archives/55569)
