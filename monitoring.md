@@ -65,6 +65,9 @@ Monitoring
   * [AI 애플리케이션의 관측 가능성: LLM 모니터링 및 최적화를 위한 오픈 소스 스택 구축](https://livewiki.com/ko/content/observability-ai-applications)
 * ['관찰가능성 표준' 지금 안 세우면, AI 기술 부채가 몰려온다 | ITWorld](https://www.itworld.co.kr/article/4152940/)
   * AI 에이전트 프로덕션 배포를 위한 관찰가능성 구현, 모니터링, 에이전틱옵스 관행 필수 요구사항
+* [Building a fault-tolerant metrics storage system at Airbnb | by Rishabh Kumar | The Airbnb Tech Blog | Apr, 2026 | Medium](https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017)
+  * [Building a fault-tolerant metrics storage system at Airbnb | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_building-a-fault-tolerant-metrics-storage-share-7452677802321117184-JOGF)
+  * Airbnb의 장애 내성 메트릭 저장 시스템 구축 사례 공유
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
