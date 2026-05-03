@@ -1099,6 +1099,9 @@ App
   * [Introducing Zed AI](https://zed.dev/blog/zed-ai)
     * [Zed AI 공개 (with Anthropic) | GeekNews](https://news.hada.io/topic?id=16398)
   * [Zed 에디터, SSH Remote 기능 지원 | GeekNews](https://news.hada.io/topic?id=17529)
+  * [Introducing Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
+    * [Zed 병렬 에이전트 기능으로 달라지는 AI 기반 개발 워크플로우 정리](https://digitalbourgeois.tistory.com/3034)
+    * 단일 에디터 창에서 여러 AI 에이전트 동시 실행. Threads Sidebar로 병렬 에이전트 스레드 관리, 레포별 접근 제어·진행 모니터링. Cmd+Option+J(Mac) / Ctrl+Option+J(Linux/Windows) 단축키
 
 # Etc
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
