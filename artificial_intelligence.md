@@ -1261,6 +1261,8 @@ Artificial Intelligence
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
 * [Toby Lee - 클로드 코드는 스스로 하네스 확장 포인트를 제공한다 | Facebook](https://www.facebook.com/tobyilee/posts/10236007503342478/)
   * Claude Code가 스킬·에이전트·훅·플러그인으로 하네스 확장. 유저 레벨 `.claude` 폴더로 직접 확장하는 방법의 한계 논의
+* [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
+  * 하네스 엔지니어링은 gitignore와 유사한 역할. 무엇을 저장하지 말아야 할지 지정하는 규칙이 없으면 쓸모없는 파일이 쌓여 제대로 사용 불가
 * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
@@ -1385,10 +1387,10 @@ Artificial Intelligence
 * [acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
   * [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
   * [After MCP, A2A, & AG-UI, we've a new protocol: (open-sourced by IBM research) AI agents working in silos are slowing down innovation! ACP (Agent Communication Protocol) breaks down these barriers,… | Akshay Pachaar | 댓글 30](https://www.linkedin.com/posts/akshay-pachaar_after-mcp-a2a-ag-ui-weve-a-new-protocol-activity-7365374949672280064-uXrZ)
+* [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [ag2: AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ](https://github.com/ag2ai/ag2)
   * [AgentOS](https://ag2.ai/)
   * [Chi Wang + Tim Santos - Building Vertical Agent with AG2 AgentOS | PyData London 25 - YouTube](https://www.youtube.com/watch?v=iVDNflrBBH4)
-* [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control](https://github.com/google/adk-python)
   * [Agent Development Kit](https://google.github.io/adk-docs/)
   * [Google ADKAgent Development Kit - YouTube](https://www.youtube.com/watch?v=RmHXSALwFMY)
@@ -1431,6 +1433,8 @@ Artificial Intelligence
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
+* [AI-Research-SKILLs: Comprehensive open-source library of AI research and engineering skills](https://github.com/Orchestra-Research/AI-research-SKILLs)
+  * Orchestra Research의 AI 연구·엔지니어링 스킬 종합 라이브러리. Claude Code/Codex/Gemini 에이전트에 패키징하면 AI 연구 에이전트로 풀 기능 동작
 * [AIRI](https://airi.moeru.ai/)
   * [airi: 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.](https://github.com/moeru-ai/airi)
   * [AI버튜버 오픈소스 프레임워크, Airi를 소.. : 네이버블로그](https://blog.naver.com/fstory97/223981855111)
@@ -2924,6 +2928,9 @@ Artificial Intelligence
 * [PentAGI — Penetration Testing AGI](https://pentagi.com/)
   * [pentagi](https://github.com/vxcontrol/pentagi)
   * 자율 AI 기반 자동 침투 테스트. Docker 샌드박스, 20+ 보안 도구, Neo4j 지식 그래프, 벡터 DB 장기 메모리. 10+ LLM 프로바이더 지원
+* [pentest-ai · find it. chain it. prove it.](https://pentestai.xyz/)
+  * [pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
+  * 자율 침투 테스트 CLI. 3단계(서브도메인·지문→12개 전문 에이전트 취약점 탐지→발견 체이닝) 자동화. 웹앱·API·클라우드 커버, ~191개 보안 도구, SARIF/PDF/JUnit 리포트, CI/CD 통합. 무료 오픈소스+유료 티어
 * [RAPTOR: Autonomous Offensive/Defensive Security Research Framework](https://github.com/gadievron/raptor)
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
 * [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
