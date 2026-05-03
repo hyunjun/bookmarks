@@ -4358,6 +4358,8 @@ Artificial Intelligence
   * [Skills for Real Engineers. Straight from my .claude directory. · GitHub](https://github.com/mattpocock/skills)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법](https://jkf87.github.io/mattpocock-skills-real-engineers-claude-2026-04-27)
     * [Claude Code Skills 22개 한국어 정리 — mattpocock .claude 폴더 공개, TDD·PRD·grill-me 설치·활용법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_claude-code-skills-22%EA%B0%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%A0%95%EB%A6%AC-mattpocock-share-7454848076172775426-OE2M)
+    * [Matt Pocock 41만뷰 발표 — AI 코드 망치는 6가지와 해결법 - YouTube](https://www.youtube.com/watch?v=FOee3zb98wI)
+      * [맷 포콕 41만뷰 발표: AI 코드 망치는 6가지와 해결법 | AgentOS](https://livewiki.com/ko/content/matt-pocock-ai-code-six-fixes)
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
