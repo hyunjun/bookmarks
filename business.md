@@ -1432,6 +1432,9 @@ Business
 * [인포그랩 DevOps 엔지니어는 어떻게 온보딩할까 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/23/infograb-devops-engineer/)
 * [How To Onboard - by Ryan Peterman - The Developing Dev](https://www.developing.dev/p/how-to-onboard)
 * [온보딩 후, 팀원들이 떠나버렸다](https://eopla.net/magazines/16349)
+* [입사 10일, AI로 인프라팀 온보딩을 다시 설계한 이야기. 이번 포스팅에서는 아임웹 인프라팀에 입사 후 10일간 AI를 활용해… | by Lee Hosu | imweb tech : 아임웹 기술블로그 | Apr, 2026 | Medium](https://medium.com/imweb-tech/%EC%9E%85%EC%82%AC-10%EC%9D%BC-ai%EB%A1%9C-%EC%9D%B8%ED%94%84%EB%9D%BC%ED%8C%80-%EC%98%A8%EB%B3%B4%EB%94%A9%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-a22bcfd60b04)
+  * [입사 10일, AI로 인프라팀 온보딩을 다시 설계한 이야기 | 김용현](https://www.linkedin.com/posts/%EA%B9%80%EC%9A%A9%ED%98%84-hulkong_%EC%9E%85%EC%82%AC-10%EC%9D%BC-ai%EB%A1%9C-%EC%9D%B8%ED%94%84%EB%9D%BC%ED%8C%80-%EC%98%A8%EB%B3%B4%EB%94%A9%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-share-7452689972480000000-mXB7)
+  * 입사 1일차 신입이 만난 인프라팀 온보딩의 비효율을 AI로 10일 만에 재설계한 경험기
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
