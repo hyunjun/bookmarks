@@ -89,6 +89,10 @@ Presentation
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [canva.com](https://www.canva.com)
 * [digital-human](https://github.com/hunkim/digital-human)
+* [future-slide | Reusable slide-generation AI skill](https://future-slide.tonylee.im/)
+  * [future-slide-skill: Reusable slide-generation skill for image-based and HTML-based AI workflows](https://github.com/bytonylee/future-slide-skill)
+  * [Codex에서 gpt-image-2로 보고서를 슬라이드 이미지로 바꾸는 4단계 스킬 | AGI KR Facebook Group](https://www.facebook.com/groups/agikr/posts/2941549546186084/)
+    * Codex에서 gpt-image-2 무료 사용. 레퍼런스 분석→스토리라인→프롬프트 생성→이미지 렌더링 4단계. page_1.png부터 순차 저장, 텍스트 렌더링 우수
 * [Gamma App](https://gamma.app/)
   * [드디어 출시!! 여러분도 직접 해보세요..ㄷㄷㄷ 3분만에 만드는 PPT "직장인 반복노동의 종말" - YouTube](https://www.youtube.com/watch?v=SXRWHHKLqBM)
 * [gratisography.com](https://gratisography.com/) free photo
