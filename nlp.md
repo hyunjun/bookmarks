@@ -2936,6 +2936,8 @@ NLP
     * [🐳 DeepSeek V3-0324 공개! 오픈소스 LLM의 새로운 강자 등장](https://fornewchallenge.tistory.com/entry/%F0%9F%90%B3-DeepSeek-V3-0324-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-LLM%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%95%EC%9E%90-%EB%93%B1%EC%9E%A5)
   * [DeepSeek V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
     * [DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)
+    * [DeepSeek-V4 아키텍처 혁신: Sparse Attention과 1.6T 모델 이해 | digitalbourgeois](https://digitalbourgeois.tistory.com/3050)
+      * V3 600B→V4 1.6T로 확장하면서 연산 비용 급감. 사전학습에 통합된 Sparse Attention(슬라이딩 윈도우+압축 토큰+인덱스 어텐션), MLA→MQA 대체, 알고리즘-하드웨어 레벨 인프라 최적화. 27% 토큰 연산·10% KV 캐시 메모리
   * [DeepSeek-V4-Pro: Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
     * [DeepSeek-V4 공개 | GeekNews](https://news.hada.io/topic?id=28845)
     * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
@@ -4901,6 +4903,9 @@ NLP
   * [AI 답변 성능의 핵심: 그래프 RAG와 온톨로지, 팔란티어 사례 분석 (Sionic AI ML 엔지니어 정세민, 박진형)](https://livewiki.com/ko/content/graphrag-ontology-palantir-ai)
 * [RDF 온톨로지와 벡터 검색을 활용한 동적 멀티에이전트 워크플로우 발견 시스템](https://aifactory.space/task/9251/overview)
   * [RDF 온톨로지와 벡터 검색을 활용한 동적 멀티에이전트 워크플로우 발견 시스템 - YouTube](https://www.youtube.com/watch?v=eOtAZ0xl0wM)
+* [AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표) - YouTube](https://www.youtube.com/watch?v=qqnRzpLNfxY)
+  * [AI 에이전트 성능 비교: 엑셀 vs 온톨로지](https://livewiki.com/ko/content/ai-agent-excel-ontology)
+  * 같은 AI 에이전트라도 엑셀로 일 시키면 40점, 온톨로지로 시키면 90점. 데이터 형태에 따라 에이전트 이해 수준 변화. X/Y축 기반 DB vs 의미 기반 온톨로지의 성능 격차
 * [251227_AI인터시스브랜드(온톨로지논문)](https://aibread.notion.site/251227_AI-2d58d9a8b46080089449e1fc48b42fff)
 * [Disease Ontology](http://www.disease-ontology.org/)
 * [distil-text2sql: Query your data in plain English with a fine-tuned Text2SQL model](https://github.com/distil-labs/distil-text2sql)
