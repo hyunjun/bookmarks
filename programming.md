@@ -5701,6 +5701,9 @@ Programming
 * [Too Much of a Good Thing: (In-)Security of Mandatory Security Software for Financial Services in South Korea | USENIX Security](https://www.usenix.org/conference/usenixsecurity25/presentation/yun)
   * [구라제거기, 세계 최고 권위 보안 논문(USENIX Security)에 등장](https://teus.me/ittalk/hoaxeliminator_in_paper/)
   * 한국 금융권 필수 보안 소프트웨어의 보안 취약점 분석 논문
+* [Credit Cards Are Vulnerable To Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+  * [신용카드는 브루트포스 유형 공격에 취약함 | GeekNews](https://news.hada.io/topic?id=29085)
+  * PCI DSS가 카드 데이터 저장·표시를 제한하지만, BIN·마지막 4자리·만료일 같은 허용 정보만으로도 다른 가맹점에서 추가 결제 시도 가능. 3D Secure 페이지로 은행명·마스킹된 카드번호·만료일 획득, 6시간 뒤 여러 가맹점 인증 시도
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
