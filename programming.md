@@ -5827,6 +5827,7 @@ Programming
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
 * scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
+* [security-framework: NIST·OWASP 보안 프레임워크 한국어 레퍼런스 — CSF 2.0, SP 800-53, RMF, Top 10, ASVS, WSTG 등](https://github.com/zer0-kr/security-framework)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
 * [shannon: Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark](https://github.com/KeygraphHQ/shannon/)
   * [Keygraph: Identity, Device Management & Compliance Platform](https://keygraph.io/)
