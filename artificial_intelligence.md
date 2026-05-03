@@ -163,6 +163,7 @@ Artificial Intelligence
 * [인공지능 서비스를 지탱하는 기술(AIOps) : 인공지능 서비스를 실현하는 기술 | YES24 채널예스](https://ch.yes24.com/Article/View/50910)
 * [바이브 코딩뿐만 아니라 바이브 운영.. AIOps 데모 - YouTube](https://www.youtube.com/watch?v=swXW7LMvwAI)
 * [바이브 코딩 다음은 AIOps](https://bcho.tistory.com/1476)
+* [Agentic AI for AIOps — Team Insights | McKinsey](https://reports-456604217149.s3.us-east-1.amazonaws.com/mckinsey-agentic-aiops-team-insights/index.html)
 * [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
 * [인터뷰 김광섭 카카오브레인 CTO AI로 '불쾌한 골짜기' 건넌다 | 아주경제](https://www.ajunews.com/view/20220214145910701)
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
@@ -2555,6 +2556,7 @@ Artificial Intelligence
 * [AI in the workplace: A report for 2025 | McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work)
   * [Superagency in the workplace: Empowering people to unlock AI’s full potential | Minjung Kim](https://www.linkedin.com/posts/minjung-kim-982762229_superagency-in-the-workplace-empowering-activity-7384852193352294400-VLDu)
     * 이 변화의 흐름에 가장 큰 장벽은 바로 '리더' 자신
+* [Building the foundations for agentic AI at scale | McKinsey](https://www.mckinsey.com/~/media/mckinsey/business%20functions/technology/our%20insights/building%20the%20foundations%20for%20agentic%20ai%20at%20scale/building-the-foundations-for-agentic-ai-at-scale_vf.pdf)
 * [AI 버블과 작별인사하고, 다가오는 붕괴에 대비하세요 | GeekNews](https://news.hada.io/topic?id=22667)
 * [There's a Stunning Financial Problem With AI Data Centers](https://futurism.com/data-centers-financial-bubble)
   * [Wontae Lee - 현재 AI 데이터센터의 심각한 경제적 문제점을 다루는 기사. 즉 핵심 문제점은 경제적... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid05xCAU8qg2LoTRLcE62Zzvr39gmjsSoMTfssxv4FmzrNcfuNfs36AuKcxch3Tg12al)
@@ -4880,6 +4882,8 @@ Artificial Intelligence
     * OpenClaw 상용 버전. 50+ 도구, 7+ 메신저 연결, Gmail·Calendar·Slack·Discord 통합 관리형 AI 에이전트 서비스
   * [CrewClaw — Your AI Employee Starts in 60 Seconds](https://www.crewclaw.com/)
     * 사전 구축된 AI 직원(메트릭 분석가, SEO 전문가, DevOps 엔지니어 등) 60초 배포. Telegram/Slack/Discord/WhatsApp, Stripe/GA4 통합. $9부터
+  * [DesktopClaw: DesktopClaw is a state-aware desktop pet interface for your OpenClaw instance. It brings your AI to life as a reactive companion you can interact with via voice or text, while providing real-time session visibility, task feedback, and quick action triggers through a persistent, animated desktop presence](https://github.com/divbasson/DesktopClaw)
+    * [DesktopClaw — Openclaw 오토메이션 시스템과 대화하는 데스크탑 펫 | OpenClaw Community](https://www.facebook.com/groups/1577315533418837/posts/1650306952786361/)
   * [EasyClaw](https://easyclaw.com/)
     * [EasyClaw 한국어](https://easyclaw.kr/)
   * [edgeclaw: Edge-Cloud Collaborative AI Agent](https://github.com/openbmb/edgeclaw)
