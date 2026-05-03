@@ -244,6 +244,9 @@ Graph
 * [Create Context Graph — CLI scaffolding for AI agent apps with Neo4j](https://create-context-graph.dev/)
   * [create-context-graph](https://github.com/neo4j-labs/create-context-graph)
   * FastAPI+Next.js+Neo4j로 도메인별 AI 에이전트 앱 5분 생성. 대화·지식 그래프·결정 추적 3가지 메모리
+* [dreamgraph: Graph-first cognitive daemon for AI-assisted development](https://github.com/mmethodz/dreamgraph)
+  * [OpenClaw Community 공유 | Facebook](https://www.facebook.com/groups/1577315533418837/posts/1652255312591525/)
+  * 지속 지식 그래프로 프로젝트 구조적 기억(기능·워크플로·데이터 모델·아키텍처 결정) 유지. MCP 지원, VS Code 확장, 2D/3D 그래프 탐색기. 로컬 LLM(Ollama/LM Studio)·OpenAI·Claude 지원. TypeScript/Node.js, 멀티 레포 스키마 자동 감지
 * [EdgeQuake — Rust-based high-performance Graph-RAG framework](https://edgequake.com/)
   * [edgequake](https://github.com/raphaelmansuy/edgequake)
   * [EdgeQuake: Rust 기반 고성능 Graph-RAG 프레임워크 정리](https://digitalbourgeois.tistory.com/2821)
