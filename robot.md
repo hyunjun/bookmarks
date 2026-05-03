@@ -71,6 +71,8 @@ Robot
 * [Aero Hand Open: low-cost, open-source, lightweight, anthropomorphic dexterous hand](https://tetheria.github.io/aero-hand-open/)
   * [aero-hand-open](https://github.com/TetherIA/aero-hand-open)
   * $314/400g 미만의 오픈소스 로봇 손. 16관절 7모터 텐던 구동, 완벽한 백드라이브, 위치/토크/텐던력 센싱. 아이폰 집기~18kg 물통 들기까지 가능, 100만 사이클 신뢰성 검증
+* [autoware: Autoware - the world's leading open-source software project for autonomous driving](https://github.com/autowarefoundation/autoware)
+  * 자율주행 오픈소스 소프트웨어 프로젝트
 * [dimos: Agentic operating system for physical space — program humanoids, quadrupeds, drones with natural language](https://github.com/dimensionalOS/dimos)
   * ROS 불필요. 자연어+Python으로 로봇 프로그래밍, SLAM 네비게이션, 다중 에이전트, MCP 인터페이스
 * [FarmBot | Open-Source CNC Farming](https://farm.bot/)
