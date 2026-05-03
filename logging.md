@@ -76,6 +76,9 @@ Logging
     * 대부분의 로깅 시스템은 고카디널리티 데이터를 비용 문제로 제한하지만, 실제로는 그것이 디버깅에 가장 유용
   * log간 관계에 대한 이야기를 보다 보니
     * 과거 c programming을 하던 시절 모든 function call에 caller - callee 관계 기록을 위한 arg를 추가했던 기억이 남
+* [Why log file analysis matters for AI crawlers and search visibility | Search Engine Land](https://searchengineland.com/log-file-analysis-ai-crawlers-search-visibility-474428)
+  * [AI 크롤러 시대, 로그 파일 분석으로 검색 가시성의 사각지대를 읽는 법 | GeekNews](https://news.hada.io/topic?id=28847)
+  * GPTBot/ClaudeBot(학습) vs ChatGPT-User/PerplexityBot(검색) 구분. 로그 파일로 AI 크롤러 접근·탐색 깊이·차단 지점 분석. Screaming Frog Log File Analyzer 추천, S3·Cloudflare R2에 장기 보관 권장
 
 # Fluent bit
 * [fluentbit](https://fluentbit.io/)
