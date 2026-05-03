@@ -240,6 +240,8 @@ Product
   * [키크론 Q11 QMK 리뷰 | 절반으로 잘라 쓰는 ‘인체공학 기계식’ 키보드 - ITWorld Korea](https://www.itworld.co.kr/topnews/295237)
   * [내 몸을 위한 앨리스배열 인체공학 키보드 K15 PRO 언박싱❤😮│어고노믹 기계식 키보드 언박싱│데스크테리어│키크론 Keychron - YouTube](https://www.youtube.com/watch?v=v_1Y-nETDpg)
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
+* [The Listening Museum · sheets.works](https://sheets.works/data-viz/keyboard-sounds)
+  * [기계식 키보드 소리를 들어보는 박물관 | GeekNews](https://news.hada.io/topic?id=28723)
 * Logitech MX mechanical [사무용 무선 기계식 키보드 (2) - YouTube](https://www.youtube.com/watch?v=h4IhV6xOgNc)
 * [Matias ergo pro](http://matias.ca/ergopro/pc/)
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
