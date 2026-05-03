@@ -2081,6 +2081,9 @@ Docker
 * [icarus: Cloud를 손에 잡으려다 추락한 자들](https://infoteam-rulrudino.notion.site/icarus-Cloud-1d8365ea27df80adb4d7efbb0910d7cb)
 * [Kubernetes v1.33: Octarine | Kubernetes](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
   * [Kubernetes v1.33 - Octarine](https://zerotay-blog.vercel.app/4.RESOURCE/KNOWLEDGE/Kubernetes/etc/%EB%B2%84%EC%A0%84/Kubernetes%20v1.33%20-%20Octarine/)
+* [Kubernetes v1.36 "ハル (Haru)" 릴리스 | Kubernetes](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
+  * [Kubernetes v1.36 요약 | Hoon Jo](https://www.linkedin.com/posts/hoonjo_1%EC%A4%84-%EC%9A%94%EC%95%BD-k8s-v136-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD%EC%97%90-%EC%9E%88%EB%8A%94-%EA%B2%83ipvs-%EC%A0%9C%EC%99%B8%ED%95%98%EB%A9%B4-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-share-7452859798015889408-NToL)
+  * 2026년 첫 메이저 릴리스. 코드명 ハル(Haru, 봄). IPVS 주의 외 안정적 업그레이드, OCI·보안 강화
 * [How Kubernetes Runs Containers : A Practical Deep Dive](https://blog.esc.sh/kubernetes-containers-linux-processes/)
 * [쿠버네티스 StatefulSet 환경에서 Redis RDB 손상 긴급 대응하기 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25BF%25A0%25EB%25B2%2584%25EB%2584%25A4%25ED%258B%25B0%25EC%258A%25A4-statefulset-%25ED%2599%2598%25EA%25B2%25BD%25EC%2597%2590%25EC%2584%259C-redis-rdb-%25EC%2586%2590%25EC%2583%2581-%25EA%25B8%25B4%25EA%25B8%2589-%25EB%258C%2580%25EC%259D%2591-jin-hyung-park-vbcgf/)
 * [한 달이 지나서 쓰는 Kubestronaut 후기](https://xfrnk2.tistory.com/16)
