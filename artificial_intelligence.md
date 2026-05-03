@@ -3512,6 +3512,9 @@ Artificial Intelligence
 * [Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson - YouTube](https://www.youtube.com/watch?v=c1K3H0z7vbw)
   * [Chris Richardson과 함께하는 마이크로서비스 및 LLM을 통한 소프트웨어 발전 논의](https://livewiki.com/ko/content/software-microservices-llms-evolution)
 * [Claude Code 29개 vs Codex 7개, 설계 철학이 정반대였습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_claude-code-29%EA%B0%9C-vs-codex-7%EA%B0%9C-%EC%84%A4%EA%B3%84-%EC%B2%A0%ED%95%99%EC%9D%B4-%EC%A0%95%EB%B0%98%EB%8C%80%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A7%A4%EC%A3%BC-%EC%8F%9F%EC%95%84%EC%A7%80%EB%8A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC-share-7435825294554484736)
+* [Claude Code (~100시간) vs. Codex (~20시간) | Reddit](https://www.reddit.com/r/ClaudeCode/comments/1sk7e2k/claude_code_100_hours_vs_codex_20_hours/)
+  * [Claude Code vs. Codex 비교 | GeekNews](https://news.hada.io/topic?id=28538)
+  * 14년차 엔지니어의 80K 라인 Python/TS 프로젝트 비교. Claude Code(Opus 4.6)는 빠른 프로토타이핑 우수하나 지시 무시·작업 불완전. Codex(GPT-5.4)는 3-4배 느리지만 체계적·자가 교정·가이드라인 엄수. Claude는 초안, Codex는 리뷰 전략 인기
 * [Claude Code와 Copilot 병용 전략](https://blog.naver.com/drvoss/224232231703)
   * [Claude Code x Copilot 시너지 내기 2 - 저장소 셋업 가이드](https://blog.naver.com/drvoss/224232704315)
   * AGENTS.md(팀 공용 규칙), CLAUDE.md(@import로 연결점), copilot-instructions.md(짧은 전역 지침), SKILL.md(반복 작업 표준화) 4개 파일 구조와 샘플 세트 제공. Claude Code는 긴 구현, Copilot CLI는 계획/리뷰, Codex CLI는 파일 생성/자동화로 역할 분담
