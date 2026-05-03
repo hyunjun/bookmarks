@@ -2850,21 +2850,9 @@ App
 * [Microsoft 365 Copilot 공개 - AI 기반 오피스 도우미 | GeekNews](https://news.hada.io/topic?id=8717)
 * [.new Shortcuts | A Domain Exclusively for Shortcuts | Google Registry](https://whats.new/shortcuts/)
   * [엑셀, 워드, PPT... 설치 없이 무료로 쓰는 방법⚡#shorts | JinKwon Jeon](https://www.linkedin.com/posts/jeonjk_%EC%97%91%EC%85%80-%EC%9B%8C%EB%93%9C-ppt-%EC%84%A4%EC%B9%98-%EC%97%86%EC%9D%B4-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95shorts-activity-7419384190468612096-RWgJ)
-* [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
-* HWP
-  * [HOP (HOP is Open HWP) — 오픈소스 HWP/HWPX 뷰어·에디터](https://golbin.github.io/hop)
-    * [백건우 - 오픈소스 아래한글 데스크톱 버전 | Facebook](https://www.facebook.com/marupress/posts/pfbid02Cg6SEzTvjTMQwVLMQTyPFR1myMYcYzV19qrZjSr5m17ntjKk9BLCCqrw2acvHiXTl)
-    * rhwp 엔진 기반 크로스플랫폼(macOS/Windows/Linux) HWP/HWPX 편집기. Homebrew 설치, macOS 서명/공증. 무료, 한컴 로열티 없음
-  * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
-  * [polaris_dvc: Pure Rust HWPX document validation toolchain](https://github.com/PolarisOffice/polaris_dvc)
-    * [polaris_dvc docs](https://polarisoffice.github.io/polaris_dvc)
-    * Rust 기반 HWPX 문서 4축 검증: 규칙 준수(JID 1000-7999), 구조적 무결성, 컨테이너 건전성, KS X 6101 스키마 적합성. macOS/Linux/Windows/WASM 크로스플랫폼
-  * [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
-    * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
-    * [mcp-pypandoc-hwpx: MCP server for converting docx/html/md to hwpx](https://github.com/aliencube/mcp-pypandoc-hwpx)
-      * MCP 프로토콜로 문서 변환 워크플로우 연동. 로컬/컨테이너/원격 배포 지원
-  * [rhwp: Open-source HWP/HWPX viewer and editor built with Rust and WebAssembly](https://github.com/edwardkim/rhwp)
-    * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
+* [DocuSeal | Open Source Document Signing](https://www.docuseal.com/)
+  * [docuseal: Open source DocuSign alternative. Create, fill, and sign digital documents](https://github.com/docusealco/docuseal)
+  * 오픈소스 DocuSign 대체. PDF/DOCX/XLSX/JPEG/PNG/ZIP 업로드 후 서명. 100MB 제한 외 파일 개수 무제한, 개인 무료, 기업·개발자용 API 제공
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
@@ -2881,6 +2869,21 @@ App
   * [엑셀에서 주어진 생년월일로부터 만나이 구하기 · Wireframe](https://soooprmx.com/%ec%97%91%ec%85%80%ec%97%90%ec%84%9c-%ec%a3%bc%ec%96%b4%ec%a7%84-%ec%83%9d%eb%85%84%ec%9b%94%ec%9d%bc%eb%a1%9c%eb%b6%80%ed%84%b0-%eb%a7%8c%eb%82%98%ec%9d%b4-%ea%b5%ac%ed%95%98%ea%b8%b0/)
   * [마이크로소프트의 새로운 혁신, ‘파이썬 인 엑셀(Python in Excel)’ 공개!](https://stock79.tistory.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-%E2%80%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9D%B8-%EC%97%91%EC%85%80Python-in-Excel%E2%80%99-%EA%B3%B5%EA%B0%9C)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+* [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
+* HWP
+  * [HOP (HOP is Open HWP) — 오픈소스 HWP/HWPX 뷰어·에디터](https://golbin.github.io/hop)
+    * [백건우 - 오픈소스 아래한글 데스크톱 버전 | Facebook](https://www.facebook.com/marupress/posts/pfbid02Cg6SEzTvjTMQwVLMQTyPFR1myMYcYzV19qrZjSr5m17ntjKk9BLCCqrw2acvHiXTl)
+    * rhwp 엔진 기반 크로스플랫폼(macOS/Windows/Linux) HWP/HWPX 편집기. Homebrew 설치, macOS 서명/공증. 무료, 한컴 로열티 없음
+  * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
+  * [polaris_dvc: Pure Rust HWPX document validation toolchain](https://github.com/PolarisOffice/polaris_dvc)
+    * [polaris_dvc docs](https://polarisoffice.github.io/polaris_dvc)
+    * Rust 기반 HWPX 문서 4축 검증: 규칙 준수(JID 1000-7999), 구조적 무결성, 컨테이너 건전성, KS X 6101 스키마 적합성. macOS/Linux/Windows/WASM 크로스플랫폼
+  * [pypandoc-hwpx: Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환합니다.](https://github.com/msjang/pypandoc-hwpx)
+    * [Pandoc 기반 아래아한글 변환기 - md, html, docx를 hwpx로 변환하는 오 | GeekNews](https://news.hada.io/topic?id=25186)
+    * [mcp-pypandoc-hwpx: MCP server for converting docx/html/md to hwpx](https://github.com/aliencube/mcp-pypandoc-hwpx)
+      * MCP 프로토콜로 문서 변환 워크플로우 연동. 로컬/컨테이너/원격 배포 지원
+  * [rhwp: Open-source HWP/HWPX viewer and editor built with Rust and WebAssembly](https://github.com/edwardkim/rhwp)
+    * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
