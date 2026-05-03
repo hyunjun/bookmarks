@@ -2906,6 +2906,8 @@ Artificial Intelligence
 * [Claude Mythos Preview의 사이버보안 능력 평가 | Anthropic Red Team](https://red.anthropic.com/2026/mythos-preview/)
   * [Claude Mythos Preview의 사이버보안 능력 평가 | GeekNews](https://news.hada.io/topic?id=28320)
   * Mythos Preview가 주요 OS/브라우저에서 제로데이 취약점 자율 발견. OpenBSD 27년·FFmpeg 16년 된 버그 등 수천 개 고위험 취약점 식별. 공개 배포 않고 Project Glasswing 출범
+* [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
+  * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
