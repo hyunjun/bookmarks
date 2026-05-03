@@ -338,6 +338,8 @@ Finance
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
+* [tossinvest-cli: Unofficial CLI connecting AI agents to Toss Securities](https://github.com/JungHoonGhae/tossinvest-cli)
+  * `tossctl` 통합 명령. Claude Code/Codex/Cursor/bash에서 토스증권 계좌 관리·시세·주문. 미국·한국 주식 지원, 안전장치로 거래 전 명시적 설정 필요
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
   * [TradingAgents | Tauric Research](https://tauric.ai/research/tradingagents/)
   * [TradingAgents 사용법 — LLM 9명이 주식 분석·매매 결정하는 멀티에이전트 오픈소스](https://jkf87.github.io/tradingagents-multi-agent-trading-llm-2026-04-28)
