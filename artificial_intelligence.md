@@ -884,6 +884,8 @@ Artificial Intelligence
   * [Improve your AI infrastructure - AI memory engine](https://www.cognee.ai/)
   * [LLM이 매번 초기화되어 과거 문맥을 잊어버리는 문제도 이제 오픈소스로 해결 가능해졌습니다🚀AI 에이전트 메모리, 이제 6줄의 코드로 충분히 구현할 수 있습니다! 왜냐하면 Cognee Inc.가 "비정형 데이터를 영구적 AI 메모리로 변환하고 벡터+그래프 하이브리드 검색 제공"해주는 오픈소스 메모리 프레임워크, Cognee를 공개했거든요. 셀프 호스팅… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_llm%EC%9D%B4-%EB%A7%A4%EB%B2%88-%EC%B4%88%EA%B8%B0%ED%99%94%EB%90%98%EC%96%B4-%EA%B3%BC%EA%B1%B0-%EB%AC%B8%EB%A7%A5%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%8F%84-%EC%9D%B4%EC%A0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0-activity-7397049792792621056-a-O-)
   * [Build Agents that never forget. (100% open-source, self-evolving AI memory) Most agents have no real memory. Every conversation starts fresh with no recall of yesterday and no understanding of how… | Akshay Pachaar | 22 comments](https://www.linkedin.com/posts/akshay-pachaar_build-agents-that-never-forget-100-open-source-activity-7419726822680129536--GjM)
+* [CORAL: Robust, lightweight infrastructure for multi-agent autonomous self-evolution](https://github.com/Human-Agent-Society/CORAL)
+  * Claude Code·OpenCode·Codex 등 에이전트를 격리된 git worktree에서 병렬 실행, `.coral/` 공유 상태로 협업. 내장 평가 루프, 실시간 리더보드 대시보드, deep research 모드, LiteLLM 게이트웨이 프록시
 * [CUGA](https://cuga.dev/)
   * [cuga-agent: CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features](https://github.com/cuga-project/cuga-agent)
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
@@ -2890,6 +2892,9 @@ Artificial Intelligence
   * [Tae Hyung Kim - 최근에 뇌인지 관련 AI 모델을 어떻게하면 잘 만들수 있을까 고민을 하면서 논문들을 보고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0yfMDmKb8KfWoyQod1BSWRCHEbyTuHuGaY2GBUnsd6xcpXofmsB43hWeWrneHRmVTl)
     * 비유하자면 감정은 공기 중의 미세먼지 같다
     * 이 미세먼지를 들이마시는 순간, 뇌 속의 거울신경(mirror neuron) 이 작동하기
+* [paper-readers-guide at main · hyeshik/qbio-skills](https://github.com/hyeshik/qbio-skills/tree/main/paper-readers-guide)
+  * [Hyeshik Chang - 대학원 1년차의 논문 읽기 방법 | Facebook](https://m.facebook.com/story.php?story_fbid=pfbid034yyB9QCDETBS9wAfMwGwP1k9Ca8git7LH55qzCkXo1N2tU5RWbmD2E4aHddQQG2al&id=599032501)
+  * 논문 읽기를 보물찾기처럼. 글에서 찾을 수 있는 여러 실마리와 주요 포인트를 "오늘의 퀘스트" 목록처럼 제시하고 하나씩 체크해나가는 방식
 
 # Security
 * [토스뱅크가 AI로 보안과 효율도 챙기는 방법](https://toss.tech/article/secure-efficient-ai)
@@ -4005,6 +4010,9 @@ Artificial Intelligence
     * [cc-token-saver | taekim34](https://www.linkedin.com/posts/taekim34_github-ww-w-aicc-token-saver-claude-code-activity-7450806231449079808-Tekn)
     * 캐시 만료 감지→재전송 차단($9/건 절약), SubTask 자동 위임(캐시 쓰기 37.5% 절감), /continue로 제로 토큰 세션 복원, 실시간 상태바, 23개 언어 대시보드, 레이트 리밋 역공학 데이터 수집
   * [cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio)
+  * [ChatGPT-Image-2: Claude Code skill for OpenAI gpt-image-2: editorial typography, multi-image composition, text-heavy infographics](https://github.com/vdruts/chatgpt-Image-2)
+    * [Claude Skill for OpenAI GPT-Image-2 | Claude Code Facebook Group](https://www.facebook.com/groups/claudecode/posts/1643346086814606/)
+      * OpenAI GPT-Image-2 출시 2일 만에 만든 Claude Skill. Nano Banana 2 대비 뛰어난 디테일·텍스처 처리
   * [claude-ads: Open-source Claude Code skill for automated advertising audits](https://github.com/AgriciDaniel/claude-ads)
     * [Claude Code Just Replaced Your Ad Agency: 250+ Checks in One Command | Agrici Daniel](https://agricidaniel.com/blog/claude-code-ad-agency)
       * [Claude-Ads - 오픈소스 Claude Code 스킬 광고 감사 자동화 | GeekNews](https://news.hada.io/topic?id=29022)
