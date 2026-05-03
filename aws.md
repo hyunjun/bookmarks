@@ -848,6 +848,8 @@ AWS
     * [Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 1 | Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/)
     * [Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 2 | Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-2/)
 * [ppt-translator: A powerful PowerPoint translation tool that leverages Amazon Bedrock models for high-quality translation. This service can be used both as a standalone command-line tool and as a MCP for integration with AI assistants like Kiro and Amazon Q Developer. It translates PowerPoint presentations while preserving formatting and structure](https://github.com/daekeun-ml/ppt-translator)
+  * [답답해서 만든 PPT 번역기 업데이트 | Daekeun Kim](https://kr.linkedin.com/posts/daekeun-kim_amazonbedrock-claude-claudecode-activity-7453818686513541120-ESvY)
+  * 언어 자동 감지(1샷 LLM), 차트 번역, SQLite 캐싱, YAML 커스텀 용어집, dry-run 비용 산정, 병렬 배치. Bedrock Claude Opus/Sonnet·Nova·Llama 지원. FastMCP 서버
 * [Prompt Management for Amazon Bedrock - AWS](https://aws.amazon.com/bedrock/prompt-management/)
   * [Prompt Optimization in Amazon Bedrock now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available/)
   * [Amazon Bedrock – Prompt Optimization 정식 출시!](https://www.linkedin.com/posts/woohyungchoi_prompt-optimization-in-amazon-bedrock-now-activity-7321036702171439104-wQgi/)
