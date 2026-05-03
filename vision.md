@@ -622,6 +622,7 @@ Vision
   * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역](https://kr.linkedin.com/pulse/adaptiveavgpool1d-deepseekocr-%EC%97%90%EC%84%9C%EC%9D%98-%EC%8B%9C%ED%80%80%EC%8A%A4-%EC%95%95%EC%B6%95%EC%9D%98-%EC%88%A8%EC%9D%80-%EC%A3%BC%EC%97%AD-sigrid-jin--ncgqc)
     * [AdaptiveAvgPool1d: DeepSeekOCR 에서의 시퀀스 압축의 숨은 주역 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8B%A4-%EB%B3%B4%EB%A9%B4-%EC%88%98%EB%A7%8E%EC%9D%80-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4%EC%9D%84-%EB%A7%8C%EB%82%98%EA%B2%8C-%EB%90%A9%EB%8B%88%EB%8B%A4-%EA%B7%B8%EC%A4%91%EC%97%90%EC%84%9C-activity-7400813199480004608-MJDO)
   * [Deepseek_OCR_(3B).ipynb - Colab](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Deepseek_OCR_\(3B\).ipynb)
+  * [deepseek_ocr_app: A quick vibe coded app for deepseek OCR](https://github.com/rdumasia303/deepseek_ocr_app)
 * [Docling - Docling](https://docling-project.github.io/docling/)
   * [docling: Get your documents ready for gen AI](https://github.com/docling-project/docling)
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
@@ -1020,6 +1021,9 @@ Vision
   * [Phi-4-Vision-Reasoning — training a multimodal reasoning model | Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
   * 이미지 캡셔닝, 문서 인식, 수학·과학 추론 특화. Azure Foundry 클라우드 또는 로컬 호스팅 가능
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
+* [WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing](https://openreview.net/forum?id=tkE29O0jzF)
+  * ["두더지 잡기 딜레마 해결" MIT·구글·WPI, AI 편향 줄이는 'WRING' 기술 공개 - AI타임스](https://www.aitimes.kr/news/articleView.html?idxno=39899)
+  * VLM(CLIP) 디바이싱에서 기존 projection 방식이 다른 영역 편향을 악화시키는 문제를 회피. 특정 부분공간 내 임베딩을 회전시켜 타겟 편향만 완화, 재학습 불필요. OpenCLIP에 적용
 
 # VR Virtual Reality
 * [blocks: An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift](https://github.com/googlevr/blocks)
