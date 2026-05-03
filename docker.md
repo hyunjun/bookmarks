@@ -2130,6 +2130,9 @@ Docker
 * [How Kubernetes Learned to Resize Pods Without Restarting Them | by Dinidu Sachintha | Medium](https://medium.com/@dinidusachintha/how-kubernetes-learned-to-resize-pods-without-restarting-them-158241b5eb06)
 * [Kubernetes Native AI Infrastructure | The New Stack](https://thenewstack.io/kubernetes-native-ai-infrastructure)
   * [Kubernetes 네이티브 AI 인프라 패턴으로 대규모 추론 환경 운영하기](https://digitalbourgeois.tistory.com/2921)
+* [쿠버네티스 웨비나 AI-Driven SRE: AI와 함께 만드는 쿠버네티스 운영 표준ㅣ조훈 CNCF Ambassador - YouTube](https://www.youtube.com/watch?v=VhmC-XqTf1k)
+  * [talks/Byline-Network/2026-ai-era-k8s-cloud-native at main · sysnet4admin/talks](https://github.com/sysnet4admin/talks/tree/main/Byline-Network/2026-ai-era-k8s-cloud-native)
+  * [2주 걸리던 SRE 업무, AI 동료와 하니 이틀로 줄어 – 바이라인네트워크](https://byline.network/2026/04/23-592/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
