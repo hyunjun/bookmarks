@@ -699,6 +699,8 @@ Artificial Intelligence
   * 단일 에이전트 28/28 성공, 계층형 18/28, 자율조직화 9/28, 파이프라인 0/28. 조직 기능장애는 기질(substrate)에 독립적으로 발생. Crawford-Sobel 신호 열화, Goodhart 법칙 등 정보이론적 제약이 근본 원인
 * [AI 에이전트 메모리의 3가지 트렌드 | 엄상현](https://www.linkedin.com/posts/%EC%83%81%ED%98%84-%EC%97%84-5a03b628a_%ED%95%B4%EC%8B%9C%EB%93%9C-%EA%B9%80%EC%84%9C%EC%A4%80-%EB%8C%80%ED%91%9C%EB%8B%98%EC%9D%98-memkraft-garry-tan-y-%EC%BB%B4%ED%94%BC%EB%84%A4%EC%9D%B4%ED%84%B0-share-7449291698750517249-rTrI)
   * RAG 우회(벡터 대신 마크다운+git), 복리 지식(세션마다 성장), 이중 아키텍처(컴파일 상태+append-only 타임라인) 3가지 트렌드
+* [The 'files are all you need' debate misses what's actually happening in agent memory architecture - The New Stack](https://thenewstack.io/ai-agent-memory-architecture/)
+  * 단순 파일 기반 스토리지로는 부족하다는 주장. 현대 에이전트 메모리는 그보다 복잡한 아키텍처 필요
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -1731,6 +1733,9 @@ Artificial Intelligence
     * [gemma4.md](https://github.com/huggingface/blog/blob/main/gemma4.md)
     * [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4)
     * [Gemma 4 WebGPU](https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU) 브라우저에서 WebGPU로 Gemma 4 직접 실행
+    * [gemma-gem: Google Gemma 4 모델을 WebGPU로 완전 온디바이스 실행](https://github.com/kessler/gemma-gem)
+      * [Gemma Gem - 브라우저에서 Google Gemma 4 모델을 완전 온디바이스로 실행하는 Chrome 확장 | GeekNews](https://news.hada.io/topic?id=28645)
+      * Chrome 확장으로 브라우저 내 Gemma 4 실행. E2B(~500MB) 또는 E4B(~1.5GB), q4f16 양자화, 128K 컨텍스트. 페이지 읽기/폼 상호작용/DOM·스크린샷·JS 실행 6개 도구, 3계층 아키텍처
     * Gemini 3 기술 기반 오픈소스. E2B/E4B/26B MoE/31B dense 4종, 이미지·텍스트·오디오 멀티모달 입력, 140개 언어, 네이티브 함수 호출, PLE·Shared KV Cache, Apache 2.0
     * [A Visual Guide to Gemma 4](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4)
       * [Gemma 4 비주얼 가이드 | GeekNews](https://news.hada.io/topic?id=28188)
@@ -2861,6 +2866,9 @@ Artificial Intelligence
 * [2602.08234 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234)
   * [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://github.com/aiming-lab/SkillRL)
   * [최적의 데이터를 선별하여 LLM pre-training 효율을 극대화하는 OPUS | 0211 모두에게 전하는 모두연 AI뉴스 | Facebook](https://www.facebook.com/groups/agikr/posts/2870190993321940)
+* [2603.29791 Reasoning-Driven Synthetic Data Generation and Evaluation (Simula)](https://arxiv.org/abs/2603.29791)
+  * [구글, 학습 데이터 스스로 설계하는 AI 프레임워크 'Simula' 공개..."단순 모방의 시대는 끝" - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209779)
+  * 구글·EPFL. 합성 데이터를 "첫 원리"(물리·경제 규칙 등)로 설계하는 프레임워크. 4단계 프로세스(전역 다양화→지역 다양화→복잡화→품질 검증), 510,000+ 엔트리 생성, 보안·온디바이스·스팸 모델 실사용. TMLR 2026
 * [2604.06425 Neural Computers](https://arxiv.org/abs/2604.06425)
   * [김성완 - 메타에서 뉴럴 컴퓨터(Neural Computers)라는 새로운 개념을 발표했습니다 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0xZSqAcu7CnhhBdkDkctNj8SKrHk9hTDtUur6TZMiGcHRm5ftqMasGfRaKv3PLdERl)
   * 계산·메모리·I/O를 학습된 런타임 상태로 통합하는 새로운 머신 형태. 비디오 모델로 CLI/GUI 환경에서 명령+사용자 행동으로부터 화면 프레임 생성
@@ -2917,6 +2925,8 @@ Artificial Intelligence
 * [Claude Mythos Preview의 사이버보안 능력 평가 | Anthropic Red Team](https://red.anthropic.com/2026/mythos-preview/)
   * [Claude Mythos Preview의 사이버보안 능력 평가 | GeekNews](https://news.hada.io/topic?id=28320)
   * Mythos Preview가 주요 OS/브라우저에서 제로데이 취약점 자율 발견. OpenBSD 27년·FFmpeg 16년 된 버그 등 수천 개 고위험 취약점 식별. 공개 배포 않고 Project Glasswing 출범
+* [Adversarial AI: Understanding the Threats to Modern AI Systems | The JetBrains Qodana Blog](https://blog.jetbrains.com/qodana/2026/04/adversarial-ai-threats/)
+  * Adversarial AI 2분류(AI 무기화 vs AI 시스템 공격), 3공격면(알고리즘·생성AI 안전장치·공급망). 데이터 포이즈닝(Tay), 회피 공격(자율주행 정지 표지판), 모델 탈취(Alpaca vs Llama) 사례
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
@@ -3892,6 +3902,12 @@ Artificial Intelligence
     * 30만+ 도구 호출 분석. 출력 토큰(narration)이 최대 비용 원인. CLAUDE.md에 anti-narration 규칙 추가, 세션 20~30턴 유지, 파일 읽기 최적화, 비피크 시간대 활용 권장
   * [Token count change due to Claude’s tokenizer update | cometkim](https://gist.github.com/cometkim/f5b382e9f69b3a35513ce66725b0e42e)
     * Opus 4.6→4.7 토크나이저 변경으로 토큰 수 1.3~1.7배 증가. 이미지 최대 3배, 시스템 프롬프트 1.67배, 텍스트/코드/CJK 1.2~1.3배
+  * [I Measured Claude 4.7's New Tokenizer. Here's What It Costs You.](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
+    * [Claude 4.7 토크나이저 비용 측정 결과 | GeekNews](https://news.hada.io/topic?id=28641)
+    * 기술문서 영어 1.47x, 코드 1.29~1.39x, CJK 1.01x. 80턴 Claude Code 세션당 $6.65→$7.86~$8.76(20~30%↑). IFEval 지시 준수 85→90% +5pp. 4.6 캐시 무효화로 캐시 쓰기 비용 추가
+  * [Tokenomics - Anthropic Token Cost Calculator (Community Averages)](https://tokens.billchambers.me/leaderboard)
+    * [Opus 4.6과 Opus 4.7의 토큰 비용 계산기 | GeekNews](https://news.hada.io/topic?id=28672)
+    * 커뮤니티 제출 425건 분석 기반 Opus 4.6↔4.7 토큰 비교 도구. 동일 프롬프트 요청당 평균 +37.4% 비용 증가, 범위 +19.0~+86.2%. 프롬프트 붙여넣기로 실시간 비용 차이 확인
   * [Claude ‘구독형’ 요금제가 API보다 최대 36배 저렴한 이유와 ‘Max 5x’가 진 | GeekNews](https://news.hada.io/topic?id=26256)
   * [Anthropic 해커톤 우승자가 공유한 Claude Code 실전 팁 70가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3607/)
     * [Claude_Code_완전_가이드_70가지_팁.pdf - Google Drive](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
@@ -4374,6 +4390,8 @@ Artificial Intelligence
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
     * YC 54개 강의 트랜스크립트 + Paul Graham 에세이 14편을 Claude Code 스킬로 변환. /yc-4 명령으로 특정 강의 기반 프로젝트 분석·Q&A 수행
+* [claude-code-app-studio: 53개 Claude Code 서브에이전트 팀으로 모바일 앱 엔드투엔드 개발](https://github.com/cenconq25/claude-code-app-studio)
+  * 53 스페셜리스트(디렉터·리드·스페셜리스트 3계층), 73 슬래시 커맨드(/start~/release-checklist), 12 안전 훅. React Native·Flutter·iOS(Swift)·Android(Kotlin) 지원. QODA 승인 프로토콜, 세션 복구
 * [claudiomiro: Autonomous AI-powered development agent](https://github.com/samuelfaj/claudiomiro)
   * 프롬프트→태스크 분해→코드 작성→리뷰→빌드→테스트→커밋 전 파이프라인 자율 수행. 병렬 멀티에이전트, 로컬 LLM 코파일럿으로 비용 90% 절감
 * [claudy: macOS desktop AI companion for developers](https://github.com/eali959/claudy)
@@ -4433,9 +4451,11 @@ Artificial Intelligence
   * [codex-mcp-server: MCP server wrapper for OpenAI Codex CLI](https://docs.tuannvm.com/)
     * [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
     * Claude Code에서 Codex의 AI 기능을 MCP 프로토콜로 직접 활용
-* [context-mode: Context virtualization layer for AI agents](https://github.com/mksglu/context-mode)
+* [Context Mode - Save 98% of your AI coding agent's context window](https://context-mode.com/)
+  * [context-mode: Context window optimization for AI coding agents](https://github.com/mksglu/context-mode)
   * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
     * [Claude Code 비용 문제를 해결하는 MCP 서버 Context Mode](https://livewiki.com/ko/content/claude-code-expensive-fix)
+  * [Context Mode - AI 코딩 에이전트의 컨텍스트 윈도우를 98% 절약하는 MCP 서버 | GeekNews](https://news.hada.io/topic?id=29106)
   * MCP 서버로 컨텍스트를 가상화하여 토큰 최대 99% 절감. 원시 데이터를 로컬 샌드박스에 인덱싱하고 FTS5 검색으로 필요한 부분만 전달. SQLite 기반 세션 연속성으로 대화 압축 후에도 작업 상태 유지
 * [Composio](https://composio.dev/)
   * [agent-orchestrator: Agentic orchestrator for parallel coding agents](https://github.com/ComposioHQ/agent-orchestrator)
