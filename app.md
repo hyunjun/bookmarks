@@ -2406,6 +2406,9 @@ App
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [kbd-audio: 🎤⌨️ Acoustic keyboard eavesdropping](https://github.com/ggerganov/kbd-audio)
+* [Kdenlive - Free and Open Source Video Editor](https://kdenlive.org/)
+  * [kdenlive: when free software outclasses paid - YouTube](https://www.youtube.com/watch?v=9dIqJDy78TI)
+  * KDE Non-Linear Video Editor. Linux/Windows/macOS/BSD 크로스플랫폼 오픈소스 비디오 편집기
 * Kodi [Open Source Home Theater Software | Kodi](https://kodi.tv/)
 * [Koharu — Local Manga Translation Application](https://koharu.rs/)
   * [koharu](https://github.com/mayocream/koharu)
