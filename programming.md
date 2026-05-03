@@ -5712,6 +5712,8 @@ Programming
   * [인간해커를 능가해버린 인공지능 해커 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ukstnd-ai-suaqtztfmqvz-activity-7405010750043435008-Xwtg)
   * [전종홍 - 어쩌면 판도라의 상자가 열리는 것일지도 모르겠네요. 이미 열렸던 것일지 모르지만.. AI 에이전트와 인간... | Facebook](https://www.facebook.com/1biit/posts/pfbid02TZRmhk2PXEmGtpdgreAeUvwR3iVBxZdQh6bhdPPsnMcayqcAeaM4EcTFBnqiGhRl)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
+* [awesome-connected-things-sec: A Curated list of Security Resources for all connected things](https://github.com/V33RU/awesome-connected-things-sec)
+  * 900+ IoT/임베디드/ICS/자동차 보안 리소스. UART/JTAG/SWD 하드웨어 공격, Bluetooth/Zigbee/LoRa/Wi-Fi 무선, 펌웨어 추출·분석, MQTT/CoAP 프로토콜, AWS IoT, 차량 해킹
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [Caido — Web Security Testing Platform](https://caido.io/)
   * [caido](https://github.com/caido/caido)
