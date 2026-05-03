@@ -950,8 +950,9 @@ Artificial Intelligence
   * LongMemEval 96.6% 최고점. 요약 없이 원문 그대로 ChromaDB에 저장, 궁전 비유(Wing→Room→Hall→Drawer)로 계층적 구조화하여 검색 34% 향상. 지식 그래프(SQLite 시간 기반 엔티티), AAAK 손실 압축, MCP 통합(Claude/ChatGPT/Cursor/Gemini). MIT 오픈소스
 * [memsearch: Cross-platform semantic memory for AI coding agents](https://github.com/zilliztech/memsearch)
   * Claude Code/OpenClaw 등 에이전트용 Milvus 벡터 DB 기반 하이브리드 검색
-* [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
-  * 권한 강화 도구·토큰 예산·멀티 채널 접근. CLI/Telegram 24/7 실행, Soul 기반 자율 에이전트
+* [Mercury — Soul-Driven AI Agent with Permission Guardrails | Cosmic Stack](https://mercury.cosmicstack.org/)
+  * [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
+  * TS/Node.js 백그라운드 데몬, 31개 내장 도구, 스킬 시스템, CLI+Telegram 멀티 채널. 커스터마이즈 가능한 마크다운 "soul files"로 성격 설정, 자동 메모리 시스템, 폴더 레벨 권한 스코프. DeepSeek/OpenAI/Anthropic/Ollama 지원, cron 스케줄, SQLite 로컬 저장
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
@@ -2043,6 +2044,8 @@ Artificial Intelligence
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
 * [nebullvm: Easy-to-use library to boost AI inference leveraging multiple DL compilers](https://github.com/nebuly-ai/nebullvm)
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
+* [NovaLIS: Governance-focused local AI system with bounded execution](https://github.com/christopherbdaugherty96/NovaLIS)
+  * 지능과 실행을 분리하여 리뷰 가능한 액션·로컬 소유권·사용자 가시 제어에 초점. Python+JavaScript+CSS, 알파 릴리스
 * [NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://github.com/ElectricAlexis/NotaGen) classic 음악 특화
   * [NotaGen](https://electricalexis.github.io/notagen-demo/)
 * [OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://github.com/OpenDevin/OpenDevin)
@@ -2741,6 +2744,10 @@ Artificial Intelligence
   * DeNA는 AI에게 일 시키는 게 아니라 AI가 어떻게 일했는지 로그를 같이 읽음. 남바 토모코 회장 강연 기반 후속 글
 * ["흩어진 GPU 하나로 묶어" 구글, '비동기·분산식' 모델 학습법 공개 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209767)
   * Google DeepMind가 기존 완전 동기화 구조를 벗어나 비동기·분산 방식으로 대규모 모델 학습 가능한 새 아키텍처 제시
+* [SeonYoung Im - 중국AI미래지도 14세 칭화대 입학·30세 프린스턴 종신교수, 천재가 바꾸는 과학 연구실의 미래 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/4407611506179739/)
+  * 두 명의 천재가 AR 글라스+자체 AI 모델로 실험실 초보를 1주일 만에 전문가 수준으로. "앞으로 중요한 것은 당신이 얼마나 뛰어난가가 아니라 얼마나 뛰어난 AI를 살 수 있는가"
+* [AI에게 "알아서 수정해줘"라고 위임하면 벌어지는 조용한 부패 Silent Corruption | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_ai%EC%97%90%EA%B2%8C-%EC%95%8C%EC%95%84%EC%84%9C-%EC%88%98%EC%A0%95%ED%95%B4%EC%A4%98%EB%9D%BC%EA%B3%A0-%EC%9C%84%EC%9E%84%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EB%B6%80%ED%8C%A8silent-share-7456220408573267968-9A_k)
+  * AI에게 도구만 쥐여주고 위임하는 착각에 대한 경고. 에러 없고 결과물이 그럴싸해 보여도 완벽한 처리가 아님. 에이전트 열풍의 맹점
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3963,6 +3970,9 @@ Artificial Intelligence
     * [AWS Skills for Claude Code - 36개 Skills 세트 공개 | woohyungchoi](https://www.linkedin.com/posts/woohyungchoi_aws-skills-for-claude-code-36%EA%B0%9C-skills-share-7446170588190257152-fiT-)
     * kirodotdev/powers(25개)+kiro-cli-power(11개) 기반 AWS 풀스택 개발 스킬. 대화 컨텍스트 기반 온디맨드 로딩, bash 스크립트 원클릭 설치
   * [backant-agents: Claude Code agents used in BackAnt](https://github.com/backant-io/backant-agents) Claude Code agents for task delegation, QA, and code review
+  * [Bright Data Plugin for Claude Code](https://github.com/brightdata/skills)
+    * [GitHub - brightdata/skills | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-brightdataskills-activity-7455723366013083648-5aO5)
+    * Claude Code용 Bright Data 웹 인프라 통합 플러그인. 13개 스킬로 웹페이지→마크다운 스크래핑, Google 검색 구조화, 40+ 사이트 데이터 추출, 60+ MCP 도구. 봇 감지·CAPTCHA 우회
   * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
   * [cc-lens: Claude Code usage analytics dashboard](https://github.com/Arindam200/cc-lens)
     * ~/.claude/ 데이터를 시각화하는 로컬 분석 대시보드. 세션·비용·도구·활동 실시간 모니터링. API 키 불필요
