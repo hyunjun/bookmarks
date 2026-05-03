@@ -2834,6 +2834,7 @@ App
 * [Tolaria — A second brain for the AI era](https://tolaria.md/)
   * [tolaria](https://github.com/refactoringhq/tolaria)
   * 마크다운+YAML 프론트매터 기반 오픈소스 지식 관리 앱. Git 내장 버전 관리, MCP 서버로 Claude Code 연동, 오프라인 동작, 계정 불필요. Tauri+React+TypeScript, AGPL-3.0
+  * [Tolaria: A Markdown Second Brain Built for the Claude Code Era - YouTube](https://www.youtube.com/watch?v=d8Wfp5HSNr0)
 * [treemd: A (TUI/CLI) markdown navigator with tree-based structural navigation.](https://github.com/Epistates/treemd)
 * [turndown: An HTML to Markdown converter written in JavaScript](https://mixmark-io.github.io/turndown/)
   * [turndown](https://github.com/mixmark-io/turndown)
