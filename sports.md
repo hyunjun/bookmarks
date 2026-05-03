@@ -137,6 +137,8 @@ Sports
 * [일반인이 천재를 따라잡기 위해 만들어낸 방법 ‘타격 메커니즘’ - YouTube](https://www.youtube.com/watch?v=-g3YST7BNBg)
 * ["반복 훈련 답 아니다" 좋은 제구 위해 무조건 많이 던져라? 韓 야구계 편견 깨진다... 가변성 주목한 美 야구 아마야구가 말한다②](https://www.starnewskorea.com/sports/2026/04/07/2026040109430560696)
   * 한국 야구계의 "제구를 위해 구속 포기, 일정한 투구폼과 반복 훈련" 통념 비판. 미국 야구계는 투구 동작의 가변성(variability)을 오히려 제구 향상의 요소로 주목하는 접근 소개
+* [오타니는 어떻게 최고의 선수가 되었나? 비야인드 2026.04.27 - YouTube](https://www.youtube.com/watch?v=ydjtJEd0O7M)
+  * MBC 스포츠플러스 비야인드. 박소영·고강용·정민철·김강민·허도환이 오타니의 성장 과정 분석, 바이오 미케닉스 biomechanics
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
