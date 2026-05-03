@@ -72,6 +72,7 @@ Art
 * [20세기 프랑스 '행동하는 지성' 앙드레 말로의 치열했던 삶과 문학 - 세계일보](http://www.segye.com/newsView/20150501002376) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
 * [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
+* [The role of literature as the key to personal freedom | Aeon Essays](https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom)
 
 ## 삼국지
 * [삼국지 최고의 등산왕 등애](http://blog.daum.net/aminoginji/242)
