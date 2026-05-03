@@ -2752,6 +2752,10 @@ Artificial Intelligence
   * 두 명의 천재가 AR 글라스+자체 AI 모델로 실험실 초보를 1주일 만에 전문가 수준으로. "앞으로 중요한 것은 당신이 얼마나 뛰어난가가 아니라 얼마나 뛰어난 AI를 살 수 있는가"
 * [AI에게 "알아서 수정해줘"라고 위임하면 벌어지는 조용한 부패 Silent Corruption | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_ai%EC%97%90%EA%B2%8C-%EC%95%8C%EC%95%84%EC%84%9C-%EC%88%98%EC%A0%95%ED%95%B4%EC%A4%98%EB%9D%BC%EA%B3%A0-%EC%9C%84%EC%9E%84%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EB%B6%80%ED%8C%A8silent-share-7456220408573267968-9A_k)
   * AI에게 도구만 쥐여주고 위임하는 착각에 대한 경고. 에러 없고 결과물이 그럴싸해 보여도 완벽한 처리가 아님. 에이전트 열풍의 맹점
+* [AI가 대체하지 못하는 사람은 딱 두 부류 - 팔란티어 CEO 알렉스 카프 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EA%B0%80-%EB%8C%80%EC%B2%B4%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%94%B1-%EB%91%90-%EB%B6%80%EB%A5%98%EB%BF%90%EC%9D%B4%EB%9D%BC%EA%B3%A0-%ED%95%A9%EB%8B%88%EB%8B%A4-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-ceo-share-7451060527818072064-Iw7l)
+  * Palantir CEO 알렉스 카프: AI 대체 불가능한 두 부류는 ① 현장 기술(vocational skills)을 가진 사람 ② 신경다양성(neurodivergent)을 가진 사람. 시가총액 3,500억 달러 CEO·괴테대 철학 박사
+* [쿼리곰: 사내 AI 봇이 "없으면 안 되는 도구"가 되기까지 | 김용현](https://www.linkedin.com/posts/%EA%B9%80%EC%9A%A9%ED%98%84-hulkong_%EC%BF%BC%EB%A6%AC%EA%B3%B0-%EC%82%AC%EB%82%B4-ai-%EB%B4%87%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EA%B0%80-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-share-7453404890099388416-iZss)
+  * 13년치 기억을 가진 AI — Knowledge DB로 인프라 운영의 "맥락"을 해결한 기술 블로그 후속작. 사내 AI 봇이 필수 도구가 된 과정
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2917,6 +2921,9 @@ Artificial Intelligence
   * OpenClaw에서 영감받은 보안 중심 AI 에이전트 프레임워크. WASM 샌드박스, 자격 증명 보호, 프롬프트 인젝션 방어, NEAR AI Cloud 암호화 엔클레이브
 * [iterance: Behavioral witness layer for AI agents](https://github.com/Tetrahedroned/iterance)
   * 에이전트 외부에서 파일시스템 행동을 감시·기록하는 독립 감사 레이어. Git 기반 평문 영어 원장, 신뢰도 스코어(오버라이드 비율 기반), 2단계 검사, 에이전트 자기인식용 행동 이력 생성. 코드 수정 불필요
+* [LLM-HOOK-BROWSER: AI-powered real-time web vulnerability scanner proxy using Claude LLM](https://github.com/lufianlee/LLM-HOOK-BROWSER)
+  * [내가 매일 쓰는 크롬 브라우저가 취약점 스캐너가 되면 어떨까? | Jiyoung Lee](https://kr.linkedin.com/posts/jaylee86_%EB%82%B4%EA%B0%80-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-%ED%81%AC%EB%A1%AC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%8A%A4%EC%BA%90%EB%84%88%EA%B0%80-%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A8%EA%B9%8C-%EC%9D%B4-%EB%8B%A8%EC%88%9C%ED%95%9C-activity-7453668861629960193-qCjc)
+  * mitmproxy로 Chrome HTTP/HTTPS 트래픽 가로채 2단계 분석: 20개 패턴 매처 사전 분석 + Claude Sonnet 35개 취약점 카테고리 상세 분석. CVSS v3.1 점수·OWASP Top 10 매핑. 200+ 공격 페이로드, 실시간 WebSocket 대시보드. Bedrock+Anthropic API
 * [MEDUSA - AI Security Scanner | Pantheon Security](https://pantheonsecurity.io/)
   * [medusa](https://github.com/Pantheon-Security/medusa)
   * AI-first 보안 스캐너. 78개 분석기, 9,600+ 탐지 규칙. 프롬프트 인젝션, MCP 취약점, RAG 포이즈닝, 에이전트 공격 탐지. 오픈소스
@@ -3631,6 +3638,9 @@ Artificial Intelligence
     * [oh-my-cloud-skills: 클라우드에 대한 이해 및 컨텐츠 제작을 위한 skills](https://github.com/Atom-oh/oh-my-cloud-skills)
       * [노드 라이프사이클 & 모니터링 - EKS Auto Mode](https://presentation.atomai.click/eks-observability-ops/02-node-lifecycle.html#6)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
+    * [prompt-master: A Claude skill that writes accurate prompts for any AI tool](https://github.com/nidhinjs/prompt-master)
+      * [GitHub - nidhinjs/prompt-master | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-nidhinjsprompt-master-a-claude-activity-7453314783858069504-Pw1s)
+      * 30+ AI 도구(Cursor·Claude Code·Midjourney·ComfyUI 등)에 최적화된 프롬프트 생성 Claude 스킬. 9차원 의도 추출, 최대 3개 명확화 질문, 토큰 효율 감사. 12개 자동 템플릿, 메모리 블록으로 멀티턴 일관성
     * [smart-cowork-life/smart-cowork-life at main · modu-ai/smart-cowork-life](https://github.com/modu-ai/smart-cowork-life/tree/main/smart-cowork-life)
       * [Goos Kim - @팔로워 모두의AI 4번째 오픈소스, Claude Cowork Plugin '슬기로운 코워크... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0271svtLduk3CPFprSSJU8WdBSgmhU7uqpR7X9TfcjMNxWokKxVAxATzBPAh7fitAql)
     * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
