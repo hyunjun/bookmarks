@@ -2358,6 +2358,9 @@ AWS
   * 22개 AWS 서비스 뷰를 제공하는 터미널 UI 도구. EC2, VPC, 네트워킹 관리 및 SSM 세션, 포트 포워딩, 인스턴스 간 연결성 검증을 콘솔 없이 수행
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
+* [unic: Go-based TUI for browsing and operating AWS resources](https://github.com/DevopsArtFactory/unic)
+  * [GitHub - DevopsArtFactory/unic | YoungJin Jung](https://kr.linkedin.com/posts/youngjin-jung_aws-awstui-codex-activity-7454003164317413376-sKLj)
+  * Bubble Tea 앱+Cobra CLI+AWS SDK v2, 컨텍스트 인식 인증 레이어. SSO/assume-role/credential 다중 컨텍스트, EC2·RDS·보안 감사 터미널 조작
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
 * zappa
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
