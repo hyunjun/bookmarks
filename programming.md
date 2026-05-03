@@ -5821,6 +5821,9 @@ Programming
   * 셀프호스팅 오픈소스 위협 인텔리전스 플랫폼. 다크웹 크롤링, 텔레그램 키워드 모니터링, 랜섬웨어 그룹 추적, Docker 단일 배포
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
+* [reNgine - Automated reconnaissance framework for web applications](https://yogeshojha.github.io/rengine/)
+  * [rengine](https://github.com/yogeshojha/rengine)
+  * 웹앱 보안 테스트용 자동 정찰 프레임워크. 설정 가능한 YAML 엔진, DB 기반 데이터 정리·연관, 지속 모니터링(Slack/Discord/Telegram), GPT 취약점 리포트. 서브도메인·포트·엔드포인트·취약점·스크린샷 자동화
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
 * scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
