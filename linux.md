@@ -1223,6 +1223,20 @@ Linux
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
+* [the world-wide-web, right from your terminal - YouTube](https://www.youtube.com/watch?v=51-wk_F0SfE)
+  * [awesome-console-services: Curated list of awesome console services (HTTP, SSH, Telnet)](https://github.com/chubin/awesome-console-services)
+  * [Browsh: Modern text-based browser with HTML5/CSS3/JS/video/WebGL](https://www.brow.sh/)
+    * [browsh: A fully-modern text-based browser, rendering to TTY and browsers](https://github.com/browsh-org/browsh)
+    * 원격 서버에서 실행, SSH/Mosh로 접속하여 대역폭 절감. Firefox 기반
+  * [carbonyl: Chromium-based terminal web browser](https://github.com/fathyb/carbonyl)
+    * Chromium 기반 터미널 브라우저. WebGL·WebGPU·오디오·비디오 지원, 1초 미만 시작, 60 FPS. Rust+C++ 하이브리드
+  * [cheat.sh: unified access to the best community driven cheat sheets](https://github.com/chubin/cheat.sh)
+    * 56+ 언어·1000+ Unix 명령어 치트시트. `curl cht.sh/...` 100ms 응답. Vim/VS Code 통합, stealth 모드
+  * [scripts: define script, statusbar, shortcuts, image/audio tools (BreadOnPenguins)](https://github.com/BreadOnPenguins/scripts)
+  * [W3m - ArchWiki](https://wiki.archlinux.org/title/W3m)
+    * 텍스트 기반 터미널 웹 브라우저
+  * [wttr.in: console-oriented weather forecast service](https://github.com/chubin/wttr.in)
+    * `curl wttr.in`으로 날씨 조회. 54개 언어, 100M+ 일일 쿼리. ANSI/HTML/PNG/JSON/Prometheus 출력
 * [chartli: CLI that turns plain numbers into terminal charts (ascii, sparkline, bar, heatmap, braille, SVG)](https://github.com/ahmadawais/chartli)
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
