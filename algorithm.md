@@ -736,6 +736,8 @@ Algorithm
   * [확률적 자료구조 BloomFilter의 원리 - YouTube](https://www.youtube.com/watch?v=iA-QtVCPjtE)
 * [알아도 도움안되는 얕은 개발 지식들 - Google Slides](https://docs.google.com/presentation/d/1KvrS58SZdhSxYHvIq3SXIbYGwBzKyj8jekJB-O9RTTk/edit#slide=id.g3085f808319_0_18)
 * [진정한 남자는 DB 안쓰고 이거 씀 - YouTube](https://www.youtube.com/watch?v=rIl5G2aVfMQ)
+* [Bloom Filters: Theory, Engineering Trade-offs, and Implementation in Go - InfoQ](https://www.infoq.com/articles/bloom-filters-practice-go-recommender/)
+  * 추천 시스템 성능 최적화를 위한 Go Bloom 필터 구현. 아키텍처, Bloom 필터 메커니즘, 파라미터 튜닝, 프로덕션 제약 하 실전 교훈
 
 # Problems
 * [**A collection of algorithms**](https://github.com/williamfiset/algorithms)
@@ -795,6 +797,9 @@ Algorithm
 * [백준 공유기 설치 왜 이분탐색이 가능한가](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%EC%84%A4%EC%B9%98-%EC%99%9C-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80)
 * [Searching & Sorting Algorithms Full Course 2022 | Data Structures Explained 2022 | Simplilearn - YouTube](https://www.youtube.com/watch?v=d7iGniWrRng)
 * [이진 탐색은 어디까지 빨라질 수 있을까?](https://bab2min.tistory.com/670) k-ary Search Tree
+* [You can beat the binary search | Daniel Lemire](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
+  * [이진 탐색보다 빠른 SIMD Quad 알고리즘 | GeekNews](https://news.hada.io/topic?id=29069)
+  * SIMD Quad 알고리즘: 4진 보간 탐색+SIMD 결합. 16-bit 정수 정렬 배열을 16요소 블록으로 분할, 블록 경계에서 보간으로 탐색 공간 축소 후 SIMD로 16요소 병렬 비교. Intel·ARM 플랫폼 모두에서 이진탐색 대비 2배 이상 성능
 * [Search Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxHM5Z17IOnGmuG15sJ7sqYn)
 
 # Sort
