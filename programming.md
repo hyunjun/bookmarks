@@ -7551,6 +7551,7 @@ Programming
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
+* [News Audit | Shubham](https://thatshubham.com/blog/news-audit)
 * [news.hada.io](https://news.hada.io/)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
@@ -8989,6 +8990,8 @@ Programming
 * [On sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
   * [과도한 생각, 범위 확장, 구조적 Diff로 프로젝트를 망치는 방법 | GeekNews](https://news.hada.io/topic?id=28865)
   * 과도한 계획보다 실행 우선("Sometimes you just want a shelf"), YAGNI 원칙, LLM 생성 코드 리뷰를 위한 시맨틱 diff 도구 비교 후 treesitter 기반 최소 도구 직접 구축
+* [Engineering Speed at Scale — Architectural Lessons from Sub-100-ms APIs - InfoQ](https://www.infoq.com/articles/engineering-speed-scale/)
+  * 지연 예산, 홉 최소화, async fan-out, 캐싱 계층화, 서킷 브레이커, 옵저버빌리티. 장기 속도는 문화와 p99 소유 팀 책임
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
