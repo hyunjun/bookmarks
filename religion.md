@@ -138,6 +138,8 @@ Religion
 * [‘정치 목사’ 김장환의 힘은 어디서 나오나 < 김용민 칼럼 < 칼럼 < 쩌날리즘 < 기사본문 - 평화나무](https://www.logosian.com/news/articleView.html?idxno=2565)
 * [보수 개신교의 탄생 ①](https://otterletter.com/evangelicals/)
 * [꼭 그 길이 아니어도 괜찮습니다 < 다른 길로 간 신학생들 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=304475)
+* [성경적 세계관이라는 말의 오남용 비판 | 심용환](https://www.facebook.com/yonghwan.shim/posts/pfbid02ZXP6xFQH864txjuiNfok6m1u4KusGiY27ypNRKYfksmT9sBZpCZxpfMeD5Hy1w7zl)
+  * 한국 교회에서 "성경적 세계관"이 기준·논리·성경적·신학적·지적·역사적 근거 없이 문화적 상투어로 남용되고 있다는 비판
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
