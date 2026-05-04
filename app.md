@@ -1727,6 +1727,9 @@ App
   * [FileNic - macOS에서 한글 파일명 자소분리 문제 해결기 | GeekNews](https://news.hada.io/topic?id=18629)
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
+* [GhostVM - Mac Virtual Machine for Secure Development](https://ghostvm.org/)
+  * [GhostVM](https://github.com/groundwater/GhostVM)
+  * AI 에이전트·샌드박스 코드·신뢰할 수 없는 프로젝트용 격리된 macOS 워크스페이스. Apple Silicon 네이티브
 * [Grab2Text on the Mac App Store](https://apps.apple.com/us/app/grab2text/id6475956137?mt=12)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Hammerspoon - a tool for powerful automation of OS X](https://www.hammerspoon.org/)
@@ -2875,7 +2878,9 @@ App
   * [HOP (HOP is Open HWP) — 오픈소스 HWP/HWPX 뷰어·에디터](https://golbin.github.io/hop)
     * [백건우 - 오픈소스 아래한글 데스크톱 버전 | Facebook](https://www.facebook.com/marupress/posts/pfbid02Cg6SEzTvjTMQwVLMQTyPFR1myMYcYzV19qrZjSr5m17ntjKk9BLCCqrw2acvHiXTl)
     * rhwp 엔진 기반 크로스플랫폼(macOS/Windows/Linux) HWP/HWPX 편집기. Homebrew 설치, macOS 서명/공증. 무료, 한컴 로열티 없음
+  * [hwp-hwpx-parser: 순수 Python HWP/HWPX 파서. JVM 불필요, 빠른 설치, 통합 API로 텍스트/표/각주/미주/메모 추출](https://github.com/KimDaehyeon6873/hwp-hwpx-parser)
   * [hwpx.io - HWP/HWPX를 AI가 읽을 수 있게 | hwpx.io](https://hwpx.io/)
+  * [hwpx-mcp: MCP Server for HWP/HWPX document manipulation](https://github.com/Dayoooun/hwpx-mcp)
   * [polaris_dvc: Pure Rust HWPX document validation toolchain](https://github.com/PolarisOffice/polaris_dvc)
     * [polaris_dvc docs](https://polarisoffice.github.io/polaris_dvc)
     * Rust 기반 HWPX 문서 4축 검증: 규칙 준수(JID 1000-7999), 구조적 무결성, 컨테이너 건전성, KS X 6101 스키마 적합성. macOS/Linux/Windows/WASM 크로스플랫폼
