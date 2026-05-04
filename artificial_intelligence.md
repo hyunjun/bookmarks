@@ -2743,6 +2743,12 @@ Artificial Intelligence
   * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
   * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
 * [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
+* [문규민 - AI와 관련하여 시뮬레이션은 구현이 아니다 | Facebook](https://www.facebook.com/share/14dFp1z63D6/)
+  * AI 시뮬레이션 vs 구현 논쟁. "시뮬레이션이 충분히 정교해지면 구현이다"라는 반론에 대한 철학적 검토
+* [AI와 협업하는 조직으로의 여정 | Arawn Park](https://speakerdeck.com/arawn/aiwa-hyeobeobhaneun-jojigeuroyi-yeojeong)
+  * 제품 조직의 AI 네이티브 전환 발표. Generic 에이전트 한계→조직 전용 에이전트 구축, 인간은 판단·기준, AI는 구현·검증. 문서·기준·테스트·워크플로우가 조직 생산성을 만든다
+* [Why the A.I. Job Apocalypse (Probably) Won't Happen - Ezra Klein NYT 번역 | 이형열](https://www.facebook.com/hyungrlee/posts/pfbid02oFCNKZSBqGHRRKV3ZcZCrFa47gQFXzooJSchJaiNa4dteXpoW8CPfk9ZQ175LjtYl)
+  * 미국 실업률 4.3% 안정. 스프레드시트가 회계사 수를 4배로 늘렸듯(Jevons Paradox) AI는 대체보다 보완. 자동화 증가 시 인간 관계·진정성 수요 상승. 진짜 리스크는 대량실업이 아닌 부분적 직무 대체
 * [2026.04 Week 1 Five Trending Repos of the Week](https://codepointer.substack.com/p/202604-week-1-five-trending-repos)
   * Claude Code 툴링이 GitHub 트렌딩 지배. 에이전트 harness 플러그인, 스킬 레지스트리, 코드 분석 도구가 상위 100개 중 절반 차지
 * [2026.05 Week 1 Five Trending Repos of the Week | Yongkyun](https://codepointer.substack.com/p/202605-week-1-five-trending-repos)
@@ -4405,6 +4411,8 @@ Artificial Intelligence
       * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
       * [Stop Using The Ralph Loop Plugin | tobyilee](https://www.linkedin.com/posts/tobyilee_stop-using-the-ralph-loop-plugin-activity-7438021804327145473-lBLZ)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
+    * [Ralph loop 배울 필요 없습니다. codex /goal 만 쓰세요. 어떻게 동작하는지 분석 | Goobong Jeong](https://kr.linkedin.com/posts/gb-jeong_ralph-loop-%EB%B0%B0%EC%9A%B8-%ED%95%84%EC%9A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-codex-goal-%EB%A7%8C-%EC%93%B0%EC%84%B8%EC%9A%94-activity-7456817369785733120-akUM)
+      * OpenAI codex /goal이 ralph loop를 내장화. TurnFinished 이벤트·세마포어 락으로 중단 방지, update_goal 스키마로 탈출 옵션 차단, 토큰 예산 원자적 관리, <untrusted_objective> 태그로 보안
     * [AGENT THREADS: How to SHIP like Boris Cherny. Ralph Wiggum in Claude Code - YouTube](https://www.youtube.com/watch?v=-WBHNFAB0OE)
     * [ralphton - 이호연 AI Agent 발표 자료: 하네스 엔지니어링](https://drive.google.com/file/d/11fb168Wg5ETyfYcSITi3jkhpkqHAORwN/view)
     * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
@@ -4516,6 +4524,8 @@ Artificial Intelligence
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
   * [Codex security is now in research preview | OpenAI](https://openai.com/ko-KR/index/codex-security-now-in-research-preview/)
   * [Introducing OpenAI Privacy Filter | OpenAI](https://openai.com/ko-KR/index/introducing-openai-privacy-filter/)
+  * [Codex 가 무거워지기 시작했다면 이 글을 한 번 보세요 (로그·세션 정리) | Jeongmin Lee](https://kr.linkedin.com/posts/jyoung105_codex-%EA%B0%80-%EB%AC%B4%EA%B1%B0%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%9D%B4-%EA%B8%80%EC%9D%84-%ED%95%9C-%EB%B2%88-%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%98%EC%9D%8C%EC%97%94-codex-activity-7456882377819279360-LfSm)
+    * 8GB 로그·비활성 채팅 누적이 체감 속도 저하 원인. 정리 후 10배 빨라짐. 핵심: 채팅은 실행용, 기억은 handoff 문서. 8단계 최적화 + Codex 팀 Tibo의 skill 제공
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
     * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
     * [Codex in Claude Code 사용해보기 | reach_vb on X](https://x.com/reach_vb/status/2038671858862583967)
