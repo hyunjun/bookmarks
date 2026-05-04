@@ -2890,6 +2890,7 @@ App
       * MCP 프로토콜로 문서 변환 워크플로우 연동. 로컬/컨테이너/원격 배포 지원
   * [rhwp: Open-source HWP/HWPX viewer and editor built with Rust and WebAssembly](https://github.com/edwardkim/rhwp)
     * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
+    * [HWP Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=edwardkim.rhwp-vscode)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
