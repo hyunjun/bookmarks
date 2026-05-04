@@ -410,6 +410,7 @@ Android
 * [Pluu Dev - Deprecate Kotlin Android Extensions의 준비](http://pluu.github.io/blog/android/2020/11/08/deprecated-kotlin-extensions/)
 * [Animation Drawable 이용해서 애니메이션 Android에서 구현하기](https://developer88.tistory.com/237)
 * [Android-MCP: MCP Server for interacting with Android Devices](https://github.com/CursorTouch/Android-MCP)
+* [android-reverse-engineering-skill: Claude Code skill to support Android app's reverse engineering](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
 * [AndroidRaptor: Stealth Android Remote Manager](https://github.com/elieser9001/AndroidRaptor)
 * [android-template](https://github.com/vidinoti/android-template)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
