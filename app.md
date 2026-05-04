@@ -2875,6 +2875,7 @@ App
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * HWP
+  * [오픈소스 HWP/HWPX 처리 도구 목록 | GeekNews](https://news.hada.io/topic?id=28582)
   * [HOP (HOP is Open HWP) — 오픈소스 HWP/HWPX 뷰어·에디터](https://golbin.github.io/hop)
     * [백건우 - 오픈소스 아래한글 데스크톱 버전 | Facebook](https://www.facebook.com/marupress/posts/pfbid02Cg6SEzTvjTMQwVLMQTyPFR1myMYcYzV19qrZjSr5m17ntjKk9BLCCqrw2acvHiXTl)
     * rhwp 엔진 기반 크로스플랫폼(macOS/Windows/Linux) HWP/HWPX 편집기. Homebrew 설치, macOS 서명/공증. 무료, 한컴 로열티 없음
