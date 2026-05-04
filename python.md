@@ -1034,6 +1034,8 @@ Python
   * [자동 Garbage Collection 주기](https://weicomes.tistory.com/277)
   * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
   * [Do you know how python cleanses itself? | LinkedIn](https://www.linkedin.com/pulse/do-you-know-how-python-cleanses-itself-shaleen-taneja/) reference count
+  * [Reverting the incremental GC in Python 3.14 and 3.15 - discuss.python.org](https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014)
+    * 3.14 incremental GC가 프로덕션 메모리 압박 유발해 3.13의 generational GC로 롤백
   * [heapsy: Python Heap Tracer](https://github.com/Ashon/heapsy)
     * [Prometheus와 Python GC 모듈을 이용해 동작중인 애플리케이션의 힙 사용량 측정해 본 이야기 | Lifestack](https://ashon.github.io/blog/2020/08/24/python-heap-exporter.html)
 * generator
@@ -1400,6 +1402,8 @@ Python
     * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
       * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
       * 10,000,000개 memory 약 4.1GB, 입력 41m정도 소요
+  * [Cutting Python Web App Memory Over 31% | Michael Kennedy](https://mkennedy.codes/posts/cutting-python-web-app-memory-over-31-percent/)
+    * async workers, import isolation, Raw+DC database pattern, disk caching으로 3.2GB 감소
   * [Profiling Python in Production](https://www.nylas.com/blog/performance)
   * [PUDB 콘솔 디버거](http://mcchae.egloos.com/10918232)
   * [profiling - An interactive continuous Python profiler](https://github.com/what-studio/profiling)
@@ -1413,6 +1417,7 @@ Python
   * [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)
   * [Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
     * [파이썬 프로그래머가 알아야 할 주요 성능 수치 | GeekNews](https://news.hada.io/topic?id=25516)
+  * [Python: introducing profiling-explorer | Adam Johnson](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/)
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
     * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
   * [Prodfiler](https://prodfiler.com/)
@@ -1861,6 +1866,7 @@ Python
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 * [Convert Text into Audio using Python - YouTube](https://www.youtube.com/watch?v=7x0QZsev-4A)
 * [PyCon KR 2023 Python으로 전자음악 작곡하기 유태영 - YouTube](https://www.youtube.com/watch?v=1rPCcKp9B78)
+* [awesome-python-audio-science: Curated list of Python audio science, scientific audio research, MIR, DSP, ML audio, datasets, notebooks, and creator-audio tooling](https://github.com/GareBear99/awesome-python-audio-science)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [kord: a music theory development framework in python](https://github.com/synestematic/kord)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
@@ -2361,6 +2367,7 @@ Python
   * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
   * [Are you writing print() statements to debug your Python code? | by Pradeepa Gollapalli | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)
   * [BayPiggies September 2022: Debugging with ipdb - YouTube](https://www.youtube.com/watch?v=_G7bNMOhwWE)
+  * [Using a ~/.pdbrc file to customize the Python Debugger | Trey Hunner](https://treyhunner.com/2026/04/customizing-pdb-with-pdbrc/)
 * PyCharm
   * [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
   * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
@@ -4797,8 +4804,11 @@ Python
 * [Wheel Next + Packaging PEPs | Talk Python #544](https://talkpython.fm/episodes/show/544/wheel-next-packaging-peps)
   * [pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나 | GeekNews](https://news.hada.io/topic?id=28490)
   * NVIDIA·Astral·Quansight 협업 Wheel Next 이니셔티브. 하드웨어 자동 감지·최적화 바이너리 다운로드, PyTorch 휠 900MB→200~250MB
+* [현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo](https://velog.io/@fru1tworld/%ED%98%84%EB%8C%80%EC%A0%81-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-%EB%B6%84%EC%84%9D-uv-pnpm-Gradle-Cargo)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
+* [fyn: A fork of uv for fast Python package management](https://duriantaco.github.io/fyn/)
+  * [fyn: Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows](https://github.com/duriantaco/fyn)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
@@ -5120,6 +5130,7 @@ Python
 * [Girok - The most powerful CLI task manager](https://github.com/noisrucer/girok)
 * [npyscreen](https://npyscreen.readthedocs.io/)
 * [picotui - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project. https://github.com/pfalcon/pycopy ](https://github.com/pfalcon/picotui)
+* [prettytable: Display tabular data in a visually appealing ASCII table format](https://github.com/prettytable/prettytable)
 * [prompt-toolkit](https://github.com/prompt-toolkit) Tools for building command line applications in Python
   * [ptpython: A better Python REPL](https://github.com/prompt-toolkit/ptpython)
 * [PyInquirer - A Python module for common interactive command line user interfaces](https://github.com/CITGuru/PyInquirer)
