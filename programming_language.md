@@ -264,6 +264,9 @@ Programming Language
 * [다른 언어로 성장하기](https://jojoldu.tistory.com/687)
 * [What Counts as a Programming Language? • Chelsea Troy • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=cz2oPxIU3u8)
 * [난해한 프로그래밍 언어 만들어보기 | kciter.so](https://kciter.so/posts/crafting-esolang)
+* [The seven programming ur-languages | madhadron](https://madhadron.com/programming/seven_ur_languages.html)
+  * [프로그래밍의 일곱 가지 원형 언어 (2022) | GeekNews](https://news.hada.io/topic?id=28703)
+  * ALGOL, Lisp, ML, Self, Forth, APL, Prolog가 7가지 원형. 반복·재귀·구성 방식에 따라 분류. 익숙한 원형 기반 새 언어는 쉽지만 낯선 원형은 어렵다
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
