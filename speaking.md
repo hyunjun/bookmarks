@@ -34,3 +34,5 @@ Speaking
 * [목소리 180도 바꾼 아나운서가 알려주는 목소리 좋아지는 법 | 고급스러운 이미지 만들기 - YouTube](https://www.youtube.com/watch?v=ghMqRG_9gqw)
   * [목소리 좋아지는 법: 아나운서의 고급스러운 발성 연습 팁](https://livewiki.com/ko/content/voice-transformation-tips-announcer)
 * [품격 있는 목소리는 이렇게 나온다🗣️ - YouTube](https://www.youtube.com/shorts/erGVwMlbq2s)
+* [머릿속이 하얘질 때 꺼내는 3단계 말하기 공식, 맥킨지 컨설턴트들이 쓰는 말하기 구조 | 이영선 교수 - YouTube](https://youtube.com/watch?v=D-vqQch1MLg)
+  * 긴장=흥분 해석 전환(마인드셋), 시선 전환(팀에 필요한 관점), SCR(Situation→Complication→Resolution) 구조, 3초 침묵
