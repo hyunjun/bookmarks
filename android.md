@@ -310,6 +310,9 @@ Android
 * [구글, 크롬 OS처럼 안드로이드에서 리눅스 앱 실행 준비 중 | GeekNews](https://news.hada.io/topic?id=17206)
 * [Android 폰에 웹서버 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/925)
 * [Android XR: AI 기반의 새로운 확장 현실 플랫폼 | GeekNews](https://news.hada.io/topic?id=18244)
+* [Android CLI and skills: Build Android apps 3x faster using any agent | Android Developers Blog](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
+  * [Android CLI: 어떤 에이전트로든 Android 앱을 3배 빠르게 빌드 | GeekNews](https://news.hada.io/topic?id=28615)
+  * 터미널 기반 Android CLI. Gemini, Antigravity, Claude Code, Codex 등과 연동. Android Studio 외부에서도 최신 권장 패턴·모범 사례 적용
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
@@ -406,6 +409,7 @@ Android
 * [Android 2018 용 산타 트래커의 소스 코드 공개합니다](https://developers-kr.googleblog.com/2019/04/google-releases-source-code-of-santa.html)
 * [Pluu Dev - Deprecate Kotlin Android Extensions의 준비](http://pluu.github.io/blog/android/2020/11/08/deprecated-kotlin-extensions/)
 * [Animation Drawable 이용해서 애니메이션 Android에서 구현하기](https://developer88.tistory.com/237)
+* [Android-MCP: MCP Server for interacting with Android Devices](https://github.com/CursorTouch/Android-MCP)
 * [AndroidRaptor: Stealth Android Remote Manager](https://github.com/elieser9001/AndroidRaptor)
 * [android-template](https://github.com/vidinoti/android-template)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
