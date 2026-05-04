@@ -259,6 +259,8 @@ Writing
   * [30분만 투자하면 사용하는 API 문서 검색 엔진, Doxygen 외부 검색 설정하기 - 넷마블 기술 블로그](https://netmarble.engineering/doxygen-nginx-fcgiwrap/)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
+* [Great Docs — An easy-to-use documentation site generator for Python packages](https://posit-dev.github.io/great-docs/)
+  * [great-docs: Documentation sites for Python packages: start simple, go deep](https://github.com/posit-dev/great-docs)
 * [hermes: A document management system](https://github.com/hashicorp-forge/hermes)
   * [Introducing Hermes, An Open Source Document Management System](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system)
     * HashiCorp 문서 관리 시스템 Hermes 공개
