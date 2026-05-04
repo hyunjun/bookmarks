@@ -263,6 +263,9 @@ Data Visualization
   * [뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper' | 요즘IT](https://yozm.wishket.com/magazine/detail/2011/)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
+* [Evidence - Business Intelligence as Code](https://evidence.dev/)
+  * [evidence: Business intelligence as code: build fast, interactive data visualizations in SQL and markdown](https://github.com/evidence-dev/evidence)
+  * 드래그앤드롭 BI 도구의 코드 기반 오픈소스 대안. SQL과 마크다운으로 인터랙티브 데이터 제품 제작
 * [flourish.studio](https://flourish.studio/) Beautiful and easy data visualization and storytelling
 * [Graphic Walker — Open-source Tableau-style visual analytics](https://kanaries.net/graphic-walker)
   * [graphic-walker](https://github.com/Kanaries/graphic-walker)
