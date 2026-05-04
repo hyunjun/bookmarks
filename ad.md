@@ -96,6 +96,7 @@
 # Facebook
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
 * [페이스북 CBO 캠페인 4가지 필수 전략](https://www.digiocean.co.kr/p/blog/?p=dgq-facebook-cbo-4-strategy)
+* [facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server)
 
 # Google
 * [Markov chain analysis  |  Ads Data Hub  |  Google Developers](https://developers.google.com/ads-data-hub/guides/markov)
