@@ -5151,6 +5151,7 @@ Artificial Intelligence
   * Claude Code/Codex/Cursor/Gemini/Qwen 에이전트를 격리된 컨테이너 워크트리에서 병렬 실행. 네트워크/샌드박스 제어, MCP 서버 기능
   * [iPhone으로 Mac의 Codex를 제어한다 - 로컬 퍼스트 원격 개발 도구 Remodex 완전 정리](https://digitalbourgeois.tistory.com/2890)
 * [Ruflo: Enterprise-grade AI agent orchestration platform for Claude Code](https://github.com/ruvnet/ruflo)
+  * [Ruflo, Claude Code 멀티 에이전트 오케스트레이션 :: ROBOCO](https://roboco.io/posts/ruflo-claude-code-multi-agent-orchestration/)
   * 100+ 전문 에이전트 스웜 조율, 자기학습 라우팅, 합의 기반 의사결정, 벡터 메모리. API 비용 최대 85% 절감
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
