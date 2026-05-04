@@ -2891,6 +2891,7 @@ App
   * [rhwp: Open-source HWP/HWPX viewer and editor built with Rust and WebAssembly](https://github.com/edwardkim/rhwp)
     * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
     * [HWP Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=edwardkim.rhwp-vscode)
+    * [rhwp - HWP 문서 뷰어 & 에디터 - Chrome 웹 스토어](https://chromewebstore.google.com/detail/rhwp-hwp-%EB%AC%B8%EC%84%9C-%EB%B7%B0%EC%96%B4-%EC%97%90%EB%94%94%ED%84%B0/pgakpjflombjmehnebnbpnalhegaanag?pli=1)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
