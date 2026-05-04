@@ -1638,6 +1638,9 @@ Artificial Intelligence
   * [(1) 배휘동 - Firebase Studio 찍먹해본 감상 4월 10일 Google에서 Firebase Studio(이하... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid033woQjcDNtRsAJTgsJmp3aevozVeoq1AWjM8geUw9sQTySMhc6WdGGjqk8kjqTG6ql)
   * [Gemini2.5가 탑재된 구글 파이어베이스를 사용해 보니, 구글도 Vibe Coding에 큰 역할을 할것 같습니다](https://www.linkedin.com/posts/duckjungkim_gemini25%EA%B0%80-%ED%83%91%EC%9E%AC%EB%90%9C-%EA%B5%AC%EA%B8%80-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EB%8B%88-%EA%B5%AC%EA%B8%80%EB%8F%84-vibe-activity-7316446139858202624-FoT-/)
   * [구글의 새로운 바이브 코딩 도구 FireStudio 빠르게 알아보기!! - YouTube](https://www.youtube.com/watch?v=kJ59oBVnUbc)
+* [Flipbook — 모델에서 직접 라이브 스트리밍되는 웹사이트](https://flipbook.page/)
+  * [Flipbook - 모델에서 직접 라이브 스트리밍되는 웹사이트 | GeekNews](https://news.hada.io/topic?id=28820)
+  * 실시간 온디맨드 생성. 모든 페이지를 이미지로 만들고 클릭 시 더 깊은 탐색 화면 생성. HTML/입력 필드 없이 텍스트까지 이미지 모델이 픽셀로 렌더링
 * [Fluid - private AI assistant for Mac](https://getfluid.app/)
 * [Gemini - Google DeepMind](https://deepmind.google/technologies/gemini/#introduction)
   * [Introducing Gemini: Google’s most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
@@ -2789,6 +2792,17 @@ Artificial Intelligence
 * [쿼리곰: 사내 AI 봇이 "없으면 안 되는 도구"가 되기까지 | 김용현](https://www.linkedin.com/posts/%EA%B9%80%EC%9A%A9%ED%98%84-hulkong_%EC%BF%BC%EB%A6%AC%EA%B3%B0-%EC%82%AC%EB%82%B4-ai-%EB%B4%87%EC%9D%B4-%EC%97%86%EC%9C%BC%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EA%B0%80-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-share-7453404890099388416-iZss)
   * 13년치 기억을 가진 AI — Knowledge DB로 인프라 운영의 "맥락"을 해결한 기술 블로그 후속작. 사내 AI 봇이 필수 도구가 된 과정
 * [AI 자동화 시대, CIO가 다시 설계해야 할 '업무 방식'의 본질 | CIO](https://www.cio.com/article/4159896/ai-%EC%9E%90%EB%8F%99%ED%99%94-%EC%8B%9C%EB%8C%80-cio%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%97%85%EB%AC%B4-%EB%B0%A9%EC%8B%9D%EC%9D%98.html)
+* [칼럼 | 바이브 코딩의 위기…왜 '투 트랙' 엔지니어링 전략이 필요한가 | CIO](https://www.cio.com/article/4157765/)
+* [칼럼 | AI ROI의 진짜 변수는 기술 아닌 '조직 설계' | CIO](https://www.cio.com/article/4161724/)
+* ["프롬프트 교육만으론 안 돼" 기업과 직원의 'AI 레디' 변화 | ITWorld](https://www.itworld.co.kr/article/4161137/)
+* [개발자 줄이고 AI 도입…기술 부채와 비용 폭증 우려해야 | ITWorld](https://www.itworld.co.kr/article/4157594/)
+* [코드를 쓰지 않는 시대, 개발자는 어디로 가는가 | ITWorld](https://www.itworld.co.kr/article/4157575/)
+* [When AI Becomes Your On-Call Teammate: Inside Wix's AirBot That Saves 675 Engineering Hours a Month](https://www.wix.engineering/post/when-ai-becomes-your-on-call-teammate-inside-wix-s-airbot-that-saves-675-engineering-hours-a-month)
+  * Wix Data Engineering의 3,500+ Airflow 파이프라인 관리. AirBot이 on-call을 보조해 월 675 엔지니어링 시간 절감
+* [비개발자가 겪은 바이브 코딩의 현실 | 요즘IT](https://yozm.wishket.com/magazine/detail/3704/)
+* [martinfowler.com Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html)
+* [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
+  * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3950,6 +3964,8 @@ Artificial Intelligence
   * [How To Make Digital Products Using Claude AI 2.0](https://digitalwealthwithsa.gumroad.com/l/claudeai)
   * [I Left My Desk… But My System Kept Coding (Claude Remote Control) - YouTube](https://www.youtube.com/watch?v=6hssXvkijxQ)
   * [Claude Code Remote Control — 로컬 세션을 어디서든 이어받는 공식 기능 출시 | GeekNews](https://news.hada.io/topic?id=26977)
+  * [Claude Code Routines 공개 | GeekNews](https://news.hada.io/topic?id=28533)
+    * 일정, API 호출, GitHub 이벤트로 자동 실행되는 클라우드 기반 코드 자동화. Anthropic 인프라 상주, 노트북 꺼져 있어도 실행
     * Pro/Max 구독자 대상 리서치 프리뷰. 코드는 로컬에서 실행되며 브라우저/모바일 앱으로 실시간 동기화. 세션당 1개 원격 연결, 로컬 터미널 종료 시 세션 종료
   * [Claude Code에 Auto-Memory 기능 추가 | GeekNews](https://news.hada.io/topic?id=27046)
     * CLAUDE.md(사용자 가이드라인)와 MEMORY.md(Claude 자체 학습 기록) 분리. 세션 간 프로젝트 컨텍스트·디버깅 경험·선호 접근법을 자동 저장/검색. `/memory` 명령으로 토글
@@ -4027,6 +4043,7 @@ Artificial Intelligence
     * [Claude Code 및 Codex 설정 변경으로 토큰을 절약하는 방법 | GeekNews](https://news.hada.io/topic?id=28697)
     * Opus 4.7 토큰 증가 대응. 캐싱 TTL 5분→1시간 설정, 모델 선택 튜닝으로 효율 개선
   * [GitHub Projects That Reduce Token Usage in Claude Code by 60-90% lucas_flatwhite on X (tweet 2046170220767670675)](https://x.com/lucas_flatwhite/status/2046170220767670675)
+  * [Using Claude Code: Session Management & 1M Context trq212 on X (tweet 2044548257058328723)](https://x.com/trq212/status/2044548257058328723)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
@@ -4389,6 +4406,7 @@ Artificial Intelligence
       * [Stop Using The Ralph Loop Plugin | tobyilee](https://www.linkedin.com/posts/tobyilee_stop-using-the-ralph-loop-plugin-activity-7438021804327145473-lBLZ)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
     * [AGENT THREADS: How to SHIP like Boris Cherny. Ralph Wiggum in Claude Code - YouTube](https://www.youtube.com/watch?v=-WBHNFAB0OE)
+    * [ralphton - 이호연 AI Agent 발표 자료: 하네스 엔지니어링](https://drive.google.com/file/d/11fb168Wg5ETyfYcSITi3jkhpkqHAORwN/view)
     * [how-to-ralph-wiggum: A guide to Ralph Wiggum methodology](https://github.com/ghuntley/how-to-ralph-wiggum)
     * [ralph: The Original RALF Loop Implementation](https://github.com/snarktank/ralph)
   * [refactoring-ui-skill: Agent skill for professional UI design based on Refactoring UI](https://github.com/jaywilburn/refactoring-ui-skill)
