@@ -2916,6 +2916,8 @@ AWS
   * [Mountpoint for Amazon S3 정식 출시 – 오픈 소스 기반 파일 시스템 클라이언트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
 * [s3-experiments: Amazon S3를 5가지 다른 방식으로 활용하는 실험](https://github.com/roboco-io/s3-experiments)
   * S3를 KV Store, Event Store, Litestream+SQLite RDBMS, Athena 서버리스 RDBMS, File I/O로 활용. CDK 배포, 벤치마크 포함
+  * [s3-experiments/docs/research/s3-files.md - S3 Files 성능 실험 | Dohyun Jung](https://www.linkedin.com/posts/dohyun-jung-b66b8262_s3-experimentsdocsresearchs3-filesmd-activity-7456983073449058304-8RXv)
+    * S3 Files 벤치마크: AWS 마케팅 sub-1ms 반박, 4 KiB 랜덤 읽기 p50 5.8~7.2ms(6배). ML 워크로드에서 EFS 대비 5배 순차읽기·10배 낮은 레이턴시. SageMaker 트레이닝 컨테이너에는 구조적 제약
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
