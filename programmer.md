@@ -443,6 +443,9 @@ Programmer
   * [한글더빙 개발자는 결국 이렇게 살아남습니다 with 인공지능의 스승 앤드류 응 - YouTube](https://www.youtube.com/watch?v=vENN6-d_3AQ)
     * [2026 코딩 개발자 생존법: AI 시대의 기회, 동료, 그리고 성장의 기술 (앤드류 응)](https://livewiki.com/ko/content/2026-coding-developer-survival)
 * [개발자는 AI에게 대체될 것인가](https://toss.tech/article/44377)
+* [AI 코딩 시대, 더이상 성장하지 않는 개발자들 | evan-moon](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
+  * [AI 코딩 시대, 성장이 멈추는 개발자의 뇌에서 일어나는 일 | GeekNews](https://news.hada.io/topic?id=28653)
+  * AI를 잘 쓰는 핵심은 출력물 품질을 판단·교정하는 능력인데, AI에 의존할수록 이 능력이 약화. Bjork의 '바람직한 어려움' 이론, 인출 연습 효과
 * ISMS-P 심사원 자격증 [미리미리 노후 대비 해 놓자구요 😎 #개발자노후대비 - YouTube](https://www.youtube.com/watch?v=lN6Y5VM3YkI)
 
 # Book
