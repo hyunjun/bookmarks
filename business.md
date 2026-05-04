@@ -1168,6 +1168,7 @@ Business
 * [Skills-based organizations | Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/talent/organizational-skill-based-hiring.html?ref=blog.comento.kr)
   * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
 * [“성과가 떨어지면 구조를 의심하라” IT 조직의 재편이 필요한 7가지 신호 | CIO](https://www.cio.com/article/4130532/%EC%84%B1%EA%B3%BC%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%A9%B4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%9D%98%EC%8B%AC%ED%95%98%EB%9D%BC-it-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%AC%ED%8E%B8.html)
+* [플랫폼 조직을 만들고 성장시키며 정의한 12가지 | 박미정](https://drive.google.com/file/d/1uCAu0e3X7o2Aeq2aCaHe8vYeGJy3vHSJ/view)
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
