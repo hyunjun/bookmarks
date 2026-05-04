@@ -1288,6 +1288,7 @@ Git
   * [고수들이 꿀빠는 git 명령 - YouTube](https://www.youtube.com/watch?v=nV9NW899zE8)
   * [Git Worktree로 여러 피처 동시에 개발하기 | AI 코딩 시대의 필수 스킬 - YouTube](https://www.youtube.com/watch?v=JtA2JeqlTnI)
     * [Git Worktree: AI 시대, 여러 기능을 동시에 개발하는 효율적인 방법 | 완벽 가이드](https://livewiki.com/ko/content/git-worktree-ai)
+  * [git-worktree-runner: Bash-based Git worktree manager with editor and AI tool integration](https://github.com/coderabbitai/git-worktree-runner)
 
 # Conference
 * [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
@@ -1409,6 +1410,9 @@ Git
   * [Do more with GitHub through GitHub CLI & what is new in GitHub CLI 2.0! - YouTube](https://www.youtube.com/watch?v=4rZrw1s9AbA)
   * [gh-dash: gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI](https://github.com/dlvhdr/gh-dash)
     * [GH-dash: A Beautiful CLI Dashboard for GitHub](https://morioh.com/p/95cb4777d8a6)
+  * [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+    * [GitHub Stacked PRs | GeekNews](https://news.hada.io/topic?id=28508)
+    * 대규모 코드 변경을 작고 검토 가능한 PR 단위로 분할·순차 관리. gh stack CLI, 스택 맵 시각화
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghgrab: GitHub repository data grabber](https://ghgrab.readthedocs.io/)
   * [ghgrab](https://github.com/abhixdd/ghgrab)
@@ -1603,6 +1607,9 @@ Git
   * [How I improved my programming workflow with Lazygit - YouTube](https://www.youtube.com/watch?v=Ir3WD7a4MwI)
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
   * [Emacsair! Magit, the magical Git interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
+* [manyana — A Coherent Vision for the Future of Version Control | Bram Cohen](https://bramcohen.com/p/manyana)
+  * [manyana](https://github.com/bramcohen/manyana)
+* [memento: Keep track of codex sessions per commit](https://github.com/mandel-macaque/memento)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Oh My Git!](https://ohmygit.org/) An open source game about learning Git!
 * Perforce [Enterprise DevOps Tools | Perforce Software](https://www.perforce.com/)
@@ -1632,6 +1639,8 @@ Git
   * [메타, 대규모 소스코드 관리 시스템 오픈소스화 - 테크레시피](https://techrecipe.co.kr/posts/47513)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
+* [sem — Semantic version control](https://ataraxy-labs.github.io/sem/)
+  * [sem: Entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents](https://github.com/ataraxy-labs/sem)
 * [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
   * [Reverse Commit SourceTree 에서 되돌리는 Git](https://developer88.tistory.com/362)
 * [Stacked Git – an application for managing Git commits as a stack of patches](https://stacked-git.github.io/)
