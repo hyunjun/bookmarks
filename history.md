@@ -282,6 +282,8 @@ History
 * [여진인 퉁두란은 왜 '이지란'이 되었나](https://news.v.daum.net/v/20181129161226250)
 * [상은 통 크게 주고 벌은 가려서 내린다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42423) 현종
 * [정몽주가 고려 최고 충신이 되기까지, 몰랐던 사실 - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002801363)
+* [나옹스님이 입적하기 직전에 무슨일이 있었을까? | 석현장](https://www.facebook.com/hyunjang0/posts/pfbid02rAUMfhGrojXL3k91HJegCWp8jV9qayfiKGpzby5H4y4gpYL53HjYhcPq36Q6R5s8l)
+  * 1376년 회암사 문수회 사건. 회암사 262칸 중창 낙성 법회가 최영 등 유학자 반대로 강제 해산, 나옹은 영원사로 이배되던 중 여주 신륵사에서 입적. 지공→나옹→무학→함허→신미→김시습으로 이어지는 법맥 추적
 
 ## 고구려
 * [을지문덕은 왜 사라졌을까... 실종 전 행적 따져보니 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002665504)
