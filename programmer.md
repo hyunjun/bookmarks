@@ -622,4 +622,7 @@ Programmer
   * They also documented accomplishments in a format the manager cared about and connected this to conversations with the manager to work toward a promotion
 * [Why Senior Engineers Let Bad Projects Fail - Lalit Maganti](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
   * [왜 시니어 엔지니어들은 나쁜 프로젝트를 그냥 두는가 | GeekNews](https://news.hada.io/topic?id=25884)
+* [Drunk Post: Things I've Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+  * [시니어 엔지니어로서 배운 것들 (2021) | GeekNews](https://news.hada.io/topic?id=28787)
+  * 10년 경력 데이터 엔지니어. 기술 스택보다 각 분야 10~20가지 핵심 원칙이 중요, 커리어 성장 최고 방법은 이직
 * [path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
