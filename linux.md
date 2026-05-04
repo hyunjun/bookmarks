@@ -1223,6 +1223,8 @@ Linux
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
+* [CLI 개발 생산성 향상 오픈소스 도구들 | HoJin Ha](https://kr.linkedin.com/posts/mimul_cli-%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8F%84%EA%B5%AC%EB%93%A4-1-zoxide-%EB%B9%A0%EB%A5%B8-%EC%9D%B4%EB%8F%99-activity-7456884368612024320-fJhP)
+  * zoxide(이동), fd(파일 탐색), fzf(퍼지 파인더), bat(프리뷰), neovim, ripgrep, lazygit+delta, tmux, direnv
 * [the world-wide-web, right from your terminal - YouTube](https://www.youtube.com/watch?v=51-wk_F0SfE)
   * [awesome-console-services: Curated list of awesome console services (HTTP, SSH, Telnet)](https://github.com/chubin/awesome-console-services)
   * [Browsh: Modern text-based browser with HTML5/CSS3/JS/video/WebGL](https://www.brow.sh/)
