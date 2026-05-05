@@ -405,6 +405,8 @@ Network
   * [ophiuchi-desktop: A local https proxy server using docker as backend](https://github.com/apilylabs/ophiuchi-desktop)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
+* [pi-hole: A black hole for Internet advertisements](https://github.com/pi-hole/pi-hole)
+  * 네트워크 전체 광고·트래커 차단 DNS 싱크홀
 * Portmaster [Safing Portmaster](https://safing.io/portmaster/)
   * [Portmaster - 오픈소스 네트워크 모니터 & 방화벽 | GeekNews](https://news.hada.io/topic?id=5676)
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
