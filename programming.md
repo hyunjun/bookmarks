@@ -2934,6 +2934,9 @@ Programming
 * [Domain analysis for microservices - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis)
   * [DDD는 전략적 패턴을 지나치게 소홀히 여기는 실수와 잘못 이해하는 실수를 반복하고 있다](https://www.linkedin.com/posts/fupfin_domain-analysis-for-microservices-azure-activity-7369221126998118401-1GKf)
   * "일반적인 원칙으로, 마이크로 서비스는 집합체 하나 보다 작아서는 안되고 한정된 맥락보다 커서도 안된다(As a general principle, a microservice should be no smaller than an aggregate and no larger than a bounded context)."
+* [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | Mimul Tech blog](https://www.mimul.com/blog/ai-coding-style/)
+  * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | HoJin Ha](https://kr.linkedin.com/posts/mimul_%EC%96%B8%EC%96%B4%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A4%91%EC%8B%AC-%EC%BD%94%EB%94%A9-%EC%9B%90%EC%B9%99%EA%B3%BC-%EC%8B%A4%EC%B2%9C%EB%B2%95-mimul-tech-activity-7455892940855504896-ZNNG)
+  * AI가 코드 절반 이상을 작성하는 시대. 변경 가능성 우선, 도메인 언어를 코드로 정확히 번역, 작은 단위의 의도 명확화, 중복 발생 후 추상화. 초기 작성보다 코드 건강 유지가 중요
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
