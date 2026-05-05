@@ -5203,6 +5203,8 @@ Programming
 * [A CI/CD pipeline is a tool that automates the process of building, testing, and deploying software](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7241472242054828033-nGVp/)
 * [CICD 세미나 - YouTube](https://www.youtube.com/watch?v=FzDAxyftYhk) CI/CD가 궁극적으로 뭘 하려는건지 설명
 * [How Big Tech Ships Code to Production - YouTube](https://www.youtube.com/shorts/551lh10g_go)
+* [채널톡 메인 백엔드 서버 CI 개선기 | Channel Talk Tech Blog](https://channel.io/ko/team/blog/articles/backend-ci-refactoring-73fca77d)
+  * CI 실행 시간 36.6분→15분 38초. DB 공유 상태 제거로 병렬 테스트, 반복 준비 단계 제거, 동적 작업 분배, 입력 해시 기반 캐싱
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
