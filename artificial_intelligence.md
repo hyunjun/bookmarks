@@ -2833,6 +2833,8 @@ Artificial Intelligence
   * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화
 * [현관문에도 얼굴이 있다: 배송 완료 사진 기반 On-device 오배송 탐지 시스템 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/image-based-misdelivery-detection)
   * 배송 완료 사진 임베딩 유사도로 오배송 탐지. On-device 추론으로 서비스에 적용
+* [“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39608)
+  * MIT 출신 창업진이 단백질 언어모델 기반 노코드 신약 개발 플랫폼 오픈소스 공개
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2993,6 +2995,9 @@ Artificial Intelligence
 * [Claude Mythos Preview의 사이버보안 능력 평가 | Anthropic Red Team](https://red.anthropic.com/2026/mythos-preview/)
   * [Claude Mythos Preview의 사이버보안 능력 평가 | GeekNews](https://news.hada.io/topic?id=28320)
   * Mythos Preview가 주요 OS/브라우저에서 제로데이 취약점 자율 발견. OpenBSD 27년·FFmpeg 16년 된 버그 등 수천 개 고위험 취약점 식별. 공개 배포 않고 Project Glasswing 출범
+* [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+  * [바이브 코딩으로 만든 환자 관리 앱의 보안 참사 | GeekNews](https://news.hada.io/topic?id=28541)
+  * 의료기관 직원이 AI 코딩 에이전트로 환자 관리 시스템 제작, 환자 데이터가 인터넷에 암호화 없이 노출
 * [Adversarial AI: Understanding the Threats to Modern AI Systems | The JetBrains Qodana Blog](https://blog.jetbrains.com/qodana/2026/04/adversarial-ai-threats/)
   * Adversarial AI 2분류(AI 무기화 vs AI 시스템 공격), 3공격면(알고리즘·생성AI 안전장치·공급망). 데이터 포이즈닝(Tay), 회피 공격(자율주행 정지 표지판), 모델 탈취(Alpaca vs Llama) 사례
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
