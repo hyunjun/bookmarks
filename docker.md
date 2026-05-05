@@ -2136,6 +2136,8 @@ Docker
 * [쿠버네티스 웨비나 AI-Driven SRE: AI와 함께 만드는 쿠버네티스 운영 표준ㅣ조훈 CNCF Ambassador - YouTube](https://www.youtube.com/watch?v=VhmC-XqTf1k)
   * [talks/Byline-Network/2026-ai-era-k8s-cloud-native at main · sysnet4admin/talks](https://github.com/sysnet4admin/talks/tree/main/Byline-Network/2026-ai-era-k8s-cloud-native)
   * [2주 걸리던 SRE 업무, AI 동료와 하니 이틀로 줄어 – 바이라인네트워크](https://byline.network/2026/04/23-592/)
+* [4계층 문서 체계로 만드는 AI Driven 쿠버네티스 운영 표준 | IT 인프라 엔지니어 그룹 Facebook](https://www.facebook.com/share/p/18n4t4WyYM/)
+  * AI 시대 인프라 문서는 사람이 읽는 문서가 아니라, AI가 실행하는 문서다
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
