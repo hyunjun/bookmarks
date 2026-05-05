@@ -1289,6 +1289,9 @@ Artificial Intelligence
 * [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
   * 하네스 엔지니어링은 gitignore와 유사한 역할. 무엇을 저장하지 말아야 할지 지정하는 규칙이 없으면 쓸모없는 파일이 쌓여 제대로 사용 불가
 * [Thin Harness, Thick Skills.. The Real Reason for AI Productivity Gaps lucas_flatwhite on X (tweet 2045884392699199975)](https://x.com/lucas_flatwhite/status/2045884392699199975)
+* [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
+  * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
+  * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
 * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
@@ -2743,6 +2746,11 @@ Artificial Intelligence
   * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
   * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
 * [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
+* [The Biggest Vertical AI Markets Are Hiding in Plain Sight | Sapphire Ventures](https://sapphireventures.com/blog/the-biggest-vertical-ai-markets-are-hiding-in-plain-sight/)
+  * [가장 큰 버티컬 AI 시장은 눈에 보이는 곳에 숨어 있다 | GeekNews](https://news.hada.io/topic?id=28929)
+  * 파편화·운영 복잡 산업일수록 버티컬 AI의 방어벽 구축에 유리. 규제·레거시·예외 처리 얽힌 워크플로 침투가 핵심
+* [AI 에이전트가 우리 프로덕션 데이터베이스를 삭제했다 | GeekNews](https://news.hada.io/topic?id=28927)
+  * Railway GraphQL volumeDelete 한 호출로 프로덕션 DB+볼륨 백업 동시 삭제. staging 작업 중 credential mismatch 처리하려다 9초 만에 파괴. API 토큰이 무관한 파일에서 노출된 것이 원인
 * [문규민 - AI와 관련하여 시뮬레이션은 구현이 아니다 | Facebook](https://www.facebook.com/share/14dFp1z63D6/)
   * AI 시뮬레이션 vs 구현 논쟁. "시뮬레이션이 충분히 정교해지면 구현이다"라는 반론에 대한 철학적 검토
 * [AI와 협업하는 조직으로의 여정 | Arawn Park](https://speakerdeck.com/arawn/aiwa-hyeobeobhaneun-jojigeuroyi-yeojeong)
@@ -2973,6 +2981,8 @@ Artificial Intelligence
   * Adversarial AI 2분류(AI 무기화 vs AI 시스템 공격), 3공격면(알고리즘·생성AI 안전장치·공급망). 데이터 포이즈닝(Tay), 회피 공격(자율주행 정지 표지판), 모델 탈취(Alpaca vs Llama) 사례
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
+* [deep-eye: AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
+  * OpenAI/Grok/OLLAMA/Claude 멀티 AI 프로바이더 통합. 자동 버그 헌팅, 지능형 페이로드 생성, 프로페셔널 리포팅
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
@@ -4464,9 +4474,10 @@ Artificial Intelligence
   * [stop-slop: A skill file for removing AI tells from prose](https://github.com/hardikpandya/stop-slop)
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
-  * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
+  * [Understand Anything — Graphs that teach the codebase](https://understand-anything.com/)
     * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
     * [Understand-Anything | Open Source Projects](https://www.opensourceprojects.dev/post/b206659e-38d5-4ae0-83e8-54c04caa16cb)
+    * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
