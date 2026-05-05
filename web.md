@@ -1655,6 +1655,7 @@ Web
 * [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
   * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
+  * [mitmproxy2swagger: Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)
 * [pingora: A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
   * [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
     * Cloudflare에서 Nginx를 수년 동안 잘 사용했지만 Cloudflare가 커짐에 따라 한계를 느껴
