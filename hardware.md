@@ -18,10 +18,6 @@ Hardware
 * [CHIP $9 computer walkthough and review to "hello, world"](https://www.youtube.com/watch?v=OP45YYEfUQM)
 * [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
 * [ESP8266을 활용해 스마트워치 DIY 하는 법](https://smartaedi.tistory.com/351)
-* [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
-* [ROPPOR 소스 코드 군집 드론 소프트웨어 : 네이버 블로그](https://blog.naver.com/roppordrone/223334559944)
-* [esp-drone: Mini drone project based on Espressif ESP32 series Wi-Fi Soc](https://github.com/espressif/esp-drone)
-  * ESP32/ESP32-S2/ESP32-S3 기반 오픈소스 드론 펌웨어. Wi-Fi 모바일 앱/게임패드 제어, 안정화·고도 유지·위치 유지(확장 보드). Crazyflie 포팅, GPL 3.0
 * [아마존의 알렉사를 이용해서 음성인식하기](http://nemoroom.com/mobile/view.html?p_w0_idx=566&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [When hardware met Node-RED](https://github.com/kyungw00k/IBMDeveloperConnect-2017)
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
@@ -109,8 +105,6 @@ Hardware
   * [물리 SIM 슬롯만 있는 폰에서 9eSIM으로 eSIM 사용하기 | GeekNews](https://news.hada.io/topic?id=18825)
 * [Meet Kiro v1.0: The World’s First Personal Scanning Robot - YouTube](https://www.youtube.com/watch?v=OdagreVOfnA)
   * [Meet Kiro v1.0: The World’s First Personal Scanning Robot | 이태호 | 댓글 20](https://www.linkedin.com/posts/adldotori_meet-kiro-v10-the-worlds-first-personal-activity-7375949782844043265-5xyW) 개인용 자동스캔로봇
-* [AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar](https://github.com/NawfalMotii79/PLFM_RADAR)
-  * 10.5GHz 오픈소스 위상배열 레이다. 3km/20km 2종, ±45° 전자 빔 조향, FPGA 신호처리(펄스 압축·도플러·CFAR), GPS/IMU 통합, Python GUI. 드론 연구자·개발자 대상
 * [berry-doctor: 소규모 딸기 농가를 위한 무료 스마트팜 관리 도구](https://github.com/sinmb79/berry-doctor)
   * 카카오톡 기반 병해충 진단, 날씨 알림, 수확 추적, 온실 제어 추천. 고가 스마트팜 인프라 없이 사용 가능
 * [Making Software](https://www.makingsoftware.com/)
@@ -252,6 +246,16 @@ Hardware
 
 # Dio
 * [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)
+
+# Drone
+* [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
+* [ROPPOR 소스 코드 군집 드론 소프트웨어 : 네이버 블로그](https://blog.naver.com/roppordrone/223334559944)
+* [AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar](https://github.com/NawfalMotii79/PLFM_RADAR)
+  * 10.5GHz 오픈소스 위상배열 레이다. 3km/20km 2종, ±45° 전자 빔 조향, FPGA 신호처리(펄스 압축·도플러·CFAR), GPS/IMU 통합, Python GUI. 드론 연구자·개발자 대상
+* [DragonSync-iOS: iOS WarDragon Utility App](https://github.com/Root-Down-Digital/DragonSync-iOS)
+  * 드론·항공기 탐지 iOS/macOS 앱. Remote ID, ADS-B, FPV 송신 RF 수신. WiFi/BT 드론 식별, 1090MHz ADS-B, DJI Ocusync, 5.8GHz 아날로그 비디오, TAK/ATAK·MQTT 통합
+* [esp-drone: Mini drone project based on Espressif ESP32 series Wi-Fi Soc](https://github.com/espressif/esp-drone)
+  * ESP32/ESP32-S2/ESP32-S3 기반 오픈소스 드론 펌웨어. Wi-Fi 모바일 앱/게임패드 제어, 안정화·고도 유지·위치 유지(확장 보드). Crazyflie 포팅, GPL 3.0
 
 # Edison
 * [IoT Hackday에서 우승하기!](http://readme.skplanet.com/?p=10590)
