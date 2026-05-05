@@ -2935,7 +2935,7 @@ Programming
   * [DDD는 전략적 패턴을 지나치게 소홀히 여기는 실수와 잘못 이해하는 실수를 반복하고 있다](https://www.linkedin.com/posts/fupfin_domain-analysis-for-microservices-azure-activity-7369221126998118401-1GKf)
   * "일반적인 원칙으로, 마이크로 서비스는 집합체 하나 보다 작아서는 안되고 한정된 맥락보다 커서도 안된다(As a general principle, a microservice should be no smaller than an aggregate and no larger than a bounded context)."
 * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | Mimul Tech blog](https://www.mimul.com/blog/ai-coding-style/)
-  * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | HoJin Ha](https://kr.linkedin.com/posts/mimul_%EC%96%B8%EC%96%B4%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A4%91%EC%8B%AC-%EC%BD%94%EB%94%A9-%EC%9B%90%EC%B9%99%EA%B3%BC-%EC%8B%A4%EC%B2%9C%EB%B2%95-mimul-tech-activity-7455892940855504896-ZNNG)
+  * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | HoJin Ha](https://www.linkedin.com/posts/mimul_ai%EA%B0%80-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A0%88%EB%B0%98-%EC%9D%B4%EC%83%81%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80%EA%B0%80-%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%80-share-7455892940234600448-ynhf)
   * AI가 코드 절반 이상을 작성하는 시대. 변경 가능성 우선, 도메인 언어를 코드로 정확히 번역, 작은 단위의 의도 명확화, 중복 발생 후 추상화. 초기 작성보다 코드 건강 유지가 중요
 * [TDD & DDD from the Ground Up - Christopher Simon - GOTO 2025 - YouTube](https://youtube.com/watch?v=o3--D6ydS4o)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)

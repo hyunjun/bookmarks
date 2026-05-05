@@ -847,7 +847,7 @@ AWS
 * [llm-rag-vectordb-python: Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit](https://github.com/build-on-aws/llm-rag-vectordb-python)
 * [model-monitoring](https://github.com/whchoi98/model-monitoring)
   * [Amazon Bedrock LLM Monitor](https://llm-monitor.whchoi.net/)
-  * [Amazon Bedrock LLM Monitor | Woo Hyung Choi](https://kr.linkedin.com/posts/woohyungchoi_amazon-bedrock-llm-monitor-activity-7450595033772359681--_OX)
+  * [Amazon Bedrock LLM Monitor | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_amazon-bedrock-llm-monitor-share-7450595032870322176-XzyG)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
@@ -856,7 +856,7 @@ AWS
     * [Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 1 | Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/)
     * [Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 2 | Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-2/)
 * [ppt-translator: A powerful PowerPoint translation tool that leverages Amazon Bedrock models for high-quality translation. This service can be used both as a standalone command-line tool and as a MCP for integration with AI assistants like Kiro and Amazon Q Developer. It translates PowerPoint presentations while preserving formatting and structure](https://github.com/daekeun-ml/ppt-translator)
-  * [답답해서 만든 PPT 번역기 업데이트 | Daekeun Kim](https://kr.linkedin.com/posts/daekeun-kim_amazonbedrock-claude-claudecode-activity-7453818686513541120-ESvY)
+  * [답답해서 만든 PPT 번역기 업데이트 | Daekeun Kim](https://www.linkedin.com/posts/daekeun-kim_amazonbedrock-claude-claudecode-share-7453818685645033472-id--)
   * 언어 자동 감지(1샷 LLM), 차트 번역, SQLite 캐싱, YAML 커스텀 용어집, dry-run 비용 산정, 병렬 배치. Bedrock Claude Opus/Sonnet·Nova·Llama 지원. FastMCP 서버
 * [Prompt Management for Amazon Bedrock - AWS](https://aws.amazon.com/bedrock/prompt-management/)
   * [Prompt Optimization in Amazon Bedrock now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available/)
@@ -2373,7 +2373,7 @@ AWS
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
 * [unic: Go-based TUI for browsing and operating AWS resources](https://github.com/DevopsArtFactory/unic)
-  * [GitHub - DevopsArtFactory/unic | YoungJin Jung](https://kr.linkedin.com/posts/youngjin-jung_aws-awstui-codex-activity-7454003164317413376-sKLj)
+  * [GitHub - DevopsArtFactory/unic | YoungJin Jung](https://www.linkedin.com/posts/youngjin-jung_aws-awstui-codex-share-7454003163482824704-egIw)
   * Bubble Tea 앱+Cobra CLI+AWS SDK v2, 컨텍스트 인식 인증 레이어. SSO/assume-role/credential 다중 컨텍스트, EC2·RDS·보안 감사 터미널 조작
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
 * zappa
@@ -2916,7 +2916,7 @@ AWS
 * [S3 server access logs at scale](https://engineeringblog.yelp.com/2025/09/s3-server-access-logs-at-scale.html)
 * [AWS Cloud Engineer Guide: Creating an S3 Bucket with AWS CLI and Migrating Data Using Sync | by Cloud with Hamza | Feb, 2026 | Medium](https://medium.com/@hamza46/create-an-s3-bucket-and-migrate-data-using-aws-s3-sync-d5f3ecafe511)
 * [Twenty years of Amazon S3 and building what's next | AWS](https://aws.amazon.com/ko/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)
-* [S3는 이제 Object Storage를 벗어났습니다 : Amazon S3 Files | Chris(상운) Park](https://kr.linkedin.com/posts/spark323_s3%EB%8A%94-%EC%9D%B4%EC%A0%9C-object-storage%EB%A5%BC-%EB%B2%97%EC%96%B4%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-amazon-s3-activity-7456690203081199616-KQF4)
+* [S3는 이제 Object Storage를 벗어났습니다 : Amazon S3 Files | Chris(상운) Park](https://www.linkedin.com/posts/spark323_s3%EB%8A%94-%EC%9D%B4%EC%A0%9C-object-storage%EB%A5%BC-%EB%B2%97%EC%96%B4%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-amazon-s3-share-7456690202338693121-KkD7)
   * NFS 기반 프로토콜로 최대 25,000 동시 사용자 파일 접근. RAG 등 파일시스템 기반 AI 워크로드에 유용, EFS 인터페이스+S3 고가용성·이벤트 트리거·비용 효율 결합
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)

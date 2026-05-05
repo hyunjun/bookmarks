@@ -702,7 +702,7 @@ Artificial Intelligence
 * [5 key AI memory systems, explained simply | James Code Lab](https://www.facebook.com/share/p/1B12tiJ6An/)
   * Short-Term(실시간 컨텍스트), Long-Term(세션 간 지식 재사용), Episodic(이벤트 기반 학습), Semantic(사실/관계 지식), Procedural(워크플로우 실행) 5개 메모리 레이어
 * [Subagents vs Advisor: Distribution vs Escalation](https://generativeprogrammer.com/p/subagents-vs-advisor-distribution)
-  * [Subagents vs Advisor: Distribution vs Escalation | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_subagents-vs-advisor-distribution-vs-escalation-activity-7456499761739894784-TW0m)
+  * [Subagents vs Advisor: Distribution vs Escalation | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_subagents-vs-advisor-distribution-vs-escalation-share-7456499761177878528-l8hN)
   * 작업을 하위 에이전트에 분산하는 서브에이전트 구조가 단순 어드바이저 방식보다 성능 우위. 작업 복잡도가 커질수록 정확도 격차 확대, 토큰 증가는 성과로 정당화
 * [The 'files are all you need' debate misses what's actually happening in agent memory architecture - The New Stack](https://thenewstack.io/ai-agent-memory-architecture/)
   * 단순 파일 기반 스토리지로는 부족하다는 주장. 현대 에이전트 메모리는 그보다 복잡한 아키텍처 필요
@@ -884,7 +884,7 @@ Artificial Intelligence
   * [browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.](https://github.com/browser-use/browser-use)
   * [gobii-platform: The easiest to use platform for browser-use agents.](https://github.com/gobii-ai/gobii-platform)
   * [browser-harness: Minimal, self-healing browser automation for LLMs](https://github.com/browser-use/browser-harness)
-    * [browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-browser-usebrowser-harness-browser-activity-7453383921410428928-Rn3d)
+    * [browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-browser-usebrowser-harness-browser-share-7453383920592785408-W8PE)
     * ~592줄 Python, Chrome DevTools Protocol 직접 연결. 자기수정(self-healing) 아키텍처로 에이전트가 실행 중 harness 자체를 확장. 도메인 스킬 시스템, 무료 원격 브라우저 3개 동시 사용
   * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
@@ -945,7 +945,7 @@ Artificial Intelligence
   * [Hermes는 어떻게 스스로 배워가는가: 코드로 뜯어본 Skill Self-Evolution Architecture](https://tmdgusya.github.io/devletter/posts/hermes-skill-self-evolution/)
     * [Hermes의 Skill 시스템 코드를 분석해봤습니다 | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_hermes%EC%9D%98-skill-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-self-evolution%EC%9D%B4%EB%9D%BC%EA%B3%A0-ugcPost-7448734487754088448-yz4l)
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
-  * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://kr.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-activity-7455171430251405312-hVvn)
+  * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-share-7455171430251405312-hVvn)
     * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
@@ -1067,7 +1067,7 @@ Artificial Intelligence
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
 * [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation - Engineering at Meta](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)
-  * [Ranking Engineer Agent REA: The Autonomous AI Agent Accelerating Meta's Ads Ranking Innovation | Jason Kang](https://kr.linkedin.com/posts/byeongjinkang_ranking-engineer-agent-rea-the-autonomous-activity-7455734380838342656-fUur)
+  * [Ranking Engineer Agent REA: The Autonomous AI Agent Accelerating Meta's Ads Ranking Innovation | Jason Kang](https://www.linkedin.com/posts/byeongjinkang_meta%EA%B0%80-%EA%B4%91%EA%B3%A0-%EB%9E%AD%ED%82%B9-%EB%AA%A8%EB%8D%B8%EC%9D%98-end-to-end-ml-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%84-%EC%9E%90%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-share-7455734379634593792-cqMb)
   * Meta가 광고 랭킹 모델의 end-to-end ML 라이프사이클을 자율적으로 수행하는 REA 공개
 * [Rowboat - Your AI coworker, with memory](https://www.rowboatlabs.com/)
   * [rowboat: Open-source AI coworker, with memory](https://github.com/rowboatlabs/rowboat)
@@ -1077,7 +1077,7 @@ Artificial Intelligence
   * [rtk: CLI proxy that compresses command outputs for AI coding agents](https://github.com/rtk-ai/rtk)
   * [LLM 토큰 소비를 60~90% 줄여주는 CLI 프록시 | GeekNews](https://news.hada.io/topic?id=28245)
   * CLI 출력을 필터링·압축하여 토큰 60~90% 절감. Rust 바이너리, 100+ 명령어 최적화. Claude Code, Cursor, Gemini CLI 등 10개 AI 코딩 도구 지원
-  * [RTK (Rust Token Killer) - AI 코딩 에이전트용 CLI 프록시 | 배수정](https://kr.linkedin.com/posts/crystal0224_%EB%82%A8%ED%8E%B8%EC%9D%B4-%ED%9A%8C%EC%82%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%93%A4%EC%97%88%EB%8B%A4%EB%A9%B0-rtk%EB%9D%BC%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%95%8C%EB%A0%A4%EC%A4%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-claude-activity-7456111470284546048-yfCQ)
+  * [RTK (Rust Token Killer) - AI 코딩 에이전트용 CLI 프록시 | 배수정](https://www.linkedin.com/posts/crystal0224_%EB%82%A8%ED%8E%B8%EC%9D%B4-%ED%9A%8C%EC%82%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%93%A4%EC%97%88%EB%8B%A4%EB%A9%B0-rtk%EB%9D%BC%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%95%8C%EB%A0%A4%EC%A4%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-claude-share-7455749257531129856-5ccy)
     * AI 코딩 에이전트(Claude Code 등)와 터미널 사이 CLI 프록시. 커맨드 출력을 필터링하여 컨텍스트 윈도우 진입 전 압축. ANSI 코드·진행 바 제거, 유사 아이템 그룹화, 중복 제거, 성공 메시지 축약. 60-90% 압축률
 * [sage: (Sovereign) Agent Governed Experience - Byzantine fault-tolerant consensus-based institutional memory for multi-agent systems](https://github.com/l33tdawg/sage/)
   * 멀티 에이전트 시스템을 위한 Byzantine fault-tolerant 합의 기반 검증 가능 기관 메모리 레이어. CometBFT 합의를 통해 에이전트가 지식을 축적, 검증, 공유
@@ -1776,7 +1776,7 @@ Artificial Intelligence
     * [Google, 오픈 모델 Gemma 4 공개 | GeekNews](https://news.hada.io/topic?id=28138)
     * [gemma4.md](https://github.com/huggingface/blog/blob/main/gemma4.md)
     * [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4)
-    * [Gemma 4 is Here: Now Available on Docker Hub | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_gemma-4-is-here-now-available-on-docker-activity-7449715263404670976-y-Am)
+    * [Gemma 4 is Here: Now Available on Docker Hub | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_gemma-4-is-here-now-available-on-docker-share-7449715263404670976-y-Am)
     * [Gemma 4 WebGPU](https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU) 브라우저에서 WebGPU로 Gemma 4 직접 실행
     * [gemma-gem: Google Gemma 4 모델을 WebGPU로 완전 온디바이스 실행](https://github.com/kessler/gemma-gem)
       * [Gemma Gem - 브라우저에서 Google Gemma 4 모델을 완전 온디바이스로 실행하는 Chrome 확장 | GeekNews](https://news.hada.io/topic?id=28645)
@@ -3018,7 +3018,7 @@ Artificial Intelligence
 * [iterance: Behavioral witness layer for AI agents](https://github.com/Tetrahedroned/iterance)
   * 에이전트 외부에서 파일시스템 행동을 감시·기록하는 독립 감사 레이어. Git 기반 평문 영어 원장, 신뢰도 스코어(오버라이드 비율 기반), 2단계 검사, 에이전트 자기인식용 행동 이력 생성. 코드 수정 불필요
 * [LLM-HOOK-BROWSER: AI-powered real-time web vulnerability scanner proxy using Claude LLM](https://github.com/lufianlee/LLM-HOOK-BROWSER)
-  * [내가 매일 쓰는 크롬 브라우저가 취약점 스캐너가 되면 어떨까? | Jiyoung Lee](https://kr.linkedin.com/posts/jaylee86_%EB%82%B4%EA%B0%80-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-%ED%81%AC%EB%A1%AC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%8A%A4%EC%BA%90%EB%84%88%EA%B0%80-%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A8%EA%B9%8C-%EC%9D%B4-%EB%8B%A8%EC%88%9C%ED%95%9C-activity-7453668861629960193-qCjc)
+  * [내가 매일 쓰는 크롬 브라우저가 취약점 스캐너가 되면 어떨까? | Jiyoung Lee](https://www.linkedin.com/posts/jaylee86_%EB%82%B4%EA%B0%80-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-%ED%81%AC%EB%A1%AC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%8A%A4%EC%BA%90%EB%84%88%EA%B0%80-%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A8%EA%B9%8C-%EC%9D%B4-%EB%8B%A8%EC%88%9C%ED%95%9C-share-7453668860785872896-6yRN)
   * mitmproxy로 Chrome HTTP/HTTPS 트래픽 가로채 2단계 분석: 20개 패턴 매처 사전 분석 + Claude Sonnet 35개 취약점 카테고리 상세 분석. CVSS v3.1 점수·OWASP Top 10 매핑. 200+ 공격 페이로드, 실시간 WebSocket 대시보드. Bedrock+Anthropic API
 * [MEDUSA - AI Security Scanner | Pantheon Security](https://pantheonsecurity.io/)
   * [medusa](https://github.com/Pantheon-Security/medusa)
@@ -3334,7 +3334,7 @@ Artificial Intelligence
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
   * [notebooklm-py: Python wrapper for Google NotebookLM](https://github.com/teng-lin/notebooklm-py)
-    * [NotebookLM을 “도구”로 쓰는 사람과 “시스템”으로 쓰는 사람의 차이 대부분의 사람들이 NotebookLM을 이렇게 씁니다. 유튜브 영상을 하나씩 붙여넣고, PDF를 드래그앤드롭으로 올리고, 팟캐스트 버튼을 클릭하고 기다립니다. 동시에 Claude나 GPT에는 자료를 직접 붙여넣습니다. 컨텍스트가 꽉 차고, 토큰이 터지고, 결과가… | SungJae Shim](https://kr.linkedin.com/posts/sungjae-shim-9b353159_notebooklm%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%B0%A8%EC%9D%B4-activity-7450680091757535232-9MP3)
+    * [NotebookLM을 “도구”로 쓰는 사람과 “시스템”으로 쓰는 사람의 차이 대부분의 사람들이 NotebookLM을 이렇게 씁니다. 유튜브 영상을 하나씩 붙여넣고, PDF를 드래그앤드롭으로 올리고, 팟캐스트 버튼을 클릭하고 기다립니다. 동시에 Claude나 GPT에는 자료를 직접 붙여넣습니다. 컨텍스트가 꽉 차고, 토큰이 터지고, 결과가… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_notebooklm%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%B0%A8%EC%9D%B4-share-7450680091136655360-ys--)
   * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [omlx: LLM inference, optimized for your Mac](https://omlx.ai/)
@@ -3755,7 +3755,7 @@ Artificial Intelligence
       * [노드 라이프사이클 & 모니터링 - EKS Auto Mode](https://presentation.atomai.click/eks-observability-ops/02-node-lifecycle.html#6)
     * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [prompt-master: A Claude skill that writes accurate prompts for any AI tool](https://github.com/nidhinjs/prompt-master)
-      * [GitHub - nidhinjs/prompt-master | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-nidhinjsprompt-master-a-claude-activity-7453314783858069504-Pw1s)
+      * [GitHub - nidhinjs/prompt-master | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-nidhinjsprompt-master-a-claude-share-7453314783203758080-GgAr)
       * 30+ AI 도구(Cursor·Claude Code·Midjourney·ComfyUI 등)에 최적화된 프롬프트 생성 Claude 스킬. 9차원 의도 추출, 최대 3개 명확화 질문, 토큰 효율 감사. 12개 자동 템플릿, 메모리 블록으로 멀티턴 일관성
     * [smart-cowork-life/smart-cowork-life at main · modu-ai/smart-cowork-life](https://github.com/modu-ai/smart-cowork-life/tree/main/smart-cowork-life)
       * [Goos Kim - @팔로워 모두의AI 4번째 오픈소스, Claude Cowork Plugin '슬기로운 코워크... | Facebook](https://www.facebook.com/Captain.Goos/posts/pfbid0271svtLduk3CPFprSSJU8WdBSgmhU7uqpR7X9TfcjMNxWokKxVAxATzBPAh7fitAql)
@@ -4118,7 +4118,7 @@ Artificial Intelligence
     * [awesome-claude-code-security | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijawesome-claude-code-security-activity-7437977413059272704-iust)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
   * [awesome-novel-studio: AI Web Novel Creation Harness — A Claude Code Plugin · GitHub](https://github.com/MJbae/awesome-novel-studio)
-    * [AI로 쓴 웹소설, 출판 계약까지 따낸 비결 — AI 워크플로우/하네스 엔지니어링 | 배만진](https://kr.linkedin.com/posts/mj-bae_aisqktmeuisrxgsqi-ukqqoeswmslwtfmqwislqrez-activity-7449759640109731840-YmsC)
+    * [AI로 쓴 웹소설, 출판 계약까지 따낸 비결 — AI 워크플로우/하네스 엔지니어링 | 배만진](https://www.linkedin.com/posts/mj-bae_aisqktmeuisrxgsqi-ukqqoeswmslwtfmqwislqrez-share-7449759640109731840-YmsC)
     * AI 웹소설 출판 계약까지 가는 콘텐츠 수익화 하네스 사례
   * [aws-skills-for-claude-code: 36 on-demand AWS skills for Claude Code](https://github.com/whchoi98/aws-skills-for-claude-code)
     * [AWS Skills for Claude Code - 36개 Skills 세트 공개 | woohyungchoi](https://www.linkedin.com/posts/woohyungchoi_aws-skills-for-claude-code-36%EA%B0%9C-skills-share-7446170588190257152-fiT-)
@@ -4128,7 +4128,7 @@ Artificial Intelligence
     * [modularity: Claude Code plugin for designing modular systems from functional requirements](https://github.com/vladikk/modularity)
     * 통합 강도·거리·변동성 3차원으로 커플링 평가해 모듈성 향상시키는 프레임워크. Claude Code 플러그인으로 Balanced Coupling 기반 분석 제공
   * [Bright Data Plugin for Claude Code](https://github.com/brightdata/skills)
-    * [GitHub - brightdata/skills | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-brightdataskills-activity-7455723366013083648-5aO5)
+    * [GitHub - brightdata/skills | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-brightdataskills-share-7455723365484453888-6nXa)
     * Claude Code용 Bright Data 웹 인프라 통합 플러그인. 13개 스킬로 웹페이지→마크다운 스크래핑, Google 검색 구조화, 40+ 사이트 데이터 추출, 60+ MCP 도구. 봇 감지·CAPTCHA 우회
   * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
   * [cc-lens: Claude Code usage analytics dashboard](https://github.com/Arindam200/cc-lens)
@@ -4332,7 +4332,7 @@ Artificial Intelligence
     * [getdesign.md - stitch가 유행시킨 DESIGN.md 모음 사이트](https://getdesign.md/)
       * [stitch가 유행시킨 DESIGN.md를 모아놓은 사이트 | GeekNews](https://news.hada.io/topic?id=28947)
       * Apple 등 유명 사이트의 DESIGN.md 파일 수집 사이트. 디자이너 없이 디자인 명세 기반 개발 가능성 논의
-    * [DESIGN.md를 어디서 구해야 하는지 모르겠다고요? (designmd.ai 외 3개 커뮤니티) | SangRok Jung](https://kr.linkedin.com/posts/sangrok-jung-9ab787311_designmd%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%9C-%EA%B5%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4%EA%B3%A0%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-share-7450481009009270785-n2B8)
+    * [DESIGN.md를 어디서 구해야 하는지 모르겠다고요? (designmd.ai 외 3개 커뮤니티) | SangRok Jung](https://www.linkedin.com/posts/sangrok-jung-9ab787311_designmd%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%9C-%EA%B5%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4%EA%B3%A0%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-share-7450481009009270785-n2B8)
       * designmd.ai(디자인 시스템 npm 100개+), getdesign.md 등 3개 커뮤니티 소개
       * [DESIGN.md - Design Systems for AI Coding](https://designmd.ai/)
       * [DESIGN.md Library — 423 AI-Ready Design Systems | designmd.app](https://designmd.app/)
@@ -4420,7 +4420,7 @@ Artificial Intelligence
     * [ouroboros: Agent OS — Stop prompting. Start specifying | 이재규](https://www.linkedin.com/posts/q00_github-q00ouroboros-agent-os-stop-prompting-share-7456008355896152064-jGQh/)
     * [Ouroboros Deep Dive: MCP Mesh and Disposable Memory](https://wpti.dev/public-presentation/mcp-mesh-deepdive-presentation-final.html)
       * 소크라틱 인터뷰로 숨겨진 가정 노출, 코딩 전 명세 확립, 3단계 자동 평가. 수학적 게이트(모호성 ≤0.2, 온톨로지 수렴 ≥0.95). Claude Code/Codex CLI/OpenCode/Hermes 지원. MCP Mesh 수평 조율, 일회용 메모리로 컨텍스트 고갈 해결
-    * [Ouroboros가 새로운 modelling and simulation benchmark에서 97점으로 Claude Plan Mode보다 높은 점수 1위 | JAEGYU LEE](https://kr.linkedin.com/posts/q00_ouroboros%EA%B0%80-%EC%83%88%EB%A1%9C%EC%9A%B4-modelling-and-simulation-benchmark%EC%97%90%EC%84%9C-activity-7456014013181612032-B-BI)
+    * [Ouroboros가 새로운 modelling and simulation benchmark에서 97점으로 Claude Plan Mode보다 높은 점수 1위 | JAEGYU LEE](https://www.linkedin.com/posts/q00_ouroboros%EA%B0%80-%EC%83%88%EB%A1%9C%EC%9A%B4-modelling-and-simulation-benchmark%EC%97%90%EC%84%9C-ugcPost-7456014012321951744-4tzx)
       * Simulation Bench: SimPy 기반 discrete-event 시뮬레이션 생성(mine haulage, topology 기반 routing, stochastic replication, bottleneck 분석 등) 평가에서 97점 1위. MCP 실패 복구까지 완료
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
@@ -4470,7 +4470,7 @@ Artificial Intelligence
       * [Stop Using The Ralph Loop Plugin](https://bcho.tistory.com/1507)
       * [Stop Using The Ralph Loop Plugin | tobyilee](https://www.linkedin.com/posts/tobyilee_stop-using-the-ralph-loop-plugin-activity-7438021804327145473-lBLZ)
       * 진짜 RALF Loop은 매 작업을 0토큰 새 컨텍스트에서 시작하여 context rot 방지. 플러그인은 같은 세션에서 컨텍스트가 누적되어 성능 저하. progress.md로 상태 추적하는 것이 핵심
-    * [Ralph loop 배울 필요 없습니다. codex /goal 만 쓰세요. 어떻게 동작하는지 분석 | Goobong Jeong](https://kr.linkedin.com/posts/gb-jeong_ralph-loop-%EB%B0%B0%EC%9A%B8-%ED%95%84%EC%9A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-codex-goal-%EB%A7%8C-%EC%93%B0%EC%84%B8%EC%9A%94-activity-7456817369785733120-akUM)
+    * [Ralph loop 배울 필요 없습니다. codex /goal 만 쓰세요. 어떻게 동작하는지 분석 | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ralph-loop-%EB%B0%B0%EC%9A%B8-%ED%95%84%EC%9A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-codex-goal-%EB%A7%8C-%EC%93%B0%EC%84%B8%EC%9A%94-share-7456756984663408640-dN92)
       * OpenAI codex /goal이 ralph loop를 내장화. TurnFinished 이벤트·세마포어 락으로 중단 방지, update_goal 스키마로 탈출 옵션 차단, 토큰 예산 원자적 관리, <untrusted_objective> 태그로 보안
     * [AGENT THREADS: How to SHIP like Boris Cherny. Ralph Wiggum in Claude Code - YouTube](https://www.youtube.com/watch?v=-WBHNFAB0OE)
     * [ralphton - 이호연 AI Agent 발표 자료: 하네스 엔지니어링](https://drive.google.com/file/d/11fb168Wg5ETyfYcSITi3jkhpkqHAORwN/view)
@@ -4584,7 +4584,7 @@ Artificial Intelligence
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
   * [Codex security is now in research preview | OpenAI](https://openai.com/ko-KR/index/codex-security-now-in-research-preview/)
   * [Introducing OpenAI Privacy Filter | OpenAI](https://openai.com/ko-KR/index/introducing-openai-privacy-filter/)
-  * [Codex 가 무거워지기 시작했다면 이 글을 한 번 보세요 (로그·세션 정리) | Jeongmin Lee](https://kr.linkedin.com/posts/jyoung105_codex-%EA%B0%80-%EB%AC%B4%EA%B1%B0%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%9D%B4-%EA%B8%80%EC%9D%84-%ED%95%9C-%EB%B2%88-%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%98%EC%9D%8C%EC%97%94-codex-activity-7456882377819279360-LfSm)
+  * [Codex 가 무거워지기 시작했다면 이 글을 한 번 보세요 (로그·세션 정리) | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EA%B0%80-%EB%AC%B4%EA%B1%B0%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%9D%B4-%EA%B8%80%EC%9D%84-%ED%95%9C-%EB%B2%88-%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%98%EC%9D%8C%EC%97%94-codex-ugcPost-7456882376711753729--xVe)
     * 8GB 로그·비활성 채팅 누적이 체감 속도 저하 원인. 정리 후 10배 빨라짐. 핵심: 채팅은 실행용, 기억은 handoff 문서. 8단계 최적화 + Codex 팀 Tibo의 skill 제공
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
     * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
@@ -5344,7 +5344,7 @@ Artificial Intelligence
   * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
   * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
 * [Structured-Prompt-Driven Development SPDD | Martin Fowler](https://martinfowler.com/articles/structured-prompt-driven/)
-  * [Structured Prompt-Driven Development SPDD | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
+  * [Structured Prompt-Driven Development SPDD | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
   * Thoughtworks가 제안한 SPDD. 프롬프트를 버전화·리뷰 가능한 아티팩트로 취급. REASONS Canvas 7부(Requirements/Entities/Approach/Structure/Operations/Norms/Safeguards)로 LLM 생성 코드 경계 설정. 추상화 우선·의도 정렬·반복 리뷰 3가지 핵심 역량
 
 # Tutorial
