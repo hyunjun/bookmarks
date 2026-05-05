@@ -1414,6 +1414,7 @@ Git
     * [GitHub Stacked PRs | GeekNews](https://news.hada.io/topic?id=28508)
     * 대규모 코드 변경을 작고 검토 가능한 PR 단위로 분할·순차 관리. gh stack CLI, 스택 맵 시각화
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
+* [GHFS: Mount GitHub repositories as a virtual read-only macOS filesystem](https://github.com/indragiek/GHFS)
 * [ghgrab: GitHub repository data grabber](https://ghgrab.readthedocs.io/)
   * [ghgrab](https://github.com/abhixdd/ghgrab)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
