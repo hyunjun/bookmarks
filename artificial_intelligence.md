@@ -924,6 +924,8 @@ Artificial Intelligence
     * [JVM에서 프로덕션 준비 에이전트 구축: GenAI 비즈니스 성공 전략 (Rod Johnson, GOTO 2025)](https://livewiki.com/ko/content/genai-production-agents-jvm)
   * [Don’t Talk English to Your LLM. Just because LLMs are eloquent in… | by Rod Johnson | Oct, 2025 | Medium](https://medium.com/@springrod/dont-talk-english-to-your-llm-ecbfe954bea1)
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
+  * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
+    * LangGraph(파이썬)와 Embabel(Java JVM) 프레임워크 비교
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
@@ -1774,6 +1776,7 @@ Artificial Intelligence
     * [Google, 오픈 모델 Gemma 4 공개 | GeekNews](https://news.hada.io/topic?id=28138)
     * [gemma4.md](https://github.com/huggingface/blog/blob/main/gemma4.md)
     * [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4)
+    * [Gemma 4 is Here: Now Available on Docker Hub | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_gemma-4-is-here-now-available-on-docker-activity-7449715263404670976-y-Am)
     * [Gemma 4 WebGPU](https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU) 브라우저에서 WebGPU로 Gemma 4 직접 실행
     * [gemma-gem: Google Gemma 4 모델을 WebGPU로 완전 온디바이스 실행](https://github.com/kessler/gemma-gem)
       * [Gemma Gem - 브라우저에서 Google Gemma 4 모델을 완전 온디바이스로 실행하는 Chrome 확장 | GeekNews](https://news.hada.io/topic?id=28645)
@@ -3331,6 +3334,7 @@ Artificial Intelligence
   * [foldLM: Seamlessly integrates with NotebookLM, offering native-like aesthetics and functionality for organizing notebooks](https://github.com/parasolente/foldLM)
     * [노트북LM에 폴더를 만들고 자신의 노트를 드래그앤드랍 해서 이동 | 김덕중](https://www.linkedin.com/posts/duckjungkim_%EC%A1%B0%EA%B8%88-%EA%B7%80%EC%B0%AE%EC%A7%80%EB%A7%8C-%EC%95%84%EB%9E%98-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%85%B8%ED%8A%B8%EB%B6%81lm%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%84%B8%EC%9A%94-1-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-activity-7415022011720318978-wjyn)
   * [notebooklm-py: Python wrapper for Google NotebookLM](https://github.com/teng-lin/notebooklm-py)
+    * [NotebookLM을 “도구”로 쓰는 사람과 “시스템”으로 쓰는 사람의 차이 대부분의 사람들이 NotebookLM을 이렇게 씁니다. 유튜브 영상을 하나씩 붙여넣고, PDF를 드래그앤드롭으로 올리고, 팟캐스트 버튼을 클릭하고 기다립니다. 동시에 Claude나 GPT에는 자료를 직접 붙여넣습니다. 컨텍스트가 꽉 차고, 토큰이 터지고, 결과가… | SungJae Shim](https://kr.linkedin.com/posts/sungjae-shim-9b353159_notebooklm%EC%9D%84-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%B0%A8%EC%9D%B4-activity-7450680091757535232-9MP3)
   * [notebooklm-rest-api: A REST API wrapper for Google NotebookLM](https://github.com/gnh1201/notebooklm-rest-api)
 * [noton: A free and open documentation platform built with Laravel and Filament, enhanced by Ollama for local AI features, focused on clarity, structure, and self-hosted simplicity](https://github.com/bartvantuijn/noton/)
 * [omlx: LLM inference, optimized for your Mac](https://omlx.ai/)
