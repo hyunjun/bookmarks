@@ -266,6 +266,7 @@ Vim
   * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
 * [coc.nvim - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/coc-nvim/)
 * [context.vim: Vim plugin that shows the context of the currently visible buffer contents](https://github.com/wellle/context.vim)
+* [cord.nvim: 🚀 Discord Rich Presence for Neovim](https://github.com/vyfor/cord.nvim)
 * [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [EditorConfig plugin for Vim http://editorconfig.org](https://github.com/editorconfig/editorconfig-vim)
   * [EditorConfig](http://editorconfig.org/) 서로 다른 IDE에서 코딩 스타일을 통일
