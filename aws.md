@@ -92,6 +92,8 @@ AWS
 * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
 * [Amazon Web Services Korea’s slideshows on SlideShare](https://www.slideshare.net/awskorea/tag/awscloud2017)
 * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
+* [Spot GPU Lotto - YouTube](https://www.youtube.com/watch?v=9hE2QFZdqck)
+  * 멀티 리전 GPU Spot 자동 배치 프로젝트. AI/ML 워크로드 중 상당수는 즉각적인 응답이 필요하지 않음
 * [Spot Instance 사용하는 방법](https://developer88.tistory.com/309)
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Spot Instance pricing history](https://jybaek.tistory.com/917)
@@ -843,6 +845,9 @@ AWS
   * [prompt-flow.md at main · kyopark2014/korean-chatbot-using-amazon-bedrock](https://github.com/kyopark2014/korean-chatbot-using-amazon-bedrock/blob/main/prompt-flow.md)
 * [llm-multimodal-and-rag: It shows how to use mutimodal and RAG based on LangChain](https://github.com/kyopark2014/llm-multimodal-and-rag)
 * [llm-rag-vectordb-python: Explore sample applications and tutorials demonstrating the prowess of Amazon Bedrock with Python. Learn to integrate Bedrock with databases, use RAG techniques, and showcase experiments with langchain and streamlit](https://github.com/build-on-aws/llm-rag-vectordb-python)
+* [model-monitoring](https://github.com/whchoi98/model-monitoring)
+  * [Amazon Bedrock LLM Monitor](https://llm-monitor.whchoi.net/)
+  * [Amazon Bedrock LLM Monitor | Woo Hyung Choi](https://kr.linkedin.com/posts/woohyungchoi_amazon-bedrock-llm-monitor-activity-7450595033772359681--_OX)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
