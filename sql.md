@@ -1217,6 +1217,8 @@ SQL
 # ORM Object Relational Mapping
 * [ORM: DB에 오브젝트를 쓰자](https://www.youtube.com/watch?v=B6iOqljc7U8)
 * [ORM: The Good, the Great, and the Ugly - YouTube](https://www.youtube.com/watch?v=3EvhK7-DlZA)
+* [ORM, 어디까지 써야 하는지 알려드립니다 | 포프TV - YouTube](https://youtube.com/watch?v=S9RQIz6hZNI)
+  * ORM은 도구이지 아키텍처가 아님. 경계를 넘으면 DB 설계 감각 붕괴·성능 문제 발생
 
 # Percona
 * [SQL Query Formatting Tools Used At Percona](https://www.percona.com/blog/2020/06/03/sql-query-formatting-tools-used-at-percona/)
