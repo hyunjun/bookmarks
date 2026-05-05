@@ -1917,6 +1917,10 @@ App
   * WhisperKit AI 기반 프라이버시 우선 오프라인 음성 받아쓰기. 100% 로컬 실행
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
+* [Xray — See through your screen](https://wlswo.me/xray/)
+  * [xray: A simple, intuitive, and light universal UI capture and inspection tool for macOS](https://github.com/wlswo/xray)
+  * [스크린샷 찍는 MAC 앱 개발하였읍니다 | GeekNews](https://news.hada.io/topic?id=25843)
+  * Rust+Tauri+React. macOS UI 계층 하위 요소를 감지하여 캡처. Chrome DevTools 스타일 인스펙터를 전체 화면에 적용
 
 ## Mac App Keyboard
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
