@@ -330,6 +330,8 @@ Finance
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
+* [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
+  * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
 * [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
