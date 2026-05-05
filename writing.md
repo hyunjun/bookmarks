@@ -229,6 +229,9 @@ Writing
   * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
 * [효과적인 릴리즈 노트 작성 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/20/release-notes-tips/) release note
 * [테크니컬 라이팅에 프롬프트 엔지니어링 활용하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/29/tw-prompt/)
+* [Self-updating screenshots | interblah.net](https://interblah.net/self-updating-screenshots)
+  * [문서에 자동 갱신되는 스크린샷 넣기 | GeekNews](https://news.hada.io/topic?id=28950)
+  * Markdown의 SCREENSHOT 주석으로 경로/CSS selector 지정, 빌드 시 Capybara가 실제 이미지로 채워넣음. UI 변경 후에도 문서 이미지 최신 상태 유지
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
