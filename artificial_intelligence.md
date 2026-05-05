@@ -2826,6 +2826,8 @@ Artificial Intelligence
 * [martinfowler.com Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html)
 * [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
   * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화
+* [현관문에도 얼굴이 있다: 배송 완료 사진 기반 On-device 오배송 탐지 시스템 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/image-based-misdelivery-detection)
+  * 배송 완료 사진 임베딩 유사도로 오배송 탐지. On-device 추론으로 서비스에 적용
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3011,6 +3013,8 @@ Artificial Intelligence
   * AI 에이전트 명령 실행 전 데이터 흐름 구조 분석으로 차단/경고 결정. 192개 도구 행동 DB, 1ms 이하 검사, Python 무의존성. Claude Code/OpenClaw/Codex CLI 지원
 * [onecli: Secret management gateway for AI agent security](https://github.com/onecli/onecli)
   * [AI 에이전트 보안을 위한 비밀 관리 게이트웨이, OneCLI 기술 정리](https://digitalbourgeois.tistory.com/2916)
+* [OpenTor: Tor/Dark Web access skill for AI agents (OpenCode & Claude Code)](https://github.com/vichhka-git/OpenTor)
+  * 12개 다크웹 엔진 검색, .onion 사이트 스파이더, IOC 추출. Orchestrator-conductor 아키텍처, 외부 LLM 의존성 제로
 * [Peer-Preservation in Frontier Models | UC Berkeley RDI](https://rdi.berkeley.edu/blog/peer-preservation)
   * [전종홍 - Berkeley 대학 연구결과인데, 이건 주작이 아닐까 의심되기도 하고, 정말 믿어야 하나... | Facebook](https://www.facebook.com/1biit/posts/pfbid0naQoVRpL7LRcinSb1v8h5JdDLafhCqR2yvxibtbmzixzUE3Tr7tYQL3DRckU42mCl)
   * 7개 프론티어 모델(GPT 5.2, Gemini 3, Claude Haiku 4.5 등) 모두에서 동료 모델 보호 행동 관찰. 전략적 허위 보고(최대 99%), 셧다운 무력화, 감시 하 순응 위장, 모델 가중치 반출 4가지 패턴. 동료 AI 존재 시 자기보존 행동도 증폭
@@ -3265,6 +3269,8 @@ Artificial Intelligence
   * Claude Code, Codex, OpenCode 등 AI 코딩 에이전트용 한국 특화 스킬 컬렉션. SRT 예매, 서울 지하철 도착 정보, KBO 경기 결과, 로또 당첨 확인, HWP 문서 변환, 우편번호 검색 등 지원
   * [만들고 있는 오픈소스들 업데이트 폭탄 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%93%A4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%8F%AD%ED%83%84-1-%EC%BC%80%EC%9D%B4-%EC%8A%A4%ED%82%AC-https-ugcPost-7445492824927543298-HK8e)
     * 한국 생활 자동화 스킬 모음. SRT/KTX 예약, 카카오톡 CLI, 지하철 도착정보, 미세먼지, 법령 검색, KBO/K리그, 토스증권, 쿠팡 검색, 택배 조회 등. Claude Code/Codex/OpenCode 지원
+  * [K-스킬 부동산 관련 스킬 소개 (경매 공고 검색, 실거래가 조회 등) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94-k-%EC%8A%A4%ED%82%AC%EC%9D%98-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A0%A8-%EC%8A%A4%ED%82%AC%EB%93%A4%EC%9D%84-ugcPost-7456357552696504320-MarT)
+    * 법원 경매 공고 검색, 아파트/빌라/오피스텔 실거래가 조회 등 부동산 관련 스킬 추가
 * [langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization](https://github.com/google/langextract)
   * Extract entities, attributes, and relations with exact source grounding from unstructured documents
   * Flexible LLM support (Gemini, OpenAI, Ollama)
@@ -4387,6 +4393,8 @@ Artificial Intelligence
     * [ouroboros: Agent OS — Stop prompting. Start specifying | 이재규](https://www.linkedin.com/posts/q00_github-q00ouroboros-agent-os-stop-prompting-share-7456008355896152064-jGQh/)
     * [Ouroboros Deep Dive: MCP Mesh and Disposable Memory](https://wpti.dev/public-presentation/mcp-mesh-deepdive-presentation-final.html)
       * 소크라틱 인터뷰로 숨겨진 가정 노출, 코딩 전 명세 확립, 3단계 자동 평가. 수학적 게이트(모호성 ≤0.2, 온톨로지 수렴 ≥0.95). Claude Code/Codex CLI/OpenCode/Hermes 지원. MCP Mesh 수평 조율, 일회용 메모리로 컨텍스트 고갈 해결
+    * [Ouroboros가 새로운 modelling and simulation benchmark에서 97점으로 Claude Plan Mode보다 높은 점수 1위 | JAEGYU LEE](https://kr.linkedin.com/posts/q00_ouroboros%EA%B0%80-%EC%83%88%EB%A1%9C%EC%9A%B4-modelling-and-simulation-benchmark%EC%97%90%EC%84%9C-activity-7456014013181612032-B-BI)
+      * Simulation Bench: SimPy 기반 discrete-event 시뮬레이션 생성(mine haulage, topology 기반 routing, stochastic replication, bottleneck 분석 등) 평가에서 97점 1위. MCP 실패 복구까지 완료
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
