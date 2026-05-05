@@ -494,14 +494,11 @@ Artificial Intelligence
 * [비즈니스를 위한 통화 요약 솔루션 비교 - B2B Sales 블로그, Callabo](https://callabo.ai/blog/business-sales-call-summary-solution-comparison)
 * [Building effective agents \ Anthropic](https://www.anthropic.com/research/building-effective-agents)
   * [효과적인 "Agents" 구축 방법 | GeekNews](https://news.hada.io/topic?id=18376)
-* [The Next 10 Years Will Be About the AI Agent Economy](https://www.nfx.com/post/ai-agent-marketplaces)
   * [Agents에 대한 모든 기초 설명 - YouTube](https://www.youtube.com/watch?v=HujQhD8J2LQ)
-* [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
 * [How to Build an Agent - Amp](https://ampcode.com/notes/how-to-build-an-agent)
 * [JobKorea LOOP 에이전트 개발기: 1. 에이전트 개론 | by Seongtae Kim | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%A1%A0-6f2ec241d394)
 * [JobKorea LOOP 에이전트 개발기: 2.LOOP Reasoning Engine | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-loop-reasoning-engine-c53b8c69b1d4)
 * [JobKorea LOOP 에이전트 개발기: 3. 잡코리아 정보 검색 에이전트 | by Seongtae Kim | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/jobkorea-loop-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84-%EC%A0%95%EB%B3%B4-%EA%B2%80%EC%83%89-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-a938ca92066d)
-* [AI 에이전트 커머스 혁명: 쇼핑의 주체가 AI로 바뀌는 시대](https://thecore.media/aiagentcommerce/)
 * [Mohamed Rashad - Taking AI Agents from Prototype to Production - YouTube](https://www.youtube.com/watch?v=uDysrELDjMw)
 * [Comparing Open-Source AI Agent Frameworks - Langfuse Blog](https://langfuse.com/blog/2025-03-19-ai-agent-comparison)
   * [오픈소스 AI 에이전트 프레임워크 비교 - 어떤 것이 나에게 맞을까? | GeekNews](https://news.hada.io/topic?id=20063)
@@ -769,8 +766,6 @@ Artificial Intelligence
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
     * [Google A2A Protocol과 Microsoft Agent Framework를 기반으로 한 멀티 에이전트 시스템](https://www.linkedin.com/posts/kjh941213_github-microsoftagent-framework-a-framework-activity-7387371253554331648-92Ot/)
-* [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
-  * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/) 마이크로소프트에서 공개한 Agent 튜닝/최적화/관리 오픈소스 툴
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -1117,6 +1112,22 @@ Artificial Intelligence
   * [Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박스 | GeekNews](https://news.hada.io/topic?id=28620)
   * Codex 샌드박스 런타임을 독립 도구로 추출. deny-by-default, AI 생성 코드 실행 시 파일·네트워크·자격증명 차단
 
+## AI agentic commerce
+* [The Next 10 Years Will Be About the AI Agent Economy](https://www.nfx.com/post/ai-agent-marketplaces)
+  * [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
+* [AI 에이전트 커머스 혁명: 쇼핑의 주체가 AI로 바뀌는 시대](https://thecore.media/aiagentcommerce/)
+* [Blue Ocean Opportunities In The Agentic Economy | Investing In AI](https://investinginai.substack.com/p/blue-ocean-opportunities-in-the-agentic)
+  * [에이전트 경제의 블루오션 기회 | GeekNews](https://news.hada.io/topic?id=29171)
+  * 2026 Q1 기점 AI가 채팅→자율 실행 에이전트로 구조 전환. MCP·A2A 프로토콜이 SaaS UI 경쟁 우위 무력화, 에이전트가 데이터 레이어 직접 접근. 에이전트 거버넌스·수직 산업 플랫폼·성과 기반 가격 모델이 블루오션
+* [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
+  * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
+* [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
+* [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
+  * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
+* [Visa CLI - Command Line Commerce](https://visacli.sh/)
+  * [Visa CLI - AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 베타 | GeekNews](https://news.hada.io/topic?id=27655)
+  * AI 에이전트용 결제 MCP 서버. 카드 인증 후 이미지 생성·음악 API·프리미엄 데이터셋 등 자율 결제. API 키·사전 충전 불필요, 서버사이드 지출 한도·일회용 토큰으로 보안 확보
+
 # AI Engineering
 
 ## Agentic Engineering
@@ -1462,7 +1473,6 @@ Artificial Intelligence
     * 구글의 Agent Development Kit(ADK)를 학습할 수 있는 예제들로 구성, LLM 기반 에이전트를 개발하는 데 중점
     * 기본 에이전트부터 멀티 에이전트, 상태 관리, 도구 사용, 콜백 처리 등 다양한 실습 제공
     * API 키 설정, 환경 세팅 방법 등 실무 적용에 필요한 절차도 포함
-  * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [agents: An Open-source Framework for Autonomous Language Agents](https://github.com/aiwaves-cn/agents)
 * [AI Agent Toolkit](https://www.aiagenttoolkit.xyz/) A curated list of AI agent frameworks, launchpads, tools, tutorials, & resources
 * [AI Compiler Study](https://carpedm30.notion.site/AI-Compiler-Study-aaf4cff2c8734e50ad95ac6230dbd80b) OpenAI의 멤버 김태훈 님의 notion
@@ -3478,9 +3488,6 @@ Artificial Intelligence
   * [16일간 AI와 함께 만든 AI 모니터링 도구 이야기 | GeekNews](https://news.hada.io/topic?id=26656)
 * [vibium: Browser automation for AI agents and humans](https://github.com/VibiumDev/vibium)
   * [Vibium - AI와 인간을 위한 브라우저 자동화 도구 | GeekNews](https://news.hada.io/topic?id=25327)
-* [Visa CLI - Command Line Commerce](https://visacli.sh/)
-  * [Visa CLI - AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 베타 | GeekNews](https://news.hada.io/topic?id=27655)
-  * AI 에이전트용 결제 MCP 서버. 카드 인증 후 이미지 생성·음악 API·프리미엄 데이터셋 등 자율 결제. API 키·사전 충전 불필요, 서버사이드 지출 한도·일회용 토큰으로 보안 확보
 * [Visily - AI-powered UI design software](https://www.visily.ai/)
 * [vmlx: Fastest Local AI for Mac](https://vmlx.net/)
   * [vmlx](https://github.com/jjang-ai/vmlx)
@@ -5056,8 +5063,6 @@ Artificial Intelligence
     * [JimLiuxinghai/find-skills](https://clawhub.ai/JimLiuxinghai/find-skills)
     * [peterokase42/dont-hack-me](https://clawhub.ai/peterokase42/dont-hack-me)
   * [claw-memory: Shared persistent memory for AI agent instances via Cloudflare Workers + TiDB Cloud](https://github.com/siddontang/claw-memory)
-  * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
-    * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
   * [clawtime: Time tracking and productivity analytics for OpenClaw agents](https://github.com/youngkent/clawtime)
   * [ClawWork: OpenClaw as Your AI Coworker - $15K earned in 11 Hours](https://github.com/HKUDS/ClawWork)
     * [ClawWork - OpenClaw 경제 생존 벤치마크 | GeekNews](https://news.hada.io/topic?id=26797)
