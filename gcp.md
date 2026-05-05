@@ -334,6 +334,8 @@ Google Cloud Platform GCP
   * [always-on-memory-agent: Gemini agents with persistent memory](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent)
 * [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
   * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
+* [Google Workspace City — Antigravity Edition](https://strong-taiyaki-02fb75.netlify.app/)
+  * Google Workspace 공략·컨설팅 포털 (일본어)
 * [Google Workspace CLI: one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more](https://github.com/googleworkspace/cli)
   * [Google Workspace를 CLI 하나로 제어하는 도구, gws 완전 정리](https://digitalbourgeois.tistory.com/2841)
   * Google Discovery Service 기반으로 동적 빌드. Drive/Gmail/Calendar/Sheets/Docs/Chat/Admin 등 통합 CLI. AI 에이전트 스킬 포함
