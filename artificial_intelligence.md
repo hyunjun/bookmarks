@@ -699,6 +699,11 @@ Artificial Intelligence
   * 단일 에이전트 28/28 성공, 계층형 18/28, 자율조직화 9/28, 파이프라인 0/28. 조직 기능장애는 기질(substrate)에 독립적으로 발생. Crawford-Sobel 신호 열화, Goodhart 법칙 등 정보이론적 제약이 근본 원인
 * [AI 에이전트 메모리의 3가지 트렌드 | 엄상현](https://www.linkedin.com/posts/%EC%83%81%ED%98%84-%EC%97%84-5a03b628a_%ED%95%B4%EC%8B%9C%EB%93%9C-%EA%B9%80%EC%84%9C%EC%A4%80-%EB%8C%80%ED%91%9C%EB%8B%98%EC%9D%98-memkraft-garry-tan-y-%EC%BB%B4%ED%94%BC%EB%84%A4%EC%9D%B4%ED%84%B0-share-7449291698750517249-rTrI)
   * RAG 우회(벡터 대신 마크다운+git), 복리 지식(세션마다 성장), 이중 아키텍처(컴파일 상태+append-only 타임라인) 3가지 트렌드
+* [5 key AI memory systems, explained simply | James Code Lab](https://www.facebook.com/share/p/1B12tiJ6An/)
+  * Short-Term(실시간 컨텍스트), Long-Term(세션 간 지식 재사용), Episodic(이벤트 기반 학습), Semantic(사실/관계 지식), Procedural(워크플로우 실행) 5개 메모리 레이어
+* [Subagents vs Advisor: Distribution vs Escalation](https://generativeprogrammer.com/p/subagents-vs-advisor-distribution)
+  * [Subagents vs Advisor: Distribution vs Escalation | 박상길](https://kr.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_subagents-vs-advisor-distribution-vs-escalation-activity-7456499761739894784-TW0m)
+  * 작업을 하위 에이전트에 분산하는 서브에이전트 구조가 단순 어드바이저 방식보다 성능 우위. 작업 복잡도가 커질수록 정확도 격차 확대, 토큰 증가는 성과로 정당화
 * [The 'files are all you need' debate misses what's actually happening in agent memory architecture - The New Stack](https://thenewstack.io/ai-agent-memory-architecture/)
   * 단순 파일 기반 스토리지로는 부족하다는 주장. 현대 에이전트 메모리는 그보다 복잡한 아키텍처 필요
 * [12분 49초 만에 한 달치 기획이 나왔다: 콘텐츠 AX 실험기 ① | 요즘IT](https://yozm.wishket.com/magazine/detail/3647/)
@@ -3028,6 +3033,8 @@ Artificial Intelligence
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
 * [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
   * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
+* [ship-safe: CLI security scanner built for the agentic era](https://github.com/asamassekou10/ship-safe)
+  * CI/CD 오설정, 에이전트 권한 위험, MCP 도구 인젝션, 하드코딩 시크릿, DMCA 플래그 AI 의존성 탐지
 * [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
   * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
   * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
@@ -4692,6 +4699,9 @@ Artificial Intelligence
   * [Ten Months with Copilot Coding Agent in dotnet/runtime | .NET Blog](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)
     * [대규모 코드베이스에 AI 적용하기 - .NET runtime에서의 Copilot Coding Agent 10개월](https://blog.naver.com/drvoss/224236293512)
     * dotnet/runtime에 CCA 10개월 적용 결과. PR 878개 중 535개 머지(67.9%), 약 27만줄 순증. 코드 정리(84.7%), 테스트(75.6%) 등 기계적 작업에 강점. 명확한 인스트럭션이 성공률(41.7%→71%)을 결정하며, 병목이 코드 생산에서 코드 리뷰로 이동
+  * [awesome-copilot: Community-contributed instructions, agents, skills, and configurations for GitHub Copilot](https://github.com/github/awesome-copilot)
+    * [급작스레 코드베이스 인계받고 멘붕 올 때 - awesome-copilot | Bora Violet Lee](https://www.facebook.com/share/1FquuRoMUQ/)
+    * MS 팀원들이 주축, 커뮤니티가 유지보수. SKILL, 훅, 플러그인, 에이전트 생성 프롬프트 종합 패키지
   * [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
     * [CamoLeak: GitHub Copilot의 치명적 취약점이 프라이빗 소스코드를 유출함 | GeekNews](https://news.hada.io/topic?id=23631)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
