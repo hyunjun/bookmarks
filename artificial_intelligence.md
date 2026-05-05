@@ -791,6 +791,10 @@ Artificial Intelligence
   * [/init으로 생성한 AGENTS.md가 오히려 비용을 20% 늘리는 이유와 올바른 컨텍스트 설계 전략](https://digitalbourgeois.tistory.com/2811)
   * [AGENTS.md — a simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
   * [AGENTS.md](https://github.com/golbin/AGENTS.md)
+* [agentskill: Let any agent produce code indistinguishable from the existing codebase](https://github.com/airscripts/agentskill)
+  * [Turning Repository Knowledge Into Usable Agent Context | DEV Community](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+  * [AI 코딩 에이전트를 위한 저장소 컨텍스트 정리 도구, Agentskill 이해하기](https://digitalbourgeois.tistory.com/3053)
+  * 레포지토리 지식을 에이전트 컨텍스트로 변환. 기존 코드베이스와 구분되지 않는 코드 생성을 목표
 * [Agent Skills](https://agentskills.io)
   * [Claude 가 만든 skills 가 OpenAI, Cursor 등이 받아들이며 agentskills.io 라는 표준... 이제 SKILL.md, scripts/, references/, assets/ 구조를 따르지 않으면 성능 하락](https://www.linkedin.com/posts/gb-jeong_claude-%EA%B0%80-%EB%A7%8C%EB%93%A0-skills-%EA%B0%80-openai-cursor-%EB%93%B1%EC%9D%B4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%9D%B4%EB%A9%B0-activity-7408299241556606976-Ol2y/)
   * [🔍 Anthropic 이 공개한 SKILL.md body 작성 규칙 5가지, 문서에 숨어 있었습니다 놓치기 쉬운 부분입니다. Skill 은 YAML frontmatter 두 줄이면 만들 수 있지만 body 를 어떻게 쓰느냐에 따라 결과물 품질이 완전히 갈리거든요. Anthropic 공식 문서와 엔지니어링 블로그를 교차 검증하면서 작동 구조와… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_anthropic-%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-skillmd-body-%EC%9E%91%EC%84%B1-%EA%B7%9C%EC%B9%99-5%EA%B0%80%EC%A7%80-activity-7428729561946722304-O3kE)
@@ -999,6 +1003,9 @@ Artificial Intelligence
   * A new framework for deploying verifiable AI agents on the open network, built for DeFAI and DeSci innovation
   * It brings compute verification for high stakes operations and lightning fast agent deployment
 * [open-agent-builder: 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution](https://github.com/firecrawl/open-agent-builder)
+* [openagentd: Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams](https://github.com/lthoangg/openagentd)
+  * [OpenAgentd - Personal Assistant | OpenClaw Community](https://www.facebook.com/groups/1577315533418837/posts/1658777301939326/)
+  * 100% 로컬 실행 셀프호스팅 AI 에이전트 OS. 이미지·비디오 생성, 비디오 확장, 영구 메모리, 멀티 에이전트 팀
 * [OpenAGI — Make autonomous agent development accessible](https://openagi.aiplanet.com/)
   * [openagi](https://github.com/aiplanethub/openagi/)
   * 멀티에이전트 시스템, 장기 메모리, 태스크 분해·계획, 웹 검색. OpenAI/Gemini 지원
@@ -1474,6 +1481,8 @@ Artificial Intelligence
 * [apfel — Mac에 내장된 무료 AI를 활용하는 CLI 도구](https://apfel.franzai.com/)
   * [apfel - Mac에 이미 내장된 무료 AI를 활용하게 해주는 도구 | GeekNews](https://news.hada.io/topic?id=28178)
   * macOS 26+ FoundationModels.framework 기반. CLI·OpenAI 호환 HTTP 서버(포트 11434)·대화형 채팅. 100% 로컬, API 키 불필요, MCP 지원
+* [ARC-Neuron-LLMBuilder: A governed local AI build-and-memory system that trains small brains](https://github.com/GareBear99/ARC-Neuron-LLMBuilder)
+  * 로컬 AI 빌드·메모리 거버넌스 시스템. 작은 brain 훈련, 비교, 우수한 것 보존, 열세한 것 아카이브. 결정 근거 증거 보존. v1.0.0-governed
 * [awesome-generative-ai-guide: A one stop repository for generative AI research updates, interview resources, notebooks and much more!](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 * [Awesome Open Source AI](https://awesomeosai.com/)
   * [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
@@ -3376,6 +3385,9 @@ Artificial Intelligence
 * [Sentrux — Real-time architectural sensor for AI agents](https://sentrux.dev/)
   * [sentrux](https://github.com/sentrux/sentrux)
   * Rust 기반 실시간 코드 아키텍처 품질 센서. 52개 언어, MCP 9개 도구, 0~10000점 품질 점수, 트리맵 시각화
+  * [AI 에이전트 개발에서 코드 품질을 지켜주는 아키텍처 센서, sentrux](https://digitalbourgeois.tistory.com/3052)
+  * [sentrux — The sensor that helps AI agents close the feedback loop](https://sentrux.dev/)
+    * Rust 기반 오픈소스 코드 품질 측정 도구. 단일 "quality signal" 점수로 AI 에이전트(Claude Code 등)가 아키텍처 저하 감지. 5차원(modularity·acyclicity·depth·equality·redundancy) 그래프 이론 분석, MCP 프로토콜 통합
 * [serena: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)](https://github.com/oraios/serena)
   * [Serena MCP 개요와 설치, Claude Code 통합 - Hans Tech Blog](https://hansdev.kr/tech/serena-mcp/)
   * [🤖 Serena: 무료 오픈소스 코딩 에이전트 툴킷 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Serena-%EB%AC%B4%EB%A3%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%88%B4%ED%82%B7-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -4069,8 +4081,10 @@ Artificial Intelligence
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
-    * [autoskills](https://www.autoskills.sh/)
+    * [autoskills — Auto-install best AI skills for your project](https://www.autoskills.sh/)
     * `npx autoskills`로 기술 스택 자동 감지 후 skills.sh에서 관련 스킬 자동 설치+CLAUDE.md 생성. Node.js 22+
+    * [autoskills: 프로젝트 기술 스택을 자동으로 분석해 AI 에이전트 스킬을 설치하는 도구](https://digitalbourgeois.tistory.com/3054)
+      * 프로젝트 기술 스택 자동 감지(React, Next.js, Vue, Astro, Tailwind 등 20+)하여 skills.sh에서 최적 AI 에이전트 스킬 자동 설치
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
     * Claude Code 자율 실행 세션에 Discord 브릿지 연결. 작업 중 대화 가능, 중단 시 알림 수신
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
@@ -5176,9 +5190,6 @@ Artificial Intelligence
   * 100+ 전문 에이전트 스웜 조율, 자기학습 라우팅, 합의 기반 의사결정, 벡터 메모리. API 비용 최대 85% 절감
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
-* [sentrux — The sensor that helps AI agents close the feedback loop](https://sentrux.dev/)
-  * [sentrux](https://github.com/sentrux/sentrux)
-  * Rust 기반 오픈소스 코드 품질 측정 도구. 단일 "quality signal" 점수로 AI 에이전트(Claude Code 등)가 아키텍처 저하 감지. 5차원(modularity·acyclicity·depth·equality·redundancy) 그래프 이론 분석, MCP 프로토콜 통합
 * [Shadow](https://www.shadowrealm.ai/)
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
