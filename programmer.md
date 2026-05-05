@@ -446,6 +446,8 @@ Programmer
 * [AI 코딩 시대, 더이상 성장하지 않는 개발자들 | evan-moon](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
   * [AI 코딩 시대, 성장이 멈추는 개발자의 뇌에서 일어나는 일 | GeekNews](https://news.hada.io/topic?id=28653)
   * AI를 잘 쓰는 핵심은 출력물 품질을 판단·교정하는 능력인데, AI에 의존할수록 이 능력이 약화. Bjork의 '바람직한 어려움' 이론, 인출 연습 효과
+* [Agentic Coding is a Trap | Lars Faye](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+  * AI 에이전트 감독에 필요한 코딩 능력 자체가 과잉 사용으로 위축되는 역설. AI를 계획·임시 도움 보조 역할로 격하하고 직접 코딩 유지 권장. 토큰 기반 서비스 벤더 락인·비용 리스크 경고
 * [The 3 Words That Secretly Drive Developer Productivity & Motivation - Yanina Ledovaya - GOTO 2025 - YouTube](https://www.youtube.com/watch?v=y0j9rzME8YY)
   * [개발자 생산성과 동기부여의 비밀: 자율성, 역량, 관계성 | LiveWiki](https://livewiki.com/ko/content/developer-productivity-motivation)
   * JetBrains DX 리서치 팀리드의 자기결정이론(Self-Determination Theory) 적용. 자율성·역량·관계성 3요소가 개발자 생산성의 심리적 기반
