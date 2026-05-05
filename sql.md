@@ -1621,6 +1621,9 @@ SQL
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pg-osc: Zero downtime schema changes in PostgreSQL](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
   * [Revolutionizing PostgreSQL Schema Changes with pg_osc - Mydbops | Blog](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
+* [PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick](https://github.com/NikolayS/pgque)
+  * [PgQue – Bloat 없는 Postgres 큐 | GeekNews](https://news.hada.io/topic?id=28997)
+  * Skype PgQ 아키텍처를 순수 PL/pgSQL로 재구현. C 확장·외부 데몬 없이 managed Postgres에서 바로 사용. SKIP LOCKED 큐의 dead tuple 누적 문제를 snapshot 기반으로 해결
 * [PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing](https://github.com/janbjorge/PgQueuer)
   * [PgQueuer – PostgreSQL을 작업 대기열로 이용하는 파이썬 라이브러리 | GeekNews](https://news.hada.io/topic?id=16377)
 * [pg_replicate](https://github.com/supabase/pg_replicate)
