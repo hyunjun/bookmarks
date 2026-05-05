@@ -1370,6 +1370,7 @@ Artificial Intelligence
 * [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
   * [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   * 20단계 260+ 레슨 ~290시간 종합 AI 교육. 수학 기초→ML→DL→NLP→Vision→Transformer→LLM→에이전트. Python/TypeScript/Rust/Julia 멀티언어, Claude Code 스킬로 대화형 평가, 모든 레슨에서 재사용 가능 아티팩트(프롬프트·스킬·에이전트·MCP 서버) 생산
+  * [AI 엔지니어 되려면 뭐부터 배워야 돼요? | 심성재 Sungjae Shim](https://www.facebook.com/share/p/1CGkQ7Nidb/)
 * [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Anthropic Courses](https://anthropic.skilljar.com/)
@@ -3254,6 +3255,7 @@ Artificial Intelligence
   * [LLM Knowledge Bases | DAIR.AI](https://academy.dair.ai/blog/llm-knowledge-bases-karpathy)
     * [LLM Wiki | Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
     * Karpathy 방식: LLM을 컴파일러로 활용해 원시 문서→구조화된 마크다운 위키. Ingest→Compile→Query→Maintain 4단계. 벡터DB·RAG 없이 상호작용마다 지식 베이스 자동 성장
+  * [71.5배 토큰 절감, Graphify가 LLM 토큰 비용은 낮추고 답변 정확도는 높이는 방법 - YouTube](https://youtube.com/watch?v=Ma8e25AOtao)
   * [AgentWiki - AI Agent Knowledge Base](https://agentwiki.org/)
     * 3829 페이지. Karpathy LLM Wiki 컨셉 기반 공유 지식 베이스. 원본 소스를 LLM으로 원자 페이지 분해, 시맨틱 임베딩으로 상호 참조
   * [agent-wiki: LLM-powered wiki for AI agents](https://github.com/kyopark2014/agent-wiki)
@@ -4111,6 +4113,9 @@ Artificial Intelligence
   * [awesome-claude-code-security: Security resources, hardening tools, and governance frameworks for Claude Code](https://github.com/efij/awesome-claude-code-security)
     * [awesome-claude-code-security | Efi Jeremiah](https://www.linkedin.com/posts/efi-jeremiah_github-efijawesome-claude-code-security-activity-7437977413059272704-iust)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
+  * [awesome-novel-studio: AI Web Novel Creation Harness — A Claude Code Plugin · GitHub](https://github.com/MJbae/awesome-novel-studio)
+    * [AI로 쓴 웹소설, 출판 계약까지 따낸 비결 — AI 워크플로우/하네스 엔지니어링 | 배만진](https://kr.linkedin.com/posts/mj-bae_aisqktmeuisrxgsqi-ukqqoeswmslwtfmqwislqrez-activity-7449759640109731840-YmsC)
+    * AI 웹소설 출판 계약까지 가는 콘텐츠 수익화 하네스 사례
   * [aws-skills-for-claude-code: 36 on-demand AWS skills for Claude Code](https://github.com/whchoi98/aws-skills-for-claude-code)
     * [AWS Skills for Claude Code - 36개 Skills 세트 공개 | woohyungchoi](https://www.linkedin.com/posts/woohyungchoi_aws-skills-for-claude-code-36%EA%B0%9C-skills-share-7446170588190257152-fiT-)
     * kirodotdev/powers(25개)+kiro-cli-power(11개) 기반 AWS 풀스택 개발 스킬. 대화 컨텍스트 기반 온디맨드 로딩, bash 스크립트 원클릭 설치
