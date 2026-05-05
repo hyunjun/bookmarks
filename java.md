@@ -1138,6 +1138,7 @@ Java
 
 # Java25
 * [Java 25 / JDK 25 정식 출시 | GeekNews](https://news.hada.io/topic?id=23133)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
@@ -2687,6 +2688,8 @@ Java
 * [Java Annotated Monthly – November 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/11/java-annotated-monthly-november-2020/)
 * [Java News Roundup: Jakarta EE 10 Core Profile, OpenJDK, Open Liberty, Payara, Groovy and Quarkus](https://www.infoq.com/news/2021/09/java-news-roundup-sep06-2021/)
 * [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
+* [State of the Art of Java in 2026 - Ben Evans - GOTO 2026 - YouTube](https://youtube.com/watch?v=v9Pq69Y_yqM)
+  * Red Hat Senior Principal Software Engineer·Optimizing Cloud Native Java 저자 Ben Evans 인터뷰
 
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
