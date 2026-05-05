@@ -62,6 +62,7 @@ Time Series
 * [Embrace the uncertainty: start building your probabilistic forecast with a Level Set Forecaster or Quantile Regression Forest | by Inge van den Ende | Medium](https://medium.com/@icvandenende/embrace-the-uncertainty-start-building-your-probabilistic-forecast-with-a-level-set-forecaster-or-c55d9f44f0c4)
   * [Inge van den Ende - Kickstart Your Probabilistic Forecasting | PyData Amsterdam 2025 - YouTube](https://www.youtube.com/watch?v=RIIfZ_Akeoc)
     * [확률론적 예측으로 포인트 예측 확장하기: PyData Amsterdam 2025 강연 요약](https://livewiki.com/ko/content/inge-ende-probabilistic-forecasting-pydata)
+* [Abhishek Murthy, Evans Addo - Classifying Time Series with Foundation Models (PyData Boston) - YouTube](https://www.youtube.com/watch?v=9n3dpkzPmSc)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
