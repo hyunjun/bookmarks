@@ -2937,6 +2937,7 @@ Programming
 * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | Mimul Tech blog](https://www.mimul.com/blog/ai-coding-style/)
   * [언어에 의존하지 않는 도메인 중심 코딩 원칙과 실천법 | HoJin Ha](https://kr.linkedin.com/posts/mimul_%EC%96%B8%EC%96%B4%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A4%91%EC%8B%AC-%EC%BD%94%EB%94%A9-%EC%9B%90%EC%B9%99%EA%B3%BC-%EC%8B%A4%EC%B2%9C%EB%B2%95-mimul-tech-activity-7455892940855504896-ZNNG)
   * AI가 코드 절반 이상을 작성하는 시대. 변경 가능성 우선, 도메인 언어를 코드로 정확히 번역, 작은 단위의 의도 명확화, 중복 발생 후 추상화. 초기 작성보다 코드 건강 유지가 중요
+* [TDD & DDD from the Ground Up - Christopher Simon - GOTO 2025 - YouTube](https://youtube.com/watch?v=o3--D6ydS4o)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
