@@ -2219,6 +2219,9 @@ App
 * [architecture-diagram-generator: Generate professional system architecture diagrams as standalone HTML/SVG files through a Claude AI skill](https://github.com/Cocoon-AI/architecture-diagram-generator)
   * [Create Beautiful Architecture Diagram of Any Project with this Open Source AI Tool | AlphaSignal AI](https://x.com/AlphaSignalAI/status/2044791564757766569)
   * 자연어로 아키텍처를 설명하면 Claude가 다크 테마의 HTML/SVG 다이어그램 생성. 반복 수정 가능, 단일 HTML 파일 출력
+* [ArcKit: AI-Powered Enterprise Architecture Toolkit](https://github.com/tractorjuice/arc-kit)
+  * [ArcKit | Open Source Projects](https://www.opensourceprojects.dev/post/17de373f-eba4-4940-a570-bd3722f885b8)
+  * DSL로 아키텍처 컴포넌트·관계 정의, AI 보조 시각화·문서 생성, 일관성·컴플라이언스 분석. 로컬 배포·커스텀 AI 모델 확장
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
