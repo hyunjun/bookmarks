@@ -253,6 +253,7 @@ Writing
   * [The C4 Model – Misconceptions, Misuses & Mistakes • Simon Brown • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=3Gc5pN9sGzw)
     * [VidiGo The C4 Model – Misconceptions, Misuses & Mistakes](https://vidigo.ai//share/summary/0d31111b7648)
     * [The C4 Model – Misconceptions, Misuses & Mistakes • Simon Brown • GOTO 2024 | 영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/digest/3206868/1575816)
+  * [The C4 Model - Beyond The Basics • Simon Brown • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=FqTL-_tLf6I)
   * [c4viz: c4viz: C4 Visualization](https://github.com/pmorch/c4viz)
   * [Structurizr](https://structurizr.com/)
     * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
