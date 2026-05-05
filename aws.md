@@ -1007,6 +1007,8 @@ AWS
   * AWS Network Manager에 리전간 네트워크 상태를 추적할 수 있는 Infrastructure Performance 기능 추가
   * 이를 이용하면 리전 간, AZ 간, AZ 내의 네트워크 지연시간과 상태를 모니터링 가능
   * 지표로 만들어서 CloudWatch에서 볼 수도 있고 API로 확인 가능
+* [Amazon CloudWatch Introduces OpenTelemetry Metrics Support in Preview - InfoQ](https://www.infoq.com/news/2026/04/cloudwatch-opentelemetry-metrics/)
+  * CloudWatch에 OpenTelemetry 프로토콜로 직접 메트릭 전송. AWS 서비스 메트릭과 통합 조회
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -2909,6 +2911,8 @@ AWS
 * [S3 server access logs at scale](https://engineeringblog.yelp.com/2025/09/s3-server-access-logs-at-scale.html)
 * [AWS Cloud Engineer Guide: Creating an S3 Bucket with AWS CLI and Migrating Data Using Sync | by Cloud with Hamza | Feb, 2026 | Medium](https://medium.com/@hamza46/create-an-s3-bucket-and-migrate-data-using-aws-s3-sync-d5f3ecafe511)
 * [Twenty years of Amazon S3 and building what's next | AWS](https://aws.amazon.com/ko/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)
+* [S3는 이제 Object Storage를 벗어났습니다 : Amazon S3 Files | Chris(상운) Park](https://kr.linkedin.com/posts/spark323_s3%EB%8A%94-%EC%9D%B4%EC%A0%9C-object-storage%EB%A5%BC-%EB%B2%97%EC%96%B4%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-amazon-s3-activity-7456690203081199616-KQF4)
+  * NFS 기반 프로토콜로 최대 25,000 동시 사용자 파일 접근. RAG 등 파일시스템 기반 AI 워크로드에 유용, EFS 인터페이스+S3 고가용성·이벤트 트리거·비용 효율 결합
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
