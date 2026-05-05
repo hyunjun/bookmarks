@@ -405,6 +405,7 @@ Linux
   * [Ubuntu Multipass로 개발 환경 강화하기 | GeekNews](https://news.hada.io/topic?id=16653)
 * [Ubuntu 24.10 (Oracular Oriole)](https://cdimage.ubuntu.com/releases/24.10/release/)
 * [Macbook M1/M2에 Ubuntu Asahi Linux 설치 하는 방법 - YouTube](https://www.youtube.com/watch?v=Z946l_4t7VE)
+* [How To Install Ubuntu On Mac - YouTube](https://youtube.com/watch?v=rGUssJLeyQU)
 * [우분투의 크롬 웹브라우저에서 구글 문서 사용시 한글 오타 해결 방법](https://haebojayo.tistory.com/25)
 
 # Automation
@@ -1359,6 +1360,8 @@ Linux
     * XDP는 단일 MTU 프레임 내의 원시 데이터만 접근 가능
     * HTTP와 같은 상위 계층 프로토콜 파싱에는 상위 스택의 eBPF 훅을 병용하는 것이 유리
 * [Noisy Neighbor Detection with eBPF | by Netflix Technology Blog | Sep, 2024 | Netflix TechBlog](https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd)
+* [How GitHub uses eBPF to improve deployment safety - The GitHub Blog](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)
+  * eBPF로 배포 도구에서 순환 의존성(circular dependency) 탐지·방지
 * [bpftop: bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program](https://github.com/Netflix/bpftop)
   * [Announcing bpftop: Streamlining eBPF performance optimization | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5/)
     * Netflix가 eBPF 프로그램의 성능 최적화와 모니터링을 쉽게 할 수 있게 하는 bpftop CLI를 오픈소스로 공개
