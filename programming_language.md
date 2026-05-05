@@ -339,6 +339,8 @@ Programming Language
 * Chapel
   * [Learn Chapel in Y minutes](http://learnxinyminutes.com/docs/chapel/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
+* [The Chuks Programming Language](https://chuks.org/)
+  * 현대 백엔드 언어. 내장 VM, AOT 컴파일러, structured concurrency, 고성능 HTTP 런타임. 실서비스·게임 백엔드용
 * [Concurnas: the New Language on the JVM for Concurrent and GPU Computing](https://www.infoq.com/news/2020/05/concurnas-jvm-gpu/)
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
 * [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
