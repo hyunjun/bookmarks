@@ -4332,6 +4332,12 @@ Artificial Intelligence
     * [getdesign.md - stitch가 유행시킨 DESIGN.md 모음 사이트](https://getdesign.md/)
       * [stitch가 유행시킨 DESIGN.md를 모아놓은 사이트 | GeekNews](https://news.hada.io/topic?id=28947)
       * Apple 등 유명 사이트의 DESIGN.md 파일 수집 사이트. 디자이너 없이 디자인 명세 기반 개발 가능성 논의
+    * [DESIGN.md를 어디서 구해야 하는지 모르겠다고요? (designmd.ai 외 3개 커뮤니티) | SangRok Jung](https://kr.linkedin.com/posts/sangrok-jung-9ab787311_designmd%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%9C-%EA%B5%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4%EA%B3%A0%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-share-7450481009009270785-n2B8)
+      * designmd.ai(디자인 시스템 npm 100개+), getdesign.md 등 3개 커뮤니티 소개
+      * [DESIGN.md - Design Systems for AI Coding](https://designmd.ai/)
+      * [DESIGN.md Library — 423 AI-Ready Design Systems | designmd.app](https://designmd.app/)
+      * [DesignMD — Generate DESIGN.md Files with AI](https://designmd.me/)
+      * [getdesign.md — DESIGN.md collection for AI coding agents](https://getdesign.md/)
     * [Refero Styles — Design Systems for AI Agents](https://styles.refero.design/)
       * AI 에이전트용 DESIGN.md 라이브러리 검색. 상위 웹사이트의 컬러·타이포그래피·간격·컴포넌트 패턴 큐레이션
     * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
