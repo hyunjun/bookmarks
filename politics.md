@@ -435,6 +435,8 @@ Politics
 * [삼성이 싫어하는 어느 보좌관 이야기](http://www.huffingtonpost.kr/byoungchun-choi/story_b_11005794.html)
 * [세계 석학 3인의 냉철한 시선 '한국, 한국인을 말한다'](http://m.media.daum.net/m/life/newsview?newsId=20140507160910101)
 * [한국의 청년세대는 무슨 생각을 할까](https://www.sisain.co.kr/news/articleView.html?idxno=42176)
+* [The Price of Silence - Hans Litten과 Carl Schmitt에서 배우는 법치의 무게 | 박주현](https://www.facebook.com/muzland/posts/pfbid02TrzHAXqH35PKZKRqJy9TwDJrzXxCAyAJpFsGVAJm9Le1PnA9SuM8EzQq2PC2ZdDvl)
+  * 1930년대 나치 독일에서 히틀러를 반대 심문한 Hans Litten(다하우에서 사망)과 권력에 법을 제공한 Carl Schmitt 대비. 지식 엘리트의 비겁한 침묵이 제도 붕괴 경고
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
