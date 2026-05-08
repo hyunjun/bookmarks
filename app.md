@@ -1817,6 +1817,8 @@ App
   * [Turning my Windows Laptop into a MacBook (for Logic Pro) - YouTube](https://www.youtube.com/watch?v=4u9hv91cWFI)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
+* [Phosphor: Free and open-source iOS device manager for macOS](https://github.com/momenbasel/Phosphor)
+  * 백업 탐색, 메시지 내보내기, 사진 추출, 앱 관리. 구독·iCloud 락인 없음
 * [Pika • Super High Fives](https://superhighfives.com/pika)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
