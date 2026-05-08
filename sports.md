@@ -122,6 +122,8 @@ Sports
 * ["수익 만큼 지출도 늘었다" 흥행 대박→구단 살림살이 얼마나 나아졌나 1200만 프로야구 GO!②](https://v.daum.net/v/20260102135149874)
 * [돈 버는 KBO리그, 흑자 시대 열렸다? 계열사 광고 빼면 여전히 적자...샴페인 터뜨리기엔 이르다](https://v.daum.net/v/20260430130753759)
 * [KBO 구단들은 모기업 없이 생존할 수 있을까? 본격 10개 구단 재무제표 분석✔️ | 야구에산다 194구 - YouTube](https://www.youtube.com/watch?v=gSqIp4kIaB0)
+* [KBO 10개 구단의 재무제표 #비야인드 2026.05.04 - YouTube](https://www.youtube.com/watch?v=QKYKnLMPvdU)
+* [역대급 호황에도 야구가 적자인 이유 | 지식한입 - YouTube](https://www.youtube.com/watch?v=n1IdwURe5Is)
 * [이랜드 뮤지엄](https://elandmuseum.com/)
 * ['오심 남발' 메이저리그, 획기적인 변화가 필요하다 | 이창섭](https://v.daum.net/v/ybIpttOJ2p)
   * 기술의 발전을 잘 활용하는 곳이 메이저리그인데, 경기 판정은 유독 보수적으로 접근하면서 같은 문제가 반복
@@ -215,6 +217,8 @@ Sports
 * [무명 투수에게 마법이…9개월 만에 143km→151km, 어떻게 가능했나](https://v.daum.net/v/20260114200724417) 부상 위험과 구속은 어깨 수치와 상관관계
 * [야구의 절대 근본이 흔들린다? 죽어가는 포심 패스트볼 - YouTube](https://www.youtube.com/watch?v=PlJi8EEMmsI) 포심 가치 하락과 반등
 * [어깨는 쓸수록 진짜 약해지나요?](https://yagongso.com/does-the-shoulder-really-get-weaker-the-more-you-use-it/)
+* [왜 내가 경기를 보면 질까? 승패 요정의 비밀 | 서울대 장원철 교수 | 샤로잡다 시즌2 - YouTube](https://www.youtube.com/watch?v=-fy_KB_KlQk)
+  * 데이터 문해력: 무작위 오독, 선택적 편향, 로또 음모론, 야구 데이터, AI 시대 인간의 질문 중요성
 * [한국야구학회 - YouTube](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%EC%95%BC%EA%B5%AC%ED%95%99%ED%9A%8C)
 
 # Basketball
