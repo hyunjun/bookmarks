@@ -772,6 +772,9 @@ Artificial Intelligence
   * [Exciting news from Microsoft Research!](https://www.linkedin.com/posts/daily-papers-ab213b360_exciting-news-from-microsoft-research-theyve-activity-7359740690215362560-iyeT/)
   * [이상선 - 마소에서 공개한 Agent 튜닝/최적화/관리 오픈소스 tool 링크... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02JdDUk4esoRE1sBWameKuj14ETgxsZaEiYH3uxhXpLhehSBmXz3W1RXNpQMSmYqw6l)
   * [코드변경 없이 모든 AI 에이전트를 최적화 가능한 강화학습 머신으로 변환해주는 오픈소스 프레임워크 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoft-activity-7391613983985852416-mKXy)
+* [AgentMemory — Persistent memory for AI coding agents](https://www.agent-memory.dev/)
+  * [agentmemory: #1 Persistent memory for AI coding agents based on real-world benchmarks](https://github.com/rohitg00/agentmemory)
+  * 로컬 실행, 외부 DB 불필요. AI 코딩 에이전트용 영구 메모리 벤치마크 1위
 * [Agent-Memory-Paper-List: AI 에이전트 메모리 연구 논문 큐레이션](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
   * 형태(토큰/파라메트릭/잠재), 기능(사실/경험/작업), 동태(형성/진화/검색) 분류 체계
 * [AGENTS.md](https://agents.md/)
@@ -942,6 +945,8 @@ Artificial Intelligence
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
   * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-share-7455171430251405312-hVvn)
     * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
+  * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
+    * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
