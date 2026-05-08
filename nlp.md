@@ -4409,6 +4409,8 @@ NLP
   * [Claude Code에서 대한민국 법령 검색하는 방법 (3분 완성)](https://fornewchallenge.tistory.com/entry/%E2%9A%96%EF%B8%8F-Claude-Code%EC%97%90%EC%84%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%B2%95%EB%A0%B9-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EB%B6%84-%EC%99%84%EC%84%B1)
   * [미용실에서 흥미로운 대화 - 실업급여·보험 분쟁에 법률 MCP 활용 | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EC%96%B4%EC%A0%9C-%EB%AF%B8%EC%9A%A9%EC%8B%A4%EC%97%90%EC%84%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9B%90%EC%9E%A5%EB%8B%98%EC%9D%B4-%ED%87%B4%EC%82%AC%ED%95%9C-%EC%A7%81%EC%9B%90%EC%9D%98-%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-share-7443832006372827136-SW1u/)
     * 웹 검색 결과가 아닌 법제처 원본 DB 직접 연결의 차이를 강조. 실업급여·보험 분쟁 등 일상 법률 문제에 AI+법률 MCP 활용 사례
+  * [AX 불 지핀 행정 8급 공무원 "혁신 가로막는 건 조직문화" | 지디넷코리아 (네이버)](https://n.news.naver.com/article/092/0002421919)
+    * 류승인 주무관 인터뷰. AI 확산엔 성과 내는 사람 인정·보상 체계가 필수. 공공 부문 AX 현장 사례
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
@@ -5492,7 +5494,6 @@ NLP
 * [Analyzing Twitter Part 3](http://rohankshir.github.io/2015/12/25/analyzing-twitter-part-3/)
 
 # Voice
-
 * [THE COMPUTERS ARE LISTENING HOW THE NSA CONVERTS SPOKEN WORDS INTO SEARCHABLE TEXT](https://firstlook.org/theintercept/2015/05/05/nsa-speech-recognition-snowden-searchable-text/)
 * [“음성인식 기술로 만화 주인공과 대화 나눠요”](http://www.bloter.net/archives/234697)
 * [Google voice search: faster and more accurate](https://research.googleblog.com/2015/09/google-voice-search-faster-and-more.html)
@@ -5535,6 +5536,9 @@ NLP
 * [5 Best Open Source Speech-to-Text Tools in 2026](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026)
 * [Voice dictation setup for Ollama + Gemma 4 on Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
   * [Mac mini에서 Ollama과 Gemma 4 26B 모델 설정 요약 | GeekNews](https://news.hada.io/topic?id=28205)
+* [Advancing voice intelligence with new models in the API | OpenAI](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/)
+  * [OpenAI, GPT-5급 추론 능력을 가진 GPT-Realtime-2 시리즈 공개 | GeekNews](https://news.hada.io/topic?id=29284)
+  * 3개 신규 오디오 모델: GPT-Realtime-2(GPT-5급 추론, 도구 호출·중단 처리), GPT-Realtime-Translate(70+ 언어), 전사 모델
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
