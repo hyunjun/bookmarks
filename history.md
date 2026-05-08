@@ -275,6 +275,8 @@ History
 * [최고의 개혁 | #지식채널e - YouTube](https://www.youtube.com/watch?v=hgdkkBfmYE0) 대동법
 * [조선의 문제적 인물 ⑧ 송강 정철과 기축옥사: 가짜 역사가 만든 잔혹한 설계자의 실체 | 김갑수](https://www.facebook.com/kimcapsu/posts/pfbid0JQs1U6SPJLiqHYbBssVvfqtJxmboVE92Sy1b8ZZLXDX5Q4nqw7J8Kt7oAERZGtTsl)
   * 1589년 기축옥사를 정철이 설계했다는 통념 반박. 주요 사망은 정철 사임 후 이성룡 체제에서 발생, 정철은 선조 명을 집행한 위관일 뿐. KBS 방송이 "조선의 홀로코스트"로 선정적 연출하며 왕권·당쟁 구조 대신 개인 책임 부각
+* [현실정치의 귀재, 한명회 | 김희곤](https://www.facebook.com/share/1BCF646aGs/)
+  * 한명회의 가문·배경(개국공신 한상질의 손자)과 조선 초기 현실 정치에서의 역할
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
