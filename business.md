@@ -1634,6 +1634,9 @@ Business
 * [번역 "Collaboration" is bullshit](https://wjkoh.com/posts/collaboration-is-bullshit/)
   * [번역 "Collaboration" is bullshit | Woojong Koh](https://www.linkedin.com/posts/wjkoh_%EB%B2%88%EC%97%AD-collaboration-is-bullshit-share-7442503206053765120-JlNv)
   * 협업 도구의 과다 사용이 실제 업무를 방해하고 책임 회피를 초래. 진정한 성과는 소수의 깊이 있는 개입에서 비롯된다는 주장
+* [개발자와 DBA의 직무 갈등 - 특정 기술 도입을 두고 벌어지는 두 직무간의 갈등과 대처 방안 | 코딩하는기술사 - YouTube](https://www.youtube.com/watch?v=TdvzYJsMMBg)
+  * [개발자와 DBA 갈등 해결, 협업의 기술 도입 전략 | LiveWiki](https://livewiki.com/ko/content/developer-dba-conflict-tech-adoption)
+  * 토마스-킬만 갈등관리 모델(TKI), 직무간 관심사·우선순위 차이로 생기는 기술 도입 갈등. 근본 원인과 대처 방안
 
 # Conversation, Communication
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
