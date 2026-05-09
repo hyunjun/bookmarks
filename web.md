@@ -1245,6 +1245,9 @@ Web
 * [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [HTML이 당신의 생각보다 더 중요한 이유 | ~/xo.dev](https://xo.dev/why-html-is-important-than-you-think/)
+* [The unreasonable effectiveness of HTML — examples](https://thariqs.github.io/html-effectiveness)
+  * [이승현 - markdown 한계와 HTML의 효과 | Facebook](https://www.facebook.com/epoko/posts/pfbid02zVHwf6o6AVQskXsNQfGRJHJTF8D4W98i8xpMVPZYjBpntDxfJvGYTjiC7cSwxuqgl)
+  * AI 에이전트가 생성하는 결과물로서 HTML의 효용. 선형 마크다운 대신 공간 배치·상호작용·슬라이더·토글로 상태 변화 시각화. 탐색·코드 리뷰·디자인 시스템·프로토타이핑에 유리
 * [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
 * [`<section>` 버리고 HTML5 `<article>` 써야 하는 이유 - WebactuallyWebactually | 웹사이트를 만드는 사람들을 위한 온라인 정보](https://webactually.com/2020/03/03/%3Csection%3E%EC%9D%84-%EB%B2%84%EB%A6%AC%EA%B3%A0-HTML5-%3Carticle%3E%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
   * HTML에서 어디에 어떤 요소를 써야 하는지는 오랫동안 나오는 질문, 이 글에서는 `<section>` 대신 `<article>` 권유
