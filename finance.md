@@ -332,6 +332,8 @@ Finance
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
 * [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
   * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
+* [korean-jangbu-for: 한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용](https://github.com/kimlawtech/korean-jangbu-for)
+  * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
 * [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
