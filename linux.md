@@ -1582,6 +1582,8 @@ Linux
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
   * [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+  * [niri — A scrollable-tiling Wayland compositor](https://niri-wm.github.io/niri/)
+    * [niri: A scrollable-tiling Wayland compositor](https://github.com/niri-wm/niri)
 * [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [webcamize: Use (almost) any camera as a webcam](https://github.com/cowtoolz/webcamize)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
