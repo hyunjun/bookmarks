@@ -2666,6 +2666,9 @@ Artificial Intelligence
 * [Meta Pivots From Open Weights, Big Pharma Bets On AI, Regulatory Patchwork, and more... | The Batch Issue 349](https://www.deeplearning.ai/the-batch/issue-349/)
   * AI-native 소프트웨어 엔지니어링 팀이 전통적 팀과 다르게 운영되는 방식, Meta 오픈 웨이트 전환, 빅파마 AI 베팅, 규제 패치워크 등
 * [Wontae Lee - <<브뤼셀의 회심(回心): 유럽 AI 규제 완화 조짐과 ‘Apply AI Strategy’,... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0g5Z7H5AY3Hf7CBxUsN6ZWU8vdsQYcNxrcEpDuKk1pXDKUidEML7LB2psHC3o5Nigl) 유럽의 AI 법체계가 이제 ‘룰북(rulebook)’에서 ‘플레이북(playbook)’으로 이동
+* [수요포럼 장광호 박사 "인공지능기본법 시행이 연구자에게 주는 기회는?" - YouTube](https://www.youtube.com/watch?v=Jl2g_EpQJeI)
+  * [인공지능기본법 시행이 연구자에게 주는 기회: 장광호 박사의 수요포럼 강연 요약](https://livewiki.com/ko/content/ai-basic-law-researchers-opportunity)
+  * 2026년 AI기본법 시행으로 글로벌 AI 규제가 하드로(Hard Law) 시대 진입. 사회과학 연구자의 가치 판단·윤리적 성찰이 기업 리스크 대응 자원화. 3가지 수익 모델: ①고영향 거버넌스 자문 ②도메인 특화(의료·금융) 민간 윤리위 대행 ③해외 AI 사업자 국내 대리인 수탁
 * [“90일마다 갈아엎는 AI 스택” 너무 빠른 기술 진화의 역설 | CIO](https://www.cio.com/article/4103768/90%ec%9d%bc%eb%a7%88%eb%8b%a4-%ea%b0%88%ec%95%84%ec%97%8e%eb%8a%94-ai-%ec%8a%a4%ed%83%9d-%eb%84%88%eb%ac%b4-%eb%b9%a0%eb%a5%b8-%ea%b8%b0%ec%88%a0-%ec%a7%84%ed%99%94%ec%9d%98.html)
   * “가장 먼저 해야 할 일은 ‘AI가 어디서부터 개입하는지, 기대하는 성능 수준은 무엇인지, 무엇을 달성해야 좋은 결과로 볼 것인지, 실제로 어떤 도구를 사용할 것인지’를 매우 구체적으로 정의하는 것이다”라고 강조
 * [충격적입니다. Claude Code 가 Cursor를 앞질렀고, 6개월 안에 Copilot도 제끼고 1등입니다.. 사티아(MS CEO)가 "1등이지만, 혁신 안 하면 죽는다"라고 말했습니다. 모든 자료를 모은 NotebookLM 에서 보세요. Claude Code, Cursor, Copilot이 모두 약 10억 달러 규모의 비슷한 수익을 내고 있고… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9E%85%EB%8B%88%EB%8B%A4-claude-code-%EA%B0%80-cursor%EB%A5%BC-%EC%95%9E%EC%A7%88%EB%A0%80%EA%B3%A0-6%EA%B0%9C%EC%9B%94-%EC%95%88%EC%97%90-activity-7395585141512966146-OT1U)
@@ -2834,14 +2837,16 @@ Artificial Intelligence
   * OpenAI x 무신사 인플루언서 초청 행사 참관기. OpenAI 코리아 엔지니어와 무신사 CTO가 Codex 활용 사례 대담. 기업 "AI 대전환"이 본격화되고 있다는 현장 감상
 * [SeonYoung Im - 중국AI미래지도 배달앱이 엔비디아 없이 1조 파라미터 AI를 만들다 메이퇀 LongCat-2.0 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/4405686616372228/)
   * 메이퇀(美团, Meituan)이 NVIDIA 없이 1조 파라미터 AI 모델 LongCat-2.0 개발. 반도체 완전 독립 선언. 딥시크조차 하지 못한 수준의 자립
+* [SeonYoung Im - 중국AI미래지도 14세 칭화대 입학·30세 프린스턴 종신교수, 천재가 바꾸는 과학 연구실의 미래 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/4407611506179739/)
+  * 두 명의 천재가 AR 글라스+자체 AI 모델로 실험실 초보를 1주일 만에 전문가 수준으로. "앞으로 중요한 것은 당신이 얼마나 뛰어난가가 아니라 얼마나 뛰어난 AI를 살 수 있는가"
+* [SeonYoung Im - 중국AI미래지도 미국 모델도 중국 모델도 껴안은 오픈소스 AI 인프라 (RadixArk/SGLang) | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid02tG8mHeFJCyGvYa9RnTnGTKcUTEivfVRLDH67AdDeoDCS3YCQKnPuEReBZxcmKWCMl)
+  * RadixArk 1억 달러 시드(기업가치 4억 달러). 오픈소스 추론 엔진 SGLang이 Llama/Qwen/DeepSeek/Kimi/GLM/GPT/Gemma/Mistral 및 NVIDIA/AMD/Intel/TPU를 Day-0 지원. 창업자 Ying Sheng(xAI 출신)·Banghua Zhu(NVIDIA 출신)의 중국 최고대→미국 최고대학원→미국 빅테크 경로가 모델·하드웨어 중립성의 기반. NVentures·AMD·MediaTek·Databricks 동반 투자
 * [LLMRisks Archive - AI 에이전트 위험 10가지 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B1%B0%EB%82%98-%EA%B8%B0%ED%9A%8D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%B4-%EA%BC%AD-%EB%B3%B4%EC%8B%9C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9E%90%EB%A3%8C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%86%94%EC%A7%81%ED%9E%88-share-7455506165297377280-va6T)
   * OWASP에서 정의한 LLM 기반 프로젝트의 10가지 위험요소. 한글 버전 포함, 개념과 사례 정리. AI 에이전트 개발·기획자를 위한 보안 가이드
 * [SungJae Shim - 3,000명을 절반으로 줄인 DeNA가 매주 회사에서 모여서 하는 일 | Facebook](https://www.facebook.com/sungjae.shim/posts/10215284897431425/)
   * DeNA는 AI에게 일 시키는 게 아니라 AI가 어떻게 일했는지 로그를 같이 읽음. 남바 토모코 회장 강연 기반 후속 글
 * ["흩어진 GPU 하나로 묶어" 구글, '비동기·분산식' 모델 학습법 공개 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209767)
   * Google DeepMind가 기존 완전 동기화 구조를 벗어나 비동기·분산 방식으로 대규모 모델 학습 가능한 새 아키텍처 제시
-* [SeonYoung Im - 중국AI미래지도 14세 칭화대 입학·30세 프린스턴 종신교수, 천재가 바꾸는 과학 연구실의 미래 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/4407611506179739/)
-  * 두 명의 천재가 AR 글라스+자체 AI 모델로 실험실 초보를 1주일 만에 전문가 수준으로. "앞으로 중요한 것은 당신이 얼마나 뛰어난가가 아니라 얼마나 뛰어난 AI를 살 수 있는가"
 * [AI에게 "알아서 수정해줘"라고 위임하면 벌어지는 조용한 부패 Silent Corruption | 염기웅](https://www.linkedin.com/posts/kiwoong-yeom_ai%EC%97%90%EA%B2%8C-%EC%95%8C%EC%95%84%EC%84%9C-%EC%88%98%EC%A0%95%ED%95%B4%EC%A4%98%EB%9D%BC%EA%B3%A0-%EC%9C%84%EC%9E%84%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EB%B6%80%ED%8C%A8silent-share-7456220408573267968-9A_k)
   * AI에게 도구만 쥐여주고 위임하는 착각에 대한 경고. 에러 없고 결과물이 그럴싸해 보여도 완벽한 처리가 아님. 에이전트 열풍의 맹점
 * [AI가 대체하지 못하는 사람은 딱 두 부류 - 팔란티어 CEO 알렉스 카프 | Kyunghun Lee](https://www.linkedin.com/posts/leekh929_ai%EA%B0%80-%EB%8C%80%EC%B2%B4%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%94%B1-%EB%91%90-%EB%B6%80%EB%A5%98%EB%BF%90%EC%9D%B4%EB%9D%BC%EA%B3%A0-%ED%95%A9%EB%8B%88%EB%8B%A4-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-ceo-share-7451060527818072064-Iw7l)
@@ -5044,6 +5049,9 @@ Artificial Intelligence
     * 1명 개발자가 8개 AI 에이전트로 월 6,600커밋. 215줄 AGENTS.md 운영 계약의 7대 원칙: 인지 매핑, 경계 강제, 빌드 게이트, 멀티에이전트 안전, 코딩 표준, 스킬 캡슐화, 보안 체크포인트
   * [Run OpenClaw and Claude Code on Android | Full Linux GPU Acceleration | Termux Tutorial 2026 - YouTube](https://www.youtube.com/watch?v=e-36kjmMJA4)
     * [Turned Android Phone Into a Full AI Coding Machine - FREE (No PC, No Root, No API ) | Claude Code - YouTube](https://www.youtube.com/watch?v=zFI-Vb2bvSY)
+    * [I Replaced My Laptop With a $400 Android Phone Claude Code + Antigravity + Ollama + PC Games - YouTube](https://www.youtube.com/watch?v=sVSQwOWn9-w)
+      * [real-ubuntu-for-android](https://github.com/AbuZar-Ansarii/real-ubuntu-for-android)
+      * Termux로 루트/부트로더 해제 없이 Android를 Linux PC화. Ollama 로컬 모델, Claude Code, Google Antigravity, Cursor AI, Blender, 게임까지. OnePlus 6T 검증
     * [OpenClaudeLinux](https://github.com/AbuZar-Ansarii/OpenClaudeLinux)
     * [Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.termux/)
   * [Apex — Your Digital Twin](https://apex.host/)
