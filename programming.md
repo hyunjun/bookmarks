@@ -839,6 +839,8 @@ Programming
 * [Numbers](https://samwho.dev/numbers/?fo)
   * [모든 프로그래머가 알아야 할 필수 숫자들 | GeekNews](https://news.hada.io/topic?id=13749)
 * [Latency Numbers Every Data Streaming Engineer Should Know](https://streamnative.io/blog/latency-numbers-every-data-streaming-engineer-should-know)
+* [바이브코딩 시대, 그래도 개발자가 알아야 할 숫자! - YouTube](https://www.youtube.com/watch?v=WbzMtyyOQpM)
+  * 코딩하는기술사 채널. Norvig(2001)→Jeff Dean(2009, LADIS)→Colin Scott(2020) 계보로 발전해온 레이턴시 수치표 해설. L1 캐시·메모리·SSD·데이터센터 RTT·디스크·대륙간 패킷 정도만 감각으로 외우면 캐싱·샤딩·호출 최소화의 근거 있는 의사결정 가능. 절댓값 대신 배수 감각 강조
 * [Single binary executable packages -- Volution Notes](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
 * [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 * [MySQL 타임스탬프와 Y2K38 문제 | 요즘IT](https://yozm.wishket.com/magazine/detail/2209/)
