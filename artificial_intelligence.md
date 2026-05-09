@@ -766,6 +766,9 @@ Artificial Intelligence
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
     * [Google A2A Protocol과 Microsoft Agent Framework를 기반으로 한 멀티 에이전트 시스템](https://www.linkedin.com/posts/kjh941213_github-microsoftagent-framework-a-framework-activity-7387371253554331648-92Ot/)
+* [agentic-inbox: A self-hosted email client with an AI agent, running entirely on Cloudflare Workers](https://github.com/cloudflare/agentic-inbox)
+  * [Agentic Inbox - AI 에이전트 탑재 셀프호스팅 이메일 클라이언트 | GeekNews](https://news.hada.io/topic?id=28926)
+  * Cloudflare Workers·Email Routing·Durable Object(SQLite)·R2로 구성. 이메일 송수신·관리 + AI 자동 답장 초안 생성
 * [Agent Lightning](https://microsoft.github.io/agent-lightning/) 마이크로소프트에서 공개한 Agent 튜닝/최적화/관리 오픈소스 툴
   * [Agent Lightning - Microsoft Research](https://www.microsoft.com/en-us/research/project/agent-lightning/)
   * [agent-lightning: The absolute trainer to light up AI agents](https://github.com/microsoft/agent-lightning)
@@ -826,6 +829,8 @@ Artificial Intelligence
   * AI 에이전트가 반복 작업에서 학습한 워크플로우를 메모리로 저장·재사용하여 효율성을 높이는 프레임워크
 * [ai_sre_agent_pub: AI SRE Agent - push-based observability and ops platform for Linux/GPU AI infra](https://github.com/jfang2048/ai_sre_agent_pub)
   * eBPF로 시그널 수집, 하이브리드 LLM 워크플로우로 위험 분석 및 RCA, 가드 액션으로 MTTR 단축. Go/C++/TS 기반
+* [Alice: Voice-first desktop AI assistant with Vue.js, Vite, Electron](https://github.com/pmbstyle/Alice)
+  * 고급 메모리 시스템, 함수 호출, MCP 지원, 완전 로컬 실행 옵션
 * [all-agentic-architectures: Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development](https://github.com/FareedKhan-dev/all-agentic-architectures)
   * [Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems | by Fareed Khan | Level Up Coding](https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce)
     * 다양한 Agentic AI 아키텍처와 디자인 패턴을 체계적으로 정리
@@ -1501,6 +1506,9 @@ Artificial Intelligence
   * [Meta, 미국 대상으로 AI 스튜디오 출시 | GeekNews](https://news.hada.io/topic?id=16125)
 * [alphaXiv](https://www.alphaxiv.org/)
   * [alphaXiv - arXiv의 논문에 대해서 공개 토론하기 | GeekNews](https://news.hada.io/topic?id=16669)
+* [AngelSlim Documentation](https://angelslim.readthedocs.io/)
+  * [AngelSlim: Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency](https://github.com/Tencent/AngelSlim)
+  * Tencent의 모델 압축 툴킷. 사용성·종합성·효율성 중심
 * [apfel — Mac에 내장된 무료 AI를 활용하는 CLI 도구](https://apfel.franzai.com/)
   * [apfel - Mac에 이미 내장된 무료 AI를 활용하게 해주는 도구 | GeekNews](https://news.hada.io/topic?id=28178)
   * macOS 26+ FoundationModels.framework 기반. CLI·OpenAI 호환 HTTP 서버(포트 11434)·대화형 채팅. 100% 로컬, API 키 불필요, MCP 지원
@@ -1615,6 +1623,8 @@ Artificial Intelligence
     * 'Vibe Coding'의 핵심은 개발자가 세부 구현보다 높은 수준의 설계와 문제 해결에 집중할 수 있게 하는 것
   * [vibe-coding-for-dummies: A beginner-friendly guide to building real software with AI tools](https://github.com/cporter202/vibe-coding-for-dummies)
     * Firebase Studio, GitHub, Cursor를 사용해 비프로그래머가 AI 도구로 앱 제작·배포하는 무료 오픈소스 과정
+  * [Vibe Coding Tutorial — AI QA Automation MVP를 55분에 | awskrug/aiengineering-live-coding](https://github.com/awskrug/aiengineering-live-coding/tree/main/docs/vibe-coding-tutorial)
+    * 최초 브리핑→Skills 기반 브레인스토밍→공개 스펙(RealWorld) 피벗→코드 아티팩트 기반 플래닝→서브에이전트 병렬 실행→Agent SDK 통합→GitHub 배포의 의사결정 순서 문서화. brainstorm→plan→execute 스킬 흐름에 전략적 피벗 1회로 55분 내 MVP
   * [Vibe Index - Vibe Coding Directory](https://www.vibeindex.ai/)
     * [조태호 - 25,960개의 바이브 코딩 자료를 한 곳에 정리했습니다. 바이브코딩 책을 쓰며 안타까웠던 것은, MCP,... | Facebook](https://www.facebook.com/taeho.jo/posts/pfbid02uue2z7QJuZ1ne1g71qYPojjhT2z5m6VNnNciL868pvazAzwQeDVVzsFLj7DZUMUTl)
   * [VibeMap — 아이디어에서 배포까지 :: ROBOCO](https://vibemap.roboco.io/)
@@ -2854,6 +2864,9 @@ Artificial Intelligence
   * 배송 완료 사진 임베딩 유사도로 오배송 탐지. On-device 추론으로 서비스에 적용
 * [“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39608)
   * MIT 출신 창업진이 단백질 언어모델 기반 노코드 신약 개발 플랫폼 오픈소스 공개
+* [The One-Axis Era Is Over: AI's Four New Scaling Laws | Jihoon Jeong | Medium](https://medium.com/@hiconcep/the-one-axis-era-is-over-ais-four-new-scaling-laws-2f40fb4679e5)
+  * [정지훈 - The One-Axis Era Is Over: AI's Four New Scaling Laws | Facebook](https://www.facebook.com/jihoon.jeong/posts/pfbid02efdxschbDhVUdWAvmn7kutqxYSaRFsH8a4Znb9xg3wxXJb3PUaDnM4t9i5H7kFmzl)
+  * DeepSeek 쇼크 이후 스케일링 법칙이 1축(파라미터/학습 컴퓨트)에서 4축으로 분화: ①사전학습 스케일 ②검증 가능한 보상 기반 후학습 RL ③추론 시점 컴퓨트(Thinking Mode) ④프런티어 모델로부터의 지식 증류. 2025-2026 투자 기회는 NVIDIA 중심에서 추론 칩·RL 인프라·평가 도구로 분산
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -2974,6 +2987,8 @@ Artificial Intelligence
 * [2604.21691 There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
   * [딥러닝의 과학적 이론이 나온다 | GeekNews](https://news.hada.io/topic?id=28883)
   * 학습 동역학 기반 "learning mechanics" 관점 제안. 5가지 연구 흐름(해결 가능한 이상적 설정, 다루기 쉬운 한계, 단순 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)이 기여. 통계·정보이론·기계적 해석가능성과 관계 설명
+* [2604.27660 From Context to Skills: Can Language Models Learn from Context Skillfully? (Ctx2Skill)](https://arxiv.org/abs/2604.27660)
+  * 멀티 에이전트 시스템이 자동으로 컨텍스트 특정 스킬 발견·정제. 도전적 태스크 생성·평가 에이전트, 실패 학습. Cross-time Replay로 과도한 특화·적대성 방지. 4개 벤치마크에서 모델 아키텍처 무관 성능 향상
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -3035,6 +3050,8 @@ Artificial Intelligence
 * [LLM-HOOK-BROWSER: AI-powered real-time web vulnerability scanner proxy using Claude LLM](https://github.com/lufianlee/LLM-HOOK-BROWSER)
   * [내가 매일 쓰는 크롬 브라우저가 취약점 스캐너가 되면 어떨까? | Jiyoung Lee](https://www.linkedin.com/posts/jaylee86_%EB%82%B4%EA%B0%80-%EB%A7%A4%EC%9D%BC-%EC%93%B0%EB%8A%94-%ED%81%AC%EB%A1%AC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%8A%A4%EC%BA%90%EB%84%88%EA%B0%80-%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A8%EA%B9%8C-%EC%9D%B4-%EB%8B%A8%EC%88%9C%ED%95%9C-share-7453668860785872896-6yRN)
   * mitmproxy로 Chrome HTTP/HTTPS 트래픽 가로채 2단계 분석: 20개 패턴 매처 사전 분석 + Claude Sonnet 35개 취약점 카테고리 상세 분석. CVSS v3.1 점수·OWASP Top 10 매핑. 200+ 공격 페이로드, 실시간 WebSocket 대시보드. Bedrock+Anthropic API
+* [LuaN1aoAgent: Fully autonomous AI penetration testing agent powered by DeepSeek V3.2](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+  * Dual-graph reasoning으로 XBOW Benchmark에서 90%+ 성공률, 중앙값 $0.09 익스플로잇 비용
 * [MEDUSA - AI Security Scanner | Pantheon Security](https://pantheonsecurity.io/)
   * [medusa](https://github.com/Pantheon-Security/medusa)
   * AI-first 보안 스캐너. 78개 분석기, 9,600+ 탐지 규칙. 프롬프트 인젝션, MCP 취약점, RAG 포이즈닝, 에이전트 공격 탐지. 오픈소스
@@ -3283,6 +3300,8 @@ Artificial Intelligence
   * [LLM Wiki: AI for Biology — Collaborator Guide](https://gist.github.com/joonan30/cbce305684d079dbe9a3fbaefe4e3959)
     * [안준용 | Facebook](https://www.facebook.com/5432154321a/posts/pfbid0XYougHg3BxGGgaCJk5kDqwinXiB98rDowqaqiJjugmYLUvYC41NvzhBySBXmGe6zl)
     * ~1,100편 논문 기반 생물학 지식 위키 구축 방법론. Papers(원본 PDF)→Sources(LLM 구조화 요약)→Wiki(크로스레퍼런스) 3계층 파이프라인. bioRxiv/medRxiv/PubMed 자동 모니터링, Obsidian 위키링크 통합
+    * [Compounding Wiki — 31일의 누적 | 안준용](https://joonan30.github.io/llm-wiki-labs/evolution/)
+      * GitHub gist 링크 붙여넣기로 5분 세팅. papers/ sources/ wiki/ 3폴더 구조, AGENTS.md로 병렬 에이전트 규칙 통제. PDF→요약→위키노트→합성→스펙→결과 6층 누적, 학부생·대학원생·PI별 역할 워크플로우, Notion/Slack/Gmail 연동
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [guppylm: ~9M parameter language model trained from scratch](https://github.com/arman-bd/guppylm)
