@@ -1597,6 +1597,8 @@ App
   * Raycast(런처/퀵링크/클립보드 히스토리), ChatGPT 연결 등 맥북 생산성 무료 앱 소개
 * [맥북 쓰면 이거 꼭 해보세요 macOS 신기능! AI로 합체되는 단축어 자동화 - YouTube](https://youtube.com/watch?v=vA94F43rl-k)
   * macOS Tahoe의 단축어 자동화와 AI 모델(Apple/GPT) 통합. 조건 기반 자동 실행, iPhone/iPad 연동
+* [맥북 사용자 전부 무료로 받으세요 맥북 활용도 수직상승하는 무료앱 7가지 - YouTube](https://www.youtube.com/watch?v=3fJfKYVQ-vI)
+  * BGS REVIEW. Loop(회전식 창 정렬), MonitorControl(외장 모니터 밝기), LinearMouse(마우스·트랙패드 커스터마이징), LosslessCut(무손실 영상 편집), Maccy(클립보드 히스토리), LocalSend(크로스플랫폼 파일 전송), HOP(HWP 뷰어) 7가지 무료앱 추천
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1770,14 +1772,22 @@ App
   ❯ brew services restart borders
   ```
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
+* [LinearMouse - The mouse and trackpad utility for Mac](https://linearmouse.app/)
+  * 프로파일 기반 마우스/트랙패드 커스터마이징. 장치·앱·디스플레이별 스크롤 방향·속도·가속도 분리 설정, 버튼 리맵(단축키·미디어·미션컨트롤·제스처)
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [Loop: MacOS window management made elegant](https://github.com/MrKai77/Loop)
   * [Mac's Best Window Manager - YouTube](https://www.youtube.com/watch?v=gkSe7UF1Xf0)
+  * 방사형 메뉴로 창 이동/리사이즈/배치. 키 프리뷰·커스텀 단축키·스태시·스냅·URL 스킴/AppleScript 지원. Swift/SwiftUI, GPL-3.0, macOS 13+
+* [LosslessCut - The Swiss Army Knife of Lossless Video/Audio Editing](https://losslesscut.app/)
+  * [lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
+  * 재인코딩 없이 데이터 스트림만 잘라 초 단위로 영상·오디오 무손실 편집. 트리밍·병합·리먹싱, 풀해상도 스냅샷, 키프레임 타임라인, CSV EDL, 메타데이터 편집
 * [LuLu - the free, open-source firewall](https://objective-see.com/products/lulu.html)
 * [Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
   * [Maccy - 맥용 클립보드 매니저 오픈소스 앱 | GeekNews](https://news.hada.io/topic?id=6853)
+  * [maccy.app](https://maccy.app/)
+  * 키보드 중심·네이티브 macOS UI의 경량 클립보드 매니저. 로컬 저장, 패스워드 매니저 연동, macOS Sonoma 14+, MIT
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766) spectacle 유사. 워크스페이스 정리. 유료
