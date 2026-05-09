@@ -467,6 +467,7 @@ Vision
     * [Kurento - an Open Source Software WebRTC media server](http://www.kurento.org)
   * [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
   * [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
+    * WebRTC 구현자들이 직접 쓴 오픈소스 책. API 투어가 아닌 ICE·SCTP·DTLS·SRTP 등 프로토콜·RFC 심층 해설, CC0 라이선스, 벤더 중립
   * [WebRTC Library 다루기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/13/webrtc-library.html)
   * [WebRTC는 어떻게 실시간으로 데이터를 교환할 수 있을까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/24/Introducing-WebRTC.html)
   * [Comparing WebRTC with HTTP-based streaming](https://www.theoplayer.com/blog/comparing-webrtc-with-http-based-streaming)
@@ -494,7 +495,9 @@ Vision
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
   * [peerfetch: Peer-to-peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
     * [Peerfetch – WebRTC를 이용한 P2P HTTP | GeekNews](https://news.hada.io/topic?id=16148)
-  * [pion/webrtc: Pure Go implementation of the WebRTC API](https://github.com/pion/webrtc)
+  * [Pion - The Modern Stack for Web Real-Time Communication](https://pion.ly/)
+    * [pion/webrtc: Pure Go implementation of the WebRTC API](https://github.com/pion/webrtc)
+    * C 의존성 없는 순수 Go WebRTC 구현. PeerConnection API, ICE(STUN/TURN/mDNS), RTP/RTCP, Opus/H264/VP8/VP9 코덱, DTLS 1.2+SRTP. Windows/macOS/Linux/FreeBSD/iOS/Android/WASM 크로스플랫폼
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
   * [webrtc-nuts-and-bolts: A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation](https://github.com/adalkiran/webrtc-nuts-and-bolts)
     * [WebRTC Nuts & Bolts | GeekNews](https://news.hada.io/topic?id=6646)
