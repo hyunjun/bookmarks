@@ -71,8 +71,6 @@ App
 * Allo [알로: 즉각적으로, 회사에 ‘극단적 가시성'을 만들어내세요](https://allo.io/)
   * [재택근무 끝내야 할까? 알로(Allo)의 직원 ‘활동 기록’ 공유로 해답을 찾다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/262627)
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
-* [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
-  * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
 * [ArchiveBox | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more…](https://archivebox.io/)
   * [Big changes are coming to ArchiveBox! - HedgeDoc](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
     * [ArchiveBox가 진화중: 셀프 호스팅 인터넷 아카이브의 미래 | GeekNews](https://news.hada.io/topic?id=17279)
@@ -208,16 +206,10 @@ App
   * [Radio Garden - 전세계 라디오 듣기 | GeekNews](https://news.hada.io/topic?id=15718)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [recpic.co.kr](http://recpic.co.kr/) 가계부 앱
-* [Remotely: A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR](https://github.com/immense/Remotely)
-  * [Remotely - An Open Source, Self Hosted, Remote Desktop and Remote Support Tool with Power! - YouTube](https://www.youtube.com/watch?v=t-TFvr7sZ6M)
 * RescueTime
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
-* [RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative](https://rustdesk.com/)
-  * [RustDesk - 오픈소스 TeamViewer 대체제 | GeekNews](https://news.hada.io/topic?id=6621)
-  * [팀뷰어를 대체 할 최고의 무료 원격 프로그램 RustDesk - YouTube](https://www.youtube.com/watch?v=k5VrVD8n0G8)
-  * [Open Source Self Hosted Teamviewer Replacement - YouTube](https://www.youtube.com/watch?v=FIEcTNjFZNA)
 * [ScanTailor](https://scantailor.org/)
   * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
@@ -2224,6 +2216,7 @@ App
 * [ArcKit: AI-Powered Enterprise Architecture Toolkit](https://github.com/tractorjuice/arc-kit)
   * [ArcKit | Open Source Projects](https://www.opensourceprojects.dev/post/17de373f-eba4-4940-a570-bd3722f885b8)
   * DSL로 아키텍처 컴포넌트·관계 정의, AI 보조 시각화·문서 생성, 일관성·컴플라이언스 분석. 로컬 배포·커스텀 AI 모델 확장
+* [ascii-draw: Draw diagrams and more using ASCII](https://github.com/qindapao/ascii-draw)
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
@@ -2245,6 +2238,7 @@ App
 * [Diagram as Code - by Alex Xu - ByteByteGo Newsletter](https://blog.bytebytego.com/p/diagram-as-code) diagrams, mermaid, ascii editor, plantuml, markmap, go diagrams
 * [diagram-parsing: Amazon Bedrock 의 Nova, Claude 3.7 모델을 활용하여 pdf 도면을 파싱 합니다](https://github.com/jesamkim/diagram-parsing)
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
+* [ditaa: Convert ASCII art diagrams into bitmap graphics](https://github.com/stathissideris/ditaa)
 * [Domain Story Modeler](https://www.wps.de/modeler/)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * [**draw.io**](https://www.draw.io/)
@@ -2712,6 +2706,7 @@ App
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [mdq: like jq but for Markdown: find specific elements in a md doc](https://github.com/yshavit/mdq)
   * [mdq - 마크다운을 위한 jq | GeekNews](https://news.hada.io/topic?id=19405)
+* [mdview.io — View Markdown with Mermaid Diagrams and LaTeX Online](https://mdview.io/)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
   * [옵시디안(Obsidian)과 제텔카스텐 기본 과정(완결) - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUUJlu0L-_U7c1jy_bqvPMR6)
@@ -2848,6 +2843,7 @@ App
   * [tolaria](https://github.com/refactoringhq/tolaria)
   * 마크다운+YAML 프론트매터 기반 오픈소스 지식 관리 앱. Git 내장 버전 관리, MCP 서버로 Claude Code 연동, 오프라인 동작, 계정 불필요. Tauri+React+TypeScript, AGPL-3.0
   * [Tolaria: A Markdown Second Brain Built for the Claude Code Era - YouTube](https://www.youtube.com/watch?v=d8Wfp5HSNr0)
+  * [Tolaria - Markdown 지식 베이스를 관리하는 오픈소스 macOS 앱 | GeekNews](https://news.hada.io/topic?id=28857)
 * [treemd: A (TUI/CLI) markdown navigator with tree-based structural navigation.](https://github.com/Epistates/treemd)
 * [turndown: An HTML to Markdown converter written in JavaScript](https://mixmark-io.github.io/turndown/)
   * [turndown](https://github.com/mixmark-io/turndown)
@@ -2942,6 +2938,20 @@ App
 
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
+
+# Remote
+* [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
+  * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
+* [grdpwasm: A web-based RDP client](https://github.com/nakagami/grdpwasm)
+  * [grdpwasm - 웹 기반 RDP 클라이언트 | GeekNews](https://news.hada.io/topic?id=28899)
+  * 브라우저만으로 Windows 원격 데스크톱 접속. Go WebAssembly + 서버 측 WebSocket-to-TCP 프록시
+* [Remotely: A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR](https://github.com/immense/Remotely)
+  * [Remotely - An Open Source, Self Hosted, Remote Desktop and Remote Support Tool with Power! - YouTube](https://www.youtube.com/watch?v=t-TFvr7sZ6M)
+* [RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative](https://rustdesk.com/)
+  * [rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer](https://github.com/rustdesk/rustdesk)
+  * [RustDesk - 오픈소스 TeamViewer 대체제 | GeekNews](https://news.hada.io/topic?id=6621)
+  * [팀뷰어를 대체 할 최고의 무료 원격 프로그램 RustDesk - YouTube](https://www.youtube.com/watch?v=k5VrVD8n0G8)
+  * [Open Source Self Hosted Teamviewer Replacement - YouTube](https://www.youtube.com/watch?v=FIEcTNjFZNA)
 
 # RSS feed
 * [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive)
@@ -3292,8 +3302,9 @@ App
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [DevToys - A Swiss Army knife for developers](https://devtoys.app/)
-  * [DevToys: A Swiss Army knife for developers](https://github.com/veler/DevToys)
+  * [DevToys: A Swiss Army knife for developers](https://github.com/DevToys-app/DevToys)
   * [DevToys - 윈도우용 개발자 도구 모음 오픈소스 | GeekNews](https://news.hada.io/topic?id=7674)
+  * JSON/YAML 변환, Base64·JWT·URL·Hash, 정규식 테스터, 이미지 압축 등 30+ 오프라인 도구. Smart Detection으로 클립보드 내용에 맞는 도구 자동 선택. Windows/macOS/Linux 지원, 커맨드라인 CI/CD 연동
 * [ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/microsoft/ebpf-for-windows)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
 * [Geany - The Flyweight IDE](https://www.geany.org/)
