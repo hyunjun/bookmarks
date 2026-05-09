@@ -950,7 +950,7 @@ Artificial Intelligence
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
   * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-share-7455171430251405312-hVvn)
     * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
-  * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
+  * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
     * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
@@ -1321,7 +1321,7 @@ Artificial Intelligence
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
 * [Toby Lee - 클로드 코드는 스스로 하네스 확장 포인트를 제공한다 | Facebook](https://www.facebook.com/tobyilee/posts/10236007503342478/)
   * Claude Code가 스킬·에이전트·훅·플러그인으로 하네스 확장. 유저 레벨 `.claude` 폴더로 직접 확장하는 방법의 한계 논의
-* [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
+* [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
   * 하네스 엔지니어링은 gitignore와 유사한 역할. 무엇을 저장하지 말아야 할지 지정하는 규칙이 없으면 쓸모없는 파일이 쌓여 제대로 사용 불가
 * [Thin Harness, Thick Skills.. The Real Reason for AI Productivity Gaps lucas_flatwhite on X (tweet 2045884392699199975)](https://x.com/lucas_flatwhite/status/2045884392699199975)
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
@@ -3325,7 +3325,7 @@ Artificial Intelligence
   * Claude Code, Codex, OpenCode 등 AI 코딩 에이전트용 한국 특화 스킬 컬렉션. SRT 예매, 서울 지하철 도착 정보, KBO 경기 결과, 로또 당첨 확인, HWP 문서 변환, 우편번호 검색 등 지원
   * [만들고 있는 오픈소스들 업데이트 폭탄 | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%93%A4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%8F%AD%ED%83%84-1-%EC%BC%80%EC%9D%B4-%EC%8A%A4%ED%82%AC-https-ugcPost-7445492824927543298-HK8e)
     * 한국 생활 자동화 스킬 모음. SRT/KTX 예약, 카카오톡 CLI, 지하철 도착정보, 미세먼지, 법령 검색, KBO/K리그, 토스증권, 쿠팡 검색, 택배 조회 등. Claude Code/Codex/OpenCode 지원
-  * [K-스킬 부동산 관련 스킬 소개 (경매 공고 검색, 실거래가 조회 등) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94-k-%EC%8A%A4%ED%82%AC%EC%9D%98-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A0%A8-%EC%8A%A4%ED%82%AC%EB%93%A4%EC%9D%84-ugcPost-7456357552696504320-MarT)
+  * [K-스킬 부동산 관련 스킬 소개 (경매 공고 검색, 실거래가 조회 등) | Jeffrey Kim](https://www.linkedin.com/posts/jeffrey-dongkyu_%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC%EB%A1%9C-%EB%B0%94%EA%BF%94%EB%B3%B4%EC%84%B8%EC%9A%94-k-%EC%8A%A4%ED%82%AC%EC%9D%98-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B4%80%EB%A0%A8-%EC%8A%A4%ED%82%AC%EB%93%A4%EC%9D%84-activity-7456357553774448641-4mqx)
     * 법원 경매 공고 검색, 아파트/빌라/오피스텔 실거래가 조회 등 부동산 관련 스킬 추가
 * [langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization](https://github.com/google/langextract)
   * Extract entities, attributes, and relations with exact source grounding from unstructured documents
@@ -3571,7 +3571,7 @@ Artificial Intelligence
     * [원티드 AX 컨퍼런스 AI에게 대체될까 두려운 개발자들에게 - 후기 + 슬라이드 PDF](https://www.stdy.blog/for-developers-who-are-afraid-of-being-replaced-by-ai/)
 * [To AI or not to AI](https://antropia.studio/blog/to-ai-or-not-to-ai/)
   * [AI를 쓸 것인가, 말 것인가 | GeekNews](https://news.hada.io/topic?id=23375)
-* [토스 최초의 PO와 최연소 PO가 해커톤에서 AI 클론 연애 서비스를 만들고 있습니다 | rdod](https://www.linkedin.com/posts/rdod_%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%B4%88%EC%9D%98-po-%EC%9D%B4%ED%83%9C%EC%96%91-%EB%8C%80%ED%91%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%97%B0%EC%86%8C-po-%EC%B5%9C%ED%98%95%EB%B9%88)
+* [토스 최초의 PO와 최연소 PO가 해커톤에서 AI 클론 연애 서비스를 만들고 있습니다 | rdod](https://www.linkedin.com/posts/rdod_%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%B4%88%EC%9D%98-po-%EC%9D%B4%ED%83%9C%EC%96%91-%EB%8C%80%ED%91%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%86%A0%EC%8A%A4-%EC%B5%9C%EC%97%B0%EC%86%8C-po-%EC%B5%9C%ED%98%95%EB%B9%88-%EC%A7%80%EA%B8%88-%ED%9D%91%EB%B0%B1%EA%B0%9C%EB%B0%9C%EC%9E%90-activity-7442443060195676161-KfWi)
 * [AI 코딩 툴? 찐 대세가 나타났다! - YouTube](https://www.youtube.com/watch?v=DHAiyJrX7t4) Cursor CLI Open Code Claude Code Codex CLI Amp Code
 * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow](https://www.linkedin.com/pulse/unleash-super-prompt-mastering-your-coding-ai-lee-boonstra-eerme)
   * [Unleash the Super-Prompt: Mastering Your Coding AI Workflow | Lee Boonstra](https://www.linkedin.com/posts/leeboonstra_agents-ai-gemini-ugcPost-7388843123902263296-itzx)

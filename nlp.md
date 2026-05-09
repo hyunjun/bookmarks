@@ -4289,7 +4289,7 @@ NLP
 * [PyCon Korea 2025 RAG 애플리케이션 개발을 위한 Chunking 최적화 - 강성우 - YouTube](https://www.youtube.com/watch?v=jgFduVaa07M)
 * [RAG가 더 이상 AI 제품의 표준 아키텍처가 아닌 이유 | Minkyu Jung](https://www.linkedin.com/posts/minkyujung_boris-cherny-bcherny-on-x-activity-7436238540520194048-6RcM)
   * 구조 있는 데이터는 SQL/파일시스템 직접 탐색(Claude Code는 Glob+Grep만으로 수백만줄 탐색), 구조 없는 데이터는 Knowledge Graph로 구조화, 프롬프트 캐싱으로 100만+ 토큰 전체 포함
-* [RAG 시스템의 치명적 약점 | Seongeun So](https://www.linkedin.com/posts/sungeuns2_rag-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%B9%98%EB%AA%85%EC%A0%81-%EC%95%BD%EC%A0%90)
+* [RAG 시스템의 치명적 약점 | Seongeun So](https://www.linkedin.com/posts/sungeuns2_rag-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EC%B9%98%EB%AA%85%EC%A0%81-%EC%95%BD%EC%A0%90-activity-7440063966439174144-fqcx)
 * [How to Build a Production RAG System with Cloudflare Workers – a Handbook for Devs](https://www.freecodecamp.org/news/build-a-production-rag-system-with-cloudflare-workers-handbook/)
   * Cloudflare Workers + Vectorize + Workers AI로 프로덕션 RAG 구축. 월 $8~10으로 운영 가능(경쟁사 $50~200 대비). 데이터 파이프라인·쿼리 처리·에러 핸들링·보안까지 실전 코드 포함
 * [Implementing a RAG system: Walk](https://medium.com/google-cloud/implementing-a-rag-system-walk-c207aea0cd6b)
