@@ -414,6 +414,8 @@ Network
   * [누가 재시도 요청을 하였는가?](https://squarelab.co/blog/who-did-retry-the-request/)
 * [rallyup: rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs](https://github.com/darwindarak/rallyup)
   * [rallyup - 경량 Wakeup-On-Lan 스케줄러 | GeekNews](https://news.hada.io/topic?id=17641)
+* [rustnet: Per-process network monitoring for your terminal with deep packet inspection](https://github.com/domcyrus/rustnet)
+  * 크로스 플랫폼, 샌드박스 지원. 프로세스별 네트워크 모니터링·딥 패킷 인스펙션
 * [Scapy](https://scapy.net/)
   * [Scapy에 대한 요약 정리](https://chogar.blog.me/80206163869)
   * [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
