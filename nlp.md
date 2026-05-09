@@ -5539,6 +5539,9 @@ NLP
 * [Advancing voice intelligence with new models in the API | OpenAI](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/)
   * [OpenAI, GPT-5급 추론 능력을 가진 GPT-Realtime-2 시리즈 공개 | GeekNews](https://news.hada.io/topic?id=29284)
   * 3개 신규 오디오 모델: GPT-Realtime-2(GPT-5급 추론, 도구 호출·중단 처리), GPT-Realtime-Translate(70+ 언어), 전사 모델
+* [How OpenAI Delivers Low-Latency Voice AI at Scale | OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+  * [OpenAI가 대규모 저지연 음성 AI를 제공하는 방법 | GeekNews](https://news.hada.io/topic?id=29168)
+  * 주간 9억+ 사용자 대상 1:1 음성 대화를 위해 WebRTC를 relay+transceiver 구조로 재설계. SFU 대신 패킷 라우팅(relay)과 프로토콜 처리(transceiver) 분리, ICE username fragment 결정적 라우팅으로 K8s 배포의 UDP 노출 최소화
 * TTS survey
   * [(PDF) A SURVEY ON METHODS OF TTS AND VARIOUS TEST FOR EVALUATING THE QUALITY OF SYNTHESIZED SPEECH](https://www.researchgate.net/publication/353155941_A_SURVEY_ON_METHODS_OF_TTS_AND_VARIOUS_TEST_FOR_EVALUATING_THE_QUALITY_OF_SYNTHESIZED_SPEECH)
     * MOS Mean Opinion Score 결국 사람들의 평가
