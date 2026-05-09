@@ -5418,6 +5418,8 @@ Programming
 * [Textbooks - Kansas State University Department of Computer Science](https://textbooks.cs.ksu.edu/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [Turtle Code - YouTube](https://www.youtube.com/c/TurtleCode/videos)
+* [udemy-downloader-gui: A cross-platform desktop GUI application that allows you to download your purchased Udemy courses for personal offline use](https://github.com/heliomarpm/udemy-downloader-gui)
+  * Electron 기반 크로스플랫폼 데스크톱 앱. 구매한 Udemy 강의(유료/무료) 다운로드, 자동 업데이트, 다국어 지원
 * [woz-u.com](https://woz-u.com/)
 
 # CPU
@@ -6237,6 +6239,9 @@ Programming
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 * [ASCII to My Heart](https://cmcenroe.me/2015/09/27/ascii.html)
 * [글라발라이제이션 – 문자 세트 및 인코딩](http://www.popit.kr/globalization-charset-encoding-euckr/)
+* [Why Don't Lowercase Chars Come Right After Uppercase in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
+  * [ASCII에서 소문자가 대문자 바로 뒤에 오지 않는 이유는? | GeekNews](https://news.hada.io/topic?id=29303)
+  * 대문자와 소문자 사이에 기호 6개를 끼워 넣어 코드 차이를 32(2^5)로 맞춘 설계. 비트 하나만 뒤집으면 대소문자 변환·알파벳 순번 추출이 가능한 AND/OR/XOR 트릭을 가능하게 함
 
 # Facebook
 * [publications](https://research.facebook.com/publications/)
@@ -7554,6 +7559,7 @@ Programming
   * [4월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/04/b-4-3.html)
   * [4월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/04/b-4-4.html)
   * [4월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/05/b-4-5.html)
+  * [5월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/05/b-5-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
