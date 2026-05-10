@@ -330,6 +330,7 @@ Finance
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
 * [financial-services: Claude for Financial Services — reference agents, skills, and MCP data connectors for investment banking, equity research, PE, and wealth management](https://github.com/anthropics/financial-services)
   * [Anthropic just open-sourced Wall Street (11.4k stars) - YouTube](https://www.youtube.com/watch?v=E4GNZxJQqfM)
+  * [GitHub - anthropics/financial-services | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicsfinancial-services-share-7457524869207851008-0aCT)
   * 10개 명명 에이전트(Pitch/Market Researcher/Earnings Reviewer/Model Builder/Meeting Prep/GL Reconciler/Month-End Closer/Statement Auditor/Valuation Reviewer/KYC Screener), 7개 버티컬 플러그인, 11개 MCP 데이터 커넥터(FactSet/S&P Global/Morningstar/Moody's/PitchBook/LSEG/Daloopa 등). Claude Code/Managed Agents 양쪽 배포
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
