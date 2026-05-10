@@ -163,13 +163,6 @@ Business
 * [마이크로소프트는 매년 100조씩 쓴다 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=oijhx4XsRRw)
 * [월마트 잘 나가는데 이마트는 왜 이렇지? (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=WLNWs8TW9-4) 회사의 방향성의 중요성과 IR 자료등에 대해 좋은 이야기
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
-* [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
-* [와.. 천재들만 아는 충격적인 가격 설계의 비밀 #고객의눈 4강 |온라인마케팅, 사업 - YouTube](https://www.youtube.com/watch?v=r4VOar9aWw8)
-  * 가격 설정의 중요성과 객단가 설정에 대해 설명
-  * 객단가는 한 명의 고객이 브랜드에 지출하는 총 금액, 이는 판매하는 상품이나 서비스의 조합과 전략에 따라 달라질 수도
-  * 또한, 업계 평균가가 아닌 고객에게 어떤 가치를 제공하는지에 초점을 맞추어 가격을 설정해야 한다고 강조
-  * 기존 고객을 유지하고 재구매를 유도하기 위해 한 번 더 판매하고 묶어서 판매하는 전략 소개
-* [Van Westendrop Pricing Model: Questions + Analysis](https://www.surveyking.com/help/van-westendorp-analysis)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [고객들은 'ChatGPT 스타일'을 원하는 게 아니라 'ChatGPT 편의성'을 원하는](https://www.linkedin.com/posts/dohwan-kim-b76a38299_%EC%9A%B0%EB%A6%AC%EB%8F%84-chatgpt-%EA%B0%99%EC%9D%80-%EA%B1%B0-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94-%EA%B3%A0%EA%B0%9D%EC%82%AC-%EB%AF%B8%ED%8C%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-activity-7343420164517875713-Lp4a/)
@@ -4071,7 +4064,18 @@ Business
 # Sales
 * [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
   * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
+* [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
+* [와.. 천재들만 아는 충격적인 가격 설계의 비밀 #고객의눈 4강 |온라인마케팅, 사업 - YouTube](https://www.youtube.com/watch?v=r4VOar9aWw8)
+  * 가격 설정의 중요성과 객단가 설정에 대해 설명
+  * 객단가는 한 명의 고객이 브랜드에 지출하는 총 금액, 이는 판매하는 상품이나 서비스의 조합과 전략에 따라 달라질 수도
+  * 또한, 업계 평균가가 아닌 고객에게 어떤 가치를 제공하는지에 초점을 맞추어 가격을 설정해야 한다고 강조
+  * 기존 고객을 유지하고 재구매를 유도하기 위해 한 번 더 판매하고 묶어서 판매하는 전략 소개
+* [Van Westendrop Pricing Model: Questions + Analysis](https://www.surveyking.com/help/van-westendorp-analysis)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
+* [What I learned from tracking 443 SaaS pricing pages](https://www.growthunhinged.com/p/state-of-saas-pricing-changes-2024)
+  * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
+* [현성운 - 아웃백 가격 전략에서 배운 점 | Facebook](https://www.facebook.com/hyeonseong.un/posts/pfbid0UoGXdRPqDwqcAZcxFLn9BzQLDRJk9kyQA6R68Q3MnbBvfVFaLyFKQanEW7dGUmNzl)
+  * 아웃백 Black Label Sizzling(166,000원) 추천 후 앱 쿠폰 최대 2만원 할인 안내. 앵커링 효과(고가 기준점→할인 체감)+거래 효용(쿠폰 획득 참여 만족)+사회적 증거(옆 테이블 같은 메뉴) 3종 심리 전략. 개인 역량 아닌 표준화된 직원 교육이 핵심
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [B2B SaaS 영업의 시스템화](https://www.thestartupbible.com/2023/04/systemizing-and-replicating-b2b-saas-sales-process.html)
@@ -4096,8 +4100,6 @@ Business
 * [왜 세일즈의 의견은 무시되는 것일까? ](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%EC%99%9C-%EC%84%B8%EC%9D%BC%EC%A6%88%EC%9D%98-%EC%9D%98%EA%B2%AC%EC%9D%80-%EB%AC%B4%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B2%83%EC%9D%BC%EA%B9%8C-%EC%84%B8%EC%9D%BC%EC%A6%88%EB%8A%94-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A5%BC-activity-7249739225623846912-jvJR/)
   * 세일즈의 의견이 제품개발에 잘 받아들여지지 않는 것은, 그것이 실제로 받아들여질 만한 이야기가 아닌 경우가 많기 때문
   * 정말로 해결하고 싶다면 제품을 만드는 사람들 가운데 누가 이러한 이야기에 관심을 가지는지를 찾고 다가서야
-* [What I learned from tracking 443 SaaS pricing pages](https://www.growthunhinged.com/p/state-of-saas-pricing-changes-2024)
-  * [2024년 SaaS의 가격 페이지 변경 추적을 통해 배운 점 | GeekNews](https://news.hada.io/topic?id=17496)
 * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 - YouTube](https://www.youtube.com/watch?v=WHTtFWPiqkA)
   * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5177955/4622060)
 * [한국 B2B SaaS, 미국에선 왜 잘 안 먹힐까?](https://www.linkedin.com/posts/shndon0220_%ED%95%9C%EA%B5%AD-b2b-saas-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%A0-%EC%99%9C-%EC%9E%98-%EC%95%88-%EB%A8%B9%ED%9E%90%EA%B9%8C-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EA%BD%A4-%EC%9E%98-%EB%82%98%EA%B0%80%EB%8D%98-activity-7358428337788080128-4nul/)
