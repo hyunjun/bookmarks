@@ -905,6 +905,9 @@ App
 * [Ace | AI Project Manager](https://withace.ai/)
   * [24인조 걸그룹을 만들던 개발자는 왜 PM을 위한 SaaS를 창업했을까? | Disquiet\*](https://disquiet.io/@therne/makerlog/24%EC%9D%B8%EC%A1%B0-%EA%B1%B8%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%8D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%99%9C-pm%EC%9D%84-%EC%9C%84%ED%95%9C-saa-s%EB%A5%BC-%EC%B0%BD%EC%97%85%ED%96%88%EC%9D%84%EA%B9%8C)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
+* [crewspace: Self-hosted project & task management for teams that can't use SaaS due to security/network policies](https://github.com/lsjsj92/crewspace)
+  * [직접 만들게 된 프로젝트 및 업무 관리 서비스 | 이성주](https://www.linkedin.com/posts/lsjsj92_%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B2%8C-%EB%90%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%8F-%EC%97%85%EB%AC%B4-%EA%B4%80%EB%A6%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%80%EB%8A%94-%EC%A7%80%EA%B8%88-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EB%B3%B4%EC%95%88-ugcPost-7441454843396960256-HVJB)
+  * 보안·네트워크 제약으로 SaaS 사용 불가한 팀을 위한 내부 서버 Jira/Notion 대체제. 드래그&드롭 칸반(Epic/Story/Task/Sub-task 계층), 간트 타임라인, 팀·역할 관리, 대시보드, 필터링. Python 3.12 + FastAPI + React 18 + PostgreSQL 16 + Docker Compose
 * [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 * [Kan.bn | The open source alternative to Trello](https://kan.bn/)
   * [kan: The open source Trello alternative](https://github.com/kanbn/kan)
@@ -924,8 +927,21 @@ App
   * [Nix is my favorite package manager to use on macOS - YouTube](https://www.youtube.com/watch?v=Z8BL8mdzWHI)
   * [Deploying Containers on NixOS](https://bkiran.com/blog/deploying-containers-nixos)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
+* [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
+  * [openproject: Community edition of OpenProject - classic, agile, and hybrid project management](https://github.com/opf/openproject)
+  * 간트 차트·Scrum/Kanban 보드·팀 플래너·업무 패키지·시간 추적·예산 관리. Nextcloud/OneDrive/GitHub/GitLab 연동. Community(무료 셀프호스트)/Enterprise On-prem/Enterprise Cloud 3가지 배포. GPL v3, Siemens·Deutsche Bahn 등 사용
+* [Plane - The Open Source Project Management Tool](https://plane.so/)
+  * [plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage](https://github.com/makeplane/plane)
+  * [The Open Source Jira Alternative - YouTube](https://www.youtube.com/watch?v=pgWHATQzkHk)
+    * [개발자를 위한 '진짜' 도구: Jira보다 빠르고 Linear보다 자유로운 오픈소스 Plane - YouTube](https://www.youtube.com/watch?v=uL2i8aOd_8g)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Quire - Dream. Plan. Achieve.](https://quire.io/)
+* [Taskosaur - AI Project Management](https://taskosaur.com/)
+  * [Taskosaur](https://github.com/Taskosaur/Taskosaur)
+  * 자연어로 프로젝트 관리 워크플로우 실행하는 오픈소스 셀프호스트 도구. "15 클릭 8화면"을 대화형으로 축약("Create sprint with P0 bugs" 30초 실행). 조건부 자동화(디자인 완료→개발 자동 생성), E2E 암호화, GDPR/SOC2 준비
+* [Tegon AI](https://www.tegon.ai/)
+  * [tegon: Tegon is an open-source, AI-first alternative to Jira, Linear](https://github.com/tegonhq/tegon)
+  * [Tegon - 오픈소스 Jira/Linear 대체제 | GeekNews](https://news.hada.io/topic?id=15795)
 * [Trello](https://trello.com/)
   * [5천만 명이 이용하는 협업 ·업무관리 툴··· ‘트렐로’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/206324)
 
