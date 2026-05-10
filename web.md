@@ -699,7 +699,11 @@ Web
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
 * [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://crawlee.dev/)
+  * BasicCrawler/CheerioCrawler/PlaywrightCrawler/PuppeteerCrawler/JSDOMCrawler/StagehandCrawler, 요청 큐잉, 티어드 프록시 관리, 세션 관리, 데이터셋 저장/내보내기. AWS Lambda/GCP Cloud Run/Apify 배포
   * [Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리 | GeekNews](https://news.hada.io/topic?id=7259)
+  * [crawlee: A web scraping and browser automation library for Node.js to build reliable crawlers (TypeScript)](https://github.com/apify/crawlee)
+  * [crawlee-python: A web scraping and browser automation library for Python to build reliable crawlers](https://github.com/apify/crawlee-python)
+    * [Crawlee for Python – 웹 스크래핑 및 브라우저 자동화 라이브러리 | GeekNews](https://news.hada.io/topic?id=15782)
 * [estela, an elastic web scraping cluster](https://github.com/bitmakerla/estela)
 * [NIGHTMARE - A high-level browser automation library](http://www.nightmarejs.org)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
