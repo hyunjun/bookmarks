@@ -662,6 +662,9 @@ Artificial Intelligence
   * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
 * [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
   * [배휘동 - 에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개) (블로그에서... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0BFvR7UAHzqYtvTSTEzH2itTE91PLRet3QoHMbvLwsDnMm6WWzCk4ZDTnpJm9sZhXl)
+* [Long-running Agents - by Addy Osmani](https://addyo.substack.com/p/long-running-agents)
+  * [장시간 실행 에이전트의 구조와 설계: 3축 아키텍처와 세션 관리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3056)
+  * 단일 세션 챗봇과 다른 장시간(시간/일/주) 자율 실행 에이전트 아키텍처. 3가지 핵심 컴포넌트: 두뇌(모델 루프)·손(실행 샌드박스)·세션(내구성 이벤트 로그) 분리. Google Agent Platform·Anthropic Managed Agents·Cursor 공통 패턴 — 영속 상태 저장, 생성/평가 분리, 세션 간 구조화된 핸드오프로 컨텍스트 손실 방지
 * [The 80% Problem in Agentic Coding - by Addy Osmani](https://addyo.substack.com/p/the-80-problem-in-agentic-coding)
   *  AI 코딩 에이전트가 작업의 80%를 빠르게 해결, 나머지 20%의 복잡한 문제를 해결하지 못해 완료 단계에서 정체되는 현상 분석
     * 단순 반복 업무의 효율은 극대화되, 시스템 아키텍처 이해와 엄격한 검증이 필요한 심화 단계에서는 여전히 인간 개입 필수
@@ -1048,6 +1051,9 @@ Artificial Intelligence
   * 프로덕션급 AI 에이전트 플랫폼. 이벤트 기반 멀티 에이전트 제어, 자동 상태 관리, 텍스트 그래디언트 프롬프트 최적화. JiuwenClaw는 계층형 메모리와 자기 진화 메커니즘으로 요구사항 변화에 적응하며 작업 완수
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
+* [open-multi-agent: TypeScript-native multi-agent orchestration framework that auto-decomposes goals into task DAGs](https://github.com/open-multi-agent/open-multi-agent)
+  * [🚀 Open Multi-Agent로 멀티 에이전트 오케스트레이션 시작하기](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Open-Multi-Agent%EB%A1%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+  * `runTeam(team, goal)` 한 번으로 목표를 태스크 DAG로 자동 분해. 10+ LLM 프로바이더(Anthropic/OpenAI/Azure/Gemini/Grok/DeepSeek/Ollama), 6개 내장 도구+Zod 커스텀 도구+MCP, 토큰 스트리밍, HTML 대시보드 추적. 런타임 의존성 3개뿐, Redis/Postgres 공유 메모리 지원
 * [OpenSandbox - Universal Sandbox Infrastructure for AI Applications](https://open-sandbox.ai/)
   * Alibaba의 AI 에이전트용 격리 실행 환경. Docker/K8s 기반 샌드박스에서 셸 명령, 코드 인터프리터, 브라우저 자동화, 원격 개발 등 지원. Python/Java/JS SDK 제공
   * [OpenSandbox](https://github.com/alibaba/OpenSandbox)
@@ -2992,6 +2998,7 @@ Artificial Intelligence
   * 모델 파라미터 수정 없이 추론 시 테스트 입력으로부터 학습하여 도메인 특화 성능 향상. 전통적 test-time training 대비 계산 효율성 유지
 * [2604.08525 Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](https://arxiv.org/abs/2604.08525)
   * 광고 규제·언어학 문헌 기반 프레임워크로 LLM의 상업적 이해충돌 평가. 대부분 모델이 사용자 복지보다 수익 인센티브 우선—대안 대비 2배 비싼 스폰서 제품 추천, 불리한 가격 정보 은폐. 추론 수준과 사용자 사회경제적 지위가 편향 행동에 영향
+  * [Tae Hyung Kim - LLM이 비서가 아니라 특정 회사 광고 인센티브에 반응하는 영업 사원일 수 있다는 놀라운... | Facebook](https://www.facebook.com/socialego/posts/pfbid0DoJT5STMWZbuDy2XjA8XvHUDe68GE7p1bwYn3GMmAgMAg4drYAx19dQeqoVroNBil)
 * [2604.08538 ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538)
   * [ParseBench: Document parsing benchmark for AI agents](https://github.com/run-llama/ParseBench)
   * 보험·금융·정부 엔터프라이즈 문서 2,000페이지, 5개 역량(테이블·차트·정확성·의미 포맷팅·시각 그라운딩). 텍스트 매칭 대신 의미 정확성 평가. LlamaParse Agentic 84.9%로 최고, 14개 방법 비교
@@ -3133,6 +3140,9 @@ Artificial Intelligence
 * [How to build AI-ready enterprise architecture in 90 days - Fast Company](https://www.fastcompany.com/91534353/ai-enterprise-architecture-strategy-90-day-plan)
   * [AI 전략의 한계는 아키텍처가 결정한다: 90일 안에 AI-ready 아키텍처 구축하기 :: 지식의 섬](https://digitalbourgeois.tistory.com/3066)
   * 2026 Vercel 보안 사고를 사례로 AI 도입 전 IT 아키텍처 재설계 필요성 논의. 3단계 90일 로드맵: 1-30일 현황 매핑, 31-60일 기반 인프라 구축, 61-90일 아키텍처 거버넌스 내재화. 데이터·컴퓨트·모델·오케스트레이션·거버넌스 5개 레이어
+* [Moving away from Agile: What's Next – Martin Harrysson & Natasha Maniar, McKinsey & Company - YouTube](https://www.youtube.com/watch?v=SZStlIhyTCY)
+  * [Moving away from Agile: What's Next | LilysAI 요약](https://lilys.ai/digest/7206880/7723498)
+  * McKinsey 발표. 대부분 기업이 AI 도구만 추가하고 인재·운영 모델은 그대로 둬서 AI 소프트웨어 개발 가치 포착 부족. 10년 넘게 바뀌지 않은 개발 방식(작업 방식·팀 구성·역할 정의·스테이지 게이트)이 새 패러다임으로 이행 발목. AI-Native 워크플로우·PM 역할 변화·변화 관리 사례
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
