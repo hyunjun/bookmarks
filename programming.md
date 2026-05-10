@@ -3910,14 +3910,6 @@ Programming
     * 사전적 정렬을 위해 `Bucket|FixedKey:VariableKey`를 사용해 O(1) 정렬 가능, 공간 고갈 시 무중단으로 재조정
 * ['Programming/Jira&Confluence' 카테고리의 글 목록 :: 1D1C](https://1d1cblog.tistory.com/category/Programming/Jira%26Confluence)
   * [Confluence ScriptRunner 이용하여 버전 댓글 없이 업데이트 시 이메일로 알림 :: 1D1C](https://1d1cblog.tistory.com/532)
-* [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
-* [Plane - The Open Source Project Management Tool](https://plane.so/)
-  * [plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage](https://github.com/makeplane/plane)
-  * [The Open Source Jira Alternative - YouTube](https://www.youtube.com/watch?v=pgWHATQzkHk)
-    * [개발자를 위한 '진짜' 도구: Jira보다 빠르고 Linear보다 자유로운 오픈소스 Plane - YouTube](https://www.youtube.com/watch?v=uL2i8aOd_8g)
-* [Tegon AI](https://www.tegon.ai/)
-  * [tegon: Tegon is an open-source, AI-first alternative to Jira, Linear](https://github.com/tegonhq/tegon)
-  * [Tegon - 오픈소스 Jira/Linear 대체제 | GeekNews](https://news.hada.io/topic?id=15795)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
