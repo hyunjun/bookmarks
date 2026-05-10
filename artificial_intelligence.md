@@ -1327,6 +1327,9 @@ Artificial Intelligence
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
+* [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
+  * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
+  * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
 * [harness-eval](https://github.com/whchoi98/harness-eval)
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
@@ -5510,6 +5513,9 @@ Artificial Intelligence
       * 이 과정의 결과물로 7-docs라는 프로젝트 공개
   * [aws-reference-architecture-pulumi: Pinecone AWS Reference Architecture](https://github.com/pinecone-io/aws-reference-architecture-pulumi)
   * [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
+  * [The RAG era is ending for agentic AI: A new 'compilation stage knowledge layer' is what comes next | VentureBeat](https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next)
+    * [에이전트형 AI 시대, RAG 한계를 넘는 새로운 지식 레이어의 등장 :: 지식의 섬](https://digitalbourgeois.tistory.com/3065)
+    * Pinecone Nexus 프레임워크. 쿼리 시점 검색(runtime retrieval)에서 컴파일 시점 지식 레이어(compile-stage knowledge)로 전환—한 번 최적화된 컨텍스트를 세션 간 재사용해 토큰 98% 절감. 다단계 작업을 수행하는 에이전트에 최적화
 * pgvector -> [sql.md](sql.md)
 * [PostgresML: Leveraging Postgres as a Vector Database for AI - YouTube](https://www.youtube.com/watch?v=D8YMMOhAeBs)
 * [Qdrant - Vector Database](https://qdrant.tech/)
