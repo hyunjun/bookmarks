@@ -22,6 +22,9 @@ History
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (1)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld/)
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (2)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld2/)
 * ["세계화는 끝났다. 미래의 승자는 중국/러시아다"](https://news.v.daum.net/v/20220403142305978)
+* [The Geographical Pivot of History - Wikipedia](https://en.wikipedia.org/wiki/The_Geographical_Pivot_of_History)
+  * [Jake Deschain - 맥킨더의 하트랜드 이론과 소련 붕괴 후 서방의 실책 | Facebook](https://www.facebook.com/unattached/posts/pfbid07RWtuCvU3z46STUEHMeDYBpJn4dkvATGeXSsFbyhezHCzigoLZgjt5BuRnN6YRUEl)
+  * Halford Mackinder의 1904년 지정학 논문. "동유럽을 지배하는 자가 하트랜드를, 하트랜드를 지배하는 자가 세계섬을, 세계섬을 지배하는 자가 세계를 지배한다." 소련 붕괴 후 러시아를 서방에 통합시키지 못해 중-러 대륙 동맹이 현실화—맥킨더의 예측이 한 세기 만에 입증
 * [The Importance of a Good Night's Sleep](http://www.historytoday.com/katharine-craik/importance-good-nights-sleep)
 * [You are what you eat](http://www.economist.com/news/science-and-technology/21601812-or-rather-what-you-grow-eat-you-are-what-you-eat)
   * [당신이 먹는 것이 당신을 말해준다](http://ppss.kr/archives/37500) 개인주의/전체주의 문화 성향이 밀/쌀 농경에서 비롯되었다는 주장
