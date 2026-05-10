@@ -3880,7 +3880,7 @@ NLP
 * [opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards](https://github.com/comet-ml/opik)
   * [Home | Opik Documentation](https://www.comet.com/docs/opik/)
   * [Build faster, better, and cheaper LLM systems!](https://www.linkedin.com/posts/akshay-pachaar_build-faster-better-and-cheaper-llm-systems-activity-7350513973617709057-xe8B/)
-* Qwen
+* [Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen)
   * [A 30B Qwen Model Walks Into a Raspberry Pi… and Runs in Real Time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
     * [라즈베리 파이에서 실시간으로 구동되는 300억 파라미터 Qwen 모델 | GeekNews](https://news.hada.io/topic?id=25628)
   * [Nexusflow.ai | Blog :: Introducing Athene-V2: Advancing Beyond the Limits of Scaling with Targeted Post-training](https://nexusflow.ai/blogs/athene-v2)
@@ -3918,6 +3918,8 @@ NLP
       * [Diary - LLM에서 효율적인 강화학습이란 무엇일까 2 (feat. Qwen-3.5와 GLM-5) | Jaekyung Cho](https://www.linkedin.com/posts/jaekyung-cho-7361b521a_diary-llm%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-2-feat-qwen-activity-7432800170339115008-rnlL)
     * [명령어 한 줄로 로컬 AI 실행! Qwen3.5-0.8B 최적 활용 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%8B%A4%ED%96%89-Qwen35-08B-%EC%B5%9C%EC%A0%81-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
       * 262,144 토큰 컨텍스트, 멀티모달 기능. Ollama/HuggingFace/vLLM/SGLang으로 명령어 한 줄 로컬 실행
+    * [Qwen3.5: How to Run & Fine-tune | Unsloth](https://unsloth.ai/docs/models/qwen3.5)
+      * [Qwen3.5 | GeekNews](https://news.hada.io/topic?id=27315)
     * [flash-moe: Pure C/Metal inference engine — Qwen3.5-397B on MacBook Pro 48GB at 4.4+ tok/s](https://github.com/danveloper/flash-moe)
       * [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://x.com/danveloper/status/2034353876753592372)
       * SSD에서 209GB 모델 스트리밍, Metal 컴퓨트 셰이더, Python 의존성 없음
@@ -3996,8 +3998,9 @@ NLP
   * [투플랫폼 “수트라 한국어 추론 능력이 국내 모델보다 뛰어나“ < 인터뷰 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=159362)
 * [unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
   * [LLM unsloth를 사용한 파인 튜닝 및 GGUF 변환 - 미완성의신](https://unfinishedgod.netlify.app/2024/06/15/llm-unsloth-gguf/)
-  * [Qwen3.5: How to Run & Fine-tune | Unsloth](https://unsloth.ai/docs/models/qwen3.5)
-    * [Qwen3.5 | GeekNews](https://news.hada.io/topic?id=27315)
+  * [How to use Unsloth as an API endpoint | Unsloth Documentation](https://unsloth.ai/docs/basics/api)
+    * [Unsloth API 엔드포인트로 로컬 LLM을 도구처럼 사용하는 방법 :: 지식의 섬](https://digitalbourgeois.tistory.com/3064)
+    * llama-server 기반 인증 API 서버. Anthropic 호환 `/v1/messages`(Claude Code/Anthropic SDK)와 OpenAI 호환 `/v1/chat/completions`(Cursor/Continue) 동시 지원. Self-healing tool calling로 망가진 도구 호출 50% 감소, 서버 사이드 Python/Bash 실행, 웹 검색 내장
   * [Unsloth Studio](https://unsloth.ai/docs/new/studio)
     * [Unsloth Studio 로컬 환경에서 AI 모델을 실행·학습하는 통합 노코드 플랫폼](https://digitalbourgeois.tistory.com/2895)
 * [Unstructured](https://unstructured.io/)
@@ -4184,7 +4187,6 @@ NLP
   * [최승준 - microgpt 200라인의 코드에 압축했네요. 공개된 걸 본 후 저도 바로 Opus 4.6으로 하여금... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0abNS3N74PuZx49THh1raoZeTodrY7Gv3qqQWdZgxnJbLk3hEFmpcAA1y7fjNx1Bdl)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
-* [Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
 
 ## Language Model LM Observability
@@ -4371,6 +4373,7 @@ NLP
   * LLM을 활용해 장문 서사 문서를 의미론적으로 독립된 청크로 동적 분할. EMNLP 2024, GutenQA 데이터셋(100권 책, 3,000 QA 쌍) 제공
 * [PageIndex — Vectorless, reasoning-based RAG](https://pageindex.ai/)
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
+  * [Vectorless·Reasoning 기반 RAG, PageIndex로 다시 정의하는 문서 검색과 분석 :: 지식의 섬](https://digitalbourgeois.tistory.com/3062)
   * 벡터 DB 없이 문서 계층 트리 인덱스 구축 → LLM 추론 기반 검색. 청킹·임베딩 불필요, 페이지 참조 추적 가능. FinanceBench 98.7% 정확도
 * [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
