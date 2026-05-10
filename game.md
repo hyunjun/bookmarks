@@ -182,6 +182,8 @@ Game
 ## Library Javascript
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [conway: real-time, persistent, multiplayer version of Conway's Game of Life](https://github.com/drewblaisdell/conway)
+* [isomiddleearth: An isometric world-builder set in Tolkien's Middle-earth](https://github.com/hasanharman/isomiddleearth)
+  * Shire/Gondor/Mordor/Lothlorien/Rohan/Moria/Rivendell 7개 렘 + 혼합 모드, 3x3~20x20 그리드, 지형·물·식물·주거·건물·장식 6개 타일 카테고리, 8개 호빗 스프라이트. 클릭/드래그 페인팅, Cmd+Z 실행 취소, PNG/JSON 내보내기. Zustand+localStorage 상태 유지
 * [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
 * [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
   * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
