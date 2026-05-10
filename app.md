@@ -3491,6 +3491,8 @@ App
   * [ClashMac](https://github.com/666OS/ClashMac)
   * SwiftUI 네이티브 macOS 프록시 앱. 듀얼 모드(System Proxy + TUN Enhanced), 실시간 트래픽 시각화, 연결 토폴로지 추적, 구독 관리. macOS 13.5+ 지원
 * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
+* [MasterDnsVPN: Advanced DNS tunneling VPN that encapsulates TCP traffic inside DNS queries to bypass censorship](https://github.com/masterking32/MasterDnsVPN)
+  * DNS 터널링 + 멀티 리졸버 라우팅 + 커스텀 경량 ARQ(오버헤드 5-7바이트, DNSTT 59바이트 대비). DNSTT 대비 ~9배 빠른 처리량. 로컬 SOCKS5/TCP 프록시, DNS 캐싱, XOR/ChaCha20/AES 암호화, 8가지 로드밸런싱 전략
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [OpenVPN을 이용해 사설망 접근하기](https://brunch.co.kr/@alden/69)
