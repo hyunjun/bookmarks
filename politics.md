@@ -26,6 +26,8 @@ Politics
 * [EQUALITY, EQUITY AND JUSTICE. “When God speaks about equity, that… | by Sandeep Kumar | Medium](https://medium.com/@sandeepkumar_52041/equality-equity-and-justice-5f71ebe31245)
   * [Equality vs Equity : 네이버 블로그](https://blog.naver.com/chungvelysam/221554707013)
   * <img src="images/reality_equality_equity_justice.jpg" alt="" width="300"/>
+* [신현준 - 동아시아 마르크스주의의 곤경 96: 무지개빛 스탈린과 은하수빛 트로츠키 1 | Facebook](https://www.facebook.com/hyunjoon.shin/posts/pfbid02Q6MPQCh5UX8ETft2diQcdu7fbyC3WwY9sZWTzPxzBZ29wmeap8JYyptwtfWT3vJWl)
+  * 한국 좌파 운동이 1917-1936 유럽 혁명 언어와 스탈린-트로츠키 파벌주의를 논리적 정당성 없이 반복. 국제주의(윤리적 연대)와 세계혁명(전략적 필연)을 동일시해 불화. 소련 붕괴 이후 두 계보 모두 현대적 연관성 상실, 중동구 중심 편협한 참조 대신 아시아/아프리카/아메리카 확장 필요
 * [Polis](https://pol.is/home2)
   * [대규모 시민 숙의를 위한 오픈소스 플랫폼, Polis | GeekNews](https://news.hada.io/topic?id=26667)
 
