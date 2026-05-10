@@ -2932,6 +2932,9 @@ Business
 * [Mastering Tech Leadership in 50 Minutes • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=H0EK0B1QvVA)
   * [VidiGo Mastering Tech Leadership in 50 Minutes • Tim Berg](https://vidigo.ai/share/summary/7c492363ea41)
   * [50분 안에 기술 리더십 마스터하기 - 팀 버글런드 - GOTO 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/849395)
+* [Engineering Leadership in Turbulent Times • Sarah Wells, Pat Kua & Daniel Terhorst-North • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=wqztpXI0zJc)
+  * [격변기의 엔지니어링 리더십: 불확실성 속 팀 운영 - Sarah Wells, Pat Kua, Daniel Terhorst-North GOTO 2025](https://livewiki.com/ko/content/engineering-leadership-turbulent-times)
+  * 불확실성 시대 엔지니어링 리더십은 경직된 계획에서 적응적 사고로 전환. 훌륭한 리더십은 모든 답을 아는 게 아니라 명료함·신뢰·회복탄력성 구축. 커뮤니케이션·맥락 인식·엔지니어 임파워먼트가 불안정한 환경에서 팀 번영의 기반
 * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) - YouTube](https://www.youtube.com/watch?v=YYSw8UcM8gU)
   * [VidiGo “자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표).mp4](https://vidigo.ai/share/summary/617abe00e5c1)
   * [“자기 확신감이 떨어져야 혁신적 리더가 될 수 있다” (정태희 대표) | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/872050)
