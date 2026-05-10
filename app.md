@@ -181,6 +181,8 @@ App
   * [Parsr: Transforms PDF, Documents and Images into Enriched Structured Data](https://github.com/axa-group/Parsr)
   * [pdf2image: pdfium 라이브러리를 이용한 pdf2image](https://github.com/sokcuri/pdf2image)
   * [pdf-compressor: CLI + Python API for batch compressing PDFs](https://github.com/janosh/pdf-compressor)
+  * [pdfcraft: A free, privacy-focused PDF toolkit that runs entirely in your browser with 90+ professional tools](https://github.com/PDFCraftTool/pdfcraft)
+    * 브라우저 WebAssembly 완전 클라이언트 처리로 프라이버시 보장. 90+ 도구(정리·편집·주석·변환·최적화·보안) + 23+ 템플릿 비주얼 노드 기반 워크플로우 편집기(beta). Next.js 15 + React + TypeScript + Tailwind, 한국어 포함 8개 언어 지원. AGPL-3.0
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
   * [pdfsizeopt: PDF file size optimizer](https://github.com/pts/pdfsizeopt)
