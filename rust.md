@@ -678,4 +678,7 @@
 * [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
 * [Rust를 WebAssembly로 컴파일하기](https://open-support.tistory.com/entry/Rust%EB%A5%BC-WebAssembly%EB%A1%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0)
 * [Engineering Mastermind #7: Building Reactive Webapps w/i Rust & WebAssembly - YouTube](https://www.youtube.com/watch?v=pXRyhNDl8zU)
+* [Building a Browser Extension with Rust + WASM (Why This Beats JavaScript) - YouTube](https://www.youtube.com/watch?v=-S7H34-qaNc)
+  * [demo-extension | suryanox/dump](https://github.com/suryanox/dump/tree/main/demo-extension)
+  * Semicolon 채널. cargo + wasm-pack + wasm-bindgen으로 Rust를 WASM으로 컴파일해 Chrome 확장 구현. Manifest V3, JS↔Rust 브릿지, JS보다 빠른 성능 시연
 * [Pont - A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
