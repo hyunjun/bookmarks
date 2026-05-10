@@ -328,6 +328,9 @@ Finance
 * [edgartools: The world's easiest, most powerful edgar library](https://github.com/dgunning/edgartools)
 * [FinAgent-Lab · GitHub](https://github.com/FinAgent-Lab)
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
+* [financial-services: Claude for Financial Services — reference agents, skills, and MCP data connectors for investment banking, equity research, PE, and wealth management](https://github.com/anthropics/financial-services)
+  * [Anthropic just open-sourced Wall Street (11.4k stars) - YouTube](https://www.youtube.com/watch?v=E4GNZxJQqfM)
+  * 10개 명명 에이전트(Pitch/Market Researcher/Earnings Reviewer/Model Builder/Meeting Prep/GL Reconciler/Month-End Closer/Statement Auditor/Valuation Reviewer/KYC Screener), 7개 버티컬 플러그인, 11개 MCP 데이터 커넥터(FactSet/S&P Global/Morningstar/Moody's/PitchBook/LSEG/Daloopa 등). Claude Code/Managed Agents 양쪽 배포
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
 * [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
@@ -339,6 +342,9 @@ Finance
 * [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
   * YouTube Shorts 자동 생성, Twitter 봇, 아마존 제휴 마케팅, 로컬 비즈니스 콜드 아웃리치 자동화
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
+* [OpenStock: Open-source market platform with real-time prices, alerts, watchlists, and AI-generated news](https://github.com/Open-Dev-Society/OpenStock)
+  * [OpenStock 기술 구조와 특징 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3063)
+  * Next.js 15 + React 19 + MongoDB + Finnhub. Command+K 팔레트 검색, TradingView 차트, 히트맵·뉴스, Inngest 워크플로우, Gemini API로 AI 웰컴 메일·데일리 뉴스 요약. Reddit/X 센티먼트 옵션
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
@@ -353,6 +359,7 @@ Finance
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
+  * [자연어로 만드는 퀀트 전략 자동화 플랫폼, Vibe-Trading 기술 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3061)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
 * [worldmonitor: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface](https://github.com/koala73/worldmonitor)
   * [블룸버그 터미널 연 구독료 약 3만 2천 달러. 한화 4,600만원 수준입니다. 같은 역할을 지향하는 오픈소스 대안이 한 명의 개발자 손에서 나와 깃허브 별 4만개를 넘겼습니다. 이번 주말 개인 서버에 설치해볼 예정이라, 공부한 내용을 정리해 공유합니다. ▶ 프로젝트: World Monitor 실시간 글로벌 인텔리전스 대시보드입니다. 한 화면에 다음… | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%97%B0-%EA%B5%AC%EB%8F%85%EB%A3%8C-%EC%95%BD-3%EB%A7%8C-2%EC%B2%9C-%EB%8B%AC%EB%9F%AC-%ED%95%9C%ED%99%94-4600%EB%A7%8C%EC%9B%90-%EC%88%98%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-share-7452296257399861248-0t46)
