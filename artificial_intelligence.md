@@ -1003,6 +1003,8 @@ Artificial Intelligence
 * [Mobile-use: 자연어로 스마트폰을 자동화하는 AI 에이전트](https://www.facebook.com/groups/9546662462016100/posts/27061598440095898/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
   * [류내원 - MS, AI 에이전트 테스트 시뮬레이션 환경 공개..."대부분 조작에 취약" (출처: 뉴스) 연구자들이... | Facebook](https://www.facebook.com/won.wizard/posts/pfbid0dQ3BJ19GMsPwgEJqNRVX5GykuQRwKfKeE4HLr3EoxzQFjUf3s1h1q6BDv4JV7e1vl)
+* [mycelium-memory: Persistent memory for LLM CLIs (Claude Code, Claude Desktop, Codex) that acts like a brain not a database](https://github.com/constant-itis/mycelium-memory)
+  * 듀얼 메모리 아키텍처: Semantic(관찰·결정·프로젝트 사실, 자연어 검색, 자주 접근되면 연결 강화) + Behavioral Foundry(append-only 결정 로그). SQLite 로컬, MCP 다중 클라이언트 공유. `/checkpoint`·`/maintain` 슬래시 스킬, 수동 큐레이션 불필요
 * [node-banana: Open node-based generative workflows](https://github.com/shrimbly/node-banana)
 * [Naia OS - Next AI Networks OS](https://naia.nextain.io/ko/blog/20260304-why-naia-os)
   * [naia-os](https://github.com/nextain/naia-os)
