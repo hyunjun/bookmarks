@@ -3125,6 +3125,9 @@ Artificial Intelligence
 * [AI 에이전트는 나쁜 데이터도 그냥 쓴다...데이터 정제가 시급한 이유 | ITWorld](https://www.itworld.co.kr/article/4152850/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EB%82%98%EC%81%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8F%84-%EA%B7%B8%EB%83%A5-%EC%93%B4%EB%8B%A4%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EC%A0%9C.html)
 * [사용자가 개발자가 되는 시대_ AI 기반 애플리케이션 개발의 대전환 | lifidea Substack](https://lifidea.substack.com/p/ai-3c7)
   * Catch up AI 박창수. GOBI 프로젝트에서 공식 개발되지 않은 기능을 AI 에이전트가 완성한 경험을 바탕으로 "자가진화 SDLC" 제안. PoC 조기 배포→사용자 사용 패턴·실패가 실시간 요구사항이 되어 AI 개발자가 즉시 구현. 개발자 역할은 모든 벽돌을 쌓는 것이 아니라 AI가 안전하게 쌓고 배울 수 있는 환경 설계
+* [How to build AI-ready enterprise architecture in 90 days - Fast Company](https://www.fastcompany.com/91534353/ai-enterprise-architecture-strategy-90-day-plan)
+  * [AI 전략의 한계는 아키텍처가 결정한다: 90일 안에 AI-ready 아키텍처 구축하기 :: 지식의 섬](https://digitalbourgeois.tistory.com/3066)
+  * 2026 Vercel 보안 사고를 사례로 AI 도입 전 IT 아키텍처 재설계 필요성 논의. 3단계 90일 로드맵: 1-30일 현황 매핑, 31-60일 기반 인프라 구축, 61-90일 아키텍처 거버넌스 내재화. 데이터·컴퓨트·모델·오케스트레이션·거버넌스 5개 레이어
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
