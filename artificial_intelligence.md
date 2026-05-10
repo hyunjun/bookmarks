@@ -1336,6 +1336,9 @@ Artificial Intelligence
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
+* [하네스 엔지니어링 Claude · Codex · Gemini 셋이서 한 작업 — AI Dev Team 데모 - YouTube](https://www.youtube.com/watch?v=ly5CUJwelFc)
+  * [agent-harness-tutorial | pandas-studio](https://github.com/pandas-studio/agent-harness-tutorial)
+  * 판다스 스튜디오 채널. Claude Code(PM, 라우팅+컨텍스트 관리)+Gemini CLI(Researcher, 라이브러리/docs 검색)+Codex CLI(Reviewer, verdict+NEED RESEARCH) 3개 CLI를 tmux 3-pane + 로그 파일 공유 메모리로 묶어 운영하는 데모. 30분 hands-on lab 제공
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
@@ -4333,6 +4336,8 @@ Artificial Intelligence
       * [65 lines of Markdown - a Claude Code sensation | Blog](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
         * [65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체 | GeekNews](https://news.hada.io/topic?id=26655)
       * [65줄의 스킬에 깃허브 스타 6500개, 단순하지만 직관적 가이드라인으로 성능을 끌어올린 사례 - 안티그래비티에 적용하기 feat : 생활형 계산기 10개 - YouTube](https://www.youtube.com/watch?v=tcDoacn64Lo)
+      * [Andrej Karpathy가 LLM 코딩의 문제점을 지적하자마자 그걸 | h4y3j1n](https://www.linkedin.com/posts/h4y3j1n_andrej-karpathy%EA%B0%80-llm-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%EC%A7%80%EC%A0%81%ED%95%98%EC%9E%90%EB%A7%88%EC%9E%90-%EA%B7%B8%EA%B1%B8-share-7450026880222646272-x-Jx)
+      * Think Before Coding(가정 명시·모호함 드러내기)·Simplicity First(최소 코드, 투기적 기능 배제)·Surgical Changes(필요한 부분만 수정)·Goal-Driven Execution(검증 가능한 성공 기준) 4대 원칙
   * [Claude-Mem - Your AI's Perfect Memory Archive](https://claude-mem.ai/)
     * 전용 관찰 AI가 코딩 세션을 실시간 모니터링하며 의사결정·버그수정·기능·발견 등을 자동 분류 기록. 파일 경로나 개념으로 검색 가능
     * [claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions](https://github.com/thedotmack/claude-mem)
@@ -4386,15 +4391,17 @@ Artificial Intelligence
     * [DESIGN.md 포맷 완전정복 — 28챕터 딥다이브](https://rubric.im/curriculum/design-md)
       * [DESIGN.md — AI 코딩 도구를 위한 디자인 시스템 단일 파일 포맷 (한국어 정리) | GeekNews](https://news.hada.io/topic?id=28861)
     * YAML 토큰(색상·타이포·간격) + 마크다운 디자인 근거의 이중 레이어 포맷. WCAG 대비 검증, Tailwind/DTCG 내보내기, lint/diff/export CLI. Google
-    * [getdesign.md - stitch가 유행시킨 DESIGN.md 모음 사이트](https://getdesign.md/)
-      * [stitch가 유행시킨 DESIGN.md를 모아놓은 사이트 | GeekNews](https://news.hada.io/topic?id=28947)
-      * Apple 등 유명 사이트의 DESIGN.md 파일 수집 사이트. 디자이너 없이 디자인 명세 기반 개발 가능성 논의
     * [DESIGN.md를 어디서 구해야 하는지 모르겠다고요? (designmd.ai 외 3개 커뮤니티) | SangRok Jung](https://www.linkedin.com/posts/sangrok-jung-9ab787311_designmd%EB%A5%BC-%EC%96%B4%EB%94%94%EC%84%9C-%EA%B5%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EC%A7%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EB%8B%A4%EA%B3%A0%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-share-7450481009009270785-n2B8)
       * designmd.ai(디자인 시스템 npm 100개+), getdesign.md 등 3개 커뮤니티 소개
       * [DESIGN.md - Design Systems for AI Coding](https://designmd.ai/)
       * [DESIGN.md Library — 423 AI-Ready Design Systems | designmd.app](https://designmd.app/)
       * [DesignMD — Generate DESIGN.md Files with AI](https://designmd.me/)
       * [getdesign.md — DESIGN.md collection for AI coding agents](https://getdesign.md/)
+    * [디자인 킬러 DESIGN.md 를 가장 잘 사용하는 워크플로우를 정리했습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EB%94%94%EC%9E%90%EC%9D%B8-%ED%82%AC%EB%9F%AC-designmd-%EB%A5%BC-%EA%B0%80%EC%9E%A5-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EC%A0%95%EB%A6%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7457313918550441984-tVk1)
+      * DESIGN.md 활용 워크플로우 정리. awesome-design-md 레퍼런스 수집 + Taste Skill 프론트엔드 품질 게이트 결합
+    * [getdesign.md - stitch가 유행시킨 DESIGN.md 모음 사이트](https://getdesign.md/)
+      * [stitch가 유행시킨 DESIGN.md를 모아놓은 사이트 | GeekNews](https://news.hada.io/topic?id=28947)
+      * Apple 등 유명 사이트의 DESIGN.md 파일 수집 사이트. 디자이너 없이 디자인 명세 기반 개발 가능성 논의
     * [Refero Styles — Design Systems for AI Agents](https://styles.refero.design/)
       * AI 에이전트용 DESIGN.md 라이브러리 검색. 상위 웹사이트의 컬러·타이포그래피·간격·컴포넌트 패턴 큐레이션
     * [Stitch design.md docs](https://stitch.withgoogle.com/docs/design-md/)
@@ -4555,6 +4562,8 @@ Artificial Intelligence
     * [Matt Pocock 41만뷰 발표 — AI 코드 망치는 6가지와 해결법 - YouTube](https://www.youtube.com/watch?v=FOee3zb98wI)
       * [맷 포콕 41만뷰 발표: AI 코드 망치는 6가지와 해결법 | AgentOS](https://livewiki.com/ko/content/matt-pocock-ai-code-six-fixes)
     * [🆓 Matt Pocock Skills 완벽 가이드 - AI 코딩 에이전트 실무 필수 스킬 (30 초 설치)](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Matt-Pocock-Skills-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%A4%EB%AC%B4-%ED%95%84%EC%88%98-%EC%8A%A4%ED%82%AC-30-%EC%B4%88-%EC%84%A4%EC%B9%98-1)
+    * [좋은 스킬을 발견하게 되어 공유합니다 | Teo Yu](https://www.linkedin.com/posts/teo-yu_%EC%A2%8B%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B2%8C-%EB%90%98%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-1-%EC%84%A0%EA%B5%AC%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%97%90-%EC%A0%80%EB%8F%84-share-7457350055386161152-jOL9)
+    * 엔지니어링 스킬(`/grill-with-docs`, `/tdd`, `/diagnose`, `/improve-codebase-architecture`, `/triage`, `/to-issues`, `/to-prd`, `/zoom-out`, `/prototype`) + 생산성 스킬(`/grill-me` 결정 트리 해소, `/caveman` 토큰 75% 절감 압축 커뮤니케이션, `/write-a-skill`). 에이전트 4대 실패(오정렬·장황·비기능 코드·아키텍처 퇴화) 대응
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
@@ -4580,6 +4589,8 @@ Artificial Intelligence
     * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
   * [stop-slop: A skill file for removing AI tells from prose](https://github.com/hardikpandya/stop-slop)
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
+  * [teo-claude-code: Claude Code 스킬·에이전트 마켓플레이스](https://github.com/developer-1px/teo-claude-code)
+    * teo-stack 공개 플러그인(8개 thinking 스킬: 대화 구조화·충돌 해소·감산적 사고·민토 방법) + teo-project 비공개 플러그인(29개 파이프라인 스킬·4개 에이전트, interactive-os 전용). superpowers 보완—토론 구조화·외부 리서치 담당
   * [Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) enables Claude agents to work autonomously
   * [Understand Anything — Graphs that teach the codebase](https://understand-anything.com/)
     * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
