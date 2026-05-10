@@ -5249,6 +5249,8 @@ Artificial Intelligence
   * [🤖 OpenCode 2025: 오픈소스 AI 코딩 에이전트 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenCode-2025-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [🤖💻Ollama와 OpenCode를 활용한 맞춤형 무료 AI 코딩 에이전트 구축](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96%F0%9F%92%BBOllama%EC%99%80-OpenCode%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95)
   * [OpenCode + Antigravity oAuth: FREE Alternative to Claude Code Max Plan - YouTube](https://www.youtube.com/watch?v=Kr9BL3ck2-g)
+  * [awesome-opencode: A curated list of awesome plugins, themes, agents, projects, and resources for opencode.ai](https://github.com/awesome-opencode/awesome-opencode)
+    * 공식 SDK(JS/TS/Go/Python), 90+ 플러그인(Agent Memory, Agent Identity, Dynamic Context Pruning), 테마(Ayu Dark·Lavi·Moonlight), 에이전트 컨피그, GUI 앱(OpenChamber·OpenWork), 모니터링(OCX·Tokscale) 큐레이션
 * [OpenCove: Infinite canvas for Claude Code, Codex, terminals, tasks, and notes](https://github.com/DeadWaveWave/opencove)
 * [OpenDocs: Convert GitHub READMEs, Markdown, Jupyter Notebooks into professionally formatted docs](https://github.com/ioteverythin/OpenDocs)
 * [OpenMontage: World's First Open-Source, Agentic Video Production System](https://github.com/calesthio/OpenMontage)
