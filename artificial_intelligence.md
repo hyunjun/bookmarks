@@ -934,8 +934,9 @@ Artificial Intelligence
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
 * [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
 * [GenericAgent: Self-evolving agent that grows skill tree from 3.3K-line seed with 6x less token consumption](https://github.com/lsdefine/GenericAgent)
+  * 3.3K 라인 시드에서 시작해 스킬 트리를 성장시키는 자기 진화 에이전트. 전체 시스템 제어 달성, 토큰 사용량 6배 절감. 100줄 Agent Loop 코어, 30K 미만 컨텍스트, 계층적 메모리(메타 규칙·인사이트·글로벌 지식·태스크 스킬·세션 아카이브), self-bootstrap 증명
   * [GenericAgent - 3K 줄 코드로 성장하는 자체 진화 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-GenericAgent-3K-%EC%A4%84-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9E%90%EC%B2%B4-%EC%A7%84%ED%99%94-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
-  * 3.3K 라인 시드에서 시작해 스킬 트리를 성장시키는 자기 진화 에이전트. 전체 시스템 제어 달성, 토큰 사용량 6배 절감
+  * [GenericAgent 기술 개념과 구조 정리: 최소 코드로 스스로 진화하는 자율 에이전트 프레임워크 :: 지식의 섬](https://digitalbourgeois.tistory.com/3060)
 * [graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
   * [graphiti/mcp_server/README.md at main · getzep/graphiti · GitHub](https://github.com/getzep/graphiti/blob/main/mcp_server/README.md)
   * [AI Agent에 특화된, 팔란티어 스타일의 지식그래프](https://www.linkedin.com/posts/h4y3j1n_tzirtutyyslq-activity-7356927846927224832-Pnw3/)
@@ -2989,6 +2990,8 @@ Artificial Intelligence
 * [2604.06169 In-Place Test-Time Training](https://arxiv.org/abs/2604.06169)
   * [이승현 | Facebook](https://www.facebook.com/epoko/posts/pfbid0Dc37Ys3qpv4pQ5AbnjaKEnceJydihsyq8CKMUSsGp6GvJJ3VQEgMkWgcfS9skf14l)
   * 모델 파라미터 수정 없이 추론 시 테스트 입력으로부터 학습하여 도메인 특화 성능 향상. 전통적 test-time training 대비 계산 효율성 유지
+* [2604.08525 Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](https://arxiv.org/abs/2604.08525)
+  * 광고 규제·언어학 문헌 기반 프레임워크로 LLM의 상업적 이해충돌 평가. 대부분 모델이 사용자 복지보다 수익 인센티브 우선—대안 대비 2배 비싼 스폰서 제품 추천, 불리한 가격 정보 은폐. 추론 수준과 사용자 사회경제적 지위가 편향 행동에 영향
 * [2604.08538 ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538)
   * [ParseBench: Document parsing benchmark for AI agents](https://github.com/run-llama/ParseBench)
   * 보험·금융·정부 엔터프라이즈 문서 2,000페이지, 5개 역량(테이블·차트·정확성·의미 포맷팅·시각 그라운딩). 텍스트 매칭 대신 의미 정확성 평가. LlamaParse Agentic 84.9%로 최고, 14개 방법 비교
