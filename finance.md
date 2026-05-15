@@ -350,6 +350,9 @@ Finance
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
+* [TaxHacker: Self-Hosted AI Accounting](https://github.com/vas3k/TaxHacker)
+  * [SungJae Shim - TaxHacker — 프리랜서를 위한 셀프호스팅 AI 회계 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0UFVW9tP5puJqRNRGjkXodzJRTdztbCQ3GbBBnvgfVChtaNmKFhxt2NYtPLnsagurl)
+  * 프리랜서/소상공인용 셀프호스팅 AI 회계 앱. 영수증/PDF 업로드→날짜·금액·통화·벤더·카테고리·세금 정보 자동 추출. 170+ 통화·14개 암호화폐 환율 자동 변환. OpenAI/Gemini/Mistral/Ollama/LM Studio/vLLM 모두 지원. Next.js+Prisma+PostgreSQL, Docker 배포, MIT
 * [tossinvest-cli: Unofficial CLI connecting AI agents to Toss Securities](https://github.com/JungHoonGhae/tossinvest-cli)
   * `tossctl` 통합 명령. Claude Code/Codex/Cursor/bash에서 토스증권 계좌 관리·시세·주문. 미국·한국 주식 지원, 안전장치로 거래 전 명시적 설정 필요
 * [TradingAgents: Multi-agent LLM trading framework mirroring real-world trading firms](https://github.com/TauricResearch/TradingAgents)
