@@ -5429,6 +5429,9 @@ NLP
 * [ML simple works - A Gentle Introduction to Creating an English-to-Korean translator with Transformers](https://metamath1.github.io/blog/posts/gentle-t5-trans/gentle_t5_trans.html)
 * [Adam Bittlingmayer - Accelerating Human-Quality Translation in the Real World - YouTube](https://www.youtube.com/watch?v=5Wrs_jmbOD4)
 * [cjk\_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
+* [co-translator: Native desktop realtime translator for macOS and Windows](https://github.com/bytonylee/co-translator)
+  * [오늘부터 하루에 하나씩 저의 업무 전용 AI 도구를 무료로 공개합니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%ED%95%98%EB%A3%A8%EC%97%90-%ED%95%98%EB%82%98%EC%94%A9-%EC%A0%80%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%A0%84%EC%9A%A9-ai-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-ugcPost-7459862977685659648-bjr0)
+  * Electron+React+TS 기반 macOS/Windows 실시간 번역 앱. OpenAI Realtime API. 4가지 지연 모드(Fastest/WebRTC/Balanced/Stable network), 사용자 음성 전사 옵션, 세션 텍스트 녹화·내보내기, API 비용 추정·알림
 * [dodari: AI 영한-한영 번역기, 도다리 en-ko/ ko-en AI translator](https://github.com/vEduardovich/dodari)
 * fairseq [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
   * [오픈소스로 쉽게 만드는 기계번역기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/20)
