@@ -3357,6 +3357,8 @@ Business
   * “마케팅은 너무도 기본적인 것이어서 기업이 강력한 영업 담당부서를 두고 또 그 부서에 마케팅 기능을 부여하는 것만으로는 충분하지 않다. 마케팅은 판매보다 그 범위가 훨씬 넓을 뿐 아니라, 아예 하나의 특수한 활동만을 의미하는 것이 아니다. 기업의 최종적인 결과라는 관점에서 보면, 즉 고객의 관점에서 보면 기업 활동 전체다. 그러므로 마케팅에 대한 관심과 책임은 기업의 모든 활동 영역에 스며들어 있다.” 피터 드러커
 * [AEO(AI Engine Optimization)와 SEO 비교: K-뷰티 AI 질문 1만 건 분석 | Chaeeun Lee](https://www.linkedin.com/posts/chaeeun-lee-513b68378_aeo-seo-%EB%A7%88%EC%BC%80%ED%8C%85%ED%8A%B8%EB%A0%8C%EB%93%9C-activity-7443212733166112768-kQGn)
   * 소비자가 ChatGPT·Perplexity에 직접 질문 후 구매하는 시대. AI 검색 결과에 브랜드가 노출되려면 기존 SEO를 넘어 AEO 전략이 필요
+* [AEO/GEO Playbook 2편 — AI 가시성 진단 무료 체크리스트 | Angela Kim](https://www.linkedin.com/posts/frost-angela_aeo-geo-playbook-share-7460654795251601408-RLWi/)
+  * 30분 진단용 AI 가시성 체크리스트 4섹션: 콘텐츠 구조, 콘텐츠 고유성·권위, Gap Matrix(경쟁 격차 분석), AI 검색 인용 프레임워크. ChatGPT/Perplexity 등에서 브랜드 인용 여부 측정·개선
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
