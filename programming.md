@@ -3868,6 +3868,9 @@ Programming
   * [Serverless ClickHouse Cloud - ASDS Chapter 5 (part 1) — Jack Vanlightly](https://jack-vanlightly.com/analyses/2024/1/23/serverless-clickhouse-cloud-asds-chapter-5-part-1)
 * [Honeycomb: How We Used Serverless to Speed up Our Servers - YouTube](https://www.youtube.com/watch?v=tpoeJiXTVU0)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
+* [State of Serverless DevEx & Observability • Jones Zachariah Noel N • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=oItac1VPsso)
+  * [State of Serverless DevEx & Observability: Lambda to AWS Stack — 10년의 진화 LiveWiki](https://livewiki.com/ko/content/serverless-devex-observability)
+  * Jones Zachariah Noel(AWS Serverless Hero / New Relic). 지난 10년간 AWS Lambda·Step Functions의 개발자 경험과 관찰 가능성 진화 정리. 개발(DevEx)과 프로덕션 모니터링·옵저버빌리티의 양 축이 서버리스 사이클을 완성
 
 # Atlassian
 
@@ -7557,6 +7560,7 @@ Programming
   * [4월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/04/b-4-4.html)
   * [4월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/05/b-4-5.html)
   * [5월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/05/b-5-1.html)
+  * [5월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/05/b-5-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8526,6 +8530,9 @@ Programming
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
+* [Programming as Theory Building - Peter Naur 1985 PDF](https://gwern.net/doc/cs/algorithm/1985-naur.pdf)
+  * [이론 형성으로서의 프로그래밍 (1985) | GeekNews](https://news.hada.io/topic?id=29501)
+  * Peter Naur 고전 논문. 프로그래밍은 코드 생산이 아니라 프로그래머가 문제·해법에 대한 "이론"을 형성하는 활동. 프로그램 텍스트와 문서는 이론의 부산물에 불과하며, 이론(=현실 문제 이해+프로그램 구조 대응)은 프로그래머의 머릿속에만 존재해 팀 해체 시 시스템도 사실상 사망
 * book
   * [소프트웨어 장인 CHAPTER 6 동작하는 소프트웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-6-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
 * [**장애는 ‘우리의 문제’다 | Popit**](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/) 기술적인 내용은 아니나 매우 중요한 부분
