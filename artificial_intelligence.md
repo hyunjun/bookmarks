@@ -3704,6 +3704,9 @@ Artificial Intelligence
 * [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
   * Pi/OpenClaw/Codex/Claude용 ACP 클라이언트. 영구 세션, 병렬 세션, 프롬프트 큐잉, 크래시 복구, JSON 출력
 * [Advanced_SQL_Agent: Using LangGraph to build reliable SQL Agent](https://github.com/abdarwish23/Advanced_SQL_Agent)
+* [agency-agents: A complete AI agency at your fingertips — 144+ specialized agent personalities across 12 divisions](https://github.com/msitarzewski/agency-agents)
+  * [SungJae Shim - 144개 AI 에이전트 컬렉션 agency-agents | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid07ZAVBbjFxQBtXvUZUdgWFht5sZmpA5zdwvZNBwNJXJ97cqejLiyVp7G3ytDuc6Fdl)
+  * 12개 디비전(엔지니어링·디자인·세일즈·마케팅·프로덕트·PM·테스팅·서포트·공간 컴퓨팅·금융·게임 개발·학술) 144+ 에이전트 페르소나. Claude Code/Copilot/Cursor/Aider/Windsurf/OpenCode/Antigravity 자동 변환 설치. 측정 가능한 성공 지표 포함, 98k stars
 * [agent-skills: 20 structured workflows for AI coding agents (Addy Osmani)](https://github.com/addyosmani/agent-skills)
   * [agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음 | GeekNews](https://news.hada.io/topic?id=28294)
   * 시니어 엔지니어 수준의 워크플로우를 7개 슬래시 커맨드와 19개 스킬로 구조화. 스펙·테스트·보안 리뷰 품질 게이트 내장
