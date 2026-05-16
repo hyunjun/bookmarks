@@ -288,6 +288,9 @@ Hardware
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [요즘 IoT: Azure Device Twin, Digital Twins](https://youngjaekim.wordpress.com/2019/03/30/%EC%9A%94%EC%A6%98-iot-azure-device-twin-digital-twins/)
 * [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
+* [HelloESP — A website running on a single $10 ESP32 microcontroller](https://helloesp.com/)
+  * [helloesp: A public website running entirely on a single ESP32 microcontroller](https://github.com/Tech1k/helloesp)
+  * 520KB RAM ESP32 단일 칩에서 백엔드 서버 없이 풀 웹 앱 호스팅. Cloudflare Worker 릴레이로 outbound WebSocket 유지(인바운드 방화벽 규칙 불필요), SSE로 15초마다 센서 데이터 푸시. 라이브 대시보드, 방명록, Snake 게임, 자동 일기 시스템, OTA 관리, R2 백업
 * [IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!](https://github.com/microsoft/IoT-For-Beginners)
   * [Microsoft, IoT for Beginners 강의 공개 | GeekNews](https://news.hada.io/topic?id=4627)
 * [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net ](https://github.com/Samsung/iotjs)
