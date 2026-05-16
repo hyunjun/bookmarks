@@ -147,6 +147,7 @@ Business
 * [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
 * [야놀자의 나스닥행, 가능할까? f. 이재용 회계사 22.07.26 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=FLWX2DhH3tE) OTA
 * [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
+* [Who Is ? 이수진 야놀자 총괄대표 - 허프포스트코리아](https://www.huffingtonpost.kr/whois/436998)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [스타트업이 의사결정 잘할수 있는법 – InnoVibeCrafter](https://innovibecrafter.com/2024/05/21/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%9d%b4-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95-%ec%9e%98%ed%95%a0%ec%88%98-%ec%9e%88%eb%8a%94%eb%b2%95/) 공헌이익 contribution margin
 * [작은 실험이 토스를 키운다ㅣ장민영 토스 CPO | Square of Toss - YouTube](https://www.youtube.com/watch?v=TXIjkk6UfBQ)
