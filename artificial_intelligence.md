@@ -1007,6 +1007,8 @@ Artificial Intelligence
 * [MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios](https://github.com/MiroMindAI/MiroThinker)
 * [ml-intern: Autonomous ML research agent using Hugging Face ecosystem](https://github.com/huggingface/ml-intern)
   * 자율적으로 ML 코드를 연구·작성·배포하는 에이전트. HuggingFace 문서·논문·데이터셋·클라우드 컴퓨트 통합, GitHub 코드 검색, 샌드박스 실행, Doom Loop 탐지. 5.5k stars
+* [mnemos: Production-grade memory operating system for agentic AI](https://github.com/mnemos-os/mnemos)
+  * 다중 LLM 프로바이더·에이전트 간 영구·감사 가능한 메모리. PostgreSQL+pgvector / SQLite+sqlite-vec 다중 백엔드, GRAEAE 추론 버스(합의 점수+서킷 브레이커), 압축 콘테스트(APOLLO vs ARTEMIS), DAG 버전 관리(git-like 분기·머지·감사 로그), 페더레이션·웹훅·OAuth/OIDC. REST API + MCP + OpenAI 호환 게이트웨이
 * [MobiAgent: The Intelligent GUI Agent for Mobile Phones](https://github.com/IPADS-SAI/MobiAgent/)
 * [Mobile-use: 자연어로 스마트폰을 자동화하는 AI 에이전트](https://www.facebook.com/groups/9546662462016100/posts/27061598440095898/)
 * [multi-agent-marketplace: Magentic-Marketplace: Simulate Agentic Markets and See How They Evolve](https://github.com/microsoft/multi-agent-marketplace)
