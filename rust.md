@@ -441,6 +441,10 @@
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [Rustenstein 3D: Game programming like it's 1992 - NextRoll](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
+* [RustFS — High-Performance, Apache 2.0 Alternative to MinIO](https://rustfs.com/)
+  * [rustfs: 🚀 High-performance distributed object storage for MinIO alternative](https://github.com/rustfs/rustfs)
+  * [RustFS - Rust로 만든 MinIO 대안 분산 객체 스토리지 | GeekNews](https://news.hada.io/topic?id=29532)
+  * Rust 기반 엔터프라이즈급 분산 파일 시스템. 100% S3 호환, 멀티 클라우드 중복화, WORM 객체 잠금, 동기·비동기 액티브 복제, 버전 관리. Zero-master 분산 아키텍처(TB→EB), 92%+ 읽기/쓰기 속도 향상, 100MB 미만 바이너리. Apache 2.0
 * [rust_opencv_study: Rust & OpenCV Example Codes](https://github.com/bipark/rust_opencv_study)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
