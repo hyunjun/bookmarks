@@ -27,6 +27,7 @@ Food
 * [소스](https://imgur.com/a/uEkzZ3H)
 * [미쉐린이 선택한 3만5000원 이하 맛집, 올해는 어디?](https://imgur.com/a/6NRI1aK) 서울
 * [흑백요리사 식당 모음](https://map.kakao.com/?map_type=TYPE_MAP&folderid=15551231&target=other&page=bookmark)
+* [2025년 개정판 우체국 추천 맛집 가이드 : 네이버 블로그](https://blog.naver.com/angeless37/223799238863)
 
 # 계란
 * [줄리아 차일드처럼 완벽한 수란을 만드는 방법](http://www.huffingtonpost.kr/2015/03/11/story_n_6844304.html)
