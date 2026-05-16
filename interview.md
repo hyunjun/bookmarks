@@ -998,6 +998,12 @@ Interview
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
 * [실리콘밸리 구직 체험기 201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
 * [실리콘밸리 구직 체험기2 201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
+* [씨가 마른 신규 채용, 범인은 AI? (w. 최민희 링크드인 디렉터) - YouTube](https://www.youtube.com/watch?v=xfg_wDSkcTw)
+  * [2026년, AI 시대에 사라지지 않으려면 '셀프 브랜딩' 필수!](https://livewiki.com/ko/content/ai-replacement-self-branding)
+  * AI 시대에 차별화·전문성 노출 없는 직군은 대체 위험. 신규 채용이 줄어드는 현실에서 셀프 브랜딩이 커리어 생존에 필수
+* [프로필 하나로 이직 제안 받는 사람들의 비밀 (w. 최민희 링크드인 디렉터 2편) - YouTube](https://www.youtube.com/watch?v=Oiy9zUbfQBc)
+  * [프로필 하나로 이직 제안 받는 사람들의 비밀 - LiveWiki 요약](https://livewiki.com/ko/content/profile-job-offers-secrets)
+  * 리크루터의 시선을 끄는 LinkedIn 프로필 최적화 전략. 프로필 하나로 이직 제안을 받기 위한 구성 요소와 노하우
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
 * [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
