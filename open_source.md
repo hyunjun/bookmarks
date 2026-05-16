@@ -177,6 +177,8 @@ Open Source
 * [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
   * [Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모 | GeekNews](https://news.hada.io/topic?id=28340)
   * CI/CD 보안(GitHub Actions 해시 고정·최소 권한), Trusted Publishing+Sigstore 증명, 이중 승인 릴리즈, 의존성 쿨다운 정책. 수백만 개발자 사용 도구의 공급망 보안 전모
+* [SDV: 오픈소스, 여전히 남아 있는 거버넌스 질문 - 오토모티브일렉트로닉스 매거진](https://www.autoelectronics.co.kr/article/articleView.asp?idx=6804)
+  * Google Android Automotive OS SDV 발표 사례로 본 SDV 시대 오픈소스 전략의 한계. 코드 공개 여부보다 거버넌스 구조가 중요—멀티벤더 생태계의 지속가능성은 단일 벤더 지배가 아닌 벤더 중립성·공유 통제에 달림. 자동차 SW가 핵심 인프라화될수록 운영 원칙·책임 구조가 결정적
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
