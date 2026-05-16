@@ -958,8 +958,10 @@ Artificial Intelligence
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
   * [Feature: Skill lifecycle management — usage metadata, staleness, archival, and revalidation · Issue #7816 · NousResearch/hermes-agent | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_feature-skill-lifecycle-management-usage-share-7455171430251405312-hVvn)
     * Hermes 같은 자가 개선형 에이전트의 skill bloat 문제. 스킬 수명 주기 관리: 사용 메타데이터, 노후화, 아카이빙, 재검증 제안
-  * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
+  * [Hermes 칸반은 노션 같은 일반 칸반이 아닙니다 (Multi-Agent Profile Collaboration) | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_hermes-%EC%B9%B8%EB%B0%98%EC%9D%80-%EB%85%B8%EC%85%98-%EA%B0%99%EC%9D%80-%EC%9D%BC%EB%B0%98-%EC%B9%B8%EB%B0%98%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%A4-multi-agent-activity-7458270693357563904-0Oxk)
     * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
+  * ["쓸수록 나아진다"는 그 AI, Hermes Agent 제대로 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3756/)
+    * OpenRouter 사용량 1위 등극(Openclaw 추월). 4가지 자가 개선 메커니즘: 복잡 작업 자동 스킬 문서화, SQLite 기반 빠른 스킬 검색, 지속적 메모리 개선, 세션 간 사용자 모델 유지. 20+ 메시징 플랫폼·다중 백엔드 지원
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
@@ -3018,6 +3020,8 @@ Artificial Intelligence
   * 학습 동역학 기반 "learning mechanics" 관점 제안. 5가지 연구 흐름(해결 가능한 이상적 설정, 다루기 쉬운 한계, 단순 수학 법칙, 하이퍼파라미터 이론, 보편적 행동)이 기여. 통계·정보이론·기계적 해석가능성과 관계 설명
 * [2604.27660 From Context to Skills: Can Language Models Learn from Context Skillfully? (Ctx2Skill)](https://arxiv.org/abs/2604.27660)
   * 멀티 에이전트 시스템이 자동으로 컨텍스트 특정 스킬 발견·정제. 도전적 태스크 생성·평가 에이전트, 실패 학습. Cross-time Replay로 과도한 특화·적대성 방지. 4개 벤치마크에서 모델 아키텍처 무관 성능 향상
+* [2605.08083 LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083)
+  * AutoTTS 프레임워크. 수작업 설계 대신 효과적 test-time scaling 전략 자동 발견—사전 수집 추론 trajectory에 대한 컨트롤러 합성 문제로 정식화하여 분기·계속·중지 결정. 수학 추론 벤치마크에서 정확도-비용 트레이드오프 개선, 데이터셋·모델 크기 일반화. 발견 비용 $39.90·160분
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
