@@ -920,6 +920,10 @@ Artificial Intelligence
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
 * [DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
   * [SOTA 기술 도입을 간단하게 실험해볼 수 있는 오픈소스](https://www.linkedin.com/posts/h4y3j1n_hkuds-activity-7366246830180847617-34Yi/)
+* [DeerFlow — Open-source SuperAgent Platform by ByteDance](https://deerflow.tech/)
+  * [deer-flow: DeerFlow is a community-driven Deep Research framework](https://github.com/bytedance/deer-flow)
+  * [DeerFlow - 바이트댄스의 풀스택 Super Agent 플랫폼 | GeekNews](https://news.hada.io/topic?id=29518)
+  * 컨텍스트 엔지니어링(장·단기 메모리), 분 단위~시간 단위 장기 작업 실행(계획·추론·순차/병렬 실행), 영구 Docker 샌드박스, Doubao/DeepSeek/OpenAI/Gemini 다중 모델 지원. 딥 리서치 에이전트에서 풀스택 SuperAgent 프레임워크로 진화. MIT
 * [dp-archive: Skill-powered agents without workflow graphs or CLI](https://github.com/dp-archive/archive)
 * [Dynamiq: The Operating Platform for GenAI Applications](https://www.getdynamiq.ai/)
   * [Dynamiq is an orchestration framework for agentic AI and LLM applications](https://github.com/dynamiq-ai/dynamiq)
