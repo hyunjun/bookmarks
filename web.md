@@ -645,7 +645,7 @@ Web
 * [camofox-browser: Anti-detection browser server for AI agents](https://github.com/jo-inc/camofox-browser)
   * Camoufox 기반 AI 에이전트용 안티탐지 브라우저 서버. C++ 레벨 Firefox 패칭으로 Google/Cloudflare 우회, 안정적 엘리먼트 참조, 접근성 스냅샷(HTML 대비 90% 토큰 절감), 세션 격리, 프록시 자동 로케일/타임존 매칭. Docker/Fly.io/Railway 배포
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
-  * Apify의 브라우저 핑거프린팅 도구. 스크래퍼의 브라우저 지문을 실제 사용자처럼 생성하여 봇 탐지 우회
+  * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)

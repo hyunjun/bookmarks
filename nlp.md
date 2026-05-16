@@ -5804,6 +5804,7 @@ NLP
   * [음성인식 API (STT API) - RTZR STT](https://developers.rtzr.ai/)
 * [supertonic: Lightning-fast, on-device TTS — running natively via ONNX](https://github.com/supertone-inc/supertonic)
   * [세상에서 가장 빠른 TTS, 수퍼토닉을 오픈소스로 공개 | Facebook](https://www.facebook.com/groups/255834461424286?multi_permalinks=2790590804615293&hoisted_section_header_type=recently_seen)
+  * 31개 언어(한국어 포함), ~99M 파라미터로 경량. Python/JS/Java/C++/C#/Go/Swift/Rust/iOS/Flutter/브라우저 크로스플랫폼. 금융·전화번호·기술 단위·복잡한 구두점 네이티브 처리, `<laugh>`/`<breath>`/`<sigh>` 표현 태그. 완전 로컬, 네트워크 의존성 0
 * [video_transcription: Turn any video into a rich, timestamped transcript — audio + on-screen visuals, merged](https://github.com/treesoop/video_transcription)
   * Metal 가속 Whisper 음성 전사 + 키프레임 추출·묘사를 통합한 비디오 트랜스크립션 도구. Claude Code·OpenAI Codex·Gemini 연동, 화자 분리, 99개 언어, 완전 로컬 처리
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
