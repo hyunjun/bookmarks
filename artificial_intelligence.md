@@ -2864,6 +2864,9 @@ Artificial Intelligence
   * 두 명의 천재가 AR 글라스+자체 AI 모델로 실험실 초보를 1주일 만에 전문가 수준으로. "앞으로 중요한 것은 당신이 얼마나 뛰어난가가 아니라 얼마나 뛰어난 AI를 살 수 있는가"
 * [SeonYoung Im - 중국AI미래지도 미국 모델도 중국 모델도 껴안은 오픈소스 AI 인프라 (RadixArk/SGLang) | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid02tG8mHeFJCyGvYa9RnTnGTKcUTEivfVRLDH67AdDeoDCS3YCQKnPuEReBZxcmKWCMl)
   * RadixArk 1억 달러 시드(기업가치 4억 달러). 오픈소스 추론 엔진 SGLang이 Llama/Qwen/DeepSeek/Kimi/GLM/GPT/Gemma/Mistral 및 NVIDIA/AMD/Intel/TPU를 Day-0 지원. 창업자 Ying Sheng(xAI 출신)·Banghua Zhu(NVIDIA 출신)의 중국 최고대→미국 최고대학원→미국 빅테크 경로가 모델·하드웨어 중립성의 기반. NVentures·AMD·MediaTek·Databricks 동반 투자
+* [Notes from Inside China's AI Labs | Interconnects](https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs)
+  * [중국 AI 연구소 내부에서 얻은 교훈 | GeekNews](https://news.hada.io/topic?id=29487)
+  * 중국 주요 AI 연구소 현장 방문 보고. 중국 연구자들은 개인 명성보다 최종 모델 품질 최적화에 집중하는 문화—핵심 기여자 다수가 현역 학생. 중국 AI 기업은 외부 서비스 구매 대신 자체 기술 스택 통제 지향. 중미 AI 생태계 문화 차이가 모델 개발에 미치는 영향 분석
 * [LLMRisks Archive - AI 에이전트 위험 10가지 | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B1%B0%EB%82%98-%EA%B8%B0%ED%9A%8D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%B4-%EA%BC%AD-%EB%B3%B4%EC%8B%9C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9E%90%EB%A3%8C%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%86%94%EC%A7%81%ED%9E%88-share-7455506165297377280-va6T)
   * OWASP에서 정의한 LLM 기반 프로젝트의 10가지 위험요소. 한글 버전 포함, 개념과 사례 정리. AI 에이전트 개발·기획자를 위한 보안 가이드
 * [SungJae Shim - 3,000명을 절반으로 줄인 DeNA가 매주 회사에서 모여서 하는 일 | Facebook](https://www.facebook.com/sungjae.shim/posts/10215284897431425/)
@@ -5529,6 +5532,9 @@ Artificial Intelligence
   * [Machine Learning for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
   * [Generative AI for Beginners - Full Videos Series Released!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/generative-ai-for-beginners-full-videos-series-released/ba-p/4183271)
 * [imvectordb: Super simple in-memory vector DB for Node.js](https://github.com/golbin/imvectordb)
+* [LEANN: The smallest vector index in the world. RAG Everything with LEANN!](https://github.com/yichuan-w/LEANN)
+  * [2506.08276 LEANN: A Low-Storage Vector Index](https://arxiv.org/abs/2506.08276)
+  * Berkeley Sky Computing Lab. 그래프 기반 선택적 재계산으로 전통 벡터 DB 대비 저장 공간 97% 절감. 정확도 손실 없는 100% 로컬 RAG. 문서·이메일·브라우저 히스토리·채팅 앱·MCP 라이브 데이터 등 다양한 소스 지원
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
   * [Vector database - Milvus](https://milvus.io/)
   * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
