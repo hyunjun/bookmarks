@@ -1156,6 +1156,9 @@ Interview
   * [magic-resume: AI-powered resume editor, free, privacy-first, all data stored locally](https://github.com/JOYCEQL/magic-resume)
   * AI 기반 이력서 편집기. 무료, 프라이버시 우선(로컬 저장), PDF/JSON 내보내기 지원
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
+* [Reactive Resume — A free and open-source resume builder](https://rxresu.me/)
+  * [Reactive-Resume: A one-of-a-kind resume builder that keeps your privacy in mind](https://github.com/AmruthPillai/Reactive-Resume)
+  * 무료/오픈소스, 광고·트래킹 없음. 12+ 템플릿·색상·폰트 커스텀, 무제한 이력서, PDF 내보내기, 비밀번호 보호 가능 공유 링크, 다국어, GitHub/Google/Passkey+2FA, Docker 셀프호스트, API 액세스
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * Resume.io [Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
