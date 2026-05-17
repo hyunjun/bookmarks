@@ -21,6 +21,8 @@ Politics
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 * [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
 * [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
+* [임현상 - 패권은 거래다: 미중 패권 경쟁을 춘추시대 진(晉)·초(楚)·진(秦) 비유로 분석 | Facebook](https://www.facebook.com/imhyeonsang.2025/posts/pfbid0rEdZXBE2q2zD3UvozriTfP3N6NaTUFuDSU7NbMAMnUwthoFCnrYkYUkBgajfMqh1l)
+  * 미국 패권은 단순 하드파워가 아니라 세계가 받아들인 표준(화폐·언어)의 산물. 신흥국(중국)은 힘 과대평가, 패권국은 도전자 과소평가의 함정. 진(秦)이 통일한 비결—실력주의·법가의 대안 제시. 미국이 이기려면 중국 방식 따라하지 말고 자기 답을 제시해야
 * [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
 * ['시민종교', 정치와 종교의 교묘하고도 양가적인 결합 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303178)
 * [EQUALITY, EQUITY AND JUSTICE. “When God speaks about equity, that… | by Sandeep Kumar | Medium](https://medium.com/@sandeepkumar_52041/equality-equity-and-justice-5f71ebe31245)
