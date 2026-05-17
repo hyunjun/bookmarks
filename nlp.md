@@ -3832,6 +3832,8 @@ NLP
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
   * [아직도 Streamlit으로 챗봇 만드신다면 보세요 feat.OpenWebUI, Msty, AnythingLLM - YouTube](https://www.youtube.com/watch?v=4Hx1uE6UYnw)
+* [optillm: An OpenAI API-compatible optimizing inference proxy for 2-10x better accuracy on math, coding, logical reasoning](https://github.com/algorithmicsuperintelligence/optillm)
+  * 20+ SOTA 추론 시점 최적화 기법(Best-of-N, Monte Carlo Tree Search, Mixture of Agents, planning) 내장. base URL만 바꾸면 즉시 적용, 학습·파인튜닝 불필요. OpenAI/Anthropic/Google/Cerebras + LiteLLM으로 100+ 모델, 메모리·프라이버시·웹 검색·코드 실행 플러그인
 * [OptiMind: Teaching LLMs to Think Like Optimization Experts - Microsoft Research](https://www.microsoft.com/en-us/research/publication/optimind-teaching-llms-to-think-like-optimization-experts/)
   * [OptiMind: A small language model with optimization expertise - Microsoft Research](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)
 * [oscar - Git at Google](https://go.googlesource.com/oscar)
@@ -4188,6 +4190,8 @@ NLP
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
+* [train-llm-from-scratch: A straightforward method for training your LLM, from downloading data to generating text](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+  * "Attention is All You Need" 기반 PyTorch 처음부터 구현. 단일 GPU에서 백만~수십억 파라미터 모델 학습. The Pile 데이터셋(22개 도메인), 데이터 다운로드→전처리→학습→텍스트 생성 풀 파이프라인. 13M+ 파라미터로 정상 문법 텍스트 생성
 
 ## Language Model LM Observability
 * [Langfuse](https://langfuse.com/)
