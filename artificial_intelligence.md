@@ -953,6 +953,7 @@ Artificial Intelligence
   * [Hermes Agent - 경험으로부터 스킬을 생성/개선하는 자기 학습형 자율 AI 에이전트 | GeekNews](https://news.hada.io/topic?id=28101)
   * Nous Research의 자율 AI 에이전트. 서버 상주·영구 메모리·자동 스킬 생성. Telegram/Discord/Slack/WhatsApp 멀티채널, Docker/SSH 샌드박스 실행. MIT 오픈소스
   * [hermes-agent](https://github.com/NousResearch/hermes-agent)
+  * [Hermes Agent 개념과 특징 정리: 지속적으로 학습하는 자율형 AI 에이전트 :: 지식의 섬](https://digitalbourgeois.tistory.com/2902)
   * [Hermes는 어떻게 스스로 배워가는가: 코드로 뜯어본 Skill Self-Evolution Architecture](https://tmdgusya.github.io/devletter/posts/hermes-skill-self-evolution/)
     * [Hermes의 Skill 시스템 코드를 분석해봤습니다 | 정승현](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_hermes%EC%9D%98-skill-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-self-evolution%EC%9D%B4%EB%9D%BC%EA%B3%A0-ugcPost-7448734487754088448-yz4l)
     * 모델 재학습 없이 절차적 기억의 외부화로 자가 진화. 복잡도 축적 시 백그라운드 리뷰 에이전트가 재사용 패턴을 Skill로 저장, patch 중심 점진적 개선. Memory(선언적)와 Skill(절차적) 분리
@@ -962,6 +963,13 @@ Artificial Intelligence
     * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
   * ["쓸수록 나아진다"는 그 AI, Hermes Agent 제대로 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3756/)
     * OpenRouter 사용량 1위 등극(Openclaw 추월). 4가지 자가 개선 메커니즘: 복잡 작업 자동 스킬 문서화, SQLite 기반 빠른 스킬 검색, 지속적 메모리 개선, 세션 간 사용자 모델 유지. 20+ 메시징 플랫폼·다중 백엔드 지원
+  * [hermes-paperclip-adapter: Paperclip adapter for Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-paperclip-adapter)
+    * Paperclip 회사 환경에서 Hermes Agent를 관리되는 직원처럼 운영. 8개 추론 프로바이더(Anthropic/OpenRouter/OpenAI/Nous/Codex/ZAI/Kimi/MiniMax), 30+ 네이티브 도구·80+ 스킬·MCP, 영구 세션·하트비트, 이슈 할당/댓글로 트리거
+  * [hermes-war-room: Visual command center for Hermes Agent's multi-agent orchestration](https://github.com/Naroh091/hermes-war-room)
+    * Hermes 멀티 프로필 위임·칸반 위에 구축한 비주얼 대시보드. War Room(미션 컨트롤+오퍼레이티브), 팀 로스터(에이전트 채용/해고·콜사인·스킬), 미션 아카이브, SQLite 직접 읽기 기반 칸반, SSE 실시간 업데이트, 자동 nudge. Nuxt 4+Tailwind v4+Nitro+ACP
+  * [rlm-forge: Runtime-hosted Recursive Language Models with Hermes Agent + Ouroboros + TraceGuard](https://github.com/Q00/rlm-forge/)
+    * [GitHub - Q00/rlm-forge: Runtime-Lifted Recursive Language Models | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-q00rlm-forge-runtime-lifted-recursive-share-7457107705376321536-Glhd)
+    * Ouroboros가 재귀·상태·종료 관리 + Hermes 내부 LM 런타임. TraceGuard로 부모 합성 주장을 자식 증거로 결정적 검증(LLM 판사 없이). 메모리-증거 분리, 24-셀 매트릭스 호환성 테스트(Hermes GLM/Claude Code/Codex). 프로바이더 무관 모델 교체
 * [Hindsight: Biomimetic data structures for agent memory](https://github.com/vectorize-io/hindsight)
   * retain/recall/reflect 연산으로 세계 사실·경험·멘탈 모델 관리. SOTA 장기 메모리 성능
 * [hive](https://github.com/aden-hive/hive)
@@ -3743,8 +3751,10 @@ Artificial Intelligence
     * [Auto-Claude - 자율적 멀티 세션 AI 코딩 | GeekNews](https://news.hada.io/topic?id=27038)
     * [AI Agents KR | Auto-Claude: 자율형 멀티 세션 AI 코딩 프레임워크의 구조와 핵심 기능 분석 | Facebook](https://www.facebook.com/groups/9546662462016100/posts/27025857960336613/)(https://news.hada.io/topic?id=27038)
     * 최대 12개 병렬 에이전트 터미널, Git Worktree 기반 워크스페이스 격리 및 AI 자동 머지, 메모리 레이어로 에이전트 간 인사이트 공유
-* [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/Archon)
+* [Archon: Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants](https://github.com/coleam00/archon)
+  * [Archon — Knowledge and task management backbone for AI coding assistants](https://archon.diy/)
   * [Archon: AI 코딩 어시스턴트를 하나로 묶는 새로운 명령 센터](https://digitalbourgeois.tistory.com/2062)
+  * [archon: The first open source AI agent operating system | 오정석](https://www.linkedin.com/posts/jeongseok-oh_github-coleam00archon-the-first-open-source-share-7461558626604937216-tFS0)
 * [asm: The universal skill manager for AI coding agents](https://github.com/luongnv89/asm)
 * [awesome-cli-coding-agents: Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them](https://github.com/bradAGI/awesome-cli-coding-agents)
 * [awesome-design-md: Curated DESIGN.md files from popular websites](https://github.com/VoltAgent/awesome-design-md)
@@ -4145,6 +4155,8 @@ Artificial Intelligence
   * [Claude Code로 문서 스캔 앱 만들어봤습니다 (이제 정말 코드를 안 봐도 되네요) - YouTube](https://www.youtube.com/watch?v=rJ6Y3p3yflc)
   * [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개) - YouTube](https://www.youtube.com/watch?v=3lMjX5Gq1zE)
   * [Claude Code Agent Teams: One AI Isn't Enough Anymore | 조대협](https://medium.com/@terrycho/claude-code-agent-teams-one-ai-isnt-enough-anymore-7022f70076a6)
+  * [Collaborating with agents teams in Claude Code | Heeki Park](https://heeki.medium.com/collaborating-with-agents-teams-in-claude-code-f64a465f3c11)
+    * Claude Code agent teams로 PM/엔지니어링/테스팅 단계를 병렬화. git worktree+tmux로 의존성·터미널 관리. 큰 조직의 독립 기능에는 가속 효과, 단순 기능 요청에는 후속 반복 정제 부담 — 병렬화 가능성 ≠ 항상 적용해야 함
   * [Claude Code로 1시간 만에 책 한 권을 만들기 | Facebook](https://www.facebook.com/reel/2074282333352953)
     * /harness로 리서처·아키텍트·챕터 작가·에디터·코드 전문가 에이전트 팀 구성. 4명 병렬 조사 → 5파트 17챕터+부록 설계 → 138페이지 집필 → Gemini 인포그래픽 → PDF 자동 조판 → GitHub Pages 웹 뷰어 배포까지 1시간
   * [Harness Engineering: How to Supervise AI Agents](https://decision.substack.com/p/harness-engineering-how-to-supervise)
@@ -4484,6 +4496,9 @@ Artificial Intelligence
   * [learn-claude-code: Bash is all you need — nano claude code-like agent harness, built from 0 to 1](https://github.com/shareAI-lab/learn-claude-code)
     * [learn.shareai.run](https://learn.shareai.run/)
   * [marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering](https://github.com/coreyhaines31/marketingskills)
+  * [mbo-skill: Claude Code skill implementing Management by Objectives methodology](https://github.com/SUNWOONGKYU/mbo-skill)
+    * [선웅규 - MBO(Management By Objective) 방법을 오늘부터 본격적으로 적용해서 | Facebook](https://www.facebook.com/tlc500/posts/pfbid0sZQSmBXPnwyUcU772YNfkKgBg5pDDyfcCNQH2rBRdnf8YgJ5KDsTq9UwCLBHpdcjl)
+    * MBO(목표관리) 방법론 Claude Code 스킬. AS-IS/TO-BE 비교로 측정 가능한 목표 정의→PO 승인→자율 실행→공식 결과 보고. KPI 기반 정량 평가, 상업적 품질 기준, 미달성 사유 문서화 강제
   * [meridian: Claude Code plugin for persistent project context and session continuity](https://github.com/markmdev/meridian)
     * 장시간 개발 작업의 세션 연속성 강화. 세션 시작/compact 시 프로젝트 컨텍스트 자동 재주입, 지능형 문서 라우팅, 인스트럭션 강화, 품질 체크포인트, 세션 학습, 워크트리 격리. 중대형 레포 멀티데이 작업용
   * [oh-my-claudecode | Multi-agent Orchestration for Claude Code](https://yeachan-heo.github.io/oh-my-claudecode-website/)
@@ -4503,17 +4518,19 @@ Artificial Intelligence
       * 소크라틱 인터뷰로 숨겨진 가정 노출, 코딩 전 명세 확립, 3단계 자동 평가. 수학적 게이트(모호성 ≤0.2, 온톨로지 수렴 ≥0.95). Claude Code/Codex CLI/OpenCode/Hermes 지원. MCP Mesh 수평 조율, 일회용 메모리로 컨텍스트 고갈 해결
     * [Ouroboros가 새로운 modelling and simulation benchmark에서 97점으로 Claude Plan Mode보다 높은 점수 1위 | JAEGYU LEE](https://www.linkedin.com/posts/q00_ouroboros%EA%B0%80-%EC%83%88%EB%A1%9C%EC%9A%B4-modelling-and-simulation-benchmark%EC%97%90%EC%84%9C-ugcPost-7456014012321951744-4tzx)
       * Simulation Bench: SimPy 기반 discrete-event 시뮬레이션 생성(mine haulage, topology 기반 routing, stochastic replication, bottleneck 분석 등) 평가에서 97점 1위. MCP 실패 복구까지 완료
+  * [pixel-agents: Pixel office](https://github.com/pablodelucca/pixel-agents)
+    * [Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents | GeekNews](https://news.hada.io/topic?id=26921)
+    * Claude Code 터미널별 AI 에이전트를 가상 사무실의 픽셀 아트 캐릭터로 시각화하는 VS Code 확장. 실시간 활동 추적(타이핑/읽기/대기), 사무실 커스터마이징, 음성 알림 지원
   * [planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition](https://github.com/OthmanAdi/planning-with-files)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결하기 - AI Sparkup](https://aisparkup.com/posts/8340)
     * [Planning with Files: Manus 방식으로 AI 에이전트 컨텍스트 문제 해결 | GeekNews](https://news.hada.io/topic?id=25841)
   * [playwright-skill: Claude Skill for writing and executing Playwright browser automation](https://github.com/lackeyjb/playwright-skill)
-  * [pixel-agents: Pixel office](https://github.com/pablodelucca/pixel-agents)
-    * [Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents | GeekNews](https://news.hada.io/topic?id=26921)
-    * Claude Code 터미널별 AI 에이전트를 가상 사무실의 픽셀 아트 캐릭터로 시각화하는 VS Code 확장. 실시간 활동 추적(타이핑/읽기/대기), 사무실 커스터마이징, 음성 알림 지원
   * [plugins-for-claude-natives: Claude Code plugins for power users](https://github.com/team-attention/plugins-for-claude-natives/)
     * [클로드코드가 객관식으로 질문하게 하는 Skills를 사용해보세요. 'clarify' 한 마디면 3단계 질문을 해주고, 나는 엔터만 쳐서 모호함을 없앨 수 있습니다. 클로드코드의 성능을 뽑아내는 확실한 방법은 요구사항을 명확하게 만드는 것입니다. "로그인 기능 만들어줘"라고 하면 클로드가 알아서 만들어주긴 합니다. 그런데 결과물을 보면 내가 원했던 게… | 정구봉 Goobong Jeong | 12 comments](https://www.linkedin.com/posts/gb-jeong_%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B0%9D%EA%B4%80%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B2%8C-%ED%95%98%EB%8A%94-skills%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-clarify-ugcPost-7413240611715067905-uwEw)
     * [Claude Code로 카카오톡 메시지를 읽고 쓸 수 있는 플러그인을 만들었습니다. 1. 맥락을 파악하고 허락을 맡습니다. 무턱대로 메시지를 보내는게 아니라 이전 메시지를 읽고 적절한 메시지로 만듭니다. 그리고선 바로 보내는게 아니라 반드시 ask user question 으로 유저에게 반드시 메시지 내용을 보여주고 허락을 받습니다. 2… | 정구봉 Goobong Jeong | 19 comments](https://www.linkedin.com/posts/gb-jeong_claude-code%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7418700836995899410-m9fH)
     * [/clarify 스킬을 업데이트했습니다. metamedium, unknwon라는 프레임워크를 기반으로 총 3가지 스킬로 만들어두었어요. 기존 스킬은 이제 vague 라는 이름으로 부릅니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_github-team-attentionplugins-for-claude-natives-activity-7426767193155231744-NY5Q)
+  * [pm-claude-skills: PM Claude Skills — 114 Skills for Every Profession](https://github.com/mohitagw15856/pm-claude-skills)
+    * 16개 직군(PM, 엔지니어링, CS, 마케팅, 디자인, 법무, 재무, HR, 영업, 운영, 리서치 등) 114개 스킬 + 4개 에이전트 템플릿(스프린트 플래닝·디스커버리·이해관계자 커뮤니케이션·제품 출시). 주당 8-10시간 절감 표방. "PM = Professional"로 정의, 16부 Medium 시리즈 문서
   * [PRPs-agentic-eng: Product Requirement Prompts for Claude Code](https://github.com/Wirasm/PRPs-agentic-eng)
     * 제품 요구사항, 코드베이스 컨텍스트, 검증 워크플로우를 결합하여 AI 에이전트가 한 번에 프로덕션급 소프트웨어 전달
   * [purplemux — A web-native terminal multiplexer for Claude Code](https://subicura.com/purplemux/)
