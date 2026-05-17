@@ -1413,6 +1413,7 @@ Artificial Intelligence
 * [Mastering Large Language Models | JetBrains Academy](https://academy.jetbrains.com/course/28816)
   * 125시간 LLM 고급 코스. NLP 기초(토큰화·임베딩)부터 파인튜닝·RAG·LoRA·PEFT까지. Transformer, 벡터 DB 기반 LLM 앱. JetBrains IDE 프로젝트 기반, 무료, Python 3.12
 * [ai-agents-for-beginners: 10 Lessons to Get Started Building with AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+  * [한국어 번역본 (translations/ko)](https://github.com/microsoft/ai-agents-for-beginners/tree/main/translations/ko)
 * [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
   * [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   * 20단계 260+ 레슨 ~290시간 종합 AI 교육. 수학 기초→ML→DL→NLP→Vision→Transformer→LLM→에이전트. Python/TypeScript/Rust/Julia 멀티언어, Claude Code 스킬로 대화형 평가, 모든 레슨에서 재사용 가능 아티팩트(프롬프트·스킬·에이전트·MCP 서버) 생산
