@@ -992,6 +992,9 @@ Artificial Intelligence
   * ["AI가 스스로 협력하는 법을 배우기 시작했다!" 프린스턴, 스탠퍼드의 충격적 논문 - LCMAS | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-slsstwswktxu-activity-7401742864352768002-_-HE)
 * [LangGraph Multi-Agent Communication System Design](https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/)
   * LangGraph로 엔터프라이즈급 멀티 에이전트 시스템 구축. 구조화된 메시징 인프라, ACP 로깅, 영구 공유 상태 아키텍처 설계
+* [LAP — Agent-Native API Specs for AI Agents](https://lap.sh/)
+  * [LAP: Lean API Platform — agent-native API spec format compiler](https://github.com/Lap-Platform/LAP)
+  * OpenAPI/Swagger/Postman/AsyncAPI/GraphQL/Protobuf을 에이전트 최적화 포맷으로 컴파일. API 호출 정확도 39.9%→86%, 토큰 88% 절감. 1,370+ 사전 컴파일된 API 레지스트리(Stripe/GitHub/Slack 등). 인증·인텐트 라우팅·실행 플레이북 자동 생성. Claude Code/Cursor/Codex/OpenClaw 통합. Apache 2.0
 * [LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.](https://github.com/wxai-space/LightAgent)
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
