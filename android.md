@@ -543,6 +543,8 @@ Android
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
 * [Google Developers Korea Blog: Baseline Profile로 앱 성능을 개선해보세요](https://developers-kr.googleblog.com/2022/03/improving-app-performance-with-baseline.html)
 * [PIT4ADB: 파파고 이미지 번역을 ADB로 구현](https://github.com/kdrkdrkdr/PIT4ADB)
+* [playtranslate: A real-time game translation Android app for language learners and players](https://github.com/dominostars/playtranslate)
+  * 21개 게임 언어·59개 사용자 언어 지원. 원탭 번역, 자동 번역 모드(대화 변경 자동 인식), 떠다니는 사전 렌즈, 후리가나/병음 위 표시, 핫키 홀드 미리보기, 듀얼 디스플레이, 영역 크롭, AnkiDroid 익스포트. 오프라인 OCR/번역, 온디바이스 AI 옵션. Kotlin, GPL-3.0
 * [rawdrawandroid: Build android apps without any java, entirely in C and Make](https://github.com/cnlohr/rawdrawandroid)
   * [Rawdrawandroid – Java 없이 C와 Make로 안드로이드 앱 개발하기 | GeekNews](https://news.hada.io/topic?id=16898)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
