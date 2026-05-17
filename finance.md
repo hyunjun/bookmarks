@@ -362,6 +362,7 @@ Finance
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
+  * [Vibe-Trading Wiki — Finance Research Agent](https://vibetrading.wiki/)
   * [Vibe-Trading - AI 다중 에이전트 트레이딩 전략 플랫폼 | GeekNews](https://news.hada.io/topic?id=29055)
   * [자연어로 만드는 퀀트 전략 자동화 플랫폼, Vibe-Trading 기술 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3061)
   * 자연어→실행 가능 트레이딩 전략 변환. 68개 금융 스킬, 29개 에이전트 스웜 팀(투자위원회·트레이딩 데스크·리서치). A주/홍콩/미국/크립토/선물 크로스마켓 백테스팅, TradingView Pine Script 내보내기, MCP 플러그인
