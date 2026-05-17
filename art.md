@@ -179,6 +179,7 @@ Art
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [어쿠스틱 기타 연주로 듣는 마이클잭슨의 'Beat it'(동영상)](http://www.huffingtonpost.kr/2015/06/24/story_n_7652738.html)
 * [펜타토닉스가 마이클 잭슨 음악의 진화를 6분 짜리 아카펠라로 들려주다](http://www.huffingtonpost.kr/2015/06/24/story_n_7650578.html)
+* [한국에서 마잭이 비틀즈에 비해 덜 빨리는 이유 - 매니아 커뮤니티 Free-Talk](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=14544760)
 
 # Novel
 * [에픽 판타지의 역사 1 - 전근대 판타지](https://m.blog.naver.com/karsyutian/220829670066)
