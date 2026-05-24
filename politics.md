@@ -168,6 +168,8 @@ Politics
     * [올해도 주인공 빠진 5·18 기념식장, 학생·공무원으로 자리만 채웠다](http://www.huffingtonpost.kr/2015/05/18/story_n_7303090.html)
     * [임을 위한 행진곡](http://newstapa.org/25941)
     * [5·18 헬기사격 '총탄 흔적' 왜 36년만에 발견됐나](http://v.media.daum.net/v/20161220114823017)
+    * [심용환 - 탱크데이? 책상에 탁? 신세계 '5/18 Tank Day' 마케팅 비판과 뉴라이트 인식의 역사 | Facebook](https://www.facebook.com/yonghwan.shim/posts/pfbid02dmYygGRZrsfX1VzBC3nGGJJz114ytzT9AUXykTZxWkfpSrZ8zDH4kJx4FEtjn49ml)
+      * 신세계 '518 Tank Day' 텀블러 마케팅 사건. 1994년 월간조선 조갑제부터 시작된 뉴라이트 건국사관(이승만 재평가→박정희 띄우기)의 흐름 추적. 그러나 조갑제조차 5·18을 반공자유민주 수호투쟁으로 명시했음. 5·18 교과서적 인식은 김영삼 정권 역사바로세우기의 산물
   * 메르스
     * [메르스 관련 병원 실명 · 지도 정보 공개](http://newstapa.org/25904)
     * [한국은 전염병 대유행에 대처할 수 있는가](http://slownews.kr/41940)
