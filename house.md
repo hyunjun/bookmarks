@@ -126,6 +126,8 @@ House
 * [Top 6 Best Real Estate Apps of 2019](https://hackernoon.com/top-6-best-real-estate-apps-of-2019-b3303fdb7df5)
 * [부동산 법률방 맘에 드는 집 가계약금, 공인중개사에 맡겨도 되나요?](https://realestate.daum.net/news/detail/main/20190704062901080)
 * [양담소 집값 오르자 가계약 일방적 파기, 매도인의 배상금액은?](https://news.v.daum.net/v/20200914093423310)
+* [김태호 - 매도자 의무 불이행으로 매매 계약이 해제될 때 중개수수료 지급 의무 분석 | Facebook](https://www.facebook.com/tae.kim.7965/posts/pfbid0Qr3Zq3rfaC4Ts1a9RXwDwZvk83RuXox2qJi9EmvwhoB3C6xgFUxJwjp5QkmxQ6MFl)
+  * 매도자가 명도 책임을 졌으나 이행하지 못해 계약이 해제된 경우 중개수수료 전액 지급 판결 분석. 한국 사회의 계약 경시 풍조 비판—판사가 임차료 미지급 명도소송에서 임대인에게 "정말 급하시냐", "여유 있으시냐" 물으며 강제 조정 시도하는 태도가 일반인에게 영향. 대출 거절로 매수자가 해제하는 경우도 중개사가 대출에 깊이 관여하지 않는 한 수수료 지급. 중개사가 소송까지 가는 상황은 보통 심각하게 악화된 경우. 댓글: 1억 청구가 실무에선 3000-5000만으로 조정됨
 * ["치매 할머니는 안 돼"…월세 계약 취소를 요구하는 집주인 중·꺾·마+: 중년 꺾이지 않는 마음](https://v.daum.net/v/20250908043306332)
 * [**모르면 쪽팔리는 중요한 부동산 기본상식 | 용도지역확인 및 관련사이트**](https://www.youtube.com/watch?v=hCVn6Cilz1Q)
 * [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
