@@ -1150,6 +1150,9 @@ Artificial Intelligence
     * 거대 모델 하나에 의존하는 대신, 작은 지휘자가 여러 도구를 조율하는 발상의 전환
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
   * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
+* [WorldSeed Demo - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally](https://worldseed.morphmind.ai/demo)
+  * [WorldSeed: A multi-agent world engine where AI agents live, talk, compete, ally](https://github.com/AIScientists-Dev/WorldSeed)
+  * YAML 기반 시뮬레이션 월드 엔진. 워크플로 스크립팅 대신 역할·규칙·사적 정보·행동·결과를 정의하면 에이전트들이 상호작용하며 emergence 발생("rules + different agents + consequences -> emergence"). 틱 루프—각 틱마다 에이전트가 필터된 슬라이스 인지·행동 제안·엔진 해석. 예측 가능 행동은 YAML 룰 엔진(DSL), 불확실 행동은 LLM "Dungeon Master"가 구조화 효과 반환. 비대칭 인지(같은 방 다른 시각). LiteLLM(OpenAI/Anthropic/Ollama). 자율 연구소·AI 도구 빌더 경쟁·"AI Layoffs" 오피스 드라마·찻집 첩보 시나리오 예시. MIT
 * [zerobox: Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime](https://github.com/afshinm/zerobox)
   * [Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박스 | GeekNews](https://news.hada.io/topic?id=28620)
   * Codex 샌드박스 런타임을 독립 도구로 추출. deny-by-default, AI 생성 코드 실행 시 파일·네트워크·자격증명 차단
@@ -1214,6 +1217,9 @@ Artificial Intelligence
   * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링](https://www.stdy.blog/korean-summary-effective-context-engineering-for-ai-agents/)
     * [요약 번역 AI 에이전트를 위한 효과적 컨텍스트 엔지니어링 | 배휘동](https://www.linkedin.com/posts/hwidongbae_%EC%9A%94%EC%95%BD-%EB%B2%88%EC%97%AD-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-activity-7381007159620386816-dB6t)
 * [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI | Towards Data Science](https://towardsdatascience.com/beyond-rag/)
+* [Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits | VentureBeat](https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits)
+  * [에이전트 AI 시대, RAG를 넘어 '컨텍스트 아키텍처'로 가는 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3109)
+  * RAG는 인간 쿼리 1회용으로 설계됐지만 에이전트는 태스크당 수십~수백 요청·세션 연속·실시간 데이터·접근제어 필요. 진짜 병목은 모델이 아닌 "데이터가 흩어져 있고, 오래됐으며, 기계가 쓰기 어렵게 구조화돼 있다는 점". Redis Iris(RDI CDC 동기화·Context Retriever·Agent Memory·Redis Flex 99% SSD/1% RAM·LangCache 시맨틱 캐싱)는 Pinecone/Oracle과 달리 기존 운영 상태를 반영·캐시. Mangoes.ai 사례(시간 단위 그룹 치료 세션). 프리로드→런타임 액세스, 검색→시맨틱 인터페이스, 1샷→영구 메모리로 전환
 * [Context Engineering for Agents. TL;DR | by Kushal Banda | Towards AI](https://pub.towardsai.net/context-engineering-for-agents-e9585a8e60ad)
   * Context engineering은 AI 에이전트가 진행하는 각 단계에서 필요한 정보를 적절히 선택하여 문맥 창에 채우는 기술
   * 에이전트의 정확도와 효율성을 높이기 위한 핵심 기법
@@ -3101,6 +3107,9 @@ Artificial Intelligence
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
 * [deep-eye: AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
   * OpenAI/Grok/OLLAMA/Claude 멀티 AI 프로바이더 통합. 자동 버그 헌팅, 지능형 페이로드 생성, 프로페셔널 리포팅
+* [DeepZero - Automated Vulnerability Research](https://blog.ahmadz.ai/DeepZero/)
+  * [DeepZero: Automated vulnerability research framework analyzing Windows kernel drivers for exploitable IOCTLs using AI agents](https://github.com/416rehman/DeepZero)
+  * Windows 커널 드라이버 대량 분석으로 제로데이 헌팅. YAML 파이프라인(ingestion·필터링·변환·LLM 평가), Ghidra 디컴파일+Semgrep 정적+LiteLLM, BYOVD(Bring Your Own Vulnerable Driver) 연구 + loldrivers.io 코퍼스 내장. ThreadPoolExecutor 병렬, on-disk 상태 영속 재개, Jinja2 프롬프트 템플릿. MIT, 465 stars
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
@@ -3848,6 +3857,8 @@ Artificial Intelligence
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
       * [mcp-builder: MCP builder skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder)
     * [book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work](https://github.com/virgiliojr94/book-to-skill)
+      * [심성재 - 책을 다 읽고 몇 달 뒤 내용을 잊는 문제: book-to-skill로 책 속 프레임워크를 손에 두기 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid02UhpFj6QiNEbo8JQvY8T1VX2TisGMnLJwpn5MCWugpkqyymmkcwUVVPxEXRDSF6GGl)
+        * OKR·5 Whys·Cialdini 6원칙·시스템 다이내믹스 같은 명명된 프레임워크가 있는 책은 기억에 남지만, 그래도 회의·작성·의사결정 순간에 책장에서 꺼내 챕터를 찾을 시간이 없는 게 문제. book-to-skill은 책을 "Claude가 평소엔 안 읽다가 해당 주제를 물을 때만 관련 챕터를 꺼내는" 구조로 변환—책상 위에서 손 안으로. 추천: DDIA·Clean Code·Influence·Thinking in Systems. 비추천: 한글 기술서(영문 패턴 챕터 감지)·OCR 없는 스캔 PDF·레퍼런스 매뉴얼·소설/에세이·프레임워크 없는 자기계발서. 600쪽 토큰 비용 큼, Claude Code 한정(claude.ai 미지원)
       * PDF/EPUB/DOCX/TXT/MD/RST/HTML/RTF/MOBI 입력→`~/.claude/skills/<slug>/`에 SKILL.md(~4K 토큰), chapters/(~1K 토큰/장 온디맨드), glossary.md, patterns.md, cheatsheet.md 생성. PDF는 technical(Docling, 표·코드 보존) vs text-heavy(pdftotext) 선택. RAG와 달리 컴파일 타임에 명명된 프레임워크 추출, NotebookLM과 달리 한 책에 깊이 몰입
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
