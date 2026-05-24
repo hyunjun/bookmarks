@@ -112,4 +112,7 @@ Psychology
   * [뇌과학적으로 게으름, 무기력 끊어내는 방법 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1438624)
   * [그녀는 웃을 때마다 나를 본다…왜 그럴까 의사소통의 심리학](https://v.daum.net/v/20251220084209441) 공동주의(共同注意, Joint-attention)
 * [밖에서는 참는데 집에 오면 폭발하는 이유 - YouTube](https://www.youtube.com/watch?v=HvKP6qlB4eA)
+* [골디락스 한성태의 과학이야기 - 경남도민일보](https://www.idomin.com/news/articleView.html?idxno=2006323)
+  * [김주완 - 사랑하는 사람에게 짜증을 더 많이 내는 과학적 이유 | Facebook](https://www.facebook.com/kimjoowan/posts/pfbid0XPstfATvHJjiyLEuG9FpRuosaJRdBjckuRrQojj8ZNANCJbP1xXjFNxMFVhFA1JLl)
+  * fMRI 연구: 가까운 사람을 떠올릴 때 자신을 처리하는 뇌 영역과 동일하게 반응(자아 확장)→ 기대 어긋날 때 내 몸이 안 따르는 것처럼 분노. 옥시토신 역설: 친밀감·신뢰 호르몬이 동시에 높은 기대치 부작용→ 도파민 보상 예측 오류로 편도체 짜증·전두엽 마비. 골디락스(딱 적당함) 개념을 경제(인플레 없는 안정 성장)·천문(생명 거주 가능 영역)·인간관계(따뜻함과 거리감 사이)에 적용
 * [whytree: A structured, generative technique for discovering personal purpose — AI-guided Why Tree sessions](https://github.com/yijisoo/whytree)
