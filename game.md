@@ -118,6 +118,8 @@ Game
 * ['Factorio'가 실리콘밸리를 매혹한 방법 | GeekNews](https://news.hada.io/topic?id=17449)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
+* [HACK THE PLANET - The Gibson Mainframe](https://hackthegibson.pro/)
+  * 1995년 영화 *Hackers* 오마주 브라우저 해킹 시뮬 게임. Zero Cool/Acid Burn/Cereal Killer 페르소나 선택, WASD로 3D 깁슨 노드 비행, 6분 타이머 안에 방화벽 우회·패스워드 챌린지·Gibson Decrypter AI 터미널 조작. CRT/ASCII 미학 + 리더보드
 * [Invaders: Space Invaders clone, written in Java](https://github.com/RobertoIA/Invaders)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
