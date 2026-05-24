@@ -452,6 +452,9 @@ Vision
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 * [Slic: Single line image classifier](https://github.com/seungson/Slic) 한 줄의 명령어로 필요한 이미지 데이터셋을 생성, 자동으로 다중 분류 모델 학습, 학습이 종료되면 즉시 api를 빌드 및 테스트 환경(localhost) 구축
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
+* [Spann3R: 3D Reconstruction with Spatial Memory 3DV 2025 Award Candidate](https://hengyiwang.github.io/projects/spanner)
+  * [spann3r: 3DV'25 Award Candidate 3D Reconstruction with Spatial Memory](https://github.com/HengyiWang/spann3r)
+  * 비캘리브 이미지 컬렉션에서 dense 3D 재구성, 카메라 파라미터 불필요. DUSt3R 기반에 외부 spatial memory 도입—DUSt3R의 페어와이즈 로컬 좌표 대신 글로벌 좌표 직접 예측, 최적화 기반 글로벌 정렬 제거. ViT 인코더+2개 디코더(reference·target), 메모리 read-write 루프. 실시간 처리, no test-time opt, no explicit camera pose. ScanNet/Co3D/Waymo 등 15개 데이터셋 학습. Nerfstudio·Gaussian Splatting 통합, Gradio 데모. UCL Hengyi Wang & Lourdes Agapito
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * StylEx [Google AI Blog: Introducing StylEx: A New Approach for Visual Explanation of Classifiers](https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
