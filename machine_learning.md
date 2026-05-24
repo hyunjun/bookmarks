@@ -1290,6 +1290,8 @@ Machine Learning
   * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
   * [Theodore Meynard - MLflow workshop | PyData London 2023 - YouTube](https://www.youtube.com/watch?v=n-QDuILXR60)
   * [Samsung Tech Blog - AI를 지탱하는 MLOps: Kubeflow와 MLflow를 활용한 AI 개발 시스템 구축](https://techblog.samsung.com/blog/article/70)
+  * [Building Trustworthy, High-Quality AI Agents with MLflow - YouTube (Databricks)](https://www.youtube.com/watch?v=NcHCkPMww7Q)
+    * MLflow tracing으로 에이전트 단계별 실행 분석/디버깅, 자동 LLM-as-a-Judge 평가로 전문가 피드백 스케일, prompt registry 버저닝/최적화, AI gateway 거버넌스(권한·레이트 리밋·input guard)로 비용·프라이버시 관리. 에이전트 라이프사이클 통합 플랫폼
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
