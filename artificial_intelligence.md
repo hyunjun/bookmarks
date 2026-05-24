@@ -2625,6 +2625,9 @@ Artificial Intelligence
 * [Seungwon Go - <일회용 애플리케이션 시대가 오고 있다> 인공지능이 개발의 거의 모든 단계를... | Facebook](https://www.facebook.com/seungwon.go.9/posts/pfbid0366n28eygDymzGnFf3Sm39Yevkkq9qaP6ttxvQct9PeNyuJaytrz7GP9dGZEFsmMxl)
   * 남은 과제는 “당장의 불편을 해결할 작은 앱을 오늘 만들 용기가 있는가”라는 질문에 스스로 ‘예’라고 답하는 일뿐
 * [AI 자본지출이 너무 커서 경제 통계까지 뒤흔들고 있음 | GeekNews](https://news.hada.io/topic?id=22064)
+* [Is AI Profitable Yet?](https://isaiprofitable.com/)
+  * [AI는 아직 수익성이 있는가? | GeekNews](https://news.hada.io/topic?id=29816)
+  * 2026.5 기준 누적 지출 1.4조 달러 vs 누적 매출 6,130억 달러—산업 전체 적자. 빅테크 모두 적자: Amazon -$291B/Alphabet -$262B/Microsoft -$235B/Meta -$227B. AI 연구소 모두 적자: OpenAI -$27B/Anthropic -$26.5B/xAI -$19.2B. 유일한 흑자는 Nvidia +$253B. 한계: SEC 공시·유출 자료 기반 비감사 추정, Google→Anthropic→Google Cloud 같은 순환 투자 중복 계산 가능. 댓글 논점—컴퓨트 크레딧·지분 교환 "셸 게임", 추론 마진은 양호·학습 비용 비중 감소 반론, AI 인프라 지출이 미국 주간고속도로 건설비 3배
 * sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
 * [How AI Companies Will Build Real Defensibility](https://www.nfx.com/post/ai-defensibility)
   * [AI 기업의 실질적인 방어력 구축 전략 | GeekNews](https://news.hada.io/topic?id=22126)
@@ -5002,9 +5005,21 @@ Artificial Intelligence
     * [cursor-talk-to-figma-mcp: Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
       * [이제 코딩 없이 피그마로 서비스를 만드는 시대에 돌입한다. cursor-talk-to-figma-mcp 설치 및 사용 방법 대공개 #figma #ai #mcp - YouTube](https://www.youtube.com/watch?v=RD_-4atY1Ac)
       * [피그마 MCP로 디자인 딸깍 가능? - YouTube](https://www.youtube.com/watch?v=H-yo6dzJ13g)
+* [amux - The Agent Control Plane: Open-source Claude Code agent multiplexer](https://amux.io/)
+  * [amux: Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux](https://github.com/mixpeek/amux)
+  * 다수 AI 코딩 에이전트(Claude Code) 동시 관리 컨트롤 플레인. tmux 통합, 영속 UUID 세션, 자가 치유 워치독(자동 컨텍스트 압축·고장 재시작·멈춘 프롬프트 처리), Fleet 레이트 리밋 자동 일시정지/재개, REST API 에이전트 간 위임. 웹 대시보드+iOS 앱+PWA, 칸반(SQLite)·노트·CRM·Mail.app·Playwright·슬래시 스킬·cron·@mention 메시징. 단일 Python 파일+tmux+python3, 의존성 없음. MIT+Commons Clause
+* [amux: Open-source TUI for easily running parallel coding agents](https://github.com/andyrewlee/amux)
+  * [amux | Terminal Trove](https://terminaltrove.com/amux/)
+  * Go 기반 TUI. Claude Code/Codex/Gemini/Amp/OpenCode/Droid 래퍼 없이 호환, 각 에이전트 독립 tmux 세션(3.2+) 격리, git worktree 임포트로 워크스페이스 우선 모델, diff·터미널 통합, 키보드 전용/마우스 모두. Linux/macOS, MIT
+* [Amux — Bidirectional LLM API Adapter](https://www.amux.ai/)
+  * [amux: Bidirectional LLM API adapter with IR pattern. Seamlessly convert between OpenAI, Anthropic, DeepSeek, and more](https://github.com/isboyjc/amux)
+  * TypeScript IR 패턴으로 LLM 프로바이더 API 양방향 변환—App→Inbound Adapter(IR 파싱)→Bridge(검증)→Outbound Adapter(타겟 포맷). 8개 공식 어댑터(OpenAI/Anthropic/DeepSeek/Moonshot/Zhipu/Qwen/Gemini/MiniMax), 코어 런타임 의존성 0, 스트리밍·툴/함수 콜링. 멀티 프로바이더 앱·마이그레이션·비용 라우팅·폴백·테스팅 용도. MIT
 * [dmux - Parallel agents with tmux and worktrees](https://dmux.ai/)
   * [dmux: A dev agent multiplexer for git worktrees and coding agents](https://github.com/standardagents/dmux)
   * 여러 AI 코딩 에이전트를 격리된 git worktree에서 병렬 관리. 브랜치·개발·머지를 동시에
+* [Herdr — one terminal for the whole herd](https://herdr.dev/)
+  * [Herdr - AI Agent 시대를 위한 tmux 스타일 터미널 워크스페이스 | GeekNews](https://news.hada.io/topic?id=29738)
+  * 터미널 네이티브 에이전트 런타임. tmux 스타일 세션 영속+에이전트 인지 멀티플렉서. 실제 PTY 패널(채팅 UI 래핑 X), 마우스 클릭 가능 TUI, 시맨틱 상태 추적("blocked/working/done"), CLI+NDJSON 소켓 API로 에이전트가 패널 생성·명령 실행·상태 대기 가능. 로컬/SSH/원격 thin client, 모바일 SSH 반응형. 단일 Rust 바이너리(Linux/macOS). Claude Code·Codex·OpenCode·Gemini CLI·Grok CLI 호환
 * [entroly — Self-Evolving Daemon](https://juyterman1000.github.io/entroly/)
   * [entroly: Compress 2M-token repos into a razor-sharp Principal Engineer context. 85-99% fewer tokens, 100% accuracy retention](https://github.com/juyterman1000/entroly)
   * Cursor/Claude Code/Opus/Codex/GPT/커스텀 프로바이더용. 2M 토큰 레포를 압축하여 정확도 유지
