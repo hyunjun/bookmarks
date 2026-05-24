@@ -3947,6 +3947,8 @@ NLP
     * [Qwen3.6-Max-Preview 공개 | GeekNews](https://news.hada.io/topic?id=28738)
     * [Qwen3.6 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.6)
     * 알리바바 Qwen3.6. SWE-bench Pro/Terminal-Bench 2.0 등 6개 코딩 벤치마크 최상위. SkillsBench +9.9, SuperGPQA +2.3. preserve_thinking으로 대화 간 추론 유지. Alibaba Cloud Model Studio 독점, OpenAI·Anthropic API 호환. 27B/35B-A3B 로컬 실행, 256K·201개 언어
+  * [Qwen3.7-Max 에이전트 중심 초대형 AI 모델의 기술적 특징과 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3126)
+    * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -4370,6 +4372,9 @@ NLP
   * [GraphRAG: Building a Smarter AI System (full walkthrough) | Thu Vu - YouTube](https://www.youtube.com/watch?v=JTVx6i6MzVw)
     * [thu-vu92/graphRAG](https://github.com/thu-vu92/graphRAG)
     * Microsoft의 GraphRAG 논문 기반 튜토리얼. 표준 RAG의 한계, GraphRAG란 무엇인지, GraphRAG vs 표준 RAG 사용 구분
+  * [Hybrid Graph RAG with LadybugDB: When Vectors Meet Graphs | Volodymyr Pavlyshyn](https://volodymyrpavlyshyn.medium.com/hybrid-graph-rag-with-ladybugdb-when-vectors-meet-graphs-aa7ddec45632)
+    * [Hybrid Graph RAG와 LadybugDB로 살펴보는 벡터와 그래프의 결합 | digitalbourgeois](https://digitalbourgeois.tistory.com/3121)
+    * 평면적 vector RAG의 multi-hop 추론 한계를 그래프 traversal로 극복. LadybugDB(Kùzu 엔진 기반 임베디드 property graph DB, 단일 `.lbug` 파일, MIT)에 4개 검색 통합: HNSW vector + Cypher 그래프 + 그래프 알고리즘(PageRank·Louvain·연결 컴포넌트) + BM25. 5단계 파이프라인—Semantic Entry(시드 노드)→Structural Expansion(Cypher traversal)→Importance Ranking(PageRank)→Community Scoping(Louvain)→RRF(k=60) 융합. 500 기술 문서 벤치: vector-only 대비 컨텍스트 정확도 +21%, 완성도 +30%, multi-hop +109%, 글로벌 질의 +195%. 50문서 미만·단순 사실·100ms 미만 레이턴시는 vector-only 권장
   * [code-graph-rag: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs](https://github.com/vitali87/code-graph-rag)
     * [A graph-based RAG over code solution!](https://www.linkedin.com/feed/update/urn:li:activity:7372849079128805376/)
   * [FalkorDB Graph Database with GraphRAG for AI/ML and GenAI](https://www.falkordb.com/)
