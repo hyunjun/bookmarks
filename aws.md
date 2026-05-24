@@ -352,6 +352,8 @@ AWS
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
 * [Terraform, GitHub Actions, AWS Proton을 사용하여 IaC 및 CI/CD 파이프라인 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scaling-iac-and-ci-cd-pipelines-with-terraform-github-actions-and-aws-proton/)
   * [aws-proton-sample-services: Sample application code for AWS Proton](https://github.com/aws-samples/aws-proton-sample-services)
+* [How to Configure GitHub Actions OIDC with AWS Easy Tutorial | DevOpsCube](https://devopscube.com/github-actions-oidc-aws/)
+  * GitHub Actions에서 AWS 자격 증명을 GitHub Secrets에 저장하지 않고 OIDC + STS로 단기 자격증명 발급받는 방법. IAM 역할 신뢰 정책 구성, "credentials don't exist until needed and expire shortly after"의 zero standing permissions 모델. self-hosted/GitHub-hosted 러너 모두 지원
 * [AWS EC2, Route53부터 Nginx, PM2 무중단 배포까지](https://blog.naver.com/gi_balja/223037996328)
 * [AWS 에서 Amazon Linux Nginx TCP Stream Proxy 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2024/04/21/aws-%EC%97%90%EC%84%9C-amazon-linux-nginx-tcp-stream-proxy-%EC%84%A4%EC%A0%95/)
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
