@@ -450,6 +450,8 @@ Hardware
   * [bee write back Build Guide - YouTube](https://www.youtube.com/watch?v=JutsTp7yeNU)
   * 3D 프린팅 케이스+Raspberry Pi 기반 저널링 디바이스. 터미널/Claude 채팅/저널링 3가지 모드, ~$200 제작 비용. CAD(STEP/STL) 오픈소스
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
+* [boostbox: Some notes on a cli terminal, upcycling an old super 8 film viewer](https://github.com/veebch/boostbox)
+  * Hanimex E300 Super 8 필름 뷰어를 CLI 터미널로 가역적 업사이클링. RPi 4+7" 4:3 LED+BM40 메카니컬 키보드(QMK 마우스 에뮬). tmux/neomutt(메일)/gcalcli(캘린더)/weechat(IRC)/Taskwarrior(GTD)/ytfzf+MPV(YouTube)/ncmpcpp(오디오)/FIM(이미지). RaspiOS 프레임버퍼, GPLv3
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
 * [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
