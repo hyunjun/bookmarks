@@ -4648,6 +4648,9 @@ Business
   * 기존 도구로 충분한 작업을 AI 에이전트로 복잡하게 포장하는 현상을 Juicero에 비유. "지금 뜨거운 건 AI가 아니라 AI 서사." 투자 전 제품 필요성 검증 우선
 * [founders-kit: Essential resources, tools, and playbooks for startup founders](https://github.com/avinash201199/founders-kit)
   * 스타트업 창업자를 위한 필수 리소스, 도구, 플레이북 모음. 학습 자료, 강좌, 디자인 도구, 펀드레이징 가이드, 커뮤니티 네트워크를 카테고리별 정리
+* [The founder's playbook: Building an AI-native startup | Claude Anthropic](https://claude.com/blog/the-founders-playbook)
+  * [고영혁 - Anthropic이 발표한 The Founder's Playbook 36슬라이드 정리 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid035Pny8qtfiovLUjzMSnD2vwdbau7CmBJGqPr8HW8V6MrXa2tcF323uhFc7ctkjBD4l)
+  * Anthropic이 2026.5.14 공개한 AI-native 스타트업 가이드. 4단계(Idea/MVP/Launch/Scale) 재구성, 단계별 목표·실패 모드·AI 활용 연습. Claude 표면 선택(Chat 빠른 작업/Cowork 리서치·문서/Code 소프트웨어). Idea: Problem-Solution Fit—Claude를 devil's advocate로. MVP: agentic 기술 부채·스코프 크리프 관리, CLAUDE.md 아키텍처 파일. Launch: 창업자 병목 회피, SOC 2/GDPR 준비. Scale: 도메인 지식 AI 컨텍스트·데이터 플라이휠·워크플로우 락인 해자. "병목은 만들 수 있는 것이 아니라 무엇을 만들지 선택하는 것". Ambral·Anything·Carta Healthcare·HumanLayer·Vulcan Technologies 사례
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
