@@ -2860,7 +2860,10 @@ App
     * [yaos](https://github.com/kavinsood/yaos)
     * Yjs CRDT 기반 실시간 동기화. 터미널 설정·DB 관리 불필요, Cloudflare Worker 셀프호스팅. 충돌 없는 머지, R2 첨부파일 동기화, 자동 스냅샷·복원, git/AI 에이전트 외부 편집 호환
 * [**prose.io**](http://prose.io) github
-* [quarkdown: Turing-complete Markdown variant with modern typesetting. HTML/PDF output, slides, papers, wiki](https://github.com/iamgio/quarkdown)
+* [Quarkdown | Markdown with superpowers](https://quarkdown.com/)
+  * [quarkdown: Turing-complete Markdown variant with modern typesetting. HTML/PDF output, slides, papers, wiki](https://github.com/iamgio/quarkdown)
+  * [Quarkdown 하나의 마크다운으로 책, 논문, 문서, 발표 자료까지 만드는 차세대 문서 작성 시스템 | digitalbourgeois](https://digitalbourgeois.tistory.com/3106)
+  * CommonMark/GFM 확장 마크업+컴파일러. `.doctype` 디렉티브로 paged(LaTeX/Typst 대안)·plain(Notion/Obsidian 대안)·docs(GitBook/Docusaurus/MkDocs/VitePress 대안)·slides(Beamer/Google Slides 대안) 출력. 함수·변수·조건·반복으로 튜링 완전, 표준 라이브러리(레이아웃·I/O·수학·제어 흐름), 라이브 프리뷰. Claude Code 스킬 내장. paged.js·reveal.js 기반 HTML 4종 + PDF + plain text. Kotlin ~75%, GPL-3.0 (CLI/LSP는 AGPL-3.0). Homebrew·Scoop. 15K+ stars, Giorgio Garofalo (iamgio)
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * [remark - markdown processor powered by plugins](https://remark.js.org/)
   * [remark-lint: plugins to check (lint) markdown code style](https://github.com/remarkjs/remark-lint)
