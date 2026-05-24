@@ -1023,6 +1023,10 @@ Vision
 * [Phi-4-reasoning-vision-15B: Microsoft's 15B multimodal reasoning model](https://github.com/microsoft/Phi-4-reasoning-vision-15B)
   * [Phi-4-Vision-Reasoning — training a multimodal reasoning model | Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
   * 이미지 캡셔닝, 문서 인식, 수학·과학 추론 특화. Azure Foundry 클라우드 또는 로컬 호스팅 가능
+* [Thinking-with-Visual-Primitives: DeepSeek 멀티모달 추론, 포인트/바운딩 박스를 추론 체인에 끼워 넣어 'Reference Gap' 해결](https://github.com/ailuntx/Thinking-with-Visual-Primitives)
+  * [DeepSeek's New AI Is A Game Changer - YouTube (Two Minute Papers)](https://www.youtube.com/watch?v=LpXhy2iiaQE)
+  * [Thinking_with_Visual_Primitives.pdf](https://huggingface.co/datasets/NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo/blob/main/Thinking_with_Visual_Primitives.pdf)
+  * 자연어만으로는 밀집 공간 레이아웃 지칭이 부정확해 추론 오류·환각 발생하는 'Reference Gap' 문제 해결. 포인트·바운딩 박스 같은 공간 마커를 'minimal units of thought'로 추론 체인에 직접 끼워 넣어 추론하면서 가리키기(Point-to-Reason Synergy). DeepSeek-V4-Flash 기반, KV 캐시 4 visual token→1 압축. 카운팅·공간 추론 벤치마크에서 프런티어 모델급. 원본 deepseek-ai 레포는 2026.5.22 비공개, 비공식 아카이브
 * [Video annotator: a framework for efficiently building video classifiers using vision-language models and active learning | by Netflix Technology Blog | Jun, 2024 | Netflix TechBlog](https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4)
 * [WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing](https://openreview.net/forum?id=tkE29O0jzF)
   * ["두더지 잡기 딜레마 해결" MIT·구글·WPI, AI 편향 줄이는 'WRING' 기술 공개 - AI타임스](https://www.aitimes.kr/news/articleView.html?idxno=39899)
