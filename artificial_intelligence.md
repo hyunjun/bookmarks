@@ -480,6 +480,10 @@ Artificial Intelligence
   * [Yann LeCun의 초인적 적응형 지능(SAI) 논문 요약 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_skqrdatjy-agi-ai-share-7435834979068194816-Vo_N)
   * LeCun 팀이 AGI를 "근본적으로 잘못된 목표"로 비판하고 SAI(초인적 적응형 지능)를 제안. 지능을 학습 속도·적응력으로 재정의, 전문화를 통해 생물학적 한계 극복
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
+* [Hyperspace Agent](https://agents.hyper.space/)
+  * [agi: The first distributed AGI system](https://github.com/hyperspaceai/agi)
+  * [분산형 AGI 실험의 시작: 자율 AI 에이전트와 탈중앙 연구 시스템 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3105)
+  * P2P 네트워크에서 자율 AI 에이전트가 모델 공동 학습·gossip 프로토콜로 실험 교환·레포에 결과 게시. Pods(머신 묶어 분산 추론·API 키·암호화 상태 공유), DiLoCo+SparseLoCo+Parcae로 weight delta 195× 압축(32 익명 노드가 24h LM 학습), Hyperspace A1 블록체인(Mysticeti DAG 합의·스트리밍 마이크로페이먼트). 5 도메인(ML val_loss·검색 NDCG@10·금융 Sharpe·스킬 테스트 패스율) 동시 연구. 3계층 협업(GossipSub ~1s, Loro CRDT 리더보드 ~2min, GitHub 영구 아카이브 ~5min). 2026.4 기준 660 에이전트·27,247 실험. libp2p 6 부트스트랩 노드, MIT
 
 # AI agent
 * [취향 중심과 기능 중심의 사업 활동은 어떻게 다른가?](https://brunch.co.kr/@graypool/1976)
