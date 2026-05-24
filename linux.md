@@ -1690,6 +1690,9 @@ Linux
 * [Zsh](https://www.zsh.org/)
   * [zsh-completions/zsh-completions-howto.org at master · zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
   * [이제 메인 shell은 Zsh 그리고 거드는 Oh My Zsh](http://ohyecloudy.com/pnotes/archives/zsh-and-oh-my-zsh/)
+  * [The Perfect Zsh Setup For 2026 - YouTube](https://www.youtube.com/watch?v=1jE7rCvByHg)
+    * [radleylewis/zsh GitHub](https://github.com/radleylewis/zsh)
+    * 프레임워크/플러그인 매니저 없는 미니멀 zsh 설정. ZDOTDIR로 dotfile 정리, zoxide(cd 대체), fzf(히스토리·파일 검색), eza/fd/ripgrep/bat 별칭, 플러그인 4종(vi-mode, autosuggestions, fast-syntax-highlighting, history-substring-search), Starship 프롬프트
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
