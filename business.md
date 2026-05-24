@@ -2445,6 +2445,8 @@ Business
   * 7단계: 행동하고 실패하면 보고
   * 8단계: 행동하라 No 보고
 * [핵심은 직원들을 믿고 맡겨야 하는가, 아니면 리더가 적극적으로 관여해야 하는가 하는 것이 아니다. 언제 위임하고, 언제 관여할 지를 리더가 어떻게 올바르게 판단할 수 있는가가 훨씬 더 중요](https://www.linkedin.com/posts/hyungsuk-kim-6020628a_%ED%95%B5%EC%8B%AC%EC%9D%80-%EC%A7%81%EC%9B%90%EB%93%A4%EC%9D%84-%EB%AF%BF%EA%B3%A0-%EB%A7%A1%EA%B2%A8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-%EC%95%84%EB%8B%88%EB%A9%B4-%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-activity-7237249940601630722-tkx1/)
+* [Hyungsuk Kim - 잘 들어주는 리더 vs 할 말을 하는 리더, 위임하는 리더 vs 직접 수행하는 리더 | LinkedIn](https://www.linkedin.com/posts/divercity_%EC%A2%85%EC%A2%85-%ED%9A%8C%EC%82%AC-%EB%B0%96%EC%97%90-%EC%82%AC%EB%9E%8C%EB%93%A4%EA%B3%BC-%EC%BB%A4%ED%94%BC%EC%B1%97%EC%9D%84-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%B5%9C%EA%B7%BC%EC%97%90-%ED%95%9C-%EB%B6%84%EC%9D%B4-%EB%82%B4%EA%B2%8C-%EB%AC%BC%EC%97%88%EB%8B%A4-share-7461936893736280064-HH3r)
+  * 어떤 타입의 리더가 되어야 하는지가 아니라 상황에 맞춰 올바른 판단을 내리는 리더가 되는 것이 핵심. A/B 선택 시 가상의 결과 예측→리뷰→복기. 자신과 팀원의 강점·약점, 일의 중요도·시급성에 따라 위임/관여 결정. 리더는 결국 성과로 평가받는다
 * [같이 의논하고 한 명이 결정한다](https://www.linkedin.com/posts/divercity_%EA%B0%99%EC%9D%B4-%EC%9D%98%EB%85%BC%ED%95%98%EA%B3%A0-%ED%95%9C-%EB%AA%85%EC%9D%B4-%EA%B2%B0%EC%A0%95%ED%95%9C%EB%8B%A4-1%EC%9C%84%EC%9E%84%EC%9D%B4%EB%9E%80-%EC%9C%84%EC%9E%84%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%B4-%EA%B2%B0%EC%A0%95%ED%95%A0-activity-7320185650522046466-yxks/)
   * 1. 위임이란?
   * 2. 각자가 스스로 결정하는 비율이 높아져야 한다
@@ -4623,6 +4625,8 @@ Business
 * [아무도 없던 플랫폼, 비핸스는 어떻게 '100명'으로 판을 깔고 4천만 유저를 모았을까요?](https://lcreator.beehiiv.com/p/behance)
 * [Startups and the Art of Worldbuilding - by Paul O'Brien](https://paulobrien.substack.com/p/startups-and-the-art-of-worldbuilding)
   * [🎥 할리우드가 가르쳐준 스타트업 성공법 - by won dae ro](https://substack.com/@wondaero393578/p-171195864)
+* [원대로 - 남의 돈으로는 절대 못 배웁니다 - 사업하며 자기 돈 천만 원 날려본 경험이 MBA보다 귀하다 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0nxcFVBTtLnsoBhb2dJczP3uJ8y24Gt2WZ6BaxzyU316WJtr6h4Z3dA95R8DyE9XRl)
+  * 대기업→싱가포르 창업한 분과의 대화 7섹션 정리: 1)자기 돈을 잃어봐야 진짜 학습—액셀러레이터·정부 지원금으론 안 됨 2)대기업 명함 떼면 김슬아 컬리 CEO 강남역 전단지 신화처럼 겸손해질 수밖에 3)도와달라 말 못 하는 사람들 4)막연한 "동남아 진출"보다 국가·세그먼트 특정성 5)AI 레버리지(2명+10 에이전트=20명 회사) 6)Content→Community→Commerce, 마케팅 노하우 자체가 제품 7)밤에 떠오르는 생각이 창업가 vs 투자자 적성을 가른다
 * [늦게 죽는 스타트업이 가장 나쁘다](https://www.linkedin.com/posts/%EC%97%B0%EC%A4%80%EC%98%81_%EB%8A%A6%EA%B2%8C-%EC%A3%BD%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EB%82%98%EC%81%98%EB%8B%A4-1-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90-%EB%B0%9B%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-activity-7362694876381003777-RF7k/)
   * [이코노미스트 - 실리콘밸리 스타트업은 왜 그렇게 빨리 실패하는가 실리콘밸리의 사람들](https://economist.co.kr/article/view/ecn202507290029)
     * 실리콘밸리의 성공 비결은 '실패를 두려워하지 않는 문화'가 아니라 '실패를 전략적으로 설계하는 시스템'
