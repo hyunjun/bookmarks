@@ -1070,6 +1070,8 @@ Artificial Intelligence
   * 프로덕션급 AI 에이전트 플랫폼. 이벤트 기반 멀티 에이전트 제어, 자동 상태 관리, 텍스트 그래디언트 프롬프트 최적화. JiuwenClaw는 계층형 메모리와 자기 진화 메커니즘으로 요구사항 변화에 적응하며 작업 완수
 * [OpenMemory - Long-term Memory for AI Agents](https://openmemory.cavira.app/)
   * [OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free](https://github.com/CaviraOSS/OpenMemory)
+* [OpenMonoAgent.ai: Local-first terminal coding agent with bundled llama.cpp, no token billing](https://github.com/StartupHakk/OpenMonoAgent.ai)
+  * 로컬 LLM 기반 터미널 코딩 에이전트(Docker 내장 llama.cpp). GPU 45 tok/s, CPU 20 tok/s, 데이터 로컬 보관. 에이전틱 루프(25턴, doom-loop 탐지), 20개 내장 도구, 5개 서브에이전트(Explore/Plan/Coder/Verify/General), Roslyn(C#)+LSP(TS/Python/Go/Rust), YAML 플레이북, 분산 추론, TUI/CLI. C#/.NET 10, AGPL-3.0
 * [open-multi-agent: TypeScript-native multi-agent orchestration framework that auto-decomposes goals into task DAGs](https://github.com/open-multi-agent/open-multi-agent)
   * [🚀 Open Multi-Agent로 멀티 에이전트 오케스트레이션 시작하기](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Open-Multi-Agent%EB%A1%9C-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
   * `runTeam(team, goal)` 한 번으로 목표를 태스크 DAG로 자동 분해. 10+ LLM 프로바이더(Anthropic/OpenAI/Azure/Gemini/Grok/DeepSeek/Ollama), 6개 내장 도구+Zod 커스텀 도구+MCP, 토큰 스트리밍, HTML 대시보드 추적. 런타임 의존성 3개뿐, Redis/Postgres 공유 메모리 지원
@@ -1129,6 +1131,8 @@ Artificial Intelligence
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
     * [🚀 Vercel Agent Skills: AI 코딩 에이전트 성능 끌어올리는 무료 스킬](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-Vercel-Agent-Skills-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EC%8A%A4%ED%82%AC)
+* [spagent: SPAgent — foundation agent for understanding, reasoning over, and operating within the physical and spatial world](https://github.com/zhangzaibin/spagent)
+  * "Think3D: Thinking with Space for Spatial Reasoning" 연구 기반. 모듈러 도구 시스템(런타임 추가/제거, 병렬 실행), 다중 이미지 분석, GPT/Qwen/VLLM 멀티 모델 지원. 외부 전문 도구—Depth-AnythingV2, SAM2, GroundingDINO, Qwen2.5-VL, Pi3·VGGT·MapAnything(3D), Orient-AnythingV2, Sana/Veo/Sora/WAN(생성). GRPO 강화학습(ms-swift)
 * [sqlite-memory: SQLite extension for AI agent memory](https://github.com/sqliteai/sqlite-memory)
   * 하이브리드 시맨틱 검색(벡터+FTS5), 마크다운 청킹, llama.cpp 로컬 임베딩, 오프라인 동기화
 * [Tiger_bot: Agentic Swarm AI Agent with persistent long-term memory, multi-provider LLM support, token management, self-learning, and Telegram bot integration](https://github.com/Sompote/Tiger_bot)
@@ -2623,6 +2627,9 @@ Artificial Intelligence
     * Each ChatGPT query consumes an estimated 2.9 Wh of electricity, nearly ten times more than a standard Google search(0.3 Wh)
 * [CEOs Are Proud Of Their Layoffs. Should They Be? – JOSH BERSIN](https://joshbersin.com/podcast/ceos-are-proud-of-their-layoffs-should-they-be/)
   * [CEO들은 해고를 자랑스럽게 생각해야할까? | 김덕중](https://www.linkedin.com/posts/duckjungkim_ceos-are-proud-of-their-layoffs-should-they-activity-7357264741553098753-XsnD)
+* [Zeb Evans (ClickUp CEO) - Today we reduced headcount by 22%. The 100X Organization](https://x.com/DJ_CURFEW/status/2057522382315929802)
+  * [ClickUp이 22퍼센트의 인원을 감원했습니다. CEO가 쓴 이 글은 500만회를 본 글인데... | Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_clickup%EC%9D%B4-22%ED%8D%BC%EC%84%BC%ED%8A%B8%EC%9D%98-%EC%9D%B8%EC%9B%90%EC%9D%84-%EA%B0%90%EC%9B%90%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ceo%EA%B0%80-%EC%93%B4-%EC%9D%B4-%EA%B8%80%EC%9D%80-500%EB%A7%8C%ED%9A%8C%EB%A5%BC-share-7463576741001736192-J7ck/)
+  * 비용 절감이 아닌 AI-native 재조립. 절감분은 남은 직원에게 재분배, AI로 outsized impact 내는 사람에게 연 $1M cash 밴드. 100x 조직의 4역할—10x 엔지니어(코드 작성자가 아닌 에이전트 오케스트레이터/리뷰어), 10x PM(production이 아닌 playground 코딩), Agent Manager(자기 일을 자동화한 사람이 시스템 오너), Front-liner(고객 미팅은 자동화 금지, 주변 업무만 자동화). "AI가 모두를 더 생산적으로 만든다"는 통념 부정—조직 단위에선 best engineers가 다른 사람 코드 리뷰에 갇히는 병목 발생. 모든 PR 500% 증가시키는 회사들의 'great reckoning of AI coding' 경고
 * [빅테크의 ‘대규모 해고’는 내 일이 될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3409/)
 * [지난달 여수에서 열린 지역 개발자 행사에서 발표했던 장표의 하나입니다. AI의 대두와 함께 왜 유독 개발자(정확히는 코더)를 AI로 대체하겠다고 이토록 억지를 부리는지 세가지 요인으로 분석한 내용입니다. 가장 큰 요인은 한동안 뜨거웠던 묻지마 채용의 반동입니다. 사실 몇개월 학원 다니면 고액 연봉을 받을 수 있다는 사실이 그리 합리적인 상황은… | 박성철](https://www.linkedin.com/posts/fupfin_%EC%A7%80%EB%82%9C%EB%8B%AC-%EC%97%AC%EC%88%98%EC%97%90%EC%84%9C-%EC%97%B4%EB%A6%B0-%EC%A7%80%EC%97%AD-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%96%89%EC%82%AC%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%96%88%EB%8D%98-%EC%9E%A5%ED%91%9C%EC%9D%98-%ED%95%98%EB%82%98%EC%9E%85%EB%8B%88%EB%8B%A4-ai%EC%9D%98-activity-7403747641849004032-N-Bh)
   * ![](https://media.licdn.com/dms/image/v2/D5622AQHeE-W0zThz8A/feedshare-shrink_800/B56Zr9lPxMJwAg-/0/1765190991137?e=2147483647&v=beta&t=9mGnkDdtTVmwHAVBrbSl5Dr7c2oX0cDdEk4cJXHsUwA)
@@ -3084,6 +3091,12 @@ Artificial Intelligence
   * 의료기관 직원이 AI 코딩 에이전트로 환자 관리 시스템 제작, 환자 데이터가 인터넷에 암호화 없이 노출
 * [Adversarial AI: Understanding the Threats to Modern AI Systems | The JetBrains Qodana Blog](https://blog.jetbrains.com/qodana/2026/04/adversarial-ai-threats/)
   * Adversarial AI 2분류(AI 무기화 vs AI 시스템 공격), 3공격면(알고리즘·생성AI 안전장치·공급망). 데이터 포이즈닝(Tay), 회피 공격(자율주행 정지 표지판), 모델 탈취(Alpaca vs Llama) 사례
+* [AI Model Security Ranking Top 100: In-Context Learning Security IICL | Adversa AI](https://adversa.ai/in-context-learning-security-top-100-ai-models-ranking-iicl/)
+  * [전종홍 - Involuntary In-Context Learning IICL 공격 분석 | Facebook](https://www.facebook.com/1biit/posts/pfbid0gEHqucQGWePKiZ19ruXPVmd77vXQKMhnERQJ2NUtKfYGHTZ5GZHPuqZdBf2W6ED6l)
+  * IICL(Involuntary In-Context Learning): few-shot 패턴 완성 태스크에 악성 지시를 숨겨 안전 정렬 우회. 17개 벤더 100 (모델, 추론모드) 조합·24,956개 프롬프트·10개 서브 기법 평가. Anthropic Claude 15개 전부 0% 우회, OpenAI 추론 모델·Gemini 3 Pro 0%, Mistral 전체 94~100% 우회로 최악. 추론 활성 9.2% vs 비추론 39.4%(약 4배 방어 효과)로 추론 자체가 IICL 방어 메커니즘 시사. 컨텍스트 윈도우/ICL 최적화가 강점이자 공격면이 되는 역설
+* [Cybersecurity AI CAI - A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs | Alias Robotics](https://aliasrobotics.github.io/cai/)
+  * [cai: Cybersecurity AI CAI, the framework for AI Security](https://github.com/aliasrobotics/cai)
+  * 300+ 모델(OpenAI/Anthropic/DeepSeek/Ollama, LiteLLM 기반), 정찰·익스플로잇·권한상승 내장 도구, 8 핵심(Agents/Tools/Handoffs/Patterns/Turns/Tracing/Guardrails/HITL). HackTheBox CTF·HackerOne·PortSwigger·Mercado Libre, Unitree G1·MiR-100 로봇·Ecoforest 히트펌프 OT 케이스. EU EIC RIS 공동 펀딩, 연구 무료/CAI PRO 상용
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
 * [deep-eye: AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
@@ -3834,6 +3847,8 @@ Artificial Intelligence
       * [강의 자료 대신 interactive하게 claude code를 배울 수 있는 SKILLS: AI Native Camp 1기 강의 자료 | 정구봉 Goobong Jeong | 30 comments](https://www.linkedin.com/posts/gb-jeong_github-ai-native-campcamp-1-ai-native-activity-7428551113521491968-9YA4)
     * [awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
       * [mcp-builder: MCP builder skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder)
+    * [book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work](https://github.com/virgiliojr94/book-to-skill)
+      * PDF/EPUB/DOCX/TXT/MD/RST/HTML/RTF/MOBI 입력→`~/.claude/skills/<slug>/`에 SKILL.md(~4K 토큰), chapters/(~1K 토큰/장 온디맨드), glossary.md, patterns.md, cheatsheet.md 생성. PDF는 technical(Docling, 표·코드 보존) vs text-heavy(pdftotext) 선택. RAG와 달리 컴파일 타임에 명명된 프레임워크 추출, NotebookLM과 달리 한 책에 깊이 몰입
     * [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/)
       * [Claude Agent Skills: A First Principles Deep Dive | Han-chung Lee](https://www.linkedin.com/posts/hanchunglee_claude-agent-skills-a-first-principles-deep-activity-7389651040716976130-Endi)
     * [claude-agent: It show how to develop an agent based on Claude Agent SDK and MCP](https://github.com/kyopark2014/claude-agent)
@@ -4190,6 +4205,7 @@ Artificial Intelligence
     * Opus 4.7 토큰 증가 대응. 캐싱 TTL 5분→1시간 설정, 모델 선택 튜닝으로 효율 개선
   * [GitHub Projects That Reduce Token Usage in Claude Code by 60-90% lucas_flatwhite on X (tweet 2046170220767670675)](https://x.com/lucas_flatwhite/status/2046170220767670675)
   * [Using Claude Code: Session Management & 1M Context trq212 on X (tweet 2044548257058328723)](https://x.com/trq212/status/2044548257058328723)
+  * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
@@ -4310,6 +4326,8 @@ Artificial Intelligence
   * [Claude Code Plugins & Agent Skills - Community Registry with CLI](https://claude-plugins.dev/)
     * claude code plugin 을 모아놓은 서비스. skills 가 있는 프로젝트만 따로 필터링 가능
   * [claude-code-for-power-users: From Autocomplete to AI Architect: Mastering Claude Code for Professional Development](https://github.com/automazeio/claude-code-for-power-users)
+  * [claude-code-prompts: Independently written prompt templates for AI coding agents, informed by studying Claude Code](https://github.com/repowise-dev/claude-code-prompts)
+    * 시스템 프롬프트(에이전트 정체성·안전 규칙·도구 라우팅), 11개 도구 프롬프트(셸/파일/grep/glob/웹/플랜 모드), 5개 서브에이전트(general/explorer/architect/verifier/docs), 메모리 4개, 코디네이터, 9개 패턴 분석, Cursor 스킬. `{{PLACEHOLDER}}` 치환 후 사용. MIT
   * [claude-code-proxy: Run Claude Code on OpenAI models](https://github.com/1rgs/claude-code-proxy)
     * Claude Code는 그대로 사용하고 싶은데
     * 1) OpenAI 및 Google 모델로 스위칭해서 복합적으로 사용하고 싶은 경우, Claude Code Proxy 같은 프로젝트를 활용 가능
@@ -4318,7 +4336,6 @@ Artificial Intelligence
       * cursor가 제공하는 Agent 기능, 다양한 모델로 스위치하는 기능과 더불어 인라인 코드 편집/생성이 가능한 영역은 cursor를 사용하는 충분한 이유
       * 특히 미디어를 이해해서 코드에 반영하는 능력 등도 함께 활용될 수 있으며, 주피터 노트북 작성에도 개인적으로는 탁월하다고 생각
       * 더불어 Claude Code가 가진 장점도 명확하므로, 이 둘을 하나의 IDE 환경에서 복합적으로 섞어쓰는 것이 생각보다 시너지 효과 존재
-  * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [Claude Code settings - Anthropic](https://docs.anthropic.com/en/docs/claude-code/settings)
   * [claude-code-telegram: A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence](https://github.com/RichardAtCT/claude-code-telegram)
   * [claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container](https://github.com/ykdojo/claude-code-tips)
@@ -4662,12 +4679,28 @@ Artificial Intelligence
   * 코드베이스 자동 분석으로 문서 맵 생성, AI 어시스턴트가 파일 탐색 없이 프로젝트 구조 파악. 대화당 수천 토큰 절약
 * [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
   * [Codex App Server README](https://github.com/openai/codex/blob/main/codex-rs/app-server/README.md)
+  * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
+  * [Introducing Codex | OpenAI](https://openai.com/index/introducing-codex/)
+  * [Agent Skills](https://developers.openai.com/codex/skills/)
+    * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
+    * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
+    * [awesome-codex-skills: A curated list of practical Codex skills for automating workflows](https://github.com/ComposioHQ/awesome-codex-skills)
+      * [Codex CLI에도 Skill이 생겼음 — ComposioHQ가 정리한 awesome 리스트 1,500스타](https://jkf87.github.io/awesome-codex-skills-composio-2026-04-26)
+      * 개발·생산성·커뮤니케이션·데이터·유틸리티 5개 카테고리 41개 스킬. Composio 통해 1000+ 앱(Slack, GitHub, Notion 등) 연동. 자동 설치 스크립트, 커스텀 스킬 템플릿 제공
+  * [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/)
+    * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
+    * [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다 - YouTube](https://www.youtube.com/watch?v=w7aKhWjtBXQ)
+  * [Introducing OpenAI Privacy Filter | OpenAI](https://openai.com/ko-KR/index/introducing-openai-privacy-filter/)
+  * [Codex security is now in research preview | OpenAI](https://openai.com/ko-KR/index/codex-security-now-in-research-preview/)
+  * [Using Goals in Codex - OpenAI Cookbook](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
+    * [Codex의 Goals를 활용하는 법 | GeekNews](https://news.hada.io/topic?id=29639)
+    * [Goal 기능은 인간을 위한 복지입니다 | stdy.blog](https://www.stdy.blog/goal-is-welfare-for-humans/)
+    * [Goal - Claude Docs](https://code.claude.com/docs/ko/goal)
+    * Goals는 Codex 스레드가 정의된 결과를 향해 여러 턴에 걸쳐 작업을 지속하도록 만드는 영속적 목표(persistent objective) 기능. 단일 프롬프트로 처리 어려운 프로파일링·패치·벤치마킹·플레이키 테스트 재현·근거 기반 감사에 적합. 결과·검증 수단·제약 정의로 사용. Claude Code도 동일 컨셉의 Goal 기능 제공
   * [How OpenAI Codex Works | ByteByteGo](https://blog.bytebytego.com/p/how-openai-codex-works)
   * [Codex 101 — OpenAI Codex Practical Guide for Real Work](https://swhan0329.github.io/codex-101/)
     * [Codex 101 | swhan0329](https://www.linkedin.com/posts/swhan0329_codex-ugcPost-7436225045300985856-0gTH)
     * 한국 실무자를 위한 OpenAI Codex 완전 가이드. CLI/앱/IDE 확장/웹 대시보드 활용법, GPT-5.4 프롬프팅, MCP 연동까지 실무 적용 순서
-  * [OpenAI Codex | OpenAI](https://openai.com/index/openai-codex/)
-  * [Introducing Codex | OpenAI](https://openai.com/index/introducing-codex/)
   * [OpenAI Codex CLI 전격 해부! 터미널에서 AI 코딩 에이전트가?! (o3, o4미니, GPT4.1 활용) - YouTube](https://www.youtube.com/watch?v=tN5EVoLMMuU)
   * [A research preview of Codex in ChatGPT - YouTube](https://www.youtube.com/watch?v=hhdpnbfH6NU)
     * [(한글자막) ChatGPT의 Codex에 대한 연구 미리보기 - YouTube](https://www.youtube.com/watch?v=JqSGtfWAVSY)
@@ -4677,21 +4710,10 @@ Artificial Intelligence
   * [소프트웨어 개발의 미래 - OpenAI Codex 소개 - YouTube](https://www.youtube.com/watch?v=ZyIjLz6mPm8)
   * [클로드 코드보다 좋아져버렸다는 Codex CLI - YouTube](https://www.youtube.com/watch?v=QPHzCpO67qY)
   * [Xcode용 AI 코딩 어시스턴트 Alex, OpenAI Codex에 합류 | GeekNews](https://news.hada.io/topic?id=22940)
-  * [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/)
-    * [GPT-5-Codex | GeekNews](https://news.hada.io/topic?id=23119)
-    * [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다 - YouTube](https://www.youtube.com/watch?v=w7aKhWjtBXQ)
   * [Codex CLI에서 MCP(Model Context Protocol)를 전역으로 적용하려면 사용자 홈 디렉터리(맥북 기준)에 전역 설정 파일을 만들어 MCP 서버를 등록](https://www.facebook.com/groups/1183007433518603/?multi_permalinks=1288709456281733&hoisted_section_header_type=recently_seen)
-  * [Agent Skills](https://developers.openai.com/codex/skills/)
-    * [Codex에 공식 도입된 Agent Skills 개념과 구조 한눈에 정리](https://digitalbourgeois.tistory.com/2485)
-    * [🤖 OpenAI Codex Skills로 AI 코딩 에이전트 기능 확장하기](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-OpenAI-Codex-Skills%EB%A1%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0)
-    * [awesome-codex-skills: A curated list of practical Codex skills for automating workflows](https://github.com/ComposioHQ/awesome-codex-skills)
-      * [Codex CLI에도 Skill이 생겼음 — ComposioHQ가 정리한 awesome 리스트 1,500스타](https://jkf87.github.io/awesome-codex-skills-composio-2026-04-26)
-      * 개발·생산성·커뮤니케이션·데이터·유틸리티 5개 카테고리 41개 스킬. Composio 통해 1000+ 앱(Slack, GitHub, Notion 등) 연동. 자동 설치 스크립트, 커스텀 스킬 템플릿 제공
   * [GPT-5-Codex Prompting Guide](https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide)
     * [GPT-5-Codex Prompting Guide | OpenAI Cookbook | 배휘동](https://www.linkedin.com/posts/hwidongbae_gpt-5-codex-prompting-guide-openai-cookbook-activity-7377270436189024256-jEDj)
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
-  * [Codex security is now in research preview | OpenAI](https://openai.com/ko-KR/index/codex-security-now-in-research-preview/)
-  * [Introducing OpenAI Privacy Filter | OpenAI](https://openai.com/ko-KR/index/introducing-openai-privacy-filter/)
   * [Codex 가 무거워지기 시작했다면 이 글을 한 번 보세요 (로그·세션 정리) | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EA%B0%80-%EB%AC%B4%EA%B1%B0%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%9D%B4-%EA%B8%80%EC%9D%84-%ED%95%9C-%EB%B2%88-%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%98%EC%9D%8C%EC%97%94-codex-ugcPost-7456882376711753729--xVe)
     * 8GB 로그·비활성 채팅 누적이 체감 속도 저하 원인. 정리 후 10배 빨라짐. 핵심: 채팅은 실행용, 기억은 handoff 문서. 8단계 최적화 + Codex 팀 Tibo의 skill 제공
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
@@ -5428,6 +5450,8 @@ Artificial Intelligence
 * [freebsd-brcmfmac: FreeBSD native WiFi driver for BCM4350 (MBP 2016) — in progress](https://github.com/narqo/freebsd-brcmfmac)
   * [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI built one for me - Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
   * [FreeBSD에는 내 오래된 MacBook용 Wi-Fi 드라이버가 없었다, 그래서 AI가 | GeekNews](https://news.hada.io/topic?id=26957)
+* [GEARS - The Spec Syntax That Makes AI Coding Actually Work | Σ* (slalph)](https://medium.com/sublang/generalized-ears-the-ai-ready-spec-syntax-11ba36a37165)
+  * EARS(Easy Approach to Requirements Syntax, Rolls-Royce 2009)의 AI-ready 확장. subject 일반화, 5개 패턴 단일 구문 통합, Where(static precondition)와 While(stateful precondition) 구분, Given-When-Then 테스트 구문 매핑. 동반 CLI `@sublang/spex`로 spec 디렉터리 스캐폴딩
 * [Kilo — All-in-one agentic engineering platform](https://kilo.ai/)
   * [kilocode](https://github.com/Kilo-Org/kilocode)
   * [Kilo CLI NVIDIA NIM으로 무료 AI 코딩 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Kilo-CLI-NVIDIA-NIM%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EB%A3%8C-AI-%EC%BD%94%EB%94%A9-Kimi-K25%EB%B6%80%ED%84%B0-GLM-47%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -5454,6 +5478,13 @@ Artificial Intelligence
   * [정진호 - 바이브코딩용 Spec 문서 생성기 : github Spec-kit 바이브코딩의 단점은 시작은 쉽지만... | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid0PbpiQrjABvJXddFBmr2MQbEVuZzYFhk19M8fdKzVtAx4DdCf7MSTxFFTnHAdygtcl)
   * [코드보다 스펙이 먼저: Spec-Driven Development가 바꿀 개발 흐름](https://digitalbourgeois.tistory.com/1925)
   * [The ONLY guide you'll need for GitHub Spec Kit - YouTube](https://www.youtube.com/watch?v=a9eR1xsfvHg)
+  * [speckit_test: Spec Kit v0.8.9 + Claude Code Opus 4.7로 USGS 3DEP 고도 데이터 Python 모듈 구축한 SDD 비판 케이스 스터디](https://github.com/alexcpn/speckit_test)
+    * SDD가 명세를 진실의 원천으로 삼는다는 전제와 좋은 설계가 반복 코딩에서 출현한다는 현실의 충돌 분석. 1,756 타일·230억 샘플·180GB 데이터셋 실험. clarify 단계에서 품질 정점 후 하락 관찰, "no new dependencies" 제약이 SQLite+R-tree 편향 유발(Zarr 텐서 스토어가 더 적합)
+    * 명세를 맹신하지 마라, 항상 코드로 검증하고 리뷰하며 설계를 다듬어라, 설계는 반복적으로 발전시켜라
+    * 엄격한 명세 -> 오류/누락 발생, 그대로 잘못된 코드가 생성
+    * 느슨한 명세 -> AI가 지맘대로 만들어 품질 불안정(계획과 결과 사이의 갭)
+    * 다만 엄격한 명세에서도 품질 불안정은 발생, 즉 SDD 자체에 품질 감소가 내재
+      * SDD는 prompting discipline은 개선하지만, clarify 이후 단계에서 agent가 scaffolding에 갇혀 잘못된 선택에 commit하는 품질 감소 발생
 * [Structured-Prompt-Driven Development SPDD | Martin Fowler](https://martinfowler.com/articles/structured-prompt-driven/)
   * [Structured Prompt-Driven Development SPDD | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_structured-prompt-driven-development-spdd-share-7456298777155637248-kvX5/)
   * Thoughtworks가 제안한 SPDD. 프롬프트를 버전화·리뷰 가능한 아티팩트로 취급. REASONS Canvas 7부(Requirements/Entities/Approach/Structure/Operations/Norms/Safeguards)로 LLM 생성 코드 경계 설정. 추상화 우선·의도 정렬·반복 리뷰 3가지 핵심 역량
