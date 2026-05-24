@@ -3513,6 +3513,11 @@ Artificial Intelligence
   * [Google, 스타트업을 위한 무료 마케팅 AI 도구 ‘Pomelli’ 공개](https://www.facebook.com/reel/705044685396665)
 * [https://proxy.convergence.ai](https://proxy.convergence.ai/)
   * [무료 AI 에이전트 사용법, AI에게 쇼핑부터 리뷰 분석까지 시키는 꿀팁 (Convergence AI Proxy 1.0) - YouTube](https://www.youtube.com/watch?v=U69M9ObsqGA)
+* [Qodo - AI Code Review: Deploy with confidence](https://www.qodo.ai/)
+  * 엔터프라이즈 review-first AI 코드 리뷰 플랫폼(코파일럿 아닌 거버넌스). PR 리뷰(GitHub/GitLab/Bitbucket/Azure DevOps), Qodo CLI, Context Engine(코드베이스+의존성+PR 히스토리 인덱싱), Rules System, IDE 통합(VS Code/JetBrains). 15+ 전문 리뷰 에이전트(버그·테스트 커버리지·문서·체인지로그), 멀티 모델(Anthropic/OpenAI/Gemini/NVIDIA), 멀티 레포 컨텍스트. Zero retention·SOC 2 Type II·온프레미스·싱글테넌트. NVIDIA·Intel·Walmart·Intuit·monday.com 사용. Code Review Bench F1 64.3%
+  * [생성형 AI로 테스트 커버리지를 높이는 자동화 도구, Qodo Cover 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3125)
+  * 4컴포넌트 파이프라인: Test Runner→Coverage Parser(생성 테스트가 실제 커버리지 증가 검증)→Prompt Builder(컨텍스트 수집)→AI Caller(LiteLLM, 100+ 모델). Python(pytest-cov)/Go(gocov)/Java(JaCoCo) 예시, Cobertura XML+JaCoCo 포맷. 커버리지 목표·max 반복 설정 가능. Record & Replay LLM 응답 캐싱(API 비용 절감), W&B 옵션, 레포 와이드 모드. **2025-06-15 유지보수 중단**, 5.4k stars/517 forks, AGPL-3.0
+  * [qodo-cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement](https://github.com/qodo-ai/qodo-cover)
 * [Qwen3 Coder: Agentic Coding Assistant in the World](https://qwen3lm.com/)
   * [Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
   * [Qwen3-Coder-Next: How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/qwen3-coder-next)
