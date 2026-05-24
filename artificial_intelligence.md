@@ -3745,6 +3745,10 @@ Artificial Intelligence
   * [IDE의 죽음인가, 진화인가: 에이전트 오케스트레이션 시대로 이동하는 개발 환경의 중심](https://digitalbourgeois.tistory.com/2918)
 * [AI 에이전트 코딩 도구를 사용하는 시대에도 여전히 프로그래밍 언어를 배워야할까? | Toby's Codex](https://codex.epril.com/ai)
   * AI 에이전트 시대에는 코딩보다 생성된 코드를 검증하고 제어하는 능력이 필수
+* [9Router - Unlimited FREE AI coding](https://9router.com/)
+  * [9router: Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers](https://github.com/decolua/9router)
+  * [9Router로 AI 코딩 비용과 토큰 낭비를 동시에 줄이는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3107)
+  * 로컬 라우터/프록시(기본 :20128, OpenAI 호환 API). 3-tier 자동 폴백: 구독(Claude Code/Codex/Copilot/Cursor) → 저가 API(GLM·MiniMax) → 무료(Kiro·OpenCode Free·Vertex AI). RTK Token Saver—git diff/grep/ls/tree/log 출력 압축으로 입력 토큰 20-40% 절감. 포맷 변환(OpenAI↔Claude↔Gemini↔Cursor↔Kiro↔Vertex↔Antigravity↔Ollama). OAuth 자동 갱신·다계정 라운드로빈, 커스텀 콤보(primary→backup→fallback). 12개 CLI(Claude Code/Codex/Cursor/Cline/Copilot/Antigravity/OpenCode/Continue/Droid/Roo/Kilo Code/OpenClaw)+40+ 프로바이더. Next.js 16+SQLite. 13.8k stars, MIT
 * [abtop: Like htop, but for AI coding agents](https://github.com/graykode/abtop)
   * Claude Code & Codex CLI 세션, 토큰, 컨텍스트 윈도우, 레이트 리밋, 포트 실시간 모니터링
 * [acpx: Headless CLI client for Agent Client Protocol (ACP)](https://github.com/openclaw/acpx)
@@ -4512,6 +4516,9 @@ Artificial Intelligence
     * [How to Make Claude Code Your AI Engineering Team - YouTube](https://www.youtube.com/watch?v=wkv2ifxPpF8)
       * [Bora Violet Lee - thin harness, fat skills | Facebook](https://www.facebook.com/share/1ETvsuQTM4/)
         * Ruby on Rails의 GitHub 스타 수를 훌쩍 넘긴 gstack(84만 스타). YC 수장 개리 탄이 직접 Y Combinator 채널에서 소개. thin harness + fat skills 철학
+    * [Garry Tan - The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required](https://x.com/garrytan/status/2054064931515855118)
+      * [AI 코딩 시대의 복잡성 래칫과 90% 테스트 커버리지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3123)
+      * 약 97만 줄 코드+665 테스트 파일을 15 에이전트 병렬 세션으로 작성한 경험. "복잡성 래칫"은 매 세션마다 테스트·문서·평가가 누적되어 코드 품질이 한 방향(전진)으로만 움직이는 구조. 70% 이하 커버리지 결함 제거율 65~75% vs 85~95% 구간 92~97% 비선형 품질 곡선. AI는 피로 없이 엣지 케이스 반복 작성 가능—과거 비용 문제로 포기했던 검증 수준 현실화. GBrain(17 테스트로 정확도 고정)·Superpowers(의사 터미널 테스트) 사례. 한계: DB 마이그레이션·보안·개인정보 같은 상태 파괴 오류는 여전히 치명적. AI 코딩의 진짜 가치는 "검증의 일상화"
   * [gyeol: AI 정체성을 위한 기억 아키텍처](https://github.com/inureyes/gyeol)
     * [신정규 | Facebook](https://www.facebook.com/jeongkyu.shin/posts/pfbid0xjiJ29889biTQweun68aL37Jci3fPQE5cEA6cDtnDdoGx78dGWtC5dy63MKdQPPil)
     * AI 정체성이 모델 가중치가 아닌 축적된 기억에서 나온다는 실험적 메모리 시스템. 에피소딕/시맨틱 메모리, 단계별 통합(일간/월간/연간). Claude Code/Gemini CLI/Codex 공통
