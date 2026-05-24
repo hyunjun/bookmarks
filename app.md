@@ -2588,6 +2588,9 @@ App
 * [KnotNet - 기록을 정리하고, 기억을 연결하다](https://knotnet.strux.pro/)
   * [노션의 한계를 넘은 진짜 기록 앱 - YouTube](https://www.youtube.com/watch?v=08zo3hgodiQ)
 * [Loglike - 생각날 때마다 바로, 타임라인 일기/메모 | GeekNews](https://news.hada.io/topic?id=23371)
+* [Memos — Open-Source Self-Hosted Notes](https://usememos.com/)
+  * [memos: A modern, open-source, self-hosted knowledge management and note-taking platform](https://github.com/usememos/memos)
+  * 마크다운 네이티브 셀프호스팅 타임라인 메모. 폴더·워크스페이스·제목 결정 없이 즉시 기록. 프라이빗 피드 형태. Docker로 Raspberry Pi/VPS/클라우드 배포, 태그·검색, MIT
 * [memotron.io](https://memotron.io/)
   * [Memotron - The Personal Knowledge Management (PKM) app - YouTube](https://www.youtube.com/watch?v=SeWdndc7y4A)
 * [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script](https://github.com/xwmx/nb)
@@ -3508,6 +3511,8 @@ App
 * [ClashMac - Native Proxy Experience Built for macOS](https://clashmac.app/)
   * [ClashMac](https://github.com/666OS/ClashMac)
   * SwiftUI 네이티브 macOS 프록시 앱. 듀얼 모드(System Proxy + TUN Enhanced), 실시간 트래픽 시각화, 연결 토폴로지 추적, 구독 관리. macOS 13.5+ 지원
+* [EasyTier-iOS: EasyTier in SwiftUI for iOS/macOS](https://github.com/EasyTier/EasyTier-iOS)
+  * 분산형 P2P VPN EasyTier(코어 레포 EasyTier/EasyTier)의 Apple 플랫폼 클라이언트. SwiftUI(95.6%)+Rust(3.7%), Network Extension 프레임워크 시스템 레벨 VPN 통합, Widget Extension. TestFlight 베타. GPLv3. **NOT ACTIVELY MAINTAINED**, 메인테이너 인계 모집 중
 * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
 * [MasterDnsVPN: Advanced DNS tunneling VPN that encapsulates TCP traffic inside DNS queries to bypass censorship](https://github.com/masterking32/MasterDnsVPN)
   * DNS 터널링 + 멀티 리졸버 라우팅 + 커스텀 경량 ARQ(오버헤드 5-7바이트, DNSTT 59바이트 대비). DNSTT 대비 ~9배 빠른 처리량. 로컬 SOCKS5/TCP 프록시, DNS 캐싱, XOR/ChaCha20/AES 암호화, 8가지 로드밸런싱 전략
