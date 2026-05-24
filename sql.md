@@ -629,6 +629,9 @@ SQL
 * [Replibyte - 개발DB를 실제 데이터로 채우는 도구 | GeekNews](https://news.hada.io/topic?id=6488)
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
+* [SchemaSpy - Database Documentation Built Easy](https://schemaspy.org/)
+  * [schemaspy: Database documentation built easy](https://github.com/schemaspy/schemaspy)
+  * Java 기반 단일 .jar 도구. 기존 DB 스키마에서 ER 다이어그램 포함 HTML 문서를 자동 생성. Docker Hub 배포, Graphviz 의존
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [SpacetimeDB](https://spacetimedb.com/)
