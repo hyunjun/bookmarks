@@ -120,6 +120,8 @@ Presentation
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
 * [Presentation Magazine - 2300 Free PowerPoint Templates and Backgrounds](https://www.presentationmagazine.com/)
+* [Presenton - Open-Source AI Presentation Generator and API](https://github.com/presenton)
+  * Gamma·Beautiful AI·Decktopus 대체 오픈소스 AI 프레젠테이션 생성 도구. 메인 레포 `presenton`(TypeScript, Apache-2.0). LLM 추상 라이브러리 `llmai`(OpenAI/Azure/Vertex/Anthropic/Gemini/DeepSeek/OpenRouter/Cerebras/Bedrock/LiteLLM 통합), JS·Python SDK 제공
 * [prezi](https://prezi.com/)
 * [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
 * [sizle - Bring your slide decks to life](https://sizle.io/)
