@@ -25,6 +25,8 @@ Religion
 * [종교는 때로 사람의 건강을 해친다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45225)
 * [촛불과 태극기 사이에 선 대한민국과 개신교](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303259)
 * [샤로잡다 "믿음은 있지만 종교는 없어요" 종교는 어떻게 변해야 할까? | 성해영 교수 - YouTube](https://www.youtube.com/watch?v=gFk5Ya4eM8g)
+* [Jake Deschain - 기독교와 이슬람의 부적과 보호 상징 8가지 정리 | Facebook](https://www.facebook.com/unattached/posts/pfbid0NFfR9DE73iWqUTSXxdZPTP1nganhi9wdopQf8bMdTzaNsGSjywvhFGpjcNCT5ja2l)
+  * 기복 신앙 성향이 강한 두 종교의 부적 8개 해독: 1)성 베네딕트 메달(분도패)—CSPB·VRS-NSMV-SMQL-IVB·"Vade Retro Satana" 2)Chi-Rho(카이-로)—그리스도 그리스어 첫 두 글자, 알파·오메가 동반 3)Ichthys(익투스)—초대 교회 박해기 물고기 식별 기호 4)Miraculous Medal·Brown Scapular—1830 프랑스·1251년 마리아 신심 5)베네딕트 십자가+INRI 6)콥트 십자가—IHC·PXC·Pshiri·Mphi 7)Hamsa/파티마의 손—이슬람 이전 보호 상징 8)Ta'weez(타위즈)—꾸란 옥좌의 절(Ayat al-Kursi) 음역·번역
 
 # Atheist
 * [대한민국은 종교의 천국? 아니, 무신론 강국!](http://v.media.daum.net/v/20170129000344826)
