@@ -4751,6 +4751,8 @@ Artificial Intelligence
       * 가이드에서 가장 강조되는 메시지는 Less is More, 즉 '정말 필요한 가이드만 넣어라'
   * [Codex 가 무거워지기 시작했다면 이 글을 한 번 보세요 (로그·세션 정리) | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_codex-%EA%B0%80-%EB%AC%B4%EA%B1%B0%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4%EB%A9%B4-%EC%9D%B4-%EA%B8%80%EC%9D%84-%ED%95%9C-%EB%B2%88-%EB%B3%B4%EC%84%B8%EC%9A%94-%EC%B2%98%EC%9D%8C%EC%97%94-codex-ugcPost-7456882376711753729--xVe)
     * 8GB 로그·비활성 채팅 누적이 체감 속도 저하 원인. 정리 후 10배 빨라짐. 핵심: 채팅은 실행용, 기억은 handoff 문서. 8단계 최적화 + Codex 팀 Tibo의 skill 제공
+  * [원격 바이브코딩 완벽공략집 Codex - YouTube (코드깎는노인)](https://www.youtube.com/watch?v=L2P0qn0Doio)
+    * 코드깎는노인 채널, 28분. Codex로 원격 바이브코딩하는 방법 가이드. 코드깎는노인클래스(cokac.com) 노하우 정리
   * [codex-plugin-cc: Use Codex from inside Claude Code for code reviews or to delegate tasks](https://github.com/openai/codex-plugin-cc)
     * /codex:review(코드 리뷰), /codex:adversarial-review(설계 도전적 리뷰), /codex:rescue(Codex 서브에이전트로 조사·수정 위임). 기존 Codex CLI 인증·설정 활용, 백그라운드 작업 관리
     * [Codex in Claude Code 사용해보기 | reach_vb on X](https://x.com/reach_vb/status/2038671858862583967)
