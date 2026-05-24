@@ -3092,6 +3092,10 @@ CVPR2016)
   * [可灵大模型](https://kling.kuaishou.com/)
   * [중국이 SORA 대체! AI 동영상 생성 게임 체인저! AI 영상 길이 화질 창의력 모두 완벽! Kling, kuaishou 오후다섯씨 - YouTube](https://www.youtube.com/watch?v=n9aZQBRq3sM)
   * [이젠 뮤비까지 만들어 버리네요… 가수 HYNN 박혜원 신곡 '영하' AI로 뮤직비디오 제작한 충격 후기 - YouTube](https://www.youtube.com/watch?v=iIE3vONbHcQ)
+* [LongLive: Real-time Interactive Long Video Generation | NVIDIA](https://nvlabs.github.io/LongLive/)
+  * [2605.18739 LongLive: Real-time Interactive Long Video Generation](https://arxiv.org/abs/2605.18739)
+  * [LongLive: Real-time Interactive Long Video Generation](https://github.com/NVlabs/LongLive)
+  * NVIDIA·MIT·HKUST(GZ)·HKU·THU 협업. 240초 실시간 인터랙티브 장편 비디오 생성, 생성 중 프롬프트 변경 가능. 핵심 기술 3가지—KV Recaching(프롬프트 변경 시 시각 연속성과 새 프롬프트 준수 균형), Short Window Attention + Frame Sink(장기 일관성 유지하며 효율 향상), Streaming Long Tuning(과거 KV 캐시 재사용해 5초 클립 연속 생성, OOM 회피). 20.7 FPS(Self-Forcing 17.0/SkyReels-V2 0.49 대비). LongLive-1.3B Hugging Face 공개
 * [Make-A-Video](https://makeavideo.studio/) Meta에서 영어로 문장을 입력하면 비디오로 만들어주는 논문 발표
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Meta Movie Gen](https://ai.meta.com/research/movie-gen/)
