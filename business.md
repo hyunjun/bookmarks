@@ -3786,6 +3786,9 @@ Business
   * [제품에서 숨겨진 성장 기회를 찾는 법 | GeekNews](https://news.hada.io/topic?id=23561) 탐색(Explore)과 활용(Exploit) 프레임워크
 * [품질로 승부하지 마라 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7416614967648407552-vrqy)
   * 승리는 항상 품질이 아닌 차별화
+* [Google is pitching an AI agent ecosystem to consumers who may not buy it | TechCrunch](https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/)
+  * [김영욱 - 찻잔속의 태풍? 구글 I/O AI 에이전트 발표 PM 관점 비판 | Facebook](https://www.facebook.com/youngwook.kim.7549/posts/pfbid02DrNDbghZEHTUyJ1WiruAqCMppAhjLr88AGWmxDbSrRKiQiB4WyoCRYN6tdaBt8Jyl)
+  * 구글 I/O 2026 AI 에이전트 발표가 사용자 페인 포인트 대신 기술 과시 우선. Apple 스토리텔링·MS Copilot 런칭("회의록 정리에 몇 분 걸리시나요?")과 대조. 5개 브랜드(Gemini/Spark/Halo/Information Agents/Daily Brief) 차별화 모호, "적절한 시기" 같은 모호한 무료 출시 시점. ChatGPT $20 티어가 5% 전환에 그치는데 $100/월 가격 의문. 가치 제안·접근성 양면 PMF 실패, 2018 Google Duplex가 더 명확한 가치 제안 사례
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
