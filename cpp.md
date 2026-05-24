@@ -508,6 +508,10 @@ C++
 * [Joe Zbiciak's answer to Is it bad practice nowadays to use “new” in C++? - Quora](https://www.quora.com/Is-it-bad-practice-nowadays-to-use-new-in-C/answer/Joe-Zbiciak?ch=15&oid=354973768&share=2453589f&srid=hq3D&target_type=answer)
 * gperftools
 * jemalloc -> [c.md](c.md)
+* [mi-malloc | Microsoft](https://microsoft.github.io/mimalloc/)
+  * [mimalloc: mimalloc is a compact general purpose allocator with excellent performance](https://github.com/microsoft/mimalloc)
+  * [microsoft/mimalloc - 고성능 범용 메모리 할당자 | GeekNews](https://news.hada.io/topic?id=29812)
+  * Daan Leijen 개발, Koka·Lean 런타임 출신. malloc 드롭인(LD_PRELOAD/Windows 리디렉션 DLL). ~10K LoC, free list sharding(페이지당 다중 작은 free list로 단편화·로컬리티 개선), multi-sharding(thread-local vs concurrent free 분리, cross-thread free는 단일 CAS), eager page purging, secure mode(가드 페이지·랜덤화·암호화 free list ~10% cost), first-class heaps. tcmalloc 13%·jemalloc 2.5배+ 빠름, ~0.2% 메타데이터. v1/v2/v3 유지. Bing·Azure·Cosmos DB·Death Stranding PC·Unreal Engine·SPAdes 사용. C, MIT
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
   * [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use)
   * [TCMalloc : Thread-Caching Malloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)
