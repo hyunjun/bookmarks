@@ -5749,6 +5749,9 @@ Programming
         * 모드시큐리티는 엔진별로 다른 버전, 최근에는 플러그인과 컨테이너 대관 기능 제공
         * 인텔리전스 통합으로 *안전성이 향상*, F5 어스 크의들과 오픈소스 nginx 활용하여 네트워크 보안 강화
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
+* [CrowdSec - Curated Threat Intelligence Powered by the Crowd](https://www.crowdsec.net/)
+  * [crowdsec: Crowdsourced security suite. Open source detection engine + crowd-powered IP intelligence to defeat mass-exploitation](https://github.com/crowdsecurity/crowdsec)
+  * 100K+ 사용자·190+ 국가에서 일평균 15M 신호로 악성 IP 식별. fail2ban 영감, Go 재작성. 로컬 행동 탐지(Security Engine)+커뮤니티 신호 공유 CTI. 95% 대량 공격 사전 차단·36% 독점 정보·경쟁사 대비 7-60일 빠른 IP 식별·0% false positive 주장. 5컴포넌트: Blocklists/Security Engine/CTI/Console/Live Exploit Tracker. honeypot 대신 실제 프로덕션 서버 신호 사용. AGPLv3, 오픈소스 + 유료 콘솔
 * [DeepZero: Find zero-days while you sleep. Automated vulnerability research framework for Windows kernel drivers](https://github.com/416rehman/DeepZero)
   * Windows 커널 드라이버 수천 개를 AI 에이전트로 파싱·디컴파일·분석해 익스플로잇 가능한 IOCTL을 네이티브로 찾는 자동 취약점 연구 프레임워크
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
