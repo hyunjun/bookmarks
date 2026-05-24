@@ -1102,6 +1102,8 @@ Artificial Intelligence
     * [미니멀 에이전트의 출발점: pi-mono에서 Python으로 옮긴 py-pimono 이야기](https://digitalbourgeois.tistory.com/2938)
     * pi-mono의 Python 포팅. Engine·Session·UI 3계층 헥사고날 아키텍처, TUI/터미널/Discord 봇 3가지 인터페이스, Mock LLM 프로바이더, MCP(Notion) 통합
   * [무료 터미널 AI 코딩 도우미 Pi 무료 사용법 및 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%ED%84%B0%EB%AF%B8%EB%84%90-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9A%B0%EB%AF%B8-Pi-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [Pi로 배우는 하네스 | WikiDocs (김동학)](https://wikidocs.net/book/19868)
+    * Pi(@earendil-works/pi-coding-agent)를 통해 하네스 엔지니어링을 배우는 입문서. 7부 구성—1부 Pi/하네스 이해, 2부 첫 작업실(설치·로그인·첫 세션·`read`/`write`/`edit`/`bash` 4 도구), 3부 기본 사용법, 4부 일상 업무(글쓰기·회의록), 5부 하네스 확장(AGENTS.md·스킬·확장·세션 `/tree` `/fork` `/clone`), 6부 SDK/RPC/JSON 시스템 통합, 7부 보안·권한·비용·로그. OpenClaw가 Pi SDK 통합 사례로 등장. v0.9, 2026.5.23 기준 1부+2부 4-7장 공개. 핵심: "Pi는 AI에게 일을 시키는 채팅창이 아니라, AI가 일할 수 있는 작업 환경을 만드는 작은 터미널 하네스"
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
