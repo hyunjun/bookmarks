@@ -2687,6 +2687,9 @@ NLP
   * [**언어 모델을 왜 이렇게 고사양의 GPU가 필요할까?**](https://www.linkedin.com/posts/gim-gyungjin-7430aab4_%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B3%A0%EC%82%AC%EC%96%91%EC%9D%98-gpu%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-autoregressive-activity-7352335035087114241-U2iY/)
 * [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
   * [The Big LLM Architecture Comparison | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5064909/4445700)
+* [Recent Developments in LLM Architectures - Sebastian Raschka](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
+  * [LLM 아키텍처의 최근 동향: KV 공유, mHC, 그리고 압축 어텐션 | GeekNews](https://news.hada.io/topic?id=29775)
+  * 장문 컨텍스트 효율을 위한 최근 오픈 웨이트 LLM 아키텍처 트릭 정리. Gemma 4의 cross-layer KV 공유+per-layer embeddings(PLE), Laguna XS.2의 압축 어텐션 등. KV 캐시·메모리 트래픽·어텐션 비용 절감 흐름
 * [Beyond Tokenization: How Hierarchical Networks (H-Nets) are Revolutionizing Language Models | by Jossue Amador | Jul, 2025 | Medium](https://medium.com/@jfaa27/beyond-tokenization-how-hierarchical-networks-h-nets-are-revolutionizing-language-models-0068d242673b)
   * [토큰화의 경계를 넘다: H-넷의 혁신 | AIB프레스](https://aibpress.com/news/7643)
 * [정확도는 안 떨어졌는데, LLM 모델이 바보가 됐습니다: metric만 보면 놓치는 것](https://velog.io/@isanghao/%EC%A0%95%ED%99%95%EB%8F%84%EB%8A%94-%EC%95%88-%EB%96%A8%EC%96%B4%EC%A1%8C%EB%8A%94%EB%8D%B0-LLM-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%B0%94%EB%B3%B4%EA%B0%80-%EB%90%90%EC%8A%B5%EB%8B%88%EB%8B%A4-metric%EB%A7%8C-%EB%B3%B4%EB%A9%B4-%EB%86%93%EC%B9%98%EB%8A%94-%EA%B2%83)
@@ -2868,6 +2871,10 @@ NLP
   * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
 * [dbrx: Code examples and resources for DBRX, a large language model developed by Databricks](https://github.com/databricks/dbrx)
   * [Introducing DBRX: A New State-of-the-Art Open LLM | Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+* [DeepEval by Confident AI - The LLM Evaluation Framework](https://deepeval.com/)
+  * [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval)
+  * [LLM 평가 프레임워크 DeepEval 개념과 주요 기능 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3124)
+  * Pytest-네이티브 LLM 평가. 50+ 메트릭(G-Eval 기준 기반 CoT, DAG 결정 그래프, RAG의 답변관련성·충실도·맥락정확도, 에이전트 Task Completion·Tool Correctness, 다턴 Knowledge Retention, 환각·독성·편향). LangChain/LlamaIndex/CrewAI/LangGraph, OpenAI/Anthropic/Gemini/Bedrock 통합. 합성 데이터 생성, MMLU/HellaSwag/HumanEval/GSM8K 벤치마크. 15.7k stars, Apache 2.0
 * [DeepSeek](https://www.deepseek.com/)
   * [무료인데 역대급 성능! 딥시크(Deep Seek) | 챗GPT, 클로드 뛰어 넘지만 불안한 한가지! - YouTube](https://www.youtube.com/watch?v=dOv0tivK1oc)
   * [Meta의 생성형 AI 조직은 DeepSeek때문에 충격에 빠져있음 | GeekNews](https://news.hada.io/topic?id=18896)
@@ -4418,6 +4425,8 @@ NLP
     * 웹 검색 결과가 아닌 법제처 원본 DB 직접 연결의 차이를 강조. 실업급여·보험 분쟁 등 일상 법률 문제에 AI+법률 MCP 활용 사례
   * [AX 불 지핀 행정 8급 공무원 "혁신 가로막는 건 조직문화" | 지디넷코리아 (네이버)](https://n.news.naver.com/article/092/0002421919)
     * 류승인 주무관 인터뷰. AI 확산엔 성과 내는 사람 인정·보상 체계가 필수. 공공 부문 AX 현장 사례
+  * [Korean Law MCP: AI 시대를 위한 대한민국 법령·판례 통합 분석 플랫폼 :: 지식의 섬](https://digitalbourgeois.tistory.com/3119)
+    * 법제처 41개 Open API를 15-17개 핵심 도구로 재구성. impact_map(조문 영향 그래프), time_travel(시점 비교 자동 diff), action_plan(시민 5단계 가이드), verify_citations(법령명·조문 번호 실시간 교차 검증으로 환각 차단)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
