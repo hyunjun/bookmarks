@@ -5374,6 +5374,9 @@ Artificial Intelligence
 * [reverse-api-engineer: Claude engineer that captures traffic, writes documentation and automatically generates API clients](https://github.com/kalil0321/reverse-api-engineer)
 * [Replit – Build apps and sites with AI](https://replit.com/)
   * [꼭 필요한 ‘입코딩’으로 고퀄 디자인에 데이터 저장까지 되는 웹앱 만드는 법 | 요즘 핫한 바이브 코딩? 이렇게 시작해 보세요. - YouTube](https://www.youtube.com/watch?v=qQbNtKYxk8s)
+* [RMUX - The Multiplexer Engine for Agents](https://rmux.io)
+  * [rmux: Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows](https://github.com/Helvesec/rmux)
+  * Rust 기반 tmux 호환 멀티플렉서+자동화 엔진. 90개 tmux 명령 호환 CLI(`rmux`), 타입 SDK(`rmux-sdk`), Ratatui 위젯(`ratatui-rmux`)—공통 로컬 프로토콜로 데몬과 통신. 영속 세션·스냅샷, 크로스 플랫폼 네이티브(Linux/macOS Unix PTY+sockets, Windows ConPTY+Named Pipes). "code is the user" 발상—Claude가 Codex·Gemini·Grok를 rmux로 지휘하는 데모. tmux 키바인딩+config 마이그레이션. v0.3.0 (2026.5), MIT/Apache-2.0, 942 stars
 * [Rocket.new | Build Web & Mobile Apps 10x Faster Without Code](https://www.rocket.new/)
 * [Roo Code – Your AI-Powered Dev Team in VS Code](https://roocode.com/)
   * [Roo-Code: Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor](https://github.com/RooVetGit/Roo-Code)
