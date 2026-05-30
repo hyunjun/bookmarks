@@ -2790,6 +2790,8 @@ App
     * [Maps of Content: Effortless organization for notes - Obsidian Rocks](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
+  * [awesome-obsidian-vault: Awesome list of obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
+    * 큐레이션된 Obsidian vault 모음(43 항목+11 리소스+3 쇼케이스). 카테고리: 요리(Based.cooking·Grimgrains·HowToCook), 컴퓨터 사이언스(JavaScript Info·OSSU CS), Dev/디자인(System Design 101·dotnet API), 디지털 가든(MaggieAppleton·CyanVoxel), 문서화(Kepano Obsidian·Blue Book·Obsidian Hub), 엔지니어링·지식·개인 사이트·코스몰로지. 사전(Kiwix·Wiktionary·Wordnet)·치트시트(Anki·rstacruz). Hugo 등 정적 사이트 생성기 출처는 일부 호환 안 될 수 있음
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
     * [Discover the Top 5 Obsidian ChatGPT Plugins for Ultimate Productivity](https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/)
   * [claudesidian: Claude Code + Obsidian Starter Kit](https://github.com/heyitsnoah/claudesidian)
