@@ -572,6 +572,7 @@ AWS
 * [AWS 고성능 컴퓨팅 네크워크, 1부: AWS가 제공하는 고속 네트워크 인터페이스, EFA(Elastic Fabric Adaptor) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efaelastic-fabric-adaptor/)
 * [AWS 고성능 컴퓨팅 네트워크, 2부: AWS가 제공하는 고성능 네트워크 프로토콜, SRD(Scalable Reliable Datagram) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/srd/)
 * [분산 트레이닝 관점에서의 AWS 인터커넥트 기술 소개 — AWS는 왜 EFA를 사용하는가? | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-efa-distributed-training-interconnect-technology/)
+* [Sangman Cho - AWS GPUDirect 관련 LinkedIn 포스트](https://www.linkedin.com/posts/sangman-cho-a0237326_aws-rxasmgukrswd-gpudirect-share-7465655793229512704-wKjl/)
 * [가용 영역을 사용한 정적 안정성](https://aws.amazon.com/ko/builders-library/static-stability-using-availability-zones/) AZ
 * [AWS 환경에서 Overlay IP 주소를 활용한 고가용성 구성 및 MCCS 솔루션을 통한 자동 장애조치 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-overlay-ip-with-mccs/)
 * [AWS App Studio, 자연어 기반 엔터프라이즈급 애플리케이션 구축 도구 (미리보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
