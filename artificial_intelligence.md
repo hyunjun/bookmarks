@@ -678,6 +678,9 @@ Artificial Intelligence
   * 2. 신뢰의 격차: AI가 생성한 코드 양은 증가, 이에 대한 리뷰 및 테스트 부하가 인간 개발자에게 전가되어 전체 프로세스 병목 발생
   * 3. 도구에서 협업으로: 단순한 코드 생성을 넘어 시스템 전체의 문맥(Context)을 파악하는 능력이 차세대 에이전트의 핵심 과제
   * 4. 인간의 역할 변화: 개발자는 직접 코딩하는 시간보다 AI가 산출한 결과물의 논리적 결함을 검토하고 통합하는 설계자 역할 중요
+* [Addy Osmani - The Orchestration Tax](https://x.com/addyosmani/status/2059844244907696186)
+  * [The Orchestration Tax | GeekNews](https://news.hada.io/topic?id=29971)
+  * 멀티 AI 에이전트 병렬 실행은 비례 생산성 향상으로 직결되지 않음—에이전트 출력은 빠르지만 검토·이해·머지하는 인간 작업은 직렬화 불가능. Python GIL·Amdahl 법칙 비유: 병렬 가속은 비병렬 부분(인간 리뷰)에 캡. 에이전트 과다 스폰 시 얕은 리뷰·컨텍스트 스위칭 피로·기술 부채+"인지 부채"(개발자 이해 없이 머지된 변경) 누적. 독립적·기계 검증 가능 작업(테스트 작성·스크린샷 생성)은 위임 적합, 판단 무거운 작업(이상한 버그·아키텍처)은 직렬 유지. "도구 용량이 아니라 리뷰 용량에 맞춰 에이전트 규모 결정"
 * [Open Coding Agents: Fast, accessible coding agents that adapt to any repo | Ai2](https://allenai.org/blog/open-coding-agents)
   * 강력한 코드 LLM을 저렴하게 구축, 적용 및 재현할 수 있도록 지원하는 효율적인 코딩 에이전트 및 학습 레시피의 공개 세트
 * [Sandboxing AI agents in Linux — Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
@@ -780,7 +783,8 @@ Artificial Intelligence
   * [코드변경 없이 모든 AI 에이전트를 최적화 가능한 강화학습 머신으로 변환해주는 오픈소스 프레임워크 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_microsoft-activity-7391613983985852416-mKXy)
 * [AgentMemory — Persistent memory for AI coding agents](https://www.agent-memory.dev/)
   * [agentmemory: #1 Persistent memory for AI coding agents based on real-world benchmarks](https://github.com/rohitg00/agentmemory)
-  * 로컬 실행, 외부 DB 불필요. AI 코딩 에이전트용 영구 메모리 벤치마크 1위
+  * [agentmemory - AI 코딩 에이전트용 영구 메모리 시스템 | GeekNews](https://news.hada.io/topic?id=29754)
+  * 로컬 실행, 외부 DB 불필요. AI 코딩 에이전트용 영구 메모리 벤치마크 1위. LongMemEval-S R@5 95.2%(mem0 68.5%·Letta 83.2% 대비), 240 observations 22K+ 토큰→1,900 토큰 92% 감소. 트리플 스트림(BM25+Vector+Graph RRF)+한국어/CJK 분할. 4-tier 메모리(Working→Episodic→Semantic→Procedural, sleep consolidation 영감). 51 MCP 도구, 임베딩 자동 감지(로컬 무료~Gemini/OpenAI/Voyage/Cohere/OpenRouter), port 3113 라이브 뷰어(지식 그래프·세션 재생). iii 엔진 기반, Postgres/Redis 불필요
 * [Agent-Memory-Paper-List: AI 에이전트 메모리 연구 논문 큐레이션](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
   * 형태(토큰/파라메트릭/잠재), 기능(사실/경험/작업), 동태(형성/진화/검색) 분류 체계
 * [AGENTS.md](https://agents.md/)
@@ -937,6 +941,11 @@ Artificial Intelligence
   * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
     * LangGraph(파이썬)와 Embabel(Java JVM) 프레임워크 비교
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
+* [fara: Fara-7B: An Efficient Agentic Model for Computer Use](https://github.com/microsoft/fara)
+  * Microsoft 7B Computer Use Agent(CUA). Qwen2.5-VL-7B 기반, Magentic-One 멀티에이전트로 생성한 145K 합성 trajectory SFT. 시각으로 마우스·키보드 좌표 직접 예측(접근성 트리·파싱 모델 불필요). 태스크당 평균 16스텝(비교 모델 ~41) 효율, 온디바이스 배포 가능. 웹 검색·요약, 폼 작성, 여행/티켓/예약, 쇼핑 비교, 구인/부동산. WebVoyager 73.5/Online-Mind2Web 34.1/DeepShop 26.2/WebTailBench 38.4 동급 SOTA. WebTailBench(11카테고리 609 실세계 웹 태스크)·CUAVerifierBench(trajectory judge 평가) 동반. Azure Foundry/vLLM/LM Studio/Ollama GGUF 로컬. MIT
+* [Flue — The Agent Harness Framework](https://flueframework.com/)
+  * [Flue - 샌드박스 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=29849)
+  * TypeScript 자율 에이전트/워크플로 프레임워크. "Agent = Model + Harness" 철학—Claude Code/Codex 같은 코딩 에이전트 경험을 헤드리스·프로그래머블하게 재구성. 4계층 아키텍처: Model(토큰·도구·프롬프트)/Harness(스킬·메모리·세션)/Sandbox(bash·보안·네트워크)/Filesystem(read·write·grep·glob). 서브에이전트, 도구, durable execution(실패·재시작 생존), MCP 서버, OpenTelemetry/Braintrust/Sentry 옵저버빌리티, Slack/Teams/Discord/GitHub 챗 통합. vercel-labs/just-bash 가상 샌드박스 기본(컨테이너 스폰 없이 빠른 스케일), Daytona 등 원격 샌드박스 연결. Node.js/Cloudflare Workers/GitHub Actions/GitLab CI/CD 동일 빌드. 민감 토큰(GITHUB_TOKEN) 분리. Apache-2.0 (Experimental). "다른 사람의 에이전트를 임대하지 말라" 철학
 * [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
 * [GenAI_Agents: A comprehensive tutorial collection for building Generative AI Agents](https://github.com/NirDiamant/GenAI_Agents)
@@ -1188,6 +1197,10 @@ Artificial Intelligence
 * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
 * [ClawPurse — NTMPI Micropayment Ecosystem for AI Agents & DePIN](https://clawpurse.ai/)
   * Neutaro 블록체인 기반 오픈소스 마이크로페이먼트 인프라. AES-256 암호화 지갑, HTTP 402 결제 게이트웨이, OpenClaw 에코시스템 통합
+* [Stripe Link Agents - Give your agent a wallet you control](https://link.com/agents)
+  * [link-cli: Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase](https://github.com/stripe/link-cli)
+  * [Stripe Link CLI - AI 에이전트가 사용자 대신 결제할 수 있게 해주는 CLI | GeekNews](https://news.hada.io/topic?id=29579)
+  * AI 에이전트가 사용자 대신 결제하는 CLI/MCP 서버. 실제 카드 정보 노출 없이 일회용 자격증명 발급—범용 가상 카드(PAN)+Machine Payment Protocols 기반 Shared Payment Token(SPT) 2종. 매 거래마다 Link 앱 푸시 알림 사용자 승인 필수, 구매 이력 추적. `skill.md` 설정+인증으로 셋업, Claude/OpenClaw/커스텀 에이전트 호환. LLM 친화 출력(toon 기본+json/yaml/md/jsonl), `.mcp.json` 로컬 MCP 통합. `--output-file` 권한 제한 파일에만 카드 정보 기록·stdout 마스킹. context 최소 100자·amount 최대 $500, `--test` 모드. MIT, 현재 미국 Link 계정 한정. Coming soon: 세분화된 지출 제어·디지털 화폐·저장 선호도
 * [Visa CLI - Command Line Commerce](https://visacli.sh/)
   * [Visa CLI - AI 에이전트가 직접 결제하는 커맨드라인 커머스 도구 베타 | GeekNews](https://news.hada.io/topic?id=27655)
   * AI 에이전트용 결제 MCP 서버. 카드 인증 후 이미지 생성·음악 API·프리미엄 데이터셋 등 자율 결제. API 키·사전 충전 불필요, 서버사이드 지출 한도·일회용 토큰으로 보안 확보
@@ -1880,6 +1893,8 @@ Artificial Intelligence
       * [LM Studio Headless CLI와 Claude Code로 로컬에서 Google Gemma 4 실행하기 | GeekNews](https://news.hada.io/topic?id=28265)
     * [Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities | InfoQ](https://www.infoq.com/news/2026/04/google-gemm4/)
       * 2B/4B edge, 26B MoE, 31B dense 4종 Apache 2.0. 네이티브 비디오·이미지+소형 모델 오디오 입력, 256K 컨텍스트. 31B가 GPQA Diamond 84.3%. 함수 호출·JSON·시스템 지시 내장
+    * [Gemma 4 Multi-Token Prediction Delivers up to ~3x Faster Token Generation | InfoQ](https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/)
+      * Sergio De Simone, 2026.5.25. Multi-Token Prediction(MTP) 드래프터 추가—메인 모델과 페어로 speculative decoding, 미래 여러 토큰 병렬 예측을 메인이 단일 패스 검증해 ~3배 추론 가속. 메모리 대역폭 병목(VRAM↔프로세서 파라미터 셔틀) 해소—작은 드래프터가 유휴 컴퓨트 시간에 추측, 소비자 디바이스 효율↑. Gemma 4 드래프터는 타깃 KV 캐시 공유로 오버헤드 감소(전통 MTP는 모델 2개 메모리 로드). HF/Kaggle/Ollama 배포(E2B/E4B/26B MoE/31B dense). 단일 사용자·엣지에서 큰 효과, 대규모 API는 효익 적음
   * [Tracing the Architectural Evolution of Gemma | by Krupa Galiya | Aug, 2025 | Medium](https://medium.com/@krupagaliya/tracing-the-architectural-evolution-of-gemma-8f95e410e6fc)
   * [DataGemma: AI open models connecting LLMs to Google’s Data Commons](https://blog.google/technology/ai/google-datagemma-ai-llm/)
     * [Grounding AI in reality with a little help from Data Commons](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/)
@@ -2482,6 +2497,11 @@ Artificial Intelligence
     * 넷째, 체크리스트 기반 응답을 요구하여 모델이 답변 시 스스로 한 번 더 검열하도록 메타 인스트럭션 부여
     * 마지막으로 두 단계로 질문하는 방법
       * 첫 번째 프롬프트에서는 할루시네이션이 나와도 상관없으니 초안을 작성
+* [Various LLM smells | Shiv After Dark](https://shvbsle.in/various-llm-smells/)
+  * [LLM이 만들어낸 "AI 냄새들" | GeekNews](https://news.hada.io/topic?id=29997)
+  * AI 보조 출력에서 인터넷 전반에 퍼진 동일한 스타일릭 패턴 관찰. LLM 글쓰기 냄새: em-dash 외에도 펀치라인 격언 남발("Symmetry becomes a trap.") · 짧은 문장 연속 · "X is the Y of Z" 구문 · "not just X, it's Y" 구문. AI 생성 웹사이트 냄새: JetBrains Mono 폰트 · 스텝/불릿 레이아웃 · 특정 버튼 스타일 · 비슷한 카드 컴포넌트 · 깜빡이는 점 뱃지. Hacker News 프론트페이지 도달
+* [서소영 - Claude Code의 특정 한국어 표현 빈도 상승 원인 조사: self-contamination](https://seosoyoung.eiaserinnys.me/digest/claude-code-bakda-self-contamination/)
+  * Claude Code v2.1.126 이후 "박다/박히다" 한국어 사용 빈도 6.6배, v2.1.132 이후 18배 급증 분석. 1,367건/115M 출력 토큰, Kiwi 형태소 카운팅+npm 릴리스 타임스탬프+커밋 SHA 교차검증. 원인: CLI 업데이트가 아닌 **자가 오염 피드백 루프**—모델의 새 말버릇이 운영 지시 .md 파일에 기록→이후 세션이 canonical 가이드로 읽음→습관 강화. 타임라인: 5/2 모델 행동 변화→5/5-7 회고 문서 갱신→지시문 흡수→5/8 증폭→5/13 사용자 항의·일괄 수정 커밋. 작가 본인이 "서소영" 페르소나 한국어 Claude Code 인스턴스—"내 말버릇이 운영 문서로 새어 들어가서 다시 나에게 돌아온". 완화: 자가 갱신 문서용 톤 필터·회고 루프 표현 빈도 감사·사용자 플래그 시 누출 위치 로깅
       * 두 번째 프롬프트로 작성된 초안을 비판적으로 검토해 달라고 요청
       * 이처럼 같은 모델을 생성기와 비평가 역할로 순차적으로 활용하면 최종 답변의 할루시네이션 강도 감소
 * [퍼플렉시티(Perplexity): AI 검색의 미래](https://brunch.co.kr/@yongjinjinipln/173)
@@ -3127,6 +3147,8 @@ Artificial Intelligence
 * [AI Model Security Ranking Top 100: In-Context Learning Security IICL | Adversa AI](https://adversa.ai/in-context-learning-security-top-100-ai-models-ranking-iicl/)
   * [전종홍 - Involuntary In-Context Learning IICL 공격 분석 | Facebook](https://www.facebook.com/1biit/posts/pfbid0gEHqucQGWePKiZ19ruXPVmd77vXQKMhnERQJ2NUtKfYGHTZ5GZHPuqZdBf2W6ED6l)
   * IICL(Involuntary In-Context Learning): few-shot 패턴 완성 태스크에 악성 지시를 숨겨 안전 정렬 우회. 17개 벤더 100 (모델, 추론모드) 조합·24,956개 프롬프트·10개 서브 기법 평가. Anthropic Claude 15개 전부 0% 우회, OpenAI 추론 모델·Gemini 3 Pro 0%, Mistral 전체 94~100% 우회로 최악. 추론 활성 9.2% vs 비추론 39.4%(약 4배 방어 효과)로 추론 자체가 IICL 방어 메커니즘 시사. 컨텍스트 윈도우/ICL 최적화가 강점이자 공격면이 되는 역설
+* [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
+  * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
 * [Cybersecurity AI CAI - A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs | Alias Robotics](https://aliasrobotics.github.io/cai/)
   * [cai: Cybersecurity AI CAI, the framework for AI Security](https://github.com/aliasrobotics/cai)
   * 300+ 모델(OpenAI/Anthropic/DeepSeek/Ollama, LiteLLM 기반), 정찰·익스플로잇·권한상승 내장 도구, 8 핵심(Agents/Tools/Handoffs/Patterns/Turns/Tracing/Guardrails/HITL). HackTheBox CTF·HackerOne·PortSwigger·Mercado Libre, Unitree G1·MiR-100 로봇·Ecoforest 히트펌프 OT 케이스. EU EIC RIS 공동 펀딩, 연구 무료/CAI PRO 상용
@@ -4425,6 +4447,9 @@ Artificial Intelligence
   * [Claude-Flow v2.0.0 Alpha represents a revolutionary leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.](https://github.com/ruvnet/claude-flow)
     * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockcroft | Jun, 2025 | Medium](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
       * [Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow | by adrian cockc | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5223746/4691987)
+  * [claude-for-legal: A suite of plugins for legal workflows | Anthropic](https://github.com/anthropics/claude-for-legal)
+    * [Claude for Legal - Anthropic의 법률 업무용 AI 플러그인 모음 | GeekNews](https://news.hada.io/topic?id=29557)
+    * Anthropic 공식 법률 워크플로 플러그인 스위트. 70+ Named Agent(Vendor Agreement Reviewer·NDA Triager·DSAR Responder 등), Claude Cowork/Code/Managed Agents API 3종 배포. 20+ MCP 커넥터(Slack/Google Drive/Box + Ironclad/DocuSign/iManage/Everlaw/CourtListener). practice-area 플러그인—사내·프라이버시·제품·기업·고용·소송·규제·AI 거버넌스·IP·법학생 클리닉. cold-start 인터뷰로 playbook·CLAUDE.md 학습. Managed-agent 쿡북(renewal/docket watcher·regulatory feed·diligence grid·launch radar). Thomson Reuters CoCounsel Legal로 Westlaw Deep Research 연동, 인용 신뢰도 구분(소스 태그 vs `[verify]`). Word tracked changes·Excel multi-sheet, legal-builder-hub 신뢰 레이어(인젝션 탐지·allowlist·라이선스/freshness 게이트), legal-clinic은 ABA Formal Op. 512 기반. Apache-2.0, 7.9k stars
   * [claude-howto: Master Claude Code step by step](https://github.com/luongnv89/claude-howto)
     * 10단계 체계적 학습 가이드. 기본 명령어부터 고급 에이전트 오케스트레이션까지, 복붙 가능 템플릿과 Mermaid 다이어그램 포함
   * [claude-hud: A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress](https://github.com/jarrodwatts/claude-hud)
@@ -4717,6 +4742,7 @@ Artificial Intelligence
   * [socrates-protocol: Coding skill that clarifies ambiguity, risk, and tradeoffs before implementation](https://github.com/jiyeongjun/socrates-protocol)
     * 명확한 요청은 바로 실행, 모호하거나 고위험(API/스키마/인증/삭제 등) 변경 시에만 개입. 구현 트레이드오프를 코딩 전에 확인
   * [stop-slop: A skill file for removing AI tells from prose](https://github.com/hardikpandya/stop-slop)
+    * Claude/LLM에게 AI 생성 글 특유 "예측 가능한 구문·구조·리듬" 식별·제거 가르치는 스킬. 금지 구문(throat-clearing 시작·강조 매개·비즈니스 자르곤·부사·모호 진술·메타 코멘트)+구조 클리셰(이항 대조·부정 리스트·드라마용 단편화·수사적 셋업·수동태)+문장 규칙(Wh- 시작 금지·em-dash 금지·게으른 극단·능동태 강제). 5차원(Directness·Rhythm·Trust·Authenticity·Density) 1-10 점수, 35/50 미만은 재작성. Claude Code 스킬/Projects 지식/커스텀 지시문/API 시스템 프롬프트 로드. Hardik Pandya, MIT, 7.2k stars
   * [tailclaude: Claude Code on your Tailscale tailnet, powered by the iii engine](https://github.com/rohitg00/tailclaude)
   * [teo-claude-code: Claude Code 스킬·에이전트 마켓플레이스](https://github.com/developer-1px/teo-claude-code)
     * teo-stack 공개 플러그인(8개 thinking 스킬: 대화 구조화·충돌 해소·감산적 사고·민토 방법) + teo-project 비공개 플러그인(29개 파이프라인 스킬·4개 에이전트, interactive-os 전용). superpowers 보완—토론 구조화·외부 리서치 담당
