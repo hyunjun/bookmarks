@@ -1018,6 +1018,8 @@ Vision
 # VLM Vision Language Model
 * [VLM backbone에 대한 트렌드를 알아보자! | 강재욱 - YouTube](https://www.youtube.com/watch?v=NgxSbyoiQYM)
 * [HCX-VLM과 함께 홈피드를 더 예쁘게 바꿔보자!](https://d2.naver.com/helloworld/3247986)
+* [2411.14432 Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432)
+  * 비전-언어 태스크의 long-chain reasoning 데이터·학습 파이프라인 격차 해소. 1) 사람 노동 없이 견고한 long-form reasoning 데이터 생성하는 2단계 progressive 파이프라인+다단계 품질 평가 2) 멀티 에이전트 시스템(추론 전담+요약/평가 전담), 3) iterative DPO로 추론 안정성·품질 향상. LLaVA-NeXT/더 강한 base MLLM 위에서 시각 추론 벤치마크 가시 향상, perception 태스크는 유지/개선
 * [MyColPali: The PyQt6 application using ColPali and OpenAI to show Efficient Document Retrieval with Vision Language Models](https://github.com/hyun-yang/MyColPali)
 * [PersonaPlex: Real-time, full-duplex speech-to-speech conversational model with persona control](https://arxiv.org/abs/2602.06053)
   * [personaplex](https://github.com/NVIDIA/personaplex)
