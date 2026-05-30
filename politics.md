@@ -25,6 +25,8 @@ Politics
   * 미국 패권은 단순 하드파워가 아니라 세계가 받아들인 표준(화폐·언어)의 산물. 신흥국(중국)은 힘 과대평가, 패권국은 도전자 과소평가의 함정. 진(秦)이 통일한 비결—실력주의·법가의 대안 제시. 미국이 이기려면 중국 방식 따라하지 말고 자기 답을 제시해야
 * [김종대 - 적대적 공존의 덫에 걸린 중동, 미국의 '책임 없는 철수'가 재앙인 이유 | Facebook](https://www.facebook.com/jdkim.justice/posts/pfbid0b3RD9jPNXuBvqkJWp87P9LbDUQ5dMiZoRehfJFWV8aXkbMqkDpkByDkfuSMQALcml)
   * 시오니즘과 호메이니즘이 서로를 절대악으로 규정해 정권 정통성 유지하는 적대적 공존 분석. 하가이 람 《Iranophobia》 인용—1977 리쿠르당 집권 후 이스라엘 내부 정체성 위기(아슈케나지 쇠퇴, 미즈라힘·극우 종교세력 부상)를 이란 타자화로 덮음. 이란 IRGC도 경제난·민주화 시위마다 미국·이스라엘을 외부의 적으로 지목. 미국은 후원자이자 이스라엘 폭주의 유일한 브레이크—철수 시 우파가 "제2의 뮌헨"으로 규정해 이란 핵시설 독자 선제타격 가능성. 미어샤이머 완전 철수론 비판: 안전장치 없는 철수는 "퓨즈 고장 난 시한폭탄" 타이머 앞당김
+* [HeeSeung Lee - 미국 중동 철수와 신 가쓰라 태프트 밀약 시나리오 | Facebook](https://www.facebook.com/heeseung.lee1/posts/pfbid0H8qJAEyUTBL8KLd5hgLT2pJAYmR3ngY3ZMgpAGeZAM5MiQxBxwvyPBaGqNs5jPbSl)
+  * 중동왕국들이 450조 배상금 갹출해 이란에 지급—미국이 이란 건드리며 오일머니 잃음, 이제 중국 견제용으로 이란을 지역맹주로 키워야. 트럼프 임기 후 친이란 정책 예상, 이스라엘은 이란과 화해 필요. 핵 농축은 주권 권한으로 인정·농축도 동결 선에서 합의 전망. 미국 신 가쓰라 태프트 밀약—일본은 미국, 한국은 중국 지정학적 이익선. 한국은 G2 균형자로 업그레이드. 하마스 알 아크사 작전이 마중물 되어 이란+중·러 vs 미국 패권전. 신와르를 윤봉길에 비유—오늘의 테러리스트가 내일의 영웅
 * [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
 * ['시민종교', 정치와 종교의 교묘하고도 양가적인 결합 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303178)
 * [EQUALITY, EQUITY AND JUSTICE. “When God speaks about equity, that… | by Sandeep Kumar | Medium](https://medium.com/@sandeepkumar_52041/equality-equity-and-justice-5f71ebe31245)
