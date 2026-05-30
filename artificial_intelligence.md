@@ -714,6 +714,8 @@ Artificial Intelligence
   * [콘텐츠 AX, '프롬프트' 말고 '파일'을 보세요: 콘텐츠 AX 실험기 ② | 요즘IT](https://yozm.wishket.com/magazine/detail/3695/)
   * [두 달 꼬박 기업용 에이전트 만들며 배운 것: 콘텐츠 AX 실험기 ③ | 요즘IT](https://yozm.wishket.com/magazine/detail/3739)
   * 요즘IT의 AI 에이전트 콘텐츠 기획 파이프라인 3부작. 리서처·플래너 에이전트 분리로 2-3시간 수동 작업을 13분으로 단축, 마크다운 파일로 브랜드 가이드·과거 콘텐츠 저장, 3패스 작성 + 인간 리뷰 워크플로우
+* [Agent Memory Systems and Knowledge Graphs: Letta, Mem0, Graphiti, and Cognee | Code Pointer](https://codepointer.substack.com/p/agent-memory-systems-and-knowledge)
+  * Yongkyun Lee, 2026.5.28. 4개 오픈소스 장기 메모리 비교를 "그래프 적은→많은" 스펙트럼으로. Letta(MemGPT)는 그래프 없음—`core_memory_replace` 같은 도구로 텍스트 블록 자가 편집, 계층 메모리(core/archival vector/recall/filesystem). Mem0는 v3 OSS 리라이트에서 그래프 제거→spaCy 엔티티 링킹+허브앤스포크. Graphiti(Zep)는 양시간 엣지(when_true·when_learned)로 과거 보존, 모순 시 무효화. Cognee는 ECL 파이프라인(Extract-Cognify-Load), Pydantic DataPoint 타입 그래프 엣지, 온톨로지 그라운딩. 트레이드오프: 읽기에 fact-to-fact traversal 필요? 쓰기에 history 보존 필요? 벤더 벤치(LOCOMO/LongMemEval/HotPotQA/BEAM)는 답변 모델·judge 모델·judge 프롬프트가 다 달라 직접 비교 불가
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -1970,6 +1972,8 @@ Artificial Intelligence
   * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
   * [AI 생태계 연결하는 USB-C 포트, MCP 알아보기 - YouTube](https://www.youtube.com/watch?v=OdwuHsXPqn4)
   * [The Death of the Browser: Tejas Kumar on MCP & AI Agents - YouTube](https://www.youtube.com/watch?v=b1fgxbKPHco)
+  * [Making AI Personal: Building Context-Rich AI Tools with MCP • Kris Jenkins • GOTO 2025 - YouTube](https://youtube.com/watch?v=ekOTT0siHSo)
+    * GOTO Copenhagen 2025, Kris Jenkins. JSON-RPC 기반 MCP로 개인 데이터에 AI 도구 포커스드 액세스. "이번 주 무엇 작업?", "사이드 프로젝트 어떤 상태?" 같은 자연어 질의→Jira 수동 검색 대신 도구가 답. 함수·외부 API를 MCP 엔드포인트로 wrap해 AI가 쿼리 가능한 데이터 소스로 변환
   * [Model Context Protocol: The USB-C for AI: Simplifying LLM Integration - InfraCloud](https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/)
     * MCP의 클라이언트-서버 아키텍처(호스트/클라이언트/서버/데이터소스), 리소스 접근·도구 실행·프롬프트 관리 표준화, 벤더 종속성 해소 설명
   * [MCP써야 진짜 Claude다! 500% 활용 튜토리얼 (개념부터 활용까지) - YouTube](https://www.youtube.com/watch?v=fkqXQOjj8cA)
@@ -3612,6 +3616,8 @@ Artificial Intelligence
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
+* [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
+  * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
 * [VibeDoc: 🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds](https://github.com/JasonRobertDestiny/VibeDoc)
 * [VibeMon - AI Agent Monitor](https://vibemon.io/)
   * [vibemon-app: AI Agent Monitoring Dashboard](https://github.com/nalbam/vibemon-app)
