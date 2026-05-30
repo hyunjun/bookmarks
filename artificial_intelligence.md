@@ -684,16 +684,6 @@ Artificial Intelligence
   * [리눅스에서 AI 에이전트를 샌드박싱하기 | GeekNews](https://news.hada.io/topic?id=26415)
 * [AgentFS AI 에이전트의 안전한 I/O를 위한 파일시스템](https://codepointerko.substack.com/p/agentfs-ai-io)
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
-* [The System Design Behind Stripe’s Minions AI Factory - YouTube](https://www.youtube.com/watch?v=GQ6piqfwr5c)
-  * [스트라이프 AI 코딩 에이전트: 주 1,000개 이상 PR 병합 비밀 (6계층 아키텍처)](https://livewiki.com/ko/content/stripe-ai-agents-pull-requests)
-  * [1조 달러 결제를 처리하는 Stripe가 AI에게 코딩을 맡기는 방법 - YouTube](https://www.youtube.com/watch?v=etiHx4RJil0)
-  * 스트라이프(Stripe)는 '미니언스(Minions)'라 불리는 AI 코딩 에이전트를 통해
-    * 인간의 개입 없이 매주 1,000개 이상의 코드를 병합하는 완전 무인화된 개발 워크플로우를 구축
-  * 핵심은 단순한 AI 모델 성능이 아니라, 오픈소스 에이전트를 감싸고 있는 6계층의 하이브리드 아키텍처와 독자적인 개발 인프라
-  * 이들은 AI의 창의적 코드 작성과 결정론적인 하드코딩 게이트(린터, 테스트 등)를 결합하고
-    * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
-  * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
-    * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
 * [Manus Agents Challenge OpenClaw With No-Setup Personal AI Assistants](https://www.trendingtopics.eu/manus-agents-challenge-openclaw-with-no-setup-personal-ai-assistants/)
   * [메신저 안에서 완성하는 개인 AI 에이전트 경쟁: Manus Agents와 OpenClaw의 전략 분석](https://digitalbourgeois.tistory.com/2777)
@@ -771,6 +761,8 @@ Artificial Intelligence
     * Playwright MCP는 클릭마다 전체 DOM 반환으로 토큰 소진. agent-browser는 Accessibility Tree + Snapshot/Refs로 93% 토큰 절감. 도구 17개→2개로 줄여 성공률 80%→100%, 토큰 37% 감소
 * [Agent Client Protocol — A protocol for connecting any editor to any agent](https://agentclientprotocol.com/get-started/introduction)
   * [agent-client-protocol: A protocol for connecting any editor to any agent](https://github.com/agentclientprotocol/agent-client-protocol)
+  * [eclipse-agents (kiro-acp branch): Eclipse implementation of MCP and ACP protocols](https://github.com/ivorycirrus/eclipse-agents/tree/kiro-acp)
+    * Eclipse IDE에 MCP(에이전트↔도구·리소스 통신)+ACP(IDE↔에이전트 통신) 통합. IDE 내장 MCP 서버, 워크스페이스/에디터/콘솔 등 플랫폼 서비스, MCP 도구·리소스 확장 포인트, ACP 채팅(Gemini·Claude Code·Goose 지원). ivorycirrus의 fork에서 kiro-acp 브랜치 364 커밋
 * [AgentEvolver: AgentEvolver: Towards Efficient Self-Evolving Agent System](https://github.com/modelscope/AgentEvolver)
   * [Welcome - AgentEvolver](https://modelscope.github.io/AgentEvolver/)
 * [agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET](https://github.com/microsoft/agent-framework)
@@ -1180,6 +1172,17 @@ Artificial Intelligence
 * [Blue Ocean Opportunities In The Agentic Economy | Investing In AI](https://investinginai.substack.com/p/blue-ocean-opportunities-in-the-agentic)
   * [에이전트 경제의 블루오션 기회 | GeekNews](https://news.hada.io/topic?id=29171)
   * 2026 Q1 기점 AI가 채팅→자율 실행 에이전트로 구조 전환. MCP·A2A 프로토콜이 SaaS UI 경쟁 우위 무력화, 에이전트가 데이터 레이어 직접 접근. 에이전트 거버넌스·수직 산업 플랫폼·성과 기반 가격 모델이 블루오션
+* [The System Design Behind Stripe’s Minions AI Factory - YouTube](https://www.youtube.com/watch?v=GQ6piqfwr5c)
+  * [스트라이프 AI 코딩 에이전트: 주 1,000개 이상 PR 병합 비밀 (6계층 아키텍처)](https://livewiki.com/ko/content/stripe-ai-agents-pull-requests)
+  * [1조 달러 결제를 처리하는 Stripe가 AI에게 코딩을 맡기는 방법 - YouTube](https://www.youtube.com/watch?v=etiHx4RJil0)
+  * 스트라이프(Stripe)는 '미니언스(Minions)'라 불리는 AI 코딩 에이전트를 통해
+    * 인간의 개입 없이 매주 1,000개 이상의 코드를 병합하는 완전 무인화된 개발 워크플로우를 구축
+  * 핵심은 단순한 AI 모델 성능이 아니라, 오픈소스 에이전트를 감싸고 있는 6계층의 하이브리드 아키텍처와 독자적인 개발 인프라
+  * 이들은 AI의 창의적 코드 작성과 결정론적인 하드코딩 게이트(린터, 테스트 등)를 결합하고
+    * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
+  * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
+    * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
+* [바이브코딩결제.pdf | Google Drive](https://drive.google.com/file/d/1XMYEec6hmrqAjaU8MJQQwUvmxieF0OyI/view)
 * [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
   * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 * [AP2: Building a Secure and Interoperable Future for AI-Driven Payments](https://github.com/google-agentic-commerce/AP2)
@@ -1378,12 +1381,15 @@ Artificial Intelligence
 * [내 AI 에이전트를 완벽한 준마로 만드는 비결: 하네스 엔지니어링 | Sungjin Kim](https://www.linkedin.com/pulse/%EB%82%B4-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%A4%80%EB%A7%88%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B9%84%EA%B2%B0-%ED%95%98%EB%84%A4%EC%8A%A4harness-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-sungjin-kim-ph-d--zfi8c)
   * 하네스 엔지니어링은 gitignore와 유사한 역할. 무엇을 저장하지 말아야 할지 지정하는 규칙이 없으면 쓸모없는 파일이 쌓여 제대로 사용 불가
 * [Thin Harness, Thick Skills.. The Real Reason for AI Productivity Gaps lucas_flatwhite on X (tweet 2045884392699199975)](https://x.com/lucas_flatwhite/status/2045884392699199975)
-* [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
-  * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
-  * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
 * [하네스 엔지니어링 Claude · Codex · Gemini 셋이서 한 작업 — AI Dev Team 데모 - YouTube](https://www.youtube.com/watch?v=ly5CUJwelFc)
   * [agent-harness-tutorial | pandas-studio](https://github.com/pandas-studio/agent-harness-tutorial)
   * 판다스 스튜디오 채널. Claude Code(PM, 라우팅+컨텍스트 관리)+Gemini CLI(Researcher, 라이브러리/docs 검색)+Codex CLI(Reviewer, verdict+NEED RESEARCH) 3개 CLI를 tmux 3-pane + 로그 파일 공유 메모리로 묶어 운영하는 데모. 30분 hands-on lab 제공
+* [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
+  * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
+  * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
+* [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
+  * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
+  * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
@@ -3313,6 +3319,9 @@ Artificial Intelligence
 * [Top 10+ Open Source No-Code AI Tools with the Most GitHub Stars | by Deep concept | Let’s Code Future | Dec, 2025 | Medium](https://medium.com/lets-code-future/top-10-open-source-no-code-ai-tools-with-the-most-github-stars-ef39a71cfddd)
 * [AI 한테 UI 센스 심어주는 도구 3가지 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_rams-design-engineer-for-claude-code-activity-7418645099066175488-PrGF)
 * [검색 말고 ‘리서치’ 잘하는 사람이 쓰는 도구 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/3604/)
+* [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
+* [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
+  * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
 * [AI Workflow - Supercharge your AI coding session - AI Workflow](https://ai-workflow.xiaominglab.com/en/)
   * [ai-workflow: 🚀 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools. Stop re-teaching your AI the same things. One command → instant domain expertise. Marketing, SEO, Trading, Video, PM workflows included](https://github.com/nicepkg/ai-workflow)
 * [Alt - AI Lecture Notetaker](https://www.altalt.io/)
@@ -3620,9 +3629,6 @@ Artificial Intelligence
 * [UI Skills - A set of skills to polish interfaces built by agents](https://www.ui-skills.com/) 에이전트가 따라야 할 UI 제약 조건
 * UXCanvas.ai [AI UI/UX Design Agent | UXCanvas.ai | Idea To UI/UX Design In Seconds](https://uxcanvas.ai/)
   * [바이브 코딩을 지원하는 여러 툴들이 있지만 UX 디자인을 해주는 특화된 툴이 있네요](https://www.linkedin.com/posts/duckjungkim_%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%97%AC%EB%9F%AC-%ED%88%B4%EB%93%A4%EC%9D%B4-%EC%9E%88%EC%A7%80%EB%A7%8C-ux-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%ED%99%94%EB%90%9C-%ED%88%B4%EC%9D%B4-activity-7323698556458979329-11zF/)
-* [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
-* [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
-  * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
 * [vibecode-pro-max-kit: A spec-driven coding harness for AI agents — Your AI forgets. This remembers](https://github.com/withkynam/vibecode-pro-max-kit)
   * AI 코딩 도구를 spec-driven 엔지니어링 팀으로 전환하는 하네스. RIPER-5 워크플로우(Research→Innovate→Plan→Execute→Update Process), 단계별 명시적 사용자 승인, phase-locked 도구 제한(research read-only, planning은 process/만 쓰기). 도메인 라우팅 자기 개선 컨텍스트, 디스크 영속 자율 실행(컨텍스트 압축 후에도 생존), 자동 체인 self-review→tester→code reviewer→simplifier→git manager 품질 파이프라인. 12 에이전트·32 스킬·7 라이프사이클 훅. Claude Code/Codex CLI/Cursor/Windsurf/Antigravity/OpenCode/Copilot 호환. 30초 curl 설치+`vc-setup`. Flowser(flowser.ai) 제작, 525 stars, MIT
 * [VibeDoc: 🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds](https://github.com/JasonRobertDestiny/VibeDoc)
@@ -5253,6 +5259,8 @@ Artificial Intelligence
       * [claudepilot-openclaw/CLAUDEPILOT-STANDARD.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-STANDARD.md)
       * [claudepilot-openclaw/CLAUDEPILOT-PRO.md at main · GuyMannDude/claudepilot-openclaw](https://github.com/GuyMannDude/claudepilot-openclaw/blob/main/CLAUDEPILOT-PRO.md)
   * [clawclones.com — OpenClaw Clones Directory](https://clawclones.com/)
+  * [clawhip: claw + whip — Event-to-channel notification router that bypasses gateway sessions to avoid context pollution](https://github.com/Yeachan-Heo/clawhip)
+    * 이벤트→채널 알림 라우터. 게이트웨이 세션을 우회해 컨텍스트 오염 방지. OpenClaw 생태계용 알림 인프라. Yeachan-Heo
   * [ClawManager — Cluster-Scale OpenClaw Management](https://yuan-lab-llm.github.io/ClawManager/)
     * [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager)
   * [Claw_Cowork: Your Personal AI Workspace, Running Locally](https://github.com/Sompote/Claw_Cowork)
@@ -5558,6 +5566,8 @@ Artificial Intelligence
   * [Moving Towards Spec-Driven Development | Real Python Podcast #277 - YouTube](https://www.youtube.com/watch?v=-liy2as6zQI)
     * [SDD Spec Driven Development](https://notebooklm.google.com/notebook/eca0c6b4-f656-42c7-b1a4-e5b3a350c98e)
   * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
+  * [kiro-cli-workshop-pdf: AWS Kiro CLI 워크샵 18챕터 180슬라이드 PDF](https://github.com/whchoi98/kiro-cli-workshop-pdf)
+    * AWS의 agentic AI 개발 도구 Kiro CLI를 다루는 종합 워크샵. 한국어/영어 PDF, 챕터당 30-45분. Foundations(CH01-06: 소개·설치·인증·모델·채팅·세션) → Core(CH07-11: 컨텍스트·터미널 UI·권한·steering·커스텀 에이전트) → Advanced(CH12-17: 서브에이전트·스킬·MCP·훅·헤드리스·자동완성) → Reference(CH18: 명령 레퍼런스). 50명 이하 기술 세미나용, 입문→고급. CC BY 4.0
 * [LocalGPT: Local-first AI assistant with 3D world builder and autonomous task execution](https://github.com/localgpt-app/localgpt)
 * [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
   * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
