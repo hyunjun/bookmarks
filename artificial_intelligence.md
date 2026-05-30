@@ -5366,6 +5366,9 @@ Artificial Intelligence
   * [rivonclaw: OpenClaw variant](https://github.com/gaoyangz77/rivonclaw)
   * [sample-OpenClaw-on-AWS-with-Bedrock](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock)
     * [AWSKRUG- AWS한국사용자모임 | 🦞 OpenClaw on AWS with Bedrock - 나만의 AI 비서를 AWS에 올려보자 | Facebook](https://www.facebook.com/groups/awskrug/posts/25272014385807247)
+  * [SeekerClaw — AgentOS for your Android phone](https://seekerclaw.xyz/)
+    * [SeekerClaw](https://github.com/sepivip/SeekerClaw)
+    * Android 14+(Solana Seeker 폰 최적화) 기반 24/7 AI 에이전트 OS. Telegram/Discord 통해 Claude Opus·GPT-5 등 OpenRouter 100+ 모델 접근. 폰 제어(GPS·카메라·SMS·통화·연락처·클립보드·TTS), 모니터링(받은편지함·캘린더·스마트홈·청구서·Solana 지갑), 자동화(리마인더·일일 브리핑·스마트홈·파일·리서치). 크립토 기능—Solana 지갑(Jupiter swap·DCA·limit order·NFT 추적), Seed Vault 하드웨어 보안. 자기 진단(에러·권한·API 실패 plain language 보고). 35+ 내장 스킬, 커스텀 추가 가능
   * [serverless-openclaw: Run OpenClaw AI agent on-demand on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month](https://github.com/serithemage/serverless-openclaw)
     * [AWSKRUG- AWS한국사용자모임 | 제 개인 작업 하나 공유합니다 | Facebook](https://www.facebook.com/groups/awskrug/permalink/25162912963384057/)
   * [SkyClaw — Hyper-lean AI Agent Runtime](https://skyclaw.vn/)
