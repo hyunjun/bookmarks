@@ -5220,12 +5220,6 @@ NLP
 
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence)
-* [faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
-  * [카탈로그 내 중복 상품 찾기의 자동화 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/matching-duplicate-items-to-improve-catalog-quality-9ed4455b4ed3)
-    * [컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2242/)
-  * [FaissImputer: Missing data imputation using Faiss for enhanced data quality](https://github.com/ScionKim/FaissImputer)
-    * [Introducing FaissImputer: Impute Missing Values using Faiss | by 김학길 | Aug, 2023 | Medium](https://medium.com/@scionkim_71044/introducing-faissimputer-impute-missing-values-using-faiss-a74a8b011b80)
-  * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
 * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
@@ -5259,6 +5253,15 @@ NLP
 * [Vector Databases and Large Language Models // Samuel Partee // LLMs in Production Conference - YouTube](https://www.youtube.com/watch?v=GJDN8u3Y-T4)
 * [(8) 고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%EA%B3%A0%EC%B0%A8%EC%9B%90-%EC%9E%84%EB%B2%A0%EB%94%A9%EC%97%90%EC%84%9C-%EB%B2%A1%ED%84%B0-%EC%9C%A0%EC%82%AC%EB%8F%84%EB%A5%BC-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-jin-hyung-park-bvjsc/)
 * [string-similarity: Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance](https://github.com/aceakash/string-similarity)
+* [faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+  * [카탈로그 내 중복 상품 찾기의 자동화 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/matching-duplicate-items-to-improve-catalog-quality-9ed4455b4ed3)
+    * [컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2242/)
+  * [FaissImputer: Missing data imputation using Faiss for enhanced data quality](https://github.com/ScionKim/FaissImputer)
+    * [Introducing FaissImputer: Impute Missing Values using Faiss | by 김학길 | Aug, 2023 | Medium](https://medium.com/@scionkim_71044/introducing-faissimputer-impute-missing-values-using-faiss-a74a8b011b80)
+  * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
+* [turbovec: A vector index built on TurboQuant. Compress 1M 1536-dim vectors into 1 GB. Faster than FAISS](https://github.com/RyanCodrai/turbovec)
+  * [turbovec 메모리·속도·프라이버시를 모두 잡은 고성능 벡터 검색 엔진 | digitalbourgeois](https://digitalbourgeois.tistory.com/3143)
+  * Google Research TurboQuant 알고리즘 기반 Rust 벡터 인덱스+Python 바인딩. 1536차원 벡터 1천만 개를 31GB(FP32)→4GB로 16배 압축, 2/4비트 표현. SIMD 커널(NEON/AVX-512BW)로 FAISS IndexPQFastScan 대비 ARM 12-20% 빠름·x86 동급. 별도 학습 없이 온라인 인덱싱, IdMapIndex로 O(1) 삭제. id allowlist 필터를 SIMD 32벡터 블록 단위 처리해 SQL/BM25/ACL 하이브리드 검색 적합. LangChain/LlamaIndex/Haystack/Agno 통합. `pip install turbovec`/`cargo add turbovec`. 6단계 파이프라인(정규화→랜덤 회전→TQ+ 좌표 보정→Lloyd-Max 양자화→비트 패킹→길이 보정 점수). 로컬/에어갭 RAG 적합. MIT
 
 # Summary, Summarize
 
