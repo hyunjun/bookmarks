@@ -4276,6 +4276,9 @@ Artificial Intelligence
   * [ai-sales-team-claude: AI-powered sales automation for Claude Code](https://github.com/zubair-trabzada/ai-sales-team-claude)
     * 커맨드라인 전문 영업 운영 시스템. 5개 병렬 분석 에이전트로 프로스펙트 감사, BANT/MEDDIC 리드 스코어링(0-100), 의사결정자 매핑, 이메일 시퀀스, 미팅 브리프, 제안서·PDF 리포트 생성
   * [ai-website-cloner-template: Pixel-perfect website cloning framework using Claude Code](https://github.com/JCodesMore/ai-website-cloner-template)
+  * [andrej-karpathy-skills: Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
+    * [Karpathy-Inspired Claude Code Guidelines LLM 코딩 품질을 높이기 위한 실전 가이드 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3137)
+    * Andrej Karpathy 관찰 기반 LLM 코딩 4원칙 CLAUDE.md. 1) Think Before Coding—추측 대신 모호함 명시·옵션 제시 2) Simplicity First—senior dev이 over-engineered로 볼 만한 건 이미 그러함 3) Surgical Changes—요청에 정당화되는 줄만 변경, 기존 스타일 보존 4) Goal-Driven Execution—"버그 수정" 대신 "재현 실패 테스트 작성 후 통과시키기" 같은 성공 조건 재구성. 효과 신호: 작은 diff·요청 없는 리팩토링 감소·코드 작성 전 명확화 질문·리뷰 친화 PR. drop-in CLAUDE.md 또는 Claude Code 플러그인. "LLM이 생각하는 방식을 먼저 바꾸는 것"
   * [ARIS: Auto-Research-In-Sleep — autonomous ML research workflow for Claude Code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
   * [autoskills: Auto-install best AI skills for your project](https://github.com/midudev/autoskills)
     * [autoskills — Auto-install best AI skills for your project](https://www.autoskills.sh/)
@@ -5235,6 +5238,8 @@ Artificial Intelligence
       * Termux로 루트/부트로더 해제 없이 Android를 Linux PC화. Ollama 로컬 모델, Claude Code, Google Antigravity, Cursor AI, Blender, 게임까지. OnePlus 6T 검증
     * [OpenClaudeLinux](https://github.com/AbuZar-Ansarii/OpenClaudeLinux)
     * [Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.termux/)
+  * [alphaclaw: The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required](https://github.com/chrysb/alphaclaw)
+    * Node.js OpenClaw 래퍼. 셋업 위저드(비밀번호 보호 웹 대시보드, CLI 불필요), 자가 치유 watchdog(크래시·크래시루프 복구·Telegram/Discord/Slack 알림), Git 기반 롤백(시간당 자동 커밋), 브라우저 옵저버빌리티. Gateway Manager(OpenClaw 게이트웨이 자식 프로세스 관리·프록시), Google Workspace OAuth(Gmail/Calendar/Drive/Docs), 멀티 에이전트 채널 오케스트레이션, anti-drift 부트스트랩 프롬프트 주입, 파일 탐색기·cron·웹훅·노드 관리. Docker/Linux 5분 내 첫 배포 목표. 락인 없음(제거해도 OpenClaw 계속 동작). MIT, ~1.4k stars
   * [Apex — Your Digital Twin](https://apex.host/)
     * 자율 AI 에이전트 플랫폼. 이메일·캘린더·콘텐츠·비즈니스 모니터링을 24/7 자동화. 셀프 호스팅, Slack/WhatsApp 통합
   * [awesome-openclaw-agents: 187 production-ready AI agent templates for OpenClaw](https://github.com/mergisi/awesome-openclaw-agents)
