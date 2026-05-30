@@ -20,6 +20,8 @@ Artificial Intelligence
   * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
 * [우아한형제들 AI PM이 하는 일 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=zYcx38Wejbs)
   * [우아한형제들 AI PM의 역할: 기술과 비즈니스를 잇는 실행력 (우아콘2025)](https://livewiki.com/ko/content/woowahan-ai-pm)
+* [AI는 왜 자꾸 틀리는가 | 김영욱, 요즘IT](https://yozm.wishket.com/magazine/detail/3775/)
+  * AI Product Management 시리즈 1편: 결정론(deterministic)→확률론(probabilistic) 전환. 2022 Air Canada 챗봇 오답 소송(승소·$812 배상·챗봇 폐기) 사례. PM 3대 문제: 1) 테스트 붕괴—pass/fail 대신 Eval로 허용 범위 확인 2) 침묵하는 그럴듯한 실패—할루시네이션이 자신만만하게 보임 3) 토큰 가격 비예측—사용자 1명이 비용 폭증 유발. 3대 원칙: 100% 정확도를 KPI로 삼지 말고 오류 분포·심각도 측정/소스·신뢰도·에스컬레이션 노출로 신뢰 설계/론칭은 시작점—드리프트 모니터링 필수. 결론: AI PM은 "확률과 함께 사는 법을 설계하는 사람"
 * [Meta AI Infrastructure Overview (1)](https://iodized-hawthorn-94a.notion.site/Meta-AI-Infrastructure-Overview-1-27754c8e1f0a80359634c2e3c47d9e77)
 * [납품업체 75%, ‘사람보다 AI와 협상하는 게 속 편하다’ - YouTube](https://www.youtube.com/watch?v=aC_59ueNMoI)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
@@ -3418,6 +3420,9 @@ Artificial Intelligence
   * [keploy: API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!](https://github.com/keploy/keploy)
   * [AI 시대 개발자를 위한 필수 테스트 도구, Keploy 완전 정복](https://digitalbourgeois.tistory.com/1964)
 * [Khroma - AI Color Tool for Designers | Discover and Save Color Palettes](https://www.khroma.co/)
+* [Knowledge Graph System Documentation](https://aaronsb.github.io/knowledge-graph-system/)
+  * [knowledge-graph-system](https://github.com/aaronsb/knowledge-graph-system)
+  * 문서 ingestion으로 지식 그래프 구축·쿼리 플랫폼. PostgreSQL+Apache AGE(Neo4j에서 마이그레이션, ADR-016), openCypher+커스텀 DSL. AI 개념 추출(텍스트+이미지 멀티모달), 동적 관계 분류·통합 사이클. 인터페이스: `kg` CLI, MCP 서버, REST API, 웹 워크스테이션 UI, FUSE 파일시스템 드라이버. 핵심 개념—모순 해소를 통한 확률적 진실 수렴(ADR-044), 극성 축 삼각측량(ADR-058), 의미적 다양성=진위 신호(ADR-063), 어휘 "꿈꾸기" 확장-통합 사이클(ADR-052), 자기조직화 어닐링 온톨로지(ADR-200). Docker operator 패턴 컨테이너화(ADR-061), RBAC·OAuth 2.0·암호화 API 키. 107 ADR 문서화
 * [k-skill: 한국인을 위한 스킬 모음집](https://github.com/NomaDamas/k-skill)
   * [케이-스킬 : 한국인을 위한 스킬 모음집 | GeekNews](https://news.hada.io/topic?id=27881)
   * Claude Code, Codex, OpenCode 등 AI 코딩 에이전트용 한국 특화 스킬 컬렉션. SRT 예매, 서울 지하철 도착 정보, KBO 경기 결과, 로또 당첨 확인, HWP 문서 변환, 우편번호 검색 등 지원
@@ -3618,6 +3623,8 @@ Artificial Intelligence
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
   * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
+* [vibecode-pro-max-kit: A spec-driven coding harness for AI agents — Your AI forgets. This remembers](https://github.com/withkynam/vibecode-pro-max-kit)
+  * AI 코딩 도구를 spec-driven 엔지니어링 팀으로 전환하는 하네스. RIPER-5 워크플로우(Research→Innovate→Plan→Execute→Update Process), 단계별 명시적 사용자 승인, phase-locked 도구 제한(research read-only, planning은 process/만 쓰기). 도메인 라우팅 자기 개선 컨텍스트, 디스크 영속 자율 실행(컨텍스트 압축 후에도 생존), 자동 체인 self-review→tester→code reviewer→simplifier→git manager 품질 파이프라인. 12 에이전트·32 스킬·7 라이프사이클 훅. Claude Code/Codex CLI/Cursor/Windsurf/Antigravity/OpenCode/Copilot 호환. 30초 curl 설치+`vc-setup`. Flowser(flowser.ai) 제작, 525 stars, MIT
 * [VibeDoc: 🚀 Your AI Product Manager & Architect - Transform ideas into complete development plans with AI coding prompts in 60-180 seconds](https://github.com/JasonRobertDestiny/VibeDoc)
 * [VibeMon - AI Agent Monitor](https://vibemon.io/)
   * [vibemon-app: AI Agent Monitoring Dashboard](https://github.com/nalbam/vibemon-app)
