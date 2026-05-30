@@ -1133,6 +1133,12 @@ Artificial Intelligence
 * [Sirchmunk](https://modelscope.github.io/sirchmunk-web/)
   * [sirchmunk](https://github.com/modelscope/sirchmunk)
   * 벡터 DB 없이 Monte Carlo 샘플링 + ReAct 에이전트로 원본 데이터에서 실시간 검색하는 에이전틱 검색 엔진. MCP, REST API, CLI, Web UI 지원
+* [SkillOpt: Executive Strategy for Self-Evolving Agent Skills | Microsoft](https://microsoft.github.io/SkillOpt/)
+  * [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://github.com/microsoft/SkillOpt)
+  * [2605.23904 SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)
+  * [LLM 에이전트 스킬을 안정적으로 학습시키는 텍스트 최적화 방법, SkillOpt | digitalbourgeois](https://digitalbourgeois.tistory.com/3146)
+  * [Suk Hyun K. - SkillOpt 마이크로소프트 자기진화 AI 정리 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-regstwtmerxgsqsuiktxu-suyqzctfqupiai-ugcPost-7465186655478374401-QuFX/)
+  * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
@@ -3160,6 +3166,9 @@ Artificial Intelligence
 * [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
   * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
   * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
+* [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
+  * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
+  * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
 * [Xalgorix — Self-Hosted AI Security Testing Platform](https://www.xalgorix.com/)
   * [xalgorix: AI Security Testing Platform](https://github.com/xalgord/xalgorix)
   * 셀프 호스트 AI 보안 테스트 플랫폼(127.0.0.1:9137 웹 대시보드). 8+ LLM 프로바이더 BYO(OpenAI/Anthropic/DeepSeek/Gemini/Groq/Ollama/MiniMax/OpenAI 호환), 22단계 방법론(정찰→리포팅), 3 모드(Single Target·DAST 브라우저·Wildcard/멀티 타겟). 실시간 WebSocket 이벤트 피드, CVSS 발견 관리, 브랜드 PDF 리포트, 스캔 영속/재개, 브라우저 자동화, Discord 알림, AgentMail 통합, 레이트 리밋·안전 제어. MIT, 권한 있는 시스템에만 사용
@@ -3421,6 +3430,9 @@ Artificial Intelligence
   * [Introducing 'Let's Talk': An AI-Driven Chat Component for Technical Blogs | TheDataGuy](https://thedataguy.pro/blog/lets-talk-ai-chat-component/)
 * [llm-answer-engine: Perplexity Inspired Answer Engine](https://github.com/developersdigest/llm-answer-engine)
 * [llm-api-engine: Build and deploy AI-powered APIs in seconds](https://github.com/developersdigest/llm-api-engine)
+* [llm-checker: Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration](https://github.com/Pavelevich/llm-checker)
+  * [하드웨어에 맞는 LLM을 자동으로 추천해주는 LLM Checker 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3151)
+  * 하드웨어 자동 감지(CPU/GPU/RAM, Apple Silicon/CUDA/ROCm/Intel Arc) 후 4D 점수(Quality·Speed·Fit·Context)로 모델 추천. SQLite 스냅샷 229 Ollama 모델·7,176 변형, `sync`로 갱신. 실제 Ollama 사이즈 기준 메모리 캘리브레이션, MoE 활성 파라미터 인식, 양자화 자동 선택. `ai-run`은 머신에서 실제 tok/s 측정, 프롬프트 평가→정책 파일 생성으로 팀/CI-CD 라우팅. Claude Code MCP 서버, JSON/CSV/SARIF 컴플라이언스 내보내기. `npm i -g llm-checker`. Node 16+, NPDL-1.0
 * [llm-newsletter-kit-core: An extensible framework to automate your entire newsletter workflow. Handles data collection, LLM-based content analysis, and email generation, letting you focus on your unique domain logic](https://github.com/kimhongyeon/llm-newsletter-kit-core)
   * [고고학 출신 개발자가 만든 LLM 기반 뉴스레터 자동화 키트 | GeekNews](https://news.hada.io/topic?id=24900)
 * [llmfit: 497 models. 133 providers. One command to find what runs on your hardware](https://github.com/AlexsJones/llmfit)
@@ -4273,6 +4285,10 @@ Artificial Intelligence
     * [GitHub - brightdata/skills | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-brightdataskills-share-7455723365484453888-6nXa)
     * Claude Code용 Bright Data 웹 인프라 통합 플러그인. 13개 스킬로 웹페이지→마크다운 스크래핑, Google 검색 구조화, 40+ 사이트 데이터 추출, 60+ MCP 도구. 봇 감지·CAPTCHA 우회
   * [CCAutoRenew: Never Miss a Claude Code Renewal Window Again!](https://github.com/aniketkarne/CCAutoRenew/)
+  * [cc-deck: Claude Code session browser and task manager](https://github.com/sysnet4admin/cc-deck)
+    * [cc-deck Claude Code 세션을 한눈에 | kuberneteslab](https://kuberneteslab.dev/ko/blog/cc-deck/)
+    * [Claude Code 세션 관리가 불편했던 분들에게... | InfraEngineer Facebook](https://www.facebook.com/groups/InfraEngineer/posts/4290250021289766)
+    * fzf 기반 TUI Claude Code 세션 브라우저. 압축 요약 대신 마지막 입력으로 표시·실시간 fuzzy 필터링. memory `type: project` TODO 자동 상단 핀, `Ctrl-K` 수동 핀, `Ctrl-R` 완료 표시. Smart Resume—원본 디렉토리 자동 이동, 4 모드 토글(`claude`/`claude-api`/`--dangerously-skip-permissions`). `cc-deck -q` 단발 질문(7일 자동 삭제). `Ctrl-G` 무손실 스냅샷 정리(305MB→122MB), `Ctrl-E` 최근 N턴만 유지+gzip 백업(77MB→0.8MB). mtime 캐시 ~0.04s. macOS/Linux/Windows. Hoon Jo, MIT
   * [cc-lens: Claude Code usage analytics dashboard](https://github.com/Arindam200/cc-lens)
     * ~/.claude/ 데이터를 시각화하는 로컬 분석 대시보드. 세션·비용·도구·활동 실시간 모니터링. API 키 불필요
   * [cctray: macOS menu bar app for monitoring Claude Code usage](https://github.com/goniszewski/cctray)
