@@ -1704,6 +1704,11 @@ Deep Learning
 * [NeRF의 단점과 후속 연구 소개 - 모두의연구소](https://modulabs.co.kr/blog/nerf-followup/)
 * [NeRF 구현 톺아보기 (feat. Camera to World Transformation)](https://velog.io/@gjghks950/NeRF-%EA%B5%AC%ED%98%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-feat.-Camera-to-World-Transformation)
 * [평범한 서버 개발자의 3D 생성 모델 연구 맛보기 — Dream Fusion by Google | by scalalang2 | 취미로 논문 읽는 그룹 | May, 2024 | Medium](https://medium.com/rate-labs/%ED%8F%89%EB%B2%94%ED%95%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-3d-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-%EC%97%B0%EA%B5%AC-%EB%A7%9B%EB%B3%B4%EA%B8%B0-dream-fusion-by-google-11c3370920ae)
+* [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering CVPR 2024](https://guanjunwu.github.io/4dgs/)
+  * [4DGaussians: 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://github.com/hustvl/4DGaussians)
+  * [논문 리뷰 4D Gaussian Splatting CVPR 2024 Dynamic Scene 랜더링 | xoft](https://xoft.tistory.com/54)
+  * [조지훈 - 4D Gaussian Splatting: 3D 컨텐츠의 종말 혹은 시작 | Facebook](https://www.facebook.com/watch?v=1512033510369256)
+  * Huazhong University of Science and Technology + Huawei. 3D Gaussian + 4D 신경 voxel 통합 표현. HexPlane 영감 분해 인코더로 4D 공간(3D+시간)을 6개 2D 평면(XY-ZT/XZ-YT/YZ-XT)으로 분해, 경량 MLP가 timestamp별 Gaussian 변형(위치·회전·스케일링) 예측. 30분 학습으로 고해상도 동적 장면 재구성, RTX 3090에서 800×800 해상도 82 FPS. 2단계 최적화(정적 후 동적 fine-tune), L2 색상 + TV loss. D-NeRF/Nerfies/DyNeRF/HyperNeRF 데이터셋 검증
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
