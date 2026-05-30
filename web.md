@@ -1082,12 +1082,14 @@ Web
 * :user-invalid [CSS 가상 선택자로 폼 밸리데이션 표시하기 — :invalid 대신 :user-invalid – 형우의 웹개발](https://mytory.net/archives/16110)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [Cloudscape Design System](https://cloudscape.design/)
+  * AWS가 2016년부터 개발한 오픈소스 클라우드 UX 디자인 시스템. AWS 웹앱 UX 향상·개발 가속용. Foundation(색상·여백·아이콘) + React 컴포넌트 라이브러리(테스트·접근성·반응형) + 패턴 가이드라인 + 데모. 94 컴포넌트, 62 패턴, 33 데모. 다크/라이트 모드, 테마, 접근성, 반응형. Apache 2.0
+  * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
+  * `grid-template-columns`를 `subgrid`로 지정해서 사용하는 서브그리드를 사용하면 부모 그리드의 값을 서브그리드에서 사용 가능해 레이아웃 내에서 콘텐츠 정렬 가능
 * [CSS Grid Generator](https://cssgridgenerator.io/)
   * [CSS Grid Generator - 드래그 앤 드롭 CSS 그리드 생성기 | GeekNews](https://news.hada.io/topic?id=15829)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
 * [CSS Subgrid](https://web.dev/css-subgrid/)
-  * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
-  * `grid-template-columns`를 `subgrid`로 지정해서 사용하는 서브그리드를 사용하면 부모 그리드의 값을 서브그리드에서 사용 가능해 레이아웃 내에서 콘텐츠 정렬 가능
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [flyonui: 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes](https://github.com/themeselection/flyonui)
