@@ -1085,6 +1085,9 @@ SQL
 * [번역 MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [Login y Logout con NodeJS y MySQL usando jsonwebtokens - YouTube](https://www.youtube.com/watch?v=PRoTFE2RSfQ)
 * [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
+* [We replaced Redis with MySQL for inventory reservations—and it scaled | Shopify Engineering](https://shopify.engineering/scaling-inventory-reservations)
+  * [Shopify, 재고 예약 시스템을 Redis에서 MySQL로 교체 | GeekNews](https://news.hada.io/topic?id=30006)
+  * Emilie Noel, 2026.5.12. Redis와 MySQL 재고 원장 분리로 단일 원자 트랜잭션 불가→오버셀/언더셀 위험. MySQL 8 `SKIP LOCKED`+단위당 1행 모델(위치별 1,000행 캡, 37signals Solid Queue 영감), 복합 PK로 락 2→1 감소, READ COMMITTED로 갭 락 제거, 락 순서 표준화로 데드락 방지, UNION ALL 배치. 진짜 병목은 SQL 튜닝이 아닌 체크아웃 코드 커넥션 점유—`/* conn_tag */` 주석+ProxySQL 집계로 가시성 확보, 읽기 50%·트랜잭션 33% 감소. Shadow Mode 듀얼 라이트 후 점진 컷오버. 2025 블프 분당 $510만 매출, writer CPU <50%, reader <16%. "5년 전엔 불가능했던 게 SKIP LOCKED 같은 신규 기능으로 가능—답은 plumbing에 있음"
 * [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
 * [Upgrading GitHub.com to MySQL 8.0 - The GitHub Blog](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
   * GitHub.com이 성장하면서 단일 MySQL에서 아키텍처를 발전해 오고 있었는데 1,200개 이상의 MySQL 호스트를 8.0으로 업그레이드한 과정
