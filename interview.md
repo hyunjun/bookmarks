@@ -392,6 +392,8 @@ Interview
 * [AI Daddy · AI system design and interview prep](https://www.aidaddy.tech/)
   * [ai-system-design-guide: AI system design guide for engineers building production AI systems and evals](https://github.com/ombharatiya/ai-system-design-guide)
   * Om Bharatiya, MIT. 17챕터 AI 시스템 디자인 레퍼런스—파운데이션·모델 랜드스케이프·학습/적응·추론 최적화·검색·에이전트·메모리·프레임워크·인프라·보안·신뢰성·평가·설계 패턴·케이스 스터디·도구 사용. 110문항 인터뷰 뱅크(답변 프레임워크+화이트보드 연습), 2026.5 모델(Claude Opus 4.7·GPT-5.5·Gemini 3.1 Pro·DeepSeek V4·Llama 4) 커버. 16+ 케이스 스터디(멀티테넌트 SaaS·사기 탐지·음성 헬스케어·MCP 지식 에이전트). Phoenix+Langfuse·LangWatch+Langfuse 평가 가이드 2종, GLOSSARY/COURSES/PATTERNS/TRANSITION_GUIDE(백엔드/QA/PM/EM→AI 전환) 부록. 1.4k stars
+* [aditya - "design a RAG pipeline for 10M docs with zero hallucination" Google L5 인터뷰 문제](https://x.com/adxtyahq/status/2057410759236386866)
+  * 1천만 문서 zero-hallucination RAG 파이프라인 설계가 Google L5 인터뷰에서 출제. 클래식 분산 시스템 질문보다 흥미로운 시스템 디자인 문제로 평가
 * [프론트엔드 백엔드 데이터베이스 전체를 20분만에 보이게 해드립니다. | 바이브코딩 - YouTube](https://www.youtube.com/watch?v=l5z6UNa-ons)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
