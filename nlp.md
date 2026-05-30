@@ -3417,6 +3417,8 @@ NLP
       * [LLMCompiler 2 : AI 시대 코딩 배워야 합니다. AI App Flow를 아시면 무엇을 배워야 하는지 아실 수 있습니다. - YouTube](https://www.youtube.com/watch?v=lBPidxUL8zg)
     * [rag-with-reflection: It shows an advanced RAG with Reflection where LangGraph is used for workflow management](https://github.com/kyopark2014/rag-with-reflection)
       * [LangGraph를 이용하여 기본 RAG를 구현하고, Reflection과 Query Transformation을 이용하여 RAG의 성능을 향상시키는 방법](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_reflection-aws-claude-activity-7246795188537303040-1a3u/)
+    * [rag-multimodal: This shows how to use multimodal RAG using managed OpenSearch](https://github.com/kyopark2014/rag-multimodal)
+      * 표·차트·복잡 레이아웃 PDF를 Bedrock 멀티모달 LLM으로 마크다운 변환→OpenSearch 인덱싱→LangGraph Agent 하이브리드 검색(k-NN+lexical). 페이지→PNG→멀티모달 OCR→parent/child 청킹, S3 메타데이터에 vector ID 저장→S3 삭제 시 Lambda로 OpenSearch 정리. Streamlit UI+OpenSearch MCP, relevance grading. 컨텍스츄얼 임베딩 옵션. CloudFront+installer.py 배포
     * [writing-agent: It shows an intelligent agent based on LangGraph for long form writing](https://github.com/kyopark2014/writing-agent)
       * [LangGraph 기반의 multi-agent는 사람의 글쓰기 사고 과정을 모방한 agent](https://www.linkedin.com/posts/kyoungsu-park-9b9a1068_agent-langgraph-multiagent-activity-7242144172319653889-OpVr/)
   * LangMem [Introduction](https://langchain-ai.github.io/langmem/)
