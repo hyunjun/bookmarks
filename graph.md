@@ -349,6 +349,9 @@ Graph
   * [대규모 관계형 그래프 데이터베이스 LIquid | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1002792)
 * [lisp2dot.awk](http://www0.cs.ucl.ac.uk/staff/ucacbbl/lisp2dot)
 * [MapGraph - Massively Parallel Graph processing on GPUs](http://mapgraph.io/index.html) CUDA
+* [NamiDB | Your graph database lives in your S3 bucket](https://www.namidb.com/)
+  * [namidb: Graph database engine that stores data in object storage. Cypher queries, embedded like DuckDB, multi-tenant by namespace](https://github.com/namidb/namidb)
+  * S3·R2·GCS·Azure Blob·MinIO 등 객체 저장소에 직접 저장하는 그래프 DB. Cypher 쿼리(GQL ISO 39075 계획), Raft/ZooKeeper/etcd 대신 객체 저장소 conditional write로 일관성. 단일 Rust 바이너리—서버/임베디드(`pip install namidb`)/매니지드 클라우드. AI 워크로드(지식 그래프, 에이전트별 namespace, text-to-Cypher) 타깃, RAM 대신 스토리지 기준 가격, idle namespace는 scale-to-zero. v0.5.1, BSL 1.1(3년 후 Apache 2.0). LESAI Corp, Matías Fonseca
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
