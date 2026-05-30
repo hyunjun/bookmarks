@@ -389,6 +389,10 @@ NLP
 * [ART: Agent Reinforcement Trainer - Open-source RL for LLMs](https://github.com/OpenPipe/ART)
   * [How to fine-tune LLMs in 2026 (100% open-source, reward-free RFT) | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_how-to-fine-tune-llms-in-2026-100-open-source-activity-7434989161377558528-Wktz)
   * GRPO+RULER(LLM-as-judge) 조합으로 수동 reward function 없이 LLM 파인튜닝. Multi-turn tool call 네이티브 지원
+* [Orbit: Stable and Efficient Reinforcement Learning for Trillion-Parameter LLMs | SphereLab](https://spherelab.ai/orbit/)
+  * [orbit: Stable and Efficient Reinforcement Learning for Trillion-Parameter LLMs](https://github.com/sphere-ai-lab/orbit)
+  * [임선영 - Orbit: 중국 오픈 RL 효율 시스템, 미국 칩 통제가 만든 "오픈 연구 컨소시엄" | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid0gEd6Qa4bgyx1GfPtVnFLozVDuYNJouCG2DUumBYqbWF7ym2vSArRbwyavBDVgDNdl)
+  * 1조+ 파라미터 LLM RL post-training 메모리 효율 프레임워크. base 모델은 deployment precision(INT4/FP4)로 frozen, 작은 BF16 어댑터(주로 OFT—Orthogonal Finetuning)에만 그래디언트. 8×B200 단일 노드에서 1T+ 모델 RL—cross-node 오케스트레이션 제거, train↔serving precision 일치, bounded train-rollout log-prob drift. SGLang 진화 "RL-native" 시스템, "inference itself is the RL rollout" 철학. DeepGEMM(FP8/FP4)·DeepEP V2(MoE 통신)·CUDA Graph 디코딩 통합. Adapter-First(<0.1% 파라미터)·Rollout-Serving 통합(액터 사본 GPU 30-50% 낭비 제거)·INT4 QAT(BF16 정확도 유지). Kimi-K2.6(~1T)/DeepSeek V4-Flash/V4-Pro(~1.6T)/Qwen3 MoE 검증. DeepSeek·SGLang·Moonshot·Ant Group 기여자 컨소시엄
 * [Fine-Grained Human Feedback으로 LLM을 더 잘 학습 할 수 있는가? | NeurIPS 2023 | 김강민 - YouTube](https://www.youtube.com/watch?v=JATgComUQiw)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
@@ -2956,6 +2960,10 @@ NLP
     * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
       * [DeepSeek-V4 논문 정독: 모델 확장·Sparse Attention·Muon | GeekNews](https://news.hada.io/topic?id=28996)
     * 1.6T MoE(49B 활성), 1M 컨텍스트. Compressed Sparse Attention(CSA) + Heavily Compressed Attention(HCA) 하이브리드. DeepSeek-V3.2 대비 27% FLOPs, KV 캐시 90% 감소. Non-Think/Think High/Think Max 3단계 추론. MMLU-Pro 87.5, LiveCodeBench 93.5, SWE Verified 80.6. MIT
+  * [ds4 (DwarfStar 4): DeepSeek 4 Flash local inference engine for Metal and CUDA | antirez](https://github.com/antirez/ds4)
+    * [A few words on DS4 | antirez](https://antirez.com/news/165)
+    * [DS4에 대한 몇 마디 | GeekNews](https://news.hada.io/topic?id=29541)
+    * antirez(Salvatore Sanfilippo) 자작 DeepSeek V4 Flash 특화 네이티브 추론 엔진. GGUF/llama.cpp 래퍼가 아닌 self-contained. Metal 주력(96/128GB MacBook), NVIDIA CUDA(DGX Spark), AMD ROCm(별도 브랜치). DS4 전용 로딩·프롬프트 렌더링·툴 호출·KV 상태(RAM/디스크), HTTP 서버 API, 통합 코딩 에이전트. GGUF/imatrix 생성 도구, 품질·속도 테스트. 512GB Mac Studio 클래스에서 DS4 PRO 실험 지원. C 64.2%, MIT
 * [Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production](https://github.com/langgenius/dify)
   * [김헌기 - AI 및 LLM(Large Language Model) 분야에서 최근에 주목받고 있는 오픈소스 플랫폼인... | Facebook](https://www.facebook.com/hnki0104/posts/pfbid0eWeiS8tCGar1J59MuyLNJtLtjiVQzqC78b6rA74LnfVMietaCZEa95uG83tMrrvMl)
 * [distilabel: ⚗️ AI Feedback framework for scalable LLM alignment](https://github.com/argilla-io/distilabel)
@@ -3585,6 +3593,9 @@ NLP
     * [주요 목표는 MacBook에서 4비트 양자화를 사용하여 LLaMA을 실행](https://www.linkedin.com/posts/activity-7040496097366065152-4cn3)
     * [Zero to Hero LLMs with M3 Max BEAST - YouTube](https://www.youtube.com/watch?v=0RRsjHprna4)
     * [Understanding and Implementing KV Cache for Efficient LLM Inference](https://kolosal.ai/articles/LLM-Optimization/Understanding-and-Implementing-KV-Cache-for-Efficient-LLM-Inference)
+    * [What's in a GGUF, besides the weights - and what's still missing? | NobodyWho](https://nobodywho.ooo/posts/whats-in-a-gguf/)
+      * [GGUF에는 가중치 외에 무엇이 들어 있고, 아직 무엇이 빠져 있나? | GeekNews](https://news.hada.io/topic?id=29558)
+      * llama.cpp GGUF 파일 형식 분석. 단일 파일 번들 장점(safetensors+JSON 분산 또는 OCI ollama 대비). 현재 포함: Jinja2 채팅 템플릿(`tokenizer.chat_template`, transformers는 python jinja2/llama.cpp는 자체/NobodyWho는 minijinja), 특수 토큰(eos·bos·turn marker), 샘플러 설정·체인 순서(`general.sampling.sequence` 신규). 누락: 1) 도구 호출 형식(Qwen3·Qwen3.5·Gemma4 모델별 다른 구문, 하드코딩 파서 필요—번들 grammar 표준화 후보) 2) `think_token`(HF 업스트림에 있지만 GGUF 변환 시 누락) 3) projection 모델(멀티모달은 별도 ~1GB GGUF 파일로 단일 파일 철학 깨짐) 4) 지원 기능 리스트(이미지·툴 콜·thinking 블록 감지 표준 부재). "개방·확장 가능 형식" 평가, 커뮤니티 강화 옹호
   * [LLAMAFACTORY: Easy and Efficient LLM Fine-Tuning](https://www.linkedin.com/posts/kalyanksnlp_llms-generativeai-nlproc-activity-7177129541763563521-RZZv/)
     * [Easy and Efficient LLM Fine-Tuning with LLAMAFACTORY](https://blog.akmmusai.pro/llamafactory-unified-efficient-fine-tuning-of-100-language-models)
   * [LlamaGym: Fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
@@ -3695,6 +3706,8 @@ NLP
 * [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning](https://github.com/mlabonne/llm-datasets)
 * [llm_distillation_playbook: Practical best practices for distilling large language models](https://github.com/predibase/llm_distillation_playbook)
+* [llm_engineering: Repo to accompany my mastering LLM engineering course | Ed Donner](https://github.com/ed-donner/llm_engineering)
+  * Ed Donner의 8주 LLM 엔지니어링 마스터링 강의 동반 레포. week1~week8 폴더로 점진적 자율 Agentic AI 솔루션 구축. Jupyter Notebook 90.2%·Python 8.2%, MIT, 6.3k stars
 * [llm-engineer-toolkit: A curated list of 120+ LLM libraries category wise.](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
 * [LLM-Finetuning: LLM Finetuning with peft](https://github.com/ashishpatel26/LLM-Finetuning)
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
@@ -4991,6 +5004,8 @@ NLP
     * Cost → At scale and over time, SLMs will likely be cheaper
     * Task specificity → SLMs will likely be better at very specific tasks, LLMs will be better at handling a variety of tasks
     * Privacy → SLMs can run locally, meaning data doesn’t go through an external API
+* [2506.06941 The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/abs/2506.06941)
+  * Apple, NeurIPS 2025. Large Reasoning Models(LRM)이 thinking trace 내며 답하지만 실제 능력·스케일링 이해 부족. 수학·코딩 벤치는 contamination 가능. 통제 가능한 puzzle 환경으로 난이도 조절하며 최종 답+중간 추론 분석. 발견: ① 특정 복잡도 넘으면 정확도 완전 붕괴 ② 반직관적—복잡도↑에 따라 reasoning effort↑하다가 임계점 후 토큰 예산 남았는데도↓ ③ LRM vs LLM 동일 추론 컴퓨트 3구간—저복잡도(LLM 우위), 중간(LRM 우위), 고(둘 다 붕괴) ④ 정확 계산 어려움·명시적 알고리즘 미사용·스케일 간 일관성 결여. "thinking" 본질 의문 제기
 * [2507.18546v1 GLiNER2: An Efficient Multi-Task Information Extraction System with Schema-Driven Interface](https://arxiv.org/html/2507.18546v1)
   * [You should be using BERT-based SLMs. Because they are tiny! (And can be better at specific tasks than large proprietary models.) GLiNER2, released by Fastino is a SLM fine-tuned for structured data… | Mary Newhauser | 70 comments](https://www.linkedin.com/posts/mary-newhauser_you-should-be-using-bert-based-slms-because-activity-7397287634982719489-CzqD)
 * [2508.15260 Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
@@ -6014,6 +6029,8 @@ NLP
 * [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=_K7ZuZi0gXE)
 * [고차원 임베딩에서 벡터 유사도를 파헤치기 | LinkedIn](https://www.linkedin.com/pulse/%25EA%25B3%25A0%25EC%25B0%25A8%25EC%259B%2590-%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%25A9%25EC%2597%2590%25EC%2584%259C-%25EB%25B2%25A1%25ED%2584%25B0-%25EC%259C%25A0%25EC%2582%25AC%25EB%258F%2584%25EB%25A5%25BC-%25ED%258C%258C%25ED%2597%25A4%25EC%25B9%2598%25EA%25B8%25B0-jin-hyung-park-bvjsc/) 임베딩 기반 검색에서 높은 유사도 점수가 얼마나 중요한 시그널이 될 수 있는지
 * [임베딩의 이론과 실무: 한계와 효율을 동시에 바라보기](https://www.linkedin.com/pulse/%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9D%98-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EB%AC%B4-%ED%95%9C%EA%B3%84%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B8%B0-%EB%8C%80%EA%B3%A4-%EC%9C%A0-gk0ic)
+* [2605.22391 Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings](https://arxiv.org/abs/2605.22391)
+  * Jakub Radzikowski·Josef Chen, 2026.5.21. 다국어 레시피 코퍼스(영·중·러·베·스·터·인도·독·인도영, 11소스 414만 레시피)에서 처음부터 재학습한 3개 형제 skip-gram ingredient embedding. LLM 정규화로 1,790개 정식 ingredient. 그래프 2종: ingredient-ingredient NPMI 동시발생(203,508 엣지) + 타입 FlavorDB ingredient-compound(80,019 엣지, 15 카테고리 2,247 컴파운드 노드). Metapath2Vec 3변형(동일 아키텍처, 랜덤 워크 스키마만 다름): Cooc(동시발생만), Chem(타입 컴파운드만), Core(혼합 비율 조절). 화학-레시피 컨텍스트 스펙트럼상 다른 위치
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
