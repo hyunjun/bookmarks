@@ -304,6 +304,8 @@ App
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
+* [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
+  * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
