@@ -459,6 +459,8 @@ Politics
 * [버니 샌더스는 민주당의 후보가 될 수 있을까? 샌더스의 세 가지 난제(유색인종, 엘리자베스 워런, 75)](http://santa_croce.blog.me/220532214569)
 * [깊어지는 미국 공화당의 고민: 루비오가 과연 트럼프와 카슨을 누를 수 있을까?](http://santa_croce.blog.me/220531270273)
 * [美 신안보전략이 드러낸 균열…한국에 닥친 '힘의 공백'과 3가지 생존 경로](https://v.daum.net/v/20251206180339956)
+* [Jake Deschain - 호르무즈 통제권과 미국 본토 5대 인프라 취약점 분석 | Facebook](https://www.facebook.com/unattached/posts/pfbid0ookrfVrNffUM62P4vRtFRrd5LMrCgsX9a38Qjpu5xAyq7s18nJYc6Seazh7rDz6Sl)
+  * 미국 타격으로 자제 명분이 사라진 이란이 호르무즈 통제 시작. 트럼프가 중간선거 앞두고 Epstein 압박 회피 위해 쿠바·베네수엘라·수리남·멕시코 카르텔 표적할 수 있으나 본토 보복 가능성. 5대 취약점: 1) Power grid—농촌 무방비 변전소 LPT, ~9개 동시 파괴 시 수개월 정전 2) 해저 케이블—95%+ 데이터 트래픽, NY/NJ/FL/CA 상륙점 보안 미비 3) 항만 크레인—80% 중국 ZPMC, 숨은 모뎀·SW 취약점 4) 상수도—소도시 처리시설 예산 부족으로 사이버보안 부재 5) Henry Hub(루이지애나 Erath)—천연가스 파이프라인 교차점 + NYMEX 가격 기준, 라틴아메리카발 드론 위협. 9/11처럼 존재하지만 시도되지 않은 공격 방식
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
