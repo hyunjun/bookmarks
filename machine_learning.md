@@ -1804,6 +1804,10 @@ Machine Learning
   * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
   * [Introducing two new caching commands to replace st.cache!](https://blog.streamlit.io/introducing-two-new-caching-commands-to-replace-st-cache/)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
+* [TabPFN - One Model, Infinite Predictions | Prior Labs](https://priorlabs.ai/)
+  * [TabPFN: Foundation Model for Tabular Data](https://github.com/PriorLabs/TabPFN)
+  * [TabPFN - 테이블 데이터를 위한 파운데이션 모델 | GeekNews](https://news.hada.io/topic?id=29719)
+  * Tabular 데이터 파운데이션 모델. scikit-learn fit/predict 인터페이스, 분류·회귀. 합성 데이터로만 학습, 첫 사용 시 체크포인트 자동 다운로드—별도 학습 파이프라인 불필요. 전처리 없이 raw 데이터(스케일링·원핫 X), 결측치 내부 처리. GPU ~8GB VRAM+, CPU는 ~1,000 샘플 한정, TabPFN Client 클라우드 추론 제공. 배치 예측 필수(개별 호출 ~100배 느림). 최적: 100K 샘플·2K feature 미만. SHAP·이상치·합성 데이터·임베딩 추출 등 Extensions, large features/samples/small samples 특화 체크포인트. Enterprise 1천만 행·저레이턴시 distilled 추론·노코드 UX. Nature 게재, 7K stars, 3M 다운로드, TabArena 93% win rate. SAP €1B+ 4년 인수 합의. TabPFN-3는 1M rows/0.2s + Thinking mode. API/VPC/Databricks/SageMaker/Azure AI Foundry/MCP 배포. 코드 Prior Labs License(Apache 2.0+attribution), 가중치 비상업
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
