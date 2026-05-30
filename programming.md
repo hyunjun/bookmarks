@@ -5725,6 +5725,9 @@ Programming
 * [awesome-connected-things-sec: A Curated list of Security Resources for all connected things](https://github.com/V33RU/awesome-connected-things-sec)
   * 900+ IoT/임베디드/ICS/자동차 보안 리소스. UART/JTAG/SWD 하드웨어 공격, Bluetooth/Zigbee/LoRa/Wi-Fi 무선, 펌웨어 추출·분석, MQTT/CoAP 프로토콜, AWS IoT, 차량 해킹
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
+* [Beelzebub framework docs](https://docs.beelzebub.ai/)
+  * [beelzebub: A secure low code honeypot framework, leveraging AI for system virtualization](https://github.com/beelzebub-labs/beelzebub)
+  * Low code 허니팟 프레임워크. SSH·HTTP·LLM 허니팟 지원, AI로 시스템 가상화. YAML 설정으로 분 단위 첫 허니팟 구축. 공격자 행동을 LLM이 시뮬레이션해 실제 시스템처럼 응답
 * [Caido — Web Security Testing Platform](https://caido.io/)
   * [caido](https://github.com/caido/caido)
   * AI+팀워크 기반 웹 해킹 툴킷. HTTPQL 문법 요청 필터링, 노드 기반 자동화 워크플로우. 버그바운티·펜테스터·보안엔지니어 대상
