@@ -2036,6 +2036,8 @@ App
   * [zerobrew: A 5-20x faster experimental Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
     * [zerobrew - Homebrew 보다 5~20배 빠른 패키지 관리자 | GeekNews](https://news.hada.io/topic?id=26586)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
+* [Design Guidelines for Mac | Mario Guzman](https://marioaguzman.github.io/design/)
+  * Mac 앱 개발자를 위한 전통 데스크톱 컨벤션 기반 네이티브 뷰·컨트롤 디자인 가이드. Layout(중심 정렬·텍스트/컨트롤 정렬·여백·시각적 균형), Toolbar, Sidebar/Source List 가이드라인. Music Widget·MiniPlayer·QuickTune·PDX Transit 작가
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
 * [DevUtils - All-in-one Toolbox for Developers](https://devutils.com/)
   * [DevUtils - 개발자용 도구 모음 for macOS | GeekNews](https://news.hada.io/topic?id=2959)
@@ -3511,6 +3513,7 @@ App
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
 * [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
+  * 음성→AI 받아쓰기 도구. Mac/Windows/iPhone/Android 네이티브, 키보드(45wpm) 대비 4배 빠른 220wpm. 필러 단어·오타·횡설수설 자동 정제, Slack/Gmail/Notion/VS Code/Cursor/ChatGPT/Figma 등 어디서나. 개인 사전(고유어 학습), 스니펫 라이브러리, 100+ 언어 자동 감지. $81M 펀딩으로 "Voice OS" 빌드
 
 # VPN
 * [“무료인데 속도까지 빠르다” 최고의 크롬 브라우저용 VPN 4선 - ITWorld Korea](https://www.itworld.co.kr/news/244898)
