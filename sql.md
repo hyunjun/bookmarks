@@ -1245,6 +1245,9 @@ SQL
 * [한국 PostgreSQL](http://postgresql.kr)
 * [Postgres Guide](http://www.postgresguide.com/)
 * [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+* [Postgres is All You Need for Durable Workflows | DBOS](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
+  * [Postgres만으로 지속 가능한 워크플로우를 만들 수 있는 이유 | GeekNews](https://news.hada.io/topic?id=29999)
+  * Peter Kraft, 2026.5.20. Temporal·Airflow·AWS Step Functions 같은 외부 오케스트레이터는 과도하게 복잡—durable workflow는 본질적으로 프로그램 상태를 DB에 체크포인팅하는 것이므로 별도 오케스트레이터 서버 불필요. Postgres 기반 접근: 클라이언트가 workflows 테이블에 작업 INSERT, 서버가 locking 절로 폴링·dequeue, step 출력 직접 체크포인트. 워커 크래시 시 다른 워커가 마지막 체크포인트부터 재개. 장점: Postgres 스케일링 솔루션(streaming replication·failover·CockroachDB·sharded Postgres) 상속, SQL 테이블이라 declarative 모니터링 쿼리, 오케스트레이터 단일 장애점 제거·민감 데이터 외부 노출 회피. DBOS 미션은 Postgres-backed durable execution 단순·고성능화
 * [practice - unique index and null](https://gist.github.com/hyunjun/0b0b90a536a623edc59da4605adbf519#file-unique_index_and_null-md)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
