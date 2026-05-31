@@ -1072,6 +1072,10 @@ Artificial Intelligence
   * [openfang: The Agent Operating System — open-source, built in Rust](https://github.com/RightNow-AI/openfang)
   * [32MB 단일 바이너리로 AI 에이전트 자율 실행 OpenFang 무료 에이전트 OS 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-32MB-%EB%8B%A8%EC%9D%BC-%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89-OpenFang-%EB%AC%B4%EB%A3%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-OS-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * Rust 기반 오픈소스 에이전트 OS. 32MB 단일 바이너리로 7개 자율 Hands(영상 편집, 리드 발굴, OSINT, 예측, 리서치, 트위터, 브라우저), 40개 메시징 어댑터, 27개 LLM 프로바이더, 16개 보안 레이어(WASM 샌드박스, Ed25519 서명, Merkle 감사 추적) 제공
+* [OpenHuman: Your Personal AI super intelligence. Private, Simple and extremely powerful](https://tinyhumans.ai/openhuman)
+  * [openhuman: Your Personal AI super intelligence](https://github.com/tinyhumansai/openhuman)
+  * [OpenHuman: 개인용 AI 슈퍼 인텔리전스 오픈소스 프로젝트 핵심 정리](https://digitalbourgeois.tistory.com/3152)
+  * Rust+TypeScript 기반 데스크톱 에이전틱 AI(GPL-3.0). 데스크톱 마스코트(말하기·반응·구글 미트 참여), Composio로 118+ OAuth 통합(Gmail/Notion/GitHub/Slack/Stripe/Calendar/Drive/Linear/Jira), 20분마다 자동 fetch. Memory Tree+Obsidian Wiki(≤3k 토큰 마크다운 청크, 계층 요약, 로컬 SQLite·Obsidian 호환 vault, Karpathy LLM-wiki 영감). 내장 도구(웹 검색·스크레이퍼·코더 툴킷·STT·ElevenLabs TTS·립싱크), 모델 라우팅(추론/빠름/비전, Ollama 옵션), TokenJuice 압축(HTML→Markdown·중복 제거, 비용·지연 최대 80% 감소). [[agentmemory]] 백엔드로 Claude Code/Cursor/Codex/OpenCode와 메모리 공유 가능
 * [OpenJarvis: Opinionated framework for local-first personal AI](https://github.com/open-jarvis/OpenJarvis)
   * [로컬 퍼스트 개인 AI를 위한 프레임워크, OpenJarvis 완전 정리](https://digitalbourgeois.tistory.com/2885)
   * Stanford Hazy Research. 온디바이스 AI 에이전트 프레임워크, 에너지·지연 시간을 1차 제약 조건으로 평가, 로컬 트레이스 데이터 학습 루프
@@ -3804,6 +3808,7 @@ Artificial Intelligence
 * [Claude Code (~100시간) vs. Codex (~20시간) | Reddit](https://www.reddit.com/r/ClaudeCode/comments/1sk7e2k/claude_code_100_hours_vs_codex_20_hours/)
   * [Claude Code vs. Codex 비교 | GeekNews](https://news.hada.io/topic?id=28538)
   * 14년차 엔지니어의 80K 라인 Python/TS 프로젝트 비교. Claude Code(Opus 4.6)는 빠른 프로토타이핑 우수하나 지시 무시·작업 불완전. Codex(GPT-5.4)는 3-4배 느리지만 체계적·자가 교정·가이드라인 엄수. Claude는 초안, Codex는 리뷰 전략 인기
+  * [Claude Code와 Codex 실전 비교: 대규모 코드베이스에서 드러난 차이와 선택 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3154)
 * [Claude Code와 Copilot 병용 전략](https://blog.naver.com/drvoss/224232231703)
   * [Claude Code x Copilot 시너지 내기 2 - 저장소 셋업 가이드](https://blog.naver.com/drvoss/224232704315)
   * AGENTS.md(팀 공용 규칙), CLAUDE.md(@import로 연결점), copilot-instructions.md(짧은 전역 지침), SKILL.md(반복 작업 표준화) 4개 파일 구조와 샘플 세트 제공. Claude Code는 긴 구현, Copilot CLI는 계획/리뷰, Codex CLI는 파일 생성/자동화로 역할 분담
@@ -4759,6 +4764,8 @@ Artificial Intelligence
     * [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
     * [Understand-Anything | Open Source Projects](https://www.opensourceprojects.dev/post/b206659e-38d5-4ae0-83e8-54c04caa16cb)
     * [Understand-Anything: Codebase를 인터랙티브 지식 그래프로 변환하는 Claude Code 플러그인](https://lum.is-a.dev/Understand-Anything/)
+    * [심성재 - 바이브 코딩 후 "어디 고쳐야 할지 모름" 문제와 Understand-Anything 지하철 노선도 시각화 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0CPJ9Lun6BBUPrggvZUQD7FPArqB2Nx1RhAN22tiXiRzgqxH1Gm6dCwiz4QQHb3kxl)
+      * 코드 모르는 사람이 AI로 만든 앱에 기능 추가할 때 어디 고칠지 모름—"설계도 없이 지은 집". 컴포넌트=원(역)·연결=노선의 지하철 노선도 시각화, 노드 클릭 시 평문 설명("로그인 처리"), "결제는 어떻게 동작하나" 같은 질문에 step-by-step trace. 창시자 철학 "감탄시키는 그림 말고, 조용히 가르치는 그림". CLI 도구 위에서 동작, 14.7k stars. AI 시대 진짜 스킬은 "이해"
   * [vibe-tree: Vibe code with Claude in parallel git worktrees](https://github.com/sahithvibudhi/vibe-tree)
   * [yc-startup-school: YC Startup School 전체 강의를 Claude Code 플러그인으로](https://github.com/team-attention/yc-startup-school)
     * [YC Startup School 풀 트랜스크립트를 Claude Code 플러그인으로 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_yc-startup-school-%ED%92%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-claude-code-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9C%BC%EB%A1%9C-share-7438763528926220288-XaFT)
@@ -5597,6 +5604,15 @@ Artificial Intelligence
   * [아마존에서 출시한 미친 AI 코딩툴 키로(Kiro)! 커서AI 넘을까? | 실제 사용 찐 리뷰 - YouTube](https://www.youtube.com/watch?v=Nce6cFJGEts)
   * [클로드 코드랑 커서 폐업 시키려고 만들었다는 Kiro IDE... - YouTube](https://www.youtube.com/watch?v=4wpznaOgpGM)
   * [Kiro 한국 사용자를 위한 가이드](https://whchoi98.notion.site/Kiro-23104ef7e60e80d3b838e13d2d65498e)
+  * [Kiro 사용자 인터뷰 #1 - VPPLAB 정희인님 | YANBERT](https://yanlog.yanbert.com/ko/blog/kiro-user-interview-001-20260526/)
+    * 신재생에너지 IT 플랫폼 스타트업 VPPLAB(가상발전소 flow-V, 풍력·태양광 발전량 예측 92%+ 정확도, 1GW 풍력 예측) 정희인 사용자 인터뷰. Kiro Startups Credit Program으로 10명 1년 $4,800 크레딧. 가장 좋아하는 기능 Spec-Driven Development—"Spec-Driven 안 쓸 거면 굳이 Kiro 써야 하나" 정도. Requirement·Design·Task 3개 스펙 문서 리뷰 의무화, 코드 전 문서 작성. Global Steering 파일 운영 팁: 영문으로 간결하게·빌드 폴더 제외·컨벤션 정의·인간 승인 필요 핵심 파일 플래그. 한 달 만에 25개 배치 Python 스크립트 단독 마이그레이션. Sonnet 4.6 스펙용·Opus 디버깅용, Auto 모드 회피. 페인포인트: 터미널 출력 잘림, 컨텍스트 자동 요약
+  * [Kiro를 기업에서 쓰기 좋은 이유 IAM Identity Center | YANBERT](https://yanlog.yanbert.com/ko/blog/dear-team-lead-lets-adopt-kiro-20260211/)
+    * 기업이 AI 코딩툴 도입을 망설이는 실질 이유는 "예산·비용처리". 신규 툴 도입 시 경영기획·재무팀 협의 부담—팀장이 미루는 이유는 효능 의심이 아닌 신규 예산 확보·오남용 관리 부담. AWS 기반 조직에 Kiro가 적합한 이유: VS Code 기반 IDE+CLI, 스펙 기반 개발, AWS IAM Identity Center 계정·크레딧 제어, 기존 AWS Billing 통합으로 별도 품의 없이 SRE/CTO 라인 처리, AWS Credit·스타트업 크레딧 활용. 협의 대상이 경영기획/재무팀 vs CTO/SRE팀, 신규 품의 vs 기존 개발비 추가 청구로 달라지는 점이 결정적
+  * [Kiro 한국 사용자 모임 첫 번째 밋업 준비 과정 | YANBERT](https://yanlog.yanbert.com/ko/blog/kiro-korea-user-group-first-meetup-20260122/)
+    * [Kiro Powers 소개 슬라이드 - Yan So](https://slides.yanbert.com/20260122-kiro-krug/1)
+    * [AI Workflow - Kiro 한국 사용자 모임 2026 슬라이드 PDF - 권태관(우아한형제들)](https://github.com/awskrug/kiro-group/blob/main/slides/2026-01-22/AI%20Workflow%20-%20Kiro%20%ED%95%9C%EA%B5%AD%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%AA%A8%EC%9E%84%202026%20-%20%EA%B6%8C%ED%83%9C%EA%B4%80.pdf)
+    * [Kiro IDE Presentation 슬라이드 PDF - 남기웅(브이피피랩)](https://github.com/awskrug/kiro-group/blob/main/slides/2026-01-22/Kiro_IDE_Presentation.pdf)
+    * Kiro 한국 사용자 모임 결성 배경·1회 모임(2026.1.22, QR 체크인 17명, 메인 세션+라이브 Q&A) 회고. AWS 한국 사용자 모임 송년회 논의 계기, 마스코트 "갓쓴키로". 3개 발표—Yan So Kiro Powers, 권태관 AI-Workflow 활용 개발팀 생산성, 남기웅 Kiro 야생 적응기. 6개월+ 정기 모임·외부 노출 강화 계획
   * [Amazon's NEW AI IDE is Actually Different (in a good way!) – Kiro - YouTube](https://www.youtube.com/watch?v=Z9fUPyowRLI)
   * [AI 코딩 에이전트 간의 시너지: Kiro × Claude Code](https://www.linkedin.com/posts/xavierchoi_ai-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%84%EC%9D%98-%EC%8B%9C%EB%84%88%EC%A7%80-kiro-claude-code-activity-7352270105680007188-Bmhl/)
     * [Kiro가 생성한 specs 중 tasks를 Claude Code에서 트래킹하는 CLAUDE.md 명령어 · GitHub](https://gist.github.com/xavierchoi/8f8adb36b980457f12d32000ba92dcbb)
