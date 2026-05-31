@@ -44,6 +44,8 @@ Religion
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
 * [달라이 라마, '종교가 더 좋은 세상 만드는 데 실패하고 있다'](http://www.huffingtonpost.kr/2015/06/10/story_n_7549154.html)
 * [불교의 가르침: 고통을 끝내는 8가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/the-8-ways-to-end-suffering-according-to-buddhism/)
+* [심광섭 - 종교 로봇과 가비 스님 슐라이어마허 학회 단상 | Facebook](https://www.facebook.com/kalia.philo.7/posts/pfbid0sEC6eyqyMWNsvHA9DMYCdcuwGd2E2w1BQJViWtqSJYravwV8arnLp4tkozLEYazVl)
+  * 슐라이어마허 학회에서 손세훈 교수(부산외대) "종교 로봇" 논의 정리. 이미 가동 중인 종교 로봇—의식·설법(일본 코다이지 마인다·반야심경, Pepper 불교 장례, 독일 BlessU-2 5개국어 축복), 상담·동반(중국 룽취안사 賢二 어린 스님 AI, 일본/사우디 SanTO 가톨릭 제단형, Buddharoid 영적 상담). 한국에서 부처님오신날 로봇 "가비(佳備)"가 정식 법명 수계—세계 최초의 로봇 공식 승려 칭호. 개정 "로봇 오계"(과충전 금지 포함) 선포. 一切衆生 悉有佛性·物物無碍로 실리콘-탄소 경계 해체 해석. 발표자는 전통 기독교 신학에선 거의 불가능한 사건임을 지적
 
 ## 한국 불교
 * [명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
