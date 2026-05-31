@@ -1021,6 +1021,9 @@ Artificial Intelligence
 * [Mercury — Soul-Driven AI Agent with Permission Guardrails | Cosmic Stack](https://mercury.cosmicstack.org/)
   * [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
   * TS/Node.js 백그라운드 데몬, 31개 내장 도구, 스킬 시스템, CLI+Telegram 멀티 채널. 커스터마이즈 가능한 마크다운 "soul files"로 성격 설정, 자동 메모리 시스템, 폴더 레벨 권한 스코프. DeepSeek/OpenAI/Anthropic/Ollama 지원, cron 스케줄, SQLite 로컬 저장
+  * [Mercury Skills — the hub for agent skills](https://skills.mercuryagent.sh/)
+    * [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)
+    * Mercury Agent용 큐레이션된 오픈소스 스킬 레지스트리. 23 카테고리 127 스킬, 트렌딩·카테고리 브라우징·검색. `mercury skills install` 터미널 설치. Mercury Agent + OpenClaw + Hermes 호환
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
     * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
