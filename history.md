@@ -528,6 +528,8 @@ History
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
 * [로항야족 탄압에 대한 아웅산 수치의 침묵을 참을 수 없는 이유](http://www.huffingtonpost.kr/2015/06/05/story_n_7516700.html)
 * [미얀마의 인권 문제에 대한 아웅산 수치의 침묵](http://newspeppermint.com/2015/06/17/suukyi-rohingya-rights/)
+* [Jake Deschain - 중국 운남성도 원래 조미아의 핵심지역이다 | Facebook](https://www.facebook.com/share/p/18H984sYGg/)
+  * 중국 운남(리장·샹그릴라·시쌍반나)은 조미아 핵심지역이었으나 자본·기술·이주 정책으로 관광 테마파크화하며 편입에서 이탈. 중국은 미얀마/라오스 소수민족을 장기말처럼 활용—군부 지원하다 북부 반군 지원으로 전환, MNDAA 사령관 펑더런 납치 의혹 등으로 미얀마 분열 유지. 미얀마는 한국 7배 면적, 천연가스·희토류·티크 풍부, 19세기~20세기 초 세계 1위 쌀 수출국. 통일된 미얀마는 중국의 희토류·말라카 우회로 위협, 인도에도 중국 견제 관문. 서구는 군부 지원의 도덕적 문제, 자원지가 분열된 반군 지역에 위치, 반군이 친중·서구 연결고리 부재라는 4중 딜레마
 
 ## Mongolia
 * [A Mongolian Manual of Astrology and Divination](http://publicdomainreview.org/collections/a-mongolian-manual-of-astrology-and-divination/)
