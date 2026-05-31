@@ -40,6 +40,8 @@ Philosophy
   * 과거는 기억속에, 미래는 기대속에, 실제로 존재하는 건 현재뿐
 * [Aristotle — How to live a good life - Ralph Ammer](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
   * [아리스토텔레스 – 좋은 삶을 사는 방법 | GeekNews](https://news.hada.io/topic?id=16342)
+* [松山 - 아리스토텔레스는 왜 형이상학을 만들었는가? | Facebook](https://www.facebook.com/hansaryun/posts/pfbid0o6gT79b2d5LNsa8eSc4B4DiqQesrumE9Q7ecJR9WF63UBQsaBsmrU5PdERhb1Jrl)
+  * 형이상학의 창시자로 알려졌으나 저술 상당수가 자연·생물 연구(500종+ 동물 관찰, 아소스·레스보스 해양 생물). 자연 작동 원리는 설명되어도 자연이 왜 존재하는지 답하기 어려움→'제1철학'이 자연학 뒤에 편집되며 "메타 피지카(Meta Physica)" 명명. 핵심: 10범주(실체·양·질·관계·장소·시간·상태·소유·능동·수동, 실체 최우선), 플라톤 비판(본질은 사물 안에), 질료형상설, 가능태/현실태, 목적론, 부동의 원동자(철학적 신). 추상 사변이 아닌 자연 연구 출발 존재 원리 탐구—이후 2천 년 서양 철학의 중심 문제 형성
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)
