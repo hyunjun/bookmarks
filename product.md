@@ -257,6 +257,8 @@ Product
 * [NocFree Lite Wireless Split Keyboard](https://www.nocfree.com/products/nocfree-lite)
   * [나눔이벤트⌨️ 개발자는 키보드를 찢어.. 인체공학 끝판왕 스플릿 키보드 NocFree Lite 65 (완.전.무.선) - YouTube](https://www.youtube.com/watch?v=aBE4XXo4Bi4)
   * [구독자이벤트 스플릿키보드 사용해보니 목 어깨 손목까지 확실히 편하네요 녹프리 65 Lite | 사부작사부작 156편 - YouTube](https://www.youtube.com/watch?v=4tzLfFD9Q7c)
+  * [🎁 손목, 어깨 아픈 사람들… 결국 이런 스플릿 키보드 찾게 됩니다. Nocfree & 녹프리 앤 - YouTube](https://www.youtube.com/watch?v=_Q-4vvms5PE)
+    * Lattech 라떼크 채널의 Nocfree & (녹프리 앤) 리뷰. 전작 Lite 대비 로우 프로파일·알루미늄으로 고급화, 한국 정식 버전은 F·U·Y·B 한 줄을 오른쪽에 추가해 한글 타이핑성 강화. 좌측 메인 키보드+우측 키보드+숫자패드 3개 파츠 구성, 좌측이 허브 역할(유선은 좌측만 연결). 웹 기반 커스터마이징·8개 레이어 지원. 텐팅 받침대·팜네스트·저소음 리니어 스위치 포함. 백라이트 끄면 한 달 가까이 사용 가능
 * [NuPhy® Studio | Premium keyboards and gear beyond imagination.](https://nuphy.com/)
   * [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
   * [Eng) 입문하기 좋은 커스텀 키보드 추천, Nuphy GEM80 - YouTube](https://www.youtube.com/watch?v=T9yB3dASNmM)
