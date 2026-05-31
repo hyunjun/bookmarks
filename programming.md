@@ -984,6 +984,10 @@ Programming
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
   * [Joel Spolsky on Structuring the Web with the Block Protocol – The New Stack](https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol/)
 * [The Boring Technology Checklist - Begin](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
+* [Choose Boring Technology | Dan McKinley](https://mcfunley.com/choose-boring-technology)
+  * [지루한 기술을 선택하라 2015 | GeekNews](https://news.hada.io/topic?id=30035)
+  * 회사마다 약 3개의 "이노베이션 토큰"이 있고, 이는 비즈니스 미션 핵심 문제에만 써야 함. 지루한 기술(MySQL/Postgres/Python/Memcached/Cron)이 좋은 이유는 능력과 실패 모드가 잘 알려져 "unknown unknowns"가 적기 때문. "best tool for the job" 사고는 모니터링·테스트·배포·인지 부하 같은 운영 부담을 무시—실제 best는 가장 많은 문제에서 "least worst" 자리를 차지하는 도구. 새 기술 도입 전 기존 도구로 어떻게 풀지 먼저 묻고, 기존 기술 교체 시 마이그레이션 일정 명확화. Etsy는 PHP/MySQL/Memcached/Gearman 공유 스택으로 activity feeds 20배 확장
+  * 오래된 글이지만 여전히 유효하다고 생각
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
