@@ -4292,6 +4292,9 @@ Artificial Intelligence
   * [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
     * [Claude Code로 개발 생산성 향상: 6주 실전 경험](https://digitalbourgeois.tistory.com/2928)
     * PR 자동화(/git-pr 스킬), SWC 도입으로 빌드 1초 미만, 프리뷰 기능으로 UI 검증 위임, 병렬 워크트리 시스템으로 동시 5개 작업. 기능 개발보다 피드백 루프 속도를 줄이는 인프라 구축이 핵심
+  * [Pioneering the Agentic Shift Within Salesforce Engineering | Salesforce](https://www.salesforce.com/news/stories/how-engineering-became-agentic/)
+    * [Minho Hwang - 세일즈포스, Claude Code 전사 도입 이후 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0SsEPvs5r77Q6zp8w8a75oYAVGQBnpBpv5hRQNV7ExCtwn9BDAvSh9c6P48rcdQc8l)
+    * Claude Code를 전 엔지니어에게 토큰 한도 없이 기본 AI 에이전트 도구로 제공. 2026.4 기준 개발자당 완료 작업 +50.8% YoY, 머지 PR +79%, 실제 전달 코드 가치 측정 "Effective Output" +151.3%. 231일로 추정한 API 엔드포인트 마이그레이션을 13일에 완료. 전통적 SDLC를 AI 중심으로 재설계, 팀 컨텍스트·코딩 컨벤션·워크플로 패턴이 담긴 재사용 가능한 "Claude Code 스킬" 빌드·공유. 과제: 코드베이스별 컨텍스트 파일 품질 편차, 라이브 시스템 접근 시 보안 리스크, AI 환경에서 주니어 엔지니어 성장 경로 불확실성
   * [Anthropic이 '지저분한 코드'로 시장을 이긴 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3703/)
     * 유출된 소스에서 3,167줄 함수 등 발견되었지만 AI 개발 도구 시장 점유율 ~31%. 코드 품질보다 모델-도구 통합의 매끄러운 경험이 핵심. 예방보다 빠른 배포+빠른 오류 감지 철학
   * [Claude Code로 코드 리뷰 자동화하기 — 설정부터 실패 학습 루프까지 | mimul](https://www.mimul.com/blog/claude-code-review/)
