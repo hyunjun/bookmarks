@@ -5820,8 +5820,9 @@ Programming
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
-* [maigret: Collect a dossier on a person by username from 3000+ sites](https://github.com/soxoj/maigret)
-  * 사용자명으로 3000+ 사이트에서 정보 수집하는 OSINT 도구
+* [Maigret Telegram Bot](https://www.maigret.app/)
+  * [maigret: Collect a dossier on a person by username from 3000+ sites](https://github.com/soxoj/maigret)
+  * 사용자명으로 3000+ 사이트에서 정보 수집하는 Python OSINT 도구(API 키 불필요). 기본 상위 500 사이트 스캔(`-a` 전체), 프로필에서 다른 계정 링크·정보 추출, 발견된 username/ID로 재귀 검색, 태그·국가 필터, 차단/캡차 부분 우회, 24시간 자동 DB 업데이트, Tor/I2P(.onion·.i2p) 지원, FlareSolverr Cloudflare 우회, `--ai`로 OpenAI 호환 API 요약, HTML/PDF/XMind/JSON/CSV/D3 그래프 리포트, 웹 UI. 텔레그램 봇(@maigret_searchbot)으로도 제공. MIT, Python 3.10+, 31.1k stars
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [Metasploit | Penetration Testing Software, Pen Testing Security | Metasploit](https://www.metasploit.com/)
   * [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
