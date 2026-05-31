@@ -1138,6 +1138,9 @@ Artificial Intelligence
 * [Sirchmunk](https://modelscope.github.io/sirchmunk-web/)
   * [sirchmunk](https://github.com/modelscope/sirchmunk)
   * 벡터 DB 없이 Monte Carlo 샘플링 + ReAct 에이전트로 원본 데이터에서 실시간 검색하는 에이전틱 검색 엔진. MCP, REST API, CLI, Web UI 지원
+* [SkillNet — Open Infrastructure for Creating, Evaluating, and Connecting AI Agent Skills](http://skillnet.openkg.cn/)
+  * [SkillNet: Create, Evaluate, and Connect AI Skills](https://github.com/zjunlp/SkillNet)
+  * AI 에이전트 스킬을 공유 가능한 패키지로 다루는 오픈 마켓플레이스(스킬 패키지 매니저). 500+ 큐레이션 스킬 키워드/AI 시맨틱 검색, `skillnet download <url>` 원커맨드 GitHub 설치, GitHub 레포·PDF/PPT/Word·대화 로그·텍스트 프롬프트로 LLM이 구조화 스킬 패키지 자동 생성. 5D 평가(Safety·Completeness·Executability·Maintainability·Cost-Awareness), Skill Graph 자동 관계 발견(similar_to·belong_to·compose_with·depend_on). Python SDK(`pip install skillnet-ai`)·CLI·무인증 REST API·웹·Claude Code/Codex/OpenClaw/JiuwenClaw·MCP(Claude Desktop·Cursor) 통합. ZJU NLP, MIT, 855 stars. arxiv 2603.04448
 * [SkillOpt: Executive Strategy for Self-Evolving Agent Skills | Microsoft](https://microsoft.github.io/SkillOpt/)
   * [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://github.com/microsoft/SkillOpt)
   * [2605.23904 SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)
@@ -4677,6 +4680,8 @@ Artificial Intelligence
         * [Seungjoon Choi | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0G41HQkAkUEF7nxp797TXgRZaUBCJPFN7rETcmBURSZk6r7gyBKKqbkqyH32u1Z4Jl)
         * [앤트로픽이 공개한 $9 vs $200 실험 — 차이는 "하네스"였습니다 - YouTube](https://www.youtube.com/watch?v=yTUCyw6nAfQ)
           * 같은 Claude에 같은 작업, $9 vs $200로 결과 22배 차이. 단일 에이전트 한계(컨텍스트 불안, 자기 평가 편향) → Planner+Generator+Evaluator 멀티에이전트 하네스 설계. 모델이 좋아져도 하네스는 사라지지 않고 "이동할 뿐"
+        * [Minho Hwang - Anthropic·OpenAI 하네스 글 종합 분석: 최소 하네스 3요소 | Facebook](https://www.facebook.com/rev.minho/posts/pfbid0J2i4Rk7XGakKSGpoRESoRGMD5z8MuMiNXrdRFtgFxdZKPJuP7L6No5isKE9bvmXJl)
+          * 하네스는 가드레일이 아닌 모델 둘러싼 실행 구조 전체. Anthropic 1차 글(2025.11): 장시간 에이전트 6대 문제(컨텍스트 손실·조기 완료 주장·환경 정리 등)→초기화/코딩 에이전트 분리·JSON feature list·1세션 1기능·표준 init 스크립트. Anthropic 2차 글(2026.3): 검증/테스트 중심—Planner-Generator-Evaluator 3역할 분리, generator/evaluator 분리, Playwright MCP 현실적 테스트. OpenAI 사례: 5개월 동안 엔지니어가 직접 코딩 안 하고 하네스·문서·도구·피드백 루프 설계. 최소 하네스 3요소—에이전트 역할 설계(판단·회피 정의)·스킬 정의(절차·체크리스트·출력 형식)·오케스트레이터(다중 에이전트/단계 조정). 멀티에이전트 설계가 역할별 컨텍스트 분리로 Context Rot 감소
     * [ralph is a form of porn. the ralph technique, popularized by… | by Sigrid Jin | Jan, 2026 | Medium](https://sigridjin.medium.com/ralph-is-a-form-of-porn-ffc027b93c95)
       * [ralph is a form of porn | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_ralph-is-a-form-of-porn-activity-7419896831746269185-L-W5)
     * [요즘 개발자들이 Ralph 플러그인에 주목하는 이유 : 랄프 루프 실제 후기](https://litmers.com/blog/%EC%9A%94%EC%A6%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-ralph-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%9E%84%ED%94%84-%EB%A3%A8%ED%94%84-%EC%8B%A4%EC%A0%9C-%ED%9B%84%EA%B8%B0)
