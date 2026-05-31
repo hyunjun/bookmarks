@@ -1188,6 +1188,8 @@ Artificial Intelligence
 * [The Next 10 Years Will Be About the AI Agent Economy](https://www.nfx.com/post/ai-agent-marketplaces)
   * [향후 10년은 AI 에이전트 이코노미의 시대가 될 것 | GeekNews](https://news.hada.io/topic?id=19662)
 * [AI 에이전트 커머스 혁명: 쇼핑의 주체가 AI로 바뀌는 시대](https://thecore.media/aiagentcommerce/)
+* [임선영 - 중국AI미래지도 결제권이 에이전트에게로 넘어가는 2026 - 알리바바가 설계한 A2A 경제의 완결 구조 | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid0adBF5rbJzMnuPohuFZgENzNRSCaJUo1DPAyeJjYxUKvvkK9tkQtsnb87UWDeVrepl)
+  * 2026.5 알리바바 발표 2건 분석. H2H→A2A(Agent-to-Agent) 전환—Alipay 3개월간 AI 에이전트 결제 3억건. Ant Group AI Pay 책임자 朱林의 3단계 승인 모델로 인간을 결제 루프에서 점진적으로 제거. Accio Work는 마켓 리서치·관세·바이어 커뮤니케이션을 백그라운드 처리(Free/Pro $19.9/Elite $99/Ultra $199)—데이터 락인이 아닌 셀러 워크플로 전체에 임베드되는 "에이전트 의존" 락인. Alipay Token Pay로 법정화폐+토큰 컴퓨팅 비용 통합, 에이전트 자체가 지출 주체. 신세계-알리바바 JV "Grand Opus Holding"의 G마켓 인수(60만 셀러)+Accio Work로 셀러 OS 장악. 한국 e커머스의 가격 경쟁 vs 알리바바의 셀러 생산성 도구 경쟁. 한국은 소비자 시장→AI 무역 솔루션 검증랩으로 재포지셔닝. 결제 표준은 Google·Visa가 아닌 Alipay가 주도
 * [Blue Ocean Opportunities In The Agentic Economy | Investing In AI](https://investinginai.substack.com/p/blue-ocean-opportunities-in-the-agentic)
   * [에이전트 경제의 블루오션 기회 | GeekNews](https://news.hada.io/topic?id=29171)
   * 2026 Q1 기점 AI가 채팅→자율 실행 에이전트로 구조 전환. MCP·A2A 프로토콜이 SaaS UI 경쟁 우위 무력화, 에이전트가 데이터 레이어 직접 접근. 에이전트 거버넌스·수직 산업 플랫폼·성과 기반 가격 모델이 블루오션
@@ -3164,6 +3166,10 @@ Artificial Intelligence
   * 300+ 모델(OpenAI/Anthropic/DeepSeek/Ollama, LiteLLM 기반), 정찰·익스플로잇·권한상승 내장 도구, 8 핵심(Agents/Tools/Handoffs/Patterns/Turns/Tracing/Guardrails/HITL). HackTheBox CTF·HackerOne·PortSwigger·Mercado Libre, Unitree G1·MiR-100 로봇·Ecoforest 히트펌프 OT 케이스. EU EIC RIS 공동 펀딩, 연구 무료/CAI PRO 상용
 * [CyberStrikeAI: AI-native security testing platform in Go](https://github.com/Ed1s0nZ/CyberStrikeAI)
   * Go 기반 AI-native 보안 테스트 플랫폼. 100+ 보안 도구 통합, 지능형 오케스트레이션. 역할 기반 보안 페르소나, 스킬 시스템, 대화형 취약점 탐지, 공격 체인 분석, RAG 지식 검색, 감사 가능 환경
+* [Decepticon — Autonomous Hacking Agent](https://decepticon.red/)
+  * [Decepticon: Autonomous Hacking Agent for Red Team](https://github.com/PurpleAILAB/Decepticon)
+  * [레드팀을 위한 자율 해킹 에이전트 Decepticon 기술 정리](https://digitalbourgeois.tistory.com/3157)
+  * PurpleAILAB의 자율 레드팀 에이전트(Apache-2.0). 정찰·익스플로잇·권한 상승·횡적 이동·C2 전체 킬체인 자동화, 사전에 RoE/ConOps/Deconfliction Plan/OPPLAN+MITRE ATT&CK 매핑 생성. 16개 전문 에이전트(오케스트레이션·정찰·익스플로잇·포스트익스플로잇·취약점 연구·AD·Cloud·스마트컨트랙트·리버싱·분석가). tmux 영속 세션 인터랙티브 셸(msfconsole·sliver-client·evil-winrm), Kali Docker 샌드박스 2-네트워크 격리(LangGraph가 Docker socket으로 구동). 멀티 프로바이더(Anthropic/OpenAI/Gemini/DeepSeek/xAI/Mistral/OpenRouter/Ollama)+티어 폴백(eco/max/test). Sliver C2 프레임워크, Neo4j 지식 그래프, 웹 대시보드+CLI. XBOW 벤치 98.08%(102/104). 4.2k stars
 * [deep-eye: AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
   * OpenAI/Grok/OLLAMA/Claude 멀티 AI 프로바이더 통합. 자동 버그 헌팅, 지능형 페이로드 생성, 프로페셔널 리포팅
 * [DeepZero - Automated Vulnerability Research](https://blog.ahmadz.ai/DeepZero/)
