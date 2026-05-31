@@ -4738,6 +4738,9 @@ Business
   * 넛지는 사용자가 더 나은 결정을 할 수 있도록 유도하는 방식
   * 다크 패턴은 사용자를 속여서 의도하지 않는 선택을 하도록 유도하는 전략
   * 둘을 구분해서 사용해야 한다
+* [What Is a Dickover? | Daring Fireball](https://daringfireball.net/2026/05/what_is_a_dickover)
+  * [Dickover란 무엇인가? | GeekNews](https://news.hada.io/topic?id=30022)
+  * John Gruber가 명명한 "dickover"—웹사이트/앱이 자기 콘텐츠를 가리고 불필요한 상호작용(쿠키 동의, 뉴스레터, 앱 설치 권유, ToS 등)을 강제하는 모달·팝오버·커튼. 2022년 "dickpanel"에서 매스토돈 투표(51:49)로 명칭 확정. Substack 전체화면 커튼, Philadelphia Inquirer 유료 구독자에 SMS 권유 등 사례. 페이지 일부만 가리는 비모달 띠는 "dickbar"(경범죄), 페이월 로그인은 dickover 아님(필요성). 핵심 원칙: "웹사이트를 방문했으면 웹사이트가 보여야 한다"
 * [화이트 넛지가 새로운 UX 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/162)
 * [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
 * [왜 앱 화면을 단순히 만들어야 할까?](https://brunch.co.kr/@cliche-cliche/170)
