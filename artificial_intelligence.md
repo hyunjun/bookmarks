@@ -919,6 +919,12 @@ Artificial Intelligence
   * [Build Agents that never forget. (100% open-source, self-evolving AI memory) Most agents have no real memory. Every conversation starts fresh with no recall of yesterday and no understanding of how… | Akshay Pachaar | 22 comments](https://www.linkedin.com/posts/akshay-pachaar_build-agents-that-never-forget-100-open-source-activity-7419726822680129536--GjM)
 * [CORAL: Robust, lightweight infrastructure for multi-agent autonomous self-evolution](https://github.com/Human-Agent-Society/CORAL)
   * Claude Code·OpenCode·Codex 등 에이전트를 격리된 git worktree에서 병렬 실행, `.coral/` 공유 상태로 협업. 내장 평가 루프, 실시간 리더보드 대시보드, deep research 모드, LiteLLM 게이트웨이 프록시
+* [Craken — AI 네이티브 협업 환경 by Corca](https://craken.borca.ai/)
+  * [craken-cli: Craken CLI for connecting Claude Code, Codex, and other shell-based agents to Craken workspace](https://github.com/corca-ai/craken-cli)
+  * [정영현 - 저희가 개발 중인 크라켄(Craken) 소개와 KAIST 알파 테스트 | Facebook](https://www.facebook.com/risknfun/posts/pfbid0GMQXGHQEeSCSMRzJcyFns3wDQ5NGyTnZUZjLB5D7aVvkM1fgRZZ5NvZ1y4yFvBgfl)
+  * [National AI Research Lab (NAIRL) - Craken alpha test with KAIST | LinkedIn](https://www.linkedin.com/posts/national-ai-research-lab-nairl-recently-ugcPost-7468158010503311361-2IF_/)
+    * KAIST 김기응·오태현 교수 연구실에서 Craken 알파 테스트—논문을 구조화 위키로 요약, 관련 문헌 조사, 상호 연결된 지식 페이지로 정리. NAIRL이 학계와 산업계를 잇는 testbed 역할
+  * Corca(OpenAI 서비스 파트너 한국 스타트업)가 만든 AI 네이티브 협업 워크스페이스. 실시간 메시지·파일 공유·위키·AI 에이전트를 한 환경에 통합, 양방향 링크로 컨텍스트 그래프 형성. Craken CLI로 Claude Code/Codex 등 셸 기반 에이전트가 워크스페이스에 참여
 * [CUGA](https://cuga.dev/)
   * [cuga-agent: CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features](https://github.com/cuga-project/cuga-agent)
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
@@ -2989,6 +2995,8 @@ Artificial Intelligence
   * DeepSeek 쇼크 이후 스케일링 법칙이 1축(파라미터/학습 컴퓨트)에서 4축으로 분화: ①사전학습 스케일 ②검증 가능한 보상 기반 후학습 RL ③추론 시점 컴퓨트(Thinking Mode) ④프런티어 모델로부터의 지식 증류. 2025-2026 투자 기회는 NVIDIA 중심에서 추론 칩·RL 인프라·평가 도구로 분산
 * [이주환 - OpenAI나 Anthropic의 제품에서 정작 'AI'가 차지하는 비중은 얼마나 될까 | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid02hRs9zC4ZEtPgMFftmfvbyDiGPp4vhp4eEV7jAqqiTdg7ScrPJYJyBzJ8FJwsjmqvl)
   * AI 기업들도 관리형 에이전트·스킬·커넥터·메모리·MCP·권한·벡터 저장소·거버넌스 등 스택 대부분이 AI가 아닌 소프트웨어. 스케일링 시대 종료로 LLM 자체 해자는 어려워지고, 사용 주체가 사람에서 에이전트로 이동. 런타임·오케스트레이션·신원/권한·관측성·거버넌스에 강한 소프트웨어가 더 중요해짐
+* [임경묵 - 코드는 3배 빨리 쓰게 됐는데, 정작 사람들이 쓰는 소프트웨어는 거의 늘지 않았습니다 | Facebook](https://www.facebook.com/kyungmook.lim/posts/pfbid0C4JF5zrK2zRYvqWALhHyTWcovw7SjnhxGLE8d1JWyhD8Kjhn4R8HemMxKuoce6V7l)
+  * NBER 워킹페이퍼(Demirer·Musolff·Yang) GitHub 개발자 10만 명 분석. 자동완성 +40%·대화형 에이전트 +140%·자율 에이전트 +180%로 코드 작성은 가속되나 프로젝트 +50%·릴리스 +30%·앱 마켓 사용량 ~0%로 단계가 올라갈수록 효과 급감(약한 고리 문제). 우버 사례—5,000명 엔지니어 도구 채택률 4개월 32%→84%, 1인당 API 비용 $500→$2,000인데 COO는 "AI 지출과 소비자 제품 개선 연결고리 아직 없다". 가치는 강한 고리에서 약한 고리(판단력)로 이동
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3133,6 +3141,10 @@ Artificial Intelligence
   * [Tae Hyung Kim - 최근에 뇌인지 관련 AI 모델을 어떻게하면 잘 만들수 있을까 고민을 하면서 논문들을 보고... | Facebook](https://www.facebook.com/socialego/posts/pfbid0yfMDmKb8KfWoyQod1BSWRCHEbyTuHuGaY2GBUnsd6xcpXofmsB43hWeWrneHRmVTl)
     * 비유하자면 감정은 공기 중의 미세먼지 같다
     * 이 미세먼지를 들이마시는 순간, 뇌 속의 거울신경(mirror neuron) 이 작동하기
+* [Language Models Need Sleep: Learning to Self Modify and Consolidate Memories | OpenReview ICLR 2026](https://openreview.net/forum?id=iiZy6xyVVE)
+  * [AI 언어 모델은 '수면'으로 어떻게 스스로 학습하고 기억을 통합하는가 | 김진관 닷커넥터](https://tigerjk9.github.io/post/language-models-need-sleep/)
+  * [김진관 - AI 언어모델에게도 사람처럼 수면이 필요하다 | Facebook](https://www.facebook.com/faithfuljk/posts/pfbid029oTrTDRFFutBF23dQDQne3mw1UrxtXwKQab8EDaHbDtSZrkGwDf4m5iGLxuyRGP7l)
+  * Behrouz·Hashemi·Mirrokni. 인간 수면에서 영감받은 'Wake/Sleep' 패러다임. NREM 단계는 Knowledge Seeding으로 작은 모델→큰 모델 상향 증류해 메모리 공고화, REM 단계는 RL로 합성 커리큘럼 생성해 자가 개선(Dreaming). 지식 노후화·치명적 망각 해결. 수학 추론 79.2%(SFT 75.5%·GRPO 76.4% 능가), 만주어 등 신규 언어 학습 시 기존 지식 보존, few-shot 80%
 * [paper-readers-guide at main · hyeshik/qbio-skills](https://github.com/hyeshik/qbio-skills/tree/main/paper-readers-guide)
   * [Hyeshik Chang - 대학원 1년차의 논문 읽기 방법 | Facebook](https://m.facebook.com/story.php?story_fbid=pfbid034yyB9QCDETBS9wAfMwGwP1k9Ca8git7LH55qzCkXo1N2tU5RWbmD2E4aHddQQG2al&id=599032501)
   * 논문 읽기를 보물찾기처럼. 글에서 찾을 수 있는 여러 실마리와 주요 포인트를 "오늘의 퀘스트" 목록처럼 제시하고 하나씩 체크해나가는 방식
