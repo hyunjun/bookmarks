@@ -1767,6 +1767,8 @@ Business
   * [Communication Patterns • Jacqui Read & Gregor Hohpe • GOTO 2025 |](https://lilys.ai/digest/2410478/493022)
   * [The ACED model](https://acedmodel.com/)
 * [“API가 뭐예요?”라는 질문에 당황하지 않는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/3499/)
+* [TEO 오태완 - 평가받는 자리에서 한 문장으로 기억되기 | LinkedIn](https://www.linkedin.com/posts/teo-%EC%98%A4%ED%83%9C%EC%99%84-8a3482a8_1-%EB%82%98%EB%8A%94-%EC%98%A4%EB%9E%AB%EB%8F%99%EC%95%88-%EB%82%A8%EB%93%A4%EC%97%90%EA%B2%8C-%ED%8F%89%EA%B0%80%EB%B0%9B%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%97%90-%EC%9E%88%EC%97%88%EA%B3%A0-%EC%A2%8B%EC%9D%80-%ED%8F%89%EA%B0%80%EB%A5%BC-%EB%B0%9B%EC%95%84%EB%82%BC-activity-7465329658373312513-510F)
+  * 평가자는 발표 디테일보다 끝난 뒤 남는 인상을 기억하며, 평가자의 기준·선입견과 연결한 "한 문장"이 핵심. IR/면접/제안서/링크드인 글쓰기 모두 '내가 무엇을 말할까'가 아니라 '상대가 나를 뭐라고 기억할까'에서 시작해야
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -3013,6 +3015,7 @@ Business
   * 고객(1순위), 팀원(2순위), 자신(3순위). 경험 부족할수록 팀원에 대한 헌신을 놓침. 비판적 피드백을 주는 직원은 조직에 애정 있는 신호
 * [Ivy Lee - 일본 신칸센 청소 회사 테세이의 경영 혁신 | Facebook](https://www.facebook.com/kyusang.ivylee/posts/pfbid05fHdL3LW9VyrDnKD5AYou7YjfVT1MWCnkQ5XsrM54fuCop3LUPuvwtBUoKj5eF4al)
   * 7분 1,000석 청소 환경에서 감시·통제를 버리고 직원을 "공연자"로 재정의. 제안 400건→1만건, 수동→능동 조직 문화 전환. 효율성보다 존엄성과 자부심이 진정한 혁신의 동력
+* [이학구 - 이상적인 상사/리더의 자질 | LinkedIn](https://www.linkedin.com/posts/%ED%95%99%EA%B5%AC-%EC%9D%B4-18b927133_share-7464080452857843712-134A/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -4117,6 +4120,12 @@ Business
   * [영업에 대세 인사이드 세일즈, 진짜 매출 올릴 수 있을까? 그리팅 백세명 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5177955/4622060)
 * [한국 B2B SaaS, 미국에선 왜 잘 안 먹힐까?](https://www.linkedin.com/posts/shndon0220_%ED%95%9C%EA%B5%AD-b2b-saas-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%A0-%EC%99%9C-%EC%9E%98-%EC%95%88-%EB%A8%B9%ED%9E%90%EA%B9%8C-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%EA%BD%A4-%EC%9E%98-%EB%82%98%EA%B0%80%EB%8D%98-activity-7358428337788080128-4nul/)
 * [이복연 - B2B 스타트업들을 만나면 꼭 해주는 말이 있다. 거래를 하게 된 기업의 '내부 효율성 향상 솔루션'이... | Facebook](https://www.facebook.com/bokyun.lee.9/posts/pfbid0so1waEJSCDLAhkbPBB21Xu19U1utg6BZ967U4KaMSJamtLXrumZLC1WqkD3xaB5Wl)
+* [ai-sales-team-claude: AI-powered sales team for Claude Code. Research prospects, qualify leads (BANT + MEDDIC), find decision makers, generate outreach sequences](https://github.com/zubair-trabzada/ai-sales-team-claude)
+  * [심성재 - 콜드메일 1000통을 AI가 써준다. 그런데 왜 아무도 안 살까 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0zm33MXuHYmZUakrKjFTBsPJKBGvuGiqEC9A9rjZcDq15omnS8YZ8zKHargUcSsc5l)
+    * AI 세일즈 자동화가 보편화될수록 정보 우위는 사라지고, "확신을 옮기는" 신뢰 형성·타이밍 감각·안 팔 줄 아는 판단의 마지막 1% 가치가 더 올라간다는 관점
+  * Claude Code용 AI 영업팀. 14개 스킬 + 5개 병렬 에이전트(회사 적합도/의사결정자/BANT/전략/경쟁) 가중치 합산해 0~100점 산출. 회사 리서치, 리드 검증, 콜드 아웃리치 시퀀스, 미팅 브리프, 제안서, PDF 리포트 자동화
+* [AI Workshop](https://www.skool.com/aiworkshop/)
+  * Zubair Trabzada가 운영하는 AI 에이전시 창업 부트캠프 유료 커뮤니티(월 $59). 90일 안에 첫 $3K 클라이언트 확보 목표. 5주 런칭 프로그램, Claude Code 마스터클래스, 비즈니스 템플릿 제공
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
