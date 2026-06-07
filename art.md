@@ -78,6 +78,8 @@ Art
 * [삼국지 최고의 등산왕 등애](http://blog.daum.net/aminoginji/242)
 * [제갈량의 황제꿈](http://blog.daum.net/shanghaicrab/16153989)
 * [제갈량에게는 황위를 찬탈할 마음이 없었다](http://blog.daum.net/shanghaicrab/16154604)
+* [임현상 - 형주공방전과 관우의 몰락 | Facebook](https://www.facebook.com/imhyeonsang.2025/posts/pfbid0oNCuSRe7pcCNrXyAiV4pXz5T5pcgGqJAYA3ACA6pA7dVRspUV4dyK42p9ig4VYWil)
+  * 219년 화하진동의 기세에서 형주 상실·전사로 이어진 급반전. 형주파 vs 익주파 갈등, 논공행상 불만으로 인한 형주민 이반, 미방·유봉의 배신이 누적된 내부 균열. "절반의 승리는 힘이 되고, 7부의 승리는 교만을 낳으며, 완벽한 승리는 적과 재앙을 부른다"
 
 ## George Orwel
 * [조지 오웰의 | 세상의 어두운 면을 알만한 나이가 되어서 비로소 읽을 책 < 뉴스&이슈 < 기사본문 - 허프포스트코리아](https://www.huffingtonpost.kr/news/articleView.html?idxno=3215)
