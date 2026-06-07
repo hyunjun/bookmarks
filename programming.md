@@ -6231,8 +6231,9 @@ Programming
 * [Cloudflare Email Service: 프라이빗 베타 공개 | GeekNews](https://news.hada.io/topic?id=23285)
   * [Announcing Cloudflare Email Service’s private beta](https://blog.cloudflare.com/email-service/)
   * [Cloudflare Email Service is Here. - YouTube](https://www.youtube.com/watch?v=0pil4xQXIVE)
-* [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
-  * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
+* [정진호 - 팁 바이브코딩으로 이메일과 SMS 보내기 | Facebook](https://www.facebook.com/jinho.jung/posts/pfbid02yTTmrY1HN8rpTjQoQN9gPmE7oMS8mMWx12WsPvkxBtyinau9r9fBNQWN34CpAPpEl)
+  * [SMTP-SMS알림.pdf - Google Drive](https://drive.google.com/file/d/1Wvs6NCsQQFMmtHsYtZ_loTIpD3e5I3vP/view)
+  * 클라우드 서버에서 SMTP 25번 차단 우회—Gmail SMTP(하루 500통 무료)+AWS 연동. SMS는 서버→게이트웨이→통신사→고객 경로, SOLAPI 추천(300원 적립금, 쉬운 가이드). 31p PDF 자료
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [FakeSMTP – FakeSMTP - Dummy SMTP server for developers](https://nilhcem.com/FakeSMTP/)
@@ -6246,6 +6247,8 @@ Programming
   * [Plunk - 오픈소스 이메일 플랫폼 | GeekNews](https://news.hada.io/topic?id=16319)
 * [SENDUNE - HTML Email Designer Drag-and-Drop-Email-Designer: Drag and drop HTML email designer - truly free and open source.](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
   * [Sendune – 오픈소스 HTML 이메일 디자이너 | GeekNews](https://news.hada.io/topic?id=15932)
+* [spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+  * [SPF, DKIM, DMARC 이해하기: 간단한 가이드 | GeekNews](https://news.hada.io/topic?id=15408)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
