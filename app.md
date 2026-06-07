@@ -2463,6 +2463,8 @@ App
   * [Lottie Creator: 로티 애니메이션을 제작할 수 있는 웹 기반 무료 디자인 도구 | GeekNews](https://news.hada.io/topic?id=17094)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
+* [movie2gif](https://mazeline.tech/freeapps/movie2gif/)
+  * 영상 파일을 GIF로 변환하는 Windows 무료 앱. ffmpeg 2-pass 파이프라인 내장, 드래그앤드롭 + 필름스트립 트리밍, 4가지 웹 최적화 프리셋 제공
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
 * [Natron: Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry](https://github.com/NatronGitHub/Natron)
