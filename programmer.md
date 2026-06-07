@@ -516,6 +516,8 @@ Programmer
   * [(1) 박성철 - 종종 개발자가 구현 외에 요구 사항 수집/분석, 기획, 설계, 아키텍처 수립, 개발 환경 구축, 테스트,... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02gUqiogg6JhbmW8FEJ7wCWXV8N2g7EbzCBAtH7GNPujxXw83vk69D92b62xYAZRXl)
   * [리얼월드에서 프로그래머로 살아내기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2239/) 다 좋은 내용이지만 '구글 엔지니어는 이렇게 일한다' 얘기에 특히 동감
   * [SK 플래닛 이사, 우아한형제들 이사, 컬리 전 CTO를 지내신 박성철님의 첫번째 이야기입니다. - YouTube](https://www.youtube.com/watch?v=g8qOwUOoqHA)
+  * [최낙현 - 다시, 소프트웨어 엔지니어 북콘서트 후기 | Facebook](https://www.facebook.com/devnhc/posts/pfbid0FvBKqU4JCFwMyWKoSB4DUYk5z1N4XCXXMGVTxC8rnW9UcCRdT85jHyq71VZaNvKAl)
+    * 2026.6.5 책만출판사 주최 박성철 저자 북콘서트. 이일민(화상)+이민석/Benjamin Byungboo Kim/김정/양수열 패널. AI가 코드를 작성하는 시대에 단순 구현 역할로는 경쟁력 부족, 문제 발견·정의·이해관계자 소통이 핵심. "코드는 싸졌지만, 소프트웨어는 여전히 비싸다"
 * [CS 007: Course Material (2022) | CS 007: Personal Finance for Engineers](https://cs007.blog/2022/10/13/cs-007-course-material-2022/)
   * [스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의 | GeekNews](https://news.hada.io/topic?id=9431)
 * [개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2198/)
