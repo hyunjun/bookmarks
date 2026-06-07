@@ -371,6 +371,8 @@ Politics
   * [폭탄돌리기에 골몰하는 박근혜 대통령](http://www.huffingtonpost.kr/taekyung-lee/story_b_6836996.html)
   * [박근혜정부 기간, 서울 전세 8% 올랐다?](http://newstapa.org/25817)
   * [미국에서 금리가 오르면 한국 집값이 하락?](https://youtu.be/vN8ovHpLIFI)
+  * [김성원 - 불평등 도시 서울과 정의로운 도시 붉은 비엔나 | Facebook](https://www.facebook.com/groups/1104470326348896/?multi_permalinks=26853418071027435)
+    * 서울 PIR 25배·공공임대 6~8% vs 빈 시민 60% 공공·사회주택. 1918~1934년 '붉은 빈' 시기의 누진 주택세(브라이트너 세금), 강력한 세입자보호법, 공공 토지 매입(시 면적 1/3)으로 공급한 카를-마르크스-호프 사례. 서울의 진짜 문제는 공급 부족이 아니라 분배 실패
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)
@@ -447,6 +449,8 @@ Politics
 * [한국의 청년세대는 무슨 생각을 할까](https://www.sisain.co.kr/news/articleView.html?idxno=42176)
 * [The Price of Silence - Hans Litten과 Carl Schmitt에서 배우는 법치의 무게 | 박주현](https://www.facebook.com/muzland/posts/pfbid02TrzHAXqH35PKZKRqJy9TwDJrzXxCAyAJpFsGVAJm9Le1PnA9SuM8EzQq2PC2ZdDvl)
   * 1930년대 나치 독일에서 히틀러를 반대 심문한 Hans Litten(다하우에서 사망)과 권력에 법을 제공한 Carl Schmitt 대비. 지식 엘리트의 비겁한 침묵이 제도 붕괴 경고
+* [기고 5조 원을 굴리는 250명의 DARPA, 72개로 쪼개진 한국 R&D의 판을 엎어라 | Facebook](https://www.facebook.com/groups/strat4scitech.kr/permalink/2178256303021205/)
+  * 미국 DARPA(250명·5조원 예산)의 효율성과 72개 기관/부처로 분산된 한국 R&D 거버넌스 비교. 연구개발 체계 개혁 필요성 제기
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
@@ -463,6 +467,8 @@ Politics
 * [美 신안보전략이 드러낸 균열…한국에 닥친 '힘의 공백'과 3가지 생존 경로](https://v.daum.net/v/20251206180339956)
 * [Jake Deschain - 호르무즈 통제권과 미국 본토 5대 인프라 취약점 분석 | Facebook](https://www.facebook.com/unattached/posts/pfbid0ookrfVrNffUM62P4vRtFRrd5LMrCgsX9a38Qjpu5xAyq7s18nJYc6Seazh7rDz6Sl)
   * 미국 타격으로 자제 명분이 사라진 이란이 호르무즈 통제 시작. 트럼프가 중간선거 앞두고 Epstein 압박 회피 위해 쿠바·베네수엘라·수리남·멕시코 카르텔 표적할 수 있으나 본토 보복 가능성. 5대 취약점: 1) Power grid—농촌 무방비 변전소 LPT, ~9개 동시 파괴 시 수개월 정전 2) 해저 케이블—95%+ 데이터 트래픽, NY/NJ/FL/CA 상륙점 보안 미비 3) 항만 크레인—80% 중국 ZPMC, 숨은 모뎀·SW 취약점 4) 상수도—소도시 처리시설 예산 부족으로 사이버보안 부재 5) Henry Hub(루이지애나 Erath)—천연가스 파이프라인 교차점 + NYMEX 가격 기준, 라틴아메리카발 드론 위협. 9/11처럼 존재하지만 시도되지 않은 공격 방식
+* [김효경 - 1984년 노스캐롤라이나 Ronald Cotton 누명 사건과 이노센트 프로젝트 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid02PwG8XGbLZZgH78QaniVBmZMixaFS5Y46Br1DhBpCbLixd33JjPjTfeCM6yyZPPwl)
+  * 1984년 22세 Ronald Cotton 종신형+54년 선고→1995년 DNA로 무죄 입증, 진범 Bobby Poole. 1992년 Barry Scheck·Peter Neufeld가 설립한 이노센트 프로젝트. 오판 원인 통계: 목격자 잘못된 진술 70%, 부실 과학수사 45%, 허위 자백 28%. 회고록 *Picking Cotton* NYT 베스트셀러
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
