@@ -340,6 +340,9 @@ Finance
   * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
+* [LLMQuant Data — The knowledge harness for AI-native finance](https://llmquantdata.com/)
+  * [quant-mind: An intelligent knowledge extraction and retrieval framework for quantitative finance](https://github.com/LLMQuant/quant-mind)
+  * 자율 AI 에이전트용 금융 데이터·컨텍스트 엔지니어링 플랫폼. 8개 데이터 유니버스(Crypto/Equities/ETFs/Macro/Wiki/Papers/SEC Filings/SEC 13F), MCP 서버+Agent Skill 통합, 4가지 쿼리(원본/시맨틱/PageIndex 트리/지식 그래프). 거시 30년·미주 25년·크립토 12년, p95 200ms 미만. quant-mind는 NeurIPS 2025 GenAI in Finance 워크숍 채택, 비정형 콘텐츠→구조화 지식베이스 변환. MIT
 * [MoneyPrinterV2: Automate the process of making money online](https://github.com/FujiwaraChoki/MoneyPrinterV2)
   * YouTube Shorts 자동 생성, Twitter 봇, 아마존 제휴 마케팅, 로컬 비즈니스 콜드 아웃리치 자동화
 * [multiagent_backend: 가짜연 9th 깃허브 잔디심기 Stockelper Multi Agent Backend Fastapi](https://github.com/jh941213/multiagent_backend)
