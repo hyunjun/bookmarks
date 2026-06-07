@@ -984,6 +984,9 @@ Artificial Intelligence
 * [hive](https://github.com/aden-hive/hive)
   * [프로덕션 환경에서 AI 에이전트를 실제로 돌리는 방법: Hive 런타임 하네스 완전 정리](https://digitalbourgeois.tistory.com/2941)
   * 프로덕션용 AI 에이전트 런타임 프레임워크. 자연어 목표 → 에이전트 그래프 자동 생성·실행·모니터링, 상태 관리·장애 복구·비용 통제·적응형 자기 개선
+* [Horizon - Automated AI news aggregator & summarizer](https://www.horizon1123.top/)
+  * [Horizon: Your own AI-powered news radar. Generates daily briefings in English & Chinese](https://github.com/Thysrael/Horizon)
+  * 개인 맞춤 AI 뉴스 레이더. Hacker News·RSS·Reddit·Telegram·X·GitHub·OpenBB 모니터링, Claude/GPT/Gemini/DeepSeek/Doubao/MiniMax/Ollama 점수화(0-10), 중복 병합·웹검색 컨텍스트 보강·커뮤니티 댓글 요약, EN/zh 이중 언어, GitHub Pages·이메일·Feishu/Slack/Discord 발행. uv·Docker·GitHub Actions cron. MIT
 * [Instant 1.0: A backend for AI-coded apps | instantdb](https://www.instantdb.com/essays/architecture)
   * [Instant 1.0 – AI로 작성한 앱을 위한 백엔드 플랫폼 | GeekNews](https://news.hada.io/topic?id=28418)
   * 바이브 코딩 앱용 실시간 동기화·오프라인·인증·파일 저장소 오픈소스 백엔드. DB row 추가로 백엔드 생성, db.useQuery/db.transact만으로 관계형 쿼리
@@ -2984,6 +2987,8 @@ Artificial Intelligence
 * [The One-Axis Era Is Over: AI's Four New Scaling Laws | Jihoon Jeong | Medium](https://medium.com/@hiconcep/the-one-axis-era-is-over-ais-four-new-scaling-laws-2f40fb4679e5)
   * [정지훈 - The One-Axis Era Is Over: AI's Four New Scaling Laws | Facebook](https://www.facebook.com/jihoon.jeong/posts/pfbid02efdxschbDhVUdWAvmn7kutqxYSaRFsH8a4Znb9xg3wxXJb3PUaDnM4t9i5H7kFmzl)
   * DeepSeek 쇼크 이후 스케일링 법칙이 1축(파라미터/학습 컴퓨트)에서 4축으로 분화: ①사전학습 스케일 ②검증 가능한 보상 기반 후학습 RL ③추론 시점 컴퓨트(Thinking Mode) ④프런티어 모델로부터의 지식 증류. 2025-2026 투자 기회는 NVIDIA 중심에서 추론 칩·RL 인프라·평가 도구로 분산
+* [이주환 - OpenAI나 Anthropic의 제품에서 정작 'AI'가 차지하는 비중은 얼마나 될까 | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid02hRs9zC4ZEtPgMFftmfvbyDiGPp4vhp4eEV7jAqqiTdg7ScrPJYJyBzJ8FJwsjmqvl)
+  * AI 기업들도 관리형 에이전트·스킬·커넥터·메모리·MCP·권한·벡터 저장소·거버넌스 등 스택 대부분이 AI가 아닌 소프트웨어. 스케일링 시대 종료로 LLM 자체 해자는 어려워지고, 사용 주체가 사람에서 에이전트로 이동. 런타임·오케스트레이션·신원/권한·관측성·거버넌스에 강한 소프트웨어가 더 중요해짐
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -4311,6 +4316,8 @@ Artificial Intelligence
   * [GitHub Projects That Reduce Token Usage in Claude Code by 60-90% lucas_flatwhite on X (tweet 2046170220767670675)](https://x.com/lucas_flatwhite/status/2046170220767670675)
   * [Using Claude Code: Session Management & 1M Context trq212 on X (tweet 2044548257058328723)](https://x.com/trq212/status/2044548257058328723)
   * [Claude Code를 무료로 Ollama로 로컬 AI 코딩 도구 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code%EB%A5%BC-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Ollama%EB%A1%9C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/Imbad0202/academic-research-skills)
+    * 학술 연구 전체 파이프라인 지원 Claude Code 스킬 패키지. 4가지 스킬—Deep Research(13 에이전트·7 모드), Academic Paper(12 에이전트·LaTeX), Reviewer(7 에이전트·100점 평가), Pipeline(10단계 오케스트레이터). Semantic Scholar+OpenAlex+Crossref+arXiv 4-인덱스 인용 검증 게이트, 시간 일관성 검증, Socratic·Devil's Advocate 모드. APA/Chicago/MLA/IEEE/Vancouver, EN/zh-TW/zh-CN/JP. CC BY-NC 4.0
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [ai-marketing-skills: Claude Code marketing and sales skill collection](https://github.com/ericosiu/ai-marketing-skills)
