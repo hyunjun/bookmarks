@@ -468,6 +468,9 @@ History
   * 미국-이스라엘 협력 관계는 이념이나 유대인 로비가 아니라 첨단 기술 특허 다수를 보유한 이스라엘 벤처 강국의 핵심 기술이 미국 군사 기술로 차용되는 구조에 기반
 * [Hae-Young Lee - 전쟁만이 살 길이다_ 이스라엘의 미래 | Facebook](https://www.facebook.com/hae.young.lee.248977/posts/1006808395343914/)
   * 이스라엘 Ynet 기고문을 인용하며 이번 전쟁의 전말을 분석. '이스라엘의 미국이냐', '미국의 이스라엘이냐'라는 서아시아 문제의 본질적 질문 탐구
+* [이재훈 - 가자지구 절멸과 이스라엘의 제노사이드 | Facebook](https://www.facebook.com/ijaehun.690835/posts/pfbid0bXp6gRcmuetParXiKwez1Auv9kCAgCNYmdwqDNtjeEuB2SmjXkFZmxNj8EUeBw8Xl)
+  * [해초가 보여준 거대한 연결감… 당장 집단살해, 폭력, 봉쇄를 멈춰라 | 한겨레21](https://h21.hani.co.kr/arti/society/society_general/58148.html)
+  * 가자지구 약 2,200여 가구 전원 사망, 5,120여 가구 1명 생존. 전쟁 전 기대수명 75.5세→1년 만에 40.5세. 2년간 6만 7천여 명 사망. 한겨레21 편집장의 칼럼
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
@@ -673,6 +676,8 @@ History
 * [소련은 왜 실패했는가: 처형당한 엔지니어의 유령](https://slownews.kr/74813)
 * [푸틴에 맞서 이기고 싶다면, ‘더 진실해져라’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47159) 너무 naive한 이야기 아닌가?
 * [러시아의 ‘국뽕’에서 한·중의 위기를 읽다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47540) 알렉산드르 두긴 유라시아주의
+* [돌아갈 나라가 없었던 우주인 세르게이 크리칼료프의 311일 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02YcSAK6dygskdGixbDSiYpnEhWYvph9oKamdDaMasLD1ym4jd49cD9qdC36faTYN8l&id=61550814451094)
+  * 1991.5 소련 우주비행사 크리칼료프가 미르 정거장 150일 임무로 출발했으나 소련 해체로 311일간 고립. 식량 고갈·통신 두절 속 비상캡슐 탈출을 거부하며 정거장 사수. 미국이 먼저 소련 해체 사실을 알려줌. 러시아 우주국이 독일에 정거장 자격 경매(2,400만 달러)·상업광고로 발사 비용 마련. 1992.3.25 귀환 시 우주복엔 소련 국장, 발 딛은 땅은 러시아—역사상 마지막 소련 우주인
 
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)
