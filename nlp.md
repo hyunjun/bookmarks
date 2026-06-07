@@ -4453,6 +4453,9 @@ NLP
     * 류승인 주무관 인터뷰. AI 확산엔 성과 내는 사람 인정·보상 체계가 필수. 공공 부문 AX 현장 사례
   * [Korean Law MCP: AI 시대를 위한 대한민국 법령·판례 통합 분석 플랫폼 :: 지식의 섬](https://digitalbourgeois.tistory.com/3119)
     * 법제처 41개 Open API를 15-17개 핵심 도구로 재구성. impact_map(조문 영향 그래프), time_travel(시점 비교 자동 diff), action_plan(시민 5단계 가이드), verify_citations(법령명·조문 번호 실시간 교차 검증으로 환각 차단)
+* [Law Professors Prefer AI Over Peer Answers | Stanford Law School](https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf)
+  * [Tae Hyung Kim - 차라리 AI가 더 공정하지 않을까 | Facebook](https://www.facebook.com/socialego/posts/pfbid0tgwedNGzKgiEeUyAW33Aft1s52HSu9TihgoromnPokbLYc39oww4jWGiKogdaRVml)
+  * Salinas et al., 2026.5.27. 미국 16개 로스쿨 계약법 교수 16명 블라인드 평가에서 LLM 답변 평균 승률 75.33%, 최고 강사 수준. 유해 답변 비율 LLM 3.53% vs 교수 12.06%. 단일 정답이 없는 판단 중심 영역(법학·사회과학)에서도 전문가 합의 기반 평가 가능 입증, 추론 모델 최초 체계적 평가
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
