@@ -5275,6 +5275,9 @@ Programming
   * [n8n-playbook: n8n-playbook: cheastsheet, examples](https://github.com/ggplab/n8n-playbook)
     * [n8n Cheatsheet가 'Playbook'으로 진화했습니다 (실전 예제 12종 추가!) 지난번 공유드린 'n8n 데이터 파이프라인 Cheatsheet'에 보내주신 뜨거운 반응(좋아요 200개+, 깃헙 스타 40개!) 감사합니다. 사실 Github Star를 이렇게 많이 받아본 게 처음이라 신기했습니다. 🤣 이에 보답하고자 어떤 노드가… | 임정](https://www.linkedin.com/posts/jayjunglim_n8n-cheatsheet%EA%B0%80-playbook%EC%9C%BC%EB%A1%9C-%EC%A7%84%ED%99%94%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C-activity-7404807917700308999-d4nV)
   * [n8nworkflows.xyz: N8N Workflows Catalog](https://github.com/nusquama/n8nworkflows.xyz) n8n용 약 6000개의 준비된 템플릿
+  * [n8n AI 자동화 가이드 - WikiDocs](https://wikidocs.net/book/19485)
+    * [n8n_Auto_Guide: n8n을 활용한 AI 업무 자동화 학습 가이드](https://github.com/lsszz2100/n8n_Auto_Guide)
+    * 코딩 없이 자동화 워크플로우 구축, ChatGPT·Claude 연동. 10챕터 78페이지—n8n 설치/노드/JSON/표현식, AI 에이전트·LLM·메모리, Gmail/Slack/Telegram/Sheets 실전, RAG·멀티 에이전트, Sub-Workflow·커스텀 노드. MIT
   * [Sim - AI Agent Workflow Builder | Open Source Platform](https://www.sim.ai/)
     * [sim: Open-source platform to build and deploy AI agent workflows.](https://github.com/simstudioai/sim)
     * [N8N을 위협할 오픈소스 🔥Copilot 기능을 통해 <자연어로 노드를 생성>하고 오류 수정 가능, OpenAI/Anthropic/Gemini는 물론 Ollama로 로컬 LLM까지 연동 가능 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_n8n-githubabr1sroabrsnyuiosqsswm-activity-7409367226274775040-Z6zv)
@@ -7579,6 +7582,7 @@ Programming
   * [5월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/05/b-5-3.html)
   * [5월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/05/b-5-4.html)
   * [6월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/06/b-6-1.html)
+  * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/06/b-6-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
