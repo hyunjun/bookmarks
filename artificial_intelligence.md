@@ -711,6 +711,9 @@ Artificial Intelligence
   * 요즘IT의 AI 에이전트 콘텐츠 기획 파이프라인 3부작. 리서처·플래너 에이전트 분리로 2-3시간 수동 작업을 13분으로 단축, 마크다운 파일로 브랜드 가이드·과거 콘텐츠 저장, 3패스 작성 + 인간 리뷰 워크플로우
 * [Agent Memory Systems and Knowledge Graphs: Letta, Mem0, Graphiti, and Cognee | Code Pointer](https://codepointer.substack.com/p/agent-memory-systems-and-knowledge)
   * Yongkyun Lee, 2026.5.28. 4개 오픈소스 장기 메모리 비교를 "그래프 적은→많은" 스펙트럼으로. Letta(MemGPT)는 그래프 없음—`core_memory_replace` 같은 도구로 텍스트 블록 자가 편집, 계층 메모리(core/archival vector/recall/filesystem). Mem0는 v3 OSS 리라이트에서 그래프 제거→spaCy 엔티티 링킹+허브앤스포크. Graphiti(Zep)는 양시간 엣지(when_true·when_learned)로 과거 보존, 모순 시 무효화. Cognee는 ECL 파이프라인(Extract-Cognify-Load), Pydantic DataPoint 타입 그래프 엣지, 온톨로지 그라운딩. 트레이드오프: 읽기에 fact-to-fact traversal 필요? 쓰기에 history 보존 필요? 벤더 벤치(LOCOMO/LongMemEval/HotPotQA/BEAM)는 답변 모델·judge 모델·judge 프롬프트가 다 달라 직접 비교 불가
+* [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 1: 웹·코딩 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3786/)
+  * [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 2: 자율 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3800/)
+  * 프로덕트 밸리. 에이전트를 가르는 4가지 기준(컨텍스트·도구·권한·트리거). 1편: 웹(Manus·Genspark)+코딩(Claude Code·Codex·Antigravity·Claude Cowork). 2편: 자율(OpenClaw·Hermes Agent·OpenHuman·Gemini Spark). 3단계 사다리—웹→코딩→자율, 권한을 좁게 시작해 점진 확장
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -1184,6 +1187,8 @@ Artificial Intelligence
   * [2511.21689 ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689)
   * [AI 에이전트 비용의 해결책 NVIDIA 가 "8B 파라미터 오케스트레이터가 GPT-5, Claude, 전문 모델들을 적재적소에 호출하며 더 나은 결과를 만들어내는" 프레임워크, ToolOrchestra를 공개 | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_nvidia-activity-7402119478349905921-dGF5)
     * 거대 모델 하나에 의존하는 대신, 작은 지휘자가 여러 도구를 조율하는 발상의 전환
+* [Vibe Index — Vibe Coding Directory](https://www.vibeindex.ai/)
+  * Claude Code 생태계 도구 디렉토리(169K+ 등록). 4가지 카테고리—Skills(SKILL.md), MCP Servers, Marketplaces, Plugins. GitHub 매시간 동기화·죽은 링크 자동 정리·AI 요약·매일 순위 갱신. Cisco 기반 17개 위협 카테고리(프롬프트 인젝션·악성코드·데이터 유출 등) 자동 보안 스캔. Vix Code(통합 AI 코딩)·Skill·MCP·API 자체 제공
 * [Vision Agents Documentation - Vision Agents](https://visionagents.ai/)
   * [Vision-Agents: Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency](https://github.com/GetStream/Vision-Agents)
 * [WorldSeed Demo - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally](https://worldseed.morphmind.ai/demo)
@@ -1450,6 +1455,12 @@ Artificial Intelligence
 * [AI 관련 오픈서적(프롬프트 엔지니어링 포함)](https://www.facebook.com/lsszz1/posts/pfbid02kXNgErWsGbtw3o9uQwwhMMmp13JXUqXqupfxH9SLVDvXmjqzRC1CNyw1RUZPGz2el)
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Artificial Intelligence and Games](http://gameaibook.org/)
+* [Claude 기초부터 고급까지 100 - WikiDocs](https://wikidocs.net/book/19729)
+  * [Claude_100: Claude 기초부터 고급까지 100선 학습서](https://github.com/lsszz2100/Claude_100)
+  * AI_Innovation_Studio. Claude/Claude Code/MCP/Skills/Hooks/Subagents/Agent Teams/RAG/평가/배포/운영 100선. 001-010 입문, 011-020 프롬프트, 021-037 Claude Code 기본·메모리, 038-065 업무 패턴·IDE·비용 관리, 066-100 자동화·운영 전략, 101-120 실무 템플릿·체크리스트. MIT
+* [Claude Architect 자격증 준비 가이드 - WikiDocs](https://wikidocs.net/book/19518)
+  * [Claude-architect-Certification: Claude Architect 인증시험 가이드](https://github.com/lsszz2100/Claude-architect-Certification)
+  * Claude Certified Architect – Foundations 시험 대비. 4지선다 720/1000 합격선, 6개 시나리오 중 4개 출제. 5개 도메인—Agentic Architecture(27%), Tool Design & MCP(18%), Claude Code(20%), Prompt Engineering(20%), Context Management(15%). 9 Part + 부록(용어사전·치트시트·코드 모음)
 * [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
 * [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
 * [resources.md at main · chiphuyen/aie-book](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
@@ -2997,6 +3008,8 @@ Artificial Intelligence
   * AI 기업들도 관리형 에이전트·스킬·커넥터·메모리·MCP·권한·벡터 저장소·거버넌스 등 스택 대부분이 AI가 아닌 소프트웨어. 스케일링 시대 종료로 LLM 자체 해자는 어려워지고, 사용 주체가 사람에서 에이전트로 이동. 런타임·오케스트레이션·신원/권한·관측성·거버넌스에 강한 소프트웨어가 더 중요해짐
 * [임경묵 - 코드는 3배 빨리 쓰게 됐는데, 정작 사람들이 쓰는 소프트웨어는 거의 늘지 않았습니다 | Facebook](https://www.facebook.com/kyungmook.lim/posts/pfbid0C4JF5zrK2zRYvqWALhHyTWcovw7SjnhxGLE8d1JWyhD8Kjhn4R8HemMxKuoce6V7l)
   * NBER 워킹페이퍼(Demirer·Musolff·Yang) GitHub 개발자 10만 명 분석. 자동완성 +40%·대화형 에이전트 +140%·자율 에이전트 +180%로 코드 작성은 가속되나 프로젝트 +50%·릴리스 +30%·앱 마켓 사용량 ~0%로 단계가 올라갈수록 효과 급감(약한 고리 문제). 우버 사례—5,000명 엔지니어 도구 채택률 4개월 32%→84%, 1인당 API 비용 $500→$2,000인데 COO는 "AI 지출과 소비자 제품 개선 연결고리 아직 없다". 가치는 강한 고리에서 약한 고리(판단력)로 이동
+* [The 10 Fastest Growing GitHub Repos This Week | VA Staffer](https://ai.vastaffer.com/blogs/fastest-growing-github-repos-context-compression-code-graphs.html)
+  * 2026.6.6 트렌드 분석. markitdown(MS)·headroom(컨텍스트 압축)·MoneyPrinterTurbo·ECC·codegraph·Understand-Anything·taste-skill·VoxCPM·supermemory·claude-code 10선. 6가지 인사이트—컨텍스트가 새 병목, 메모리는 인프라, 막연한 자율성보다 스킬, 비디오 에이전트 가속, 음성 기본 요건화, 로컬 우선 부상. "모든 레포를 쫓지 말고 입력 압축·검색 가능 메모리·결과당 토큰 비용에 집중"
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3124,6 +3137,9 @@ Artificial Intelligence
   * 멀티 에이전트 시스템이 자동으로 컨텍스트 특정 스킬 발견·정제. 도전적 태스크 생성·평가 에이전트, 실패 학습. Cross-time Replay로 과도한 특화·적대성 방지. 4개 벤치마크에서 모델 아키텍처 무관 성능 향상
 * [2605.08083 LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083)
   * AutoTTS 프레임워크. 수작업 설계 대신 효과적 test-time scaling 전략 자동 발견—사전 수집 추론 trajectory에 대한 컨트롤러 합성 문제로 정식화하여 분기·계속·중지 결정. 수학 추론 벤치마크에서 정확도-비용 트레이드오프 개선, 데이터셋·모델 크기 일반화. 발견 비용 $39.90·160분
+* [2606.09498 Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/html/2606.09498v1)
+  * [LLM 에이전트가 스스로 진화하는 방법: Self-Harness 개념과 실험 결과 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3221)
+  * Hangfan Zhang 등(Shanghai AI Lab). LLM 에이전트가 외부 인간/강력한 외부 에이전트 없이 자체 운영 하네스를 개선. 3단계 루프—Weakness Mining(실패 패턴 식별)→Harness Proposal(최소 수정 후보 생성)→Proposal Validation(회귀 테스트). Terminal-Bench-2.0에서 MiniMax M2.5 40.5%→61.9%, Qwen3.5 23.8%→38.1%, GLM-5 42.9%→57.1%
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -3832,6 +3848,8 @@ Artificial Intelligence
   * [Claude Code vs. Codex 비교 | GeekNews](https://news.hada.io/topic?id=28538)
   * 14년차 엔지니어의 80K 라인 Python/TS 프로젝트 비교. Claude Code(Opus 4.6)는 빠른 프로토타이핑 우수하나 지시 무시·작업 불완전. Codex(GPT-5.4)는 3-4배 느리지만 체계적·자가 교정·가이드라인 엄수. Claude는 초안, Codex는 리뷰 전략 인기
   * [Claude Code와 Codex 실전 비교: 대규모 코드베이스에서 드러난 차이와 선택 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/3154)
+  * [정말로 지금은 Codex가 Claude Code보다 나을까 | 요즘IT](https://yozm.wishket.com/magazine/detail/3771/)
+    * 덕파. Codex(위임형) vs Claude Code(동반형) 성격 차이. Claude Code 우위 흔들린 3가지—토큰 효율(GPT-5.5 > Opus 4.7 새 토크나이저 1.20-1.47배 소모), Codex 기능 추격(/goal·/hooks·Vim·모바일), 추론 디폴트/캐싱 사고. Claude Code 강점: SWE-bench Verified 87.6% vs 74.9%, 다중 파일 리팩터링, UI/디자인, 1M 컨텍스트. Codex 강점: 명확 스펙·가드레일·PR 리뷰·샌드박스. Anthropic의 companion vs OpenAI의 delegated worker 철학 차이. 둘 다 함께 쓰기 권장
 * [Claude Code와 Copilot 병용 전략](https://blog.naver.com/drvoss/224232231703)
   * [Claude Code x Copilot 시너지 내기 2 - 저장소 셋업 가이드](https://blog.naver.com/drvoss/224232704315)
   * AGENTS.md(팀 공용 규칙), CLAUDE.md(@import로 연결점), copilot-instructions.md(짧은 전역 지침), SKILL.md(반복 작업 표준화) 4개 파일 구조와 샘플 세트 제공. Claude Code는 긴 구현, Copilot CLI는 계획/리뷰, Codex CLI는 파일 생성/자동화로 역할 분담
@@ -4156,6 +4174,8 @@ Artificial Intelligence
       * 1/모델 행동 가이드라인(Model behavior guidelines)
       * 2/도구 사용 프로토콜(Tool usage protocols)
       * 3/인용 형식 규칙(Citation formatting rules)
+    * [CL4R1T4S/ANTHROPIC/CLAUDE-FABLE-5.md at main · elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md)
+      * Claude Fable 5(Mythos 5) 시스템 프롬프트 유출 문서. 거부 처리·법률/금융 자문·어조·웰빙·공정성, 지식 컷오프(2026.1 말), 메모리·Artifact 영구 저장 API, MCP 앱 추천, skills 폴더·작업 디렉터리 구조, 저작권 검색 규칙(15단어/출처 1회 인용 한도), bash_tool/create_file/places_search 등 도구 정의. CL4R1T4S는 elder-plinius의 AI 시스템 프롬프트 수집 레포(31.1k stars)
   * [AI Co-Scientist를 위한 가상 연구실(Lab) 구축: Claude Code로 끝내는 에이전트 인터페이스](https://aifactory.space/task/9250/overview)
     * [AI Co-Scientist를 위한 가상 연구실(Lab) 구축: Claude Code로 끝내는 에이전트 인터페이스 - YouTube](https://www.youtube.com/watch?v=Pz1rM5jjw1w)
   * [Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
