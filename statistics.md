@@ -37,6 +37,8 @@ Statistics
 * [Plot for distribution of common statistics and p-value](http://rpubs.com/cardiomoon/329065)
 * [P-value, 유의확률 | Hong's Data science](https://jihongl.github.io/2017/09/12/P-value/)
 * [Eyal Kazin - Everything That You Wanted To Know About P-Values But Were Afraid To Ask - YouTube](https://www.youtube.com/watch?v=QVfgqkTv7b8)
+* [왜 하필 이렇게 비교하게 되었을까? - YouTube](https://www.youtube.com/watch?v=RgESnw5L1xY)
+  * 쉽게 배우는 데이터와 AI 채널. p값 0.05의 역사적 유래(Fisher·Neyman·Pearson), 유의수준 0.05의 흔한 오해("연구가 틀릴 확률 5%"), 출판편향·p-해킹·재현성 위기 분석. ASA 성명, OSC 재현성 연구 등 주요 논문 인용
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
