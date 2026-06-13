@@ -899,6 +899,9 @@ Artificial Intelligence
   * [browser-harness: Minimal, self-healing browser automation for LLMs](https://github.com/browser-use/browser-harness)
     * [browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-browser-usebrowser-harness-browser-share-7453383920592785408-W8PE)
     * ~592줄 Python, Chrome DevTools Protocol 직접 연결. 자기수정(self-healing) 아키텍처로 에이전트가 실행 중 harness 자체를 확장. 도메인 스킬 시스템, 무료 원격 브라우저 3개 동시 사용
+    * [The Bitter Lesson of Agent Harnesses | browser-use](https://browser-use.com/posts/bitter-lesson-agent-harnesses)
+      * [요즘 browser-use에서 만든 browser-harness라는 self-improving browser agent 도구 | HoYeon Lee](https://www.linkedin.com/posts/hoyeonleekr_%EC%9A%94%EC%A6%98-browser-use%EC%97%90%EC%84%9C-%EB%A7%8C%EB%93%A0-browser-harness%EB%9D%BC%EB%8A%94-self-improving-share-7460872438302822400-dPas)
+      * self-improving이 "더 많이 학습"이 아니라 실행 중 하네스 자체를 확장하는 구조라는 관점. 모델이 좋아질수록 하네스 구성요소는 불필요해진다는 bitter lesson
   * [video-use: Video editing through AI coding agents](https://github.com/browser-use/video-use)
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
 * [Building AI Agents](https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic)
@@ -1217,6 +1220,8 @@ Artificial Intelligence
     * 격리된 데브박스와 수백 개의 도구를 연결하는 MCP를 통해 신뢰할 수 있는 실행 환경을 제공
   * 결국 미래의 엔지니어링 경쟁력은 AI 모델 자체가 아니라
     * AI가 안전하고 정밀하게 작동할 수 있도록 설계된 시스템과 인프라를 구축하는 능력에서 결정된다는 통찰
+* [AgentCore Managed Harness & Payments: 에이전트가 스스로 결제하는 시대 | jesamkim AI Tech Blog](https://jesamkim.github.io/ai-tech-blog/posts/2026-05-09-agentcore-managed-harness-and-payments/)
+  * AWS AgentCore의 Managed Harness와 에이전트 결제(Payments) 기능 정리
 * [바이브코딩결제.pdf | Google Drive](https://drive.google.com/file/d/1XMYEec6hmrqAjaU8MJQQwUvmxieF0OyI/view)
 * [Agentic Commerce Protocol](https://www.agenticcommerce.dev/)
   * [agentic-commerce-protocol: The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
@@ -1423,12 +1428,29 @@ Artificial Intelligence
 * [하네스 엔지니어링 Claude · Codex · Gemini 셋이서 한 작업 — AI Dev Team 데모 - YouTube](https://www.youtube.com/watch?v=ly5CUJwelFc)
   * [agent-harness-tutorial | pandas-studio](https://github.com/pandas-studio/agent-harness-tutorial)
   * 판다스 스튜디오 채널. Claude Code(PM, 라우팅+컨텍스트 관리)+Gemini CLI(Researcher, 라이브러리/docs 검색)+Codex CLI(Reviewer, verdict+NEED RESEARCH) 3개 CLI를 tmux 3-pane + 로그 파일 공유 메모리로 묶어 운영하는 데모. 30분 hands-on lab 제공
+* [The Engineering of AI Agents: Context, Harnessing, and Autonomy - YouTube](https://www.youtube.com/watch?v=_R83pFpUWyM)
+  * InfoQ. Birgitta Böckeler(Thoughtworks)가 자동완성→자율 에이전트 전환에서 "vibe coding"의 한계와, 비결정적 모델 주위에 결정적 안전망을 만드는 Harness Engineering(프롬프트 엔지니어링 → 하네스 엔지니어링) 설명. Context Engineering(Rules·MCP·Skills) 포함
+* [앤트로픽이 말하는 가장 효율적인 Harnessing. Managed Agents - YouTube](https://www.youtube.com/watch?v=IAEV_fUAdWk)
+  * 코드팩토리. Anthropic Managed Agents를 통한 하네스 활용 소개
+* [A harnessed LLM agent. And why LLM is a very small part of the agent | Daily Dose of Data Science](https://www.linkedin.com/posts/a-harnessed-llm-agent-and-why-llm-is-a-share-7465296752481427456-A8LI/)
+  * 에이전트를 "도구를 단 모델"로 보는 통념을 뒤집어, 모델은 하네스(컨텍스트·도구·검증·메모리) 안의 작은 부품이라는 아키텍처 관점
+* [Amazon Bedrock 위에서 Codex와 Claude Code 함께 쓰기: Harness Engineering으로 구현해보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/codex-claudecode-harness/)
+  * [Amazon Bedrock 위에서 Codex와 Claude Code 함께 쓰기 | Kyutae Park](https://www.linkedin.com/posts/ren-ai-ssance_amazon-bedrock-%EC%9C%84%EC%97%90%EC%84%9C-codex%EC%99%80-claude-code-%ED%95%A8%EA%BB%98-share-7470705219862044673-0zx9/)
+  * Bedrock 백엔드에서 Codex와 Claude Code를 함께 운영하는 하네스 엔지니어링 구현 가이드
+* [Three Ways to Run an Agent on AWS: AgentCore Runtime, AgentCore Harness and OpenAI Managed Agents | Latent Thoughts (dgallitelli)](https://dgallitelli.github.io/blog/posts/agentcore-runtime-vs-harness-vs-openai/)
+  * [Three ways to run an agent on AWS | Davide Gallitelli](https://www.linkedin.com/posts/dgallitelli_three-ways-to-run-an-agent-on-aws-agentcore-share-7456910602385637376-2_hM)
+  * AWS에서 에이전트 실행 3가지—AgentCore Runtime, AgentCore Harness, OpenAI Managed Agents 비교
+* [Using LLMs to secure source code | Claude](https://claude.com/blog/using-llms-to-secure-source-code)
+  * [defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | Anthropic](https://github.com/anthropics/defending-code-reference-harness)
+  * Anthropic이 보안팀과의 협업(Glasswing)에서 얻은 학습 기반 자율 취약점 탐지·교정 레퍼런스 하네스. recon→find→triage→report→patch 루프, Claude Code 스킬(`/threat-model`·`/vuln-scan` 등). Bedrock/Vertex/Azure 호환. 관리형은 Claude Security. Apache 계열, 5.8k stars
 * [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
   * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
   * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
+* [awesome-harness-engineering: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration](https://github.com/ai-boost/awesome-harness-engineering)
+  * 하네스(컨텍스트 전달·도구 인터페이스·계획 아티팩트·검증 루프·메모리·샌드박스) 중심 큐레이션. "모델이 아니라 하네스에 집중—최고의 하네스는 모델이 좋아지면 불필요해질 구성요소를 알고 설계". CC0
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
   * [harness-editor demo](https://amazingsyp.github.io/harness-editor/harness-editor.html)
   * 로컬 only 싱글페이지 HTML. 디렉토리 트리(agents/skills/orchestrators 색상 구분), frontmatter 폼 편집기, 마크다운 스플릿 프리뷰, WYSIWYG 모드, 멀티 파일 검색/일괄 치환(regex), 설명 품질 점수
@@ -1436,6 +1458,16 @@ Artificial Intelligence
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
   * [하네스 엔지니어링 백과사전 - WikiDocs](https://wikidocs.net/book/19689)
+* [paper-curation: Automated paper curation and reviews](https://github.com/jehyunlee/paper-curation)
+  * [이제현 - Paper Curation 파이프라인 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0ZmvwqT5fZpieLnaAXDC1sRJ8ATj49SAQUW4HvyFCKRroQ4xKxDubrnNEW3jy3f6tl)
+  * Claude Code가 오케스트레이션하는 개인 논문 큐레이션 파이프라인. Zotero PDF→6섹션 한국어 구조화 리뷰→Bottom-up 토픽 분류(SPECTER2+HDBSCAN+UMAP)→연구 동향 타임라인→Deep Research(BM25+dense 하이브리드 RAG, [N] 인용)→Audio Overview(Gemini TTS). Obsidian 연동 compounding knowledge, arXiv/Semantic Scholar/OpenAlex 병렬 검색
+* [Team Big Five Harness: Team Science 팀워크 빅파이브(Salas 2005)를 Claude Code 에이전트 팀에 적용](https://github.com/tobyilee/team-bigfive)
+  * [이일민 - 최근에 김창준 님이 언급하신 팀 사이언스 이론에서 팀 빅파이브 | Facebook](https://www.facebook.com/1070166746/posts/10236365929142899/)
+  * [최근에 김창준 님이 언급하신 팀 사이언스 이론에서 팀 빅파이브라는 주제에 | Toby Lee](https://www.linkedin.com/posts/tobyilee_%EC%B5%9C%EA%B7%BC%EC%97%90-%EA%B9%80%EC%B0%BD%EC%A4%80-%EB%8B%98%EC%9D%B4-%EC%96%B8%EA%B8%89%ED%95%98%EC%8B%A0-%ED%8C%80-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%9D%B4%EB%A1%A0%EC%97%90%EC%84%9C-%ED%8C%80-%EB%B9%85%ED%8C%8C%EC%9D%B4%EB%B8%8C%EB%9D%BC%EB%8A%94-%EC%A3%BC%EC%A0%9C%EC%97%90-share-7465197682068926464-IhMI/)
+  * 에이전트 팀의 병목은 개별 지능이 아니라 조율의 질이라는 가설. 빅파이브 조율 메커니즘을 명시적 프로토콜로 강제해 같은 모델로도 협업 결과 품질 향상. Claude Code 플러그인, v2에서 개발·일상·창작 전 영역 일반화 + 실행 게이트·킥오프/디브리핑·심리적 안전 채널
+* [Trampoline.ai — Production-hardened agentic workflow management](https://www.trampoline.ai/)
+  * [predict-rlm: Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures](https://github.com/Trampoline-AI/predict-rlm)
+  * 자기-하네스(self-harnessed) LM 런타임. 입력·출력·도구만 정의하면 모델이 스스로 제어 흐름 처리, Stanford DSPy 기반. context rot 없이 완전 해석 가능한 trajectory + 모델 개선에 직접 비례하는 성능. 모델 무관. MIT
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -3010,6 +3042,8 @@ Artificial Intelligence
   * NBER 워킹페이퍼(Demirer·Musolff·Yang) GitHub 개발자 10만 명 분석. 자동완성 +40%·대화형 에이전트 +140%·자율 에이전트 +180%로 코드 작성은 가속되나 프로젝트 +50%·릴리스 +30%·앱 마켓 사용량 ~0%로 단계가 올라갈수록 효과 급감(약한 고리 문제). 우버 사례—5,000명 엔지니어 도구 채택률 4개월 32%→84%, 1인당 API 비용 $500→$2,000인데 COO는 "AI 지출과 소비자 제품 개선 연결고리 아직 없다". 가치는 강한 고리에서 약한 고리(판단력)로 이동
 * [The 10 Fastest Growing GitHub Repos This Week | VA Staffer](https://ai.vastaffer.com/blogs/fastest-growing-github-repos-context-compression-code-graphs.html)
   * 2026.6.6 트렌드 분석. markitdown(MS)·headroom(컨텍스트 압축)·MoneyPrinterTurbo·ECC·codegraph·Understand-Anything·taste-skill·VoxCPM·supermemory·claude-code 10선. 6가지 인사이트—컨텍스트가 새 병목, 메모리는 인프라, 막연한 자율성보다 스킬, 비디오 에이전트 가속, 음성 기본 요건화, 로컬 우선 부상. "모든 레포를 쫓지 말고 입력 압축·검색 가능 메모리·결과당 토큰 비용에 집중"
+* [Dongsoo Lee - Agentic AI 시대, 메모리의 기회와 숙제 | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0AWRQX5pbhqFc8eCtpSnNhFwPJiGfqBvTDuWi2eC2m5cLkeRiih91bPjv1jum9ekFl)
+  * Agentic AI는 사람이 아닌 AI가 traffic을 생성(계획·도구호출·재시도)해 user traffic 한계를 넘어 메모리·GPU·스토리지 수요를 폭증시킴. harness는 결국 long context를 효율적으로 쓰기 위한 기법 묶음. 제본스 역설로 효율 개선이 더 큰 작업 수요를 부름. 메모리가 GPU 보조에 머물면 성장도 GPU에 갇히지만, long context·상태관리를 메모리 솔루션이 독자 수행(CXL·PIM·새 스토리지 계층)하면 agentic AI 인프라의 실행 공간이 될 수 있음
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -4562,6 +4596,9 @@ Artificial Intelligence
       * 머신러닝/AI (PyTorch Lightning, scikit-learn, SHAP)
       * 물리학/천문학 (Astropy, SymPy)
       * 양자컴퓨팅 (Qiskit, PennyLane) 등
+    * [K-Dense Web | Research. Analyze. Synthesize.](https://www.k-dense.ai/)
+      * [scientific-agent-skills: Turn any AI agent into an AI Scientist](https://github.com/K-Dense-AI/scientific-agent-skills)
+      * K-Dense의 과학 연구용 에이전트 스킬 라이브러리(claude-scientific-skills 후속). 16만+ 과학자 사용, 140개 스킬+100개+ 과학 데이터베이스(생물·화학·의학·신약발견). Cursor/Claude Code/Codex/Pi/Antigravity 및 Agent Skills 표준 호환. k-dense.ai는 연구·분석·종합 웹 플랫폼. MIT
   * [claude-skills](https://github.com/Jeffallan/claude-skills)
     * [80개 전문 스킬로 10년 경력 엔지니어 수준 코드 생성: Claude Skills](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-80%EA%B0%9C-%EC%A0%84%EB%AC%B8-%EC%8A%A4%ED%82%AC%EB%A1%9C-10%EB%85%84-%EA%B2%BD%EB%A0%A5-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%88%98%EC%A4%80-%EC%BD%94%EB%93%9C-%EC%83%9D%EC%84%B1-Claude-Skills)
     * Python Pro, React Expert, FastAPI Expert, RAG Architect, Debugging Wizard 등 80개+ 전문 스킬. 무료·로컬 환경 사용 가능
@@ -4668,6 +4705,9 @@ Artificial Intelligence
     * 한국어 AI 문체 40+ 패턴 10개 카테고리 탐지·자연스러운 문장으로 변환. 7개 전문 에이전트, 13항목 콘텐츠 충실도 감사, 30% 경고/50% 강제 중지 안전장치. Fast/Strict 2모드, 작가 보이스 프로필
   * [intellegix-code-agent-toolkit: Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI](https://github.com/intellegix/intellegix-code-agent-toolkit)
     * Claude Code CLI용 자동 루프 드라이버, 슬래시 명령어, 카운실 자동화, MCP 브라우저 브릿지, 포트폴리오 거버넌스 통합 도구 모음
+  * [knowledge-work-plugins: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Anthropic](https://github.com/anthropics/knowledge-work-plugins)
+    * [Claude Cowork가 지식노동을 끝내러 가고 있습니다. Plugins 기능 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-cowork%EA%B0%80-%EC%A7%80%EC%8B%9D%EB%85%B8%EB%8F%99%EC%9D%84-%EB%81%9D%EB%82%B4%EB%9F%AC-%EA%B0%80%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-plugins-activity-7423840081410678784-3Lx3)
+    * Anthropic 공식 지식노동자용 플러그인 11종(Claude Cowork/Code). 직무별 스킬·커넥터·슬래시 명령·서브에이전트 번들—productivity·sales·customer-support·product-management·marketing·legal·finance·data·enterprise-search·bio-research·cowork-plugin-management. 각 직무가 직원 하나에 매핑, 회사 도구/용어/프로세스로 커스터마이즈. Apache-2.0, 20.5k stars
   * [language-skills](https://github.com/tmdgusya/language-skills)
     * [Claude code 코드를 쓰다보면 영어로 프롬프팅을 할때가 많은데 이럴때 어휘력이 딸려서 어떤 영어로 적어야 잘 설명하지? 라는 고민이 네이티브가 아니다 보니 항상든다. 그래서 현재 Session 의 영어로 최대한 적은 프롬프트를 /save 커맨드로 저장하고 추후에 /review 를 통해 적절한 문장을 알려주는 Claude code plugin 을… | Seong Hyeon Jeong](https://www.linkedin.com/posts/%EC%8A%B9%ED%98%84-%EC%A0%95-376842221_claude-code-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%93%B0%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EC%98%81%EC%96%B4%EB%A1%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%95%A0%EB%95%8C%EA%B0%80-%EB%A7%8E%EC%9D%80%EB%8D%B0-%EC%9D%B4%EB%9F%B4%EB%95%8C-activity-7415404860054872064-9f1D)
   * [last30days-skill: Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web](https://github.com/mvanhorn/last30days-skill)
@@ -5673,6 +5713,9 @@ Artificial Intelligence
   * [Kiro IDE Remote - AWS Generative AI Solution Box](https://aws-samples.github.io/sample-one-click-generative-ai-solutions/en/solutions/kiro-ide/)
   * [kiro-cli-workshop-pdf: AWS Kiro CLI 워크샵 18챕터 180슬라이드 PDF](https://github.com/whchoi98/kiro-cli-workshop-pdf)
     * AWS의 agentic AI 개발 도구 Kiro CLI를 다루는 종합 워크샵. 한국어/영어 PDF, 챕터당 30-45분. Foundations(CH01-06: 소개·설치·인증·모델·채팅·세션) → Core(CH07-11: 컨텍스트·터미널 UI·권한·steering·커스텀 에이전트) → Advanced(CH12-17: 서브에이전트·스킬·MCP·훅·헤드리스·자동완성) → Reference(CH18: 명령 레퍼런스). 50명 이하 기술 세미나용, 입문→고급. CC BY 4.0
+  * [kiro-with-harness: Kiro에 Harness 엔지니어링 적용하기](https://github.com/TeiNam/kiro-with-harness)
+    * [GitHub - TeiNam/kiro-with-harness | Tei Nam](https://www.linkedin.com/posts/rastalion_claudeopus-aiengineering-developertools-share-7468699391575552000-8wgw/)
+    * Kiro IDE용 하네스 엔지니어링. 프로파일 기반 인스톨러로 steering rules·hooks·agents·skills·MCP 설정을 Kiro 워크스페이스에 배포. Claude Opus 4.8 튜닝—역할 기반 모델 라우팅, DAG 병렬 위임, 공유 협업 가이드(AGENTS.md). global/workspace 2-tier
 * [LocalGPT: Local-first AI assistant with 3D world builder and autonomous task execution](https://github.com/localgpt-app/localgpt)
 * [spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)
   * [spec-driven.md at main · github/spec-kit](https://github.com/github/spec-kit/blob/main/spec-driven.md)
