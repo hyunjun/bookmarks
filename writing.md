@@ -363,3 +363,7 @@ Writing
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
 * [The Challenges of Reading Code and How to Deal with Them](https://www.infoq.com/news/2021/12/reading-code/)
 * [스타트업 신입 개발일지(02 : 소스 코드 분석하기)](https://velog.io/@qksud14/jrdev-02)
+* [책을 많이 읽어도 다 까먹는 이유: 뇌과학이 증명한 '상위 1%' 독서법 - YouTube](https://youtube.com/watch?v=SvaeYOay0Kc)
+  * 그리는 심리학. 부드럽게 읽힐 때 '뇌에 지식이 쌓였다'고 착각하는 '유창성 착각'에서 벗어나 능동적 회상·파인만 기법(중학교 2학년이 이해할 수 있는 언어로 설명)·분산 반복(망각곡선 활용) 3가지 뇌과학 기반 독서법
+* [똑같은 내용을 책으로 읽은 아이와 영상으로 본 아이의 충격적인 격차 - YouTube](https://youtube.com/watch?v=GaFml8uvkYE)
+  * EBS 다큐멘터리 K *책맹인류 1부 읽기의 과학* (2023.8.30). 이정모(전 국립과천과학관장) 등과 함께 뇌의 좌반구 후두엽-측두엽 경계 '문자 상자', 안구 도약·고정의 읽기 한계, 한국인만 읽을 수 있는 후기로 본 상향/하향 처리, 글자의 음성화, 배경지식과 문해력의 관계
