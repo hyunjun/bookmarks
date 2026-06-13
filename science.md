@@ -257,6 +257,8 @@ Science
 * [양자 이론의 9가지 핵심 요소 | 다석 유영모 | Facebook](https://www.facebook.com/groups/639233582861666?multi_permalinks=26417231647968506)
 * ["이해하는 순간 인생은 완전히 달라진다" 세상에서 가장 쉬운 양자역학 채은미 박사의 완벽한 양자역학 강의 한방에 몰아보기 - YouTube](https://youtube.com/watch?v=2of4_cNc9wM)
   * EBS 클래스e. 채은미(고려대) 박사의 양자역학 12강 통합 영상. 핵심 개념부터 양자컴퓨터 등 기술 동향까지. 2025년 양자역학 탄생 100주년 기획
+* [김성완 - Extropic의 열역학 컴퓨터 시제품 XTR-0 언박싱 | Facebook](https://www.facebook.com/seongwan.kim.3/videos/1338748978210809/)
+  * Extropic이 디지털·양자가 아닌 제3의 컴퓨팅 패러다임으로 열역학 컴퓨터 시제품 XTR-0을 연구자/개발자에게 배송 시작. 기존 컴퓨터의 1/10,000 전력으로 동작, AI 시대 전력 병목 해결책. 올해 안에 100만+ 열역학 소자 본격 버전 출시 예정. 김성완 본인은 열역학 컴퓨팅 책 집필 중
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)
