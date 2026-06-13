@@ -2955,6 +2955,8 @@ NLP
     * [DeepSeek_V4.pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)
     * [DeepSeek-V4 아키텍처 혁신: Sparse Attention과 1.6T 모델 이해 | digitalbourgeois](https://digitalbourgeois.tistory.com/3050)
       * V3 600B→V4 1.6T로 확장하면서 연산 비용 급감. 사전학습에 통합된 Sparse Attention(슬라이딩 윈도우+압축 토큰+인덱스 어텐션), MLA→MQA 대체, 알고리즘-하드웨어 레벨 인프라 최적화. 27% 토큰 연산·10% KV 캐시 메모리
+    * [DeepSeek V4: ten teachers, one student | Maxime Labonne](https://maximelabonne.substack.com/p/deepseek-v4-ten-teachers-one-student)
+      * 2026.4.24 V4-Pro(1.6T)·V4-Flash(284B) MIT 오픈웨이트, 1M 컨텍스트. 하이브리드 어텐션(CSA+HCA)로 KV 캐시 2%, mHC, Muon 옵티마이저. 1M 토큰당 49B 활성(오픈웨이트 최고). Hopper에서 학습(Ascend 마이그레이션 실패). 핵심 혁신은 사후학습 2단계—도메인 전문가 SFT+GRPO → 10+ 교사 모델로부터 full-vocabulary logit on-policy distillation. AA 인덱스 52점(Kimi K2.6/MiMo 54점에 약간 밀림). 약점은 사실성, 강점은 OpenRouter 주당 3.64조 토큰 점유
   * [DeepSeek-V4-Pro: Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
     * [DeepSeek-V4 공개 | GeekNews](https://news.hada.io/topic?id=28845)
     * [EP 95. DeepSeek-V4 논문 읽기 - YouTube](https://www.youtube.com/watch?v=rJEMaldMyLE)
