@@ -2005,6 +2005,8 @@ Business
   * ③ 핵심 데이터에 집중하고 나머지는 과감히 버리세요. 모든 데이터를 확인하려고 하지 말고, 주요 지표 중심으로 빠르게 판단하는 방식이 더욱 효과적
   * ④ 작고 자주 실험하세요. 한 번에 큰 결정을 내리기 어렵다면 소규모 파일럿 테스트로 시장 반응을 신속히 확인한 후 단계적으로 확장
 * [하버드대에서 밝힌 「후회를 멈추기 위한 단 1가지 방법 」 - YouTube](https://www.youtube.com/watch?v=bhopRTsUjis) 결정 방식을 결정하라
+* [인생의 중요한 갈림길에서 후회 없는 선택을 내리는 심리학적 방법 | 이동귀 연세대 교수 | 인생질문 346회 - YouTube](https://youtube.com/watch?v=qaSbN4QWcZY)
+  * 이동귀 연세대 심리학과 교수, 『나는 왜 결정이 두려운가』 저자. '결정 장애'의 진짜 원인—이성 vs 감성 이분법 부정, 정보 과잉이 뇌를 마비시키는 메커니즘. 의외의 특징(완벽주의·자존감·책임감 과잉)과 행동 시작 법칙. 주식 손절매를 못하는 이유, "나쁜 선택이 나쁜 나를 의미하지 않는다"
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -3914,6 +3916,10 @@ Business
 * [학습과 성장 컨퍼런스 2024의 연사진 소개](https://puddingcamp.com/meetups/conference2024/speakers/kwaan)
   * [권준호+-+어딜가나+PRD를+얘기하는+사람+-+학습과+성장+컨퍼런스+2024.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://s3.ap-northeast-2.amazonaws.com/pudding.camp/static/conference/2024/%E1%84%80%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A9+-+%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%86%AF%E1%84%80%E1%85%A1%E1%84%82%E1%85%A1+PRD%E1%84%85%E1%85%B3%E1%86%AF+%E1%84%8B%E1%85%A4%E1%84%80%E1%85%B5%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB+%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%B7+-+%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%80%E1%85%AA+%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC+%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%91%E1%85%A5%E1%84%85%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B3+2024.pdf)
 * [product의 본질과 목적과 하이 레벨의 요구 사항 정도만 정해지면 구체화 및 clarification은 엔지니어들이 고객과 직접 소통하며 수행하도록 해야 한다는 주장](https://www.linkedin.com/posts/spike-jee-480225a_10x-developers-dont-use-requirements-they-activity-7355312686206738432-92Q6/)
+* [AI는 왜 자꾸 틀리는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/3775/)
+  * [PM은 LLM을 어디까지 이해해야 할까 | 요즘IT](https://yozm.wishket.com/magazine/detail/3784/)
+  * [AI 기능은 '프롬프트'가 아니라 '시스템'으로 만든다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3797/)
+  * 김영욱 〈AI 프로덕트 매니지먼트〉 시리즈 3편. 1편: 결정론 vs 확률론, 에어캐나다 챗봇 사건, 정확도 100% KPI 대신 오류 분포 관리. 2편: PM이 알아야 할 LLM 5개념(토큰·컨텍스트·추론·RAG·에이전트), 한국어가 영어 대비 1.5~2배 토큰. 3편: AI 기능 = 시스템(입력처리·프롬프트·출력처리·오케스트레이션 4레이어), 신뢰 설계 3패턴(출처·확신도·휴먼 에스컬레이션), Retry→Fallback→Escalation 연착륙
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
