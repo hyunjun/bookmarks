@@ -328,6 +328,8 @@ Finance
 * [edgartools: The world's easiest, most powerful edgar library](https://github.com/dgunning/edgartools)
 * [FinAgent-Lab · GitHub](https://github.com/FinAgent-Lab)
   * [가짜연구소에서 Financial Agent를 개발](https://www.linkedin.com/posts/hansu-jeong_finagent-lab%EC%9D%B4-langchain-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EA%B3%B5%EC%8B%9D%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-activity-7327260355561226240-qGuy/)
+* [Finance-Guru: AI-powered family office system built on BMAD-CORE v6 architecture](https://github.com/AojdevStudio/Finance-Guru)
+  * 11개 AI 전문가가 협업하는 개인 가족 자산관리 시스템. 한 명령(`/fin-guru:agents:finance-orchestrator`)으로 포트폴리오·리스크 허용도·목표를 아는 전문가 팀 활성화. 헤징·포트폴리오 보호(Total Return·Rolling Tracker·Hedge Sizer), Fidelity CSV 동기화, Plaid 대시보드. Electron 데스크톱(Agent SDK)+Plotly. 16개 스킬을 pi-coding-agent 등 Agent Skills 표준 하네스에 심링크
 * [financial-services: Claude for Financial Services — reference agents, skills, and MCP data connectors for investment banking, equity research, PE, and wealth management](https://github.com/anthropics/financial-services)
   * [Anthropic just open-sourced Wall Street (11.4k stars) - YouTube](https://www.youtube.com/watch?v=E4GNZxJQqfM)
   * [GitHub - anthropics/financial-services | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_github-anthropicsfinancial-services-share-7457524869207851008-0aCT)
