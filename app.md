@@ -1053,6 +1053,10 @@ App
   * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
   * [Atom을 마크다운 에디터로 사용하기 (feat. Mac OS)](https://jojoldu.tistory.com/601)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
+* [Cate · Canvas Terminal Editor](https://cate.cero-ai.com/)
+  * [cate: An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace](https://github.com/0-AI-UG/cate)
+  * [Cate - 무한 줌 가능한 코딩용 캔버스 IDE | GeekNews](https://news.hada.io/topic?id=30438)
+  * 무한 캔버스 기반 데스크톱 IDE. 에디터·터미널·브라우저·문서·AI 에이전트를 자유 공간에 배치, 패널 플로팅·도킹·창 분리, 폴더 단위 레이아웃 복원. Monaco+xterm.js+Git 통합, 인앱 코딩 에이전트 Pi(@earendil-works/pi) 내장+Anthropic/OpenAI Codex/Copilot/Gemini/OpenRouter/Groq/Mistral/DeepSeek 연결. Electron+React+Zustand+Tailwind. macOS/Windows/Linux. MIT
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
   * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
@@ -1512,6 +1516,8 @@ App
   * [맥 처음사면 항상 바꿔주는 기본 설정 (애플은 생각보다 친절함) - YouTube](https://www.youtube.com/watch?v=omApyJigr_c)
   * [맥북 열고 이대로만 따라하세요. 한 번 해두면 n년 편한 맥 초기 설정 35가지 (with M2 맥북 에어15) - YouTube](https://www.youtube.com/watch?v=w2GVdqEtb40)
 * [Set up a Mac in 2024 for Power Users and Developers - YouTube](https://www.youtube.com/watch?v=GK7zLYAXdDs)
+* [macOS 에서 업데이트 된 11가지 생산성 향상 기능들 - YouTube](https://www.youtube.com/watch?v=oVwXpCLP95A)
+  * Mac & Tips. 미리 알림·캘린더 통합, 메뉴 막대 날씨앱, iCloud 다운로드, 윈도우 타일링, 메모앱 계산 기능, 방해 요소 제어, 클립보드 히스토리, 파인더 계층보기, 제어 센터 추가, 폴더 사용자화, 검색 기록 찾기
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
     * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
@@ -1810,6 +1816,8 @@ App
   * 키보드 중심·네이티브 macOS UI의 경량 클립보드 매니저. 로컬 저장, 패스워드 매니저 연동, macOS Sonoma 14+, MIT
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
+* [macSandbox for Windows — Disposable Windows 11 ARM64 sandboxes for Apple Silicon Macs](https://yourtablecloth.app/macSandbox)
+  * Apple Silicon Mac에서 일회용 Windows 11 ARM64 샌드박스. WinPE+DISM 무인 설치로 베이스 이미지 1회 생성, QEMU+Hypervisor.framework copy-on-write 오버레이로 부팅, 종료 시 변경사항 미보존. `.wsb` 호환, 양방향 클립보드, 폴더 자동 마운트, CUPS 프린터, 한/영 키 처리. AGPL-3.0/상용 듀얼. macOS 14+, 본인 ISO·24GB 필요
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766) spectacle 유사. 워크스페이스 정리. 유료
 * [Matchumbeop - macOS용 한글 맞춤법 검사기](https://matchumbeop.ssut.me/)
   * [Matchumbeop: 한글 맞춤법 검사기 for macOS (match-um-beop 아님)](https://github.com/ssut/Matchumbeop#%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -2839,6 +2847,9 @@ App
     * [Obsidian CLI + Claude Code로 20+ 프로젝트 관리 | 배수정](https://www.linkedin.com/posts/crystal0224_obsidian-cli-obsidian-help-share-7443117177697832960-4msv)
     * Obsidian 창시자 Steph Ango의 스킬 모음. obsidian-cli(노트·검색·태그), obsidian-markdown(위키링크·콜아웃·속성), obsidian-bases(DB), json-canvas(비주얼 캔버스), defuddle(웹→마크다운). Obsidian 1.12+ CLI 활성화 후 3줄 설치
   * [Obsidian with Ollama - YouTube](https://www.youtube.com/watch?v=9YYB8a_ehc4)
+  * [Osync-p: End-to-end encrypted vault sync plugin for Obsidian](https://github.com/KORThomasJeong/Osync-p)
+    * [Heerak Jeong - Obsidian 동기화 플러그인 직접 개발 후기 | LinkedIn](https://www.linkedin.com/posts/heerak-jeong-556b7a79_github-korthomasjeongosync-p-share-7469261338922364928-ME7L/)
+    * 셀프호스팅 가능한 E2EE Obsidian 동기화 플러그인. AES-256-GCM 로컬 암호화+Argon2id 키 파생, 서버는 암호화 blob만 저장. Obsidian 실행/포커스 시 자동 동기화, 0.5초 내 반영. 이미지·오디오·비디오·PDF 개별 토글, 충돌 해결·버전 히스토리. Docker 셀프호스팅(MinIO+Postgres+API), Presigned URL 방식. MIT
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
   * [Relay - Team collaboration in Obsidian](https://relay.md/)
