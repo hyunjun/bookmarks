@@ -373,6 +373,12 @@ Politics
   * [미국에서 금리가 오르면 한국 집값이 하락?](https://youtu.be/vN8ovHpLIFI)
   * [김성원 - 불평등 도시 서울과 정의로운 도시 붉은 비엔나 | Facebook](https://www.facebook.com/groups/1104470326348896/?multi_permalinks=26853418071027435)
     * 서울 PIR 25배·공공임대 6~8% vs 빈 시민 60% 공공·사회주택. 1918~1934년 '붉은 빈' 시기의 누진 주택세(브라이트너 세금), 강력한 세입자보호법, 공공 토지 매입(시 면적 1/3)으로 공급한 카를-마르크스-호프 사례. 서울의 진짜 문제는 공급 부족이 아니라 분배 실패
+  * [최병천 - '종부세 폭탄'의 공포와 '오세훈 투표' 성향의 상관관계 | Facebook](https://www.facebook.com/share/p/17mpJ4jPfW/)
+    * 데이터 대마왕 슬로우뉴스 이정환 대표의 부동산 가격과 서울시장 득표율 상관관계 그래프 분석. 부동산 가격이 높을수록 오세훈 후보, 낮을수록 정원오 후보로 갈리는 패턴
+  * [장정수 - 6.3 지방선거와 부동산 민심: 민주당이 예상하지 못한 역풍 | Facebook](https://www.facebook.com/share/p/18svVC7Se1/)
+    * 6·3 지방선거 결과에서 수도권(특히 서울시장)에서 부동산 문제가 핵심 변수로 부상. 부동산 민심이 민주당 패배 사유로 작동
+  * [정승일 - 주택과 세금, 이념: 미국과 한국의 비교 | Facebook](https://www.facebook.com/seungil.jeong.10/posts/pfbid02ceNBm6Q2yL7TW3JwMaUwF1uwWwd397B9U4U8FBJvhov8p86ruGyqkJtT6u5zKV1fl)
+    * 미국 재산세는 지역 공공서비스 재원이라 자가소유자가 자발적 수용(좋은 학군→높은 집값→높은 재산세 선순환), 헨리 조지 토지지대세 논리와 다름. 티파티가 재산세를 공격 안 한 이유, 캘리포니아 Prop 13 사례. 보유세 GDP 비중 한국 0.9%/미국 2.7%, 실효세율 한국 0.15%/미국 0.83%. 미국 좌파(샌더스·AOC·맘다니)는 자가소유 확대가 아닌 임대료 안정·세입자 보호·공공임대에 집중, 부자증세는 보유세 아닌 소득·법인·자본이득세 누진성. 한국 민주당의 1가구1주택·보유세 환원주의 비판
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)
@@ -384,6 +390,8 @@ Politics
   * [왜 언론은 북한에 대한 중요한 사실을 간과하는가](http://www.huffingtonpost.kr/nk-news/story_b_7060100.html)
   * [“김정은이 남침야욕? 공짜로 줘도 안 먹는다”](http://mediatoday.co.kr/news/articleView.html?idxno=122679)
   * [통일의 대전제는 미·중 평화관계다](http://www.huffingtonpost.kr/younghie-kim/story_b_8387756.html)
+  * [남문희 - 시진핑의 다급했던 평양행: '이상한 회담'의 행간을 읽는 시선 | Facebook](https://www.facebook.com/story.php?story_fbid=27272571799020436&id=100000829504394)
+    * 2026.6.8-9 평양 북중 정상회담 분석. 단골 메뉴였던 북한 핵 관련 언급이 공식적으로 나오지 않음, 시진핑이 강조한 '외교·법집행·군대 등 분야 교류 강화' 제안의 행간 해석
 * 사법부
   * ['벤츠 여검사' 대법원서 무죄 확정](http://www.huffingtonpost.kr/2015/03/12/story_n_6852694.html)
   * ['긴급조치 1호 첫 위반' 백기완씨 국가소송서 패소](http://www.huffingtonpost.kr/2015/04/08/story_n_7022190.html)
