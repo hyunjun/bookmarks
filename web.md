@@ -2106,6 +2106,9 @@ Web
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [여기보기 적에게 내 WAS의 디렉터리와 파일을 알리지 말라, WAS 디렉터리 인덱싱 및 상위 디렉터리 접근 제한 - 넷마블 기술 블로그](https://netmarble.engineering/was-directory-indexing-and-restricting-access-to-parent-directory)
 * [여기보기 WAS의 정보는 개인정보 다루듯이 보호하라 - 넷마블 기술 블로그](https://netmarble.engineering/was-information-private/)
+* [ezXSS — easy way to test (blind) Cross Site Scripting](https://ezxss.com/)
+  * [ezXSS: an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting](https://github.com/ssl/ezXSS)
+  * 펜테스터·버그바운티용 blind XSS 테스트 플랫폼. 페이로드 실행 시 스크린샷·DOM·쿠키·세션 등 정보 수집. PHP, MIT
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
