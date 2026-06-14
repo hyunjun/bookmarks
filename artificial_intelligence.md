@@ -714,6 +714,8 @@ Artificial Intelligence
 * [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 1: 웹·코딩 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3786/)
   * [지금 진짜 쓸 만한 AI 에이전트 10가지 총정리 2: 자율 에이전트 | 요즘IT](https://yozm.wishket.com/magazine/detail/3800/)
   * 프로덕트 밸리. 에이전트를 가르는 4가지 기준(컨텍스트·도구·권한·트리거). 1편: 웹(Manus·Genspark)+코딩(Claude Code·Codex·Antigravity·Claude Cowork). 2편: 자율(OpenClaw·Hermes Agent·OpenHuman·Gemini Spark). 3단계 사다리—웹→코딩→자율, 권한을 좁게 시작해 점진 확장
+* [고영혁 - 전문가 AI 에이전트 팀 시스템 베타 테스팅에서 깨달은 팀 구성의 중요성 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0cjVxDqmc37dhQgMpa7qjvwnyVEzKk1uaKwCbsL6PMTCuNKWGVAMSpWzF9rpT47HSl)
+  * 헬스케어 고객사 베타에서 AI 에이전트 팀에 '제품 전문가'(R&D 리서처+제품화 욕구+혁신 지향)가 빠지고, 그 역할을 보수적인 세일즈·컴플라이언스가 못 메워 퍼포먼스 저하. 행동규칙 1순위를 리스크 회피로 두면 차순위 무시됨. 멀티 에이전트 오케스트레이션은 프롬프트·하네스를 넘어 팀 구성·멤버 페어링·커뮤니케이션 프로토콜 역량이 핵심—HR 전문성·컨설팅이 필요한 영역
 * [2505.10468 AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge](https://arxiv.org/abs/2505.10468)
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
@@ -866,6 +868,7 @@ Artificial Intelligence
 * [Autonomous-LLM-Agents: MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
 * [autoresearch: AI agents running research on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch)
   * [Karpathy just open-sourced autoresearch | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_karpathy-just-open-sourced-autoresearch-share-7436396818139344896-tTik)
+  * [github - karpathy/autoresearch | seungpil](https://www.linkedin.com/posts/seungpil_github-karpathyautoresearch-ai-agents-activity-7436938888197230592-3RBC)
   * [Claude Code + Autoresearch = SELF-IMPROVING AI - YouTube](https://www.youtube.com/watch?v=4Cb_l2LJAW8)
     * [Claude Code + Autoresearch = 자기 개선 AI](https://livewiki.com/ko/content/claude-autoresearch-self-improving-ai)
   * [autoresearch: AI가 program.md를 읽고 밤새 train.py를 바꾸는 연구실](https://medium.com/@aristojeff/autoresearch-ai%EA%B0%80-program-md%EB%A5%BC-%EC%9D%BD%EA%B3%A0-%EB%B0%A4%EC%83%88-train-py%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%97%B0%EA%B5%AC%EC%8B%A4-ef0b5501e03d)
@@ -873,6 +876,7 @@ Artificial Intelligence
   * [Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI - YouTube](https://www.youtube.com/watch?v=kwSVtQ7dziU)
     * [Andrej Karpathy, 코드 에이전트·AutoResearch·AI의 루피 시대](https://livewiki.com/ko/content/andrej-karpathy-code-agents-autoresearch-ai)
     * [Andrej Karpathy on Code Agents | GeekNews](https://news.hada.io/topic?id=27706)
+    * [Andrej Karpathy on Code Agents, AutoResearch | kjh941213](https://www.linkedin.com/posts/kjh941213_andrej-karpathy-on-code-agents-autoresearch-share-7441277649802604544-2MIk)
   * Karpathy의 AI 연구 자동화 에이전트. 단일 GPU에서 nanochat 학습 실험을 자동으로 실행·분석. 5분 고정 학습 후 val_bpb 기준 평가, 시간당 약 12회 실험 반복
   * [Claws는 이제 LLM 에이전트 위에 추가된 새로운 계층임 | GeekNews](https://news.hada.io/topic?id=26883)
     * Karpathy autoresearch 분석: AI 시대 핵심 역량은 코드 생성이 아닌 평가 시스템 설계. 탐색 공간·평가 기준을 정의하는 '평가자 설계자'가 미래 전문성
@@ -3044,6 +3048,16 @@ Artificial Intelligence
   * 2026.6.6 트렌드 분석. markitdown(MS)·headroom(컨텍스트 압축)·MoneyPrinterTurbo·ECC·codegraph·Understand-Anything·taste-skill·VoxCPM·supermemory·claude-code 10선. 6가지 인사이트—컨텍스트가 새 병목, 메모리는 인프라, 막연한 자율성보다 스킬, 비디오 에이전트 가속, 음성 기본 요건화, 로컬 우선 부상. "모든 레포를 쫓지 말고 입력 압축·검색 가능 메모리·결과당 토큰 비용에 집중"
 * [Dongsoo Lee - Agentic AI 시대, 메모리의 기회와 숙제 | Facebook](https://www.facebook.com/dongsoo.lee.104/posts/pfbid0AWRQX5pbhqFc8eCtpSnNhFwPJiGfqBvTDuWi2eC2m5cLkeRiih91bPjv1jum9ekFl)
   * Agentic AI는 사람이 아닌 AI가 traffic을 생성(계획·도구호출·재시도)해 user traffic 한계를 넘어 메모리·GPU·스토리지 수요를 폭증시킴. harness는 결국 long context를 효율적으로 쓰기 위한 기법 묶음. 제본스 역설로 효율 개선이 더 큰 작업 수요를 부름. 메모리가 GPU 보조에 머물면 성장도 GPU에 갇히지만, long context·상태관리를 메모리 솔루션이 독자 수행(CXL·PIM·새 스토리지 계층)하면 agentic AI 인프라의 실행 공간이 될 수 있음
+* [김성완 - Andrej Karpathy가 지난 몇 주 동안 Claude로 코딩하며 느낀 점 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid02vNgw7tG8BFjvSYLffoGyFWe9Rf9T4aM6Jo39Btsfybx6VpFQALaaoTSBp1V51Htcl)
+  * [Andrej Karpathy on X](https://x.com/karpathy/status/2015883857489522876)
+  * Karpathy의 2026 코딩 워크플로우 급변—11월 수동+자동완성 80%/에이전트 20% → 12월 에이전트 80%/편집 20%, "영어로 프로그래밍". 단 IDE 감시 여전히 필요. LLM 실수의 변화(미묘한 개념적 오류), 멋대로 가정·과한 고분고분함, 코드 비대화(1000줄→100줄 한마디면 축소) 지적
+* [Jaeyun Henry Lee - Karpathy의 "답변을 HTML로 구조화" 제안 | LinkedIn](https://www.linkedin.com/posts/jaeyunhenrylee_%EC%A0%95%EB%A7%90-%EA%BC%AD-%EB%B3%B4%EB%9D%BC%EA%B3%A0-%EB%A7%90%EC%94%80%EB%93%9C%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4-andrej-karpathy%EC%9D%98-%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%9E%85%EB%8B%88%EB%8B%A4-share-7459716123073122305-V0Lp)
+  * AI 답변 마지막에 "HTML로 구조화해줘"를 붙여 텍스트를 브라우저에서 보는 활용법
+* [이상선 - Andrej Karpathy가 2시간 동안 실제 AI 쓰는 화면을 보여줬다 | Facebook](https://www.facebook.com/reel/1515341786670439)
+  * 말로 일을 맡기고 결과를 보고 한 문장으로 고치는 단순한 흐름. AI 시대의 차이는 프롬프트 암기가 아니라 "일을 맡기는 감각"
+* [Unrolling the Codex agent loop | Junho Kong](https://www.linkedin.com/posts/junho-kong_unrolling-the-codex-agent-loop-activity-7437130542879354880-jGNV)
+  * Codex 에이전트 루프를 펼쳐 분석
+* [AI가 코드를 다 짜준다면 뭐가 남을까요 — 각자 다른 관점을 가진 세 사람 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai%EA%B0%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%8B%A4-%EC%A7%9C%EC%A4%80%EB%8B%A4%EB%A9%B4-%EB%AD%90%EA%B0%80-%EB%82%A8%EC%9D%84%EA%B9%8C%EC%9A%94-activity-7430744321303400448-6Jgn)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3521,6 +3535,13 @@ Artificial Intelligence
     * ~1,100편 논문 기반 생물학 지식 위키 구축 방법론. Papers(원본 PDF)→Sources(LLM 구조화 요약)→Wiki(크로스레퍼런스) 3계층 파이프라인. bioRxiv/medRxiv/PubMed 자동 모니터링, Obsidian 위키링크 통합
     * [Compounding Wiki — 31일의 누적 | 안준용](https://joonan30.github.io/llm-wiki-labs/evolution/)
       * GitHub gist 링크 붙여넣기로 5분 세팅. papers/ sources/ wiki/ 3폴더 구조, AGENTS.md로 병렬 에이전트 규칙 통제. PDF→요약→위키노트→합성→스펙→결과 6층 누적, 학부생·대학원생·PI별 역할 워크플로우, Notion/Slack/Gmail 연동
+  * [🧠 AI가 스스로 진화하는 지식 베이스 LLM Wiki 구축 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A7%A0-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EC%A7%84%ED%99%94%ED%95%98%EB%8A%94-%EC%A7%80%EC%8B%9D-%EB%B2%A0%EC%9D%B4%EC%8A%A4-LLM-Wiki-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [Andrej Karpathy 덕분에 모두의 Claude Code가 10배 강해졌습니다 - YouTube](https://www.youtube.com/watch?v=nldkPgp3aIA)
+    * Tech Bridge. Karpathy LLM 위키 아이디어 기반, Claude Code+Obsidian만으로 RAG 없이 raw/wiki/index/log 구조의 검색 가능 개인 지식 시스템 구축
+  * [Suk Namgoong - Karpathy의 LLM-Wiki 를 한번 따라해 봤는데 나쁘지 않은듯 | Facebook](https://www.facebook.com/suk.namgoong/posts/pfbid04nCqToZHSdL2kZvce8dVbkkqHGa3FS9HNbfTn94JVqgQTCQ7a1KF3D99qzVvxLhPl)
+  * [Andrej Karpathy가 LLM knowledge base라는 개념을 | seungpil](https://www.linkedin.com/posts/seungpil_andrej-karpathy%EA%B0%80-llm-knowledge-base%EB%9D%BC%EB%8A%94-%EA%B0%9C%EB%85%90%EC%9D%84-ugcPost-7446913826173915137-Ckln)
+  * [AI 시대의 지식 베이스, LLM Wiki | sanguinekim](https://www.linkedin.com/posts/sanguinekim_ai-slsstwswktxu-llmwiki-ugcPost-7447261225807269888-_zfW)
+    * [김상윤 - LLM Wiki | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0yEMvsKTJ76EEaJM4DesMg8RM3zG1oF3FhjKMQSHD4s4mKU4CTASSUX9gyMmK9sEsl&id=61582636636508)
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [guppylm: ~9M parameter language model trained from scratch](https://github.com/arman-bd/guppylm)
