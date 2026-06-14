@@ -320,6 +320,8 @@ NLP
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
 * [AI 모델 ‘지식 증류’의 모든 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/3107/) distillation
 * [LLM 지식 90%는 쓸모 없는 지식 LLM에서 핵심 지식만 뽑아내는 기술-Distillation - YouTube](https://www.youtube.com/shorts/jj4QnalJ5Oo)
+* [Gabriela Kadlecová - Training Small Language Models with Knowledge Distillation (PyData Prague #34) - YouTube](https://www.youtube.com/watch?v=pEXoiFbgE2U)
+  * 작은 특화 모델(SLM)을 지식 증류로 학습하는 전체 파이프라인—태스크 정의·시드 데이터 준비→대형 teacher 모델의 합성 데이터 생성/정제→SLM 파인튜닝→로컬 배포. base vs 파인튜닝 벤치마크 비교, 라이브 데모. 추론 비용·프라이버시 문제 해결
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
 * [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
