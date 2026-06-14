@@ -637,6 +637,9 @@ History
 * [고대 그리스의 갑작스러운 멸망, 왜?](http://techholic.co.kr/archives/43071)
 * [Temple Medicine, Oracles and the Making of Modernity: The Ancient Greek Occult in Anthropology and Psychology](https://forbiddenhistories.wordpress.com/2015/02/23/temple-medicine-oracles-and-the-making-of-modernity-the-ancient-greek-occult-in-anthropology-and-psychology/)
 * [Classics for the people – why we should all learn from the ancient Greeks](http://www.theguardian.com/books/2015/jun/20/classics-for-the-people-ancient-greeks)
+* [Antikythera mechanism - Wikipedia](https://en.wikipedia.org/wiki/Antikythera_mechanism)
+  * [김효경 - 안티키테라 기계: 2천 년 전 고대 그리스의 컴퓨터 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid02dnmPwYv7FwhXdoPkesYtVYmW7z18Ay5BixjuAvo39PoiVtGPmifTqZhEr8f41Ub4l)
+  * 1900년 안티키테라 난파선에서 발견된 청동 톱니바퀴 장치. 기원전 2세기 천문 계산기로, 30+ 기어로 태양·달·5행성 운행, 일식·월식, 올림픽 주기 계산. 달의 타원 궤도(케플러보다 1700년 앞섬)를 어긋난 기어로 재현. 1959년 프라이스 "고대 그리스의 컴퓨터", 2005년 마이크로포커스 CT로 내부 구조·그리스어 수천 자 판독
 * [The Ekklesia (Citizens' Assembly)](http://www.agathe.gr/democracy/the_ekklesia.html)
 * [Sparta: The Fall of the Empire](http://www.historynet.com/sparta-the-fall-of-the-empire.htm)
 
