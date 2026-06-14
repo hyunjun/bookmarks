@@ -988,6 +988,8 @@ Artificial Intelligence
     * 카드를 움직이는 건 사람이 아니라 named agent들. 각 워커는 별도 OS 프로세스로 떠서 같은 보드 위에서 동시에 작업
   * ["쓸수록 나아진다"는 그 AI, Hermes Agent 제대로 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3756/)
     * OpenRouter 사용량 1위 등극(Openclaw 추월). 4가지 자가 개선 메커니즘: 복잡 작업 자동 스킬 문서화, SQLite 기반 빠른 스킬 검색, 지속적 메모리 개선, 세션 간 사용자 모델 유지. 20+ 메시징 플랫폼·다중 백엔드 지원
+  * [지금 가장 쉬운 AI 사업 아이디어 - YouTube](https://www.youtube.com/watch?v=-DXhS_uAMIw)
+    * 노마드 코더. Hermes Agent를 'AI 직원'으로 만들어 비즈니스로 파는 방법. 스스로 발전하는 구조, Hostinger 배포, AI 직원 커스터마이징·사업 모델
   * [hermes-paperclip-adapter: Paperclip adapter for Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-paperclip-adapter)
     * Paperclip 회사 환경에서 Hermes Agent를 관리되는 직원처럼 운영. 8개 추론 프로바이더(Anthropic/OpenRouter/OpenAI/Nous/Codex/ZAI/Kimi/MiniMax), 30+ 네이티브 도구·80+ 스킬·MCP, 영구 세션·하트비트, 이슈 할당/댓글로 트리거
   * [hermes-war-room: Visual command center for Hermes Agent's multi-agent orchestration](https://github.com/Naroh091/hermes-war-room)
