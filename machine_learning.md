@@ -1451,6 +1451,9 @@ Machine Learning
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
+* [machine-learning-systems-design: A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
+  * [Machine Learning Systems Design | Chip Huyen](https://huyenchip.com/machine-learning-systems-design/toc.html)
+  * Chip Huyen의 ML 시스템 설계 부클릿+연습문제. (도서 "Designing Machine Learning Systems"의 dmls-book과는 별개)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
   * [Home - Made With ML](https://madewithml.com/) 애플 ML 개발자였던 Goku Mohandas가 만든 MLOps 코스. 처음부터 쉽고 간결하게 가르치는 것이 특징
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
