@@ -1043,9 +1043,11 @@ Artificial Intelligence
   * [Mercury Skills — the hub for agent skills](https://skills.mercuryagent.sh/)
     * [mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)
     * Mercury Agent용 큐레이션된 오픈소스 스킬 레지스트리. 23 카테고리 127 스킬, 트렌딩·카테고리 브라우징·검색. `mercury skills install` 터미널 설치. Mercury Agent + OpenClaw + Hermes 호환
+* [MiMoCode — An open-source AI coding agent with cross-session memory | Xiaomi](https://mimo.xiaomi.com/mimocode)
+  * [MiMo-Code: An open-source AI coding agent with cross-session memory](https://github.com/XiaomiMiMo/MiMo-Code)
+  * 샤오미의 터미널 네이티브 AI 코딩 에이전트. 코드 읽기/쓰기·명령 실행·Git 관리, 세션 간 영속 메모리로 프로젝트 이해 유지·자가 개선. MiMo Auto 무료 채널 내장(제로 설정 시작), 주요 LLM 프로바이더 API 연결. `@mimo-ai/cli`, TypeScript, MIT
 * [MiroFlow: MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench](https://github.com/MiroMindAI/MiroFlow)
   * Internet research agent for event prediction, MiroMind Research Agent
-    * Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance
 * [MiroShark: Universal swarm intelligence engine simulating scenarios with hundreds of AI agents](https://github.com/aaronjmars/MiroShark)
   * 뉴스·정책안·질문 등 시나리오에 수백 명의 AI 에이전트가 소셜 플랫폼/예측 시장에서 반응. 시뮬레이션 Twitter/Reddit 포스팅, 속보 주입·타임라인 포킹. PR 위기 테스트·광고 검증·정책 분석에 활용, OpenRouter API로 약 $1
 * [MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios](https://github.com/MiroMindAI/MiroThinker)
