@@ -3033,8 +3033,9 @@ Artificial Intelligence
   * Wix Data Engineering의 3,500+ Airflow 파이프라인 관리. AirBot이 on-call을 보조해 월 675 엔지니어링 시간 절감
 * [비개발자가 겪은 바이브 코딩의 현실 | 요즘IT](https://yozm.wishket.com/magazine/detail/3704/)
 * [martinfowler.com Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html)
-* [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
-  * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화
+* [The Intent Debt | Addy Osmani](https://addyosmani.com/blog/intent-debt/)
+  * [기술 부채, 인지 부채, 의도 부채 | GeekNews](https://news.hada.io/topic?id=28824)
+  * LLM이 코드 대량 생산하는 환경에서 기술·인지·의도 3층 부채. 기술부채는 미래 변경 제한, 인지부채는 팀 추론 능력 약화, 의도부채는 목표 기록 약화. 의도 부채는 AI 에이전트가 해결 못 하는 유일한 부채—시스템이 존재하는 '이유'는 인간만 제공 가능. 스펙·AGENTS.md·결정 로그로 의도를 명시 기록 필요
 * [현관문에도 얼굴이 있다: 배송 완료 사진 기반 On-device 오배송 탐지 시스템 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/image-based-misdelivery-detection)
   * 배송 완료 사진 임베딩 유사도로 오배송 탐지. On-device 추론으로 서비스에 적용
 * [“코딩 몰라도 단백질 설계한다”... 오픈프로틴AI, 연구자 위한 노코드 플랫폼 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39608)
