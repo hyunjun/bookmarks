@@ -387,8 +387,9 @@ NLP
 * [DPO 톺아보기 · likejazz.com](https://likejazz.com/dpo/)
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
 * [ART: Agent Reinforcement Trainer - Open-source RL for LLMs](https://github.com/OpenPipe/ART)
+  * [ART · Agent Reinforcement Trainer](https://art.openpipe.ai/)
   * [How to fine-tune LLMs in 2026 (100% open-source, reward-free RFT) | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_how-to-fine-tune-llms-in-2026-100-open-source-activity-7434989161377558528-Wktz)
-  * GRPO+RULER(LLM-as-judge) 조합으로 수동 reward function 없이 LLM 파인튜닝. Multi-turn tool call 네이티브 지원
+  * GRPO+RULER(LLM-as-judge) 조합으로 수동 reward function 없이 LLM 파인튜닝. Multi-turn tool call 네이티브 지원. Qwen3.6/GPT-OSS/Llama 등 멀티스텝 에이전트 학습
 * [Orbit: Stable and Efficient Reinforcement Learning for Trillion-Parameter LLMs | SphereLab](https://spherelab.ai/orbit/)
   * [orbit: Stable and Efficient Reinforcement Learning for Trillion-Parameter LLMs](https://github.com/sphere-ai-lab/orbit)
   * [임선영 - Orbit: 중국 오픈 RL 효율 시스템, 미국 칩 통제가 만든 "오픈 연구 컨소시엄" | Facebook](https://www.facebook.com/seonyoung.im.10/posts/pfbid0gEd6Qa4bgyx1GfPtVnFLozVDuYNJouCG2DUumBYqbWF7ym2vSArRbwyavBDVgDNdl)
@@ -4219,6 +4220,9 @@ NLP
   * [xenova/microgpt.js: The most atomic way to train and inference a GPT in pure, dependency-free JavaScript. This repository covers the complete algorithm. Everything else is just efficiency. Inspired by Karpathy's microgpt.py.](https://github.com/xenova/microgpt.js)
   * [microgpt.ipynb - Colab](https://colab.research.google.com/drive/1vyN5zo6rqUp_dYNbT4Yrco66zuWCZKoN?usp=sharing)
   * [최승준 - microgpt 200라인의 코드에 압축했네요. 공개된 걸 본 후 저도 바로 Opus 4.6으로 하여금... | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid0abNS3N74PuZx49THh1raoZeTodrY7Gv3qqQWdZgxnJbLk3hEFmpcAA1y7fjNx1Bdl)
+  * [microgpt.py | Karpathy gist](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95#file-microgpt-py)
+  * [🚀 AI 입문자 필수, MicroGPT로 GPT 원리 5분 만에 이해하기 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-AI-%EC%9E%85%EB%AC%B8%EC%9E%90-%ED%95%84%EC%88%98-MicroGPT%EB%A1%9C-GPT-%EC%9B%90%EB%A6%AC-5%EB%B6%84-%EB%A7%8C%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+  * [243줄로 만든 GPT, 이 코드를 읽으면 ChatGPT가 어떻게 작동하는지 보입니다 | FullstackFamily (carami)](https://www.fullstackfamily.com/@carami/posts/13891)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 * [Tracking AI](https://trackingai.org/) Monitoring Bias in Artificial Intelligence Chatbots
@@ -4859,6 +4863,7 @@ NLP
   * [TextFeatureSelection — A Python package - Praveen Govindaraj - Medium](https://medium.com/@praveengovi/textfeatureselection-a-python-package-c7493207b92)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
+* [transformers: 🤗 Transformers: the model-definition framework for state-of-the-art ML models (text, vision, audio, multimodal)](https://github.com/huggingface/transformers)
 * [twitter\_optimus\_twint: Analyzing tweets with Twint, Optimus and Apache Spark](https://github.com/FavioVazquez/twitter_optimus_twint)
   * [Analyzing Tweets with NLP in minutes with Spark, Optimus and Twint | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f)
 * [UTagger](http://nlplab.ulsan.ac.kr/doku.php?id=utagger)
