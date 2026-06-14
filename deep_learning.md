@@ -1109,6 +1109,7 @@ Deep Learning
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
   * [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)
+  * [d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries](https://github.com/d2l-ai/d2l-en)
   * [**d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch**](https://github.com/dsgiitr/d2l-pytorch)
   * [Dive into Deep Learning](https://ko.d2l.ai)
   * [Dive into Deep Learning Colab 실습환경 구축](https://gist.github.com/serithemage/44f7bb9ec9eed7cefa5ce48e13f09772)
