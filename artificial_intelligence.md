@@ -3544,6 +3544,8 @@ Artificial Intelligence
   * [Andrej Karpathy가 LLM knowledge base라는 개념을 | seungpil](https://www.linkedin.com/posts/seungpil_andrej-karpathy%EA%B0%80-llm-knowledge-base%EB%9D%BC%EB%8A%94-%EA%B0%9C%EB%85%90%EC%9D%84-ugcPost-7446913826173915137-Ckln)
   * [AI 시대의 지식 베이스, LLM Wiki | sanguinekim](https://www.linkedin.com/posts/sanguinekim_ai-slsstwswktxu-llmwiki-ugcPost-7447261225807269888-_zfW)
     * [김상윤 - LLM Wiki | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0yEMvsKTJ76EEaJM4DesMg8RM3zG1oF3FhjKMQSHD4s4mKU4CTASSUX9gyMmK9sEsl&id=61582636636508)
+  * [obsidian-wiki: Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern](https://github.com/Ar9av/obsidian-wiki)
+    * Karpathy LLM Wiki 패턴을 Obsidian으로 구현하는 프레임워크. 모든 스킬이 마크다운 파일—Claude Code/Cursor/Windsurf/Pi/Codex/Gemini/Hermes 등이 읽고 실행. `pip install obsidian-wiki` 후 vault 지정, RAG 없이 상호 연결된 마크다운으로 지식 컴파일·유지. MIT
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [guppylm: ~9M parameter language model trained from scratch](https://github.com/arman-bd/guppylm)
