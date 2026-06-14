@@ -559,6 +559,11 @@ NoSQL
   * [MangoDB - MongoDB의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=5308)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol](https://github.com/bwaldvogel/mongo-java-server)
 
+# Murr
+* [murrdb/murr: Sub-millisecond cache for ML/AI workloads. Parquets in, Arrow-Flight out](https://github.com/murrdb/murr)
+  * [murrdb/murr - ML/AI 워크로드용 서브 밀리초 캐시 | GeekNews](https://news.hada.io/topic?id=30469)
+  * RocksDB 기반 NVMe/S3 캐시, AI 추론 워크로드용 Redis 대체. Tiered storage(핫=메모리·콜드=디스크+S3 복제), 배치 in/out(컬럼형, per-row 오버헤드 없음, Parquet/Arrow 직접 ingest), zero-copy 와이어 프로토콜(np.ndarray/DataFrame/Tensor 변환 불필요), stateless(상태는 S3에 영속, 노드 축출 시 블록 스토리지에서 self-bootstrap). Rust, Apache-2.0
+
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
 * [OmniSciDB (formerly MapD Core) https://www.omnisci.com ](https://github.com/omnisci/omniscidb)
@@ -671,6 +676,8 @@ NoSQL
   * 로컬 개발, DB 마이그레이션, Edge Functions 배포, CI/CD 통합 등 Supabase 프로젝트를 터미널에서 관리하는 공식 CLI
 * [crossplatformkorea/CPK](https://github.com/crossplatformkorea/cpk)
   * [커뮤니티 앱 개발 리뷰 - YouTube](https://www.youtube.com/watch?v=U_wgty0DMjE)
+* [Supabase 완전 가이드 (Full Version) | vibe-investing TechDoc](https://github.com/gameworkerkim/vibe-investing/blob/main/TechDoc/OpenSource_Firebase/SuperBase_guide.md)
+  * 2026.6 기준 Vercel+Next.js 풀스택 개발자 대상 Supabase 가이드. Database(PostgreSQL 15·RLS·PITR)·Auth(이메일/소셜 OAuth/SMS/SSO·JWT)·Storage(S3 호환·이미지 변환)·Realtime(웹소켓 CDC·Broadcast·Presence)·Edge Functions(Deno 서버리스) 핵심 기능 정리
 
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
