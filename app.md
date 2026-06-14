@@ -932,6 +932,9 @@ App
 * [OpenProject - Open Source Project Management Software](https://www.openproject.org/)
   * [openproject: Community edition of OpenProject - classic, agile, and hybrid project management](https://github.com/opf/openproject)
   * 간트 차트·Scrum/Kanban 보드·팀 플래너·업무 패키지·시간 추적·예산 관리. Nextcloud/OneDrive/GitHub/GitLab 연동. Community(무료 셀프호스트)/Enterprise On-prem/Enterprise Cloud 3가지 배포. GPL v3, Siemens·Deutsche Bahn 등 사용
+* [Paca - AI-native project management](https://paca-ai.org/)
+  * [paca: AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday](https://github.com/Paca-AI/paca)
+  * AI 에이전트와 사람이 같은 보드·스프린트·목표에서 동등한 스크럼 팀원으로 협업하는 셀프호스팅 PM 도구. 챗봇 애드온이 아니라 에이전트가 스프린트 계획 참여·보드에서 태스크 수령·BDD 스펙 작성. MCP 서버로 임의 AI 에이전트 연결, Claude Code 스킬 제공. config·플러그인으로 워크플로/데이터모델/UI 커스터마이즈. Go, Apache-2.0
 * [Plane - The Open Source Project Management Tool](https://plane.so/)
   * [plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage](https://github.com/makeplane/plane)
   * [The Open Source Jira Alternative - YouTube](https://www.youtube.com/watch?v=pgWHATQzkHk)
@@ -2398,6 +2401,11 @@ App
 * [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
 * [4K YouTube to MP3 유튜브 영상을 MP3(음원)로 추출 다운로드](https://truesale.tistory.com/entry/4K-YouTube-to-MP3-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-MP3%EC%9D%8C%EC%9B%90%EB%A1%9C-%EC%B6%94%EC%B6%9C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)
 * [KxCoding 5년 삽질기 #1. 강의 만들기로 결심했다가 음향 장비에 잠깐 빠졌던 이야기 | KxCoding](https://kxcoding.com/community/playground/da2ba76e-44ed-406f-8002-0e4f69f9423b)
+* [How Fable Edited Its Own Video — cc-video-editing-deck | Thariq](https://thariqs.github.io/cc-video-editing-deck/)
+  * [Claude Fable 5 changed how we work on the Claude Code team | ClaudeDevs](https://x.com/ClaudeDevs/status/2064399512664526853)
+  * [Claude Fable x 비디오 워크플로우 - Thariq가 직접 Fable로 런치 비디오 편집한 과정 | lucas](https://x.com/lucas_flatwhite/status/2064860215573717463)
+  * [류내원 - Claude Fable x Video Workflow (한글 자막) | Facebook](https://www.facebook.com/watch/?v=4241604956151407)
+  * Claude Code 팀 Thariq가 영상 편집기 없이 Fable로 Fable 5 런치 비디오 제작. Whisper 트랜스크립션(M4 Max 로컬)→서브에이전트 테이크 선별→JSON 편집 결정(근거 기록, 자가 검증)→ffmpeg 컷팅→커스텀 .cube LUT 7개 컬러 그레이딩→정적 디자인을 Remotion React 컴포넌트로 변환(transcript 타임스탬프 비트 싱크)→Figma MCP 실시간 협업. 17테이크→4K 3분 완성본 4일. 모든 편집이 텍스트·코드·JSON 기반이라 버전 관리·diff·재렌더링 자유
 * [9xbuddy : 그냥 최고 온라인 다운로더](https://9xbuddy.in/)
   * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
 * AllDUP [How-To : 무료 소프트웨어로 중복 사진을 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/226129)
