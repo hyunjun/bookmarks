@@ -270,6 +270,8 @@ History
 * [기사 - 교과서엔 없는 일기들: 병자호란, 백성들은 어떻게 살았을까 1](https://www.ddanzi.com/ddanziNews/708814385)
 * [기사 - 교과서엔 없는 일기들, 병자호란 2: 조정은 얼마나 난장판이었을까](https://www.ddanzi.com/ddanziNews/709759092)
 * [기사 - 교과서엔 없는 일기들, 병자호란 3(完): 가족을 사러 국경으로 향한 사람들](https://www.ddanzi.com/ddanziNews/710845603)
+* [Il Kwon Ko - 병자호란 초기 조선 파발의 목숨을 건 질주는 구보? | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0dKo1bexLjwokPJjN9RiT4k1nBkDVDCP8st9Yf19gG6PeR1AJrbCxULBydtdRKf9Hl&id=100010950168640)
+  * 1636.12.8 밤 상인 위장한 마푸타·로오사의 압록강 기습 도강. 압록강~안주 140km를 사흘에 주파한 청군 선봉의 기동 속도를 겨울철 일조시간(약 11시간)으로 역산—하루 40~50km, 시속 4~5km로 추정하며 조선 파발의 질주 분석
 * [망국(亡國), 그리고 좌절된 과학기술의 근대화](https://www.thecolumnist.kr/news/articleView.html?idxno=563)
 * ['태종 이방원'이 담아내지 못한 이성계의 전략전술 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002799460&CMPT_CD=SEARCH)
 * [서학의 좌절, 과학기술 근대화의 '기회 상실' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=636)
@@ -559,6 +561,8 @@ History
 * [반기문, 아르메니아 논쟁 가세...집단학살 아닌 "잔혹행위"](http://www.huffingtonpost.kr/2015/04/14/story_n_7060648.html)
 * [Freak Out Exploring the carnivalesque in the Persian and Turkish miniature traditions](http://www.reorientmag.com/2015/04/persian-turkish-miniatures/)
 * [역사상 최초의 포격전, 콘스탄티노플 공방전](http://ppss.kr/archives/33238)
+* [거대하고, 독특해야 한다! 비잔틴 제국의 시작 | 비잔티움 - 한 도시 세 이야기 1부 성도의 탄생 #BBC - YouTube](https://www.youtube.com/watch?v=93tztwO6oOU)
+  * 세상의 모든 다큐. BBC 비잔티움 다큐(2013) 1부. 사이먼 시백 몬테피오리가 비잔티움→콘스탄티노플→이스탄불, 로마·비잔틴·오스만 세 제국의 수도가 된 도시의 종교사 추적. 콘스탄티누스 대제의 기독교 제국 수도화, 동·서방교회 분열
 * [이집트 문명보다 6,000년 앞섰다? 괴베클리 테페, 초고대문명 미스터리 (강인욱X곽민수)ㅣ10분토론 / 14F - YouTube](https://www.youtube.com/watch?v=hmgkC5E5BAk)
 
 ## Vietnam
