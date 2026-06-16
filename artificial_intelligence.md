@@ -1451,6 +1451,13 @@ Artificial Intelligence
 * [Using LLMs to secure source code | Claude](https://claude.com/blog/using-llms-to-secure-source-code)
   * [defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | Anthropic](https://github.com/anthropics/defending-code-reference-harness)
   * Anthropic이 보안팀과의 협업(Glasswing)에서 얻은 학습 기반 자율 취약점 탐지·교정 레퍼런스 하네스. recon→find→triage→report→patch 루프, Claude Code 스킬(`/threat-model`·`/vuln-scan` 등). Bedrock/Vertex/Azure 호환. 관리형은 Claude Security. Apache 계열, 5.8k stars
+* [Harness engineering for coding agent users | Martin Fowler](https://martinfowler.com/articles/harness-engineering.html)
+  * 코딩 에이전트 사용자를 위한 하네스 엔지니어링. (기존 exploring-gen-ai 시리즈와 별개 글)
+* [프로덕션 Multi-Agent 시스템이 해결해야 할 5가지 문제 – Deep Insight 아키텍처로 배우는 실전 설계 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/practical-design-lessons-from-the-deep-insight-arch/)
+  * [Context Window 한계를 넘어서 – Deep Insight 개발 여정으로 배우는 Context Engineering 실전 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/context-engineering-from-deep-insight/)
+  * [하네스 엔지니어링으로 본 Deep Insight – 로컬 개발에서 프로덕션 운영까지의 설계 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/harness-engineering-from-deep-insight/)
+  * [Inner Loop 엔지니어링으로 본 Deep Insight Chatbot – 대화형 분석 챗봇의 4가지 설계 결정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/inner-loop-engineering-deep-insight-chat-bot/)
+  * AWS Deep Insight(대화형 분석 챗봇) 아키텍처로 배우는 프로덕션 멀티 에이전트 설계 시리즈. 멀티 에이전트 5대 문제, Context Window 한계 극복 기법, 로컬→프로덕션 하네스 엔지니어링, Inner Loop 설계 결정 4가지
 * [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
   * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
   * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
