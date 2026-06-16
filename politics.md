@@ -379,6 +379,8 @@ Politics
     * 6·3 지방선거 결과에서 수도권(특히 서울시장)에서 부동산 문제가 핵심 변수로 부상. 부동산 민심이 민주당 패배 사유로 작동
   * [정승일 - 주택과 세금, 이념: 미국과 한국의 비교 | Facebook](https://www.facebook.com/seungil.jeong.10/posts/pfbid02ceNBm6Q2yL7TW3JwMaUwF1uwWwd397B9U4U8FBJvhov8p86ruGyqkJtT6u5zKV1fl)
     * 미국 재산세는 지역 공공서비스 재원이라 자가소유자가 자발적 수용(좋은 학군→높은 집값→높은 재산세 선순환), 헨리 조지 토지지대세 논리와 다름. 티파티가 재산세를 공격 안 한 이유, 캘리포니아 Prop 13 사례. 보유세 GDP 비중 한국 0.9%/미국 2.7%, 실효세율 한국 0.15%/미국 0.83%. 미국 좌파(샌더스·AOC·맘다니)는 자가소유 확대가 아닌 임대료 안정·세입자 보호·공공임대에 집중, 부자증세는 보유세 아닌 소득·법인·자본이득세 누진성. 한국 민주당의 1가구1주택·보유세 환원주의 비판
+  * [최병천 - 부동산 세금 중에서도 보유세의 '조세 저항'이 가장 심한 이유 | Facebook](https://www.facebook.com/choebyeongcheon.298854/posts/pfbid0uvbAy94MQaFq9npd7Y6LBrkGqWRy4hHkqUJT915PpWKFo3qaX5DjvhAJ4wCBGmrnl)
+    * 부동산 세금 4유형(보유세·거래세 고저 조합)—미국=보유세高·거래세低, 북유럽 복지국가는 둘 다 低. 보유세가 조세 저항 가장 심한 이유는 현금·소득 흐름과 무관(자동차세 내려고 자동차 파는 격). 캘리포니아는 취득가액 기준 보유세인데 한국은 시가 변동에 세율·공시가격·공정시장가액 비율까지 동시 인상해 조세저항 극대화. 보유세는 적정 수준에서 걷어야
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)
