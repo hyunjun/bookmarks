@@ -217,6 +217,9 @@ Science
   * [구글 칼리코 랩, 늙지 않는 포유류 벌거숭이두더지 비밀 풀고 노화 역전 기술 발견!](https://livewiki.com/ko/content/immortal-creature-discovery-scientists)
 * [Causal modelling of gene effects from regulators to programs to traits | Nature](https://www.nature.com/articles/s41586-025-09866-3)
   * [Jae Kyoung Kim - 논문 요약 유전학의 오랜 숙제인 유전자와 질병 사이의 블랙박스를 해결한 흥미로운... | Facebook](https://www.facebook.com/jaekyoung.kim/posts/pfbid0cD9jym1KFky7eLz6nnu5SMeMwmuGkMsHzgQcFY1YoZwdoWmiTVGxTmyrwyRb5vhhl)
+* [A critical initialization for biological neural networks | Nature](https://www.nature.com/articles/s41586-026-10528-1)
+  * [Jae Kyoung Kim - 논문요약 뇌는 아무 일도 하지 않을 때도 조용하지 않습니다 | Facebook](https://www.facebook.com/jaekyoung.kim/posts/pfbid02N5xJnY4pVfmvGtkpFiA95PV8Xh1fEuFYos3eeiwoNvVJSkmUBtuhMCCLvsjrGuGwl)
+  * 뇌의 자발 활동(휴지 상태)을 인공신경망의 'initialization' 관점으로 설명. 랜덤 연결 recurrent network가 안정성 경계 근처(critically normalized)에 놓이고 대칭 연결일 때, 실제 마우스 뇌처럼 power-law로 퍼진 고차원 활동이 자연 발생. 마우스 피질·해마 CA1·전뇌 Neuropixels 분석, working memory 유지에 유리. 자발 활동은 잡음이 아니라 다음 계산을 준비하는 초기화된 scaffold일 수 있음
 
 ## Dinosaur
 * [브론토사우르스가 1세기 만에 이름을 되찾았다](http://www.huffingtonpost.kr/2015/04/08/story_n_7022924.html)
@@ -257,6 +260,8 @@ Science
 * [양자 이론의 9가지 핵심 요소 | 다석 유영모 | Facebook](https://www.facebook.com/groups/639233582861666?multi_permalinks=26417231647968506)
 * ["이해하는 순간 인생은 완전히 달라진다" 세상에서 가장 쉬운 양자역학 채은미 박사의 완벽한 양자역학 강의 한방에 몰아보기 - YouTube](https://youtube.com/watch?v=2of4_cNc9wM)
   * EBS 클래스e. 채은미(고려대) 박사의 양자역학 12강 통합 영상. 핵심 개념부터 양자컴퓨터 등 기술 동향까지. 2025년 양자역학 탄생 100주년 기획
+* [역사 양자역학 10분 총정리 | 양자역학의 역사 | PGR21](https://pgr21.com/freedom/106661)
+  * 수학·과학을 빼고 역사 흐름으로 보는 양자역학. 열역학+원자론→볼츠만 통계적 엔트로피→플랑크 양자가설(E=hv)→아인슈타인 광자→원자 모델로 이어지는 전개
 * [김성완 - Extropic의 열역학 컴퓨터 시제품 XTR-0 언박싱 | Facebook](https://www.facebook.com/seongwan.kim.3/videos/1338748978210809/)
   * Extropic이 디지털·양자가 아닌 제3의 컴퓨팅 패러다임으로 열역학 컴퓨터 시제품 XTR-0을 연구자/개발자에게 배송 시작. 기존 컴퓨터의 1/10,000 전력으로 동작, AI 시대 전력 병목 해결책. 올해 안에 100만+ 열역학 소자 본격 버전 출시 예정. 김성완 본인은 열역학 컴퓨팅 책 집필 중
 
