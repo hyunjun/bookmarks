@@ -95,3 +95,5 @@ Economy
 * [부동산이라는 기묘한 인질극](http://ppss.kr/archives/57299)
 * [헬조선 시리즈 1 – 실업률은 낮아졌지만 가난해진 노동자들](http://newstapa.org/28918)
 * [“김재규가 쏘지 않았어도 ‘박정희 경제 모델’은 망했을 것”](https://www.hani.co.kr/arti/economy/heri_review/1139002.html) 불평등 경제학자 이정우
+* [Youngmin Seo - 대만의 바람이 한국을 추월하고 13배가 된 비결 | Facebook](https://www.facebook.com/share/18qHx2uS7F/)
+  * 아시아 최초 해상풍력단지는 제주 탐라(30MW)였으나 대만에 추월당함. TSMC가 개발사들과 구매의향서(PPA) 체결로 산업 견인, 정부의 우직한 추진. 한국은 송배전망·전력계통 용량 확보 지연, 해상풍력특별법 유명무실이 발목. 3면이 바다이고 제조력 갖춘 한국이 풍력 선도 못 한 아쉬움
