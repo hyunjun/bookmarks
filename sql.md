@@ -326,6 +326,8 @@ SQL
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
+* [아키텍트가 알아야 할 커넥션 풀의 기본과 함정 - YouTube](https://www.youtube.com/watch?v=uhMhv8yGAyM)
+  * 코딩하는기술사. DB 커넥션 풀의 기본 원리와 흔한 함정. HikariCP·SpringBoot·PostgreSQL 기반, 리틀의 법칙으로 본 풀 사이징·백엔드 성능 튜닝
 * [**ConnectionStrings.com - Forgot that connection string? Get it here!**](https://www.connectionstrings.com/) 각 DB별 connection string 모음
 * [Maximum number of database connections - Vlad Mihalcea](https://vladmihalcea.com/maximum-database-connections/)
 * [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards](https://blog.arctype.com/sql-50-years/)
