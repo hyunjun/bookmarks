@@ -382,6 +382,7 @@ Network
 * dig [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP](https://github.com/microsoft/ethr)
 * [hetty: An HTTP toolkit for security research](https://github.com/dstotijn/hetty)
+  * [Hetty — HTTP toolkit for security research](https://hetty.xyz/)
   * [Hetty - An HTTP Toolkit For Security Research](https://hakin9.org/hetty-an-http-toolkit-for-security-research/)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
 * IPVoid [IP Address Tools, Network Tools, DNS Tools | IPVoid](https://www.ipvoid.com/)
