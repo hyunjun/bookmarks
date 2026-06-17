@@ -355,6 +355,8 @@ Finance
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
+* [stock-market-signal-automation: Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples](https://github.com/cporter202/stock-market-signal-automation)
+  * 스윙 트레이드 시그널 웹훅·대시보드·알림·AI 에이전트·자동화 예제 모음. MIT
 * [TaxHacker: Self-Hosted AI Accounting](https://github.com/vas3k/TaxHacker)
   * [SungJae Shim - TaxHacker — 프리랜서를 위한 셀프호스팅 AI 회계 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid0UFVW9tP5puJqRNRGjkXodzJRTdztbCQ3GbBBnvgfVChtaNmKFhxt2NYtPLnsagurl)
   * 프리랜서/소상공인용 셀프호스팅 AI 회계 앱. 영수증/PDF 업로드→날짜·금액·통화·벤더·카테고리·세금 정보 자동 추출. 170+ 통화·14개 암호화폐 환율 자동 변환. OpenAI/Gemini/Mistral/Ollama/LM Studio/vLLM 모두 지원. Next.js+Prisma+PostgreSQL, Docker 배포, MIT
