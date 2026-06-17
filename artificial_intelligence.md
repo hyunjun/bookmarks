@@ -666,6 +666,10 @@ Artificial Intelligence
   * ["99%의 작업은 모델 안에서 이루어진다." Browser Use 팀이 에이전트를 다 뜯어고치고 나서 깨달은 겁니다. 그들의 첫 에이전트는 수천 줄의 추상화로 이루어져 있었습니다. 작동은 했습니다. 뭔가를 바꾸려고 하기 전까지는요. 모든 실험이 프레임워크와 싸워야 했습니다. 결국 전부 버렸습니다. 에이전트가 실패한 건 모델이 멍청해서가… | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_99%EC%9D%98-%EC%9E%91%EC%97%85%EC%9D%80-%EB%AA%A8%EB%8D%B8-%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%EB%8B%A4-browser-use-%ED%8C%80%EC%9D%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC-activity-7418068288674369536-zf4l)
 * [Building Agentic AI systems with AWS Serverless • Uma Ramadoss • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=nAcyi2BGwMo)
   * [라이브위키 | 누구나 유튜브, PDF 핵심 요약을 순식간에!](https://livewiki.com/ko/content/agentic-ai-aws-serverless)
+* [Mission-Critical Generative AI in Action • Scott Shaw • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=Gs9XuoQnofg)
+  * Commonwealth Bank GenAI 플랫폼 크루 리드. 미션 크리티컬 생성형 AI의 안전성·신뢰성·고객 가치 전달. AI 파일럿 88%가 프로덕션에 도달 못 하는 현실 속 실전 사례
+* [Keynote - Martin O'Reilly - LLMs and AI agents demystified | PyData London 26 - YouTube](https://www.youtube.com/watch?v=-sJRhlfySWQ)
+  * PyData London 2026 키노트. LLM과 AI 에이전트의 작동 원리를 명료하게 풀어내는 입문/개념 정리 발표
 * [에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개)](https://www.stdy.blog/small-tips-for-context-mgmt/)
   * [배휘동 - 에이전트를 오래 + 잘 돌리기 위한 컨텍스트 관리 미세팁 4개 (+ 참고자료 12개) (블로그에서... | Facebook](https://www.facebook.com/hwidong.bae/posts/pfbid0BFvR7UAHzqYtvTSTEzH2itTE91PLRet3QoHMbvLwsDnMm6WWzCk4ZDTnpJm9sZhXl)
 * [Long-running Agents - by Addy Osmani](https://addyo.substack.com/p/long-running-agents)
@@ -1458,12 +1462,16 @@ Artificial Intelligence
   * [하네스 엔지니어링으로 본 Deep Insight – 로컬 개발에서 프로덕션 운영까지의 설계 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/harness-engineering-from-deep-insight/)
   * [Inner Loop 엔지니어링으로 본 Deep Insight Chatbot – 대화형 분석 챗봇의 4가지 설계 결정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/inner-loop-engineering-deep-insight-chat-bot/)
   * AWS Deep Insight(대화형 분석 챗봇) 아키텍처로 배우는 프로덕션 멀티 에이전트 설계 시리즈. 멀티 에이전트 5대 문제, Context Window 한계 극복 기법, 로컬→프로덕션 하네스 엔지니어링, Inner Loop 설계 결정 4가지
+* [AI 에이전트를 위한 Playwright E2E 테스트 하네스 구축하기 - YouTube](https://www.youtube.com/watch?v=wo0Rsh9hlTo)
+  * NAVER D2(ENGINEERING DAY 2026). AI가 짠 코드를 믿기 위한 Playwright 기반 E2E 테스트 하네스—에이전트가 직접 테스트 작성·검증, 실패 시 스스로 수정하는 워크플로우. 대규모 코드베이스를 '딸깍'할 수 있게 만드는 여정
 * [2605.18747 Code as Agent Harness](https://arxiv.org/abs/2605.18747)
   * [Sujin Kang Ph.D. - 하네스 엔지니어링에서 프롬프트의 역할 정리 | LinkedIn](https://www.linkedin.com/posts/sujin-prompt-engineer_promptengineering-agentharness-llm-activity-7464602143690227712-KC2E)
   * UIUC·Meta·Stanford 서베이 논문 (Xuying Ning 외 41명). 코드는 LLM의 출력물이 아닌 "에이전트 추론·행동·환경 모델링·실행 검증의 operational substrate". 3계층 분류—Harness Interface(코드를 통한 에이전트 연결), Mechanisms(계획·메모리·도구 사용·피드백 제어), Scaling(단일→멀티 에이전트, 공유 코드 아티팩트로 조정·리뷰·검증). 코딩 어시스턴트·GUI/OS 자동화·embodied 에이전트·과학·DevOps·엔터프라이즈 워크플로 적용. 5 발견: 에이전트 안정성은 모델 크기보다 하네스 신뢰성에 의존, plan은 PLAN.md 같은 파일시스템 객체로, Plan-Execute-Verify 표준 루프, 메모리는 layered governance, 도구는 governed interface로. 4 프롬프트 설계 원칙: PEV 사이클·persistent plan 객체·메모리는 governance·라이프사이클 훅. "프롬프트의 무게중심이 문장→하네스로 이동"
 * [Agent Harness Engineering | AddyOsmani.com](https://addyosmani.com/blog/agent-harness-engineering/)
   * [하네스 엔지니어링: 모델보다 중요한 작업 환경 설계의 시대 | GeekNews](https://news.hada.io/topic?id=28966)
   * 모델보다 harness(프롬프트·도구·컨텍스트 정책·훅·샌드박스·피드백 루프)가 결과 좌우. 모델 비교 대신 작업 환경 설계가 핵심
+* [AI-Engineering-Coach: better agentic engineering — analyze your AI coding assistant usage, any harness, one dashboard | Microsoft](https://github.com/microsoft/AI-Engineering-Coach)
+  * 로컬 AI 세션 로그를 읽어 사용 패턴을 분석·인사이트화하는 VS Code 확장(데이터 외부 유출 없음). 어떤 하네스든 하나의 대시보드로. TypeScript, MIT
 * [awesome-harness-engineering: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration](https://github.com/ai-boost/awesome-harness-engineering)
   * 하네스(컨텍스트 전달·도구 인터페이스·계획 아티팩트·검증 루프·메모리·샌드박스) 중심 큐레이션. "모델이 아니라 하네스에 집중—최고의 하네스는 모델이 좋아지면 불필요해질 구성요소를 알고 설계". CC0
 * [harness-editor: A single-page HTML tool for visually editing .claude/agents/*.md and .claude/skills/**/SKILL.md files](https://github.com/amazingsyp/harness-editor)
