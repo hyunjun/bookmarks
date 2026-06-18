@@ -75,6 +75,8 @@ Open Source
 * [오픈소스를 수익화 하는 법 - Awesome OSS Monetization | GeekNews](https://news.hada.io/topic?id=6532)
 * [내가 오픈소스를 싫어하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1105/)
 * [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
+* [한글자막 기조연설: 리눅스와 Git의 창시자 리누스 토르발스, Dirk Hohndel과 함께 - YouTube](https://www.youtube.com/watch?v=i6gVDcx54FY)
+  * Tech Bridge. Linus Torvalds가 Linux 커널 개발·오픈소스·AI 코딩 도구의 변화를 논의. AI는 컴파일러처럼 생산성을 높이는 도구일 뿐, 장기 유지보수를 위해선 생성된 코드와 시스템 전체를 이해하는 능력이 여전히 중요. AI 기반 버그 발견이 유지보수자에게 주는 부담도 언급
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
   * [TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간 | GeekNews](https://news.hada.io/topic?id=7281)
 * [How to pay your rent with your open source project | Plausible Analytics](https://plausible.io/blog/open-source-funding)
