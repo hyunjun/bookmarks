@@ -1059,6 +1059,7 @@ App
 * [Cate · Canvas Terminal Editor](https://cate.cero-ai.com/)
   * [cate: An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace](https://github.com/0-AI-UG/cate)
   * [Cate - 무한 줌 가능한 코딩용 캔버스 IDE | GeekNews](https://news.hada.io/topic?id=30438)
+  * [무한 캔버스 기반 데스크톱 IDE Cate 기술 정리 및 활용 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/3246)
   * 무한 캔버스 기반 데스크톱 IDE. 에디터·터미널·브라우저·문서·AI 에이전트를 자유 공간에 배치, 패널 플로팅·도킹·창 분리, 폴더 단위 레이아웃 복원. Monaco+xterm.js+Git 통합, 인앱 코딩 에이전트 Pi(@earendil-works/pi) 내장+Anthropic/OpenAI Codex/Copilot/Gemini/OpenRouter/Groq/Mistral/DeepSeek 연결. Electron+React+Zustand+Tailwind. macOS/Windows/Linux. MIT
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
