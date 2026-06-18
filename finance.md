@@ -319,6 +319,8 @@ Finance
   * AI 기반 거래 에이전트, 백테스팅 프레임워크, 기술적 분석 라이브러리, 데이터 소스 등 정량적 금융 분석 종합 가이드
 * [Awesome-finance-skills: Plug-and-play agent skills for financial analysis](https://github.com/RKiding/Awesome-finance-skills)
   * 실시간 뉴스 수집, 주가 데이터, 센티먼트 분석, 시장 예측, 시그널 추적. OpenCode/Claude Code/OpenClaw 지원
+* [awesome-trading-agents: Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution](https://github.com/LLMQuant/awesome-trading-agents)
+  * LLM 기반 트레이딩 에이전트·MCP 서버·에이전트 스킬 큐레이션. 시장 리서치·전략·실행. CC0
 * [Bigdata.com: your real-time research assistant](https://bigdata.com/)
   * [오랜 기간 금융 데이터(특히나 비정형데이터)를 핸들링하던 Ravenpack이 만든 서비스](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EB%AF%B8%EC%B9%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%98%90-%EB%82%98%EC%99%94%EB%8B%A4-%EC%98%A4%EB%9E%9C-%EA%B8%B0%EA%B0%84-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8A%B9%ED%9E%88%EB%82%98-%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0-ugcPost-7256465997367238656-o5Lp/)
 * [ChatGPT-Micro-Cap-Experiment: This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
