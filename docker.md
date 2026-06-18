@@ -1339,6 +1339,9 @@ Docker
   * 글의 뒷부분에는 etcd를 유지보수 하기 위해 백업/복구를 하는 방법 설명
 * [Understanding etcd in Kubernetes - CloudCuddler](https://cloudcuddler.com/understanding-etcd-in-kubernetes/)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
+* [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
+  * [구직 면접에서 배운 쿠버네티스 | GeekNews](https://news.hada.io/topic?id=30556)
+  * 거의 모든 기업이 K8s를 도입한 이유는 기술적 필요보다 조직 관리—배포 일관성, 표준화된 지식(누구나 어느 서비스든 관리), GitOps 추적 가능성. 엔지니어 2명+부터 합리적, 초기 스타트업은 인프라보다 제품에 집중 권고
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
