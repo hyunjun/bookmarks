@@ -670,6 +670,8 @@ AWS
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 3부: 마이그레이션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-3/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 4부: API 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-4/)
 * [AWS 에 구축하는 클라우드 디자인 패턴 시리즈 5부: 데이터 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud-design-patterns-on-aws-5/)
+* [oh-my-cloud-skills: AWS 콘텐츠 제작·인프라 운영을 위한 Claude Code 플러그인 6종 모음](https://github.com/Atom-oh/oh-my-cloud-skills)
+  * HTML 프레젠테이션·PPTX·Draw.io 아키텍처 다이어그램·SVG 트래픽 플로우·GitBook·Workshop Studio 콘텐츠 생성, EKS/네트워크/IAM 트러블슈팅, Well-Architected 6필러 100점 리뷰, Kiro/Codex/Gemini 변환·멀티 AI 협업. AWS MCP 서버(지식·문서·API·가격·IaC) 연동. MIT
 * [sample-semantic-lakehouse: Customer 360 analytics with semantic layer on AWS](https://github.com/aws-samples/sample-semantic-lakehouse)
   * S3 Tables(Iceberg)+Glue Catalog+Neptune 온톨로지 그래프+Bedrock AgentCore 기반 시맨틱 레이크하우스. 자연어→SQL 변환, 시맨틱 그래프 쿼리, Lake Formation ABAC 보안, CloudFormation 원클릭 배포
 
