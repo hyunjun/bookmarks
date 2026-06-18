@@ -1424,6 +1424,11 @@ Machine Learning
 * [우아한테크세미나 MLOps를 활용한 AI 서비스 개발 스토리 - YouTube](https://www.youtube.com/watch?v=MA5A7Xqb-7U)
 * [The State of Production Machine Learning in 2023 — Alejandro Saucedo - YouTube](https://www.youtube.com/watch?v=kMb4TmhTlbk)
 * [What are the four Machine Learning Model Deployment Types?](https://www.linkedin.com/feed/update/urn:li:activity:7148234601189089281/) Batch, Emebedded in a Stream Application, Real Time, Edge
+* [Always-On OpenClaw, On-Demand Inference | by Park Chansung | Medium](https://parkchansung.medium.com/always-on-openclaw-on-demand-inference-a3792980adca)
+  * CPU VM에 OpenClaw Gateway + Wake Proxy를 상시 구동하고, GPU는 요청 시에만 활성화(15분 유휴 타임아웃)하는 추론 인프라. 스팟 GPU 오픈 모델로 GPT API 출력 토큰 비용과 경쟁 가능
+* [2605.09370 From Detection to Recovery: Operational Analysis on LLM Pre-training with 504 GPUs](https://arxiv.org/abs/2605.09370)
+  * [from-detection-to-recovery 데이터셋·Lablup Technical Report 2026 (ko, 41p)](https://huggingface.co/datasets/lablup/from-detection-to-recovery)
+  * 504-GPU(63노드 NVIDIA B200) 프로덕션 클러스터 운영 분석. 55일 Prometheus 시계열 + 73일 운영 로그, 224개 멀티노드 학습 작업. 장애 탐지→자동 복구, 체크포인트 I/O 프로파일링, 노드 제외 패턴, 자동 재시도 체인(33.3% vs 수동 12.5%). SKT·Upstage·래블업·NVIDIA Korea·VAST Data 5개 조직 협업
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
