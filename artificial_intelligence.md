@@ -1430,6 +1430,8 @@ Artificial Intelligence
   * 2022-2026 AI 개발 패러다임 진화 기록. Prompt Engineering(2022-24)→Context Engineering(2025)→Harness Engineering(2026+). 엔지니어링 엄밀성이 프롬프트→컨텍스트→시스템 아키텍처로 이동
 * [Designing Domain-Specific Agent Harnesses](https://aayushmathur7.substack.com/p/designing-domain-specific-agent-harnesses)
   * 범용보다 도메인 특화 harness가 효과적. 에이전트 루프, 컨텍스트 관리, 도구, 권한, 훅 등 핵심 설계 요소를 코딩/고객지원/의료/법률 예시로 설명
+* [Adversarial review | Jesse Vincent](https://blog.fsck.com/2026/05/01/adversarial-review/)
+  * AI가 자기 작업물을 검토하면 이해상충(자기 시험지 채점)이 생기므로, 여러 서브에이전트를 경쟁시켜("심각한 이슈 가장 많이 찾는 쪽이 5점") 더 많은 문제를 찾게 하는 기법. "fresh eyes"로 다시 보게 하는 단순 기법도 효과적
 * [하네스 엔지니어링으로 AI 에이전트를 길들여봤습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/3733/)
   * 프롬프트 엔지니어링을 넘어 하네스 엔지니어링으로. 훅·모듈러 아키텍처·런타임 제약으로 워크플로우 강제. 6단계 사고 모델→4단계 단순화, 플러그인 기반 Smith 시스템, Claude/Codex/Cursor 멀티모델 연동
 * [Toby Lee - 클로드 코드는 스스로 하네스 확장 포인트를 제공한다 | Facebook](https://www.facebook.com/tobyilee/posts/10236007503342478/)
@@ -3078,6 +3080,10 @@ Artificial Intelligence
 * [Unrolling the Codex agent loop | Junho Kong](https://www.linkedin.com/posts/junho-kong_unrolling-the-codex-agent-loop-activity-7437130542879354880-jGNV)
   * Codex 에이전트 루프를 펼쳐 분석
 * [AI가 코드를 다 짜준다면 뭐가 남을까요 — 각자 다른 관점을 가진 세 사람 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_ai%EA%B0%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%8B%A4-%EC%A7%9C%EC%A4%80%EB%8B%A4%EB%A9%B4-%EB%AD%90%EA%B0%80-%EB%82%A8%EC%9D%84%EA%B9%8C%EC%9A%94-activity-7430744321303400448-6Jgn)
+* [Anthropic이 반복하는 패턴에 대해 | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_anthropic%EC%9D%B4-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B3%B4%ED%86%B5-%EC%8A%B5%EA%B4%80%EC%9D%80-%EC%9D%98%EB%8F%84%EB%B3%B4%EB%8B%A4-%EB%AC%B4%EA%B2%81%EB%8B%A4%EA%B3%A0-share-7453761606271991808-ujGx/)
+  * Anthropic의 반복적 소통 실패 분석: 2025.8 품질 저하(라우팅 오류 16%), 2026.3 Claude Code reasoning effort 무단 축소, 직원 60명 접근 차단. 기술 경쟁 가속에도 사용자 신뢰가 시장 지배력을 결정한다는 주장
+* [고영혁 Dylan - Claude Design이 Claude Code API와 완전 통합 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0LtibJD2GhadyrKNEaBQZn1dYn9fPtoAiQEg6fyXkRtsdqDPhfwGqgg7nKKWqv2KHl)
+  * 새 `/design-sync` 네이티브 스킬로 Claude Design ↔ Claude Code 연결. 디자인 산출물과 코드를 양방향 동기화
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3108,8 +3114,6 @@ Artificial Intelligence
 * [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
 * [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
-* [Anthropic이 반복하는 패턴에 대해 | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_anthropic%EC%9D%B4-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B3%B4%ED%86%B5-%EC%8A%B5%EA%B4%80%EC%9D%80-%EC%9D%98%EB%8F%84%EB%B3%B4%EB%8B%A4-%EB%AC%B4%EA%B2%81%EB%8B%A4%EA%B3%A0-share-7453761606271991808-ujGx/)
-  * Anthropic의 반복적 소통 실패 분석: 2025.8 품질 저하(라우팅 오류 16%), 2026.3 Claude Code reasoning effort 무단 축소, 직원 60명 접근 차단. 기술 경쟁 가속에도 사용자 신뢰가 시장 지배력을 결정한다는 주장
 
 # Paper
 * [A "diff" tool for AI: Finding behavioral differences in new models | Anthropic](https://www.anthropic.com/research/diff-tool)
@@ -4910,6 +4914,8 @@ Artificial Intelligence
 * [Clawd Cursor - Desktop automation for AI agents](https://clawdcursor.com/)
   * [clawdcursor](https://github.com/AmrDab/clawdcursor)
   * 오픈소스 데스크톱 자동화 도구. 74개 세분화 도구 또는 6개 복합 도구, accessibility tree 우선 blind-first 아키텍처(비용 효율). MCP/CLI/REST API로 Claude Code·Cursor·Windsurf 통합. macOS/Windows/Linux
+* [cli-agent-orchestrator: 여러 AI 코딩 어시스턴트를 계층적으로 협업시키는 오케스트레이션 프레임워크](https://github.com/awslabs/cli-agent-orchestrator)
+  * supervisor-worker 패턴(handoff 동기/assign 비동기/send_message 통신). 크로스 프로바이더 혼합(Claude Code·Kiro CLI·Amazon Q·Copilot), tmux 세션 격리, Web UI/CLI/MCP 컨트롤 플레인, cron 스케줄 플로우, 에이전트별 도구 제한·영구 메모리. Python 3.10+, MCP 기반
 * [CLI-Anything: 어떤 오픈소스든 CLI 도구로 변환하여 AI 에이전트가 직접 제어](https://github.com/HKUDS/CLI-Anything)
   * [CLI-Anything이 클로드 코드의 미래를 바꿨습니다 - YouTube](https://www.youtube.com/watch?v=eIKk2oi9Ziw)
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
@@ -4971,6 +4977,10 @@ Artificial Intelligence
   * [codex-mcp-server: MCP server wrapper for OpenAI Codex CLI](https://docs.tuannvm.com/)
     * [codex-mcp-server](https://github.com/tuannvm/codex-mcp-server)
     * Claude Code에서 Codex의 AI 기능을 MCP 프로토콜로 직접 활용
+* [consensus-build: 한 줄 기능 설명에서 테스트까지 갖춘 배포 가능 코드로 자동화하는 Claude Code 플러그인](https://github.com/NB3025/consensus-build)
+  * 기능정의서→구현 계획→코드 구현 파이프라인. 3개 에이전트 병렬 독립 검토로 합의 도달(인용 검증으로 근거 없는 이슈 필터링), CRITICAL/MAJOR 해결까지 최대 5라운드 자율 반복. TDD(Red-Green-Refactor). MIT
+* [consensus-review: 단일 LLM을 여러 독립 리뷰어로 실행해 합의 기반으로 문서 결함을 랭킹하는 오픈소스 도구](https://github.com/NB3025/consensus-review)
+  * 같은 모델을 3회 이상 독립 추론 실행, 🔴(만장일치)/🟡(다수)/⚪(소수)로 티어링. union 방식으로 모든 이슈 보존, recall +6.5~+30.6%p. Amazon Bedrock, Open Agent Skills 표준(Kiro/Claude Code/Cursor/Codex/Gemini/OpenCode/Copilot 호환)
 * [Context Mode - Save 98% of your AI coding agent's context window](https://context-mode.com/)
   * [context-mode: Context window optimization for AI coding agents](https://github.com/mksglu/context-mode)
   * [Claude Code is Expensive. This MCP Server Fixes It (Context Mode) - YouTube](https://www.youtube.com/watch?v=QUHrntlfPo4)
