@@ -3277,6 +3277,9 @@ App
   * [윈도우 탐색기가 답답해서 만든 맥 스타일 파일 탐색기 | GeekNews](https://news.hada.io/topic?id=28069)
   * 멀티탭, 스플릿뷰, 키보드 중심, 30+ 언어 구문 강조, Git 상태 표시, FTP/SFTP 지원
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
+* [systeminformer: A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware](https://github.com/winsiderss/systeminformer)
+  * [System Informer](https://systeminformer.com/)
+  * 구 Process Hacker의 후속. 실시간 시스템 활동 모니터링(시각적 하이라이트), 성능 그래프, 잠긴 파일 사용 프로세스 탐지, 네트워크 연결·디스크 접근 모니터링, 커널/.NET 스택 트레이스, 고급 서비스 관리. 포터블, Windows 10+, MIT
 * [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 * [Ventoy](https://www.ventoy.net/en/index.html)
