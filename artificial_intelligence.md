@@ -3321,6 +3321,9 @@ Artificial Intelligence
 * [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
   * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
   * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
+* [superclaw: 배포 전 AI 코딩 에이전트의 취약점을 평가하는 보안 테스트 프레임워크](https://github.com/SuperagenticAI/superclaw)
+  * [SuperClaw | Superagentic AI](https://super-agentic.ai/superclaw)
+  * 시나리오 기반 적대적 공격 생성·실행(프롬프트 인젝션·인코딩 난독화·탈옥·도구 우회), behavior contract로 성공 기준·증거 추출, HTML/JSON/SARIF 리포트로 CI/CD 통합. 기본 로컬 전용·원격 대상은 인증 토큰 필수. ACP WebSocket 기반 OpenClaw 에이전트 대상, CodeOptiX 연동. 승인된 보안 테스트 전용
 * [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
   * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
   * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
@@ -3568,6 +3571,11 @@ Artificial Intelligence
     * [김상윤 - LLM Wiki | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0yEMvsKTJ76EEaJM4DesMg8RM3zG1oF3FhjKMQSHD4s4mKU4CTASSUX9gyMmK9sEsl&id=61582636636508)
   * [obsidian-wiki: Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern](https://github.com/Ar9av/obsidian-wiki)
     * Karpathy LLM Wiki 패턴을 Obsidian으로 구현하는 프레임워크. 모든 스킬이 마크다운 파일—Claude Code/Cursor/Windsurf/Pi/Codex/Gemini/Hermes 등이 읽고 실행. `pip install obsidian-wiki` 후 vault 지정, RAG 없이 상호 연결된 마크다운으로 지식 컴파일·유지. MIT
+  * [okf: Open Knowledge Format — AI 시스템용 지식·메타데이터를 표현하는 벤더 중립 표준](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
+    * [How the Open Knowledge Format can improve data sharing | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing?hl=en)
+    * LLM-wiki 패턴을 표준화—YAML frontmatter가 붙은 markdown 파일만으로 조직 지식을 표현. 독점 SDK 불필요, 사람·AI 양쪽 가독, 버전 관리·이식 가능. 에이전트가 시스템마다 컨텍스트 조립 로직을 재구현하지 않고 내부 지식에 접근. BigQuery 메타데이터에서 자동 생성하는 enrichment 에이전트 PoC 포함. v0.1
+  * [seCall: AI 에이전트 대화를 검색 가능한 위키로 정리하는 로컬 우선 도구](https://github.com/hang-in/seCall)
+    * Claude Code/Codex/Gemini CLI/claude.ai/ChatGPT 세션을 파싱해 통합. BM25+벡터(HNSW) 하이브리드 검색, Obsidian 호환 마크다운 vault(원본+AI 생성 위키), 지식 그래프(룰+시맨틱 엣지), CLI/REST/웹 UI/Obsidian 플러그인/MCP 서버, Git 기반 크로스 디바이스 동기화. Rust, AGPL-3.0
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
   * [여러 일반적, 논리적 추론 질문에 대하여 어떤 언어모델이 가장 정확도 높게 답변하는지를 테스트하여 정리](https://www.linkedin.com/posts/duckjungkim_general-reasoning%EC%9D%80-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%B6%94%EB%A1%A0-%EB%98%90%EB%8A%94-%EB%B3%B4%ED%8E%B8%EC%A0%81-activity-7299055247438553088-fZom/)
 * [guppylm: ~9M parameter language model trained from scratch](https://github.com/arman-bd/guppylm)
