@@ -3264,6 +3264,8 @@ Artificial Intelligence
 * [AI Model Security Ranking Top 100: In-Context Learning Security IICL | Adversa AI](https://adversa.ai/in-context-learning-security-top-100-ai-models-ranking-iicl/)
   * [전종홍 - Involuntary In-Context Learning IICL 공격 분석 | Facebook](https://www.facebook.com/1biit/posts/pfbid0gEHqucQGWePKiZ19ruXPVmd77vXQKMhnERQJ2NUtKfYGHTZ5GZHPuqZdBf2W6ED6l)
   * IICL(Involuntary In-Context Learning): few-shot 패턴 완성 태스크에 악성 지시를 숨겨 안전 정렬 우회. 17개 벤더 100 (모델, 추론모드) 조합·24,956개 프롬프트·10개 서브 기법 평가. Anthropic Claude 15개 전부 0% 우회, OpenAI 추론 모델·Gemini 3 Pro 0%, Mistral 전체 94~100% 우회로 최악. 추론 활성 9.2% vs 비추론 39.4%(약 4배 방어 효과)로 추론 자체가 IICL 방어 메커니즘 시사. 컨텍스트 윈도우/ICL 최적화가 강점이자 공격면이 되는 역설
+* [ToxicSkills: Malicious AI Agent Skills on ClawHub | Snyk](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/)
+  * Snyk이 ClawHub·skills.sh의 스킬 3,984개 감사. 13.4%(534개)가 critical 이슈, 36.82%(1,467개)가 결함 보유, 악성 페이로드 76개 확인(자격증명 탈취·백도어·데이터 유출). 확인된 악성 스킬 100%가 악성 코드 패턴, 91%가 프롬프트 인젝션 병행. npm/PyPI 초기와 유사하나 스킬은 시스템·자격증명 전체 권한 상속으로 위험 가중
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
 * [Cybersecurity AI CAI - A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs | Alias Robotics](https://aliasrobotics.github.io/cai/)
@@ -3318,6 +3320,8 @@ Artificial Intelligence
   * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
 * [ship-safe: CLI security scanner built for the agentic era](https://github.com/asamassekou10/ship-safe)
   * CI/CD 오설정, 에이전트 권한 위험, MCP 도구 인젝션, 하드코딩 시크릿, DMCA 플래그 AI 의존성 탐지
+* [SkillSpector: 설치 전 AI 에이전트 스킬의 취약점·악성 패턴을 평가하는 보안 스캐너](https://github.com/NVIDIA/SkillSpector)
+  * 16개 카테고리 64개 취약점 패턴(프롬프트 인젝션·데이터 유출·권한 상승·공급망). 정적 패턴 매칭 후 선택적 LLM 시맨틱 평가 2단계, OSV.dev 실시간 CVE 조회, 0-100 리스크 점수. Git 레포·URL·zip·디렉토리 입력, Terminal/JSON/Markdown/SARIF 출력. NVIDIA
 * [Strix - Autonomous Security for the AI Era](https://www.strix.ai/)
   * [strix: Open-source AI hackers to find and fix your app's vulnerabilities](https://github.com/usestrix/strix)
   * 자율 AI 에이전트가 코드 실행으로 취약점 탐지·검증·PoC 생성. 접근제어, 인젝션, SSRF, XSS, 비즈니스 로직 결함 등 커버. CLI 기반, GitHub Actions CI/CD 통합, 자동 수정 PR 생성
@@ -3546,6 +3550,8 @@ Artificial Intelligence
   * [Google AI Edge - 온디바이스 크로스플랫폼 AI | GeekNews](https://news.hada.io/topic?id=21249)
 * [graphify: Transform code, docs, papers, images, and videos into interactive knowledge graphs](https://github.com/safishamsi/graphify)
   * [Penpax — Personal knowledge graph that runs on your machine](https://safishamsi.github.io/penpax.ai/)
+  * [Graphify Labs](https://graphifylabs.ai/)
+    * graphify 위에 구축된 always-on 상용 레이어(Penpax). 회의·이메일·브라우저 히스토리에 동일한 그래프 접근을 적용, 백그라운드 지속 업데이트
   * /graphify로 코드베이스+문서+미디어를 대화형 지식 그래프로 변환. tree-sitter AST+Whisper 로컬 전사+Claude 서브에이전트 3패스 아키텍처. 토큰 71.5배 절감, HTML 시각화·JSON·마크다운 출력. 10+ AI 코딩 도구 지원
   * [LLM Knowledge Bases | DAIR.AI](https://academy.dair.ai/blog/llm-knowledge-bases-karpathy)
     * [LLM Wiki | Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
@@ -3698,6 +3704,8 @@ Artificial Intelligence
 * [pm-skills: PM Skills Marketplace — 100+ agentic skills, commands, and plugins for product managers](https://github.com/phuryn/pm-skills)
   * [pm-skills | GeekNews](https://news.hada.io/topic?id=27327)
   * [PM 분들 바이브코딩 시대에 이거 하나 설치해두면 됩니다 | Sungjae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_pm-%EB%B6%84%EB%93%A4-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9D%B4%EA%B1%B0-%ED%95%98%EB%82%98-%EC%84%A4%EC%B9%98%ED%95%B4%EB%91%90%EB%A9%B4-%EB%90%A9%EB%8B%88%EB%8B%A4-github-activity-7438766833035284481-vTTL)
+  * [PM Skills 2.0: Red-Team, Ship | Product Compass](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
+    * 2.0 릴리스. `/red-team-prd`로 출시 전 로드맵·PRD의 위험한 가정을 영향도·검증가능성 순으로 표면화, AI Shipping Kit로 AI 생성 코드의 문서화·감사·승인. 68 스킬·42 커맨드·9 플러그인. MIT
 * [Product-Manager-Skills: Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents](https://github.com/deanpeters/Product-Manager-Skills)
   * PRD 작성, 사용자 스토리, 경쟁 분석, 로드맵 등 프로덕트 매니지먼트 워크플로우를 AI 코딩 에이전트용 스킬로 체계화
 * [PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
