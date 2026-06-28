@@ -306,6 +306,9 @@ Finance
 * [전종홍 - DeepSeek는 정말 실제로는 헤지펀드를 위한 사이드 프로젝트였던 것일까요 ? 미국 시장 조사 회사인... | Facebook](https://www.facebook.com/1biit/posts/pfbid02RSmx8ban35iGztCpKatY8tqAKvXMcaYwfiWExBQ1kibuSMYQvQ3bwQfvaEh9GZhil)
 * [구글 제미나이 3.0: 8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포) - YouTube](https://www.youtube.com/watch?v=8BsHVuJdJgE)
   * [8분 만에 만드는 AI 주식 자동매매 시스템 (소스코드 무료 배포)](https://livewiki.com/ko/content/ai-stock-trading-system-source-code)
+* [토스증권 Open API x 슬랙(Slack) 연동 주식 자동매매 시스템 구축 가이드 1편 - YouTube](https://www.youtube.com/watch?v=G1E921X5LYI)
+  * [토스-슬랙 VCP 자동매매 구축 실록 (노션 가이드)](https://app.notion.com/p/Toss-Slack-VCP-389993d3695a8089b088e7bc4f6c2915)
+  * 토스증권 Open API+Slack을 AI 에이전트(Claude 등)와 연동해 VCP(변동성 축소 패턴) 기반 자동매매 구축. 발굴 종목을 Slack으로 알리고 Approve/Reject 버튼으로 최종 주문 제어하는 Human-in-the-Loop. 모의투자 모드(TOSS_BOT_DRY_RUN=true) 기본
 * [Show GN 여러 주식 및 경제지표 비교 사이트 | GeekNews](https://news.hada.io/topic?id=26813)
   * 비개발자가 AI 도움으로 만든 주식·경제 지표 비교 차트 사이트. 여러 종목의 수익률·가격 추이를 기간별로 복잡한 설정 없이 비교
 * [The MCP Features Bloomberg Built for High Stakes Financial AI - YouTube](https://www.youtube.com/watch?v=z6SuFQYClQI)
@@ -357,6 +360,8 @@ Finance
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
+* [skill-algotrader: Claude Code skill for building quantitative trading systems on Indian stock markets](https://github.com/javajack/skill-algotrader)
+  * Claude Code 스킬. 인도 주식시장 퀀트 트레이딩 봇 생성 마법사, NSE 지수 구성·유동성 수집, Fortress 시그널(승률 65% 문서화), 백테스트-라이브 패리티 검증. 16개 지식 도메인 1,780줄 운영 노하우, 30+ gotcha, Parquet 캐싱 28배·Polars 37배 가속. 교육용 가이드(투자 보장 아님)
 * [stock-market-signal-automation: Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples](https://github.com/cporter202/stock-market-signal-automation)
   * 스윙 트레이드 시그널 웹훅·대시보드·알림·AI 에이전트·자동화 예제 모음. MIT
 * [TaxHacker: Self-Hosted AI Accounting](https://github.com/vas3k/TaxHacker)
