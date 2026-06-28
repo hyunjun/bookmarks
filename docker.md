@@ -2586,6 +2586,9 @@ Docker
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kueue](https://kueue.sigs.k8s.io/)
   * [Mastering Workloads in Kubernetes with Kueue — part 1: Queues and Priorities | by Michał Żyliński | Google Cloud - Community | Oct, 2025 | Medium](https://medium.com/google-cloud/mastering-workloads-in-kubernetes-with-kueue-part-1-queues-and-priorities-339257d8b4ba)
+  * [How Netflix Simplified Batch Compute with Kueue | Netflix TechBlog](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c)
+    * [How Netflix simplified batch compute with Kueue | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_how-netflix-simplified-batch-compute-with-share-7475522640720388097-KxH_)
+    * Netflix가 Kueue로 배치 컴퓨트를 단순화한 사례. 멀티 테넌트 쿼터·동적 용량 공유로 클러스터 리소스 관리
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
   * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
 * [kURL - Open Source Kubernetes Installer](https://kurl.sh/)
