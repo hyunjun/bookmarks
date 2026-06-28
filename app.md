@@ -1130,6 +1130,8 @@ App
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * [ferdium-app: All your services in one place, built by the community](https://github.com/ferdium/ferdium-app)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
+* [Overwatch — interactive 3D globe with ~31 live data streams](https://overwatch.earth/)
+  * 로그인·결제 없이 브라우저에서 약 31개 실시간 데이터 스트림을 3D 지구본에 표시. 항공기·선박·날씨·위성·지진·산불·번개·오로라·인터넷 이벤트 등. NASA·NOAA·ADS-B·AIS 등 공개 피드, 서버사이드 fetch(IP 비공유)
 * Rambox [Workspace simplifier - Rambox](https://rambox.app/)
 * textografo
   * [플로 차트를 손쉽게 만들자](https://brunch.co.kr/@sonujung/24)
@@ -3250,6 +3252,8 @@ App
 * [jsmpeg-vnc: A low latency, high framerate screen sharing server for Windows and client for browsers](https://github.com/phoboslab/jsmpeg-vnc)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
+* [LittleBigMouse: DPI Aware mouse move across screens](https://github.com/mgth/littlebigmouse)
+  * 멀티 모니터 환경에서 해상도(DPI)가 다른 화면 간 마우스 커서가 정확한 위치로 넘어가게 해주는 Windows 오픈소스 앱(4K+FHD 혼용 등). 화면 간 무한 스크롤, 디스플레이 크기 조정, 경계 저항, 색상·밝기 조정. C#/HLab
 * [mactype: Better font rendering for Windows](https://github.com/snowie2000/mactype)
 * [minifb: MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in](https://github.com/emoon/minifb)
 * [mimikatz를 이용하여 윈도우 계정 정보 알아내기 :: Secure my life](https://securitynote.tistory.com/28)
