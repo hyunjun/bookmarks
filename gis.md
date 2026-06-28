@@ -78,6 +78,9 @@ GIS
   * [Hello from Dawarich | Dawarich](https://dawarich.app/)
   * [Dawarich - 구글 맵 타임라인의 셀프호스트 대체제 | GeekNews](https://news.hada.io/topic?id=18855)
 * [firegeo: 🔥 GEO-powered SaaS starter built with Firecrawl for brand monitoring, auth, and billing](https://github.com/mendableai/firegeo)
+* [GeoLibre](https://github.com/opengeos/GeoLibre)
+  * [GeoLibre](https://geolibre.app/)
+  * 로컬에 데이터를 저장하는 무료 오픈소스 클라우드 네이티브 GIS 플랫폼. Tauri v2·React·MapLibre GL JS·DuckDB-WASM Spatial·deck.gl 기반으로 웹·데스크톱·모바일·Jupyter 동작. GeoJSON·Shapefile·GeoPackage 로딩, DuckDB SQL 워크스페이스, 3D 렌더링, 실시간 협업 편집, AI 자연어 GIS, Planetary Computer·Earth Engine 연동
 * [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas)
   * [27억5000만채…전세계 모든 건물 ‘용적’까지 파악한 입체지도 나왔다](https://v.daum.net/v/20251212093616829)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
