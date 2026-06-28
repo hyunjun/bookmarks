@@ -1574,6 +1574,10 @@ Business
   * [번역 Everything vs. Anything (모든 것 vs. 무엇이든) | Daily Log](https://jiyeonseo.github.io/2023/11/19/everything-vs-anything/)
 * ["하면 된다"의 시대는 이미 지나간 지 오래다. 이제는 최소의 비용으로 실험해 보고 "되면 한다"의 시대](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7302447691622477826-cwO4/)
 * [모든 창업자, CEO들이 귀담아 들어야 할 말](https://www.linkedin.com/posts/douglasguen_%EB%AA%A8%EB%93%A0-%EC%B0%BD%EC%97%85%EC%9E%90-ceo%EB%93%A4%EC%9D%B4-%EA%B7%80%EB%8B%B4%EC%95%84-%EB%93%A4%EC%96%B4%EC%95%BC-%ED%95%A0-%EB%A7%90-%EC%B5%9C%EA%B3%A0%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EA%B3%A0-%EA%B6%8C%EB%A0%A5%EC%9D%84-%EA%B0%80%EC%A1%8C%EB%8B%A4%EA%B3%A0-activity-7346088309313388544-DD9x/)
+* [Somewon Yoon - 유니클로 창업자가 실패 후 세운 원칙 (야나이 다다시 1승 9패) | Facebook](https://www.facebook.com/somewon.yoon/posts/pfbid02hTQW6Nu7uZZF3pUm38XBegRLoZZQp8Ahd3h7i4J5QCBCDAPpPh1fiZ5qUb3ZxfZtl)
+  * 야나이 다다시의 거듭된 실패(뉴욕 디자인 자회사, VAN mini 법정분쟁, 스포클로·패미클로 철수). 핵심: 1) 실패에서 배우기 2) 빠르게 회복하기. 실패를 외면하면 같은 실패 반복, 실행 후 수정이 분석만 하며 꾸물대는 것보다 낫고 철수 속도가 관건
+* [Somewon Yoon - 겉멋으로 책을 내는 기업인들에게 (나가마쓰 시게히사) | Facebook](https://www.facebook.com/somewon.yoon/posts/pfbid02EmMQqZXnGUhTBgEHCQHhA2dvmRkDhVdPjZcTa3WMv6MHK3tEi2osUU33UUytsL5Bl)
+  * 멘토 사이토 히토리의 조언—책도 엄연한 장사. 상업 출판은 출판사의 투자이므로 '안 팔려도 된다'는 경영자의 태도는 무책임. 투자해준 사람들이 이익을 내도록 잘 팔리는 책을 만드는 것이 상인의 도리
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
