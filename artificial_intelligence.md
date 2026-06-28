@@ -960,6 +960,9 @@ Artificial Intelligence
     * [LLM과 자연어로 대화하게 두지 마세요 | 요즘IT](https://yozm.wishket.com/magazine/detail/3520/)
   * [자바 vs. 파이썬: 더 나은 에이전트 개발 언어는? | 요즘IT](https://yozm.wishket.com/magazine/detail/3708/)
     * LangGraph(파이썬)와 Embabel(Java JVM) 프레임워크 비교
+* Eve [Introducing eve: an open-source framework for building and deploying agents at scale | Vercel](https://vercel.com/blog/introducing-eve)
+  * [Introducing eve | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_introducing-eve-share-7476034323486269440-zgxy)
+  * Vercel의 오픈소스 에이전트 프레임워크. 파일시스템 우선 설계(도구·스킬·지시·채널을 디렉토리로 구성), durable execution·샌드박스·휴먼 승인·옵저버빌리티 내장, Slack/Discord/Teams/GitHub 멀티채널 배포. `eve dev` 로컬 테스트·evals. "Next.js가 웹에 한 것을 에이전트에"
 * [fantasy: Build AI agents with Go. Multiple providers, multiple models, one API 🧙](https://github.com/charmbracelet/fantasy)
 * [fara: Fara-7B: An Efficient Agentic Model for Computer Use](https://github.com/microsoft/fara)
   * Microsoft 7B Computer Use Agent(CUA). Qwen2.5-VL-7B 기반, Magentic-One 멀티에이전트로 생성한 145K 합성 trajectory SFT. 시각으로 마우스·키보드 좌표 직접 예측(접근성 트리·파싱 모델 불필요). 태스크당 평균 16스텝(비교 모델 ~41) 효율, 온디바이스 배포 가능. 웹 검색·요약, 폼 작성, 여행/티켓/예약, 쇼핑 비교, 구인/부동산. WebVoyager 73.5/Online-Mind2Web 34.1/DeepShop 26.2/WebTailBench 38.4 동급 SOTA. WebTailBench(11카테고리 609 실세계 웹 태스크)·CUAVerifierBench(trajectory judge 평가) 동반. Azure Foundry/vLLM/LM Studio/Ollama GGUF 로컬. MIT
@@ -1483,6 +1486,9 @@ Artificial Intelligence
 * [harness-lab · GitHub](https://github.com/jikime/harness-lab)
   * [바이브코딩 | Facebook](https://www.facebook.com/groups/1183007433518603?multi_permalinks=1465348065284537&hoisted_section_header_type=recently_seen)
   * [하네스 엔지니어링 백과사전 - WikiDocs](https://wikidocs.net/book/19689)
+* [Loop Engineering | Cobus Greyling](https://cobusgreyling.github.io/loop-engineering/)
+  * [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
+  * 반응형 프롬프팅을 능동적·자기관리 워크플로로 대체하는 자율 에이전트 프레임워크. "더 이상 Claude에게 프롬프트하지 않는다, Claude를 프롬프트하는 루프를 돌린다." 5개 프리미티브(스케줄링·worktree·스킬·커넥터·서브에이전트), 7개 프로덕션 패턴(PR 리뷰·CI 실패 triage·의존성 업데이트 등), maker-checker 검증·state 파일·run budget·loop-audit. L0~L3 준비도 점수로 점진적 자율화
 * [paper-curation: Automated paper curation and reviews](https://github.com/jehyunlee/paper-curation)
   * [이제현 - Paper Curation 파이프라인 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0ZmvwqT5fZpieLnaAXDC1sRJ8ATj49SAQUW4HvyFCKRroQ4xKxDubrnNEW3jy3f6tl)
   * Claude Code가 오케스트레이션하는 개인 논문 큐레이션 파이프라인. Zotero PDF→6섹션 한국어 구조화 리뷰→Bottom-up 토픽 분류(SPECTER2+HDBSCAN+UMAP)→연구 동향 타임라인→Deep Research(BM25+dense 하이브리드 RAG, [N] 인용)→Audio Overview(Gemini TTS). Obsidian 연동 compounding knowledge, arXiv/Semantic Scholar/OpenAlex 병렬 검색
@@ -3084,6 +3090,9 @@ Artificial Intelligence
   * Anthropic의 반복적 소통 실패 분석: 2025.8 품질 저하(라우팅 오류 16%), 2026.3 Claude Code reasoning effort 무단 축소, 직원 60명 접근 차단. 기술 경쟁 가속에도 사용자 신뢰가 시장 지배력을 결정한다는 주장
 * [고영혁 Dylan - Claude Design이 Claude Code API와 완전 통합 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid0LtibJD2GhadyrKNEaBQZn1dYn9fPtoAiQEg6fyXkRtsdqDPhfwGqgg7nKKWqv2KHl)
   * 새 `/design-sync` 네이티브 스킬로 Claude Design ↔ Claude Code 연결. 디자인 산출물과 코드를 양방향 동기화
+* [How domain expertise shapes agentic coding | Anthropic](https://www.anthropic.com/research/claude-code-expertise)
+  * [앤트로픽도 바이브 코딩에서 코딩 지식보다 도메인 전문 지식이 중요하다고 | 배승용](https://www.linkedin.com/posts/beseeyong_%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EB%8F%84-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9-%EC%A7%80%EC%8B%9D%EB%B3%B4%EB%8B%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A0%84%EB%AC%B8-%EC%A7%80%EC%8B%9D%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%98%EB%8B%A4%EA%B3%A0-share-7475004246380306432-XGcH)
+  * Claude Code 세션 약 40만 건 분석. 코딩 숙련도보다 도메인 전문성이 성공을 좌우—전문성이 깊을수록 지시당 Claude가 더 많은 일 수행. 변호사·회계사·관리자 등 모든 직군이 SW 엔지니어와 거의 동일한 성공률. 문제 이해가 프로그래밍 배경보다 중요
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3285,6 +3294,8 @@ Artificial Intelligence
 * [evmbench.pdf](https://cdn.openai.com/evmbench/evmbench.pdf)
   * [Introducing EVMbench | OpenAI](https://openai.com/index/introducing-evmbench/)
     * [EVMbench: AI 에이전트의 스마트 컨트랙트 취약점 탐지·패치·공격 역량을 검증하는 벤치마크](https://digitalbourgeois.tistory.com/2785)
+* [guardian-cli: AI 오케스트레이션으로 침투 테스트를 자동화하는 엔터프라이즈 보안 플랫폼](https://github.com/zakirkun/guardian-cli)
+  * 멀티 프로바이더 AI(OpenAI/Claude/Gemini/Ollama 등), 50+ 보안 도구(Nmap/Nuclei/SQLMap/Burp/ZAP), 전문 에이전트(Planner·Tool Selector·Analyst·Reporter)+debate 기반 triage, DAG 스케줄링, 증거 추적, CVSS·SARIF·DefectDojo 리포트, 프롬프트 인젝션 방어·DNS 스코프 검증. Python 3.11+, LangChain
 * [IronClaw - Your Personal AI Assistant, Hosted](https://ironclaw.co/)
 * [IronClaw — Secure AI Agent Runtime](https://www.ironclaw.com/)
   * [ironclaw: Rust-based secure personal AI assistant framework with WASM sandboxing](https://github.com/nearai/ironclaw)
@@ -5638,6 +5649,11 @@ Artificial Intelligence
 * [Poco — Your Pocket Coworker](https://poco-ai.com/)
   * [poco-claw](https://github.com/poco-ai/poco-claw)
   * Claude Code 기반 에이전틱 AI 웹 인터페이스. 격리 컨테이너 실행, GitHub 통합, 아티팩트 프리뷰(HTML/PDF/이미지/다이어그램), 백그라운드 실행, 스케줄 트리거, DingTalk/Feishu/Telegram 통합
+* [ponytail: AI 에이전트가 최소한의 필요한 코드만 작성하도록 유도하는 플러그인](https://ponytail.dev/)
+  * [ponytail](https://github.com/DietrichGebert/ponytail)
+  * [Ponytail - AI 코딩 에이전트가 최소한의 코드만 작성하게 만드는 도구 | GeekNews](https://news.hada.io/topic?id=30701)
+  * [깃허브 스타 5만 개를 한 번에 돌파한 AI 코딩 스킬 ponytail 써본 후기 | chatdaeri](https://www.linkedin.com/posts/chatdaeri_%EA%B9%83%ED%97%88%EB%B8%8C-%EC%8A%A4%ED%83%80-5%EB%A7%8C-%EA%B0%9C%EB%A5%BC-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%8F%8C%ED%8C%8C%ED%95%9C-ai-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%82%AC-ponytail-%EC%8D%A8%EB%B3%B8-share-7475778914645331968-3Kwp)
+  * 구현 전 "laziness ladder"(존재할 필요 있나→이미 있나→stdlib/네이티브로 되나→그제서야 작성)를 따르게 해 코드 비대화 방지. YAGNI 원칙 체화, `/ponytail-review`로 과잉설계 감사. 16+ 에이전트 지원, lite/full/ultra/off 4모드. ~54% 코드 감소·20% 저렴·27% 빠름. MIT
 * [Prompt-Enhancer](https://github.com/xavierchoi/Prompt-Enhancer)
 * [RA.Aid: Develop software autonomously.](https://github.com/ai-christianson/RA.Aid) Coding agent for autonomous software development
 * [remodex: Local-first open-source bridge + iOS app for remote Codex control](https://github.com/Emanuele-web04/remodex)
