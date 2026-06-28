@@ -435,6 +435,8 @@ Vision
 * [LAION-400M - 4억개짜리 이미지-텍스트 쌍 데이터셋 | GeekNews](https://news.hada.io/topic?id=5016)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
+* [LingBot-Map: Geometric Context Transformer for streaming 3D reconstruction](https://github.com/Robbyant/lingbot-map)
+  * 스트리밍 비디오에서 3D 장면을 재구성하는 피드포워드 3D 파운데이션 모델. Geometric Context Transformer 아키텍처로 연속 비디오→3D 포인트클라우드 실시간 생성. ~20 FPS, paged KV cache attention으로 10,000+ 프레임 처리, FlashInfer 가속(PyTorch 2.8+CUDA 12.8). 기존 스트리밍·최적화 기반 대비 우수한 재구성 품질, HuggingFace/ModelScope 체크포인트. Apache 2.0
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OmniParser](https://microsoft.github.io/OmniParser/)
@@ -671,6 +673,8 @@ Vision
   * [Paperless-ngx: Keep Your Documents Private (Optional Local AI OCR) - YouTube](https://www.youtube.com/watch?v=NMAwHjleqHg)
 * [surya: OCR and line detection in 90+ languages](https://github.com/VikParuchuri/surya)
 * [Texo: A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。](https://github.com/alephpi/Texo/)
+* [Unlimited-OCR: long-horizon document parsing OCR model by Baidu](https://github.com/baidu/Unlimited-OCR)
+  * 바이두의 장문 문서 파싱용 OCR 비전-언어 모델. DeepSeek-OCR을 개선해 긴 문서를 한 번에(one-shot) 처리, 단일 이미지·멀티페이지·PDF 지원. 컨텍스트 32,768 토큰, Transformers/vLLM/SGLang 추론, Gundam·base 모드. 11.2k stars
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
