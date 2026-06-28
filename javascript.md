@@ -2799,6 +2799,8 @@ Javascript
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
+* [roomify: AI-powered SaaS that turns 2D floor plans into photorealistic 3D visualizations](https://github.com/adrianhajdin/roomify)
+  * JavaScript Mastery 튜토리얼 프로젝트. 2D 도면→3D 렌더링 변환 SaaS. React·TypeScript·Vite·TailwindCSS·Puter(서버리스 Workers·KV)·Claude·Gemini. 영구 파일 호스팅, 갤러리, 비교 도구, 커뮤니티 피드
 * [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [Rush: a scalable monorepo manager for the web](https://rushjs.io/)
