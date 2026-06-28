@@ -4420,6 +4420,9 @@ NLP
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
   * [Vectorless·Reasoning 기반 RAG, PageIndex로 다시 정의하는 문서 검색과 분석 :: 지식의 섬](https://digitalbourgeois.tistory.com/3062)
   * 벡터 DB 없이 문서 계층 트리 인덱스 구축 → LLM 추론 기반 검색. 청킹·임베딩 불필요, 페이지 참조 추적 가능. FinanceBench 98.7% 정확도
+* [PixelRAG: Search any document by how it looks, not just the text it contains](https://github.com/StarTrail-org/PixelRAG)
+  * [PixelRAG](https://pixelrag.ai/)
+  * 문서를 텍스트 파싱 없이 스크린샷 이미지로 렌더링해 검색하는 비주얼 RAG. 표·차트·레이아웃·인포그래픽 보존. LoRA 파인튜닝 Qwen3-VL-Embedding, 위키피디아 828만 페이지 사전 인덱스 호스팅 API, pixelshot CLI(웹·PDF·이미지)+Claude용 pixelbrowse 플러그인. MPS/CUDA
 * [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
