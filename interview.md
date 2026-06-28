@@ -119,6 +119,8 @@ Interview
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접에서 눈에 띄는 지원자의 특징](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%88%88%EC%97%90-%EB%9D%84%EB%8A%94-%EC%A7%80%EC%9B%90%EC%9E%90%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7103107861144113152-GyV6/)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
+* [수백 번 면접을 진행한 내가 가장 중요하게 생각하는 것 - YouTube](https://www.youtube.com/watch?v=3UkUulmJR4E)
+  * 코딩하는기술사. 25년간 실무담당자·팀장·채용 결정권자로 수백 번 면접하며, 잘 정리된 이력서·포트폴리오보다 단기간에 만들 수 없는 '흔적'을 찾는다는 이야기
 * ["학벌은 전혀 안 본다" 세계 최고 부자, 테슬라 CEO 일론 머스크는 면접 때 모든 지원자에게 항상 같은 질문을 던진다 (답변 팁) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/elon-musk-always-asks-job-interview_kr_618c5d1ce4b0b1aee920a479)
 * [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
