@@ -523,6 +523,9 @@ Programming
   * 플랫폼 엔지니어링은 플랫폼을 전략적 자산으로 변화시키는 중요한 학문
   * "플랫폼으로서의 제품" 개념에 대해 다루며, 내부 플랫폼을 고객 대면 제품과 동일한 엄격함으로 다뤄 혁신, 효율성, 확장성을 촉진하는 방법을 탐구
   * [제품으로서의 플랫폼 - 윌리엄 리조 - GOTO 2024 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1037713)
+* [State of the Art of Platform Engineering • Abby Bangser & Charles Humble • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=Xsd02ebVv4w)
+  * [전체 인터뷰 트랜스크립트](https://gotopia.tech/articles/450)
+  * Syntasso 수석 엔지니어 Abby Bangser(Team Topologies 옹호자)와 Charles Humble의 플랫폼 엔지니어링 현황 인터뷰
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [platform-engineering-group/presentations/0009-개발자-경험을-향상시키는-내부-개발자-플랫폼(IDP)-구축하기.pdf at main · awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group/blob/main/presentations/0009-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%82%B4%EB%B6%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%9E%AB%ED%8F%BC(IDP)-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.pdf)
@@ -2597,6 +2600,8 @@ Programming
   * [아키텍처는 결정(decisions)을 포착하는 일이다](https://brunch.co.kr/@graypool/2429)
 * [Breaking the Architecture Bottleneck • Andrew Harmel-Law & Marit van Dijk • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=zl5U8KO28rM)
   * [Breaking the Architecture Bottleneck • Andrew Harmel-Law & Marit van Dijk • GOTO 2025 | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/5634691/5317521)
+* [Empowering Teams to Make Architectural Decisions • Andrew Harmel-Law • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=BQYIBKIzY5g)
+  * Thoughtworks의 Andrew Harmel-Law("Facilitating Software Architecture" 저자). 중앙 아키텍트 대신 팀이 직접 아키텍처 결정을 내리게 하는 방법—Advice Process와 ADR 기반 분산형 의사결정
 * [My dad taught me the difference between cheap and frugal...It made me a better engineer](https://www.thefrugalarchitect.com/architects/craig-link-zillow.html)
   * [아버지로부터 배운 절제와 최적화의 미학…그 가르침은 저를 더 나은 엔지니어로 성장시켰습니다.](https://www.notion.so/whchoi98/26204ef7e60e802c911aff512d4696d6)
   * 검소한 시스템 설계(Frugal Architecture)는 단기간에 완성되는 것이 아니라 반복 학습을 통해 체화되는 능력
@@ -5851,6 +5856,8 @@ Programming
   * [rengine](https://github.com/yogeshojha/rengine)
   * 웹앱 보안 테스트용 자동 정찰 프레임워크. 설정 가능한 YAML 엔진, DB 기반 데이터 정리·연관, 지속 모니터링(Slack/Discord/Telegram), GPT 취약점 리포트. 서브도메인·포트·엔드포인트·취약점·스크린샷 자동화
 * [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
+* [reverse-engineering: A curated list of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)
+  * 리버스 엔지니어링 학습 자료·도구 awesome 리스트(1만+ stars). IDA Pro·Ghidra·Binary Ninja 등 디스어셈블러/디버거, 책·강의·CTF, 멀웨어·바이너리·바이트코드·안드로이드 분석 도구를 카테고리별 정리
 * scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [security-framework: NIST·OWASP 보안 프레임워크 한국어 레퍼런스 — CSF 2.0, SP 800-53, RMF, Top 10, ASVS, WSTG 등](https://github.com/zer0-kr/security-framework)
