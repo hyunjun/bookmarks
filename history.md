@@ -715,6 +715,8 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 ## Ukraine
 * [기사 - 우크라이나를 말한다 1: 러시아와 우크라이나가 서로 미워하는 이유](https://www.ddanzi.com/ddanziNews/718418055)
 * [As Russia prepared to invade Ukraine, U.S. struggled to convince Zelensky, allies of threat - Washington Post](https://www.washingtonpost.com/national-security/interactive/2022/ukraine-road-to-war/)
+* [박순백 - 슬라브족(Slavic)의 역사와 정체성: 러-우전을 보며 | Facebook](https://www.facebook.com/drspark/posts/pfbid0yDPNFjB8s81qdfXAGeBwP5FtD9ibaeMrAUvgqCbN5qi4R6CVE7CrLnr93fA1oLCml)
+  * 러시아·우크라이나·벨라루스·폴란드 방문 회고에서 출발한 슬라브족 역사 에세이. 키예프 루스(9~13세기)라는 공통 뿌리, 몽골 침입·종교 분열(1054 동서교회)·지리적 규모로 동/서/남 슬라브로 분화. 'Slav'가 'slave'의 어원(역순 아님), 벨라루스='하얀 루스'의 오해, 범슬라브주의까지. 같은 뿌리 두 동슬라브 국가의 전쟁이라는 아이러니
 
 # Oceania
 
