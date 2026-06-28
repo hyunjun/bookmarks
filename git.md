@@ -1709,6 +1709,9 @@ Git
 * [Git 쉽게 사용하기](https://www.youtube.com/watch?v=jyFogXhvTL4)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
+* [Git: Origins | Mohammed Faham (Medium)](https://medium.com/@mohdfahamb/git-origins-9a0a75aafdce)
+  * [Git: Origins | Mohammed Faham (LinkedIn)](https://www.linkedin.com/posts/mohammed-faham-956116318_git-origins-share-7474041927118704640-Kuau)
+  * Git 입문 글. 분산 버전 관리 개념, 스냅샷 기반 저장, OS별 설치·초기 설정, Git과 GitHub의 차이를 설명
 * [git-step](https://okdevtv.com/mib/git-step)
 * [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
 * [GitHub에서 커뮤니티 기반 소프트웨어 프로젝트 빌드 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/build-community-driven-projects-github/)
