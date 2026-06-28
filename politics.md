@@ -485,3 +485,7 @@ Politics
 
 # Germany
 * [굿바이, 메르켈... 주목하지 않은 그의 이야기 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002772210&SRS_CD=0000012215)
+
+# Russia
+* [윤희성 - 우크라이나군의 러시아 보로네시 반도체공장 정밀타격 분석 | Facebook](https://www.facebook.com/heesung.yun.50/posts/pfbid0mMMzavLz8twkNXRj5jT4j8umvgCM3fiXqa88YsBuQTCLfjYAYj2KgTGmYrhKCppPl)
+  * 우크라이나군이 국경 150km 내륙 보로네시의 러시아 무기용 반도체 핵심 공장을 순항유도미사일(미군 제공 AGM 공대지)로 정밀타격. 미국의 지리정보·항법유도 없이는 불가능한 정밀도라 러시아는 미국의 군사정보 제공을 의심. 우크라 공군의 정밀타격 역량 숙달은 최소 2~3년 소요의 방증
