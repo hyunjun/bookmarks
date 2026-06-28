@@ -316,6 +316,7 @@ Sports
   * 레알 마드리드의 정체성 및 운영 철학에 맞는 스타일을 갖지 못하고 시스템 축구를 섣부르게 도입하려면서 정치력이 부족했던 알론소
 * [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편 - YouTube](https://www.youtube.com/watch?v=EN1b4PDp4MU)
   * [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편](https://livewiki.com/ko/content/soccer-coach-commentary-player-impression)
+* [한국 대표팀 감독 변천 밈 (LEADER 벤투 → BOSS 클린스만 → ??? 홍명보) - 이미지](https://cdn.mania.kr/nbamania/file/2606/soccertalk_456177_20260626134901_84f8eb3ac2f71f5f.jpg)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
