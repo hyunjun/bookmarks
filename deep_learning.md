@@ -2939,6 +2939,8 @@ CVPR2016)
 * [고성능(3장15초) 텍스트입력 이미지 생성모델 사용하기 - Stable Diffusion](https://aifactory.space/competition/2147/discussion/16)
 * [AI 창작 시대! 지금 당장 배워야할 Stable Diffusion Web UI 최신 설치 및 사용법 완벽 가이드 - YouTube](https://www.youtube.com/watch?v=emObTucGMOA)
 * [요즘 미쳐버린 생성 AI 시대 총정리와 꼭 필요한 역량 - YouTube](https://www.youtube.com/watch?v=ka0qKUP8Ln8)
+* [Sadao Tokuyama - 손 제스처로 얼굴을 16가지 스타일로 즉시 변신시키는 프로젝트 | X](https://x.com/tokufxug/status/2070698952148824269)
+  * AI 엔지니어 Viet Nguyen의 개인 프로젝트. MediaPipe로 손가락 끝 검출·추적, 경량·고속 FLUX.2 klein 4B로 이미지 생성하는 대화형 시스템
 * [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
   * [Stable Diffusion litigation - SD에 대한 집단 소송 | GeekNews](https://news.hada.io/topic?id=8261)
 * [Openjourney로 마음껏 그림 생성하기 :: 허깅페이스(HuggingFace) 모델 사용 예제](https://banjubu.tistory.com/249)
