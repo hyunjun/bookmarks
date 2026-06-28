@@ -233,6 +233,9 @@ Art
 * [밤에 듣는 미술관 왜 세잔은 ‘현대미술의 아버지’라 불릴까? - 티타임즈](https://www.ttimes.co.kr/article/2022121316347768768)
 * [Kim Jeongho - 런던 뱅크시의 새 작품 | Facebook](https://www.facebook.com/share/1G9ShWzBMZ/)
   * 2026.4.29 런던 중심부에 설치된 뱅크시의 신작. 정장 입은 남자가 깃발을 들고 걷는 모습의 대형 조각상. 공식 인스타 계정으로 발표
+* [Unlocking the secrets of the Geneva Freeport: A haven for priceless art and tax evasion | The Swiss Times](https://theswisstimes.ch/unlocking-the-secrets-of-the-geneva-freeport-a-haven-for-priceless-art-and-tax-evasion/)
+  * [김효경 - 세계에서 그림이 가장 많은 곳은 어디일까? | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0TDn7ZS16sDWKWjiCzYBgarRECGCYnnQEjNYg4FD6ZZcDx384zbvn4PZmmAUqmTxSl)
+  * 제네바 프리포트(면세창고)에 피카소·고흐·다빈치 등 120만 점, 가치 1,000억 달러 미술품 보관. 프리포트 내 거래는 세금 0·기록 없음 → 조세회피·자금세탁·장물(도굴 유물·자코모 메디치 사건) 온상. 영화 <테넷> 배경. "자본의 도구가 된 미술시장의 종착지이자 명작의 카타콤"
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
