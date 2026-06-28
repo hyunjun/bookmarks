@@ -207,6 +207,9 @@ Linux
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
+* [Linux on Older Hardware: A Practical Revival Guide | FOSS Linux](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
+  * [오래된 PC를 되살리는 가벼운 리눅스 배포판 가이드 (2026) | GeekNews](https://news.hada.io/topic?id=30895)
+  * Windows 11에 거부된 2014~2019년 PC를 경량 리눅스로 부활. RAM별 배포판 선택(2GB 미만 antiX/BunsenLabs, 2~4GB Lubuntu, 4GB+ Xubuntu/Linux Lite), 데스크톱 환경 비교(LXQt/Xfce/MATE), zram·swappiness 튜닝, SSD 업그레이드. memtest86+/SMART로 폐기 판단
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
 * [리눅스에서 커스텀 키보드 펑션키 F11, F12등의 이상 작동 문제](https://sunyzero.tistory.com/290)
