@@ -4140,6 +4140,8 @@ Business
   * Zubair Trabzada가 운영하는 AI 에이전시 창업 부트캠프 유료 커뮤니티(월 $59). 90일 안에 첫 $3K 클라이언트 확보 목표. 5주 런칭 프로그램, Claude Code 마스터클래스, 비즈니스 템플릿 제공
 
 # Startup
+* [원대로 - 20대 창업 신화를 깨는 32년 추적 연구 | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0YSqhkx9beXbaY3T28JZ75Fh1n1wWSNPaq5RaETzubKbc6RSP1VCwMmv1apNxeRgil)
+  * 미국인 12,686명을 1979~2020년 추적한 연구(Kwon & Wang, 2026). 4가지 창업 궤적—68.8% 창업 안 함, 11.6% 20대 창업 후 30대 초 포기, 13.2% 40대 창업(골든타임), 6.4% 타고난 창업가. 40대 창업자는 업계 지식·고객 네트워크·자본을 축적한 상태. 법인 창업자가 개인사업자보다 재무·심리 성과 우수. "일하며 배우고 자원 쌓은 뒤 창업"
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
 * [모든 창업자에게 자극이 될 Deel의 피치덱 | Disquiet\*](https://disquiet.io/@minhyung0926/makerlog/440)
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
@@ -4832,6 +4834,8 @@ Business
 * [디자이너가 새로운 도메인을 빠르게 학습하는 법](https://toss.tech/article/how-to-learn-new-domain)
 * [첫 그래픽 디자이너가 했던 가장 비효율적인 일](https://toss.tech/article/21341)
 * [리서치를 하고 싶어하는 사람을 리서치하세요](https://toss.tech/article/1st_ux_research)
+* [코딩 없이 인터뷰를 자동화하다: GS리테일 AI 리서치 봇 :: GS Retail Engineering](https://gsretail.tistory.com/86)
+  * 비개발자 UX 리서처가 사내 MISO 플랫폼으로 만든 리서치 자동화 봇. 설계 봇(연구 목적→질문 생성)·실행 봇(채팅 기반 인터뷰+후속 프로빙)·분석 봇(인사이트 추출·리포트 자동 생성) 3종 연동으로 리서치 시간 ~80% 단축. "채팅 형식이 대면 인터뷰가 놓치는 솔직한 피드백을 끌어낸다"
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [뷰티컬리에서 <나의 컬리 스타일>이 갖는 의미 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/my-kurly-style/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
