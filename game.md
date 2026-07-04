@@ -55,6 +55,9 @@ Game
 * [닌텐도64용 젤다의 전설 풀 디컴파일 완료 | GeekNews](https://news.hada.io/topic?id=5448)
 * [Networking of a turn-based game | Longwelwind](https://longwelwind.net/blog/networking-turn-based-game/)
 * [Alex Tardif: Graphics Engineer](http://alextardif.com/LearningGraphics.html)
+* [What To Learn To Be A Real Time Graphics Programmer | The blog at the bottom of the sea](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+  * [그래픽스 프로그래머가 되려면 무엇을 배워야 하는가 | GeekNews](https://news.hada.io/topic?id=31053)
+  * 채용 가능한 그래픽스 프로그래머가 되기 위한 필수 지식. CPU 측(DirectX12·Vulkan 같은 최신 그래픽스 API)과 GPU 측(렌더링 수학·라이팅·최적화)으로 나눠 설명, 포트폴리오 프로젝트와 패스 트레이싱·PBR 학습 권장
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
 * [질긴 고리 - 온라인 퍼즐 게임](https://ko.puzzle-loop.com/)
