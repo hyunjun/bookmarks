@@ -983,6 +983,9 @@ Programming
     * 좋은 추상화는 인지 부하를 줄이면서도 필요한 복잡성을 적절히 노출시켜 개발자가 효율적으로 작업할 수 있게 돕는다
   * [환상이 아닌 추상화 구축 - 그레고르 호페 - YOW! 2023 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/362924?sId=aWZFRk-w3ng)
 * [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+* [Towards Understandable Software | Anna Liberty](https://gracefulliberty.com/articles/towards-understandable-software/)
+  * [이해 가능한 소프트웨어를 향하여 | GeekNews](https://news.hada.io/topic?id=30938)
+  * 프로그래밍이 어려운 건 계산의 본질적 복잡성이 아니라 낡은 상호작용 모델 탓이라는 주장. LLM은 추상화가 아닌 자동화(예측 불가 결과)라 나쁜 해법 — 코드를 자동화하지 말고 "추상화로 코드 자체를 걷어내야". 3가지 접근: 문서 먼저 쓰고 코드를 임베드하는 리터럴 프로그래밍, 시각적 프로그래밍(GUI), 생성형 LLM과 다른 결정론적 자연어 파싱. Eve·Entangled·ReTangled 등 사례
 * [Thoughtworks Technology Radar 26호 (39p PDF) | GeekNews](https://news.hada.io/topic?id=6295)
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
   * [Joel Spolsky on Structuring the Web with the Block Protocol – The New Stack](https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol/)
