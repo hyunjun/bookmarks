@@ -353,6 +353,10 @@ Graph
   * [namidb: Graph database engine that stores data in object storage. Cypher queries, embedded like DuckDB, multi-tenant by namespace](https://github.com/namidb/namidb)
   * S3·R2·GCS·Azure Blob·MinIO 등 객체 저장소에 직접 저장하는 그래프 DB. Cypher 쿼리(GQL ISO 39075 계획), Raft/ZooKeeper/etcd 대신 객체 저장소 conditional write로 일관성. 단일 Rust 바이너리—서버/임베디드(`pip install namidb`)/매니지드 클라우드. AI 워크로드(지식 그래프, 에이전트별 namespace, text-to-Cypher) 타깃, RAM 대신 스토리지 기준 가격, idle namespace는 scale-to-zero. v0.5.1, BSL 1.1(3년 후 Apache 2.0). LESAI Corp, Matías Fonseca
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
+* [Omnigraph — Graph as code. Object-storage native. Optimized for context assembly](https://www.omnigraph.dev/)
+  * [omnigraph: Rust-based lakehouse graph database as the operational state and coordination layer for fleets of agents](https://github.com/ModernRelay/omnigraph)
+  * [에이전트 협업을 위한 레이크하우스 그래프 데이터베이스, Omnigraph 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3321)
+  * AI 에이전트 fleet의 운영 상태·협업 레이어용 그래프 DB. "graph as code"—스키마·쿼리·정책·인프라를 YAML로 선언·버전관리, Git 스타일 브랜치/머지/리뷰로 여러 에이전트가 격리 브랜치에서 병렬 작업 후 병합. 그래프 순회+벡터+풀텍스트 하이브리드 검색 단일 쿼리, S3 호환 오브젝트 스토리지(Lance 포맷, time-travel), Cedar 정책 서버사이드 적용. CLI/TypeScript SDK/MCP 서버. Rust, MIT
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
