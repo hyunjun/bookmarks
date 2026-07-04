@@ -1113,6 +1113,9 @@ Business
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
 * [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
 * [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77) RICE와 비교
+* [Lost Confidence | A Smart Bear (Jason Cohen)](https://longform.asmartbear.com/confidence/)
+  * [잃어버린 확신 | GeekNews](https://news.hada.io/topic?id=30919)
+  * RICE 같은 confidence 기반 우선순위 프레임워크 비판—"30% 확신" 점수는 검증 불가하고, 프로젝트는 늘 늦고 임팩트도 과대평가되는 낙관 편향이 체계적. 대안: 모두가 좋아할 보편적 기능 우선, 설문 대신 더미 기능·클릭률로 관찰 검증, 실제 임팩트(사용자 51%+·리텐션 15%+) 측정, 하방 제한·상방 큰 비대칭 베팅, 미래 옵션성 최대화
 * [3. 당신은 할 일들의 우선순위를 어떻게 판단하시나요?](https://maily.so/boost.life.density/posts/1dd70d5a)
 * [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
 * [우선순위를 어떻게 정할까](https://brunch.co.kr/@hyungsukkim/174)
@@ -1958,6 +1961,8 @@ Business
   * [CTO를 뽑는 방법 - 코슬라벤처스 | GeekNews](https://news.hada.io/topic?id=19660)
 * [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto) 본인은 모르겠지만 안 좋은 사례일 가능성이 높음
   * [CTO로서 내가 코드를 작성하는 이유 | GeekNews](https://news.hada.io/topic?id=23930)
+* [AI시대 CIO의 역할이 바뀐다…혁신과 위험 관리 사이 해법은 - CIO Korea](https://www.cio.com/article/4190349/)
+  * AI 도입 압박 속에서 CIO가 혁신 속도와 리스크 거버넌스를 어떻게 균형 잡을지. 혁신·컴플라이언스 팀 간 건강한 긴장을 만드는 조직 구조와 AI를 안전하게 확장하는 성숙도 모델 논의
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -3024,6 +3029,9 @@ Business
 * [Ivy Lee - 일본 신칸센 청소 회사 테세이의 경영 혁신 | Facebook](https://www.facebook.com/kyusang.ivylee/posts/pfbid05fHdL3LW9VyrDnKD5AYou7YjfVT1MWCnkQ5XsrM54fuCop3LUPuvwtBUoKj5eF4al)
   * 7분 1,000석 청소 환경에서 감시·통제를 버리고 직원을 "공연자"로 재정의. 제안 400건→1만건, 수동→능동 조직 문화 전환. 효율성보다 존엄성과 자부심이 진정한 혁신의 동력
 * [이학구 - 이상적인 상사/리더의 자질 | LinkedIn](https://www.linkedin.com/posts/%ED%95%99%EA%B5%AC-%EC%9D%B4-18b927133_share-7464080452857843712-134A/)
+* [Revised rules of engineering leadership | Will Larson](https://lethain.com/revised-rules-of-engineering-leadership/)
+  * [개정된 엔지니어링 리더십 규칙 | GeekNews](https://news.hada.io/topic?id=30994)
+  * AI 시대 엔지니어링 리더십 5원칙. 개별 기여자가 복잡한 마이그레이션을 더 빨리 수행할 수 있게 됨, 견고한 개발 인프라의 중요성, 의사결정 품질을 유지하며 반복 작업 자동화, 깊은 도메인 전문성을 가진 지속적 팀이 조직 성공의 토대
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -3617,6 +3625,9 @@ Business
 * [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
 * [구독의 최종 관문, 구매화면(페이월). 귀납적인 접근으로 생각보다 쉽게 뛰어넘을 수 있는 벽 | by Stephan Seunghwan Seo | DelightRoom | Jan, 2024 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85%EC%9D%98-%EC%B5%9C%EC%A2%85-%EA%B4%80%EB%AC%B8-%EA%B5%AC%EB%A7%A4%ED%99%94%EB%A9%B4-%ED%8E%98%EC%9D%B4%EC%9B%94-6197a6a90f03)
 * [알라미 구독 글로벌 진출 후기. Intro 알라미는 현재 다니고 있는 스타트업 제품입니다. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EA%B5%AC%EB%8F%85-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C-%ED%9B%84%EA%B8%B0-475c0e058a06)
+* [Monthly plans might be your best option | RevenueCat](https://www.revenuecat.com/blog/growth/monthly-subscriptions-when-to-offer/)
+  * [월간 요금제가 최선의 선택일 수 있음 | GeekNews](https://news.hada.io/topic?id=30957)
+  * 연간 구독이 리텐션 지표는 좋지만, 신뢰를 쌓는 초기 앱이나 유연한 결제를 선호하는 시장에선 월간 요금제가 동등하거나 더 높은 매출을 낼 수 있음. "리텐션은 매출과 다르다"
 * [크고 복잡한 제품, 과감하게 갈아엎기](https://toss.tech/article/mydoc)
 * [리멤버에서 UT(사용자 테스트)는 어떻게 진행하나요? - DRAMA&COMPANY](https://blog.dramancompany.com/2023/09/how-to-ux-research/)
 * [푸시 클릭율 6배를 만든 고객집중 | by 송효진 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%ED%91%B8%EC%8B%9C-%ED%81%B4%EB%A6%AD%EC%9C%A8-6%EB%B0%B0%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%A0%EA%B0%9D%EC%A7%91%EC%A4%91-2811bf0a15c7)
