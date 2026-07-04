@@ -368,6 +368,8 @@ Interview
 * [2022 회고.. 가 아닌 해고 썰 · JSLEE'S DEV BLOG](https://sudojslee.github.io/posts/2022-amazon-layoff/)
 * [아마존 면접 때 묻는 이상한 질문 (제프 베조스에게 뽑히는 방법) - YouTube](https://www.youtube.com/watch?v=KfXbWlQ2QoM) Are you a lucky person?
 * [Learnings from conducting ~1,000 interviews at Amazon | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews)
+* [Tech interviews with NeetCode | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode)
+  * NeetCode(Navdeep Singh) 인터뷰. "회사들은 엔지니어를 평가할 진짜 방법이 없다"—리트코드는 성과 예측이 아니라 대규모 면접관 훈련에 스케일되기 때문에 지속. AI는 기술 부채·리팩터링에 유용하나 복잡한 트레이드오프는 인간이 우위. 채용 시 코딩 실력보다 성격·동기(high agency) 중시
   * Steve Huynh(전 Amazon Principal Engineer). 10년+ SW 엔지니어 면접 경험 관찰, Technical Behavioral Interview 책 발췌
 
 # Apple
