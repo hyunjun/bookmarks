@@ -2245,6 +2245,10 @@ AWS
 * [**Python utilities for AWS related tasks**](https://pythonawesome.com/python-utilities-for-aws-related-tasks/)
 * [aws-api: AWS, data driven](https://github.com/cognitect-labs/aws-api)
 * [aws API Changes](https://awsapichanges.info)
+* [AWS Blocks — TypeScript framework to compose backend capabilities from pre-built modules](https://docs.aws.amazon.com/blocks/)
+  * [aws-blocks](https://github.com/aws-devtools-labs/aws-blocks)
+  * [AWS Blocks: TypeScript Framework for AI-Driven Backend Development | InfoQ](https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/)
+  * AI 에이전트가 백엔드를 만들도록 설계된 오픈소스 TS 프레임워크(퍼블릭 프리뷰). `npm run dev`로 AWS 계정 없이 로컬에 Postgres·인증·실시간 메시징·파일 저장소 실행, 동일 코드가 Lambda/DynamoDB/Aurora/API Gateway/Bedrock에 그대로 배포. 조합형 npm 패키지, 코딩 에이전트를 올바른 아키텍처로 유도하는 steering 파일 내장. 스키마→프론트엔드 타입 안전(Next.js/React/Vue/Angular/Svelte·Swift/Kotlin/Flutter). ~20개 Block, Apache 2.0
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
   * [최신 버전의 AWS CLI 설치 또는 업데이트 - AWS Command Line Interface](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html)
