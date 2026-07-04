@@ -119,6 +119,8 @@ Hardware
 
 # AI
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
+* [AI 경쟁의 다음 승부처, 메모리 계층 구조 | SK하이닉스 뉴스룸](https://news.skhynix.co.kr/ai-competition-next-challenge/)
+  * AI 인프라 경쟁의 초점이 순수 연산 성능에서 데이터 저장·이동·활용으로 확장. HBM(가속기)+AI-DRAM(시스템 메모리)+eSSD(스토리지) 3계층 전략, 학습(대역폭) vs 추론(응답성·효율·컨텍스트 유지) 요구 차이, Agentic AI로 데이터 검색·저장 아키텍처 중요성 증대
 * [스위치 없이 B300 클러스터 구성하기 | Sionic AI](https://blog.sionic.ai/dgx-b300-direct)
   * NVIDIA DGX B300 ConnectX-8 8포트로 스위치 없는 full mesh 직접 연결. DAC 케이블로 비용 1/10, NCCL 커스텀 패치로 멀티 서브넷 분산 학습, 787GB/s(이론값 98%). 2~8대 ~100억원 이하 규모
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
