@@ -355,6 +355,9 @@ NLP
 * ['빅데이터/빅데이터 with python' 카테고리의 글 목록](https://ehclub.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20with%20python) 웹 검색엔진 만들기
 * [How MDN's autocomplete search works - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
   * [MDN의 검색 자동완성 구현 방법 | GeekNews](https://news.hada.io/topic?id=4762)
+* [FUTO Swipe — open swipe typing models and algorithms](https://swipe.futo.tech/)
+  * [FUTO Swipe: 공개형 스와이프 입력 모델 | GeekNews](https://news.hada.io/topic?id=30787)
+  * 프라이버시 침해 없는 정확한 스와이프 입력 예측 오픈 모델·알고리즘. 3개 신경망(범용 예측 encoder·언어 일관성 ContextLM·레이아웃별 decoder, ~96% 정확도), 100만 QWERTY 스와이프 데이터셋(MIT), C++ 추론 라이브러리. 총 250만 파라미터로 온디바이스 실행. FUTO Keyboard 탑재
 * [Machine Learning Won't Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) NLU
 * [NLP in Fintech. Introduction | by FinTech MK | Sep, 2021 | Medium](https://medium.com/@fintech.macedonia/nlp-in-fintech-1aee4fd8ed08)
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Proces…](https://www.slideshare.net/wonjoonyoo/ss-188835227)
