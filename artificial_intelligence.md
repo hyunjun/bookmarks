@@ -943,6 +943,9 @@ Artificial Intelligence
   * [LLM이 매번 초기화되어 과거 문맥을 잊어버리는 문제도 이제 오픈소스로 해결 가능해졌습니다🚀AI 에이전트 메모리, 이제 6줄의 코드로 충분히 구현할 수 있습니다! 왜냐하면 Cognee Inc.가 "비정형 데이터를 영구적 AI 메모리로 변환하고 벡터+그래프 하이브리드 검색 제공"해주는 오픈소스 메모리 프레임워크, Cognee를 공개했거든요. 셀프 호스팅… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_llm%EC%9D%B4-%EB%A7%A4%EB%B2%88-%EC%B4%88%EA%B8%B0%ED%99%94%EB%90%98%EC%96%B4-%EA%B3%BC%EA%B1%B0-%EB%AC%B8%EB%A7%A5%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%8F%84-%EC%9D%B4%EC%A0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0-activity-7397049792792621056-a-O-)
   * [Build Agents that never forget. (100% open-source, self-evolving AI memory) Most agents have no real memory. Every conversation starts fresh with no recall of yesterday and no understanding of how… | Akshay Pachaar | 22 comments](https://www.linkedin.com/posts/akshay-pachaar_build-agents-that-never-forget-100-open-source-activity-7419726822680129536--GjM)
 * [CORAL: Robust, lightweight infrastructure for multi-agent autonomous self-evolution](https://github.com/Human-Agent-Society/CORAL)
+* [Cookiy AI - Automated user research platform](https://cookiy.ai/)
+  * [user-research-skill: AI agent skill for conducting user research](https://github.com/cookiy-ai/user-research-skill)
+  * AI가 참가자 모집→인터뷰 진행(실시간 후속 질문·감정 신호 감지)→인사이트 종합까지 자동화하는 정성 리서치 플랫폼. 목표→인사이트 ~4시간, 19만+ 인터뷰 완료, 1.7억+ 응답자 풀. user-research-skill로 Claude/Cursor/Codex 에이전트가 대화 중단 없이 정성·정량 리서치 기획·실행·분석(스크리닝·인터뷰 프레임워크·다국어 설문·페르소나 리포트). MIT
   * Claude Code·OpenCode·Codex 등 에이전트를 격리된 git worktree에서 병렬 실행, `.coral/` 공유 상태로 협업. 내장 평가 루프, 실시간 리더보드 대시보드, deep research 모드, LiteLLM 게이트웨이 프록시
 * [Craken — AI 네이티브 협업 환경 by Corca](https://craken.borca.ai/)
   * [craken-cli: Craken CLI for connecting Claude Code, Codex, and other shell-based agents to Craken workspace](https://github.com/corca-ai/craken-cli)
@@ -1054,6 +1057,11 @@ Artificial Intelligence
 * [memary: Open-source memory layer for autonomous agents](https://github.com/kingjulio8238/memary)
   * 메모리 스트림, 지식 그래프, 엔티티 추적으로 인간형 메모리 구현
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
+* [Memora: A harmonic memory representation balancing abstraction and specificity | Microsoft Research](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)
+  * [Memora: Official code for "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity"](https://github.com/microsoft/Memora)
+  * [2602.03315 Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://arxiv.org/abs/2602.03315)
+  * [장기 태스크를 위한 AI 메모리 시스템, Memora | digitalbourgeois](https://digitalbourgeois.tistory.com/3318)
+  * 저장(무엇을)과 검색(어떻게)을 분리한 장기 에이전트 메모리. 각 메모리 = primary abstraction(6-8단어 요약, 유사도 검색 인덱스) + memory value(상세 내용, 비인덱스) + cue anchors(다중 시맨틱 진입점). RAG·지식그래프가 이 프레임워크의 특수 케이스임을 이론적으로 증명. LoCoMo·LongMemEval SOTA, full-context 대비 토큰 최대 98% 절감. 시맨틱/LLM-guided/RL(GRPO) 검색 정책, 에이전트 간 공유 메모리, ChromaDB. ICML 2026
 * [MemOS: OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory](https://github.com/MemTensor/MemOS)
   * [INTELLIGENCE BEGINS WITH MEMORY](https://memos.openmem.net/)
   * [Introducing MemOS: Open-Source AI Memory Framework | Sumanth P posted on the topic | LinkedIn](https://www.linkedin.com/posts/sumanth077_memory-operating-system-for-ai-agents-memos-activity-7419359497284087808-heFj)
@@ -1681,8 +1689,11 @@ Artificial Intelligence
   * [ADK Python으로 구축된 샘플 Agent에서 Redis의 Vector Search 기능을 활용하여 커스텀 장기 기억 서비스를 구현하는 방법 | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_aiagent-adk-redis-ugcPost-7390684497425387520-UFUc)
     * [my-adk-python-samples/agent-memory/redis-memory-service at main · ksmin23/my-adk-python-samples](https://github.com/ksmin23/my-adk-python-samples/tree/main/agent-memory/redis-memory-service)
   * [구글이 오픈소스로 공개한 에이전트 운영의 비밀 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_tegtqvswmtxu-uikrxwuiktxu-tegtqvswmtxuslwtfmqwislqrez-activity-7408627379788509184-WAKK)
-  * [Agents CLI in Agent Platform: create to production in one CLI | Google Developers](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/)
-    * Google Cloud 에이전트 스택용 통합 CLI. 코딩 어시스턴트(Claude Code/Gemini CLI)가 Google Cloud 에이전트 스택에 직접 연결. 프로젝트 스캐폴딩, 로컬 평가, 프로덕션 배포. `agents-cli create/eval run/deploy`
+  * [Agents CLI — Command-line tool and skills library for constructing agents on Google Cloud](https://google.github.io/agents-cli/)
+    * [agents-cli](https://github.com/google/agents-cli)
+    * [Agents CLI in Agent Platform: create to production in one CLI | Google Developers](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/)
+    * [구글 Agents CLI — 코딩 에이전트를 에이전트 빌더로 바꾸는 메타 도구 | GeekNews](https://news.hada.io/topic?id=28817)
+    * Google Cloud 에이전트 스택용 통합 CLI. 코딩 어시스턴트(Claude Code/Gemini CLI/Antigravity/Codex)가 Google Cloud 에이전트 스택에 직접 연결. 7개 핵심 스킬(워크플로우 설계·ADK 코드 생성·스캐폴딩·평가·배포·엔터프라이즈 퍼블리싱·관측성), `uvx google-agents-cli setup` 원커맨드, discovery-first 설계. Pre-GA
   * [구글, 엔터프라이즈 에이전트 플랫폼 출시...빌드부터 최적화까지 지원 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=209640)
     * Google Cloud Next에서 Gemini Enterprise Agent Platform 공개. AWS Bedrock AgentCore·MS Foundry 경쟁. Build/Scale/Govern/Optimize 4축, Gemini+Claude 등 모델 중립, ADK+비즈니스 도구 이중 접근. $750M 엔터프라이즈 AI 도입 지원
   * [구글 에이전트 개발 키트 사용기 | ITWorld](https://www.itworld.co.kr/article/4161784/%EA%B5%AC%EA%B8%80-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%82%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0.html)
@@ -4582,7 +4593,8 @@ Artificial Intelligence
   * [cc-token-saver: Claude Code plugin for token and cost management](https://github.com/ww-w-ai/cc-token-saver)
     * [cc-token-saver | taekim34](https://www.linkedin.com/posts/taekim34_github-ww-w-aicc-token-saver-claude-code-activity-7450806231449079808-Tekn)
     * 캐시 만료 감지→재전송 차단($9/건 절약), SubTask 자동 위임(캐시 쓰기 37.5% 절감), /continue로 제로 토큰 세션 복원, 실시간 상태바, 23개 언어 대시보드, 레이트 리밋 역공학 데이터 수집
-  * [cc-wf-studio: ClaudeCode Workflow Studio](https://github.com/breaking-brake/cc-wf-studio)
+  * [cc-wf-studio: ClaudeCode Workflow Studio — A visual workflow editor for AI agents](https://github.com/breaking-brake/cc-wf-studio)
+    * "You think visually. AI thinks in .md." 드래그앤드롭 캔버스로 멀티 에이전트 워크플로우를 설계하고 AI가 이해하는 Markdown(`.claude/agents/`, `.github/prompts/`)으로 내보내는 VSCode 확장+CLI+MCP 서버. Claude Code/GitHub Copilot Chat 지원, "Edit with AI"로 자연어 대화 반복 수정
   * [ChatGPT-Image-2: Claude Code skill for OpenAI gpt-image-2: editorial typography, multi-image composition, text-heavy infographics](https://github.com/vdruts/chatgpt-Image-2)
     * [Claude Skill for OpenAI GPT-Image-2 | Claude Code Facebook Group](https://www.facebook.com/groups/claudecode/posts/1643346086814606/)
       * OpenAI GPT-Image-2 출시 2일 만에 만든 Claude Skill. Nano Banana 2 대비 뛰어난 디테일·텍스처 처리
