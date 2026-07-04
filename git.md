@@ -1377,10 +1377,17 @@ Git
     * 사용자 입력이나 파라미터처럼 오염될 수 있는 "소스"와 취약점을 가질 수 있는 위험한 함수인 "싱크(sink)"가 있는데 소스에서 싱크까지 데이터 흐름이 이어졌을 때 취약점이 발생
     * 문자열 매칭으로 이 소스와 싱크를 찾을 수는 있지만 오탐지가 너무 많기 때문에 토큰화를 통하면 소스와 싱크를 더 쉽게 찾을 수 있지만 데이터 흐름까지 추적하기는 어려움
     * 이를 해결하기 위해 추상 구문 트리(AST)를 구축하는데 제어흐름 그래프로 소스와 싱크의 데이터 흐름을 파악할 수 있기 때문에 여기 오염도(Taint) 추적을 통해 더 명확하게 소스와 싱크가 이어지는 취약점만 발견 가능
+* [copybara: A tool for transforming and moving code between repositories | Google](https://github.com/google/copybara)
+  * [Google Copybara: 저장소 간 코드 이동 | GeekNews](https://news.hada.io/topic?id=31018)
+  * 여러 저장소를 단일 authoritative 소스로 동기화(기밀↔공개 레포 싱크, 코드 부분 임포트, 다중 레포 기여 관리). 무상태—동기화 상태를 대상 커밋 메시지 라벨에 저장해 여러 사용자가 동일 설정으로 일관된 결과. Git 완전 지원, Java+Bazel. 3.6k stars
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
+* [epiq — distributed, terminal-native, Git-backed issue tracker](https://ljtn.github.io/epiq/)
+  * [epiq](https://github.com/ljtn/epiq)
+  * [epiq - Git 기반 분산형 로컬 CLI 네이티브 이슈 트래커 | GeekNews](https://news.hada.io/topic?id=31104)
+  * 에디터 곁에서 이슈 추적. CLI 칸반(vim 네비게이션)+브라우저 GUI(동일 Git 백엔드), 이벤트 소싱(append-only 로그, 독립 로그 파일로 머지 충돌 회피), 오프라인 우선+Git 동기화, MCP로 에이전트 연동. 계정·SaaS 불필요. TypeScript
 * [every-git-commit-shorthash: Git repository with a commit for every single shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
 * [ff-for-github: Fast-forward merge branches directly from your browser](https://github.com/simnalamburt/ff-for-github)
   * 터미널 없이 브라우저에서 PR 및 임의 브랜치/태그/ref의 fast-forward 머지 지원
