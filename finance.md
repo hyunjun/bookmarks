@@ -446,6 +446,9 @@ Finance
 * [headless — Financial Data API](https://h6s.ai/)
   * [금융 데이터, 하나의 API로 — Headless Finance Platform을 공개합니다 · 테오 블로그](https://dataportal.kr/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%82%98%EC%9D%98-API%EB%A1%9C/)
   * [#fintech #api #headlessfinance #금융데이터 #스타트업 #h6s #openbanking #developerexperience #aiagent | 진태양](https://www.linkedin.com/posts/taeyang-jin_fintech-api-headlessfinance-share-7449376598497136640-nk-a)
+* [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+  * [핀테크 엔지니어링 핸드북 | GeekNews](https://news.hada.io/topic?id=30892)
+  * 돈을 다루는 시스템 설계 3원칙(없는 돈 만들지 않기·데이터 잃지 않기·무엇도 신뢰하지 않기). 화폐 표현(float 회피·BigDecimal/정수 최소단위), 복식부기, 거래 시점 모델(value/booking/settlement), 감사 추적, 멱등성, 자금 예약 패턴, 웹훅 처리, 정산(reconciliation), 접근 제어
 
 # Javascript
 * [가상화폐 트레이딩 봇 만들기](https://brunch.co.kr/@skykamja24/542)
