@@ -344,6 +344,9 @@ Web
 * [기술 블로그를 위한 SEO - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/07/SEO-for-Technical-Blog.html)
 * [제목 스타일 단계는 문서 구조의 기둥과 보 - 넷마블 기술 블로그](https://netmarble.engineering/heading-style-guide-for-strong-document) SEO 이야기 약간
 * [당장 그만두어야 하는 구식 SEO 전략 7가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/267469)
+* [JSON-LD Explained for Personal Websites | Ethan Hawksley](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
+  * [개인 웹사이트를 위한 JSON-LD 설명 | GeekNews](https://news.hada.io/topic?id=30729)
+  * 개인 사이트에 JSON-LD 구조화 데이터를 넣어 SEO·링크 프리뷰·검색 노출 개선. `@context`·`@graph`, 핵심 노드 타입 `WebSite`·`Person`·`BlogPosting`·`BreadcrumbList`. 정적 사이트도 홈페이지에 WebSite·ProfilePage·Person 3종만 넣어도 효과. LLM·검색엔진의 지식그래프 구축에 유리
 * [How Generative Engine Optimization (GEO) Rewrites the Rules of Search | Andreessen Horowitz](https://a16z.com/geo-over-seo/)
   * [생성형 엔진 최적화(GEO), 검색의 규칙을 어떻게 바꾸는가 | GeekNews](https://news.hada.io/topic?id=21260)
 * [Forget SEO. Welcome to the World of Generative Engine Optimization | WIRED](https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/)
@@ -484,6 +487,9 @@ Web
 * [어드민 인증 서비스 구현 경험기. 안녕하세요. 서비스 플랫폼 팀 소속 백엔드 개발자 유가희입니다. 서비스… | by Kahee Yu | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%96%B4%EB%93%9C%EB%AF%BC-%EC%9D%B8%EC%A6%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84-%EA%B2%BD%ED%97%98%EA%B8%B0-8f933b38fc16) keycloak
 * [Let's understand the SSO Process Flow](https://www.linkedin.com/posts/progressivethinker_sso-security-technology-activity-7269355153323921408-2tVq/)
 * [Password-less apps: implementing WebAuthN by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=FUWLYC1z1LU)
+* [auth.md — an open protocol for agents to register users on behalf of customers | WorkOS](https://workos.com/auth-md)
+  * [auth.md — 에이전트가 사용자를 대신해 가입시키기 위한 오픈 프로토콜 | GeekNews](https://news.hada.io/topic?id=30837)
+  * 앱이 도메인 루트(`https://yourapp.com/auth.md`)에 호스팅하는 마크다운 파일로 에이전트가 회원가입 없이 사용자를 등록하는 프로토콜. 에이전트가 auth.md를 fetch→지원 플로우 선택→검증 신원 assertion 또는 user-claimed 검증. OAuth 기반, 스코프·단기 토큰 발급. Cloudflare·Firecrawl·Resend 채택, MIT
 * [Keycloak](https://www.keycloak.org/)
   * [신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/2425/)
   * [키클락 구성을 위한 기나긴 사전 작업 한번에 보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2427/)
