@@ -1193,6 +1193,11 @@ Data Science
 * [AI와 함께하는 패션 큐레이션 — 무신사 2.0 시나리오 기반 추천 시스템 개발 | by 최영민 | MUSINSA tech | Oct, 2024 | Medium](https://medium.com/musinsa-tech/ai%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%8C%A8%EC%85%98-%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%EB%AC%B4%EC%8B%A0%EC%82%AC-2-0-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B8%B0%EB%B0%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C-db7020b20b68)
 * [오늘의집이 ‘실시간 AI 추천’으로 88% 더 성장한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2958/)
 * [쇼핑에 영상을 더하다: GSSHOP 숏픽 추천 알고리즘 진화기](https://gsretail.tistory.com/79)
+  * [쇼핑에 영상을 더하다: 2편. 영상을 '이해'하기 시작하다](https://gsretail.tistory.com/87)
+    * PD가 방송 영상에서 특정 장면을 수작업으로 찾던 문제에서 출발. TwelveLabs Marengo(장면 검색)·Pegasus(영상 이해)+Claude(키워드 추출)+Cohere(벡터화)+OpenSearch 파이프라인. "기존 추천은 영상을 추천한 게 아니라 영상에 상품 추천을 붙였을 뿐"이라는 통찰
+  * [쇼핑에 영상을 더하다: 3편. 이해한 영상을 추천으로 연결하다](https://gsretail.tistory.com/88)
+    * 영상에서 "편하다·실용적·캠핑용" 같은 소구 포인트를 추출해 임베딩, 기존 추천 시스템을 대체하지 않고 영상 신호를 레이어로 추가. A/B 테스트 결과 클릭 UV +21.7%, 주문 고객 +57.5%, 전환율 +29.4%. "무엇을 클릭했나"에서 "어떤 맥락에 반응했나"로 전환
+  * 랜덤 노출→선호 카테고리 가중 추천→다양성 부족(피로도)→음악 스트리밍식 셔플 알고리즘→Thompson Sampling MAB(탐색·활용 균형, 콜드 스타트 대응)로 진화
 * [논문 리뷰 BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://dhgudxor.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BERT4Rec-Sequential-Recommendation-with-Bidirectional-Encoder-Representations-from-Transformer)
 * [Paper review Sampling-Bias Corrected Neural Modeling for Large Corpus Item Recommendations | by chrisjune | Medium](https://chrisjune-13837.medium.com/paper-review-sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations-fee7710c5640) 유튜브 추천 시스템의 일부를 자세하게 소개
 * [(광고아님) 유독 스포티파이가 노래 추천을 잘한다는 평이 많은 이유 - YouTube](https://www.youtube.com/watch?v=uUwzkAc9rXc)
