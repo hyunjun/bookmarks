@@ -2344,6 +2344,9 @@ Javascript
   * [Demo: Disabling JavaScript Won’t Save You from Fingerprinting](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
 * [flagsmith: Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com ](https://github.com/Flagsmith/flagsmith)
   * [Flagsmith - 오픈소스 Feature Flag 서비스 | GeekNews](https://news.hada.io/topic?id=4477)
+* [Foldkit — The frontend framework for correctness (Effect-TS, Elm Architecture)](https://foldkit.dev/)
+  * [Foldkit - 정확성을 위한 프론트엔드 프레임워크 | GeekNews](https://news.hada.io/topic?id=30922)
+  * Effect-TS 기반 Elm 아키텍처 프레임워크. 단일 불변 모델+단일 update 함수(숨은 뮤테이션·stale closure 없음), 타입 안전 라우팅·접근성 컴포넌트·폼 검증·테스트 프리미티브·타임트래블 DevTools 내장. 예측 가능 구조로 LLM 코드 생성·리뷰에 유리. React 점진 도입·SSR엔 부적합. 베타
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
 * [flowy - The minimal javascript library to create flowcharts](https://github.com/alyssaxuu/flowy)
 * [Fluid Framework](https://fluidframework.com/)
@@ -3201,6 +3204,10 @@ Javascript
     * [Difference between npm and npx - YouTube](https://www.youtube.com/watch?v=xvI_Mm4iC3I)
   * [nrm: NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao](https://github.com/Pana/nrm)
     * [nrm - npm registry manager | GeekNews](https://news.hada.io/topic?id=17988)
+* [Nub — All-in-one TypeScript-first toolkit for Node.js (Bun-like, augments stock Node)](https://nubjs.com/)
+  * [nub](https://github.com/nubjs/nub)
+  * [Nub - Node.js용 Bun 유사 올인원 툴킷 | GeekNews](https://news.hada.io/topic?id=30832)
+  * Node를 대체하지 않고 보강하는 Rust 기반 툴킷. TS/JSX 직접 실행(oxc 인메모리 트랜스파일), `nub run`(pnpm 대비 ~24배 빠름), `nubx`(npx 대비 ~19배), pnpm/npm/bun 락파일 호환 패키지 매니저(deny-by-default 빌드 스크립트·OSV 검사), Node 버전 관리, .env 자동 로드. 진짜 Node에서 실행돼 락인 없음. MIT
 * nvm
   * [노드를 더 우아하게. nvm 이야기](http://jybaek.tistory.com/746)
   * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
@@ -3289,6 +3296,9 @@ Javascript
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
 * [Vite+ | The Unified Toolchain for the Web](https://viteplus.dev/)
+  * [Announcing Vite+ Beta | VoidZero](https://voidzero.dev/posts/announcing-vite-plus-beta)
+  * [Vite+ 베타 공개 | GeekNews](https://news.hada.io/topic?id=31073)
+  * Vite·Vitest·Rolldown·tsdown·Oxlint·Oxfmt를 통합 CLI(`vp dev/check/test/build/pack/run`)로 묶은 웹 개발 툴체인 베타. 알파 이후 1,300+ 공개 레포 의존, 월 다운로드 330만 전망. `vp create`/`vp migrate`로 시작
 * [VoidZero — 자바스크립트를 위한 차세대 툴체인 출시. 원문… | by Ricki | Nov, 2024 | Medium](https://ricki-lee.medium.com/voidzero-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-%ED%88%B4%EC%B2%B4%EC%9D%B8-%EC%B6%9C%EC%8B%9C-ebb339008b7f)
   * [Announcing VoidZero - Next Generation Toolchain for JavaScript | VoidZero](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
@@ -4014,6 +4024,8 @@ Javascript
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Sandbox](https://deno.com/deploy/sandbox)
+  * [Deno Desktop: Deno 프로젝트를 데스크톱 앱으로 패키징 | GeekNews](https://news.hada.io/topic?id=30726)
+    * TS/Deno 코드를 웹 렌더링 엔진과 함께 크로스플랫폼 데스크톱 바이너리로 번들. OS 네이티브 webview 또는 Chromium CEF 백엔드. Deno v2.9.0 canary 기능. docs.deno.com
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [deno task 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1624)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
