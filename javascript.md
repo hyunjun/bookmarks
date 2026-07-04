@@ -1666,6 +1666,8 @@ Javascript
   * [디자인 시스템이 AI를 만났을 때: FE 개발 패러다임의 변화 - NAVER D2](https://livewiki.com/ko/content/design-system-ai-fe-paradigm-shift)
 * [당연해진 디자인시스템, 그다음 이야기: AST와 MCP로 여는 미래 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=HTHcsVgI_CM)
   * [디자인시스템의 미래: AST와 MCP로 우아한형제들 개발 효율을 높이다](https://livewiki.com/ko/content/design-system-ast-mcp-future)
+* [astryx: An open source design system that's fully customizable and agent ready | Meta](https://github.com/facebook/astryx)
+  * Meta의 13,000+ 앱에 쓰이는 React+StyleX 오픈소스 디자인 시스템. 150+ 접근성 컴포넌트, 7종 테마·다크모드, CSS 커스텀 프로퍼티로 포크 없이 커스터마이징, Tailwind/CSS modules 오버라이드 허용(스타일 락인 없음). API·문서·CLI를 사람과 AI 어시스턴트가 같은 방식으로 쓰도록 설계. MIT, 베타
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
@@ -6621,7 +6623,6 @@ Javascript
 * [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 * [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 * [TypeScript vs.  JavaScript](https://hackernoon.com/typescript-vs-javascript-b568bc4a4e58)
-* [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://www.youtube.com/watch?v=H16gTwa2J7g)
 * [Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
 * [우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
@@ -6845,6 +6846,11 @@ Javascript
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
 * [Fedify](https://fedify.dev/) ActivityPub server framework
   * [Ghost funds Fedify — Hong Minhee on Things](https://writings.hongminhee.org/2024/07/ghost-funds-fedify/)
+* [Flow: A Static Type Checker for JavaScript](https://flow.org/)
+  * [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://www.youtube.com/watch?v=H16gTwa2J7g)
+  * [Flow for TypeScript Users in 2026 | Medium](https://medium.com/flow-type/flow-for-typescript-users-in-2026-ad07ac0a2d92)
+  * [TypeScript가 타입 전쟁에서 이겼다는 건 이제 논쟁거리도 아닙니다 | Yunsup Sim](https://www.linkedin.com/posts/pedogunu_typescript%EA%B0%80-%ED%83%80%EC%9E%85-%EC%A0%84%EC%9F%81%EC%97%90%EC%84%9C-%EC%9D%B4%EA%B2%BC%EB%8B%A4%EB%8A%94-%EA%B1%B4-%EC%9D%B4%EC%A0%9C-%EB%85%BC%EC%9F%81%EA%B1%B0%EB%A6%AC%EB%8F%84-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-share-7474615082123939840-ue_h/)
+  * Meta의 정적 타입 체커. 문법은 TypeScript와 유사(keyof·readonly·unknown)하지만 Flow는 soundness(타입 안전=런타임 안전) 우선, TypeScript는 개발 편의 우선. Flow가 잡는 4가지 런타임 오류—언바운드 메서드 추출(this 손실)·간접 객체 할당의 추가 프로퍼티·배열 공변성·잘못된 타입가드. `match` 패턴 매칭, React 전용 키워드(component·hook·renders), exact object 기본값. "도구가 눈감는 지점을 알면 대신 의심할 수 있다"
 * [flyde: ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js](https://github.com/flydelabs/flyde)
   * [Flyde - 개발자를 위한 비쥬얼 프로그래밍, 오픈소스 | GeekNews](https://news.hada.io/topic?id=13857)
 * [FnApi – FnApi](https://fnapi.dev/)
