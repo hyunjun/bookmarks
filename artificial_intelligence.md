@@ -3056,10 +3056,15 @@ Artificial Intelligence
   * AI가 아이디어 단계에서는 스킬 격차를 줄이지만, 실행 단계에서는 전문성 차이를 해소하지 못하는 "AI Wall" 현상. 도메인 지식 없이는 AI 결과물 평가 불가
 * ["일단 POC 해보세요" - AI 도입 논의의 Last Mile Problem | crystal0224](https://www.linkedin.com/posts/crystal0224_%EC%9D%BC%EB%8B%A8-poc-%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94-ai-%EB%8F%84%EC%9E%85-%EB%85%BC%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9E%90%EC%A3%BC-%EB%93%A3%EB%8A%94-%EB%A7%90%EC%9E%85%EB%8B%88%EB%8B%A4-share-7440289785790930944-iGAJ)
   * 250개 이상의 LLM 연결 앱을 만들고도 하나도 운영 전환 못한 은행 사례. 기술보다 거버넌스·인력·프로세스 재설계가 핵심
+* [이기호 - 제조 현장에 AI를 도입할 때 부딪히는 3가지 현실적 어려움 | LinkedIn](https://www.linkedin.com/posts/%EA%B8%B0%ED%98%B8-%EC%9D%B4-3015a317b_sxisyodx-swmregtxutzdtsaree-sxisyoai-share-7476461868463616000-sbNZ)
+  * ①데이터 컨텍스트—현장 데이터가 수기·엑셀·설비별 용어로 흩어져 AI가 읽을 형식으로 변환하기 어려움(DRM 우회에 Power Automate Desktop 사용), ②망 분리 보안—퍼블릭 클라우드 직접 연결 불가, 오픈소스 AI는 GPU 인프라 부담, ③운영 지속성—전담 AI 운영 인력 없이 실무자가 비공식 온톨로지 사전에 의존. PoC는 결국 현장에 운영 부채를 남기므로 장기 유지보수 책임을 고려해야
 * [이승현 - CoT의 진화, 탈언어화와 검증으로 | Facebook](https://www.facebook.com/epoko/posts/pfbid02PU9GTLUySqaiZVxqHxdwFD7fMsw5M9bAdvJH8cqQdncHt4HAhJdtJcX2WmL1Tqal)
 * [Andrej Karpathy - AI 역량 이해의 격차가 커지고 있다](https://x.com/karpathy/status/2042334451611693415)
   * [김성완 - 카파시 트윗 번역/요약 | Facebook](https://www.facebook.com/seongwan.kim.3/posts/pfbid0s8p7cSRi5zibTKqKCE7GQ7RJQGZ51gnKzfHXmRzufrmXShaMdwjCNeKzYCFZiKvcl)
   * 무료 ChatGPT를 한번 써보고 AI를 판단하는 사람과, 최신 유료 모델로 깊이 활용하는 사람 사이의 인식 차이 확대
+* [박정호 - AI를 골탕먹이는 문제를 내는 푸단대 시험 | Facebook](https://www.facebook.com/jeongho.park.733/posts/pfbid0W3vcqA8Gm4MofK77VwaZLLLMwz13oQ6RUU6wdCiwbpXSktCpixEtSX9C8AYDBknMl)
+  * [Fudan University on X](https://x.com/FudanUniversity/status/2071874530675749202)
+  * 상하이 푸단대 Xiao Yanghua 교수가 시험을 뒤집음—학생 51명이 각자 Claude·DeepSeek·MiniMax를 틀리게 만드는 문제 10개를 출제, AI가 많이 틀릴수록 높은 점수. 51명 중 50명이 최소 1개 모델을 골탕먹였고 4명만 만점(3개 모델 전부 10문제 실패), 평균 85.7점. AI의 한계를 알려면 운이 아닌 깊은 이해·비판적 사고가 필요하다는 취지
 * [이형열 - 우리는 새로운 귀족정의 탄생을 목격하고 있다 (NYT Opinion 번역) | Facebook](https://www.facebook.com/hyungrlee/posts/pfbid033XeiMUPHaSM2rH2x75FysEbzRokd8dSYfYSk83xPyDqQEbxMGesFVefcJgtXTLFJl)
 * [The Biggest Vertical AI Markets Are Hiding in Plain Sight | Sapphire Ventures](https://sapphireventures.com/blog/the-biggest-vertical-ai-markets-are-hiding-in-plain-sight/)
   * [가장 큰 버티컬 AI 시장은 눈에 보이는 곳에 숨어 있다 | GeekNews](https://news.hada.io/topic?id=28929)
