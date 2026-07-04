@@ -5883,6 +5883,7 @@ Artificial Intelligence
   * `agents://<provider>/<role>` URI로 6개 AI 에이전트(Amp, Codex, Claude, Gemini, Pi, OpenCode) 대화 읽기·검색·시작·계속. Rust 기반 GitHub 에이전트 스킬
 * [ZCode - AI-powered CLI development tool | Z.ai](https://zcode.z.ai/)
   * [GLM-5.2에 최적화된 공식 개발 하네스, ZCode 3.0 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3319)
+  * [ZCode: GLM-5.2용 공식 하네스 | GeekNews](https://news.hada.io/topic?id=31047)
   * Z.ai의 GLM-5.2 공식 개발 하네스 CLI. 장기 태스크 관리(Goal 기능), WeChat/Feishu/Telegram 원격 트리거, 추론·코딩·멀티 에이전트 협업에 GLM-5.2 심층 최적화. 계획→구현→검증→배포 엔드투엔드. Lite/Pro/Max($16.2~$144/월), macOS/Windows/Linux(베타)
 * [ZipBuild — Next.js Boilerplate for AI-Powered Development](https://www.zipbuild.dev/)
   * 앱 유형·사용자·수익 모델·핵심 기능 4가지 질문으로 맞춤형 Next.js 스캐폴드 108파일 생성. Supabase 인증, Stripe 결제, 20+ UI 컴포넌트, 11개 가이드 포함. Claude Code/Cursor/Codex 등 AI 코딩 도구와 연동하여 SaaS 개발 가속
