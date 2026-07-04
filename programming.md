@@ -184,6 +184,8 @@ Programming
   * 디자인 문서를 작성하는 것도 비용이니 해결책이 모호한지 여부에 따라 작성할지 말지를 결정 가능
     * 의사 결정의 설명 없이, 구현에 대한 설명만 있다면 문서를 작성하느니 프로그램을 작성하는 것이 나은 생각
   * 이 디자인 문서는 빠른 반복을 통해서 발전시킨 뒤 여러 리뷰를 거치고 구현하고 이후 유지 관리하며 시간이 지나 다시 학습에 사용하는 생명주기
+* [Write an Effective Design Document | Refactoring English (Michael Lynch)](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+  * 설계 문서를 쓸 때(다중 협업·3개월+·장기 운영·모호한 요구사항·치명적 리스크). 핵심 원칙 "틀렸을 때의 대가"—고비용 결정(언어 선택 등)은 상세히, 저비용(페이지네이션 스타일)은 생략. 구성: 목표·배경, 목표/비목표, 시나리오, 다이어그램, SLO, 보안·프라이버시·법률, 검토한 대안, 미해결 이슈
 * [설계가 잘 쓰이려면 독자와 쓰임새가 분명해야 한다](https://brunch.co.kr/@graypool/1779)
 * [거창하지 않아도 괜찮을 수 있는 설계 - 엘키의 주절 주절](https://elky84.github.io/2024/11/03/design/)
 * [향후 변경에 대비해 코드가 얼마나 유연해야 하는지 기준](https://www.linkedin.com/posts/fupfin_%EC%98%A4%EB%8A%98-%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%84%EC%9D%98-%ED%8C%A8%EB%84%90-%ED%86%A0%EC%9D%98%EC%97%90%EC%84%9C-%ED%96%A5%ED%9B%84-%EB%B3%80%EA%B2%BD%EC%97%90-%EB%8C%80%EB%B9%84%ED%95%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%96%BC%EB%A7%88%EB%82%98-%EC%9C%A0%EC%97%B0%ED%95%B4%EC%95%BC-activity-7344747961416880130-YETh/)
@@ -192,6 +194,9 @@ Programming
   * 상대적인 문제라는 사실을 빨리 깨우칠수록 더 자유롭고 다양한 설계의 가능성을 즐길 수 있다
 * [90년대 컴퓨터 공학 이야기 (3) — Trade-off | LinkedIn](https://www.linkedin.com/pulse/90%2525EB%252585%252584%2525EB%25258C%252580-%2525EC%2525BB%2525B4%2525ED%252593%2525A8%2525ED%252584%2525B0-%2525EA%2525B3%2525B5%2525ED%252595%252599-%2525EC%25259D%2525B4%2525EC%252595%2525BC%2525EA%2525B8%2525B0-3-trade-off-chaesang-jung-ltzyc/?trackingId=rHEd%2BN6aTRqspTLxdMYOfA%3D%3D)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
+* [The Cost YAGNI Was Never About | Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+  * [YAGNI가 말한 적 없는 비용 | GeekNews](https://news.hada.io/topic?id=30984)
+  * YAGNI는 코딩 노력 절약이 아니라 경제학이라는 재해석. ①옵션 비용—기능 전에 구조를 만들면 아직 모르는 요구에 추측 커밋, 맞게 추측해도 옵션을 미리 소진해 손해 ②NPV—투기적 인프라는 비용을 매출보다 앞당겨 재무적 부담. AI로 코드 생성이 거의 공짜여도 YAGNI 유효—"옵션과 돈은 쓰지 않았을 때 더 가치 있다", 오히려 값싼 생성이 투기적 프레임워크를 정당화해 위반 악화
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
@@ -526,6 +531,8 @@ Programming
 * [State of the Art of Platform Engineering • Abby Bangser & Charles Humble • GOTO 2026 - YouTube](https://www.youtube.com/watch?v=Xsd02ebVv4w)
   * [전체 인터뷰 트랜스크립트](https://gotopia.tech/articles/450)
   * Syntasso 수석 엔지니어 Abby Bangser(Team Topologies 옹호자)와 Charles Humble의 플랫폼 엔지니어링 현황 인터뷰
+* [Who Does What? Team Topologies for the Agentic Platform | owulveryck](https://blog.owulveryck.info/2026/06/24/who-does-what-team-topologies-for-the-agentic-platform.html)
+  * Team Topologies 프레임워크를 AI 기반 소프트웨어 개발에 적용. 플랫폼이 기술적 복잡성을 흡수해 비즈니스 전문가가 코딩 없이 앱을 만들 수 있어야 한다고 주장하며, 에이전트 기반 프로덕션을 지원하는 4가지 팀 유형(stream-aligned·platform·enabling·complicated subsystem)의 역할 제안
 * [DevOps 엔지니어보다 더 많이 돈 버는 플랫폼 엔지니어 | GeekNews](https://news.hada.io/topic?id=13537)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [platform-engineering-group/presentations/0009-개발자-경험을-향상시키는-내부-개발자-플랫폼(IDP)-구축하기.pdf at main · awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group/blob/main/presentations/0009-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%82%B4%EB%B6%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%9E%AB%ED%8F%BC(IDP)-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.pdf)
@@ -2659,6 +2666,9 @@ Programming
   * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
   * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
+* [Reclaiming Our Digital Selves: HCCF's Vision for a Human-Centered Top-Level Domain](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+  * [.self: 셀프호스팅을 지원하도록 설계된 새 최상위 도메인 | GeekNews](https://news.hada.io/topic?id=30949)
+  * Human-Centered Computing Foundation(501(c)(3) 비영리)이 제안하는 새 최상위 도메인 `.self`—셀프호스팅으로 개인 데이터 완전 소유. 무료 개인 서브도메인·VPN·신뢰 메일 서버·오픈소스 클라이언트, 중앙 통제가 아닌 커뮤니티 거버넌스. 인프라·표준·커뮤니티 구축
 * [kic-reference-architectures: MARA: Modern Application Reference Architecture](https://github.com/nginxinc/kic-reference-architectures)
 * [kratos: Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!](https://github.com/ory/kratos)
   * [Auth0의 오픈소스 대체제 Ory Kratos, 이제 Passwordless 및 SMS | GeekNews](https://news.hada.io/topic?id=13528)
@@ -4229,6 +4239,8 @@ Programming
 * [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
   * [나는 클라우드를 만들고 있어요 | GeekNews](https://news.hada.io/topic?id=28835)
   * Tailscale 공동 창업자가 exe.dev 발표. 현재 클라우드의 근본 결함(VM 번들링, 느린 원격 스토리지, 비싼 이그레스)을 지적하며 로컬 NVMe·유연한 CPU/메모리 할당·글로벌 리전을 갖춘 새 인프라 구축
+* [클라우드 퍼스트는 끝났다…디지털 주권 시대 CIO의 5가지 새 전략 | CIO](https://www.cio.com/article/4190893/)
+  * 지정학적 긴장·AI 규제 확대·공급망 불안정으로 클라우드 퍼스트 시대가 끝나고 디지털 주권이 핵심으로. 5대 전략—①지리를 아키텍처로(데이터 위치를 설계 제약으로) ②효율보다 회복탄력성(하이퍼스케일러 다변화) ③워크로드 민감도별 분류(민감 데이터는 소버린/온프레미스) ④이동성·엑시트 전략(오픈 표준·컨테이너·쿠버네티스) ⑤확장된 주권(모바일·엔드포인트까지, ID 기반 보안). "비즈니스는 국경이 없지만 데이터는 그렇지 않다"
 * [Apache OpenWhisk is a serverless, open source cloud platform](https://openwhisk.apache.org/)
   * [openwhisk: Apache OpenWhisk is an open source serverless cloud platform](https://github.com/apache/openwhisk)
 * [aws](aws.md)
@@ -4403,6 +4415,8 @@ Programming
 # Code Review, pair programming, mob programming
 * [www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+* [코드 리뷰의 주된 목적은 유지보수하기 어려운 코드를 찾는 것 | GeekNews](https://news.hada.io/topic?id=31067)
+  * @mjd(mathstodon)의 관점. 코드 리뷰를 버그 탐지가 아니라 미래 유지보수자가 이해하기 어려운 코드를 찾는 과정으로 봄. 리뷰어가 이해 못 하면 미래 개발자도 못 함—명료성 자체가 수리 대상. "버그를 찾아라"보다 "이해해 보고 이해 안 되는 부분을 표시하라"가 더 실행 가능
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
@@ -5599,6 +5613,8 @@ Programming
 * [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
 * [GCP 보안 운영 시리즈  제로 트러스트 기반 보안 운영 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/identity-security/google-cloud-security-based-on-zerotrust)
 * [퇴사자가 AWS에 남아있던 날, 우리는 Zero Trust를 시작했다 | by JLand | 레브잇 테크블로그 | Jun, 2025 | Medium](https://medium.com/%EB%A0%88%EB%B8%8C%EC%9E%87-%ED%85%8C%ED%81%AC%EB%B8%94%EB%A1%9C%EA%B7%B8/%ED%87%B4%EC%82%AC%EC%9E%90%EA%B0%80-aws%EC%97%90-%EB%82%A8%EC%95%84%EC%9E%88%EB%8D%98-%EB%82%A0-%EC%9A%B0%EB%A6%AC%EB%8A%94-zero-trust%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4-074a6f5cb5f3)
+* [Continuous Authorization in the Cloud | InfoQ](https://www.infoq.com/articles/continuous-authorization-cloud/)
+  * 로그인 시점 1회 결정 후 이후 행동을 신뢰하는 전통적 인가의 한계(9시 정상 인증한 직원이 10시에 환자 5,000건 유출해도 "권한 있음"으로 통과). "can"과 "should"를 분리—모든 민감 작업을 행동 베이스라인·위치·디바이스·쿼리량·데이터 민감도로 실시간 재평가. 해시 식별자·위험 등급으로 감사(민감 데이터 미저장), shadow→제한→전면 단계적 적용. Zero Trust 원칙에 부합하며 점진 배포 가능
 * [애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성 | GeekNews](https://news.hada.io/topic?id=7153)
 * [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser · Felix Krause](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
   * Instagram과 Facebook에서 인앱브라우저로 웹사이트를 열었을 때 pcm.js같은 파일을 자동으로 주입하기 때문에
@@ -5733,6 +5749,10 @@ Programming
 * [Credit Cards Are Vulnerable To Brute Force Kind Attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
   * [신용카드는 브루트포스 유형 공격에 취약함 | GeekNews](https://news.hada.io/topic?id=29085)
   * PCI DSS가 카드 데이터 저장·표시를 제한하지만, BIN·마지막 4자리·만료일 같은 허용 정보만으로도 다른 가맹점에서 추가 결제 시도 가능. 3D Secure 페이지로 은행명·마스킹된 카드번호·만료일 획득, 6시간 뒤 여러 가맹점 인증 시도
+* [미 국방부, 양자내성암호 전환 속도전…가트너 "기업도 지금 준비 시작해야" | CIO](https://www.cio.com/article/4190912/)
+  * 미 국방부가 양자컴퓨팅 위협 대비 PQC 전환 정책 강화. 11월부터 CMMC에 PQC 요건 추가, 연방 계약업체는 2030년까지 NIST 양자내성 표준 준수. 가트너 단계별 로드맵(2026 자산 인벤토리→2028 TLS 1.3→2030 핵심 시스템 마이그레이션). 최대 난관은 레거시·OT·엣지 환경. 현재 고가치 데이터 PQC 적용률 10% 미만→2030년 80% 전망
+* [양자컴퓨터 시대 대비 나선 미국…PQC 의무화와 양자 기술 육성 병행 | CIO](https://www.cio.com/article/4189211/)
+  * 트럼프 행정명령 2건으로 연방 양자 보안·혁신 전략 수립. 연방기관 키교환 2030년말·전자서명 2031년말까지 전환, 30일 내 담당 고위직 지정. NIST·CISA에 암호 자재명세서(CBOM) 최소 표준 270일 내 수립 지시. "Harvest Now, Decrypt Later" 위협 강조, QC-ADDS 양자 연구 프로그램 병행
 * [0xNews - 악성 PyPI, npm, Ruby 패키지 발견 – 오픈 소스 공급망을 위협하는 다중 공격 캠페인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xnews-pypi-npm-ruby.html)
 * [0xVulner - Salesforce Industry Cloud 보안 경고: 20개 이상 구성 취약점 및 5개의 CVE 확인 | openLab - Secure & opensource](https://project-openlab.blogspot.com/2025/06/0xvulner-salesforce-industry-cloud-20-5.html)
 * [2412.03556 Best-of-N Jailbreaking](https://arxiv.org/abs/2412.03556)
@@ -5835,6 +5855,10 @@ Programming
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
+* [longfellow-zk: Google's zero-knowledge library for identity protocols (ISO MDOC, JWT, W3C Verifiable Credentials)](https://github.com/google/longfellow-zk)
+  * [Opening up Zero-Knowledge Proof technology to promote privacy in age assurance | Google blog](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+  * [Google, 연령 확인용 영지식 증명(ZKP) 라이브러리 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=31068)
+  * 다른 데이터 노출 없이 "18세 이상" 같은 사실만 증명하는 영지식증명(ZKP) 라이브러리 오픈소스화. Sparkasse 은행과 협업한 EU 연령 확인 대응, 레거시 신원 표준(ISO MDOC·JWT·W3C Verifiable Credentials) 대상. "Anonymous credentials from ECDSA" 연구 기반, C++ 구현. EU eIDAS(2026)·EUDI Wallet 연계
 * [Maigret Telegram Bot](https://www.maigret.app/)
   * [maigret: Collect a dossier on a person by username from 3000+ sites](https://github.com/soxoj/maigret)
   * 사용자명으로 3000+ 사이트에서 정보 수집하는 Python OSINT 도구(API 키 불필요). 기본 상위 500 사이트 스캔(`-a` 전체), 프로필에서 다른 계정 링크·정보 추출, 발견된 username/ID로 재귀 검색, 태그·국가 필터, 차단/캡차 부분 우회, 24시간 자동 DB 업데이트, Tor/I2P(.onion·.i2p) 지원, FlareSolverr Cloudflare 우회, `--ai`로 OpenAI 호환 API 요약, HTML/PDF/XMind/JSON/CSV/D3 그래프 리포트, 웹 UI. 텔레그램 봇(@maigret_searchbot)으로도 제공. MIT, Python 3.10+, 31.1k stars
@@ -6906,6 +6930,9 @@ Programming
 * [H.264 is magic: a technical walkthrough of a remarkable technology](https://sidbala.com/h-264-is-magic/)
 * [음악 생성 AI '유디오' 출시에 "미쳤다" 반응 등장 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=158752)
 * [HowVideo.works](https://howvideo.works/#processing)
+* [SMPTE makes its standards freely accessible, opening its Standards Library to the global media technology community | SMPTE](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
+  * [SMPTE, 표준 라이브러리 무료 공개 | GeekNews](https://news.hada.io/topic?id=30694)
+  * 110년 역사 SMPTE가 전체 표준 카탈로그(published standards·recommended practices·engineering guidelines·향후 릴리스 포함)를 무료 공개. GitHub 워크플로·HTML 문서 저작으로 프로세스 현대화. AWS·Apple·Disney·Dolby·Google·Sony 등 다이아몬드 회원 지원. pub.smpte.org/doc/
 
 ## Multimedia Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
