@@ -374,6 +374,8 @@ Finance
   * [TradingAgents 사용법 — LLM 9명이 주식 분석·매매 결정하는 멀티에이전트 오픈소스](https://jkf87.github.io/tradingagents-multi-agent-trading-llm-2026-04-28)
   * 펀더멘탈·센티먼트·뉴스·기술 분석 에이전트 + 불/베어 리서처 토론 + 트레이더·리스크 관리·포트폴리오 매니저로 구성된 멀티 에이전트 트레이딩 시스템
   * [Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube](https://www.youtube.com/watch?v=9FoEsXNGLwI)
+* [tradingcodex: Turn Codex into your investment workflow team](https://github.com/monarchjuno/tradingcodex)
+  * 자율 매매가 아닌 역할 분리 투자 워크플로우 시스템. head-manager 에이전트가 자연어 요청을 펀더멘탈 분석가·포트폴리오 매니저·리스크 리뷰어 등 전문 에이전트로 라우팅, 리서치→분석→밸류에이션→포트폴리오 적합성→리스크 리뷰→승인 실행 단계 진행. 가정·반대 증거를 담는 Decision Package, Django 서비스 게이트로 미승인 브로커 주문·자기 승인·제한 종목 차단, 기본 페이퍼 트레이딩. 로컬 대시보드
 * [vibe-investing: 투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S&P500, 가상화폐 투자를 다룹니다](https://github.com/gameworkerkim/vibe-investing/)
 * [Vibe-Trading: Your Personal Trading Agent](https://github.com/HKUDS/Vibe-Trading)
   * [Vibe-Trading Wiki — Finance Research Agent](https://vibetrading.wiki/)
