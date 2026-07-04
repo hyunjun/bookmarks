@@ -2307,6 +2307,9 @@ Docker
 * [Flux](https://fluxcd.io/)
   * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
   * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
+* [HAMi: Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)](https://github.com/Project-HAMi/HAMi)
+  * [HAMi Is Now a CNCF Incubating Project | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_hami-is-now-a-cncf-incubating-project-share-7478584009099235328-yuaa/)
+  * CNCF 인큐베이팅 승격. Kubernetes에서 물리 GPU 1장을 여러 슬라이스로 가상화해 여러 AI 팀이 공유, NVIDIA·NPU·DCU 등 이기종 하드웨어를 단일 스케줄링 프레임워크로 통합. 기존 앱·드라이버 수정 제로, 토폴로지 인식 스케줄링
 * [headlamp: A Kubernetes web UI that is fully-featured, user-friendly and extensible](https://github.com/kubernetes-sigs/headlamp)
   * [Headlamp — 사용하기 쉽고 확장성 좋은 Kubernetes 웹 UI | GeekNews](https://news.hada.io/topic?id=25215)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
