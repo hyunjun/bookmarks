@@ -681,6 +681,8 @@ App
 * [Automa - 크롬 브라우저 자동화 확장 | GeekNews](https://news.hada.io/topic?id=5464)
 * [beaverhabits: A self-hosted habit tracking app without "Goals"](https://github.com/daya0576/beaverhabits)
   * [BeaverHabits - 목표(Goal) 없는 습관 추적 웹 앱 | GeekNews](https://news.hada.io/topic?id=18945)
+* [best-chrome-extensions: A curated list of the finest Chrome extensions tailored for developers and designers](https://github.com/themeselection/best-chrome-extensions)
+  * 개발자(코드 에디터·디버깅·CSS·버전 관리·자동화)·디자이너(컬러 피커·타이포그래피·팔레트)·일반(탭 관리·스크린샷·광고 차단·AI 어시스턴트·SEO) 카테고리별 큐레이션. MIT
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
@@ -830,6 +832,8 @@ App
 * [Buzee](https://buzee.co/)
   * [buzee-tauri: A superfast full-text search application](https://github.com/gsidhu/buzee-tauri)
   * [실패한 스타트업 Buzee 오픈 소스화 – 파일 검색 애플리케이션 | GeekNews](https://news.hada.io/topic?id=18282)
+* [CanvasMind: A modern low-code visual programming IDE built on NodeGraphQt and qfluentwidgets](https://github.com/martin98-afk/CanvasMind)
+  * 드래그앤드롭 컴포넌트 오케스트레이션, 비동기 실행, 조건 분기·루프 제어, 워크플로우를 독립 실행 프로젝트로 원클릭 내보내기. LLM 통합(30+ 도구), 멀티뷰 캔버스, SSH 원격 실행, Cron·웹훅·파일 감시 트리거. Python 3.8+
 * [codelite](http://codelite.org/) `brew cask install codelite`
 * [Config.Tips - Home](https://config.tips/)
 * [CoScreen: Collaborative Screen Sharing by Datadog](https://www.coscreen.co/)
