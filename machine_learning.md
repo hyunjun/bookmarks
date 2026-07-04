@@ -1978,4 +1978,7 @@ Machine Learning
 * [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 * [machine-learning](https://github.com/patchy631/machine-learning)
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
+* [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
+  * [modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys)
+  * CMU MLSys 강좌 기반 오픈소스 교재. Blackwell 세대 GPU 커널 최적화 집중—①GPU 이해(실행 모델·데이터 레이아웃·텐서코어) ②TIRx Python DSL ③GEMM 최적화(기초→SOTA) ④Flash Attention 4 구현. async 데이터 이동·warp specialization·cluster launching 등 실전 기법
 * [Stanford CS329H: Machine Learning from Human Preferences I Autumn 2024 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
