@@ -3963,6 +3963,9 @@ NLP
     * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
     * [뉴런데브 - 경악스러운 Qwen 3.6 35B 성능 | YouTube](https://www.youtube.com/post/UgkxncuNbJtpUHKrJmi4l9xRmE1iDFfYMcL6)
       * Qwen3 coder next 80B 능가. Unsloth UD-IQ3_XXS(13.2GB, VRAM 16GB), UD-IQ4_LN(18GB, 24GB 3090) 추천. 3090에서 초당 100토큰, 맥미니 M4에서 45-55토큰. 에이전트 도구호출 뛰어남
+    * [Qwen 3.6 27B is the sweet spot for local development | Quesma](https://quesma.com/blog/qwen-36-is-awesome/)
+      * [Qwen 3.6 27B 로컬 실행이 실용적인 이유와 실제 사용 경험 | digitalbourgeois](https://digitalbourgeois.tistory.com/3306)
+      * dense 27B가 로컬 개발의 스위트 스팟이라는 주장. 35B A3B(MoE)보다 느리지만 출력 품질·지시 준수 우수. llama.cpp 8비트 양자화, MacBook M5 Max에서 multi-token prediction으로 ~32 tok/s(~42GB RAM). Artificial Analysis 37점으로 2025년 중반 프론티어 모델(Claude Sonnet)급—프라이버시·비용 면에서 로컬 배포가 현실적 대안
     * [Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
       * [Qwen3.6-35B-A3B: 모든 사람을 위한 에이전틱 코딩 능력 공개 | GeekNews](https://news.hada.io/topic?id=28609)
       * MoE 아키텍처(350억 중 30억 파라미터 활성화), 에이전틱 코딩에서 Claude Sonnet 4.5 다수 항목 능가, 완전 오픈소스
