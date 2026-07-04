@@ -1039,6 +1039,8 @@ Programming
   * Deterministic functions always return the same outputs given the same inputs
     * All pure deterministic functions are inherently idempotent (as there is no internal state to persist between calls)
     * Impure deterministic functions are not necessarily idempotent
+* [AI가 절대 안 고쳐주는 버그 2가지 ☠️ - YouTube](https://www.youtube.com/watch?v=ThYV4Kpf9Bk)
+  * 노마드 코더. AI는 코드를 써주지만 Race Condition·Partial Write·Idempotency는 이해 못 함. 바이브 코딩 앱에 흔한 버그 2가지와 해결법(Atomic Operation·DB 트랜잭션·Row Lock·멱등성)을 실제 코드로 설명. 개발자의 일이 코드 작성에서 이해·리뷰로 이동
 * [Bit(Binary digit) Byte 의 고찰. 최근 우리가 다루는 용량이 매우 커져서 작은 용량은 무시해도 될 수준이… | by Chase | 직방 기술 블로그 | Dec, 2023 | Medium](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 * [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
   * [Enlightenmentware - 나를 일깨워주는 소프트웨어들 | GeekNews](https://news.hada.io/topic?id=14926)
@@ -1750,6 +1752,8 @@ Programming
 * [**대규모 소프트웨어 패턴 강좌 업데이트 | Architecture 101**](https://architecture101.blog/2023/02/11/welcome_2_pattern_worlds/)
 * [**SwirlAI Newsletter | Aurimas Griciūnas | Substack**](https://www.newsletter.swirlai.com/)
 * [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
+* [TA, DA, QA, BA, SA 소프트웨어 아키텍처의 역할별 차이 이해하기 | 이랜서 블로그](https://www.elancer.co.kr/blog/detail/829)
+  * TA(인프라·서버·네트워크·클라우드), AA(애플리케이션 구조·UI-비즈니스로직-백엔드 통합), DA(데이터 흐름·DB·ETL), BA(비즈니스 요구사항·유저스토리), SA(기술 병목 분석·요구사항의 기술 명세화), QA(기능·성능·보안 테스트) 역할 구분과 쇼핑 앱 예시 협업 워크플로우
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 * [프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
@@ -7592,6 +7596,7 @@ Programming
   * [6월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/06/b-6-2.html)
   * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/06/b-6-3.html)
   * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/06/b-6-4.html)
+  * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/07/b-7-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
