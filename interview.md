@@ -121,6 +121,8 @@ Interview
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
 * [수백 번 면접을 진행한 내가 가장 중요하게 생각하는 것 - YouTube](https://www.youtube.com/watch?v=3UkUulmJR4E)
   * 코딩하는기술사. 25년간 실무담당자·팀장·채용 결정권자로 수백 번 면접하며, 잘 정리된 이력서·포트폴리오보다 단기간에 만들 수 없는 '흔적'을 찾는다는 이야기
+* [면접 시작 5분 만에 허수 지원자를 걸러내는 가장 뾰족한 질문 | Seunghyun Ju](https://www.linkedin.com/posts/seunghyun-ju-607001259_%EB%A9%B4%EC%A0%91-%EC%8B%9C%EC%9E%91-5%EB%B6%84-%EB%A7%8C%EC%97%90-%ED%97%88%EC%88%98-%EC%A7%80%EC%9B%90%EC%9E%90%EB%A5%BC-%EA%B1%B8%EB%9F%AC%EB%82%B4%EB%8A%94-%EA%B0%80%EC%9E%A5-%EB%BE%B0%EC%A1%B1%ED%95%9C-%EC%A7%88%EB%AC%B8-%EB%A9%B4%EC%A0%91%EC%9D%84-share-7476077003864010752-P3zx/)
+  * 지원자에게 JD를 직접 설명하고 본인이 감당할 수 있는 업무를 짚게 하는 질문. 태도(공고 그대로 반복 vs 회사 니즈 깊이 이해)와 역량(자기 한계·능력 범위 인식)을 동시에 드러냄. 스펙 좋은 사람이 아닌 조직 문제를 풀 적임자를 찾는 관점
 * ["학벌은 전혀 안 본다" 세계 최고 부자, 테슬라 CEO 일론 머스크는 면접 때 모든 지원자에게 항상 같은 질문을 던진다 (답변 팁) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/elon-musk-always-asks-job-interview_kr_618c5d1ce4b0b1aee920a479)
 * [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
@@ -1040,6 +1042,9 @@ Interview
 * [lever](https://www.lever.co/)
 * [movnorth.com - A community of global software developers interested in Canada](https://movnorth.com/)
 * [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
+* [semiconductor-career-prep: Semiconductor Career Prep Kit for CS/MIS Majors](https://github.com/serithemage/semiconductor-career-prep)
+  * [요즘 삼전·하이닉스 직원들 성과급으로 수억씩 받는다는 뉴스 - 반도체 취업 준비 키트 공유 | Dohyun Jung](https://www.linkedin.com/posts/dohyun-jung-b66b8262_%EC%9A%94%EC%A6%98-%EC%82%BC%EC%A0%84-%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%A7%81%EC%9B%90%EB%93%A4-%EC%84%B1%EA%B3%BC%EA%B8%89%EC%9C%BC%EB%A1%9C-%EC%88%98%EC%96%B5%EC%94%A9-%EB%B0%9B%EB%8A%94%EB%8B%A4%EB%8A%94-%EB%89%B4%EC%8A%A4%EA%B0%80-%EB%82%98%EC%98%A4%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-share-7476219559885041664-W0rt/)
+  * 삼성 DS·SK하이닉스·NVIDIA 취업을 노리는 CS/MIS 전공자용 커리어 준비 키트. 정답 제공이 아닌 "정보 수집→전략 수립→실행" 방법론(AI 협업)을 4단계(의도 명확화→AI 리서치→역량 기반 전략 설계→포트폴리오 구축)로 안내. 조작·부정 금지, 2026 경쟁 환경에서 진정성 시그널(도메인 해석·협업 증거·정량 결과) 강조. 바이브 코딩 튜토리얼로 키트 자체 제작 과정 문서화
 * [Senior Engineer Jobsearch](https://www.jobsearch.dev/) 큰 회사로의 이직을 목표로 하는 경력 엔지니어 대상 무료 가이드
   * [Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드 | GeekNews](https://news.hada.io/topic?id=5808)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
