@@ -765,6 +765,9 @@ Go
 * [GOES - Go Event Sourcing made easy https://opensource.bloom.sh ](https://github.com/bloom42/goes)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Gofs: The Easy Way to Synchronize Files in Real Time](https://morioh.com/a/45242296afee/gofs-the-easy-way-to-synchronize-files-in-real-time)
+* [gofumpt: A stricter formatter than gofmt, backwards compatible](https://github.com/mvdan/gofumpt)
+  * [gofumpt - gofmt보다 더 엄격한 Go 코드 포매터 | GeekNews](https://news.hada.io/topic?id=30864)
+  * gofmt 드롭인 대체. 불필요한 빈 줄·공백·괄호 제거, 표준 라이브러리 임포트 분리 그룹, `0755`→`0o755` 등 모더나이즈, `//Foo`→`// Foo`. 기본 `-s` 적용, vendor·testdata·generated 파일 스킵. gofmt 코드베이스 포크
 * [gogenerate: Source code for the "go:generate" talk](https://github.com/dundee/gogenerate)
   * [Generating code with go generate - Daniel Milde - YouTube](https://www.youtube.com/watch?v=ClW_g1iDGi4)
 * [go-git - A highly extensible Git implementation in pure Go](https://github.com/go-git/go-git)
@@ -1034,7 +1037,9 @@ Go
   * [gokit-examples](https://github.com/shijuvar/gokit-examples)
   * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
   * [Building Microservices with the Go Kit Toolkit - YouTube](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
-* [Go Micro - a framework for microservice development](https://go-micro.dev/)
+* [Go Micro — An Agent Harness for Go: build agents, services, and workflows on one runtime](https://go-micro.dev/)
+  * [Go Micro - Go를 위한 에이전트 하네스 | GeekNews](https://news.hada.io/topic?id=30958)
+  * 에이전트(모델·메모리·도구·가드레일)+서비스(엔드포인트를 타입 AI 도구로 자동 변환, MCP·A2A)+워크플로우(체크포인트 재개)를 단일 런타임에. 프롬프트 기반 서비스 생성, `plan`/`delegate` 내장, 7개 LLM 프로바이더, `micro new/run/chat` CLI. Anthropic·OpenAI 후원, 23k+ stars, Apache 2.0 (기존 마이크로서비스 프레임워크에서 에이전트 하네스로 피벗)
 
 ## Library MySQL
 * [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
