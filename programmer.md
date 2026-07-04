@@ -48,6 +48,8 @@ Programmer
 * [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
 * [성장하는 엔지니어가 되는 법: 주니어편 | Novemberde's Blog](https://novemberde.github.io/post/2023/06/07/junior-engineer-growth-guide/)
 * [Ask HN: 배울 수 있는 훌륭한 시니어 없이, 엔지니어로 어떻게 성장할 수 있을까요? | GeekNews](https://news.hada.io/topic?id=18068)
+* [AI가 없앤 주니어, 누가 미래의 시니어를 키우나 - CIO Korea](https://www.cio.com/article/4191554/)
+  * AI 자동화로 주니어 채용이 줄면서 미래의 시니어를 키울 육성·멘토링 시스템이 위협받음. 주니어를 AI로 대체하기보다 AI로 성장을 가속해 숙련 엔지니어로 키워야 한다는 제언
 * [Stop Being a Junior](https://kentcdodds.com/blog/stop-being-a-junior)
   * [(번역) 주니어가 되는 것을 그만두세요](https://hellomooneekim.netlify.app/stop-being-a-junior/)
     * 회사에서 주니어라고 부르고 본인도 주니어라고 생각할 수 있지만
