@@ -275,6 +275,12 @@ Network
 * [HTTP Accept-Charset은 왜 deprecated 되었나](https://yeonyeon.tistory.com/303)
 * [Introduction to HLS. HLS(HTTP Live Streaming)를 제대로 파고들어야 겠다고… | by SeongHo Hong | Oct, 2023 | Medium](https://medium.com/@hongseongho/introduction-to-hls-e7186f411a02)
 * [GET, POST, PUT... Common HTTP “verbs” in one figure](https://www.linkedin.com/feed/update/urn:li:activity:7127335139990200320/)
+* [The New HTTP QUERY Method Explained | Kreya](https://kreya.app/blog/new-http-query-method-explained/)
+  * [새로운 HTTP QUERY 메소드 | GeekNews](https://news.hada.io/topic?id=30846)
+  * RFC 10008이 정의한 새 HTTP 메소드 QUERY. "GET과 비슷하지만 요청 본문이 있고" safe·idempotent. GET(긴 URL·인코딩·길이 제한)·POST(비멱등, 캐싱·재시도 곤란)의 한계를 복잡한 검색 쿼리에서 해결. 아직 클라이언트·프록시·서버 지원 제한적—공유 가능한 링크엔 GET 유지 권장
+* [So You Want To Define a Well-Known URI | mnot](https://mnot.net/blog/2026/well_known_uris)
+  * [Well-Known URI를 정의하고 싶다면 | GeekNews](https://news.hada.io/topic?id=30659)
+  * RFC 8615 저자 Mark Nottingham의 실무 지침. well-known URI는 "클라이언트가 이미 사이트를 알고 사이트 전체에 대한 무언가를 발견해야 할 때" 적합(robots.txt·change-password). 남용 경고—편의·레지스트리 권위 목적으로 쓰면 서비스-사이트 1:1 고정의 경직성 초래. 프로토콜이 전체 URL을 전달할 수 있으면 well-known URI는 쓰지 말 것
 * [Braid: Synchronization for HTTP](https://braid.org/)
   * [Braid: HTTP 동기화 기술 | GeekNews](https://news.hada.io/topic?id=15026)
 
