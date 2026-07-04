@@ -142,6 +142,9 @@ Concurrency
 * [NVSwitch 기반 멀티 GPU 환경의 복잡한 장애 상황](https://kr.linkedin.com/pulse/nvswitch-%EA%B8%B0%EB%B0%98-%EB%A9%80%ED%8B%B0-gpu-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%9E%A5%EC%95%A0-%EC%83%81%ED%99%A9-jin-hyung-park-sigrid-jin--q8ezc)
   * [NVSwitch 기반 멀티 GPU 환경의 복잡한 장애 상황 | Jin Hyung Park (Sigrid Jin) 🌈](https://www.linkedin.com/posts/sigridjineth_a100-sxm-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%80-8%EA%B0%9C%EC%9D%98-gpu%EA%B0%80-nvswitch%EB%A5%BC-%ED%86%B5%ED%95%B4-600gb-ugcPost-7400578299044818945-e2uR)
 * [NVIDIA’s Grand Design. They Don’t Sell Chips Anymore. They’re… | by Jihoon Jeong | Jan, 2026 | Medium](https://medium.com/@hiconcep/nvidias-grand-design-e39af0037439)
+* [What happens when you run a CUDA kernel | Fergus Finn](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
+  * [CUDA 커널 한 줄이 실행되기까지: GPU 내부에서 실제로 벌어지는 모든 과정 | digitalbourgeois](https://digitalbourgeois.tistory.com/3323)
+  * 간단한 벡터 덧셈 CUDA 프로그램이 RTX 4090에서 컴파일→실행되기까지의 전 과정 추적. 컴파일 파이프라인, 런타임 등록, 드라이버 커맨드 큐, QMD 생성, 워프 스케줄링, 메모리 계층까지
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
