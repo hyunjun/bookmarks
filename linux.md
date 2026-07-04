@@ -1247,6 +1247,8 @@ Linux
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
 * [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
+  * [inshellisense - IDE 스타일의 셸 명령어 자동완성 도구 | GeekNews](https://news.hada.io/topic?id=31082)
+  * MS 오픈소스. 600+ CLI 도구 자동완성, bash/zsh/fish/PowerShell 지원, `is` 명령으로 활성화, TOML 설정. npm/Homebrew 설치
 * [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
 
 # GCC
