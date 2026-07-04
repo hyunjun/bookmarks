@@ -264,6 +264,8 @@ Science
   * 수학·과학을 빼고 역사 흐름으로 보는 양자역학. 열역학+원자론→볼츠만 통계적 엔트로피→플랑크 양자가설(E=hv)→아인슈타인 광자→원자 모델로 이어지는 전개
 * [김성완 - Extropic의 열역학 컴퓨터 시제품 XTR-0 언박싱 | Facebook](https://www.facebook.com/seongwan.kim.3/videos/1338748978210809/)
   * Extropic이 디지털·양자가 아닌 제3의 컴퓨팅 패러다임으로 열역학 컴퓨터 시제품 XTR-0을 연구자/개발자에게 배송 시작. 기존 컴퓨터의 1/10,000 전력으로 동작, AI 시대 전력 병목 해결책. 올해 안에 100만+ 열역학 소자 본격 버전 출시 예정. 김성완 본인은 열역학 컴퓨팅 책 집필 중
+* [채수조 - 물리학은 암기 과목이 아니라 차원으로 세상을 이해하는 언어 | Facebook](https://www.facebook.com/soojoh.chae/posts/pfbid0QaLnCZiZDnVUce9YvGYqxMgBe2p6Y7eCZxGbDPZMM3YFXjriT56HncrJKfkDPVgJl)
+  * 물리학 교수의 물리 교육론. 번개(~10C, 1억V, 0.01초에 10억J = 순간 100GW)와 스마트폰 배터리(3,100mAh·3.8V = 11.78Wh ≈ 42,408J) 비교로 "전기는 전하량만이 아니라 전압·에너지·방전 시간이 함께 결정"함을 체득시키는 차원 분석 중심 수업. 추상 개념에서 상대성이론으로 건너뛰는 교육이 물리 기피의 원인이라는 지적
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)
