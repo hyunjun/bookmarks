@@ -3566,3 +3566,5 @@ App
   * [headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
   * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
+* [ztm: A privacy-first open-source decentralized network software based on HTTP/2 tunnels](https://github.com/flomesh-io/ztm)
+  * Zero Trust Mesh. HTTP/2 터널 기반 탈중앙 암호화 메시 네트워크(개인 2노드~기업 수천 노드). E2E 암호화·인증서 기반 접근 제어, 방화벽 통과, P2P 파일 공유, 내장 앱(Tunnel/Proxy/Terminal/Script). Pipy 프록시 엔진(PipyJS) 기반, 멀티 아키텍처·OS 지원
