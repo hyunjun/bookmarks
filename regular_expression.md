@@ -10,6 +10,9 @@ Regular Expression
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
 * [Alternatives To Regular Expressions](http://c2.com/cgi/wiki?AlternativesToRegularExpressions)
 * [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
+* [Regular Expressions That Work Everywhere | John D. Cook](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
+  * [어디서나 동작하는 정규 표현식 | GeekNews](https://news.hada.io/topic?id=30920)
+  * 도구마다 regex 구현이 달라 이식성이 문제. 최소 공통 부분집합(리터럴·문자 클래스·`. * ^ $`)과 GNU sed/awk/grep(`-E`)의 확장 공통 집합. Emacs는 `+ ? ( ) { } |`에 백슬래시 필요 등 이스케이프 관례가 다름. 진짜 크로스플랫폼은 가장 좁은 기능 집합을 받아들여야
 * [RegExr: A website for interactive regex prototyping with syntax highlighting](http://regexr.com/)
 * [Regexes: The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/)
 * [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/)
