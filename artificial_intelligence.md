@@ -361,6 +361,10 @@ Artificial Intelligence
 * [🚀 AI 인프라 엔지니어: LLM 시대의 엔지니어링 백본 역할 | Jerry Lee](https://www.linkedin.com/posts/jeeunglee_ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-llm-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B0%B1%EB%B3%B8-%EC%97%AD%ED%95%A0-activity-7389819601339187200-0od1) AI Infra Engineer
 * [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
   * ["외과의사"처럼 코딩하기 | GeekNews](https://news.hada.io/topic?id=23912)
+* [Understanding is the new bottleneck | Geoffrey Litt](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html)
+  * [최승준 - Understanding is the new bottleneck 소개 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid034y8n7js3FLTuVqSo2fFxH2PUtJH9NBSmem6MUgpju6AkPpXHAMSBzAWtNDRwCQz2l)
+  * [한국어 번역 (Notion)](https://erucipe.notion.site/393d5c9e7e5980cbad1ac6cb6d9c8f69)
+  * Notion의 Geoffrey Litt(2026 AI Engineer 컨퍼런스 발표). AI가 코드를 더 많이 쓸수록 인간의 "이해"가 새 병목—단순 검증이 아니라 창의적 참여를 가능케 하는 능력. human-in-the-loop 제거가 아닌 "loop 안으로 더 깊이". 이해를 돕는 3가지 기법—퀴즈 내장 코드 설명 문서, 인터랙티브 마이크로월드, 팀 정렬용 공유 공간. Papert·Alan Kay의 교육 원리에 기반
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
 * [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
   * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
@@ -1542,6 +1546,8 @@ Artificial Intelligence
   * [Loop Engineering, 핵심은 검증](https://wpti.dev/public-presentation/loop-engineering-verification.html)
     * [최근 보리스와 피터 스타인버거 모두 루프를 언급했습니다. 에이전트의 루프를 만들어서 더 이상 프롬프트로 지시하지 않는다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%B5%9C%EA%B7%BC-%EB%B3%B4%EB%A6%AC%EC%8A%A4%EC%99%80-%ED%94%BC%ED%84%B0%EC%8A%A4%ED%83%80%EC%9D%B8%EB%B2%84%EA%B1%B0-%EB%AA%A8%EB%91%90-%EB%A3%A8%ED%94%84%EB%A5%BC-%EC%96%B8%EA%B8%89%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EB%A3%A8%ED%94%84%EB%A5%BC-share-7476853075694223360-QsFL/)
     * AI가 구현·테스트·개선을 자율 반복하되 검증을 유지하는 시스템 설계. 명확한 완료 기준·검증 분리(작성자와 리뷰어 분리)·상태 기록·정지 조건 4요소. 검증 품질(결정론적 규칙 vs AI 평가)이 루프 효과를 결정. 검증 결과가 다음 반복 입력이 되는 자기참조 루프 Ouroboros 소개
+  * [루프 엔지니어링 - WikiDocs](https://wikidocs.net/book/20486)
+    * "매번 프롬프트를 입력하는 사람을, 스스로 일을 찾고 수행하고 검증하며 반복하는 작은 시스템으로 대체하는 일"이라는 한 문장 정의로 시작하는 루프 엔지니어링 책
   * 반응형 프롬프팅을 능동적·자기관리 워크플로로 대체하는 자율 에이전트 프레임워크. "더 이상 Claude에게 프롬프트하지 않는다, Claude를 프롬프트하는 루프를 돌린다." 5개 프리미티브(스케줄링·worktree·스킬·커넥터·서브에이전트), 7개 프로덕션 패턴(PR 리뷰·CI 실패 triage·의존성 업데이트 등), maker-checker 검증·state 파일·run budget·loop-audit. L0~L3 준비도 점수로 점진적 자율화
 * [paper-curation: Automated paper curation and reviews](https://github.com/jehyunlee/paper-curation)
   * [이제현 - Paper Curation 파이프라인 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0ZmvwqT5fZpieLnaAXDC1sRJ8ATj49SAQUW4HvyFCKRroQ4xKxDubrnNEW3jy3f6tl)
