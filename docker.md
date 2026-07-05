@@ -2758,6 +2758,10 @@ Docker
       * 굉장히 빠르게 그리고 글로벌 서비스를 적용해야 하는 분야에 적합한거라 국내에는 사례가 많이 없을 듯
       * 향후에 글로벌 전자제품 OS 이미지나 일부 게임서비스에 CDN과 유사하게 적용할 수 있을 것으로 예상
 * vcluster [Using Virtual Clusters for Development and CI/CD Workflows - YouTube](https://www.youtube.com/watch?v=Dx4-O6cpaf8)
+* [webernetes: Kubernetes in the browser.](https://github.com/ngrok/webernetes)
+  * [I ported Kubernetes to the browser | ngrok](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+  * [Webernetes: 브라우저에서 도는 Kubernetes의 기술적 의미와 한계 | digitalbourgeois](https://digitalbourgeois.tistory.com/3325)
+  * Sam Rose가 Kubernetes 핵심을 TypeScript로 포팅해 브라우저에서 실행하는 webernetes 제작기. 2달간 LLM으로 약 10만 줄 생성하되 전체 수동 코드 리뷰 + 실제 클러스터와 동작을 비교하는 204개 통합 테스트로 품질 확보. 프로덕션 대체가 아닌 오케스트레이션 개념을 시각적·인터랙티브하게 배우는 교육 도구
 * werf [Giterministic CLI tool | werf](https://werf.io/)
   * [Building and Deploying a Simple App to Kubernetes Using “werf” | by Konstantin Nezhbert | Apr, 2022 | Better Programming](https://betterprogramming.pub/building-and-deploying-a-simple-app-to-kubernetes-using-werf-51bee0b3718d)
     * 앱으로 Docker containers를 만들고 werf를 사용하여 Kubernetes 에 배치할 수 있도록
