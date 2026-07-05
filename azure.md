@@ -155,6 +155,8 @@ Azure
 * [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
 * [Deploy a Dockerized Golang App to Azure Container Instance](https://morioh.com/p/3c7401c3e195)
 * [Ask the Expert: Deploying a Python Project with Azure Container Apps (Replay) - YouTube](https://www.youtube.com/watch?v=3qbIhAneVyc)
+* [Introducing Azure Container Apps Sandboxes: Secure Infrastructure for Agentic Workloads | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-sandboxes-secure-infrastructure-for-agentic-wor/4524131)
+  * 컨테이너를 넘어 클라우드에서 Micro VM으로—AI 에이전트로 인해 더 안전하고 격리된 실행 환경 요구가 커지면서 Azure Container Apps에도 Sandboxes 등장. GitHub Copilot Cloud Sandbox, Foundry Hosted Agents, ACA Express의 기반 인프라
 * [How to set up an Azure Data Warehouse | by Christianlauer | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/how-to-set-up-an-azure-data-warehouse-8aef4391a5bf)
 * [프리지아 랩 :: 앱 등록(서비스 주체) 삭제 이슈가 있는 Azure AD 테넌트 삭제 방법](https://www.dokyun.pe.kr/272)
 * [Create Redis in Azure and Integrate in API and check performance | E2E Demo | Beginner Series - YouTube](https://www.youtube.com/watch?v=npBGXYuf1JA)
