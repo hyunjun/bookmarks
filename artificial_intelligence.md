@@ -365,6 +365,8 @@ Artificial Intelligence
   * [최승준 - Understanding is the new bottleneck 소개 | Facebook](https://www.facebook.com/seungjoon.choi/posts/pfbid034y8n7js3FLTuVqSo2fFxH2PUtJH9NBSmem6MUgpju6AkPpXHAMSBzAWtNDRwCQz2l)
   * [한국어 번역 (Notion)](https://erucipe.notion.site/393d5c9e7e5980cbad1ac6cb6d9c8f69)
   * Notion의 Geoffrey Litt(2026 AI Engineer 컨퍼런스 발표). AI가 코드를 더 많이 쓸수록 인간의 "이해"가 새 병목—단순 검증이 아니라 창의적 참여를 가능케 하는 능력. human-in-the-loop 제거가 아닌 "loop 안으로 더 깊이". 이해를 돕는 3가지 기법—퀴즈 내장 코드 설명 문서, 인터랙티브 마이크로월드, 팀 정렬용 공유 공간. Papert·Alan Kay의 교육 원리에 기반
+  * [Understanding is the new bottleneck | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_understanding-is-the-new-bottleneck-share-7478909054950678528-KYfB/)
+    * 에이전트가 생성한 코드를 이해하는 것이 단순 검증을 넘어 창의적 프로젝트 참여의 핵심. 규모 있는 AI 협업에서 이해를 효율적으로 구축하는 3가지 기법—코드 설명 문서, 인터랙티브 마이크로 월드, 공유 협업 공간
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
 * [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
   * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
@@ -739,6 +741,8 @@ Artificial Intelligence
 * [선웅규 - 포켓 커맨드 시스템: 폰에서 텔레그램으로 다수의 Claude Code를 백그라운드 실행 | Facebook](https://www.facebook.com/tlc500/posts/pfbid0uoprCLVwHLDP2opeJgDDniMYSkLk1JJt9Dc8C5gnznLgeAtkUHb7n23bM1bfJyMCl)
   * 텔레그램으로 폰에서 여러 Claude Code 인스턴스를 invisible/daemon/headless 백그라운드 모드로 구동. 워커-감사자 페어링 + 소대(platoon)식 팀 구조로 수십~수천 AI 동시 배치
   * [전종홍 - AI Agent와 Agentic AI라는 용어가 혼용되어 사용되는 상황에서 두 개념 간의 기술적, 개념적... | Facebook](https://www.facebook.com/1biit/posts/pfbid02zMSyEXjz4LsYY5NzKBuvXHQ64GMWDW1uUxxABXTbHr4FZJiSKa7kVaBLD61GKuPTl)
+* [토큰 낭비를 줄이는 자동화 전략, 왜 안티그래비티·클로드코드·코덱스 LLM 에이전트는 Playwright 를 쓸까? - YouTube](https://www.youtube.com/watch?v=wpydIQ5-KiM)
+  * 오늘코드. LLM 에이전트(안티그래비티·Claude Code·Codex)가 브라우저 자동화에 Playwright를 쓰는 이유와 토큰 낭비를 줄이는 자동화 전략
 * [2506.02153 Small Language Models are the Future of Agentic AI](https://arxiv.org/abs/2506.02153)
   * [NVIDIA의 Peter Belcak가 소개하는 소형 언어 모델(SLM)이 에이전트 AI의 미래인 이유](https://www.arizekorea.com/insights/post/nvidias-small-language-models-are-the-future-of-agentic-ai-paper-jNrUOzqlulGhemG)
 * [2510.06445 A Survey on Agentic Security: Applications, Threats and Defenses](https://arxiv.org/abs/2510.06445)
@@ -1074,6 +1078,10 @@ Artificial Intelligence
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
   * Open-source with MCP/SSE protocol integration
+* [llm-brain — Second Brain Compiler | Habix](https://habix.ai/products/llm-brain)
+  * [llm-brain: LLM을 컴파일러로 쓰는 개인 지식 관리 시스템 (Second Brain Compiler)](https://github.com/kimsanguine/llm-brain)
+  * [요즘 AI 에이전트 메모리에서 가장 과소평가된 패턴은 RAG가 아니라 LLM Wiki | Sanguine Kim](https://www.linkedin.com/posts/sanguinekim_%EC%9A%94%EC%A6%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EA%B3%BC%EC%86%8C%ED%8F%89%EA%B0%80%EB%90%9C-%ED%8C%A8%ED%84%B4%EC%9D%80-rag%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-llm-share-7479001617946554369-wfQy/)
+  * 흩어진 노트·메모를 LLM 컴파일러로 구조화된 위키로 변환하는 개인 지식 관리 시스템. RAG처럼 원시 데이터를 즉석 검색하는 대신 에이전트가 읽기 좋게 사전 압축·정리된 지속 가능한 지식 레이어 구축. Obsidian vault+위키 링크+그래프 시각화, Claude Code 연동 4개 CLI 명령
 * [memary: Open-source memory layer for autonomous agents](https://github.com/kingjulio8238/memary)
   * 메모리 스트림, 지식 그래프, 엔티티 추적으로 인간형 메모리 구현
 * [Memori: Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems](https://github.com/GibsonAI/Memori)
@@ -1189,6 +1197,16 @@ Artificial Intelligence
   * [무료 터미널 AI 코딩 도우미 Pi 무료 사용법 및 설치 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%ED%84%B0%EB%AF%B8%EB%84%90-AI-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9A%B0%EB%AF%B8-Pi-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [Pi로 배우는 하네스 | WikiDocs (김동학)](https://wikidocs.net/book/19868)
     * Pi(@earendil-works/pi-coding-agent)를 통해 하네스 엔지니어링을 배우는 입문서. 7부 구성—1부 Pi/하네스 이해, 2부 첫 작업실(설치·로그인·첫 세션·`read`/`write`/`edit`/`bash` 4 도구), 3부 기본 사용법, 4부 일상 업무(글쓰기·회의록), 5부 하네스 확장(AGENTS.md·스킬·확장·세션 `/tree` `/fork` `/clone`), 6부 SDK/RPC/JSON 시스템 통합, 7부 보안·권한·비용·로그. OpenClaw가 Pi SDK 통합 사례로 등장. v0.9, 2026.5.23 기준 1부+2부 4-7장 공개. 핵심: "Pi는 AI에게 일을 시키는 채팅창이 아니라, AI가 일할 수 있는 작업 환경을 만드는 작은 터미널 하네스"
+  * [pi-subagents: Pi extension for delegating work to specialized child agents](https://github.com/nicobailon/pi-subagents)
+    * [pi-subagents - Pi를 위한 서브에이전트 | GeekNews](https://news.hada.io/topic?id=30989)
+    * Pi 코딩 에이전트가 자식 세션에 위임하는 확장. 내장 에이전트(scout·researcher·planner·worker·reviewer·oracle)가 컨텍스트 기반 자동 활성화, 포그라운드/백그라운드 실행, 순차 체인·git worktree 격리 병렬. acceptance gate로 검증 수준 제어, 재귀 깊이 제한. `pi install npm:pi-subagents`
+* [pxpipe: Cut Claude Code's input tokens by rendering bulky context as images](https://github.com/teamchong/pxpipe)
+  * [이건 저장해두세요. 코드를 이미지로 바꾸면 비용이 60% 줄어듭니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4%EA%B1%B4-%EC%A0%80%EC%9E%A5%ED%95%B4%EB%91%90%EC%84%B8%EC%9A%94-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%A9%B4-%EB%B9%84%EC%9A%A9%EC%9D%B4-60-%EC%A4%84%EC%96%B4%EB%93%AD%EB%8B%88%EB%8B%A4-7%EC%9B%94-ugcPost-7479069463196237824-_upc/)
+  * [Should LLMs just treat text content as an image? | Sean Goedecke](https://www.seangoedecke.com/text-tokens-as-image-tokens/)
+    * DeepSeek-OCR의 optical compression 개념 소개—이미지 토큰 1개가 텍스트 토큰 약 10개를 표현, 텍스트를 이미지로 변환하면 추론 시 더 많은 데이터 처리 가능
+  * [Snapcompact: SoTA Compaction — Instant, Local, Free. Pick 3 | blog.can.ac](https://blog.can.ac/2026/06/10/snapcompact/)
+    * 텍스트를 고밀도 픽셀 폰트 비트맵으로 렌더링해 LLM 컨텍스트 압축. 일반 텍스트 대비 약 1/3 토큰 비용으로 거의 완벽한 recall(SQuAD 벤치마크, Claude·GPT·Gemini 검증)
+  * 로컬 프록시로 대용량 텍스트 컨텍스트를 PNG로 압축해 Claude API 입력 토큰 59~70% 절감. 이미지 토큰이 픽셀 크기 기준 고정 비용인 점을 활용, 13,709 요청 프로덕션 청구서로 59% 절감 검증. [[rtk]]와 달리 실제 API 청구 기준 수치
 * [Qoder - The Agentic Coding Platform](https://qoder.com/)
 * [Qwen-Agent: Agent framework and applications built on Qwen](https://github.com/QwenLM/Qwen-Agent)
   * [Qwen-Agent | GeekNews](https://news.hada.io/topic?id=27367)
@@ -1214,6 +1232,9 @@ Artificial Intelligence
   * 셀프호스팅 AI 어시스턴트. Telegram 기반 인터페이스, 체크포인트 승인 시스템으로 위험 작업 사전 차단, Slack/GitHub/Notion/Jira 등 연동. 서브프로세스 격리로 API 키 유출 방지
 * [second-brain: LLM-based personal knowledge management](https://github.com/NicholasSpisak/second-brain)
   * 원본 자료를 Obsidian 구조화 위키로 자동 변환. 엔티티·개념·교차참조 페이지 생성. Karpathy의 LLM Wiki 패턴 기반—AI가 사서, 사용자가 큐레이터. 4개 스킬(설치·수집·질의·유지보수), Claude Code/Cursor/Gemini CLI 등 지원
+* [semiconductor-design: Report-Grounded Vibe-Coded AutoResearch for Open-Source DL Accelerator Design](https://github.com/roboco-io/semiconductor-design)
+  * [바이브코딩으로 칩 설계 자동화(EDA)에 도전해 봤습니다 | Dohyun Jung](https://www.linkedin.com/posts/dohyun-jung-b66b8262_github-roboco-iosemiconductor-design-activity-7476105885854130176-x7rX)
+  * AI 에이전트로 반도체 타이밍 예측 모델을 자동 개선하는 연구. Claude·Codex가 학습 스크립트를 세대별로 수정하는 진화 루프, 4단계 객관적 품질 게이트(median 검증·LODO·cross-design T1·Codex 평가)로 개선 채택 여부 결정. 비전문가도 고수준 가이드만으로 전문 도메인 연구 수행
 * simple-ai.dev [AI Building Blocks. Build Smarter, Faster](https://www.simple-ai.dev/)
   * [AI Building Blocks. Build Smarter, Faster. | 김덕중](https://www.linkedin.com/posts/duckjungkim_ai-building-blocks-build-smarter-faster-activity-7388924595178782720-sdT3)
 * [SimpleMem: Efficient long-term memory framework for LLM agents](https://github.com/aiming-lab/SimpleMem)
@@ -2239,6 +2260,8 @@ Artificial Intelligence
   * [PICK MCP 총정리: 개념과 사용기 | 요즘IT](https://yozm.wishket.com/magazine/collection/67889/)
   * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) - YouTube](https://www.youtube.com/watch?v=-AFOcmTFTT8)
     * [Sebastian Wallkötter - What Happens Inside an MCP Server? (Boston Oct '25) | Lilys AI: Youtube, PDF, WebPage, Audio 어떤 자료든 완벽하게 요약 - Lilys AI](https://lilys.ai/digest/6403900/6491153)
+  * [Solving Context Bloat: Semantic Tool Routing in Multi-Server MCP Environments - YouTube](https://www.youtube.com/watch?v=L665WzukVcI)
+    * InfoQ. 멀티 MCP 서버 환경의 컨텍스트 폭증 문제(서버 3개에 20토큰 프롬프트가 3,500토큰으로) 해결. 게이트웨이 기반 시맨틱 라우팅 레이어로 런타임에 관련 도구만 전달—비용 절감·환각 감소, 마이크로서비스 패턴을 에이전틱 시대에 적용
   * [Code execution with MCP: building more efficient AI agents \ Anthropic](https://www.anthropic.com/engineering/code-execution-with-mcp)
     * [MCP를 통한 코드 실행(Code Execution with MCP): 더 효율적인 에이전트(Agent) 구축하기](https://whchoi98.notion.site/MCP-Code-Execution-with-MCP-Agent-2a704ef7e60e8005a2b9fe532fc4f8e5)
       * [MCP를 통한 코드 실행(Code Execution with MCP): 더 효율적인 에이전트(Agent) 구축하기 | Notion | Woo Hyung Choi](https://www.linkedin.com/posts/woohyungchoi_mcp%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89code-execution-with-mcp-%EB%8D%94-activity-7393726338274193408-Fm1l)
@@ -3761,6 +3784,13 @@ Artificial Intelligence
   * [Andrej Karpathy가 LLM knowledge base라는 개념을 | seungpil](https://www.linkedin.com/posts/seungpil_andrej-karpathy%EA%B0%80-llm-knowledge-base%EB%9D%BC%EB%8A%94-%EA%B0%9C%EB%85%90%EC%9D%84-ugcPost-7446913826173915137-Ckln)
   * [AI 시대의 지식 베이스, LLM Wiki | sanguinekim](https://www.linkedin.com/posts/sanguinekim_ai-slsstwswktxu-llmwiki-ugcPost-7447261225807269888-_zfW)
     * [김상윤 - LLM Wiki | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0yEMvsKTJ76EEaJM4DesMg8RM3zG1oF3FhjKMQSHD4s4mKU4CTASSUX9gyMmK9sEsl&id=61582636636508)
+  * [카파시가 던진 아이디어, 옵시디언 CEO가 마무리했습니다 | SungJae Shim](https://www.linkedin.com/posts/sungjae-shim-9b353159_%EC%B9%B4%ED%8C%8C%EC%8B%9C%EA%B0%80-%EB%8D%98%EC%A7%84-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-ceo%EA%B0%80-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%A7%80%EB%82%9C-%ED%95%9C-%EB%8B%AC-share-7460196968712093696-_uqG)
+    * [심성재 - 카파시가 던진 아이디어, 옵시디언 CEO가 마무리했어요 | Facebook](https://www.facebook.com/sungjae.shim/posts/pfbid02mRxDYZYN6A5CZYAZEwkjnks9qtUFJJfTjjZUEXoD5PGXMgdayvgKFYf5L3JKsBVRl)
+    * Karpathy LLM Wiki 패턴(Raw sources 불변·Wiki LLM 유지·Schema 규칙 3계층, Ingest/Query/Lint 운영)에 Obsidian CEO Steph Ango의 공식 에이전트 스킬(kepano/obsidian-skills)이 결합되며 AI 지식 관리의 사실상 표준으로—유지보수 책임이 인간에서 시스템으로 이전되어 기존 "두 번째 뇌"의 반복된 실패를 해결
+  * [안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시) - YouTube](https://www.youtube.com/watch?v=wXc7-vFSd5U)
+    * 시민개발자 구씨. Karpathy LLM Wiki 방법으로 벡터DB 없이 마크다운만으로 지식 위키 구축. NotebookLM·RAG와의 차이 비교, Obsidian+Claude Code 셋업 전 과정을 비개발자용 단계별 실습
+  * [LLM Wiki가 망하는 진짜 이유: Obsidian·Claude Code보다 중요한 AI OS 설계 - YouTube](https://www.youtube.com/watch?v=GQtty9JOAUU)
+    * Brian's Brain Trinity. LLM Wiki를 만들고도 1~2달 안에 안 쓰게 되는 이유 분석. LLM Wiki는 외부 지식의 "얕은 컴파일"일 뿐—나의 경험·판단·취향이 담긴 My Notes와 연결되어야 하며, 자비스가 아니라 삶을 운영하는 AI OS의 작은 구성 요소
   * [obsidian-wiki: Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern](https://github.com/Ar9av/obsidian-wiki)
     * Karpathy LLM Wiki 패턴을 Obsidian으로 구현하는 프레임워크. 모든 스킬이 마크다운 파일—Claude Code/Cursor/Windsurf/Pi/Codex/Gemini/Hermes 등이 읽고 실행. `pip install obsidian-wiki` 후 vault 지정, RAG 없이 상호 연결된 마크다운으로 지식 컴파일·유지. MIT
   * [okf: Open Knowledge Format — AI 시스템용 지식·메타데이터를 표현하는 벤더 중립 표준](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
@@ -5093,6 +5123,7 @@ Artificial Intelligence
     * [좋은 스킬을 발견하게 되어 공유합니다 | Teo Yu](https://www.linkedin.com/posts/teo-yu_%EC%A2%8B%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B2%8C-%EB%90%98%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-1-%EC%84%A0%EA%B5%AC%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%97%90-%EC%A0%80%EB%8F%84-share-7457350055386161152-jOL9)
     * 엔지니어링 스킬(`/grill-with-docs`, `/tdd`, `/diagnose`, `/improve-codebase-architecture`, `/triage`, `/to-issues`, `/to-prd`, `/zoom-out`, `/prototype`) + 생산성 스킬(`/grill-me` 결정 트리 해소, `/caveman` 토큰 75% 절감 압축 커뮤니케이션, `/write-a-skill`). 에이전트 4대 실패(오정렬·장황·비기능 코드·아키텍처 퇴화) 대응
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+    * [SuperClaude Framework 공식 사이트](https://superclaude.netlify.app/)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
     * [클로드 코드 쓴다면 꼭 Super Claude 같이 쓰세요 공짜인데 미쳤습니다... - YouTube](https://www.youtube.com/watch?v=4ndOjpo2wS4)
     * [클로드 코드를 코딩 황제로 만들어 줄 슈퍼클로드 설치 및 사용법 - YouTube](https://www.youtube.com/watch?v=tNAc4PgQyJ0)
@@ -5865,9 +5896,6 @@ Artificial Intelligence
 * [Paseo — One interface for all your coding agents](https://paseo.sh/)
   * [paseo](https://github.com/getpaseo/paseo)
   * Claude Code/Codex/OpenCode 원격 관리. 폰·데스크톱·CLI 크로스 디바이스, 음성 제어 지원
-* [pi-subagents: Pi extension for delegating work to specialized child agents](https://github.com/nicobailon/pi-subagents)
-  * [pi-subagents - Pi를 위한 서브에이전트 | GeekNews](https://news.hada.io/topic?id=30989)
-  * Pi 코딩 에이전트가 자식 세션에 위임하는 확장. 내장 에이전트(scout·researcher·planner·worker·reviewer·oracle)가 컨텍스트 기반 자동 활성화, 포그라운드/백그라운드 실행, 순차 체인·git worktree 격리 병렬. acceptance gate로 검증 수준 제어, 재귀 깊이 제한. `pi install npm:pi-subagents`
 * [Poco — Your Pocket Coworker](https://poco-ai.com/)
   * [poco-claw](https://github.com/poco-ai/poco-claw)
   * Claude Code 기반 에이전틱 AI 웹 인터페이스. 격리 컨테이너 실행, GitHub 통합, 아티팩트 프리뷰(HTML/PDF/이미지/다이어그램), 백그라운드 실행, 스케줄 트리거, DingTalk/Feishu/Telegram 통합
