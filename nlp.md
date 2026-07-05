@@ -4419,6 +4419,10 @@ NLP
 * [JamAIBase: JamAI Base: Let Your Database Orchestrate LLMs and RAG](https://github.com/EmbeddedLLM/JamAIBase)
 * [KAG: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model](https://github.com/OpenSPG/KAG)
   * [KAG - Knowledge Graph RAG Framework | GeekNews](https://news.hada.io/topic?id=18724)
+* [LogicRAG: Source code of LogicRAG at AAAI'26](https://github.com/chensyCN/LogicRAG)
+  * [2508.06105 You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105)
+  * [GraphRAG를 위해 미리 지식 그래프를 만들 필요 없습니다 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_graphrag%EB%A5%BC-%EC%9C%84%ED%95%B4-%EB%AF%B8%EB%A6%AC-%EC%A7%80%EC%8B%9D-%EA%B7%B8%EB%9E%98%ED%94%84%EB%A5%BC-%EB%A7%8C%EB%93%A4-%ED%95%84%EC%9A%94-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-graphrag%EB%8A%94-share-7467766079163977728-9rqN/)
+  * 홍콩폴리텍. 사전 구축 지식 그래프 없이 추론 시점에 쿼리를 서브문제 DAG로 분해, 위상 정렬·프루닝으로 검색 가이드(lazy evaluation). 전처리 비용 제거, 2WikiMQA 64.7%로 기존 최고 대비 +14.7%p. 한계: 응답 지연 약 2배(9.8s vs 4.2s), 4홉 이상 추론에서 조기 확신 경향
 * [LumberChunker: Long-Form Narrative Document Segmentation](https://github.com/joaodsmarques/LumberChunker)
   * [2406.17526](https://arxiv.org/abs/2406.17526)
   * LLM을 활용해 장문 서사 문서를 의미론적으로 독립된 청크로 동적 분할. EMNLP 2024, GutenQA 데이터셋(100권 책, 3,000 QA 쌍) 제공
