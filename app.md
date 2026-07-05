@@ -2817,6 +2817,8 @@ App
     * [Maps of Content: Effortless organization for notes - Obsidian Rocks](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/)
   * Canvas
     * [Unlock the Power - Master Book Notes with Obsidian Canvas - YouTube](https://www.youtube.com/watch?v=sSFSFzgQ6vY)
+  * [Agent Console: Obsidian plugin that runs AI agents right in your sidebar](https://community.obsidian.md/plugins/agent-console)
+    * vault를 AI 모델과 연결해 사이드바에서 에이전트 실행—이미 쓴 노트를 읽고 지식 그래프를 활용해 문서·슬라이드·코드를 함께 만들고 결과를 노트로 저장. 2.0: 퀵 프롬프트 칩, 세션 히스토리 전문 검색(복원·포크), 모든 에이전트에 Obsidian 브리핑 내장(위키링크·표·수식·Mermaid 기본 지원), 대화 중 에이전트 전환, 탭 undo·드래프트 보존, 메시지 큐잉, 완료 알림. Apache-2.0
   * [awesome-obsidian-vault: Awesome list of obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
     * 큐레이션된 Obsidian vault 모음(43 항목+11 리소스+3 쇼케이스). 카테고리: 요리(Based.cooking·Grimgrains·HowToCook), 컴퓨터 사이언스(JavaScript Info·OSSU CS), Dev/디자인(System Design 101·dotnet API), 디지털 가든(MaggieAppleton·CyanVoxel), 문서화(Kepano Obsidian·Blue Book·Obsidian Hub), 엔지니어링·지식·개인 사이트·코스몰로지. 사전(Kiwix·Wiktionary·Wordnet)·치트시트(Anki·rstacruz). Hugo 등 정적 사이트 생성기 출처는 일부 호환 안 될 수 있음
   * [chatgpt-md: A (nearly) seamless integration of ChatGPT into Obsidian](https://github.com/bramses/chatgpt-md)
