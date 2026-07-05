@@ -670,6 +670,9 @@ Finance
 * [qspy: python package for verifying quantative strategies](https://github.com/GilseungAhn/qspy)
   * [실험 10. 상승 반전형 단일 캔들 패턴에 따른 수익률 비교](https://gils-lab.tistory.com/49)
   * [실험 11. 캘린더 효과 검증하기 (1) 요일 효과](https://gils-lab.tistory.com/50)
+* [samsungnikSellon: 삼성전자·SK하이닉스 주가 모니터링 및 매도 신호 이메일 알림](https://github.com/rheehot/samsungnikSellon)
+  * [이종우 - 오늘의 앱: 삼전과 닉스 주가 모니터링 | Facebook](https://www.facebook.com/rheehot/posts/pfbid0CsiCKf5E1fJcVTuPGxfAA76E3XNbHMTKUBtKR511KHiw6ReMupTMMp2uYSYYiXYyl)
+  * SK하이닉스가 전고점을 갱신했는데 삼성전자가 30일 이상 전고점을 갱신하지 못하면 위험 신호 이메일 발송. Yahoo Finance API로 종가 수집, 52주 신고가 추적, 매일 오전 8시 상태 메일. Python 3.11+, SQLite, cron 또는 Render 무료 티어 배포
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
   * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
