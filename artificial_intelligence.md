@@ -1005,7 +1005,9 @@ Artificial Intelligence
 * [fara: Fara-7B: An Efficient Agentic Model for Computer Use](https://github.com/microsoft/fara)
   * Microsoft 7B Computer Use Agent(CUA). Qwen2.5-VL-7B 기반, Magentic-One 멀티에이전트로 생성한 145K 합성 trajectory SFT. 시각으로 마우스·키보드 좌표 직접 예측(접근성 트리·파싱 모델 불필요). 태스크당 평균 16스텝(비교 모델 ~41) 효율, 온디바이스 배포 가능. 웹 검색·요약, 폼 작성, 여행/티켓/예약, 쇼핑 비교, 구인/부동산. WebVoyager 73.5/Online-Mind2Web 34.1/DeepShop 26.2/WebTailBench 38.4 동급 SOTA. WebTailBench(11카테고리 609 실세계 웹 태스크)·CUAVerifierBench(trajectory judge 평가) 동반. Azure Foundry/vLLM/LM Studio/Ollama GGUF 로컬. MIT
 * [Flue — The Agent Harness Framework](https://flueframework.com/)
+  * [flue: The sandbox agent framework](https://github.com/withastro/flue)
   * [Flue - 샌드박스 에이전트 프레임워크 | GeekNews](https://news.hada.io/topic?id=29849)
+  * [Flue: TypeScript 기반 자율 에이전트 개발 프레임워크 완전정복 | digitalbourgeois](https://digitalbourgeois.tistory.com/3290)
   * TypeScript 자율 에이전트/워크플로 프레임워크. "Agent = Model + Harness" 철학—Claude Code/Codex 같은 코딩 에이전트 경험을 헤드리스·프로그래머블하게 재구성. 4계층 아키텍처: Model(토큰·도구·프롬프트)/Harness(스킬·메모리·세션)/Sandbox(bash·보안·네트워크)/Filesystem(read·write·grep·glob). 서브에이전트, 도구, durable execution(실패·재시작 생존), MCP 서버, OpenTelemetry/Braintrust/Sentry 옵저버빌리티, Slack/Teams/Discord/GitHub 챗 통합. vercel-labs/just-bash 가상 샌드박스 기본(컨테이너 스폰 없이 빠른 스케일), Daytona 등 원격 샌드박스 연결. Node.js/Cloudflare Workers/GitHub Actions/GitLab CI/CD 동일 빌드. 민감 토큰(GITHUB_TOKEN) 분리. Apache-2.0 (Experimental). "다른 사람의 에이전트를 임대하지 말라" 철학
 * [GBrain: Garry Tan's personal knowledge management for AI agents](https://github.com/garrytan/gbrain)
   * 미팅·이메일·캘린더에서 검색 가능한 브레인 구축. PGLite/Supabase 기반 하이브리드 벡터/키워드 검색
@@ -3376,7 +3378,9 @@ Artificial Intelligence
 * [2605.08083 LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083)
   * AutoTTS 프레임워크. 수작업 설계 대신 효과적 test-time scaling 전략 자동 발견—사전 수집 추론 trajectory에 대한 컨트롤러 합성 문제로 정식화하여 분기·계속·중지 결정. 수학 추론 벤치마크에서 정확도-비용 트레이드오프 개선, 데이터셋·모델 크기 일반화. 발견 비용 $39.90·160분
 * [2606.09498 Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/html/2606.09498v1)
+  * [Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60% | VentureBeat](https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60)
   * [LLM 에이전트가 스스로 진화하는 방법: Self-Harness 개념과 실험 결과 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3221)
+  * [AI 에이전트가 스스로 규칙을 고친다: Self-Harness 프레임워크 핵심 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3294)
   * Hangfan Zhang 등(Shanghai AI Lab). LLM 에이전트가 외부 인간/강력한 외부 에이전트 없이 자체 운영 하네스를 개선. 3단계 루프—Weakness Mining(실패 패턴 식별)→Harness Proposal(최소 수정 후보 생성)→Proposal Validation(회귀 테스트). Terminal-Bench-2.0에서 MiniMax M2.5 40.5%→61.9%, Qwen3.5 23.8%→38.1%, GLM-5 42.9%→57.1%
 * [2606.24937 The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
   * Haggai Roitman. 에이전틱 AI 시스템 구축 전체 스택을 다루는 실무자용 종합 레퍼런스. LLM 기반(트랜스포머·GPU·학습)부터 정렬·추론(RLHF·PPO·DPO·보상 모델링), 에이전트 시스템(RAG·메모리 아키텍처·멀티에이전트 협력), 배포(A2A 프로토콜·도구 사용·평가·프로덕션)까지 이론과 구현 가이드·코드 예제 제공
