@@ -5740,6 +5740,8 @@ Programming
   * [X, Vercel, Cursor, Discord 등 수백 개 기업을 공급망 공격으로 침투한 | GeekNews](https://news.hada.io/topic?id=25177)
 * [React, NextJS 해킹 당했습니다. 지금 당장 업데이트 하세요 - YouTube](https://www.youtube.com/watch?v=Ne_-V3NAXpY)
 * [누적식 보안의 위험: 취약점 클리닝 서비스에서 발견된 RCE 사례 - Theori 블로그](https://theori.io/ko/blog/security-risk-of-security-vulnerability-cleaning-service)
+* [2026 상반기 Hot🔥보안 사건 사고 - Theori 블로그](https://theori.io/ko/blog/2026-h1-hot-security-issue-case)
+  * 2026 상반기 주요 보안 사건 9건 리뷰—AI가 방어 도구이자 새 공격면으로 부상. OpenClaw 에이전트 취약점, Notepad++·LiteLLM·Axios 공급망 공격, 8,800개 기관에 영향을 준 Canvas LMS 침해, Meta AI 지원 봇을 악용한 Instagram 계정 탈취 등. 인프라·도구·AI에 대한 검증 없는 신뢰가 공통 원인
 * [이메일 인증은 어떻게 구현하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3515/)
 * [Bluetooth Headphone Jacking: A Key to Your Phone - media.ccc.de](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
   * [블루투스 헤드폰 해킹: 스마트폰 침투의 새로운 경로 | GeekNews](https://news.hada.io/topic?id=25501)
