@@ -2350,6 +2350,15 @@ Docker
     * Gateway API와 Istio 서비스 메시를 통해 요청이 Kubernetes 클러스터에서 이동하는 전체 흐름 설명
   * [kyc-docker-k8-istio: ServiceMesh with Docker K8 Istio - KYC scenario](https://github.com/vijayredkar/kyc-docker-k8-istio)
     * [BankNext Case Study — ServiceMesh with Docker-K8-Istio-Sidecar | by Vijay Redkar | Nov, 2021 | Medium](https://vijayredkar.medium.com/banknext-case-study-servicemesh-with-docker-k8-istio-sidecar-b5e3ba930835)
+  * 채널톡 Istio Ambient mode 시리즈
+    * [Istio 1편: 왜 Istio Ambient mode인가? | 채널톡 테크 블로그](https://tech.channel.io/kr/articles/tech-istio-ambient-mode-30cdf79a)
+      * 4,000개 파드 환경에서 Sidecar 대신 Ambient mode를 선택한 이유—확장성, 리소스 절감, Gateway API 표준 정렬. 디버깅 복잡도와 낮은 성숙도는 감수
+    * [Istio 2편: Envoy config로 해부하는 Ambient mode | 채널톡 테크 블로그](https://tech.channel.io/kr/articles/tech-istio-envoy-config-c5193569)
+      * 실제 Envoy 설정으로 Ambient mode 동작 해부. Gateway→Pod까지 HTTP 요청 추적, HBONE 터널링·트래픽 리다이렉션·cross-namespace 소켓
+    * [Istio 3-1편: 503과 Half-open Connection | 채널톡 테크 블로그](https://tech.channel.io/kr/articles/ambient-mode-troubleshooting-1-82576790)
+      * 파드 롤아웃 시 간헐적 503 트러블슈팅. 종료된 파드의 IP가 새 파드에 재할당될 때 waypoint Envoy가 stale connection을 재사용하는 것이 원인
+    * [Istio 3-2편: Partially Enrolled Pod와 Untaint Controller | 채널톡 테크 블로그](https://tech.channel.io/kr/articles/ambient-mode-troubleshooting-2-1f761f31)
+      * 파드가 Running인데 istio-cni가 준비되지 않은 partially enrolled 상태 문제. startup taint + untaint-controller로 istio-cni 준비 전 스케줄링 차단
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
   * [Small Kubernetes for your local experiments: k0s, MicroK8s, kind, k3s, and Minikube – Flant blog](https://blog.flant.com/small-local-kubernetes-comparison/)
 * [k3d](https://k3d.io/)
