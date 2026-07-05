@@ -3598,6 +3598,9 @@ Artificial Intelligence
 * [Why we no longer evaluate SWE-bench Verified | OpenAI](https://openai.com/ko-KR/index/why-we-no-longer-evaluate-swe-bench-verified/)
   * [SWE-bench Verified가 더 이상 최전선 코딩 역량을 측정하지 못하는 이유 | GeekNews](https://news.hada.io/topic?id=28949)
   * 138문제 감사 결과 59.4%가 테스트 설계·문제 기술 결함 포함. 35.5%는 명시되지 않은 구현 세부를 요구하는 제한적 테스트. 데이터 오염, 성능 고원(74.9~80.9%)으로 결함과 실제 한계 구분 불가. SWE-bench Pro/비공개 전문가 검증 벤치마크로 전환 권고
+* [Senior SWE-Bench | Snorkel AI](https://senior-swe-bench.snorkel.ai/)
+  * [Senior SWE-Bench: 시니어 엔지니어를 제대로 평가하는 오픈소스 벤치마크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3328)
+  * 시니어급 문제 해결 능력을 요구하는 벤치마크. 과잉 명세 대신 자연어 메시지와 실제 GitHub PR 기반 기능 개발·버그 조사 태스크. 검증 에이전트가 적응형 테스트 작성, 정확성을 넘어 코드 품질을 평가하는 "taste scoring" 도입—최상위 모델도 taste 기준 성공률 약 24%
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
