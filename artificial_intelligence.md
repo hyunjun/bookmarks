@@ -991,6 +991,10 @@ Artificial Intelligence
   * [National AI Research Lab (NAIRL) - Craken alpha test with KAIST | LinkedIn](https://www.linkedin.com/posts/national-ai-research-lab-nairl-recently-ugcPost-7468158010503311361-2IF_/)
     * KAIST 김기응·오태현 교수 연구실에서 Craken 알파 테스트—논문을 구조화 위키로 요약, 관련 문헌 조사, 상호 연결된 지식 페이지로 정리. NAIRL이 학계와 산업계를 잇는 testbed 역할
   * Corca(OpenAI 서비스 파트너 한국 스타트업)가 만든 AI 네이티브 협업 워크스페이스. 실시간 메시지·파일 공유·위키·AI 에이전트를 한 환경에 통합, 양방향 링크로 컨텍스트 그래프 형성. Craken CLI로 Claude Code/Codex 등 셸 기반 에이전트가 워크스페이스에 참여
+* [CubeSandbox: Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents | TencentCloud](https://github.com/TencentCloud/CubeSandbox)
+  * [CubeSandbox 공식 사이트](https://cubesandbox.com/)
+  * [AI 에이전트를 위한 초고속 보안 실행 환경, CubeSandbox 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3344)
+  * RustVMM+KVM 기반 고성능 샌드박스. 60ms 이하 시작, 샌드박스당 5MB 미만 메모리. AI 에이전트의 신뢰할 수 없는 코드를 하드웨어 수준 VM 격리로 실행, E2B SDK 호환. 클러스터링·크리덴셜 볼트·egress 제어, ms 단위 스냅샷/클론/롤백
 * [CUGA](https://cuga.dev/)
   * [cuga-agent: CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features](https://github.com/cuga-project/cuga-agent)
     * [🤖 IBM CUGA: AppWorld 1위! 기업 환경을 위한 차세대 AI 에이전트](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-IBM-CUGA-AppWorld-1%EC%9C%84-%EA%B8%B0%EC%97%85-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B0%A8%EC%84%B8%EB%8C%80-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8)
@@ -1658,6 +1662,9 @@ Artificial Intelligence
 * [인공신경망 (ANN) 공부 루트](https://cailhuiris.github.io/code/2017/04/02/study-route-of-ann.html)
 * [A GENTLE INTRODUCTION TO NEURAL NETWORKS (WITH PYTHON)](https://ep2016.europython.eu/conference/talks/a-gentle-introduction-to-neural-networks-with-python)
 * [Make Your Own Neural Network](http://makeyourownneuralnetwork.blogspot.com/)
+* [jacobian-lens: companion code for "Verbalizable Representations Form a Global Workspace in Language Models" | Anthropic](https://github.com/anthropics/jacobian-lens)
+  * [언어 모델은 내부적으로 '생각'하는가? Anthropic J-space 연구로 보는 AI의 내부 사고 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3348)
+  * 임의 레이어의 residual-stream 벡터를 최종 레이어 basis로 선형 전이 후 unembedding으로 디코딩해, 그 활성값이 "모델이 무엇을 말하려는 성향"인지 읽어내는 도구. `lens_l(h)=unembed(J_l @ h)`(J_l은 코퍼스 평균 입출력 Jacobian). 레이어×위치 시각화로 출력 전에 모델이 각 레이어에서 "생각 중인" 토큰(J-space)을 관찰
 
 # Book
 * [더북(TheBook): 모두의 인공지능 with 파이썬](https://thebook.io/080244/)
@@ -3577,6 +3584,8 @@ Artificial Intelligence
 * [superclaw: 배포 전 AI 코딩 에이전트의 취약점을 평가하는 보안 테스트 프레임워크](https://github.com/SuperagenticAI/superclaw)
   * [SuperClaw | Superagentic AI](https://super-agentic.ai/superclaw)
   * 시나리오 기반 적대적 공격 생성·실행(프롬프트 인젝션·인코딩 난독화·탈옥·도구 우회), behavior contract로 성공 기준·증거 추출, HTML/JSON/SARIF 리포트로 CI/CD 통합. 기본 로컬 전용·원격 대상은 인증 토큰 필수. ACP WebSocket 기반 OpenClaw 에이전트 대상, CodeOptiX 연동. 승인된 보안 테스트 전용
+* [T3MP3ST: autonomous red teaming platform; multi-agent offensive-security meta-harness](https://github.com/elder-plinius/T3MP3ST)
+  * 코딩 에이전트를 취약점 헌터로 전환하는 멀티 오퍼레이터 자율 레드팀 플랫폼. 정찰·익스플로잇·리포팅 자동화, 벤치마크 90.1% 정확도. 로컬 AI 에이전트/클라우드 프로바이더로 키 없이 동작, 웹앱 테스트·CTF 풀이. 승인된 대상 전용
 * [Vigolium - Find the security bugs code review and traditional scanners miss](https://www.vigolium.com/)
   * [vigolium: AI-powered security audit, not just a PR review](https://github.com/vigolium/vigolium)
   * 시니어 펜테스터처럼 동작하는 에이전틱 AI 보안 감사 플랫폼. PR diff가 아닌 전체 코드베이스+라이브 앱 분석, 발견에 따른 동적 공격 계획. 검증된 증거(평문 설명·재현 가능 HTTP 요청·수정 제안). AI 트리아지로 false positive 사전 필터. 2 모드: Native Scan(CI/CD용 결정론적, 130+ 액티브·85+ 패시브 모듈) / Agentic Scan(딥 AI 감사, 로직 결함). XSS·SQLi·SSTI·IDOR·CSRF·인증 우회·SSRF·race condition·프레임워크/클라우드 오설정 커버. 셀프호스트 오픈소스 무료, 온디맨드 $29/100K LoC, Starter $299, Enterprise
@@ -3588,6 +3597,8 @@ Artificial Intelligence
 * [The New SDLC with Vibe Coding (whitepaper) | Kaggle](https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding)
   * [The New Software Development Lifecycle with Vibe Coding | Addy Osmani](https://addyosmani.com/blog/new-sdlc-vibe-coding/)
   * Google whitepaper(Addy Osmani·Shubham Saboo·Sokratis Kartakis) 해설. 에이전트=모델(10%)+하네스(90%), 정적/동적 컨텍스트 경계를 PR로 리뷰·버전관리하는 아키텍처 결정으로. "vibe coding"→프로덕션급의 스펙트럼은 검증 엄격성이 가름(테스트=결정론적 출력, eval=최종 정확성+추론 품질). 구현은 빨라지나 요구사항·아키텍처·검증이 병목—스펙 품질이 새 병목. 바이브 코딩은 싸 보여도 유지보수 비용 누적, 에이전틱 엔지니어링은 선투자로 장기 비용 3-10배 절감
+* [Younghyun Chung - 코드를 인간이 쓰지 않는 세상 | Facebook](https://www.facebook.com/risknfun/posts/pfbid02KqgVKz4DLQLWXsCUrx5E1VwmszfdJigmnXLKJzy2dEYrZWhUZFvSUA56WKZonW18l)
+  * Toby의 "소프트웨어 엔지니어링은 정말 엔지니어링인가"(2026.6.3)에서 출발한 팀 고민 정리. 우리가 아는 소프트웨어 공학이 세운 세 전제(개발자는 비싸고·느리고, 사람이 코드를 쓴다)가 AI 코딩 시대에 흔들린다는 논의
 * [How AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
   * [AI 보조 코딩이 소프트웨어 엔지니어링을 어떻게 바꿀 것인가: 불편한 진실 | GeekNews](https://news.hada.io/topic?id=18712)
 * [Measuring the impact of AI on software engineering – with Laura Tacho](https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software)
@@ -3673,6 +3684,9 @@ Artificial Intelligence
 * [CEO-Bench: Can Agents Play the Long Game?](https://ceobench.com/)
   * [lunamoth on X](https://x.com/lunamoth/status/2072641682617835883)
   * AI 스타트업을 500일간 운영하며 에이전트의 "조종 지능(steering intelligence)"—장기 목표를 향한 불확실성 대응·정보 획득·전략 적응·다중 의사결정 조율—을 측정하는 벤치마크. 대부분 모델은 초기 $1M 자금도 유지 못하고, Claude Fable 5·Opus 4.8·GPT-5.5만 최적 조건에서 시작 자본 초과 수익
+* [Evolving how LLMs are measured for Android: the next era of Android Bench | Android Developers Blog](https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html)
+  * [Android Bench 최신 업데이트: Harbor 프레임워크 도입과 LLM 평가 방식의 변화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3354)
+  * Google이 실제 Android 개발 태스크로 LLM을 평가하는 Android Bench 리더보드를 Harbor 프레임워크 기반으로 업그레이드. 8개 신규 모델 추가(Claude Fable 5가 84.5로 최고), 개발자가 직접 Android 개발 태스크를 제출·공유하는 커뮤니티 기여 개방
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
@@ -3870,6 +3884,9 @@ Artificial Intelligence
     * 시민개발자 구씨. Karpathy LLM Wiki 방법으로 벡터DB 없이 마크다운만으로 지식 위키 구축. NotebookLM·RAG와의 차이 비교, Obsidian+Claude Code 셋업 전 과정을 비개발자용 단계별 실습
   * [LLM Wiki가 망하는 진짜 이유: Obsidian·Claude Code보다 중요한 AI OS 설계 - YouTube](https://www.youtube.com/watch?v=GQtty9JOAUU)
     * Brian's Brain Trinity. LLM Wiki를 만들고도 1~2달 안에 안 쓰게 되는 이유 분석. LLM Wiki는 외부 지식의 "얕은 컴파일"일 뿐—나의 경험·판단·취향이 담긴 My Notes와 연결되어야 하며, 자비스가 아니라 삶을 운영하는 AI OS의 작은 구성 요소
+  * [llm-wiki-newsroom: Self-evolving multi-agent 'newsroom' that turns your documents into a cross-linked knowledge wiki](https://github.com/alfadur7/llm-wiki-newsroom)
+    * [토큰 낭비와 컨텍스트 붕괴를 줄이기 위한 LLM Wiki 설계 사례 | digitalbourgeois](https://digitalbourgeois.tistory.com/3341)
+    * 신문 편집국처럼 설계된 멀티 에이전트 LLM Wiki. 5개 역할이 문서에서 엔티티·개념·관계를 추출해 상호 참조 위키·지식 그래프로 구성. 자율성 확장 대신 "역할 명확성과 최소 의사결정"—단일 desk 에이전트가 검증, 룰 기반으로 중복 필터. 작성/검토 역할 분리로 편집 품질 유지, API 키 없이 로컬 축적·자기개선
   * [obsidian-wiki: Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern](https://github.com/Ar9av/obsidian-wiki)
     * Karpathy LLM Wiki 패턴을 Obsidian으로 구현하는 프레임워크. 모든 스킬이 마크다운 파일—Claude Code/Cursor/Windsurf/Pi/Codex/Gemini/Hermes 등이 읽고 실행. `pip install obsidian-wiki` 후 vault 지정, RAG 없이 상호 연결된 마크다운으로 지식 컴파일·유지. MIT
   * [okf: Open Knowledge Format — AI 시스템용 지식·메타데이터를 표현하는 벤더 중립 표준](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
