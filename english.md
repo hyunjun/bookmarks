@@ -59,6 +59,8 @@ English
 * [외국어가 정말 늘고 싶으면 이 영상을 보세요 - YouTube](https://www.youtube.com/watch?v=AN1-HonwJeY)
 * [구동사, 즉 Phrasal Verbs  도대체 왜 원어민들은 tolerate라는 멋진 라틴어 계열 단어를 두고 굳이 put up with라고 말하는 걸까](https://www.facebook.com/BinLeeMasterClass/posts/pfbid0g6ZXXJRFFSVEE1L7YAeXX4Gwi7FrenEH2E6yYCjFV8UjBAXNeCHNp1Ezn9YxEmEml)
   * 중요한 인지언어학적 개념, 영상 도식(Image Schema)과 개념적 은유(Conceptual Metaphor)
+* [미국에서 일잘러로 살아남은 영어공부 비법 (전 넷플릭스·메타·틱톡 디렉터 이소라) - YouTube](https://youtube.com/watch?v=_-g35kAt9bU)
+  * 캘리쌤 브이로그 영어. 16살 도미 후 넷플릭스·메타·틱톡 디렉터를 거쳐 K뷰티 회사 CEO가 된 이소라의 영어 학습·커리어 인터뷰. 비즈니스 영어 공부법, 문법·자신감·쉐도잉 실전 팁, 한국인을 위한 스몰토크 전략, 연봉 협상·워킹맘 균형까지
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
