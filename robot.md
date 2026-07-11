@@ -86,6 +86,9 @@ Robot
 * [Newton: GPU-accelerated physics simulation engine for robotics](https://newton-physics.github.io/newton)
   * [newton](https://github.com/newton-physics/newton)
   * NVIDIA Warp 기반, MuJoCo Warp 백엔드. OpenUSD 지원, 미분 가능, 빠른 반복·확장 가능한 로봇 시뮬레이션
+* [Oomwoo — Building an Open-Source Robot Vacuum | makerspet](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+  * [Oomwoo - 직접 만드는 오픈소스 로봇 청소기 | GeekNews](https://news.hada.io/topic?id=31060)
+  * 메이커용 DIY 로봇 청소기. 2D LiDAR 매핑·자율 주행, ROS 2·Home Assistant 연동, 클라우드 없는 로컬 우선, 3D 프린팅 부품. Raspberry Pi + 부품 $100~200으로 $500~600급 상용 청소기 목표
 * [Robocode Home](https://robocode.sourceforge.io/)
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)
