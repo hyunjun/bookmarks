@@ -308,11 +308,17 @@ History
 ## 백제
 * [이기환의 흔적의 역사 '백제의 요서경략' 설파하면 '사이비' '국뽕'인가 - 경향신문](https://www.khan.co.kr/culture/culture-general/article/202108100500001)
 
+## 신라
+* [신라 역사를 뒤집어 놓은 필사본, 과연 진짜일까? 위서일까? - YouTube](https://youtube.com/watch?v=FKM-p_CpBFw)
+  * 역사를 보다. 화랑세기 필사본의 진위 논쟁. 한국 고대사 기록이 삼국사기·삼국유사밖에 없어 사료 갈증이 큰 상황에서, 삼국사기가 참고한 김대문의 화랑세기가 1989년 필사본으로 등장. 당대 용어·역사적 사실의 교차 검증이 진위 판별의 기준
+
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
 * [다이너마이트 대포라고?](http://ppss.kr/archives/45406)
 * [미 해군 야간 포격술의 진화](http://ppss.kr/archives/46756)
 * [김은기의 전쟁과 평화](http://warandpeace.co.kr)
+* [Jooshin Lee - 알프레드 세이어 마한과 해양력 | Facebook](https://www.facebook.com/share/1EQ8P7G6E9/)
+  * "바다를 지배하는 자가 세계를 지배한다"는 마한(Alfred Thayer Mahan)의 명제가 20세기를 연 과정—영국의 제국화, 미국의 두 대양 패권, 일본의 진주만. 21세기 해양력 지정학으로 이어지는 담론
 
 # Pre History
 * [Strange rituals or cannibalism? Neanderthals manipulated bodies of adults and children shortly after death](http://www.sciencedaily.com/releases/2015/04/150414085317.htm)
