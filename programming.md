@@ -7629,6 +7629,7 @@ Programming
   * [6월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/06/b-6-3.html)
   * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/06/b-6-4.html)
   * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/07/b-7-1.html)
+  * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/07/b-7-2.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -8314,12 +8315,16 @@ Programming
   * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
   * [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
+* [hacksguard: A blazingly fast, multi-threaded TUI malware analysis tool built in Rust](https://github.com/Rhacknarok/hacksguard)
+  * Rust 기반 터미널 악성코드 분석 도구. 심층 PE 파싱, YARA 스캔, 휴리스틱 리스크 스코어링. 멀티스레드 동시 처리, 엔트로피 그래프·디스어셈블리 뷰를 인터랙티브 CLI로 제공
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
 * [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
 * Reverse Engineering For Everyone! [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
   * x86, x64, ARM, 64bits 아키텍처에서 리버스 엔지니어링을 쉽게 설명하는 튜토리얼로 PDF와 Mobi 형식으로도 제공
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
+* [reverse-skill: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack](https://github.com/zhaoxuya520/reverse-skill)
+  * Claude Code 등 AI 코딩 에이전트가 리버스 엔지니어링(APK 분석·바이너리 디컴파일·JS 복호화)·보안 테스트 작업에서 올바른 방법론과 도구를 자동 선택하도록 라우팅하는 스킬 팩
 
 # RPA
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
