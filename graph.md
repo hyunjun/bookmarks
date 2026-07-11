@@ -236,6 +236,8 @@ Graph
 * [지식 그래프를 이용한 인재 추천 시스템 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/kgat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EC%9E%AC-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * [Knowledge Graphs + Large Language Models = The ability for users to ask their own questions? | by Peter Lawrence | Mar, 2023 | Medium](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
 * [지식 그래프를 활용한 UAM 도착 지연시간에 따른 승객 이탈률 분석 및 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=165226)
+* [os-taxonomy: Marble Skill Taxonomy — open, structured taxonomy of what children learn](https://github.com/withmarbleapp/os-taxonomy)
+  * 초등 교육 학습 내용을 선행 의존성·커리큘럼 정렬·과목별로 구조화한 1,590개 마이크로 토픽 지식 그래프. 세분화된 교육 개념을 선행 관계로 연결하고 국가 커리큘럼 표준에 매핑, 연구·상업 이용 가능
 * [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
 * 그래프DB 시리즈 | 아이티데일리
   * [1편 아리스토텔레스부터 네오포제이까지, 시대를 기다린 '지식의 망'](http://www.itdaily.kr/news/articleView.html?idxno=237741)
