@@ -646,6 +646,9 @@ NLP
   * [Sentence Transformers 사용방법](https://webnautes.tistory.com/2282)
   * [ko-sentence-transformers: 한국어 BERT 모델을 sentence-transformers 라이브러리에서 활용](https://github.com/jhgan00/ko-sentence-transformers)
 * [soongsil-bert-base-nsmc.ipynb - Colaboratory](https://colab.research.google.com/drive/1Js24ps3JvsN-WO9DURzueTUeCmg_BP-g)
+* [Ternlight — 브라우저(WASM)에서 실행되는 7MB 임베딩 모델](https://ternlight-demo.vercel.app/)
+  * [Ternlight - 브라우저(WASM)에서 실행되는 7MB 임베딩 모델 | GeekNews](https://news.hada.io/topic?id=31218)
+  * 서버 호출 없이 브라우저에서 CPU만으로 시맨틱 검색을 수행하는 경량(7MB) 임베딩 모델. 밀리초 단위 임베딩, 단일 npm 패키지
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding(19.06.25)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
   * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
@@ -1254,6 +1257,9 @@ NLP
 * Tabnine [AI assistant for software developers | Tabnine](https://www.tabnine.com/)
   * [Say hello to Tabnine Chat!](https://www.tabnine.com/blog/say-hello-to-tabnine-chat/)
   * [Tabnine Chat 베타 공개 | GeekNews](https://news.hada.io/topic?id=9595)
+* [texts-to-transformer: Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac](https://github.com/Doriandarko/texts-to-transformer)
+  * [GPT-5.6으로 30분 만에 나만의 언어 모델 학습 | Facebook](https://www.facebook.com/watch/?v=1733445780995619)
+  * Pietro Schirano가 GPT-5.6에 프롬프트 한 번으로 자신의 iMessage 기록(~800만 토큰)을 학습하는 전체 파이프라인을 생성. 138만 파라미터·4층 decoder-only, 4,000 어휘 자체 BPE 토크나이저, 256 컨텍스트. MLX로 Apple Silicon에서 약 30분 학습, 사전학습 없이 랜덤 초기화부터 시작. 가명화·로컬 처리로 프라이버시 유지
 * [TypeChat is a library that makes it easy to build natural language interfaces using types](https://github.com/microsoft/TypeChat)
 * [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)
   * [😎 비쿠냐(vicuna-13B) 소개 😎 ChatGPT의 90% 성능의 오픈소스 챗봇 모델 - YouTube](https://www.youtube.com/watch?v=ha9yYq7ulWQ)
@@ -3604,6 +3610,8 @@ NLP
     * [What's in a GGUF, besides the weights - and what's still missing? | NobodyWho](https://nobodywho.ooo/posts/whats-in-a-gguf/)
       * [GGUF에는 가중치 외에 무엇이 들어 있고, 아직 무엇이 빠져 있나? | GeekNews](https://news.hada.io/topic?id=29558)
       * llama.cpp GGUF 파일 형식 분석. 단일 파일 번들 장점(safetensors+JSON 분산 또는 OCI ollama 대비). 현재 포함: Jinja2 채팅 템플릿(`tokenizer.chat_template`, transformers는 python jinja2/llama.cpp는 자체/NobodyWho는 minijinja), 특수 토큰(eos·bos·turn marker), 샘플러 설정·체인 순서(`general.sampling.sequence` 신규). 누락: 1) 도구 호출 형식(Qwen3·Qwen3.5·Gemma4 모델별 다른 구문, 하드코딩 파서 필요—번들 grammar 표준화 후보) 2) `think_token`(HF 업스트림에 있지만 GGUF 변환 시 누락) 3) projection 모델(멀티모달은 별도 ~1GB GGUF 파일로 단일 파일 철학 깨짐) 4) 지원 기능 리스트(이미지·툴 콜·thinking 블록 감지 표준 부재). "개방·확장 가능 형식" 평가, 커뮤니티 강화 옹호
+    * [ROCmFPX: Experimental AMD-focused quantization formats for llama.cpp](https://github.com/charlie12345/ROCmFPX/)
+      * AMD 하드웨어 최적화 GGUF 가중치 양자화(ROCmFP3/4/6/8). JSON·툴 콜 등 구조화 출력에 중요한 텐서를 보호하는 에이전트 특화 프리셋 포함
   * [LLAMAFACTORY: Easy and Efficient LLM Fine-Tuning](https://www.linkedin.com/posts/kalyanksnlp_llms-generativeai-nlproc-activity-7177129541763563521-RZZv/)
     * [Easy and Efficient LLM Fine-Tuning with LLAMAFACTORY](https://blog.akmmusai.pro/llamafactory-unified-efficient-fine-tuning-of-100-language-models)
   * [LlamaGym: Fine-tune LLM agents with online reinforcement learning](https://github.com/KhoomeiK/LlamaGym)
@@ -4253,6 +4261,9 @@ NLP
 * [캐글에서 살펴본 RAG 트렌드 살펴보기 (2)](https://brunch.co.kr/@hotorch/21)
 * [Aurimas Griciūnas on LinkedIn: “Hello World”s of RAG](https://www.linkedin.com/posts/aurimas-griciunas_you-can-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-that-activity-7160565020626411521-rh5E)
 * [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
+* [How we taught a small LLM to throw away 68% of our RAG context | kapa.ai](https://www.kapa.ai/blog/how-we-prune-rag-context)
+  * [RAG 컨텍스트를 68% 줄이면서도 96%의 Recall을 유지한 방법: LLM 기반 Context Pruning | digitalbourgeois](https://digitalbourgeois.tistory.com/3350)
+  * Retriever와 Generator 사이에 경량 LLM 프루닝 단계를 추가해 검색된 청크를 5단계 관련도로 채점. 96% recall 유지하며 컨텍스트 68% 폐기, 소폭 지연 증가 대신 쿼리 비용 약 1/3 절감
 * [오픈소스 LLM으로 RAG 시스템 만들기 - YouTube](https://www.youtube.com/watch?v=04jCXo5kzZE)
 * [RAG(Retrieval-Augmented Generation)의 개념과 프레임워크 – Data Rabbit](https://flonelin.wordpress.com/2024/03/24/ragretrieval-augmented-generation%ec%9d%98-%ea%b0%9c%eb%85%90%ea%b3%bc-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac/) LangChain LlamaIndex
 * [RAG를 개선하는 전체적인 흐름](https://www.linkedin.com/posts/hoyeon-lee-a58702117_rag%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%BD%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%95%84%EB%A7%88-llm-%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-activity-7210793127924649984-ps1H/)
@@ -4434,6 +4445,7 @@ NLP
   * [PixelRAG](https://pixelrag.ai/)
   * 문서를 텍스트 파싱 없이 스크린샷 이미지로 렌더링해 검색하는 비주얼 RAG. 표·차트·레이아웃·인포그래픽 보존. LoRA 파인튜닝 Qwen3-VL-Embedding, 위키피디아 828만 페이지 사전 인덱스 호스팅 API, pixelshot CLI(웹·PDF·이미지)+Claude용 pixelbrowse 플러그인. MPS/CUDA
 * [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+  * 7주 과정의 프로덕션 RAG 시스템 실습 코스. arXiv 논문 큐레이터를 직접 구축하며 인프라 셋업→데이터 수집→키워드 검색→하이브리드 검색→LLM 통합→프로덕션 모니터링→에이전틱 AI+Telegram 봇까지 단계별 진행
 * [R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more](https://github.com/SciPhi-AI/R2R)
   * [R2R V2 - 프로덕션 준비된 오픈 소스 RAG 엔진 | GeekNews](https://news.hada.io/topic?id=15575)
 * [RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)
@@ -4930,6 +4942,10 @@ NLP
 * [etagger - reference tensorflow code for named entity recognition](https://github.com/dsindex/etagger)
 * [GENRE: Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE)
 * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
+* [OpenMed · On-Device Clinical AI for NER and PHI De-Identification](https://openmed.life/)
+  * [openmed: Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device](https://github.com/maziyarpanahi/openmed)
+  * [로컬 환경에서 동작하는 의료 AI 플랫폼 OpenMed 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3346)
+  * 임상 텍스트에서 55+ 유형의 건강 개인정보(PHI)를 식별·제거하는 온디바이스 의료 AI. 생의학 NER 벤치마크 12개 중 10개 SOTA, 1,000+ 의료 모델·12개 언어, 스마트폰~GPU 서버까지 클라우드 없이 실행(Apple MLX+Python). FHIR·HL7 호환, 환자 데이터가 네트워크를 떠나지 않음. Apache-2.0
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
@@ -5431,6 +5447,9 @@ NLP
   * [Tokenizer에 주의를 기울여야 합니다 | GeekNews](https://news.hada.io/topic?id=17398)
 * [Let’s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs – fast.ai](https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers.html)
   * [Let’s Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs – fast.ai | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_lets-build-the-gpt-tokenizer-a-complete-activity-7386148858172665856-Uf6Q)
+* [garu](https://github.com/ongjin/garu)
+  * [한국어 형태소 분석기 가루(Garu) - 브라우저에서 바로 실행되는 WASM 분석기](https://garu.zerry.co.kr/)
+  * WebAssembly로 브라우저 클라이언트에서 완전 실행되는 한국어 형태소 분석기(서버 불필요). 1MB 모델+언어학 기법으로 F1 93.9%, 형태소 분석·명사 추출·토큰화를 오프라인에서 수행
 * [kortok: The code and models for "An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks" (AACL-IJCNLP 2020)](https://github.com/kakaobrain/kortok)
 
 # Topic Modeling
@@ -5713,6 +5732,10 @@ NLP
 * [KittenTTS: Open-source text-to-speech library — high-quality voice synthesis on CPU](https://github.com/KittenML/KittenTTS)
   * GPU 불필요 CPU 전용 TTS. 15M~80M 파라미터 3종 모델, 8개 프리트레인 음성, 24kHz 오디오, ONNX 기반 엣지 배포 최적화
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
+* [kokoro: An inference library for Kokoro-82M, a lightweight open-weight TTS model](https://github.com/hexgrad/kokoro)
+  * [Local, CPU-Friendly, High-Quality TTS with Kokoro | ariya.io](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
+  * [Kokoro로 로컬 CPU에서 고품질 TTS 실행하기 | GeekNews](https://news.hada.io/topic?id=31239)
+  * 82M 파라미터 오픈웨이트 TTS. GPU 없이 CPU(구형 포함)에서 다국어 자연 음성 생성, 컨테이너 FastAPI로 OpenAI Speech API 호환 배포. Apache 라이선스
 * [kokoro-web: 🔊 Kokoro Web: Free AI text-to-speech, online or self-hosted, OpenAI compatible!](https://github.com/eduardolat/kokoro-web/)
 * [korean-voice-acting-engine: Local-first Korean voice toolkit for record, generate, and polish](https://github.com/sinmb79/korean-voice-acting-engine)
   * 로컬 퍼스트 한국어 음성 툴킷. 한국어 텍스트 정규화(숫자·영어·기호·날짜·조사), `kva polish` 음성 다듬기 프리셋, 품질 게이트·ASR 리뷰, 장시간 녹음 분할, 공개 한국어 AI 보이스 카탈로그, 개인정보 보호 매니페스트
@@ -5752,6 +5775,8 @@ NLP
 * [parakeet-tdt-0.6b-v2 · Hugging Face](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2)
   * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 공개 < 뉴테크 < 기술 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=170202)
   * [엔비디아, 60분짜리 오디오 1초 만에 받아 쓰는 전사 모델 오픈 소스 parakeet-tdt-0.6b-v2 공개](https://www.facebook.com/groups/255834461424286/user/100001182289254/)
+  * [Parakeet-TDT-0.6B-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/Parakeet-TDT-0.6B-CoreAI)
+    * NVIDIA Parakeet 트랜스듀서 음성 인식 모델의 Apple Core AI 변환. LLM 런타임 없이 Apple 기기에서 25개 유럽어 ~29초 오디오 전사
 * [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
   * [Welcome! | Pipecat](https://pipecat.ai/)
@@ -5803,6 +5828,9 @@ NLP
   * 실시간 멀티모달 음성 AI 에이전트 프레임워크. RTC/WebSocket 연결, Agora+Deepgram+OpenAI+ElevenLabs 통합. 화자 분리, 립싱크 아바타, SIP 통화, TMAN 비주얼 디자이너. Docker 기반 배포
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
+* [tts-bench: Speed and samples benchmark for all types of TTS models on Windows/Linux/Mac](https://github.com/5uck1ess/tts-bench)
+  * [tts-bench - 로컬에서 TTS 모델 비교를 위한 벤치마크 | GeekNews](https://news.hada.io/topic?id=31283)
+  * 로컬 TTS 모델 벤치마크 스위트. 속도(TTFA·RTF), 인터랙티브 청취 UI 기반 주관 품질, 객관 점수(UTMOS·WER·SIM)로 평가. 55개 TTS 모델·클로닝 지원, Windows/Linux/macOS
 * tweepy [민트 초코 논란! 자연어 처리(NLP)로 종결해드림. - YouTube](https://www.youtube.com/watch?v=QTgRNer2epE)
 * [Vapi - Voice AI for developers](https://vapi.ai/)
   * According to the founder
