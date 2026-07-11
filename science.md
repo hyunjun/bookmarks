@@ -32,6 +32,13 @@ Science
 * [China launches ambitious collaboration to map primate brains—including ours | Science | AAAS](https://www.science.org/content/article/china-launches-ambitious-collaboration-map-primate-brains-including-ours)
   * [Tae Hyung Kim - 지금까지 성체의 뇌가 완벽하게 지도화된 생명체는 초파리 단 하나뿐이었다. 그러나 이제 그... | Facebook](https://www.facebook.com/socialego/posts/pfbid0XjrCuc7jDheYt7V8PJSXhpiGiMgd1o5RYEArij4hjrT9X5smXLfbyqugTVFcf1Ptl)
   * ‘Stereo-cell’이라 불리는 혁신적 단일세포 전사체 분석 기술을 개발
+* [Understanding the brain with AI-driven explanations and experiments | Microsoft Research](https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/)
+  * [Microsoft turns LLM brain predictions into fMRI-tested explanations | insights.marvin-42](https://insights.marvin-42.com/articles/ai-fmri)
+  * Microsoft·UC Berkeley·UCSF·Columbia의 generative causal testing(GCT). 해석 불가능한 언어-뇌 예측 모델을 짧은 언어 가설로 변환하고, LLM이 표적 자극(스토리)을 생성해 특정 뇌 영역이 예측대로 반응하는지 fMRI로 검증—AI 브레인 모델을 검증 가능한 과학 이론으로
+* [openscience: The open-source AI workbench for scientific research](https://github.com/synthetic-sciences/openscience)
+  * [OpenScience 공식 사이트](https://www.openscience.sh/)
+  * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
+  * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
