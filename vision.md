@@ -640,6 +640,8 @@ Vision
   * [복잡한 문서까지 정확하게 읽는 차세대 OCR, GLM-OCR 완전 정리](https://digitalbourgeois.tistory.com/2892)
   * [지푸, 9억 매개변수의 강력한 OCR 모델 'GLM-OCR' 출시 | AI타임스](https://www.aitimes.com/news/articleView.html?idxno=207901)
   * 0.9B 경량 멀티모달 문서 이해 모델. OmniDocBench V1.5 1위(94.62점). Multi-Token Prediction으로 50% 속도 향상. 수식·표·도장·코드 문서 인식, vLLM/SGLang/Ollama 배포 지원
+  * [GLM-OCR-CoreAI · Hugging Face](https://huggingface.co/mlboydaisuke/GLM-OCR-CoreAI)
+    * GLM-OCR을 Apple Core AI로 포팅. 클라우드 없이 뉴럴 하드웨어에서 텍스트·표·수식 인식 온디바이스 실행
 * [Inverse-DALL-E-for-Optical-Character-Recognition: Inverse DALL-E for Optical Character Recognition](https://github.com/affjljoo3581/Inverse-DALL-E-for-Optical-Character-Recognition)
   * [PyTorchKR에 쓴 개발자의 동기](https://www.facebook.com/groups/PyTorchKR/posts/2456108624528804/)
 * [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
@@ -663,6 +665,8 @@ Vision
   * [olmOCR - The Open OCR System - YouTube](https://www.youtube.com/watch?v=38loqDtlLok)
   * [Molmo 2 | A new standard for open video intelligence - YouTube](https://www.youtube.com/watch?v=Wf0ZzQqKYTo)
     * [Hika Maeng - 얼마 전 소개한 Olmocr 모델은 allenai애들 것임 이 회사는 엄청 재밌는 회사인데... | Facebook](https://www.facebook.com/hika00/posts/pfbid032XpHth6i44Z747G2y78DnXK7uNXqjeozoNrvDJaccYoA9deCGESFTDvLdrZENTgGl)
+* [Ollama-OCR: OCR package using vision language models through Ollama](https://github.com/imanoop7/Ollama-OCR)
+  * Ollama의 비전-언어 모델(LLaVA·Llama 3.2 Vision·Granite·Moondream·MiniCPM-V)로 이미지·PDF에서 텍스트 추출. 마크다운·JSON·구조화 출력, 배치 처리, Streamlit 웹 UI. Python 패키지
 * [OpenOCR: General-OCR toolkit for text detection, recognition, formula/table recognition, document parsing](https://github.com/Topdu/OpenOCR/)
   * Fudan FVL Lab. OpenDoc-0.1B(초경량 문서 파싱), UniRec-0.1B(텍스트+수식 통합 인식), SVTRv2(ICCV 2025)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
