@@ -3557,6 +3557,9 @@ App
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
+* [Meetily — Privacy-first AI meeting assistant](https://meetily.ai/)
+  * [meetily: Privacy-first AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization](https://github.com/Zackriya-Solutions/meetily)
+  * 100% 로컬 처리 셀프호스팅 AI 회의 도우미(macOS/Windows). Parakeet/Whisper 실시간 전사(4배 빠름), 화자 분리, Ollama 요약. 클라우드 불필요, Ollama/Claude/커스텀 엔드포인트 지원. Rust 기반
 * [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
   * 음성→AI 받아쓰기 도구. Mac/Windows/iPhone/Android 네이티브, 키보드(45wpm) 대비 4배 빠른 220wpm. 필러 단어·오타·횡설수설 자동 정제, Slack/Gmail/Notion/VS Code/Cursor/ChatGPT/Figma 등 어디서나. 개인 사전(고유어 학습), 스니펫 라이브러리, 100+ 언어 자동 감지. $81M 펀딩으로 "Voice OS" 빌드
 
