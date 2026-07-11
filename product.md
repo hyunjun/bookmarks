@@ -192,6 +192,10 @@ Product
 * [Daylight Computer | The Fast 60fps E-paper and Blue-Light Free Tablet](https://daylightcomputer.com/product)
   * [데이라이트 컴퓨터 – 새로운 60fps e-paper 태블릿 | GeekNews](https://news.hada.io/topic?id=14966)
 * iFLYTEK AINOTE Air2 [필기의 새로운 기준, iFLYTEK AINOTE Air2 드디어 국내에! - YouTube](https://www.youtube.com/watch?v=wl-ne4TD3Fo)
+* [inkterface: Steam Machine e-ink 전면 인터페이스](https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface)
+  * [Valve open source the Steam Machine e-ink screen so you can make your own | GamingOnLinux](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
+  * [Valve, Steam Machine e-ink 전면을 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=31095)
+  * Valve가 Steam Machine 전면 e-ink 디스플레이를 직접 만들어 제공하지는 않지만, 누구나 자체 제작할 수 있도록 인터페이스를 오픈소스로 공개
 * [Viwoods AI Paper eInk Tablet Unboxing Impressions - YouTube](https://www.youtube.com/watch?v=LZ0QcAl5xVo)
 
 # Keyboard
