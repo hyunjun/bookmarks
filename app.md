@@ -303,9 +303,16 @@ App
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
+* [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
+  * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
+* [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
+  * Kali Linux용 OSINT·정찰 도구 100+ 큐레이션. SOCMINT(소셜), GEOINT(지오로케이션), 네트워크 정찰, 다크웹, 포렌식 등을 원커맨드 설치 스크립트로 번들
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
   * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
+* [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
+  * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
+  * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
@@ -918,6 +925,9 @@ App
 * [Kan.bn | The open source alternative to Trello](https://kan.bn/)
   * [kan: The open source Trello alternative](https://github.com/kanbn/kan)
     * [Kan.bn - Trello의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=21257)
+* [Leantime — open source project management for non-project managers](https://leantime.io/)
+  * [leantime: Leantime is an open source project management system for non-project managers](https://github.com/Leantime/leantime)
+  * 목표 중심 오픈소스 프로젝트 관리 플랫폼. ADHD·자폐·난독증 접근성 고려 설계, 칸반·간트·태스크·타임시트(Trello/Jira 수준) 제공하면서 사용 편의성 유지. 다국어·커뮤니케이션 통합, Docker/서버 셀프호스팅
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
   * [Nix – taming Unix with functional programming - Tweag](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
