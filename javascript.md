@@ -1667,6 +1667,8 @@ Javascript
 * [당연해진 디자인시스템, 그다음 이야기: AST와 MCP로 여는 미래 #우아콘2025 #우아한형제들 - YouTube](https://www.youtube.com/watch?v=HTHcsVgI_CM)
   * [디자인시스템의 미래: AST와 MCP로 우아한형제들 개발 효율을 높이다](https://livewiki.com/ko/content/design-system-ast-mcp-future)
 * [astryx: An open source design system that's fully customizable and agent ready | Meta](https://github.com/facebook/astryx)
+  * [Astryx 공식 사이트](https://astryx.atmeta.com/)
+  * [Meta가 공개한 오픈소스 디자인 시스템 'Astryx'란? 특징부터 아키텍처까지 한눈에 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3349)
   * Meta의 13,000+ 앱에 쓰이는 React+StyleX 오픈소스 디자인 시스템. 150+ 접근성 컴포넌트, 7종 테마·다크모드, CSS 커스텀 프로퍼티로 포크 없이 커스터마이징, Tailwind/CSS modules 오버라이드 허용(스타일 락인 없음). API·문서·CLI를 사람과 AI 어시스턴트가 같은 방식으로 쓰도록 설계. MIT, 베타
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
@@ -2959,6 +2961,9 @@ Javascript
 * Tern [자바스크립트 정적 분석 도구 턴(Tern)과 이맥스(Emacs) 연동](https://www.44bits.io/ko/post/javascript-static-analysis-server-tern-and-emacs)
 * [Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine](https://tesseract.projectnaptha.com/)
   * [tesseract.js: Pure Javascript OCR for more than 100 Languages 📖🎉🖥](https://github.com/naptha/tesseract.js)
+* [termcn — Beautiful terminal UI components, built on Ink and OpenTUI](https://www.termcn.dev/)
+  * [termcn: Beautiful terminal UI components. 100% Free, Zero config, one command setup](https://github.com/shadcn-labs/termcn)
+  * shadcn/ui 디자인 패턴을 따르는 React 기반 터미널 UI 컴포넌트. Ink·OpenTUI 위에 구축, 테마 지원·차트·AI 컴포넌트·내비게이션, 제로 설정 원커맨드 설치
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [three.js examples](https://threejs.org/examples/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
