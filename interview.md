@@ -972,6 +972,8 @@ Interview
 * [지원자가 보면 안 되는, 면접관이 되고 배운 10가지](https://brunch.co.kr/@youngductive/51)
 * [Owain Lewis on LinkedIn: How to pass your interview. 5 tips from a manager at Amazon. Here are 5… | 21 comments](https://www.linkedin.com/posts/theowainlewis_how-to-pass-your-interview-5-tips-from-activity-7222533964161261568-cZCm)
 * [미국 인터뷰 준비하기 - 행동기반 질문 (Behavioral Interview Questions) 에 관해서. 그리고 예시](https://kaita.org/learning/blog/-OfTBLUqs0U6y2lGtp7t)
+* [Vol.5 면접에서 떨어진 진짜 이유를 아무도 말해주지 않습니다 | Kihung Thomas Kim](https://www.linkedin.com/pulse/vol5-%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%96%A8%EC%96%B4%EC%A7%84-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EC%95%84%EB%AC%B4%EB%8F%84-%EB%A7%90%ED%95%B4%EC%A3%BC%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EB%8B%A4-kihung-thomas-kim-ptftc)
+  * AI가 서류를 거르는 시대, 최종 면접 탈락은 기술 역량이 아닌 요인에서 갈림. "케미가 안 맞는다" 같은 주관적 판단, 내부 승진 후보·예산 동결·면접관의 친화 편향(affinity bias)이 좌우. 성공 요인은 이력 나열이 아닌 진정성 있는 커리어 스토리텔링, 판단 과정의 가시화, 문화적 소통 방식 정렬
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
@@ -1019,6 +1021,8 @@ Interview
 * [프로필 하나로 이직 제안 받는 사람들의 비밀 (w. 최민희 링크드인 디렉터 2편) - YouTube](https://www.youtube.com/watch?v=Oiy9zUbfQBc)
   * [프로필 하나로 이직 제안 받는 사람들의 비밀 - LiveWiki 요약](https://livewiki.com/ko/content/profile-job-offers-secrets)
   * 리크루터의 시선을 끄는 LinkedIn 프로필 최적화 전략. 프로필 하나로 이직 제안을 받기 위한 구성 요소와 노하우
+* [Vol.4 이직을 가장 많이 후회하는 사람은, 이직한 사람이 아닙니다 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/vol4-%EC%9D%B4%EC%A7%81%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4-%ED%9B%84%ED%9A%8C%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%9D%B4%EC%A7%81%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-kihung-thomas-kim-m6cic)
+  * 이직 기회를 놓친 사람이 이직한 사람보다 훨씬 크게 후회. "기회를 잡지 않은 것을 후회한 비율 57% vs 이직을 후회한 비율 25.6%"—현상 유지가 계산된 도약보다 더 큰 커리어 후회를 부른다는 분석
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
 * [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
@@ -1082,6 +1086,12 @@ Interview
 * [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
 * [How To Create a Professional LinkedIn Profile in 2024 - YouTube](https://www.youtube.com/watch?v=AJocoZEV7ew)
   * [Daero Won - 한국에선 이제 조금씩 사용되고 있는 링크드인. '전문적인 LinkedIn 프로필을 만드는 방법'에... | Facebook](https://www.facebook.com/daero.won.7/posts/pfbid02ShjEhUT9FuXbvC5vyHC93rdgwmZxyeZesnbZi8dDLgusS5iuaxpbwXiNcJP6yJwAl)
+* [리크루터는 당신의 프로필을 이렇게 봅니다 - 2026년 채용 시장 최전선에서 본 것들 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%84%B0%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%98-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EB%B4%85%EB%8B%88%EB%8B%A4-2026%EB%85%84-%EC%B1%84%EC%9A%A9-%EC%8B%9C%EC%9E%A5-%EC%B5%9C%EC%A0%84%EC%84%A0%EC%97%90%EC%84%9C-%EB%B3%B8-%EA%B2%83%EB%93%A4-kihung-thomas-kim-q8u1e)
+  * 리크루터는 프로필을 8~15초만 훑음—헤드라인·사진·About·최근 경력 순. 2026 채용 시장은 AI 워크플로우 경험·실전 AI 구현 역량을 우선시하므로 프로필 최적화와 활동성이 기회 도달 여부를 가름
+* [Vol.2 LinkedIn 헤드라인 한 줄이 당신의 커리어 기회를 결정하고 있습니다 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/vol2-linkedin-%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%95%9C-%EC%A4%84%EC%9D%B4-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EA%B8%B0%ED%9A%8C%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-kihung-thomas-kim-39j1c)
+  * 알고리즘이 헤드라인 키워드를 경력 섹션 키워드보다 약 3배 높게 가중. 키워드 남발보다 리크루터 검색어와 진정성 있는 포지셔닝 우선, 개발자·시니어별 구체 가이드
+* [Vol.3 LinkedIn About 섹션, 당신의 커리어 서사는 지금 어디에 있습니까 | Kihung Thomas Kim](https://kr.linkedin.com/pulse/vol3-linkedin-%EC%84%B9%EC%85%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%9C%EC%82%AC%EB%8A%94-%EC%A7%80%EA%B8%88-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-kihung-thomas-kim-itirc)
+  * About 섹션에서 리크루터가 계속 읽을지 결정. 모바일 접속 68%라 첫 200자가 관건. 일반적 자기소개 대신 "나는 누구의 어떤 문제를 어떤 방식으로 풀어온 사람인가"에 답해야 함
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
 * [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
   * [hsol.github.io](https://github.com/hsol/hsol.github.io)
