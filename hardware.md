@@ -121,12 +121,17 @@ Hardware
 * [이길환 - 제목: 엄지손가락 크기 칩이 품은 AI, ‘미미클로’…가격은 단돈 수십 달러 수십 달러짜리 초소형 개발보드... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0EmiTFt1ZSvUVWJuQ9vs7HQTXnpAxB3Y3x4uMseLBKsr1XAfyLeaWgfAhCj6UbKLxl)
 * [AI 경쟁의 다음 승부처, 메모리 계층 구조 | SK하이닉스 뉴스룸](https://news.skhynix.co.kr/ai-competition-next-challenge/)
   * AI 인프라 경쟁의 초점이 순수 연산 성능에서 데이터 저장·이동·활용으로 확장. HBM(가속기)+AI-DRAM(시스템 메모리)+eSSD(스토리지) 3계층 전략, 학습(대역폭) vs 추론(응답성·효율·컨텍스트 유지) 요구 차이, Agentic AI로 데이터 검색·저장 아키텍처 중요성 증대
+* [CXL 메모리 풀링을 통한 AI 메모리 확장 한계 해결 | 삼성반도체 테크 블로그](https://semiconductor.samsung.com/kr/news-events/tech-blog/breaking-ai-memory-limits-with-cxl-memory-pooling/)
+  * CXL 스위치로 여러 메모리 모듈을 통합해 대규모 KV Cache 오프로딩. 멀티 GPU 환경에서 DRAM 대비 약 92% 성능을 유지하며 메모리 용량을 크게 확장—LLM 추론의 KV Cache 병목 해결
 * [스위치 없이 B300 클러스터 구성하기 | Sionic AI](https://blog.sionic.ai/dgx-b300-direct)
   * NVIDIA DGX B300 ConnectX-8 8포트로 스위치 없는 full mesh 직접 연결. DAC 케이블로 비용 1/10, NCCL 커스텀 패치로 멀티 서브넷 분산 학습, 787GB/s(이론값 98%). 2~8대 ~100억원 이하 규모
 * [Cognitum — AI Agent Platform: Seed Device, MCP Tools & Developer SDK](https://cognitum.one/)
   * WASM 런타임·암호화 ID·벡터 스토리지 내장 Seed 하드웨어 + Rust/Node.js/Python SDK
 * [Tiiny AI Inc](https://tiiny.ai/)
   * [(1) 전종홍 - 120B 파라미터 모델을 클라우드 연결 없이 주머니에 넣고 다닐 수 있다면 당장 구입하실 생각이 있으신가요... | Facebook](https://www.facebook.com/1biit/posts/pfbid0WxgebboAwyUMXojQQNxzNJH8NE27wiEppkNYQC64NtojQkT1ukcZfEJdPt14hcnjl)
+* [The Personal AI Computer | Autonomous](https://www.autonomous.ai/computer)
+  * [autonomous-computer: Open-source hardware and software designs for building personal AI computers](https://github.com/autonomous-ai/autonomous-computer)
+  * 로컬에서 AI 모델을 완전 프라이빗하게 돌리는 커스터마이징·오픈소스 하드웨어. 자체 GPU로 3개 모델(AC2/AC4/AC8, 2×RTX 5090~4×RTX PRO 6000) 구성, 클라우드 연결·토큰 비용 없음. CAD·조립·BIOS 설정 공개
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
