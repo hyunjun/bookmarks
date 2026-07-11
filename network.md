@@ -5,6 +5,8 @@ Network
   * 하지만 현실적으로는 모든 노드가 서로 컨넥션을 갖지 않는다
   * 따라서 크기가 작은 네트워크에서는 메칼프의 법칙이 성립하지만, 크기가 커지면 성립하지 않음
   * 일반적으로 노드 수가 많은 네트워크는 [complete graph](https://en.wikipedia.org/wiki/Complete_graph)도 아니고 각 컨넥션이 모두 같은 가치를 갖는것도 아니기 때문
+* [이해창 - 해저 케이블의 지리학 | Facebook](https://www.facebook.com/share/p/1DPHzBqvY8/)
+  * 스타링크 이전까지 대륙간 인터넷 데이터 99%를 담당한 700여 개 해저 케이블의 지정학. 케이블 설치의 경제 원리(사용자 많은 경로), 말라카해협·크리스마스 섬 같은 요충지, 중국 회피 경로 등
 * [How to handle CLOSE_WAIT state](http://docs.likejazz.com/close-wait/)
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
@@ -93,6 +95,8 @@ Network
 * [Fiber in Paris – Part 4 – Packet Loss and BBR to the Rescue – WirelessMoves](https://blog.wirelessmoves.com/2022/06/fiber-in-paris-part-4-packet-loss-and-bbr-to-the-rescue.html)
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
   * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
+* [AI 시대, 데이터를 왜 비행기로 이동할까? 대역폭과 지연시간의 역설 - YouTube](https://www.youtube.com/watch?v=fKwiYdz5CFo)
+  * 안될공학. 데이터가 인터넷이 아니라 비행기로 이동하는 이유—속도가 아니라 지연시간과 대역폭의 차이. 65TB 전송을 예로 인터넷 전송 vs 물리적 운반 비교, AWS Snowball·Azure Data Box·Google Transfer Appliance 사례
 * [서버의 응답을 지연시키는 2가지 외부 요인](https://velog.io/@joosing/2-external-factors-that-can-delay-a-server-response)
 * [칼럼ㅣ네트워크 가용성, 적은 내부에 있다 - CIO Korea](https://www.ciokorea.com/news/251992)
 * [**HTTP/1 to HTTP/2 to HTTP/3 - YouTube**](https://www.youtube.com/watch?v=a-sBfyiXysI)
@@ -375,6 +379,8 @@ Network
 * IPinfo.io [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
 * [IPv4](https://ipv4.dev.sarl/)
   * [Map of the Internet - 인터넷 지도 | GeekNews](https://news.hada.io/topic?id=7808)
+* [AWS 서울 리전의 퍼블릭 IP는 정말 한국 IP일까요? | 심근우](https://www.linkedin.com/posts/gnu-shim_aws-%EC%84%9C%EC%9A%B8-%EB%A6%AC%EC%A0%84%EC%9D%98-%ED%8D%BC%EB%B8%94%EB%A6%AD-ip%EB%8A%94-%EC%A0%95%EB%A7%90-%ED%95%9C%EA%B5%AD-ip%EC%9D%BC%EA%B9%8C%EC%9A%94-aws%EC%9D%98-ap-northeast-share-7481375661094473728-0rW1/)
+  * AWS 서울 리전(ap-northeast-2)은 한국에 있지만 IP는 대부분 미국 등록 대역. IANA→RIR(ARIN 등) 할당 구조상 AWS가 여러 출처(ARIN·레거시 MIT)의 IP를 리전에 원 할당국과 무관하게 배치. "IP 할당 국가"와 "실제 사용 위치"는 다르며, WHOIS 기반 국가 필터링은 더 이상 신뢰 불가—상용 GeoIP(MaxMind ~99.8%)가 낫지만 한계 존재
 
 # Library
 * [네트워크 엔지니어를 위한 '무료' 필수 툴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/268533)
