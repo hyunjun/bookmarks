@@ -2117,6 +2117,8 @@ Docker
     * 로깅이 병목이 되면 안 됨 — 건강 신호를 컨테이너 단위로 분리
 * [Kubernetes Gateway API PoC Research/gateway-PoC/README_ko.md at main · sysnet4admin/Research](https://github.com/sysnet4admin/Research/blob/main/gateway-PoC/README_ko.md)
   * Ingress에서 Gateway API로 마이그레이션을 위한 Gateway 구현체 비교 PoC (Proof of Concept)
+* [쿠버네티스 7개 주요 게이트웨이 기술 검증(PoC) 다시 하기 (feat. Ingress NGINX 은퇴) | 요즘IT](https://yozm.wishket.com/magazine/detail/3837)
+  * 2026.3 Ingress NGINX 지원 공식 종료+IngressNightmare(CVE-2025-1974)로 Gateway API 이전이 시급. 앞선 검증에서 F등급이던 Kong·Traefik을 같은 7종으로 재측정하니 모두 통과—문제는 제품이 아닌 측정 방식·조건. 채점 기준을 처음부터 다시 세운 재측정 기록
 * [오픈소스 ‘인그레스 엔진엑스’ 대안, ‘F5 엔진엑스 인그레스 컨트롤러’ - 데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=207919)
 * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark](https://palark.com/blog/in-place-pod-resizing-kubernetes/)
   * [In-place Pod resizing in Kubernetes: How it works and how to use it | Tech blog | Palark | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_in-place-pod-resizing-in-kubernetes-how-activity-7398830039225683968-FBId)
