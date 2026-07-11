@@ -356,7 +356,13 @@ Finance
 * [OpenStock: Open-source market platform with real-time prices, alerts, watchlists, and AI-generated news](https://github.com/Open-Dev-Society/OpenStock)
   * [OpenStock 기술 구조와 특징 정리 :: 지식의 섬](https://digitalbourgeois.tistory.com/3063)
   * Next.js 15 + React 19 + MongoDB + Finnhub. Command+K 팔레트 검색, TradingView 차트, 히트맵·뉴스, Inngest 워크플로우, Gemini API로 AI 웰컴 메일·데일리 뉴스 요약. Reddit/X 센티먼트 옵션
+* [qlib: An AI-oriented Quant investment platform | Microsoft](https://github.com/microsoft/qlib)
+  * [Qlib Documentation](https://qlib.readthedocs.io/)
+  * Microsoft의 AI 기반 퀀트 투자 플랫폼. 데이터 처리→모델 학습→백테스트→포트폴리오 최적화 전 워크플로 지원, 지도학습·시장 동역학·강화학습 등 다양한 ML 패러다임과 사전 구축 모델·데이터셋 제공. RD-Agent와 통합돼 퀀트 트레이딩 R&D 자동화
 * [QuantMuse: A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management](https://github.com/0xemmkty/QuantMuse)
+* [RD-Agent: LLM-based framework for automating data-driven R&D | Microsoft](https://github.com/microsoft/RD-Agent)
+  * [RD-Agent 공식 사이트](https://rdagent.azurewebsites.net/)
+  * Microsoft. 데이터·모델 중심 R&D 워크플로를 자동화하는 LLM 프레임워크. 퀀트 트레이딩·의료 예측·재무 리포트 분석·Kaggle 대회에 적용, 모델·데이터셋 개선을 반복 제안·구현해 ML 엔지니어링 벤치마크 SOTA 달성. qlib과 통합
 * [SNOWBALL: AI Consensus-based Grid Trading Bot on OKX Exchange](https://github.com/Kimchikilla/SNOWBALL)
   * [Snowball - 다중 에이전트 AI 합의 기반 OKX 그리드 트레이딩 봇 | GeekNews](https://news.hada.io/topic?id=27882)
   * 실시간 변동성 분석으로 그리드 간격 자동 조정. 듀얼 에이전트(운영자·비평가) 합의 모델, 비대칭 만장일치 구조로 불필요한 재시작 최소화. 월 운영비 $3 미만
