@@ -1579,6 +1579,9 @@ Linux
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [ut: A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech](https://github.com/ksdme/ut)
   * [ut — 개발자를 위한 CLI 기반 유틸리티 도구상자 | GeekNews](https://news.hada.io/topic?id=23849)
+* [VPS Audit — security & performance audit for Linux servers](https://vpsaudit.vernu.dev/)
+  * [vps-audit: lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers](https://github.com/vernu/vps-audit)
+  * 의존성 없는 단일 bash 스크립트로 리눅스 서버 자동 감사. SSH 설정·방화벽 상태·로그인 실패 모니터링 등 보안 점검 + 디스크·메모리·CPU 성능 지표, 색상 코드 리포트와 개선 권장 사항 생성
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * [watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 * [Wait4X - Wait for anything!](https://wait4x.dev/)
