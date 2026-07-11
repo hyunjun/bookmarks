@@ -1178,6 +1178,8 @@ Machine Learning
 * [kaggle-study: TIA(Today I Analyzed) - Data Analysis, Kaggle Study](https://github.com/sw-song/kaggle-study)
 * [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
 * [Numerai](https://numer.ai/)
+* [nvidia-kaggle: NVIDIA Kaggle Plugin — agents handle complete Kaggle competition workflows](https://github.com/NVIDIA/nvidia-kaggle)
+  * AI 에이전트가 Kaggle 대회 전 과정을 처리하는 `nvidia-kaggle-skill`. 대회 정보 수집, 우승 솔루션 리서치, 공개 노트북 로컬 실행, 제출까지 자동화. 대회 slug·URL·파일 경로 등 자연스러운 입력 형식 지원
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -1636,6 +1638,11 @@ Machine Learning
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
   * [P MLJAR + Optuna = simple tuning interface (for tabular data) : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/m64xwd/p_mljar_optuna_simple_tuning_interface_for/)
+  * [MLJAR Studio – AI for Data Analysis](https://mljar.com/)
+    * 로컬·프라이버시 중심 데이터 분석 AI. 자연어 질문으로 재현 가능한 Python 코드·시각화 생성, 데이터를 클라우드로 보내지 않고 로컬 실행
+  * [supertree: Visualize decision trees interactively in Jupyter/Colab](https://github.com/mljar/supertree)
+    * [supertree - 디시젼 트리 인터랙티브 시각화 도구 | GeekNews](https://news.hada.io/topic?id=31025)
+    * 노트북 환경에서 결정 트리를 줌·팬·노드 접기·샘플 경로 추적으로 인터랙티브 시각화. scikit-learn·XGBoost·LightGBM·ONNX 지원
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
@@ -1812,6 +1819,9 @@ Machine Learning
   * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
   * [Introducing two new caching commands to replace st.cache!](https://blog.streamlit.io/introducing-two-new-caching-commands-to-replace-st-cache/)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
+* [tabfm: A scikit-learn compatible tabular foundation model for zero-shot classification and regression | Google Research](https://github.com/google-research/tabfm)
+  * [Introducing TabFM: a zero-shot foundation model for tabular data | Google Research](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+  * 하이퍼파라미터 튜닝·피처 엔지니어링 없이 in-context learning으로 단일 forward pass 예측하는 tabular 파운데이션 모델. 수억 개 합성 데이터셋으로 사전학습, JAX·PyTorch 백엔드, scikit-learn 호환. Apache 2.0
 * [TabPFN - One Model, Infinite Predictions | Prior Labs](https://priorlabs.ai/)
   * [TabPFN: Foundation Model for Tabular Data](https://github.com/PriorLabs/TabPFN)
   * [TabPFN - 테이블 데이터를 위한 파운데이션 모델 | GeekNews](https://news.hada.io/topic?id=29719)
