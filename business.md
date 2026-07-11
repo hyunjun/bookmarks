@@ -1166,6 +1166,9 @@ Business
   * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
 * [“성과가 떨어지면 구조를 의심하라” IT 조직의 재편이 필요한 7가지 신호 | CIO](https://www.cio.com/article/4130532/%EC%84%B1%EA%B3%BC%EA%B0%80-%EB%96%A8%EC%96%B4%EC%A7%80%EB%A9%B4-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%9D%98%EC%8B%AC%ED%95%98%EB%9D%BC-it-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%9E%AC%ED%8E%B8.html)
 * [플랫폼 조직을 만들고 성장시키며 정의한 12가지 | 박미정](https://drive.google.com/file/d/1uCAu0e3X7o2Aeq2aCaHe8vYeGJy3vHSJ/view)
+* [조직개편, 왜 늘 실패할까요? 체계적인 조직개.. : 네이버블로그](https://blog.naver.com/job-analysis/224337297378)
+  * [조직개편, 왜 늘 실패할까요? 체계적인 조직개편의 방법 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8-%EC%99%9C-%EB%8A%98-%EC%8B%A4%ED%8C%A8%ED%95%A0%EA%B9%8C%EC%9A%94-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81%EA%B0%9C%ED%8E%B8%EC%9D%98-%EB%B0%A9%EB%B2%95-share-7479746161252192256--a-y/)
+  * 비전·성과목표에서 출발→핵심성공요인(CSF)으로 구조를 묶고→역할에서 과업을, 역량에서 적합한 사람을 선정·배치→소통·지표·리스크 관리로 정착시키는 체계적 조직개편 프레임워크
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
@@ -1838,6 +1841,8 @@ Business
     * 당신이 도움이 필요할 때 내가 얼마든지 곁에서 그 이야기를 들어주겠다
     * 이 모든 과정에서 나는 당신의 선택을 존중하며, 선을 넘지 않도록 노력할 것이다
   * [컨설팅의 비밀: 성공적으로 조언을 주고받는 가이드 — 책 요약](https://readit.site/a/pJdRB)
+* [AAR, 미군이 사용하는 피드백 툴](https://brunch.co.kr/@9ilwonkim/8)
+  * After Action Review(AAR)는 미군이 개발한 피드백 기법. 계획 실행 후 예상 결과와 실제 결과를 비교하는 5단계 질문으로 성공·실패의 원리를 파악하고 문제 돌파 전략을 세움. 군대 밖 조직·팀에도 적용 가능
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
@@ -2016,6 +2021,9 @@ Business
 * [하버드대에서 밝힌 「후회를 멈추기 위한 단 1가지 방법 」 - YouTube](https://www.youtube.com/watch?v=bhopRTsUjis) 결정 방식을 결정하라
 * [인생의 중요한 갈림길에서 후회 없는 선택을 내리는 심리학적 방법 | 이동귀 연세대 교수 | 인생질문 346회 - YouTube](https://youtube.com/watch?v=qaSbN4QWcZY)
   * 이동귀 연세대 심리학과 교수, 『나는 왜 결정이 두려운가』 저자. '결정 장애'의 진짜 원인—이성 vs 감성 이분법 부정, 정보 과잉이 뇌를 마비시키는 메커니즘. 의외의 특징(완벽주의·자존감·책임감 과잉)과 행동 시작 법칙. 주식 손절매를 못하는 이유, "나쁜 선택이 나쁜 나를 의미하지 않는다"
+* [How to make better decisions than 99% of people](https://conductlab.substack.com/p/how-to-make-better-decisions-than)
+  * [How to make better decisions than 99% of people | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_how-to-make-better-decisions-than-99-of-share-7481214363295711232-LJeT/)
+  * 훌륭한 의사결정은 타고난 지능·용기가 아니라 훈련된 필터와 방법론에서 나온다는 주장. 아마존 창업 사례를 들어—①미래의 후회를 막는 체계적 필터 ②지속적 훈련·습관으로 기를 수 있는 스킬 ③매일의 수많은 선택 중 향후 10년을 좌우할 소수의 결정을 식별하는 규율
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -2258,6 +2266,8 @@ Business
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
 * [신수정의 리더십 코칭 ① 리더라면 갖춰야 할 '무시당할 용기'](http://www.ttimes.co.kr/view.html?no=2020021310187718217)
 * [신수정의 리더십 코칭 ⑨ 전문가는 자신이 움직이고 리더는 타인을 움직인다 - T Times](http://www.ttimes.co.kr/view.html?no=2020040814187746617)
+* [착한 리더요? 팀원들은 다들 무시해요 직원들이 스스로 일하게 만드는 리더의 단 1가지 특징 (전 KT 부사장 신수정) - YouTube](https://youtube.com/watch?v=eThtMAvTML8)
+  * 커리어데이. 『최소한의 경영학』 저자 신수정. 처음 리더가 된 사람을 위한 조언—동기부여는 미신, 사람이 아닌 설계와 규칙이 팀원을 스스로 움직이게 함, 목표까지 가게 하는 최소한의 가이드라인, 선한 사람이 되려다 무시당하는 함정
 * [누구나 한마디씩 할수 있는 분야가 진짜 어려운 영역이다--부제. 로켓 사이언스보다 people management가 더 어렵다](https://www.linkedin.com/posts/soojung-shin-30398b75_%EB%88%84%EA%B5%AC%EB%82%98-%ED%95%9C%EB%A7%88%EB%94%94%EC%94%A9-%ED%95%A0%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B6%84%EC%95%BC%EA%B0%80-%EC%A7%84%EC%A7%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%98%81%EC%97%AD%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EB%A1%9C%EC%BC%93-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EB%B3%B4%EB%8B%A4-activity-7022406909487972352-oJdi/)
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
@@ -4690,6 +4700,8 @@ Business
 * [The founder's playbook: Building an AI-native startup | Claude Anthropic](https://claude.com/blog/the-founders-playbook)
   * [고영혁 - Anthropic이 발표한 The Founder's Playbook 36슬라이드 정리 | Facebook](https://www.facebook.com/Dylan.Y.Ko/posts/pfbid035Pny8qtfiovLUjzMSnD2vwdbau7CmBJGqPr8HW8V6MrXa2tcF323uhFc7ctkjBD4l)
   * Anthropic이 2026.5.14 공개한 AI-native 스타트업 가이드. 4단계(Idea/MVP/Launch/Scale) 재구성, 단계별 목표·실패 모드·AI 활용 연습. Claude 표면 선택(Chat 빠른 작업/Cowork 리서치·문서/Code 소프트웨어). Idea: Problem-Solution Fit—Claude를 devil's advocate로. MVP: agentic 기술 부채·스코프 크리프 관리, CLAUDE.md 아키텍처 파일. Launch: 창업자 병목 회피, SOC 2/GDPR 준비. Scale: 도메인 지식 AI 컨텍스트·데이터 플라이휠·워크플로우 락인 해자. "병목은 만들 수 있는 것이 아니라 무엇을 만들지 선택하는 것". Ambral·Anything·Carta Healthcare·HumanLayer·Vulcan Technologies 사례
+* [Hun Lee - 런던 금융중심가에서 한식업을 시작한 이유 | Facebook](https://www.facebook.com/share/p/1Gh5SzTJ1b/)
+  * 삼성전자 유럽총괄 마케팅디렉터 출신 이강헌의 런던 한식당 창업기. 당시 한식당 비빔밥이 5파운드에 무한 반찬·셀프 물로 저가 소비되던 현실에 답답함을 느껴, 일식·중식 대비 저평가된 한식의 가치를 높이려 창업
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
