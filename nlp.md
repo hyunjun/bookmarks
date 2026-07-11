@@ -5782,6 +5782,8 @@ NLP
   * [Welcome! | Pipecat](https://pipecat.ai/)
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
   * [Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech | GeekNews](https://news.hada.io/topic?id=17564)
+* [pocket-tts: A TTS that fits in your CPU (and pocket) | Kyutai Labs](https://github.com/kyutai-labs/pocket-tts)
+  * CPU 실행 최적화 100M 파라미터 경량 TTS. 첫 청크까지 ~200ms 저지연, 다국어·음성 복제·스트리밍 출력, GPU 불필요
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
 * [Qwen2-Audio: The official repo of Qwen2-Audio chat & pretrained large audio language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen2-Audio/)
 * [Qwen3-ASR: Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction](https://github.com/QwenLM/Qwen3-ASR)
