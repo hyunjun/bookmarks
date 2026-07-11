@@ -40,13 +40,16 @@ Art
 * [일본의 만화 편집부 데스크는 어떤 기준으로 작화를 보는가?](http://criticm.com/?p=5523)
 * [기사 - 슬램덩크학(學)개론 1 : 그 시절, 우리는 모두 강백호였다](https://www.ddanzi.com/ddanziNews/808919829)
 * [합본 인간의 정신은 허상인가?ㅣ전설의 SF명작 『공각기동대 (1995)』 끝장해석 몰아보기 - YouTube](https://www.youtube.com/watch?v=bozsqbYlYkQ) ego vs. bundle theory
-
-# Web Comic
 * [15년차 웹툰 작가가 말하는 웹툰 산업이 잘될 수밖에 없는 이유 - YouTube](https://www.youtube.com/watch?v=1xLauW7yhLg)
   * 웹툰 산업이 급속한 성장을 경험, 그 성공 요인 중 하나는 작품들이 제공하는 카타르시스
   * 작품의 제목이 시청자가 기대하는 내용을 담고 있어야 한다고 믿으며, 이를 제목이 로그라인 역할을 하는 것
   * 회귀, 빙의, 환생 등의 주제가 자주 사용되는 이유는 현실에서 인정받지 못하는 사람들이 이 세계에서 능력을 발휘할 수 있는 삶을 살고 싶어하기 때문
   * 이러한 주제들이 시청자들이 자신의 삶을 긍정적으로 바라볼 수 있도록 도와준다고 강조
+
+# Architecture
+* [야외 나무교실이 있는 대만 중펑국민소학교 | 김성원의 학교건축 블로그](https://blog.naver.com/coffeetalk/224335214875)
+  * [Seongwon Kim - 대만 중펑국민소학교 | Facebook](https://www.facebook.com/share/p/18v9BYRHkf/)
+  * 세 그루의 오래된 마호가니 나무 사이로 흰색 그물망이 물결치는 야외 나무교실. 자갈밭에서 완만히 떠올라 나무 밑동을 감싸며 언덕처럼 부푸는 바닥 등 자연과 어우러진 학교 건축 사례
 
 # Design
 * [반드시 지켜야 할 UI 디자인의 7가지 법칙](http://ppss.kr/archives/27027)
