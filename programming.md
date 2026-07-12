@@ -5797,6 +5797,8 @@ Programming
 * [CrowdSec - Curated Threat Intelligence Powered by the Crowd](https://www.crowdsec.net/)
   * [crowdsec: Crowdsourced security suite. Open source detection engine + crowd-powered IP intelligence to defeat mass-exploitation](https://github.com/crowdsecurity/crowdsec)
   * 100K+ 사용자·190+ 국가에서 일평균 15M 신호로 악성 IP 식별. fail2ban 영감, Go 재작성. 로컬 행동 탐지(Security Engine)+커뮤니티 신호 공유 CTI. 95% 대량 공격 사전 차단·36% 독점 정보·경쟁사 대비 7-60일 빠른 IP 식별·0% false positive 주장. 5컴포넌트: Blocklists/Security Engine/CTI/Console/Live Exploit Tracker. honeypot 대신 실제 프로덕션 서버 신호 사용. AGPLv3, 오픈소스 + 유료 콘솔
+* [CTI-2026-0708-KAKAO: "카카오톡 소스코드를 팝니다" — 다크웹 판매 주장과 표적의 정체](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT/blob/main/CTI-2026-0708-KAKAO_KR.md)
+  * Dennis Kim/HoKwang Kim의 위협 인텔리전스 리포트(TLP:GREEN). "ExtortionLord"가 다크웹에 카카오톡 소스코드·내부망·DB 판매를 주장했으나, 공개된 저장소 명명 규칙(zigzag·ks)이 실제 표적은 카카오스타일의 지그재그임을 시사. 미검증 전제 아래, 개인정보 유출과 달리 소스코드·인프라 유출은 "설계도와 열쇠"의 유출로 후속 공급망 공격의 재료가 됨을 분석
 * [DeepZero: Find zero-days while you sleep. Automated vulnerability research framework for Windows kernel drivers](https://github.com/416rehman/DeepZero)
   * Windows 커널 드라이버 수천 개를 AI 에이전트로 파싱·디컴파일·분석해 익스플로잇 가능한 IOCTL을 네이티브로 찾는 자동 취약점 연구 프레임워크
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
