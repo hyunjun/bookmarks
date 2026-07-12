@@ -3122,6 +3122,8 @@ CVPR2016)
   * [Text to Video: Early Access - YouTube](https://www.youtube.com/watch?v=mYjfIc9xw90)
 * [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0)
   * [Seedance 2.0 정식 출시: 멀티모달 영상 생성의 새로운 기준](https://digitalbourgeois.tistory.com/2790)
+* [Sketch2Motion: convert photo or sketch to motion video](https://github.com/leeyeel/Sketch2Motion)
+  * 사진·낙서·스케치를 SVG 벡터로 변환한 뒤 Manim으로 그려지는 애니메이션 MP4로 렌더링. 애니메이션 길이·스타일(linear/smooth/there_and_back/wiggle)·스케일 조절, Gradio 웹 UI 제공. Python
 * [Sora](https://openai.com/sora)
   * [발표자료 - Google Drive](https://drive.google.com/drive/folders/1DlqsySJGzkeSGFomn__4Kugok1v6-Xrb)
     * [발표자료 - OpenAI Sora 살짝 보기](https://www.notion.so/1003/Sora-14610884387e49ceaf3b08604adbb70a?pvs=4#325fb8b611f34e7aaa09858c77a92998)
