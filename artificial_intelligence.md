@@ -3606,6 +3606,10 @@ Artificial Intelligence
     * AI를 도입하기는 했지만 얼마나 효과적인지 몰라 DX와 같이 데이터를 측정하며 AI 도입 전략을 정밀하게 수립하고 추진
 * [AI 에이전트와 잘못된 생산성 지표 | ITWorld](https://www.itworld.co.kr/article/4136313/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%99%80-%ec%9e%98%eb%aa%bb%eb%90%9c-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%a7%80%ed%91%9c.html)
   * 하루 1,800건 커밋 같은 지표는 기술 부채의 대량 생산일 수 있음. 코드 작성이 아닌 검증·통합·시스템 이해가 진정한 병목. DORA 메트릭 등 실제 비즈니스 성과 지표 활용 권장
+* [Writing Code vs. Shipping Code: Productivity Effects Across Generations of AI Coding Tools | NBER](https://www.nber.org/papers/w35275)
+  * [박성철 - 많은 회사가 개발자를 코딩 기계로 생각하는 경향 | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02KoVrYQEvSuhFz4M1aMb2ZsooR8qaSSxMCEkx8Cem58UrPJbLwUJd9wC6PH77vFjQl)
+    * 개발자를 코딩 기계로 여겨 "AI 도입=더 많은 코드=더 많은 수익"으로 기대하는 통념에 대한 반론으로 이 NBER 논문을 소개
+  * Demirer·Musolff·Yang(Wharton/MIT). GitHub 개발자 10만+ AI 사용 텔레메트리 매칭 이벤트 스터디. autocomplete·인터랙티브 에이전트·자율 에이전트가 커밋을 각각 40%·140%·180% 늘리지만, 프로덕션 계층을 올라갈수록 급감(커밋 180%→프로젝트 수 50%→실제 릴리스 30%). weak-link 가설—AI의 강한 생산성 향상이 인간 병목에 의해 약화(AI-인간 대체탄력성 0.25로 강한 상보성). 4대 앱 마켓에서도 신규 앱은 소폭 증가하나 총 사용량 증가 없음
 * [AI가 다시 쓰는 소프트웨어 엔지니어링 전문성 | ITWorld](https://www.itworld.co.kr/article/4136233/ai%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EC%93%B0%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A0%84%EB%AC%B8%EC%84%B1.html)
   * AI는 코드 작성 비용을 낮추지만 사고 비용은 낮추지 못함. 실제 티켓에는 모호성과 암묵적 맥락이 존재하며, 시스템 아키텍처 품질이 구현 속도보다 중요. 숙련된 엔지니어의 판단력은 대체 불가
 * [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
@@ -5228,6 +5232,11 @@ Artificial Intelligence
     * [🆓 Matt Pocock Skills 완벽 가이드 - AI 코딩 에이전트 실무 필수 스킬 (30 초 설치)](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Matt-Pocock-Skills-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%A4%EB%AC%B4-%ED%95%84%EC%88%98-%EC%8A%A4%ED%82%AC-30-%EC%B4%88-%EC%84%A4%EC%B9%98-1)
     * [좋은 스킬을 발견하게 되어 공유합니다 | Teo Yu](https://www.linkedin.com/posts/teo-yu_%EC%A2%8B%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B2%8C-%EB%90%98%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-1-%EC%84%A0%EA%B5%AC%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C%EC%97%90-%EC%A0%80%EB%8F%84-share-7457350055386161152-jOL9)
     * 엔지니어링 스킬(`/grill-with-docs`, `/tdd`, `/diagnose`, `/improve-codebase-architecture`, `/triage`, `/to-issues`, `/to-prd`, `/zoom-out`, `/prototype`) + 생산성 스킬(`/grill-me` 결정 트리 해소, `/caveman` 토큰 75% 절감 압축 커뮤니케이션, `/write-a-skill`). 에이전트 4대 실패(오정렬·장황·비기능 코드·아키텍처 퇴화) 대응
+  * [skillstead: Practical, portable skills for agentic coding workflows](https://github.com/kyungseo/skillstead)
+    * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
+    * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
+    * [Fable 5로 Skill 개선 손그림 sketch 프리셋 출시 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=37310132198600524)
+    * 에이전틱 코딩 워크플로용 재사용 스킬 모음. 첫 스킬 svg-infographic—기술 설명에서 편집 가능한 SVG 다이어그램+2× PNG 생성(아키텍처·프로세스 플로·마이그레이션 플랜), CJK 안전 렌더링. 소스 컨트롤로 팀 공유, 레이아웃·치수 검증 체크
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [SuperClaude Framework 공식 사이트](https://superclaude.netlify.app/)
     * [슈퍼 클로드 설치 방법 및 주요 명령어](https://principled-learning-2c9.notion.site/238dc93a597c806c8fe2d77d6bb14238)
@@ -6344,6 +6353,8 @@ Artificial Intelligence
     * AWS OpenSearch→Qdrant 전환기. "지식베이스 1개=컬렉션 1개" 1:1 매핑의 확장성 한계를 운영 경계 기준 통합 컬렉션으로 재구조화. Named vectors(dense+sparse 동시 저장), payload 기반 멀티테넌시, 결정적 point ID로 안전한 재인덱싱. 기능 보유와 품질 입증은 다르다—"4겹 영수증" 사용자 테스트 기준, Neo4j 그래프 검색은 검증 전까지 메인 경로에서 보류
   * [지식을 한곳에 모았더니 누구나 다 볼 수 있었다 — Payload 필터로 RBAC를 다시 세운 이유 :: GS Retail Engineering](https://gsretail.tistory.com/90)
     * 통합 컬렉션 도입으로 사라진 자연 격리를 Qdrant payload 필터 4단계 권한(GLOBAL·BU·TEAM·PERSONAL)으로 재구축. Azure AD 신원 확인+Casbin 정책 엔진+HR 시스템 동기화, 필터 없는 검색을 차단하는 fail-closed 로직. 조직명 매칭이 조직 개편에 깨진 교훈—영구 조직 코드 사용, 접근 제어는 1회 설정이 아닌 지속 유지보수
+  * [사내 지식 AI 만들기 ④·채널 모바일 앱을 또 만들 뻔했다 — 채널은 글로벌 업체를 못 이긴다, 그래서 Thin 플랫폼 :: GS Retail Engineering](https://gsretail.tistory.com/94)
+    * 지식 AI 접근 채널을 자체 모바일 앱으로 만들려다 재고—채널(앱·메신저)은 글로벌 업체를 못 이기니, 얇은(Thin) 플랫폼으로 기존 채널에 얹는 전략 선택
 * [Timescale Vector is PostgreSQL++ for AI applications | Timescale](https://www.timescale.com/ai)
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer) vector DB는 아니고 비용 절감을 위한 대안의 예
