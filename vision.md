@@ -440,7 +440,8 @@ Vision
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
 * [OmniParser](https://microsoft.github.io/OmniParser/)
-  * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상
+  * [OmniParser: A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
+  * GUI 스크린샷 파서, 최근 나온 클로드 Computer Use 같은 GUI 상호작용 에이전트 개발 가능할 걸로 예상. 아이콘 감지·기능 설명으로 UI 스크린샷을 구조화 요소로 파싱해 VLM의 grounded 액션 생성 향상. V2는 GUI grounding 벤치마크 SOTA
 * [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
