@@ -4788,6 +4788,8 @@ NLP
 
 * [**13 Deep Learning Frameworks for Natural Language Processing in Python**](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
 * [자연어 처리(NLP)가 필요하다면?··· 추천 파이썬 라이브러리 8종 - CIO Korea](https://www.ciokorea.com/news/187313) CoreNLP Gensim NLTK Pattern Polyglot PyNLPI SpaCy TextBlob
+* [비정형 공공문서를 AI가 읽게 만들기 — PDF·HWP를 구조화 마크다운으로 재인덱싱하는 법 (관보 12.8만 건 해부)](https://dbhyeong.github.io/blog/parsing-korean-public-docs-pdf-hwp-to-markdown-reindexing)
+  * 관보 12.8만 건 규모의 PDF·HWP 비정형 공공문서를 AI가 읽을 수 있는 구조화 마크다운으로 재인덱싱하는 파이프라인 사례
 * better\_profanity [Day 36 : Remove Cuss Words using Python - YouTube](https://www.youtube.com/watch?v=r9qeg-T_9_s)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [ade-python: Agentic Document Extraction Python Library by LandingAI](https://github.com/landing-ai/ade-python)
