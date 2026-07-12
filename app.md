@@ -307,9 +307,17 @@ App
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
 * [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
   * Kali Linux용 OSINT·정찰 도구 100+ 큐레이션. SOCMINT(소셜), GEOINT(지오로케이션), 네트워크 정찰, 다크웹, 포렌식 등을 원커맨드 설치 스크립트로 번들
+* [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+  * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
+* [Hack Underway Toolkit — 20 open-source OSINT & cybersecurity tools](https://toolkit.hackunderway.com/)
+  * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
+* [huntkit: penetration testing, bug bounty, CTF, red teaming tools in a single Docker image](https://github.com/mcnamee/huntkit)
+  * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
   * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
+* [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
+  * 전화번호 OSINT 조사 Python CLI. Google·GitHub·Numverify·Reddit·DuckDuckGo 등 여러 API를 병렬 검색해 번호 검증·통신사 조회·코드/소셜 검색, JSON·PDF 리포트 자동 생성
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
   * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
