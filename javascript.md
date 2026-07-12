@@ -2975,6 +2975,8 @@ Javascript
   * [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial - YouTube](https://www.youtube.com/watch?v=0fYi8SGA20k)
   * [Bruno's](https://bruno-simon.com/)
     * [단연코 가장 멋진 3D 웹사이트 중 하나 | GeekNews](https://news.hada.io/topic?id=24963)
+  * [Three.js-Object-Sculptor-Codex-Plugin: turns object images into code-only, animation-ready procedural Three.js models](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)
+    * 첨부 이미지 속 오브젝트를 코드로만 만든 애니메이션 준비 완료 procedural Three.js 모델로 재구성하는 Codex 플러그인. 포토그래메트리·메시 추출이 아니라 이미지 검증→객체 기술→지오메트리/머티리얼 분해→블록아웃-디테일 단계 빌드→애니메이션 계층 배선→원본 대비 렌더 비교의 스컬프팅 워크플로우 유도. ObjectSculptSpec 기반, 게임 오브젝트·소품·식물·기계 부품 등에 적합
   * [threejs-skills](https://github.com/CloudAI-X/threejs-skills) Three.js Skills for Claude Code
     * Claude Code에 Three.js 기본 조작 스킬 사전 탑재
     * 10개 Skill 파일로 Scene, Shader, Animation, PostFX 커버
