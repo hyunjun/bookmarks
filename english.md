@@ -61,6 +61,8 @@ English
   * 중요한 인지언어학적 개념, 영상 도식(Image Schema)과 개념적 은유(Conceptual Metaphor)
 * [미국에서 일잘러로 살아남은 영어공부 비법 (전 넷플릭스·메타·틱톡 디렉터 이소라) - YouTube](https://youtube.com/watch?v=_-g35kAt9bU)
   * 캘리쌤 브이로그 영어. 16살 도미 후 넷플릭스·메타·틱톡 디렉터를 거쳐 K뷰티 회사 CEO가 된 이소라의 영어 학습·커리어 인터뷰. 비즈니스 영어 공부법, 문법·자신감·쉐도잉 실전 팁, 한국인을 위한 스몰토크 전략, 연봉 협상·워킹맘 균형까지
+* [How to Explain Anything To Anyone (Even If It's Complex!) - YouTube](https://www.youtube.com/watch?v=Sqh6rt1hN2A)
+  * Vinh Giang. 복잡한 정보·워크플로우·아이디어를 비전문가에게 쉽게 설명하는 CLEAR 프레임워크—Calibrate·Link·Envision·Abstract·Repeat. 어려운 단어·전문용어를 쓰는 건 사실 똑똑해 보이려는 자신감 문제이며 오히려 이해를 방해한다는 지적
 * [allearsenglish.com/episodes](https://www.allearsenglish.com/episodes/)
 * [bbc.co.uk/learningenglish](http://www.bbc.co.uk/learningenglish/)
 * [cnn.com/cnn10](https://edition.cnn.com/cnn10)
