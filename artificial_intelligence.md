@@ -367,6 +367,8 @@ Artificial Intelligence
   * Notion의 Geoffrey Litt(2026 AI Engineer 컨퍼런스 발표). AI가 코드를 더 많이 쓸수록 인간의 "이해"가 새 병목—단순 검증이 아니라 창의적 참여를 가능케 하는 능력. human-in-the-loop 제거가 아닌 "loop 안으로 더 깊이". 이해를 돕는 3가지 기법—퀴즈 내장 코드 설명 문서, 인터랙티브 마이크로월드, 팀 정렬용 공유 공간. Papert·Alan Kay의 교육 원리에 기반
   * [Understanding is the new bottleneck | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_understanding-is-the-new-bottleneck-share-7478909054950678528-KYfB/)
     * 에이전트가 생성한 코드를 이해하는 것이 단순 검증을 넘어 창의적 프로젝트 참여의 핵심. 규모 있는 AI 협업에서 이해를 효율적으로 구축하는 3가지 기법—코드 설명 문서, 인터랙티브 마이크로 월드, 공유 협업 공간
+* [인지부채 - 바이브 코딩 시대의 새로운 부채 관리법 :: ROBOCO](https://roboco.io/posts/cognitive-debt)
+  * 정도현(로보코). 코드는 쌓이는데 이해는 쌓이지 않는 격차가 "인지부채". MIT Media Lab EEG 연구(LLM 사용 그룹의 뇌 연결성·소유감 저하), GitClear 2억 라인 분석(복붙 증가·리팩터링 반감)으로 뒷받침. human-in-the-loop는 사람이 병목·형식적 승인이 되어 실패(Bainbridge의 자동화 아이러니). 산출물 속도가 아니라 이해·정리를 부채로 관리해야 한다는 관점
 * [OpenAI 연구원이 공개한 프롬프트 한 줄 - YouTube](https://www.youtube.com/watch?v=xyTPUdJhxLM)
   * 미드나잇 로그. 고교 중퇴 후 ChatGPT로 독학해 OpenAI 연구원이 된 사람의 학습법—AI에게 "대신 해줘"가 아니라 "가르쳐줘"로 묻고, 코드는 한 줄 한 줄 다 읽기. 지식은 더 이상 병목이 아니며(기초는 AI가 제공), "12살한테 설명하듯" 프롬프트로 기초를 빠르게 이해
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
@@ -829,6 +831,9 @@ Artificial Intelligence
   * 로컬 실행, 외부 DB 불필요. AI 코딩 에이전트용 영구 메모리 벤치마크 1위. LongMemEval-S R@5 95.2%(mem0 68.5%·Letta 83.2% 대비), 240 observations 22K+ 토큰→1,900 토큰 92% 감소. 트리플 스트림(BM25+Vector+Graph RRF)+한국어/CJK 분할. 4-tier 메모리(Working→Episodic→Semantic→Procedural, sleep consolidation 영감). 51 MCP 도구, 임베딩 자동 감지(로컬 무료~Gemini/OpenAI/Voyage/Cohere/OpenRouter), port 3113 라이브 뷰어(지식 그래프·세션 재생). iii 엔진 기반, Postgres/Redis 불필요
 * [Agent-Memory-Paper-List: AI 에이전트 메모리 연구 논문 큐레이션](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
   * 형태(토큰/파라메트릭/잠재), 기능(사실/경험/작업), 동태(형성/진화/검색) 분류 체계
+* [agentOS — Secure operating system without a sandbox](https://agentos-sdk.dev/)
+  * [agentos: A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in](https://github.com/rivet-dev/agentos)
+  * Rivet의 경량 에이전트용 OS 라이브러리. 컨테이너·VM 없이 파일시스템·네트워킹·bash·Python·Node 제공, 격리된 Linux VM에서 코딩 에이전트 실행+에이전트 오케스트레이션 내장. 샌드박스보다 빠르고 가볍고 저렴. Rust, 3.8k stars
 * [AGENTS.md](https://agents.md/)
   * [바이브 코딩 시대의 정석: 에이전트용 프롬프트부터 설계하라](https://www.facebook.com/lsszz1/posts/pfbid0Cf9VWSPGp5ffGsdKYBASbE2jsg8n3PuY4LofPn7nnsFfknYfjwDte15Ge2Vm79Nil)
     * 실제 코딩 전에 모델에게 먼저 다음 문서를 생성하게 할 것
@@ -1123,6 +1128,10 @@ Artificial Intelligence
   * LongMemEval 96.6% 최고점. 요약 없이 원문 그대로 ChromaDB에 저장, 궁전 비유(Wing→Room→Hall→Drawer)로 계층적 구조화하여 검색 34% 향상. 지식 그래프(SQLite 시간 기반 엔티티), AAAK 손실 압축, MCP 통합(Claude/ChatGPT/Cursor/Gemini). MIT 오픈소스
 * [memsearch: Cross-platform semantic memory for AI coding agents](https://github.com/zilliztech/memsearch)
   * Claude Code/OpenClaw 등 에이전트용 Milvus 벡터 DB 기반 하이브리드 검색
+* [Memvid — Memory layer for AI Agents](https://memvid.com/)
+  * [memvid: Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer](https://github.com/memvid/memvid)
+  * [Memvid란 무엇인가? AI 에이전트를 위한 단일 파일 기반 장기 메모리 시스템 완벽 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3382)
+  * 데이터·임베딩·검색 인덱스·메타데이터를 하나의 파일에 저장하는 서버리스 단일 파일 AI 메모리 계층. 별도 벡터 DB·RAG 파이프라인 없이 즉각적 검색과 장기 메모리 제공, 인프라 복잡도·운영 비용 절감. Rust, 16k stars
 * [Mercury — Soul-Driven AI Agent with Permission Guardrails | Cosmic Stack](https://mercury.cosmicstack.org/)
   * [mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access](https://github.com/cosmicstack-labs/mercury-agent)
   * TS/Node.js 백그라운드 데몬, 31개 내장 도구, 스킬 시스템, CLI+Telegram 멀티 채널. 커스터마이즈 가능한 마크다운 "soul files"로 성격 설정, 자동 메모리 시스템, 폴더 레벨 권한 스코프. DeepSeek/OpenAI/Anthropic/Ollama 지원, cron 스케줄, SQLite 로컬 저장
@@ -3320,6 +3329,14 @@ Artificial Intelligence
 * [Yongbeom Kim - AI 생산혁명론 | Facebook](https://www.facebook.com/share/p/1CiJzKyrRo/)
   * AI를 단순한 기술혁명이 아니라 생산혁명으로 봄. 생산혁명이 산업구조를 넘어 거시경제의 균형을 바꾸고 마침내 국가의 성격까지 다시 정의한다는 가설로 흩어진 생각들을 종합
 * [이미 AI 흐름이 정말 크게 변화되고 있습니다 (OpenAI·Anthropic) | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4%EB%AF%B8-ai-%ED%9D%90%EB%A6%84%EC%9D%B4-%EC%A0%95%EB%A7%90-%ED%81%AC%EA%B2%8C-%EB%B3%80%ED%99%94%EB%90%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-openai-anthropic-share-7480694651725819904-6VOd)
+* [AI 답변값이 90분의 1이 됐는데, HBM은 왜 더 중요해질까? | nahz.org](https://nahz.org/posts/ai-token-price-war/)
+  * AI 토큰 가격 전쟁 분석. 중국은 알고리즘·싼 전력으로 토큰 원가를 낮추고 미국은 자본·풀스택으로 버티는 구도. 한국은 HBM 공급국에서 국산 NPU·서비스까지 잇는 연산 생태계 보유국으로 올라가는 전환기라는 관점
+* [탈락한 네이버가 가장 크게 버는 국가대표AI 구조 | nahz.org](https://nahz.org/posts/korea-national-ai/)
+  * 한국 국가대표AI는 모델 성능 대회가 아니라 독파모(모델)와 모두의 AI(추론 서비스) 두 개의 게임. 진짜 승부는 추론 원가·공급·가동률에서 갈리고, 가장 안정적인 자리는 우승팀이 아니라 칩·데이터센터·전력을 모든 진영에 파는 공급자라는 분석
+* [Solar Open 2, 딥시크와 맞붙을 한국 AI의 첫 세계전 | nahz.org](https://nahz.org/posts/solar-open2-cerebras)
+  * 업스테이지가 Cerebras와 공동 개최한 발표회에서 두 번째 독자 파운데이션 모델 Solar Open 2(250B) 공개. 벤치마크 점수보다 에이전트·추론 속도·국산 인프라를 강조한 행사 구성 분석
+* [망분리의 빗장을 연 건 보안이 아니라 AI였다 | nahz.org](https://nahz.org/posts/network-separation-n2sf/)
+  * 망분리(N2SF) 재조명. 20년 전 두 번의 국가적 재앙에서 인터넷을 끊어둔 곳만 살아남아 도입됐으나, 너무 잘 작동해 아무도 그 안을 다시 보지 않게 됨. 이 빗장을 다시 열게 만든 동인이 보안이 아니라 AI라는 논지
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3520,6 +3537,9 @@ Artificial Intelligence
   * IICL(Involuntary In-Context Learning): few-shot 패턴 완성 태스크에 악성 지시를 숨겨 안전 정렬 우회. 17개 벤더 100 (모델, 추론모드) 조합·24,956개 프롬프트·10개 서브 기법 평가. Anthropic Claude 15개 전부 0% 우회, OpenAI 추론 모델·Gemini 3 Pro 0%, Mistral 전체 94~100% 우회로 최악. 추론 활성 9.2% vs 비추론 39.4%(약 4배 방어 효과)로 추론 자체가 IICL 방어 메커니즘 시사. 컨텍스트 윈도우/ICL 최적화가 강점이자 공격면이 되는 역설
 * [ToxicSkills: Malicious AI Agent Skills on ClawHub | Snyk](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/)
   * Snyk이 ClawHub·skills.sh의 스킬 3,984개 감사. 13.4%(534개)가 critical 이슈, 36.82%(1,467개)가 결함 보유, 악성 페이로드 76개 확인(자격증명 탈취·백도어·데이터 유출). 확인된 악성 스킬 100%가 악성 코드 패턴, 91%가 프롬프트 인젝션 병행. npm/PyPI 초기와 유사하나 스킬은 시스템·자격증명 전체 권한 상속으로 위험 가중
+* [GPT-Red: Unlocking Self-Improvement for Robustness | OpenAI](https://openai.com/index/unlocking-self-improvement-gpt-red/)
+  * [GPT-Red란 무엇인가? AI를 더 안전하게 만드는 자동 레드팀 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3378)
+  * OpenAI의 자동화 AI 레드팀 시스템. 사람이 아닌 AI가 self-play로 다른 AI를 공격해 새 취약점(특히 웹·이메일·코드·파일 등 외부 데이터를 다루는 에이전트의 프롬프트 인젝션)을 발견하고, 이를 학습에 반영해 안전성·정렬·견고성을 높이는 기술
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
@@ -4338,6 +4358,9 @@ Artificial Intelligence
     * [코딩 없이 구글 Antigravity로 'AI 주식 자동 분석 앱' 만드는 법 (무료)](https://livewiki.com/ko/content/google-antigravity-ai-stock-app)
   * [구글 안티그래비티: 디자이너의 창작 놀이터](https://brunch.co.kr/@ghidesigner/393)
   * [딸깍! 안티그래비티로 네이버API 사용해서 비즈니스 보고서와 대시보드 만들고 무료 배포하기 - YouTube](https://www.youtube.com/watch?v=C8WxCXHSiko)
+  * [The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits | DEV Community](https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e)
+    * [AI Studio에서 Antigravity로 Export, 정말 한 번의 클릭이면 충분할까? | digitalbourgeois](https://digitalbourgeois.tistory.com/3368)
+    * Google이 I/O 2026에서 공개한 'Export to Antigravity'(AI Studio 멀티 에이전트 프로토타입을 로컬 워크스페이스로 이전) 기능을 Research Digest 프로젝트로 직접 검증. 무엇이 정상 이전됐고 어떤 부분(히스토리 누락·워크스페이스 핸드오프 버그)이 기대와 달랐는지, export 이후 실제 개발에서 발견한 문제와 해결 과정 정리
   * [antigravity-awesome-skills: The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel](https://github.com/sickn33/antigravity-awesome-skills)
 * [Aperant — Software that builds itself](https://aperant.com/)
   * 자율형 AI 코딩 플랫폼. 멀티 에이전트 파이프라인으로 아키텍처 설계→테스트→배포→유지보수 전체 라이프사이클 자동화. 코딩 관례와 아키텍처 결정사항 자동 학습
@@ -4363,6 +4386,8 @@ Artificial Intelligence
   * [axonhub](https://github.com/looplj/axonhub)
   * 하나의 API로 100+ LLM 호출, sub-100ms 페일오버, RBAC, 실시간 비용 추적. OpenAI/Anthropic/Gemini 호환
 * [bchat: bchat is a lightweight, fully local Python utility for capturing AI-powered CLI chat logs from Visual Studio Code (and potentially Cursor-compatible). Designed for simplicity, it requires no external platforms or complex dependencies, making it easy to adapt to your environment](https://github.com/Nyrk0/bchat)
+* [best-ai-and-llm-engineering-resource: Best AI & LLM Engineering Resources](https://github.com/javabuddy/best-ai-and-llm-engineering-resource)
+  * AI·LLM 엔지니어링 학습 리소스 큐레이션 모음
 * [bkit - Vibecoding Kit](https://www.bkit.ai/)
   * [바이브코딩의 근본 문제들을 해결해주는 도구 bkit | AI 인공지능 클로드코드 - YouTube](https://www.youtube.com/watch?v=EZwffHVx05U)
     * [바이브 코딩 근본 문제 해결 도구 bkit, AI 클로드 코드 활용 노하우](https://livewiki.com/ko/content/bkit-ai-claude-code)
@@ -5680,6 +5705,7 @@ Artificial Intelligence
   * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
 * [grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible](https://github.com/xai-org/grok-build)
   * [Grok Build 오픈소스 공개, 터미널 기반 AI 코딩 에이전트의 구조와 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3380)
+  * [🆓 SpaceXAI Grok Build, 84만 줄 Rust 오픈소스 AI 코딩 에이전트 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-SpaceXAI-Grok-Build-84%EB%A7%8C-%EC%A4%84-Rust-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * xAI(SpaceXAI)의 터미널 기반 코딩 에이전트 하네스·TUI. 풀스크린·마우스 인터랙티브·확장 가능. Rust, 16k+ stars
 * [happy: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
   * [Happy - Claude Code Mobile Client](https://happy.engineering/)
@@ -6434,6 +6460,9 @@ Artificial Intelligence
 * [(1) 류내원 - 얀 르쿤 "5년 내 LLM 한계…AI의 다음 혁명은 월드 모델" (출처: 뉴스) 현재 AI 모델은 세계를... | Facebook](https://www.facebook.com/story.php?story_fbid=24784508421171891&id=100001182289254)
 * [구글이 이걸 푸네요… HBM 더 폭증 | 월드모델 Genie 3 사용자들 경악 | 월드 모델은 LLM과는 아예 다른 경쟁 기준이 됩니다 - YouTube](https://www.youtube.com/watch?v=JIhQ-30VASQ)
   * [구글 딥마인드 Genie 3 출시: HBM 병목 및 LLM과 다른 월드 모델 경쟁 기준 분석](https://livewiki.com/ko/content/google-hbm-world-model-genie)
+* [This new AI model thinks in images, not just words | Fast Company](https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words)
+  * [AI는 이제 언어가 아닌 이미지를 이해한다? Elorian AI가 제시하는 차세대 AI 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3374)
+  * ex-Google Brain·DeepMind 연구자 Andrew Dai가 설립한 Elorian. 언어 중심 LLM만으로는 AGI에 도달하기 어렵고, 사람처럼 이미지를 직접 이해·추론하는 능력이 빠른 지능 향상의 근본이라는 관점. 이미지로부터 학습·사고하는 차세대 모델 접근
 * [2510.04542 Code World Models for General Game Playing](https://arxiv.org/abs/2510.04542)
   * [Tae Hyung Kim - 최근 구글 딥마인드가 발표한 논문을 보면 AI 연구의 방향을 근본적으로 바꿔놓을 만한... | Facebook](https://www.facebook.com/socialego/posts/pfbid02ULwgYgMDTT8Po4MyyRBiwnWRmmbUrjwPGDScpKQu7ZkEpenX3bgEB9kAA4CFPCFGl)
     * AI는 인간이 제공한 텍스트 정보를 바탕으로, 파이썬 코드 형태의 ‘코드 월드 모델(Code World Model)’을 합성
