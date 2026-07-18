@@ -2748,6 +2748,9 @@ NLP
 * [Beyond Chat: Bringing Models to the Canvas • Lu Wilson • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=pSTOENRgt7g)
 * [Lily Xu-Traditional AI + LLMs to Automate Complex and Critical Docs in Healthcare-PyData Boston 2025 - YouTube](https://www.youtube.com/watch?v=Pumn_YLgQ6M)
 * [Zvi Topol-Uncertainty-Guided AI Red Teaming- -PyDatsa Boston 2025 - YouTube](https://www.youtube.com/watch?v=qogkcFjPawQ)
+* [🔥월 $3로 qwen3.5-plus, glm-5, kimi-k2.5, MiniMax-M2.5까지! (알리바바 클라우드 AI Coding Plan) | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5%EC%9B%94-3%EB%A1%9C-qwen35-plus-glm-5-kimi-k25-MiniMax-M25%EA%B9%8C%EC%A7%80)
+  * 월 $3부터 시작하는 알리바바 클라우드 AI Coding Plan 소개. qwen3.5-plus·glm-5·kimi-k2.5·MiniMax-M2.5 등 최신 코딩 모델을 거의 무제한 사용, Claude Code·Cline·Cursor와 호환. 프로모션 신청·혜택 비교·Claude Code/WebSearch MCP 설정법 가이드
+* [Gemini 3 Flash, Kimi K2.6, DeepSeek V4 Pro 모델 비교 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_gemini-3-flash-kimi-k26-deepseek-v4-pro-share-7471969450871672834-Bu2S)
 * [practice - LLM이 걸어온 길과 앞으로의 활약 분야](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#c919231604724305884dcf82f4bbee51)
 * [practice - LLM으로 LLM 해킹](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#13008e643f00493492fe6617221bdb25)
 * [practice - LLM Multi Agent - Customer Service 자동화](https://www.notion.so/1003/LLM-859a247f88ab4f4c86af782c98229f27?pvs=4#e33e91c668a04b27a9f61378cacb6b1b)
@@ -3090,9 +3093,15 @@ NLP
     * [🛠️🤖🔓Kimi K2: 오픈소스 에이전트 AI 시대의 개막](https://fornewchallenge.tistory.com/entry/%F0%9F%9B%A0%EF%B8%8F%F0%9F%A4%96%F0%9F%94%93Kimi-K2-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%A7%89)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – Kimi K2: 오픈소스 에이전트 AI 시대의 개막](http://www.umlcert.com/0718-03/)
     * [뉴테크프라임 » My AI Smarteasy와 글 읽기 – 저스틴의 AI 특강 “답만 하는 AI는 가라!” 스스로 일하는 괴물, Kimi K2 완벽 분석](http://www.umlcert.com/0719-02/)
+  * [Kimi K2.5 완전 해부: 비전 기반 코딩부터 Agent Swarm까지, 오픈소스 AI의 새로운 기준 | digitalbourgeois](https://digitalbourgeois.tistory.com/2678)
+    * Moonshot AI의 Kimi K2.5 해부. 기존 K2에 약 15조(15T) 이미지·텍스트 혼합 토큰을 추가 사전학습한 네이티브 멀티모달 오픈소스 모델. 비전 기반 코딩, 자율 Agent Swarm, 대규모 오피스 업무 자동화 세 축으로 확장
   * [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
     * [Kimi K2.6 - 오픈소스 코딩을 위한 새로운 성과 | GeekNews](https://news.hada.io/topic?id=28736)
     * Moonshot AI 오픈소스. 장시간 코딩(Zig 최적화 12시간+, 4,000 툴 호출로 15→193 tok/s), 300개 서브에이전트 스웜, OpenClaw·Hermes 연동 24/7 자율 실행. Rust·Go·Python·풀스택·디자인
+  * [Kimi K3 Tech Blog: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+    * [충격 받았습니다. Fable 5를 이긴 오픈 소스 모델이 나왔습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%B6%A9%EA%B2%A9-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-fable-5-%EB%A5%BC-%EC%9D%B4%EA%B8%B4-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%82%98%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7483608530126831616-lqRa)
+    * [오늘은 GPT-5.6과 Fable 5와 경쟁하는 성능을 지닌 2.8T 크기의 오픈 모델 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_%EC%98%A4%EB%8A%98%EC%9D%80-gpt-56%EA%B3%BC-fable-5%EC%99%80-%EA%B2%BD%EC%9F%81%ED%95%98%EB%8A%94-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A7%80%EB%8B%8C-28t-%ED%81%AC%EA%B8%B0%EC%9D%98-ugcPost-7483675426213556225-nyfm)
+    * Moonshot AI가 공개한 세계 최초 오픈 3T급 모델. 코딩·지식노동·추론 전반에서 프런티어 성능, 네이티브 멀티모달, 1M 컨텍스트. GPT-5.6·Claude Fable 5와 경쟁하는 오픈 웨이트(2.8T) 모델이라는 평가
   * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
     * [2510.26692 Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
     * [와.. 이 논문 정말 뜨겁습니다. Moonshot AI에서 공개한 Kimi Linear가 주목받고 있습니다. Kimi Linear는 기존의 full attention와 linear attention과 결합한 하이브리드 방식을 사용하는 것이 특징인데요. 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현한 점입니다. 예를 들어, 1백만 토큰 디코딩 길이에서 기존 full attention 대비 6.3배 빠르게 디코딩하면서도, MMLU-Pro 성능은 51.0으로 full attention(MLA 모델, 47.2점)보다 높습니다. 기존 선형linear attention은 품질이 떨어져 주류에서 멀어졌지만, Kimi Linear는 속도와 품질 모두를 확보하며 실사용 가능한 수준에 도달한 것으로 보입니다.](https://www.threads.com/@choi.openai/post/DQmJi0Bj44E/%EC%99%80-%EC%9D%B4-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A7%90-%EB%9C%A8%EA%B2%81%EC%8A%B5%EB%8B%88%EB%8B%A4moonshot-ai%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%95%9C-kimi-linear%EA%B0%80-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4kimi-linear%EB%8A%94-%EA%B8%B0%EC%A1%B4%EC%9D%98-full-att?hl=ko)
@@ -3872,6 +3881,8 @@ NLP
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * [OpenRouter](https://openrouter.ai/)
   * [완전 무료 Claude Code를 OpenRouter로 0원 코딩 에이전트 구축하기](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-Claude-Code%EB%A5%BC-OpenRouter%EB%A1%9C-0%EC%9B%90-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+  * [Surpassing Frontier Performance with Fusion | OpenRouter Blog](https://openrouter.ai/blog/announcements/fusion-beats-frontier/)
+    * OpenRouter의 Fusion 소개. 여러 참여 모델의 출력을 판정 모델로 융합하는 단일 API 호출. DRACO 딥리서치 벤치마크 100개 과제에서, 저가 모델 패널을 융합한 결과가 GPT-5.5·Claude Opus 4.8을 능가—패널이 개별 모델을 일관되게 앞서고, 프런티어 패널은 프런티어를 넘어섬
 * [open-webui: User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui)
   * [FREE Local LLMs on Apple Silicon | FAST! - YouTube](https://www.youtube.com/watch?v=bp2eev21Qfo)
   * [Open WebUI : 1. OpenWebUI 란? - YouTube](https://www.youtube.com/watch?v=Qk74tAvJNls)
@@ -5782,6 +5793,7 @@ NLP
 * [parler-tts: Inference and training library for high-quality TTS models](https://github.com/huggingface/parler-tts) 프롬프팅 가이드로 목소리 성향 조절이 가능
 * [pipecat: Open Source framework for voice and multimodal conversational AI](https://github.com/pipecat-ai/pipecat)
   * [Welcome! | Pipecat](https://pipecat.ai/)
+  * 음성·멀티모달 대화형 AI 오픈소스 프레임워크. 실시간 STT-LLM-TTS 파이프라인 구성, 저지연 스트리밍, 다양한 프로바이더·전송(WebRTC/WebSocket) 통합. Python, 13k+ stars
 * PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
   * [Play 3.0 Mini 공개 - 경량, 비용 효율적인 다국어 Text-To-Speech | GeekNews](https://news.hada.io/topic?id=17564)
 * [pocket-tts: A TTS that fits in your CPU (and pocket) | Kyutai Labs](https://github.com/kyutai-labs/pocket-tts)
