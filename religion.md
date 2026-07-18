@@ -78,6 +78,10 @@ Religion
 * [기독교인은 왜 종종 무례할까요? 복음이 그런 건가요?ㅣ김학철 교수ㅣ잘잘법 180회 - YouTube](https://www.youtube.com/watch?v=OkqRYY6dycA) 비유는 잘 와닿지는 않으나 전반적으로 괜찮은 영상
 * [Sanghwan Lee - “많은 성서학자들은 그리스도교가 유대교의 한 종파로 시작하여 성장해왔다고 믿기 때문에,... | Facebook](https://www.facebook.com/sanghwan.lee/posts/pfbid0dcRF1mvAMAEHafSKDDYmzMCA8ZN3uCzH1UywNXfrABbD3NvgRcKMaamuHq72whK1l)
   * 신약성경 연구는 유대적 배경과 더불어 그리스–로마적 배경을 함께 고려하며 이루어져야 한다
+* [김경열 - 현대 유대인들이 짝퉁인 이유 | Facebook](https://www.facebook.com/apelleskim/posts/pfbid0r7TSC9Jm3NoBCjRMvHiPHf47ahFuBVzzdzkdEywmNVkqkTw7zGE1sAPcQAhgdYJ4l)
+  * 기독교인이 아닌 이들도 배려해 쓴 글. 오늘날의 유대인이 성경 속 이스라엘 민족과 같지 않다며, 특히 태극기 부대의 이스라엘 국기 사용을 비판. "여러분이 생각하는 유대인은 바로 그 유대인이 아니다"라는 문제 제기
+* [김성일 - 성경이라고 부르는 책이 있고 (정경·외경·위경) | Facebook](https://www.facebook.com/sikim94/posts/pfbid0wksMGyeC8igppZSv7CmjGhMSSKboUVfCdovrgcRKWvaY5edd1qPgxt8wX5pugSpjl)
+  * 성경이라 불리지만 성경이 아닌 책(외경), 성경인 척하는 책(위경)을 구분하는 글. 정경(canon)·외경(apocrypha)·위경(pseudepigrapha) 세 개념을 분명히 아는 것이 이단 주장에 흔들리지 않는 바른 믿음의 출발점이라는 취지
 * [김성아 - 수업 중에 종종 이런 비유를 하곤 한다. 신학대학을 졸업한 목사들이 거의 예외 없이 각자의 교회를 세우는... | Facebook](https://www.facebook.com/kim.sungah/posts/pfbid02c7bWDS1ArvEi2aJJAStp41Rqjd1YA166FQXtp6ZpWuRuMP7kpbRBQsg8FGDwESovl)
   * 한국 교회나 건축을 언급하지만 결국 사회 시스템의 문제
 
@@ -146,6 +150,8 @@ Religion
 * [꼭 그 길이 아니어도 괜찮습니다 < 다른 길로 간 신학생들 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=304475)
 * [성경적 세계관이라는 말의 오남용 비판 | 심용환](https://www.facebook.com/yonghwan.shim/posts/pfbid02ZXP6xFQH864txjuiNfok6m1u4KusGiY27ypNRKYfksmT9sBZpCZxpfMeD5Hy1w7zl)
   * 한국 교회에서 "성경적 세계관"이 기준·논리·성경적·신학적·지적·역사적 근거 없이 문화적 상투어로 남용되고 있다는 비판
+* [김동은 - 교회가 망가진 진짜 이유 | Facebook](https://www.facebook.com/ddongkimmm/posts/pfbid02YrDac6dvADU5P3kg2m32ysp7XMiRfk8FjnShZojhHHEdSpXuY5U75bUcxzxGZx7vl)
+  * "예수 믿으면 성공한다"는 번영신학이 성경을 거꾸로 읽은 것이라는 비판. 성경은 집요하게 '죽음'을 요구하며 복음은 그 죽음으로 얻은 역설적 승리를 선포하는데, 한국 교회가 이를 성공·번영의 종교로 변질시켰다는 성찰
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
