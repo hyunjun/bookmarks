@@ -2784,8 +2784,10 @@ App
   * [lookatme - 터미널 기반 마크다운 프리젠테이션 도구 | GeekNews](https://news.hada.io/topic?id=4433)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [markdown: A Python implementation of John Gruber’s Markdown with Extension support](https://github.com/Python-Markdown/markdown)
-* [Markdownify](https://tibastral.github.io/markdownify/)
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
+* [Markdownify](https://tibastral.github.io/markdownify/)
+* [markdownify-mcp: A Model Context Protocol server for converting almost anything to Markdown](https://github.com/zcaceres/markdownify-mcp)
+  * PDF·이미지·오디오·PPTX·XLSX·DOCX·웹페이지·YouTube 등 거의 모든 형식을 마크다운으로 변환하는 MCP 서버. Claude 등 LLM 클라이언트에서 도구로 호출. TypeScript
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
