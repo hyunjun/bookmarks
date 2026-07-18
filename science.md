@@ -88,6 +88,8 @@ Science
 * [Lethal conflict after group fission in wild chimpanzees | Science](https://www.science.org/doi/10.1126/science.adz4944)
   * [Oh Hyeunseung - 아마도 올해 최고의 연구 중 하나 | Facebook](https://www.facebook.com/hyeunseung82/posts/pfbid02W2TU5sZ6sA7ew5FaULqF39Q8AnXudMmqYvdHEYgJQQqSxE8VEPQogLCKgWRotnHql)
   * 야생 침팬지 최대 집단의 영구적 분열과 치명적 충돌을 30년 행동 관찰과 네트워크 분석으로 보고. 동물의 영토 분쟁이 인간 내전의 측면을 조명
+* [현대과학이 밝힌 박쥐의 새 사냥, 17세기 그림에 이미 있었다 | 조선비즈](https://v.daum.net/v/20260718004327266)
+  * 이영완 딥사이언스. 얀 브뤼헐 1세의 1611년 유화 '공기'에 새를 물고 있는 박쥐가 그려져 있는데, 도냐나 생물학 연구소가 PNAS(2026.6.29)에서 유럽 큰멧박쥐가 밤중에 공중에서 새를 잡아먹는 행동이 17세기부터 알려져 있었음을 이 그림으로 확인. 미술 작품이 동식물 생태의 기록이 될 수 있음을 보여준 사례
 
 ## Bee
 * [Quest for a Superbee](http://ngm.nationalgeographic.com/2015/05/building-bees/mann-text)
