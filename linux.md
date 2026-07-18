@@ -1467,6 +1467,9 @@ Linux
     * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
   * [sysz: An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 * [hello — helloSystem experimental documentation](https://hellosystem.github.io/docs/)
+* [herdr](https://herdr.dev/)
+  * [herdr is a must use - YouTube](https://www.youtube.com/watch?v=2CR9tDNAzB0)
+    * Academind. 에이전틱 워크플로우 구동에 특화된 터미널 멀티플렉서. tmux보다 단순하면서 여러 AI 에이전트 작업을 병렬로 몰아주는(herd) 데 강점
 * [howdy: 🛡️ Windows Hello™ style facial authentication for Linux](https://github.com/boltgolt/howdy/)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
 * [i3 - improved tiling wm](https://i3wm.org/)
@@ -1752,6 +1755,8 @@ Linux
 * [Make tmux Pretty and Usable - A Guide to Customizing Your tmux.conf](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
   * [tmux를 보기 좋고 사용하기 쉽게 만드는 방법 (2024) | GeekNews](https://news.hada.io/topic?id=28517)
   * prefix 키 변경, 직관적 분할 단축키, 마우스 지원, 상태바 커스터마이징 등 실용적 tmux 설정 가이드
+* [tmux-bridge-mcp: cross-pane AI agent communication via tmux](https://github.com/howardpen9/tmux-bridge-mcp)
+  * tmux 페인을 통해 서로 다른 코딩 에이전트끼리 통신하게 해주는 독립형 MCP 서버. Claude Code·Gemini CLI·Codex·Kimi CLI가 tmux 페인 너머로 대화·협업. TypeScript
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-ide: Turn any project into a tmux-powered terminal IDE with ide.yml config](https://github.com/wavyrai/tmux-ide)
   * [Tmux Cheat Sheet](https://tmux.thijsverreck.com/)
