@@ -3158,6 +3158,12 @@ CVPR2016)
   * [📹🚀🔓Wan2.1: Sora보다 강력한 알리바바의 최강 오픈소스 비디오 AI](https://fornewchallenge.tistory.com/entry/%F0%9F%93%B9%F0%9F%9A%80%F0%9F%94%93Wan21-Sora%EB%B3%B4%EB%8B%A4-%EA%B0%95%EB%A0%A5%ED%95%9C-%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B9%84%EB%94%94%EC%98%A4-AI)
   * [알리바바, '이미지 AI 주권' 선언...Wan2.7 오픈소스 공개 | 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=39388)
     * 이미지 생성·편집 통합 모델 Wan2.7 Image. 캐릭터 개인화, 색상 팔레트 제어, 12개 언어 3,000토큰 텍스트 렌더링, 클릭 편집, 참조 이미지 9장으로 동시 12장 생성. Wan2.7 Image Pro는 4K 출력 지원
+* [Wan-Dancer: Minute-scale Coherent Music-to-Dance Generation](https://humanaigc.github.io/wan-dancer-project)
+  * [2607.09581 Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation](https://arxiv.org/abs/2607.09581)
+  * [Wan-Dancer-14B · Hugging Face](https://huggingface.co/Wan-AI/Wan-Dancer-14B)
+  * [Wan-Dancer](https://github.com/Wan-Video/Wan-Dancer)
+  * [Wan-Dancer 데모 영상 | Facebook](https://www.facebook.com/watch/?v=1329582308908031)
+  * 음악에서 분 단위 길이의 고품질 리듬 댄스 비디오를 생성하는 계층적 프레임워크. 기존 디퓨전 모델이 20초 이후 겪는 시간적 드리프트·정체성 불일치·반복 동작 문제를 해결. 전역 구조와 시간적 연속성 유지. Wan-AI 14B 모델 공개
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
