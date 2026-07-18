@@ -3930,6 +3930,9 @@ Javascript
   * [Bun is up to 20x slower than NodeJS in logic operations - DEV Community](https://dev.to/samchon/bun-is-up-to-20x-slower-than-nodejs-in-logic-operations-305d)
   * [Behind The Scenes of Bun Install | Bun Blog](https://bun.com/blog/behind-the-scenes-of-bun-install)
     * [Bun Install의 비하인드 스토리 | GeekNews](https://news.hada.io/topic?id=23037)
+  * [Zig → Rust porting guide (docs/PORTING.md)](https://github.com/oven-sh/bun/blob/46d3bc29f270fa881dd5730ef1549e88407701a5/docs/PORTING.md)
+    * [이민석 - Bun을 Zig에서 Rust로 포팅 | Facebook](https://www.facebook.com/minsuk.lee0/posts/pfbid02gsEa2HwNzpE6E5f1zHTZNX5ob3a7wUWf9m6sy8eZA6K1zyLNGVZq8Q1LMfG54Yhol)
+    * Bun 코드베이스(약 54만 줄)를 Zig에서 Rust로 포팅하는 공식 가이드. 2단계 전략—Phase A는 컴파일 안 돼도 로직을 충실히 옮긴 `.rs` 초안 작성, Phase B는 크레이트 단위로 컴파일. tokio/rayon/std::fs 금지(Bun이 자체 이벤트 루프·syscall 소유), async fn 금지(콜백+상태 머신), Zig 구조·함수명·필드 순서 유지해 side-by-side 리뷰. AI 코딩 에이전트가 좋아하는 프레임워크
   * [Brisa - The Web Platform Framework](https://brisa.build/)
     * [brisa: The Web Platform Framework](https://github.com/brisa-build/brisa)
     * [Brisa - 웹 플랫폼 프레임워크 | GeekNews](https://news.hada.io/topic?id=18842)
