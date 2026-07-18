@@ -61,6 +61,9 @@ Robot
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
   * [로보틱스 및 피지컬 AI 예측: 2026년의 6가지 투자 전망 | GeekNews](https://news.hada.io/topic?id=28932)
   * 로보틱스 현재 GPT-2.5 수준. Goldman Sachs 2035년 380억 달러 시장 전망도 Bessemer는 보수적 판단. 로보틱스 데이터 비용 2년간 30억 달러+
+* [ProtoBot — A Palm-Sized Robot for Makers | Microbots](https://microbots.io/products/protobot)
+  * [Meet ProtoBot: A Palm-Sized Robot for Makers - YouTube](https://www.youtube.com/watch?v=p5PKpLMmyNI)
+  * 메이커·학생·교육자를 위한 손바닥 크기 오픈소스 로봇 플랫폼. 빌드 가이드로 조립 후 폰으로 제어·자동화, Arduino 프로그래밍, 오픈소스 예제로 하드웨어·소프트웨어 커스터마이즈
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
