@@ -2344,6 +2344,9 @@ Javascript
   * [FilterQL - 구조화된 데이터를 필터링 하기 위한 경량 쿼리 언어 | GeekNews](https://news.hada.io/topic?id=23052)
 * [FingerprintJS Pro - Browser fingerprinting and fraud detection API](https://fingerprintjs.com/)
   * [Demo: Disabling JavaScript Won’t Save You from Fingerprinting](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+  * [fingerprintjs: The most advanced free and open-source browser fingerprinting library](https://github.com/fingerprintjs/fingerprintjs)
+    * [Fingerprint on GitHub](https://fingerprint.com/github/)
+    * 브라우저 속성으로 방문자 식별자를 생성하는 오픈소스 라이브러리. 쿠키·로그인 없이 방문자 구분(정확도 40~60%, Pro는 99.5%). TypeScript, 27k+ stars
 * [flagsmith: Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com ](https://github.com/Flagsmith/flagsmith)
   * [Flagsmith - 오픈소스 Feature Flag 서비스 | GeekNews](https://news.hada.io/topic?id=4477)
 * [Foldkit — The frontend framework for correctness (Effect-TS, Elm Architecture)](https://foldkit.dev/)
