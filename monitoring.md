@@ -313,6 +313,7 @@ Monitoring
 * [OpenObserve | Open Source Observability Platform for Logs, Metrics, Traces, and More – Your Ultimate Dashboard for Alerts and Insights](https://openobserve.ai/)
   * [openobserve: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay)](https://github.com/openobserve/openobserve) local 개발환경에서도 구동 가능
   * [OpenObserve - 클라우드 네이티브 관찰(observability) 플랫폼 | GeekNews](https://news.hada.io/topic?id=17416)
+  * 로그·메트릭·트레이스·프론트엔드 모니터링·파이프라인·LLM 옵저버빌리티를 아우르는 오픈소스 플랫폼. Datadog/Splunk/Elasticsearch 대안으로 스토리지 비용 140배 절감, 단일 바이너리 배포. 20k+ stars
 * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)
   * [Osquery: SQL기반의 운영 체제 계측/모니터링/분석 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=13525)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
