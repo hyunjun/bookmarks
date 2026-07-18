@@ -669,6 +669,8 @@ Web
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
 * [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
   * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
+* [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
+  * CLI 웹 스크레이퍼. HTML 파싱·JSON 파싱·클라이언트 JS 평가 3가지 모드, curl 등 기존 도구와 unix 파이프로 확장. 배송 추적·티켓 발매 알림·주가 변동 등 온라인 정보 모니터링. Go, MIT
 * [scraping-apis-for-devs: This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications](https://github.com/cporter202/scraping-apis-for-devs)
 * [social-media-scraping-apis: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more](https://github.com/cporter202/social-media-scraping-apis)
 * [Webclaw — The fastest web scraper for AI agents](https://webclaw.io/)
@@ -1691,6 +1693,8 @@ Web
     * Cloudflare가 2022년 Nginx를 대체하기 위해 Rust로 작성한 HTTP 프록시 서버 Pingora를 오픈소스로 공개
     * Pingora는 HTTP/1, HPTT/2, gRPC, WebSocket 프록시를 지원하고 Pingora 기반으로 서비스를 구축할 수 있는 라이브러리와 API도 제공
   * [Cloudflare Open sources Pingora (NGINX replacement) - YouTube](https://www.youtube.com/watch?v=WpMwuo13-7w)
+* [rota: A high-performance proxy rotation engine with automated IP management and real-time health monitoring](https://github.com/alpkeskin/rota)
+  * Go 기반 프록시 로테이션 플랫폼. 지능형 로테이션 전략, 자동 IP 관리, 실시간 헬스 모니터링, HTTP/SOCKS5 지원. Next.js 대시보드+TimescaleDB 시계열 분석, Docker 배포. 웹 스크레이핑·보안 리서치·부하 테스트용. Apache-2.0
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
