@@ -307,6 +307,9 @@ App
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
 * [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
   * Kali Linux용 OSINT·정찰 도구 100+ 큐레이션. SOCMINT(소셜), GEOINT(지오로케이션), 네트워크 정찰, 다크웹, 포렌식 등을 원커맨드 설치 스크립트로 번들
+* [Bruce — Predatory ESP32 Firmware](https://bruce.computer/)
+  * [firmware: Predatory ESP32 Firmware | BruceDevices](https://github.com/BruceDevices/firmware)
+  * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음. C++, 6k+ stars
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
@@ -316,11 +319,21 @@ App
   * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
   * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
+* [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
+  * [Nettacker: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner](https://github.com/OWASP/Nettacker)
+  * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처. Python, 5.3k stars
+* [PatchaPalooza — analysis of Microsoft's monthly security updates](https://patchapalooza.com/)
+  * [PatchaPalooza: comprehensive analysis of Microsoft's monthly security updates](https://github.com/xaitax/PatchaPalooza)
+  * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
   * 전화번호 OSINT 조사 Python CLI. Google·GitHub·Numverify·Reddit·DuckDuckGo 등 여러 API를 병렬 검색해 번호 검증·통신사 조회·코드/소셜 검색, JSON·PDF 리포트 자동 생성
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
   * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
+* [WireTapper: wireless OSINT tool — passively map Wi-Fi, Bluetooth, CCTV, vehicles, IoT, cell towers](https://github.com/h9zdev/WireTapper)
+  * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화. 1.5k stars
+* [yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone](https://github.com/0x0be/yesitsme)
+  * 이름과 이메일·전화번호로 인스타그램 프로필을 찾는 OSINT 스크립트. 비밀번호 복구 흐름을 활용해 계정 매칭. Python, 2.9k stars
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
@@ -1950,6 +1963,8 @@ App
   * [MacOS 키 입력을 제어해 보자](https://velog.io/@tkgka/MacOS-%ED%82%A4-%EC%9E%85%EB%A0%A5%EC%9D%84-%EC%A0%9C%EC%96%B4%ED%95%B4-%EB%B3%B4%EC%9E%90)
 * [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
   * [macOS 화면 공유(feat. Tailscale)](http://ohyecloudy.com/pnotes/archives/macos-share-the-screen-via-tailscale/)
+  * [시놀로지 외부 접속, 포트포워딩 말고 이거 쓰세요! 더 쉽고 안전합니다. (Tailscale) - YouTube](https://www.youtube.com/watch?v=JFcJQaXqp88)
+    * 서울리안 SEOULiAN. 포트포워딩·복잡한 VPN 설정 없이 시놀로지 NAS 외부 접속을 Tailscale로 구성. 서브넷 라우터로 홈 네트워크 전체 접근, Exit Node로 해외에서 국내 서비스 사용까지
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
@@ -2153,6 +2168,8 @@ App
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * loom [화면 캡처 및 녹화 프로그램 loom(룸) 소개 : 네이버 블로그](https://blog.naver.com/punchkorea/222694330420)
+  * [openscreen: Create stunning demos for free — open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+    * 워터마크·구독 없이 상업용까지 무료인 오픈소스 데모 녹화 도구. Screen Studio 대안. TypeScript, 39k+ stars
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
