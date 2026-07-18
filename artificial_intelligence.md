@@ -1171,6 +1171,10 @@ Artificial Intelligence
   * 작업 생성→에이전트 자동 생성→코드 작성→결과 제출→PR 병합까지 자동화. 개발자는 작업 정의와 검증에 집중
   * [Running OpenAI Symphony with Claude Code](https://www.sapsaldog.com/posts/symphony-with-claude-code)
     * Symphony를 포크하여 Claude Code 백엔드 추가. JSON-RPC 2.0으로 Claude Code 래핑, GitHub Issues 지원, 다중 백엔드 추상화
+* [OpenConnector: Open-source auth gateway connecting 1000+ SaaS providers to AI agents](https://github.com/oomol-lab/open-connector)
+  * [OOMOL — connect your product or AI agents to apps through one managed connection layer](https://oomol.com/)
+  * [OpenConnector로 구축하는 AI 에이전트 커넥터 게이트웨이: 1,000개 이상의 서비스와 10,000개 이상의 액션을 하나의 런타임으로 연결 | digitalbourgeois](https://digitalbourgeois.tistory.com/3381)
+  * OOMOL Lab의 오픈소스 커넥터 게이트웨이. 앱 계정을 한 번만 연결하면 GitHub·Gmail·Notion·Slack 등 1,000+ 서비스와 10,000+ 사전 구축 Action을 AI 에이전트·애플리케이션에서 공통 사용. SDK·CLI·MCP·HTTP·OpenAPI 인터페이스, 인증 정보·실행 로그 관리. Composio 대안. TypeScript, 2.8k stars
 * [openenv (OpenEnv: Agentic Execution Environments)](https://huggingface.co/openenv)
   * [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv)
     * Meta와 Hugging Face가 공개한 OpenEnv는 AI 에이전트 개발 환경 표준화 및 확장성을 목표로 하는 오픈소스 협업 프로젝트
@@ -1368,6 +1372,8 @@ Artificial Intelligence
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
 * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
   * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
+* [Shipping at Inference-Speed | Peter Steinberger](https://steipete.me/posts/2025/shipping-at-inference-speed)
+  * "코드를 읽지 않고 스트림을 지켜본다"는 저자의 2025년 말 업데이트. 이제 소프트웨어 생산량은 추론 시간과 어려운 사고에만 제한되며 대부분 앱은 어려운 사고를 요하지 않음. 무엇을 만들든 CLI로 시작(에이전트가 직접 호출·출력 검증해 루프를 닫음), 중요한 결정은 언어/생태계·의존성 선택(웹=TypeScript, CLI=Go, macOS/UI=Swift). GPT-5 이후 codex를 신뢰하게 된 과정, codex(작성 전 코드를 오래 읽음) vs Opus 비교
 * [Andrej Karpathy: From Vibe Coding to Agentic Engineering - YouTube](https://www.youtube.com/watch?v=96jN2OCOfLs)
   * [안드레이 카파시: 바이브 코딩에서 에이전틱 엔지니어링으로](https://livewiki.com/ko/content/karpathy-vibe-coding-agentic-engineering)
   * [스테이지5 - 안드레이 카파시, 바이브 코딩에서 에이전틱 엔지니어링으로 | Facebook](https://www.facebook.com/stage5/posts/1504300551253766/)
@@ -3313,6 +3319,7 @@ Artificial Intelligence
   * 2026-06-23 발표. Claude Tag는 Slack 채널에 상주하는 always-on 자율 팀원—@Claude 태그로 위임하면 작업을 단계 분해해 스스로 수행. "물어보면 답하는 챗봇 → 도구를 쓰는 진정한 에이전트"(Claude Code를 Slack에 넣은 격). 채널 단위 service identity(개인 권한 아님), 크로스채널 맥락, 조직 청구. 기존 Claude in Slack 대체(2026-08-03 전환), Opus 4.8 기반. Anthropic 제품팀 코드 65%를 내부 버전이 생성
 * [Yongbeom Kim - AI 생산혁명론 | Facebook](https://www.facebook.com/share/p/1CiJzKyrRo/)
   * AI를 단순한 기술혁명이 아니라 생산혁명으로 봄. 생산혁명이 산업구조를 넘어 거시경제의 균형을 바꾸고 마침내 국가의 성격까지 다시 정의한다는 가설로 흩어진 생각들을 종합
+* [이미 AI 흐름이 정말 크게 변화되고 있습니다 (OpenAI·Anthropic) | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%9D%B4%EB%AF%B8-ai-%ED%9D%90%EB%A6%84%EC%9D%B4-%EC%A0%95%EB%A7%90-%ED%81%AC%EA%B2%8C-%EB%B3%80%ED%99%94%EB%90%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-openai-anthropic-share-7480694651725819904-6VOd)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3574,6 +3581,9 @@ Artificial Intelligence
   * Claude Code 기반 보안 자동화 프레임워크. Semgrep/CodeQL 정적 분석, AFL++ 퍼징, LLM 통합(Anthropic/OpenAI/Google/Mistral) 익스플로잇 생성·패치, OSS 포렌식, 9개 전문 보안 페르소나, 실시간 비용 관리. MIT
 * [reverse-SynthID: Reverse-engineering Google's SynthID watermarking](https://github.com/aloshdenny/reverse-SynthID)
   * 스펙트럼 분석으로 SynthID 워터마크 90% 정확도 탐지, 다중 해상도 주파수 도메인 제거(43+ dB PSNR). Google DeepMind 워터마킹 시스템의 취약점 분석
+* [Shannon - AI Pentester by Keygraph](https://keygraph.io/)
+  * [shannon: Shannon is an autonomous, white-box AI pentester for web applications and APIs](https://github.com/KeygraphHQ/shannon)
+  * Keygraph의 자율 화이트박스 AI 침투 테스터. 소스 코드를 분석해 공격 경로를 식별하고 실제 익스플로잇을 실행해 프로덕션 전에 취약점을 증명. 오픈소스 에이전트는 CLI 로컬 실행(Pi Harness 베타), Keygraph는 엔터프라이즈용 지속 에이전틱 펜테스팅 제공. TypeScript, 45k+ stars
 * [ship-safe: CLI security scanner built for the agentic era](https://github.com/asamassekou10/ship-safe)
   * CI/CD 오설정, 에이전트 권한 위험, MCP 도구 인젝션, 하드코딩 시크릿, DMCA 플래그 AI 의존성 탐지
 * [SkillSpector: 설치 전 AI 에이전트 스킬의 취약점·악성 패턴을 평가하는 보안 스캐너](https://github.com/NVIDIA/SkillSpector)
@@ -3648,6 +3658,9 @@ Artificial Intelligence
   * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
 * [IT 회사에서 AI 가 진짜 바꿔놓을 것들](https://seokjun.kim/what-ai-really-changes-it-industry)
   * Claude Max 한 달 사용 경험 기반 AI 시대 IT 업계 변화 분석. PM 역할 축소, 개발자 중심 조직 재편, 디자이너 역할 변화, 팀 구조 수평화, AI 접근성 격차 심화
+* [Migrating a production AI agent to GPT-5.6 | Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
+  * [GPT-5.6 전환으로 2.2배 빨라지고 비용은 27% 절감한 AI 에이전트 운영 사례 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/3377)
+  * 프로덕션 마케팅 웹사이트를 생성하는 Ploy의 에이전트를 Claude Opus 4.8→GPT-5.6 Sol로 전환한 사례. 4개월간 어떤 프론티어 모델도 Opus를 못 이겼으나 GPT-5.6이 처음으로 넘어섬—빌드 시간 절반 이하(2.2배), 비용 27% 절감, 품질 동급 이상. 단순 성능·비용 비교를 넘어 평가 하네스, 도구 인자 채우기·프롬프트 캐싱·추론 재생 등 프로바이더별 가정을 함께 손봐야 했던 과정
 * [What is inference engineering? Deepdive | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering)
   * 추론 엔지니어링 심층 가이드. 하드웨어(NVIDIA GPU), 소프트웨어(CUDA~vLLM), 인프라(오토스케일링), 최적화(양자화, 투기적 디코딩, 캐싱, 병렬화) 7개 영역
 * [As an AI Infrastructure Engineer, Please learn... | Praveen Kumar Verma](https://x.com/Alacritic_Super/status/2072660023340401008)
@@ -3676,6 +3689,8 @@ Artificial Intelligence
   * [테스트 코드가 새로운 해자(Moat)가 되는 시대: AI가 바꾸는 오픈소스 경쟁 전략](https://digitalbourgeois.tistory.com/2817)
   * AI가 코드 복제를 쉽게 만들면서, 좋은 문서·테스트·API 명세가 오히려 경쟁사에 유리하게 작용. SQLite는 92M 줄의 비공개 테스트로 해자 구축. Cloudflare는 Vercel의 공개 테스트를 활용해 Next.js 대체제를 1주 만에 구축한 사례
 * [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills)
+  * [Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind - YouTube](https://www.youtube.com/watch?v=0vphxNt4wyk)
+    * AI Engineer 컨퍼런스 발표. 수천 개 에이전트 스킬 중 대부분이 수동 2회 실행·동료 엄지척으로 "vibe-check"만 하고 배포됨—코드는 테스트 없이 머지하지 않으면서 왜 스킬은 eval 없이 배포하나. 스킬의 정의, 올바르게 트리거되는 스킬 작성법, 사용자보다 먼저 실패를 잡는 경량 eval 하네스 구축법. 에이전트의 비결정성 탓에 실패가 스킬 문제인지 과제 난이도 탓인지 구분이 어렵다는 점 강조
   * AI 에이전트 스킬 체계적 테스트 방법. Gemini API 스킬 통과율 66.7%→100%로 개선한 사례
 * [Introducing SWE-bench Verified | OpenAI](https://openai.com/index/introducing-swe-bench-verified/)
   * OpenAI가 SWE-bench의 평가 견고성 문제를 해결하기 위해 인간이 검증한 500문제 하위집합 SWE-bench Verified 공개
@@ -3768,6 +3783,8 @@ Artificial Intelligence
 * [바이브 디자인 랩 - 디자이너를 위한 아비브 코딩](https://vibedesignlab.net/)
 * [바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기 | 요즘IT](https://yozm.wishket.com/magazine/detail/3774/)
   * 코딩 무경험 디자이너 이키가 Claude로 7일간 900커밋, 문장 채집 앱 "문채" 앱스토어 출시. 3,800줄 단일 파일이 연쇄 버그, 42개 동시 수정으로 검은 화면→Git 롤백 후 최소 `str_replace` 원칙. 카카오/Apple 로그인·동기화·친구·AI 취향 분석·책 표지·Chrome 확장 추가. 비개발자 6 교훈: 무엇을 만들지가 코딩보다 중요/한 번에 많이 바꾸지 않기/AI에게 처음부터 파일 분리 요청/전문가 역할(보안·UX·QA) 반복 부여/테스터 2명이면 충분/약한 아이디어는 빠르게 폐기. 비용 Apple 개발자 12.9만원/년+Claude Max+호스팅
+* [무료 로컬 LLM 모델 TOP5 내 PC에서 공짜로 돌리기 - YouTube](https://www.youtube.com/shorts/4fmdeK2Hf6I)
+  * AI INFO MAP. RTX 3060급 GPU나 맥에서 API 비용 없이 돌리는 오픈웨이트 5종을 용도별 1분 정리(2026-06-14 기준)—Qwen3(코딩·한국어 종합), DeepSeek R1(추론·수학), Gemma 4(멀티모달·140개+ 언어), Mistral Small 3(RAG·에이전트), Phi-4 Mini(3.8B 초경량). 전부 Apache 2.0 또는 MIT
 * [Agentic testing: where agents fit in the E2E testing stack | Slack Engineering](https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/)
   * [에이전틱 테스팅: E2E 테스트 스택에서 에이전트의 자리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3284)
   * [에이전틱 테스팅 - E2E 테스트 스택에서 에이전트의 역할 | GeekNews](https://news.hada.io/topic?id=30744)
@@ -3996,6 +4013,9 @@ Artificial Intelligence
   * [What is Open Notebook? | Open Notebook](https://www.open-notebook.ai/)
   * [이상선 - 오픈소스 버전 NotebookLM 등장 — 학습과 연구를 위한 ‘Open Notebook’ 공개 Open... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02oWhkbPNGiszZhNRxvty8LfGPpu6PNRF6jR4xrc95RJZiAaC9fjK7YhByF611DvMl)
   * ["모든 데이터를 내 서버에서, 원하는 AI 모델로" 작동하게 해주는 프라이버시 우선 AI 연구 플랫폼, Open Notebook | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_google-activity-7388714877739200512-SV6K)
+* [Open WebUI](https://openwebui.com/)
+  * [open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
+  * 셀프호스팅 가능한 확장형 AI 챗 인터페이스. Ollama·OpenAI 호환 API 지원, 오프라인 동작, RAG·웹 검색·이미지 생성·다중 모델 대화. Python, 145k+ stars
 * [PDFMathTranslate: PDF scientific paper translation and bilingual comparison - 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 翻译](https://github.com/blog2i2j/Byaidu.._..PDFMathTranslate)
   * [충격적인 pdf 파일 번역의 혁신, 역대급 번역 툴, PDFMathTranslate 공개!](https://stock79.tistory.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81%EC%9D%B8-pdf-%ED%8C%8C%EC%9D%BC-%EB%B2%88%EC%97%AD%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%97%AD%EB%8C%80%EA%B8%89-%EB%B2%88%EC%97%AD-%ED%88%B4-PDFMathTranslate-%EA%B3%B5%EA%B0%9C)
 * [Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI](https://github.com/ItzCrazyKns/Perplexica)
@@ -4296,6 +4316,10 @@ Artificial Intelligence
   * 시니어 엔지니어 수준의 워크플로우를 7개 슬래시 커맨드와 19개 스킬로 구조화. 스펙·테스트·보안 리뷰 품질 게이트 내장
 * [agent-skills: Browse, sync, and manage AI agent skills across Claude Code, Cursor, Gemini CLI, Copilot, and more](https://github.com/chrlsio/agent-skills)
   * 13개 코딩 에이전트의 스킬을 통합 관리하는 크로스플랫폼 데스크톱 앱. 마켓플레이스(skills.sh, ClawHub) 연동, SKILL.md 편집기, 파일 변경 자동 감지, 원클릭 멀티 에이전트 동기화. React 19 + Tauri 2(Rust) + SQLite
+* [AgentsView — session search, analytics, and insights for coding agents](https://www.agentsview.io/)
+  * [agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents](https://github.com/kenn-io/agentsview)
+  * [AgentsView로 AI 코딩 에이전트 세션을 한눈에 관리하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3373)
+  * Claude Code·Codex 등 20+ 코딩 에이전트의 세션을 로컬 우선으로 검색·분석. 인사이트와 토큰 사용 통계 제공. Go, 4.4k stars
 * [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
   * [코드 리뷰 요정, CodeRabbit이 나타났다 🐰](https://tech.inflab.com/20250303-introduce-coderabbit/)
   * [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다 - YouTube](https://www.youtube.com/watch?v=dmr4A7qc_kw)
@@ -5654,6 +5678,9 @@ Artificial Intelligence
 * [Gas Town: Multi-agent orchestration with persistent work tracking](https://github.com/gastownhall/gastown)
   * [Gas Town: 에이전트는 소멸해도 작업은 소멸하면 안 된다](https://digitalbourgeois.tistory.com/3020)
   * 20-30+ AI 에이전트 동시 조율. Git worktree+Beads 원장 기반 영속 상태, Mayor(코디네이터), Convoy(작업 번들), Refinery(머지 큐), 3단계 감시 시스템. Go 94.8%
+* [grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible](https://github.com/xai-org/grok-build)
+  * [Grok Build 오픈소스 공개, 터미널 기반 AI 코딩 에이전트의 구조와 특징 | digitalbourgeois](https://digitalbourgeois.tistory.com/3380)
+  * xAI(SpaceXAI)의 터미널 기반 코딩 에이전트 하네스·TUI. 풀스크린·마우스 인터랙티브·확장 가능. Rust, 16k+ stars
 * [happy: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured](https://github.com/slopus/happy)
   * [Happy - Claude Code Mobile Client](https://happy.engineering/)
   * [Happy - Codex 및 Claude Code용 모바일/웹 클라이언트 | GeekNews](https://news.hada.io/topic?id=28500)
@@ -6049,6 +6076,10 @@ Artificial Intelligence
   * 100+ 전문 에이전트 스웜 조율, 자기학습 라우팅, 합의 기반 의사결정, 벡터 메모리. API 비용 최대 85% 절감
 * [SCRUMBUDDY AI Beta Demo Tutorial - From Idea to Production-Ready Code - YouTube](https://www.youtube.com/watch?v=5refVRAllVc)
   * [An all-in-one AI platform that works like a dev team and helps you turn product ideas into clean, production-ready code — with way less context switching | Facebook](https://www.facebook.com/groups/1712447172677146/?multi_permalinks=1913720832549778&hoisted_section_header_type=recently_seen)
+* [sem — Semantic version control for coding agents](https://ataraxy-labs.github.io/sem/)
+  * [sem: Semantic version control => entity-level diffs, blame, and impact analysis on top of git](https://github.com/Ataraxy-Labs/sem)
+  * [Git 함수 단위 변경 추적을 지원하는 시맨틱 버전 관리 도구 sem 완벽 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3370)
+  * git 위에서 함수·엔티티 단위 diff·blame·영향 분석을 제공하는 시맨틱 버전 관리 도구. tree-sitter로 28개 언어 지원, 코딩 에이전트용으로 설계. Rust, 3.2k stars
 * [Shadow](https://www.shadowrealm.ai/)
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
