@@ -1547,6 +1547,8 @@ Deep Learning
   * [Writing better code with pytorch and einops](https://arogozhnikov.github.io/einops/pytorch-examples.html)
 * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
+* [GFPGAN: Practical Algorithms for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
+  * Tencent ARC의 실사 얼굴 복원 모델. 저화질·손상된 얼굴 사진을 고품질로 복원, 사전학습된 GAN(StyleGAN2) prior 활용. Python, 37k+ stars
 * [hiplot - HiPlot makes understanding high dimensional data easy](https://github.com/facebookresearch/hiplot)
   * [페이스북 AI, 인공지능 개발자·연구자 위한... AI 대화식 시각화 도구 'HiPlot' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=15348)
   * [HiPlot: High-dimensional interactive plots made easy](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy)
