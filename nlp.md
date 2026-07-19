@@ -3063,6 +3063,10 @@ NLP
   * [🏯🧠Hunyuan-T1: GPT 4.5 뛰어넘은 세계 최초 Hybrid-Transformer-Mamba MoE 모델](https://fornewchallenge.tistory.com/entry/%F0%9F%8F%AF%F0%9F%A7%A0Hunyuan-T1-GPT-45-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-Hybrid-Transformer-Mamba-MoE-%EB%AA%A8%EB%8D%B8)
 * HY3 [Tencent Hy Research - HY3](https://hy.tencent.com/research/hy3)
   * [텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 HY3 공개 | CIO](https://www.cio.com/article/4164030/%ED%85%90%EC%84%BC%ED%8A%B8-%EC%98%A4%ED%94%88ai-%EC%B6%9C%EC%8B%A0-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%98%81%EC%9E%85-%ED%9B%84-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%AA%A8%EB%8D%B8-hy3.html)
+* [Inkling: Our open-weights model | Thinking Machines Lab](https://thinkingmachines.ai/news/introducing-inkling/)
+  * [thinkingmachines/Inkling · Hugging Face](https://huggingface.co/thinkingmachines/Inkling)
+  * [🆓 Inkling 975B 완벽 분석 Thinking Machines Lab의 첫 오픈소스 MoE 모델 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Inkling-975B-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D-Thinking-Machines-Lab%EC%9D%98-%EC%B2%AB-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-MoE-%EB%AA%A8%EB%8D%B8)
+  * Thinking Machines Lab(Mira Murati)의 첫 오픈웨이트 모델. 멀티모달 Mixture-of-Experts(975B), 추론 노력(reasoning effort) 조절 가능. Tinker에서 파인튜닝 지원
 * [instructor: structured outputs for llms](https://github.com/jxnl/instructor)
   * [The Art of Crafting RANchain Code with LLMs - Network APIOps](https://www.linkedin.com/posts/jinsung-choi-48a8b61_oran-openran-orancopilot-activity-7156849383840366592-Hi-F/)
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
