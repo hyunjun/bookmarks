@@ -676,6 +676,8 @@ Web
 * [Webclaw — The fastest web scraper for AI agents](https://webclaw.io/)
   * [webclaw](https://github.com/0xMassi/webclaw)
   * Rust 기반 로컬퍼스트 웹 콘텐츠 추출. HTML→LLM 최적화 마크다운(토큰 67% 절감), 100KB 페이지 3.2ms 처리. MCP 서버(10개 도구), TLS 핑거프린팅, 변경 감지, 브랜드 아이덴티티 추출. CLI/REST API/Docker/SDK(TS·Python·Go)
+* [web-cloner: A powerful Python utility to clone web assets, parse HTML/JS, analyze hidden API endpoints, and map workspace structures](https://github.com/mosonmcn/web-cloner)
+  * 웹 자산 복제·HTML/JS 파싱 Python 프레임워크. JS·HTML 정적 분석으로 숨은 API 엔드포인트 탐지 후 라이브 검증, 디렉터리 트리 생성·구조화 인텔리전스 리포트 export. 모듈형(fetcher/saver/parser/api_analyzer)
 
 ## Crawler AI
 * [AI 콘텐츠 수집 아직도 수동으로 하고 계시면, 이 5개부터 당장 깔아보세요 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%88%98%EC%A7%91-%EC%95%84%EC%A7%81%EB%8F%84-%EC%88%98%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%95%98%EA%B3%A0-%EA%B3%84%EC%8B%9C%EB%A9%B4-%EC%9D%B4-5%EA%B0%9C%EB%B6%80%ED%84%B0-%EB%8B%B9%EC%9E%A5-%EA%B9%94%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94-share-7447625928920473600-XaEL/)
@@ -2700,6 +2702,9 @@ Web
   * [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [excelize-wasm: A WebAssembly build of the Go Excelize library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets](https://github.com/xuri/excelize-wasm)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
+* [Hexana — WebAssembly & binary analysis tool | JetBrains](https://jetbrains.github.io/hexana/)
+  * [Hexana - JetBrains의 WebAssembly 및 바이너리 분석 도구 | GeekNews](https://news.hada.io/topic?id=31445)
+  * `.wasm` 파일의 구조 분석·편집·실행·디버깅. JetBrains 플러그인+VS Code 확장으로 제공, 두 제품이 하나의 Kotlin Multiplatform 코어 공유. Core Wasm·Component Model·GC·SIMD·Threads 등 지원
 * [Hippo](https://docs.hippofactory.dev/)
   * [Introduction to Hippo: the WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
   * [히포를 이용한 웹어셈블리 입문 - ITWorld Korea](https://www.itworld.co.kr/news/210909)
