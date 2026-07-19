@@ -1544,6 +1544,10 @@ SQL
   * [2026년, 그냥 Postgres를 쓰자 (It's 2026. Just Use Postgr | GeekNews](https://news.hada.io/topic?id=26388)
 * [RLS sounds great until it isn't | PlanetScale](https://planetscale.com/blog/rls-sounds-great-until-it-isnt)
   * PostgreSQL Row Level Security가 DB 레이어 접근 제어로 깔끔해 보이지만, 풋건·풀링 비호환·성능 함정으로 득보다 실이 많을 수 있다는 비판
+* [Understanding Postgres 19 Property Graphs | neovintage](https://neovintage.org/posts/postgres-property-graphs/)
+  * [Postgres 19 프로퍼티 그래프 이해하기: 관계형 데이터를 그래프처럼 조회하는 SQL/PGQ | digitalbourgeois](https://digitalbourgeois.tistory.com/3386)
+  * [relational-deep-learning-with-pg19: trying to see if RDL works with PG19 property graphs](https://github.com/neovintage/relational-deep-learning-with-pg19)
+  * Postgres 19의 SQL/PGQ 프로퍼티 그래프 기능 설명. 데이터를 그래프 DB로 옮기지 않고 기존 관계형 스키마를 그래프 관점으로 해석하는 선언적 기능—MATCH 문법으로 그래프 패턴 질의, 옵티마이저·인덱스·통계 그대로 활용. 테이블이 vertex이자 edge가 될 수 있음. 연계 실험 레포는 관계형 딥러닝(RDL)을 PG19 프로퍼티 그래프에 적용
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
