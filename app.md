@@ -318,6 +318,8 @@ App
   * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음. C++, 6k+ stars
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
+* [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
+  * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 * [Hack Underway Toolkit — 20 open-source OSINT & cybersecurity tools](https://toolkit.hackunderway.com/)
   * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
@@ -331,6 +333,8 @@ App
 * [PatchaPalooza — analysis of Microsoft's monthly security updates](https://patchapalooza.com/)
   * [PatchaPalooza: comprehensive analysis of Microsoft's monthly security updates](https://github.com/xaitax/PatchaPalooza)
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
+* [RustScan: The Modern Port Scanner](https://github.com/bee-san/RustScan)
+  * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원. Rust, 20k stars
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
   * 전화번호 OSINT 조사 Python CLI. Google·GitHub·Numverify·Reddit·DuckDuckGo 등 여러 API를 병렬 검색해 번호 검증·통신사 조회·코드/소셜 검색, JSON·PDF 리포트 자동 생성
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
@@ -1986,6 +1990,8 @@ App
   * [Installing Windows 11 on MacBook M1 (ARM64) | by Damilola Omoyiwola | Medium](https://princessdharmy.medium.com/installing-windows-11-on-macbook-m1-arm64-e1e7e0f52ce0)
   * [MacBook Apple Silicon에서 UTM을 이용해 Debian 12 (ARM64) 설치해보기](https://webnautes.kr/macbook-apple-siliconeseo-utmeul-iyonghae-debian-12-arm64-seolcihaebogi/)
   * UTM SE [Install Ubuntu on iPad or iPhone | Linux for iPad and iPhone - YouTube](https://www.youtube.com/watch?v=7fMhRWx7TN8)
+* [Vibe Island - Dynamic Island for Your AI Agents](https://vibeisland.app/)
+  * 26개 AI 코딩 에이전트용 macOS 노치 패널. 실시간 상태 표시, GUI 권한 승인, 정확한 터미널 점프. Claude Code·Codex·Cursor·Gemini CLI 등 지원, 제로 설정
 * Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
@@ -3601,9 +3607,17 @@ App
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
+* [mac-whisper: The free dictation app for your Mac. Speak into any field, keep audio on-device, refine with AI](https://github.com/bytonylee/mac-whisper)
+  * [발열도 속도 지연도 정보 유출도 없는 맥북을 위한 보이스 타이핑 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EB%B0%9C%EC%97%B4%EB%8F%84-%EC%86%8D%EB%8F%84-%EC%A7%80%EC%97%B0%EB%8F%84-%EC%A0%95%EB%B3%B4-%EC%9C%A0%EC%B6%9C%EB%8F%84-%EC%97%86%EB%8A%94-%EB%A7%A5%EB%B6%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B3%B4%EC%9D%B4%EC%8A%A4-%ED%83%80%EC%9D%B4%ED%95%91%EC%9C%BC%EB%A1%9C-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7479886755760848897-CTW6)
+  * Mac용 무료 받아쓰기 앱. Fn 키를 누른 채 말하면 사용 중인 앱 어디에나 정제된 텍스트를 붙여넣음. 오디오는 온디바이스 유지(정보 유출·발열·지연 없음), AI로 결과 정제. Swift
 * [Meetily — Privacy-first AI meeting assistant](https://meetily.ai/)
   * [meetily: Privacy-first AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization](https://github.com/Zackriya-Solutions/meetily)
   * 100% 로컬 처리 셀프호스팅 AI 회의 도우미(macOS/Windows). Parakeet/Whisper 실시간 전사(4배 빠름), 화자 분리, Ollama 요약. 클라우드 불필요, Ollama/Claude/커스텀 엔드포인트 지원. Rust 기반
+* [Patter — Open-source voice-AI SDK](https://www.getpatter.com/)
+  * [Patter: The Vapi/Retell alternative for builders who want to own the stack](https://github.com/PatterAI/Patter)
+  * [Patter SDK Guide: Building a Restaurant Booking Phone Agent | MarkTechPost](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/)
+  * [Patter로 나만의 음성 AI 전화 에이전트 만들기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3388)
+  * 오픈소스 음성 AI SDK. Vapi/Retell 대안으로 스택을 직접 소유. 4줄이면 AI 에이전트에 전화번호 부여, Twilio·Telnyx·Plivo 연동. 동적 변수·가드레일·지연 대시보드·eval 체크. Python·TypeScript, MIT
 * [Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
   * 음성→AI 받아쓰기 도구. Mac/Windows/iPhone/Android 네이티브, 키보드(45wpm) 대비 4배 빠른 220wpm. 필러 단어·오타·횡설수설 자동 정제, Slack/Gmail/Notion/VS Code/Cursor/ChatGPT/Figma 등 어디서나. 개인 사전(고유어 학습), 스니펫 라이브러리, 100+ 언어 자동 감지. $81M 펀딩으로 "Voice OS" 빌드
 
