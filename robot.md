@@ -61,6 +61,10 @@ Robot
 * [Bessemer Predicts: Robotics and physical AI](https://www.bvp.com/atlas/bessemer-predicts-robotics-and-physical-ai)
   * [로보틱스 및 피지컬 AI 예측: 2026년의 6가지 투자 전망 | GeekNews](https://news.hada.io/topic?id=28932)
   * 로보틱스 현재 GPT-2.5 수준. Goldman Sachs 2035년 380억 달러 시장 전망도 Bessemer는 보수적 판단. 로보틱스 데이터 비용 2년간 30억 달러+
+* [LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI | Robbyant](https://technology.robbyant.com/lingbot-va-v2)
+  * [Ant Group's Robbyant Unveils LingBot-VA 2.0 | MarkTechPost](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/)
+  * [LingBot-VA 2.0: 물리 AI를 위해 처음부터 설계된 차세대 비디오-액션 파운데이션 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3372)
+  * Ant Group의 로봇 AI 조직 Robbyant가 공개. 영상 생성 모델을 변형한 게 아니라 물리 AI(Physical AI)를 위해 처음부터 설계된 Causal Video-Action 파운데이션 모델. Foresight Reasoning으로 앞을 예측하며 실시간 행동, 환경 변화와 행동의 인과 관계 학습으로 로봇 제어의 속도·물리 이해 한계 극복
 * [ProtoBot — A Palm-Sized Robot for Makers | Microbots](https://microbots.io/products/protobot)
   * [Meet ProtoBot: A Palm-Sized Robot for Makers - YouTube](https://www.youtube.com/watch?v=p5PKpLMmyNI)
   * 메이커·학생·교육자를 위한 손바닥 크기 오픈소스 로봇 플랫폼. 빌드 가이드로 조립 후 폰으로 제어·자동화, Arduino 프로그래밍, 오픈소스 예제로 하드웨어·소프트웨어 커스터마이즈
