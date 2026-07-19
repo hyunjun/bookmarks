@@ -167,6 +167,9 @@ App
   * [Show HN: PDF API – Generate, convert, and modify PDF documents | Hacker News](https://news.ycombinator.com/item?id=30709524)
   * [Beautiful PDFs from HTML](https://pdf.math.dev/)
   * [리뷰 | 무료 온라인 PDF 편집기 ‘PDF 캔디’ 44가지의 도구로 대부분의 작업 처리 - ITWorld Korea](https://www.itworld.co.kr/news/205379)
+  * [Adaptive PDF (pdx) - a PDF that changes based on how it's read](https://github.com/iminoaru/adaptivepdf)
+    * [Adaptive PDFs | Sarthak Gaud](https://sgaud.com/texts/pdf)
+    * 사람에게는 원본 PDF를 보여주고, AI·텍스트 추출기에게는 같은 파일 안의 깨끗한 Markdown 레이어를 읽게 하는 실험. 대부분의 PDF가 untagged라 추출기가 좌표·폰트 크기만 읽는 문제에 대응해, 저자가 두 버전을 모두 통제
   * [BlueAI](http://www.blueai.co.kr/pdf)
     * [PDF 번역 프로그램 | GeekNews](https://news.hada.io/topic?id=6141)
   * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
@@ -203,6 +206,9 @@ App
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
 * [QR-Code-generator: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust](https://github.com/nayuki/QR-Code-generator)
   * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+* [Jim's TrueType QR Code Font](https://qr.jim.sh/)
+  * [TrueType QR Code 폰트 - 폰트만으로 QR코드 만들기 | GeekNews](https://news.hada.io/topic?id=31247)
+  * 대괄호로 감싼 텍스트를 QR 코드로 바꾸는 TrueType/OpenType 폰트. 이미지 생성 없이 문서 안에 QR 코드 삽입, 변환은 폰트 내부 OpenType 규칙이 처리. QR 코드 블록도 텍스트로 남음
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [radio.garden](http://radio.garden/)
   * [Radio Garden - 전세계 라디오 듣기 | GeekNews](https://news.hada.io/topic?id=15718)
@@ -419,6 +425,9 @@ App
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [Feather Wiki | About](https://feather.wiki/)
   * [Feather Wiki - 1개의 HTML로 저장되는 개인용 위키 | GeekNews](https://news.hada.io/topic?id=6667)
+* [LeafWiki – A wiki for people who think in folders, not feeds](https://leafwiki.com/)
+  * [LeafWiki – 서버와 DB없이 단일 바이너리로 실행하는 셀프 호스팅 위키 | GeekNews](https://news.hada.io/topic?id=31510)
+  * 무거운 스택 없이 도는 셀프호스팅 위키. 콘텐츠를 디스크에 `.md`로 저장하고 단일 Go 바이너리로 동작(웹서버·외부 DB 불필요), 폴더 트리 구조. 런북·홈랩 문서·튜토리얼·팀 노트용. 리눅스/맥/윈도우/라즈베리 파이 지원, 페이지는 항상 일반 파일로 남아 앱 없이도 읽기 가능
 * [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
@@ -2177,6 +2186,8 @@ App
   * [ScreenTimeLapse: Take color-accurate timelapses of your screens and cameras on MacOS](https://github.com/wkaisertexas/ScreenTimeLapse)
     * [TimeLapze: MacOS용 오픈소스 타임랩스 화면 녹화 프로그램 | GeekNews](https://news.hada.io/topic?id=13751)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
+  * [svg-term-cli - Share terminal sessions via SVG and CSS](https://github.com/marionebl/svg-term-cli)
+    * asciinema 캐스트를 SVG 애니메이션으로 변환·공유. GIF보다 선명·경량, 텍스트 선택 가능
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
     * [Terminalizer - 터미널을 녹화해서 GIF로 만들기 | GeekNews](https://news.hada.io/topic?id=3667)
   * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg) pip install이라 편한데, 중간에 화면이 깨진 상태로 저장되는 경우가 있었음
@@ -2457,6 +2468,9 @@ App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
   * [iOS 오픈소스 뮤직앱 신스 원 : 클리앙](https://www.clien.net/service/board/useful/16359730)
+* [AudioMass - Free full-featured web-based audio & waveform editing tool](https://audiomass.co/)
+  * [audiomass](https://github.com/pkalogiros/audiomass)
+  * 설치·로그인 없이 브라우저에서 도는 무료 오디오·파형 편집기. 자르기·페이드·이펙트 등 풀기능, 프레임워크 의존성 없는 순수 JavaScript
 * [AutoFlip: An Open Source Framework for Intelligent Video Reframing](https://blog.research.google/2020/02/autoflip-open-source-framework-for.html)
   * [AutoFlip - 구글의 비디오 스마트 자르기 툴 | GeekNews](https://news.hada.io/topic?id=1523)
   * 가로(16:9, 4:3) 영상을 세로/정사각형 레이아웃으로 스마트 자르기. AI로 얼굴·주요 요소를 분석해 프레임 내 유지
@@ -3581,6 +3595,9 @@ App
 # Voice
 * [캐럿 - 실시간 기록부터 요약까지 해주는 똑똑한 AI 미팅노트](https://caret.so/)
 * collabo [콜라보 - 개인과 기업 모두를 위한 AI 회의록](https://callabo.ai/)
+* [amurex: World's first AI meeting copilot → The Invisible Companion for Work + Life](https://github.com/thepersonalaicompany/amurex)
+  * AI 회의 코파일럿·개인 어시스턴트. 실시간 회의 자막·요약·후속 조치 제안, 크롬 확장 기반. 회의를 넘어 업무·생활 전반의 "보이지 않는 동반자" 지향. JavaScript
+  * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
