@@ -3781,6 +3781,8 @@ Programming
 * [ssup2ket](https://github.com/ssup2ket/ssup2ket)
   * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
   * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
+* [마이크로서비스는 목표가 아니다 | 와일드 코딩 블로그](https://wild-coding.com/blog/2026/07/18/microservices-change-boundary)
+  * 아샬. 마이크로서비스는 좋은 구조가 아니라 복잡한 구조이며, 전체 복잡도를 낮출 때만 선택해야 함. 기능 이름(회원·게시판·주문)으로 나누면 배포 단위는 나뉘어도 변경이 함께 일어나 "분산 모놀리식"이 됨. 좋은 분리는 비슷한 기능이 아니라 "함께 변경되는 것"끼리 묶는 것—변경 경계가 기준
 
 ### Architecture Microservice MSA Service Mesh
 * [Service Mesh](http://bcho.tistory.com/1260)
