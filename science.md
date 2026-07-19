@@ -275,6 +275,8 @@ Science
   * Extropic이 디지털·양자가 아닌 제3의 컴퓨팅 패러다임으로 열역학 컴퓨터 시제품 XTR-0을 연구자/개발자에게 배송 시작. 기존 컴퓨터의 1/10,000 전력으로 동작, AI 시대 전력 병목 해결책. 올해 안에 100만+ 열역학 소자 본격 버전 출시 예정. 김성완 본인은 열역학 컴퓨팅 책 집필 중
 * [채수조 - 물리학은 암기 과목이 아니라 차원으로 세상을 이해하는 언어 | Facebook](https://www.facebook.com/soojoh.chae/posts/pfbid0QaLnCZiZDnVUce9YvGYqxMgBe2p6Y7eCZxGbDPZMM3YFXjriT56HncrJKfkDPVgJl)
   * 물리학 교수의 물리 교육론. 번개(~10C, 1억V, 0.01초에 10억J = 순간 100GW)와 스마트폰 배터리(3,100mAh·3.8V = 11.78Wh ≈ 42,408J) 비교로 "전기는 전하량만이 아니라 전압·에너지·방전 시간이 함께 결정"함을 체득시키는 차원 분석 중심 수업. 추상 개념에서 상대성이론으로 건너뛰는 교육이 물리 기피의 원인이라는 지적
+* [이해창 - 우주에서 본 지구가 점점 어두워지는 이유 | Facebook](https://www.facebook.com/ihaechang.463323/posts/pfbid025KZrJoLAv32jtt57TzA4vYa6BCQmtUXC8cYUXbwBgpzPV4eVynKruh1C6piaXcral)
+  * "우주에서 지구가 점점 밝아질까 어두워질까" 퀴즈로 시작하는 글. 오염과 달리 실제로는 지구 알베도(반사율) 변화로 우주에서 본 지구가 점점 어두워지고 있다는 이야기
 
 ## Space
 * [Why Does The International Space Station Have Such A Weird Shape?](http://gizmodo.com/why-does-the-international-space-station-have-such-a-we-1692193163)
