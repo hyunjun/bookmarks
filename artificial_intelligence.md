@@ -1108,6 +1108,8 @@ Artificial Intelligence
   * A framework for building an AI agent with memory
   * more: tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen)
   * Open-source with MCP/SSE protocol integration
+* [llm-app: Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data | Pathway](https://github.com/pathwaycom/llm-app)
+  * 실시간 데이터 기반 RAG·AI 파이프라인·엔터프라이즈 검색용 즉시 실행 클라우드 템플릿. SharePoint·Google Drive·S3·Kafka·PostgreSQL 등과 항상 동기화, Docker 친화적. 59k stars
 * [llm-brain — Second Brain Compiler | Habix](https://habix.ai/products/llm-brain)
   * [llm-brain: LLM을 컴파일러로 쓰는 개인 지식 관리 시스템 (Second Brain Compiler)](https://github.com/kimsanguine/llm-brain)
   * [요즘 AI 에이전트 메모리에서 가장 과소평가된 패턴은 RAG가 아니라 LLM Wiki | Sanguine Kim](https://www.linkedin.com/posts/sanguinekim_%EC%9A%94%EC%A6%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EA%B3%BC%EC%86%8C%ED%8F%89%EA%B0%80%EB%90%9C-%ED%8C%A8%ED%84%B4%EC%9D%80-rag%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-llm-share-7479001617946554369-wfQy/)
@@ -1491,6 +1493,10 @@ Artificial Intelligence
 * [EP 58. 컨텍스트 엔지니어링은 '목발'이다? Noam Brown 팟캐스트 읽어보기 - YouTube](https://www.youtube.com/watch?v=9yAkW-WgiWk)
   * [컨텍스트 엔지니어링은 '목발'이다? Noam Brown 팟캐스트](https://livewiki.com/ko/content/context-engineering-crutch-noam-brown-podcast)
   * Latent Space 팟캐스트 Noam Brown 출연 분석. 포커 AI에서 o1/o3까지의 여정, Bitter Lesson 관점, 컨텍스트 엔지니어링이 임시 방편인지 분석
+* [Context Engineering: AI 에이전트와 잘 일하는 법](https://course-builder-47m.pages.dev/)
+  * 8강 56분 과정. Instructions·Knowledge·Tools·Memory 4가지 컨텍스트 소스, Just-in-time 검색, 서브에이전트 위임, 안티패턴 진단. 프롬프트 튜닝에서 시스템 설계로
+* [Context engineering with Dex Horthy - The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy)
+  * Gergely Orosz가 HumanLayer의 Dex Horthy와 컨텍스트 엔지니어링을 논의. 에이전트가 긴 작업에서 컨텍스트를 관리·압축하는 실전 기법
 * [Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)
   * [에이전틱 엔진 최적화 (AEO) | GeekNews](https://news.hada.io/topic?id=28588)
   * AI 코딩 에이전트가 문서를 효과적으로 활용하도록 콘텐츠를 구조화하는 새 패러다임. robots.txt, llms.txt, skill.md 등 6계층 구현
@@ -1499,8 +1505,6 @@ Artificial Intelligence
   * [이제는 더욱 중요한 '컨텍스트'를 설계해야 할 때](https://www.linkedin.com/feed/update/urn:li:activity:7343801990730104832/) AI 에이전트를 도입하기 전 '워크플로 정리'가 중요
   * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog](https://hyunup.inblog.io/context-engineering)
     * [컨텍스트 엔지니어링: 왜 내 에이전트는 생각대로 움직이지 않을까? - hyunup backlog | Hyunjun Jeon](https://www.linkedin.com/posts/rascal-hyunjun_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%99%9C-%EB%82%B4-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%8A%94-%EC%83%9D%EA%B0%81%EB%8C%80%EB%A1%9C-%EC%9B%80%EC%A7%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-hyunup-activity-7381491057080979456-zNrX)
-* [Context Engineering: AI 에이전트와 잘 일하는 법](https://course-builder-47m.pages.dev/)
-  * 8강 56분 과정. Instructions·Knowledge·Tools·Memory 4가지 컨텍스트 소스, Just-in-time 검색, 서브에이전트 위임, 안티패턴 진단. 프롬프트 튜닝에서 시스템 설계로
 * [Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
   * [GitHub 스타 1만 개 찍은 스킬셋. 에이전트 만드는 순서가 바뀝니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_github-%EC%8A%A4%ED%83%80-1%EB%A7%8C-%EA%B0%9C-%EC%B0%8D%EC%9D%80-%EC%8A%A4%ED%82%AC%EC%85%8B-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%88%9C%EC%84%9C%EA%B0%80-%EB%B0%94%EB%80%9D%EB%8B%88%EB%8B%A4-share-7432415927805157376-nnZs)
 * [Awesome-Context-Engineering: 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and implementation guides for LLMs and AI agents](https://github.com/Meirtz/Awesome-Context-Engineering)
@@ -1658,6 +1662,10 @@ Artificial Intelligence
   * 반응형 프롬프팅을 능동적·자기관리 워크플로로 대체하는 자율 에이전트 프레임워크. "더 이상 Claude에게 프롬프트하지 않는다, Claude를 프롬프트하는 루프를 돌린다." 5개 프리미티브(스케줄링·worktree·스킬·커넥터·서브에이전트), 7개 프로덕션 패턴(PR 리뷰·CI 실패 triage·의존성 업데이트 등), maker-checker 검증·state 파일·run budget·loop-audit. L0~L3 준비도 점수로 점진적 자율화
   * [Claude Code 쓰시는 분들, 이 프롬프트 꼭 저장하세요 | seungpil](https://www.linkedin.com/posts/seungpil_claude-code-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4-%EC%9D%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EA%BC%AD-%EC%A0%80%EC%9E%A5%ED%95%98%EC%84%B8%EC%9A%94-ai%ED%95%9C%ED%85%8C-activity-7480757643637178369-RFFW)
     * AI가 자기반복 루프로 스스로 교정하게 하는 프롬프트 템플릿. 출력 기준 정의 후 Plan(다음 단일 작업)→Execute→Score(기준별 1-10점)→Decide(8점+ 완료) 4단계 반복. 경고: 빠른 생성이 만드는 검토 안 된 코드 누적, 자동화가 인간 판단을 대체하는 위험—"핵심은 훌륭한 루프 설계가 아니라 루프를 돌리며 독립적 판단을 유지하는 것"
+  * [What is "loop engineering?" - The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering)
+    * Gergely Orosz. 최근 유행하는 "루프 엔지니어링" 개념 정리—프롬프트를 반복 입력하는 대신 에이전트가 스스로 작업·검증·반복하는 루프를 설계하는 접근
+  * [사람은 첫 삽만 뜹니다 테스트까지 스스로 하는 소프트웨어 루프 | sungkimup](https://sungkimup.tistory.com/1)
+    * 실제 운영 중인 Autonomous Software Loop 구성법 공유. QA 에이전트가 새벽에 실사용자처럼 사이트를 조작해 버그를 재현·이슈 등록→다른 에이전트가 PR 생성→리뷰·머지→릴리즈 에이전트 배포→그 릴리즈가 다시 QA를 깨우는 루프. 많은 팀이 빠뜨리는 "루프 안의 자동 테스트"에 초점. 스택 Rust(Rig)+Axum·React, written by Fable 5·Solar-Open2
 * [paper-curation: Automated paper curation and reviews](https://github.com/jehyunlee/paper-curation)
   * [이제현 - Paper Curation 파이프라인 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0ZmvwqT5fZpieLnaAXDC1sRJ8ATj49SAQUW4HvyFCKRroQ4xKxDubrnNEW3jy3f6tl)
   * [Humanoid Robotics 분야 큐레이션 데모 (Cloudflare 공개 배포)](https://paper-curation.jehyunlee.dev/humanoid)
@@ -1703,6 +1711,8 @@ Artificial Intelligence
 * [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
 * [resources.md at main · chiphuyen/aie-book](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
   * [AI Engineering 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=18323)
+* [TBB-ko: Designing AI Serving Systems (at Cloud Scale) - The Boring Book 한국어판](https://github.com/euiseong/TBB-ko)
+  * 클라우드 규모의 AI 서빙 시스템 설계를 다루는 "The Boring Book"의 한국어 번역판
 
 # Conference
 * [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
@@ -2218,6 +2228,10 @@ Artificial Intelligence
   * [Lemonade by AMD: GPU와 NPU를 활용한 빠른 오픈소스 로컬 LLM 서버 | GeekNews](https://news.hada.io/topic?id=28143)
   * AMD 지원 오픈소스 로컬 AI 서버. C++ 네이티브 백엔드(~2MB), OpenAI API 호환, 다중 모델 병렬 실행, 채팅/비전/이미지 생성/음성 전사/TTS 통합
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
+* [LiteRT: High-Performance On-Device Machine Learning Framework | Google AI Edge](https://developers.google.com/edge/litert/)
+  * [Google Releases LiteRT.js: A JavaScript binding of LiteRT that runs TFLite models in browsers via WebGPU | MarkTechPost](https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/)
+  * [LiteRT.js로 브라우저에서 .tflite AI 모델 실행하기: WebGPU 기반 고성능 웹 AI 런타임 | digitalbourgeois](https://digitalbourgeois.tistory.com/3383)
+  * Google AI Edge의 고성능 온디바이스 ML 프레임워크(구 TensorFlow Lite). GenAI·ML 모델을 수십억 기기에 배포. LiteRT.js는 동일한 `.tflite` 모델을 WebGPU로 브라우저에서 직접 실행하는 JS 바인딩—서버 추론 없이 네이티브급 성능
 * [LiteRT-LM: Google on-device LLM inference framework](https://github.com/google-ai-edge/LiteRT-LM)
   * [LiteRT-LM - 온디바이스 LLM 추론 프레임워크 | GeekNews](https://news.hada.io/topic?id=28758)
   * 엣지 디바이스용 프로덕션 LLM 추론. Android/iOS/Web/Desktop/IoT 크로스플랫폼, GPU·NPU HW 가속, 이미지·오디오 멀티모달, 함수 호출. Gemma·Llama·Phi-4·Qwen 지원, Chrome/Chromebook Plus/Pixel Watch 탑재. Apache-2.0
@@ -2525,6 +2539,9 @@ Artificial Intelligence
 * [PrismML — 1-bit Bonsai Series](https://prismml.com/)
   * [1-bit Bonsai: 초경량 대규모 언어 모델의 실현](https://digitalbourgeois.tistory.com/2949)
   * 82억 파라미터 전체를 1비트로 구성한 LLM. 모델 크기 1.15GB(기존 대비 14배 소형화), 인텔리전스 밀도 10.6배, 에너지 효율 4~5배 향상. iPhone에서 초당 44토큰 처리로 엣지 AI 배포 실현
+  * [Announcing Bonsai 27B: The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
+    * [27B AI 모델을 휴대폰에서 실행하는 Bonsai 27B, 초저비트 압축으로 온디바이스 AI의 한계를 넘다 | digitalbourgeois](https://digitalbourgeois.tistory.com/3387)
+    * Qwen3.6 27B 기반을 초저비트(Extreme Low-bit) 압축으로 최대 3.9GB까지 줄여 스마트폰에서 실행(일반 27B는 4비트로도 ~18GB). 단순 축소가 아니라 추론·비전·도구 호출·컴퓨터 사용 에이전트 기능 유지
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [pydantic-ai: Agent Framework / shim to use Pydantic with LLMs](https://github.com/pydantic/pydantic-ai)
   * [PydanticAI is a Python agent framework developed by the Pydantic team](https://www.linkedin.com/posts/activity-7270196261482307584-PQSn/)
@@ -3337,6 +3354,8 @@ Artificial Intelligence
   * 업스테이지가 Cerebras와 공동 개최한 발표회에서 두 번째 독자 파운데이션 모델 Solar Open 2(250B) 공개. 벤치마크 점수보다 에이전트·추론 속도·국산 인프라를 강조한 행사 구성 분석
 * [망분리의 빗장을 연 건 보안이 아니라 AI였다 | nahz.org](https://nahz.org/posts/network-separation-n2sf/)
   * 망분리(N2SF) 재조명. 20년 전 두 번의 국가적 재앙에서 인터넷을 끊어둔 곳만 살아남아 도입됐으나, 너무 잘 작동해 아무도 그 안을 다시 보지 않게 됨. 이 빗장을 다시 열게 만든 동인이 보안이 아니라 AI라는 논지
+* [프롤로그 1조 달러의 도약, 그 기반은 안전한가? (EMP 연재) | 공공디자인연구소](https://www.publicdesign.me/boards/68/view)
+  * 손동주(Joohaabba). 반도체 800조·AI 데이터센터 550조 등 '대한민국 대도약 3대 메가프로젝트'(반도체·피지컬 AI·AI 데이터센터, AI DC만 8.4GW)의 물리적 기반이 EMP(전자기펄스) 등 고출력 전자기 위협에 안전한가를 묻는 EMP 연재 프롤로그. 전력·용수는 다뤄졌으나 EMP 물리 보호 기준은 공개자료에서 찾기 어렵다는 문제 제기
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
   * [전종홍 - 지난 주에 스탠포드의 AI index 2024 버전이 발표된다고 예고했었는데, 오늘 공개가 되었네요.... | Facebook](https://www.facebook.com/1biit/posts/pfbid0z4WtGPz9SKRr8UuhJrZH5RAAd49WKCLZvRQvakpRYGWGbmbJFaiCESQYxC8JGsQpl)
@@ -3393,6 +3412,8 @@ Artificial Intelligence
 * [2507.18074 AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074)
   * [장동인 - 중국 AI 연구자들이 무시무시한 논문을 냈습니다. 제목은 알파고 모먼트 라고 하지만 내용을 AI가 인간을... | Facebook](https://www.facebook.com/jang.cloud/posts/pfbid0tjSX4wfimS8HTUNBNfX7vtkGxg8meg7pxu4zdW83LfKUV1ATCGGTaiXD2JFoKZcul)
     * 총 1,773회의 자율 실험과 20,000 GPU 시간을 통해 SOTA급 106개의 혁신적인 최첨단 아키텍처를 발견
+* [2508.18298 Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://arxiv.org/abs/2508.18298)
+  * 에이전틱 워크플로를 모델·하드웨어 선택과 결합된 불투명한 호출 시퀀스로 노출하는 기존 프레임워크의 비효율 지적. 워크플로 로직과 모델·하드웨어를 분리해 클라우드에서 자원 효율적으로 서빙하는 오케스트레이션
 * [2509.25140 ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
   * [대박... 구글이 실시간으로 자신의 실수로부터 학습하는 AI를 공개했습니다. ReasoningBank에서는 대화 기록을 저장하는 대신, 실패 원인과 비효율적인 사고 패턴까지 함께 기록하는 방식을 제안했습니다. 예를 들어, 에이전트가 작업 중 3단계에서 실패했다면 단순히 "3단계에서 실패"로 끝나지 않고, 어떤 사고 과정이 틀렸는지, 왜 오류가 발생했는지를 기록합니다. 이후 비슷한 문제를 다시 만나면 이 데이터를 불러와 더 나은 접근법을 선택합니다. 이 시스템은 MaTTS(memory-aware test-time scaling)와 결합되어, 모델이 과거 시도 결과를 참고해 전략을 조정합니다. 추가 학습 없이도 작업 성공률이 34%, 수행 효율이 16% 향상됐습니다. 이 접근은 “모델을 키우는 것”이 아니라 “모델이 경험을 쌓는 것”에 가깝습니다. 모델이 스스로 학습 노트를 남기며 성장하는 구조로, 인간이 같은 실수를 반복하지 않기 위해 메모를 남기는 방식과 비슷합니다.](https://www.threads.com/@choi.openai/post/DPr6TDmE77b)
   * [하신승 - 1 천개의 뇌라는 책에서는 진정한 지능은 특정 영역에서 뛰어난 것이 아니라 배우고 적응하는 능력이라고... | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0LRGvskp4pqqewu14aSbDGdwdMeXgfgAui6f13riXXUKExevqcRiJE5y59hsFdcTAl&id=100009326385897)
@@ -3674,6 +3695,8 @@ Artificial Intelligence
   * 개발자 역할이 "코더"에서 "오케스트레이터"로 변화. 명확한 작업 설계, 에이전트 관리, 결과 검토 능력이 새로운 경쟁력. 모호한 목표와 감각적 판단은 여전히 인간 개입 필요
 * [AddyOsmani.com - The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
   * [소프트웨어 엔지니어링의 향후 2년 | GeekNews](https://news.hada.io/topic?id=25769)
+* [Working with Code Assistants: the Skeleton Architecture | InfoQ](https://www.infoq.com/articles/skeleton-architecture/)
+  * 코드 어시스턴트와 협업하기 위한 "스켈레톤 아키텍처". 에이전트가 안정적으로 코드를 채워넣을 수 있도록 구조·경계를 미리 세워두는 접근
 * [김태영 - AI 멀티 에이전트 개발 효과성 분석 - AI 에이전트 11명에게 스프린트를 통째로 맡겨봤습니다 (AI SDLC Agentic Coding 주제로) | Facebook](https://www.facebook.com/projectresearch/posts/pfbid031jsx4i89yF9ytDtaetVby4W9rATrJSoo7XXPUC7AgWCU8Yhvpy6QDvzshd22BMXdl)
   * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
 * [IT 회사에서 AI 가 진짜 바꿔놓을 것들](https://seokjun.kim/what-ai-really-changes-it-industry)
@@ -3681,6 +3704,8 @@ Artificial Intelligence
 * [Migrating a production AI agent to GPT-5.6 | Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
   * [GPT-5.6 전환으로 2.2배 빨라지고 비용은 27% 절감한 AI 에이전트 운영 사례 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/3377)
   * 프로덕션 마케팅 웹사이트를 생성하는 Ploy의 에이전트를 Claude Opus 4.8→GPT-5.6 Sol로 전환한 사례. 4개월간 어떤 프론티어 모델도 Opus를 못 이겼으나 GPT-5.6이 처음으로 넘어섬—빌드 시간 절반 이하(2.2배), 비용 27% 절감, 품질 동급 이상. 단순 성능·비용 비교를 넘어 평가 하네스, 도구 인자 채우기·프롬프트 캐싱·추론 재생 등 프로바이더별 가정을 함께 손봐야 했던 과정
+* [Git real: AI agents aren't just for solo developers anymore | The New Stack](https://thenewstack.io/coding-agents-team-infrastructure/)
+  * 코딩 에이전트가 솔로 개발자용을 넘어 팀 인프라로 자리잡는 흐름. 여러 에이전트를 팀 단위로 조율·공유하기 위한 인프라·워크플로 관점 분석
 * [What is inference engineering? Deepdive | Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering)
   * 추론 엔지니어링 심층 가이드. 하드웨어(NVIDIA GPU), 소프트웨어(CUDA~vLLM), 인프라(오토스케일링), 최적화(양자화, 투기적 디코딩, 캐싱, 병렬화) 7개 영역
 * [As an AI Infrastructure Engineer, Please learn... | Praveen Kumar Verma](https://x.com/Alacritic_Super/status/2072660023340401008)
@@ -3818,8 +3843,6 @@ Artificial Intelligence
   * 복잡한 작업 프로세스를 '메타인지 레시피'로 기술하면, 이를 기반으로 반복적이고 재사용 가능한 AI 도구 자동 생성 시스템
   * 개발자는 코드 없이 워크플로우 자동화 가능, 다양한 유틸리티와 협업 환경을 통해 프로젝트를 체계적으로 관리할 수 있도록 도움
   * 아직 초기 개발 단계로, 실험적이고 빈번한 변화가 예상되며, 신중한 사용 요구
-* [amurex: World's first AI meeting copilot](https://github.com/thepersonalaicompany/amurex)
-  * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
 * [any-llm: Communicate with an LLM provider using a single interface](https://github.com/mozilla-ai/any-llm)
   * [Overview - any-llm](https://mozilla-ai.github.io/any-llm/gateway/overview/)
   * [Mozilla의 LLM 비용 관리 솔루션: any-llm-gateway 오픈소스 공개 - AI Sparkup](https://aisparkup.com/posts/6726)
@@ -4141,6 +4164,8 @@ Artificial Intelligence
 * [TaskMaster AI](https://www.taskmaster.one/)
 * [Taskmaster AI - The PM for your AI agent](https://www.task-master.dev/)
   * [claude-task-master: An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.](https://github.com/eyaltoledano/claude-task-master)
+* [TesterArmy: Test your app with AI, catch bugs before users do](https://tester.army/)
+  * AI가 앱을 테스트해 사용자보다 먼저 버그를 잡아주는 도구
 * [ThesisAI](https://thesisai.io/)
 * Toolify [Best AI Tools Directory & AI Tools List - Toolify](https://www.toolify.ai/)
 * [toon: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK](https://github.com/toon-format/toon)
@@ -5285,6 +5310,10 @@ Artificial Intelligence
     * [svg-infographic 스킬 예제 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/examples/svg-infographic/README.ko.md)
     * [설치 가이드 (INSTALL.md)](https://github.com/kyungseo/skillstead/blob/main/docs/INSTALL.md)
     * [Fable 5로 Skill 개선 손그림 sketch 프리셋 출시 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=37310132198600524)
+    * [writing-quality-editor 스킬 (README.ko)](https://github.com/kyungseo/skillstead/blob/main/skills/writing-quality-editor/README.ko.md)
+      * [writing-quality-editor로 공개 README를 전수 교정한 커밋](https://github.com/kyungseo/skillstead/commit/be0383ae64b8faae2e39bff270b2d7c01c10b474)
+      * [writing-quality-editor 스킬 공유 | 생활코딩 Facebook](https://www.facebook.com/groups/174499879257223?multi_permalinks=37463217306625345)
+      * 글 품질 교정 스킬. root·skill·example README 34개를 Assess한 뒤 독자 문제가 확인된 25개만 Revise/Adapt하고 나머지는 no-edit gate로 보존. 사실·지원 범위·식별자·생성 프롬프트는 유지하며 번역투·불필요한 영문 혼용·작성자 내부 표현을 자연스러운 문장으로 교정
     * 에이전틱 코딩 워크플로용 재사용 스킬 모음. 첫 스킬 svg-infographic—기술 설명에서 편집 가능한 SVG 다이어그램+2× PNG 생성(아키텍처·프로세스 플로·마이그레이션 플랜), CJK 안전 렌더링. 소스 컨트롤로 팀 공유, 레이아웃·치수 검증 체크
   * [SuperClaude_Framework: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies](https://github.com/SuperClaude-Org/SuperClaude_Framework)
     * [SuperClaude Framework 공식 사이트](https://superclaude.netlify.app/)
@@ -5344,6 +5373,9 @@ Artificial Intelligence
   * MCP 대신 CLI 통신으로 AI 에이전트와 오픈소스 SW 직접 연결. 레포 지정 시 7단계 파이프라인(분석→설계→계획→구현→테스트→문서화→배포)으로 CLI 자동 생성. Blender, Inkscape 등 검증
 * [cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
+* [CLIProxyAPI: Wrap Antigravity, Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service](https://github.com/router-for-me/CLIProxyAPI)
+  * [🆓 Claude Code Codex Gemini CLI를 하나의 프록시로 CLIProxyAPI 무료 설치 및 설정 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code-Codex-Gemini-CLI%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A1%9C-CLIProxyAPI-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * Antigravity·ChatGPT Codex·Claude Code·Grok Build 구독을 OpenAI/Gemini/Claude/Codex 호환 API 서비스로 래핑해, 무료 Gemini 3.1 Pro·GPT 5.5·Grok 4.3·Claude를 API로 사용. Go, 43k stars
 * [cmux](https://www.cmux.dev/)
   * [cmux: A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
   * [Claude Code + CMUX: 최강의 AI 코딩 터미널을 만나보세요 - YouTube](https://www.youtube.com/watch?v=FXf-KKiLZmk)
@@ -6110,6 +6142,8 @@ Artificial Intelligence
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
   * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
+* [skills: Agent Skills for Google products and technologies | Google](https://github.com/google/skills)
+  * Google 제품·기술용 에이전트 스킬 모음. 코딩 에이전트가 Google 도구·서비스를 잘 다루도록 하는 SKILL.md 큐레이션. 14.9k stars
 * [skills](https://github.com/huggingface/skills) Agent Context Protocol (ACP) definitions for AI/ML tasks like dataset creation, model training, and evaluation
   * [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training)
 * [Skills Manager](https://sm.idoevergreen.me/)
@@ -6149,6 +6183,8 @@ Artificial Intelligence
   * [Void - Cursor 대체용 오픈소스 코드 에디터 프로젝트 | GeekNews](https://news.hada.io/topic?id=20787)
 * [VoltAgent - Open Source TypeScript AI Agent Framework](https://voltagent.dev/)
   * [voltagent: AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework](https://github.com/VoltAgent/voltagent)
+  * [awesome-codex-subagents: A collection of 130+ specialized Codex subagents covering a wide range of development use cases](https://github.com/VoltAgent/awesome-codex-subagents)
+    * 개발 유스케이스별 전문 Codex 서브에이전트 130+종 큐레이션
 * [Walnut — The open-source home for all your Claude Code](https://openwalnut.dev/)
   * 로컬·원격 서버의 Claude Code 세션을 단일 콘솔에서 관리하는 셀프호스팅 웹 인터페이스. 실시간 도구 호출 스트리밍, GitHub 스타일 코드 리뷰, 태스크 관리, 로컬 노트 저장. 모든 데이터를 자체 인프라에 보관
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
