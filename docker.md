@@ -734,6 +734,8 @@ Docker
   * [Docker 베이스 이미지 이해하기: 컨테이너 속 Ubuntu는 진짜 Ubuntu가 아님 | GeekNews](https://news.hada.io/topic?id=25997)
 * [A Decade of Docker Containers | ACM](https://cacm.acm.org/research/a-decade-of-docker-containers/)
   * [Docker 컨테이너 10년 | GeekNews](https://news.hada.io/topic?id=27313)
+* [코드가 환경을 모르는 구조 6/7 컨테이너는 왜 폭발하는가 | flex 팀블로그](https://flex.team/blog/2026/05/13/backend13)
+  * flex 백엔드 시리즈 "코드가 환경을 모르는 구조" 6편. 코드가 실행 환경(설정·경로·시크릿)을 알면 컨테이너가 왜 "폭발"하는지, 환경을 코드 밖으로 분리하는 설계 관점
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -3014,6 +3016,10 @@ Docker
   * [docker-builder](https://github.com/kakao/docker-builder)
   * [registryv2](https://github.com/kakao/d2hub-registry)
   * [deploy-registryv2](https://github.com/kakao/d2hub-deploy-registryv2)
+* [Davit - a native macOS UI for Apple containers](https://davit.app/)
+  * [davit: A native macOS UI for Apple's container platform](https://github.com/wouterdebie/davit)
+  * [Davit - Apple Containers용 네이티브 macOS UI | GeekNews](https://news.hada.io/topic?id=31243)
+  * Apple의 container 플랫폼을 위한 네이티브 macOS GUI. 컨테이너·이미지 관리를 CLI 대신 데스크톱 UI로. Swift
 * [Daytona · Dev Environment Manager](https://www.daytona.io/)
   * [daytona: The Open Source Dev Environment Manager](https://github.com/daytonaio/daytona)
   * [Daytona - 오픈소스 개발환경 관리자 | GeekNews](https://news.hada.io/topic?id=16887)
