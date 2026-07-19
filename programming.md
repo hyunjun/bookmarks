@@ -2500,6 +2500,8 @@ Programming
 * [Generic or Specific? Making Sensible Software Design Decisions • Bert Jan Schrijver • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=lh5qWwIj06s)
 * [On making architectural decisions - BTABoK](https://btabok.iasaglobal.org/on-making-architectural-decisions/)
   * [균형 잡힌 아키텍처 결정을 위하여](https://maily.so/saascenter/posts/3bfe06cc)
+* [ADRs in a post-flip world | Garry Shutler](https://gshutler.com/2026/06/adrs-in-a-post-flip-world/)
+  * AI 코딩 에이전트가 코드를 대량 생성하는 시대에 ADR(Architecture Decision Record)이 갖는 새 역할. 결정의 맥락·근거를 문서로 남기는 것이 에이전트 협업에서 더 중요해진다는 관점
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
 * [당근페이 금융 거래 내역 Aggregator 개발기. 당근페이의 거래 내역이 가지고 있던 구조적 문제를 Aggregator로… | by Winter You | 당근 테크 블로그 | Aug, 2024 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EA%B8%88%EC%9C%B5-%EA%B1%B0%EB%9E%98-%EB%82%B4%EC%97%AD-aggregator-%EA%B0%9C%EB%B0%9C%EA%B8%B0-6817f57aef56)
 * [Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BNTt2aLB1tg)
@@ -6457,6 +6459,9 @@ Programming
 * [Configuration File Validation Check - Config](https://www.configapp.com/2018/01/09/configuration-file-validation-check/) 여러가지 언어, 도구 등의 설정 검사 방법
 * [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 * [A Simple Implementation of Dynamic Configuration | by Jae Hyeon Bae | Robinhood](https://robinhood.engineering/a-simple-implementation-of-dynamic-configuration-71383bcc803b)
+* [Safeguarding Dynamic Configuration Changes at Scale | Airbnb Engineering](https://medium.com/airbnb-engineering/safeguarding-dynamic-configuration-changes-at-scale-5aca5222ed68)
+  * [Sitar Agent: Building a Reliable Dynamic Configuration Sidecar at Scale | Airbnb Engineering](https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068)
+  * Airbnb의 대규모 동적 설정 변경 안전장치 구축기. 잘못된 설정 변경이 장애로 번지지 않도록 검증·롤아웃을 지키는 방법과, 이를 담당하는 신뢰성 있는 설정 사이드카(Sitar Agent) 설계
 * [개발자를 위한 인프라 기초 총정리 | Writer, IT Blog](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 * [**(공유) 대규모 인프라를 운영하기 위한 15가지 정보**](https://brunch.co.kr/@topasvga/1510)
 * [Modern Infrastructure Automation with Packer, Terraform, and Consul](https://www.hashicorp.com/resources/modern-infrastructure-automation-with-packer-terraform-and-consul)
@@ -7632,6 +7637,7 @@ Programming
   * [6월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/06/b-6-4.html)
   * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/07/b-7-1.html)
   * [7월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/07/b-7-2.html)
+  * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/07/b-7-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
