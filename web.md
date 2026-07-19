@@ -691,6 +691,9 @@ Web
   * `r.jina.ai/URL`로 웹 페이지를 LLM 최적화 마크다운으로 변환, `s.jina.ai/QUERY`로 검색. API 키 불필요
 * [web-access: Agent Skill for comprehensive web access with CDP browser control](https://github.com/eze-is/web-access)
   * AI 에이전트에 웹 접근 능력 부여. WebSearch/WebFetch/curl/Jina/CDP 자동 선택, 로그인 세션 유지 CDP 프록시 브라우저, 사이트 경험 축적(도메인별 URL 패턴·함정 기록), 병렬 서브에이전트 실행
+* [wigolo — The go-to web for your AI coding agent](https://knockoutez.github.io/wigolo/)
+  * [wigolo: local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query](https://github.com/KnockOutEZ/wigolo)
+  * AI 코딩 에이전트를 위한 로컬 우선 웹 검색·페치·크롤·리서치 MCP 서버. API 키·클라우드 없이 쿼리당 비용 $0. TypeScript, public beta
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
