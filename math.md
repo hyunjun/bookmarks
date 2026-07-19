@@ -136,6 +136,8 @@ Math
   * [Math-for-Programmers: Source code for the book, Math for Programmers](https://github.com/orlandpm/Math-for-Programmers)
   * [What are Fractals and How to Create Them with Python - YouTube](https://www.youtube.com/watch?v=83JIgswVaGo)
 * [openstax.org/subjects/math](https://openstax.org/subjects/math)
+* [Proofs and Concepts: the fundamentals of abstract mathematics](https://deductivepress.ca/dmorris/books/proofs+concepts.pdf)
+  * Dave Witte Morris·Joy Morris(University of Lethbridge)의 무료 추상수학 입문 교재. 논리·증명·집합·함수 등 기초를 다룸(P. D. Magnus의 forallx 논리 자료 통합). CC BY-NC-SA 라이선스 PDF
 
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
