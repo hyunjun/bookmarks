@@ -466,6 +466,11 @@ Open Source
   * .NET 6에 핫 리로딩 기능이 들어갈 예정이었지만 이 결정이 번복되고 GitHub에 들어왔던 코드를 다시 제거하는 작업 진행
   * 이에 대해 개발자들이 목소리를 내서 다시 핫 리로딩이 .NET 6에 포함
   * 이번 사건은 이렇게 해결, 앞으로도 회사가 주도하는 오픈소스에서 이러한 부분은 계속 관심 가져야 할 이슈
+* [Microsoft Comic Chat](https://microsoft.github.io/comic-chat/)
+  * [comic-chat: Source code for the Microsoft Comic Chat IRC client](https://github.com/microsoft/comic-chat)
+  * [Microsoft Comic Chat is now open source | Microsoft Open Source Blog](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+  * [Microsoft Comic Chat, 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=31503)
+  * 1990년대 만화 형태로 대화를 표현하던 Microsoft Comic Chat IRC 클라이언트의 소스코드를 오픈소스로 공개. C++
 
 # Nasa
 * [나사, 항공·환경 관련 SW 소스코드 15종 무료 공개](http://www.bloter.net/archives/273162)
