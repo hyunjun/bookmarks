@@ -4799,6 +4799,9 @@ Business
   * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
 * [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
 * [어느 날, 버튼이 나에게 말을 걸었다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1774/)
+* [If you're a button, you have one job | Unsung](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+  * [버튼이라면 할 일은 하나뿐 | GeekNews](https://news.hada.io/topic?id=31157)
+  * 버튼이라는 UI 요소의 본분—단 하나의 명확한 동작을 수행해야 한다는 관점을 다룬 글
 * [프로덕트 디자인 in 스타트업](https://sonujung.com/product-design-in-startup)
   * 프로덕트 디자이너 설명, 어떤 일을 하냐 보다는 기업이 어떻게 일하기를 원하는지에 초점을 맞추어야 이해하기 좋다는 부분을 강조
   * 프로덕트 디자이너는 기능 중심 조직과 제품 중심 조직이 일하는 방식의 차이 때문에 발생, 두 조직에서 일하는 방식의 다른 점을 비교 설명
