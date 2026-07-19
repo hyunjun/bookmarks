@@ -3092,6 +3092,8 @@ CVPR2016)
 * [AI4AnimationPy — Python framework for character animation through neural networks](https://facebookresearch.github.io/ai4animationpy/)
   * [ai4animationpy](https://github.com/facebookresearch/ai4animationpy)
   * Meta Research의 뉴럴 네트워크 기반 캐릭터 애니메이션 프레임워크. MLP/오토인코더/코드북, GLB/FBX/BVH 모캡 임포트, 실시간 렌더링·IK, ECS 아키텍처. Unity 대비 학습 데이터 생성 4시간→5분, 추론 중 역전파 가능
+* [ArcReel: Open-source AI video workspace powered by AI Agents](https://github.com/ArcReel/ArcReel)
+  * AI 에이전트 기반 오픈소스 비디오 생성 워크벤치. 소설→캐릭터/장면/소품 디자인→극본→분경도(storyboard)→비디오 파이프라인, 컷 간 캐릭터·장면 일관성 유지. Nano Banana 2·Veo 3.1·Grok·Seedance·OpenAI 연동, Claude Agent SDK 기반. Python, Docker
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [EMO](https://humanaigc.github.io/emote-portrait-alive/)
