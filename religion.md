@@ -82,6 +82,8 @@ Religion
   * 기독교인이 아닌 이들도 배려해 쓴 글. 오늘날의 유대인이 성경 속 이스라엘 민족과 같지 않다며, 특히 태극기 부대의 이스라엘 국기 사용을 비판. "여러분이 생각하는 유대인은 바로 그 유대인이 아니다"라는 문제 제기
 * [김성일 - 성경이라고 부르는 책이 있고 (정경·외경·위경) | Facebook](https://www.facebook.com/sikim94/posts/pfbid0wksMGyeC8igppZSv7CmjGhMSSKboUVfCdovrgcRKWvaY5edd1qPgxt8wX5pugSpjl)
   * 성경이라 불리지만 성경이 아닌 책(외경), 성경인 척하는 책(위경)을 구분하는 글. 정경(canon)·외경(apocrypha)·위경(pseudepigrapha) 세 개념을 분명히 아는 것이 이단 주장에 흔들리지 않는 바른 믿음의 출발점이라는 취지
+* [쿰란(Qumran) 동굴과 사해두루마리 - 이스라엘 사해지역 | 가톨릭성지사진 Facebook](https://www.facebook.com/groups/485098798271956?multi_permalinks=28103676279320836)
+  * 사해두루마리(Dead Sea Scrolls)가 발견된 이스라엘 사해 지역 쿰란 동굴 성지 사진·소개
 * [김성아 - 수업 중에 종종 이런 비유를 하곤 한다. 신학대학을 졸업한 목사들이 거의 예외 없이 각자의 교회를 세우는... | Facebook](https://www.facebook.com/kim.sungah/posts/pfbid02c7bWDS1ArvEi2aJJAStp41Rqjd1YA166FQXtp6ZpWuRuMP7kpbRBQsg8FGDwESovl)
   * 한국 교회나 건축을 언급하지만 결국 사회 시스템의 문제
 
