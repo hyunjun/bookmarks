@@ -163,6 +163,8 @@ Art
 * [음악이 소름을 돋게 만드는 이유(2/2)](http://newspeppermint.com/2015/09/14/m-music2/)
 * [신해철은 죽고, 서태지는 사라졌다](http://www.huffingtonpost.kr/yongjun-min/story_b_8348414.html)
 * [패티 보이드를 둘러싼 음악과 음악가 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/2889)
+* [강호정 - 아버지의 흔적 (Synclavier와 전자음악) | Facebook](https://www.facebook.com/hojung.kang/posts/pfbid02BDcVpKXCjFcsz8gwDYQ6Y4ZcoCTf9q36QYwexqLKcUQQmioTETwb1xyvDiemNqn2l)
+  * 베를린 공대 전자음악실의 Synclavier 신디사이저를 검색하다 우연히 발견한, 작고하신 아버지에 관한 팟캐스트를 계기로 아버지·음악·전자음악을 회상하는 글
 
 ## Classic
 * [kkacl.com/md](http://www.kkacl.com/md)
