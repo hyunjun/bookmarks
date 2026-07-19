@@ -937,6 +937,12 @@ Git
   * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * grep
   * [git으로 파일내용이나 커밋로그 검색하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/849)
+* history
+  * [The git history command deserves more attention | Lalit Maganti](https://lalitm.com/post/git-history/)
+    * [Git history 명령어는 더 많은 관심을 받을 자격이 있다 | GeekNews](https://news.hada.io/topic?id=31438)
+    * Git 2.54~2.55에 도입된 실험적 `git history` 명령. 기존 워크플로를 유지하며 과거 커밋 수정·파생 브랜치 재구성을 자동화. `fixup`은 스테이징 변경을 과거 커밋에 합친 뒤 파생된 모든 로컬 브랜치를 새 커밋 해시에 맞춰 자동 재정렬
+  * **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
+  * [git-story - Tell the story of your Git project by creating video animations (.mp4) of your commit history directly from your Git repo](https://initialcommit.com/tools/git-story)
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [Husky 사용할 때 주의! - 코드쓰는사람](https://taegon.kim/archives/10276)
@@ -1467,7 +1473,6 @@ Git
   * [Git FTP를 사용하여 파일 업로드하기 - FTP를 통해 파일을 업로드하기 위해 Git FTP를 사용하는 방법에 대해서 알아봅시다](https://deku.posstree.com/ko/git/git-ftp/)
 * [GitGuardian: Git Security Scanning & Secrets Detection](https://www.gitguardian.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
-* **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * github1s
   * [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
@@ -1581,7 +1586,6 @@ Git
 * [GitScraper - Downloads entire Git repositories from publicly accessible .git folders over HTTP](https://github.com/delight-im/PHP-GitScraper)
 * [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [Git Sketch Plugin - A Git client generating pretty diffs built right into Sketch](https://mathieudutour.github.io/git-sketch-plugin/)
-* [git-story - Tell the story of your Git project by creating video animations (.mp4) of your commit history directly from your Git repo](https://initialcommit.com/tools/git-story)
   * [Git-Story : 커밋 히스토리를 애니메이션으로 만들어 설명하기 | GeekNews](https://news.hada.io/topic?id=7038)
 * [gitswarm](http://www.perforce.com/gitswarm)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
