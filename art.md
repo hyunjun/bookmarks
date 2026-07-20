@@ -241,6 +241,8 @@ Art
 * [Unlocking the secrets of the Geneva Freeport: A haven for priceless art and tax evasion | The Swiss Times](https://theswisstimes.ch/unlocking-the-secrets-of-the-geneva-freeport-a-haven-for-priceless-art-and-tax-evasion/)
   * [김효경 - 세계에서 그림이 가장 많은 곳은 어디일까? | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0TDn7ZS16sDWKWjiCzYBgarRECGCYnnQEjNYg4FD6ZZcDx384zbvn4PZmmAUqmTxSl)
   * 제네바 프리포트(면세창고)에 피카소·고흐·다빈치 등 120만 점, 가치 1,000억 달러 미술품 보관. 프리포트 내 거래는 세금 0·기록 없음 → 조세회피·자금세탁·장물(도굴 유물·자코모 메디치 사건) 온상. 영화 <테넷> 배경. "자본의 도구가 된 미술시장의 종착지이자 명작의 카타콤"
+* ['키스' 속 난자와 정자, 우연 아니었다…클림트 작품에서 발견한 생명의 흔적 | 하이닥](https://v.daum.net/v/20260720190209311)
+  * 구스타프 클림트의 '키스'(1907)·'다나에'에 정자·난자·세포분열이 숨어 있다는 강연(유임주 고려대 의대 교수·마르쿠스 뮐러 빈 의대 총장). 클림트가 단순한 사랑을 넘어 생명의 순환을 의학적으로 표현—예술과 의학이 만난 19세기 빈, "예술은 생명을 이해하는 또 하나의 언어"
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
