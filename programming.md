@@ -1041,6 +1041,8 @@ Programming
   * [230708 프로그래밍은 왜 어려울까? - 강대명 · Present](https://present.do/documents/64aa85c910ab9a5ae55bad48)
 * [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
+* [The Green Shift: Transitioning .NET Services Across Architectures • Sara Bergman • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=vuxdRlVmzSU)
+  * "Building Green Software" 공저자 Sara Bergman(Microsoft). .NET 서비스를 ARM CPU(Azure Cobalt 등) 아키텍처로 전환해 에너지 효율·지속가능성을 높이는 방법. 그린 소프트웨어 관점의 아키텍처 마이그레이션 사례
 * [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
 * [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2106/)
 * [Idempotence vs. Determinism](https://nolongerset.com/idempotence-vs-determinism/)
@@ -10183,6 +10185,8 @@ Programming
     * 1.1.1.1/32를 블랙홀 경로로 여러 네트워크에서 수락
     * AS262504(Nova)가 라우팅을 유출하면서 영향이 확대
 * [Postmortem on Next.js Middleware bypass - Vercel](https://vercel.com/blog/postmortem-on-next-js-middleware-bypass)
+* [Why a Single Command Took Down Azure: The Myth of "Human Error" - YouTube](https://www.youtube.com/watch?v=Msi4Kbxe1vY)
+  * InfoQ. Sean Klein(Microsoft Azure PM)이 2023년 1월 글로벌 Azure WAN 2시간 장애를 해부. "운영자 실수"로 치부하고 교육만 고치는 통념 대신, 단순한 Five Whys 근본 원인을 넘어 여러 요인이 겹친 "perfect storm"으로 복잡계가 실패하는 방식을 설명
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
