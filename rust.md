@@ -50,6 +50,8 @@
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
 * [Visualizing Rust's type-system](http://jadpole.github.io/rust/type-system/)
 * [Exploiting Ousterhout’s Dichotomy for fast longitude, latitude to BNG conversion, using Rust, threads, and Python FFI](http://sensitivecities.com/rust-python-ffi-bng-EN.html)
+* [70,000 Lines of Code, 7 Languages: How to Scale via Rust Core - YouTube](https://www.youtube.com/watch?v=mGNe4zohcBg)
+  * InfoQ. Temporal SDK 팀 리드 Spencer Judge가 복잡한 클라이언트 로직을 7개 언어로 각각 구현하던 "다국어 SDK 함정"을 공유 Rust 코어+언어별 브리지로 통합한 청사진. C FFI 경계 메모리 관리, 비동기 런타임 동기화(Promise vs Future vs Fiber), WebAssembly·FlatBuffers 같은 zero-serialization IDL 전망
 * [Type-checked matrix operations in Rust](https://jadpole.github.io/rust/typechecked-matrix/)
 * [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
