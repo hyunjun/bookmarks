@@ -134,6 +134,8 @@ Game
 * [Openfoot Manager — Free and open source football manager game](https://openfootmanager.com/)
   * [openfootmanager](https://github.com/openfootmanager/openfootmanager)
   * Football Manager 영감의 오픈소스 축구 매니저 게임. Rust 매치 시뮬레이션 엔진 + React/TypeScript/TailwindCSS 프론트엔드 + Tauri 데스크톱 앱 + SQLite. GPLv3
+* [OpenMMO: An MMORPG where AI agents and human players are treated as equals](https://github.com/Julian-adv/OpenMMO)
+  * AI 에이전트와 사람 플레이어를 동등하게 대우하는 오픈소스 MMORPG. 둘 다 같은 WebSocket 프로토콜로 접속—에이전트 전용 특권 API 없이 사람과 똑같은 인터페이스로 참여해 서버가 구분 못함. Three.js 쿼터뷰 3D, Rust 서버, 1인 vibe-coded
 * [Owlcat Games - We create cRPGs](https://owlcat.games/learning)
   * [이상선 - Owlcat Games — 무료 게임 개발 학습 리소스 허브 공개 1. 게임 개발 입문자들을 위한 무료... | Facebook](https://www.facebook.com/100001916096643/posts/31845031711810618/)
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
