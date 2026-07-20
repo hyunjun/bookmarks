@@ -410,6 +410,8 @@ Linux
 * [Macbook M1/M2에 Ubuntu Asahi Linux 설치 하는 방법 - YouTube](https://www.youtube.com/watch?v=Z946l_4t7VE)
 * [How To Install Ubuntu On Mac - YouTube](https://youtube.com/watch?v=rGUssJLeyQU)
 * [우분투의 크롬 웹브라우저에서 구글 문서 사용시 한글 오타 해결 방법](https://haebojayo.tistory.com/25)
+* [우분투 Python 개발 환경: Visual Studio Code + Miniconda + Claude Code 설치 가이드 | 멈춤보단 천천히라도](https://webnautes.com/우분투-python-개발-환경-visual-studio-code-miniconda-claude-code-설치-가이드/)
+  * 우분투에서 VS Code·Miniconda·Claude Code를 설치하고 Python 코드를 작성·실행하는 개발 환경 구축 가이드
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
