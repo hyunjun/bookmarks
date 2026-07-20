@@ -3504,6 +3504,10 @@ Artificial Intelligence
 * [2607.04371 Nemotron-Labs-3-Puzzle-75B-A9B: Compressing Hybrid MoE LLMs](https://arxiv.org/abs/2607.04371)
   * [Nemotron-Labs-3-Puzzle-75B-A9B란? 대규모 LLM을 2배 더 효율적으로 배포하는 모델 압축 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3357)
   * NVIDIA. Nemotron-3-Super의 압축 버전으로 동일 사용자 처리량 제약에서 서버 처리량 약 2배. 반복적 puzzle 압축+지식 증류+RL+양자화, MoE 프루닝·Mamba 컴포넌트 최적화. 대폭 축소에도 추론·코딩·다국어·롱컨텍스트 벤치마크 성능 유지
+* [2607.10252 One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions](https://arxiv.org/abs/2607.10252)
+  * [AIDB | X](https://x.com/ai_database/status/2078634244210147517)
+  * [류내원 - One Token Is Enough | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02bfVHe2XPRtxNRpQYRb8ZBUpJHGs8ynsr5SXgXq1BEikBYaWrEsESVE8V4fASubifl)
+  * API 애그리게이터·리셀러·추론 프로바이더 등 불투명한 서빙 체인에서 광고된 모델이 실제 응답하는 모델과 같은지 검증하는 문제. 긴 텍스트·로그확률·적대적 프롬프트·모델 소유자 협조 없이, "무작위 단어 하나 대라" 같은 사소한 one-word 프롬프트에 대한 답변의 경험적 분포를 행동 지문(behavioral fingerprint)으로 정의해 단일 토큰 출력만으로 모델을 식별·검증
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
