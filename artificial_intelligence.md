@@ -862,6 +862,10 @@ Artificial Intelligence
   * [🔍 Anthropic 이 공개한 SKILL.md body 작성 규칙 5가지, 문서에 숨어 있었습니다 놓치기 쉬운 부분입니다. Skill 은 YAML frontmatter 두 줄이면 만들 수 있지만 body 를 어떻게 쓰느냐에 따라 결과물 품질이 완전히 갈리거든요. Anthropic 공식 문서와 엔지니어링 블로그를 교차 검증하면서 작동 구조와… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_anthropic-%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-skillmd-body-%EC%9E%91%EC%84%B1-%EA%B7%9C%EC%B9%99-5%EA%B0%80%EC%A7%80-activity-7428729561946722304-O3kE)
   * [클로드/GPT 스킬, 파일 3개면 끝 — 구조부터 실전 생성까지 - YouTube](https://www.youtube.com/watch?v=uy-ihjZ-oHI)
     * SURVIVAL AI. 프로젝트 지시문과 스킬의 차이, SKILL.md 구조·작동 원리, 클로드/GPT에서 직접 스킬 만드는 법. "스킬은 프롬프트의 확장"
+  * [앤트로픽 공식 강의 Introduction to agent skills 한국어 튜토리얼 | 모던웹연구소](https://www.modernweblabs.com/ko/insights/claude-code-agent-skills-tutorial)
+    * [Manage Claude's memory | Claude Code Docs](https://code.claude.com/docs/en/memory)
+    * [이보라 - 앤트로픽 공식 agent skills 강의 한국어 튜토리얼 | Facebook](https://www.facebook.com/learner.bora/posts/pfbid0TZfgHNZ71skk4njqV8mUTmX1v4KPsGxdcHm8Fogmt82XLpcBFmqykhDXrsbKRtL8l)
+    * Anthropic 공식 강의 "Introduction to agent skills" 6개 챕터 한국어 튜토리얼. 개인 생산성 팁 위주 강의와 달리 우선순위 체계·조직 배포·도구 제한까지 다루고, 원본에 없는 규칙 파일(rules)과 스킬 비교를 보강
 * [agent-skills: A collection of AI agent skills for Clawdbot, Claude Code, Codex](https://github.com/jdrhyne/agent-skills)
   * [AI 에이전트를 더 똑똑하게 만드는 agent-skills 저장소 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3292)
   * 재사용 가능한 스킬·프롬프트 라이브러리. 범용 스킬(태스크 오케스트레이션·리서치 루프·문서 처리, 79% 크로스플랫폼), API 통합(Jira/GA/Zendesk/Salesforce), 순수 프롬프트(디자인 원칙·엔지니어링 베스트 프랙티스), 플랫폼별(OpenClaw/Claude Code/Codex). 의사결정 트리·트레이드오프 분석 등 전문 지식 강조
@@ -1639,8 +1643,10 @@ Artificial Intelligence
     * 프롬프트 엔지니어링의 후계. 단계별 지시 대신 AI가 자율 작동하는 외부 시스템 설계로 전환—Discovery(실패 자체 발견)→Handoff(격리 환경 분배)→Validation(독립 검증 에이전트)→Persistence(외부 영구 저장)→Scheduling(자동 재가동) 5단계. 검증 부채·아키텍처 이해 공백·인지적 안주·토큰 비용 폭발 리스크 경고
   * [요즘 유행하는 Loop Engineering! - YouTube](https://www.youtube.com/watch?v=z-3BRkxQ5GM)
     * 코드팩토리. Boris Cherny와 Peter Steinberger가 멘션하며 유행하기 시작한 Loop Engineering 개념 총정리
-  * [Getting started with loops | ClaudeDevs](https://x.com/ClaudeDevs/status/2074208949205881033)
+  * [Getting started with loops | Claude Blog](https://claude.com/blog/getting-started-with-loops)
+    * [Getting started with loops | ClaudeDevs](https://x.com/ClaudeDevs/status/2074208949205881033)
     * [Claude Code의 Loop 개념과 활용 방식 정리: 에이전트 자동화를 위한 실전 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/3343)
+    * [클로드 코드로 시작하는 에이전트 루프: 반복 작업을 자동화하는 실전 가이드 | digitalbourgeois](https://digitalbourgeois.tistory.com/3391)
     * Claude Code 팀의 공식 루프 입문 가이드. 루프를 "정지 조건에 도달할 때까지 작업 사이클을 반복하는 에이전트"로 정의하고, 트리거·정지 기준에 따라 4유형(Turn-based·Goal-based·Time-based·Proactive) 분류. 코드 품질·토큰 사용 관리 전략 포함
   * [Loop engineering이란 도대체 무엇인가 | Toby's Codex](https://codex.epril.com/loop-engineering-structural-comparison)
     * 이일민(토비). 루프 엔지니어링의 두 가지 패러다임—주기적 반복 작업 vs 지속적 목표 달성—을 구조적으로 비교 분석
@@ -3508,6 +3514,9 @@ Artificial Intelligence
   * [AIDB | X](https://x.com/ai_database/status/2078634244210147517)
   * [류내원 - One Token Is Enough | Facebook](https://www.facebook.com/won.wizard/posts/pfbid02bfVHe2XPRtxNRpQYRb8ZBUpJHGs8ynsr5SXgXq1BEikBYaWrEsESVE8V4fASubifl)
   * API 애그리게이터·리셀러·추론 프로바이더 등 불투명한 서빙 체인에서 광고된 모델이 실제 응답하는 모델과 같은지 검증하는 문제. 긴 텍스트·로그확률·적대적 프롬프트·모델 소유자 협조 없이, "무작위 단어 하나 대라" 같은 사소한 one-word 프롬프트에 대한 답변의 경험적 분포를 행동 지문(behavioral fingerprint)으로 정의해 단일 토큰 출력만으로 모델을 식별·검증
+* [2607.13104 Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104)
+  * [AI Agent의 자기 개선(Self-Improvement) 체계: Foundation Model과 Scaffolding 기반 자율 진화 프레임워크 | digitalbourgeois](https://digitalbourgeois.tistory.com/3393)
+  * 자기개선 자율 에이전트 서베이. 현대 에이전트를 파운데이션 모델+운영 스캐폴드(프롬프트·메모리·도구·제어 로직)의 결합으로 보는 시스템 레벨 프레임워크 제시. 자기개선을 모델 파라미터 또는 스캐폴드 구성요소에 업데이트를 획득·커밋하는 self-induced update operator로 형식화, 경험을 누적 역량 향상으로 전환하는 적응 시스템으로 정리
 * [586830145_834419405978070_3937417229378696315_n.pdf](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/586830145_834419405978070_3937417229378696315_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=d65b48&_nc_ohc=KjIRxfgDxfAQ7kNvwGoG65l&_nc_oc=AdnmBuJ6JGzJoT-o1g2p5kU_Ie9Q6l0opInwzN9gx8-cFLdqu4nIoqAqcX5UbBS2tXg&_nc_zt=14&_nc_ht=scontent-ssn1-1.xx&_nc_gid=0GTg5NssrgYoqvvZMVLzaQ&oh=00_Afj4G_ayFCEs9RYgDV7LwWV6wQLZCrwNX3m3RqRso03rUA&oe=6928D4C0)
   * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어](https://www.meta.com/ko-kr/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
     * [Research Update: WorldGen — Text to Immersive 3D Worlds | Meta Quest 블로그 | Meta 스토어 | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_research-update-worldgen-text-to-immersive-activity-7398104607908007936-kchh)
@@ -3695,6 +3704,9 @@ Artificial Intelligence
   * [미래의 직업 시장을 훔쳐보는 것 같다. 클로드코드 창시자 Boris가 말하는 5가지 아키타입 | Jaeyun Henry Lee](https://www.linkedin.com/posts/jaeyunhenrylee_%EB%AF%B8%EB%9E%98%EC%9D%98-%EC%A7%81%EC%97%85-%EC%8B%9C%EC%9E%A5%EC%9D%84-%ED%9B%94%EC%B3%90%EB%B3%B4%EB%8A%94-%EA%B2%83-%EA%B0%99%EB%8B%A4-%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%B0%BD%EC%8B%9C%EC%9E%90-boris%EA%B0%80-share-7477159997827624960-y-vm/)
   * [클로드 코드 리더가 제시한 미래 조직··· 프로토타이퍼·빌더·그로워 - CIO Korea](https://www.cio.com/article/4190426/)
   * 엔지니어링·프로덕트·디자인·DS가 하나의 역할로 녹아드는 시대, Claude Code 팀에서 관찰한 5가지 아키타입—Prototyper(아이디어 양산)·Builder(프로토타입→프로덕션)·Sweeper(UI 정리·단순화·최적화)·Grower(PMF 개선 반복)·Maintainer(성숙 시스템의 보안·신뢰성·확장). 직무 타이틀과 무관하게 분포, 제품 단계별로 필요한 조합이 다름(pre-PMF는 1+2+3, 성장기는 2+3+4, 강한 PMF는 3+4+5)
+* [Boris Cherny - AI 도입 5단계 로드맵 (Claude artifact)](https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf)
+  * [AI 도입 5단계 로드맵, 조직이 다음 단계로 나아가지 못하는 이유와 해결 전략 | digitalbourgeois](https://digitalbourgeois.tistory.com/3392)
+  * Claude Code를 만든 Boris Cherny가 정리한 조직의 AI 도입 0~4단계 모델. 각 단계에서 마주하는 병목과 이를 넘기 위한 가드레일을 함께 제시—개별 엔지니어는 Claude로 생산성을 크게 높여도 조직 전체는 같은 속도로 변하지 못하는 현상을 단계별로 진단
 * [에이전트 AI 코딩, 프로그래밍 패러다임을 바꾸다](https://digitalbourgeois.tistory.com/2814)
   * 개발자 역할이 "코더"에서 "오케스트레이터"로 변화. 명확한 작업 설계, 에이전트 관리, 결과 검토 능력이 새로운 경쟁력. 모호한 목표와 감각적 판단은 여전히 인간 개입 필요
 * [AddyOsmani.com - The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
@@ -5135,7 +5147,10 @@ Artificial Intelligence
       * Atlassian이 기존 구조화 콘텐츠 파이프라인에서 DESIGN.md를 생성·실전 테스트. 빠른 프로토타이핑엔 효과적(키노트 데모에서 제네릭 AI 출력을 Atlassian풍 UI로 전환). 한계: 자사 MCP 대비 토큰 ~92% 더 소모, 정보를 한 번에 로드, 단일 파일 압축으로 세부 손실, 컴포넌트 재사용 대신 재생성 유도. 아트 디렉션·낯선 환경 프로토타이핑·툴 상호운용·고객 테마링에 적합
   * [design-plugin](https://github.com/0xdesign/design-plugin) UI 변형 생성하고 비교하는 플러그인
   * [everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner](https://github.com/affaan-m/everything-claude-code)
-    * [ECC Tools](https://ecc.tools/)
+    * [ECC Tools — Open Agent Harness System](https://ecc.tools/)
+      * [ECC: The agent harness performance optimization system](https://github.com/affaan-m/ECC)
+      * [🤖 Agent Harness ECC 에이전트 하니스 성능 최적화 시스템 완벽 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Agent-Harness-ECC-228K-%EC%8A%A4%ED%83%80%EC%9D%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%95%98%EB%8B%88%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+      * 에이전트 하네스 성능 최적화 시스템. 스킬·본능(instincts)·메모리·보안·research-first 개발을 Claude Code·Codex·Opencode·Cursor 등에 제공. repo에서 시작해 GitHub App으로 repo-native 가이드, AgentShield·rollout 레이어 추가. JavaScript
     * [Everything Claude Code - 해커톤 우승자의 AI 개발 팀 레시피 :: ROBOCO](https://roboco.io/posts/everything-claude-code-distilled/)
     * [Everything Claude Code로 Claude 코딩 환경 업그레이드하기 - TILNOTE](https://tilnote.io/en/pages/696db2d265a2e4dd63f35cc7)
     * [The Claude Code setup that won a hackathon | by JP Caparas | Jan, 2026 | Dev Genius](https://blog.devgenius.io/the-claude-code-setup-that-won-a-hackathon-a75a161cd41c)
@@ -5762,6 +5777,10 @@ Artificial Intelligence
     * [미래의 코딩은 다르다! 구글 랩스가 제시하는 선제적 AI 에이전트 Jewels 공개 - YouTube](https://www.youtube.com/watch?v=jBdMaUpLjAQ)
       * [구글 랩스의 선제적 AI 에이전트 Jewels: 미래 코딩의 변화와 개발자 경험 혁신](https://livewiki.com/ko/content/future-coding-ai-agents-jewels)
 * [Junie, the AI coding agent by JetBrains](https://www.jetbrains.com/junie/)
+* [Kimi Code CLI is your next CLI agent | Moonshot AI](https://moonshotai.github.io/kimi-cli/zh/)
+  * [kimi-cli: Kimi Code CLI is your next CLI agent](https://github.com/MoonshotAI/kimi-cli)
+  * [이상선 - Kimi CLI | Facebook](https://www.facebook.com/lsszz1/posts/pfbid02Hbwmn37AWYvd5giTm8P3M1wb6y8y6LVervBmyi5Fu3JJwDoBQoBZ8BePHSzN6DcSl)
+  * Moonshot AI의 터미널 코딩 에이전트 CLI. Kimi 모델 기반. Python, 10k stars
 * [Kombai - The AI Agent Built for Frontend Development](https://kombai.com/)
   * [가장 아름다운 UI/UX, Figma 디자인 그대로 옮겨 올 수 있는 프론트엔드 최적화 AI! Kombai! - YouTube](https://www.youtube.com/watch?v=Zm_N4H4wcWQ)
 * [LogTape - Unobtrusive logging library with zero dependencies, library-first design for Deno, Node.js, Bun, browsers, and edge functions](https://logtape.org/)
