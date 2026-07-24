@@ -1712,6 +1712,9 @@ Deep Learning
   * [논문 리뷰 4D Gaussian Splatting CVPR 2024 Dynamic Scene 랜더링 | xoft](https://xoft.tistory.com/54)
   * [조지훈 - 4D Gaussian Splatting: 3D 컨텐츠의 종말 혹은 시작 | Facebook](https://www.facebook.com/watch?v=1512033510369256)
   * Huazhong University of Science and Technology + Huawei. 3D Gaussian + 4D 신경 voxel 통합 표현. HexPlane 영감 분해 인코더로 4D 공간(3D+시간)을 6개 2D 평면(XY-ZT/XZ-YT/YZ-XT)으로 분해, 경량 MLP가 timestamp별 Gaussian 변형(위치·회전·스케일링) 예측. 30분 학습으로 고해상도 동적 장면 재구성, RTX 3090에서 800×800 해상도 82 FPS. 2단계 최적화(정적 후 동적 fine-tune), L2 색상 + TV loss. D-NeRF/Nerfies/DyNeRF/HyperNeRF 데이터셋 검증
+* [MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors](https://prototypenx.github.io/MetaView/)
+  * [MetaView: 단일 이미지 기반 대규모 시점 변환을 구현하는 Scale-Aware Novel View Synthesis 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3401)
+  * 단일(monocular) 이미지에서 새로운 시점(novel view)을 합성하는 기술. scale-aware implicit geometry prior로 대규모 시점 변환 구현
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
