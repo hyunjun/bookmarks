@@ -150,6 +150,8 @@
   * ["애플 앱 추적 투명성 기능 미흡" 구글, 안드로이드 개인정보 보호 기능 강화 예고 - ITWorld Korea](https://www.itworld.co.kr/news/225829)
 
 # Library
+* [digital-marketing-pro: Open-source AI marketing plugin for agencies & in-house teams](https://github.com/indranilbanerjee/digital-marketing-pro)
+  * 158개 스킬·25개 전문 에이전트·12부 전략 플로우. Cowork 팀 지속성, EU AI Act 50조 대응, 6개 플랫폼 AEO/GEO(Google AI Mode 포함). Claude Code·Cowork·Codex·Cursor·Copilot CLI·Antigravity 설치. MIT
 * [Marketing Technology Landscape Supergraphic (2020): Martech 5000 - really 8,000, but who's counting? - Chief Marketing Technologist](https://chiefmartec.com/2020/04/marketing-technology-landscape-2020-martech-5000/)
 * [openpanel: All the goodies from both Mixpanel and Plausible combined into one tool](https://github.com/Openpanel-dev/openpanel)
   * [An open-source alternative to Mixpanel | Openpanel.dev](https://openpanel.dev/)
