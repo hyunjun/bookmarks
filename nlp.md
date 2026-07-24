@@ -1920,6 +1920,15 @@ NLP
   * [apeach.ipynb - Colaboratory](https://colab.research.google.com/drive/1djd0fuoMYIaf7VCHaLQIziJi4_yBJruP)
   * [apeach.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/8a2ce7fa1bf59883e8aa51b38f76f3e7/apeach.ipynb)
   * [jason9693/APEACH · Datasets at Hugging Face](https://huggingface.co/datasets/jason9693/APEACH)
+* [GLAN-QnA-KR · Datasets at Hugging Face](https://huggingface.co/datasets/daekeun-ml/GLAN-qna-kr-300k)
+  * [2607.20443 GLAN-QnA-KR: A Seedless Taxonomy-Driven Korean Instruction Corpus](https://arxiv.org/abs/2607.20443)
+  * seedless taxonomy 기반 GLAN 합성 파이프라인(producer: Microsoft Phi-3.5-MoE-instruct)으로 생성한 303,581행 한국어 instruction-QA 코퍼스. 1,084개 영어 학문 분류 × 한국어 Q/A, 100–900 난이도 척도, OpenRAIL 라이선스. 재배포 가능
+    * 1,084개 discipline taxonomy, difficulty scale 100–900
+    * Median 길이 — question 313자 / answer 1,098자
+    * 낮은 중복도(전체에서 exact duplicate 1건)와 한국어 벤치마크(KMMLU, KoBEST, HAE-RAE-Bench) 대비 낮은 contamination
+    * 라이선스: OpenRAIL (재배포 가능)
+  * 2024년 12월에 직접 합성해 공개
+  * Seed 없이 taxonomy로부터 생성하는 GLAN 합성 데이터셋 생성 방법론 사용(당시 코드가 공유되지 않아 직접 구현, 당시 회사 법무팀 승인까지 받아서 공개함)
 * [hatescore-korean-hate-speech: 8K human in the loop hate speech dataset and 2.2K neutral sentences](https://github.com/sgunderscore/hatescore-korean-hate-speech/)
 * [kmhas\_korean\_hate\_speech · Datasets at Hugging Face](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) 혐오발언 데이터
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
@@ -1928,6 +1937,15 @@ NLP
 * [KOTE: Korean Online That-gul Emotions Dataset](https://github.com/searle-j/KOTE)
 * [massive: Tools and Modeling Code for the MASSIVE dataset](https://github.com/alexa/massive)
   * [Amazon releases 51-language dataset for language understanding - Amazon Science](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
+* [naver-news-summarization-ko · Datasets at Hugging Face](https://huggingface.co/datasets/daekeun-ml/naver-news-summarization-ko)
+  * [2607.20442 Naver-News-KO: A Korean News Summarization Dataset for Open-Source Fine-Tuning of Summarization Models](https://arxiv.org/abs/2607.20442)
+  * 2022년 7월 네이버 뉴스(경제·IT/과학 77/23)에서 수집한 27,400쌍 한국어 뉴스 요약 데이터셋(train/val/test 22,194/2,466/2,740, 평균 압축비 6.03x) technical report로 정리. AI는 문법 교정 정도만 손보고 모든 문장은 직접 작성
+    * Character-compression ratio 6.03x, train/val/test = 22,194 / 2,466 / 2,740 split
+    * Test–train 간 title-Jaccard near-duplicate overlap 16.8% (누출 가능성을 숨기지 않고 그대로 리포트)
+    * Baseline: Lead-3 (ROUGE-1 55.1), KoBART (56.6), Gemma-2B-ko + LoRA (55.3)
+  * 2023년 1월부터 HF Hub 공개, 2026년 5월 기준 월 ~33,000 다운로드
+  * 수집, 생성 프로토콜부터 코퍼스 통계, contamination 분석, baseline까지 데이터셋 카드에 담지 못했던 디테일을 문서로 작성
+  * 오픈소스 한국어 데이터로 fine-tuning을 하는 경우 활용 가능
 * [NIA(National Information Society Agency) Dictionary](https://github.com/haven-jeon/NIADic)
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)

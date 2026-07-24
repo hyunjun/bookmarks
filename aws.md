@@ -230,6 +230,11 @@ AWS
 * [Amazon Connect 상담원 워크스페이스를 위한 단계별 가이드 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-step-by-step-guides-for-the-amazon-connect-agent-workspace/)
 * [amazon-connect-decisions-sample: Sample dataset and step-by-step guide for Amazon Connect Decisions](https://github.com/kjhyuok/amazon-connect-decisions-sample)
   * Amazon Connect Decisions(ACD)에서 Supply Plan·Demand Plan을 처음부터 성공시키는 샘플 데이터+단계별 가이드. CDM 호환 CSV 15개, 데이터 매핑·플랜 구성·검증 규칙·트러블슈팅 커버. 약 30분 내 두 플랜 생성
+  * 입력 데이터가 15개 CDM 테이블로 구성, 각 테이블 간 참조 관계와 데이터 검증 규칙이 까다로워서 처음 접하시는 분들이 동일한 시행착오를 반복하지 않도록 우선은 정상 동작하는 샘플 데이터셋과 단계별 가이드를 정리
+    * 15개 CDM 호환 샘플 CSV를 업로드 후 Supply Plan + Demand Plan 생성 가능
+    * 인스턴스 생성부터 Plan 성공까지 스크린샷 포함 단계별 가이드
+    * Supply Plan / Demand Plan 각각의 설정값 (검증 완료)
+    * 데이터 검증 규칙 체크리스트 및 자주 발생하는 에러 해결 방법
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
