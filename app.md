@@ -318,6 +318,8 @@ App
   * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음. C++, 6k+ stars
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
+* [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
+  * 웹 크롤링으로 이메일 주소를 대량 추출하는 OSINT 도구. 펜테스터·보안 분석가용
 * [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
   * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
@@ -340,6 +342,8 @@ App
 * [tlosint-vm: A Linux OSINT distribution built for Trace Labs, based on Kali Linux](https://github.com/tracelabs/tlosint-vm)
   * [VM Introduction | Trace Labs Docs](https://docs.tracelabs.org/vm/vm-introduction)
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
+* [TorBot: Dark Web OSINT Tool](https://github.com/DedSecInside/TorBot)
+  * 다크웹(.onion) OSINT 도구. Tor 네트워크 크롤링·링크 수집·이메일/전화번호 추출·인텔리전스 분석. Python, 4.4k stars
 * [WireTapper: wireless OSINT tool — passively map Wi-Fi, Bluetooth, CCTV, vehicles, IoT, cell towers](https://github.com/h9zdev/WireTapper)
   * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화. 1.5k stars
 * [yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone](https://github.com/0x0be/yesitsme)
