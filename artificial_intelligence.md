@@ -3377,6 +3377,17 @@ Artificial Intelligence
   * Kimi K3가 Claude Fable와 대등하고, 둘을 라우팅으로 결합하면 SoTA에 도달한다는 Fireworks AI 분석. 단일 최강 모델보다 모델 라우팅·조합이 더 중요하다는 관점
 * [LLM Benchmarks, the Fine Line between Science and Marketing | codepointer](https://codepointer.substack.com/p/llm-benchmarks-the-fine-line-between)
   * LLM 벤치마크가 과학과 마케팅 사이 아슬아슬한 경계에 있다는 분석—벤치마크 수치가 마케팅 도구로 오남용되는 현실 비판
+* [LLM Translation Ledger — 금융 도메인 번역 벤치마크](https://inferplane.github.io/llm-benchmark/)
+  * 한국어 ⇄ 15개 언어 금융 도메인 번역을 대상으로 LLM들의 비용 대비 품질(Cost/Quality Frontier)을 비교하는 벤치마크. 결과, 비교표, 번역 샘플까지 정리.
+    * x축은 문서 1건당 실측 비용(GPU 모델은 처리량 환산), y축은 LLM-judge 종합 점수(1–5). FLORES 인간 참조, 합성 데이터 참조를 judge에 노출하지 않아 참조 오염 배제, 자동 생성 아닌 사람이 직접 읽고 정리한 해석 제공
+  * 측정
+    * 두 트랙 분리 집계: FLORES(인간 참조) + 실제 금융문서 스타일 합성 데이터 (두 점수는 섞지 않음)
+    * LLM-as-judge를 서로 다른 두 모델 계열이 독립 채점 → 단일 judge 편향 완화 (adequacy·용어·숫자/개체·유창성·포맷 각 1~5점)
+    * 비용은 "세그먼트당 비용"으로 통일 — API는 실측 토큰×단가, vLLM은 GPU 시간÷실측 처리량 환산 (토큰 길이 왜곡 배제)
+  * 핵심 인사이트
+    * 가성비 프론티어(같은 비용에서 최고 품질) 기준으로 추천 모델 정리
+    * amazon-translate는 속도, 비용 측면에서 강점이 뚜렷했지만, 금융 도메인 번역 품질(용어, 숫자, 포맷 정합성)에서는 LLM 대비 아쉬운 지점이 있어 가성비가 최선은 아니었음
+    * 전체 평균만 보면 격차가 작아 보여도, 주요 언어(EN, JA, ZH 등) vs 저자원 언어(VI, TH, AR, HI 등) 격차가 모델별로 크게 갈림 → 전체 점수만 보고 고르면 저자원 언어에서 무너지는 모델 놓치기 쉬움
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
   * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
@@ -3404,6 +3415,10 @@ Artificial Intelligence
 * [The Untrainable | Sarah Guo (Conviction)](https://saranormous.substack.com/p/the-untrainable)
   * [The Untrainable | GeekNews](https://news.hada.io/topic?id=30712)
   * AI가 측정 가능한(legible) 업무를 빠르게 상품화하지만, 경쟁 우위는 모델이 복제할 수 없는 "학습 불가능한" 영역(비공개 데이터·기관적 신뢰·인간 판단)에 집중. 코딩 에이전트가 코드 생산은 180% 늘렸으나 실제 배포는 30%만 개선—병목은 지능이 아니라 권한과 책임. 방어 가능한 가치는 도메인 전문성과 운영 통합에 있음
+* [Data is your only moat | Frontier AI](https://frontierai.substack.com/p/data-is-your-only-moat-884)
+  * [데이터가 유일한 해자다 | GeekNews](https://news.hada.io/topic?id=31606)
+  * [Slidecast 요약](https://d2o39fnd1gcpgv.cloudfront.net/p/R174IlZtbXaidQ1n)
+  * AI 앱 시장은 문제 복잡성·도입 난이도로 나뉘지만 지속적 경쟁 우위는 결국 사용 중 축적되는 데이터에 달림. 도입 쉬운 제품은 대규모 사용·빠른 피드백으로 데이터 플라이휠을 만들지만 교체도 쉬워 모델 제공업체와 자본·데이터 경쟁에 노출. 도입 어려운 제품은 전환 비용이 해자가 됨
 
 # Paper
 * [A "diff" tool for AI: Finding behavioral differences in new models | Anthropic](https://www.anthropic.com/research/diff-tool)
@@ -6227,7 +6242,8 @@ Artificial Intelligence
   * [awesome-codex-subagents: A collection of 130+ specialized Codex subagents covering a wide range of development use cases](https://github.com/VoltAgent/awesome-codex-subagents)
     * 개발 유스케이스별 전문 Codex 서브에이전트 130+종 큐레이션
 * [Walnut — The open-source home for all your Claude Code](https://openwalnut.dev/)
-  * 로컬·원격 서버의 Claude Code 세션을 단일 콘솔에서 관리하는 셀프호스팅 웹 인터페이스. 실시간 도구 호출 스트리밍, GitHub 스타일 코드 리뷰, 태스크 관리, 로컬 노트 저장. 모든 데이터를 자체 인프라에 보관
+  * [open-walnut: Personal AI butler powered by Claude — task management, Claude Code sessions, memory system, and web UI. Self-hosted, local-first, open source](https://github.com/EvanZhang008/open-walnut)
+  * 로컬·원격 서버의 Claude Code 세션을 단일 콘솔에서 관리하는 셀프호스팅 웹 인터페이스 an open-source web UI for Claude Code. 실시간 도구 호출 스트리밍, GitHub 스타일 코드 리뷰, 태스크 관리, 로컬 노트 저장. 모든 데이터를 자체 인프라에 보관
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
