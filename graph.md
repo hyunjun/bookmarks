@@ -236,9 +236,12 @@ Graph
 * [지식 그래프를 이용한 인재 추천 시스템 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/kgat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EC%9E%AC-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * [Knowledge Graphs + Large Language Models = The ability for users to ask their own questions? | by Peter Lawrence | Mar, 2023 | Medium](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
 * [지식 그래프를 활용한 UAM 도착 지연시간에 따른 승객 이탈률 분석 및 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=165226)
-* [os-taxonomy: Marble Skill Taxonomy — open, structured taxonomy of what children learn](https://github.com/withmarbleapp/os-taxonomy)
-  * 초등 교육 학습 내용을 선행 의존성·커리큘럼 정렬·과목별로 구조화한 1,590개 마이크로 토픽 지식 그래프. 세분화된 교육 개념을 선행 관계로 연결하고 국가 커리큘럼 표준에 매핑, 연구·상업 이용 가능
-* [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
+* [Graph Engineering이 RAG를 넘어서는 이유 (Microsoft·Stanford·Anthropic이 선택한 차세대 AI 아키텍처) | Sprytixl X](https://x.com/Sprytixl/status/2078778799064584535)
+  * [Graph Engineering이 RAG를 넘어서는 이유: Microsoft, Stanford, Anthropic이 선택한 차세대 AI 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3404)
+  * 단순 벡터 검색(RAG) 대신 그래프 기반으로 지식을 구조화하는 "그래프 엔지니어링"이 차세대 AI 아키텍처로 부상—Microsoft·Stanford·Anthropic이 채택하는 흐름과 그 이유
+* [How the Ontology Pipeline Powers Semantic Knowledge Systems | Modern Data 101](https://moderndata101.substack.com/p/the-ontology-pipeline)
+  * [AI Agent의 자기 개선(Self-Improvement)과 온톨로지 파이프라인: 신뢰할 수 있는 AI를 위한 두 가지 핵심 기반 | digitalbourgeois](https://digitalbourgeois.tistory.com/3394)
+  * 온톨로지 파이프라인이 시맨틱 지식 시스템을 구동하는 방식. AI가 이해·활용하는 데이터·지식을 체계적으로 관리하는 온톨로지가 신뢰할 수 있는 AI(그리고 에이전트 자기개선)의 기반이 된다는 관점
 * 그래프DB 시리즈 | 아이티데일리
   * [1편 아리스토텔레스부터 네오포제이까지, 시대를 기다린 '지식의 망'](http://www.itdaily.kr/news/articleView.html?idxno=237741)
   * [2편 '앵커링'과 '트래버싱'으로 맥락 증명... 성패 가르는 '모델링'](http://www.itdaily.kr/news/articleView.html?idxno=237742)
@@ -262,10 +265,13 @@ Graph
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
   * [LightRAG](https://github.com/HKUDS/LightRAG)
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+* [os-taxonomy: Marble Skill Taxonomy — open, structured taxonomy of what children learn](https://github.com/withmarbleapp/os-taxonomy)
+  * 초등 교육 학습 내용을 선행 의존성·커리큘럼 정렬·과목별로 구조화한 1,590개 마이크로 토픽 지식 그래프. 세분화된 교육 개념을 선행 관계로 연결하고 국가 커리큘럼 표준에 매핑, 연구·상업 이용 가능
 * [PathRAG: Pruning Graph-based RAG with Relational Paths](https://arxiv.org/abs/2502.14902)
   * [pathrag-with-spanner (ADK 구현)](https://github.com/ksmin23/my-adk-python-samples/tree/main/Graph-RAG/pathrag-with-spanner/)
   * [Google Cloud Spanner Graph + PathRAG | Sungmin Kim](https://www.linkedin.com/posts/sungminkim23_googlecloud-spannergraph-pathrag-ugcPost-7441519507074015232-YJ2v)
   * flow-based pruning으로 중복 제거, path-based prompting으로 일관된 응답 생성
+* [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
