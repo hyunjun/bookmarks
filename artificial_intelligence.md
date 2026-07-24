@@ -3368,11 +3368,18 @@ Artificial Intelligence
 * [The AI Layoff Trap](https://arxiv.org/abs/2603.20617)
   * [samyeonggu | X](https://x.com/samyeonggu/status/2044041633356992522)
   * 경쟁 압력이 기업을 노동자 재흡수 속도보다 빠르게 자동화하도록 몰아 노동자와 기업주 모두에게 해가 되는 역설. UBI·임금 조정으로 해결 불가, Pigouvian 과세만이 유효
+* [The Chinese Frontier — Chinese AI research techniques and primary sources catalog](https://www.himanshustwts.com/chinese-frontier/)
+  * 중국 AI 랩·기업의 연구 기법과 1차 출처를 회사·연구 버티컬로 필터링하는 검색 가능한 카탈로그. 주간 업데이트. @himanshustwts 제작
+* [杨植麟为什么不留在美国？(양즈린은 왜 미국에 남지 않았나) | 观察者网](https://www.guancha.cn/economy/2026_07_23_824791.shtml)
+  * Kimi(Moonshot AI) 창업자 양즈린(Yang Zhilin)이 미국에 남지 않고 중국에서 창업한 배경을 다룬 중국 관찰자망 기사
+* [Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA | Fireworks AI](https://fireworks.ai/blog/kimik3-fable)
+  * [Kimi K3와 Fable 비교 분석: 단일 AI 모델보다 모델 라우팅이 더 중요한 이유 | digitalbourgeois](https://digitalbourgeois.tistory.com/3407)
+  * Kimi K3가 Claude Fable와 대등하고, 둘을 라우팅으로 결합하면 SoTA에 도달한다는 Fireworks AI 분석. 단일 최강 모델보다 모델 라우팅·조합이 더 중요하다는 관점
+* [LLM Benchmarks, the Fine Line between Science and Marketing | codepointer](https://codepointer.substack.com/p/llm-benchmarks-the-fine-line-between)
+  * LLM 벤치마크가 과학과 마케팅 사이 아슬아슬한 경계에 있다는 분석—벤치마크 수치가 마케팅 도구로 오남용되는 현실 비판
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * [Cartography of generative AI](https://cartography-of-generative-ai.net/)
   * [Wontae Lee - <<보이지 않는 인공지능: 데이터, 노동, 에너지로 엮인 생성형 AI의 세계지도>>... | Facebook](https://www.facebook.com/wontae.lee.9889/posts/pfbid0HLHPwTvFwrL2cbPxRbHe5wLpwgS1eWcnHGPKB9EpQuAGr4HidGnkRW4Yz45eWQUxl)
-* [The Chinese Frontier — Chinese AI research techniques and primary sources catalog](https://www.himanshustwts.com/chinese-frontier/)
-  * 중국 AI 랩·기업의 연구 기법과 1차 출처를 회사·연구 버티컬로 필터링하는 검색 가능한 카탈로그. 주간 업데이트. @himanshustwts 제작
 * [dropofahat.zone](https://dropofahat.zone/)
 * [GN#256 AI 거품은 어떻게 터지게 될까? | GeekNews](https://news.hada.io/weekly/202423)
 * [GN#259 방에서 가장 똑똑한 사람이 되려 하지 말고, 가장 친절한 사람이 되라 | GeekNews](https://news.hada.io/weekly/202426)
@@ -3576,6 +3583,10 @@ Artificial Intelligence
   * OpenAI의 자동화 AI 레드팀 시스템. 사람이 아닌 AI가 self-play로 다른 AI를 공격해 새 취약점(특히 웹·이메일·코드·파일 등 외부 데이터를 다루는 에이전트의 프롬프트 인젝션)을 발견하고, 이를 학습에 반영해 안전성·정렬·견고성을 높이는 기술
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
+* [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
+  * Cyble의 자율 SOC 플랫폼(동명의 오픈소스 AiSOC와는 별개 상용 제품)
+* [AiSOC: Open-source AI-powered Security Operations Center](https://github.com/beenuar/AiSOC)
+  * 오픈소스 AI 기반 보안 관제 센터(SOC). 알림 융합, 퍼플팀 훈련, 에이전트 보조 트리아지, MITRE ATT&CK 조사. MIT, 셀프호스팅. Python, 1.6k stars
 * [claude-bug-bounty: BugHunter — AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
   * [ShuvonSec — Ethical Hacker & AI Agent Builder](https://shuvonsec.me/)
   * 정찰(서브도메인 열거·호스트 발견·URL 크롤링)→헌팅(20개 웹 취약점+10개 스마트컨트랙트 버그 스캔)→검증(7문항 게이트로 false positive 필터)→HackerOne/Bugcrowd 제출용 리포트 생성. CLI+Claude Code 플러그인, Ollama(로컬)/Groq(무료)/DeepSeek 등 무료 AI 프로바이더, 세션 간 패턴 기억·취약점 체이닝. 승인된 스코프 내 사용 강조
@@ -3974,6 +3985,9 @@ Artificial Intelligence
     * [Google's OKF: Why a Folder Beats the Vector Database - YouTube](https://www.youtube.com/watch?v=P_E29-87THI)
       * Devsplainers. Google이 평문 파일 폴더를 공식 AI 표준으로—마크다운 폴더가 왜 RAG·벡터 DB보다 나은지, LLM wiki 아이디어와 아무도 말 안 하는 3가지 함정 해설
     * LLM-wiki 패턴을 표준화—YAML frontmatter가 붙은 markdown 파일만으로 조직 지식을 표현. 독점 SDK 불필요, 사람·AI 양쪽 가독, 버전 관리·이식 가능. 에이전트가 시스템마다 컨텍스트 조립 로직을 재구현하지 않고 내부 지식에 접근. BigQuery 메타데이터에서 자동 생성하는 enrichment 에이전트 PoC 포함. v0.1
+    * [OpenWiki 0.2 brings OKF to codebase documentation | LangChain](https://www.langchain.com/blog/openwiki-0-2-adds-okf-support)
+      * [OpenWiki 0.2, OKF 지원으로 코드 문서 관리와 AI 에이전트 검색 효율 향상 | digitalbourgeois](https://digitalbourgeois.tistory.com/3405)
+      * LangChain의 OpenWiki 0.2가 OKF(Open Knowledge Format)를 코드베이스 문서화에 도입—코드 문서를 표준 지식 포맷으로 관리해 AI 에이전트 검색 효율 향상
   * [seCall: AI 에이전트 대화를 검색 가능한 위키로 정리하는 로컬 우선 도구](https://github.com/hang-in/seCall)
     * Claude Code/Codex/Gemini CLI/claude.ai/ChatGPT 세션을 파싱해 통합. BM25+벡터(HNSW) 하이브리드 검색, Obsidian 호환 마크다운 vault(원본+AI 생성 위키), 지식 그래프(룰+시맨틱 엣지), CLI/REST/웹 UI/Obsidian 플러그인/MCP 서버, Git 기반 크로스 디바이스 동기화. Rust, AGPL-3.0
 * gr.inc [Datasets | General Reasoning](https://gr.inc/)
@@ -5394,6 +5408,7 @@ Artificial Intelligence
   * [클라인이 심상치 않다 :: ROBOCO](https://roboco.io/posts/cline3.15-released/)
 * [CLIProxyAPI: Wrap Antigravity, Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service](https://github.com/router-for-me/CLIProxyAPI)
   * [🆓 Claude Code Codex Gemini CLI를 하나의 프록시로 CLIProxyAPI 무료 설치 및 설정 가이드 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Claude-Code-Codex-Gemini-CLI%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%94%84%EB%A1%9D%EC%8B%9C%EB%A1%9C-CLIProxyAPI-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [CLIProxyAPI란? OpenAI·Claude·Gemini를 하나의 API로 사용하는 프록시 서버 | digitalbourgeois](https://digitalbourgeois.tistory.com/3406)
   * Antigravity·ChatGPT Codex·Claude Code·Grok Build 구독을 OpenAI/Gemini/Claude/Codex 호환 API 서비스로 래핑해, 무료 Gemini 3.1 Pro·GPT 5.5·Grok 4.3·Claude를 API로 사용. Go, 43k stars
 * [cmux](https://www.cmux.dev/)
   * [cmux: A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
@@ -5817,6 +5832,9 @@ Artificial Intelligence
   * [Oh my open code.클로드 코드보다 강력한 자동화 에이전트.대한민국 최초 개발자 인터뷰.꿀팁 공개! l 울트라워크 엔지니어 김연규(AI 팟캐스트 #78) - YouTube](https://www.youtube.com/watch?v=o-rE93-nLpY)
     * [오마이 오픈 코드: 클로드 코드보다 강력한 자동화 에이전트 개발자 인터뷰 (울트라워크 엔지니어 김연규)](https://livewiki.com/ko/content/ultrawork-automation-agent-interview)
   * [✍🏻 Open Code와 Oh-my-opencode](https://velog.io/@takealittletime/Open-Code%EC%99%80-Oh-my-opencode)
+* [omp — a coding agent with the IDE wired in](https://omp.sh/)
+  * [oh-my-pi: AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents](https://github.com/can1357/oh-my-pi)
+  * 터미널 코딩 에이전트(omp). 해시 앵커 편집, 최적화된 도구 하네스, LSP·Python·브라우저·서브에이전트 내장, IDE 통합. TypeScript, 19k+ stars
 * [Onyx — Open-source self-hostable AI chat platform](https://onyx.app/)
   * [onyx](https://github.com/onyx-dot-app/onyx)
   * 셀프 호스팅 AI 챗 플랫폼. 모든 LLM 지원, 40+ 커넥터, RAG, 커스텀 에이전트, 웹 검색, 코드 인터프리터. SSO/RBAC
