@@ -288,6 +288,15 @@ Sports
 * [이강인의 드리블 성공률이 유럽에서 1등인 이유(진짜 1등임) - YouTube](https://www.youtube.com/watch?v=vcGdz0crqyE) 패킹 지수
 * [PyData Online - An AI assistant for football analytics - Petar Veličković (Google DeepMind) - YouTube](https://www.youtube.com/watch?v=JGINjfmbXIM)
 * [240305 축구의 기대득점과 골결정력에 .. : 네이버블로그](https://blog.naver.com/kyksir/223373433084)
+* [거스 포옛의 사임이 K리그에 남긴 것 - YouTube](https://www.youtube.com/watch?v=Jgja8YD_hE0)
+  * [거스 포옛 감독 사임, K리그에 남긴 유산과 미래 과제](https://livewiki.com/ko/content/gus-poyet-resignation-kleague)
+    * 전북 스쿼드의 큰 변화 없이 이뤄낸 이러한 성과는 기본에 충실했을 때 얼마나 큰 위력을 발휘할 수 있는지 보여주는 사례
+    * 이는 2002 월드컵 당시 거스 히딩크 감독이 한국 축구의 체력과 멘탈 관리를 강조했던 것과 유사한 맥락
+* [알론소에게 가장 부족했던 것 ㅣ 원투펀치축구연구소_ep.01 - YouTube](https://www.youtube.com/watch?v=Im_eIZyWEOI)
+  * 레알 마드리드의 정체성 및 운영 철학에 맞는 스타일을 갖지 못하고 시스템 축구를 섣부르게 도입하려면서 정치력이 부족했던 알론소
+* [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편 - YouTube](https://www.youtube.com/watch?v=EN1b4PDp4MU)
+  * [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편](https://livewiki.com/ko/content/soccer-coach-commentary-player-impression)
+* [한국 대표팀 감독 변천 밈 (LEADER 벤투 → BOSS 클린스만 → ??? 홍명보) - 이미지](https://cdn.mania.kr/nbamania/file/2606/soccertalk_456177_20260626134901_84f8eb3ac2f71f5f.jpg)
 * [football_analysis: This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object detection, Kmeans for pixel segmentation, optical flow for motion tracking, and perspective transformation to analyze player movements in football videos](https://github.com/abdullahtarek/football_analysis)
   * [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python - YouTube](https://www.youtube.com/watch?v=neBZ6huolkg)
 * [TacticAI: an AI assistant for football tactics | Nature Communications](https://www.nature.com/articles/s41467-024-45965-x)
@@ -307,16 +316,10 @@ Sports
   * The trained models are available publicly, and the tutorial provides a readymade Google Colab template for model training
   * [VidiGo Football AI Tutorial: From Basics to Advanced Stat](https://vidigo.ai/share/summary/f754c387001e)
   * [파이썬을 사용한 축구 AI 튜토리얼: 기초부터 고급 통계까지 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/1147119)
+* [soccerdata: Scrape soccer data from Club Elo, ESPN, FBref, Sofascore, SoFIFA, Understat, WhoScored, and more](https://soccerdata.readthedocs.io/)
+  * [soccerdata](https://github.com/probberechts/soccerdata)
+  * 여러 축구 데이터 소스(Club Elo·ESPN·FBref·Football-Data.co.uk·Sofascore·SoFIFA·Understat·WhoScored)를 통일된 인터페이스로 스크레이핑하는 Python 라이브러리. pandas DataFrame 반환, 로컬 캐싱. 1.9k stars
 * [World Cup Penalty Shootouts | Tableau Public](https://public.tableau.com/app/profile/athan.mavrantonis/viz/WorldCupPenaltyShoot-outs/WorldCupPenaltyShoot-outs)
-* [거스 포옛의 사임이 K리그에 남긴 것 - YouTube](https://www.youtube.com/watch?v=Jgja8YD_hE0)
-  * [거스 포옛 감독 사임, K리그에 남긴 유산과 미래 과제](https://livewiki.com/ko/content/gus-poyet-resignation-kleague)
-    * 전북 스쿼드의 큰 변화 없이 이뤄낸 이러한 성과는 기본에 충실했을 때 얼마나 큰 위력을 발휘할 수 있는지 보여주는 사례
-    * 이는 2002 월드컵 당시 거스 히딩크 감독이 한국 축구의 체력과 멘탈 관리를 강조했던 것과 유사한 맥락
-* [알론소에게 가장 부족했던 것 ㅣ 원투펀치축구연구소_ep.01 - YouTube](https://www.youtube.com/watch?v=Im_eIZyWEOI)
-  * 레알 마드리드의 정체성 및 운영 철학에 맞는 스타일을 갖지 못하고 시스템 축구를 섣부르게 도입하려면서 정치력이 부족했던 알론소
-* [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편 - YouTube](https://www.youtube.com/watch?v=EN1b4PDp4MU)
-  * [(갓정효 소신발언) "나 같은 감독에겐 패자부활전 없다" "손흥민 직관하고 솔직히 소름돋았다" 달수바 이정효 감독편](https://livewiki.com/ko/content/soccer-coach-commentary-player-impression)
-* [한국 대표팀 감독 변천 밈 (LEADER 벤투 → BOSS 클린스만 → ??? 홍명보) - 이미지](https://cdn.mania.kr/nbamania/file/2606/soccertalk_456177_20260626134901_84f8eb3ac2f71f5f.jpg)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
