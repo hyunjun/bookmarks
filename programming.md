@@ -3655,6 +3655,10 @@ Programming
 * [MSA로 분리 후 행복하게 살았답니다?: Go Server의 성장기 | 2025 당근 플랫폼 밋업 - YouTube](https://www.youtube.com/watch?v=V4jPe5RnyUY)
   * [MSA 분리 후 Go 서버 성장기: 레이어드 아키텍처와 성능 최적화 경험 | 2025 당근 플랫폼 밋업](https://livewiki.com/ko/content/go-server-growth-danggeun-meetup)
 * [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html)
+* [마이크로서비스는 목표가 아니다 | 와일드 코딩 블로그](https://wild-coding.com/blog/2026/07/18/microservices-change-boundary)
+  * 아샬. 마이크로서비스는 좋은 구조가 아니라 복잡한 구조이며, 전체 복잡도를 낮출 때만 선택해야 함. 기능 이름(회원·게시판·주문)으로 나누면 배포 단위는 나뉘어도 변경이 함께 일어나 "분산 모놀리식"이 됨. 좋은 분리는 비슷한 기능이 아니라 "함께 변경되는 것"끼리 묶는 것—변경 경계가 기준
+* [연속재생 MSA 아키텍처 시리즈 - YouTube](https://www.youtube.com/watch?v=Z53SHQGrTvU)
+  * 코딩하는기술사 채널 MSA 영상 통합본(46분). 모놀리스 vs MSA 딜레마→모듈러 모놀리스→API Gateway→Docker vs VM→서킷 브레이커→Service Discovery→신입의 MSA 공부 필요성 순서로 구성
 * [Apache APISIX® -- Cloud-Native API Gateway](https://apisix.apache.org/)
   * [APISIX로 11번가 Open API 모놀리식 시스템 개선하기 | 장준영 - YouTube](https://www.youtube.com/watch?v=2NLOrcz_Cfo)
   * [11번가 TECH TALK 2023](https://techtalk.11stcorp.com/2023/session/session04.html)
@@ -3783,8 +3787,6 @@ Programming
 * [ssup2ket](https://github.com/ssup2ket/ssup2ket)
   * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
   * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
-* [마이크로서비스는 목표가 아니다 | 와일드 코딩 블로그](https://wild-coding.com/blog/2026/07/18/microservices-change-boundary)
-  * 아샬. 마이크로서비스는 좋은 구조가 아니라 복잡한 구조이며, 전체 복잡도를 낮출 때만 선택해야 함. 기능 이름(회원·게시판·주문)으로 나누면 배포 단위는 나뉘어도 변경이 함께 일어나 "분산 모놀리식"이 됨. 좋은 분리는 비슷한 기능이 아니라 "함께 변경되는 것"끼리 묶는 것—변경 경계가 기준
 
 ### Architecture Microservice MSA Service Mesh
 * [Service Mesh](http://bcho.tistory.com/1260)
@@ -7946,6 +7948,8 @@ Programming
   * [Netboot.xyz - 당신이 좋아하는 OS를 한 곳에 | GeekNews](https://news.hada.io/topic?id=16403)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [PureDarwin | Moving the Darwin community in the right direction!](http://www.puredarwin.org/)
+* [Think OS: A Brief Introduction to Operating Systems (PDF)](https://greenteapress.com/thinkos/thinkos.pdf)
+  * Allen Downey의 무료 OS 입문서. 프로세스·가상 메모리·파일시스템·스레드·동기화 등 운영체제 핵심 개념을 C 프로그래밍 관점에서 간결하게 설명
 * [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
