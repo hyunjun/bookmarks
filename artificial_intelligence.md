@@ -708,6 +708,9 @@ Artificial Intelligence
   * 강력한 코드 LLM을 저렴하게 구축, 적용 및 재현할 수 있도록 지원하는 효율적인 코딩 에이전트 및 학습 레시피의 공개 세트
 * [Sandboxing AI agents in Linux — Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
   * [리눅스에서 AI 에이전트를 샌드박싱하기 | GeekNews](https://news.hada.io/topic?id=26415)
+* [Making SPACE: Secure and Efficient Runtimes for Long-Running Agents | Perplexity Research](https://research.perplexity.ai/articles/making-space-secure-and-efficient-runtimes-for-long-running-agents)
+  * [장시간 AI 에이전트를 위한 샌드박스 플랫폼, Perplexity SPACE 아키텍처 살펴보기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3397)
+  * Perplexity의 장시간(수시간~수일) 에이전틱 워크플로용 보안 샌드박스 플랫폼 SPACE. 악성·오동작 코드로부터 호스트와 다른 사용자 환경을 격리하면서 빠른 코드 실행을 제공하는 런타임 아키텍처
 * [AgentFS AI 에이전트의 안전한 I/O를 위한 파일시스템](https://codepointerko.substack.com/p/agentfs-ai-io)
 * [🗂️ AI 에이전트 도입 전에 회사를 하나의 "파일 시스템" 으로 바꾸세요 "에이전트 어떻게 써야 하죠?" 최근에 외부 행사에서 기업 규모를 가리지 않고 임원 분들을 만나면 저의 링크드인을 봤다고 말씀해주시면서 꼭 이 질문이 나옵니다. 아무리 바이브 코딩이 유행이라지만 솔직히 대부분의 업무는 코딩과 거리가 멀잖아요. 세상에 존재하는 노동자의… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%84%EC%97%90-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%95%98%EB%82%98%EC%9D%98-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94-activity-7428356829451255808-btFg)
 * [칼럼 | AI처럼 보이지 않고, 직원처럼 행동하는 AI를 만드는 방법 | CIO](https://www.cio.com/article/4129249/%EC%B9%BC%EB%9F%BC-ai%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%A7%81%EC%9B%90%EC%B2%98%EB%9F%BC-%ED%96%89%EB%8F%99%ED%95%98%EB%8A%94-ai%EB%A5%BC-%EB%A7%8C%EB%93%9C.html)
@@ -813,6 +816,7 @@ Artificial Intelligence
   * [Agent Framework documentation | Microsoft Learn](https://learn.microsoft.com/en-us/agent-framework/)
   * [a2a-agent-framework](https://github.com/jh941213/a2a-agent-framework)
     * [Google A2A Protocol과 Microsoft Agent Framework를 기반으로 한 멀티 에이전트 시스템](https://www.linkedin.com/posts/kjh941213_github-microsoftagent-framework-a-framework-activity-7387371253554331648-92Ot/)
+  * [agent-framework-go: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go](https://github.com/microsoft/agent-framework-go)
 * [agentic-inbox: A self-hosted email client with an AI agent, running entirely on Cloudflare Workers](https://github.com/cloudflare/agentic-inbox)
   * [Agentic Inbox - AI 에이전트 탑재 셀프호스팅 이메일 클라이언트 | GeekNews](https://news.hada.io/topic?id=28926)
   * Cloudflare Workers·Email Routing·Durable Object(SQLite)·R2로 구성. 이메일 송수신·관리 + AI 자동 답장 초안 생성
@@ -1230,6 +1234,12 @@ Artificial Intelligence
 * [OpenViking: Open-source context database engineered for AI Agents](https://github.com/volcengine/OpenViking)
   * [류내원 - ByteDance just open-sourced a brain for AI agents: OpenViking | Facebook](https://www.facebook.com/won.wizard/posts/pfbid027DFYveWzg6wzSHtFSQivRVtkiet4Q5Jco8NnSsYVkgJULXi3B5wo9oGo2EtMu9sQl)
   * ByteDance의 AI 에이전트용 오픈소스 컨텍스트 DB. 파일 시스템 패러다임으로 메모리·리소스·스킬을 통합 관리하고, L0/L1/L2 3단계 계층적 컨텍스트 로딩으로 토큰 소비 절감. 디렉토리 재귀 검색과 시맨틱 검색을 결합한 정밀 컨텍스트 획득
+* [OpenWorker — AI that gets your everyday tasks done](https://openworker.com/)
+  * [openworker](https://github.com/andrewyng/openworker)
+  * [Andrew Ng가 공개한 OpenWorker, 채팅이 아니라 일을 끝내는 AI | AX LABS 블로그](https://theaxlabs.com/blog/andrew-ng-openworker-practical-guide)
+  * Andrew Ng 팀의 오픈소스 AI 코워커. 답변이 아닌 완성된 결과물(문서·슬랙 답변·정리된 캘린더)을 산출, 내 컴퓨터에서 내 도구를 직접 사용, 중요한 행동 전 반드시 승인 요청. 무료·오픈소스·BYOM. Python, 3.5K stars
+  * [aisuite: Simple, unified interface to multiple Generative AI providers](https://github.com/andrewyng/aisuite)
+    * Andrew Ng의 멀티 프로바이더 통합 인터페이스. OpenAI 호환 API 하나로 여러 생성형 AI 프로바이더 호출. Python, 15K stars
 * [PageAgent - The GUI Agent Living in Your Webpage](https://alibaba.github.io/page-agent/)
   * [page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language](https://github.com/alibaba/page-agent)
 * [PaperClip — Open-Source Orchestration Platform for zero-human companies](https://paperclip.ing/)
@@ -3358,6 +3368,8 @@ Artificial Intelligence
   * 한국 국가대표AI는 모델 성능 대회가 아니라 독파모(모델)와 모두의 AI(추론 서비스) 두 개의 게임. 진짜 승부는 추론 원가·공급·가동률에서 갈리고, 가장 안정적인 자리는 우승팀이 아니라 칩·데이터센터·전력을 모든 진영에 파는 공급자라는 분석
 * [Solar Open 2, 딥시크와 맞붙을 한국 AI의 첫 세계전 | nahz.org](https://nahz.org/posts/solar-open2-cerebras)
   * 업스테이지가 Cerebras와 공동 개최한 발표회에서 두 번째 독자 파운데이션 모델 Solar Open 2(250B) 공개. 벤치마크 점수보다 에이전트·추론 속도·국산 인프라를 강조한 행사 구성 분석
+* [DGX Spark 두 대로 경험하는 Solar Open 2 모델 서빙 | Backend.AI](https://www.backend.ai/ko/blog/2026-07-serving-solar-open-2-on-dgx-spark)
+  * 래블업이 공식 권장 사양이 아닌 DGX Spark 2노드에서 Solar Open 2 NVFP4(250B)를 vLLM으로 서빙 가능한 상태까지 만든 엔지니어링 사례. FlashInfer b12x의 Expert Parallelism·체크포인트 문제를 수정·우회한 과정과 커스텀 vLLM 이미지 공개
 * [망분리의 빗장을 연 건 보안이 아니라 AI였다 | nahz.org](https://nahz.org/posts/network-separation-n2sf/)
   * 망분리(N2SF) 재조명. 20년 전 두 번의 국가적 재앙에서 인터넷을 끊어둔 곳만 살아남아 도입됐으나, 너무 잘 작동해 아무도 그 안을 다시 보지 않게 됨. 이 빗장을 다시 열게 만든 동인이 보안이 아니라 AI라는 논지
 * [프롤로그 1조 달러의 도약, 그 기반은 안전한가? (EMP 연재) | 공공디자인연구소](https://www.publicdesign.me/boards/68/view)
@@ -3743,6 +3755,8 @@ Artificial Intelligence
   * 에이전트 11명에게 9개 아이템을 4개 스프린트로 병렬 실행. 혼자 68분→팀 모드 46분(32% 단축), 토큰 15% 증가하지만 시간당 처리량 70% 증가. 11명 중 3명이 문제 발생(순환 참조, IME 버그, 중단). 신규 파일 생성은 품질 높고, 크로스-모듈 리팩토링은 낮음. 핵심 교훈: 멀티 에이전트의 본질은 속도가 아니라 태스크 분해 능력
 * [IT 회사에서 AI 가 진짜 바꿔놓을 것들](https://seokjun.kim/what-ai-really-changes-it-industry)
   * Claude Max 한 달 사용 경험 기반 AI 시대 IT 업계 변화 분석. PM 역할 축소, 개발자 중심 조직 재편, 디자이너 역할 변화, 팀 구조 수평화, AI 접근성 격차 심화
+* [AI 시대, 1인 빌더의 Unfair Advantage](https://solo-builder-unfair-advantage.team-attention.com/)
+  * Arize AI Builder Meetup 발표(2026.07). Unfair Advantage는 도구 사용 능력이 아니라 권한·인센티브·환경—Impact = Capability × Authority × Upside × Feedback Speed. AI가 capability를 싸게 만든 시대에 회사 AX가 느린 이유는 성공의 upside와 결정권이 조직에 남기 때문이며, 네 항이 정렬된 1인 빌더(owner-builder)가 빠른 이유를 경제학 문헌으로 설명
 * [Migrating a production AI agent to GPT-5.6 | Ploy](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
   * [GPT-5.6 전환으로 2.2배 빨라지고 비용은 27% 절감한 AI 에이전트 운영 사례 분석 | digitalbourgeois](https://digitalbourgeois.tistory.com/3377)
   * 프로덕션 마케팅 웹사이트를 생성하는 Ploy의 에이전트를 Claude Opus 4.8→GPT-5.6 Sol로 전환한 사례. 4개월간 어떤 프론티어 모델도 Opus를 못 이겼으나 GPT-5.6이 처음으로 넘어섬—빌드 시간 절반 이하(2.2배), 비용 27% 절감, 품질 동급 이상. 단순 성능·비용 비교를 넘어 평가 하네스, 도구 인자 채우기·프롬프트 캐싱·추론 재생 등 프로바이더별 가정을 함께 손봐야 했던 과정
@@ -4310,6 +4324,8 @@ Artificial Intelligence
 * [이보라 - 실패 없이 AI 코딩을 도입하는 7가지 조직 원칙 지난 16일 DevMentor가 주최한「기업의 바이브... | Facebook](https://www.facebook.com/learner.bora/posts/pfbid02x3ncsNiRSr1sxvmVHiSHXAYM354oy8FXYK6mMBYxh7bN33tqLTN6JuRRBZKCPit2l)
 * [Revised You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
   * [로컬 코딩 모델 가이드 | GeekNews](https://news.hada.io/topic?id=25250)
+* [How I Stopped Running out of Tokens | Daniela Baron](https://danielabaron.me/blog/how-i-stopped-running-out-of-tokens/)
+  * Claude Code 일상 사용 시 토큰 소비를 줄이는 도구·설정·습관 실전 정리
 * [무료 로컬 AI 코딩 에이전트 구축 가이드 Claude Code + Qwen 3.5 완벽 설정법](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-%EB%AC%B4%EB%A3%8C-%EB%A1%9C%EC%BB%AC-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%B6%95-%EA%B0%80%EC%9D%B4%EB%93%9C-Claude-Code-Qwen-35-%EC%99%84%EB%B2%BD-%EC%84%A4%EC%A0%95%EB%B2%95)
 * [Handling AI-Generated Code: Challenges & Best Practices • Roman Zhukov & Damian Brady • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=SsiDLh9-TN8)
   * [AI 생성 코드: 과제, 모범 사례 및 개발자 워크플로우에 미치는 영향](https://livewiki.com/ko/content/ai-code-challenges-best-practices)
