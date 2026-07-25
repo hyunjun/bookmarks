@@ -800,6 +800,8 @@ AWS
   * AI-DLC 방법론으로 MCP Registry, Knowledge Base 파이프라인, Agent Management, Playground 포함 플랫폼을 7주 만에 구축. 12일 CRUD 작업을 30분~1시간으로 단축
 * [Amazon Bedrock과 함께 Claude Code 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/bedrock-with-claude-code/)
   * [Claude Code on Amazon Bedrock Workshop](https://catalog.workshops.aws/claude-code-on-amazon-bedrock)
+* [Claude Apps Gateway on AWS 자세히 알아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/)
+  * Amazon Bedrock 기반 Claude Code·Claude Desktop 엔터프라이즈 도입 가이드. 데이터 학습 미활용, Private Network 구성, AWS 계정·IAM 통합 인증·비용 관리, Guardrails 콘텐츠 필터링
 * [Build a Production-Ready AI Agent From Scratch — With LangGraph & AWS AgentCore](https://joudwawad.medium.com/production-ready-ai-agent-from-scratch-with-langgraph-aws-agentcore-e236cd3f675f)
   * [Build a Production-Ready AI Agent From Scratch | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_build-a-production-ready-ai-agent-from-scratch-activity-7430485562177863681-hrnc)
 * [Amazon Bedrock AgentCore (Preview) - AWS](https://aws.amazon.com/ko/bedrock/agentcore/)
