@@ -3617,6 +3617,9 @@ App
 * [Meetily — Privacy-first AI meeting assistant](https://meetily.ai/)
   * [meetily: Privacy-first AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization](https://github.com/Zackriya-Solutions/meetily)
   * 100% 로컬 처리 셀프호스팅 AI 회의 도우미(macOS/Windows). Parakeet/Whisper 실시간 전사(4배 빠름), 화자 분리, Ollama 요약. 클라우드 불필요, Ollama/Claude/커스텀 엔드포인트 지원. Rust 기반
+* [Moonshine AI — Fast, private AI for real-world devices](https://www.moonshine.ai/)
+  * [moonshine: Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces](https://github.com/moonshine-ai/moonshine)
+  * 초저지연 음성→텍스트·의도 인식·텍스트→음성 모델. 음성 에이전트·인터페이스 구축용, 실시간·온디바이스 지향. C++, 10K+ stars
 * [Patter — Open-source voice-AI SDK](https://www.getpatter.com/)
   * [Patter: The Vapi/Retell alternative for builders who want to own the stack](https://github.com/PatterAI/Patter)
   * [Patter SDK Guide: Building a Restaurant Booking Phone Agent | MarkTechPost](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/)
