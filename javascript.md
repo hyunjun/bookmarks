@@ -5309,6 +5309,9 @@ Javascript
 * [A Cure for React useState Hell?](https://www.builder.io/blog/use-reducer) useReducer
   * [번역 useState 지옥에서 벗어나기](https://velog.io/@eunbinn/a-cure-for-react-useState-hell)
 * [Top 37 ReactJS basics useRef Hook](https://morioh.com/p/3ed2501672f9)
+* [The Uphill Battle of Memoization | TkDodo's blog](https://tkdodo.eu/blog/the-uphill-battle-of-memoization)
+  * [The Uphill Battle of Memoization 공유 | Sunghyun Cho](https://www.linkedin.com/posts/pedogunu_the-uphill-battle-of-memoization-share-7486256354064482305-NHZI/)
+  * React 메모이제이션은 깨지기 쉬움—prop 하나만 참조가 불안정해도 memo가 무력화되고, 이를 지키는 것은 오르막 싸움. 컴포넌트 분리·children 패턴 같은 구조적 해법이 더 견고
 * [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback)
 * [useMemo와 useCallback은 언제 사용해야 할까? :: reallifeliver's Devlog](https://reallifeliver.tistory.com/2)
 * [react 최적화 기법 - memo, useCallback, useMemo](https://blog.naver.com/pjt3591oo/222281569378)
@@ -6066,6 +6069,8 @@ Javascript
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
 * [React Hook Form 유연하고 확장 가능한 사용하기 쉬운 고성능 폼 검증 라이브러리](https://react-hook-form.com/kr/)
+  * [React Hook Form Avoids State. TanStack Form Scopes It. | Adarsha Acharya](https://www.adarsha.dev/blog/react-hook-form-and-tanstack-form-state-models)
+    * React Hook Form은 등록된 uncontrolled input에서, TanStack Form은 스토어 기반 controlled field에서 출발—상태 모델 차이가 일부 코드 경로를 바꾸지만 API가 시사하는 것만큼 크지 않다는 비교 분석
   * [React Form 컴포넌트 개발기](https://tech.inflab.com/202207-rallit-form-refactoring/colocation/)
   * [실전 예제로 알아보는 react hook form 사용법 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/%EC%8B%A4%EC%A0%84-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-react-hook-form-%EC%82%AC%EC%9A%A9%EB%B2%95/)
   * [ChatGPT랑 비슷한 File Input 컴포넌트 구현하고 react-hook-form에 연동하기(파일 누적 관리하기) | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/react.js/chatgpt%EB%9E%91-%EB%B9%84%EC%8A%B7%ED%95%9C-file-input-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0-react-hook-form%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0(%ED%8C%8C%EC%9D%BC-%EB%88%84%EC%A0%81-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)/)
