@@ -341,6 +341,8 @@ Artificial Intelligence
   * [AI 시대의 개발자는 검증을 설계한다 (3) 기능을 검증하는 test | 송범근](https://kr.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B2%80%EC%A6%9D%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4-3-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94-test-bumgeun-song-zdkkc)
   * [AI 시대의 개발자는 검증을 설계한다 (4) 리팩토링을 견디는 test | 송범근](https://www.linkedin.com/pulse/ai-%EC%8B%9C%EB%8C%80%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EA%B2%80%EC%A6%9D%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C%EB%8B%A4-4-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EA%B2%AC%EB%94%94%EB%8A%94-test-bumgeun-song-nguwc)
   * AI가 코드를 쓰는 시대에 개발자의 핵심 역량은 검증 설계라는 4부작. lint(구조 검증)·test(기능 검증)·리팩토링을 견디는 test 순으로 검증 체계를 다룸
+* [코드 리뷰 없앤 지 3개월, 사이트가 터졌습니다 (한영자막) - YouTube](https://www.youtube.com/watch?v=-c43cv80FiA)
+  * Tech Bridge. HumanLayer 공동창업자 Dex Horthy의 '라이트 오프'(코드 리뷰 없이 완전 자동화) 실험 실패담. 코딩 모델이 테스트 통과에만 최적화돼 유지보수성을 못 배우는 구조적 문제, 하네스만으로는 부족하다는 주장, 다시 코드를 읽으며 빠르게 개발하는 법(제품 리뷰·아키텍처·버티컬 슬라이스)
 * [Agile is Out, Architecture is Back | by Craig Adam | Sep, 2025 | Medium](https://medium.com/@craig_32726/agile-is-out-architecture-is-back-7586910ab810)
   * [원대로 - 🚨<개발자는 사라지고, "아키텍트"가 뜬다: AI가 다시 불러온 설계의 시대> - “코드 좀 친다”는 말은... | Facebook](https://www.facebook.com/drwonsg/posts/pfbid0KNf7KyyjpsCvJ1fq9NcLBLimN9odhxk1YgfZP7YXGa5sLaT8nXKPP7NLtJwhWVRal)
 * [AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger? | <Can ELMA/>](https://elma.dev/notes/ai-makes-seniors-stronger/)
