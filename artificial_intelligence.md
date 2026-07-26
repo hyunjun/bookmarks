@@ -3400,6 +3400,9 @@ Artificial Intelligence
   * 경쟁 압력이 기업을 노동자 재흡수 속도보다 빠르게 자동화하도록 몰아 노동자와 기업주 모두에게 해가 되는 역설. UBI·임금 조정으로 해결 불가, Pigouvian 과세만이 유효
 * [The Chinese Frontier — Chinese AI research techniques and primary sources catalog](https://www.himanshustwts.com/chinese-frontier/)
   * 중국 AI 랩·기업의 연구 기법과 1차 출처를 회사·연구 버티컬로 필터링하는 검색 가능한 카탈로그. 주간 업데이트. @himanshustwts 제작
+* [Who's Afraid of Chinese Models? | Stratechery by Ben Thompson](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+  * [중국 오픈 웨이트 AI 모델이 바꾸는 경쟁 구도, AI 시장의 승부는 왜 '토큰'이 아니라 '지능'인가 | digitalbourgeois](https://digitalbourgeois.tistory.com/3402)
+  * Ben Thompson. 모두가 중국 모델을 걱정하지만 프런티어 랩은 괜찮을 것이고, 필요한 것은 미국의 오픈 대안을 키우는 것이라는 분석. AI 경쟁의 핵심이 토큰 생성 비용이 아니라 "적은 비용으로 원하는 수준의 지능을 제공하는가"로 이동한다는 관점
 * [杨植麟为什么不留在美国？(양즈린은 왜 미국에 남지 않았나) | 观察者网](https://www.guancha.cn/economy/2026_07_23_824791.shtml)
   * Kimi(Moonshot AI) 창업자 양즈린(Yang Zhilin)이 미국에 남지 않고 중국에서 창업한 배경을 다룬 중국 관찰자망 기사
 * [Kimi K3 is competitive with Fable; Kimi K3 + Fable is SoTA | Fireworks AI](https://fireworks.ai/blog/kimik3-fable)
