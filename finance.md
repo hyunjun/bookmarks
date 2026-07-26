@@ -341,6 +341,7 @@ Finance
   * 10개 명명 에이전트(Pitch/Market Researcher/Earnings Reviewer/Model Builder/Meeting Prep/GL Reconciler/Month-End Closer/Statement Auditor/Valuation Reviewer/KYC Screener), 7개 버티컬 플러그인, 11개 MCP 데이터 커넥터(FactSet/S&P Global/Morningstar/Moody's/PitchBook/LSEG/Daloopa 등). Claude Code/Managed Agents 양쪽 배포
 * [firma: Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude](https://github.com/evan-moon/firma)
   * [firma: Claude를 내 포트폴리오 AI 비서로 만드는 로컬 퍼스트 자산관리 CLI | GeekNews](https://news.hada.io/topic?id=28884)
+* [hometax-doum: 홈택스 세무 작업을 AI에게 말로 시키는 무료 스킬 6종 — 부가세·종합소득세·전자세금계산서 (Claude/Codex/Aside)](https://github.com/lbiz-partners/hometax-doum)
 * [InvestorClaw · GitLab](https://gitlab.com/argonautsystems/InvestorClaw)
   * [InvestorClaw — 16-command portfolio analysis skill without Mac Mini | OpenClaw Community](https://www.facebook.com/share/p/1LNkzzPK57/)
 * [korean-jangbu-for: 한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용](https://github.com/kimlawtech/korean-jangbu-for)
