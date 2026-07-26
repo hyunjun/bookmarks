@@ -268,6 +268,10 @@ Graph
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
   * [LightRAG](https://github.com/HKUDS/LightRAG)
   * 텍스트 인덱싱에 그래프 구조 통합한 dual-level 검색. NaiveRAG, GraphRAG보다 우수한 성능
+* [Ontology-Playground: Free, open-source web app for learning about ontologies and Microsoft Fabric IQ](https://github.com/microsoft/Ontology-Playground)
+  * [우리 회사는 같은 단어를 같은 뜻으로 쓰고 있는가 | AX LABS 블로그](https://theaxlabs.com/blog/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EB%8A%94-%EA%B0%99%EC%9D%80-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EA%B0%99%EC%9D%80-%EB%9C%BB%EC%9C%BC%EB%A1%9C-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
+  * [Microsoft가 온톨로지 오픈소스를 공개했습니다 | Seungpil Lee](https://www.linkedin.com/posts/seungpil_microsoft%EA%B0%80-%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C%EB%A1%9C-share-7484748260364943360-TLY_/)
+  * Microsoft의 온톨로지 학습용 오픈소스 웹앱(MIT, 백엔드 없이 브라우저 실행). 사전 구축 온톨로지 카탈로그 탐색, 시각적 설계, RDF/XML 내보내기. LLM은 텍스트를 읽지만 회사의 "고객"이 CRM 고객인지 청구 계약자인지는 못 읽음—DB 스키마는 저장 방식을, 온톨로지는 의미를 정의하며 에이전트에 필요한 건 후자
 * [os-taxonomy: Marble Skill Taxonomy — open, structured taxonomy of what children learn](https://github.com/withmarbleapp/os-taxonomy)
   * 초등 교육 학습 내용을 선행 의존성·커리큘럼 정렬·과목별로 구조화한 1,590개 마이크로 토픽 지식 그래프. 세분화된 교육 개념을 선행 관계로 연결하고 국가 커리큘럼 표준에 매핑, 연구·상업 이용 가능
 * [PathRAG: Pruning Graph-based RAG with Relational Paths](https://arxiv.org/abs/2502.14902)
