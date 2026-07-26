@@ -1624,6 +1624,9 @@ AWS
 * [**AWS EKS POD DNS 문제 해결 - Route53 CNAME/A record**](https://nauco.tistory.com/127)
   * 진짜 원인: vpc에 apigw용 vpc endpoint가 존재하고 private dns가 활성화
   * 해결방법 1) CNAME을 A 레코드로 또는 2) Private DNS name 비활성화
+* [My process to debug DNS timeouts in a large EKS cluster | Jack Lindamood](https://cep.dev/posts/eks-dns-timeouts-sudo-hostname-lookups/)
+  * [My process to debug DNS timeouts in a large EKS cluster | Medium](https://medium.com/@cep21/my-process-to-debug-dns-timeouts-in-a-large-eks-cluster-9f731bd5617d)
+  * 대규모 EKS 클러스터의 DNS 타임아웃 디버깅 과정. kube-dns→link-local→tcpdump→sudo hostname 조회 순으로 원인 추적
 * [Amazon EKS에서 Topology Aware Hint 기능을 활용하여 Cross-AZ 통신 비용 절감하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints)
   * EKS에서 가용성을 위해 여러 존에서 노드를 운영하는 경우 Cross-AZ 비용이 증가
   * 이때 Topology Aware Hint를 이용하면 같은 존끼리만 통신할 수 있고
