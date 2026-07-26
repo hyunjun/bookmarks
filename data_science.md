@@ -343,6 +343,9 @@ Data Science
 * [Data Science for Startups: Tracking Data](https://towardsdatascience.com/data-science-for-startups-tracking-data-4087b66952a1)
 * [TF에서 팀 빌딩까지 9개월의 기록 : 성장하는 조직을 만드는 여정](https://www.slideshare.net/zzsza/tf-9-160560910)
   * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+* [Why Technically Excellent Data Teams Still Fail | Practical Data Community](https://practicaldatacommunity.substack.com/p/why-technically-excellent-data-teams)
+  * [기술적으로 뛰어난 데이터 팀이 여전히 실패하는 이유 | GeekNews](https://news.hada.io/topic?id=31596)
+  * 데이터 팀의 가치는 파이프라인·스키마·대시보드 생산량이 아니라 조직의 의사결정 변화에서 나옴. 데이터와 행동 사이에 해석 계층인 관점(Perspective)이 필요—Data-Perspective-Action 프레임워크
 * [Organizing and scaling an effective data team](https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/)
 * [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 * [Generating and visualizing alpha with Vectorspace AI datasets and Canvas](https://www.elastic.co/kr/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas)
@@ -424,6 +427,9 @@ Data Science
 * [SEF2021 빅데이터가 도대체 무엇? 빅데이터 분석가는 또 무엇? - YouTube](https://www.youtube.com/watch?v=UWTrs_cbDxc)
 * [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
 * [7 Must-Know Data Buzzwords in 2022 | by Coco Li | Kyligence | Jan, 2022 | Medium](https://medium.com/kyligence/7-must-know-data-buzzwords-in-2022-9d3d977a43f4)
+* [Data Management in the Age of AI | William Inmon](https://williaminmon.substack.com/p/data-management-in-the-age-of-ai)
+  * [AI 시대의 데이터 관리, 왜 이제는 데이터보다 '의미'를 관리해야 할까? | digitalbourgeois](https://digitalbourgeois.tistory.com/3409)
+  * 데이터 웨어하우스 창시자 William Inmon. AI가 기업 데이터 관리를 어떻게 바꾸는지—저장·관리 중심에서, AI가 신뢰할 수 있는 데이터를 쓸 수 있도록 '의미'를 관리하는 것이 핵심 과제가 됨
 * [Data Management Trends You Need to Know - Gradient Flow](https://gradientflow.com/data-management-trends-you-need-to-know/)
 * [What is Data as a Service?. How the new Paradigm will make your… | by Christianlauer | Apr, 2022 | Medium](https://medium.com/codex/what-is-data-as-a-service-8adc912ef4b0)
 * [데이터 분석가 대디가 유소년 축구 플렉스하기](https://brunch.co.kr/@goodvc78/21)
