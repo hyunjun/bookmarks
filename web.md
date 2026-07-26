@@ -866,6 +866,8 @@ Web
   * [Index - Scrapling](https://scrapling.readthedocs.io/)
   * [Scrapling - 현대 웹을 위한 적응형 웹 스크래핑 | GeekNews](https://news.hada.io/topic?id=27352)
   * [Cloudflare 우회 웹 스크래핑을 무료로 Scrapling MCP Server 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%93-Cloudflare-%EC%9A%B0%ED%9A%8C-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91%EC%9D%84-%EB%AC%B4%EB%A3%8C%EB%A1%9C-Scrapling-MCP-Server-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [7만 GitHub star를 받은 Scrapling, Cloudflare 차단 어디까지 우회할 수 있을까? - YouTube](https://www.youtube.com/watch?v=hdEweGeZpuE)
+    * 오늘코드. Scrapling으로 Cloudflare 차단 우회 실전(42분)
 * [scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python](https://github.com/scrapy/scrapy)
   * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
@@ -1877,6 +1879,8 @@ Web
   * [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-httpx-and-asyncio)
   * [HTTPX Tutorial - A next-generation HTTP client for Python - YouTube](https://www.youtube.com/watch?v=qAh5dDODJ5k)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
+* [ladder: Selfhosted alternative to 12ft.io and 1ft.io](https://github.com/everywall/ladder)
+  * 12ft.io·1ft.io의 셀프호스팅 대안. CORS 헤더 제거·HTML 수정 프록시로 페이월 우회. Go, GPL-3.0, 8.8k stars
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * [The Ludic Framework](https://getludic.dev/)
 * [Lumi is an nano framework to convert your python functions into a REST API without any extra headache](https://github.com/Tanmoy741127/lumi)
