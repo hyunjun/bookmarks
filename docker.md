@@ -3144,6 +3144,9 @@ Docker
 * [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations](https://github.com/hashicorp/nomad)
 * [Notary project comprises a server and a client for running and interacting with trusted collections](https://github.com/docker/notary)
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
+* [Openship - Open Source, Self-Hostable Deployment Platform](https://openship.io/)
+  * [openship: Self-hosted deployment platform](https://github.com/oblien/openship)
+  * 셀프호스팅 AI 기반 배포 플랫폼. 무료 SSL, 무제한 도메인, 즉시 롤백, CLI/MCP 지원. TypeScript, Apache-2.0, 8.5k stars
 * [Packer](https://www.packer.io/)
   * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
