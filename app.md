@@ -316,6 +316,12 @@ App
 * [Bruce — Predatory ESP32 Firmware](https://bruce.computer/)
   * [firmware: Predatory ESP32 Firmware | BruceDevices](https://github.com/BruceDevices/firmware)
   * ESP32 기반 공격형 보안 펌웨어(Flipper Zero류). WiFi·BLE·RF·NFC·인프라레드 등 무선 공격/테스트 도구 모음. C++, 6k+ stars
+* [BruteForceAI: Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks](https://github.com/MorDavid/BruteForceAI)
+  * [MOR DAVID - Penetration Tester | AI Cyber Operator](https://www.mordavid.com/)
+  * LLM으로 로그인 폼 필드를 자동 분석하고 브루트포스 공격을 수행하는 AI 기반 침투 테스트 도구. Python, 1.5k stars
+* [cariddi: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more](https://github.com/edoardottt/cariddi)
+  * [edoardottt](https://edoardottt.com/)
+  * 도메인 목록을 받아 URL을 크롤링하며 엔드포인트·시크릿·API 키·파일 확장자·토큰 등을 스캔하는 보안 크롤러. Go, GPL-3.0, 3.5k stars
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
@@ -1804,6 +1810,8 @@ App
   * [AWS, 맥용 터미널 확장도구 Fig 인수 | GeekNews](https://news.hada.io/topic?id=10594)
 * [FileNic: 파일닉 - 간단하게 자소결합](https://github.com/0126kjw/FileNic)
   * [FileNic - macOS에서 한글 파일명 자소분리 문제 해결기 | GeekNews](https://news.hada.io/topic?id=18629)
+* [FineTune: a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ](https://github.com/ronitsingh10/FineTune)
+  * 앱별 볼륨 조절·다중 출력 장치·오디오 라우팅·10밴드 EQ를 제공하는 macOS 메뉴바 앱. SoundSource의 무료 오픈소스 대안. Swift, GPL-3.0, 8.2K stars
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [GhostVM - Mac Virtual Machine for Secure Development](https://ghostvm.org/)
@@ -2626,6 +2634,9 @@ App
   * [Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=6372)
 * [youtube-shorts-pipeline: Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload](https://github.com/rushindrasinha/youtube-shorts-pipeline)
   * 뉴스 수집부터 스크립트 생성, AI 비주얼, 보이스오버, 자막, 업로드까지 YouTube Shorts 제작 전 과정 자동화 파이프라인
+* [YTPro | Youtube client with older Android version support, background player, Google Gemini and many more features](https://prateek.is-a.dev/YTPro/)
+  * [YTPro: Youtube client with older Android version support, background player, Google Gemini ✨ and many more features](https://github.com/prateek-chaubey/YTPro)
+  * 구버전 안드로이드 지원 YouTube 클라이언트. 백그라운드 재생, 광고/디스라이크 표시, 다운로더, Google Gemini 통합 등. JavaScript, MIT, 2.5K stars
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
 * [ytm-player: Full-featured YouTube Music player for the terminal with vim-style keybindings](https://github.com/peternaame-boop/ytm-player)
