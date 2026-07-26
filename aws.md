@@ -1670,6 +1670,9 @@ AWS
 * [(AWS EKS에서) ENI와 IP TARTET에 대한 설명](https://www.linkedin.com/posts/jybaek_aws-eks%EC%97%90%EC%84%9C-eni%EC%99%80-ip-tartet%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-eks-activity-7212421118123466753-isVB/)
 * [간소화된 Amazon EKS 액세스 관리 제어 톺아보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 * [무중단으로 EKS 클러스터 버전 업그레이드하기 - 블럭스 매거진](https://blog.blux.ai/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%9C%BC%EB%A1%9C-eks-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%98%EA%B8%B0-25859)
+* [EKS 클러스터 11개를 서비스 중단 없이 버전 통일하기 — 아임웹 테크](https://tech.imweb.me/posts/eks-11clusters-upgrade/)
+  * [EKS 클러스터 11개를 한 버전으로 올리는 여정 | 김용현](https://www.linkedin.com/posts/%EA%B9%80%EC%9A%A9%ED%98%84-hulkong_2024%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%9D%B4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%95%98%EB%82%98%EB%A5%BC-%ED%95%9C-%EB%B2%84%EC%A0%84-%EC%98%AC%EB%A6%AC%EB%8A%94-share-7485179915009449984-30dJ/)
+  * 버전이 제각각이던 EKS 클러스터 11개를 AI를 오퍼레이터로 두고 8일 만에 v1.35로 무중단 통일한 사례
 * [따배EKS Amazon EKS 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M)
 * [Amazon EKS Upgrade Journey From 1.30 to 1.31- say hello to another cutee “Elli” | by Marcin Cuber | Sep, 2024 | Medium](https://marcincuber.medium.com/amazon-eks-upgrade-journey-from-1-30-to-1-31-say-hello-to-another-cutee-elli-d488fd6521eb)
 * [Announcing Amazon EKS Auto Mode - AWS](https://aws.amazon.com/ko/about-aws/whats-new/2024/12/amazon-eks-auto-mode/)
@@ -1767,6 +1770,8 @@ AWS
 * [AWS EventBridge Pipes — The Simplest Way to Build Event Driven Architectures on AWS](https://medium.com/@ashishprajapat2/aws-eventbridge-pipes-the-simplest-way-to-build-event-driven-architectures-on-aws-78dfe9ab8316)
   * [AWS EventBridge Pipes | Darryl R.](https://www.linkedin.com/posts/darryl-ruggles_aws-eventbridge-pipes-the-simplest-way-activity-7434062428256088064-6wY9)
   * SQS/Kinesis/DynamoDB Streams → Lambda/Step Functions/SNS 서버리스 연결. Lambda 없이 필터링/변환 내장
+* [One question decides most of your event-driven architecture: SQS vs SNS vs EventBridge | Harshavardhan Nerella](https://www.linkedin.com/posts/harshanerella_one-question-decides-most-of-your-event-driven-share-7485030311441920002-V1Vs/)
+  * "메시지에 무슨 일이 일어나야 하는가"라는 한 질문으로 SQS(pull 기반 큐·순서·소비까지 보존)·SNS(fan-out)·EventBridge(라우팅)를 선택하는 기준 정리
 * [event-ruler](https://github.com/aws/event-ruler)
   * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
@@ -2152,6 +2157,8 @@ AWS
 * [Powertools for AWS Lambda - Best Practices By Default](https://darryl-ruggles.cloud/powertools-for-aws-lambda-best-practices-by-default)
 * [Lambda Just Got a File System. I Put AI Agents on It](https://edjgeek.com/blog/s3-files-lambda-agents/)
   * S3 Files for Lambda로 S3를 로컬 파일시스템처럼 마운트. 다운로드/업로드 보일러플레이트 제거. AI 에이전트가 마운트된 S3 워크스페이스를 공유하는 서버리스 코드 리뷰 시스템 구축 사례
+* [2026년 상반기 가장 큰 AWS 신규소식! 드디어 출시된 Lambda MicroVM 정리합니다 - YouTube](https://www.youtube.com/watch?v=zxZKU-0iAMs)
+  * AWS 강의실. 2026 상반기 최대 AWS 신규 소식인 Lambda MicroVM 정리(43분)
 * [AWS-FullStack-Application](https://github.com/Jana0509/AWS-FullStack-Application)
   * [“Building a Full Stack Application: A Serverless Approach with AWS” | by Janarthanan Ravikumar | Medium](https://medium.com/@tojanasg/building-a-full-stack-application-a-serverless-approach-with-aws-ecdeba6e3d88)
     * A straightforward example of building an app on AWS using serverless services using API Gateway, Lambda, and DynamoDB
@@ -2585,6 +2592,8 @@ AWS
 * [KT, Amazon SageMaker를 이용한 ViT 기반 Food Tag 모델의 학습 시간 단축 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kt-ai-food-tag-on-sagemaker/)
 * [Amazon SageMaker Clarify – 파운데이션 모델 평가 기능 출시 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
+* [분산 학습을 위한 AWS 컴퓨트 선택 가이드 (1편: 모델 규모와 하드웨어 선택) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-compute-distributed-training-guide-model-scale-hardware/)
+  * LLM 학습 시 "어떤 GPU를 얼마나 어떻게 확보하나" 결정 가이드. H100 vs B200, 단일 노드 vs 멀티 노드, On-Demand vs Capacity Block, EC2 클러스터 vs UltraClusters/HyperPod 선택 기준
 * [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [AWS SageMaker HyperPod (w. EKS) 도입기](https://dev-ryuon.tistory.com/120)
 * [Amazon SageMaker HyperPod로 슈퍼브에이아이의 비전 파운데이션 모델 'ZERO' 효율적으로 대규모 분산 학습하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-hyperpod-superbai-zero-foundation-model/)
