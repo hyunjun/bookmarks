@@ -2676,6 +2676,9 @@ Programming
 * [kic-reference-architectures: MARA: Modern Application Reference Architecture](https://github.com/nginxinc/kic-reference-architectures)
 * [kratos: Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!](https://github.com/ory/kratos)
   * [Auth0의 오픈소스 대체제 Ory Kratos, 이제 Passwordless 및 SMS | GeekNews](https://news.hada.io/topic?id=13528)
+* [LikeC4 — Visualize, collaborate, and evolve software architecture with live diagrams from your code](https://likec4.dev/)
+  * [likec4: Architecture-as-a-code](https://github.com/likec4/likec4)
+  * 코드로부터 항상 최신 상태의 라이브 아키텍처 다이어그램을 생성하는 C4 모델 기반 도구. TypeScript, MIT, 5.2k stars
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 * [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
 * [software-architect-mindmap: 🧠Mindmap of 🗺️Software Architecture, Software engineering: An Overview of Software Terminologies and Concepts.](https://github.com/kimtth/software-architect-mindmap)
@@ -9605,15 +9608,6 @@ Programming
 * [프로세스 외부 의존성을 가진 데이터베이스는 무조건 목(Mock)으로 대체해야 하는가? - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/out-of-process-dependency/)
 * [TDD, 테스트 관련 - YouTube](https://www.youtube.com/playlist?list=PLwouWTPuIjUj_QqgXlFsqjUwyC0-5dZ_q)
 * [Dr Milan Milanović on X: "Unit Testing Best Practices Unit tests are software testing where individual units or components of a software application are tested. Unit testing aims to validate that each software unit performs as designed. Unit tests ensure code quality and ease of… https://t.co/9GrA1gDHby" / X](https://twitter.com/milan_milanovic/status/1757450098445803821)
-* [2402.11048 Towards identifying and minimizing customer-facing documentation debt](https://arxiv.org/abs/2402.11048)
-  * documentation-related defects contribute to many bug reports -> documentation debt
-  * documentation defects
-    * most defects are caused by documentation defects falling into the Information Content (What) category (86)
-      * Erroneous code examples (23), Missing documentation (35), and Outdated content (19)
-  * two solutions
-    * (i) Dynamic Documentation Generation (DDG) and/or
-    * (ii) Automated Documentation Testing (ADT)
-    * both based on defining a single and robust information source for documentation
 * [가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)
 * [Optimizing CI/CD Processes with Selective Testing | by Agoda Engineering | Agoda Engineering & Design | Mar, 2024 | Medium](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3)
   * Claude 3 Sonnet v1
@@ -9720,6 +9714,17 @@ Programming
         * OpenAI가 라지의 책임 범위에 “Integrity”를 명시. 이는 안전 지표·가드레일 평가·해킹/오용 탐지 같은 온라인 품질 통제를 제품 파이프라인에 깊게 박겠다는 신호(사용자 조사 기반의 안전/품질 지표를 A/B 지표로 끌어오는 설계)
         * Optimizely·LaunchDarkly·GrowthBook 등 실험/플래깅 생태계는 빅테크-모델랩의 내재화 흐름을 더 강하게 체감할 것. 경쟁사(예: Anthropic·Google)도 실험 스택 내재화/제휴를 서두를 가능성이 클 것으로 예상
 * [E2E 자동화 리팩토링으로 만든 QA 시스템 (feat. 하루 30회 배포) - 라포랩스 팀블로그](https://blog.rapportlabs.kr/80433)
+* [테스트 실패 메시지, 이렇게 강제했습니다 - YouTube](https://www.youtube.com/watch?v=nWJMmteXmyQ)
+  * 포프TV. "테스트 실패"·"값이 다름" 같은 메시지로는 못 고침—문제는 개발자가 아니라 구조. POCU는 실패 메시지를 문자열로 못 받게 막고 IStringProvider+MSG() 구조로 강제해 실패 이유를 정형화. "사람을 믿지 말고 시스템으로 해결"하는 설계
+* [2402.11048 Towards identifying and minimizing customer-facing documentation debt](https://arxiv.org/abs/2402.11048)
+  * documentation-related defects contribute to many bug reports -> documentation debt
+  * documentation defects
+    * most defects are caused by documentation defects falling into the Information Content (What) category (86)
+      * Erroneous code examples (23), Missing documentation (35), and Outdated content (19)
+  * two solutions
+    * (i) Dynamic Documentation Generation (DDG) and/or
+    * (ii) Automated Documentation Testing (ADT)
+    * both based on defining a single and robust information source for documentation
 * [Approval Tests](https://approvaltests.com/)
   * [TDD with ApprovalTest: Develop Spring Boot Applications - YouTube](https://www.youtube.com/watch?v=tv6TGaz2wx4)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
