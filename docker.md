@@ -2883,6 +2883,8 @@ Docker
   * 하부 패킷 처리부터 상위의 서비스 메시까지 전체 계층 구조를 이해하는 것이 쿠버네티스 환경을 성공적으로 진단하고 운영하는 데 필수적
 * [Duolingo's Kubernetes Leap - InfoQ](https://www.infoq.com/presentations/duolingo-eks-kubernetes/)
   * Duolingo 500+ 백엔드 서비스를 AWS ECS에서 EKS로 마이그레이션. Argo CD 기반 GitOps, IPv6-only 포드, 셀룰러 아키텍처로 환경 격리. 128M+ 활성 사용자 대상
+* [Networking for DevOps — A Complete Series | DevOps VN](https://devopsvn.tech/networking-series/)
+  * DevOps를 위한 네트워킹 단계별 시리즈. OSI/TCP-IP부터 DNS·라우팅·로드밸런싱 등 클라우드·쿠버네티스 운영에 필요한 네트워킹 지식 정리
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
