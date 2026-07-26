@@ -141,6 +141,8 @@ Product
 * [“흔들림 없는 4K 짐벌캠”](http://techholic.co.kr/archives/41979)
 
 # Car
+* [차는 살아남도록 설계됐다. 그런데 구조되도록 설계는 되었는가? | AEM](https://www.autoelectronics.co.kr/article/articleView.asp?idx=6918)
+  * EV 화재 안전 인터뷰(윌리엄 S. 러너, 뉴어크 소방국 치프 스티븐 라펜타). 전기차가 충돌 생존 중심으로 설계되며 사고 후 구조(rescue) 관점이 소외됐다는 문제 제기
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
 * [자동차 컵 홀더를 잇하게 만들어주는 5가지 아이템](http://www.earlyadopter.co.kr/59866)
 
