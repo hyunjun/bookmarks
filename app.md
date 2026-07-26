@@ -311,6 +311,10 @@ App
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 * [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
+* [awesome-cyber-ai-arsenal: A curated collection of offensive, defensive and AI/LLM security tools](https://github.com/pazo01/awesome-cyber-ai-arsenal)
+  * 공격·방어·AI/LLM 보안 도구 큐레이션. MIT
+* [awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis)
+  * 악성코드 분석 도구·리소스 큐레이션. 14k stars
 * [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
   * Kali Linux용 OSINT·정찰 도구 100+ 큐레이션. SOCMINT(소셜), GEOINT(지오로케이션), 네트워크 정찰, 다크웹, 포렌식 등을 원커맨드 설치 스크립트로 번들
 * [Bruce — Predatory ESP32 Firmware](https://bruce.computer/)
@@ -326,6 +330,9 @@ App
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
   * 웹 크롤링으로 이메일 주소를 대량 추출하는 OSINT 도구. 펜테스터·보안 분석가용
+* [flare-learning-hub: Free educational content on reverse engineering and malware analysis from the FLARE team](https://github.com/mandiant/flare-learning-hub)
+  * [FLARE Learning Hub | ThreatVector](https://www.facebook.com/threatvector/posts/pfbid03AxputqPdYQymZVXwFMKb3S8rqswzJZvTGHXuL1bhNJ6uGj2FJqXqVtByCd9E4zGl)
+  * Mandiant FLARE 팀의 무료 리버스 엔지니어링·악성코드 분석 교육 자료. 실습 랩·레퍼런스·연습문제. Apache-2.0, 1.4k stars
 * [h8mail: Email OSINT & Password breach hunting tool](https://github.com/khast3x/h8mail)
   * 이메일 OSINT·비밀번호 유출 헌팅 도구. 로컬 유출 DB 또는 프리미엄 서비스로 유출 이력 조회, 관련 이메일 추적. Python, 5.1k stars
 * [hackingtool: ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
@@ -333,8 +340,14 @@ App
   * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
 * [huntkit: penetration testing, bug bounty, CTF, red teaming tools in a single Docker image](https://github.com/mcnamee/huntkit)
   * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
+* [KittySploit — Open security framework, professional reports](https://kittysploit.com/)
+  * [Kittysploit-framework: Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator](https://github.com/SIA-IOTechnology/Kittysploit-framework)
+  * 오픈소스 보안 프레임워크. Python 익스플로잇 프레임워크, V8 엔진 디버거, 프록시 인터셉터, 마켓플레이스, post-exploitation, 백도어 생성기. 증거를 클라이언트 리포트로 변환하는 KittySploit Reports(E2E 암호화). Python, MIT
 * [MobileHackersWeapons: A collection of cool tools used by Mobile hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/MobileHackersWeapons)
   * iOS·Android 모바일 해킹 도구 큐레이션 리스트. 카테고리별(Analysis/Pentest/Proxy/RE/Scanner/Utils/Device) × 플랫폼별 분류. 1.2k stars, MIT
+* [naabu: A fast port scanner written in go with a focus on reliability and simplicity](https://github.com/projectdiscovery/naabu)
+  * [ProjectDiscovery](https://projectdiscovery.io/)
+  * 신뢰성·단순함에 집중한 Go 기반 고속 포트 스캐너. 버그바운티·펜테스트의 공격면 발견에 다른 도구와 조합 사용. MIT, 6.1k stars
 * [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
   * [Nettacker: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner](https://github.com/OWASP/Nettacker)
   * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처. Python, 5.3k stars
@@ -350,6 +363,8 @@ App
   * Trace Labs용 Kali 기반 OSINT 리눅스 배포판. OSINT 조사에 사전 구성된 도구와 하드닝된 Firefox 설정 제공. 완성 VM 이미지 다운로드 또는 Debian 계열에 도구 설치 스크립트 실행
 * [TorBot: Dark Web OSINT Tool](https://github.com/DedSecInside/TorBot)
   * 다크웹(.onion) OSINT 도구. Tor 네트워크 크롤링·링크 수집·이메일/전화번호 추출·인텔리전스 분석. Python, 4.4k stars
+* [voidaccess: Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps](https://github.com/KatrielMoses/voidaccess)
+  * 셀프호스팅 다크웹 OSINT 플랫폼. 쿼리→그래프까지 13단계 자동 위협 인텔리전스. Recorded Future·DarkOwl·Flare의 무료 대안. Python, MIT
 * [WireTapper: wireless OSINT tool — passively map Wi-Fi, Bluetooth, CCTV, vehicles, IoT, cell towers](https://github.com/h9zdev/WireTapper)
   * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화. 1.5k stars
 * [yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone](https://github.com/0x0be/yesitsme)
@@ -3041,6 +3056,10 @@ App
     * 설치 불필요, 어디서나 HWP 파일 열기. Rust+WASM으로 한국 고유 한글 포맷 접근성 향상
     * [HWP Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=edwardkim.rhwp-vscode)
     * [rhwp - HWP 문서 뷰어 & 에디터 - Chrome 웹 스토어](https://chromewebstore.google.com/detail/rhwp-hwp-%EB%AC%B8%EC%84%9C-%EB%B7%B0%EC%96%B4-%EC%97%90%EB%94%94%ED%84%B0/pgakpjflombjmehnebnbpnalhegaanag?pli=1)
+    * [rhwp-studio: 구글 드라이브의 hwp, hwpx를 바로 수정·저장하는 프로그램](https://github.com/dreamworker0/rhwp-studio)
+      * [rhwp studio : 구글 드라이브의 hwp, hwpx를 바로 수정, 저장하는 프로그램 - YouTube](https://www.youtube.com/watch?v=XMwqds17cDI)
+      * [rhwp-studio, 브라우저에서 한글(HWP) 문서를 편집하는 오픈소스 | 이상선](https://www.linkedin.com/posts/soulai_qvoqygrgurtqstwrzgukuqygucqtfd-share-7480884672822988800-dC51/)
+      * rhwp 엔진 기반. 구글 드라이브의 HWP/HWPX를 다운로드 없이 브라우저에서 바로 열고 편집·저장. Google Workspace Marketplace 앱. 사회복지·비영리 업무용
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
@@ -3084,6 +3103,9 @@ App
 # Remote
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
+* [Bananas Screen Sharing](https://getbananas.net/)
+  * [bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
+  * 크로스플랫폼 P2P 화면 공유 도구. 설정 없이 누구와도 화면 공유. Svelte, MIT, 6.4k stars
 * [grdpwasm: A web-based RDP client](https://github.com/nakagami/grdpwasm)
   * [grdpwasm - 웹 기반 RDP 클라이언트 | GeekNews](https://news.hada.io/topic?id=28899)
   * 브라우저만으로 Windows 원격 데스크톱 접속. Go WebAssembly + 서버 측 WebSocket-to-TCP 프록시
