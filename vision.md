@@ -647,6 +647,8 @@ Vision
   * [PyTorchKR에 쓴 개발자의 동기](https://www.facebook.com/groups/PyTorchKR/posts/2456108624528804/)
 * [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
+* [light-ocr: Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates](https://github.com/arcships/light-ocr)
+  * PP-OCRv6 기반 Node.js·C++ 오프라인 OCR. Core ML/WebGPU 하드웨어 가속, 신뢰도 점수·좌표 반환. npm @arcships/light-ocr
 * [liteparse: Open-source fast and helpful document parser](https://github.com/run-llama/liteparse)
   * [How LiteParse Turns PDFs Into Text: A Deep-Dive Into the Grid Projection Algorithm | LlamaIndex](https://www.llamaindex.ai/blog/how-liteparse-turns-pdfs-into-text-a-deep-dive-into-the-grid-projection-algorithm)
   * 로컬 PDF 파싱. 바운딩 박스 공간 텍스트 추출, Tesseract.js OCR 내장, 스크린샷 생성. Grid Projection 알고리즘으로 멀티컬럼/표 정렬 보존
@@ -657,6 +659,8 @@ Vision
   * 블록 수준 병렬 확산 디코딩으로 기존 대비 최대 3.26배 빠른 처리. 2.5B 파라미터, 레이아웃 감지·텍스트·수식·표 인식 지원
 * [mistral_ocr_webapp: mistral-ocr-latest application](https://github.com/myeong-ga/mistral_ocr_webapp)
   * [AGI KR | "문서 OCR과 대화형 UI 통합, 복잡하고 시간 소모적이지 않으신가요 | Facebook](https://www.facebook.com/groups/agikr/posts/2552430411764668/)
+* [NuMarkdown: Reasoning comes to OCR — NuMarkdown-8B-Thinking](https://github.com/numindai/NuMarkdown)
+  * 최초의 reasoning OCR VLM. 마크다운 생성 전에 thinking 토큰으로 문서 레이아웃을 파악—복잡한 표·이상한 레이아웃에 강함. Qwen 2.5-VL-7B 파인튜닝+GRPO RL, RAG용 문서→Markdown 변환. 아레나 랭킹에서 GPT-4o·OCRFlux 능가
 * [Nanonets OCR - Advanced Document Understanding API](https://nanonets.com/research/nanonets-ocr-s/)
   * [NanoNets/docext · Discussions · GitHub](https://github.com/NanoNets/docext/discussions)
   * [YT Nanonets-OCR-s - Colab](https://colab.research.google.com/drive/1ZAUgQKHamsBDsSC-0RliXuyF04SFyPUq?usp=sharing)
