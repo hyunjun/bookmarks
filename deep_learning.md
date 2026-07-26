@@ -1715,6 +1715,10 @@ Deep Learning
 * [MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors](https://prototypenx.github.io/MetaView/)
   * [MetaView: 단일 이미지 기반 대규모 시점 변환을 구현하는 Scale-Aware Novel View Synthesis 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3401)
   * 단일(monocular) 이미지에서 새로운 시점(novel view)을 합성하는 기술. scale-aware implicit geometry prior로 대규모 시점 변환 구현
+* [ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://facebookresearch.github.io/ShapeR/)
+  * [2601.11514 ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://arxiv.org/abs/2601.11514)
+  * [ShapeR: Code for the ShapeR research paper](https://github.com/facebookresearch/ShapeR)
+  * Meta Reality Labs. 일상적으로 촬영한(casual capture) 이미지 시퀀스에서 조건부 3D 오브젝트 메시 생성. 기존 방법이 요구하는 깨끗한·가려짐 없는·잘 분할된 입력 없이, SLAM 포인트·이미지·VLM 캡션을 오브젝트별 멀티모달 조건으로 추출해 rectified flow transformer로 메시 생성
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
@@ -2962,6 +2966,8 @@ CVPR2016)
   * [Diffusion Models의 원리를 설명하는 글 | GeekNews](https://news.hada.io/topic?id=15013)
 * [HuggingFace 스페이스 - OOTD를 내 마음대로, OOTDiffusion | 지피터스 GPTers](https://www.gpters.org/c/huggingface/huggingface-ootd-ootdiffusion) OOTDiffusion OutfitAnyone
 * [나노바나나는 어떻게 일관성을 유지하는거지? 왜 이미지는 텍스트처럼 안되는걸까?](https://www.linkedin.com/posts/jongsu-kim-63458347_rosinality-rosinality-on-x-activity-7367359743285207040-KVhe)
+* [우분투에서 파이썬으로 로컬 이미지 생성하기: diffusers + SDXL 설치부터 실행까지 (RTX 4060 8GB) | webnautes](https://webnautes.com/%ec%9a%b0%eb%b6%84%ed%88%ac%ec%97%90%ec%84%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%eb%a1%9c%ec%bb%ac-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%83%9d%ec%84%b1%ed%95%98%ea%b8%b0-diffusers-sdxl/)
+  * 리눅스 PC(메모리 64GB, RTX 4060 8GB)에서 diffusers+SDXL 로컬 이미지 생성 환경 구축부터 터미널 대화형 스크립트(image_gen_cli.py) 실행까지 전 과정 정리
 * [AI Gallery - Create stunning AI-powered artwork instantly](https://aigallery.app/create)
   * [무료+무제한+검열없음+상업용까지 = 최강 이미지 생성 AI 등장! - YouTube](https://www.youtube.com/watch?v=HH5TXYPzqTY)
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111)
@@ -3037,6 +3043,10 @@ CVPR2016)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
+* [Qwen-Image-3.0 | Qwen Blog](https://qwen.ai/blog?id=qwen-image-3.0)
+  * [Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식 | GeekNews](https://news.hada.io/topic?id=31666)
+  * [Qwen-Image-3.0 핵심 기능과 특징 정리: 더욱 현실적인 AI 이미지 생성 모델의 진화 | digitalbourgeois](https://digitalbourgeois.tistory.com/3400)
+  * Qwen Team의 이미지 생성 모델. 'Real(현실성)'을 목표로 진화—사실적 이미지를 넘어 복잡한 문서 구성, 작은 텍스트 표현, 다국어 지원, 실제 UI 구현까지 가능
 * [Redream: Realtime Diffusion, using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [Scribble Diffusion](https://scribblediffusion.com/)
   * [scribble-diffusion: Turn your rough sketch into a refined image using AI](https://github.com/replicate/scribble-diffusion)
