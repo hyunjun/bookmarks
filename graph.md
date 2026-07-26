@@ -239,6 +239,9 @@ Graph
 * [Graph Engineering이 RAG를 넘어서는 이유 (Microsoft·Stanford·Anthropic이 선택한 차세대 AI 아키텍처) | Sprytixl X](https://x.com/Sprytixl/status/2078778799064584535)
   * [Graph Engineering이 RAG를 넘어서는 이유: Microsoft, Stanford, Anthropic이 선택한 차세대 AI 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3404)
   * 단순 벡터 검색(RAG) 대신 그래프 기반으로 지식을 구조화하는 "그래프 엔지니어링"이 차세대 AI 아키텍처로 부상—Microsoft·Stanford·Anthropic이 채택하는 흐름과 그 이유
+* [🌁FOD#159: 그래프 엔지니어링(Graph Engineering), 이건 뭘까요? | Turing Post Korea](https://turingpost.co.kr/p/fod-159-graph-engineering)
+  * [Hamel Husain on X](https://x.com/HamelHusain/status/2078346425621237935)
+  * '루프 엔지니어링' 등장 6주 만에 나온 다음 유행어 "그래프 엔지니어링"이 AI 에이전트 설계 방식의 변화 방향인지 짚는 Turing Post 위클리(FOD#159)
 * [How the Ontology Pipeline Powers Semantic Knowledge Systems | Modern Data 101](https://moderndata101.substack.com/p/the-ontology-pipeline)
   * [AI Agent의 자기 개선(Self-Improvement)과 온톨로지 파이프라인: 신뢰할 수 있는 AI를 위한 두 가지 핵심 기반 | digitalbourgeois](https://digitalbourgeois.tistory.com/3394)
   * 온톨로지 파이프라인이 시맨틱 지식 시스템을 구동하는 방식. AI가 이해·활용하는 데이터·지식을 체계적으로 관리하는 온톨로지가 신뢰할 수 있는 AI(그리고 에이전트 자기개선)의 기반이 된다는 관점
