@@ -135,6 +135,7 @@ Game
   * [openfootmanager](https://github.com/openfootmanager/openfootmanager)
   * Football Manager 영감의 오픈소스 축구 매니저 게임. Rust 매치 시뮬레이션 엔진 + React/TypeScript/TailwindCSS 프론트엔드 + Tauri 데스크톱 앱 + SQLite. GPLv3
 * [OpenMMO: An MMORPG where AI agents and human players are treated as equals](https://github.com/Julian-adv/OpenMMO)
+  * ["AI도 사람과 같은 플레이어"… 송재경의 새 MMO 실험 | 류내원 (inven)](https://www.facebook.com/won.wizard/posts/pfbid0Db1DCrGrSnpnthR6fz5FBPPUgW34rafQorb4fmPUSxj8ZcYAtNGcxccFAx12YtKhl)
   * AI 에이전트와 사람 플레이어를 동등하게 대우하는 오픈소스 MMORPG. 둘 다 같은 WebSocket 프로토콜로 접속—에이전트 전용 특권 API 없이 사람과 똑같은 인터페이스로 참여해 서버가 구분 못함. Three.js 쿼터뷰 3D, Rust 서버, 1인 vibe-coded
 * [Owlcat Games - We create cRPGs](https://owlcat.games/learning)
   * [이상선 - Owlcat Games — 무료 게임 개발 학습 리소스 허브 공개 1. 게임 개발 입문자들을 위한 무료... | Facebook](https://www.facebook.com/100001916096643/posts/31845031711810618/)
@@ -194,6 +195,8 @@ Game
 * [isomiddleearth: An isometric world-builder set in Tolkien's Middle-earth](https://github.com/hasanharman/isomiddleearth)
   * Shire/Gondor/Mordor/Lothlorien/Rohan/Moria/Rivendell 7개 렘 + 혼합 모드, 3x3~20x20 그리드, 지형·물·식물·주거·건물·장식 6개 타일 카테고리, 8개 호빗 스프라이트. 클릭/드래그 페인팅, Cmd+Z 실행 취소, PNG/JSON 내보내기. Zustand+localStorage 상태 유지
 * [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
+* [mykonos-island-voxels: A browser-based isometric island builder with the soft, sun-bleached look of Mykonos](https://github.com/boona13/mykonos-island-voxels)
+  * 미코노스풍의 부드럽고 햇살 바랜 룩의 브라우저 아이소메트릭 섬 빌더. Vanilla ES 모듈, 번들러 없음, 모바일 지원. JavaScript, MIT
 * [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
   * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
 
