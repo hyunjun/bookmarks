@@ -1730,6 +1730,8 @@ NLP
 * [smarter-prompt: 모두의AI에서 제공하는 SMART+ER Prompt](https://github.com/modu-ai/smarter-prompt)
 * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks/)
   * [나만의 AI agent 서비스를 개발 중이시라면, 이 오픈소스를 꼭 참고하세요! 🤖 OpenAI, Anthropic, Google 등 유명 LLM 챗봇 서비스들의 프롬프트를 비교 분석하고, AI 에이전트 설계에 활용해 보실 수도 있을 거예요. System Prompts Leaks 라는 오픈소스인데, 현재 7개 대형 회사의 프롬프트를 제공합니다. API… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_%EB%82%98%EB%A7%8C%EC%9D%98-ai-agent-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C-%EC%A4%91%EC%9D%B4%EC%8B%9C%EB%9D%BC%EB%A9%B4-%EC%9D%B4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%BC%AD-%EC%B0%B8%EA%B3%A0%ED%95%98%EC%84%B8%EC%9A%94-activity-7369096013514539008-YKPs)
+* [ultraprompt: Fable5 Solution Tracing prompting skills](https://github.com/rlaope/ultraprompt)
+  * 프론티어 코딩 모델(Claude Fable 5)의 추론 트레이스를 추출해 다른 에이전트용 이식 가능한 전략 스킬 프롬프트로 증류하는 프로젝트. ~16개 코딩 도메인 케이스 실행→탐색 순서·가설 유지·완료 판단·접근 포기 시점 등 반복 전략 추출→SKILL.md로 배포. 산출물은 코드가 아닌 프롬프트
 
 ## ChatBot Python
 
@@ -1965,6 +1967,8 @@ NLP
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
 * [Best Natural Language Processing Courses Online in 2021-UPDATED](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
 * [11 Best Natural Language Processing Courses Online- Bestseller in 2021](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
+* [Building LLMs from scratch - Vizuara - YouTube](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+  * Vizuara 채널 43강 시리즈. LLM 기초→트랜스포머→GPT-3 동작 원리→토크나이저(BPE) 직접 구현 등 LLM을 처음부터 만들며 배우는 강의
 * [Computational Linguistics](https://hpshin.github.io/ComputationalLinguistics/index.html)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -3091,6 +3095,9 @@ NLP
   * [Intern-S1: A Scientific Multimodal Foundation Model](https://github.com/InternLM/Intern-S1/)
 * [jamo\_llm: 어느 고등학생의 심플한 확률론적 앵무새 만들기](https://github.com/yoonhero/jamo_llm)
 * [JudgeBench: A Benchmark for Evaluating LLM-Based Judges](https://github.com/ScalerLab/JudgeBench)
+* [Jupiter | Sovereign — zero-dependency high-performance inference engine for LLMs](https://www.teamjupiter.ai/)
+  * [Jupiter Sovereign 공유 | Jupiter Song](https://www.linkedin.com/posts/jupitersong_jupiter-sovereign-share-7486380864663076864-IBtp/)
+  * 의존성 없는 고성능 LLM 추론 엔진. 커스텀 PTX 런타임과 B-Tree 레이어 스트리밍 기반
 * [kanana: Kanana: Compute-efficient Bilingual Language Models](https://github.com/kakao/kanana)
   * [밑바닥부터 Kanana LLM 개발하기: Pre-training - tech.kakao.com](https://tech.kakao.com/posts/661)
   * [밑바닥부터 Kanana LLM 개발하기: Post-training - tech.kakao.com](https://tech.kakao.com/posts/662)
@@ -4477,6 +4484,10 @@ NLP
   * [PageIndex](https://github.com/VectifyAI/PageIndex)
   * [Vectorless·Reasoning 기반 RAG, PageIndex로 다시 정의하는 문서 검색과 분석 :: 지식의 섬](https://digitalbourgeois.tistory.com/3062)
   * 벡터 DB 없이 문서 계층 트리 인덱스 구축 → LLM 추론 기반 검색. 청킹·임베딩 불필요, 페이지 참조 추적 가능. FinanceBench 98.7% 정확도
+* [PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://github.com/microsoft/PIKE-RAG)
+  * [2501.11551 PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](https://arxiv.org/abs/2501.11551)
+  * [PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크 | PyTorchKR](https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323)
+  * Microsoft의 산업용 RAG 프레임워크. 단순 검색으로는 전문 자료의 복잡한 질의에 한계가 있어, 전문 지식(specialized knowledge)과 추론 근거(rationale)를 함께 강화하는 접근. Python, MIT, 2.5K stars
 * [PixelRAG: Search any document by how it looks, not just the text it contains](https://github.com/StarTrail-org/PixelRAG)
   * [PixelRAG](https://pixelrag.ai/)
   * 문서를 텍스트 파싱 없이 스크린샷 이미지로 렌더링해 검색하는 비주얼 RAG. 표·차트·레이아웃·인포그래픽 보존. LoRA 파인튜닝 Qwen3-VL-Embedding, 위키피디아 828만 페이지 사전 인덱스 호스팅 API, pixelshot CLI(웹·PDF·이미지)+Claude용 pixelbrowse 플러그인. MPS/CUDA
@@ -5488,6 +5499,9 @@ NLP
 * [garu](https://github.com/ongjin/garu)
   * [한국어 형태소 분석기 가루(Garu) - 브라우저에서 바로 실행되는 WASM 분석기](https://garu.zerry.co.kr/)
   * WebAssembly로 브라우저 클라이언트에서 완전 실행되는 한국어 형태소 분석기(서버 불필요). 1MB 모델+언어학 기법으로 F1 93.9%, 형태소 분석·명사 추출·토큰화를 오프라인에서 수행
+* [gigatoken: Language model tokenization at GB/s](https://github.com/marcelroed/gigatoken/)
+  * [GigaToken: 언어 모델 토큰화를 최대 1,000배 가속하는 초고속 토크나이저 | digitalbourgeois](https://digitalbourgeois.tistory.com/3410)
+  * HuggingFace Tokenizers·Tiktoken의 drop-in 대체 초고속 토크나이저. SIMD 최적화·캐싱으로 최대 ~1,000배 빠른 GB/s급 처리량, 호환 모드 제공. Rust, MIT, 3K stars
 * [kortok: The code and models for "An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks" (AACL-IJCNLP 2020)](https://github.com/kakaobrain/kortok)
 
 # Topic Modeling
@@ -5828,6 +5842,9 @@ NLP
 * [Qwen3-ASR: Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction](https://github.com/QwenLM/Qwen3-ASR)
   * [Qwen3-ASR 및 Qwen3-ForcedAligner가 오픈소스로 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2857185841289122&hoisted_section_header_type=recently_seen)
   * [맥에서 Qwen3 ASR 쓰는 팁](https://x.com/xrath/status/2031588181347328165)
+* [Qwen-Audio-3.0-TTS Demo | FunAudioLLM](https://funaudiollm.github.io/qwen-audio-3.0-tts/)
+  * [Qwen-Audio-3.0-TTS: 생산 환경을 위한 차세대 음성 합성(Text-to-Speech) 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3403)
+  * 생산 환경(Production) 중심 고성능 TTS. 콘텐츠 일관성·화자 유사도·자연스러운 억양·다국어 지원·빠른 생성 속도·스타일 제어에 초점
 * [🤖 Qwen3-TTS: AI 음성 합성의 새로운 혁신](https://fornewchallenge.tistory.com/entry/%F0%9F%A4%96-Qwen3-TTS-AI-%EC%9D%8C%EC%84%B1-%ED%95%A9%EC%84%B1%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%98%81%EC%8B%A0-1)
   * [Qwen3 TTS Voice Design - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen3-TTS-Voice-Design)
   * [Qwen TTS Clone Demo - a Hugging Face Space by Qwen](https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo)
