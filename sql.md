@@ -1766,6 +1766,8 @@ SQL
 * [Database의 샤딩(Sharding)이란?](https://nesoy.github.io/articles/2018-05/Database-Shard)
 * [Understanding Database Sharding | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
+* [대량 데이터를 나누는 기술, 파티셔닝과 샤딩 - YouTube](https://www.youtube.com/watch?v=lVRJv4qVWFo)
+  * 코딩하는기술사 채널. 단일 테이블·단일 DB 한계 시 적용하는 데이터 분리 전략—파티셔닝과 샤딩의 개념·차이 설명(7분)
 
 # SQLite
 * [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
