@@ -391,6 +391,8 @@ NLP
   * The article also mentions the popular two-phase post-training methodology, supervised instruction fine-tuning, and direct preference optimization (DPO)
 * [DPO 톺아보기 · likejazz.com](https://likejazz.com/dpo/)
 * [Human Feedback 받은 LLM이 사람보다 요약을 잘한다? | OpenAI 2020 | 김선호 - YouTube](https://www.youtube.com/watch?v=Sv9lFaEsGsU)
+* [파인튜닝으로 나만의 LLM 만들기 (LoRA) | 성수 김](https://www.linkedin.com/pulse/%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-llm-%EB%A7%8C%EB%93%A4%EA%B8%B0-lora-%EC%84%B1%EC%88%98-%EA%B9%80-c8f7c)
+  * LoRA를 이용해 나만의 LLM을 파인튜닝하는 방법 정리
 * [ART: Agent Reinforcement Trainer - Open-source RL for LLMs](https://github.com/OpenPipe/ART)
   * [ART · Agent Reinforcement Trainer](https://art.openpipe.ai/)
   * [How to fine-tune LLMs in 2026 (100% open-source, reward-free RFT) | Akshay Pachaar](https://www.linkedin.com/posts/akshay-pachaar_how-to-fine-tune-llms-in-2026-100-open-source-activity-7434989161377558528-Wktz)
@@ -2727,6 +2729,9 @@ NLP
 * [LLM 추론 최적화를 위한 Dynamic Quantization](https://velog.io/@isanghao/LLM-%EC%B6%94%EB%A1%A0-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-Dynamic-Quantization)
 * [데이터 인터페이스로서 LLM이 갖는 중요한 역할](https://brunch.co.kr/@graypool/2306)
 * [LLM을 활용한 AI 와인 라벨 이미지 검색 개발 여정](https://gsretail.tistory.com/82)
+* [2211.17192 Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
+  * [Understanding Speculative Decoding | Soil & Silicon](https://soilandsilicon.dev/posts/understanding-speculative-decoding/)
+  * speculative decoding 원 논문. 작은 드래프트 모델로 여러 토큰을 병렬 추측하고 타깃 모델이 단일 패스로 검증—출력을 바꾸지 않으면서 자기회귀 추론을 가속. 블로그는 원 논문 기반 딥다이브 해설
 * [2309.06180 Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
   * [**언어 모델을 왜 이렇게 고사양의 GPU가 필요할까?**](https://www.linkedin.com/posts/gim-gyungjin-7430aab4_%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%99%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B3%A0%EC%82%AC%EC%96%91%EC%9D%98-gpu%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-autoregressive-activity-7352335035087114241-U2iY/)
 * [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
@@ -3520,6 +3525,8 @@ NLP
   * [Small-fine-tuning: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK](https://github.com/0xSojalSec/Small-fine-tuning)
 * [LiteLLM — Call 100+ LLMs using the OpenAI format](https://docs.litellm.ai/)
   * [litellm](https://github.com/BerriAI/litellm)
+  * [litellm-guide: It shows how to deploy liteLLM | kyopark2014](https://github.com/kyopark2014/litellm-guide)
+    * LiteLLM 배포 방법 가이드
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
@@ -4017,6 +4024,8 @@ NLP
     * 100만 토큰 컨텍스트, 에이전트 코딩(터미널 명령, 파일 수정, 멀티스텝 계획), 멀티모달 추론 대폭 향상
     * [뉴런데브 - 경악스러운 Qwen 3.6 35B 성능 | YouTube](https://www.youtube.com/post/UgkxncuNbJtpUHKrJmi4l9xRmE1iDFfYMcL6)
       * Qwen3 coder next 80B 능가. Unsloth UD-IQ3_XXS(13.2GB, VRAM 16GB), UD-IQ4_LN(18GB, 24GB 3090) 추천. 3090에서 초당 100토큰, 맥미니 M4에서 45-55토큰. 에이전트 도구호출 뛰어남
+    * [Dnotitia, 검열을 제거하고 한국어를 강화한 Qwen 3.5/3.6 기반 오픈 LLM 패밀리 DNA 3.0 공개 | PyTorchKR](https://discuss.pytorch.kr/t/dnotitia-qwen-3-5-3-6-llm-dna-3-0/10472)
+      * Dnotitia(디노티시아)의 한국어 특화 LLM 제품군 DNA 3.0. Qwen 3.5/3.6 기반에 추가 post-training, 0.8B~397B 8가지 크기(dense·MoE). 검열 제거·한국어 강화, HF 공개
     * [Qwen 3.6 27B is the sweet spot for local development | Quesma](https://quesma.com/blog/qwen-36-is-awesome/)
       * [Qwen 3.6 27B 로컬 실행이 실용적인 이유와 실제 사용 경험 | digitalbourgeois](https://digitalbourgeois.tistory.com/3306)
       * dense 27B가 로컬 개발의 스위트 스팟이라는 주장. 35B A3B(MoE)보다 느리지만 출력 품질·지시 준수 우수. llama.cpp 8비트 양자화, MacBook M5 Max에서 multi-token prediction으로 ~32 tok/s(~42GB RAM). Artificial Analysis 37점으로 2025년 중반 프론티어 모델(Claude Sonnet)급—프라이버시·비용 면에서 로컬 배포가 현실적 대안
@@ -4029,6 +4038,8 @@ NLP
     * 알리바바 Qwen3.6. SWE-bench Pro/Terminal-Bench 2.0 등 6개 코딩 벤치마크 최상위. SkillsBench +9.9, SuperGPQA +2.3. preserve_thinking으로 대화 간 추론 유지. Alibaba Cloud Model Studio 독점, OpenAI·Anthropic API 호환. 27B/35B-A3B 로컬 실행, 256K·201개 언어
   * [Qwen3.7-Max 에이전트 중심 초대형 AI 모델의 기술적 특징과 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3126)
     * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
+  * [Qwen3.8-max-preview 2.4조 파라메터 모델을 오픈으로 풀었다 - YouTube](https://www.youtube.com/watch?v=u45TJFlgGtA)
+    * 토목엔지니어 돌종. 알리바바가 2.4조 파라미터 Qwen3.8-max-preview 공개(웨이트 미공개). 알리바바는 Fable 5 바로 아래 성능이라 밝힘, 돌종벤치(논리·수학·공학계산·코딩·도면·비전추론) 92점
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
