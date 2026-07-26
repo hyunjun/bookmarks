@@ -263,6 +263,8 @@ Graph
   * Neo4j 지식 그래프+LLM 결합. Cypher 쿼리 생성으로 확률적 유사도 대신 결정론적 그래프 검색, 멀티홉 관계 보존, 환각 완화. 금융/헬스케어/FMCG 규제 산업용. LangChain 에이전틱 라우팅
 * [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction | 배수정](https://www.linkedin.com/posts/crystal0224_hybridrag-integrating-knowledge-graphs-and-share-7455392718773465088-Qvik)
   * 지식 그래프와 벡터 검색을 결합한 하이브리드 RAG. 정보 추출 효율성 향상. 온톨로지 관점의 RAG 설계 논의
+* [knowledge_graph: Convert any text to a graph of knowledge](https://github.com/rahulnyk/knowledge_graph)
+  * 텍스트를 지식 그래프로 변환. Graph Augmented Generation·지식 그래프 기반 QnA에 활용. Jupyter Notebook, MIT, 3.4k stars
 * [knowledgeGraph: AI agent long-term memory via mentoring-based knowledge graph](https://github.com/ChenLiangChong/knowledgeGraph)
   * AI 에이전트 장기 기억 시스템. 멘토링 통해 도메인 전문성 축적, 하이브리드 검색, 메모리 감쇠, 환각 방지
 * [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)
