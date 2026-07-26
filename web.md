@@ -667,6 +667,9 @@ Web
   * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
 * Nepenthes [ZADZMO code](https://zadzmo.org/code/nepenthes/)
   * [Nepenthes - AI 웹 크롤러를 잡는 함정 | GeekNews](https://news.hada.io/topic?id=18770)
+* [Lightpanda | The headless browser designed for AI and automation](https://lightpanda.io/)
+  * [browser: Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
+  * 머신을 위해 처음부터 만든 AI-네이티브 headless 브라우저(Chrome 포크 아님). Chrome headless 대비 10배 빠르고 RAM 10배 절약. Zig, AGPL-3.0, 32K stars
 * [obscura: Open-source headless browser engine for AI agents, written in Rust](https://github.com/h4ckf0r0day/obscura)
   * headless Chrome 대체 Rust 브라우저 엔진. 30MB 메모리(Chrome 200MB+), 85ms 페이지 로드, V8 JS 실행, CDP 호환(Puppeteer/Playwright), 핑거프린트 랜덤화+트래커 차단 스텔스 모드, 단일 바이너리 배포
 * [pipet: Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
