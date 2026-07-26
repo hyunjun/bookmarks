@@ -25,6 +25,8 @@ Linux
 * [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
 * [6 open source tools and tips to securing a Linux server for beginners | Opensource.com](https://opensource.com/article/21/4/securing-linux-servers)
   * [초보자를 위한 리눅스 서버 보안용 오픈소스들과 팁 | GeekNews](https://news.hada.io/topic?id=4152)
+* [How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+  * SSH 키·2FA·방화벽·fail2ban·감사 로그 등 리눅스 서버 보안 설정을 단계별로 다루는 진화형 가이드. 30K stars
 * [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb)
 * supervisord
   * [Deploy SSR Applications using Supervisord](https://hackernoon.com/deploy-ssr-applications-using-supervisord-dc32f1c0cda4)
