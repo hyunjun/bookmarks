@@ -1182,6 +1182,8 @@ Business
 * ['지가 뭔데 우릴 가르쳐?'](https://www.linkedin.com/posts/elfpenguin_%EC%A7%80%EA%B0%80-%EB%AD%94%EB%8D%B0-%EC%9A%B0%EB%A6%B4-%EA%B0%80%EB%A5%B4%EC%B3%90-1-%EC%A0%9C%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%94%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B3%A0%EC%84%9C-activity-7012419055450042369-RVuA/)
 * [세콰이어 캐피탈 회장 마이클 모리츠, 변화와 흐름에 대한 통찰 (Michael Moritz - Managing Partner, Sequoia Capital) - YouTube](https://www.youtube.com/watch?v=OwkaChNCVWE)
 * [How to Bake a Change • Daniel Terhorst-North • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wO8M6M39vZk)
+* [The uncomfortable math of AI transformation: 10% is the model | Hacking101 | Facebook](https://www.facebook.com/groups/hacking101/permalink/2785524075180826/)
+  * AI 전환의 불편한 산수—모델은 10%일 뿐이고 나머지 90%는 조직이 예산에 넣지 않은 일이며, 대부분의 AI 전략이 조용히 실패하는 지점이 바로 그 90%라는 글
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -3393,6 +3395,10 @@ Business
   * 소비자가 ChatGPT·Perplexity에 직접 질문 후 구매하는 시대. AI 검색 결과에 브랜드가 노출되려면 기존 SEO를 넘어 AEO 전략이 필요
 * [AEO/GEO Playbook 2편 — AI 가시성 진단 무료 체크리스트 | Angela Kim](https://www.linkedin.com/posts/frost-angela_aeo-geo-playbook-share-7460654795251601408-RLWi/)
   * 30분 진단용 AI 가시성 체크리스트 4섹션: 콘텐츠 구조, 콘텐츠 고유성·권위, Gap Matrix(경쟁 격차 분석), AI 검색 인용 프레임워크. ChatGPT/Perplexity 등에서 브랜드 인용 여부 측정·개선
+* [“기자는 물론 AI가 읽는 보도자료를 써라”…시전이 말하는 AI 시대 PR 전략 | CIO](https://www.cio.com/article/4198642/%EA%B8%B0%EC%9E%90%EB%8A%94-%EB%AC%BC%EB%A1%A0-ai%EA%B0%80-%EC%9D%BD%EB%8A%94-%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%EB%A5%BC-%EC%8D%A8%EB%9D%BC%EC%8B%9C%EC%A0%84%EC%9D%B4.html)
+  * Cision 기자간담회. 생성형 AI 시대 보도자료의 핵심 대상에 기자뿐 아니라 AI도 포함해야—기업 정보가 AI 검색·LLM 답변에 반영될 때 보도자료가 신뢰할 수 있는 공식 자료로 활용됨
+* [Synthetic Customers Earn Their Stripes | Bain & Company](https://www.bain.com/insights/synthetic-customers-earn-their-stripes/)
+  * AI로 생성한 합성 고객(synthetic customers)이 실제 고객 조사를 보완하는 리서치 도구로 자리잡는 흐름을 다룬 Bain 인사이트
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -4702,6 +4708,12 @@ Business
   * Anthropic이 2026.5.14 공개한 AI-native 스타트업 가이드. 4단계(Idea/MVP/Launch/Scale) 재구성, 단계별 목표·실패 모드·AI 활용 연습. Claude 표면 선택(Chat 빠른 작업/Cowork 리서치·문서/Code 소프트웨어). Idea: Problem-Solution Fit—Claude를 devil's advocate로. MVP: agentic 기술 부채·스코프 크리프 관리, CLAUDE.md 아키텍처 파일. Launch: 창업자 병목 회피, SOC 2/GDPR 준비. Scale: 도메인 지식 AI 컨텍스트·데이터 플라이휠·워크플로우 락인 해자. "병목은 만들 수 있는 것이 아니라 무엇을 만들지 선택하는 것". Ambral·Anything·Carta Healthcare·HumanLayer·Vulcan Technologies 사례
 * [Hun Lee - 런던 금융중심가에서 한식업을 시작한 이유 | Facebook](https://www.facebook.com/share/p/1Gh5SzTJ1b/)
   * 삼성전자 유럽총괄 마케팅디렉터 출신 이강헌의 런던 한식당 창업기. 당시 한식당 비빔밥이 5파운드에 무한 반찬·셀프 물로 저가 소비되던 현실에 답답함을 느껴, 일식·중식 대비 저평가된 한식의 가치를 높이려 창업
+* [Software Ate the World. Now Hardware Is Eating Software. | Wing Venture Capital](https://www.wing.vc/content/software-ate-the-world-now-hardware-is-eating-software)
+  * [소프트웨어가 세상을 먹어 치웠고, 이제 하드웨어가 소프트웨어를 먹고 있다 | GeekNews](https://news.hada.io/topic?id=31454)
+  * SaaS 시대에는 인터페이스·애플리케이션 계층이 75~90% 총마진을 확보했지만, AI에서는 가치 중심이 반도체·컴퓨팅·데이터·추론 플랫폼으로 내려가며 애플리케이션 계층이 얇아짐. CoWoS·HBM·전력의 물리적 병목과 막대한 자본이 새 해자
+* [Hardware is not so hard | Chip Weinberger](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+  * [MIDI 레코더 2,500대를 판매하며 배운 것: 하드웨어는 그렇게 어렵지 않다 | GeekNews](https://news.hada.io/topic?id=31601)
+  * 피아노 연주 자동 기록 장치 Jamcorder를 1년 반 만에 2,500대+ 판매한 경험담. 가장 어려운 건 하드웨어가 아니라 펌웨어·앱·제조 도구에 걸친 약 20만 줄의 소프트웨어였고, LLM 이전 환경에서 3년 넘게 소요
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
