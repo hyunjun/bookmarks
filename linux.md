@@ -1664,6 +1664,9 @@ Linux
 * [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 * [Linux Kernel network (networking stack)](https://pr0gr4m.tistory.com/entry/Linux-Kernel-network-networking-stack)
 * [What they don't teach you about sockets](https://macoy.me/blog/programming/Sockets)
+* [AdGuardian Terminal Edition](https://adguardian.as93.net/)
+  * [AdGuardian-Term: Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance](https://github.com/lissy93/AdGuardian-Term)
+  * AdGuard Home 인스턴스의 실시간 트래픽·차단 통계를 터미널에서 모니터링. Rust, MIT, 1.6k stars
 * [sonar: CLI tool to inspect and manage services listening on localhost ports](https://github.com/raskrebs/sonar)
 
 # Shell
