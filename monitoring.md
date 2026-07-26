@@ -360,8 +360,8 @@ Monitoring
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
 
 # Observability
-* [cncf/tag-observability: Technical Advisory Group for Observability 🔭⚙️](https://github.com/cncf/tag-observability/tree/main)
-  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)
+* [서버 모니터링 분석 가이드 | kciter.so](https://kciter.so/posts/server-monitoring-analysis-guide/)
+  * 서버 개발자를 위한 모니터링 종합 가이드. 장애 발생 시 빠르게 원인을 좁히고 사전에 문제를 파악하는 방법을 아키텍처·모니터링 관점에서 정리
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [ What is Observability 2.0](https://middleware.io/blog/observability-2-0/)
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)
@@ -396,6 +396,8 @@ Monitoring
 * [The Business Case for Observability - Observability Engineering: Achieving Production Excellence](https://erenow.org/common/observability-engineering-achieving-production-excellence/20.php)
 * [지금 주목해야 할 옵저버빌리티 트렌드 5가지 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/06/05/011y-trends/)
 * [옵저버빌리티 비용 어떻게 절감할까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/07/17/o11y-cost/)
+* [cncf/tag-observability: Technical Advisory Group for Observability 🔭⚙️](https://github.com/cncf/tag-observability/tree/main)
+  * [tag-observability/whitepaper.md at main · cncf/tag-observability](https://github.com/cncf/tag-observability/blob/main/whitepaper.md)
 * [Clymene: the Clymene is time-series data and Logs collection platform for distributed systems](https://github.com/Clymene-project/Clymene)
   * [분산 환경의 효율적인 시계열 데이터 수집 및 관리 방안. MSA! 마이크로 서비스 아키텍처는 이제 서비스를 개발하고 운영할 때… | by allen | Medium](https://medium.com/@clymeneallen/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%95%88-16d787c5ed3d)
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 모니터링 시스템 구축 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-4666c21788c7)
