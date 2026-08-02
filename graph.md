@@ -242,9 +242,20 @@ Graph
 * [🌁FOD#159: 그래프 엔지니어링(Graph Engineering), 이건 뭘까요? | Turing Post Korea](https://turingpost.co.kr/p/fod-159-graph-engineering)
   * [Hamel Husain on X](https://x.com/HamelHusain/status/2078346425621237935)
   * '루프 엔지니어링' 등장 6주 만에 나온 다음 유행어 "그래프 엔지니어링"이 AI 에이전트 설계 방식의 변화 방향인지 짚는 Turing Post 위클리(FOD#159)
+* [루프 나온지도 얼마 안 됐는데 그래프 엔지니어링? 5분만에 쉽게 설명해드림 - YouTube](https://www.youtube.com/watch?v=BtM2JZCMtL8)
+  * ZeroCho TV. AI 에이전트 설계에서 새로 등장한 "그래프 엔지니어링" 개념을 5분 만에 쉽게 설명
 * [How the Ontology Pipeline Powers Semantic Knowledge Systems | Modern Data 101](https://moderndata101.substack.com/p/the-ontology-pipeline)
   * [AI Agent의 자기 개선(Self-Improvement)과 온톨로지 파이프라인: 신뢰할 수 있는 AI를 위한 두 가지 핵심 기반 | digitalbourgeois](https://digitalbourgeois.tistory.com/3394)
   * 온톨로지 파이프라인이 시맨틱 지식 시스템을 구동하는 방식. AI가 이해·활용하는 데이터·지식을 체계적으로 관리하는 온톨로지가 신뢰할 수 있는 AI(그리고 에이전트 자기개선)의 기반이 된다는 관점
+* [데이터에 맥락을 새겨 넣는 법 — AI Ready Data, Semantic Layer, Knowledge Graph, Ontology](https://bits-bytes-nn.github.io/insights/data-architecture/2026/07/27/ai-ready-data-semantic-layer-knowledge-graph.html)
+  * [데이터에 맥락을 새겨 넣는 법 — AI Ready Data, Semantic Layer | aldente0630](https://www.linkedin.com/posts/aldente0630_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%A7%A5%EB%9D%BD%EC%9D%84-%EC%83%88%EA%B2%A8-%EB%84%A3%EB%8A%94-%EB%B2%95-ai-ready-data-semantic-share-7488726236085755904-dNsv/)
+  * Analytics-ready→ML-ready→AI-ready의 차이는 "맥락이 어디에 있는가"—분석가 머릿속·데이터 밖에 있던 맥락을 시맨틱 레이어·지식 그래프·온톨로지로 데이터 자체에 새겨 넣어야 AI가 이해할 수 있다는 데이터 아키텍처 관점
+* [Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley - YouTube](https://www.youtube.com/watch?v=Sir59K8ZDPU)
+  * AI Engineer. 확률적 에이전트가 저지르는 실수(같은 주문 이중 환불, 잘못된 수취인에게 지급, "아마 배송됨" 같은 모호한 상태)를 온톨로지로 방지—에이전틱 시스템에 온톨로지가 필요한 이유
+* [How Cerebras Built Its Enterprise Knowledge Base | Cerebras](https://www.cerebras.ai/blog/how-we-built-our-knowledge-base)
+  * [Cerebras on X](https://x.com/cerebras/status/2077822555159945507)
+  * [Cerebras 사내 지식 베이스 구축 전략: 기존 업무 환경을 유지하면서 AI 검색 시스템을 만든 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3429)
+  * Slack·코드 저장소·문서·커스텀 데이터 소스를 연결해 하나의 검색 경험으로 통합한 엔터프라이즈 AI 지식 베이스 구축 사례. 기존 업무 도구를 그대로 유지하면서 분산된 사내 지식을 통합 검색
 * 그래프DB 시리즈 | 아이티데일리
   * [1편 아리스토텔레스부터 네오포제이까지, 시대를 기다린 '지식의 망'](http://www.itdaily.kr/news/articleView.html?idxno=237741)
   * [2편 '앵커링'과 '트래버싱'으로 맥락 증명... 성패 가르는 '모델링'](http://www.itdaily.kr/news/articleView.html?idxno=237742)
