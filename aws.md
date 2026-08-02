@@ -1466,6 +1466,9 @@ AWS
 * [`오픈 소스` AWS EC2 docker #odevtube - YouTube](https://www.youtube.com/watch?v=oFYi_6lqKhk)
 * [🚀 AWS EC2를 활용한 개발 환경 구축부터 YouTube API 통합까지! (Full Stack Development Guide) - YouTube](https://www.youtube.com/watch?v=Zh8iT5kdmaY)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
+* [Shipyard: How We Built Slack's Next-Generation EC2 Platform | Engineering at Slack](https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/)
+  * [Shipyard: How We Built Slack's Next-Generation EC2 Platform | 김동현](https://www.linkedin.com/posts/kim-donghyun0916_shipyard-how-we-built-slacks-next-generation-share-7487656458289864704-4LUk/)
+  * Slack이 EC2 인스턴스 운영을 현대화한 여정. 단일 Chef 스택에서 버전 관리되는 다중 스택 구조로 전환한 이후 차세대 EC2 플랫폼 Shipyard 구축
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
@@ -2715,6 +2718,8 @@ AWS
 
 # Polly
 * [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/)
+* [PDF to Multilingual Audiobook: Building a Serverless AI Pipeline on AWS - DEV Community](https://dev.to/akashabish/pdf-to-multilingual-audio-building-a-serverless-ai-pipeline-on-aws-5gnp)
+  * PDF를 다국어 오디오북으로 자동 변환하는 서버리스·이벤트 기반 AI 파이프라인. Lambda·Polly 등 AWS 관리형 서비스 조합
 * [Amazon Polly를 통한 서버리스 동화 구연 앱 만들기 - 윤석찬 (AWS 테크에반젤리스트) - YouTube](https://www.youtube.com/watch?v=kohv8FIwlKM)
 * [파이썬으로 AI 음성합성하기 Amazon Polly](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0-Amazon-Polly)
 * [Amazon Polly용 롱폼 엔진 기반 신규 영어 음성 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-long-form-voices-for-amazon-polly/)
