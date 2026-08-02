@@ -3825,6 +3825,8 @@ Python
   * miniconda
     * [Stop Using Anaconda for Your Data Science Projects | by Rionaldi Chandraseta | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/stop-using-anaconda-for-your-data-science-projects-1fc29821c6f6)
     * [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu) - 멈춤보단 천천히라도](https://webnautes.blog/117/)
+    * [윈도우 Python 개발환경: Visual Studio Code + Miniconda + Claude Code 설치 가이드 | webnautes](https://webnautes.com/%EC%9C%88%EB%8F%84%EC%9A%B0-python-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-visual-studio-code-miniconda-claude-code-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+      * 윈도우에서 VS Code·Miniconda·Claude Code를 설치하고 Python 코드를 작성·실행하는 방법 가이드
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Anime2Sketch: A sketch extractor for anime/illustration](https://github.com/Mukosame/Anime2Sketch)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
