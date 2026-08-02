@@ -484,6 +484,8 @@ Politics
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
+* [검찰개혁, 만 10년의 여정 | Pilsung Kim](https://www.facebook.com/pilsung.kim.01/posts/pfbid0PJRUaJ4xcvwSezorXbfii5bYwoY8L5FXph7zdvsqr3BokmNhF5k1FSoFEo3sLHkvl)
+  * 2016년부터 시작해 형사소송법 개정까지 만 10년 걸린 검찰개혁 여정 회고. 국무회의 통과·후속조치가 남았지만 가장 중요한 분수령까지 올랐다는 소회
 
 # Germany
 * [굿바이, 메르켈... 주목하지 않은 그의 이야기 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002772210&SRS_CD=0000012215)
