@@ -681,6 +681,8 @@ Artificial Intelligence
   * 결국 개발자와 도메인 전문가가 함께 이터레이션을 돌며 기준을 잡아가는 과정이 필수적
 * [Linoy Cohen, Shirli Di Castro Shashua: Evaluating Your AI Agent (HE) | PyData Tel Aviv 2025 - YouTube](https://www.youtube.com/watch?v=YmDAcbz1YSs)
   * [AI 에이전트 평가: 효과적인 측정, 편향 극복 및 성능 개선 전략 | PyData Tel Aviv 2025](https://livewiki.com/ko/content/ai-agent-evaluation-2)
+* [AI 에이전트 평가, 결과만 보면 놓치는 이유: Trajectory Evaluation의 중요성 | digitalbourgeois](https://digitalbourgeois.tistory.com/3435)
+  * 자율형 AI 에이전트는 하나의 요청을 처리하며 추론·API 호출·검색·상태 갱신 등 여러 내부 단계를 거치므로, 최종 응답(Final Response)만 봐서는 품질·신뢰성을 평가할 수 없다. 보이지 않는 실행 경로 전체를 평가하는 Trajectory Evaluation의 필요성
 * [에이전틱AI 구조 패턴 - Assiworks Claude LangGraph CrewAI 등](https://aifactory.space/page/langchainkr/forum/discussion/4589)
 * [사용자의 목소리를 AI로 재현하다: LLM기반 Multi Agent UX플랫폼 개발기 - YouTube](https://www.youtube.com/watch?v=0i4NRU-GIvo)
   * [DAN25 | TEAM NAVER CONFERENCE](https://dan.naver.com/25/sessions/699)
