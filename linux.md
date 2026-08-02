@@ -1667,6 +1667,9 @@ Linux
 * [AdGuardian Terminal Edition](https://adguardian.as93.net/)
   * [AdGuardian-Term: Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance](https://github.com/lissy93/AdGuardian-Term)
   * AdGuard Home 인스턴스의 실시간 트래픽·차단 통계를 터미널에서 모니터링. Rust, MIT, 1.6k stars
+* [MyIP: The best IP Toolbox — IP address & geolocation, WebRTC/DNS leak test, IP quality check, browser fingerprint, speed/latency test, MTR, Whois](https://github.com/jason5ng32/MyIP)
+  * [IP Toolbox — ipcheck.ing](https://ipcheck.ing/)
+  * IP 주소·지오로케이션 확인, WebRTC/DNS 누출 테스트, IP 품질 검사, 브라우저 핑거프린트, 웹사이트 가용성·속도·글로벌 지연 테스트, MTR, Whois 등을 제공하는 IP 툴박스. JavaScript, MIT, 11k stars
 * [sonar: CLI tool to inspect and manage services listening on localhost ports](https://github.com/raskrebs/sonar)
 
 # Shell
