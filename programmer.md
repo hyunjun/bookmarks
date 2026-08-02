@@ -555,6 +555,9 @@ Programmer
 * [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/) 이직할 회사 선택 기준
 * [개발자 경험(Dex)이 주목받는 시대 | 요즘IT](https://yozm.wishket.com/magazine/detail/1436/) Developer Experience
 * [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
+* [The Religion of Speed – The Gospel According to Graybeard](https://graybeard.ing/the-religion-of-speed/)
+  * [속도의 종교 | GeekNews](https://news.hada.io/topic?id=32030)
+  * "빠르게 움직이기"가 실무적 필요를 넘어 진지함·야망의 증거이자 도덕적 위치가 되면서 신중한 검토가 추진력을 방해하는 태도로 취급되는 문화 비판. 진짜 속도는 업무·제약·의존성을 이해하고 명확히 결정한 뒤 실행할 때 나오는데, 많은 조직이 모호한 요구사항·미완의 결정을 속도로 포장—이해 단계를 서두르면 재작업으로 되돌아온다
 
 # Programmers
 * [도널드 커누스 - 튜링상 수상자 시리즈, 지식함지](https://knowledgebasin.com/archives/persons/%EB%8F%84%EB%84%90%EB%93%9C-%EC%BB%A4%EB%88%84%EC%8A%A4)
