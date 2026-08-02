@@ -11,6 +11,8 @@ Philosophy
 * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
 * [객관화의 환상과 제도 개혁](http://ppss.kr/archives/48544)
 * [한나 아렌트의 우정](http://ppss.kr/archives/48637)
+* [故 신상희 박사 (하이데거 연구자) 회고 | 심광섭](https://www.facebook.com/kalia.philo.7/posts/pfbid035L1YmPKpU38MUKouCbaKai3ZutYxDRrc76S4Uu5SKtAd1jcuZ7FdHujKeyvvhDFol)
+  * 독일 프라이부르크 대학에서 하이데거를 연구한 신상희 박사(1960~2010)와의 만남과 그를 추모하는 개인 회고
 * [The Limits of Language - Wittgenstein explains why we always misunderstand one another on the Internet](http://www.slate.com/articles/life/classes/2015/09/take_a_wittgenstein_class_he_explains_the_problems_of_translating_language.html)
 * [Walter Benjamin, the first pop philosopher](http://www.newstatesman.com/culture/books/2015/10/walter-benjamin-first-pop-philosopher)
 * [마이스터 에크하르트의 언어에 대하여](http://www.gosinga.net/archives/2134)
