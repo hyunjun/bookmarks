@@ -321,6 +321,8 @@ App
   * 안드로이드 리버스 엔지니어링 학습·리소스·도구 큐레이션. APK 분석, 디컴파일, 동적 분석, Frida 등. MIT, 2.6k stars
 * [awesome-cyber-ai-arsenal: A curated collection of offensive, defensive and AI/LLM security tools](https://github.com/pazo01/awesome-cyber-ai-arsenal)
   * 공격·방어·AI/LLM 보안 도구 큐레이션. MIT
+* [awesome-cyber-skills: A curated list of hacking environments where you can train your cyber skills legally and safely](https://github.com/joe-shenouda/awesome-cyber-skills)
+  * 합법적·안전하게 사이버 스킬을 훈련할 수 있는 해킹 환경(CTF·워게임·취약 앱·랩) 큐레이션. MIT, 4.5k stars
 * [awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis)
   * 악성코드 분석 도구·리소스 큐레이션. 14k stars
 * [awesome-osint-arsenal: Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer](https://github.com/rawfilejson/awesome-osint-arsenal)
