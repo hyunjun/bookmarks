@@ -305,12 +305,20 @@ App
 * [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
 * [“지갑도 지키고 개인정보도 지키는” 무료 보안 도구 4가지 - ITWorld Korea](https://www.itworld.co.kr/news/221799)
 * [How to hack a wifi-password - YouTube](https://www.youtube.com/watch?v=n4lx_aNRE3s)
+* [AgentHound: Red team framework for AI agent infrastructure](https://agenthound.io/)
+  * [adithyan-ak/AgentHound: Offensive security framework for AI agent infrastructure](https://github.com/adithyan-ak/AgentHound)
+  * AI 에이전트 인프라(MCP·A2A·게이트웨이·추론·벡터스토어)를 겨냥한 오픈소스 레드팀 프레임워크. 정찰·크리덴셜 탈취·모델 exfiltration·포이즈닝·공격경로 분석을 수행하고 모든 공격 경로를 Neo4j 그래프로 증명. "에이전틱 스택의 BloodHound". Go, Apache-2.0
+* [AI-ML Pentest Academy — NEURAL BREACH (AI/ML roadmap for pentesters)](https://anmolksachan.github.io/LLMPenTestHub/ai-ml-roadmap-for-pentester.html)
+  * [AI-ML-Free-Resources-for-Security-and-Prompt-Injection: AI/ML Pentesting Roadmap for Beginners](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)
+  * 초보자용 AI/ML 펜테스팅·프롬프트 인젝션 학습 로드맵과 무료 리소스 큐레이션. anmolksachan
 * aircrack-ng
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
   * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 * [Argus: The Ultimate Information Gathering Toolkit](https://github.com/jasonxtn/Argus)
   * OSINT·보안 평가용 정보 수집 플랫폼. 135개 모듈로 네트워크 분석, 웹 애플리케이션 스캔, 위협 인텔리전스 수집을 인터랙티브 CLI로 수행. Python 기반
+* [Awesome-Android-Reverse-Engineering: A curated list of awesome Android Reverse Engineering training, resources, and tools](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
+  * 안드로이드 리버스 엔지니어링 학습·리소스·도구 큐레이션. APK 분석, 디컴파일, 동적 분석, Frida 등. MIT, 2.6k stars
 * [awesome-cyber-ai-arsenal: A curated collection of offensive, defensive and AI/LLM security tools](https://github.com/pazo01/awesome-cyber-ai-arsenal)
   * 공격·방어·AI/LLM 보안 도구 큐레이션. MIT
 * [awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis)
@@ -326,6 +334,8 @@ App
 * [cariddi: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more](https://github.com/edoardottt/cariddi)
   * [edoardottt](https://edoardottt.com/)
   * 도메인 목록을 받아 URL을 크롤링하며 엔드포인트·시크릿·API 키·파일 확장자·토큰 등을 스캔하는 보안 크롤러. Go, GPL-3.0, 3.5k stars
+* [Claude-OSINT: Two paired Claude skills turning Claude into an external recon operator for authorized red-team and bug-bounty](https://github.com/elementalsouls/Claude-OSINT)
+  * 인증된 레드팀·버그바운티용 외부 정찰 Claude 스킬 2종. 90+ recon 모듈, 48 secret-regex, 80+ dork, 9 read-only 크리덴셜 검증기, 27 공격경로 템플릿, 5,500+ 줄 tradecraft. SKILL.md drop-in. Python
 * [dark-web-osint-tools: OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools)
   * 다크웹 OSINT 조사용 도구 큐레이션. Tor 히든 서비스 검색·크롤링, .onion 주소 수집·분석 도구 모음. 2.3k stars
 * [EMAIL-CRAWL: professional-grade OSINT tool for advanced email address extraction through web crawling](https://github.com/techenthusiast167/EMAIL-CRAWL)
@@ -340,6 +350,12 @@ App
   * 정찰·인프라 분석·보안 리서치용 오픈소스 OSINT 도구 20종 모음. 소셜 계정 검색, 이메일 유출 분석, WAF 탐지, 각종 플랫폼 인텔리전스 수집
 * [huntkit: penetration testing, bug bounty, CTF, red teaming tools in a single Docker image](https://github.com/mcnamee/huntkit)
   * VM 없이 일회용 보안 환경을 빠르게 띄우는 Docker 이미지. Nmap·Metasploit·SQLMap 등 40+ 펜테스트·정찰 도구와 워드리스트 번들
+* [iNTERCEPT - Signal Intelligence Platform](https://www.intercept-sigint.com/)
+  * [smittix/intercept: a free and open-source platform that unites the best signal intelligence tools into a single interface](https://github.com/smittix/intercept)
+  * SDR(소프트웨어 정의 라디오) 도구를 하나의 웹 인터페이스로 통합한 오픈소스 SIGINT 플랫폼. 페이저 디코딩, ADS-B 항공기 추적, WiFi 스캐닝 등. Python, Apache-2.0
+* [julius: Simple LLM service identification — translate IP:Port to Ollama, vLLM, LiteLLM, or 60+ other AI services in seconds](https://github.com/praetorian-inc/julius)
+  * [Introducing Julius: Open Source LLM Service Fingerprinting | Praetorian](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/)
+  * IP:Port를 Ollama·vLLM·LiteLLM 등 60+ AI 서비스로 몇 초 만에 식별하는 LLM 서비스 핑거프린팅 도구. 인터넷에 노출된 취약한 Ollama 서버 등 무단 접근 위험 노출. Go, Apache-2.0
 * [KittySploit — Open security framework, professional reports](https://kittysploit.com/)
   * [Kittysploit-framework: Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator](https://github.com/SIA-IOTechnology/Kittysploit-framework)
   * 오픈소스 보안 프레임워크. Python 익스플로잇 프레임워크, V8 엔진 디버거, 프록시 인터셉터, 마켓플레이스, post-exploitation, 백도어 생성기. 증거를 클라이언트 리포트로 변환하는 KittySploit Reports(E2E 암호화). Python, MIT
@@ -348,12 +364,16 @@ App
 * [naabu: A fast port scanner written in go with a focus on reliability and simplicity](https://github.com/projectdiscovery/naabu)
   * [ProjectDiscovery](https://projectdiscovery.io/)
   * 신뢰성·단순함에 집중한 Go 기반 고속 포트 스캐너. 버그바운티·펜테스트의 공격면 발견에 다른 도구와 조합 사용. MIT, 6.1k stars
+* [nox-framework: High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources](https://github.com/nox-project/nox-framework)
+  * 120+ 소스에서 자동 신원 피버팅·위험 분석을 수행하는 고성능 OSINT/CTI 프레임워크. Python
 * [OWASP Nettacker — Automated Penetration Testing Framework](https://owasp.org/www-project-nettacker/)
   * [Nettacker: Automated Penetration Testing Framework - Open-Source Vulnerability Scanner](https://github.com/OWASP/Nettacker)
   * OWASP의 자동화 침투 테스트·취약점 스캐닝 프레임워크. 정보 수집·서비스/포트 스캔·취약점 관리, 모듈형 아키텍처. Python, 5.3k stars
 * [PatchaPalooza — analysis of Microsoft's monthly security updates](https://patchapalooza.com/)
   * [PatchaPalooza: comprehensive analysis of Microsoft's monthly security updates](https://github.com/xaitax/PatchaPalooza)
   * 마이크로소프트 월간 보안 업데이트(Patch Tuesday)를 분석·시각화하는 도구. CVE 심각도·악용 여부·유형별 통계와 추세를 제공. Python
+* [PwnPad: affordable, hands-on hardware hacking platform for practical learning](https://github.com/twelvesec/PwnPad)
+  * 저렴한 실습형 하드웨어 해킹 학습 플랫폼. PCB 설계부터 사이드채널 공격까지 핵심 하드웨어 보안 개념을 단계별 챌린지로 학습. C++, GPL-3.0, 1.1k stars
 * [RustScan: The Modern Port Scanner](https://github.com/bee-san/RustScan)
   * 모든 65,535 포트를 몇 초 만에 스캔하고 발견한 열린 포트를 Nmap으로 자동 전달하는 초고속 포트 스캐너. 스크립팅 엔진(Python/Lua/Shell), 어댑티브 러닝, IPv6·CIDR 지원. Rust, 20k stars
 * [SearchPhone: OSINT toolkit for researching phone numbers | HackUnderway](https://github.com/HackUnderway/SearchPhone)
@@ -365,6 +385,8 @@ App
   * 다크웹(.onion) OSINT 도구. Tor 네트워크 크롤링·링크 수집·이메일/전화번호 추출·인텔리전스 분석. Python, 4.4k stars
 * [voidaccess: Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps](https://github.com/KatrielMoses/voidaccess)
   * 셀프호스팅 다크웹 OSINT 플랫폼. 쿼리→그래프까지 13단계 자동 위협 인텔리전스. Recorded Future·DarkOwl·Flare의 무료 대안. Python, MIT
+* [WebHackersWeapons: A collection of cool tools used by Web hackers. Happy hacking, Happy bug-hunting](https://github.com/hahwul/WebHackersWeapons)
+  * 웹 해킹·버그바운티 도구 큐레이션 리스트. 카테고리별(Recon/Scanner/Fuzzing/Exploitation/XSS/SQLi 등) 분류. hahwul, MIT, 5k stars
 * [WireTapper: wireless OSINT tool — passively map Wi-Fi, Bluetooth, CCTV, vehicles, IoT, cell towers](https://github.com/h9zdev/WireTapper)
   * 주변 무선 신호를 수동 탐지·매핑하는 무선 OSINT 도구. Wi-Fi·블루투스·CCTV 카메라·차량·헤드폰·TV·IoT 기기·기지국을 감지해 상황 인텔리전스로 시각화. 1.5k stars
 * [yesitsme: Simple OSINT script to find Instagram profiles by name and e-mail/phone](https://github.com/0x0be/yesitsme)
@@ -2943,6 +2965,7 @@ App
   * [obsidian-file-link: A plugin for the note taking app Obsidian to add better external file links to your notes](https://github.com/marcjulianschwarz/obsidian-file-link)
     * [영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시 - YouTube](https://www.youtube.com/watch?v=sFGFCTGxscI)
   * [obsidian-mind: Obsidian vault template for persistent AI memory with Claude Code](https://github.com/breferrari/obsidian-mind)
+    * [AI 에이전트에 무한 메모리 추가하는 Obsidian Mind | soulai](https://www.linkedin.com/posts/soulai_obsidianmind-claudecode-codexcli-share-7487525081812713472-Q6SW/)
     * Claude Code와 함께 사용하는 Obsidian vault 템플릿. 자동 노트 정리, 컨텍스트 연결, 성과 추적으로 세션 간 영속적 메모리
   * [Obsidian-RAG: 벡터DB 없는 RAG — Obsidian + Claude Code 개인 지식 관리](https://github.com/daje0601/Obsidian-RAG)
     * [벡터DB 없는 RAG를 만들어봤습니다 — Obsidian + Claude Code | WikiDocs](https://wikidocs.net/289873)
