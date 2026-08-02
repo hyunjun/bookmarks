@@ -187,6 +187,8 @@ Monitoring
 * Grafana k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
   * [Deployment-time testing with Grafana k6 and Flagger | Grafana Labs](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
     * 성능 테스트 도구인 Grafana k6와 Kubernetes의 블루/그린, 카나리 배포를 지원하는 [Flagger](https://flagger.app/)를 조합해서 카나리 배포에서 트래픽을 받기 전에 k6로 성능 테스트하는 방법
+* [Grafana Mimir에 Kafka를 도입하기 전 미리 알았다면 | 채널톡 기술 블로그](https://tech.channel.io/kr/articles/tech-grafana-mimir-kafka-c2580480)
+  * Grafana Mimir에 Kafka를 도입하며 겪은 운영 포인트. partition 1대1 결합 등 Mimir Kafka 운영 시 미리 알았으면 좋았을 것들
 * [Grafana Scenes | Grafana Scenes](https://grafana.github.io/scenes/)
   * [Grafana Scenes is generally available: start building highly interactive apps today | Grafana Labs](https://grafana.com/blog/2023/09/12/grafana-scenes-is-generally-available-start-building-highly-interactive-apps-today/)
     * Grafana를 확장할 수 있는 프론트엔드 라이브러리, Grafana Scenes가 정식 출시
