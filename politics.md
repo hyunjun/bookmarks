@@ -40,6 +40,8 @@ Politics
   * 모로코인 5~6만 명이 바다를 헤엄쳐 스페인령 셉타(세우타)로 향한 사건을 단순 불법이민이 아니라 100년간 쌓인 모로코 현대사의 모순이 폭발한 것으로 분석
 * [Hae-Young Lee - 트럼프/네타냐후 연합의 스페인 '공격'? | Facebook](https://www.facebook.com/hae.young.lee.248977/posts/pfbid0YJZFCV6YzWPEcooKRzsAdEN7ohkSBxRJ83x8x88p75NATvnnQuzqPKfmM67X832Ul)
   * 약 5만 명의 모로코 청소년·청년이 트럭에 실려 국경에 '살포'되고 모로코쪽 철문이 열려 스페인 월경지 세우타로 몰려든 사태. 과잉실업 배경과 지정학적 함의 분석
+* [Dongsuk Kim - 실패한 비밀작전: 2019년 미 네이비씰의 대북 도청장치 설치 작전 | Facebook](https://www.facebook.com/dongsuk.kim.790/posts/pfbid0WHGL4pWbvecZqMvUXUuDeFQU9HTW1HtrnVF23QWiwovuMrgT1r5N1xgYYN5JGcFDl)
+  * 2019년 초 미 네이비씰(빈 라덴 작전 부대)이 김정은 통신 감청장치를 북한 해안에 설치하려다 통신 두절 상태에서 조개 채취 민간인을 경비정으로 오인·사살, 임무 실패. 하노이 정상회담 전후 외교(트럼프-김정은 신뢰)와 비밀 침투작전의 모순, 의회 미보고, 6년 은폐 후 NYT 탐사보도(24명 교차 인터뷰), FBI의 매튜 콜 기자 취재원 추적—국가안보·알 권리·취재원 보호의 충돌. NYT 2025-09-05 보도 기반
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
