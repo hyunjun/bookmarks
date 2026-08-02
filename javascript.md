@@ -2331,6 +2331,8 @@ Javascript
 * [es-toolkit](https://es-toolkit.slash.page/ko/)
   * [es-toolkit: A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash](https://github.com/toss/es-toolkit)
   * [es-toolkit: 2-3배 빠르고, 97% 작은 lodash 대체 라이브러리 | GeekNews](https://news.hada.io/topic?id=15319)
+  * [거인을 쓰러트리고 있는 토스 | antoliny0919](https://velog.io/@antoliny0919/%EA%B1%B0%EC%9D%B8%EC%9D%84-%EC%93%B0%EB%9F%AC%ED%8A%B8%EB%A6%AC%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%86%A0%EC%8A%A4)
+    * 토스가 Lodash라는 거인에 es-toolkit으로 도전장을 낸 이야기—무엇이 이 도전을 가능하게 했는가
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
