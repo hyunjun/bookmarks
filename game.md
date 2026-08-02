@@ -131,6 +131,9 @@ Game
 * [Messenger](https://messenger.abeto.co/)
   * [작은 행성에서 메시지를 전달하는 WebGL 게임 | GeekNews](https://news.hada.io/topic?id=23315)
 * [micropolisJS - 오리지널 심시티 클론 | GeekNews](https://news.hada.io/topic?id=6105)
+* [Plateau — Turn novels into playable games](https://plateau.vibecoco.ai/)
+  * [novel-to-game: Agent Skills that turn novels into source-grounded, fully playable games for Claude Code, Codex, and Kimi Code(K3)](https://github.com/worldwonderer/novel-to-game)
+  * 소설을 원작에 충실한(source-grounded) 플레이 가능한 게임으로 변환하는 Claude Code·Codex·Kimi Code(K3)용 Agent Skills. MIT
 * [Openfoot Manager — Free and open source football manager game](https://openfootmanager.com/)
   * [openfootmanager](https://github.com/openfootmanager/openfootmanager)
   * Football Manager 영감의 오픈소스 축구 매니저 게임. Rust 매치 시뮬레이션 엔진 + React/TypeScript/TailwindCSS 프론트엔드 + Tauri 데스크톱 앱 + SQLite. GPLv3
