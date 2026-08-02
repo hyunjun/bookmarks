@@ -36,6 +36,10 @@ Politics
   * 한국 좌파 운동이 1917-1936 유럽 혁명 언어와 스탈린-트로츠키 파벌주의를 논리적 정당성 없이 반복. 국제주의(윤리적 연대)와 세계혁명(전략적 필연)을 동일시해 불화. 소련 붕괴 이후 두 계보 모두 현대적 연관성 상실, 중동구 중심 편협한 참조 대신 아시아/아프리카/아메리카 확장 필요
 * [Polis](https://pol.is/home2)
   * [대규모 시민 숙의를 위한 오픈소스 플랫폼, Polis | GeekNews](https://news.hada.io/topic?id=26667)
+* [Byung Jun Moon - 왜 모로코인들은 스페인령 셉타로 향했나 — 100년의 역사가 만든 2026년 셉타 대규모 월경 사태 | Facebook](https://www.facebook.com/seungki0707/posts/pfbid02EhYstXBQEWDgmgxwoCAUAyYxg3xfFdsFsmb39KT2DSH1D5vSBCGG1LC6PNPNq4Rcl)
+  * 모로코인 5~6만 명이 바다를 헤엄쳐 스페인령 셉타(세우타)로 향한 사건을 단순 불법이민이 아니라 100년간 쌓인 모로코 현대사의 모순이 폭발한 것으로 분석
+* [Hae-Young Lee - 트럼프/네타냐후 연합의 스페인 '공격'? | Facebook](https://www.facebook.com/hae.young.lee.248977/posts/pfbid0YJZFCV6YzWPEcooKRzsAdEN7ohkSBxRJ83x8x88p75NATvnnQuzqPKfmM67X832Ul)
+  * 약 5만 명의 모로코 청소년·청년이 트럭에 실려 국경에 '살포'되고 모로코쪽 철문이 열려 스페인 월경지 세우타로 몰려든 사태. 과잉실업 배경과 지정학적 함의 분석
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
@@ -383,6 +387,8 @@ Politics
     * 부동산 세금 4유형(보유세·거래세 고저 조합)—미국=보유세高·거래세低, 북유럽 복지국가는 둘 다 低. 보유세가 조세 저항 가장 심한 이유는 현금·소득 흐름과 무관(자동차세 내려고 자동차 파는 격). 캘리포니아는 취득가액 기준 보유세인데 한국은 시가 변동에 세율·공시가격·공정시장가액 비율까지 동시 인상해 조세저항 극대화. 보유세는 적정 수준에서 걷어야
   * [남기업 - 김용범 정책실장에게 드리는 부동산 세제 개혁 제안 | Facebook](https://www.facebook.com/namgi.up/posts/pfbid0j4Zr1bLwo6zMxLjZBpfpp1VK8aujSJexP3Bdc5NUqujzPTGPaEnmjWMZbKHzqrphl)
     * 투기 차단을 위한 보유세 강화 3제안—①초고가만 겨냥하지 않는 전체 부동산 보유세 강화(10년 점진 시행), ②다주택자 과세를 주택 수 기준에서 합산 가액 기준으로 전환, ③비주거용은 토지·건물 분리해 토지분 강화·건물분 인하. 다주택자 양도세 일반세율 전환, 1주택 실거주 보호는 보유세 아닌 양도세로, 공공임대 확대로 전세→월세 전환 유도. 2003~2008년 미온적 시행이 투기 재개를 불렀다는 교훈
+  * [이상민 - '아친남'은 존재하지 않는다 (OECD 부동산 세금 통계 오독 비판) | Facebook](https://www.facebook.com/sangmin.rhie.7/posts/pfbid02p4KJDkRbPdnpGA2xTUKm9gXjvJAnJeB1497JkttjBwampu8dCfmAYMiVMtqRLGaEl)
+    * 여러 나라의 장점만 짜깁기한 '아친남'(가공 인물)처럼 OECD 통계를 오독하면 안 된다는 반박. 최병천 위원의 "높은 보유세·낮은 거래세는 국제표준 아님" 주장 비판—높은 보유세·낮은 거래세는 조세학계 오랜 컨센서스이고, 독일·북유럽의 낮은 부동산세는 임대료 규제·높은 소비세 등 제도 패키지의 산물. OECD 재산세제(4000)엔 상속세·자본거래세 포함이라 착시. 양도세는 거래세가 아닌 소득세(1000번), 취득가 기준 보유세는 조세중립성 위배
 * 북한
   * 다시 생각하는 북한
     * [3대 세습의 유산](http://www.huffingtonpost.kr/seokhyun-hong-kr/story_b_6814362.html)
