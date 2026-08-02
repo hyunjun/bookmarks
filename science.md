@@ -253,6 +253,8 @@ Science
   * [거대한 세상의 이야기](http://www.huffingtonpost.kr/jongwoo-won/story_b_6774012.html)
   * [작은 세상은 거대하다](http://www.huffingtonpost.kr/jongwoo-won/story_b_6945208.html)
 * [별은 노래한다](http://techholic.co.kr/archives/31601)
+* [위성 안테나 크기와 스마트폰 직접 통신의 물리 | Gunn Kim](https://www.facebook.com/gunn.kim.79/posts/pfbid02Zhoo6p5cRtz3EFKxeAaczzyBPj3Cbn7WKa66fRtADQSfQPQYcpi842pCFyS5huEwl)
+  * 일반 통신위성 안테나는 지름 2~3m지만, 스마트폰처럼 출력 낮은 기기 신호를 우주에서 직접 수신하려면 수신 면적(안테나)이 훨씬 커져야 함. 하지만 크게 만들면 위성 질량이 늘어 발사가 어려워지는 트레이드오프 설명
 * 암흑물질
   * [2년 만에…암흑물질 해명 나선 LHC](http://techholic.co.kr/archives/31719)
   * [암흑물질의 상세한 지도가 최초로 공개됐다](http://www.huffingtonpost.kr/2015/04/23/story_n_7123840.html)
