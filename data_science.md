@@ -91,6 +91,9 @@ Data Science
 * [FMS(Fleet Management System) 주행이벤트 파이프라인 개선기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2024/06/11/fms-trip-event-pipeline.html)
 * [Data Pipelines Overview](https://www.linkedin.com/feed/update/urn:li:activity:7153537923546533888/)
 * [AI가 지켜보는 데이터 파이프라인: 노이즈 제거부터 장애 대응까지](https://d2.naver.com/helloworld/5251464)
+* [2603.27775 Enzyme: Incremental View Maintenance for Data Engineering](https://arxiv.org/abs/2603.27775)
+  * [데이터 파이프라인은 매번 처음부터 다시 계산해야 할까요? | Hyunsoo Ryan Lee](https://www.linkedin.com/posts/hyunsoo-ryan-lee_%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%80-%EB%A7%A4%EB%B2%88-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EA%B3%84%EC%82%B0%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-share-7487047625121308672-wnPA/)
+  * Databricks의 Enzyme 엔진. 전체 재계산 대신 Materialized View와 증분 뷰 관리(IVM, Incremental View Maintenance)로 "바뀐 만큼만 정확히 반영". 대규모 데이터 플랫폼의 재계산 비용·지연 문제 해결
 * [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
