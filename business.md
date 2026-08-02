@@ -505,6 +505,8 @@ Business
 * [GTM 전략의 이해](https://bcho.tistory.com/1438) Go-to-Market
 * [Going to market when no market exists - by Martin Casado](https://www.a16z.news/p/going-to-market-when-no-market-exists)
   * [시장이 존재하지 않을 때 시장에 진입하는 방법 | GeekNews](https://news.hada.io/topic?id=24748) GTM Go-To-Market
+* [기업의 진화를 위한 '진정한' 배포에 대한 정의 | graypool](https://brunch.co.kr/@graypool/2778)
+  * a16z 기사 기반. 하드웨어 스타트업이 반드시 채용해야 할 배포(distribution) 전략이 왜 스타트업의 핵심 요소인지—디지털 전환 관점에서 배포의 의미 재정의
 * [Tools over process](https://www.canda.blog/tools-over-process/)
   * SaaS를 도입한다는 것은 도구 그 자체보다도 잘 정립된 프로세스를 도입한다는 것과 같고, 그 관점에서는 SaaS는 마치 컨설팅 회사와 같은 역할을 한다
 * [절차를 밟아라 #일의편린 | 여현준](https://www.linkedin.com/posts/yeosolutions_suestuucqrei-activity-7383637666581512192-qsr-) process
