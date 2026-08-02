@@ -298,6 +298,12 @@ History
   * 1376년 회암사 문수회 사건. 회암사 262칸 중창 낙성 법회가 최영 등 유학자 반대로 강제 해산, 나옹은 영원사로 이배되던 중 여주 신륵사에서 입적. 지공→나옹→무학→함허→신미→김시습으로 이어지는 법맥 추적
 * [고려불교를 멸망으로 이끈 두가지 이유 | 석현장](https://www.facebook.com/hyunjang0/posts/pfbid02LZbuE7CwmL1KVBSdapNiuJvQ1fhfJMVp42s5pHTDC65C1xDpfr87zUMDrcs3B2Cvl)
   * 1) 1298년 충선왕·계국대장공주가 원나라 티베트 라마승 19명(팔합사 등)에게 삼매야계 직접 수계—성리학자들이 "국가 기강 흔든다"며 조선 배불정책의 명분으로 활용. 2) 사찰의 면세 토지·노비 독점 재정 위협—정도전 『불씨잡변』 사상 공격, 과전법(1391)·도첩제·태종-세종 사찰 통폐합으로 수천→수십 개 축소. 환속 승려는 군인·공노비·남사당패로 추락, 산중 암자 은둔이 한국 사찰의 산중 위치 계기
+* [해방후 남한의 종교 판세가 기독교중심으로 기울어진 까닭은 무엇일까? | 석현장](https://www.facebook.com/hyunjang0/posts/pfbid02WFdBYrNX3tdvG3PnMu383R5UrX2m5hFZj7yB3osC9bS6cVrhqTjip2b6gcdiMyZWl)
+  * 해방 직후 미군정기·이승만 정부 초기의 일본인 소유 재산(적산) 불하가 개신교 성장의 결정적 물질 토대가 됨. 교회사 연구자 조사에 따르면 종교단체 불하 적산 부동산의 약 80%가 개신교로
+* [영락교회와 경동교회, 그리고 성남교회의 공통점은 무엇일까? | 석현장](https://www.facebook.com/hyunjang0/posts/pfbid0X5TbFcCsGRdR7rDsgWK13hwvuZDYqcwgc5jngtbzqXZ1jJ8W7jGpiZpmtEYHaq5ul)
+  * 세 교회 모두 일본인이 세운 천리교 성전을 적산으로 불하받아 교회로 개조한 사례. 해방 전 남한 경제의 85%가 일본인 소유 자산, 해방 후 서울 교회 약 30개. 적산불하와 초기 개신교 확산의 구체 사례
+* [무소유의 삶을 살다간 석가는 어쩌다가 한국에 와서 부동산재벌이 되었나? | 석현장](https://www.facebook.com/hyunjang0/posts/pfbid0stn2A6oNPmFCv5HYSuGLBH3Un1fpqtR9MEB5DDsCmgjE58GYF8XhqzGC4LNiJUjCl)
+  * 일제때 조선총독부가 사찰 관리 임야의 소유권을 사찰에 인정·이관한 정책. 불교계 혜택보다 조선 산림 자원 파악·통제 기반 확보와 불교계를 식민 지배 체제에 포섭하려는 행정·정치 목적이 컸음
 
 ## 고구려
 * [을지문덕은 왜 사라졌을까... 실종 전 행적 따져보니 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002665504)
