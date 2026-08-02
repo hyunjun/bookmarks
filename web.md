@@ -650,6 +650,9 @@ Web
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
 * [camofox-browser: Anti-detection browser server for AI agents](https://github.com/jo-inc/camofox-browser)
   * Camoufox 기반 AI 에이전트용 안티탐지 브라우저 서버. C++ 레벨 Firefox 패칭으로 Google/Cloudflare 우회, 안정적 엘리먼트 참조, 접근성 스냅샷(HTML 대비 90% 토큰 절감), 세션 격리, 프록시 자동 로케일/타임존 매칭. Docker/Fly.io/Railway 배포
+* [ego lite — The fastest browser for AI agents](https://lite.ego.app/)
+  * [ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents](https://github.com/citrolabs/ego-lite)
+  * Codex·Claude Code 등 AI 에이전트에 로그인된 브라우저 상태를 방해 없이 공유해 브라우저 자동화를 실행. 무료·무설정. JavaScript, MIT, 7.5k stars
 * [fingerprint-suite: Browser fingerprinting tools for anonymizing your scrapers](https://github.com/apify/fingerprint-suite)
   * Apify의 브라우저 핑거프린팅 도구. header-generator(현실적 HTTP 헤더), fingerprint-generator(JS API+HTTP 영향 지문), fingerprint-injector(Playwright/Puppeteer 주입), generative-bayesian-network(베이지안 생성 네트워크). 모듈러 npm 패키지
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
