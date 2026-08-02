@@ -139,6 +139,8 @@ History
   * WSJ 중국지부장 조나단 쳉의 신간 소개. 김일성 개인숭배·북한 우상숭배의 기독교적 뿌리 분석. 반공 성향 개신교가 이 기사를 조용히 숨기는 정황에 대한 코멘트
 * [Hyung Keun Cho - 무안공항 참사, 감사 보고서로 본 구조적 문제 | Facebook](https://www.facebook.com/hyungkeun.cho.12/posts/pfbid025xKu4KHzFvZfiCjBar6djgjem5zAamaGNdnN1UD2ZvmjB7dxQoGNuaxZaiYWe2aPl)
   * 무안공항 로컬라이저 기초가 ICAO 기준 위반. 규정상 7.6cm 이하·파괴 가능 자재여야 하나 1.73-2.46m 콘크리트 둔덕. 지방공항 예산 절감으로 경사면 안전구역 조성, 8개 공항 14개 로컬라이저가 기준 미달인 채 연례 검사 통과. 한국 감독관 14대 담당(미·프 2대 대비)
+* [지승룡 - 대한민국 수도를 '서울'이라고 결정한 분은 누구일까? | Facebook](https://www.facebook.com/mintocafe/posts/pfbid02ZCDFo8BngSW7f8Xc4FpLRPwnMYCdKrrsrwBN5F3vqC4wVA7sR2w8okJojq3nwfurl)
+  * '서울'이라는 수도 이름을 정한 인물은 초대 서울시장 김형민(1907년 전북 익산 출생). 1946년 9월 28일 한성부윤 책임자가 되어 한글 이름 '서울시'로 개칭. 한글이라 반대가 많았으나 수도 이름은 쉽게 불려야 한다는 소신을 지킴. 1948년 12월까지 재임
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
