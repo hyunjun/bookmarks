@@ -164,6 +164,9 @@ House
 * ["부동산 어려운 분들은 반드시 봐야 할 영상" 현장에서 활용할 수 있는 꿀팁 공개합니다. 이대로만 따라하세요! 너나위와 함께 보는 부동산 현장 - YouTube](https://www.youtube.com/watch?v=2pGPd9Y2Ork)
 * [김원장 - 이제 10년 15년 지난 아파트는 정말 조심해야 합니다 | Facebook](https://www.facebook.com/gim.wonjang.67273/posts/3379950809060532/)
   * 재건축 분담금이 커지면서 10-15년 지난 아파트의 재건축이 구조적으로 불가능해지는 상황. 지방·수도권은 절반 이상, 서울도 상당수 아파트가 재건축 불가 → 아파트가 소비재가 되는 흐름
+* [The coolest use for the Vision Pro | Christian Selig](https://christianselig.com/2026/07/vision-pro-house/)
+  * [Vision Pro로 완공 전 집을 실물 크기로 둘러보기 | GeekNews](https://news.hada.io/topic?id=31968)
+  * 집 짓기 전 평면도를 실물 크기 몰입형 3D 공간으로 바꿔 방·복도 크기, 동선, 현관에서 보이는 풍경을 체감하며 설계 검토. Fusion 360에서 바닥·벽·천장·재질·가구 배치 후 USDZ 내보내 Vision Pro에서 탐색
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
@@ -171,6 +174,9 @@ House
 * [주택금융지수 | 주택금융통계시스템 HOUSTAT (HOUSING FINANCE STATISTICS SYSTEM)](https://www.hf.go.kr/research/portal/theme/indexStatPage.do#none)
 * [micasa — your house, in a terminal](https://micasa.dev/)
   * [Micasa: 터미널에서 주택 유지보수를 통합 관리하는 오픈소스 도구](https://digitalbourgeois.tistory.com/2806)
+* [Pascal — Create and share 3D architectural projects](https://editor.pascal.app/)
+  * [editor: Create and share 3D architectural projects](https://github.com/pascalorg/editor)
+  * 3D 건축 프로젝트를 만들고 공유하는 웹 에디터. TypeScript, MIT, 20k stars
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
   * 부동산 실거래 데이터 조회 수집 파이썬 라이브러리
   * 국토교통부 제공 각종 부동산 실거래 데이터 관련 오픈 API 서비스들을 하나로 통합
