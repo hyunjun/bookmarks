@@ -1072,6 +1072,10 @@ Docker
 * [**Kubernetes**](https://k8s.wlstmd.com/)
 * [쿠버네티스(Kubernetes)](https://www.nextree.io/kubeonetiseu-kubernetes/)
 * [**CloudNet@ Blog**](https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
+* [인프라 구성 배포 with 클로드 코드 책 기반 모각코 회고 | gasida](https://www.linkedin.com/posts/gasida99_%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%84%B1-%EB%B0%B0%ED%8F%AC-with-%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%B1%85-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-7%EC%9B%94-%ED%95%9C%EB%8B%AC-%EA%B8%B0%EA%B0%844%EC%A3%BC-ugcPost-7487370316961423360-rmaT/)
+  * '인프라 구성 배포 with 클로드 코드' 책 기반 7월 4주 모각코 회고. 책은 AI로 K8s 구축 기술보다 AI를 DevOps 팀 운영에 적용·진화시키는 내용. 1~8장 K8s 플랫폼 누적 구축→9장 운영 업무에 AI 활용 연결
+* [Enterprise Kubernetes Design Patterns: A Complete Practical Guide | Tech Twitter](https://www.cloudtechtwitter.com/2026/07/enterprise-kubernetes-design-patterns.html)
+  * 엔터프라이즈 쿠버네티스 디자인 패턴 실전 가이드
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Getting Started With Kubernetes In 2 Days - DZone Cloud](https://dzone.com/articles/getting-started-with-kubernetes-in-2-days)
@@ -2545,6 +2549,10 @@ Docker
 * [kubekey: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳](https://github.com/kubesphere/kubekey)
   * [Quickly Install a Kubernetes Cluster with KubeKey – The New Stack](https://thenewstack.io/quickly-install-a-kubernetes-cluster-with-kubekey)
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+* [kubemetal: Apple Silicon hybrid MLOps desktop app — K8s control plane (Colima/K3s) + macOS host MLX compute](https://github.com/dasomel/kubemetal)
+  * [KubeMetal 아키텍처 | dasomel](https://cne.io.kr/ko/docs/kubemetal-architecture/)
+  * [KubeMetal — Apple Silicon Mac 하이브리드 MLOps 데스크톱 앱 | 이기하](https://www.linkedin.com/posts/%EA%B8%B0%ED%95%98-%EC%9D%B4-ba909924_kubernetes-mlops-applesilicon-share-7488571016932118528-bKFK/)
+  * Apple Silicon Metal GPU가 리눅스 VM에 패스스루되지 않는 제약을 해결. 제어면(MLflow·SeaweedFS·Prefect)은 K8s(Colima/K3s) Pod에서, MLX 연산은 macOS 호스트에서 실행하는 하이브리드 구조. Tauri v2(Rust)+React, Apache-2.0
 * [kube-no-trouble: Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)
 * [kube-prometheus: Use Prometheus to monitor Kubernetes and applications running on Kubernetes](https://github.com/prometheus-operator/kube-prometheus)
   * [Introduction | kube-prometheus runbooks](https://runbooks.prometheus-operator.dev/)
@@ -3146,6 +3154,7 @@ Docker
 * [Omnibus – Dependency Isolation Without Docker](https://blog.barricade.io/omnibus-dependency-isolation-without-docker/)
 * [Openship - Open Source, Self-Hostable Deployment Platform](https://openship.io/)
   * [openship: Self-hosted deployment platform](https://github.com/oblien/openship)
+  * [Openship란? 오픈소스 셀프 호스팅 CI/CD 배포 플랫폼의 특징과 동작 방식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3445)
   * 셀프호스팅 AI 기반 배포 플랫폼. 무료 SSL, 무제한 도메인, 즉시 롤백, CLI/MCP 지원. TypeScript, Apache-2.0, 8.5k stars
 * [Packer](https://www.packer.io/)
   * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
