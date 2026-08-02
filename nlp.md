@@ -281,6 +281,8 @@ NLP
 * [Transformer:언어 이해를 위한 새 신경망 구조](https://brunch.co.kr/@synabreu/94)
 * [How-to Build a Transformer for Language Classification in TensorFlow](https://morioh.com/p/549c05d48f8e)
 * [NLP 논문 구현 pytorch로 구현하는 Transformer (Attention is All You Need) – Hansu Kim](https://cpm0722.github.io/pytorch-implementation/transformer)
+* [The Transformers | Vizuara AI Labs](https://www.vizuaranewsletter.com/p/the-transformers)
+  * Transformer 아키텍처의 완전한 구조 분석과 BERT를 밑바닥부터 코딩하는 단계별 가이드. Mayank Pratap Singh
 * [트랜스포머 transformer positional encoding](https://www.blossominkyung.com/deeplearning/transfomer-positional-encoding)
 * [tta: Transformer-based Text Auto-encoder (T-TA) using TensorFlow 2](https://github.com/jeongukjae/tta)
 * [Transformers Explained Visually (Part 1): Overview of Functionality | by Ketan Doshi | Towards Data Science](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
@@ -475,6 +477,8 @@ NLP
 * [Understanding KV Caching in Transformers | by Minhajul Hoque | Medium](https://medium.com/@minh.hoque/understanding-kv-caching-in-transformers-729271c9b74a)
   * [How KV caching boosts LLM performance | Harshada Jivane posted on the topic | LinkedIn](https://www.linkedin.com/posts/harshadajivane_understanding-kv-caching-in-transformers-activity-7385951225428713472-e4HH)
 * [왜 모델은 첫 문장을 내뱉기 전에 잠시 멈춰 있는 것일까?  | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_llm-sluslqriwqzc-ai-ugcPost-7404997839216369664-jRk-) TTFT(Time to First Token) KV Caching
+* [Why KV caching changes LLM inference | Mayank Pratap Singh](https://www.linkedin.com/posts/mayankpratapsingh022_why-KV-caching-changes-llm-inference-share-7487591411450527744-ZVdH/)
+  * KV 캐싱이 LLM 추론을 어떻게 바꾸는지 설명하는 포스트
 * [TurboQuant: Redefining AI Efficiency with Extreme Compression | Google Research](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
   * [KV 캐시를 이렇게까지 압축해도 성능이 유지된다면? TurboQuant 초압축 AI 기술 핵심](https://digitalbourgeois.tistory.com/2924)
   * [어텐션 방식의 또한번의 도약: 트랜스포머의 메모리 장벽을 넘는 세 번째 기술적 돌파구 | Sungjin Kim, Ph.D.](https://www.linkedin.com/pulse/%EC%96%B4%ED%85%90%EC%85%98-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%98%90%ED%95%9C%EB%B2%88%EC%9D%98-%EB%8F%84%EC%95%BD-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9E%A5%EB%B2%BD%EC%9D%84-%EB%84%98%EB%8A%94-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%8C%ED%8C%8C%EA%B5%AC-sungjin-kim-ph-d--2ranc/)
@@ -1228,6 +1232,9 @@ NLP
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
 * [llm-agent: It shows how to deploy and use an agent with LLM](https://github.com/kyopark2014/llm-agent)
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
+* [LocalAI · Make AI run on every machine](https://localai.io/)
+  * [mudler/LocalAI: the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required](https://github.com/mudler/LocalAI)
+  * OpenAI 호환 API를 제공하는 오픈소스 로컬 AI 엔진. LLM·비전·음성·이미지·비디오 모델을 GPU 없이 소비자 하드웨어에서 실행. Go, MIT
 * [www.luis.ai](https://www.luis.ai)
 * [Mantium](https://mantiumai.com/)
   * [Better decision making with always up-to-date vector databases | ODFP210 - YouTube](https://www.youtube.com/watch?v=DCy3RHa7x_8)
@@ -1241,6 +1248,9 @@ NLP
     * [엔비디아, 오픈소스 소프트웨어 ‘네모 가드레일’ 출시](https://www.epnc.co.kr/news/articleView.html?idxno=232776)
     * [Nemo-Guardrails를 소개합니다](https://bobb-ai-brain.vercel.app/nemo-one)
     * [LLM 파인튜닝 없이 edge case 처리하기👀 with Nemo-Guardrails | bobb Kim](https://www.linkedin.com/posts/autorag-bwook_nemo-guardrails%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-activity-7347848727463677953-j7qU)
+* [NvChat: single-exe Windows client for NVIDIA's free LLMs](https://github.com/akon47/NvChat)
+  * [NvChat – NVIDIA의 무료 LLM을 쓰는 단일 exe 윈도우 클라이언트 | GeekNews](https://news.hada.io/topic?id=31711)
+  * build.nvidia.com의 오픈 모델(OpenAI 호환 API 무료)을 Claude·ChatGPT 데스크톱 앱처럼 쓰는 단일 exe 윈도우 클라이언트. C#, MIT
 * [Open Assistant](https://open-assistant.io/)
   * [OpenAssistant First Models are here! (Open-Source ChatGPT) - YouTube](https://www.youtube.com/watch?v=Hi6cbeBY2oQ)
 * [PetGPT: Train your own PetGPT at home!](https://github.com/maziarraissi/PetGPT)
@@ -2800,7 +2810,7 @@ NLP
 * [AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
-* [airllm: AirLLM 70B inference with single 4GB GPU](https://github.com/0xSojalSec/airllm)
+* [airllm: AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
   * [What?! You can now run 70B LLMs on a 4GB GPU 🤯 AirLLM is a memory-optimized inference approach that makes very large models usable on low-memory hardware. The key idea is simple: models are… | Charly Wargnier | 61 comments](https://www.linkedin.com/posts/charlywargnier_what-you-can-now-run-70b-llms-on-a-4gb-activity-7416586634135228416-sH-_)
   * [이길환 - 제목: AI 대형 언어모델, 이제 일반 PC에서도 돌아간다… '레이어 단위 실행' 기술로 메모리 장벽 허물어... | Facebook](https://www.facebook.com/weaikorea/posts/pfbid0nb2WKmrcbuwcaRTcm6QXGhVdewEpq9fBPBP7RNpeUwg6M85QHiixh93d4G7bwHtol)
 * [AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
@@ -3094,6 +3104,9 @@ NLP
   * [thinkingmachines/Inkling · Hugging Face](https://huggingface.co/thinkingmachines/Inkling)
   * [🆓 Inkling 975B 완벽 분석 Thinking Machines Lab의 첫 오픈소스 MoE 모델 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%86%93-Inkling-975B-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D-Thinking-Machines-Lab%EC%9D%98-%EC%B2%AB-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-MoE-%EB%AA%A8%EB%8D%B8)
   * Thinking Machines Lab(Mira Murati)의 첫 오픈웨이트 모델. 멀티모달 Mixture-of-Experts(975B), 추론 노력(reasoning effort) 조절 가능. Tinker에서 파인튜닝 지원
+  * [Introducing Inkling-Small | Thinking Machines Lab](https://thinkingmachines.ai/news/inkling-small/)
+    * [🚀 1/4 크기로 원조 능가한 오픈웨이트 AI Thinking Machines Inkling Small 완전 분석 | fornewchallenge](https://fornewchallenge.tistory.com/entry/%F0%9F%9A%80-14-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9B%90%EC%A1%B0-%EB%8A%A5%EA%B0%80%ED%95%9C-%EC%98%A4%ED%94%88%EC%9B%A8%EC%9D%B4%ED%8A%B8-AI-Thinking-Machines-Inkling-Small-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D)
+    * 원본 Inkling을 1/4 크기로 대등한 성능을 내는 오픈웨이트 모델. 멀티모달 MoE, 조절 가능한 추론 노력, Tinker 파인튜닝 지원
 * [instructor: structured outputs for llms](https://github.com/jxnl/instructor)
   * [The Art of Crafting RANchain Code with LLMs - Network APIOps](https://www.linkedin.com/posts/jinsung-choi-48a8b61_oran-openran-orancopilot-activity-7156849383840366592-Hi-F/)
 * [InternLM: InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system](https://github.com/InternLM/InternLM)
@@ -3136,6 +3149,12 @@ NLP
     * [충격 받았습니다. Fable 5를 이긴 오픈 소스 모델이 나왔습니다 | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EC%B6%A9%EA%B2%A9-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-fable-5-%EB%A5%BC-%EC%9D%B4%EA%B8%B4-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%82%98%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-ugcPost-7483608530126831616-lqRa)
     * [오늘은 GPT-5.6과 Fable 5와 경쟁하는 성능을 지닌 2.8T 크기의 오픈 모델 | Kiwoong Yeom](https://www.linkedin.com/posts/kiwoong-yeom_%EC%98%A4%EB%8A%98%EC%9D%80-gpt-56%EA%B3%BC-fable-5%EC%99%80-%EA%B2%BD%EC%9F%81%ED%95%98%EB%8A%94-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A7%80%EB%8B%8C-28t-%ED%81%AC%EA%B8%B0%EC%9D%98-ugcPost-7483675426213556225-nyfm)
     * Moonshot AI가 공개한 세계 최초 오픈 3T급 모델. 코딩·지식노동·추론 전반에서 프런티어 성능, 네이티브 멀티모달, 1M 컨텍스트. GPT-5.6·Claude Fable 5와 경쟁하는 오픈 웨이트(2.8T) 모델이라는 평가
+    * [Kimi K3 Is Here: Efficient Day-0 Support on vLLM | vLLM Blog](https://vllm.ai/blog/2026-07-27-k3)
+      * [vLLM에서 Kimi K3를 효율적으로 서빙하는 방법과 주요 최적화 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3441)
+      * vLLM의 Kimi K3(2.8T MoE, 1M 컨텍스트) Day-0 서빙. 하이브리드 KDA prefix caching, DSpark speculative decoding, 프로덕션 규모 disaggregation, 최적화 커널
+    * [Kimi K3 - How to Run Locally | Unsloth Documentation](https://unsloth.ai/docs/models/kimi-k3)
+      * [Unsloth AI on X](https://x.com/UnslothAI/status/2082463988953367031)
+      * Unsloth의 Kimi K3 로컬 실행 가이드. quant 버전을 로컬 환경에서 구동하는 방법
   * [Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)
     * [2510.26692 Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
     * [와.. 이 논문 정말 뜨겁습니다. Moonshot AI에서 공개한 Kimi Linear가 주목받고 있습니다. Kimi Linear는 기존의 full attention와 linear attention과 결합한 하이브리드 방식을 사용하는 것이 특징인데요. 핵심은 Kimi Delta Attention(KDA) 구조로, 채널 단위로 작동해 메모리 효율을 높이면서 성능 저하 없이 최대 6.3배 빠른 디코딩과 75% 적은 메모리 사용량(KV 캐시 기준)을 실현한 점입니다. 예를 들어, 1백만 토큰 디코딩 길이에서 기존 full attention 대비 6.3배 빠르게 디코딩하면서도, MMLU-Pro 성능은 51.0으로 full attention(MLA 모델, 47.2점)보다 높습니다. 기존 선형linear attention은 품질이 떨어져 주류에서 멀어졌지만, Kimi Linear는 속도와 품질 모두를 확보하며 실사용 가능한 수준에 도달한 것으로 보입니다.](https://www.threads.com/@choi.openai/post/DQmJi0Bj44E/%EC%99%80-%EC%9D%B4-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A7%90-%EB%9C%A8%EA%B2%81%EC%8A%B5%EB%8B%88%EB%8B%A4moonshot-ai%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%9C%ED%95%9C-kimi-linear%EA%B0%80-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4kimi-linear%EB%8A%94-%EA%B8%B0%EC%A1%B4%EC%9D%98-full-att?hl=ko)
@@ -4089,12 +4108,17 @@ NLP
   * [귱귱 - 아래는 'TinyAgent: Function Calling at the Edge'라는 기법을 즐겁게 요약한... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid032jQEb8xeUyZx7ck6aP2nyc1hfa6oxSdtwAQa5Mef7Zbc6s2FDsFq3VGyfPzPiGATl) SLM, Tool RAG
 * [tokencost: Easy token price estimates for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
   * [Token Cost - 400+개 LLM의 토큰당 비용 계산하기 | GeekNews](https://news.hada.io/topic?id=15421)
+* [TokenRouter - Verified Models with Enterprise-Grade Controls](https://www.tokenrouter.com/)
+  * 통합 AI 모델 허브. 주요 LLM을 OpenAI·Claude·Gemini 호환 API로 변환하고 중앙에서 관리(개인·엔터프라이즈). 모델 집계·배포·검증 게이트웨이
 * [torchchat: Run PyTorch LLMs locally on servers, desktop and mobile](https://github.com/pytorch/torchchat)
   * [Torchchat - LLM과 대화를 어디에서나 가능하게 | GeekNews](https://news.hada.io/topic?id=16149)
 * [Tulu | Ai2](https://allenai.org/tulu)
   * [Ai2 Playground](https://playground.allenai.org/)
   * [美 앨런인공지능연구소, 中 '딥시크 R1'과 유사하며, '딥시크 v3' 및 'GPT-4o' 뛰어넘는?... '툴루3 405B' 오픈소스로 공개 < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=33728)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
+* [turbo-fieldfare: Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook](https://github.com/drumih/turbo-fieldfare)
+  * [TurboFieldfare - 모든 M 시리즈 Mac에서 Gemma 4 26B를 2GB RAM으로 | GeekNews](https://news.hada.io/topic?id=31958)
+  * 전체 14.3GB 모델을 메모리에 올리지 않고 Gemma 4 26B-A4B를 약 2GB로 실행—8GB Apple Silicon Mac에서도 로컬 추론 가능. 1.35GB 공유 코어와 FP16 KV 캐시만 상주시키고 토큰마다 필요한 MoE 전문가만 로드. Swift, Apache-2.0
 * [TutoriaLLM: Self-hosted environment for programming tutorial by LLM](https://github.com/TutoriaLLM/TutoriaLLM/)
   * [TutorialLLM - LLM에 의해 진행되는 프로그래밍 학습 플랫폼 | GeekNews](https://news.hada.io/topic?id=17646)
 * [txtai: 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows](https://github.com/neuml/txtai)
