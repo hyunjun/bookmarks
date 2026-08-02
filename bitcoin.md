@@ -270,6 +270,8 @@ Bitcoin
   * [단순함이라는 최후의 카드: 고성능 L1 경쟁 속 이더리움(Ethereum)의 전략적 선택 | by Simon Seojoon Kim | 해시드 팀 블로그 | May, 2025 | Medium](https://medium.com/hashed-kr/simplifying-eth-90764ea64c11)
 * [Account Abstraction에 대하여. 이더리움 커뮤니티의 꿈 : Account Abstraction과… | by Mark | Boom💥Labs — The open basecamp for Web3 Builders. | Oct, 2022 | Medium](https://medium.com/boom-labs/account-abstraction%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-99b557753d6c)
 * [ethereum 서명 데이터 포맷 - EI.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223457982893)
+* [ai-web3-security: Web3 Security Tools Hub — a curated list of AI tools for smart-contract security](https://github.com/pashov/ai-web3-security)
+  * 스마트컨트랙트 보안용 AI 도구 76종 큐레이션(무료/오픈소스·유료/상용 분류). pashov.com 운영
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
