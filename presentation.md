@@ -84,6 +84,8 @@ Presentation
 * Adobe [이제 발표용 이미지 찾다가 시간 버리지 말자: 어도비 스톡 설치하면 바로 끝](https://ppss.kr/archives/216439)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [Animotion](https://animotionjs.vercel.app/)
+* [aws-bento-deck: AWS 스타일 Bento 레이아웃 기반 HTML 슬라이드 생성 Skill](https://github.com/aws-samples/sample-apj-sup-sa/tree/main/ai-coding-assistants/skills/aws-bento-deck)
+  * HTML 슬라이드의 단점(AI-ish 스타일·핀셋 수정 어려움·슬라이드쇼/인쇄 애매)을 보완하는 Claude 스킬. 슬라이드 구성용 .md 생성 후 AWS Design Layout을 적용한 Bento 기반 HTML 슬라이드 제작, AI 협업 편집·PPT식 직접 편집·슬라이드쇼 지원
 * [bunkrapp](http://bunkrapp.com/)
 * [**GitPitch**](https://gitpitch.com/)
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
