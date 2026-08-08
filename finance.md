@@ -348,6 +348,10 @@ Finance
   * [5월 종소세, 이걸로 준비 끝납니다. 👩🏻‍💻스킬 "5월 종소세 준비 끝났다." 🇰🇷한국 사업자 장부 자동화 Claude Code 스킬을 공개합니다. /korean-jangbu-for ❤ 카드명세서 PDF 한 장이면 끝. 7대 카드사·5대 은행·홈택스 자동 수집 → 재무제표 → 세무사 전달… | 조사랑](https://www.linkedin.com/posts/chosarang_5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-%EC%9D%B4%EA%B1%B8%EB%A1%9C-%EC%A4%80%EB%B9%84-%EB%81%9D%EB%82%A9%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%82%AC-5%EC%9B%94-%EC%A2%85%EC%86%8C%EC%84%B8-ugcPost-7452727374376345600-UZmB)
 * [LLMs-in-Finance/Agents/Anthropic at main · hananedupouy/LLMs-in-Finance](https://github.com/hananedupouy/LLMs-in-Finance/tree/main/Agents/Anthropic)
   * [Financial Modeling Prep API를 사용하여 주식 데이터를 가져오고, Anthropic의 Claude를 활용하여 금융 에이전트를 만드는 시스템을 구현](https://www.linkedin.com/feed/update/urn:li:activity:7251795373042630656/)
+  * [Mastering AI Agents in Finance: Foundations + the Flagship Cohort | Hanane Dupouy](https://ai-agent-in-finance.com/training/)
+    * 같은 저자(Hanane Dupouy)의 금융 AI 에이전트 교육 과정. Level 1 Foundations(자기주도 온램프)→8주 플래그십 코호트 Architecture to Production. "프레임워크보다 직접 구현 먼저" 방침
+  * [복잡한 금융 업무를 효율화하는 AI 에이전트 아키텍처, Orchestrator-Workers 패턴 | digitalbourgeois](https://digitalbourgeois.tistory.com/3473)
+    * 기업 신용분석처럼 KYC·재무정보 분석·신용위험 평가·컴플라이언스를 동시에 처리해야 하는 업무에 단일 에이전트가 갖는 한계와, Orchestrator가 업무를 분할해 전문 Worker Agent에 위임하고 결과를 통합하는 패턴
 * [LLMQuant Data — The knowledge harness for AI-native finance](https://llmquantdata.com/)
   * [quant-mind: An intelligent knowledge extraction and retrieval framework for quantitative finance](https://github.com/LLMQuant/quant-mind)
   * 자율 AI 에이전트용 금융 데이터·컨텍스트 엔지니어링 플랫폼. 8개 데이터 유니버스(Crypto/Equities/ETFs/Macro/Wiki/Papers/SEC Filings/SEC 13F), MCP 서버+Agent Skill 통합, 4가지 쿼리(원본/시맨틱/PageIndex 트리/지식 그래프). 거시 30년·미주 25년·크립토 12년, p95 200ms 미만. quant-mind는 NeurIPS 2025 GenAI in Finance 워크숍 채택, 비정형 콘텐츠→구조화 지식베이스 변환. MIT
@@ -470,8 +474,13 @@ Finance
 * [Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
   * [이상선 - GitHub 프로젝트: Finance - 금융 데이터 분석 & 트레이딩 도구 - 핵심내용 - 1. 모듈... | Facebook](https://www.facebook.com/100001916096643/posts/31814107121569744/)
 * [FinceptTerminal: Open-source financial analysis platform — Bloomberg Terminal alternative](https://github.com/Fincept-Corporation/FinceptTerminal)
+  * [Fincept Terminal — The Private AI Research Terminal](https://fincept.in/)
   * [Fincept Terminal - 금융 분석 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=29089)
   * C++20+Qt6 네이티브 앱. DCF·포트폴리오 최적화·리스크 지표, 37개 AI 트레이딩 에이전트(멀티 LLM), 100+ 데이터 소스, 16개 브로커 실시간 거래, QuantLib 기반 퀀트 분석. AGPL-3.0
+  * Enterprise 에디션은 계획·위임하는 에이전틱 리서치, 백테스팅 퀀트 랩, 파생·매크로 커버리지, 프라이빗 데이터룸 등 41개 모듈. 월 $99/유저(블룸버그 단말 $27,000 대비)
+* [freqtrade — Free, open source crypto trading bot](https://www.freqtrade.io/)
+  * [freqtrade/freqtrade: Free, open source crypto trading bot](https://github.com/freqtrade/freqtrade)
+  * 파이썬 오픈소스 암호화폐 트레이딩 봇. 백테스팅·전략 최적화(하이퍼옵트)·텔레그램/웹UI 제어, 주요 거래소 지원. Python, GPL-3.0, 53k stars
 * [fsfupbit: Enhanced Python wrapper for Upbit API - A maintained fork of pyupbit](https://github.com/urstory/fsfupbit)
   * [Python Korea | 안녕하세요. pyupbit를 사용하시는 분들이 많은데, 원본 저장소가 2024년 이후로 업데이트가 되지 않고 있어 포크해?... | Facebook](https://www.facebook.com/groups/pythonkorea/posts/25694622306860921/)
 * [Goldman Sachs · GitHub](https://github.com/goldmansachs/)
