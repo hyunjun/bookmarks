@@ -42,6 +42,12 @@ Politics
   * 약 5만 명의 모로코 청소년·청년이 트럭에 실려 국경에 '살포'되고 모로코쪽 철문이 열려 스페인 월경지 세우타로 몰려든 사태. 과잉실업 배경과 지정학적 함의 분석
 * [Dongsuk Kim - 실패한 비밀작전: 2019년 미 네이비씰의 대북 도청장치 설치 작전 | Facebook](https://www.facebook.com/dongsuk.kim.790/posts/pfbid0WHGL4pWbvecZqMvUXUuDeFQU9HTW1HtrnVF23QWiwovuMrgT1r5N1xgYYN5JGcFDl)
   * 2019년 초 미 네이비씰(빈 라덴 작전 부대)이 김정은 통신 감청장치를 북한 해안에 설치하려다 통신 두절 상태에서 조개 채취 민간인을 경비정으로 오인·사살, 임무 실패. 하노이 정상회담 전후 외교(트럼프-김정은 신뢰)와 비밀 침투작전의 모순, 의회 미보고, 6년 은폐 후 NYT 탐사보도(24명 교차 인터뷰), FBI의 매튜 콜 기자 취재원 추적—국가안보·알 권리·취재원 보호의 충돌. NYT 2025-09-05 보도 기반
+* [Sanghwan Lee - 놀란의 《오디세이》, 전쟁하는 미국, 여신이 된 희생자 | Facebook](https://www.facebook.com/sanghwan.lee/posts/pfbid02Z42N8a4Pvu89tYse1TH6343hJjSMcxUNBJGsxTJ7Xnb8Ffs3gCaSA5t1QADqKALWl)
+  * 트로이아 목마를 환대법(크세니아) 파괴로 읽는 놀란의 《오디세이》를 2026년 미·이스라엘의 이란 공격에 겹쳐 읽기. 『오뒷세이아』 8권에서 승리자의 울음을 포로로 끌려가는 여인의 울음에 비유한 직유를, 놀란은 살해된 아테나 여사제의 얼굴로 확장해 오뒷세우스 곁에 세움. 이란 미나브 초등학교 폭격(어린이 120명 사망) 등을 들어 군사적 성공이 도덕적 정당성을 보증하지 않음을 지적—성찰이 책임(진실 규명·배상·제도 개선)으로 이어지지 않으면 죄책감조차 승리자를 위로하는 서사가 된다
+* [희일이송 - 이스라엘, 팔레스타인 수감자 감옥 해자에 악어 방류 계획 | Facebook](https://www.facebook.com/leesongheeil/posts/pfbid0Wqp6Bru9TUXKuMUM4s3XXY3oCmHWQ4GDWeEK6VcTU5ifJvbTzp1zF2RLukcvpShYl)
+  * 탈출 방지를 이유로 감옥 주변 해자에 나일악어를 풀려는 계획에 이스라엘 자연공원관리청이 "야생종을 좁은 해자에 가두면 위험하다"고 문제 제기—사람 목숨은 뒤로 하고 악어 복지를 앞세운 역설을 비판
+* [희일이송 - 일론 머스크 AI 데이터센터 때문에 하원의원 후보가 된 러다이트, 저스틴 피어슨 | Facebook](https://www.facebook.com/leesongheeil/posts/pfbid037jaqUGzbe9oUcfowzXtXKSkfGQAk9UqzKjXzdyKuj6q7kQGaWHWiNL2a7EaTK5zFl)
+  * 인구 90%+가 흑인·저소득층인 테네시 멤피스에 들어선 xAI 데이터센터 문제로 정치에 뛰어들어 민주당 하원의원 후보가 된 저스틴 피어슨. 스스로를 러다이트라 부르는 환경·인종 정의 운동의 맥락
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
@@ -471,6 +477,10 @@ Politics
   * 1930년대 나치 독일에서 히틀러를 반대 심문한 Hans Litten(다하우에서 사망)과 권력에 법을 제공한 Carl Schmitt 대비. 지식 엘리트의 비겁한 침묵이 제도 붕괴 경고
 * [기고 5조 원을 굴리는 250명의 DARPA, 72개로 쪼개진 한국 R&D의 판을 엎어라 | Facebook](https://www.facebook.com/groups/strat4scitech.kr/permalink/2178256303021205/)
   * 미국 DARPA(250명·5조원 예산)의 효율성과 72개 기관/부처로 분산된 한국 R&D 거버넌스 비교. 연구개발 체계 개혁 필요성 제기
+* [이주혁 - 검찰 공화국 부활 프로젝트는 이미 반쯤 성공한 것같다 | Facebook](https://www.facebook.com/lee.joohyuck.9/posts/pfbid03L2xeUiJ7qMW49wJcKwP9RrkcXnx7XDC2HuCvsEWcPHyNTg5fmzz7iSDRiZwcTnrl)
+  * 미국은 지역경찰이 먼저 수사하고 전국 단위 범죄에 FBI가 지휘 없이 협력하는 구조라는 점과 대비해, 한국 검찰 조직의 수사 지휘 구조 부활 흐름을 비판
+* [박지훈 - '부산 돌려차기 사건' 피해자는 왜 김용민 의원과 한동수 변호사에게 문제를 제기하는가 | Facebook](https://www.facebook.com/Jeehoon.Imp.Park/posts/pfbid0SLuk6vUfRRrtEYqZqrba7uwb2AFKmpgTqhCpAneiHEPT5X5YREUB5BnkKBGM6shSl)
+  * 피해자가 '보완수사'라는 용어의 의미를 오해한 것이 논쟁의 핵심 원인이라는 분석. 모든 재판이 확정되고 국가배상소송까지 일부 인정된 사건에서 추가 오해와 공방이 확대재생산되는 과정
 
 # America
 * [2016 미국 대선 업데이트: 미국 대선이 흥미로운 이유](http://slownews.kr/45909)
