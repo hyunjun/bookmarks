@@ -388,6 +388,10 @@ Graph
 * [OpenGraphiti - OpenDNS Data Visualization Framework](http://www.opengraphiti.com/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
+* [pgGraph: Open-source graph database superpowers for your existing Postgres data](https://github.com/Evokoa/pgGraph)
+  * [Evokoa — Making the World's Data AI-Native](https://www.evokoa.com/)
+  * [기존 PostgreSQL 데이터에 그래프 검색을 더하는 pgGraph | digitalbourgeois](https://digitalbourgeois.tistory.com/3470)
+  * 기존 Postgres 데이터를 다른 저장소로 옮기지 않고 그래프 탐색을 추가—2단계 이내 연결 탐색, 최단 경로, 여러 테이블에 흩어진 관계 조회를 재귀 SQL·복잡한 조인 없이 처리. Evokoa의 virtual graph 기술(페타바이트급 데이터를 제자리에서 AI가 추론). Rust
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
