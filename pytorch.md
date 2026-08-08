@@ -283,6 +283,8 @@ PyTorch
 * [dakshoont/jupyterhub](https://hub.docker.com/r/dakshoont/jupyterhub) JupyterHub Image with TensorFlow and PyTorch
 * [Ubuntu 18.04 CUDA + PyTorch 설치](https://greenmon.dev/2019/06/21/ubuntu-cuda.html)
 * [Ubuntu 22.04에 CUDA 사용할 수 있도록 PyTorch 설치하는 방법](https://webnautes.tistory.com/1845)
+* [윈도우, 우분투에 파이토치 설치하는 방법 - 멈춤보단 천천히라도](https://webnautes.com/%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  * 윈도우와 우분투 양쪽 파이토치 설치 방법. 파이썬 가상환경 생성에 미니콘다 사용
 * [윈도우 10(windows 10)에서 PyTorch 설치하고 gpu를 사용하자!(PyTorch install)](https://lsjsj92.tistory.com/494)
 * [Ubuntu에 Pytorch 설치하기](https://booiljung.github.io/technical_articles/pytorch/installation_of_pytorch_on_ubuntu.html)
 * [PyTorch Anaconda, JupyterLab을 통한 환경 구축 :: JSYoo94](https://jsyoo94.tistory.com/12)
