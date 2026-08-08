@@ -39,6 +39,8 @@ Science
   * [OpenScience 공식 사이트](https://www.openscience.sh/)
   * [OpenScience: 과학 연구를 위한 오픈소스 AI 워크벤치 기술 정리 | digitalbourgeois](https://digitalbourgeois.tistory.com/3345)
   * 문헌 조사·가설 수립부터 코드 작성·실험·결과 분석까지 과학 워크플로를 자동화하는 AI 리서치 플랫폼. 브라우저 기반 워크스페이스, 290개+ 전문 스킬, 주요 과학 데이터베이스 연동, 멀티 모델 지원. ML·생물·물리·화학 연구에 활용, 벤더 락인 없음
+* [김효경 - 현미경의 역사와 잊힌 관찰자들: 왜 로버트 훅만 기억되는가 | Facebook](https://www.facebook.com/hyokyung.kim.165/posts/pfbid0uNWdSnJZQ4jpruVNFXF8UDVF37ZJmeXoQLL6GsLv2qg9V5bt5RF5AK4QffdVuDyul)
+  * 훅의 <마이크로그라피아>(1665)보다 21년 앞선 호디에르나 <파리의 눈>(1644), 1년 앞선 헨리 파워 <실험 철학>, 285배율로 세균까지 본 레이우엔훅은 왜 잊혔는가—관계망·영향력, '무엇을 봤나'만 적고 '어떻게 봤나'는 안 적은 차이, 왕립학회 실험 책임자라는 훅의 위치, <철학회보>(1665) 창간으로 "발표하지 않으면 없는 것"이라는 규칙 성립. 현미경은 망원경과 달리 물음이 없어 200년간 구경거리에 머물렀지만, 보이지 않는 것도 실재함을 확인 가능한 방식으로 보여준 첫 도구
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
@@ -248,6 +250,8 @@ Science
 * ['고추냉이', 새로운 진통제 개발에 기여하다](http://www.huffingtonpost.kr/2015/04/13/story_n_7052912.html)
 
 # Physics
+* [Jae Kyoung Kim - 전율이 느껴지는 논문: 비선형 동역학 oscillator 연구 | Facebook](https://www.facebook.com/jaekyoung.kim/posts/pfbid0YSXqdAJuUy7xtHtakE3A45grLRokN2WEkxSDnwrL7jVCaJFos5k6ahd97KccyqVTl)
+  * 비선형 동역학에서 반복되는 질문들—복잡한 고차원 진동에서 phase를 어떻게 정의할지, PRC를 어떻게 구할지, 외부 주기 자극에서 entrainment가 언제 일어나는지, noise가 synchronization을 어떻게 바꾸는지—에 답하는 논문 소개
 * [Physics in 100 years](http://arxiv.org/abs/1503.07735)
 * 크기의 우주
   * [거대한 세상의 이야기](http://www.huffingtonpost.kr/jongwoo-won/story_b_6774012.html)
