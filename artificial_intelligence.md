@@ -838,6 +838,10 @@ Artificial Intelligence
   * [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
   * [OpenClaw-RL: 대화만으로 개인화 AI 에이전트를 학습하는 비동기 강화학습 프레임워크](https://digitalbourgeois.tistory.com/2884)
   * 대화형 피드백으로 에이전트 강화학습. PRM 판단기로 평가 신호→보상 변환, Hindsight-Guided On-Policy Distillation으로 지시 신호 복원. 비동기 아키텍처로 서빙·평가·업데이트 동시 수행
+* [2607.27497 SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge](https://arxiv.org/abs/2607.27497)
+  * [SkillSmith, 텍스트 지식과 파라미터 기술을 결합하는 LLM 에이전트 아키텍처 | digitalbourgeois](https://digitalbourgeois.tistory.com/3471)
+  * 텍스트로 표현되는 지식과 모델 파라미터에 담긴 기술을 별개로 다루던 기존 방식과 달리 둘을 하나의 흐름으로 연결. 모델 가중치 자체를 LLM이 다룰 수 있는 입력 모달리티로 보고 기존 학습된 여러 기술을 새 작업에 맞게 합성—단순 가중치 병합과의 차이가 핵심
+  * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
 * [500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more](https://github.com/ashishpatel26/500-AI-Agents-Projects) 다양한 산업 분야의 AI 에이전트 활용 사례를 선별하여 모은 컬렉션
 * [AgentAwake — AI Agent Memory Playbook for ChatGPT, Claude, Cursor and More](https://agentawake.com/)
   * SOUL.md/MEMORY.md/AGENTS.md 템플릿으로 AI 에이전트에 영구 메모리 설정. OpenClaw, n8n, LangChain 등 8개 이상 플랫폼 지원
@@ -1375,7 +1379,6 @@ Artificial Intelligence
   * [Suk Hyun K. - SkillOpt 마이크로소프트 자기진화 AI 정리 | LinkedIn](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_aislsstwswktxu-regstwtmerxgsqsuiktxu-suyqzctfqupiai-ugcPost-7465186655478374401-QuFX/)
   * [PR-557: Self Evolving Skills: SkillOS, SkillOpt - YouTube](https://www.youtube.com/watch?v=j3KrKQbpHNY)
     * JoonHo LEE의 PR 논문 리뷰(약 37분). 자기 진화 스킬 논문 두 편—SkillOS(Google)와 SkillOpt(Microsoft)를 비교 분석
-  * 자연어 스킬 문서를 동결된 모델의 학습 가능한 외부 상태로 취급—텍스트 공간에서 가중치 대신 절차를 학습. 4단계 루프: Rollout(점수화 트래젝토리)→Reflect(성공/실패 패턴 추출)→Edit(add/delete/replace, edit budget=textual learning rate)→Gate(holdout 검증 통과해야 채택). D_tr/D_sel/D_test 분리, 거부된 수정은 음성 피드백 재활용. 7 모델×6 벤치마크 모두 최고/공동최고. 단일 `best_skill.md` 산출물이 모델 크기·하네스(Codex↔Claude Code) 간 이전 가능. GPT-5.5 +23.5/Codex +24.8/Claude Code +19.1 보고
 * skills.sh [The Agent Skills Directory](https://skills.sh/)
   * [Skill for vercel-labs/agent-skills](https://skills.sh/vercel-labs/agent-skills)
     * [agent-skills](https://github.com/vercel-labs/agent-skills)
@@ -1460,6 +1463,9 @@ Artificial Intelligence
 * [조직에 Claude Code를 설치한다고 AX가 되지 않는다](https://flowkater.io/posts/2026-03-15-ax-organization-transformation/)
   * [에이전틱 엔지니어링 시대의 생존 스킬 9가지 | GeekNews](https://news.hada.io/topic?id=27104)
   * 분해 능력, 컨텍스트 설계, 완료 정의, 실패 복구, 관찰 가능성, 메모리 설계, 병렬 관리, 추상화 계층 설계, 감각(Taste). AI 이전에도 좋은 엔지니어의 역량이었지만 AI 시대에 중요성이 극대화
+* [Taste Is All That's Left | notashelf](https://notashelf.dev/posts/taste-is-all-thats-left)
+  * [남은 것은 안목뿐이다 | GeekNews](https://news.hada.io/topic?id=32232)
+  * AI가 아이디어를 작동하는 결과물로 바꾸는 비용을 거의 없애면서, 희소한 능력이 제작 자체보다 무엇을 만들고 남길지 결정하는 안목(taste)으로 이동. 안목은 단순한 선호가 아니라 여러 그럴듯한 결과 가운데 잘못된 것을 감지하고 "아니, 다시"라고 판정하는 압축된 판단력
 * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger](https://steipete.me/posts/just-talk-to-it)
   * [Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger | Kim Wooyeong](https://www.linkedin.com/posts/wooing_just-talk-to-it-the-no-bs-way-of-agentic-activity-7384038809090523136-U1oj)
 * [Shipping at Inference-Speed | Peter Steinberger](https://steipete.me/posts/2025/shipping-at-inference-speed)
@@ -1516,6 +1522,8 @@ Artificial Intelligence
 * [프롬프트 엔지니어링 상위 1%는 '설계'를 합니다 | 컨텍스트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=0OXCyl5Rai4)
   * [프롬프트 엔지니어링의 한계와 컨텍스트 엔지니어링의 중요성: AI 시스템 설계의 핵심](https://livewiki.com/ko/content/prompt-engineering-context-design)
 * [프롬프트 엔지니어링"의 시대는 끝났다...이제는 "컨텍스트 엔지니어링"의 시대다 | Suk Hyun K.](https://www.linkedin.com/posts/suk-hyun-k-31ba9b369_suaqtztfmqvz-ai-uikrxwuiktxuslwtfmqwislqrez-activity-7407179446538952704-CVLG)
+* [아직도 1년 전 프롬프트를 그대로 쓰고 있나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/3889)
+  * 낡은 프롬프트 엔지니어링 규칙을 Anthropic·OpenAI·Google·xAI·Moonshot 공식 문서를 근거로 정리한 가이드
 * [코칭 관점에서 본 AI 대화의 기술 | Warmblood TechBlog](https://warmblood-kr.github.io/techstack/2025/11/25/coaching-and-context-engineering.html)
   * [Warmblood Co., Ltd. 기술 블로그에 올라온 '코칭 관점에서 본 AI 대화의 기술'이라는 글을 소개합니다. LLM에게 컨텍스트 엔지니어링을 한다는 건 단순한 프롬프트 설계가 아니라, '대화의 깊이'를 만들어 가는 과정입니다. 그리고 이 과정은 코칭의 원리와 생각보다 닮아 있습니다. 몆달 전 동료분과 함께 ‘페어 AI 증강 코딩’을 하고 난… | Jeongsoo Park](https://www.linkedin.com/posts/toracle_warmblood-co-ltd-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%98%AC%EB%9D%BC%EC%98%A8-%EC%BD%94%EC%B9%AD-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-activity-7401498923934408704-GEGH)
 * [🤖 메타에 5조원에 인수된 마누스의 비밀: AI 에이전트가 실패하는 진짜 이유 메타가 최근 약 4~5조원에 인수한 마누스는 매일 수백만 건의 대화를 안정적으로 처리할 수 있었던 이유는 '컨텍스트 엔지니어링(Context Engineering)'이라는 전혀 다른 접근에 있었습니다. 사실 마누스는 일반 AI 에이전트(General AI Agent)… | Jeongmin Lee](https://www.linkedin.com/posts/jyoung105_%EB%A9%94%ED%83%80%EC%97%90-5%EC%A1%B0%EC%9B%90%EC%97%90-%EC%9D%B8%EC%88%98%EB%90%9C-%EB%A7%88%EB%88%84%EC%8A%A4%EC%9D%98-%EB%B9%84%EB%B0%80-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94-%EC%A7%84%EC%A7%9C-activity-7411700296009228288-EOWE)
@@ -3723,6 +3731,8 @@ Artificial Intelligence
 * [GPT-Red: Unlocking Self-Improvement for Robustness | OpenAI](https://openai.com/index/unlocking-self-improvement-gpt-red/)
   * [GPT-Red란 무엇인가? AI를 더 안전하게 만드는 자동 레드팀 기술 | digitalbourgeois](https://digitalbourgeois.tistory.com/3378)
   * OpenAI의 자동화 AI 레드팀 시스템. 사람이 아닌 AI가 self-play로 다른 AI를 공격해 새 취약점(특히 웹·이메일·코드·파일 등 외부 데이터를 다루는 에이전트의 프롬프트 인젝션)을 발견하고, 이를 학습에 반영해 안전성·정렬·견고성을 높이는 기술
+* [AdaptixC2: AdaptixC2 is a highly modular advanced redteam toolkit](https://github.com/Adaptix-Framework/AdaptixC2)
+  * [Welcome | Adaptix Framework](https://adaptix-framework.gitbook.io/adaptix-framework)
 * [agent-governance-toolkit: Microsoft AI Agent Governance Toolkit. Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
   * 자율 AI 에이전트 운영 거버넌스 툴킷(Public Preview, Microsoft 서명). 프롬프트 안전 의존이 아닌 결정론적 앱 코드에서 모든 도구 호출·메시지·위임을 인터셉트해 거부 액션 "구조적 불가능"화. YAML/OPA/Cedar 정책 엔진, SPIFFE/DID/mTLS zero-trust ID, 4링 권한 샌드박스, tamper-evident 감사 로그, kill switch·SLO 모니터·카오스 테스트, MCP Security Gateway(도구 포이즈닝·드리프트), Shadow AI Discovery. Python/TypeScript/.NET/Rust/Go SDK. Claude Code/Copilot CLI/OpenCode/Semantic Kernel/AutoGen/LangGraph/CrewAI/MS Agent Framework 통합. OWASP Agentic Top 10/NIST AI RMF/EU AI Act/SOC 2 매핑, 10 RFC 2119 스펙·992 conformance 테스트. MIT, 3.4k stars
 * [AiSOC by Cyble, the autonomous SOC](https://tryaisoc.com/)
@@ -3905,6 +3915,10 @@ Artificial Intelligence
 * [2603.21439 LLM-Powered Workflow Optimization for Multidisciplinary Software Development](https://arxiv.org/abs/2603.21439)
   * [AGI KR](https://www.facebook.com/groups/255834461424286?multi_permalinks=2911883062486066)
   * Volvo Group 사례: 그래프 기반 워크플로우 최적화로 API당 개발 시간 5시간→7분, 총 979시간 절감. F1 93.7%. FSE 2026 Industrial Track 채택
+* [Almanac — The context layer for engineering teams](https://www.codealmanac.com/)
+  * [codealmanac: A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas](https://github.com/AlmanacCode/codealmanac/)
+  * [AI 코딩 에이전트가 코드만 읽어서는 부족한 이유, CodeAlmanac으로 관리하는 코드베이스 지식 | digitalbourgeois](https://digitalbourgeois.tistory.com/3474)
+  * AI 코딩 에이전트용 코드베이스 위키. 에이전트는 코드·파일 구조는 읽지만 왜 이 구조가 되었는지, 과거에 어떤 문제가 있었는지, 반드시 지켜야 하는 조건은 무엇인지는 알기 어려움—코드에 담기지 않는 결정·흐름·불변 조건·Gotchas를 기록해 개발자와 에이전트가 같은 맥락을 공유. TypeScript, Apache-2.0
 
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
@@ -6342,6 +6356,7 @@ Artificial Intelligence
     * LangChain. OpenWiki 0.1.0의 Personal Brain 개념—에이전트가 범용 메모리 위키를 자동 생성·유지. 셋업, 커넥터, 내부 동작 방식 시연
 * [Orca — The most powerful Agent Development Environment (ADE)](https://www.onorca.dev/)
   * [Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.](https://github.com/stablyai/orca)
+  * [Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE | GeekNews](https://news.hada.io/topic?id=32253)
   * [ORCA로 Claude, Codex AI 에이전트를 동시에 제어하는 방법 - YouTube](https://www.youtube.com/watch?v=hcDz6yGT59M)
     * techyoo. 오픈소스 Orca(2만 stars)로 여러 AI 에이전트를 각자 다른 worktree 브랜치에서 동시 실행하는 오케스트레이션 데모. Claude Code vs Codex 같은 과제 경쟁(레이스) + 기능 분담 병렬 개발
 * [Orchids - The AI Fullstack Engineer](https://www.orchids.app/)
@@ -6355,6 +6370,9 @@ Artificial Intelligence
   * Mentor가 계획, Executor가 구현, Mentor가 리뷰하는 AI 에이전트 듀얼 워크플로우
 * [Paseo — One interface for all your coding agents](https://paseo.sh/)
   * [paseo](https://github.com/getpaseo/paseo)
+  * [I was wrong about Electron | Mo Boudra, Paseo Blog](https://paseo.sh/blog/i-was-wrong-about-electron)
+    * [Goos Kim - 요즘 Orca vs Paseo가 또 불이 붙었는데… | 모두의AI Facebook](https://www.facebook.com/groups/426073703607223?multi_permalinks=1039820072232580)
+    * Paseo를 Tauri에서 Electron으로 이전한 회고. 작은 바이너리·낮은 메모리라는 Tauri의 장점("쿨한 선택"이라는 인식 포함)보다 렌더링 일관성·알림·Node 데몬 번들링이 더 중요해진 지점. macOS·Windows(WebView2)는 문제없었지만 웹뷰를 번들하지 않는 Linux에서 문제가 커짐
   * Claude Code/Codex/OpenCode 원격 관리. 폰·데스크톱·CLI 크로스 디바이스, 음성 제어 지원
 * [Poco — Your Pocket Coworker](https://poco-ai.com/)
   * [poco-claw](https://github.com/poco-ai/poco-claw)
@@ -6401,6 +6419,9 @@ Artificial Intelligence
   * [shadow: Background coding agent and real-time web interface](https://github.com/ishaan1013/shadow)
 * [SimRepo: 🔗 Shows similar repositories in the sidebar](https://github.com/Mubelotix/SimRepo)
   * [이상선 - SimRepo — GitHub 유사 프로젝트 스마트 검색 도구... | Facebook](https://www.facebook.com/lsszz1/posts/pfbid0ko7CvZ3z95ZucxuxJrWKueVrMDAxenTXT1Ck7fzAteaF7XhdtuWWcpmtENmUcuACl)
+* [skill-recorder: Desktop app that records your on-screen work session and reconstructs it as a reusable Skill or Automation | Microsoft](https://github.com/microsoft/skill-recorder)
+  * [Skill Recorder로 작업 과정을 AI 자동화로 만드는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3467)
+  * 화면 녹화에 그치지 않고 실제 작업 과정을 기록한 뒤 GitHub Copilot CLI로 의도와 순서를 분석해 재사용 가능한 절차로 일반화. Microsoft Scout·Copilot Cowork·Copilot Studio용 Skill/Automation 생성. 기록되는 정보와 보안 주의사항 포함. TypeScript, MIT
 * [skills: Agent Skills for Google products and technologies | Google](https://github.com/google/skills)
   * Google 제품·기술용 에이전트 스킬 모음. 코딩 에이전트가 Google 도구·서비스를 잘 다루도록 하는 SKILL.md 큐레이션. 14.9k stars
 * [skills](https://github.com/huggingface/skills) Agent Context Protocol (ACP) definitions for AI/ML tasks like dataset creation, model training, and evaluation
