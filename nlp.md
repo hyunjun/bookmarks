@@ -2726,6 +2726,9 @@ NLP
 * [초등학생을 위한 요즘 LLM](https://velog.io/@sunrabbit123/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%A6%98-LLM)
 * [오픈소스 LLM 선택 기준 체크리스트](https://brunch.co.kr/@jinhoyooephf/39)
 * [LLM 서빙 프레임워크로 프라이빗 AI구축하기 feat. Ollama, vLLM, SGLang 세미남589@토크아이티, 윤성열 대표 / 드림플로우 - YouTube](https://www.youtube.com/watch?v=UK4QwKJDf-Q)
+* [In-House LLM Serving at Netflix | Netflix TechBlog](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c)
+  * [Netflix의 사내 LLM 서빙 플랫폼, vLLM과 Triton으로 구축한 프로덕션 운영 구조 | digitalbourgeois](https://digitalbourgeois.tistory.com/3466)
+  * LLM을 기존 ML 인프라와 분리하지 않고 통합하는 선택—기존 Model Scoring Service(MSS)에 NVIDIA Triton Inference Server와 vLLM을 연결하고 기존 gRPC 인터페이스와 OpenAI 호환 HTTP API를 함께 제공. GPU 자원 효율, 요청량 증가 대응, 안전한 모델 버전 전환, 모니터링, 커스텀 디코딩 로직까지 프로덕션 운영 관점에서 정리
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 1) 무작위성 낮추기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EB%AC%B4%EC%9E%91%EC%9C%84%EC%84%B1-%EB%82%AE%EC%B6%94%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-uuuic/)
 * [(1) AI 응답의 안정성을 높이는 3가지 방법 - 2) 출력 형식 지정하기 | LinkedIn](https://www.linkedin.com/pulse/ai-%EC%9D%91%EB%8B%B5%EC%9D%98-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-2-%EC%B6%9C%EB%A0%A5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-%ED%9C%98%EB%8F%99-%EB%B0%B0-umzwc/)
 * [**GPT 호출이 전부가 아니다! 실전 LLM 앱 구조(아키텍처) 공개 #1 - YouTube**](https://www.youtube.com/watch?v=0T2LlsQDz-o)
@@ -4059,6 +4062,9 @@ NLP
     * 단순 QA형 LLM이 아닌 코딩·디버깅·사무 자동화·장기 자율 실행 목적 에이전트 중심 독점 모델. 학습 인스턴스를 Task(문제)·Harness(실행/도구)·Verifier(검증)로 분리해 벤치마크 과적합 방지·환경 일반화. Terminal Bench 2.0-Terminus 69.7, SWE-Verified 80.4, GPQA Diamond 92.4. 35시간 연속 자율 커널 최적화에서 사전 문서 없이 1,158 도구 호출·432 평가로 Triton 대비 기하평균 10× 속도. Alibaba Cloud Model Studio API, OpenAI/Anthropic 호환, Claude Code·Qwen Code 연동. AI 경쟁이 단일 답변 품질→장기 자율 실행·환경 일반화로 이동
   * [Qwen3.8-max-preview 2.4조 파라메터 모델을 오픈으로 풀었다 - YouTube](https://www.youtube.com/watch?v=u45TJFlgGtA)
     * 토목엔지니어 돌종. 알리바바가 2.4조 파라미터 Qwen3.8-max-preview 공개(웨이트 미공개). 알리바바는 Fable 5 바로 아래 성능이라 밝힘, 돌종벤치(논리·수학·공학계산·코딩·도면·비전추론) 92점
+    * [Alibaba's AI coded for 16 days straight and every commit is on GitHub - The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/)
+      * [Qwen3.8-Max, 16일 동안 스스로 코딩했다: 265개 커밋이 보여준 AI 자율 개발의 현재 | digitalbourgeois](https://digitalbourgeois.tistory.com/3478)
+      * Qwen3.8-Max가 사람 개입 없이 약 16일간 CLI 도구를 개발—265 커밋·127 PR·151 이슈 처리, GitHub에 전 과정 공개(감사 가능). 한 번 생성으로 끝내지 않고 결과를 확인하며 다음 작업을 스스로 판단한 점이 핵심. 논문 결과 재현·칩 설계 최적화 사례도 함께 다룸
   * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
     * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
     * [Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters | Qwen](https://qwenlm.github.io/blog/qwen-moe/)
@@ -4118,6 +4124,8 @@ NLP
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [turbo-fieldfare: Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook](https://github.com/drumih/turbo-fieldfare)
   * [TurboFieldfare - 모든 M 시리즈 Mac에서 Gemma 4 26B를 2GB RAM으로 | GeekNews](https://news.hada.io/topic?id=31958)
+  * [8GB Mac에서 Gemma 4 26B를 약 2GB 메모리로 실행하는 TurboFieldfare | digitalbourgeois](https://digitalbourgeois.tistory.com/3458)
+    * 14.3GB 모델을 전부 메모리에 올리지 않고 실행에 필요한 부분만 SSD에서 가져오는 방식. 토큰 생성 과정에서 SSD와 메모리를 어떻게 활용해 메모리 사용량을 줄이는지 해설
   * 전체 14.3GB 모델을 메모리에 올리지 않고 Gemma 4 26B-A4B를 약 2GB로 실행—8GB Apple Silicon Mac에서도 로컬 추론 가능. 1.35GB 공유 코어와 FP16 KV 캐시만 상주시키고 토큰마다 필요한 MoE 전문가만 로드. Swift, Apache-2.0
 * [TutoriaLLM: Self-hosted environment for programming tutorial by LLM](https://github.com/TutoriaLLM/TutoriaLLM/)
   * [TutorialLLM - LLM에 의해 진행되는 프로그래밍 학습 플랫폼 | GeekNews](https://news.hada.io/topic?id=17646)
@@ -4433,6 +4441,9 @@ NLP
   * Cloudflare Workers + Vectorize + Workers AI로 프로덕션 RAG 구축. 월 $8~10으로 운영 가능(경쟁사 $50~200 대비). 데이터 파이프라인·쿼리 처리·에러 핸들링·보안까지 실전 코드 포함
 * [Implementing a RAG system: Walk](https://medium.com/google-cloud/implementing-a-rag-system-walk-c207aea0cd6b)
   * 문서 처리, 벡터 유사도, 재순위 지정 기술로 RAG 성능 최적화. Docling, Cohere 임베딩, LanceDB 활용 구현 사례
+* [Training 100x Cheaper Retrieval models: Neon and Castform | Neon Blog](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+  * [100배 저렴한 오픈 모델로 GPT-5.6 Sol 수준의 검색 정확도 구현하기 | digitalbourgeois](https://digitalbourgeois.tistory.com/3480)
+  * Castform으로 검색 태스크에 특화된 강화학습 후처리를 한 4B 오픈소스 모델이 GPT-5.6 Sol과 동급 검색 정확도를 내면서 비용은 1/100. 다중 홉 검색은 질문을 여러 단계로 나눠 반복 검색·종합해야 해서 프런티어 모델을 매 단계 호출하면 요청당 10초 이상·약 $0.03 발생—소형 모델 특화 학습이 대안
 * [2509.01092 REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
   * [Meta Researchers Introduce REFRAG: A New RAG Approach | Avi Chawla님이 토픽에 대해 올림 | LinkedIn](https://www.linkedin.com/posts/avi-chawla_researchersfrommetabuiltanewragapproach-activity-7383088093597220864-wXLO)
   * [토큰을 버리고 임베딩을 선택하다, Meta가 다시 쓴 RAG 공식 | Suk Hyun Kim](https://www.linkedin.com/posts/suk-hyun-kim-31ba9b369_ai-suaqtztfmqvz-rag-activity-7405368460823658496-aE2B)
