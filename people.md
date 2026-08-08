@@ -7,6 +7,10 @@ People
   * [추석 특집 1부, 건달할배 채현국을 만나다](http://newstapa.org/29097)
   * [추석 특집 2부, 건달할배 채현국을 만나다 – 마약같은 ‘돈벌이’에서 ‘헬조선’까지](http://newstapa.org/29160)
 * [노블레스 오블리주의 화신, 유일한](http://ppss.kr/archives/37751)
+  * [스타의 발자취 - 유일한의 유언: 아들에게 회사를 물려주지 않았다 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZDXPTFhqrbareor4DiS5yDM8HzkrvZyGhHDHd56h94X4S1eoQKhKQy7PDZQZnc9l&id=61550280389225)
+    * 1971년 유한양행 창업자 유일한의 유언—손녀에게 학비 1만 달러, 딸에게 묘소 관리, 나머지 재산·주식은 공익재단(유한재단·유한학원)으로. 1936년 주식회사 전환, 1962년 상장, 1969년 아들·친척 아닌 전문경영인에게 승계. 선의를 자녀에게 부탁하지 않고 제도로 남긴 것이 핵심—회사가 성장할수록 사회 환원 몫도 커지는 구조. 미국 시절 한인 독립운동·OSS 침투작전 훈련 참여
+* [스타의 발자취 - 낮에는 독일 자동차 정비사, 밤에는 아프리카 부족 지도자 | Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0oGTCPjTDdFjUtponLUzj2winW81YvYEiUe7eQKi9Gk4Hhba54eeYkwBLvihnx4tol&id=61550280389225)
+  * 가나 출신 세파스 반사의 이중 생활—독일 루트비히스하펜에서 작업복 입고 정비업체를 운영하면서 동시에 고향 부족의 전통 지도자로 부족 일을 처리
 * [청년은 ‘당신의 평등’이 아니라 생존을 원한다](http://slownews.kr/40764) 장하성
 * [Florence Nightingale: Saving lives with statistics](http://www.bbc.co.uk/timelines/z92hsbk?intc_type=promo&intc_location=news&intc_campaign=florence&intc_linkname=iwonder_factual_guide)
 * [강준만, 칼 대신 글을 휘두르는 문사(文士)](http://ppss.kr/archives/55377)
