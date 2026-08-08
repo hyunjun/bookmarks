@@ -86,6 +86,8 @@ Religion
   * 사해두루마리(Dead Sea Scrolls)가 발견된 이스라엘 사해 지역 쿰란 동굴 성지 사진·소개
 * [김성아 - 수업 중에 종종 이런 비유를 하곤 한다. 신학대학을 졸업한 목사들이 거의 예외 없이 각자의 교회를 세우는... | Facebook](https://www.facebook.com/kim.sungah/posts/pfbid02c7bWDS1ArvEi2aJJAStp41Rqjd1YA166FQXtp6ZpWuRuMP7kpbRBQsg8FGDwESovl)
   * 한국 교회나 건축을 언급하지만 결국 사회 시스템의 문제
+* [김이석 - 대형교회의 부흥과 몰락 | Facebook](https://www.facebook.com/isaac.kim.nim/posts/pfbid02BpMSJ7oFckbf5fkY9CGLsdupAe6vEnLzZ11XNbCvQgtrGTJMtfJLBMwhYY22eWz4l)
+  * 미국 오하이오 아크론 침례교회(Akron Baptist Temple) 사례—1만 6천 명이 모이고 자체 라디오·TV 방송국까지 갖췄던 메가처치의 흥망을 추적. 현재 한국 교회가 겪는 상황과의 유사성
 
 ## 한국 기독교
 * [오늘까지의 교회:부흥의 시작](http://xsfm.co.kr/wp/?p=197)
