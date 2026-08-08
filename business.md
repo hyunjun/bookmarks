@@ -3555,6 +3555,8 @@ Business
 * [Product-Market Fit Collapse](https://www.linkedin.com/posts/yongjinjin_product-market-fit-collapse%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-1-pmf-activity-7353122294518435841-51CC/)
   * [Product Market Fit Collapse: The AI Tipping Point](https://www.reforge.com/blog/product-market-fit-collapse)
   * [ProductFaculty—AI_PRD.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/14ACFgoTHc98mz58b4F9_IYkT6Kxf0wLg/edit?gid=1005267044#gid=1005267044)
+* [GN#369 지표가 좋아 보이는 회사가 성장을 멈추는 이유 | GeekNews](https://news.hada.io/weekly/202631)
+  * Sequoia·First Round Capital이 공개한 PMF 진단 프레임워크와 Jason Cohen의 관점 정리. 지표만으로는 PMF를 판단할 수 없는 이유
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
