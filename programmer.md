@@ -453,6 +453,8 @@ Programmer
 * [The 3 Words That Secretly Drive Developer Productivity & Motivation - Yanina Ledovaya - GOTO 2025 - YouTube](https://www.youtube.com/watch?v=y0j9rzME8YY)
   * [개발자 생산성과 동기부여의 비밀: 자율성, 역량, 관계성 | LiveWiki](https://livewiki.com/ko/content/developer-productivity-motivation)
   * JetBrains DX 리서치 팀리드의 자기결정이론(Self-Determination Theory) 적용. 자율성·역량·관계성 3요소가 개발자 생산성의 심리적 기반
+* [Developer Productivity at a Developer Productivity Startup • Robert-Jan "RJ" Huijsman • GOTO 2025 - YouTube](https://www.youtube.com/watch?v=4vjSz108YdA)
+  * Reboot.dev 창업 엔지니어 RJ가 8명 소수 팀으로 많은 일을 해내는 방법 공유(데이터 아닌 경험담). 두 축—마찰(friction)과 비결정성(non-determinism)을 줄이는 데 집중. 개발자 생산성을 만드는 startup이 스스로의 생산성을 높이며 얻은 교훈을 오픈소스 프레임워크 Reboot에 반영
 * [404 – Developer Not Found: The Continuing Developer Evolution • Derek Bingham • YOW! 2025 - YouTube](https://www.youtube.com/watch?v=jpsDPUUJiYM)
   * AWS Derek Bingham. 코딩 어시스턴트→AI 에이전트→자율 시스템으로의 개발자 진화. 프롬프트/컨텍스트 엔지니어링·컨텍스트 관리, 거짓 두려움, spec-driven development, 새 패러다임에서 개발자가 갖춰야 할 역량과 생존 전략
 * [하용호 - AI 시대의 전문성 (인프런, 2026.6.11)](https://drive.google.com/file/d/19rY4idXdBoFyqqzu0ImZe45C31ETb7rC/view)
