@@ -392,6 +392,9 @@ Artificial Intelligence
   * AI가 빠른 코딩을 가능케 하나 불명확한 요구사항은 재작업과 프로젝트 지연 초래
 * [AI가 다 만드는데, 왜 자꾸 기획을 말할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3858/)
   * AI로 만드는 비용이 거의 공짜가 된 지금, 속도 경쟁을 넘어 진짜 쓸모 있는 가치를 만드는 방법—기획의 중요성을 다룸
+* [Eight Myths on Software Engineering and GenAI - ACM Queue](https://queue.acm.org/detail.cfm?id=3807963)
+  * [생성형 AI와 소프트웨어 엔지니어링에 대한 8가지 오해, 개발 생산성의 진짜 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3482)
+  * 코드 작성이 빨라져도 소프트웨어 개발 전체가 같은 비율로 빨라지지 않는다—설계·회의·코드 리뷰·테스트·레거시 이해·시스템 통합·유지보수가 모두 포함되기 때문. "GenAI가 개발자를 10배 생산적으로 만든다"거나 "AI 작성 코드 비율이 높을수록 생산성이 높다" 같은 주장이 실제 개발 환경의 복잡성을 반영하지 못하는 이유를 8가지 오해로 정리
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
@@ -1027,6 +1030,9 @@ Artificial Intelligence
     * 원본 영상→Claude Code 대화로 편집. 필러 제거, 컬러 그레이딩, 30ms 오디오 페이드, 자막 생성, Manim/Remotion 애니메이션 오버레이, 자체 품질 검증. project.md 세션 메모리
 * [Building AI Agents](https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic)
 * [buzz: A workspace where humans and agents build together, on a relay you own](https://github.com/block/buzz)
+  * [Buzz](https://buzz.xyz/)
+  * [요즘 가장 핫한 AI툴 Buzz, 클로드코드·코덱스를 한 팀으로 쓰는 법! - YouTube](https://www.youtube.com/watch?v=3RApTxBeE7E)
+    * Citizen Developer 9c. Claude Code·Codex 결과와 피드백이 툴마다 흩어져 판단 근거를 되짚기 어려운 문제를 Buzz로 해결—한 채널·한 스레드에 모으는 방법. Slack과의 차이, 방과 모델 실행 위치 구분, 커뮤니티 생성, 에이전트 설정
   * Block(구 Square)의 인간+에이전트 협업 워크스페이스. 직접 소유하는 relay 위에서 동작. Rust, Apache-2.0, 20k stars
 * [ByteRover: Local-first AI context engineering for coding agents](https://docs.byterover.dev/)
   * 로컬 우선 AI 컨텍스트 엔지니어링. 클라우드 계정 불필요, 자체 LLM 사용 가능
@@ -6468,6 +6474,10 @@ Artificial Intelligence
 * [Walnut — The open-source home for all your Claude Code](https://openwalnut.dev/)
   * [open-walnut: Personal AI butler powered by Claude — task management, Claude Code sessions, memory system, and web UI. Self-hosted, local-first, open source](https://github.com/EvanZhang008/open-walnut)
   * 로컬·원격 서버의 Claude Code 세션을 단일 콘솔에서 관리하는 셀프호스팅 웹 인터페이스 an open-source web UI for Claude Code. 실시간 도구 호출 스트리밍, GitHub 스타일 코드 리뷰, 태스크 관리, 로컬 노트 저장. 모든 데이터를 자체 인프라에 보관
+* [Warp — The open platform for automating development](https://www.warp.dev/)
+  * [Introducing the Warp Agent CLI: a CLI coding agent that does what others can't | Warp](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent)
+  * [Warp Agent CLI 핵심 기능과 특징: 터미널에서 활용하는 다중 모델 코딩 에이전트 | digitalbourgeois](https://digitalbourgeois.tistory.com/3483)
+  * Warp Terminal의 다중 모델 코딩 에이전트를 독립형 CLI로 분리—Ghostty·iTerm 2·VS Code·Windows/Mac 기본 터미널 등 어디서나 실행. 터미널과 에이전트 사이 멀티플렉싱 구조로 셸 상태 유지·여러 저장소·원격 환경 전환에 대응, 터미널 중심 워크플로에 강점
 * [Windsurf (formerly Codeium) - The most powerful AI Code Editor](https://windsurf.com/)
   * [Windsurf 사용 가이드](https://tech.hyperithm.com/windsurf_guides) 간단하게 MCP 안내까지 포함
   * [요즘 난리난 Windsurf! 핵심 기능만 알려드림. - YouTube](https://www.youtube.com/watch?v=oYFNenUXSG4)
