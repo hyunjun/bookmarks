@@ -7649,6 +7649,7 @@ Programming
   * [7월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/07/b-7-3.html)
   * [7월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/07/b-7-4.html)
   * [7월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2026/08/b-7-5.html)
+  * [8월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2026/08/b-8-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -9114,6 +9115,8 @@ Programming
 * [Requirements Modeling Language](https://argondigital.com/requirements-modeling-language/) RML
 * [Shape Up: Stop Running in Circles and Ship Work that Matters | Basecamp](https://basecamp.com/shapeup)
   * [Shape Up : 한국어 요약. by 서형일, 와이즐리 웹 프로덕트 팀 리더 | by 느린 저울 | Medium](https://medium.com/@slow_scale/shape-up-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9A%94%EC%95%BD-e6436f6eba8a)
+  * [Vibe Up — 바이브 코딩 시대의 Shape Up](https://vibeup.roboco.io/ko/)
+    * 구현 비용이 0에 수렴할 때 셰이핑·애피타이트·사이클이 어떻게 다시 쓰이는가—Basecamp의 Shape Up을 바이브 코딩 시대에 맞춰 재해석
 
 # TDD, Test
 * book
