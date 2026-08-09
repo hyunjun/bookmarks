@@ -81,6 +81,11 @@ Robot
 * [Aero Hand Open: low-cost, open-source, lightweight, anthropomorphic dexterous hand](https://tetheria.github.io/aero-hand-open/)
   * [aero-hand-open](https://github.com/TetherIA/aero-hand-open)
   * $314/400g 미만의 오픈소스 로봇 손. 16관절 7모터 텐던 구동, 완벽한 백드라이브, 위치/토크/텐던력 센싱. 아이폰 집기~18kg 물통 들기까지 가능, 100만 사이클 신뢰성 검증
+* [ai_sapiens: Open Humanoid AI Sapiens | ROBOTIS](https://github.com/ROBOTIS-GIT/ai_sapiens)
+  * [AI Sapiens Documentation | ROBOTIS](https://docs.robotis.com/docs/systems/aisapiens/introduction/)
+  * [Open Humanoid ROBOTIS AI Sapiens #5: Runs Along the Hangang River - YouTube](https://youtu.be/rSsL4E2MwoI)
+  * [AI Sapiens 한강변 Sim2Real 러닝 테스트 | Facebook](https://www.facebook.com/watch/?v=1045094528168446)
+  * ROBOTIS의 오픈 휴머노이드 프로젝트. 개발 환경과 소스코드를 모두 오픈소스로 공개. 38도 폭염의 서울 한강변에서 불규칙한 야외 노면을 달린 Sim2Real 러닝 테스트 현장 영상. C++, Apache-2.0
 * [autoware: Autoware - the world's leading open-source software project for autonomous driving](https://github.com/autowarefoundation/autoware)
   * 자율주행 오픈소스 소프트웨어 프로젝트
 * [dimos: Agentic operating system for physical space — program humanoids, quadrupeds, drones with natural language](https://github.com/dimensionalOS/dimos)
