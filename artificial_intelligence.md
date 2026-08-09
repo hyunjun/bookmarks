@@ -395,6 +395,9 @@ Artificial Intelligence
 * [Eight Myths on Software Engineering and GenAI - ACM Queue](https://queue.acm.org/detail.cfm?id=3807963)
   * [생성형 AI와 소프트웨어 엔지니어링에 대한 8가지 오해, 개발 생산성의 진짜 의미 | digitalbourgeois](https://digitalbourgeois.tistory.com/3482)
   * 코드 작성이 빨라져도 소프트웨어 개발 전체가 같은 비율로 빨라지지 않는다—설계·회의·코드 리뷰·테스트·레거시 이해·시스템 통합·유지보수가 모두 포함되기 때문. "GenAI가 개발자를 10배 생산적으로 만든다"거나 "AI 작성 코드 비율이 높을수록 생산성이 높다" 같은 주장이 실제 개발 환경의 복잡성을 반영하지 못하는 이유를 8가지 오해로 정리
+* ["Code was never the hard part" is an insult to all programmers — Senko Rašić](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
+  * ["코드는 결코 어려운 부분이 아니었다"는 말은 모든 프로그래머에 대한 모욕이다 | GeekNews](https://news.hada.io/topic?id=32276)
+  * 코딩을 쉬운 작업으로 치부하면 그동안 요구돼 온 기술·경험·노력과 소프트웨어가 여전히 버그투성이라는 현실을 무시하게 된다는 반론. 무엇을 만들지 결정하고 고객을 이해하는 일도 중요하지만 구현보다 본질적으로 더 어렵다고 단정할 수는 없음
 * [시속 300km를 달리는 AI 와 함께 개발한다는 것은](https://www.linkedin.com/pulse/%EC%8B%9C%EC%86%8D-300km%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-ai-%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%9C%EB%B0%9C%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-jin-hyung-park-sigrid-jin--rsfkc) 빠른 속도를 감당하려면 배포 주기와 피드백 루프가 빨라야 한다
 * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - Speaker Deck](https://speakerdeck.com/maryang/toegeun-hu-1eogi-georaedoeneun-seobiseu-mandeulgi-naega-aireul-sayonghaneun-bangbeob)
   * [퇴근 후 1억이 거래되는 서비스 만들기 | 내가 AI를 사용하는 방법 - YouTube](https://www.youtube.com/watch?v=uu1DcnHDFGo)
