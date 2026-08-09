@@ -487,6 +487,9 @@ Finance
   * [Home - Goldman Sachs Developer](https://developer.gs.com/discover/home)
   * [Goldman Sachs Has an Open Source Python Package Called GS-Quant - YouTube](https://www.youtube.com/watch?v=6PSlX7Qqd1U)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
+* [OctoBot — Crypto trading bot for automated strategies](https://www.octobot.cloud/)
+  * [OctoBot: Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies](https://github.com/Drakkar-Software/OctoBot)
+  * AI·Grid·DCA·TradingView 전략을 자동화하는 오픈소스 암호화폐 트레이딩 봇. Binance·Hyperliquid 등 15개+ 거래소 지원, 자금은 사용자가 직접 보관(non-custodial). Python, GPL-3.0, 6.3k stars
 * openbb [Investment research for everyone](https://openbb.co/)
   * [OpenBB: Investment research for everyone, everywhere](https://github.com/OpenBB-finance/OpenBB)
   * 오픈소스 투자 리서치 플랫폼. 주식, 옵션, 암호화폐, 외환, 거시경제 데이터 분석. Python 기반, 터미널 UI 및 SDK 제공
