@@ -859,6 +859,9 @@ Deep Learning
 * [Digital Insight 2023-1 파운데이션 모델의 이해와 미래 전망 | 한국지능정보사회진흥원](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=25400)
 * [숏클립 생성을 위한 하이라이트 검출 기술 개발기](https://d2.naver.com/helloworld/7136716) 행동 구간 검출(Action Localization), 영상 요약(Video Summarization), 텍스트 기반 장면 탐색(Moment Retrieval), 행동 인식(Action Recognition)
 * [KAN: Kolmogorov-Arnold Networks | Ziming Liu | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/624660)
+* [weathernext | Google DeepMind](https://github.com/google-deepmind/weathernext)
+  * [DeepMind WeatherNext, 사이클론 예측 정확도를 하루 앞당김 | GeekNews](https://news.hada.io/topic?id=32274)
+  * WeatherNext Cyclones가 경로·강도·바람 구조를 함께 예측—기존 2일 예측과 동일한 정확도를 3일 예측에서 달성해 24시간 이상 추가 대비 시간 확보. 전 지구 기상 역학과 약 5,000개 폭풍 관측 자료를 함께 학습, 전 지구 경로 모델 + 고해상도 국지 강도 모델 결합. Python, Apache-2.0
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
