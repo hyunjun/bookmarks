@@ -3666,6 +3666,9 @@ App
 * [amurex: World's first AI meeting copilot → The Invisible Companion for Work + Life](https://github.com/thepersonalaicompany/amurex)
   * AI 회의 코파일럿·개인 어시스턴트. 실시간 회의 자막·요약·후속 조치 제안, 크롬 확장 기반. 회의를 넘어 업무·생활 전반의 "보이지 않는 동반자" 지향. JavaScript
   * [Amurex - 미팅용 AI Copilot | GeekNews](https://news.hada.io/topic?id=18864)
+* [call.md: Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence](https://github.com/video-db/call.md)
+  * [call.md 문서 | VideoDB](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md)
+  * 회의를 실시간 에이전트 루프로 전환—통화 전·중·후에 걸쳐 녹음·전사·분석. MCP·에이전트 스킬 기반. TypeScript
 * [FluidVoice — Open-source offline voice-to-text for macOS](https://altic.dev/fluid)
   * [FluidVoice](https://github.com/altic-dev/FluidVoice)
   * macOS 전용 오프라인 음성→텍스트. Parakeet/Whisper/Apple Speech 모델, AI 정제, Command/Write 모드
