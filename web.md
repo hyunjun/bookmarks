@@ -1713,6 +1713,9 @@ Web
 * [tproxy: A cli tool to proxy and analyze TCP connections](https://github.com/kevwan/tproxy)
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
+* [Traefik Manager](https://traefik-manager.xyzlab.dev/)
+  * [traefik-manager: A clean, self-hosted web UI for managing your Traefik reverse proxy](https://github.com/chr0nzz/traefik-manager)
+  * Traefik 리버스 프록시의 라우트·미들웨어·서비스·프로바이더를 웹 UI로 관리·모니터링하는 셀프호스팅 도구. JavaScript, GPL-3.0
 * [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
   * [Implementing an API Gateway For Microservices With YARP](https://www.milanjovanovic.tech/blog/implementing-an-api-gateway-for-microservices-with-yarp)
 * [reverse-proxy: A toolkit for developing high-performance HTTP reverse proxy applications](https://github.com/microsoft/reverse-proxy)
