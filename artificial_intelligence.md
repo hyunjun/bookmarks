@@ -1777,6 +1777,9 @@ Artificial Intelligence
     * 실제 운영 중인 Autonomous Software Loop 구성법 공유. QA 에이전트가 새벽에 실사용자처럼 사이트를 조작해 버그를 재현·이슈 등록→다른 에이전트가 PR 생성→리뷰·머지→릴리즈 에이전트 배포→그 릴리즈가 다시 QA를 깨우는 루프. 많은 팀이 빠뜨리는 "루프 안의 자동 테스트"에 초점. 스택 Rust(Rig)+Axum·React, written by Fable 5·Solar-Open2
   * [의외로 9배 저렴한 랄프 루프 - 컨텍스트 캐싱의 경제학 :: ROBOCO](https://roboco.io/posts/vibe-coding-token-experiments)
     * 정도현(로보코). 골과 완료 조건만 주고 단일 세션에서 자율 반복시키는 랄프 루프(Ralph loop)가 계획 기반 워크플로 대비 약 9배 저렴하다는 통제 실험 결과. 비결은 루프 자체가 아니라 세션 내 컨텍스트 캐싱—세션 분할·인수인계 문서가 캐시를 깨뜨려 비용을 키운다는 분석
+  * [Loop Engineering: The Anthropic Playbook for Designing Systems That Prompt Your Agents | asixiv](https://asixiv.org/abs/curated/2606.00001)
+    * [Anthropic's internal loop engineering playbook | Business Science Facebook](https://www.facebook.com/bizScienc/posts/pfbid0RvfZ7vvhKdRXE3E8X89cjnNqJWgvy4p9JpUvxsh8YuYbyNz6tcgR6fz7w7kwyCqcl)
+    * 2026년 6월 Peter Steinberger·Boris Cherny·Addy Osmani가 각자 언급하고 Osmani가 명명한 Loop Engineering을 정의하고 하네스 위 4번째 레이어로 위치시킴. 프롬프트·컨텍스트·하네스 엔지니어링이 실무자를 더 잘하게 만드는 것과 달리 루프 엔지니어링은 실무자를 작업 수행 위치에서 아예 제거—루프 한 턴을 discovery·handoff 등 5개 move로 분해
 * [paper-curation: Automated paper curation and reviews](https://github.com/jehyunlee/paper-curation)
   * [이제현 - Paper Curation 파이프라인 | Facebook](https://www.facebook.com/jehyun.lee.9615/posts/pfbid0ZmvwqT5fZpieLnaAXDC1sRJ8ATj49SAQUW4HvyFCKRroQ4xKxDubrnNEW3jy3f6tl)
   * [Humanoid Robotics 분야 큐레이션 데모 (Cloudflare 공개 배포)](https://paper-curation.jehyunlee.dev/humanoid)
