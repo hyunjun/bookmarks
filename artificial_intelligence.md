@@ -6781,6 +6781,10 @@ Artificial Intelligence
   * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 - YouTube](https://www.youtube.com/watch?v=8ot_RtamM38)
     * [VidiGo Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한](https://vidigo.ai/share/summary/1588ae9754a7)
     * [📹🎨🤖 Dalle 3, Gen-3, 이제 그만! 무료로 이미지 생성, 비디오 제작, 편집 가능한 Viva AI 소개 (영상 안 보면 후회함) #soraai #dalle3 | 완벽한 영상요약, 릴리스에이아이 | Lilys AI](https://lilys.ai/digest/883140)
+* [Wan 3.0 guide: features, prompts, and worked examples](https://morphic.com/resources/how-to/wan-3-0-guide)
+  * [Wan 3.0 가이드: 주요 기능부터 프롬프트 작성법과 활용 예시까지 | digitalbourgeois](https://digitalbourgeois.tistory.com/3493)
+  * Alibaba Tongyi Lab의 차세대 비디오 생성 모델 Wan 3.0(데모 단계) 가이드. 약 30초 롱테이크, Native 1080p, 영상·오디오 동시 생성, Reference-to-Video 기반 캐릭터/제품 일관성 유지 등 예상 기능 소개
+  * SPACE 프레임워크(Subject, Performance, Ambience, Camera, Extra cues) 기반 프롬프트 작성법과 약한 vs 강한 프롬프트 예시, 흔한 실수(정지 이미지처럼 묘사, 레퍼런스 라벨 미지정 등) 회피 팁 제공
 * [Wonder Dynamics, an Autodesk Company](https://www.autodesk.com/solutions/wonder-dynamics)
   * [Autodesk, 애니메이션 영화를 위한 AI도구 Wonder Animation 베타 버전 | GeekNews](https://news.hada.io/topic?id=17532)
 
