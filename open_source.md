@@ -179,6 +179,9 @@ Open Source
 * [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
   * [Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모 | GeekNews](https://news.hada.io/topic?id=28340)
   * CI/CD 보안(GitHub Actions 해시 고정·최소 권한), Trusted Publishing+Sigstore 증명, 이중 승인 릴리즈, 의존성 쿨다운 정책. 수백만 개발자 사용 도구의 공급망 보안 전모
+* [오픈소스 개발과 오픈소스 보안 위협 | 강대명 (Google Slides)](https://docs.google.com/presentation/d/13Q5qGQDI_GXzPs41We5pjaBAy7c01k2TP7p0svY3yos/edit)
+  * 래블업 강대명(리눅스 커널·Valkey/Redis·Postgres 컨트리뷰터)의 발표. AI 발전이 오픈소스 보안에 미치는 위협—오픈소스 취약점이 더 위험한 이유와 구조적 비대칭성, False/True Positive 증가로 인한 압도적 작업량, 소규모 프로젝트의 취약성
+  * AI 필터는 우선순위 정렬 도구일 뿐, 최종 판단은 결국 "사람의 몫"이라는 결론
 * [SDV: 오픈소스, 여전히 남아 있는 거버넌스 질문 - 오토모티브일렉트로닉스 매거진](https://www.autoelectronics.co.kr/article/articleView.asp?idx=6804)
   * Google Android Automotive OS SDV 발표 사례로 본 SDV 시대 오픈소스 전략의 한계. 코드 공개 여부보다 거버넌스 구조가 중요—멀티벤더 생태계의 지속가능성은 단일 벤더 지배가 아닌 벤더 중립성·공유 통제에 달림. 자동차 SW가 핵심 인프라화될수록 운영 원칙·책임 구조가 결정적
 
