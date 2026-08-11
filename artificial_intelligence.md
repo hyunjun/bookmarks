@@ -2389,6 +2389,10 @@ Artificial Intelligence
     * [Build with Muse Spark, now available on Meta Model API | Meta Developer](https://developer.meta.com/ai/resources/blog/build-with-muse-spark/)
     * [Meta Muse Spark 1.1 공개, 멀티모달 추론과 에이전트 AI를 한 단계 발전 | digitalbourgeois](https://digitalbourgeois.tistory.com/3360)
     * Muse Spark 1.1 + Meta Model API 퍼블릭 프리뷰 출시. 도구 사용·코딩·컴퓨터 조작 강화, 최대 100만 토큰 컨텍스트, 시각 이해·자율 태스크 계획 결합. 개발자가 API로 직접 빌드 가능
+  * [Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device | Meta AI Research](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+    * [Muse Glimmer 공개, 단일 소비자 GPU에서 구동하는 300억 파라미터 로컬 에이전트 모델 | digitalbourgeois](https://digitalbourgeois.tistory.com/3507)
+    * Meta Superintelligence Labs의 30B 오픈 웨이트(Apache 2.0) 에이전틱 모델. Muse Spark(교사 모델) 증류로 훈련, 도구 사용·다단계 추론·오류 복구·멀티모달·100+ 언어 지원. Hugging Face 공개
+    * 4비트 양자화로 20GB 미만, DFlash 추측 디코딩으로 RTX 5090에서 최대 3.1배 가속—단일 소비자 GPU·Mac에서 클라우드 없이 로컬 에이전트 실행. DeepSearch QA·MCP-Atlas·𝛕-Bench·SWE-Bench에서 Gemma4-31B·Qwen3.6-27B 대비 우위 주장
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -6382,6 +6386,8 @@ Artificial Intelligence
   * Mentor가 계획, Executor가 구현, Mentor가 리뷰하는 AI 에이전트 듀얼 워크플로우
 * [Paseo — One interface for all your coding agents](https://paseo.sh/)
   * [paseo](https://github.com/getpaseo/paseo)
+  * [여러 AI 코딩 에이전트를 하나로 관리하는 Paseo, 로컬 개발 환경에서 활용하는 방법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3498)
+    * 로컬 daemon 중심으로 데스크톱·모바일·웹·CLI 클라이언트 연결 구조와 병렬 에이전트 실행, 음성 제어, Docker 배포, Skills(handoff/loop/advisor/committee) 기반 에이전트 간 작업 조율 활용법 정리
   * [I was wrong about Electron | Mo Boudra, Paseo Blog](https://paseo.sh/blog/i-was-wrong-about-electron)
     * [Goos Kim - 요즘 Orca vs Paseo가 또 불이 붙었는데… | 모두의AI Facebook](https://www.facebook.com/groups/426073703607223?multi_permalinks=1039820072232580)
     * Paseo를 Tauri에서 Electron으로 이전한 회고. 작은 바이너리·낮은 메모리라는 Tauri의 장점("쿨한 선택"이라는 인식 포함)보다 렌더링 일관성·알림·Node 데몬 번들링이 더 중요해진 지점. macOS·Windows(WebView2)는 문제없었지만 웹뷰를 번들하지 않는 Linux에서 문제가 커짐
@@ -6615,6 +6621,8 @@ Artificial Intelligence
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
 * [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
 * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
+* [learnstead: 주제별 핵심 개념 이해부터 직접 실행까지 다루는 가이드·튜토리얼·실습 모음](https://github.com/kyungseo/learnstead)
+  * 한국어 학습 자료 저장소. 가이드·튜토리얼·실습 3가지 유형, 현재 로컬 LLM 실행 가이드(Ollama, 오픈 웨이트 모델) 공개. 검증 기록과 성공/실패 판정 기준을 함께 담는 것이 특징. Apache-2.0
 
 # Vector DB
 * [나만의 GPT 만들기, Embedding](https://sudormrf.run/2023/06/06/owngpt/)
