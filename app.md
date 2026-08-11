@@ -2981,6 +2981,9 @@ App
     * 셀프호스팅 가능한 E2EE Obsidian 동기화 플러그인. AES-256-GCM 로컬 암호화+Argon2id 키 파생, 서버는 암호화 blob만 저장. Obsidian 실행/포커스 시 자동 동기화, 0.5초 내 반영. 이미지·오디오·비디오·PDF 개별 토글, 충돌 해결·버전 히스토리. Docker 셀프호스팅(MinIO+Postgres+API), Presigned URL 방식. MIT
   * [PKM Project - RAG - Google Slides](https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?slide=id.p#slide=id.p)
     * [Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain - YouTube](https://www.youtube.com/watch?v=aM7Ensrqurs)
+  * [Recall: A flexible and configurable spaced repetition plugin](https://community.obsidian.md/plugins/obsidian-recall)
+    * [obsidian-recall](https://github.com/martin-jw/obsidian-recall)
+    * 간격 반복(spaced repetition) 학습 플러그인. Anki·SM2·Leitner 알고리즘 선택 지원, 파일을 수정하지 않고 노트를 추적·복습. MIT
   * [Relay - Team collaboration in Obsidian](https://relay.md/)
   * smart composer
     * ["이거 쓰면 못 돌아가요" 옵시디안, 단순 메모 앱이 아닌 이유 (Feat. AI, 자동화, 무한 확장) - YouTube](https://www.youtube.com/watch?v=UHXoA4G6GEc)
