@@ -2503,6 +2503,9 @@ Artificial Intelligence
   * [NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity! - YouTube](https://www.youtube.com/watch?v=ButAp5rF69E)
     * [새로운 MCP 툴킷: AI 코딩 생산성을 10배 높이는 궁극의 MCP 설정!](https://livewiki.com/ko/content/mcp-toolkit-ai-productivity)
   * [Anthropic, MCP를 Linux Foundation에 기증 | GeekNews](https://news.hada.io/topic?id=24953)
+  * [MCP 새로운 스펙 총정리: 무엇을 결정하고 바꿔야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/3893)
+    * 조훈(CNCF·AAIF 앰버서더). 2026년 7월 28일 확정된 MCP 스펙 대규모 개정을 6가지로 해설—스테이트리스 코어 전환(세션 기반 구조 제거, 매 요청 독립 처리), 통신 방식 변경, 인프라 친화적 개선, 인증·보안 강화, 확장 프레임워크, 기능 정리
+    * MCP 사용자·서버 개발자·운영팀 등 유형별 준비 사항 가이드
   * [AI 코딩, 이제 디버깅까지 알아서 한다?! Inngest MCP 혁신! - YouTube](https://www.youtube.com/watch?v=WOMrDAdA2Yg)
     * [AI 코딩, 이제 Inngest MCP로 디버깅까지 자동화하다!](https://livewiki.com/ko/content/ai-coding-inngest-mcp-debugging)
     * [Model Context Protocol (MCP) Integration - Inngest Documentation](https://www.inngest.com/docs/ai-dev-tools/mcp)
