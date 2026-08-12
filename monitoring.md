@@ -55,6 +55,8 @@ Monitoring
 * [기고 “인공지능 알고리즘의 잠재력을 결정하는 것은 측정에서 시작됩니다” < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=26454)
 * [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 * [스마트폰 알림 끄고 상사에게 칭찬 받는 법 - YouTube](https://www.youtube.com/watch?v=hb6Us_evNG8) 재미있는(?) alert
+* [모니터링 구글이 알려준 꼭 봐야할 지표 4가지 | 멤버십 영상 - YouTube](https://www.youtube.com/watch?v=PcmxhM5YoN4)
+  * 코딩하는기술사. 구글(SRE)이 제시하는 모니터링 핵심 지표 4가지를 아키텍트 관점에서 해설하는 멤버십 영상
 * [네이버 검색 SRE 1편 - 차세대 검색 모니터링 시스템을 향한 여정](https://d2.naver.com/helloworld/5799075)
 * [네이버 검색 SRE 2편 - 측정하지 않으면 개선할 수 없다! SRE KPI 개발기](https://d2.naver.com/helloworld/9231267)
 * [DevOps LGTM 스택 도입기. 안녕하세요. 핀다 DevOps 팀의 김명석입니다. | by 김명석 | FINDA 기술블로그 | Jul, 2023 | Medium](https://medium.com/finda-tech/lgtm-%EC%8A%A4%ED%83%9D-%EB%8F%84%EC%9E%85%EA%B8%B0-aeb1424b8299)
