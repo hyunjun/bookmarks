@@ -383,6 +383,10 @@ Artificial Intelligence
   * 정도현(로보코). 코드는 쌓이는데 이해는 쌓이지 않는 격차가 "인지부채". MIT Media Lab EEG 연구(LLM 사용 그룹의 뇌 연결성·소유감 저하), GitClear 2억 라인 분석(복붙 증가·리팩터링 반감)으로 뒷받침. human-in-the-loop는 사람이 병목·형식적 승인이 되어 실패(Bainbridge의 자동화 아이러니). 산출물 속도가 아니라 이해·정리를 부채로 관리해야 한다는 관점
 * [OpenAI 연구원이 공개한 프롬프트 한 줄 - YouTube](https://www.youtube.com/watch?v=xyTPUdJhxLM)
   * 미드나잇 로그. 고교 중퇴 후 ChatGPT로 독학해 OpenAI 연구원이 된 사람의 학습법—AI에게 "대신 해줘"가 아니라 "가르쳐줘"로 묻고, 코드는 한 줄 한 줄 다 읽기. 지식은 더 이상 병목이 아니며(기초는 AI가 제공), "12살한테 설명하듯" 프롬프트로 기초를 빠르게 이해
+* [How I use LLMs to learn complex topics | Laurentiu Raducu](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+  * [LLM으로 복잡한 기술을 배우는 새로운 방법, 시각적 시뮬레이션 학습법 | digitalbourgeois](https://digitalbourgeois.tistory.com/3516)
+  * LLM의 텍스트 설명 대신 인터랙티브 게임형 시뮬레이션을 만들어 학습—플랜 모드(Claude Code/OpenCode)에서 지식 베이스 구축→정확성 자기 검토→롤러코스터 타이쿤 스타일 로우폴리 시뮬레이션 제작→GitHub Pages 배포
+  * 칩 제조 과정을 배우는 "ChipTycoon" 제작 사례, 로켓 엔진·LLM 작동 원리·F1 엔진·EUV 장비로 확장. 목표는 정신 모형(mental model)과 직관 형성—단 AI 자기 검토만으론 정확성이 보장되지 않아 직접 자료 검증 필요
 * [AI 시대의 개발자 문서는 어떠해야 하는가 (feat. 공공 API 유감)](https://www.stdy.blog/developer-docs-for-ai-area/)
 * [AI 주도 개발 시대, “기획”에 주목해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/3429/)
   * [매니패스트 | AI 기획 에디터](https://manyfast.io/blog/ai-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%8B%9C%EB%8C%80-%EA%B8%B0%ED%9A%8D-%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
