@@ -3132,6 +3132,9 @@ Artificial Intelligence
   * [AI는 아직 수익성이 있는가? | GeekNews](https://news.hada.io/topic?id=29816)
   * 2026.5 기준 누적 지출 1.4조 달러 vs 누적 매출 6,130억 달러—산업 전체 적자. 빅테크 모두 적자: Amazon -$291B/Alphabet -$262B/Microsoft -$235B/Meta -$227B. AI 연구소 모두 적자: OpenAI -$27B/Anthropic -$26.5B/xAI -$19.2B. 유일한 흑자는 Nvidia +$253B. 한계: SEC 공시·유출 자료 기반 비감사 추정, Google→Anthropic→Google Cloud 같은 순환 투자 중복 계산 가능. 댓글 논점—컴퓨트 크레딧·지분 교환 "셸 게임", 추론 마진은 양호·학습 비용 비중 감소 반론, AI 인프라 지출이 미국 주간고속도로 건설비 3배
 * sovereign [쿼바디스, 한국 AI 임문영 “한국형 AI는 소버린 AI가 아니다” – 바이라인네트워크](https://byline.network/2025/07/15-ai/)
+* [한영자막 당신만의 AI 스택을 소유하세요 - YouTube](https://www.youtube.com/watch?v=idS9XwpdGdU)
+  * Tech Bridge. Sequoia Capital 파트너 Sonya Huang의 'Own Your Intelligence' 키노트. 소버린 AI는 폐쇄형 API를 버리라는 게 아니라 비용·속도·성능·주도권 4가지 이유로 인텔리전스 일부를 직접 소유하는 흐름—"가중치가 없으면 제품도 없다"
+  * 무엇을 소유하고 무엇을 빌릴지 판단하는 프레임워크(비용/속도/성능/독점 데이터)와 자체 AI 구축 4단계(전략→팀 구성→가시성→기술 로드맵). 2026년 오픈 웨이트 모델이 특정 도메인에서 폐쇄형 성능을 넘어서는 시점
 * [How AI Companies Will Build Real Defensibility](https://www.nfx.com/post/ai-defensibility)
   * [AI 기업의 실질적인 방어력 구축 전략 | GeekNews](https://news.hada.io/topic?id=22126)
 * [제8회 데보션(DEVOCEAN) 테크 데이 - 05. AI Without Limits: From Alternative Compute to Green Hyperscaler - YouTube](https://www.youtube.com/watch?v=eIGuDhZXyUs)
