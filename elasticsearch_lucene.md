@@ -937,6 +937,9 @@ ElasticSearch - Lucene
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
   * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
 * [검색 데이터 서빙 플랫폼 구축](https://zuminternet.github.io/SearchPilotProject)
+* [How to Search Through 800 Billion Records in Real Time PyCon DE & PyData 2026 - YouTube](https://www.youtube.com/watch?v=t0ZWNh-UXDs)
+  * ReversingLabs(위협 분석)의 1조 레코드 실시간 검색 파이프라인. ClickHouse 일배치 집계는 36시간 지연—ScyllaDB(file hash+feature type 키의 source of truth)+Kafka로 전환, Python 컨슈머가 hash별 전체 데이터를 조회해 Solr 문서 생성
+  * Solr가 중복 업데이트에 압도되지 않도록 Python dict(삽입 순서 보존) 기반 TTL 중복제거 버퍼 구현—FIFO 큐처럼 사용, 만료 시 eviction 콜백으로 처리
 * [solrpy - solr with python3](https://github.com/search5/solrpy3)
 
 # Tutorial
